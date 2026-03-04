@@ -1,0 +1,3 @@
+[submodule "the_theoretical_minimum"]
+	path = the_theoretical_minimum
+	url = git@github.com:lachlanchen/the_theoretical_minimum.git
