@@ -1,0 +1,373 @@
+% !TeX program = lualatex
+\documentclass[]{article}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{url}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{tocloft}
+\usepackage{cancel}
+\usepackage{thmtools}
+\usepackage{gensymb}
+\usepackage{braket}
+\usepackage[compat=1.1.0]{tikz-feynman}
+\usepackage{tikz}
+\usepackage{pgfplots}
+\usepackage{mathtools}
+\usepackage{color}
+\usepackage{colortbl}
+\usepackage[toc,nonumberlist]{glossaries}
+\usepackage{glossaries-extra}
+\newcommand\numberthis{\addtocounter{equation}{1}\tag{\theequation}}
+
+\newtheorem{thm}{Theorem}
+\newtheorem{defn}[thm]{Definition}
+\newtheorem{cor}[thm]{Corollary}
+\newtheorem{lemma}[thm]{Lemma}
+\graphicspath{{figs/}}
+\widowpenalty10000
+\clubpenalty10000
+\setcounter{tocdepth}{2}
+
+%opening
+\title{Demystifying the Higgs Boson}
+\author{Simon Crase (compiler)\\simon@greenweaves.nz}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+These are my notes for \emph{Demystifying the Higgs Boson}  from Leonard Susskind's \emph{Theoretical Minimum} series \cite[Demystifying the Higgs Boson]{susskind2007theoretical}.
+
+\begin{quotation}
+	Professor Susskind presents an explanation of what the Higgs mechanism is, and what it means to ''give mass to particles''. He also explains what's at stake for the future of physics and cosmology.
+\end{quotation}
+
+Disclaimer: I have created these notes as an aide-m\'emoire for my own use; if you find them useful, you are welcome, but I'd appreciate hearing from you. They are not intended as a substitute for listening to the lectures. The intellectual property for all material derived from the lectures belongs, of course, to Professor Susskind; any mistakes, however, are my own.
+
+
+\end{abstract}
+
+\tableofcontents
+\listoffigures
+\listoftables
+\listoftheorems
+
+\section{Demystifying the Higgs Boson}
+
+The  Brout-Englert-Higgs mechanism was postulated by Robert Brout, Fran\c{c}ois Englert, and Peter Higgs. It has many moving parts, and it cannot be understood without quantum mechanics.
+
+\section{Condensates, or spontaneous breaking of Symmetry}
+
+Things are quantized: they come in discrete steps. The most famous example is angular momentum, which comes in units of $\hbar$.
+
+The other important idea is that of a field: whatever fills apace and characterizes the behaviour of things. Imagine a field that fills empty space, e.g. a giant capacitor generating an electric field. Fields cost energy, as in Figure \ref{fig:higgs-fields-cost-energy}. If we make fields vibrate, vibrations are quantized--particles. The system likes to stay at potential minimum.
+
+\begin{figure}[H]
+	\begin{center}
+		\caption[Fields cost energy]{Fields cost energy: space without a field has zero energy; with an electrical field we have energy. If we give it a push it vibrates. The vibrations are quantized, and the quanta are particles. }\label{fig:higgs-fields-cost-energy}
+		\begin{tikzpicture}[scale=0.5]
+			\draw[] (-2.5,0) -- (2.5,0) node[right] {};
+			\draw[] (0,-0.5) -- (0,6.5) node[above] {$E$};
+			\draw[scale=1.0, domain=-2.5:2.5, smooth, variable=\x] plot ({\x}, {\x*\x});
+		\end{tikzpicture}
+	\end{center}
+\end{figure}
+
+Figure \ref{fig:2-appendix-field-circle} depicts a circular orbit in ''Field Space''. The field looks like angular momentum, so should be quantized. In the modern view,  a charged particle as an excitation of the field: it is made to spin around in field space.
+
+\begin{figure}[H]
+	\begin{center}
+		\caption[Imagine a situation with 2 fields, $\phi$ and $\phi^{\prime}$, say.]{Imagine a situation with 2 fields, $\phi$ and $\phi^{\prime}$, say. Here is a circular orbit in ''Field Space''. The field will most likely sit at the bottom of the energy surface, or oscillate around the minimum. Maybe it will rotate around the circle: this is not angular momentum, but it is analogous. Electric charge is a excitation of the spinning field.}\label{fig:2-appendix-field-circle}
+		\includegraphics[width=0.8\textwidth]{2-appendix-field-circle}
+	\end{center}
+\end{figure}
+
+Figure \ref{fig:mexican-hat} shows a different potential, with an unstable equilibrium at the origin. This is like a world where the vacuum has a non-zero field. The minimum is a circle centred on the origin: unlike Figure \ref{fig:2-appendix-field-circle}, we can set a particle vibrating without expending any energy. If rotation corresponds to charge, we can get a charge without expending energy: that phenomenon is called a ''spontaneous symmetry breaking'', and also a ''condensate''.
+\begin{figure}[H]
+	\begin{center}
+		\caption[Mexican Hat potential]{Mexican Hat potential, with an unstable equilibrium at the origin.  The minimum is a circle centred on the origin: we can set a particle vibrating without expending any energy.}\label{fig:mexican-hat}
+		\includegraphics[width=0.6\textwidth]{mexican-hat}
+	\end{center}
+\end{figure}
+
+The true lowest energy should be a stationary state on circle, to avoid kinetic energy. But the uncertainty principle prohibits standing still with zero momentum: if we know that the field is zero, we don't know the velocity. The vacuum must be filled with an uncertain amount of charge.  We can't have empty space with no charge in it.
+
+If this were true with electric charge, there would be an equal probability of the charge at a point being -2, -1, 0, 1, 2, 3...
+
+Now imagine that we throw in an extra charge, which displaces vacuum charge by one unit. Charge is uncertain, and we don't notice that we've added or subtracted one! This is part of the weirdness of condensates.
+
+While this isn't true for empty space in the real world, it is exactly what we see with a superconductor!
+
+\section{The Standard Model}
+
+Particles have mass: maximum is Planck Mass - anything heavier would form a black hole--Figure \ref{fig:higgs-masses}. Largest known particle is $\approxeq 10^{-17}$ Planck mass: why so light? To detect a really huge particle we need a humongous accelerator. Maybe there are heavier particles?
+
+\begin{figure}[H]
+	\begin{center}
+		\caption[All known particles are clustered around left of this plot]{All known particles are clustered around left of this plot--so close to zero that we cannot resolve them. For example,  $m_p=1.2209\times10^{19}  GeV\;c^{-2}$, and the mass of the top quark is $173 GeV\;c^{-2}$}\label{fig:higgs-masses}
+		\begin{tikzpicture}
+			\draw[black, thick] (-4,0) -- (4,0);
+			\filldraw[black] (-4,0) circle (2pt) node[anchor=east]{0};
+			\filldraw[black] (4,0) circle (2pt) node[anchor=west]{$m_p$ (Planck mass)};
+		\end{tikzpicture}
+	\end{center}
+\end{figure}
+
+
+\begin{table}[H]
+	\begin{center}
+		\caption[Particles of The Standard Model]{Particles of The Standard Model. The Fermions make up matter as we know it. The Higgs has been omitted from the list of Bosons.}\label{table:standard-model}
+		\begin{tabular}{|l|l|} \hline
+			Fermions & Bosons\\ \hline
+			$e$ $\nu$&$\gamma$\\
+			$q$&$g$\\
+			&$W-Boson$\\
+			&$Z-Boson$\\ \hline
+		\end{tabular}
+	\end{center}
+\end{table}
+
+Without the Higgs Boson, the particles in Table \ref{table:standard-model} should all be \emph{massless} (see below). In part this explains why masses so small. Figure \ref{fig:sm:processes} depicts some processes from the Standard Model, which are relevant to this Lecture.
+
+
+
+\begin{figure}[H]
+	\caption{Some processes from the Standard Model (not exhaustive)}\label{fig:sm:processes}
+	\begin{subfigure}[t]{0.3\textwidth}
+		\caption{Charged Fermion emits photon}
+		\feynmandiagram [vertical=o1 to i1] {
+			i1 -- [fermion] a -- [fermion] o1,
+			a -- [photon] b [particle=\(\gamma\)],
+			b--[opacity=0.0]o1,
+		};
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[t]{0.3\textwidth}
+		\caption{Quark emits gluon}
+		\feynmandiagram [vertical=o1 to i1] {
+			i1 [particle=\(q\)] -- [fermion] a -- [fermion] o1,
+			a -- [gluon] b [particle=\(g\)],
+			b--[opacity=0.0]o1,
+		};
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[t]{0.3\textwidth}
+		\caption{Fermion (including neutrino) emits Z-boson}
+		\feynmandiagram [vertical=o1 to i1] {
+			i1 [particle=\(e\,\nu\)] -- [fermion] a -- [fermion] o1,
+			a -- [boson] b [particle=\(Z\)],
+			b--[opacity=0.0]o1,
+		};
+	\end{subfigure}
+\end{figure} 
+
+We know why the photon is massless: it travels at the speed of light. So we have a theory to account for the mass of the photon being zero, but it would leave the gluon and Z with zero mass also.
+
+How might fields make different masses for different particles? Figure \ref{fig:2-a2-water-molecule} depicts an analogy, the water molecule. Notice that the mass does not depend on its orientation, because of the symmetry of space. Think of water molecules as particles, $up$ and $down$. In Figure \ref{fig:2-a2-water-molecule-in-field}, switching on the electric field makes the left hand molecules have less energy relative to right hand. We can think of them being two different molecules, ''water'', say, and ''scotch''. Since $E=mc^2$, they have different mass. Field exerts no nett force, but affects mass.  
+
+\begin{figure}[H]
+	\begin{center}
+		\caption{Analogy: the water molecule and its mass}\label{fig:2-a2-water-molecule}
+		\begin{subfigure}[t]{0.4\textwidth}
+			\caption{Independent of orientation}
+			\includegraphics[width=0.9\textwidth]{2-a2-water-molecule}
+		\end{subfigure}
+		\begin{subfigure}[t]{0.4\textwidth}
+			\caption{Depends on orientation relative to field}\label{fig:2-a2-water-molecule-in-field}
+			\includegraphics[width=0.9\textwidth]{2-a2-water-molecule-in-field}
+		\end{subfigure}
+
+	\end{center}
+\end{figure}
+
+\begin{figure}[h]
+	\begin{center}
+		\caption[Water molecule moving through condensate.]{Water molecule moving through condensate. Cross indicates that emitted photon is lost in condensate.}\label{fig:2-a2-water-molecule-in-condensate}
+		\includegraphics[width=0.8\textwidth]{2-a2-water-molecule-in-condensate}
+	\end{center}
+\end{figure}
+
+Many printed accounts compare field to molasses. But field doesn't slow particles down! 
+
+Figure \ref{fig:2-a2-water-molecule-in-condensate} depicts the field as a condensate of Bosons, with water molecule moving through it. As molecule moves it is emitting and absorbing photons that are lost in condensate.
+
+\begin{defn}[condensate]
+	An indefinite number of particles. In a condensate it doesn't matter whether you put in a particle or take one out.
+\end{defn}
+
+Is there any reason why a particle needs the Higgs phenomenon to have a  mass? Figure \ref{fig:2-a2-box-of-radiation} depicts a massless, perfectly reflective box of radiation. Since $E=mc^2$, this box acquires mass. Figure \ref{fig:2-a2-box-of-gluons} depicts the proton as a box of quarks and gluons. Even if the quarks and gluons were massless, the proton would lose only about 1\% of its mass; the rest comes from the kinetic energy of its contents. Protons and black holes don't need the Higgs mechanism. We will concentrate on electrons.
+
+\begin{figure}[H]
+	\caption{How to get a mass}
+	\begin{subfigure}[t]{0.45\textwidth}
+		\caption{A massless, perfectly reflective box of radiation}\label{fig:2-a2-box-of-radiation}
+		\includegraphics[width=0.9\textwidth]{2-a2-box-of-radiation}
+	\end{subfigure}
+	\begin{subfigure}[t]{0.45\textwidth}
+		\caption{The proton: a box of quarks and gluons}\label{fig:2-a2-box-of-gluons}
+		\includegraphics[width=0.9\textwidth]{2-a2-box-of-gluons}
+	\end{subfigure}
+\end{figure}
+
+\section{The Dirac Electron}
+
+There are two kinds of electrons, right handed and left handed. They can flip, but not if they were traveling at the speed of light (time infinitely slow); in the Dirac theory, mass is the rate at which handedness flips. See Figure \ref{fig:2-a3-flipping-electron}. Figure \ref{fig:2-a3-Z-boson} depicts the Z boson, which can be emitted by electrons or neutrinos. The coupling isn't charge--it is called ''weak hypercharge'', or, as Prof Susskind says, ''zilch''. Zilch is like electric charge, but it isn't electric charge. When a particle with zilch accelerates, it emits a Z-boson.
+
+\begin{figure}[H]
+	\caption{Electron flipping between left and right}
+	\begin{subfigure}[t]{0.65\textwidth}
+		\caption{The faster the electron travels, the slower it flips. Probability of jumping is measure of mass}\label{fig:2-a3-flipping-electron}
+		\includegraphics[width=0.9\textwidth]{2-a3-flipping-electron}
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[t]{0.3\textwidth}
+		\caption{Electron emitting Z-boson. }\label{fig:2-a3-Z-boson}
+		\feynmandiagram [vertical=o1 to i1] {
+			i1 -- [fermion] a -- [fermion] o1,
+			a -- [photon] b [particle=\(Z\)],
+			b--[opacity=0.0]o1,
+		};
+	\end{subfigure}	
+\end{figure} 
+
+
+Left-handed and right-handed electrons have the same charge but different zilch: LH +1, RH 0. So zilch changes as electron changes from left to right, which is impossible since it is conserved. \emph{So the standard model electron has zero mass.}
+
+We get around this by introducing the Ziggs boson. This is related to the Mexican Hat, Figure \ref{fig:mexican-hat}, and forms a condensate. It has zilch. Figure \ref{fig:2-a3-zilch} shows an electron exchanging zilch with the condensate via Ziggs bosons. This is the mechanism by which electrons, quarks, and their partners get their mass.
+
+\begin{figure}[H]
+	\caption{Spontaneous breaking of chiral symmetry}
+	\begin{subfigure}[t]{0.4\textwidth}
+		\caption{Electron exchanging zilch with the condensate via Ziggs bosons}\label{fig:2-a3-zilch}
+		\includegraphics[width=\textwidth]{2-a3-zilch}
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[t]{0.4\textwidth}
+		\caption{Z-boson becoming a Ziggs by absorbing zilch from the condensate, and then re-emitting it.}\label{fig:2-a3-zilch-Z}
+		\feynmandiagram[layered layout,horizontal= o1 to in1]{
+			in1--[boson]a--b--[boson]o1,
+			in2[particle=\(X\)]--a,
+			b--o2[particle=\(X\)],
+			in2--[opacity=0.0]o2,
+		};
+	\end{subfigure}
+\end{figure}
+
+\section{The Z boson}
+
+How does the Z boson get a mass?
+
+Figure \ref{fig:2-a3-zilch-Z} shows a Z-boson exchanging zilch with the condensate; it oscillates between Z and Ziggs, thereby getting mass. This is known as the Brout-Englert-Higgs phenomenon.
+
+If there were a condensate of electric charge, the photon would have mass, which would be Very Bad.
+
+The Ziggs was discovered in 1980: it is a part of the Z-boson.
+
+\section{The Higgs}
+
+So what is the Higgs? There are two ways to think of it.
+\begin{itemize}
+	\item Imagine a vibration in the condensate, which makes the particles more and less dense. That is the Higgs.
+	\item Imagine particles on Mexican Hat oscillating up and down the potential--Figure \ref{fig:2-a3-higgs1}. This increases and reduces density: it is the Higgs.
+\end{itemize}
+
+\begin{figure}[H]
+	\caption{Particles on Mexican Hat oscillating up and down the potential}\label{fig:2-a3-higgs1}
+	\includegraphics[width=0.8\textwidth]{2-a3-higgs1}
+\end{figure}
+
+The Higgs is important because it is the one element of the Standard Model that had not been discovered. Why was is so hard to discover?
+
+Figure \ref{fig:2-a3-higgs-decay} depicts the decay of the Higgs: heavy particles are favoured. We can read diagram either left to right or right to left. We have been colliding electrons and positrons for a long time, and need very high energy. In addition cross section of reaction is slow.
+
+\begin{figure}[H]
+	\begin{center}
+		\caption{Higgs decaying: probability $\propto$ mass of particles produced}\label{fig:2-a3-higgs-decay}
+		\begin{subfigure}[t]{0.45\textwidth}
+			\feynmandiagram[vertical = out1 to in1] {
+				in1[particle=\(H\)] --[boson] b,
+				b -- [fermion] out1 [particle = \(e^{-}\)],
+				b -- [fermion] out2 [particle = \(e^{+}\)],
+				out1--[opacity=0.0]out2,
+			};
+		\end{subfigure}
+		\hfill
+		\begin{subfigure}[t]{0.45\textwidth}
+			\feynmandiagram[vertical = out1 to in1] {
+				in1 [particle=\(H\)] --[boson] b,
+				b -- [fermion] out1 [particle = \(q\)],
+				b -- [fermion] out2 [particle = \(\bar{q}\)],
+				out1--[opacity=0.0]out2
+			};
+		\end{subfigure}
+
+	\end{center}
+\end{figure}
+
+How about quarks? The usual ones are very light. Lightness of particles made production of Higgs unlikely. Best candidate is the top quark, the heaviest. Use top and antitop. But they aren't easy to find: they decay quickly. We have to make them. Figure \ref{fig:2-a3-gluons} depicts protons colliding at LHC: they contain gluons that make the top quark. 
+
+
+\begin{figure}[H]
+	\caption{How to make a Higgs from gluons}
+	\begin{subfigure}[t]{0.3\textwidth}
+		\caption{A gluon doesn't have enough energy to make a top anti-top pair (at least it won't last very long)}
+		\feynmandiagram[small,layered layout,horizontal = in1 to b] {
+			in1 [particle = \(g\)] -- [gluon] b,
+			b -- [fermion] out1 [particle = \(t\)],
+			b -- [fermion] out2 [particle = \(\bar{t}\)]
+		};
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[t]{0.3\textwidth}
+		\caption{Use a pair of gluons that are moving very fast relative to each other. One makes a top anti-top pair, then the other is absorbed; then the top quarks come together to make a Higgs.}\label{fig:2-a3-gluons}
+		\feynmandiagram[small,layered layout,horizontal = in1 to b] {
+			in1 [particle = \(g\)] -- [gluon] b,
+			b -- [fermion] f1 [particle = \(t\)],
+			b -- [fermion] f2 [particle = \(\bar{t}\)],
+			f1 -- [fermion] h,
+			f2 -- [fermion] h,
+			in2[particle = \(g\)] -- [gluon] f2,
+			h -- [boson] out1 [particle = \(H\)]
+		};
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[t]{0.3\textwidth}
+		\caption{Figure (\subref{fig:2-a3-gluons}) is usually drawn like this, with top quarks going round the loop. }\label{fig:2-a3-higgs-neat}
+		\feynmandiagram[small,vertical=out1 to in1]{
+			in1 -- [gluon] p2 [particle=\(g\)],
+			in2 -- [gluon] p3 [particle=\(g\)],
+			p1--p2--p3--p1--[boson]out1[particle=\(H\)],
+			in1--[opacity=0.1]in2,
+		};
+	\end{subfigure}
+\end{figure}
+
+
+
+\section{The Near Future}
+
+The standard model is essentially correct. Is everything fitting together quantitatively? Figure \ref{fig:2-a3-higgs-neat} provides a hint. We should be able to run this backwards and decay the the Higgs, but it isn't easy to see gluons. Replace gluons with photons--Figure \ref{fig:Higgs:to:photons}. The Higgs can decay into photons. 
+
+\begin{figure}[H]
+	\begin{center}
+		\caption{The Higgs can decay into photons}\label{fig:Higgs:to:photons}
+		\feynmandiagram[small,vertical=out1 to in1]{
+			in1[particle=\(H\)]--[boson]t1--t2--t3--t1,
+			t2 -- [photon] out1  [particle=\(\gamma\)],
+			t3 -- [photon] out2  [particle=\(\gamma\)],
+			out1--[opacity=0.0]out2,
+		};
+	\end{center}
+\end{figure}
+At the time of the lecture, the Higgs appears to decay into photons a little too quickly--1.5 times to fast. Maybe something else is going on: maybe some other heavy particle is there. Keep watching. 
+
+\bibliographystyle{unsrt}
+\addcontentsline{toc}{section}{Bibliography}
+\bibliography{tm}
+
+\end{document}

@@ -1,0 +1,2658 @@
+% !TeX program = lualatex
+
+% Copyright (c) 2020-2025 Simon Crase
+
+% Permission is hereby granted, free of charge, to any person obtaining a copy
+% of this software and associated documentation files (the "Software"), to deal
+% in the Software without restriction, including without limitation the rights
+% to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+% copies of the Software, and to permit persons to whom the Software is
+% furnished to do so, subject to the following conditions:
+
+% The above copyright notice and this permission notice shall be included in all
+% copies or substantial portions of the Software.
+
+% THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+% IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+% FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+% AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+% LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+% OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+% SOFTWARE.
+
+\documentclass[]{article}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{url}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{tocloft}
+\usepackage{cancel}
+\usepackage{thmtools}
+\usepackage{gensymb}
+\usepackage{braket}
+\usepackage{bm}
+\usepackage[compat=1.1.0]{tikz-feynman}
+\usepackage{tikz}
+\usepackage{pgfplots}
+\usepackage{mathtools}
+\usepackage{color}
+\usepackage{colortbl}
+\usepackage[toc,nonumberlist]{glossaries}
+\usepackage{glossaries-extra}
+\usepackage{mathtools}
+\newcommand\numberthis{\addtocounter{equation}{1}\tag{\theequation}}
+\newtheorem{thm}{Theorem}
+\newtheorem{defn}[thm]{Definition}
+\newtheorem{cor}[thm]{Corollary}
+\newtheorem{lemma}[thm]{Lemma}
+\graphicspath{{figs/}}
+\widowpenalty10000
+\clubpenalty10000
+\setcounter{tocdepth}{2}
+
+%opening
+\title{Theoretical Minimum\\Particle Physics 2\\Standard Model}
+\author{Simon Crase (compiler)\\simon@greenweaves.nz}
+\makeglossaries
+\loadglsentries{glossary-entries}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+	These are my notes for the \emph{New Revolutions in Particle Physics 2:Standard Model} lectures from Leonard Susskind's \emph{Theoretical Minimum} series\cite{susskind2007theoretical}.
+	
+	Disclaimer: I have created these notes as an aide-m\'emoire for my own use; if you find them useful, you are welcome, but I'd appreciate hearing from you. They are not intended as a substitute for listening to the lectures. The intellectual property for all material derived from the lectures belongs, of course, to Professor Susskind; any mistakes, however, are my own.
+\end{abstract}
+
+\tableofcontents
+\listoffigures
+\listoftables
+\listoftheorems
+
+\section{Particles, Fields, and Forces}
+
+\subsection{Introduction}
+
+In  \cite[Particle Physics 1: Basic Concepts]{susskind2007theoretical} we discussed fields, \glspl{gls:quantum} of  fields, the relationship of fields and particles, the relationship of fields and their \glspl{gls:quantum} (\glsdesc{gls:quantum}), general properties of particles (having energy, momentum, spin, being a \gls{gls:fermion} or a \gls{gls:boson}). We have discussed wave equations and field equations, and how they can be generated from Lagrangians using an action principle. The quantum mechanical version of  the Lagrangian is a tool for codifying the interaction between particles. Products of terms correspond to vertices, as illustrated in Figure \ref{fig:phi:3:x}.
+\begin{figure}[H]
+	\caption[Products of terms correspond to vertices]{Products of terms correspond to vertices, e.g. $\Phi^3(x)$ gives rise to many possible interactions.}\label{fig:phi:3:x}
+	\includegraphics[width=0.8\textwidth]{phi-3-x}
+\end{figure}
+
+Figure \ref{fig:particles:fields:forces} shows a triangle of concepts. We have discussed two legs, Particles and Fields, but not the third, Forces.
+\begin{itemize}
+	\item Particles (\gls{gls:quanta} of fundamental fields)\footnote{We are going to have to think very hard about what is an elementary particle and what is composite; we will always be frustrated, always find some slippery reason why our definition did not work.}
+	\item Fields
+	\item Forces. 
+\end{itemize}
+
+
+
+\begin{figure}[H]
+	\begin{center}
+		\caption{Triangle of concepts: particles, fields, and forces}\label{fig:particles:fields:forces}
+		\begin{tikzpicture}	
+			\filldraw[black] (-5, 2.0)  node[anchor=west]{Particles};
+			\filldraw[black] (3.624, 2.0)  node[anchor=west]{Fields};
+			\filldraw[black] (-0.55, 0.2)  node[anchor=west]{Forces};
+			\draw[ultra thick, <->] (-3.1,2.0) --(3.1,2.0);
+			\draw[ultra thick, <->] (-4.,1.8) --(-0.6,0.2);
+			\draw[ultra thick, <->] (0.6,0.2) --(4.,1.8);
+		\end{tikzpicture}
+	\end{center}
+\end{figure}
+
+\subsection{Forces from Particles}
+
+There must be a way of thinking about forces that depends on particles. We'll start by discussing it in classical electrodynamics. Suppose we put two electric charges into space, and we want to calculate the force between them. We could use Coulomb's law, or we could ask what they do to space--Figure \ref{fig:electric-field-due-to-first-charge}.
+
+\begin{figure}[H]
+	\begin{center}
+		\caption{Electric Field due to first Charge}\label{fig:electric-field-due-to-first-charge}
+		\includegraphics[width=0.8\textwidth]{electric-field-due-to-first-charge}
+	\end{center}
+\end{figure}
+
+\begin{align*}
+	E=&\int (e_1 \hat{E_1})^2 dV \text{, energy for first charge \emph{only}}
+\end{align*}
+
+\begin{itemize}
+	\item The energy does not depend on the position of the charge.
+	\item The energy contributes to the mass of the particle($E=mc^2$).
+\end{itemize}
+
+\begin{align*}
+	E=&\int (e_1 \hat{E_1})^2 dV \text{, energy for second charge \emph{only}}
+\end{align*}
+
+Now we calculate the total energy.
+
+\begin{align*}
+	E=&\int (e_1\vec{E_1}+e_2 \vec{E_2})^2 dV\\
+	=&\int \underbrace{(e_1\vec{E_1})^2}_\text{self energy}+ \underbrace{(e_2\vec{E_2})^2}_\text{self energy} + \underbrace{2e_1e_2\vec{E_1}.\vec{E_2}}_\text{interesting term}
+\end{align*}
+
+The first two terms represent self energy, which is included in mass; the last term is proportional to the charges.
+\begin{itemize}
+	\item  If they are so far away that $\vec{E_1}$ is negligible near second charge there will be no perceptible effect.
+	\item If the particles are close we will get a contribution from $\vec{E_1}.\vec{E_2}$. This turns out to be the Coulomb force. 
+\end{itemize}
+
+The force comes from the distortion of the field: this is a \emph{purely field view of forces}. If fields give rise to forces, and particles are quanta of fields, there must be a way to think of forces coming from particles.
+
+Where do molecular forces come from? There are several mechanisms: we will focus on one. Imagine two protons and a single electron--Figure \ref{fig:2protons:electron}. Electron hops because of tunnelling.
+
+\begin{figure}[H]
+	\begin{center}
+			\caption[Molecular forces: two protons and a single electron]{Two protons and a single electron. Classically an electron can't swap between  (\subref{fig:2proton1Electrona}) and (\subref{fig:2proton1Electronb}), but \gls{gls:QM} allows it to tunnel. Don't attempt to watch tunnelling! It is like any \glsdesc{gls:QM} effect; watching ruins it. You can wait on the left for electron to tunnel, but not on the right.}\label{fig:2protons:electron}
+		\begin{subfigure}[t]{0.45\textwidth}
+			\caption{Right hand proton is a long way from left. We show the Schr\"odinger wave function for electron near left hand.} 
+			\includegraphics[width=0.9\textwidth]{2proton1Electrona}\label{fig:2proton1Electrona}
+		\end{subfigure}
+		\hfill
+		\begin{subfigure}[t]{0.45\textwidth}
+			\caption{Protons closer together: Figure \ref{fig:2proton1Electrona} still possible, but so is this; they have the same energy.}
+			\includegraphics[width=0.9\textwidth]{2proton1Electronb}\label{fig:2proton1Electronb}
+		\end{subfigure}
+	\end{center}
+\end{figure}
+
+\begin{figure}[H]
+	\begin{center}
+		\caption[Effect of tunnelling]{Effect of tunnelling. It requires some energy to tunnel, which it gets back once it has tunneled. In the long term the electron spends an equal time on left or right, so it looks as if the two wave functions have been added, except it looks different in the middle.}
+		\includegraphics[width=0.9\textwidth]{2proton1Electronab}\label{fig:2proton1Electronab}
+	\end{center}
+\end{figure}
+
+\begin{figure}[H]
+	\caption[Energy as a function of distance between protons]{Energy as a function of distance between protons. Gradient in energy tries to move protons together, but Coulomb force tries to separate them; nett effect is a covalent bond.}
+	\includegraphics[width=0.9\textwidth]{2proton1ElectronEnergy}\label{fig:2proton1ElectronEnergy}
+\end{figure}
+
+\begin{figure}[H]
+	\begin{center}
+		\caption[Electron exchange between protons]{Electron exchange between protons. This lowers energy relative to what it would be if there were only one proton and one electron. The presence of the electron between the two protons results in an attractive force. It is called particle exchange.}
+		\includegraphics[width=0.5\textwidth]{2proton1ElectronHopping}\label{fig:2proton1ElectronHopping}
+	\end{center}
+\end{figure}
+
+Energy is lowered by the possibility of alternating between two quantum states.
+
+\begin{itemize}
+	\item the electron being in a quantum superposition leads to a lower energy state, which creates a force;
+	
+	\item add 2nd electron, then total charge is zero, giving nett attraction; 
+
+	\item so classically, add 2nd charge, lower energy (creates force) by distorting wave function;
+	\item in \glsdesc{gls:QM}, possibility of swapping between states lowers energy.
+\end{itemize}
+Can we think of Coulomb force in \glsdesc{gls:QM} terms? Consider single proton and electron: proton interacts with electromagnetic field, whose quanta are photons.
+
+\begin{itemize}
+	\item Classically we solve field equations;
+	\item In \glsdesc{gls:QM} we think of emission and absorption of photons; this is what the Lagrangian tells us. One way to think of this is that the electron is a \glsdesc{gls:QM} superposition of states:
+	\begin{itemize}
+		\item first of all states where there are no photons;
+		\item a superposition of states in which a photon has been emitted;
+		\item a superposition of states  with two photons emitted;
+		\item photon reabsorbed, etc.
+	\end{itemize}
+	The net effect as a \glsdesc{gls:QM} equilibrium of an electron surrounded by photons, which you can measure.
+	 In Figure \ref{fig:2-1-electron-photons}, when electrons very far apart, energies just add. When they get closer, fields interact, or, in the language of Feynman diagrams, one electron absorbs electron emitted by the other--Figure \ref{fig:2-1-electron-photons-feynmann}.  Energy is no longer sum of energies of individual electrons, which gives rise to Coulomb force.
+\end{itemize}
+
+\begin{figure}[H]
+	\caption{Emission and absorption of photons}
+	\begin{subfigure}[t]{0.45\textwidth}
+		\caption{Electron absorbing and reabsorbing photons.}
+		\includegraphics[width=0.9\textwidth]{2-1-electron-photons0}
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[t]{0.45\textwidth}
+		\caption{The electron is a \glsdesc{gls:QM} superposition of states}\label{fig:2-1-electron-photons}
+		\includegraphics[width=0.9\textwidth]{2-1-electron-photons}
+	\end{subfigure}
+
+\end{figure}
+
+\begin{figure}[H]
+	\caption{Two Electrons absorbing and reabsorbing photons}
+	\begin{subfigure}[t]{0.45\textwidth}
+		\caption{Two Electrons absorbing and reabsorbing photons.}\label{fig:2-1-second-electron-photons}
+		\includegraphics[width=0.9\textwidth]{2-1-second-electron-photons}
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[t]{0.45\textwidth}
+		\caption{Feynman diagram of Electrons absorbing and reabsorbing photons. Sometimes one electron absorbs photon emitted by other.}\label{fig:2-1-electron-photons-feynmann}
+		\includegraphics[width=0.9\textwidth]{2-1-second-electron-photons-feynman}
+	\end{subfigure}
+\end{figure}
+
+In summary we have three ways of looking at forces:
+
+\begin{itemize}
+	\item laws such as Coulomb;
+	\item classical field theory;
+	\item exchange of particles. Every particle can be exchanged, so every particle produces a force: there are not just 4 forces! 
+\end{itemize}
+
+\subsection{Particles of the Standard Model}
+
+The Standard Model is a mess. We don't understand why the particles are as they are. We understand some relationships, but there are more parameters, m More types of particles than known relationships.
+
+\begin{table}[H]
+	\begin{center}
+		\caption{Some Particles and Fields}
+		\begin{tabular}{|l|l|l|r|l|r|}\hline
+			\textbf{Name}&\textbf{Symbol}&\textbf{Statistics}&\textbf{Charge}&\textbf{B\#}&\textbf{Mass}\\ \hline
+			photon&$\gamma$ A&boson&0&0&0 \\ \hline
+			electron&$e^\pm \Psi_e$&fermion&-1&0&$0.51\gls{gls:MeV}$\\ \hline
+			quark&q(Q) $\Psi_q$&fermion&below&$\frac{1}{3}$&see below\\ \hline
+			down&d&fermion&$-\frac{1}{3}$&$\frac{1}{3}$&10\gls{gls:MeV}\\ 
+			up&u&fermion&$\frac{2}{3}$&$\frac{1}{3}$&5\gls{gls:MeV}\\ \hline
+			strange&s&fermion&$-\frac{1}{3}$&$\frac{1}{3}$&100\gls{gls:MeV}\\ 
+			charm&c&fermion&$\frac{2}{3}$&$\frac{1}{3}$&1\gls{gls:GeV}\\ \hline
+			bottom&b&fermion&$-\frac{1}{3}$&$\frac{1}{3}$&5\gls{gls:GeV}\\ 
+			top&t&fermion&$\frac{2}{3}$&$\frac{1}{3}$&170\gls{gls:GeV}\\ \hline
+		\end{tabular}
+	\end{center}
+\end{table}
+
+Notes:\begin{enumerate}
+	\item Particle and Field usually have the same name, but there are a few exceptions, such as the vector potential $\boldsymbol{A}$.
+	\item The electron has an electrical charge, so it must have an antiparticle. It is purely a matter of convention whether electron is particle and positron antiparticle, or vice versa. 
+	\item Electric charge--electron is unit
+	\item Mass--unit is electron Volt--eV
+	\item $B\#$ denotes the Baryon number. Proton has Baryon number 1, antiproton -1, neutron +1, antineutron -1 (by convention). It isn't clear that baryon number is absolutely conserved: a proton may decay to something with zero baryon number, with a half life of $10^{33}$ years: this is an important question.
+	\item Antiquarks have the charge and baryon number multiplied by -1.
+	\item Mass of proton greatly exceeds mass of the 3 quarks.
+	\item Mass of charmed quark exceeds mass of strange quark, reversing the behaviour of up and down. So different families have much the same behaviour, but widely different masses.
+	\item Why are there 3 families of quarks? Nobody knows.
+\end{enumerate}
+
+\begin{figure}[H]
+	\caption[The basic process in electrodynamics]{The basic process in electrodynamics is the emission of a photon by an electron. Out of this we can build all the processes of quantum electrodynamics, in particular the one that corresponds to the force between charges--see Figure \ref{fig:fep2}.}\label{fig:fep}
+	\begin{subfigure}[t]{0.3\textwidth}
+		\caption{Electron emits photon}\label{fig:fep:emit}
+		\feynmandiagram[vertical = a to i1]{
+			i1[particle=e]--[fermion]a--[fermion]o1[particle=e],
+			a--[photon,edge label=$\gamma$]o2
+		};
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[t]{0.3\textwidth}
+		\caption{Photon absorbed}
+		\feynmandiagram[horizontal' = o2 to i1]{
+			i1[particle=e]--[fermion]a--[fermion]o1[particle=e],
+			a--[photon,edge label=$\gamma$]o2,
+			o2--[draw=none]i1,
+		};
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[t]{0.3\textwidth}
+		\caption{An electron traveling back in time is a positron}
+		\feynmandiagram[vertical = a to o1]{
+			i1[particle=e]--[fermion]a--[fermion]o1[particle=e],
+			a--[photon,edge label=$\gamma$]o2
+		};
+	\end{subfigure}
+	
+\end{figure}
+
+
+\begin{figure}[H]
+	\begin{center}
+		\caption{The processes of Figure \ref{fig:fep} visualized as exchange of a photon.}\label{fig:fep2}
+		\feynmandiagram[vertical = i2 to i1]{
+				i1 -- [fermion] a -- [fermion] i2,
+				a -- [photon,edge label=$\gamma$] b,
+				f1 -- [fermion] b -- [fermion] f2,
+			};
+	\end{center}
+\end{figure}
+
+Another way to describe Electromagnetic processes is to use a Lagrangian.
+\begin{align*}
+	\mathcal{L} =& \underbrace{e}_\text{Electric charge of electron} \underbrace{\Psi_e^\dagger}_\text{Create electron} \underbrace{\Psi_e}_\text{Annihilate electron} \underbrace{A}_\text{photon}
+\end{align*}
+
+The electric charge of electron is associated with the amplitude to emit a photon.
+
+
+Three quarks build baryons; two quarks build mesons--Table \ref{table:mesons}.
+\begin{itemize}
+	\item neutron: $ddu$ (slightly heavier)
+	\item proton: $uud$ (self energy of energy partially offsets difference in quark masses)
+\end{itemize}
+
+Can we make an analogue of proton/neutron with strange quarks? Yes. E.g. $sdu$, $ssu$, $uus$ -- Strange baryons.
+
+
+\begin{table}[H]
+	\begin{center}
+		\caption[Mesons: baryon number 0 - quark + anti-quark]{Mesons: baryon number 0 - quark + anti-quark. Note the two entangled pairs: $\frac{1}{\sqrt{2}}\big(\ket{\bar{u}u}\pm\ket{\bar{d}d}\big)$}\label{table:mesons}
+		\begin{tabular}{|l|l|l|r|} \hline
+			&\textbf{Quarks}&\textbf{Charge}&\textbf{Mass}\\ \hline
+			$\pi^-$&$\bar{u}d$&-1&$\approx140 \gls{gls:MeV}$ \\ \hline
+			$\pi^+$&$u\bar{d}$&+1&$\approx140 \gls{gls:MeV}$  \\ \hline
+			$\pi^0$&$\frac{1}{\sqrt{2}}\big(\ket{\bar{u}u}+\ket{\bar{d}d}\big)$&0&$\approx140 \gls{gls:MeV}$  \\ \hline
+			$\eta$&$\frac{1}{\sqrt{2}}\big(\ket{\bar{u}u}-\ket{\bar{d}d}\big)$& 0&$\approx500 \gls{gls:MeV}$ \\ \hline
+			$K^-$&$\bar{u}s$&-1& \\ \hline
+			$K^+$&$u\bar{s}$&+1& \\ \hline
+			$\bar{K}^0$&$\bar{d}s$&0& \\ \hline
+			$K^0$&$d\bar{s}$&0& \\ \hline
+			$\Phi$&$\bar{s}s$&0& \\ \hline
+		\end{tabular}
+	\end{center}
+\end{table}
+
+We also have strange mesons ($K-mesons$).
+
+
+\section{Quantum Chromodynamics}\label{section:qcd}
+
+This is the theory of quarks and gluons, and the things that they make.
+
+\begin{defn}[Hadron]
+	The things that quarks and gluons make are called hadrons. 
+\end{defn}
+
+There are 3 types of hadron: \begin{itemize}
+	\item baryons, Definition \ref{defn:baryon};
+	\item mesons, Definition \ref{defn:meson};
+	\item glueballs, Definition \ref{defn:glueball}
+\end{itemize}.
+
+\begin{defn}[Baryon]\label{defn:baryon}
+	An object made of 3 quarks is called a baryon: they always have spin $\frac{1}{2}$, $\frac{3}{2},...$.
+\end{defn}
+
+\begin{defn}[Meson][Baryon]\label{defn:meson}
+	An object made of quark plus antiquark is called a meson; mesons are quark-anti-quark pairs.
+\end{defn}
+
+\begin{defn}[Gluon]
+	Electrically neutral stuff than holds quarks and antiquarks together.
+\end{defn}
+
+\subsection{Spin without group theory}
+We start with the basic commutation relations for angular momentum:\cite[Particle Physics 1]{susskind2007theoretical}
+\begin{align*}
+	[L_x,L_y] =& i \hslash L_z\\
+	[L_y,L_z] =& i \hslash L_x\\
+	[L_z,L_x] =& i \hslash L_y
+\end{align*}
+
+In a previous set of lectures,  we saw that:
+
+\begin{itemize}
+	\item we can break the symmetry by focusing on $L_z$
+	\item we can measure only one $L_i$ at a time (they don't commute);
+	\item $L_i$ is quantized--$\hslash$.
+\end{itemize}
+
+\begin{table}[H]
+	\begin{center}
+		\caption{Spin multiplets: Spin $l$ denotes highest $L_z$.}
+		\begin{tabular}{|c|l|l|} \hline
+		$\textbf{l}$&\textbf{Range} of $L_z (Number=2l+1)$&\textbf{Statistics}\\ \hline
+		$0$&$0$& Boson\\ \hline
+		$\frac{1}{2}$&$\{-\frac{1}{2},\frac{1}{2}\}$& Fermion\\ \hline
+		$1$&$\{-1,0,1\}$&Boson \\ \hline
+		$\frac{3}{2}$&$\{-\frac{3}{2},-\frac{1}{2},\frac{1}{2},\frac{3}{2}\}$&Fermion \\ \hline
+		$2$&$\{-2,-1,0,1,2\}$&Boson \\ \hline
+		\end{tabular}
+	\end{center}
+\end{table}
+
+\begin{table}[H]
+	\begin{center}
+		\caption[Ways to put two spin $\frac{1}{2}$ particles together]{Ways to put two spin $\frac{1}{2}$ particles together. Consider whether particles could disappear with violating conservation of angular momentum. Notice the triplet and singlet.} 
+		\begin{tabular}{|l|l|l|l|}\hline
+			&$l$&$L_z$&Could disappear?\\ \hline
+			$\ket{\uparrow\uparrow}$ &1&1&no: has $L_z$\\ \hline
+			$\ket{\downarrow\downarrow}$&1&-1&no: has $L_z$ \\ \hline
+			$\frac{1}{\sqrt{2}}(\ket{\uparrow\downarrow}+\ket{\downarrow\uparrow})$ &1&0&no: has $L_x$\\ \hline
+			$\frac{1}{\sqrt{2}}(\ket{\uparrow\downarrow}-\ket{\downarrow\uparrow})$ &0&0&yes\\ \hline
+		\end{tabular}
+	\end{center}
+\end{table}
+
+
+\begin{table}[H]
+	\begin{center}
+		\caption{$3 \times \frac{3}{2}$ spins.}
+		\begin{tabular}{|l|r|c|}\hline
+			$\ket{\uparrow\uparrow\uparrow}$&$\frac{3}{2}$& \\ \hline
+			$\ket{\downarrow\downarrow\downarrow}$&$-\frac{3}{2}$& \\ \hline
+			$\ket{\uparrow\downarrow\downarrow}$,$\ket{\downarrow\uparrow\downarrow}$,$\ket{\downarrow\downarrow\uparrow}$&$\frac{1}{2}$&Three ways to do this\\ \hline
+			$\ket{\uparrow\downarrow\downarrow}$,$\ket{\downarrow\uparrow\downarrow}$,$\ket{\downarrow\downarrow\uparrow}$&$-\frac{1}{2}$&Three ways to do this\\ \hline
+		\end{tabular}
+	\end{center}
+\end{table}
+
+\subsection{Isospin}
+
+Isotopic spin was the first internal quantum number, the first analogue of spin, that did not have to do with the rotation of space. It had to do with the rotation of an internal space; it gave rise to a set of variables that were isomorphic to spin. You could imagine that it involves\d the rotation of some mathematical directions.
+
+There is a whole variety of different kinds of quarks, but most of them are rather heavy, and had considerable mass in \gls{gls:GeV}, when the natural mass scale for hadrons is hundreds of \gls{gls:GeV}. The mass of a typical meson is 200 \gls{gls:MeV}, as it a typical binding energy for the quarks in a neutron; then binding energy of a nucleus is typically a few \gls{gls:MeV}. There are only two quarls whose mass is less, the up quark and the down quark. The others are heavy, and there is a cost in energy to make particles out of them. The most stable particles are the lightest, and they are the ones made out of up and down quarks.
+
+The natural energy of the nucleus is a few hundred \gls{gls:MeV}, which comes from up and down quarks. To a first approximation masses are close to each other, so they are analogous to spin in some mathematical space. We have a symmetry. If we think of up and down quarks as isomorphic to up and down spins, we invent the concept of isotopic spin.
+
+\begin{itemize}
+	\item $(\uparrow,\downarrow)$ gives ordinary spin;
+	\item $(u,d)$ Isotopic spin i.e.  $(p,n)$--makes Isotope.
+\end{itemize}
+
+Isotopic spin isn't a precise symmetry of nature, as $u$ and $d$ have different masses and charges. But it is an approximate symmetry for strong forces only. NB: for small nuclei, the strong force dominates electrostatic.
+
+One quark is not an object that we can study in the laboratory: the simplest object we can study is 3 quarks. We can make an object of isotopic spin $\frac{1}{2}$ or $\frac{3}{2}$--Table \ref{table:3quark}.
+
+\begin{itemize}
+	\item Assume that we can label quarks--${1,2,3}$
+	\item Quarks are Fermions, so we need to anti-symmetrize. For example the proton might be: $\underbrace{d_1}_\text{isospin $\frac{1}{2}$}\underbrace{(u_2u_3-u_3u_2)}_\text{isospin 0}$.
+	\item $\frac{1}{2}$: two states (isotopic spin doublet--$p+n$)
+	\item $\frac{3}{2}$. $uuu$ and $ddd$, $\uparrow\uparrow\uparrow$, $\downarrow\downarrow\downarrow$. There are 4 states for isospin $\frac{3}{2}$--an isospin multiplet. NB, this $\Delta_\frac{3}{2}$ differs from the nucleon, as all spins are aligned. The $uud$ and $uud$ have an isospin component of $\frac{1}{2}$, even though total isotopic spin is $\frac{3}{2}$.
+\end{itemize}
+
+\begin{table}[H]
+	\begin{center}
+		\caption[Simplest object we can study is 3 quarks.]{Simplest object we can study is 3 quarks. We can make an object of isotopic spin $\frac{1}{2}$ or $\frac{3}{2}$. Figure \ref{fig:decay:delta} shows the decay of $\Delta_\frac{3}{2}$.}\label{table:3quark}
+		\begin{tabular}{|c|c|c|c|r|r|}\hline
+			Isospin&Quarks&Spin&Name&Charge&Mass\\ \hline
+			$\frac{1}{2}$&$duu$&$\frac{1}{2}$&proton&$+1$&940\gls{gls:MeV}\\ \hline
+			$\frac{1}{2}$&$udd$&$\frac{1}{2}$&neutron&0&940\gls{gls:MeV}\\ \hline
+			$\frac{3}{2}$&$uuu$&$\frac{3}{2}$&$\Delta_\frac{3}{2}$&$+2$&1200\gls{gls:MeV}\\ \hline
+			$\frac{3}{2}$&$ddd$&$\frac{3}{2}$&$\Delta_\frac{3}{2}$&-1&1200\gls{gls:MeV}\\ \hline
+			$\frac{3}{2}$&$uud$&$\frac{3}{2}$&$\Delta_\frac{3}{2}$&+1&1200\gls{gls:MeV}\\ \hline
+			$\frac{3}{2}$&$udd$&$\frac{3}{2}$&$\Delta_\frac{3}{2}$&0&1200\gls{gls:MeV}\\ \hline
+		\end{tabular}
+	\end{center}
+\end{table}
+
+\begin{figure}[H]
+	\begin{center}
+		\caption[Decay of a $\Delta_\frac{3}{2}$]{Decay of a $\Delta_\frac{3}{2}$. Quarks can't go off on their own, so we need a quark-antiquark pair to balance. $\Delta_\frac{3}{2}\rightarrow p +\pi^+$: there is enough energy in $\Delta_\frac{3}{2}$ to create the $\pi^+$.}\label{fig:decay:delta}
+		\includegraphics[width=0.5\textwidth]{2-2-Delta-decay}
+	\end{center}
+\end{figure}
+
+\subsection{Quantum Chromodynamics}
+
+We have a problem: $uuu$ represents three Fermions whose spins are all in the same direction, which violates the Pauli Exclusion Principle. Quarks must have another property, i.e. the three quarks must have a label which is hidden from view and not apparent in experiments. This is called \emph{colour}, a totally arbitrary name which has nothing to do with ordinary colour: it is just a name. Values are Red, Blue, and Green. The important thing is that they have precisely 3 different values.
+
+Uhlenbeck and Goudsmit  \emph{might} have  discovered spin the same way, as helium has two electrons that are otherwise in the same state. Nambu Yoichiro realized that another quantum number was necessary for quarks.
+
+The  $\Delta_\frac{3}{2}$ is important because of having 3 u or d. For proton we need to [anti?]symmetrize: $\ket{d_R u_G u_B}+...$
+
+Note that for ordinary spin we need on particle to set a direction before we can say that a particular spin is down. One particle can set a frame of reference for the others.
+
+What holds quarks together? Electrons use photons/electromagnetic field. Quarks use gluons: spin 1, so same polarization states, massless, but one big difference(later), and they jump back and forth. Quarks emit and absorb gluons.
+
+The fundamental electromagnetic process is depicted in Figure \ref{fig:fep}. A photon is similar to electron and positron, e.g. it has the same properties: a sufficiently energetic photon can decay into an electron and positron pair.
+
+\begin{figure}[H]
+	\caption{A gluon behaves a bit like a quark-antiquark pair}
+	\begin{subfigure}[t]{0.45\textwidth}
+		\caption{Introducing the gluon}\label{fig2-2-gluon1}
+		\feynmandiagram[vertical = o1 to i1]{
+			i1[particle=q]--[fermion]a--[fermion]o1[particle=q],
+			a--[gluon]o2
+		};
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[t]{0.45\textwidth}
+		\caption{A gluon behaves a bit like a quark-antiquark pair: this shows the gluon of Figure \ref{fig2-2-gluon1} as a fictitious quark-antiquark pair.  (Similarly you can think of a photon as a neutron-positron pair.)}
+		\includegraphics[width=0.9\textwidth]{2-2-gluon2}
+	\end{subfigure}
+
+\end{figure}
+
+There appear to be 9 possible gluons: in Section \ref{sec:3:3:8} we will see that there are actually only 8, as the superposition $R\bar{R}+G\bar{G}+B\bar{B}$ is not an independent state.
+\begin{align*}
+\begin{pmatrix}
+R\bar{R}&R\bar{G}&R\bar{B}\\
+G\bar{R}&G\bar{G}&G\bar{B}\\
+B\bar{R}&B\bar{G}&B\bar{B}
+\end{pmatrix}
+\end{align*}
+
+Figures \ref{fig:2-2-gluon3} and \ref{fig:2-2-gluon5} show the basic vertices for gluons. Figures \ref{fig:2-2-gluon4} and \ref{fig:2-2-gluon6} redraw them, using a fictitious quark-antiquark pair. Gluons can interact with each other--Figure \ref{fig:2-2-gluon6}.
+\begin{figure}[H]
+	\caption{The basic vertices of \glsdesc{gls:QCD} -- Quarks}
+	\begin{subfigure}[t]{0.45\textwidth}
+		\caption{Red quark changes to green: analogous to process with photon.}\label{fig:2-2-gluon3}
+		\feynmandiagram[horizontal'= o1 to o2]{
+			i[particle=\(R\)] -- [fermion]c,
+			c -- [fermion] o1[particle=\(G\)],
+			c -- [gluon]o2[particle=\(R\bar{G}\)],
+		};
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[t]{0.45\textwidth}
+		\caption{Red quark changes to green, using fictitious quark-antiquark pair}
+		\label{fig:2-2-gluon4}
+		\includegraphics[width=0.9\textwidth]{2-2-gluon4}
+	\end{subfigure}
+
+\end{figure}
+
+\begin{figure}[H]
+	\caption{Second basic vertex of \glsdesc{gls:QCD}: gluons}\label{fig:2:basic:vertex}
+		\begin{subfigure}[t]{0.40\textwidth}
+		\caption{Second basic vertex, which has no analogue for photons. Fictitious quark-antiquark pairs represent gluons. This process makes \glsdesc{gls:QCD} more complex and more interesting than \glsdesc{gls:QED}.}\label{fig:2-2-gluon5}
+		\includegraphics[width=0.9\textwidth]{2-2-gluon5}
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[t]{0.45\textwidth}
+		\caption{Second basic vertex, redrawn with gluons, instead of fictitious quark-antiquark pairs. Use Figure \ref{fig:2-2-gluon5} to determine which combinations don't break any lines.}\label{fig:2-2-gluon6}
+		\feynmandiagram[horizontal'= o1 to o2]{
+			i[particle=\(R\bar{B}\)] -- [gluon]c,
+			c -- [gluon] o1[particle=\(R\bar{G}\)],
+			c -- [gluon]o2[particle=\(G\bar{B}\)],
+		};
+	\end{subfigure}
+\end{figure}
+
+Photons cannot exchange photons, but gluons can exchange gluons, which means that there are \emph{forces between gluons}--Figure \ref{fig:quarks:gluons:forces}. Two waves of gluons can deform each other; different parts of one wave of gluons can deform each other, so the dynamics is non-linear.
+
+\begin{figure}[H]
+	\caption{Photons cannot exchange photons, but gluons can exchange gluons.}\label{fig:quarks:gluons:forces}
+	\begin{subfigure}[t]{0.45\textwidth}
+		\caption{Force between quarks}
+		\includegraphics[width=0.9\textwidth]{2-2-gluon7}
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[t]{0.45\textwidth}
+		\caption{Force between gluons}
+		\includegraphics[width=0.9\textwidth]{2-2-gluon8}
+	\end{subfigure}
+\end{figure}
+
+The only rule is: follow the lines and, if the line turn around, change particle to antiparticle.
+
+Figure \ref{fig:2-2-mass1} shows that masses of objects are frequency dependent. In the same sense, masses of quarks depend on frequency.
+\begin{itemize}
+	\item  Move slowly and we drag gluons with quark.
+	\item Move at high frequency, we drag the quark $m$ only
+\end{itemize}
+
+\begin{figure}[H]
+	\caption[Mass (quark) with squishy thing attached]{Mass with squishy thing attached. If we move slowly we drag attachment, fast we just move mass. The concept of mass of quark is ambiguous: normally we mean the high frequency mass.}\label{fig:2-2-mass1}
+	\includegraphics[width=0.8\textwidth]{2-2-mass1}
+\end{figure}
+
+
+\section{Group Theory I: Group Representations}
+
+\subsection{Group Representations}
+
+Rotations in space act on vectors: they rotate one vector to another. Rotations can be combined: they form a non-Abelian group. Figure \ref{fig:2-3-paramerize-rotation} depicts one way to parametrize rotation--axis $\vec{n}$ and angle $\theta$. Since $\vec{n}$ can be parametrized by two angles, latitude and longitude, we need 3 angles in total.
+
+\begin{figure}[H]
+	\begin{center}
+		\caption{Parametrize rotation: axis $\vec{n}$ and angle $\theta$}\label{fig:2-3-paramerize-rotation}
+		\includegraphics[width=0.8\textwidth]{2-3-paramerize-rotation}
+	\end{center}
+\end{figure}
+
+Colour is a representation of the rotation group.
+
+How do we construct a matrix representation of rotations? 
+
+\begin{align*}
+	R \vec{V} =&\vec{V^\prime} \text{, or, using indices}\\
+	\sum_j R_{ij}(\theta,\vec{n})V_j=&V_i^\prime  \text{. Now if $R$ is a rotation, it doesn't change length}\\
+	\forall \vec{V} \; \sum_i V_i^2 =& \sum_i (V_i^\prime)^2\\
+	\sum_{i,j,k} R_{ij} R_{ik} V_j V_k =& \sum_i V_i V_i \text{, i.e.}\\
+	\sum_{i} R_{ij} R_{ik} =& \delta_{j,k} \text{, or}\\
+	R^T R =& I\\
+	R^{-1} = R^T
+\end{align*}
+
+These are 3D representations of the rotation group. Can we think of 3D representations of the rotation group being related to quantum states? Spin describes angular momentum. A spin 1 particle (vector boson) can be described by a column vector containing amplitudes for the various components of spin. Suppose you want to rotate that spin? You must multiply by a matrix. These matrices must form a 3D representation of the rotation group. This is why we often say that spin 1 particles are vector particles.
+
+What about spin $\frac{1}{2}$ particle?
+
+\begin{align*}
+	\begin{pmatrix}
+		1\\
+		0
+	\end{pmatrix}=& \ket{u}\\
+	\begin{pmatrix}
+		0\\
+		1
+	\end{pmatrix}=& \ket{d}\\
+	\begin{pmatrix}
+		\alpha_1\\
+		\alpha_2
+	\end{pmatrix}=& \alpha_1 \ket{u} + \alpha_2 \ket{v} \text{, where $\alpha_1^2+\alpha_2^2=1$}
+\end{align*}
+
+We can represent rotation by a $2\times2$ matrix acting on spinors.
+
+\begin{align*}
+	\begin{pmatrix}
+		U_{11}&U_{12}\\
+		U_{21}&U_{22}
+	\end{pmatrix} 	\begin{pmatrix}
+		\alpha_1\\
+		\alpha_2
+	\end{pmatrix} =& \begin{pmatrix}
+		\alpha^\prime_1\\
+		\alpha^\prime_2
+	\end{pmatrix} \text{{. Now if}}\\
+	\alpha^*_1 \alpha_1 + \alpha^*_2 \alpha_2 =& 1 \text{ we want}\\
+	(\alpha^\prime_1)^* (\alpha^\prime_1) + (\alpha^\prime_2)^* (\alpha^\prime_2) =& 1 \text{, which gives}\\
+	(U^T)^* U =& I \text{, which can be written} \\
+	U^\dagger U =& I \numberthis \label{eq:unitary:2}
+\end{align*}
+
+$U$ has 8 degrees of freedom, but (\ref{eq:unitary:2}) imposes 4 constraints, leaving 4 degrees of freedom. But 3D rotations only have 3 degrees of freedom. We set $\det(U)=1$ to give a 3 parameter group, $SU(2)$
+
+\begin{defn}[Unitary group $U(N)$]
+	The group of unitary $N\times N$ matrices.
+\end{defn}
+
+\begin{defn}[Special Unitary group $SU(N)$]
+	The subgroup of $U(N)$ with determinant 1.
+\end{defn}
+
+\begin{thm}[Infinitesimal generators of $SU(2)$]
+	Any small rotation in $SU(2)$ can be expressed as:
+	\begin{align*}
+		U =& I + i \epsilon M \text{, where $M$ is a linear combination of the Pauli matrices $\sigma_i$}\\
+		\sigma_x =& \begin{pmatrix} \numberthis \label{eq:pauli:x}
+		0&1\\
+		1&0
+		\end{pmatrix}\\
+		\sigma_y =& \begin{pmatrix} \numberthis \label{eq:pauli:y}
+		0&-i\\
+		i&0
+		\end{pmatrix}\\
+		\sigma_z =& \begin{pmatrix} \numberthis \label{eq:pauli:z}
+		1&0\\
+		0&-1
+		\end{pmatrix}
+	\end{align*}
+\end{thm}
+
+\begin{proof}
+	We need two results, Lemmas \ref{lemma:det:Tr} and \ref{lemma:traceless:22}.
+	\begin{lemma}[Determinant and Trace]\label{lemma:det:Tr}
+		\begin{align*}
+		\det( I + i \epsilon M) =& 1 + i\epsilon Tr(M) + O(\epsilon^2)
+		\end{align*}
+	\end{lemma}
+	\begin{proof}
+		We will prove by induction on $N$.
+		
+		
+		\emph{Case: $N=1$.}
+		\begin{align*}
+			M =&\begin{bmatrix}
+				M_{11}
+			\end{bmatrix}\\
+			\det( I + i \epsilon M) =& \det(\begin{bmatrix}
+				1 + i \epsilon M_{11}
+			\end{bmatrix}
+			)\\
+			=& 1 + i \epsilon M_{11}\\
+			=&  1 + i\epsilon Tr(M)
+		\end{align*}
+		\emph{Case: $N>1$ and the Lemma is true for $N-1$}. We can find a (N-1)\times(N-1)matrix $M^{\prime}$, and two vectors $O(\epsilon)$ such that:
+		\begin{align*}
+			M =& \begin{bmatrix}
+				1 + i \epsilon M_{11}&O(\epsilon)\\
+				O(\epsilon)&M^{\prime} 
+			\end{bmatrix}
+		\end{align*}
+		We will calculate the determinant by multiplying each element in the first row by its cofactor, then adding these terms. The first term is $(1 + i \epsilon M_{11})\det(M^{\prime})$. The other terms are products of $O(\epsilon)$ and a cofactor which includes a column of $O(\epsilon)$, so they are $O(\epsilon^2)$. Whence:
+		\begin{align*}
+			\det( I + i \epsilon M) =& 	(1 + i \epsilon M_{11}) \det(M^{\prime})+ O(\epsilon^2)\\ 
+			=& \big(1 + i \epsilon M_{11}\big)\big(1 + i\epsilon Tr(M^{\prime}) + O(\epsilon^2)\big) + O(\epsilon^2)\\
+			=& 1 + i \epsilon M_{11} + i\epsilon Tr(M^{\prime}) + O(\epsilon^2)\\
+			=&1 + i\epsilon Tr(M) + O(\epsilon^2)
+		\end{align*}
+	\end{proof}
+	
+	\begin{lemma}[Traceless Hermitian $2\times2$ matrix]\label{lemma:traceless:22}
+		Any traceless Hermitian $2\times2$ matrix can be written as a linear combination of the Pauli  matrices.
+	\end{lemma}
+	\begin{proof}
+		The most general traceless Hermitian  $2\times2$ matrix can be written
+		\begin{align*}
+			\begin{pmatrix} 
+				\alpha&\beta - i\gamma\\
+				\beta + i\gamma&-\alpha
+			\end{pmatrix} \text{, for some $\alpha$ and some real $\beta$ and $\gamma$.}
+		\end{align*}
+		\begin{align*}
+			\begin{pmatrix} 
+				\alpha&\beta - i\gamma\\
+				\beta + i\gamma&-\alpha
+			\end{pmatrix} =& \alpha  \begin{pmatrix} 
+			1&0\\
+			0&-1
+			\end{pmatrix} +  \beta \begin{pmatrix} 
+			0&1\\
+			1&0
+			\end{pmatrix} +  \gamma \begin{pmatrix} 
+			0&-i\\
+			i&0
+			\end{pmatrix}\\
+			=& \alpha \sigma_z + \beta \sigma_z + \gamma \sigma_y
+		\end{align*}
+		
+	\end{proof}
+
+	For small rotations:
+	\begin{align*}
+	\exists& M \text{ such that}\\
+	U =& I + i \epsilon M \text{. Now}\\
+	I =&U U^\dagger \text{ from (\ref{eq:unitary:2}), so}\\
+	=& (I + i \epsilon M)(I - i\epsilon M^\dagger) \text{, which expands to}\\
+	=& I + i \epsilon(M - M^\dagger) - \epsilon^2 M^\dagger \text{. If we discard $O(\epsilon^2)$}\\
+	M - M^\dagger =& 0 \text{, i.e. M is Hermitean.}
+	\end{align*}
+	We also need U to be unimodular:
+	\begin{align*}
+	1=&\det(U)\\
+	=& \det( I + i \epsilon M) \text{. Now, using Lemma \ref{lemma:det:Tr}}\\
+	=& 1 + i\epsilon(Tr(M)) \text{, whence:}\\
+	Tr(M) =&0
+	\end{align*}
+	
+	So M satisfies the preconditions of Lemmas \ref{lemma:det:Tr} and \ref{lemma:traceless:22}, and the result follows immediately.
+	
+\end{proof}
+
+
+\subsection{Quantum Chromodynamics}
+
+The state of a quark can be Red, Green, or Blue. We can assemble the states into a vector, and the associated fields into another vector.
+
+\begin{align*}
+	\begin{pmatrix}
+		\alpha_1\\
+		\alpha_2\\
+		\alpha_3
+	\end{pmatrix} \leftrightarrow	\begin{pmatrix}
+	\Psi_r\\
+	\Psi_g\\
+	\Psi_b
+	\end{pmatrix}
+\end{align*}
+
+ $SU(2)$ includes $\begin{pmatrix}
+	0&i\\
+	i&0
+\end{pmatrix}$, which exchanges $u$ and $d$, so it is a supergroup of the interchange group. Just as spins are rules by $SU(2)$, colour quarks are ruled by $SU(3)$. These have $18-9-1=8$ degrees of freedom\footnote{$3\times 3$ matrix of complex numbers gives 18 real numbers; being unitary imposes 9 constraints; unimodularity adds one more}. The $8$ is the same as the number of gluons.
+
+ Every term in the Lagrangian needs to be invariant under $SU(3)$.   
+ 
+\section{Group Theory II: Representations of $SU(3)$}
+
+There was a question about the relationship between the mathematical theory of groups, abstract structures with multiplication, and the way groups act in physics. LS started with spin. There is an abstract notion of rotations in space. Physics has to respect symmetry under rotation, so we have to ask how rotations act on the quantities that are physically relevant. If we were studying classical physics we might just say that an operation rotates the coordinates of an object, or rotates the direction of a magnet. In \glsdesc{gls:QM} the states of a system are always represented by a linear vector space. There is the abstract representation, and the concrete representation by column vectors. How big are the column vectors? It depends on the system: it is the number of mutually orthogonal possibilities. If the system only consists of an electron spin, there are only two states; if there are two electrons there are four states. If we are interested in position and momentum, there are an infinite number of states. So there must be representations of the rotational group that are infinite dimensional.
+
+For the spin of an electron, rotations can be represented by $2\times 2$ matrices. A spin 1 particle has 3 mutually orthogonal states, so the rotations are represented by $3\times 3$ matrices. Spin 0 particles aren't affected by rotations. The same abstract group element may have many matrix representations of different dimensionality.
+
+\subsection{Group Representations}
+
+When we deal with spin $\frac{1}{2}$ particles, we \emph{represent} a rotation by a $2\times 2$ unitary matrix $U$ with determinant $1$: each matrix represents one element of the group. This representation exploits two facts concerning determinants, to ensure that the set of \emph{unimodular} unitary matrices is closed under multiplication and taking the inverse:
+\begin{align*}
+	\lvert AB\rvert=&\lvert A\rvert\lvert B\rvert\\
+	\lvert A^{\dagger}\rvert=&\lvert A\rvert
+\end{align*}
+
+$SU(2)$ is not exactly the same as 1D rotations: there is a $2\rightarrow1$ correspondence, not  $1\rightarrow1$, since $-U$ and $U$ correspond to the same rotation. This is why the electron wave function is called a doublet.
+
+Generators are closely connected to infinitesimal elements. If you know the structure of the generators you can work out the whole structure of the group, since you can build big rotations out of small ones. Generators let us figure out conservation laws.
+
+\begin{align*}
+	U =& I + i \epsilon T\\
+	I =& U^\dagger U + 1\\
+	=& I + i\epsilon(T - T^\dagger) - \epsilon^2 T T^\dagger \text{ ,so to $O(\epsilon)$}\\
+	i\epsilon(T - T^\dagger)=&0\text{, whence}\\
+	T =& T^\dagger \text{, so it is Hermitian, hence an observable}\\
+	\det(U) =& 1\\
+	\implies&\text{ \{Lemma \ref{lemma:det:Tr}\}}\\
+	Tr(t)=&0
+\end{align*}
+
+Since the 3D rotation group has three parameters, the Ts span a 3D space. See (\ref{eq:pauli:x}), (\ref{eq:pauli:y}), and (\ref{eq:pauli:z}). We can figure out generators from commutation rules.
+
+The generators for the group of rotations are the angular momentum operators for the system: you act with the angular momentum to rotate the system a little. The conserved quantities are the generators.
+
+In SU(3) we have $3\times3$ matrices, so $3\times3\times2=18$ real components; the matrix being unitary imposes 9 constraints, and unimodularity imposes one more, whence there are $18-9-1=8$ degrees of freedom: these matrices are known as the Gell-Mann matrices.
+
+\begin{defn}[The Gell-Mann matrices]
+	\begin{alignat*}{4}
+		\lambda_1=&\begin{pmatrix}
+			0&1&0\\
+			1&0&0\\
+			0&0&0
+		\end{pmatrix} \; \lambda_2=&\begin{pmatrix}
+			0&-i&0\\
+			i&0&0\\
+			0&0&0
+		\end{pmatrix}\;\lambda_3=&\begin{pmatrix}
+			1&0&0\\
+			0&-1&0\\
+			0&0&0
+		\end{pmatrix}\;	\lambda_4=&\begin{pmatrix}
+			0&0&1\\
+			0&0&0\\
+			1&0&0
+		\end{pmatrix}\\
+		\lambda_5=&\begin{pmatrix}
+			0&0&-i\\
+			0&0&0\\
+			i&0&0
+		\end{pmatrix}\;	\lambda_6=&\begin{pmatrix}
+			0&0&0\\
+			0&0&1\\
+			0&1&0
+		\end{pmatrix} \;	\lambda_7=&\begin{pmatrix}
+			0&0&0\\
+			0&0&-i\\
+			0&i&0
+		\end{pmatrix} \;	\lambda_8=&\frac{1}{\sqrt{3}} \begin{pmatrix}
+			1&0&0\\
+			0&1&0\\
+			0&0&-2
+		\end{pmatrix}
+	\end{alignat*}
+	NB: the matrices have been normalized so that $Tr(\lambda_i^2)=2$; the Pauli matrices have the same property.
+\end{defn}
+
+\begin{thm}[The Gell-Mann matrices are generators for $SU(3)$]
+
+\end{thm}
+\begin{proof}
+	We need to establish that:
+	\begin{enumerate}
+		\item each Gell-Mann matrix is Hermitian;
+		\item the trace of each Gell-Mann matrix is 0;
+		\item the Gell-Mann matrices are linearly independent.
+	\end{enumerate}
+	The first two requirements are clear by inspection. We need only establish linear independence. We can rearrange the $\{\lambda_i\}$ into 4 pairs, with the property that the members of each pair are linearly independent of every other pair:
+	\begin{alignat*}{2}
+		\lambda_1=&\begin{pmatrix}
+			0&1&0\\
+			1&0&0\\
+			0&0&0
+		\end{pmatrix} \; \lambda_2=&\begin{pmatrix}
+			0&-i&0\\
+			i&0&0\\
+			0&0&0
+		\end{pmatrix}\\
+		\lambda_4=&\begin{pmatrix}
+			0&0&1\\
+			0&0&0\\
+			1&0&0
+		\end{pmatrix}\;		\lambda_5=&\begin{pmatrix}
+			0&0&-i\\
+			0&0&0\\
+			i&0&0
+		\end{pmatrix}\\
+		\lambda_6=&\begin{pmatrix}
+			0&0&0\\
+			0&0&1\\
+			0&1&0
+		\end{pmatrix} \;	\lambda_7=&\begin{pmatrix}
+			0&0&0\\
+			0&0&-i\\
+			0&i&0
+		\end{pmatrix}\\
+		\lambda_3=&\begin{pmatrix}
+			1&0&0\\
+			0&-1&0\\
+			0&0&0
+		\end{pmatrix}\;	\lambda_8=&\frac{1}{\sqrt{3}} \begin{pmatrix}
+			1&0&0\\
+			0&1&0\\
+			0&0&-2
+		\end{pmatrix}
+	\end{alignat*}
+	
+	By inspection of the non-zero coefficients, we see that the elements of each pair are linearly, e.g. independent $\lambda_1$ and $\lambda_2$ are linearly independent, whence the linear independence of the $\lambda_i$ follows.
+
+\end{proof}
+
+We can combine representations to form new representations. E.g. we might compose spins to make a composite. E.g. combine 2 spin $\frac{1}{2}$ objects. We have 4 possible states: a basis in that space can be thought of as a spin 0 object plus 3 spin 1 objects. We can make ${-1,0,+1}$, but the zero can be done in 2 ways: so one of the zero spins must not be part of the spin 1 multiplet, it can only be spin 0 (see \gls{gls:ortho:hydrogen} and \gls{gls:para:hydrogen}).
+
+\subsection{Representations of $SU(3)$.}
+ 
+We want to jump so $SU(3)$ and discus some very specific representations. First there is the \emph{Triplet}, a $3\times3$ matrix acting on the three colours of a quark, mixing up states, transforming to a quantum superposition.
+
+There are 3 important representations: 
+
+\subsubsection{The \bfseries{3}}
+We can think of this operating on a quark, and mixing up the colours, or on the three field operators that generate a quark.
+
+\begin{align*}
+	\begin{pmatrix}
+		.&.&.\\
+		.&.&.\\
+		.&.&.
+	\end{pmatrix}
+	\begin{pmatrix}
+		q_r\\
+		q_g\\
+		q_b
+	\end{pmatrix}
+\end{align*} 
+
+\subsubsection{$\bar{3}$}
+
+Antiquarks, represented by complex conjugates (not Hermitian conjugates)
+
+\begin{align*}
+	U q =& q^\prime\\
+	U^* q^* = q^\prime& 
+\end{align*}
+
+Electron and positron are complex conjugate representations of $U(1)$. ($e^{i\theta}\psi_e \rightarrow e^{-i\theta}\psi_p$).
+
+Generators of $\bm{\bar{3}}$ are negatives of generators of {\bfseries 3}, so they carry negative colour.
+
+\subsubsection{$3 \otimes 3$}\label{sec:3:3:8}
+
+Combine two quarks ${RR, RG, RB,...}$
+
+\begin{align*}
+	3 \otimes 3 =& \underbrace{\bar{3}}_\text{combine antisymmetrically} \oplus \underbrace{6}_\text{combine symmetrically}
+\end{align*}
+Combine a quark and antiquark ${R\bar{R}, R\bar{RG}, R\bar{B},...}$
+
+\begin{align*}
+	3 \otimes \bar{3} =& \underbrace{1}_\text{singlet: $R\bar{R}+G\bar{G}+B\bar{B}$} \oplus \underbrace{8}_\text{8 dimensional representation--generators!}
+\end{align*}
+
+\begin{align*}
+	3 \otimes 3 \otimes 3 =& (3 \otimes 3) \otimes 3\\
+	=& \big(\bar{3} \oplus 6 \big) \otimes 3\\
+	=& \bar{3}   \otimes 3 + 6 \otimes 3\\
+	=& \underbrace{1}_\text{antisymmetrized superposed R, G, B} \oplus 8 \oplus 8 \oplus 10
+\end{align*}
+
+A gluon is an object that behaves like a quark-antiquark under colour symmetry: it transforms under the 8 (octet), in the same way as the gene`rators.
+
+\subsection{Quantum Chromodynamics (resumed)}
+
+\begin{table}[H]
+	\begin{center}
+		\caption{Postulates of \glsdesc{gls:QCD}.}\label{table:postulates:QCD}
+		\begin{tabular}{|l|c|p{8cm}|} \hline
+			\textbf{Particle}&\textbf{Group}&\textbf{Remarks} \\ \hline
+			Quark&{\bfseries 3}& \\ \hline
+			Antiquark&$\bm{\bar{3}}$& \\ \hline
+			gluon&{\bfseries 8}&$\bm{3}\otimes\bm{3}=\bm{8}\oplus\bm{1}$, but the $\bm{1}$ does not exist in nature. It also doesn't mix with other components, so it is consistent to throw it away \\ \hline
+			Free particles&{\bfseries 1}&All observable particles transform as singlets: quark+antiquark(meson), or 3 quarks (baryon).\\ \hline
+			&&Gluons play the same role in \glsdesc{gls:QCD} as photons in \glsdesc{gls:QED}, sourced from the 8 generators--Figure \ref{fig:2-4-quark-gluon-field}. Just as electric field of two particles has lower energy if total charge zero, gluon fields have lowest energy if total colour zero. But coupling constant higher, which is why we don't see free quarks.\\ \hline
+		\end{tabular}
+	\end{center}
+\end{table}
+
+What if we combine gluons together, or gluons with quarks?
+
+\begin{defn}[Glueball]\label{defn:glueball}
+	Combine two gluons. $\bm{8} \otimes \bm{8} = \bm{63} \oplus \bm{1}$ -- 2 gluons. The singlet is known as a glueball.
+\end{defn}
+
+There are 3 kinds of Hadrons (colour singlets):
+\begin{itemize}
+	\item Baryons
+	\item Mesons
+	\item Glueballs
+\end{itemize}
+
+$SU(3)$ singlets also give integer charge, as phases cancel.
+
+\subsubsection{an illuminating digression involving $SU(2)$} 
+
+We have $\Psi_i$, where $i\in \{up,down\}$. Suppose we want to make two particles, we need to act twice: $\Psi_i\Psi_j$, or $\Psi_i\Phi_j$(two different particles, e.g. the proton and electron in a hydrogen atom). We have a tensor-like object, having repeated indices. $S2(2)$ can act on it.
+
+\begin{align*}
+	\begin{pmatrix}
+		.&.&.&.\\
+		.&.&.&.\\
+		.&.&.&.\\
+		.&.&.&.
+	\end{pmatrix} \begin{pmatrix}
+						\Psi_u\Phi_u\\
+						\Psi_u\Phi_d\\
+						\Psi_d\Phi_u\\
+						\Psi_d\Phi_d
+				\end{pmatrix} 
+\end{align*}
+
+ The operator mixes things up, but we find
+\begin{align*}
+    \Psi_u\Phi_d-\Psi_d\Phi_u \text{, is unchanged, if forms a singlet}	
+\end{align*}
+The next 3 mix among themselves and behave like a spin 1 object, the {\bfseries 3}.
+\begin{align*}
+	\begin{cases}
+		\Psi_u\Phi_d+\Psi_d\Phi_u\\
+		\Psi_u\Phi_u\\
+		\Psi_d\Phi_d
+	\end{cases}
+\end{align*}
+
+There are representations of $SU(2)$ of every dimensionality, but this isn't the case for $SU(3)$: there is the singlet, the triplets, the octet, a 10, a 15, a 20,... The really interesting point is the singlets, the ways to combine quarks that don't rotate, the analogs of electrically neutral--where all the phases cancel. The 3 quark singlet is $\epsilon_{ijk}q_{i}q_{j}q_{k}$. 
+
+In the  basis that separates the singlet from the triplet, the matrices become:
+\begin{align*}
+	\begin{pmatrix}
+		1&0&0&0\\
+		0&.&.&.\\
+		0&.&.&.\\
+		0&.&.&.
+	\end{pmatrix}
+\end{align*}
+
+NB. If matrices have a block diagonal form in some basis, mixing occurs only within each block.
+
+Nambu wondered what we had to add to the theory of quarks in order to not have fractionally charged particles. He realized that if thye quarks carried a quantum number (which he did not call ''colour''), and you required that the colour be a singlet, you would never get fractionally charged particles.
+
+He had an answer to why particles should only occur in singlets. We need a postulate for the interaction between quarks and gluons: gluons play the same role in \glsdesc{gls:QCD} that photons do in \glsdesc{gls:QED}. But photons couple to the electric field: the source of the field is charge. What is the source of the 8 gluons? There must be 8 conserved quantities, similar yo electric charge, and each is the source of one species of gluon. What 8 things do we have available? The 8 generators of $SU(3)$, which are analogous to angular momentum in $SU(2)$. See Figure \ref{fig:2-4-quark-gluon-field}.
+
+In electrodynamics a charge and an anticharge attract each other: they have lower energy if they are close together, and a charged system has more energy than one that is neutral--Figure \ref{fig:particles:pair:charges}. The larger the charge of a particle, the more profitable it is to have a neutral system. If the coupling coefficient were mush higher than it is, it would be prohibitively expensive to have separate charges.
+
+\begin{figure}[H]
+	\caption{A charged system has more energy than one that is neutral}\label{fig:particles:pair:charges}
+	\begin{subfigure}[t]{0.45\textwidth}
+		\caption{There is field energy stored, as field has to go somewhere.}
+	 	\includegraphics[width=\textwidth]{particles-2-4-pair-charges}
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[t]{0.45\textwidth}
+		\caption{Opposite charges: no outside field}
+		\includegraphics[width=\textwidth]{particles-2-4-pair-opposite-charges}
+	\end{subfigure}
+\end{figure}
+
+So Nambu realized that if colour is the source of the gluon field, and if the coupling constant is large enough, we won't be able to pull quarks apart into non-singlet states.
+
+The dynamics is more interesting than Nambu realized, because the 8 gluons aren't neutral: they have colour. The neutral piece was the 9th member, which we threw away. The carry large amounts of energy, and don't appear as free particles. Gluons can interfere with each other, which is why \glsdesc{gls:QCD} is more complicated than \glsdesc{gls:QED}--see Figure \ref{fig:QCD:QED}.
+ 
+\begin{figure}[H]
+	\caption[Why \gls{gls:QCD} is more complicated than \gls{gls:QED}]{Why \glsdesc{gls:QCD} is more complicated than \glsdesc{gls:QED}}\label{fig:QCD:QED}
+	\begin{subfigure}[t]{0.45\textwidth}
+		\caption[Quark surrounded by Gluon Field]{Quark surrounded by Gluon Field: there are 8 such fields, which transform according to the {\bfseries 8}. If this were \glsdesc{gls:QED} the field lines would not interact, but this is not true in \glsdesc{gls:QCD}, as the lines are not neutral: they attract each other.}\label{fig:2-4-quark-gluon-field}
+		\includegraphics[width=0.9\textwidth]{2-4-quark-gluon-field}
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[t]{0.45\textwidth}
+		\caption{If Figure \ref{fig:2-4-quark-gluon-field} were an electromagnetic field, field lines would not attract or repel each other. In \glsdesc{gls:QCD} they have colour, so they attract each other and form tubes.}
+		\includegraphics[width=0.9\textwidth]{2-4-quark-gluon-field-tubes}
+	\end{subfigure}
+	
+	\begin{subfigure}[t]{0.45\textwidth}
+		\caption{Tube linking quark and anti-quark-fluxoid. There is a uniform field, no matter how far particles separated.}
+		\includegraphics[width=0.9\textwidth]{2-4-quark-gluon-field-tubes-QAQ}
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[t]{0.45\textwidth}
+		\caption{Fluxoid. There is a uniform energy per unit length, so force increases as tube stretches. Unless flux tube ends at a quark/antiquark, energy is infinite.}
+		\includegraphics[width=0.9\textwidth]{2-4-quark-gluon-field-tube-uniform-energy}
+	\end{subfigure}
+	\begin{subfigure}[t]{0.45\textwidth}
+		\caption{If meson has enough energy, tube may break, using quark-antiquark pair from vacuum. This forms a jet.}
+		\includegraphics[width=0.9\textwidth]{2-4-split-meson}
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[t]{0.45\textwidth}
+		\caption{Three quarks with their tubes}
+		\includegraphics[width=0.9\textwidth]{particles-2-4-three-quarks}
+	\end{subfigure}
+\end{figure}
+
+\glsdesc{gls:QCD} is a gauge field--Sections \ref{section:gauge:symmetry} and \ref{section:gauge:invariance}.
+
+\begin{defn}[Gauge field]\label{defn:gauge:field}
+	A gauge field is any theory where conserved quantities are coupled to a Maxwell-like field. They are always based on symmetries.
+\end{defn}
+
+Charges linked are linked by lines of force. In Figure \ref{fig:2-4-quark-gluon-field}, fields lines must end on charge; this means charge is conserved, which is related to symmetry. You cannot remove the charge, because it is anchored at infinity. Removing it would require propagating a signal at a speed faster then light.
+
+\section{Gauge Fields and Symmetry}\label{section:gauge:symmetry}
+ 
+We have studied \glsdesc{gls:QED} and \glsdesc{gls:QCD}: both are gauge theories. Just about all of nature as we know it is controlled by gauge theories of one kind or another. We will not get deeply into gauge symmetry; we'll cover the basis of gauge theory in a minimal mathematical way.
+
+\subsection{Gauge Fields and Symmetry}
+
+The first and simplest gauge theory is Maxwell's theory. A gauge theory is a theory of fields that have all the properties of the electromagnetic field. This has six components, the electric and magnetic fields, which are generated from a potential $A_\mu=(A_0,\vec{A})$.
+\begin{itemize}
+	\item  $A_0$ is the electric potential: $F_i=e \frac{\partial A_0}{\partial x_i}$.
+	\item Electric field $\vec{E}=\nabla A_0$.
+	\item Magnetic field $\vec{B}=\nabla \times \vec{A}$
+\end{itemize}
+
+The electric and magnetic fields combine to make the field tensor\cite{susskind2017special}:
+\begin{align*}
+	F_{\mu,\nu} =&\begin{pmatrix} \numberthis \label{eq:field:tensor}
+		0&-E_x&-E_y&-E_z\\
+		E_x&0&B_z&-B_y\\
+		E_y&-B_z&0&B_x\\
+		E_z&B_y&-B_x&0
+	\end{pmatrix}
+\end{align*}
+
+\begin{figure}[H]
+	\caption{The electromagnetic field}
+	\begin{subfigure}[t]{0.45\textwidth}
+		\caption{Electromagnetic waves. The polarization is in direction of electric field.}
+		\includegraphics[width=\textwidth]{2-5-EM-field}
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[t]{0.45\textwidth}
+		\caption{A charge acting a source for the electromagnetic field. By convention a positive charge gives rise to outward arrows, which fall of as $\frac{1}{r^2}$. If we imagine the number of field lines as constant, and integrate over a sphere surrounding the charge, the integral is the same regardless of the radius--Gauss's law.}
+		\includegraphics[width=\textwidth]{particles-2-5-electric-field}
+	\end{subfigure}
+\end{figure}
+
+There are sources for electromagnetic waves: they are charges and currents. Gauss's Law has a very strong consequence: if there is only one positive charge in the centre, there is no way to get rid of the charge: to do this either the electric field has to suddenly disappear everywhere, violating the rule that you can't send a signal faster than the speed of light, or you need to send out a wave of missing field, which would require charges. Gauss's law requires electric charge to be conserved.
+
+The essence of a gauge theory: in Maxwell-like theories, with electric-like and magnetic-like fields, if gauge field is weakly coupled (interactions between parts don't interfere with each other), motion of a gauge field is exactly the same as a light wave; it moves at the speed of light unless something interferes.
+ 
+This was the simplest example of a gauge theory, a gauge charge, and a symmetry that goes along with the conservation of that charge. We recall how this worked in \glsdesc{gls:QCD}. We have Maxwell-like fields, labeled by indices, $A_{ij}$, which transform under $SU(3)$. We started with the quark field, $q_i$, indexed by colour, and transformed by a special unitary matrix: $q_i \rightarrow U_{ij} q_j$. This is a symmetry operation. The $q$ are called the fundamental representation of $SU(3)$.
+Antiparticles are represented by the complex-conjugate fields, and the representation is denoted $\bar{3}$.
+
+$A_{ij}$ has the same structure as a quark $g_j$ and an antiquark $q^*_i$, together with the assumption that $Tr(A)=0$. It transforms under $SU(3)$: photons do not transform under $SU(2)$, as they don't have electric charge. Gluons have colour in what is known as they adjoint representation.
+
+
+Gauge theories  always have conserved quantities, hence symmetries. The group might be $SU(N)$, with $N$ particles, the same number of antiparticles, and $N^2-1$ gauge bosons--see Figure Figures \ref{fig:2-2-gluon3} and \ref{fig:2-2-gluon5}. But since each gluon acts like a quark-antiquark pair, the process of Figure \ref{fig:basic:interactions:gauge}, which transforms a gluon to another, is also relevant. Unlike photons, gluons are charged particles and exert forces on each other.
+
+
+\begin{figure}[H]
+	\caption{Basic interactions of gauge theory}\label{fig:basic:interactions:gauge}
+	\begin{subfigure}[t]{0.45\textwidth}
+		\caption{i becomes j by emitting a quantum of field $A_{ji}$}
+		\includegraphics[width=0.9\textwidth]{2-change-charge} 
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[t]{0.45\textwidth}
+		\caption{Interaction with gluons only: they exert forces that photons don't.}
+		\includegraphics[width=0.9\textwidth]{2-5-gluon-gluon}
+	\end{subfigure}
+\end{figure}
+
+\subsection{Strong and Weak Interactions}
+
+There is one other thing in a gauge theory, the coupling constant. The coupling constant is the analog of the charge of the electron, which is the coefficient in a Feynman diagram such as Figure \ref{fig:fep:emit}: when you emit an electron the amplitude is $e$. If you want to think about it operationally, imagine an electron slamming into an anode: the probability of emitting a photon is $e^2$, in suitable units: $\frac{P}{4\pi}=\frac{1}{137}$. Electromagnetism is a weak force, as the probability of a process is low. 
+
+Set $c=1$, $\hslash=1$, then energy is in units of $\frac{1}{T}$: $1eV^{-1}=10^{-7}M$.
+
+\subsubsection{Strong and Electromagnetic Interactions}
+
+Table \ref{table:ems} compares various properties of the Strong and Electromagnetic Interactions.
+
+\begin{table}[H]
+	\begin{center}
+		\caption{Electromagnetic and strong}\label{table:ems}
+		\begin{tabular}{|l|r|r|} \hline
+			&\textbf{Atom}&\textbf{Hadron} \\ \hline
+			$\alpha$&$\frac{1}{137}$&$\frac{1}{5}$\\ \hline	
+			Diameter atom&$10^{-10}M$&$10^{-15}M$ \\ \hline
+			Transit time &$10^{-18}S$&$10^{-23}S$\\ \hline
+			Orbital time &$10^{-16}S$&$10^{-23}S$\\ \hline
+			Decay time (from $1^{st}$ excited state)&$10^{-9}S$&$10^{-23}S$\\ \hline
+		\end{tabular}
+	\end{center}
+\end{table}
+
+Times for Hadrons less spread out: \glsdesc{gls:QCD} version of $\alpha$ much closer to 1 ($\frac{1}{5}$). This is why strong interactions are called \emph{strong}.
+
+\subsubsection{Weak Interactions}
+
+There is another set of interactions that are characterized by being quite slow. Table \ref{table:ex:weak} gives examples.
+
+\begin{table}[H]
+	\begin{center}
+		\caption{Examples of Weak decay}\label{table:ex:weak}
+		\begin{tabular}{|l|l|p{6cm}|}\hline
+			$n \rightarrow e + p +\bar{\nu}$&12 minutes&There is barely enough energy: 940\gls{gls:MeV} $\rightarrow$ 939\gls{gls:MeV} + 0.5\gls{gls:MeV}, but this isn't enough to explain the slowness.\\ \hline
+			$\pi^- \rightarrow e^- + \bar{\nu} $&$10nS$&Plenty of energy, but still slow.\\ \hline
+			$\pi^+ \rightarrow e^+ + \nu $&&\\ \hline
+		\end{tabular}
+	\end{center}
+\end{table}
+
+These are very slow: clearly something else is going on! We need to understand something about leptons--Table \ref{tab:QCD:rows}. \begin{itemize}
+	\item Colour symmetry, $SU(3)$, operates on rows; a $u$ remains a $u.$
+	\item We introduce a new gauge symmetry, $SU(2)$ operating horizontally: $u\leftrightarrow d$;  $c\leftrightarrow s$;  $t\leftrightarrow b$.
+\end{itemize}
+
+\begin{table}[H]
+	\begin{center}
+		\caption[Weak and Strong interactions]{Colour symmetry operates on first three rows, not on columns. Weak interactions acts horizontally. They mix up with down, charm with strange, top with bottom. The fourth row is not normally considered to be a colour, but it too comprises doublets, which interchange under an $SU(2)$ symmetry.}\label{tab:QCD:rows}
+		\begin{tabular}{|l|c|c|c|} \hline
+			&\textbf{u d}&\textbf{c s}&\textbf{t b} \\ \hline
+			red&x x&x x&x x\\ \hline
+			green&x x&x x&x x\\ \hline
+			blue&x x&x x&x x\\ \hline
+			leptons&$\nu_e$ e&$\nu_\mu$ $\mu$&$\nu_\tau$ $\tau$\\ \hline
+		\end{tabular}
+	\end{center}
+\end{table}
+
+The last row deals with Leptons. They appear in an order that depends on the charge difference: $u-d=\nu_e-e$
+
+\subsubsection{A microscopic gauge theory of weak interactions}
+
+Typically a gauge boson combines a particle and an antiparticle. Let us postulate a gauge boson that interchanges members of each doublet in Table \ref{tab:QCD:rows}. and start by applying it to leptons. Imagine a composite, $e \bar{\nu_e}$. Whatever this is, it has negative electric charge. We call this gauge boson, $W^-$:
+
+ \begin{itemize}
+ 	\item $e \bar{\nu_e}\leftrightarrow W^- \leftrightarrow d\bar{u}$
+ 	\item $e^+ \nu_e\leftrightarrow W^+ \leftrightarrow \bar{d}u$
+ \end{itemize}
+
+This is sometimes known as the flavour symmetry.
+
+Imagine that W is like photons or gluons, so it behaves as shown in Figure \ref{fig:W:photon:fluon}: it can be emitted by a quark or lepton.
+
+\begin{figure}[H]
+	\caption[W is like a photon or gluon]{W is like a photon or gluon. The gauge boson is imagined to do the same thing as the symmetry.}\label{fig:W:photon:fluon}
+	\begin{subfigure}[t]{0.45\textwidth}
+		\caption{$e \rightarrow\nu + W^-$}\label{fig:2-5-W1}
+		\feynmandiagram[vertical=o1 to i1]{
+			i1[particle=$e$]--[fermion] a--[fermion] o1[particle=$\nu$],
+			a--[charged boson,edge label=$W^-$]o2
+		};
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[t]{0.45\textwidth}
+		\caption{$d \rightarrow u + W^-$}
+		\feynmandiagram[vertical=o1 to i1]{
+			i1[particle=$d$]--[fermion] a--[fermion] o1[particle=$u$],
+			a--[charged boson,edge label=$W^-$]o2
+		};
+	\end{subfigure}
+	\begin{subfigure}[t]{0.45\textwidth}
+		\caption{$s \rightarrow c + W^-$}
+		\feynmandiagram[vertical=o1 to i1]{
+			i1[particle=$s$]--[fermion] a--[fermion] o1[particle=$c$],
+			a--[charged boson,edge label=$W^-$]o2
+	};
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[t]{0.45\textwidth}
+		\caption{$W^+$ and $W^-$ are antiparticles, so we can redraw \ref{fig:2-5-W1}}
+		\feynmandiagram[vertical=o1 to i1]{
+			i1[particle=$e$]--[fermion] a--[fermion] o1[particle=$\nu$],
+			o2--[charged boson,edge label=$W^+$]a
+		};
+	\end{subfigure}
+\end{figure}
+
+So there is a \emph{possibility} that there is a gauge boson that does what we want.
+There was a question about whether $ud$ and $cs$ involve the same $W$ boson, but LS pointed out that it is the same symmetry. Mathematically there could be different $W$ bosons, but we have only observed one.
+
+ 
+\begin{figure}[H]
+	\caption{Examples of W boson mediated decays}
+	\begin{subfigure}[t]{0.45\textwidth}
+		\caption{Pion decay. Don't worry about conservation of energy in intermediate states, such as the $W$ boson. Heisenberg uncertainty principle means that $W$ can exist for only a short time. We need only worry about energy and momentum in initial and final states.}
+		\feynmandiagram[small,vertical = t1 to a]{
+			a [particle=\(\pi^{-}\)] -- [boson] t1 -- t2 --[opacity=0.1] t3 -- t1,
+			t2 -- [fermion,edge label=\(d\)] p1 ,
+			t3 -- [fermion,edge label'=\(\bar{u}\)] p1,
+			p1 -- [boson,edge label'=\(W^-\)] p2,
+			p2 -- [fermion,edge label'=\(e^-\)]  f1,
+			p2 -- [fermion,edge label'=\(\bar{\nu_e}\)]  f2,
+		};
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[t]{0.45\textwidth}
+		\caption{Pion decay to muon (for technical reasons this is more common than decay to electron)}
+		\feynmandiagram[small,vertical = t1 to a]{
+			a [particle=\(\pi^{-}\)] -- [boson] t1 -- t2 --[opacity=0.1] t3 -- t1,
+			t2 -- [fermion,edge label=\(d\)] p1 ,
+			t3 -- [fermion,edge label'=\(\bar{u}\)] p1,
+			p1 -- [boson,edge label'=\(W^-\)] p2,
+			p2 -- [fermion,edge label'=\(\mu^-\)]  f1,
+			p2 -- [fermion,edge label'=\(\bar{\nu_{\mu}}\)]  f2,
+		};
+	\end{subfigure}
+	
+	\begin{subfigure}[t]{0.45\textwidth}
+		\caption{Muon decay. Muon has much more energy that electron, so most of its energy becomes kinetic energy.}
+		\begin{tikzpicture}
+			\begin{feynman}
+				\vertex (a) {\(\mu^{-}\)};
+				\vertex [right=of a] (b);
+				\vertex [above right=of b] (f1) {\(\nu_{\mu}\)};
+				\vertex [below right=of b] (c);
+				\vertex [above right=of c] (f2) {\(\overline \nu_{e}\)};
+				\vertex [below right=of c] (f3) {\(e^{-}\)};
+				\diagram* {
+					(a) -- [fermion] (b) -- [fermion] (f1),
+					(b) -- [boson, edge label'=\(W^{-}\)] (c),
+					(c) -- [anti fermion] (f2),
+					(c) -- [fermion] (f3),
+				};
+			\end{feynman}
+		\end{tikzpicture}
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[t]{0.45\textwidth}
+		\caption{Neutron decay. W doesn't have enough energy to make muon, unless we hit neutron really hard.}
+		\begin{tikzpicture}[x=15mm, y=15mm]
+			\begin{feynman}
+				\vertex (i1) {\(u\)};
+				\vertex[right=.15 of i1] (i2) {\(d\)};
+				\vertex[right=.15 of i2] (i3) {\(d\)};
+				\vertex[below=.3 of i2] (n) {\(n\)};
+				
+				\vertex[above=2 of i1] (f1) {\(u\)};
+				\vertex[right=.15 of f1] (f2) {\(d\)};
+				\vertex[right=.15 of f2] (f3) {\(u\)};
+				\vertex[above=.3 of f2] (p) {\(p\)};
+				
+				\vertex[above=1 of i3] (a);
+				\vertex[right=.15 of a] (b);
+				\vertex[right=.15 of b] (c);
+				
+				\vertex at ($(c) + (1,.25)$) (d);
+				\vertex at ($(d) + (.2, 1)$) (f4) {\(\bar{\nu}_e\)};
+				\vertex at ($(d) + (.9,.5)$) (f5) {\(e^-\)};
+				\diagram*{
+					(i1) -- [fermion] (a) -- [fermion] (f1),
+					(i2) -- [fermion] (b) -- [fermion] (f2),
+					(i3) -- [fermion, thick] (c) -- [fermion, thick] (f3),
+					(c) -- [boson, edge label'=\(W^-\), thick] (d) -- [fermion, thick] (f5),
+					(d) -- [anti fermion, thick] (f4),
+				};
+				
+				\draw[-stealth] (-.4,-.4) -- (-.4,2.2);
+				\node at (-.4,2.3) {\(t\)};
+			\end{feynman}
+		\end{tikzpicture}
+	\end{subfigure}
+\end{figure}
+
+$SU(2)$ has three generators, so there must be another gauge boson lurking around, which must be associated with electron/positron, neutrino/antineutrino. Historically it wasn't very important.
+
+Why are weak interactions so slow? One possibility is the coupling constant, but we will see in the next lecture that this isn't the case.
+
+\section{The Weak Interaction}
+
+Let us get back to $SU(3)$ and $SU(3)$. $SU(3)$ was \glsdesc{gls:QCD}. It is the symmetry that acted vertically in Table \ref{tab:QCD:rows} and took us from one colour to another, and mixed them up. The generators are associated with gluons: the physical phenomenon of emitting a gluon does the same thing as the symmetry group that mixes up colours. Gauge bosons are a manifestation of the symmetry group: emission of the boson does the same thing to a fermion as the symmetry group. When you apply a symmetry you do it to the entire set of quarks, not just to the $up$, say.
+
+\begin{figure}[H]
+	\caption[The same gluon changes the colour of a quark of any flavour]{The same gluon changes the colour of a quark of any flavour, without changing the flavour}\label{fig:gluon:changing:colour}
+	\begin{subfigure}[t]{0.45\textwidth}
+		\caption{A gluon turning a Red $u$ quark Green}
+		\includegraphics[width=\textwidth]{particles2-5-gluon-u}
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[t]{0.45\textwidth}
+		\caption{The same gluon turning a Red $t$ quark Green}
+		\includegraphics[width=\textwidth]{particles2-5-gluon-t}
+	\end{subfigure}
+\end{figure}
+ 
+We also have the electromagnetic symmetry and flavour symmetry: $u\leftrightarrow d$, $c\leftrightarrow s$, $t\leftrightarrow b$, keeping the colour unchanged. Figure \ref{fig:gluon:changing:colour} is a physical manifestation of the transform that takes us horizontally in Table \ref{tab:QCD:rows}.
+
+\begin{figure}[H]
+	\caption[Changing flavour of quark]{Changing flavour of quark. $W^+$ can swap  $u$ with $d$, $s$ with $c$, $t$ and $b$, but it cannot swap between \glspl{gls:family}, e.g. $u$ $s$.}\label{fig:uB:dB}
+	\begin{subfigure}[t]{0.45\textwidth}
+		\caption{$W^+$ changing (up,blue) to (down,blue)}
+		\feynmandiagram[horizontal' = f1 to f2]{	
+			i1 [particle = $uB$] -- [fermion]  a --[fermion] f1 [particle = $dB$],
+			a -- [boson] f2 [particle = $W^+$],
+		};
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[t]{0.45\textwidth}
+		\caption{The same $W^+$ would change (charm,green) to (strange,green)}
+		\feynmandiagram[horizontal' = f1 to f2]{	
+			i1 [particle = $cG$] -- [fermion]  a --[fermion] f1 [particle = $sG$],
+			a -- [boson] f2 [particle = $W^+$],
+		};
+	\end{subfigure}
+\end{figure}
+Gluons never move us horizontally; $W^+$ bosons never move vertically. This is the mathematical structure of $SU(3) \otimes SU(2)$. If we add the electromagnetic symmetry (photon emission changes the phase of every charge carrying field), you have the basic ingredients of  $SU(3) \otimes SU(2) \otimes U(1)$.
+
+\subsection{Why is the weak interaction so slow?}
+
+The Standard Model is a gauge theory based on  $SU(3) \otimes SU(2) \otimes U(1)$ (It is not 100\% consistent for reasons that will become clear).
+
+What about the coupling constants that are involved in Figure \ref{fig:uB:dB}?
+
+\begin{table}[H]
+	\begin{center}
+		\caption{Coupling Constants}
+		\begin{tabular}{|l|l|p{10cm}|} \hline
+			\textbf{Group}&\textbf{Coupling}&\textbf{Remarks} \\ \hline
+			$U(1)$&$e=\frac{1}{\sqrt{137}}$&Quantum mechanical amplitude for the real or virtual emission of a photon \\ \hline
+			$SU(3)$&$g_s \approxeq 1$&Associated with emission or absorption of a gluon\\ \hline
+			$SU(2)$&$g_w$&We might expect this to be very small, but this is not the reason that weak interactions are slow: it is in fact close to the electromagnetic coupling constant. Yet neutron decal is very slow--12 minutes--so why is it so unlikely?\\ \hline
+		\end{tabular}
+	\end{center}
+\end{table}
+
+
+Leptons almost act as if they are a fourth colour--Table \ref{tab:QCD:rows}. Notice the difference in charges between $u$ and $d$ is one unit, which matches the difference between $\nu_e$ and $e$; the $W$ only cares about the difference between charges. This also true for $c$ and $s$, and for $\mu$ and $\nu_{\mu}$. \begin{enumerate}
+	\item The muon is no longer called the ''mu meson''.
+	\item Incidentally, we don't know the masses of neutrinos very well.
+\end{enumerate}
+
+\begin{figure}[H]
+	\caption[Possible fates of a W boson]{Possible fates of a W boson. Let $g_W$ denote the coupling constant for the emission of a $W$, so the amplitude of (\subref{fig:2-6-W1}) is $g_w^2$--except we to take the propagator into account.}\label{fig:decay:neutron}
+	\begin{subfigure}[t]{0.5\textwidth}
+		\caption{Decay of a neutron. The $W$ line is the \emph{propagator}. Feynman diagrams consist of vertices and propagator, the latter being concerned with motion from one point to another.}\label{fig:2-6-W1}
+			\begin{tikzpicture}[x=15mm, y=15mm]
+		\begin{feynman}
+			\vertex (i1) {\(u\)};
+			\vertex[right=.15 of i1] (i2) {\(d\)};
+			\vertex[right=.15 of i2] (i3) {\(d\)};
+			\vertex[below=.3 of i2] (n) {\(n\)};
+			
+			\vertex[above=2 of i1] (f1) {\(u\)};
+			\vertex[right=.15 of f1] (f2) {\(d\)};
+			\vertex[right=.15 of f2] (f3) {\(u\)};
+			\vertex[above=.3 of f2] (p) {\(p\)};
+			
+			\vertex[above=1 of i3] (a);
+			\vertex[right=.15 of a] (b);
+			\vertex[right=.15 of b] (c);
+			
+			\vertex at ($(c) + (1,.25)$) (d);
+			\vertex at ($(d) + (.2, 1)$) (f4) {\(\bar{\nu}_e\)};
+			\vertex at ($(d) + (.9,.5)$) (f5) {\(e^-\)};
+			\diagram*{
+				(i1) -- [fermion] (a) -- [fermion] (f1),
+				(i2) -- [fermion] (b) -- [fermion] (f2),
+				(i3) -- [fermion, thick] (c) -- [fermion, thick] (f3),
+				(c) -- [boson, edge label'=\(W^-\), thick] (d) -- [fermion, thick] (f5),
+				(d) -- [anti fermion, thick] (f4),
+			};
+			
+			\draw[-stealth] (-.4,-.4) -- (-.4,2.2);
+			\node at (-.4,2.3) {\(t\)};
+		\end{feynman}
+	\end{tikzpicture}
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[t]{0.4\textwidth}
+		\caption{A different fate for the $W$: re-absorption. The $W^+$ is very heavy, and so cannot live long(the neutron doesn't have enough mass to make a real $W$, so we have a virtual particle)--$\Delta T \Delta E<\hslash$. The $W^+$ is simply reabsorbed.}\label{fig:absorption:W:boson}
+		\feynmandiagram[vertical = f1 to i1]{
+			i1[particle=$n$] -- [fermion]  a --[fermion,edge label=$p$] b--[fermion] f1 [particle=$n$],
+			a -- [boson, half right,edge label'=$W^-$] b, 
+		};
+	\end{subfigure}
+\end{figure}
+
+What is the probability of the process depicted in  Figure \ref{fig:2-6-W1}? This is a Feynman diagram, which consists of vertices and propagators. Propagators are the element that has to do with motion from one point to another. In this case the propagator runs from the point where the $W^+$ boson is emitted, to the point where the electron and neutrino are created. This process has two main ingredients that we can isolate. We have two factors of $g_W$, multiplied by the propagator $\Delta(ds)$, so $g_W^2\Delta(ds)$.
+
+The Propagator is a function of proper time between two points: $\Delta(ds)$, and it depends crucially on the mass. Figure \ref{fig:2-6-propagator} shows the dependence. For small distance $\Delta(ds)$ is independent of mass, but the values differ after a certain distance: $\Delta(ds)$ falls sharply to zero.
+
+\begin{figure}[H]
+	\caption[Propagator $\Delta(ds)$ as a function of distance.]{Propagator $\Delta(ds)$ as a function of distance. Black line is for zero mass ($\propto \frac{1}{ds^2}$), $\frac{1}{ds}$, red for non-zero, which decreases exponentially fast.}\label{fig:2-6-propagator}
+	\includegraphics[width=0.8\textwidth]{2-6-propagator}
+\end{figure}
+
+There interesting question is where $\Delta$ decreases suddenly? At what point does the propagator realize that it is carrying too much mass? The answer comes from dimensional analysis. Choose units where $c=\hslash=1$:
+\begin{align*}
+	[m] =& [E]\\
+	=& [L^{-1}]\\
+	=& [P]
+\end{align*}
+Now, from Heisenberg's uncertainty principle, distance has inverse dimensions to momentum
+\begin{align*}
+	[L]=& [\frac{1}{m}]\\
+	distance \propto & \frac{1}{L} \text{, in fact:}\\
+	distance \approxeq & \frac{\hslash}{mc} \text {, Compton wavelength}
+\end{align*}
+
+So at a distance inversely proportional to $m$, the propagator dies down.
+$\Delta^2(ds)$ is the probability particle can get that far. There is a sudden turn off of the probability, which is controlled by the mass of the particle.
+
+Usually what is prescribed in an experiment is not the position of the two particles, but the momenta. You measure the momentum of the neutron and proton, so the difference gives the momentum of the $W^+$, which in turn gives the momentum of the electron a neutrino. You don't now the distance between the vertices. But there is a relationship between momentum and distance, the Fourier transform. We can think of propagator as function of position, or momentum: what is the amplitude of emitting a $W$ of given momentum?
+
+\begin{align*}
+	\tilde{\Delta}(k_w)=\frac{1}{k_w^2+m_w^2} \numberthis \label{eq:Delta}
+\end{align*}
+
+Let us talk about photons for a moment. A photon has a mass of zero, an typically has a low momentum, so the propagator is quite large. In a weak interaction the propagator is much smaller. If the mass of with $W$ boson is large, the propagator will always be small. What if $k_w=0$? Propagator will be $\frac{1}{m_w^2}$, and that is as big as it gets. The most likely thing is to emit a low momentum W, which costs an amplitude of $\frac{1}{m_w^2}$. Amplitude for emitting $W$ and converting to electron plus neutrino is $\frac{g_w^2}{m_w^2}$: weak interactions are made weak because the mass of the W is large--about 100 protons! Probability is $\frac{g_w^4}{m_w^4}$.
+
+A student asked a question about the suppression of  deuteron decay. A thing can't happen unless there is enough energy for it to happen. Rates are controlled by three things:
+\begin{enumerate}
+	\item coupling constants;
+	\item masses of particles in intermediate states (via propagators);
+	\item available energy: this has to do with the initial start and the final state. The thing can happen with low probability if the available energy is just enough.
+\end{enumerate}
+
+The energy of the final state is the same as that of the initial state, so there really isn't enough energy to create the $W$ boson: the $W$ is produced virtually. According to the rules of quantum mechanics, conservation of energy can be violated briefly, as long as the time is short enough. If the apparent violation is $\Delta E$, it can only last for time $\Delta T$, where $\Delta T \Delta E<\hslash$. 
+ 
+ \begin{figure}[H]
+ 	\caption[Another illustration of a brief violation of conservation of energy]{Another illustration of a brief violation of conservation of energy: potential energy of an $\alpha$ particle in a nucleus. It doesn't have enough energy to escape over the hump, but it can tunnel out. It has zero kinetic energy before and after tunneling, but it appears to have a large potential energy in between. If you tried to measure in between, you would destroy the phenomenon of tunneling. How long does tunneling take? Again $\Delta T \Delta E<\hslash$}\label{fig:alpha:tunneling}
+ 	\includegraphics[width=0.8\textwidth]{particles2-6-pe}
+ \end{figure}
+ 
+The same thing happens in Figure \ref{fig:2-6-W1}. There is not enough energy in neutron to make a real $W$, but it can briefly make a virtual $W$, which cannot last very long-- $\Delta T \Delta E<\hslash$. One way to get rid of the $E$ is to reabsorb it, as in Figure \ref{fig:absorption:W:boson}, which is what happens most of the time. Emitting the electron and neutrino, as in Figure \ref{fig:2-6-W1}, is rare.
+ 
+We can verify the propagator for real $W$ (\ref{eq:Delta}) by creating high momentum particles in an accelerator.
+ 
+NB: since the probability of a weak interaction is low, the lifetimes are high, which can be traced to the anomalous mass of the $W$. 
+
+A student asked a question about the difference between real and virtual particles: basically a real particle is an input to or an output from a Feynman diagram, while virtual particles are only intermediates. This led to a discussion of trying to detect virtual particles in an experiment, say the tunneling in Figure \ref{fig:alpha:tunneling}. We need to detect the particle during $\Delta t$. Imagine that we try sending in a photon during this time: we'd need a very short wavelength pulse, so its energy would have to be about $Delta E$ big, which means it would knock the $\alpha$ particle by the amount we were trying to measure. Same thing happens with virtual $W$ bosons: we would need to knock the system with enough energy to create real $W$ bosons!
+ 
+Do we ever get to see the virtual photons that are present in an electron? Yes, if you hit the electron hard enough, you will knock the electron out, and the photon will be left. So, in that sense, you do get to see them. You see them if you put in enough energy. The same thing happens with W bosons.
+Figure \ref{fig:2-6-photons} shows a process where photons \emph{can} interact, via the creation of a virtual pair. Since probability is proportional to the inverse of the energy required, we don't see it in the lab. The same thing happens with W bosons. In Figure \ref{fig:proton:emits:W} you can think of a proton as an equilibrium between a proton and a neutron plus $W$, constantly going back and forth between the two things with a very fast oscillation. If you want to see that $W$, all you need to do it hit it hard enough with a photon whose frequency is high enough to resolve the short times the $W$ is out there, and that will have enough energy to knock out a $W$. Did we \emph{observe} the $W$ or did we \emph{create} it? If you hit it hard enough, all sorts of junk comes out.
+
+\begin{figure}[H]
+	\begin{center}
+		 \caption[Proton emitting virtual $W^-$]{Proton emitting virtual $W^-$. You can think of a proton as an equilibrium between a proton and a neutron plus $W$, constantly going back and forth between the two things with a very fast oscillation}\label{fig:proton:emits:W}
+		 \feynmandiagram[vertical = f1 to i1]{
+		 	i1[particle=$p$] -- [fermion]  a --[fermion,edge label=$n$] b--[fermion] f1 [particle=$p$],
+		 	a -- [boson, half right,edge label'=$W^+$] b, 
+		 };
+	\end{center}
+ \end{figure}
+ 
+ A question was asked about interaction between bosons, and more specifically, interactions between photons. The reason photons don't seem to interact with other photons is illustrated by Figure \ref{fig:2-6-photons}. Why don't we see this in the lab? Optical photons have too little energy. But if we use extremely high energy photons, the scattering of Figure \ref{fig:2-6-photons} will happen.
+ 
+ \begin{figure}[H]
+ 	\begin{center}
+ 		\caption[Photon interaction via the creation of a virtual pair]{Process where photons create of a virtual electron-positron pair, which then interact to create two photons. If energy of photons is less that than of two electrons (say 2 \gls{gls:MeV})  there isn't enough energy to create real particles, but it can happen virtually, in which case there are propagators, and a cost in probability. Optical photons have energies measured in \gls{gls:eV}, so the process is very improbable.}\label{fig:2-6-photons}
+	 	\feynmandiagram[vertical= b to a]{
+	 		i1 --[boson] a -- [fermion,edge label=$e^-$] b--[boson]f1,
+	 		a--c,
+	 		b--d,
+	 		i2 -- [boson]c --[anti fermion,edge label=$e^+$] d --[boson]f2,
+	 	};
+	 \end{center}
+ \end{figure}
+
+Returning to Figure \ref{fig:uB:dB}, the up quark and down quark go into each other by emitting a W. What group are we talking about? $SU(2)$. But $SU(2)$ has 3 generators, and they are in one to one correspondence with the gauge bosons; this is what happened with gluons--there are 8 generators for $SU(3)$ and 8 gluons. For $u$ and $d$ we have only two gauge bosons, but we are trying to postulate $SU(2)$; clearly we are missing a gauge boson. There is a third member of the family: $W^+$, $W^-$, and $Z$.
+
+\subsection{Spontaneous symmetry breaking}
+
+There is a famous illustration where a bunch of people sit down at a dinner table where there is on fork between each pair of places. Nobody can decide which fork to take, until one makes a small movement to the right... So we had symmetry, plus an instability.
+ 
+One example is a bunch of spins that can either be up or down, e.g. classical coins, with an interaction so that energy is less if spins parallel. There are two states of lowest energy, both ground states. Figure \ref{fig:2-6-sponteneous} shows how one spin can break symmetry. This is not the same as explicit symmetry breaking--having a bias, where H has different energy from T.
+ 
+
+\begin{figure}[H]
+	\begin{center}
+ 		\caption[Spontaneous symmetry breaking]{We have one coin, a long way from the other, in known state. This introduces a slight difference between two aligned states: it becomes expensive to add a Tail.}\label{fig:2-6-sponteneous}
+ 		\begin{tikzpicture}
+ 			\foreach \x in {0,1,2,3,4}
+ 			\foreach \y in {0,1,2,3,4}
+ 			{
+ 				\draw (\x,\y) circle (0.3cm);
+ 			}
+ 			\draw (6,6) circle (0.3cm);
+ 			\fill (0,3) node {\textbf{H}};
+ 			\fill (1,3) node {\textbf{T}};
+ 			\fill (6,6) node {\textbf{H}};
+ 		\end{tikzpicture}
+ 	\end{center}
+\end{figure}
+
+\begin{figure}[H]
+	\caption[Domain Walls]{Spontaneous symmetry breaking is different from explicit symmetry breaking, as the former can introduce domain walls. In this case the left hand column is clamped to H, the right hand to T}
+	\begin{tikzpicture}
+		\foreach \x in {0,1,2,3,4,5,6,7,8,9,10}
+		\foreach \y in {0,1,2,3,4,5,6,7,8,9,10}
+		{
+			\draw (\x,\y) circle (0.3cm);
+		}
+		\foreach \x in {0,1,2,3,4}
+		\foreach \y in {0,1,2,3,4,5,6,7,8,9,10}
+		\fill (\x,\y) node {\textbf{H}};
+		\foreach \x in {5,6,7,8,9,10}	
+		\foreach \y in {0,1,2,3,4,5,6,7,8,9,10}
+		\fill (\x,\y) node {\textbf{T}};
+		\draw[dashed] (4.5,0) -- (4.5,10);
+	\end{tikzpicture}
+\end{figure}
+Spontaneous symmetry breaking has an instability that can let the system go one way or another.
+
+\section{Spontaneous symmetry breaking and Goldstone bosons}
+
+(There is a question on the Youtube channel, whether there is a missing section of the lecture, dealing with the $Z$ boson. Figure \ref{fig:z:from:whiteboard} depicts Feynman diagrams that I copied from the whiteboard at the start of the video.) 
+
+\begin{figure}[H]
+	\caption[Feynman diagrams of Z boson from whiteboard]{Feynman diagrams of Z boson from whiteboard at the start of the video. These are consistent with the decay modes described in Wikipedia: $Z\rightarrow$ fermion plus its antiparticle.}\label{fig:z:from:whiteboard}
+	\begin{subfigure}[t]{0.2\textwidth}
+		\feynmandiagram[vertical = c to a]{
+			a[particle=\(u\)] --[fermion] b --[fermion] c[particle=\(u\)],
+			b--[boson] d [particle=\(Z\)],
+		};
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[t]{0.2\textwidth}
+	\feynmandiagram[vertical = c to a]{
+		a[particle=\(d\)] --[fermion] b --[fermion] c[particle=\(d\)],
+		b--[boson] d [particle=\(Z\)],
+	};
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[t]{0.2\textwidth}
+	\feynmandiagram[vertical = c to a]{
+		a[particle=\(e\)] --[fermion] b --[fermion] c[particle=\(e\)],
+		b--[boson] d [particle=\(Z\)],
+	};
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[t]{0.2\textwidth}
+	\feynmandiagram[vertical = c to a]{
+		a[particle=\(\nu\)] --[fermion] b --[fermion] c[particle=\(\nu\)],
+		b--[boson] d [particle=\(Z\)],
+	};
+	\end{subfigure}
+\end{figure}
+Our goal is to show how a particle \emph{like} a photon can gain a mass from something called spontaneous symmetry breaking; how it can gain a mass from the Higgs mechanism. There are two important ingredients:
+
+\begin{itemize}
+	\item Spontaneous symmetry breaking;
+	\item gauge invariance.
+\end{itemize}
+We have to understand them if we want to know what is going on.
+
+\subsection{Spontaneous symmetry breaking}
+In the last lecture we considered a system of spins that pointed up or down.
+There is no fundamental asymmetry between up and down. Two up spins have the same energy as two downs; and an up and a down has the same energy as a down and an up. Because it is energetically favourable for them to be parallel, the spins should be all up or all down. The direction can be controlled by one spin very far away that is frozen. We have symmetry, but it is broken spontaneously; it may take a finite time to propagate.
+
+Compare with explicit symmetry breaking, e.g. a magnetic field that is pointed up. Now energy will be lower for one direction. One location after another will align with the external field.\footnote{During the discussion LS mentioned that a neutron has a magnetic field, even though it has no charge.}
+
+What if we find aligned system, how do we know whether or not it is spontaneous? Domain walls: set one boundary to one direction, other to the other, and see what happens. If there is bias, then our change should not propagate in very far. If spontaneous we expect a domain wall to emerge.
+
+We can think of a field theory that has very similar behaviour. Imagine a real valued field, $\Phi$, with only one component, which can take on any real value in $[-\infty,+\infty]$. Its dynamics is controlled by a Lagrangian:
+
+\begin{align*}
+	\mathcal{L} =& \frac{1}{2} \partial_\mu \Phi \partial^\mu \Phi - V(\Phi) \numberthis \label{eq:spontaneous:symmetry:L}
+\end{align*}
+
+where V has the form of Figure \ref{fig:2-7-V}. It is completely symmetric under $\Phi\rightarrow-\Phi$, so there will be two ground states. Why can't system jump from $-f$ to $f$? A jump would make $\frac{\partial \Phi}{\partial x}$ very large. Figure \ref{fig:2-7-V-simple} shows a different potential, which does not lead to spontaneous symmetry breaking. Figure \ref{fig:2-7-V-domain-wall} shows how we can force a domain wall for Figure \ref{fig:2-7-V}, but not Figure \ref{fig:2-7-V-simple} (If temperature high there is lots of random fluctuation; domains appear when system cooled).
+Figure \ref{fig:2-7-V-broken} illustrates breaking the symmetry of the two minima by introducing an asymmetry in the potential, hence in the Lagrangian.
+\begin{figure}[H]
+	\caption[$V(\Phi)$ with and without spontaneous symmetry breaking]{Potential for (\ref{eq:spontaneous:symmetry:L}), with and without spontaneous symmetry breaking}
+	\begin{subfigure}[t]{0.45\textwidth}
+		\vskip 0pt
+		\caption{Possible spontaneous symmetry breaking: two ground states. This is not a continuous symmetry, as we can't interpolate between minima.}\label{fig:2-7-V}
+		\begin{tikzpicture}
+			\begin{axis}[
+				ticks=none,
+				axis x line=none,
+				axis y line=none,
+				]
+				\addplot [
+				domain=-3:3, 
+				samples=100, 
+				color=black,
+				]
+				{x^4 - 5*x^2 -40};
+				\node[above,black] at (450,0) {\Phi=f};
+				\node[above,black] at (150,0) {\Phi=-f};
+			\end{axis}
+		\end{tikzpicture}
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[t]{0.45\textwidth}
+		\vskip 0pt
+		\caption{Potential without spontaneous symmetry breaking: only one ground state}\label{fig:2-7-V-simple}
+		\begin{tikzpicture}
+			\begin{axis}[
+				ticks=none,
+				axis x line=none,
+				axis y line=none,
+				]
+				\addplot [
+				domain=-3:3, 
+				samples=100, 
+				color=black,
+				]
+				{x^2};
+				
+			\end{axis}
+		\end{tikzpicture}
+	\end{subfigure}
+	
+	\begin{subfigure}[t]{0.45\textwidth}
+		\begin{center}
+			\caption{Using the potential of Figure \ref{fig:2-7-V}, if the value of $\Phi$ is clamped to $-f$ at one value of $x$, and to $f$ at another $x$ to the right, a domain wall will be formed. The derivative $\frac{\partial \Phi}{\partial x}$ will be unavoidably large near the wall.}\label{fig:2-7-V-domain-wall}
+			\begin{tikzpicture}
+				\begin{axis}[
+					ticks=none,
+					axis x line=none,
+					axis y line=none,
+					]
+					\addplot [
+					domain=-20:20, 
+					samples=100, 
+					color=black,
+					]
+					{1/(1+pow(2,-x))};
+					\node[above,black] at (0,0) {\Phi=-f};
+					\node[above,black] at (400,900) {\Phi=f};
+					\draw[dashed] (200,0)--(200,1000) node[above]{$$};		
+				\end{axis}
+			\end{tikzpicture}
+		\end{center}
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[t]{0.45\textwidth}
+		\caption{Explicitly breaking the symmetry of Figure \ref{fig:2-7-V}, by making one minimum lower than another; now there is only one ground state.}\label{fig:2-7-V-broken}
+		\begin{tikzpicture}
+			\begin{axis}[
+				ticks=none,
+				axis x line=none,
+				axis y line=none,
+				]
+				\addplot [
+				domain=-3:3, 
+				samples=100, 
+				color=black,
+				]
+				{x^4 - 5*x^2 -2*x - 40};
+			\end{axis}
+		\end{tikzpicture}
+	\end{subfigure}
+\end{figure}
+
+In both cases we have looked at breaking a discrete symmetry. What if we break a continuous symmetry, where you can interpolate in continuously whatever configurations there are. $U(1)$ is a continuous symmetry, so are $SU(2)$ and $SU(3)$. You can interpolate configurations using the generators of the group. Real magnets often have continuous symmetries. Not only an you flip a spin, you can rotate a spin. Some ferromagnets not only prefer to be aligned (compared to flipped), but they can be rotated in between. We will do one example of a continuous symmetry breaking, and the idea of a Goldstone boson, which replaces the idea of domain walls; we'll see how how the Goldstone boson can radically change its nature when the symmetry has to do with gauge bosons. It morphs from spontaneous symmetry breaking into the Higgs phenomenon. We will see how the Higgs mechanism provides a mechanism to allow the Z-boson to have mass.
+
+Imagine a complex field, Figure \ref{fig:2-7-complex-phi}\footnote{The $\frac{1}{2}$ is normally omitted from $\mathcal{L}$ for complex fields.}.
+
+\begin{figure}[H]
+	\begin{center}
+		\caption[A complex field $\Phi = \Phi_R + i \Phi_I$]{A complex field (not necessarily an analytic function) $\Phi = \Phi_R + i \Phi_I$}, illustrating symmetry of Lagrangi under $U(1)$\label{fig:2-7-complex-phi}
+	\begin{tikzpicture}
+		\draw[] (-5,0) -- (5,0) node[right] {$\Phi_R$};
+		\draw[] (0,-5) -- (0,5) node[above] {$\Phi_I$};
+		\draw[dashed] (0,0) -- (1.5,2) node[right] {$\theta$};
+		\draw[->] (1.5,2) arc (0:30:1);
+	\end{tikzpicture}
+	\end{center}
+\end{figure}
+
+\begin{align*}
+	\Phi =& \Phi_R + i \Phi_I \\
+	\Phi^* =& \Phi_R - i \Phi_I\\
+	\mathcal{L} =&  \partial_\mu \Phi^* \partial^\mu \Phi 
+\end{align*}
+
+This Lagrangian has a symmetry under U(1):
+\begin{align*}
+	\Phi \rightarrow \Phi^\prime=e^{i \theta} \Phi  \numberthis \label{eq:U1:theta}
+\end{align*}
+
+For the time being assume $\theta$ constant--but we will relax this in Section \ref{section:gauge:invariance}.
+
+Let's add a potential that shares this symmetry. We will focus on two kinds of potentials: one of them spontaneously breaks the symmetry, the other doesn't. We define a Lagrangian that is symmetrical about rotation in $\Phi$ plane:
+\begin{align*}
+	\mathcal{L} =&  \partial_\mu \Phi^* \partial^\mu \Phi -V(\Phi \Phi^*) \text{, where either}\\
+	V =& \Phi \Phi^* \text{, completely symmetric--see Figure \ref{fig:2-7-V-quad}, or} \numberthis \label{eq:symmetric}\\
+	V=& -a \Phi \Phi^* + b (\Phi \Phi^*)^2 \text{, where $a>0,b>0$--see Figure \ref{fig:2-7-V-quartic}} \numberthis \label{eq:breakable:symmetric}
+\end{align*}
+
+\begin{itemize}
+	\item At the origin, $\Phi \Phi^*$  is at a minimum. This is the ground state. There is no explicit or spontaneous breaking of symmetry.
+	\item Near the origin, $-a \Phi \Phi^* + b (\Phi \Phi^*)^2$ is at a maximum: the field wants to move away from the origin. There are many ground states around the minimum circle, all of the same energy. $\Phi$ wants to move away from zero, but not too far. It also doesn't want $\partial_\mu \Phi^* \partial^\mu \Phi$ to get too big, so we expect field to bunch \emph{somewhere} on minimum.
+\end{itemize}
+
+Are there domain walls? Figure \ref{fig:2-7-V-quartic-domain-wall} shows an attempt to check this. Note that we don't get an abrupt transition, as we need to keep $\partial_\mu \Phi^* \partial^\mu \Phi$ small.
+
+\begin{figure}[H]
+	\caption{Potentials symmetric under $U(1)$}\label{fig:s-7-potentials}
+	\begin{subfigure}[t]{0.45\textwidth}
+		\caption{ $V=\Phi \Phi^*$-- Minimum at origin. As we move away the $U(1)$ symmetry ensures that the values doesn't depend on angle. There is no spontaneous symmetry breaking.}\label{fig:2-7-V-quad}
+		\includegraphics[width=\textwidth]{2-7-V-quad}
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[t]{0.45\textwidth}
+		\caption{$V=-a \Phi \Phi^* + b (\Phi \Phi^*)^2$--Minimum on lies on a circle. We will call the radius $f$, in the complex plane.}\label{fig:2-7-V-quartic}
+		\includegraphics[width=\textwidth]{2-7-V-quartic}
+	\end{subfigure}
+	\begin{subfigure}[t]{0.45\textwidth}
+		\caption{Clamp values to try to produce domain wall. Left hand side is set to value $a$, right to $b$--Figure (\subref{fig:2-7-V-quartic-domain-wall}). Is value unform until we get to some specified value? No: that has the effect of making the gradient terms large. It is cheaper to have the values vary gradually, which was not an option for a reflection symmetry. But now we have the option of going from $a$ to $b$, staying in the track, so it never costs us any potential energy.}\label{fig:2-7-V-quartic-domain-wall-ab}
+		\includegraphics[width=\textwidth]{2-7-V-quartic-domain-wall-ab}
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[t]{0.45\textwidth}
+		\caption{We don't have the clamped values diametrically opposed to remove ambiguity.}\label{fig:2-7-V-quartic-domain-wall}
+		\includegraphics[width=\textwidth]{2-7-V-quartic-domain-wall}
+	\end{subfigure}
+\end{figure}
+
+Effectively there is a field in this system  for which it does not cost much energy to to vary smoothly from one place to another. The only energy cost is in having a gradient. A field with that character where there is only gradient enrgy is massless.
+
+\begin{thm}[Mexican Hat Potential]
+	The way to go from $a$ to $b$ with the minimum energy is to have the angle vary linearly from one side to the other.
+\end{thm}
+\begin{proof}
+	TBP -- use calculus of variations.
+\end{proof}
+
+ From the point of view of wave equations, a field with only gradient terms in its energy is massless: this means that its quanta are massless. Also if you imagine a wave with wave number $k$, a field whose wave function is $e^{ikx}$, it has wave number $k$; if $k=0$ makes energy $0$, so the energy of the quanta goes to zero, then very long wavelength field has zero mass. This corresponds to saying that the quanta are massless.
+ 
+We will look at various potentials, starting with $\frac{m^2 \Phi^2}{2}$--  Figure \ref{fig:2-7-V-simple}. It clear that if you created a wave that varied from place to place, no matter how long that wavelength was, as long as there is  variation away from zero, there is going to be an appreciable cost of energy--Figure \ref{fig:2-7-variation-from-zero}. This is a massive particle, as there is energy no matter how long the wavelength is: if there is no $\frac{m^2 \Phi^2}{2}$, the only energy comes from gradient, and that is small for a long wavelength particle; $\frac{m^2 \Phi^2}{2}$ is called a mass term.
+
+\begin{figure}[H]
+	\begin{center}
+		\caption[There are a lot of places where the value of $\Phi$ is away from zero]{There are a lot of places where the value of $\Phi$ is away from zero, and those are going to cost energy.}\label{fig:2-7-variation-from-zero}
+		\includegraphics[width=0.6\textwidth]{2-7-variation-from-zero}
+	\end{center}
+\end{figure}
+
+Returning to \ref{fig:2-7-V-quartic}, let's try to identify why there is a massless particle. A massless particle corresponds to a long wave staying at minimum. We start with the Lagrangian:
+
+\begin{align*}
+	\mathcal{L} =& \partial \Phi \partial \Phi^* - V(\Phi^*\Phi) \text{. Now, writing}\\
+	\Phi =& \rho e^{i \alpha}
+\end{align*}
+Where $\rho$ and $\alpha$ are fields;  $\alpha$, but not $\rho$, varies along the track of least energy. We will rewrite the Lagrangian in terms of $\rho$ and $\alpha$.
+
+\begin{align*}
+	\partial \Phi =& e^{i \alpha} \big[\partial \rho + i \rho \partial \alpha\big] \\
+	\partial \Phi^* =& e^{-i \alpha} \big[\partial \rho - i \rho \partial \alpha\big]\\
+	\mathcal{L} =& (\partial \rho)^2 + \rho^2  (\partial \alpha)^2 - V(\rho) \text{, independent of $\alpha$, which is a symmetry.} 
+\end{align*}
+If field stays in track, and oscillates very slowly, then it doesn't pay to change $\rho$. In some approximation, where we don't excite any motion away from the track, we can think of $\rho$ as a constant, $f$.
+
+\begin{align*}
+	\mathcal{L} =& (\partial \rho)^2 + \underbrace{f^2(\partial \alpha)^2 }_{\mathclap{\substack{\text{This looks like the Lagrangian of}\\ \text{a field with no potential at all}}}}  - V(\rho)
+\end{align*}
+
+We can absorb $f$ into $\alpha$: it behaves like the Lagrangian of a massless field. If all you are allowed to do is vary the angles, the excitation behave like a massless field.
+
+Now $\rho$ is an independent field, with a Lagrangian.
+Choose ground-state at some point in groove. We can oscillate in 2 directions, $\alpha$ and $\rho$: the radial oscillation is similar to the way it would oscillate if there were a $\Phi^*\Phi$ term corresponding to a mass.
+
+A mass is an energy that corresponds to zero momentum; zero momentum means that the field is homogeneous, and doesn't vary from point to point--no variation at all. A restoring force that gives a periodic oscillation is what a massive field does. Whenever you have a continuous symmetry, and that symmetry is spontaneously broken, there is always the possibility of changing the orientation of things gradually from place to place, and you have massless excitations, massless particles, and these are called Goldstone bosons.
+\begin{defn}[Goldstone boson]
+	 A Goldstone particle is a particle, or a Goldstone field is a field which is massless, has no restoring force by virtue of a symmetry, by virtue of the fact that you're moving the field in a direction that costs no energy.
+\end{defn}
+ Whenever you have a spontaneously broken symmetry there are Goldstone bosons. In this case the Goldstone bosons are the quanta of the field $\alpha$
+
+\subsection{Gauge Invariance}\label{section:gauge:invariance}
+
+This is also associated with $U(1)$ symmetry. In an earlier lecture, $U(1)$ symmetry was associated with electric charge conservation. It doesn't have to be electric charge. We will wind up with gauge bosons with mass. The phpn doesn't have amass, but we cold be thinking about some other boson, like the $Z$ boson which does have mass  Originally introduced for electric charge conservation, but it might be some other charge, e.g. for Z bosons. Earlier we associated $U(1)$ symmetry with conservation of electric charge carried by $\Phi$ For the moment we wall call the charge electric, but it might not be electric, but something with a different character. Charges are always carried by fields that are complex, and the conservation is associated with a symmetry under $U(1)$, multiplication by a phase.  In (\ref{eq:U1:theta}), can $\theta$ vary from one position to another? ($\theta$ is a parameter, not a field.) Let us test by applying to field, and seeing what happens to its Lagrangian (this is always the test for a suspected symmetry).
+
+\begin{align*}
+	\Phi^\prime =& e^{i \theta(x)} \Phi \\
+	{\Phi^\prime}^* =& e^{-i \theta(x)} \Phi^*\\
+	\partial \Phi^\prime =& \big[\partial \Phi + i \Phi \frac{\partial \theta}{\partial x}\big] e^{i \theta(x)} \numberthis \label{eq:phi:dash:deriv}\\
+	\partial (\Phi^\prime)^* =& \big[\partial \Phi^* - i \Phi^* \frac{\partial \theta}{\partial x}\big] e^{-i \theta(x)}
+\end{align*}
+
+Is $\partial \Phi^\prime \partial {\Phi^\prime}^*$ the same as $\partial \Phi \partial {\Phi^\prime}$?
+\begin{align*}
+\partial \Phi^\prime \partial {\Phi^\prime}^* =&\partial \Phi \partial \Phi^* + i[\Phi \partial \Phi^* -\Phi^* \partial \Phi]\frac{\partial \theta}{\partial x} + \Phi^* \Phi (\frac{\partial \theta}{\partial x})^2
+\end{align*}
+
+So this is not a symmetry: if $V=V(\Phi^*\Phi)$, the Lagrangian is not the same in the transformed variable.  The problem is that $\partial \Phi^\prime$ and $\partial {\Phi^\prime}^*$ do not cancel. Can we do anything to restore the symmetry? Yes, if we introduce new fields; these will be the gauge boson fields (e.g. electromagnetic field.)
+
+\begin{defn}[Gauge symmetry]
+	A symmetry which depends on position is called a gauge symmetry.
+\end{defn}
+
+When we make a transformation that varies from place to place it costs energy: we are picking up some extra gradient.
+
+Can we do something to cancel $\frac{\partial \theta}{\partial x}$? If so, why would be do this? \emph{It turns out all interesting symmetries are associated with gauge bosons.}
+
+Add a 4-vector of fields. (In electrodynamics this would be the vector potential, $A_\mu$: $A_0$ is electric potential, and $\nabla \times A_i$ is the magnetic field.) How does this new field transform under symmetry--$A \rightarrow A^\prime$? The following turns out to work\footnote{LS originally used $+$ sign, later changed to $-$.}.
+\begin{align*}
+	A^\prime_\mu =& A_\mu - \partial_\mu \theta \numberthis \label{eq:gauge:field}
+\end{align*}
+
+We also need to modify the Lagrangian by replacing ordinary derivatives with covariant derivatives\footnote{Not General Relativistic covariant derivatives!}.
+\begin{align*}
+	D_\mu \Phi \triangleq& \partial_\mu \Phi + i A_\mu \Phi \text{, This would not make sense if $\Phi$ were real.} \numberthis \label{eq:covariant:derivative}\\
+	D_\mu \Phi^* =& \partial_\mu \Phi^* - i A_\mu \Phi^*
+\end{align*}
+
+We want to show that we can construct an invariant Lagrangian using covariant derivatives. Applying the definition \eqref{eq:covariant:derivative} to the transformed field:
+\begin{align*}
+	D_\mu \Phi^\prime =& \partial_\mu \Phi^\prime + i A_\mu^\prime \Phi^\prime\text{, then using \eqref{eq:phi:dash:deriv} and  \eqref{eq:gauge:field}}\\
+	=& e^{i\theta}\big(\partial_\mu \Phi +\cancel{i\partial_\mu \theta \Phi} \big) + i \big(A_\mu -\cancel{ \partial_\mu \theta} \big) e^{i \theta(x)} \Phi\\
+	=& e^{i\theta} \big( \partial_\mu \Phi +i A_\mu \Phi \big)\\
+	=& (D_\mu \Phi)^\prime e^{i\theta} \text{, from \eqref{eq:covariant:derivative} again; or, suppressing indices}\\
+	D \Phi^\prime =&  D \Phi  e^{i \theta} \text{, similarly}\\
+	D {\Phi^\prime}^* =& D {\Phi}^*  e^{-i \theta} \text{, and}\\
+	D \Phi^\prime D {\Phi^\prime}^*=& D \Phi D {\Phi}^* \text{, so the Lagrangian is invariant}
+\end{align*}
+
+So the $A$ field was an invention to make the Lagrangian be gauge invariant, but we had to invent a transformation to make it work.
+
+We are missing something in the Lagrangian: this wouldn't be an interesting vector potential without some dynamics for the vector potential. Now the vector potential is really the thing with which you create the electric and magnetic fields\footnote{This is the first link I have found (in the lectures) between $A$ as electromagnetic potential, and the gauge field $A$}.
+
+The energy of an Electromagnetic field is given by $E^2 + B^2$, and the Lagrangian is $E^2-B^2$. Let's write it in terms of the electromagnetic tensor $F_{\mu,\nu}$.
+\begin{align*} 
+	F_{\mu,\nu} =& \partial_\mu A_\nu - \partial_\nu A_\mu \text{, see (\ref{eq:field:tensor})}\\
+	\mathcal{L} =& F_{\mu,\nu} F^{\mu,\nu} 
+\end{align*}
+Is $F_{\mu,\nu}$ gauge invariant?
+\begin{align*}
+	F_{\mu,\nu}^\prime =&\partial_\mu A_\nu^\prime - \partial_\nu A_\mu^\prime\\
+	=& \partial_\mu A_\nu - \cancel{\partial_\mu \partial_\nu \theta}-\partial_\nu A_\mu + \cancel{\partial_\nu \partial_\mu \theta}\\
+	=& 	F_{\mu,\nu}
+\end{align*}
+So $F$ is gauge invariant, hence the Lagrangian is too!
+
+We can construct a completely gauge invariant dynamics of the electromagnetic field coupled to a field whose quanta are charged particles.
+\begin{align*}
+	\mathcal{L} = D_\mu \Phi D_\mu \Phi^* -V(\Phi\Phi^*) + F^2
+\end{align*}
+
+So we can promote $U(1)$ to a local symmetry, at the cost of an extra field, which can be included in a Maxwell style Lagrangian--Definition \ref{defn:gauge:field}.
+
+What can't we add? (and remain gauge invariant)
+
+\begin{itemize}
+	\item Potentials that depend on something other than $\Phi^*\Phi$ 
+	\item Terms like $\frac{m^2}{2}A_\mu A^\mu$, which would add mass to the photon (not gauge invariant).
+\end{itemize}
+
+Next week we'll look at breaking the $U(1)$ symmetry spontaneously by using a Mexican Hat potential: this will give photon a mass and remove Goldstone boson. Of course a real photon doesn't have a mass, but the Z boson does. This is the Higgs phenomenon. It gives mass to a particle when we can't do it by hand.
+
+\section{The Higgs field}
+
+\subsection{The phenomena}
+
+There was a question from a student about ''giving mass to the photon'', since the photon, in fact, has no mass.
+
+The symmetry group of the photon is not spontaneously broken. In this lecture we are going to talk about how it would give the photon a mass \emph{if the symmetry were broken}. This is exactly what happens with the Z and  W bosons. The photon is a little bit simpler; indeed it \emph{might} have had a mass. The fact that it doesn't have a mass is perhaps an accident of nature. Maybe it has to do with the absence of an appropriate Higgs field.
+
+We will talk about how gauge bosons like the photon, get a mass when symmetry is spontaneously broken.
+
+$U(1)$ is the symmetry that goes with the conservation of charge. Remember that conservation is always connected to a symmetry. $U(1)$ multiplies the charged field by a phase: it is a kind of rotation in the plane of the complex field. We will see how that spontaneous symmetry breaking of that symmetry induces a mass for the photon.
+
+There is a situation in nature where the photon does get a mass, and the $U(1)$ symmetry is spontaneously broken. The symmetry of the photon is broken in a superconductor: photons propagate with a mass \emph{in} the superconductor, and lose the mass when they leave. It doesn't happen in a prism, even though its velocity is less than $c$: at infinite wavelength its energy is still zero.
+
+The relevant issue is the shape of a certain curve, either energy versus momentum, or frequency versus wave number.
+\begin{align*}
+	E =& \hbar\omega\\
+	p =& \hbar k \text{, and, for a wave in empty space}\\
+	\omega =& ck
+\end{align*}
+The last equations shows that the frequency is zero when the wave number of zero, which means that the energy is zero when the momentum is zero: we call such particles \emph{massless}.
+
+Figure \ref{fig:2-8-massless} shows the relationship between the frequency and wave number: in a prism, $c$ changes away from its value in empty space (wave number changes with constant frequency when $c$ changes). 
+
+For a particle with mass, $E=\sqrt{p^2 c^2 + m^2 c^4}$--Figure \ref{fig:2-8-massive}. Infinite wavelength still has non-zero $E=m$ (infinite wavelength means that the field is absolutely homogeneous. The whole field oscillates. Oscillations of a homogeneous field are what we call mass).
+
+\subsection{Dispersion relation}
+
+\begin{figure}[H]
+	\caption[Dispersion relations for Massive and Massless particles]{Dispersion relations for Massive and Massless particles. The function $\omega(k)$ is known as the dispersion relation. The velocity of a wave is $\frac{d\omega}{dk}$}
+	\begin{subfigure}[t]{0.45\textwidth}
+		\caption{Dispersion relation for a massless particle. The frequency becomes zero when the wave number is zero. All that happens in a prism is that $c$, and hence $k$, changes, while $\omega$ remains the same.}\label{fig:2-8-massless}
+		\begin{tikzpicture}[scale=0.75]
+			\draw[] (-0.5,0) -- (5,0) node[right] {$k$};
+			\draw[] (0,-0.5) -- (0,5) node[above] {$\omega$};
+			\draw[] (0,0) -- (4,4) node[right] {$\omega=ck$};
+		\end{tikzpicture}
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[t]{0.45\textwidth}
+		\caption{For a massive particle, $E$ is non-zero when $p=0$. We have a non-linear dispersion relation. Different wavelengths propagate with different velocities, so wave disperses.}\label{fig:2-8-massive}
+		\begin{tikzpicture}[scale=0.7]
+			\draw[] (-4,0) -- (4,0) node[right] {$p$};
+			\draw[] (0,0) -- (0,4) node[above] {$E$};
+			\draw[scale=1.0, domain=-4:4, smooth, variable=\x] plot ({\x}, {sqrt(2+\x*\x)});
+			\draw[dashed] (0,0) -- (4,4) node[right] {$$};
+			\draw[dashed] (0,0) -- (-4,4) node[right] {$$};
+			\node(m) at (0,1.414) {};
+			\node(O) at (0,0) {};
+			\draw[<->,thick] (O) -- (m) node [pos=0.5,right] {m};
+		\end{tikzpicture}
+	\end{subfigure}
+\end{figure}
+
+
+Mass is connected with the curvature of potential energy at the equilibrium point--Figure \ref{fig:2-8-pe}. If we shift system away from the equilibrium point it starts to oscillate, and $\omega \ne 0$ at $k=0$; in fact $\omega = m$. The only way the energy will be zero is if potential energy is flat. If you shift the system along a flat direction, it won't respond, it will just sit there. You can spot a massless particle by it having a flat direction.
+
+\begin{figure}[H]
+	\caption[Mass is connected with the curvature of potential energy]{Mass is connected with the curvature of potential energy at the equilibrium point}\label{fig:2-8-pe}
+	\includegraphics[width=0.8\textwidth]{2-8-pe}
+\end{figure}
+
+In Figure \ref{fig:mexican-hat}, we have a flat direction along dip, but not along radius. We therefore have two kinds of quanta:
+\begin{itemize}
+	\item massive--the Higgs boson;
+	\item massless--the Goldstone boson. There is no massless Goldstone boson in nature, so something happened to it.
+\end{itemize}
+
+\begin{figure}[H]
+	\begin{center}
+		\caption[Mexican Hat potential]{Mexican Hat potential, with an unstable equilibrium at the origin.  The minimum is a circle centred on the origin: we can set a particle vibrating without expending any energy. The Higgs boson is associated with motion along the radius, the Goldstone boson with motion along the trough.}\label{fig:mexican-hat}
+		\includegraphics[width=\textwidth]{mexican-hat}
+	\end{center}
+\end{figure}
+
+''The Goldstone boson got eaten by the gauge boson, resulting in giving the Higgs boson a mass.''--this is the phenomenon which we want to do mathematically in this lecture.
+
+Question: is the Higgs the only spontaneous symmetry breaking in the Standard Model? Yes, as far as we know. It is a $SU(2)$ symmetry breaking, so more complicated that $U(1)$.
+
+There is a collection of particles in the standard model that cannot have mass unless the symmetry is spontaneously  broken. We will go through them, and see what the reasons are, and see why mass is disallowed without spontaneous symmetry breaking. Then, when the symmetry is spontaneously  broken they get mass, and they become the masses of the standard model particles. What about those that don't require spontaneous symmetry breaking to get a mass? Are there any that don't require spontaneous symmetry breaking to get a mass? Yes, \emph{they are the particles that we don't see in the laboratory.} The natural mass may be very large, up by the Planck mass, beyond the range of our accelerators. These may be the dark matter particles.
+
+\subsection{Boson Fields}
+
+The first class that cannot get a mass without spontaneous symmetry breaking are the analogues of the proton, the gauge bosons. We'll start with a field:
+
+\begin{align*}
+	\Phi =& \Phi_R + i \Phi_I \text{, or}\\
+	=& \rho e^{i \alpha}\\
+	\Phi^* =& \Phi_R - i \Phi_I \text{, or}\\
+	=& \rho e^{-i \alpha}
+\end{align*}
+
+In Figure \ref{fig:mexican-hat}, $\alpha$ corresponds to angular motion (massless), $\rho$  to radial (massive). $\rho$ gets a mass,  $\alpha$ doesn't; $\rho$ corresponds to the Higgs boson,  $\alpha$ to the Goldstone boson. We'll write the Lagrangian for the field.
+
+\begin{align*}
+	\mathcal{L} =& \partial \Phi^* \partial \Phi \\
+	=&(\partial \Phi_R)^2 + (\partial \Phi_I)^2\\
+	=& (\partial \rho)^2 + \rho^2 (\partial \alpha)^2 
+\end{align*} 
+
+\subsection{Potential Energy}
+We will add in a potential energy that is symmetric under rotations in the $\Phi$ plane, so it has a $U(1)$ symmetry.
+
+\begin{align*}
+	\mathcal{L}	=&(\partial \Phi_R)^2 + (\partial \Phi_I)^2 - V(\Phi^*\Phi)  \numberthis \label{eq:mexican:LagrangeRI}\\
+	=& (\partial \rho)^2 + \rho^2 (\partial \alpha)^2 - V(\rho) \numberthis \label{eq:mexican:Lagrange}
+\end{align*} 
+
+If we take the simplest V, $\rho^2$, \eqref{eq:mexican:LagrangeRI} becomes:
+\begin{align*}
+	\mathcal{L} = (\partial \Phi_R)^2 +  (\partial \Phi_I)^2 -(\Phi_R)^2  -(\Phi_I)^2
+\end{align*}
+which gives two uncoupled oscillations, both with a mass term. This representation isn't so useful for Figure \ref{fig:mexican-hat}. In (\ref{eq:mexican:Lagrange}) we have two uncoupled oscillations. $V$ has a minimum at $f$. We let
+
+\begin{align*}
+	\rho = \underbrace{f}_\text{Minimum energy} + \underbrace{H}_\text{, the Higgs field}
+\end{align*}
+The Higgs field is just the displacement of $\rho$ away from its equilibrium. It costs a lot of energy to excite $\rho$ away from its equilibrium, because the potential is rather sharp. To a very good approximation we can say that the low energy behaviour of $\rho$ is frozen at $f$, and (\ref{eq:mexican:Lagrange}) becomes (ignoring the high frequency component):
+
+\begin{align*}
+	\mathcal{L} =& f^2(\partial \alpha)^2 \text{, at low energy.}\\
+	=& (\partial \beta)^2 \text{, where $\beta = f \alpha$}
+\end{align*}
+
+There is no mass term: $\beta$ is a massless field, the Goldstone boson. Goldstone bosons are massless particles which are the consequence of spontaneous symmetry breaking of a continuous symmetry.
+
+That is half the story. The other half, which also has to do with varying the phase from point to point, is gauge invariance.
+\subsection{Scalar Fields}
+
+\begin{defn}[Scalar field]
+	A scalar field is one which doesn't change when we rotate space.
+\end{defn}
+
+A complex number is a means of talking about pairs of numbers. Given two real fields I can assemble them into a single complex field. Don't confuse a complex scalar field with a vector field: we are dealing with different spaces.
+
+Once you think of a complex scalar field as a pair of components, you might consider whether there are symmetries. The Lagrangian of (\ref{eq:mexican:LagrangeRI}) does not change when we rotate by an constant angle everywhere in space. This is a global symmetry.
+
+We saw in Section \ref{section:gauge:invariance} that it is not a  symmetry to rotate by an angle that varies from point to point:
+\begin{align*}
+	\Phi^\prime (x) = e^{i\theta(x)} \Phi(x) \text{, this adds $\theta(x)$ to $\alpha$}
+\end{align*}
+
+\subsection{Covariant Derivative}
+We saw that can fix this by introducing a vector potential $A_\mu$ and defining the covariant derivative $D$:
+\begin{align*}
+	A^\prime_\mu(x) =& A_\mu(x) + \partial_\mu \theta(x)\\
+	\partial_\mu \Phi^\prime =& e^{i\theta} \big[\partial_\mu \Phi + i \partial_\mu \theta \,\Phi\big] \text{. The term containing $\partial \theta$  wrecks the symmetry}\\
+	D_\mu \Phi \triangleq& \partial_\mu \Phi + i A_\mu \Phi\\
+	D_\mu \Phi^* =& \partial_\mu \Phi^* - i A_\mu \Phi^* \text{. In Section \ref{section:gauge:invariance} we saw that:}\\
+	D_\mu \Phi^\prime =& \partial_\mu \Phi^\prime + i A^\prime_\mu \Phi^\prime \\
+	=& (D_\mu \Phi)^\prime \text{. The operators commute!}
+\end{align*}
+
+$\Phi$ is a charge carrying boson field, and $A_\mu$ is the electromagnetic potential: $F_{\mu\nu}=\partial_\mu A_\nu-\partial_\nu A_\mu$ is gauge invariant. The Lagrangian of a charged scalar field has the form:
+\begin{align*}
+	\mathcal{L} =& D\Phi^* D\Phi -V(\Phi^*\Phi) +F^2
+\end{align*} 
+
+That is the simplest gauge theory in a nutshell. All gauge theories have a similar structure to this one.
+
+\subsection{The Higgs phenomenon}
+
+What happens when the symmetry is spontaneously broken? This happens when there is a potential such as Figure \ref{fig:mexican-hat}, so the ground state breaks the symmetry. What new things happen?
+
+In Figure \ref{fig:mexican-hat} the angular direction is a Goldstone boson, no mass; the radial direction, which we called the Higgs boson, has a mass. Furthermore, the photon does not have a mass.
+
+How do we know the photon is massless? $F$ contains only derivatives: if we shift the potential everywhere simultaneously there will be no change in energy. So we have two apparently massless particles, the Goldstone boson and the photon. What would a mass term look like for the photon? The mass term is always something that is quadratic in the field. If photon had mass we would have a term proportional to $A^2$. This isn't gauge invariant: $A^2 \rightarrow (A+\partial \theta)^2$. Gauge invariance prohibits mass--or does it? Let's look at this Lagrangian a little more closely.
+
+\begin{align*}
+	\mathcal{L} =& D\Phi^* D\Phi -V(\Phi^*\Phi) +F^2\\
+	=& \big(\partial \Phi^* - i A \Phi^*\big) \big(\partial \Phi + i A \Phi\big) -V(\Phi^*\Phi) +F^2
+\end{align*}
+
+Let us look at $\Phi = f$, where $f$ is real, Figure \ref{fig:2-8-phi-f}. The most important term is $A^2 \lvert \Phi \rvert^2$. But $\Phi$ is stuck at the minimum, because it takes a lot of energy to shift away from the minimum. So unless we excite a lot of energy, the Lagrangian is dominated by $A^2 \Phi^*\Phi$. Then the first term in the Lagrangian is $f^2A^2=f^2A^2$, which behaves like a mass term for the photon. The mass is $\sqrt{2}f$: this is the energy when you shift the system homogeneously.
+\begin{figure}[H]
+	\begin{center}
+		\caption[$\Phi = f$, where $f$ is real]{$\Phi = f$, where $f$ is real, so the imaginary part is zero}\label{fig:2-8-phi-f}
+		\begin{tikzpicture}
+			\draw[dashed] (0,-4) -- (0,2.25) node[above] {$$};
+			\draw[domain=-3:3, smooth, variable=\x] plot ({\x}, {0.25*\x*\x*\x*\x - 2*\x*\x});
+			\filldraw[black] (2,-4) circle (3pt) node[anchor=west]{};
+			\draw[->,dashed] (0,-4) -- (1.8,-4) node[midway,below] {$f$};
+		\end{tikzpicture}
+	\end{center}
+\end{figure}
+
+When we spontaneously break symmetry and consider field near $f$, the effect of one of the terms in the Lagrangian is to make a mass for the photon. Real photons don't behave like this, but the ones \emph{in this world} with the spontaneously broken symmetry do have a mass.
+
+The Goldstone boson disappears. The Goldstone boson is a slowly varying $\alpha$. We can make $\alpha$ vary a different way, by gauge transformation: $\alpha\rightarrow\alpha+\theta(x)$; you might think that surely involves a Goldstone boson. But gauge transformation is a symmetry, i.e. it doesn't change energy and the system remains in the ground state. The Goldstone boson disappears, and just becomes a gauge transformation, and the vector potential gains a mass. We have got rid of two massless bosons, and gained a massive photon. The Higgs boson now has a mass, and it oscillates about the dot in Figure \ref{fig:2-8-phi-f}.
+
+That is the Higgs phenomenon. Just by plugging in the Higgs field, $\Phi=f$, we generate a mass for the photon, which came from the covariant derivative.
+
+Can we get rid of $\alpha$? We will freeze the radial variable.
+
+\begin{align*}
+	D \Phi = (\partial \alpha + iA)e^{i\alpha}f\\
+	D \Phi^* = (\partial \alpha - iA)e^{-i\alpha}f
+\end{align*}
+
+We make a gauge transformation to get rid of $\alpha$: we set $\theta=-\alpha$. All that is left of the Lagrangian is $F^2+f^2A^2$, and $F$ is gauge invariant. The angular degree of freedom disappears, the Goldstone boson is gone, the photon gets a mass. The Higgs boson, which is a radial oscillation, is still there.
+
+This is also the physics of super-conductance. In superconductors there are charged bosons, Cooper pairs of electrons. These are loosely bound pairs of electrons; each pair is a boson. The charged boson field is shifted away from origin by some complicated dynamics, which gives a condensate of charged bosons and it is equivalent to this kind of symmetry breaking. In the superconductor the photon also behaves like a massive particle.
+
+How can a degree of freedom disappear? It didn't disappear.
+
+A massless photon has two polarization states. Every photon carries with it a polarization vector, which is \emph{two} dimensional: the polarization vector never points along the direction of motion. Wow can that be? The photon moves with the speed of light, and can never be brought to rest. Supposing it could? Bring photon to rest. Supposing it has polarization along x-axis, accelerate it again along x-axis. So a massive photon has 3 direction of polarization. Since a massless particle can never be brought to rest, it is perfectly consistent for it to have 3 directions of polarization.
+
+You have not lost a degree of freedom: the Goldstone boson has become the other missing polarization of the photon. We started with 4 degrees of freedom, the two components of the charged scalar, and the two components of polarization of the photon: we are left with 3 components of polarization plus the Higgs boson; the Goldstone boson has turned into the longitudinal component of polarization. 
+
+\section{The Higgs field and fermions}
+
+\subsection{Bosons}
+
+The gauge bosons, Z and W, obtain masses from the shift of the Higgs field away from the most symmetric position. Keep in mind that we aren't really talking about the photon, but it will be useful to develop the maths as if we were.
+
+We have the gauge bosons, Z and W, which are analogues of photons. The maths is a little more complicated, the symmetry group isn't $U(1)$ but $SU(2)$, but that isn't terribly important, and a dynamics that leads to Maxwell's equations. We start with the electromagnetic tensor:
+\begin{align*}
+	F_{\mu\nu}=&\frac{\partial A_\mu}{\partial x^\nu}-\frac{\partial A_\nu}{\partial x^\mu}\\
+	\mathcal{L} =& F_{\mu\nu} F^{\mu\nu} \text{. This has no energy from shift, so it is massless.}\\
+	=& F^2
+\end{align*}
+
+Now we add the Higgs field, which is charged (not electric charge, but the charge that couples to the weak field):
+\begin{align*}
+	\Phi =& \rho e^{i \alpha}\\
+	D \Phi =& \partial \Phi + i A \Phi 
+\end{align*}
+
+There is an interaction with ''electromagnetic'' field. Now something interesting happens. The energetics of $\Phi$ favour something unusual: the minimum energy is not at $\Phi=0$, but at the bottom of the potential of Figure \ref{fig:2-8-phi-f}, say at $\Phi=f$. The curvature at the minimum is very steep, so it would cost a lot of energy to shift the field away from the bottom. To a first approximation:
+
+\begin{align*}
+	D \Phi =& i \big( \partial \alpha + A \big) f e^{i \alpha} \text{, if $\rho$ frozen}\\
+	\mathcal{L} =& f^2 \big(\partial \alpha + A \big)^2 \text{, now make a gauge transformation $A\rightarrow A - \partial \alpha$}\\
+	=& f^2 {A^\prime}^2
+\end{align*}
+
+Now $F$ is gauge invariant, as is $F^2$. All we have done is to introduce a new term into the Lagrangian, which is proportional to the square of the vector potential. If we shift $A^\prime$ everywhere, we'd get some energy from $f^2 {A^\prime}^2$. \emph{We have introduced mass!} Vacuum shifted to some new spontaneously broken vacuum, and excitations of field in that vacuum have a mass. $\alpha$ has disappeared.
+
+There is still the thing that we froze in an approximation. What if we hit it hard enough to set it oscillating in radial direction? These are the Higgs bosons.
+ 
+In particle physics we identify the mass of a particle with an energy stored in shifting the field simultaneously everywhere.
+
+Here is an example of how mass can happen. If you have a crystal and move all the molecules simultaneously (a mathematical move, ignoring time derivatives), it doesn't cost any energy. Suppose your crystal lattice is composed of particles with some plus charges, some minus, e.g. ions. Now shift all electrons left uniformly, and the protons right. This would be a homogeneous shift. That would cost energy. The crystal would start to vibrate. So moving everything simultaneously would be a zero momentum \gls{gls:phonon}; moving positive and negative separately would be a \gls{gls:plasmon}. \Glspl{gls:phonon} have mass, \glspl{gls:plasmon} do not. 
+
+\subsection{Fermions}
+
+Where do they get their mass? It turns out this is also from the Higgs phenomenon, spontaneous symmetry breaking.
+
+\subsubsection{Weak Interactions}
+We go back to experimental data about weak interactions.
+
+Reflection symmetry is not a good symmetry of nature (1950s). This is a symmetry of \glsdesc{gls:QM} and \glsdesc{gls:QCD}, but it is not a symmetry of the weak interaction: the mirror image of a weak interaction is not another possible process; left and right are fundamentally different, and as different as they can be. The experimental fact is that the decay of a neutron always produces left handed electrons.
+
+Is there a notion of handedness? Yes, we have spin and direction of motion. Either the electron rotates with direction of motion (right handed screw) or left handed. (you can build other directions as superpositions). You might think that Figure \ref{fig:2-9-beta-decay-neutron} could make right-handed or left-handed neutrons, but the electrons are always left handed. Moreover in scattering by a W-boson, it is only the left handed electron\footnote{This is reversed for antiparticles.} that interacts with a W-boson--e.g. Figure \ref{fig:2-9-W-boson}. It is an experimental fact that the left-handed electron scatters, and the right handed one doesn't. Similarly it is always the left-handed neutrino that interacts: it is \emph{questionable} whether there are right handed neutrinos.
+
+\begin{figure}[H]
+	\caption[The electron is always left handed in weak interactions]{The electron is always left handed in weak interactions. in \glsdesc{gls:QED} left handed electrons are as good as right handed: if there is a process to make a right handed electron in \glsdesc{gls:QED}, there is a reflected process to make a left handed one. This isn't true in beta decay: we always observe left handed electrons irregardless of the handedness of the neutron. This is the case for weak interactions in general, not just beta decay.}\label{fig:left:versus:right}
+	\begin{subfigure}[t]{0.4\textwidth}
+		\caption{Beta decay of a neutron}\label{fig:2-9-beta-decay-neutron}
+		\feynmandiagram[vertical=out1 to in1]{
+			in1[particle=\(n\)]--[fermion] c --[fermion] out1[particle=\(p\)],
+			c --[fermion] out2[particle=\(e_L\)],
+			c --[fermion] out3[particle=\(\bar{\nu_L}\)],
+			out1--[opacity=0]out2--[opacity=0]out3,
+		};
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[t]{0.4\textwidth}
+		\caption{In any process where a W boson interacts with an electron to produce a neutrino, or flip the lines any any other way, it is always a left-handed electron, never a right handed one.}\label{fig:2-9-W-boson}
+		\feynmandiagram[vertical=out1 to in1]{
+			in1[particle=\(W\)]--[boson] c --[fermion] out1[particle=\(\nu_L\)],
+			in2[particle=\(e_L\)]--[fermion]c,
+			in1--[opacity=0.0]in2,
+		};
+	\end{subfigure}
+\end{figure}
+
+There is something asymmetric about weak interactions: it is as if left-handed particles carried ''charge'' associated with boson, but right don't. This is a very strange fact, which is also true of quarks.
+
+\subsubsection{The Dirac Equation}
+
+Let's go back to the Dirac equation for electrons, neutrinos and quarks. The Dirac Field, $\Psi$, is a four component object: particles can have spin along either axis (up or down), and positive or negative energy (antiparticles).
+
+\begin{align*}
+	i \big(\frac{\partial \Psi}{\partial t} + \alpha_i \frac{\partial \Psi}{\partial 	x^i}\big) =&0
+\end{align*}
+ This would be the Dirac equation if the particle were massless, because the dynamics only involves derivatives of the field. There is no restoring force, no tendency to oscillate. If you shift the field simultaneously, it does not create any energy.
+ 
+ What do you put on the right hand side if you want to have a mass for the field? There is a 4th Dirac matrix, $\beta$.
+ \begin{align*}
+ 	i \big(\frac{\partial \Psi}{\partial t} + \alpha_i \frac{\partial \Psi}{\partial 	x^i}\big) =&m \beta \Psi \numberthis \label{eq:dirac}
+ \end{align*}
+ This is the Dirac equation.
+ 
+ The electron could be moving along with a momentum so there is a gradient, $\frac{\partial \Psi}{\partial x_i}$. Spin can be along or opposite to direction of motion. 
+ 
+ \begin{align*}
+ 	i \big(\frac{\partial \Psi_R}{\partial t} + \alpha_i \frac{\partial \Psi_R}{\partial 	x^i}\big) =& m \Psi_L \text{, since $\beta$ interchanges R and L} \numberthis \label{fig:dirac:mass1}\\
+ 	i \big(\frac{\partial \Psi_L}{\partial t} - \alpha_i \frac{\partial \Psi_L}{\partial x^i}\big) =& m \Psi_R \numberthis \label{fig:dirac:mass2}
+ \end{align*}
+ 
+ The mass mixes up the left handed and right handed components. (You \emph{can think} of the Dirac electron oscillating between left and right. But let's not push that too hard, as it's not quite right.) But this is what the mass is for a Dirac electron.
+ 
+ Let us suppose that only left-handed particle has a charge (True for weak, not for electromagnetic). Then we can't have these equations because the meaning of \eqref{fig:dirac:mass1} and \eqref{fig:dirac:mass2} is that a left handed particle moving along will turn into a right handed, and vice versa, so charge conservation would be violated. Another way to look at is the gauge transformation $e^{i\theta}$ for charged particles. Charge conservation would forbid a mass for the electron if only left had charge. Equations \eqref{fig:dirac:mass1} and \eqref{fig:dirac:mass2} cannot be symmetric if only $\Psi_L$ is multiplied by $e^{i\theta}$.
+ 
+ Meanwhile back in the real world this isn't true. Right handed and left handed electrons have charge, and both have mass.
+ 
+ Suppose there were only a left handed electron: it would have to be massless. If it has mass we could slow it down, bring it to rest, then send it back; handedness would have changed although spin hadn't. What if no mass? Then we can't do this.
+ 
+ Is the difference between left and right--Figure \ref{fig:left:versus:right}--just an accident of nature? Probably not, but we will treat it as one.
+ 
+ \subsubsection{An accident of nature}
+ 
+ How might electrons get a mass in this fake world where only left have electric charge? (And where left and right can't mix). Imagine there is a Boson field, $\Phi$, whose quanta have positive charge.
+ 
+ Under $U(a)$:
+ \begin{align*}
+ 	\Psi_L \rightarrow& e^{i\theta} \Psi_L \text{, because $\Psi_L$ ischarged}\\
+ 	\Psi_R \rightarrow& \Psi_R \text{, because $\Psi_R$ is not charged}\\
+ 	\Phi \rightarrow& e^{i\theta} \Phi \text{, because $\Phi$ is charged}
+ \end{align*}
+ Clearly the Dirac equation is not invariant under $U(a)$. We will rewrite it to be invariant:
+ 
+ \begin{align*}
+	 i \big(\frac{\partial \Psi_R}{\partial t} + \alpha_i \frac{\partial \Psi_R}{\partial 	x^i}\big) =& g \Phi^* \Psi_L \numberthis \label{eq:mod:Dirac:R}\\
+	 i \big(\frac{\partial \Psi_L}{\partial t} - \alpha_i \frac{\partial \Psi_L}{\partial 	x^i}\big) =& g \Psi_R \Phi \numberthis \label{eq:mod:Dirac:L}
+ \end{align*}
+ 
+ Figures \ref{fig:modified:Dirac1} and \ref{fig:modified:Dirac2} show how to interpret these equations in terms of Feynman diagrams. Left and right change into each other, and with probability $g$, a new coupling constant, the \emph{Yukawa coupling}.
+ 
+ \begin{figure}[H]
+ 	\caption{Interpretation of modified Dirac equation}\label{fig:modified:Dirac}
+ 	\begin{subfigure}[t]{0.45\textwidth}
+ 		\caption{RH $\rightarrow$ LH + $\bar{\Phi}$--(\ref{eq:mod:Dirac:R})}\label{fig:modified:Dirac1}
+ 		\feynmandiagram[horizontal=in1 to c]{
+ 			in1[particle=\(e_R\)]--[fermion] c -- [fermion] out1[particle=\(e_L\)],
+ 			c -- [boson] out2[particle=\(\bar{\Psi}\)],
+ 		};
+ 	\end{subfigure}
+ 	\hfill
+  	\begin{subfigure}[t]{0.45\textwidth}
+  		\caption{LH  $\rightarrow$ RH + $\Phi$--(\ref{eq:mod:Dirac:L})}\label{fig:modified:Dirac2}
+	 	\feynmandiagram[horizontal=in1 to c]{
+	 		in1[particle=\(e_L\)]--[fermion] c -- [fermion] out1[particle=\(e_R\)],
+	 		c -- [boson] out2[particle=\(\Psi\)],
+	 	};
+	 \end{subfigure}
+	 
+ \end{figure}
+
+What if $\Phi$ is a magical Higgs field, $\Phi=\rho e^{i\alpha}$? Let us suppose that it gives rise to a spontaneous symmetry breaking $\Phi=f$ ($\alpha$ got eaten). (\ref{eq:mod:Dirac:R}) and (\ref{eq:mod:Dirac:L}) become:
+
+ \begin{align*}
+	i \big(\frac{\partial \Psi_R}{\partial t} + \alpha_i \frac{\partial \Psi_R}{\partial 	x^i}\big) =& g f \Psi_L \\
+	i \big(\frac{\partial \Psi_L}{\partial t} - \alpha_i \frac{\partial \Psi_L}{\partial 	x^i}\big) =& g f \Psi_R  
+\end{align*}
+
+We use the mass of Z and W to determine $f$, so we can figure out $g$ from $m$. Since there are different masses for Fermions, there are multiple Yukawa couplings (There is a whole spectrum that nobody understands).
+
+The Higgs particle is the fluctuation away from the frozen value. We should really write:
+ \begin{align*}
+	i \big(\frac{\partial \Psi_R}{\partial t} + \alpha_i \frac{\partial \Psi_R}{\partial 	x^i}\big) =& g (f+H) \Psi_L  \numberthis \label{eq:fermion:Higgs}\\
+	i \big(\frac{\partial \Psi_L}{\partial t} - \alpha_i \frac{\partial \Psi_L}{\partial 	x^i}\big) =& g (f+H) \Psi_R  
+\end{align*}
+
+In (\ref{eq:fermion:Higgs}) and Figure \ref{fig:2-9-Higgs-boson} we see that RH can turn into LH + Higgs. When Higgs is found\footnote{This lecture predates the discovery at \gls{gls:LHC}} we want to verify the relative rates of different Higgs interactions, e.g. ones involving quarks and ones involving electrons. For example, \eqref{eq:fermion:Higgs} could be read as a preference for the Higgs decaying into the heaviest fermions, if it has enough energy to do so, based on the Yukawa couplings.
+
+\begin{figure}[H]
+	\begin{center}
+		\caption[RH $\rightarrow$ LH + Higgs]{Right Hand Electron $\rightarrow$ Left Hand  Electron + Higgs--Equation \eqref{eq:fermion:Higgs}}\label{fig:2-9-Higgs-boson}
+		\feynmandiagram[horizontal=in1 to c]{
+		in1[particle=\(e_R\)]--[fermion] c -- [fermion] out1[particle=\(e_L\)],
+			c -- [boson] out2[particle=\(H\)],
+		};
+	\end{center}
+\end{figure}
+
+None of the particles in the Standard Model would have mass if it were not for the Higgs Field. Gauge Bosons normally don't have mass: the only way to give them mass is via spontaneous symmetry breaking, and this mass is proportional to $f$. The Fermions, because all their interactions are left handed, so they need $f$ to acquire mass (Positron is right handed, BTW).
+
+In the Standard Model, and on old time physics, it was thought that the neutrino was massless. The mass is very small, and, to within experimental error, they move at the speed of light, an that means it is possible for them to have only a single handedness. In the Standard Model, all neutrinos are left handed. Generalizations of the Standard Model have right handed neutrinos, but they typically have a very large mass. In the simple Standard Model, neutrinos are massless. Are they really massless? We know they are not, because of neutrino oscillations. 
+
+What actually happens to neutrinos is really curious. A mass term makes transitions between left handed and right handed. There are left handed neutrinos, and they go along with right handed antineutrinos: one way to have a mass is to have transitions between left handed neutrinos and right handed antineutrinos. Why could electron not do this? Charge conservation. A particle that mixes with its antiparticle is called a Majorana particle, after Ettore Majorana.
+
+All particles of Standard Model trace their mass back to $f$; if $f$ were zero, they'd be massless. Why haven't we found particles with energies greater than $f$? Maybe we haven't found them because $f$ is around 250\gls{gls:GeV}, and that is the limit of what our current accelerators will do.
+
+Imagine that a particle existed where L and R both had charge, with respect to these weak interactions. Then there would be no obstruction to having a mass which had nothing to do with $f$. The current thinking is that the mass scale of elementary particle physics is much greater than $f$. Any particle that can have a mass will have a mass which is much bigger than $f$. It is only those particles that have symmetries that give deep underlying reasons which, in the absence of spontaneous symmetry breaking,  can't have mass. Gauge bosons, left handed fermions, are prohibited from having mass unless there is a spontaneous symmetry breaking. Maybe it is not so surprising that all the particles whose masses are low enough to be detected come from the same origin. All the particles that can acquire mass without this mechanism are much heaver. The current thinking about dark Matter is that the particles are much bigger than $f$, maybe by a factor of 10.
+
+Neutrons have no electric charge, but they have weak charge. A neutrino can mix with and anti-neutrino and produce a massive Majorana particle which is its own antiparticle.
+
+\section{Renormalization and the running of coupling constants}
+
+\subsection{Lagrangian for Dirac Equation}
+
+We want to derive the Dirac equation \eqref{eq:dirac} from a variational principle. We rewrite to put all terms on the left.
+
+\begin{align*}
+	i \big(\frac{\partial \Psi}{\partial t} + \alpha_i \frac{\partial \Psi}{\partial x^i}\big) -m \beta \Psi =& 0
+\end{align*}
+
+We multiply by $\Psi^\dagger$ to obtain our Lagrangian:
+\begin{align*}
+	\mathcal{L}=&\Psi^\dagger i \big(\overbrace{\frac{\partial \Psi}{\partial t} + \alpha_i \frac{\partial \Psi}{\partial 	x^i}}^{\mathclap{\substack{\text{Absorbs particle}\\
+				\text{and emits it}\\
+			\text{somewhere else}}}}  - \underbrace{m \beta \Psi}_{\mathclap{\substack{\text{Absorbs particle}\\\text{and emits it}\\\text{in the same spot}}}}\big)
+\end{align*}
+If we define:
+\begin{align*}
+	\bar{\Psi} \triangleq&\Psi^\dagger \beta  \\
+	\Psi^\dagger  =& \bar{\Psi} \beta 
+\end{align*}
+since $\beta^2=1$, and we can write:
+\begin{align*}
+	\mathcal{L} =& \bar{\Psi}\beta \partial_t \Psi+ \bar{\Psi}\beta \alpha_i \partial \Psi +m \bar{\Psi}  \Psi \text{. We introduce new Dirac matrices:}\\
+	\gamma_0 \triangleq& \beta\\
+	\gamma_i\triangleq&\beta \alpha_i \text{, then}\\
+	\mathcal{L} =& \bar{\Psi}\gamma_0 \partial_t + \bar{\Psi}\gamma_i \partial_i \Psi +m \bar{\Psi}  \Psi\\
+	=& \bar{\Psi}\big(\gamma^\mu \partial_\mu +m  \big) \Psi  \numberthis \label{eq:dirac:lagrange}
+\end{align*}
+In modern physics $\alpha$ and $\beta$ have been abandoned, and we use $\gamma$.
+
+Note that $\bar{\Psi} \Psi$ is a scalar. We can write the Dirac equation in terms of $\gamma$.
+\begin{align*}
+	\big(\gamma^\mu \partial_\mu +m  \big) \Psi =& 0
+\end{align*}
+There is a fifth Dirac matrix:
+\begin{align*}
+	\gamma_5 \triangleq & \gamma_0 \gamma_1 \gamma_2 \gamma_3 \text{, \emph{not} $\gamma_4$!}\\
+	\gamma_5^2 =&1
+\end{align*}
+
+Its eigenvalues are $\pm 1$--corresponding to Left Handedness and Right handedness of the particles.
+
+\begin{defn}[chirality]
+	$\gamma_5$ is called chirality.
+\end{defn}
+
+In (\ref{eq:dirac:lagrange}), we can show that $\gamma^\mu \partial_\mu$  does not couple LH and RH, i.e. the eigenvectors of $\gamma_5^2$ corresponding to $\pm 1$. But
+
+\begin{thm}[The mass term in  (\ref{eq:dirac:lagrange}) mixes up left and right]
+	\begin{align*}
+		\bar{\Psi}\Psi =& \Psi^\dagger_L \Psi_R + \Psi^\dagger_R \Psi_L \numberthis \label{eq:LR}
+	\end{align*}
+\end{thm}
+\begin{proof}
+	TBP
+\end{proof}
+
+so the mass term in  (\ref{eq:dirac:lagrange}) mixes up left and right. A Dirac mass is a term in the Lagrangian which causes left and right fermions to flip. A massless Fermion has a definite chirality, but a massive one flips.
+
+\subsection{The W boson and mass scale for Higgs boson}
+
+We talked about weak interactions, in particular the emission and absorption of W and Z bosons. For some reason the W boson is emitted only by left handed particles (not true for photons, more complicated for Z, which has asymmetric couplings to LH and RH). So for $SU(2)$ the left handed particles are ''charged''. In \eqref{eq:LR}, $\Psi^\dagger_L$ is charged, $\Psi_R$. The term (\ref{eq:LR}) is not legal in a Lagrangian that had a gauge symmetry that only coupled to particles of one handedness.
+
+So how do we get a mass for Fermions? The Higgs boson also plays role as charged object for $SU(2)$ for weak interactions. In fact it is a doublet, like electron/neutrino. The Higgs  transforms under $SU(2)$. We need to multiply terms in \eqref{eq:LR} by the Higgs field; the Higgs either has no charge or a weak charge opposite  to the particle. Figure \ref{fig:2-10-Higgs-emitted} and \eqref{eq:higgs:emitted} illustrate the process of Higgs, $\Phi$, carrying off the weak charge.
+
+\begin{align*}
+	g_y \bar{\Psi}\Psi =& g_y \Psi^\dagger_L \Phi \Psi_R + g_y \Psi^\dagger_R \Psi_L \Phi^\dagger  \numberthis \label{eq:higgs:emitted}
+\end{align*}
+
+The coupling constant, $g_y$, the Yukawa coupling, is different for each \gls{gls:fermion}.
+\begin{figure}[H]
+	\caption[Higgs interacting with Fermions]{Higgs interacting with Fermions: two forms of the same diagram}
+	\begin{subfigure}[t]{0.45\textwidth}
+		\caption{Higgs carries off weak charge form $\Psi_L$}\label{fig:2-10-Higgs-emitted}
+		\feynmandiagram[vertical=a to i1]{
+			i1[particle=L] -- [fermion,edge label=weak charge] a -- [fermion] o1[particle=R],
+			a--[charged scalar,edge label=weak charge] o2[particle=$\Phi$]
+		};
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[t]{0.45\textwidth}
+		\caption{Higgs decaying into electron + positron}\label{fig:2-10-Higgs-decaying}
+		\feynmandiagram[vertical=a to i1]{
+			i1[particle=$\Phi$]--[charged scalar] a --[fermion] o1 [particle=$e^-$],
+			a --[anti fermion] o2 [particle=$e^+$]
+		};
+	\end{subfigure}
+\end{figure}
+
+That would be the end of the story, except that Nature has chosen a Mexican Hat potential for the Higgs field, Figure \ref{fig:mexican-hat}, so we have a fluctuation, $\Phi=f+H$.
+
+\begin{align*}
+	g_y \bar{\Psi}\Psi =& g_y f \big(\Psi^\dagger_L  \Psi_R +  \Psi^\dagger_R \Psi_L  \big) + g_y\underbrace{ H \big(\Psi^\dagger_L  \Psi_R +  \Psi^\dagger_R \Psi_L  \big)}_{\mathclap{\substack{\text{Emit electron and}\\
+									\text{re-emit it plus Higgs}}}}
+\end{align*}
+
+The same $f$ is used for the Z and W bosons ($\approxeq200GeV$), so we can use observed masses to determine $g_y$ (different for each type of particle). Figure \ref{fig:2-10-Higgs-emitted} can be redrawn as a single Higgs decaying, Figure \ref{fig:2-10-Higgs-decaying}, so, once we can find a Higgs in the laboratory, we should be able to predict decay rates.
+
+At the time of the lecture the Higgs had not been found: however there seems to be no way to make the mathematical theory consistent without the Higgs. The theory does make verifiable productions about the Z and W bosons.
+
+
+\subsection{Dynamics of the Higgs boson}
+
+This is all contained in Mexican Hat potential--Figure \ref{fig:2-8-phi-f}. You can make up potentials that have this shape. One such function, which actually has some physical significance, is:
+\begin{align*}
+	V =& -\frac{\mu^2}{2} \Phi^2 + \frac{\lambda}{4} \Phi^4 
+\end{align*}
+
+The first term would represent mass if it were positive (or $\mu$ would represent mass). The imaginary mass is a little weird, but it isn't a problem; having the origin be unstable is strange, as (on its own) it would make the vacuum be unstable. We introduce the quartic coupling constant $\lambda$ to prevent $\Phi$ falling indefinitely. We want the equation to remain symmetric, and a quartic is the simplest way to achieve this. It appears, from indirect evidence from weak interactions, that $\lambda$ is small, but not absurdly small, around 0.01 ($\lambda$ is dimensionless, $\mu$ has dimensions of mass).
+
+We want to find $f$, the $\Phi$ which gives the minimum of $V$.
+\begin{align*}
+	\frac{d V}{d \Phi} =& -\mu^2 \Phi + \lambda \Phi^3\\
+	=& \Phi \big(\lambda \Phi^2 - \mu^2\big)\\
+	=& 0 \text{, at a minimum. Since $\Phi=0$ is unstable}\\
+	f =& \frac{\mu}{\sqrt{\lambda}}
+\end{align*}
+
+Now $f$ is controlled by $\mu$. It is also $f$ is the mass of Z or W Bosons, and it comes into the mass of Fermions. All the particles have masses $\propto f$. It controls the masses of all the particles we know about: why are they all controlled by the same phenomenon? Why are there no particles whose mass doesn't involve spontaneous symmetry breaking? E.g. we can imagine a particle whose left and right variants both have weak charge, so we wouldn't need $\Phi$, or particles without weak interactions.
+
+The general thinking, a widespread \emph{belief}, is that the mass scale is enormous, much higher than the masses of the known particles. The only small mass parameter is $f$. Those particles that have to have masses proportional to $f$ (because their mathematics dictates that they would have no mass otherwise) are the only  particles that are light enough have been detected so far. But why is $f$ so small? (compared with what? What is the natural mass scale for elementary particle physics?) 
+
+The Planck Mass and Unification Mass are about 15 orders of magnitude larger than $f$.
+
+Superfluidity, is a condensation of Helium atoms. A Helium atom is not an elementary particle, but, at some scale it can be treated as one. There is a Helium field, that is normally zero. Spontaneous symmetry breaking can happen and create a Bose condensate, giving rise to superfluidity. If the Helium atom were charged (the atom, not the nucleus), it would behave like a Higgs boson, and give a mass to the photon. In a superconductor, electrons can pair up, and each ''Cooper pair'' has a charge of 2. They condense, shifting the field, creating a condensate, a super-fluid of Cooper Pairs: this is superconductivity. This phenomenon was originally discovered for superconductivity, and later rediscovered by Higgs et al.
+
+\subsection{The normal mass scale for elementary particle physics}
+
+When you describe elementary particles you start with the Lagrangian, which includes a collection of parameters, such as mass and charges, but these are rarely the actual measured quantities. When we measure, we get numbers that are a product of a whole lot of interactions between the high frequency modes and low frequency modes of the system, which renormalize values of parameters. What is the normal mass scale for elementary particle physics?
+
+One example is electric charge. The normally observed charge is determined by Coulomb's law for things at a large distance: $V=\frac{e^2}{R}$. This is asymptotically true for large $R$.
+
+If you do this in a material you will get a different value; you will get a slightly reduced value (except in a vacuum). What if we put a charge into a conductor? The charge causes a field, which causes a current, until it is completely discharged, i.e. until all charges have flowed to the boundary--left side of Figure \ref{fig:2-10-charged-conductor}--and original charge is surrounded by a cloud of opposite charge. These charges are bound to the original source, and the whole thing forms a neutral structure. The right hand shows the same thing with a negative charge. We find that there is no attraction: the experimental charge is not what we put in.
+
+\begin{figure}[H]
+	\begin{center}
+		\caption[Charged conductor: charge flows out to distant boundary]{Charged conductor. Charge flows out to distant boundary, let's assume this is at Alpha Centauri; charge gets surrounded by a cloud of opposite charge.}\label{fig:2-10-charged-conductor}
+		\begin{tikzpicture}
+			\draw (0,0) circle (10pt);
+			\draw (0,0) circle (12pt);
+			\draw (0,0) node {\large \bf $+$};
+			
+			\draw (0.7,0) node {-};
+			\draw (0.61,0.35) node {-};
+			\draw (0.35,0.61) node {-};
+			\draw (0,0.7) node {-};
+			\draw (-0.35,0.61) node {-};
+			\draw (-0.61,0.35) node {-};
+			\draw (-0.7,0) node {-};
+			\draw (0.61,-0.35) node {-};
+			\draw (0.35,-0.61) node {-};
+			\draw (0,-0.7) node {-};
+			\draw (-0.61,-0.35) node {-};
+			\draw (-0.35,-0.61) node {-};
+			
+			\draw (5,0) circle (10pt);
+			\draw (5,0) circle (12pt);
+			\draw (5,0) node {\large \bf $-$};
+			
+			\draw (5.7,0) node {+};
+			\draw (5.61,0.35) node {+};
+			\draw (5.35,0.61) node {+};
+			\draw (5,0.7) node {+};
+			\draw (5-0.35,0.61) node {+};
+			\draw (5-0.61,0.35) node {+};
+			\draw (5-0.7,0) node {+};
+			\draw (5.61,-0.35) node {+};
+			\draw (5.35,-0.61) node {+};
+			\draw (5,-0.7) node {+};
+			\draw (5-0.61,-0.35) node {+};
+			\draw (5-0.35,-0.61) node {+};
+		\end{tikzpicture}
+	\end{center}
+\end{figure}
+	
+
+Let's move the charges together, assuming charges are smaller than the clouds. Make them be closer than the clouds around them, then we do feel Coulomb force. The scale of the screening cloud is controlled by the dynamics of the electrons in the system. When the sources are closer than the screening cloud they feel each other's raw charge. We could say that charge is a function of distance, and $V=\frac{e(R)^2}{R}$, where $e(R)$ is the \emph{running charge}.
+
+Now consider something less extreme than a conductor, a dielectric. In a dielectric, electrons are bound to atoms, but there is some movement allowed; think of the electrons being attached by springs. Ordinarily the electron vibrates symmetrically, so, on average, the dipole moment is zero. But now we put the electron into an electric field, and the electron field shifts a little bit, leaving a dipole left over; current doesn't flow, but the charges shift a little.
+If you put a charge into a dielectric, there is a similar phenomenon: the ions are heavy, so they won't move much, but the electrons shift out a little.
+There will be some screening; diminished attraction from Coulomb law. We still have $e(R)$, but it doesn't go all the way to zero at infinity.
+
+\begin{figure}[H]
+	\begin{center}
+		\caption[We put the dielectric into an electric field]{We put the dielectric into an electric field, and the electron field shifts a little bit, leaving a dipole left over; current doesn't flow, but the charges shift a little.}
+		\begin{tikzpicture}
+			\draw (5,0) circle (10pt);
+			\draw (5,0) circle (12pt);
+			\draw (5,0) node {\large \bf $-$};
+			
+			\draw (5.7,0) node {+};
+			\draw (5.61,0.35) node {+};
+			\draw (5.35,0.61) node {+};
+			\draw (5,0.7) node {+};
+			\draw (5-0.35,0.61) node {+};
+			\draw (5-0.61,0.35) node {+};
+			\draw (5-0.7,0) node {+};
+			\draw (5.61,-0.35) node {+};
+			\draw (5.35,-0.61) node {+};
+			\draw (5,-0.7) node {+};
+			\draw (5-0.61,-0.35) node {+};
+			\draw (5-0.35,-0.61) node {+};
+			
+			\draw[->](5-0.61,-0.35)--(5-1.2,-0.7) node[left] {-};
+			\draw[->](5-0.35,-0.61)--(5-0.7,-1.2) node[left] {-};
+		\end{tikzpicture}
+	\end{center}
+\end{figure}
+
+Exactly this phenomenon happens in \glsdesc{gls:QFT}. In \glsdesc{gls:QED} the vacuum is full of electron-positron pairs. There are Feynman diagrams for {Electron-positron pairs being created--Figure \ref{fig:feynman:vaccum}; they inhabit the Vacuum.
+
+\begin{figure}[H]
+	\begin{center}
+		\caption{Feynman diagrams for the vacuum}\label{fig:feynman:vaccum}
+		\begin{subfigure}[t]{0.45\textwidth}
+			\caption{Electron-positron pairs being created from photons}
+				\feynmandiagram[vertical = a to i1]{
+				i1--[photon]a,
+				a--[fermion,half left,edge label=$e^-$]i1,
+				a--[anti fermion,half right,edge label=$e^+$]i1,
+			};
+		\end{subfigure}
+		\hfill
+		\begin{subfigure}[t]{0.45\textwidth}
+			\caption{Electron-positron loops}
+			\feynmandiagram[vertical = a to i1]{
+				a--[fermion,half left,edge label=$e^-$]i1,
+				a--[anti fermion,half right,edge label=$e^+$]i1,
+			};
+		\end{subfigure}
+	\end{center}
+\end{figure}
+
+You can also think about the vacuum as Dirac's negative energy sea.
+
+What happens when an electric field comes along?
+
+\begin{itemize}
+	\item The field will shift the electrons one way, the positrons the other, so the pairs will become polarized, the same way that atoms become polarized.
+	\item You put in what you thought was a bare charge $e$. The vacuum is basically a dielectric, negative charges are screened by a little bit of positive, and vice versa.
+\end{itemize}
+
+The upshot is that the  charge that is felt at a large distance is not the bare electric charge that you put into the Lagrangian. The separation between members of a virtual pair depends on virtual energy. As you bring charged particles closer, screening from low energy virtual pairs will reduce--Figure \ref{fig:2-10-effective-charge}--but this time there is no distance at which screening will totally disappear.
+
+\begin{figure}[H]
+	\caption{Running charges}
+	\begin{subfigure}[t]{0.45\textwidth}
+		\caption{EM Running charge increasing logarithmically with $\frac{1}{R}$}\label{fig:2-10-effective-charge}
+		\begin{tikzpicture}[scale=0.5]
+			\draw[->](0,0)--(0,5) node[above] {Running Charge};
+			\draw[->](0,0)--(7,0) node[right] {$1/R$};
+			\draw plot [domain=1.5:7,samples=100] (\x,{log2(\x)});
+		\end{tikzpicture}
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[t]{0.45\textwidth}
+		\caption{Weak, Strong and EM Running charge}\label{fig:2-10-effective-charge-esw}
+		\includegraphics[width=\textwidth]{2-10-effective-charge-esw}
+	\end{subfigure}
+\end{figure}
+
+If you scatter at low energy, charge, and hence scattering, is reduced. "True" charge is what we see at the smallest distances (except we don't know what happens at the Planck Length).
+
+Renormalization: how do we have to change the charge at smaller and smaller distances to keep the physics matching experiment?
+
+Strong Interactions are more complicated. Force law between quarks does not behave like $\frac{e^2}{R}$. We get the tube-like structures of Figure \ref{fig:QCD:QED}. Energy grows linearly, $\propto R$. We can make $e(R) \propto R$ and salvage Coulomb's law.
+
+Figure \ref{fig:2-10-effective-charge-esw} shows the variation of the weak, strong, and EM charges. Notice that they come together at a common point. It looks as if they are unified at some high energy. In the Supersymmetric version they unify at $10^{16}GeV$ (curves vary slowly). This would suggest that this is the fundamental length. If you plot gravitational forces, they don't cross at the same point, but within a couple of decades of energy (or length).
+
+\subsection{Gravitational forces}
+
+We will look at why gravitation energy $\propto\frac{1}{R^3}$ at small distances. When a body is moving at high speed, gravity $\propto$ energy, not mass. High energy particles gravitate more than they would if they were at rest.
+
+\begin{align*}
+	F =& \frac{mm}{R^2}G \text{, non-relativistic}\\
+	=& \frac{E E}{c^4 R^2}G \text{,                                              relativistic}
+\end{align*}
+
+Let's bring them close (Compton Length), so $P\approxeq\frac{\hslash}{R}$
+
+\begin{align*}
+	E =& Pc\\
+	=& \frac{\hslash c}{R}\\
+	F =& \frac{\hslash^2 }{R^4 c^2}G
+\end{align*}
+
+So, when you bring particles really close together, the force law is different from Coulomb.
+At what scale is the gravitational force comparable to the electromagnetic force?
+
+\begin{align*}
+	\frac{\hslash^2}{R^4 c^2}G =& \frac{e^2}{R^2} \text{, new set $e=1$ for simplicity}\\
+	\frac{\hslash^2}{R^4 c^2}G =& \frac{1}{R^2} \\
+	R =&\frac{\hslash \sqrt{G}}{c}
+\end{align*}
+This is the Planck length. This is thought to be important. Why is $f$ so small?
+
+% glossary: may need command makeglossaries.exe particles2
+\printglossaries
+
+\bibliographystyle{unsrt}
+\addcontentsline{toc}{section}{Bibliography}
+\raggedright
+\bibliography{tm}
+
+
+\end{document}
