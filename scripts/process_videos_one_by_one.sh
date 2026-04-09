@@ -3,7 +3,23 @@ set -euo pipefail
 
 repo_root="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 source_root="/home/lachlan/ProjectsLFS/YoutubeDownloader/downloads/PLERGeJGfknBTR_nXt5QL88xJF5LhDZBnG"
-min_free_gpu_mib="${MIN_FREE_GPU_MIB:-20000}"
+transcribe_model="${TRANSCRIBE_MODEL:-large-v3}"
+
+if [[ -n "${MIN_FREE_GPU_MIB:-}" ]]; then
+  min_free_gpu_mib="${MIN_FREE_GPU_MIB}"
+else
+  case "$transcribe_model" in
+    large|large-v1|large-v2|large-v3)
+      min_free_gpu_mib=14000
+      ;;
+    medium|medium.en)
+      min_free_gpu_mib=9000
+      ;;
+    *)
+      min_free_gpu_mib=4000
+      ;;
+  esac
+fi
 
 cd "$repo_root"
 
@@ -26,10 +42,11 @@ while true; do
   fi
 
   wait_for_gpu_memory
-  echo "Processing $next_video"
+  echo "Processing $next_video with model $transcribe_model"
   PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True python3 scripts/transcribe_video.py \
     --repo-root "$repo_root" \
     --source-root "$source_root" \
+    --model "$transcribe_model" \
     --video "$next_video"
 
   git add -- subtitles markdown

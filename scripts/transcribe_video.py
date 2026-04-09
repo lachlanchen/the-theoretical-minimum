@@ -17,7 +17,7 @@ DEFAULT_WHISPER_SCRIPT = Path(
     "/home/lachlan/ProjectsLFS/whisper_with_lang_detect/vad_lang_subtitle.py"
 )
 DEFAULT_CONDA_ENV = "whisper"
-DEFAULT_MODEL = "large-v2"
+DEFAULT_MODEL = "large-v3"
 VIDEO_EXTENSIONS = {".mp4", ".mkv", ".webm", ".m4a", ".mp3"}
 
 
