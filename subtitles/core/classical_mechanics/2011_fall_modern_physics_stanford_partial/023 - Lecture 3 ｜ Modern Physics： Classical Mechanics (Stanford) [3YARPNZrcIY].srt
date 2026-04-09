@@ -1,0 +1,10264 @@
+1
+00:00:06,820 --> 00:00:09,740
+This program is brought to you by Stanford University.
+
+2
+00:00:10,200 --> 00:00:12,720
+Please visit us at stanford.edu.
+
+3
+00:00:15,440 --> 00:00:18,200
+What we're talking about for the next,
+
+4
+00:00:18,200 --> 00:00:19,780
+well,
+
+5
+00:00:19,780 --> 00:00:21,460
+several weeks in any case,
+
+6
+00:00:21,520 --> 00:00:24,340
+of the structure of the laws of physics,
+
+7
+00:00:24,340 --> 00:00:24,820
+period.
+
+8
+00:00:24,820 --> 00:00:28,170
+The laws of physics all
+
+9
+00:00:28,170 --> 00:00:31,520
+have a common theme to them,
+
+10
+00:00:31,520 --> 00:00:32,000
+a common,
+
+11
+00:00:32,140 --> 00:00:34,580
+I shouldn't say an underlying basis,
+
+12
+00:00:34,580 --> 00:00:36,160
+but a common form,
+
+13
+00:00:36,160 --> 00:00:37,240
+the laws of physics.
+
+14
+00:00:37,880 --> 00:00:38,580
+First of all,
+
+15
+00:00:38,580 --> 00:00:39,270
+I should say what I
+
+16
+00:00:39,270 --> 00:00:39,960
+mean by the laws of physics.
+
+17
+00:00:40,140 --> 00:00:42,080
+There are some laws which are mathematical laws.
+
+18
+00:00:42,240 --> 00:00:43,140
+One plus one is two.
+
+19
+00:00:43,700 --> 00:00:46,660
+I don't regard that particularly as a law of physics.
+
+20
+00:00:47,440 --> 00:00:49,500
+There are laws of probability theory.
+
+21
+00:00:50,520 --> 00:00:52,470
+The fact that probability works altogether
+
+22
+00:00:52,470 --> 00:00:54,420
+may be a law of physics,
+
+23
+00:00:54,500 --> 00:00:54,800
+I'm not sure.
+
+24
+00:00:54,820 --> 00:00:57,570
+But I don't regard the laws
+
+25
+00:00:57,570 --> 00:01:00,320
+of probability theory as laws of physics.
+
+26
+00:01:00,700 --> 00:01:01,280
+You know,
+
+27
+00:01:01,280 --> 00:01:02,860
+they're not specific laws of physics.
+
+28
+00:01:03,300 --> 00:01:04,940
+All of the laws of physics,
+
+29
+00:01:04,940 --> 00:01:05,960
+such as F equals ma,
+
+30
+00:01:05,960 --> 00:01:11,720
+such as the laws of motion of a particle
+
+31
+00:01:11,720 --> 00:01:13,020
+in a gravitational field,
+
+32
+00:01:13,020 --> 00:01:15,860
+the laws of electricity and magnetism,
+
+33
+00:01:15,980 --> 00:01:17,620
+the laws of charged particles
+
+34
+00:01:17,620 --> 00:01:19,260
+moving in electric and magnetic fields,
+
+35
+00:01:19,980 --> 00:01:22,060
+all these classical laws of physics,
+
+36
+00:01:22,060 --> 00:01:23,240
+oh,
+
+37
+00:01:23,240 --> 00:01:24,660
+just a collision of,
+
+38
+00:01:24,660 --> 00:01:24,800
+you know,
+
+39
+00:01:24,800 --> 00:01:24,800
+the laws of motion,
+
+40
+00:01:24,800 --> 00:01:24,800
+the laws of gravity,
+
+41
+00:01:24,800 --> 00:01:24,800
+the laws of gravity,
+
+42
+00:01:24,800 --> 00:01:24,800
+the laws of gravity,
+
+43
+00:01:24,820 --> 00:01:25,000
+the laws of gravity,
+
+44
+00:01:25,000 --> 00:01:25,000
+gape,
+
+45
+00:01:25,000 --> 00:01:25,000
+the laws of gravity,
+
+46
+00:01:25,000 --> 00:01:25,000
+the laws of gravity,義,
+
+47
+00:01:25,000 --> 00:01:25,000
+Oft,
+
+48
+00:01:25,000 --> 00:01:25,320
+billion balls,
+
+49
+00:01:25,320 --> 00:01:27,000
+or any such things,
+
+50
+00:01:27,000 --> 00:01:30,600
+all of those laws of physics have a common form,
+
+51
+00:01:30,760 --> 00:01:35,180
+and the common form is the principle of least action.
+
+52
+00:01:36,820 --> 00:01:39,420
+The laws of thermodynamics for example,
+
+53
+00:01:39,420 --> 00:01:41,200
+which are usually not phrased
+
+54
+00:01:41,200 --> 00:01:42,800
+in the form of mechanical laws
+
+55
+00:01:42,800 --> 00:01:44,400
+involving a principle of least action,
+
+56
+00:01:44,580 --> 00:01:49,520
+the laws of thermodynamics are simply the statistical laws
+
+57
+00:01:49,520 --> 00:01:52,260
+of large numbers of degrees of freedom,
+
+58
+00:01:52,260 --> 00:01:54,800
+given that the basic laws of physics
+
+59
+00:01:54,800 --> 00:01:57,260
+basic laws of those degrees of freedom have
+
+60
+00:01:57,260 --> 00:01:59,720
+the form of the principle of least action.
+
+61
+00:02:00,780 --> 00:02:03,740
+The second law of thermodynamics is partly
+
+62
+00:02:03,740 --> 00:02:06,700
+a law about probability and partly a law,
+
+63
+00:02:06,880 --> 00:02:07,760
+a sort of meta-law,
+
+64
+00:02:07,760 --> 00:02:12,300
+whose underlying nature it is,
+
+65
+00:02:12,300 --> 00:02:14,120
+is that the laws of physics derive
+
+66
+00:02:14,120 --> 00:02:15,840
+from a principle of least action.
+
+67
+00:02:15,840 --> 00:02:19,580
+So we're going to be talking again today about the
+
+68
+00:02:19,580 --> 00:02:20,600
+principle of least action,
+
+69
+00:02:20,600 --> 00:02:22,300
+but before I do,
+
+70
+00:02:22,300 --> 00:02:23,240
+as is my habit,
+
+71
+00:02:23,240 --> 00:02:24,200
+I will talk a little,
+
+72
+00:02:24,200 --> 00:02:24,820
+just
+
+73
+00:02:24,820 --> 00:02:27,400
+some very elementary mathematical rules.
+
+74
+00:02:31,000 --> 00:02:33,480
+When I said that I
+
+75
+00:02:33,480 --> 00:02:35,960
+expected you to know some calculus,
+
+76
+00:02:35,960 --> 00:02:38,500
+or at least at minimum to have,
+
+77
+00:02:38,640 --> 00:02:40,600
+having remembered at least at one time,
+
+78
+00:02:40,600 --> 00:02:41,540
+have known some calculus,
+
+79
+00:02:41,540 --> 00:02:44,400
+I also decided that I
+
+80
+00:02:44,400 --> 00:02:44,880
+would teach,
+
+81
+00:02:44,880 --> 00:02:45,820
+as I went along,
+
+82
+00:02:45,820 --> 00:02:48,740
+all the basic mathematics that's really needed beyond the
+
+83
+00:02:48,740 --> 00:02:49,560
+most elementary terms.
+
+84
+00:02:49,580 --> 00:02:52,570
+So what we're going to
+
+85
+00:02:52,570 --> 00:02:55,560
+need tonight are two little theorems.
+
+86
+00:02:55,560 --> 00:02:57,160
+The first theorem is the
+
+87
+00:02:57,160 --> 00:02:59,340
+theorem of integration by parts.
+
+88
+00:02:59,340 --> 00:03:01,920
+Most of you probably know about integration by parts,
+
+89
+00:03:02,100 --> 00:03:05,620
+but since it's something we will use,
+
+90
+00:03:05,620 --> 00:03:06,800
+I will derive it.
+
+91
+00:03:06,800 --> 00:03:09,700
+First of all,
+
+92
+00:03:09,700 --> 00:03:11,460
+suppose you have
+
+93
+00:03:11,460 --> 00:03:12,100
+some integral,
+
+94
+00:03:12,100 --> 00:03:15,420
+and let's make the independent variable be t,
+
+95
+00:03:15,420 --> 00:03:16,380
+vt,
+
+96
+00:03:16,380 --> 00:03:19,560
+that goes from t1 to t2
+
+97
+00:03:19,580 --> 00:03:21,900
+some function,
+
+98
+00:03:21,900 --> 00:03:24,210
+but the function itself happens to
+
+99
+00:03:24,210 --> 00:03:26,520
+be the derivative of some other
+
+100
+00:03:26,520 --> 00:03:26,960
+function,
+
+101
+00:03:26,960 --> 00:03:28,180
+df,
+
+102
+00:03:28,180 --> 00:03:29,320
+or just an ordinary derivative.
+
+103
+00:03:29,320 --> 00:03:29,900
+sailing
+
+104
+00:03:31,860 --> 00:03:32,580
+out
+
+105
+00:03:32,580 --> 00:03:32,740
+with the
+
+106
+00:03:32,740 --> 00:03:32,980
+horses
+
+107
+00:03:32,980 --> 00:03:33,700
+Van Д.
+
+108
+00:03:35,260 --> 00:03:35,980
+x
+
+109
+00:03:35,980 --> 00:03:36,360
+V x
+
+110
+00:03:36,360 --> 00:03:36,680
+p
+
+111
+00:03:36,680 --> 00:03:37,900
+E x
+
+112
+00:03:37,900 --> 00:03:39,600
+V o x
+
+113
+00:03:39,600 --> 00:03:41,080
+V y
+
+114
+00:03:41,080 --> 00:03:41,220
+v
+
+115
+00:03:41,220 --> 00:03:44,180
+V o x
+
+116
+00:03:44,180 --> 00:03:48,580
+v t
+
+117
+00:03:48,580 --> 00:03:50,000
+that's the indefinite integral
+
+118
+00:03:50,000 --> 00:03:52,620
+the indefinite integral of a derivative
+
+119
+00:03:53,019 --> 00:03:54,300
+is just the function itself
+
+120
+00:03:54,300 --> 00:03:58,340
+but the definite integral from t1 to t2,
+
+121
+00:03:58,340 --> 00:03:59,040
+excuse me,
+
+122
+00:03:59,040 --> 00:04:00,420
+from t1 to t2
+
+123
+00:04:00,420 --> 00:04:01,720
+of a derivative
+
+124
+00:04:02,320 --> 00:04:04,540
+is just the difference of the function f
+
+125
+00:04:04,540 --> 00:04:06,460
+at the two endpoints of integration
+
+126
+00:04:08,959 --> 00:04:11,340
+f at t2
+
+127
+00:04:12,700 --> 00:04:16,220
+minus f at t1
+
+128
+00:04:16,220 --> 00:04:19,310
+the easiest way to see this is just to
+
+129
+00:04:19,310 --> 00:04:22,400
+think about what the integral of a function is
+
+130
+00:04:22,400 --> 00:04:26,360
+it's the sum of little incremental values of a function
+
+131
+00:04:26,360 --> 00:04:28,520
+but the incremental values,
+
+132
+00:04:28,520 --> 00:04:31,220
+what does the derivative mean?
+
+133
+00:04:31,380 --> 00:04:33,230
+the derivative just means the difference
+
+134
+00:04:33,230 --> 00:04:35,080
+of the function at neighboring points
+
+135
+00:04:35,080 --> 00:04:37,930
+so this might be f at
+
+136
+00:04:37,930 --> 00:04:40,780
+point 2 minus f at point 1
+
+137
+00:04:42,760 --> 00:04:45,420
+divided by a little incremental dt
+
+138
+00:04:45,420 --> 00:04:46,200
+and then the integral of f at point 1
+
+139
+00:04:46,220 --> 00:04:49,380
+and then the next interval is plus f
+
+140
+00:04:49,380 --> 00:04:52,540
+at point 3 minus f at point 2
+
+141
+00:04:53,700 --> 00:04:57,780
+plus f at point 4 minus f at point 3
+
+142
+00:04:57,780 --> 00:04:58,660
+and so forth
+
+143
+00:04:59,600 --> 00:05:00,960
+everything cancels out
+
+144
+00:05:01,500 --> 00:05:03,400
+except the first and last term
+
+145
+00:05:04,540 --> 00:05:06,320
+f at 2 cancels out
+
+146
+00:05:06,320 --> 00:05:08,080
+f at 3 cancels out
+
+147
+00:05:08,080 --> 00:05:10,020
+they all cancel out except the
+
+148
+00:05:10,020 --> 00:05:11,960
+last one and the first one
+
+149
+00:05:11,960 --> 00:05:14,080
+and so the integral of a derivative is just the difference
+
+150
+00:05:14,080 --> 00:05:16,200
+of the function f at point 1 and f at point 2
+
+151
+00:05:16,220 --> 00:05:18,040
+and that's the endpoints of the integration
+
+152
+00:05:19,660 --> 00:05:20,420
+that's number one
+
+153
+00:05:22,240 --> 00:05:23,960
+step number two
+
+154
+00:05:24,900 --> 00:05:26,420
+let's suppose the function f
+
+155
+00:05:26,800 --> 00:05:29,200
+is actually the product of two functions
+
+156
+00:05:31,620 --> 00:05:34,260
+f is equal to the product
+
+157
+00:05:34,260 --> 00:05:37,120
+of little f times g
+
+158
+00:05:37,120 --> 00:05:40,570
+of course every function can be
+
+159
+00:05:40,570 --> 00:05:44,020
+written as a product of some functions
+
+160
+00:05:44,500 --> 00:05:46,060
+but let's be specific
+
+161
+00:05:46,220 --> 00:05:48,500
+capital f is the product of little
+
+162
+00:05:48,500 --> 00:05:50,780
+f of t and g of t
+
+163
+00:05:50,780 --> 00:05:52,650
+now what is the derivative
+
+164
+00:05:52,650 --> 00:05:54,520
+of f with respect to t
+
+165
+00:05:55,380 --> 00:05:56,900
+it's the sum of two terms
+
+166
+00:05:56,900 --> 00:05:59,040
+so let's write that as f dot
+
+167
+00:05:59,040 --> 00:05:59,840
+meaning derivative
+
+168
+00:06:00,640 --> 00:06:02,780
+is equal to f dot
+
+169
+00:06:02,780 --> 00:06:04,180
+little f dot of t
+
+170
+00:06:04,880 --> 00:06:05,700
+times g
+
+171
+00:06:08,480 --> 00:06:11,320
+plus f of t
+
+172
+00:06:12,240 --> 00:06:14,220
+times g dot of t
+
+173
+00:06:14,220 --> 00:06:16,040
+this is the rule for
+
+174
+00:06:16,220 --> 00:06:17,880
+for picking the derivative of a product
+
+175
+00:06:19,500 --> 00:06:22,040
+derivative of a first factor times the second
+
+176
+00:06:22,040 --> 00:06:24,720
+plus the derivative of the second factor times the first
+
+177
+00:06:25,380 --> 00:06:26,400
+so let's apply
+
+178
+00:06:26,400 --> 00:06:28,460
+that rule up there
+
+179
+00:06:28,460 --> 00:06:30,540
+f dot just means the f of t
+
+180
+00:06:30,540 --> 00:06:37,360
+and what it tells us is that the integral from
+
+181
+00:06:37,360 --> 00:06:44,180
+t1 to t2 of f dot g plus f g dot
+
+182
+00:06:44,180 --> 00:06:46,660
+minus the Joy cumin
+
+183
+00:06:46,660 --> 00:06:47,860
+rise to a artifacts
+
+184
+00:06:47,860 --> 00:06:53,380
+one time than sample
+
+185
+00:06:53,380 --> 00:06:54,360
+10.8.
+
+186
+00:06:54,360 --> 00:06:54,360
+10.7睡
+
+187
+00:06:54,360 --> 00:06:56,340
+is the opposite
+
+188
+00:06:56,340 --> 00:06:58,020
+the opposite
+
+189
+00:07:00,140 --> 00:07:01,890
+structure where the second term is
+
+190
+00:07:01,890 --> 00:07:03,640
+differentiated and the first term is not.
+
+191
+00:07:04,000 --> 00:07:04,560
+Well,
+
+192
+00:07:04,560 --> 00:07:05,860
+according to the top line
+
+193
+00:07:06,480 --> 00:07:07,300
+that's equal
+
+194
+00:07:07,300 --> 00:07:08,920
+to the product
+
+195
+00:07:09,940 --> 00:07:10,500
+fg
+
+196
+00:07:11,920 --> 00:07:13,160
+at one endpoint
+
+197
+00:07:13,740 --> 00:07:14,080
+minus
+
+198
+00:07:14,640 --> 00:07:15,800
+fg at the other endpoint.
+
+199
+00:07:15,800 --> 00:07:17,700
+Let's make a notation for this.
+
+200
+00:07:18,240 --> 00:07:20,360
+The standard notation for this difference
+
+201
+00:07:20,360 --> 00:07:22,300
+is just to write f
+
+202
+00:07:24,539 --> 00:07:25,140
+t2
+
+203
+00:07:25,719 --> 00:07:26,020
+t1.
+
+204
+00:07:26,020 --> 00:07:28,660
+That's the standard notation for the difference
+
+205
+00:07:28,660 --> 00:07:31,040
+of a function at two endpoints.
+
+206
+00:07:32,440 --> 00:07:33,560
+So we can write
+
+207
+00:07:33,560 --> 00:07:35,540
+that this is the difference of a function
+
+208
+00:07:35,540 --> 00:07:37,200
+at two endpoints.
+
+209
+00:07:37,200 --> 00:07:38,590
+The difference of the product
+
+210
+00:07:38,590 --> 00:07:39,980
+of the function at two endpoints.
+
+211
+00:07:41,100 --> 00:07:41,700
+t1
+
+212
+00:07:42,539 --> 00:07:43,880
+t2 and t1.
+
+213
+00:07:43,880 --> 00:07:48,000
+Yes?
+
+214
+00:07:50,360 --> 00:07:51,470
+So the integral of the f
+
+215
+00:07:51,470 --> 00:07:52,580
+here that I haven't seen before is
+
+216
+00:07:52,580 --> 00:07:54,240
+I thought this would be true
+
+217
+00:07:54,240 --> 00:07:55,900
+for the integral of df dt.
+
+218
+00:07:55,900 --> 00:07:59,820
+The extra dt in there I haven't seen before.
+
+219
+00:08:00,680 --> 00:08:02,880
+The integral of df dt.
+
+220
+00:08:03,760 --> 00:08:05,450
+Whenever you write an integral there
+
+221
+00:08:05,450 --> 00:08:07,140
+always has to be a d-something.
+
+222
+00:08:10,500 --> 00:08:12,180
+The fdt is just a function.
+
+223
+00:08:12,440 --> 00:08:12,860
+Alright.
+
+224
+00:08:12,860 --> 00:08:13,220
+Never mind.
+
+225
+00:08:13,220 --> 00:08:13,500
+Good.
+
+226
+00:08:13,500 --> 00:08:14,680
+Stupid question.
+
+227
+00:08:18,380 --> 00:08:19,690
+I will comment whether it
+
+228
+00:08:19,690 --> 00:08:21,000
+was a stupid question or not.
+
+229
+00:08:21,200 --> 00:08:22,160
+But I will say,
+
+230
+00:08:22,160 --> 00:08:23,740
+please ask me questions like that.
+
+231
+00:08:24,200 --> 00:08:24,500
+You know,
+
+232
+00:08:24,500 --> 00:08:26,620
+when you get a little confused about something like that
+
+233
+00:08:28,280 --> 00:08:29,220
+just stop me,
+
+234
+00:08:29,220 --> 00:08:29,780
+slow me down,
+
+235
+00:08:29,880 --> 00:08:30,540
+ask me the question
+
+236
+00:08:30,540 --> 00:08:37,159
+and force me to make things explicit.
+
+237
+00:08:37,620 --> 00:08:41,000
+And this one here.
+
+238
+00:08:42,419 --> 00:08:43,880
+This is the one you're talking about,
+
+239
+00:08:43,880 --> 00:08:44,100
+right?
+
+240
+00:08:44,100 --> 00:08:44,100
+right?
+
+241
+00:08:44,100 --> 00:08:44,660
+Yeah.
+
+242
+00:08:44,660 --> 00:08:47,820
+So there should be a dt in that one.
+
+243
+00:08:52,640 --> 00:08:53,160
+Alright,
+
+244
+00:08:53,160 --> 00:08:54,840
+now let's take a special case.
+
+245
+00:08:54,840 --> 00:08:55,800
+The special situation
+
+246
+00:08:56,520 --> 00:08:58,980
+is where either f or g
+
+247
+00:08:59,860 --> 00:09:02,680
+vanishes is equal to zero at the end points.
+
+248
+00:09:03,860 --> 00:09:05,300
+That's a special case which will
+
+249
+00:09:05,300 --> 00:09:06,740
+come up time and time again
+
+250
+00:09:06,740 --> 00:09:08,760
+where for one reason or another
+
+251
+00:09:09,440 --> 00:09:10,940
+either f or g
+
+252
+00:09:10,940 --> 00:09:13,740
+is equal to zero at the two end points.
+
+253
+00:09:14,520 --> 00:09:17,360
+It could be f being zero at both end points,
+
+254
+00:09:17,360 --> 00:09:19,480
+it could be g being zero at both end points,
+
+255
+00:09:19,480 --> 00:09:20,780
+or it could be some mixed case.
+
+256
+00:09:22,479 --> 00:09:24,280
+But in any case,
+
+257
+00:09:25,259 --> 00:09:28,220
+if f or g vanishes at the end points,
+
+258
+00:09:28,220 --> 00:09:29,240
+then this is just zero.
+
+259
+00:09:29,240 --> 00:09:31,160
+So...
+
+260
+00:09:39,139 --> 00:09:40,420
+Even that's good enough.
+
+261
+00:09:40,420 --> 00:09:41,760
+Even that's good enough.
+
+262
+00:09:42,360 --> 00:09:44,220
+But in the special cases we'll be doing,
+
+263
+00:09:44,780 --> 00:09:45,440
+as a rule,
+
+264
+00:09:45,440 --> 00:09:48,020
+one of these two will always be zero.
+
+265
+00:09:49,060 --> 00:09:50,460
+And so that's not there.
+
+266
+00:09:50,880 --> 00:09:51,440
+Alright,
+
+267
+00:09:51,440 --> 00:09:52,760
+then we can write this formula
+
+268
+00:09:53,340 --> 00:09:55,660
+in the form that is usually
+
+269
+00:09:56,560 --> 00:09:58,220
+the integration by parts formula.
+
+270
+00:09:59,240 --> 00:09:59,940
+The integral,
+
+271
+00:10:01,080 --> 00:10:03,140
+and now I won't bother writing the end points.
+
+272
+00:10:03,140 --> 00:10:04,580
+The end points are implicit.
+
+273
+00:10:04,580 --> 00:10:05,340
+I'll just...
+
+274
+00:10:05,340 --> 00:10:05,540
+Ah,
+
+275
+00:10:05,540 --> 00:10:06,160
+let me write it.
+
+276
+00:10:06,240 --> 00:10:08,280
+t1 to t2 dt
+
+277
+00:10:09,139 --> 00:10:10,600
+of f dot g.
+
+278
+00:10:12,900 --> 00:10:15,580
+Now let me transpose this over to the other side.
+
+279
+00:10:16,160 --> 00:10:17,360
+That's equal to minus
+
+280
+00:10:18,299 --> 00:10:19,180
+the integral,
+
+281
+00:10:19,180 --> 00:10:20,220
+same integral,
+
+282
+00:10:20,220 --> 00:10:22,180
+from t1 to t2 dt
+
+283
+00:10:23,699 --> 00:10:25,240
+g dot f.
+
+284
+00:10:28,300 --> 00:10:29,020
+So you see,
+
+285
+00:10:29,020 --> 00:10:30,720
+if you happen to have an integral
+
+286
+00:10:31,760 --> 00:10:33,020
+with the integrand,
+
+287
+00:10:33,140 --> 00:10:34,280
+the thing you're integrating,
+
+288
+00:10:34,280 --> 00:10:36,840
+happening to be a product of a derivative
+
+289
+00:10:37,220 --> 00:10:38,060
+times another function,
+
+290
+00:10:38,660 --> 00:10:40,020
+you can interchange
+
+291
+00:10:40,620 --> 00:10:42,360
+which one is differentiated and
+
+292
+00:10:42,360 --> 00:10:44,100
+which one is not differentiated,
+
+293
+00:10:44,620 --> 00:10:46,400
+but at the expense of a sign.
+
+294
+00:10:47,360 --> 00:10:48,980
+You have to change the sign
+
+295
+00:10:49,640 --> 00:10:50,540
+when you change
+
+296
+00:10:51,180 --> 00:10:53,080
+the place where the dot goes.
+
+297
+00:10:54,260 --> 00:10:54,740
+Again,
+
+298
+00:10:54,740 --> 00:10:55,980
+that only is true
+
+299
+00:10:57,040 --> 00:10:59,180
+if the product f g,
+
+300
+00:11:00,660 --> 00:11:01,140
+well,
+
+301
+00:11:01,140 --> 00:11:02,700
+I was going to say if the product f
+
+302
+00:11:02,700 --> 00:11:04,260
+g is equal to zero at the end points,
+
+303
+00:11:04,260 --> 00:11:06,610
+as long as the difference
+
+304
+00:11:06,610 --> 00:11:08,960
+is zero at the end points.
+
+305
+00:11:09,200 --> 00:11:12,020
+But that's a fine point.
+
+306
+00:11:15,680 --> 00:11:18,280
+So this is one small theorem.
+
+307
+00:11:19,280 --> 00:11:21,020
+Another small theorem,
+
+308
+00:11:21,720 --> 00:11:22,960
+it's an even smaller theorem.
+
+309
+00:11:23,780 --> 00:11:25,560
+It's hardly worth calling a theorem.
+
+310
+00:11:28,560 --> 00:11:30,240
+I'll expose the integration by
+
+311
+00:11:30,240 --> 00:11:31,920
+parts again when we need it.
+
+312
+00:11:34,260 --> 00:11:35,780
+Another little piece of mathematics.
+
+313
+00:11:38,640 --> 00:11:40,380
+This one is so trivial
+
+314
+00:11:40,380 --> 00:11:42,120
+that it's hardly worth even mentioning,
+
+315
+00:11:42,280 --> 00:11:43,500
+but I'm going to mention it anyway.
+
+316
+00:11:44,040 --> 00:11:45,600
+Supposing I have a function,
+
+317
+00:11:45,780 --> 00:11:47,060
+let me call it a .
+
+318
+00:11:50,760 --> 00:11:52,720
+And here's what I know about a .
+
+319
+00:11:53,620 --> 00:11:55,440
+I know that when it's integrated,
+
+320
+00:11:55,580 --> 00:11:57,510
+let's suppose it's defined again on
+
+321
+00:11:57,510 --> 00:11:59,440
+an interval from t1 to t2,
+
+322
+00:12:01,340 --> 00:12:01,840
+a .
+
+323
+00:12:01,840 --> 00:12:03,580
+So I know that when it's integrated,
+
+324
+00:12:03,580 --> 00:12:03,580
+let's suppose it's defined again on
+
+325
+00:12:03,580 --> 00:12:03,580
+an interval from t1 to t2,
+
+326
+00:12:03,640 --> 00:12:04,240
+a .
+
+327
+00:12:04,260 --> 00:12:06,890
+So I know that a
+
+328
+00:12:06,890 --> 00:12:09,520
+is some function on the interval.
+
+329
+00:12:10,860 --> 00:12:12,320
+Here's what I know about it.
+
+330
+00:12:12,440 --> 00:12:14,900
+I know about that when it's integrated,
+
+331
+00:12:16,900 --> 00:12:18,300
+with any function,
+
+332
+00:12:18,300 --> 00:12:19,760
+any other function,
+
+333
+00:12:19,760 --> 00:12:20,460
+f ,
+
+334
+00:12:21,040 --> 00:12:23,400
+when you multiply it by any function of t,
+
+335
+00:12:24,680 --> 00:12:26,300
+this can be any function,
+
+336
+00:12:28,800 --> 00:12:30,360
+if you take any function,
+
+337
+00:12:30,360 --> 00:12:33,000
+multiply it by a and integrate it,
+
+338
+00:12:34,260 --> 00:12:36,720
+Let's suppose that we know that the answer is 0.
+
+339
+00:12:38,200 --> 00:12:39,780
+That's a lot to know,
+
+340
+00:12:40,260 --> 00:12:42,540
+that no matter what function you put here,
+
+341
+00:12:43,260 --> 00:12:46,480
+if you multiply it by a and you integrate it,
+
+342
+00:12:46,480 --> 00:12:46,960
+you get 0.
+
+343
+00:12:47,300 --> 00:12:48,740
+What does that tell you about a?
+
+344
+00:12:50,680 --> 00:12:52,340
+It tells you that a is 0.
+
+345
+00:12:52,920 --> 00:12:55,580
+And the easy way to see that is to say,
+
+346
+00:12:55,580 --> 00:12:57,100
+if it's true for any function,
+
+347
+00:12:58,160 --> 00:13:00,140
+let's check that a has to
+
+348
+00:13:00,140 --> 00:13:02,120
+be 0 at some specific point.
+
+349
+00:13:02,700 --> 00:13:04,240
+Let's take this specific point here.
+
+350
+00:13:04,240 --> 00:13:06,050
+Then all we have to do
+
+351
+00:13:06,050 --> 00:13:07,860
+is take a function f ,
+
+352
+00:13:07,860 --> 00:13:09,950
+which is 0 everywhere except in
+
+353
+00:13:09,950 --> 00:13:12,040
+the vicinity of that little point.
+
+354
+00:13:13,100 --> 00:13:15,150
+Then when we multiply the
+
+355
+00:13:15,150 --> 00:13:17,200
+function a by this little blip,
+
+356
+00:13:17,220 --> 00:13:18,340
+let's call that the blip function,
+
+357
+00:13:19,080 --> 00:13:20,760
+when we multiply it by the blip function,
+
+358
+00:13:21,140 --> 00:13:22,880
+we of course get something
+
+359
+00:13:22,880 --> 00:13:24,620
+proportional to a at that point.
+
+360
+00:13:26,400 --> 00:13:30,200
+And so what we'll get is something proportional to a
+
+361
+00:13:30,200 --> 00:13:33,140
+at the point where the blip function is non-zero.
+
+362
+00:13:34,240 --> 00:13:34,800
+Well,
+
+363
+00:13:34,800 --> 00:13:37,520
+by choosing the blip function to be anywheres,
+
+364
+00:13:38,140 --> 00:13:41,480
+we then prove that a has to be 0 everywheres.
+
+365
+00:13:42,100 --> 00:13:44,550
+So if we have a function
+
+366
+00:13:44,550 --> 00:13:47,000
+which when multiplied by an arbitrary function,
+
+367
+00:13:47,720 --> 00:13:49,500
+the integral is always 0,
+
+368
+00:13:49,840 --> 00:13:51,980
+then that function a must be 0,
+
+369
+00:13:51,980 --> 00:13:53,380
+exactly 0.
+
+370
+00:13:55,240 --> 00:14:00,220
+This implies that a is 0.
+
+371
+00:14:03,140 --> 00:14:04,950
+Now you can't check this by
+
+372
+00:14:04,950 --> 00:14:06,760
+integrating it with a specific function.
+
+373
+00:14:07,860 --> 00:14:09,640
+If you just take some particular function and
+
+374
+00:14:09,640 --> 00:14:11,420
+you do the integral and find it 0,
+
+375
+00:14:12,119 --> 00:14:14,500
+that only tells you a limited amount of information.
+
+376
+00:14:15,280 --> 00:14:16,440
+But if you have to prove,
+
+377
+00:14:16,440 --> 00:14:16,760
+now you,
+
+378
+00:14:16,820 --> 00:14:18,780
+how long does it take you
+
+379
+00:14:18,780 --> 00:14:20,740
+to integrate it with every possible function?
+
+380
+00:14:22,360 --> 00:14:22,800
+Forever.
+
+381
+00:14:23,200 --> 00:14:25,440
+So this is not something you do by hand.
+
+382
+00:14:25,560 --> 00:14:26,260
+That's not long enough.
+
+383
+00:14:26,900 --> 00:14:28,180
+That's probably not long enough.
+
+384
+00:14:30,500 --> 00:14:30,940
+So,
+
+385
+00:14:32,300 --> 00:14:33,080
+as a rule,
+
+386
+00:14:33,140 --> 00:14:35,210
+you don't actually check this by
+
+387
+00:14:35,210 --> 00:14:37,280
+going through a family of functions.
+
+388
+00:14:37,780 --> 00:14:42,460
+You prove that a times f always integrates to 0.
+
+389
+00:14:43,140 --> 00:14:43,700
+Okay,
+
+390
+00:14:43,700 --> 00:14:50,200
+now we're ready for the big one.
+
+391
+00:14:52,000 --> 00:14:54,800
+The big one is the relationship
+
+392
+00:14:54,800 --> 00:14:57,600
+between the principle of least action,
+
+393
+00:14:58,780 --> 00:15:00,900
+which is a global statement.
+
+394
+00:15:01,080 --> 00:15:02,840
+Let me say what I mean by a global statement.
+
+395
+00:15:03,520 --> 00:15:05,640
+What we're interested in is trajectories,
+
+396
+00:15:05,660 --> 00:15:06,660
+or histories,
+
+397
+00:15:06,660 --> 00:15:07,400
+if you like.
+
+398
+00:15:08,860 --> 00:15:09,980
+Histories of systems.
+
+399
+00:15:10,600 --> 00:15:12,960
+The system is described by a set
+
+400
+00:15:12,960 --> 00:15:15,320
+of coordinates that we can call q,
+
+401
+00:15:16,300 --> 00:15:16,820
+q1,
+
+402
+00:15:16,820 --> 00:15:17,340
+q2,
+
+403
+00:15:17,340 --> 00:15:18,060
+and so forth.
+
+404
+00:15:19,740 --> 00:15:22,320
+And the trajectory or the history of the system
+
+405
+00:15:23,020 --> 00:15:26,040
+is a trajectory as a function of time.
+
+406
+00:15:27,440 --> 00:15:29,280
+Time I take to be upward.
+
+407
+00:15:29,500 --> 00:15:30,960
+Here I took time to be horizontal.
+
+408
+00:15:31,340 --> 00:15:32,920
+I apologize for that.
+
+409
+00:15:32,920 --> 00:15:38,680
+But the problem is that in elementary mathematics,
+
+410
+00:15:39,020 --> 00:15:40,890
+the independent variable is always taken
+
+411
+00:15:40,890 --> 00:15:42,760
+to be along the horizontal axis.
+
+412
+00:15:43,080 --> 00:15:44,180
+In physics,
+
+413
+00:15:44,180 --> 00:15:45,620
+the independent variable,
+
+414
+00:15:45,780 --> 00:15:47,100
+which is usually of time,
+
+415
+00:15:47,360 --> 00:15:49,380
+is always taken to be the vertical axis.
+
+416
+00:15:50,540 --> 00:15:54,110
+So we have to tilt
+
+417
+00:15:54,110 --> 00:15:57,680
+our heads every now and then
+
+418
+00:15:57,680 --> 00:15:59,100
+to see it in perspective.
+
+419
+00:15:59,620 --> 00:16:00,220
+Okay,
+
+420
+00:16:00,220 --> 00:16:00,860
+so that's t.
+
+421
+00:16:01,520 --> 00:16:02,120
+And,
+
+422
+00:16:02,120 --> 00:16:03,600
+a trajectory,
+
+423
+00:16:03,880 --> 00:16:05,300
+or a history of a system,
+
+424
+00:16:06,000 --> 00:16:09,100
+is a trajectory as a function of t
+
+425
+00:16:09,100 --> 00:16:11,080
+of all of the q's.
+
+426
+00:16:11,160 --> 00:16:12,380
+The q's being the coordinates.
+
+427
+00:16:12,560 --> 00:16:13,100
+In other words,
+
+428
+00:16:13,100 --> 00:16:14,060
+it's a set of functions,
+
+429
+00:16:14,939 --> 00:16:15,880
+q1 of t,
+
+430
+00:16:17,939 --> 00:16:18,900
+q2 of t,
+
+431
+00:16:20,460 --> 00:16:21,420
+q3 of t,
+
+432
+00:16:21,560 --> 00:16:23,460
+all of the various generalized
+
+433
+00:16:23,460 --> 00:16:25,360
+coordinates that describe the system.
+
+434
+00:16:25,380 --> 00:16:26,860
+If you know them as a function of time,
+
+435
+00:16:27,020 --> 00:16:28,260
+then you know the history.
+
+436
+00:16:28,800 --> 00:16:30,860
+We're interested in the histories of systems.
+
+437
+00:16:32,120 --> 00:16:33,140
+The trajectories.
+
+438
+00:16:33,400 --> 00:16:35,180
+There's two ways of going
+
+439
+00:16:35,180 --> 00:16:36,960
+about formulating the laws of physics.
+
+440
+00:16:37,440 --> 00:16:38,980
+One I will call local.
+
+441
+00:16:39,420 --> 00:16:42,320
+Local means you concentrate on
+
+442
+00:16:42,320 --> 00:16:45,220
+a location along the trajectory,
+
+443
+00:16:45,850 --> 00:16:47,460
+and you construct a law
+
+444
+00:16:48,050 --> 00:16:50,980
+which tells you how to go forward at each point.
+
+445
+00:16:51,860 --> 00:16:52,940
+In other words,
+
+446
+00:16:53,870 --> 00:16:55,200
+given a bit of information,
+
+447
+00:16:55,400 --> 00:16:56,700
+somewheres along the trajectory,
+
+448
+00:16:57,120 --> 00:16:59,800
+it tells you how to go a little bit forward.
+
+449
+00:17:00,080 --> 00:17:01,860
+F equals m a is an example.
+
+450
+00:17:02,640 --> 00:17:04,099
+It tells you the acceleration
+
+451
+00:17:04,099 --> 00:17:05,540
+in terms of the position.
+
+452
+00:17:06,099 --> 00:17:07,240
+So in that case,
+
+453
+00:17:07,240 --> 00:17:07,900
+you need to know
+
+454
+00:17:07,900 --> 00:17:09,200
+what do you need to know in that case?
+
+455
+00:17:09,579 --> 00:17:11,900
+You need to know the q's
+
+456
+00:17:12,579 --> 00:17:13,619
+and the q dots.
+
+457
+00:17:14,540 --> 00:17:16,540
+And if you know the q's and the q dots,
+
+458
+00:17:16,780 --> 00:17:18,160
+then F equals m a
+
+459
+00:17:18,160 --> 00:17:21,020
+will take you to the next point,
+
+460
+00:17:21,099 --> 00:17:21,760
+and the next point,
+
+461
+00:17:21,760 --> 00:17:22,500
+and the next point,
+
+462
+00:17:22,599 --> 00:17:25,300
+and will eventually build up the whole trajectory for you.
+
+463
+00:17:25,900 --> 00:17:27,470
+F equals m a I
+
+464
+00:17:27,470 --> 00:17:29,040
+call a local law of physics.
+
+465
+00:17:29,800 --> 00:17:31,760
+Local in the sense that it makes reference
+
+466
+00:17:32,120 --> 00:17:33,860
+only to a little bit of the trajectory,
+
+467
+00:17:34,080 --> 00:17:36,000
+a differentially small amount of the trajectory.
+
+468
+00:17:38,020 --> 00:17:41,500
+The other way of describing the laws of physics
+
+469
+00:17:42,220 --> 00:17:43,700
+is through a global,
+
+470
+00:17:43,840 --> 00:17:44,680
+or a closed global,
+
+471
+00:17:44,680 --> 00:17:45,900
+a global formulation,
+
+472
+00:17:46,020 --> 00:17:48,120
+which looks at the whole trajectory
+
+473
+00:17:48,120 --> 00:17:50,080
+and says there's some quantity
+
+474
+00:17:50,080 --> 00:17:51,040
+called the action
+
+475
+00:17:52,340 --> 00:17:55,360
+which is dependent on the entire trajectory
+
+476
+00:17:56,100 --> 00:17:57,660
+which is minimized
+
+477
+00:17:57,660 --> 00:17:59,300
+for the true trajectory.
+
+478
+00:17:59,620 --> 00:18:01,120
+For the true trajectory,
+
+479
+00:18:02,120 --> 00:18:03,800
+the one that actually describes the system,
+
+480
+00:18:04,399 --> 00:18:06,080
+the action is minimized,
+
+481
+00:18:06,200 --> 00:18:06,940
+and for that,
+
+482
+00:18:06,940 --> 00:18:07,860
+all you have to give,
+
+483
+00:18:08,620 --> 00:18:09,020
+again,
+
+484
+00:18:10,439 --> 00:18:11,480
+two end points.
+
+485
+00:18:11,700 --> 00:18:13,180
+How many things do you have to know?
+
+486
+00:18:13,240 --> 00:18:15,160
+You have to know two things for each coordinate,
+
+487
+00:18:15,360 --> 00:18:16,160
+the q and the q dot.
+
+488
+00:18:16,840 --> 00:18:17,240
+Again,
+
+489
+00:18:17,240 --> 00:18:19,320
+you need to know two things for each q.
+
+490
+00:18:19,800 --> 00:18:21,000
+You need to know q
+
+491
+00:18:21,000 --> 00:18:22,200
+at the beginning of the trajectory,
+
+492
+00:18:22,740 --> 00:18:23,880
+and you need to know q
+
+493
+00:18:23,880 --> 00:18:25,020
+at the end of the trajectory.
+
+494
+00:18:26,720 --> 00:18:28,440
+These are two different formulations
+
+495
+00:18:28,440 --> 00:18:29,420
+of the laws of physics,
+
+496
+00:18:30,000 --> 00:18:31,060
+and they are related.
+
+497
+00:18:31,060 --> 00:18:31,900
+In fact,
+
+498
+00:18:31,900 --> 00:18:32,100
+they're not related.
+
+499
+00:18:32,120 --> 00:18:35,620
+They are equivalent to each other
+
+500
+00:18:35,620 --> 00:18:37,180
+if properly formulated.
+
+501
+00:18:37,620 --> 00:18:38,100
+Now,
+
+502
+00:18:38,100 --> 00:18:38,780
+how do you see
+
+503
+00:18:38,780 --> 00:18:40,140
+that a global law,
+
+504
+00:18:40,300 --> 00:18:41,820
+like the principle of least action,
+
+505
+00:18:42,020 --> 00:18:43,860
+is related to a local law?
+
+506
+00:18:44,240 --> 00:18:45,400
+And it's not very hard.
+
+507
+00:18:45,520 --> 00:18:46,960
+You just focus in on a
+
+508
+00:18:46,960 --> 00:18:48,400
+little piece of the trajectory here,
+
+509
+00:18:49,520 --> 00:18:51,500
+focus in on a little piece of the trajectory,
+
+510
+00:18:52,760 --> 00:18:53,480
+and say,
+
+511
+00:18:53,660 --> 00:18:54,100
+alright,
+
+512
+00:18:54,200 --> 00:18:56,780
+if I know the trajectory has gone through this point,
+
+513
+00:18:57,360 --> 00:18:59,640
+and if I know that it's gone through that point,
+
+514
+00:19:00,920 --> 00:19:02,100
+let's suppose I do know this point,
+
+515
+00:19:02,120 --> 00:19:03,220
+and I know that it went through these two points,
+
+516
+00:19:03,920 --> 00:19:05,540
+then the principle of least action
+
+517
+00:19:06,120 --> 00:19:09,040
+tells me that it must go along a trajectory
+
+518
+00:19:09,040 --> 00:19:10,480
+between these two points
+
+519
+00:19:10,480 --> 00:19:12,300
+which minimizes the action
+
+520
+00:19:12,300 --> 00:19:13,620
+between these two points.
+
+521
+00:19:14,700 --> 00:19:15,820
+In other words,
+
+522
+00:19:15,900 --> 00:19:18,360
+if it minimizes the entire action,
+
+523
+00:19:19,080 --> 00:19:20,720
+it must also minimize
+
+524
+00:19:20,720 --> 00:19:22,420
+the action locally
+
+525
+00:19:22,420 --> 00:19:24,320
+between two neighboring points.
+
+526
+00:19:24,780 --> 00:19:26,980
+Because if you chose a trajectory in here,
+
+527
+00:19:28,260 --> 00:19:29,720
+which didn't minimize
+
+528
+00:19:29,720 --> 00:19:31,780
+the action between these two points,
+
+529
+00:19:31,960 --> 00:19:32,100
+then you would have to go along
+
+530
+00:19:32,120 --> 00:19:32,660
+the trajectory of the point.
+
+531
+00:19:32,660 --> 00:19:33,620
+And it also wouldn't minimize
+
+532
+00:19:33,620 --> 00:19:34,780
+the total action.
+
+533
+00:19:36,580 --> 00:19:37,180
+So,
+
+534
+00:19:37,180 --> 00:19:38,500
+there is a relationship
+
+535
+00:19:38,500 --> 00:19:40,420
+between the global laws
+
+536
+00:19:40,420 --> 00:19:41,660
+and the local laws.
+
+537
+00:19:42,220 --> 00:19:43,260
+In particular,
+
+538
+00:19:43,900 --> 00:19:47,000
+if I give you the law of physics
+
+539
+00:19:47,000 --> 00:19:49,400
+in the form of a least action principle,
+
+540
+00:19:50,120 --> 00:19:52,440
+we should be able to derive from it
+
+541
+00:19:52,440 --> 00:19:54,040
+a differential equation
+
+542
+00:19:54,040 --> 00:19:56,560
+which describes an analogous
+
+543
+00:19:56,560 --> 00:19:57,460
+to F equals m8.
+
+544
+00:19:57,640 --> 00:19:58,700
+That's what I want to do now.
+
+545
+00:19:59,520 --> 00:20:00,120
+Alright,
+
+546
+00:20:00,120 --> 00:20:01,240
+there's a few steps involved.
+
+547
+00:20:06,900 --> 00:20:07,380
+I'm going to take a few more steps.
+
+548
+00:20:07,380 --> 00:20:08,280
+And it's probably
+
+549
+00:20:09,240 --> 00:20:10,740
+the hardest definition
+
+550
+00:20:10,740 --> 00:20:11,820
+of derivation
+
+551
+00:20:11,820 --> 00:20:13,080
+that we will have had up until now,
+
+552
+00:20:13,160 --> 00:20:14,040
+but it's not very hard.
+
+553
+00:20:15,120 --> 00:20:15,600
+Alright,
+
+554
+00:20:15,600 --> 00:20:16,560
+what I'm going to do
+
+555
+00:20:16,560 --> 00:20:17,680
+is I'm going to take,
+
+556
+00:20:17,720 --> 00:20:18,740
+let's call Q .
+
+557
+00:20:19,400 --> 00:20:22,000
+Q stands for the actual
+
+558
+00:20:22,000 --> 00:20:23,880
+trajectory that the system really takes.
+
+559
+00:20:24,080 --> 00:20:25,300
+The solution for the problem.
+
+560
+00:20:26,700 --> 00:20:28,580
+And it's not just one Q .
+
+561
+00:20:28,580 --> 00:20:29,540
+It's Q .
+
+562
+00:20:30,020 --> 00:20:31,360
+dot dot dot dot dot
+
+563
+00:20:32,120 --> 00:20:32,600
+up to Q
+
+564
+00:20:32,600 --> 00:20:35,740
+where n represents
+
+565
+00:20:35,740 --> 00:20:37,400
+the total number of coordinates
+
+566
+00:20:37,400 --> 00:20:39,280
+that it takes to describe the system.
+
+567
+00:20:39,480 --> 00:20:41,040
+If it's a system of particles,
+
+568
+00:20:41,380 --> 00:20:44,160
+then n is three times the number of particles.
+
+569
+00:20:45,880 --> 00:20:47,340
+So that's our trajectory.
+
+570
+00:20:47,560 --> 00:20:49,740
+And it's represented by this red line here.
+
+571
+00:20:50,560 --> 00:20:51,160
+Now,
+
+572
+00:20:51,160 --> 00:20:52,080
+let's take,
+
+573
+00:20:52,280 --> 00:20:53,940
+let's change the trajectory
+
+574
+00:20:53,940 --> 00:20:54,640
+a little bit.
+
+575
+00:20:54,640 --> 00:20:56,020
+Deform it a little bit.
+
+576
+00:20:56,380 --> 00:20:57,600
+Move it a little bit
+
+577
+00:20:58,120 --> 00:20:59,480
+by taking each Q
+
+578
+00:20:59,480 --> 00:21:00,020
+and
+
+579
+00:21:02,120 --> 00:21:02,980
+adding to it
+
+580
+00:21:04,460 --> 00:21:05,900
+a number alpha
+
+581
+00:21:05,900 --> 00:21:07,720
+alpha can be any number
+
+582
+00:21:09,060 --> 00:21:10,480
+times a specific
+
+583
+00:21:10,480 --> 00:21:11,960
+f sub i of t.
+
+584
+00:21:12,140 --> 00:21:14,600
+Let's invent a set of functions
+
+585
+00:21:16,800 --> 00:21:18,120
+arbitrary set of functions.
+
+586
+00:21:18,580 --> 00:21:19,640
+Doesn't matter what they are.
+
+587
+00:21:20,140 --> 00:21:22,700
+Let's invent an arbitrary set of functions
+
+588
+00:21:22,700 --> 00:21:23,880
+f sub i of t
+
+589
+00:21:24,800 --> 00:21:25,280
+again,
+
+590
+00:21:25,280 --> 00:21:26,220
+n of them
+
+591
+00:21:27,020 --> 00:21:28,380
+and let's add them
+
+592
+00:21:28,380 --> 00:21:29,580
+to Q sub i of t
+
+593
+00:21:30,120 --> 00:21:31,780
+with a coefficient alpha.
+
+594
+00:21:33,020 --> 00:21:34,360
+We're going to change alpha.
+
+595
+00:21:35,480 --> 00:21:37,280
+But this f sub i of t
+
+596
+00:21:37,280 --> 00:21:37,880
+could be anything.
+
+597
+00:21:38,120 --> 00:21:39,580
+What happens to the trajectory?
+
+598
+00:21:39,800 --> 00:21:39,960
+Oh,
+
+599
+00:21:39,960 --> 00:21:40,760
+in one other point,
+
+600
+00:21:41,580 --> 00:21:42,740
+we're going to require
+
+601
+00:21:43,960 --> 00:21:45,840
+that the trajectory passes
+
+602
+00:21:45,840 --> 00:21:47,520
+through the initial point
+
+603
+00:21:47,520 --> 00:21:48,480
+and the final point.
+
+604
+00:21:50,320 --> 00:21:51,880
+That means that
+
+605
+00:21:51,880 --> 00:21:54,120
+f sub i of t should be zero
+
+606
+00:21:54,120 --> 00:21:55,820
+at the initial point
+
+607
+00:21:55,820 --> 00:21:56,680
+and the final point.
+
+608
+00:21:57,760 --> 00:22:00,180
+So f sub i of t is to vanish
+
+609
+00:22:00,180 --> 00:22:01,380
+at the initial point
+
+610
+00:22:02,120 --> 00:22:02,560
+and the final point.
+
+611
+00:22:06,700 --> 00:22:07,260
+Well,
+
+612
+00:22:07,260 --> 00:22:08,220
+I've erased it
+
+613
+00:22:08,220 --> 00:22:10,420
+but you can get the drift.
+
+614
+00:22:10,740 --> 00:22:12,040
+Something is vanishing
+
+615
+00:22:12,040 --> 00:22:12,840
+at the initial point
+
+616
+00:22:12,840 --> 00:22:13,640
+and the final point.
+
+617
+00:22:14,540 --> 00:22:15,740
+So we can write that
+
+618
+00:22:15,740 --> 00:22:16,580
+f sub i of t
+
+619
+00:22:16,580 --> 00:22:19,480
+f sub i equals zero
+
+620
+00:22:19,480 --> 00:22:23,080
+at t sub i
+
+621
+00:22:23,080 --> 00:22:24,480
+and at t sub i of t.
+
+622
+00:22:28,420 --> 00:22:30,400
+What does the trajectory look like
+
+623
+00:22:30,400 --> 00:22:31,460
+if we shift it
+
+624
+00:22:32,120 --> 00:22:32,260
+a little bit?
+
+625
+00:22:32,700 --> 00:22:33,060
+Well,
+
+626
+00:22:33,060 --> 00:22:33,900
+it will be shifted.
+
+627
+00:22:34,060 --> 00:22:34,700
+That's what will happen.
+
+628
+00:22:34,860 --> 00:22:35,540
+It will be shifted
+
+629
+00:22:37,780 --> 00:22:39,280
+at each point t
+
+630
+00:22:39,700 --> 00:22:41,400
+it will be shifted a little bit
+
+631
+00:22:42,640 --> 00:22:44,340
+by an amount which is proportional
+
+632
+00:22:44,340 --> 00:22:44,980
+to alpha
+
+633
+00:22:46,600 --> 00:22:47,660
+but also proportional
+
+634
+00:22:47,660 --> 00:22:49,780
+to the set of functions f sub i of t.
+
+635
+00:22:50,000 --> 00:22:51,140
+So it's a little bit of a shift
+
+636
+00:22:51,140 --> 00:22:51,860
+of the trajectory.
+
+637
+00:22:52,460 --> 00:22:53,550
+I've drawn it as though it
+
+638
+00:22:53,550 --> 00:22:54,640
+was just a shift to the right.
+
+639
+00:22:54,760 --> 00:22:55,800
+It's not a shift to the right.
+
+640
+00:22:56,320 --> 00:22:58,360
+It's a shift in some more complicated
+
+641
+00:23:02,120 --> 00:23:02,940
+on the f sub i of t
+
+642
+00:23:02,940 --> 00:23:04,410
+each of the f sub
+
+643
+00:23:04,410 --> 00:23:05,880
+i's is shifted a little bit
+
+644
+00:23:05,880 --> 00:23:08,340
+by an amount proportional to alpha.
+
+645
+00:23:08,800 --> 00:23:10,500
+That gives us a new trajectory
+
+646
+00:23:10,500 --> 00:23:12,020
+not a fake trajectory
+
+647
+00:23:12,020 --> 00:23:14,540
+but a trajectory which is not a solution
+
+648
+00:23:14,540 --> 00:23:15,360
+of the equations.
+
+649
+00:23:17,400 --> 00:23:19,440
+Let's calculate the action
+
+650
+00:23:21,100 --> 00:23:22,420
+of the original
+
+651
+00:23:22,420 --> 00:23:23,300
+true trajectory
+
+652
+00:23:29,200 --> 00:23:30,600
+and let's call it
+
+653
+00:23:32,340 --> 00:23:37,000
+a of the q's.
+
+654
+00:23:38,220 --> 00:23:38,780
+a of the q's.
+
+655
+00:23:38,880 --> 00:23:40,000
+When I shift
+
+656
+00:23:40,900 --> 00:23:42,340
+the q's a little bit
+
+657
+00:23:43,380 --> 00:23:45,740
+a becomes a function of alpha.
+
+658
+00:23:46,640 --> 00:23:47,200
+a becomes a function of alpha.
+
+659
+00:23:47,200 --> 00:23:47,260
+a becomes a function of alpha.
+
+660
+00:23:47,980 --> 00:23:50,200
+Because the new trajectory depends on alpha
+
+661
+00:23:50,200 --> 00:23:52,600
+and in general whatever the action is
+
+662
+00:23:52,600 --> 00:23:54,580
+it will depend on the trajectory
+
+663
+00:23:55,160 --> 00:23:58,040
+so a becomes a function of alpha
+
+664
+00:23:58,040 --> 00:23:58,280
+so a becomes a function of alpha
+
+665
+00:23:58,280 --> 00:23:59,880
+let's forget the fact that it's a function of q
+
+666
+00:23:59,880 --> 00:24:01,600
+it becomes a function of alpha.
+
+667
+00:24:06,360 --> 00:24:07,680
+For a given problem
+
+668
+00:24:07,680 --> 00:24:08,140
+For a given problem
+
+669
+00:24:08,140 --> 00:24:09,080
+For a given problem
+
+670
+00:24:09,080 --> 00:24:10,100
+with a given true trajectory
+
+671
+00:24:10,100 --> 00:24:12,540
+and a given set of f sub i's
+
+672
+00:24:13,020 --> 00:24:14,880
+a is just a function of alpha.
+
+673
+00:24:15,040 --> 00:24:15,260
+a is just a function of alpha.
+
+674
+00:24:15,260 --> 00:24:16,470
+It's a function of the
+
+675
+00:24:16,470 --> 00:24:17,680
+amount that you shifted the trajectory.
+
+676
+00:24:18,100 --> 00:24:19,540
+The amount can be positive
+
+677
+00:24:19,540 --> 00:24:20,400
+it can be negative
+
+678
+00:24:20,400 --> 00:24:23,500
+if a positive shift of alpha
+
+679
+00:24:23,500 --> 00:24:25,080
+shifts the trajectory to the right
+
+680
+00:24:25,080 --> 00:24:27,040
+then a negative shift of alpha
+
+681
+00:24:27,040 --> 00:24:28,960
+shifts the trajectory to the left.
+
+682
+00:24:30,580 --> 00:24:31,960
+Well let's suppose we know
+
+683
+00:24:32,120 --> 00:24:32,640
+that the action
+
+684
+00:24:32,640 --> 00:24:35,600
+is minimized for the true trajectory
+
+685
+00:24:35,900 --> 00:24:38,760
+the true trajectory corresponds to alpha equals zero
+
+686
+00:24:39,380 --> 00:24:40,520
+the true trajectory corresponds to alpha equals zero
+
+687
+00:24:40,520 --> 00:24:41,420
+That's unshifted.
+
+688
+00:24:41,420 --> 00:24:42,600
+Completely unshifted.
+
+689
+00:24:42,660 --> 00:24:44,580
+The true trajectory is alpha equals zero
+
+690
+00:24:44,580 --> 00:24:46,920
+It says that a of alpha
+
+691
+00:24:46,920 --> 00:24:50,180
+is minimized at alpha equals zero
+
+692
+00:24:50,180 --> 00:24:52,480
+That's what the principle of least action says
+
+693
+00:24:52,480 --> 00:24:53,620
+In fact it says it
+
+694
+00:24:53,620 --> 00:24:56,440
+for every possible collection of functions f i
+
+695
+00:24:56,440 --> 00:24:58,360
+No matter how you deform
+
+696
+00:24:58,360 --> 00:24:59,060
+the trajectory
+
+697
+00:24:59,700 --> 00:25:01,960
+If the true trajectory is the minimum
+
+698
+00:25:02,120 --> 00:25:02,680
+of the action
+
+699
+00:25:02,680 --> 00:25:05,560
+it says that for any f's
+
+700
+00:25:06,120 --> 00:25:08,140
+a of alpha will be minimized
+
+701
+00:25:08,140 --> 00:25:09,460
+when alpha is equal to zero
+
+702
+00:25:10,320 --> 00:25:11,960
+That says in turn
+
+703
+00:25:11,960 --> 00:25:13,940
+that the derivative of a
+
+704
+00:25:13,940 --> 00:25:15,260
+with respect to alpha
+
+705
+00:25:16,200 --> 00:25:17,780
+is equal to zero
+
+706
+00:25:17,780 --> 00:25:19,600
+when alpha is equal to zero
+
+707
+00:25:20,620 --> 00:25:21,960
+when alpha is equal to zero
+
+708
+00:25:21,960 --> 00:25:28,380
+It says any change in the trajectory
+
+709
+00:25:28,380 --> 00:25:29,960
+parameterized by an alpha
+
+710
+00:25:30,620 --> 00:25:31,960
+increases the action
+
+711
+00:25:32,740 --> 00:25:33,540
+and so
+
+712
+00:25:33,540 --> 00:25:35,280
+that tells us
+
+713
+00:25:35,920 --> 00:25:37,340
+that a is stationary
+
+714
+00:25:38,640 --> 00:25:40,000
+at alpha equals zero
+
+715
+00:25:40,000 --> 00:25:41,760
+Now if that's not clear
+
+716
+00:25:41,760 --> 00:25:43,860
+it's not me and I'll explain
+
+717
+00:25:43,860 --> 00:25:44,500
+a little more
+
+718
+00:25:44,500 --> 00:25:46,960
+but this is one of the central
+
+719
+00:25:48,020 --> 00:25:49,360
+Is there a
+
+720
+00:25:50,040 --> 00:25:51,440
+separate definition for the action
+
+721
+00:25:51,440 --> 00:25:53,960
+I thought I talked about it
+
+722
+00:25:53,960 --> 00:25:54,680
+a little bit last time
+
+723
+00:25:54,680 --> 00:25:55,720
+but I'm going to come back to it now
+
+724
+00:25:57,000 --> 00:25:58,740
+So let's now talk about
+
+725
+00:26:00,300 --> 00:26:02,000
+So far all I've said is
+
+726
+00:26:02,120 --> 00:26:03,760
+suppose there's a thing
+
+727
+00:26:03,760 --> 00:26:04,980
+called the action
+
+728
+00:26:04,980 --> 00:26:07,280
+which is minimized for the true trajectory
+
+729
+00:26:07,940 --> 00:26:10,180
+Now what is this thing that we call action
+
+730
+00:26:10,180 --> 00:26:12,200
+It must somehow be connected
+
+731
+00:26:12,200 --> 00:26:13,960
+to Newton's equations
+
+732
+00:26:13,960 --> 00:26:15,200
+because after all
+
+733
+00:26:15,200 --> 00:26:16,500
+its content is supposed to
+
+734
+00:26:16,500 --> 00:26:17,800
+be the same as Newton's equations
+
+735
+00:26:17,800 --> 00:26:19,220
+Well I'll tell you what it is right now
+
+736
+00:26:19,930 --> 00:26:22,540
+The action is an integral along the trajectory
+
+737
+00:26:22,540 --> 00:26:23,980
+an integral dt
+
+738
+00:26:25,120 --> 00:26:26,160
+from t1
+
+739
+00:26:26,160 --> 00:26:28,060
+from the starting point t1
+
+740
+00:26:28,060 --> 00:26:30,060
+to the end point t2
+
+741
+00:26:30,060 --> 00:26:30,560
+and
+
+742
+00:26:32,840 --> 00:26:33,420
+of
+
+743
+00:26:33,420 --> 00:26:35,480
+a thing that's called
+
+744
+00:26:35,950 --> 00:26:36,240
+L
+
+745
+00:26:37,280 --> 00:26:39,400
+L stands for Lagrangian
+
+746
+00:26:40,660 --> 00:26:41,240
+Lagrangian
+
+747
+00:26:41,240 --> 00:26:43,300
+was named for Lagrange
+
+748
+00:26:44,500 --> 00:26:46,300
+Lagrange was of course a Frenchman
+
+749
+00:26:46,300 --> 00:26:47,860
+I think
+
+750
+00:26:48,860 --> 00:26:50,180
+Must have been a Frenchman
+
+751
+00:26:50,180 --> 00:26:51,200
+Lagrange
+
+752
+00:26:51,200 --> 00:26:53,200
+He was Italian
+
+753
+00:26:53,200 --> 00:26:54,100
+He was Italian,
+
+754
+00:26:54,100 --> 00:26:54,620
+okay
+
+755
+00:26:56,040 --> 00:26:56,620
+Ah,
+
+756
+00:26:56,620 --> 00:26:57,620
+no no no
+
+757
+00:26:57,620 --> 00:26:58,220
+He was Armenian,
+
+758
+00:26:58,220 --> 00:26:59,900
+that's why they called him Lagrangian
+
+759
+00:27:05,879 --> 00:27:07,140
+Was he really Italian?
+
+760
+00:27:07,460 --> 00:27:07,820
+Yes
+
+761
+00:27:07,820 --> 00:27:08,140
+Oh,
+
+762
+00:27:08,140 --> 00:27:08,440
+okay
+
+763
+00:27:09,580 --> 00:27:11,020
+He was actually in Washington
+
+764
+00:27:11,020 --> 00:27:12,440
+He was a Frenchman
+
+765
+00:27:14,000 --> 00:27:17,460
+The French claim him and the Italians claim him
+
+766
+00:27:17,460 --> 00:27:17,680
+Oh,
+
+767
+00:27:17,680 --> 00:27:17,880
+okay
+
+768
+00:27:19,500 --> 00:27:20,720
+So he was like Napoleon
+
+769
+00:27:20,720 --> 00:27:23,540
+Like Napoleon
+
+770
+00:27:25,780 --> 00:27:27,300
+Well he was Corsican
+
+771
+00:27:27,300 --> 00:27:28,200
+But Columbus
+
+772
+00:27:28,200 --> 00:27:29,340
+But Columbus,
+
+773
+00:27:29,340 --> 00:27:29,540
+yeah
+
+774
+00:27:30,120 --> 00:27:30,600
+No,
+
+775
+00:27:30,600 --> 00:27:30,800
+no,
+
+776
+00:27:30,800 --> 00:27:30,960
+no,
+
+777
+00:27:30,960 --> 00:27:31,080
+no,
+
+778
+00:27:31,080 --> 00:27:31,300
+nobody
+
+779
+00:27:32,120 --> 00:27:33,740
+ever said Columbus was French
+
+780
+00:27:33,740 --> 00:27:34,500
+Laughter
+
+781
+00:27:35,940 --> 00:27:36,420
+Laughter
+
+782
+00:27:36,420 --> 00:27:37,200
+Laughter
+
+783
+00:27:40,740 --> 00:27:42,020
+L for Lagrangian
+
+784
+00:27:42,020 --> 00:27:43,700
+What does the Lagrangian depend on?
+
+785
+00:27:43,760 --> 00:27:45,840
+It depends on the things that determine the trajectory
+
+786
+00:27:46,600 --> 00:27:47,940
+It depends on
+
+787
+00:27:47,940 --> 00:27:48,860
+Q of t,
+
+788
+00:27:48,860 --> 00:27:50,040
+all of them
+
+789
+00:27:50,040 --> 00:27:51,340
+Q sub i of t
+
+790
+00:27:53,040 --> 00:27:53,940
+Let's just call it
+
+791
+00:27:53,940 --> 00:27:54,480
+Q of t,
+
+792
+00:27:54,480 --> 00:27:56,160
+which means all of the Q's of t
+
+793
+00:27:56,160 --> 00:27:58,080
+but also the velocities
+
+794
+00:27:58,080 --> 00:27:59,980
+The position at every time
+
+795
+00:27:59,980 --> 00:28:01,620
+and the velocity at every time
+
+796
+00:28:02,120 --> 00:28:02,320
+Q dot
+
+797
+00:28:02,320 --> 00:28:04,640
+of t
+
+798
+00:28:07,820 --> 00:28:08,960
+So here this
+
+799
+00:28:11,139 --> 00:28:13,349
+I haven't told you what the
+
+800
+00:28:13,349 --> 00:28:15,560
+Lagrangian is in specific terms yet
+
+801
+00:28:15,560 --> 00:28:16,180
+Have I?
+
+802
+00:28:16,560 --> 00:28:18,000
+I actually have
+
+803
+00:28:18,000 --> 00:28:18,860
+for the last time
+
+804
+00:28:20,379 --> 00:28:21,780
+I'll just remind you
+
+805
+00:28:21,780 --> 00:28:24,200
+It is equal to the
+
+806
+00:28:24,200 --> 00:28:26,620
+kinetic energy minus the potential energy
+
+807
+00:28:26,620 --> 00:28:30,240
+The kinetic energy typically is a function of velocities
+
+808
+00:28:30,240 --> 00:28:32,100
+The potential energy is the velocity
+
+809
+00:28:32,120 --> 00:28:33,500
+The velocity is usually a function of positions
+
+810
+00:28:34,120 --> 00:28:36,120
+So L will be equal to this
+
+811
+00:28:36,120 --> 00:28:36,920
+But we'll check that
+
+812
+00:28:36,920 --> 00:28:39,220
+For the moment
+
+813
+00:28:39,220 --> 00:28:40,960
+L could be any function
+
+814
+00:28:42,100 --> 00:28:44,140
+of position and velocity
+
+815
+00:28:44,140 --> 00:28:45,820
+And the action
+
+816
+00:28:45,820 --> 00:28:47,180
+is the integral
+
+817
+00:28:48,400 --> 00:28:49,360
+In other words
+
+818
+00:28:49,360 --> 00:28:51,340
+It's the sum all along the trajectory
+
+819
+00:28:51,900 --> 00:28:53,620
+of little incremental actions
+
+820
+00:28:53,620 --> 00:28:55,280
+from one point to the next
+
+821
+00:28:55,960 --> 00:28:57,260
+Little incremental actions
+
+822
+00:28:57,260 --> 00:28:59,440
+which depend on the position and velocity
+
+823
+00:28:59,440 --> 00:29:00,240
+along here,
+
+824
+00:29:00,240 --> 00:29:01,320
+along here
+
+825
+00:29:02,120 --> 00:29:02,860
+and so forth
+
+826
+00:29:02,860 --> 00:29:03,740
+You add them all up
+
+827
+00:29:03,740 --> 00:29:05,400
+And that's the total action
+
+828
+00:29:06,399 --> 00:29:07,360
+By definition
+
+829
+00:29:09,320 --> 00:29:10,970
+So far I'm not even going to
+
+830
+00:29:10,970 --> 00:29:12,620
+use the fact that it's t minus u
+
+831
+00:29:12,620 --> 00:29:14,250
+I'm just going to leave it to
+
+832
+00:29:14,250 --> 00:29:15,880
+be any function of Q and Q dot
+
+833
+00:29:17,860 --> 00:29:19,040
+The question is
+
+834
+00:29:19,040 --> 00:29:20,660
+How do we find the trajectory
+
+835
+00:29:20,660 --> 00:29:22,880
+which minimizes this action
+
+836
+00:29:22,880 --> 00:29:25,920
+This is a problem in the calculus of variations
+
+837
+00:29:26,820 --> 00:29:29,460
+It's a problem that's called the calculus of variations
+
+838
+00:29:29,460 --> 00:29:30,580
+Why is it called var...
+
+839
+00:29:32,120 --> 00:29:33,880
+What's being varied is the trajectory
+
+840
+00:29:33,880 --> 00:29:35,920
+We change the trajectory a little bit
+
+841
+00:29:35,920 --> 00:29:38,340
+And we require that the true trajectory
+
+842
+00:29:38,340 --> 00:29:41,040
+is the one which gives us the least action
+
+843
+00:29:42,060 --> 00:29:42,580
+Alright,
+
+844
+00:29:42,580 --> 00:29:43,500
+so this is the action
+
+845
+00:29:44,300 --> 00:29:46,360
+And of course it does depend on alpha
+
+846
+00:29:46,360 --> 00:29:47,720
+because Q depends on alpha
+
+847
+00:29:47,720 --> 00:29:48,180
+In fact,
+
+848
+00:29:48,180 --> 00:29:50,120
+let's calculate
+
+849
+00:29:50,120 --> 00:29:53,120
+Let's write out one or two equations over here first
+
+850
+00:29:53,780 --> 00:29:54,880
+What's the derivative
+
+851
+00:29:59,880 --> 00:30:01,000
+Let's write it this way
+
+852
+00:30:02,620 --> 00:30:03,100
+Alpha f of t
+
+853
+00:30:03,100 --> 00:30:03,580
+is equal
+
+854
+00:30:04,139 --> 00:30:06,600
+Now let me put a little symbol over this
+
+855
+00:30:06,600 --> 00:30:07,340
+A little hat
+
+856
+00:30:08,180 --> 00:30:11,000
+This indicates that this is the true solution
+
+857
+00:30:11,000 --> 00:30:12,300
+to the mathematical problem
+
+858
+00:30:12,300 --> 00:30:13,920
+of finding the correct trajectory
+
+859
+00:30:13,920 --> 00:30:16,440
+So let's call one of these trajectories
+
+860
+00:30:16,440 --> 00:30:17,580
+Q with a little hat
+
+861
+00:30:17,580 --> 00:30:20,160
+I just put the little hat on it to indicate
+
+862
+00:30:20,820 --> 00:30:22,800
+that it is the true trajectory
+
+863
+00:30:23,500 --> 00:30:26,180
+The hat indicates we've solved the problem
+
+864
+00:30:26,660 --> 00:30:29,020
+Then we add a little bit to the true trajectory
+
+865
+00:30:29,020 --> 00:30:30,440
+alpha f of t
+
+866
+00:30:30,440 --> 00:30:32,100
+And that gives us something like this
+
+867
+00:30:32,120 --> 00:30:33,060
+Something that I'll call Q
+
+868
+00:30:33,860 --> 00:30:35,360
+without a hat on top of it
+
+869
+00:30:36,040 --> 00:30:37,330
+We could even think of
+
+870
+00:30:37,330 --> 00:30:38,620
+Q as a function of alpha
+
+871
+00:30:38,620 --> 00:30:39,860
+It is a function of alpha
+
+872
+00:30:41,760 --> 00:30:43,620
+Q at any instant of time
+
+873
+00:30:43,620 --> 00:30:45,200
+is a function of alpha
+
+874
+00:30:45,900 --> 00:30:46,980
+because it depends on alpha
+
+875
+00:30:46,980 --> 00:30:49,440
+Now what's the derivative of
+
+876
+00:30:50,040 --> 00:30:50,520
+Q
+
+877
+00:30:52,020 --> 00:30:54,100
+sub i with respect to alpha
+
+878
+00:30:55,500 --> 00:30:56,880
+It's just an ordinary derivative
+
+879
+00:30:56,880 --> 00:30:58,360
+I don't need to write partial derivative
+
+880
+00:30:59,020 --> 00:31:01,100
+The derivative of Q sub i
+
+881
+00:31:02,120 --> 00:31:02,600
+with respect to alpha
+
+882
+00:31:04,400 --> 00:31:05,640
+Well we just look at this
+
+883
+00:31:05,640 --> 00:31:07,420
+This doesn't depend on alpha
+
+884
+00:31:07,420 --> 00:31:09,060
+This does depend on alpha
+
+885
+00:31:09,820 --> 00:31:11,580
+So the derivative of Q sub i
+
+886
+00:31:11,580 --> 00:31:12,460
+with respect to alpha
+
+887
+00:31:12,460 --> 00:31:13,920
+is just f sub i of t
+
+888
+00:31:19,340 --> 00:31:21,620
+The change in Q when you change alpha
+
+889
+00:31:22,139 --> 00:31:23,460
+is just f i of t
+
+890
+00:31:25,080 --> 00:31:26,460
+What about the change
+
+891
+00:31:28,060 --> 00:31:29,080
+in the velocity
+
+892
+00:31:29,080 --> 00:31:30,300
+in the velocity
+
+893
+00:31:30,300 --> 00:31:30,460
+in the velocity
+
+894
+00:31:36,300 --> 00:31:38,360
+How does the velocity change
+
+895
+00:31:38,360 --> 00:31:40,380
+when you change alpha a little bit
+
+896
+00:31:41,160 --> 00:31:43,500
+Well the change in the velocity
+
+897
+00:31:43,500 --> 00:31:44,760
+the change in Q dot
+
+898
+00:31:44,760 --> 00:31:46,300
+if you shift alpha
+
+899
+00:31:46,300 --> 00:31:47,440
+is just f dot
+
+900
+00:31:49,060 --> 00:31:50,620
+You can write down here
+
+901
+00:31:50,620 --> 00:31:51,340
+Q dot
+
+902
+00:31:53,180 --> 00:31:55,520
+is equal to Q hat dot
+
+903
+00:31:56,820 --> 00:31:59,220
+plus alpha f dot
+
+904
+00:31:59,940 --> 00:32:01,500
+I'm assuming incidentally
+
+905
+00:32:01,500 --> 00:32:02,100
+that alpha is just f dot
+
+906
+00:32:02,120 --> 00:32:02,700
+So alpha is just a number
+
+907
+00:32:03,879 --> 00:32:04,720
+It's just a number
+
+908
+00:32:04,720 --> 00:32:05,980
+It doesn't depend on time
+
+909
+00:32:05,980 --> 00:32:07,780
+It's just a fixed number
+
+910
+00:32:09,020 --> 00:32:10,380
+Fix it once and for all
+
+911
+00:32:11,060 --> 00:32:12,360
+And then we're going to study
+
+912
+00:32:12,360 --> 00:32:14,260
+the answer as a function of that number
+
+913
+00:32:16,000 --> 00:32:16,440
+The
+
+914
+00:32:18,679 --> 00:32:19,120
+The
+
+915
+00:32:21,379 --> 00:32:22,980
+The change in Q dot
+
+916
+00:32:23,820 --> 00:32:25,040
+when we change alpha
+
+917
+00:32:25,040 --> 00:32:26,380
+is just f dot
+
+918
+00:32:29,220 --> 00:32:30,560
+Alright so the change in Q
+
+919
+00:32:30,560 --> 00:32:31,440
+with respect to alpha
+
+920
+00:32:32,120 --> 00:32:33,520
+and the change in Q dot
+
+921
+00:32:33,520 --> 00:32:34,760
+with respect to alpha
+
+922
+00:32:34,760 --> 00:32:35,580
+is just f dot
+
+923
+00:32:37,980 --> 00:32:39,200
+Let's find out now
+
+924
+00:32:39,200 --> 00:32:40,740
+how much the action changes
+
+925
+00:32:41,260 --> 00:32:43,180
+How much does the action change
+
+926
+00:32:43,740 --> 00:32:45,840
+when you vary alpha a little bit
+
+927
+00:32:45,840 --> 00:32:47,780
+Let's just differentiate it
+
+928
+00:32:47,780 --> 00:32:49,260
+dA by d alpha
+
+929
+00:32:52,000 --> 00:32:53,860
+Keep in mind what an integral means
+
+930
+00:32:53,860 --> 00:32:55,360
+It just means a sum of terms
+
+931
+00:32:56,320 --> 00:32:57,400
+It just stands for
+
+932
+00:32:57,400 --> 00:32:58,580
+a sum along the trajectory
+
+933
+00:32:59,260 --> 00:33:01,000
+So integral dT
+
+934
+00:33:04,139 --> 00:33:05,320
+tI
+
+935
+00:33:05,320 --> 00:33:05,740
+T
+
+936
+00:33:05,740 --> 00:33:06,460
+dI
+
+937
+00:33:06,460 --> 00:33:06,520
+tI
+
+938
+00:33:06,520 --> 00:33:09,640
+So Where's the estimate?
+
+939
+00:33:10,980 --> 00:33:12,200
+It's not underneath the little radical
+
+940
+00:33:12,200 --> 00:33:12,380
+screw
+
+941
+00:33:12,380 --> 00:33:12,980
+Almost $7
+
+942
+00:33:12,980 --> 00:33:23,760
+You change the arrangeyi
+
+943
+00:33:32,240 --> 00:33:33,610
+times the change in q
+
+944
+00:33:33,610 --> 00:33:34,980
+sub i when you change alpha.
+
+945
+00:33:36,040 --> 00:33:38,320
+So that's f sub i of t.
+
+946
+00:33:40,880 --> 00:33:42,790
+This is the change in the Lagrangian
+
+947
+00:33:42,790 --> 00:33:44,700
+due to a small change in q
+
+948
+00:33:45,440 --> 00:33:48,640
+times the change in q when you change alpha.
+
+949
+00:33:49,500 --> 00:33:51,040
+But that's not all there is to it.
+
+950
+00:33:51,140 --> 00:33:52,960
+L also depends on q dot.
+
+951
+00:33:54,560 --> 00:33:56,890
+So we have to add to it the
+
+952
+00:33:56,890 --> 00:33:59,220
+change in the Lagrangian when q dot changes
+
+953
+00:34:01,139 --> 00:34:02,820
+times the change in q dot,
+
+954
+00:34:02,820 --> 00:34:04,500
+which is f dot of t.
+
+955
+00:34:08,280 --> 00:34:11,120
+This is the change in the action
+
+956
+00:34:11,120 --> 00:34:13,960
+when you change alpha a little bit.
+
+957
+00:34:14,199 --> 00:34:15,900
+Do you want to sum over i there?
+
+958
+00:34:16,120 --> 00:34:16,340
+Yeah,
+
+959
+00:34:16,340 --> 00:34:17,460
+you want to sum over i.
+
+960
+00:34:19,520 --> 00:34:20,159
+Thank you.
+
+961
+00:34:26,659 --> 00:34:29,199
+All I've used is that the change in an object...
+
+962
+00:34:29,219 --> 00:34:31,099
+is equal to the change
+
+963
+00:34:31,099 --> 00:34:32,980
+in each one of its arguments
+
+964
+00:34:32,980 --> 00:34:34,860
+times the change in the argument.
+
+965
+00:34:36,139 --> 00:34:38,800
+Sum over all of the arguments.
+
+966
+00:34:40,920 --> 00:34:44,100
+Arguments meaning the sense of the independent variables.
+
+967
+00:34:45,800 --> 00:34:48,020
+So that's a little exercise.
+
+968
+00:34:49,560 --> 00:34:51,260
+This you should be able to...
+
+969
+00:34:52,739 --> 00:34:54,060
+Looks a little bit complicated,
+
+970
+00:34:54,060 --> 00:34:55,719
+but it's actually not very complicated.
+
+971
+00:34:55,920 --> 00:34:58,780
+We just differentiated each one of the things inside L.
+
+972
+00:34:59,220 --> 00:35:02,020
+And multiplied by the amount that that thing changes.
+
+973
+00:35:03,500 --> 00:35:04,020
+Okay,
+
+974
+00:35:04,020 --> 00:35:04,380
+now,
+
+975
+00:35:04,380 --> 00:35:06,270
+here we have a term that
+
+976
+00:35:06,270 --> 00:35:08,160
+has an f of t in it.
+
+977
+00:35:08,800 --> 00:35:09,320
+Remember,
+
+978
+00:35:09,320 --> 00:35:11,400
+f of t could be any function at all
+
+979
+00:35:12,100 --> 00:35:16,160
+with one restriction that advantages at the endpoints.
+
+980
+00:35:17,340 --> 00:35:17,860
+Remember,
+
+981
+00:35:17,860 --> 00:35:19,680
+we're not allowed to move the endpoints.
+
+982
+00:35:19,780 --> 00:35:21,260
+The endpoints are nailed in place.
+
+983
+00:35:23,500 --> 00:35:26,080
+But here we have f dot.
+
+984
+00:35:26,640 --> 00:35:29,200
+I really would much prefer to have f there.
+
+985
+00:35:29,220 --> 00:35:31,280
+Then I would have both of
+
+986
+00:35:31,280 --> 00:35:33,340
+these terms multiplying an arbitrary function.
+
+987
+00:35:35,260 --> 00:35:37,460
+What's the trick to turn this into f?
+
+988
+00:35:41,040 --> 00:35:42,260
+Integration by parts.
+
+989
+00:35:45,480 --> 00:35:48,340
+You can take the one
+
+990
+00:35:48,340 --> 00:35:51,200
+which is differentiated and undifferentiated.
+
+991
+00:35:51,580 --> 00:35:53,690
+If you take the one
+
+992
+00:35:53,690 --> 00:35:55,800
+which is undifferentiated and differentiate it.
+
+993
+00:35:56,440 --> 00:35:57,180
+All right?
+
+994
+00:35:57,260 --> 00:35:59,200
+But you also have to change it.
+
+995
+00:35:59,220 --> 00:35:59,660
+You have to change the sign.
+
+996
+00:36:01,500 --> 00:36:01,900
+So,
+
+997
+00:36:01,900 --> 00:36:03,240
+let's just work on this.
+
+998
+00:36:03,320 --> 00:36:04,640
+I won't bother rewriting it.
+
+999
+00:36:04,760 --> 00:36:05,660
+Let's just work on it.
+
+1000
+00:36:06,040 --> 00:36:08,560
+We're going to undifferentiate this f
+
+1001
+00:36:09,020 --> 00:36:12,060
+at the cost of differentiating this whole thing here.
+
+1002
+00:36:12,680 --> 00:36:13,700
+I think I'd better...
+
+1003
+00:36:13,700 --> 00:36:15,820
+I think I'd be best off to rewrite it.
+
+1004
+00:36:16,600 --> 00:36:17,000
+Okay.
+
+1005
+00:36:17,580 --> 00:36:17,980
+Hmm?
+
+1006
+00:36:19,140 --> 00:36:19,540
+Yes?
+
+1007
+00:36:25,420 --> 00:36:26,040
+I'm going to.
+
+1008
+00:36:26,400 --> 00:36:27,080
+What is g?
+
+1009
+00:36:27,180 --> 00:36:27,560
+First of all,
+
+1010
+00:36:27,560 --> 00:36:28,480
+what is g and what is f?
+
+1011
+00:36:29,220 --> 00:36:29,940
+f is just f.
+
+1012
+00:36:30,980 --> 00:36:33,140
+But g is dl by dq dot.
+
+1013
+00:36:33,280 --> 00:36:34,860
+I'm not fiddling around with this term.
+
+1014
+00:36:35,020 --> 00:36:36,600
+I'm only fiddling with this term here.
+
+1015
+00:36:37,180 --> 00:36:38,260
+And for this term,
+
+1016
+00:36:38,260 --> 00:36:41,260
+dl by dq dot plays the role of g.
+
+1017
+00:36:42,560 --> 00:36:44,380
+We have f dot times g.
+
+1018
+00:36:45,580 --> 00:36:46,020
+Okay?
+
+1019
+00:36:46,060 --> 00:36:46,220
+So,
+
+1020
+00:36:46,220 --> 00:36:48,000
+let's put a red circle around
+
+1021
+00:36:48,000 --> 00:36:49,780
+the thing that I'm identifying as g.
+
+1022
+00:36:50,380 --> 00:36:52,420
+And a red circle around g over here.
+
+1023
+00:36:54,140 --> 00:36:54,580
+Okay?
+
+1024
+00:36:54,680 --> 00:36:54,880
+So,
+
+1025
+00:36:54,880 --> 00:36:55,640
+what do I get then?
+
+1026
+00:36:56,520 --> 00:36:57,760
+For the second term.
+
+1027
+00:36:58,100 --> 00:36:59,060
+The second term.
+
+1028
+00:36:59,220 --> 00:37:01,880
+The second term becomes minus
+
+1029
+00:37:01,880 --> 00:37:04,540
+integral dt from t1 to t2.
+
+1030
+00:37:05,020 --> 00:37:05,660
+dt.
+
+1031
+00:37:06,660 --> 00:37:10,640
+And now f times g dot.
+
+1032
+00:37:11,600 --> 00:37:12,760
+That means...
+
+1033
+00:37:12,760 --> 00:37:14,060
+Dot means d by dt.
+
+1034
+00:37:14,500 --> 00:37:17,210
+d by dt of the derivative
+
+1035
+00:37:17,210 --> 00:37:19,920
+of l with respect to q dot.
+
+1036
+00:37:20,040 --> 00:37:21,340
+A rather complicated looking thing.
+
+1037
+00:37:21,440 --> 00:37:22,140
+d by dt.
+
+1038
+00:37:26,900 --> 00:37:29,120
+Of the derivative of a logarithm.
+
+1039
+00:37:29,220 --> 00:37:29,560
+Wasn't.
+
+1040
+00:37:38,540 --> 00:37:39,240
+Dじゃ.
+
+1041
+00:37:39,240 --> 00:37:44,920
+Of the derivative in g by dt,
+
+1042
+00:37:44,920 --> 00:37:45,920
+that is.
+
+1043
+00:37:46,520 --> 00:37:47,220
+Dot over sul.
+
+1044
+00:37:47,220 --> 00:37:50,480
+And we get our reflection.
+
+1045
+00:37:50,640 --> 00:37:51,360
+It goes through Weミ.
+
+1046
+00:37:51,360 --> 00:37:51,360
+equation ofированness.
+
+1047
+00:37:51,360 --> 00:37:51,500
+I don't
+
+1048
+00:37:51,500 --> 00:37:53,520
+know very much of these guys,
+
+1049
+00:37:53,520 --> 00:37:53,520
+so that's
+
+1050
+00:37:53,520 --> 00:37:53,540
+a화�zm.
+
+1051
+00:37:53,540 --> 00:37:54,540
+But,
+
+1052
+00:37:54,540 --> 00:37:54,820
+in
+
+1053
+00:37:54,820 --> 00:37:55,040
+And what that's
+
+1054
+00:37:55,040 --> 00:37:55,380
+a Entry into different,
+
+1055
+00:37:55,380 --> 00:37:55,600
+relationship to going from
+
+1056
+00:37:55,600 --> 00:37:58,240
+d to q in first dates is going from
+
+1057
+00:37:58,240 --> 00:37:59,330
+and the term coming from
+
+1058
+00:37:59,330 --> 00:38:00,420
+variant Q dot a little bit,
+
+1059
+00:38:02,020 --> 00:38:05,380
+as integrals with the arbitrary function f.
+
+1060
+00:38:05,620 --> 00:38:07,180
+Let's write the whole thing down now.
+
+1061
+00:38:09,800 --> 00:38:11,740
+This one came in with a minus sign.
+
+1062
+00:38:14,200 --> 00:38:15,100
+It's this term.
+
+1063
+00:38:15,680 --> 00:38:18,920
+And the first term was just dl by dq.
+
+1064
+00:38:24,940 --> 00:38:25,880
+f sub i.
+
+1065
+00:38:30,340 --> 00:38:30,840
+Well,
+
+1066
+00:38:30,840 --> 00:38:36,040
+this is a little integral dt.
+
+1067
+00:38:38,500 --> 00:38:40,400
+Whole thing gets integrated here.
+
+1068
+00:38:43,540 --> 00:38:44,040
+Again,
+
+1069
+00:38:44,040 --> 00:38:45,460
+I'll just remind you what it is.
+
+1070
+00:38:45,740 --> 00:38:48,060
+This is a term that the action
+
+1071
+00:38:48,060 --> 00:38:50,380
+changed because we changed Q a little bit.
+
+1072
+00:38:50,660 --> 00:38:52,490
+This is the change in the action
+
+1073
+00:38:52,490 --> 00:38:54,320
+because we changed Q dot a little bit.
+
+1074
+00:38:55,620 --> 00:38:57,260
+What are the terms?
+
+1075
+00:38:57,560 --> 00:38:58,220
+What are the terms?
+
+1076
+00:38:58,240 --> 00:38:59,930
+What about the contribution from
+
+1077
+00:38:59,930 --> 00:39:01,620
+the endpoints of the integral?
+
+1078
+00:39:02,460 --> 00:39:03,060
+Remember,
+
+1079
+00:39:03,060 --> 00:39:04,080
+there was another term,
+
+1080
+00:39:04,080 --> 00:39:08,580
+which was f times g at the endpoints.
+
+1081
+00:39:14,360 --> 00:39:15,420
+They all vanish.
+
+1082
+00:39:15,700 --> 00:39:16,440
+Why do they vanish?
+
+1083
+00:39:18,260 --> 00:39:20,080
+Up there at the top,
+
+1084
+00:39:20,080 --> 00:39:23,740
+you stipulated that you want those guys to...
+
+1085
+00:39:23,740 --> 00:39:25,800
+We stipulated that the trajectory passed
+
+1086
+00:39:25,800 --> 00:39:27,860
+through the initial and final point.
+
+1087
+00:39:28,240 --> 00:39:29,340
+So that's why we've got the two more points.
+
+1088
+00:39:29,340 --> 00:39:30,440
+So that said that f
+
+1089
+00:39:30,440 --> 00:39:31,540
+should be zero at the endpoints.
+
+1090
+00:39:32,180 --> 00:39:34,200
+So there's no contribution here.
+
+1091
+00:39:36,420 --> 00:39:36,920
+Well,
+
+1092
+00:39:36,920 --> 00:39:38,040
+what have we calculated?
+
+1093
+00:39:38,340 --> 00:39:39,980
+We've calculated the change in
+
+1094
+00:39:39,980 --> 00:39:41,620
+the action with respect to alpha.
+
+1095
+00:39:43,380 --> 00:39:45,840
+Change in the action with respect to alpha.
+
+1096
+00:39:47,240 --> 00:39:48,600
+And alpha equals zero.
+
+1097
+00:39:48,800 --> 00:39:50,540
+We can now set alpha equal to zero.
+
+1098
+00:39:50,700 --> 00:39:51,360
+It doesn't matter.
+
+1099
+00:39:51,440 --> 00:39:52,400
+It doesn't even depend on alpha.
+
+1100
+00:39:52,980 --> 00:39:53,820
+What's the rule?
+
+1101
+00:39:54,020 --> 00:39:56,380
+The rule is that this should be equal to zero.
+
+1102
+00:39:57,560 --> 00:39:58,220
+That's the thing.
+
+1103
+00:39:58,220 --> 00:40:02,180
+condition of minimizing the action with respect to alpha.
+
+1104
+00:40:02,180 --> 00:40:03,940
+So,
+
+1105
+00:40:03,940 --> 00:40:05,800
+this should be equal to zero.
+
+1106
+00:40:09,700 --> 00:40:13,300
+Notice that the f's can be taken outside the bracket.
+
+1107
+00:40:13,300 --> 00:40:15,180
+Oh,
+
+1108
+00:40:15,180 --> 00:40:19,060
+you're probably aware that there
+
+1109
+00:40:19,060 --> 00:40:20,400
+should be a sum over i here.
+
+1110
+00:40:20,400 --> 00:40:24,500
+Each term in the sum is f sub i,
+
+1111
+00:40:24,500 --> 00:40:26,720
+multiplies f sub i.
+
+1112
+00:40:26,720 --> 00:40:27,640
+So
+
+1113
+00:40:29,020 --> 00:40:31,440
+this has to be zero for
+
+1114
+00:40:31,440 --> 00:40:33,860
+every possible function f sub i.
+
+1115
+00:40:33,860 --> 00:40:37,160
+All possible ways of deforming the
+
+1116
+00:40:37,160 --> 00:40:37,480
+trajectory.
+
+1117
+00:40:37,480 --> 00:40:38,640
+Why?
+
+1118
+00:40:38,640 --> 00:40:40,310
+Because we're looking for the
+
+1119
+00:40:40,310 --> 00:40:41,980
+trajectory with the minimum action,
+
+1120
+00:40:41,980 --> 00:40:42,940
+and
+
+1121
+00:40:42,940 --> 00:40:44,740
+so however we deform the trajectory,
+
+1122
+00:40:44,740 --> 00:40:47,420
+we should increase the action a little bit.
+
+1123
+00:40:47,420 --> 00:40:49,860
+So it follows
+
+1124
+00:40:49,860 --> 00:40:53,850
+then that this integral has to
+
+1125
+00:40:53,850 --> 00:40:57,840
+be zero for every possible function.
+
+1126
+00:40:57,840 --> 00:40:58,200
+So,
+
+1127
+00:40:58,200 --> 00:40:58,200
+this is the first
+
+1128
+00:40:59,660 --> 00:41:00,300
+function f sub i.
+
+1129
+00:41:00,300 --> 00:41:00,300
+Well,
+
+1130
+00:41:00,300 --> 00:41:00,980
+what does that imply?
+
+1131
+00:41:00,980 --> 00:41:04,980
+That implies that the thing in the curly bracket
+
+1132
+00:41:04,980 --> 00:41:06,940
+here has to be identically zero.
+
+1133
+00:41:06,940 --> 00:41:08,660
+So,
+
+1134
+00:41:08,660 --> 00:41:12,259
+what we've done is we've taken the condition of
+
+1135
+00:41:13,120 --> 00:41:16,220
+least action and we have converted it to
+
+1136
+00:41:16,220 --> 00:41:19,320
+a local statement at each point along the trajectory.
+
+1137
+00:41:19,320 --> 00:41:22,000
+At each point along the trajectory,
+
+1138
+00:41:22,000 --> 00:41:23,020
+we can get,
+
+1139
+00:41:23,020 --> 00:41:24,020
+incidentally,
+
+1140
+00:41:24,020 --> 00:41:25,600
+this is true for every
+
+1141
+00:41:26,440 --> 00:41:27,540
+combination of functions,
+
+1142
+00:41:27,540 --> 00:41:28,180
+f1,
+
+1143
+00:41:28,180 --> 00:41:28,600
+f2,
+
+1144
+00:41:28,600 --> 00:41:29,080
+f3,
+
+1145
+00:41:29,080 --> 00:41:29,620
+and so forth.
+
+1146
+00:41:29,620 --> 00:41:32,100
+That means that every one of these
+
+1147
+00:41:32,100 --> 00:41:35,380
+expressions has to be equal to zero.
+
+1148
+00:41:35,380 --> 00:41:38,960
+Each i at every point in time,
+
+1149
+00:41:38,960 --> 00:41:45,260
+dL by dq minus d
+
+1150
+00:41:45,260 --> 00:41:48,280
+by dt of dL by dq dot.
+
+1151
+00:41:48,660 --> 00:41:49,300
+Subtitles by the Amara.org community
+
+1152
+00:41:51,040 --> 00:41:53,660
+has to be zero all along the trajectory.
+
+1153
+00:41:53,660 --> 00:41:57,380
+This has the form of a local equation.
+
+1154
+00:41:57,380 --> 00:41:58,120
+At
+
+1155
+00:41:58,120 --> 00:41:59,220
+each point on the trajectory,
+
+1156
+00:41:59,220 --> 00:42:03,920
+it's equivalent to the global statement that the action is
+
+1157
+00:42:03,920 --> 00:42:04,200
+minimum.
+
+1158
+00:42:04,200 --> 00:42:05,640
+Okay,
+
+1159
+00:42:05,640 --> 00:42:06,160
+now that we,
+
+1160
+00:42:06,160 --> 00:42:06,540
+this is,
+
+1161
+00:42:06,540 --> 00:42:07,100
+incidentally,
+
+1162
+00:42:07,100 --> 00:42:09,680
+this is called the Euler-Lagrange equation
+
+1163
+00:42:10,720 --> 00:42:13,810
+for the variational problem of minimizing
+
+1164
+00:42:13,810 --> 00:42:16,900
+the integral of L to t.
+
+1165
+00:42:16,900 --> 00:42:18,860
+This is called the
+
+1166
+00:42:18,860 --> 00:42:20,300
+Euler-Lagrange equation.
+
+1167
+00:42:20,300 --> 00:42:20,860
+Euler,
+
+1168
+00:42:20,860 --> 00:42:21,660
+not O-R,
+
+1169
+00:42:21,660 --> 00:42:24,000
+not like the football team,
+
+1170
+00:42:24,000 --> 00:42:24,660
+not that,
+
+1171
+00:42:24,660 --> 00:42:28,260
+but E-U-L-E.
+
+1172
+00:42:28,820 --> 00:42:29,960
+Subtitles by the Amara.org community
+
+1173
+00:42:29,986 --> 00:42:30,186
+おいおい
+
+1174
+00:42:34,114 --> 00:42:37,034
+Euler-Lagrange variational equation
+
+1175
+00:42:37,034 --> 00:42:41,614
+and this equation is the
+
+1176
+00:42:41,614 --> 00:42:46,194
+heart of all of classical physics
+
+1177
+00:42:46,814 --> 00:42:49,294
+in fact in a slightly different form
+
+1178
+00:42:49,294 --> 00:42:53,334
+a related but more sophisticated form
+
+1179
+00:42:53,574 --> 00:42:55,594
+it is also the heart of quantum mechanics
+
+1180
+00:42:55,994 --> 00:42:58,334
+in the form of the Feynman-Path integral
+
+1181
+00:42:59,454 --> 00:43:01,494
+every physics problem known to me
+
+1182
+00:43:01,494 --> 00:43:04,114
+or every physical system known to me
+
+1183
+00:43:04,894 --> 00:43:06,273
+probably known to anybody
+
+1184
+00:43:06,273 --> 00:43:09,854
+can be formulated as an action principle with a Lagrangian
+
+1185
+00:43:09,854 --> 00:43:13,294
+that doesn't only include mechanical systems
+
+1186
+00:43:13,294 --> 00:43:14,854
+it includes systems of fields
+
+1187
+00:43:14,854 --> 00:43:16,914
+gravitational fields,
+
+1188
+00:43:16,914 --> 00:43:18,414
+general relativity,
+
+1189
+00:43:18,414 --> 00:43:19,554
+string theory
+
+1190
+00:43:19,554 --> 00:43:23,934
+everything has the form of a variational principle
+
+1191
+00:43:23,934 --> 00:43:26,374
+meaning to say a principle of least action
+
+1192
+00:43:26,374 --> 00:43:29,334
+what does it say in English?
+
+1193
+00:43:31,774 --> 00:43:32,674
+what does what say?
+
+1194
+00:43:32,794 --> 00:43:35,294
+this final statement here of the Euler-Lagrange equation
+
+1195
+00:43:35,294 --> 00:43:36,234
+well,
+
+1196
+00:43:36,234 --> 00:43:38,234
+I think the best way to
+
+1197
+00:43:38,834 --> 00:43:41,024
+let's come back to what it says in English
+
+1198
+00:43:41,024 --> 00:43:43,214
+after we work out what it says in specific examples
+
+1199
+00:43:43,774 --> 00:43:45,844
+perhaps by the time we say some
+
+1200
+00:43:45,844 --> 00:43:47,914
+specific examples we'll understand what it says
+
+1201
+00:43:47,914 --> 00:43:48,814
+what does it say?
+
+1202
+00:43:49,234 --> 00:43:49,934
+what's it say?
+
+1203
+00:43:51,114 --> 00:43:52,134
+F equals a name
+
+1204
+00:43:54,194 --> 00:43:55,934
+is that English enough?
+
+1205
+00:43:57,794 --> 00:43:59,314
+so that's the next thing
+
+1206
+00:43:59,314 --> 00:44:00,834
+to do is to show that
+
+1207
+00:44:01,494 --> 00:44:04,114
+in a couple of cases of interest it
+
+1208
+00:44:04,114 --> 00:44:06,734
+really does produce the right equation of motion
+
+1209
+00:44:08,154 --> 00:44:11,224
+but in English really what it is is it's
+
+1210
+00:44:11,224 --> 00:44:14,294
+the equivalence between a global description of the trajectory
+
+1211
+00:44:14,294 --> 00:44:15,974
+and a local description
+
+1212
+00:44:16,494 --> 00:44:18,854
+the local description is a differential equation
+
+1213
+00:44:18,854 --> 00:44:20,694
+it's a differential equation as we'll see
+
+1214
+00:44:20,694 --> 00:44:22,334
+we'll work out some examples
+
+1215
+00:44:22,334 --> 00:44:24,194
+or it's a system of differential equations
+
+1216
+00:44:24,194 --> 00:44:26,294
+of the form F equals m a
+
+1217
+00:44:26,994 --> 00:44:29,414
+incidentally just in terms of some lingo
+
+1218
+00:44:29,414 --> 00:44:30,994
+some definition
+
+1219
+00:44:32,054 --> 00:44:35,474
+I wonder if there's another way of looking at that
+
+1220
+00:44:35,474 --> 00:44:38,234
+just by from looking at the equation
+
+1221
+00:44:38,234 --> 00:44:39,434
+which equation?
+
+1222
+00:44:39,654 --> 00:44:40,294
+just looking at the math
+
+1223
+00:44:40,294 --> 00:44:46,234
+if you have a time derivative of the velocity derivative
+
+1224
+00:44:46,234 --> 00:44:47,034
+yeah
+
+1225
+00:44:47,034 --> 00:44:52,074
+and equating that to the space derivative of the object
+
+1226
+00:44:52,074 --> 00:44:52,534
+yeah
+
+1227
+00:44:53,714 --> 00:44:55,734
+you're asking is there another way to say it?
+
+1228
+00:44:56,014 --> 00:44:57,554
+is that a way to say it?
+
+1229
+00:44:57,734 --> 00:44:58,014
+yeah
+
+1230
+00:44:58,814 --> 00:44:59,394
+yeah
+
+1231
+00:44:59,394 --> 00:45:01,474
+the time derivative of the derivative of the object
+
+1232
+00:45:01,494 --> 00:45:03,074
+the derivative of the Lagrangian with
+
+1233
+00:45:03,074 --> 00:45:04,654
+respect to a velocity let's call it
+
+1234
+00:45:04,654 --> 00:45:06,874
+is equal to the derivative of the
+
+1235
+00:45:06,874 --> 00:45:09,094
+Lagrangian with respect to the corresponding coordinate
+
+1236
+00:45:10,154 --> 00:45:10,674
+alright
+
+1237
+00:45:10,674 --> 00:45:12,324
+but I think the best thing
+
+1238
+00:45:12,324 --> 00:45:13,974
+to do let's write it up here
+
+1239
+00:45:13,974 --> 00:45:15,914
+and then work it out for some examples
+
+1240
+00:45:16,554 --> 00:45:17,954
+to see how it works
+
+1241
+00:45:18,494 --> 00:45:24,034
+it's just that the space derivative means something to me
+
+1242
+00:45:24,034 --> 00:45:27,364
+and you know the time derivative of the
+
+1243
+00:45:27,364 --> 00:45:30,694
+velocity derivative means something that I can picture
+
+1244
+00:45:31,494 --> 00:45:31,614
+let's write it again
+
+1245
+00:45:33,354 --> 00:45:38,194
+that term just in sort of units analysis is
+
+1246
+00:45:39,394 --> 00:45:43,334
+you can think of derivatives as sort of vectors
+
+1247
+00:45:44,354 --> 00:45:44,974
+yes
+
+1248
+00:45:44,974 --> 00:45:45,594
+and this
+
+1249
+00:45:45,594 --> 00:45:47,934
+so you have velocity giving you one
+
+1250
+00:45:47,934 --> 00:45:50,274
+component and the time derivative of that
+
+1251
+00:45:51,244 --> 00:45:54,474
+so that's sort of pushing you forward along the trajectory
+
+1252
+00:45:54,474 --> 00:45:55,374
+yup
+
+1253
+00:45:55,374 --> 00:45:57,494
+and the other one is sort of moving you
+
+1254
+00:45:57,494 --> 00:45:59,614
+just something at the specific point
+
+1255
+00:45:59,614 --> 00:46:00,154
+yeah
+
+1256
+00:46:00,154 --> 00:46:00,374
+right
+
+1257
+00:46:00,934 --> 00:46:02,754
+alright let me give you some names
+
+1258
+00:46:03,554 --> 00:46:06,134
+the quantity dL by dQ sub i dot,
+
+1259
+00:46:06,134 --> 00:46:07,574
+notice that it depends on i,
+
+1260
+00:46:07,574 --> 00:46:08,314
+so it depends on which
+
+1261
+00:46:08,314 --> 00:46:09,574
+coordinate we're talking about
+
+1262
+00:46:10,054 --> 00:46:10,874
+that has a name
+
+1263
+00:46:11,534 --> 00:46:12,094
+it's called,
+
+1264
+00:46:12,094 --> 00:46:14,314
+first of all it's got a symbol associated with it
+
+1265
+00:46:14,874 --> 00:46:16,114
+it's usually called
+
+1266
+00:46:16,754 --> 00:46:17,774
+pi sub i
+
+1267
+00:46:19,034 --> 00:46:21,114
+it's the derivative of the Lagrangian
+
+1268
+00:46:21,854 --> 00:46:24,194
+with respect to the velocity
+
+1269
+00:46:25,514 --> 00:46:27,194
+Q sub i dot
+
+1270
+00:46:27,194 --> 00:46:27,414
+dot
+
+1271
+00:46:28,874 --> 00:46:31,294
+so it's a component of something
+
+1272
+00:46:32,564 --> 00:46:35,189
+that's related to the derivative of the Lagrangian with
+
+1273
+00:46:35,189 --> 00:46:37,814
+respect to a component of velocity if you're right
+
+1274
+00:46:38,924 --> 00:46:40,194
+anybody know what the name of this is?
+
+1275
+00:46:42,944 --> 00:46:43,994
+it's the momentum
+
+1276
+00:46:44,834 --> 00:46:47,014
+canonically conjugate to Q
+
+1277
+00:46:47,014 --> 00:46:49,354
+to Q sub i
+
+1278
+00:46:49,944 --> 00:46:52,114
+or you can just say the momentum
+
+1279
+00:46:53,114 --> 00:46:54,193
+the momentum
+
+1280
+00:46:54,703 --> 00:46:55,054
+component
+
+1281
+00:46:55,823 --> 00:46:57,134
+which corresponds to
+
+1282
+00:46:57,194 --> 00:46:59,414
+the position component Q sub i
+
+1283
+00:46:59,414 --> 00:47:00,764
+if you think of the
+
+1284
+00:47:00,764 --> 00:47:02,114
+Q's as a bunch of positions
+
+1285
+00:47:03,174 --> 00:47:04,894
+then the pi sub i's
+
+1286
+00:47:05,934 --> 00:47:08,114
+are called the momenta
+
+1287
+00:47:09,974 --> 00:47:11,014
+now let's
+
+1288
+00:47:11,014 --> 00:47:12,274
+so what does this say?
+
+1289
+00:47:12,274 --> 00:47:13,694
+this says d by dT
+
+1290
+00:47:13,694 --> 00:47:16,174
+of something that I'm calling a momentum
+
+1291
+00:47:16,814 --> 00:47:18,894
+is equal to dL by dQ
+
+1292
+00:47:18,894 --> 00:47:20,414
+how about this,
+
+1293
+00:47:20,414 --> 00:47:21,074
+does this got a name?
+
+1294
+00:47:24,134 --> 00:47:25,974
+the generalized force
+
+1295
+00:47:25,974 --> 00:47:27,574
+so this is
+
+1296
+00:47:29,874 --> 00:47:31,254
+I'll just call it the momentum
+
+1297
+00:47:31,254 --> 00:47:32,494
+but the
+
+1298
+00:47:33,974 --> 00:47:37,354
+but it's called the canonical momentum conjugate
+
+1299
+00:47:37,354 --> 00:47:39,394
+or the momentum conjugate to Q
+
+1300
+00:47:40,754 --> 00:47:42,694
+momentum conjugate to Q
+
+1301
+00:47:43,774 --> 00:47:45,014
+for every Q
+
+1302
+00:47:50,074 --> 00:47:53,014
+qi Right as in Dド u и bi
+
+1303
+00:47:53,014 --> 00:47:55,954
+d getting into the system up and down
+
+1304
+00:47:55,954 --> 00:47:56,654
+qi
+
+1305
+00:47:57,994 --> 00:48:00,714
+is called the generalized force
+
+1306
+00:48:01,334 --> 00:48:03,654
+or generalized component of the force
+
+1307
+00:48:09,894 --> 00:48:11,434
+I won't bother writing component,
+
+1308
+00:48:11,434 --> 00:48:12,334
+you get the idea
+
+1309
+00:48:13,214 --> 00:48:15,074
+so what this says is the derivative
+
+1310
+00:48:15,074 --> 00:48:16,934
+of some momentum is equal to some force
+
+1311
+00:48:16,934 --> 00:48:18,074
+sounds like F equals ma,
+
+1312
+00:48:18,074 --> 00:48:19,154
+and it is F equals ma
+
+1313
+00:48:19,834 --> 00:48:21,134
+let's try it out
+
+1314
+00:48:21,134 --> 00:48:23,754
+for a specific Lagrangian
+
+1315
+00:48:25,814 --> 00:48:27,614
+t minus u
+
+1316
+00:48:27,614 --> 00:48:30,574
+let's first do it for a single particle
+
+1317
+00:48:32,314 --> 00:48:33,554
+one particle
+
+1318
+00:48:35,254 --> 00:48:36,374
+mass m
+
+1319
+00:48:36,374 --> 00:48:39,754
+for the moment one direction of space,
+
+1320
+00:48:39,754 --> 00:48:41,714
+just the simplest possible problem
+
+1321
+00:48:41,714 --> 00:48:42,854
+then t
+
+1322
+00:48:42,854 --> 00:48:44,974
+is equal to one half
+
+1323
+00:48:44,974 --> 00:48:46,894
+the mass of the particle
+
+1324
+00:48:46,894 --> 00:48:48,954
+times x of i
+
+1325
+00:48:48,954 --> 00:48:50,574
+dot squared
+
+1326
+00:48:51,333 --> 00:48:52,694
+just x squared
+
+1327
+00:48:52,694 --> 00:48:54,474
+that's one coordinate
+
+1328
+00:48:56,213 --> 00:48:57,634
+the simplest possibility
+
+1329
+00:48:57,634 --> 00:48:58,374
+that's t,
+
+1330
+00:48:58,374 --> 00:48:59,774
+the kinetic energy
+
+1331
+00:49:00,473 --> 00:49:03,294
+x dot is of course just velocity in disguise
+
+1332
+00:49:05,093 --> 00:49:07,174
+minus u of x
+
+1333
+00:49:07,954 --> 00:49:08,494
+that's L
+
+1334
+00:49:10,353 --> 00:49:12,174
+what is the q for this problem?
+
+1335
+00:49:12,314 --> 00:49:14,394
+I'm not using the language of q's at the moment
+
+1336
+00:49:16,093 --> 00:49:17,454
+q is of course just x
+
+1337
+00:49:18,174 --> 00:49:20,354
+so I'm reserving x now
+
+1338
+00:49:20,574 --> 00:49:22,514
+for linear position along the line
+
+1339
+00:49:23,034 --> 00:49:25,014
+but of course it is the q for this problem
+
+1340
+00:49:25,854 --> 00:49:27,544
+q is just a generalized
+
+1341
+00:49:27,544 --> 00:49:29,234
+term for any kind of coordinate
+
+1342
+00:49:29,774 --> 00:49:32,174
+x is usually used when we're
+
+1343
+00:49:32,174 --> 00:49:34,574
+talking about rectilinear coordinates or Cartesian coordinates
+
+1344
+00:49:35,314 --> 00:49:37,034
+alright let's work out what this,
+
+1345
+00:49:37,034 --> 00:49:37,574
+what the,
+
+1346
+00:49:37,574 --> 00:49:39,314
+what Lagrange's equations say
+
+1347
+00:49:39,914 --> 00:49:41,774
+what the Euler-Lagrange equations say
+
+1348
+00:49:41,774 --> 00:49:43,194
+first of all what is the L by the
+
+1349
+00:49:43,914 --> 00:49:46,434
+now it becomes the L by the x dot
+
+1350
+00:49:48,514 --> 00:49:50,554
+this is the canonical momentum of the force of force
+
+1351
+00:49:50,554 --> 00:49:52,134
+what is the L momentum conjugate to x?
+
+1352
+00:49:53,774 --> 00:49:54,294
+well
+
+1353
+00:49:54,294 --> 00:49:56,614
+the L by the x dot
+
+1354
+00:49:56,614 --> 00:49:57,934
+here's x dot
+
+1355
+00:49:57,934 --> 00:49:59,334
+the only place where x dot appears
+
+1356
+00:49:59,334 --> 00:50:02,494
+is just equal to m x dot
+
+1357
+00:50:02,494 --> 00:50:05,694
+the two goes away because we have x dot squared
+
+1358
+00:50:06,354 --> 00:50:09,034
+and when we differentiate with respect to x dot
+
+1359
+00:50:09,674 --> 00:50:11,414
+that just gives us m x dot
+
+1360
+00:50:12,174 --> 00:50:14,054
+that is what we usually call the momentum
+
+1361
+00:50:15,834 --> 00:50:16,894
+sometimes called p
+
+1362
+00:50:17,474 --> 00:50:19,034
+ok so here's the language
+
+1363
+00:50:19,034 --> 00:50:20,534
+when we're talking about the momentum of force
+
+1364
+00:50:20,534 --> 00:50:21,994
+when we're talking about ordinary coordinates
+
+1365
+00:50:21,994 --> 00:50:23,454
+along lines x y and z
+
+1366
+00:50:23,454 --> 00:50:25,614
+we use the language x
+
+1367
+00:50:26,734 --> 00:50:29,074
+for momenta we use the language p
+
+1368
+00:50:29,754 --> 00:50:31,314
+when we're talking about
+
+1369
+00:50:31,314 --> 00:50:32,874
+more generalized kind of coordinates
+
+1370
+00:50:32,874 --> 00:50:35,994
+we use the language q and pi
+
+1371
+00:50:37,654 --> 00:50:38,934
+but in this case
+
+1372
+00:50:39,994 --> 00:50:41,734
+q is x and pi is p
+
+1373
+00:50:42,734 --> 00:50:45,334
+what does Lagrange's equations say?
+
+1374
+00:50:45,454 --> 00:50:46,454
+it says d by dt
+
+1375
+00:50:48,474 --> 00:50:50,314
+of the L by the x dot
+
+1376
+00:50:50,534 --> 00:50:52,034
+but that's m x dot
+
+1377
+00:50:52,034 --> 00:50:55,174
+is equal
+
+1378
+00:50:56,974 --> 00:50:57,734
+now
+
+1379
+00:51:00,134 --> 00:51:00,894
+let's
+
+1380
+00:51:03,094 --> 00:51:05,994
+equals d L by d x
+
+1381
+00:51:06,533 --> 00:51:08,054
+d L by d x
+
+1382
+00:51:08,054 --> 00:51:10,974
+is minus d u by d x
+
+1383
+00:51:13,434 --> 00:51:15,554
+the only place where x appears
+
+1384
+00:51:15,554 --> 00:51:16,694
+is in u
+
+1385
+00:51:17,653 --> 00:51:19,374
+x dot appears here
+
+1386
+00:51:19,374 --> 00:51:20,514
+x appears here
+
+1387
+00:51:20,534 --> 00:51:23,514
+so this is just minus d u by d x
+
+1388
+00:51:24,034 --> 00:51:25,274
+this should be familiar
+
+1389
+00:51:25,814 --> 00:51:27,614
+this is just f equals m a
+
+1390
+00:51:28,234 --> 00:51:29,894
+mass times x double dot
+
+1391
+00:51:31,334 --> 00:51:33,474
+is equal to minus d u by d x
+
+1392
+00:51:36,534 --> 00:51:39,554
+so we successfully reproduce Newton's equation
+
+1393
+00:51:39,554 --> 00:51:42,674
+for a particle with one degree of freedom
+
+1394
+00:51:42,674 --> 00:51:44,374
+moving along a line
+
+1395
+00:51:44,374 --> 00:51:45,914
+with a potential energy u
+
+1396
+00:51:46,554 --> 00:51:50,514
+notice that had I used for the Lagrangean plus equation
+
+1397
+00:51:50,514 --> 00:51:52,494
+I would have gotten the wrong
+
+1398
+00:51:52,494 --> 00:51:54,474
+sign in the force law here
+
+1399
+00:51:55,454 --> 00:51:57,034
+so the energy
+
+1400
+00:51:57,034 --> 00:52:00,134
+which we haven't talked about yet tonight very much
+
+1401
+00:52:00,134 --> 00:52:02,154
+we'll talk about it other times
+
+1402
+00:52:02,154 --> 00:52:03,844
+but the energy which is t
+
+1403
+00:52:03,844 --> 00:52:05,534
+plus u is not the Lagrangean
+
+1404
+00:52:05,534 --> 00:52:08,154
+the Lagrangean is t minus u
+
+1405
+00:52:08,774 --> 00:52:11,294
+and the Lagrangean is not conserved
+
+1406
+00:52:11,294 --> 00:52:14,714
+the Lagrangean is typically not a conserved quantity
+
+1407
+00:52:15,574 --> 00:52:17,694
+as the particle moves along the orbit
+
+1408
+00:52:17,694 --> 00:52:19,814
+in general the Lagrangean will change
+
+1409
+00:52:20,514 --> 00:52:22,794
+it's t plus u which doesn't change
+
+1410
+00:52:22,794 --> 00:52:24,234
+but we have to come back to that
+
+1411
+00:52:24,974 --> 00:52:26,534
+we want to derive that
+
+1412
+00:52:26,534 --> 00:52:29,134
+we want to derive energy conservation
+
+1413
+00:52:29,134 --> 00:52:31,014
+from this rule here
+
+1414
+00:52:31,813 --> 00:52:33,994
+but so far we have
+
+1415
+00:52:33,994 --> 00:52:35,774
+we do have Lagrange's equations
+
+1416
+00:52:36,553 --> 00:52:38,974
+okay now let's go forward a little bit
+
+1417
+00:52:38,974 --> 00:52:40,414
+to a mini particle system
+
+1418
+00:52:41,114 --> 00:52:42,674
+for a mini particle system
+
+1419
+00:52:42,674 --> 00:52:44,054
+all we have to do
+
+1420
+00:52:44,674 --> 00:52:46,614
+is for each particle
+
+1421
+00:52:46,614 --> 00:52:48,214
+let's have mini particles
+
+1422
+00:52:48,214 --> 00:52:50,494
+and mini cores
+
+1423
+00:52:50,514 --> 00:52:51,554
+we have three coordinates for each particle
+
+1424
+00:52:51,554 --> 00:52:53,314
+three coordinates for each particle
+
+1425
+00:52:53,314 --> 00:52:53,814
+x,
+
+1426
+00:52:53,814 --> 00:52:54,074
+y,
+
+1427
+00:52:54,074 --> 00:52:54,454
+and z
+
+1428
+00:52:55,394 --> 00:52:56,834
+let's just call them x1,
+
+1429
+00:52:56,834 --> 00:52:57,174
+x2,
+
+1430
+00:52:57,174 --> 00:52:57,714
+and x3
+
+1431
+00:52:58,734 --> 00:53:00,954
+but also we have all of the particles
+
+1432
+00:53:02,014 --> 00:53:03,874
+let's lump them all together
+
+1433
+00:53:03,874 --> 00:53:06,834
+and call them x1 dot dot dot dot
+
+1434
+00:53:06,834 --> 00:53:08,634
+down to x n
+
+1435
+00:53:09,284 --> 00:53:11,454
+where n is three times the number of particles
+
+1436
+00:53:11,454 --> 00:53:12,654
+we could say 3n
+
+1437
+00:53:12,654 --> 00:53:15,254
+3n but let's just use
+
+1438
+00:53:15,254 --> 00:53:18,834
+capital N for the total number of x's
+
+1439
+00:53:20,514 --> 00:53:22,874
+each particle might have a different mass
+
+1440
+00:53:23,494 --> 00:53:25,814
+so that means each x dot squared
+
+1441
+00:53:26,734 --> 00:53:29,234
+might have its own mass that goes along with it
+
+1442
+00:53:29,234 --> 00:53:30,934
+of course they'll come in triplets
+
+1443
+00:53:33,354 --> 00:53:35,024
+the mass of a particle doesn't
+
+1444
+00:53:35,024 --> 00:53:36,694
+depend on which way it's moving
+
+1445
+00:53:37,354 --> 00:53:39,174
+but we can think a little more generally
+
+1446
+00:53:39,174 --> 00:53:41,574
+we can imagine a slightly more general situation
+
+1447
+00:53:42,394 --> 00:53:44,294
+where every x dot squared
+
+1448
+00:53:44,294 --> 00:53:46,334
+goes with its own mass
+
+1449
+00:53:47,614 --> 00:53:49,094
+this would be a mathematical
+
+1450
+00:53:49,094 --> 00:53:51,914
+for a real physical particle of course
+
+1451
+00:53:51,914 --> 00:53:54,494
+the mass doesn't depend on which way it's moving
+
+1452
+00:53:55,094 --> 00:53:56,744
+so in triples they would
+
+1453
+00:53:56,744 --> 00:53:58,394
+come together with the same mass
+
+1454
+00:53:58,973 --> 00:53:59,474
+that's alright
+
+1455
+00:54:00,094 --> 00:54:04,054
+we can extend the notation a little bit
+
+1456
+00:54:04,054 --> 00:54:06,854
+and just write that the kinetic energy
+
+1457
+00:54:06,854 --> 00:54:09,154
+is the sum over all the coordinates
+
+1458
+00:54:09,994 --> 00:54:12,574
+of the appropriate mass for that coordinate
+
+1459
+00:54:13,094 --> 00:54:15,334
+times x sub i dot squared
+
+1460
+00:54:15,334 --> 00:54:16,694
+divided by 2
+
+1461
+00:54:18,014 --> 00:54:19,274
+now this doesn't
+
+1462
+00:54:19,274 --> 00:54:20,814
+i doesn't just mean 1,
+
+1463
+00:54:20,814 --> 00:54:21,014
+2,
+
+1464
+00:54:21,014 --> 00:54:21,374
+and 3
+
+1465
+00:54:22,774 --> 00:54:23,714
+meaning x,
+
+1466
+00:54:23,714 --> 00:54:23,914
+y,
+
+1467
+00:54:23,914 --> 00:54:24,254
+and z
+
+1468
+00:54:24,254 --> 00:54:27,594
+and it doesn't just mean which particle we're talking about
+
+1469
+00:54:27,594 --> 00:54:31,394
+it means the collection of all the different things
+
+1470
+00:54:31,394 --> 00:54:33,894
+which specify a particular coordinate
+
+1471
+00:54:33,894 --> 00:54:36,054
+which particle as well as which direction
+
+1472
+00:54:37,794 --> 00:54:39,914
+and then the potential energy
+
+1473
+00:54:40,694 --> 00:54:43,054
+which is a function of where the particles are
+
+1474
+00:54:44,234 --> 00:54:46,614
+it's a function of the positions of the particles
+
+1475
+00:54:46,614 --> 00:54:49,254
+just becomes minus
+
+1476
+00:54:49,254 --> 00:54:52,634
+some potential which depends on all of the particles
+
+1477
+00:54:52,634 --> 00:54:54,134
+I didn't have to change it
+
+1478
+00:54:54,134 --> 00:54:55,374
+it's just minus u of x
+
+1479
+00:54:55,374 --> 00:54:57,334
+u of x here means
+
+1480
+00:54:57,334 --> 00:54:59,294
+u of all of the coordinates
+
+1481
+00:55:00,433 --> 00:55:02,114
+now in specific instances
+
+1482
+00:55:02,114 --> 00:55:05,094
+you may have some particular special form
+
+1483
+00:55:05,094 --> 00:55:06,234
+and we'll talk about the
+
+1484
+00:55:06,234 --> 00:55:07,374
+special forms that it can have
+
+1485
+00:55:08,134 --> 00:55:10,114
+but in a general context
+
+1486
+00:55:10,114 --> 00:55:13,414
+we can imagine a u which just depends on
+
+1487
+00:55:13,414 --> 00:55:15,314
+all of the positions of all the particles
+
+1488
+00:55:16,014 --> 00:55:17,254
+then what happens
+
+1489
+00:55:17,254 --> 00:55:19,914
+if we go through the same exercise
+
+1490
+00:55:19,914 --> 00:55:21,554
+coordinate by coordinate
+
+1491
+00:55:22,494 --> 00:55:25,134
+well the l by the x sub i dot
+
+1492
+00:55:25,874 --> 00:55:28,394
+becomes m sub i times x sub i dot
+
+1493
+00:55:31,414 --> 00:55:33,494
+we'll call that p sub i
+
+1494
+00:55:34,714 --> 00:55:36,734
+this doesn't have no sum intended here
+
+1495
+00:55:36,734 --> 00:55:38,154
+no summation intended here
+
+1496
+00:55:38,674 --> 00:55:40,174
+so if this is x,
+
+1497
+00:55:40,174 --> 00:55:40,354
+y,
+
+1498
+00:55:40,354 --> 00:55:40,694
+or z
+
+1499
+00:55:40,694 --> 00:55:42,194
+this could be the x,
+
+1500
+00:55:42,194 --> 00:55:42,374
+y,
+
+1501
+00:55:42,374 --> 00:55:44,814
+or z component of a particular particle momentum
+
+1502
+00:55:45,474 --> 00:55:49,054
+but we could also vary which particle we're talking about
+
+1503
+00:55:49,054 --> 00:55:50,804
+and so this extends not
+
+1504
+00:55:50,804 --> 00:55:52,554
+only over the directions of space
+
+1505
+00:55:52,554 --> 00:55:54,214
+but which particle we're talking about
+
+1506
+00:55:54,214 --> 00:55:56,894
+there are three n momenta
+
+1507
+00:55:56,894 --> 00:55:58,294
+and three n positions
+
+1508
+00:56:00,974 --> 00:56:04,154
+each equation then takes the form
+
+1509
+00:56:05,414 --> 00:56:06,854
+of the time derivative
+
+1510
+00:56:07,813 --> 00:56:10,994
+of the momentum of a particular direction
+
+1511
+00:56:10,994 --> 00:56:12,234
+of a particular particle
+
+1512
+00:56:12,234 --> 00:56:14,074
+is equal to the force
+
+1513
+00:56:14,074 --> 00:56:15,754
+the component of the force
+
+1514
+00:56:16,534 --> 00:56:18,234
+associated with a particular particle
+
+1515
+00:56:18,234 --> 00:56:19,954
+and the particular direction of space
+
+1516
+00:56:22,374 --> 00:56:24,214
+this again is f equals m a
+
+1517
+00:56:24,214 --> 00:56:26,534
+f equals m a for each particle
+
+1518
+00:56:26,534 --> 00:56:27,834
+and each direction of space
+
+1519
+00:56:29,254 --> 00:56:29,734
+so
+
+1520
+00:56:31,754 --> 00:56:32,934
+m sub i
+
+1521
+00:56:32,934 --> 00:56:35,254
+x sub i dot
+
+1522
+00:56:35,254 --> 00:56:37,094
+is the u by the x sub i
+
+1523
+00:56:41,034 --> 00:56:41,954
+the implication
+
+1524
+00:56:42,854 --> 00:56:44,054
+is that this must not be a constant
+
+1525
+00:56:44,074 --> 00:56:44,934
+this must be very very general
+
+1526
+00:56:45,514 --> 00:56:46,934
+after all this is
+
+1527
+00:56:46,934 --> 00:56:48,494
+is a collection of particles
+
+1528
+00:56:48,494 --> 00:56:49,694
+with force laws
+
+1529
+00:56:49,694 --> 00:56:52,074
+the force laws happening to be just such
+
+1530
+00:56:52,074 --> 00:56:53,614
+to hold it together into an eraser
+
+1531
+00:56:54,594 --> 00:56:56,634
+you're nothing but a collection of particles
+
+1532
+00:56:56,634 --> 00:56:58,094
+held together by forces
+
+1533
+00:57:00,054 --> 00:57:02,314
+this is an extremely general
+
+1534
+00:57:03,414 --> 00:57:05,274
+system that we're talking about here
+
+1535
+00:57:06,654 --> 00:57:08,554
+and it is definitely governed
+
+1536
+00:57:08,554 --> 00:57:10,454
+by a principle of least action
+
+1537
+00:57:10,454 --> 00:57:11,734
+the principle of least action
+
+1538
+00:57:11,734 --> 00:57:13,034
+being gotten by taking
+
+1539
+00:57:13,034 --> 00:57:13,614
+q minus
+
+1540
+00:57:13,614 --> 00:57:14,174
+by taking
+
+1541
+00:57:14,774 --> 00:57:15,554
+kinetic energy
+
+1542
+00:57:15,554 --> 00:57:16,734
+minus the potential energy
+
+1543
+00:57:16,734 --> 00:57:19,394
+so we see already
+
+1544
+00:57:20,553 --> 00:57:22,334
+that the principle of least action
+
+1545
+00:57:23,234 --> 00:57:24,614
+is general enough
+
+1546
+00:57:24,614 --> 00:57:26,794
+to cover just about every possible
+
+1547
+00:57:26,794 --> 00:57:28,614
+mechanical system we could think about
+
+1548
+00:57:28,614 --> 00:57:31,074
+because every mechanical system we could think about
+
+1549
+00:57:31,074 --> 00:57:33,374
+we could imagine being made out of chunks of material
+
+1550
+00:57:33,374 --> 00:57:34,734
+which in turn are made of
+
+1551
+00:57:34,734 --> 00:57:36,634
+collections of particles
+
+1552
+00:57:36,634 --> 00:57:39,194
+held together by interatomic forces
+
+1553
+00:57:39,194 --> 00:57:40,994
+or whatever holds the system together
+
+1554
+00:57:41,734 --> 00:57:42,994
+let's do a couple of
+
+1555
+00:57:43,034 --> 00:57:43,574
+examples
+
+1556
+00:57:43,574 --> 00:57:45,994
+just to see how things work
+
+1557
+00:57:55,914 --> 00:57:58,574
+let's do an example of two particles on a line
+
+1558
+00:57:59,254 --> 00:57:59,894
+interacting
+
+1559
+00:58:01,134 --> 00:58:02,894
+with a force between them
+
+1560
+00:58:02,894 --> 00:58:04,974
+governed by a potential energy
+
+1561
+00:58:08,234 --> 00:58:08,874
+alright,
+
+1562
+00:58:08,874 --> 00:58:09,314
+so we have
+
+1563
+00:58:10,454 --> 00:58:12,174
+two particles on a line
+
+1564
+00:58:22,754 --> 00:58:25,514
+particle one has coordinate x1
+
+1565
+00:58:25,514 --> 00:58:27,614
+particle two has coordinate x2
+
+1566
+00:58:29,654 --> 00:58:31,774
+particle one has mass m1
+
+1567
+00:58:32,654 --> 00:58:35,054
+particle two has mass m2
+
+1568
+00:58:37,014 --> 00:58:37,814
+now,
+
+1569
+00:58:37,814 --> 00:58:40,634
+there's also a potential energy function
+
+1570
+00:58:40,634 --> 00:58:40,814
+function,
+
+1571
+00:58:40,814 --> 00:58:45,774
+the potential energy is a function of both coordinates.
+
+1572
+00:58:45,774 --> 00:58:48,634
+If there's a force between
+
+1573
+00:58:48,634 --> 00:58:49,654
+the two particles,
+
+1574
+00:58:49,654 --> 00:58:53,374
+and the two particles influence each other,
+
+1575
+00:58:53,374 --> 00:58:55,034
+then you would expect in general
+
+1576
+00:58:55,034 --> 00:58:56,944
+that the potential energy will depend
+
+1577
+00:58:56,944 --> 00:58:58,854
+on the position of both particles,
+
+1578
+00:58:58,854 --> 00:59:00,354
+maybe in some
+
+1579
+00:59:00,354 --> 00:59:01,234
+complicated way.
+
+1580
+00:59:01,234 --> 00:59:05,234
+Now I want to focus on a particular situation,
+
+1581
+00:59:05,234 --> 00:59:07,054
+and the particular situation
+
+1582
+00:59:07,054 --> 00:59:09,134
+is one which has what I'll call,
+
+1583
+00:59:09,134 --> 00:59:10,254
+or what everybody calls,
+
+1584
+00:59:10,254 --> 00:59:12,134
+translation invariance.
+
+1585
+00:59:12,134 --> 00:59:13,634
+Translation
+
+1586
+00:59:13,634 --> 00:59:17,234
+invariance means that for our purposes now,
+
+1587
+00:59:17,234 --> 00:59:18,814
+the Lagrangian,
+
+1588
+00:59:18,814 --> 00:59:20,374
+or let's say in particular
+
+1589
+00:59:20,374 --> 00:59:21,674
+the potential energy,
+
+1590
+00:59:21,674 --> 00:59:25,594
+would not change if you moved both particles together.
+
+1591
+00:59:25,594 --> 00:59:26,854
+In other
+
+1592
+00:59:26,854 --> 00:59:27,214
+words,
+
+1593
+00:59:27,214 --> 00:59:30,254
+it doesn't depend on where the particles are,
+
+1594
+00:59:30,254 --> 00:59:32,254
+it does depend on the distance between
+
+1595
+00:59:32,254 --> 00:59:32,614
+them.
+
+1596
+00:59:32,614 --> 00:59:37,034
+This assumption is equivalent to a linear
+
+1597
+00:59:37,034 --> 00:59:37,594
+symmetry.
+
+1598
+00:59:37,594 --> 00:59:40,274
+The symmetry being,
+
+1599
+00:59:40,274 --> 00:59:41,534
+I'll explain what I mean by
+
+1600
+00:59:41,534 --> 00:59:42,794
+a symmetry in a moment more
+
+1601
+00:59:42,794 --> 00:59:43,134
+generally,
+
+1602
+00:59:43,134 --> 00:59:46,094
+but the symmetry being translation symmetry.
+
+1603
+00:59:46,094 --> 00:59:50,754
+Nothing depends on where you put
+
+1604
+00:59:50,754 --> 00:59:52,374
+the origin of coordinates,
+
+1605
+00:59:52,374 --> 00:59:56,213
+things only depend on the distance between particles,
+
+1606
+00:59:56,213 --> 00:59:57,754
+which is
+
+1607
+00:59:57,754 --> 00:59:59,343
+another way of saying that
+
+1608
+00:59:59,343 --> 01:00:00,933
+if you move the whole system,
+
+1609
+01:00:00,933 --> 01:00:03,334
+if you translate it,
+
+1610
+01:00:03,334 --> 01:00:04,534
+translation
+
+1611
+01:00:04,534 --> 01:00:06,334
+means moving it rigidly.
+
+1612
+01:00:06,334 --> 01:00:09,794
+Everything being kept at the same distance,
+
+1613
+01:00:09,794 --> 01:00:14,254
+that in this case the Lagrangian would not
+
+1614
+01:00:14,254 --> 01:00:14,794
+change.
+
+1615
+01:00:14,794 --> 01:00:18,504
+The velocities don't change if you just
+
+1616
+01:00:18,504 --> 01:00:22,214
+take a particle moving with a given velocity.
+
+1617
+01:00:22,594 --> 01:00:24,544
+A given velocity means it moves
+
+1618
+01:00:24,544 --> 01:00:26,494
+a certain distance at a certain time.
+
+1619
+01:00:26,494 --> 01:00:28,194
+If you change
+
+1620
+01:00:28,704 --> 01:00:30,639
+both the initial position and the
+
+1621
+01:00:30,639 --> 01:00:32,574
+final position by the same amount,
+
+1622
+01:00:32,574 --> 01:00:34,794
+then the velocity doesn't
+
+1623
+01:00:34,794 --> 01:00:35,134
+change.
+
+1624
+01:00:36,334 --> 01:00:37,074
+In other words,
+
+1625
+01:00:37,074 --> 01:00:43,174
+if your car goes one mile in ten seconds,
+
+1626
+01:00:43,174 --> 01:00:43,534
+wow,
+
+1627
+01:00:43,534 --> 01:00:43,994
+that's fast.
+
+1628
+01:00:43,994 --> 01:00:47,794
+But you
+
+1629
+01:00:47,794 --> 01:00:50,934
+move it ahead by a certain distance,
+
+1630
+01:00:50,934 --> 01:00:53,374
+and you keep the velocity the same,
+
+1631
+01:00:53,374 --> 01:00:53,834
+then it's still
+
+1632
+01:00:53,834 --> 01:00:54,614
+going one mile,
+
+1633
+01:00:54,614 --> 01:00:55,634
+you know what I mean.
+
+1634
+01:00:55,634 --> 01:00:59,954
+Velocity itself doesn't depend on the choice of coordinates,
+
+1635
+01:01:00,194 --> 01:01:01,134
+on the choice of origin.
+
+1636
+01:01:01,134 --> 01:01:02,874
+Why?
+
+1637
+01:01:02,874 --> 01:01:03,774
+Well,
+
+1638
+01:01:03,774 --> 01:01:05,234
+let's think of x of t.
+
+1639
+01:01:05,234 --> 01:01:06,314
+So,
+
+1640
+01:01:06,314 --> 01:01:06,314
+if you move the velocity
+
+1641
+01:01:06,314 --> 01:01:06,394
+of x,
+
+1642
+01:01:06,394 --> 01:01:08,294
+and let's add a constant to x of t,
+
+1643
+01:01:08,294 --> 01:01:09,694
+just add a constant to it.
+
+1644
+01:01:09,694 --> 01:01:11,314
+If you add a constant
+
+1645
+01:01:11,314 --> 01:01:11,794
+to it,
+
+1646
+01:01:11,794 --> 01:01:14,194
+it doesn't change the time derivative of our x.
+
+1647
+01:01:14,194 --> 01:01:16,894
+So shifting everything by a constant
+
+1648
+01:01:16,894 --> 01:01:18,954
+amount would change none of the velocities,
+
+1649
+01:01:18,954 --> 01:01:22,774
+and if the potential energy only depends on
+
+1650
+01:01:22,774 --> 01:01:23,914
+the distance between them,
+
+1651
+01:01:23,914 --> 01:01:28,374
+then the potential energy doesn't change if you rigidly move
+
+1652
+01:01:28,374 --> 01:01:28,714
+everything.
+
+1653
+01:01:28,714 --> 01:01:30,674
+Under those circumstances,
+
+1654
+01:01:30,674 --> 01:01:32,414
+the Lagrangian has,
+
+1655
+01:01:32,414 --> 01:01:33,574
+or the system has,
+
+1656
+01:01:33,574 --> 01:01:34,334
+a symmetry.
+
+1657
+01:01:34,774 --> 01:01:36,294
+It doesn't change the time derivative of our x.
+
+1658
+01:01:36,294 --> 01:01:36,294
+So shifting everything by a constant amount,
+
+1659
+01:01:36,294 --> 01:01:36,554
+it doesn't change the time derivative of our x.
+
+1660
+01:01:36,554 --> 01:01:36,554
+So shifting everything by a constant
+
+1661
+01:01:36,554 --> 01:01:36,554
+our velocity by a constant,
+
+1662
+01:01:36,554 --> 01:01:37,794
+and that's going to change if
+
+1663
+01:01:37,794 --> 01:01:39,034
+you move everything by the same
+
+1664
+01:01:39,034 --> 01:01:39,314
+amount.
+
+1665
+01:01:39,314 --> 01:01:41,254
+So,
+
+1666
+01:01:41,254 --> 01:01:42,154
+specifically then,
+
+1667
+01:01:42,154 --> 01:01:44,394
+in that case,
+
+1668
+01:01:44,394 --> 01:01:46,554
+the Lagrangian for this two-particle system
+
+1669
+01:01:46,554 --> 01:01:48,034
+would be kinetic energy,
+
+1670
+01:01:48,034 --> 01:01:52,954
+m1 x1 dot squared divided by two,
+
+1671
+01:01:52,954 --> 01:01:58,134
+plus n2 x2 dot squared divided
+
+1672
+01:01:58,134 --> 01:01:58,774
+by two.
+
+1673
+01:01:58,774 --> 01:02:01,274
+Those are the kinetic energies.
+
+1674
+01:02:01,274 --> 01:02:04,554
+And then the potential energy can be changed,
+
+1675
+01:02:04,554 --> 01:02:04,714
+right?
+
+1676
+01:02:09,113 --> 01:02:09,753
+minus,
+
+1677
+01:02:09,753 --> 01:02:12,403
+and the potential energy now is assumed
+
+1678
+01:02:12,403 --> 01:02:15,054
+to only depend on the distance between x1
+
+1679
+01:02:15,054 --> 01:02:15,674
+and x2.
+
+1680
+01:02:15,674 --> 01:02:19,094
+So it only depends on x1 minus x2.
+
+1681
+01:02:19,094 --> 01:02:23,314
+Now,
+
+1682
+01:02:23,314 --> 01:02:25,854
+this would not be the case if there was
+
+1683
+01:02:25,854 --> 01:02:28,714
+a large lump of matter out here that happened
+
+1684
+01:02:28,714 --> 01:02:31,574
+to be exerting forces on both x1 and x2.
+
+1685
+01:02:31,574 --> 01:02:32,894
+Then
+
+1686
+01:02:32,894 --> 01:02:35,364
+the potential might also depend on how
+
+1687
+01:02:35,364 --> 01:02:37,834
+close you were to that lump of matter.
+
+1688
+01:02:37,834 --> 01:02:38,454
+It wouldn't
+
+1689
+01:02:38,454 --> 01:02:40,274
+just depend on the distance between them,
+
+1690
+01:02:40,274 --> 01:02:42,214
+but it would also depend on the distance to
+
+1691
+01:02:42,214 --> 01:02:43,294
+the big lump over here.
+
+1692
+01:02:43,294 --> 01:02:47,134
+But if the system is a
+
+1693
+01:02:47,134 --> 01:02:50,974
+closed system containing only two parts,
+
+1694
+01:02:51,194 --> 01:02:53,374
+and if it's translation invariant,
+
+1695
+01:02:53,374 --> 01:02:57,574
+meaning to say everything stays the same if you shift
+
+1696
+01:02:57,574 --> 01:02:57,894
+everything,
+
+1697
+01:02:57,894 --> 01:03:00,004
+then the potential energy can only
+
+1698
+01:03:00,004 --> 01:03:02,114
+be a function of the distance between
+
+1699
+01:03:02,114 --> 01:03:02,814
+the two points.
+
+1700
+01:03:02,894 --> 01:03:03,994
+x1 minus x2.
+
+1701
+01:03:04,494 --> 01:03:05,014
+Actually,
+
+1702
+01:03:05,014 --> 01:03:09,514
+it doesn't have to be absolute value,
+
+1703
+01:03:09,514 --> 01:03:12,734
+but we could make it absolute value if we wanted.
+
+1704
+01:03:12,874 --> 01:03:14,204
+If we wanted it to be
+
+1705
+01:03:14,204 --> 01:03:15,534
+literally the distance between the two points,
+
+1706
+01:03:15,534 --> 01:03:17,854
+then we would make
+
+1707
+01:03:17,854 --> 01:03:18,574
+it absolute value.
+
+1708
+01:03:18,574 --> 01:03:23,414
+But for my purposes right now,
+
+1709
+01:03:23,414 --> 01:03:25,094
+it's good enough that it's just a function
+
+1710
+01:03:25,094 --> 01:03:28,294
+of the separation of the x1 minus x2.
+
+1711
+01:03:28,294 --> 01:03:29,074
+That's good enough.
+
+1712
+01:03:29,074 --> 01:03:30,914
+That's translation invariant.
+
+1713
+01:03:30,914 --> 01:03:33,274
+That means that if we were
+
+1714
+01:03:33,274 --> 01:03:35,634
+to add a constant to each x,
+
+1715
+01:03:35,634 --> 01:03:37,694
+the same constant to each x,
+
+1716
+01:03:37,694 --> 01:03:37,974
+nothing
+
+1717
+01:03:37,974 --> 01:03:38,534
+would change.
+
+1718
+01:03:38,534 --> 01:03:40,854
+The velocities wouldn't change because
+
+1719
+01:03:40,854 --> 01:03:43,174
+the velocity doesn't depend on c,
+
+1720
+01:03:43,374 --> 01:03:46,074
+and x1 minus x2 wouldn't change
+
+1721
+01:03:46,074 --> 01:03:48,774
+because the constant translation would cancel out.
+
+1722
+01:03:49,354 --> 01:03:49,954
+Alright,
+
+1723
+01:03:49,954 --> 01:03:50,814
+so this is a symmetry,
+
+1724
+01:03:50,814 --> 01:03:53,154
+this is the case of translation symmetry.
+
+1725
+01:04:01,534 --> 01:04:04,134
+Let't work out now Lagrange's equations.
+
+1726
+01:04:04,134 --> 01:04:06,274
+There's an equation for x1,
+
+1727
+01:04:06,354 --> 01:04:07,534
+there's an equation for x2.
+
+1728
+01:04:07,534 --> 01:04:12,484
+The equation for x1 is d by
+
+1729
+01:04:12,484 --> 01:04:17,434
+dt of partial of L with respect
+
+1730
+01:04:17,434 --> 01:04:20,424
+to x1 dot equals partial
+
+1731
+01:04:20,424 --> 01:04:23,414
+of L with respect to x1.
+
+1732
+01:04:26,654 --> 01:04:27,254
+Alright,
+
+1733
+01:04:27,254 --> 01:04:29,074
+d by dt of partial of L with respect
+
+1734
+01:04:29,074 --> 01:04:30,894
+to x1 dot equals partial of L with respect
+
+1735
+01:04:30,894 --> 01:04:33,474
+That's just mA for the first particle,
+
+1736
+01:04:33,474 --> 01:04:33,794
+right?
+
+1737
+01:04:33,894 --> 01:04:37,674
+That's just d by dt of p1.
+
+1738
+01:04:38,974 --> 01:04:41,654
+The p1 by dt.
+
+1739
+01:04:42,374 --> 01:04:45,634
+p1 being the momentum of particle 1.
+
+1740
+01:04:47,174 --> 01:04:50,654
+The L by dx1 dot is just mx1 dot.
+
+1741
+01:04:50,734 --> 01:04:51,774
+That's the momentum.
+
+1742
+01:04:52,654 --> 01:04:54,954
+And so the equation for the
+
+1743
+01:04:54,954 --> 01:04:57,254
+first particle starts with dp1 by dt
+
+1744
+01:04:57,254 --> 01:05:01,134
+is equal to dl by dx1.
+
+1745
+01:05:02,154 --> 01:05:02,854
+All right?
+
+1746
+01:05:02,914 --> 01:05:05,134
+The only thing that depends on x1 is u.
+
+1747
+01:05:05,514 --> 01:05:08,114
+And so that becomes is
+
+1748
+01:05:08,114 --> 01:05:10,714
+equal to minus du by dx1.
+
+1749
+01:05:16,414 --> 01:05:18,294
+What about the second particle?
+
+1750
+01:05:18,334 --> 01:05:19,394
+That's particle number 1.
+
+1751
+01:05:20,014 --> 01:05:21,814
+Let's do particle number 2 now.
+
+1752
+01:05:24,554 --> 01:05:26,954
+dp2 by dt.
+
+1753
+01:05:27,773 --> 01:05:29,334
+That just comes from here.
+
+1754
+01:05:30,474 --> 01:05:36,154
+That's going to equal minus du by dx2.
+
+1755
+01:05:38,274 --> 01:05:40,514
+What's the relation between du
+
+1756
+01:05:40,514 --> 01:05:42,754
+by dx1 and du by dx2?
+
+1757
+01:05:47,894 --> 01:05:49,314
+They're equal and opposite.
+
+1758
+01:05:51,094 --> 01:05:51,774
+If...
+
+1759
+01:05:54,414 --> 01:05:56,514
+The thing only depends...
+
+1760
+01:05:57,254 --> 01:05:59,014
+If there's a difference of two variables like this,
+
+1761
+01:05:59,734 --> 01:06:01,134
+then the derivative...
+
+1762
+01:06:01,134 --> 01:06:01,234
+Well,
+
+1763
+01:06:01,234 --> 01:06:02,234
+let's look at it.
+
+1764
+01:06:02,414 --> 01:06:05,414
+The derivative of u with respect to x1
+
+1765
+01:06:05,414 --> 01:06:07,014
+is just the derivative of
+
+1766
+01:06:07,014 --> 01:06:08,614
+u with respect to the argument.
+
+1767
+01:06:12,374 --> 01:06:14,644
+Is it obvious to everybody that
+
+1768
+01:06:14,644 --> 01:06:16,914
+the derivative with respect to x2
+
+1769
+01:06:16,914 --> 01:06:19,334
+is minus the derivative with respect to x1?
+
+1770
+01:06:19,514 --> 01:06:21,014
+If it's obvious to everyone,
+
+1771
+01:06:21,014 --> 01:06:22,074
+I won't explain it.
+
+1772
+01:06:22,454 --> 01:06:23,014
+Yeah.
+
+1773
+01:06:23,154 --> 01:06:23,634
+Yes.
+
+1774
+01:06:23,874 --> 01:06:24,434
+Okay.
+
+1775
+01:06:25,234 --> 01:06:25,794
+Uh...
+
+1776
+01:06:25,794 --> 01:06:26,574
+It's...
+
+1777
+01:06:26,574 --> 01:06:27,014
+Ah.
+
+1778
+01:06:27,714 --> 01:06:28,234
+Okay.
+
+1779
+01:06:28,454 --> 01:06:28,994
+All right.
+
+1780
+01:06:29,014 --> 01:06:30,314
+So let's do it then.
+
+1781
+01:06:30,654 --> 01:06:32,324
+We have a function which
+
+1782
+01:06:32,324 --> 01:06:33,994
+only depends on x1 minus x2.
+
+1783
+01:06:35,374 --> 01:06:35,894
+Now,
+
+1784
+01:06:35,894 --> 01:06:39,594
+let's just call this variable x1 minus x2.
+
+1785
+01:06:39,634 --> 01:06:40,314
+Let's give it a name.
+
+1786
+01:06:40,654 --> 01:06:41,754
+Let's call it x.
+
+1787
+01:06:42,534 --> 01:06:44,714
+So u is only a function of x.
+
+1788
+01:06:45,834 --> 01:06:46,354
+No,
+
+1789
+01:06:46,354 --> 01:06:47,174
+let's not call it x.
+
+1790
+01:06:47,214 --> 01:06:48,574
+Let's call it d for difference.
+
+1791
+01:06:50,074 --> 01:06:51,294
+d for difference.
+
+1792
+01:06:51,874 --> 01:06:53,754
+So u is a function of d.
+
+1793
+01:06:54,234 --> 01:06:56,554
+d is x1 minus x2.
+
+1794
+01:06:56,574 --> 01:06:56,894
+d is x1 minus x2.
+
+1795
+01:06:57,754 --> 01:06:58,454
+All right.
+
+1796
+01:06:58,474 --> 01:06:59,054
+Let's calculate,
+
+1797
+01:06:59,054 --> 01:06:59,954
+first of all,
+
+1798
+01:06:59,954 --> 01:07:02,794
+the derivative of u with respect to x1.
+
+1799
+01:07:04,214 --> 01:07:05,294
+But I'll change it a little.
+
+1800
+01:07:06,194 --> 01:07:08,684
+The derivative of u with respect to x1
+
+1801
+01:07:08,684 --> 01:07:11,174
+is the derivative of u with respect to d.
+
+1802
+01:07:11,894 --> 01:07:12,374
+Remember,
+
+1803
+01:07:12,374 --> 01:07:14,154
+u is really only a function of d.
+
+1804
+01:07:15,374 --> 01:07:18,614
+Times the derivative of d with respect to x1.
+
+1805
+01:07:19,294 --> 01:07:20,694
+What's the derivative of d?
+
+1806
+01:07:20,814 --> 01:07:21,374
+This is d,
+
+1807
+01:07:21,374 --> 01:07:22,574
+x1 minus x2.
+
+1808
+01:07:23,194 --> 01:07:25,314
+d equals x1 minus x2.
+
+1809
+01:07:26,074 --> 01:07:26,554
+Okay.
+
+1810
+01:07:26,574 --> 01:07:29,354
+What's the derivative of d with respect to x1?
+
+1811
+01:07:31,674 --> 01:07:34,414
+So this is just du by dd.
+
+1812
+01:07:37,734 --> 01:07:40,634
+What's the derivative of u with respect to x2?
+
+1813
+01:07:43,734 --> 01:07:47,464
+That's du by dd times the
+
+1814
+01:07:47,464 --> 01:07:51,194
+change in d when you change x2.
+
+1815
+01:07:52,594 --> 01:07:54,934
+What's the change in u when you change x2?
+
+1816
+01:07:55,714 --> 01:07:56,594
+minus 1.
+
+1817
+01:07:56,714 --> 01:07:59,054
+What's the change in d when you change x2?
+
+1818
+01:08:00,434 --> 01:08:01,514
+minus 1.
+
+1819
+01:08:01,534 --> 01:08:02,174
+Minus 1.
+
+1820
+01:08:02,474 --> 01:08:04,214
+The derivative of d with
+
+1821
+01:08:04,214 --> 01:08:05,954
+respect to x2 is minus 1.
+
+1822
+01:08:07,734 --> 01:08:09,934
+So there's a minus sign to clean that.
+
+1823
+01:08:15,334 --> 01:08:17,894
+The derivative with respect to one variable is
+
+1824
+01:08:17,894 --> 01:08:20,453
+minus the derivative with respect to the other variable.
+
+1825
+01:08:21,854 --> 01:08:23,384
+That's as a consequence of the fact that
+
+1826
+01:08:23,384 --> 01:08:24,913
+it only depends on the derivative of u.
+
+1827
+01:08:24,913 --> 01:08:26,033
+depends on the difference between them.
+
+1828
+01:08:26,033 --> 01:08:29,134
+Well,
+
+1829
+01:08:31,134 --> 01:08:33,033
+the implication seems to be
+
+1830
+01:08:33,033 --> 01:08:34,934
+Newton's law of action and reaction,
+
+1831
+01:08:34,934 --> 01:08:35,573
+and it is.
+
+1832
+01:08:35,913 --> 01:08:36,694
+The fact,
+
+1833
+01:08:36,694 --> 01:08:37,374
+or the assumption,
+
+1834
+01:08:37,374 --> 01:08:39,194
+that the potential energy only
+
+1835
+01:08:39,194 --> 01:08:41,014
+depends on the distance between them,
+
+1836
+01:08:41,054 --> 01:08:42,734
+or the difference between the two variables,
+
+1837
+01:08:42,734 --> 01:08:45,294
+that it's translation invariant,
+
+1838
+01:08:45,294 --> 01:08:46,674
+that there's a translation symmetry,
+
+1839
+01:08:47,394 --> 01:08:50,434
+that's equivalent to the statement that the force on
+
+1840
+01:08:50,434 --> 01:08:53,474
+particle one is minus the force on particle two.
+
+1841
+01:08:55,613 --> 01:08:56,734
+What's the net result?
+
+1842
+01:08:56,734 --> 01:08:58,953
+The net result is momentum conservation.
+
+1843
+01:08:59,634 --> 01:09:04,834
+If you add these two equations to find dp total,
+
+1844
+01:09:04,834 --> 01:09:07,654
+p1 plus p2 by dt,
+
+1845
+01:09:09,014 --> 01:09:12,054
+then the forces on the right-hand side will cancel,
+
+1846
+01:09:12,054 --> 01:09:13,774
+just as they do,
+
+1847
+01:09:13,774 --> 01:09:16,214
+just as Newton assumed that they were.
+
+1848
+01:09:16,354 --> 01:09:16,654
+So,
+
+1849
+01:09:16,654 --> 01:09:16,654
+the force on the right-hand side is
+
+1850
+01:09:16,654 --> 01:09:16,654
+equal to the force on the left-hand side.
+
+1851
+01:09:16,674 --> 01:09:17,694
+So,
+
+1852
+01:09:17,694 --> 01:09:20,834
+what we find from this is that momentum conservation,
+
+1853
+01:09:20,834 --> 01:09:22,754
+for this simple system here,
+
+1854
+01:09:22,974 --> 01:09:26,573
+is a consequence of translation invariance.
+
+1855
+01:09:31,554 --> 01:09:34,214
+It's a consequence of translation invariance,
+
+1856
+01:09:34,214 --> 01:09:34,814
+number one,
+
+1857
+01:09:34,814 --> 01:09:35,974
+and number two,
+
+1858
+01:09:36,014 --> 01:09:39,944
+the form of the equations and the fact that
+
+1859
+01:09:39,944 --> 01:09:43,874
+they derive from the principle of the least action.
+
+1860
+01:09:45,774 --> 01:09:46,654
+We'll go on.
+
+1861
+01:09:46,674 --> 01:09:48,294
+We're going to explore this more thoroughly.
+
+1862
+01:09:48,613 --> 01:09:49,234
+So far,
+
+1863
+01:09:49,234 --> 01:09:50,334
+this is just an example,
+
+1864
+01:09:50,334 --> 01:09:52,634
+and it's an example of the relationship.
+
+1865
+01:09:52,694 --> 01:09:53,774
+This is really,
+
+1866
+01:09:53,774 --> 01:09:54,494
+really important.
+
+1867
+01:09:54,914 --> 01:09:56,534
+This is maybe the most important
+
+1868
+01:09:56,534 --> 01:09:58,154
+thing that you can learn tonight,
+
+1869
+01:09:58,374 --> 01:10:00,734
+or that you could learn about theoretical physics,
+
+1870
+01:10:00,734 --> 01:10:01,174
+practically,
+
+1871
+01:10:01,374 --> 01:10:05,354
+is the connection between symmetries and conservation laws.
+
+1872
+01:10:05,834 --> 01:10:08,834
+Here's the first example of the relation between a symmetry,
+
+1873
+01:10:08,834 --> 01:10:10,774
+translation invariance in space,
+
+1874
+01:10:11,674 --> 01:10:13,574
+and a conservation law,
+
+1875
+01:10:13,574 --> 01:10:15,194
+which is the conservation of momentum.
+
+1876
+01:10:17,314 --> 01:10:20,854
+Symmetry says that u only depends on x1 minus x2.
+
+1877
+01:10:21,534 --> 01:10:22,574
+From that,
+
+1878
+01:10:22,574 --> 01:10:24,894
+it follows that the force on particle
+
+1879
+01:10:24,894 --> 01:10:27,214
+1 is minus the force on particle 2,
+
+1880
+01:10:27,334 --> 01:10:31,254
+and from that follows conservation of momentum.
+
+1881
+01:10:31,954 --> 01:10:33,614
+Conservation of linear momentum,
+
+1882
+01:10:33,614 --> 01:10:34,314
+we'll call it.
+
+1883
+01:10:35,454 --> 01:10:36,034
+So,
+
+1884
+01:10:36,034 --> 01:10:37,034
+this is the first example,
+
+1885
+01:10:37,034 --> 01:10:39,214
+and we'll see more of them,
+
+1886
+01:10:40,254 --> 01:10:44,914
+of conservation laws and their relationships to symmetries.
+
+1887
+01:10:46,054 --> 01:10:47,154
+As I said,
+
+1888
+01:10:47,154 --> 01:10:48,654
+this is a very,
+
+1889
+01:10:48,654 --> 01:10:52,434
+very deep underlying theme of physics,
+
+1890
+01:10:52,434 --> 01:10:53,534
+of theoretical physics,
+
+1891
+01:10:53,834 --> 01:10:56,094
+that every symmetry has associated
+
+1892
+01:10:56,094 --> 01:10:58,354
+with it a conservation law.
+
+1893
+01:10:58,594 --> 01:10:59,614
+What does a symmetry mean?
+
+1894
+01:11:00,054 --> 01:11:02,394
+A symmetry means an active operation
+
+1895
+01:11:02,394 --> 01:11:04,734
+that you can do on the system,
+
+1896
+01:11:04,914 --> 01:11:05,754
+for example,
+
+1897
+01:11:05,754 --> 01:11:06,894
+translating it,
+
+1898
+01:11:06,894 --> 01:11:10,114
+which does not change the Lagrangian,
+
+1899
+01:11:10,214 --> 01:11:13,714
+which does not change the value of the Lagrangian,
+
+1900
+01:11:13,714 --> 01:11:14,674
+or better yet,
+
+1901
+01:11:14,674 --> 01:11:15,894
+the value of the action.
+
+1902
+01:11:16,994 --> 01:11:19,524
+If the action of a system does not
+
+1903
+01:11:19,524 --> 01:11:22,054
+change when you do a transformation of some type,
+
+1904
+01:11:22,234 --> 01:11:23,134
+in this case,
+
+1905
+01:11:23,134 --> 01:11:25,454
+just moving everything to the right by a fixed amount,
+
+1906
+01:11:26,894 --> 01:11:29,144
+that is a symmetry of the
+
+1907
+01:11:29,144 --> 01:11:31,394
+particular action that we're talking about.
+
+1908
+01:11:31,774 --> 01:11:34,474
+Every time the action has a symmetry,
+
+1909
+01:11:34,474 --> 01:11:37,554
+there is associated with it a conservation law.
+
+1910
+01:11:37,914 --> 01:11:39,994
+This is the simplest example of that,
+
+1911
+01:11:39,994 --> 01:11:41,634
+and the first of many
+
+1912
+01:11:41,634 --> 01:11:43,274
+examples that I hope we'll see,
+
+1913
+01:11:44,214 --> 01:11:45,214
+over the next,
+
+1914
+01:11:45,214 --> 01:11:50,834
+however long we pursue this.
+
+1915
+01:11:51,194 --> 01:11:51,714
+Question?
+
+1916
+01:11:52,334 --> 01:11:54,434
+There's another symmetry there that's
+
+1917
+01:11:54,434 --> 01:11:56,534
+the same as the inversion symmetry.
+
+1918
+01:11:56,774 --> 01:11:56,974
+Ah,
+
+1919
+01:11:56,974 --> 01:11:57,614
+yes.
+
+1920
+01:11:57,614 --> 01:11:58,674
+Yes,
+
+1921
+01:11:58,674 --> 01:11:59,094
+very good.
+
+1922
+01:12:00,434 --> 01:12:01,394
+In particular,
+
+1923
+01:12:01,394 --> 01:12:03,724
+there would be an inversion symmetry if this
+
+1924
+01:12:03,724 --> 01:12:06,054
+were a function only of the absolute value.
+
+1925
+01:12:06,334 --> 01:12:06,554
+Yeah.
+
+1926
+01:12:06,554 --> 01:12:07,634
+Okay.
+
+1927
+01:12:07,634 --> 01:12:09,434
+In classical mechanics,
+
+1928
+01:12:09,434 --> 01:12:12,374
+that's called a discrete symmetry.
+
+1929
+01:12:13,714 --> 01:12:16,014
+A continuous symmetry is one that you can
+
+1930
+01:12:16,014 --> 01:12:18,314
+imagine doing a little bit or a lot.
+
+1931
+01:12:18,554 --> 01:12:20,764
+We'll talk about this difference
+
+1932
+01:12:20,764 --> 01:12:22,974
+between discrete symmetries and continuous symmetries.
+
+1933
+01:12:23,334 --> 01:12:25,424
+But a discrete symmetry is one that depends
+
+1934
+01:12:25,424 --> 01:12:27,514
+on a parameter that can be very small,
+
+1935
+01:12:27,814 --> 01:12:30,114
+just a very small shift or very big,
+
+1936
+01:12:30,254 --> 01:12:32,014
+or that you could build up to big
+
+1937
+01:12:32,014 --> 01:12:33,774
+shifts out of a lot of little small shifts.
+
+1938
+01:12:34,894 --> 01:12:37,414
+That's called a continuous symmetry.
+
+1939
+01:12:38,234 --> 01:12:40,444
+A discrete symmetry is an
+
+1940
+01:12:40,444 --> 01:12:42,654
+operation like interchanging two things,
+
+1941
+01:12:42,654 --> 01:12:44,754
+which only has a discrete form.
+
+1942
+01:12:44,994 --> 01:12:46,434
+It's either one way or the other,
+
+1943
+01:12:46,434 --> 01:12:49,154
+and there's nothing interpolating between them.
+
+1944
+01:12:50,274 --> 01:12:51,814
+In classical mechanics,
+
+1945
+01:12:51,814 --> 01:12:54,374
+discrete symmetries don't
+
+1946
+01:12:54,374 --> 01:12:56,934
+generate interesting conservation laws.
+
+1947
+01:12:57,154 --> 01:12:58,114
+In quantum mechanics,
+
+1948
+01:12:58,114 --> 01:12:58,694
+they do.
+
+1949
+01:12:59,674 --> 01:13:03,614
+But that's for a later discussion.
+
+1950
+01:13:04,214 --> 01:13:04,834
+So you're right.
+
+1951
+01:13:04,834 --> 01:13:05,994
+It does have another symmetry,
+
+1952
+01:13:05,994 --> 01:13:07,874
+in particular if we say this is
+
+1953
+01:13:07,874 --> 01:13:09,754
+a function of absolute of x1 minus x2.
+
+1954
+01:13:09,954 --> 01:13:11,554
+This wouldn't have much...
+
+1955
+01:13:13,334 --> 01:13:13,854
+oomph,
+
+1956
+01:13:13,854 --> 01:13:14,374
+much...
+
+1957
+01:13:16,854 --> 01:13:18,654
+implication in classical mechanics.
+
+1958
+01:13:19,834 --> 01:13:23,114
+It does have implication in quantum mechanics,
+
+1959
+01:13:23,294 --> 01:13:25,314
+implication of a conservation law.
+
+1960
+01:13:28,214 --> 01:13:28,734
+Okay,
+
+1961
+01:13:28,734 --> 01:13:31,054
+so we just did conservation
+
+1962
+01:13:31,054 --> 01:13:33,374
+of momentum for a simple case.
+
+1963
+01:13:33,434 --> 01:13:35,294
+Let's do a couple of more mechanical cases,
+
+1964
+01:13:35,554 --> 01:13:37,324
+a couple of more mechanical systems
+
+1965
+01:13:37,324 --> 01:13:39,094
+to get the feel for this.
+
+1966
+01:13:39,694 --> 01:13:41,654
+Let's do a problem in which a particle
+
+1967
+01:13:42,654 --> 01:13:43,834
+moves in two dimensions.
+
+1968
+01:13:44,854 --> 01:13:47,034
+A particle moving near the surface of the Earth.
+
+1969
+01:13:47,134 --> 01:13:48,234
+Here's the surface of the Earth.
+
+1970
+01:13:48,534 --> 01:13:50,614
+Here's our particle right over here.
+
+1971
+01:13:51,554 --> 01:13:52,514
+Of course,
+
+1972
+01:13:52,514 --> 01:13:54,774
+it has three coordinates associated with it,
+
+1973
+01:13:54,834 --> 01:13:56,474
+but let's just take two coordinates,
+
+1974
+01:13:56,474 --> 01:13:57,354
+x and y.
+
+1975
+01:13:58,534 --> 01:14:00,254
+x goes this way,
+
+1976
+01:14:00,254 --> 01:14:02,754
+y goes vertically upward.
+
+1977
+01:14:04,214 --> 01:14:06,374
+The particle is described by two coordinates.
+
+1978
+01:14:06,414 --> 01:14:07,574
+There are two q's now,
+
+1979
+01:14:07,574 --> 01:14:08,814
+not because there are two particles,
+
+1980
+01:14:08,954 --> 01:14:10,494
+but because there are two directions of space.
+
+1981
+01:14:10,494 --> 01:14:12,014
+x and y.
+
+1982
+01:14:13,073 --> 01:14:19,014
+The kinetic energy is 1 half mx dot squared
+
+1983
+01:14:19,014 --> 01:14:22,554
+plus 1 half my dot squared.
+
+1984
+01:14:24,264 --> 01:14:27,554
+I have assumed that the mass does not depend
+
+1985
+01:14:27,554 --> 01:14:29,994
+on which direction the particle is moving.
+
+1986
+01:14:31,274 --> 01:14:33,974
+We could imagine some sort of nutty particle
+
+1987
+01:14:33,974 --> 01:14:36,994
+which had a larger mass with respect to vertical motion
+
+1988
+01:14:36,994 --> 01:14:38,034
+than horizontal motion,
+
+1989
+01:14:38,034 --> 01:14:40,194
+but I'm not doing that now.
+
+1990
+01:14:40,494 --> 01:14:41,214
+And then,
+
+1991
+01:14:41,214 --> 01:14:42,514
+what about the potential energy?
+
+1992
+01:14:43,394 --> 01:14:45,614
+This is the gravitational potential energy
+
+1993
+01:14:45,614 --> 01:14:46,534
+that I'm talking about.
+
+1994
+01:14:47,014 --> 01:14:53,374
+The gravitational potential energy of an object
+
+1995
+01:14:55,034 --> 01:14:56,694
+near the surface of the Earth
+
+1996
+01:14:57,934 --> 01:14:59,964
+this is not in a situation where
+
+1997
+01:14:59,964 --> 01:15:01,994
+we're far from the surface of the Earth,
+
+1998
+01:15:02,074 --> 01:15:03,374
+but near the surface of the Earth,
+
+1999
+01:15:03,494 --> 01:15:05,414
+is just proportional to the height,
+
+2000
+01:15:05,414 --> 01:15:06,314
+to the elevation.
+
+2001
+01:15:08,114 --> 01:15:08,594
+So,
+
+2002
+01:15:10,914 --> 01:15:11,474
+u,
+
+2003
+01:15:11,474 --> 01:15:13,574
+we subtract the potential energy,
+
+2004
+01:15:13,714 --> 01:15:16,264
+the potential energy is equal
+
+2005
+01:15:16,264 --> 01:15:18,814
+to the height of the particle,
+
+2006
+01:15:18,814 --> 01:15:19,114
+y,
+
+2007
+01:15:20,334 --> 01:15:22,114
+it's proportional to its mass,
+
+2008
+01:15:22,754 --> 01:15:24,194
+the heavier the particle,
+
+2009
+01:15:24,194 --> 01:15:26,514
+the more potential energy it has when you lift it,
+
+2010
+01:15:27,254 --> 01:15:29,734
+and it's proportional to the acceleration of gravity,
+
+2011
+01:15:29,734 --> 01:15:30,534
+g,
+
+2012
+01:15:30,714 --> 01:15:32,714
+10 meters per second per second.
+
+2013
+01:15:32,974 --> 01:15:34,934
+Little g is 10 emitter units.
+
+2014
+01:15:35,654 --> 01:15:37,034
+And it's just the strength
+
+2015
+01:15:37,034 --> 01:15:38,414
+of the Earth's gravitational field
+
+2016
+01:15:38,414 --> 01:15:40,354
+near the surface of the Earth.
+
+2017
+01:15:41,874 --> 01:15:42,394
+Okay?
+
+2018
+01:15:42,554 --> 01:15:43,054
+That's the,
+
+2019
+01:15:43,054 --> 01:15:43,654
+that's the,
+
+2020
+01:15:43,654 --> 01:15:44,374
+let's ask,
+
+2021
+01:15:44,494 --> 01:15:45,654
+what is the force on the particle?
+
+2022
+01:15:45,934 --> 01:15:48,454
+The force on the particle has no x component
+
+2023
+01:15:48,454 --> 01:15:50,954
+because the u by the x is equal to zero.
+
+2024
+01:15:53,034 --> 01:15:57,014
+The u by the y is equal to mg,
+
+2025
+01:15:59,394 --> 01:16:01,654
+but the force is minus that,
+
+2026
+01:16:01,774 --> 01:16:04,954
+so minus the u by the y is minus mg,
+
+2027
+01:16:06,914 --> 01:16:10,414
+and the minus sign represents the fact that
+
+2028
+01:16:10,494 --> 01:16:13,004
+the force is downward when we take
+
+2029
+01:16:13,004 --> 01:16:15,514
+the y axis to be pointing upward.
+
+2030
+01:16:15,814 --> 01:16:17,674
+So it's accelerated downward.
+
+2031
+01:16:19,274 --> 01:16:19,954
+All right,
+
+2032
+01:16:19,954 --> 01:16:20,834
+so let's add now,
+
+2033
+01:16:21,014 --> 01:16:21,874
+or subtract,
+
+2034
+01:16:21,874 --> 01:16:22,894
+as the case may be,
+
+2035
+01:16:22,954 --> 01:16:23,774
+the potential energy,
+
+2036
+01:16:23,774 --> 01:16:25,554
+minus mg y.
+
+2037
+01:16:33,894 --> 01:16:34,414
+Now,
+
+2038
+01:16:34,414 --> 01:16:36,354
+what kind of symmetry does this problem have?
+
+2039
+01:16:37,654 --> 01:16:38,174
+Well,
+
+2040
+01:16:38,174 --> 01:16:40,474
+it has translation symmetry along the x axis,
+
+2041
+01:16:40,494 --> 01:16:44,494
+and if I change x by a constant,
+
+2042
+01:16:44,734 --> 01:16:45,874
+it doesn't change x dot,
+
+2043
+01:16:46,134 --> 01:16:48,934
+and since the potential energy doesn't depend on x,
+
+2044
+01:16:49,414 --> 01:16:50,793
+the Lagrangian,
+
+2045
+01:16:50,793 --> 01:16:52,394
+this is Lagrangian,
+
+2046
+01:16:52,494 --> 01:16:57,353
+the Lagrangian is translation invariant along the x axis.
+
+2047
+01:16:57,793 --> 01:16:59,253
+It has x translation.
+
+2048
+01:16:59,614 --> 01:17:01,374
+How about y translation invariance?
+
+2049
+01:17:01,454 --> 01:17:03,174
+Does it have y translation invariance?
+
+2050
+01:17:03,374 --> 01:17:03,874
+No.
+
+2051
+01:17:04,194 --> 01:17:04,753
+No.
+
+2052
+01:17:04,753 --> 01:17:04,894
+Oh,
+
+2053
+01:17:04,894 --> 01:17:05,174
+y.
+
+2054
+01:17:05,574 --> 01:17:07,154
+Because of the y over here.
+
+2055
+01:17:07,974 --> 01:17:08,894
+Did you ask me y?
+
+2056
+01:17:10,494 --> 01:17:10,954
+No.
+
+2057
+01:17:10,954 --> 01:17:12,034
+For small y.
+
+2058
+01:17:12,774 --> 01:17:13,934
+For small y.
+
+2059
+01:17:14,234 --> 01:17:14,674
+Why?
+
+2060
+01:17:16,794 --> 01:17:18,054
+Why for small y?
+
+2061
+01:17:18,293 --> 01:17:19,054
+Stop first.
+
+2062
+01:17:21,774 --> 01:17:23,853
+If you stay close to the surface,
+
+2063
+01:17:23,853 --> 01:17:25,253
+it doesn't change much.
+
+2064
+01:17:26,094 --> 01:17:27,534
+Who's the president of China?
+
+2065
+01:17:30,082 --> 01:17:31,422
+哈哈哈哈
+
+2066
+01:17:34,882 --> 01:17:34,962
+What?
+
+2067
+01:17:37,242 --> 01:17:37,982
+Excuse me.
+
+2068
+01:17:38,182 --> 01:17:40,242
+I think it's because for small dy,
+
+2069
+01:17:40,462 --> 01:17:42,622
+the potential doesn't change very much.
+
+2070
+01:17:42,882 --> 01:17:43,982
+The small y?
+
+2071
+01:17:44,222 --> 01:17:44,542
+The small?
+
+2072
+01:17:44,882 --> 01:17:45,702
+I don't know.
+
+2073
+01:17:45,722 --> 01:17:46,462
+I don't know either.
+
+2074
+01:17:46,622 --> 01:17:47,662
+When you change y,
+
+2075
+01:17:47,662 --> 01:17:50,582
+the Lagrangian changes,
+
+2076
+01:17:51,301 --> 01:17:52,902
+because of the y that's here.
+
+2077
+01:17:53,642 --> 01:17:54,142
+Now notice,
+
+2078
+01:17:54,142 --> 01:17:54,862
+incidentally,
+
+2079
+01:17:54,862 --> 01:17:56,242
+let me point something else out.
+
+2080
+01:17:56,602 --> 01:17:58,082
+We can add a constant.
+
+2081
+01:17:58,382 --> 01:17:59,562
+This is something I should
+
+2082
+01:17:59,562 --> 01:18:00,742
+have pointed out a while ago.
+
+2083
+01:18:00,742 --> 01:18:04,482
+You can always add a constant to the potential energy,
+
+2084
+01:18:05,102 --> 01:18:06,002
+at no cost.
+
+2085
+01:18:06,262 --> 01:18:07,662
+It changes none of the physics.
+
+2086
+01:18:07,982 --> 01:18:09,422
+Now that constant has to
+
+2087
+01:18:09,422 --> 01:18:10,862
+be treated as a true constant
+
+2088
+01:18:10,862 --> 01:18:11,962
+throughout the problem.
+
+2089
+01:18:12,522 --> 01:18:13,942
+It doesn't change anything,
+
+2090
+01:18:14,102 --> 01:18:15,562
+because it doesn't change the force,
+
+2091
+01:18:15,562 --> 01:18:16,182
+the u by,
+
+2092
+01:18:16,182 --> 01:18:16,602
+well,
+
+2093
+01:18:16,662 --> 01:18:17,202
+the u by,
+
+2094
+01:18:17,202 --> 01:18:18,502
+if you add a constant,
+
+2095
+01:18:18,642 --> 01:18:21,522
+it doesn't change any of the derivatives of u,
+
+2096
+01:18:21,722 --> 01:18:23,742
+and so it doesn't change any of the forces.
+
+2097
+01:18:25,301 --> 01:18:28,322
+It resets the zero of potential energy,
+
+2098
+01:18:29,022 --> 01:18:30,502
+but there's no physical consequence
+
+2099
+01:18:30,502 --> 01:18:33,142
+of adding a constant to potential energy.
+
+2100
+01:18:33,882 --> 01:18:38,022
+So it doesn't matter where you measure the altitude from,
+
+2101
+01:18:38,222 --> 01:18:39,302
+whether it's sea level,
+
+2102
+01:18:39,481 --> 01:18:41,662
+or whether it's 10 meters above sea level,
+
+2103
+01:18:41,662 --> 01:18:42,922
+and so forth,
+
+2104
+01:18:43,582 --> 01:18:46,022
+but if you change y,
+
+2105
+01:18:46,022 --> 01:18:47,262
+you change u.
+
+2106
+01:18:48,622 --> 01:18:49,082
+All right,
+
+2107
+01:18:49,082 --> 01:18:49,882
+so with that logic,
+
+2108
+01:18:50,042 --> 01:18:52,542
+we should find one conservation law,
+
+2109
+01:18:52,542 --> 01:18:53,122
+not two.
+
+2110
+01:18:53,602 --> 01:18:56,862
+We should find one conservation law associated with x
+
+2111
+01:18:56,862 --> 01:18:58,392
+and not the corresponding conservation
+
+2112
+01:18:58,392 --> 01:18:59,922
+law with respect to y.
+
+2113
+01:19:00,502 --> 01:19:01,822
+Because there's only one symmetry.
+
+2114
+01:19:02,182 --> 01:19:03,122
+And in fact,
+
+2115
+01:19:03,122 --> 01:19:04,282
+if we work out the equations,
+
+2116
+01:19:04,422 --> 01:19:06,682
+the equations of motion will be
+
+2117
+01:19:06,682 --> 01:19:08,942
+dl by dx dot is mx dot,
+
+2118
+01:19:09,842 --> 01:19:11,462
+d by dt of that,
+
+2119
+01:19:11,462 --> 01:19:12,522
+that's called ma,
+
+2120
+01:19:12,522 --> 01:19:14,102
+mass times acceleration,
+
+2121
+01:19:14,662 --> 01:19:16,082
+and that's equal to zero.
+
+2122
+01:19:16,562 --> 01:19:17,382
+Why zero?
+
+2123
+01:19:17,582 --> 01:19:19,302
+Because u doesn't depend on x.
+
+2124
+01:19:20,662 --> 01:19:24,162
+This is just conservation of the x component of momentum.
+
+2125
+01:19:25,402 --> 01:19:28,282
+So the x component of momentum is conserved,
+
+2126
+01:19:28,921 --> 01:19:30,482
+but the y component of momentum is conserved,
+
+2127
+01:19:30,482 --> 01:19:30,482
+and so on.
+
+2128
+01:19:30,502 --> 01:19:30,902
+So the x component of momentum,
+
+2129
+01:19:30,902 --> 01:19:34,142
+d by dt of my dot,
+
+2130
+01:19:34,282 --> 01:19:37,342
+that's the time derivative of the y component of momentum,
+
+2131
+01:19:38,262 --> 01:19:43,342
+is the derivative of u with respect to y,
+
+2132
+01:19:44,882 --> 01:19:47,882
+derivative of minus u with respect to y.
+
+2133
+01:19:48,762 --> 01:19:51,242
+So that's equal to minus mg.
+
+2134
+01:19:53,602 --> 01:19:54,442
+Minus mg,
+
+2135
+01:19:54,442 --> 01:19:56,682
+du by dy is minus mg,
+
+2136
+01:19:56,682 --> 01:19:58,722
+or minus du by dy is minus mg.
+
+2137
+01:20:00,502 --> 01:20:01,642
+So what is this equation?
+
+2138
+01:20:01,942 --> 01:20:04,492
+This just tells me that the vertical
+
+2139
+01:20:04,492 --> 01:20:07,042
+acceleration is proportional to the force of gravity,
+
+2140
+01:20:07,222 --> 01:20:10,092
+or that the acceleration is
+
+2141
+01:20:10,092 --> 01:20:12,962
+equal to the acceleration of gravity.
+
+2142
+01:20:13,022 --> 01:20:14,462
+We can cancel out the m's here.
+
+2143
+01:20:15,422 --> 01:20:16,302
+But notice,
+
+2144
+01:20:16,302 --> 01:20:18,252
+the important thing is that there
+
+2145
+01:20:18,252 --> 01:20:20,202
+is no conservation of y momentum,
+
+2146
+01:20:20,582 --> 01:20:22,062
+of the y component of momentum.
+
+2147
+01:20:22,462 --> 01:20:24,732
+And that's associated with the fact that
+
+2148
+01:20:24,732 --> 01:20:27,002
+there is no symmetry associated with translation
+
+2149
+01:20:27,402 --> 01:20:28,742
+in the y direction.
+
+2150
+01:20:29,962 --> 01:20:30,222
+So I'm going to go back
+
+2151
+01:20:30,222 --> 01:20:30,482
+to the y component of momentum,
+
+2152
+01:20:30,482 --> 01:20:30,482
+and I'm going to go back to the
+
+2153
+01:20:30,502 --> 01:20:31,502
+y direction.
+
+2154
+01:20:33,142 --> 01:20:37,962
+I'm going to do one more example of a relationship,
+
+2155
+01:20:37,962 --> 01:20:38,562
+in particular,
+
+2156
+01:20:38,562 --> 01:20:40,402
+a relationship between symmetries
+
+2157
+01:20:40,402 --> 01:20:41,542
+and conservation laws.
+
+2158
+01:20:42,122 --> 01:20:42,982
+But also,
+
+2159
+01:20:42,982 --> 01:20:45,802
+it's an example in which
+
+2160
+01:20:45,802 --> 01:20:48,622
+I won't use rectangular coordinates.
+
+2161
+01:20:49,122 --> 01:20:52,142
+The band-naked observation here may be obvious,
+
+2162
+01:20:52,142 --> 01:20:53,422
+or maybe not.
+
+2163
+01:20:53,422 --> 01:20:53,682
+Yes,
+
+2164
+01:20:53,682 --> 01:20:54,022
+of course.
+
+2165
+01:20:54,222 --> 01:20:57,322
+But the equation that you've written for the Lagrangian,
+
+2166
+01:20:57,322 --> 01:20:58,082
+by no accident,
+
+2167
+01:20:58,082 --> 01:20:59,582
+for this falling
+
+2168
+01:20:59,582 --> 01:20:59,942
+body,
+
+2169
+01:20:59,942 --> 01:21:00,482
+is exactly the same.
+
+2170
+01:21:00,502 --> 01:21:00,742
+Exactly.
+
+2171
+01:21:01,302 --> 01:21:03,722
+The equation you would get if
+
+2172
+01:21:03,722 --> 01:21:06,142
+you did this with freshman classical physics,
+
+2173
+01:21:06,142 --> 01:21:07,622
+and mechanics
+
+2174
+01:21:07,622 --> 01:21:08,782
+problem for a falling body.
+
+2175
+01:21:09,122 --> 01:21:09,442
+Wait,
+
+2176
+01:21:09,442 --> 01:21:09,582
+wait,
+
+2177
+01:21:09,582 --> 01:21:09,962
+wait,
+
+2178
+01:21:09,962 --> 01:21:10,242
+wait.
+
+2179
+01:21:10,302 --> 01:21:11,722
+You would never write this down,
+
+2180
+01:21:11,722 --> 01:21:13,082
+the class with classical physics.
+
+2181
+01:21:13,222 --> 01:21:13,282
+No,
+
+2182
+01:21:13,282 --> 01:21:13,402
+no,
+
+2183
+01:21:13,402 --> 01:21:13,562
+no.
+
+2184
+01:21:13,582 --> 01:21:14,142
+I'm saying,
+
+2185
+01:21:14,142 --> 01:21:16,842
+you would say that there is conservation of energy.
+
+2186
+01:21:17,042 --> 01:21:19,272
+The fact that potential energy
+
+2187
+01:21:19,272 --> 01:21:21,502
+and the kinetic energy remain constant.
+
+2188
+01:21:21,742 --> 01:21:22,182
+So it's,
+
+2189
+01:21:22,182 --> 01:21:25,702
+I just wanted to point that out as reformulation,
+
+2190
+01:21:25,702 --> 01:21:27,042
+something we probably have
+
+2191
+01:21:27,042 --> 01:21:27,622
+already seen.
+
+2192
+01:21:27,662 --> 01:21:28,042
+The reason,
+
+2193
+01:21:28,042 --> 01:21:28,342
+yeah.
+
+2194
+01:21:28,662 --> 01:21:29,642
+So far,
+
+2195
+01:21:29,642 --> 01:21:30,482
+so far.
+
+2196
+01:21:30,482 --> 01:21:30,722
+So far,
+
+2197
+01:21:30,722 --> 01:21:32,202
+I haven't even talked about,
+
+2198
+01:21:32,202 --> 01:21:33,062
+in this context,
+
+2199
+01:21:33,062 --> 01:21:34,202
+conservation of energy.
+
+2200
+01:21:34,622 --> 01:21:36,002
+We will talk about it,
+
+2201
+01:21:36,002 --> 01:21:37,122
+and you'll be perfectly right.
+
+2202
+01:21:37,242 --> 01:21:39,742
+We'll find that in this structure,
+
+2203
+01:21:39,742 --> 01:21:41,122
+there's a conservation,
+
+2204
+01:21:41,122 --> 01:21:43,402
+not of kinetic energy minus
+
+2205
+01:21:43,402 --> 01:21:44,222
+potential energy,
+
+2206
+01:21:44,222 --> 01:21:46,282
+but kinetic energy plus potential energy.
+
+2207
+01:21:46,662 --> 01:21:48,842
+So it's going to require an extreme
+
+2208
+01:21:48,842 --> 01:21:51,022
+step to see that the energy is conserved.
+
+2209
+01:21:51,242 --> 01:21:52,841
+And we're going to want to ask the question,
+
+2210
+01:21:52,841 --> 01:21:54,642
+if energy is conserved,
+
+2211
+01:21:54,642 --> 01:21:56,382
+is it also conserved
+
+2212
+01:21:56,382 --> 01:21:58,062
+because of some symmetry?
+
+2213
+01:21:58,382 --> 01:21:58,942
+And if so,
+
+2214
+01:21:58,942 --> 01:21:59,602
+what symmetry?
+
+2215
+01:22:01,222 --> 01:22:02,942
+So we want to,
+
+2216
+01:22:02,942 --> 01:22:06,422
+we want to formulate our laws of,
+
+2217
+01:22:06,422 --> 01:22:09,222
+the basic law of physics now is that
+
+2218
+01:22:09,222 --> 01:22:11,242
+symmetries equal conservation laws.
+
+2219
+01:22:11,642 --> 01:22:12,822
+And we're going to want to see that.
+
+2220
+01:22:12,982 --> 01:22:16,242
+And that follows from the form of Lagrange's equations.
+
+2221
+01:22:16,502 --> 01:22:16,982
+But slow,
+
+2222
+01:22:16,982 --> 01:22:17,782
+little feet for little,
+
+2223
+01:22:17,782 --> 01:22:21,842
+little steps for little feet.
+
+2224
+01:22:24,962 --> 01:22:27,252
+The principle of least action does not
+
+2225
+01:22:27,252 --> 01:22:29,542
+really depend on the number of steps.
+
+2226
+01:22:29,542 --> 01:22:29,562
+The principle of least action does not
+
+2227
+01:22:29,562 --> 01:22:29,582
+really depend on the number of steps.
+
+2228
+01:22:29,582 --> 01:22:30,342
+So it depends when less actionニ
+
+2229
+01:22:30,342 --> 01:22:33,782
+depend on the coordinates will use to describe particles.
+
+2230
+01:22:34,222 --> 01:22:36,122
+Whatever coordinates you use,
+
+2231
+01:22:36,122 --> 01:22:38,462
+you could use polar coordinates,
+
+2232
+01:22:38,462 --> 01:22:39,562
+you could use rectangular
+
+2233
+01:22:39,562 --> 01:22:40,342
+coordinates,
+
+2234
+01:22:40,342 --> 01:22:43,042
+you could use parabolic coordinates
+
+2235
+01:22:43,582 --> 01:22:47,832
+you could use some screwball coordinates with
+
+2236
+01:22:47,832 --> 01:22:52,082
+curved fancy curved axes and so forth,
+
+2237
+01:22:52,302 --> 01:22:53,522
+you could always
+
+2238
+01:22:53,522 --> 01:22:53,782
+You can always
+
+2239
+01:22:53,782 --> 01:22:55,722
+Why are those screwballs?
+
+2240
+01:23:01,882 --> 01:23:05,742
+normal coordinates with curved axes and so forth
+
+2241
+01:23:07,222 --> 01:23:09,002
+use any coordinates you like
+
+2242
+01:23:09,002 --> 01:23:12,402
+you can rewrite the expression for the kinetic energy
+
+2243
+01:23:12,402 --> 01:23:15,522
+you can rewrite the expression for the potential energy
+
+2244
+01:23:15,522 --> 01:23:17,922
+it may look more complicated than other coordinates
+
+2245
+01:23:17,922 --> 01:23:21,702
+but you can rewrite the expression for kinetic energy
+
+2246
+01:23:21,702 --> 01:23:24,382
+potential energy and Lagrangian
+
+2247
+01:23:24,382 --> 01:23:27,342
+and you can rewrite the expression for the action
+
+2248
+01:23:27,342 --> 01:23:30,052
+the action may look more
+
+2249
+01:23:30,052 --> 01:23:32,762
+complicated in terms of other coordinates
+
+2250
+01:23:33,762 --> 01:23:36,522
+but it will still be the same good old action
+
+2251
+01:23:36,522 --> 01:23:38,412
+it will depend on the trajectory
+
+2252
+01:23:38,412 --> 01:23:40,302
+and give you the same answer
+
+2253
+01:23:40,302 --> 01:23:42,012
+that you would have gotten rectangular
+
+2254
+01:23:42,012 --> 01:23:43,722
+coordinates if you rewrite it correctly
+
+2255
+01:23:44,382 --> 01:23:46,462
+the fact that the action
+
+2256
+01:23:46,462 --> 01:23:48,542
+is minimized for the correct trajectory
+
+2257
+01:23:49,262 --> 01:23:50,912
+is a statement that doesn't
+
+2258
+01:23:50,912 --> 01:23:52,562
+depend on the coordinates you use
+
+2259
+01:23:52,562 --> 01:23:54,362
+so the principle of the equation is
+
+2260
+01:23:54,362 --> 01:23:55,202
+the principle of least action
+
+2261
+01:23:55,202 --> 01:23:59,522
+is a principle that is coordinate independent
+
+2262
+01:23:59,522 --> 01:24:02,122
+it doesn't depend on the specific coordinates
+
+2263
+01:24:02,122 --> 01:24:04,572
+and therefore you can apply it to any
+
+2264
+01:24:04,572 --> 01:24:07,022
+set of coordinates you use to describe a system
+
+2265
+01:24:07,822 --> 01:24:08,902
+I'm going to show you how
+
+2266
+01:24:08,902 --> 01:24:09,982
+you would do it for polar coordinates
+
+2267
+01:24:09,982 --> 01:24:11,802
+if we were talking about a particle again
+
+2268
+01:24:13,842 --> 01:24:16,152
+let's take the case of
+
+2269
+01:24:16,152 --> 01:24:18,462
+a particle moving in a plane
+
+2270
+01:24:19,542 --> 01:24:22,402
+and now instead of describing it by x and y
+
+2271
+01:24:23,162 --> 01:24:25,542
+let's describe it by r and theta
+
+2272
+01:24:25,962 --> 01:24:27,542
+distance from the origin r
+
+2273
+01:24:27,902 --> 01:24:30,422
+and angle relative to the horizontal theta
+
+2274
+01:24:33,002 --> 01:24:35,202
+we have to write the Lagrangian
+
+2275
+01:24:36,102 --> 01:24:37,562
+then we'll write Lagrangian's equations
+
+2276
+01:24:37,562 --> 01:24:39,202
+it's a system with two coordinates
+
+2277
+01:24:39,722 --> 01:24:40,442
+r and theta
+
+2278
+01:24:41,402 --> 01:24:43,342
+and a trajectory will now
+
+2279
+01:24:43,342 --> 01:24:45,282
+consist of an r of t
+
+2280
+01:24:46,302 --> 01:24:47,722
+and a theta of t
+
+2281
+01:24:49,062 --> 01:24:51,282
+in other words at every instant of time
+
+2282
+01:24:51,282 --> 01:24:52,792
+we have to define the distance
+
+2283
+01:24:52,792 --> 01:24:54,302
+from the origin and the angle
+
+2284
+01:24:54,302 --> 01:24:56,582
+that determines the trajectory of the particle
+
+2285
+01:24:57,642 --> 01:25:01,122
+okay let's work out the kinetic energy first
+
+2286
+01:25:01,122 --> 01:25:03,562
+the kinetic energy is one half mv squared
+
+2287
+01:25:03,562 --> 01:25:05,542
+so what we have to do is we
+
+2288
+01:25:05,542 --> 01:25:07,522
+have to calculate the magnitude of the velocity
+
+2289
+01:25:08,482 --> 01:25:09,562
+to do that
+
+2290
+01:25:10,302 --> 01:25:12,542
+let's temporarily set up some
+
+2291
+01:25:12,542 --> 01:25:14,782
+coordinates at this point over here
+
+2292
+01:25:14,782 --> 01:25:15,762
+the point of the particle
+
+2293
+01:25:15,762 --> 01:25:18,512
+where one axis is along r and
+
+2294
+01:25:18,512 --> 01:25:21,262
+the other axis points r and theta
+
+2295
+01:25:21,282 --> 01:25:22,782
+in what I'll call the theta direction
+
+2296
+01:25:23,382 --> 01:25:25,322
+sort of along the angular direction
+
+2297
+01:25:25,941 --> 01:25:27,961
+but temporarily for the moment let's
+
+2298
+01:25:27,961 --> 01:25:29,982
+just think of them as Cartesian coordinates
+
+2299
+01:25:30,842 --> 01:25:32,502
+except erected right at this point
+
+2300
+01:25:33,582 --> 01:25:35,542
+then the velocity has two components
+
+2301
+01:25:36,682 --> 01:25:39,022
+one of them is the component along r
+
+2302
+01:25:39,842 --> 01:25:41,302
+and you will not be surprised
+
+2303
+01:25:41,302 --> 01:25:42,922
+I will not work this out for you
+
+2304
+01:25:42,922 --> 01:25:44,482
+but you won't be surprised I think
+
+2305
+01:25:44,902 --> 01:25:46,562
+if I tell you that
+
+2306
+01:25:46,562 --> 01:25:48,222
+the component of velocity along r
+
+2307
+01:25:49,222 --> 01:25:50,682
+alright that's v sub r
+
+2308
+01:25:50,682 --> 01:25:54,482
+velocity along the r direction is just r dot
+
+2309
+01:25:54,482 --> 01:25:58,912
+if r is changing then there's
+
+2310
+01:25:58,912 --> 01:26:03,342
+a component of the velocity along r
+
+2311
+01:26:03,342 --> 01:26:05,502
+and it's just the r dot
+
+2312
+01:26:05,502 --> 01:26:07,672
+what about the component of
+
+2313
+01:26:07,672 --> 01:26:09,842
+velocity in the perpendicular direction
+
+2314
+01:26:10,382 --> 01:26:11,262
+how big is it
+
+2315
+01:26:11,262 --> 01:26:14,162
+you might think it's just theta dot
+
+2316
+01:26:15,462 --> 01:26:17,882
+this is v along the other axis
+
+2317
+01:26:18,782 --> 01:26:20,482
+I don't want to call it v theta
+
+2318
+01:26:20,482 --> 01:26:20,662
+I just want to call it theta dot
+
+2319
+01:26:20,682 --> 01:26:22,242
+I'm just going to call
+
+2320
+01:26:22,242 --> 01:26:23,802
+it v along the perpendicular axis
+
+2321
+01:26:24,582 --> 01:26:25,842
+perpendicular to r
+
+2322
+01:26:26,802 --> 01:26:27,862
+how big is that
+
+2323
+01:26:30,842 --> 01:26:32,882
+it's not theta dot
+
+2324
+01:26:34,562 --> 01:26:35,802
+but it's r theta dot
+
+2325
+01:26:35,802 --> 01:26:36,602
+how do you see that
+
+2326
+01:26:37,942 --> 01:26:41,322
+well supposing the particle is near the origin over here
+
+2327
+01:26:41,322 --> 01:26:44,802
+and you change theta a little bit per unit time
+
+2328
+01:26:44,802 --> 01:26:47,482
+then it moves a little and has a certain velocity
+
+2329
+01:26:48,162 --> 01:26:49,412
+suppose you change the angle by the same
+
+2330
+01:26:49,412 --> 01:26:50,662
+amount of velocity along r and theta dot
+
+2331
+01:26:50,682 --> 01:26:53,082
+but the distance of the particle is far away
+
+2332
+01:26:54,482 --> 01:26:56,962
+then it moves a lot more
+
+2333
+01:26:57,662 --> 01:26:59,202
+so the further out you are
+
+2334
+01:26:59,922 --> 01:27:01,242
+for a given theta dot
+
+2335
+01:27:01,242 --> 01:27:03,562
+for a given theta dot
+
+2336
+01:27:03,562 --> 01:27:05,322
+the further out you are
+
+2337
+01:27:05,322 --> 01:27:07,002
+the faster you're moving
+
+2338
+01:27:07,002 --> 01:27:08,962
+the tips of my fingers
+
+2339
+01:27:08,962 --> 01:27:10,922
+are moving faster than my elbow
+
+2340
+01:27:12,382 --> 01:27:14,282
+and in fact the velocity is
+
+2341
+01:27:14,282 --> 01:27:16,182
+proportional to how far away you are
+
+2342
+01:27:17,222 --> 01:27:19,002
+but it's also proportional to theta dot
+
+2343
+01:27:19,002 --> 01:27:20,602
+because if theta dot was zero
+
+2344
+01:27:20,602 --> 01:27:22,362
+if there was no change in the angle
+
+2345
+01:27:22,362 --> 01:27:25,282
+you would have no component of velocity along that direction
+
+2346
+01:27:25,282 --> 01:27:27,842
+so these are the two components of velocity
+
+2347
+01:27:28,522 --> 01:27:30,122
+and the kinetic energy
+
+2348
+01:27:31,321 --> 01:27:32,562
+is one half m
+
+2349
+01:27:32,562 --> 01:27:36,182
+times the r component of the velocity squared
+
+2350
+01:27:36,542 --> 01:27:37,482
+r dot squared
+
+2351
+01:27:38,961 --> 01:27:40,582
+plus one half m
+
+2352
+01:27:43,182 --> 01:27:45,082
+times v perpendicular squared
+
+2353
+01:27:45,422 --> 01:27:46,662
+which is r squared
+
+2354
+01:27:47,562 --> 01:27:48,542
+theta dot squared
+
+2355
+01:27:51,062 --> 01:27:52,562
+this is the kinetic energy
+
+2356
+01:27:53,122 --> 01:27:55,122
+now let's invent the potential energy
+
+2357
+01:27:56,382 --> 01:27:59,502
+I'm going to invent a special kind of potential energy
+
+2358
+01:28:00,262 --> 01:28:01,802
+which is called the central force
+
+2359
+01:28:02,642 --> 01:28:04,642
+central force means that the
+
+2360
+01:28:04,642 --> 01:28:06,642
+potential energy only depends on distance
+
+2361
+01:28:10,302 --> 01:28:10,862
+sorry,
+
+2362
+01:28:10,862 --> 01:28:13,842
+r dot squared,
+
+2363
+01:28:13,842 --> 01:28:14,402
+thank you
+
+2364
+01:28:15,202 --> 01:28:16,142
+r dot squared,
+
+2365
+01:28:16,142 --> 01:28:17,282
+mv squared
+
+2366
+01:28:18,202 --> 01:28:20,442
+so there's one half m r dot squared
+
+2367
+01:28:20,602 --> 01:28:23,382
+and one half m r squared times theta dot squared
+
+2368
+01:28:24,162 --> 01:28:26,682
+now let's introduce a potential energy
+
+2369
+01:28:27,222 --> 01:28:28,962
+and let's make the potential energy
+
+2370
+01:28:28,962 --> 01:28:30,922
+that only depends on r
+
+2371
+01:28:31,982 --> 01:28:33,402
+only depends on distance
+
+2372
+01:28:36,162 --> 01:28:37,422
+that's a special case
+
+2373
+01:28:37,422 --> 01:28:39,162
+but it's a special case with symmetry
+
+2374
+01:28:39,162 --> 01:28:40,702
+what is the symmetry that's involved
+
+2375
+01:28:40,702 --> 01:28:42,142
+if I say that the
+
+2376
+01:28:42,142 --> 01:28:43,582
+potential energy only depends on distance
+
+2377
+01:28:45,341 --> 01:28:46,382
+rotational symmetry
+
+2378
+01:28:47,282 --> 01:28:48,162
+what that would say
+
+2379
+01:28:48,742 --> 01:28:49,662
+is that nothing changes if I
+
+2380
+01:28:49,662 --> 01:28:50,582
+step back to my first-person view
+
+2381
+01:28:50,602 --> 01:28:51,662
+rotate everything,
+
+2382
+01:28:51,662 --> 01:28:55,402
+if the potential energy only depends on distance,
+
+2383
+01:28:55,402 --> 01:28:57,002
+only
+
+2384
+01:28:57,682 --> 01:28:58,562
+depends on distance,
+
+2385
+01:28:58,562 --> 01:29:01,522
+that means the potential energy does not change if I
+
+2386
+01:29:01,522 --> 01:29:03,302
+rotate the position of the particle,
+
+2387
+01:29:03,302 --> 01:29:04,602
+or if I rotate the axes,
+
+2388
+01:29:04,602 --> 01:29:06,242
+if I just
+
+2389
+01:29:06,242 --> 01:29:08,472
+physically take the particle and
+
+2390
+01:29:08,472 --> 01:29:10,702
+rotate it without stretching R,
+
+2391
+01:29:10,702 --> 01:29:11,882
+then the
+
+2392
+01:29:11,882 --> 01:29:14,252
+potential energy doesn't change if the
+
+2393
+01:29:14,252 --> 01:29:16,622
+potential energy only depends on R.
+
+2394
+01:29:25,961 --> 01:29:26,402
+Yes,
+
+2395
+01:29:26,402 --> 01:29:29,102
+but it doesn't depend on theta.
+
+2396
+01:29:29,102 --> 01:29:29,942
+Yeah,
+
+2397
+01:29:29,942 --> 01:29:30,742
+yeah,
+
+2398
+01:29:30,742 --> 01:29:31,462
+but it doesn't.
+
+2399
+01:29:31,462 --> 01:29:32,002
+It doesn't.
+
+2400
+01:29:32,002 --> 01:29:33,102
+It depends only on theta dot,
+
+2401
+01:29:33,102 --> 01:29:34,162
+so if we change all
+
+2402
+01:29:34,162 --> 01:29:35,482
+thetas by the same amount,
+
+2403
+01:29:35,482 --> 01:29:36,442
+yeah,
+
+2404
+01:29:36,442 --> 01:29:37,162
+that's correct.
+
+2405
+01:29:37,162 --> 01:29:38,542
+We have to check that,
+
+2406
+01:29:38,542 --> 01:29:40,822
+but as you
+
+2407
+01:29:40,822 --> 01:29:41,182
+can see,
+
+2408
+01:29:41,182 --> 01:29:42,592
+because it only depends on
+
+2409
+01:29:42,592 --> 01:29:44,002
+theta dot and not theta explicitly,
+
+2410
+01:29:44,002 --> 01:29:45,322
+then if I
+
+2411
+01:29:45,322 --> 01:29:46,502
+shift all thetas,
+
+2412
+01:29:46,502 --> 01:29:48,122
+in other words,
+
+2413
+01:29:48,122 --> 01:29:48,722
+I say theta,
+
+2414
+01:29:48,722 --> 01:29:50,042
+you know what I mean.
+
+2415
+01:29:50,142 --> 01:29:50,582
+Okay.
+
+2416
+01:29:51,402 --> 01:29:54,702
+So then we have minus U of R.
+
+2417
+01:29:54,702 --> 01:29:59,742
+Minus U of R.
+
+2418
+01:29:59,742 --> 01:30:04,562
+Let's work out now the Lagrange
+
+2419
+01:30:04,562 --> 01:30:05,442
+equations of motion.
+
+2420
+01:30:05,442 --> 01:30:08,602
+The Q's are R and theta.
+
+2421
+01:30:08,602 --> 01:30:11,382
+So all we have to work out is,
+
+2422
+01:30:11,662 --> 01:30:12,402
+first of all,
+
+2423
+01:30:12,402 --> 01:30:12,782
+for R,
+
+2424
+01:30:12,782 --> 01:30:13,622
+let's start with R.
+
+2425
+01:30:13,622 --> 01:30:17,022
+Partial of L with respect to R dot,
+
+2426
+01:30:17,742 --> 01:30:18,342
+incidentally,
+
+2427
+01:30:18,342 --> 01:30:18,842
+this is L.
+
+2428
+01:30:18,842 --> 01:30:19,622
+L is
+
+2429
+01:30:19,622 --> 01:30:21,482
+kinetic minus potential.
+
+2430
+01:30:21,482 --> 01:30:23,742
+Partial of L with respect
+
+2431
+01:30:23,742 --> 01:30:26,002
+to R dot is MR dot.
+
+2432
+01:30:26,002 --> 01:30:29,882
+That's also equal
+
+2433
+01:30:29,882 --> 01:30:32,582
+to the momentum conjugate to R.
+
+2434
+01:30:32,582 --> 01:30:35,882
+It's just a radial component of momentum.
+
+2435
+01:30:35,882 --> 01:30:38,762
+MR dot or
+
+2436
+01:30:38,762 --> 01:30:41,402
+M times the velocity in the R direction.
+
+2437
+01:30:41,402 --> 01:30:42,982
+Not surprisingly,
+
+2438
+01:30:42,982 --> 01:30:44,862
+that's the radial component
+
+2439
+01:30:44,862 --> 01:30:46,022
+of the linear momentum.
+
+2440
+01:30:46,842 --> 01:30:47,822
+All right.
+
+2441
+01:30:47,842 --> 01:30:49,402
+Then Lagrange's equations,
+
+2442
+01:30:49,402 --> 01:30:49,502
+but we're going to do
+
+2443
+01:30:49,502 --> 01:30:49,602
+them in a little bit later.
+
+2444
+01:30:49,602 --> 01:30:49,602
+We're going
+
+2445
+01:30:49,622 --> 01:30:49,862
+to have
+
+2446
+01:30:49,862 --> 01:30:50,562
+a few ch desta,
+
+2447
+01:30:50,562 --> 01:31:01,922
+and we're going to divide them by the radius equals
+
+2448
+01:31:03,302 --> 01:31:04,002
+B,
+
+2449
+01:31:04,002 --> 01:31:04,222
+which we'll get in a moment.
+
+2450
+01:31:04,222 --> 01:31:06,522
+So Lagrange has one radius equal to the radius.
+
+2451
+01:31:06,802 --> 01:31:07,062
+So you can run your
+
+2452
+01:31:11,522 --> 01:31:12,382
+Lares☆A error into the
+
+2453
+01:31:12,382 --> 01:31:12,702
+So now the teacher can
+
+2454
+01:31:12,702 --> 01:31:13,022
+see that he has the third
+
+2455
+01:31:13,022 --> 01:31:13,282
+함 to
+
+2456
+01:31:13,282 --> 01:31:13,922
+stupid
+
+2457
+01:31:14,342 --> 01:31:17,242
+and that 2 it equal...
+
+2458
+01:31:17,242 --> 01:31:20,162
+the mass times the second derivative
+
+2459
+01:31:20,162 --> 01:31:23,082
+of r is du by dr.
+
+2460
+01:31:23,082 --> 01:31:24,422
+Notice that the radial component
+
+2461
+01:31:24,742 --> 01:31:26,862
+of the momentum is not conserved.
+
+2462
+01:31:26,862 --> 01:31:31,902
+We can write this as d
+
+2463
+01:31:31,902 --> 01:31:36,942
+by dt of the radial component of
+
+2464
+01:31:36,942 --> 01:31:39,102
+momentum not equal to zero,
+
+2465
+01:31:39,102 --> 01:31:41,082
+but it's equal to minus du by dr.
+
+2466
+01:31:41,082 --> 01:31:44,522
+So there is no conservation
+
+2467
+01:31:44,522 --> 01:31:46,402
+of radial momentum.
+
+2468
+01:31:46,402 --> 01:31:50,242
+Let's look at the angular equation of motion now.
+
+2469
+01:31:50,242 --> 01:31:51,442
+The angular equation
+
+2470
+01:31:51,442 --> 01:31:52,042
+of motion,
+
+2471
+01:31:52,042 --> 01:31:53,362
+the equation of motion for theta.
+
+2472
+01:31:53,362 --> 01:31:55,702
+Same deal.
+
+2473
+01:31:55,702 --> 01:31:57,722
+Just think of theta as a generalized
+
+2474
+01:31:57,722 --> 01:31:58,162
+coordinate,
+
+2475
+01:31:58,162 --> 01:32:01,582
+partial of L with respect to theta dot,
+
+2476
+01:32:01,582 --> 01:32:05,262
+that's mr squared theta dot.
+
+2477
+01:32:05,262 --> 01:32:07,822
+What's its
+
+2478
+01:32:07,822 --> 01:32:08,362
+name?
+
+2479
+01:32:08,362 --> 01:32:09,762
+What's the name for that object?
+
+2480
+01:32:09,762 --> 01:32:14,502
+Canonical momentum conjugation of momentum.
+
+2481
+01:32:14,502 --> 01:32:14,502
+So we have
+
+2482
+01:32:28,422 --> 01:32:39,122
+L by dr of L with respect to L.
+
+2483
+01:32:39,122 --> 01:32:43,842
+It's a series of
+
+2484
+01:32:44,522 --> 01:32:44,782
+r dot,
+
+2485
+01:32:44,782 --> 01:32:47,182
+momentum conjugate to r.
+
+2486
+01:32:47,182 --> 01:32:48,902
+dL by d theta dot,
+
+2487
+01:32:48,902 --> 01:32:50,962
+momentum conjugate to theta.
+
+2488
+01:32:50,962 --> 01:32:52,342
+Now,
+
+2489
+01:32:52,342 --> 01:32:53,002
+now
+
+2490
+01:32:53,002 --> 01:32:54,842
+what is the equation of motion for theta?
+
+2491
+01:32:54,842 --> 01:32:57,322
+It's d by dt of this,
+
+2492
+01:32:57,322 --> 01:33:03,342
+d by dt of mr squared
+
+2493
+01:33:03,342 --> 01:33:07,022
+theta dot is equal to what?
+
+2494
+01:33:07,022 --> 01:33:08,882
+Zero.
+
+2495
+01:33:08,882 --> 01:33:12,542
+Zero in this case because u doesn't depend on theta
+
+2496
+01:33:12,542 --> 01:33:13,202
+by assumption.
+
+2497
+01:33:13,202 --> 01:33:20,242
+d by dt of something equals zero,
+
+2498
+01:33:20,242 --> 01:33:22,102
+that says that that something doesn't
+
+2499
+01:33:22,102 --> 01:33:22,442
+change.
+
+2500
+01:33:22,442 --> 01:33:25,342
+So this is an equation of conservation.
+
+2501
+01:33:25,342 --> 01:33:29,702
+It's conservation of mr squared theta dot
+
+2502
+01:33:29,702 --> 01:33:31,802
+or conservation of angular momentum.
+
+2503
+01:33:31,802 --> 01:33:36,742
+When the force or when the potential energy doesn't
+
+2504
+01:33:36,742 --> 01:33:37,622
+depend on angle,
+
+2505
+01:33:37,622 --> 01:33:40,072
+then the force is equal to
+
+2506
+01:33:40,072 --> 01:33:42,522
+the angle of the potential energy.
+
+2507
+01:33:42,522 --> 01:33:42,522
+So this
+
+2508
+01:33:42,542 --> 01:33:42,542
+is an equation of conservation of angular momentum.
+
+2509
+01:33:42,542 --> 01:33:45,182
+Then angular momentum is conserved.
+
+2510
+01:33:45,462 --> 01:33:47,662
+It's usually called L incidentally.
+
+2511
+01:33:47,662 --> 01:33:50,102
+This is usually called L.
+
+2512
+01:33:50,102 --> 01:33:55,002
+So it says that L is conserved.
+
+2513
+01:34:00,502 --> 01:34:02,122
+In fact that allows us,
+
+2514
+01:34:02,122 --> 01:34:04,152
+that gives us a good clue about
+
+2515
+01:34:04,152 --> 01:34:06,182
+the nature of the motion of the
+
+2516
+01:34:06,182 --> 01:34:06,542
+system.
+
+2517
+01:34:06,542 --> 01:34:08,802
+If L is conserved,
+
+2518
+01:34:08,802 --> 01:34:12,522
+then angular momentum is conserved.
+
+2519
+01:34:12,522 --> 01:34:12,522
+So if L is conserved,
+
+2520
+01:34:12,522 --> 01:34:12,522
+then angular
+
+2521
+01:34:12,542 --> 01:34:13,022
+momentum is conserved.
+
+2522
+01:34:13,022 --> 01:34:13,302
+It'sствие was,
+
+2523
+01:34:13,302 --> 01:34:14,982
+let's say,
+
+2524
+01:34:14,982 --> 01:34:15,342
+we get so concerned
+
+2525
+01:34:15,342 --> 01:34:15,402
+and also part of that is
+
+2526
+01:34:15,402 --> 01:34:15,462
+that the angular momentum is Squeeze,
+
+2527
+01:34:15,462 --> 01:34:15,462
+if the angular momentum
+
+2528
+01:34:15,462 --> 01:34:15,462
+time of the motion is Mr squared d by dt.
+
+2529
+01:34:15,462 --> 01:34:16,562
+So what we see is that m r squared theta
+
+2530
+01:34:16,562 --> 01:34:17,422
+dot doesn't change.
+
+2531
+01:34:17,422 --> 01:34:20,712
+So it says that M R squared theta
+
+2532
+01:34:20,712 --> 01:34:24,002
+dot is equal to a constant it doesn't
+
+2533
+01:34:24,002 --> 01:34:24,762
+change with time,
+
+2534
+01:34:24,762 --> 01:34:26,402
+it's whatever it was when you began.
+
+2535
+01:34:26,402 --> 01:34:28,862
+However you began the motion,
+
+2536
+01:34:28,862 --> 01:34:30,262
+the
+
+2537
+01:34:30,262 --> 01:34:31,722
+angular momentum doesn't change.
+
+2538
+01:34:31,722 --> 01:34:32,822
+Well,
+
+2539
+01:34:32,822 --> 01:34:36,802
+you can solve this and write that theta dot is
+
+2540
+01:34:36,802 --> 01:34:39,762
+equal to the constant over m r squared.
+
+2541
+01:34:39,762 --> 01:34:42,402
+So you see what happens
+
+2542
+01:34:42,402 --> 01:34:45,042
+as r goes in and out
+
+2543
+01:34:45,042 --> 01:34:46,201
+for whatever reason,
+
+2544
+01:34:46,201 --> 01:34:48,401
+as r perhaps either oscillates
+
+2545
+01:34:48,401 --> 01:34:50,602
+or gets bigger or gets smaller,
+
+2546
+01:34:50,602 --> 01:34:52,122
+theta dot
+
+2547
+01:34:52,122 --> 01:34:53,422
+changes to compensate.
+
+2548
+01:34:53,422 --> 01:34:57,741
+This is just the spinning ice skater effect.
+
+2549
+01:34:57,741 --> 01:35:00,042
+As r gets smaller,
+
+2550
+01:35:00,042 --> 01:35:01,582
+theta
+
+2551
+01:35:01,582 --> 01:35:02,342
+dot gets bigger.
+
+2552
+01:35:02,342 --> 01:35:05,462
+It's the conservation of angular momentum.
+
+2553
+01:35:05,462 --> 01:35:07,982
+But you see it arises once
+
+2554
+01:35:07,982 --> 01:35:08,962
+again from a symmetry.
+
+2555
+01:35:08,962 --> 01:35:12,802
+The symmetry in this case being rotational invariance.
+
+2556
+01:35:12,802 --> 01:35:14,602
+Rotational
+
+2557
+01:35:14,602 --> 01:35:15,422
+invariance,
+
+2558
+01:35:15,422 --> 01:35:17,322
+angular momentum conservation.
+
+2559
+01:35:17,322 --> 01:35:20,102
+Translation invariance,
+
+2560
+01:35:20,102 --> 01:35:20,822
+linear momentum,
+
+2561
+01:35:20,822 --> 01:35:21,402
+linear
+
+2562
+01:35:21,402 --> 01:35:22,042
+conservation.
+
+2563
+01:35:23,222 --> 01:35:24,502
+That's the pattern.
+
+2564
+01:35:32,662 --> 01:35:36,162
+The preceding program is copyrighted by Stanford University.
+
+2565
+01:35:36,162 --> 01:35:39,022
+Please visit us at stanford.edu.
+
+2566
+01:35:40,162 --> 01:35:41,002
+END
+
