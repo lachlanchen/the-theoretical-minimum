@@ -3,7 +3,6 @@ from __future__ import annotations
 
 import argparse
 import json
-import os
 import shutil
 import subprocess
 import sys
@@ -16,6 +15,7 @@ DEFAULT_SOURCE_ROOT = Path(
 DEFAULT_WHISPER_SCRIPT = Path(
     "/home/lachlan/ProjectsLFS/whisper_with_lang_detect/vad_lang_subtitle.py"
 )
+DEFAULT_FALLBACK_SCRIPT = Path(__file__).with_name("fallback_whisper_transcribe.py")
 DEFAULT_CONDA_ENV = "whisper"
 DEFAULT_MODEL = "large-v3"
 VIDEO_EXTENSIONS = {".mp4", ".mkv", ".webm", ".m4a", ".mp3"}
@@ -207,8 +207,38 @@ def transcribe_video(
         model,
     ]
 
+    fallback_command = [
+        "conda",
+        "run",
+        "-n",
+        conda_env,
+        "python",
+        str(DEFAULT_FALLBACK_SCRIPT),
+        "--input",
+        str(work_video),
+        "--json-output",
+        str(work_json),
+        "--srt-output",
+        str(work_srt),
+        "--model",
+        model,
+        "--language",
+        "en",
+    ]
+
     try:
-        subprocess.run(command, check=True)
+        try:
+            subprocess.run(command, check=True)
+        except subprocess.CalledProcessError as exc:
+            fallback_input = work_wav if work_wav.exists() else work_video
+            fallback_command[fallback_command.index(str(work_video))] = str(fallback_input)
+            print(
+                "Primary subtitle engine failed for "
+                f"{source_rel.as_posix()} with exit {exc.returncode}; "
+                "falling back to direct Whisper."
+            )
+            cleanup_paths([work_srt, work_json])
+            subprocess.run(fallback_command, check=True)
         if not work_srt.exists():
             raise FileNotFoundError(f"Subtitle output not produced: {work_srt}")
         if not work_json.exists():
