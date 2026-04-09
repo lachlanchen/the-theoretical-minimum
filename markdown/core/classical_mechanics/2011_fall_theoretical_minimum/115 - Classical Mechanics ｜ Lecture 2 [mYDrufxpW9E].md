@@ -1,0 +1,2537 @@
+# Transcript
+
+Source: core/classical_mechanics/2011_fall_theoretical_minimum/115 - Classical Mechanics ｜ Lecture 2 [mYDrufxpW9E].webm
+
+- [00:00:04,739 - 00:00:06,160] Stanford University.
+- [00:00:12,540 - 00:00:16,120] We're going to begin today with the laws of motion.
+- [00:00:17,640 - 00:00:23,000] And it's described by a very famous physicist,
+- [00:00:24,139 - 00:00:26,120] his name was Isaac,
+- [00:00:26,120 - 00:00:34,640] almost 2,000 years before Isaac.
+- [00:00:37,300 - 00:00:39,800] Not only was it 2,000
+- [00:00:39,800 - 00:00:42,300] years or 1,800 years before 1800,
+- [00:00:42,300 - 00:00:43,360] he got it wrong.
+- [00:00:43,920 - 00:00:44,900] But nevertheless,
+- [00:00:44,900 - 00:00:47,060] we are going to spend a little bit
+- [00:00:47,060 - 00:00:49,220] of time talking about Aristotle's laws of motion,
+- [00:00:49,400 - 00:00:51,240] or Aristotle's law of motion.
+- [00:00:51,880 - 00:00:52,480] Now,
+- [00:00:52,480 - 00:00:52,980] Aristotle's laws of motion,
+- [00:00:53,000 - 00:00:54,700] Aristotle used to know how to write equations,
+- [00:00:55,320 - 00:00:57,120] so he did write equations,
+- [00:00:57,860 - 00:01:00,220] but he used words to describe motion.
+- [00:01:02,300 - 00:01:04,980] The reason he got it wrong is because
+- [00:01:04,980 - 00:01:07,660] he lived in a world dominated by friction.
+- [00:01:08,900 - 00:01:10,860] In a world dominated by friction,
+- [00:01:12,940 - 00:01:15,040] if you apply forces to objects,
+- [00:01:16,920 - 00:01:18,600] and then there's a force,
+- [00:01:18,600 - 00:01:20,020] and you stop the force,
+- [00:01:20,220 - 00:01:20,420] yeah,
+- [00:01:20,420 - 00:01:20,840] it stops.
+- [00:01:22,000 - 00:01:23,890] The object only moves while there's
+- [00:01:23,890 - 00:01:25,780] a force being applied to it.
+- [00:01:26,420 - 00:01:28,260] The heavier the object is,
+- [00:01:28,260 - 00:01:29,680] Aristotle knew this,
+- [00:01:29,700 - 00:01:32,260] he was completely started,
+- [00:01:32,780 - 00:01:34,360] he knew the heavier the object,
+- [00:01:34,940 - 00:01:36,360] the harder you have to push
+- [00:01:36,360 - 00:01:37,780] it to give it a certain velocity.
+- [00:01:39,800 - 00:01:43,040] And he also knew the harder you push it,
+- [00:01:43,040 - 00:01:44,180] the faster it goes.
+- [00:01:45,460 - 00:01:47,870] So Aristotle believed that the
+- [00:01:47,870 - 00:01:50,280] connection between forces and motion,
+- [00:01:50,280 - 00:01:54,500] were that the velocity of an object,
+- [00:01:55,280 - 00:01:57,980] is proportional to the force that you put on it,
+- [00:01:58,200 - 00:02:00,020] not the acceleration,
+- [00:02:00,420 - 00:02:00,960] because,
+- [00:02:02,259 - 00:02:03,880] what is wrong with this?
+- [00:02:11,119 - 00:02:11,799] Yeah,
+- [00:02:11,799 - 00:02:13,980] he thought that velocity,
+- [00:02:15,000 - 00:02:17,280] was the natural consequence of force.
+- [00:02:19,100 - 00:02:20,540] It's quite clear that Aristotle,
+- [00:02:20,540 - 00:02:22,000] as I said in the notes,
+- [00:02:22,160 - 00:02:23,280] had never gone ice skating.
+- [00:02:23,620 - 00:02:24,940] Had he gone ice skating,
+- [00:02:25,100 - 00:02:27,340] he would have realized that
+- [00:02:27,340 - 00:02:29,580] it takes force to change motion,
+- [00:02:29,840 - 00:02:31,200] to stop an object.
+- [00:02:31,580 - 00:02:34,120] You can't stop without force being observed,
+- [00:02:34,280 - 00:02:36,740] you can't get started without force being observed.
+- [00:02:37,440 - 00:02:39,790] So he would have known that there
+- [00:02:39,790 - 00:02:42,140] was something wrong with his law of motion,
+- [00:02:42,300 - 00:02:44,580] that said that force was proportional to velocity.
+- [00:02:45,300 - 00:02:46,140] But nevertheless,
+- [00:02:46,140 - 00:02:50,560] it's an interesting law to study a little bit,
+- [00:02:50,740 - 00:02:52,250] and to see if we
+- [00:02:52,250 - 00:02:53,760] can find anything wrong with it,
+- [00:02:53,860 - 00:02:55,310] from the point of view
+- [00:02:55,310 - 00:02:56,760] of things we have already discussed.
+- [00:02:57,100 - 00:02:58,520] And one of the things we've already discussed,
+- [00:02:58,740 - 00:03:02,140] is the reversibility of laws of physics.
+- [00:03:04,160 - 00:03:05,040] Reversibility meaning,
+- [00:03:05,880 - 00:03:07,760] that you don't lose information,
+- [00:03:08,100 - 00:03:09,900] that you don't,
+- [00:03:10,760 - 00:03:13,920] that you can recoup the past,
+- [00:03:14,080 - 00:03:15,180] as well as the future,
+- [00:03:15,180 - 00:03:16,600] in the laws of physics.
+- [00:03:19,600 - 00:03:20,200] Well,
+- [00:03:20,200 - 00:03:23,440] see what Aristotle's laws have to say about that.
+- [00:03:24,060 - 00:03:25,640] It's not completely definitive,
+- [00:03:26,460 - 00:03:27,220] you'll see,
+- [00:03:27,220 - 00:03:28,020] you'll see what I mean.
+- [00:03:28,240 - 00:03:30,860] But it goes in the wrong direction,
+- [00:03:30,940 - 00:03:32,500] from the point of view of reversibility.
+- [00:03:33,820 - 00:03:34,420] Okay,
+- [00:03:34,420 - 00:03:42,920] so let's think about Aristotle's hypothesis,
+- [00:03:43,520 - 00:03:44,500] Aristotle's hypothesis,
+- [00:03:44,500 - 00:03:47,240] was that something called force,
+- [00:03:47,320 - 00:03:51,580] and of course he didn't measure forces accurately,
+- [00:03:52,060 - 00:03:54,780] he probably didn't even have a good definition of force,
+- [00:03:55,060 - 00:03:57,060] but I don't even,
+- [00:03:57,100 - 00:03:58,740] I can't say he even used the word force,
+- [00:03:58,820 - 00:04:00,000] what's the Greek word for force,
+- [00:04:00,020 - 00:04:00,440] anybody know,
+- [00:04:00,440 - 00:04:00,900] I don't know.
+- [00:04:01,740 - 00:04:02,260] Venomous.
+- [00:04:03,380 - 00:04:03,900] Venomous.
+- [00:04:04,080 - 00:04:04,600] Ah.
+- [00:04:04,980 - 00:04:05,500] Venomous.
+- [00:04:05,760 - 00:04:06,280] Like dynamo.
+- [00:04:06,520 - 00:04:07,420] Like dynamo.
+- [00:04:07,720 - 00:04:08,240] Okay.
+- [00:04:08,840 - 00:04:09,360] Venomous.
+- [00:04:09,920 - 00:04:10,440] Venomous.
+- [00:04:12,120 - 00:04:12,640] Venomous.
+- [00:04:12,880 - 00:04:13,260] Venomous.
+- [00:04:15,060 - 00:04:16,399] That's the word of the word dynamo.
+- [00:04:16,519 - 00:04:17,000] Okay.
+- [00:04:18,420 - 00:04:19,720] But in any case,
+- [00:04:20,539 - 00:04:22,160] let's put some words in his mouth.
+- [00:04:22,700 - 00:04:25,300] Force is equally mass times velocity.
+- [00:04:26,280 - 00:04:27,240] Wrong equation.
+- [00:04:28,440 - 00:04:29,400] Don't write it down.
+- [00:04:29,500 - 00:04:31,880] Don't memorize it.
+- [00:04:34,780 - 00:04:37,220] Let's say we can use it a little bit quantitatively
+- [00:04:37,220 - 00:04:38,820] to find out what happens.
+- [00:04:39,200 - 00:04:41,090] I simply want to explain in
+- [00:04:41,090 - 00:04:42,980] what sense this is a law.
+- [00:04:43,000 - 00:04:43,240] You'll see that the law doesn't really give you
+- [00:04:43,240 - 00:04:45,550] motion and in one sense it fails one
+- [00:04:45,550 - 00:04:47,860] of the tests that we've already proposed for laws
+- [00:04:47,860 - 00:04:48,220] of motion.
+- [00:04:48,540 - 00:04:49,180] All right,
+- [00:04:49,180 - 00:04:49,620] velocity,
+- [00:04:49,620 - 00:04:52,320] we can write this as a vector equation,
+- [00:04:52,320 - 00:04:55,000] Aristotle might have written
+- [00:04:55,000 - 00:04:56,020] that as a vector equation,
+- [00:04:56,020 - 00:04:58,460] force proportional to velocity,
+- [00:04:58,460 - 00:05:00,200] but let's just think about the
+- [00:05:00,200 - 00:05:01,160] one-dimensional axis,
+- [00:05:01,160 - 00:05:04,040] and of course velocity is what we call x dot,
+- [00:05:04,040 - 00:05:06,560] so this is m f equals
+- [00:05:06,560 - 00:05:07,000] x dot,
+- [00:05:07,000 - 00:05:08,580] and just to illustrate,
+- [00:05:08,580 - 00:05:11,040] let's go to our stroboscopic
+- [00:05:11,040 - 00:05:13,500] world where we break up time
+- [00:05:13,500 - 00:05:14,660] into little intervals,
+- [00:05:14,660 - 00:05:17,120] into little very small intervals,
+- [00:05:17,120 - 00:05:19,160] each interval of size epsilon,
+- [00:05:19,860 - 00:05:21,700] so we break up the time axis,
+- [00:05:21,700 - 00:05:22,760] here's the time axis,
+- [00:05:22,760 - 00:05:24,280] here's the time axis over here,
+- [00:05:24,280 - 00:05:25,440] we break
+- [00:05:25,440 - 00:05:26,600] it up into little intervals,
+- [00:05:26,600 - 00:05:28,740] each interval of size epsilon,
+- [00:05:28,740 - 00:05:30,360] epsilon is a standard term
+- [00:05:30,360 - 00:05:31,080] for a small number,
+- [00:05:31,080 - 00:05:32,900] and then x dot,
+- [00:05:32,900 - 00:05:34,900] which means the time derivative of x,
+- [00:05:34,900 - 00:05:36,120] is approximately
+- [00:05:36,560 - 00:05:38,220] equal to,
+- [00:05:38,220 - 00:05:42,180] actually I think I called it delta,
+- [00:05:42,180 - 00:05:42,860] I don't know,
+- [00:05:42,860 - 00:05:44,800] I called it delta,
+- [00:05:44,800 - 00:05:45,740] I think delta,
+- [00:05:46,320 - 00:05:46,980] little delta,
+- [00:05:46,980 - 00:05:48,180] little difference of time,
+- [00:05:48,180 - 00:05:49,780] m,
+- [00:05:49,780 - 00:05:51,440] and what's x dot?
+- [00:05:51,540 - 00:05:57,300] x dot is x at time t plus
+- [00:05:57,300 - 00:06:03,060] delta minus x at time t divided by epsilon,
+- [00:06:03,060 - 00:06:03,720] sorry,
+- [00:06:03,720 - 00:06:04,080] delta.
+- [00:06:06,700 - 00:06:08,080] I don't want to plot this pandần,
+- [00:06:08,080 - 00:06:10,140] this table,
+- [00:06:10,140 - 00:06:10,140] and then I had this simply peppers
+- [00:06:10,140 - 00:06:10,140] on my paper,
+- [00:06:10,140 - 00:06:10,550] this is a 재밌 little standard
+- [00:06:10,550 - 00:06:10,960] point which is facing north andsocial direction
+- [00:06:10,960 - 00:06:12,600] let's just applory,
+- [00:06:12,600 - 00:06:12,840] get rid of this,
+- [00:06:12,840 - 00:06:14,700] and then invert
+- [00:06:14,700 - 00:06:15,860] so let's avoid thealing
+- [00:06:15,860 - 00:06:17,500] Muchas gravity,
+- [00:06:17,500 - 00:06:18,300] and we're left with,
+- [00:06:18,300 - 00:06:18,300] all right,
+- [00:06:18,300 - 00:06:26,220] so here is a new expression for this,
+- [00:06:27,980 - 00:06:29,540] we're going to solve everything you're asking for.
+- [00:06:29,540 - 00:06:29,540] You're
+- [00:06:29,540 - 00:06:29,600] leaving this way n метר
+- [00:06:29,600 - 00:06:30,440] nm we
+- [00:06:30,440 - 00:06:30,440] both sides,
+- [00:06:30,440 - 00:06:32,340] which is a summation틴
+- [00:06:32,340 - 00:06:33,660] a known function of time,
+- [00:06:33,660 - 00:06:34,360] for example.
+- [00:06:35,120 - 00:06:35,460] Alright,
+- [00:06:35,460 - 00:06:36,880] so what does this equation say?
+- [00:06:37,160 - 00:06:39,540] We can solve the equation very easily
+- [00:06:39,540 - 00:06:42,300] for x at t plus delta.
+- [00:06:42,540 - 00:06:45,320] So do that here.
+- [00:06:46,260 - 00:06:47,100] Let's see,
+- [00:06:47,100 - 00:06:48,420] we multiply by delta,
+- [00:06:49,000 - 00:06:50,160] divide by n,
+- [00:06:51,960 - 00:06:53,300] multiply by delta,
+- [00:06:53,300 - 00:06:54,200] divide by n,
+- [00:06:54,400 - 00:06:57,500] so we have f times t,
+- [00:06:58,320 - 00:06:59,440] times delta,
+- [00:06:59,440 - 00:07:01,040] divided by n,
+- [00:07:01,040 - 00:07:02,910] n equals x of t
+- [00:07:02,910 - 00:07:04,780] plus delta minus x of t.
+- [00:07:05,100 - 00:07:07,100] Let's add x of t to both sides,
+- [00:07:07,840 - 00:07:12,240] x of t equals x of t plus delta.
+- [00:07:12,760 - 00:07:14,360] So you see where this is going.
+- [00:07:14,540 - 00:07:17,120] This is the sort of law of physics
+- [00:07:17,120 - 00:07:20,860] which is telling you where the particle is,
+- [00:07:20,900 - 00:07:25,040] where the particle is at time t plus delta
+- [00:07:25,040 - 00:07:27,780] if you know where it is at time t.
+- [00:07:28,760 - 00:07:30,580] Exactly the same kind of thing
+- [00:07:30,580 - 00:07:31,020] that's going to tell you where the particle is
+- [00:07:31,040 - 00:07:33,200] as when we talked about coins and so forth.
+- [00:07:33,340 - 00:07:34,840] You know what it's doing at an instant
+- [00:07:34,840 - 00:07:36,440] and you know the law of motion
+- [00:07:36,920 - 00:07:38,680] or you know the law of dynamics
+- [00:07:38,680 - 00:07:40,860] or nature or whatever,
+- [00:07:41,440 - 00:07:42,860] then you know where it will be
+- [00:07:42,860 - 00:07:43,740] at the next instant.
+- [00:07:44,020 - 00:07:46,920] So this is a special case of law of physics.
+- [00:07:50,120 - 00:07:51,220] What would it say
+- [00:07:53,280 - 00:07:55,860] if there was no force?
+- [00:07:56,240 - 00:07:57,560] If there was no force,
+- [00:07:57,620 - 00:07:58,500] there is no velocity,
+- [00:07:58,720 - 00:08:00,360] so the object stands still.
+- [00:08:01,780 - 00:08:02,640] It doesn't do anything.
+- [00:08:02,640 - 00:08:03,380] You can predict the future,
+- [00:08:03,540 - 00:08:04,420] it just sits there,
+- [00:08:04,480 - 00:08:05,080] it doesn't do anything.
+- [00:08:05,300 - 00:08:06,400] You can also predict the past,
+- [00:08:06,500 - 00:08:07,300] it just sits there,
+- [00:08:07,340 - 00:08:08,020] it doesn't do anything.
+- [00:08:11,400 - 00:08:12,560] And that's Aristotle.
+- [00:08:13,360 - 00:08:16,240] So let's work out an example.
+- [00:08:16,680 - 00:08:17,340] In fact,
+- [00:08:17,340 - 00:08:18,960] I think I'll work out one example.
+- [00:08:21,460 - 00:08:23,020] This is slightly different,
+- [00:08:23,540 - 00:08:26,200] not knowing the force as a function of time,
+- [00:08:26,720 - 00:08:30,620] but rather knowing the force as a function of position.
+- [00:08:31,180 - 00:08:33,780] Here's our particle moving on the x axis,
+- [00:08:34,419 - 00:08:37,919] and let's assume that it is governed by a force
+- [00:08:37,919 - 00:08:39,860] which depends on where it is.
+- [00:08:40,400 - 00:08:41,220] In fact,
+- [00:08:41,220 - 00:08:43,260] let's do what we would have done
+- [00:08:43,260 - 00:08:44,920] if it was a harmonic oscillator,
+- [00:08:45,200 - 00:08:45,980] if it was a spring.
+- [00:08:47,620 - 00:08:48,180] Then,
+- [00:08:48,180 - 00:08:49,860] there's an equilibrium position
+- [00:08:49,860 - 00:08:51,280] that we can call x of zero,
+- [00:08:51,520 - 00:08:53,120] and what is the force
+- [00:08:53,120 - 00:08:55,760] if we displace the object away from the origin?
+- [00:08:56,260 - 00:08:57,500] If it were a spring,
+- [00:08:57,760 - 00:08:58,720] just an ordinary spring,
+- [00:08:59,040 - 00:09:00,060] we would say,
+- [00:09:00,060 - 00:09:00,600] the force is 0.
+- [00:09:00,600 - 00:09:02,060] The force pulls us back,
+- [00:09:02,980 - 00:09:04,140] and moreover,
+- [00:09:04,200 - 00:09:06,760] it's proportional to the distance that we displace things.
+- [00:09:07,000 - 00:09:10,760] We would write the force is equal to minus
+- [00:09:13,520 - 00:09:15,140] k times x,
+- [00:09:15,440 - 00:09:16,860] what we would call k is the constant,
+- [00:09:19,740 - 00:09:22,080] and force is proportional to displacement.
+- [00:09:22,500 - 00:09:24,300] Let's see what that would do
+- [00:09:25,040 - 00:09:26,460] in Aristotle's equations.
+- [00:09:27,820 - 00:09:28,720] We can either,
+- [00:09:28,940 - 00:09:29,140] yeah,
+- [00:09:29,140 - 00:09:30,480] let's work with the discrete form.
+- [00:09:30,600 - 00:09:31,420] Like so.
+- [00:09:33,120 - 00:09:33,700] All right,
+- [00:09:33,700 - 00:09:35,260] instead of writing f of t now,
+- [00:09:37,619 - 00:09:38,060] where,
+- [00:09:41,239 - 00:09:41,680] well,
+- [00:09:41,680 - 00:09:42,160] it's plus,
+- [00:09:42,160 - 00:09:42,860] this is plus,
+- [00:09:42,860 - 00:09:43,060] right?
+- [00:09:43,560 - 00:09:45,000] Instead of writing f of t,
+- [00:09:45,100 - 00:09:46,400] let's write it down,
+- [00:09:47,260 - 00:09:53,820] minus k times x at time t.
+- [00:09:55,460 - 00:09:56,020] All right,
+- [00:09:56,020 - 00:09:58,360] the force is now minus kx,
+- [00:09:58,600 - 00:10:00,100] and so I wrote that in here,
+- [00:10:03,760 - 00:10:05,190] or we can write that this
+- [00:10:05,190 - 00:10:06,620] is equal to x of t
+- [00:10:08,300 - 00:10:14,800] times one minus k delta over m,
+- [00:10:14,860 - 00:10:15,280] is that correct?
+- [00:10:18,960 - 00:10:21,920] That's equal to x of t plus delta.
+- [00:10:22,660 - 00:10:23,320] All right,
+- [00:10:23,320 - 00:10:24,320] what does this equation say?
+- [00:10:24,640 - 00:10:27,740] It also allows you to predict the future.
+- [00:10:28,860 - 00:10:30,080] If you know that,
+- [00:10:30,080 - 00:10:31,080] if you know the position of any time,
+- [00:10:32,140 - 00:10:34,800] it'll tell you to multiply the x coordinate
+- [00:10:35,520 - 00:10:37,960] by a number slightly less than one,
+- [00:10:38,080 - 00:10:39,580] think of delta as a small number,
+- [00:10:39,720 - 00:10:40,880] think of delta as small,
+- [00:10:41,160 - 00:10:42,620] so this is small here,
+- [00:10:43,699 - 00:10:45,300] one minus a small number
+- [00:10:45,300 - 00:10:46,660] is a number slightly less than one,
+- [00:10:47,280 - 00:10:49,240] so each interval of time,
+- [00:10:49,860 - 00:10:51,220] what happens to the position
+- [00:10:51,220 - 00:10:54,900] is it gets diminished by the same common factor.
+- [00:10:56,380 - 00:10:56,860] So,
+- [00:10:56,860 - 00:10:58,260] it was over here to start with,
+- [00:10:58,260 - 00:11:02,080] it would be over here next,
+- [00:11:02,640 - 00:11:03,740] over here next,
+- [00:11:03,860 - 00:11:04,640] and each time,
+- [00:11:04,780 - 00:11:07,340] x diminishes by the same constant factor.
+- [00:11:08,760 - 00:11:12,780] What's happening is that the particle is just exponentially
+- [00:11:13,780 - 00:11:15,300] moving toward the origin.
+- [00:11:16,010 - 00:11:17,480] You can also work this out,
+- [00:11:17,520 - 00:11:20,000] you can work this out without doing the discrete form,
+- [00:11:20,920 - 00:11:22,760] you can do the continuous form,
+- [00:11:22,960 - 00:11:25,980] instead of writing this complicated thing here,
+- [00:11:26,000 - 00:11:27,620] we would just write that the x by dt,
+- [00:11:29,700 - 00:11:31,260] velocity times mass,
+- [00:11:31,340 - 00:11:34,220] is equal to k times x,
+- [00:11:35,099 - 00:11:36,840] and then we would solve this equation,
+- [00:11:37,940 - 00:11:39,200] solve this equation,
+- [00:11:39,400 - 00:11:41,700] k over m times x.
+- [00:11:42,160 - 00:11:43,840] What's the solution of the equation,
+- [00:11:45,040 - 00:11:47,200] or what function has a property
+- [00:11:47,200 - 00:11:49,840] that its derivative is proportional to itself?
+- [00:11:50,300 - 00:11:51,460] The exponential function.
+- [00:11:51,460 - 00:11:52,400] The exponential function.
+- [00:11:52,920 - 00:11:53,560] Alright,
+- [00:11:53,560 - 00:11:55,580] so the solution to this is
+- [00:11:55,580 - 00:11:58,240] x is equal to any common factor,
+- [00:11:58,260 - 00:11:58,580] and the constant,
+- [00:11:59,839 - 00:12:03,400] times e to the minus k over mt.
+- [00:12:05,380 - 00:12:08,900] That's another form of an exponential decrease.
+- [00:12:09,300 - 00:12:10,380] What happens to x?
+- [00:12:10,640 - 00:12:12,220] It goes to zero every time.
+- [00:12:14,000 - 00:12:15,180] Where's the starting point?
+- [00:12:15,320 - 00:12:17,060] Let's say at t equals zero.
+- [00:12:17,280 - 00:12:18,580] It started out at t equals zero.
+- [00:12:20,319 - 00:12:22,980] A is the value of x at t equals zero,
+- [00:12:23,080 - 00:12:24,600] so instead of calling it a,
+- [00:12:24,880 - 00:12:26,620] we could just call it x,
+- [00:12:26,620 - 00:12:28,020] at the starting point,
+- [00:12:28,180 - 00:12:28,820] x is zero.
+- [00:12:29,480 - 00:12:31,680] And all that happens is,
+- [00:12:31,920 - 00:12:32,920] this is the origin,
+- [00:12:33,140 - 00:12:34,740] and we displace it and let it go,
+- [00:12:34,980 - 00:12:37,180] it always goes back to the origin,
+- [00:12:37,440 - 00:12:39,800] getting slower and slower and slower
+- [00:12:39,800 - 00:12:40,740] as it goes back.
+- [00:12:40,980 - 00:12:42,280] It exponentially decreases.
+- [00:12:45,680 - 00:12:46,680] But wait a minute,
+- [00:12:46,780 - 00:12:50,020] now that sounds almost like
+- [00:12:50,020 - 00:12:56,500] you can't predict the past.
+- [00:12:56,620 - 00:12:58,420] You can sure predict the future.
+- [00:13:00,200 - 00:13:03,020] The future is that wherever you are,
+- [00:13:03,080 - 00:13:05,020] you'll exponentially move on the origin.
+- [00:13:06,600 - 00:13:09,020] But can you predict the past?
+- [00:13:09,440 - 00:13:10,080] Alright,
+- [00:13:10,080 - 00:13:12,040] so in what sense can't you?
+- [00:13:12,700 - 00:13:13,700] Here's the sense.
+- [00:13:15,580 - 00:13:18,580] If I displace this thing
+- [00:13:18,580 - 00:13:19,560] tiny,
+- [00:13:19,560 - 00:13:20,640] infinitesimal amount,
+- [00:13:20,820 - 00:13:22,020] too much,
+- [00:13:22,020 - 00:13:23,080] too small,
+- [00:13:23,120 - 00:13:25,000] to even be detectable,
+- [00:13:26,000 - 00:13:27,520] and run it backwards,
+- [00:13:27,720 - 00:13:28,800] where does it go to?
+- [00:13:30,400 - 00:13:31,440] All trajectories
+- [00:13:32,000 - 00:13:33,980] aim in and go to the origin.
+- [00:13:34,340 - 00:13:36,800] So from the fact that at a future time,
+- [00:13:36,880 - 00:13:37,780] some future time,
+- [00:13:38,020 - 00:13:40,080] the particle is just sitting at the origin,
+- [00:13:40,120 - 00:13:41,140] practically still,
+- [00:13:41,340 - 00:13:43,220] you can't tell where it came from.
+- [00:13:44,260 - 00:13:45,160] Now of course,
+- [00:13:45,160 - 00:13:46,880] with that infinite accuracy,
+- [00:13:46,980 - 00:13:47,580] you could.
+- [00:13:48,420 - 00:13:50,200] But with a finite accuracy,
+- [00:13:50,340 - 00:13:53,340] a finite ability to tell exactly where it is,
+- [00:13:53,420 - 00:13:54,120] where it's moving,
+- [00:13:54,120 - 00:13:56,960] you can't tell where it came from,
+- [00:13:57,100 - 00:13:58,840] because wherever it came from,
+- [00:13:58,840 - 00:14:00,140] it went to the same place.
+- [00:14:00,819 - 00:14:02,620] It went to the same place and stopped.
+- [00:14:02,940 - 00:14:03,580] It just stopped.
+- [00:14:03,900 - 00:14:09,600] So if we mean by ability to predict the past,
+- [00:14:09,900 - 00:14:10,680] is that
+- [00:14:14,280 - 00:14:16,600] that not all configurations
+- [00:14:17,300 - 00:14:19,520] ultimately run to the same thing,
+- [00:14:21,080 - 00:14:22,360] but that
+- [00:14:22,360 - 00:14:24,680] initial distinctions
+- [00:14:24,680 - 00:14:26,720] get preserved in some form,
+- [00:14:27,500 - 00:14:29,540] this is looking a little bit suspicious.
+- [00:14:29,980 - 00:14:32,340] It's a little bit suspicious because it looks like
+- [00:14:33,069 - 00:14:35,264] different starting points inevitably will
+- [00:14:35,264 - 00:14:37,460] be within any arbitrary accuracy
+- [00:14:38,250 - 00:14:40,220] for the same final configuration,
+- [00:14:40,500 - 00:14:41,700] which just sits there.
+- [00:14:42,380 - 00:14:44,060] So you couldn't in that sense,
+- [00:14:44,260 - 00:14:44,980] in practice,
+- [00:14:45,180 - 00:14:46,260] predict the past of it.
+- [00:14:49,020 - 00:14:51,380] This is not
+- [00:14:51,380 - 00:14:53,460] what happens with Newton's equations.
+- [00:14:53,580 - 00:14:55,820] We'll illustrate some examples of Newton's equations.
+- [00:14:56,260 - 00:14:57,620] With Newton's equations,
+- [00:14:57,700 - 00:14:59,200] the simple systems like this,
+- [00:14:59,380 - 00:15:02,920] they do not run all to the same point.
+- [00:15:03,280 - 00:15:05,040] But if you start with different configurations,
+- [00:15:06,200 - 00:15:07,180] measurably different,
+- [00:15:07,520 - 00:15:10,140] you'll end up with measurably different configurations.
+- [00:15:11,580 - 00:15:13,380] So Aristotle's law,
+- [00:15:13,540 - 00:15:16,320] apart from being experimentally incorrect,
+- [00:15:17,920 - 00:15:19,620] is also irreversible.
+- [00:15:20,120 - 00:15:20,840] You can't
+- [00:15:23,120 - 00:15:26,040] criticize Aristotle for writing down the irreversible law.
+- [00:15:27,080 - 00:15:27,960] You can say,
+- [00:15:28,000 - 00:15:29,060] I don't know the right thing.
+- [00:15:29,220 - 00:15:30,550] You're the guy who said
+- [00:15:30,550 - 00:15:31,880] it was supposed to be irreversible,
+- [00:15:31,940 - 00:15:32,360] not me.
+- [00:15:33,240 - 00:15:34,200] And of course,
+- [00:15:34,240 - 00:15:35,380] he was right.
+- [00:15:35,480 - 00:15:37,840] But the practical situation that he's talking about,
+- [00:15:37,940 - 00:15:39,440] this is irreversible.
+- [00:15:39,500 - 00:15:40,780] You can't tell where it came from
+- [00:15:40,780 - 00:15:41,840] from the back of the sybilic,
+- [00:15:41,840 - 00:15:42,100] period.
+- [00:15:49,360 - 00:15:50,080] We know that.
+- [00:15:50,080 - 00:15:52,680] We know in what sense Aristotle was completely wrong.
+- [00:15:52,840 - 00:15:53,880] What he was wrong about
+- [00:15:53,880 - 00:15:56,620] when he said that force is proportional to velocity
+- [00:15:59,240 - 00:16:01,200] was that force is really
+- [00:16:01,200 - 00:16:03,160] responsible for the change of motion.
+- [00:16:06,700 - 00:16:07,260] Friction.
+- [00:16:07,340 - 00:16:07,820] What is friction?
+- [00:16:08,480 - 00:16:10,440] Friction is itself a force.
+- [00:16:11,000 - 00:16:15,240] When you say that the velocity of this is proportional,
+- [00:16:15,600 - 00:16:15,880] sorry,
+- [00:16:15,960 - 00:16:17,820] the velocity of this is proportional to the force,
+- [00:16:18,579 - 00:16:20,000] what's really going on
+- [00:16:20,080 - 00:16:21,910] is there are at least two
+- [00:16:21,910 - 00:16:23,740] forces that apply to this object here.
+- [00:16:23,920 - 00:16:24,940] One my finger,
+- [00:16:25,120 - 00:16:26,280] and one the force of friction.
+- [00:16:26,560 - 00:16:28,580] The force of friction is ultimately
+- [00:16:28,580 - 00:16:32,320] a microscopic force with molecular motions
+- [00:16:32,320 - 00:16:33,630] and all kinds of things which
+- [00:16:33,630 - 00:16:34,940] are much too complicated to deal with.
+- [00:16:35,480 - 00:16:36,940] And so we just call it friction.
+- [00:16:37,300 - 00:16:38,960] But it's really a balance of force.
+- [00:16:39,360 - 00:16:42,460] It's not that the force is necessary to make velocity.
+- [00:16:42,780 - 00:16:44,320] It's just that one force is
+- [00:16:44,320 - 00:16:45,860] necessary to overcome the other force.
+- [00:16:46,200 - 00:16:47,600] So we all understand that.
+- [00:16:47,660 - 00:16:48,280] It's nothing new.
+- [00:16:49,000 - 00:16:49,940] And moreover,
+- [00:16:49,940 - 00:16:51,620] we probably also all understand
+- [00:16:52,500 - 00:16:55,160] in what way Newton's laws are different.
+- [00:16:55,660 - 00:16:57,540] So let's talk about Newton's laws.
+- [00:16:58,680 - 00:17:00,820] And then let's discuss their
+- [00:17:00,820 - 00:17:02,960] predictability in the same sense.
+- [00:17:03,120 - 00:17:04,619] Are they predictable in the past?
+- [00:17:04,660 - 00:17:06,000] And are they predictable in the future?
+- [00:17:08,180 - 00:17:08,740] Okay,
+- [00:17:08,740 - 00:17:11,440] so what's Newton's corresponding law?
+- [00:17:11,819 - 00:17:14,220] Newton's corresponding law is ethical magnitude.
+- [00:17:16,579 - 00:17:17,900] Before I talk about that,
+- [00:17:17,940 - 00:17:19,380] let's just talk very briefly
+- [00:17:19,380 - 00:17:21,220] for about one second
+- [00:17:21,220 - 00:17:24,160] about something called inertial reference frames.
+- [00:17:26,560 - 00:17:28,860] When I learned about inertial reference frames
+- [00:17:28,860 - 00:17:29,920] when I was in college,
+- [00:17:30,160 - 00:17:31,340] I got very confused.
+- [00:17:31,880 - 00:17:34,760] I could not know what the professor was talking about.
+- [00:17:35,140 - 00:17:36,260] On the one hand,
+- [00:17:36,260 - 00:17:36,700] he said,
+- [00:17:38,540 - 00:17:40,840] Newton's laws are only true
+- [00:17:41,200 - 00:17:42,700] in an inertial reference frame.
+- [00:17:43,040 - 00:17:44,340] And then the next breath,
+- [00:17:44,340 - 00:17:44,660] he said,
+- [00:17:44,700 - 00:17:46,400] what an inertial reference frame is,
+- [00:17:46,520 - 00:17:48,700] is it's a frame in which Newton's laws are true.
+- [00:17:52,640 - 00:17:53,180] Well,
+- [00:17:53,180 - 00:17:55,680] I couldn't,
+- [00:17:55,680 - 00:17:56,180] I couldn't.
+- [00:17:56,420 - 00:17:58,990] It took me some time to
+- [00:17:58,990 - 00:18:01,560] work my way out of that puzzle.
+- [00:18:02,760 - 00:18:04,790] But let's for the moment
+- [00:18:04,790 - 00:18:06,820] just say it a different way.
+- [00:18:07,980 - 00:18:09,540] A frame of reference,
+- [00:18:09,540 - 00:18:10,020] of course,
+- [00:18:10,060 - 00:18:12,140] means a set of rods and clocks.
+- [00:18:12,600 - 00:18:14,180] And those rods and clocks,
+- [00:18:14,420 - 00:18:17,380] they can be moving or they can be staying still.
+- [00:18:17,520 - 00:18:18,440] They can be a frame
+- [00:18:18,440 - 00:18:19,360] of reference on a railroad track.
+- [00:18:19,360 - 00:18:19,500] They can be a train,
+- [00:18:19,500 - 00:18:20,420] they can be standing still.
+- [00:18:20,460 - 00:18:21,620] We're not doing relativity now,
+- [00:18:21,780 - 00:18:23,900] but we can talk about moving frames,
+- [00:18:24,000 - 00:18:25,040] we can talk about rotating frames,
+- [00:18:25,200 - 00:18:26,400] all kinds of frames of reference.
+- [00:18:27,860 - 00:18:31,040] There's a subset of those frames of reference
+- [00:18:32,400 - 00:18:34,400] where if we label particles
+- [00:18:34,400 - 00:18:38,000] by the coordinates associated with the rods,
+- [00:18:38,480 - 00:18:41,460] we label time by the clocks and so forth,
+- [00:18:41,680 - 00:18:44,060] that whatever Newton's laws are,
+- [00:18:44,120 - 00:18:46,660] Newton's laws will be true in those frames of reference.
+- [00:18:47,120 - 00:18:48,400] Other frames of reference,
+- [00:18:48,400 - 00:18:51,140] which are rotating relative to those frames of reference
+- [00:18:51,140 - 00:18:54,400] or accelerating relative to those frames of reference,
+- [00:18:54,580 - 00:18:57,280] will not be good frames of reference
+- [00:18:57,280 - 00:18:58,560] in which Newton's laws are true.
+- [00:18:59,740 - 00:19:01,660] The law of physics is
+- [00:19:01,660 - 00:19:03,580] not that Newton's laws are true
+- [00:19:03,580 - 00:19:06,180] in inertial frames and inertial frames are
+- [00:19:06,180 - 00:19:07,940] where Newton's laws are correct.
+- [00:19:10,300 - 00:19:14,280] The law of physics are that there exist inertial frames.
+- [00:19:14,600 - 00:19:17,200] There exist inertial reference frames
+- [00:19:17,200 - 00:19:20,160] far from gravitating objects,
+- [00:19:20,620 - 00:19:22,580] far from any forces,
+- [00:19:23,800 - 00:19:25,840] or even when you're near forces,
+- [00:19:26,700 - 00:19:29,780] frames of reference in which Newton's laws are true.
+- [00:19:30,020 - 00:19:32,040] We'll now write down what Newton's laws are,
+- [00:19:32,900 - 00:19:34,260] and then later on,
+- [00:19:34,400 - 00:19:36,760] we'll try to work out from Newton's laws
+- [00:19:36,760 - 00:19:39,300] what they would look like in other frames of reference.
+- [00:19:40,220 - 00:19:41,830] So the law of physics is
+- [00:19:41,830 - 00:19:43,440] that there exist frames of reference
+- [00:19:43,440 - 00:19:45,520] in which Newton's laws are true.
+- [00:19:46,580 - 00:19:48,040] Newton's laws are true.
+- [00:19:48,040 - 00:19:49,300] We haven't defined force yet,
+- [00:19:49,320 - 00:19:50,500] we haven't defined mass yet,
+- [00:19:50,580 - 00:19:51,700] we're going to do so in a little while,
+- [00:19:53,199 - 00:19:54,909] but this is also a little
+- [00:19:54,909 - 00:19:56,620] bit of a case of a lot.
+- [00:19:58,720 - 00:19:59,160] Yeah,
+- [00:19:59,160 - 00:20:00,220] let's take a few moments
+- [00:20:00,220 - 00:20:02,080] and think about what this means,
+- [00:20:02,160 - 00:20:02,960] how you would check it,
+- [00:20:03,020 - 00:20:04,800] how you would describe it,
+- [00:20:04,860 - 00:20:05,520] and verify it.
+- [00:20:06,160 - 00:20:07,120] The problem is,
+- [00:20:07,120 - 00:20:07,560] again,
+- [00:20:07,740 - 00:20:11,080] a little bit of a chicken and egg situation.
+- [00:20:11,900 - 00:20:13,620] We define accelerators.
+- [00:20:13,620 - 00:20:15,360] The second time they're written in a position,
+- [00:20:15,520 - 00:20:17,900] and position we describe in terms of meter stakes
+- [00:20:17,900 - 00:20:19,880] laid out in various ways.
+- [00:20:20,100 - 00:20:21,280] This is what we're finding.
+- [00:20:21,820 - 00:20:23,540] We know what acceleration is,
+- [00:20:23,640 - 00:20:25,380] and presumably we know what time is,
+- [00:20:25,420 - 00:20:26,700] so we can take a second time here.
+- [00:20:27,700 - 00:20:28,920] How do we get started?
+- [00:20:29,580 - 00:20:30,100] Again,
+- [00:20:30,100 - 00:20:33,720] this chicken and egg definition versus law.
+- [00:20:35,480 - 00:20:36,000] Force,
+- [00:20:36,000 - 00:20:37,380] that's mass times acceleration.
+- [00:20:37,880 - 00:20:38,580] What's mass?
+- [00:20:39,520 - 00:20:40,920] Force divided by acceleration.
+- [00:20:41,360 - 00:20:42,180] That's not helpful.
+- [00:20:43,800 - 00:20:45,750] Exactly what is it that
+- [00:20:45,750 - 00:20:47,700] this law of nature is saying?
+- [00:20:47,880 - 00:20:48,910] Let me give you an example
+- [00:20:48,910 - 00:20:49,940] of how you would check it.
+- [00:20:52,200 - 00:20:53,550] You have a block of
+- [00:20:53,550 - 00:20:54,900] an object that weighs one kilogram,
+- [00:20:55,700 - 00:20:57,340] or its mass is one kilogram.
+- [00:20:58,040 - 00:21:00,660] By saying its mass is a one kilogram mass,
+- [00:21:00,920 - 00:21:02,500] it means if you hold it in your hand
+- [00:21:02,500 - 00:21:04,580] and you hold the kilogram
+- [00:21:04,580 - 00:21:06,660] mass that's located in Paris somewhere,
+- [00:21:07,659 - 00:21:10,420] in some isolated place,
+- [00:21:10,680 - 00:21:12,160] if you hold both of them in your hand
+- [00:21:12,180 - 00:21:13,240] they'll feel the same,
+- [00:21:13,380 - 00:21:14,690] or if you put them on
+- [00:21:14,690 - 00:21:16,000] a seesaw or on a teeter-totter,
+- [00:21:16,240 - 00:21:17,660] they'll balance.
+- [00:21:18,540 - 00:21:20,420] That's an experimental test of
+- [00:21:20,420 - 00:21:22,300] whether a thing weighs one kilogram.
+- [00:21:22,640 - 00:21:24,020] This is a one kilogram mass,
+- [00:21:24,120 - 00:21:25,980] or some well-known fucking mass,
+- [00:21:26,480 - 00:21:30,240] and now we hook it to a spring balance.
+- [00:21:31,280 - 00:21:35,440] The spring balance has a spring on it,
+- [00:21:35,520 - 00:21:35,820] let's see,
+- [00:21:35,820 - 00:21:36,940] a spring on it,
+- [00:21:37,760 - 00:21:39,960] and the spring over here is
+- [00:21:39,960 - 00:21:42,160] hooked to a hook over here,
+- [00:21:43,000 - 00:21:45,080] also hooked at this angle to the mass,
+- [00:21:45,300 - 00:21:46,860] and we pull on here,
+- [00:21:47,100 - 00:21:49,440] and that stretches the spring a little bit,
+- [00:21:49,600 - 00:21:51,140] and of course in the process
+- [00:21:51,140 - 00:21:52,680] exerts a force on the mass here.
+- [00:21:53,160 - 00:21:55,520] What happens when you exert a force on the mass,
+- [00:21:55,600 - 00:21:57,000] this is being done in free space,
+- [00:21:57,200 - 00:21:58,600] it's not being done in a tabletop,
+- [00:21:58,600 - 00:22:01,860] it's being done off or anything which can cause friction,
+- [00:22:02,160 - 00:22:04,880] what happens is of course the mass accelerates.
+- [00:22:04,940 - 00:22:06,040] That's a sort of fact.
+- [00:22:07,000 - 00:22:09,120] So that's a sort of fact.
+- [00:22:09,120 - 00:22:12,760] And I can also give a
+- [00:22:12,760 - 00:22:16,400] meaning to a unit of force
+- [00:22:16,400 - 00:22:19,360] by saying the spring here
+- [00:22:19,360 - 00:22:22,320] stretches a certain definite amount
+- [00:22:22,920 - 00:22:24,240] when I pull on it,
+- [00:22:24,300 - 00:22:25,640] let's call that amount epsilon,
+- [00:22:26,500 - 00:22:29,420] when the spring stretches amount epsilon,
+- [00:22:29,680 - 00:22:31,880] I will call that one unit of force,
+- [00:22:32,140 - 00:22:34,660] and of course I will find that it accelerates.
+- [00:22:34,980 - 00:22:37,120] Now how can I exert two units of force?
+- [00:22:37,200 - 00:22:38,150] How can I know that
+- [00:22:38,150 - 00:22:39,100] I'm exerting two units of force?
+- [00:22:41,520 - 00:22:42,480] Two springs.
+- [00:22:42,640 - 00:22:43,480] Two springs.
+- [00:22:43,920 - 00:22:46,700] Now don't stretch the spring quite so far.
+- [00:22:47,140 - 00:22:47,880] Why not?
+- [00:22:48,160 - 00:22:51,200] Because you can't be sure that
+- [00:22:51,200 - 00:22:54,240] the spring is a truly idealized spring,
+- [00:22:54,860 - 00:22:56,980] the spring is made of atoms and so forth,
+- [00:22:57,080 - 00:22:58,600] if you stretch it too much it will break,
+- [00:22:58,780 - 00:23:00,140] it's a real spring,
+- [00:23:00,140 - 00:23:00,880] it's a nonlinear,
+- [00:23:01,080 - 00:23:03,540] just put another spring on it.
+- [00:23:05,580 - 00:23:07,620] Stretch it the same amount as before,
+- [00:23:07,620 - 00:23:11,140] and you're now exerting twice the force on it,
+- [00:23:12,679 - 00:23:15,200] two units of exactly the same force,
+- [00:23:15,280 - 00:23:17,480] what happens is it accelerates twice as fast,
+- [00:23:17,560 - 00:23:18,540] double the acceleration.
+- [00:23:19,360 - 00:23:21,560] Put three springs,
+- [00:23:21,560 - 00:23:24,900] it accelerates three times the acceleration.
+- [00:23:25,400 - 00:23:28,380] So we found out that the
+- [00:23:28,380 - 00:23:31,360] acceleration is proportional to the force.
+- [00:23:32,280 - 00:23:34,520] Acceleration is proportional to the force.
+- [00:23:34,560 - 00:23:37,460] So far we haven't checked the mass side of it,
+- [00:23:38,300 - 00:23:38,900] but it's proportional to the force.
+- [00:23:38,900 - 00:23:39,960] So now we do something different.
+- [00:23:40,260 - 00:23:43,300] We go back to one unit
+- [00:23:43,300 - 00:23:46,340] of force with one spin balance there,
+- [00:23:46,520 - 00:23:48,610] and now take two one
+- [00:23:48,610 - 00:23:50,700] kilogram masses and put them together,
+- [00:23:50,820 - 00:23:52,000] and try to pull it.
+- [00:23:53,000 - 00:23:54,020] What happens?
+- [00:23:54,380 - 00:23:56,080] It again accelerates,
+- [00:23:56,080 - 00:23:58,260] but it accelerates with half the acceleration
+- [00:23:58,260 - 00:23:59,220] than it had before.
+- [00:23:59,820 - 00:24:01,640] Put three units of mass on,
+- [00:24:02,520 - 00:24:05,280] it accelerates three times slower.
+- [00:24:05,940 - 00:24:08,300] So by experiments like this,
+- [00:24:08,840 - 00:24:10,220] we could check,
+- [00:24:10,480 - 00:24:11,440] we could check,
+- [00:24:11,560 - 00:24:12,340] not only check,
+- [00:24:12,340 - 00:24:13,810] but at the same time
+- [00:24:13,810 - 00:24:15,280] we would be defining and checking
+- [00:24:15,280 - 00:24:20,200] this law that the acceleration is proportional to the force
+- [00:24:20,200 - 00:24:22,080] and universally proportional to the mass.
+- [00:24:23,080 - 00:24:24,420] That's what we mean by it.
+- [00:24:25,220 - 00:24:27,820] And now there's no question anymore of what's defined,
+- [00:24:28,060 - 00:24:29,000] and what's the law of physics.
+- [00:24:30,160 - 00:24:31,440] We define force,
+- [00:24:31,440 - 00:24:32,580] we define mass,
+- [00:24:33,640 - 00:24:35,260] or at least we define mass.
+- [00:24:35,280 - 00:24:36,520] We define what it means to double the force,
+- [00:24:36,560 - 00:24:37,340] to double the mass,
+- [00:24:37,340 - 00:24:37,820] and so forth,
+- [00:24:38,520 - 00:24:40,220] and we can check this law of physics,
+- [00:24:40,380 - 00:24:41,000] and of course it's true.
+- [00:24:43,520 - 00:24:43,880] Now,
+- [00:24:43,880 - 00:24:44,620] is it predictive?
+- [00:24:45,600 - 00:24:45,960] Predictive,
+- [00:24:45,960 - 00:24:46,720] I would mean the following.
+- [00:24:47,120 - 00:24:48,380] If you know where the object,
+- [00:24:48,600 - 00:24:50,440] and I tend to call these things particles,
+- [00:24:50,680 - 00:24:52,400] but it doesn't mean that they're elementary particles,
+- [00:24:52,540 - 00:24:53,340] they're just little objects.
+- [00:24:55,080 - 00:24:55,440] The,
+- [00:24:57,000 - 00:24:58,120] if you know where it
+- [00:24:58,120 - 00:24:59,240] is at one instant of time,
+- [00:25:00,460 - 00:25:01,640] and you know the mass,
+- [00:25:01,760 - 00:25:03,040] and you know the force on it,
+- [00:25:03,040 - 00:25:04,460] do you know where it
+- [00:25:04,460 - 00:25:05,880] is the next instant of time?
+- [00:25:06,100 - 00:25:07,700] Is it predictive in the
+- [00:25:07,700 - 00:25:09,300] same sense that Aristotle's law was?
+- [00:25:09,540 - 00:25:11,120] And that's how we can go through this,
+- [00:25:11,160 - 00:25:12,560] and it's a little bit interesting
+- [00:25:12,560 - 00:25:13,960] to go through it in detail.
+- [00:25:14,540 - 00:25:16,060] What does x double dot mean?
+- [00:25:16,360 - 00:25:19,200] It means the time derivative of the velocity.
+- [00:25:19,840 - 00:25:22,500] The velocity is the time derivative of the position.
+- [00:25:22,720 - 00:25:23,560] So let's write that down.
+- [00:25:23,940 - 00:25:24,960] What is velocity?
+- [00:25:25,340 - 00:25:29,060] It's x of t plus delta
+- [00:25:29,060 - 00:25:32,780] minus x of t divided by delta.
+- [00:25:33,040 - 00:25:36,620] That's the velocity at time t,
+- [00:25:36,800 - 00:25:38,880] or somewhere between t and t plus delta.
+- [00:25:39,880 - 00:25:40,640] That's velocity.
+- [00:25:41,120 - 00:25:41,820] I want to,
+- [00:25:41,840 - 00:25:43,180] the second derivative,
+- [00:25:43,640 - 00:25:45,510] you have to think the difference
+- [00:25:45,510 - 00:25:47,380] of the velocity at two neighboring times.
+- [00:25:47,780 - 00:25:51,200] So let's subtract the velocity at neighboring times,
+- [00:25:51,680 - 00:25:52,340] just before,
+- [00:25:52,720 - 00:25:58,340] x of t minus x of t minus delta,
+- [00:25:59,240 - 00:26:00,560] divided by delta.
+- [00:26:01,340 - 00:26:03,020] This is the velocity
+- [00:26:04,760 - 00:26:06,840] somewhere between t and t plus delta.
+- [00:26:07,300 - 00:26:10,940] Here's the velocity one unit back earlier.
+- [00:26:11,600 - 00:26:12,480] And what does,
+- [00:26:12,740 - 00:26:14,140] is it the acceleration yet?
+- [00:26:14,200 - 00:26:14,440] No,
+- [00:26:14,440 - 00:26:15,980] I have to divide it by another delta.
+- [00:26:17,020 - 00:26:18,430] Another delta because we want
+- [00:26:18,430 - 00:26:19,840] to make a difference of velocities
+- [00:26:19,840 - 00:26:21,360] and divide it by delta.
+- [00:26:21,760 - 00:26:23,140] And that's the acceleration.
+- [00:26:23,900 - 00:26:24,420] Well,
+- [00:26:24,420 - 00:26:27,420] that's the discrete approximation to the acceleration.
+- [00:26:27,480 - 00:26:29,720] It's also equal to x of t plus delta
+- [00:26:30,880 - 00:26:32,920] plus x of t minus delta.
+- [00:26:34,240 - 00:26:38,520] Delta minus twice x of t
+- [00:26:40,840 - 00:26:42,280] divided by delta squared.
+- [00:26:42,680 - 00:26:44,500] I'll put the delta squared in a moment.
+- [00:26:45,340 - 00:26:48,260] We want to write that the mass,
+- [00:26:48,320 - 00:26:49,920] we're going to multiply by the mass,
+- [00:26:50,000 - 00:26:51,820] and set it equal to the force.
+- [00:26:52,320 - 00:26:52,980] All right,
+- [00:26:52,980 - 00:26:55,940] so we can write then force over mass.
+- [00:26:56,640 - 00:26:59,060] And now I think I left out the delta squared,
+- [00:26:59,160 - 00:27:00,500] so let's put it in over here,
+- [00:27:00,580 - 00:27:01,260] delta squared.
+- [00:27:03,040 - 00:27:03,900] That's our law of motion.
+- [00:27:04,220 - 00:27:07,560] And now let's solve for x of t plus delta.
+- [00:27:08,200 - 00:27:10,060] x of t plus delta then
+- [00:27:11,400 - 00:27:14,220] is equal to
+- [00:27:17,040 - 00:27:20,560] x of t plus delta
+- [00:27:20,560 - 00:27:22,100] is equal to this.
+- [00:27:22,120 - 00:27:23,640] I like to transpose to the right.
+- [00:27:23,720 - 00:27:26,400] Plus twice x of t
+- [00:27:27,660 - 00:27:31,820] and then minus x of t minus delta.
+- [00:27:31,820 - 00:27:33,560] So I just move this
+- [00:27:33,560 - 00:27:35,300] to the other side a bit.
+- [00:27:35,400 - 00:27:38,160] Does everybody read that?
+- [00:27:38,380 - 00:27:38,740] No.
+- [00:27:39,540 - 00:27:40,760] We're sloppy today.
+- [00:27:41,080 - 00:27:43,440] Could you maybe move your jumper?
+- [00:27:43,960 - 00:27:45,820] Could you move your color jacket?
+- [00:27:46,100 - 00:27:46,520] Oh,
+- [00:27:46,520 - 00:27:46,640] yes.
+- [00:27:47,520 - 00:27:48,060] Yeah,
+- [00:27:48,060 - 00:27:49,500] but I'm also going to move the simulants.
+- [00:27:57,360 - 00:28:01,800] I think it was plus 2x of t.
+- [00:28:06,340 - 00:28:10,190] So it's minus 2x of t
+- [00:28:10,190 - 00:28:14,040] minus x of t minus delta.
+- [00:28:14,600 - 00:28:15,760] Did I get that right?
+- [00:28:15,880 - 00:28:16,200] Yeah,
+- [00:28:16,200 - 00:28:16,420] it does.
+- [00:28:16,860 - 00:28:19,520] That's equal to x of t plus delta.
+- [00:28:20,540 - 00:28:20,820] Well,
+- [00:28:20,820 - 00:28:22,640] now I have a formula that tells me
+- [00:28:22,640 - 00:28:24,160] where the particle will be next,
+- [00:28:24,440 - 00:28:27,220] but I need to know more than just where
+- [00:28:27,220 - 00:28:29,820] it is at the instant of time.
+- [00:28:29,820 - 00:28:32,240] I also need to know where it was
+- [00:28:32,240 - 00:28:34,340] at a previous instant of time.
+- [00:28:34,780 - 00:28:37,440] It's not enough to know where the particle is
+- [00:28:37,440 - 00:28:38,920] to know where it will be next.
+- [00:28:39,480 - 00:28:41,150] You also have to know
+- [00:28:41,150 - 00:28:42,820] where it was in the past.
+- [00:28:44,160 - 00:28:45,830] So it looks like these
+- [00:28:45,830 - 00:28:47,500] are not predictive laws of physics.
+- [00:28:47,900 - 00:28:50,960] They don't satisfy a rule that if you know everything
+- [00:28:50,960 - 00:28:52,340] about the system that you know,
+- [00:28:53,840 - 00:28:55,840] then you can know what's next.
+- [00:28:56,100 - 00:28:56,780] But wait.
+- [00:28:58,060 - 00:28:59,200] That's not really right.
+- [00:28:59,200 - 00:28:59,280] Why?
+- [00:29:01,200 - 00:29:01,720] Because,
+- [00:29:01,720 - 00:29:02,240] again,
+- [00:29:02,240 - 00:29:04,320] chicken and egg story,
+- [00:29:04,640 - 00:29:06,880] what do you mean by saying you know everything
+- [00:29:06,880 - 00:29:08,880] that there is to know about the system?
+- [00:29:09,060 - 00:29:10,880] You mean everything you need to know
+- [00:29:10,880 - 00:29:12,580] in order to predict the future.
+- [00:29:13,100 - 00:29:16,060] That's the definition of what it means
+- [00:29:16,060 - 00:29:17,320] to know everything about the system.
+- [00:29:17,620 - 00:29:20,960] Everything you need to know to predict the future.
+- [00:29:21,300 - 00:29:24,040] So what we learned is we have to know
+- [00:29:24,040 - 00:29:25,140] two pieces of information,
+- [00:29:25,480 - 00:29:28,520] both where the particle is and where it was
+- [00:29:28,520 - 00:29:29,320] one instant later.
+- [00:29:30,980 - 00:29:31,580] Equivalently,
+- [00:29:31,580 - 00:29:35,240] if we think about the real derivatives,
+- [00:29:35,360 - 00:29:37,420] the differential form of the equation,
+- [00:29:37,680 - 00:29:41,800] it really says something again you know very well.
+- [00:29:42,080 - 00:29:45,620] In order to use Newton's equations to be predictive,
+- [00:29:46,360 - 00:29:47,990] you have to know not
+- [00:29:47,990 - 00:29:49,620] only where the particles begin with,
+- [00:29:49,740 - 00:29:51,160] the initial condition,
+- [00:29:51,160 - 00:29:53,520] or the initial condition.
+- [00:29:56,620 - 00:29:57,740] You have to know,
+- [00:29:57,740 - 00:30:02,540] you have to know both the positioning and the velocity.
+- [00:30:04,440 - 00:30:07,520] The velocity tells you where it was a moment ago.
+- [00:30:07,760 - 00:30:09,820] The position tells you where it is now.
+- [00:30:10,540 - 00:30:12,700] So if you know these two things,
+- [00:30:12,840 - 00:30:16,160] then you can predict the future using Newton's equations.
+- [00:30:16,840 - 00:30:18,780] That's what we learned by that little example
+- [00:30:18,780 - 00:30:19,440] about the screen.
+- [00:30:20,040 - 00:30:21,580] This is what you need to know.
+- [00:30:21,980 - 00:30:27,480] And the basic idea now is that the configurator,
+- [00:30:27,480 - 00:30:27,720] not the configurator,
+- [00:30:27,740 - 00:30:29,400] we won't call it configuration space,
+- [00:30:31,140 - 00:30:33,960] the space of what is important,
+- [00:30:34,240 - 00:30:37,280] the space of what is important consists of two things.
+- [00:30:38,860 - 00:30:41,520] Let me write the Newton's equations slightly differently.
+- [00:30:41,780 - 00:30:45,360] Let's try to investigate the predictive power of them
+- [00:30:45,360 - 00:30:47,900] now using the fact that they're
+- [00:30:47,900 - 00:30:50,440] in the form of these things.
+- [00:30:52,280 - 00:30:54,800] Let's invent a new concept called momentum.
+- [00:30:55,580 - 00:30:56,140] Momentum,
+- [00:30:59,060 - 00:31:03,040] is by definition mass times velocity.
+- [00:31:04,760 - 00:31:05,380] Definition,
+- [00:31:05,380 - 00:31:06,380] mass times velocity.
+- [00:31:07,140 - 00:31:10,100] Mass is always assumed to be constant.
+- [00:31:10,260 - 00:31:13,000] The mass of an object in Newton's theory
+- [00:31:13,000 - 00:31:15,100] is always assumed to be constant.
+- [00:31:16,040 - 00:31:18,340] And the mass of a thing can change,
+- [00:31:18,340 - 00:31:18,740] of course.
+- [00:31:18,880 - 00:31:20,180] If this pen is moving along,
+- [00:31:20,500 - 00:31:22,200] the cap can fall off and
+- [00:31:22,200 - 00:31:23,900] the mass of the pen decreases.
+- [00:31:24,460 - 00:31:26,120] But apart from using the momentum,
+- [00:31:26,120 - 00:31:26,480] the mass of the pen is always constant.
+- [00:31:26,480 - 00:31:27,680] So if I take a piece of an object,
+- [00:31:28,020 - 00:31:30,780] and the total mass hasn't changed,
+- [00:31:31,160 - 00:31:33,120] the total mass stays the same,
+- [00:31:33,300 - 00:31:37,340] in Newton's physics the total mass of the system
+- [00:31:37,340 - 00:31:38,380] remains constant.
+- [00:31:40,060 - 00:31:40,740] So,
+- [00:31:40,740 - 00:31:41,420] let's,
+- [00:31:42,060 - 00:31:45,120] the symbol for momentum is p,
+- [00:31:45,940 - 00:31:47,740] and it is of course also a vector.
+- [00:31:48,160 - 00:31:50,100] Since x dot is really b,
+- [00:31:50,200 - 00:31:50,960] it's really velocity.
+- [00:31:53,860 - 00:31:57,140] So now let's rewrite Newton's equations.
+- [00:31:58,000 - 00:31:58,600] Acceleration.
+- [00:32:00,340 - 00:32:02,200] It's obvious from this equation here
+- [00:32:02,200 - 00:32:04,980] that we can rewrite it as force equals,
+- [00:32:05,720 - 00:32:06,860] forget the mass,
+- [00:32:07,460 - 00:32:09,700] just the time derivative of the momentum.
+- [00:32:10,720 - 00:32:12,580] The time derivative of the momentum
+- [00:32:12,580 - 00:32:15,960] is the mass times the time derivative of the velocity,
+- [00:32:16,220 - 00:32:17,520] and that's the acceleration.
+- [00:32:17,920 - 00:32:19,340] So this is m a.
+- [00:32:23,800 - 00:32:28,800] That's the first of the two Newton equations.
+- [00:32:30,100 - 00:32:31,290] See you in a moment when
+- [00:32:31,290 - 00:32:32,480] I say there are two of them.
+- [00:32:33,540 - 00:32:36,460] F is equal to the time derivative of momentum,
+- [00:32:36,560 - 00:32:40,800] and the other equation is that momentum
+- [00:32:41,340 - 00:32:45,120] is equal to the time derivative of position times mass.
+- [00:32:46,080 - 00:32:48,700] Think of this now as two equations,
+- [00:32:49,620 - 00:32:51,800] that are two equations,
+- [00:32:52,020 - 00:32:52,740] different equations,
+- [00:32:54,060 - 00:32:55,960] for x and for p.
+- [00:32:56,060 - 00:32:57,840] Think of them as two separate variables.
+- [00:32:59,640 - 00:33:01,600] Of course we thought of this as a definition,
+- [00:33:01,860 - 00:33:03,220] but now don't think of it as a definition.
+- [00:33:03,400 - 00:33:04,340] Just think of it as an equation.
+- [00:33:04,840 - 00:33:05,840] What does it say?
+- [00:33:05,940 - 00:33:06,580] Is it predictive?
+- [00:33:06,880 - 00:33:08,100] Let's see in what sense it's predictive.
+- [00:33:08,940 - 00:33:10,720] So we can rewrite this.
+- [00:33:11,840 - 00:33:15,040] F is equal to p of
+- [00:33:15,040 - 00:33:18,240] plus delta minus p of p.
+- [00:33:18,240 - 00:33:18,520] That's the time derivative of the momentum,
+- [00:33:18,520 - 00:33:19,260] divided by delta.
+- [00:33:20,320 - 00:33:23,780] Or we can solve for p of p plus delta
+- [00:33:23,780 - 00:33:25,220] in terms of p of t.
+- [00:33:28,520 - 00:33:32,180] And the other equation is that
+- [00:33:32,180 - 00:33:35,760] p is equal to x of t plus delta
+- [00:33:36,540 - 00:33:37,880] minus x of t,
+- [00:33:38,100 - 00:33:39,280] divided by delta.
+- [00:33:40,980 - 00:33:43,500] So if we know x and t,
+- [00:33:44,820 - 00:33:47,060] then we can proceed to
+- [00:33:48,240 - 00:33:49,140] solve and be predictive.
+- [00:33:50,060 - 00:33:53,540] One equation tells you how x changes,
+- [00:33:53,740 - 00:33:55,660] the little incremental change in x,
+- [00:33:55,800 - 00:33:56,380] if you know p.
+- [00:33:56,680 - 00:33:59,200] And the other equation tells you how p changes,
+- [00:33:59,340 - 00:34:01,200] if you know the four-sided system.
+- [00:34:02,220 - 00:34:03,620] So the only new thing
+- [00:34:03,620 - 00:34:05,020] that we have to add then,
+- [00:34:05,240 - 00:34:07,540] is that the space of initial conditions
+- [00:34:07,540 - 00:34:11,199] is not as it was in Aristotle's formulation,
+- [00:34:12,159 - 00:34:14,179] just the space of possible positions.
+- [00:34:14,620 - 00:34:16,960] It's the space of position and momentum.
+- [00:34:18,239 - 00:34:19,820] You can use velocity if you like.
+- [00:34:20,060 - 00:34:22,000] It's kind of traditional to use momentum.
+- [00:34:23,719 - 00:34:28,360] And so we specify the state of a particle,
+- [00:34:29,260 - 00:34:30,639] one-dimensional particle,
+- [00:34:30,840 - 00:34:32,340] assuming our one-dimensional axis,
+- [00:34:32,580 - 00:34:35,080] by specifying a location x
+- [00:34:36,280 - 00:34:38,100] and a momentum p.
+- [00:34:39,380 - 00:34:41,199] Let's just put a picture,
+- [00:34:41,400 - 00:34:42,159] let's see what it means.
+- [00:34:42,620 - 00:34:44,360] We're assuming we know the force.
+- [00:34:44,560 - 00:34:46,860] We're assuming that somebody has given us
+- [00:34:46,860 - 00:34:48,179] the force on the object,
+- [00:34:48,280 - 00:34:49,340] it's a function of time.
+- [00:34:50,699 - 00:34:51,900] So if we know the force,
+- [00:34:51,920 - 00:34:55,600] the first equation tells us how p changes,
+- [00:34:55,739 - 00:34:57,420] the small increment of time,
+- [00:34:57,620 - 00:35:00,780] p changes a little bit from this equation
+- [00:35:00,780 - 00:35:02,240] to the other equation,
+- [00:35:02,360 - 00:35:03,460] it tells us if we know p,
+- [00:35:03,680 - 00:35:06,080] we know how much x moves.
+- [00:35:08,080 - 00:35:09,560] So let's move from here to here.
+- [00:35:11,394 - 00:35:11,474] はい
+- [00:35:14,050 - 00:35:15,490] Once we move from there to there,
+- [00:35:15,490 - 00:35:17,170] we can just do it over and over again.
+- [00:35:17,790 - 00:35:18,810] The next step,
+- [00:35:18,810 - 00:35:20,470] we're at a new value of p.
+- [00:35:21,770 - 00:35:22,390] All right,
+- [00:35:22,390 - 00:35:24,790] so that tells us where x will be next.
+- [00:35:25,590 - 00:35:28,010] And we're at a new value of the force.
+- [00:35:28,030 - 00:35:30,550] That tells us where x will be.
+- [00:35:30,770 - 00:35:33,790] And so we build up a trajectory completely predictive.
+- [00:35:35,090 - 00:35:37,510] Completely predictive of Newton's equations.
+- [00:35:37,590 - 00:35:39,990] And you should think of Newton's equations in this language
+- [00:35:39,990 - 00:35:43,310] as being two first order equations.
+- [00:35:44,770 - 00:35:47,410] First order equations mean only first time derivatives,
+- [00:35:47,410 - 00:35:48,950] but for two variables.
+- [00:35:49,550 - 00:35:51,430] Instead of one second order equation,
+- [00:35:51,430 - 00:35:53,050] two first order equations.
+- [00:35:53,470 - 00:35:55,870] And once you get it completely predictive.
+- [00:35:57,710 - 00:35:58,430] Okay,
+- [00:35:58,430 - 00:36:03,590] the space of positions and components of,
+- [00:36:03,590 - 00:36:05,550] positions and components of momentum.
+- [00:36:05,810 - 00:36:07,990] The name is called phase space.
+- [00:36:09,070 - 00:36:09,950] Phase space.
+- [00:36:09,950 - 00:36:12,310] It's a very important concept in all of physics.
+- [00:36:12,530 - 00:36:13,250] Phase space.
+- [00:36:14,810 - 00:36:16,070] So on the one hand,
+- [00:36:16,070 - 00:36:17,930] space is initial conditions.
+- [00:36:18,090 - 00:36:19,870] What you have to know to predict the future.
+- [00:36:20,170 - 00:36:21,050] In this case,
+- [00:36:21,050 - 00:36:22,090] it's just a single particle.
+- [00:36:22,949 - 00:36:25,950] And it's positions and velocity,
+- [00:36:25,950 - 00:36:27,090] the positions and momentum.
+- [00:36:27,310 - 00:36:27,510] Yes?
+- [00:36:28,970 - 00:36:29,830] If it's,
+- [00:36:29,830 - 00:36:30,770] in your previous example,
+- [00:36:30,770 - 00:36:32,550] f is actually a function of x,
+- [00:36:33,089 - 00:36:35,610] then isn't it a more complicated kind of.
+- [00:36:35,650 - 00:36:35,910] Yes,
+- [00:36:35,910 - 00:36:36,310] yes,
+- [00:36:36,310 - 00:36:36,710] yes.
+- [00:36:38,089 - 00:36:38,570] Yes.
+- [00:36:38,570 - 00:36:39,050] Right.
+- [00:36:39,170 - 00:36:39,550] So.
+- [00:36:39,950 - 00:36:42,530] So if this happens to be a function of x,
+- [00:36:42,530 - 00:36:44,730] rather than a known function of time,
+- [00:36:45,290 - 00:36:47,510] if the force depends on where you are,
+- [00:36:47,510 - 00:36:50,330] still it's true that if you know x and p
+- [00:36:50,330 - 00:36:51,290] and an instant,
+- [00:36:51,290 - 00:36:55,010] this equation will tell you where p will be next.
+- [00:36:55,810 - 00:36:57,170] And this equation will tell
+- [00:36:57,170 - 00:36:58,530] you where x will be next.
+- [00:36:59,170 - 00:37:01,430] You can use it to update the initial condition
+- [00:37:01,430 - 00:37:03,690] and then do it again and again and again.
+- [00:37:04,030 - 00:37:04,730] So yes,
+- [00:37:04,730 - 00:37:05,290] it's,
+- [00:37:05,290 - 00:37:07,190] it's,
+- [00:37:07,190 - 00:37:07,890] okay.
+- [00:37:09,950 - 00:37:16,440] So let's sort of take an example now analogous to the
+- [00:37:16,440 - 00:37:22,930] case that Aristotle did to describe the motion of a spring
+- [00:37:24,530 - 00:37:26,330] when he pulled it and let it go.
+- [00:37:26,470 - 00:37:27,310] And what happened to Aristotle?
+- [00:37:27,770 - 00:37:30,210] He pulled it and let it go and
+- [00:37:30,210 - 00:37:32,650] it just exponentially drifted to the origin of stop.
+- [00:37:33,530 - 00:37:34,050] Remember?
+- [00:37:34,370 - 00:37:34,630] Okay.
+- [00:37:34,770 - 00:37:35,670] And therefore,
+- [00:37:35,670 - 00:37:38,630] he was unable to predict where it came from.
+- [00:37:38,870 - 00:37:39,850] After a period.
+- [00:37:39,950 - 00:37:40,370] Of time,
+- [00:37:40,370 - 00:37:42,470] it just comes to rest in the story.
+- [00:37:43,090 - 00:37:51,450] Let's do the same analogous thing for the Newtonian version.
+- [00:37:52,070 - 00:37:52,550] We,
+- [00:37:52,550 - 00:37:54,780] there's no particular reason at the moment
+- [00:37:54,780 - 00:37:57,010] to think of it as two separate equations.
+- [00:37:57,310 - 00:37:57,870] We can,
+- [00:37:57,870 - 00:38:00,050] but let's think of it as just an equation.
+- [00:38:01,550 - 00:38:05,110] F mass times acceleration x double
+- [00:38:05,110 - 00:38:08,670] dot is equal to minus kx.
+- [00:38:10,210 - 00:38:13,320] That's the same case that Aristotle did except
+- [00:38:13,320 - 00:38:16,430] Aristotle wrote x dot instead of x double dot.
+- [00:38:16,670 - 00:38:18,250] Newton writes x double dot,
+- [00:38:18,250 - 00:38:19,210] second time.
+- [00:38:20,050 - 00:38:21,070] And let's solve,
+- [00:38:21,070 - 00:38:21,950] let's solve it.
+- [00:38:22,070 - 00:38:24,230] I'd rather solve it with a finger up.
+- [00:38:24,590 - 00:38:26,190] Let's simplify it first.
+- [00:38:26,650 - 00:38:27,990] Let's simplify it so we're not
+- [00:38:27,990 - 00:38:29,330] carrying around a bunch of constants.
+- [00:38:29,750 - 00:38:31,320] Let's set n equal to
+- [00:38:31,320 - 00:38:32,890] one and k equal to one.
+- [00:38:34,910 - 00:38:35,430] Okay.
+- [00:38:35,490 - 00:38:35,830] Just the,
+- [00:38:35,830 - 00:38:37,720] the point of waiting here is
+- [00:38:37,720 - 00:38:39,610] not to carry the constants around.
+- [00:38:39,950 - 00:38:40,250] It's to,
+- [00:38:40,250 - 00:38:43,830] it's to understand the logic.
+- [00:38:44,130 - 00:38:46,310] So here's our equation x double dot.
+- [00:38:46,670 - 00:38:48,910] So let's compare it with x dot.
+- [00:38:49,350 - 00:38:53,820] The solution of this was x is equal to a
+- [00:38:53,820 - 00:38:58,290] constant x of zero times e to the minus t.
+- [00:39:00,050 - 00:39:01,390] After a long time,
+- [00:39:01,390 - 00:39:03,290] it just grips the arrow and it stops.
+- [00:39:03,870 - 00:39:04,910] What about this equation?
+- [00:39:05,330 - 00:39:07,540] We're looking for a function whose second
+- [00:39:07,540 - 00:39:09,750] time derivative is the same as itself.
+- [00:39:09,830 - 00:39:09,930] Okay.
+- [00:39:09,930 - 00:39:11,450] Except for the minus sign.
+- [00:39:12,130 - 00:39:12,790] All right.
+- [00:39:12,850 - 00:39:13,450] I think,
+- [00:39:13,450 - 00:39:14,410] I don't know,
+- [00:39:14,410 - 00:39:16,290] we all know the solution to such an equation.
+- [00:39:16,950 - 00:39:19,250] Some of us know the solution to such an equation.
+- [00:39:19,810 - 00:39:20,870] I don't know about you.
+- [00:39:21,590 - 00:39:25,270] They will satisfy equations like this of sines and cosines.
+- [00:39:26,910 - 00:39:27,870] In fact,
+- [00:39:27,870 - 00:39:29,690] let's just say sines or cosines.
+- [00:39:30,569 - 00:39:31,670] Sines and cosines.
+- [00:39:31,949 - 00:39:33,810] If you differentiate a sine,
+- [00:39:33,810 - 00:39:35,490] you get minus the cosine.
+- [00:39:36,069 - 00:39:37,730] If you differentiate a cosine,
+- [00:39:37,730 - 00:39:39,270] you get the sine.
+- [00:39:39,930 - 00:39:41,790] So differentiating sine twice,
+- [00:39:41,790 - 00:39:45,290] you get minus cosine and then back to minus sine.
+- [00:39:45,830 - 00:39:53,070] So the general solution of this equation is that
+- [00:39:53,070 - 00:40:00,310] x is equal to a constant times sine of
+- [00:40:00,310 - 00:40:01,110] t,
+- [00:40:01,110 - 00:40:04,130] let's call it minus t naught.
+- [00:40:07,170 - 00:40:08,870] You could use cosine.
+- [00:40:09,110 - 00:40:09,790] It doesn't matter.
+- [00:40:09,870 - 00:40:09,910] It's just a constant.
+- [00:40:09,930 - 00:40:11,650] It can be either cosine or sine.
+- [00:40:15,710 - 00:40:16,570] Let's use cosine.
+- [00:40:19,050 - 00:40:19,490] Now,
+- [00:40:19,490 - 00:40:21,170] the cosine of any angle is
+- [00:40:21,170 - 00:40:22,850] also the sine of some other angle,
+- [00:40:22,850 - 00:40:23,210] isn't it?
+- [00:40:23,570 - 00:40:24,010] Right?
+- [00:40:24,190 - 00:40:25,150] So it's just a shift
+- [00:40:25,150 - 00:40:26,110] of what I call t naught.
+- [00:40:26,190 - 00:40:26,950] Let's use cosine.
+- [00:40:28,410 - 00:40:31,190] Cosine of t minus t naught.
+- [00:40:32,590 - 00:40:33,030] Okay.
+- [00:40:35,490 - 00:40:37,470] When is the velocity equal to zero?
+- [00:40:37,650 - 00:40:38,910] Can anybody come from this equation?
+- [00:40:38,990 - 00:40:39,910] When is the velocity equal to zero?
+- [00:40:42,990 - 00:40:45,210] t minus t naught equals pi over t
+- [00:40:50,290 - 00:40:51,970] oh no that's what x equals
+- [00:40:51,970 - 00:41:01,830] the derivative of cosine is zero
+- [00:41:01,830 - 00:41:03,650] when the argument of cosine is zero
+- [00:41:03,650 - 00:41:05,870] so the velocity is zero
+- [00:41:05,870 - 00:41:07,310] when t is equal to t naught
+- [00:41:07,310 - 00:41:08,590] well that tells me
+- [00:41:09,570 - 00:41:10,690] that the velocity is zero
+- [00:41:10,690 - 00:41:13,010] so t naught then just tells us
+- [00:41:13,010 - 00:41:14,850] that the velocity is zero
+- [00:41:14,850 - 00:41:18,030] and c tells us we have to prove the vibration
+- [00:41:19,610 - 00:41:22,850] that's the only solution that there are in this equation
+- [00:41:22,850 - 00:41:24,150] constant over here,
+- [00:41:24,150 - 00:41:24,770] two constants
+- [00:41:24,770 - 00:41:26,410] c and t naught
+- [00:41:26,410 - 00:41:28,270] and that's the most general solution
+- [00:41:28,270 - 00:41:31,550] now what kind of motion is this?
+- [00:41:31,770 - 00:41:33,610] first of all it doesn't have to rest
+- [00:41:34,630 - 00:41:36,790] it may stop momentarily
+- [00:41:36,790 - 00:41:38,570] at the maximum of the constant
+- [00:41:38,590 - 00:41:38,690] so it's cosine
+- [00:41:38,690 - 00:41:40,450] but it won't come to rest
+- [00:41:40,450 - 00:41:41,670] it will keep oscillating
+- [00:41:43,130 - 00:41:45,250] in fact when it comes to rest
+- [00:41:45,250 - 00:41:47,810] is at the maximum value of the expression
+- [00:41:49,070 - 00:41:50,610] and when it gets to the origin
+- [00:41:50,610 - 00:41:52,470] it's when the velocity is maximum
+- [00:41:52,470 - 00:41:54,750] so it's exchanging back and forth
+- [00:41:54,750 - 00:41:56,030] velocity for amplitude
+- [00:41:56,849 - 00:41:58,350] but in the middle comes the rest
+- [00:41:58,350 - 00:41:59,530] so there's no danger
+- [00:42:00,029 - 00:42:02,610] that it will do this kind of reversible thing
+- [00:42:02,610 - 00:42:04,710] of losing track of where the hell it started
+- [00:42:04,710 - 00:42:05,850] but we can do a little better
+- [00:42:06,510 - 00:42:08,570] we can plot the motion a little better
+- [00:42:12,749 - 00:42:15,590] let's calculate the velocity
+- [00:42:15,590 - 00:42:16,490] this is x
+- [00:42:17,490 - 00:42:18,890] what about x dot?
+- [00:42:20,750 - 00:42:22,950] all we have to do is differentiate this
+- [00:42:22,950 - 00:42:24,390] what's the derivative of it?
+- [00:42:25,190 - 00:42:30,290] minus c sine of t minus one
+- [00:42:33,570 - 00:42:34,430] let's take
+- [00:42:34,430 - 00:42:37,770] this is also the momentum
+- [00:42:37,770 - 00:42:38,570] because it's a momentum
+- [00:42:38,590 - 00:42:39,810] except mass equal to one
+- [00:42:40,670 - 00:42:44,210] so the position is cosine of t minus t naught
+- [00:42:44,210 - 00:42:47,210] and the momentum is sine of t minus t naught
+- [00:42:49,070 - 00:42:51,910] consider this thing moving in phase space
+- [00:42:51,910 - 00:42:52,690] here's p
+- [00:42:53,230 - 00:42:54,590] and here's x
+- [00:42:55,750 - 00:42:58,030] x and p are both oscillating
+- [00:42:58,560 - 00:43:00,030] but there's something else we can say
+- [00:43:00,340 - 00:43:02,145] we can say that x
+- [00:43:02,145 - 00:43:03,950] squared plus p squared is constant
+- [00:43:04,590 - 00:43:05,850] in fact what is it equal to?
+- [00:43:05,890 - 00:43:06,690] it's equal to c squared
+- [00:43:06,690 - 00:43:10,330] x squared plus p squared
+- [00:43:10,330 - 00:43:12,510] we use sine squared for some
+- [00:43:12,510 - 00:43:13,770] cosine squared is one
+- [00:43:14,470 - 00:43:15,910] x squared plus p squared
+- [00:43:17,950 - 00:43:19,830] is equal to c squared
+- [00:43:20,670 - 00:43:23,310] so first of all we see that
+- [00:43:23,310 - 00:43:24,870] in the phase space
+- [00:43:25,690 - 00:43:30,650] the point describing the configuration of phase space
+- [00:43:30,650 - 00:43:33,670] moves on the circle of radius c
+- [00:43:34,850 - 00:43:36,670] now c is an arbitrary number
+- [00:43:36,670 - 00:43:40,130] we can have big circles,
+- [00:43:40,130 - 00:43:41,130] small circles,
+- [00:43:41,130 - 00:43:41,910] and so forth
+- [00:43:43,510 - 00:43:44,550] smaller circle,
+- [00:43:44,550 - 00:43:45,990] smaller circle
+- [00:43:45,990 - 00:43:48,349] these are different initial conditions
+- [00:43:50,490 - 00:43:52,260] the big circles are ones
+- [00:43:52,260 - 00:43:54,030] where we pull the spring far
+- [00:43:54,810 - 00:43:56,050] and then let it go
+- [00:43:56,650 - 00:43:58,250] and it oscillates back and forth
+- [00:43:58,250 - 00:43:59,880] the small circles are ones where
+- [00:43:59,880 - 00:44:01,510] we displace it a little bit
+- [00:44:01,510 - 00:44:03,630] still oscillating back and forth
+- [00:44:03,630 - 00:44:05,140] in fact the amount of time that
+- [00:44:05,140 - 00:44:06,650] it takes to go back and forth
+- [00:44:06,650 - 00:44:07,370] all the way around
+- [00:44:08,050 - 00:44:09,090] is the same
+- [00:44:11,850 - 00:44:13,010] independent of c
+- [00:44:13,650 - 00:44:15,270] it takes an amount of time
+- [00:44:15,270 - 00:44:16,890] to go all the way around
+- [00:44:17,550 - 00:44:19,970] and all of the points in phase space here
+- [00:44:19,970 - 00:44:21,370] move the same way
+- [00:44:22,210 - 00:44:24,210] they may start at different locations
+- [00:44:24,210 - 00:44:26,750] but they just move around in circles
+- [00:44:28,730 - 00:44:31,130] that is not only predictable to the future
+- [00:44:31,470 - 00:44:32,970] but it's predictable to the past
+- [00:44:34,130 - 00:44:36,430] if you know where the system is
+- [00:44:36,650 - 00:44:38,410] if you know the time
+- [00:44:39,630 - 00:44:41,290] where will it be next
+- [00:44:41,290 - 00:44:44,350] after a certain amount of time t
+- [00:44:44,350 - 00:44:46,070] it will have moved
+- [00:44:47,950 - 00:44:49,050] over an angle
+- [00:44:49,610 - 00:44:52,330] over an angle of this difference
+- [00:44:52,330 - 00:44:55,050] it's just a small change in time
+- [00:44:55,710 - 00:44:56,840] so the whole thing is
+- [00:44:56,840 - 00:44:57,970] just moving around in a circle
+- [00:44:57,970 - 00:44:59,050] forever and ever
+- [00:44:59,050 - 00:45:01,170] every ball of points in the phase space
+- [00:45:01,170 - 00:45:02,590] just moving like clockwork
+- [00:45:03,250 - 00:45:04,570] there is no danger
+- [00:45:04,570 - 00:45:05,530] no possibility
+- [00:45:05,530 - 00:45:07,470] of losing track
+- [00:45:07,470 - 00:45:08,710] or of
+- [00:45:09,670 - 00:45:12,670] not being able to predict the future or the past
+- [00:45:12,670 - 00:45:13,890] in fact the past and
+- [00:45:13,890 - 00:45:15,110] the future are very much alike
+- [00:45:15,110 - 00:45:16,930] the only difference is
+- [00:45:16,930 - 00:45:19,110] you can't just copy and paste one
+- [00:45:19,110 - 00:45:20,650] you can't just copy and paste the other
+- [00:45:22,090 - 00:45:22,690] so
+- [00:45:22,690 - 00:45:23,930] this is
+- [00:45:23,930 - 00:45:25,090] yes
+- [00:45:25,090 - 00:45:26,690] so instead of
+- [00:45:26,690 - 00:45:27,970] double derivative
+- [00:45:28,490 - 00:45:31,770] instead of double derivative of x equal to minus x
+- [00:45:31,770 - 00:45:35,270] if you make it equal to single derivative of
+- [00:45:35,270 - 00:45:36,430] minus x
+- [00:45:36,430 - 00:45:39,710] then don't we lose the predictability
+- [00:45:39,710 - 00:45:40,110] no
+- [00:45:40,530 - 00:45:40,930] no
+- [00:45:41,650 - 00:45:42,990] we'll come back to that one
+- [00:45:42,990 - 00:45:44,050] we'll come back to that one
+- [00:45:44,050 - 00:45:44,850] no we don't
+- [00:45:46,670 - 00:45:49,090] there's a theorem that we're eventually going to prove
+- [00:45:51,290 - 00:45:52,690] but we'll come back to it
+- [00:45:52,690 - 00:45:53,510] we'll come back to it
+- [00:45:53,510 - 00:45:54,450] in what sense
+- [00:45:57,910 - 00:45:58,310] what
+- [00:46:03,130 - 00:46:04,150] we'll come back to that one
+- [00:46:05,270 - 00:46:06,090] okay let's
+- [00:46:06,090 - 00:46:08,630] let's see what else will we do with this
+- [00:46:08,630 - 00:46:10,210] I think not much for the moment
+- [00:46:11,129 - 00:46:12,170] let's do one more
+- [00:46:14,269 - 00:46:14,559] another
+- [00:46:16,009 - 00:46:17,470] quick question on you
+- [00:46:17,470 - 00:46:21,190] one of the basic premises of your model is
+- [00:46:21,190 - 00:46:23,030] things should be reversible
+- [00:46:24,330 - 00:46:25,910] well we're testing out c
+- [00:46:25,910 - 00:46:27,810] what things are reversible or counter-reversible
+- [00:46:27,810 - 00:46:28,510] yeah I think
+- [00:46:28,510 - 00:46:32,390] you know given the axiomatic system you described last week
+- [00:46:32,390 - 00:46:34,850] that's by definition the case
+- [00:46:34,850 - 00:46:36,990] but why should we believe that
+- [00:46:36,990 - 00:46:39,130] that is true of physics in general
+- [00:46:40,970 - 00:46:42,990] we try it out and see how it works
+- [00:46:42,990 - 00:46:43,810] that's all I can say
+- [00:46:44,450 - 00:46:46,150] why does it have to be true
+- [00:46:51,829 - 00:46:54,499] I think all we can do is build
+- [00:46:54,499 - 00:46:57,170] up the laws of physics as we know them
+- [00:46:57,950 - 00:46:58,770] look at them
+- [00:46:58,770 - 00:47:00,090] look at the common features
+- [00:47:01,129 - 00:47:03,170] and of course they come from experiment right
+- [00:47:03,170 - 00:47:04,750] we look at the common features
+- [00:47:04,850 - 00:47:07,810] we try to derive principles from the common features
+- [00:47:07,810 - 00:47:09,630] the common features we call principles
+- [00:47:09,630 - 00:47:12,250] and we ask what principles are there
+- [00:47:12,730 - 00:47:15,850] now I am of course teaching a course
+- [00:47:15,850 - 00:47:17,950] that starts from the most elementary
+- [00:47:17,950 - 00:47:20,050] physics and goes to the most advanced
+- [00:47:20,770 - 00:47:23,070] the logic really goes the other way
+- [00:47:23,070 - 00:47:25,050] the real logic goes the other way
+- [00:47:25,050 - 00:47:27,890] the most advanced thing we go into the study
+- [00:47:27,890 - 00:47:30,990] well let's call it quantum field theory or something
+- [00:47:30,990 - 00:47:34,110] quantum field theory is really the bedrock foundation
+- [00:47:34,110 - 00:47:34,830] of what we're doing
+- [00:47:34,850 - 00:47:35,410] and what quantum physics is about
+- [00:47:35,410 - 00:47:38,530] and from it by a series of approximations
+- [00:47:39,570 - 00:47:40,610] slow motion
+- [00:47:40,610 - 00:47:42,190] heavy objects
+- [00:47:44,030 - 00:47:45,070] various approximations
+- [00:47:45,070 - 00:47:46,650] you derive these equations
+- [00:47:47,770 - 00:47:51,290] so really in fact the logic goes the other way
+- [00:47:52,890 - 00:47:54,130] but when I'm teaching it
+- [00:47:54,130 - 00:47:55,370] I can't teach it that way
+- [00:47:55,370 - 00:47:57,250] so we start with some simple principles
+- [00:47:57,250 - 00:47:59,450] which I know in the end are going to
+- [00:47:59,450 - 00:48:01,650] be the ones which do derive quantum field theory
+- [00:48:01,650 - 00:48:02,630] I know that
+- [00:48:02,630 - 00:48:04,370] I know that quantum field theory works this way
+- [00:48:04,850 - 00:48:06,840] but for our present purposes I
+- [00:48:06,840 - 00:48:08,830] think we have to postulate some things
+- [00:48:10,490 - 00:48:13,550] and I'm using my personal hindsight
+- [00:48:13,550 - 00:48:16,070] and trying to convey to you
+- [00:48:16,810 - 00:48:18,910] what in the future you will
+- [00:48:18,910 - 00:48:21,010] see as a set of principles
+- [00:48:21,010 - 00:48:24,410] that derive from a small number of assumptions
+- [00:48:24,410 - 00:48:26,010] but we can't do it all at once
+- [00:48:27,870 - 00:48:28,430] okay
+- [00:48:28,430 - 00:48:31,210] so is that fair to say that Newton
+- [00:48:32,390 - 00:48:33,610] reversibility wasn't something Newton
+- [00:48:33,610 - 00:48:34,830] understood to be a problem
+- [00:48:34,850 - 00:48:34,990] or is it more important
+- [00:48:35,810 - 00:48:37,610] I don't know
+- [00:48:37,610 - 00:48:38,790] I doubt it
+- [00:48:38,790 - 00:48:39,710] I don't know
+- [00:48:39,710 - 00:48:41,250] it's a tricky question
+- [00:48:44,150 - 00:48:46,530] but he did understand the principle of inertia
+- [00:48:46,530 - 00:48:49,470] he certainly understood the principle of inertia
+- [00:48:49,470 - 00:48:51,810] that it doesn't take force to make something move
+- [00:48:51,810 - 00:48:53,930] it takes force to make
+- [00:48:53,930 - 00:48:56,050] something change its state of motion
+- [00:48:56,870 - 00:48:58,610] so I don't know to what
+- [00:48:58,610 - 00:49:00,350] extent Newton was aware of the reversibility
+- [00:49:00,350 - 00:49:02,710] now I will also tell you something else
+- [00:49:02,710 - 00:49:04,070] you can see the reversibility
+- [00:49:04,070 - 00:49:04,950] in another form
+- [00:49:04,950 - 00:49:06,750] let's take this equation
+- [00:49:07,369 - 00:49:09,210] well let's first start with Aristotle
+- [00:49:09,210 - 00:49:11,240] the x times e t
+- [00:49:11,240 - 00:49:13,270] is equal to f of x
+- [00:49:14,710 - 00:49:16,570] what happens to this equation
+- [00:49:16,570 - 00:49:19,770] if you change the sign of pi
+- [00:49:19,770 - 00:49:21,990] if you invent a new time variable
+- [00:49:21,990 - 00:49:25,690] let's call it capital T equals minus
+- [00:49:25,690 - 00:49:28,870] what happens to the equation
+- [00:49:30,090 - 00:49:31,610] what happens to the sign
+- [00:49:32,770 - 00:49:33,670] there's a new one
+- [00:49:34,070 - 00:49:34,670] it changes sign
+- [00:49:34,670 - 00:49:36,410] what happens to this sign
+- [00:49:36,410 - 00:49:37,990] it doesn't change the sign
+- [00:49:37,990 - 00:49:39,110] by definition
+- [00:49:39,110 - 00:49:40,270] when I say this equation
+- [00:49:40,270 - 00:49:41,310] I mean take this equation
+- [00:49:41,310 - 00:49:43,590] and change the sign of pi
+- [00:49:45,010 - 00:49:47,790] the equation does not stay the same
+- [00:49:47,790 - 00:49:49,110] it's not the same equation
+- [00:49:49,850 - 00:49:50,970] the meaning of that
+- [00:49:50,970 - 00:49:54,970] is that if you took a movie of a process
+- [00:49:54,970 - 00:49:56,810] and you ran it backward
+- [00:49:56,810 - 00:50:00,170] it would not be a solution to the same equations
+- [00:50:00,770 - 00:50:02,010] not too surprising
+- [00:50:02,010 - 00:50:04,050] if you take Aristotle's equation
+- [00:50:04,070 - 00:50:05,650] you can see that the force of Aristotle's law
+- [00:50:05,650 - 00:50:07,530] things come to the rest of it actually
+- [00:50:08,070 - 00:50:09,930] they don't suddenly start moving
+- [00:50:09,930 - 00:50:11,210] according to his laws
+- [00:50:11,830 - 00:50:13,310] or according to his calculations
+- [00:50:14,070 - 00:50:17,670] so this equation is not reversible
+- [00:50:17,670 - 00:50:19,250] in the sense that if you
+- [00:50:19,250 - 00:50:20,830] change the sign of the time
+- [00:50:20,830 - 00:50:23,550] the equation doesn't stay the same
+- [00:50:24,290 - 00:50:26,270] what about Newton's equation
+- [00:50:27,070 - 00:50:29,070] d second x by b t squared
+- [00:50:29,930 - 00:50:33,010] what happens if you change the sign of pi here
+- [00:50:36,310 - 00:50:37,430] nothing happens
+- [00:50:39,850 - 00:50:41,490] t goes to minus t
+- [00:50:43,370 - 00:50:46,070] d squared stays the same as t squared
+- [00:50:46,070 - 00:50:47,550] so does d t squared
+- [00:50:48,750 - 00:50:52,130] so second time derivatives don't change time
+- [00:50:52,130 - 00:50:54,910] when you change time to minus time
+- [00:50:55,530 - 00:50:56,890] another way of saying it
+- [00:50:56,890 - 00:50:58,810] is that an object has a certain acceleration
+- [00:50:58,810 - 00:51:01,990] and you take a movie of it
+- [00:51:01,990 - 00:51:02,990] and run it
+- [00:51:03,010 - 00:51:03,610] and you run the movie backward
+- [00:51:03,610 - 00:51:05,350] what happens to the acceleration
+- [00:51:07,210 - 00:51:07,890] nothing
+- [00:51:08,869 - 00:51:11,350] you run a movie of an acceleration backward
+- [00:51:12,010 - 00:51:14,150] and it is exactly the same acceleration
+- [00:51:16,769 - 00:51:19,390] whereas if you run a movie backward of a velocity
+- [00:51:19,730 - 00:51:21,270] the velocity changes time
+- [00:51:22,930 - 00:51:25,430] so Newton's equations in that sense
+- [00:51:25,430 - 00:51:26,470] are reversible
+- [00:51:26,470 - 00:51:28,420] in that if you take
+- [00:51:28,420 - 00:51:30,370] a movie of a possible motion
+- [00:51:31,010 - 00:51:32,830] but solve Newton's equation
+- [00:51:32,830 - 00:51:33,890] and run it backwards
+- [00:51:33,890 - 00:51:35,230] it is another solution
+- [00:51:35,830 - 00:51:38,070] you can't tell which movie
+- [00:51:38,070 - 00:51:40,070] was the solution of the equations
+- [00:51:40,070 - 00:51:41,730] and which wasn't because they both are
+- [00:51:41,730 - 00:51:43,370] whereas an aerosol was law
+- [00:51:43,370 - 00:51:44,030] you know
+- [00:51:46,550 - 00:51:47,450] okay so
+- [00:51:51,830 - 00:51:53,130] we'll come back to this
+- [00:51:53,130 - 00:51:54,510] we'll talk about some more examples
+- [00:52:00,150 - 00:52:01,760] the next thing we want
+- [00:52:01,760 - 00:52:03,370] to talk about a little bit
+- [00:52:03,370 - 00:52:04,430] is conservation laws
+- [00:52:04,430 - 00:52:07,390] when we were talking about very simple laws of physics
+- [00:52:08,190 - 00:52:11,230] namely coins and dyes and ice
+- [00:52:11,230 - 00:52:13,610] we talked about conservation laws
+- [00:52:13,610 - 00:52:15,270] conservation laws were simply numbers that
+- [00:52:15,270 - 00:52:16,930] we can attach to a trajectory
+- [00:52:16,930 - 00:52:17,870] such as a chain
+- [00:52:18,430 - 00:52:21,210] numbers which are called being attached to a cycle
+- [00:52:22,330 - 00:52:22,930] incidentally
+- [00:52:22,930 - 00:52:24,909] in this case here
+- [00:52:24,909 - 00:52:27,430] it's clear that all of the motions
+- [00:52:27,430 - 00:52:29,169] lie on cycles
+- [00:52:29,869 - 00:52:31,230] cycles that go here and then around
+- [00:52:33,530 - 00:52:34,850] in a different cycle
+- [00:52:34,850 - 00:52:37,050] you never jump from one to another
+- [00:52:37,050 - 00:52:39,210] you never jump from one to another
+- [00:52:39,210 - 00:52:41,550] so apparently there is a conservation law
+- [00:52:42,810 - 00:52:44,350] however you describe it
+- [00:52:44,350 - 00:52:47,150] this orbit cannot jump to this orbit
+- [00:52:47,150 - 00:52:48,870] so it can ascribe
+- [00:52:49,590 - 00:52:51,130] to the different orbits
+- [00:52:51,130 - 00:52:52,530] a quantity
+- [00:52:53,489 - 00:52:54,610] what was it?
+- [00:52:54,610 - 00:52:55,890] it was a quantity c squared
+- [00:52:58,050 - 00:52:59,610] which was in fact
+- [00:53:00,550 - 00:53:03,490] x dot squared plus x squared
+- [00:53:05,550 - 00:53:07,290] should we have a name for that quantity?
+- [00:53:07,630 - 00:53:08,530] what's it called?
+- [00:53:09,850 - 00:53:10,970] is it information?
+- [00:53:11,470 - 00:53:12,070] energy
+- [00:53:12,070 - 00:53:13,370] energy
+- [00:53:13,370 - 00:53:13,970] energy
+- [00:53:14,689 - 00:53:16,290] well strictly speaking
+- [00:53:16,290 - 00:53:18,130] it's a mass here
+- [00:53:18,130 - 00:53:19,430] divided by two
+- [00:53:19,430 - 00:53:21,930] and a k divided by two
+- [00:53:21,930 - 00:53:23,310] and since I said the
+- [00:53:23,310 - 00:53:24,690] mass of k equal to one
+- [00:53:25,950 - 00:53:26,470] then
+- [00:53:28,490 - 00:53:31,190] c squared apart from a factor of two
+- [00:53:31,190 - 00:53:33,030] is the energy of the orbit
+- [00:53:33,570 - 00:53:35,630] different orbits of different radii
+- [00:53:35,630 - 00:53:37,750] correspond to different energies
+- [00:53:39,690 - 00:53:40,510] and that's it
+- [00:53:40,510 - 00:53:42,790] that's the whole story of the course of Armani oscillator
+- [00:53:42,790 - 00:53:45,010] we'll come back to it many times
+- [00:53:45,010 - 00:53:48,810] it's the foundation of an awful lot of physics
+- [00:53:49,730 - 00:53:50,250] but
+- [00:53:50,250 - 00:53:51,910] what you should have in your mind now
+- [00:53:51,910 - 00:53:52,830] is that
+- [00:53:52,830 - 00:53:54,530] the theory of the harmonic oscillator
+- [00:53:55,250 - 00:53:56,630] is a theory in phase space
+- [00:53:57,430 - 00:53:58,930] where the oscillator
+- [00:53:58,930 - 00:54:01,150] where the system simply executes
+- [00:54:01,150 - 00:54:03,030] circular motions in phase space
+- [00:54:04,250 - 00:54:07,070] of different radii corresponding to different energy
+- [00:54:07,630 - 00:54:09,990] and the thing it can do is vary the energy
+- [00:54:09,990 - 00:54:11,860] and also vary the starting
+- [00:54:11,860 - 00:54:13,730] point of time t equals zero
+- [00:54:13,730 - 00:54:14,930] you can start it over here
+- [00:54:14,930 - 00:54:16,050] you can start it over here
+- [00:54:16,050 - 00:54:17,130] you can start it over here
+- [00:54:17,830 - 00:54:18,730] and that's all
+- [00:54:21,250 - 00:54:23,310] if you project the motion
+- [00:54:23,930 - 00:54:25,650] onto the horizontal axis
+- [00:54:26,370 - 00:54:28,070] then you're just looking at x
+- [00:54:28,070 - 00:54:29,010] and what does x do?
+- [00:54:29,190 - 00:54:31,030] it goes back and forth and back and forth
+- [00:54:31,610 - 00:54:33,290] it's the vibrating oscillator
+- [00:54:33,290 - 00:54:35,650] if you project it onto the p-axis
+- [00:54:36,590 - 00:54:37,990] or both axes
+- [00:54:37,990 - 00:54:41,090] you notice that when x gets to its maximum
+- [00:54:41,090 - 00:54:42,610] p is zero
+- [00:54:43,270 - 00:54:44,350] velocity is zero
+- [00:54:44,350 - 00:54:47,310] and then it swings in
+- [00:54:47,310 - 00:54:49,230] and when s gets to zero,
+- [00:54:49,230 - 00:54:52,030] that's when it's moving with the most rapid momentum.
+- [00:54:52,910 - 00:54:58,110] So that's an example for us for now.
+- [00:55:01,270 - 00:55:01,870] Okay,
+- [00:55:01,870 - 00:55:03,890] let's talk about momentum conservation.
+- [00:55:08,030 - 00:55:10,310] Let's talk about Newton's first and second law.
+- [00:55:12,070 - 00:55:13,430] Newton's first and second law.
+- [00:55:13,890 - 00:55:16,550] Newton's first law is in the absence of forces,
+- [00:55:16,550 - 00:55:18,150] a thing moves with a constant velocity.
+- [00:55:19,310 - 00:55:22,570] Newton's second law is that in the presence of forces,
+- [00:55:22,570 - 00:55:26,150] the force is equal to the mass times the acceleration.
+- [00:55:27,070 - 00:55:28,910] One of these is clearly redundant.
+- [00:55:28,910 - 00:55:30,710] We don't really need the first law.
+- [00:55:31,050 - 00:55:33,370] The first law is just a
+- [00:55:33,370 - 00:55:35,690] special case of the second law.
+- [00:55:35,810 - 00:55:36,590] Second law.
+- [00:55:37,130 - 00:55:38,090] Re-second.
+- [00:55:39,730 - 00:55:40,290] Let's do that.
+- [00:55:40,310 - 00:55:42,950] Let's call it r vector times e to
+- [00:55:42,950 - 00:55:45,590] the e squared times m times the force.
+- [00:55:46,590 - 00:55:48,790] Newton's first law is that there are no forces,
+- [00:55:48,790 - 00:55:51,550] an object moves with a constant velocity.
+- [00:55:52,674 - 00:55:52,974] はい
+- [00:55:54,210 - 00:55:56,090] v by vt,
+- [00:55:56,090 - 00:55:57,070] velocity.
+- [00:55:58,290 - 00:56:01,530] The force is zero,
+- [00:56:01,530 - 00:56:02,790] the velocity is constant.
+- [00:56:03,970 - 00:56:06,090] We don't need a separate law for that.
+- [00:56:07,850 - 00:56:08,920] The first law and the second
+- [00:56:08,920 - 00:56:09,990] law are part of the law,
+- [00:56:10,110 - 00:56:11,250] part of just the second law.
+- [00:56:12,310 - 00:56:13,390] I think we're done here.
+- [00:56:13,910 - 00:56:15,250] Now let's move to the third law.
+- [00:56:15,850 - 00:56:17,170] Let's take the third law
+- [00:56:17,170 - 00:56:18,490] and then see what it says
+- [00:56:18,490 - 00:56:27,650] in some more complicated or more general sense.
+- [00:56:28,570 - 00:56:33,150] What it says is a law about the force that
+- [00:56:33,150 - 00:56:35,190] is exerted by one object on another
+- [00:56:35,830 - 00:56:38,510] with relation to the force the other object exerts
+- [00:56:38,510 - 00:56:38,950] on the first.
+- [00:56:40,090 - 00:56:42,550] We might as well begin with an assumption
+- [00:56:42,550 - 00:56:45,390] that everything is made up out of particles.
+- [00:56:45,790 - 00:56:46,630] Let's make that assumption.
+- [00:56:46,810 - 00:56:48,370] Everything is made up out of point particles.
+- [00:56:49,729 - 00:56:51,770] Particles exert forces on each other.
+- [00:56:52,410 - 00:56:56,050] And the net force exerted on any one of them
+- [00:56:56,570 - 00:56:58,380] is the sum of all the
+- [00:56:58,380 - 00:57:00,190] forces due to all the others.
+- [00:57:00,490 - 00:57:02,510] We're making an additivity assumption
+- [00:57:03,250 - 00:57:06,670] that forces add as vectors.
+- [00:57:06,850 - 00:57:08,010] When I say add,
+- [00:57:08,010 - 00:57:08,970] I mean add as vectors.
+- [00:57:09,870 - 00:57:13,330] And that forces come in pairs.
+- [00:57:13,830 - 00:57:15,950] The force of A on B
+- [00:57:15,950 - 00:57:18,070] or the force of particle one
+- [00:57:18,070 - 00:57:18,470] on B.
+- [00:57:18,490 - 00:57:18,660] The force of A on B
+- [00:57:18,660 - 00:57:18,830] or the force of particle two
+- [00:57:18,830 - 00:57:19,090] on particle two.
+- [00:57:19,430 - 00:57:22,010] And the force of particle two on particle one.
+- [00:57:25,750 - 00:57:27,930] The first statement is that
+- [00:57:27,930 - 00:57:30,110] the force of one on two
+- [00:57:30,110 - 00:57:31,300] is equal and opposite to
+- [00:57:31,300 - 00:57:32,490] the force of two on one.
+- [00:57:33,030 - 00:57:33,670] All right.
+- [00:57:33,690 - 00:57:35,330] So this says that if
+- [00:57:35,330 - 00:57:36,970] two exerts a force on one
+- [00:57:36,970 - 00:57:37,990] pulling it that way,
+- [00:57:37,990 - 00:57:39,990] one exerts a force on two
+- [00:57:39,990 - 00:57:40,850] pulling it that way.
+- [00:57:43,530 - 00:57:45,010] We'd be in a very
+- [00:57:45,010 - 00:57:46,490] funny situation if that weren't true.
+- [00:57:46,630 - 00:57:47,590] Let's just imagine.
+- [00:57:47,590 - 00:57:48,270] Well,
+- [00:57:48,270 - 00:57:49,470] it would happen if that weren't true.
+- [00:57:50,550 - 00:57:53,790] Let's imagine that the force exerted by one on two
+- [00:57:53,790 - 00:57:54,880] and the force exerted by
+- [00:57:54,880 - 00:57:55,970] two on one were the same.
+- [00:57:56,190 - 00:57:57,030] Not opposite,
+- [00:57:57,030 - 00:57:57,550] but the same.
+- [00:57:58,190 - 00:57:59,050] Then it would say,
+- [00:57:59,050 - 00:58:00,390] well,
+- [00:58:00,390 - 00:58:00,770] then they
+- [00:58:00,770 - 00:58:02,409] would be both pointing in the same direction.
+- [00:58:02,670 - 00:58:03,870] What would happen to the system?
+- [00:58:05,010 - 00:58:10,250] It would just spontaneously take off.
+- [00:58:11,510 - 00:58:15,750] Just spontaneously take off and accelerate away.
+- [00:58:16,670 - 00:58:18,350] Be a very nice source of energy,
+- [00:58:18,350 - 00:58:19,710] but maybe you might get away.
+- [00:58:21,890 - 00:58:24,710] But that doesn't happen from experience.
+- [00:58:24,930 - 00:58:26,350] We know that there's no free lunch.
+- [00:58:26,530 - 00:58:28,510] There's no way that they're getting anything to accelerate
+- [00:58:28,510 - 00:58:31,190] without their exerting the force on it.
+- [00:58:32,130 - 00:58:34,210] And so this can't be right.
+- [00:58:34,890 - 00:58:35,670] It's not right.
+- [00:58:35,850 - 00:58:38,060] Newton's third law begins by
+- [00:58:38,060 - 00:58:40,270] saying the forces between two objects
+- [00:58:40,270 - 00:58:42,210] can be derived in the following way.
+- [00:58:42,510 - 00:58:44,850] Let's suppose we label the particles I.
+- [00:58:44,850 - 00:58:48,030] I goes from one to how many particles there are.
+- [00:58:48,750 - 00:58:51,630] The force of I,
+- [00:58:51,630 - 00:58:56,050] the force on I due to J.
+- [00:58:57,970 - 00:58:58,530] OK,
+- [00:58:58,530 - 00:58:59,830] so let's remember what this means.
+- [00:59:00,070 - 00:59:03,810] This is the force exerted by J on I.
+- [00:59:04,910 - 00:59:06,750] You won't make too much of a mistake
+- [00:59:06,750 - 00:59:08,190] if you get the notation backwards.
+- [00:59:08,490 - 00:59:09,790] Just be consistent about it.
+- [00:59:11,490 - 00:59:12,730] What does this law say?
+- [00:59:13,010 - 00:59:14,010] It says.
+- [00:59:14,270 - 00:59:14,830] It says.
+- [00:59:14,850 - 00:59:17,070] That the force exerted by J
+- [00:59:17,070 - 00:59:19,290] on I is equal to or minus
+- [00:59:19,690 - 00:59:25,070] the force exerted by I on J.
+- [00:59:27,050 - 00:59:28,610] They're equal and opposite.
+- [00:59:30,310 - 00:59:30,910] All right,
+- [00:59:30,910 - 00:59:32,190] let's derive the consequences.
+- [00:59:32,470 - 00:59:32,590] Oh,
+- [00:59:32,590 - 00:59:33,410] before we do that,
+- [00:59:33,410 - 00:59:33,570] though,
+- [00:59:33,570 - 00:59:35,110] let me state the rest of it.
+- [00:59:42,410 - 00:59:42,890] So,
+- [00:59:42,890 - 00:59:42,970] in other words,
+- [00:59:42,970 - 00:59:45,890] we have two particles of the data
+- [00:59:45,890 - 00:59:47,590] observing forces on each other.
+- [00:59:55,750 - 00:59:56,230] Now,
+- [00:59:56,230 - 00:59:58,550] here we have two particles equal and opposite forces.
+- [00:59:59,190 - 01:00:00,510] Let's say the force on.
+- [01:00:03,010 - 01:00:05,670] the force on 2 due to 1
+- [01:00:06,230 - 01:00:08,350] supposes in that direction and at that date.
+- [01:00:09,130 - 01:00:12,190] The force on 1 due to 2 supposes this way.
+- [01:00:12,190 - 01:00:13,410] Are they equal and opposite?
+- [01:00:14,950 - 01:00:15,390] Yeah,
+- [01:00:15,390 - 01:00:16,310] they're equal and opposite.
+- [01:00:16,310 - 01:00:18,270] What does this thing start to do?
+- [01:00:18,410 - 01:00:19,090] It just leaves it alone.
+- [01:00:21,930 - 01:00:26,070] Faster and faster and faster because this one keeps
+- [01:00:26,070 - 01:00:27,410] exerting a force on this one.
+- [01:00:27,410 - 01:00:30,190] That's because it takes off like a propeller.
+- [01:00:30,190 - 01:00:31,070] Again,
+- [01:00:31,070 - 01:00:33,210] there are no free lunches.
+- [01:00:33,330 - 01:00:35,390] We can't get energy out of nothing.
+- [01:00:35,390 - 01:00:37,110] There are no potential motion machines.
+- [01:00:37,430 - 01:00:39,150] There must be something wrong with this.
+- [01:00:39,150 - 01:00:41,870] What is an alternative?
+- [01:00:42,330 - 01:00:44,140] The alternative is that the forces
+- [01:00:44,140 - 01:00:45,950] are along the lines of centers
+- [01:00:45,950 - 01:00:46,470] like that.
+- [01:00:46,470 - 01:00:50,030] Not only equal and opposite
+- [01:00:50,030 - 01:00:52,810] but pointing toward or away from each other.
+- [01:00:53,570 - 01:00:54,150] Now,
+- [01:00:54,150 - 01:00:55,070] can this thing take off?
+- [01:00:55,070 - 01:00:55,950] Well,
+- [01:00:55,950 - 01:00:57,710] it can't
+- [01:00:58,810 - 01:00:59,990] expand or contract.
+- [01:01:00,190 - 01:01:00,890] Because there's a rod,
+- [01:01:00,890 - 01:01:03,590] a strong steel rod in between them.
+- [01:01:04,310 - 01:01:05,490] It can't do anything.
+- [01:01:05,490 - 01:01:06,710] It won't start rotating.
+- [01:01:06,710 - 01:01:08,330] It won't take off
+- [01:01:09,410 - 01:01:12,010] with a neck motion because the forces are opposite
+- [01:01:12,010 - 01:01:12,710] to each other.
+- [01:01:12,710 - 01:01:14,260] It won't do anything except maybe
+- [01:01:14,260 - 01:01:15,810] squeeze the rod a little bit
+- [01:01:15,810 - 01:01:17,350] or stretch the rod a little bit
+- [01:01:17,350 - 01:01:18,890] depending on which way the force is.
+- [01:01:19,770 - 01:01:20,250] Yes,
+- [01:01:20,250 - 01:01:21,650] this is the way forces really work.
+- [01:01:21,650 - 01:01:22,230] So,
+- [01:01:22,230 - 01:01:23,030] this is true.
+- [01:01:24,149 - 01:01:25,929] And the other one I have
+- [01:01:25,929 - 01:01:27,710] a little difficulty writing as an equation.
+- [01:01:27,910 - 01:01:29,430] The long line of centers.
+- [01:01:32,250 - 01:01:35,350] The long line of centers.
+- [01:01:37,050 - 01:01:40,130] All forces are along the lines of centers.
+- [01:01:40,330 - 01:01:43,510] That's Newton's third law stated in the line of terms.
+- [01:01:46,190 - 01:01:48,790] The along the line of centers we'll come to,
+- [01:01:48,790 - 01:01:50,830] basically what it has to do with
+- [01:01:50,830 - 01:01:52,770] is conservation of angular momentum.
+- [01:01:52,770 - 01:01:53,850] We'll come to that.
+- [01:01:54,230 - 01:01:56,080] But the equal and opposite has to
+- [01:01:56,080 - 01:01:57,930] do with the conservation of momentum itself.
+- [01:01:58,950 - 01:01:59,470] So,
+- [01:01:59,470 - 01:02:00,170] let's see how that works.
+- [01:02:03,629 - 01:02:06,050] Suppose we have a whole bunch of particles,
+- [01:02:06,050 - 01:02:07,550] let's label them I,
+- [01:02:08,749 - 01:02:11,930] and they satisfy equations of the following
+- [01:02:11,930 - 01:02:12,330] part.
+- [01:02:12,330 - 01:02:13,650] It's a closed system.
+- [01:02:13,870 - 01:02:16,250] There's nothing else in the system but these particles.
+- [01:02:17,610 - 01:02:20,010] No external forces from other objects.
+- [01:02:20,310 - 01:02:23,270] Only the forces of the particles on each other.
+- [01:02:23,810 - 01:02:27,430] We can write that the mass of the ith particle
+- [01:02:27,990 - 01:02:31,150] times the acceleration of the ith particle.
+- [01:02:31,890 - 01:02:34,290] Let's use that for notation now.
+- [01:02:35,490 - 01:02:39,650] Position vector by vp squared.
+- [01:02:43,530 - 01:02:45,750] ith particle is equal to the
+- [01:02:45,750 - 01:02:47,970] sum of all the other particles.
+- [01:02:48,110 - 01:02:50,530] Sum of all the other particles,
+- [01:02:50,530 - 01:02:51,870] j not equal to i.
+- [01:02:52,830 - 01:02:54,910] Particles don't exert forces on themselves.
+- [01:02:55,250 - 01:02:57,370] Other things exert forces on them.
+- [01:02:58,610 - 01:03:01,170] j not equal to i
+- [01:03:01,170 - 01:03:03,730] of the force exerted by j
+- [01:03:03,730 - 01:03:04,270] on the other particles.
+- [01:03:04,290 - 01:03:04,450] j is equal to j not equal to i.
+- [01:03:06,450 - 01:03:07,090] Sum,
+- [01:03:07,090 - 01:03:08,790] taking into account all the particles.
+- [01:03:09,110 - 01:03:12,100] This is the equation motion for
+- [01:03:12,100 - 01:03:15,090] the ith particle if you like.
+- [01:03:15,330 - 01:03:16,270] In fact,
+- [01:03:16,270 - 01:03:17,230] let's write it differently.
+- [01:03:18,050 - 01:03:20,530] This is mass times the derivative of the velocity.
+- [01:03:21,310 - 01:03:23,310] Derivative of the velocity vector.
+- [01:03:25,510 - 01:03:26,790] Or equivalently,
+- [01:03:26,790 - 01:03:29,610] it's just the derivative of the momentum
+- [01:03:29,610 - 01:03:31,110] of the ith particle.
+- [01:03:31,970 - 01:03:34,750] It's equal to sum of j not equal to i.
+- [01:03:35,850 - 01:03:37,110] That's the part of j vector.
+- [01:03:40,270 - 01:03:40,710] First,
+- [01:03:40,710 - 01:03:41,990] the time derivative of the momentum.
+- [01:03:42,670 - 01:03:44,450] Each particle has a force on it.
+- [01:03:44,490 - 01:03:45,290] You can do all the others.
+- [01:03:46,090 - 01:03:46,930] Now let's,
+- [01:03:46,930 - 01:03:49,130] and of course there's an equation for each i.
+- [01:03:49,190 - 01:03:49,650] I have one,
+- [01:03:49,650 - 01:03:50,030] two,
+- [01:03:50,030 - 01:03:50,390] three,
+- [01:03:50,390 - 01:03:50,650] four,
+- [01:03:50,650 - 01:03:52,890] up to however many particles there are.
+- [01:03:53,730 - 01:03:57,370] Let's add all of the equations for all the particles.
+- [01:03:57,970 - 01:03:59,450] What does that give us in the left?
+- [01:03:59,710 - 01:04:01,090] It gives us the time derivative of the momentum.
+- [01:04:01,090 - 01:04:03,450] The time derivative of the sum of all the momentum.
+- [01:04:04,870 - 01:04:06,270] So on the left side here,
+- [01:04:06,270 - 01:04:12,550] we get d by dt of the total momentum,
+- [01:04:12,690 - 01:04:14,880] let's just call it the
+- [01:04:14,880 - 01:04:17,070] total momentum of all the particles.
+- [01:04:17,990 - 01:04:19,510] What about on this side?
+- [01:04:20,390 - 01:04:21,610] On this side,
+- [01:04:21,610 - 01:04:25,850] we have to now sum over i n j.
+- [01:04:26,330 - 01:04:28,169] We took this equation and
+- [01:04:28,169 - 01:04:30,009] summed it over all the i's.
+- [01:04:31,269 - 01:04:33,649] That gives us the sum over
+- [01:04:33,649 - 01:04:36,030] i n j of f i j.
+- [01:04:37,690 - 01:04:41,090] What do we get now on the right hand side?
+- [01:04:42,130 - 01:04:43,230] We get zero.
+- [01:04:43,610 - 01:04:46,170] We get zero because each
+- [01:04:46,170 - 01:04:48,730] pair of particles is counted twice.
+- [01:04:51,029 - 01:04:53,959] One for the force of j on i
+- [01:04:53,959 - 01:04:56,890] and one for the force of i on j.
+- [01:04:59,110 - 01:05:01,070] So when we add up all the particles,
+- [01:05:01,090 - 01:05:02,200] all of the forces of
+- [01:05:02,200 - 01:05:03,310] all the particles on each other,
+- [01:05:03,490 - 01:05:05,500] they add up to zero because they
+- [01:05:05,500 - 01:05:07,510] come in equal and opposite matched pairs.
+- [01:05:08,370 - 01:05:12,110] So the result is Trump-Newton's third
+- [01:05:12,110 - 01:05:15,850] law that this is equal to zero.
+- [01:05:16,430 - 01:05:17,030] Well,
+- [01:05:17,030 - 01:05:17,750] what does that say?
+- [01:05:17,930 - 01:05:20,650] That says that total momentum is conserved.
+- [01:05:21,850 - 01:05:23,910] That's our first conservation law.
+- [01:05:24,050 - 01:05:27,070] Total momentum is conserved as
+- [01:05:27,070 - 01:05:30,090] a consequence of Newton's principle.
+- [01:05:31,270 - 01:05:31,830] Now,
+- [01:05:31,830 - 01:05:32,410] again,
+- [01:05:32,410 - 01:05:33,010] you can ask,
+- [01:05:33,010 - 01:05:35,610] why should Newton's principles be right?
+- [01:05:35,930 - 01:05:39,410] And I can tell you that in modern terms,
+- [01:05:40,050 - 01:05:42,920] the conservation of momentum is more
+- [01:05:42,920 - 01:05:45,790] fundamental than Newton's expression of his laws.
+- [01:05:46,430 - 01:05:48,130] And you can read the other way.
+- [01:05:48,250 - 01:05:50,090] If momentum is conserved,
+- [01:05:50,090 - 01:05:53,750] then it must say that for a pair of particles,
+- [01:05:54,070 - 01:05:55,580] the forces must be in
+- [01:05:55,580 - 01:05:57,090] the opposite direction equal and opposite.
+- [01:05:58,010 - 01:05:59,130] So you can read it.
+- [01:05:59,250 - 01:06:01,030] You can either think of it as a derivation.
+- [01:06:01,030 - 01:06:02,430] Or one way or the other.
+- [01:06:03,210 - 01:06:04,290] But as I said,
+- [01:06:04,290 - 01:06:07,130] since we're following some little bit of a solid thing,
+- [01:06:08,610 - 01:06:11,430] Newton's law implies conservation of momentum.
+- [01:06:12,650 - 01:06:16,050] So that's our first conservation law.
+- [01:06:17,030 - 01:06:19,730] After I've had a bit to discourage myself,
+- [01:06:20,550 - 01:06:22,570] we will have a chance to do
+- [01:06:22,570 - 01:06:24,590] whatever it is that you like to do.
+- [01:06:25,570 - 01:06:26,090] Great.
+- [01:06:26,790 - 01:06:28,150] We'll get back to energy.
+- [01:06:28,370 - 01:06:29,670] We'll get to energy.
+- [01:06:31,030 - 01:06:31,490] Thank you.
+- [01:06:31,490 - 01:06:32,290] Thank you.
+- [01:07:02,430 - 01:07:02,510] Thank you.
+- [01:07:02,930 - 01:07:03,730] Thank you.
+- [01:07:04,830 - 01:07:05,630] Thank you.
+- [01:07:05,630 - 01:07:06,290] Thank you.
+- [01:07:06,290 - 01:07:10,850] We've proved momentum conservation from Newton's Third Law.
+- [01:07:12,470 - 01:07:17,210] Let's prove energy conservation from Newton's equations.
+- [01:07:17,630 - 01:07:19,680] But we're gonna do it first
+- [01:07:19,680 - 01:07:21,730] for a particle in only one dimension.
+- [01:07:23,110 - 01:07:26,190] A single particle in one dimension.
+- [01:07:38,690 - 01:07:41,090] And we'll assume there's some sort of force on it.
+- [01:07:41,490 - 01:07:44,380] The only assumption is that the force
+- [01:07:44,380 - 01:07:47,270] depends only on where the particle is.
+- [01:07:47,970 - 01:07:48,870] In other words,
+- [01:07:48,870 - 01:07:50,350] the force depends on x.
+- [01:07:51,280 - 01:07:54,110] Let's write that by saying force depends on x.
+- [01:07:55,730 - 01:07:56,850] And in particular,
+- [01:07:56,850 - 01:07:59,230] the force does not depend on time.
+- [01:07:59,830 - 01:08:00,350] Well,
+- [01:08:00,350 - 01:08:02,770] it depends on time implicitly.
+- [01:08:03,170 - 01:08:06,290] Where the particle is may depend on time.
+- [01:08:06,810 - 01:08:10,150] But no matter what time you look at the particle,
+- [01:08:10,150 - 01:08:12,270] if it is at position x,
+- [01:08:12,430 - 01:08:14,310] it has force f of x on it.
+- [01:08:14,910 - 01:08:17,670] So we would call this a time independent force,
+- [01:08:17,670 - 01:08:18,490] but
+- [01:08:18,490 - 01:08:21,109] it doesn't mean that the force itself is time independent.
+- [01:08:21,290 - 01:08:23,240] It means that the force is
+- [01:08:23,240 - 01:08:25,189] only time dependent through the fact
+- [01:08:25,930 - 01:08:28,770] that the position may be time dependent.
+- [01:08:29,450 - 01:08:31,170] Force only depends on the position.
+- [01:08:32,189 - 01:08:33,689] We've already done an example.
+- [01:08:34,470 - 01:08:38,050] Kx or minus kx was an example for the spring.
+- [01:08:41,010 - 01:08:42,779] And now let's write Newton's equation
+- [01:08:42,779 - 01:08:44,550] for the motion along a line.
+- [01:08:46,950 - 01:08:47,550] Well,
+- [01:08:47,550 - 01:08:48,090] let's not.
+- [01:08:48,210 - 01:08:55,330] Let's prove energy conservation by defining the energy and
+- [01:08:55,330 - 01:08:57,220] then checking whether it's conserved
+- [01:08:57,220 - 01:08:59,109] as a consequence of Newton's law.
+- [01:08:59,229 - 01:09:00,090] We could go the other way.
+- [01:09:00,170 - 01:09:01,660] We could use Newton's law to try
+- [01:09:01,660 - 01:09:03,149] to figure out what the energy was.
+- [01:09:03,330 - 01:09:05,569] But it's cheaper and simpler to go the other way.
+- [01:09:07,069 - 01:09:09,210] Define the energy and then check that it's conserved.
+- [01:09:10,149 - 01:09:10,810] All right.
+- [01:09:10,950 - 01:09:14,750] The energy of a particle consists of,
+- [01:09:14,750 - 01:09:15,270] wait,
+- [01:09:15,270 - 01:09:16,750] back a step.
+- [01:09:18,130 - 01:09:19,470] In one dimension,
+- [01:09:19,470 - 01:09:25,550] you can always think of any function
+- [01:09:26,250 - 01:09:29,109] as being the derivative of some other function.
+- [01:09:30,930 - 01:09:32,950] Given a function f of x,
+- [01:09:32,950 - 01:09:36,870] you can always write that that function is the derivative.
+- [01:09:37,130 - 01:09:38,350] And I am assuming,
+- [01:09:38,350 - 01:09:39,029] of course,
+- [01:09:39,029 - 01:09:41,910] the functions are continuous.
+- [01:09:43,050 - 01:09:44,270] They don't have wild,
+- [01:09:44,270 - 01:09:45,130] crazy behavior.
+- [01:09:47,330 - 01:09:52,729] Then you can always find a thing called v,
+- [01:09:52,729 - 01:09:59,210] such that f of x is the v of x.
+- [01:09:59,230 - 01:10:00,740] So you can write v
+- [01:10:00,740 - 01:10:02,250] by dx with a minus sign.
+- [01:10:03,670 - 01:10:06,390] The minus sign is an arbitrary convention,
+- [01:10:06,390 - 01:10:09,870] and v is some function of x.
+- [01:10:10,070 - 01:10:11,230] It's called a potential energy.
+- [01:10:13,330 - 01:10:15,010] How do you construct v?
+- [01:10:17,010 - 01:10:18,890] Anybody have a good suggestion for how,
+- [01:10:18,890 - 01:10:19,630] if I know f,
+- [01:10:19,630 - 01:10:20,290] how I find v?
+- [01:10:22,170 - 01:10:22,690] Integrate.
+- [01:10:22,690 - 01:10:23,950] Integrate.
+- [01:10:24,050 - 01:10:26,550] If I integrate both sides of this equation,
+- [01:10:29,230 - 01:10:32,160] integral f of x dx
+- [01:10:32,160 - 01:10:35,090] will be minus v of x,
+- [01:10:35,190 - 01:10:37,270] where this means indefinite integral,
+- [01:10:38,029 - 01:10:41,490] or integration from some point to an arbitrary point.
+- [01:10:42,130 - 01:10:42,770] All right.
+- [01:10:42,790 - 01:10:44,850] So you just undo derivatives by integrating.
+- [01:10:45,010 - 01:10:47,590] You undo integrations by differentiating.
+- [01:10:48,090 - 01:10:49,010] And so if,
+- [01:10:49,010 - 01:10:49,870] assuming,
+- [01:10:49,870 - 01:10:50,530] of course,
+- [01:10:50,530 - 01:10:53,070] that the function f of x is nicely enough behaved
+- [01:10:53,070 - 01:10:55,090] that you can make an integral out of it,
+- [01:10:55,270 - 01:10:58,810] then there is always a v of x.
+- [01:10:58,810 - 01:11:01,080] Such that f of x is
+- [01:11:01,080 - 01:11:03,350] the derivative of v of x,
+- [01:11:03,450 - 01:11:08,530] and throw in a minus sign for convention,
+- [01:11:08,910 - 01:11:10,410] for standard definition.
+- [01:11:11,970 - 01:11:13,250] Let me write it again.
+- [01:11:20,450 - 01:11:20,930] Okay.
+- [01:11:23,290 - 01:11:23,770] Now,
+- [01:11:23,770 - 01:11:24,450] first of all,
+- [01:11:24,450 - 01:11:26,410] what is your picture in your mind
+- [01:11:26,410 - 01:11:28,370] that you should have that goes with this?
+- [01:11:28,370 - 01:11:28,610] Yeah.
+- [01:11:28,770 - 01:11:30,210] Think of the following picture.
+- [01:11:30,390 - 01:11:33,110] That your particle is moving along the x-axis,
+- [01:11:33,310 - 01:11:35,170] but it's on a series of hills
+- [01:11:37,410 - 01:11:39,070] of different altitude.
+- [01:11:40,550 - 01:11:43,270] The altitude is roughly v.
+- [01:11:44,150 - 01:11:47,290] So it's moving along x,
+- [01:11:47,530 - 01:11:49,150] but it's on hills that go
+- [01:11:49,150 - 01:11:50,770] up and down and so forth.
+- [01:11:51,930 - 01:11:53,570] The higher the hill is,
+- [01:11:54,300 - 01:11:55,530] or the higher the altitude,
+- [01:11:57,249 - 01:11:59,150] the larger the potential energy.
+- [01:11:59,350 - 01:12:02,090] So the altitude here is v of x,
+- [01:12:02,250 - 01:12:03,050] or is v.
+- [01:12:03,310 - 01:12:04,530] It's v this way.
+- [01:12:06,689 - 01:12:09,610] If you put a particle on a hill over here,
+- [01:12:10,409 - 01:12:11,810] there's going to be a force on it.
+- [01:12:11,850 - 01:12:14,430] An effective force along the x-axis.
+- [01:12:14,910 - 01:12:17,350] It's going to accelerate along the x-axis.
+- [01:12:17,450 - 01:12:18,340] Which way is it going
+- [01:12:18,340 - 01:12:19,230] to accelerate if it's over here?
+- [01:12:20,050 - 01:12:20,490] Back.
+- [01:12:20,950 - 01:12:21,910] If it's over here?
+- [01:12:22,910 - 01:12:23,350] Forward.
+- [01:12:23,350 - 01:12:23,550] Forward.
+- [01:12:24,750 - 01:12:25,330] All right.
+- [01:12:25,430 - 01:12:28,410] So it's going to accelerate toward lower altitude.
+- [01:12:29,750 - 01:12:31,310] That's why the minus sign is here.
+- [01:12:31,450 - 01:12:32,670] Or that's the way to think about it.
+- [01:12:32,690 - 01:12:33,270] The minus sign,
+- [01:12:34,750 - 01:12:37,250] it accelerates toward lower v.
+- [01:12:39,290 - 01:12:39,690] Moreover,
+- [01:12:39,690 - 01:12:41,850] it accelerates at a rate which
+- [01:12:41,850 - 01:12:44,010] is proportional to the slope here.
+- [01:12:44,190 - 01:12:45,350] The steeper the slope,
+- [01:12:45,570 - 01:12:47,290] the larger the force is going to be.
+- [01:12:47,430 - 01:12:47,650] I mean,
+- [01:12:47,650 - 01:12:49,050] this is just a matter of common experience.
+- [01:12:49,630 - 01:12:50,230] And so,
+- [01:12:52,110 - 01:12:53,330] that's the way you should picture this.
+- [01:12:53,350 - 01:12:54,930] A sort of terrain,
+- [01:12:55,150 - 01:12:56,910] where the height of the terrain is v,
+- [01:12:58,569 - 01:13:00,870] and there is a force at every point
+- [01:13:02,389 - 01:13:04,110] pushing you toward smaller v.
+- [01:13:04,430 - 01:13:05,770] That's what the minus sign is.
+- [01:13:06,010 - 01:13:08,770] And dv dx is just the slope of the hill.
+- [01:13:09,250 - 01:13:10,590] At the top of the hill here,
+- [01:13:10,590 - 01:13:11,250] there's no force.
+- [01:13:12,190 - 01:13:13,730] That's because dv dx is zero.
+- [01:13:14,049 - 01:13:15,950] At the bottom of the hill is no force,
+- [01:13:16,170 - 01:13:18,410] and the force is maximum where it's steepest.
+- [01:13:18,450 - 01:13:19,049] That's what this means.
+- [01:13:20,270 - 01:13:20,710] Okay.
+- [01:13:20,710 - 01:13:20,910] Now,
+- [01:13:20,910 - 01:13:24,630] so we really haven't made any real assumption.
+- [01:13:24,990 - 01:13:27,550] The only assumption we've made is that
+- [01:13:28,440 - 01:13:31,430] f is a nice enough to behave function
+- [01:13:31,430 - 01:13:34,930] that we can integrate it and find v of x.
+- [01:13:35,890 - 01:13:36,470] Okay,
+- [01:13:36,470 - 01:13:38,930] let's prove the following simple theorem.
+- [01:13:40,070 - 01:13:43,050] That if we take one
+- [01:13:43,050 - 01:13:46,030] half the mass times the velocity,
+- [01:13:46,290 - 01:13:47,650] I don't want to call it velocity,
+- [01:13:47,650 - 01:13:48,870] because if I do,
+- [01:13:48,870 - 01:13:51,070] we'll get it confused with v over here.
+- [01:13:51,290 - 01:13:52,970] This is not the velocity.
+- [01:13:53,790 - 01:13:55,370] Let's give it a capital V.
+- [01:13:57,050 - 01:13:57,850] Capital V.
+- [01:13:58,010 - 01:13:59,350] It's called the potential energy,
+- [01:13:59,350 - 01:13:59,830] of course.
+- [01:14:00,150 - 01:14:00,830] All right.
+- [01:14:00,930 - 01:14:03,070] So we'll take a quantity,
+- [01:14:03,110 - 01:14:06,250] which is one half mv squared.
+- [01:14:06,410 - 01:14:08,630] Now v is the velocity in this formula,
+- [01:14:08,630 - 01:14:09,270] small v,
+- [01:14:09,430 - 01:14:10,810] plus v of x.
+- [01:14:12,750 - 01:14:15,610] This is a function of the velocity and the position.
+- [01:14:18,310 - 01:14:19,790] It's called the energy.
+- [01:14:19,970 - 01:14:20,970] It's called the total energy,
+- [01:14:21,170 - 01:14:23,750] and we're going to prove that it's conserved.
+- [01:14:24,050 - 01:14:25,010] The only thing,
+- [01:14:25,010 - 01:14:25,670] the only,
+- [01:14:25,810 - 01:14:27,750] why do I call it the energy?
+- [01:14:27,950 - 01:14:29,630] I call it the energy because it's conserved.
+- [01:14:29,690 - 01:14:31,110] That's the only thing you need to know about energy.
+- [01:14:31,290 - 01:14:32,310] It's a conserved quantity.
+- [01:14:32,610 - 01:14:32,910] Yeah,
+- [01:14:32,910 - 01:14:33,290] question?
+- [01:14:35,030 - 01:14:35,430] No.
+- [01:14:35,690 - 01:14:36,090] Okay.
+- [01:14:36,770 - 01:14:38,190] So let's see if we can prove that,
+- [01:14:38,250 - 01:14:39,850] and of course this is just x dot squared.
+- [01:14:44,170 - 01:14:46,210] So we've made no assumptions up to this point,
+- [01:14:46,290 - 01:14:47,630] except we've defined the quantity.
+- [01:14:47,650 - 01:14:47,810] So we've defined the quantity,
+- [01:14:47,970 - 01:14:49,470] which we can call E.
+- [01:14:52,350 - 01:14:52,830] This,
+- [01:14:52,830 - 01:14:53,310] of course,
+- [01:14:53,310 - 01:14:54,870] is the kinetic energy,
+- [01:14:55,510 - 01:14:56,470] usually labeled T.
+- [01:14:57,170 - 01:14:58,770] I don't know what T stands for.
+- [01:15:01,510 - 01:15:02,710] I don't know what it stands for.
+- [01:15:02,930 - 01:15:04,170] And this is just called V,
+- [01:15:04,170 - 01:15:05,090] the potential energy.
+- [01:15:05,490 - 01:15:06,230] Why V?
+- [01:15:06,770 - 01:15:08,390] It has something to do with voltage.
+- [01:15:09,670 - 01:15:10,490] Why T?
+- [01:15:10,650 - 01:15:11,470] I really don't know.
+- [01:15:12,330 - 01:15:13,470] So T plus V.
+- [01:15:13,870 - 01:15:17,550] And let's prove that T plus V is conserved.
+- [01:15:17,650 - 01:15:19,330] That it doesn't change with time.
+- [01:15:19,450 - 01:15:20,270] Whatever it is,
+- [01:15:20,270 - 01:15:22,630] whatever you set it equal to in the beginning,
+- [01:15:22,810 - 01:15:24,130] it doesn't change with time.
+- [01:15:24,270 - 01:15:24,410] Now,
+- [01:15:24,410 - 01:15:25,010] first of all,
+- [01:15:25,010 - 01:15:25,930] we can look at this picture
+- [01:15:25,930 - 01:15:27,270] and get some perspective on it.
+- [01:15:28,510 - 01:15:31,190] If we start at some point with some velocity,
+- [01:15:31,370 - 01:15:32,050] or whatever,
+- [01:15:32,050 - 01:15:32,670] however,
+- [01:15:32,930 - 01:15:34,630] and we roll down the hill,
+- [01:15:34,870 - 01:15:36,650] the potential energy will decrease.
+- [01:15:37,370 - 01:15:38,010] Of course,
+- [01:15:38,010 - 01:15:39,050] when rolling down the hill,
+- [01:15:39,170 - 01:15:41,350] the speed or the velocity will increase.
+- [01:15:41,990 - 01:15:42,850] So there'll be,
+- [01:15:42,850 - 01:15:45,130] at least qualitatively,
+- [01:15:45,130 - 01:15:45,950] a trade-off.
+- [01:15:46,170 - 01:15:48,270] As the potential energy decreases,
+- [01:15:48,410 - 01:15:50,530] the kinetic energy will increase.
+- [01:15:51,050 - 01:15:52,830] As you roll over to here,
+- [01:15:53,090 - 01:15:54,530] you start up here,
+- [01:15:55,210 - 01:15:57,410] the potential energy will start increasing,
+- [01:15:57,690 - 01:16:00,050] but it will slow down to compensate,
+- [01:16:00,210 - 01:16:01,830] and the kinetic energy will decrease.
+- [01:16:02,370 - 01:16:03,110] All right,
+- [01:16:03,110 - 01:16:03,710] that's a picture.
+- [01:16:03,870 - 01:16:05,170] That's something you can keep in your head.
+- [01:16:05,350 - 01:16:07,770] But we really want to prove that this quantity
+- [01:16:07,770 - 01:16:09,150] does not change with time.
+- [01:16:09,870 - 01:16:10,630] What's the input?
+- [01:16:10,810 - 01:16:12,290] The input is Newton's laws.
+- [01:16:12,850 - 01:16:13,530] All right.
+- [01:16:15,130 - 01:16:17,070] So let's write Newton's law right over here.
+- [01:16:17,470 - 01:16:19,770] The rest of Newton's laws are that
+- [01:16:19,770 - 01:16:24,490] this is equal to the mass times the acceleration,
+- [01:16:25,210 - 01:16:26,170] x double dot.
+- [01:16:28,730 - 01:16:30,110] This is the form of Newton's
+- [01:16:30,110 - 01:16:31,490] laws that we're going to use.
+- [01:16:32,470 - 01:16:33,870] And we're going to prove from this
+- [01:16:33,870 - 01:16:35,890] that the total energy is conserved.
+- [01:16:36,830 - 01:16:37,310] Okay,
+- [01:16:37,310 - 01:16:39,630] what do we need to do to check it?
+- [01:16:39,870 - 01:16:41,710] We just take its time derivative.
+- [01:16:42,030 - 01:16:43,790] If you want to see that a thing is conserved,
+- [01:16:43,790 - 01:16:45,510] what you really want to do is prove
+- [01:16:45,510 - 01:16:46,990] that its time derivative is zero.
+- [01:16:47,750 - 01:16:49,250] So let's take the time derivative
+- [01:16:49,250 - 01:16:50,750] of first this term over here.
+- [01:16:50,910 - 01:16:51,330] Again,
+- [01:16:51,330 - 01:16:53,870] mass is always thought of as a constant,
+- [01:16:54,050 - 01:16:55,450] not to be changed.
+- [01:16:56,290 - 01:16:58,490] So to take the time derivative of this,
+- [01:16:58,570 - 01:16:59,790] we get one half m.
+- [01:17:00,390 - 01:17:02,990] And what's the time derivative of x dot squared?
+- [01:17:03,190 - 01:17:03,690] First of all,
+- [01:17:03,690 - 01:17:05,350] the time derivative of anything squared
+- [01:17:05,909 - 01:17:08,710] is twice the thing times the time derivative
+- [01:17:08,710 - 01:17:10,290] of the thing which was squared.
+- [01:17:10,650 - 01:17:13,770] So this is going to be twice one half m,
+- [01:17:13,770 - 01:17:15,330] we're going to have a two
+- [01:17:16,210 - 01:17:18,830] from taking the derivative of a square.
+- [01:17:19,510 - 01:17:20,510] This is a two.
+- [01:17:21,150 - 01:17:24,050] There's an x dot and then an x double dot.
+- [01:17:24,330 - 01:17:25,170] Does everybody see that?
+- [01:17:25,690 - 01:17:27,150] We take x dot squared.
+- [01:17:28,470 - 01:17:30,330] That gives us an x dot and
+- [01:17:30,330 - 01:17:32,190] an x double dot and a two.
+- [01:17:33,090 - 01:17:33,770] First thing.
+- [01:17:34,170 - 01:17:34,690] Now,
+- [01:17:34,690 - 01:17:38,550] what about the time derivative of v of x?
+- [01:17:39,230 - 01:17:42,750] I said that v of x doesn't depend on time.
+- [01:17:42,850 - 01:17:43,630] But of course,
+- [01:17:43,770 - 01:17:46,010] it does because x depends on time.
+- [01:17:46,130 - 01:17:47,450] The position depends on time.
+- [01:17:47,870 - 01:17:50,390] So how do we find the time derivative of v?
+- [01:17:50,830 - 01:17:55,850] We're interested in dv by dt.
+- [01:17:57,510 - 01:17:59,190] But v only depends on x.
+- [01:17:59,530 - 01:18:02,110] So all we have to do
+- [01:18:02,110 - 01:18:04,690] is multiply and divide by dx.
+- [01:18:09,310 - 01:18:11,550] The ratio of dv to dt
+- [01:18:11,550 - 01:18:14,870] is dv by dx dx by dt.
+- [01:18:15,130 - 01:18:16,410] It's as simple as that.
+- [01:18:16,610 - 01:18:17,950] But what is dx by dt?
+- [01:18:18,490 - 01:18:19,370] Just x dot,
+- [01:18:19,370 - 01:18:19,750] right?
+- [01:18:24,690 - 01:18:26,290] And what is this all equal to?
+- [01:18:26,450 - 01:18:28,850] It's equal to de by dt.
+- [01:18:32,550 - 01:18:34,810] Notice that both sides of the equation
+- [01:18:35,570 - 01:18:37,170] have an x dot in them.
+- [01:18:38,690 - 01:18:40,410] The factors of two cancel,
+- [01:18:40,570 - 01:18:45,190] and this gives us n x double dot.
+- [01:18:46,970 - 01:18:49,490] Everything has an x dot multiplying it.
+- [01:18:49,830 - 01:18:50,790] Here and here.
+- [01:18:54,370 - 01:18:56,050] Plus dv by dx.
+- [01:19:00,610 - 01:19:02,650] That's equal to de by dt,
+- [01:19:02,650 - 01:19:03,030] right?
+- [01:19:04,330 - 01:19:05,310] Everybody happy?
+- [01:19:09,690 - 01:19:10,790] But what are this?
+- [01:19:10,910 - 01:19:12,190] This is mass times acceleration,
+- [01:19:12,650 - 01:19:14,150] and this is minus the force.
+- [01:19:15,190 - 01:19:17,030] So Newton's equations say
+- [01:19:17,030 - 01:19:18,430] that this is equal to zero.
+- [01:19:21,430 - 01:19:22,270] And therefore,
+- [01:19:22,270 - 01:19:24,090] the energy is conserved.
+- [01:19:25,490 - 01:19:30,730] So this is a mathematical derivation
+- [01:19:30,730 - 01:19:33,370] of the precise quantitative sense
+- [01:19:33,370 - 01:19:35,890] in which kinetic energy increases
+- [01:19:35,890 - 01:19:37,750] when potential energy decreases,
+- [01:19:37,970 - 01:19:38,670] and so forth.
+- [01:19:40,330 - 01:19:42,550] And we didn't have to pay the price
+- [01:19:42,550 - 01:19:44,530] of any assumption other than
+- [01:19:44,530 - 01:19:46,050] that we could integrate the force
+- [01:19:46,050 - 01:19:47,290] to find the potential energy.
+- [01:19:48,130 - 01:19:48,610] Okay.
+- [01:19:48,890 - 01:19:49,450] Now,
+- [01:19:49,450 - 01:19:51,670] what happens when there are more
+- [01:19:51,670 - 01:19:52,670] dimensions of space?
+- [01:19:52,930 - 01:19:54,870] Let's take the case of...
+- [01:19:54,870 - 01:19:57,370] Stay with one particle for a moment,
+- [01:19:57,550 - 01:19:59,950] but let's take more dimensions of space.
+- [01:20:01,450 - 01:20:03,630] When there are more dimensions of space,
+- [01:20:06,869 - 01:20:08,030] we could call them x,
+- [01:20:08,030 - 01:20:08,210] y,
+- [01:20:08,210 - 01:20:08,570] and z,
+- [01:20:09,030 - 01:20:10,390] or we could call them x1,
+- [01:20:10,390 - 01:20:10,850] x2,
+- [01:20:10,850 - 01:20:11,390] and x3.
+- [01:20:11,450 - 01:20:12,250] I'll call them x1,
+- [01:20:12,250 - 01:20:12,650] x2,
+- [01:20:12,650 - 01:20:13,170] and x3.
+- [01:20:14,030 - 01:20:15,210] Then the question is,
+- [01:20:16,230 - 01:20:18,290] we want to write vector equations,
+- [01:20:18,730 - 01:20:20,770] and our vector equations have components,
+- [01:20:20,850 - 01:20:22,430] and the components are going to read
+- [01:20:22,430 - 01:20:23,770] f sub i,
+- [01:20:23,770 - 01:20:26,270] i being x,
+- [01:20:26,270 - 01:20:26,490] y,
+- [01:20:26,490 - 01:20:26,770] or z,
+- [01:20:26,830 - 01:20:27,130] or 1,
+- [01:20:27,130 - 01:20:27,270] 2,
+- [01:20:27,270 - 01:20:27,590] or 3,
+- [01:20:28,190 - 01:20:30,670] f sub i of x in component form
+- [01:20:31,190 - 01:20:35,670] is equal to m x i double dot.
+- [01:20:35,710 - 01:20:35,870] Okay.
+- [01:20:36,470 - 01:20:38,010] The full vector equation,
+- [01:20:38,310 - 01:20:38,990] we could write,
+- [01:20:38,990 - 01:20:39,450] you know,
+- [01:20:39,470 - 01:20:40,650] we know how to write the vector equation.
+- [01:20:41,030 - 01:20:41,670] All right.
+- [01:20:41,690 - 01:20:43,370] So for each one of the components,
+- [01:20:44,270 - 01:20:44,930] that's true.
+- [01:20:45,210 - 01:20:46,230] The question is,
+- [01:20:46,270 - 01:20:48,210] what can we say about f in particular?
+- [01:20:48,630 - 01:20:50,510] Can we say that f is related
+- [01:20:50,510 - 01:20:52,510] to a derivative of a potential energy?
+- [01:20:53,930 - 01:20:55,250] What I would like to write
+- [01:20:56,470 - 01:20:57,650] is the analog
+- [01:20:57,650 - 01:21:00,190] of this equation over here,
+- [01:21:00,310 - 01:21:03,210] but now x in general depends on
+- [01:21:03,210 - 01:21:04,970] all of the components of position.
+- [01:21:05,370 - 01:21:05,870] As I said,
+- [01:21:05,890 - 01:21:07,770] it's not just that f depends on
+- [01:21:07,770 - 01:21:10,070] the ith component of force
+- [01:21:10,070 - 01:21:12,230] depends only on the ith component of position.
+- [01:21:12,610 - 01:21:13,670] In general,
+- [01:21:13,810 - 01:21:15,730] the force will depend on
+- [01:21:15,730 - 01:21:17,030] where you are,
+- [01:21:17,850 - 01:21:18,490] in other words,
+- [01:21:18,490 - 01:21:20,050] all of the components of position.
+- [01:21:20,470 - 01:21:21,950] So this x in here
+- [01:21:23,110 - 01:21:24,370] stands for x,
+- [01:21:24,370 - 01:21:24,610] y,
+- [01:21:24,610 - 01:21:25,150] and z.
+- [01:21:27,030 - 01:21:27,810] All right.
+- [01:21:27,830 - 01:21:30,790] Or however many dimensions of space there are.
+- [01:21:33,250 - 01:21:35,030] Is it in general true
+- [01:21:35,030 - 01:21:36,310] that if I take,
+- [01:21:36,370 - 01:21:37,270] let's say in this case,
+- [01:21:37,350 - 01:21:38,730] three functions of position,
+- [01:21:39,010 - 01:21:40,610] three functions of position,
+- [01:21:40,950 - 01:21:42,210] is it generally true
+- [01:21:42,210 - 01:21:43,790] that they're related to derivatives?
+- [01:21:44,070 - 01:21:44,490] No,
+- [01:21:44,490 - 01:21:44,870] it's not.
+- [01:21:45,030 - 01:21:45,850] But let's write down
+- [01:21:45,850 - 01:21:47,470] what we might have liked to write down.
+- [01:21:47,650 - 01:21:49,230] We might have liked to write down
+- [01:21:49,230 - 01:21:51,950] that f sub i of x
+- [01:21:52,610 - 01:21:55,430] is equal to minus the derivative,
+- [01:21:55,590 - 01:21:59,170] the partial derivative of v of x
+- [01:21:59,170 - 01:22:00,510] with respect to xi.
+- [01:22:02,750 - 01:22:03,870] In other words,
+- [01:22:04,670 - 01:22:07,070] I assume you know what a partial derivative is.
+- [01:22:08,370 - 01:22:09,910] That wherever you are,
+- [01:22:10,070 - 01:22:11,590] the component of force
+- [01:22:11,590 - 01:22:14,630] is proportional to the rate of change
+- [01:22:14,630 - 01:22:15,750] of potential energy
+- [01:22:15,750 - 01:22:17,930] along that particular direction.
+- [01:22:18,590 - 01:22:19,490] For example,
+- [01:22:19,490 - 01:22:20,350] here's the x plane.
+- [01:22:21,950 - 01:22:23,070] Here's the x plane.
+- [01:22:23,390 - 01:22:25,090] At every point on this plane,
+- [01:22:25,290 - 01:22:26,350] v has some value.
+- [01:22:26,510 - 01:22:28,730] We could describe it by a contour map.
+- [01:22:30,630 - 01:22:32,610] These are the level surfaces of v.
+- [01:22:35,230 - 01:22:37,110] v might decrease
+- [01:22:37,110 - 01:22:38,710] as we go from here to here
+- [01:22:38,710 - 01:22:39,530] to here to here.
+- [01:22:41,250 - 01:22:44,170] And the partial derivatives of v
+- [01:22:44,170 - 01:22:45,830] are just another way of speaking
+- [01:22:45,830 - 01:22:47,230] about the rates of change
+- [01:22:47,889 - 01:22:50,990] as we move either along the x axis
+- [01:22:50,990 - 01:22:52,930] or the y axis.
+- [01:22:54,190 - 01:22:58,650] So v changes because x and y changes.
+- [01:22:58,850 - 01:23:00,010] Is it true,
+- [01:23:00,010 - 01:23:00,950] question,
+- [01:23:01,270 - 01:23:03,850] that if I take any set of functions
+- [01:23:03,870 - 01:23:04,590] f,
+- [01:23:04,590 - 01:23:06,430] f1,
+- [01:23:06,430 - 01:23:06,630] 2,
+- [01:23:06,630 - 01:23:07,010] and 3
+- [01:23:07,010 - 01:23:08,410] for the three directions of space,
+- [01:23:08,690 - 01:23:10,430] any three functions of position,
+- [01:23:11,050 - 01:23:12,630] is there always a v
+- [01:23:14,630 - 01:23:15,710] whose derivatives,
+- [01:23:16,030 - 01:23:17,110] whose partial derivatives,
+- [01:23:17,850 - 01:23:19,310] give you that f sub i?
+- [01:23:19,450 - 01:23:20,210] And the answer is no.
+- [01:23:21,510 - 01:23:22,910] It's clear why.
+- [01:23:23,490 - 01:23:26,230] There's only one function f of x,
+- [01:23:26,450 - 01:23:28,670] and that's not enough structure
+- [01:23:28,670 - 01:23:30,470] to give you three independent,
+- [01:23:30,730 - 01:23:32,090] general independent functions,
+- [01:23:32,090 - 01:23:32,870] f sub i.
+- [01:23:32,990 - 01:23:33,810] It's not a matter of fact.
+- [01:23:33,870 - 01:23:34,010] It's a matter of fact.
+- [01:23:34,230 - 01:23:34,910] All right?
+- [01:23:35,250 - 01:23:37,410] So it would seem in the face of it then
+- [01:23:37,410 - 01:23:38,870] that in general,
+- [01:23:38,950 - 01:23:39,990] there will be no such thing
+- [01:23:39,990 - 01:23:41,050] called potential energy,
+- [01:23:41,230 - 01:23:42,030] which has the property
+- [01:23:42,030 - 01:23:43,130] its derivatives are equal
+- [01:23:43,130 - 01:23:43,710] to the force.
+- [01:23:44,470 - 01:23:46,130] It's a law of physics
+- [01:23:46,130 - 01:23:46,950] that it's true.
+- [01:23:47,130 - 01:23:48,830] It's not something that you can derive
+- [01:23:48,830 - 01:23:49,730] from anything else.
+- [01:23:50,210 - 01:23:51,950] It's a law of physics
+- [01:23:53,050 - 01:23:54,390] obtained by experience,
+- [01:23:54,510 - 01:23:55,690] obtained by experiment,
+- [01:23:56,450 - 01:23:57,450] but really,
+- [01:23:57,450 - 01:23:58,530] really central
+- [01:23:59,550 - 01:24:00,970] as we move along
+- [01:24:00,970 - 01:24:02,950] and as we go through classical mechanics,
+- [01:24:02,950 - 01:24:04,810] we'll find out how central it is.
+- [01:24:05,650 - 01:24:06,630] But for now,
+- [01:24:06,630 - 01:24:08,610] we will take it as a postulate
+- [01:24:08,610 - 01:24:10,590] that there exists a V of x
+- [01:24:11,330 - 01:24:14,610] so that the components of force are equal to,
+- [01:24:14,610 - 01:24:15,670] let's call it the gradient,
+- [01:24:15,830 - 01:24:19,710] or the partial derivatives along x.
+- [01:24:20,090 - 01:24:22,230] It's the same idea as it is in one dimension,
+- [01:24:22,850 - 01:24:24,150] that wherever you are,
+- [01:24:24,150 - 01:24:27,850] there's a force pointing along the direction
+- [01:24:27,850 - 01:24:32,770] where V decreases at the maximal rate,
+- [01:24:32,770 - 01:24:33,910] the steepest descent.
+- [01:24:34,810 - 01:24:36,770] You're standing on the side of a hill,
+- [01:24:37,200 - 01:24:40,490] and there's one direction which is the steepest descent.
+- [01:24:41,330 - 01:24:43,250] There's another direction where the
+- [01:24:43,250 - 01:24:45,170] hill doesn't vary in altitude.
+- [01:24:46,350 - 01:24:49,510] Perpendicular to that is a direction
+- [01:24:49,510 - 01:24:52,670] where the hill is maximally steep.
+- [01:24:53,230 - 01:24:55,350] That's called the direction of steepest descent.
+- [01:24:55,810 - 01:24:57,830] And the force points along...
+- [01:24:57,850 - 01:24:59,510] along the direction of steepest descent,
+- [01:24:59,510 - 01:25:00,970] that's what this equation says.
+- [01:25:02,680 - 01:25:03,510] And in fact,
+- [01:25:03,510 - 01:25:04,750] it's proportional to the...
+- [01:25:04,750 - 01:25:07,790] each component is proportional to the...
+- [01:25:08,450 - 01:25:13,110] to the steepness along that particular direction.
+- [01:25:13,910 - 01:25:14,450] Alright,
+- [01:25:14,450 - 01:25:14,910] from this,
+- [01:25:14,910 - 01:25:17,410] we can prove conservation of energy.
+- [01:25:17,830 - 01:25:18,370] Again,
+- [01:25:18,370 - 01:25:19,290] for only one...
+- [01:25:19,290 - 01:25:19,830] at the moment,
+- [01:25:19,830 - 01:25:21,210] we're dealing with only one particle.
+- [01:25:22,350 - 01:25:23,270] What do we do?
+- [01:25:23,450 - 01:25:25,590] We just do exactly the same thing.
+- [01:25:25,830 - 01:25:27,830] We put an x sub i d...
+- [01:25:27,850 - 01:25:28,350] dot squared,
+- [01:25:28,350 - 01:25:29,810] and we sum over i.
+- [01:25:30,810 - 01:25:31,250] Alright,
+- [01:25:31,250 - 01:25:31,870] what does that mean?
+- [01:25:32,960 - 01:25:36,225] That means that the kinetic energy
+- [01:25:36,225 - 01:25:39,490] is the sum of the components of...
+- [01:25:39,490 - 01:25:41,150] is the square of the tot...
+- [01:25:42,420 - 01:25:44,595] is one half the mass times
+- [01:25:44,595 - 01:25:46,770] the square of the total velocity.
+- [01:25:47,050 - 01:25:48,650] This is just Pythagorean theorem.
+- [01:25:49,360 - 01:25:50,630] x sub i dot squared,
+- [01:25:50,630 - 01:25:53,090] that's the square of the total velocity.
+- [01:25:54,080 - 01:25:55,290] Of the vector...
+- [01:25:55,290 - 01:25:56,690] the total velocity.
+- [01:25:57,850 - 01:25:58,310] Sum over i.
+- [01:25:59,110 - 01:26:00,560] x dot squared plus y
+- [01:26:00,560 - 01:26:02,010] dot squared plus z dot squared,
+- [01:26:02,010 - 01:26:02,670] in other words.
+- [01:26:03,110 - 01:26:05,190] This is now called the kinetic energy.
+- [01:26:06,410 - 01:26:09,750] And v is still just one function of position.
+- [01:26:10,110 - 01:26:11,650] And this is still called the energy.
+- [01:26:13,290 - 01:26:13,810] Again,
+- [01:26:13,810 - 01:26:16,830] we now want to differentiate it with respect to time.
+- [01:26:18,050 - 01:26:18,750] What do we get?
+- [01:26:19,070 - 01:26:19,570] Well,
+- [01:26:19,570 - 01:26:20,390] first of all,
+- [01:26:20,390 - 01:26:22,370] we get exactly what we got before,
+- [01:26:22,370 - 01:26:23,870] but now summed over i.
+- [01:26:28,410 - 01:26:30,110] Do exactly the same trick.
+- [01:26:30,730 - 01:26:32,230] Differentiate x sub i dot squared,
+- [01:26:32,230 - 01:26:33,480] you get x sub i dot
+- [01:26:33,480 - 01:26:34,730] times x sub i double dot.
+- [01:26:35,490 - 01:26:37,030] The twos cancel again.
+- [01:26:37,870 - 01:26:39,430] And that's what you're left with
+- [01:26:39,430 - 01:26:40,990] for the derivative of the kinetic energy.
+- [01:26:41,370 - 01:26:43,810] What about the potential energy?
+- [01:26:44,750 - 01:26:46,260] What's the derivative of the
+- [01:26:46,260 - 01:26:47,770] potential energy with respect to time?
+- [01:26:48,490 - 01:26:49,010] Well,
+- [01:26:49,010 - 01:26:50,870] it has a term for each direction.
+- [01:26:52,050 - 01:26:55,590] Each one of the components of direction might be varying.
+- [01:26:55,830 - 01:26:57,070] Each one of the components,
+- [01:26:57,070 - 01:26:57,350] x,
+- [01:26:57,350 - 01:26:57,570] y,
+- [01:26:57,570 - 01:26:57,830] and z,
+- [01:26:57,830 - 01:26:57,830] might be varying.
+- [01:26:57,830 - 01:27:01,400] And the total time derivative
+- [01:27:01,400 - 01:27:04,970] of the potential energy is equal,
+- [01:27:05,150 - 01:27:06,810] simple calculus formula,
+- [01:27:06,810 - 01:27:09,620] the change in v if
+- [01:27:09,620 - 01:27:12,430] you move along the x direction,
+- [01:27:12,570 - 01:27:13,810] or the x1 direction,
+- [01:27:13,810 - 01:27:15,070] let's call it x1,
+- [01:27:15,070 - 01:27:18,950] times the rate at which x1 is varying.
+- [01:27:21,830 - 01:27:24,430] Plus the same thing for 2.
+- [01:27:25,150 - 01:27:27,810] The rate of change of v to x.
+- [01:27:27,830 - 01:27:29,790] With respect to x2,
+- [01:27:29,790 - 01:27:32,250] times dx2.
+- [01:27:32,610 - 01:27:34,170] Let's just call it x2 dot.
+- [01:27:39,030 - 01:27:40,430] And so forth.
+- [01:27:43,910 - 01:27:44,470] Or,
+- [01:27:44,470 - 01:27:46,190] to use the i notation,
+- [01:27:46,190 - 01:27:49,150] x sub i dot.
+- [01:27:51,110 - 01:27:53,190] And this is also summed on i.
+- [01:27:53,330 - 01:27:55,690] Everything now in this equation is summed on i.
+- [01:27:56,550 - 01:27:57,430] Both terms.
+- [01:28:00,030 - 01:28:01,170] And now we're finished.
+- [01:28:01,730 - 01:28:02,890] Because the equation,
+- [01:28:02,890 - 01:28:03,490] yeah,
+- [01:28:03,490 - 01:28:03,650] we,
+- [01:28:03,650 - 01:28:04,150] again,
+- [01:28:04,150 - 01:28:05,530] there's an x sub i dot.
+- [01:28:05,610 - 01:28:07,010] Let's take it outside the bracket.
+- [01:28:12,490 - 01:28:14,910] And look like what we have inside the bracket.
+- [01:28:15,910 - 01:28:19,170] Mass times acceleration minus force.
+- [01:28:21,110 - 01:28:23,230] Force being minus dv by dx.
+- [01:28:23,730 - 01:28:24,490] So again,
+- [01:28:24,490 - 01:28:25,750] it's the same derivation,
+- [01:28:25,750 - 01:28:27,590] just decorated with an index.
+- [01:28:27,590 - 01:28:27,610] And that's the same thing.
+- [01:28:27,610 - 01:28:28,430] So we have x sub i dot,
+- [01:28:28,430 - 01:28:29,570] which gets summed over.
+- [01:28:31,670 - 01:28:33,590] So what's in the bracket here is 0.
+- [01:28:34,050 - 01:28:35,370] That's just Newton's equations.
+- [01:28:35,670 - 01:28:37,090] And the time derivative of
+- [01:28:37,090 - 01:28:38,510] the energy is equal to 0.
+- [01:28:39,230 - 01:28:39,850] All right,
+- [01:28:39,850 - 01:28:40,250] so again,
+- [01:28:40,250 - 01:28:41,290] in this case now,
+- [01:28:41,290 - 01:28:43,050] unlike the one-dimensional case,
+- [01:28:43,250 - 01:28:45,570] we did make a physical assumption.
+- [01:28:46,589 - 01:28:49,850] And we'll call that physical assumption a law of nature.
+- [01:28:50,070 - 01:28:50,670] What is it?
+- [01:28:50,710 - 01:28:51,630] It's energy conservation.
+- [01:28:52,490 - 01:28:53,110] I mean,
+- [01:28:53,110 - 01:28:56,490] you can think of it as energy conservation.
+- [01:28:56,490 - 01:28:59,054] Or you can just think of
+- [01:28:59,054 - 01:29:01,619] it as forces are proportional to gradients
+- [01:29:02,070 - 01:29:05,430] or derivatives of a quantity called the potential energy.
+- [01:29:08,190 - 01:29:10,870] What happens if we have a lot of particles?
+- [01:29:11,750 - 01:29:13,330] Supposing we have a lot of particles.
+- [01:29:13,550 - 01:29:15,130] We can do exactly the same thing.
+- [01:29:15,590 - 01:29:17,110] For every particle,
+- [01:29:17,110 - 01:29:21,770] how do we describe a bunch of particles?
+- [01:29:22,050 - 01:29:25,850] We describe a bunch of particles by writing x1,
+- [01:29:25,850 - 01:29:26,050] y1,
+- [01:29:26,050 - 01:29:26,430] z1.
+- [01:29:26,430 - 01:29:26,730] Now 1,
+- [01:29:26,730 - 01:29:27,010] 2,
+- [01:29:27,010 - 01:29:27,190] 3,
+- [01:29:27,190 - 01:29:28,450] 4,
+- [01:29:28,450 - 01:29:30,470] 5 stand for the particles,
+- [01:29:30,470 - 01:29:31,550] not for the directions.
+- [01:29:33,570 - 01:29:34,450] There's x1,
+- [01:29:34,450 - 01:29:35,270] y1,
+- [01:29:35,270 - 01:29:36,330] z1.
+- [01:29:36,410 - 01:29:38,210] That's the position of the first particle.
+- [01:29:39,449 - 01:29:39,889] x2,
+- [01:29:39,889 - 01:29:40,330] y2,
+- [01:29:40,330 - 01:29:41,130] z2.
+- [01:29:41,290 - 01:29:42,910] That's the position of the second particle,
+- [01:29:42,910 - 01:29:44,690] and so forth and so on.
+- [01:29:45,430 - 01:29:47,350] Let's take this whole column,
+- [01:29:47,350 - 01:29:48,970] all of them,
+- [01:29:48,970 - 01:29:51,130] and call them xi,
+- [01:29:52,830 - 01:29:54,230] the whole set of them.
+- [01:29:57,690 - 01:30:00,150] All of the coordinates of all the particles,
+- [01:30:00,150 - 01:30:01,630] let's label them xi.
+- [01:30:01,850 - 01:30:03,250] How many of them are all together?
+- [01:30:03,730 - 01:30:05,050] Supposing there are n particles,
+- [01:30:05,050 - 01:30:06,429] how many xi's are there?
+- [01:30:07,450 - 01:30:07,970] 3n.
+- [01:30:08,670 - 01:30:10,330] One for each direction of space.
+- [01:30:11,490 - 01:30:12,010] Sorry,
+- [01:30:12,010 - 01:30:13,830] n for each direction of space.
+- [01:30:14,190 - 01:30:15,590] And we'll just call that xi.
+- [01:30:19,909 - 01:30:23,990] We can write down Newton's laws.
+- [01:30:23,990 - 01:30:25,790] Basically,
+- [01:30:25,790 - 01:30:27,730] exactly the same way,
+- [01:30:27,730 - 01:30:34,830] but now we can introduce an mi over here.
+- [01:30:34,929 - 01:30:36,349] Now what does that mi mean?
+- [01:30:36,670 - 01:30:41,349] Different particles have different masses in general.
+- [01:30:43,349 - 01:30:46,199] I'm actually allowing for the possibility
+- [01:30:46,199 - 01:30:49,050] that there is a different mass
+- [01:30:49,050 - 01:30:53,470] for each one of these 3n coordinates.
+- [01:30:53,470 - 01:30:55,310] Now of course what we expect,
+- [01:30:55,310 - 01:30:58,510] we expect the mass for the first particle
+- [01:30:58,510 - 01:31:01,170] to all be the same no matter which direction.
+- [01:31:01,510 - 01:31:03,920] We expect the masses for the second particle
+- [01:31:03,920 - 01:31:06,330] to all be the same as each other,
+- [01:31:06,470 - 01:31:08,070] independent of the direction.
+- [01:31:08,550 - 01:31:13,650] So we may not really have 3n different masses.
+- [01:31:13,850 - 01:31:15,370] We only have n different masses.
+- [01:31:15,690 - 01:31:16,490] But still,
+- [01:31:16,490 - 01:31:18,910] we can call the first mass here,
+- [01:31:18,910 - 01:31:19,830] we can call it,
+- [01:31:19,830 - 01:31:23,450] we can label the masses as if they were n.
+- [01:31:23,450 - 01:31:25,020] So we can say that there was a
+- [01:31:25,020 - 01:31:26,590] separate mass for each direction and each particle.
+- [01:31:28,210 - 01:31:30,530] And then remember afterwards that
+- [01:31:30,530 - 01:31:32,850] the masses come in triplets.
+- [01:31:34,950 - 01:31:36,980] First particle has all the
+- [01:31:36,980 - 01:31:39,010] same masses regardless of direction.
+- [01:31:39,250 - 01:31:40,670] Second particle has all the direction.
+- [01:31:40,910 - 01:31:42,350] But if we do that,
+- [01:31:42,350 - 01:31:47,410] then this becomes the equations for all of the particles
+- [01:31:47,410 - 01:31:49,630] and all of the directions of space.
+- [01:31:50,570 - 01:31:52,890] An xi for each direction and each
+- [01:31:52,890 - 01:31:55,210] particle and a mass to go with it.
+- [01:31:55,310 - 01:31:56,680] And the force is equal
+- [01:31:56,680 - 01:31:58,050] to whatever it is equal to,
+- [01:31:58,050 - 01:31:58,710] number one.
+- [01:31:58,890 - 01:31:59,790] And number two,
+- [01:31:59,790 - 01:32:03,110] assume that all of the components of forces
+- [01:32:03,110 - 01:32:06,060] for all of the particles are proportional
+- [01:32:06,060 - 01:32:09,010] to the derivative of a potential energy
+- [01:32:09,010 - 01:32:11,790] where the potential energy depends on all
+- [01:32:11,790 - 01:32:14,570] of the positions of all the particles.
+- [01:32:15,170 - 01:32:17,270] But the force on each particle in
+- [01:32:17,270 - 01:32:19,370] each direction is given by the derivative
+- [01:32:19,370 - 01:32:21,210] with respect to that particular coordinate.
+- [01:32:21,350 - 01:32:21,970] If we do that,
+- [01:32:21,970 - 01:32:25,990] then this argument is basically unchanged.
+- [01:32:28,130 - 01:32:30,230] And we find that there's
+- [01:32:30,230 - 01:32:32,330] energy conservation for the entire system.
+- [01:32:32,650 - 01:32:35,970] For any system of particles exerting forces,
+- [01:32:36,190 - 01:32:39,770] assuming the forces are governed by a potential energy.
+- [01:32:41,290 - 01:32:43,190] There's a word for forces
+- [01:32:43,190 - 01:32:45,090] which are governed by potential energies.
+- [01:32:45,210 - 01:32:45,890] They're called conservative.
+- [01:32:46,530 - 01:32:49,230] It's not a political description.
+- [01:32:49,370 - 01:32:53,330] It's that they conserve energy,
+- [01:32:53,630 - 01:32:55,350] that they're associated with energy conservation.
+- [01:32:56,070 - 01:32:57,710] Conservative forces like this,
+- [01:32:57,710 - 01:33:01,850] same exact derivation for any number of particles
+- [01:33:01,850 - 01:33:03,490] moving in any number of dimensions,
+- [01:33:05,030 - 01:33:05,910] the energy,
+- [01:33:05,910 - 01:33:07,910] the kinetic energy plus the potential.
+- [01:33:08,090 - 01:33:09,410] And the only thing we have
+- [01:33:09,410 - 01:33:10,730] to do is put an mi here.
+- [01:33:11,270 - 01:33:12,150] Kinetic energy,
+- [01:33:12,150 - 01:33:12,930] mi squared,
+- [01:33:12,930 - 01:33:14,070] x sub i dot squared.
+- [01:33:14,810 - 01:33:17,290] And that proves that,
+- [01:33:17,290 - 01:33:20,990] from the assumption of conservative forces,
+- [01:33:21,330 - 01:33:23,170] we have conservation of energy.
+- [01:33:24,250 - 01:33:26,190] Potential energy and kinetic energy
+- [01:33:26,190 - 01:33:28,130] just being exchanged back and forth
+- [01:33:28,130 - 01:33:32,110] as the particle moves in this landscape of rolling hills.
+- [01:33:33,950 - 01:33:35,110] Energy conservation.
+- [01:33:36,930 - 01:33:39,190] Let's come back now to that harmonic oscillator.
+- [01:33:57,430 - 01:33:58,930] We originally said,
+- [01:33:59,050 - 01:34:01,670] let the mass and the spring constant equal one.
+- [01:34:02,370 - 01:34:03,390] In that case,
+- [01:34:03,390 - 01:34:03,790] of course,
+- [01:34:03,950 - 01:34:05,210] the kinetic and potential,
+- [01:34:05,470 - 01:34:05,630] oh,
+- [01:34:05,630 - 01:34:06,050] wait,
+- [01:34:06,050 - 01:34:07,050] go back a step.
+- [01:34:07,830 - 01:34:08,350] Yeah.
+- [01:34:08,850 - 01:34:11,490] What about the potential energy for a spring?
+- [01:34:11,650 - 01:34:14,390] For a particle moving on the end of a spring?
+- [01:34:15,730 - 01:34:17,070] Remember what the rule was?
+- [01:34:17,210 - 01:34:20,150] The force is equal to minus kx.
+- [01:34:21,730 - 01:34:24,170] Force is equal to minus kx for the spring.
+- [01:34:24,730 - 01:34:26,090] What's the potential energy?
+- [01:34:26,310 - 01:34:29,100] The potential energy is equal
+- [01:34:29,100 - 01:34:31,890] to k over two x squared.
+- [01:34:32,770 - 01:34:34,010] Why do I say that?
+- [01:34:34,250 - 01:34:36,670] We'll differentiate this with respect to x.
+- [01:34:37,590 - 01:34:39,030] Differentiating with respect to x,
+- [01:34:39,110 - 01:34:40,210] we get dv by dx,
+- [01:34:40,490 - 01:34:41,930] or just dv by dx.
+- [01:34:42,150 - 01:34:42,590] Okay.
+- [01:34:45,370 - 01:34:49,730] dv by dx is equal to kx.
+- [01:34:50,250 - 01:34:53,010] And minus dv by dx is minus kx.
+- [01:34:53,590 - 01:34:56,050] So we see that this is the right expression
+- [01:34:56,050 - 01:34:57,930] for the potential energy of the oscillator
+- [01:34:59,110 - 01:35:02,450] proportional to the square of the displacement.
+- [01:35:03,930 - 01:35:05,410] What about the kinetic energy?
+- [01:35:05,610 - 01:35:07,910] The kinetic energy is one half mv squared.
+- [01:35:08,050 - 01:35:11,490] So the total energy is one half mx dot squared
+- [01:35:12,149 - 01:35:14,370] plus k over two x squared.
+- [01:35:15,630 - 01:35:16,630] Potential kinetic.
+- [01:35:16,930 - 01:35:18,200] And if in fact we
+- [01:35:18,200 - 01:35:19,470] set the mass equal to one
+- [01:35:19,470 - 01:35:20,910] and k equal to one just to,
+- [01:35:21,550 - 01:35:23,280] just for the purposes of
+- [01:35:23,280 - 01:35:25,010] comparing with the earlier illustration,
+- [01:35:25,650 - 01:35:28,230] we find out that the total energy
+- [01:35:28,230 - 01:35:29,920] is the sums of the squares
+- [01:35:29,920 - 01:35:31,610] of the velocity and the position.
+- [01:35:31,970 - 01:35:33,790] This is the origin of the fact
+- [01:35:34,790 - 01:35:37,850] that the particle moves on circular orbits
+- [01:35:38,790 - 01:35:40,170] with this being x
+- [01:35:40,170 - 01:35:42,690] and this being x dot or p.
+- [01:35:43,950 - 01:35:46,070] So we see that the circular motion
+- [01:35:46,070 - 01:35:47,670] moving along orbits like this
+- [01:35:47,670 - 01:35:54,690] was simply nothing but staying on orbits of constant energy.
+- [01:35:55,490 - 01:35:56,470] In fact,
+- [01:35:56,470 - 01:35:59,750] the energy increases quadratically
+- [01:35:59,750 - 01:36:01,270] as you move away from the center,
+- [01:36:01,470 - 01:36:04,550] and these orbits are nothing but the contours,
+- [01:36:04,550 - 01:36:07,650] the contours of constant potential energy.
+- [01:36:08,410 - 01:36:09,370] In general,
+- [01:36:09,370 - 01:36:12,090] for any particle moving in one dimension,
+- [01:36:13,470 - 01:36:16,760] it will always move on curves of
+- [01:36:16,760 - 01:36:20,050] constant x dot squared plus v of x.
+- [01:36:20,370 - 01:36:22,410] v of x may be more complicated.
+- [01:36:22,670 - 01:36:23,910] There may be a more
+- [01:36:23,910 - 01:36:25,150] complicated kind of v of x.
+- [01:36:25,370 - 01:36:30,290] It will move on the contours of constant energy.
+- [01:36:30,390 - 01:36:34,170] In the xp plane in phase space,
+- [01:36:34,450 - 01:36:37,310] it will move on the contours of constant energy.
+- [01:36:40,410 - 01:36:41,970] So that's energy conservation.
+- [01:36:42,490 - 01:36:44,830] And it's an example of the sort of thing
+- [01:36:44,830 - 01:36:46,190] we talked about in the first lecture,
+- [01:36:46,330 - 01:36:49,410] when systems might have cycles
+- [01:36:49,410 - 01:36:51,330] that they cycle around on,
+- [01:36:51,530 - 01:36:55,010] and if there's more than one cycle,
+- [01:36:55,170 - 01:36:57,890] then there's a conserved quantity.
+- [01:37:00,690 - 01:37:01,190] Okay,
+- [01:37:01,190 - 01:37:02,210] any questions about either
+- [01:37:02,210 - 01:37:04,210] momentum conservation or energy conservation?
+- [01:37:08,410 - 01:37:08,910] No,
+- [01:37:08,910 - 01:37:10,590] it doesn't look like we're going to get
+- [01:37:10,590 - 01:37:11,950] to the principle of least action point.
+- [01:37:12,310 - 01:37:13,330] Next time,
+- [01:37:13,330 - 01:37:15,010] we'll take up the principle of least action,
+- [01:37:15,210 - 01:37:17,130] which is another formulation of mechanics,
+- [01:37:17,550 - 01:37:19,370] a very general formulation of mechanics.
+- [01:37:19,830 - 01:37:21,770] And we'll get to Lagrangians
+- [01:37:21,770 - 01:37:27,010] and all sorts of interesting things,
+- [01:37:27,110 - 01:37:28,490] which will take us into
+- [01:37:29,510 - 01:37:31,950] more advanced aspects of mechanics.
+- [01:37:32,290 - 01:37:33,830] We'll get to Hamiltonians eventually.
+- [01:37:35,690 - 01:37:36,970] Conservation laws,
+- [01:37:36,970 - 01:37:37,950] generally.
+- [01:37:38,790 - 01:37:39,530] Angular momentum.
+- [01:37:40,730 - 01:37:42,170] All the good things.
+- [01:37:42,870 - 01:37:44,150] So we're set up for them.
+- [01:37:44,230 - 01:37:44,890] Any questions?
+- [01:37:55,050 - 01:37:55,570] Yes?
+- [01:37:56,110 - 01:37:57,730] What's the relationship between
+- [01:37:57,730 - 01:37:59,550] these notes you're handing out
+- [01:37:59,550 - 01:38:01,410] and what you're doing out there?
+- [01:38:02,010 - 01:38:04,210] I think it probably follows fairly close.
+- [01:38:04,610 - 01:38:06,530] It looks like there's more out there.
+- [01:38:07,510 - 01:38:08,490] I don't think so.
+- [01:38:11,270 - 01:38:11,810] Did I?
+- [01:38:12,470 - 01:38:13,130] I'm not...
+- [01:38:14,450 - 01:38:15,850] Which notes are you talking about?
+- [01:38:15,970 - 01:38:17,270] Did you get some notes today in your email?
+- [01:38:17,590 - 01:38:17,810] Yes.
+- [01:38:18,430 - 01:38:19,860] Was it the same as
+- [01:38:19,860 - 01:38:21,290] what I gave you last time?
+- [01:38:22,010 - 01:38:22,510] There's more,
+- [01:38:22,510 - 01:38:22,810] right?
+- [01:38:23,310 - 01:38:23,670] Yeah.
+- [01:38:25,850 - 01:38:27,530] I'll bet you I can find everything in there
+- [01:38:27,530 - 01:38:27,990] that's in here.
+- [01:38:28,590 - 01:38:29,450] And if I can't,
+- [01:38:29,450 - 01:38:30,110] I made a mistake
+- [01:38:30,110 - 01:38:31,110] and sent you the wrong thing.
+- [01:38:31,450 - 01:38:32,330] I don't think I did.
+- [01:38:32,690 - 01:38:33,850] Where are the figures?
+- [01:38:35,530 - 01:38:37,130] The figures haven't been made yet.
+- [01:38:38,150 - 01:38:38,510] Look.
+- [01:38:39,150 - 01:38:39,510] I'm not going to tell you.
+- [01:38:45,270 - 01:38:46,470] I'll tell you what.
+- [01:38:46,650 - 01:38:50,330] When the Department of Continuing Studies
+- [01:38:50,330 - 01:38:52,850] pays my check next month,
+- [01:38:52,990 - 01:38:54,070] I will put out the figures.
+- [01:38:59,320 - 01:38:59,990] For more,
+- [01:38:59,990 - 01:39:02,430] please visit us at stanford.edu.
