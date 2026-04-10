@@ -1,0 +1,2566 @@
+# Transcript
+
+Source: core/quantum_mechanics/2012_winter_modern_physics_stanford/035 - Lecture 6 ｜ Modern Physics： Quantum Mechanics (Stanford) [tKbzlOU_ETk].mp4
+
+- [00:00:05,789 - 00:00:08,464] This program is brought to you by
+- [00:00:08,464 - 00:00:11,140] Stanford on iTunes U at Stanford University.
+- [00:00:11,580 - 00:00:15,480] Please visit us at itunes.stanford.edu.
+- [00:00:16,200 - 00:00:18,220] They behave oddly.
+- [00:00:19,630 - 00:00:20,580] I've showed you some.
+- [00:00:22,520 - 00:00:24,870] Interference of light waves when they go
+- [00:00:24,870 - 00:00:27,220] through slits and that sort of thing.
+- [00:00:28,040 - 00:00:32,490] Uncertainty principles for particles and a photon is a
+- [00:00:32,490 - 00:00:36,940] particle so it shares the uncertainty principle with other particles.
+- [00:00:38,740 - 00:00:43,440] But perhaps the really simplest context,
+- [00:00:43,440 - 00:00:48,720] the simplest system for studying the basic fundamental difference between
+- [00:00:48,720 - 00:00:54,000] classical thinking and quantum thinking is the polarization of a photon.
+- [00:00:54,900 - 00:00:57,200] If we forget everything else about the photon,
+- [00:00:59,420 - 00:01:02,580] assume that it's going in a particular direction,
+- [00:01:02,580 - 00:01:04,980] let's say down the z-axis,
+- [00:01:04,980 - 00:01:07,700] with a very specific momentum,
+- [00:01:08,120 - 00:01:11,220] then the only thing that's left to discuss about
+- [00:01:11,220 - 00:01:14,320] the photon is the direction in which it's polarized.
+- [00:01:15,560 - 00:01:21,090] That polarization degree of freedom forms a kind of
+- [00:01:21,090 - 00:01:26,620] mini quantum system that has more insight in it,
+- [00:01:26,620 - 00:01:27,100] I think,
+- [00:01:27,100 - 00:01:27,200] than the other kind of quantum system.
+- [00:01:27,220 - 00:01:29,030] So more insight can be
+- [00:01:29,030 - 00:01:30,840] gained from it than I think,
+- [00:01:30,840 - 00:01:32,820] thinking about almost any
+- [00:01:32,820 - 00:01:34,800] other simple quantum mechanical system.
+- [00:01:35,280 - 00:01:36,580] So I want to go through,
+- [00:01:36,580 - 00:01:38,400] we started last time,
+- [00:01:38,400 - 00:01:39,200] I want to continue,
+- [00:01:39,200 - 00:01:41,380] but first I want to review a little bit.
+- [00:01:43,280 - 00:01:44,060] First of all,
+- [00:01:44,060 - 00:01:44,260] you can,
+- [00:01:44,260 - 00:01:47,980] how should you think about the polarization of the photon?
+- [00:01:48,520 - 00:01:49,000] Well,
+- [00:01:49,000 - 00:01:51,160] the photon is going into the blackboard.
+- [00:01:51,480 - 00:01:51,960] Alright,
+- [00:01:51,960 - 00:01:55,460] so we need not worry about its direction of motion.
+- [00:01:55,700 - 00:01:57,200] We need not worry about its momentum.
+- [00:01:57,200 - 00:02:00,500] We need only worry about this little vector,
+- [00:02:00,500 - 00:02:03,170] this sort of little flag
+- [00:02:03,170 - 00:02:05,840] that the photon carries with it.
+- [00:02:07,220 - 00:02:09,320] It moves into the blackboard.
+- [00:02:09,460 - 00:02:09,860] Let's see,
+- [00:02:09,860 - 00:02:10,699] that's a bad color,
+- [00:02:10,699 - 00:02:11,140] isn't it?
+- [00:02:12,060 - 00:02:15,120] It moves into the blackboard.
+- [00:02:15,560 - 00:02:16,880] That's an even worse color.
+- [00:02:19,160 - 00:02:20,880] I didn't bring my own this time.
+- [00:02:21,820 - 00:02:24,500] I tell them every time to please leave me pens.
+- [00:02:29,200 - 00:02:29,740] Ah.
+- [00:02:31,100 - 00:02:33,640] The photon is going into the blackboard.
+- [00:02:35,580 - 00:02:36,120] Good.
+- [00:02:37,300 - 00:02:39,330] And we can think of the plane
+- [00:02:39,330 - 00:02:41,360] perpendicular to the motion of the photon.
+- [00:02:41,800 - 00:02:43,100] And in that plane,
+- [00:02:43,100 - 00:02:44,460] there's a kind of little flag.
+- [00:02:44,940 - 00:02:48,530] The little flag can point in
+- [00:02:48,530 - 00:02:52,120] any direction in the xy plane.
+- [00:02:52,380 - 00:02:54,100] The photon's moving in the z direction.
+- [00:02:54,400 - 00:02:55,980] This is the xy plane,
+- [00:02:55,980 - 00:02:56,640] x and y.
+- [00:02:57,200 - 00:02:58,800] And in a certain sense,
+- [00:02:58,800 - 00:03:00,560] to be specified,
+- [00:03:00,560 - 00:03:02,930] and only to be correctly defined
+- [00:03:02,930 - 00:03:05,300] when we think about it quantum mechanically,
+- [00:03:06,200 - 00:03:08,420] the little flag can point in
+- [00:03:08,420 - 00:03:10,640] any direction in the xy plane.
+- [00:03:11,140 - 00:03:14,540] So photons carry little flags.
+- [00:03:15,900 - 00:03:18,280] The flags are their polarization vector.
+- [00:03:18,520 - 00:03:20,410] The polarization vector is perpendicular
+- [00:03:20,410 - 00:03:22,300] to the motion of the photon.
+- [00:03:23,540 - 00:03:25,380] But it's an odd little flag.
+- [00:03:25,380 - 00:03:27,440] It has some very peculiar properties.
+- [00:03:27,880 - 00:03:30,410] So let's first of all go through
+- [00:03:30,410 - 00:03:32,940] some of the simple properties that it has.
+- [00:03:34,700 - 00:03:36,880] And why it is so odd.
+- [00:03:37,060 - 00:03:37,920] First of all,
+- [00:03:37,920 - 00:03:41,420] you can send the photon through polarizers.
+- [00:03:42,120 - 00:03:47,280] Now polarizers are really not terribly quantum mechanical,
+- [00:03:47,280 - 00:03:48,220] necessarily.
+- [00:03:49,300 - 00:03:51,060] As I mentioned,
+- [00:03:51,060 - 00:03:51,720] I think,
+- [00:03:51,720 - 00:03:52,540] the previous time,
+- [00:03:52,540 - 00:03:57,220] if you send microwaves or radio waves through a grid,
+- [00:03:58,960 - 00:04:03,020] a grid of wires like so,
+- [00:04:05,320 - 00:04:06,280] the photons,
+- [00:04:06,280 - 00:04:08,040] or better yet,
+- [00:04:08,040 - 00:04:12,720] the radio waves or the microwaves that go through it,
+- [00:04:12,800 - 00:04:15,020] will come out on the other side polarized.
+- [00:04:15,580 - 00:04:16,440] And the reason,
+- [00:04:16,440 - 00:04:17,320] the best way,
+- [00:04:17,320 - 00:04:18,880] the easiest way to think about it,
+- [00:04:18,899 - 00:04:21,820] is to think about it in the language of waves,
+- [00:04:21,820 - 00:04:23,440] electric and magnetic fields.
+- [00:04:23,800 - 00:04:29,620] The electric field can vibrate vertically and horizontally,
+- [00:04:30,680 - 00:04:33,980] but it can only drive current in the vertical direction.
+- [00:04:34,580 - 00:04:35,340] Now,
+- [00:04:35,340 - 00:04:38,790] a mirror is a system such that
+- [00:04:38,790 - 00:04:42,240] when an electromagnetic wave falls on it,
+- [00:04:42,600 - 00:04:43,360] a conductor,
+- [00:04:43,360 - 00:04:44,360] an electric conductor,
+- [00:04:44,560 - 00:04:47,130] is such that current can flow due
+- [00:04:47,130 - 00:04:49,700] to the electric field in any direction,
+- [00:04:49,700 - 00:04:53,160] and the flow of that current produces its own wave,
+- [00:04:53,400 - 00:04:55,040] and typically what it does
+- [00:04:55,040 - 00:04:56,680] is it produces the reflected wave
+- [00:04:56,680 - 00:04:58,880] that reflects back off the mirror,
+- [00:04:59,060 - 00:05:01,120] and that is why mirrors reflect.
+- [00:05:01,460 - 00:05:03,320] Because they produce currents in there,
+- [00:05:03,460 - 00:05:06,500] and those currents produce the reflected wave.
+- [00:05:07,360 - 00:05:08,820] Exactly how that works,
+- [00:05:08,820 - 00:05:10,240] we don't have to worry about here,
+- [00:05:10,460 - 00:05:12,860] but it also works in this grid.
+- [00:05:13,060 - 00:05:16,370] The only difference is that the electric
+- [00:05:16,370 - 00:05:19,680] current can only oscillate in this grid.
+- [00:05:19,680 - 00:05:20,720] In the vertical direction.
+- [00:05:21,680 - 00:05:24,300] And so as far as the vertical direction goes,
+- [00:05:24,400 - 00:05:25,780] the grid is a mirror.
+- [00:05:26,000 - 00:05:29,520] It reflects waves whose electric field is vertical.
+- [00:05:30,520 - 00:05:33,500] As far as the horizontal direction goes,
+- [00:05:33,820 - 00:05:35,540] the grid isn't there at all.
+- [00:05:36,400 - 00:05:37,360] It cannot,
+- [00:05:37,360 - 00:05:39,250] the electric wave cannot drive
+- [00:05:39,250 - 00:05:41,140] currents in the horizontal direction,
+- [00:05:41,480 - 00:05:42,830] so it's exactly as if there
+- [00:05:42,830 - 00:05:44,180] was no grid there at all,
+- [00:05:44,340 - 00:05:46,280] and the photon just goes straight through.
+- [00:05:46,540 - 00:05:49,100] So the result is a grid like this
+- [00:05:49,100 - 00:05:53,600] produces an electromagnetic wave which is polarized.
+- [00:05:54,560 - 00:05:56,950] The official definition of the polarization is
+- [00:05:56,950 - 00:05:59,340] it's the direction of the electric field,
+- [00:05:59,640 - 00:06:02,820] and so a grid like this will produce a photon
+- [00:06:02,820 - 00:06:06,980] or an electromagnetic wave polarized this way.
+- [00:06:07,240 - 00:06:10,390] I'll represent that by just drawing
+- [00:06:10,390 - 00:06:13,540] my polarizer as having an axis.
+- [00:06:14,140 - 00:06:15,820] The axis of polarization,
+- [00:06:15,820 - 00:06:18,100] not the axis of the grid lines,
+- [00:06:18,100 - 00:06:21,480] but the axis that the electromagnetic wave
+- [00:06:21,480 - 00:06:24,860] that goes through it becomes polarized in.
+- [00:06:25,340 - 00:06:26,060] All right,
+- [00:06:26,060 - 00:06:28,580] so we send through photons one at a time,
+- [00:06:28,720 - 00:06:30,420] and the photons come through.
+- [00:06:30,600 - 00:06:33,080] If they pass through a polarizer like this,
+- [00:06:34,300 - 00:06:38,180] they come out polarized in the x direction.
+- [00:06:38,720 - 00:06:40,240] Let's call that polarization,
+- [00:06:40,240 - 00:06:41,780] let's just call it x,
+- [00:06:41,980 - 00:06:43,680] and never mind that we're
+- [00:06:43,680 - 00:06:45,380] doing quantum mechanics for the moment.
+- [00:06:45,420 - 00:06:46,800] The photons just come through.
+- [00:06:46,800 - 00:06:50,920] If we send it through a second polarizer to check,
+- [00:06:51,120 - 00:06:56,040] to make a check that it really was polarized horizontally,
+- [00:06:56,420 - 00:07:00,660] if the second polarizer is also polarized horizontally,
+- [00:07:06,060 - 00:07:08,860] then the photon will again go through.
+- [00:07:10,440 - 00:07:13,020] So we can think of the
+- [00:07:13,020 - 00:07:15,600] polarizer as both a preparer of systems,
+- [00:07:15,600 - 00:07:19,160] it prepares a photon with a particular polarization,
+- [00:07:19,580 - 00:07:22,840] and it can also be thought of as a detector,
+- [00:07:23,100 - 00:07:24,720] or better yet,
+- [00:07:24,720 - 00:07:28,840] a measuring apparatus that measures the photon polarization.
+- [00:07:29,400 - 00:07:30,360] In particular,
+- [00:07:30,360 - 00:07:33,640] if the photon was horizontally polarized,
+- [00:07:33,980 - 00:07:36,180] it will pass through the horizontal polarizer.
+- [00:07:36,320 - 00:07:37,540] On the other hand,
+- [00:07:37,540 - 00:07:40,820] if the photon was created vertically polarized,
+- [00:07:41,060 - 00:07:42,600] I don't need to put arrows on these things,
+- [00:07:42,740 - 00:07:44,120] it's good enough just to put a direction.
+- [00:07:44,120 - 00:07:47,960] If the photon is created vertically polarized,
+- [00:07:50,960 - 00:07:55,120] and the apparatus is horizontally polarized,
+- [00:07:55,580 - 00:07:57,940] then the photon will not go through the apparatus.
+- [00:07:58,200 - 00:07:59,320] It may get reflected,
+- [00:07:59,320 - 00:08:01,400] or it may just get absorbed,
+- [00:08:01,400 - 00:08:02,760] one or the other.
+- [00:08:03,820 - 00:08:05,520] But whichever it does,
+- [00:08:05,520 - 00:08:07,590] by monitoring whether the photon
+- [00:08:07,590 - 00:08:09,660] goes through over here or not,
+- [00:08:09,900 - 00:08:11,750] you have measured whether the
+- [00:08:11,750 - 00:08:13,600] polarization is vertical or horizontal.
+- [00:08:14,859 - 00:08:18,380] Now there's nothing terribly non-classical about this.
+- [00:08:18,580 - 00:08:22,880] You can easily imagine a classical setup
+- [00:08:22,880 - 00:08:25,220] where some kind of device,
+- [00:08:25,220 - 00:08:28,540] which let through a vertical flag,
+- [00:08:28,960 - 00:08:31,140] would block a horizontal flag,
+- [00:08:31,140 - 00:08:33,659] and would admit a vertical flag,
+- [00:08:33,659 - 00:08:35,159] and vice versa.
+- [00:08:35,480 - 00:08:37,220] There's nothing particularly,
+- [00:08:37,220 - 00:08:39,539] and this is entirely deterministic,
+- [00:08:39,740 - 00:08:41,520] if you send the photon,
+- [00:08:41,520 - 00:08:43,520] if the photon is vertically polarized,
+- [00:08:44,000 - 00:08:45,040] it'll pass through.
+- [00:08:45,160 - 00:08:46,520] If it's horizontally polarized,
+- [00:08:46,520 - 00:08:47,720] it won't pass through.
+- [00:08:47,900 - 00:08:48,780] End of story.
+- [00:08:49,160 - 00:08:52,300] Nothing out of the ordinary there.
+- [00:08:54,220 - 00:08:56,840] The place where the out of the ordinary happens
+- [00:08:57,520 - 00:08:58,890] is when we add to
+- [00:08:58,890 - 00:09:00,260] this picture the idea of symmetry.
+- [00:09:01,020 - 00:09:01,500] Yes?
+- [00:09:02,020 - 00:09:02,500] Lastly,
+- [00:09:02,500 - 00:09:03,780] do you have photons?
+- [00:09:04,420 - 00:09:04,900] No,
+- [00:09:04,900 - 00:09:06,960] but you could imagine that there are
+- [00:09:06,960 - 00:09:09,020] bullets which have little flags on them.
+- [00:09:09,140 - 00:09:10,080] Bullets with little,
+- [00:09:10,080 - 00:09:11,960] funny shaped bullets.
+- [00:09:14,440 - 00:09:16,220] With flags on them like that.
+- [00:09:17,940 - 00:09:19,040] And they go through.
+- [00:09:19,740 - 00:09:22,820] If they're along the direction of some kind of slits,
+- [00:09:22,820 - 00:09:23,800] they get blocked otherwise.
+- [00:09:24,240 - 00:09:24,960] Nothing special.
+- [00:09:25,300 - 00:09:29,460] So classical particles could easily do this kind of thing.
+- [00:09:29,740 - 00:09:31,930] The place where you start to
+- [00:09:31,930 - 00:09:34,120] get into trouble thinking classically is,
+- [00:09:34,380 - 00:09:35,000] oh,
+- [00:09:35,000 - 00:09:35,900] one other thing.
+- [00:09:36,220 - 00:09:38,360] Notice that there are also
+- [00:09:38,360 - 00:09:40,500] only two possibilities for the photon.
+- [00:09:40,700 - 00:09:41,880] It either goes through or it
+- [00:09:41,880 - 00:09:43,060] doesn't go through in this setup.
+- [00:09:43,520 - 00:09:44,300] Now,
+- [00:09:44,300 - 00:09:46,500] now comes the kicker.
+- [00:09:46,520 - 00:09:48,160] The kicker has to do with symmetry.
+- [00:09:48,580 - 00:09:51,130] The symmetry is the symmetry
+- [00:09:51,130 - 00:09:53,680] of rotation of the xy plane.
+- [00:09:54,140 - 00:09:57,260] If it's possible to hold your polarizer vertically,
+- [00:09:57,640 - 00:09:59,460] and it's possible to hold it horizontally,
+- [00:09:59,920 - 00:10:01,880] then the symmetry of physics,
+- [00:10:01,880 - 00:10:04,600] which allows you to rotate things,
+- [00:10:05,319 - 00:10:08,209] allows you to construct a
+- [00:10:08,209 - 00:10:11,100] polarizer which points at any angle.
+- [00:10:12,560 - 00:10:15,340] What happens to a photon which goes through that?
+- [00:10:18,460 - 00:10:21,820] It comes out polarized at an angle.
+- [00:10:23,420 - 00:10:23,940] Well,
+- [00:10:23,940 - 00:10:26,000] you can imagine classical setups.
+- [00:10:26,540 - 00:10:27,500] For example,
+- [00:10:27,500 - 00:10:29,240] a kind of setup which would emit,
+- [00:10:29,380 - 00:10:31,100] which would allow this particular
+- [00:10:31,100 - 00:10:32,820] kind of bullet to go through.
+- [00:10:32,980 - 00:10:34,020] The other kind of bullet,
+- [00:10:34,020 - 00:10:35,440] which was polarized horizontally,
+- [00:10:35,440 - 00:10:36,580] would not go through.
+- [00:10:37,380 - 00:10:38,920] Any kind of device that I
+- [00:10:38,920 - 00:10:40,460] try to think of like that,
+- [00:10:40,460 - 00:10:43,830] I tend to find would also
+- [00:10:43,830 - 00:10:47,200] block a bullet that was polarized
+- [00:10:47,200 - 00:10:51,280] in some non-vertical or non-horizontal direction.
+- [00:10:51,600 - 00:10:52,380] For example,
+- [00:10:52,380 - 00:10:55,100] if the polarizer literally consisted of a bunch of,
+- [00:10:55,200 - 00:10:56,700] a grid,
+- [00:10:56,700 - 00:10:58,320] a grid like this,
+- [00:10:59,580 - 00:11:02,200] which passed things which were vertical,
+- [00:11:03,380 - 00:11:05,120] blocked things which are horizontal,
+- [00:11:05,580 - 00:11:08,080] it would also block things which were not horizontal.
+- [00:11:09,900 - 00:11:11,320] Here's where the kicker is.
+- [00:11:11,680 - 00:11:14,660] The kicker is that these
+- [00:11:14,660 - 00:11:17,640] non-vertically or non-horizontally polarized photons
+- [00:11:18,439 - 00:11:21,860] may or may not go through this polarizer.
+- [00:11:22,080 - 00:11:24,980] They may or may not go through with a probability.
+- [00:11:26,040 - 00:11:26,920] What's more,
+- [00:11:26,920 - 00:11:28,640] there is only two possibilities.
+- [00:11:29,780 - 00:11:32,360] The photon doesn't get broken into pieces,
+- [00:11:32,620 - 00:11:33,980] some piece of it going through,
+- [00:11:33,980 - 00:11:35,540] some piece of it not going through.
+- [00:11:35,820 - 00:11:38,060] There are only two possibilities.
+- [00:11:38,720 - 00:11:39,820] And that's it.
+- [00:11:39,960 - 00:11:42,300] It either goes through or it doesn't go through,
+- [00:11:42,480 - 00:11:46,180] even though it has been polarized in some other direction.
+- [00:11:46,940 - 00:11:49,940] That's where the peculiarities of quantum mechanics start.
+- [00:11:50,200 - 00:11:51,900] That's where you begin to wonder,
+- [00:11:52,060 - 00:11:55,100] is the photon really behaving like a particle,
+- [00:11:55,180 - 00:11:56,740] like a sensible particle or not?
+- [00:11:57,540 - 00:12:00,120] And it gets even weirder and more mysterious
+- [00:12:00,120 - 00:12:01,900] when we start to set
+- [00:12:01,900 - 00:12:03,680] up a theory of the probabilities
+- [00:12:03,680 - 00:12:07,080] for the photons to pass through the respective polarizers.
+- [00:12:08,680 - 00:12:10,920] That theory is of course quantum mechanics.
+- [00:12:12,840 - 00:12:15,800] And it is really quite hard
+- [00:12:15,800 - 00:12:18,760] to think of a classical setup
+- [00:12:18,760 - 00:12:21,220] which would produce the
+- [00:12:21,220 - 00:12:23,680] same kind of probability distributions
+- [00:12:23,680 - 00:12:28,160] and how they depend on the orientation of the polarizers.
+- [00:12:29,640 - 00:12:31,430] I don't think anybody has
+- [00:12:31,430 - 00:12:33,220] ever successfully designed such a thing,
+- [00:12:33,380 - 00:12:35,720] at least not in any great generality,
+- [00:12:36,960 - 00:12:40,140] that would do the right thing to polarize photons.
+- [00:12:41,560 - 00:12:42,640] By design,
+- [00:12:42,640 - 00:12:44,540] I mean design a classical apparatus
+- [00:12:44,540 - 00:12:46,080] which would do the right thing.
+- [00:12:46,380 - 00:12:47,620] So there are only two possibilities.
+- [00:12:48,480 - 00:12:52,380] The photon either appears to be polarized up
+- [00:12:52,380 - 00:12:56,340] or appears to be polarized horizontally when you detect it.
+- [00:12:56,500 - 00:12:59,120] When you detect it with a horizontal polarizer,
+- [00:12:59,160 - 00:13:00,800] it either goes through or it doesn't go through.
+- [00:13:01,100 - 00:13:02,850] So you would be likely to
+- [00:13:02,850 - 00:13:04,600] say there's only two possible states
+- [00:13:04,600 - 00:13:05,480] for the photon.
+- [00:13:05,900 - 00:13:07,180] On the other hand,
+- [00:13:07,180 - 00:13:08,720] there's more than two possible states.
+- [00:13:09,310 - 00:13:11,920] There's a continuum of possible states for the photon.
+- [00:13:12,160 - 00:13:14,220] You can polarize it in any direction.
+- [00:13:14,920 - 00:13:17,620] And so we have a kind
+- [00:13:17,620 - 00:13:20,320] of conflict between discreteness and continuity.
+- [00:13:21,280 - 00:13:23,940] Continuous direction in which the photon can be polarized,
+- [00:13:24,280 - 00:13:26,420] but when we monitor it and we detect it,
+- [00:13:26,520 - 00:13:28,760] there are only two possible states,
+- [00:13:28,760 - 00:13:30,840] one or the other.
+- [00:13:30,980 - 00:13:33,800] And that's the mystery of quantum mechanics.
+- [00:13:36,860 - 00:13:39,840] It's a conflict between symmetry on the one hand
+- [00:13:39,840 - 00:13:42,120] and discreteness on the other hand.
+- [00:13:44,360 - 00:13:44,960] Okay,
+- [00:13:44,960 - 00:13:46,610] so we were beginning to
+- [00:13:46,610 - 00:13:48,260] set up the theory of polarization.
+- [00:13:52,180 - 00:13:53,200] As I said,
+- [00:13:53,200 - 00:13:55,980] it is probably the simplest context
+- [00:13:55,980 - 00:13:57,820] in which to study quantum mechanics.
+- [00:13:58,560 - 00:14:01,170] It doesn't have the full
+- [00:14:01,170 - 00:14:03,780] complexity of all of quantum mechanics,
+- [00:14:03,780 - 00:14:05,600] but it's the simplest quantum mechanical system.
+- [00:14:06,800 - 00:14:09,020] So let's now label the quantum
+- [00:14:09,020 - 00:14:11,240] states of the polarization of a photon.
+- [00:14:11,440 - 00:14:13,340] I will make this phrase shorter.
+- [00:14:13,460 - 00:14:15,440] I will simply say the quantum states of a photon,
+- [00:14:15,680 - 00:14:16,940] but I mean its polarization.
+- [00:14:17,720 - 00:14:18,460] All right,
+- [00:14:18,460 - 00:14:19,740] it can be polarized horizontally.
+- [00:14:20,040 - 00:14:20,640] Incidentally,
+- [00:14:20,640 - 00:14:25,140] there is no difference between being polarized horizontally
+- [00:14:25,140 - 00:14:28,560] to the right or polarized horizontally to the left.
+- [00:14:28,820 - 00:14:30,600] That's why I tend to
+- [00:14:30,600 - 00:14:32,380] draw double arrows on the polarization.
+- [00:14:33,780 - 00:14:36,400] There's no difference between being polarized to the right
+- [00:14:36,400 - 00:14:37,740] or polarized to the left.
+- [00:14:38,000 - 00:14:39,660] If you think about it for a moment,
+- [00:14:39,780 - 00:14:42,420] an electromagnetic wave will oscillate up and down,
+- [00:14:42,640 - 00:14:44,760] and so there's no sense in which you can say
+- [00:14:44,760 - 00:14:49,280] the polarization is vertically up versus vertically down,
+- [00:14:49,819 - 00:14:52,160] and the photon inherits that fact.
+- [00:14:53,599 - 00:14:54,040] Polarization,
+- [00:14:54,040 - 00:14:55,880] you can think of a polarization vector,
+- [00:14:56,020 - 00:14:57,200] but it kind of has two ends.
+- [00:14:58,040 - 00:14:59,680] There's no sense in which it points
+- [00:14:59,680 - 00:15:01,320] to the right rather than to the left,
+- [00:15:01,320 - 00:15:02,970] but there is a sense in
+- [00:15:02,970 - 00:15:04,620] which it's pointing horizontal rather than vertical.
+- [00:15:05,000 - 00:15:06,560] So in some way,
+- [00:15:06,560 - 00:15:08,840] it's simpler than the spin one
+- [00:15:08,840 - 00:15:11,120] half system you looked at before.
+- [00:15:11,180 - 00:15:11,600] Well,
+- [00:15:11,600 - 00:15:15,480] they're actually quite isomorphic to each other.
+- [00:15:15,960 - 00:15:17,560] They're completely parallel,
+- [00:15:17,560 - 00:15:19,400] completely identical mathematics,
+- [00:15:20,040 - 00:15:22,400] and the reason for not doing it this time,
+- [00:15:22,400 - 00:15:22,820] the spin,
+- [00:15:23,040 - 00:15:24,300] is because I did it last time.
+- [00:15:25,020 - 00:15:26,180] That's the main reason.
+- [00:15:27,920 - 00:15:30,820] Some people find it a little easier to visualize
+- [00:15:31,339 - 00:15:32,700] the polarization of a photon.
+- [00:15:35,660 - 00:15:38,220] They're identical systems quantum mechanically,
+- [00:15:38,699 - 00:15:41,020] and so we don't really need to distinguish that.
+- [00:15:41,120 - 00:15:41,180] Well,
+- [00:15:41,180 - 00:15:42,020] okay,
+- [00:15:42,020 - 00:15:42,480] let's go on.
+- [00:15:42,960 - 00:15:43,500] All right,
+- [00:15:43,500 - 00:15:44,240] we're going to call that,
+- [00:15:44,380 - 00:15:46,640] we're going to give that the name x.
+- [00:15:47,420 - 00:15:49,320] That's the ket vector x.
+- [00:15:49,440 - 00:15:51,720] It represents a photon polarized horizontally.
+- [00:15:52,960 - 00:15:54,880] And another way that we can label it,
+- [00:15:55,180 - 00:15:56,920] I'm going to take these arrows off.
+- [00:15:57,120 - 00:15:59,040] I get awfully tired of drawing arrows,
+- [00:15:59,300 - 00:16:00,840] and they serve no purpose.
+- [00:16:01,320 - 00:16:01,540] However,
+- [00:16:01,540 - 00:16:05,320] since there's no sense of direction along the arrow,
+- [00:16:07,100 - 00:16:10,660] and I'll also label that one zero.
+- [00:16:13,319 - 00:16:15,920] Another representation of the,
+- [00:16:16,060 - 00:16:16,780] oh,
+- [00:16:16,780 - 00:16:17,400] incidentally,
+- [00:16:17,400 - 00:16:19,140] the vector space of states
+- [00:16:19,140 - 00:16:20,640] is clearly two-dimensional,
+- [00:16:20,820 - 00:16:24,020] since there are only two possibilities for the polarization.
+- [00:16:25,040 - 00:16:26,700] Two possibilities for the polarization,
+- [00:16:29,060 - 00:16:30,500] x or y,
+- [00:16:35,560 - 00:16:39,520] and we'll label y zero one.
+- [00:16:41,480 - 00:16:42,140] All right,
+- [00:16:42,140 - 00:16:43,880] so several different representations
+- [00:16:44,840 - 00:16:47,800] to label the states of the photon polarization.
+- [00:16:50,180 - 00:16:50,740] Yes?
+- [00:16:51,620 - 00:16:53,060] Is that totally arbitrary,
+- [00:16:53,060 - 00:16:54,020] one and zero,
+- [00:16:54,120 - 00:16:55,160] to be anything else,
+- [00:16:55,160 - 00:16:55,400] or?
+- [00:16:56,420 - 00:16:56,980] No,
+- [00:16:56,980 - 00:16:58,100] it's not totally arbitrary.
+- [00:16:58,100 - 00:17:02,820] We want these vectors to be normalized.
+- [00:17:03,480 - 00:17:04,700] Sums of the squares of the
+- [00:17:04,700 - 00:17:05,920] components should add up to one.
+- [00:17:06,319 - 00:17:08,319] That's one of the rules about state vectors.
+- [00:17:08,480 - 00:17:10,619] That corresponds to the total probability
+- [00:17:11,160 - 00:17:12,800] for a state adding up to one.
+- [00:17:13,599 - 00:17:15,880] We want them to be orthogonal to each other.
+- [00:17:17,319 - 00:17:19,099] These two vectors are clearly orthogonal.
+- [00:17:20,020 - 00:17:21,680] Multiply the top by the top,
+- [00:17:21,680 - 00:17:23,319] plus the bottom by the bottom.
+- [00:17:24,099 - 00:17:24,579] Incidentally,
+- [00:17:24,579 - 00:17:26,220] in order to take the inner product,
+- [00:17:26,220 - 00:17:28,280] you should complex conjugate one of them,
+- [00:17:28,980 - 00:17:31,740] but the complex conjugate of the bottom one is itself.
+- [00:17:32,280 - 00:17:34,820] So it's one times zero plus zero times one.
+- [00:17:35,960 - 00:17:36,520] x,
+- [00:17:36,520 - 00:17:39,360] y equals zero.
+- [00:17:40,740 - 00:17:41,620] They're orthogonal.
+- [00:17:42,020 - 00:17:42,980] They're normalized.
+- [00:17:43,160 - 00:17:44,300] They form a basis.
+- [00:17:45,940 - 00:17:46,500] Now,
+- [00:17:46,500 - 00:17:47,820] it's not completely...
+- [00:17:48,560 - 00:17:49,700] In some sense,
+- [00:17:49,700 - 00:17:51,220] you've chosen your axes
+- [00:17:51,220 - 00:17:52,800] so that those will be normal.
+- [00:17:53,120 - 00:17:53,380] Yes,
+- [00:17:53,380 - 00:17:54,940] I have.
+- [00:17:57,220 - 00:17:57,720] Now,
+- [00:17:57,720 - 00:17:58,860] I could have...
+- [00:17:59,920 - 00:18:03,720] We will see that these vectors are somewhat ambiguous.
+- [00:18:04,620 - 00:18:06,860] We're going to calculate the things which really count,
+- [00:18:06,920 - 00:18:08,640] and when we calculate what really count,
+- [00:18:08,640 - 00:18:09,340] namely probabilities,
+- [00:18:10,100 - 00:18:12,300] we'll find out that we can't,
+- [00:18:12,300 - 00:18:12,900] for example,
+- [00:18:13,440 - 00:18:15,740] distinguish this vector and this vector.
+- [00:18:16,140 - 00:18:19,120] The fact that there's something in the first place
+- [00:18:19,120 - 00:18:21,460] and nothing in the second place is the important thing,
+- [00:18:21,990 - 00:18:23,475] and the other important thing is that
+- [00:18:23,475 - 00:18:24,960] the sums of the squares of them
+- [00:18:24,960 - 00:18:25,720] add up to...
+- [00:18:26,360 - 00:18:28,220] Sums of the squares of the
+- [00:18:28,220 - 00:18:30,080] two components add up to one.
+- [00:18:31,200 - 00:18:34,900] But this is a convenient basis of the vectors
+- [00:18:36,120 - 00:18:38,080] which represent the two states.
+- [00:18:39,720 - 00:18:40,300] Okay?
+- [00:18:40,440 - 00:18:45,440] We also said that we could define an observable.
+- [00:18:45,720 - 00:18:48,380] An observable means the thing that we measure
+- [00:18:48,960 - 00:18:51,780] or that we record in our little book.
+- [00:18:52,120 - 00:18:54,100] We send a lot of photons through.
+- [00:18:54,100 - 00:18:56,440] If a photon goes through the apparatus,
+- [00:18:57,040 - 00:18:59,400] we say plus one.
+- [00:18:59,660 - 00:19:01,460] If it doesn't go through the apparatus,
+- [00:19:01,460 - 00:19:02,800] we say minus one.
+- [00:19:03,020 - 00:19:03,500] Now,
+- [00:19:03,500 - 00:19:03,720] there,
+- [00:19:03,720 - 00:19:05,240] there's absolutely nothing unique.
+- [00:19:05,880 - 00:19:07,940] I could have said seven and twelve.
+- [00:19:08,700 - 00:19:09,920] Anything I like,
+- [00:19:09,920 - 00:19:12,400] just to distinguish the two possibilities,
+- [00:19:12,920 - 00:19:16,360] one and minus one are a nice pair of numbers
+- [00:19:16,360 - 00:19:17,960] that they're easy to remember,
+- [00:19:18,140 - 00:19:20,220] and there's no particular significance
+- [00:19:20,220 - 00:19:22,300] to choosing one and minus one.
+- [00:19:23,500 - 00:19:24,740] It's easy to remember,
+- [00:19:24,740 - 00:19:26,560] has a nice symmetry to it.
+- [00:19:26,900 - 00:19:30,600] And so what we'll say is that the X polarization,
+- [00:19:31,500 - 00:19:33,620] we'll say has polarization plus,
+- [00:19:34,120 - 00:19:37,040] and the Y polarization has polarization minus.
+- [00:19:37,800 - 00:19:38,280] Again,
+- [00:19:38,280 - 00:19:39,340] what I mean by that is
+- [00:19:39,340 - 00:19:40,400] we send a lot of photons
+- [00:19:40,400 - 00:19:41,900] through an X polarizer.
+- [00:19:42,400 - 00:19:43,580] If they pass through,
+- [00:19:43,580 - 00:19:46,320] each time a photon passes through the X polarizer,
+- [00:19:46,380 - 00:19:48,040] we write down a little plus in our notebook.
+- [00:19:48,440 - 00:19:50,310] Each time it is reflected
+- [00:19:50,310 - 00:19:52,180] or whatever else happens to it,
+- [00:19:52,180 - 00:19:53,700] we write down a little minus,
+- [00:19:53,900 - 00:19:56,640] and then we can take statistics,
+- [00:19:57,180 - 00:19:58,900] we can define the observable quantity
+- [00:19:58,900 - 00:20:00,620] in the way that I said,
+- [00:20:00,800 - 00:20:06,180] and label it or associate it
+- [00:20:06,180 - 00:20:08,560] with a quantum mechanical observable.
+- [00:20:08,700 - 00:20:10,900] A quantum mechanical observable is an operator.
+- [00:20:11,680 - 00:20:13,320] I'll put a little hat on it.
+- [00:20:13,520 - 00:20:15,440] If I forget to put a hat on it,
+- [00:20:16,660 - 00:20:19,180] as long as it's this big double P here,
+- [00:20:19,380 - 00:20:20,980] it means an operator.
+- [00:20:22,180 - 00:20:26,480] It's an operator whose eigenvectors are X and Y,
+- [00:20:26,760 - 00:20:29,400] or this one and this one,
+- [00:20:30,400 - 00:20:32,890] and it has eigenvalue plus one
+- [00:20:32,890 - 00:20:35,380] for X and minus one for Y.
+- [00:20:36,480 - 00:20:37,340] That's unique.
+- [00:20:42,040 - 00:20:42,600] Abstractly,
+- [00:20:42,600 - 00:20:44,580] we know how it acts on any vector,
+- [00:20:44,740 - 00:20:46,930] because any vector can be
+- [00:20:46,930 - 00:20:49,120] linearly expanded in X and Y,
+- [00:20:49,360 - 00:20:52,060] but here's the state.
+- [00:20:52,860 - 00:20:54,320] This is equal to X,
+- [00:20:55,060 - 00:20:59,720] and P on Y is equal to minus Y.
+- [00:21:00,340 - 00:21:03,380] The eigenvalues are plus one and minus one,
+- [00:21:03,540 - 00:21:05,660] and I'm going to label this thing here
+- [00:21:05,660 - 00:21:08,440] just to indicate that it's a polarizer,
+- [00:21:08,480 - 00:21:11,800] that it represents polarization in the XY plane.
+- [00:21:12,240 - 00:21:14,000] I'm going to put a little symbol here
+- [00:21:14,000 - 00:21:15,760] that represents the fact that it
+- [00:21:15,760 - 00:21:17,520] has to do with the XY plane,
+- [00:21:17,720 - 00:21:19,620] as opposed to some rotated direction.
+- [00:21:21,340 - 00:21:21,900] Okay.
+- [00:21:21,900 - 00:21:23,160] So this is its definition.
+- [00:21:23,500 - 00:21:24,480] It's an operator,
+- [00:21:24,480 - 00:21:26,060] a linear operator.
+- [00:21:26,940 - 00:21:29,480] Associated with every linear operator is a matrix.
+- [00:21:29,940 - 00:21:32,060] The matrix associated with P
+- [00:21:37,640 - 00:21:40,760] is the matrix one minus one,
+- [00:21:40,880 - 00:21:42,260] as simple as it could be.
+- [00:21:44,000 - 00:21:46,130] And it's obvious now that when
+- [00:21:46,130 - 00:21:48,260] it acts on the vector X,
+- [00:21:48,460 - 00:21:50,420] let's let it act on the vector X,
+- [00:21:54,120 - 00:21:55,240] it acts on the vector Y.
+- [00:21:55,240 - 00:21:57,000] The vector X is represented by one,
+- [00:21:57,000 - 00:21:57,280] zero.
+- [00:21:58,320 - 00:22:01,020] That matrix times that column vector,
+- [00:22:01,720 - 00:22:03,100] one times one is one.
+- [00:22:05,300 - 00:22:06,840] Zero times one and one
+- [00:22:06,840 - 00:22:08,380] times zero minus one times zero,
+- [00:22:08,380 - 00:22:08,880] zero.
+- [00:22:09,880 - 00:22:14,460] So we see that the P observable,
+- [00:22:14,580 - 00:22:16,880] when it acts on the X vector,
+- [00:22:17,020 - 00:22:20,520] X polarization gives us back the X polarization vector,
+- [00:22:20,520 - 00:22:22,160] but when it acts,
+- [00:22:22,160 - 00:22:22,720] sorry,
+- [00:22:22,880 - 00:22:25,940] when it acts on the Y polarization vector,
+- [00:22:31,480 - 00:22:36,940] it gives minus the Y polarization vector.
+- [00:22:37,220 - 00:22:40,880] So this is the unique operator
+- [00:22:40,880 - 00:22:43,260] which represents the observable,
+- [00:22:43,260 - 00:22:49,700] the observable polarization
+- [00:22:49,700 - 00:22:51,140] in the X-Y plane.
+- [00:22:52,240 - 00:22:53,460] Now in this case,
+- [00:22:53,600 - 00:22:55,160] we knew what we wanted,
+- [00:22:55,220 - 00:22:57,320] we constructed the vectors,
+- [00:22:57,620 - 00:23:00,180] and then we made up an observable
+- [00:23:00,560 - 00:23:02,390] and we concocted it just so we
+- [00:23:02,390 - 00:23:04,220] would do what we wanted it to do.
+- [00:23:04,540 - 00:23:05,900] In other cases,
+- [00:23:06,180 - 00:23:08,120] and I'll give you an example of another case,
+- [00:23:08,300 - 00:23:09,620] in other cases,
+- [00:23:09,660 - 00:23:14,080] there might be reasons to focus on an observable,
+- [00:23:14,080 - 00:23:15,020] on an operator,
+- [00:23:15,380 - 00:23:17,760] and ask what its eigenvectors are
+- [00:23:17,760 - 00:23:19,100] and what its eigenvalues are.
+- [00:23:19,100 - 00:23:21,560] The example that I've already given you
+- [00:23:21,560 - 00:23:22,800] was for example the momentum.
+- [00:23:23,460 - 00:23:26,040] The momentum was described by an operator,
+- [00:23:26,300 - 00:23:27,500] minus I d by dx.
+- [00:23:28,180 - 00:23:30,040] I told you what the operator was,
+- [00:23:30,300 - 00:23:33,060] and then we found its eigenvectors and its eigenvalues.
+- [00:23:33,660 - 00:23:36,660] So sometimes it's more convenient,
+- [00:23:36,820 - 00:23:37,860] not a question more convenient,
+- [00:23:37,980 - 00:23:41,940] sometimes we know more about the vectors and the eigenvalues
+- [00:23:41,940 - 00:23:43,750] than we do about the
+- [00:23:43,750 - 00:23:45,560] mathematical structure of the observable,
+- [00:23:45,700 - 00:23:47,540] and sometimes we know it the other way.
+- [00:23:47,540 - 00:23:51,160] But either way,
+- [00:23:52,980 - 00:23:57,360] observables have eigenvalues and eigenvectors.
+- [00:23:57,680 - 00:23:59,780] The eigenvectors are the states
+- [00:23:59,780 - 00:24:02,040] in which the observable has a definite value,
+- [00:24:02,260 - 00:24:04,720] and that value is the eigenvalue.
+- [00:24:06,200 - 00:24:12,300] So we're back to the basic foundations of the subject
+- [00:24:12,300 - 00:24:14,440] and the postulates.
+- [00:24:15,940 - 00:24:17,500] We have an example.
+- [00:24:17,540 - 00:24:18,260] Now,
+- [00:24:18,260 - 00:24:22,360] what if we polarize at 45 degrees?
+- [00:24:22,620 - 00:24:25,260] What if we turn our polarizer through 45 degrees?
+- [00:24:25,400 - 00:24:26,360] I know we did this before,
+- [00:24:26,360 - 00:24:27,180] but let's do it again.
+- [00:24:27,420 - 00:24:30,820] If we rotate our polarizer through 45 degrees,
+- [00:24:31,620 - 00:24:34,540] then we encounter a new state of polarization.
+- [00:24:35,660 - 00:24:37,180] It's neither x nor y.
+- [00:24:41,100 - 00:24:42,780] It's intuitively obvious
+- [00:24:43,480 - 00:24:45,540] that it has equal probability,
+- [00:24:45,640 - 00:24:47,520] when the photon is prepared this way,
+- [00:24:47,540 - 00:24:49,540] and then goes through the x or y polarizer,
+- [00:24:49,620 - 00:24:51,060] it's intuitively obvious
+- [00:24:51,060 - 00:24:53,500] that it will have equal probability
+- [00:24:53,500 - 00:24:56,380] to go through either the x or the y polarizer,
+- [00:24:56,400 - 00:24:58,280] since it's polarized at 45 degrees.
+- [00:25:01,780 - 00:25:02,300] So,
+- [00:25:02,300 - 00:25:03,700] it makes sense then
+- [00:25:03,700 - 00:25:06,420] to identify this polarization,
+- [00:25:06,720 - 00:25:08,420] which I'll label that way,
+- [00:25:11,300 - 00:25:13,280] as 1 over the square root of 2,
+- [00:25:13,420 - 00:25:15,240] that's just there to normalize it,
+- [00:25:15,240 - 00:25:20,120] times x plus y.
+- [00:25:23,380 - 00:25:26,460] Equal likelihood for the polarization
+- [00:25:26,460 - 00:25:28,080] to be up or horizontal
+- [00:25:28,780 - 00:25:31,380] if it goes through the polarizer
+- [00:25:31,380 - 00:25:32,880] which detects x polarization.
+- [00:25:33,820 - 00:25:36,340] We can also represent this in another way.
+- [00:25:36,420 - 00:25:38,100] We can represent it as a column vector,
+- [00:25:38,380 - 00:25:40,160] 1 over square root of 2,
+- [00:25:40,320 - 00:25:42,360] 1 over square root of 2.
+- [00:25:46,580 - 00:25:48,900] Equal coefficients in terms of x,
+- [00:25:49,000 - 00:25:50,880] or in front of x and in front of y.
+- [00:25:52,440 - 00:25:52,840] Alright,
+- [00:25:52,840 - 00:25:55,860] what about the other orthogonal polarization?
+- [00:25:56,480 - 00:25:58,220] The other orthogonal polarization,
+- [00:25:58,560 - 00:25:59,640] I won't draw it in here,
+- [00:25:59,820 - 00:26:01,940] but it points in the orthogonal direction,
+- [00:26:06,379 - 00:26:08,300] that's equal to 1 over square root of 2,
+- [00:26:08,840 - 00:26:10,240] and that can be taken to be,
+- [00:26:10,360 - 00:26:11,960] now the one thing we know about it,
+- [00:26:12,080 - 00:26:14,220] and about the only thing we really know about it,
+- [00:26:14,220 - 00:26:16,660] is that it should be orthogonal to this vector.
+- [00:26:16,900 - 00:26:18,080] Orthogonal to this vector.
+- [00:26:18,320 - 00:26:19,760] Why orthogonal to it?
+- [00:26:19,840 - 00:26:22,080] Because it represents a completely distinct,
+- [00:26:23,360 - 00:26:25,860] different outcome of an experiment.
+- [00:26:26,380 - 00:26:27,000] Namely,
+- [00:26:27,000 - 00:26:28,620] the experiment of sending it through
+- [00:26:28,620 - 00:26:30,740] the 45 degree polarizer.
+- [00:26:31,320 - 00:26:31,940] Alright,
+- [00:26:31,940 - 00:26:33,780] things which represent different outcomes,
+- [00:26:34,060 - 00:26:36,740] different definite outcomes of some experiment,
+- [00:26:37,020 - 00:26:38,700] should be orthogonal to each other.
+- [00:26:38,960 - 00:26:39,580] Well,
+- [00:26:39,580 - 00:26:41,640] a simple vector that's orthogonal to this
+- [00:26:41,640 - 00:26:44,200] would be x minus 1.
+- [00:26:44,220 - 00:26:44,500] So,
+- [00:26:44,500 - 00:26:44,500] x minus 1,
+- [00:26:45,100 - 00:26:46,280] not x minus,
+- [00:26:46,400 - 00:26:46,720] x,
+- [00:26:49,860 - 00:26:50,740] minus y,
+- [00:26:52,540 - 00:26:53,020] or,
+- [00:26:53,020 - 00:26:54,400] 1 over root 2,
+- [00:26:55,139 - 00:26:56,740] minus 1 over root 2.
+- [00:26:57,080 - 00:26:57,560] Now,
+- [00:26:57,560 - 00:26:58,680] it makes no difference whatever,
+- [00:26:58,960 - 00:26:59,920] if you put the minus
+- [00:26:59,920 - 00:27:00,880] sign in front of the x
+- [00:27:00,880 - 00:27:02,600] with no minus sign in front of the y,
+- [00:27:03,800 - 00:27:05,160] or vice versa.
+- [00:27:05,440 - 00:27:06,040] We'll see,
+- [00:27:06,040 - 00:27:06,940] it makes no difference.
+- [00:27:07,320 - 00:27:08,570] All we need to do
+- [00:27:08,570 - 00:27:09,820] is to choose a second vector
+- [00:27:09,820 - 00:27:10,980] orthogonal to this one.
+- [00:27:11,060 - 00:27:12,120] Let's check that it's orthogonal.
+- [00:27:14,220 - 00:27:14,220] So,
+- [00:27:14,220 - 00:27:16,200] the inner product between this vector and this vector
+- [00:27:16,200 - 00:27:19,640] are the sums of the x components,
+- [00:27:19,940 - 00:27:21,400] the product of the x components,
+- [00:27:21,440 - 00:27:23,280] and the product of the y components.
+- [00:27:23,720 - 00:27:24,120] So,
+- [00:27:24,120 - 00:27:25,250] it's 1 over square root of 2
+- [00:27:25,250 - 00:27:26,380] times 1 over square root of 2,
+- [00:27:27,120 - 00:27:28,490] minus 1 over square root of 2
+- [00:27:28,490 - 00:27:29,860] times 1 over square root of 2.
+- [00:27:29,920 - 00:27:30,940] The inner product is 0.
+- [00:27:31,500 - 00:27:31,900] Again,
+- [00:27:31,900 - 00:27:34,300] I didn't have to worry about complex conjugating,
+- [00:27:34,300 - 00:27:35,400] because everything is real.
+- [00:27:36,219 - 00:27:36,620] So,
+- [00:27:36,620 - 00:27:37,820] we can write down,
+- [00:27:44,720 - 00:27:45,000] 1 over square root of 2
+- [00:27:45,000 - 00:27:45,280] times 1 over square root of 2,
+- [00:27:45,280 - 00:27:45,600] equals 0.
+- [00:27:47,240 - 00:27:48,820] They're also normalized.
+- [00:27:49,020 - 00:27:50,540] The sums of the squares of
+- [00:27:50,540 - 00:27:52,060] the coefficients add up to 1.
+- [00:27:52,680 - 00:27:54,340] 1 over root 2 squared,
+- [00:27:54,500 - 00:27:56,080] plus 1 over root 2 squared is 1.
+- [00:27:56,560 - 00:27:57,120] So,
+- [00:27:57,120 - 00:27:59,340] the two vectors are another basis.
+- [00:27:59,900 - 00:28:02,520] They're a different and separate basis of states,
+- [00:28:02,720 - 00:28:05,540] but they're just as good as the original basis.
+- [00:28:05,680 - 00:28:07,600] The original basis was the basis 1,
+- [00:28:07,600 - 00:28:08,240] 0 and 0,
+- [00:28:08,240 - 00:28:08,600] 1.
+- [00:28:08,800 - 00:28:10,080] Here's the second basis.
+- [00:28:10,440 - 00:28:12,320] These are also mutually orthogonal,
+- [00:28:12,320 - 00:28:14,020] and also normalized.
+- [00:28:14,940 - 00:28:15,840] Roughly speaking,
+- [00:28:16,660 - 00:28:17,220] well,
+- [00:28:17,220 - 00:28:19,760] you can see the point.
+- [00:28:19,860 - 00:28:20,960] I don't need to belabor it.
+- [00:28:27,420 - 00:28:28,480] What happens,
+- [00:28:32,580 - 00:28:34,940] if we start with a polarizer,
+- [00:28:34,980 - 00:28:37,200] polarized at 45 degrees like that,
+- [00:28:37,380 - 00:28:39,640] we send the photon through it,
+- [00:28:40,480 - 00:28:42,140] it comes out the other side,
+- [00:28:42,320 - 00:28:44,760] and then we send it through a polarizer,
+- [00:28:45,320 - 00:28:47,120] which is either vertical or horizontal.
+- [00:28:47,220 - 00:28:48,940] Let's take the horizontal case.
+- [00:28:53,700 - 00:28:55,940] Then the rule of quantum mechanics is,
+- [00:28:56,160 - 00:28:56,340] well,
+- [00:28:56,340 - 00:28:57,140] let's see what we have.
+- [00:28:57,160 - 00:28:57,580] Let's begin.
+- [00:28:58,200 - 00:28:59,720] What is the state of the photon
+- [00:28:59,720 - 00:29:02,100] when it comes out of the first polarizer?
+- [00:29:02,340 - 00:29:04,360] When it comes out of the first polarizer,
+- [00:29:04,420 - 00:29:05,520] here it is.
+- [00:29:06,460 - 00:29:07,120] It's this.
+- [00:29:07,480 - 00:29:07,920] So,
+- [00:29:07,920 - 00:29:09,660] when it comes out of the first polarizer,
+- [00:29:09,660 - 00:29:11,860] the state of the photon is like that.
+- [00:29:13,360 - 00:29:14,840] What is the probability
+- [00:29:14,840 - 00:29:16,360] that if we measure
+- [00:29:17,120 - 00:29:19,660] the observable associated with the
+- [00:29:19,660 - 00:29:20,820] x-y polarization
+- [00:29:20,820 - 00:29:22,580] that we get plus?
+- [00:29:23,060 - 00:29:24,320] The answer is,
+- [00:29:25,160 - 00:29:25,460] again,
+- [00:29:25,460 - 00:29:27,100] this goes back to the basic
+- [00:29:28,980 - 00:29:29,580] postulates.
+- [00:29:30,100 - 00:29:31,740] We take the inner product
+- [00:29:32,220 - 00:29:34,200] of the state
+- [00:29:34,200 - 00:29:35,880] that we've constructed,
+- [00:29:37,120 - 00:29:39,000] we take the inner product of that
+- [00:29:39,000 - 00:29:40,180] with the eigenvector
+- [00:29:40,180 - 00:29:42,120] of the observable of interest.
+- [00:29:42,320 - 00:29:44,120] The observable of interest
+- [00:29:44,120 - 00:29:47,420] is now this observable,
+- [00:29:47,500 - 00:29:50,700] and its eigenvectors are x and y.
+- [00:29:53,560 - 00:29:54,040] So,
+- [00:29:54,040 - 00:29:55,480] we take the inner product,
+- [00:29:55,620 - 00:29:56,120] for example,
+- [00:29:56,120 - 00:29:57,000] of this with x,
+- [00:29:57,660 - 00:29:58,820] and we square it.
+- [00:29:59,320 - 00:30:00,880] That will give us the probability
+- [00:30:01,639 - 00:30:03,120] that after having gone through
+- [00:30:03,120 - 00:30:04,200] the first polarizer,
+- [00:30:04,380 - 00:30:06,760] it also goes through the second polarizer.
+- [00:30:08,940 - 00:30:10,640] That's the probability that after going
+- [00:30:10,640 - 00:30:11,420] through the first polarizer,
+- [00:30:11,420 - 00:30:13,800] it then goes through the second polarizer.
+- [00:30:13,860 - 00:30:15,620] We could also draw this x
+- [00:30:15,620 - 00:30:17,100] as just a horizontal line here.
+- [00:30:18,680 - 00:30:19,680] What is this?
+- [00:30:19,880 - 00:30:21,120] This is the inner product.
+- [00:30:22,480 - 00:30:23,720] Let's write them down.
+- [00:30:24,860 - 00:30:27,100] The bra vector here can be represented
+- [00:30:27,100 - 00:30:28,580] as a row vector,
+- [00:30:31,040 - 00:30:33,260] the ket vector is a column vector,
+- [00:30:37,100 - 00:30:39,600] and the inner product between them
+- [00:30:39,600 - 00:30:41,200] is just .
+- [00:30:41,200 - 00:30:41,260] So,
+- [00:30:41,260 - 00:30:41,860] we have 1 over root 2.
+- [00:30:43,199 - 00:30:44,940] 1 times 1 over root 2.
+- [00:30:45,939 - 00:30:48,300] The probability is the square of that.
+- [00:30:48,440 - 00:30:48,580] So,
+- [00:30:48,580 - 00:30:50,320] I shouldn't have written equals here.
+- [00:30:50,360 - 00:30:51,420] I should have taken this away.
+- [00:30:54,480 - 00:30:55,560] This is true now.
+- [00:30:55,940 - 00:30:58,760] And the probability is the square of this.
+- [00:31:05,800 - 00:31:06,660] Equal 1 half.
+- [00:31:07,900 - 00:31:08,320] Okay,
+- [00:31:08,320 - 00:31:09,860] so that was intuitively clear
+- [00:31:09,860 - 00:31:10,580] in the first place,
+- [00:31:10,580 - 00:31:12,040] that the probability for the photon
+- [00:31:12,040 - 00:31:13,560] to go through the second polarizer
+- [00:31:13,560 - 00:31:14,940] would be 1 half,
+- [00:31:15,180 - 00:31:17,240] since it was polarized at 45 degrees.
+- [00:31:19,580 - 00:31:20,060] Likewise,
+- [00:31:20,060 - 00:31:21,680] if we ask what's the probability
+- [00:31:22,900 - 00:31:25,500] that it would pass through a vertical polarizer,
+- [00:31:26,360 - 00:31:27,320] same answer,
+- [00:31:28,300 - 00:31:29,480] slightly different reason.
+- [00:31:30,100 - 00:31:31,320] To calculate that,
+- [00:31:31,440 - 00:31:32,640] we would put y here.
+- [00:31:34,800 - 00:31:37,380] But that's also equal 1 over square root of 2.
+- [00:31:38,800 - 00:31:39,440] And so,
+- [00:31:39,440 - 00:31:42,820] both cases we would get the probability being 1 half.
+- [00:31:43,520 - 00:31:44,160] Again,
+- [00:31:44,160 - 00:31:44,920] not surprising.
+- [00:31:50,180 - 00:31:52,360] Can we construct an observable
+- [00:31:53,240 - 00:31:55,720] which represents the photon polarization
+- [00:31:56,200 - 00:32:00,420] not in the vertical and horizontal direction,
+- [00:32:01,260 - 00:32:03,680] but in the 45 degree directions?
+- [00:32:05,320 - 00:32:06,780] Let's see if we can do that.
+- [00:32:09,440 - 00:32:10,980] Let's invent the polarization now.
+- [00:32:11,360 - 00:32:12,820] And let's call it this.
+- [00:32:13,000 - 00:32:13,860] Let's call it that way.
+- [00:32:14,660 - 00:32:18,440] It has the property that when it acts on...
+- [00:32:21,300 - 00:32:23,680] I wish I had names for these two vectors.
+- [00:32:24,040 - 00:32:25,960] Anybody think of names for the two vectors?
+- [00:32:27,840 - 00:32:29,140] The slanty vectors?
+- [00:32:30,440 - 00:32:30,920] Hmm?
+- [00:32:31,860 - 00:32:33,640] I want a name for both of them.
+- [00:32:33,920 - 00:32:34,380] I mean,
+- [00:32:34,380 - 00:32:35,200] for each of them.
+- [00:32:35,720 - 00:32:36,720] Slash and backslash.
+- [00:32:36,720 - 00:32:38,560] Good.
+- [00:32:38,560 - 00:32:38,740] Okay.
+- [00:32:39,620 - 00:32:40,140] So,
+- [00:32:41,380 - 00:32:44,860] the observable associated with slash and backslash
+- [00:32:44,860 - 00:32:47,020] I will define to be plus 1 on slash.
+- [00:32:50,480 - 00:32:52,000] And I'll define it to be
+- [00:32:55,680 - 00:32:59,000] minus 1 on backslash.
+- [00:33:02,520 - 00:33:03,720] What's the observable?
+- [00:33:03,840 - 00:33:04,620] Can we find it?
+- [00:33:04,840 - 00:33:05,220] Yeah,
+- [00:33:05,220 - 00:33:05,800] it's not hard.
+- [00:33:06,740 - 00:33:07,640] I'll just tell you what
+- [00:33:07,640 - 00:33:08,540] the answer is in a minute.
+- [00:33:08,560 - 00:33:09,160] And then we'll check it.
+- [00:33:12,360 - 00:33:16,020] The matrix that's associated with it is rather simple.
+- [00:33:16,220 - 00:33:17,100] It's .
+- [00:33:19,600 - 00:33:22,860] Let's check that that acts on slash to give backslash
+- [00:33:22,860 - 00:33:25,080] and acts on backslash to give backslash.
+- [00:33:25,280 - 00:33:25,760] Alright.
+- [00:33:25,760 - 00:33:27,820] Slash is just 1 over
+- [00:33:27,820 - 00:33:29,880] square root of 2 times .
+- [00:33:31,680 - 00:33:32,480] Where is it?
+- [00:33:34,240 - 00:33:36,220] The 1 over square root of 2 here doesn't...
+- [00:33:36,220 - 00:33:36,760] Here it is.
+- [00:33:38,159 - 00:33:38,920] Here's slash.
+- [00:33:39,700 - 00:33:43,300] It's 1 over square root of 2 times .
+- [00:33:44,699 - 00:33:46,320] If a thing is an eigenvector,
+- [00:33:46,320 - 00:33:47,820] so is any multiple of it.
+- [00:33:48,040 - 00:33:49,080] So we don't need to
+- [00:33:49,080 - 00:33:50,120] keep the square root of 2
+- [00:33:50,120 - 00:33:51,960] in checking whether it's an eigenvector.
+- [00:33:52,300 - 00:33:53,820] We do need to keep the square root
+- [00:33:53,820 - 00:33:55,340] of 2 if we want to normalize it.
+- [00:33:55,660 - 00:33:57,380] But if all we want
+- [00:33:57,380 - 00:33:59,100] to do is check for eigenvectorness,
+- [00:34:00,040 - 00:34:01,270] we need not keep that square
+- [00:34:01,270 - 00:34:02,500] root of 2 in the problem.
+- [00:34:03,020 - 00:34:03,400] Alright.
+- [00:34:03,400 - 00:34:04,120] So what does this give?
+- [00:34:04,120 - 00:34:07,260] It gives 0 times 1 plus 1 times 1.
+- [00:34:09,679 - 00:34:12,480] 1 times 1 plus 0 times 1 is 1.
+- [00:34:13,840 - 00:34:16,590] So that is in fact what the
+- [00:34:16,590 - 00:34:19,340] observable is supposed to do on slash.
+- [00:34:19,520 - 00:34:20,820] It gives backslash.
+- [00:34:21,139 - 00:34:23,340] Let's now try it on backslash.
+- [00:34:24,139 - 00:34:24,739] 0,
+- [00:34:24,739 - 00:34:25,120] 1,
+- [00:34:25,120 - 00:34:25,860] 1,
+- [00:34:25,860 - 00:34:29,560] 0 on 1 minus 1.
+- [00:34:30,639 - 00:34:31,780] What does that give?
+- [00:34:32,020 - 00:34:34,100] 0 times 1 plus 1 times 1.
+- [00:34:34,100 - 00:34:34,980] 1 times minus 1.
+- [00:34:35,739 - 00:34:37,500] That gives minus 1.
+- [00:34:38,460 - 00:34:40,420] 1 times 1 is 1.
+- [00:34:43,199 - 00:34:46,100] Notice that the right hand
+- [00:34:46,100 - 00:34:49,000] side is the negative of backslash.
+- [00:34:49,340 - 00:34:50,659] So in fact,
+- [00:34:50,659 - 00:34:55,739] the observable on backslash does give minus backslash.
+- [00:34:55,800 - 00:35:00,280] This is equal to minus 1 minus 1.
+- [00:35:02,680 - 00:35:03,400] Okay.
+- [00:35:06,320 - 00:35:10,080] So what does that give?
+- [00:35:11,200 - 00:35:11,700] 1 minus 1 times 2 minus 1 –
+- [00:35:13,760 - 00:35:14,300] Minus 1 plus 1 minus 2 minus 1
+- [00:35:14,300 - 00:35:14,840] plus 2 plus 3 minus 1 times 1 –
+- [00:35:14,840 - 00:35:14,900] But what you get is 0 times 1.
+- [00:35:14,900 - 00:35:18,440] So how do you know that here a
+- [00:35:18,440 - 00:35:21,980] turned into 1 so I may 20ご oldtopustome?
+- [00:35:24,080 - 00:35:24,680] How wrong is it to
+- [00:35:24,680 - 00:35:25,280] be positive in what I did?
+- [00:35:25,280 - 00:35:25,320] 2 made it to a positive?
+- [00:35:27,100 - 00:35:32,480] 2 made it to a negative.
+- [00:35:33,340 - 00:35:34,560] You may ask
+- [00:35:35,020 - 00:35:37,070] You can't ask what's observable anything
+- [00:35:37,070 - 00:35:39,120] is observable if it's an observable,
+- [00:35:39,120 - 00:35:40,820] but you can ask what is definite
+- [00:35:41,560 - 00:35:45,940] Given a particular state let's say slash are there any
+- [00:35:45,940 - 00:35:50,320] quantities which when you measure them will give you definite
+- [00:35:51,319 - 00:35:52,160] deterministic answers
+- [00:35:53,000 - 00:35:54,720] Well if you measure
+- [00:35:55,680 - 00:35:56,720] the original
+- [00:35:57,660 - 00:35:58,380] observable
+- [00:35:59,140 - 00:36:01,780] You won't get definite answers you get a half a
+- [00:36:01,780 - 00:36:04,420] probability one way a half a probability the other way
+- [00:36:04,420 - 00:36:07,060] If you start with slash on the
+- [00:36:07,060 - 00:36:09,700] other hand if you measure this observable
+- [00:36:10,220 - 00:36:12,900] The polarization at the 45 degree angle
+- [00:36:12,900 - 00:36:17,960] Then you will get definite answers for slash and backslash
+- [00:36:17,960 - 00:36:22,180] This corresponds of course to sending slash and backslash
+- [00:36:22,180 - 00:36:25,340] through the slashed or backslash polarizers
+- [00:36:26,260 - 00:36:28,220] So it's not right to say that
+- [00:36:28,220 - 00:36:32,510] That if you're given a state it determines what's
+- [00:36:32,510 - 00:36:36,800] observable no it determines what's definite it determines what's predictable
+- [00:36:37,720 - 00:36:38,140] about
+- [00:36:38,940 - 00:36:40,060] measurements on that state
+- [00:36:40,779 - 00:36:42,879] Another example is if you're given
+- [00:36:42,879 - 00:36:44,980] a wave function any wave function
+- [00:36:44,980 - 00:36:48,290] You can measure the position of the electron and the momentum
+- [00:36:48,290 - 00:36:51,600] of the electron if you just take a random wave function
+- [00:36:51,600 - 00:36:54,900] And the old wave function you'll have a
+- [00:36:54,900 - 00:36:58,200] statistical probability for different momentum and different positions
+- [00:36:58,840 - 00:37:00,180] Neither will be definite
+- [00:37:00,740 - 00:37:02,720] But if you take a delta function,
+- [00:37:02,720 - 00:37:05,980] which is a very particular state delta function of position
+- [00:37:06,700 - 00:37:09,180] Then you measure the position it'll be definite
+- [00:37:09,180 - 00:37:11,470] It'll be right where that delta function says
+- [00:37:11,470 - 00:37:13,760] it should be if you take a plane wave
+- [00:37:13,760 - 00:37:15,740] Cosine not a cosine or sine,
+- [00:37:15,740 - 00:37:18,360] but an e to the ikx and you
+- [00:37:18,360 - 00:37:20,980] measure the momentum then the momentum will be definite
+- [00:37:20,980 - 00:37:23,940] so given a state it
+- [00:37:23,940 - 00:37:26,680] restricts the class of things which are
+- [00:37:27,660 - 00:37:28,200] deterministic
+- [00:37:28,200 - 00:37:29,640] It's not the right word
+- [00:37:30,540 - 00:37:32,700] What's the right word definite I suppose certain?
+- [00:37:37,560 - 00:37:38,280] Okay,
+- [00:37:38,280 - 00:37:42,340] so this is the object the mathematical representation of
+- [00:37:42,340 - 00:37:46,400] the object which is definite for slash and backslash states
+- [00:37:48,420 - 00:37:52,790] It happens that I defined it so that it's positive so
+- [00:37:52,790 - 00:37:57,160] the eigenvalue is positive 1 for slash and negative 1 for
+- [00:37:57,160 - 00:37:58,180] backslash and negative 1 for backslash
+- [00:37:58,180 - 00:38:00,480] I could have defined it the other way then I
+- [00:38:00,480 - 00:38:02,780] would have put a minus sign in front of it
+- [00:38:02,780 - 00:38:03,680] But that's not important
+- [00:38:06,400 - 00:38:06,960] Okay,
+- [00:38:06,960 - 00:38:07,520] well
+- [00:38:09,380 - 00:38:13,040] So far we have polarizers which are oriented
+- [00:38:18,960 - 00:38:22,920] That way and polarizers which are oriented that way
+- [00:38:23,700 - 00:38:27,480] We can of course orient the polarizers in any direction
+- [00:38:28,180 - 00:38:30,400] in any direction in the xy plane
+- [00:38:30,400 - 00:38:33,280] So let's discuss that possibility now
+- [00:38:36,319 - 00:38:37,420] Arbitrary angle
+- [00:38:38,460 - 00:38:39,140] Let's write.
+- [00:38:39,140 - 00:38:40,420] Let's have a polarizer now
+- [00:38:41,379 - 00:38:44,129] Which is polarized in the arbitrary
+- [00:38:44,129 - 00:38:46,880] angle theta theta relative to the horizontal
+- [00:38:49,619 - 00:38:52,240] Then there's another polarizer
+- [00:38:53,259 - 00:38:55,000] Which is orthogonal to this
+- [00:38:55,950 - 00:38:58,020] Which is polarized in the perpendicular?
+- [00:38:58,180 - 00:38:58,800] direction
+- [00:39:00,200 - 00:39:01,500] polarized this way
+- [00:39:02,480 - 00:39:03,800] We don't need
+- [00:39:04,580 - 00:39:05,260] to
+- [00:39:06,020 - 00:39:10,530] Invent a new label for this this is just
+- [00:39:10,530 - 00:39:15,040] the polarizer whose angle is theta plus pi over 2
+- [00:39:15,040 - 00:39:18,380] Pi over 2 is 90 degrees if you take
+- [00:39:18,380 - 00:39:21,720] theta and you add 90 degrees to it it becomes
+- [00:39:22,359 - 00:39:25,259] perpendicular so we can label the two
+- [00:39:25,259 - 00:39:28,160] states theta and theta plus pi over 2
+- [00:39:28,180 - 00:39:31,460] They represent the two orthogonal combinations
+- [00:39:32,380 - 00:39:33,360] the two
+- [00:39:34,780 - 00:39:36,400] mutually exclusive combinations if
+- [00:39:36,400 - 00:39:38,020] you send the photon through
+- [00:39:38,800 - 00:39:41,500] Any photon which goes through a theta
+- [00:39:41,500 - 00:39:44,200] polarizer will pass through a second theta polarizer
+- [00:39:44,200 - 00:39:45,920] But it will get blocked by
+- [00:39:45,920 - 00:39:47,640] a theta plus pi over 2 polarizer.
+- [00:39:47,640 - 00:39:48,420] That's a mouthful
+- [00:39:49,500 - 00:39:52,290] The two vectors the two eigenvectors that go with
+- [00:39:52,290 - 00:39:55,080] it if you pass it through the theta polarizer
+- [00:39:55,680 - 00:39:57,160] You get out the state theta
+- [00:39:58,240 - 00:40:00,310] I'm going to tell you what it is
+- [00:40:00,310 - 00:40:02,380] how it's related to to the other states
+- [00:40:03,780 - 00:40:06,180] in a more or less obvious way and
+- [00:40:06,840 - 00:40:09,740] This one will be called theta plus pi over 2
+- [00:40:12,200 - 00:40:14,480] These two should be orthogonal to each other
+- [00:40:15,400 - 00:40:17,750] But they're not likely to be
+- [00:40:17,750 - 00:40:20,100] orthogonal to the previous states in fact
+- [00:40:21,560 - 00:40:24,230] If this goes to a vertical polarizer
+- [00:40:24,230 - 00:40:26,900] it won't get blocked or may get blocked,
+- [00:40:26,900 - 00:40:28,040] but it may not get blocked
+- [00:40:28,600 - 00:40:29,100] so
+- [00:40:29,100 - 00:40:31,840] We don't expect this to be
+- [00:40:32,470 - 00:40:35,625] orthogonal to the vertical polarization or the horizontal
+- [00:40:35,625 - 00:40:38,780] polarization or for that matter the 45 degree polarization
+- [00:40:39,520 - 00:40:41,010] It's not going but they
+- [00:40:41,010 - 00:40:42,500] should be perpendicular to each other.
+- [00:40:42,500 - 00:40:44,200] They should be orthogonal to each other
+- [00:40:45,240 - 00:40:45,740] Okay,
+- [00:40:45,740 - 00:40:47,040] so let me tell you what this is
+- [00:40:48,380 - 00:40:51,500] Now the justification for this is ultimately experimental,
+- [00:40:51,500 - 00:40:54,500] but it makes sense it makes intuitive sense
+- [00:40:54,500 - 00:40:58,160] We're rotating the horizontal polarization by an angle
+- [00:40:58,160 - 00:41:01,190] Theta we started with that polarization and the
+- [00:41:01,190 - 00:41:04,220] horizontal and now we rotate it by angle theta
+- [00:41:04,220 - 00:41:06,370] It shouldn't be too surprising
+- [00:41:06,370 - 00:41:08,520] that the answer is cosine theta
+- [00:41:09,720 - 00:41:13,640] times the X polarization plus sine theta
+- [00:41:15,520 - 00:41:19,530] Times the Y polarization or
+- [00:41:19,530 - 00:41:23,540] equivalently cosine theta sine theta
+- [00:41:24,700 - 00:41:27,880] in fact cosine theta and sine theta
+- [00:41:28,160 - 00:41:30,870] Simply the components of a vector
+- [00:41:30,870 - 00:41:33,580] a unit vector along the theta direction
+- [00:41:34,520 - 00:41:36,060] So that's not too surprising
+- [00:41:37,920 - 00:41:39,120] How about this one?
+- [00:41:40,300 - 00:41:42,290] This one had better be exactly the
+- [00:41:42,290 - 00:41:44,280] same except wherever you see theta here.
+- [00:41:44,280 - 00:41:46,820] You should stick in theta plus pi over 2
+- [00:41:47,460 - 00:41:49,460] so this should be cosine of
+- [00:41:50,620 - 00:41:52,180] Theta plus pi over 2,
+- [00:41:52,180 - 00:41:54,300] but what's the cosine of theta plus pi over 2?
+- [00:41:57,160 - 00:41:58,140] Well not quite
+- [00:41:58,140 - 00:41:58,520] close
+- [00:42:00,100 - 00:42:02,740] minus the sine minus the sine of theta
+- [00:42:04,160 - 00:42:05,930] Cosine of theta plus pi over
+- [00:42:05,930 - 00:42:07,700] 2 is minus the sine of theta
+- [00:42:10,960 - 00:42:12,760] Let's let's just check why that's so
+- [00:42:14,840 - 00:42:15,520] All right
+- [00:42:18,800 - 00:42:20,140] Here's the sine of theta
+- [00:42:21,220 - 00:42:23,290] Here's the cosine of theta now
+- [00:42:23,290 - 00:42:25,360] here's theta plus pi over 2
+- [00:42:26,760 - 00:42:28,120] Okay notice that?
+- [00:42:28,140 - 00:42:31,700] That the cosine of theta plus pi over 2 that's
+- [00:42:31,700 - 00:42:35,260] the X projection here the cosine is the X projection
+- [00:42:35,260 - 00:42:37,340] The cosine here is negative
+- [00:42:38,040 - 00:42:39,660] But the sine is positive
+- [00:42:40,500 - 00:42:43,550] So the cosine of theta plus pi
+- [00:42:43,550 - 00:42:46,600] over 2 is minus the sine of theta
+- [00:42:49,280 - 00:42:50,800] Sine minus sine theta
+- [00:42:53,320 - 00:42:53,960] X
+- [00:42:56,160 - 00:42:58,120] plus the sine of theta
+- [00:42:58,140 - 00:43:00,540] plus pi over 2
+- [00:43:01,520 - 00:43:02,460] times Y
+- [00:43:02,460 - 00:43:04,980] But what's the sine of theta plus pi over 2?
+- [00:43:06,660 - 00:43:08,040] That's cosine theta
+- [00:43:15,240 - 00:43:20,120] Okay now we can represent this bottom case here by
+- [00:43:22,040 - 00:43:24,640] minus sine cosine
+- [00:43:24,640 - 00:43:25,440] so
+- [00:43:25,440 - 00:43:30,440] I can do this with a
+- [00:43:30,440 - 00:43:34,620] OK this one represents a photon polarized along theta and
+- [00:43:34,620 - 00:43:38,800] this one represents a photon polarized in the orthogonal direction
+- [00:43:38,800 - 00:43:41,800] Are these orthogonal basis vectors?
+- [00:43:42,180 - 00:43:43,360] Well first of all
+- [00:43:43,360 - 00:43:46,140] are they normalized to unity in other words
+- [00:43:46,140 - 00:43:48,920] as the length of them equal to unity?
+- [00:43:49,120 - 00:43:49,660] Well,
+- [00:43:49,660 - 00:43:51,920] that's just cosine squared plus sine squared equals 1
+- [00:43:52,720 - 00:43:54,070] Cosine squared plus sine squared equals 1 so
+- [00:43:54,070 - 00:43:55,420] that's the cosine of theta plus pi over 2
+- [00:43:55,420 - 00:43:55,920] So they're normalized,
+- [00:43:55,920 - 00:43:56,740] both of them.
+- [00:43:56,840 - 00:43:59,060] Sine squared plus cosine squared is equal to one.
+- [00:43:59,380 - 00:43:59,980] Again,
+- [00:43:59,980 - 00:44:02,740] no complex numbers in these vectors here,
+- [00:44:02,740 - 00:44:04,560] so we don't have to worry about complex
+- [00:44:04,560 - 00:44:05,320] conjugation.
+- [00:44:06,960 - 00:44:07,560] Next,
+- [00:44:07,560 - 00:44:08,540] are they orthogonal?
+- [00:44:08,900 - 00:44:09,840] Let's check that.
+- [00:44:10,920 - 00:44:13,360] Cosine theta times minus sine theta
+- [00:44:13,360 - 00:44:15,800] plus sine theta times cosine theta.
+- [00:44:16,060 - 00:44:17,740] Obviously they are orthogonal.
+- [00:44:18,440 - 00:44:20,860] Cosine times minus sine plus sine
+- [00:44:20,860 - 00:44:23,280] times cosine adds up to zero.
+- [00:44:23,280 - 00:44:24,120] So,
+- [00:44:24,120 - 00:44:24,540] yes,
+- [00:44:24,540 - 00:44:27,760] they also happen to be orthogonal to each other.
+- [00:44:28,339 - 00:44:32,800] Theta plus pi over two equals zero.
+- [00:44:33,640 - 00:44:35,580] And we've got yet another basis.
+- [00:44:35,860 - 00:44:40,050] We've got yet another basis of
+- [00:44:40,050 - 00:44:44,240] vectors for our space of states.
+- [00:44:45,020 - 00:44:48,140] It represents a physically different kind of experiment,
+- [00:44:48,140 - 00:44:50,580] a similar kind of experiment,
+- [00:44:50,940 - 00:44:53,260] but different in that the different.
+- [00:44:53,260 - 00:44:58,340] The polarizers are now in an arbitrary direction,
+- [00:44:58,340 - 00:44:59,500] theta.
+- [00:45:00,640 - 00:45:02,200] Now we can ask the question,
+- [00:45:02,200 - 00:45:07,140] supposing we construct one of these theta photons,
+- [00:45:07,140 - 00:45:08,860] a photon
+- [00:45:08,860 - 00:45:10,700] polarized along the theta axis,
+- [00:45:10,700 - 00:45:14,200] what's the probability that if we send it through an
+- [00:45:14,200 - 00:45:16,900] x polarizer that it will pass through?
+- [00:45:18,259 - 00:45:19,880] So let's do that experiment.
+- [00:45:22,560 - 00:45:23,240] So let's do that experiment.
+- [00:45:27,000 - 00:45:27,680] I mean,
+- [00:45:27,680 - 00:45:29,660] this is exactly the kind of question
+- [00:45:29,660 - 00:45:31,640] that quantum mechanics is set up to answer.
+- [00:45:34,020 - 00:45:36,600] We have our theta polarizer over here.
+- [00:45:39,000 - 00:45:40,320] We send our photon.
+- [00:45:40,560 - 00:45:42,380] I'm going to make a red photon this time.
+- [00:45:43,020 - 00:45:44,720] We send our photon through.
+- [00:45:47,120 - 00:45:47,800] Of course,
+- [00:45:47,800 - 00:45:49,000] the photon may not go through.
+- [00:45:49,220 - 00:45:51,740] The photon may have been polarized in some wrong direction.
+- [00:45:52,060 - 00:45:52,520] But.
+- [00:45:53,260 - 00:45:53,420] But if it gets through,
+- [00:45:53,420 - 00:45:56,320] it is then a theta polarized photon.
+- [00:45:56,960 - 00:45:58,880] It's now a theta polarized photon.
+- [00:45:59,600 - 00:46:02,760] And we now send it through a second polarizer,
+- [00:46:02,760 - 00:46:06,500] which I'm going to take to be an x polarizer.
+- [00:46:07,260 - 00:46:09,180] What's the probability that it goes through?
+- [00:46:12,260 - 00:46:13,120] Question mark.
+- [00:46:13,400 - 00:46:14,540] Does it or doesn't it?
+- [00:46:14,680 - 00:46:16,120] And if it does or doesn't,
+- [00:46:16,120 - 00:46:17,060] what's the probability?
+- [00:46:18,060 - 00:46:20,980] This is the kind of question now that classical mechanics,
+- [00:46:20,980 - 00:46:22,460] who would make no sense in classical
+- [00:46:22,460 - 00:46:22,760] mechanics,
+- [00:46:22,760 - 00:46:25,800] and classical mechanics is deterministic.
+- [00:46:25,980 - 00:46:27,560] It either goes through or it doesn't go through.
+- [00:46:28,420 - 00:46:28,900] OK,
+- [00:46:28,900 - 00:46:30,240] so let's figure it out.
+- [00:46:30,400 - 00:46:32,520] All we have to do is
+- [00:46:32,520 - 00:46:34,640] take the inner product between theta,
+- [00:46:34,640 - 00:46:36,180] that's our starting vector
+- [00:46:36,180 - 00:46:37,020] here in the middle,
+- [00:46:37,020 - 00:46:40,100] and x.
+- [00:46:41,080 - 00:46:43,220] The square of this is the probability.
+- [00:46:44,360 - 00:46:44,840] OK,
+- [00:46:44,840 - 00:46:45,580] so what is this?
+- [00:46:45,720 - 00:46:46,340] This is,
+- [00:46:46,340 - 00:46:48,970] we can work it out using
+- [00:46:48,970 - 00:46:51,600] the column vectors and row vectors.
+- [00:46:51,960 - 00:46:52,440] OK.
+- [00:46:52,460 - 00:46:54,660] The x is the row vector 0,
+- [00:46:54,660 - 00:46:55,080] 1,
+- [00:46:55,080 - 00:46:55,940] 1,
+- [00:46:55,940 - 00:46:56,240] 0,
+- [00:46:56,240 - 00:46:56,980] excuse me.
+- [00:46:57,740 - 00:47:03,160] And theta is the column vector cosine theta sine theta.
+- [00:47:04,780 - 00:47:07,560] And that inner product is just cosine theta.
+- [00:47:07,840 - 00:47:10,540] 1 times cosine theta plus 0 times sine theta.
+- [00:47:10,860 - 00:47:13,300] That inner product is just cosine of theta.
+- [00:47:14,060 - 00:47:14,660] Incidentally,
+- [00:47:14,660 - 00:47:18,600] notice that it doesn't matter whether you take.
+- [00:47:18,960 - 00:47:20,220] Whether you take.
+- [00:47:20,700 - 00:47:21,300] Take.
+- [00:47:21,760 - 00:47:22,360] Take.
+- [00:47:22,360 - 00:47:22,740] Take.
+- [00:47:22,740 - 00:47:23,120] Either way,
+- [00:47:23,120 - 00:47:24,660] x theta or theta x.
+- [00:47:25,459 - 00:47:27,919] The reason is that although in general
+- [00:47:27,919 - 00:47:30,380] these objects are complex and different than each
+- [00:47:30,380 - 00:47:30,680] other,
+- [00:47:30,680 - 00:47:32,920] they're complex conjugates of each other.
+- [00:47:33,060 - 00:47:34,740] When you square them or
+- [00:47:34,740 - 00:47:36,420] when multiplied by their complex conjugate,
+- [00:47:36,420 - 00:47:37,100] it doesn't matter
+- [00:47:37,100 - 00:47:38,400] which order you put them in.
+- [00:47:39,240 - 00:47:39,800] OK,
+- [00:47:39,800 - 00:47:41,860] but in this case especially where everything's real,
+- [00:47:41,860 - 00:47:43,020] it certainly doesn't matter.
+- [00:47:43,400 - 00:47:44,820] And then the probability,
+- [00:47:44,820 - 00:47:46,640] the probability over here,
+- [00:47:46,640 - 00:47:48,640] the question,
+- [00:47:48,640 - 00:47:49,820] the probability question,
+- [00:47:50,319 - 00:47:51,620] this is not the observable.
+- [00:47:51,620 - 00:47:52,520] This is the probability.
+- [00:47:52,840 - 00:47:56,000] This is the probability that if a photon
+- [00:47:56,000 - 00:47:59,160] was polarized in the theta direction that it passes
+- [00:47:59,160 - 00:48:00,980] through the x polarizer.
+- [00:48:01,940 - 00:48:04,940] That probability is the square of this inner product.
+- [00:48:05,260 - 00:48:06,240] In other words,
+- [00:48:06,240 - 00:48:07,660] it's cosine squared theta.
+- [00:48:14,080 - 00:48:16,160] Notice it's cosine squared theta,
+- [00:48:16,160 - 00:48:17,880] not cosine of theta.
+- [00:48:18,200 - 00:48:18,560] OK.
+- [00:48:19,520 - 00:48:21,770] What's the probability that it
+- [00:48:21,770 - 00:48:24,020] passes through the y polarizer?
+- [00:48:24,440 - 00:48:26,580] Let's send it through the y polarizer.
+- [00:48:27,220 - 00:48:29,020] Through the y polarizer,
+- [00:48:29,020 - 00:48:32,680] that's going to be very similar
+- [00:48:32,680 - 00:48:36,340] except we're going to put y here.
+- [00:48:39,540 - 00:48:41,000] And that's 0,
+- [00:48:41,000 - 00:48:41,360] 1.
+- [00:48:42,460 - 00:48:44,400] This gives us sine theta.
+- [00:48:45,060 - 00:48:45,700] OK.
+- [00:48:46,300 - 00:48:46,940] OK.
+- [00:48:47,900 - 00:48:48,540] OK.
+- [00:48:49,580 - 00:48:51,380] That's going to give us sine squared theta.
+- [00:48:55,560 - 00:48:57,720] What's the total probability that
+- [00:48:57,720 - 00:48:59,880] it will either pass through the,
+- [00:48:59,880 - 00:49:00,260] well,
+- [00:49:00,260 - 00:49:02,200] the total probability
+- [00:49:02,200 - 00:49:04,360] if we add up the probabilities
+- [00:49:04,360 - 00:49:06,520] that it's x polarized or y polarized,
+- [00:49:06,520 - 00:49:08,020] it's either x polarized
+- [00:49:08,020 - 00:49:08,940] or y polarized,
+- [00:49:08,940 - 00:49:11,000] here's the probability that it's,
+- [00:49:11,000 - 00:49:12,200] I'm sorry,
+- [00:49:12,200 - 00:49:12,940] squared.
+- [00:49:14,440 - 00:49:15,000] Squared.
+- [00:49:16,020 - 00:49:18,500] It's either x polarized or y polarized.
+- [00:49:18,500 - 00:49:20,540] With probability cosine squared
+- [00:49:20,540 - 00:49:22,580] theta and sine squared theta,
+- [00:49:22,580 - 00:49:23,800] the total probability
+- [00:49:24,399 - 00:49:25,300] adds up to 1.
+- [00:49:27,440 - 00:49:27,740] OK.
+- [00:49:28,140 - 00:49:28,740] So here's another,
+- [00:49:28,740 - 00:49:31,240] here's a slightly more intricate
+- [00:49:31,240 - 00:49:33,740] example of a quantum mechanical
+- [00:49:33,740 - 00:49:34,280] problem,
+- [00:49:34,280 - 00:49:37,500] where we send something through at an
+- [00:49:37,500 - 00:49:40,720] arbitrary angle and then measure its polarization
+- [00:49:40,720 - 00:49:43,660] along the vertical or horizontal direction.
+- [00:49:44,000 - 00:49:45,200] We can go further.
+- [00:49:45,200 - 00:49:50,780] We could send it through a
+- [00:49:50,780 - 00:49:56,360] polarizer in the 45 degree angle here.
+- [00:49:56,960 - 00:49:59,010] We have enough information to figure out
+- [00:49:59,010 - 00:50:01,060] the probabilities that it'll go through 45,
+- [00:50:01,060 - 00:50:02,780] pi over 2,
+- [00:50:02,940 - 00:50:04,960] the pi over 2 polarizer.
+- [00:50:06,180 - 00:50:08,320] But why work that out?
+- [00:50:08,400 - 00:50:11,960] Let's just send it through an arbitrary angle,
+- [00:50:11,960 - 00:50:12,980] the first one,
+- [00:50:12,980 - 00:50:15,100] and a second arbitrary angle,
+- [00:50:15,100 - 00:50:15,180] the third one.
+- [00:50:16,300 - 00:50:17,680] I'm going to call those angles,
+- [00:50:17,680 - 00:50:18,880] I hate using primes,
+- [00:50:18,880 - 00:50:21,780] so I'm going to call them alpha and beta.
+- [00:50:23,940 - 00:50:26,440] Alpha and beta are also good Greek letters.
+- [00:50:27,000 - 00:50:29,440] When it passes through the first polarizer,
+- [00:50:29,440 - 00:50:30,940] it comes out alpha polarized.
+- [00:50:31,780 - 00:50:33,820] And then we want to know what's the
+- [00:50:33,820 - 00:50:35,860] probability it will pass through the beta polarizer.
+- [00:50:37,520 - 00:50:38,810] Let's check that and see if
+- [00:50:38,810 - 00:50:40,100] we can get a general formula,
+- [00:50:42,100 - 00:50:44,400] which will serve for all possible,
+- [00:50:47,160 - 00:50:47,800] polarizers.
+- [00:50:50,820 - 00:50:52,660] What's the answer going to depend on?
+- [00:50:53,920 - 00:50:57,120] Is it going to depend on alpha times beta,
+- [00:50:57,120 - 00:50:58,240] alpha plus beta?
+- [00:50:59,320 - 00:51:00,900] Alpha minus beta.
+- [00:51:01,300 - 00:51:01,940] The relative,
+- [00:51:01,940 - 00:51:04,700] the angular distance between them.
+- [00:51:05,340 - 00:51:06,360] It better,
+- [00:51:06,360 - 00:51:07,980] otherwise we're doing something wrong.
+- [00:51:08,700 - 00:51:09,200] Right,
+- [00:51:09,200 - 00:51:09,560] okay,
+- [00:51:09,560 - 00:51:10,560] so let's check out.
+- [00:51:10,880 - 00:51:11,400] Alright,
+- [00:51:11,400 - 00:51:15,160] here's where I either shine or,
+- [00:51:15,160 - 00:51:20,240] or don't shine.
+- [00:51:21,080 - 00:51:21,600] Okay,
+- [00:51:21,600 - 00:51:23,060] so let's take the alpha,
+- [00:51:23,880 - 00:51:25,080] let's take the alpha,
+- [00:51:25,080 - 00:51:26,560] let's take the inner product of
+- [00:51:26,560 - 00:51:28,040] the alpha vector with the beta vector.
+- [00:51:28,620 - 00:51:29,920] The alpha vector,
+- [00:51:29,920 - 00:51:30,440] oh,
+- [00:51:30,440 - 00:51:30,760] you know,
+- [00:51:30,760 - 00:51:31,600] before we do so,
+- [00:51:32,360 - 00:51:35,920] let me do a bit of review of trigonometry.
+- [00:51:36,560 - 00:51:39,960] A review of some trigonometric formulas that we'll use.
+- [00:51:42,620 - 00:51:45,140] Keep in mind what problem we want to solve.
+- [00:51:45,140 - 00:51:50,680] Two polarizers at arbitrary angles,
+- [00:51:50,960 - 00:51:52,620] but we need a bit of trigonometry.
+- [00:51:52,880 - 00:51:54,450] So let me just write down
+- [00:51:54,450 - 00:51:56,020] the trigonometric formulas that we need.
+- [00:51:58,440 - 00:52:02,440] Cosine alpha plus beta equals,
+- [00:52:03,879 - 00:52:04,480] anybody know?
+- [00:52:07,400 - 00:52:10,480] Cosine alpha cosine beta minus
+- [00:52:12,520 - 00:52:15,120] sine alpha sine beta.
+- [00:52:15,120 - 00:52:17,880] Now let's,
+- [00:52:17,880 - 00:52:18,720] while we're at it,
+- [00:52:18,760 - 00:52:20,830] we're going to wind up also
+- [00:52:20,830 - 00:52:22,900] wanting cosine of alpha minus beta.
+- [00:52:24,120 - 00:52:26,460] And to get the cosine of alpha minus beta,
+- [00:52:26,580 - 00:52:29,300] we just change the sine of beta in this formula.
+- [00:52:30,220 - 00:52:33,100] Changing the sine of beta does nothing to cosine beta,
+- [00:52:33,360 - 00:52:34,960] but it changes the sine of,
+- [00:52:34,960 - 00:52:36,860] it changes the sine of sine.
+- [00:52:37,820 - 00:52:39,840] It changes the sine of sine.
+- [00:52:41,260 - 00:52:43,180] It changes the sine with a
+- [00:52:43,180 - 00:52:45,100] g of sine without a g.
+- [00:52:45,100 - 00:52:45,920] Got it?
+- [00:52:45,920 - 00:52:46,520] Okay.
+- [00:52:46,960 - 00:52:50,060] So that gives us cosine alpha cosine beta
+- [00:52:51,120 - 00:52:54,260] plus sine alpha sine beta.
+- [00:52:54,860 - 00:52:56,700] Notice we don't change sine alpha.
+- [00:52:56,840 - 00:52:58,080] We haven't done anything to alpha.
+- [00:52:58,200 - 00:52:59,420] We've only done something to beta.
+- [00:53:00,460 - 00:53:02,020] We will also need
+- [00:53:04,560 - 00:53:06,500] sine of alpha plus beta.
+- [00:53:09,300 - 00:53:12,220] And that is equal to
+- [00:53:14,000 - 00:53:16,940] sine alpha cosine beta
+- [00:53:18,600 - 00:53:22,820] plus sine beta cosine alpha.
+- [00:53:23,740 - 00:53:25,280] And while we're at it,
+- [00:53:25,380 - 00:53:28,200] let's also do sine of alpha minus beta.
+- [00:53:29,820 - 00:53:30,420] Again,
+- [00:53:30,420 - 00:53:32,060] all I've done is change beta.
+- [00:53:32,920 - 00:53:35,060] It doesn't change the cosine of beta,
+- [00:53:35,180 - 00:53:36,620] but it does change the sine of beta.
+- [00:53:36,800 - 00:53:39,800] So this becomes sine alpha cosine beta
+- [00:53:40,920 - 00:53:42,200] minus sine beta.
+- [00:53:42,220 - 00:53:42,500] So,
+- [00:53:42,500 - 00:53:44,920] I've got sine beta cosine alpha.
+- [00:53:49,780 - 00:53:51,300] A nice check we can do.
+- [00:53:51,760 - 00:53:53,460] What if alpha equals beta?
+- [00:53:53,960 - 00:53:55,320] If alpha equals beta,
+- [00:53:55,320 - 00:53:56,460] we have cosine of zero.
+- [00:53:56,660 - 00:53:58,040] Cosine of zero is what?
+- [00:53:58,320 - 00:53:58,720] One.
+- [00:53:59,760 - 00:54:00,280] Alright.
+- [00:54:00,780 - 00:54:02,020] On the right-hand side,
+- [00:54:02,140 - 00:54:04,220] we would have cosine of alpha squared,
+- [00:54:04,360 - 00:54:05,300] alpha is equal to beta,
+- [00:54:05,520 - 00:54:07,060] cosine of alpha squared
+- [00:54:07,060 - 00:54:10,320] plus sine of alpha squared.
+- [00:54:10,400 - 00:54:11,160] That's one.
+- [00:54:11,160 - 00:54:12,740] Cosine squared plus sine squared.
+- [00:54:12,900 - 00:54:13,460] So that works.
+- [00:54:13,600 - 00:54:15,480] How about sine of alpha minus beta?
+- [00:54:15,620 - 00:54:16,220] What should that be?
+- [00:54:18,280 - 00:54:18,760] Sorry,
+- [00:54:18,760 - 00:54:19,840] if alpha equals beta?
+- [00:54:20,620 - 00:54:21,620] That should be zero.
+- [00:54:21,980 - 00:54:23,580] So if alpha equals beta,
+- [00:54:23,820 - 00:54:25,400] these two will cancel each other.
+- [00:54:27,600 - 00:54:28,080] Okay,
+- [00:54:28,080 - 00:54:28,620] one more.
+- [00:54:29,680 - 00:54:30,720] Cosine of two alpha.
+- [00:54:31,640 - 00:54:32,320] That's easy.
+- [00:54:32,440 - 00:54:33,520] We just read it off from here.
+- [00:54:34,920 - 00:54:37,440] That's cosine squared alpha
+- [00:54:39,040 - 00:54:40,900] minus sine squared alpha.
+- [00:54:41,780 - 00:54:43,620] And sine of two alpha,
+- [00:54:44,920 - 00:54:47,100] we read from here.
+- [00:54:47,700 - 00:54:50,300] That's just twice sine cosine.
+- [00:54:56,620 - 00:54:57,240] Alright,
+- [00:54:57,240 - 00:54:59,380] here's our trigonometric table of formulas.
+- [00:55:01,360 - 00:55:01,980] And,
+- [00:55:01,980 - 00:55:02,320] uh,
+- [00:55:07,120 - 00:55:08,040] we'll use them.
+- [00:55:17,500 - 00:55:18,020] Okay,
+- [00:55:18,020 - 00:55:20,200] so we passed through the first polarizer.
+- [00:55:20,280 - 00:55:21,580] It's the alpha polarizer.
+- [00:55:21,780 - 00:55:25,340] And what comes out is the alpha ket alpha,
+- [00:55:27,480 - 00:55:29,560] which is equal to cosine alpha,
+- [00:55:31,700 - 00:55:32,960] let's just write it this way,
+- [00:55:33,000 - 00:55:34,400] cosine alpha sine alpha.
+- [00:55:38,980 - 00:55:40,380] Just using this formula,
+- [00:55:40,540 - 00:55:41,140] replacing it with this formula.
+- [00:55:41,140 - 00:55:41,920] And we're replacing theta by alpha.
+- [00:55:43,700 - 00:55:46,680] So we passed through the alpha polarizer.
+- [00:55:46,780 - 00:55:49,620] But now we're testing for beta polarization.
+- [00:55:50,240 - 00:55:55,760] The beta ket is,
+- [00:55:55,760 - 00:55:56,180] of course,
+- [00:55:56,220 - 00:55:59,020] cosine beta sine beta.
+- [00:56:00,360 - 00:56:02,640] Or I really want the,
+- [00:56:02,640 - 00:56:02,920] uh,
+- [00:56:03,080 - 00:56:04,260] I really want the bra vector.
+- [00:56:04,640 - 00:56:06,720] So the bra vector is beta
+- [00:56:08,180 - 00:56:09,980] is equal to the row,
+- [00:56:09,980 - 00:56:14,000] row of cosine beta sine beta.
+- [00:56:14,900 - 00:56:16,210] We just turn it and make
+- [00:56:16,210 - 00:56:17,520] a row vector out of it.
+- [00:56:18,480 - 00:56:19,940] Now what's the inner product?
+- [00:56:20,240 - 00:56:22,160] The inner product of alpha and beta,
+- [00:56:24,120 - 00:56:25,320] beta alpha,
+- [00:56:27,360 - 00:56:30,100] is cosine alpha times cosine beta
+- [00:56:30,859 - 00:56:32,660] plus sine alpha times sine beta.
+- [00:56:44,140 - 00:56:45,460] And lo and behold,
+- [00:56:46,360 - 00:56:47,280] I hope,
+- [00:56:48,700 - 00:56:50,020] that's the top formula,
+- [00:56:50,200 - 00:56:50,940] which is,
+- [00:56:51,560 - 00:56:52,100] no,
+- [00:56:52,100 - 00:56:52,900] it's the second one,
+- [00:56:53,020 - 00:56:55,820] which is cosine of alpha minus beta.
+- [00:57:01,680 - 00:57:02,520] Now that's,
+- [00:57:02,520 - 00:57:02,760] of course,
+- [00:57:02,760 - 00:57:03,460] not the probability.
+- [00:57:03,900 - 00:57:06,400] That's the thing that we square to get the probability.
+- [00:57:06,860 - 00:57:08,100] So the probability,
+- [00:57:13,200 - 00:57:17,440] is just cosine squared of alpha minus beta.
+- [00:57:19,460 - 00:57:21,050] How could you be absolutely
+- [00:57:21,050 - 00:57:22,640] sure that this wasn't the probability,
+- [00:57:22,980 - 00:57:24,800] even if you didn't know any quantum mechanics?
+- [00:57:26,640 - 00:57:27,160] Yeah,
+- [00:57:27,160 - 00:57:28,080] because it can be negative.
+- [00:57:28,820 - 00:57:29,340] Right.
+- [00:57:29,900 - 00:57:30,640] All right.
+- [00:57:30,940 - 00:57:31,940] Here's our formula.
+- [00:57:32,140 - 00:57:32,400] Indeed,
+- [00:57:32,400 - 00:57:34,860] it only depends on the difference between the angles.
+- [00:57:35,100 - 00:57:36,900] But let's look at it a little more carefully.
+- [00:57:37,240 - 00:57:38,220] First of all,
+- [00:57:38,280 - 00:57:39,960] what happens if beta is,
+- [00:57:39,960 - 00:57:40,760] beta is very,
+- [00:57:40,760 - 00:57:42,140] very close to alpha?
+- [00:57:42,360 - 00:57:43,240] In fact,
+- [00:57:43,240 - 00:57:45,060] what happens if beta is equal to alpha?
+- [00:57:45,540 - 00:57:47,640] If beta is equal to alpha,
+- [00:57:47,840 - 00:57:49,820] we get cosine squared of zero,
+- [00:57:49,900 - 00:57:50,540] which is one.
+- [00:57:51,000 - 00:57:52,680] So that simply says,
+- [00:57:52,860 - 00:57:55,600] that if we polarize along the alpha direction,
+- [00:57:55,760 - 00:57:57,860] and then we send it through a polarizer very,
+- [00:57:57,860 - 00:57:59,600] very close to the alpha direction,
+- [00:58:00,000 - 00:58:02,640] it has a very high probability of getting through.
+- [00:58:03,900 - 00:58:05,300] Almost equal to one.
+- [00:58:06,580 - 00:58:09,480] Cosine alpha minus beta is almost equal to one,
+- [00:58:09,480 - 00:58:12,180] if alpha is close to beta.
+- [00:58:12,340 - 00:58:16,020] And as beta is rotated away from alpha,
+- [00:58:16,300 - 00:58:18,180] this gets smaller.
+- [00:58:20,400 - 00:58:23,860] When they're 90 degrees apart from each other,
+- [00:58:24,000 - 00:58:27,260] then the cosine of 90 degrees is zero,
+- [00:58:27,480 - 00:58:30,060] and there's no probability to go through.
+- [00:58:30,320 - 00:58:32,160] So the formula makes some sense.
+- [00:58:32,280 - 00:58:33,620] Formula looks good.
+- [00:58:34,580 - 00:58:36,180] But keep in mind,
+- [00:58:36,180 - 00:58:38,480] we're doing something interesting.
+- [00:58:38,480 - 00:58:40,020] Interesting and unusual.
+- [00:58:40,620 - 00:58:42,720] There are only two possible outcomes
+- [00:58:42,720 - 00:58:44,820] to the beta experiment over here.
+- [00:58:45,980 - 00:58:48,500] There are only two possible things that can
+- [00:58:48,500 - 00:58:51,020] come out of the alpha polarizer over here.
+- [00:58:52,240 - 00:58:53,060] And yet,
+- [00:58:53,940 - 00:58:56,800] we're finding answers,
+- [00:58:56,960 - 00:58:58,740] but answers which are probabilistic.
+- [00:58:58,900 - 00:59:00,320] Answers which are probabilistic,
+- [00:59:00,480 - 00:59:04,160] and equal to the square of quantum mechanical amplitudes.
+- [00:59:04,480 - 00:59:06,760] These inner products are called amplitudes,
+- [00:59:06,800 - 00:59:07,860] they're squares of probabilities.
+- [00:59:10,720 - 00:59:11,240] So,
+- [00:59:11,240 - 00:59:11,420] all right,
+- [00:59:12,460 - 00:59:13,080] let's see,
+- [00:59:13,160 - 00:59:13,960] shall we take a,
+- [00:59:14,000 - 00:59:15,480] let's take a few minutes break.
+- [00:59:16,560 - 00:59:18,220] And what we haven't done yet,
+- [00:59:18,380 - 00:59:20,780] is found the observable
+- [00:59:21,279 - 00:59:22,620] for a general polarization.
+- [00:59:24,240 - 00:59:25,900] Observable for general polarization,
+- [00:59:26,760 - 00:59:27,640] we'll do next.
+- [00:59:29,060 - 00:59:29,720] All right,
+- [00:59:29,720 - 00:59:31,760] so two people asked me an interesting question,
+- [00:59:33,580 - 00:59:34,100] and,
+- [00:59:34,700 - 00:59:37,240] it sort of does point out one of the,
+- [00:59:40,160 - 00:59:41,200] somewhat mildly,
+- [00:59:41,200 - 00:59:41,920] I don't know,
+- [00:59:41,920 - 00:59:42,700] it depends on who
+- [00:59:43,740 - 00:59:45,260] I've known it for so long
+- [00:59:45,260 - 00:59:46,780] that to me it's mildly freaky,
+- [00:59:46,780 - 00:59:48,300] but here's the issue
+- [00:59:49,040 - 00:59:52,120] supposing you send a photon through a polarizer,
+- [00:59:52,120 - 00:59:53,320] which is
+- [00:59:53,320 - 00:59:53,820] polarized,
+- [00:59:53,820 - 00:59:55,640] let's say in the theta direction,
+- [00:59:55,640 - 00:59:57,220] not horizontally,
+- [00:59:57,220 - 00:59:58,480] definitely not horizontally
+- [00:59:58,480 - 01:00:00,240] but in some arbitrary direction,
+- [01:00:00,240 - 01:00:03,600] and then you're going to send it through a second
+- [01:00:03,600 - 01:00:04,860] polarizer or third,
+- [01:00:04,860 - 01:00:07,080] I'm going to call this the third polarizer up here,
+- [01:00:07,080 - 01:00:07,660] far away,
+- [01:00:07,660 - 01:00:08,640] and it's
+- [01:00:08,640 - 01:00:12,340] polarized in the orthogonal direction theta plus pi over two
+- [01:00:13,500 - 01:00:15,760] of course the first photon
+- [01:00:15,760 - 01:00:18,020] may or may not get through,
+- [01:00:18,020 - 01:00:18,740] but let's suppose
+- [01:00:18,740 - 01:00:19,380] it gets through,
+- [01:00:19,380 - 01:00:21,500] it's polarized in the theta direction
+- [01:00:21,500 - 01:00:23,620] and it will not make it through
+- [01:00:23,620 - 01:00:26,620] the theta plus pi over two polarizer,
+- [01:00:26,620 - 01:00:28,600] but supposing we put in
+- [01:00:28,600 - 01:00:31,220] between a polarizer,
+- [01:00:31,220 - 01:00:32,940] let's say in the vertical direction,
+- [01:00:32,940 - 01:00:33,540] now let's make
+- [01:00:33,600 - 01:00:34,640] it the horizontal direction,
+- [01:00:34,640 - 01:00:36,540] for no good reason other than
+- [01:00:36,540 - 01:00:43,100] then does it get through or doesn't it get through
+- [01:00:43,100 - 01:00:46,320] the answer is it gets through with a probability,
+- [01:00:46,320 - 01:00:48,120] the probability
+- [01:00:48,120 - 01:00:49,380] we can calculate,
+- [01:00:49,380 - 01:00:51,100] let's calculate the probability
+- [01:00:54,320 - 01:00:55,960] well let's work it out,
+- [01:00:55,960 - 01:00:56,240] I don't know,
+- [01:00:56,240 - 01:00:56,820] I haven't worked it out,
+- [01:00:56,820 - 01:00:58,400] the first question
+- [01:00:58,400 - 01:01:00,900] is what's the probability that
+- [01:01:00,900 - 01:01:03,400] it gets through the horizontal polarizer
+- [01:01:03,600 - 01:01:06,020] I think we have a formula
+- [01:01:06,020 - 01:01:08,440] for the horizontal polarizer that corresponds
+- [01:01:08,440 - 01:01:09,740] to beta equals zero,
+- [01:01:09,740 - 01:01:13,600] and the answer was just cosine squared theta
+- [01:01:14,480 - 01:01:18,460] the probability cosine squared theta that the photon
+- [01:01:18,460 - 01:01:21,680] makes it through the first polarizer here,
+- [01:01:21,680 - 01:01:23,600] cosine squared theta
+- [01:01:27,860 - 01:01:28,840] but now
+- [01:01:28,840 - 01:01:31,560] when it makes it through the first polarizer,
+- [01:01:31,560 - 01:01:33,520] it is now polarizing
+- [01:01:33,600 - 01:01:34,720] in the horizontal direction,
+- [01:01:34,720 - 01:01:37,220] it is no longer polarized in the theta direction
+- [01:01:37,220 - 01:01:38,780] if it makes it through,
+- [01:01:38,780 - 01:01:42,980] it's polarized in the horizontal direction
+- [01:01:43,500 - 01:01:45,220] so what's the probability that
+- [01:01:45,220 - 01:01:46,940] it goes through the third polarizer
+- [01:01:47,399 - 01:01:51,900] it is cosine squared of,
+- [01:01:51,900 - 01:01:54,000] now we have to take
+- [01:01:54,439 - 01:01:57,180] the angle over here minus the angle over here
+- [01:01:58,000 - 01:02:02,500] that's zero minus pi plus theta over two
+- [01:02:02,500 - 01:02:06,700] cosine of theta plus pi over two
+- [01:02:06,700 - 01:02:07,660] which is what?
+- [01:02:09,480 - 01:02:11,060] sine squared theta
+- [01:02:15,840 - 01:02:17,700] I think I did that right
+- [01:02:20,960 - 01:02:22,240] not added,
+- [01:02:22,240 - 01:02:23,320] but multiplied
+- [01:02:23,320 - 01:02:25,460] the probability that it goes through
+- [01:02:25,460 - 01:02:27,600] the first one is cosine squared theta
+- [01:02:27,600 - 01:02:28,880] and then if it does,
+- [01:02:28,880 - 01:02:30,400] it's horizontally polarized
+- [01:02:30,400 - 01:02:32,580] if it's horizontally polarized,
+- [01:02:32,580 - 01:02:34,190] then the probability that it
+- [01:02:34,190 - 01:02:35,800] goes through the second polarizer
+- [01:02:35,800 - 01:02:37,360] is sine squared theta
+- [01:02:38,820 - 01:02:40,780] which is the same as cosine
+- [01:02:40,780 - 01:02:42,740] squared of theta plus pi over two
+- [01:02:44,780 - 01:02:45,480] what's that?
+- [01:02:48,240 - 01:02:48,880] well
+- [01:02:49,319 - 01:02:50,240] at a certain moment,
+- [01:02:50,240 - 01:02:52,500] you're polarizing
+- [01:02:53,240 - 01:02:55,020] say it again now
+- [01:02:55,020 - 01:02:56,200] at a certain moment,
+- [01:02:56,200 - 01:02:57,020] you're polarizing
+- [01:02:57,020 - 01:03:00,300] this is less than one
+- [01:03:00,860 - 01:03:01,340] right,
+- [01:03:01,340 - 01:03:02,320] there is less than one
+- [01:03:02,320 - 01:03:04,060] so it passes through this polarizer
+- [01:03:04,060 - 01:03:05,800] with a probability less than one
+- [01:03:05,800 - 01:03:08,240] each time you cut down the probability
+- [01:03:08,880 - 01:03:10,650] so the probability if you do
+- [01:03:10,650 - 01:03:12,420] a lot of polarizers like this
+- [01:03:12,420 - 01:03:16,180] of course will go down with the number of polarizers
+- [01:03:16,820 - 01:03:18,960] but by putting this one in
+- [01:03:19,640 - 01:03:21,210] you take a photon which
+- [01:03:21,210 - 01:03:22,780] was polarized in the theta direction
+- [01:03:22,780 - 01:03:24,540] and could not go through the second one
+- [01:03:24,540 - 01:03:26,580] and now allow it
+- [01:03:26,580 - 01:03:27,980] so this is one of the
+- [01:03:28,880 - 01:03:30,080] whether you find this
+- [01:03:30,400 - 01:03:32,600] anti-intuitive or not is
+- [01:03:37,740 - 01:03:40,200] it gets an assist
+- [01:03:40,200 - 01:03:41,280] correct
+- [01:03:42,520 - 01:03:45,060] if you actually do that
+- [01:03:45,980 - 01:03:46,840] you'll get,
+- [01:03:46,840 - 01:03:49,080] based on the angle in between
+- [01:03:49,080 - 01:03:51,120] you actually get a different color
+- [01:03:51,780 - 01:03:53,300] if you start off with
+- [01:03:53,300 - 01:03:54,220] it may be,
+- [01:03:54,220 - 01:03:55,380] but I don't know why
+- [01:03:56,620 - 01:03:58,300] it's not silent
+- [01:03:58,300 - 01:03:59,420] I don't know why
+- [01:04:02,720 - 01:04:03,880] I've seen it so high over there
+- [01:04:03,880 - 01:04:04,480] maybe so,
+- [01:04:04,480 - 01:04:06,360] I don't know why it's true though
+- [01:04:07,779 - 01:04:08,660] seems like
+- [01:04:08,660 - 01:04:08,780] well,
+- [01:04:08,780 - 01:04:09,660] polarizers
+- [01:04:09,660 - 01:04:11,540] you don't change the energy of the photon
+- [01:04:11,540 - 01:04:11,820] no,
+- [01:04:11,820 - 01:04:12,180] no
+- [01:04:12,180 - 01:04:12,840] yeah,
+- [01:04:12,840 - 01:04:12,980] well
+- [01:04:13,540 - 01:04:13,980] yeah,
+- [01:04:13,980 - 01:04:16,080] but do keep in mind
+- [01:04:16,080 - 01:04:18,180] that polarizers have different efficiencies
+- [01:04:18,180 - 01:04:19,300] for different colors
+- [01:04:19,300 - 01:04:20,140] so it might,
+- [01:04:20,140 - 01:04:21,680] I would have to think about it
+- [01:04:21,680 - 01:04:21,840] but
+- [01:04:22,660 - 01:04:25,740] it's also used as a stress test for blocks
+- [01:04:26,320 - 01:04:26,540] yeah,
+- [01:04:26,540 - 01:04:26,700] I,
+- [01:04:26,700 - 01:04:27,100] yeah,
+- [01:04:27,100 - 01:04:27,460] I,
+- [01:04:27,460 - 01:04:28,020] you,
+- [01:04:28,020 - 01:04:28,220] you,
+- [01:04:28,220 - 01:04:29,200] that's true
+- [01:04:29,200 - 01:04:31,100] I've seen them do things like that
+- [01:04:31,860 - 01:04:33,640] so I don't know offhand
+- [01:04:33,640 - 01:04:35,100] I would have to think about why that's true
+- [01:04:35,100 - 01:04:37,780] but it probably has to do with the fact that
+- [01:04:37,780 - 01:04:40,960] the efficiency for polarizations is frequency dependent
+- [01:04:40,960 - 01:04:42,300] it's optical by the way
+- [01:04:42,300 - 01:04:44,720] I think the high frequency
+- [01:04:44,720 - 01:04:46,280] goes through the
+- [01:04:46,280 - 01:04:49,180] are too high for a big one
+- [01:04:49,680 - 01:04:50,160] perhaps,
+- [01:04:50,160 - 01:04:51,320] let me think about it
+- [01:04:51,320 - 01:04:51,500] I,
+- [01:04:51,500 - 01:04:51,780] I,
+- [01:04:51,780 - 01:04:54,860] it's completely something I didn't even know
+- [01:04:54,860 - 01:04:55,400] so,
+- [01:04:55,400 - 01:04:57,760] so I need to,
+- [01:04:57,760 - 01:04:59,020] I need to
+- [01:04:59,020 - 01:04:59,180] I need to,
+- [01:04:59,180 - 01:04:59,180] I need to,
+- [01:04:59,180 - 01:04:59,180] I need to
+- [01:04:59,200 - 01:05:00,240] dwell on it a little bit
+- [01:05:01,460 - 01:05:01,940] okay,
+- [01:05:01,940 - 01:05:02,420] good
+- [01:05:04,100 - 01:05:05,600] interesting fact if it's true
+- [01:05:06,180 - 01:05:08,520] but this is kind of an interesting quantum mechanical fact
+- [01:05:08,520 - 01:05:09,140] that,
+- [01:05:09,140 - 01:05:09,420] um
+- [01:05:11,000 - 01:05:12,360] it's an interference effect
+- [01:05:12,360 - 01:05:14,220] it's a funny kind of interference effect
+- [01:05:14,840 - 01:05:15,560] that something
+- [01:05:16,680 - 01:05:18,240] you would have thought that by
+- [01:05:18,240 - 01:05:20,130] whatever the probability to go
+- [01:05:20,130 - 01:05:22,020] through the second polarizer was
+- [01:05:22,660 - 01:05:24,190] you would have diminished it
+- [01:05:24,190 - 01:05:25,720] by putting something in the way,
+- [01:05:25,720 - 01:05:26,000] huh?
+- [01:05:26,100 - 01:05:27,760] by putting something else in the way
+- [01:05:27,760 - 01:05:29,060] which cuts down the probability
+- [01:05:29,620 - 01:05:31,040] you would have thought that
+- [01:05:31,040 - 01:05:32,460] you would diminish the probability
+- [01:05:33,040 - 01:05:33,440] well,
+- [01:05:33,440 - 01:05:34,220] as you can see,
+- [01:05:34,220 - 01:05:35,000] it's not always true
+- [01:05:35,000 - 01:05:37,120] so this is one of these interference phenomena
+- [01:05:40,580 - 01:05:40,980] okay,
+- [01:05:40,980 - 01:05:42,820] let's see if we can find the,
+- [01:05:42,820 - 01:05:43,500] um
+- [01:05:46,060 - 01:05:46,860] the observable
+- [01:05:46,860 - 01:05:48,940] now we're not learning very much by
+- [01:05:48,940 - 01:05:51,020] figuring out the observables in these cases
+- [01:05:51,020 - 01:05:52,660] I just want to show you that they exist
+- [01:05:52,660 - 01:05:54,000] they make sense,
+- [01:05:54,000 - 01:05:54,860] they're eigenvalues
+- [01:05:54,860 - 01:05:56,900] and eigenvectors are correct
+- [01:05:56,900 - 01:05:57,140] uh,
+- [01:05:57,140 - 01:05:59,020] are,
+- [01:05:59,020 - 01:06:00,180] are correct
+- [01:06:01,000 - 01:06:03,100] there are lots of other cases where
+- [01:06:03,100 - 01:06:05,200] we know much more about the observables
+- [01:06:05,200 - 01:06:06,640] than we do about anything else
+- [01:06:06,640 - 01:06:08,800] and then we work in the opposite direction
+- [01:06:08,800 - 01:06:10,020] but okay
+- [01:06:10,020 - 01:06:12,560] we're interested now in the observable
+- [01:06:14,880 - 01:06:17,660] representing polarization in the theta direction
+- [01:06:17,660 - 01:06:19,080] in other words,
+- [01:06:19,080 - 01:06:19,980] by definition
+- [01:06:22,580 - 01:06:24,220] this one's a little bit thicker
+- [01:06:25,880 - 01:06:27,200] by definition
+- [01:06:30,720 - 01:06:33,500] p theta acting on theta
+- [01:06:34,580 - 01:06:36,140] gives us plus theta
+- [01:06:37,500 - 01:06:43,220] and p theta acting on theta plus pi over two
+- [01:06:45,080 - 01:06:49,520] gives us minus theta plus pi over two
+- [01:06:50,540 - 01:06:51,980] in other words,
+- [01:06:51,980 - 01:06:53,020] both of these vectors
+- [01:06:54,220 - 01:06:55,760] both of these polarization states
+- [01:06:58,700 - 01:06:59,140] theta
+- [01:06:59,940 - 01:07:01,380] theta plus pi over two
+- [01:07:02,000 - 01:07:05,360] they're both eigenvectors of the observable polarization
+- [01:07:06,319 - 01:07:08,700] but eigenvectors with opposite eigenvalue
+- [01:07:09,620 - 01:07:10,620] let's see if we can,
+- [01:07:10,620 - 01:07:12,880] I'm not going to see if we can find it
+- [01:07:12,880 - 01:07:14,040] I'm going to write down the answer
+- [01:07:14,040 - 01:07:15,200] and then show you that it works
+- [01:07:17,279 - 01:07:17,720] uh,
+- [01:07:17,720 - 01:07:19,000] it took me about fifteen,
+- [01:07:19,000 - 01:07:19,640] well,
+- [01:07:19,640 - 01:07:21,060] less than fifteen minutes
+- [01:07:21,920 - 01:07:23,380] ten minutes to work it out
+- [01:07:30,880 - 01:07:32,320] and all I did was solve
+- [01:07:32,320 - 01:07:35,680] I simply wrote these as algebraic equations
+- [01:07:35,680 - 01:07:37,640] and solved the algebraic equations
+- [01:07:38,160 - 01:07:38,940] component-wise
+- [01:07:38,940 - 01:07:41,880] it was not very illuminating
+- [01:07:41,880 - 01:07:44,110] but it's mildly illuminating to see
+- [01:07:44,110 - 01:07:46,340] the answer and then check it
+- [01:07:47,300 - 01:07:47,900] so,
+- [01:07:47,900 - 01:07:48,800] the answer is
+- [01:07:49,980 - 01:07:51,480] where is the answer?
+- [01:07:51,480 - 01:07:52,160] here it is
+- [01:07:57,320 - 01:07:58,380] p theta
+- [01:08:00,900 - 01:08:03,120] is equal to cosine
+- [01:08:04,560 - 01:08:06,040] minus cosine
+- [01:08:07,160 - 01:08:07,900] sine
+- [01:08:08,740 - 01:08:09,480] sine
+- [01:08:10,220 - 01:08:11,880] but cosine and sine of what?
+- [01:08:12,060 - 01:08:12,880] anybody want to guess?
+- [01:08:14,420 - 01:08:15,340] two theta
+- [01:08:15,340 - 01:08:17,219] two theta
+- [01:08:54,220 - 01:08:55,020] that's in the upper left
+- [01:08:55,020 - 01:08:56,740] here we have
+- [01:08:56,740 - 01:08:59,460] twice cosine theta sine theta
+- [01:08:59,460 - 01:09:01,389] do anybody mind if instead of
+- [01:09:01,389 - 01:09:03,319] writing cosine theta and sine theta
+- [01:09:03,319 - 01:09:04,939] I'm just going to write c and s
+- [01:09:05,799 - 01:09:08,740] c and s for cosine and sine theta
+- [01:09:09,380 - 01:09:10,810] there will be no confusion
+- [01:09:10,810 - 01:09:12,240] since there's only one angle here
+- [01:09:13,000 - 01:09:13,640] so,
+- [01:09:13,640 - 01:09:15,720] this is c squared minus s squared
+- [01:09:16,740 - 01:09:19,520] this is twice s c
+- [01:09:20,220 - 01:09:21,899] this is twice
+- [01:09:21,899 - 01:09:24,300] s c
+- [01:09:24,899 - 01:09:29,120] and this is s squared minus c squared
+- [01:09:30,040 - 01:09:34,319] and we want to apply this now to theta
+- [01:09:34,899 - 01:09:35,960] what is theta?
+- [01:09:35,960 - 01:09:37,399] theta is
+- [01:09:40,740 - 01:09:41,979] c s
+- [01:09:42,819 - 01:09:45,160] look up on the upper right corner
+- [01:09:46,259 - 01:09:47,540] c s
+- [01:09:48,620 - 01:09:49,260] okay,
+- [01:09:49,260 - 01:09:50,359] let's just work it out
+- [01:09:53,779 - 01:09:54,620] okay,
+- [01:09:54,620 - 01:09:56,620] so we have to multiply c
+- [01:09:56,620 - 01:09:58,620] squared minus s squared by c
+- [01:10:00,240 - 01:10:01,080] so,
+- [01:10:01,080 - 01:10:02,680] in the upper place we have
+- [01:10:02,680 - 01:10:04,360] c squared
+- [01:10:04,900 - 01:10:10,440] c squared c minus s squared c
+- [01:10:10,440 - 01:10:13,520] that's this times this
+- [01:10:13,520 - 01:10:17,020] plus twice s c times s
+- [01:10:17,020 - 01:10:21,780] plus twice s c times s
+- [01:10:24,240 - 01:10:25,680] what about in the bottom?
+- [01:10:25,800 - 01:10:30,240] in the bottom we have twice s c times c
+- [01:10:31,380 - 01:10:33,460] twice s c times c
+- [01:10:38,920 - 01:10:39,780] twice s
+- [01:10:40,549 - 01:10:40,860] alright,
+- [01:10:40,860 - 01:10:41,540] leave it that way
+- [01:10:41,540 - 01:10:43,860] twice s c times c
+- [01:10:44,560 - 01:10:45,180] plus
+- [01:10:47,680 - 01:10:49,140] s squared s
+- [01:10:49,960 - 01:10:51,540] minus c squared s
+- [01:10:55,740 - 01:10:56,340] plus s c times s squared c times s
+- [01:10:57,960 - 01:10:59,120] don't ask me why I
+- [01:10:59,120 - 01:11:00,280] wrote it in this clumsy way
+- [01:11:00,280 - 01:11:01,040] I don't know why
+- [01:11:01,820 - 01:11:06,020] we have twice s squared c over here
+- [01:11:06,020 - 01:11:08,580] this is twice s squared c over here
+- [01:11:09,920 - 01:11:12,660] but we have minus s squared c over here
+- [01:11:14,839 - 01:11:15,440] so,
+- [01:11:15,440 - 01:11:18,180] the plus two and the minus one
+- [01:11:18,180 - 01:11:21,340] conspire to change this to a plus sign
+- [01:11:21,340 - 01:11:21,520] to a plus sign
+- [01:11:21,540 - 01:11:22,760] and we get rid of this
+- [01:11:24,160 - 01:11:27,780] now we have c squared plus s squared times c
+- [01:11:28,860 - 01:11:31,340] c is a common factor in both of them
+- [01:11:32,139 - 01:11:32,660] so,
+- [01:11:32,660 - 01:11:34,260] let's take c outside
+- [01:11:38,540 - 01:11:40,560] and now what is c squared plus s squared?
+- [01:11:41,520 - 01:11:42,040] one
+- [01:11:43,539 - 01:11:44,059] so,
+- [01:11:44,059 - 01:11:45,800] this is just c
+- [01:11:47,440 - 01:11:47,960] so,
+- [01:11:47,960 - 01:11:51,520] this is just c
+- [01:11:52,559 - 01:11:53,200] that's good
+- [01:11:53,200 - 01:11:54,240] because we want to get
+- [01:11:55,219 - 01:11:56,640] remember what we're trying to get
+- [01:11:56,640 - 01:11:59,460] that p theta on theta just gives us back theta
+- [01:12:00,820 - 01:12:03,120] ok now let's look at the lower piece here
+- [01:12:03,120 - 01:12:05,560] twice s c c
+- [01:12:06,579 - 01:12:08,840] here's minus c c s
+- [01:12:09,540 - 01:12:12,220] so the two again conspires with the minus sign
+- [01:12:12,220 - 01:12:14,200] turns it into a plus sign
+- [01:12:15,419 - 01:12:17,080] and now we have
+- [01:12:18,019 - 01:12:21,080] s squared s plus c squared s
+- [01:12:21,080 - 01:12:22,700] and that's just s.
+- [01:12:22,700 - 01:12:28,060] So we check explicitly that
+- [01:12:28,060 - 01:12:33,420] p theta on theta gives us
+- [01:12:33,420 - 01:12:38,820] back theta and I'll leave it to you
+- [01:12:38,820 - 01:12:44,220] to check that p theta on this guy here
+- [01:12:44,220 - 01:12:50,300] gives minus itself back again so these two vectors,
+- [01:12:50,300 - 01:12:52,720] where are they?
+- [01:12:53,580 - 01:12:59,220] Cs and minus sc are the eigenvectors of the observable.
+- [01:12:59,220 - 01:13:03,020] The observable is hermitian
+- [01:13:03,020 - 01:13:04,860] how do you tell that it's hermitian?
+- [01:13:04,860 - 01:13:05,980] Remember what hermitian means?
+- [01:13:06,500 - 01:13:09,920] Hermitian means that if you reflect
+- [01:13:09,920 - 01:13:13,340] about the diagonal and complex conjugate you
+- [01:13:13,340 - 01:13:14,120] get back to the same
+- [01:13:14,120 - 01:13:14,340] thing.
+- [01:13:14,340 - 01:13:15,880] For real matrices,
+- [01:13:15,880 - 01:13:17,460] we're going to talk more about hermitian,
+- [01:13:17,460 - 01:13:18,760] but for real
+- [01:13:18,760 - 01:13:21,480] matrices hermitian just means symmetric.
+- [01:13:21,480 - 01:13:23,460] This is a hermitian matrix,
+- [01:13:23,460 - 01:13:25,200] its eigenvectors
+- [01:13:25,200 - 01:13:27,920] and eigenvalues satisfy certain requirements.
+- [01:13:27,920 - 01:13:29,420] The eigenvectors are
+- [01:13:29,420 - 01:13:29,740] orthogonal,
+- [01:13:29,740 - 01:13:31,940] the eigenvalues are real.
+- [01:13:31,940 - 01:13:34,960] This is the observable that goes with the
+- [01:13:34,960 - 01:13:37,060] polarization along the angle theta.
+- [01:13:37,060 - 01:13:41,200] What happens incidentally,
+- [01:13:41,200 - 01:13:42,980] interesting
+- [01:13:42,980 - 01:13:43,420] question,
+- [01:13:43,420 - 01:13:44,100] supposing I'm
+- [01:13:44,100 - 01:13:44,760] going to take this,
+- [01:13:44,760 - 01:13:49,560] here's the observable for angle theta.
+- [01:13:49,560 - 01:13:55,980] What is the observable for
+- [01:13:57,820 - 01:13:58,620] minus theta?
+- [01:13:58,620 - 01:14:02,700] What happens to minus theta,
+- [01:14:02,700 - 01:14:05,780] to the observable minus theta?
+- [01:14:05,780 - 01:14:08,820] That's not
+- [01:14:08,820 - 01:14:10,000] really what I want to do is it?
+- [01:14:10,000 - 01:14:11,620] I don't think that's what I actually want to do.
+- [01:14:11,620 - 01:14:13,220] I'm going
+- [01:14:14,780 - 01:14:16,480] to look at,
+- [01:14:16,480 - 01:14:20,300] what I wanted to do was to look
+- [01:14:20,300 - 01:14:24,120] at the observable for theta plus Pi over two.
+- [01:14:24,220 - 01:14:26,160] For theta plus Pi over two.
+- [01:14:26,160 - 01:14:31,140] What happens to observable for theta plus Pi over two?
+- [01:14:37,480 - 01:14:39,520] Theta plus Pi is just an alternative.
+- [01:14:39,520 - 01:14:39,560] THEN you write the fraction and you put in the
+- [01:14:39,560 - 01:14:39,560] I want to take in there.
+- [01:14:39,560 - 01:14:39,620] If thiscess g is 0,
+- [01:14:39,620 - 01:14:41,660] I just subtract h1 over here.
+- [01:14:41,660 - 01:14:41,660] I'll add
+- [01:14:41,660 - 01:14:42,080] this time to the relativores to mu degrees j.
+- [01:14:42,080 - 01:14:43,200] I Okay,
+- [01:14:43,200 - 01:14:43,200] that's the observable I want to make.
+- [01:14:43,200 - 01:14:44,540] What should happen to it?
+- [01:14:48,000 - 01:14:49,120] If this is theta,
+- [01:14:49,120 - 01:14:54,280] what's the cosine of theta of twice theta?
+- [01:14:55,220 - 01:14:56,060] Okay.
+- [01:14:58,280 - 01:14:59,360] Here's theta.
+- [01:15:01,460 - 01:15:05,080] Here's theta plus pi over 2.
+- [01:15:05,840 - 01:15:09,320] And where is twice that angle?
+- [01:15:12,019 - 01:15:13,420] Minus cosine 2 theta.
+- [01:15:15,260 - 01:15:16,760] Minus cosine 2 theta,
+- [01:15:16,760 - 01:15:17,060] right?
+- [01:15:17,440 - 01:15:20,280] So if we do that transformation,
+- [01:15:20,280 - 01:15:22,100] if we rotate by 90 degrees,
+- [01:15:22,100 - 01:15:25,220] this becomes minus cosine 2 theta.
+- [01:15:25,920 - 01:15:28,620] This one will become plus cosine 2 theta.
+- [01:15:28,860 - 01:15:30,650] And what about sine of
+- [01:15:30,650 - 01:15:32,440] twice theta plus pi over 2?
+- [01:15:33,520 - 01:15:34,960] Also just change the sine,
+- [01:15:34,960 - 01:15:35,240] right?
+- [01:15:36,320 - 01:15:37,680] So this becomes minus.
+- [01:15:44,480 - 01:15:45,560] In other words,
+- [01:15:45,560 - 01:15:46,180] what's happened,
+- [01:15:46,180 - 01:15:51,640] by focusing on the observable rotated by 90 degrees,
+- [01:15:51,640 - 01:15:53,720] it's just changed sine.
+- [01:15:54,180 - 01:15:54,620] Well,
+- [01:15:54,620 - 01:15:55,680] that makes a lot of sense,
+- [01:15:55,680 - 01:15:58,080] because all it's done is interchange
+- [01:15:58,080 - 01:16:00,480] the positive eigenvalue with the negative eigenvalue.
+- [01:16:01,220 - 01:16:03,130] It's just interchanged the positive
+- [01:16:03,130 - 01:16:05,040] eigenvalue with the negative eigenvalue.
+- [01:16:05,300 - 01:16:08,380] The observable for theta has eigenvalues.
+- [01:16:08,380 - 01:16:08,880] It's got eigenvalues,
+- [01:16:08,880 - 01:16:11,420] plus 1 and minus 1 for the two states.
+- [01:16:12,280 - 01:16:15,030] The observable for the rotated 90 degrees just
+- [01:16:15,030 - 01:16:17,780] interchanges the plus sign and the minus sign.
+- [01:16:17,880 - 01:16:18,800] That's all I wanted to say,
+- [01:16:18,800 - 01:16:22,260] that it interchanges the plus sign and the minus sign.
+- [01:16:24,760 - 01:16:26,980] So that also makes sense.
+- [01:16:31,240 - 01:16:31,720] Okay,
+- [01:16:31,720 - 01:16:34,720] we've left out of the story an important ingredient,
+- [01:16:34,720 - 01:16:36,420] another kind of polarization.
+- [01:16:38,560 - 01:16:42,280] That there is another kind of polarization must be so,
+- [01:16:42,280 - 01:16:46,240] because we haven't introduced any imaginary numbers yet.
+- [01:16:55,520 - 01:16:56,180] Remember,
+- [01:16:56,180 - 01:16:59,000] quantum mechanics is all about complex numbers.
+- [01:17:01,100 - 01:17:04,160] And there's nothing to prevent us from
+- [01:17:04,160 - 01:17:07,220] introducing state vectors with complex numbers in them.
+- [01:17:07,220 - 01:17:08,320] For example,
+- [01:17:08,320 - 01:17:11,440] here's a state vector with a complex number in it,
+- [01:17:11,440 - 01:17:12,200] 1i.
+- [01:17:15,300 - 01:17:16,500] Is that normalized?
+- [01:17:16,500 - 01:17:17,160] No,
+- [01:17:17,160 - 01:17:18,060] it's not normalized.
+- [01:17:19,060 - 01:17:20,380] Remember what we have to do,
+- [01:17:20,380 - 01:17:22,960] we have to multiply each one by its
+- [01:17:22,960 - 01:17:25,540] complex conjugate and add them to find the normalization.
+- [01:17:26,100 - 01:17:27,400] 1 squared is 1,
+- [01:17:27,400 - 01:17:28,480] i squared,
+- [01:17:28,480 - 01:17:30,640] i times minus i is also 1.
+- [01:17:30,760 - 01:17:32,820] We need a 1 over square root of 2 here.
+- [01:17:34,820 - 01:17:36,460] This is a problem.
+- [01:17:36,460 - 01:17:38,620] We need a perfectly good
+- [01:17:38,620 - 01:17:40,780] normalized state vector in quantum mechanics.
+- [01:17:41,700 - 01:17:43,560] We may not know what it is yet,
+- [01:17:43,560 - 01:17:45,560] and in fact I'm eventually going
+- [01:17:45,560 - 01:17:47,560] to tell you what it is,
+- [01:17:49,420 - 01:17:51,160] but it has to be there.
+- [01:17:51,380 - 01:17:55,160] It has to be some kind of new state vector.
+- [01:17:55,380 - 01:17:59,690] It can also be written as 1 over square root
+- [01:17:59,690 - 01:18:04,000] of 2 x plus i over square root of 2 y.
+- [01:18:05,280 - 01:18:07,530] It's something that doesn't have an
+- [01:18:07,530 - 01:18:09,780] obvious interpretation in terms of these angles.
+- [01:18:11,200 - 01:18:13,540] Is there a vector which is orthogonal to it?
+- [01:18:13,620 - 01:18:14,870] Of course there must be another
+- [01:18:14,870 - 01:18:16,120] vector which is orthogonal to it.
+- [01:18:16,440 - 01:18:19,100] The orthogonal one is 1 over square
+- [01:18:19,100 - 01:18:21,760] root of 2 times 1 minus i.
+- [01:18:23,840 - 01:18:26,660] Let's check that these two are orthogonal to each other.
+- [01:18:27,240 - 01:18:27,720] Well,
+- [01:18:27,720 - 01:18:29,040] 1 times 1 is 1,
+- [01:18:29,040 - 01:18:30,960] i times minus i is 1.
+- [01:18:31,040 - 01:18:31,840] If I add them up,
+- [01:18:31,840 - 01:18:32,300] I get 2.
+- [01:18:32,420 - 01:18:32,960] That's no good.
+- [01:18:32,960 - 01:18:33,160] No,
+- [01:18:33,160 - 01:18:34,320] but something's wrong with that.
+- [01:18:34,520 - 01:18:36,240] I forgot the complex conjugate.
+- [01:18:36,960 - 01:18:38,640] I forgot the complex conjugate.
+- [01:18:38,700 - 01:18:40,800] If I want to see whether these two are orthogonal,
+- [01:18:40,800 - 01:18:43,140] one of them has to be a bra vector.
+- [01:18:43,920 - 01:18:45,820] Let's take this one to be a bra vector.
+- [01:18:46,320 - 01:18:50,120] That means it corresponds to the row
+- [01:18:50,120 - 01:18:53,920] vector 1 over square root of 2,
+- [01:18:53,920 - 01:18:57,060] 1 plus i.
+- [01:18:58,720 - 01:18:59,800] Not 1 plus i,
+- [01:18:59,800 - 01:19:01,080] but 1 and i.
+- [01:19:02,960 - 01:19:03,680] Not minus i,
+- [01:19:03,680 - 01:19:04,240] but i.
+- [01:19:04,820 - 01:19:06,490] And that's because we have to
+- [01:19:06,490 - 01:19:08,160] complex conjugate in the bra vectors.
+- [01:19:08,840 - 01:19:09,380] All right,
+- [01:19:09,380 - 01:19:13,430] let's take the inner product of this
+- [01:19:13,430 - 01:19:17,480] with 1i with another square root of 2.
+- [01:19:21,300 - 01:19:22,660] That'll just get rid of the square root
+- [01:19:22,660 - 01:19:24,020] of 2 here and put a 1 half there.
+- [01:19:26,000 - 01:19:27,760] But now we can see this is
+- [01:19:27,760 - 01:19:29,520] 1 times 1 plus i times i,
+- [01:19:29,520 - 01:19:30,080] and that's 0.
+- [01:19:32,840 - 01:19:35,140] So these two vectors are indeed orthogonal.
+- [01:19:37,940 - 01:19:42,820] There must be some observable which distinguishes them.
+- [01:19:43,960 - 01:19:47,450] I'm going to leave it to you as a
+- [01:19:47,450 - 01:19:50,940] homework problem to find the observable with the following property.
+- [01:19:51,040 - 01:19:52,400] I'll give it to you next time,
+- [01:19:52,400 - 01:19:54,100] but I'm going to leave it,
+- [01:19:54,100 - 01:19:56,360] assign it as a homework problem for fun.
+- [01:19:56,460 - 01:19:57,740] I'm not going to collect it,
+- [01:19:57,740 - 01:19:58,000] so.
+- [01:20:00,120 - 01:20:01,940] And try out your...
+- [01:20:04,139 - 01:20:09,040] This one I will call that.
+- [01:20:10,660 - 01:20:13,580] This one I will call that.
+- [01:20:14,160 - 01:20:15,560] And guess what they are?
+- [01:20:15,940 - 01:20:17,640] They are circular polarization.
+- [01:20:18,900 - 01:20:21,340] Light can also be circularly polarized.
+- [01:20:21,500 - 01:20:23,600] Let me tell you what circularly polarized
+- [01:20:23,600 - 01:20:25,700] light means from the wave point of view.
+- [01:20:26,280 - 01:20:28,000] From the wave point of view,
+- [01:20:29,020 - 01:20:31,510] it clearly means that there is
+- [01:20:31,510 - 01:20:34,000] both x and y polarization mixed in.
+- [01:20:35,100 - 01:20:38,020] x and y polarization are both mixed in here.
+- [01:20:39,000 - 01:20:39,840] In fact,
+- [01:20:39,840 - 01:20:40,620] if I were to calculate,
+- [01:20:40,620 - 01:20:41,760] and I will in a moment,
+- [01:20:41,940 - 01:20:43,970] if I were to calculate the probability
+- [01:20:43,970 - 01:20:46,000] that it passes through an x polarizer,
+- [01:20:46,200 - 01:20:47,240] it'll be 1 half.
+- [01:20:47,780 - 01:20:49,240] A y polarizer,
+- [01:20:49,240 - 01:20:50,360] it'll also be 1 half.
+- [01:20:50,620 - 01:20:51,460] In fact,
+- [01:20:51,460 - 01:20:53,840] we'll see that it passes through probability 1
+- [01:20:53,840 - 01:20:56,220] half through any one of the theta polarizers.
+- [01:20:57,640 - 01:20:58,080] But,
+- [01:20:58,080 - 01:21:02,100] so it's got both x and y mixed into it.
+- [01:21:04,260 - 01:21:05,280] As we can see.
+- [01:21:06,180 - 01:21:07,800] What was I going to say about it?
+- [01:21:07,940 - 01:21:08,120] Yeah.
+- [01:21:08,740 - 01:21:10,620] So from the point of view of wave theory,
+- [01:21:10,920 - 01:21:12,740] it must have the electric field is
+- [01:21:12,740 - 01:21:14,560] both in the x and y direction.
+- [01:21:15,200 - 01:21:15,980] In fact,
+- [01:21:15,980 - 01:21:16,940] it has more or less,
+- [01:21:16,940 - 01:21:18,500] it has equal probability for being
+- [01:21:18,500 - 01:21:20,060] in the x and y direction.
+- [01:21:20,560 - 01:21:22,060] The magnitude of 1 and the
+- [01:21:22,060 - 01:21:23,560] magnitude of i is the same.
+- [01:21:23,940 - 01:21:25,080] So it looks like,
+- [01:21:25,080 - 01:21:25,360] somehow,
+- [01:21:26,200 - 01:21:28,360] it's a state with,
+- [01:21:28,360 - 01:21:30,720] let's think about now the electric field.
+- [01:21:30,880 - 01:21:33,320] Electric field going into the blackboard.
+- [01:21:33,640 - 01:21:36,070] It looks like it has an electric field in the
+- [01:21:36,070 - 01:21:38,500] x direction and an electric field in the y direction.
+- [01:21:38,980 - 01:21:40,850] You would think that adds up
+- [01:21:40,850 - 01:21:42,720] to an electric field like that.
+- [01:21:43,160 - 01:21:45,020] And that it ought to just be
+- [01:21:45,020 - 01:21:46,880] a polarization in the 45 degree direction.
+- [01:21:47,300 - 01:21:48,860] But that's not right.
+- [01:21:49,000 - 01:21:52,200] That's not what a circularly polarized light ray is.
+- [01:21:52,620 - 01:21:54,680] What a circularly polarized light ray,
+- [01:21:55,419 - 01:21:59,760] let's think about a vertically polarized light wave.
+- [01:22:00,900 - 01:22:02,920] That has an electric field,
+- [01:22:04,219 - 01:22:05,920] which is something like,
+- [01:22:05,920 - 01:22:06,600] for example,
+- [01:22:07,759 - 01:22:09,340] cosine of z,
+- [01:22:09,340 - 01:22:10,820] it's moving down the z axis,
+- [01:22:11,739 - 01:22:12,860] minus ct.
+- [01:22:13,520 - 01:22:14,820] This is a wave moving,
+- [01:22:14,820 - 01:22:15,960] c is the speed of light.
+- [01:22:16,560 - 01:22:18,480] This is a wave moving down the
+- [01:22:18,480 - 01:22:20,400] z axis with the speed of light.
+- [01:22:22,279 - 01:22:25,340] And this could be the y polarization.
+- [01:22:25,360 - 01:22:28,590] This could be the y component of
+- [01:22:28,590 - 01:22:31,820] an electromagnetic wave moving down the z axis.
+- [01:22:33,220 - 01:22:34,860] The x component,
+- [01:22:37,059 - 01:22:39,599] if I wrote that that was also
+- [01:22:39,599 - 01:22:42,140] equal to cosine of z minus ct,
+- [01:22:43,299 - 01:22:46,619] that would correspond to a plain
+- [01:22:46,619 - 01:22:49,940] polarized light ray at 45 degrees.
+- [01:22:50,380 - 01:22:51,380] In other words,
+- [01:22:51,380 - 01:22:53,280] it would just say that the component of
+- [01:22:53,280 - 01:22:55,180] the electric field in the 45 degree axis,
+- [01:22:55,360 - 01:22:58,160] was cosine,
+- [01:22:58,160 - 01:23:00,100] or square root of 2
+- [01:23:00,100 - 01:23:02,040] times cosine of z plus ct,
+- [01:23:02,040 - 01:23:03,260] minus ct.
+- [01:23:06,060 - 01:23:06,500] But,
+- [01:23:06,500 - 01:23:07,920] we put them out of phase.
+- [01:23:09,940 - 01:23:11,260] We put them out of phase.
+- [01:23:11,560 - 01:23:12,380] What that means,
+- [01:23:12,380 - 01:23:15,280] now these are the electric fields,
+- [01:23:15,360 - 01:23:16,360] no magnetic field,
+- [01:23:16,360 - 01:23:18,400] I have not mixed in the magnetic field at all.
+- [01:23:18,780 - 01:23:20,300] What this says is if we look,
+- [01:23:20,300 - 01:23:21,740] here's the z axis down here.
+- [01:23:24,420 - 01:23:25,260] Here's x.
+- [01:23:25,360 - 01:23:27,210] The electric field might be
+- [01:23:27,210 - 01:23:29,060] a cosine and look like this.
+- [01:23:36,040 - 01:23:39,740] Whereas the other component of the electric field,
+- [01:23:39,900 - 01:23:42,180] the y component is a sine.
+- [01:23:44,819 - 01:23:45,379] So,
+- [01:23:45,379 - 01:23:47,600] where the x component is maximum,
+- [01:23:47,900 - 01:23:49,820] the y component is zero.
+- [01:23:50,260 - 01:23:51,200] And so on.
+- [01:23:51,560 - 01:23:52,920] I don't know if I can draw this.
+- [01:23:57,260 - 01:23:58,860] I can never do this.
+- [01:23:58,900 - 01:23:59,760] I can never get them out.
+- [01:24:00,180 - 01:24:01,860] The thing to do is to draw
+- [01:24:01,860 - 01:24:03,540] them in phase and then shift them.
+- [01:24:08,080 - 01:24:08,560] Now,
+- [01:24:08,560 - 01:24:12,240] take the red one and shift it by 90 degrees.
+- [01:24:13,140 - 01:24:14,340] I can never do that.
+- [01:24:14,400 - 01:24:16,350] 90 degrees is halfway and
+- [01:24:16,350 - 01:24:18,300] I'm not good at halfway things.
+- [01:24:18,920 - 01:24:20,540] Just take the red one
+- [01:24:20,540 - 01:24:22,160] and shift it by 90 degrees,
+- [01:24:22,160 - 01:24:24,830] so that where the y component
+- [01:24:24,830 - 01:24:27,500] of the electric field is maximum,
+- [01:24:27,660 - 01:24:29,160] the x component is minimum.
+- [01:24:29,500 - 01:24:31,340] If you stand at a point,
+- [01:24:31,340 - 01:24:34,220] let's say the point z equals zero,
+- [01:24:35,519 - 01:24:37,440] stand at the point z equals zero,
+- [01:24:38,620 - 01:24:41,650] and look at the x and
+- [01:24:41,650 - 01:24:44,680] y component of the electric field.
+- [01:24:44,840 - 01:24:45,640] What does it do?
+- [01:24:54,639 - 01:24:56,920] It rotates around in a circle.
+- [01:24:58,700 - 01:25:01,180] These are the equations for a,
+- [01:25:04,719 - 01:25:06,260] for an electric field,
+- [01:25:06,260 - 01:25:07,300] here's the electric field.
+- [01:25:07,600 - 01:25:10,280] It has an x component that has a y component.
+- [01:25:13,560 - 01:25:15,740] When the x component is maximum,
+- [01:25:15,840 - 01:25:18,740] the y component is minimum and vice versa.
+- [01:25:19,100 - 01:25:20,680] This is an electric field,
+- [01:25:20,680 - 01:25:28,080] which is just rotating around with a uniform angular motion.
+- [01:25:29,520 - 01:25:31,880] That's called a circularly polarized wave.
+- [01:25:32,100 - 01:25:33,300] It's a perfectly good wave.
+- [01:25:33,600 - 01:25:36,050] It's just a wave whose x and y component
+- [01:25:36,050 - 01:25:38,500] are out of phase with respect to each other.
+- [01:25:38,700 - 01:25:41,700] It's another solution of Maxwell's equations.
+- [01:25:41,840 - 01:25:42,200] Incidentally,
+- [01:25:42,200 - 01:25:45,360] the magnetic fields are the same as the electric fields,
+- [01:25:45,420 - 01:25:47,240] except rotated by 90 degrees.
+- [01:25:48,519 - 01:25:50,660] So you could write something similar,
+- [01:25:50,680 - 01:25:51,740] similar for the magnetic fields.
+- [01:25:53,420 - 01:25:55,960] There are two possibilities.
+- [01:25:56,540 - 01:25:57,880] Ey equals cosine,
+- [01:25:58,260 - 01:25:59,820] Ex equals sine,
+- [01:26:00,140 - 01:26:01,680] and Ey equals cosine,
+- [01:26:01,960 - 01:26:03,500] Ex equals minus sine.
+- [01:26:03,820 - 01:26:06,460] One of them rotates around in one direction,
+- [01:26:06,720 - 01:26:09,020] the other one rotates around in the other direction.
+- [01:26:09,500 - 01:26:13,200] Those are circularly polarized light waves.
+- [01:26:15,320 - 01:26:17,480] And the individual photons of
+- [01:26:17,480 - 01:26:19,640] a circularly polarized light wave
+- [01:26:19,640 - 01:26:21,820] are called circularly polarized photons.
+- [01:26:22,760 - 01:26:24,320] I've labeled them this way,
+- [01:26:24,480 - 01:26:27,660] and this is the state vectors that describe them.
+- [01:26:28,560 - 01:26:30,860] Left polarization and right polarization.
+- [01:26:31,060 - 01:26:32,660] I might have left and right mixed up.
+- [01:26:33,880 - 01:26:36,040] It's not very important for us right now.
+- [01:26:37,860 - 01:26:39,560] What kind of device does that?
+- [01:26:40,020 - 01:26:41,540] A circular polarizer.
+- [01:26:45,360 - 01:26:47,140] How do you make a circular polarizer?
+- [01:26:47,140 - 01:26:47,640] Anybody know?
+- [01:26:48,200 - 01:26:49,620] A quarter wave plate.
+- [01:26:50,060 - 01:26:55,220] Next time I'll describe how you make a circular polarizer.
+- [01:26:55,520 - 01:26:57,640] A quarter wave plate is the right answer.
+- [01:26:57,900 - 01:27:01,470] But it is what gets the
+- [01:27:01,470 - 01:27:05,040] X and Y components out of phase.
+- [01:27:05,320 - 01:27:07,360] But there are two new kinds of photons.
+- [01:27:07,860 - 01:27:08,600] Of course,
+- [01:27:08,600 - 01:27:11,280] they're not really independent kinds of photons.
+- [01:27:11,920 - 01:27:13,240] They are new,
+- [01:27:13,240 - 01:27:15,040] circularly polarized photons.
+- [01:27:15,040 - 01:27:21,170] But what happens if I send a
+- [01:27:21,170 - 01:27:27,300] circularly polarized photon through a theta polarizer?
+- [01:27:29,040 - 01:27:29,680] Well,
+- [01:27:29,680 - 01:27:35,840] to answer that,
+- [01:27:35,840 - 01:27:36,380] in other words,
+- [01:27:36,380 - 01:27:37,860] what's the probability that it goes through?
+- [01:27:38,260 - 01:27:38,900] Again,
+- [01:27:38,900 - 01:27:43,900] we take the inner product of the circular polarized photon.
+- [01:27:43,900 - 01:27:44,640] Here it is.
+- [01:27:46,079 - 01:27:48,440] With the theta polarized photon,
+- [01:27:48,440 - 01:27:50,100] and we square it.
+- [01:27:50,220 - 01:27:51,160] I won't square it yet.
+- [01:27:51,160 - 01:27:52,720] I'll square it after we calculate it.
+- [01:27:53,140 - 01:27:54,060] So let's see.
+- [01:27:54,140 - 01:27:56,630] The circularly polarized photon has
+- [01:27:56,630 - 01:27:59,120] 1 over square root of 2
+- [01:28:00,240 - 01:28:02,380] and I over square root of 2
+- [01:28:05,320 - 01:28:06,580] for its ket vector.
+- [01:28:06,980 - 01:28:10,440] And the theta polarized one has,
+- [01:28:10,440 - 01:28:11,540] what is it,
+- [01:28:11,540 - 01:28:12,380] cosine theta?
+- [01:28:13,220 - 01:28:13,820] Sine theta?
+- [01:28:22,600 - 01:28:23,980] Did I get that right?
+- [01:28:26,680 - 01:28:27,160] Good.
+- [01:28:28,400 - 01:28:28,880] Okay,
+- [01:28:28,880 - 01:28:29,740] so what's the answer?
+- [01:28:29,860 - 01:28:30,160] Let's see.
+- [01:28:30,280 - 01:28:31,800] We get 1 over square root of 2.
+- [01:28:31,880 - 01:28:34,300] The inner product then is
+- [01:28:34,300 - 01:28:36,720] 1 over root 2 cosine theta
+- [01:28:40,360 - 01:28:42,360] plus I over square root of 2.
+- [01:28:44,260 - 01:28:44,980] Sine theta.
+- [01:28:47,620 - 01:28:48,920] That's the inner product,
+- [01:28:48,920 - 01:28:50,280] or that's the amplitude,
+- [01:28:50,280 - 01:28:51,880] the quantum mechanical amplitude.
+- [01:28:52,660 - 01:28:54,760] Now we want to calculate the probability.
+- [01:28:55,100 - 01:28:56,180] To calculate the probability,
+- [01:28:56,180 - 01:28:58,740] we have to multiply this by its complex conjugate.
+- [01:28:58,980 - 01:28:59,940] So let's do that up here.
+- [01:29:00,640 - 01:29:02,940] This times its complex conjugate is cosine,
+- [01:29:02,940 - 01:29:04,120] let's just write,
+- [01:29:04,120 - 01:29:05,020] let's just call it c.
+- [01:29:09,440 - 01:29:11,060] c over square root of 2.
+- [01:29:11,060 - 01:29:11,660] Well,
+- [01:29:11,660 - 01:29:18,540] 1 over square root of 2 times c plus is.
+- [01:29:20,220 - 01:29:24,080] And then another 1 over square root of 2 for...
+- [01:29:26,859 - 01:29:29,600] We're multiplying this by its complex conjugate.
+- [01:29:29,900 - 01:29:35,180] So another 1 over square root of 2 times
+- [01:29:35,180 - 01:29:40,460] c minus is gives us 1 half c squared.
+- [01:29:41,179 - 01:29:42,520] So that's c squared plus s squared.
+- [01:29:45,500 - 01:29:47,640] I times minus I is plus.
+- [01:29:47,920 - 01:29:49,660] So it's c squared plus s squared,
+- [01:29:49,660 - 01:29:51,380] which is just 1 half.
+- [01:29:55,200 - 01:29:55,940] In other words,
+- [01:29:55,940 - 01:29:56,800] as you might have expected,
+- [01:29:56,800 - 01:29:58,780] for a circularly polarized photon,
+- [01:29:59,639 - 01:30:02,379] there's a probability 1 half that
+- [01:30:02,379 - 01:30:05,120] it will go through any linearly polarized.
+- [01:30:05,560 - 01:30:07,670] You cannot tell what direction
+- [01:30:07,670 - 01:30:09,780] your polarizer is polarized in.
+- [01:30:09,840 - 01:30:10,440] So you can't tell.
+- [01:30:10,440 - 01:30:12,430] By the fact that the circular polarization
+- [01:30:12,430 - 01:30:14,420] goes through with a probability of 1 half,
+- [01:30:15,280 - 01:30:20,780] whatever the direction of the linear polarized polarizer is,
+- [01:30:21,020 - 01:30:23,410] the circular polarized photon will
+- [01:30:23,410 - 01:30:25,800] go through with probability 1 half.
+- [01:30:27,240 - 01:30:29,920] You can also say the opposite is also true.
+- [01:30:30,140 - 01:30:32,370] A linearly polarized photon has a probability
+- [01:30:32,370 - 01:30:34,600] 1 half to go through the circular,
+- [01:30:34,880 - 01:30:36,460] go through the quarter wave plate,
+- [01:30:36,640 - 01:30:37,360] which makes...
+- [01:30:39,279 - 01:30:41,460] which makes circular polarization.
+- [01:30:41,900 - 01:30:43,140] But we'll come to that next time.
+- [01:30:43,840 - 01:30:44,200] Okay,
+- [01:30:44,200 - 01:30:49,080] so this is the basic setup of circular polarization.
+- [01:30:49,440 - 01:30:50,140] Of course,
+- [01:30:50,140 - 01:30:52,940] once you realize that complex numbers are allowed,
+- [01:30:53,280 - 01:30:56,580] then you can put in any complex numbers here.
+- [01:30:56,900 - 01:31:01,380] Any pair of complex numbers will be allowed,
+- [01:31:01,580 - 01:31:03,250] any pair such that the sums of
+- [01:31:03,250 - 01:31:04,920] the squares come out to be 1.
+- [01:31:05,520 - 01:31:09,010] And those define a wider class of polarizations,
+- [01:31:09,540 - 01:31:11,700] which are elliptically polarized photons.
+- [01:31:13,220 - 01:31:16,420] Elliptically polarized photons are circularly polarized
+- [01:31:16,420 - 01:31:19,000] when one of these is real
+- [01:31:19,000 - 01:31:21,580] and one of them is imaginary.
+- [01:31:22,440 - 01:31:24,780] If both of them are almost real,
+- [01:31:24,960 - 01:31:26,320] one of them is real and one
+- [01:31:26,320 - 01:31:27,680] of them is close to being real,
+- [01:31:27,860 - 01:31:29,620] then it's an elliptical polarization,
+- [01:31:29,820 - 01:31:32,180] which is almost a plane polarized photon.
+- [01:31:32,580 - 01:31:33,020] Well,
+- [01:31:33,020 - 01:31:34,900] I think we'll do a little more with elliptical polarization.
+- [01:31:34,900 - 01:31:36,370] I'll talk about elliptical polarized photons
+- [01:31:36,370 - 01:31:37,840] next time if I get a chance.
+- [01:31:39,160 - 01:31:39,960] But the...
+- [01:31:43,140 - 01:31:45,420] And don't ask me how you make a polarizer
+- [01:31:45,420 - 01:31:47,380] that polarizes elliptical photons.
+- [01:31:50,160 - 01:31:50,560] Well,
+- [01:31:50,560 - 01:31:50,960] actually,
+- [01:31:50,960 - 01:31:52,280] you can ask me next time.
+- [01:31:52,320 - 01:31:53,380] I will have an answer for you.
+- [01:31:53,600 - 01:31:55,260] I just realized I know how to do it.
+- [01:31:57,320 - 01:31:57,720] Good.
+- [01:32:00,320 - 01:32:00,880] All right,
+- [01:32:00,880 - 01:32:02,380] we're essentially finished
+- [01:32:02,900 - 01:32:04,080] with the idea of polarization.
+- [01:32:05,240 - 01:32:07,240] Photon polarization for the time being.
+- [01:32:07,800 - 01:32:10,460] We may come back to it as an example.
+- [01:32:12,760 - 01:32:14,080] But first of all,
+- [01:32:14,080 - 01:32:15,640] one thing which is obvious
+- [01:32:16,340 - 01:32:18,700] is we've defined a whole bunch...
+- [01:32:18,700 - 01:32:18,760] Oh,
+- [01:32:18,760 - 01:32:19,920] I have not defined for you,
+- [01:32:19,920 - 01:32:20,700] I'll do it next time,
+- [01:32:20,740 - 01:32:23,620] the observable that goes with circular polarization.
+- [01:32:24,120 - 01:32:26,140] It's got some imaginary numbers in it.
+- [01:32:26,220 - 01:32:27,300] We'll all know that by then.
+- [01:32:27,520 - 01:32:28,040] You should know that.
+- [01:32:28,200 - 01:32:28,260] Yeah,
+- [01:32:28,260 - 01:32:28,400] oh,
+- [01:32:28,400 - 01:32:28,680] that's right.
+- [01:32:29,460 - 01:32:30,300] Was that the homework?
+- [01:32:30,500 - 01:32:30,940] That's the homework,
+- [01:32:30,940 - 01:32:31,220] yeah.
+- [01:32:31,760 - 01:32:32,160] Good,
+- [01:32:32,160 - 01:32:32,660] all right.
+- [01:32:32,700 - 01:32:33,380] So that's the homework.
+- [01:32:33,380 - 01:32:34,750] Find the observable that
+- [01:32:34,750 - 01:32:36,120] goes with the circular polarization.
+- [01:32:37,520 - 01:32:38,880] But you're going to find,
+- [01:32:38,880 - 01:32:39,780] if you find them all,
+- [01:32:40,040 - 01:32:42,880] that for any two different polarizations,
+- [01:32:42,940 - 01:32:43,720] circular,
+- [01:32:43,720 - 01:32:44,520] linear,
+- [01:32:44,520 - 01:32:45,420] or anything else,
+- [01:32:45,820 - 01:32:49,600] the polarization observables don't commute with each other.
+- [01:32:50,360 - 01:32:52,080] That's more or less obvious
+- [01:32:52,080 - 01:32:57,560] because they certainly don't ever have common eigenvectors.
+- [01:32:57,940 - 01:33:01,400] The eigenvectors of this polarization
+- [01:33:01,400 - 01:33:02,960] are 1,
+- [01:33:02,960 - 01:33:03,200] 0.
+- [01:33:03,500 - 01:33:04,960] The eigenvectors of this polarization
+- [01:33:04,960 - 01:33:09,000] are equal mixtures of one of the X and Y.
+- [01:33:09,320 - 01:33:12,860] And the circular polarizations have I's in them.
+- [01:33:13,080 - 01:33:14,910] They have no common
+- [01:33:14,910 - 01:33:16,740] eigenvectors for different polarizations.
+- [01:33:16,960 - 01:33:21,340] The implication of that is that the polarization observables
+- [01:33:21,340 - 01:33:25,840] do not commute for different directions
+- [01:33:26,320 - 01:33:27,620] or type of polarization.
+- [01:33:28,120 - 01:33:30,480] The implication of that is,
+- [01:33:30,480 - 01:33:31,080] for example,
+- [01:33:31,400 - 01:33:37,040] that you cannot measure simultaneously the X polarization.
+- [01:33:38,280 - 01:33:40,050] Can you measure simultaneously the
+- [01:33:40,050 - 01:33:41,820] X polarization and the Y polarization?
+- [01:33:42,860 - 01:33:43,380] Yes.
+- [01:33:44,220 - 01:33:45,040] X and Y,
+- [01:33:45,040 - 01:33:45,400] yes.
+- [01:33:45,780 - 01:33:47,900] If the X polarization is plus,
+- [01:33:48,100 - 01:33:50,480] then the Y polarization is certainly minus.
+- [01:33:51,360 - 01:33:52,220] They're trivial.
+- [01:33:52,440 - 01:33:53,990] They're simply related to each
+- [01:33:53,990 - 01:33:55,540] other in such a simple way.
+- [01:33:55,980 - 01:33:56,880] And in fact,
+- [01:33:56,880 - 01:33:59,380] the X polarization and the Y polarization
+- [01:33:59,380 - 01:34:00,760] are just negatives of each other.
+- [01:34:01,400 - 01:34:05,280] How about the X polarization and the 45 polarization?
+- [01:34:06,020 - 01:34:06,780] No.
+- [01:34:07,360 - 01:34:09,620] Those you cannot measure simultaneously,
+- [01:34:10,120 - 01:34:14,880] the X polarization and the 45 and the slash polarization.
+- [01:34:15,160 - 01:34:18,540] You cannot simultaneously measure the X polarization
+- [01:34:18,540 - 01:34:20,360] and the circular polarization
+- [01:34:22,179 - 01:34:24,920] because the observables don't commute.
+- [01:34:27,099 - 01:34:30,660] The observables for a theta,
+- [01:34:33,179 - 01:34:35,800] and for theta plus pi over 2,
+- [01:34:36,379 - 01:34:37,420] do commute.
+- [01:34:37,960 - 01:34:39,840] They're just the negatives of each other.
+- [01:34:40,000 - 01:34:41,400] That's what I showed you a few minutes ago,
+- [01:34:41,640 - 01:34:45,640] that p theta is just equal to
+- [01:34:45,640 - 01:34:49,640] minus p theta plus pi over 2.
+- [01:34:50,760 - 01:34:52,260] That's just interchanging the
+- [01:34:52,260 - 01:34:53,760] positive and negative eigenvalues.
+- [01:34:54,140 - 01:34:56,560] A thing certainly commutes when it's negative.
+- [01:34:57,100 - 01:34:59,980] So the polarization for theta,
+- [01:34:59,980 - 01:35:01,600] and for theta plus pi over 2,
+- [01:35:01,760 - 01:35:03,640] can be simultaneously measured.
+- [01:35:04,340 - 01:35:05,060] In fact,
+- [01:35:05,060 - 01:35:05,800] when you measure one,
+- [01:35:06,020 - 01:35:07,860] you automatically know the other.
+- [01:35:07,940 - 01:35:09,120] It's just the negative of it.
+- [01:35:10,159 - 01:35:12,329] But none of these commute
+- [01:35:12,329 - 01:35:14,500] if the angles are genuinely different.
+- [01:35:17,099 - 01:35:20,080] So those are examples of incompatible variables.
+- [01:35:21,380 - 01:35:24,040] And it just says that you can't have a polarizer
+- [01:35:24,040 - 01:35:25,710] which polarizes both in the
+- [01:35:25,710 - 01:35:27,380] X direction and the theta direction.
+- [01:35:30,120 - 01:35:31,920] It's just something more or less obvious.
+- [01:35:33,000 - 01:35:33,480] Okay,
+- [01:35:33,480 - 01:35:35,510] I want to come to one
+- [01:35:35,510 - 01:35:37,540] thing that we have not discussed,
+- [01:35:37,740 - 01:35:39,680] the idea of expectation value,
+- [01:35:40,600 - 01:35:43,320] which really should just be called average value.
+- [01:35:51,700 - 01:35:54,480] Expectation value is a poor choice of terminology.
+- [01:35:54,720 - 01:35:55,800] Let me explain why right now.
+- [01:35:56,340 - 01:35:57,870] Supposing I have a wave function
+- [01:35:57,870 - 01:35:59,400] for a particle that looks like this.
+- [01:36:01,620 - 01:36:03,680] But it's what you want if you're a gambler.
+- [01:36:04,340 - 01:36:04,740] Well,
+- [01:36:04,740 - 01:36:05,140] I don't know.
+- [01:36:05,200 - 01:36:05,680] In this case,
+- [01:36:05,680 - 01:36:06,180] I don't think.
+- [01:36:07,820 - 01:36:10,280] There's a wave function which is nice and symmetric.
+- [01:36:10,400 - 01:36:11,240] It has a lump over
+- [01:36:11,240 - 01:36:12,080] here and a lump over here.
+- [01:36:13,240 - 01:36:14,300] This could be X,
+- [01:36:14,300 - 01:36:15,580] X0 over here.
+- [01:36:15,640 - 01:36:16,940] What's the average value of X?
+- [01:36:17,780 - 01:36:18,180] Zero.
+- [01:36:20,400 - 01:36:23,140] And let's suppose this has tails over here,
+- [01:36:24,140 - 01:36:25,200] tails over here,
+- [01:36:25,800 - 01:36:27,740] and actually goes right to zero here.
+- [01:36:27,820 - 01:36:31,220] What's the least likely answer that you could get?
+- [01:36:31,840 - 01:36:33,300] You'll never get the average.
+- [01:36:33,540 - 01:36:34,940] You'll never get the average.
+- [01:36:35,160 - 01:36:38,760] So the last thing you expect is the expectation value.
+- [01:36:40,160 - 01:36:42,820] It should not be called the expectation value.
+- [01:36:43,060 - 01:36:43,740] Even worse,
+- [01:36:43,740 - 01:36:47,880] Murray-Galman insists on calling it the expected value.
+- [01:36:48,600 - 01:36:52,620] It is not the expected value.
+- [01:36:52,780 - 01:36:55,200] It's the average value that we're defining,
+- [01:36:55,200 - 01:36:56,420] that I'm going to define now.
+- [01:36:56,820 - 01:37:02,840] So let me define for you the average value
+- [01:37:03,520 - 01:37:06,760] by first writing down a mathematical expression for it
+- [01:37:06,760 - 01:37:07,790] and then showing you that
+- [01:37:07,790 - 01:37:08,820] it really is the average value.
+- [01:37:08,940 - 01:37:10,520] Suppose you have some observable K,
+- [01:37:11,140 - 01:37:12,260] any observable whatever,
+- [01:37:12,480 - 01:37:13,620] Hermitian operator K.
+- [01:37:15,740 - 01:37:17,100] And I have some state value.
+- [01:37:17,200 - 01:37:18,640] It could be the position operator.
+- [01:37:18,860 - 01:37:20,080] It could be the momentum operator.
+- [01:37:20,320 - 01:37:22,280] It could be one of our polarization operators.
+- [01:37:22,880 - 01:37:25,100] The only thing about it is that it's Hermitian,
+- [01:37:25,200 - 01:37:26,820] and it corresponds to some observable.
+- [01:37:26,900 - 01:37:31,560] It has a collection of eigenvectors and eigenvalues,
+- [01:37:31,860 - 01:37:33,800] lambda n and n.
+- [01:37:35,499 - 01:37:37,560] This is the observable.
+- [01:37:37,620 - 01:37:38,920] Here are its eigenvalues.
+- [01:37:39,180 - 01:37:40,380] Here are its eigenvectors.
+- [01:37:40,840 - 01:37:43,680] K acting on the eigenvector
+- [01:37:43,680 - 01:37:46,520] n gives lambda n times n.
+- [01:37:46,720 - 01:37:47,780] That's the definition.
+- [01:37:48,320 - 01:37:50,900] Now take any state whatever.
+- [01:37:51,200 - 01:37:52,080] I'll call it psi.
+- [01:37:54,200 - 01:37:55,280] Operate with K.
+- [01:37:57,660 - 01:37:58,940] K is an operator.
+- [01:37:59,200 - 01:38:01,680] It hits any vector and creates a new vector.
+- [01:38:01,840 - 01:38:05,580] And then take its inner product with psi itself again.
+- [01:38:05,940 - 01:38:07,000] In other words,
+- [01:38:07,000 - 01:38:07,820] it's a sandwich
+- [01:38:07,820 - 01:38:09,750] where the bread is the
+- [01:38:09,750 - 01:38:11,680] bra vector and ket vector psi,
+- [01:38:12,020 - 01:38:16,080] and the bologna in the middle is the observable K.
+- [01:38:17,560 - 01:38:18,160] Hmm?
+- [01:38:18,760 - 01:38:19,360] Star?
+- [01:38:19,360 - 01:38:19,500] Star?
+- [01:38:21,900 - 01:38:22,540] No.
+- [01:38:22,540 - 01:38:23,640] No star.
+- [01:38:24,460 - 01:38:25,100] No.
+- [01:38:25,100 - 01:38:26,620] K is a Hermitian thing.
+- [01:38:27,160 - 01:38:27,800] Oh.
+- [01:38:29,600 - 01:38:30,240] Yeah.
+- [01:38:30,360 - 01:38:33,580] The bra means that it's complex conjugated.
+- [01:38:33,660 - 01:38:36,280] It effectively means it's complex conjugated.
+- [01:38:36,340 - 01:38:37,100] Whenever you see a bra,
+- [01:38:37,100 - 01:38:39,100] it always implies complex conjugation.
+- [01:38:39,160 - 01:38:41,200] Just another symbol for complex conjugation.
+- [01:38:41,560 - 01:38:42,380] All right.
+- [01:38:42,540 - 01:38:44,200] Let's calculate this.
+- [01:38:44,400 - 01:38:48,820] Let's calculate it by inserting complete sets of states.
+- [01:38:48,820 - 01:38:51,220] Remember that these n vectors
+- [01:38:51,220 - 01:38:53,620] here are a complete orthonormal family,
+- [01:38:53,840 - 01:38:56,080] a basis of vectors.
+- [01:38:56,440 - 01:38:58,880] And let me just remind you of the basic rule
+- [01:38:59,599 - 01:39:01,959] that if I make the
+- [01:39:01,959 - 01:39:04,320] dyad nn and sum over n,
+- [01:39:05,460 - 01:39:07,780] that's just equal to the identity operator
+- [01:39:08,860 - 01:39:10,990] and can be stuck into any
+- [01:39:10,990 - 01:39:13,120] expression for free without changing it.
+- [01:39:14,300 - 01:39:16,860] Since n is a summation index,
+- [01:39:16,860 - 01:39:18,960] I could also call it m.
+- [01:39:20,120 - 01:39:22,460] It would still be the identity operator.
+- [01:39:22,580 - 01:39:23,680] It doesn't matter what I call this.
+- [01:39:23,780 - 01:39:24,780] It's a summation index.
+- [01:39:25,680 - 01:39:26,240] Okay.
+- [01:39:26,460 - 01:39:30,260] Let's put such a basis of vectors in here.
+- [01:39:32,940 - 01:39:34,500] Psi k hat.
+- [01:39:35,160 - 01:39:36,780] And now right over here,
+- [01:39:38,919 - 01:39:44,820] nn psi summed over n.
+- [01:39:44,820 - 01:39:47,300] I have not changed it.
+- [01:39:47,500 - 01:39:48,680] This is equal.
+- [01:39:48,840 - 01:39:50,460] This is equal to this.
+- [01:39:51,040 - 01:39:54,680] But now what does k do when it hits n?
+- [01:39:56,400 - 01:39:57,100] Lambda.
+- [01:39:57,560 - 01:40:03,360] k on n equals lambda n on n.
+- [01:40:04,400 - 01:40:09,360] So we can rewrite this as sum on n,
+- [01:40:11,620 - 01:40:12,320] psi,
+- [01:40:16,660 - 01:40:17,180] n,
+- [01:40:18,740 - 01:40:19,260] n,
+- [01:40:20,500 - 01:40:21,020] psi,
+- [01:40:22,559 - 01:40:23,600] lambda n.
+- [01:40:24,360 - 01:40:26,520] What I've done is I've said that k,
+- [01:40:26,700 - 01:40:27,660] when it hits n,
+- [01:40:27,940 - 01:40:30,900] just multiplies it by the number lambda n.
+- [01:40:31,140 - 01:40:33,140] Now n is still inside the sum.
+- [01:40:37,500 - 01:40:38,020] Okay.
+- [01:40:38,020 - 01:40:38,740] Let's erase this.
+- [01:40:40,679 - 01:40:42,160] Everybody see what I did?
+- [01:40:42,280 - 01:40:45,820] I stuck the complete basis n between k and psi.
+- [01:40:46,700 - 01:40:48,340] Then I said that k,
+- [01:40:48,420 - 01:40:49,200] when it hits n,
+- [01:40:49,400 - 01:40:51,620] just multiplies by lambda n.
+- [01:40:54,020 - 01:40:58,200] Now what is this psi in a product with n
+- [01:40:59,059 - 01:41:01,340] times n in a product with psi?
+- [01:41:02,200 - 01:41:03,360] This is,
+- [01:41:08,759 - 01:41:16,320] psi n times its complex conjugate times lambda n.
+- [01:41:17,000 - 01:41:20,180] And what is psi n times its complex conjugate?
+- [01:41:22,880 - 01:41:24,080] It's a probability.
+- [01:41:25,360 - 01:41:28,500] The inner product of a state vector
+- [01:41:28,500 - 01:41:31,640] with a basis vector representing an observable k
+- [01:41:31,640 - 01:41:33,260] is the probability
+- [01:41:34,599 - 01:41:37,980] that the system has eigenvalue lambda n.
+- [01:41:38,300 - 01:41:39,720] So what this is,
+- [01:41:41,559 - 01:41:42,860] is it's the sum
+- [01:41:44,679 - 01:41:45,640] on n
+- [01:41:45,640 - 01:41:49,080] of the probability that if you were to measure k,
+- [01:41:49,280 - 01:41:51,180] you would get the nth eigenvalue
+- [01:41:51,180 - 01:41:53,360] times the nth eigenvalue.
+- [01:41:55,720 - 01:41:56,740] For example,
+- [01:41:57,839 - 01:42:00,040] if I plot lambda n this way,
+- [01:42:00,100 - 01:42:01,580] these are the lambdas,
+- [01:42:02,820 - 01:42:04,020] here's lambda 1,
+- [01:42:04,200 - 01:42:04,740] lambda 2,
+- [01:42:04,900 - 01:42:05,440] lambda 3,
+- [01:42:05,640 - 01:42:06,280] lambda 4,
+- [01:42:06,440 - 01:42:07,100] lambda 5,
+- [01:42:08,499 - 01:42:10,900] and each one has a probability.
+- [01:42:11,280 - 01:42:12,280] Here's the probabilities.
+- [01:42:14,580 - 01:42:15,220] Just,
+- [01:42:18,380 - 01:42:20,260] what do you get if you
+- [01:42:21,460 - 01:42:24,500] add up all the probabilities times the eigenvalue?
+- [01:42:24,700 - 01:42:26,300] You get the average,
+- [01:42:27,500 - 01:42:28,580] the average
+- [01:42:28,580 - 01:42:31,500] of lambda.
+- [01:42:33,440 - 01:42:34,480] In other words,
+- [01:42:34,480 - 01:42:37,900] it's the probability times the thing which you're measuring,
+- [01:42:38,580 - 01:42:39,560] summed over all the,
+- [01:42:39,660 - 01:42:42,280] is this obvious to everybody?
+- [01:42:45,319 - 01:42:48,380] That if you sum over all the possible values
+- [01:42:48,380 - 01:42:49,740] that you can get for a measurement,
+- [01:42:50,919 - 01:42:52,319] you sum over all the possible
+- [01:42:52,319 - 01:42:53,720] values you get for a measurement,
+- [01:42:54,360 - 01:42:56,760] with the value for the measurement that you get,
+- [01:42:56,760 - 01:42:59,560] times the probability that you get that value,
+- [01:42:59,740 - 01:43:01,560] that is called the average.
+- [01:43:02,520 - 01:43:03,940] The average of lambda,
+- [01:43:04,480 - 01:43:05,500] or you could say
+- [01:43:05,500 - 01:43:07,740] that it's the average of k,
+- [01:43:08,080 - 01:43:09,460] of the observable k.
+- [01:43:11,020 - 01:43:11,980] Better yet,
+- [01:43:13,520 - 01:43:15,240] the quantum mechanical notation
+- [01:43:16,019 - 01:43:18,400] is just k,
+- [01:43:19,160 - 01:43:20,960] representing this thing over here.
+- [01:43:21,700 - 01:43:23,740] This is the symbol that's often used
+- [01:43:23,740 - 01:43:25,480] for the average of a quantity,
+- [01:43:25,480 - 01:43:26,980] just bracketed between,
+- [01:43:28,260 - 01:43:31,500] without particularly writing down the vector here.
+- [01:43:31,740 - 01:43:32,980] It's just a notation,
+- [01:43:33,160 - 01:43:34,500] represents the average.
+- [01:43:34,820 - 01:43:36,500] And you can see that what it is,
+- [01:43:36,500 - 01:43:37,440] is just a sandwich
+- [01:43:37,440 - 01:43:40,720] of the observable evaluated between
+- [01:43:41,700 - 01:43:42,500] the same,
+- [01:43:42,560 - 01:43:44,980] between the bra vector and the ket vector
+- [01:43:44,980 - 01:43:46,560] representing the state of the system.
+- [01:43:47,080 - 01:43:49,060] This is why it's often useful
+- [01:43:49,060 - 01:43:51,120] to actually have these observables.
+- [01:43:51,460 - 01:43:53,080] If you're interested in calculating
+- [01:43:53,080 - 01:43:55,020] the average value of a measurement,
+- [01:43:56,420 - 01:43:58,640] then if you know the vector
+- [01:43:58,640 - 01:43:59,720] that you've prepared,
+- [01:44:00,020 - 01:44:00,500] in other words,
+- [01:44:00,500 - 01:44:01,660] if you know what you've prepared,
+- [01:44:01,960 - 01:44:02,120] psi,
+- [01:44:02,480 - 01:44:04,080] and you know the observable,
+- [01:44:04,180 - 01:44:06,300] you just sandwich it in this way.
+- [01:44:06,820 - 01:44:07,300] Okay?
+- [01:44:08,660 - 01:44:09,660] Let's do an example.
+- [01:44:11,080 - 01:44:11,800] I'm tired,
+- [01:44:11,940 - 01:44:13,460] so I'm going to do the very simplest example.
+- [01:44:14,900 - 01:44:17,260] My observable is just going to be
+- [01:44:17,960 - 01:44:19,320] 1 minus 1,
+- [01:44:19,320 - 01:44:20,320] 0,
+- [01:44:20,320 - 01:44:20,720] 0.
+- [01:44:21,360 - 01:44:23,200] This is the observable polarization
+- [01:44:24,100 - 01:44:25,420] in the xy plane.
+- [01:44:25,480 - 01:44:28,120] And now let's take something,
+- [01:44:29,800 - 01:44:33,060] the vector theta.
+- [01:44:34,520 - 01:44:35,640] In other words,
+- [01:44:35,640 - 01:44:37,620] a linear polarization polarized
+- [01:44:37,620 - 01:44:38,760] in the theta direction.
+- [01:44:39,260 - 01:44:39,980] Okay?
+- [01:44:40,060 - 01:44:42,520] What is the average value
+- [01:44:42,520 - 01:44:44,980] of this observable?
+- [01:44:45,220 - 01:44:45,800] Well,
+- [01:44:45,800 - 01:44:46,560] we take theta,
+- [01:44:46,700 - 01:44:47,900] we put p,
+- [01:44:48,900 - 01:44:51,020] and we take theta again.
+- [01:44:51,260 - 01:44:52,540] We make a sandwich.
+- [01:44:53,900 - 01:44:54,620] Okay.
+- [01:44:57,739 - 01:44:59,360] In terms of matrices,
+- [01:44:59,580 - 01:45:00,320] that's 1,
+- [01:45:00,320 - 01:45:00,580] 0,
+- [01:45:00,580 - 01:45:01,340] 0,
+- [01:45:01,340 - 01:45:01,980] 1.
+- [01:45:02,860 - 01:45:05,120] The ket vector over here is
+- [01:45:05,120 - 01:45:06,540] cosine theta,
+- [01:45:06,540 - 01:45:07,960] sine theta.
+- [01:45:09,360 - 01:45:10,460] And the bra vector
+- [01:45:10,460 - 01:45:13,020] is just the row vector,
+- [01:45:13,140 - 01:45:14,380] also cosine theta,
+- [01:45:14,380 - 01:45:15,100] sine theta.
+- [01:45:16,680 - 01:45:18,560] What do I get when I'm...
+- [01:45:18,560 - 01:45:19,500] This is minus 1,
+- [01:45:19,500 - 01:45:20,060] excuse me.
+- [01:45:21,620 - 01:45:22,180] Okay,
+- [01:45:22,180 - 01:45:23,100] just take 2 minutes
+- [01:45:23,100 - 01:45:23,880] to work it out.
+- [01:45:24,940 - 01:45:27,460] Multiplying the matrix
+- [01:45:27,460 - 01:45:28,440] by the vector,
+- [01:45:28,600 - 01:45:29,300] what does that do?
+- [01:45:29,440 - 01:45:30,760] It just changes the sign
+- [01:45:30,760 - 01:45:31,860] of the bottom entry.
+- [01:45:32,040 - 01:45:33,520] So it just gives you
+- [01:45:34,660 - 01:45:35,480] cosine theta,
+- [01:45:35,480 - 01:45:37,860] sine theta,
+- [01:45:39,840 - 01:45:41,740] times cosine theta,
+- [01:45:42,640 - 01:45:43,940] minus sine theta.
+- [01:45:45,400 - 01:45:47,160] That inner product is
+- [01:45:47,160 - 01:45:48,600] cosine squared theta,
+- [01:45:48,800 - 01:45:50,540] minus sine squared theta.
+- [01:45:58,080 - 01:45:59,860] Which is also something else.
+- [01:46:01,580 - 01:46:02,460] Cosine 2 theta.
+- [01:46:08,139 - 01:46:09,260] All right,
+- [01:46:09,260 - 01:46:10,120] so we found out
+- [01:46:10,120 - 01:46:11,060] what the average
+- [01:46:12,219 - 01:46:14,160] of this observable is.
+- [01:46:14,780 - 01:46:17,600] It clearly lies between 1 and minus 1.
+- [01:46:17,720 - 01:46:19,140] It could hardly be bigger than 1
+- [01:46:19,140 - 01:46:21,060] or smaller than minus 1.
+- [01:46:21,980 - 01:46:23,860] And depending on the direction
+- [01:46:23,880 - 01:46:24,660] of polarization,
+- [01:46:25,300 - 01:46:26,840] the average will just be
+- [01:46:26,840 - 01:46:28,500] cosine of twice the angle.
+- [01:46:30,080 - 01:46:31,400] You can check that out
+- [01:46:31,400 - 01:46:33,040] and see if it makes any sense to you
+- [01:46:33,040 - 01:46:35,940] by trying it out for some angles
+- [01:46:35,940 - 01:46:37,060] and seeing if it makes sense.
+- [01:46:37,560 - 01:46:39,180] But we could do the same thing
+- [01:46:39,180 - 01:46:41,040] with any observable.
+- [01:46:42,740 - 01:46:44,520] Any observable and any vector,
+- [01:46:44,660 - 01:46:45,840] we could calculate the...
+- [01:46:46,460 - 01:46:47,440] Not the probability,
+- [01:46:47,740 - 01:46:51,700] but the average of the observable.
+- [01:46:52,240 - 01:46:53,860] I will use the standard
+- [01:46:53,880 - 01:46:56,060] terminology and call it
+- [01:46:56,060 - 01:46:57,140] the expectation value,
+- [01:46:57,460 - 01:46:58,900] but keep in mind that
+- [01:46:58,900 - 01:47:00,240] that really is a misnomer.
+- [01:47:00,360 - 01:47:01,960] It should be just the average value.
+- [01:47:03,760 - 01:47:04,340] Good.
+- [01:47:04,460 - 01:47:05,680] I think we're finished for tonight.
+- [01:47:12,400 - 01:47:13,780] The preceding program
+- [01:47:13,780 - 01:47:15,560] was brought to you by Stanford
+- [01:47:15,560 - 01:47:16,920] on iTunes U,
+- [01:47:17,080 - 01:47:18,620] and is copyrighted
+- [01:47:18,620 - 01:47:19,720] by the Board of Trustees
+- [01:47:19,720 - 01:47:22,620] of the Leland Stanford Junior University.
+- [01:47:22,620 - 01:47:24,800] Please visit us at
+- [01:47:24,800 - 01:47:27,060] itunes.stanford.edu.
