@@ -1,0 +1,2934 @@
+# Transcript
+
+Source: core/quantum_mechanics/2012_winter_modern_physics_stanford/031 - Lecture 2 ｜ Modern Physics： Quantum Mechanics (Stanford) [KokditqpAJg].mp4
+
+- [00:00:06,699 - 00:00:09,800] This program is brought to you by Stanford University.
+- [00:00:10,220 - 00:00:12,740] Please visit us at stanford.edu.
+- [00:00:17,119 - 00:00:18,920] The question is,
+- [00:00:18,920 - 00:00:22,140] can you defeat the uncertainty principle in the following
+- [00:00:22,140 - 00:00:22,480] way?
+- [00:00:23,060 - 00:00:26,140] You measure the position of an
+- [00:00:26,140 - 00:00:29,220] object first to a poor accuracy.
+- [00:00:29,220 - 00:00:30,800] It's somewhere in here,
+- [00:00:30,800 - 00:00:33,460] somewhere within some region of size,
+- [00:00:33,460 - 00:00:34,680] let's call it delta.
+- [00:00:36,960 - 00:00:39,100] And then you wait a long,
+- [00:00:39,100 - 00:00:40,100] long time,
+- [00:00:40,100 - 00:00:43,420] and the particle is someplace else,
+- [00:00:43,420 - 00:00:43,860] presumably,
+- [00:00:43,860 - 00:00:44,760] and
+- [00:00:44,760 - 00:00:47,200] you measure it again with the same poor accuracy.
+- [00:00:47,660 - 00:00:48,900] So it's over here,
+- [00:00:48,900 - 00:00:52,620] somewhere in delta again.
+- [00:00:52,820 - 00:00:54,520] How far did it move?
+- [00:00:54,980 - 00:00:56,200] The distance that,
+- [00:00:56,200 - 00:00:56,360] oh,
+- [00:00:56,360 - 00:00:58,840] and let's say we discover after having measured it.
+- [00:00:59,220 - 00:01:03,980] That the center of these fuzzy regions,
+- [00:01:03,980 - 00:01:06,960] the center of these fuzzy regions are separated
+- [00:01:06,960 - 00:01:08,000] by some distance,
+- [00:01:08,000 - 00:01:08,920] let's call it L.
+- [00:01:08,920 - 00:01:11,260] All right,
+- [00:01:11,260 - 00:01:13,520] so how well do we know the position?
+- [00:01:14,280 - 00:01:15,460] We know the position,
+- [00:01:15,460 - 00:01:17,880] or we know the separation.
+- [00:01:18,200 - 00:01:19,160] Let's talk about the separation.
+- [00:01:19,420 - 00:01:23,130] We know the separation is L
+- [00:01:23,130 - 00:01:26,840] plus or minus something of order delta.
+- [00:01:27,260 - 00:01:28,320] In other words,
+- [00:01:28,320 - 00:01:29,200] the delta is the distance.
+- [00:01:29,200 - 00:01:30,860] The distance of separation is L
+- [00:01:30,860 - 00:01:32,520] with a fuzziness or an uncertainty,
+- [00:01:32,520 - 00:01:34,660] which is of order delta.
+- [00:01:35,160 - 00:01:36,780] Two delta or a half delta,
+- [00:01:36,780 - 00:01:37,980] that's not the important thing.
+- [00:01:38,700 - 00:01:40,090] Now we want to find
+- [00:01:40,090 - 00:01:41,480] out how fast it was moving,
+- [00:01:41,480 - 00:01:44,300] so we divide it by the time.
+- [00:01:45,980 - 00:01:48,660] That's the amount of time between the two measurements.
+- [00:01:53,020 - 00:01:54,960] What's the uncertainty in the velocity?
+- [00:01:55,360 - 00:01:57,020] The uncertainty in the velocity,
+- [00:01:57,020 - 00:01:58,700] the velocity is L over T.
+- [00:02:01,980 - 00:02:02,580] So it's the average velocity,
+- [00:02:02,580 - 00:02:04,920] plus or minus delta over T.
+- [00:02:05,760 - 00:02:07,720] And if we make T big enough,
+- [00:02:07,720 - 00:02:09,520] if we make T big enough,
+- [00:02:09,520 - 00:02:12,360] delta over T can be arbitrarily
+- [00:02:12,360 - 00:02:12,760] small.
+- [00:02:13,880 - 00:02:15,080] So it seems,
+- [00:02:15,080 - 00:02:15,340] then,
+- [00:02:15,340 - 00:02:19,120] that we can measure the position to accuracy delta,
+- [00:02:19,120 - 00:02:20,560] but the velocity
+- [00:02:20,560 - 00:02:22,080] to arbitrary accuracy,
+- [00:02:22,080 - 00:02:25,900] because delta over T gets smaller and smaller.
+- [00:02:26,200 - 00:02:26,800] Now,
+- [00:02:26,800 - 00:02:27,940] the answer to this is.
+- [00:02:29,200 - 00:02:30,440] done is we've measured,
+- [00:02:30,440 - 00:02:32,970] what we wanted to do was
+- [00:02:32,970 - 00:02:35,500] to measure the position and velocity
+- [00:02:36,840 - 00:02:40,920] at a time just before the measurement was done.
+- [00:02:40,920 - 00:02:43,560] We want to know at a particular instant
+- [00:02:43,560 - 00:02:44,100] of time,
+- [00:02:44,100 - 00:02:44,640] right now,
+- [00:02:44,640 - 00:02:46,980] I want to try to measure
+- [00:02:46,980 - 00:02:49,320] the position and velocity sort of simultaneously.
+- [00:02:50,160 - 00:02:52,600] Or I want to know both position and velocity.
+- [00:02:52,600 - 00:02:53,500] Well,
+- [00:02:53,500 - 00:02:57,740] the problem here is that you don't know
+- [00:02:57,740 - 00:03:01,860] the velocity or the momentum as accurately as you thought,
+- [00:03:01,860 - 00:03:04,540] not if you meant the velocity
+- [00:03:04,540 - 00:03:07,060] before you measured,
+- [00:03:07,060 - 00:03:08,800] before you began the measurement.
+- [00:03:08,800 - 00:03:10,960] Before you began the measurement,
+- [00:03:11,100 - 00:03:13,140] the particle had a certain momentum.
+- [00:03:13,140 - 00:03:16,960] And then in order to measure it to within accuracy
+- [00:03:16,960 - 00:03:17,540] delta,
+- [00:03:17,540 - 00:03:19,910] you had to hit it with
+- [00:03:19,910 - 00:03:22,280] a photon of wavelength delta or smaller,
+- [00:03:22,280 - 00:03:24,160] and that in itself
+- [00:03:24,790 - 00:03:27,720] will change the velocity.
+- [00:03:27,720 - 00:03:30,110] So you're measuring the velocity by an
+- [00:03:30,110 - 00:03:32,500] amount which is given by the uncertainty principle,
+- [00:03:32,760 - 00:03:33,800] h bar over delta.
+- [00:03:33,800 - 00:03:36,520] What you're doing here is
+- [00:03:36,520 - 00:03:39,240] you're measuring the velocity accurately,
+- [00:03:39,460 - 00:03:42,000] but the velocity after you made
+- [00:03:42,000 - 00:03:44,540] the first initial measurement of position.
+- [00:03:44,540 - 00:03:46,280] That velocity
+- [00:03:46,280 - 00:03:49,460] is a little bit different than the initial
+- [00:03:49,460 - 00:03:52,640] velocity because in order to measure the position,
+- [00:03:52,880 - 00:03:55,940] you had to hit it with a photon.
+- [00:03:55,940 - 00:03:58,620] So you're not measuring what you wanted to measure,
+- [00:03:58,620 - 00:04:00,400] which was the original position and
+- [00:04:00,400 - 00:04:01,440] velocity simultaneously.
+- [00:04:01,440 - 00:04:05,000] You're measuring the position now to some accuracy,
+- [00:04:05,000 - 00:04:06,100] but then
+- [00:04:06,100 - 00:04:08,240] the velocity after you gave
+- [00:04:08,240 - 00:04:10,380] it a shot with the photon.
+- [00:04:10,380 - 00:04:14,440] So it's not what the uncertainty
+- [00:04:14,440 - 00:04:15,740] principle really talks about.
+- [00:04:15,740 - 00:04:17,420] Okay,
+- [00:04:17,420 - 00:04:17,940] let's...
+- [00:04:17,940 - 00:04:20,420] Yeah?
+- [00:04:21,220 - 00:04:21,860] Yeah?
+- [00:04:36,220 - 00:04:36,660] Yes.
+- [00:04:37,460 - 00:04:37,900] Yes,
+- [00:04:37,900 - 00:04:40,840] but you don't know the velocity anymore because...
+- [00:04:40,840 - 00:04:42,520] You don't know the velocity right before you hit it.
+- [00:04:42,600 - 00:04:42,760] Well,
+- [00:04:42,760 - 00:04:44,480] you don't know the velocity afterwards.
+- [00:04:44,480 - 00:04:50,940] So if you try to repeat the measurement of
+- [00:04:50,940 - 00:04:52,160] velocity to check it,
+- [00:04:52,160 - 00:04:54,440] you discover that it was a little different.
+- [00:04:54,440 - 00:04:55,420] It's a question of
+- [00:04:55,420 - 00:04:55,920] repeatability.
+- [00:04:55,920 - 00:05:07,080] You know already that with this simple,
+- [00:05:07,080 - 00:05:11,200] summoned sensor,
+- [00:05:11,220 - 00:05:11,380] here .
+- [00:05:11,380 - 00:05:18,640] It's different since in this case the battery's on
+- [00:05:18,640 - 00:05:25,900] little rut frets not equal to three Pre betrayal
+- [00:05:25,920 - 00:05:28,190] bit of a kick to the
+- [00:05:28,190 - 00:05:30,460] velocity and you won't know it afterwards.
+- [00:05:30,460 - 00:05:32,260] It says what it says,
+- [00:05:32,380 - 00:05:33,460] and you're perfectly right.
+- [00:05:33,460 - 00:05:33,880] I mean,
+- [00:05:33,880 - 00:05:34,520] there's something funny,
+- [00:05:34,520 - 00:05:36,060] but it says what it says,
+- [00:05:36,160 - 00:05:39,130] and what it says in this case is you
+- [00:05:39,130 - 00:05:42,100] can't check that that was the velocity without changing
+- [00:05:42,100 - 00:05:44,340] it by an amount of order h-bar over delta.
+- [00:05:44,340 - 00:05:47,160] So you may think that that was the velocity.
+- [00:05:48,120 - 00:05:49,240] I think I measured it,
+- [00:05:49,240 - 00:05:50,520] but now you try to check it.
+- [00:05:50,520 - 00:05:52,520] And in classical physics,
+- [00:05:52,520 - 00:05:53,660] you can
+- [00:05:53,660 - 00:05:56,250] measure the position arbitrarily gently
+- [00:05:56,250 - 00:05:58,840] and not affect the velocity.
+- [00:05:58,840 - 00:06:00,380] In quantum mechanics,
+- [00:06:00,440 - 00:06:00,800] not so.
+- [00:06:00,800 - 00:06:02,480] Okay,
+- [00:06:02,480 - 00:06:03,040] so let's see.
+- [00:06:03,040 - 00:06:05,980] So are we ready to begin?
+- [00:06:05,980 - 00:06:06,300] Yeah,
+- [00:06:06,300 - 00:06:06,980] we're ready to begin.
+- [00:06:06,980 - 00:06:08,460] Okay.
+- [00:06:10,780 - 00:06:14,040] What I want to do before I do anything
+- [00:06:14,040 - 00:06:17,300] else is just an exceedingly quick review of complex
+- [00:06:17,300 - 00:06:17,900] numbers.
+- [00:06:17,900 - 00:06:19,680] Just a...
+- [00:06:21,200 - 00:06:21,740] Okay.
+- [00:06:23,100 - 00:06:23,640] Okay.
+- [00:06:23,660 - 00:06:26,480] Not because I really want to teach you complex numbers.
+- [00:06:26,480 - 00:06:28,240] I presume everybody knows about complex
+- [00:06:28,240 - 00:06:28,660] numbers,
+- [00:06:28,660 - 00:06:33,480] but because...just for some notational reasons.
+- [00:06:33,480 - 00:06:38,380] Incidentally,
+- [00:06:38,380 - 00:06:39,460] we're going to be continuing
+- [00:06:40,060 - 00:06:42,640] with linear vector spaces for a while.
+- [00:06:42,640 - 00:06:44,640] It's a somewhat dry subject.
+- [00:06:44,640 - 00:06:47,060] That's the bad news.
+- [00:06:47,340 - 00:06:49,420] The good news is it's a very easy subject.
+- [00:06:49,420 - 00:06:52,800] So once you get it...
+- [00:06:53,660 - 00:06:56,120] You should be...it should be easy enough.
+- [00:06:56,120 - 00:06:56,520] Thank you,
+- [00:06:56,520 - 00:06:56,700] Michael.
+- [00:06:56,700 - 00:07:00,660] But it does pay to spend
+- [00:07:04,400 - 00:07:04,880] a...Michael,
+- [00:07:04,880 - 00:07:06,140] say hello to your mother.
+- [00:07:06,140 - 00:07:06,660] You're on TV.
+- [00:07:14,859 - 00:07:15,340] Okay.
+- [00:07:15,340 - 00:07:17,660] So let's just remind ourselves very quickly
+- [00:07:17,660 - 00:07:19,980] about a property or two of complex
+- [00:07:19,980 - 00:07:20,420] numbers.
+- [00:07:20,420 - 00:07:22,540] Not all about complex numbers,
+- [00:07:22,540 - 00:07:23,540] just one or two properties.
+- [00:07:23,540 - 00:07:23,640] I'm going to give you
+- [00:07:23,640 - 00:07:24,930] a couple of examples of some of the properties
+- [00:07:24,930 - 00:07:26,220] that I want to remind you of because we'll
+- [00:07:26,220 - 00:07:27,960] see things very similar to them later.
+- [00:07:27,960 - 00:07:29,220] Okay.
+- [00:07:29,220 - 00:07:29,760] Ah,
+- [00:07:29,760 - 00:07:30,880] before we even do that,
+- [00:07:30,880 - 00:07:32,220] let me just mention
+- [00:07:32,220 - 00:07:33,780] about linear vector spaces.
+- [00:07:33,780 - 00:07:39,520] Linear vector spaces are composed of objects which you can
+- [00:07:39,520 - 00:07:42,160] multiply by numbers and add.
+- [00:07:42,160 - 00:07:45,280] You can add them and multiply them by numbers.
+- [00:07:45,280 - 00:07:47,000] And in fact,
+- [00:07:47,000 - 00:07:49,640] complex vector spaces are things that you
+- [00:07:49,640 - 00:07:52,280] can multiply by complex numbers and you can
+- [00:07:52,280 - 00:07:52,740] add them.
+- [00:07:52,740 - 00:07:53,620] That's the...
+- [00:07:53,620 - 00:07:55,600] That's what defines a complex vector space.
+- [00:07:55,600 - 00:07:58,480] The simplest complex vector space is,
+- [00:07:58,480 - 00:07:58,800] of course,
+- [00:07:58,800 - 00:07:59,800] just the complex numbers.
+- [00:07:59,800 - 00:08:01,520] The complex numbers,
+- [00:08:01,520 - 00:08:04,100] you can multiply them by other complex numbers
+- [00:08:04,100 - 00:08:05,100] and you can add them.
+- [00:08:05,100 - 00:08:07,800] So the complex numbers by themselves
+- [00:08:07,800 - 00:08:10,500] are a very simple linear vector
+- [00:08:10,500 - 00:08:10,880] space.
+- [00:08:10,880 - 00:08:13,240] I just want to tell you that and
+- [00:08:13,240 - 00:08:15,600] then we can examine the complex numbers a little
+- [00:08:15,600 - 00:08:15,840] bit.
+- [00:08:17,739 - 00:08:23,220] A complex number is just two real numbers.
+- [00:08:23,620 - 00:08:26,060] Added together with i,
+- [00:08:26,060 - 00:08:28,620] x plus i y,
+- [00:08:28,620 - 00:08:30,040] x is called the real part,
+- [00:08:30,040 - 00:08:32,039] y is called the imaginary part,
+- [00:08:32,240 - 00:08:34,419] and i is the square root of minus one.
+- [00:08:34,419 - 00:08:36,580] All arithmetic,
+- [00:08:36,580 - 00:08:38,480] or let's call it algebra,
+- [00:08:38,480 - 00:08:39,320] all
+- [00:08:39,320 - 00:08:40,340] elementary algebra,
+- [00:08:40,340 - 00:08:42,740] multiplication of complex numbers,
+- [00:08:42,740 - 00:08:44,740] addition of complex numbers,
+- [00:08:44,740 - 00:08:46,000] is exactly
+- [00:08:46,000 - 00:08:48,280] the same as if they were ordinary numbers,
+- [00:08:48,280 - 00:08:51,520] except you must remember that i squared is
+- [00:08:51,520 - 00:08:52,100] minus one.
+- [00:08:52,100 - 00:08:52,740] That's all.
+- [00:08:52,740 - 00:08:53,320] That's...
+- [00:08:53,320 - 00:08:53,600] That's all.
+- [00:08:53,600 - 00:08:53,600] That's all.
+- [00:08:53,600 - 00:08:53,600] That's all.
+- [00:08:53,600 - 00:08:53,600] That's all.
+- [00:08:53,600 - 00:08:53,600] That's all.
+- [00:08:53,600 - 00:08:53,600] That's all.
+- [00:08:53,600 - 00:08:53,600] That's all.
+- [00:08:53,600 - 00:08:53,600] That's
+- [00:08:53,620 - 00:08:53,720] all.
+- [00:08:53,720 - 00:08:54,000] That's all.
+- [00:08:54,000 - 00:08:54,000] That's all.
+- [00:08:54,000 - 00:08:54,000] That's all.
+- [00:08:54,000 - 00:08:54,000] That's all.
+- [00:08:54,000 - 00:08:54,000] That's all.
+- [00:08:54,000 - 00:08:54,000] That's all.
+- [00:08:54,000 - 00:08:54,000] All of that
+- [00:08:54,000 - 00:08:55,960] that's the theory of complex numbers in a nutshell.
+- [00:08:55,960 - 00:08:59,680] Every complex number can be represented
+- [00:08:59,680 - 00:09:01,660] as a point on the XY plane.
+- [00:09:01,660 - 00:09:05,780] Don't confuse this XY plane with any vector space.
+- [00:09:05,780 - 00:09:06,660] It's
+- [00:09:06,660 - 00:09:07,780] just the XY plane.
+- [00:09:08,060 - 00:09:10,560] So every point in the complex
+- [00:09:10,560 - 00:09:13,060] plane has an x and a y,
+- [00:09:13,060 - 00:09:14,120] and it can be plotted.
+- [00:09:14,120 - 00:09:16,000] And it's
+- [00:09:16,000 - 00:09:17,320] usual to call it z.
+- [00:09:17,640 - 00:09:20,080] It's common terminology for complex numbers.
+- [00:09:20,700 - 00:09:22,600] If we wanted to remember...
+- [00:09:22,600 - 00:09:24,680] the complex numbers of vector spaces,
+- [00:09:24,680 - 00:09:28,290] that they can be added and use the notation
+- [00:09:28,290 - 00:09:31,900] that we started to use last time for vector spaces,
+- [00:09:33,120 - 00:09:37,510] namely that a vector in a vector
+- [00:09:37,510 - 00:09:41,900] space is often represented in quantum mechanics,
+- [00:09:41,900 - 00:09:42,620] in any case,
+- [00:09:42,620 - 00:09:43,700] in a complex vector space,
+- [00:09:44,000 - 00:09:45,280] by a ket vector,
+- [00:09:45,280 - 00:09:46,260] just a symbol,
+- [00:09:46,260 - 00:09:49,180] Dirac's famous symbol that looks like this,
+- [00:09:49,180 - 00:09:50,880] then we might just describe,
+- [00:09:50,880 - 00:09:56,460] we might just say the complex numbers are very,
+- [00:09:56,460 - 00:09:59,680] very simple vectors in a simple vector space.
+- [00:10:00,020 - 00:10:00,460] In fact,
+- [00:10:00,460 - 00:10:00,960] as we'll see,
+- [00:10:00,960 - 00:10:03,100] it's just a one-dimensional vector space,
+- [00:10:03,100 - 00:10:04,780] as we'll see.
+- [00:10:04,900 - 00:10:05,720] Complex numbers,
+- [00:10:05,720 - 00:10:09,880] just in the same sense that the real numbers can
+- [00:10:09,880 - 00:10:14,040] be thought of as vectors on a line in one dimension.
+- [00:10:14,240 - 00:10:17,960] The complex numbers are a complex vector space.
+- [00:10:19,540 - 00:10:20,800] Of one dimension.
+- [00:10:21,460 - 00:10:23,640] We'll find out eventually what dimension means,
+- [00:10:23,640 - 00:10:24,600] but for the moment,
+- [00:10:24,600 - 00:10:27,080] let's just not worry about that.
+- [00:10:27,220 - 00:10:27,620] Now,
+- [00:10:27,620 - 00:10:29,970] every complex number has associated
+- [00:10:29,970 - 00:10:32,320] with it a complex conjugate.
+- [00:10:32,640 - 00:10:35,500] The complex conjugate is usually represented
+- [00:10:35,500 - 00:10:38,360] by putting a star over it,
+- [00:10:39,320 - 00:10:44,240] and it's just the same real part minus Iy.
+- [00:10:45,160 - 00:10:46,600] And so what it is,
+- [00:10:46,600 - 00:10:47,640] is it's the reflection,
+- [00:10:49,760 - 00:10:52,650] it's the reflection as if
+- [00:10:52,650 - 00:10:55,540] the horizontal axis was a mirror.
+- [00:10:56,560 - 00:11:00,360] Just the reflection about the x-axis,
+- [00:11:00,360 - 00:11:03,140] that's called z star.
+- [00:11:06,080 - 00:11:08,440] Another way that we could represent it,
+- [00:11:08,440 - 00:11:11,360] if we were using the notation of complex vector spaces,
+- [00:11:12,160 - 00:11:16,300] would be that way.
+- [00:11:16,880 - 00:11:18,180] This is called the Bra vector.
+- [00:11:19,180 - 00:11:20,240] This is called the ket vector.
+- [00:11:20,360 - 00:11:21,420] When you put one next to another,
+- [00:11:21,420 - 00:11:23,140] it's called a bra ket or a bracket.
+- [00:11:26,520 - 00:11:27,000] Really,
+- [00:11:27,000 - 00:11:30,490] the Bra vectors are really basically
+- [00:11:30,490 - 00:11:33,980] just complex conjugates of the ket vectors.
+- [00:11:34,440 - 00:11:35,930] So if we were just
+- [00:11:35,930 - 00:11:37,420] dealing with a one-dimensional vector space,
+- [00:11:37,420 - 00:11:38,580] complex vector space,
+- [00:11:38,580 - 00:11:39,640] just the complex numbers,
+- [00:11:40,000 - 00:11:42,680] we might easily use the notation z and z star,
+- [00:11:42,680 - 00:11:45,120] or ket z and Bra z,
+- [00:11:45,120 - 00:11:47,120] and they would mean essentially the same thing.
+- [00:11:49,180 - 00:11:49,520] Okay,
+- [00:11:49,520 - 00:11:52,910] let me just point out one
+- [00:11:52,910 - 00:11:56,300] more important property that we will use,
+- [00:11:56,340 - 00:11:58,840] and we'll use the analog of it for vector spaces.
+- [00:11:59,700 - 00:12:03,230] The reason I'm doing this now is to do something in
+- [00:12:03,230 - 00:12:06,760] a very simple context that we'll do over in more complicated contexts.
+- [00:12:07,320 - 00:12:09,040] Supposing I have two complex numbers,
+- [00:12:09,040 - 00:12:09,980] z1 and z2,
+- [00:12:09,980 - 00:12:11,160] and I multiply them together.
+- [00:12:12,120 - 00:12:13,700] Let's just do it over here quickly.
+- [00:12:14,700 - 00:12:17,180] z1 is x1 plus Iy1.
+- [00:12:18,080 - 00:12:18,680] z1 is x1 plus Iy1.
+- [00:12:18,680 - 00:12:22,400] z2 is x2 plus Iy2.
+- [00:12:25,640 - 00:12:26,440] Thank you.
+- [00:12:27,820 - 00:12:30,640] We multiply these together just to do it once.
+- [00:12:30,900 - 00:12:31,720] It's x1,
+- [00:12:31,720 - 00:12:33,640] x and y are both real.
+- [00:12:33,740 - 00:12:37,120] x1 times x2 is x1x2.
+- [00:12:39,000 - 00:12:39,820] That's real.
+- [00:12:40,500 - 00:12:42,840] We have also another term in
+- [00:12:42,840 - 00:12:45,180] the real part that's y1 times y2,
+- [00:12:45,180 - 00:12:46,360] but it has a minus sign
+- [00:12:46,360 - 00:12:48,680] because i times i is minus 1,
+- [00:12:48,680 - 00:12:51,300] so that's minus y1 y2.
+- [00:12:51,560 - 00:12:54,700] This is the real part of the product.
+- [00:12:54,940 - 00:12:57,560] And then there's the imaginary part plus i,
+- [00:12:57,560 - 00:12:59,160] and what multiplies i?
+- [00:12:59,420 - 00:13:03,860] i gets multiplied by x1 y2 plus y1 x2.
+- [00:13:06,200 - 00:13:10,760] x1 y2 plus x2 y1.
+- [00:13:12,140 - 00:13:12,700] All right.
+- [00:13:12,720 - 00:13:15,360] So here we would take the product,
+- [00:13:15,360 - 00:13:18,560] and separate it into a real and imaginary part,
+- [00:13:18,780 - 00:13:20,610] and that defines for us the
+- [00:13:20,610 - 00:13:22,440] real and imaginary part of the product.
+- [00:13:23,620 - 00:13:25,440] A very simple theorem.
+- [00:13:25,820 - 00:13:26,720] It's a theorem.
+- [00:13:26,720 - 00:13:27,560] It's hardly a theorem.
+- [00:13:27,720 - 00:13:29,120] It's just a little exercise.
+- [00:13:30,300 - 00:13:33,840] The complex conjugate of a product.
+- [00:13:34,400 - 00:13:35,560] How do you get it?
+- [00:13:35,740 - 00:13:38,410] What you do is you just
+- [00:13:38,410 - 00:13:41,080] change each plus i to minus i.
+- [00:13:42,160 - 00:13:42,760] Okay.
+- [00:13:42,860 - 00:13:45,080] Each plus i becomes minus i.
+- [00:13:45,360 - 00:13:49,100] That gives you the complex conjugates of z1 and z2.
+- [00:13:49,340 - 00:13:50,460] And what will it do?
+- [00:13:50,740 - 00:13:52,240] You work your way through this,
+- [00:13:52,240 - 00:13:54,180] and it will just change the i over here.
+- [00:13:54,280 - 00:13:54,860] Nothing else.
+- [00:13:56,400 - 00:13:58,760] The simple Lemma theorem,
+- [00:13:58,760 - 00:13:59,860] whatever it is,
+- [00:13:59,900 - 00:14:03,970] is just that the complex conjugate of
+- [00:14:03,970 - 00:14:08,040] z1 z2 is just z1 star z2 star.
+- [00:14:09,680 - 00:14:10,680] In other words,
+- [00:14:10,680 - 00:14:12,460] you multiply the complex conjugates.
+- [00:14:12,460 - 00:14:17,620] Just for notational reasons,
+- [00:14:18,240 - 00:14:20,060] I'm going to change the order here,
+- [00:14:20,200 - 00:14:22,500] and put the 2 here and the 1 here.
+- [00:14:24,600 - 00:14:25,160] Oh,
+- [00:14:25,160 - 00:14:25,900] another example,
+- [00:14:25,900 - 00:14:27,540] another similar fact.
+- [00:14:31,180 - 00:14:33,900] What about z1 star z2?
+- [00:14:34,680 - 00:14:37,020] Supposing I take z1 star z2.
+- [00:14:37,120 - 00:14:38,200] That's a thing I can write down.
+- [00:14:38,340 - 00:14:40,560] And I take its complex conjugate.
+- [00:14:42,460 - 00:14:44,060] The complex conjugate of this product.
+- [00:14:44,380 - 00:14:48,040] The rule is just complex conjugate each factor.
+- [00:14:48,300 - 00:14:52,360] And that's just equal to z2 times z1 star.
+- [00:14:53,300 - 00:14:56,020] So when you complex conjugate a product,
+- [00:14:56,280 - 00:14:59,760] you just complex conjugate...
+- [00:15:00,460 - 00:15:01,500] Did I write it right?
+- [00:15:02,180 - 00:15:02,500] No.
+- [00:15:03,260 - 00:15:03,900] Z...
+- [00:15:04,420 - 00:15:05,260] That should just...
+- [00:15:05,260 - 00:15:05,340] Yeah.
+- [00:15:05,440 - 00:15:06,220] Thank you.
+- [00:15:07,640 - 00:15:09,120] Z2 star z1.
+- [00:15:09,780 - 00:15:11,960] Is there a way to write it here?
+- [00:15:12,160 - 00:15:13,380] If you write the exponential?
+- [00:15:14,440 - 00:15:15,240] Sure it is.
+- [00:15:15,400 - 00:15:17,080] But I don't want to do that now.
+- [00:15:17,600 - 00:15:18,120] Yeah.
+- [00:15:21,760 - 00:15:23,860] Another way to write it,
+- [00:15:23,880 - 00:15:24,960] to write the same thing,
+- [00:15:25,100 - 00:15:28,460] which generalizes to vector spaces,
+- [00:15:28,680 - 00:15:30,120] to more complicated vector spaces,
+- [00:15:30,400 - 00:15:34,300] is that if I have two complex vectors,
+- [00:15:35,140 - 00:15:36,220] let's call them,
+- [00:15:36,280 - 00:15:38,780] instead of calling them by the notation z now,
+- [00:15:39,420 - 00:15:41,720] let's just call them a and b.
+- [00:15:45,000 - 00:15:45,680] All right.
+- [00:15:45,700 - 00:15:46,660] The rule here is now,
+- [00:15:46,780 - 00:15:49,880] think of the b's as being complex conjugates
+- [00:15:49,880 - 00:15:50,940] because they're bra vectors,
+- [00:15:51,300 - 00:15:53,800] and a's as being the original vector space
+- [00:15:53,800 - 00:15:55,100] because they're ket vectors.
+- [00:15:55,560 - 00:15:56,220] All right.
+- [00:15:56,260 - 00:15:56,760] Well,
+- [00:15:56,760 - 00:15:59,820] the rule that is analogous to this
+- [00:15:59,820 - 00:16:01,760] is that if we interchange...
+- [00:16:01,760 - 00:16:01,940] Here,
+- [00:16:01,940 - 00:16:02,800] look at this for a moment.
+- [00:16:04,320 - 00:16:07,700] Supposing we interchange z1 and z2,
+- [00:16:07,700 - 00:16:09,140] what happens to the result?
+- [00:16:12,480 - 00:16:15,480] If we interchange z1 and z2,
+- [00:16:16,640 - 00:16:17,960] let's do it right here.
+- [00:16:18,120 - 00:16:19,180] The interchange,
+- [00:16:19,480 - 00:16:20,880] this is the interchange operation.
+- [00:16:21,340 - 00:16:22,920] The interchange operation
+- [00:16:23,700 - 00:16:28,920] will turn this into z1 star z2.
+- [00:16:29,400 - 00:16:31,060] Just interchanging 1 and 2.
+- [00:16:31,240 - 00:16:32,720] Just interchanging 1 and 2
+- [00:16:32,720 - 00:16:35,360] will replace z2 by z1,
+- [00:16:35,420 - 00:16:37,320] and z1 by z2.
+- [00:16:37,700 - 00:16:40,000] But this is just a complex conjugate of this.
+- [00:16:41,520 - 00:16:43,240] So interchanging the 1 and 2,
+- [00:16:43,460 - 00:16:45,080] or the bras and the kets,
+- [00:16:45,680 - 00:16:48,440] just does nothing but complex conjugates.
+- [00:16:48,800 - 00:16:49,300] So,
+- [00:16:49,300 - 00:16:50,040] to make it short,
+- [00:16:51,500 - 00:16:53,420] if I take the...
+- [00:16:55,120 - 00:16:55,620] Well,
+- [00:16:55,620 - 00:16:57,260] if I take some sort of product,
+- [00:16:57,360 - 00:16:58,500] we haven't defined this yet,
+- [00:16:58,560 - 00:17:01,100] but I'm just writing it down for future reference.
+- [00:17:01,780 - 00:17:04,720] If I think of complex numbers as vectors
+- [00:17:04,720 - 00:17:05,520] in a vector space,
+- [00:17:05,819 - 00:17:07,680] and I multiply the bra's and the kets,
+- [00:17:07,680 - 00:17:11,180] which means multiply the complex numbers
+- [00:17:11,180 - 00:17:12,800] by their complex conjugates,
+- [00:17:12,900 - 00:17:17,220] then you just interchange the two complex numbers
+- [00:17:17,220 - 00:17:19,180] and complex conjugate.
+- [00:17:19,599 - 00:17:24,420] So when you interchange the bras and kets,
+- [00:17:24,540 - 00:17:26,480] it's equivalent to complex conjugation.
+- [00:17:26,619 - 00:17:30,700] We'll come back to it in some detail very shortly.
+- [00:17:31,880 - 00:17:34,820] It's just a useful thing to keep in mind
+- [00:17:34,820 - 00:17:36,850] that the mapping,
+- [00:17:36,850 - 00:17:39,490] the mapping from bras to kets
+- [00:17:39,490 - 00:17:42,150] is essentially complex conjugation.
+- [00:17:42,570 - 00:17:43,070] Okay,
+- [00:17:43,070 - 00:17:44,630] let's go back and very briefly,
+- [00:17:44,730 - 00:17:47,990] quickly review what a complex vector space is.
+- [00:17:49,510 - 00:17:50,430] As I said,
+- [00:17:50,430 - 00:17:54,030] it is really the heart of the mathematics
+- [00:17:54,030 - 00:17:55,170] of quantum mechanics,
+- [00:17:55,430 - 00:17:56,610] and we can't do without it,
+- [00:17:56,630 - 00:17:58,210] so we have to spend a little bit of time.
+- [00:17:59,230 - 00:18:00,170] First of all,
+- [00:18:00,170 - 00:18:02,090] it has a set of elements called A.
+- [00:18:03,130 - 00:18:03,630] A,
+- [00:18:03,630 - 00:18:03,970] B,
+- [00:18:03,970 - 00:18:04,370] C,
+- [00:18:04,370 - 00:18:04,990] and so forth.
+- [00:18:04,990 - 00:18:06,290] How many of them?
+- [00:18:06,410 - 00:18:08,190] An infinite number of them,
+- [00:18:08,310 - 00:18:08,810] but not,
+- [00:18:08,810 - 00:18:09,890] as we'll see,
+- [00:18:10,670 - 00:18:12,010] infinite in a certain sense.
+- [00:18:13,570 - 00:18:15,210] Just like the complex numbers,
+- [00:18:15,410 - 00:18:16,990] there are an infinite number of complex numbers,
+- [00:18:17,670 - 00:18:20,310] there's also an infinite number of elements
+- [00:18:20,310 - 00:18:21,850] that we're going to call A.
+- [00:18:23,590 - 00:18:25,250] They have the property that,
+- [00:18:25,250 - 00:18:25,910] first of all,
+- [00:18:25,930 - 00:18:27,850] you can multiply any one of them
+- [00:18:27,850 - 00:18:29,550] by a complex number,
+- [00:18:29,550 - 00:18:30,790] alpha,
+- [00:18:31,370 - 00:18:32,530] and you get a new one.
+- [00:18:33,030 - 00:18:33,930] Let's call it C.
+- [00:18:36,530 - 00:18:39,210] So multiplication by a complex number
+- [00:18:39,210 - 00:18:41,810] is an allowed operation.
+- [00:18:41,890 - 00:18:42,970] It gives you another vector,
+- [00:18:43,110 - 00:18:45,310] and adding them,
+- [00:18:45,310 - 00:18:46,730] A plus B,
+- [00:18:51,129 - 00:18:53,090] is another allowable operation.
+- [00:18:53,530 - 00:18:55,210] You can put these two together,
+- [00:18:55,670 - 00:18:56,490] and you can say,
+- [00:18:56,490 - 00:18:58,970] given any two vectors,
+- [00:18:59,970 - 00:19:01,250] any two complex vectors,
+- [00:19:01,670 - 00:19:03,990] you can add them alpha A,
+- [00:19:05,010 - 00:19:06,570] plus beta B,
+- [00:19:10,750 - 00:19:14,490] and get another complex number.
+- [00:19:17,670 - 00:19:22,330] If you can multiply them by complex numbers,
+- [00:19:22,670 - 00:19:24,010] and if you can add them,
+- [00:19:24,230 - 00:19:26,070] then you can add them in combination
+- [00:19:26,070 - 00:19:27,990] with coefficients in front of them.
+- [00:19:28,530 - 00:19:32,250] And the point is that they're closed
+- [00:19:32,250 - 00:19:33,510] under these operations.
+- [00:19:33,510 - 00:19:34,750] See,
+- [00:19:34,750 - 00:19:37,250] alphas and betas can be any complex numbers.
+- [00:19:37,490 - 00:19:37,930] Now,
+- [00:19:37,930 - 00:19:38,530] for example,
+- [00:19:38,530 - 00:19:39,770] this would preclude
+- [00:19:43,469 - 00:19:47,410] the real numbers as being a complex vector space.
+- [00:19:48,070 - 00:19:50,510] The real numbers cannot be multiplied
+- [00:19:50,510 - 00:19:53,690] by complex numbers and give back real numbers.
+- [00:19:54,330 - 00:19:57,250] So the real numbers are not a complex vector space.
+- [00:19:57,790 - 00:20:00,350] They are a real vector space,
+- [00:20:00,670 - 00:20:03,490] meaning to say that the real numbers can be multiplied
+- [00:20:04,629 - 00:20:06,670] by other real numbers,
+- [00:20:06,670 - 00:20:07,430] real constants,
+- [00:20:07,670 - 00:20:08,730] and they can be added.
+- [00:20:09,010 - 00:20:10,730] So they're a real vector space.
+- [00:20:11,530 - 00:20:13,410] But what about the positive numbers?
+- [00:20:13,550 - 00:20:17,730] Are the positive numbers a vector space?
+- [00:20:19,670 - 00:20:21,270] Under the reals?
+- [00:20:21,330 - 00:20:21,990] No,
+- [00:20:21,990 - 00:20:24,390] because part of the definition
+- [00:20:24,390 - 00:20:25,730] of a real vector space
+- [00:20:25,730 - 00:20:27,070] is that you can multiply numbers
+- [00:20:27,070 - 00:20:28,370] by any real number,
+- [00:20:28,370 - 00:20:29,950] positive or negative.
+- [00:20:31,690 - 00:20:32,350] So,
+- [00:20:36,450 - 00:20:37,730] and that's it.
+- [00:20:37,850 - 00:20:40,650] That is the definition of a complex vector space.
+- [00:20:41,330 - 00:20:42,710] Let me give you two examples.
+- [00:20:42,870 - 00:20:44,030] We talked about them last time,
+- [00:20:44,110 - 00:20:45,310] just to review them very quickly.
+- [00:20:45,950 - 00:20:46,910] One example,
+- [00:20:49,129 - 00:20:49,610] oh,
+- [00:20:49,610 - 00:20:52,430] ordinary vectors are vectors,
+- [00:20:52,610 - 00:20:53,890] form a vector space,
+- [00:20:54,430 - 00:20:55,820] and they form a vector space
+- [00:20:55,820 - 00:20:57,210] which is a real vector space.
+- [00:20:57,490 - 00:20:58,370] Ordinary vectors,
+- [00:20:58,370 - 00:20:59,630] which are just arrows in space,
+- [00:21:00,470 - 00:21:02,810] can be multiplied and added.
+- [00:21:02,810 - 00:21:05,030] But multiplied only by real numbers.
+- [00:21:05,310 - 00:21:07,970] Does not make sense to take an ordinary vector,
+- [00:21:09,410 - 00:21:10,610] my finger,
+- [00:21:10,810 - 00:21:12,890] and multiply it by a complex number.
+- [00:21:13,610 - 00:21:14,090] Alright,
+- [00:21:14,090 - 00:21:16,030] so ordinary vectors are a vector space,
+- [00:21:16,190 - 00:21:17,270] but they're a real vector space.
+- [00:21:22,570 - 00:21:22,870] Alright,
+- [00:21:22,870 - 00:21:24,690] some examples of complex vector spaces.
+- [00:21:26,750 - 00:21:27,950] Complex functions,
+- [00:21:30,610 - 00:21:31,750] let's call it psi,
+- [00:21:32,470 - 00:21:35,290] a function of a variable.
+- [00:21:35,790 - 00:21:36,310] Now,
+- [00:21:36,310 - 00:21:38,590] the variable does not have to be complex.
+- [00:21:38,990 - 00:21:40,470] It can be complex,
+- [00:21:40,470 - 00:21:41,950] but it doesn't have to be complex.
+- [00:21:42,410 - 00:21:44,710] It could just be an
+- [00:21:44,710 - 00:21:47,010] ordinary real argument of a function.
+- [00:21:47,210 - 00:21:49,270] Argument means the thing that the function depends on.
+- [00:21:49,670 - 00:21:50,970] Psi of x,
+- [00:21:51,830 - 00:21:53,150] where x is real,
+- [00:21:53,750 - 00:21:55,550] but psi is complex.
+- [00:21:56,230 - 00:21:57,270] In other words,
+- [00:21:57,270 - 00:21:58,710] psi is of the form,
+- [00:21:58,830 - 00:22:00,290] some real part,
+- [00:22:00,570 - 00:22:02,110] let's call it psi real of x,
+- [00:22:02,950 - 00:22:06,250] plus i times psi imaginary of x.
+- [00:22:08,110 - 00:22:10,270] That's the collection of complex
+- [00:22:10,270 - 00:22:12,430] functions of a real variable,
+- [00:22:12,550 - 00:22:13,070] for example.
+- [00:22:13,890 - 00:22:14,450] Okay?
+- [00:22:14,590 - 00:22:16,170] These form a vector space,
+- [00:22:16,510 - 00:22:17,110] y,
+- [00:22:17,330 - 00:22:19,650] you can multiply them by numbers,
+- [00:22:19,670 - 00:22:20,970] and you get new functions.
+- [00:22:21,230 - 00:22:22,890] You can multiply them by complex numbers.
+- [00:22:23,210 - 00:22:25,370] If I take a complex function,
+- [00:22:25,550 - 00:22:26,250] psi of x,
+- [00:22:26,250 - 00:22:28,830] and multiply it by any complex number,
+- [00:22:29,510 - 00:22:30,330] say alpha,
+- [00:22:32,889 - 00:22:34,870] I get a new complex function.
+- [00:22:35,770 - 00:22:36,510] Number one.
+- [00:22:36,670 - 00:22:37,410] Number two,
+- [00:22:37,410 - 00:22:39,170] I can add complex functions.
+- [00:22:39,550 - 00:22:40,310] Two psi,
+- [00:22:40,310 - 00:22:41,550] a psi and a phi,
+- [00:22:41,550 - 00:22:42,210] for example.
+- [00:22:42,730 - 00:22:44,670] Psi of x plus phi of x
+- [00:22:45,250 - 00:22:46,810] gives me another complex function.
+- [00:22:47,770 - 00:22:48,250] So,
+- [00:22:48,250 - 00:22:50,130] they form a complex vector space.
+- [00:22:50,310 - 00:22:50,410] Now,
+- [00:22:50,410 - 00:22:51,290] we're not used to thinking,
+- [00:22:51,450 - 00:22:51,570] I mean,
+- [00:22:51,570 - 00:22:53,330] unless you've been doing this for some time,
+- [00:22:53,490 - 00:22:55,410] you may not be used to thinking of functions,
+- [00:22:55,410 - 00:22:56,810] as vectors.
+- [00:22:57,210 - 00:22:59,830] But they are vectors in this mathematical sense.
+- [00:23:00,770 - 00:23:01,370] Okay?
+- [00:23:01,610 - 00:23:03,950] Another example that we'll use over and over,
+- [00:23:04,070 - 00:23:05,450] are column vectors.
+- [00:23:06,530 - 00:23:09,170] Column vectors are really functions also.
+- [00:23:09,610 - 00:23:11,910] They're functions of a discrete index.
+- [00:23:12,410 - 00:23:13,810] A discrete index,
+- [00:23:13,810 - 00:23:15,570] instead of a continuous x,
+- [00:23:15,910 - 00:23:17,050] they're functions,
+- [00:23:17,050 - 00:23:18,370] perhaps of an integer,
+- [00:23:18,590 - 00:23:19,660] but maybe an integer that
+- [00:23:19,660 - 00:23:20,730] only goes from one to four,
+- [00:23:20,870 - 00:23:21,590] or one to three,
+- [00:23:21,590 - 00:23:22,450] or one to seven.
+- [00:23:23,370 - 00:23:23,970] Uh,
+- [00:23:23,970 - 00:23:30,710] and we can represent them by a column.
+- [00:23:31,790 - 00:23:34,690] I'm going to use for these discrete kind of vectors,
+- [00:23:34,950 - 00:23:40,070] I'm going to use a's and little b's,
+- [00:23:40,110 - 00:23:41,270] little a's and little b's.
+- [00:23:41,530 - 00:23:43,990] But if I put the entries into the column,
+- [00:23:45,490 - 00:23:46,010] a1,
+- [00:23:46,010 - 00:23:46,530] a2,
+- [00:23:46,530 - 00:23:47,830] a3,
+- [00:23:47,890 - 00:23:48,930] these are just numbers now,
+- [00:23:48,930 - 00:23:49,830] complex numbers.
+- [00:23:50,990 - 00:23:51,510] A4,
+- [00:23:51,510 - 00:23:52,170] for example.
+- [00:23:53,970 - 00:23:56,930] The set of column objects like this,
+- [00:23:56,990 - 00:23:58,710] with only four complex entries,
+- [00:23:59,070 - 00:24:00,670] forms a vector space.
+- [00:24:01,090 - 00:24:02,930] You can add two of them,
+- [00:24:03,010 - 00:24:04,590] by the following operation.
+- [00:24:04,950 - 00:24:06,170] Let's call it b1,
+- [00:24:06,170 - 00:24:07,010] b2,
+- [00:24:07,010 - 00:24:08,210] dot dot.
+- [00:24:10,090 - 00:24:10,990] And define,
+- [00:24:10,990 - 00:24:12,670] this is definition of adding them.
+- [00:24:14,730 - 00:24:16,290] a1 plus b1,
+- [00:24:16,290 - 00:24:18,170] a2 plus b2,
+- [00:24:18,410 - 00:24:20,250] a3 plus b3,
+- [00:24:20,250 - 00:24:22,630] a4 plus b4,
+- [00:24:23,970 - 00:24:25,050] and so on.
+- [00:24:26,250 - 00:24:28,650] You can also multiply them by constants.
+- [00:24:29,050 - 00:24:31,910] If I want to multiply the vector a,
+- [00:24:32,130 - 00:24:33,170] by a constant,
+- [00:24:33,390 - 00:24:35,390] let's call that constant alpha again,
+- [00:24:36,669 - 00:24:39,610] all I do is multiply the entries by alpha.
+- [00:24:39,910 - 00:24:42,190] Each entry gets multiplied by alpha.
+- [00:24:43,230 - 00:24:44,710] And so alpha,
+- [00:24:47,750 - 00:24:49,130] times a column vector,
+- [00:24:49,810 - 00:24:51,810] is just a column vector by definition,
+- [00:24:52,130 - 00:24:53,230] which is,
+- [00:24:53,230 - 00:24:55,150] alpha a1,
+- [00:24:55,150 - 00:24:57,170] alpha a2,
+- [00:24:57,170 - 00:24:58,450] dot dot dot.
+- [00:24:59,450 - 00:25:01,290] So you can multiply them by constants.
+- [00:25:01,650 - 00:25:03,070] It's kind of obvious,
+- [00:25:04,550 - 00:25:06,670] that this notation here,
+- [00:25:08,550 - 00:25:11,290] is describing components of a vector.
+- [00:25:11,670 - 00:25:12,950] We could in fact,
+- [00:25:13,190 - 00:25:15,450] think of these entries here,
+- [00:25:15,710 - 00:25:18,190] as kind of like the components of a vector.
+- [00:25:18,390 - 00:25:19,710] If I were to give
+- [00:25:19,710 - 00:25:21,030] you an ordinary vector in space,
+- [00:25:21,970 - 00:25:23,210] let's say three dimensional,
+- [00:25:23,210 - 00:25:23,630] three dimensional space,
+- [00:25:24,590 - 00:25:27,710] I could describe that vector,
+- [00:25:27,850 - 00:25:29,290] by three components,
+- [00:25:29,490 - 00:25:29,670] x,
+- [00:25:29,670 - 00:25:29,950] y,
+- [00:25:29,950 - 00:25:30,290] and z.
+- [00:25:31,290 - 00:25:32,410] And if I liked,
+- [00:25:32,510 - 00:25:34,670] if I wanted to,
+- [00:25:34,870 - 00:25:37,030] I could exhibit those components,
+- [00:25:37,050 - 00:25:37,950] in the form x,
+- [00:25:37,950 - 00:25:38,170] y,
+- [00:25:38,170 - 00:25:38,510] and z.
+- [00:25:40,170 - 00:25:41,650] But of course now I would
+- [00:25:41,650 - 00:25:43,130] be talking about a real vector space,
+- [00:25:43,690 - 00:25:44,410] and the x,
+- [00:25:44,410 - 00:25:47,110] y's and z's would be real.
+- [00:25:48,390 - 00:25:50,850] So there's nothing terribly unusual,
+- [00:25:51,090 - 00:25:52,110] about what I'm doing here.
+- [00:25:53,210 - 00:25:54,830] You can also think of these objects,
+- [00:25:55,310 - 00:25:57,110] as functions of the index.
+- [00:25:58,190 - 00:25:59,670] If I tell you which index,
+- [00:25:59,910 - 00:26:01,550] if I tell you I'm talking about three,
+- [00:26:01,850 - 00:26:03,050] then a of three,
+- [00:26:03,790 - 00:26:04,950] would be a function,
+- [00:26:05,270 - 00:26:05,490] well,
+- [00:26:05,490 - 00:26:06,150] it would be a,
+- [00:26:07,370 - 00:26:09,990] it would be a function of a discrete variable,
+- [00:26:10,150 - 00:26:11,630] which goes from one to four here.
+- [00:26:12,390 - 00:26:13,970] So in that sense,
+- [00:26:15,470 - 00:26:16,970] even these discrete vectors,
+- [00:26:17,090 - 00:26:18,450] can be thought of as functions.
+- [00:26:18,630 - 00:26:19,890] Not continuous functions,
+- [00:26:20,050 - 00:26:21,390] but just functions with,
+- [00:26:21,390 - 00:26:25,290] whose independent variable just takes on four values,
+- [00:26:25,550 - 00:26:25,670] one,
+- [00:26:25,670 - 00:26:25,950] two,
+- [00:26:25,950 - 00:26:26,190] three,
+- [00:26:26,190 - 00:26:26,510] and four.
+- [00:26:28,990 - 00:26:29,510] Okay.
+- [00:26:30,970 - 00:26:31,490] Now,
+- [00:26:31,490 - 00:26:33,490] what about the dimension of a vector space?
+- [00:26:34,210 - 00:26:36,010] The dimension of a vector space,
+- [00:26:37,010 - 00:26:38,110] can be defined,
+- [00:26:39,910 - 00:26:40,790] as follows.
+- [00:26:52,050 - 00:26:53,570] You can define it,
+- [00:26:53,610 - 00:26:54,690] as the,
+- [00:26:55,629 - 00:26:57,510] minimum number of vectors,
+- [00:26:57,910 - 00:26:59,450] that you need,
+- [00:26:59,690 - 00:27:01,990] so that you can write any vector,
+- [00:27:03,710 - 00:27:05,210] as a sum,
+- [00:27:05,550 - 00:27:06,990] with coefficients,
+- [00:27:07,450 - 00:27:08,950] of that minimum number.
+- [00:27:09,570 - 00:27:11,430] Let me give you an example.
+- [00:27:11,850 - 00:27:14,290] Let's take a one dimensional vector space,
+- [00:27:14,770 - 00:27:16,910] just the ordinary line.
+- [00:27:17,910 - 00:27:18,630] Okay.
+- [00:27:18,750 - 00:27:20,770] Now we can think of vectors on the line.
+- [00:27:21,510 - 00:27:22,590] Vectors on the line,
+- [00:27:22,690 - 00:27:24,310] are just of course real numbers,
+- [00:27:24,630 - 00:27:26,130] but I can represent them,
+- [00:27:26,210 - 00:27:27,050] as arrows,
+- [00:27:27,590 - 00:27:28,950] from zero to,
+- [00:27:29,090 - 00:27:30,890] to some real number.
+- [00:27:32,650 - 00:27:33,770] If I'm allowed,
+- [00:27:33,990 - 00:27:34,850] to multiply,
+- [00:27:35,010 - 00:27:36,250] this vector,
+- [00:27:36,450 - 00:27:37,910] this could be a unit vector,
+- [00:27:38,050 - 00:27:39,310] or it doesn't have to be a unit vector,
+- [00:27:39,830 - 00:27:40,310] but,
+- [00:27:40,370 - 00:27:42,570] if I'm allowed to multiply this vector,
+- [00:27:42,650 - 00:27:44,110] by any real number,
+- [00:27:44,270 - 00:27:45,090] let's call it r,
+- [00:27:45,390 - 00:27:47,090] and let's call this the vector v,
+- [00:27:51,830 - 00:27:52,770] then I can,
+- [00:27:52,830 - 00:27:54,850] and r can be positive or negative,
+- [00:27:55,370 - 00:27:57,650] then I can get any vector out of it.
+- [00:27:57,810 - 00:27:59,630] So it only takes one vector,
+- [00:28:01,110 - 00:28:02,170] to get started,
+- [00:28:02,290 - 00:28:04,570] and to be able to represent any vector,
+- [00:28:05,050 - 00:28:05,530] by,
+- [00:28:06,650 - 00:28:07,530] in this case,
+- [00:28:07,570 - 00:28:09,110] just multiplying it by a constant.
+- [00:28:09,650 - 00:28:11,810] Now let's go to a two dimensional vector space.
+- [00:28:12,010 - 00:28:13,210] A two dimensional vector space,
+- [00:28:13,470 - 00:28:15,090] and I'm thinking now about real vectors,
+- [00:28:15,150 - 00:28:15,610] just to,
+- [00:28:15,610 - 00:28:17,170] just so we can draw it on the blackboard.
+- [00:28:17,430 - 00:28:19,690] The blackboard is a two dimensional vector space.
+- [00:28:20,330 - 00:28:22,930] If I give you any two vectors,
+- [00:28:23,030 - 00:28:25,370] which happen not to lie on the same line,
+- [00:28:28,190 - 00:28:30,350] if I give you any two vectors,
+- [00:28:30,450 - 00:28:33,010] which happen not to lie on the same line,
+- [00:28:33,230 - 00:28:35,990] then by multiplying this vector,
+- [00:28:36,090 - 00:28:37,070] let's call this v1,
+- [00:28:37,290 - 00:28:38,510] let's call this v2,
+- [00:28:40,670 - 00:28:43,850] by multiplying v1 by a constant,
+- [00:28:45,130 - 00:28:45,650] r1,
+- [00:28:45,650 - 00:28:46,510] let's say,
+- [00:28:46,570 - 00:28:47,410] times v1,
+- [00:28:48,290 - 00:28:49,330] plus r2,
+- [00:28:49,690 - 00:28:50,430] times v2,
+- [00:28:51,110 - 00:28:53,670] I can generate any vector in the plane.
+- [00:28:54,490 - 00:28:56,290] All I need is two vectors.
+- [00:28:57,770 - 00:29:00,410] I could draw another vector in here,
+- [00:29:02,390 - 00:29:02,950] v3,
+- [00:29:03,210 - 00:29:04,910] but I don't need it,
+- [00:29:05,850 - 00:29:08,860] in order to represent any vector by
+- [00:29:08,860 - 00:29:11,870] summing up multiples of v1 and v2.
+- [00:29:12,130 - 00:29:13,170] I don't need it,
+- [00:29:13,170 - 00:29:13,650] it's redundant.
+- [00:29:14,050 - 00:29:14,630] In fact,
+- [00:29:14,630 - 00:29:15,370] v3 itself,
+- [00:29:15,630 - 00:29:18,730] can be expressed in terms of v1 and v2.
+- [00:29:19,830 - 00:29:21,870] v1 and v2 can be added
+- [00:29:21,870 - 00:29:23,910] with appropriate coefficients to get v3.
+- [00:29:25,250 - 00:29:25,850] So,
+- [00:29:25,850 - 00:29:26,990] the question is,
+- [00:29:27,030 - 00:29:28,610] how many vectors do you need?
+- [00:29:29,690 - 00:29:32,230] What's the minimum number of vectors that you need
+- [00:29:32,230 - 00:29:33,790] in order to be able
+- [00:29:33,790 - 00:29:35,350] to add them up with coefficients
+- [00:29:35,350 - 00:29:38,070] and generate any vector in the vector space?
+- [00:29:38,510 - 00:29:41,610] That minimum number is the dimensionality of the space.
+- [00:29:42,030 - 00:29:43,090] In this case,
+- [00:29:43,090 - 00:29:43,450] it's two.
+- [00:29:43,750 - 00:29:45,910] If you had a three dimensional vector space,
+- [00:29:46,870 - 00:29:47,870] for example,
+- [00:29:47,870 - 00:29:51,550] you could generate any vector by taking three vectors along
+- [00:29:52,430 - 00:29:54,650] the mutually perpendicular axes,
+- [00:29:55,230 - 00:29:57,130] or any other three vectors as long
+- [00:29:57,130 - 00:29:59,030] as they don't lie in a plane.
+- [00:29:59,370 - 00:30:01,470] As long as they don't lie in a plane.
+- [00:30:01,850 - 00:30:03,570] So it takes three vectors,
+- [00:30:03,850 - 00:30:05,970] a minimum of three vectors,
+- [00:30:06,090 - 00:30:08,370] in order to be able to represent any vector
+- [00:30:08,370 - 00:30:10,730] lying in a three dimensional vector space.
+- [00:30:11,170 - 00:30:12,710] And that's the general definition.
+- [00:30:12,990 - 00:30:14,250] How many vectors do you need
+- [00:30:16,010 - 00:30:17,400] in order to be able
+- [00:30:17,400 - 00:30:18,790] to add them up with coefficients
+- [00:30:18,790 - 00:30:21,290] and represent any vector in the space?
+- [00:30:22,770 - 00:30:24,090] Let's look at some examples.
+- [00:30:24,290 - 00:30:26,250] How many vectors do you need?
+- [00:30:27,550 - 00:30:28,290] Let's take,
+- [00:30:28,290 - 00:30:29,910] here we have vectors,
+- [00:30:30,030 - 00:30:32,210] column vectors made with four entries.
+- [00:30:32,630 - 00:30:33,890] Only four entries.
+- [00:30:34,330 - 00:30:37,190] I assert that that's a four dimensional vector space.
+- [00:30:37,690 - 00:30:38,850] How do I see that?
+- [00:30:39,350 - 00:30:39,910] Well,
+- [00:30:41,410 - 00:30:43,030] there are four vectors
+- [00:30:44,250 - 00:30:45,950] and you need all of them incidentally.
+- [00:30:46,350 - 00:30:47,840] Any fewer than this you wouldn't
+- [00:30:47,840 - 00:30:49,330] be able to represent any vector.
+- [00:30:49,670 - 00:30:51,770] But you can take the four vectors to be
+- [00:30:54,570 - 00:30:55,050] comma,
+- [00:31:05,370 - 00:31:07,750] and of course the last one is
+- [00:31:11,550 - 00:31:13,430] If you add up these vectors
+- [00:31:13,430 - 00:31:14,950] with coefficients
+- [00:31:16,110 - 00:31:16,550] a1
+- [00:31:20,330 - 00:31:21,210] plus a2
+- [00:31:22,610 - 00:31:23,490] plus a3
+- [00:31:24,669 - 00:31:25,550] plus a4
+- [00:31:26,110 - 00:31:27,190] then what do you get?
+- [00:31:27,630 - 00:31:29,430] You just get the vector a1,
+- [00:31:29,430 - 00:31:29,950] a2,
+- [00:31:29,950 - 00:31:30,470] a3,
+- [00:31:30,470 - 00:31:30,850] a4.
+- [00:31:31,950 - 00:31:34,190] The first one will give you the vector a1,
+- [00:31:34,190 - 00:31:34,390] 0,
+- [00:31:34,390 - 00:31:34,690] 0,
+- [00:31:34,690 - 00:31:34,890] 0.
+- [00:31:35,070 - 00:31:36,710] The next one will give you the vector 0,
+- [00:31:36,710 - 00:31:37,370] a2,
+- [00:31:37,370 - 00:31:38,190] and so forth.
+- [00:31:38,290 - 00:31:39,190] And when you add them up
+- [00:31:39,669 - 00:31:41,550] you'll get back to this vector.
+- [00:31:41,550 - 00:31:43,490] So the conclusion is
+- [00:31:43,490 - 00:31:44,770] that you need,
+- [00:31:44,930 - 00:31:45,690] oh incidentally,
+- [00:31:45,710 - 00:31:47,230] if you threw away one of these vectors
+- [00:31:47,230 - 00:31:50,310] then you would never be able to construct vectors,
+- [00:31:50,830 - 00:31:52,080] there would be vectors that
+- [00:31:52,080 - 00:31:53,330] you couldn't construct in this way.
+- [00:31:53,690 - 00:31:54,090] Okay?
+- [00:31:55,169 - 00:31:55,970] In particular,
+- [00:31:55,970 - 00:31:57,690] let's suppose we threw this one away over here.
+- [00:31:58,590 - 00:32:00,560] Then we'd never be able to get a
+- [00:32:00,560 - 00:32:02,530] vector which had something in the bottom entry here.
+- [00:32:02,950 - 00:32:04,430] So you need all four of them,
+- [00:32:04,590 - 00:32:06,030] but that's all you need.
+- [00:32:06,250 - 00:32:08,780] You don't need a fifth vector in order to be able
+- [00:32:08,780 - 00:32:11,310] to write down every vector as a sum in this way.
+- [00:32:11,550 - 00:32:12,250] So,
+- [00:32:12,250 - 00:32:13,530] a vector,
+- [00:32:13,530 - 00:32:16,000] a column vector space composed
+- [00:32:16,000 - 00:32:18,470] of four entries is four dimensional.
+- [00:32:19,690 - 00:32:20,690] And so on.
+- [00:32:20,890 - 00:32:23,110] Five entries would be five dimensional,
+- [00:32:23,310 - 00:32:25,030] two entries would be two dimensional.
+- [00:32:25,170 - 00:32:26,530] What about just one entry?
+- [00:32:26,930 - 00:32:30,250] One entry would be just the good old complex numbers.
+- [00:32:30,310 - 00:32:32,210] It would be a one dimensional vector space.
+- [00:32:33,070 - 00:32:35,220] So a column vector with just
+- [00:32:35,220 - 00:32:37,370] one entry is just a number.
+- [00:32:37,490 - 00:32:38,550] It's just a complex number.
+- [00:32:39,290 - 00:32:40,410] And they form
+- [00:32:40,410 - 00:32:42,630] the one dimensional vector space.
+- [00:32:42,930 - 00:32:44,210] Complex vector space.
+- [00:32:46,730 - 00:32:47,330] Alright,
+- [00:32:47,330 - 00:32:52,570] so let's just summarize that by saying
+- [00:32:57,170 - 00:32:57,770] Oh,
+- [00:32:57,770 - 00:32:59,110] what about the functions?
+- [00:32:59,670 - 00:33:00,890] What about the functions,
+- [00:33:00,890 - 00:33:04,290] let's say the continuous smooth functions on a line.
+- [00:33:05,390 - 00:33:07,720] How many functions does it take
+- [00:33:07,720 - 00:33:10,050] to be able to write every function?
+- [00:33:10,410 - 00:33:10,930] As a sum.
+- [00:33:13,670 - 00:33:14,970] An infinite number.
+- [00:33:15,290 - 00:33:16,710] Obviously an infinite number.
+- [00:33:17,070 - 00:33:19,410] There's no finite set of functions
+- [00:33:19,410 - 00:33:21,530] that you can add up with
+- [00:33:21,530 - 00:33:23,650] coefficients that will generate every function.
+- [00:33:24,690 - 00:33:26,110] If I have a few functions,
+- [00:33:26,110 - 00:33:26,730] that one,
+- [00:33:26,950 - 00:33:27,950] this one,
+- [00:33:28,190 - 00:33:29,610] a couple of others,
+- [00:33:30,230 - 00:33:32,200] it's rather limited what I can
+- [00:33:32,200 - 00:33:34,170] generate by adding them up with coefficients.
+- [00:33:34,710 - 00:33:35,630] In particular,
+- [00:33:35,630 - 00:33:37,710] I'll never generate a function which looks like this.
+- [00:33:39,630 - 00:33:44,050] So you need an infinite number of functions
+- [00:33:44,590 - 00:33:48,670] in order to be able to write all functions.
+- [00:33:48,790 - 00:33:50,790] Now all functions is a huge number of things.
+- [00:33:50,850 - 00:33:51,710] All continuous,
+- [00:33:51,710 - 00:33:53,050] differentiable,
+- [00:33:53,050 - 00:33:53,870] smooth functions.
+- [00:33:54,110 - 00:33:55,810] You still need an infinite number of them.
+- [00:33:56,290 - 00:33:57,530] I won't try to tell
+- [00:33:57,530 - 00:33:58,770] you how big that infinity is,
+- [00:33:58,950 - 00:34:00,490] but you need an infinite number.
+- [00:34:00,770 - 00:34:02,170] And so for that reason,
+- [00:34:02,790 - 00:34:04,930] the functions are called
+- [00:34:04,930 - 00:34:07,070] an infinite dimensional vector space.
+- [00:34:08,870 - 00:34:10,090] But you can think of
+- [00:34:10,090 - 00:34:11,310] it simply as a vector space
+- [00:34:11,310 - 00:34:12,830] with an infinite number of axes.
+- [00:34:13,870 - 00:34:15,230] It's a little mind-boggling.
+- [00:34:15,429 - 00:34:16,529] I suggest you don't try
+- [00:34:16,529 - 00:34:17,630] to think about it that way.
+- [00:34:19,429 - 00:34:19,870] Okay,
+- [00:34:19,870 - 00:34:20,550] so there we are.
+- [00:34:21,389 - 00:34:23,110] We have functions.
+- [00:34:34,409 - 00:34:35,350] Psi of x.
+- [00:34:35,350 - 00:34:37,530] And we can think of them,
+- [00:34:37,550 - 00:34:39,370] this symbol means think of them as.
+- [00:34:39,870 - 00:34:42,610] We can think of them as vectors
+- [00:34:44,050 - 00:34:45,969] in a complex vector space.
+- [00:34:47,150 - 00:34:52,110] Psi of x is another vector.
+- [00:34:52,330 - 00:34:53,550] These are two different vectors.
+- [00:34:53,730 - 00:34:56,090] And they form an infinite dimensional vector space.
+- [00:34:56,590 - 00:34:57,750] In the same way,
+- [00:34:57,750 - 00:34:59,270] the column vectors,
+- [00:35:00,290 - 00:35:01,770] a one dot dot,
+- [00:35:01,770 - 00:35:02,010] a,
+- [00:35:02,010 - 00:35:04,450] let's say six this time,
+- [00:35:04,450 - 00:35:05,770] a six dimensional vector space,
+- [00:35:06,410 - 00:35:11,990] can be thought of as the vector a.
+- [00:35:12,210 - 00:35:15,570] The vector a which is determined
+- [00:35:15,570 - 00:35:18,930] by the six small letters a,
+- [00:35:19,110 - 00:35:20,150] a one through a six.
+- [00:35:21,090 - 00:35:21,690] All right,
+- [00:35:21,690 - 00:35:24,210] so that's the notation that we'll use
+- [00:35:25,610 - 00:35:27,070] to describe vectors.
+- [00:35:28,590 - 00:35:29,710] And typically,
+- [00:35:29,710 - 00:35:32,210] vectors are closely related to functions,
+- [00:35:32,450 - 00:35:34,310] either of continuous,
+- [00:35:34,450 - 00:35:36,150] or discrete variables.
+- [00:35:42,330 - 00:35:44,470] Now we come to the
+- [00:35:44,470 - 00:35:46,610] idea of the dual vector space.
+- [00:35:46,990 - 00:35:49,890] The dual vector space is really just
+- [00:35:49,890 - 00:35:52,050] the complex conjugate vector space.
+- [00:35:53,890 - 00:35:57,490] That's a secret that mathematicians don't let out.
+- [00:35:58,190 - 00:35:58,890] Well,
+- [00:35:58,890 - 00:36:01,270] for good reasons.
+- [00:36:01,370 - 00:36:02,250] It's not arbitrary.
+- [00:36:02,930 - 00:36:04,430] When they want to be general,
+- [00:36:04,450 - 00:36:05,530] and they want to be rigorous,
+- [00:36:06,210 - 00:36:09,730] they prefer not to think of the dual vector space
+- [00:36:10,370 - 00:36:13,830] as being limited to just complex conjugation.
+- [00:36:13,870 - 00:36:15,610] You can have other kinds of operations.
+- [00:36:15,990 - 00:36:18,190] But for us in physics and in quantum mechanics,
+- [00:36:18,430 - 00:36:20,540] basically the dual vector
+- [00:36:20,540 - 00:36:22,650] space means the complex conjugates.
+- [00:36:25,950 - 00:36:28,250] And we think of the complex conjugates
+- [00:36:28,250 - 00:36:31,690] as forming a separate vector space,
+- [00:36:31,690 - 00:36:32,570] a different one,
+- [00:36:32,570 - 00:36:33,410] but related.
+- [00:36:35,130 - 00:36:35,750] So,
+- [00:36:35,750 - 00:36:38,450] just like for every complex number,
+- [00:36:40,450 - 00:36:42,170] we have its reflection.
+- [00:36:42,690 - 00:36:45,690] If the complex number is in the upper half plane,
+- [00:36:46,030 - 00:36:48,590] then its reflection is in the lower half plane.
+- [00:36:48,870 - 00:36:51,350] If the complex number is in the lower half plane,
+- [00:36:51,650 - 00:36:54,010] then its reflection is in the upper half plane.
+- [00:36:54,310 - 00:36:55,770] We actually have two,
+- [00:36:55,890 - 00:36:59,010] a pair of redundant descriptions of the same plane.
+- [00:36:59,010 - 00:37:01,690] One in terms of the complex numbers,
+- [00:37:01,990 - 00:37:05,130] and the other in terms of the complex conjugates.
+- [00:37:06,470 - 00:37:07,970] It's really the same plane,
+- [00:37:08,250 - 00:37:12,630] but we think of them as two different vector spaces.
+- [00:37:13,850 - 00:37:16,250] But there's a mapping between them.
+- [00:37:16,630 - 00:37:18,090] For every complex number,
+- [00:37:18,330 - 00:37:19,930] there is a complex conjugate.
+- [00:37:20,750 - 00:37:24,510] For every ket vector z,
+- [00:37:24,770 - 00:37:26,530] there is a bra vector z.
+- [00:37:26,730 - 00:37:27,890] It's complex conjugate.
+- [00:37:27,890 - 00:37:31,850] And so we think of a vector space
+- [00:37:31,850 - 00:37:34,810] coming together with a second vector space,
+- [00:37:35,150 - 00:37:35,550] which is,
+- [00:37:35,550 - 00:37:36,630] in a certain sense,
+- [00:37:36,630 - 00:37:37,730] identical to it,
+- [00:37:37,790 - 00:37:40,370] or isomorphic to it,
+- [00:37:41,710 - 00:37:43,330] contains the same...
+- [00:37:44,990 - 00:37:45,510] Well,
+- [00:37:45,510 - 00:37:46,970] I won't say it contains the same object.
+- [00:37:47,150 - 00:37:48,910] That would be wrong.
+- [00:37:49,370 - 00:37:52,390] But they're in one-to-one correspondence.
+- [00:37:52,850 - 00:37:54,030] They're in one-to-one correspondence.
+- [00:37:55,130 - 00:37:57,030] But let's suppose now
+- [00:37:58,750 - 00:37:59,310] that the vector space is a vector space.
+- [00:37:59,310 - 00:38:00,290] And they're labeled,
+- [00:38:01,430 - 00:38:05,150] if A is a vector in the ket space,
+- [00:38:06,030 - 00:38:06,950] then A,
+- [00:38:09,290 - 00:38:11,810] with its arrow facing in the other direction,
+- [00:38:12,050 - 00:38:14,530] is essentially its complex conjugate.
+- [00:38:14,990 - 00:38:16,070] What does that mean?
+- [00:38:16,350 - 00:38:16,910] Well,
+- [00:38:16,910 - 00:38:17,950] for example,
+- [00:38:17,950 - 00:38:19,950] if the vector space is the space of functions,
+- [00:38:21,290 - 00:38:23,410] then the dual vector space is simply
+- [00:38:23,410 - 00:38:25,990] the things made up out of the complex conjugates
+- [00:38:25,990 - 00:38:26,550] of the functions.
+- [00:38:27,890 - 00:38:29,090] There's a mapping between them.
+- [00:38:29,150 - 00:38:29,950] For every A,
+- [00:38:31,990 - 00:38:32,790] there is...
+- [00:38:32,790 - 00:38:34,690] For every ket vector,
+- [00:38:34,950 - 00:38:36,250] there is a bra vector.
+- [00:38:37,609 - 00:38:39,370] Just as for every complex number,
+- [00:38:39,710 - 00:38:41,930] there is its complex conjugate.
+- [00:38:42,589 - 00:38:44,010] So one example of this
+- [00:38:44,589 - 00:38:46,430] is the mapping of...
+- [00:38:47,710 - 00:38:49,690] between complex conjugates.
+- [00:38:52,050 - 00:38:54,590] It's always a mapping between complex conjugates.
+- [00:38:54,890 - 00:38:57,670] But if we were talking about column vectors,
+- [00:39:00,009 - 00:39:02,070] then the usual notation...
+- [00:39:02,070 - 00:39:02,190] Now,
+- [00:39:02,190 - 00:39:03,370] some of these things are just notations.
+- [00:39:03,430 - 00:39:04,390] You can't ask me why,
+- [00:39:05,750 - 00:39:07,030] because it's just a notation.
+- [00:39:07,310 - 00:39:08,430] It turns out to be convenient.
+- [00:39:09,070 - 00:39:12,490] If you represent the original ket vectors
+- [00:39:13,130 - 00:39:14,150] by a column,
+- [00:39:16,090 - 00:39:17,190] then the bra vectors
+- [00:39:17,190 - 00:39:19,310] are represented by a row.
+- [00:39:19,810 - 00:39:21,230] It's nice to keep track
+- [00:39:21,230 - 00:39:23,550] of which are the bras and which are the kets
+- [00:39:23,550 - 00:39:26,370] by making the kets be columns
+- [00:39:26,370 - 00:39:28,970] and the bras be rows.
+- [00:39:29,370 - 00:39:30,990] But the entry to the rows
+- [00:39:30,990 - 00:39:32,990] are the complex conjugate numbers.
+- [00:39:33,750 - 00:39:35,310] That's the important thing.
+- [00:39:42,250 - 00:39:43,030] All right,
+- [00:39:43,030 - 00:39:44,950] so for every column vector,
+- [00:39:45,250 - 00:39:47,730] you have the complex conjugate row vector,
+- [00:39:48,430 - 00:39:50,650] and those form the bras and the kets.
+- [00:39:50,690 - 00:39:53,850] This can be thought of as
+- [00:39:54,370 - 00:39:55,370] the bra vector,
+- [00:39:55,370 - 00:39:56,970] this can be thought of
+- [00:39:56,970 - 00:39:58,910] as the ket vector.
+- [00:39:59,930 - 00:40:01,890] Notice we don't put a star in here.
+- [00:40:02,090 - 00:40:05,170] The star is indicated simply by
+- [00:40:05,170 - 00:40:07,650] drawing the ket vector instead of the original vector.
+- [00:40:07,950 - 00:40:10,290] So think of ket as being a symbol
+- [00:40:10,290 - 00:40:12,230] for complex conjugation.
+- [00:40:15,190 - 00:40:16,030] All right,
+- [00:40:16,030 - 00:40:16,250] now,
+- [00:40:16,910 - 00:40:18,390] supposing we have
+- [00:40:21,150 - 00:40:22,050] two vectors...
+- [00:40:22,050 - 00:40:23,750] not two vectors...
+- [00:40:23,750 - 00:40:25,010] we have a vector a
+- [00:40:25,529 - 00:40:28,910] and its image in the dual vector space.
+- [00:40:29,470 - 00:40:30,930] We have a vector a,
+- [00:40:31,090 - 00:40:31,910] its bra...
+- [00:40:31,910 - 00:40:32,170] no,
+- [00:40:32,170 - 00:40:32,550] its ket,
+- [00:40:32,710 - 00:40:34,970] and we have its image in the dual space,
+- [00:40:35,330 - 00:40:36,490] which is the bra.
+- [00:40:36,750 - 00:40:39,650] Now supposing we multiply a
+- [00:40:40,890 - 00:40:43,550] by the complex number alpha.
+- [00:40:45,730 - 00:40:47,890] What is the image of that?
+- [00:40:49,490 - 00:40:50,410] You might think
+- [00:40:52,410 - 00:40:54,190] that it's just alpha
+- [00:40:55,470 - 00:40:56,430] times a.
+- [00:40:57,250 - 00:40:58,070] What's wrong with that?
+- [00:41:01,030 - 00:41:02,610] You want to conjugate it.
+- [00:41:03,109 - 00:41:05,030] Because you want the
+- [00:41:06,610 - 00:41:09,630] bra vector associated with alpha a
+- [00:41:09,630 - 00:41:12,210] to be the complex conjugate
+- [00:41:12,210 - 00:41:13,890] of the ket vector,
+- [00:41:14,070 - 00:41:15,170] and that entails
+- [00:41:16,090 - 00:41:18,250] complex conjugating the number
+- [00:41:18,250 - 00:41:19,790] that you multiply a by.
+- [00:41:20,410 - 00:41:22,190] So you really want to put a star here.
+- [00:41:23,250 - 00:41:24,170] Alpha star.
+- [00:41:25,270 - 00:41:26,470] Complex conjugating...
+- [00:41:26,470 - 00:41:27,390] this is just a statement
+- [00:41:27,390 - 00:41:29,990] that complex conjugating a product
+- [00:41:31,450 - 00:41:33,510] requires you to complex conjugate
+- [00:41:33,510 - 00:41:35,490] both pieces of the product.
+- [00:41:36,030 - 00:41:36,170] Okay?
+- [00:41:36,290 - 00:41:37,290] We had...
+- [00:41:37,290 - 00:41:37,890] where was it?
+- [00:41:37,970 - 00:41:38,130] Yes,
+- [00:41:38,130 - 00:41:38,930] here it is right here.
+- [00:41:39,270 - 00:41:41,150] Complex conjugating a product
+- [00:41:41,850 - 00:41:42,450] means
+- [00:41:44,190 - 00:41:46,230] complex conjugating both factors.
+- [00:41:46,630 - 00:41:49,810] So the complex conjugate of alpha times a,
+- [00:41:49,810 - 00:41:51,430] if a was just a number for example,
+- [00:41:51,710 - 00:41:53,790] would be the complex conjugate of a
+- [00:41:53,790 - 00:41:55,710] times the complex conjugate of alpha.
+- [00:41:55,910 - 00:41:58,270] Notice that when I'm speaking about simple numbers,
+- [00:41:58,510 - 00:42:01,930] I won't use the notation of vector spaces.
+- [00:42:02,210 - 00:42:05,550] I'll just use the complex conjugation.
+- [00:42:05,670 - 00:42:07,430] So when thinking about vectors,
+- [00:42:07,670 - 00:42:10,170] we complex conjugate them
+- [00:42:10,170 - 00:42:12,390] by turning them from bras to kets.
+- [00:42:12,490 - 00:42:14,510] When thinking of them as the coefficients,
+- [00:42:14,710 - 00:42:16,410] just the numerical coefficients,
+- [00:42:16,630 - 00:42:19,310] we'll use the notation of complex conjugation.
+- [00:42:19,310 - 00:42:19,970] Star.
+- [00:42:22,030 - 00:42:22,650] Alright,
+- [00:42:22,650 - 00:42:23,530] so keep that in mind
+- [00:42:23,530 - 00:42:26,230] that the dual vector space,
+- [00:42:27,150 - 00:42:30,850] when you multiply a vector by a constant,
+- [00:42:31,070 - 00:42:34,170] the image in the dual vector space
+- [00:42:34,170 - 00:42:36,090] gets multiplied by the complex conjugate.
+- [00:42:37,310 - 00:42:37,930] Otherwise,
+- [00:42:38,810 - 00:42:39,430] well,
+- [00:42:39,430 - 00:42:40,170] otherwise,
+- [00:42:41,230 - 00:42:42,550] operations on the dual space
+- [00:42:42,550 - 00:42:44,790] are similar to operations on the original space.
+- [00:42:45,050 - 00:42:45,350] For example,
+- [00:42:45,570 - 00:42:49,290] if a and b are two vectors,
+- [00:42:49,310 - 00:42:51,330] and we add them,
+- [00:42:52,590 - 00:42:53,290] then
+- [00:42:55,890 - 00:42:56,930] the dual,
+- [00:42:57,110 - 00:42:58,790] or the complex conjugate,
+- [00:42:59,150 - 00:43:00,610] will just be the sums
+- [00:43:07,010 - 00:43:10,210] of the dual vectors.
+- [00:43:11,910 - 00:43:13,310] That's a lot of information,
+- [00:43:13,570 - 00:43:15,110] and it pretty much allows you
+- [00:43:15,110 - 00:43:19,290] to reconstruct the dual vector space.
+- [00:43:20,350 - 00:43:21,330] As I said,
+- [00:43:21,330 - 00:43:21,850] for example,
+- [00:43:21,950 - 00:43:23,990] the dual vector space to the space of function,
+- [00:43:24,170 - 00:43:24,270] yeah,
+- [00:43:24,270 - 00:43:24,550] good.
+- [00:43:24,770 - 00:43:26,430] Is there any significance
+- [00:43:26,430 - 00:43:28,790] to putting the alpha star on the right?
+- [00:43:28,830 - 00:43:29,130] Oh,
+- [00:43:31,810 - 00:43:32,290] no,
+- [00:43:32,390 - 00:43:33,970] there's no significance to it,
+- [00:43:33,970 - 00:43:34,130] no.
+- [00:43:34,470 - 00:43:34,950] Uh,
+- [00:43:35,810 - 00:43:36,290] there's,
+- [00:43:36,290 - 00:43:37,850] there's sort of a tradition
+- [00:43:37,850 - 00:43:39,590] of keeping your formulas neat
+- [00:43:39,590 - 00:43:41,470] by writing them a certain way,
+- [00:43:41,670 - 00:43:42,650] but in this case,
+- [00:43:42,650 - 00:43:42,930] no,
+- [00:43:43,030 - 00:43:44,410] there is no significance to that.
+- [00:43:44,470 - 00:43:45,150] That's a good question.
+- [00:43:45,390 - 00:43:46,970] Other times there will be,
+- [00:43:47,030 - 00:43:48,530] other objects there will be,
+- [00:43:48,530 - 00:43:49,790] when we multiply operators,
+- [00:43:50,050 - 00:43:51,970] when we multiply vectors by operators,
+- [00:43:52,790 - 00:43:54,890] then it does matter where we put them.
+- [00:43:55,410 - 00:43:56,410] But when it's just numbers,
+- [00:43:56,610 - 00:43:56,810] no,
+- [00:43:56,810 - 00:43:57,730] there's no significance.
+- [00:43:58,490 - 00:43:58,950] Uh,
+- [00:43:59,190 - 00:43:59,690] but,
+- [00:43:59,690 - 00:43:59,950] uh,
+- [00:44:01,670 - 00:44:03,310] I try to keep things neat
+- [00:44:03,310 - 00:44:04,970] by following a certain pattern,
+- [00:44:05,150 - 00:44:05,650] but you,
+- [00:44:05,650 - 00:44:06,130] you don't,
+- [00:44:06,130 - 00:44:07,570] you don't need to worry about my pattern.
+- [00:44:09,930 - 00:44:10,390] Okay,
+- [00:44:10,510 - 00:44:13,230] that's the basic idea of linear vector spaces
+- [00:44:13,230 - 00:44:14,590] and their duals,
+- [00:44:15,830 - 00:44:17,210] or their conjugates.
+- [00:44:18,030 - 00:44:18,630] Next,
+- [00:44:18,970 - 00:44:20,070] the next construction
+- [00:44:20,070 - 00:44:21,730] that you have to keep track of
+- [00:44:21,730 - 00:44:24,590] is the inner product between two vectors.
+- [00:44:24,710 - 00:44:26,250] The inner product is the analog
+- [00:44:26,250 - 00:44:27,350] in ordinary,
+- [00:44:27,510 - 00:44:29,450] of ordinary vector dot products.
+- [00:44:30,330 - 00:44:31,870] Just remind you very quick,
+- [00:44:31,930 - 00:44:34,230] quickly what the dot product of two vectors is.
+- [00:44:34,330 - 00:44:35,110] Ordinary vectors,
+- [00:44:35,390 - 00:44:37,210] you take the two vectors,
+- [00:44:38,690 - 00:44:39,290] uh,
+- [00:44:39,990 - 00:44:42,450] you can think of it in a variety of ways.
+- [00:44:42,910 - 00:44:44,930] You can think of it as,
+- [00:44:45,010 - 00:44:47,090] take the projection of one vector
+- [00:44:47,090 - 00:44:47,190] and you take the projection of the other vector
+- [00:44:47,210 - 00:44:48,070] onto the other.
+- [00:44:50,050 - 00:44:52,030] Take the magnitude of that projection,
+- [00:44:52,290 - 00:44:52,970] let's call this b,
+- [00:44:53,190 - 00:44:54,510] let's call the original vector a.
+- [00:44:55,390 - 00:44:56,570] This is the,
+- [00:44:56,670 - 00:44:58,110] this distance here
+- [00:44:58,710 - 00:45:02,010] is the projection of b onto the axis of a.
+- [00:45:02,350 - 00:45:04,610] If we multiply the projection of b
+- [00:45:06,030 - 00:45:06,510] by,
+- [00:45:06,530 - 00:45:07,970] by the magnitude of a,
+- [00:45:08,150 - 00:45:10,590] that gives us one form of the dot product.
+- [00:45:10,950 - 00:45:12,250] We can do it the other way.
+- [00:45:12,350 - 00:45:14,210] We can take the projection of a on b
+- [00:45:14,210 - 00:45:16,630] and multiply the length of the projections.
+- [00:45:17,210 - 00:45:18,950] The symmetric way to write it
+- [00:45:18,950 - 00:45:21,970] is that it's a times b times what?
+- [00:45:22,870 - 00:45:24,390] Cosine of the angle between them.
+- [00:45:26,710 - 00:45:30,250] But if we write it in terms of components,
+- [00:45:31,170 - 00:45:33,550] let's suppose we write it in terms of components,
+- [00:45:34,209 - 00:45:35,010] the components,
+- [00:45:35,010 - 00:45:35,570] for example,
+- [00:45:35,570 - 00:45:37,350] along any set of axes,
+- [00:45:37,550 - 00:45:39,170] any set of orthogonal axes,
+- [00:45:39,710 - 00:45:41,090] the x and y axis,
+- [00:45:41,090 - 00:45:41,730] for example,
+- [00:45:43,430 - 00:45:45,890] then if we know the components of a,
+- [00:45:45,890 - 00:45:47,370] let's say ax and ay,
+- [00:45:49,230 - 00:45:49,990] that's a,
+- [00:45:50,660 - 00:45:51,890] and bx and by,
+- [00:45:53,510 - 00:45:56,290] then the dot product of a and b
+- [00:45:56,820 - 00:46:00,010] is just ax bx plus ay by.
+- [00:46:00,530 - 00:46:02,830] So we ordinarily write that
+- [00:46:03,600 - 00:46:05,010] for ordinary vectors
+- [00:46:06,600 - 00:46:06,950] that,
+- [00:46:09,580 - 00:46:10,690] ordinary vectors now,
+- [00:46:11,390 - 00:46:13,270] I just mean little pointers,
+- [00:46:13,550 - 00:46:15,070] a dot b,
+- [00:46:15,950 - 00:46:20,390] is equal to ax bx plus ay by.
+- [00:46:20,750 - 00:46:22,150] What if there's a third direction?
+- [00:46:23,130 - 00:46:23,550] Straightforward.
+- [00:46:23,590 - 00:46:24,570] If there's a third direction
+- [00:46:24,570 - 00:46:26,390] or a fourth or a fifth or a sixth direction,
+- [00:46:26,970 - 00:46:28,030] you just keep going.
+- [00:46:29,210 - 00:46:30,050] az bz.
+- [00:46:31,350 - 00:46:32,250] So in other words,
+- [00:46:32,270 - 00:46:35,190] it's just the sum of the product
+- [00:46:35,190 - 00:46:36,830] of the components,
+- [00:46:37,790 - 00:46:38,990] axis by axis,
+- [00:46:39,509 - 00:46:39,930] x,
+- [00:46:39,930 - 00:46:40,230] y,
+- [00:46:40,230 - 00:46:40,430] z,
+- [00:46:40,430 - 00:46:41,030] and so forth.
+- [00:46:42,190 - 00:46:43,030] In parallel,
+- [00:46:43,190 - 00:46:43,330] well,
+- [00:46:43,330 - 00:46:43,930] not parallel,
+- [00:46:43,990 - 00:46:44,890] or in analogy,
+- [00:46:44,890 - 00:46:46,150] but in analogy with this,
+- [00:46:46,890 - 00:46:49,390] we invent the generalized idea
+- [00:46:49,390 - 00:46:51,510] of the inner product of two vectors.
+- [00:46:51,770 - 00:46:54,170] Let's call them capital A and capital B.
+- [00:46:59,470 - 00:47:02,550] And we write it as a times b.
+- [00:47:05,650 - 00:47:06,330] Now,
+- [00:47:06,330 - 00:47:08,150] this is the inner product
+- [00:47:08,150 - 00:47:09,990] of the ket vector b
+- [00:47:09,990 - 00:47:11,730] with the bra vector a.
+- [00:47:12,530 - 00:47:14,630] Because we were dealing with
+- [00:47:14,890 - 00:47:15,630] real vector spaces,
+- [00:47:15,870 - 00:47:17,090] we didn't have to worry about
+- [00:47:17,090 - 00:47:18,630] complex conjugating anything.
+- [00:47:19,450 - 00:47:20,690] But when we're dealing with
+- [00:47:20,690 - 00:47:22,010] complex vector spaces,
+- [00:47:22,750 - 00:47:24,550] when we multiply two vectors,
+- [00:47:25,070 - 00:47:27,430] we have to decide which one is the ket vector
+- [00:47:27,430 - 00:47:28,590] and which one is the bra vector.
+- [00:47:29,150 - 00:47:30,110] Once we do that,
+- [00:47:30,290 - 00:47:31,450] then I'll tell you what the,
+- [00:47:31,450 - 00:47:31,630] well,
+- [00:47:32,290 - 00:47:34,070] then I'll tell you what the rule is.
+- [00:47:34,850 - 00:47:35,790] First of all,
+- [00:47:35,790 - 00:47:37,470] the inner product has some properties.
+- [00:47:37,850 - 00:47:38,750] This is abstract.
+- [00:47:39,270 - 00:47:39,710] First of all,
+- [00:47:39,710 - 00:47:41,250] it has some abstract properties.
+- [00:47:42,410 - 00:47:42,850] Uh,
+- [00:48:01,770 - 00:48:03,970] the first abstract property
+- [00:48:04,770 - 00:48:06,470] is supposing you multiply
+- [00:48:06,470 - 00:48:09,430] the vector b by beta.
+- [00:48:09,890 - 00:48:11,990] So this is beta times b.
+- [00:48:14,070 - 00:48:14,870] This is the first abstract property.
+- [00:48:14,890 - 00:48:16,810] This is the inner product of a
+- [00:48:18,290 - 00:48:20,770] with the vector beta times b.
+- [00:48:20,970 - 00:48:22,530] So let's put all of this in a bra,
+- [00:48:22,650 - 00:48:22,970] in a,
+- [00:48:22,970 - 00:48:23,970] in a parenthesis here.
+- [00:48:24,730 - 00:48:25,210] Parenthesis.
+- [00:48:26,870 - 00:48:29,630] That inner product is just beta
+- [00:48:31,830 - 00:48:33,430] times the inner product of a b.
+- [00:48:35,790 - 00:48:36,750] If you double,
+- [00:48:36,850 - 00:48:37,330] in other words,
+- [00:48:37,330 - 00:48:38,590] if you double the length of b
+- [00:48:38,590 - 00:48:40,710] and not double the length of a,
+- [00:48:41,290 - 00:48:43,050] then you just double the inner product.
+- [00:48:43,650 - 00:48:44,170] Okay?
+- [00:48:44,410 - 00:48:46,570] If you were to double both a and b,
+- [00:48:46,650 - 00:48:47,910] of course you get a factor of four,
+- [00:48:48,110 - 00:48:49,530] but we're just doubling,
+- [00:48:49,650 - 00:48:51,490] doubling or multiplying by beta
+- [00:48:51,490 - 00:48:52,770] one of the vectors.
+- [00:48:53,090 - 00:48:54,230] If we do that,
+- [00:48:54,270 - 00:48:55,570] then the inner product itself
+- [00:48:55,570 - 00:48:56,930] just gets multiplied by beta.
+- [00:48:58,010 - 00:49:02,710] Another fact is that if we multiply a
+- [00:49:03,430 - 00:49:04,630] by a sum,
+- [00:49:05,610 - 00:49:11,910] let's say b plus c,
+- [00:49:11,910 - 00:49:16,030] the inner product of a with b plus c,
+- [00:49:17,290 - 00:49:18,930] that's just given by
+- [00:49:20,509 - 00:49:22,970] a inner product with b
+- [00:49:23,910 - 00:49:27,050] plus a inner product with c.
+- [00:49:28,670 - 00:49:30,570] The mathematical language
+- [00:49:30,570 - 00:49:34,050] is that the inner product is linear,
+- [00:49:34,910 - 00:49:37,930] is a linear operation on b.
+- [00:49:39,190 - 00:49:40,850] These are all properties
+- [00:49:40,850 - 00:49:43,550] that ordinary dot products between vectors have,
+- [00:49:43,770 - 00:49:45,910] and they're properties that you can check
+- [00:49:46,750 - 00:49:49,710] for the inner products between more abstract vectors
+- [00:49:49,710 - 00:49:51,190] if I give you the rule.
+- [00:49:51,550 - 00:49:53,170] So far I haven't given you the rule
+- [00:49:53,740 - 00:49:55,690] for inner products for column vectors
+- [00:49:55,690 - 00:49:56,490] or for functions.
+- [00:49:56,690 - 00:49:58,010] I'm going to give you that as examples.
+- [00:49:58,470 - 00:49:59,570] But before I do,
+- [00:49:59,610 - 00:50:01,490] I want to finish up with the abstract properties.
+- [00:50:04,370 - 00:50:06,090] Another abstract property
+- [00:50:06,750 - 00:50:09,750] is that the inner product of a with b
+- [00:50:11,590 - 00:50:12,150] is related to,
+- [00:50:12,150 - 00:50:12,830] ket vector b,
+- [00:50:13,050 - 00:50:14,190] bra vector a,
+- [00:50:14,810 - 00:50:16,190] is related to,
+- [00:50:16,270 - 00:50:17,950] but is not equal to in general,
+- [00:50:18,550 - 00:50:20,910] the inner product of b with a.
+- [00:50:22,550 - 00:50:24,030] Notice what I've done here.
+- [00:50:25,090 - 00:50:25,650] Effectively,
+- [00:50:25,650 - 00:50:27,290] I've complex conjugated
+- [00:50:27,290 - 00:50:28,330] both a and b.
+- [00:50:29,010 - 00:50:31,930] I've replaced a by the complex conjugate of b
+- [00:50:31,930 - 00:50:34,010] and b by the complex conjugate of a.
+- [00:50:34,210 - 00:50:35,070] What would you get,
+- [00:50:35,130 - 00:50:36,350] what would you expect to get
+- [00:50:36,350 - 00:50:37,390] on the right-hand side here?
+- [00:50:39,230 - 00:50:39,790] A.
+- [00:50:39,790 - 00:50:40,790] Yeah.
+- [00:50:40,890 - 00:50:43,510] If you take two numbers and you multiply them,
+- [00:50:44,490 - 00:50:45,050] sorry,
+- [00:50:45,050 - 00:50:46,090] if you take a number times,
+- [00:50:46,330 - 00:50:47,210] you know what I mean.
+- [00:50:48,590 - 00:50:51,070] You've complex conjugated both factors,
+- [00:50:51,150 - 00:50:54,470] you can expect that the result is just
+- [00:50:54,470 - 00:50:56,270] the complex conjugation.
+- [00:50:56,390 - 00:50:57,430] So that's the correct equation.
+- [00:50:57,770 - 00:51:00,290] When you interchange bra and ket vector,
+- [00:51:00,570 - 00:51:02,130] you have to complex conjugate.
+- [00:51:02,530 - 00:51:04,350] And that's the rule for,
+- [00:51:04,510 - 00:51:06,230] that's analogous to a rule,
+- [00:51:06,830 - 00:51:07,510] let's see,
+- [00:51:07,510 - 00:51:08,930] it's analogous to this one.
+- [00:51:10,150 - 00:51:18,290] Z1 star times Z2 star is Z1 star Z2.
+- [00:51:18,470 - 00:51:18,750] Okay,
+- [00:51:18,750 - 00:51:20,010] you see what I've done.
+- [00:51:21,590 - 00:51:22,190] Yeah,
+- [00:51:22,190 - 00:51:23,170] I think it's the first one.
+- [00:51:23,670 - 00:51:24,270] Right.
+- [00:51:25,470 - 00:51:26,070] Okay,
+- [00:51:26,070 - 00:51:28,230] so if you complex conjugate both factors,
+- [00:51:28,350 - 00:51:31,130] then the product complex conjugates.
+- [00:51:31,190 - 00:51:33,650] This is now to be taken as an abstract
+- [00:51:34,530 - 00:51:38,590] part of the definition of a good inner product.
+- [00:51:38,590 - 00:51:40,550] The last definition,
+- [00:51:40,550 - 00:51:40,950] oh,
+- [00:51:41,010 - 00:51:43,390] from this we can derive something very simply.
+- [00:51:43,910 - 00:51:45,850] Supposing we take the inner product
+- [00:51:45,850 - 00:51:47,190] of a vector with itself.
+- [00:51:48,430 - 00:51:51,030] Then this says that it's equal
+- [00:51:51,350 - 00:51:54,330] to the inner product of the vector with itself.
+- [00:51:55,270 - 00:51:57,190] If I interchange A and A,
+- [00:51:57,370 - 00:51:58,950] that doesn't do anything,
+- [00:51:59,810 - 00:52:00,930] complex conjugated.
+- [00:52:02,650 - 00:52:05,410] So it says that whatever this object is,
+- [00:52:05,490 - 00:52:06,610] whatever this number is,
+- [00:52:06,730 - 00:52:08,490] or the inner product is incidentally a number,
+- [00:52:08,590 - 00:52:09,510] not a vector.
+- [00:52:10,010 - 00:52:11,670] The inner product is a number.
+- [00:52:12,830 - 00:52:14,950] The inner product of A with A
+- [00:52:14,950 - 00:52:17,030] is its own complex conjugate.
+- [00:52:17,930 - 00:52:19,650] What are numbers called,
+- [00:52:19,870 - 00:52:21,890] which are their own complex conjugates?
+- [00:52:22,150 - 00:52:23,810] They're called real.
+- [00:52:24,710 - 00:52:25,270] Right,
+- [00:52:25,270 - 00:52:26,970] they're numbers on the real axis.
+- [00:52:27,110 - 00:52:28,950] They're their own complex conjugates.
+- [00:52:29,170 - 00:52:30,950] So they're their own reflections,
+- [00:52:31,110 - 00:52:33,170] and that means they're on the real axis.
+- [00:52:33,810 - 00:52:35,750] So the inner product of
+- [00:52:35,750 - 00:52:37,690] a vector with itself is real.
+- [00:52:41,950 - 00:52:42,550] Now,
+- [00:52:42,550 - 00:52:44,790] there's one more property
+- [00:52:45,710 - 00:52:48,490] that the inner product actually inherits
+- [00:52:48,490 - 00:52:50,610] from the complex conjugation idea.
+- [00:52:54,410 - 00:52:55,010] Again,
+- [00:52:55,010 - 00:52:57,450] it has to do with the complex conjugate
+- [00:52:57,450 - 00:52:58,550] of a thing with itself,
+- [00:52:58,850 - 00:53:00,370] or A with an A.
+- [00:53:01,350 - 00:53:05,050] What do we know about the complex conjugate of A?
+- [00:53:06,630 - 00:53:07,230] Sorry,
+- [00:53:07,230 - 00:53:08,530] what do we know about the product
+- [00:53:08,590 - 00:53:10,630] of a complex number with its conjugate,
+- [00:53:10,810 - 00:53:12,490] besides the fact that it's real?
+- [00:53:13,910 - 00:53:14,850] It's positive.
+- [00:53:15,870 - 00:53:16,710] It's positive.
+- [00:53:16,710 - 00:53:17,670] It's always positive.
+- [00:53:17,750 - 00:53:18,390] Let's just check it.
+- [00:53:18,870 - 00:53:23,370] It's x plus i y times x minus i y.
+- [00:53:24,590 - 00:53:26,810] The imaginary part cancels.
+- [00:53:27,490 - 00:53:28,450] i x,
+- [00:53:28,450 - 00:53:31,810] both terms have an xy times an i,
+- [00:53:31,950 - 00:53:32,930] but one has a plus sign,
+- [00:53:32,930 - 00:53:33,930] the other has a minus sign.
+- [00:53:34,150 - 00:53:35,920] But then this is equal
+- [00:53:35,920 - 00:53:37,690] to x squared plus y squared.
+- [00:53:38,590 - 00:53:40,300] Plus y squared because i
+- [00:53:40,300 - 00:53:42,010] times minus i is plus one.
+- [00:53:42,710 - 00:53:43,270] Okay,
+- [00:53:43,270 - 00:53:44,190] so it's always positive.
+- [00:53:44,310 - 00:53:45,430] x squared plus y squared.
+- [00:53:46,090 - 00:53:47,890] Real and positive.
+- [00:53:50,110 - 00:53:51,550] This is part,
+- [00:53:51,550 - 00:53:53,790] or in fact,
+- [00:53:54,430 - 00:53:56,070] this set of requirements
+- [00:53:57,350 - 00:54:00,290] that when you multiply a bra vector,
+- [00:54:00,670 - 00:54:02,610] a ket vector by a complex number,
+- [00:54:02,870 - 00:54:05,030] that simply multiplies the inner product
+- [00:54:05,030 - 00:54:05,950] by the same number.
+- [00:54:06,350 - 00:54:08,570] You can take inner products with some
+- [00:54:08,590 - 00:54:08,870] sums,
+- [00:54:08,870 - 00:54:11,910] and you just get the sum of inner products.
+- [00:54:13,030 - 00:54:15,210] When you interchange bra and ket,
+- [00:54:15,430 - 00:54:16,970] you complex conjugate.
+- [00:54:18,510 - 00:54:21,970] And one more rule that the inner product
+- [00:54:21,970 - 00:54:24,090] of a vector with itself is positive.
+- [00:54:25,530 - 00:54:28,170] That it's real follows from the previous one.
+- [00:54:29,410 - 00:54:30,590] If it's positive,
+- [00:54:30,590 - 00:54:31,230] it follows from?
+- [00:54:33,870 - 00:54:35,390] It doesn't follow from anything.
+- [00:54:35,710 - 00:54:37,090] It doesn't follow from anything.
+- [00:54:39,030 - 00:54:42,250] As an example of where it doesn't follow,
+- [00:54:42,390 - 00:54:44,210] in real vector spaces,
+- [00:54:44,690 - 00:54:49,310] four vectors in relativity
+- [00:54:50,470 - 00:54:52,490] can have inner products with themselves
+- [00:54:52,490 - 00:54:54,750] which are positive or negative or zero.
+- [00:54:54,930 - 00:54:55,690] Light-like,
+- [00:54:55,690 - 00:54:56,290] space-like,
+- [00:54:56,290 - 00:54:58,190] and time-like.
+- [00:54:58,490 - 00:54:59,970] So it doesn't follow from anything,
+- [00:55:00,370 - 00:55:02,090] but it is part of the definition
+- [00:55:02,090 - 00:55:04,330] of an inner product in a complex vector space.
+- [00:55:04,930 - 00:55:05,630] All right,
+- [00:55:05,630 - 00:55:06,430] so what is a,
+- [00:55:09,010 - 00:55:11,410] these are rules about what the inner product
+- [00:55:11,410 - 00:55:12,210] has to satisfy.
+- [00:55:12,530 - 00:55:15,210] Now you may be able to find more than one
+- [00:55:15,210 - 00:55:17,350] construction for an inner product
+- [00:55:17,350 - 00:55:18,870] which is consistent with these rules,
+- [00:55:19,030 - 00:55:19,850] and in general you can.
+- [00:55:20,250 - 00:55:23,830] But I'll give you the simple inner product
+- [00:55:23,830 - 00:55:25,950] for functions and for column vectors
+- [00:55:25,950 - 00:55:28,530] which satisfies these rules very easily.
+- [00:55:29,270 - 00:55:31,090] And I'll leave it for you to go home
+- [00:55:31,090 - 00:55:33,050] and prove the various properties.
+- [00:55:33,650 - 00:55:35,690] These four properties here.
+- [00:55:37,410 - 00:55:38,750] You do it by inspection,
+- [00:55:38,750 - 00:55:39,710] it's not very hard.
+- [00:55:39,950 - 00:55:41,570] For a function,
+- [00:55:41,570 - 00:55:43,530] or for the vector space of functions,
+- [00:55:44,090 - 00:55:46,790] the inner product of phi with psi,
+- [00:55:47,990 - 00:55:50,010] phi and psi are both functions,
+- [00:55:50,150 - 00:55:51,590] phi of x and psi of x,
+- [00:55:52,770 - 00:55:55,690] that's equal to the integral dx.
+- [00:55:56,570 - 00:55:58,230] Now of course you have to decide,
+- [00:55:58,390 - 00:56:01,310] functions over what interval,
+- [00:56:01,310 - 00:56:02,070] for example?
+- [00:56:02,510 - 00:56:03,890] We could have functions on
+- [00:56:03,890 - 00:56:05,270] the interval from zero to one,
+- [00:56:05,270 - 00:56:06,680] we could have functions from
+- [00:56:06,680 - 00:56:08,090] minus infinity to plus infinity,
+- [00:56:08,330 - 00:56:10,110] but whatever the interval is here,
+- [00:56:10,330 - 00:56:14,370] integral of phi star of x,
+- [00:56:15,710 - 00:56:16,850] psi of x.
+- [00:56:18,570 - 00:56:19,770] Notice that,
+- [00:56:21,170 - 00:56:22,830] because phi is the bra vector,
+- [00:56:23,130 - 00:56:24,750] it gets conjugated in here.
+- [00:56:25,210 - 00:56:28,110] And we just multiply phi star of x
+- [00:56:28,110 - 00:56:29,910] by psi of x and integrate.
+- [00:56:32,730 - 00:56:33,330] Easy,
+- [00:56:33,330 - 00:56:34,650] very very straightforward
+- [00:56:34,650 - 00:56:35,250] to prove.
+- [00:56:36,030 - 00:56:37,590] I'll leave it to you as I said.
+- [00:56:38,150 - 00:56:39,890] So that's the inner product,
+- [00:56:40,010 - 00:56:41,250] or the dot product,
+- [00:56:41,370 - 00:56:42,470] between two functions.
+- [00:56:43,210 - 00:56:44,150] The integral,
+- [00:56:44,150 - 00:56:44,910] phi star,
+- [00:56:44,910 - 00:56:45,470] sine.
+- [00:56:47,030 - 00:56:49,250] For column vectors and row vectors,
+- [00:56:49,930 - 00:56:51,250] the bra vectors,
+- [00:56:51,570 - 00:56:53,690] let's call the bra vector b1,
+- [00:56:53,690 - 00:56:54,550] b2,
+- [00:56:54,550 - 00:56:56,170] b3,
+- [00:56:56,230 - 00:56:58,330] three dimensional complex vector space.
+- [00:56:58,970 - 00:57:00,770] And let's take the row vector,
+- [00:57:00,930 - 00:57:01,170] no,
+- [00:57:01,170 - 00:57:01,450] sorry,
+- [00:57:01,450 - 00:57:02,430] this is the row vector,
+- [00:57:03,069 - 00:57:04,390] let's take the column vector,
+- [00:57:04,390 - 00:57:05,410] the ket vector,
+- [00:57:05,550 - 00:57:07,550] to be a1,
+- [00:57:07,550 - 00:57:08,310] a2,
+- [00:57:08,310 - 00:57:09,510] and a3.
+- [00:57:10,650 - 00:57:11,870] And I'm sorry,
+- [00:57:12,030 - 00:57:13,950] I should have put complex conjugates here.
+- [00:57:14,530 - 00:57:18,130] The entries to the row vector are complex conjugates.
+- [00:57:19,450 - 00:57:21,990] Then the inner product between b and a
+- [00:57:25,650 - 00:57:26,650] is just,
+- [00:57:26,690 - 00:57:28,690] in very close analogy,
+- [00:57:29,010 - 00:57:30,710] I think we've lost it off the blackboard,
+- [00:57:30,830 - 00:57:32,070] but in very close analogy with
+- [00:57:32,070 - 00:57:33,310] the way you take inner products,
+- [00:57:33,310 - 00:57:34,990] for ordinary vectors,
+- [00:57:35,330 - 00:57:38,990] it's just the sum of the products of the components.
+- [00:57:39,710 - 00:57:45,980] b1 star a1 plus b2
+- [00:57:45,980 - 00:57:52,250] star a2 plus b3 star a3,
+- [00:57:52,530 - 00:57:53,310] dot dot dot,
+- [00:57:53,310 - 00:57:54,610] however many of them there are.
+- [00:57:54,830 - 00:57:55,590] Yes?
+- [00:57:56,430 - 00:57:59,170] But the coordinates of the vector b
+- [00:57:59,170 - 00:57:59,810] are .
+- [00:58:03,310 - 00:58:06,930] The coordinates of the ket vector b are .
+- [00:58:07,890 - 00:58:11,690] The entries into the bar vector are the stars.
+- [00:58:11,930 - 00:58:12,330] Now,
+- [00:58:12,330 - 00:58:13,730] I think what you're saying is
+- [00:58:13,730 - 00:58:16,090] we would normally call this vector a,
+- [00:58:16,310 - 00:58:19,650] and we would call this one just plain b.
+- [00:58:19,850 - 00:58:21,250] We wouldn't put a star there.
+- [00:58:23,350 - 00:58:27,270] That's a traditional notation.
+- [00:58:27,670 - 00:58:32,290] The star is indicated by the backward arrow here.
+- [00:58:32,290 - 00:58:36,690] But the components of it really are the complex conjugates.
+- [00:58:36,990 - 00:58:37,550] Okay.
+- [00:58:38,090 - 00:58:38,650] So,
+- [00:58:41,990 - 00:58:43,710] that's the idea of an inner product.
+- [00:58:46,310 - 00:58:47,010] All right.
+- [00:58:47,030 - 00:58:48,290] Let me stop now for questions,
+- [00:58:48,350 - 00:58:49,790] because I'm going pretty fast.
+- [00:58:57,970 - 00:58:58,530] Questions?
+- [00:58:58,950 - 00:58:59,510] Yes?
+- [00:58:59,510 - 00:59:00,250] So,
+- [00:59:00,250 - 00:59:03,990] the x in the inner product has to be real.
+- [00:59:04,930 - 00:59:05,330] Oh,
+- [00:59:05,330 - 00:59:05,670] here?
+- [00:59:06,750 - 00:59:07,150] Well,
+- [00:59:07,150 - 00:59:07,550] yeah,
+- [00:59:07,550 - 00:59:08,250] right.
+- [00:59:09,410 - 00:59:10,150] But we could,
+- [00:59:10,150 - 00:59:10,710] yes,
+- [00:59:10,710 - 00:59:11,590] but we could,
+- [00:59:11,590 - 00:59:12,050] for example,
+- [00:59:12,050 - 00:59:13,930] have more than one argument in here.
+- [00:59:14,170 - 00:59:14,570] So,
+- [00:59:14,570 - 00:59:15,430] it could be x and y,
+- [00:59:15,430 - 00:59:17,010] x and y,
+- [00:59:17,110 - 00:59:18,510] and then we would integrate the x,
+- [00:59:18,510 - 00:59:18,850] the y.
+- [00:59:19,770 - 00:59:20,170] Yeah,
+- [00:59:20,170 - 00:59:21,430] but then they're both real.
+- [00:59:22,110 - 00:59:22,830] They're both real,
+- [00:59:22,830 - 00:59:23,930] assuming they're both real.
+- [00:59:25,410 - 00:59:25,810] Now,
+- [00:59:25,810 - 00:59:27,190] a function of two variables
+- [00:59:27,190 - 00:59:29,390] can be thought of as a function of a complex,
+- [00:59:29,510 - 00:59:31,430] but let's not do that.
+- [00:59:31,870 - 00:59:33,730] Let's think of the arguments as real.
+- [00:59:33,910 - 00:59:34,870] I think we're better off,
+- [00:59:36,090 - 00:59:37,510] in most situations,
+- [00:59:37,710 - 00:59:39,410] we will want to do that.
+- [00:59:42,130 - 00:59:42,790] All right.
+- [00:59:42,810 - 00:59:42,990] Now,
+- [00:59:42,990 - 00:59:45,630] shall we take a break
+- [00:59:45,630 - 00:59:48,270] for six and a half minutes?
+- [00:59:49,670 - 00:59:50,230] All right.
+- [00:59:50,230 - 00:59:54,150] Now I want to come to the concept
+- [00:59:54,150 - 00:59:57,030] of a set of basis vectors.
+- [01:00:00,830 - 01:00:02,570] For ordinary vector spaces,
+- [01:00:03,010 - 01:00:05,510] let's say two-dimensional vector spaces on the blackboard,
+- [01:00:06,090 - 01:00:08,750] basis vectors are just a pair of unit vectors
+- [01:00:08,750 - 01:00:10,610] pointing in orthogonal directions,
+- [01:00:11,630 - 01:00:15,490] which can be chosen somewhat arbitrarily,
+- [01:00:15,570 - 01:00:16,790] not completely arbitrarily.
+- [01:00:16,890 - 01:00:18,470] You pick one unit vector,
+- [01:00:18,750 - 01:00:20,690] and then pick the other unit vector,
+- [01:00:20,850 - 01:00:22,430] being perpendicular to it.
+- [01:00:24,770 - 01:00:26,230] For most purposes,
+- [01:00:26,230 - 01:00:27,310] it's usually convenient
+- [01:00:27,310 - 01:00:28,590] to draw the basis vectors
+- [01:00:28,590 - 01:00:31,310] on the blackboard so that they're horizontal and vertical,
+- [01:00:32,030 - 01:00:34,010] and they're just simply vectors
+- [01:00:34,010 - 01:00:35,630] that are useful in writing
+- [01:00:35,630 - 01:00:37,250] any vector in terms of them,
+- [01:00:37,350 - 01:00:39,250] or in taking components of vectors.
+- [01:00:42,110 - 01:00:48,430] Let's define a basis set the following way.
+- [01:00:48,870 - 01:00:49,810] First of all,
+- [01:00:49,810 - 01:00:50,610] they're unit vectors.
+- [01:00:51,690 - 01:00:54,210] Unit vectors means that they're in a product
+- [01:00:54,210 - 01:00:55,570] with themselves as one,
+- [01:00:55,730 - 01:00:58,470] the dot product with themselves as one.
+- [01:00:59,210 - 01:00:59,730] Incidentally,
+- [01:00:59,730 - 01:01:01,350] for ordinary vector spaces,
+- [01:01:01,670 - 01:01:02,530] the dot product,
+- [01:01:02,530 - 01:01:04,110] just real vector spaces,
+- [01:01:04,290 - 01:01:06,630] the dot product is just the square of the length
+- [01:01:06,630 - 01:01:07,230] of the vector,
+- [01:01:07,230 - 01:01:07,730] of course.
+- [01:01:08,330 - 01:01:09,930] So that's why it's always positive,
+- [01:01:10,030 - 01:01:11,250] among other things.
+- [01:01:12,410 - 01:01:14,270] The square of the length
+- [01:01:14,270 - 01:01:16,130] of a unit vector is one.
+- [01:01:18,050 - 01:01:18,570] So,
+- [01:01:18,570 - 01:01:19,490] first of all,
+- [01:01:19,490 - 01:01:21,950] let's imagine in our vector space
+- [01:01:21,950 - 01:01:26,070] a collection of vectors which I will call,
+- [01:01:26,290 - 01:01:27,590] what shall I call them?
+- [01:01:27,590 - 01:01:28,850] I guess I'll just call them b,
+- [01:01:29,050 - 01:01:29,950] b for basis,
+- [01:01:29,950 - 01:01:33,870] little b now.
+- [01:01:34,070 - 01:01:34,330] Now,
+- [01:01:34,330 - 01:01:35,970] the little b's are not numbers now.
+- [01:01:36,150 - 01:01:37,610] They're a collection of vectors,
+- [01:01:37,610 - 01:01:39,530] b sub i.
+- [01:01:40,570 - 01:01:42,070] How many of them are there?
+- [01:01:42,870 - 01:01:45,590] The number is equal to the dimensionality
+- [01:01:45,590 - 01:01:46,530] of the vector space.
+- [01:01:46,870 - 01:01:49,070] So if it's a seven-dimensional vector space,
+- [01:01:49,410 - 01:01:50,990] there are seven b's.
+- [01:01:51,090 - 01:01:56,470] i equals one through the dimension
+- [01:01:56,470 - 01:01:57,390] of the vector space,
+- [01:01:57,390 - 01:01:58,430] d for dimension.
+- [01:01:59,250 - 01:01:59,810] Okay?
+- [01:02:00,210 - 01:02:00,770] b1,
+- [01:02:00,770 - 01:02:01,150] b2,
+- [01:02:01,150 - 01:02:01,630] b3,
+- [01:02:01,630 - 01:02:01,970] b4.
+- [01:02:02,130 - 01:02:02,510] Now,
+- [01:02:02,510 - 01:02:02,890] they're not,
+- [01:02:02,890 - 01:02:03,590] they're not,
+- [01:02:05,050 - 01:02:06,030] what shall I say,
+- [01:02:06,030 - 01:02:06,910] uniquely fixed,
+- [01:02:07,670 - 01:02:10,250] but they satisfy some unique set of assumptions.
+- [01:02:10,810 - 01:02:12,530] The unique set of assumptions is,
+- [01:02:12,530 - 01:02:13,030] first of all,
+- [01:02:13,030 - 01:02:13,970] that they're unit vectors.
+- [01:02:14,270 - 01:02:16,110] That says that every b,
+- [01:02:19,250 - 01:02:20,850] the inner product with itself,
+- [01:02:21,170 - 01:02:23,430] this is not summed over now.
+- [01:02:24,410 - 01:02:24,970] Often,
+- [01:02:24,970 - 01:02:26,450] I use the notation that,
+- [01:02:26,470 - 01:02:27,610] when you sum over,
+- [01:02:28,290 - 01:02:29,970] when you repeat an index,
+- [01:02:30,210 - 01:02:31,150] you sum over it.
+- [01:02:31,250 - 01:02:31,630] Here,
+- [01:02:31,630 - 01:02:32,810] I do not mean the sum,
+- [01:02:32,810 - 01:02:33,410] no sum.
+- [01:02:36,770 - 01:02:38,610] Just take the i-th vector,
+- [01:02:38,730 - 01:02:40,510] take its inner product with itself,
+- [01:02:41,550 - 01:02:43,130] that's assumed to be one.
+- [01:02:44,550 - 01:02:45,030] Alright,
+- [01:02:45,030 - 01:02:46,550] so every one of these b's,
+- [01:02:46,770 - 01:02:49,050] every one of these vectors b,
+- [01:02:51,130 - 01:02:51,610] b1,
+- [01:02:51,610 - 01:02:52,090] b2,
+- [01:02:52,090 - 01:02:52,890] and so forth,
+- [01:02:53,390 - 01:02:54,590] have unit length.
+- [01:02:55,830 - 01:02:56,390] Next,
+- [01:02:56,390 - 01:02:58,310] they're perpendicular to each other.
+- [01:02:58,570 - 01:03:01,350] What does it mean to be perpendicular to each other?
+- [01:03:01,890 - 01:03:03,250] For ordinary vectors,
+- [01:03:03,670 - 01:03:05,730] it means that the dot product is zero.
+- [01:03:06,470 - 01:03:08,010] When two vectors are perpendicular,
+- [01:03:08,430 - 01:03:10,890] remember that the dot product is the projection
+- [01:03:10,890 - 01:03:12,650] of one onto the other.
+- [01:03:12,790 - 01:03:13,830] If they're perpendicular,
+- [01:03:14,190 - 01:03:15,290] there is no projection.
+- [01:03:16,270 - 01:03:16,830] So,
+- [01:03:16,830 - 01:03:17,930] let's write it this way.
+- [01:03:18,070 - 01:03:18,530] Yeah,
+- [01:03:18,530 - 01:03:18,730] okay,
+- [01:03:18,730 - 01:03:19,330] that's fine.
+- [01:03:19,650 - 01:03:22,510] If I take two different vectors,
+- [01:03:22,650 - 01:03:24,310] let's say b1 and b2,
+- [01:03:24,590 - 01:03:26,470] or bi and bj,
+- [01:03:27,470 - 01:03:29,870] for j not equal to i,
+- [01:03:31,230 - 01:03:33,410] j not equal to i,
+- [01:03:34,330 - 01:03:35,550] then that's zero.
+- [01:03:39,330 - 01:03:41,510] That's the assumption that they're orthogonal.
+- [01:03:43,330 - 01:03:45,890] A vector of unit length is called normalized,
+- [01:03:46,310 - 01:03:47,070] or normal.
+- [01:03:47,550 - 01:03:50,230] A normal vector is unit length.
+- [01:03:51,270 - 01:03:54,090] A set of vectors which are mutually orthogonal
+- [01:03:54,590 - 01:03:55,110] to each other,
+- [01:03:55,210 - 01:03:57,830] are called mutually orthogonal to each other.
+- [01:04:00,090 - 01:04:03,290] If they're both normalized and orthogonal,
+- [01:04:03,770 - 01:04:07,130] they're called an orthonormal collection of vectors.
+- [01:04:07,990 - 01:04:09,710] Orthonormal collection of vectors.
+- [01:04:10,070 - 01:04:11,830] And if there are d of them,
+- [01:04:13,190 - 01:04:14,310] then they're a basis.
+- [01:04:15,110 - 01:04:19,470] They're a basis of vectors for the vector space.
+- [01:04:19,750 - 01:04:21,050] We'll see what that means in a moment.
+- [01:04:22,510 - 01:04:24,570] It means you can easily expand them.
+- [01:04:24,570 - 01:04:25,810] You can expand any vector in terms of them.
+- [01:04:29,970 - 01:04:31,510] Let me give you an example,
+- [01:04:32,990 - 01:04:34,710] just in terms of column vectors.
+- [01:04:36,170 - 01:04:37,890] I've already given you the example.
+- [01:04:38,930 - 01:04:39,490] One,
+- [01:04:39,490 - 01:04:39,990] zero,
+- [01:04:39,990 - 01:04:40,530] zero,
+- [01:04:40,530 - 01:04:41,550] zero.
+- [01:04:43,210 - 01:04:45,810] There's nothing special about four dimensions here.
+- [01:04:45,910 - 01:04:47,850] I've just chosen four dimensional vector spaces.
+- [01:04:49,270 - 01:04:50,390] For zero,
+- [01:04:50,390 - 01:04:50,810] one,
+- [01:04:50,810 - 01:04:51,250] zero,
+- [01:04:51,250 - 01:04:51,610] zero.
+- [01:04:51,610 - 01:04:53,270] This could be b1.
+- [01:04:56,790 - 01:04:57,710] Let's write it out.
+- [01:05:02,150 - 01:05:07,830] Vector b1 is to be identified with the column one,
+- [01:05:07,830 - 01:05:08,210] zero,
+- [01:05:08,210 - 01:05:08,590] zero,
+- [01:05:08,590 - 01:05:08,930] zero.
+- [01:05:10,090 - 01:05:11,770] And I'll write down the fourth one,
+- [01:05:11,850 - 01:05:13,570] and you can fill in the other two in between.
+- [01:05:16,089 - 01:05:19,990] b4 is to be identified with zero,
+- [01:05:19,990 - 01:05:20,970] zero,
+- [01:05:20,970 - 01:05:21,590] zero,
+- [01:05:21,590 - 01:05:21,590] zero.
+- [01:05:21,590 - 01:05:22,070] One.
+- [01:05:23,970 - 01:05:25,710] Each one is of unit length.
+- [01:05:26,210 - 01:05:27,070] That's obvious,
+- [01:05:27,070 - 01:05:29,570] because each one only has one entry,
+- [01:05:29,750 - 01:05:33,050] and when you calculate the inner product with itself,
+- [01:05:33,350 - 01:05:35,830] each one has only one term in the inner product,
+- [01:05:36,030 - 01:05:37,470] and it's just one times one.
+- [01:05:38,770 - 01:05:41,570] The inner product between any two of them
+- [01:05:41,570 - 01:05:42,770] will always be zero,
+- [01:05:42,770 - 01:05:44,850] because they don't have entries in the same place.
+- [01:05:46,030 - 01:05:46,950] For example,
+- [01:05:46,950 - 01:05:48,010] the inner product of this one
+- [01:05:48,010 - 01:05:49,070] with this one will be zero.
+- [01:05:49,290 - 01:05:50,470] It's one times zero,
+- [01:05:50,470 - 01:05:51,570] plus zero times zero.
+- [01:05:51,590 - 01:05:53,770] plus 0 times 0 plus 0 times 1.
+- [01:05:53,770 - 01:05:58,970] So this is an orthonormal basis of vectors for a
+- [01:05:58,970 - 01:06:01,870] simple four-dimensional column vectors.
+- [01:06:01,870 - 01:06:04,870] This is not the only orthonormal basis.
+- [01:06:05,290 - 01:06:09,400] You can find just in the same way as
+- [01:06:09,400 - 01:06:13,510] I could choose these two vectors to form a
+- [01:06:13,510 - 01:06:15,030] basis on the blackboard,
+- [01:06:15,030 - 01:06:16,760] I could also choose these
+- [01:06:16,760 - 01:06:18,490] two vectors to form a basis
+- [01:06:18,490 - 01:06:19,430] on the blackboard.
+- [01:06:19,430 - 01:06:21,770] They're supposed to be unit vectors.
+- [01:06:21,770 - 01:06:23,290] So there's a
+- [01:06:23,290 - 01:06:26,490] degree of ambiguity in the basis,
+- [01:06:26,490 - 01:06:32,650] but you can check a given set of vectors and
+- [01:06:32,650 - 01:06:34,660] check whether it's a basis or
+- [01:06:34,660 - 01:06:36,670] not by calculating their inner products.
+- [01:06:36,670 - 01:06:39,510] Yes?
+- [01:06:48,330 - 01:06:48,870] Where?
+- [01:06:48,870 - 01:06:51,570] Oh,
+- [01:06:51,570 - 01:06:53,530] yeah,
+- [01:06:53,530 - 01:06:53,950] okay,
+- [01:06:53,950 - 01:06:54,490] that's right.
+- [01:06:54,490 - 01:06:54,910] Yes,
+- [01:06:54,910 - 01:06:55,450] yes,
+- [01:06:55,450 - 01:06:55,970] yes,
+- [01:06:55,970 - 01:06:56,310] yes,
+- [01:06:56,310 - 01:06:56,530] yes,
+- [01:06:56,530 - 01:06:56,710] no,
+- [01:06:56,710 - 01:06:56,930] no,
+- [01:06:56,930 - 01:06:57,270] you're right.
+- [01:06:57,370 - 01:06:57,650] Let's,
+- [01:06:57,650 - 01:06:57,930] let's,
+- [01:06:57,930 - 01:06:58,530] let's,
+- [01:06:58,530 - 01:06:59,510] let's straighten that out.
+- [01:06:59,510 - 01:07:03,470] I should have written before,
+- [01:07:03,470 - 01:07:06,370] and I
+- [01:07:06,370 - 01:07:09,250] should have written that this is equal
+- [01:07:09,250 - 01:07:12,130] to the row vector 0 0 0 1.
+- [01:07:12,130 - 01:07:14,170] Does that help?
+- [01:07:14,990 - 01:07:15,530] Good.
+- [01:07:15,530 - 01:07:16,430] Yeah,
+- [01:07:16,430 - 01:07:16,610] no,
+- [01:07:16,610 - 01:07:18,470] that's a good point.
+- [01:07:19,090 - 01:07:20,450] Just for consistency,
+- [01:07:20,450 - 01:07:25,750] I really should have written b1 as a ket vector,
+- [01:07:25,750 - 01:07:26,770] b4 as a
+- [01:07:26,770 - 01:07:27,170] bra vector,
+- [01:07:27,170 - 01:07:30,130] and then taken the inner product of b1 with b4.
+- [01:07:30,130 - 01:07:32,130] Good.
+- [01:07:32,130 - 01:07:34,210] I was
+- [01:07:34,210 - 01:07:36,370] jumping ahead a little too quickly.
+- [01:07:36,370 - 01:07:39,670] All right,
+- [01:07:39,670 - 01:07:41,130] this equation now,
+- [01:07:41,130 - 01:07:41,730] these two
+- [01:07:41,730 - 01:07:45,090] equations can be summarized by a single equation.
+- [01:07:45,090 - 01:07:48,470] This is b i b j f d
+- [01:07:48,470 - 01:07:49,810] j is not equal to i.
+- [01:07:49,810 - 01:07:51,950] If it is equal to i,
+- [01:07:51,950 - 01:07:53,470] then the answer is just 1.
+- [01:07:53,470 - 01:07:57,950] So b i b j is
+- [01:07:58,870 - 01:08:01,430] equal to 1 if i is equal to j,
+- [01:08:01,430 - 01:08:03,650] it's 0 if i is not equal to j.
+- [01:08:03,650 - 01:08:04,650] That's the
+- [01:08:04,650 - 01:08:06,870] Kronecker delta symbol i j,
+- [01:08:06,870 - 01:08:07,750] delta i j.
+- [01:08:07,750 - 01:08:13,170] Delta i j is defined so that it's 1 when
+- [01:08:13,170 - 01:08:15,570] i is equal to j and 0
+- [01:08:15,570 - 01:08:17,970] when i is not equal to j.
+- [01:08:18,569 - 01:08:20,450] That's the definition of the Kronecker delta,
+- [01:08:20,450 - 01:08:22,950] and that defines a basis.
+- [01:08:22,950 - 01:08:27,689] Now let
+- [01:08:27,689 - 01:08:29,510] me show you how to take any vector.
+- [01:08:29,510 - 01:08:33,010] Let's suppose we have d basis vectors.
+- [01:08:33,010 - 01:08:34,670] We know
+- [01:08:34,670 - 01:08:37,119] we don't need more than d vectors
+- [01:08:37,119 - 01:08:39,569] in a d-dimensional vector space in order to
+- [01:08:39,569 - 01:08:40,529] expand any vector.
+- [01:08:40,529 - 01:08:43,170] That's the definition of the dimensionality of the vector
+- [01:08:43,170 - 01:08:43,470] space,
+- [01:08:43,470 - 01:08:46,050] that you don't need more than d vectors.
+- [01:08:46,050 - 01:08:47,490] We have d vectors,
+- [01:08:48,470 - 01:08:49,790] namely the d basis vectors.
+- [01:08:49,790 - 01:08:51,270] Therefore,
+- [01:08:51,270 - 01:08:53,569] it should be possible to take any vector,
+- [01:08:54,850 - 01:08:55,890] let's call it v,
+- [01:08:55,890 - 01:08:58,649] any vector,
+- [01:08:58,649 - 01:09:02,649] and write it as a sum
+- [01:09:02,649 - 01:09:06,649] over the basis vectors of coefficients,
+- [01:09:07,010 - 01:09:09,630] and let's call those coefficients v
+- [01:09:09,630 - 01:09:12,250] i times the i-th basis vector.
+- [01:09:12,250 - 01:09:16,710] And this is just,
+- [01:09:16,710 - 01:09:17,210] you
+- [01:09:17,210 - 01:09:17,350] know,
+- [01:09:17,350 - 01:09:18,710] v 1,
+- [01:09:18,710 - 01:09:19,290] b 1,
+- [01:09:19,290 - 01:09:20,410] plus v 2,
+- [01:09:20,410 - 01:09:20,970] b 2,
+- [01:09:20,970 - 01:09:21,750] and so forth,
+- [01:09:21,750 - 01:09:24,290] etc.
+- [01:09:27,750 - 01:09:28,270] Alright,
+- [01:09:28,270 - 01:09:31,740] now let me take the inner product
+- [01:09:31,740 - 01:09:35,210] of both sides of this with some particular
+- [01:09:35,670 - 01:09:36,870] one of the b's.
+- [01:09:36,870 - 01:09:39,370] I could call it b j,
+- [01:09:39,370 - 01:09:41,790] but let me do it extremely specifically.
+- [01:09:41,790 - 01:09:43,350] Let me
+- [01:09:43,350 - 01:09:47,290] take the inner product of this with b 1,
+- [01:09:47,290 - 01:09:47,330] b 2,
+- [01:09:47,330 - 01:09:47,330] and b 3.
+- [01:09:47,330 - 01:09:47,330] And let's call it b j,
+- [01:09:47,330 - 01:09:47,330] and
+- [01:09:49,689 - 01:09:50,510] see if it actually gets ever better.
+- [01:09:50,510 - 01:09:51,450] bsb1 with the first basis vector.
+- [01:09:51,450 - 01:09:55,030] b 1 with v.
+- [01:09:55,030 - 01:09:56,610] What do we get?
+- [01:09:56,910 - 01:09:57,730] Well,
+- [01:09:57,730 - 01:10:01,620] we get a sum over i of the
+- [01:10:01,620 - 01:10:05,510] inner product of b 1 with this expression.
+- [01:10:05,510 - 01:10:05,710] expression,
+- [01:10:05,710 - 01:10:08,550] but that's just vi,
+- [01:10:08,550 - 01:10:11,070] b1,
+- [01:10:11,070 - 01:10:12,710] bi.
+- [01:10:12,710 - 01:10:14,290] Notice,
+- [01:10:14,290 - 01:10:15,590] it's summed over i,
+- [01:10:15,590 - 01:10:19,310] but I've chosen the first
+- [01:10:19,310 - 01:10:20,970] basis vector on the left here,
+- [01:10:20,970 - 01:10:23,690] so one of the indices is just 1,
+- [01:10:23,690 - 01:10:24,450] I don't want to confuse
+- [01:10:24,450 - 01:10:25,090] this with i,
+- [01:10:25,090 - 01:10:28,070] let's draw it so that it looks like a 1.
+- [01:10:28,070 - 01:10:30,430] Does that look like a 1?
+- [01:10:30,430 - 01:10:32,770] I hope
+- [01:10:32,770 - 01:10:32,910] so.
+- [01:10:32,910 - 01:10:34,510] Okay,
+- [01:10:34,510 - 01:10:36,350] now what is this thing?
+- [01:10:36,350 - 01:10:39,210] It's summed on i,
+- [01:10:39,210 - 01:10:42,110] but there's only one term in that sum.
+- [01:10:42,690 - 01:10:45,790] That's because b1 is orthogonal to all
+- [01:10:45,790 - 01:10:48,890] the bi's except for i equals 1.
+- [01:10:48,890 - 01:10:50,090] Okay?
+- [01:10:50,090 - 01:10:50,850] So there's
+- [01:10:50,850 - 01:10:51,590] only one term,
+- [01:10:51,590 - 01:10:54,670] and that term is when i is equal to 1.
+- [01:10:54,670 - 01:10:57,590] When i is equal to 1,
+- [01:10:57,590 - 01:10:58,690] the inner
+- [01:10:58,690 - 01:11:00,350] product here is just the number 1.
+- [01:11:01,150 - 01:11:02,750] So the result is i.
+- [01:11:02,770 - 01:11:04,270] So the result is just v1.
+- [01:11:04,270 - 01:11:13,250] What about the inner product of b2 with v?
+- [01:11:13,250 - 01:11:15,790] Exactly the same argument
+- [01:11:15,790 - 01:11:18,430] will tell you that the inner product
+- [01:11:18,430 - 01:11:21,070] of b2 with v is the coefficient v2.
+- [01:11:21,070 - 01:11:23,630] Now this is
+- [01:11:23,630 - 01:11:24,290] kind of interesting.
+- [01:11:24,290 - 01:11:29,150] I have now figured out what the v's are.
+- [01:11:29,150 - 01:11:31,090] If I give you a vector v,
+- [01:11:31,330 - 01:11:31,690] okay?
+- [01:11:32,690 - 01:11:34,940] And I ask you to expand
+- [01:11:34,940 - 01:11:37,190] it in terms of the basis vectors,
+- [01:11:37,190 - 01:11:39,490] it's very easy to figure out
+- [01:11:39,490 - 01:11:40,670] what the coefficients are.
+- [01:11:40,670 - 01:11:42,720] The coefficients are just the
+- [01:11:42,720 - 01:11:44,770] inner products of v with the
+- [01:11:44,770 - 01:11:45,470] basis vectors.
+- [01:11:45,470 - 01:11:48,160] So we can now write a
+- [01:11:48,160 - 01:11:50,850] more general formula and put it together.
+- [01:11:50,850 - 01:11:51,570] Let's
+- [01:11:51,970 - 01:11:53,110] write a more general formula,
+- [01:11:53,110 - 01:11:53,730] put it together.
+- [01:11:55,510 - 01:11:55,790] Okay.
+- [01:11:55,790 - 01:11:55,990] Okay.
+- [01:12:02,510 - 01:12:03,430] First of all,
+- [01:12:03,430 - 01:12:04,450] we can say that,
+- [01:12:04,450 - 01:12:13,070] let's call it bjv is vj.
+- [01:12:13,070 - 01:12:17,030] Now I want you to imagine that
+- [01:12:17,030 - 01:12:19,210] vj is the thing I was trying to figure out.
+- [01:12:19,210 - 01:12:22,110] I was trying to figure out what expansion
+- [01:12:22,110 - 01:12:24,090] coefficients I need here in
+- [01:12:24,090 - 01:12:26,070] order to expand the vector v.
+- [01:12:26,070 - 01:12:28,690] I want to write v in this form.
+- [01:12:29,470 - 01:12:30,010] All right?
+- [01:12:31,170 - 01:12:31,650] Well,
+- [01:12:31,650 - 01:12:33,350] the answer is that the expansion
+- [01:12:33,350 - 01:12:35,050] coefficients are just these inner products.
+- [01:12:35,050 - 01:12:36,470] But now let's
+- [01:12:36,470 - 01:12:37,470] rewrite this equation.
+- [01:12:37,470 - 01:12:38,670] I can also write it,
+- [01:12:38,670 - 01:12:39,750] I can also write the,
+- [01:12:39,750 - 01:12:40,290] of course,
+- [01:12:40,290 - 01:12:40,690] that v,
+- [01:12:40,690 - 01:12:40,950] that
+- [01:12:40,950 - 01:12:41,390] vi,
+- [01:12:41,390 - 01:12:43,930] v is vi.
+- [01:12:43,930 - 01:12:47,990] Doesn't matter whether I stick j or i there,
+- [01:12:47,990 - 01:12:48,870] same formula.
+- [01:12:48,870 - 01:12:50,250] And now let's
+- [01:12:50,250 - 01:12:51,930] rewrite this formula here,
+- [01:12:51,930 - 01:12:55,610] sticking in the v's that I've calculated.
+- [01:12:55,610 - 01:12:58,550] So let's do that.
+- [01:12:59,169 - 01:13:04,870] We have v is equal to a sum.
+- [01:13:04,870 - 01:13:08,530] Now I'm going to start by writing bi here.
+- [01:13:08,530 - 01:13:11,410] You asked me
+- [01:13:11,410 - 01:13:13,840] earlier whether there's any significance to whether I
+- [01:13:13,840 - 01:13:16,270] put the vi on this side or on
+- [01:13:16,270 - 01:13:16,730] that side.
+- [01:13:16,730 - 01:13:17,470] The answer was no.
+- [01:13:17,470 - 01:13:21,090] So I'm going to choose to write it over here.
+- [01:13:21,090 - 01:13:25,030] But now I'm
+- [01:13:25,030 - 01:13:26,550] going to take what vi is.
+- [01:13:26,770 - 01:13:26,970] Okay.
+- [01:13:28,550 - 01:13:29,210] And I'm going to write the
+- [01:13:29,210 - 01:13:29,870] inner product of bi with v.
+- [01:13:29,870 - 01:13:32,230] So let me just substitute that
+- [01:13:32,230 - 01:13:32,450] in.
+- [01:13:35,009 - 01:13:37,690] Bi with v.
+- [01:13:37,690 - 01:13:41,450] That's a kind of neat formula.
+- [01:13:41,450 - 01:13:44,670] That formula will come up over and over again.
+- [01:13:45,210 - 01:13:46,850] It's sort of easy to remember.
+- [01:13:46,850 - 01:13:49,640] V is the sum of all
+- [01:13:49,640 - 01:13:52,430] the basis vectors of the i-th basis
+- [01:13:52,430 - 01:13:54,630] vector times biv.
+- [01:13:54,630 - 01:13:56,440] And I choose to write it
+- [01:13:56,440 - 01:13:58,250] in this form because later on,
+- [01:13:58,250 - 01:13:58,530] when we get
+- [01:13:58,550 - 01:14:00,000] to the point where we find out
+- [01:14:00,000 - 01:14:01,450] what an outer product of two vectors is,
+- [01:14:01,450 - 01:14:02,470] we'll discover
+- [01:14:02,470 - 01:14:04,010] that this has some nice significance.
+- [01:14:04,010 - 01:14:06,080] But this is a formula
+- [01:14:06,080 - 01:14:08,150] for any vector if you know
+- [01:14:08,150 - 01:14:09,870] it's in the product of the basis vectors.
+- [01:14:11,250 - 01:14:11,770] Okay.
+- [01:14:11,770 - 01:14:13,630] So that's a useful formula,
+- [01:14:13,630 - 01:14:25,370] which we will draw on over and over again.
+- [01:14:25,370 - 01:14:28,530] And I'm
+- [01:14:28,530 - 01:14:28,930] going to write it over here.
+- [01:14:28,930 - 01:14:29,850] But for the moment,
+- [01:14:29,850 - 01:14:36,350] that's it about vector spaces.
+- [01:14:36,350 - 01:14:38,410] We haven't discussed operators yet.
+- [01:14:38,550 - 01:14:39,730] I don't know if we'll have time tonight.
+- [01:14:39,730 - 01:14:40,850] I would like to get to operators.
+- [01:14:40,850 - 01:14:41,730] I think we
+- [01:14:41,730 - 01:14:41,930] will.
+- [01:14:41,930 - 01:14:44,550] But let's just talk a little bit
+- [01:14:44,550 - 01:14:47,170] now about the physical significance of vector
+- [01:14:47,170 - 01:14:47,490] spaces.
+- [01:14:50,090 - 01:14:51,290] In quantum mechanics,
+- [01:14:51,290 - 01:14:52,450] in classical mechanics,
+- [01:14:52,450 - 01:14:54,810] the space of states,
+- [01:14:54,810 - 01:14:56,750] the phase space,
+- [01:14:56,750 - 01:14:57,390] the
+- [01:14:57,390 - 01:14:59,190] space or the collection of
+- [01:14:59,190 - 01:15:00,990] possible configurations of a system,
+- [01:15:00,990 - 01:15:03,310] form a set.
+- [01:15:03,310 - 01:15:05,010] In the mathematical
+- [01:15:05,010 - 01:15:06,230] sense of set theory,
+- [01:15:06,230 - 01:15:08,400] the operations that you can do
+- [01:15:08,400 - 01:15:10,570] with sets are the usual operations
+- [01:15:10,570 - 01:15:14,640] that you can do — you can form the
+- [01:15:14,640 - 01:15:18,710] intersection of two sets — that's the operation of and.
+- [01:15:19,850 - 01:15:21,070] Now if you have a set,
+- [01:15:21,070 - 01:15:26,630] if you have a set of some kind...
+- [01:15:26,630 - 01:15:27,370] Hold it.
+- [01:15:27,370 - 01:15:27,370] If you...
+- [01:15:27,370 - 01:15:28,910] and you consider some subset,
+- [01:15:28,910 - 01:15:32,430] and you consider another subset
+- [01:15:37,989 - 01:15:40,849] then the things which are
+- [01:15:40,849 - 01:15:43,710] in both subsets are the intersection
+- [01:15:45,949 - 01:15:48,709] and the things which are in one set or
+- [01:15:48,709 - 01:15:51,470] the other set are the union of the two sets
+- [01:15:51,470 - 01:15:53,820] those are the basic operations or two
+- [01:15:53,820 - 01:15:56,170] of the fundamental operations of set theory
+- [01:15:56,170 - 01:15:59,630] intersection and union,
+- [01:15:59,630 - 01:16:04,530] and they correspond to AND and OR
+- [01:16:05,630 - 01:16:08,710] Quantum mechanics is very very different
+- [01:16:08,710 - 01:16:12,290] the concepts of AND and OR are quite different
+- [01:16:13,790 - 01:16:15,270] we're not going to talk about them tonight
+- [01:16:16,670 - 01:16:18,890] but the difference derives from the
+- [01:16:18,890 - 01:16:21,110] fact that the states of a system
+- [01:16:21,110 - 01:16:23,770] are not points in a set,
+- [01:16:23,770 - 01:16:26,030] they are vectors in a vector space
+- [01:16:26,269 - 01:16:28,749] and the algebra of vectors is very
+- [01:16:28,749 - 01:16:31,230] different than the algebra of Boolean algebra
+- [01:16:31,230 - 01:16:35,050] Boolean algebra being the algebra of ordinary sets
+- [01:16:35,610 - 01:16:36,930] of ordinary set theory
+- [01:16:38,650 - 01:16:42,240] so what is the connection between
+- [01:16:42,240 - 01:16:45,830] states and vectors in quantum mechanics?
+- [01:16:47,429 - 01:16:48,190] well,
+- [01:16:48,190 - 01:16:49,910] let's go back
+- [01:16:51,549 - 01:16:54,270] to what we discussed last quarter
+- [01:16:54,270 - 01:16:57,130] let's start with some discrete systems
+- [01:17:00,049 - 01:17:01,010] the coin,
+- [01:17:01,010 - 01:17:02,690] the coin was a good system
+- [01:17:02,690 - 01:17:06,550] that was useful for us in formulating classical logic
+- [01:17:06,550 - 01:17:08,530] the coin had two states
+- [01:17:08,530 - 01:17:09,710] the coin on the table,
+- [01:17:09,710 - 01:17:10,630] I don't have a coin
+- [01:17:10,630 - 01:17:11,230] do I have a coin?
+- [01:17:15,370 - 01:17:15,650] yeah
+- [01:17:17,530 - 01:17:18,310] it's a penny
+- [01:17:19,130 - 01:17:20,730] it's going to be heads or tails
+- [01:17:23,070 - 01:17:24,310] it came up heads
+- [01:17:25,449 - 01:17:31,850] and so heads or tails
+- [01:17:31,850 - 01:17:34,430] the coin is a two-state system
+- [01:17:35,290 - 01:17:37,870] the classical coin is described
+- [01:17:37,870 - 01:17:40,450] by a system with two states,
+- [01:17:40,450 - 01:17:41,790] heads and tails
+- [01:17:42,310 - 01:17:43,590] and they form a set
+- [01:17:44,270 - 01:17:46,010] that set is called the phase space
+- [01:17:46,010 - 01:17:48,090] we discussed this extensively
+- [01:17:48,310 - 01:17:48,930] last quarter
+- [01:17:48,930 - 01:17:50,330] I'm not going to discuss it again
+- [01:17:50,330 - 01:17:52,830] we could also think of this slightly differently
+- [01:17:52,830 - 01:17:56,510] we could think of the coin as having an arrow,
+- [01:17:56,510 - 01:17:58,350] a pointer embedded in it
+- [01:17:58,990 - 01:18:00,430] and I don't want to call this,
+- [01:18:00,430 - 01:18:02,590] I'm not going to call this a vector on purpose
+- [01:18:03,210 - 01:18:04,130] I'm going to call it a pointer
+- [01:18:04,130 - 01:18:06,300] just to distinguish it from the
+- [01:18:06,300 - 01:18:08,470] vectors which describe vector spaces of states
+- [01:18:10,130 - 01:18:11,190] we'll call it a pointer
+- [01:18:11,190 - 01:18:12,250] it points in some direction
+- [01:18:12,710 - 01:18:15,170] and here the pointer is pointing up
+- [01:18:15,170 - 01:18:17,010] here the pointer is pointing down
+- [01:18:18,570 - 01:18:20,190] and I could call these
+- [01:18:20,190 - 01:18:21,810] two states either up and down
+- [01:18:21,810 - 01:18:23,050] heads and tails
+- [01:18:23,050 - 01:18:25,390] or I could even give them a different name
+- [01:18:25,390 - 01:18:27,710] I could call this state plus
+- [01:18:29,070 - 01:18:32,270] or even plus one and minus one
+- [01:18:33,130 - 01:18:34,890] just giving them names now
+- [01:18:34,890 - 01:18:37,650] we call these states plus one and minus one
+- [01:18:41,949 - 01:18:43,550] in quantum mechanics
+- [01:18:44,310 - 01:18:46,190] we take these two states
+- [01:18:47,809 - 01:18:49,210] of the coin
+- [01:18:50,490 - 01:18:52,100] but of course we don't
+- [01:18:52,100 - 01:18:53,710] really need quantum mechanics for coins
+- [01:18:53,710 - 01:18:55,010] it wouldn't do us very much good
+- [01:18:55,629 - 01:18:58,670] but for some very very quantum mechanical variable
+- [01:18:58,670 - 01:19:00,030] which could either for one reason
+- [01:19:00,030 - 01:19:01,390] or another be up or down
+- [01:19:01,390 - 01:19:03,350] I'm really thinking about the spin of an electron
+- [01:19:03,350 - 01:19:07,390] but for the moment it's just a system
+- [01:19:07,390 - 01:19:10,470] which can take on two values and only two values
+- [01:19:10,470 - 01:19:12,470] either heads or tails
+- [01:19:12,470 - 01:19:13,330] plus one,
+- [01:19:13,330 - 01:19:14,650] minus one or up or down
+- [01:19:15,410 - 01:19:15,930] okay
+- [01:19:16,190 - 01:19:20,390] and we simply assign vectors to these two states
+- [01:19:21,369 - 01:19:23,170] two basis vectors
+- [01:19:23,170 - 01:19:25,210] two orthogonal vectors
+- [01:19:25,210 - 01:19:27,670] one of them we can call heads
+- [01:19:28,190 - 01:19:30,670] the other one we can call tails
+- [01:19:31,509 - 01:19:32,190] or
+- [01:19:33,309 - 01:19:34,870] we can call them
+- [01:19:34,870 - 01:19:36,690] the vector plus one
+- [01:19:36,690 - 01:19:38,710] and the vector minus one
+- [01:19:39,429 - 01:19:40,830] now these are just names
+- [01:19:40,830 - 01:19:43,030] this plus one doesn't mean
+- [01:19:43,030 - 01:19:45,610] that this vector has length plus one
+- [01:19:45,610 - 01:19:47,210] and it doesn't mean
+- [01:19:47,210 - 01:19:49,290] that this vector has length minus one
+- [01:19:49,290 - 01:19:50,490] they're just names
+- [01:19:50,490 - 01:19:53,650] the vector plus one and the vector minus one
+- [01:19:53,650 - 01:19:55,930] or if you like the vector heads and tails
+- [01:19:57,429 - 01:19:59,790] well you could do this in classical physics too
+- [01:19:59,790 - 01:20:00,250] you could
+- [01:20:00,250 - 01:20:01,730] nothing to prevent you
+- [01:20:01,730 - 01:20:03,130] from imagining
+- [01:20:03,769 - 01:20:06,450] that you could identify some sort of vector
+- [01:20:06,450 - 01:20:09,650] with the two configurations of heads and tails
+- [01:20:09,650 - 01:20:11,350] but it wouldn't do you any good
+- [01:20:11,350 - 01:20:13,890] there'd be no particular purpose in doing so
+- [01:20:13,890 - 01:20:15,410] in particular
+- [01:20:15,410 - 01:20:17,550] what sense would it make
+- [01:20:17,550 - 01:20:20,810] to add the two vectors heads plus tails
+- [01:20:20,810 - 01:20:22,310] sure you can call
+- [01:20:22,310 - 01:20:24,590] you can call the configuration heads
+- [01:20:24,590 - 01:20:26,210] by the label
+- [01:20:26,910 - 01:20:28,610] if you like a ket vector
+- [01:20:28,610 - 01:20:30,190] with an h stuck in it
+- [01:20:30,190 - 01:20:31,370] and just call it that
+- [01:20:31,790 - 01:20:33,670] you could call the down state
+- [01:20:33,670 - 01:20:35,110] or the tail state t
+- [01:20:35,890 - 01:20:37,970] but you would have no meaning whatever
+- [01:20:37,970 - 01:20:40,110] to a combination like
+- [01:20:40,950 - 01:20:42,010] oh I don't know
+- [01:20:42,010 - 01:20:43,610] again complex numbers
+- [01:20:43,890 - 01:20:45,450] alpha times heads
+- [01:20:45,450 - 01:20:47,790] plus beta times tails
+- [01:20:47,790 - 01:20:49,690] what on earth would that mean
+- [01:20:49,690 - 01:20:53,170] in particular with alpha and beta being complex numbers
+- [01:20:53,830 - 01:20:55,670] doesn't mean anything in classical physics
+- [01:20:55,670 - 01:20:58,610] so this is something you would not entertain
+- [01:20:58,610 - 01:21:00,890] adding the two vectors together
+- [01:21:00,890 - 01:21:02,720] and therefore since you wouldn't entertain
+- [01:21:02,720 - 01:21:04,550] the idea of adding them together
+- [01:21:05,450 - 01:21:07,650] there's no point in calling it a vector space
+- [01:21:08,929 - 01:21:10,870] instead you just call it a set
+- [01:21:10,870 - 01:21:12,490] heads and tails
+- [01:21:12,490 - 01:21:15,810] and you never think about combining them together
+- [01:21:15,810 - 01:21:17,290] by the operation of addition
+- [01:21:19,530 - 01:21:23,050] the operation of addition has no meaning
+- [01:21:23,050 - 01:21:24,890] for a point and a set
+- [01:21:24,890 - 01:21:27,350] of course you can form the union
+- [01:21:28,650 - 01:21:30,290] of two points
+- [01:21:30,290 - 01:21:33,490] but that's not adding the two points together
+- [01:21:33,490 - 01:21:35,290] to form a third point so to speak
+- [01:21:35,290 - 01:21:37,450] you don't add two points together
+- [01:21:37,450 - 01:21:40,670] in a vector space to form a third point
+- [01:21:40,670 - 01:21:42,470] but you do add two points together
+- [01:21:42,490 - 01:21:44,230] to form a third vector
+- [01:21:44,230 - 01:21:47,590] so there must be some kind of concept
+- [01:21:47,590 - 01:21:49,650] of a state
+- [01:21:49,650 - 01:21:52,350] of this two level system
+- [01:21:52,350 - 01:21:54,070] of this two state system
+- [01:21:54,070 - 01:21:57,850] which is the linear superposition of two of them
+- [01:21:57,850 - 01:22:00,130] that's what's new in quantum mechanics
+- [01:22:00,130 - 01:22:01,510] that this has the meaning
+- [01:22:01,510 - 01:22:02,670] this has a meaning
+- [01:22:03,400 - 01:22:04,770] and it has a meaning
+- [01:22:05,970 - 01:22:08,530] of a particular state
+- [01:22:08,530 - 01:22:10,430] of the heads tails system
+- [01:22:10,430 - 01:22:12,430] which is different than either heads or tails
+- [01:22:13,929 - 01:22:15,650] what way it's different
+- [01:22:15,650 - 01:22:17,430] how it's different
+- [01:22:18,509 - 01:22:20,770] is at the heart of quantum mechanics
+- [01:22:20,770 - 01:22:21,890] this is going to take
+- [01:22:21,890 - 01:22:23,010] us a little bit of time
+- [01:22:23,010 - 01:22:25,110] we're probably not going to really get to it tonight
+- [01:22:27,069 - 01:22:28,930] but that's the basic setup
+- [01:22:28,930 - 01:22:31,010] that the states of a system are vectors
+- [01:22:31,010 - 01:22:32,450] and not only that
+- [01:22:32,450 - 01:22:33,770] that we can add them together
+- [01:22:33,770 - 01:22:35,770] and make sense out of new states
+- [01:22:36,410 - 01:22:37,390] which is for example
+- [01:22:37,390 - 01:22:40,930] a linear combination of heads and tails
+- [01:22:43,049 - 01:22:44,750] it's neither heads nor tails
+- [01:22:46,089 - 01:22:50,470] but it's some number alpha h times heads
+- [01:22:50,470 - 01:22:53,170] plus alpha t times tails
+- [01:22:53,170 - 01:22:55,230] now let's
+- [01:22:56,750 - 01:22:58,480] there's no reason to restrict
+- [01:22:58,480 - 01:23:00,210] ourselves incidentally to two states
+- [01:23:00,210 - 01:23:01,890] but before I go on to more states
+- [01:23:02,769 - 01:23:05,090] six state system or a ten state system
+- [01:23:05,090 - 01:23:08,130] let's just specify a little more carefully
+- [01:23:08,130 - 01:23:11,330] the properties of the vectors heads and tails
+- [01:23:11,330 - 01:23:13,610] or the properties of the vectors one and minus one
+- [01:23:14,310 - 01:23:15,390] first of all
+- [01:23:15,390 - 01:23:17,650] they are orthogonal to each other
+- [01:23:17,650 - 01:23:18,830] now this is a postulate
+- [01:23:19,530 - 01:23:20,870] the postulate is
+- [01:23:20,870 - 01:23:23,030] that states of a system
+- [01:23:23,030 - 01:23:24,970] which are clearly distinguishable
+- [01:23:24,970 - 01:23:26,670] by a single experiment
+- [01:23:26,670 - 01:23:28,210] and in this case the
+- [01:23:28,210 - 01:23:29,750] experiment would simply be to look
+- [01:23:30,080 - 01:23:31,210] is it heads or tails
+- [01:23:31,210 - 01:23:32,710] one experiment
+- [01:23:33,510 - 01:23:36,330] if by a simple experiment
+- [01:23:36,330 - 01:23:38,850] you can uniquely distinguish
+- [01:23:38,850 - 01:23:40,550] the two configurations
+- [01:23:40,550 - 01:23:45,390] then the vectors that go along with those two configurations
+- [01:23:45,390 - 01:23:46,590] are orthogonal
+- [01:23:47,549 - 01:23:49,150] so orthogonal vectors
+- [01:23:49,830 - 01:23:50,510] correspond
+- [01:23:52,169 - 01:23:53,530] to configurations
+- [01:23:54,330 - 01:23:56,190] for which there is an experiment
+- [01:23:56,190 - 01:23:57,850] a clean simple experiment
+- [01:23:58,550 - 01:24:01,210] that can tell you whether it's one or the other
+- [01:24:02,049 - 01:24:03,950] that's the meaning of orthogonality
+- [01:24:04,550 - 01:24:06,230] distinguishable in the sense that there's
+- [01:24:06,230 - 01:24:07,910] an experiment that can distinguish them
+- [01:24:08,849 - 01:24:09,530] good
+- [01:24:09,530 - 01:24:10,690] that's number one
+- [01:24:10,690 - 01:24:11,910] so we assume
+- [01:24:11,910 - 01:24:15,410] that h and t are orthogonal to each other
+- [01:24:15,410 - 01:24:17,930] that means that h and t
+- [01:24:21,010 - 01:24:22,650] have zero in a product
+- [01:24:23,650 - 01:24:24,710] another rule
+- [01:24:25,530 - 01:24:27,470] which is now somewhat arbitrary
+- [01:24:27,470 - 01:24:29,570] but we can impose it
+- [01:24:29,570 - 01:24:31,510] we can also choose
+- [01:24:31,510 - 01:24:34,970] the vectors h and t to be of unit length
+- [01:24:35,530 - 01:24:38,130] so let's also choose h h
+- [01:24:39,530 - 01:24:41,070] equals t t
+- [01:24:42,469 - 01:24:43,610] equals one
+- [01:24:43,610 - 01:24:45,280] in other words the two vectors
+- [01:24:45,280 - 01:24:46,950] h and t form a basis
+- [01:24:48,290 - 01:24:50,930] a basis identified with the
+- [01:24:50,930 - 01:24:53,570] distinguishable states of a system
+- [01:24:53,570 - 01:24:56,410] which can be distinguished by a clean experiment
+- [01:24:56,410 - 01:25:01,490] we identify the different configurations that we can measure
+- [01:25:02,269 - 01:25:03,890] with a basis of
+- [01:25:04,530 - 01:25:06,450] in the vector space
+- [01:25:07,490 - 01:25:09,430] nothing special about two vectors
+- [01:25:09,530 - 01:25:10,510] another
+- [01:25:12,389 - 01:25:13,490] simple system
+- [01:25:13,490 - 01:25:15,090] would be the die
+- [01:25:15,769 - 01:25:17,010] die as in dice
+- [01:25:19,369 - 01:25:20,770] we throw a die
+- [01:25:20,770 - 01:25:22,390] it comes up
+- [01:25:22,390 - 01:25:24,430] with anything from one to six
+- [01:25:24,430 - 01:25:24,810] one
+- [01:25:25,530 - 01:25:25,930] two
+- [01:25:26,530 - 01:25:27,610] one two three
+- [01:25:28,950 - 01:25:29,510] this
+- [01:25:30,089 - 01:25:30,650] corresponds
+- [01:25:30,650 - 01:25:31,630] it's on the table
+- [01:25:33,530 - 01:25:35,610] we identify this with the state
+- [01:25:35,610 - 01:25:36,630] let's call it now
+- [01:25:36,630 - 01:25:37,550] just call it three
+- [01:25:39,530 - 01:25:40,550] this doesn't mean it's length
+- [01:25:40,550 - 01:25:42,570] this doesn't mean the length of the vector is three
+- [01:25:42,570 - 01:25:45,030] it just means the vector is called three
+- [01:25:45,030 - 01:25:46,690] there are six of them
+- [01:25:46,690 - 01:25:47,930] six distinct
+- [01:25:49,289 - 01:25:51,830] one dot dot dot dot dot up to six
+- [01:25:53,969 - 01:25:54,490] here
+- [01:25:55,110 - 01:25:57,470] the state vector space was two dimensional
+- [01:25:58,089 - 01:25:59,330] two basis vectors
+- [01:25:59,330 - 01:26:02,330] here the state vector space is six dimensional
+- [01:26:03,109 - 01:26:04,870] six orthogonal vectors
+- [01:26:05,530 - 01:26:06,770] all mutually orthogonal
+- [01:26:06,770 - 01:26:08,430] I'm not going to write that down
+- [01:26:08,430 - 01:26:11,410] all mutually orthogonal and of unit length
+- [01:26:11,410 - 01:26:14,110] in other words the six vectors corresponding
+- [01:26:14,110 - 01:26:16,810] to the six distinct configurations of the die
+- [01:26:16,810 - 01:26:18,730] distinguishable configurations
+- [01:26:19,430 - 01:26:21,210] that you can tell the difference between
+- [01:26:21,210 - 01:26:23,570] basically in a single experiment
+- [01:26:23,570 - 01:26:25,210] just one experiment
+- [01:26:25,210 - 01:26:26,640] you just look at it
+- [01:26:26,640 - 01:26:28,070] and you see which faces up
+- [01:26:31,369 - 01:26:33,990] that determines for you
+- [01:26:33,990 - 01:26:36,200] which of the six
+- [01:26:36,200 - 01:26:38,410] vectors describe the particular configuration
+- [01:26:38,410 - 01:26:39,350] now
+- [01:26:41,169 - 01:26:43,009] I haven't told you the physical
+- [01:26:43,009 - 01:26:44,850] meaning of adding these vectors together
+- [01:26:45,269 - 01:26:46,650] I just told you though
+- [01:26:46,650 - 01:26:48,990] that it makes sense in quantum mechanics to
+- [01:26:48,990 - 01:26:51,330] do something you would never do in classical mechanics
+- [01:26:51,929 - 01:26:53,230] and that's add
+- [01:26:54,129 - 01:26:57,650] these two configurations to find yet some new configuration
+- [01:26:58,570 - 01:27:01,030] configuration which is different than either of these
+- [01:27:01,030 - 01:27:02,030] h and t
+- [01:27:02,650 - 01:27:04,250] that's what's new in quantum mechanics
+- [01:27:04,250 - 01:27:06,410] that if you had a single coin
+- [01:27:06,410 - 01:27:08,330] which whenever you measured it
+- [01:27:08,410 - 01:27:09,830] was either heads or tails
+- [01:27:10,190 - 01:27:12,110] there are additional possibilities
+- [01:27:13,389 - 01:27:15,490] which are somehow mixtures
+- [01:27:15,490 - 01:27:17,210] of heads and tails in a
+- [01:27:17,210 - 01:27:18,930] way that doesn't happen in classical physics
+- [01:27:18,930 - 01:27:21,610] the same thing is true here for the die
+- [01:27:21,610 - 01:27:23,010] you can have
+- [01:27:23,010 - 01:27:24,670] let's call these
+- [01:27:24,670 - 01:27:26,350] let's give them coefficients again
+- [01:27:26,350 - 01:27:28,210] this would be alpha one one
+- [01:27:29,509 - 01:27:31,630] plus alpha two two
+- [01:27:32,349 - 01:27:33,390] dot dot dot
+- [01:27:33,390 - 01:27:36,170] up to alpha six six
+- [01:27:36,170 - 01:27:38,390] this is some state
+- [01:27:38,410 - 01:27:39,130] of the die
+- [01:27:39,910 - 01:27:42,150] which doesn't have a classical analog
+- [01:27:44,010 - 01:27:45,410] well what does it mean
+- [01:27:47,310 - 01:27:48,810] we're going to eventually get
+- [01:27:48,810 - 01:27:50,310] around to exactly what it means
+- [01:27:50,310 - 01:27:51,650] but let me tell you some properties
+- [01:27:52,350 - 01:27:53,530] of such a state
+- [01:27:55,870 - 01:27:57,370] let's begin with the heads and tails
+- [01:27:59,550 - 01:28:00,990] whenever I look at a coin
+- [01:28:02,930 - 01:28:04,850] and I check whether it's heads or tails
+- [01:28:04,850 - 01:28:06,610] I find it's either heads or tails
+- [01:28:06,610 - 01:28:07,870] I don't find
+- [01:28:07,870 - 01:28:10,270] I mean except with the extremely unlucky situation
+- [01:28:10,270 - 01:28:11,490] or maybe lucky situation
+- [01:28:11,490 - 01:28:11,930] where it's
+- [01:28:12,710 - 01:28:14,530] I can't even get it to stand on
+- [01:28:14,530 - 01:28:16,050] no way I can do it
+- [01:28:16,050 - 01:28:17,210] it's either heads or tails
+- [01:28:17,210 - 01:28:19,550] if I check whether it's heads or tails
+- [01:28:19,550 - 01:28:21,210] it will be one or the other
+- [01:28:22,010 - 01:28:23,950] so if I check it's one or the other
+- [01:28:24,450 - 01:28:25,790] what kind of thing
+- [01:28:26,410 - 01:28:29,650] is alpha h heads plus alpha tails tails
+- [01:28:29,650 - 01:28:30,870] it is a state
+- [01:28:31,690 - 01:28:33,550] and it's a state which if you
+- [01:28:33,550 - 01:28:35,410] measure the heads or tailsness of it
+- [01:28:35,410 - 01:28:36,870] will have a probability
+- [01:28:37,190 - 01:28:39,410] of having heads and tails
+- [01:28:39,410 - 01:28:42,050] and the probabilities for heads and tails
+- [01:28:42,050 - 01:28:45,570] will be related to alpha h and alpha t
+- [01:28:46,250 - 01:28:47,770] so this is some state
+- [01:28:48,190 - 01:28:49,890] in which when we look at the penny
+- [01:28:53,170 - 01:28:54,130] it has
+- [01:28:54,130 - 01:28:57,430] a probability for being heads
+- [01:28:57,430 - 01:28:59,250] and a probability for being tails
+- [01:28:59,250 - 01:29:00,310] remember quantum mechanics
+- [01:29:00,310 - 01:29:04,090] is probabilistic in a way that classical physics is not
+- [01:29:05,410 - 01:29:07,970] so what is the probability for heads
+- [01:29:08,910 - 01:29:10,470] let's call it p sub h
+- [01:29:10,470 - 01:29:12,330] that's the probability for heads
+- [01:29:12,330 - 01:29:14,690] it has to be positive
+- [01:29:14,690 - 01:29:16,450] it has to be real
+- [01:29:16,450 - 01:29:19,810] these alphas are arbitrary complex numbers
+- [01:29:20,410 - 01:29:21,490] what can it be
+- [01:29:22,290 - 01:29:26,150] it's just alpha h star alpha h
+- [01:29:28,250 - 01:29:30,190] that's a postulate of quantum mechanics
+- [01:29:30,190 - 01:29:31,930] and of course the success of
+- [01:29:31,930 - 01:29:33,670] this postulate is an experimental fact
+- [01:29:34,370 - 01:29:35,390] but it's a fact
+- [01:29:35,410 - 01:29:36,670] it's a postulate of quantum mechanics
+- [01:29:36,670 - 01:29:39,570] if we take a sort of axiomatic view of it
+- [01:29:39,570 - 01:29:43,550] that the probability for heads in this case would be
+- [01:29:44,349 - 01:29:46,210] alpha h star alpha h
+- [01:29:46,210 - 01:29:47,670] which is a positive real number
+- [01:29:47,670 - 01:29:49,530] and what about t
+- [01:29:49,530 - 01:29:52,570] the probability for tails would
+- [01:29:52,570 - 01:29:55,610] be alpha star t alpha t
+- [01:29:58,670 - 01:29:59,350] well
+- [01:30:00,349 - 01:30:02,550] that tells us one more constraint
+- [01:30:02,550 - 01:30:05,050] about these vectors describing physical states
+- [01:30:05,410 - 01:30:07,970] we do expect the probability for h
+- [01:30:07,970 - 01:30:09,410] plus the probability for t
+- [01:30:09,410 - 01:30:10,510] to add up to one
+- [01:30:11,330 - 01:30:13,590] so we expect then that alpha h
+- [01:30:14,809 - 01:30:15,370] ah
+- [01:30:16,650 - 01:30:18,050] star alpha h
+- [01:30:18,809 - 01:30:20,130] plus alpha t
+- [01:30:21,150 - 01:30:22,590] star alpha t
+- [01:30:25,089 - 01:30:26,270] is equal to one
+- [01:30:26,849 - 01:30:28,470] let's give this vector a name
+- [01:30:28,470 - 01:30:29,610] I don't know what to call it
+- [01:30:29,610 - 01:30:30,710] let's just call it
+- [01:30:30,710 - 01:30:33,490] anybody have a suggestion what I should call it
+- [01:30:33,490 - 01:30:35,390] I don't know
+- [01:30:35,410 - 01:30:35,970] hmm
+- [01:30:35,970 - 01:30:36,490] b
+- [01:30:37,330 - 01:30:37,670] p
+- [01:30:38,469 - 01:30:39,390] why p
+- [01:30:40,730 - 01:30:42,590] well this isn't the probability
+- [01:30:42,590 - 01:30:43,530] this is some vector
+- [01:30:44,570 - 01:30:45,870] here are the probabilities
+- [01:30:45,870 - 01:30:46,970] I don't want to call a vector
+- [01:30:46,970 - 01:30:49,790] by a name which stands for probability
+- [01:30:50,549 - 01:30:52,950] let's just call it v for vector
+- [01:30:55,309 - 01:30:55,990] coin
+- [01:30:55,990 - 01:30:56,990] okay
+- [01:31:01,410 - 01:31:02,750] confused coin
+- [01:31:02,750 - 01:31:04,170] how about confused coin
+- [01:31:05,669 - 01:31:06,190] cc
+- [01:31:07,509 - 01:31:08,550] confused coin
+- [01:31:08,550 - 01:31:10,910] coin doesn't know whether it's heads or tails
+- [01:31:11,490 - 01:31:14,350] it's got some probability amplitude
+- [01:31:14,350 - 01:31:16,790] these are called probability amplitudes
+- [01:31:16,790 - 01:31:18,050] these are complex numbers
+- [01:31:18,050 - 01:31:20,450] they can be positive negative or complex
+- [01:31:20,450 - 01:31:22,270] imaginary whatever you like
+- [01:31:22,929 - 01:31:25,630] and when you add these together you get a coin
+- [01:31:25,630 - 01:31:26,810] a state of a coin
+- [01:31:26,810 - 01:31:27,730] a state of a coin
+- [01:31:27,730 - 01:31:28,650] you don't get a coin you
+- [01:31:28,650 - 01:31:29,570] get the state of a coin
+- [01:31:29,570 - 01:31:32,790] in which somehow it doesn't know or it's
+- [01:31:32,790 - 01:31:34,050] if you measure it
+- [01:31:34,050 - 01:31:37,950] you will find with probability alpha h alpha h star
+- [01:31:37,950 - 01:31:40,290] that it's heads and similarly for tails
+- [01:31:41,050 - 01:31:41,450] alright
+- [01:31:42,050 - 01:31:45,590] this object here is just the inner product
+- [01:31:46,849 - 01:31:49,590] of the vector cc with itself
+- [01:31:50,530 - 01:31:52,560] it's just alpha h star alpha
+- [01:31:52,560 - 01:31:54,590] h plus alpha t star alpha t
+- [01:31:54,590 - 01:31:56,530] so this is just
+- [01:31:58,150 - 01:31:59,490] the inner product
+- [01:32:01,469 - 01:32:03,070] of the vector with itself
+- [01:32:04,050 - 01:32:06,370] the vector cc does not stand for cosmological constant
+- [01:32:06,370 - 01:32:07,890] and it doesn't stand for
+- [01:32:10,669 - 01:32:12,249] what is it that you do
+- [01:32:12,249 - 01:32:13,830] when you send an email message
+- [01:32:13,830 - 01:32:15,330] you carbon copy it I guess
+- [01:32:15,330 - 01:32:18,530] it's not carbon copy it just stands for confused coin
+- [01:32:19,050 - 01:32:19,490] alright
+- [01:32:19,750 - 01:32:20,610] any state
+- [01:32:20,610 - 01:32:23,130] any properly defined state
+- [01:32:23,130 - 01:32:24,930] of the confused coin
+- [01:32:25,730 - 01:32:26,970] should have unit length
+- [01:32:26,970 - 01:32:28,090] should be normalized
+- [01:32:28,090 - 01:32:30,450] that's another postulate of quantum mechanics
+- [01:32:31,050 - 01:32:33,830] that the properly defined states of a system
+- [01:32:34,050 - 01:32:35,490] are normalized
+- [01:32:35,870 - 01:32:36,910] have unit length
+- [01:32:36,910 - 01:32:39,710] in the sense that their inner product with themselves
+- [01:32:39,710 - 01:32:40,890] is equal to one
+- [01:32:41,769 - 01:32:43,550] that's the statement that all probabilities
+- [01:32:43,550 - 01:32:44,890] should add up to one
+- [01:32:45,849 - 01:32:47,610] likewise for the die
+- [01:32:47,610 - 01:32:52,430] we have alpha one alpha one star
+- [01:32:52,430 - 01:32:54,950] plus alpha two alpha two star
+- [01:32:54,950 - 01:32:56,370] that that that
+- [01:32:56,370 - 01:32:57,890] is equal to one
+- [01:32:59,370 - 01:33:01,470] and if we call the state now
+- [01:33:02,030 - 01:33:03,690] I guess we should call it cd
+- [01:33:04,050 - 01:33:05,570] for confused die
+- [01:33:05,570 - 01:33:06,930] confused die
+- [01:33:07,950 - 01:33:10,230] then its inner product with itself
+- [01:33:10,230 - 01:33:11,790] is also equal to one
+- [01:33:11,790 - 01:33:14,670] so that's another postulate of quantum mechanics
+- [01:33:14,670 - 01:33:15,730] the first postulate
+- [01:33:15,730 - 01:33:19,190] is that states which are distinguishable
+- [01:33:19,190 - 01:33:21,130] clearly physically different
+- [01:33:21,130 - 01:33:23,930] because you can do a measurement to distinguish them
+- [01:33:23,930 - 01:33:26,470] correspond to orthogonal vectors
+- [01:33:27,650 - 01:33:28,850] second statement
+- [01:33:28,850 - 01:33:30,350] is that
+- [01:33:30,850 - 01:33:31,950] all of the
+- [01:33:31,950 - 01:33:33,910] linear superpositions
+- [01:33:34,050 - 01:33:35,270] which correspond to physically
+- [01:33:36,050 - 01:33:37,010] sensible states
+- [01:33:37,010 - 01:33:38,750] should have unit length
+- [01:33:39,570 - 01:33:41,310] should themselves be
+- [01:33:41,310 - 01:33:43,190] of unit length
+- [01:33:44,550 - 01:33:46,770] the basis vectors are of unit length
+- [01:33:46,770 - 01:33:49,910] but we should also only consider states
+- [01:33:49,910 - 01:33:51,630] whose total normalization
+- [01:33:51,630 - 01:33:52,950] is equal to one
+- [01:33:52,950 - 01:33:55,730] those are postulates of quantum mechanics
+- [01:33:59,330 - 01:34:02,050] yeah I lost you there
+- [01:34:03,090 - 01:34:03,810] alpha
+- [01:34:04,050 - 01:34:05,230] alpha h and alpha t
+- [01:34:05,230 - 01:34:06,290] how did they become
+- [01:34:06,290 - 01:34:07,810] you lost me or I lost you
+- [01:34:08,549 - 01:34:10,350] well I don't know
+- [01:34:10,350 - 01:34:13,290] so alpha h and alpha t
+- [01:34:13,290 - 01:34:16,210] they became probabilities at one point
+- [01:34:16,210 - 01:34:18,050] can you explain that a bit more
+- [01:34:18,050 - 01:34:20,430] that is a postulate of quantum mechanics
+- [01:34:21,509 - 01:34:23,230] that if you like
+- [01:34:23,230 - 01:34:25,210] that that's the meaning of the alphas
+- [01:34:25,210 - 01:34:27,050] but it's not the total meaning of alphas
+- [01:34:27,050 - 01:34:29,390] there's more to the alphas than just probabilities
+- [01:34:31,950 - 01:34:32,550] but
+- [01:34:32,550 - 01:34:35,590] as I said
+- [01:34:36,969 - 01:34:38,770] it's a postulate of quantum mechanics
+- [01:34:38,770 - 01:34:41,050] that the states of a system form a vector space
+- [01:34:41,050 - 01:34:43,790] if they form a vector space we can add them
+- [01:34:45,450 - 01:34:47,170] we have to then interpret
+- [01:34:47,170 - 01:34:48,650] we have to know what the meaning
+- [01:34:48,650 - 01:34:50,230] what the physical meaning is
+- [01:34:50,230 - 01:34:52,350] of a superposition of states like that
+- [01:34:54,129 - 01:34:55,850] I'm not telling you the full meaning
+- [01:34:55,850 - 01:34:58,650] I'm telling you now one feature
+- [01:34:58,650 - 01:35:00,070] of such states
+- [01:35:00,070 - 01:35:02,370] we will learn more about these
+- [01:35:02,370 - 01:35:03,910] and we'll get familiar with the idea
+- [01:35:03,910 - 01:35:06,270] but for the moment
+- [01:35:07,009 - 01:35:09,810] one of the postulates is that
+- [01:35:09,810 - 01:35:12,990] the probabilities are simply the squares
+- [01:35:12,990 - 01:35:14,950] or the absolute values of these
+- [01:35:14,950 - 01:35:17,090] of these probability amplitudes
+- [01:35:17,090 - 01:35:18,770] not the absolute values
+- [01:35:18,770 - 01:35:20,210] the square of the absolute values
+- [01:35:20,210 - 01:35:22,590] of the probability amplitudes
+- [01:35:29,950 - 01:35:32,190] it's only possible to justify
+- [01:35:32,370 - 01:35:34,310] these things by showing you how they work
+- [01:35:34,310 - 01:35:36,730] by showing you the ins and outs of it
+- [01:35:36,730 - 01:35:37,510] and how they work
+- [01:35:37,510 - 01:35:39,490] and how they lead to a consistent picture
+- [01:35:40,090 - 01:35:42,270] it's best at this point to accept
+- [01:35:43,550 - 01:35:45,270] make sure you know what I'm saying
+- [01:35:45,270 - 01:35:47,150] the words I think are clear
+- [01:35:47,150 - 01:35:48,330] that the probability
+- [01:35:48,330 - 01:35:51,890] if this is the state of a confused coin
+- [01:35:52,790 - 01:35:53,270] then
+- [01:35:53,850 - 01:35:56,190] if somebody somehow created a coin
+- [01:35:56,190 - 01:35:58,030] confused in this exact fashion
+- [01:36:00,110 - 01:36:01,750] what does it mean for the probabilities
+- [01:36:01,750 - 01:36:03,310] to be this incidentally
+- [01:36:03,310 - 01:36:04,770] what it really means
+- [01:36:04,770 - 01:36:07,450] is that you have a lot of these confused coins
+- [01:36:07,450 - 01:36:09,130] all created the same way
+- [01:36:09,130 - 01:36:10,330] let's be very specific now
+- [01:36:10,330 - 01:36:13,030] we have a lot of coins
+- [01:36:13,030 - 01:36:15,570] a million of them
+- [01:36:16,889 - 01:36:19,490] and we have a lot of coin tossers
+- [01:36:19,490 - 01:36:22,010] and they all toss the coin
+- [01:36:22,010 - 01:36:23,970] or they all do the experiment
+- [01:36:23,970 - 01:36:25,470] whatever that experiment is
+- [01:36:25,470 - 01:36:26,830] it's not really tossing coins
+- [01:36:26,830 - 01:36:28,390] it's something else that we're going to do
+- [01:36:28,390 - 01:36:30,110] but we do some experiment
+- [01:36:30,110 - 01:36:31,730] starting with all the coins
+- [01:36:31,750 - 01:36:32,250] the same
+- [01:36:32,250 - 01:36:33,890] let's say we take all the coins
+- [01:36:33,890 - 01:36:34,450] and put them heads
+- [01:36:34,450 - 01:36:38,130] and then we do something to that coin
+- [01:36:38,130 - 01:36:39,430] whatever it is
+- [01:36:39,430 - 01:36:41,850] we put it in a magnetic field
+- [01:36:41,850 - 01:36:43,490] we turn the magnetic field
+- [01:36:43,490 - 01:36:44,970] we do various things to it
+- [01:36:46,250 - 01:36:47,950] but not just with one coin
+- [01:36:47,950 - 01:36:49,790] but with a whole bunch of them
+- [01:36:50,429 - 01:36:53,850] each one dealt with identically to the others
+- [01:36:55,669 - 01:36:57,170] a zillion of them
+- [01:36:57,170 - 01:36:58,250] however many we need
+- [01:36:58,250 - 01:36:59,910] in order to be able to use the statistics
+- [01:37:00,449 - 01:37:01,490] and probabilities
+- [01:37:01,750 - 01:37:01,830] we have to be able to use the statistics
+- [01:37:01,830 - 01:37:02,530] in a sensible way
+- [01:37:04,250 - 01:37:06,070] then after having done this
+- [01:37:06,530 - 01:37:07,650] we look at the coins
+- [01:37:07,650 - 01:37:08,810] I look at the first one heads
+- [01:37:08,810 - 01:37:10,090] I look at the second one tails
+- [01:37:10,090 - 01:37:11,330] I look at the third one heads
+- [01:37:11,330 - 01:37:12,130] tails,
+- [01:37:12,130 - 01:37:12,430] tails,
+- [01:37:12,430 - 01:37:12,830] heads,
+- [01:37:12,830 - 01:37:13,190] tails,
+- [01:37:13,190 - 01:37:13,490] heads
+- [01:37:13,490 - 01:37:14,370] and so forth
+- [01:37:16,070 - 01:37:18,530] from the frequency of heads and tails
+- [01:37:19,570 - 01:37:22,370] I can experimentally determine the probability
+- [01:37:22,370 - 01:37:23,470] for heads and tails
+- [01:37:23,470 - 01:37:25,670] if I have equal number of heads and tails
+- [01:37:25,670 - 01:37:27,070] the probability is a half
+- [01:37:27,630 - 01:37:29,290] if three quarters of them are heads
+- [01:37:29,290 - 01:37:30,590] and one quarter are tails
+- [01:37:30,590 - 01:37:32,130] and I have enough of them
+- [01:37:32,130 - 01:37:34,890] then I say the probability is three quarters heads
+- [01:37:34,890 - 01:37:36,490] one quarter tails and so forth
+- [01:37:41,850 - 01:37:45,610] the postulate is that the probability for heads and tails
+- [01:37:45,610 - 01:37:47,650] is given by these coefficients here
+- [01:37:47,650 - 01:37:48,650] that is it,
+- [01:37:48,650 - 01:37:49,370] it's a postulate
+- [01:37:49,370 - 01:37:50,370] you can't ask me why
+- [01:37:50,370 - 01:37:51,970] you can't ask why a postulate is true
+- [01:37:52,400 - 01:37:55,350] of course you can ask what the experiments
+- [01:37:55,350 - 01:37:57,470] which led to this weird guess were
+- [01:37:57,470 - 01:38:00,290] but we only have ten weeks
+- [01:38:00,590 - 01:38:02,910] so we've already gone through two of them
+- [01:38:02,910 - 01:38:04,290] I was just wondering
+- [01:38:04,290 - 01:38:08,170] does that mean that the alpha h and alpha q
+- [01:38:08,170 - 01:38:09,250] are equal to like one
+- [01:38:09,250 - 01:38:10,330] over the square root of two
+- [01:38:10,330 - 01:38:11,690] well that would be the case
+- [01:38:11,690 - 01:38:12,630] that could be
+- [01:38:12,630 - 01:38:14,810] well they can be complex numbers
+- [01:38:14,810 - 01:38:16,570] but that would be
+- [01:38:16,570 - 01:38:18,110] in the case of equal probabilities
+- [01:38:18,110 - 01:38:18,770] yeah
+- [01:38:19,270 - 01:38:20,310] it doesn't have to be one
+- [01:38:20,310 - 01:38:21,350] over the square root of two
+- [01:38:21,350 - 01:38:22,970] it has to be a number of length one
+- [01:38:23,450 - 01:38:24,870] times one over the square root of two
+- [01:38:24,870 - 01:38:26,090] but you've got the right idea
+- [01:38:26,630 - 01:38:28,410] remember they can be complex numbers
+- [01:38:29,590 - 01:38:30,570] and there are complex numbers
+- [01:38:30,590 - 01:38:32,510] whose length is one
+- [01:38:33,230 - 01:38:34,250] any number
+- [01:38:34,250 - 01:38:34,990] whoops
+- [01:38:37,570 - 01:38:39,030] any complex number
+- [01:38:41,410 - 01:38:43,290] which lies on the unit circle
+- [01:38:44,389 - 01:38:46,670] is a number whose length is one
+- [01:38:47,250 - 01:38:47,810] alright,
+- [01:38:47,810 - 01:38:49,410] z star z is equal to one
+- [01:38:51,870 - 01:38:52,430] alright
+- [01:38:52,430 - 01:38:53,590] so if I take
+- [01:38:54,429 - 01:38:56,350] if I choose these numbers to be
+- [01:38:56,350 - 01:38:59,170] unit numbers divided by the square root of two
+- [01:39:00,830 - 01:39:03,370] then we would have the probabilities adding up to one
+- [01:39:03,370 - 01:39:05,570] each probability being one half
+- [01:39:05,570 - 01:39:05,910] yeah
+- [01:39:06,930 - 01:39:07,510] so you,
+- [01:39:07,510 - 01:39:07,770] yes,
+- [01:39:07,770 - 01:39:08,550] you've got the right idea
+- [01:39:09,930 - 01:39:10,350] ok
+- [01:39:10,350 - 01:39:12,220] but do keep in mind that
+- [01:39:12,220 - 01:39:14,090] in general these are complex numbers
+- [01:39:15,370 - 01:39:15,790] alright
+- [01:39:19,330 - 01:39:20,170] for the die
+- [01:39:20,170 - 01:39:21,460] we would put a one over the
+- [01:39:21,460 - 01:39:22,750] square root of six in front of it
+- [01:39:22,750 - 01:39:24,550] to do the same thing
+- [01:39:28,470 - 01:39:30,570] now what I haven't told you is that
+- [01:39:30,590 - 01:39:31,110] is experiment
+- [01:39:31,110 - 01:39:33,690] it's pretty obvious in classical physics
+- [01:39:33,690 - 01:39:35,990] how you make a heads or a tails
+- [01:39:36,410 - 01:39:38,810] you just flip the coin and slap it down
+- [01:39:38,810 - 01:39:39,990] see the heads or tails
+- [01:39:40,470 - 01:39:41,630] how do you make
+- [01:39:42,090 - 01:39:44,650] how do you construct for a coin
+- [01:39:44,650 - 01:39:46,770] one of these weird states which is half
+- [01:39:47,550 - 01:39:48,850] heads and half tails
+- [01:39:49,470 - 01:39:51,930] that I haven't told you how to do it experimentally
+- [01:39:51,930 - 01:39:53,310] we're going to come back to that
+- [01:39:53,310 - 01:39:55,250] we're not going to deal with coins of course
+- [01:39:55,250 - 01:39:56,270] we're going to deal with electrons
+- [01:39:57,650 - 01:39:58,090] but
+- [01:39:59,130 - 01:39:59,910] for now
+- [01:39:59,910 - 01:40:01,890] we want to get some formal ideas
+- [01:40:02,510 - 01:40:05,250] we want to get to the quantum mechanics
+- [01:40:05,910 - 01:40:07,230] as fast as possible
+- [01:40:07,970 - 01:40:10,190] and to get to it as fast as possible
+- [01:40:10,190 - 01:40:12,330] it's best to just tell you what the postulates are
+- [01:40:12,330 - 01:40:13,390] and show you how they work
+- [01:40:13,910 - 01:40:14,850] show you how they work
+- [01:40:14,850 - 01:40:16,290] and then come back and say
+- [01:40:16,290 - 01:40:17,990] how the hell did anybody figure this out
+- [01:40:17,990 - 01:40:19,150] where did it come from
+- [01:40:19,150 - 01:40:21,350] what were the experiments that led to it
+- [01:40:21,990 - 01:40:23,410] one more time about the
+- [01:40:23,410 - 01:40:25,530] the orthogonality of the allowable states
+- [01:40:26,510 - 01:40:28,310] the orthogonality of those states
+- [01:40:28,310 - 01:40:29,610] which correspond to
+- [01:40:31,350 - 01:40:33,110] measurably different configurations
+- [01:40:33,110 - 01:40:34,730] in a single measurement
+- [01:40:34,730 - 01:40:36,750] let's be very clear about it
+- [01:40:37,910 - 01:40:39,570] and this is a necessity
+- [01:40:40,810 - 01:40:41,530] this is a
+- [01:40:41,530 - 01:40:42,610] is it a necessity?
+- [01:40:42,850 - 01:40:44,390] well you'd run into bad
+- [01:40:44,390 - 01:40:45,930] things if you didn't do it
+- [01:40:45,930 - 01:40:48,590] quantum mechanics would fall on its face very quickly
+- [01:40:48,590 - 01:40:50,770] but let's do it
+- [01:40:50,770 - 01:40:52,330] and then we can come back and ask
+- [01:40:52,330 - 01:40:53,890] what would go wrong if we didn't do it
+- [01:40:56,250 - 01:40:59,190] given the shortness of the time that we have available
+- [01:40:59,990 - 01:41:01,520] I think the best way to do it
+- [01:41:01,520 - 01:41:03,050] is to give you a bunch of postulates
+- [01:41:03,050 - 01:41:03,910] show you how they work
+- [01:41:03,910 - 01:41:05,700] and then come back and say what
+- [01:41:05,700 - 01:41:07,490] would happen if we did something else
+- [01:41:08,650 - 01:41:09,050] and
+- [01:41:11,650 - 01:41:14,030] rather than to try to derive these ideas
+- [01:41:14,030 - 01:41:15,930] in fact even if I had 30 weeks
+- [01:41:15,930 - 01:41:17,510] I would probably do it the same way
+- [01:41:35,330 - 01:41:36,480] well I actually think I'm finished
+- [01:41:36,480 - 01:41:37,630] with the things in my notes
+- [01:41:37,630 - 01:41:38,670] so um
+- [01:41:40,050 - 01:41:40,650] we can
+- [01:41:40,650 - 01:41:40,830] ah
+- [01:41:41,530 - 01:41:42,310] no I'm not
+- [01:41:45,970 - 01:41:46,850] no no I'm not
+- [01:41:46,850 - 01:41:47,780] I'm not at all finished
+- [01:41:47,780 - 01:41:48,710] with the things in my notes
+- [01:41:48,710 - 01:41:49,530] but I don't know
+- [01:41:49,530 - 01:41:50,070] it is
+- [01:41:50,070 - 01:41:52,130] have I saturated you thoroughly?
+- [01:41:53,750 - 01:41:54,150] no?
+- [01:41:54,270 - 01:41:54,570] ok
+- [01:41:54,570 - 01:41:55,870] go on a little bit
+- [01:41:56,670 - 01:41:57,070] alright
+- [01:41:59,610 - 01:42:01,130] the next subject
+- [01:42:01,130 - 01:42:02,490] is the subject
+- [01:42:02,490 - 01:42:03,230] the next subject,
+- [01:42:03,230 - 01:42:04,270] mathematical subject
+- [01:42:04,270 - 01:42:06,710] before we go on to its physical interpretation
+- [01:42:07,610 - 01:42:09,670] is the concept of operators
+- [01:42:10,769 - 01:42:13,990] operators are operations that you do on vectors
+- [01:42:14,550 - 01:42:18,210] let me give you some examples from ordinary vector spaces
+- [01:42:18,210 - 01:42:20,420] from you know the kind of
+- [01:42:20,420 - 01:42:22,630] vectors that you draw on the blackboard
+- [01:42:25,849 - 01:42:26,690] there are operators that you draw on the blackboard
+- [01:42:27,849 - 01:42:29,590] there are operators that you draw on the blackboard
+- [01:42:29,610 - 01:42:30,970] there are operators and there are operations
+- [01:42:31,460 - 01:42:33,610] operators are a special case of operations
+- [01:42:33,610 - 01:42:35,040] or really strictly speaking one
+- [01:42:35,040 - 01:42:36,470] should speak about linear operators
+- [01:42:37,150 - 01:42:39,690] linear operators are a special case of
+- [01:42:39,690 - 01:42:42,230] operations that you can do on vectors
+- [01:42:42,970 - 01:42:43,470] ah
+- [01:42:45,650 - 01:42:47,750] here's an operation that you can do on vectors
+- [01:42:47,750 - 01:42:49,890] I just draw this to make some axes
+- [01:42:50,580 - 01:42:52,510] take all of the vectors
+- [01:42:53,410 - 01:42:54,690] incidentally when I speak of operations
+- [01:42:54,690 - 01:42:55,970] you can do on a vector
+- [01:42:56,540 - 01:42:58,065] I mean operations that you do on all
+- [01:42:58,065 - 01:42:59,590] the vectors that you draw on the blackboard
+- [01:42:59,610 - 01:43:00,000] so you can do on all the
+- [01:43:00,000 - 01:43:00,390] vectors that you draw on the blackboard
+- [01:43:00,390 - 01:43:00,590] alright
+- [01:43:00,590 - 01:43:03,410] so here's an operation I could do
+- [01:43:03,410 - 01:43:05,080] I could rotate all of
+- [01:43:05,080 - 01:43:06,750] the vectors by the same angle
+- [01:43:06,750 - 01:43:10,810] every vector in the vector space rotate by 90 degrees
+- [01:43:11,500 - 01:43:13,085] that would mean that this
+- [01:43:13,085 - 01:43:14,670] vector would go to this vector
+- [01:43:16,050 - 01:43:18,030] I wish I had some more colors
+- [01:43:18,870 - 01:43:21,310] well the other colors don't show up very well so
+- [01:43:21,310 - 01:43:23,650] use wiggly lines
+- [01:43:23,650 - 01:43:26,790] wiggly line this vector would go to this vector
+- [01:43:28,170 - 01:43:29,130] and so forth
+- [01:43:30,169 - 01:43:32,350] rotation by any angle
+- [01:43:33,169 - 01:43:35,049] is an op- it's clearly an operation
+- [01:43:35,049 - 01:43:36,930] that I can do on the vector space
+- [01:43:37,570 - 01:43:39,470] it is also a linear operator
+- [01:43:39,470 - 01:43:41,370] we'll define linear operators soon enough
+- [01:43:41,370 - 01:43:43,530] let me give you another example
+- [01:43:43,530 - 01:43:45,410] I could double I could keep
+- [01:43:45,410 - 01:43:47,290] the direction of the vectors fixed
+- [01:43:47,290 - 01:43:49,770] and double the length of every vector
+- [01:43:49,770 - 01:43:50,850] that's an operation
+- [01:43:51,790 - 01:43:52,850] it would take
+- [01:43:53,990 - 01:43:56,130] every vector and simply double it
+- [01:43:56,870 - 01:43:59,550] that's in fact that's just multiplying it by a number
+- [01:43:59,610 - 01:44:02,270] so multiplying vectors by numbers
+- [01:44:02,270 - 01:44:04,830] is also an operator
+- [01:44:06,070 - 01:44:09,330] an operation and they're also linear operators
+- [01:44:09,330 - 01:44:11,290] but we'll come to linear operators soon enough
+- [01:44:12,549 - 01:44:15,330] take every vector and reflect it
+- [01:44:16,030 - 01:44:18,350] reflect it about the x-axis
+- [01:44:18,350 - 01:44:21,790] so take this vector and replace it by this vector
+- [01:44:22,670 - 01:44:23,930] that's an operation that you
+- [01:44:23,930 - 01:44:25,190] can do on the vector space
+- [01:44:25,190 - 01:44:26,370] every operator,
+- [01:44:26,370 - 01:44:26,930] sorry,
+- [01:44:26,930 - 01:44:29,590] every vector goes to some unique new vector
+- [01:44:30,830 - 01:44:32,470] that's also a linear operator
+- [01:44:32,950 - 01:44:35,440] let me give you an example of
+- [01:44:35,440 - 01:44:37,930] an operation which is not a linear operation
+- [01:44:38,950 - 01:44:39,890] take a vector
+- [01:44:39,890 - 01:44:42,370] and square its length
+- [01:44:42,370 - 01:44:44,010] if its length is 2
+- [01:44:45,350 - 01:44:47,250] replace it by a vector of length 4
+- [01:44:47,250 - 01:44:48,270] if its length is 3,
+- [01:44:48,270 - 01:44:50,230] replace it by a vector of length 9
+- [01:44:51,310 - 01:44:52,870] that's not a linear operation
+- [01:44:53,410 - 01:44:54,270] it's an operation,
+- [01:44:54,270 - 01:44:55,710] but it's not a linear operation
+- [01:44:55,710 - 01:44:57,050] so what does it mean,
+- [01:44:57,050 - 01:44:59,570] what does the notion of a linear operator mean?
+- [01:44:59,590 - 01:45:00,450] what does it entail?
+- [01:45:01,170 - 01:45:01,770] ok,
+- [01:45:01,770 - 01:45:02,050] so
+- [01:45:05,789 - 01:45:06,990] two things,
+- [01:45:06,990 - 01:45:09,390] and we've already used these things over and over
+- [01:45:09,390 - 01:45:10,590] but let me spell it out
+- [01:45:12,129 - 01:45:14,350] an operator is a linear operator
+- [01:45:14,350 - 01:45:16,330] and I'll represent linear operators
+- [01:45:16,330 - 01:45:20,290] by letters with little hats on top of them
+- [01:45:20,290 - 01:45:22,030] that's a somewhat standard notation
+- [01:45:23,669 - 01:45:26,550] often operators are represented by boldface
+- [01:45:26,550 - 01:45:29,490] but I can't do boldface on the blackboard
+- [01:45:29,590 - 01:45:31,730] so I'll use the little hat notation
+- [01:45:32,330 - 01:45:34,260] an operator is indicated by
+- [01:45:34,260 - 01:45:36,190] a hat on top of it
+- [01:45:36,190 - 01:45:39,110] this is not a bra symbol turned on its side
+- [01:45:39,110 - 01:45:40,670] or a ket symbol turned on its side
+- [01:45:40,670 - 01:45:41,850] it's just a little hat on top
+- [01:45:41,850 - 01:45:43,410] indicates operator,
+- [01:45:43,410 - 01:45:44,350] linear operator
+- [01:45:44,910 - 01:45:47,030] a linear operator has the property
+- [01:45:47,610 - 01:45:48,450] that it
+- [01:45:49,750 - 01:45:51,690] if it acts on any vector
+- [01:45:51,690 - 01:45:52,990] it gives another vector
+- [01:45:54,950 - 01:45:56,690] so it gives a kind of image vector
+- [01:45:57,330 - 01:45:59,450] whenever the linear operation acts on it
+- [01:46:00,410 - 01:46:01,890] if it acts
+- [01:46:02,589 - 01:46:04,210] on a vector
+- [01:46:06,870 - 01:46:09,870] take a vector which is alpha times a
+- [01:46:09,870 - 01:46:10,310] remember,
+- [01:46:10,310 - 01:46:12,430] vectors are things you can multiply by numbers
+- [01:46:12,430 - 01:46:14,930] multiply the vector a by a number
+- [01:46:15,590 - 01:46:17,530] and then apply the linear operator
+- [01:46:18,589 - 01:46:19,230] well,
+- [01:46:19,230 - 01:46:20,330] the answer
+- [01:46:22,409 - 01:46:24,250] is equal to alpha
+- [01:46:24,250 - 01:46:26,910] times the linear operator on a
+- [01:46:27,630 - 01:46:29,410] so in other words it just says
+- [01:46:29,590 - 01:46:32,390] that if you take twice a vector
+- [01:46:32,390 - 01:46:33,770] and apply the linear operator
+- [01:46:33,770 - 01:46:35,430] it just gives you twice
+- [01:46:35,430 - 01:46:38,470] what the linear operator gives on the original vector
+- [01:46:38,470 - 01:46:39,070] was that clear?
+- [01:46:39,070 - 01:46:39,870] did I say that clearly?
+- [01:46:40,870 - 01:46:41,810] I hope so
+- [01:46:42,470 - 01:46:45,810] so that's one property of
+- [01:46:46,490 - 01:46:47,590] linear operators
+- [01:46:48,370 - 01:46:50,750] that if you multiply a vector by a number
+- [01:46:51,490 - 01:46:54,690] and then operate with the linear operator
+- [01:46:54,690 - 01:46:56,890] it just gives you the number times the linear
+- [01:46:56,890 - 01:46:59,570] times the linear operator on a vector
+- [01:46:59,570 - 01:47:00,330] on the original vector
+- [01:47:00,330 - 01:47:01,290] number one
+- [01:47:01,290 - 01:47:02,750] and number two
+- [01:47:03,549 - 01:47:05,230] a linear operator
+- [01:47:06,350 - 01:47:08,570] if it acts on the sum of two vectors
+- [01:47:16,350 - 01:47:18,070] just gives you the sum
+- [01:47:18,070 - 01:47:20,730] of the action on each of the vectors separately
+- [01:47:21,410 - 01:47:22,830] so it gives you
+- [01:47:23,470 - 01:47:25,870] l times a
+- [01:47:27,469 - 01:47:29,550] plus l times a
+- [01:47:30,690 - 01:47:31,470] times b
+- [01:47:31,470 - 01:47:34,090] times being used in the sense to mean
+- [01:47:34,730 - 01:47:35,790] operating on
+- [01:47:37,049 - 01:47:39,370] let's just check that for some simple operations
+- [01:47:41,289 - 01:47:42,990] if I take a vector
+- [01:47:43,950 - 01:47:45,630] if my operation is
+- [01:47:46,309 - 01:47:46,870] rotation
+- [01:47:47,469 - 01:47:48,810] by 90 degrees
+- [01:47:49,470 - 01:47:51,290] let that be the operation for the moment
+- [01:47:51,290 - 01:47:52,770] is it a linear operator?
+- [01:47:53,110 - 01:47:54,350] we want to check it
+- [01:47:54,350 - 01:47:55,110] well,
+- [01:47:55,110 - 01:47:56,110] the first question is
+- [01:47:56,110 - 01:47:57,410] supposing I take a vector
+- [01:47:57,410 - 01:48:00,110] and I multiply it by a number
+- [01:48:00,110 - 01:48:01,410] let's say double it
+- [01:48:02,590 - 01:48:04,390] do I just get twice
+- [01:48:04,390 - 01:48:06,010] what I would get
+- [01:48:06,010 - 01:48:07,750] if I rotated the vector
+- [01:48:07,750 - 01:48:08,930] the original vector
+- [01:48:08,930 - 01:48:10,190] so here's the original vector
+- [01:48:11,790 - 01:48:12,470] here's
+- [01:48:13,910 - 01:48:15,530] twice the original vector
+- [01:48:15,530 - 01:48:17,730] the operation is rotation
+- [01:48:17,730 - 01:48:21,150] it rotates every vector by 90 degrees
+- [01:48:21,150 - 01:48:22,030] let's say
+- [01:48:23,769 - 01:48:24,830] in particular
+- [01:48:25,570 - 01:48:26,480] the result of the original vector
+- [01:48:26,480 - 01:48:27,390] is the result of the original vector
+- [01:48:27,410 - 01:48:28,890] of rotating twice a
+- [01:48:29,390 - 01:48:31,330] is the same as twice
+- [01:48:31,330 - 01:48:33,230] the result of rotating a
+- [01:48:33,230 - 01:48:33,850] that's obvious
+- [01:48:34,410 - 01:48:34,890] alright
+- [01:48:35,170 - 01:48:37,210] so it satisfies the first rule
+- [01:48:37,210 - 01:48:39,210] that if I rotate
+- [01:48:39,210 - 01:48:41,030] alpha times a vector
+- [01:48:41,030 - 01:48:43,310] I just get alpha times the rotated vector
+- [01:48:43,310 - 01:48:45,930] what if I rotate the sum of two vectors
+- [01:48:45,930 - 01:48:48,490] if I rotate the sum of two vectors
+- [01:48:48,490 - 01:48:49,390] here's two vectors
+- [01:48:49,390 - 01:48:50,590] an ordinary vectors
+- [01:48:51,870 - 01:48:52,990] a and b
+- [01:48:52,990 - 01:48:54,910] the sum of a and b
+- [01:48:54,910 - 01:48:56,830] is just the resultant
+- [01:48:57,410 - 01:48:57,790] like that
+- [01:48:58,330 - 01:49:00,050] if I rotate a and b
+- [01:49:00,050 - 01:49:01,070] the whole
+- [01:49:03,569 - 01:49:04,690] parallelogram rotates
+- [01:49:06,669 - 01:49:08,610] and a and b will rotate
+- [01:49:08,610 - 01:49:10,610] but so will the sum of a and b rotate
+- [01:49:11,270 - 01:49:12,980] and so the rotation of
+- [01:49:12,980 - 01:49:14,690] the sum of a and b
+- [01:49:14,690 - 01:49:16,180] is just the sum of
+- [01:49:16,180 - 01:49:17,670] the rotation of a and b
+- [01:49:17,670 - 01:49:19,830] and so it satisfies this rule here
+- [01:49:19,830 - 01:49:20,730] you can check that
+- [01:49:20,730 - 01:49:21,650] check that for yourself
+- [01:49:22,610 - 01:49:24,790] multiplying a vector by the number two
+- [01:49:25,950 - 01:49:26,510] again
+- [01:49:27,410 - 01:49:28,750] is a linear operation
+- [01:49:29,410 - 01:49:32,610] but squaring the length of a vector is not
+- [01:49:32,610 - 01:49:33,910] check that out
+- [01:49:33,910 - 01:49:35,990] you'll discover that that's not a linear operator
+- [01:49:35,990 - 01:49:38,770] so there's the notion of linear operators
+- [01:49:38,770 - 01:49:40,350] and here's its definition
+- [01:49:43,530 - 01:49:45,770] linear operators are important
+- [01:49:46,450 - 01:49:48,470] they don't correspond to states
+- [01:49:49,370 - 01:49:52,350] they correspond to the quantities that you can measure
+- [01:49:52,350 - 01:49:54,130] they're called observables
+- [01:49:54,809 - 01:49:57,190] observables means the things that you can measure
+- [01:49:57,190 - 01:50:00,750] you can measure the headsness or tailsness of the coin
+- [01:50:00,750 - 01:50:03,950] so the headsness or tailsness of the coin
+- [01:50:04,650 - 01:50:07,690] is represented by a linear operator
+- [01:50:07,690 - 01:50:09,870] I think we have to finish now
+- [01:50:09,870 - 01:50:11,430] we'll come back to this next time
+- [01:50:11,430 - 01:50:14,370] and I'll explain to you how the
+- [01:50:16,410 - 01:50:17,990] observables that you measure
+- [01:50:17,990 - 01:50:22,170] are identified as linear operators in quantum mechanics
+- [01:50:22,170 - 01:50:25,010] and then we can do some little examples
+- [01:50:25,670 - 01:50:26,290] and
+- [01:50:27,190 - 01:50:29,430] and work out some predictions
+- [01:50:30,509 - 01:50:32,890] that would follow from this set of rules
+- [01:50:32,890 - 01:50:35,590] the set of rules seems very abstract
+- [01:50:36,150 - 01:50:37,790] but we're almost at the stage
+- [01:50:37,790 - 01:50:39,470] where we can make predictions
+- [01:50:40,010 - 01:50:42,610] about coins based on quantum mechanics
+- [01:50:43,070 - 01:50:44,970] by using this set of postulates
+- [01:50:44,970 - 01:50:47,370] we're fairly close to that by now
+- [01:50:55,350 - 01:50:58,210] the preceding program is copyrighted by
+- [01:50:58,210 - 01:50:58,990] Stanford University
+- [01:50:58,990 - 01:51:00,910] please visit us at
+- [01:51:00,910 - 01:51:02,130] stanford.edu
