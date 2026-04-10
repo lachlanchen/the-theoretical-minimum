@@ -1,0 +1,2734 @@
+# Transcript
+
+Source: core/classical_mechanics/2011_fall_theoretical_minimum/121 - Classical Mechanics ｜ Lecture 8 [oePbj7yrzUQ].mkv
+
+- [00:00:04,779 - 00:00:06,120] Stanford University.
+- [00:00:07,860 - 00:00:10,520] We're going to start tonight and maybe
+- [00:00:10,520 - 00:00:13,180] finish tonight with more about Poisson brackets.
+- [00:00:13,800 - 00:00:17,500] But I think I will go back and we're
+- [00:00:17,500 - 00:00:21,200] going to study angular momentum in the context of
+- [00:00:21,200 - 00:00:24,520] Poisson brackets as a case of mechanics
+- [00:00:24,520 - 00:00:27,840] being formulated through the use of Poisson brackets.
+- [00:00:29,320 - 00:00:29,800] Okay,
+- [00:00:29,800 - 00:00:31,960] so Poisson brackets and angular momentum tonight.
+- [00:00:32,159 - 00:00:33,240] But let's go back.
+- [00:00:33,400 - 00:00:34,950] I think I told you a
+- [00:00:34,950 - 00:00:36,500] little bit about Poisson brackets last time.
+- [00:00:37,739 - 00:00:40,920] And we began with a question,
+- [00:00:40,920 - 00:00:44,820] if you have some function of the p's and q's.
+- [00:00:45,980 - 00:00:48,730] You can think of it as just a function
+- [00:00:48,730 - 00:00:51,480] that varies from one point of phase space to another,
+- [00:00:51,720 - 00:00:54,770] but you can also think of it just as
+- [00:00:54,770 - 00:00:57,820] a function of the positions and velocities of a point
+- [00:00:57,820 - 00:00:59,280] moving through phase space.
+- [00:01:00,020 - 00:01:02,380] And because the point is moving through phase space,
+- [00:01:02,380 - 00:01:03,900] the p's and the q's vary.
+- [00:01:04,180 - 00:01:05,860] And if the p's and the q's vary,
+- [00:01:05,860 - 00:01:08,400] the function f of p and q will vary.
+- [00:01:08,840 - 00:01:10,140] And we can ask the question,
+- [00:01:10,140 - 00:01:12,220] along a given streamline,
+- [00:01:12,220 - 00:01:13,660] we're really thinking about along
+- [00:01:13,660 - 00:01:15,060] a given streamline now,
+- [00:01:15,060 - 00:01:17,620] as the system wanders along that streamline,
+- [00:01:17,620 - 00:01:19,640] what is the time derivative
+- [00:01:19,640 - 00:01:23,220] of an arbitrary function of p and q?
+- [00:01:23,340 - 00:01:24,260] Now when I say arbitrary,
+- [00:01:24,260 - 00:01:27,800] I always mean smooth enough and differential enough.
+- [00:01:31,500 - 00:01:32,000] And I'll tell you that the derivative of f
+- [00:01:32,000 - 00:01:32,500] is going to be the derivative of f with respect
+- [00:01:32,500 - 00:01:32,860] And what is that?
+- [00:01:34,000 - 00:01:35,280] And we know what that is.
+- [00:01:35,520 - 00:01:37,880] This is a quick review from last time.
+- [00:01:38,340 - 00:01:41,780] It's the derivative of f with respect
+- [00:01:41,780 - 00:01:45,220] to p times p dot along the trajectory.
+- [00:01:46,080 - 00:01:47,200] Now if you like,
+- [00:01:47,200 - 00:01:49,430] you can decorate this thing with
+- [00:01:49,430 - 00:01:51,660] little indices i and sum over them.
+- [00:01:51,840 - 00:01:53,320] I'm going to leave that out.
+- [00:01:53,360 - 00:01:54,840] Just because I get tired of writing it.
+- [00:01:57,800 - 00:01:57,900] But if you're interested,
+- [00:01:57,900 - 00:01:57,900] you can go back to my course.
+- [00:01:57,900 - 00:02:00,690] So the derivative of f with respect to p sub
+- [00:02:00,690 - 00:02:03,480] i times p sub i dot plus derivative of f with
+- [00:02:03,480 - 00:02:06,509] respect to q sub i times q sub
+- [00:02:06,509 - 00:02:09,539] i dot all summed over all of the coordinates.
+- [00:02:11,039 - 00:02:12,600] And as I said,
+- [00:02:12,600 - 00:02:17,260] I will not bother being explicit about that sum.
+- [00:02:17,820 - 00:02:18,680] There it is.
+- [00:02:19,080 - 00:02:19,780] All right.
+- [00:02:19,800 - 00:02:20,600] Now what is p dot?
+- [00:02:20,760 - 00:02:27,780] p dot from Hamilton's equations is partial of h minus,
+- [00:02:27,780 - 00:02:27,780] you know,
+- [00:02:27,780 - 00:02:27,780] h times p dot,
+- [00:02:27,780 - 00:02:27,780] and p
+- [00:02:27,780 - 00:02:30,460] minus partial of H with respect to Q
+- [00:02:38,920 - 00:02:40,320] and Q dot
+- [00:02:42,000 - 00:02:42,560] oh,
+- [00:02:42,560 - 00:02:43,120] minus,
+- [00:02:43,120 - 00:02:43,500] right?
+- [00:02:43,500 - 00:02:44,280] No
+- [00:02:46,320 - 00:02:46,880] no,
+- [00:02:46,880 - 00:02:47,980] partial of H
+- [00:02:47,980 - 00:02:49,040] yes,
+- [00:02:49,040 - 00:02:49,440] right,
+- [00:02:49,440 - 00:02:50,460] minus,
+- [00:02:50,460 - 00:02:50,800] right?
+- [00:02:51,960 - 00:02:53,300] P dot is minus
+- [00:02:53,300 - 00:02:57,120] P dot is minus dH dQ
+- [00:02:58,860 - 00:02:59,360] right,
+- [00:02:59,360 - 00:03:00,640] I know why I'm confused
+- [00:03:00,640 - 00:03:02,080] the reason I'm confused is
+- [00:03:02,080 - 00:03:03,520] I always write this one first
+- [00:03:03,520 - 00:03:05,060] and I always have the minus sign second,
+- [00:03:05,060 - 00:03:05,700] so
+- [00:03:07,320 - 00:03:07,940] that's alright,
+- [00:03:07,940 - 00:03:08,680] we'll just leave it
+- [00:03:08,680 - 00:03:11,520] dF by dQ times P dot
+- [00:03:12,920 - 00:03:15,120] dF by dQ times Q dot
+- [00:03:15,120 - 00:03:17,160] which is dH by dP
+- [00:03:17,160 - 00:03:17,760] so,
+- [00:03:17,760 - 00:03:20,780] that's the question
+- [00:03:20,800 - 00:03:23,460] I'm going to write it the other way because
+- [00:03:23,460 - 00:03:27,300] I want to keep a consistent pattern
+- [00:03:28,660 - 00:03:30,360] the F by dQ
+- [00:03:30,360 - 00:03:32,160] dH by dP
+- [00:03:34,200 - 00:03:36,760] minus the F by dP
+- [00:03:38,020 - 00:03:39,340] dH by dQ
+- [00:03:42,220 - 00:03:43,960] and as I said
+- [00:03:43,960 - 00:03:44,460] well,
+- [00:03:44,460 - 00:03:45,380] let me put it in
+- [00:03:45,380 - 00:03:46,300] now that we finished the expression
+- [00:03:46,300 - 00:03:47,200] we put in I,
+- [00:03:47,200 - 00:03:47,540] I,
+- [00:03:47,540 - 00:03:48,080] I,
+- [00:03:48,080 - 00:03:48,340] I
+- [00:03:48,340 - 00:03:50,700] and sum over all I
+- [00:03:53,340 - 00:03:55,560] this kind of expression
+- [00:03:55,560 - 00:03:58,920] comes up over and over again in classical mechanics
+- [00:03:58,920 - 00:04:02,500] not only in the context of time derivatives
+- [00:04:02,500 - 00:04:05,460] not only in the context of time derivatives
+- [00:04:05,460 - 00:04:07,900] but in the context of all kinds of situations
+- [00:04:08,579 - 00:04:10,280] where you have two functions
+- [00:04:11,240 - 00:04:13,140] of P's and Q's
+- [00:04:13,140 - 00:04:15,180] one could be the Hamiltonian,
+- [00:04:15,180 - 00:04:16,579] but it might not be
+- [00:04:16,579 - 00:04:17,560] it might be anything else
+- [00:04:18,680 - 00:04:20,779] and this particular combination of the two
+- [00:04:20,800 - 00:04:22,120] this particular combination comes up all the time
+- [00:04:22,550 - 00:04:24,300] and it's called the Poisson bracket
+- [00:04:24,300 - 00:04:26,760] of F with H
+- [00:04:26,760 - 00:04:29,240] and it's written with
+- [00:04:30,800 - 00:04:31,840] curly script,
+- [00:04:31,840 - 00:04:33,940] curly brackets
+- [00:04:37,880 - 00:04:38,500] F
+- [00:04:40,550 - 00:04:41,860] in this case,
+- [00:04:41,860 - 00:04:42,140] H
+- [00:04:43,440 - 00:04:44,640] more generally,
+- [00:04:44,640 - 00:04:46,620] you take any two functions
+- [00:04:46,620 - 00:04:48,300] it doesn't have to be,
+- [00:04:48,300 - 00:04:50,600] let's make it more general now that we've done it
+- [00:04:50,800 - 00:04:53,320] now that we've seen the reason why it comes up
+- [00:04:53,320 - 00:04:54,460] at least in one context
+- [00:04:55,320 - 00:04:57,360] and just generalize it
+- [00:04:57,360 - 00:04:58,680] so that G could be anything
+- [00:04:58,680 - 00:04:59,960] and F could be anything
+- [00:05:00,500 - 00:05:02,120] this is called the Poisson bracket
+- [00:05:02,120 - 00:05:03,220] and it's written this way
+- [00:05:05,620 - 00:05:07,380] and it seems like a
+- [00:05:07,380 - 00:05:09,140] rather arbitrary thing to write down
+- [00:05:09,140 - 00:05:09,760] but as I said,
+- [00:05:09,760 - 00:05:10,940] it does occur over and over
+- [00:05:10,940 - 00:05:14,560] and we'll see some examples tonight
+- [00:05:16,180 - 00:05:18,160] let me write this one more way
+- [00:05:19,140 - 00:05:20,500] let me imagine time
+- [00:05:20,800 - 00:05:23,740] has been broken up into little epsilon intervals
+- [00:05:24,640 - 00:05:25,540] and then,
+- [00:05:25,540 - 00:05:27,520] this of course is nothing but
+- [00:05:27,520 - 00:05:29,420] the change in F,
+- [00:05:29,420 - 00:05:31,080] the variation in F
+- [00:05:31,740 - 00:05:34,920] when you change epsilon by one unit
+- [00:05:34,920 - 00:05:37,120] this is nothing but the time derivative
+- [00:05:37,120 - 00:05:38,780] the change in F with respect
+- [00:05:38,780 - 00:05:40,440] to a small change in time
+- [00:05:40,440 - 00:05:41,600] I'm just writing it this way
+- [00:05:41,600 - 00:05:43,200] because it'll come up later
+- [00:05:43,800 - 00:05:44,880] something like that
+- [00:05:45,540 - 00:05:45,820] um,
+- [00:05:45,820 - 00:05:48,060] yeah
+- [00:05:48,060 - 00:05:50,880] that first part of the equation is no longer true
+- [00:05:50,880 - 00:05:52,360] let's put G arbitrary in there,
+- [00:05:52,360 - 00:05:52,560] right?
+- [00:05:52,700 - 00:05:53,180] yeah,
+- [00:05:53,180 - 00:05:53,420] yeah,
+- [00:05:53,420 - 00:05:53,580] yeah,
+- [00:05:53,580 - 00:05:54,560] absolutely right
+- [00:05:54,560 - 00:05:55,780] absolutely right
+- [00:05:55,780 - 00:05:56,960] once G is arbitrary
+- [00:05:57,900 - 00:05:58,380] that's,
+- [00:05:58,380 - 00:05:58,480] uh,
+- [00:05:58,480 - 00:06:00,240] that's not F dot
+- [00:06:02,320 - 00:06:04,800] this part of the equation is no longer true
+- [00:06:06,020 - 00:06:08,440] only if G is the Hamiltonian is it true
+- [00:06:09,539 - 00:06:10,020] but
+- [00:06:10,719 - 00:06:12,940] the other part of the equation is definition
+- [00:06:13,539 - 00:06:15,320] definition of the Poisson bracket
+- [00:06:16,180 - 00:06:16,660] and
+- [00:06:16,660 - 00:06:19,620] classical mechanics can be beautifully formulated
+- [00:06:19,620 - 00:06:20,800] elegantly formulated
+- [00:06:22,080 - 00:06:23,240] French formulated
+- [00:06:24,580 - 00:06:26,540] in terms of Poisson brackets
+- [00:06:28,000 - 00:06:30,180] there's an algebra of Poisson brackets
+- [00:06:31,260 - 00:06:32,820] which if you know the algebra
+- [00:06:33,530 - 00:06:34,835] you don't even really have
+- [00:06:34,835 - 00:06:36,140] to remember what they came from
+- [00:06:36,590 - 00:06:38,480] you can calculate anything you want
+- [00:06:38,480 - 00:06:39,020] uh,
+- [00:06:39,020 - 00:06:39,920] without
+- [00:06:40,489 - 00:06:41,080] in other words,
+- [00:06:41,080 - 00:06:43,020] a set of rules about Poisson brackets
+- [00:06:43,630 - 00:06:45,160] and I'm gonna tell you what the set of rules
+- [00:06:45,160 - 00:06:46,220] we'll write them over here
+- [00:06:46,220 - 00:06:47,920] here's the definition of the Poisson bracket
+- [00:06:47,920 - 00:06:49,300] let's put them over here
+- [00:06:49,300 - 00:06:51,700] and now I'll tell you what the rules are
+- [00:06:51,700 - 00:06:52,040] they're not,
+- [00:06:52,040 - 00:06:53,480] they're not arbitrary rules
+- [00:06:53,480 - 00:06:55,280] they follow from this definition
+- [00:06:55,280 - 00:06:57,300] they follow from this definition
+- [00:06:57,300 - 00:07:00,100] the first fact about Poisson brackets
+- [00:07:00,100 - 00:07:02,220] is they're anti-symmetric
+- [00:07:02,220 - 00:07:04,080] so let's take A and B
+- [00:07:04,080 - 00:07:05,610] I'm now going to use A
+- [00:07:05,610 - 00:07:07,140] and B for two arbitrary functions
+- [00:07:07,920 - 00:07:11,020] the Poisson bracket of A and B
+- [00:07:15,960 - 00:07:17,840] is equal to minus
+- [00:07:19,300 - 00:07:21,760] the Poisson bracket of B with A
+- [00:07:23,480 - 00:07:25,280] now you can see why that's true
+- [00:07:26,260 - 00:07:26,820] uh,
+- [00:07:26,820 - 00:07:28,800] if I interchange F and G
+- [00:07:28,800 - 00:07:31,540] I simply interchange these two terms
+- [00:07:32,240 - 00:07:34,120] and so the whole thing changes sign
+- [00:07:34,980 - 00:07:38,160] if I replace F by G and G by F
+- [00:07:38,160 - 00:07:39,520] it simply changes sign
+- [00:07:40,039 - 00:07:41,200] and so whenever I
+- [00:07:42,360 - 00:07:44,920] interchange the two things in a Poisson bracket
+- [00:07:45,160 - 00:07:45,960] it changes sign
+- [00:07:45,960 - 00:07:47,580] so that's rule number one
+- [00:07:50,160 - 00:07:51,440] rule number two
+- [00:07:55,000 - 00:07:57,860] if I add two functions
+- [00:07:57,860 - 00:07:58,480] A,
+- [00:07:58,480 - 00:07:59,880] let's call it B again now
+- [00:07:59,880 - 00:08:01,840] and I take the Poisson
+- [00:08:01,840 - 00:08:03,800] bracket of the sum of them
+- [00:08:03,800 - 00:08:05,300] with a third thing
+- [00:08:07,080 - 00:08:08,240] it's very simple
+- [00:08:09,000 - 00:08:12,740] it's just equal to Poisson bracket of A with C
+- [00:08:14,440 - 00:08:15,080] plus
+- [00:08:16,440 - 00:08:19,760] Poisson bracket of B with C
+- [00:08:23,419 - 00:08:25,240] you can see why that's true
+- [00:08:26,080 - 00:08:28,900] if F happens to be the sum of two functions
+- [00:08:28,900 - 00:08:32,780] then the derivatives are also sums of two terms
+- [00:08:32,780 - 00:08:35,919] and the Poisson bracket just adds in that way
+- [00:08:37,120 - 00:08:38,600] it's easy enough to get
+- [00:08:39,159 - 00:08:41,320] Poisson bracket of C on the left
+- [00:08:41,320 - 00:08:42,659] with A plus B on the right
+- [00:08:42,659 - 00:08:43,980] just using the minus sign
+- [00:08:43,980 - 00:08:45,020] alright,
+- [00:08:45,020 - 00:08:45,820] a third rule
+- [00:08:45,820 - 00:08:47,660] I didn't write this one down in my notes
+- [00:08:47,660 - 00:08:49,060] but I suddenly just realized it
+- [00:08:50,199 - 00:08:52,220] if you take the Poisson bracket
+- [00:08:52,980 - 00:08:57,720] of A with B or C or whatever we use
+- [00:08:57,720 - 00:09:01,280] and I multiply A by a number
+- [00:09:01,820 - 00:09:03,540] in other words
+- [00:09:03,540 - 00:09:04,800] the Poisson bracket
+- [00:09:04,800 - 00:09:07,960] what's a notation for an arbitrary number?
+- [00:09:08,060 - 00:09:08,200] C,
+- [00:09:08,200 - 00:09:08,760] constant
+- [00:09:09,800 - 00:09:11,360] constant times A
+- [00:09:11,360 - 00:09:12,600] A
+- [00:09:12,600 - 00:09:13,420] A
+- [00:09:13,420 - 00:09:13,840] A
+- [00:09:13,840 - 00:09:14,160] A
+- [00:09:14,160 - 00:09:14,640] A
+- [00:09:14,640 - 00:09:14,680] A
+- [00:09:14,680 - 00:09:15,240] A
+- [00:09:15,240 - 00:09:15,260] A
+- [00:09:15,260 - 00:09:15,780] A
+- [00:09:15,780 - 00:09:15,800] A
+- [00:09:17,120 - 00:09:18,720] I see
+- [00:09:18,720 - 00:09:19,780] by the end
+- [00:09:19,780 - 00:09:20,420] no,
+- [00:09:20,420 - 00:09:20,900] no,
+- [00:09:20,900 - 00:09:21,080] no
+- [00:09:21,080 - 00:09:21,720] A
+- [00:09:21,720 - 00:09:22,020] A
+- [00:09:22,020 - 00:09:24,200] I'm absolutely Greek
+- [00:09:24,200 - 00:09:25,200] lambda
+- [00:09:26,120 - 00:09:27,320] with B
+- [00:09:27,320 - 00:09:29,040] or C
+- [00:09:29,040 - 00:09:31,540] it's just equal to lambda
+- [00:09:32,400 - 00:09:35,360] times the Poisson bracket of A with B
+- [00:09:36,540 - 00:09:37,140] that's easy
+- [00:09:37,140 - 00:09:39,580] in fact this third one is a special
+- [00:09:39,580 - 00:09:42,020] case of one that I'm about to write down
+- [00:09:43,500 - 00:09:43,940] no,
+- [00:09:43,940 - 00:09:44,280] that's,
+- [00:09:44,280 - 00:09:44,660] that's,
+- [00:09:44,660 - 00:09:45,000] that's a,
+- [00:09:45,000 - 00:09:45,480] that's,
+- [00:09:45,480 - 00:09:46,040] that's a case
+- [00:09:46,040 - 00:09:46,760] alright,
+- [00:09:46,760 - 00:09:47,340] number four
+- [00:09:49,680 - 00:09:51,200] this is the only one
+- [00:09:51,800 - 00:09:54,400] that's not completely absolutely transparent
+- [00:09:55,460 - 00:09:57,200] I'm not going to work it out for you
+- [00:09:57,200 - 00:09:58,280] I'm going to allow you
+- [00:09:58,280 - 00:09:59,040] this is your homework
+- [00:09:59,040 - 00:09:59,860] work it out
+- [00:09:59,860 - 00:10:00,660] but it's very easy
+- [00:10:02,240 - 00:10:03,360] it's that if I take
+- [00:10:03,360 - 00:10:05,340] not the sum of A and B
+- [00:10:05,340 - 00:10:08,440] but the product of A with B
+- [00:10:10,780 - 00:10:12,160] Poisson with C
+- [00:10:13,740 - 00:10:15,220] if I take that product
+- [00:10:15,220 - 00:10:16,620] and feed it into here
+- [00:10:16,620 - 00:10:20,340] and just use the rule for differentiating products
+- [00:10:20,340 - 00:10:21,920] in other words
+- [00:10:21,920 - 00:10:24,480] A times B here is now substituting for F
+- [00:10:25,300 - 00:10:25,860] alright,
+- [00:10:25,860 - 00:10:27,420] I have to differentiate F
+- [00:10:27,420 - 00:10:29,420] for example with respect to Q over there
+- [00:10:29,420 - 00:10:31,160] and with respect to P on the second term
+- [00:10:31,160 - 00:10:33,380] use the product rule
+- [00:10:33,380 - 00:10:34,240] for
+- [00:10:35,900 - 00:10:36,940] differentiating a product
+- [00:10:36,940 - 00:10:38,820] A times the derivative of B
+- [00:10:38,820 - 00:10:40,360] plus B times the derivative of A
+- [00:10:40,360 - 00:10:41,660] and you'll find out very quickly
+- [00:10:42,140 - 00:10:43,860] that this thing here is equal
+- [00:10:44,980 - 00:10:47,660] to A Poisson with C
+- [00:10:49,300 - 00:10:50,260] times B
+- [00:10:51,800 - 00:10:52,860] plus A
+- [00:10:54,780 - 00:10:56,060] times B
+- [00:10:57,000 - 00:10:58,620] Poisson bracket with C
+- [00:11:01,020 - 00:11:02,900] the order that I've written
+- [00:11:02,900 - 00:11:04,220] doesn't matter here
+- [00:11:04,220 - 00:11:05,840] in quantum mechanics it does matter
+- [00:11:05,840 - 00:11:07,780] but in classical mechanics it doesn't matter
+- [00:11:07,780 - 00:11:09,700] you can put the B on the left
+- [00:11:09,700 - 00:11:10,780] you can put the B on the right
+- [00:11:10,780 - 00:11:12,000] it just means ordinary multiplication
+- [00:11:13,040 - 00:11:15,260] so when you see an expression like that
+- [00:11:15,260 - 00:11:16,460] it consists of two terms
+- [00:11:16,460 - 00:11:19,480] one of them is B times
+- [00:11:19,480 - 00:11:21,640] the bracket of A with C
+- [00:11:22,180 - 00:11:25,500] and then A bracket B with C
+- [00:11:25,500 - 00:11:26,080] alright,
+- [00:11:26,080 - 00:11:26,960] so that's pretty easy
+- [00:11:28,740 - 00:11:31,640] those are the basic rules
+- [00:11:31,640 - 00:11:32,800] about Poisson brackets
+- [00:11:32,800 - 00:11:35,240] and then there are some special cases
+- [00:11:35,240 - 00:11:37,860] once you know these special cases
+- [00:11:37,860 - 00:11:38,740] and these rules
+- [00:11:38,740 - 00:11:41,740] you can pretty much calculate the Poisson bracket
+- [00:11:41,740 - 00:11:43,820] of any function of P and Q
+- [00:11:46,320 - 00:11:47,940] with any other
+- [00:11:48,380 - 00:11:51,060] you have to use these rules over and over again
+- [00:11:51,060 - 00:11:51,820] several times
+- [00:11:55,940 - 00:11:58,140] but here are the special cases
+- [00:11:59,840 - 00:12:02,640] the Poisson bracket of any Q
+- [00:12:03,460 - 00:12:05,700] Q is a function of itself of course
+- [00:12:05,700 - 00:12:07,880] so any Poisson
+- [00:12:07,880 - 00:12:10,560] the Poisson bracket of Q sub i
+- [00:12:11,060 - 00:12:12,520] with any other Q
+- [00:12:16,100 - 00:12:17,860] is equal to zero
+- [00:12:17,860 - 00:12:19,080] now why is that?
+- [00:12:19,160 - 00:12:20,160] let's look at it for a minute
+- [00:12:21,660 - 00:12:24,840] if F is Q1 let's say
+- [00:12:24,840 - 00:12:28,120] and G is sub i
+- [00:12:28,140 - 00:12:29,140] and then this is the same
+- [00:12:29,140 - 00:12:30,520] so when you do the same thing
+- [00:12:30,520 - 00:12:32,080] and the answer is always going to be zero
+- [00:12:32,080 - 00:12:33,800] because every term in here
+- [00:12:34,780 - 00:12:37,220] involves differentiating with somebody with respect to P
+- [00:12:38,160 - 00:12:39,640] so if there's nobody around
+- [00:12:39,640 - 00:12:40,600] who depends on P
+- [00:12:40,600 - 00:12:42,640] in fact you could write this more generally
+- [00:12:42,640 - 00:12:44,420] any function of Q
+- [00:12:44,420 - 00:12:46,380] with any other function of Q
+- [00:12:46,380 - 00:12:46,900] gives zero
+- [00:12:46,900 - 00:12:49,120] you've got to differentiate in the expression
+- [00:12:49,120 - 00:12:51,640] with respect to both P and Q
+- [00:12:51,640 - 00:12:53,040] and so this is zero
+- [00:12:53,040 - 00:12:54,800] it is also equal
+- [00:12:58,140 - 00:13:00,780] p sub i with p sub j.
+- [00:13:00,780 - 00:13:04,780] i can equal j or not equal to j,
+- [00:13:04,780 - 00:13:06,740] it's still equal to zero.
+- [00:13:08,260 - 00:13:10,500] Any p with p or q
+- [00:13:10,500 - 00:13:12,740] with q is always equal to zero.
+- [00:13:12,740 - 00:13:15,160] Any function of p with a
+- [00:13:15,160 - 00:13:17,700] function of p is zero.
+- [00:13:17,700 - 00:13:19,050] Any function of q with
+- [00:13:19,050 - 00:13:20,400] another function of q is zero.
+- [00:13:20,400 - 00:13:21,280] The
+- [00:13:21,280 - 00:13:23,860] things which are not zero are
+- [00:13:23,860 - 00:13:26,440] Poisson brackets of functions of p with
+- [00:13:26,440 - 00:13:27,120] functions of q,
+- [00:13:27,120 - 00:13:27,640] for example.
+- [00:13:27,640 - 00:13:28,160] In particular,
+- [00:13:28,160 - 00:13:33,320] the simplest case is the
+- [00:13:33,320 - 00:13:38,680] Poisson bracket of q sub i with p sub j.
+- [00:13:38,680 - 00:13:42,200] If you look up on the top here,
+- [00:13:42,200 - 00:13:44,340] let's see
+- [00:13:44,340 - 00:13:45,020] what that would be.
+- [00:13:45,020 - 00:13:50,120] The f is q sub i.
+- [00:13:50,120 - 00:13:52,660] The only thing that you can differentiate q
+- [00:13:52,660 - 00:13:55,320] sub i with respect to is q sub i itself.
+- [00:13:56,440 - 00:13:57,100] In other words,
+- [00:13:57,100 - 00:13:58,560] you can differentiate q sub i with
+- [00:13:58,560 - 00:14:00,020] respect to q sub i and get
+- [00:14:00,020 - 00:14:00,320] something,
+- [00:14:00,320 - 00:14:01,240] namely 1.
+- [00:14:01,240 - 00:14:05,220] But you can try to differentiate q sub i with
+- [00:14:05,220 - 00:14:06,180] respect to q sub ii.
+- [00:14:06,180 - 00:14:06,980] You won't get anything.
+- [00:14:07,740 - 00:14:10,910] So the only contribution comes from
+- [00:14:10,910 - 00:14:14,080] differentiating f with respect to q and
+- [00:14:14,080 - 00:14:15,900] g with respect to p.
+- [00:14:15,900 - 00:14:19,250] The only time you'll get a contribution
+- [00:14:19,250 - 00:14:22,600] is if i is equal to j.
+- [00:14:23,120 - 00:14:24,080] Why is that?
+- [00:14:24,080 - 00:14:26,220] Because each term in the sum here
+- [00:14:26,920 - 00:14:30,500] mates a q sub i with the same index i.
+- [00:14:30,500 - 00:14:32,860] The only contributions mate the
+- [00:14:32,860 - 00:14:33,640] indices together,
+- [00:14:33,640 - 00:14:35,680] one with one,
+- [00:14:35,680 - 00:14:36,460] two with two,
+- [00:14:36,460 - 00:14:37,260] three with three,
+- [00:14:37,260 - 00:14:37,880] and so forth.
+- [00:14:37,880 - 00:14:38,760] So the
+- [00:14:38,760 - 00:14:40,620] only time you can get something not zero,
+- [00:14:40,620 - 00:14:42,240] and this is something that you work out,
+- [00:14:43,020 - 00:14:45,360] is when i is equal to j.
+- [00:14:45,360 - 00:14:47,220] Otherwise it's zero.
+- [00:14:47,220 - 00:14:48,940] I can write,
+- [00:14:48,940 - 00:14:50,520] well I'll write it out first.
+- [00:14:51,140 - 00:14:55,220] Zero if i not equal to j,
+- [00:14:56,680 - 00:14:59,000] if i equals j,
+- [00:15:00,380 - 00:15:04,060] or to write it in fancy notation,
+- [00:15:05,849 - 00:15:08,060] it's equal to the Kronecker delta symbol,
+- [00:15:08,060 - 00:15:09,400] delta ij.
+- [00:15:20,180 - 00:15:22,300] Let's use these rules to calculate,
+- [00:15:35,860 - 00:15:38,970] let's use these rules without any reference
+- [00:15:38,970 - 00:15:42,080] at all to anything but the rules,
+- [00:15:42,360 - 00:15:45,720] but this set of algebraic rules over here.
+- [00:15:46,180 - 00:15:48,030] Let's use them to calculate the
+- [00:15:48,030 - 00:15:49,880] equations of motion for harmonic oscillator.
+- [00:15:50,860 - 00:15:53,820] The equations of motion for harmonic oscillator begin,
+- [00:15:53,820 - 00:15:55,500] let's do it over here,
+- [00:15:56,619 - 00:15:57,920] with a Hamiltonian.
+- [00:15:59,660 - 00:16:01,410] And now the Hamiltonian is
+- [00:16:01,410 - 00:16:03,160] a function of p's and q's,
+- [00:16:03,160 - 00:16:04,600] not q's and q dots,
+- [00:16:04,600 - 00:16:05,950] but think of it as
+- [00:16:05,950 - 00:16:07,300] a function of p and q.
+- [00:16:08,879 - 00:16:09,319] And,
+- [00:16:09,319 - 00:16:09,760] okay,
+- [00:16:09,760 - 00:16:12,780] let's suppose the oscillator has a mass m.
+- [00:16:13,640 - 00:16:15,750] So what's the kinetic energy term
+- [00:16:15,750 - 00:16:17,860] in terms of m and p?
+- [00:16:19,220 - 00:16:20,540] It's got a p squared in it.
+- [00:16:21,660 - 00:16:22,280] What else?
+- [00:16:24,220 - 00:16:25,140] Where does the m go?
+- [00:16:26,560 - 00:16:27,620] Numerator or denominator?
+- [00:16:29,120 - 00:16:29,780] Denominator.
+- [00:16:30,040 - 00:16:30,700] Denominator.
+- [00:16:32,250 - 00:16:36,980] It's 1 half mv squared in terms of velocities,
+- [00:16:37,100 - 00:16:45,980] but momentum squared divided by 2m in terms of momentum.
+- [00:16:47,229 - 00:16:52,060] p squared over 2m plus k over 2,
+- [00:16:52,060 - 00:16:54,000] q squared.
+- [00:16:54,060 - 00:16:54,900] Let's call it q squared.
+- [00:16:55,040 - 00:16:56,000] I don't want to start mixing.
+- [00:16:56,440 - 00:16:57,020] I want to start using the equations of p,
+- [00:16:57,020 - 00:16:59,280] of x's and q's.
+- [00:17:00,000 - 00:17:00,620] All right,
+- [00:17:00,620 - 00:17:01,940] this is my Hamiltonian now,
+- [00:17:01,940 - 00:17:02,980] h.
+- [00:17:05,460 - 00:17:08,970] And I want to work out the equation of
+- [00:17:08,970 - 00:17:12,480] motion for the p's and q's using only what's here.
+- [00:17:13,119 - 00:17:14,880] No reference to Lagrangian.
+- [00:17:14,900 - 00:17:15,260] In fact,
+- [00:17:15,260 - 00:17:17,099] not even a reference to Hamilton's equations,
+- [00:17:17,099 - 00:17:20,929] although Hamilton's equations went into the
+- [00:17:20,929 - 00:17:24,760] rule that the time derivative of something,
+- [00:17:24,760 - 00:17:25,440] let's write back,
+- [00:17:25,440 - 00:17:26,420] let's go back to a little bit later,
+- [00:17:26,420 - 00:17:26,420] but it's a reference to Hamilton's equations.
+- [00:17:26,420 - 00:17:26,920] Yeah,
+- [00:17:26,920 - 00:17:31,770] let's go back to the basic
+- [00:17:31,770 - 00:17:36,620] rule that given anything of interest,
+- [00:17:36,620 - 00:17:39,880] its time derivative is the Poisson
+- [00:17:39,880 - 00:17:43,140] bracket of that thing with the Hamiltonian.
+- [00:17:43,560 - 00:17:45,350] So that's the one thing I would
+- [00:17:45,350 - 00:17:47,140] add to this set of rules here,
+- [00:17:47,140 - 00:17:50,080] that the time derivative of the thing is the Poisson.
+- [00:17:50,140 - 00:17:51,580] Now we don't care where it came from.
+- [00:17:52,040 - 00:17:52,780] In fact,
+- [00:17:52,780 - 00:17:53,960] we don't even need to know.
+- [00:17:53,960 - 00:17:54,720] This contains,
+- [00:17:54,720 - 00:17:57,880] certainly contains Hamilton's equations,
+- [00:17:57,880 - 00:17:58,860] but let's forget it.
+- [00:17:58,880 - 00:17:59,720] Let's just use this rule.
+- [00:18:00,300 - 00:18:00,780] Okay,
+- [00:18:00,780 - 00:18:01,820] so here we are.
+- [00:18:01,920 - 00:18:05,960] h is p squared over 2m plus q squared,
+- [00:18:05,960 - 00:18:07,280] k over 2.
+- [00:18:07,680 - 00:18:09,760] And I want to calculate the equations of motion.
+- [00:18:09,900 - 00:18:10,440] In particular,
+- [00:18:10,440 - 00:18:11,780] let's start with p dot.
+- [00:18:12,080 - 00:18:12,560] Well,
+- [00:18:12,560 - 00:18:13,320] let's start with q dot.
+- [00:18:15,240 - 00:18:22,820] q dot is the Poisson bracket of q with h.
+- [00:18:23,400 - 00:18:25,500] So I could stick h in here now.
+- [00:18:26,060 - 00:18:30,000] Let's put p squared over
+- [00:18:30,000 - 00:18:33,940] 2m plus k over 2q squared.
+- [00:18:34,100 - 00:18:36,350] But q has zero Poisson
+- [00:18:36,350 - 00:18:38,600] bracket with any function of q.
+- [00:18:39,340 - 00:18:40,900] So I don't need to write that there.
+- [00:18:41,760 - 00:18:44,980] When I keep being tempted to say commute with
+- [00:18:44,980 - 00:18:48,200] because I tend to think in quantum mechanical language.
+- [00:18:49,280 - 00:18:51,980] We need a verb for taking the Poisson bracket.
+- [00:18:53,320 - 00:18:55,120] Anybody got a good verb for it?
+- [00:18:56,040 - 00:18:56,740] Pubbing it.
+- [00:18:58,840 - 00:18:59,420] Poissonate it.
+- [00:19:00,040 - 00:19:00,640] Poissonate it.
+- [00:19:00,800 - 00:19:01,500] Poissonate it.
+- [00:19:01,520 - 00:19:01,640] Good,
+- [00:19:01,640 - 00:19:02,020] good,
+- [00:19:02,020 - 00:19:02,280] good.
+- [00:19:03,380 - 00:19:04,020] Poissonate it.
+- [00:19:04,140 - 00:19:04,580] All right.
+- [00:19:04,920 - 00:19:09,600] So taking the Poisson bracket of f with a Hamiltonian,
+- [00:19:09,600 - 00:19:11,360] we will call Poissonating it.
+- [00:19:12,740 - 00:19:16,550] Poissonating q with a Hamiltonian requires only that
+- [00:19:16,550 - 00:19:20,360] we Poissonate q with p squared over 2m
+- [00:19:20,360 - 00:19:22,800] because q is a Poisson.
+- [00:19:22,820 - 00:19:24,680] So if q Poissonates with q squared,
+- [00:19:24,680 - 00:19:26,420] the Poissonate means to be zero.
+- [00:19:27,340 - 00:19:27,780] Okay.
+- [00:19:29,439 - 00:19:29,879] Well,
+- [00:19:29,879 - 00:19:31,620] if two things Poissonate,
+- [00:19:31,620 - 00:19:31,980] oh,
+- [00:19:31,980 - 00:19:32,300] God.
+- [00:19:33,880 - 00:19:34,320] Okay.
+- [00:19:35,240 - 00:19:35,860] All right.
+- [00:19:35,880 - 00:19:37,150] Does everybody see why I don't
+- [00:19:37,150 - 00:19:38,420] have to write q squared here?
+- [00:19:39,240 - 00:19:39,680] Yeah,
+- [00:19:39,680 - 00:19:39,960] okay.
+- [00:19:40,500 - 00:19:41,120] All right.
+- [00:19:41,140 - 00:19:41,320] Now,
+- [00:19:41,320 - 00:19:42,880] what do we do?
+- [00:19:43,260 - 00:19:45,060] We say this is a product.
+- [00:19:45,260 - 00:19:45,360] Well,
+- [00:19:45,360 - 00:19:45,760] first of all,
+- [00:19:45,760 - 00:19:47,680] we can take the 1 over 2m on the outside.
+- [00:19:48,100 - 00:19:49,220] 1 over 2m.
+- [00:19:49,760 - 00:19:50,700] That's this rule.
+- [00:19:50,700 - 00:19:52,100] That's one of these rules,
+- [00:19:52,100 - 00:19:53,760] multiplication by a constant.
+- [00:19:53,940 - 00:19:54,960] We take that on the outside.
+- [00:19:55,520 - 00:19:59,280] And then we have q with p squared.
+- [00:20:00,120 - 00:20:00,560] Now,
+- [00:20:00,560 - 00:20:01,500] q with p squared,
+- [00:20:01,500 - 00:20:02,300] we use,
+- [00:20:02,300 - 00:20:02,660] sorry,
+- [00:20:02,660 - 00:20:03,620] q with p squared,
+- [00:20:03,620 - 00:20:04,720] we use the product rule.
+- [00:20:05,360 - 00:20:06,480] The product rule,
+- [00:20:06,480 - 00:20:07,600] and whose product?
+- [00:20:07,860 - 00:20:09,200] The product is p squared.
+- [00:20:11,840 - 00:20:12,280] Incidentally,
+- [00:20:12,280 - 00:20:14,280] you could have written the same way the other way.
+- [00:20:14,340 - 00:20:15,340] You could have switched this around.
+- [00:20:16,160 - 00:20:17,920] Everybody would have just changed sign,
+- [00:20:17,920 - 00:20:19,940] and the equation would still be true.
+- [00:20:19,940 - 00:20:23,360] So if I put c Poissonated with a b,
+- [00:20:23,360 - 00:20:27,200] then the orders would change,
+- [00:20:27,200 - 00:20:28,520] but the equation would still be true.
+- [00:20:28,800 - 00:20:29,360] Okay.
+- [00:20:29,500 - 00:20:32,000] So what is the Poisson
+- [00:20:32,000 - 00:20:34,500] bracket of q with p squared?
+- [00:20:34,980 - 00:20:36,240] According to the rule,
+- [00:20:36,240 - 00:20:39,770] that's p times the Poisson bracket of pq
+- [00:20:39,770 - 00:20:43,300] plus p times the Poisson bracket of pq.
+- [00:20:43,440 - 00:20:44,420] There are two terms.
+- [00:20:44,680 - 00:20:46,180] p is p times p.
+- [00:20:46,240 - 00:20:47,540] p squared is p times p.
+- [00:20:49,940 - 00:20:51,040] And now there's two terms.
+- [00:20:51,320 - 00:20:53,320] This one times p,
+- [00:20:53,320 - 00:20:56,840] and this one times this p over here.
+- [00:20:57,120 - 00:20:58,320] So what's the result?
+- [00:20:58,520 - 00:21:01,860] The result is twice p times
+- [00:21:01,860 - 00:21:05,200] the Poisson bracket of q with p.
+- [00:21:05,820 - 00:21:07,720] But what's the Poisson bracket with q with p?
+- [00:21:07,860 - 00:21:09,940] We just go down to our table over here.
+- [00:21:10,060 - 00:21:10,700] It's 1.
+- [00:21:14,140 - 00:21:14,660] Okay.
+- [00:21:14,760 - 00:21:17,340] So our first equation of motion is
+- [00:21:17,340 - 00:21:19,920] that q dot is p over here.
+- [00:21:19,920 - 00:21:20,360] p over m.
+- [00:21:21,100 - 00:21:21,620] Okay.
+- [00:21:21,720 - 00:21:22,480] p over m.
+- [00:21:23,200 - 00:21:24,780] I think we've seen that before.
+- [00:21:26,780 - 00:21:28,380] That's just a statement that the
+- [00:21:28,380 - 00:21:29,980] momentum is m times the velocity.
+- [00:21:31,120 - 00:21:31,640] Okay.
+- [00:21:31,820 - 00:21:34,140] So that's the first equation.
+- [00:21:35,000 - 00:21:36,840] And the second equation of motion,
+- [00:21:36,840 - 00:21:37,700] same thing.
+- [00:21:37,840 - 00:21:38,080] Oops,
+- [00:21:38,080 - 00:21:38,280] sorry.
+- [00:21:38,880 - 00:21:43,500] p dot is the Poisson
+- [00:21:43,500 - 00:21:48,120] bracket of p with the Hamiltonian.
+- [00:21:48,120 - 00:21:51,340] But now I can leave out the p squared
+- [00:21:51,340 - 00:21:54,560] over 2m because Poissonating p with p squared gives 0.
+- [00:21:55,300 - 00:21:56,820] Poissonating p with q squared has
+- [00:21:56,820 - 00:21:58,340] a chance of not giving 0.
+- [00:21:58,740 - 00:22:04,040] So we put here k over 2 q squared.
+- [00:22:06,320 - 00:22:08,000] Let's take the k over 2 outside.
+- [00:22:08,180 - 00:22:08,880] p dot equals.
+- [00:22:10,020 - 00:22:11,160] Let's take the k dot
+- [00:22:11,160 - 00:22:12,300] k over 2 on the outside.
+- [00:22:15,860 - 00:22:17,460] And now we do the same thing.
+- [00:22:17,460 - 00:22:18,680] It's twice,
+- [00:22:18,680 - 00:22:23,070] equals twice q times the Poisson bracket
+- [00:22:23,070 - 00:22:27,460] of p with q times k over 2.
+- [00:22:28,740 - 00:22:29,940] q times q,
+- [00:22:29,940 - 00:22:30,720] we get two terms.
+- [00:22:30,860 - 00:22:31,880] That's where the 2 comes from.
+- [00:22:32,100 - 00:22:34,000] Now what's the Poisson bracket of p with q?
+- [00:22:35,980 - 00:22:36,760] It's not 1.
+- [00:22:36,940 - 00:22:37,820] It's minus 1.
+- [00:22:38,300 - 00:22:41,140] Minus 1 because you have to reverse them.
+- [00:22:41,980 - 00:22:42,500] Okay.
+- [00:22:42,560 - 00:22:43,740] So this is minus 1.
+- [00:22:44,000 - 00:22:46,480] That is where the minus sign.
+- [00:22:46,480 - 00:22:47,660] In this formalism,
+- [00:22:47,660 - 00:22:51,900] that's where the minus sign comes from in Hamilton's,
+- [00:22:51,900 - 00:22:53,160] in one of Hamilton's equations.
+- [00:22:53,860 - 00:22:55,040] So the 2's cancel.
+- [00:22:57,220 - 00:22:58,540] Put the k over here.
+- [00:22:59,940 - 00:23:02,060] Minus sign because commutator,
+- [00:23:02,060 - 00:23:05,300] Poisson bracket of p with q is minus 1.
+- [00:23:07,660 - 00:23:08,300] All right,
+- [00:23:08,300 - 00:23:08,980] so that's p dot.
+- [00:23:11,020 - 00:23:14,680] And that's of course the standard Newtonian equation.
+- [00:23:16,300 - 00:23:17,920] q dot is p over m.
+- [00:23:18,080 - 00:23:19,660] p dot is minus kq.
+- [00:23:20,180 - 00:23:24,290] These combine together to give Newton's equations which say that the
+- [00:23:24,290 - 00:23:28,400] second derivative of q times the mass is equal to minus kq.
+- [00:23:28,600 - 00:23:31,720] So these two together are Newton's equation for,
+- [00:23:31,720 - 00:23:32,420] or Hooke's,
+- [00:23:32,420 - 00:23:33,760] I don't know whose equation it is,
+- [00:23:33,760 - 00:23:37,360] but the equation of motion for a harmonic oscillator.
+- [00:23:37,360 - 00:23:43,800] And it's a simple example.
+- [00:23:45,820 - 00:23:46,300] Okay,
+- [00:23:46,300 - 00:23:47,960] any questions about Poisson brackets?
+- [00:23:48,220 - 00:23:48,340] Yes?
+- [00:23:48,980 - 00:23:51,860] In terms of a mathematical structure,
+- [00:23:51,860 - 00:23:54,000] is this an algebra?
+- [00:23:54,540 - 00:23:55,480] It's not a group.
+- [00:23:56,180 - 00:23:56,960] It's not a what?
+- [00:23:57,260 - 00:23:58,220] It's not a group.
+- [00:23:58,520 - 00:23:58,820] No,
+- [00:23:58,820 - 00:23:59,340] it's not a group.
+- [00:23:59,460 - 00:24:00,660] I think you would call it an algebra.
+- [00:24:01,540 - 00:24:02,660] Does it have an interval?
+- [00:24:06,080 - 00:24:06,560] No.
+- [00:24:06,620 - 00:24:06,940] No.
+- [00:24:06,940 - 00:24:07,340] No.
+- [00:24:08,500 - 00:24:09,020] No,
+- [00:24:09,020 - 00:24:09,960] there's no inverses.
+- [00:24:10,440 - 00:24:12,520] You have product and addition.
+- [00:24:14,460 - 00:24:15,300] Anything else?
+- [00:24:16,300 - 00:24:16,820] Hmm.
+- [00:24:18,000 - 00:24:20,220] So what's the connection to commutators?
+- [00:24:20,520 - 00:24:20,820] Hmm.
+- [00:24:22,520 - 00:24:23,040] Well,
+- [00:24:23,040 - 00:24:24,260] the main connection is,
+- [00:24:24,260 - 00:24:25,980] instead of drawing wiggly things,
+- [00:24:25,980 - 00:24:26,900] you draw square ones.
+- [00:24:28,420 - 00:24:30,380] And you put an i on the right hand side.
+- [00:24:31,400 - 00:24:32,420] Let's not do it now.
+- [00:24:34,380 - 00:24:34,900] Well,
+- [00:24:34,900 - 00:24:35,420] okay.
+- [00:24:36,760 - 00:24:37,280] Poisson.
+- [00:24:37,280 - 00:24:42,830] Poisson bracket of two things in
+- [00:24:42,830 - 00:24:48,380] classical mechanics is essentially the commutator of
+- [00:24:48,380 - 00:24:54,300] the two of them times i,
+- [00:24:54,300 - 00:24:55,740] Planck's constant.
+- [00:24:57,050 - 00:24:58,380] But we'll get to that.
+- [00:24:58,560 - 00:25:00,200] That's not for now.
+- [00:25:01,820 - 00:25:02,440] Okay.
+- [00:25:07,239 - 00:25:08,520] All right,
+- [00:25:08,520 - 00:25:10,120] now we're going to study angular momentum.
+- [00:25:11,580 - 00:25:13,780] This is not a separate lecture.
+- [00:25:14,520 - 00:25:16,600] We're going to study angular momentum,
+- [00:25:16,600 - 00:25:19,340] the equations of motion for rotating bodies and
+- [00:25:19,340 - 00:25:22,660] things of that nature by using Poisson brackets.
+- [00:25:23,440 - 00:25:26,180] We'll do the gyroscope by Poisson brackets.
+- [00:25:27,160 - 00:25:27,940] Very efficient.
+- [00:25:29,080 - 00:25:29,720] And,
+- [00:25:29,720 - 00:25:30,200] um...
+- [00:25:33,979 - 00:25:36,080] I seem to have lost one page of my notes,
+- [00:25:36,080 - 00:25:38,140] but I'll try to do it on the fly.
+- [00:25:39,179 - 00:25:42,460] Motion of a rigid body in space.
+- [00:25:43,960 - 00:25:46,300] Poisson brackets are the way to think about it.
+- [00:25:48,559 - 00:25:49,360] And here,
+- [00:25:49,360 - 00:25:50,220] obviously,
+- [00:25:50,220 - 00:25:51,320] it didn't help very much.
+- [00:25:51,400 - 00:25:51,580] I mean,
+- [00:25:51,580 - 00:25:54,220] it just did what Hamilton's equations did.
+- [00:25:54,300 - 00:25:55,930] It's just a sort of redundant
+- [00:25:55,930 - 00:25:57,560] way of thinking about Hamilton's equations.
+- [00:25:58,420 - 00:25:59,720] Or Newton's equations.
+- [00:26:00,360 - 00:26:02,640] But when you start thinking about angular momentum,
+- [00:26:02,640 - 00:26:04,160] you start to see the power that
+- [00:26:04,160 - 00:26:04,560] it has.
+- [00:26:07,060 - 00:26:07,800] All right.
+- [00:26:07,860 - 00:26:08,140] Now,
+- [00:26:08,140 - 00:26:12,180] remember what angular momentum was.
+- [00:26:12,420 - 00:26:16,120] Angular momentum was the conserved quantity
+- [00:26:16,120 - 00:26:19,820] that's conserved because of rotational invariance.
+- [00:26:20,260 - 00:26:20,780] Okay?
+- [00:26:21,780 - 00:26:23,940] If we have a collection of...
+- [00:26:28,240 - 00:26:30,330] Let's just take one particle and not try
+- [00:26:30,330 - 00:26:32,420] to think about lots and lots of particles
+- [00:26:32,420 - 00:26:33,040] for right now.
+- [00:26:37,660 - 00:26:39,540] And let's just go through the little exercise.
+- [00:26:40,680 - 00:26:42,580] Let me write over here on this blackboard,
+- [00:26:42,580 - 00:26:43,820] on this part of the blackboard,
+- [00:26:43,820 - 00:26:45,280] the quantity
+- [00:26:45,280 - 00:26:48,900] Q is conserved if there's a symmetry.
+- [00:26:49,899 - 00:26:50,780] In particular,
+- [00:26:50,780 - 00:26:53,700] if the symmetry is such that it takes...
+- [00:26:53,700 - 00:26:53,920] It's a constant.
+- [00:26:53,980 - 00:26:55,120] And the Q's,
+- [00:26:55,120 - 00:26:59,820] Q sub i equal to F
+- [00:26:59,820 - 00:27:04,520] sub i of Q times epsilon,
+- [00:27:04,520 - 00:27:05,860] where epsilon is any small
+- [00:27:05,860 - 00:27:06,320] number.
+- [00:27:07,240 - 00:27:09,930] If this is a symmetry which does not
+- [00:27:09,930 - 00:27:12,620] change the Lagrangian in the case that we originally
+- [00:27:12,620 - 00:27:13,020] studied,
+- [00:27:13,020 - 00:27:14,520] today we're going to study Hamiltonians,
+- [00:27:14,520 - 00:27:16,200] but this was a symmetry.
+- [00:27:17,000 - 00:27:18,160] If that is a symmetry,
+- [00:27:18,160 - 00:27:20,680] then there's always a conserved quantity.
+- [00:27:20,900 - 00:27:22,600] And the conserved quantity...
+- [00:27:23,440 - 00:27:23,920] The conserved quantity...
+- [00:27:23,920 - 00:27:26,260] Is the sum over all the i's.
+- [00:27:26,760 - 00:27:27,720] Remember what it is?
+- [00:27:29,420 - 00:27:37,240] P sub i times F sub i,
+- [00:27:37,240 - 00:27:37,600] oops,
+- [00:27:37,600 - 00:27:38,180] not delta,
+- [00:27:38,180 - 00:27:41,400] but F sub i of Q.
+- [00:27:43,980 - 00:27:44,580] You know,
+- [00:27:44,580 - 00:27:47,330] it wouldn't be that bad a deal if
+- [00:27:47,330 - 00:27:50,080] I just erased the epsilon here and said,
+- [00:27:50,120 - 00:27:51,760] you just track it through,
+- [00:27:51,760 - 00:27:53,340] you don't ever have to worry about it.
+- [00:27:53,400 - 00:27:53,900] It really is a symmetry.
+- [00:27:53,900 - 00:27:55,490] It really is just P sub
+- [00:27:55,490 - 00:27:57,080] i times F sub i of Q.
+- [00:27:59,440 - 00:28:03,000] And you could also write this as sum over
+- [00:28:03,000 - 00:28:06,560] i P sub i times delta of Q sub i.
+- [00:28:06,740 - 00:28:08,640] I'm leaving out a factor of epsilon,
+- [00:28:08,640 - 00:28:11,740] but the point is that if a thing is conserved,
+- [00:28:11,740 - 00:28:12,300] so
+- [00:28:12,300 - 00:28:13,800] is epsilon times it,
+- [00:28:13,800 - 00:28:15,020] so it doesn't really matter whether
+- [00:28:15,020 - 00:28:16,240] I put the epsilon there or
+- [00:28:16,240 - 00:28:16,420] not.
+- [00:28:16,760 - 00:28:17,520] But in any case,
+- [00:28:17,520 - 00:28:19,680] this is the thing which is
+- [00:28:19,680 - 00:28:21,840] conserved if there is a symmetry.
+- [00:28:22,480 - 00:28:23,540] What was a symmetry?
+- [00:28:23,540 - 00:28:25,180] A symmetry was an operation
+- [00:28:25,180 - 00:28:26,820] that doesn't change the Lagrangian,
+- [00:28:26,820 - 00:28:28,420] an active transformation
+- [00:28:28,420 - 00:28:29,960] that doesn't change the Lagrangian.
+- [00:28:30,980 - 00:28:33,060] So let's go back to angular momentum.
+- [00:28:33,840 - 00:28:35,420] In the case of angular momentum,
+- [00:28:35,420 - 00:28:37,960] the transformation we're talking about is a rotation.
+- [00:28:38,180 - 00:28:39,140] So there's our particle.
+- [00:28:40,620 - 00:28:42,060] It's located at point,
+- [00:28:42,060 - 00:28:42,620] let's say,
+- [00:28:42,620 - 00:28:42,980] .
+- [00:28:42,980 - 00:28:45,160] Our Q's are now X and Y.
+- [00:28:45,940 - 00:28:48,560] And we make an infinitesimal
+- [00:28:48,560 - 00:28:51,180] rotation by the small angle epsilon.
+- [00:28:52,740 - 00:28:53,300] And,
+- [00:28:53,300 - 00:28:53,520] well,
+- [00:28:53,520 - 00:28:53,520] that's it.
+- [00:28:53,520 - 00:28:56,070] The point moves to a new X
+- [00:28:56,070 - 00:28:58,620] plus delta X and Y plus delta Y.
+- [00:28:59,520 - 00:29:01,120] So what happens to X?
+- [00:29:01,780 - 00:29:07,240] Delta X is equal.
+- [00:29:07,320 - 00:29:09,480] Now obviously if Y is positive,
+- [00:29:09,480 - 00:29:10,300] as it is here,
+- [00:29:10,300 - 00:29:11,680] and you rotate,
+- [00:29:11,680 - 00:29:14,160] delta X will be negative.
+- [00:29:14,400 - 00:29:15,980] You'll move slightly to the left here,
+- [00:29:15,980 - 00:29:16,360] obviously.
+- [00:29:16,620 - 00:29:18,240] So this must be minus.
+- [00:29:19,480 - 00:29:22,120] And it's minus Y times epsilon.
+- [00:29:26,360 - 00:29:29,600] And delta Y is equal to
+- [00:29:29,600 - 00:29:32,840] plus X times the same epsilon.
+- [00:29:34,100 - 00:29:35,460] Epsilon is a small angle.
+- [00:29:39,360 - 00:29:40,700] Everybody remembers this.
+- [00:29:40,900 - 00:29:43,300] And so now we can write down the conserved quantity.
+- [00:29:43,920 - 00:29:45,970] And the conserved quantity is called angular
+- [00:29:45,970 - 00:29:48,020] momentum and is labeled with an L.
+- [00:29:48,220 - 00:29:49,240] In this case,
+- [00:29:49,240 - 00:29:50,930] Q is being replaced by a
+- [00:29:50,930 - 00:29:52,620] thing called L and its angular momentum.
+- [00:29:52,980 - 00:29:53,500] So what happens?
+- [00:29:53,520 - 00:29:54,420] So what is it?
+- [00:29:54,660 - 00:29:55,540] It's the sum.
+- [00:29:55,620 - 00:30:00,020] The sum over I now becomes the sum over the
+- [00:30:00,020 - 00:30:04,420] two directions of space of P sub X times the
+- [00:30:04,420 - 00:30:05,220] change in X,
+- [00:30:05,220 - 00:30:06,260] which is minus Y,
+- [00:30:06,260 - 00:30:15,780] plus P sub Y times X.
+- [00:30:20,220 - 00:30:20,780] Let's see.
+- [00:30:20,840 - 00:30:21,840] Do I want to write it that way?
+- [00:30:22,640 - 00:30:23,120] Yes.
+- [00:30:23,120 - 00:30:26,300] Like this.
+- [00:30:28,820 - 00:30:33,600] Or just X P Y minus Y P X.
+- [00:30:35,000 - 00:30:35,820] Same thing.
+- [00:30:36,120 - 00:30:38,000] Let me just erase it and write it this way.
+- [00:30:38,240 - 00:30:39,140] This is L.
+- [00:30:45,140 - 00:30:47,210] Now this is the angular momentum
+- [00:30:47,210 - 00:30:49,280] for a particle moving in two dimensions.
+- [00:30:50,160 - 00:30:53,010] angular momentum is really a vector
+- [00:30:53,010 - 00:30:55,860] what component of angular momentum is this
+- [00:30:57,900 - 00:31:00,540] it's the Z component where Z is the
+- [00:31:00,540 - 00:31:03,180] axis coming out of the blackboard the angular
+- [00:31:03,180 - 00:31:07,310] momentum about the Z axis so let's call this
+- [00:31:07,310 - 00:31:11,440] L sub Z now this is the Z component
+- [00:31:11,440 - 00:31:17,030] of angular momentum X P Y minus Y P
+- [00:31:17,030 - 00:31:22,620] X what about the X and Y components of
+- [00:31:22,620 - 00:31:24,810] angular momentum they would be exactly
+- [00:31:24,810 - 00:31:27,000] the same thing instead of rotating about
+- [00:31:27,000 - 00:31:29,570] the Z axis you rotate about the Y
+- [00:31:29,570 - 00:31:32,140] sorry instead of rotating about the Z axis you
+- [00:31:32,140 - 00:31:34,520] rotate about the X axis and all you have
+- [00:31:34,520 - 00:31:36,900] to do to find the components here is to
+- [00:31:36,900 - 00:31:39,160] permute Z goes to X goes
+- [00:31:39,160 - 00:31:41,420] to Y X goes to Y
+- [00:31:41,420 - 00:31:43,630] goes to Z X Y Z x y z
+- [00:31:43,630 - 00:31:45,840] x y z x y z X goes to Y,
+- [00:31:45,840 - 00:31:51,220] Y goes to Z I'm never
+- [00:31:51,220 - 00:31:53,540] consistent about about whether I use
+- [00:31:53,540 - 00:31:55,860] a lowercase or an uppercase Z
+- [00:31:55,860 - 00:32:02,900] forgive me for that minus Z P Y X Y y Z
+- [00:32:02,900 - 00:32:09,940] y z X Y and then L sub Y is X Y
+- [00:32:09,940 - 00:32:10,240] Z
+- [00:32:11,740 - 00:32:12,420] py,
+- [00:32:12,420 - 00:32:12,920] pz,
+- [00:32:12,920 - 00:32:13,500] px,
+- [00:32:13,500 - 00:32:15,480] minus y,
+- [00:32:15,480 - 00:32:15,940] z,
+- [00:32:15,940 - 00:32:16,380] x,
+- [00:32:16,380 - 00:32:17,760] p,
+- [00:32:17,760 - 00:32:18,640] z.
+- [00:32:19,480 - 00:32:20,160] Sorry,
+- [00:32:20,160 - 00:32:20,400] p,
+- [00:32:20,400 - 00:32:20,680] z.
+- [00:32:22,100 - 00:32:24,800] These are the three components of angular momentum,
+- [00:32:25,040 - 00:32:28,380] and they're all conserved for an isolated system.
+- [00:32:29,780 - 00:32:32,620] The conservation corresponds to the symmetry
+- [00:32:32,620 - 00:32:35,460] of rotation about the three axes.
+- [00:32:36,180 - 00:32:39,160] Suppose you want to rotate about some arbitrary axis,
+- [00:32:39,160 - 00:32:39,980] incidentally,
+- [00:32:39,980 - 00:32:42,160] not the x or the y or the z axis,
+- [00:32:42,420 - 00:32:44,270] but the square root of 2 times
+- [00:32:44,270 - 00:32:46,120] x plus square root of 2 times y.
+- [00:32:46,880 - 00:32:47,480] You know,
+- [00:32:47,480 - 00:32:50,080] some cattywampus angle.
+- [00:32:51,020 - 00:32:54,120] You just take the axis that you want to rotate,
+- [00:32:54,240 - 00:32:58,140] and you dot it as dot product into the,
+- [00:32:58,280 - 00:33:00,030] you take the unit vector along
+- [00:33:00,030 - 00:33:01,780] the axis you want to rotate by,
+- [00:33:02,000 - 00:33:03,440] and you take the dot
+- [00:33:03,440 - 00:33:04,880] product of L with that direction,
+- [00:33:05,140 - 00:33:09,580] and that gives you the angular momentum,
+- [00:33:09,980 - 00:33:12,850] which is the angular momentum conserved by
+- [00:33:12,850 - 00:33:15,720] virtue of rotational invariance about that axis.
+- [00:33:17,620 - 00:33:18,060] Okay?
+- [00:33:19,640 - 00:33:20,830] The first thing I want
+- [00:33:20,830 - 00:33:22,020] to do with the angular momentum,
+- [00:33:22,180 - 00:33:23,620] which is an odd thing to do,
+- [00:33:23,680 - 00:33:25,000] we could solve all kinds of problems,
+- [00:33:25,160 - 00:33:28,690] we could study why your motorcycle flips up
+- [00:33:28,690 - 00:33:32,220] in the air when you accelerate it or whatever,
+- [00:33:33,280 - 00:33:35,260] but I want to do something different.
+- [00:33:36,840 - 00:33:37,280] Okay?
+- [00:33:38,440 - 00:33:38,880] Okay.
+- [00:33:39,520 - 00:33:39,960] Okay.
+- [00:33:39,980 - 00:33:41,320] I want to study its Poisson brackets.
+- [00:33:45,600 - 00:33:46,080] Oh,
+- [00:33:46,080 - 00:33:47,660] let's write this in another form,
+- [00:33:47,780 - 00:33:50,340] just remain needed some time in the future,
+- [00:33:50,340 - 00:33:50,820] I don't know.
+- [00:33:51,140 - 00:33:53,930] The angular momentum vector is the r
+- [00:33:53,930 - 00:33:56,720] vector cross product with the p vector.
+- [00:33:58,280 - 00:33:59,040] Same thing.
+- [00:33:59,140 - 00:34:00,840] These are just the components of the cross product.
+- [00:34:02,340 - 00:34:03,040] All right,
+- [00:34:03,040 - 00:34:06,600] but before we do the Poisson brackets of angular momentum
+- [00:34:06,600 - 00:34:09,179] with other components of the angular momentum,
+- [00:34:09,280 - 00:34:09,960] I want to get to the Poisson brackets.
+- [00:34:09,960 - 00:34:10,239] I want to get to that.
+- [00:34:10,420 - 00:34:13,350] But let's just do the Poisson brackets
+- [00:34:13,350 - 00:34:16,280] of the angular momentum with the coordinates x,
+- [00:34:16,280 - 00:34:16,540] y,
+- [00:34:16,540 - 00:34:16,880] and z.
+- [00:34:17,440 - 00:34:18,139] All right?
+- [00:34:18,540 - 00:34:20,219] So let's take L sub z,
+- [00:34:20,219 - 00:34:22,620] let's take the Poisson bracket,
+- [00:34:22,820 - 00:34:24,239] we're just still exploring now,
+- [00:34:24,320 - 00:34:29,210] think of this in the spirit of exploration
+- [00:34:29,210 - 00:34:34,100] of what the hell Poisson was talking about.
+- [00:34:35,159 - 00:34:35,880] All right,
+- [00:34:35,880 - 00:34:38,679] so let's take the Poisson bracket,
+- [00:34:40,159 - 00:34:42,360] let's take the Poisson bracket of x with L z.
+- [00:34:42,639 - 00:34:43,840] Let's begin with that.
+- [00:34:46,040 - 00:34:48,699] And we'll also do y with L z and
+- [00:34:48,699 - 00:34:51,360] also z with L z and see what we get.
+- [00:34:52,139 - 00:34:52,860] All right,
+- [00:34:52,860 - 00:34:55,159] so what is that Poisson bracket of x?
+- [00:34:55,280 - 00:34:56,600] Now x is one of the q's.
+- [00:34:57,160 - 00:35:03,120] x with L sub z,
+- [00:35:03,120 - 00:35:09,100] which is x p y minus y p x.
+- [00:35:11,300 - 00:35:11,880] It does.
+- [00:35:11,880 - 00:35:13,700] Is there any contribution from
+- [00:35:13,700 - 00:35:15,520] anything on the right hand side?
+- [00:35:16,300 - 00:35:17,680] x with x,
+- [00:35:17,680 - 00:35:19,460] that doesn't give you a Poisson bracket,
+- [00:35:19,680 - 00:35:20,900] and the x with p y
+- [00:35:20,900 - 00:35:22,120] don't give you a Poisson bracket.
+- [00:35:22,560 - 00:35:25,960] Only q's with the same index,
+- [00:35:27,580 - 00:35:30,140] give you a Poisson bracket with the corresponding p.
+- [00:35:30,840 - 00:35:31,720] So x
+- [00:35:31,720 - 00:35:34,190] x does not have a Poisson bracket with p sub
+- [00:35:34,190 - 00:35:36,660] y and it does not have a Poisson bracket with x
+- [00:35:36,660 - 00:35:38,290] It does have it does it
+- [00:35:38,290 - 00:35:39,920] have a Poisson bracket with y?
+- [00:35:39,920 - 00:35:40,520] No
+- [00:35:40,520 - 00:35:43,180] But does it have a Poisson bracket with px?
+- [00:35:43,180 - 00:35:44,600] The answer is yes
+- [00:35:45,420 - 00:35:48,780] So here's where we get the non-zero contribution from
+- [00:35:48,780 - 00:35:49,960] And what is it?
+- [00:35:49,960 - 00:35:53,820] It's minus y times the
+- [00:35:53,820 - 00:35:57,680] Poisson bracket of x with px
+- [00:35:57,680 - 00:35:59,320] Which is?
+- [00:35:59,320 - 00:36:00,920] 1
+- [00:36:04,220 - 00:36:04,840] You're right,
+- [00:36:04,840 - 00:36:05,180] minus
+- [00:36:06,940 - 00:36:07,800] Minus from here,
+- [00:36:07,800 - 00:36:09,600] not from the Poisson bracket
+- [00:36:11,340 - 00:36:12,580] So we get minus y
+- [00:36:19,020 - 00:36:20,580] Anything interesting about that?
+- [00:36:20,580 - 00:36:21,820] Yeah
+- [00:36:23,140 - 00:36:25,580] That minus y is the same minus y as here
+- [00:36:25,580 - 00:36:27,660] We'll see how it turns out
+- [00:36:27,680 - 00:36:28,500] We'll get to that related in a moment
+- [00:36:28,500 - 00:36:33,360] We'll recognize a set of equations which will be interesting
+- [00:36:33,360 - 00:36:35,540] Which will make an interpretation for this
+- [00:36:35,540 - 00:36:37,960] So x with L sub
+- [00:36:37,960 - 00:36:40,380] z is equal to minus y
+- [00:36:44,080 - 00:36:47,220] How about y with L sub z?
+- [00:36:49,180 - 00:36:49,740] Okay,
+- [00:36:49,740 - 00:36:50,080] so
+- [00:36:51,180 - 00:36:51,740] Alright,
+- [00:36:51,740 - 00:36:57,660] let's do this
+- [00:36:57,680 - 00:36:58,220] Let's write it out
+- [00:37:00,279 - 00:37:02,260] Equals y with,
+- [00:37:02,260 - 00:37:03,120] same thing,
+- [00:37:03,120 - 00:37:06,720] xpy minus ypx
+- [00:37:07,440 - 00:37:07,920] Again,
+- [00:37:07,920 - 00:37:09,040] which term contributes?
+- [00:37:09,180 - 00:37:10,400] When we have x over here,
+- [00:37:10,400 - 00:37:12,640] it was the last term which contributed
+- [00:37:13,240 - 00:37:14,680] Now it's this term
+- [00:37:15,980 - 00:37:18,900] Poisson bracket of y with p sub y is 1
+- [00:37:19,480 - 00:37:21,960] Poisson bracket of y with p sub x is 0
+- [00:37:21,960 - 00:37:23,080] So it's only this here
+- [00:37:24,520 - 00:37:26,080] And that's just equal to x
+- [00:37:28,020 - 00:37:30,680] That's x times the Poisson bracket of y with py,
+- [00:37:30,680 - 00:37:31,360] but that's 1
+- [00:37:32,020 - 00:37:33,060] So it's just x
+- [00:37:33,500 - 00:37:33,940] Alright,
+- [00:37:33,940 - 00:37:34,440] let's write that,
+- [00:37:34,440 - 00:37:34,980] x
+- [00:37:40,420 - 00:37:40,860] Oh,
+- [00:37:40,860 - 00:37:42,660] I left out an equation here if I
+- [00:37:42,660 - 00:37:44,460] want to think about this in three dimensions
+- [00:37:45,100 - 00:37:46,320] What about delta z?
+- [00:37:48,480 - 00:37:50,640] When I rotate about the z axis,
+- [00:37:50,640 - 00:37:51,540] what happens to z?
+- [00:37:52,660 - 00:37:53,100] Nothing
+- [00:37:53,560 - 00:37:54,560] It just stays the same
+- [00:37:54,560 - 00:37:55,980] If you rotate about the z axis,
+- [00:37:55,980 - 00:37:56,940] z doesn't change
+- [00:37:57,680 - 00:37:58,260] So this is 0
+- [00:38:00,140 - 00:38:00,620] Oops,
+- [00:38:00,620 - 00:38:01,060] equals
+- [00:38:03,080 - 00:38:03,560] Alright,
+- [00:38:03,560 - 00:38:04,760] let's calculate finally
+- [00:38:05,880 - 00:38:06,360] z
+- [00:38:08,480 - 00:38:09,780] z with L sub z
+- [00:38:16,360 - 00:38:16,840] Okay,
+- [00:38:16,840 - 00:38:17,360] same,
+- [00:38:17,360 - 00:38:18,260] I erased,
+- [00:38:18,260 - 00:38:19,360] I kept erasing it,
+- [00:38:19,360 - 00:38:20,380] I shouldn't keep erasing it,
+- [00:38:20,380 - 00:38:20,760] but nevertheless
+- [00:38:20,760 - 00:38:22,340] z with L z
+- [00:38:23,220 - 00:38:26,700] L z has nothing that involves a z in it
+- [00:38:26,700 - 00:38:27,560] Or a p z
+- [00:38:28,419 - 00:38:29,880] It has x,
+- [00:38:29,880 - 00:38:30,080] y,
+- [00:38:30,080 - 00:38:30,800] px,
+- [00:38:30,800 - 00:38:31,000] py,
+- [00:38:31,000 - 00:38:35,380] but nothing that has a Poisson bracket with z itself
+- [00:38:35,380 - 00:38:37,180] So the answer is 0
+- [00:38:38,760 - 00:38:42,580] It is not an accident that
+- [00:38:42,580 - 00:38:46,400] you get the same expressions here
+- [00:38:49,520 - 00:38:52,420] Everything gets multiplied by epsilon,
+- [00:38:52,420 - 00:38:52,920] but
+- [00:38:56,320 - 00:39:01,340] But apart from the factor of epsilon,
+- [00:39:01,340 - 00:39:06,680] what we found is that taking the Poisson bracket of
+- [00:39:07,340 - 00:39:10,780] With respect to L x gives you the small
+- [00:39:10,780 - 00:39:14,220] change in a variable when you rotate a little bit
+- [00:39:15,440 - 00:39:17,320] Let's try it for the p's
+- [00:39:17,320 - 00:39:17,980] What happens,
+- [00:39:17,980 - 00:39:20,080] what are the changes in px,
+- [00:39:20,080 - 00:39:20,460] py,
+- [00:39:20,460 - 00:39:22,500] and pz when you rotate axes?
+- [00:39:23,240 - 00:39:24,380] Let's write them out here
+- [00:39:25,020 - 00:39:26,620] The change in px
+- [00:39:26,620 - 00:39:28,790] What happens to px when you
+- [00:39:28,790 - 00:39:30,960] rotate the axes a little bit?
+- [00:39:34,140 - 00:39:35,620] Exactly the same structure
+- [00:39:36,160 - 00:39:37,420] p is a vector
+- [00:39:37,420 - 00:39:38,780] p is a vector,
+- [00:39:38,780 - 00:39:39,940] and the components,
+- [00:39:39,940 - 00:39:43,200] this is just a way of talking about the way
+- [00:39:43,200 - 00:39:46,460] the components of a vector change when you rotate axes
+- [00:39:46,460 - 00:39:50,220] It doesn't matter whether it's the position vector,
+- [00:39:50,220 - 00:39:51,800] the velocity vector,
+- [00:39:51,800 - 00:39:52,480] the force vector,
+- [00:39:52,480 - 00:39:52,480] the momentum vector
+- [00:39:52,500 - 00:39:54,240] They all do the same thing
+- [00:39:54,240 - 00:39:57,460] And so the change in px is minus py
+- [00:39:57,460 - 00:40:01,660] And the change in py is equal to px
+- [00:40:01,660 - 00:40:04,920] And the change in pz is 0
+- [00:40:08,620 - 00:40:10,880] When you rotate coordinates
+- [00:40:10,880 - 00:40:12,300] Whatever the momentum is,
+- [00:40:12,300 - 00:40:13,940] when you rotate it,
+- [00:40:13,940 - 00:40:15,760] it changes the same exact
+- [00:40:15,760 - 00:40:17,580] way that any other vector does
+- [00:40:18,259 - 00:40:19,440] So let's work that out
+- [00:40:19,440 - 00:40:25,320] Let's calculate the Poisson bracket of px with lz
+- [00:40:26,100 - 00:40:28,520] Where does it get a contribution from?
+- [00:40:29,150 - 00:40:34,525] The only thing in lz that px
+- [00:40:34,525 - 00:40:39,900] has a Poisson bracket with is x
+- [00:40:41,190 - 00:40:42,220] Is x itself
+- [00:40:43,020 - 00:40:46,680] So it's Poisson bracket of p with lz
+- [00:40:49,440 - 00:40:49,920] For lz,
+- [00:40:49,920 - 00:40:52,080] it's only this term which contributes
+- [00:40:52,660 - 00:40:53,760] And what do you get?
+- [00:40:53,760 - 00:40:54,720] You get py
+- [00:40:56,200 - 00:40:56,840] Minus py,
+- [00:40:56,840 - 00:40:57,660] ah sorry
+- [00:40:58,860 - 00:40:59,540] Minus py
+- [00:41:01,020 - 00:41:01,500] Minus,
+- [00:41:01,500 - 00:41:01,980] yeah,
+- [00:41:01,980 - 00:41:03,220] minus py
+- [00:41:03,220 - 00:41:03,860] Here,
+- [00:41:03,860 - 00:41:04,760] let's go through it
+- [00:41:05,300 - 00:41:10,220] This is Poisson bracket of px with xpy
+- [00:41:11,960 - 00:41:12,440] Okay,
+- [00:41:12,440 - 00:41:13,740] the py we can take out
+- [00:41:14,340 - 00:41:15,080] Put it over here
+- [00:41:17,840 - 00:41:20,940] And the Poisson bracket of px with x is what?
+- [00:41:23,680 - 00:41:24,320] Minus 1
+- [00:41:24,320 - 00:41:26,800] Minus 1 because I've got these in the wrong order
+- [00:41:26,800 - 00:41:27,120] Well,
+- [00:41:27,120 - 00:41:27,780] not in the wrong order,
+- [00:41:27,780 - 00:41:28,240] but then
+- [00:41:28,900 - 00:41:29,140] So,
+- [00:41:29,140 - 00:41:29,960] yes
+- [00:41:32,240 - 00:41:32,880] Minus py
+- [00:41:35,880 - 00:41:38,260] Same structure as this one
+- [00:41:38,260 - 00:41:40,740] Except the vector now is p
+- [00:41:41,400 - 00:41:42,040] Minus py
+- [00:41:42,040 - 00:41:47,120] If I did the same with py lz
+- [00:41:47,120 - 00:41:50,760] I would in fact get plus px
+- [00:41:51,660 - 00:41:53,320] And how about the last one?
+- [00:41:54,879 - 00:41:56,900] Pz with lz
+- [00:41:58,680 - 00:42:01,000] The only thing that has a
+- [00:42:01,000 - 00:42:03,320] Poisson bracket with z is pz
+- [00:42:03,880 - 00:42:06,980] And pz doesn't appear in lz
+- [00:42:06,980 - 00:42:08,500] So that's equal to 0
+- [00:42:17,420 - 00:42:18,080] So,
+- [00:42:18,080 - 00:42:19,710] what we've found here is a
+- [00:42:19,710 - 00:42:21,340] special case of something very general
+- [00:42:22,040 - 00:42:24,900] It really is almost a definition
+- [00:42:28,340 - 00:42:29,000] But,
+- [00:42:29,000 - 00:42:32,120] in the Hamiltonian language it's a definition
+- [00:42:32,120 - 00:42:33,600] But we've already used
+- [00:42:33,600 - 00:42:35,080] You've already seen it
+- [00:42:35,790 - 00:42:39,380] The Poisson bracket of something with an angular momentum
+- [00:42:39,380 - 00:42:41,660] Is just a change
+- [00:42:41,660 - 00:42:43,720] The small change in that something
+- [00:42:44,259 - 00:42:45,560] When you make a rotation
+- [00:42:46,720 - 00:42:48,040] That's much more general
+- [00:42:48,040 - 00:42:48,940] Now remember,
+- [00:42:48,940 - 00:42:50,800] let's go back to the Hamiltonian
+- [00:42:51,640 - 00:42:52,480] Where is it?
+- [00:42:52,800 - 00:42:53,480] Hamilton's equations
+- [00:42:53,480 - 00:42:54,300] Alright,
+- [00:42:54,300 - 00:42:55,100] we've erased Hamilton
+- [00:42:55,100 - 00:42:55,740] Here it is
+- [00:42:55,740 - 00:42:56,840] Here's the Hamilton's equations
+- [00:42:57,500 - 00:43:00,380] Taking the Poisson bracket of something with h
+- [00:43:01,160 - 00:43:03,400] Gives you the small change in that something
+- [00:43:04,140 - 00:43:05,980] When you change time a little bit
+- [00:43:07,020 - 00:43:08,660] Remember what the Hamiltonian was
+- [00:43:08,660 - 00:43:09,360] It was the constant of time
+- [00:43:09,380 - 00:43:10,100] It was a conserved quantity
+- [00:43:10,100 - 00:43:15,140] That was conserved by virtue of time translation invariance
+- [00:43:15,140 - 00:43:15,620] In other words,
+- [00:43:15,620 - 00:43:17,080] shifting time a little bit
+- [00:43:18,420 - 00:43:21,020] We'll find exactly the same kind of equation here
+- [00:43:21,020 - 00:43:22,900] That taking a Poisson bracket
+- [00:43:22,900 - 00:43:24,780] of something with the angular momentum
+- [00:43:25,360 - 00:43:26,960] Gives you the change in the something
+- [00:43:26,960 - 00:43:29,000] When you do a small rotation
+- [00:43:29,940 - 00:43:32,420] Taking the Poisson bracket with the Hamiltonian
+- [00:43:32,420 - 00:43:33,840] Gives you something proportional to
+- [00:43:33,840 - 00:43:35,260] the change in that something
+- [00:43:35,260 - 00:43:37,600] When you shift the time a little bit
+- [00:43:37,600 - 00:43:39,520] Let's do another case
+- [00:43:40,919 - 00:43:46,260] Let's do another case
+- [00:43:46,260 - 00:43:47,860] You see the pattern
+- [00:43:48,279 - 00:43:49,760] What Poisson brackets do
+- [00:43:49,760 - 00:43:53,960] Is they generate by means of Poissonating with them
+- [00:43:55,319 - 00:43:57,040] With a variable
+- [00:43:57,240 - 00:43:58,840] They give you the small change
+- [00:43:59,600 - 00:44:01,540] Under certain symmetry operations
+- [00:44:02,420 - 00:44:03,480] Let's try it out
+- [00:44:04,439 - 00:44:06,460] For another context
+- [00:44:06,460 - 00:44:07,200] Let's see
+- [00:44:07,200 - 00:44:08,340] Where do I want to go?
+- [00:44:08,440 - 00:44:10,020] I always run out of blackboards
+- [00:44:10,020 - 00:44:10,420] Alright,
+- [00:44:10,420 - 00:44:11,980] we'll use the top blackboard
+- [00:44:12,819 - 00:44:13,180] Um
+- [00:44:14,640 - 00:44:15,160] I don't
+- [00:44:45,160 - 00:44:45,760] I don't know
+- [00:44:45,760 - 00:44:47,540] So it sounds like maybe
+- [00:44:47,540 - 00:44:49,320] we ought to try commuting things
+- [00:44:49,320 - 00:44:51,780] Or commuting Poissonating them with momentum
+- [00:44:51,780 - 00:44:53,240] And see what we get
+- [00:44:53,240 - 00:44:56,000] Do we get the small change in quantities
+- [00:44:56,000 - 00:44:57,460] When you shift?
+- [00:44:57,660 - 00:44:58,220] Alright
+- [00:44:58,220 - 00:45:00,880] So what is the shift we're talking about?
+- [00:45:01,020 - 00:45:01,860] In this case,
+- [00:45:01,860 - 00:45:03,270] let's work with P and
+- [00:45:03,270 - 00:45:04,680] Q rather than P and X
+- [00:45:05,320 - 00:45:05,880] Alright
+- [00:45:05,880 - 00:45:09,140] A small translation or a translation is just Q
+- [00:45:09,720 - 00:45:10,640] Delta Q
+- [00:45:11,160 - 00:45:12,600] Is just equal to epsilon
+- [00:45:13,380 - 00:45:15,140] No function in front of us is equal to Q
+- [00:45:15,160 - 00:45:17,660] So if you shift Q a little bit
+- [00:45:17,660 - 00:45:19,000] In the direction
+- [00:45:19,000 - 00:45:21,060] Whatever direction you're talking about
+- [00:45:21,060 - 00:45:22,240] Whatever direction we're talking about
+- [00:45:22,240 - 00:45:24,060] Only one variable for simplicity
+- [00:45:24,960 - 00:45:26,180] Delta Q is epsilon
+- [00:45:26,180 - 00:45:27,460] In other words
+- [00:45:28,160 - 00:45:29,340] F is equal to one
+- [00:45:30,960 - 00:45:32,400] If F is equal to one,
+- [00:45:32,400 - 00:45:33,520] what's the conserved quantity?
+- [00:45:34,160 - 00:45:36,600] It's P times delta Q
+- [00:45:37,200 - 00:45:38,660] Or P times F
+- [00:45:38,660 - 00:45:39,460] And that's just P
+- [00:45:39,899 - 00:45:40,180] Alright
+- [00:45:40,180 - 00:45:41,960] So the conserved quantity
+- [00:45:42,600 - 00:45:44,800] Conserved by virtue of translation invariance
+- [00:45:45,160 - 00:45:46,500] Of the single particle is just the momentum
+- [00:45:47,680 - 00:45:48,900] Let's take the momentum
+- [00:45:48,900 - 00:45:55,500] Let's take the Poisson bracket
+- [00:45:56,460 - 00:46:01,420] Of any function of Q
+- [00:46:01,420 - 00:46:04,100] Any function of Q
+- [00:46:06,360 - 00:46:07,200] With P
+- [00:46:10,839 - 00:46:12,220] Well before I do that
+- [00:46:12,220 - 00:46:13,340] I will ask you
+- [00:46:13,340 - 00:46:15,960] What's the small change in F of Q
+- [00:46:15,960 - 00:46:17,640] If you shift Q a little bit?
+- [00:46:21,700 - 00:46:23,700] What's the small change in F of Q
+- [00:46:24,340 - 00:46:25,440] If you shift Q?
+- [00:46:28,140 - 00:46:30,260] It's the derivative of F with respect to Q
+- [00:46:30,960 - 00:46:31,440] Right
+- [00:46:31,440 - 00:46:33,800] The derivative of F with respect to Q
+- [00:46:33,800 - 00:46:35,540] If I make a small change in Q
+- [00:46:37,820 - 00:46:39,420] Then the change in F
+- [00:46:40,580 - 00:46:43,320] Is epsilon times delta Q
+- [00:46:43,320 - 00:46:43,680] So that's the small change in F of Q
+- [00:46:43,680 - 00:46:44,380] Is the derivative of F by dQ
+- [00:46:44,380 - 00:46:50,960] So now I have a question
+- [00:46:51,640 - 00:46:53,780] When you take the Poisson bracket
+- [00:46:54,100 - 00:46:56,200] Of F of Q with P
+- [00:46:56,200 - 00:46:58,880] Do you get the F by dQ?
+- [00:46:58,960 - 00:47:01,800] That's the suggestion that's hanging in the air now
+- [00:47:02,320 - 00:47:05,920] If Poissonating with respect to an L
+- [00:47:05,920 - 00:47:07,940] Gives you the small change when you rotate
+- [00:47:07,940 - 00:47:10,880] And Poissonating with respect to H
+- [00:47:10,880 - 00:47:12,410] Gives you the small change when
+- [00:47:12,410 - 00:47:13,940] you shift time a little bit
+- [00:47:14,740 - 00:47:16,900] Does Poissonating with respect to P
+- [00:47:16,900 - 00:47:19,940] Give you the small change in a general thing
+- [00:47:19,940 - 00:47:21,060] Let's be more general now
+- [00:47:21,060 - 00:47:23,540] And take an arbitrary function of Q
+- [00:47:23,540 - 00:47:25,660] And ask how it changes
+- [00:47:25,660 - 00:47:27,460] Or what you get when you
+- [00:47:28,960 - 00:47:31,020] Take a Poisson bracket with respect to P
+- [00:47:31,020 - 00:47:31,780] How do we do this?
+- [00:47:31,820 - 00:47:32,600] How are we going to do this?
+- [00:47:34,200 - 00:47:35,960] I haven't told you any rule
+- [00:47:37,360 - 00:47:39,760] For taking an arbitrary function of Q
+- [00:47:39,760 - 00:47:42,500] But let's take a specific function of Q
+- [00:47:43,560 - 00:47:45,580] Let's take Q to the n
+- [00:47:48,260 - 00:47:49,740] Let's take for F of Q
+- [00:47:49,740 - 00:47:51,320] Q to a power n
+- [00:47:51,320 - 00:47:52,880] An integer power n
+- [00:47:53,640 - 00:47:55,040] And let's try this first
+- [00:47:55,040 - 00:47:56,480] The question is,
+- [00:47:56,480 - 00:47:57,800] is this or is this not
+- [00:47:57,800 - 00:48:01,060] The derivative of F with respect to Q?
+- [00:48:04,500 - 00:48:05,760] Question mark means
+- [00:48:06,360 - 00:48:07,340] Doesn't mean equals,
+- [00:48:07,340 - 00:48:08,220] it means is it
+- [00:48:08,220 - 00:48:08,320] Is it?
+- [00:48:09,760 - 00:48:10,180] Alright,
+- [00:48:10,180 - 00:48:11,200] Q to the n with P
+- [00:48:11,779 - 00:48:13,080] Poisson bracket of that
+- [00:48:15,060 - 00:48:15,500] Well,
+- [00:48:15,500 - 00:48:16,360] Q to the n
+- [00:48:16,360 - 00:48:19,480] Is Q times Q times Q times Q
+- [00:48:19,480 - 00:48:20,160] N times
+- [00:48:24,400 - 00:48:25,200] Dot dot dot,
+- [00:48:25,200 - 00:48:25,800] n times
+- [00:48:27,000 - 00:48:28,300] How do we calculate this?
+- [00:48:28,380 - 00:48:29,260] We use the product rule
+- [00:48:31,259 - 00:48:32,920] It's going to be a Q on the outside
+- [00:48:33,759 - 00:48:34,200] Times
+- [00:48:38,940 - 00:48:40,320] It's a Q on the outside
+- [00:48:41,720 - 00:48:46,180] Times Poisson bracket of Q to the n minus 1
+- [00:48:47,480 - 00:48:48,300] Times P
+- [00:48:53,480 - 00:48:55,320] Can you see what the pattern is?
+- [00:48:55,380 - 00:48:56,260] How do you prove this thing?
+- [00:48:56,380 - 00:48:57,240] How do you prove this thing?
+- [00:48:57,600 - 00:49:00,200] You prove it by induction
+- [00:49:00,200 - 00:49:01,900] By mathematical induction
+- [00:49:02,540 - 00:49:03,840] Let us suppose
+- [00:49:06,540 - 00:49:08,580] That this is
+- [00:49:09,339 - 00:49:09,740] That this is
+- [00:49:09,740 - 00:49:13,500] Let us suppose
+- [00:49:13,500 - 00:49:14,000] Do I have that right?
+- [00:49:14,080 - 00:49:14,840] I think I have it right
+- [00:49:16,560 - 00:49:16,960] Yeah,
+- [00:49:16,960 - 00:49:18,700] we'll do it for
+- [00:49:18,700 - 00:49:19,320] No,
+- [00:49:19,320 - 00:49:21,520] I just wanted to check what I'm doing
+- [00:49:21,520 - 00:49:24,300] Q with Q to the n minus 1
+- [00:49:24,300 - 00:49:25,820] That's Q to the n minus 1
+- [00:49:26,700 - 00:49:27,500] Times P
+- [00:49:29,460 - 00:49:29,860] Okay,
+- [00:49:29,860 - 00:49:30,220] so
+- [00:49:30,220 - 00:49:30,580] Okay,
+- [00:49:30,580 - 00:49:30,980] so
+- [00:49:30,980 - 00:49:31,300] Okay,
+- [00:49:31,300 - 00:49:31,300] so
+- [00:49:31,300 - 00:49:31,980] Okay,
+- [00:49:31,980 - 00:49:32,140] so
+- [00:49:34,200 - 00:49:34,320] Oh,
+- [00:49:34,320 - 00:49:34,480] oh,
+- [00:49:34,480 - 00:49:35,060] I know what I'm doing
+- [00:49:35,060 - 00:49:35,480] Yeah,
+- [00:49:35,480 - 00:49:37,500] plus
+- [00:49:38,360 - 00:49:38,860] Plus
+- [00:49:39,720 - 00:49:41,360] Q to the n minus 1
+- [00:49:42,260 - 00:49:44,000] Poisson bracket of Q with P
+- [00:49:44,000 - 00:49:44,840] Poisson bracket of Q with P
+- [00:49:44,840 - 00:49:46,780] I have to write the full product rule
+- [00:49:46,780 - 00:49:48,100] The product rule
+- [00:49:48,100 - 00:49:50,200] The product rule
+- [00:49:50,200 - 00:49:51,260] Involves two terms
+- [00:49:52,040 - 00:49:52,540] Okay,
+- [00:49:52,540 - 00:49:53,360] so what is this?
+- [00:49:54,340 - 00:49:55,500] Let us assume
+- [00:49:55,500 - 00:49:57,180] When we prove something by induction
+- [00:49:57,180 - 00:50:00,040] We assume it for n minus 1
+- [00:50:00,040 - 00:50:02,040] And we see if we get it for
+- [00:50:02,580 - 00:50:03,420] For n
+- [00:50:04,540 - 00:50:06,860] So what's this Poisson bracket?
+- [00:50:07,060 - 00:50:07,560] By assumption
+- [00:50:07,560 - 00:50:09,480] By assumption it is
+- [00:50:09,979 - 00:50:12,720] N minus 1 times Q to the n minus 2
+- [00:50:12,720 - 00:50:14,280] N minus 1 times Q to the n minus 2
+- [00:50:14,280 - 00:50:14,420] By assumption
+- [00:50:15,600 - 00:50:18,100] That's the induction hypothesis
+- [00:50:18,860 - 00:50:20,260] That it's n minus 1
+- [00:50:20,260 - 00:50:21,840] Q to the n minus 2
+- [00:50:21,840 - 00:50:24,180] But then I multiply by another Q
+- [00:50:24,180 - 00:50:25,420] But then I multiply by another Q
+- [00:50:25,420 - 00:50:27,400] And so that gives me n minus 1
+- [00:50:29,520 - 00:50:31,580] Times Q to the n minus 1
+- [00:50:31,580 - 00:50:32,600] Times Q to the n minus 1
+- [00:50:32,600 - 00:50:33,540] Did I get that right?
+- [00:50:34,200 - 00:50:35,060] Q squared
+- [00:50:35,060 - 00:50:37,180] N minus 2
+- [00:50:39,440 - 00:50:40,860] Just from this term
+- [00:50:40,860 - 00:50:42,500] Just from this term
+- [00:50:42,500 - 00:50:44,280] The hypothesis is that
+- [00:50:44,280 - 00:50:45,540] This Poisson bracket
+- [00:50:46,220 - 00:50:49,180] Is the derivative of Q to the n minus 1
+- [00:50:49,180 - 00:50:49,340] Is the derivative of Q to the n minus 1
+- [00:50:49,340 - 00:50:50,020] With respect to Q
+- [00:50:50,020 - 00:50:51,280] And that is
+- [00:50:53,960 - 00:50:55,380] N minus 1
+- [00:50:55,380 - 00:50:57,920] Times Q to the n minus 2
+- [00:50:57,920 - 00:51:00,420] And then we multiply it by another Q
+- [00:51:00,420 - 00:51:01,880] And that gives us
+- [00:51:01,880 - 00:51:03,030] N minus 1 to the
+- [00:51:03,030 - 00:51:04,180] Q to the n minus 1
+- [00:51:04,860 - 00:51:05,860] But how about
+- [00:51:05,860 - 00:51:06,800] This one over here
+- [00:51:06,800 - 00:51:07,540] What's Q with P?
+- [00:51:09,860 - 00:51:10,500] That's 1
+- [00:51:11,660 - 00:51:13,700] So we just add one more
+- [00:51:13,700 - 00:51:15,000] Q to the n minus 1
+- [00:51:15,740 - 00:51:17,300] This just adds one more
+- [00:51:17,300 - 00:51:19,060] Q to the n minus 1
+- [00:51:19,060 - 00:51:20,060] And we get
+- [00:51:20,060 - 00:51:22,220] N times Q to the n minus 1
+- [00:51:23,400 - 00:51:25,440] This is the derivative of
+- [00:51:25,440 - 00:51:27,220] Q to the n with respect to Q
+- [00:51:28,920 - 00:51:30,300] What do you have to do
+- [00:51:30,300 - 00:51:31,340] To complete the induction
+- [00:51:32,020 - 00:51:32,500] Theorem,
+- [00:51:32,500 - 00:51:33,720] the induction proof
+- [00:51:36,500 - 00:51:38,160] You have to check it for n equals 1
+- [00:51:38,160 - 00:51:39,880] If it's true for n equals 1
+- [00:51:39,880 - 00:51:41,680] And it follows for
+- [00:51:41,680 - 00:51:42,980] N from n minus 1
+- [00:51:42,980 - 00:51:44,400] Then you've proved it
+- [00:51:44,400 - 00:51:45,260] So is it true for
+- [00:51:45,260 - 00:51:48,700] N equals 1
+- [00:51:49,660 - 00:51:50,760] For that case
+- [00:51:55,319 - 00:51:56,700] The derivative of Q
+- [00:51:56,700 - 00:51:57,800] With respect to Q
+- [00:51:57,800 - 00:51:58,360] Is just 1
+- [00:51:59,340 - 00:52:01,600] So it's true for n equals 1
+- [00:52:03,740 - 00:52:04,180] But
+- [00:52:04,200 - 00:52:04,820] So we've just
+- [00:52:04,820 - 00:52:07,880] We've discovered that for functions of the form
+- [00:52:09,980 - 00:52:11,380] Q to the n
+- [00:52:12,280 - 00:52:13,900] That the Poisson bracket
+- [00:52:14,920 - 00:52:16,160] Of F
+- [00:52:16,160 - 00:52:17,860] With P
+- [00:52:17,860 - 00:52:19,760] Is equal to
+- [00:52:19,760 - 00:52:21,100] DF by DQ
+- [00:52:22,920 - 00:52:24,080] Now what about
+- [00:52:24,080 - 00:52:25,480] For sums of
+- [00:52:26,200 - 00:52:27,080] Two things
+- [00:52:27,080 - 00:52:28,480] Q to the n
+- [00:52:28,480 - 00:52:30,220] And you know a power series
+- [00:52:30,220 - 00:52:33,600] A series of terms with different powers
+- [00:52:34,200 - 00:52:34,680] And different coefficients
+- [00:52:35,520 - 00:52:37,220] Well for that we use
+- [00:52:37,220 - 00:52:39,000] The rules of Poisson brackets
+- [00:52:39,000 - 00:52:40,640] Which allow you to add things
+- [00:52:40,640 - 00:52:42,280] And multiply them by constants
+- [00:52:42,280 - 00:52:43,040] And so forth
+- [00:52:43,040 - 00:52:44,700] And those basic rules of Poisson brackets
+- [00:52:44,700 - 00:52:46,800] Will allow you to take
+- [00:52:46,800 - 00:52:50,000] Sums of different powers of Q
+- [00:52:50,000 - 00:52:53,740] Times coefficients
+- [00:52:54,480 - 00:52:55,840] And that way you can get
+- [00:52:55,840 - 00:52:56,740] Basically any function
+- [00:52:56,740 - 00:52:58,260] You can approximate any function
+- [00:52:58,260 - 00:53:01,060] With a arbitrary polynomial
+- [00:53:03,000 - 00:53:03,600] And
+- [00:53:04,320 - 00:53:06,760] So it also follows
+- [00:53:06,760 - 00:53:08,160] For an arbitrary function
+- [00:53:08,160 - 00:53:09,960] Just by adding them together
+- [00:53:11,200 - 00:53:12,600] That's the basic theorem
+- [00:53:12,600 - 00:53:14,440] About Poisson brackets
+- [00:53:14,440 - 00:53:16,280] But what does it say
+- [00:53:16,280 - 00:53:17,980] It says that when you
+- [00:53:17,980 - 00:53:20,040] Poissonate something with the momentum
+- [00:53:20,040 - 00:53:22,520] It gives you the small change
+- [00:53:22,520 - 00:53:23,180] In that something
+- [00:53:23,859 - 00:53:26,100] When you translate Q
+- [00:53:27,800 - 00:53:29,040] So in fact
+- [00:53:30,140 - 00:53:31,380] We have
+- [00:53:31,380 - 00:53:33,120] At least three examples
+- [00:53:33,120 - 00:53:34,180] Of the Poisson
+- [00:53:34,200 - 00:53:36,240] Of conservation laws
+- [00:53:36,240 - 00:53:37,720] Being connected to Poisson brackets
+- [00:53:38,919 - 00:53:40,580] Well conservation laws
+- [00:53:40,580 - 00:53:41,620] Sorry not conservation
+- [00:53:42,020 - 00:53:42,400] Symmetries
+- [00:53:42,400 - 00:53:45,920] The symmetry operation
+- [00:53:45,920 - 00:53:47,540] The symmetry operation
+- [00:53:48,100 - 00:53:49,200] Is defined
+- [00:53:49,200 - 00:53:50,540] Or is constructed
+- [00:53:50,540 - 00:53:51,640] Symmetry operation
+- [00:53:51,640 - 00:53:53,300] By taking the Poisson bracket
+- [00:53:53,300 - 00:53:56,240] With the quantity which is expected
+- [00:53:56,240 - 00:53:58,600] To be conserved by virtue of the symmetry
+- [00:53:58,600 - 00:53:59,560] Is that a mouthful
+- [00:54:00,379 - 00:54:02,680] For every symmetry we have
+- [00:54:04,740 - 00:54:06,060] We take that thing
+- [00:54:06,060 - 00:54:06,900] Which is conserved
+- [00:54:07,860 - 00:54:09,740] And we take its Poisson brackets
+- [00:54:09,740 - 00:54:11,500] With things and that gives us
+- [00:54:12,060 - 00:54:13,300] The small change
+- [00:54:13,300 - 00:54:14,520] Or in other words it tells us
+- [00:54:14,520 - 00:54:15,860] What the transformation is
+- [00:54:16,900 - 00:54:18,320] If I didn't know
+- [00:54:18,320 - 00:54:20,300] What the transformation was
+- [00:54:21,880 - 00:54:23,080] Associated with
+- [00:54:23,080 - 00:54:24,420] The angular momentum
+- [00:54:24,420 - 00:54:27,640] If I didn't know what the transformation was
+- [00:54:27,980 - 00:54:29,780] The symmetry that was associated
+- [00:54:29,780 - 00:54:30,660] With angular momentum
+- [00:54:30,660 - 00:54:33,480] All I have to do is take the Poisson bracket
+- [00:54:34,200 - 00:54:35,000] With angular momentum
+- [00:54:35,000 - 00:54:37,200] Of all the things in the theory
+- [00:54:37,200 - 00:54:39,740] And that will tell me what the small changes are
+- [00:54:41,000 - 00:54:41,980] That's the idea
+- [00:54:41,980 - 00:54:42,560] That
+- [00:54:48,700 - 00:54:49,720] That's the connection
+- [00:54:50,680 - 00:54:52,960] So far we haven't talked about conservation
+- [00:54:52,960 - 00:54:54,440] We've talked about symmetries
+- [00:54:54,440 - 00:54:56,300] And how they're generated
+- [00:54:56,300 - 00:54:57,340] The language is
+- [00:54:58,100 - 00:54:59,740] That L sub Z
+- [00:54:59,740 - 00:55:01,700] Is the generator of rotations
+- [00:55:01,700 - 00:55:03,260] About the Z axis
+- [00:55:04,200 - 00:55:06,100] It generates rotations about the Z axis
+- [00:55:06,100 - 00:55:07,740] Or infinitesimal ones
+- [00:55:07,740 - 00:55:10,080] By Poisson bracketing
+- [00:55:10,080 - 00:55:12,600] Same thing for all the things in the theory
+- [00:55:13,600 - 00:55:15,580] The generator of translations
+- [00:55:15,580 - 00:55:16,880] Is momentum
+- [00:55:16,880 - 00:55:19,520] The generator of time translations
+- [00:55:19,520 - 00:55:20,400] Is the Hamiltonian
+- [00:55:21,440 - 00:55:23,540] And to compute how something changes
+- [00:55:23,540 - 00:55:25,980] Under a small shift of whatever it is you're doing
+- [00:55:25,980 - 00:55:27,500] You take the Poisson bracket
+- [00:55:28,460 - 00:55:29,740] Okay now let's
+- [00:55:29,740 - 00:55:32,220] Before we study more
+- [00:55:33,540 - 00:55:34,180] Let's look at
+- [00:55:34,200 - 00:55:35,060] About angular momentum
+- [00:55:35,060 - 00:55:38,680] Alright we're going to come back to angular momentum
+- [00:55:38,680 - 00:55:39,240] In a minute
+- [00:55:39,240 - 00:55:41,440] But just one observation
+- [00:55:41,440 - 00:55:42,940] What is the connection
+- [00:55:43,560 - 00:55:44,160] Between
+- [00:55:46,620 - 00:55:47,220] Symmetries
+- [00:55:47,220 - 00:55:49,060] And conservation laws
+- [00:55:49,060 - 00:55:51,400] I've talked about connection between symmetries
+- [00:55:51,400 - 00:55:52,420] And Poisson brackets
+- [00:55:52,420 - 00:55:55,300] But now what's the connection with conservation laws
+- [00:55:55,300 - 00:55:58,240] Can we see that through the method of Poisson brackets
+- [00:56:01,800 - 00:56:03,900] Can I ask a question about
+- [00:56:05,500 - 00:56:07,660] So what I take away from this is
+- [00:56:08,200 - 00:56:09,620] That when you've got your
+- [00:56:09,620 - 00:56:11,520] I mean maybe this is what you just said
+- [00:56:11,520 - 00:56:12,840] When you have your conserved quantity
+- [00:56:12,840 - 00:56:14,960] And you've got your various
+- [00:56:14,960 - 00:56:17,800] So far we haven't discussed conservation laws
+- [00:56:17,800 - 00:56:19,120] In this Poisson bracket framework
+- [00:56:19,120 - 00:56:20,480] But you've got some conserved quantity
+- [00:56:20,480 - 00:56:22,860] Then from
+- [00:56:22,860 - 00:56:24,500] This computation
+- [00:56:24,500 - 00:56:27,380] You can determine what the motion is
+- [00:56:27,380 - 00:56:29,140] That provides for that conservation
+- [00:56:29,920 - 00:56:31,380] No you can provide
+- [00:56:31,380 - 00:56:33,000] You can say motion
+- [00:56:34,200 - 00:56:35,440] In the sense of real motion
+- [00:56:35,440 - 00:56:36,140] But
+- [00:56:36,140 - 00:56:39,460] No no no no
+- [00:56:42,420 - 00:56:43,900] You're finding what
+- [00:56:43,900 - 00:56:45,860] Symmetry operation corresponds
+- [00:56:45,860 - 00:56:47,960] That conservation law
+- [00:56:47,960 - 00:56:49,620] For example
+- [00:56:51,720 - 00:56:54,040] By using L sub z
+- [00:56:54,040 - 00:56:57,560] You find out that
+- [00:56:57,560 - 00:56:59,580] L sub z is conserved
+- [00:56:59,580 - 00:57:00,940] As a consequence
+- [00:57:01,820 - 00:57:03,800] Of invariance under
+- [00:57:04,200 - 00:57:04,540] Rotation
+- [00:57:04,540 - 00:57:07,700] That doesn't tell you that things move
+- [00:57:07,700 - 00:57:09,220] In a rotational spiral
+- [00:57:09,220 - 00:57:11,020] They move in straight lines for all you know
+- [00:57:11,020 - 00:57:12,060] Or some other way
+- [00:57:13,180 - 00:57:15,100] But what you're saying is
+- [00:57:15,100 - 00:57:17,580] If you take as a given
+- [00:57:17,580 - 00:57:18,580] Your L's
+- [00:57:18,580 - 00:57:20,180] And you don't even know
+- [00:57:20,180 - 00:57:22,500] How you have that
+- [00:57:22,500 - 00:57:25,300] Those are sort of
+- [00:57:25,300 - 00:57:27,400] Infinite equations of motion
+- [00:57:27,400 - 00:57:29,880] No they're not equations of motion
+- [00:57:30,680 - 00:57:31,460] They are
+- [00:57:32,200 - 00:57:33,320] Symmetry transformations
+- [00:57:35,140 - 00:57:36,460] The connection with
+- [00:57:37,560 - 00:57:38,420] Equations of motion
+- [00:57:38,420 - 00:57:40,680] Is if you use the Hamiltonian here
+- [00:57:41,420 - 00:57:41,900] Okay
+- [00:57:41,900 - 00:57:43,700] If you use the Hamiltonian
+- [00:57:43,700 - 00:57:44,640] It's equations of motion
+- [00:57:45,420 - 00:57:47,680] Otherwise it's just telling you some operation
+- [00:57:48,320 - 00:57:49,800] It's telling you there is some
+- [00:57:49,800 - 00:57:51,240] If L sub z is conserved
+- [00:57:51,240 - 00:57:53,000] You should have in the back of your mind
+- [00:57:53,000 - 00:57:55,220] Okay there must be some operation
+- [00:57:55,880 - 00:57:56,880] Which is a symmetry
+- [00:57:58,000 - 00:57:59,980] Let's find out what that operation is
+- [00:58:00,720 - 00:58:02,140] Here's what the symmetry is
+- [00:58:02,140 - 00:58:03,360] And you conclude
+- [00:58:04,480 - 00:58:06,180] That it's rotation symmetry
+- [00:58:07,300 - 00:58:09,140] That's not the same as saying
+- [00:58:09,140 - 00:58:10,540] You know what the Hamiltonian is
+- [00:58:10,540 - 00:58:11,920] Which is the thing which tells you
+- [00:58:11,920 - 00:58:12,640] How things move
+- [00:58:13,260 - 00:58:15,120] Okay now we come to the Hamiltonian
+- [00:58:19,560 - 00:58:20,660] Let's give a name
+- [00:58:20,660 - 00:58:22,460] To these various generators
+- [00:58:23,520 - 00:58:24,300] L z
+- [00:58:25,400 - 00:58:26,400] For rotation
+- [00:58:26,400 - 00:58:28,200] P for translation
+- [00:58:28,860 - 00:58:30,420] H for time translation
+- [00:58:30,420 - 00:58:31,540] Let's call them generators
+- [00:58:31,540 - 00:58:33,040] And call them g
+- [00:58:33,660 - 00:58:34,180] All of them are generators
+- [00:58:34,200 - 00:58:35,440] All of them are g
+- [00:58:35,440 - 00:58:36,400] g for generators
+- [00:58:36,400 - 00:58:38,800] They are functions of p's and q's
+- [00:58:38,800 - 00:58:40,130] Everything in phase space is
+- [00:58:40,130 - 00:58:41,460] a function of p and q
+- [00:58:42,340 - 00:58:42,900] Alright
+- [00:58:42,900 - 00:58:46,200] g generates some symmetry
+- [00:58:49,640 - 00:58:51,800] Let's start with g being conserved
+- [00:58:51,800 - 00:58:54,540] What does it say that g is conserved
+- [00:58:55,680 - 00:58:56,240] Well
+- [00:58:56,240 - 00:58:58,820] It says that the time derivative is zero
+- [00:58:58,820 - 00:59:00,900] And the time derivative of it
+- [00:59:00,900 - 00:59:03,320] Is the Poisson bracket of g with h
+- [00:59:03,320 - 00:59:04,180] So if you have a time derivative
+- [00:59:06,660 - 00:59:08,940] The Poisson bracket with anything with h
+- [00:59:08,940 - 00:59:10,160] Is the time derivative of it
+- [00:59:10,160 - 00:59:12,220] So if g is conserved
+- [00:59:12,220 - 00:59:15,020] It says the Poisson bracket of g with h
+- [00:59:15,020 - 00:59:15,780] Is equal to zero
+- [00:59:15,780 - 00:59:18,100] That's one way to read this equation
+- [00:59:18,100 - 00:59:20,580] It says that g is conserved
+- [00:59:22,140 - 00:59:24,160] But let's turn the equation around
+- [00:59:25,040 - 00:59:26,120] Let's turn it around
+- [00:59:26,120 - 00:59:27,120] And have it write
+- [00:59:27,120 - 00:59:29,480] That h Poisson bracket with g
+- [00:59:29,480 - 00:59:30,320] Is equal to zero
+- [00:59:32,180 - 00:59:33,040] Same equation
+- [00:59:33,040 - 00:59:34,160] Except for a minus sign
+- [00:59:34,180 - 00:59:36,600] But zero doesn't care about a minus sign
+- [00:59:36,600 - 00:59:38,960] And what does this equation say
+- [00:59:38,960 - 00:59:40,760] This equation says
+- [00:59:41,460 - 00:59:43,820] That when you do the small transformation
+- [00:59:43,820 - 00:59:45,060] Associated with g
+- [00:59:45,060 - 00:59:46,760] h doesn't change
+- [00:59:46,760 - 00:59:48,960] The top equation said
+- [00:59:48,960 - 00:59:50,240] That g didn't change
+- [00:59:50,960 - 00:59:52,540] As the system evolves
+- [00:59:53,720 - 00:59:55,500] The bottom equation says
+- [00:59:55,500 - 00:59:57,100] That h doesn't change
+- [00:59:57,100 - 00:59:59,320] When you do a transformation
+- [01:00:00,600 - 01:00:01,800] In other words
+- [01:00:01,800 - 01:00:02,180] If
+- [01:00:02,900 - 01:00:03,120] If
+- [01:00:04,180 - 01:00:04,440] ,
+- [01:00:04,440 - 01:00:06,420] g was l sub z
+- [01:00:06,420 - 01:00:08,420] It says that h doesn't change
+- [01:00:08,420 - 01:00:09,740] When you rotate the system
+- [01:00:10,900 - 01:00:12,400] If g was
+- [01:00:14,780 - 01:00:15,380] Translation
+- [01:00:17,100 - 01:00:18,260] That would mean just
+- [01:00:18,260 - 01:00:18,920] P here
+- [01:00:20,260 - 01:00:21,840] The conservation of momentum
+- [01:00:21,840 - 01:00:24,540] Would also say that h doesn't change
+- [01:00:24,540 - 01:00:26,020] When you translate the system
+- [01:00:28,000 - 01:00:30,380] What does it mean to say that h doesn't change
+- [01:00:30,380 - 01:00:31,700] When you rotate a system
+- [01:00:31,700 - 01:00:33,020] Or you translate a system
+- [01:00:34,700 - 01:00:36,740] it says that the Hamiltonian,
+- [01:00:36,740 - 01:00:37,820] the structure of the Hamiltonian,
+- [01:00:37,820 - 01:00:39,360] or the value of the Hamiltonian,
+- [01:00:39,360 - 01:00:41,040] that every point in phase space
+- [01:00:41,040 - 01:00:42,720] doesn't change if you rotate it coordinates,
+- [01:00:42,720 - 01:00:44,320] that's saying there's a symmetry.
+- [01:00:44,880 - 01:00:46,120] So on the one hand,
+- [01:00:46,120 - 01:00:46,880] read this way,
+- [01:00:46,880 - 01:00:51,140] the same equation says that G is conserved,
+- [01:00:52,580 - 01:00:56,140] that same equation says that H doesn't change
+- [01:00:56,140 - 01:00:59,700] under an operation which is generated by G.
+- [01:01:00,820 - 01:01:02,020] For example,
+- [01:01:02,020 - 01:01:03,900] if G was the angular momentum,
+- [01:01:03,900 - 01:01:05,860] it would say that H doesn't
+- [01:01:05,860 - 01:01:07,820] change when you rotate the coordinate frame.
+- [01:01:09,620 - 01:01:12,260] In Hamiltonian or in Poisson bracket language,
+- [01:01:12,260 - 01:01:14,820] this is the expression,
+- [01:01:14,820 - 01:01:15,600] as I said,
+- [01:01:15,600 - 01:01:16,920] I'll just emphasize it once more,
+- [01:01:17,060 - 01:01:21,640] is the connection between conservation laws,
+- [01:01:21,640 - 01:01:22,860] this,
+- [01:01:22,860 - 01:01:24,160] and symmetries,
+- [01:01:24,160 - 01:01:24,680] this.
+- [01:01:25,120 - 01:01:27,620] So it's quite a beautiful packaging.
+- [01:01:32,200 - 01:01:35,660] Of that connection.
+- [01:01:42,640 - 01:01:43,220] Yes?
+- [01:01:44,200 - 01:01:48,420] Does this mean that if you know what's conserved,
+- [01:01:48,420 - 01:01:51,820] you can always figure out what the symmetry was?
+- [01:01:52,240 - 01:01:53,000] That's what it means.
+- [01:01:53,160 - 01:01:54,960] That's what it means.
+- [01:01:56,680 - 01:01:58,080] Just by taking...
+- [01:02:00,480 - 01:02:01,040] Yes?
+- [01:02:01,420 - 01:02:03,300] If you know something's conserved,
+- [01:02:03,300 - 01:02:03,680] G.
+- [01:02:05,000 - 01:02:07,480] And you want to figure out what the transformation is,
+- [01:02:07,480 - 01:02:12,040] just Poisson bracket everything in sight with G,
+- [01:02:12,240 - 01:02:13,840] and it will tell you how it transforms.
+- [01:02:14,220 - 01:02:15,580] That's exactly what it says.
+- [01:02:19,280 - 01:02:20,300] Any other questions?
+- [01:02:23,240 - 01:02:24,200] So you see this,
+- [01:02:24,200 - 01:02:28,640] it was not just a little game of defining something.
+- [01:02:29,700 - 01:02:30,560] So that Mr.
+- [01:02:30,560 - 01:02:34,920] Poisson could avoid writing down a complicated expression,
+- [01:02:34,920 - 01:02:36,960] the thing has real power.
+- [01:02:40,040 - 01:02:41,900] You've given us some examples of this.
+- [01:02:41,900 - 01:02:43,600] Is there a general way to
+- [01:02:43,600 - 01:02:45,300] write that statement that you just said?
+- [01:02:45,700 - 01:02:45,880] Yeah.
+- [01:02:46,220 - 01:02:46,740] Yeah.
+- [01:02:47,500 - 01:02:49,600] That's saying that they're conserved.
+- [01:02:49,600 - 01:02:51,420] I'm just saying...
+- [01:02:51,420 - 01:02:51,720] No,
+- [01:02:51,720 - 01:02:52,580] this is the conserved.
+- [01:02:52,580 - 01:02:53,660] The G is conserved.
+- [01:02:53,780 - 01:02:53,920] Okay.
+- [01:02:54,140 - 01:02:58,020] This says that the Hamiltonian doesn't change when you do...
+- [01:02:58,020 - 01:02:58,320] Okay.
+- [01:02:58,320 - 01:03:00,660] When you do a G transformation.
+- [01:03:00,980 - 01:03:01,460] Right.
+- [01:03:02,060 - 01:03:04,310] One says the fact that the
+- [01:03:04,310 - 01:03:06,560] Hamiltonian doesn't change says there's a symmetry.
+- [01:03:07,000 - 01:03:08,900] The fact that G doesn't change
+- [01:03:08,900 - 01:03:10,800] with time says there's a conservation law.
+- [01:03:11,020 - 01:03:12,820] This is the thing which is conserved,
+- [01:03:12,820 - 01:03:14,860] but it's also the thing which generates a symmetry.
+- [01:03:16,866 - 01:03:17,506] ありがとうございました
+- [01:03:19,874 - 01:03:28,474] I'm looking over there where you're basically
+- [01:03:28,474 - 01:03:33,114] taking a fossil and bribing it with the various pieces,
+- [01:03:33,254 - 01:03:34,854] and then you're getting the same thing you get above.
+- [01:03:35,354 - 01:03:37,354] And in that example,
+- [01:03:37,354 - 01:03:37,994] and I'm looking
+- [01:03:37,994 - 01:03:39,194] for the general statement of that,
+- [01:03:40,114 - 01:03:43,234] that thing doesn't seem to say anything about conservation.
+- [01:03:43,814 - 01:03:43,974] No,
+- [01:03:43,974 - 01:03:44,334] it doesn't.
+- [01:03:44,494 - 01:03:45,514] And that's what I'm asking.
+- [01:03:45,674 - 01:03:47,874] Without bringing in conservation,
+- [01:03:48,554 - 01:03:50,414] is there a general way to state that?
+- [01:03:50,554 - 01:03:50,694] Yeah,
+- [01:03:50,694 - 01:03:51,934] but at this level,
+- [01:03:51,934 - 01:03:53,294] it's really a bit of a definition.
+- [01:03:53,874 - 01:03:55,094] It's a bit of a definition.
+- [01:03:55,654 - 01:03:57,774] The definition is given a quantity,
+- [01:03:58,754 - 01:04:00,854] here is a transformation rule.
+- [01:04:01,974 - 01:04:03,554] This transformation rule here.
+- [01:04:05,694 - 01:04:07,554] And it doesn't say it's a symmetry.
+- [01:04:07,734 - 01:04:09,044] It just says that with
+- [01:04:09,044 - 01:04:10,354] every quantity that you can write
+- [01:04:10,354 - 01:04:10,594] down,
+- [01:04:10,594 - 01:04:11,154] every q,
+- [01:04:11,154 - 01:04:12,414] whatever it was called,
+- [01:04:12,414 - 01:04:15,094] or every g.
+- [01:04:15,434 - 01:04:15,894] Sorry,
+- [01:04:15,894 - 01:04:17,074] we're calling it g.
+- [01:04:17,874 - 01:04:19,474] For every g that we write down,
+- [01:04:19,474 - 01:04:21,074] we
+- [01:04:21,074 - 01:04:23,414] can define an infinitesimal transformation.
+- [01:04:23,874 - 01:04:25,074] That's all this says.
+- [01:04:25,954 - 01:04:27,154] That's all this says.
+- [01:04:30,133 - 01:04:32,514] If that g is conserved,
+- [01:04:32,514 - 01:04:33,854] it says this.
+- [01:04:36,254 - 01:04:38,314] But if we write that around the other way,
+- [01:04:38,854 - 01:04:40,614] it says that h doesn't change
+- [01:04:40,614 - 01:04:42,374] when we do a g transformation.
+- [01:04:43,354 - 01:04:45,814] So it relates conservation to symmetry.
+- [01:04:46,794 - 01:04:47,774] Same equation.
+- [01:04:50,014 - 01:04:50,474] OK.
+- [01:04:52,234 - 01:04:52,914] Of course,
+- [01:04:52,914 - 01:04:54,284] we could have done the
+- [01:04:54,284 - 01:04:55,654] same thing with ly and lx
+- [01:04:57,394 - 01:05:01,874] and discovered rotations about the other axes.
+- [01:05:04,714 - 01:05:05,174] Now,
+- [01:05:05,174 - 01:05:07,454] it's kind of interesting to
+- [01:05:07,454 - 01:05:09,734] ask what happens when you take
+- [01:05:09,734 - 01:05:13,054] Poisson brackets of components of the angular momentum
+- [01:05:13,054 - 01:05:15,314] with other components of the angular momentum.
+- [01:05:15,354 - 01:05:16,694] I don't know if you find it interesting,
+- [01:05:16,854 - 01:05:17,854] but I think you will find it interesting.
+- [01:05:17,874 - 01:05:20,774] By the time we're finished doing it and using it,
+- [01:05:21,513 - 01:05:25,983] we will see real power
+- [01:05:25,983 - 01:05:30,454] in solving problems by our power.
+- [01:05:30,834 - 01:05:31,294] What does it mean?
+- [01:05:31,394 - 01:05:33,104] It means that we find a nice
+- [01:05:33,104 - 01:05:34,814] way to do a problem where we don't
+- [01:05:34,814 - 01:05:39,834] have to go back to drag ourselves back
+- [01:05:39,834 - 01:05:41,834] through the definition of angular momentum,
+- [01:05:42,054 - 01:05:45,914] through the fact that the angular momentum is made up
+- [01:05:45,914 - 01:05:47,174] out of lots of little particles.
+- [01:05:47,874 - 01:05:51,674] But we just use some basic structures like this.
+- [01:05:52,474 - 01:05:52,814] OK.
+- [01:05:52,954 - 01:05:54,814] So let's ask now,
+- [01:05:54,814 - 01:05:57,754] what is the Poisson bracket
+- [01:05:57,754 - 01:06:00,474] of one component of the angular momentum with another?
+- [01:06:00,814 - 01:06:02,974] Let's just fill out a set of ideas,
+- [01:06:03,854 - 01:06:05,574] concentrate on angular momentum.
+- [01:06:05,994 - 01:06:07,274] We don't need this anymore.
+- [01:06:11,814 - 01:06:12,954] And in particular,
+- [01:06:12,954 - 01:06:17,514] let's start with Poisson bracket of lx.
+- [01:06:17,874 - 01:06:18,934] So we have x with lz.
+- [01:06:22,954 - 01:06:25,274] I can guess what the answer is going to be.
+- [01:06:25,474 - 01:06:25,834] Well,
+- [01:06:25,834 - 01:06:26,554] I won't guess.
+- [01:06:26,954 - 01:06:27,894] We'll write them out.
+- [01:06:27,974 - 01:06:30,974] We'll write out the whole bloody thing and compute it.
+- [01:06:31,054 - 01:06:32,894] And then I'll tell you what my guess would
+- [01:06:32,894 - 01:06:34,134] have been after we compute it.
+- [01:06:37,414 - 01:06:38,014] All right.
+- [01:06:38,034 - 01:06:40,474] So lx is ypz minus zpy.
+- [01:06:53,114 - 01:06:54,074] And lz,
+- [01:06:54,074 - 01:06:55,014] I believe,
+- [01:06:55,014 - 01:06:59,314] is xpy minus ypx.
+- [01:06:59,434 - 01:06:59,834] Is that right?
+- [01:07:00,274 - 01:07:00,454] Yes.
+- [01:07:04,974 - 01:07:05,454] OK.
+- [01:07:06,534 - 01:07:07,394] Now the question is,
+- [01:07:07,394 - 01:07:09,294] what can give us a non-zero answer?
+- [01:07:10,174 - 01:07:11,014] Let's begin.
+- [01:07:12,254 - 01:07:12,734] Well,
+- [01:07:12,734 - 01:07:13,874] let's take them one at a time.
+- [01:07:14,214 - 01:07:15,974] How about this with this?
+- [01:07:16,394 - 01:07:16,874] Yes.
+- [01:07:17,374 - 01:07:17,854] Yes.
+- [01:07:17,874 - 01:07:19,474] pz and x,
+- [01:07:19,474 - 01:07:20,514] nothing.
+- [01:07:21,614 - 01:07:23,194] But y with py,
+- [01:07:23,194 - 01:07:23,934] what is that?
+- [01:07:25,374 - 01:07:27,474] So what you're going to wind up getting,
+- [01:07:27,574 - 01:07:29,034] if you just use the rules,
+- [01:07:29,034 - 01:07:32,354] is y with py is 1.
+- [01:07:32,514 - 01:07:35,414] And the rest of the expression is pz times x.
+- [01:07:36,014 - 01:07:40,273] So we'll first of all get pz times x.
+- [01:07:41,974 - 01:07:44,894] That's coming from combining the y with the py here.
+- [01:07:44,954 - 01:07:45,814] How about this one here?
+- [01:07:46,014 - 01:07:46,214] The?
+- [01:07:47,334 - 01:07:47,854] The?
+- [01:07:47,874 - 01:07:47,934] Well,
+- [01:07:47,934 - 01:07:49,234] first let's go through them all together.
+- [01:07:50,294 - 01:07:51,954] ypz with ypx,
+- [01:07:51,954 - 01:07:52,894] does that give anything?
+- [01:07:55,554 - 01:07:55,994] y,
+- [01:07:55,994 - 01:07:57,194] you get nothing with y.
+- [01:07:57,394 - 01:07:57,694] y,
+- [01:07:57,694 - 01:07:58,914] you get nothing with px.
+- [01:07:59,494 - 01:08:00,254] And pz,
+- [01:08:00,254 - 01:08:02,434] nothing with y and px.
+- [01:08:02,574 - 01:08:02,834] Nothing.
+- [01:08:03,094 - 01:08:03,714] Nothing there.
+- [01:08:04,854 - 01:08:06,294] zpy with xpy,
+- [01:08:06,294 - 01:08:07,374] nothing.
+- [01:08:07,694 - 01:08:11,554] But the last term gives you plus.
+- [01:08:16,594 - 01:08:17,854] Here we have py.
+- [01:08:17,854 - 01:08:18,953] py with y.
+- [01:08:19,613 - 01:08:20,934] py with y.
+- [01:08:21,453 - 01:08:24,573] So that gives us z times px.
+- [01:08:27,294 - 01:08:28,913] And is it plus z times
+- [01:08:28,913 - 01:08:30,533] px or minus z times px?
+- [01:08:30,654 - 01:08:31,094] The last?
+- [01:08:32,134 - 01:08:33,014] It's minus.
+- [01:08:33,674 - 01:08:35,304] It's minus because when you
+- [01:08:35,304 - 01:08:36,934] take the Poisson bracket of py
+- [01:08:36,934 - 01:08:37,594] with y,
+- [01:08:37,594 - 01:08:39,234] you get one more minus sign.
+- [01:08:39,334 - 01:08:41,814] There's two minus signs here and then one more
+- [01:08:42,334 - 01:08:44,554] because py with y is minus 1.
+- [01:08:45,094 - 01:08:46,514] So altogether you get this.
+- [01:08:46,514 - 01:08:48,834] And what is that?
+- [01:08:48,993 - 01:08:49,354] Let's see.
+- [01:08:49,493 - 01:08:52,334] That's lx with lz.
+- [01:08:52,374 - 01:08:55,134] Is it plus or minus ly?
+- [01:08:55,634 - 01:08:56,334] Minus ly.
+- [01:09:03,174 - 01:09:05,834] So this is minus ly.
+- [01:09:07,104 - 01:09:07,374] Now,
+- [01:09:07,374 - 01:09:08,434] what would I have guessed?
+- [01:09:08,714 - 01:09:10,113] I would have guessed minus ly,
+- [01:09:10,113 - 01:09:11,714] but for entirely different
+- [01:09:11,714 - 01:09:12,154] reasons.
+- [01:09:13,474 - 01:09:14,674] l is a vector.
+- [01:09:15,493 - 01:09:16,493] Whenever you have a vector,
+- [01:09:16,493 - 01:09:16,493] you have a vector.
+- [01:09:16,493 - 01:09:18,634] Whenever you Poissonate anything,
+- [01:09:18,634 - 01:09:20,894] any component of a vector,
+- [01:09:20,894 - 01:09:21,154] x,
+- [01:09:21,154 - 01:09:21,474] y,
+- [01:09:21,474 - 01:09:21,734] or z,
+- [01:09:21,734 - 01:09:22,754] with lz,
+- [01:09:22,754 - 01:09:24,294] you get minus
+- [01:09:24,294 - 01:09:24,974] the y component.
+- [01:09:25,094 - 01:09:27,363] Whenever you take the x component of
+- [01:09:27,363 - 01:09:29,634] any vector and Poissonate it with lz,
+- [01:09:29,634 - 01:09:31,394] you get minus the
+- [01:09:31,394 - 01:09:32,493] corresponding component.
+- [01:09:33,594 - 01:09:34,514] Same rule.
+- [01:09:35,754 - 01:09:38,814] Lx with lz gives you minus ly.
+- [01:09:39,953 - 01:09:40,594] Okay.
+- [01:09:42,294 - 01:09:43,493] I'm going to,
+- [01:09:43,493 - 01:09:44,174] let's see.
+- [01:09:44,814 - 01:09:46,134] Ly with l.
+- [01:09:46,154 - 01:09:46,474] Yeah.
+- [01:09:50,054 - 01:09:54,474] We can find all the other ones by cycling,
+- [01:09:54,474 - 01:09:56,034] x to y to z.
+- [01:10:00,294 - 01:10:00,634] Okay.
+- [01:10:00,734 - 01:10:01,294] So we have,
+- [01:10:01,294 - 01:10:03,414] you know what I'm going to do first though?
+- [01:10:03,554 - 01:10:05,194] I'm going to change the order.
+- [01:10:05,274 - 01:10:06,394] I want to get rid of the minus sign.
+- [01:10:06,494 - 01:10:07,914] The reason I want to get rid of the
+- [01:10:07,914 - 01:10:09,334] minus sign is because I happen to remember it one
+- [01:10:09,334 - 01:10:09,654] way.
+- [01:10:10,754 - 01:10:11,914] Lz with lx.
+- [01:10:11,954 - 01:10:12,954] Let's change the sign.
+- [01:10:13,154 - 01:10:15,474] Lz with lx.
+- [01:10:15,694 - 01:10:16,474] And what will that do?
+- [01:10:16,474 - 01:10:18,694] That just takes the minus sign away.
+- [01:10:19,774 - 01:10:20,414] All right.
+- [01:10:20,434 - 01:10:20,994] The next one,
+- [01:10:20,994 - 01:10:22,594] z goes to x,
+- [01:10:22,594 - 01:10:25,114] x goes to y,
+- [01:10:25,114 - 01:10:28,154] and y goes to z.
+- [01:10:31,754 - 01:10:32,754] And lz,
+- [01:10:32,754 - 01:10:33,194] x,
+- [01:10:33,194 - 01:10:33,874] y,
+- [01:10:33,874 - 01:10:34,754] x,
+- [01:10:34,754 - 01:10:35,114] y,
+- [01:10:35,114 - 01:10:35,814] z,
+- [01:10:35,814 - 01:10:37,834] y,
+- [01:10:37,834 - 01:10:38,274] z,
+- [01:10:38,274 - 01:10:39,014] x.
+- [01:10:41,854 - 01:10:42,534] All right.
+- [01:10:42,554 - 01:10:44,254] I usually remember this in the form.
+- [01:10:44,854 - 01:10:46,374] I remember the first one.
+- [01:10:46,414 - 01:10:46,454] Okay.
+- [01:10:46,454 - 01:10:46,474] So I do the first one.
+- [01:10:46,494 - 01:10:47,094] Lx,
+- [01:10:47,094 - 01:10:48,434] ly is equal to lz,
+- [01:10:48,434 - 01:10:48,994] x,
+- [01:10:48,994 - 01:10:49,234] y,
+- [01:10:49,234 - 01:10:49,414] z,
+- [01:10:49,414 - 01:10:51,214] and then I cycle them through.
+- [01:10:51,634 - 01:10:52,154] Okay.
+- [01:10:52,294 - 01:10:55,494] These are the basic Poisson brackets
+- [01:10:55,494 - 01:10:58,694] between components of the angular momentum.
+- [01:10:59,574 - 01:11:02,134] For those who know a little bit about quantum mechanics,
+- [01:11:02,134 - 01:11:03,674] you'll recognize these equations
+- [01:11:04,314 - 01:11:07,344] as the classical Poisson bracket analog
+- [01:11:07,344 - 01:11:10,374] of the commutation relations of angular momentum.
+- [01:11:11,214 - 01:11:12,294] But that's,
+- [01:11:12,294 - 01:11:13,014] as I said,
+- [01:11:13,014 - 01:11:14,414] we're not doing quantum mechanics,
+- [01:11:14,414 - 01:11:15,454] but I'll just remind you.
+- [01:11:15,834 - 01:11:16,434] Okay.
+- [01:11:16,434 - 01:11:20,794] Just update this to be clear enough for us.
+- [01:11:22,474 - 01:11:23,934] All right.
+- [01:11:23,994 - 01:11:24,534] So if the order g is omega 1,
+- [01:11:24,534 - 01:11:29,994] omega u0c2 over r cancels the room and
+- [01:11:29,994 - 01:11:29,994] A tends to the room,
+- [01:11:29,994 - 01:11:29,994] it leads to r2,
+- [01:11:29,994 - 01:11:30,234] and then that away...
+- [01:11:30,234 - 01:11:32,014] So it starts with r2,
+- [01:11:32,014 - 01:11:32,754] but...
+- [01:11:32,754 - 01:11:33,094] Yeah.
+- [01:11:34,434 - 01:11:36,054] I'll do it instead of it.
+- [01:11:36,694 - 01:11:36,954] Okay.
+- [01:11:37,434 - 01:11:39,074] I have a less than one class on gradually increasing.
+- [01:11:39,074 - 01:11:39,494] Yeah.
+- [01:11:41,894 - 01:11:45,094] And then I will work out for you the rigid body
+- [01:11:45,094 - 01:11:48,294] equations of motion for a torque-free rigid body moving in space.
+- [01:11:50,614 - 01:11:52,413] I'm not going to study them in any detail.
+- [01:11:52,594 - 01:11:53,774] I just want to show
+- [01:11:53,774 - 01:11:54,954] you the power of Poisson brackets.
+- [01:12:03,413 - 01:12:04,094] All right,
+- [01:12:04,094 - 01:12:05,254] so we have a gyroscope.
+- [01:12:05,254 - 01:12:07,594] And a gyroscope now means a
+- [01:12:07,594 - 01:12:09,934] center where something is anchored to,
+- [01:12:09,934 - 01:12:11,774] an axle,
+- [01:12:11,774 - 01:12:13,094] and a wheel.
+- [01:12:14,914 - 01:12:22,014] And the thing about the gyroscope is the flywheel is rotating so fast that the
+- [01:12:22,014 - 01:12:29,114] only angular momentum that you have to worry about is the angular momentum about the axle.
+- [01:12:29,754 - 01:12:30,274] Now,
+- [01:12:30,274 - 01:12:31,974] the flywheel may move a little bit,
+- [01:12:31,974 - 01:12:33,314] in which case there would
+- [01:12:33,314 - 01:12:34,654] be other components of angular momentum.
+- [01:12:34,694 - 01:12:35,234] But we'll assume that it's not.
+- [01:12:35,254 - 01:12:37,094] We'll assume that they're much,
+- [01:12:37,094 - 01:12:41,574] much smaller than the angular momentum about the axle,
+- [01:12:41,574 - 01:12:43,514] about the direction of the axle.
+- [01:12:44,193 - 01:12:45,414] So the angular momentum,
+- [01:12:45,414 - 01:12:45,874] then,
+- [01:12:45,874 - 01:12:49,154] is along the radial direction.
+- [01:12:49,394 - 01:12:50,514] Here's the center of the wheel,
+- [01:12:50,514 - 01:12:53,414] of the flywheel.
+- [01:12:55,094 - 01:12:56,534] And the angular momentum,
+- [01:12:56,534 - 01:12:57,254] by assumption,
+- [01:12:57,254 - 01:12:58,994] is along that axis.
+- [01:12:59,954 - 01:13:00,594] Okay.
+- [01:13:02,454 - 01:13:05,234] What is the Hamiltonian of it?
+- [01:13:05,254 - 01:13:05,714] Well,
+- [01:13:05,714 - 01:13:08,424] it does have some energy by
+- [01:13:08,424 - 01:13:11,134] virtue of the rotation around that axis.
+- [01:13:11,334 - 01:13:12,474] And it's a large energy.
+- [01:13:13,094 - 01:13:14,274] It's a large energy.
+- [01:13:14,434 - 01:13:15,614] But I am going...
+- [01:13:15,614 - 01:13:16,694] All right,
+- [01:13:16,694 - 01:13:17,494] let's take it into account.
+- [01:13:17,674 - 01:13:18,434] We'll take it into account.
+- [01:13:18,974 - 01:13:20,374] What is it proportional to?
+- [01:13:20,414 - 01:13:22,194] It's proportional to the square of
+- [01:13:22,194 - 01:13:23,974] the angular momentum about that axis.
+- [01:13:24,214 - 01:13:24,534] In fact,
+- [01:13:24,534 - 01:13:25,934] it's proportional to the square
+- [01:13:25,934 - 01:13:27,334] of the total angular momentum,
+- [01:13:27,334 - 01:13:29,664] since we don't have to worry about
+- [01:13:29,664 - 01:13:31,994] any angular momentum except the contribution around there.
+- [01:13:33,914 - 01:13:34,394] Remember,
+- [01:13:34,394 - 01:13:34,814] this thing is going to
+- [01:13:34,814 - 01:13:35,234] be a little bit more complicated.
+- [01:13:35,254 - 01:13:35,554] It's going to rotate,
+- [01:13:35,554 - 01:13:37,274] or do whatever it does.
+- [01:13:37,394 - 01:13:38,474] I don't know whether it'll rotate this way.
+- [01:13:38,574 - 01:13:39,454] It's going to rotate somehow,
+- [01:13:39,454 - 01:13:41,254] or move somehow.
+- [01:13:41,934 - 01:13:43,654] But the magnitude of the
+- [01:13:43,654 - 01:13:45,374] angular momentum doesn't change much.
+- [01:13:45,534 - 01:13:46,834] So we'll assume that.
+- [01:13:46,954 - 01:13:49,234] The magnitude of the angular momentum doesn't change.
+- [01:13:50,074 - 01:13:52,034] It just changes direction.
+- [01:13:54,734 - 01:13:56,314] What is the energy?
+- [01:13:56,934 - 01:13:57,254] Well,
+- [01:13:57,254 - 01:13:57,854] first of all,
+- [01:13:57,854 - 01:13:58,734] there is a contribution,
+- [01:13:58,734 - 01:14:02,774] which is just the square of the angular momentum.
+- [01:14:03,174 - 01:14:04,154] Let's write that down.
+- [01:14:05,254 - 01:14:07,494] S squared plus Ly squared plus Lz squared.
+- [01:14:13,034 - 01:14:14,074] Just in other words,
+- [01:14:14,074 - 01:14:17,374] the total spin angular momentum of the wheel sums
+- [01:14:17,374 - 01:14:20,674] of the squares of the components of angular momentum.
+- [01:14:21,354 - 01:14:23,554] And it has some coefficient in front of it.
+- [01:14:23,634 - 01:14:24,894] What would you put for the coefficient?
+- [01:14:25,294 - 01:14:28,294] I would put the moment of inertia divided by 2.
+- [01:14:29,194 - 01:14:29,674] Number.
+- [01:14:31,174 - 01:14:32,394] I over 2.
+- [01:14:32,514 - 01:14:33,994] Everybody know what a moment of inertia is?
+- [01:14:35,254 - 01:14:35,574] I have it wrong,
+- [01:14:35,574 - 01:14:35,974] don't I?
+- [01:14:36,854 - 01:14:37,654] What do I have wrong?
+- [01:14:38,554 - 01:14:38,954] Yeah,
+- [01:14:38,954 - 01:14:39,934] it's 1 over I.
+- [01:14:43,014 - 01:14:44,394] Moment of inertia of the wheel.
+- [01:14:45,254 - 01:14:46,234] And if you don't know
+- [01:14:46,234 - 01:14:47,214] what a moment of inertia is,
+- [01:14:47,214 - 01:14:47,814] it's just a number.
+- [01:14:50,714 - 01:14:52,884] It's of course made up out of a
+- [01:14:52,884 - 01:14:55,054] mass and a distribution of masses and so forth.
+- [01:14:55,374 - 01:14:56,934] But it's just a number for everybody.
+- [01:14:57,494 - 01:14:58,894] Not for everybody in the room.
+- [01:14:58,974 - 01:14:59,454] For everybody.
+- [01:15:00,934 - 01:15:03,094] It's a number.
+- [01:15:04,514 - 01:15:05,234] So that's it.
+- [01:15:05,254 - 01:15:06,794] That's the energy just by virtue
+- [01:15:06,794 - 01:15:08,334] of the fact that it's rotating.
+- [01:15:09,474 - 01:15:11,174] Let's take that alone.
+- [01:15:11,654 - 01:15:13,134] I'm going to add another contribution.
+- [01:15:13,374 - 01:15:15,614] The other contribution is going to be the potential energy.
+- [01:15:15,874 - 01:15:17,344] Because we're going to assume the
+- [01:15:17,344 - 01:15:18,814] whole thing is in a gravitational field.
+- [01:15:19,574 - 01:15:21,614] But we'll take that into account in a moment.
+- [01:15:21,914 - 01:15:25,794] But let's ignore it to begin with.
+- [01:15:26,214 - 01:15:27,074] No gravity.
+- [01:15:27,234 - 01:15:28,394] It's just in free space.
+- [01:15:29,094 - 01:15:31,514] That means no torque on the...
+- [01:15:31,514 - 01:15:32,614] Nothing pulling it down.
+- [01:15:32,834 - 01:15:33,654] No torque.
+- [01:15:33,654 - 01:15:35,154] It's just spinning about that axis.
+- [01:15:37,274 - 01:15:38,774] I will tell you right now.
+- [01:15:38,874 - 01:15:40,894] The angular momentum is conserved.
+- [01:15:40,894 - 01:15:43,114] If there's no torque on this gyroscope,
+- [01:15:43,274 - 01:15:45,794] it just will continue to point in the same direction.
+- [01:15:45,914 - 01:15:46,734] But let's prove it.
+- [01:15:47,534 - 01:15:48,654] Let's see what happens.
+- [01:15:49,194 - 01:15:50,974] Let's calculate the time derivative
+- [01:15:51,593 - 01:15:52,974] of any component.
+- [01:15:53,354 - 01:15:54,614] I'll take the x component
+- [01:15:55,273 - 01:15:56,514] of angular momentum.
+- [01:15:56,754 - 01:15:58,014] And let's show that it's zero.
+- [01:15:59,314 - 01:15:59,754] Alright.
+- [01:15:59,934 - 01:16:01,034] Here's all we have to do.
+- [01:16:01,134 - 01:16:02,334] We take the Poisson bracket
+- [01:16:03,993 - 01:16:04,874] of Lx
+- [01:16:05,254 - 01:16:05,894] with
+- [01:16:06,833 - 01:16:08,134] 1 over 2i
+- [01:16:09,874 - 01:16:10,754] Lx squared
+- [01:16:10,754 - 01:16:12,354] plus Ly squared
+- [01:16:13,254 - 01:16:14,654] plus Lz squared.
+- [01:16:17,694 - 01:16:18,994] What's the Poisson bracket
+- [01:16:18,994 - 01:16:20,874] of Lx with Lx squared?
+- [01:16:21,454 - 01:16:23,614] Did I tell you among these rules
+- [01:16:23,614 - 01:16:25,114] is a rule
+- [01:16:25,114 - 01:16:26,974] that says the Poisson bracket of
+- [01:16:27,654 - 01:16:29,374] anything with itself is zero?
+- [01:16:29,554 - 01:16:30,174] That's obvious.
+- [01:16:30,594 - 01:16:31,774] Of course that's true.
+- [01:16:32,014 - 01:16:32,614] Yeah.
+- [01:16:32,614 - 01:16:35,114] Anything with itself is zero because it's anti-symmetric.
+- [01:16:35,254 - 01:16:35,714] Okay.
+- [01:16:37,174 - 01:16:37,694] Alright.
+- [01:16:37,694 - 01:16:38,794] What about the Poisson bracket
+- [01:16:38,794 - 01:16:40,334] of Lx with Lx squared?
+- [01:16:41,734 - 01:16:43,134] That's zero because
+- [01:16:43,134 - 01:16:44,434] it's going to have,
+- [01:16:44,434 - 01:16:44,834] you know,
+- [01:16:44,854 - 01:16:46,314] always you're going to be looking for
+- [01:16:46,314 - 01:16:48,274] an Lx with Lx and that's zero.
+- [01:16:48,754 - 01:16:49,274] So,
+- [01:16:49,274 - 01:16:50,314] first condition,
+- [01:16:50,594 - 01:16:51,874] you can throw this one away.
+- [01:16:54,434 - 01:16:54,954] Now,
+- [01:16:55,034 - 01:16:57,014] what about Lx with Ly squared?
+- [01:16:57,494 - 01:16:58,234] What does that give?
+- [01:17:04,634 - 01:17:05,154] Lx
+- [01:17:05,254 - 01:17:06,034] with Ly squared,
+- [01:17:06,034 - 01:17:07,234] you use the product rule.
+- [01:17:07,494 - 01:17:08,954] It's Ly times Ly.
+- [01:17:09,494 - 01:17:11,154] So it's twice Ly
+- [01:17:11,154 - 01:17:13,094] times the Poisson bracket of
+- [01:17:13,094 - 01:17:13,714] Lx with Ly.
+- [01:17:13,714 - 01:17:14,714] Twice Ly
+- [01:17:15,074 - 01:17:16,594] that gets rid of a 2 down here.
+- [01:17:18,714 - 01:17:19,274] Alright.
+- [01:17:19,454 - 01:17:20,994] And then Ly
+- [01:17:27,694 - 01:17:28,814] Ly times
+- [01:17:28,814 - 01:17:30,974] the Poisson bracket of Lx
+- [01:17:30,974 - 01:17:31,454] with Ly.
+- [01:17:33,054 - 01:17:34,234] That's equal to Lz.
+- [01:17:42,034 - 01:17:42,594] Alright.
+- [01:17:42,714 - 01:17:42,894] Alright.
+- [01:17:43,454 - 01:17:43,874] Alright.
+- [01:17:43,934 - 01:17:44,874] Lx with Ly
+- [01:17:44,874 - 01:17:46,134] gives an Lz,
+- [01:17:46,354 - 01:17:48,374] but there's an extra power of Ly
+- [01:17:49,054 - 01:17:50,014] on the outside,
+- [01:17:50,014 - 01:17:50,934] so it's Ly
+- [01:17:50,934 - 01:17:52,014] times Lz.
+- [01:17:52,934 - 01:17:54,454] What about Lx
+- [01:17:55,654 - 01:17:57,114] Can you read that?
+- [01:17:57,254 - 01:17:58,274] I'm going to rewrite it.
+- [01:17:59,114 - 01:18:00,154] 1 over I
+- [01:18:03,614 - 01:18:04,174] L
+- [01:18:04,174 - 01:18:04,414] L...
+- [01:18:04,414 - 01:18:05,954] I've forgotten what it was.
+- [01:18:07,874 - 01:18:08,314] L,
+- [01:18:08,314 - 01:18:08,574] Y,
+- [01:18:08,574 - 01:18:08,754] Lz.
+- [01:18:08,754 - 01:18:08,814] L,
+- [01:18:08,814 - 01:18:09,114] Y,
+- [01:18:09,114 - 01:18:09,434] Lz,
+- [01:18:09,434 - 01:18:09,654] right?
+- [01:18:13,594 - 01:18:16,014] But now we have to do Lx with Lz squared.
+- [01:18:17,414 - 01:18:17,974] But now we have to do Lx with Lz squared.
+- [01:18:17,994 - 01:18:18,574] For that,
+- [01:18:18,734 - 01:18:20,094] we're going to have an Lz again.
+- [01:18:20,854 - 01:18:21,894] And we're going to have
+- [01:18:21,894 - 01:18:24,494] the Poisson bracket of Lx with Lz,
+- [01:18:24,554 - 01:18:24,974] which is what?
+- [01:18:26,794 - 01:18:28,174] I hope it's minus Ly.
+- [01:18:30,314 - 01:18:31,794] I'm going to assume it's minus Ly.
+- [01:18:32,094 - 01:18:32,534] I'm going to assume it's minus Ly.
+- [01:18:33,994 - 01:18:35,354] And these cancel.
+- [01:18:35,634 - 01:18:38,054] And these cancel.
+- [01:18:38,794 - 01:18:40,334] So the time derivative
+- [01:18:40,334 - 01:18:41,234] of Lx
+- [01:18:42,213 - 01:18:43,294] is zero.
+- [01:18:43,534 - 01:18:46,354] A broader lesson is that
+- [01:18:46,354 - 01:18:48,554] L commutes
+- [01:18:48,554 - 01:18:49,434] commutes
+- [01:18:49,434 - 01:18:51,534] has zero Poisson bracket
+- [01:18:52,313 - 01:18:53,754] with the sums of the squares
+- [01:18:53,754 - 01:18:55,014] of the angular momentum.
+- [01:18:55,214 - 01:18:57,514] Lx squared plus Ly squared plus Lz squared
+- [01:18:59,833 - 01:19:01,274] gives nothing
+- [01:19:01,274 - 01:19:02,514] when you Poisson
+- [01:19:02,534 - 01:19:05,234] bracket with one of the components
+- [01:19:05,234 - 01:19:05,954] of angular momentum.
+- [01:19:06,654 - 01:19:08,614] And of course the same exact thing
+- [01:19:08,614 - 01:19:10,374] would be true for Ly and Lz.
+- [01:19:10,814 - 01:19:13,074] All of the components of angular momentum
+- [01:19:13,074 - 01:19:14,074] are conserved.
+- [01:19:15,394 - 01:19:15,914] Good.
+- [01:19:16,774 - 01:19:18,454] We knew that to begin with.
+- [01:19:18,494 - 01:19:20,414] All the components of angular momentum are conserved.
+- [01:19:20,554 - 01:19:21,794] But what happens now if
+- [01:19:21,794 - 01:19:23,034] we impose a torque on this?
+- [01:19:23,114 - 01:19:24,714] We impose a torque by pulling down
+- [01:19:24,714 - 01:19:26,634] with some force
+- [01:19:27,394 - 01:19:28,234] on here.
+- [01:19:31,354 - 01:19:32,514] Then there's some potential
+- [01:19:32,534 - 01:19:32,794] energy.
+- [01:19:33,354 - 01:19:34,834] And the potential energy
+- [01:19:34,834 - 01:19:36,154] let's forget torque,
+- [01:19:36,154 - 01:19:36,894] let's just think about
+- [01:19:37,494 - 01:19:38,094] Mg.
+- [01:19:38,294 - 01:19:39,634] Let's think of the flywheel,
+- [01:19:39,634 - 01:19:40,954] the center of the flywheel
+- [01:19:42,234 - 01:19:43,934] is at this point over here.
+- [01:19:44,114 - 01:19:46,334] The flywheel has mass M
+- [01:19:46,334 - 01:19:48,174] and it has a gravitational
+- [01:19:48,174 - 01:19:49,374] potential energy
+- [01:19:50,634 - 01:19:51,834] Mg times
+- [01:19:51,834 - 01:19:52,614] the height.
+- [01:19:53,874 - 01:19:56,214] The mass of the thing times
+- [01:19:57,054 - 01:19:58,714] acceleration due to gravity
+- [01:19:58,714 - 01:20:00,394] times the height.
+- [01:20:00,854 - 01:20:02,254] That's the potential energy
+- [01:20:02,534 - 01:20:03,154] due to gravity.
+- [01:20:03,394 - 01:20:05,294] And what is the height?
+- [01:20:05,654 - 01:20:07,974] The height of this is going to be
+- [01:20:08,454 - 01:20:08,734] proportional
+- [01:20:10,674 - 01:20:11,514] to the
+- [01:20:11,514 - 01:20:14,314] to the z component
+- [01:20:14,314 - 01:20:15,654] of the angular momentum.
+- [01:20:17,394 - 01:20:18,594] Why is it proportional
+- [01:20:18,594 - 01:20:20,434] to the z component of the angular momentum?
+- [01:20:20,934 - 01:20:22,634] It's proportional to the z component
+- [01:20:22,634 - 01:20:24,534] of the angular momentum because the angular
+- [01:20:24,534 - 01:20:25,394] momentum vector
+- [01:20:26,094 - 01:20:28,654] is along the same axis as the radial
+- [01:20:28,654 - 01:20:28,993] vector.
+- [01:20:29,674 - 01:20:32,074] As you change the direction here
+- [01:20:33,253 - 01:20:34,534] the angular momentum
+- [01:20:34,534 - 01:20:35,674] also changes
+- [01:20:35,674 - 01:20:38,394] and the height of this thing
+- [01:20:38,394 - 01:20:40,434] changes exactly the same way as
+- [01:20:40,434 - 01:20:42,334] the z component of the angular momentum
+- [01:20:42,334 - 01:20:42,794] changes.
+- [01:20:42,794 - 01:20:44,394] When it's down
+- [01:20:44,394 - 01:20:45,014] at the bottom
+- [01:20:45,793 - 01:20:48,213] the z component of angular momentum
+- [01:20:48,213 - 01:20:49,974] is maximum and negative.
+- [01:20:50,674 - 01:20:51,994] As it comes up
+- [01:20:51,994 - 01:20:54,374] the z component of the angular momentum goes to
+- [01:20:54,374 - 01:20:55,534] zero when it's horizontal
+- [01:20:56,893 - 01:20:58,454] and changes sign
+- [01:20:59,114 - 01:21:00,294] when it's above.
+- [01:21:00,294 - 01:21:02,314] So the potential energy
+- [01:21:02,314 - 01:21:04,474] is proportional to minus
+- [01:21:04,474 - 01:21:06,454] the z component of the angular momentum.
+- [01:21:07,114 - 01:21:08,834] Minus because the force is downward.
+- [01:21:10,034 - 01:21:11,314] So I don't
+- [01:21:11,314 - 01:21:12,294] there's some coefficient
+- [01:21:12,294 - 01:21:13,154] some number
+- [01:21:13,834 - 01:21:15,294] the potential energy
+- [01:21:15,294 - 01:21:16,354] let's just call it v
+- [01:21:17,354 - 01:21:20,474] is going to be proportional to minus
+- [01:21:20,474 - 01:21:22,214] some constant
+- [01:21:23,074 - 01:21:24,474] made up out of
+- [01:21:24,474 - 01:21:25,294] the mass and
+- [01:21:26,033 - 01:21:27,494] the little g
+- [01:21:27,494 - 01:21:29,634] and whatever else we have to worry about
+- [01:21:30,294 - 01:21:31,094] some constant
+- [01:21:31,094 - 01:21:32,054] times
+- [01:21:34,594 - 01:21:35,134] lz
+- [01:21:35,714 - 01:21:36,254] again
+- [01:21:37,074 - 01:21:38,894] when lz is big and positive
+- [01:21:38,894 - 01:21:41,114] that means it's pointing upward
+- [01:21:41,114 - 01:21:43,534] then the potential energy is large
+- [01:21:44,064 - 01:21:45,234] when lz is down
+- [01:21:46,154 - 01:21:46,694] then
+- [01:21:46,694 - 01:21:50,294] the potential energy
+- [01:21:50,294 - 01:21:50,814] is negative
+- [01:21:50,814 - 01:21:53,954] and it changes the same way
+- [01:21:53,954 - 01:21:55,454] as the height changes
+- [01:21:56,534 - 01:21:58,154] Alright so we now know
+- [01:21:58,154 - 01:21:58,714] something else.
+- [01:21:58,714 - 01:21:59,814] We now know that there's another
+- [01:22:00,294 - 01:22:01,674] contribution in the energy
+- [01:22:02,774 - 01:22:03,874] which is proportional
+- [01:22:03,874 - 01:22:05,074] to some constant
+- [01:22:07,034 - 01:22:08,194] now it's not the moment
+- [01:22:08,194 - 01:22:08,594] of inertia,
+- [01:22:08,594 - 01:22:09,894] it's just some
+- [01:22:09,894 - 01:22:11,074] constant minus c
+- [01:22:12,294 - 01:22:13,314] times lz
+- [01:22:18,394 - 01:22:19,514] Excuse me
+- [01:22:20,254 - 01:22:20,914] lz is the
+- [01:22:20,914 - 01:22:22,734] axis of rotation
+- [01:22:23,634 - 01:22:24,194] Sorry,
+- [01:22:24,194 - 01:22:24,474] l,
+- [01:22:24,474 - 01:22:24,894] yeah
+- [01:22:24,894 - 01:22:25,654] No,
+- [01:22:25,654 - 01:22:26,874] z is not the axis of rotation
+- [01:22:26,874 - 01:22:30,274] The axis of rotation is the radial direction
+- [01:22:30,874 - 01:22:32,734] So z points out of the board
+- [01:22:32,734 - 01:22:33,294] No,
+- [01:22:33,294 - 01:22:34,194] it's down
+- [01:22:34,194 - 01:22:34,994] Down
+- [01:22:35,994 - 01:22:36,434] Sorry
+- [01:22:37,914 - 01:22:38,794] The torque,
+- [01:22:38,794 - 01:22:39,834] if I understand right,
+- [01:22:39,834 - 01:22:40,274] the torque
+- [01:22:40,274 - 01:22:40,814] here is
+- [01:22:41,334 - 01:22:42,414] Don't worry about torque,
+- [01:22:42,414 - 01:22:44,214] let's just calculate the potential energy
+- [01:22:44,694 - 01:22:45,134] No,
+- [01:22:45,134 - 01:22:46,154] but I mean that's why we have
+- [01:22:46,154 - 01:22:46,914] the potential energy
+- [01:22:46,914 - 01:22:47,654] Yeah,
+- [01:22:47,654 - 01:22:48,714] but the torque,
+- [01:22:48,714 - 01:22:50,054] the force is down
+- [01:22:50,574 - 01:22:52,194] and the torque is into the board
+- [01:22:54,194 - 01:22:55,514] The force is down,
+- [01:22:55,514 - 01:22:56,834] the torque is into the board
+- [01:22:56,834 - 01:22:57,894] but I've never heard of torque
+- [01:22:57,894 - 01:22:59,554] Shouldn't you put a rest for it,
+- [01:22:59,554 - 01:23:00,234] like a base
+- [01:23:00,294 - 01:23:00,734] for it,
+- [01:23:00,734 - 01:23:00,974] if you're,
+- [01:23:00,974 - 01:23:01,654] for that
+- [01:23:01,654 - 01:23:04,034] point which is resting on a surface
+- [01:23:04,034 - 01:23:06,094] Is this axle a real axle?
+- [01:23:06,314 - 01:23:07,354] It's attached to this point,
+- [01:23:07,354 - 01:23:07,594] Olivia
+- [01:23:07,594 - 01:23:07,834] Oh,
+- [01:23:07,834 - 01:23:08,614] it's attached to that point
+- [01:23:09,533 - 01:23:10,873] But doesn't that imply that the
+- [01:23:10,873 - 01:23:12,214] other end of it is not
+- [01:23:12,214 - 01:23:13,134] moving or not?
+- [01:23:13,454 - 01:23:13,654] No,
+- [01:23:13,654 - 01:23:14,574] no,
+- [01:23:14,574 - 01:23:14,714] no,
+- [01:23:14,714 - 01:23:15,594] I'm sorry
+- [01:23:16,214 - 01:23:17,094] It's a gyroscope,
+- [01:23:17,094 - 01:23:17,714] it's free to
+- [01:23:18,114 - 01:23:19,174] do whatever it wants
+- [01:23:19,174 - 01:23:21,234] Only this length here is fixed
+- [01:23:22,674 - 01:23:23,814] There's a vector here
+- [01:23:23,814 - 01:23:26,134] and that vector is the position vector
+- [01:23:26,134 - 01:23:28,394] of the center of this thing
+- [01:23:28,394 - 01:23:28,854] Thank you
+- [01:23:30,294 - 01:23:31,814] There's no real axle there
+- [01:23:31,814 - 01:23:33,634] It's empty space axle
+- [01:23:33,634 - 01:23:35,654] It's a real axle
+- [01:23:35,654 - 01:23:38,394] Maybe if you label that axle L
+- [01:23:39,014 - 01:23:40,014] L vector
+- [01:23:40,994 - 01:23:42,194] Let's label it
+- [01:23:42,194 - 01:23:42,914] Alright,
+- [01:23:42,914 - 01:23:43,974] you want to label it L vector?
+- [01:23:44,214 - 01:23:44,434] Good
+- [01:23:45,274 - 01:23:45,834] Fine
+- [01:23:46,994 - 01:23:47,554] Yeah,
+- [01:23:47,554 - 01:23:50,234] the axle is along the L axis
+- [01:23:53,514 - 01:23:54,074] Alright,
+- [01:23:54,074 - 01:23:55,454] let's go back a step
+- [01:24:01,274 - 01:24:02,154] In fact,
+- [01:24:02,154 - 01:24:03,814] I'm not going to call this vector L
+- [01:24:03,814 - 01:24:05,914] I'm going to call this the R vector
+- [01:24:06,794 - 01:24:08,214] The position vector
+- [01:24:08,214 - 01:24:10,794] of the center of the wheel
+- [01:24:10,794 - 01:24:12,454] So this is R
+- [01:24:15,934 - 01:24:17,014] That's the R vector
+- [01:24:17,934 - 01:24:20,414] The assumption is that the angular momentum
+- [01:24:20,414 - 01:24:22,314] is along the R vector
+- [01:24:23,394 - 01:24:23,994] So
+- [01:24:23,994 - 01:24:25,594] What is the angular momentum?
+- [01:24:25,794 - 01:24:26,814] The angular momentum
+- [01:24:27,994 - 01:24:29,774] The vector angular momentum
+- [01:24:30,294 - 01:24:31,654] is some number
+- [01:24:31,654 - 01:24:33,634] which is just the spin
+- [01:24:33,634 - 01:24:35,434] the angular momentum of a
+- [01:24:36,194 - 01:24:37,034] it's just some number
+- [01:24:37,034 - 01:24:38,474] whatever it is,
+- [01:24:38,474 - 01:24:39,614] we could call it L
+- [01:24:39,614 - 01:24:40,334] and that's a number
+- [01:24:42,154 - 01:24:44,174] times the unit vector
+- [01:24:46,294 - 01:24:47,534] along this direction
+- [01:24:48,034 - 01:24:48,814] or just R,
+- [01:24:48,814 - 01:24:50,154] just forget unit vector
+- [01:24:50,154 - 01:24:50,534] R
+- [01:24:51,494 - 01:24:52,614] some number
+- [01:24:55,134 - 01:24:56,694] I don't know what to call it
+- [01:24:58,234 - 01:24:59,234] Let's call it L
+- [01:25:00,334 - 01:25:01,854] some number times R
+- [01:25:01,854 - 01:25:03,934] All this says is that the angular momentum
+- [01:25:03,934 - 01:25:06,934] is constrained to be along this radial direction
+- [01:25:06,934 - 01:25:08,054] along this
+- [01:25:08,054 - 01:25:10,474] along the direction of the position of this point here
+- [01:25:10,474 - 01:25:11,894] As it moves
+- [01:25:11,894 - 01:25:13,554] the wheel moves with it
+- [01:25:13,554 - 01:25:15,214] and the angular momentum stays aligned
+- [01:25:16,054 - 01:25:16,854] with the axle
+- [01:25:17,934 - 01:25:19,034] That's what this says
+- [01:25:19,034 - 01:25:20,234] Now
+- [01:25:21,334 - 01:25:22,274] Given this,
+- [01:25:22,274 - 01:25:23,394] and this is just a number
+- [01:25:23,394 - 01:25:26,234] whatever number of units of angular momentum
+- [01:25:26,234 - 01:25:26,894] the thing has
+- [01:25:26,894 - 01:25:29,774] Then it follows that L sub z
+- [01:25:30,394 - 01:25:31,974] is just the same number
+- [01:25:31,974 - 01:25:33,374] times z
+- [01:25:36,814 - 01:25:38,414] times the coordinate position
+- [01:25:38,414 - 01:25:39,134] of this point
+- [01:25:39,734 - 01:25:40,254] x,
+- [01:25:40,254 - 01:25:40,514] y,
+- [01:25:40,514 - 01:25:40,754] z,
+- [01:25:40,754 - 01:25:42,794] the coordinate position of the center of the wheel
+- [01:25:42,794 - 01:25:44,054] Is little l a constant?
+- [01:25:44,374 - 01:25:44,474] Yeah,
+- [01:25:44,474 - 01:25:46,154] little l is assumed to be a constant
+- [01:25:46,154 - 01:25:46,954] It doesn't vary with time
+- [01:25:46,954 - 01:25:50,334] And that will be true
+- [01:25:50,334 - 01:25:51,554] That will be true
+- [01:25:51,554 - 01:25:53,574] if the angular momentum is very large
+- [01:25:54,134 - 01:25:54,654] Yeah
+- [01:25:54,654 - 01:25:57,214] We're postulating that despite
+- [01:25:57,954 - 01:25:59,574] introducing the force of gravity
+- [01:26:00,294 - 01:26:02,414] L will still largely be along this
+- [01:26:02,414 - 01:26:02,674] That's right,
+- [01:26:02,674 - 01:26:04,074] we're postulating that
+- [01:26:04,074 - 01:26:06,574] We can prove that with a little more effort
+- [01:26:07,154 - 01:26:07,634] But
+- [01:26:08,674 - 01:26:10,334] But we'll just assume that
+- [01:26:10,334 - 01:26:12,714] That the spin angular momentum
+- [01:26:12,714 - 01:26:14,214] or the spin around that direction
+- [01:26:14,214 - 01:26:15,434] doesn't change much
+- [01:26:16,074 - 01:26:17,014] And it doesn't
+- [01:26:17,014 - 01:26:18,554] As long as it's large
+- [01:26:18,554 - 01:26:20,154] As long as it's much larger than
+- [01:26:20,154 - 01:26:21,754] any other angular momentum in the problem
+- [01:26:21,754 - 01:26:22,254] In other words,
+- [01:26:22,254 - 01:26:23,514] if you really spin that thing up
+- [01:26:24,174 - 01:26:26,334] That angular momentum about that axis
+- [01:26:26,334 - 01:26:27,274] won't change much
+- [01:26:27,954 - 01:26:28,434] Okay,
+- [01:26:28,434 - 01:26:29,194] so let's assume that
+- [01:26:30,294 - 01:26:32,794] Then all of the components of angular momentum
+- [01:26:32,794 - 01:26:35,094] are proportional to all of the components
+- [01:26:35,094 - 01:26:36,714] of the position vector here
+- [01:26:36,714 - 01:26:38,494] But what is the position vector
+- [01:26:38,494 - 01:26:39,034] Um
+- [01:26:40,414 - 01:26:41,854] Not what is the position vector
+- [01:26:41,854 - 01:26:43,354] But the
+- [01:26:44,314 - 01:26:45,334] Potential energy
+- [01:26:45,334 - 01:26:47,194] Is proportional to z
+- [01:26:48,414 - 01:26:50,374] The potential energy
+- [01:26:50,374 - 01:26:52,594] Is mg times z
+- [01:26:52,594 - 01:26:53,534] Z is the height
+- [01:26:55,194 - 01:26:56,634] This is the z axis here
+- [01:26:56,634 - 01:26:57,694] Okay
+- [01:26:58,264 - 01:26:59,674] Vertical axis I've taken to be z
+- [01:27:00,634 - 01:27:01,154] Alright,
+- [01:27:01,154 - 01:27:02,474] so the potential energy
+- [01:27:02,474 - 01:27:04,214] Is proportional to the height of this thing
+- [01:27:04,214 - 01:27:06,154] And therefore is proportional to Lz
+- [01:27:06,154 - 01:27:06,674] That's all,
+- [01:27:06,674 - 01:27:08,074] just proportional to Lz
+- [01:27:08,914 - 01:27:10,194] With some constant
+- [01:27:10,194 - 01:27:11,654] Some constant
+- [01:27:13,154 - 01:27:14,254] I've called the constant
+- [01:27:14,254 - 01:27:14,734] C
+- [01:27:15,394 - 01:27:16,434] Y minus
+- [01:27:17,294 - 01:27:18,574] Because the force is down
+- [01:27:19,314 - 01:27:19,834] Uh
+- [01:27:22,794 - 01:27:24,394] The zero point of z
+- [01:27:24,394 - 01:27:25,574] Is where r
+- [01:27:26,114 - 01:27:27,134] The n point of r
+- [01:27:27,134 - 01:27:27,794] Right
+- [01:27:33,354 - 01:27:33,994] Do I have
+- [01:27:33,994 - 01:27:34,634] Is plus,
+- [01:27:34,634 - 01:27:35,534] maybe it's plus c
+- [01:27:35,534 - 01:27:35,914] Hold on,
+- [01:27:35,914 - 01:27:36,554] did I get that wrong
+- [01:27:38,214 - 01:27:38,574] Um,
+- [01:27:38,574 - 01:27:39,674] it's plus L sub g
+- [01:27:40,914 - 01:27:41,274] Yeah,
+- [01:27:41,274 - 01:27:42,274] when you raise it
+- [01:27:42,274 - 01:27:43,874] It gets positive energy
+- [01:27:43,874 - 01:27:44,574] Yeah,
+- [01:27:44,574 - 01:27:44,694] yeah,
+- [01:27:44,694 - 01:27:45,214] yeah
+- [01:27:45,634 - 01:27:46,634] It's plus L sub g
+- [01:27:46,634 - 01:27:49,394] The higher it is the more potential energy
+- [01:27:49,854 - 01:27:51,674] So the origin of the coordinate system
+- [01:27:51,674 - 01:27:52,694] Where you're talking about x,
+- [01:27:52,694 - 01:27:52,854] y,
+- [01:27:52,854 - 01:27:53,394] and z is
+- [01:27:53,394 - 01:27:53,794] Right there,
+- [01:27:53,794 - 01:27:54,974] okay,
+- [01:27:54,974 - 01:27:55,214] so
+- [01:27:55,214 - 01:27:57,274] Z is the distance from
+- [01:27:57,654 - 01:27:58,014] Yeah,
+- [01:27:58,014 - 01:27:58,214] yeah,
+- [01:27:58,214 - 01:27:58,274] yeah,
+- [01:27:58,274 - 01:27:58,674] z,
+- [01:27:58,674 - 01:27:59,234] that's right
+- [01:28:00,294 - 01:28:00,574] z is just,
+- [01:28:00,574 - 01:28:02,214] I don't think I explained this well
+- [01:28:02,214 - 01:28:02,514] But,
+- [01:28:02,514 - 01:28:02,914] yes,
+- [01:28:02,914 - 01:28:03,574] z is
+- [01:28:04,134 - 01:28:04,914] This height
+- [01:28:04,914 - 01:28:05,954] Yeah,
+- [01:28:05,954 - 01:28:06,614] I'm sorry,
+- [01:28:06,614 - 01:28:08,194] I did a poor job of that
+- [01:28:08,774 - 01:28:10,374] And it's proportional to Lz
+- [01:28:10,374 - 01:28:12,354] Because L and r
+- [01:28:13,314 - 01:28:14,354] Are proportional
+- [01:28:14,354 - 01:28:15,114] To each other
+- [01:28:15,114 - 01:28:15,794] Alright,
+- [01:28:15,794 - 01:28:17,474] so now we can calculate the equation
+- [01:28:17,474 - 01:28:20,054] We can calculate what the components of L do
+- [01:28:20,954 - 01:28:21,474] Uh,
+- [01:28:21,474 - 01:28:21,994] let's
+- [01:28:22,654 - 01:28:23,874] Let's start with Lz
+- [01:28:25,454 - 01:28:26,254] Lz dot
+- [01:28:30,894 - 01:28:33,654] That's just the Poisson bracket of Lz with Lz
+- [01:28:33,654 - 01:28:34,154] That's zero
+- [01:28:36,454 - 01:28:38,354] So the first thing we find out
+- [01:28:38,354 - 01:28:40,214] Is that the vertical component
+- [01:28:40,214 - 01:28:42,074] of angular momentum doesn't change
+- [01:28:42,934 - 01:28:45,834] That means that this angle here doesn't change
+- [01:28:47,134 - 01:28:48,974] It stays at the same angle
+- [01:28:48,974 - 01:28:50,154] If it's spinning really fast
+- [01:28:50,154 - 01:28:50,894] That will be true
+- [01:28:50,894 - 01:28:52,334] That angle,
+- [01:28:52,334 - 01:28:54,094] the angle relative to the vertical
+- [01:28:54,094 - 01:28:55,134] Will be unchanged
+- [01:28:55,914 - 01:28:57,434] But let's see what else happens
+- [01:28:57,434 - 01:28:58,714] How about L sub x dot
+- [01:28:58,714 - 01:29:00,274] L sub x dot
+- [01:29:03,773 - 01:29:09,974] That's equal to the Poisson bracket of Lx with Clz
+- [01:29:09,974 - 01:29:10,854] And what is that?
+- [01:29:12,234 - 01:29:12,894] Uh,
+- [01:29:12,894 - 01:29:14,214] that's
+- [01:29:14,214 - 01:29:15,094] C times
+- [01:29:16,414 - 01:29:17,794] Minus C times Ly
+- [01:29:18,894 - 01:29:20,354] Did I get that right?
+- [01:29:23,934 - 01:29:25,234] Minus C times Ly
+- [01:29:26,033 - 01:29:26,694] Okay,
+- [01:29:26,694 - 01:29:27,334] so this is
+- [01:29:27,334 - 01:29:28,674] I'm getting tired
+- [01:29:30,294 - 01:29:30,694] I'm going to figure it out this time
+- [01:29:30,694 - 01:29:32,054] Minus Cly
+- [01:29:32,054 - 01:29:36,734] And how about Ly dot
+- [01:29:42,254 - 01:29:42,854] Alright,
+- [01:29:42,854 - 01:29:43,834] so Ly dot
+- [01:29:45,114 - 01:29:46,694] We would put Ly here
+- [01:29:46,694 - 01:29:49,634] And the Poisson bracket of Ly with Lz
+- [01:29:49,634 - 01:29:50,574] This is a C here
+- [01:29:50,574 - 01:29:50,954] I'm sorry
+- [01:29:50,954 - 01:29:52,794] I'm really getting tired now
+- [01:29:53,694 - 01:29:55,174] Minus C times Ly
+- [01:29:55,174 - 01:29:57,274] And this one will be plus C
+- [01:29:59,874 - 01:30:01,074] Times Lx
+- [01:30:02,874 - 01:30:03,514] Alright,
+- [01:30:03,514 - 01:30:04,654] so let's bring it over here
+- [01:30:07,434 - 01:30:08,454] Lz dot
+- [01:30:09,593 - 01:30:10,514] Equals zero
+- [01:30:11,734 - 01:30:12,694] Lx dot
+- [01:30:12,694 - 01:30:14,694] Is equal to C times Ly
+- [01:30:14,694 - 01:30:15,774] Minus C
+- [01:30:15,774 - 01:30:17,014] Minus C times Ly
+- [01:30:19,313 - 01:30:21,074] And Ly dot
+- [01:30:21,074 - 01:30:23,294] Is equal to plus C
+- [01:30:23,294 - 01:30:24,974] Times Lx
+- [01:30:26,614 - 01:30:27,254] So that's the
+- [01:30:31,773 - 01:30:32,654] GL
+- [01:30:36,293 - 01:30:37,954] Now we have to add in
+- [01:30:37,954 - 01:30:38,414] Twouras
+- [01:30:38,414 - 01:30:42,234] And we have to use
+- [01:30:42,234 - 01:30:42,454] One
+- [01:30:42,454 - 01:30:44,254] And we're on
+- [01:30:44,254 - 01:30:44,434] One
+- [01:30:44,434 - 01:30:45,034] Of this
+- [01:30:45,034 - 01:30:47,714] And we just give it a name
+- [01:30:47,714 - 01:30:48,394] Watch this
+- [01:30:48,394 - 01:30:56,814] Look at this
+- [01:30:56,814 - 01:30:57,234] Mind you
+- [01:30:57,234 - 01:31:00,494] of the angular momentum along the xy plane,
+- [01:31:00,494 - 01:31:04,394] it's processing around here with
+- [01:31:04,394 - 01:31:06,354] an angular velocity that's z,
+- [01:31:06,354 - 01:31:07,194] that's c,
+- [01:31:07,194 - 01:31:08,514] that's c.
+- [01:31:08,514 - 01:31:10,814] That's what's going on.
+- [01:31:11,194 - 01:31:11,774] Yes,
+- [01:31:11,774 - 01:31:14,004] and I think it's processing
+- [01:31:14,004 - 01:31:16,234] in this case in a counterclockwise,
+- [01:31:16,234 - 01:31:16,954] I may have
+- [01:31:16,954 - 01:31:18,534] lost track of a sign somewhere,
+- [01:31:18,534 - 01:31:19,934] I think I got it right,
+- [01:31:19,934 - 01:31:22,414] but it's processing about
+- [01:31:22,414 - 01:31:28,434] the z-axis and doing that sort of thing.
+- [01:31:28,434 - 01:31:35,614] So that's the gyroscope as a thought
+- [01:31:35,614 - 01:31:36,714] about from Poisson brackets.
+- [01:31:36,714 - 01:31:39,064] I think I'm off at the
+- [01:31:39,064 - 01:31:41,414] end of my line for tonight.
+- [01:31:41,414 - 01:31:41,834] I
+- [01:31:41,834 - 01:31:44,154] was going to work out the
+- [01:31:44,154 - 01:31:46,474] Euler equations for a rotating body,
+- [01:31:46,474 - 01:31:48,394] but the
+- [01:31:48,394 - 01:31:49,614] message is...
+- [01:31:49,614 - 01:31:50,974] Just to clarify,
+- [01:31:50,974 - 01:31:52,394] I thought in order to
+- [01:31:52,414 - 01:31:55,114] have precession you had to have a gravity
+- [01:31:55,114 - 01:31:57,814] with part on it where it rests like...
+- [01:31:57,814 - 01:31:59,074] Where is the...
+- [01:31:59,074 - 01:32:01,154] This is the gravitational potential energy.
+- [01:32:01,154 - 01:32:01,354] Okay,
+- [01:32:01,354 - 01:32:01,894] okay.
+- [01:32:01,894 - 01:32:02,914] This is the
+- [01:32:02,914 - 01:32:04,174] gravitational potential energy,
+- [01:32:04,174 - 01:32:04,554] right?
+- [01:32:04,554 - 01:32:07,814] That is the gravitational energy and
+- [01:32:07,814 - 01:32:08,474] that's the torque,
+- [01:32:08,474 - 01:32:11,174] that's the source of the torque on the...
+- [01:32:11,174 - 01:32:12,514] Right,
+- [01:32:12,514 - 01:32:13,654] right.
+- [01:32:13,654 - 01:32:14,514] But once
+- [01:32:14,514 - 01:32:15,354] you know this,
+- [01:32:15,354 - 01:32:17,614] you know exactly the same thing
+- [01:32:17,614 - 01:32:19,874] would be true for any angular
+- [01:32:19,874 - 01:32:20,294] momentum,
+- [01:32:20,294 - 01:32:22,254] whatever it came from.
+- [01:32:22,274 - 01:32:22,394] It's not just a matter of the angular momentum,
+- [01:32:22,394 - 01:32:22,394] it's the source of the torque.
+- [01:32:22,394 - 01:32:22,854] It doesn't...
+- [01:32:22,854 - 01:32:25,074] Whatever the source of the angular momentum,
+- [01:32:25,074 - 01:32:26,394] it might be a
+- [01:32:26,394 - 01:32:30,154] zillion electrons spins all lined up.
+- [01:32:30,154 - 01:32:32,934] It'll do exactly the same thing if a
+- [01:32:32,934 - 01:32:33,494] torque is...
+- [01:32:33,494 - 01:32:38,994] So this is quite general and...
+- [01:32:38,994 - 01:32:40,334] This is equilibrium?
+- [01:32:40,334 - 01:32:41,754] Well,
+- [01:32:41,754 - 01:32:42,234] it's not...
+- [01:32:42,234 - 01:32:43,334] It wouldn't be called officially
+- [01:32:43,334 - 01:32:43,834] equilibrium,
+- [01:32:43,834 - 01:32:46,894] but you could call it a steady-state motion,
+- [01:32:46,894 - 01:32:48,434] you know,
+- [01:32:48,434 - 01:32:49,574] or a
+- [01:32:49,574 - 01:32:50,594] stationary motion.
+- [01:32:52,494 - 01:32:53,014] Yes,
+- [01:32:53,014 - 01:32:53,694] that's right.
+- [01:32:53,694 - 01:32:54,674] If you give it a kickdown,
+- [01:32:54,674 - 01:32:56,174] it'll oscillate around here,
+- [01:32:56,174 - 01:32:57,074] but that
+- [01:32:57,074 - 01:32:59,234] oscillation and it's not much of
+- [01:32:59,234 - 01:33:01,394] an oscillation if it's really spinning fast,
+- [01:33:01,694 - 01:33:04,284] that oscillation will go together with
+- [01:33:04,284 - 01:33:06,874] small changes in the spin angular
+- [01:33:06,874 - 01:33:08,014] momentum around here.
+- [01:33:09,914 - 01:33:13,234] Am I right in saying that depending on
+- [01:33:13,234 - 01:33:16,554] whether this thing is rotating clockwise or counterclockwise,
+- [01:33:16,554 - 01:33:17,744] it will be minus c
+- [01:33:17,744 - 01:33:18,934] or plus c or plus v?
+- [01:33:19,074 - 01:33:19,354] Yeah,
+- [01:33:19,354 - 01:33:20,314] you're right.
+- [01:33:20,594 - 01:33:21,654] You're right.
+- [01:33:21,654 - 01:33:25,354] And my intention here was not to teach about gyroscopes,
+- [01:33:25,354 - 01:33:30,894] but to show you how Poisson brackets can be used very
+- [01:33:30,894 - 01:33:36,434] quickly and efficiently to work out equations of motion for things.
+- [01:33:36,634 - 01:33:39,994] And here we're not even working out the equation of
+- [01:33:39,994 - 01:33:43,354] motion for angles or Euler angles or positions or anything else.
+- [01:33:43,374 - 01:33:47,794] We jump directly to the angular momentum components and...
+- [01:33:48,594 - 01:33:48,934] So...
+- [01:33:48,934 - 01:33:49,214] Yeah?
+- [01:33:49,474 - 01:33:50,114] What?
+- [01:33:50,714 - 01:33:52,254] What is confusing to me,
+- [01:33:52,254 - 01:33:54,494] and maybe it's past,
+- [01:33:54,494 - 01:33:55,254] or I don't know...
+- [01:33:55,254 - 01:33:55,614] It's confusing.
+- [01:33:55,734 - 01:33:58,814] ...is whether or not you have physical things associated.
+- [01:33:58,814 - 01:34:02,414] You mentioned the axle or no axle in...
+- [01:34:02,414 - 01:34:02,754] Yeah,
+- [01:34:02,754 - 01:34:03,714] there could be an axle there.
+- [01:34:03,854 - 01:34:04,254] Yeah,
+- [01:34:04,254 - 01:34:06,224] but what I'm saying is it's also
+- [01:34:06,224 - 01:34:08,194] true if there is no axle there.
+- [01:34:08,234 - 01:34:08,614] Well,
+- [01:34:08,614 - 01:34:09,234] if there's no axle,
+- [01:34:09,234 - 01:34:10,414] it'll just fall down on the ground.
+- [01:34:11,614 - 01:34:12,014] Well,
+- [01:34:12,014 - 01:34:12,714] a wheel rolling,
+- [01:34:12,714 - 01:34:14,534] what about a wheel rolling like a wheel?
+- [01:34:15,614 - 01:34:17,714] It will maintain its full fall over.
+- [01:34:17,894 - 01:34:18,534] In other words,
+- [01:34:18,534 - 01:34:20,054] it's a physical thing.
+- [01:34:20,054 - 01:34:21,594] But you're saying that it has to be supported somewhere,
+- [01:34:21,594 - 01:34:22,314] whether it's...
+- [01:34:22,314 - 01:34:22,474] Yeah,
+- [01:34:22,474 - 01:34:25,284] the assumption is that the distance
+- [01:34:25,284 - 01:34:28,094] between here and here is fixed.
+- [01:34:29,294 - 01:34:30,274] In other words,
+- [01:34:30,274 - 01:34:31,054] yeah,
+- [01:34:31,054 - 01:34:32,294] that the distance...
+- [01:34:32,294 - 01:34:34,994] I assume the distance between here and here was fixed.
+- [01:34:35,194 - 01:34:36,354] Some ways in that derivation,
+- [01:34:36,354 - 01:34:38,114] we assume that the distance
+- [01:34:38,114 - 01:34:39,874] between here and here is fixed.
+- [01:34:39,974 - 01:34:40,314] For example,
+- [01:34:40,314 - 01:34:41,854] if it weren't fixed,
+- [01:34:41,854 - 01:34:43,694] supposing the wheel could move this way,
+- [01:34:43,694 - 01:34:46,424] then it would not be true that the component of
+- [01:34:46,424 - 01:34:49,154] the angular momentum would be proportional to the z height.
+- [01:34:49,154 - 01:34:51,494] It's only because it's fixed,
+- [01:34:51,494 - 01:34:52,774] and this is a fixed length,
+- [01:34:52,774 - 01:34:54,654] that as it rotates,
+- [01:34:54,654 - 01:34:57,414] the angular momentum rotates
+- [01:34:57,414 - 01:35:00,174] rigidly with the position vector.
+- [01:35:00,474 - 01:35:01,074] Yeah.
+- [01:35:01,954 - 01:35:04,934] Did you split the Hamiltonian,
+- [01:35:04,934 - 01:35:07,824] or did you neglect the energy to
+- [01:35:07,824 - 01:35:10,714] the angular rotation because it was so hard?
+- [01:35:10,754 - 01:35:11,474] Right,
+- [01:35:11,474 - 01:35:15,934] so we should add this to c times Lz,
+- [01:35:15,934 - 01:35:16,954] right?
+- [01:35:17,854 - 01:35:18,574] Yeah.
+- [01:35:19,154 - 01:35:19,414] Or minus,
+- [01:35:19,414 - 01:35:20,174] I don't know.
+- [01:35:20,494 - 01:35:21,654] We should add that.
+- [01:35:22,094 - 01:35:25,594] But we've already shown that the Poisson bracket of the components of
+- [01:35:25,594 - 01:35:29,094] the angular momentum with respect to the sums of the squares is zero.
+- [01:35:29,814 - 01:35:31,474] So that doesn't contribute anything.
+- [01:35:32,134 - 01:35:32,654] Right,
+- [01:35:32,654 - 01:35:33,354] that's a good point.
+- [01:35:35,054 - 01:35:36,094] That implicitly,
+- [01:35:36,094 - 01:35:38,694] I did have in my mind to add these two.
+- [01:35:39,434 - 01:35:39,954] Right.
+- [01:35:40,074 - 01:35:42,644] But when you take the Poisson bracket of the components
+- [01:35:42,644 - 01:35:45,214] of the angular momentum with the sums of the squares,
+- [01:35:45,214 - 01:35:46,694] you don't get anything.
+- [01:35:46,974 - 01:35:48,494] It all comes from here.
+- [01:35:50,533 - 01:35:53,934] And we see the precession.
+- [01:35:54,154 - 01:35:58,754] This is exactly the same precession as the precession of an
+- [01:35:58,754 - 01:36:03,354] electron spin or an electron magnetic moment in a magnetic field.
+- [01:36:03,674 - 01:36:05,854] The magnetic field plays the
+- [01:36:05,854 - 01:36:08,034] same role as a gravitational field.
+- [01:36:08,174 - 01:36:10,734] It tries to pull the spin down that way,
+- [01:36:10,734 - 01:36:13,574] and instead the spin precesses.
+- [01:36:14,194 - 01:36:17,874] Or it doesn't have to be an electron spin.
+- [01:36:17,874 - 01:36:19,174] It could be a nuclear spin,
+- [01:36:19,174 - 01:36:21,324] in which case you get a precession
+- [01:36:21,324 - 01:36:23,474] that's sort of the basis for NMR,
+- [01:36:23,474 - 01:36:24,874] for nuclear magnetic resonance.
+- [01:36:26,594 - 01:36:28,414] Or a planet around the sun.
+- [01:36:28,554 - 01:36:28,994] What's that?
+- [01:36:29,134 - 01:36:30,574] Or a planet around the sun.
+- [01:36:30,694 - 01:36:31,714] A planet around the sun.
+- [01:36:32,054 - 01:36:33,414] Or three around the sun.
+- [01:36:33,414 - 01:36:33,614] Well,
+- [01:36:33,614 - 01:36:36,454] that's a different thing.
+- [01:36:36,574 - 01:36:37,614] That is a different thing.
+- [01:36:37,734 - 01:36:38,554] That's a different thing.
+- [01:36:39,814 - 01:36:41,174] It's also called precession.
+- [01:36:41,314 - 01:36:43,314] I think that's the only real connection between them.
+- [01:36:44,754 - 01:36:47,854] But this is precession of angular momentum.
+- [01:36:47,854 - 01:36:49,194] It's angular momentum due to a torque.
+- [01:36:50,754 - 01:36:52,184] It could be a magnetic
+- [01:36:52,184 - 01:36:53,614] field pulling down on the spin.
+- [01:36:53,774 - 01:36:55,244] It could be the gravitational
+- [01:36:55,244 - 01:36:56,714] field pulling down on the flywheel.
+- [01:36:57,454 - 01:37:00,094] The net result is precession about the axis.
+- [01:37:02,614 - 01:37:03,014] Yeah?
+- [01:37:03,994 - 01:37:06,054] So this is exactly the same as a top,
+- [01:37:06,054 - 01:37:07,744] except that you would have
+- [01:37:07,744 - 01:37:09,434] drawn your vector maybe going upwards.
+- [01:37:09,634 - 01:37:09,794] Yeah.
+- [01:37:09,834 - 01:37:10,394] Mm-hmm.
+- [01:37:10,954 - 01:37:11,354] Yeah.
+- [01:37:11,414 - 01:37:11,614] Oh,
+- [01:37:11,614 - 01:37:11,854] yes,
+- [01:37:11,854 - 01:37:12,174] yes,
+- [01:37:12,174 - 01:37:12,394] yes,
+- [01:37:12,394 - 01:37:12,514] yes.
+- [01:37:12,654 - 01:37:13,054] Right.
+- [01:37:13,754 - 01:37:14,154] Right.
+- [01:37:14,614 - 01:37:15,984] You call it a gyroscope if
+- [01:37:15,984 - 01:37:17,354] it's sticking out to the side.
+- [01:37:17,354 - 01:37:19,074] If it's almost vertically upward,
+- [01:37:19,074 - 01:37:20,094] you call it a top.
+- [01:37:20,334 - 01:37:20,694] Right.
+- [01:37:20,754 - 01:37:21,334] Exactly so.
+- [01:37:21,614 - 01:37:22,014] Right.
+- [01:37:23,394 - 01:37:23,794] Right.
+- [01:37:25,254 - 01:37:25,654] Yeah.
+- [01:37:25,754 - 01:37:28,354] So if an electron in a nuclear particle,
+- [01:37:28,354 - 01:37:30,394] there's not like a point that's fixed.
+- [01:37:30,474 - 01:37:30,974] It's just the whole,
+- [01:37:30,974 - 01:37:32,954] it's around the center of the atom is fixed?
+- [01:37:33,674 - 01:37:35,354] Around the center of mass of the electron.
+- [01:37:35,573 - 01:37:35,814] Yeah.
+- [01:37:36,414 - 01:37:37,634] I'm sorry I mentioned that.
+- [01:37:40,494 - 01:37:41,073] All right.
+- [01:37:42,874 - 01:37:43,274] Yeah.
+- [01:37:46,533 - 01:37:47,334] All right.
+- [01:37:49,274 - 01:37:50,214] All right.
+- [01:37:50,294 - 01:37:52,653] We don't want to give away
+- [01:37:52,653 - 01:37:55,013] the punchline from quantum mechanics here.
+- [01:37:56,354 - 01:37:56,874] Okay.
+- [01:37:57,974 - 01:37:59,494] If there are no other questions,
+- [01:37:59,494 - 01:38:01,053] we're finished for tonight.
+- [01:38:02,214 - 01:38:03,033] For more,
+- [01:38:03,033 - 01:38:05,474] please visit us at stanford.edu.
