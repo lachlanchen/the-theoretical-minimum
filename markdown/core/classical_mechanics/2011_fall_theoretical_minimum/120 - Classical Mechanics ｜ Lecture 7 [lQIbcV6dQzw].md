@@ -1,0 +1,3029 @@
+# Transcript
+
+Source: core/classical_mechanics/2011_fall_theoretical_minimum/120 - Classical Mechanics ｜ Lecture 7 [lQIbcV6dQzw].mkv
+
+- [00:00:04,639 - 00:00:06,120] Stanford University.
+- [00:00:08,579 - 00:00:09,459] Today,
+- [00:00:09,459 - 00:00:11,959] my main purpose is to
+- [00:00:11,959 - 00:00:14,460] go through a very famous theorem.
+- [00:00:14,780 - 00:00:20,480] And it's the theorem which is the
+- [00:00:20,480 - 00:00:26,180] classical mechanical analog of the kind of
+- [00:00:26,180 - 00:00:29,500] reversibility that we talked about in,
+- [00:00:29,500 - 00:00:31,360] I think it was the very first lecture.
+- [00:00:32,500 - 00:00:33,060] Remember?
+- [00:00:33,060 - 00:00:34,560] Arrows pointing in,
+- [00:00:34,560 - 00:00:35,700] arrows pointing out,
+- [00:00:35,700 - 00:00:38,320] and some rules about
+- [00:00:39,019 - 00:00:39,580] reversibility.
+- [00:00:39,580 - 00:00:41,990] And I said at some point we
+- [00:00:41,990 - 00:00:44,400] would get to the real thing as it
+- [00:00:44,400 - 00:00:46,480] stands in classical mechanics and how it
+- [00:00:46,480 - 00:00:48,560] is similar to what we talked about that
+- [00:00:48,560 - 00:00:49,200] first lecture.
+- [00:00:49,200 - 00:00:53,420] The theorem is called Lieville's theorem.
+- [00:00:53,420 - 00:00:55,940] And so today at least
+- [00:00:55,940 - 00:00:56,160] you'll get a sense of the potential of it.
+- [00:00:56,160 - 00:00:56,160] And then I'll talk about it in the next lecture.
+- [00:00:56,160 - 00:00:58,720] And for a good part of the lecture,
+- [00:00:58,720 - 00:01:00,840] I will talk about Leoville's theorem.
+- [00:01:01,600 - 00:01:04,519] But first I want to remind you about Hamilton's equations,
+- [00:01:04,519 - 00:01:05,600] phase space,
+- [00:01:05,600 - 00:01:06,720] Hamilton's equations,
+- [00:01:08,740 - 00:01:10,780] and while I'm at it,
+- [00:01:10,780 - 00:01:13,110] to show you how Hamilton's
+- [00:01:13,110 - 00:01:15,440] equations lead to energy conservation.
+- [00:01:15,920 - 00:01:16,180] That,
+- [00:01:16,180 - 00:01:16,460] of course,
+- [00:01:16,460 - 00:01:17,380] is an important thing.
+- [00:01:18,500 - 00:01:20,640] We've seen how Lagrange's
+- [00:01:20,640 - 00:01:22,780] equations lead to energy conservation.
+- [00:01:23,160 - 00:01:24,280] And what was it?
+- [00:01:24,280 - 00:01:26,000] It was conservation of the Hamiltonian.
+- [00:01:26,340 - 00:01:28,510] So it will not be surprising
+- [00:01:28,510 - 00:01:30,680] in any way that Hamilton's equations,
+- [00:01:30,680 - 00:01:31,720] which are really just
+- [00:01:31,720 - 00:01:33,380] a repackaging of Lagrange equations,
+- [00:01:33,380 - 00:01:36,620] lead to energy conservation.
+- [00:01:39,580 - 00:01:40,080] Incidentally,
+- [00:01:40,080 - 00:01:41,200] even before I get started,
+- [00:01:41,200 - 00:01:47,780] everybody asks over and over again where these equations
+- [00:01:47,780 - 00:01:48,440] come from.
+- [00:01:48,640 - 00:01:48,840] Why,
+- [00:01:48,840 - 00:01:50,420] what,
+- [00:01:50,420 - 00:01:51,940] and I can always tell you quantum
+- [00:01:51,940 - 00:01:53,460] mechanics is at the root of them,
+- [00:01:53,460 - 00:01:53,860] and of course
+- [00:01:53,860 - 00:01:54,260] that's true.
+- [00:01:54,280 - 00:01:58,680] But you might have asked a slightly different question.
+- [00:01:58,940 - 00:02:01,440] If quantum mechanics is at the root of them,
+- [00:02:01,440 - 00:02:07,400] what was Hamilton and Jacobi and Lagrange
+- [00:02:07,400 - 00:02:09,419] and Poisson,
+- [00:02:09,419 - 00:02:10,600] what were they all doing?
+- [00:02:10,780 - 00:02:12,440] They didn't know about quantum mechanics.
+- [00:02:12,580 - 00:02:14,180] They had no idea about quantum mechanics.
+- [00:02:14,840 - 00:02:17,000] What were they doing playing with
+- [00:02:17,000 - 00:02:19,160] this stuff and creating these houses of,
+- [00:02:19,160 - 00:02:21,920] formal houses
+- [00:02:21,920 - 00:02:24,260] of cards and structures on top of structures?
+- [00:02:24,280 - 00:02:25,440] Very,
+- [00:02:25,440 - 00:02:26,140] very beautiful,
+- [00:02:26,140 - 00:02:27,280] extremely beautiful.
+- [00:02:29,120 - 00:02:31,220] But where were they getting all of this from?
+- [00:02:31,420 - 00:02:33,220] And as near as I can make out,
+- [00:02:33,220 - 00:02:34,890] they were playing with the
+- [00:02:34,890 - 00:02:36,560] equations and finding structure there
+- [00:02:36,560 - 00:02:38,140] for its own sake.
+- [00:02:39,860 - 00:02:43,110] To what extent they realized how deep
+- [00:02:43,110 - 00:02:46,360] an aspect of nature these equations were,
+- [00:02:46,360 - 00:02:47,020] I don't really
+- [00:02:47,020 - 00:02:47,340] know.
+- [00:02:47,700 - 00:02:50,780] And I really don't know what drove them
+- [00:02:50,780 - 00:02:53,860] other than playing with the equations and finding
+- [00:02:53,860 - 00:02:54,260] formalities.
+- [00:02:54,260 - 00:02:54,420] I mean,
+- [00:02:54,420 - 00:02:54,700] they were playing with the
+- [00:02:54,700 - 00:02:54,980] equations and finding formal structures there.
+- [00:02:56,880 - 00:03:00,420] So we're kind of working logically
+- [00:03:00,420 - 00:03:03,960] backward from quantum mechanics to classical mechanics,
+- [00:03:04,860 - 00:03:06,820] and starting with classical mechanics,
+- [00:03:06,820 - 00:03:08,180] whereas the logic goes the other way.
+- [00:03:08,280 - 00:03:08,840] But historically,
+- [00:03:08,840 - 00:03:11,120] we're doing it the way it really happened historically.
+- [00:03:11,800 - 00:03:13,940] And so it's very interesting what kind of
+- [00:03:13,940 - 00:03:16,080] weird minds these people had that were putting
+- [00:03:16,080 - 00:03:18,220] these things together in this
+- [00:03:18,220 - 00:03:20,360] way and just creating formal structures,
+- [00:03:20,360 - 00:03:21,240] formal meaning,
+- [00:03:21,420 - 00:03:21,600] you know,
+- [00:03:21,600 - 00:03:22,760] mathematical structures.
+- [00:03:24,260 - 00:03:25,640] So I'm going to wrap up the talk with
+- [00:03:25,640 - 00:03:27,020] just for the love of the beauty of the equations,
+- [00:03:27,160 - 00:03:28,180] as far as I can tell.
+- [00:03:29,820 - 00:03:31,850] And Hamilton's equations was one
+- [00:03:31,850 - 00:03:33,880] of those structures that was discovered.
+- [00:03:34,240 - 00:03:36,740] Lagrangian equations were an earlier one.
+- [00:03:37,900 - 00:03:38,740] Newton's equations,
+- [00:03:38,740 - 00:03:39,300] of course,
+- [00:03:39,300 - 00:03:40,340] were even earlier.
+- [00:03:40,620 - 00:03:42,660] Newton knew why he was doing his equations.
+- [00:03:42,880 - 00:03:44,420] He was trying to explain the orbit of the moon,
+- [00:03:44,420 - 00:03:45,600] the orbit of the Earth and all that
+- [00:03:45,600 - 00:03:45,880] stuff.
+- [00:03:47,240 - 00:03:48,600] What was Lagrange doing?
+- [00:03:49,000 - 00:03:51,620] I think he just noticed the similarity
+- [00:03:51,620 - 00:03:54,240] of the equations with the equations of Newton,
+- [00:03:54,240 - 00:03:57,120] equations of optics or the least action,
+- [00:03:57,120 - 00:04:00,080] the least action being similar to the,
+- [00:04:00,080 - 00:04:00,680] or the
+- [00:04:00,680 - 00:04:03,450] equations that come out of least action
+- [00:04:03,450 - 00:04:06,220] being not too different than the equations that
+- [00:04:06,220 - 00:04:07,400] would come out of least time.
+- [00:04:07,400 - 00:04:10,480] So I think he's just playing with it.
+- [00:04:10,480 - 00:04:13,560] And Hamilton even more
+- [00:04:13,560 - 00:04:17,160] so was just taking the structures,
+- [00:04:17,160 - 00:04:21,480] the mathematical structures that appeared and reassembling
+- [00:04:21,480 - 00:04:23,140] them in all kinds of interesting ways.
+- [00:04:24,140 - 00:04:24,540] Question?
+- [00:04:24,920 - 00:04:25,140] Yeah.
+- [00:04:25,400 - 00:04:29,240] You said that Newton didn't discuss kinetic energy.
+- [00:04:29,460 - 00:04:29,840] No,
+- [00:04:29,840 - 00:04:31,540] I don't think Newton had a concept of energy.
+- [00:04:31,540 - 00:04:32,300] To my knowledge,
+- [00:04:32,300 - 00:04:33,620] Newton did not talk about energy.
+- [00:04:34,320 - 00:04:35,860] What was the first...
+- [00:04:35,860 - 00:04:36,500] I'm not sure.
+- [00:04:36,500 - 00:04:37,800] I'm not sure.
+- [00:04:37,800 - 00:04:38,660] I don't know.
+- [00:04:38,660 - 00:04:42,520] I'm not sure.
+- [00:04:42,520 - 00:04:44,000] We can look it up.
+- [00:04:44,000 - 00:04:44,560] It's something
+- [00:04:44,560 - 00:04:45,520] we can look up on the internet.
+- [00:04:45,520 - 00:04:46,380] I'm not sure.
+- [00:04:46,380 - 00:04:50,480] Maybe somebody can look it up and tell us.
+- [00:04:50,560 - 00:04:50,920] Okay.
+- [00:04:56,440 - 00:04:58,040] I'm not even sure if it was a physicist.
+- [00:04:58,040 - 00:05:00,240] Might have been a chemist or...
+- [00:05:00,240 - 00:05:00,980] Heat,
+- [00:05:00,980 - 00:05:01,580] from heat maybe?
+- [00:05:01,580 - 00:05:02,120] No,
+- [00:05:02,120 - 00:05:02,580] that would be...
+- [00:05:03,020 - 00:05:03,240] Yeah.
+- [00:05:03,240 - 00:05:04,460] Yeah.
+- [00:05:04,460 - 00:05:06,080] Certainly by the time of Carnot,
+- [00:05:06,080 - 00:05:08,400] there was a very clear concept of energy.
+- [00:05:09,120 - 00:05:09,560] No,
+- [00:05:09,560 - 00:05:12,340] I must know.
+- [00:05:12,340 - 00:05:13,340] It was earlier than that.
+- [00:05:13,340 - 00:05:14,400] It was true.
+- [00:05:14,620 - 00:05:16,850] Leibniz had a concept of
+- [00:05:16,850 - 00:05:19,080] what he called the least weevil,
+- [00:05:19,080 - 00:05:20,980] which is twice the kinetic energy.
+- [00:05:20,980 - 00:05:21,280] Leibniz.
+- [00:05:21,600 - 00:05:22,000] Yeah,
+- [00:05:22,000 - 00:05:22,520] Leibniz.
+- [00:05:23,340 - 00:05:23,860] Might be.
+- [00:05:23,860 - 00:05:25,420] Yeah,
+- [00:05:25,420 - 00:05:26,220] he may have been the one.
+- [00:05:26,220 - 00:05:26,640] I don't know.
+- [00:05:26,640 - 00:05:29,060] However,
+- [00:05:29,060 - 00:05:31,280] we have it and we can use it.
+- [00:05:31,640 - 00:05:32,040] Well,
+- [00:05:32,040 - 00:05:33,300] heat was thought to be a substance.
+- [00:05:33,900 - 00:05:34,300] What's that?
+- [00:05:34,500 - 00:05:36,960] Heat was supposed to be a substance at that time.
+- [00:05:37,080 - 00:05:37,780] Heat was thought to be a substance.
+- [00:05:37,780 - 00:05:38,860] So you have a conservation of substance.
+- [00:05:39,180 - 00:05:39,260] Right.
+- [00:05:39,500 - 00:05:42,490] But the idea of transmutability of heat into
+- [00:05:42,490 - 00:05:45,480] work and work into heat somehow was there.
+- [00:05:45,740 - 00:05:46,040] Well,
+- [00:05:46,040 - 00:05:48,180] that's why Felicitas left.
+- [00:05:48,440 - 00:05:48,740] Yeah.
+- [00:05:48,800 - 00:05:50,020] Because of these concepts.
+- [00:05:50,980 - 00:05:51,260] Okay,
+- [00:05:51,260 - 00:05:52,600] let's get started.
+- [00:05:52,600 - 00:05:55,790] Let me write down Hamilton's equations for you again
+- [00:05:55,790 - 00:05:58,980] and then just show you in a couple of lines.
+- [00:05:59,300 - 00:06:02,400] They do imply the conservation of energy,
+- [00:06:02,400 - 00:06:05,080] which means the conservation of the Hamiltonian itself.
+- [00:06:05,900 - 00:06:06,440] All right,
+- [00:06:06,440 - 00:06:08,970] so we suppose that we have some system characterized
+- [00:06:08,970 - 00:06:11,500] by a bunch of Q's and a bunch of P's.
+- [00:06:14,200 - 00:06:16,000] We'll put some little index under them
+- [00:06:16,000 - 00:06:17,800] to indicate which one we're talking about.
+- [00:06:18,760 - 00:06:19,700] For each Q,
+- [00:06:19,700 - 00:06:20,220] there's a P.
+- [00:06:20,220 - 00:06:20,900] For each P,
+- [00:06:20,900 - 00:06:21,540] there's a Q.
+- [00:06:22,960 - 00:06:25,820] And in Hamiltonian mechanics,
+- [00:06:25,820 - 00:06:31,590] the laws or the law of nature or the collection of equations of motion
+- [00:06:31,590 - 00:06:37,360] are packaged in the form of a Hamiltonian function of the Q's and P's.
+- [00:06:38,120 - 00:06:39,400] H of Q and P.
+- [00:06:43,980 - 00:06:47,380] I won't bother writing little indices unless I need them.
+- [00:06:48,020 - 00:06:49,110] H of Q and P is
+- [00:06:49,110 - 00:06:50,200] the basis of the Hamiltonian function.
+- [00:06:50,220 - 00:06:51,300] It's the basic object of the theory.
+- [00:06:51,520 - 00:06:53,940] And how is it connected to the equations of motion?
+- [00:06:54,180 - 00:06:55,880] It's connected to the equations
+- [00:06:55,880 - 00:06:57,580] of motion through Hamilton's equations.
+- [00:06:58,760 - 00:06:59,320] Namely,
+- [00:06:59,320 - 00:07:02,000] I always have to remember where the sign is.
+- [00:07:02,720 - 00:07:09,340] P dot is equal to minus dH by dQ.
+- [00:07:12,360 - 00:07:13,820] We'll put an index here.
+- [00:07:17,440 - 00:07:18,760] The 15th P.
+- [00:07:19,320 - 00:07:20,500] It's time derivative.
+- [00:07:20,800 - 00:07:22,840] Is equal to the derivative of the
+- [00:07:22,840 - 00:07:24,880] Hamiltonian with respect to the 15th Q.
+- [00:07:26,000 - 00:07:26,560] Alright,
+- [00:07:26,560 - 00:07:27,420] so they come in pairs.
+- [00:07:28,320 - 00:07:30,500] And there's a Hamiltonian equation
+- [00:07:30,500 - 00:07:32,680] like this one for each I.
+- [00:07:33,140 - 00:07:38,720] And the other one is Q dot I
+- [00:07:38,720 - 00:07:44,300] is equal to plus dH by dP sub I.
+- [00:07:45,540 - 00:07:46,100] Now,
+- [00:07:46,100 - 00:07:47,420] H can be a complicated function
+- [00:07:47,420 - 00:07:48,740] of all the Q's and P's.
+- [00:07:48,740 - 00:07:52,670] So each right hand side here does
+- [00:07:52,670 - 00:07:56,600] not just depend on one label here.
+- [00:07:57,060 - 00:08:00,220] All the I's appear in H.
+- [00:08:00,460 - 00:08:02,680] And so this equation can say that
+- [00:08:02,680 - 00:08:04,900] P1 dot is some function of P1,
+- [00:08:04,900 - 00:08:05,260] P2,
+- [00:08:05,260 - 00:08:05,720] P3,
+- [00:08:05,720 - 00:08:06,420] all of them.
+- [00:08:06,460 - 00:08:07,420] And likewise here.
+- [00:08:08,320 - 00:08:08,880] Okay,
+- [00:08:08,880 - 00:08:10,120] but the equations come in pairs.
+- [00:08:11,100 - 00:08:11,660] Alright,
+- [00:08:11,660 - 00:08:14,980] let's write down now the time derivative of the energy.
+- [00:08:15,120 - 00:08:17,060] Which means the time derivative of the Hamiltonian.
+- [00:08:17,100 - 00:08:18,360] And see if we can calculate it.
+- [00:08:18,740 - 00:08:22,260] This is dH by dT.
+- [00:08:24,480 - 00:08:25,600] This is the total derivative.
+- [00:08:25,740 - 00:08:27,780] The complete explicit derivative.
+- [00:08:27,820 - 00:08:28,660] Not the explicit.
+- [00:08:28,780 - 00:08:31,600] The complete derivative of H with respect to T.
+- [00:08:31,840 - 00:08:34,980] And H can vary because either P varies with time
+- [00:08:34,980 - 00:08:38,120] or Q varies with time or both vary with time.
+- [00:08:38,700 - 00:08:42,169] And so that's equal to the derivative of H
+- [00:08:42,169 - 00:08:45,640] with respect to P times the time derivative of P.
+- [00:08:45,820 - 00:08:47,200] Let's put an I in here.
+- [00:08:48,740 - 00:08:51,340] The derivative of H with respect to QI.
+- [00:08:53,500 - 00:08:54,500] QI dot.
+- [00:08:55,820 - 00:08:57,990] H changes with time because H changes
+- [00:08:57,990 - 00:09:00,160] with P and P changes with time.
+- [00:09:01,060 - 00:09:03,850] And at the same time H changes with
+- [00:09:03,850 - 00:09:06,640] respect to Q and Q changes with time.
+- [00:09:06,720 - 00:09:07,360] That's what this means.
+- [00:09:08,200 - 00:09:08,460] Alright,
+- [00:09:08,460 - 00:09:11,040] now let's just plug in Hamilton's equations for
+- [00:09:11,040 - 00:09:13,620] the P dot and the Q dot here.
+- [00:09:15,060 - 00:09:15,560] Alright,
+- [00:09:15,560 - 00:09:17,440] so let's put in here P dot.
+- [00:09:17,480 - 00:09:18,100] This is equal.
+- [00:09:18,620 - 00:09:19,820] There's a minus sign.
+- [00:09:21,580 - 00:09:23,340] dH by dPi.
+- [00:09:25,660 - 00:09:27,100] dH by dQI.
+- [00:09:29,500 - 00:09:29,980] Oh,
+- [00:09:29,980 - 00:09:30,360] sorry.
+- [00:09:30,740 - 00:09:32,620] There is of course a summation here.
+- [00:09:34,240 - 00:09:36,940] This means sum over all I.
+- [00:09:37,160 - 00:09:38,100] So let's put the sum in.
+- [00:09:38,340 - 00:09:39,660] I don't have room for the sum.
+- [00:09:40,420 - 00:09:41,400] Put it in this way.
+- [00:09:49,500 - 00:09:50,120] Okay.
+- [00:09:53,700 - 00:09:54,320] Good.
+- [00:09:54,420 - 00:09:56,180] I won't bother writing it again.
+- [00:09:57,080 - 00:09:58,020] I mean,
+- [00:09:58,020 - 00:09:59,770] I intend there to be
+- [00:09:59,770 - 00:10:01,520] summations over I in these equations.
+- [00:10:01,940 - 00:10:06,240] dH by dPi dH times Pi dot.
+- [00:10:06,320 - 00:10:09,340] But Pi dot is minus dH by dQI.
+- [00:10:09,580 - 00:10:10,620] So there's a minus sign.
+- [00:10:11,260 - 00:10:11,880] dQI.
+- [00:10:12,280 - 00:10:15,980] Then plus dH by dQI.
+- [00:10:15,980 - 00:10:18,720] And now Q sub I dot.
+- [00:10:19,580 - 00:10:23,460] Q sub I dot is dH by dPi sub I.
+- [00:10:26,220 - 00:10:26,720] Nope,
+- [00:10:26,720 - 00:10:27,380] no dot.
+- [00:10:28,540 - 00:10:29,040] I.
+- [00:10:29,680 - 00:10:30,780] Dot my I's,
+- [00:10:30,780 - 00:10:31,660] not my Q's.
+- [00:10:32,480 - 00:10:34,520] Does the H have a dependence on time?
+- [00:10:34,840 - 00:10:35,340] Oh,
+- [00:10:35,340 - 00:10:36,440] that's a good question.
+- [00:10:36,640 - 00:10:37,720] If it does,
+- [00:10:37,720 - 00:10:38,960] then there would be another.
+- [00:10:40,120 - 00:10:40,620] Okay,
+- [00:10:40,620 - 00:10:43,600] so let's not include it in the same color.
+- [00:10:43,640 - 00:10:45,960] But let's just include it as it is.
+- [00:10:45,960 - 00:10:50,410] So if the H has an additional possibility that H might depend
+- [00:10:50,410 - 00:10:54,860] explicitly on time because some parameters of the problem are changing with time,
+- [00:10:54,860 - 00:10:56,920] then there would be another term here,
+- [00:10:56,920 - 00:10:58,100] the H by dt.
+- [00:10:59,620 - 00:11:02,060] And this means the change in the Hamiltonian,
+- [00:11:02,060 - 00:11:03,700] keeping P and Q fixed,
+- [00:11:03,700 - 00:11:06,050] but the change with respect to time because
+- [00:11:06,050 - 00:11:08,400] some parameters in the problem might change with time.
+- [00:11:09,120 - 00:11:09,640] Okay,
+- [00:11:09,640 - 00:11:11,060] so that's a good point.
+- [00:11:11,220 - 00:11:11,620] But,
+- [00:11:11,620 - 00:11:12,000] of course,
+- [00:11:12,000 - 00:11:13,970] the essential point is that
+- [00:11:13,970 - 00:11:15,940] the problem is changing with time.
+- [00:11:15,940 - 00:11:18,100] And that if the system is
+- [00:11:18,100 - 00:11:20,260] translationally invariant with respect to time,
+- [00:11:20,260 - 00:11:22,650] which is another way of saying that the
+- [00:11:22,650 - 00:11:25,040] parameters of the problem don't change with time,
+- [00:11:26,319 - 00:11:28,349] for a closed system where
+- [00:11:28,349 - 00:11:30,380] everything has been taken into account,
+- [00:11:30,380 - 00:11:33,900] we expect that the parameters don't change with time,
+- [00:11:33,900 - 00:11:36,000] then in that case this would be zero.
+- [00:11:36,699 - 00:11:38,160] This red piece here.
+- [00:11:38,560 - 00:11:39,680] And the black piece,
+- [00:11:39,680 - 00:11:40,440] you'll just notice,
+- [00:11:40,440 - 00:11:42,160] is just written the same thing twice,
+- [00:11:42,160 - 00:11:43,260] once with a minus sign.
+- [00:11:44,200 - 00:11:45,560] So it's just plain zero.
+- [00:11:46,860 - 00:11:47,800] That was easy.
+- [00:11:48,480 - 00:11:50,200] So in Hamiltonian form,
+- [00:11:50,200 - 00:11:52,810] the conservation of energy is just
+- [00:11:52,810 - 00:11:55,420] that this is equal to minus this.
+- [00:11:55,480 - 00:11:56,160] You add them together,
+- [00:11:56,160 - 00:11:57,200] it's all equal to zero.
+- [00:11:58,360 - 00:11:58,880] Zero.
+- [00:12:01,660 - 00:12:03,880] And if there is an
+- [00:12:03,880 - 00:12:06,100] explicit time dependence in the Hamiltonian,
+- [00:12:06,100 - 00:12:07,120] then,
+- [00:12:07,120 - 00:12:07,760] of course,
+- [00:12:07,760 - 00:12:10,820] the energy of the system would not be conserved.
+- [00:12:11,020 - 00:12:12,860] As I've emphasized over and over,
+- [00:12:12,860 - 00:12:14,390] the meaning of that is usually that
+- [00:12:14,390 - 00:12:15,920] there's some other sense in the Hamiltonian form,
+- [00:12:15,920 - 00:12:20,150] that there's a second system that is moving in such a way as
+- [00:12:20,150 - 00:12:24,380] to share and exchange energy back and forth with the system you're talking about.
+- [00:12:24,760 - 00:12:27,520] But let's not take that case now.
+- [00:12:27,640 - 00:12:30,330] Let's just take the simple case where
+- [00:12:30,330 - 00:12:33,020] the Hamiltonian does not depend explicitly on time.
+- [00:12:33,480 - 00:12:35,180] Time translation invariant.
+- [00:12:36,360 - 00:12:38,520] Then it's a one-step,
+- [00:12:38,520 - 00:12:41,280] one-line thing to see that the energy is conserved.
+- [00:12:42,440 - 00:12:45,160] And another way to say that is,
+- [00:12:46,620 - 00:12:47,580] to say,
+- [00:12:47,580 - 00:12:49,940] take the surfaces,
+- [00:12:49,940 - 00:12:53,420] this is a space here of some number of dimensions.
+- [00:12:55,140 - 00:12:57,160] If the number of q's is n,
+- [00:12:57,160 - 00:12:58,570] then the total number of
+- [00:12:58,570 - 00:12:59,980] dimensions in this space is 2n,
+- [00:12:59,980 - 00:13:02,380] nq's and np's.
+- [00:13:02,620 - 00:13:04,440] And write down the equation
+- [00:13:04,440 - 00:13:06,260] that h is equal to e,
+- [00:13:06,260 - 00:13:07,880] where e now is just a number.
+- [00:13:08,000 - 00:13:09,840] It happens to be the energy of the system,
+- [00:13:09,840 - 00:13:12,240] but let's just think of it as a number.
+- [00:13:13,099 - 00:13:15,140] Then the solutions of this equation are,
+- [00:13:15,160 - 00:13:16,680] these equations are just some contours,
+- [00:13:16,680 - 00:13:18,960] some surfaces in the phase space.
+- [00:13:19,200 - 00:13:20,700] The phase space is the pq space.
+- [00:13:21,960 - 00:13:24,860] And surfaces of constant energy,
+- [00:13:26,820 - 00:13:32,040] one equation in an n-dimensional space,
+- [00:13:32,300 - 00:13:33,580] here's an n-dimensional space,
+- [00:13:33,580 - 00:13:35,480] it's got to be even,
+- [00:13:35,480 - 00:13:36,320] strictly speaking,
+- [00:13:36,320 - 00:13:37,640] but I can't draw an even,
+- [00:13:37,640 - 00:13:38,620] alright.
+- [00:13:41,320 - 00:13:44,720] One equation among a collection of unknowns,
+- [00:13:45,280 - 00:13:46,900] or a collection of variables,
+- [00:13:47,160 - 00:13:50,980] gives you a surface of one less dimension,
+- [00:13:51,520 - 00:13:54,120] if we have 2n dimensions
+- [00:13:54,120 - 00:13:56,720] for the q's and the p's,
+- [00:13:56,840 - 00:13:58,340] and I write down an equation like that,
+- [00:13:58,520 - 00:14:01,280] it defines some surface in the space.
+- [00:14:02,800 - 00:14:04,840] How many dimensions does the surface have?
+- [00:14:05,300 - 00:14:07,740] One less than the total number of dimensions.
+- [00:14:08,440 - 00:14:10,620] That's what writing one equation does.
+- [00:14:11,960 - 00:14:13,440] So what this says,
+- [00:14:13,440 - 00:14:15,690] is that the way the
+- [00:14:15,690 - 00:14:17,940] system moves through the phase space,
+- [00:14:18,220 - 00:14:20,420] the motion through the phase space,
+- [00:14:21,140 - 00:14:24,360] stays on surfaces of constant h.
+- [00:14:26,460 - 00:14:29,920] The trajectories through phase space
+- [00:14:30,440 - 00:14:31,040] stick,
+- [00:14:31,040 - 00:14:31,800] so to speak,
+- [00:14:31,800 - 00:14:33,420] to surfaces of constant h.
+- [00:14:33,440 - 00:14:35,140] There are many surfaces of constant h.
+- [00:14:35,640 - 00:14:38,080] As I vary the value of h,
+- [00:14:38,360 - 00:14:40,760] I make different surfaces through here.
+- [00:14:40,760 - 00:14:42,150] I'm not going to try to
+- [00:14:42,150 - 00:14:43,540] draw another surface on top of that.
+- [00:14:43,960 - 00:14:44,920] But the point is,
+- [00:14:44,920 - 00:14:46,340] once the energy is fixed,
+- [00:14:46,600 - 00:14:49,820] the system will continue to travel on that surface.
+- [00:14:49,940 - 00:14:50,540] It doesn't have to form,
+- [00:14:50,540 - 00:14:51,580] it doesn't have to go
+- [00:14:51,580 - 00:14:52,620] on a closed surface like this,
+- [00:14:52,680 - 00:14:53,380] a closed loop,
+- [00:14:53,380 - 00:14:55,180] it just will stick to that surface.
+- [00:14:55,620 - 00:14:58,220] An example that we talked about was the harmonic oscillator.
+- [00:14:58,980 - 00:15:00,340] For the harmonic oscillator,
+- [00:15:00,600 - 00:15:02,500] the Hamiltonian was omega,
+- [00:15:02,500 - 00:15:04,060] just a number,
+- [00:15:04,619 - 00:15:06,660] times p squared plus q squared.
+- [00:15:09,720 - 00:15:12,180] p squared plus q squared is a con-
+- [00:15:12,180 - 00:15:13,530] or omega times p squared
+- [00:15:13,530 - 00:15:14,880] plus q squared is a constant.
+- [00:15:15,080 - 00:15:15,980] That's a circle.
+- [00:15:17,280 - 00:15:17,820] Alright,
+- [00:15:17,820 - 00:15:19,260] we start with a two-dimensional space,
+- [00:15:19,260 - 00:15:20,200] p and q.
+- [00:15:20,980 - 00:15:22,400] We write one equation,
+- [00:15:22,400 - 00:15:24,540] p squared plus q squared is a constant.
+- [00:15:24,940 - 00:15:26,280] That defines a circle,
+- [00:15:27,460 - 00:15:29,020] which is one less dimension.
+- [00:15:29,800 - 00:15:31,460] We have different circles
+- [00:15:31,460 - 00:15:33,120] corresponding to different total energy.
+- [00:15:34,720 - 00:15:35,260] And,
+- [00:15:35,260 - 00:15:38,200] the way the system moves or behaves with time
+- [00:15:38,200 - 00:15:40,320] is wherever you start the system,
+- [00:15:40,500 - 00:15:42,480] it will stay on the same circle.
+- [00:15:42,660 - 00:15:44,260] Just orbit around that,
+- [00:15:44,260 - 00:15:45,280] around the origin.
+- [00:15:47,480 - 00:15:48,000] So,
+- [00:15:48,000 - 00:15:52,500] that's another idea that the surface...
+- [00:15:52,820 - 00:15:52,840] Yes?
+- [00:15:53,120 - 00:15:53,520] Okay.
+- [00:15:54,200 - 00:15:55,780] You've got four equations there,
+- [00:15:55,780 - 00:15:56,940] p squared plus...
+- [00:15:56,940 - 00:15:58,040] Four equations.
+- [00:15:58,040 - 00:15:59,060] What I'm saying is,
+- [00:15:59,060 - 00:16:00,280] I'm trying to see...
+- [00:16:00,280 - 00:16:00,900] So,
+- [00:16:00,900 - 00:16:02,380] for p and for q,
+- [00:16:02,380 - 00:16:03,560] you've got one equation each,
+- [00:16:03,660 - 00:16:04,280] is that what you're saying,
+- [00:16:04,280 - 00:16:05,040] or two equations?
+- [00:16:07,060 - 00:16:09,500] The equations of motion are these.
+- [00:16:09,680 - 00:16:11,000] There are two equations of motion.
+- [00:16:12,100 - 00:16:14,760] It follows from these two equations of motion
+- [00:16:14,760 - 00:16:18,200] that the time derivative of the energy is zero.
+- [00:16:19,700 - 00:16:21,600] That says that the...
+- [00:16:21,600 - 00:16:21,740] Or,
+- [00:16:21,740 - 00:16:23,480] the time derivative of the Hamiltonian.
+- [00:16:23,800 - 00:16:27,380] That says that the Hamiltonian is a constant in time.
+- [00:16:27,580 - 00:16:28,020] So,
+- [00:16:28,020 - 00:16:29,280] let's call that constant E.
+- [00:16:30,420 - 00:16:30,980] Okay?
+- [00:16:31,380 - 00:16:32,360] The constant,
+- [00:16:32,360 - 00:16:32,820] of course,
+- [00:16:32,820 - 00:16:34,660] is determined by the initial conditions.
+- [00:16:34,660 - 00:16:36,840] Whatever the initial energy is,
+- [00:16:36,840 - 00:16:38,420] that's what E is.
+- [00:16:38,860 - 00:16:40,900] And each value of E corresponds
+- [00:16:40,900 - 00:16:42,940] to a surface in the phase space
+- [00:16:42,940 - 00:16:44,720] of one lower dimension.
+- [00:16:45,600 - 00:16:49,400] The rule is the motion of the phase point,
+- [00:16:49,660 - 00:16:50,900] let's call this the phase point,
+- [00:16:50,900 - 00:16:51,900] through phase space,
+- [00:16:52,160 - 00:16:55,720] stays on the same surface of constant energy.
+- [00:16:56,860 - 00:17:01,520] That's one of the many consequences of these equations here,
+- [00:17:01,640 - 00:17:04,640] that the motion is on a surface,
+- [00:17:04,660 - 00:17:05,220] just like that.
+- [00:17:06,220 - 00:17:06,740] Okay?
+- [00:17:07,280 - 00:17:07,940] Excuse me.
+- [00:17:08,740 - 00:17:10,200] The way you present this,
+- [00:17:10,260 - 00:17:12,880] there's really no relationship between the P's and Q's.
+- [00:17:13,020 - 00:17:14,740] This is just all very axiomatic.
+- [00:17:15,119 - 00:17:15,440] Yeah.
+- [00:17:16,119 - 00:17:16,640] Well,
+- [00:17:16,640 - 00:17:18,040] it's not that there are no relations.
+- [00:17:18,140 - 00:17:20,540] The relations between them are given by these equations.
+- [00:17:20,760 - 00:17:21,000] That's right.
+- [00:17:21,200 - 00:17:21,319] Right.
+- [00:17:21,740 - 00:17:22,260] But...
+- [00:17:22,260 - 00:17:22,740] Yeah.
+- [00:17:23,680 - 00:17:24,200] Yeah.
+- [00:17:24,200 - 00:17:24,740] No,
+- [00:17:24,740 - 00:17:24,839] no,
+- [00:17:24,839 - 00:17:25,119] that's right.
+- [00:17:26,579 - 00:17:27,500] For example,
+- [00:17:27,500 - 00:17:29,080] there's no automatic assumption
+- [00:17:29,620 - 00:17:32,920] that P is equal to the mass times Q dot.
+- [00:17:33,660 - 00:17:34,180] Right.
+- [00:17:34,660 - 00:17:34,660] So,
+- [00:17:34,660 - 00:17:36,060] you take whatever the Hamiltonian is,
+- [00:17:36,140 - 00:17:40,500] and we'll work out some examples which are nonstandard,
+- [00:17:42,020 - 00:17:42,900] but basically,
+- [00:17:42,900 - 00:17:45,400] the Hamiltonian can be any function of Q and P.
+- [00:17:46,179 - 00:17:47,660] In many cases,
+- [00:17:47,660 - 00:17:50,520] you can write it as a kinetic term,
+- [00:17:50,760 - 00:17:51,980] that's what P squared is,
+- [00:17:52,480 - 00:17:53,840] plus a potential term,
+- [00:17:54,060 - 00:17:56,000] but by the time we've gone this far,
+- [00:17:56,639 - 00:17:57,840] we can write many,
+- [00:17:57,840 - 00:17:59,540] many other kinds of Hamiltonians.
+- [00:17:59,580 - 00:18:00,500] The only question is,
+- [00:18:00,500 - 00:18:02,160] do they correspond to anything in nature?
+- [00:18:02,480 - 00:18:03,740] The answer is often yes.
+- [00:18:04,780 - 00:18:05,700] But now,
+- [00:18:05,700 - 00:18:06,540] as you say,
+- [00:18:06,540 - 00:18:08,940] I think you put the right word on it.
+- [00:18:09,020 - 00:18:10,840] The axiomatic...
+- [00:18:10,840 - 00:18:13,900] This is an axiomatic theory now of mechanics,
+- [00:18:14,899 - 00:18:16,140] or a formal structure,
+- [00:18:16,140 - 00:18:17,380] or whatever you want to call it,
+- [00:18:17,440 - 00:18:18,220] and that defines it.
+- [00:18:19,220 - 00:18:19,680] Okay,
+- [00:18:19,680 - 00:18:21,100] so now let's...
+- [00:18:24,399 - 00:18:26,569] move on to the idea
+- [00:18:26,569 - 00:18:28,740] of a flow in phase space.
+- [00:18:29,400 - 00:18:31,820] Let's go back to the harmonic oscillator for a minute.
+- [00:18:34,879 - 00:18:39,860] And instead of taking a given initial condition
+- [00:18:39,860 - 00:18:41,560] and a given starting point,
+- [00:18:41,560 - 00:18:42,840] a particular starting point,
+- [00:18:42,940 - 00:18:43,880] for example,
+- [00:18:43,880 - 00:18:44,340] this point,
+- [00:18:44,440 - 00:18:46,170] and then watching the phase
+- [00:18:46,170 - 00:18:47,900] point move around in a circle,
+- [00:18:48,580 - 00:18:51,620] let's imagine all possible starting points
+- [00:18:52,540 - 00:18:56,440] and indicate them by points on this plane,
+- [00:18:56,640 - 00:18:57,600] and in fact,
+- [00:18:57,600 - 00:18:58,820] think of a sprinkling of them.
+- [00:19:00,740 - 00:19:03,280] It's uniformly distributed through here.
+- [00:19:03,740 - 00:19:05,260] Every one of them moves...
+- [00:19:08,340 - 00:19:09,700] And in the back of my mind,
+- [00:19:09,700 - 00:19:10,740] I'm thinking that
+- [00:19:11,500 - 00:19:12,970] the sprinkling of points can
+- [00:19:12,970 - 00:19:14,440] be thought of as a fluid.
+- [00:19:14,520 - 00:19:15,500] Not a real fluid,
+- [00:19:15,500 - 00:19:17,540] but an imaginary fluid
+- [00:19:17,540 - 00:19:21,040] composed of a huge,
+- [00:19:21,040 - 00:19:21,560] huge,
+- [00:19:21,560 - 00:19:22,460] a huge dust.
+- [00:19:22,880 - 00:19:24,000] Think of it as a dust,
+- [00:19:24,000 - 00:19:25,000] but a fluid dust,
+- [00:19:25,740 - 00:19:27,480] where all the particles of
+- [00:19:27,480 - 00:19:29,220] the dust move in a way
+- [00:19:29,220 - 00:19:31,180] which is dictated by these equations.
+- [00:19:33,740 - 00:19:35,260] So wherever you happen to be,
+- [00:19:36,580 - 00:19:40,540] you'll be at the next point a little bit later.
+- [00:19:40,680 - 00:19:41,800] You'll move in some way,
+- [00:19:41,880 - 00:19:45,020] and some way is dictated by what the Hamiltonian is.
+- [00:19:45,460 - 00:19:46,840] And so you get a pattern,
+- [00:19:46,840 - 00:19:48,140] a picture of a flow.
+- [00:19:48,280 - 00:19:49,180] In this case,
+- [00:19:49,180 - 00:19:50,120] for the harmonic oscillator,
+- [00:19:50,300 - 00:19:51,440] the flow is very simple.
+- [00:19:51,840 - 00:19:54,440] Just everything sort of rigidly moves around
+- [00:19:54,440 - 00:19:57,240] on a carousel,
+- [00:19:57,240 - 00:19:57,780] so to speak.
+- [00:19:58,860 - 00:20:00,380] Everything's just rigidly moving around.
+- [00:20:00,380 - 00:20:02,280] And so the fluid has
+- [00:20:02,280 - 00:20:04,180] an extremely simple kind of motion.
+- [00:20:05,120 - 00:20:07,980] And it's not important whether this is a fluid,
+- [00:20:08,780 - 00:20:11,460] whether any real fluid could move like this.
+- [00:20:11,540 - 00:20:12,720] This is a secondary question.
+- [00:20:12,960 - 00:20:14,560] Just picture it as a fluid
+- [00:20:14,560 - 00:20:17,940] or a collection of a dust moving around like that.
+- [00:20:20,860 - 00:20:22,040] More generally,
+- [00:20:22,040 - 00:20:26,200] for an arbitrary phase space,
+- [00:20:27,240 - 00:20:28,639] always even dimensional,
+- [00:20:29,140 - 00:20:30,360] but I can't draw it even,
+- [00:20:30,380 - 00:20:30,700] even dimensional,
+- [00:20:30,980 - 00:20:33,020] you can play exactly the same idea,
+- [00:20:33,240 - 00:20:36,300] that the phase space is filled up with a dust.
+- [00:20:37,000 - 00:20:40,300] The dust corresponds to every possible starting point,
+- [00:20:40,440 - 00:20:42,740] and then just start the clock and let it go,
+- [00:20:42,940 - 00:20:45,100] and the dust moves through the phase space
+- [00:20:45,660 - 00:20:48,940] and defines a flow of a fluid,
+- [00:20:49,080 - 00:20:50,520] a flow of an imaginary fluid.
+- [00:20:51,340 - 00:20:52,620] We're interested in the fluid,
+- [00:20:52,680 - 00:20:54,340] and we're interested in the properties of it.
+- [00:20:54,480 - 00:20:57,600] But we're interested in one very specific property,
+- [00:20:58,760 - 00:21:00,100] the property called,
+- [00:21:00,380 - 00:21:02,920] having a divergence or a convergence of the flow,
+- [00:21:03,060 - 00:21:04,280] divergence of the flow.
+- [00:21:10,620 - 00:21:12,940] You said it's a rigid thing,
+- [00:21:13,060 - 00:21:15,480] so you're implying that they all have the same period.
+- [00:21:15,640 - 00:21:16,080] In this case,
+- [00:21:16,080 - 00:21:16,700] in this case,
+- [00:21:16,700 - 00:21:17,660] they all have the same...
+- [00:21:17,660 - 00:21:17,940] Period.
+- [00:21:18,740 - 00:21:19,140] Period?
+- [00:21:19,540 - 00:21:19,940] Period.
+- [00:21:20,080 - 00:21:20,300] Period,
+- [00:21:20,300 - 00:21:20,540] yes,
+- [00:21:20,540 - 00:21:21,400] that's exactly right.
+- [00:21:21,540 - 00:21:22,480] And what is the period?
+- [00:21:23,220 - 00:21:26,000] It's determined by this frequency.
+- [00:21:27,500 - 00:21:27,900] Well,
+- [00:21:27,900 - 00:21:28,300] harmonic,
+- [00:21:28,300 - 00:21:29,440] this is a harmonic oscillator.
+- [00:21:29,440 - 00:21:30,260] Harmonic oscillator,
+- [00:21:30,260 - 00:21:33,660] no matter how far you displace the coordinate,
+- [00:21:34,200 - 00:21:35,760] it oscillates back and forth
+- [00:21:35,760 - 00:21:37,320] with exactly the same frequency.
+- [00:21:37,620 - 00:21:38,120] So,
+- [00:21:38,120 - 00:21:38,260] right,
+- [00:21:38,260 - 00:21:39,820] so that translates into the statement
+- [00:21:39,820 - 00:21:41,600] that everything moves around rigidly.
+- [00:21:41,680 - 00:21:42,240] Right,
+- [00:21:42,240 - 00:21:42,880] exactly so.
+- [00:21:43,680 - 00:21:44,440] All right,
+- [00:21:44,440 - 00:21:47,820] so now we come to
+- [00:21:47,820 - 00:21:51,200] just a little bit about fluid,
+- [00:21:51,300 - 00:21:53,280] about flow vectors.
+- [00:21:53,680 - 00:21:56,100] Flow vectors and how they're connected to this
+- [00:21:56,100 - 00:21:57,680] and the properties of those flow vectors.
+- [00:21:57,680 - 00:21:58,940] A flow vector is a very,
+- [00:21:58,940 - 00:21:59,780] very simple idea.
+- [00:22:00,240 - 00:22:00,840] Incidentally,
+- [00:22:00,840 - 00:22:02,520] we're imagining a flow
+- [00:22:04,260 - 00:22:06,600] which is a kind of stationary flow,
+- [00:22:06,760 - 00:22:07,620] points move,
+- [00:22:07,620 - 00:22:09,640] points move.
+- [00:22:09,840 - 00:22:10,860] Their motion,
+- [00:22:10,860 - 00:22:13,540] what they're doing next
+- [00:22:13,540 - 00:22:17,040] only depends on where they are on the phase space.
+- [00:22:18,200 - 00:22:20,140] Where this particle moves next,
+- [00:22:20,480 - 00:22:21,400] in other words,
+- [00:22:21,400 - 00:22:22,440] what its velocity is.
+- [00:22:22,700 - 00:22:25,180] Not the velocity q dot,
+- [00:22:25,300 - 00:22:27,660] but the velocity in the period
+- [00:22:27,680 - 00:22:28,780] q dot and p dot.
+- [00:22:28,780 - 00:22:28,780] So,
+- [00:22:28,780 - 00:22:30,080] what are the components of the velocity,
+- [00:22:30,180 - 00:22:30,700] what are the components,
+- [00:22:30,700 - 00:22:31,540] first of all,
+- [00:22:31,540 - 00:22:32,820] of position in the q p space?
+- [00:22:33,660 - 00:22:34,280] q and p.
+- [00:22:35,280 - 00:22:35,640] Okay.
+- [00:22:36,040 - 00:22:38,460] What are the components of the velocity in that space?
+- [00:22:38,780 - 00:22:39,380] Not the real,
+- [00:22:39,380 - 00:22:41,420] not the honest velocity of mechanics,
+- [00:22:42,100 - 00:22:43,780] but the velocity in phase space.
+- [00:22:45,840 - 00:22:47,000] q dot and p dot.
+- [00:22:47,500 - 00:22:47,860] So,
+- [00:22:47,860 - 00:22:49,280] we make a little vector out of them.
+- [00:22:49,460 - 00:22:51,500] All the q dots and all the p dots.
+- [00:22:51,700 - 00:22:53,220] q dots and line them up.
+- [00:22:53,400 - 00:22:54,120] q one dot,
+- [00:22:54,120 - 00:22:54,940] q two dot,
+- [00:22:54,940 - 00:22:55,220] blah,
+- [00:22:55,220 - 00:22:55,380] blah,
+- [00:22:55,440 - 00:22:56,140] p one dot,
+- [00:22:56,140 - 00:22:56,440] blah,
+- [00:22:56,440 - 00:22:56,560] blah,
+- [00:22:56,560 - 00:22:56,700] blah,
+- [00:22:56,700 - 00:22:57,280] line them up.
+- [00:22:57,680 - 00:22:58,600] And make a vector.
+- [00:22:58,720 - 00:23:01,060] Make a thing whose components are the vector.
+- [00:23:01,940 - 00:23:02,700] And then,
+- [00:23:02,700 - 00:23:05,820] that velocity vector
+- [00:23:06,300 - 00:23:09,540] can be thought of as
+- [00:23:09,540 - 00:23:12,780] a vector in the phase space.
+- [00:23:13,000 - 00:23:14,330] A vector in the phase
+- [00:23:14,330 - 00:23:15,660] space showing the direction of flow.
+- [00:23:17,100 - 00:23:18,520] What is the flow?
+- [00:23:19,340 - 00:23:21,060] It's just these p dots and q dots.
+- [00:23:21,180 - 00:23:22,360] This is the velocity vector.
+- [00:23:22,560 - 00:23:25,800] And they're given entirely by known functions,
+- [00:23:26,400 - 00:23:27,560] if we know the Hamiltonian,
+- [00:23:27,560 - 00:23:30,420] known functions of position in that space.
+- [00:23:30,900 - 00:23:33,900] The right-hand side are known functions of the position,
+- [00:23:34,120 - 00:23:36,240] which are determined by the Hamiltonian.
+- [00:23:36,500 - 00:23:37,140] And so,
+- [00:23:37,140 - 00:23:38,770] it means whenever a point in
+- [00:23:38,770 - 00:23:40,400] the flow gets to this point,
+- [00:23:40,680 - 00:23:42,800] it always has the same velocity.
+- [00:23:43,140 - 00:23:46,240] The velocity being determined by the value of h
+- [00:23:46,240 - 00:23:48,560] and its derivatives at that point.
+- [00:23:49,740 - 00:23:50,440] All right.
+- [00:23:50,440 - 00:23:50,580] So,
+- [00:23:50,580 - 00:23:55,360] that means that we can take this space
+- [00:23:55,360 - 00:23:57,540] and fill it up with the same velocity.
+- [00:23:57,560 - 00:23:58,500] With a vector field.
+- [00:23:58,960 - 00:24:04,220] A vector field just means a vector at every position.
+- [00:24:05,740 - 00:24:08,640] At every position in q and p space,
+- [00:24:08,640 - 00:24:09,480] in phase space,
+- [00:24:09,800 - 00:24:12,360] we draw a vector which is
+- [00:24:12,360 - 00:24:14,920] just the velocity of the phase point
+- [00:24:14,920 - 00:24:15,600] if it gets,
+- [00:24:15,600 - 00:24:16,540] if it's at that point.
+- [00:24:18,640 - 00:24:20,320] Kind of an ugly drawing I made,
+- [00:24:20,320 - 00:24:20,720] isn't it?
+- [00:24:20,820 - 00:24:21,000] Well,
+- [00:24:21,000 - 00:24:21,460] okay.
+- [00:24:22,040 - 00:24:23,820] Let's draw it for this guy over here,
+- [00:24:23,820 - 00:24:24,780] for this system.
+- [00:24:29,660 - 00:24:31,860] Is the velocity the same at every,
+- [00:24:31,860 - 00:24:33,000] at every point?
+- [00:24:35,520 - 00:24:38,100] The velocity is not the same at every point.
+- [00:24:38,360 - 00:24:39,860] Even at a fixed radius,
+- [00:24:40,900 - 00:24:43,300] the velocity is over here in this direction.
+- [00:24:43,660 - 00:24:44,700] Do I have it right,
+- [00:24:44,700 - 00:24:45,280] or is it,
+- [00:24:45,280 - 00:24:46,920] is it clockwise or counterclockwise?
+- [00:24:47,160 - 00:24:47,400] I told,
+- [00:24:47,400 - 00:24:48,300] clockwise,
+- [00:24:48,300 - 00:24:48,920] isn't it?
+- [00:24:49,420 - 00:24:51,840] The velocity is this way here,
+- [00:24:51,840 - 00:24:53,280] this way here,
+- [00:24:53,800 - 00:24:54,840] this way here,
+- [00:24:54,840 - 00:24:55,780] and this way here.
+- [00:24:56,040 - 00:24:57,540] But suppose you're moving closer.
+- [00:24:58,659 - 00:25:00,560] Then the velocity is smaller.
+- [00:25:00,740 - 00:25:02,760] The magnitude of the velocity is smaller.
+- [00:25:03,120 - 00:25:05,700] It goes around in the same amount of time,
+- [00:25:05,880 - 00:25:08,040] but it has a smaller distance to go around.
+- [00:25:08,320 - 00:25:09,360] So the velocity,
+- [00:25:09,360 - 00:25:11,660] this is not a very good circle around the origin.
+- [00:25:11,800 - 00:25:12,880] Here's a circle around the origin.
+- [00:25:13,080 - 00:25:14,780] The velocity is smaller here.
+- [00:25:18,420 - 00:25:19,880] And if you go in even closer,
+- [00:25:19,880 - 00:25:21,280] the velocity is even smaller.
+- [00:25:24,520 - 00:25:26,380] And so we fill the space up.
+- [00:25:26,380 - 00:25:28,620] With a velocity field.
+- [00:25:28,980 - 00:25:30,540] Of course over here it's this way,
+- [00:25:30,540 - 00:25:31,780] over here it's this way,
+- [00:25:31,880 - 00:25:32,700] here it's this way,
+- [00:25:32,700 - 00:25:33,380] and so forth.
+- [00:25:34,580 - 00:25:36,840] And that's called the velocity field of a fluid.
+- [00:25:37,300 - 00:25:37,740] Okay?
+- [00:25:37,800 - 00:25:39,360] It's called the velocity field of a fluid.
+- [00:25:40,140 - 00:25:41,540] And it's just a collection.
+- [00:25:41,760 - 00:25:44,880] It's nothing but these guys over here.
+- [00:25:44,920 - 00:25:45,960] P dot and Q dot.
+- [00:25:47,400 - 00:25:47,840] Okay.
+- [00:25:49,660 - 00:25:50,100] Now,
+- [00:25:50,100 - 00:25:52,700] the question I want to ask about this fluid
+- [00:25:53,280 - 00:25:55,180] is whether it's compressible or not.
+- [00:25:55,180 - 00:25:57,600] Whether it's compressible or not.
+- [00:25:57,660 - 00:25:57,780] Now,
+- [00:25:57,780 - 00:25:58,780] what does compressible mean?
+- [00:25:58,880 - 00:26:00,000] I'll tell you what compressible means
+- [00:26:00,000 - 00:26:04,160] by starting with an example of a one-dimensional example.
+- [00:26:08,120 - 00:26:09,480] Supposing I have a fluid,
+- [00:26:11,700 - 00:26:13,740] which is a one-dimensional fluid.
+- [00:26:14,000 - 00:26:14,600] In other words,
+- [00:26:14,600 - 00:26:16,280] it's just a collection of points
+- [00:26:17,100 - 00:26:19,000] moving along one-dimensional axis.
+- [00:26:21,140 - 00:26:22,360] The fluid moves,
+- [00:26:22,360 - 00:26:24,620] and what I want to know is
+- [00:26:24,620 - 00:26:25,160] what is the velocity?
+- [00:26:25,180 - 00:26:25,400] Well,
+- [00:26:25,400 - 00:26:27,160] the velocity is whether the points of the fluid
+- [00:26:27,160 - 00:26:30,120] get squeezed together and spread apart.
+- [00:26:30,900 - 00:26:31,800] In other words,
+- [00:26:31,800 - 00:26:33,020] whether the fluid is compressible.
+- [00:26:33,360 - 00:26:35,940] If the fluid is strictly incompressible,
+- [00:26:37,020 - 00:26:38,980] that means it has a constant density.
+- [00:26:39,140 - 00:26:40,900] You cannot change the
+- [00:26:40,900 - 00:26:42,660] distance between neighboring particles.
+- [00:26:43,040 - 00:26:43,880] For example,
+- [00:26:43,880 - 00:26:45,740] if the particles were little billiard balls,
+- [00:26:45,860 - 00:26:46,040] well,
+- [00:26:46,040 - 00:26:48,840] a one-dimensional billiard ball is a little weird,
+- [00:26:48,940 - 00:26:51,320] but one-dimensional little billiard balls,
+- [00:26:51,480 - 00:26:53,700] and they were up against each other,
+- [00:26:53,700 - 00:26:55,240] and there was no room between them,
+- [00:26:55,320 - 00:26:56,660] then you couldn't compress the fluid,
+- [00:26:56,820 - 00:26:58,690] and let's assume you also
+- [00:26:58,690 - 00:27:00,560] can't stretch the distance between them.
+- [00:27:00,960 - 00:27:03,560] Then we would call that an incompressible fluid.
+- [00:27:04,460 - 00:27:04,740] Now,
+- [00:27:04,740 - 00:27:05,920] an incompressible fluid,
+- [00:27:05,920 - 00:27:07,620] if we take the velocity field,
+- [00:27:07,920 - 00:27:09,860] at every point there's a velocity,
+- [00:27:10,900 - 00:27:13,760] and the velocity depends only on where you are.
+- [00:27:15,000 - 00:27:17,010] Is it possible that the
+- [00:27:17,010 - 00:27:19,020] velocity could vary along this axis?
+- [00:27:19,780 - 00:27:20,340] Well,
+- [00:27:20,340 - 00:27:22,940] if the velocity varied along this axis,
+- [00:27:22,940 - 00:27:24,420] I think it's pretty apparent.
+- [00:27:24,680 - 00:27:25,660] For example,
+- [00:27:25,660 - 00:27:28,920] supposing the velocity was relatively small over here,
+- [00:27:29,100 - 00:27:31,340] and then jumped to something big out here.
+- [00:27:33,220 - 00:27:35,470] It's pretty clear that in the
+- [00:27:35,470 - 00:27:37,720] region where the jump took place,
+- [00:27:38,020 - 00:27:40,040] the points would have to be spreading apart.
+- [00:27:41,220 - 00:27:41,860] Okay?
+- [00:27:42,140 - 00:27:44,020] The points would have to be spreading apart.
+- [00:27:44,320 - 00:27:46,840] So the only way to have
+- [00:27:46,840 - 00:27:49,360] an incompressible fluid in one dimension
+- [00:27:49,940 - 00:27:52,920] is for the velocity to be absolutely constant,
+- [00:27:52,940 - 00:27:55,840] and independent of where you are.
+- [00:27:56,400 - 00:27:58,420] It could depend on time,
+- [00:27:58,500 - 00:28:00,370] but we're assuming explicitly that
+- [00:28:00,370 - 00:28:02,240] the Hamiltonian doesn't depend on time.
+- [00:28:02,560 - 00:28:08,440] And so an incompressible fluid would be one
+- [00:28:08,440 - 00:28:11,940] for which the velocity vector had to be absolutely constant.
+- [00:28:13,900 - 00:28:18,020] So one aspect of the incompressibility,
+- [00:28:19,060 - 00:28:21,110] one aspect of the incompressibility
+- [00:28:22,140 - 00:28:22,920] is that the velocity vector
+- [00:28:22,940 - 00:28:23,160] is not going to be consistent with the velocity vector.
+- [00:28:23,160 - 00:28:23,610] So what we're trying to
+- [00:28:23,610 - 00:28:24,060] do is that if we look
+- [00:28:24,780 - 00:28:27,060] at a little segment of the fluid here,
+- [00:28:28,440 - 00:28:32,660] as much stuff comes in here as goes out here.
+- [00:28:33,580 - 00:28:36,320] The number of molecules that come in from here
+- [00:28:36,320 - 00:28:37,600] has to be the same as the
+- [00:28:37,600 - 00:28:38,880] number of molecules that go out here.
+- [00:28:38,960 - 00:28:39,420] Or better yet,
+- [00:28:39,580 - 00:28:41,500] the volume of a fluid
+- [00:28:41,500 - 00:28:43,420] in a small amount of time
+- [00:28:44,020 - 00:28:47,220] that passes into this little region here
+- [00:28:47,220 - 00:28:49,720] had better be the same volume of fluid
+- [00:29:01,540 - 00:29:02,760] that passes into this little region here.
+- [00:29:04,760 - 00:29:08,860] So that's the first aspect of the incompressibility.
+- [00:29:09,380 - 00:29:10,560] The second aspect is that
+- [00:29:10,560 - 00:29:10,920] the velocity vector is going to be
+- [00:29:10,920 - 00:29:16,460] that passes into this little region here.
+- [00:29:17,260 - 00:29:17,860] And so what we're trying to do is
+- [00:29:17,860 - 00:29:19,000] to make sure that the velocity vector
+- [00:29:19,000 - 00:29:20,120] is consistent with the velocity vector.
+- [00:29:20,380 - 00:29:22,920] So that's the first aspect.
+- [00:29:22,920 - 00:29:23,080] The third aspect is that
+- [00:29:23,080 - 00:29:23,400] to get the same statement of it,
+- [00:29:23,820 - 00:29:25,760] or we can stick with a body,
+- [00:29:25,780 - 00:29:26,760] a piece of the fluid,
+- [00:29:26,800 - 00:29:28,260] and follow the piece of the fluid.
+- [00:29:28,800 - 00:29:50,920] And then to say it's incompressible
+- [00:29:50,920 - 00:29:52,010] to think about it is
+- [00:29:52,010 - 00:29:53,100] to stay fixed in the space,
+- [00:29:53,100 - 00:29:54,580] not move with the fluid,
+- [00:29:54,580 - 00:29:55,660] watch the
+- [00:29:55,660 - 00:29:56,820] fluid move past you,
+- [00:29:56,820 - 00:29:58,440] and say as much must come
+- [00:29:58,440 - 00:30:00,060] in here as goes out here.
+- [00:30:00,060 - 00:30:01,380] Both of those,
+- [00:30:01,480 - 00:30:02,620] they're equivalent statements,
+- [00:30:02,620 - 00:30:05,280] and to summarize them,
+- [00:30:05,280 - 00:30:06,800] the fluid is incompressible.
+- [00:30:06,800 - 00:30:07,940] But what
+- [00:30:07,940 - 00:30:09,820] is the condition for incompressibility?
+- [00:30:09,820 - 00:30:13,320] It's that the velocity has to be uniform right
+- [00:30:13,320 - 00:30:14,380] across this line.
+- [00:30:14,380 - 00:30:16,740] Or another way to write it
+- [00:30:16,740 - 00:30:19,100] is that the derivative of the velocity
+- [00:30:19,100 - 00:30:19,380] vector,
+- [00:30:19,380 - 00:30:23,240] let's call it the velocity vector,
+- [00:30:23,240 - 00:30:25,720] with respect to x,
+- [00:30:25,720 - 00:30:26,460] this is x,
+- [00:30:26,460 - 00:30:27,700] must be 0.
+- [00:30:27,700 - 00:30:31,020] What
+- [00:30:31,020 - 00:30:34,740] happens if the velocity vector,
+- [00:30:34,740 - 00:30:35,800] if the vdx,
+- [00:30:35,800 - 00:30:36,400] is positive?
+- [00:30:36,400 - 00:30:37,520] Let's just think about that for
+- [00:30:37,520 - 00:30:37,840] a moment.
+- [00:30:37,840 - 00:30:40,360] If the vdx is positive,
+- [00:30:40,360 - 00:30:44,120] that will mean that as you go to the right,
+- [00:30:44,120 - 00:30:45,280] the velocities
+- [00:30:45,280 - 00:30:46,340] are getting bigger and bigger.
+- [00:30:48,380 - 00:30:49,080] I would say,
+- [00:30:49,080 - 00:30:49,080] I want you to come up here.
+- [00:30:49,080 - 00:30:49,080] I want you to come up here,
+- [00:30:49,080 - 00:30:49,080] and I want you to
+- [00:30:49,080 - 00:30:50,320] say that's decompressing,
+- [00:30:50,320 - 00:30:51,620] the fluid is stretching out.
+- [00:30:51,620 - 00:30:54,200] So if dv dx is positive,
+- [00:30:54,200 - 00:30:55,160] it sounds like
+- [00:30:55,160 - 00:31:01,000] it's the opposite of compression.
+- [00:31:01,000 - 00:31:03,580] And if dv dx is negative,
+- [00:31:03,580 - 00:31:05,860] that means that the velocity
+- [00:31:05,860 - 00:31:07,120] over here is large,
+- [00:31:07,120 - 00:31:08,040] smaller,
+- [00:31:08,040 - 00:31:09,140] smaller,
+- [00:31:09,140 - 00:31:09,720] smaller,
+- [00:31:09,720 - 00:31:12,760] and maybe even turning negative and going
+- [00:31:12,760 - 00:31:14,760] the other way if the dv dx is negative.
+- [00:31:14,760 - 00:31:19,060] That's clear that's a compressional kind of situation.
+- [00:31:20,060 - 00:31:25,100] dv dx being zero is the incompressible fluid.
+- [00:31:25,100 - 00:31:26,480] Alright,
+- [00:31:26,480 - 00:31:27,860] now we're going to need the concept
+- [00:31:27,860 - 00:31:30,600] of an incompressible fluid for higher dimensions.
+- [00:31:30,600 - 00:31:32,920] One dimension will not be enough for us,
+- [00:31:32,920 - 00:31:33,640] so
+- [00:31:33,640 - 00:31:36,760] supposing we have a fluid in,
+- [00:31:36,760 - 00:31:38,060] well,
+- [00:31:38,060 - 00:31:39,300] let's begin with three,
+- [00:31:39,300 - 00:31:39,760] oh,
+- [00:31:39,760 - 00:31:40,860] let's begin with two dimensions.
+- [00:31:41,860 - 00:31:42,740] We have a fluid and 2ca in r.
+- [00:31:42,740 - 00:31:42,740] You won't get any mike,
+- [00:31:42,740 - 00:31:42,740] I'm not saying that,
+- [00:31:42,740 - 00:31:42,740] but you do,
+- [00:31:42,740 - 00:31:43,500] fluid in two dimensions,
+- [00:31:43,500 - 00:31:49,140] and either we can follow the fluid,
+- [00:31:49,140 - 00:31:51,720] take a little box in the
+- [00:31:51,720 - 00:31:52,000] fluid,
+- [00:31:52,000 - 00:31:53,760] follow it for a period of time,
+- [00:31:53,760 - 00:31:55,700] its shape might change,
+- [00:31:55,700 - 00:31:56,540] I don't know what it does,
+- [00:31:56,640 - 00:31:57,720] but if it's incompressible,
+- [00:31:57,720 - 00:31:59,000] the volume,
+- [00:31:59,000 - 00:32:00,350] or in this case the
+- [00:32:00,350 - 00:32:01,700] area of that piece of fluid
+- [00:32:01,700 - 00:32:02,600] will stay the same,
+- [00:32:02,600 - 00:32:04,760] or we can focus,
+- [00:32:04,760 - 00:32:08,080] we can stand still and focus on a box here,
+- [00:32:08,080 - 00:32:08,960] and the
+- [00:32:08,960 - 00:32:13,640] condition of incompressibility is that as much fluid,
+- [00:32:13,640 - 00:32:15,260] volume of fluid,
+- [00:32:15,260 - 00:32:17,060] flows into this
+- [00:32:17,060 - 00:32:19,980] region in a small interval of time as flows out.
+- [00:32:19,980 - 00:32:21,280] For example,
+- [00:32:21,280 - 00:32:22,340] it might be flowing in over
+- [00:32:22,340 - 00:32:22,680] here,
+- [00:32:22,680 - 00:32:26,840] and flowing out over here,
+- [00:32:26,840 - 00:32:29,040] might even be flowing in over here,
+- [00:32:29,040 - 00:32:30,040] but then it better
+- [00:32:30,040 - 00:32:30,980] flow out over here,
+- [00:32:30,980 - 00:32:32,260] and so forth.
+- [00:32:32,260 - 00:32:37,120] That as much flows in as flows out.
+- [00:32:38,260 - 00:32:38,820] Now,
+- [00:32:38,820 - 00:32:41,900] I'm not going to work out the mathematics of this,
+- [00:32:41,980 - 00:32:43,480] probably many of know it,
+- [00:32:43,480 - 00:32:46,080] but I'll just tell you what the answer is.
+- [00:32:46,780 - 00:32:47,780] Supposing we have,
+- [00:32:47,780 - 00:32:49,020] in two dimensions here,
+- [00:32:49,020 - 00:32:52,560] a flow vector which is Vx and Vy.
+- [00:32:53,300 - 00:32:55,200] These are the components of the move vector,
+- [00:32:55,200 - 00:32:56,880] they depend on where you are,
+- [00:32:56,880 - 00:32:58,100] x and y.
+- [00:33:00,640 - 00:33:03,470] What is the condition that fluid
+- [00:33:03,470 - 00:33:06,300] does not build up in this region?
+- [00:33:07,180 - 00:33:07,740] So,
+- [00:33:07,740 - 00:33:08,800] first of all let's go back,
+- [00:33:08,800 - 00:33:11,080] back to what we said before for the one-dimensional case.
+- [00:33:11,080 - 00:33:16,260] If the fluid velocity is varying across
+- [00:33:16,260 - 00:33:17,600] the x-axis here,
+- [00:33:17,600 - 00:33:18,660] that's bad.
+- [00:33:18,660 - 00:33:20,440] It means it's either compressing,
+- [00:33:20,440 - 00:33:21,700] more fluid is coming in
+- [00:33:21,700 - 00:33:23,220] one side than going out the other.
+- [00:33:23,220 - 00:33:28,380] So we said that dv by dx better be zero.
+- [00:33:28,380 - 00:33:30,160] But it's pretty
+- [00:33:30,160 - 00:33:31,700] clear that dv by dx,
+- [00:33:31,700 - 00:33:33,920] let's write the partial derivative
+- [00:33:33,920 - 00:33:36,140] since we're now in multiple dimensions.
+- [00:33:36,140 - 00:33:39,340] The partial derivative of the velocity,
+- [00:33:39,340 - 00:33:43,720] and in particular the x component of the velocity,
+- [00:33:43,980 - 00:33:46,290] this is how the x component of
+- [00:33:46,290 - 00:33:48,600] velocity is varying as you change x.
+- [00:33:48,600 - 00:33:50,940] So if the x component
+- [00:33:50,940 - 00:33:53,120] of velocity is small here and big here,
+- [00:33:53,120 - 00:33:54,980] then the fluid is stretching.
+- [00:33:54,980 - 00:33:57,380] That's some measure
+- [00:33:57,380 - 00:34:00,380] of how much the fluid is stretching in this direction.
+- [00:34:00,380 - 00:34:03,240] But all we're interested in is
+- [00:34:03,240 - 00:34:04,060] following the volume.
+- [00:34:04,720 - 00:34:06,120] If the fluid is stretching in this direction,
+- [00:34:06,120 - 00:34:06,120] then the fluid is stretching in this direction.
+- [00:34:06,140 - 00:34:07,100] If it's stretching in that direction,
+- [00:34:07,100 - 00:34:10,560] that's okay as long as it's compressing in the other
+- [00:34:10,560 - 00:34:10,980] direction.
+- [00:34:10,980 - 00:34:16,260] If it's stretching itself out in this direction,
+- [00:34:16,260 - 00:34:18,340] it can still maintain its
+- [00:34:18,340 - 00:34:22,100] volume and still not be compressed if
+- [00:34:22,100 - 00:34:25,860] it's being compressed in the other direction.
+- [00:34:27,120 - 00:34:28,199] Phase space,
+- [00:34:28,199 - 00:34:29,800] phase space,
+- [00:34:29,800 - 00:34:30,380] phase space.
+- [00:34:30,380 - 00:34:32,820] Yes,
+- [00:34:32,820 - 00:34:33,100] yes,
+- [00:34:33,100 - 00:34:33,300] yes,
+- [00:34:33,300 - 00:34:33,500] yes,
+- [00:34:33,500 - 00:34:33,659] yes,
+- [00:34:33,659 - 00:34:34,060] absolutely.
+- [00:34:34,060 - 00:34:35,320] Absolutely.
+- [00:34:36,139 - 00:34:38,349] This is a general statement about
+- [00:34:38,349 - 00:34:40,560] a fluid in any number of dimensions,
+- [00:34:40,560 - 00:34:42,380] that the condition
+- [00:34:42,380 - 00:34:45,489] that it's incompressible is not that the derivative
+- [00:34:45,489 - 00:34:48,600] of vx with respect to x is equal
+- [00:34:48,600 - 00:34:49,000] to zero,
+- [00:34:49,000 - 00:34:50,159] but that the sum of them,
+- [00:34:50,159 - 00:34:55,840] derivative of vy with respect to y plus the derivative
+- [00:34:55,840 - 00:34:59,720] of vz with respect to z is equal to zero.
+- [00:34:59,720 - 00:35:03,780] The first term measures how much compression
+- [00:35:03,780 - 00:35:05,820] there is along the x axis.
+- [00:35:06,440 - 00:35:09,380] If the x component of,
+- [00:35:09,380 - 00:35:10,280] incidentally,
+- [00:35:10,280 - 00:35:13,220] as far as the x squeezing goes,
+- [00:35:13,220 - 00:35:14,420] the y component of
+- [00:35:14,420 - 00:35:15,520] velocity doesn't matter.
+- [00:35:15,520 - 00:35:17,580] What's important is how much
+- [00:35:17,580 - 00:35:19,640] the x component of velocity is
+- [00:35:19,640 - 00:35:20,820] changing as you vary x.
+- [00:35:20,820 - 00:35:24,300] And what these stand for is
+- [00:35:24,300 - 00:35:27,780] the combined sum of the compression
+- [00:35:28,299 - 00:35:29,420] along the x axis,
+- [00:35:29,420 - 00:35:30,200] the y axis,
+- [00:35:30,200 - 00:35:31,000] and the z axis.
+- [00:35:31,000 - 00:35:33,420] Let's go,
+- [00:35:33,420 - 00:35:35,020] let's get these three coordinates
+- [00:35:35,020 - 00:35:35,320] now.
+- [00:35:36,160 - 00:35:36,600] vx,
+- [00:35:36,600 - 00:35:36,720] vz.
+- [00:35:36,720 - 00:35:40,560] And that's the condition that
+- [00:35:40,560 - 00:35:44,400] the flow of the fluid is,
+- [00:35:44,400 - 00:35:46,200] um,
+- [00:35:46,200 - 00:35:47,360] incompressible.
+- [00:35:47,800 - 00:35:48,240] Now,
+- [00:35:48,240 - 00:35:49,440] this symbol,
+- [00:35:49,440 - 00:35:50,640] or this quantity,
+- [00:35:50,640 - 00:35:53,920] the derivative of the component of a vector field,
+- [00:35:53,920 - 00:35:54,380] the x
+- [00:35:54,380 - 00:35:56,000] component of a field with respect to x,
+- [00:35:56,000 - 00:35:58,720] plus the derivative of the y component of a field
+- [00:35:58,720 - 00:35:59,480] with respect to y,
+- [00:35:59,480 - 00:36:00,760] plus,
+- [00:36:00,760 - 00:36:01,420] and so forth,
+- [00:36:01,420 - 00:36:01,980] has a name.
+- [00:36:01,980 - 00:36:04,140] Everybody know what the name of it
+- [00:36:04,140 - 00:36:04,320] is?
+- [00:36:04,680 - 00:36:05,120] Vector.
+- [00:36:05,680 - 00:36:06,120] Vector.
+- [00:36:06,140 - 00:36:07,780] divergence of the vector field.
+- [00:36:07,780 - 00:36:10,100] The divergence is a sort of
+- [00:36:10,100 - 00:36:12,420] measure of how the vector field
+- [00:36:12,420 - 00:36:14,220] is spreading out at any point.
+- [00:36:14,220 - 00:36:18,360] This is the divergence and the symbol for it,
+- [00:36:18,360 - 00:36:18,660] there's
+- [00:36:18,660 - 00:36:21,640] a symbol for it which is del dot v.
+- [00:36:21,640 - 00:36:25,080] The del stands for the derivatives,
+- [00:36:25,080 - 00:36:27,020] the v stands for
+- [00:36:27,020 - 00:36:27,800] the vector field,
+- [00:36:27,800 - 00:36:29,780] and the dot product,
+- [00:36:29,780 - 00:36:34,640] it looks like it's a dot product between a del
+- [00:36:34,640 - 00:36:36,640] symbol and the v symbol,
+- [00:36:36,640 - 00:36:37,300] but it doesn't matter.
+- [00:36:37,300 - 00:36:38,100] This is what it is.
+- [00:36:38,100 - 00:36:39,660] This is what it is,
+- [00:36:39,660 - 00:36:39,820] the
+- [00:36:39,820 - 00:36:45,130] sum of the various components of the
+- [00:36:45,130 - 00:36:50,440] velocity field with respect to the same coordinate.
+- [00:36:51,600 - 00:36:53,780] It's called the divergence of the flow.
+- [00:36:53,780 - 00:36:58,300] It's the spreading out,
+- [00:36:58,300 - 00:37:01,240] or the compression.
+- [00:37:01,240 - 00:37:02,880] Now
+- [00:37:02,880 - 00:37:03,140] having
+- [00:37:03,140 - 00:37:03,520] the
+- [00:37:03,520 - 00:37:03,520] ,
+- [00:37:03,520 - 00:37:08,000] talked about this flow,
+- [00:37:08,000 - 00:37:09,500] and as I said,
+- [00:37:09,500 - 00:37:13,060] it's an equivalent question to ask if you
+- [00:37:13,060 - 00:37:16,780] stand at a point and require that the
+- [00:37:16,780 - 00:37:20,500] total volume of fluid that flows into that region
+- [00:37:21,240 - 00:37:23,080] is the same as the amount that flows out,
+- [00:37:23,080 - 00:37:25,800] that's equivalent to following the fluid and
+- [00:37:25,800 - 00:37:27,260] saying that in a chunk of fluid,
+- [00:37:27,260 - 00:37:28,680] the volume doesn't change.
+- [00:37:28,680 - 00:37:30,060] They're equivalent statements.
+- [00:37:31,360 - 00:37:31,960] Okay.
+- [00:37:32,240 - 00:37:32,870] Let's abandon the idea of the
+- [00:37:32,870 - 00:37:33,500] del and the v and the dot.
+- [00:37:33,500 - 00:37:33,500] Let's abandon the idea of the
+- [00:37:33,500 - 00:37:33,520] del and the v and the dot.
+- [00:37:33,520 - 00:37:35,520] Let's abandon this whole line of thought for
+- [00:37:35,520 - 00:37:37,520] a moment and return to the very first lecture.
+- [00:37:40,140 - 00:37:41,880] And remember what we said.
+- [00:37:41,880 - 00:37:45,020] We had some kind of system,
+- [00:37:45,020 - 00:37:47,570] which was characterized by some
+- [00:37:47,570 - 00:37:50,120] sort of space of configurations.
+- [00:37:51,440 - 00:37:52,860] Let's put another one over here.
+- [00:37:52,860 - 00:37:57,360] That's a die with seven faces.
+- [00:37:57,360 - 00:37:58,180] One,
+- [00:37:58,180 - 00:37:58,580] two,
+- [00:37:58,580 - 00:37:59,360] three,
+- [00:37:59,360 - 00:37:59,720] four,
+- [00:37:59,720 - 00:38:00,060] five,
+- [00:38:00,060 - 00:38:00,300] six,
+- [00:38:00,300 - 00:38:00,620] seven.
+- [00:38:00,620 - 00:38:01,220] Yeah.
+- [00:38:02,460 - 00:38:03,420] And we drew some
+- [00:38:03,420 - 00:38:05,700] some arrows to indicate how the system moved.
+- [00:38:05,700 - 00:38:08,300] The arrows are in some sense very,
+- [00:38:08,300 - 00:38:08,940] very similar
+- [00:38:08,940 - 00:38:11,320] to this idea of a flow in phase space.
+- [00:38:11,320 - 00:38:14,280] They're telling you where to go next,
+- [00:38:14,280 - 00:38:14,960] is what they're
+- [00:38:14,960 - 00:38:15,200] doing.
+- [00:38:15,200 - 00:38:20,280] We gave some examples of good laws of physics.
+- [00:38:20,280 - 00:38:21,920] I'm not going to draw a good law
+- [00:38:21,920 - 00:38:22,300] of physics,
+- [00:38:22,300 - 00:38:25,180] but what is true of a good
+- [00:38:25,180 - 00:38:28,060] law of physics is that at every point,
+- [00:38:28,060 - 00:38:28,940] what flows
+- [00:38:28,940 - 00:38:31,020] in must flow out.
+- [00:38:31,020 - 00:38:33,760] That every point has an arrow
+- [00:38:33,760 - 00:38:36,500] coming in and an arrow going out.
+- [00:38:36,500 - 00:38:37,620] That
+- [00:38:39,020 - 00:38:40,340] if you're at this point,
+- [00:38:40,340 - 00:38:42,620] you know where you'll be next,
+- [00:38:42,620 - 00:38:44,980] and you also know where you were
+- [00:38:44,980 - 00:38:45,680] just before,
+- [00:38:45,680 - 00:38:46,960] unambiguously.
+- [00:38:46,960 - 00:38:48,640] Well,
+- [00:38:48,640 - 00:38:55,700] that's somehow saying something that sounds a little bit
+- [00:38:55,700 - 00:38:56,040] related.
+- [00:38:56,040 - 00:38:57,800] If I take a little box around here,
+- [00:38:57,800 - 00:38:58,740] as much
+- [00:38:58,740 - 00:38:58,920] flow as I can.
+- [00:38:58,940 - 00:39:00,160] It flows in as flows out.
+- [00:39:00,160 - 00:39:02,700] One arrow in,
+- [00:39:02,700 - 00:39:03,780] one arrow out.
+- [00:39:03,780 - 00:39:07,960] We could even do something more
+- [00:39:07,960 - 00:39:08,080] common.
+- [00:39:08,080 - 00:39:11,600] Let's go to the six-sided case for a moment.
+- [00:39:11,600 - 00:39:14,820] We had laws of physics,
+- [00:39:14,820 - 00:39:15,380] for example,
+- [00:39:15,380 - 00:39:16,320] which looked like this.
+- [00:39:16,320 - 00:39:19,400] That was a particularly simple one.
+- [00:39:19,400 - 00:39:22,180] We could take a couple of points,
+- [00:39:22,300 - 00:39:23,680] and we could follow them.
+- [00:39:23,680 - 00:39:25,840] Two points to two points.
+- [00:39:25,840 - 00:39:27,800] They move around on the cycle here.
+- [00:39:27,940 - 00:39:28,920] Two points to two points.
+- [00:39:28,920 - 00:39:28,920] Two points to two points.
+- [00:39:28,920 - 00:39:28,920] Two points to two points.
+- [00:39:28,920 - 00:39:28,920] Two points
+- [00:39:28,920 - 00:39:29,400] to two points.
+- [00:39:29,400 - 00:39:29,840] Two points to two points.
+- [00:39:29,840 - 00:39:30,640] The number of points,
+- [00:39:30,640 - 00:39:31,860] if I start with two
+- [00:39:31,860 - 00:39:32,820] points and follow them,
+- [00:39:32,820 - 00:39:34,000] they stay two points.
+- [00:39:34,000 - 00:39:37,020] They stay two points.
+- [00:39:37,020 - 00:39:38,260] So in some sense,
+- [00:39:38,260 - 00:39:38,380] if
+- [00:39:38,380 - 00:39:39,370] we thought of the number of
+- [00:39:39,370 - 00:39:40,360] points as a kind of volume,
+- [00:39:40,360 - 00:39:43,440] the volume is conserved if we follow
+- [00:39:43,440 - 00:39:45,660] the system around here.
+- [00:39:45,660 - 00:39:47,260] Or we could say it the other way.
+- [00:39:47,260 - 00:39:49,260] If we focus on a particular
+- [00:39:50,379 - 00:39:51,180] node here,
+- [00:39:51,180 - 00:39:54,130] the number of arrows in is the
+- [00:39:54,130 - 00:39:57,080] same as the number of arrows out.
+- [00:39:57,080 - 00:39:58,220] By contrast,
+- [00:39:58,220 - 00:39:59,220] there are some bad laws.
+- [00:39:59,220 - 00:40:00,200] Here's a bad law.
+- [00:40:00,200 - 00:40:02,780] No matter where you start,
+- [00:40:02,780 - 00:40:03,620] you go to the central
+- [00:40:03,620 - 00:40:04,080] point.
+- [00:40:04,080 - 00:40:08,420] No matter where you start,
+- [00:40:08,420 - 00:40:09,540] you go to the central point.
+- [00:40:09,540 - 00:40:10,680] That's an irreversible
+- [00:40:10,680 - 00:40:10,980] law.
+- [00:40:10,980 - 00:40:13,400] You may know where to go next,
+- [00:40:13,400 - 00:40:14,320] wherever you start,
+- [00:40:14,320 - 00:40:16,560] but if you find yourself over here,
+- [00:40:16,640 - 00:40:17,880] you don't know where you came from.
+- [00:40:17,880 - 00:40:22,640] If I draw a box around here,
+- [00:40:22,640 - 00:40:25,300] I notice that it's not
+- [00:40:25,300 - 00:40:28,200] true that as many arrows come in.
+- [00:40:28,220 - 00:40:28,760] As many arrows come in as go out.
+- [00:40:28,760 - 00:40:32,460] More arrows come in than go out.
+- [00:40:32,460 - 00:40:35,460] That's the nature of
+- [00:40:35,460 - 00:40:36,460] an irreversible law.
+- [00:40:36,460 - 00:40:44,160] So it almost sounds like in this discrete,
+- [00:40:44,160 - 00:40:48,300] simple-minded six-state
+- [00:40:48,300 - 00:40:50,220] system or ten-state system,
+- [00:40:50,220 - 00:40:51,000] this one has seven,
+- [00:40:51,000 - 00:40:52,020] whatever it happens to be,
+- [00:40:52,020 - 00:40:55,100] that the law of
+- [00:40:55,100 - 00:40:56,650] reversibility sounds almost like something that's
+- [00:40:56,650 - 00:40:58,200] going to be in the system.
+- [00:40:58,220 - 00:40:58,240] It's just a simple law.
+- [00:40:58,240 - 00:41:00,060] So it's like saying that the fluid is incompressible.
+- [00:41:00,060 - 00:41:02,020] And in fact,
+- [00:41:02,020 - 00:41:03,820] if the fluid is incompressible,
+- [00:41:04,480 - 00:41:06,420] that sort of means that,
+- [00:41:06,420 - 00:41:07,060] well,
+- [00:41:07,060 - 00:41:11,080] it means something like this.
+- [00:41:11,080 - 00:41:13,560] It means a continuous version of
+- [00:41:13,560 - 00:41:14,420] the same idea,
+- [00:41:14,420 - 00:41:15,960] as much in as out.
+- [00:41:17,400 - 00:41:19,640] So the question then is,
+- [00:41:19,640 - 00:41:23,740] is the flow of the fluid
+- [00:41:23,740 - 00:41:27,840] in phase space dictated by Hamilton's
+- [00:41:28,220 - 00:41:28,420] equations,
+- [00:41:28,420 - 00:41:33,200] is it such that it's incompressible?
+- [00:41:34,640 - 00:41:36,160] Another way of saying it is
+- [00:41:36,160 - 00:41:37,680] if you start with a volume of,
+- [00:41:37,680 - 00:41:39,140] in phase space,
+- [00:41:39,140 - 00:41:39,900] a little volume
+- [00:41:39,900 - 00:41:41,720] of phase space and follow it in time,
+- [00:41:41,720 - 00:41:44,640] does it occupy the same volume afterwards?
+- [00:41:44,640 - 00:41:46,780] Or does
+- [00:41:46,780 - 00:41:49,420] it have an effect of getting squinched
+- [00:41:49,420 - 00:41:52,060] up so that things which were clearly distinguishable
+- [00:41:52,060 - 00:41:54,240] and different from each other get squished into
+- [00:41:54,240 - 00:41:56,420] a smaller region where they can be less
+- [00:41:56,420 - 00:41:56,940] distinguished?
+- [00:41:58,400 - 00:41:59,240] That's the question.
+- [00:41:59,240 - 00:42:01,580] So I'm going to show you now is Leoville's theorem.
+- [00:42:01,580 - 00:42:02,480] Leoville's
+- [00:42:02,480 - 00:42:05,030] theorem is the theorem that says that
+- [00:42:05,030 - 00:42:07,580] the flow in phase space is incompressible.
+- [00:42:07,580 - 00:42:09,280] And
+- [00:42:09,280 - 00:42:10,780] it's the closest thing that we have,
+- [00:42:10,780 - 00:42:14,740] closest analog that we have to this idea that,
+- [00:42:14,740 - 00:42:15,460] well,
+- [00:42:16,640 - 00:42:18,590] this idea that as many points come
+- [00:42:18,590 - 00:42:20,540] in as go out of every point here.
+- [00:42:20,960 - 00:42:22,100] Just to clarify,
+- [00:42:22,100 - 00:42:24,740] are the V's are P dot and Q dot?
+- [00:42:25,000 - 00:42:25,340] Yes,
+- [00:42:25,340 - 00:42:26,740] the V's are P dots and Q dots.
+- [00:42:26,940 - 00:42:27,300] Right.
+- [00:42:28,220 - 00:42:29,150] So we line up all
+- [00:42:29,150 - 00:42:30,080] the P dots and Q dots.
+- [00:42:30,080 - 00:42:34,200] Let's think of our velocity vector.
+- [00:42:34,200 - 00:42:35,640] Well,
+- [00:42:35,640 - 00:42:36,220] I'll tell
+- [00:42:36,220 - 00:42:36,440] you what,
+- [00:42:36,440 - 00:42:37,890] let's start with just the case
+- [00:42:37,890 - 00:42:39,340] with one P and one Q,
+- [00:42:39,340 - 00:42:42,220] and then generalize it to
+- [00:42:42,220 - 00:42:43,520] any number of P's and Q's.
+- [00:42:43,520 - 00:42:47,500] So we have one P and one Q,
+- [00:42:47,500 - 00:42:52,700] Q and P.
+- [00:42:52,700 - 00:42:55,740] And what is the velocity
+- [00:42:55,740 - 00:42:56,900] vector at every point?
+- [00:42:56,900 - 00:42:57,920] The velocity vector?
+- [00:42:57,920 - 00:42:58,200] Let's call it the velocity vector.
+- [00:42:58,200 - 00:42:58,200] Let's call
+- [00:42:58,220 - 00:43:00,600] it V sub P and V sub Q.
+- [00:43:00,600 - 00:43:03,920] These are the components of the velocity vector.
+- [00:43:03,920 - 00:43:05,360] And by definition,
+- [00:43:05,940 - 00:43:08,280] V P is P dot
+- [00:43:08,280 - 00:43:10,620] and V Q is Q dot.
+- [00:43:10,620 - 00:43:13,140] Okay?
+- [00:43:13,140 - 00:43:16,540] So this phase space here
+- [00:43:16,540 - 00:43:19,940] is filled up with a velocity
+- [00:43:19,940 - 00:43:22,860] flow where the components are P dot and Q dot.
+- [00:43:22,860 - 00:43:25,640] Now let's calculate the divergence of
+- [00:43:25,640 - 00:43:25,980] the flow.
+- [00:43:26,759 - 00:43:31,099] The divergence of the flow is the derivative of
+- [00:43:31,099 - 00:43:35,440] V P with respect to P plus the derivative
+- [00:43:35,440 - 00:43:37,740] of V Q with respect to Q.
+- [00:43:37,740 - 00:43:39,820] If you like,
+- [00:43:39,820 - 00:43:41,460] this one is telling us
+- [00:43:41,460 - 00:43:43,100] how much the fluid is bunching
+- [00:43:43,100 - 00:43:44,980] up along the P X in the P direction,
+- [00:43:44,980 - 00:43:46,590] and the other one is
+- [00:43:46,590 - 00:43:48,200] telling us how much the fluid
+- [00:43:48,200 - 00:43:50,440] is bunching up in the other direction.
+- [00:43:50,440 - 00:43:53,420] If it's incompressible,
+- [00:43:53,420 - 00:43:54,780] the sum of these should
+- [00:43:54,780 - 00:43:55,180] be zero.
+- [00:43:56,240 - 00:43:56,720] Okay.
+- [00:43:56,720 - 00:43:59,900] Now we can work it out.
+- [00:43:59,900 - 00:44:01,940] What is V P?
+- [00:44:01,940 - 00:44:03,560] V P is P dot.
+- [00:44:03,560 - 00:44:06,100] But that's minus the derivative
+- [00:44:06,100 - 00:44:07,980] of H with respect to Q,
+- [00:44:07,980 - 00:44:08,320] right?
+- [00:44:08,320 - 00:44:12,700] Hamilton's first equation.
+- [00:44:12,700 - 00:44:17,700] And Q dot is equal to plus
+- [00:44:17,700 - 00:44:18,880] the H by DP.
+- [00:44:18,880 - 00:44:22,480] So you just calculate them,
+- [00:44:22,480 - 00:44:23,400] whatever they happen to be.
+- [00:44:23,400 - 00:44:24,400] You calculate them,
+- [00:44:24,400 - 00:44:24,560] their
+- [00:44:24,560 - 00:44:25,700] functions of P and Q.
+- [00:44:25,980 - 00:44:28,320] and they give you the components of
+- [00:44:28,320 - 00:44:30,660] the velocity vector in the phase space.
+- [00:44:31,960 - 00:44:32,560] Okay?
+- [00:44:33,400 - 00:44:34,320] Any questions?
+- [00:44:36,700 - 00:44:37,300] Good.
+- [00:44:37,660 - 00:44:39,260] Now all we have to do is calculate.
+- [00:44:40,120 - 00:44:42,440] The derivative of Vp with respect to P,
+- [00:44:43,100 - 00:44:44,800] here's Vp right over here.
+- [00:44:45,080 - 00:44:53,020] This is minus d by dP of dH by dQ.
+- [00:44:56,440 - 00:44:58,100] And what's this one over here?
+- [00:44:58,180 - 00:45:05,720] This is plus d by dQ of dH by dP.
+- [00:45:05,880 - 00:45:06,100] Okay.
+- [00:45:12,720 - 00:45:15,530] I think we must have mentioned
+- [00:45:15,530 - 00:45:18,340] at some point about partial derivatives
+- [00:45:18,340 - 00:45:21,570] that the process of partial derivatives is
+- [00:45:21,570 - 00:45:24,800] independent of the order of the differentiation.
+- [00:45:27,560 - 00:45:28,520] I think we,
+- [00:45:28,520 - 00:45:31,080] I hope we mentioned that because if we didn't,
+- [00:45:31,080 - 00:45:32,780] we'll mention it now.
+- [00:45:33,320 - 00:45:36,020] If you have the second derivative of
+- [00:45:36,020 - 00:45:38,720] a function with respect to two independent variables,
+- [00:45:39,240 - 00:45:42,420] it doesn't matter which order you differentiate.
+- [00:45:42,980 - 00:45:44,000] That's a little theorem.
+- [00:45:44,400 - 00:45:45,800] It's a very simple theorem.
+- [00:45:45,900 - 00:45:48,080] I can show you on the blackboard why it's true.
+- [00:45:48,940 - 00:45:50,760] But I think we've,
+- [00:45:50,760 - 00:45:52,420] did we do this in class?
+- [00:45:53,240 - 00:45:53,840] Never?
+- [00:45:54,540 - 00:45:55,040] Hmm?
+- [00:45:57,620 - 00:45:58,040] Oh,
+- [00:45:58,040 - 00:45:58,740] we didn't.
+- [00:46:00,859 - 00:46:01,700] It's clear?
+- [00:46:02,980 - 00:46:03,540] All right,
+- [00:46:03,540 - 00:46:04,100] get up and prove it.
+- [00:46:17,400 - 00:46:18,200] Let's prove it.
+- [00:46:18,620 - 00:46:19,380] Let's prove it.
+- [00:46:21,000 - 00:46:22,660] Let's label four points here.
+- [00:46:22,740 - 00:46:22,880] A,
+- [00:46:22,880 - 00:46:23,640] B,
+- [00:46:23,640 - 00:46:24,560] C,
+- [00:46:24,560 - 00:46:25,200] D.
+- [00:46:25,360 - 00:46:25,960] And we have a whole bunch of them.
+- [00:46:25,960 - 00:46:27,220] And we have a function of the four points.
+- [00:46:28,020 - 00:46:28,540] All right.
+- [00:46:29,279 - 00:46:29,620] Let,
+- [00:46:29,620 - 00:46:33,840] and this direction is P and this direction is Q.
+- [00:46:34,440 - 00:46:34,960] All right.
+- [00:46:35,280 - 00:46:37,530] What's the derivative of the function
+- [00:46:37,530 - 00:46:39,780] with respect to Q down here?
+- [00:46:40,820 - 00:46:41,500] Well,
+- [00:46:41,500 - 00:46:43,980] let's call it VC minus VD,
+- [00:46:43,980 - 00:46:44,300] right?
+- [00:46:46,700 - 00:46:49,400] We should put a little epsilon in the denominator.
+- [00:46:49,660 - 00:46:50,240] But basically,
+- [00:46:50,240 - 00:46:55,040] the derivative of some function,
+- [00:46:55,160 - 00:46:55,940] whatever function,
+- [00:46:55,960 - 00:46:57,120] it happens to be function.
+- [00:47:00,700 - 00:47:04,730] The derivative of a function with respect to Q is
+- [00:47:04,730 - 00:47:08,760] just the derivative as you move along the Q axis.
+- [00:47:09,899 - 00:47:10,200] Okay?
+- [00:47:10,820 - 00:47:11,420] Now,
+- [00:47:11,420 - 00:47:13,820] what's the derivative with respect to Q up here?
+- [00:47:15,120 - 00:47:19,040] That's F of B minus F of A.
+- [00:47:21,420 - 00:47:22,020] Okay?
+- [00:47:24,600 - 00:47:25,320] So,
+- [00:47:25,320 - 00:47:25,700] now,
+- [00:47:25,700 - 00:47:30,180] let's consider the derivative with respect to P.
+- [00:47:30,980 - 00:47:34,800] That's differences going vertically of the
+- [00:47:34,800 - 00:47:38,620] derivative of F with respect to Q.
+- [00:47:39,940 - 00:47:41,040] D by DP.
+- [00:47:43,380 - 00:47:45,700] That's just the difference of this and this,
+- [00:47:45,700 - 00:47:46,120] right?
+- [00:47:47,800 - 00:47:49,400] It's a difference of differences.
+- [00:47:49,760 - 00:47:51,260] But the difference...
+- [00:47:51,260 - 00:47:53,060] This one tells you to move vertically.
+- [00:47:53,200 - 00:47:54,680] This one tells you to move horizontally.
+- [00:47:55,340 - 00:47:55,940] So,
+- [00:47:55,940 - 00:47:58,880] the difference between this expression and that
+- [00:47:58,880 - 00:48:01,820] expression is just this mixed derivative here.
+- [00:48:01,940 - 00:48:02,800] Let's write it down.
+- [00:48:03,700 - 00:48:09,180] F of B minus F of A
+- [00:48:09,180 - 00:48:14,660] minus F of C plus F of D.
+- [00:48:15,980 - 00:48:17,320] F sub C,
+- [00:48:17,320 - 00:48:18,580] F of D.
+- [00:48:19,660 - 00:48:21,240] This minus this.
+- [00:48:22,520 - 00:48:22,960] Okay?
+- [00:48:24,660 - 00:48:25,940] Here's another way to write it.
+- [00:48:26,240 - 00:48:30,910] It's F of B plus F of D
+- [00:48:30,910 - 00:48:35,580] minus F of A minus F of C.
+- [00:48:35,720 - 00:48:36,580] But that's neat.
+- [00:48:36,640 - 00:48:37,140] Look what it says.
+- [00:48:37,800 - 00:48:40,940] It's F of B plus F of D
+- [00:48:40,940 - 00:48:44,080] minus F of A minus F of C.
+- [00:48:44,540 - 00:48:44,980] So,
+- [00:48:44,980 - 00:48:46,940] it's this one plus this one
+- [00:48:46,940 - 00:48:48,900] minus this one minus this one.
+- [00:48:49,900 - 00:48:51,100] That's for the second derivative.
+- [00:48:51,100 - 00:48:51,240] Okay?
+- [00:48:51,240 - 00:48:54,010] This one plus this one
+- [00:48:54,010 - 00:48:56,780] minus that one plus that one.
+- [00:48:57,380 - 00:48:58,200] But now,
+- [00:48:58,200 - 00:49:00,680] think about the other order of differentiation.
+- [00:49:01,520 - 00:49:04,880] D by DQ of DF by DP.
+- [00:49:06,380 - 00:49:09,040] If you just spend one second doing it,
+- [00:49:09,040 - 00:49:09,900] doing the same thing,
+- [00:49:09,900 - 00:49:12,220] you'll find out it's exactly the same thing.
+- [00:49:12,400 - 00:49:13,520] I'm not going to work it out.
+- [00:49:14,280 - 00:49:15,500] It's the difference...
+- [00:49:15,500 - 00:49:16,700] It's the difference...
+- [00:49:17,160 - 00:49:19,600] It's the horizontal difference of the vertical differences.
+- [00:49:20,160 - 00:49:20,960] You know what I mean.
+- [00:49:21,240 - 00:49:22,780] It's exactly the same expression.
+- [00:49:23,280 - 00:49:23,760] So,
+- [00:49:23,760 - 00:49:28,660] it doesn't matter when evaluating this combination here.
+- [00:49:28,860 - 00:49:31,570] It doesn't matter whether you think of it as
+- [00:49:31,570 - 00:49:34,280] differences going this way or differences going this way.
+- [00:49:34,360 - 00:49:35,060] You know what I mean.
+- [00:49:35,200 - 00:49:37,560] This takes too many words to express it.
+- [00:49:38,520 - 00:49:39,940] This is an example here.
+- [00:49:40,460 - 00:49:43,620] The second derivative with respect to P and Q of H is the
+- [00:49:43,620 - 00:49:46,780] same as the second derivative with respect to Q and P of H.
+- [00:49:48,000 - 00:49:48,480] So,
+- [00:49:48,480 - 00:49:49,260] what's the net upshot?
+- [00:49:49,520 - 00:49:50,180] This is zero.
+- [00:49:50,740 - 00:49:51,220] Okay?
+- [00:49:54,200 - 00:49:57,180] This is Leoville's theorem.
+- [00:49:57,820 - 00:50:04,440] That the flow is without any compression or decompression.
+- [00:50:05,500 - 00:50:08,040] That the divergence of the flow vector is zero.
+- [00:50:08,240 - 00:50:10,600] And it's a consequence of Hamilton's equations.
+- [00:50:11,520 - 00:50:13,700] What it says is in this phase space,
+- [00:50:13,700 - 00:50:15,320] this two-dimensional phase space,
+- [00:50:15,320 - 00:50:19,040] as you watch the fluid flow,
+- [00:50:19,040 - 00:50:20,900] there's no buildup anywhere.
+- [00:50:20,900 - 00:50:24,320] And there's no tendency for the fluid to compress,
+- [00:50:24,320 - 00:50:25,800] to rarefy,
+- [00:50:25,800 - 00:50:27,680] or to get more dense.
+- [00:50:28,180 - 00:50:28,820] Now,
+- [00:50:28,820 - 00:50:32,820] what about any number of Q's and P's?
+- [00:50:33,220 - 00:50:34,260] No difference.
+- [00:50:34,500 - 00:50:36,120] You just put an I in here.
+- [00:50:36,620 - 00:50:37,260] I,
+- [00:50:37,260 - 00:50:37,880] I,
+- [00:50:37,880 - 00:50:38,460] I,
+- [00:50:38,460 - 00:50:39,080] I,
+- [00:50:39,080 - 00:50:40,160] I,
+- [00:50:40,160 - 00:50:40,800] I,
+- [00:50:40,800 - 00:50:41,200] I,
+- [00:50:41,200 - 00:50:41,720] I,
+- [00:50:41,720 - 00:50:42,160] I,
+- [00:50:42,160 - 00:50:42,180] I,
+- [00:50:42,180 - 00:50:42,740] I,
+- [00:50:42,740 - 00:50:43,460] I,
+- [00:50:43,460 - 00:50:43,640] I,
+- [00:50:43,640 - 00:50:44,680] I,
+- [00:50:44,680 - 00:50:44,980] I,
+- [00:50:44,980 - 00:50:45,360] I,
+- [00:50:45,360 - 00:50:45,880] I.
+- [00:50:46,260 - 00:50:47,220] Same deal.
+- [00:50:47,720 - 00:50:48,360] Exactly.
+- [00:50:48,360 - 00:50:50,470] It's just a multiple version of exactly
+- [00:50:50,470 - 00:50:52,580] the same thing with any number of dimensions.
+- [00:50:54,120 - 00:50:55,860] In each pair of directions,
+- [00:50:55,860 - 00:50:57,840] in each pair of directions,
+- [00:50:57,840 - 00:50:58,820] each Q and P,
+- [00:50:58,820 - 00:51:01,660] the flow along one axis is compensated
+- [00:51:01,660 - 00:51:04,500] by the flow along the other axis.
+- [00:51:06,360 - 00:51:09,580] The way to say it then is that if
+- [00:51:09,580 - 00:51:12,800] you take a piece of this fluid in phase space,
+- [00:51:12,800 - 00:51:14,440] a collection of points,
+- [00:51:14,440 - 00:51:15,360] and you either,
+- [00:51:15,360 - 00:51:16,460] two ways to say it,
+- [00:51:16,460 - 00:51:16,880] as I said.
+- [00:51:16,880 - 00:51:18,000] Follow it,
+- [00:51:18,000 - 00:51:21,860] the volume of it in the phase space doesn't change,
+- [00:51:21,860 - 00:51:24,010] or stay at one point as
+- [00:51:24,010 - 00:51:26,160] much comes in as goes out.
+- [00:51:30,380 - 00:51:31,620] That ensures,
+- [00:51:31,620 - 00:51:33,040] incidentally,
+- [00:51:33,040 - 00:51:38,020] that points in the phase space cannot come together
+- [00:51:38,020 - 00:51:43,000] and coalesce and lose memory of which point was which.
+- [00:51:43,600 - 00:51:45,620] They maintain their integrity.
+- [00:51:45,840 - 00:51:46,860] They don't stay there forever.
+- [00:51:46,880 - 00:51:47,720] They're not the same distance apart,
+- [00:51:47,720 - 00:51:49,870] but each one occupies a little
+- [00:51:49,870 - 00:51:52,020] volume which is sort of sacred,
+- [00:51:52,020 - 00:51:54,620] and the other ones can't penetrate it and,
+- [00:51:54,620 - 00:51:56,920] and lose their,
+- [00:51:56,920 - 00:51:58,980] lose their individuality,
+- [00:51:58,980 - 00:51:59,520] so to speak.
+- [00:52:00,180 - 00:52:02,700] Are you assuming a summation in the...
+- [00:52:02,700 - 00:52:02,880] Yeah.
+- [00:52:03,600 - 00:52:03,900] Absolutely.
+- [00:52:04,500 - 00:52:06,140] Those cancel in pairs.
+- [00:52:06,420 - 00:52:07,400] They cancel in pairs,
+- [00:52:07,400 - 00:52:11,100] which is a special version of incompressibility.
+- [00:52:11,440 - 00:52:13,040] It means in pairs,
+- [00:52:13,040 - 00:52:14,380] in pairs of directions,
+- [00:52:14,380 - 00:52:15,620] the compression in one direction and
+- [00:52:15,620 - 00:52:16,860] the compression in the other direction.
+- [00:52:16,860 - 00:52:17,710] Two removes or interfunctions and the
+- [00:52:17,710 - 00:52:18,560] decompression in the other have to cancel,
+- [00:52:18,560 - 00:52:21,920] so it's a special kind of incompressibility,
+- [00:52:21,920 - 00:52:23,700] but it is incompressibility.
+- [00:52:24,880 - 00:52:26,640] It's actually a stronger thing,
+- [00:52:26,640 - 00:52:26,900] but-
+- [00:52:26,900 - 00:52:29,400] It's a stronger kind of incompressibility.
+- [00:52:29,700 - 00:52:30,420] It is a stronger,
+- [00:52:30,420 - 00:52:31,960] it's stronger than incompressibility,
+- [00:52:31,960 - 00:52:33,980] but it's not weaker than incompressibility,
+- [00:52:33,980 - 00:52:35,720] and so it,
+- [00:52:35,720 - 00:52:36,740] and as I said.
+- [00:52:36,860 - 00:52:40,780] It is the closest thing that we have for the continuous world
+- [00:52:40,780 - 00:52:44,700] to this idea that there's Beei's idea that there's no convergence of the,
+- [00:52:44,700 - 00:52:46,840] of the trajectories in chronological order.ließlich
+- [00:52:46,840 - 00:52:47,920] in the discrete world,
+- [00:52:47,920 - 00:52:49,360] the loss of information.
+- [00:52:50,860 - 00:52:51,820] I have a question.
+- [00:52:52,040 - 00:52:55,540] So the expression that you've written for divergence,
+- [00:52:57,380 - 00:52:59,900] that's the way divergence looks in Cartesian coordinates.
+- [00:53:00,220 - 00:53:00,520] It is.
+- [00:53:00,980 - 00:53:03,540] And I assume this result is going to carry over
+- [00:53:03,540 - 00:53:05,040] to other kinds of coordinates?
+- [00:53:05,460 - 00:53:05,660] No,
+- [00:53:05,660 - 00:53:08,540] phase space is always thought of as Cartesian.
+- [00:53:10,680 - 00:53:14,660] Phase space is thought of as Cartesian in this sense,
+- [00:53:14,740 - 00:53:16,620] or it's thought of as called symplectic.
+- [00:53:16,840 - 00:53:18,280] It's not really Cartesian,
+- [00:53:18,280 - 00:53:19,420] but it's...
+- [00:53:21,080 - 00:53:22,520] Cartesian is close enough to us.
+- [00:53:22,520 - 00:53:22,700] Yeah?
+- [00:53:23,140 - 00:53:24,440] With this...
+- [00:53:24,440 - 00:53:26,120] I'm not trying to confuse things,
+- [00:53:26,200 - 00:53:28,020] but would this hold for,
+- [00:53:28,020 - 00:53:29,040] like,
+- [00:53:29,120 - 00:53:30,840] the notion of expanding the
+- [00:53:30,840 - 00:53:32,560] universe with a coordinate system?
+- [00:53:32,780 - 00:53:32,960] Yes,
+- [00:53:32,960 - 00:53:34,660] that's a good question.
+- [00:53:35,180 - 00:53:36,400] And the answer is yes.
+- [00:53:37,620 - 00:53:38,860] But even more simple,
+- [00:53:39,940 - 00:53:44,680] let's talk about taking a box of gas and expand...
+- [00:53:44,680 - 00:53:44,780] Oh,
+- [00:53:44,780 - 00:53:45,180] incidentally,
+- [00:53:45,180 - 00:53:45,860] this theorem
+- [00:53:45,860 - 00:53:46,820] does not have a coordinate system.
+- [00:53:46,820 - 00:53:49,260] It does not really depend on the Hamiltonian
+- [00:53:49,260 - 00:53:51,140] not having any time dependence.
+- [00:53:52,180 - 00:53:53,340] Time dependence,
+- [00:53:53,340 - 00:53:53,980] it wouldn't matter.
+- [00:53:54,180 - 00:53:54,800] It's still true,
+- [00:53:54,800 - 00:53:57,680] the Leoville's theorem.
+- [00:53:58,040 - 00:53:58,360] But okay,
+- [00:53:58,360 - 00:53:59,840] so we take a box of gas,
+- [00:54:00,620 - 00:54:02,800] and we expand the box of gas.
+- [00:54:03,680 - 00:54:05,540] That's almost like the universe expanding.
+- [00:54:06,180 - 00:54:07,140] What happens?
+- [00:54:07,520 - 00:54:08,080] Well,
+- [00:54:08,080 - 00:54:08,560] there,
+- [00:54:08,560 - 00:54:09,760] the real fluid,
+- [00:54:09,760 - 00:54:11,400] the ordinary sense of fluid,
+- [00:54:12,120 - 00:54:14,960] the positions of the molecules in real space,
+- [00:54:15,260 - 00:54:16,400] they're obviously...
+- [00:54:16,820 - 00:54:17,760] They're actually spreading out from each other,
+- [00:54:17,760 - 00:54:17,980] right?
+- [00:54:19,440 - 00:54:24,440] So the fluid in ordinary space is not incompressible.
+- [00:54:24,560 - 00:54:26,760] It's being rarefied in this case.
+- [00:54:26,980 - 00:54:30,640] What that means is that in the P space,
+- [00:54:31,040 - 00:54:32,180] the momentum space,
+- [00:54:32,600 - 00:54:34,880] the points must be getting closer together.
+- [00:54:36,020 - 00:54:38,220] The points must be getting
+- [00:54:38,220 - 00:54:40,420] closer together in momentum space.
+- [00:54:40,740 - 00:54:41,340] And that's true.
+- [00:54:41,520 - 00:54:44,780] That's a correct statement that...
+- [00:54:47,200 - 00:54:51,940] That if a fluid is expanding in ordinary Q space,
+- [00:54:52,260 - 00:54:55,000] it means it's contracting in the P space.
+- [00:54:55,240 - 00:54:57,220] The momenta are getting closer to each other.
+- [00:54:57,780 - 00:54:58,220] Now,
+- [00:54:58,220 - 00:55:00,280] let's think about that for a moment.
+- [00:55:00,960 - 00:55:04,500] What does happen to the
+- [00:55:04,500 - 00:55:08,040] momentum of particles in a gas
+- [00:55:08,040 - 00:55:09,280] if you expand the gas?
+- [00:55:10,380 - 00:55:11,580] It goes down,
+- [00:55:11,580 - 00:55:11,840] right?
+- [00:55:12,040 - 00:55:13,280] They get closer to zero.
+- [00:55:13,720 - 00:55:15,520] And they all get closer to zero,
+- [00:55:15,560 - 00:55:16,800] so the gas...
+- [00:55:16,800 - 00:55:18,520] The gas is getting compressed in the P direction
+- [00:55:18,520 - 00:55:21,500] while it's getting expanded in the X direction.
+- [00:55:22,140 - 00:55:23,680] If you squeeze the gas,
+- [00:55:23,820 - 00:55:25,080] exactly the opposite happens.
+- [00:55:25,400 - 00:55:26,180] So yes,
+- [00:55:26,180 - 00:55:26,960] it does...
+- [00:55:26,960 - 00:55:32,000] It is an important aspect of expanding universes,
+- [00:55:32,040 - 00:55:33,040] that the same thing happens.
+- [00:55:34,620 - 00:55:37,500] So what if it's a sudden expansion,
+- [00:55:37,700 - 00:55:39,080] so the particles...
+- [00:55:39,080 - 00:55:39,480] Still.
+- [00:55:39,660 - 00:55:41,360] It doesn't matter how fast the expansion is.
+- [00:55:42,820 - 00:55:45,420] This theorem has no...
+- [00:55:46,800 - 00:55:49,520] No assumption in it that the parameters
+- [00:55:49,520 - 00:55:51,360] are not changing suddenly with time.
+- [00:55:52,520 - 00:55:53,780] I know what you're thinking.
+- [00:55:53,920 - 00:55:54,980] You're thinking about entropy,
+- [00:55:58,260 - 00:56:00,680] but phase space volume is conserved.
+- [00:56:01,840 - 00:56:02,400] Look.
+- [00:56:02,880 - 00:56:03,440] And Mr.
+- [00:56:03,440 - 00:56:03,920] Simon,
+- [00:56:03,920 - 00:56:05,680] is a five particle system
+- [00:56:06,620 - 00:56:09,280] five points in two-dimensional phase space
+- [00:56:09,280 - 00:56:11,280] or ten-dimensional phase space?
+- [00:56:11,280 - 00:56:11,340] Say it again.
+- [00:56:11,340 - 00:56:11,680] Say it again.
+- [00:56:11,720 - 00:56:12,960] If you have five particles.
+- [00:56:13,220 - 00:56:14,320] Ten-dimensional phase space.
+- [00:56:15,000 - 00:56:16,780] So those points there wouldn't run.
+- [00:56:16,780 - 00:56:17,620] They represent individual particles.
+- [00:56:17,800 - 00:56:19,180] They represent individual states.
+- [00:56:19,400 - 00:56:20,020] They have.
+- [00:56:20,020 - 00:56:20,660] Yes.
+- [00:56:20,760 - 00:56:22,120] They represent individual states.
+- [00:56:22,420 - 00:56:23,040] That's right.
+- [00:56:23,200 - 00:56:24,360] They could of course repre...
+- [00:56:24,360 - 00:56:26,560] They don't represent individual particles.
+- [00:56:26,700 - 00:56:27,620] They represent states.
+- [00:56:28,220 - 00:56:29,000] That's correct.
+- [00:56:29,860 - 00:56:30,380] Well,
+- [00:56:30,380 - 00:56:30,980] right.
+- [00:56:31,180 - 00:56:32,700] The points represent states,
+- [00:56:32,880 - 00:56:34,760] and then we imagine fictitious particles.
+- [00:56:35,920 - 00:56:41,760] Fictitious particles are in this higher dimensional space.
+- [00:56:42,100 - 00:56:42,740] That's right.
+- [00:56:43,740 - 00:56:45,060] I have a question.
+- [00:56:45,160 - 00:56:46,540] I think it's related to what you're talking about.
+- [00:56:46,540 - 00:56:50,350] It seems pretty easy to see how
+- [00:56:50,350 - 00:56:54,160] the Lubez's theorem follows from Hamilton's equations
+- [00:56:54,160 - 00:56:56,440] for the phase space velocity field.
+- [00:56:57,480 - 00:57:01,140] But I'm kind of fuzzy on what this fluid is.
+- [00:57:01,500 - 00:57:02,620] What are all these...
+- [00:57:03,520 - 00:57:04,860] What's the initial density?
+- [00:57:05,160 - 00:57:05,660] Well,
+- [00:57:05,660 - 00:57:08,100] all these points are different states of the system.
+- [00:57:08,520 - 00:57:08,860] Yeah.
+- [00:57:09,140 - 00:57:10,500] I don't think about the fluid at all,
+- [00:57:10,500 - 00:57:11,100] it seems straightforward.
+- [00:57:11,660 - 00:57:11,880] Yeah.
+- [00:57:12,140 - 00:57:14,360] You don't have to think about the fluid.
+- [00:57:14,560 - 00:57:16,420] You don't have to think about the fluid.
+- [00:57:17,140 - 00:57:18,740] Forget the fluid if you like.
+- [00:57:19,100 - 00:57:20,840] The fluid is just to visualize.
+- [00:57:21,480 - 00:57:23,670] And physicists always draw the fluid
+- [00:57:23,670 - 00:57:25,860] because it's a useful trick to visualize.
+- [00:57:26,080 - 00:57:26,840] But here's the statement.
+- [00:57:27,940 - 00:57:29,120] Take a patch,
+- [00:57:29,120 - 00:57:30,500] a region of the phase space.
+- [00:57:31,580 - 00:57:34,420] Every point in this phase space goes
+- [00:57:34,420 - 00:57:37,260] somewheres after a certain period of time.
+- [00:57:38,880 - 00:57:39,880] Are you with that?
+- [00:57:40,460 - 00:57:41,040] Yes.
+- [00:57:41,200 - 00:57:41,520] Okay.
+- [00:57:41,760 - 00:57:44,260] That means this patch will move.
+- [00:57:45,820 - 00:57:46,400] Okay.
+- [00:57:49,540 - 00:57:51,930] The moves in a way which
+- [00:57:51,930 - 00:57:54,320] preserves the volume in phase space.
+- [00:57:54,620 - 00:57:57,340] The volume in phase space means
+- [00:57:57,340 - 00:58:00,060] a product of P and Q.
+- [00:58:00,160 - 00:58:02,280] The integral over P and Q of...
+- [00:58:02,280 - 00:58:06,860] Or just the ordinary volume in the PQ space.
+- [00:58:08,880 - 00:58:11,320] Just normal concept of volume.
+- [00:58:12,460 - 00:58:13,980] Normal concept of volume,
+- [00:58:13,980 - 00:58:15,140] but not spatial volume,
+- [00:58:15,300 - 00:58:16,400] but volume of volume.
+- [00:58:16,400 - 00:58:17,460] Volume in QP space.
+- [00:58:18,000 - 00:58:18,600] Now,
+- [00:58:18,600 - 00:58:19,580] it's an interesting question.
+- [00:58:21,480 - 00:58:23,280] Supposing you change coordinates
+- [00:58:23,280 - 00:58:25,080] in some very complicated way,
+- [00:58:26,160 - 00:58:27,960] that will also entail a change
+- [00:58:27,960 - 00:58:29,760] of the definition of the momenta.
+- [00:58:30,340 - 00:58:30,940] Will,
+- [00:58:30,940 - 00:58:33,750] if you re-parameterize everything
+- [00:58:33,750 - 00:58:36,560] by some totally different coordinates,
+- [00:58:37,340 - 00:58:39,160] will the theorem still be true?
+- [00:58:39,300 - 00:58:40,100] And the answer is yes.
+- [00:58:43,580 - 00:58:44,180] So,
+- [00:58:44,180 - 00:58:45,980] the way you've drawn it also...
+- [00:58:45,980 - 00:58:49,120] The theorem also implies a relationship of the movement,
+- [00:58:49,240 - 00:58:50,470] that you don't have some
+- [00:58:50,470 - 00:58:51,700] going up and some going down.
+- [00:58:52,380 - 00:58:54,580] You might have some going up and some going down,
+- [00:58:54,680 - 00:58:56,450] but then you're likely to have some
+- [00:58:56,450 - 00:58:58,220] coming in and some going out to compensate.
+- [00:58:58,720 - 00:58:59,080] Well,
+- [00:58:59,080 - 00:59:00,120] I was thinking about the way you've...
+- [00:59:00,759 - 00:59:02,789] You get a very complicated drawing if you have some
+- [00:59:02,789 - 00:59:04,820] of those arrows going one way and some going the other.
+- [00:59:04,920 - 00:59:05,080] Good.
+- [00:59:05,220 - 00:59:05,400] So,
+- [00:59:05,400 - 00:59:06,180] let's take an example.
+- [00:59:06,480 - 00:59:07,380] Let's take an example.
+- [00:59:07,540 - 00:59:10,510] I think what you're saying is that the
+- [00:59:10,510 - 00:59:13,480] shape of a region of phase space can change.
+- [00:59:14,180 - 00:59:16,860] And it can change in radically complicated ways.
+- [00:59:16,860 - 00:59:16,940] Yeah,
+- [00:59:16,940 - 00:59:17,900] this is a simple change,
+- [00:59:17,900 - 00:59:19,210] but if you had some of those arrows
+- [00:59:19,210 - 00:59:20,520] going this way and some going the other,
+- [00:59:20,580 - 00:59:21,600] then it's very complicated.
+- [00:59:21,980 - 00:59:22,380] It could be.
+- [00:59:23,620 - 00:59:24,900] Let's construct an example.
+- [00:59:24,980 - 00:59:26,220] I'll come back in a moment for a question.
+- [00:59:28,280 - 00:59:29,340] Here's a Hamiltonian.
+- [00:59:31,120 - 00:59:32,400] It may be a little bit unusual,
+- [00:59:32,400 - 00:59:34,240] but it's a perfectly good Hamiltonian.
+- [00:59:34,380 - 00:59:36,480] We can write it down and we can study it.
+- [00:59:37,280 - 00:59:38,820] Not p squared plus q squared,
+- [00:59:38,820 - 00:59:40,500] but just p times q.
+- [00:59:42,420 - 00:59:43,720] Let's see what that one does.
+- [00:59:47,040 - 00:59:48,300] Hamiltonian is p times q.
+- [00:59:48,720 - 00:59:49,900] What is vp?
+- [00:59:50,120 - 00:59:52,140] vp is the same as p dot,
+- [00:59:52,140 - 00:59:55,360] and that is equal to partial...
+- [00:59:56,320 - 00:59:56,760] Oh,
+- [00:59:56,760 - 00:59:58,340] that's equal to the partial derivative.
+- [00:59:58,460 - 00:59:59,780] I'm going to get rid of
+- [00:59:59,780 - 01:00:01,100] some of the equations in a moment.
+- [01:00:01,200 - 01:00:02,760] That's minus the partial derivative
+- [01:00:02,760 - 01:00:04,320] of h with respect to q.
+- [01:00:04,620 - 01:00:05,480] And what is that?
+- [01:00:08,200 - 01:00:08,760] Minus p,
+- [01:00:08,760 - 01:00:09,080] right?
+- [01:00:09,800 - 01:00:10,240] Okay.
+- [01:00:10,500 - 01:00:15,560] So the first equation is vp equals...
+- [01:00:15,560 - 01:00:16,720] Let's write it as p dot.
+- [01:00:17,200 - 01:00:18,560] I'm not going to call it vp.
+- [01:00:18,640 - 01:00:20,280] Let's just call it p dot.
+- [01:00:20,380 - 01:00:25,780] p dot equals minus p.
+- [01:00:27,280 - 01:00:29,200] Supposing p is positive for a moment,
+- [01:00:29,200 - 01:00:32,380] what happens to p as time goes on?
+- [01:00:34,280 - 01:00:35,460] Do you get bigger or smaller?
+- [01:00:36,180 - 01:00:36,700] Smaller.
+- [01:00:36,840 - 01:00:37,360] Right.
+- [01:00:37,420 - 01:00:39,320] What happens if p is negative?
+- [01:00:40,360 - 01:00:42,100] What happens to it in time?
+- [01:00:43,580 - 01:00:44,660] It gets bigger,
+- [01:00:44,660 - 01:00:47,340] but in magnitude it also gets smaller.
+- [01:00:47,520 - 01:00:48,220] In fact,
+- [01:00:48,220 - 01:00:49,620] what's the solution of this equation?
+- [01:00:50,660 - 01:00:52,500] p dot is equal to minus p.
+- [01:00:53,920 - 01:00:55,040] It's an exponential,
+- [01:00:55,040 - 01:00:55,860] but a negative,
+- [01:00:55,860 - 01:00:57,200] a shrinking exponential.
+- [01:00:57,900 - 01:00:59,320] So p shrinks.
+- [01:01:00,440 - 01:01:01,680] Whatever p is,
+- [01:01:01,680 - 01:01:04,940] it gets smaller with time.
+- [01:01:05,080 - 01:01:05,480] In fact,
+- [01:01:05,480 - 01:01:07,380] it exponentially gets smaller with time.
+- [01:01:07,640 - 01:01:09,300] That sure sounds like the first thing you do.
+- [01:01:09,300 - 01:01:11,400] The fluid is compressing along the p-axis,
+- [01:01:11,400 - 01:01:12,100] and it is.
+- [01:01:12,220 - 01:01:15,430] And it's compressing violently as time
+- [01:01:15,430 - 01:01:18,640] goes on since it's being exponentially shrunk.
+- [01:01:18,900 - 01:01:20,060] What about q dot?
+- [01:01:21,540 - 01:01:29,480] q dot is equal to plus dh by dp.
+- [01:01:30,760 - 01:01:32,040] And what's that equal to?
+- [01:01:32,140 - 01:01:32,820] That's equal to q.
+- [01:01:35,280 - 01:01:39,280] So what happens to the q motion of the fluid?
+- [01:01:39,280 - 01:01:41,260] It exponentially expands.
+- [01:01:41,600 - 01:01:43,640] So it's contracting in one direction
+- [01:01:43,640 - 01:01:45,680] and expanding in the other direction.
+- [01:01:45,920 - 01:01:47,350] That means if I were
+- [01:01:47,350 - 01:01:48,780] to take a little square patch,
+- [01:01:48,780 - 01:01:52,380] it would spread in the q
+- [01:01:52,380 - 01:01:55,980] direction and shrink in the p direction.
+- [01:01:57,940 - 01:02:00,570] It spreads in one direction by the same
+- [01:02:00,570 - 01:02:03,200] factor that it shrinks in the other direction,
+- [01:02:03,200 - 01:02:05,800] and the result is the area stays the same.
+- [01:02:06,220 - 01:02:08,580] But the shape can change a lot.
+- [01:02:09,380 - 01:02:12,130] So this was just a simple example of
+- [01:02:12,130 - 01:02:14,880] a case where you can violently make the shape,
+- [01:02:14,880 - 01:02:17,820] but the volume stays the same.
+- [01:02:23,240 - 01:02:24,480] Just a second.
+- [01:02:24,560 - 01:02:25,620] There's a question over here.
+- [01:02:25,880 - 01:02:27,140] Before we do anything else,
+- [01:02:27,140 - 01:02:28,590] let's just check that the
+- [01:02:28,590 - 01:02:30,040] divergence of the velocity is zero.
+- [01:02:31,200 - 01:02:32,740] Here's the velocity.
+- [01:02:32,860 - 01:02:34,300] That's vp is minus p.
+- [01:02:36,880 - 01:02:38,280] vq is q.
+- [01:02:39,320 - 01:02:40,380] What's the divergence?
+- [01:02:40,720 - 01:02:43,160] It's the derivative of vp with respect to p.
+- [01:02:43,600 - 01:02:44,740] That's minus 1.
+- [01:02:45,340 - 01:02:48,000] Plus the derivative of vq with respect to q.
+- [01:02:48,140 - 01:02:49,200] That's plus 1.
+- [01:02:49,420 - 01:02:50,480] If I add them,
+- [01:02:50,480 - 01:02:50,920] I get zero.
+- [01:02:51,080 - 01:02:53,060] So the divergence of the fluid is zero.
+- [01:02:54,360 - 01:02:59,140] The two kinds of motion cancel each other.
+- [01:02:59,280 - 01:02:59,460] Okay,
+- [01:02:59,460 - 01:02:59,840] now a question.
+- [01:03:00,420 - 01:03:02,300] So since pq is action,
+- [01:03:02,300 - 01:03:03,740] is the Uville's theorem equivalent
+- [01:03:03,740 - 01:03:05,180] to the conservation of action?
+- [01:03:05,840 - 01:03:06,360] No.
+- [01:03:06,540 - 01:03:07,060] No,
+- [01:03:07,060 - 01:03:08,160] it's not the conservation of action.
+- [01:03:08,160 - 01:03:10,260] It's the conservation of volume and phase space.
+- [01:03:12,140 - 01:03:14,760] It's the conservation of volume and phase space.
+- [01:03:14,760 - 01:03:16,000] Why do you identify with action?
+- [01:03:17,160 - 01:03:18,600] pq has units of action.
+- [01:03:18,600 - 01:03:18,740] Oh,
+- [01:03:18,740 - 01:03:19,460] it does have.
+- [01:03:20,660 - 01:03:21,180] Indeed,
+- [01:03:21,180 - 01:03:22,480] it does have units of action.
+- [01:03:26,300 - 01:03:27,850] It's more closely related to
+- [01:03:27,850 - 01:03:29,400] entropy than it is to action,
+- [01:03:29,400 - 01:03:31,670] but there are circumstances in which
+- [01:03:31,670 - 01:03:33,940] entropy and action are simply related.
+- [01:03:34,800 - 01:03:36,300] pq is not the action,
+- [01:03:36,300 - 01:03:37,920] but it does have units of the action.
+- [01:03:37,920 - 01:03:39,300] It also has units of angular momentum,
+- [01:03:39,300 - 01:03:41,020] but it's not the angular momentum either.
+- [01:03:43,980 - 01:03:45,620] And you might begin to guess that it
+- [01:03:45,620 - 01:03:47,260] has a lot to do with quantum mechanics,
+- [01:03:47,260 - 01:03:50,620] because in quantum mechanics,
+- [01:03:50,620 - 01:03:52,410] the basic rule of quantum
+- [01:03:52,410 - 01:03:54,200] mechanics is that action is quantized.
+- [01:03:54,320 - 01:03:56,820] And so these little areas in phase space might...
+- [01:03:56,820 - 01:03:56,920] Well,
+- [01:03:56,920 - 01:03:58,020] we'll get to it.
+- [01:03:58,080 - 01:03:59,140] Let's not jump ahead.
+- [01:04:00,260 - 01:04:02,040] You're touching on something important,
+- [01:04:02,040 - 01:04:02,360] though,
+- [01:04:02,360 - 01:04:04,440] when you point out that this is units of action.
+- [01:04:06,660 - 01:04:07,900] But it is not the action.
+- [01:04:07,900 - 01:04:07,900] It's not,
+- [01:04:07,900 - 01:04:08,640] strictly speaking,
+- [01:04:08,640 - 01:04:09,120] the action.
+- [01:04:09,340 - 01:04:09,780] Yeah?
+- [01:04:10,120 - 01:04:12,240] Do the rules allow you to break that up,
+- [01:04:12,240 - 01:04:13,020] or is it...
+- [01:04:13,020 - 01:04:13,460] Break what up?
+- [01:04:13,620 - 01:04:13,900] Oh,
+- [01:04:13,900 - 01:04:14,320] oh,
+- [01:04:14,320 - 01:04:15,260] that's a wonderful point.
+- [01:04:15,760 - 01:04:16,500] In other words,
+- [01:04:16,500 - 01:04:17,420] the question is...
+- [01:04:17,420 - 01:04:20,120] The answer is definitely not.
+- [01:04:20,700 - 01:04:22,020] But the question is a good one.
+- [01:04:22,280 - 01:04:23,000] The question is,
+- [01:04:23,000 - 01:04:24,060] suppose you start with a
+- [01:04:24,060 - 01:04:25,120] volume of phase space like this.
+- [01:04:25,180 - 01:04:28,070] Could that volume go to this and then
+- [01:04:28,070 - 01:04:30,960] pinch off and break up into two separate volumes?
+- [01:04:31,180 - 01:04:31,900] The answer is no.
+- [01:04:33,220 - 01:04:35,380] I'd have to think about proving it.
+- [01:04:35,640 - 01:04:37,480] It's not too hard to prove.
+- [01:04:38,060 - 01:04:39,320] I think that was the question,
+- [01:04:39,320 - 01:04:39,660] was it?
+- [01:04:39,980 - 01:04:40,380] Yeah.
+- [01:04:40,500 - 01:04:40,840] Yeah.
+- [01:04:41,040 - 01:04:41,440] No.
+- [01:04:41,600 - 01:04:43,540] The other part of the theorem,
+- [01:04:43,540 - 01:04:45,540] a little more complicated to prove,
+- [01:04:45,540 - 01:04:46,560] I have to think about it,
+- [01:04:46,660 - 01:04:48,410] is that the topology of a
+- [01:04:48,410 - 01:04:50,160] region of phase space doesn't change.
+- [01:04:50,840 - 01:04:51,700] And as I said,
+- [01:04:51,700 - 01:04:52,380] that can be proved.
+- [01:04:53,759 - 01:04:56,499] The way you prove it is by going
+- [01:04:56,499 - 01:04:59,240] to the point where it's just barely touching.
+- [01:05:00,820 - 01:05:02,980] And then you go to that point right over there,
+- [01:05:02,980 - 01:05:03,740] and you say,
+- [01:05:03,740 - 01:05:05,020] which way does that point go?
+- [01:05:05,940 - 01:05:07,060] Does it go this way?
+- [01:05:07,060 - 01:05:08,320] Or does it go that way?
+- [01:05:08,480 - 01:05:10,700] It's the same point in phase space,
+- [01:05:10,700 - 01:05:15,620] and the direction that it goes in is not ambiguous.
+- [01:05:16,840 - 01:05:19,940] It is determined by the Hamiltonian,
+- [01:05:19,940 - 01:05:21,880] and it only gets to go in one direction.
+- [01:05:22,560 - 01:05:26,220] So because this point among all other,
+- [01:05:26,220 - 01:05:27,790] and all other points are
+- [01:05:27,790 - 01:05:29,360] completely deterministic where they go,
+- [01:05:29,360 - 01:05:30,540] it can't split.
+- [01:05:31,680 - 01:05:32,240] Politics,
+- [01:05:32,240 - 01:05:33,540] they call it German Mandarin.
+- [01:05:33,760 - 01:05:34,140] What's that?
+- [01:05:34,560 - 01:05:35,120] Politics,
+- [01:05:35,120 - 01:05:36,320] they call it German Mandarin.
+- [01:05:37,060 - 01:05:37,540] Politics,
+- [01:05:37,540 - 01:05:38,420] they call it German Mandarin.
+- [01:05:38,500 - 01:05:39,000] Right.
+- [01:05:39,360 - 01:05:39,920] Right.
+- [01:05:40,480 - 01:05:42,340] But what it can do,
+- [01:05:42,340 - 01:05:44,670] there's absolutely nothing that says that
+- [01:05:44,670 - 01:05:47,000] it can't generate a very long,
+- [01:05:47,000 - 01:05:47,660] long,
+- [01:05:47,660 - 01:05:48,040] long,
+- [01:05:48,040 - 01:05:49,460] thin string like that.
+- [01:05:49,800 - 01:05:52,200] So is that related to your
+- [01:05:52,200 - 01:05:54,600] statement before that points can't coalesce?
+- [01:05:54,780 - 01:05:55,240] Yeah.
+- [01:05:55,620 - 01:05:56,180] Yeah.
+- [01:05:56,680 - 01:05:57,240] Yeah.
+- [01:05:57,300 - 01:06:00,120] But the important thing is that you can think
+- [01:06:00,120 - 01:06:02,940] of each point as having a little volume that,
+- [01:06:03,000 - 01:06:04,930] an integrity that doesn't allow
+- [01:06:04,930 - 01:06:06,860] other ones to jam into it.
+- [01:06:06,860 - 01:06:07,300] So to speak.
+- [01:06:08,220 - 01:06:11,370] Like little incompressible particles
+- [01:06:11,370 - 01:06:14,520] or billiard balls that the...
+- [01:06:15,940 - 01:06:16,500] Question.
+- [01:06:16,920 - 01:06:18,890] Is there an application for the
+- [01:06:18,890 - 01:06:20,860] Louisville's theorem in terms of solving something?
+- [01:06:21,020 - 01:06:21,540] Sure.
+- [01:06:21,920 - 01:06:22,480] Oh,
+- [01:06:22,480 - 01:06:22,700] yeah.
+- [01:06:23,360 - 01:06:23,920] Yeah.
+- [01:06:24,540 - 01:06:25,820] Take a gas and put it
+- [01:06:25,820 - 01:06:27,100] in a box and expand it.
+- [01:06:27,220 - 01:06:28,300] What happens to the,
+- [01:06:28,300 - 01:06:32,100] what happens to the velocities?
+- [01:06:32,480 - 01:06:33,040] Well,
+- [01:06:33,040 - 01:06:36,840] basically the answer is if the expansion is,
+- [01:06:36,840 - 01:06:36,840] if the expansion is,
+- [01:06:36,840 - 01:06:36,840] if the expansion is,
+- [01:06:36,840 - 01:06:38,330] if the expansion increases the volume of
+- [01:06:38,330 - 01:06:39,820] ordinary space by a factor of two,
+- [01:06:39,820 - 01:06:41,000] it will increase,
+- [01:06:41,220 - 01:06:45,100] it will decrease the momenta by a factor of
+- [01:06:45,100 - 01:06:48,980] two and as a result cool the gas a very,
+- [01:06:48,980 - 01:06:49,840] very definite way.
+- [01:06:50,400 - 01:06:50,920] Yeah.
+- [01:06:51,060 - 01:06:54,460] In thermodynamics it is absolutely central to the,
+- [01:06:54,460 - 01:06:55,760] to the conservation,
+- [01:06:55,760 - 01:06:56,180] well,
+- [01:06:56,180 - 01:06:58,440] to the concept of entropy and,
+- [01:06:59,420 - 01:07:02,120] and it is the reason from this point of
+- [01:07:02,120 - 01:07:04,820] view why when you expand the gas it cools.
+- [01:07:07,280 - 01:07:09,660] Don't trajectories overlap for the solid pendulum,
+- [01:07:09,660 - 01:07:10,220] for example?
+- [01:07:11,180 - 01:07:11,560] No.
+- [01:07:12,280 - 01:07:13,360] What's a solid pendulum?
+- [01:07:13,740 - 01:07:15,730] A pendulum with a solid rod instead
+- [01:07:15,730 - 01:07:17,720] of a string when it's standing straight up.
+- [01:07:19,080 - 01:07:20,840] Clockwise versus counterclockwise.
+- [01:07:20,940 - 01:07:21,100] Okay.
+- [01:07:26,360 - 01:07:26,900] Yeah.
+- [01:07:27,060 - 01:07:27,660] You're asking,
+- [01:07:27,660 - 01:07:28,460] that's a good question.
+- [01:07:28,840 - 01:07:31,450] Supposing you're at a point of unstable
+- [01:07:31,450 - 01:07:34,060] equilibrium and you start right up here.
+- [01:07:34,260 - 01:07:34,800] Yeah.
+- [01:07:37,400 - 01:07:40,980] Then this point does indeed go in a different
+- [01:07:40,980 - 01:07:44,560] direction than this point and that's exactly the situation
+- [01:07:44,560 - 01:07:45,720] when you get these very,
+- [01:07:45,720 - 01:07:47,200] very clean threads forming.
+- [01:07:48,280 - 01:07:49,620] We're moving back to it.
+- [01:07:49,760 - 01:07:53,010] What I wanted to talk about before doing that was
+- [01:07:53,010 - 01:07:56,260] to talk about the kinds of systems that don't have Liebhold's,
+- [01:07:56,260 - 01:07:56,760] yeah.
+- [01:07:57,260 - 01:08:01,030] I'm just thinking that the thought thing is
+- [01:08:01,030 - 01:08:04,800] that gives the illusion of two separate things.
+- [01:08:04,820 - 01:08:06,140] Two separate entities,
+- [01:08:06,140 - 01:08:07,620] but they're entangled.
+- [01:08:07,860 - 01:08:08,500] Who?
+- [01:08:09,000 - 01:08:11,600] When you take and do that,
+- [01:08:11,600 - 01:08:12,520] stretch it.
+- [01:08:12,940 - 01:08:13,480] This?
+- [01:08:14,140 - 01:08:14,820] No,
+- [01:08:14,820 - 01:08:15,980] the picture you drew there.
+- [01:08:16,100 - 01:08:16,240] This?
+- [01:08:16,240 - 01:08:18,270] But there's two things separated by
+- [01:08:18,270 - 01:08:20,300] a great distance but still connected.
+- [01:08:20,819 - 01:08:23,569] Would that be considered like giving the
+- [01:08:23,569 - 01:08:26,319] illusion of two different things but entangled?
+- [01:08:26,560 - 01:08:27,620] Not entangled.
+- [01:08:27,920 - 01:08:28,600] Well,
+- [01:08:28,600 - 01:08:29,300] connected.
+- [01:08:29,600 - 01:08:30,279] Well,
+- [01:08:30,279 - 01:08:33,180] they're not physically connected to each other.
+- [01:08:38,160 - 01:08:40,700] This doesn't mean that they're physically connected to each
+- [01:08:40,700 - 01:08:43,240] other and exerting forces on each other or anything.
+- [01:08:43,840 - 01:08:45,580] It just means that...
+- [01:08:46,500 - 01:08:48,420] I'm saying it's really one entity,
+- [01:08:48,420 - 01:08:49,319] but...
+- [01:08:49,319 - 01:08:49,520] Well,
+- [01:08:49,520 - 01:08:50,859] it's one blob of phase space.
+- [01:08:51,000 - 01:08:51,720] It's not an entity.
+- [01:08:51,939 - 01:08:55,039] It's a blob of phase space that
+- [01:08:55,039 - 01:08:58,140] you first drew and you followed it.
+- [01:08:58,460 - 01:08:59,620] You just followed it.
+- [01:08:59,740 - 01:09:03,560] Each point in here is a different initial condition.
+- [01:09:04,420 - 01:09:05,240] It's diff...
+- [01:09:05,240 - 01:09:05,380] Well,
+- [01:09:05,380 - 01:09:05,640] it is.
+- [01:09:05,760 - 01:09:06,500] That's what it is.
+- [01:09:06,580 - 01:09:07,800] It's a different initial condition,
+- [01:09:07,800 - 01:09:10,520] and now you follow the initial conditions in phase space,
+- [01:09:11,060 - 01:09:12,380] and some of them separate,
+- [01:09:12,380 - 01:09:14,979] some of them grow together in some directions,
+- [01:09:15,100 - 01:09:16,979] but always in a way that conserves the volume.
+- [01:09:18,180 - 01:09:21,499] Let's take an example of a system
+- [01:09:21,499 - 01:09:24,819] that doesn't conserve the volume in phase space,
+- [01:09:24,859 - 01:09:26,760] just to see what the difference is.
+- [01:09:27,020 - 01:09:27,500] Now,
+- [01:09:27,500 - 01:09:30,010] I've already proved that the
+- [01:09:30,010 - 01:09:32,520] volume in phase space is conserved,
+- [01:09:32,520 - 01:09:34,999] so how can I take a system
+- [01:09:34,999 - 01:09:37,479] which doesn't conserve the volume in phase space?
+- [01:09:37,760 - 01:09:37,899] Well,
+- [01:09:37,899 - 01:09:41,979] I proved it by starting with Hamilton's equations of motion,
+- [01:09:42,220 - 01:09:44,240] so I will have to take
+- [01:09:44,240 - 01:09:46,260] a system which doesn't have a Hamiltonian,
+- [01:09:46,399 - 01:09:48,660] which doesn't have a...
+- [01:09:49,599 - 01:09:50,899] for that matter,
+- [01:09:50,899 - 01:09:51,720] a Lagrangian,
+- [01:09:52,759 - 01:09:55,160] and which therefore violates the rules.
+- [01:09:59,280 - 01:10:00,260] Very simple system.
+- [01:10:00,340 - 01:10:02,500] The damped harmonic...
+- [01:10:02,520 - 01:10:06,700] The damped harmonic oscillator is a harmonic oscillator
+- [01:10:07,450 - 01:10:09,140] where the bob of the oscillator,
+- [01:10:09,140 - 01:10:10,360] or whatever you call it,
+- [01:10:10,440 - 01:10:12,680] is moving through a viscous fluid.
+- [01:10:13,900 - 01:10:14,770] What happens...
+- [01:10:15,060 - 01:10:15,940] First of all,
+- [01:10:15,940 - 01:10:21,060] what happens to the damped harmonic oscillator with time?
+- [01:10:23,380 - 01:10:24,580] It just runs down,
+- [01:10:24,580 - 01:10:24,920] right?
+- [01:10:25,020 - 01:10:26,320] It starts to oscillate.
+- [01:10:26,420 - 01:10:29,000] What happens to the position x?
+- [01:10:29,880 - 01:10:31,800] It goes to zero with time.
+- [01:10:31,980 - 01:10:32,500] What happens to...
+- [01:10:32,520 - 01:10:33,580] What happens to the velocity v?
+- [01:10:34,040 - 01:10:36,040] It goes to zero with time.
+- [01:10:36,600 - 01:10:37,760] After a long,
+- [01:10:37,760 - 01:10:38,980] long period of time,
+- [01:10:39,120 - 01:10:41,240] you can't tell where it came from.
+- [01:10:42,760 - 01:10:46,280] It doesn't seem to have this character of being...
+- [01:10:47,840 - 01:10:49,340] Let's see exactly what happens.
+- [01:10:51,920 - 01:10:52,500] Well,
+- [01:10:52,500 - 01:10:53,020] let me...
+- [01:10:53,020 - 01:10:53,640] Let's...
+- [01:10:54,420 - 01:10:55,900] We could work out the equations.
+- [01:10:56,220 - 01:10:57,260] Let's work out the equations.
+- [01:10:57,740 - 01:11:01,860] The equations are m x double dot.
+- [01:11:01,860 - 01:11:03,100] That's acceleration.
+- [01:11:03,520 - 01:11:06,380] Is equal to force minus kx.
+- [01:11:07,540 - 01:11:09,080] That's the harmonic oscillator,
+- [01:11:09,080 - 01:11:10,560] the restoring force.
+- [01:11:10,780 - 01:11:11,360] So far,
+- [01:11:11,360 - 01:11:12,540] no problem.
+- [01:11:12,820 - 01:11:14,520] And then I'm going to add something,
+- [01:11:14,600 - 01:11:17,120] which is the viscous drag force
+- [01:11:17,860 - 01:11:21,700] minus a constant times x dot.
+- [01:11:22,600 - 01:11:25,540] That's a velocity-dependent viscosity term,
+- [01:11:25,740 - 01:11:28,040] and it's a force which depends on
+- [01:11:28,040 - 01:11:30,340] how fast you're moving through the fluid.
+- [01:11:30,340 - 01:11:31,480] That's viscosity.
+- [01:11:32,420 - 01:11:35,660] Viscosity cannot be derived from a Hamiltonian.
+- [01:11:37,860 - 01:11:39,500] Where does it really come from?
+- [01:11:39,720 - 01:11:42,420] It comes from the enormous number of particles colliding,
+- [01:11:42,960 - 01:11:44,960] and it comes from the statistics of them,
+- [01:11:45,120 - 01:11:46,600] and it comes from places that we're
+- [01:11:46,600 - 01:11:48,080] not going to try to get into now.
+- [01:11:48,360 - 01:11:52,020] But this is the equation of motion for a damped...
+- [01:11:52,020 - 01:11:52,920] Not damned,
+- [01:11:52,920 - 01:11:54,600] not D-A-M-N-E-D,
+- [01:11:54,600 - 01:11:55,560] but damped.
+- [01:11:55,560 - 01:11:56,560] D-A-M-P-E-D.
+- [01:11:56,820 - 01:11:58,700] Damped harmonic oscillator.
+- [01:11:58,700 - 01:11:59,540] Okay.
+- [01:12:00,460 - 01:12:01,440] What does it do?
+- [01:12:03,200 - 01:12:03,920] Well,
+- [01:12:03,920 - 01:12:06,100] the ordinary harmonic oscillator...
+- [01:12:06,100 - 01:12:06,480] And let's,
+- [01:12:06,480 - 01:12:07,240] incidentally,
+- [01:12:07,240 - 01:12:10,320] let's call m x dot,
+- [01:12:10,420 - 01:12:11,520] let's call that p.
+- [01:12:12,180 - 01:12:15,960] Even though there's no Lagrangian to derive it from,
+- [01:12:16,400 - 01:12:18,460] the real definition of momentum
+- [01:12:18,460 - 01:12:20,220] is the derivative of the
+- [01:12:20,220 - 01:12:21,980] Lagrangian with respect to velocity.
+- [01:12:22,680 - 01:12:24,000] In this case,
+- [01:12:24,000 - 01:12:26,020] this is not a legitimate system
+- [01:12:26,020 - 01:12:27,980] that comes from a Lagrangian.
+- [01:12:27,980 - 01:12:28,740] Nevertheless,
+- [01:12:28,740 - 01:12:31,900] since we're familiar with thinking of momentum
+- [01:12:31,900 - 01:12:33,340] as mass times velocity,
+- [01:12:33,820 - 01:12:36,320] let's call this the momentum.
+- [01:12:37,760 - 01:12:38,680] All right,
+- [01:12:38,680 - 01:12:42,580] then here's the phase space,
+- [01:12:42,900 - 01:12:44,380] p this way,
+- [01:12:44,380 - 01:12:46,280] x this way.
+- [01:12:49,240 - 01:12:52,900] And what does the system do now?
+- [01:12:53,060 - 01:12:55,600] If it wasn't for this damping term,
+- [01:12:55,880 - 01:12:57,300] it would move in circles.
+- [01:12:58,540 - 01:13:01,080] It would just move everlasting circles
+- [01:13:01,080 - 01:13:03,160] that would just went around and around and around.
+- [01:13:03,540 - 01:13:05,080] What really does happen
+- [01:13:05,080 - 01:13:08,740] is the viscous drag force sucks energy out of it.
+- [01:13:09,060 - 01:13:11,780] Remember that energy was just x squared plus p squared.
+- [01:13:12,100 - 01:13:13,980] If energy is being sucked out of it,
+- [01:13:14,060 - 01:13:15,470] it means the radius of the
+- [01:13:15,470 - 01:13:16,880] orbit is getting smaller with time.
+- [01:13:17,580 - 01:13:19,340] So if energy is being sucked out,
+- [01:13:19,500 - 01:13:20,880] let's say slowly,
+- [01:13:20,880 - 01:13:23,020] let's imagine this viscosity is small,
+- [01:13:25,559 - 01:13:27,860] then it just spirals into,
+- [01:13:27,860 - 01:13:30,520] and gets closer and closer to the origin.
+- [01:13:32,580 - 01:13:33,220] You're right,
+- [01:13:33,220 - 01:13:33,880] it should be clockwise.
+- [01:13:34,640 - 01:13:35,160] Right?
+- [01:13:35,880 - 01:13:36,940] And in fact,
+- [01:13:36,940 - 01:13:38,040] it doesn't matter where you start.
+- [01:13:38,200 - 01:13:39,880] You spiral into the origin.
+- [01:13:41,880 - 01:13:43,700] After a long period of time,
+- [01:13:43,840 - 01:13:45,770] you could start with a
+- [01:13:45,770 - 01:13:47,700] patch of phase space that big,
+- [01:13:47,760 - 01:13:49,100] follow every point,
+- [01:13:49,200 - 01:13:53,060] and they all get shrunken down to a point,
+- [01:13:53,140 - 01:13:55,120] to a little volume very,
+- [01:13:55,120 - 01:13:57,380] very close to the center here.
+- [01:13:57,380 - 01:13:59,300] So evidently,
+- [01:13:59,300 - 01:14:00,440] this is a system
+- [01:14:01,120 - 01:14:03,060] that doesn't have a Leaville theorem,
+- [01:14:03,200 - 01:14:04,800] that the,
+- [01:14:04,800 - 01:14:05,220] um,
+- [01:14:06,099 - 01:14:10,980] that the volume in phase space is not conserved.
+- [01:14:11,300 - 01:14:14,660] But let's check that by calculating the velocity field
+- [01:14:14,660 - 01:14:16,320] and calculate its divergence.
+- [01:14:16,800 - 01:14:18,220] Let's really do the calculator.
+- [01:14:18,220 - 01:14:18,780] Let's do it.
+- [01:14:18,900 - 01:14:19,320] All right.
+- [01:14:19,600 - 01:14:20,920] So first of all,
+- [01:14:21,759 - 01:14:22,600] you know what?
+- [01:14:22,660 - 01:14:23,960] I'm going to get rid of
+- [01:14:23,960 - 01:14:25,260] the mass and the spring constant
+- [01:14:25,260 - 01:14:27,180] and the constant here.
+- [01:14:27,380 - 01:14:29,360] And we're just going to simplify
+- [01:14:29,360 - 01:14:31,340] the equation to the bare bones.
+- [01:14:32,020 - 01:14:32,820] Bare bones,
+- [01:14:32,820 - 01:14:35,400] then x dot is just equal to p.
+- [01:14:36,820 - 01:14:37,860] Now what is p dot?
+- [01:14:39,280 - 01:14:40,440] I'm sorry I did that.
+- [01:14:46,220 - 01:14:47,960] x dot is p over m.
+- [01:14:48,820 - 01:14:49,800] Or m x dot,
+- [01:14:49,800 - 01:14:49,980] yeah,
+- [01:14:49,980 - 01:14:51,120] p over m.
+- [01:14:51,860 - 01:14:52,460] All right?
+- [01:14:53,080 - 01:14:54,100] That's x dot.
+- [01:14:54,140 - 01:14:56,060] That's the x component of the flow,
+- [01:14:56,060 - 01:14:56,380] right?
+- [01:14:56,560 - 01:14:56,980] Vx.
+- [01:14:57,540 - 01:14:58,720] What about vp?
+- [01:14:59,040 - 01:15:00,360] vp is p dot.
+- [01:15:01,000 - 01:15:02,240] And what is p dot?
+- [01:15:02,400 - 01:15:02,760] Well,
+- [01:15:02,760 - 01:15:06,120] the left-hand side of the equation here is p dot,
+- [01:15:06,120 - 01:15:06,420] right?
+- [01:15:08,160 - 01:15:09,540] This is p dot.
+- [01:15:09,680 - 01:15:13,780] d by dt of m x dot.
+- [01:15:14,040 - 01:15:15,360] So here's p dot.
+- [01:15:17,120 - 01:15:21,580] It's equal to minus kx
+- [01:15:21,580 - 01:15:26,040] minus c times p over m.
+- [01:15:31,440 - 01:15:32,960] So p dot,
+- [01:15:32,960 - 01:15:34,620] so this is vp.
+- [01:15:38,240 - 01:15:39,620] Here's vx.
+- [01:15:39,980 - 01:15:41,860] And here's vp.
+- [01:15:42,040 - 01:15:50,820] And that's minus kx minus cp over m,
+- [01:15:50,820 - 01:15:51,480] right?
+- [01:16:00,240 - 01:16:02,130] This is just force is equal
+- [01:16:02,130 - 01:16:04,020] to restoring force plus viscous force.
+- [01:16:04,560 - 01:16:06,420] Viscous force is proportional to velocity,
+- [01:16:06,420 - 01:16:08,440] and velocity is proportional to momentum.
+- [01:16:09,500 - 01:16:10,060] Okay,
+- [01:16:10,060 - 01:16:12,900] now let's calculate the divergence of the fluid.
+- [01:16:13,220 - 01:16:16,640] The derivative of vx with respect to x is what?
+- [01:16:19,460 - 01:16:20,020] Zero.
+- [01:16:20,120 - 01:16:21,660] There's no x on the right-hand side.
+- [01:16:23,040 - 01:16:24,490] So the derivative of vx
+- [01:16:24,490 - 01:16:25,940] with respect to x is zero.
+- [01:16:29,339 - 01:16:29,860] Well,
+- [01:16:29,860 - 01:16:32,860] what about the derivative of vp with respect to p?
+- [01:16:36,720 - 01:16:37,820] Minus c over m.
+- [01:16:48,060 - 01:16:49,880] So the divergence is not zero.
+- [01:16:50,820 - 01:16:52,520] The divergence is not zero.
+- [01:16:54,240 - 01:16:55,020] In fact,
+- [01:16:55,020 - 01:16:55,980] the divergence is negative.
+- [01:16:58,100 - 01:17:01,000] That means the flow vectors are kind of pointing inward.
+- [01:17:01,900 - 01:17:03,320] They're not diverging.
+- [01:17:03,400 - 01:17:04,320] They're converging.
+- [01:17:04,700 - 01:17:07,400] And it's this over here,
+- [01:17:07,400 - 01:17:08,840] which is,
+- [01:17:08,840 - 01:17:10,020] so to speak,
+- [01:17:10,020 - 01:17:11,660] the velocity divergence,
+- [01:17:11,920 - 01:17:13,980] which is pushing everything into the origin.
+- [01:17:14,380 - 01:17:16,740] So we find consistency.
+- [01:17:16,960 - 01:17:18,770] The divergence of the fluid is
+- [01:17:18,770 - 01:17:20,580] not zero if there's a viscous force.
+- [01:17:20,880 - 01:17:24,180] The viscous force cannot be derived from a Hamiltonian.
+- [01:17:25,700 - 01:17:27,360] And it violates the Hamiltonian.
+- [01:17:27,380 - 01:17:28,580] It violates the theorem.
+- [01:17:29,060 - 01:17:30,140] It violates the theorem,
+- [01:17:30,140 - 01:17:30,820] of course.
+- [01:17:30,820 - 01:17:31,820] It violates the statement,
+- [01:17:31,820 - 01:17:33,920] the conditions of the theorem.
+- [01:17:34,360 - 01:17:37,840] But it's a system where you really do lose information.
+- [01:17:38,640 - 01:17:39,940] You start it going,
+- [01:17:39,940 - 01:17:41,280] and after a while,
+- [01:17:41,280 - 01:17:44,180] the phase points lose their integrity,
+- [01:17:44,280 - 01:17:47,140] and they all get squished into the same small volume.
+- [01:17:48,420 - 01:17:51,400] So it gets harder and harder
+- [01:17:51,400 - 01:17:54,380] to distinguish the points of phase space.
+- [01:17:55,620 - 01:17:57,060] It's basically a sink.
+- [01:17:57,340 - 01:17:58,780] It's basically a sink.
+- [01:17:59,100 - 01:17:59,700] Yeah,
+- [01:17:59,700 - 01:18:00,400] it's a sink.
+- [01:18:00,460 - 01:18:02,340] There's a sink distributed throughout here.
+- [01:18:02,500 - 01:18:05,230] And it's playing the same
+- [01:18:05,230 - 01:18:07,960] role as this sink over here,
+- [01:18:08,100 - 01:18:13,440] where all trajectories were leading into the same point.
+- [01:18:13,560 - 01:18:14,360] It's playing the same role.
+- [01:18:14,760 - 01:18:17,820] And it's the sort of system that cannot
+- [01:18:17,820 - 01:18:20,880] be a consequence of the fundamental laws of motion.
+- [01:18:21,280 - 01:18:24,360] Is it possible to have the divergence of zero
+- [01:18:24,380 - 01:18:26,560] for a system without a Hamiltonian?
+- [01:18:26,740 - 01:18:28,220] Is it possible to have a...
+- [01:18:28,220 - 01:18:28,620] Oh!
+- [01:18:30,640 - 01:18:31,620] That's a good question.
+- [01:18:32,200 - 01:18:32,680] Yes.
+- [01:18:32,940 - 01:18:33,420] Yes,
+- [01:18:33,420 - 01:18:34,160] it certainly is.
+- [01:18:34,300 - 01:18:35,140] It certainly is.
+- [01:18:35,260 - 01:18:36,320] It certainly is.
+- [01:18:36,940 - 01:18:37,420] Yeah,
+- [01:18:37,420 - 01:18:38,080] the question...
+- [01:18:38,080 - 01:18:38,180] Okay,
+- [01:18:38,180 - 01:18:39,220] so I think the question was,
+- [01:18:39,380 - 01:18:41,820] is it possible to have the divergence zero,
+- [01:18:42,520 - 01:18:45,700] but not have your equations come from a Hamiltonian?
+- [01:18:45,720 - 01:18:46,360] And the answer is yes.
+- [01:18:47,140 - 01:18:48,600] The answer is most certainly yes.
+- [01:18:50,120 - 01:18:50,600] So...
+- [01:18:52,360 - 01:18:52,840] The...
+- [01:19:00,600 - 01:19:03,500] The Hamiltonian construction here is
+- [01:19:03,500 - 01:19:06,400] not necessary and sufficient for...
+- [01:19:06,400 - 01:19:08,020] for Leoville's...
+- [01:19:09,180 - 01:19:10,580] for Leoville's condition,
+- [01:19:10,580 - 01:19:11,300] let's say.
+- [01:19:11,480 - 01:19:13,080] It's sufficient for it,
+- [01:19:13,080 - 01:19:13,860] not necessary.
+- [01:19:14,200 - 01:19:15,020] You can have system,
+- [01:19:15,020 - 01:19:15,740] you can have...
+- [01:19:15,740 - 01:19:17,080] Not mechanical systems.
+- [01:19:17,200 - 01:19:18,510] I don't know of any
+- [01:19:18,510 - 01:19:19,820] mechanical system that works that way.
+- [01:19:20,040 - 01:19:20,780] But yes,
+- [01:19:20,780 - 01:19:21,120] a fluid.
+- [01:19:21,240 - 01:19:22,420] Let me give you a very simple example.
+- [01:19:22,420 - 01:19:25,880] A fluid in three dimensions.
+- [01:19:26,120 - 01:19:26,740] In other words,
+- [01:19:26,740 - 01:19:28,540] a real incompressible fluid,
+- [01:19:28,640 - 01:19:31,720] a genuine incompressible fluid moving in three dimensions.
+- [01:19:32,560 - 01:19:34,800] It can't come from a Hamiltonian
+- [01:19:34,800 - 01:19:37,000] because the phase space of a Hamiltonian system
+- [01:19:37,000 - 01:19:38,700] is always even dimensional.
+- [01:19:39,960 - 01:19:40,560] Right?
+- [01:19:40,660 - 01:19:41,560] So it just can't.
+- [01:19:42,440 - 01:19:43,040] Uh...
+- [01:19:43,940 - 01:19:44,880] But still,
+- [01:19:45,060 - 01:19:46,760] if the fluid was made out
+- [01:19:46,760 - 01:19:48,460] of a lot of billiard balls
+- [01:19:48,460 - 01:19:50,000] that were stuck together and,
+- [01:19:50,000 - 01:19:50,360] uh,
+- [01:19:50,360 - 01:19:51,740] incompressible,
+- [01:19:51,760 - 01:19:52,400] even dimensional,
+- [01:19:52,400 - 01:19:53,780] each billiard ball would have an
+- [01:19:53,780 - 01:19:55,160] integrity and could not get lost,
+- [01:19:55,420 - 01:19:57,660] and so it would have this character of being,
+- [01:19:57,660 - 01:19:58,380] um...
+- [01:20:00,260 - 01:20:00,760] Uh...of...of...
+- [01:20:01,860 - 01:20:03,480] of not losing information,
+- [01:20:03,480 - 01:20:04,180] if you like.
+- [01:20:06,140 - 01:20:06,640] Yeah.
+- [01:20:07,760 - 01:20:08,260] Um...
+- [01:20:09,040 - 01:20:11,280] You said a number of times that the Hamiltonian,
+- [01:20:11,280 - 01:20:12,720] uh...
+- [01:20:13,290 - 01:20:14,945] development is sort of logically
+- [01:20:14,945 - 01:20:16,600] the same way as a Lagrangian,
+- [01:20:16,660 - 01:20:20,220] and that really is the same as Newton's equations,
+- [01:20:20,480 - 01:20:20,780] but...
+- [01:20:21,360 - 01:20:23,140] doesn't the damped harmonic oscillator,
+- [01:20:23,420 - 01:20:25,560] isn't that described by Newton's equations?
+- [01:20:28,420 - 01:20:28,900] Yes,
+- [01:20:28,900 - 01:20:30,240] it's described by Newton's equations,
+- [01:20:30,480 - 01:20:33,040] but it's not described by a force
+- [01:20:33,040 - 01:20:35,120] which is the derivative of a potential energy.
+- [01:20:35,920 - 01:20:36,400] No,
+- [01:20:36,400 - 01:20:37,360] I...it is not correct.
+- [01:20:37,460 - 01:20:37,620] Okay.
+- [01:20:37,840 - 01:20:39,720] It is not correct that,
+- [01:20:39,720 - 01:20:40,100] uh...
+- [01:20:40,100 - 01:20:42,120] that the Lagrangian and Hamiltonian...
+- [01:20:42,120 - 01:20:42,780] Okay,
+- [01:20:42,780 - 01:20:43,080] let's...
+- [01:20:43,080 - 01:20:45,320] are equivalent to Newton's equations.
+- [01:20:45,460 - 01:20:45,840] That's incorrect.
+- [01:20:46,300 - 01:20:47,820] They're not the same as F equals mA.
+- [01:20:47,960 - 01:20:50,540] They're the same as F equals mA if the forces
+- [01:20:50,780 - 01:20:52,260] are derived from a potential.
+- [01:20:52,860 - 01:20:54,270] If the force is derived
+- [01:20:54,270 - 01:20:55,680] as the derivative of a potential,
+- [01:20:55,880 - 01:20:56,540] then they're the same.
+- [01:20:57,000 - 01:20:57,400] So,
+- [01:20:57,400 - 01:20:57,840] right,
+- [01:20:57,840 - 01:20:58,580] so Newton...
+- [01:20:58,580 - 01:21:01,200] Newton's equations are just F equals mA,
+- [01:21:01,340 - 01:21:02,790] and it doesn't tell you what
+- [01:21:02,790 - 01:21:04,240] the rules about the forces are.
+- [01:21:04,340 - 01:21:05,120] It tells you some rules,
+- [01:21:05,120 - 01:21:07,080] equal and opposite and so forth,
+- [01:21:07,200 - 01:21:08,030] but it doesn't tell you
+- [01:21:08,030 - 01:21:08,860] that they come from a potential.
+- [01:21:09,960 - 01:21:10,360] Yeah.
+- [01:21:10,460 - 01:21:12,360] Newton did not know about energy conservation.
+- [01:21:12,800 - 01:21:12,920] No.
+- [01:21:13,120 - 01:21:15,700] What did you say about a three-dimensional fluid?
+- [01:21:17,120 - 01:21:17,520] Okay,
+- [01:21:17,520 - 01:21:17,920] XYZ,
+- [01:21:17,920 - 01:21:18,620] that's what you meant.
+- [01:21:18,820 - 01:21:18,940] Yeah.
+- [01:21:18,940 - 01:21:19,800] Okay,
+- [01:21:19,800 - 01:21:20,520] but that...
+- [01:21:20,520 - 01:21:21,000] In V space,
+- [01:21:21,000 - 01:21:22,060] that's six dimensions.
+- [01:21:22,540 - 01:21:22,840] No,
+- [01:21:22,840 - 01:21:23,060] no,
+- [01:21:23,060 - 01:21:23,300] no,
+- [01:21:23,300 - 01:21:23,420] no,
+- [01:21:23,420 - 01:21:23,580] no,
+- [01:21:23,580 - 01:21:23,660] no,
+- [01:21:23,660 - 01:21:23,820] no.
+- [01:21:23,840 - 01:21:26,020] Just take a system...
+- [01:21:26,020 - 01:21:28,300] a system of...
+- [01:21:28,300 - 01:21:29,220] I think...
+- [01:21:29,220 - 01:21:30,600] I think the question was,
+- [01:21:32,000 - 01:21:36,040] supposing you have a fluid that's incompressible
+- [01:21:36,040 - 01:21:37,840] with a set of coordinates,
+- [01:21:38,700 - 01:21:42,260] does it follow that the equations of motion
+- [01:21:42,260 - 01:21:44,220] for that fluid...
+- [01:21:45,380 - 01:21:46,020] not...
+- [01:21:46,020 - 01:21:46,460] not...
+- [01:21:46,460 - 01:21:46,820] not...
+- [01:21:46,820 - 01:21:47,200] Oh,
+- [01:21:47,200 - 01:21:47,460] boy.
+- [01:21:47,560 - 01:21:47,800] Okay.
+- [01:21:48,940 - 01:21:48,940] So,
+- [01:21:48,940 - 01:21:52,140] you're saying that the velocity vectors...
+- [01:21:52,140 - 01:21:55,110] that the velocity vectors derive from differentiating
+- [01:21:55,740 - 01:21:58,480] some kind of function of the P's and Q's.
+- [01:21:58,720 - 01:21:59,740] The answer is no.
+- [01:22:01,000 - 01:22:01,740] Example,
+- [01:22:01,740 - 01:22:03,420] a three-dimensional fluid
+- [01:22:05,100 - 01:22:07,340] with a velocity vector...
+- [01:22:07,340 - 01:22:08,220] Forget about the fluid,
+- [01:22:08,220 - 01:22:09,240] just a velocity vector.
+- [01:22:09,420 - 01:22:11,520] A velocity vector in three dimensions
+- [01:22:11,520 - 01:22:14,800] which corresponds to an incompressible fluid.
+- [01:22:16,240 - 01:22:16,980] Okay.
+- [01:22:20,300 - 01:22:21,160] Don't worry about it.
+- [01:22:21,240 - 01:22:24,920] The answer is that the incompressibility
+- [01:22:24,920 - 01:22:28,460] does not imply Hamilton's equations.
+- [01:22:29,540 - 01:22:31,340] Hamilton's equations imply the
+- [01:22:31,340 - 01:22:33,140] incompressibility of the fluid.
+- [01:22:33,460 - 01:22:34,660] It's a one-way thing.
+- [01:22:35,680 - 01:22:36,060] Yeah.
+- [01:22:36,200 - 01:22:37,940] I want to go back to my last question.
+- [01:22:38,100 - 01:22:40,840] I was going to pose a very simple system.
+- [01:22:40,940 - 01:22:41,900] You have two particles.
+- [01:22:42,640 - 01:22:44,660] They have zero momentum.
+- [01:22:45,200 - 01:22:46,640] They're close together.
+- [01:22:47,219 - 01:22:48,940] Total energy would be zero.
+- [01:22:49,400 - 01:22:49,960] Now,
+- [01:22:49,960 - 01:22:51,720] we take one particle and we move it out
+- [01:22:51,720 - 01:22:53,620] 13 billion light years.
+- [01:22:53,860 - 01:22:54,180] Then,
+- [01:22:54,180 - 01:22:55,420] all of a sudden,
+- [01:22:55,420 - 01:22:57,660] it has an enormous momentum
+- [01:22:58,419 - 01:23:00,840] because of the expansion of the universe.
+- [01:23:01,020 - 01:23:01,480] Is that...
+- [01:23:01,480 - 01:23:03,060] In other words,
+- [01:23:03,060 - 01:23:03,520] it's a...
+- [01:23:03,520 - 01:23:07,320] The momentum is a function of the distance,
+- [01:23:07,320 - 01:23:08,220] x.
+- [01:23:09,140 - 01:23:11,880] If you draw a phase space...
+- [01:23:12,700 - 01:23:13,260] Okay.
+- [01:23:13,400 - 01:23:16,300] Do you see what I'm saying?
+- [01:23:16,300 - 01:23:17,800] I'm not sure if...
+- [01:23:18,719 - 01:23:19,400] The...
+- [01:23:20,200 - 01:23:22,460] Just the separation of the two particles
+- [01:23:23,080 - 01:23:26,400] implies some kind of energy
+- [01:23:26,400 - 01:23:29,140] because of the expansion.
+- [01:23:29,340 - 01:23:31,200] I'm not sure if I'm articulating this very well.
+- [01:23:31,380 - 01:23:36,180] But the coordinate system itself is expanding
+- [01:23:36,180 - 01:23:40,220] where in normal space,
+- [01:23:40,220 - 01:23:41,580] that doesn't happen.
+- [01:23:41,740 - 01:23:42,700] There's no expansion.
+- [01:23:42,700 - 01:23:43,620] Because you can...
+- [01:23:44,360 - 01:23:45,040] The...
+- [01:23:45,800 - 01:23:47,120] The Hubble constant,
+- [01:23:47,120 - 01:23:48,000] you can have things,
+- [01:23:48,000 - 01:23:49,040] you know,
+- [01:23:49,040 - 01:23:51,440] separating faster than the speed of light.
+- [01:23:51,920 - 01:23:52,360] Okay.
+- [01:23:53,220 - 01:23:54,440] Which has nothing to do with this,
+- [01:23:54,440 - 01:23:55,000] obviously.
+- [01:23:55,200 - 01:23:55,460] Right.
+- [01:23:55,560 - 01:23:55,960] But,
+- [01:23:55,960 - 01:23:56,500] you know,
+- [01:23:56,500 - 01:23:57,840] with a gas,
+- [01:23:57,840 - 01:23:59,460] the larger it gets,
+- [01:23:59,640 - 01:24:01,980] the smaller the momentum.
+- [01:24:02,160 - 01:24:05,460] But just looking at the expansion of the universe,
+- [01:24:05,560 - 01:24:08,400] the further the particles are separated,
+- [01:24:10,020 - 01:24:11,660] the larger the momentum...
+- [01:24:11,660 - 01:24:13,120] You're talking about a different phenomenon
+- [01:24:13,120 - 01:24:14,760] which I could describe in a different way.
+- [01:24:16,000 - 01:24:17,280] If you have an explosion...
+- [01:24:18,679 - 01:24:19,240] Now,
+- [01:24:19,240 - 01:24:21,720] this isn't expanding a gas by,
+- [01:24:21,720 - 01:24:22,440] you know,
+- [01:24:22,440 - 01:24:23,380] a controlled expansion.
+- [01:24:23,900 - 01:24:28,180] You just take a gas and you explode it.
+- [01:24:29,300 - 01:24:31,360] Particles don't even interact with each other.
+- [01:24:31,420 - 01:24:32,720] They just go flying out.
+- [01:24:33,520 - 01:24:35,730] It's not a surprise that
+- [01:24:35,730 - 01:24:37,940] the ones which are furthest away
+- [01:24:37,940 - 01:24:39,660] are the ones that are going fastest.
+- [01:24:40,460 - 01:24:42,100] Why are they further away?
+- [01:24:42,260 - 01:24:43,560] Because they were going faster.
+- [01:24:44,460 - 01:24:45,020] So,
+- [01:24:45,020 - 01:24:45,020] you know,
+- [01:24:45,020 - 01:24:45,020] you can...
+- [01:24:46,259 - 01:24:48,040] That's the expansion of the universe.
+- [01:24:48,560 - 01:24:51,580] Why are the distant galaxies moving faster?
+- [01:24:53,480 - 01:24:55,000] Why are they further away?
+- [01:24:55,080 - 01:24:55,740] You ask me that?
+- [01:24:55,740 - 01:24:56,920] Because they're moving away faster.
+- [01:24:58,120 - 01:24:59,920] That is the way Hubble's law works.
+- [01:25:00,120 - 01:25:01,740] That really is the way Hubble's law works,
+- [01:25:01,920 - 01:25:04,940] that the things which are maximally far
+- [01:25:04,940 - 01:25:06,480] are the ones which are moving away fastest.
+- [01:25:07,020 - 01:25:07,540] Why?
+- [01:25:08,140 - 01:25:08,960] Same reason.
+- [01:25:09,160 - 01:25:11,160] So it's a different question.
+- [01:25:11,780 - 01:25:11,860] Yeah.
+- [01:25:12,240 - 01:25:14,000] The fastest horse wins the race.
+- [01:25:14,000 - 01:25:14,760] Not surprising.
+- [01:25:16,500 - 01:25:18,780] In this example with the damping
+- [01:25:18,780 - 01:25:21,060] where you have this spiraling image...
+- [01:25:21,060 - 01:25:21,320] Yes.
+- [01:25:21,460 - 01:25:23,280] Aren't you really not losing information
+- [01:25:23,280 - 01:25:24,560] if you have infinite position?
+- [01:25:25,980 - 01:25:26,540] Okay,
+- [01:25:26,540 - 01:25:27,160] so...
+- [01:25:27,160 - 01:25:28,040] All right,
+- [01:25:28,040 - 01:25:28,500] so that's...
+- [01:25:28,500 - 01:25:30,140] What I'm telling you is
+- [01:25:30,140 - 01:25:31,780] the closest thing that we have
+- [01:25:31,780 - 01:25:34,380] to the discrete losing of
+- [01:25:34,380 - 01:25:36,980] information or not losing information
+- [01:25:36,980 - 01:25:39,360] is whether or not the divergence
+- [01:25:39,360 - 01:25:41,740] of the velocity field is zero.
+- [01:25:42,540 - 01:25:43,980] I think what you can say is,
+- [01:25:44,000 - 01:25:46,360] what you can say in this case
+- [01:25:46,360 - 01:25:48,720] is that each little cell of phase space
+- [01:25:49,600 - 01:25:53,380] is not maintaining its integrity in the sense
+- [01:25:54,000 - 01:25:55,680] that it is not maintaining
+- [01:25:55,680 - 01:25:57,360] the same volume in phase space.
+- [01:25:57,720 - 01:25:59,260] That's about all you can say.
+- [01:26:01,960 - 01:26:04,520] You're right if you had infinite precision
+- [01:26:06,280 - 01:26:09,200] and you knew exactly where that point was
+- [01:26:09,200 - 01:26:12,700] and exactly what velocity it had with infinite precision,
+- [01:26:12,700 - 01:26:17,720] you could reconstruct the past from the equations.
+- [01:26:21,879 - 01:26:23,660] But in practice,
+- [01:26:23,820 - 01:26:26,620] all of the phase points here are getting squished together
+- [01:26:26,620 - 01:26:30,340] and losing their individuality.
+- [01:26:31,700 - 01:26:33,580] You need a better and better microscope
+- [01:26:33,580 - 01:26:35,440] to disentangle what's happening here.
+- [01:26:38,360 - 01:26:40,200] There's a unit of size...
+- [01:26:40,200 - 01:26:40,300] Well,
+- [01:26:40,300 - 01:26:42,360] I don't want to get into quantum mechanics.
+- [01:26:42,420 - 01:26:42,680] No quantum mechanics.
+- [01:26:42,700 - 01:26:43,480] I don't want to talk about quantum mechanics tonight.
+- [01:26:44,060 - 01:26:45,140] So you're right.
+- [01:26:45,240 - 01:26:48,020] It is different than this very discrete situation
+- [01:26:49,759 - 01:26:52,380] where no microscopes are necessary
+- [01:26:52,380 - 01:26:54,640] and no enormous precision is necessary
+- [01:26:54,640 - 01:26:57,780] to identify a point among six points here.
+- [01:27:02,200 - 01:27:03,960] But it has a similarity,
+- [01:27:04,220 - 01:27:06,130] and the similarity is as
+- [01:27:06,130 - 01:27:08,040] many points flow into a point
+- [01:27:08,040 - 01:27:09,100] as flow out of a point.
+- [01:27:09,200 - 01:27:10,940] I think that's the bottom line.
+- [01:27:10,940 - 01:27:13,980] That's as close as I can get to relating
+- [01:27:13,980 - 01:27:17,060] the two concepts of reversibility that we talked about.
+- [01:27:21,200 - 01:27:22,200] And of course,
+- [01:27:22,200 - 01:27:23,140] in quantum mechanics,
+- [01:27:24,080 - 01:27:26,780] where in a sense everything really is discrete,
+- [01:27:27,980 - 01:27:30,200] where in a sense everything really is discrete,
+- [01:27:31,680 - 01:27:35,420] the Liouville theorem becomes much,
+- [01:27:35,420 - 01:27:36,400] much more similar
+- [01:27:36,400 - 01:27:37,720] to this situation here.
+- [01:27:37,760 - 01:27:40,260] The Liouville theorem is replaced by another theorem
+- [01:27:40,260 - 01:27:42,120] which is much,
+- [01:27:42,120 - 01:27:43,100] much more like this.
+- [01:27:44,780 - 01:27:48,120] The connection is that in quantum mechanics,
+- [01:27:48,320 - 01:27:51,760] there's a little unit of phase space,
+- [01:27:52,140 - 01:27:53,900] a smallest unit of phase space.
+- [01:27:58,580 - 01:28:00,960] The smallest area in phase space.
+- [01:28:01,140 - 01:28:02,280] That's what's quantized.
+- [01:28:02,380 - 01:28:04,280] It's the area unit in phase space.
+- [01:28:04,780 - 01:28:09,540] And what quantum mechanics tells you is that
+- [01:28:11,000 - 01:28:13,200] systems don't get bunched up
+- [01:28:13,200 - 01:28:15,400] into smaller and smaller volumes.
+- [01:28:15,680 - 01:28:16,960] But we'll have to come to that.
+- [01:28:17,000 - 01:28:18,020] That's a ways in the future.
+- [01:28:19,240 - 01:28:20,060] At the moment,
+- [01:28:20,060 - 01:28:21,700] the theorem is that
+- [01:28:22,620 - 01:28:27,820] volume in phase space is conserved.
+- [01:28:29,000 - 01:28:29,860] Shape is not.
+- [01:28:35,640 - 01:28:36,880] So think about it.
+- [01:28:44,120 - 01:28:45,220] The other questions?
+- [01:28:47,760 - 01:28:50,380] You started with a surface in phase space
+- [01:28:51,280 - 01:28:53,380] as what is represented,
+- [01:28:53,640 - 01:28:56,420] like the conservation of energy or the...
+- [01:28:56,420 - 01:28:57,000] Yeah.
+- [01:28:57,100 - 01:29:00,120] How does that relate to the flow?
+- [01:29:00,680 - 01:29:01,260] Yeah.
+- [01:29:01,300 - 01:29:01,560] Well,
+- [01:29:01,560 - 01:29:02,020] of course,
+- [01:29:02,020 - 01:29:03,160] among other things,
+- [01:29:03,320 - 01:29:06,200] the flow is along these surfaces.
+- [01:29:06,480 - 01:29:08,920] But that doesn't change the facts here.
+- [01:29:13,900 - 01:29:14,380] Right.
+- [01:29:14,800 - 01:29:15,280] That's...
+- [01:29:18,140 - 01:29:19,780] Let's go back to the harmonic oscillator.
+- [01:29:20,700 - 01:29:22,060] In the harmonic oscillator,
+- [01:29:22,380 - 01:29:24,900] the surfaces are these circles.
+- [01:29:25,900 - 01:29:27,260] So if you start on a circle,
+- [01:29:27,260 - 01:29:28,300] you stay on a circle.
+- [01:29:28,480 - 01:29:29,580] And that's a true statement.
+- [01:29:30,460 - 01:29:32,620] The other true statement is if we
+- [01:29:32,620 - 01:29:34,780] take a bunch of phase space here,
+- [01:29:34,920 - 01:29:36,780] a little region of phase space here,
+- [01:29:36,960 - 01:29:38,320] and we follow it,
+- [01:29:38,320 - 01:29:38,760] it's not...
+- [01:29:38,920 - 01:29:40,580] It's not a definite energy.
+- [01:29:40,780 - 01:29:44,780] It's got just some little box with some volume.
+- [01:29:44,960 - 01:29:45,960] And follow it,
+- [01:29:45,960 - 01:29:47,140] it just moves around here
+- [01:29:47,140 - 01:29:48,700] rigidly maintaining its volume.
+- [01:29:49,020 - 01:29:50,060] Two different statements.
+- [01:29:50,300 - 01:29:51,200] Two different statements.
+- [01:29:54,219 - 01:29:56,460] So they're not so much related.
+- [01:29:56,960 - 01:29:57,840] They're not so much related.
+- [01:30:01,120 - 01:30:01,640] Right.
+- [01:30:01,840 - 01:30:03,500] You can take a little volume of phase space,
+- [01:30:03,600 - 01:30:05,760] which includes several different energies,
+- [01:30:06,500 - 01:30:07,640] and follow it,
+- [01:30:07,640 - 01:30:09,900] and it will maintain its volume.
+- [01:30:10,340 - 01:30:11,720] Notice in this case,
+- [01:30:11,760 - 01:30:13,020] in this case,
+- [01:30:13,160 - 01:30:15,720] the shape of the region also is conserved,
+- [01:30:15,760 - 01:30:16,600] is maintained.
+- [01:30:17,920 - 01:30:20,060] So in the x squared plus...
+- [01:30:20,060 - 01:30:21,860] the p squared plus q squared case,
+- [01:30:22,020 - 01:30:23,060] that's the harmonic oscillator,
+- [01:30:23,160 - 01:30:25,930] it's not just that the volume of
+- [01:30:25,930 - 01:30:28,700] a piece of phase space is conserved.
+- [01:30:28,820 - 01:30:30,260] The shape is conserved.
+- [01:30:30,480 - 01:30:32,240] In this other case over here,
+- [01:30:32,360 - 01:30:33,860] the volume is conserved,
+- [01:30:33,860 - 01:30:35,330] but things get stretched one
+- [01:30:35,330 - 01:30:36,800] way and compressed the other way.
+- [01:30:36,800 - 01:30:39,940] So this is...
+- [01:30:39,940 - 01:30:41,960] the harmonic oscillator is special this way.
+- [01:30:44,459 - 01:30:45,820] In Newton's world,
+- [01:30:45,920 - 01:30:48,000] you can change energy by doing work.
+- [01:30:48,140 - 01:30:48,700] Yes.
+- [01:30:48,820 - 01:30:50,060] Do we have the equivalent...
+- [01:30:50,060 - 01:30:51,320] How do we handle work?
+- [01:30:52,020 - 01:30:52,580] Well,
+- [01:30:55,419 - 01:30:59,360] work is energy that's exchanged with a system
+- [01:30:59,360 - 01:31:01,100] that you're not accounting for.
+- [01:31:02,020 - 01:31:03,180] In other words,
+- [01:31:03,300 - 01:31:06,780] if I have a system
+- [01:31:08,099 - 01:31:11,260] let's suppose it's this eraser here,
+- [01:31:11,420 - 01:31:15,260] and the eraser is satisfying some equation of motion,
+- [01:31:15,420 - 01:31:17,400] which has a gravitational force,
+- [01:31:17,420 - 01:31:18,340] a kinetic energy,
+- [01:31:18,400 - 01:31:18,940] and so forth,
+- [01:31:19,020 - 01:31:20,880] and I am an external system
+- [01:31:20,880 - 01:31:22,900] that's not being accounted for in the equations,
+- [01:31:22,980 - 01:31:24,440] exerting forces on this,
+- [01:31:24,680 - 01:31:27,420] then I can exchange energy with it,
+- [01:31:27,460 - 01:31:28,950] or I can change its
+- [01:31:28,950 - 01:31:30,440] energy by doing work on it,
+- [01:31:30,540 - 01:31:31,680] but the work,
+- [01:31:31,700 - 01:31:33,820] the energy that I give it,
+- [01:31:33,940 - 01:31:35,940] is taken from me.
+- [01:31:36,160 - 01:31:36,760] So I can exchange energy with it,
+- [01:31:36,760 - 01:31:39,240] so work has to do with exchanging energy
+- [01:31:39,240 - 01:31:41,700] between systems that you're accounting for everything
+- [01:31:41,700 - 01:31:44,720] and other systems that are...
+- [01:31:44,720 - 01:31:48,760] are acting as external agents on the system.
+- [01:31:50,640 - 01:31:51,920] For example,
+- [01:31:52,760 - 01:31:53,160] well,
+- [01:31:55,740 - 01:31:56,420] yes,
+- [01:31:56,520 - 01:31:58,300] the concept of work is useful
+- [01:31:58,300 - 01:32:00,240] when you separate a system into the part
+- [01:32:00,240 - 01:32:01,220] that you're going to describe,
+- [01:32:01,600 - 01:32:05,120] and the part you're simply describing by external forces.
+- [01:32:05,120 - 01:32:07,920] Where those external forces come from,
+- [01:32:07,980 - 01:32:08,720] you don't care.
+- [01:32:08,960 - 01:32:11,680] You don't care if they're described by a Lagrangian
+- [01:32:11,680 - 01:32:13,160] or a Hamiltonian or anything else.
+- [01:32:13,320 - 01:32:16,260] You just say there's an external force on a system,
+- [01:32:16,420 - 01:32:18,080] and that external force on
+- [01:32:18,080 - 01:32:19,740] the system does work on it.
+- [01:32:19,960 - 01:32:21,320] It can just raise a weight.
+- [01:32:22,260 - 01:32:23,160] Of course,
+- [01:32:23,180 - 01:32:26,160] it changes the energy at the cost of
+- [01:32:26,160 - 01:32:29,900] having to provide the energy from the external system,
+- [01:32:29,960 - 01:32:30,920] which is doing the work.
+- [01:32:31,420 - 01:32:31,940] So,
+- [01:32:32,000 - 01:32:32,560] um,
+- [01:32:33,820 - 01:32:34,320] um,
+- [01:32:35,160 - 01:32:36,800] but the concept of work
+- [01:32:36,800 - 01:32:38,670] is not one which comes
+- [01:32:38,670 - 01:32:40,540] up very much in modern physics,
+- [01:32:40,820 - 01:32:42,760] so I don't...
+- [01:32:42,760 - 01:32:44,240] We don't really need to think about it.
+- [01:32:44,300 - 01:32:46,360] Energy conservation is the important idea,
+- [01:32:47,120 - 01:32:49,940] and the idea that two systems can give energy
+- [01:32:49,940 - 01:32:51,740] back and forth between them,
+- [01:32:51,840 - 01:32:54,040] and that we sometimes call that work,
+- [01:32:54,220 - 01:32:54,820] uh,
+- [01:32:55,300 - 01:32:57,300] is sort of secondary.
+- [01:32:59,520 - 01:33:00,120] Yeah.
+- [01:33:00,520 - 01:33:02,180] Just looking for connections,
+- [01:33:02,420 - 01:33:03,060] is there...
+- [01:33:04,259 - 01:33:06,580] Louville's theorem preserved...
+- [01:33:06,580 - 01:33:09,180] says we preserve topology of phase space.
+- [01:33:09,440 - 01:33:10,480] Does it do anything...
+- [01:33:10,480 - 01:33:10,700] Preserve what?
+- [01:33:10,820 - 01:33:11,340] Topology.
+- [01:33:11,620 - 01:33:12,160] It does,
+- [01:33:12,160 - 01:33:12,400] yes.
+- [01:33:12,400 - 01:33:12,860] Does it...
+- [01:33:12,860 - 01:33:13,680] Is there any...
+- [01:33:13,680 - 01:33:15,020] It doesn't preserve angles,
+- [01:33:15,020 - 01:33:15,800] does it?
+- [01:33:15,820 - 01:33:15,980] No,
+- [01:33:15,980 - 01:33:16,380] no,
+- [01:33:16,380 - 01:33:17,220] definitely not.
+- [01:33:17,520 - 01:33:18,480] For example,
+- [01:33:18,620 - 01:33:19,620] in this case,
+- [01:33:19,620 - 01:33:20,300] PQ here,
+- [01:33:20,420 - 01:33:21,980] if I took a cross like this,
+- [01:33:22,559 - 01:33:23,880] and I evolved it,
+- [01:33:24,000 - 01:33:25,600] it would become a cross like that.
+- [01:33:26,500 - 01:33:27,020] No,
+- [01:33:27,020 - 01:33:29,720] it definitely does not say angles are conserved.
+- [01:33:29,800 - 01:33:30,720] Most definitely not.
+- [01:33:30,860 - 01:33:33,040] The harmonic oscillator is probably the only case
+- [01:33:33,040 - 01:33:33,720] where it's true.
+- [01:33:35,100 - 01:33:37,720] And that's an unusual case.
+- [01:33:38,880 - 01:33:39,420] Uh...
+- [01:33:40,840 - 01:33:41,380] Right.
+- [01:33:42,740 - 01:33:43,280] Yes?
+- [01:33:43,460 - 01:33:44,220] Just to...
+- [01:33:44,780 - 01:33:47,020] I listened to your lectures on the tape
+- [01:33:47,020 - 01:33:48,480] from the previous series,
+- [01:33:48,660 - 01:33:49,420] and you...
+- [01:33:50,220 - 01:33:51,960] In the classical mechanics,
+- [01:33:52,220 - 01:33:53,820] you talk about Legendre's theorem.
+- [01:33:54,240 - 01:33:54,780] Oh,
+- [01:33:54,780 - 01:33:55,060] yeah.
+- [01:33:55,160 - 01:33:56,960] I decided to abandon...
+- [01:33:56,960 - 01:33:58,540] Not to bother with it this time,
+- [01:33:58,640 - 01:34:00,580] but the Legendre transformation.
+- [01:34:00,980 - 01:34:01,160] Right.
+- [01:34:01,160 - 01:34:02,820] Is it mostly mathematical,
+- [01:34:03,120 - 01:34:04,700] or is it physically significant?
+- [01:34:11,160 - 01:34:12,000] It's a trick.
+- [01:34:12,180 - 01:34:13,040] It's a useful trick.
+- [01:34:13,320 - 01:34:14,580] It's a useful trick.
+- [01:34:15,000 - 01:34:16,240] It's especially...
+- [01:34:16,240 - 01:34:17,600] It's a useful trick.
+- [01:34:18,080 - 01:34:18,540] Um...
+- [01:34:19,500 - 01:34:20,060] It's...
+- [01:34:20,060 - 01:34:23,120] I decided it wasn't important enough
+- [01:34:23,120 - 01:34:25,220] to worry about this time around.
+- [01:34:25,660 - 01:34:26,220] And,
+- [01:34:26,220 - 01:34:26,720] um...
+- [01:34:27,719 - 01:34:28,280] Uh...
+- [01:34:28,280 - 01:34:29,560] We didn't...
+- [01:34:29,560 - 01:34:31,060] We didn't really need to think about it.
+- [01:34:31,160 - 01:34:32,180] If I ever need it,
+- [01:34:32,200 - 01:34:33,320] and we ever need it for anything,
+- [01:34:33,480 - 01:34:34,000] I'll do it,
+- [01:34:34,000 - 01:34:34,480] but...
+- [01:34:36,400 - 01:34:36,840] It's...
+- [01:34:36,840 - 01:34:37,500] Uh...
+- [01:34:38,540 - 01:34:38,980] Right.
+- [01:34:41,900 - 01:34:43,460] We used it over and over,
+- [01:34:43,560 - 01:34:44,460] but I didn't call it that.
+- [01:34:48,340 - 01:34:48,780] Okay.
+- [01:34:49,660 - 01:34:50,100] Um...
+- [01:34:53,140 - 01:34:55,620] I could go on for another few minutes,
+- [01:34:55,740 - 01:34:57,640] or we can just stop here.
+- [01:34:58,520 - 01:34:59,340] I want...
+- [01:34:59,340 - 01:35:00,460] The next thing...
+- [01:35:01,160 - 01:35:01,980] As I said,
+- [01:35:02,080 - 01:35:04,660] a lot of this development
+- [01:35:04,660 - 01:35:06,340] of classical mechanics,
+- [01:35:07,179 - 01:35:09,700] which really did turn out
+- [01:35:09,700 - 01:35:11,780] to become absolutely central
+- [01:35:11,780 - 01:35:13,780] once quantum mechanics happened,
+- [01:35:13,900 - 01:35:16,440] was playing around with the equations
+- [01:35:16,440 - 01:35:18,160] and putting them in different forms
+- [01:35:18,160 - 01:35:19,640] and finding different elegant,
+- [01:35:19,640 - 01:35:20,720] uh...
+- [01:35:21,840 - 01:35:22,560] representations
+- [01:35:23,160 - 01:35:24,800] of the same set of equations.
+- [01:35:26,100 - 01:35:27,280] And we're gonna do
+- [01:35:27,280 - 01:35:30,460] at least one more version of mechanics,
+- [01:35:30,460 - 01:35:33,220] or at least one other concept which
+- [01:35:33,220 - 01:35:35,980] is closely related to the Hamiltonian version,
+- [01:35:36,240 - 01:35:38,220] and it's called Poisson brackets.
+- [01:35:38,680 - 01:35:40,170] It's again one of these very elegant
+- [01:35:40,170 - 01:35:41,660] things when you look at it and say,
+- [01:35:41,720 - 01:35:43,090] what the hell good is that
+- [01:35:43,090 - 01:35:44,460] other than for just writing neat equations?
+- [01:35:45,380 - 01:35:48,140] And the importance of it,
+- [01:35:48,140 - 01:35:48,540] again,
+- [01:35:48,540 - 01:35:50,520] quantum mechanics.
+- [01:35:52,000 - 01:35:54,850] Maybe I will start the
+- [01:35:54,850 - 01:35:57,700] subject of Poisson brackets right now.
+- [01:35:57,700 - 01:35:59,820] At the beginning of the hour,
+- [01:35:59,820 - 01:36:02,760] because you just cycled back to what you talked about,
+- [01:36:02,780 - 01:36:03,480] the beginning of the hour.
+- [01:36:03,720 - 01:36:05,720] The beginning of the hour was energy conservation.
+- [01:36:06,480 - 01:36:06,940] No,
+- [01:36:06,940 - 01:36:07,100] no,
+- [01:36:07,100 - 01:36:07,740] the very beginning,
+- [01:36:07,740 - 01:36:08,460] 7 o'clock,
+- [01:36:08,460 - 01:36:10,880] you were musing about the 19th century physicists.
+- [01:36:11,760 - 01:36:14,250] And you said that you were speculating that
+- [01:36:14,250 - 01:36:16,740] they had played with a lot of different
+- [01:36:16,740 - 01:36:18,520] equations without realizing the
+- [01:36:18,520 - 01:36:20,300] physical significance of them.
+- [01:36:20,520 - 01:36:20,980] Well,
+- [01:36:20,980 - 01:36:21,440] I don't know.
+- [01:36:21,860 - 01:36:24,010] They may have realized the
+- [01:36:24,010 - 01:36:26,160] physical significance within the context of
+- [01:36:26,160 - 01:36:27,160] classical mechanics.
+- [01:36:27,220 - 01:36:27,600] I mean,
+- [01:36:27,700 - 01:36:28,060] for example,
+- [01:36:28,120 - 01:36:29,560] Hamilton probably did realize
+- [01:36:29,560 - 01:36:31,000] that the Hamiltonian was energy.
+- [01:36:33,980 - 01:36:37,770] But what they were doing
+- [01:36:37,770 - 01:36:41,560] was just playing with the equations,
+- [01:36:41,560 - 01:36:42,160] I would say.
+- [01:36:42,760 - 01:36:44,240] I don't think they understood.
+- [01:36:44,760 - 01:36:46,860] They could not have understood how important it
+- [01:36:46,860 - 01:36:48,960] was going to be 100 years from then.
+- [01:36:49,800 - 01:36:51,640] There was no way that they could have.
+- [01:36:52,360 - 01:36:52,640] They were,
+- [01:36:52,640 - 01:36:53,940] among other things,
+- [01:36:53,940 - 01:36:56,940] they were finding analogies between different kinds
+- [01:36:56,940 - 01:36:57,600] of things.
+- [01:36:57,600 - 01:36:59,060] For example,
+- [01:36:59,060 - 01:37:03,260] the motion of light rays and mechanical systems.
+- [01:37:03,580 - 01:37:03,980] Well,
+- [01:37:03,980 - 01:37:05,770] once you know that the motion
+- [01:37:05,770 - 01:37:07,560] of light rays is like mechanical systems,
+- [01:37:07,560 - 01:37:08,160] you might
+- [01:37:08,160 - 01:37:09,180] begin to wonder,
+- [01:37:09,180 - 01:37:11,810] is there an analog in classical
+- [01:37:11,810 - 01:37:14,440] mechanics of wave motion and so forth?
+- [01:37:14,800 - 01:37:16,100] And the answer is yes,
+- [01:37:16,100 - 01:37:16,560] there is.
+- [01:37:18,720 - 01:37:21,550] But they were exploring all these
+- [01:37:21,550 - 01:37:24,380] analogies and mathematical similarities between different
+- [01:37:24,380 - 01:37:25,100] things,
+- [01:37:25,100 - 01:37:27,580] trying to create structure.
+- [01:37:27,600 - 01:37:29,250] And they were trying to create structures
+- [01:37:29,250 - 01:37:30,900] where everything would fit into the same kind
+- [01:37:30,900 - 01:37:31,620] of structure,
+- [01:37:31,620 - 01:37:35,380] trying to make the equations as small as possible,
+- [01:37:35,380 - 01:37:36,980] meaning as few as possible,
+- [01:37:37,700 - 01:37:38,820] as elegant,
+- [01:37:38,820 - 01:37:40,020] as neat as possible.
+- [01:37:42,520 - 01:37:43,760] In my opinion,
+- [01:37:43,760 - 01:37:49,190] it was not so much motivated
+- [01:37:49,190 - 01:37:54,620] by individual phenomena as trying to unify
+- [01:37:54,620 - 01:37:57,580] everything and packaging it into the same kind of package.
+- [01:37:57,600 - 01:37:59,000] Formal structures,
+- [01:37:59,000 - 01:38:01,440] creating formal structures.
+- [01:38:02,440 - 01:38:04,200] But I wasn't there.
+- [01:38:04,380 - 01:38:05,260] I didn't do it.
+- [01:38:05,400 - 01:38:09,460] And I can only guess what was in their minds.
+- [01:38:12,320 - 01:38:13,100] There were largely,
+- [01:38:13,100 - 01:38:13,480] you know,
+- [01:38:13,480 - 01:38:15,660] there was no difference in those days,
+- [01:38:15,660 - 01:38:16,560] or not much difference
+- [01:38:16,560 - 01:38:18,220] between a physicist and a mathematician.
+- [01:38:19,839 - 01:38:20,440] And,
+- [01:38:20,440 - 01:38:21,040] well,
+- [01:38:21,040 - 01:38:27,580] I first heard this remark from my friend Dick Cronenberg.
+- [01:38:27,600 - 01:38:28,620] Feynman many years ago,
+- [01:38:28,620 - 01:38:33,380] that the difference between mathematicians and physicists is
+- [01:38:33,380 - 01:38:35,400] the difference between masturbation and sex.
+- [01:38:38,120 - 01:38:40,100] I think what he meant is
+- [01:38:40,100 - 01:38:42,080] that physicists are interacting with a partner,
+- [01:38:42,080 - 01:38:42,880] namely the physical
+- [01:38:42,880 - 01:38:43,340] world.
+- [01:38:44,300 - 01:38:47,440] Mathematicians are interacting...
+- [01:38:52,959 - 01:38:55,080] I don't know what was on their mind.
+- [01:38:56,539 - 01:38:57,580] I don't know what was on their mind.
+- [01:38:58,040 - 01:38:59,520] I wouldn't have done what they did,
+- [01:38:59,520 - 01:39:00,380] unfortunately.
+- [01:39:04,960 - 01:39:05,560] All right,
+- [01:39:05,560 - 01:39:07,100] let's talk a little bit about Poisson brackets,
+- [01:39:07,100 - 01:39:10,220] just to set us up for the next time.
+- [01:39:10,580 - 01:39:12,020] What is a Poisson bracket?
+- [01:39:13,220 - 01:39:13,660] Well,
+- [01:39:13,660 - 01:39:16,520] it starts out by saying,
+- [01:39:16,520 - 01:39:21,280] supposing I have a function of P and Q,
+- [01:39:21,280 - 01:39:22,000] the most general
+- [01:39:22,820 - 01:39:24,780] thing I could be interested in,
+- [01:39:24,780 - 01:39:26,360] you know,
+- [01:39:26,400 - 01:39:27,580] you know,
+- [01:39:27,580 - 01:39:30,690] the most general thing having to do with the
+- [01:39:30,690 - 01:39:33,800] dynamics of a system is to know how a function
+- [01:39:34,740 - 01:39:35,940] changes with time.
+- [01:39:36,160 - 01:39:36,700] Now,
+- [01:39:36,700 - 01:39:37,660] the function could just be Q,
+- [01:39:37,660 - 01:39:39,660] in which case,
+- [01:39:39,660 - 01:39:42,120] figuring out how the function changes
+- [01:39:42,120 - 01:39:43,370] with time is just figuring
+- [01:39:43,370 - 01:39:44,620] out how Q changes with time,
+- [01:39:44,620 - 01:39:46,960] meaning how the position changes
+- [01:39:46,960 - 01:39:47,400] with time.
+- [01:39:47,720 - 01:39:50,860] It could be Q times P.
+- [01:39:50,860 - 01:39:52,580] And you ask,
+- [01:39:52,580 - 01:39:54,440] how does Q times P change with time?
+- [01:39:55,160 - 01:39:57,020] I don't know why you would want to do that.
+- [01:39:57,360 - 01:39:57,840] But,
+- [01:39:57,840 - 01:39:58,280] well,
+- [01:39:58,280 - 01:40:01,160] it could be the angular momentum,
+- [01:40:01,160 - 01:40:03,560] R times P,
+- [01:40:03,560 - 01:40:05,660] which is a kind of Q times P.
+- [01:40:05,660 - 01:40:06,400] The
+- [01:40:06,400 - 01:40:07,020] angular momentum,
+- [01:40:07,020 - 01:40:09,040] if there's a torque on the system,
+- [01:40:09,040 - 01:40:11,660] then the angular momentum changes
+- [01:40:11,660 - 01:40:12,160] with time.
+- [01:40:12,280 - 01:40:12,780] You might ask,
+- [01:40:12,780 - 01:40:14,940] how does the angular momentum change with time?
+- [01:40:15,300 - 01:40:15,780] So,
+- [01:40:15,780 - 01:40:18,480] how does the general function F of
+- [01:40:18,480 - 01:40:21,180] Q and P change as time goes on?
+- [01:40:22,220 - 01:40:23,600] Let's explore that question,
+- [01:40:23,600 - 01:40:24,420] just as an abstract.
+- [01:40:24,420 - 01:40:24,920] Just an abstract question.
+- [01:40:25,120 - 01:40:26,240] How does this change with time?
+- [01:40:26,580 - 01:40:27,460] And again,
+- [01:40:27,460 - 01:40:31,160] the number of tricks here is rather limited.
+- [01:40:31,660 - 01:40:34,720] I'm interested in how this quantity changes with time.
+- [01:40:34,800 - 01:40:34,940] Now,
+- [01:40:34,940 - 01:40:36,080] why does it change with time?
+- [01:40:36,280 - 01:40:39,000] It changes because Q changes and P changes.
+- [01:40:40,100 - 01:40:43,380] As you follow the trajectory through the phase space,
+- [01:40:43,380 - 01:40:46,940] F of Q and P changes just because Q
+- [01:40:46,940 - 01:40:47,680] and P change.
+- [01:40:48,720 - 01:40:49,260] So,
+- [01:40:49,260 - 01:40:50,840] how do you calculate this?
+- [01:40:51,080 - 01:40:52,000] Standard rule.
+- [01:40:52,260 - 01:40:53,000] You differentiate.
+- [01:40:54,780 - 01:40:55,300] We're going to do the same thing.
+- [01:40:55,300 - 01:40:55,300] So,
+- [01:40:55,300 - 01:40:55,820] we're going to divide Q by DQ,
+- [01:40:55,820 - 01:40:58,000] sub I,
+- [01:40:58,000 - 01:40:59,680] we're going to sum over I,
+- [01:40:59,680 - 01:41:06,420] times Q sub I dot plus
+- [01:41:07,280 - 01:41:09,840] the F by the P sub I,
+- [01:41:09,840 - 01:41:12,540] oops,
+- [01:41:12,540 - 01:41:13,980] P sub I dot.
+- [01:41:15,720 - 01:41:16,540] Same thing.
+- [01:41:16,600 - 01:41:17,180] We've done it before.
+- [01:41:17,400 - 01:41:18,460] We'll probably do it again.
+- [01:41:18,720 - 01:41:21,110] We differentiate something with respect to
+- [01:41:21,110 - 01:41:23,500] time by differentiating it with respect to
+- [01:41:23,500 - 01:41:24,080] the arguments.
+- [01:41:24,080 - 01:41:25,600] the thing that the function depends on,
+- [01:41:25,680 - 01:41:28,540] and then multiplying by how fast those things change.
+- [01:41:28,940 - 01:41:30,600] But now we have something.
+- [01:41:31,000 - 01:41:32,740] We have P dot and Q dot,
+- [01:41:32,740 - 01:41:34,620] so I can substitute that in here.
+- [01:41:35,060 - 01:41:38,100] And this is equal to summation.
+- [01:41:38,380 - 01:41:38,480] Now,
+- [01:41:38,480 - 01:41:39,740] somebody first did this calculation.
+- [01:41:40,020 - 01:41:40,780] I don't know who it was.
+- [01:41:40,780 - 01:41:41,940] Maybe it was Poisson.
+- [01:41:42,380 - 01:41:43,540] But let's write it out.
+- [01:41:43,940 - 01:41:45,720] The F by dQ sub i.
+- [01:41:47,620 - 01:41:48,060] Now,
+- [01:41:48,060 - 01:41:49,000] what's Q sub i dot?
+- [01:41:49,000 - 01:41:49,160] Q sub i dot.
+- [01:41:51,420 - 01:41:53,480] The H by dP sub i,
+- [01:41:53,480 - 01:41:53,760] right?
+- [01:41:57,180 - 01:41:57,660] Negative.
+- [01:42:00,840 - 01:42:01,320] Minus?
+- [01:42:02,080 - 01:42:02,560] Q?
+- [01:42:02,560 - 01:42:03,180] No.
+- [01:42:03,180 - 01:42:03,800] No.
+- [01:42:04,480 - 01:42:04,960] No,
+- [01:42:04,960 - 01:42:05,380] that's right.
+- [01:42:05,600 - 01:42:07,060] And then there's another term,
+- [01:42:07,060 - 01:42:09,520] which is the F by dP sub i.
+- [01:42:14,000 - 01:42:15,380] And then P sub i
+- [01:42:15,380 - 01:42:16,760] dot that does have a negative.
+- [01:42:19,000 - 01:42:19,120] So,
+- [01:42:19,120 - 01:42:21,580] it's equal to dH by dQ sub i.
+- [01:42:26,000 - 01:42:26,880] Two functions.
+- [01:42:27,080 - 01:42:27,920] One of them is H,
+- [01:42:27,920 - 01:42:29,040] the Hamiltonian.
+- [01:42:29,300 - 01:42:31,260] The other is some general function.
+- [01:42:32,840 - 01:42:34,460] Poisson did this calculation,
+- [01:42:34,800 - 01:42:36,620] and he did it for the harmonic oscillator,
+- [01:42:36,960 - 01:42:38,140] and he did it for this system,
+- [01:42:38,140 - 01:42:39,220] and he did it for that system,
+- [01:42:39,300 - 01:42:41,160] and he got tired of writing this down.
+- [01:42:42,940 - 01:42:44,870] He wrote it down so
+- [01:42:44,870 - 01:42:46,800] many times for two different functions,
+- [01:42:46,800 - 01:42:50,580] that he decided to give this operation a name,
+- [01:42:51,080 - 01:42:52,920] or to write a symbol for it.
+- [01:42:54,120 - 01:42:55,260] And so he said,
+- [01:42:55,260 - 01:42:57,000] given any two functions,
+- [01:42:58,360 - 01:43:00,080] given any two functions,
+- [01:43:04,740 - 01:43:06,180] whatever they happen to be,
+- [01:43:06,340 - 01:43:08,620] let's now take any two functions.
+- [01:43:08,760 - 01:43:09,540] They don't have to be,
+- [01:43:10,600 - 01:43:11,870] one of them does not
+- [01:43:11,870 - 01:43:13,140] now have to be the Hamiltonian.
+- [01:43:13,200 - 01:43:14,280] This is just a definition.
+- [01:43:15,140 - 01:43:15,620] Let's,
+- [01:43:15,620 - 01:43:15,800] uh,
+- [01:43:15,800 - 01:43:16,780] let's replace it.
+- [01:43:16,780 - 01:43:19,000] by some general function which we'll call g
+- [01:43:20,600 - 01:43:23,080] may or may not be the Hamiltonian of the system
+- [01:43:23,720 - 01:43:25,680] just two functions of phase space
+- [01:43:27,280 - 01:43:28,240] this quantity
+- [01:43:29,000 - 01:43:31,520] the derivative of one with respect to q
+- [01:43:32,060 - 01:43:34,380] times the derivative of the other with respect to p
+- [01:43:34,960 - 01:43:35,920] and then interchange
+- [01:43:36,540 - 01:43:37,440] and subtract
+- [01:43:37,960 - 01:43:39,240] and sum over i
+- [01:43:39,240 - 01:43:43,800] that Poisson called the Poisson bracket
+- [01:43:46,460 - 01:43:48,320] Poisson was not a modest man
+- [01:43:51,580 - 01:43:54,680] it's called the Poisson bracket of f and g
+- [01:43:55,740 - 01:43:57,300] and it's simply written
+- [01:43:59,860 - 01:44:01,680] f comma g
+- [01:44:04,500 - 01:44:06,780] we're gonna write this kind of thing down
+- [01:44:08,440 - 01:44:09,460] now and then
+- [01:44:11,140 - 01:44:12,810] and we're not gonna bother
+- [01:44:12,810 - 01:44:14,480] writing all of this mess here
+- [01:44:14,480 - 01:44:16,190] we're gonna write it's the
+- [01:44:16,190 - 01:44:17,900] Poisson bracket of f and g
+- [01:44:19,360 - 01:44:21,640] but now we have a
+- [01:44:21,640 - 01:44:23,920] new way of writing Hamilton's equations
+- [01:44:24,760 - 01:44:26,940] and everything about the system
+- [01:44:26,940 - 01:44:28,720] and the new way of writing it
+- [01:44:28,720 - 01:44:29,360] here it is
+- [01:44:30,720 - 01:44:31,440] here it is
+- [01:44:31,440 - 01:44:32,860] we'll go back now and call this h
+- [01:44:32,860 - 01:44:34,280] let's call this h again
+- [01:44:37,519 - 01:44:39,780] we have a new formulation of mechanics
+- [01:44:39,780 - 01:44:42,980] in which the time derivative of anything
+- [01:44:42,980 - 01:44:45,460] it could be q
+- [01:44:45,460 - 01:44:46,580] it could be p
+- [01:44:46,580 - 01:44:48,360] it could be anything
+- [01:44:48,360 - 01:44:51,200] is given by the Poisson bracket
+- [01:44:52,599 - 01:44:54,400] of f with what
+- [01:44:56,440 - 01:44:57,960] with the Hamiltonian
+- [01:45:01,679 - 01:45:03,560] that's all there is to the world
+- [01:45:03,560 - 01:45:05,160] every time derivative of anything that you can think
+- [01:45:05,160 - 01:45:06,760] of is a Poisson bracket of f and g
+- [01:45:06,760 - 01:45:07,120] and that's what we're gonna think of
+- [01:45:07,120 - 01:45:09,560] is just the Poisson bracket of that thing
+- [01:45:09,980 - 01:45:11,080] with a Hamiltonian
+- [01:45:11,080 - 01:45:13,300] of course you have to know what the Hamiltonian is
+- [01:45:13,880 - 01:45:15,860] this is the most condensed
+- [01:45:15,860 - 01:45:17,840] version of classical mechanics I know
+- [01:45:17,840 - 01:45:20,760] I mean it is really condensed
+- [01:45:20,760 - 01:45:22,920] this is everything that you could
+- [01:45:24,259 - 01:45:26,660] I can condense it even more
+- [01:45:27,080 - 01:45:28,420] I'll condense it even more
+- [01:45:28,420 - 01:45:29,780] take this subtract it
+- [01:45:31,120 - 01:45:31,860] square it
+- [01:45:34,920 - 01:45:35,920] call this thing
+- [01:45:42,360 - 01:45:43,520] say that it's zero
+- [01:45:43,520 - 01:45:46,160] and then call this thing in here a
+- [01:45:46,160 - 01:45:48,660] and then we only have one equation a equals zero
+- [01:45:50,360 - 01:45:51,600] that's Susskind's equation
+- [01:45:51,600 - 01:45:54,840] in fact you can write any equation
+- [01:45:54,840 - 01:45:56,530] you can take all of
+- [01:45:56,530 - 01:45:58,220] the equations of all of physics
+- [01:45:58,220 - 01:46:00,820] take their squares add them all together
+- [01:46:01,719 - 01:46:03,060] set it equal to zero
+- [01:46:03,980 - 01:46:05,220] and that's uh...
+- [01:46:05,220 - 01:46:05,900] but uh...
+- [01:46:06,940 - 01:46:09,120] this is pretty neat though
+- [01:46:09,120 - 01:46:13,000] the time derivative of anything is the Poisson bracket
+- [01:46:13,920 - 01:46:15,160] of the anything
+- [01:46:15,160 - 01:46:16,880] with the Hamiltonian
+- [01:46:16,880 - 01:46:19,440] now if this was all there was to it
+- [01:46:20,740 - 01:46:23,280] then Poisson brackets wouldn't be all that interesting
+- [01:46:26,480 - 01:46:27,460] but it's not
+- [01:46:27,460 - 01:46:28,580] we're gonna find out
+- [01:46:28,580 - 01:46:32,680] that all kinds of equations of physics
+- [01:46:32,680 - 01:46:35,740] can be expressed in terms of Poisson brackets
+- [01:46:35,740 - 01:46:35,900] and that's the reason we're doing this now
+- [01:46:36,420 - 01:46:37,780] symmetry is all sorts
+- [01:46:37,780 - 01:46:39,080] of things that the Poisson
+- [01:46:39,080 - 01:46:40,380] bracket is a very central thing
+- [01:46:41,600 - 01:46:43,440] and we'll spend a little bit of time
+- [01:46:43,440 - 01:46:44,460] I'm not gonna spend a lot of time
+- [01:46:44,460 - 01:46:45,560] with that but uh...
+- [01:46:45,560 - 01:46:48,180] I just wanted to show you how it works
+- [01:46:48,180 - 01:46:51,480] okay um next time I'll tell you a little more
+- [01:46:51,480 - 01:46:52,240] about Poisson brackets
+- [01:46:52,240 - 01:46:54,660] and then what i want to go is angular momentum
+- [01:46:55,980 - 01:47:00,460] angular momentum and how angular momentum works
+- [01:47:01,080 - 01:47:04,060] angular momentum is extremely important in quantum mechanics
+- [01:47:04,060 - 01:47:05,880] and throughout physics and we'll talk about that later
+- [01:47:05,900 - 01:47:09,580] Spend some time learning about classical angular momentum.
+- [01:47:12,600 - 01:47:13,280] For more,
+- [01:47:13,280 - 01:47:15,680] please visit us at stanford.edu.
