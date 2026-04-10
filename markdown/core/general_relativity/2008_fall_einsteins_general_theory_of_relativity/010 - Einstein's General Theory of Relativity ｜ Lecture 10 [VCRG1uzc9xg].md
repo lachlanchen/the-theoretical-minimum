@@ -1,0 +1,3235 @@
+# Transcript
+
+Source: core/general_relativity/2008_fall_einsteins_general_theory_of_relativity/010 - Einstein's General Theory of Relativity ｜ Lecture 10 [VCRG1uzc9xg].mkv
+
+- [00:00:07,100 - 00:00:09,780] This program is brought to you by Stanford University.
+- [00:00:10,180 - 00:00:12,720] Please visit us at stanford.edu.
+- [00:00:14,780 - 00:00:15,740] Here's space.
+- [00:00:15,960 - 00:00:17,020] Let's concentrate on space.
+- [00:00:17,920 - 00:00:19,040] No energy around.
+- [00:00:20,200 - 00:00:23,100] We can take space-time to be flat.
+- [00:00:23,360 - 00:00:24,360] But in particular,
+- [00:00:24,360 - 00:00:25,620] if space-time is flat,
+- [00:00:25,620 - 00:00:27,600] it's just ordinary Minkowski space.
+- [00:00:27,600 - 00:00:30,250] We can certainly imagine that space is flat
+- [00:00:30,250 - 00:00:32,900] by slicing through it in a flat way.
+- [00:00:33,920 - 00:00:35,920] But now let's put a particle into it.
+- [00:00:36,400 - 00:00:38,240] If we put a particle into it,
+- [00:00:38,240 - 00:00:42,100] particles have energy,
+- [00:00:42,100 - 00:00:43,020] and
+- [00:00:43,020 - 00:00:45,140] the right-hand side is no longer zero.
+- [00:00:45,720 - 00:00:48,240] At the point where the particle is,
+- [00:00:48,240 - 00:00:48,800] and
+- [00:00:48,800 - 00:00:51,100] only at the point where the particle is,
+- [00:00:51,100 - 00:00:53,060] there's curvature.
+- [00:00:53,880 - 00:00:56,460] Can you think of a geometry which has the property
+- [00:00:58,380 - 00:01:01,840] that it is flat everywhere except at a point?
+- [00:01:02,240 - 00:01:02,780] A cone.
+- [00:01:02,780 - 00:01:03,440] A cone.
+- [00:01:04,340 - 00:01:04,879] Yes.
+- [00:01:05,600 - 00:01:08,620] So the solution of the problem
+- [00:01:08,620 - 00:01:11,640] of general relativity of a point mass
+- [00:01:13,499 - 00:01:15,920] is that space is a cone,
+- [00:01:15,920 - 00:01:21,300] and of course there's also time.
+- [00:01:23,000 - 00:01:23,840] Space-time,
+- [00:01:23,840 - 00:01:25,200] if we want to think about it,
+- [00:01:25,200 - 00:01:26,060] we can think about it this way.
+- [00:01:26,140 - 00:01:27,200] Time goes up.
+- [00:01:29,800 - 00:01:31,000] And space,
+- [00:01:31,000 - 00:01:34,180] instead of being just flat,
+- [00:01:34,180 - 00:01:36,060] it is just flat.
+- [00:01:36,280 - 00:01:38,060] But right where the particle is,
+- [00:01:38,060 - 00:01:42,440] there's a conical deficit.
+- [00:01:42,680 - 00:01:43,860] A deficit angle.
+- [00:01:44,760 - 00:01:47,810] Just like when we make a cone by cutting
+- [00:01:47,810 - 00:01:50,860] out with a scissor a piece of deficit angle.
+- [00:01:51,860 - 00:01:52,460] Okay.
+- [00:01:52,520 - 00:01:52,780] Now,
+- [00:01:52,780 - 00:01:56,020] how big would you think the deficit angle is?
+- [00:01:56,260 - 00:01:56,860] Well,
+- [00:01:56,860 - 00:01:57,580] if there's no particle,
+- [00:01:57,580 - 00:01:57,580] then how big is the deficit angle?
+- [00:01:57,600 - 00:01:57,900] particle,
+- [00:01:57,900 - 00:02:00,740] then there's no deficit angle.
+- [00:02:00,740 - 00:02:04,780] What if there's a particle of mass m?
+- [00:02:04,780 - 00:02:05,380] What would
+- [00:02:05,380 - 00:02:05,720] you think?
+- [00:02:05,720 - 00:02:08,539] Proportional to m.
+- [00:02:08,539 - 00:02:09,479] Exactly so.
+- [00:02:09,479 - 00:02:11,200] That's exactly right.
+- [00:02:11,200 - 00:02:13,600] The deficit angle here
+- [00:02:13,600 - 00:02:14,900] is proportional to m.
+- [00:02:14,900 - 00:02:16,620] But the deficit,
+- [00:02:16,620 - 00:02:17,520] and in fact,
+- [00:02:17,520 - 00:02:19,000] it doesn't have to be a particle.
+- [00:02:19,000 - 00:02:24,600] It could be any distribution of energy that's bounded.
+- [00:02:24,600 - 00:02:27,420] It won't be exactly a cone,
+- [00:02:27,420 - 00:02:28,680] but outside
+- [00:02:28,680 - 00:02:30,460] the region where that energy is,
+- [00:02:30,460 - 00:02:32,960] it'll have the same geometry as a cone.
+- [00:02:32,960 - 00:02:34,040] So it might be
+- [00:02:34,040 - 00:02:37,360] a cone with a sort of rounded surface to it,
+- [00:02:37,360 - 00:02:38,300] but that's not so important.
+- [00:02:38,300 - 00:02:39,400] All right,
+- [00:02:39,400 - 00:02:39,580] now,
+- [00:02:39,720 - 00:02:40,800] then comes the question.
+- [00:02:40,800 - 00:02:44,690] How big does this mass have
+- [00:02:44,690 - 00:02:48,580] to be before the deficit angle is
+- [00:02:49,000 - 00:02:50,820] 360 degrees?
+- [00:02:50,820 - 00:02:55,000] There's nothing left when the deficit angle is 360 degrees.
+- [00:02:55,000 - 00:02:56,700] The space has
+- [00:02:56,700 - 00:02:57,720] essentially disappeared.
+- [00:02:57,720 - 00:03:02,880] What has happened is it's closed up into a...thank you,
+- [00:03:02,880 - 00:03:03,060] Michael.
+- [00:03:05,660 - 00:03:10,920] The cone has gotten narrower and narrower.
+- [00:03:10,920 - 00:03:16,000] The deficit angle eventually goes to a point
+- [00:03:16,000 - 00:03:17,260] where there's no cone left.
+- [00:03:18,100 - 00:03:19,220] At first,
+- [00:03:19,220 - 00:03:21,820] it started as a big flat cone
+- [00:03:21,820 - 00:03:24,420] when the particle at the center was light.
+- [00:03:24,420 - 00:03:25,660] As the
+- [00:03:25,660 - 00:03:27,400] particle got heavier and heavier,
+- [00:03:27,400 - 00:03:32,200] the cone shrunk until there was no cone left.
+- [00:03:32,200 - 00:03:32,900] There's
+- [00:03:32,900 - 00:03:36,170] a maximum amount of mass that you can
+- [00:03:36,170 - 00:03:39,440] put into three dimensions before it closes up
+- [00:03:39,440 - 00:03:43,120] and just closes up and disappears.
+- [00:03:43,120 - 00:03:45,040] How big is that mass?
+- [00:03:45,040 - 00:03:46,680] Not very big.
+- [00:03:46,680 - 00:03:47,240] The planet is
+- [00:03:47,260 - 00:03:47,660] a clunk mass.
+- [00:03:47,660 - 00:03:50,640] So we are not going...it's
+- [00:03:50,640 - 00:03:53,620] the only mass in the problem.
+- [00:03:57,040 - 00:03:57,600] So...well...
+- [00:03:58,800 - 00:03:59,360] No,
+- [00:03:59,360 - 00:04:02,380] it's dust grain.
+- [00:04:06,900 - 00:04:07,460] Right.
+- [00:04:07,460 - 00:04:09,720] So at most,
+- [00:04:09,720 - 00:04:10,600] you could have,
+- [00:04:10,600 - 00:04:11,700] in the way of life,
+- [00:04:11,700 - 00:04:12,700] in three dimensions,
+- [00:04:12,700 - 00:04:13,280] you could
+- [00:04:13,280 - 00:04:15,120] have a single microorganism.
+- [00:04:15,160 - 00:04:15,600] Right.
+- [00:04:17,500 - 00:04:21,839] Not much room to develop an intelligence,
+- [00:04:21,839 - 00:04:23,580] so forth and so on.
+- [00:04:23,960 - 00:04:29,500] So space of two dimensions is clearly ruled out.
+- [00:04:29,500 - 00:04:32,660] space of one dimension turns out to be even worse.
+- [00:04:34,340 - 00:04:36,160] Gravity in one dimension,
+- [00:04:36,160 - 00:04:38,280] one dimension space and one dimensional time is
+- [00:04:38,280 - 00:04:40,400] so sick that it's not even worth thinking about.
+- [00:04:42,420 - 00:04:43,520] Three dimensions,
+- [00:04:43,520 - 00:04:44,740] three space dimensions,
+- [00:04:44,740 - 00:04:45,580] one dimension space,
+- [00:04:45,580 - 00:04:45,580] not twisty.
+- [00:04:45,580 - 00:04:46,200] time dimension,
+- [00:04:46,200 - 00:04:48,880] gravity behaves in the usual way.
+- [00:04:48,880 - 00:04:51,240] What happens when you go to
+- [00:04:51,240 - 00:04:52,300] four dimensions?
+- [00:04:52,300 - 00:04:54,700] Well it's not just gravity,
+- [00:04:54,700 - 00:04:57,080] it's gravity and also
+- [00:05:00,160 - 00:05:00,720] electromagnetism,
+- [00:05:00,720 - 00:05:01,860] which is sick.
+- [00:05:01,860 - 00:05:03,050] Now first of all I'll
+- [00:05:03,050 - 00:05:04,240] tell you in what way gravity
+- [00:05:04,240 - 00:05:04,480] is,
+- [00:05:04,480 - 00:05:07,940] gravity is not so much sick in four dimensions,
+- [00:05:07,940 - 00:05:09,040] when I speak
+- [00:05:09,040 - 00:05:11,220] about dimensions I'm speaking about spatial dimensions.
+- [00:05:11,220 - 00:05:14,160] In four dimensions,
+- [00:05:14,160 - 00:05:15,620] four plus one dimensions,
+- [00:05:15,620 - 00:05:18,120] gravity is reasonably healthy,
+- [00:05:18,120 - 00:05:20,500] but there is,
+- [00:05:20,500 - 00:05:20,960] there
+- [00:05:20,960 - 00:05:23,860] are some dynamical features to it which make it awkward.
+- [00:05:23,860 - 00:05:26,920] The solar system would
+- [00:05:26,920 - 00:05:27,680] not be stable,
+- [00:05:27,680 - 00:05:30,600] the solar system would be very chaotic.
+- [00:05:30,600 - 00:05:32,040] This is just a particular
+- [00:05:32,040 - 00:05:34,990] fact about dimensions higher than
+- [00:05:34,990 - 00:05:37,940] three that the Newtonian force law,
+- [00:05:37,940 - 00:05:38,660] or the
+- [00:05:38,660 - 00:05:40,980] force law that would derive out of Einstein's equations,
+- [00:05:40,980 - 00:05:43,700] has bad
+- [00:05:43,700 - 00:05:44,140] instability.
+- [00:05:44,780 - 00:05:47,200] And so the solar system would be very
+- [00:05:47,200 - 00:05:49,620] chaotic and the result of that is it
+- [00:05:49,620 - 00:05:51,480] probably wouldn't take very long before
+- [00:05:51,480 - 00:05:53,340] the planet got ejected out of orbit.
+- [00:05:53,340 - 00:05:54,420] But
+- [00:05:54,420 - 00:05:55,560] things are much worse than that,
+- [00:05:55,560 - 00:05:56,500] that's not the worst thing,
+- [00:05:56,500 - 00:05:57,620] that by no means the
+- [00:05:57,620 - 00:05:58,100] worst thing.
+- [00:05:58,100 - 00:05:58,500] Yeah?
+- [00:05:58,740 - 00:06:01,940] Do you still get the Newtonian gravitation,
+- [00:06:01,940 - 00:06:02,780] one over r squared?
+- [00:06:03,240 - 00:06:03,640] No,
+- [00:06:03,640 - 00:06:04,760] you don't get one over r squared,
+- [00:06:04,760 - 00:06:05,740] that's why it's,
+- [00:06:05,740 - 00:06:06,620] that's why it's funny.
+- [00:06:06,620 - 00:06:08,120] You get one over r cubed.
+- [00:06:08,120 - 00:06:10,380] As you go up in
+- [00:06:10,380 - 00:06:10,740] dimensions,
+- [00:06:10,740 - 00:06:12,430] it goes from one over r squared to
+- [00:06:12,430 - 00:06:14,120] one over r cubed to one over r
+- [00:06:14,140 - 00:06:14,580] to the fourth.
+- [00:06:14,580 - 00:06:17,840] Now the real problem has to do with atoms.
+- [00:06:17,840 - 00:06:19,880] Electrons are little
+- [00:06:19,880 - 00:06:23,230] solar systems and it's not just gravity which
+- [00:06:23,230 - 00:06:26,580] goes from one over r squared to one
+- [00:06:26,580 - 00:06:27,940] over r cubed and so forth.
+- [00:06:27,940 - 00:06:30,720] Electromagnetism also does.
+- [00:06:30,720 - 00:06:32,120] It's governed by the same kind
+- [00:06:32,120 - 00:06:32,860] of force law.
+- [00:06:32,860 - 00:06:35,200] Coulomb's law and Newton's law have
+- [00:06:35,200 - 00:06:37,540] the same form and that's true in
+- [00:06:37,540 - 00:06:38,020] every dimension.
+- [00:06:38,020 - 00:06:40,870] So what happens is you
+- [00:06:40,870 - 00:06:43,720] go in higher dimensions is the
+- [00:06:44,640 - 00:06:47,380] attractive force of gravity becomes
+- [00:06:47,380 - 00:06:50,120] stronger and stronger at small
+- [00:06:50,120 - 00:06:50,880] distances.
+- [00:06:50,880 - 00:06:53,280] One over r cubed,
+- [00:06:53,280 - 00:06:57,880] let's compare one over r cubed with one over r
+- [00:06:57,880 - 00:06:58,300] squared.
+- [00:06:58,300 - 00:07:00,740] One over r squared,
+- [00:07:00,740 - 00:07:01,320] excuse me.
+- [00:07:01,320 - 00:07:07,840] This is the force law when there are four space
+- [00:07:07,840 - 00:07:08,240] dimensions,
+- [00:07:08,240 - 00:07:09,510] this is the force law
+- [00:07:09,510 - 00:07:10,780] when there are three space dimensions.
+- [00:07:10,780 - 00:07:11,300] Well,
+- [00:07:11,300 - 00:07:13,420] if I were to just
+- [00:07:14,140 - 00:07:14,140] write this down,
+- [00:07:14,140 - 00:07:17,140] I'm afraid we're going to run out of ink tonight.
+- [00:07:17,140 - 00:07:19,620] One over r squared,
+- [00:07:19,900 - 00:07:21,620] let's first plot one over r squared.
+- [00:07:21,620 - 00:07:24,640] Now is one over r squared bigger,
+- [00:07:24,640 - 00:07:25,780] is one over r cubed
+- [00:07:25,780 - 00:07:29,620] bigger or smaller than one over r squared?
+- [00:07:29,620 - 00:07:33,920] It's not well defined.
+- [00:07:33,920 - 00:07:34,760] You have to tell me
+- [00:07:34,760 - 00:07:35,000] where.
+- [00:07:35,000 - 00:07:36,740] At r equals one,
+- [00:07:36,740 - 00:07:37,940] they're exactly the same.
+- [00:07:37,940 - 00:07:42,020] At r bigger than one,
+- [00:07:42,020 - 00:07:44,120] r squared is one
+- [00:07:44,140 - 00:07:45,040] over r squared because one over r
+- [00:07:45,040 - 00:07:45,940] is equal to one over r squared,
+- [00:07:45,940 - 00:07:45,960] right?
+- [00:07:45,960 - 00:07:45,960] Ae całytto
+- [00:07:45,960 - 00:07:45,960] is one over r squared.
+- [00:07:45,960 - 00:07:48,860] Ok we've said one over n is
+- [00:07:48,860 - 00:07:51,760] x то oxyto is one over n.
+- [00:07:51,760 - 00:07:52,020] But the
+- [00:07:53,820 - 00:07:53,820] question of r,
+- [00:07:53,820 - 00:07:54,700] r plus u追ocratic is everybody saying that r
+- [00:07:54,700 - 00:07:55,580] is less than 1 by 12 to the
+- [00:07:55,580 - 00:07:55,580] whole n.
+- [00:07:55,580 - 00:07:55,580] The question of r where r is less than 1,
+- [00:07:55,580 - 00:07:57,120] r squared to t.
+- [00:07:57,120 - 00:08:00,880] And this way you have
+- [00:08:00,880 - 00:08:02,320] to have respect to the trace of intensity
+- [00:08:02,320 - 00:08:03,760] because if a two pole is the same,
+- [00:08:03,760 - 00:08:03,880] that means
+- [00:08:03,880 - 00:08:04,340] r is higher than r squared.
+- [00:08:04,340 - 00:08:04,340] So this is this kind
+- [00:08:04,340 - 00:08:04,340] of elegant equation given by Newton.
+- [00:08:04,520 - 00:08:05,140] Who are you asking to test it?
+- [00:08:05,140 - 00:08:05,140] Why is that?
+- [00:08:05,140 - 00:08:08,240] Why art you asking this?
+- [00:08:08,240 - 00:08:09,540] I thought you could
+- [00:08:09,540 - 00:08:09,540] do that?
+- [00:08:09,540 - 00:08:11,420] I know this is the hearing settlement.
+- [00:08:11,420 - 00:08:13,840] I know this was speaking to a lot of people.
+- [00:08:14,140 - 00:08:17,290] the long distance Coulomb force which
+- [00:08:17,290 - 00:08:20,440] holds the outer electrons in place would
+- [00:08:20,440 - 00:08:23,470] be much weaker and there would not
+- [00:08:23,470 - 00:08:26,500] be valence electrons and so forth they
+- [00:08:26,500 - 00:08:28,820] would just fly off they would they would
+- [00:08:28,820 - 00:08:31,140] fly off on the other hand the inner
+- [00:08:31,140 - 00:08:34,799] electrons would be pulled in much more
+- [00:08:34,799 - 00:08:38,460] tightly in fact in four space dimensions
+- [00:08:38,460 - 00:08:41,330] the the Coulomb law when combined
+- [00:08:41,330 - 00:08:44,200] with quantum mechanics would pull the
+- [00:08:44,200 - 00:08:47,130] electrons right into the nucleus so
+- [00:08:47,130 - 00:08:50,060] there wouldn't be atoms without atoms
+- [00:08:50,060 - 00:08:52,350] there is no chemistry it only gets
+- [00:08:52,350 - 00:08:54,640] worse in five dimensions and six dimensions
+- [00:08:54,640 - 00:08:58,360] and so forth so we don't know really
+- [00:08:58,360 - 00:09:02,080] why four dimensions what we do know is we
+- [00:09:02,080 - 00:09:04,100] couldn't be sitting here if
+- [00:09:04,100 - 00:09:06,120] the number of dimensions is higher
+- [00:09:08,460 - 00:09:09,800] the number of dimensions that
+- [00:09:09,800 - 00:09:11,140] the nuclear forces have seen larger
+- [00:09:11,140 - 00:09:12,040] say it again
+- [00:09:12,040 - 00:09:15,330] so is the number of dimensions in which the nuclear forces
+- [00:09:15,330 - 00:09:18,620] is larger and therefore may exhibit one over rq to rq
+- [00:09:18,620 - 00:09:20,020] I don't understand
+- [00:09:20,020 - 00:09:22,160] I didn't understand
+- [00:09:23,060 - 00:09:27,270] you asked me something about the nuclear
+- [00:09:27,270 - 00:09:31,480] force right they would also be stronger
+- [00:09:31,480 - 00:09:38,440] at small distances and would probably do real damage
+- [00:09:40,120 - 00:09:46,600] to the theory of quarks and leptons quarks in particular
+- [00:09:46,600 - 00:09:48,690] the theory of quarks would
+- [00:09:48,690 - 00:09:50,780] not bind together properly into into
+- [00:09:50,780 - 00:09:52,040] protons and neutrons
+- [00:09:52,040 - 00:09:54,420] I've concentrated on atoms but much of
+- [00:09:54,420 - 00:09:56,800] what I said you could also say
+- [00:09:56,800 - 00:09:58,920] about the forces that held quarks together and
+- [00:09:58,920 - 00:10:01,040] so forth lot so that would be bad
+- [00:10:03,560 - 00:10:06,000] besides it's not entirely clear
+- [00:10:06,000 - 00:10:08,440] that topologically that sex is possible
+- [00:10:08,440 - 00:10:09,520] possible in higher dimensions.
+- [00:10:09,520 - 00:10:12,700] This is important.
+- [00:10:13,640 - 00:10:16,140] The conversation gets longer and longer.
+- [00:10:16,140 - 00:10:19,780] Can you say anything about three spatial dimensions
+- [00:10:19,780 - 00:10:20,940] and two time dimensions?
+- [00:10:20,940 - 00:10:21,520] No.
+- [00:10:21,520 - 00:10:24,460] That just boggles the mind.
+- [00:10:24,460 - 00:10:27,320] I don't know
+- [00:10:27,320 - 00:10:28,750] how to think about a world
+- [00:10:28,750 - 00:10:30,180] with more than one time dimension.
+- [00:10:30,180 - 00:10:34,500] No.
+- [00:10:35,980 - 00:10:38,140] It seems like I have three time
+- [00:10:38,140 - 00:10:40,300] dimensions to match the three spatial dimensions.
+- [00:10:41,580 - 00:10:42,080] Yeah.
+- [00:10:42,080 - 00:10:43,440] It's not clear.
+- [00:10:43,440 - 00:10:44,140] Right.
+- [00:10:44,140 - 00:10:47,340] It really isn't clear how to
+- [00:10:47,340 - 00:10:50,540] think about what it would mean
+- [00:10:50,540 - 00:10:52,020] to have more than one time dimension.
+- [00:10:52,020 - 00:10:58,720] It's so confusing that,
+- [00:10:58,720 - 00:11:00,140] no,
+- [00:11:00,140 - 00:11:01,000] I have nothing to say
+- [00:11:01,000 - 00:11:01,800] about it right now.
+- [00:11:03,480 - 00:11:03,980] Okay.
+- [00:11:04,500 - 00:11:04,640] So,
+- [00:11:04,640 - 00:11:12,500] four dimensions does seem to be special.
+- [00:11:12,500 - 00:11:14,260] As I said,
+- [00:11:14,260 - 00:11:15,719] not for deep mathematical reasons,
+- [00:11:16,120 - 00:11:16,940] as far as we know,
+- [00:11:16,940 - 00:11:19,270] but there are certain features of basic
+- [00:11:19,270 - 00:11:21,600] physics which seem to work in four
+- [00:11:21,600 - 00:11:22,040] dimensions,
+- [00:11:22,040 - 00:11:24,580] which for one reason or another
+- [00:11:24,580 - 00:11:27,120] seem to be very thorny and problematic.
+- [00:11:27,120 - 00:11:28,400] Atoms,
+- [00:11:28,400 - 00:11:30,140] stability of the solar system,
+- [00:11:30,140 - 00:11:32,310] the fact that in three
+- [00:11:32,310 - 00:11:34,480] dimensions you can't have more than
+- [00:11:34,480 - 00:11:36,900] a Planck's worth of mass before you close
+- [00:11:36,900 - 00:11:39,320] the universe up into an infinitely narrow cone,
+- [00:11:39,620 - 00:11:41,040] so forth and so on.
+- [00:11:41,040 - 00:11:45,660] Any other questions?
+- [00:11:47,900 - 00:11:48,880] I was saying,
+- [00:11:48,880 - 00:11:53,120] why does time deserve dimensional status?
+- [00:11:54,180 - 00:11:54,700] Well,
+- [00:11:54,700 - 00:11:55,780] that I don't know what that means.
+- [00:11:55,780 - 00:12:01,340] Dimensional status.
+- [00:12:01,340 - 00:12:03,580] Why do we call it a dimension?
+- [00:12:04,800 - 00:12:05,520] Well,
+- [00:12:05,520 - 00:12:06,400] why not?
+- [00:12:06,400 - 00:12:07,980] Well,
+- [00:12:07,980 - 00:12:09,900] the real reason we call it
+- [00:12:09,900 - 00:12:11,820] a dimension is because of Einstein,
+- [00:12:12,160 - 00:12:16,570] whose special theory of relativity mixes
+- [00:12:16,570 - 00:12:20,980] space and time together with transformations that
+- [00:12:23,560 - 00:12:24,280] resemble,
+- [00:12:24,280 - 00:12:25,000] mathematically,
+- [00:12:25,000 - 00:12:27,000] rotations of space.
+- [00:12:27,000 - 00:12:28,320] In other words,
+- [00:12:28,320 - 00:12:29,120] there are transformations
+- [00:12:29,120 - 00:12:31,500] which mix space and time together.
+- [00:12:31,500 - 00:12:35,120] So it becomes natural to think of
+- [00:12:35,120 - 00:12:38,740] time as a dimension of a four-dimensional space-time.
+- [00:12:39,440 - 00:12:40,840] There's no unique,
+- [00:12:40,840 - 00:12:44,140] in four dimension and space and time,
+- [00:12:44,140 - 00:12:47,060] there is no unique time axis,
+- [00:12:48,600 - 00:12:50,620] perpendicular to a space axis,
+- [00:12:50,620 - 00:12:52,820] a moving reference frame as a
+- [00:12:52,820 - 00:12:55,020] time axis which points in some other
+- [00:12:55,020 - 00:12:55,400] direction.
+- [00:12:55,400 - 00:12:59,360] The corresponding space is also tilted.
+- [00:12:59,360 - 00:13:03,540] So there's no uniqueness to what the time axis is.
+- [00:13:03,940 - 00:13:05,680] And they get mixed up with each other,
+- [00:13:05,680 - 00:13:07,500] and it's quite profitable,
+- [00:13:07,500 - 00:13:09,420] the mathematical structure of the theory,
+- [00:13:09,580 - 00:13:12,780] space and time come in fairly symmetrically.
+- [00:13:12,960 - 00:13:13,480] Or,
+- [00:13:13,480 - 00:13:14,460] as you pointed out,
+- [00:13:14,460 - 00:13:16,900] you can apply a boost and change energy.
+- [00:13:17,580 - 00:13:18,660] For example,
+- [00:13:18,660 - 00:13:20,950] an energy and momentum are time
+- [00:13:20,950 - 00:13:23,240] and space components of four vectors.
+- [00:13:31,460 - 00:13:32,260] Last week,
+- [00:13:32,260 - 00:13:34,980] I think you said you would show us
+- [00:13:34,980 - 00:13:37,700] where the cosmological constant went into the equation.
+- [00:13:37,760 - 00:13:37,940] Yeah.
+- [00:13:39,520 - 00:13:41,560] That's part of the lecture you're planning?
+- [00:13:41,840 - 00:13:42,580] I actually hadn't,
+- [00:13:42,580 - 00:13:43,420] but I'll tell you right now.
+- [00:13:46,640 - 00:13:47,440] The question,
+- [00:13:47,440 - 00:13:48,560] the more interesting question,
+- [00:13:48,560 - 00:13:50,920] is what does the cosmological constant do?
+- [00:13:50,920 - 00:13:52,100] But first,
+- [00:13:52,100 - 00:13:54,100] let me tell you where it goes in the equations.
+- [00:13:57,160 - 00:13:58,620] Just remember what's in the equations.
+- [00:14:04,100 - 00:14:05,340] On the left-hand side,
+- [00:14:05,340 - 00:14:07,380] we have something that involves geometry.
+- [00:14:09,620 - 00:14:12,670] I told you that the only tensors that
+- [00:14:12,670 - 00:14:15,720] we can make out of the gravitational field are,
+- [00:14:15,720 - 00:14:17,140] that have two indices.
+- [00:14:17,420 - 00:14:17,620] Remember,
+- [00:14:17,620 - 00:14:18,420] on the right-hand side,
+- [00:14:18,420 - 00:14:20,080] we're going to have the energy-momentum tensor,
+- [00:14:20,080 - 00:14:20,680] two indices.
+- [00:14:20,920 - 00:14:24,780] The only simple tensors that can be constructed,
+- [00:14:24,780 - 00:14:26,800] or the simplest ones,
+- [00:14:26,800 - 00:14:29,220] are r mu nu.
+- [00:14:30,140 - 00:14:31,730] And whether I put the
+- [00:14:31,730 - 00:14:33,320] indices upstairs or downstairs doesn't matter.
+- [00:14:33,380 - 00:14:34,420] You can raise them,
+- [00:14:34,420 - 00:14:34,980] lower them,
+- [00:14:34,980 - 00:14:35,660] same thing.
+- [00:14:35,820 - 00:14:41,900] r mu nu and minus some constant,
+- [00:14:41,900 - 00:14:43,380] whether it's minus or plus,
+- [00:14:43,380 - 00:14:44,420] we'll figure out later,
+- [00:14:45,200 - 00:14:47,060] g mu nu times r mu nu.
+- [00:14:50,420 - 00:14:51,240] Times r.
+- [00:14:52,720 - 00:14:53,240] Now,
+- [00:14:53,240 - 00:14:54,120] that's not quite right.
+- [00:14:55,120 - 00:15:00,660] The coefficient here is determined by requiring,
+- [00:15:00,660 - 00:15:01,000] well,
+- [00:15:01,000 - 00:15:01,260] let's see,
+- [00:15:01,260 - 00:15:03,520] we're going to put on the right-hand side,
+- [00:15:03,760 - 00:15:06,820] t mu nu times a numerical constant,
+- [00:15:06,820 - 00:15:09,300] 8 pi times the Newton constant,
+- [00:15:09,300 - 00:15:10,580] but sometimes just called k.
+- [00:15:12,360 - 00:15:17,040] We expect and hope that energy-momentum will be conserved.
+- [00:15:17,560 - 00:15:20,710] That means that the covariant derivative
+- [00:15:20,710 - 00:15:23,860] del mu of t mu nu,
+- [00:15:24,840 - 00:15:28,160] a kind of continuity equation for each component,
+- [00:15:28,160 - 00:15:30,540] momentum and energy,
+- [00:15:30,680 - 00:15:33,080] a separate continuity equation for each,
+- [00:15:33,280 - 00:15:34,520] and if that's true,
+- [00:15:34,520 - 00:15:37,710] then it had better be that the
+- [00:15:37,710 - 00:15:40,900] left-hand side also satisfies the same thing.
+- [00:15:42,040 - 00:15:42,560] Incidentally,
+- [00:15:42,560 - 00:15:43,920] to make it satisfy the same thing,
+- [00:15:43,920 - 00:15:45,200] we'd have to put the indices upstairs,
+- [00:15:45,200 - 00:15:46,460] but that's no big deal.
+- [00:15:46,460 - 00:15:50,020] And what Einstein discovered is that,
+- [00:15:50,020 - 00:15:52,600] very generally,
+- [00:15:54,880 - 00:15:57,240] no special assumptions about the geometry,
+- [00:15:57,240 - 00:15:59,680] if he put a one-half here,
+- [00:16:00,500 - 00:16:01,660] then in fact,
+- [00:16:01,660 - 00:16:04,780] the left-hand side satisfies,
+- [00:16:04,780 - 00:16:06,380] let's see,
+- [00:16:06,380 - 00:16:10,100] this tensor as it stands is called g mu nu,
+- [00:16:10,720 - 00:16:12,060] g for gravity,
+- [00:16:12,060 - 00:16:14,780] or if we put the indices upstairs,
+- [00:16:16,400 - 00:16:17,700] g mu nu,
+- [00:16:17,860 - 00:16:20,140] it automatically satisfies,
+- [00:16:20,140 - 00:16:22,220] for any geometry,
+- [00:16:22,220 - 00:16:24,180] this identity.
+- [00:16:24,940 - 00:16:27,670] So that fixed the form
+- [00:16:27,670 - 00:16:30,400] of Einstein's equations with one ambiguity.
+- [00:16:30,880 - 00:16:33,940] There is one more tensor that
+- [00:16:33,940 - 00:16:37,000] you can form out of the metric,
+- [00:16:37,220 - 00:16:38,940] which has the property,
+- [00:16:38,940 - 00:16:40,820] which has this property,
+- [00:16:41,020 - 00:16:43,860] this property is called covariant conservation,
+- [00:16:44,780 - 00:16:47,380] there is one more tensor that you can form,
+- [00:16:47,540 - 00:16:49,840] and that tensor is just the metric itself.
+- [00:16:51,000 - 00:16:55,210] The metric itself satisfies del mu
+- [00:16:55,210 - 00:16:59,420] g mu nu is equal to zero.
+- [00:17:00,760 - 00:17:03,980] It's equivalent to the statement,
+- [00:17:03,980 - 00:17:05,119] yes,
+- [00:17:05,119 - 00:17:06,380] that's correct.
+- [00:17:06,660 - 00:17:07,800] Why is that?
+- [00:17:08,500 - 00:17:11,020] The reason is because the covariant,
+- [00:17:11,020 - 00:17:14,400] all covariant derivatives of the metric tensor are zero.
+- [00:17:15,379 - 00:17:18,469] The metric tensor is the one
+- [00:17:18,469 - 00:17:21,560] tensor whose covariant derivatives are all zero.
+- [00:17:22,060 - 00:17:24,099] One way to see that is
+- [00:17:24,099 - 00:17:26,140] to go to a reference frame
+- [00:17:27,399 - 00:17:29,859] where the metric and all of
+- [00:17:29,859 - 00:17:32,320] its derivatives are equal to zero.
+- [00:17:32,540 - 00:17:33,960] We talked about such a frame.
+- [00:17:34,320 - 00:17:36,100] You can always choose coordinates
+- [00:17:36,100 - 00:17:37,880] where the metric is constant.
+- [00:17:38,840 - 00:17:40,420] Constant simply means its first
+- [00:17:40,420 - 00:17:42,000] derivatives are equal to zero.
+- [00:17:42,000 - 00:17:44,720] That means the Christoffel symbols are zero.
+- [00:17:45,220 - 00:17:47,880] If the metric has no derivatives,
+- [00:17:47,880 - 00:17:50,620] and the Christoffel symbols are equal to zero,
+- [00:17:51,280 - 00:17:53,510] then the covariant derivative of the
+- [00:17:53,510 - 00:17:55,740] metric must be exactly equal to zero.
+- [00:17:56,040 - 00:17:57,400] The covariant derivative,
+- [00:17:57,400 - 00:18:00,320] all covariant derivatives of the metric are equal to zero,
+- [00:18:00,400 - 00:18:01,220] but in particular,
+- [00:18:01,220 - 00:18:06,000] the one which corresponds to this continuity equation,
+- [00:18:07,420 - 00:18:08,970] from here to here is just
+- [00:18:08,970 - 00:18:10,520] replacing little g by big G,
+- [00:18:13,200 - 00:18:13,760] and that's the one that's
+- [00:18:13,760 - 00:18:14,320] going to be the largest derivative.
+- [00:18:14,320 - 00:18:15,340] It's also true.
+- [00:18:15,620 - 00:18:19,240] So that means there's one more thing that
+- [00:18:19,240 - 00:18:22,860] we could have added into the left-hand side here,
+- [00:18:24,080 - 00:18:25,820] plus some constant,
+- [00:18:25,820 - 00:18:26,740] any constant,
+- [00:18:26,740 - 00:18:28,720] lambda,
+- [00:18:28,720 - 00:18:31,500] times g mu nu,
+- [00:18:34,180 - 00:18:36,740] equals k t mu nu.
+- [00:18:40,300 - 00:18:40,920] What's that?
+- [00:18:42,000 - 00:18:42,160] Ooh.
+- [00:18:43,520 - 00:18:44,380] Can't do that,
+- [00:18:44,380 - 00:18:44,760] can you?
+- [00:18:44,840 - 00:18:45,660] That's illegal.
+- [00:18:52,020 - 00:18:52,580] Right.
+- [00:18:54,320 - 00:18:56,110] That's the one ambiguity that
+- [00:18:56,110 - 00:18:57,900] Einstein discovered in his equations.
+- [00:18:59,140 - 00:19:01,760] Lambda is called the cosmological constant.
+- [00:19:01,900 - 00:19:03,060] It can be positive or negative.
+- [00:19:04,280 - 00:19:05,700] And we'll talk about it.
+- [00:19:05,960 - 00:19:11,060] What it actually corresponds to is a modification of the,
+- [00:19:12,000 - 00:19:13,360] of gravitational force law,
+- [00:19:13,640 - 00:19:15,780] and depending on the sign of lambda,
+- [00:19:16,080 - 00:19:18,820] it either adds an attraction or a repulsion.
+- [00:19:19,480 - 00:19:22,190] But it's an attraction or repulsion which
+- [00:19:22,190 - 00:19:24,900] is quite different than the Newtonian force law.
+- [00:19:25,580 - 00:19:29,220] It's a force which grows with distance.
+- [00:19:29,580 - 00:19:31,540] Instead of F equals one over R squared,
+- [00:19:31,980 - 00:19:33,960] it's F proportional to R.
+- [00:19:36,800 - 00:19:40,620] So we're going to talk about this later,
+- [00:19:40,620 - 00:19:42,440] but for the time being,
+- [00:19:42,440 - 00:19:45,040] it's just an ambiguity that was in Einstein's equations.
+- [00:19:46,680 - 00:19:48,760] The numerical value of lambda
+- [00:19:48,760 - 00:19:50,840] was known to be extremely small.
+- [00:19:51,800 - 00:19:54,740] Einstein and everybody else at the time and for many,
+- [00:19:54,740 - 00:19:55,380] many years
+- [00:19:55,380 - 00:19:57,730] thought that there must be a
+- [00:19:57,730 - 00:20:00,080] reason why this is not there.
+- [00:20:00,300 - 00:20:02,120] Nobody knew any reason for it.
+- [00:20:03,020 - 00:20:04,640] We know now that it is
+- [00:20:04,640 - 00:20:06,260] there with a very small coefficient.
+- [00:20:06,940 - 00:20:09,680] So this is called the cosmological constant,
+- [00:20:09,680 - 00:20:11,820] but for the most part,
+- [00:20:11,980 - 00:20:13,620] we're going to talk about
+- [00:20:13,620 - 00:20:15,260] the theory without cosmological constant,
+- [00:20:15,440 - 00:20:17,020] at least until we get to cosmology.
+- [00:20:17,740 - 00:20:21,840] The reason is that the cosmological constant is so small
+- [00:20:21,840 - 00:20:25,680] that the repulsive force that it creates
+- [00:20:25,680 - 00:20:28,810] is completely insignificant until you go
+- [00:20:28,810 - 00:20:31,940] out to distances which are cosmological,
+- [00:20:33,100 - 00:20:36,350] until you go out to distances
+- [00:20:36,350 - 00:20:39,600] of tens of billions of light years.
+- [00:20:39,600 - 00:20:41,020] Billions of light years anyway.
+- [00:20:41,600 - 00:20:43,800] Would it be fair to say that the first equation,
+- [00:20:44,460 - 00:20:47,350] you start out by getting there by some
+- [00:20:47,350 - 00:20:50,240] kind of tensor analysis of things that might work.
+- [00:20:50,600 - 00:20:53,180] Then you must have to verify that.
+- [00:20:53,520 - 00:20:54,220] This equation.
+- [00:20:54,720 - 00:20:56,240] But you have to verify it with experiments.
+- [00:20:56,940 - 00:20:59,360] That equation is not derived from first principles,
+- [00:20:59,360 - 00:20:59,720] is it?
+- [00:20:59,920 - 00:21:00,700] This equation.
+- [00:21:01,140 - 00:21:01,620] Yes,
+- [00:21:01,620 - 00:21:02,300] this equation.
+- [00:21:02,660 - 00:21:03,640] I thought you were talking about Einstein's equation.
+- [00:21:03,940 - 00:21:04,180] Oh,
+- [00:21:04,180 - 00:21:05,220] this equation here.
+- [00:21:05,580 - 00:21:06,060] No,
+- [00:21:06,060 - 00:21:07,440] this is...
+- [00:21:07,440 - 00:21:08,000] All right,
+- [00:21:08,000 - 00:21:09,340] so let's go back a step.
+- [00:21:10,760 - 00:21:13,160] What Einstein was looking to do
+- [00:21:13,160 - 00:21:15,560] was to convert to tensor notation
+- [00:21:16,540 - 00:21:19,100] equations which in certain
+- [00:21:19,100 - 00:21:21,660] limits reproduced Newton's equations.
+- [00:21:22,700 - 00:21:23,740] It was a guess.
+- [00:21:24,360 - 00:21:25,840] Not that he had to
+- [00:21:25,840 - 00:21:27,320] reproduce Newton's equations in those limits,
+- [00:21:27,860 - 00:21:29,570] but that the right thing to
+- [00:21:29,570 - 00:21:31,280] do was to look for tensor equations,
+- [00:21:33,160 - 00:21:35,760] equations which would be true in any reference frame.
+- [00:21:37,200 - 00:21:38,180] The left...
+- [00:21:38,180 - 00:21:39,520] The right hand side here,
+- [00:21:39,760 - 00:21:40,900] for very,
+- [00:21:40,900 - 00:21:42,720] very slowly moving masses
+- [00:21:42,720 - 00:21:45,420] and weak gravitational fields,
+- [00:21:45,620 - 00:21:47,340] the right hand side here
+- [00:21:48,879 - 00:21:51,300] is only significant
+- [00:21:52,180 - 00:21:55,080] when you have two indices zero,
+- [00:21:55,280 - 00:21:55,800] zero,
+- [00:21:55,800 - 00:21:56,500] zero component,
+- [00:21:56,940 - 00:21:58,980] and then it becomes the energy density.
+- [00:21:59,300 - 00:22:01,940] The energy density on the right hand side here
+- [00:22:01,940 - 00:22:04,720] with this kappa.
+- [00:22:06,440 - 00:22:08,100] On the left hand side,
+- [00:22:09,520 - 00:22:12,600] if you make the approximation that
+- [00:22:12,600 - 00:22:15,680] the metric is not very distorted
+- [00:22:15,680 - 00:22:17,120] from the flat space form,
+- [00:22:17,360 - 00:22:19,120] that it's close to the flat space form,
+- [00:22:20,160 - 00:22:22,570] and if you assume that
+- [00:22:22,570 - 00:22:24,980] the metric of a static object
+- [00:22:24,980 - 00:22:28,560] like a sun or something like that is static
+- [00:22:28,560 - 00:22:29,780] and doesn't change with time,
+- [00:22:30,700 - 00:22:34,540] then it's not hard to show that r zero,
+- [00:22:34,540 - 00:22:35,040] zero,
+- [00:22:35,040 - 00:22:37,340] what we're going to do is take the zero,
+- [00:22:37,340 - 00:22:38,080] zero component,
+- [00:22:38,080 - 00:22:39,140] of this equation.
+- [00:22:39,900 - 00:22:40,500] Zero,
+- [00:22:40,500 - 00:22:40,860] zero,
+- [00:22:40,940 - 00:22:44,120] that means energy density on the right hand side,
+- [00:22:44,420 - 00:22:46,020] and on the left hand side,
+- [00:22:46,180 - 00:22:47,260] you work it out,
+- [00:22:47,360 - 00:22:48,460] but what you find out
+- [00:22:48,460 - 00:22:49,880] is that it's proportional
+- [00:22:51,580 - 00:22:53,980] to some second derivative,
+- [00:22:54,120 - 00:22:56,160] derivative with respect to x,
+- [00:22:58,060 - 00:22:59,260] m squared,
+- [00:23:00,480 - 00:23:01,560] space derivatives,
+- [00:23:01,840 - 00:23:02,840] purely space derivatives.
+- [00:23:03,160 - 00:23:03,880] In fact,
+- [00:23:03,880 - 00:23:04,720] we can write it
+- [00:23:04,720 - 00:23:06,340] in the form of
+- [00:23:07,360 - 00:23:08,260] del squared,
+- [00:23:08,500 - 00:23:10,340] it's got two derivatives in it,
+- [00:23:12,840 - 00:23:13,960] of what?
+- [00:23:14,160 - 00:23:15,780] Of g naught,
+- [00:23:15,780 - 00:23:16,120] naught.
+- [00:23:17,080 - 00:23:17,640] Now,
+- [00:23:17,640 - 00:23:18,960] I'm probably missing a factor of two.
+- [00:23:19,140 - 00:23:20,980] I always get the factor of two confused.
+- [00:23:21,300 - 00:23:22,360] But if you remember,
+- [00:23:22,560 - 00:23:23,360] g naught,
+- [00:23:23,360 - 00:23:25,580] naught was very closely related
+- [00:23:25,580 - 00:23:27,280] to the Newtonian potential.
+- [00:23:29,180 - 00:23:31,940] So this just became the equation,
+- [00:23:32,640 - 00:23:34,120] the Laplace equation,
+- [00:23:34,360 - 00:23:35,480] or whatever it's called,
+- [00:23:35,620 - 00:23:36,320] Poisson equation,
+- [00:23:36,340 - 00:23:39,640] connecting the gravitational potential with rho.
+- [00:23:42,420 - 00:23:44,840] Did he derive this equation
+- [00:23:44,840 - 00:23:46,300] from first principles?
+- [00:23:47,400 - 00:23:48,120] No.
+- [00:23:48,920 - 00:23:50,880] He used a correspondence
+- [00:23:50,880 - 00:23:52,220] with Newtonian gravity.
+- [00:23:53,060 - 00:23:54,700] He made an assumption,
+- [00:23:54,960 - 00:23:56,000] the assumption being
+- [00:23:56,000 - 00:23:58,020] that the equations should have
+- [00:23:58,020 - 00:24:00,160] the same form in every reference frame.
+- [00:24:00,740 - 00:24:02,460] This was a big deal for Einstein.
+- [00:24:02,760 - 00:24:03,980] He felt deep in his heart
+- [00:24:03,980 - 00:24:06,240] that the equations should have
+- [00:24:06,240 - 00:24:08,040] the same form in every reference frame.
+- [00:24:08,420 - 00:24:09,680] You can't prove that.
+- [00:24:09,960 - 00:24:11,300] You can postulate it
+- [00:24:11,300 - 00:24:12,020] and see what you get.
+- [00:24:12,920 - 00:24:13,820] What you got
+- [00:24:15,260 - 00:24:17,120] was a tensor version
+- [00:24:18,760 - 00:24:20,680] of Newtonian mechanics,
+- [00:24:21,000 - 00:24:21,780] which would be true,
+- [00:24:21,880 - 00:24:23,180] if it were true in any frame,
+- [00:24:23,240 - 00:24:24,240] would be true in every frame.
+- [00:24:24,900 - 00:24:25,380] Now,
+- [00:24:25,380 - 00:24:25,760] it has,
+- [00:24:25,760 - 00:24:26,220] of course,
+- [00:24:26,220 - 00:24:28,000] empirical consequences.
+- [00:24:28,680 - 00:24:30,560] It's not exactly Newton's theory.
+- [00:24:30,760 - 00:24:33,540] It differs in various contexts.
+- [00:24:34,400 - 00:24:35,300] It's empirical,
+- [00:24:35,300 - 00:24:36,760] but the empirical consequences
+- [00:24:37,100 - 00:24:39,680] are different when things move fast
+- [00:24:40,120 - 00:24:41,780] or when matter
+- [00:24:42,300 - 00:24:44,560] or the material that's gravitating
+- [00:24:44,560 - 00:24:46,280] is so dense that it creates
+- [00:24:46,280 - 00:24:48,020] very powerful gravitational fields.
+- [00:24:48,280 - 00:24:50,120] Then it doesn't...
+- [00:24:50,120 - 00:24:52,560] Newton and Einstein don't really agree,
+- [00:24:52,800 - 00:24:55,800] and there Einstein wins empirically.
+- [00:24:56,540 - 00:24:57,420] So...
+- [00:24:58,979 - 00:24:59,860] Right.
+- [00:25:00,320 - 00:25:01,920] You're perfectly right.
+- [00:25:02,040 - 00:25:02,620] This didn't...
+- [00:25:02,620 - 00:25:04,860] This wasn't entirely
+- [00:25:06,560 - 00:25:08,400] just out of pure air.
+- [00:25:09,280 - 00:25:11,220] It came from looking for
+- [00:25:11,220 - 00:25:12,500] a particular realization
+- [00:25:12,500 - 00:25:13,980] of tensor version
+- [00:25:13,980 - 00:25:15,180] of Newton's equations.
+- [00:25:16,040 - 00:25:16,260] Now,
+- [00:25:19,200 - 00:25:19,960] let's...
+- [00:25:19,960 - 00:25:20,500] Before...
+- [00:25:21,720 - 00:25:23,380] Before we study
+- [00:25:23,380 - 00:25:24,780] particular solutions
+- [00:25:25,620 - 00:25:26,840] of these equations,
+- [00:25:27,200 - 00:25:28,480] in particular,
+- [00:25:28,520 - 00:25:29,580] the Schwarzschild solution,
+- [00:25:30,379 - 00:25:31,440] which is a black hole,
+- [00:25:32,620 - 00:25:35,200] before we enter into that,
+- [00:25:35,360 - 00:25:37,580] which I want to at least start to do tonight,
+- [00:25:40,159 - 00:25:41,520] I want to talk about
+- [00:25:41,520 - 00:25:44,220] the way physicists today think
+- [00:25:44,220 - 00:25:45,600] about the equivalence principle.
+- [00:25:47,920 - 00:25:49,740] Remember I showed you
+- [00:25:49,740 - 00:25:52,420] how Einstein thought about light falling.
+- [00:25:52,960 - 00:25:54,600] He thought about light falling
+- [00:25:54,600 - 00:25:58,320] by saying light in an ordinary reference frame,
+- [00:25:58,460 - 00:26:00,220] an inertial reference frame,
+- [00:26:00,320 - 00:26:01,460] moves in straight lines.
+- [00:26:02,620 - 00:26:03,680] If it moves in straight lines
+- [00:26:03,680 - 00:26:04,580] in an inertial frame,
+- [00:26:04,840 - 00:26:06,440] then in an accelerated frame,
+- [00:26:06,720 - 00:26:08,600] remember the elevator?
+- [00:26:11,180 - 00:26:12,080] There's the elevator.
+- [00:26:12,340 - 00:26:13,860] If it's accelerated upward,
+- [00:26:14,440 - 00:26:15,920] then from inside the accelerator,
+- [00:26:16,180 - 00:26:17,760] the light beam will seem to fall.
+- [00:26:19,660 - 00:26:21,620] He wanted to generalize that idea.
+- [00:26:21,880 - 00:26:23,500] That was a very simple idea,
+- [00:26:23,620 - 00:26:25,380] good enough for a simple version
+- [00:26:25,380 - 00:26:26,640] of elevator physics,
+- [00:26:27,440 - 00:26:29,180] but he wanted to do much better than that.
+- [00:26:30,020 - 00:26:31,980] What he realized is that
+- [00:26:31,980 - 00:26:33,180] the equivalence principle,
+- [00:26:33,420 - 00:26:35,900] what it said was,
+- [00:26:36,040 - 00:26:36,980] first of all,
+- [00:26:37,020 - 00:26:38,620] that physics should be the same
+- [00:26:38,620 - 00:26:39,560] in all reference frames.
+- [00:26:39,800 - 00:26:42,220] The equations should be the same
+- [00:26:42,220 - 00:26:43,080] in all reference frames.
+- [00:26:45,060 - 00:26:46,620] But beyond that,
+- [00:26:48,780 - 00:26:53,060] he said if you choose coordinates,
+- [00:26:53,400 - 00:26:55,180] now you can only do this locally,
+- [00:26:55,320 - 00:26:56,560] remember you can't do this
+- [00:26:56,560 - 00:26:57,320] over the whole space,
+- [00:26:57,620 - 00:27:00,280] but if locally you choose coordinates
+- [00:27:01,260 - 00:27:05,300] in which the metric is just equal
+- [00:27:05,300 - 00:27:07,280] to the metric of special relativity,
+- [00:27:07,600 - 00:27:08,640] in other words,
+- [00:27:08,660 - 00:27:10,300] if you work with coordinates
+- [00:27:10,300 - 00:27:11,060] which locally,
+- [00:27:11,740 - 00:27:13,220] for which g mu nu
+- [00:27:14,780 - 00:27:18,200] is equal to eta mu nu,
+- [00:27:18,440 - 00:27:20,160] which is just equal to
+- [00:27:20,160 - 00:27:22,380] one minus one minus one minus one,
+- [00:27:24,080 - 00:27:26,120] then in the vicinity of that point,
+- [00:27:26,940 - 00:27:28,600] the equations of physics
+- [00:27:28,600 - 00:27:30,260] should have the same form
+- [00:27:30,280 - 00:27:33,000] that they have in special relativity.
+- [00:27:34,620 - 00:27:35,900] So here's what he said.
+- [00:27:35,980 - 00:27:38,200] He said if we know equations
+- [00:27:38,200 - 00:27:39,260] in special relativity,
+- [00:27:39,900 - 00:27:41,800] we can take those equations
+- [00:27:43,040 - 00:27:45,520] and try to make tensor equations
+- [00:27:45,520 - 00:27:48,020] out of them so that they will be true
+- [00:27:48,020 - 00:27:49,680] in any coordinate system,
+- [00:27:49,960 - 00:27:51,920] and once we have those equations
+- [00:27:51,920 - 00:27:52,940] in tensor form,
+- [00:27:53,240 - 00:27:55,140] then we can just take them over
+- [00:27:55,140 - 00:27:57,520] as they are into situations
+- [00:27:57,520 - 00:28:00,000] where space might really be curved.
+- [00:28:01,100 - 00:28:02,980] So what he was in effect saying
+- [00:28:02,980 - 00:28:05,480] is that on small enough volumes,
+- [00:28:05,780 - 00:28:07,960] small enough regions of space-time,
+- [00:28:08,220 - 00:28:10,580] where curvature can't be detected,
+- [00:28:10,840 - 00:28:12,360] same like the surface of the Earth,
+- [00:28:12,620 - 00:28:14,780] a small patch of the surface of the Earth,
+- [00:28:14,840 - 00:28:15,860] you can't detect curvature.
+- [00:28:16,860 - 00:28:19,060] The motion of balls rolling
+- [00:28:19,060 - 00:28:20,300] on the surface of the Earth
+- [00:28:20,300 - 00:28:22,640] and so forth for small patches
+- [00:28:22,640 - 00:28:24,660] looks exactly like the motion
+- [00:28:24,660 - 00:28:26,180] of balls moving on a flat plane.
+- [00:28:28,140 - 00:28:29,420] That's what Einstein said.
+- [00:28:29,420 - 00:28:30,620] He said in space-time,
+- [00:28:31,200 - 00:28:33,580] if you study regions of space-time
+- [00:28:33,580 - 00:28:34,660] which are small enough
+- [00:28:35,420 - 00:28:41,140] so that curvature is not important,
+- [00:28:41,960 - 00:28:43,560] then the equations should have
+- [00:28:43,560 - 00:28:44,780] the same form that they have
+- [00:28:44,780 - 00:28:45,540] in special relativity.
+- [00:28:46,780 - 00:28:48,180] Let's take the equations
+- [00:28:48,180 - 00:28:49,260] from special relativity
+- [00:28:50,060 - 00:28:52,220] and do something to them
+- [00:28:52,220 - 00:28:54,180] so that they become tensor equations,
+- [00:28:54,500 - 00:28:56,840] and then we'll know what equations
+- [00:28:56,840 - 00:28:58,900] should be in general relativity.
+- [00:28:59,020 - 00:28:59,400] Thank you.
+- [00:28:59,420 - 00:29:00,780] Just the same tensor equations.
+- [00:29:01,320 - 00:29:02,980] Let me give you an example.
+- [00:29:05,780 - 00:29:07,180] We've already done that
+- [00:29:07,180 - 00:29:08,420] with the motion of particles.
+- [00:29:09,540 - 00:29:12,240] What's the law of motion
+- [00:29:12,240 - 00:29:13,940] of a particle
+- [00:29:13,940 - 00:29:16,160] in an inertial reference frame?
+- [00:29:21,020 - 00:29:21,620] Well,
+- [00:29:21,620 - 00:29:23,420] let's suppose there are no forces
+- [00:29:23,420 - 00:29:24,300] acting on the particle.
+- [00:29:25,020 - 00:29:26,140] No electric,
+- [00:29:26,140 - 00:29:27,280] no magnetic forces,
+- [00:29:27,360 - 00:29:29,020] just a force-free particle.
+- [00:29:29,900 - 00:29:31,280] It moves in a straight line
+- [00:29:31,280 - 00:29:32,140] with a constant velocity.
+- [00:29:32,840 - 00:29:34,200] That's the same thing as saying
+- [00:29:34,200 - 00:29:35,520] it moves in a straight line
+- [00:29:35,520 - 00:29:36,700] through space-time.
+- [00:29:36,940 - 00:29:38,120] It moves in a straight line
+- [00:29:38,120 - 00:29:38,860] through space-time.
+- [00:29:40,260 - 00:29:41,840] Einstein's generalization of that
+- [00:29:42,460 - 00:29:44,500] is that particles move
+- [00:29:44,500 - 00:29:47,200] on the straightest possible lines,
+- [00:29:47,560 - 00:29:49,860] lines which locally look like
+- [00:29:49,860 - 00:29:50,780] they're going straight ahead,
+- [00:29:51,020 - 00:29:52,240] and that meant geodesics.
+- [00:29:52,980 - 00:29:55,420] He didn't have to invent the force law.
+- [00:29:55,840 - 00:29:57,080] He simply said,
+- [00:29:57,080 - 00:29:59,160] I'll take what I know
+- [00:29:59,160 - 00:30:00,600] from particles moving
+- [00:30:00,600 - 00:30:03,260] without any gravitational forces on them,
+- [00:30:03,380 - 00:30:05,660] that they move in perfectly straight lines,
+- [00:30:06,379 - 00:30:07,980] and I will say locally,
+- [00:30:08,100 - 00:30:09,320] along the trajectory,
+- [00:30:09,620 - 00:30:11,640] as long as curvature is not important,
+- [00:30:12,000 - 00:30:13,640] they'll just move straight ahead
+- [00:30:13,640 - 00:30:16,220] exactly as if they were in flat space.
+- [00:30:17,580 - 00:30:19,260] And that became his principle.
+- [00:30:19,960 - 00:30:21,760] Particles move on geodesics.
+- [00:30:22,260 - 00:30:23,280] From that,
+- [00:30:23,280 - 00:30:24,900] we were able to
+- [00:30:24,900 - 00:30:26,740] deduce the equation of motion
+- [00:30:26,740 - 00:30:27,560] for particles,
+- [00:30:28,490 - 00:30:30,140] the geodesic equation of motion,
+- [00:30:30,340 - 00:30:33,660] and relate it to Newton's equation
+- [00:30:33,660 - 00:30:35,280] for the motion of a particle
+- [00:30:35,280 - 00:30:37,640] in a field of acceleration.
+- [00:30:38,320 - 00:30:39,020] All right,
+- [00:30:39,020 - 00:30:39,400] let me,
+- [00:30:39,440 - 00:30:41,540] I want to go through another example
+- [00:30:41,540 - 00:30:42,920] and show you how it works.
+- [00:30:43,420 - 00:30:44,320] Wave motion.
+- [00:30:45,240 - 00:30:47,800] We could use Maxwell's equations,
+- [00:30:47,900 - 00:30:48,840] but Maxwell's equations
+- [00:30:48,840 - 00:30:50,300] are a little bit complicated.
+- [00:30:50,780 - 00:30:53,440] So let's take the wave motion
+- [00:30:53,440 - 00:30:55,160] of a simpler field
+- [00:30:55,160 - 00:30:56,720] than electric and magnetic fields.
+- [00:30:56,740 - 00:30:58,240] A scalar field.
+- [00:30:59,140 - 00:31:00,180] Last quarter,
+- [00:31:00,220 - 00:31:01,800] when we did a little bit of
+- [00:31:02,580 - 00:31:04,100] study of field theory,
+- [00:31:04,340 - 00:31:06,220] we talked about the structure
+- [00:31:06,220 - 00:31:07,700] in special relativity
+- [00:31:07,700 - 00:31:10,820] of a scalar wave equation.
+- [00:31:11,120 - 00:31:12,020] Was it last quarter?
+- [00:31:12,720 - 00:31:13,540] I think it was
+- [00:31:14,360 - 00:31:15,820] some number of quarters ago.
+- [00:31:16,520 - 00:31:17,040] Right.
+- [00:31:17,720 - 00:31:18,780] Maybe it was a half,
+- [00:31:18,840 - 00:31:19,760] maybe it was a half ago.
+- [00:31:20,460 - 00:31:21,900] Maybe it was three quarters ago.
+- [00:31:22,020 - 00:31:22,480] I don't remember.
+- [00:31:23,000 - 00:31:26,180] But we did talk about
+- [00:31:26,180 - 00:31:27,820] wave equations.
+- [00:31:29,500 - 00:31:31,540] Wave equations in special relativity.
+- [00:31:32,340 - 00:31:34,160] Let's write down the wave equation
+- [00:31:34,160 - 00:31:35,320] in special relativity
+- [00:31:35,320 - 00:31:36,300] for a scalar field,
+- [00:31:36,600 - 00:31:38,100] and then see what we can do
+- [00:31:38,100 - 00:31:40,560] to turn it into a general relativity equation.
+- [00:31:41,700 - 00:31:42,380] All right.
+- [00:31:42,540 - 00:31:44,420] So let's start with waves
+- [00:31:44,420 - 00:31:46,220] moving up and down one dimension.
+- [00:31:46,900 - 00:31:48,340] Waves moving up and down
+- [00:31:48,340 - 00:31:48,920] one dimension
+- [00:31:49,580 - 00:31:50,820] with the speed of light.
+- [00:31:51,360 - 00:31:52,040] All right.
+- [00:31:52,260 - 00:31:53,580] Sometimes I'll use
+- [00:31:53,580 - 00:31:54,720] the speed of light equal to one,
+- [00:31:54,800 - 00:31:55,720] sometimes I won't.
+- [00:31:55,720 - 00:31:56,280] For the moment,
+- [00:31:56,360 - 00:31:57,400] let's let the speed of light
+- [00:31:57,400 - 00:31:58,100] be general.
+- [00:31:58,780 - 00:32:00,340] Anybody remember what the equation
+- [00:32:00,340 - 00:32:02,000] of motion of a wave looks like,
+- [00:32:02,020 - 00:32:02,640] a wave equation
+- [00:32:02,640 - 00:32:04,200] for moving up and down a line?
+- [00:32:05,620 - 00:32:06,680] It's got a field.
+- [00:32:06,800 - 00:32:07,820] Let's call the field phi.
+- [00:32:11,000 - 00:32:12,760] Just on a one-dimensional axis
+- [00:32:12,760 - 00:32:13,480] to begin with.
+- [00:32:16,880 - 00:32:17,360] Well,
+- [00:32:17,360 - 00:32:18,680] it has some derivatives of phi,
+- [00:32:18,940 - 00:32:20,220] time derivatives of phi
+- [00:32:20,220 - 00:32:21,580] and space derivatives of phi.
+- [00:32:22,560 - 00:32:24,140] And the form of the equation
+- [00:32:24,140 - 00:32:25,700] is that the second derivative
+- [00:32:25,720 - 00:32:28,200] of phi with respect to time squared,
+- [00:32:29,460 - 00:32:31,660] this is the simplest possible wave equation,
+- [00:32:33,000 - 00:32:34,260] that that is equal
+- [00:32:36,080 - 00:32:38,280] to the second derivative of phi
+- [00:32:39,199 - 00:32:40,360] with respect to,
+- [00:32:40,360 - 00:32:40,880] let's call it,
+- [00:32:40,960 - 00:32:42,140] the space coordinate x.
+- [00:32:43,540 - 00:32:43,980] That,
+- [00:32:43,980 - 00:32:44,540] no,
+- [00:32:44,540 - 00:32:45,340] that's not quite right.
+- [00:32:45,420 - 00:32:46,660] If we put the speed of light in,
+- [00:32:46,760 - 00:32:47,220] let's see,
+- [00:32:48,020 - 00:32:51,260] I think we have to put c squared here.
+- [00:32:51,380 - 00:32:51,780] Is that right?
+- [00:32:52,060 - 00:32:52,280] Yeah.
+- [00:32:53,540 - 00:32:54,580] C squared here.
+- [00:32:54,580 - 00:32:56,920] Then that describes waves,
+- [00:32:57,939 - 00:32:59,100] two kinds of waves,
+- [00:32:59,300 - 00:33:00,740] waves which can move to the left
+- [00:33:00,740 - 00:33:02,740] or waves which can move to the right.
+- [00:33:04,220 - 00:33:06,220] And the shape of the wave stays fixed.
+- [00:33:07,280 - 00:33:08,460] That describes waves
+- [00:33:09,100 - 00:33:11,420] which move sort of rigidly
+- [00:33:11,420 - 00:33:12,720] down the axis,
+- [00:33:13,419 - 00:33:14,440] preserving their shape,
+- [00:33:14,580 - 00:33:16,460] either to the left or to the right.
+- [00:33:16,840 - 00:33:18,100] Those are the two kinds of waves.
+- [00:33:18,200 - 00:33:18,400] Of course,
+- [00:33:18,400 - 00:33:19,060] and you can have
+- [00:33:19,860 - 00:33:20,640] superpositions of them.
+- [00:33:21,020 - 00:33:22,060] You can have wave,
+- [00:33:22,200 - 00:33:23,720] you can have one wave moving to the right,
+- [00:33:23,860 - 00:33:24,560] another wave moving to the right,
+- [00:33:24,580 - 00:33:25,720] another wave moving to the left.
+- [00:33:27,920 - 00:33:29,900] And what'll happen is they'll just pass
+- [00:33:29,900 - 00:33:30,880] right through each other.
+- [00:33:31,780 - 00:33:32,780] That's the wave equation
+- [00:33:32,780 - 00:33:34,440] in one spatial dimension.
+- [00:33:35,300 - 00:33:35,740] Now,
+- [00:33:35,740 - 00:33:37,140] supposing I want my wave
+- [00:33:37,140 - 00:33:38,960] to be moving not along the x-axis,
+- [00:33:39,080 - 00:33:40,160] but along the y-axis.
+- [00:33:40,340 - 00:33:40,860] What do I do?
+- [00:33:41,840 - 00:33:42,280] Well,
+- [00:33:42,280 - 00:33:44,140] I just substitute y for x.
+- [00:33:45,540 - 00:33:47,020] What if I want my wave moving
+- [00:33:47,020 - 00:33:48,160] in a general axis?
+- [00:33:49,920 - 00:33:51,200] What do I have to do
+- [00:33:51,200 - 00:33:52,180] to this wave equation
+- [00:33:52,180 - 00:33:53,240] to describe
+- [00:33:53,240 - 00:33:55,260] the general kind of wave
+- [00:33:55,260 - 00:33:56,280] that can propagate
+- [00:33:56,280 - 00:33:57,520] in three spatial dimensions?
+- [00:33:57,860 - 00:33:58,700] And the answer is simple.
+- [00:33:59,020 - 00:34:03,760] You just add d second phi
+- [00:34:03,760 - 00:34:05,180] by dy squared
+- [00:34:06,970 - 00:34:08,219] plus d second phi
+- [00:34:08,969 - 00:34:09,940] by dz squared.
+- [00:34:13,949 - 00:34:16,400] If I set c equal to one,
+- [00:34:16,580 - 00:34:18,420] now let's set c equal to one
+- [00:34:19,639 - 00:34:21,739] so that we go back to our,
+- [00:34:23,620 - 00:34:24,219] uh,
+- [00:34:24,219 - 00:34:25,440] notation that we're,
+- [00:34:25,520 - 00:34:26,920] that we've become familiar with.
+- [00:34:27,100 - 00:34:28,179] We set that equal to one.
+- [00:34:28,540 - 00:34:30,060] We can then write this
+- [00:34:30,060 - 00:34:31,060] in the form,
+- [00:34:31,179 - 00:34:33,639] the second derivative of phi
+- [00:34:34,900 - 00:34:37,420] with respect to x mu,
+- [00:34:39,860 - 00:34:41,000] watch what I'm gonna do,
+- [00:34:43,040 - 00:34:44,239] x nu
+- [00:34:48,760 - 00:34:49,360] times
+- [00:34:52,940 - 00:34:56,679] eta mu nu equals zero.
+- [00:34:59,020 - 00:35:00,320] Let's see why that is.
+- [00:35:01,000 - 00:35:02,640] Remember what eta mu nu is.
+- [00:35:03,080 - 00:35:05,580] Its time-time component is one.
+- [00:35:06,940 - 00:35:07,840] That means,
+- [00:35:08,160 - 00:35:09,580] and of course this is contracted,
+- [00:35:09,820 - 00:35:10,880] summed over mu and nu.
+- [00:35:11,720 - 00:35:12,500] All right?
+- [00:35:12,880 - 00:35:15,700] Let's start with mu and nu equal to zero.
+- [00:35:16,180 - 00:35:17,100] In other words,
+- [00:35:17,120 - 00:35:18,240] the time-time component.
+- [00:35:19,360 - 00:35:20,300] Then what we'll get
+- [00:35:20,300 - 00:35:21,760] is the second derivative of phi
+- [00:35:21,760 - 00:35:23,360] with respect to t squared.
+- [00:35:24,240 - 00:35:26,020] x naught is the same as t.
+- [00:35:27,120 - 00:35:27,640] So,
+- [00:35:28,260 - 00:35:29,400] eta naught naught,
+- [00:35:29,600 - 00:35:30,220] that's one,
+- [00:35:30,460 - 00:35:32,240] times second derivative of phi
+- [00:35:32,240 - 00:35:34,720] with respect to t,
+- [00:35:35,299 - 00:35:36,480] with respect to t again.
+- [00:35:36,720 - 00:35:38,720] That's just second partial of phi
+- [00:35:38,720 - 00:35:39,800] with respect to t squared.
+- [00:35:41,000 - 00:35:41,520] Now,
+- [00:35:41,620 - 00:35:44,580] what about eta one one?
+- [00:35:44,760 - 00:35:45,660] First of all,
+- [00:35:45,680 - 00:35:48,000] the off-diagonal terms are zero.
+- [00:35:48,780 - 00:35:49,340] Eta,
+- [00:35:49,980 - 00:35:51,360] just to remind you what eta is,
+- [00:35:51,520 - 00:35:52,660] eta is the matrix
+- [00:35:54,640 - 00:35:57,160] one minus one minus one minus one.
+- [00:35:57,440 - 00:35:59,640] It has no off-diagonal elements.
+- [00:35:59,980 - 00:36:01,740] So there are no terms here
+- [00:36:01,740 - 00:36:02,840] in which,
+- [00:36:02,960 - 00:36:03,840] for example,
+- [00:36:03,960 - 00:36:06,320] contain a derivative with respect to x
+- [00:36:06,320 - 00:36:08,000] times a derivative with respect to y,
+- [00:36:08,240 - 00:36:09,940] or derivative sub t,
+- [00:36:10,160 - 00:36:10,620] time,
+- [00:36:10,980 - 00:36:12,160] no mixed ones.
+- [00:36:12,960 - 00:36:13,680] All right,
+- [00:36:13,680 - 00:36:14,260] now what about
+- [00:36:15,460 - 00:36:16,560] eta one one?
+- [00:36:16,560 - 00:36:18,160] What is eta one one?
+- [00:36:18,680 - 00:36:20,640] Eta one one is minus one.
+- [00:36:22,200 - 00:36:22,760] So,
+- [00:36:22,860 - 00:36:24,080] let's see what we have.
+- [00:36:24,260 - 00:36:25,800] From eta naught naught,
+- [00:36:26,540 - 00:36:27,580] we have second phi
+- [00:36:27,580 - 00:36:29,140] with respect to t squared.
+- [00:36:30,380 - 00:36:32,240] And now what about eta one one?
+- [00:36:32,360 - 00:36:33,500] That's minus one,
+- [00:36:34,120 - 00:36:36,180] and it becomes second partial of phi
+- [00:36:36,860 - 00:36:38,860] with respect to x one squared.
+- [00:36:40,240 - 00:36:41,840] What about eta two two?
+- [00:36:43,440 - 00:36:44,280] Same thing.
+- [00:36:50,680 - 00:36:51,900] Plus the third term.
+- [00:36:53,220 - 00:36:53,780] Well,
+- [00:36:53,780 - 00:36:54,440] that's just this.
+- [00:36:55,500 - 00:36:56,460] In particular,
+- [00:36:56,500 - 00:36:58,380] if I transpose this to the other side
+- [00:36:58,380 - 00:37:00,400] and set it equal to zero,
+- [00:37:01,860 - 00:37:03,660] we've written the wave equation
+- [00:37:04,280 - 00:37:06,780] in what looks like a nice tensor form.
+- [00:37:07,220 - 00:37:09,120] But is it a tensor form?
+- [00:37:09,760 - 00:37:10,620] It is not.
+- [00:37:11,500 - 00:37:13,120] We have not yet succeeded
+- [00:37:13,120 - 00:37:14,660] in making a tensor equation.
+- [00:37:14,660 - 00:37:18,540] We've succeeded in making a nice formula,
+- [00:37:19,000 - 00:37:20,600] but it's not a tensor equation.
+- [00:37:20,980 - 00:37:21,780] So let's see why.
+- [00:37:22,620 - 00:37:24,820] Let's see what this says more carefully.
+- [00:37:25,280 - 00:37:26,500] Do it in two pieces.
+- [00:37:30,000 - 00:37:31,200] First of all,
+- [00:37:31,280 - 00:37:32,820] eta mu nu
+- [00:37:35,340 - 00:37:40,800] is not a general tensor form,
+- [00:37:41,140 - 00:37:43,340] but we might just want to replace this
+- [00:37:43,340 - 00:37:45,120] by g mu nu.
+- [00:37:46,300 - 00:37:48,180] That we can do.
+- [00:37:49,040 - 00:37:50,240] So g mu nu,
+- [00:37:50,340 - 00:37:51,580] we might put g mu nu here.
+- [00:37:55,340 - 00:37:57,100] That looks more tensor-ish.
+- [00:37:57,340 - 00:37:59,220] But it's still not a tensor equation.
+- [00:37:59,680 - 00:38:01,200] And the reason is because
+- [00:38:01,200 - 00:38:02,920] these are not covariant derivatives.
+- [00:38:04,040 - 00:38:05,800] Let's write it this way.
+- [00:38:06,140 - 00:38:07,380] We have g mu nu
+- [00:38:10,100 - 00:38:12,800] d phi by,
+- [00:38:12,800 - 00:38:14,780] let's start with d x nu.
+- [00:38:16,100 - 00:38:16,660] Now,
+- [00:38:16,660 - 00:38:18,180] I've obviously not written
+- [00:38:18,180 - 00:38:19,160] the thing that's up above,
+- [00:38:19,400 - 00:38:21,820] but let's multiply it
+- [00:38:21,820 - 00:38:23,480] by d by d x mu.
+- [00:38:25,980 - 00:38:26,540] Well,
+- [00:38:26,540 - 00:38:27,760] that's clearly not the same
+- [00:38:27,760 - 00:38:28,760] as the thing I've written here.
+- [00:38:30,340 - 00:38:30,900] Why?
+- [00:38:33,620 - 00:38:35,120] Because first of all,
+- [00:38:36,140 - 00:38:37,820] g depends on position.
+- [00:38:38,080 - 00:38:39,380] So when I differentiate
+- [00:38:43,380 - 00:38:44,640] I'll get one term with
+- [00:38:44,640 - 00:38:45,900] a derivative of g mu nu,
+- [00:38:46,360 - 00:38:47,750] and another term of just
+- [00:38:47,750 - 00:38:49,140] the type that I have here.
+- [00:38:50,180 - 00:38:51,720] So I haven't re-
+- [00:38:51,720 - 00:38:52,440] first of all,
+- [00:38:52,440 - 00:38:54,300] this is not necessarily a tensor equation,
+- [00:38:54,620 - 00:38:55,620] and second of all,
+- [00:38:55,620 - 00:38:56,240] it's not this.
+- [00:38:57,480 - 00:38:57,920] Okay?
+- [00:38:58,120 - 00:39:01,040] But before I differentiate it
+- [00:39:01,040 - 00:39:02,540] with respect to x mu,
+- [00:39:02,700 - 00:39:04,000] let's erase this for a moment,
+- [00:39:04,840 - 00:39:06,380] and let's forget g mu nu.
+- [00:39:06,580 - 00:39:07,780] Is this a tensor?
+- [00:39:08,000 - 00:39:09,380] d phi by d x nu?
+- [00:39:11,440 - 00:39:11,880] Yes.
+- [00:39:11,880 - 00:39:13,900] The derivative of a scalar
+- [00:39:13,900 - 00:39:15,460] is a vector.
+- [00:39:16,800 - 00:39:18,500] So the first step here
+- [00:39:19,220 - 00:39:20,800] is a good tensor.
+- [00:39:21,300 - 00:39:24,180] What happens if I multiply it by g mu nu?
+- [00:39:27,320 - 00:39:30,140] Is it still a tensor?
+- [00:39:30,580 - 00:39:31,220] Yeah.
+- [00:39:31,340 - 00:39:32,320] It's a tensor now
+- [00:39:32,320 - 00:39:34,260] with an upstairs index
+- [00:39:34,260 - 00:39:35,760] instead of a downstairs index.
+- [00:39:36,340 - 00:39:38,860] Now what happens if I differentiate,
+- [00:39:39,300 - 00:39:40,380] and what is it?
+- [00:39:40,440 - 00:39:41,440] It's a tensor,
+- [00:39:41,560 - 00:39:41,860] but it's not a tensor.
+- [00:39:41,880 - 00:39:42,520] But it's a vector.
+- [00:39:42,660 - 00:39:43,640] In particular,
+- [00:39:43,640 - 00:39:44,140] a vector
+- [00:39:44,140 - 00:39:46,780] with one contravariant index.
+- [00:39:47,680 - 00:39:48,940] Now what happens
+- [00:39:48,940 - 00:39:50,840] if I try to differentiate it?
+- [00:39:51,460 - 00:39:54,120] d by d x mu.
+- [00:39:56,740 - 00:39:58,460] Is it a tensor now?
+- [00:40:01,400 - 00:40:02,040] No.
+- [00:40:02,640 - 00:40:03,840] What do I have to do
+- [00:40:03,840 - 00:40:04,520] to make it a tensor?
+- [00:40:04,960 - 00:40:07,200] Take the covariant derivative.
+- [00:40:08,380 - 00:40:09,020] Incidentally,
+- [00:40:10,660 - 00:40:12,800] I started with this equation here.
+- [00:40:14,320 - 00:40:16,360] I could have taken the
+- [00:40:16,360 - 00:40:18,400] d by d x mu outside.
+- [00:40:18,640 - 00:40:19,020] Remember,
+- [00:40:19,020 - 00:40:20,740] eta is a constant,
+- [00:40:20,940 - 00:40:21,640] a bunch of constants.
+- [00:40:21,820 - 00:40:23,060] You can differentiate eta
+- [00:40:23,060 - 00:40:24,400] or not differentiate eta.
+- [00:40:24,440 - 00:40:25,340] It doesn't make any difference.
+- [00:40:27,580 - 00:40:29,340] But this as it stands
+- [00:40:29,800 - 00:40:31,200] is not a tensor.
+- [00:40:33,900 - 00:40:34,360] Incidentally,
+- [00:40:34,440 - 00:40:34,720] how many,
+- [00:40:35,259 - 00:40:35,720] well,
+- [00:40:35,720 - 00:40:36,420] tensor or not,
+- [00:40:36,500 - 00:40:38,060] how many exposed indices
+- [00:40:38,060 - 00:40:38,780] does it have?
+- [00:40:38,840 - 00:40:39,000] Well,
+- [00:40:39,000 - 00:40:39,000] it's a tensor.
+- [00:40:39,800 - 00:40:40,280] Zero.
+- [00:40:42,420 - 00:40:44,080] Mu combines with this mu
+- [00:40:44,080 - 00:40:45,180] and nu combines with this nu.
+- [00:40:45,340 - 00:40:47,200] So if it were a tensor,
+- [00:40:47,340 - 00:40:47,960] which it is not,
+- [00:40:48,060 - 00:40:49,200] what kind of tensor would it be?
+- [00:40:50,200 - 00:40:50,980] A scalar.
+- [00:40:51,540 - 00:40:53,420] But this is not the right rule
+- [00:40:53,420 - 00:40:55,440] for making a scalar out of a vector.
+- [00:40:55,740 - 00:40:57,260] We have to replace this
+- [00:40:57,260 - 00:40:59,760] by covariant derivative.
+- [00:41:00,580 - 00:41:02,600] So we have to add to it
+- [00:41:02,600 - 00:41:05,020] plus gamma mu.
+- [00:41:06,960 - 00:41:08,900] Let's call this object here.
+- [00:41:08,980 - 00:41:09,000] And we have to add
+- [00:41:09,020 - 00:41:09,180] this vector here.
+- [00:41:09,380 - 00:41:10,600] This is a vector,
+- [00:41:10,720 - 00:41:12,520] let's call it v mu.
+- [00:41:15,860 - 00:41:16,380] Yes,
+- [00:41:16,380 - 00:41:17,560] let's call it v mu.
+- [00:41:18,480 - 00:41:20,540] We're covariantly differentiating
+- [00:41:20,540 - 00:41:22,180] v mu with respect to x mu.
+- [00:41:22,560 - 00:41:23,720] And so that means
+- [00:41:23,720 - 00:41:24,520] we have to,
+- [00:41:24,680 - 00:41:25,400] let's see,
+- [00:41:25,540 - 00:41:28,040] we have to put another mu here,
+- [00:41:28,800 - 00:41:29,560] a nu,
+- [00:41:30,500 - 00:41:33,360] and a v nu,
+- [00:41:33,460 - 00:41:33,960] I believe.
+- [00:41:35,720 - 00:41:36,780] Which is just,
+- [00:41:36,940 - 00:41:38,020] let's see if I've got it right.
+- [00:41:40,160 - 00:41:43,360] And v is the phi,
+- [00:41:45,300 - 00:41:46,420] I'm messing this up.
+- [00:41:46,580 - 00:41:47,460] Let's go back.
+- [00:41:52,460 - 00:41:54,700] You want the partial on the first one
+- [00:41:54,700 - 00:41:55,660] and the gamma is
+- [00:41:55,660 - 00:41:56,280] Yeah.
+- [00:41:57,100 - 00:41:57,740] That's right.
+- [00:41:57,880 - 00:41:59,500] We want partial on the first one
+- [00:41:59,500 - 00:42:02,820] and then gamma mu.
+- [00:42:03,820 - 00:42:05,320] v is the whole thing.
+- [00:42:06,120 - 00:42:06,640] Yeah,
+- [00:42:06,640 - 00:42:07,800] v is the whole thing.
+- [00:42:08,000 - 00:42:09,000] So then I should have
+- [00:42:09,020 - 00:42:12,680] I should put v mu,
+- [00:42:12,680 - 00:42:13,360] right?
+- [00:42:17,040 - 00:42:17,660] Gamma mu,
+- [00:42:17,660 - 00:42:18,000] no,
+- [00:42:18,000 - 00:42:18,340] let's see,
+- [00:42:18,420 - 00:42:18,980] I don't have it right.
+- [00:42:19,060 - 00:42:21,080] We have to put some indices into the gamma here.
+- [00:42:23,900 - 00:42:27,920] Gamma mu alpha alpha.
+- [00:42:28,180 - 00:42:29,420] I think I have it right now.
+- [00:42:32,600 - 00:42:33,080] Yeah.
+- [00:42:34,200 - 00:42:36,200] The derivative with respect to x mu
+- [00:42:37,460 - 00:42:39,000] gets replaced by a gamma mu.
+- [00:42:39,000 - 00:42:43,400] The index mu is upstairs here,
+- [00:42:43,680 - 00:42:45,600] an alpha and a v alpha here,
+- [00:42:45,800 - 00:42:48,480] but then v alpha is what?
+- [00:42:48,700 - 00:42:55,620] It is g alpha beta d phi by dx beta.
+- [00:43:05,060 - 00:43:07,220] That's the covariant derivative.
+- [00:43:07,480 - 00:43:08,980] We could write this in a very simple way.
+- [00:43:09,000 - 00:43:09,640] We could write this in a very simple form.
+- [00:43:10,240 - 00:43:11,220] Del mu,
+- [00:43:11,220 - 00:43:12,860] covariant derivative
+- [00:43:13,580 - 00:43:18,220] of g mu nu d phi by dx nu.
+- [00:43:19,780 - 00:43:20,860] That's what it is.
+- [00:43:21,080 - 00:43:23,760] But to work out what the covariant derivative is
+- [00:43:23,760 - 00:43:25,740] means there's some Christoffel symbols.
+- [00:43:26,720 - 00:43:29,000] This is a more complicated equation
+- [00:43:30,140 - 00:43:32,240] than the equation that we started with,
+- [00:43:32,420 - 00:43:33,740] but it's a tensor equation.
+- [00:43:36,860 - 00:43:38,980] This is the wave equation
+- [00:43:42,280 - 00:43:44,020] in curved coordinates.
+- [00:43:44,860 - 00:43:45,840] In fact,
+- [00:43:45,840 - 00:43:46,980] it's a wave equation
+- [00:43:46,980 - 00:43:48,820] in curved coordinates
+- [00:43:48,820 - 00:43:50,640] whether or not the space is flat.
+- [00:43:51,100 - 00:43:52,260] It's a tensor equation.
+- [00:43:52,660 - 00:43:54,500] If it's true in one frame of reference,
+- [00:43:54,660 - 00:43:56,320] it's true in every frame of reference.
+- [00:43:57,100 - 00:43:58,100] And this,
+- [00:43:58,100 - 00:43:58,600] yeah?
+- [00:43:59,640 - 00:44:00,200] Yeah,
+- [00:44:00,200 - 00:44:00,860] it's equal to zero.
+- [00:44:03,340 - 00:44:03,900] So,
+- [00:44:05,140 - 00:44:06,660] all Einstein did
+- [00:44:06,660 - 00:44:08,260] was he took
+- [00:44:09,000 - 00:44:10,120] a standard wave equation,
+- [00:44:10,859 - 00:44:11,580] Maxwell's equations,
+- [00:44:13,220 - 00:44:14,040] rewrote them
+- [00:44:14,779 - 00:44:16,460] in curvilinear coordinates,
+- [00:44:17,440 - 00:44:18,540] and then said
+- [00:44:18,540 - 00:44:20,860] I'm going to insist that I rewrite
+- [00:44:20,860 - 00:44:22,760] them in a form in which
+- [00:44:22,760 - 00:44:24,700] they have a tensor form
+- [00:44:24,700 - 00:44:27,020] so that if they're true in one coordinate
+- [00:44:27,020 - 00:44:27,320] system,
+- [00:44:27,320 - 00:44:29,040] they're true in every coordinate system.
+- [00:44:29,920 - 00:44:30,200] Right?
+- [00:44:30,500 - 00:44:31,780] And how do they do it?
+- [00:44:32,320 - 00:44:32,920] Basically,
+- [00:44:32,920 - 00:44:33,780] the same rule.
+- [00:44:34,160 - 00:44:36,980] Replace ordinary derivatives by covariant derivatives.
+- [00:44:37,560 - 00:44:38,260] That's all.
+- [00:44:39,000 - 00:44:41,480] Replace ordinary derivatives by covariant derivatives,
+- [00:44:41,860 - 00:44:43,880] and that will give you
+- [00:44:43,880 - 00:44:45,000] your equation.
+- [00:44:46,060 - 00:44:46,660] Now,
+- [00:44:46,760 - 00:44:47,820] the new equation
+- [00:44:49,180 - 00:44:51,060] is more complicated,
+- [00:44:51,280 - 00:44:52,320] and notice
+- [00:44:53,000 - 00:44:54,040] in the equation,
+- [00:44:54,300 - 00:44:56,260] the gravitational field appears.
+- [00:44:57,920 - 00:44:59,440] Remember what gamma was.
+- [00:45:00,060 - 00:45:01,740] Gamma played the role
+- [00:45:01,740 - 00:45:03,500] of a kind of gravitational force.
+- [00:45:05,140 - 00:45:06,640] When it was applied
+- [00:45:06,640 - 00:45:08,320] to the motion of a particle,
+- [00:45:09,000 - 00:45:10,940] gamma had
+- [00:45:10,940 - 00:45:12,560] things like the derivatives
+- [00:45:12,560 - 00:45:15,780] of the Newtonian potential in it.
+- [00:45:15,940 - 00:45:17,700] So what appears over here
+- [00:45:17,700 - 00:45:19,960] is a kind of gravitational force,
+- [00:45:20,200 - 00:45:22,700] and the wave equation
+- [00:45:23,500 - 00:45:24,260] contains
+- [00:45:25,459 - 00:45:26,840] not only
+- [00:45:26,840 - 00:45:28,940] what you might have expected,
+- [00:45:29,280 - 00:45:31,120] namely some second derivatives of phi,
+- [00:45:31,420 - 00:45:33,480] but it contains another term,
+- [00:45:33,640 - 00:45:34,960] and that other term
+- [00:45:34,960 - 00:45:37,000] is actually the gravitational force
+- [00:45:37,000 - 00:45:38,900] on the wave field itself.
+- [00:45:38,900 - 00:45:38,980] So,
+- [00:45:41,920 - 00:45:42,980] that's how
+- [00:45:44,440 - 00:45:45,100] ordinary,
+- [00:45:45,380 - 00:45:46,180] simple waves
+- [00:45:46,180 - 00:45:48,400] would interact with a gravitational field.
+- [00:45:48,660 - 00:45:50,080] The effect of this,
+- [00:45:50,100 - 00:45:50,400] of course,
+- [00:45:50,400 - 00:45:51,340] is to bend waves.
+- [00:45:51,540 - 00:45:52,640] This is a function of position.
+- [00:45:53,880 - 00:45:55,320] The wave equation
+- [00:45:55,320 - 00:45:57,040] now has a form
+- [00:45:57,040 - 00:45:59,960] in which the various coefficients
+- [00:45:59,960 - 00:46:01,200] are position dependent.
+- [00:46:01,440 - 00:46:02,260] Do you know any situation
+- [00:46:02,260 - 00:46:04,640] in which a wave equation
+- [00:46:04,640 - 00:46:06,700] has position dependent coefficients
+- [00:46:06,700 - 00:46:07,880] of various kinds?
+- [00:46:10,740 - 00:46:11,300] Yeah.
+- [00:46:11,940 - 00:46:12,840] Varying density,
+- [00:46:13,080 - 00:46:15,420] varying dielectric constant,
+- [00:46:15,620 - 00:46:16,280] and so forth.
+- [00:46:16,540 - 00:46:17,880] And what is the effect
+- [00:46:17,880 - 00:46:19,840] of varying density
+- [00:46:19,840 - 00:46:20,980] or dielectric constant?
+- [00:46:24,440 - 00:46:25,000] Well,
+- [00:46:25,000 - 00:46:26,300] in particular,
+- [00:46:26,480 - 00:46:27,280] it can bend the wave.
+- [00:46:28,440 - 00:46:29,700] It can bend the wave.
+- [00:46:29,900 - 00:46:31,060] When light enters water
+- [00:46:31,060 - 00:46:32,820] non-perpendicularly,
+- [00:46:34,640 - 00:46:37,700] it can bend the wave.
+- [00:46:40,860 - 00:46:46,300] So the effect of
+- [00:46:48,080 - 00:46:49,120] bending waves
+- [00:46:49,120 - 00:46:51,060] And the effect of bending waves
+- [00:46:51,060 - 00:46:53,540] is to change the frequency.
+- [00:46:54,060 - 00:46:54,580] So,
+- [00:46:55,640 - 00:46:57,300] we have a very simple equation
+- [00:46:57,300 - 00:46:57,540] of bending waves
+- [00:46:57,540 - 00:47:01,420] and the effect of bending waves
+- [00:47:01,420 - 00:47:03,080] is to change the frequency
+- [00:47:03,080 - 00:47:03,140] of the wave.
+- [00:47:03,140 - 00:47:03,160] And what's the effect?
+- [00:47:07,939 - 00:47:08,819] Well,
+- [00:47:08,819 - 00:47:12,740] the effect of bending waves
+- [00:47:12,740 - 00:47:13,800] is to change the frequency
+- [00:47:13,800 - 00:47:13,820] of the wave.
+- [00:47:14,420 - 00:47:14,820] So,
+- [00:47:18,240 - 00:47:19,120] we have a very simple equation
+- [00:47:19,120 - 00:47:19,280] we have a very simple equation
+- [00:47:19,280 - 00:47:20,360] and what is the effect
+- [00:47:20,360 - 00:47:21,960] of bending waves?
+- [00:47:21,960 - 00:47:22,360] Well,
+- [00:47:23,140 - 00:47:24,120] the effect of bending waves
+- [00:47:24,120 - 00:47:29,560] is to change the frequency
+- [00:47:29,560 - 00:47:31,300] of the wave.
+- [00:47:34,160 - 00:47:34,940] So,
+- [00:47:37,279 - 00:47:40,560] we have a very simple equation
+- [00:47:40,560 - 00:47:41,400] and what is the effect?
+- [00:47:47,100 - 00:47:47,420] the effect of bending waves
+- [00:47:47,420 - 00:47:49,560] is to change the frequency
+- [00:47:49,560 - 00:47:49,620] of the wave.
+- [00:47:49,620 - 00:47:49,960] So,
+- [00:47:51,140 - 00:47:53,300] we have a very simple equation
+- [00:47:53,300 - 00:47:56,160] we have a very simple equation
+- [00:47:56,160 - 00:47:56,980] of bending waves
+- [00:47:56,980 - 00:47:58,040] and what is the effect?
+- [00:47:59,440 - 00:47:59,460] Well,
+- [00:47:59,460 - 00:48:01,320] the effect is to change
+- [00:48:01,320 - 00:48:02,640] the frequency of
+- [00:48:02,640 - 00:48:03,240] bending waves,
+- [00:48:03,500 - 00:48:03,960] You see,
+- [00:48:10,859 - 00:48:13,760] in technique you may have
+- [00:48:15,939 - 00:48:17,460] already Hashimoto's
+- [00:48:17,460 - 00:48:18,440] structure,
+- [00:48:18,440 - 00:48:22,120] which is using
+- [00:48:22,120 - 00:48:23,200] the way that the これ
+- [00:48:28,600 - 00:48:29,440] I'm going to call the
+- [00:48:29,460 - 00:48:31,940] I just wrote that V alpha is this.
+- [00:48:33,440 - 00:48:35,060] So it's a hard to get
+- [00:48:35,060 - 00:48:36,680] all of this in time-size conditions
+- [00:48:36,680 - 00:48:38,700] that things ought to be independent of the coordinates,
+- [00:48:38,700 - 00:48:39,160] right?
+- [00:48:39,200 - 00:48:39,480] Yeah.
+- [00:48:40,020 - 00:48:40,500] Right.
+- [00:48:43,220 - 00:48:44,720] And more than that,
+- [00:48:44,720 - 00:48:46,060] and more than that,
+- [00:48:46,160 - 00:48:51,440] that locally in little patches in which are too small
+- [00:48:51,440 - 00:48:52,860] for the curvature to be felt,
+- [00:48:52,860 - 00:48:54,420] they should behave exactly
+- [00:48:54,420 - 00:48:56,940] as if there was no gravitational field,
+- [00:48:56,940 - 00:48:57,760] right?
+- [00:48:57,760 - 00:48:59,460] So it's a little more than just what you said.
+- [00:49:02,780 - 00:49:05,010] And a little more is
+- [00:49:05,010 - 00:49:07,240] the content of the equivalence principle.
+- [00:49:13,040 - 00:49:13,600] Yes,
+- [00:49:13,600 - 00:49:14,060] sir?
+- [00:49:14,260 - 00:49:18,620] Does covariant differentiation of a product have a little
+- [00:49:18,620 - 00:49:19,480] rule?
+- [00:49:21,320 - 00:49:21,420] Right.
+- [00:49:22,060 - 00:49:22,960] So why,
+- [00:49:22,960 - 00:49:23,720] I mean,
+- [00:49:23,720 - 00:49:25,460] if you just write that in terms of
+- [00:49:25,460 - 00:49:26,380] covariant derivatives,
+- [00:49:26,380 - 00:49:27,740] the gene will be,
+- [00:49:27,760 - 00:49:28,740] the mu goes outside,
+- [00:49:28,740 - 00:49:29,280] doesn't it?
+- [00:49:29,500 - 00:49:29,740] Yes,
+- [00:49:29,740 - 00:49:29,980] it does.
+- [00:49:30,140 - 00:49:30,440] Yeah.
+- [00:49:30,900 - 00:49:33,400] So let's just write it in terms of covariant derivatives.
+- [00:49:35,780 - 00:49:39,120] An obvious thing to write is that,
+- [00:49:39,120 - 00:49:39,720] first of all,
+- [00:49:39,740 - 00:49:42,310] that d phi by dx
+- [00:49:42,310 - 00:49:44,880] mu is just del mu phi
+- [00:49:46,560 - 00:49:48,580] for ordinary derivatives of a scalar,
+- [00:49:48,580 - 00:49:49,680] okay?
+- [00:49:51,120 - 00:49:54,430] And then what we had was
+- [00:49:54,430 - 00:49:57,740] g mu nu del mu phi.
+- [00:49:57,740 - 00:50:12,120] If you always
+- [00:50:12,120 - 00:50:16,140] point out covariant derivatives satisfy the Leibniz rule.
+- [00:50:16,140 - 00:50:18,280] The Leibniz rule being
+- [00:50:18,280 - 00:50:21,860] that a covariant derivative of A times
+- [00:50:21,860 - 00:50:25,440] B is equal to covariant derivative of A
+- [00:50:25,440 - 00:50:33,000] times B plus A times covariant derivative of B.
+- [00:50:33,000 - 00:50:35,860] Alright,
+- [00:50:35,860 - 00:50:36,680] so the
+- [00:50:36,680 - 00:50:41,800] covariant derivative of G times this is just two terms.
+- [00:50:41,800 - 00:50:46,780] The first is G mu nu of X
+- [00:50:47,600 - 00:50:51,660] times del nu del mu of phi.
+- [00:50:51,660 - 00:50:58,220] And the second involves the covariant derivative
+- [00:50:58,220 - 00:50:59,060] of G mu nu.
+- [00:50:59,060 - 00:51:01,040] But what's the covariant derivative of G mu nu?
+- [00:51:01,040 - 00:51:02,560] Zero.
+- [00:51:02,560 - 00:51:04,180] So this is it.
+- [00:51:04,280 - 00:51:05,980] This is the form of the wave equation.
+- [00:51:07,040 - 00:51:08,880] But the reason I wrote it in a
+- [00:51:08,880 - 00:51:10,720] more complicated way is I wanted to make very
+- [00:51:10,720 - 00:51:13,650] explicit how the spatial variations of
+- [00:51:13,650 - 00:51:16,580] G mu nu and the Christoffel symbols
+- [00:51:17,160 - 00:51:21,500] enter into the equation and effectively
+- [00:51:21,500 - 00:51:25,840] make it almost as though the curvature
+- [00:51:25,840 - 00:51:28,320] of spacetime was a kind of
+- [00:51:28,320 - 00:51:30,800] variable material that light was moving through.
+- [00:51:31,680 - 00:51:33,740] That's not quite true,
+- [00:51:33,740 - 00:51:35,480] but sort of like that.
+- [00:51:36,060 - 00:51:36,660] Causes no trouble.
+- [00:51:36,680 - 00:51:37,060] Let's leave that.
+- [00:51:37,060 - 00:51:37,500] Okay.
+- [00:51:41,840 - 00:51:42,720] Well,
+- [00:51:42,720 - 00:51:43,020] I'm sorry...
+- [00:51:44,240 - 00:51:45,400] That's basically just the state of gravity.
+- [00:51:45,940 - 00:51:48,360] I'm gonna w咯 to the end
+- [00:51:48,360 - 00:51:50,780] of this part of the lecture,
+- [00:51:50,780 - 00:51:50,880] I don't have to point out questions,
+- [00:51:50,880 - 00:51:51,000] But what weambles happened in this situation was important..
+- [00:51:51,000 - 00:51:52,180] 5-对
+- [00:51:54,480 - 00:51:57,140] This driving equation is nice,
+- [00:51:57,140 - 00:51:58,040] but it doesn't have any stresses at all.
+- [00:51:58,040 - 00:51:58,760] We can use it in simple designer meow teste
+- [00:51:58,760 - 00:52:03,220] What weambles happened in this situation?
+- [00:52:03,220 - 00:52:06,200] it's equivalent to asking the question
+- [00:52:06,200 - 00:52:09,180] supposing I have a scalar field that
+- [00:52:09,180 - 00:52:12,330] satisfies such an equation with such a
+- [00:52:12,330 - 00:52:15,480] property what do I put on the right-hand
+- [00:52:15,480 - 00:52:19,850] side the right-hand side is energy
+- [00:52:19,850 - 00:52:24,220] and momentum light has energy light has
+- [00:52:24,220 - 00:52:27,750] momentum scalar wave fields have energy and
+- [00:52:27,750 - 00:52:31,280] momentum so if I wanted to make a
+- [00:52:31,280 - 00:52:34,890] nice little closed system of gravity
+- [00:52:34,890 - 00:52:38,500] interacting with a wave field here I've
+- [00:52:38,500 - 00:52:41,090] told you how gravity affects the wave field
+- [00:52:41,090 - 00:52:43,680] now I have to tell you how the
+- [00:52:43,680 - 00:52:47,760] wave field affects gravity okay so let's
+- [00:52:47,760 - 00:52:51,840] see if we can figure that out let's
+- [00:52:51,840 - 00:52:54,130] certainly what we're trying to do is tie
+- [00:52:54,130 - 00:52:56,420] up the ends we have wave equations here
+- [00:52:56,420 - 00:53:01,020] for Phi but we still need to figure out what
+- [00:53:01,020 - 00:53:01,140] goes on in the wave field and we still
+- [00:53:01,140 - 00:53:01,260] need to figure out what goes on in the
+- [00:53:01,260 - 00:53:04,590] right-hand side if we want to figure
+- [00:53:04,590 - 00:53:07,920] out how the wave field affects gravity
+- [00:53:09,700 - 00:53:13,440] all right so that the the many many
+- [00:53:13,440 - 00:53:17,180] ways to do this some sophisticated some not so
+- [00:53:17,180 - 00:53:19,150] sophisticated and we're not
+- [00:53:19,150 - 00:53:21,120] going to be sophisticated tonight
+- [00:53:31,919 - 00:53:35,959] we want an energy momentum tensor that's made
+- [00:53:35,959 - 00:53:40,000] up out of Phi now let's begin by
+- [00:53:40,000 - 00:53:42,530] forgetting gravity altogether and just
+- [00:53:42,530 - 00:53:45,060] imagine special relativity in other
+- [00:53:45,060 - 00:53:48,080] words flat space-time and let's see if
+- [00:53:48,080 - 00:53:51,100] we can figure out something about the
+- [00:53:51,100 - 00:53:54,950] energy momentum tensor of a wave
+- [00:53:54,950 - 00:53:58,800] field no gravity yet just ordinary flat
+- [00:53:58,800 - 00:54:01,500] space-time special relativity we have a field Phi
+- [00:54:01,500 - 00:54:04,200] and now we can go back to the
+- [00:54:04,200 - 00:54:07,160] we can go back to ordinary
+- [00:54:07,160 - 00:54:10,120] Cartesian coordinates in other words um Minkowski
+- [00:54:10,120 - 00:54:13,580] coordinates and write the wave equation the
+- [00:54:13,580 - 00:54:17,040] way that we had it before it really
+- [00:54:17,040 - 00:54:19,360] can be written well we can write it as
+- [00:54:21,220 - 00:54:23,080] what did we have before
+- [00:54:24,380 - 00:54:29,140] eta mu nu no eta super mu nu
+- [00:54:29,140 - 00:54:33,900] d mu d nu Phi equals zero right
+- [00:54:37,740 - 00:54:41,310] that was the wave equation written in
+- [00:54:41,310 - 00:54:44,880] a nice covariant notation but in flat
+- [00:54:44,880 - 00:54:48,260] space no Christoffel symbols no varying metric
+- [00:54:48,260 - 00:54:49,340] just a simple equation
+- [00:54:49,340 - 00:54:54,570] just a mu nu can we guess what
+- [00:54:54,570 - 00:54:59,800] the energy momentum tensor for Phi is well
+- [00:54:59,800 - 00:55:02,550] first of all has to be a tensor so
+- [00:55:02,550 - 00:55:05,300] it has to be a thing with two indices what
+- [00:55:05,300 - 00:55:08,530] can we do to Phi to create and give
+- [00:55:08,530 - 00:55:11,760] it some indices to give a to give an
+- [00:55:11,760 - 00:55:15,080] expression involving Phi that would have
+- [00:55:15,080 - 00:55:18,400] some indices well we can differentiate it
+- [00:55:21,500 - 00:55:25,760] I'm interested in the thing with two
+- [00:55:25,760 - 00:55:30,020] indices let's say team you knew so what
+- [00:55:30,020 - 00:55:35,380] can I make I can make things like the
+- [00:55:35,380 - 00:55:40,740] mu Phi the new Phi that's something I can
+- [00:55:40,740 - 00:55:41,280] make what else
+- [00:55:42,520 - 00:55:43,100] you
+- [00:55:43,880 - 00:55:44,460] you
+- [00:55:47,240 - 00:55:47,820] you
+- [00:55:47,820 - 00:55:48,380] you
+- [00:56:18,400 - 00:56:19,080] o
+- [00:56:19,080 - 00:56:19,300] ou
+- [00:56:19,300 - 00:56:31,950] by right okay one of the terms I'm
+- [00:56:31,950 - 00:56:44,600] using something that I already know that I did
+- [00:56:44,600 - 00:56:46,490] teach you previously let's see if I
+- [00:56:46,490 - 00:56:48,380] learned that in grad in that course how
+- [00:56:48,400 - 00:56:49,840] if you remember it.
+- [00:56:50,400 - 00:56:52,380] Anybody remember what the energy
+- [00:56:52,380 - 00:56:53,900] of a wave field is?
+- [00:56:54,020 - 00:56:54,880] Just the energy.
+- [00:56:56,800 - 00:57:00,280] What does the energy of a wave field have?
+- [00:57:04,360 - 00:57:04,920] What's that?
+- [00:57:08,640 - 00:57:09,180] Amplitude?
+- [00:57:15,260 - 00:57:17,880] Take a look at this expression.
+- [00:57:18,580 - 00:57:22,340] What does it do if phi changes sine?
+- [00:57:25,700 - 00:57:27,440] What happens to this expression
+- [00:57:27,440 - 00:57:30,620] if phi changes its sine?
+- [00:57:32,240 - 00:57:33,460] It changes sine.
+- [00:57:34,230 - 00:57:38,160] That means if I take a wave field,
+- [00:57:39,260 - 00:57:41,560] if this were in the energy,
+- [00:57:41,760 - 00:57:43,260] if this were in the energy,
+- [00:57:44,050 - 00:57:47,380] then a wave field which looks like this
+- [00:57:47,380 - 00:57:48,380] would be a wave field
+- [00:57:48,380 - 00:57:50,220] which might have positive energy
+- [00:57:50,880 - 00:57:53,060] and a wave field which looks like this
+- [00:57:53,700 - 00:57:55,500] would not have the same energy.
+- [00:57:56,380 - 00:57:59,380] A wave field which is in every respect identical
+- [00:58:00,140 - 00:58:02,360] except the sine of phi was changed
+- [00:58:02,360 - 00:58:03,740] from phi to minus phi
+- [00:58:03,740 - 00:58:05,140] would not have the same energy.
+- [00:58:10,640 - 00:58:13,180] One would have positive energy,
+- [00:58:13,340 - 00:58:14,520] one would have negative energy.
+- [00:58:15,160 - 00:58:17,160] So one might expect then
+- [00:58:17,160 - 00:58:18,280] that that is,
+- [00:58:18,380 - 00:58:18,620] that is forbidden.
+- [00:58:18,880 - 00:58:20,080] And it is forbidden.
+- [00:58:20,980 - 00:58:22,880] The energy should be something
+- [00:58:22,880 - 00:58:24,420] which doesn't change sine
+- [00:58:25,080 - 00:58:27,780] when you change phi to minus phi.
+- [00:58:28,360 - 00:58:30,160] It's like a harmonic oscillator.
+- [00:58:30,540 - 00:58:32,520] Wave fields are very much like harmonic oscillators.
+- [00:58:33,020 - 00:58:35,000] Harmonic oscillators have coordinates x.
+- [00:58:35,700 - 00:58:38,920] The kinetic energy is x dot squared.
+- [00:58:39,400 - 00:58:41,980] The potential energy is x squared.
+- [00:58:42,480 - 00:58:44,060] If x changes sine,
+- [00:58:44,300 - 00:58:45,780] nothing happens to the energy.
+- [00:58:46,020 - 00:58:48,020] The energy is positive when the energy is positive.
+- [00:58:48,020 - 00:58:48,360] The energy is positive when the energy is negative.
+- [00:58:48,380 - 00:58:50,200] Whether you pull the spring out to the right
+- [00:58:50,200 - 00:58:52,280] or whether you pull the spring out to the left.
+- [00:58:52,660 - 00:58:54,840] The same is true of a violin string.
+- [00:58:55,100 - 00:58:57,820] A violin string is a good example of a wave.
+- [00:58:58,400 - 00:59:01,240] Would you expect a wave which looked like this
+- [00:59:01,240 - 00:59:04,140] to have opposite energy from a wave
+- [00:59:04,140 - 00:59:05,020] which looks like this?
+- [00:59:05,280 - 00:59:05,800] No,
+- [00:59:05,800 - 00:59:06,800] you wouldn't.
+- [00:59:06,920 - 00:59:07,260] In fact,
+- [00:59:07,260 - 00:59:08,280] they can go into each other.
+- [00:59:08,360 - 00:59:09,640] They can vibrate into each other.
+- [00:59:11,680 - 00:59:14,980] And so one expects on general grounds
+- [00:59:14,980 - 00:59:17,480] that whatever the energy,
+- [00:59:17,480 - 00:59:21,400] or in the energy momentum of a field phi is,
+- [00:59:22,080 - 00:59:24,500] that it should not change sine
+- [00:59:24,500 - 00:59:26,240] when you change the sine of phi.
+- [00:59:26,500 - 00:59:28,000] Now what happens to this expression
+- [00:59:28,000 - 00:59:29,600] if phi goes to minus phi?
+- [00:59:31,140 - 00:59:32,140] Nothing happens.
+- [00:59:32,240 - 00:59:32,980] It stays the same.
+- [00:59:33,580 - 00:59:34,100] Why?
+- [00:59:35,380 - 00:59:35,900] Hmm?
+- [00:59:38,660 - 00:59:41,120] Because it's quadratic in phi.
+- [00:59:42,740 - 00:59:44,200] If phi changes sine,
+- [00:59:44,460 - 00:59:45,760] the mu phi changes sine,
+- [00:59:45,940 - 00:59:47,260] the nu phi changes sine,
+- [00:59:47,320 - 00:59:47,460] and the mu phi changes sine,
+- [00:59:47,480 - 00:59:48,740] and the product doesn't change sine.
+- [00:59:49,400 - 00:59:52,660] So a term like this is not expected
+- [00:59:52,660 - 00:59:54,000] in the energy momentum tensor.
+- [00:59:54,700 - 00:59:57,260] But these two terms are perfectly good.
+- [00:59:58,060 - 00:59:59,500] We can add them together.
+- [01:00:00,380 - 01:00:01,700] And we can add them together
+- [01:00:01,700 - 01:00:03,340] with some unknown coefficient.
+- [01:00:04,140 - 01:00:06,560] Let's put an unknown coefficient there.
+- [01:00:06,720 - 01:00:07,660] What's a good number?
+- [01:00:07,900 - 01:00:09,680] What's a good letter for an unknown coefficient?
+- [01:00:10,420 - 01:00:11,000] C.
+- [01:00:11,340 - 01:00:11,920] C.
+- [01:00:11,920 - 01:00:13,100] Thank you.
+- [01:00:18,899 - 01:00:19,740] Good.
+- [01:00:20,540 - 01:00:22,160] Now what I want to do
+- [01:00:22,160 - 01:00:23,560] is I want to figure out
+- [01:00:23,560 - 01:00:25,060] if there's any value of C
+- [01:00:25,060 - 01:00:29,500] which will ensure that
+- [01:00:32,200 - 01:00:37,420] that the continuity equation is satisfied.
+- [01:00:40,160 - 01:00:43,420] The continuity equation is
+- [01:00:44,500 - 01:00:46,600] d super mu,
+- [01:00:47,480 - 01:00:50,320] t mu nu is equal to zero.
+- [01:00:51,540 - 01:00:53,500] Now this is a funny looking expression.
+- [01:00:53,760 - 01:00:54,220] Derivative,
+- [01:00:54,360 - 01:00:56,060] you know what d sub mu means,
+- [01:00:56,060 - 01:00:56,460] right?
+- [01:00:57,900 - 01:01:00,260] That means derivative with respect to x mu.
+- [01:01:01,560 - 01:01:04,840] And it's got a covariant index downstairs,
+- [01:01:05,440 - 01:01:05,980] right?
+- [01:01:06,440 - 01:01:07,640] d by dx mu.
+- [01:01:10,700 - 01:01:13,120] What does a derivative differential sign
+- [01:01:13,120 - 01:01:14,860] like this mean with an upstairs index?
+- [01:01:17,260 - 01:01:18,820] You just raise the index.
+- [01:01:19,100 - 01:01:20,070] What do you use for
+- [01:01:20,070 - 01:01:21,040] the metric to raise the index?
+- [01:01:22,380 - 01:01:23,220] Eta mu nu.
+- [01:01:24,460 - 01:01:27,160] So this is a perfectly well-defined symbol
+- [01:01:27,160 - 01:01:28,460] with an upstairs mu there.
+- [01:01:28,980 - 01:01:33,900] It just means d super mu
+- [01:01:35,820 - 01:01:41,520] equals eta mu nu d sub little nu.
+- [01:01:42,480 - 01:01:44,840] The upstairs derivatives and the downstairs derivatives
+- [01:01:44,840 - 01:01:46,550] are the same thing except for
+- [01:01:46,550 - 01:01:48,260] some sign changes here and there.
+- [01:01:49,220 - 01:01:49,960] All right.
+- [01:01:50,000 - 01:01:51,720] So this is the continuity equation
+- [01:01:52,900 - 01:01:55,040] or the conservation of energy momentum
+- [01:01:55,640 - 01:01:56,700] in special relativity.
+- [01:01:57,120 - 01:01:59,840] You can push the indices upstairs and downstairs.
+- [01:02:00,140 - 01:02:00,940] I used to write it,
+- [01:02:00,980 - 01:02:02,620] previously I wrote it this way,
+- [01:02:02,720 - 01:02:03,580] but it's the same thing.
+- [01:02:04,020 - 01:02:06,800] Indices can be moved upstairs and downstairs at will.
+- [01:02:08,340 - 01:02:10,280] And here's my continuity equation.
+- [01:02:12,540 - 01:02:14,500] We can also write this equation
+- [01:02:14,840 - 01:02:15,800] in neater form.
+- [01:02:16,420 - 01:02:19,620] We can just write eta mu nu on d nu
+- [01:02:19,620 - 01:02:24,340] just turns this into d mu d mu phi.
+- [01:02:25,900 - 01:02:27,820] One downstairs d mu,
+- [01:02:27,980 - 01:02:29,580] one upstairs d mu.
+- [01:02:30,020 - 01:02:31,660] That's what the eta mu nu does.
+- [01:02:33,840 - 01:02:36,100] So here's what we have going for us.
+- [01:02:36,280 - 01:02:37,840] Phi satisfies that equation.
+- [01:02:38,580 - 01:02:39,880] And we want to find out
+- [01:02:39,880 - 01:02:41,400] if there's a linear combination
+- [01:02:42,080 - 01:02:43,420] of these two,
+- [01:02:43,420 - 01:02:45,320] which is conserved.
+- [01:02:46,500 - 01:02:47,420] If it is,
+- [01:02:47,420 - 01:02:47,940] if there is,
+- [01:02:48,780 - 01:02:50,200] it will give us a candidate
+- [01:02:50,200 - 01:02:51,780] for the energy momentum tensor.
+- [01:02:52,300 - 01:02:53,040] In fact,
+- [01:02:53,040 - 01:02:53,460] it's unique.
+- [01:02:54,640 - 01:02:55,120] Okay,
+- [01:02:55,120 - 01:02:56,400] so let's just try it out.
+- [01:02:58,200 - 01:02:59,820] Let's differentiate this.
+- [01:03:01,020 - 01:03:01,780] Super mu.
+- [01:03:03,920 - 01:03:04,860] T mu nu.
+- [01:03:07,780 - 01:03:08,760] What do I get?
+- [01:03:09,460 - 01:03:11,360] Apply it to the right-hand side here.
+- [01:03:11,880 - 01:03:12,980] That gives me,
+- [01:03:12,980 - 01:03:14,200] d mu,
+- [01:03:16,160 - 01:03:17,680] d mu d nu,
+- [01:03:17,880 - 01:03:18,580] now,
+- [01:03:18,580 - 01:03:19,860] d mu phi d nu phi.
+- [01:03:26,700 - 01:03:27,780] That's the first piece.
+- [01:03:28,560 - 01:03:29,780] First term over here.
+- [01:03:30,900 - 01:03:31,600] All right,
+- [01:03:31,600 - 01:03:31,800] now,
+- [01:03:31,940 - 01:03:33,480] this is a product.
+- [01:03:34,780 - 01:03:36,180] Leibniz's rule can be applied.
+- [01:03:36,580 - 01:03:37,580] What do I get?
+- [01:03:37,640 - 01:03:41,100] I get d mu d mu phi.
+- [01:03:44,020 - 01:03:45,320] Times d nu phi.
+- [01:03:45,560 - 01:03:46,720] That's one term.
+- [01:03:47,200 - 01:03:48,420] And what's the other term?
+- [01:03:50,720 - 01:03:54,860] The other term is plus d mu phi,
+- [01:03:56,759 - 01:03:59,520] d mu d nu phi.
+- [01:04:02,720 - 01:04:04,140] That's when the d mu here
+- [01:04:04,140 - 01:04:05,580] hits the second term.
+- [01:04:05,980 - 01:04:06,440] Well,
+- [01:04:06,440 - 01:04:07,400] what is this piece over here?
+- [01:04:09,140 - 01:04:09,800] That's zero.
+- [01:04:09,900 - 01:04:10,640] That's the wave equation.
+- [01:04:11,420 - 01:04:12,920] So let's get rid of it.
+- [01:04:24,920 - 01:04:25,400] Okay,
+- [01:04:25,400 - 01:04:26,560] now let's,
+- [01:04:27,320 - 01:04:29,300] we still have this term over here.
+- [01:04:30,180 - 01:04:32,500] We still have to hit it with d mu.
+- [01:04:32,660 - 01:04:33,460] d mu,
+- [01:04:33,460 - 01:04:35,520] constant c,
+- [01:04:36,280 - 01:04:37,240] eta mu nu,
+- [01:04:38,620 - 01:04:39,980] d sigma phi,
+- [01:04:40,900 - 01:04:42,220] d sigma phi.
+- [01:04:44,460 - 01:04:45,940] What is that going to have?
+- [01:04:46,200 - 01:04:46,800] Well,
+- [01:04:46,800 - 01:04:48,880] d super mu,
+- [01:04:49,040 - 01:04:49,760] eta mu nu,
+- [01:04:49,880 - 01:04:50,360] what is that?
+- [01:04:51,560 - 01:04:53,340] That's just d sub nu.
+- [01:04:54,680 - 01:04:56,420] d sub nu.
+- [01:05:01,400 - 01:05:02,480] What's it going to have?
+- [01:05:03,340 - 01:05:06,380] It's going to have a term with d sigma phi,
+- [01:05:06,700 - 01:05:09,020] and then a term with a mixed derivative,
+- [01:05:09,020 - 01:05:10,860] d nu d sigma phi.
+- [01:05:11,260 - 01:05:12,320] There'll be two of them.
+- [01:05:14,060 - 01:05:15,500] Can you see why there are two of them?
+- [01:05:25,420 - 01:05:26,900] One from hitting here,
+- [01:05:27,080 - 01:05:28,640] and one from hitting here.
+- [01:05:28,920 - 01:05:30,160] They're both the same.
+- [01:05:30,400 - 01:05:32,700] You can juggle these indices upstairs and downstairs.
+- [01:05:32,880 - 01:05:33,880] It doesn't cost anything.
+- [01:05:34,240 - 01:05:35,820] So there are two terms,
+- [01:05:35,920 - 01:05:38,420] each of which have the form d nu,
+- [01:05:38,420 - 01:05:40,320] d sigma phi,
+- [01:05:41,540 - 01:05:43,340] times d sigma phi.
+- [01:05:45,440 - 01:05:46,040] Okay,
+- [01:05:46,040 - 01:05:47,810] but this term is of
+- [01:05:47,810 - 01:05:49,580] exactly the same form as this.
+- [01:05:52,240 - 01:05:54,420] A derivative of phi,
+- [01:05:56,100 - 01:05:57,060] and then,
+- [01:05:57,120 - 01:05:58,080] here,
+- [01:05:58,080 - 01:05:58,940] if I replace,
+- [01:05:59,100 - 01:05:59,400] let's see,
+- [01:05:59,400 - 01:06:01,000] if we replace sigma by mu,
+- [01:06:01,720 - 01:06:03,400] they're exactly the same thing.
+- [01:06:04,780 - 01:06:06,560] But we get two of these terms.
+- [01:06:07,779 - 01:06:09,420] We get two of these terms,
+- [01:06:11,399 - 01:06:15,320] and that means I want the factor of two someplace.
+- [01:06:16,700 - 01:06:17,480] I want the,
+- [01:06:17,480 - 01:06:18,220] let's see,
+- [01:06:18,220 - 01:06:18,780] what are we doing?
+- [01:06:19,320 - 01:06:20,480] What happened to c?
+- [01:06:20,740 - 01:06:21,140] Hmm?
+- [01:06:21,740 - 01:06:22,140] C,
+- [01:06:22,140 - 01:06:23,100] you dropped it.
+- [01:06:23,240 - 01:06:23,640] Yeah,
+- [01:06:23,640 - 01:06:24,020] the question,
+- [01:06:24,020 - 01:06:25,620] I know I dropped it,
+- [01:06:25,680 - 01:06:26,500] but where did I drop it?
+- [01:06:30,279 - 01:06:32,320] I think we want c equals a half.
+- [01:06:34,980 - 01:06:36,540] I think we want c equals a half.
+- [01:06:36,540 - 01:06:38,820] With c equal a half,
+- [01:06:38,980 - 01:06:39,660] just go through this,
+- [01:06:39,660 - 01:06:40,340] go through it yourself.
+- [01:06:40,600 - 01:06:42,300] With c equal a half,
+- [01:06:42,560 - 01:06:44,260] this becomes an identity,
+- [01:06:44,440 - 01:06:45,560] that this is equal to zero.
+- [01:06:48,340 - 01:06:50,300] That's an identity for all phi,
+- [01:06:50,600 - 01:06:51,200] oh,
+- [01:06:51,200 - 01:06:53,300] for all phi which satisfy the wave equation.
+- [01:06:53,800 - 01:06:55,300] I use the wave equation.
+- [01:06:55,760 - 01:06:57,660] When I differentiated this term,
+- [01:06:57,840 - 01:06:59,540] there was one term which was d mu,
+- [01:06:59,540 - 01:07:00,200] d mu phi.
+- [01:07:00,800 - 01:07:02,000] That was the wave equation.
+- [01:07:02,360 - 01:07:03,920] Then there was another term,
+- [01:07:03,920 - 01:07:06,680] and it canceled this.
+- [01:07:08,360 - 01:07:10,460] It canceled the two terms from here,
+- [01:07:10,560 - 01:07:11,780] that's why I had to put a half here.
+- [01:07:12,060 - 01:07:12,580] All right,
+- [01:07:12,580 - 01:07:13,020] go through that.
+- [01:07:13,080 - 01:07:13,860] It's a little exercise,
+- [01:07:13,860 - 01:07:15,500] not very hard.
+- [01:07:15,940 - 01:07:18,440] If phi satisfies the wave equation,
+- [01:07:18,720 - 01:07:21,700] then this object over
+- [01:07:21,700 - 01:07:24,680] here satisfies the continuity equation.
+- [01:07:36,980 - 01:07:37,480] Let's see.
+- [01:07:40,300 - 01:07:41,600] Do I want a minus sign?
+- [01:07:41,820 - 01:07:42,180] Yeah.
+- [01:07:43,140 - 01:07:43,720] Minus sign.
+- [01:07:50,420 - 01:07:51,160] Let's compute.
+- [01:07:51,360 - 01:07:52,360] Now that we have it,
+- [01:07:53,259 - 01:07:54,040] and it's unique,
+- [01:07:54,040 - 01:07:55,180] there was no ambiguity.
+- [01:07:57,180 - 01:07:58,060] It's quite unique.
+- [01:07:58,460 - 01:08:00,240] Let's just see if we can recognize
+- [01:08:00,240 - 01:08:02,180] what the energy density is.
+- [01:08:02,880 - 01:08:03,900] Which term is the most important?
+- [01:08:03,900 - 01:08:04,460] The energy density.
+- [01:08:05,440 - 01:08:06,000] Zero,
+- [01:08:06,000 - 01:08:06,300] zero.
+- [01:08:06,300 - 01:08:06,700] Zero,
+- [01:08:06,700 - 01:08:07,060] zero.
+- [01:08:07,320 - 01:08:10,020] Does it matter whether they're upstairs or downstairs?
+- [01:08:13,880 - 01:08:15,000] It doesn't.
+- [01:08:15,060 - 01:08:16,120] It doesn't.
+- [01:08:16,180 - 01:08:18,500] When you pull an upstairs index downstairs,
+- [01:08:19,240 - 01:08:20,640] if it's a time index,
+- [01:08:20,640 - 01:08:21,720] it doesn't change sign.
+- [01:08:22,180 - 01:08:23,479] If it's a space index,
+- [01:08:23,479 - 01:08:24,540] it does change sign.
+- [01:08:25,000 - 01:08:27,779] But if we pull two time indices downstairs,
+- [01:08:28,060 - 01:08:29,680] then certainly nothing happens to it.
+- [01:08:29,880 - 01:08:32,819] So the energy density is either T naught naught
+- [01:08:32,819 - 01:08:33,880] or T naught minus phi.
+- [01:08:33,899 - 01:08:34,800] T sub naught naught.
+- [01:08:35,000 - 01:08:35,819] Same thing.
+- [01:08:36,600 - 01:08:38,020] And let's see what we get.
+- [01:08:39,439 - 01:08:40,140] All right.
+- [01:08:40,160 - 01:08:42,160] We have mu and nu both being time.
+- [01:08:42,920 - 01:08:44,200] So what is this?
+- [01:08:44,640 - 01:08:46,380] I'm now going to use the notation
+- [01:08:46,380 - 01:08:47,640] X naught equals T,
+- [01:08:47,640 - 01:08:48,300] time.
+- [01:08:48,840 - 01:08:50,380] So what is this term over here?
+- [01:08:52,939 - 01:08:55,899] Just the square of the time derivative of phi.
+- [01:08:57,300 - 01:08:58,260] Not acceleration.
+- [01:08:58,899 - 01:08:59,420] No.
+- [01:08:59,540 - 01:09:02,060] It's just the square of the time derivative of phi.
+- [01:09:03,080 - 01:09:05,680] Let's just call it phi dot squared.
+- [01:09:08,160 - 01:09:09,399] Phi dot squared.
+- [01:09:09,479 - 01:09:11,040] This is the energy momentum density.
+- [01:09:12,020 - 01:09:12,640] Sorry.
+- [01:09:12,819 - 01:09:14,340] It's the density of energy.
+- [01:09:14,600 - 01:09:15,960] The density of energy.
+- [01:09:16,240 - 01:09:17,540] Phi dot squared.
+- [01:09:17,640 - 01:09:18,880] That's the first thing here.
+- [01:09:18,979 - 01:09:21,200] Dot meaning derivative with respect to time.
+- [01:09:21,460 - 01:09:23,580] And then minus one half.
+- [01:09:24,340 - 01:09:25,920] And let's see what we have.
+- [01:09:26,300 - 01:09:30,040] We have eta mu nu.
+- [01:09:30,220 - 01:09:32,040] So we're interested in the time component.
+- [01:09:32,040 - 01:09:32,760] The time component of it.
+- [01:09:32,920 - 01:09:35,000] What is eta naught naught?
+- [01:09:35,240 - 01:09:35,760] One.
+- [01:09:36,040 - 01:09:37,420] So we just leave that alone.
+- [01:09:38,200 - 01:09:47,800] And then we have phi dot squared.
+- [01:09:48,260 - 01:09:49,580] Why phi dot squared?
+- [01:09:50,040 - 01:09:51,060] If sigma,
+- [01:09:51,060 - 01:09:52,540] the sigma is the same as
+- [01:09:52,540 - 01:09:54,020] the sigma in the summed over.
+- [01:09:54,320 - 01:09:55,960] If sigma is time,
+- [01:09:55,960 - 01:09:59,240] then raising and lowering doesn't do anything.
+- [01:10:00,780 - 01:10:03,500] Raising and lowering a time index doesn't change its sign.
+- [01:10:03,620 - 01:10:06,080] Raising and lowering a space index does change its sign.
+- [01:10:06,779 - 01:10:09,560] So we have phi dot times phi dot.
+- [01:10:10,680 - 01:10:12,380] But then we also have
+- [01:10:12,380 - 01:10:14,080] the space derivatives of phi here.
+- [01:10:14,520 - 01:10:15,600] This could be x.
+- [01:10:16,140 - 01:10:18,110] Then we would have derivative of
+- [01:10:18,110 - 01:10:20,080] phi with respect to x squared.
+- [01:10:20,200 - 01:10:21,860] But with a plus sign or a minus sign?
+- [01:10:24,020 - 01:10:24,580] Minus sign.
+- [01:10:24,580 - 01:10:24,800] Minus sign.
+- [01:10:27,920 - 01:10:28,440] Because.
+- [01:10:28,700 - 01:10:29,220] Because.
+- [01:10:33,700 - 01:10:38,060] Because pulling an index up and down changes its sign.
+- [01:10:38,240 - 01:10:42,040] And then same thing with derivative of phi with respect to
+- [01:10:42,040 - 01:10:45,840] y squared minus derivative of phi with respect to z squared.
+- [01:10:47,140 - 01:10:47,680] Sorry,
+- [01:10:47,680 - 01:10:49,280] derivative of phi with respect to z squared.
+- [01:10:53,100 - 01:10:54,300] What do we get altogether?
+- [01:10:55,760 - 01:10:56,580] We get.
+- [01:10:56,580 - 01:10:58,360] We get phi dot squared
+- [01:10:58,360 - 01:11:00,140] minus a half phi dot squared.
+- [01:11:01,520 - 01:11:03,500] That's phi dot squared over 2.
+- [01:11:05,360 - 01:11:08,310] And then the minus is here
+- [01:11:08,310 - 01:11:11,260] and the minus here cancels each other.
+- [01:11:11,380 - 01:11:14,430] And we get plus the derivative
+- [01:11:14,430 - 01:11:17,480] of phi with respect to x squared.
+- [01:11:19,800 - 01:11:24,260] Plus the derivative of phi with respect to y squared.
+- [01:11:24,260 - 01:11:28,400] Plus the derivative of phi with respect to z squared.
+- [01:11:28,560 - 01:11:30,870] And I think I left out a factor
+- [01:11:30,870 - 01:11:33,180] of a half multiplying each one of these.
+- [01:11:36,520 - 01:11:38,000] All times one half.
+- [01:11:44,320 - 01:11:45,180] What is this?
+- [01:11:45,660 - 01:11:49,240] This is the kinetic energy of the moving wave.
+- [01:11:49,840 - 01:11:51,940] If we thought of it as a violin string,
+- [01:11:51,940 - 01:11:54,240] it would be the kinetic energy of the violin string.
+- [01:11:54,240 - 01:11:56,880] And this is the energy,
+- [01:11:56,880 - 01:11:59,800] the potential energy in the violin string.
+- [01:12:00,100 - 01:12:04,770] The stretching of the violin string away from
+- [01:12:04,770 - 01:12:09,440] its equilibrium when the violin string is straight.
+- [01:12:09,840 - 01:12:12,820] A straight violin string has no potential energy.
+- [01:12:14,100 - 01:12:16,620] When the violin string has a derivative,
+- [01:12:16,620 - 01:12:18,100] then it has potential energy.
+- [01:12:18,780 - 01:12:21,130] So this is in fact the
+- [01:12:21,130 - 01:12:23,480] correct expression for the energy density.
+- [01:12:24,340 - 01:12:26,540] We could also work out all the
+- [01:12:26,540 - 01:12:28,740] other components of the energy momentum tensor.
+- [01:12:29,060 - 01:12:30,100] But why bother?
+- [01:12:30,100 - 01:12:30,700] Here it is.
+- [01:12:31,860 - 01:12:32,620] This is it.
+- [01:12:32,620 - 01:12:35,520] You can go and figure out all of its components.
+- [01:12:36,580 - 01:12:38,020] There is one ambiguity.
+- [01:12:39,640 - 01:12:42,110] The one ambiguity is the
+- [01:12:42,110 - 01:12:44,580] overall coefficient in front of it.
+- [01:12:44,660 - 01:12:46,010] I could put a 10 in front of
+- [01:12:46,010 - 01:12:47,360] it or a 100 in front of it.
+- [01:12:47,580 - 01:12:50,860] And it would still satisfy the continuity equation.
+- [01:12:51,100 - 01:12:51,560] Where is it?
+- [01:12:51,980 - 01:12:54,220] It would still satisfy the continuity equation.
+- [01:12:54,940 - 01:12:56,840] So there is an ambiguity.
+- [01:12:57,480 - 01:13:00,420] But that ambiguity can,
+- [01:13:00,420 - 01:13:01,540] and it is really there,
+- [01:13:01,540 - 01:13:02,500] it's ambiguous,
+- [01:13:03,020 - 01:13:06,200] but you can always absorb
+- [01:13:06,200 - 01:13:09,380] it into the definition of phi.
+- [01:13:10,060 - 01:13:12,730] Supposing I decided that the energy
+- [01:13:12,730 - 01:13:15,400] momentum tensor should be 100 times this.
+- [01:13:15,780 - 01:13:18,460] Well then I could redefine phi by taking
+- [01:13:18,460 - 01:13:21,140] phi times 10 and calling it something new.
+- [01:13:22,140 - 01:13:25,120] And then the new field would have an
+- [01:13:25,120 - 01:13:28,100] energy momentum tensor which looked exactly like this.
+- [01:13:28,260 - 01:13:29,660] So it's a matter of convention.
+- [01:13:29,960 - 01:13:31,440] It's a bit of a matter of
+- [01:13:31,440 - 01:13:32,920] convention about the definition of the field phi.
+- [01:13:33,320 - 01:13:35,750] It is always defined so that the energy doesn't
+- [01:13:35,750 - 01:13:38,180] have a factor of 100 or a factor of 7.
+- [01:13:38,660 - 01:13:40,020] It's defined in such a way
+- [01:13:40,020 - 01:13:41,380] that the coefficient there is 1.
+- [01:13:43,260 - 01:13:44,260] Once you know it,
+- [01:13:44,260 - 01:13:45,860] you can put it into the
+- [01:13:45,860 - 01:13:47,460] right hand side of the equations here.
+- [01:13:48,840 - 01:13:49,460] All right,
+- [01:13:49,460 - 01:13:50,340] so you take this now.
+- [01:13:51,800 - 01:13:52,340] Bodily.
+- [01:13:52,880 - 01:13:54,140] Bring it over to here.
+- [01:13:56,020 - 01:14:01,310] And it becomes the right hand side which tells gravity how
+- [01:14:01,310 - 01:14:06,600] to respond to the energy and momentum in the wave field.
+- [01:14:07,520 - 01:14:08,060] Yeah?
+- [01:14:09,060 - 01:14:10,520] Maybe it's a real naive question,
+- [01:14:10,520 - 01:14:14,730] but I read long ago that pressure
+- [01:14:14,730 - 01:14:18,940] has something to do with general relativity.
+- [01:14:19,200 - 01:14:19,380] Yes,
+- [01:14:19,380 - 01:14:19,380] okay.
+- [01:14:21,880 - 01:14:22,380] Pressure.
+- [01:14:27,700 - 01:14:29,260] Pressure is simply defined in
+- [01:14:29,260 - 01:14:30,820] terms of the energy momentum tensor.
+- [01:14:31,060 - 01:14:31,260] Okay.
+- [01:14:31,600 - 01:14:32,100] Right.
+- [01:14:34,220 - 01:14:34,720] Okay,
+- [01:14:34,720 - 01:14:38,000] I'll tell you what.
+- [01:14:38,580 - 01:14:42,620] Pressure is a well-defined thing when a gas
+- [01:14:42,620 - 01:14:46,660] or whatever it happens to be is isotropic.
+- [01:14:47,840 - 01:14:49,260] If it's not isotropic.
+- [01:14:49,260 - 01:14:50,860] Isotropic means you can't,
+- [01:14:50,860 - 01:14:51,460] you know,
+- [01:14:51,460 - 01:14:54,490] the molecules are moving as much this way as they
+- [01:14:54,490 - 01:14:57,520] are this way as they are this way when it's isotropic.
+- [01:14:58,200 - 01:14:59,580] If it's not isotropic,
+- [01:14:59,580 - 01:15:01,120] then there are different components
+- [01:15:01,120 - 01:15:02,660] of pressure in the various axes,
+- [01:15:02,660 - 01:15:04,360] and you have to think about
+- [01:15:04,360 - 01:15:06,060] something a little more complicated than pressure.
+- [01:15:06,440 - 01:15:09,110] When a gas or a material or
+- [01:15:09,110 - 01:15:11,780] whatever it happens to be is isotropic,
+- [01:15:11,780 - 01:15:14,800] then the pressure is a well-defined thing,
+- [01:15:14,800 - 01:15:15,820] the same in every direction.
+- [01:15:15,820 - 01:15:19,020] And when the gas is isotropic,
+- [01:15:19,020 - 01:15:21,460] it means that the energy momentum tensor,
+- [01:15:21,460 - 01:15:23,220] it has a T00 here,
+- [01:15:23,220 - 01:15:24,420] that's the energy density,
+- [01:15:24,420 - 01:15:29,500] but then it has nothing in the off diagonals.
+- [01:15:29,540 - 01:15:33,300] The off diagonals would render it not isotropic,
+- [01:15:33,300 - 01:15:36,660] and the only elements it has are on the diagonal,
+- [01:15:36,660 - 01:15:39,000] and those are called the pressure.
+- [01:15:40,540 - 01:15:42,140] Or are they minus the pressure?
+- [01:15:42,980 - 01:15:44,720] I think they're minus the pressure.
+- [01:15:46,099 - 01:15:46,780] Oh.
+- [01:15:48,900 - 01:15:52,280] The pressure or one-third the pressure.
+- [01:15:53,360 - 01:15:54,040] No,
+- [01:15:54,040 - 01:15:54,820] they're the pressure.
+- [01:15:56,180 - 01:15:58,660] So the pressure is just defined
+- [01:15:58,660 - 01:16:01,140] in terms of the energy momentum tensor.
+- [01:16:01,560 - 01:16:03,270] Would a shear force be
+- [01:16:03,270 - 01:16:04,980] an example of something off diagonal?
+- [01:16:05,200 - 01:16:05,320] Yeah.
+- [01:16:05,840 - 01:16:06,520] Yeah.
+- [01:16:06,940 - 01:16:09,600] A shear force would be...
+- [01:16:09,600 - 01:16:10,200] Right.
+- [01:16:10,780 - 01:16:11,460] Right.
+- [01:16:11,520 - 01:16:12,640] A shear force...
+- [01:16:14,520 - 01:16:15,620] A stress,
+- [01:16:15,620 - 01:16:23,300] a shear stress would be a non-diagonal component,
+- [01:16:23,300 - 01:16:25,300] but it would be symmetric.
+- [01:16:25,940 - 01:16:26,560] Right.
+- [01:16:26,680 - 01:16:26,960] Right.
+- [01:16:27,380 - 01:16:32,460] So you can see then that even in isotropic situations,
+- [01:16:32,460 - 01:16:34,120] the pressure,
+- [01:16:34,120 - 01:16:36,520] as well as the energy density,
+- [01:16:36,520 - 01:16:40,020] really does enter into Einstein's equations.
+- [01:16:40,020 - 01:16:40,760] Now,
+- [01:16:40,760 - 01:16:43,000] when all the C's,
+- [01:16:43,000 - 01:16:44,980] C's meaning the speeds of light,
+- [01:16:44,980 - 01:16:47,260] not the C over there,
+- [01:16:47,260 - 01:16:49,940] when the speeds of light are put into the equations,
+- [01:16:49,940 - 01:16:53,240] the energy density is much,
+- [01:16:53,240 - 01:16:54,960] much larger than the pressure.
+- [01:16:55,300 - 01:16:55,820] Why?
+- [01:16:56,040 - 01:16:58,300] Because energy density has C squared in front of it.
+- [01:16:58,500 - 01:16:59,520] So typically,
+- [01:16:59,520 - 01:17:02,820] unless you're in some situation where there
+- [01:17:02,820 - 01:17:06,120] are things moving near the speed of light,
+- [01:17:06,120 - 01:17:08,060] the energy densities are usually
+- [01:17:08,060 - 01:17:10,000] much larger than the pressure.
+- [01:17:10,440 - 01:17:10,840] Now,
+- [01:17:10,840 - 01:17:12,220] for a box of photons,
+- [01:17:12,220 - 01:17:14,300] where everything is moving with the speed of light,
+- [01:17:14,300 - 01:17:16,010] pressures and energies can be
+- [01:17:16,010 - 01:17:17,720] of the same order of magnitude.
+- [01:17:18,400 - 01:17:19,460] But in any case,
+- [01:17:19,460 - 01:17:22,940] in any case,
+- [01:17:22,940 - 01:17:23,320] yes,
+- [01:17:23,320 - 01:17:26,280] pressure enters into Einstein's equations,
+- [01:17:26,280 - 01:17:27,640] as well as shear forces,
+- [01:17:27,640 - 01:17:29,160] as well as...
+- [01:17:29,160 - 01:17:29,780] What is a shear force?
+- [01:17:29,880 - 01:17:31,800] A shear force is if you have a
+- [01:17:31,800 - 01:17:33,720] block of material and you try to shear it,
+- [01:17:33,720 - 01:17:33,980] you know,
+- [01:17:33,980 - 01:17:35,580] you try to push one edge of it one
+- [01:17:35,580 - 01:17:37,180] way and the other edge of it the other way,
+- [01:17:37,180 - 01:17:39,800] that creates a kind of stress.
+- [01:17:39,900 - 01:17:39,980] Right.
+- [01:17:39,980 - 01:17:42,420] And that stress also enters into here.
+- [01:17:42,560 - 01:17:45,140] It's non-diagonal elements of T mu nu.
+- [01:17:46,740 - 01:17:47,320] So,
+- [01:17:47,320 - 01:17:47,900] so,
+- [01:17:47,900 - 01:17:49,280] yeah.
+- [01:17:49,980 - 01:17:50,720] All right.
+- [01:17:50,740 - 01:17:51,140] So that's,
+- [01:17:51,140 - 01:17:51,640] in fact,
+- [01:17:51,640 - 01:17:53,240] that's one of the things that Einstein discovered,
+- [01:17:53,240 - 01:17:55,300] that energy,
+- [01:17:55,300 - 01:17:55,940] momentum,
+- [01:17:55,940 - 01:17:59,400] and stress and pressure are all parts
+- [01:17:59,400 - 01:18:02,860] of the source of the gravitational field.
+- [01:18:03,520 - 01:18:05,680] They're all sources of gravitational field.
+- [01:18:05,960 - 01:18:07,960] Is it beyond more than it takes
+- [01:18:07,960 - 01:18:09,960] a certain amount of energy to put right?
+- [01:18:09,980 - 01:18:11,180] Let's say pressure into volume,
+- [01:18:11,180 - 01:18:15,380] and you could just call that equal to a mass.
+- [01:18:15,720 - 01:18:16,140] No,
+- [01:18:16,140 - 01:18:17,060] it's more than that.
+- [01:18:17,220 - 01:18:18,360] It is more than that.
+- [01:18:18,380 - 01:18:19,200] Because it's off-diagonal.
+- [01:18:19,320 - 01:18:19,800] Yeah,
+- [01:18:19,800 - 01:18:20,480] for example.
+- [01:18:22,000 - 01:18:22,480] Or,
+- [01:18:22,480 - 01:18:23,060] for example,
+- [01:18:23,060 - 01:18:25,720] if these coefficients were not all equal to each other,
+- [01:18:25,720 - 01:18:28,240] different pressures in different directions,
+- [01:18:28,240 - 01:18:30,820] they might add up to a given amount of energy,
+- [01:18:30,820 - 01:18:34,850] but they would make the gravitational field do things which
+- [01:18:34,850 - 01:18:38,880] were different than if they are equal to each other.
+- [01:18:39,200 - 01:18:39,680] Right.
+- [01:18:39,980 - 01:18:47,980] So that's the basic idea of the equivalence principle.
+- [01:18:51,900 - 01:18:52,700] And,
+- [01:18:52,700 - 01:18:53,680] you know,
+- [01:18:53,680 - 01:18:54,740] like John Wheeler said,
+- [01:18:54,740 - 01:18:55,800] well,
+- [01:18:55,800 - 01:18:57,760] I'll just paraphrase what he said.
+- [01:18:59,780 - 01:19:01,820] Energy and momentum tell the
+- [01:19:01,820 - 01:19:03,860] gravitational field how to bend.
+- [01:19:04,580 - 01:19:07,260] And the gravitational field,
+- [01:19:07,260 - 01:19:08,860] well,
+- [01:19:08,860 - 01:19:09,100] we,
+- [01:19:09,960 - 01:19:10,640] yeah,
+- [01:19:10,640 - 01:19:12,760] let's write it correctly now.
+- [01:19:13,200 - 01:19:14,140] Del mu,
+- [01:19:14,140 - 01:19:15,140] del mu,
+- [01:19:15,140 - 01:19:21,060] which has all kinds of Christoffel symbols and other things.
+- [01:19:21,220 - 01:19:24,250] The gravitational field tells the
+- [01:19:24,250 - 01:19:27,280] wave field how to propagate.
+- [01:19:28,380 - 01:19:30,720] That's how to propagate through space,
+- [01:19:30,720 - 01:19:32,240] through the curve,
+- [01:19:32,240 - 01:19:33,780] through the curvature of space.
+- [01:19:34,220 - 01:19:35,400] And how does it do it?
+- [01:19:35,460 - 01:19:38,620] It does it by Christoffel symbols and metrics.
+- [01:19:38,620 - 01:19:41,120] And the metrics appearing within the equations here.
+- [01:19:42,280 - 01:19:42,820] Okay,
+- [01:19:42,820 - 01:19:43,880] any questions up until now?
+- [01:19:44,680 - 01:19:45,120] Yeah.
+- [01:19:46,080 - 01:19:48,870] I think I see how you
+- [01:19:48,870 - 01:19:51,660] get an energy-momentum tensor from a potential,
+- [01:19:51,660 - 01:19:52,940] from a stress.
+- [01:19:53,540 - 01:19:54,080] From what?
+- [01:19:54,740 - 01:19:55,800] From fluid motion,
+- [01:19:55,800 - 01:19:57,160] from motion of charges.
+- [01:19:57,840 - 01:20:00,510] How do you get an energy-momentum
+- [01:20:00,510 - 01:20:03,180] tensor from a mass sitting somewhere else?
+- [01:20:04,080 - 01:20:04,920] From mass?
+- [01:20:05,120 - 01:20:06,620] From a blob of mass over here.
+- [01:20:06,700 - 01:20:08,440] How do I know what the energy-momentum tensor is?
+- [01:20:08,920 - 01:20:10,780] Einstein's equation exists at every point in space,
+- [01:20:10,780 - 01:20:11,180] right?
+- [01:20:11,220 - 01:20:11,400] Right.
+- [01:20:11,400 - 01:20:12,240] It's a point equation.
+- [01:20:12,460 - 01:20:12,680] Right,
+- [01:20:12,680 - 01:20:15,400] but some energy over here creates an energy over here.
+- [01:20:15,500 - 01:20:17,060] It doesn't create an energy over here.
+- [01:20:17,320 - 01:20:18,260] I have a mass here
+- [01:20:18,260 - 01:20:19,200] and mass is equivalent to energy.
+- [01:20:19,360 - 01:20:22,210] So how do I calculate
+- [01:20:22,210 - 01:20:25,060] all 16 terms of the stress,
+- [01:20:25,060 - 01:20:27,520] of the energy-momentum tensor somewhere else?
+- [01:20:28,120 - 01:20:28,740] There's zero.
+- [01:20:30,700 - 01:20:33,100] If there's energy over here and only over here.
+- [01:20:33,280 - 01:20:34,000] And a blob of mass here.
+- [01:20:34,200 - 01:20:34,460] Yeah,
+- [01:20:34,460 - 01:20:35,180] that's the energy,
+- [01:20:35,180 - 01:20:36,060] then the stress tensor,
+- [01:20:36,060 - 01:20:38,420] then the energy-momentum tensor is null.
+- [01:20:38,420 - 01:20:40,120] non-zero where the mass is.
+- [01:20:40,280 - 01:20:41,000] So there's,
+- [01:20:41,000 - 01:20:42,200] the space can't be
+- [01:20:42,200 - 01:20:42,760] curved.
+- [01:20:42,760 - 01:20:43,220] No,
+- [01:20:43,220 - 01:20:43,300] no,
+- [01:20:43,300 - 01:20:43,480] no,
+- [01:20:43,480 - 01:20:43,680] no,
+- [01:20:43,680 - 01:20:43,860] no,
+- [01:20:43,860 - 01:20:43,980] no,
+- [01:20:43,980 - 01:20:44,120] wait,
+- [01:20:44,280 - 01:20:44,540] wait,
+- [01:20:44,540 - 01:20:44,780] wait,
+- [01:20:44,780 - 01:20:44,980] wait,
+- [01:20:44,980 - 01:20:45,160] wait,
+- [01:20:45,160 - 01:20:45,280] wait,
+- [01:20:45,280 - 01:20:45,360] wait.
+- [01:20:45,360 - 01:20:46,200] That's two
+- [01:20:46,200 - 01:20:46,740] different things.
+- [01:20:49,360 - 01:20:50,240] Let's go back
+- [01:20:50,240 - 01:20:50,600] a step.
+- [01:20:50,600 - 01:20:51,860] Let's go back to Newton.
+- [01:20:51,860 - 01:20:52,260] Or
+- [01:20:52,260 - 01:20:52,820] not Newton,
+- [01:20:52,820 - 01:20:54,300] but Newton a la place
+- [01:20:54,300 - 01:20:54,920] en poisson.
+- [01:20:54,920 - 01:20:56,240] Newton
+- [01:20:56,240 - 01:20:58,140] a la place en poisson is
+- [01:20:58,140 - 01:21:00,140] del squared phi
+- [01:21:01,200 - 01:21:01,640] equals
+- [01:21:03,000 - 01:21:03,680] 4 pi,
+- [01:21:03,680 - 01:21:04,320] 4 pi
+- [01:21:04,320 - 01:21:04,760] g rho
+- [01:21:06,600 - 01:21:07,560] 4 pi
+- [01:21:08,580 - 01:21:09,540] g rho.
+- [01:21:09,880 - 01:21:11,680] Same equation as here,
+- [01:21:12,240 - 01:21:13,700] at least in the appropriate
+- [01:21:14,320 - 01:21:14,800] approximations.
+- [01:21:15,120 - 01:21:16,780] Del squared phi is
+- [01:21:17,340 - 01:21:18,340] r naught naught,
+- [01:21:18,340 - 01:21:19,500] or something like that.
+- [01:21:19,840 - 01:21:20,320] Alright,
+- [01:21:20,320 - 01:21:20,900] now,
+- [01:21:21,020 - 01:21:23,140] supposing there's some mass some place over here.
+- [01:21:23,940 - 01:21:25,340] That's where rho is.
+- [01:21:25,980 - 01:21:27,260] There's no rho over here,
+- [01:21:27,340 - 01:21:28,360] there's no rho over here,
+- [01:21:28,360 - 01:21:29,400] there's no rho over here.
+- [01:21:30,080 - 01:21:31,460] But does that mean that phi,
+- [01:21:31,760 - 01:21:33,100] that there is no phi over here?
+- [01:21:33,320 - 01:21:33,800] No.
+- [01:21:33,800 - 01:21:34,740] When you do this,
+- [01:21:34,760 - 01:21:35,540] when you solve this equation,
+- [01:21:37,580 - 01:21:38,480] you'll find
+- [01:21:38,480 - 01:21:40,700] that there's phi all around
+- [01:21:40,700 - 01:21:42,340] this object over here.
+- [01:21:42,540 - 01:21:43,700] How do you see it?
+- [01:21:43,700 - 01:21:44,060] Well,
+- [01:21:44,060 - 01:21:44,680] one way to
+- [01:21:44,680 - 01:21:46,660] remember it is to use Gauss's theorem
+- [01:21:46,660 - 01:21:48,340] to tell you
+- [01:21:49,160 - 01:21:50,400] that there's a gravitational
+- [01:21:50,400 - 01:21:51,200] field.
+- [01:21:53,000 - 01:21:53,720] You know,
+- [01:21:53,720 - 01:21:54,480] you use Gauss's
+- [01:21:54,480 - 01:21:54,960] theorem.
+- [01:21:57,219 - 01:21:58,720] What this equation
+- [01:21:58,720 - 01:22:00,440] is telling you is not that phi
+- [01:22:00,440 - 01:22:01,720] is zero out here,
+- [01:22:01,720 - 01:22:02,760] but that certain
+- [01:22:02,760 - 01:22:04,540] combinations of its derivatives
+- [01:22:04,760 - 01:22:05,660] are zero out here.
+- [01:22:06,040 - 01:22:07,740] The fact that there's a source
+- [01:22:09,039 - 01:22:10,440] determines a phi,
+- [01:22:10,780 - 01:22:12,800] but it determines a phi in a way
+- [01:22:12,800 - 01:22:14,420] in which this particular
+- [01:22:14,420 - 01:22:16,620] expression vanishes outside.
+- [01:22:16,960 - 01:22:17,500] And in fact,
+- [01:22:17,500 - 01:22:17,940] what does it do?
+- [01:22:18,140 - 01:22:20,000] It leads to the one over r squared,
+- [01:22:20,000 - 01:22:20,920] or the one over r
+- [01:22:20,920 - 01:22:21,740] force law,
+- [01:22:21,740 - 01:22:22,520] one over r
+- [01:22:22,520 - 01:22:23,820] potential energy law.
+- [01:22:24,380 - 01:22:25,580] Same thing here.
+- [01:22:26,280 - 01:22:28,780] This may be zero all over space
+- [01:22:28,780 - 01:22:30,240] except it's a few points,
+- [01:22:30,960 - 01:22:32,420] but the curvature
+- [01:22:32,420 - 01:22:33,360] will be
+- [01:22:34,760 - 01:22:36,180] distributed over space
+- [01:22:36,180 - 01:22:36,960] in general.
+- [01:22:38,060 - 01:22:38,640] Question?
+- [01:22:39,700 - 01:22:41,900] If light has energy and momentum,
+- [01:22:42,510 - 01:22:44,600] then it affects space curvature.
+- [01:22:45,140 - 01:22:46,420] Does that mean that light
+- [01:22:46,420 - 01:22:48,540] can affect the propagation
+- [01:22:48,540 - 01:22:50,620] of light so they interfere and don't
+- [01:22:50,620 - 01:22:51,580] obey superposition?
+- [01:22:52,060 - 01:22:52,640] Yes.
+- [01:22:52,640 - 01:22:54,260] Very good question.
+- [01:22:55,580 - 01:22:56,160] Example.
+- [01:22:56,340 - 01:22:58,660] Two light rays crossing each
+- [01:22:58,660 - 01:22:58,920] other.
+- [01:22:58,920 - 01:23:00,580] What do you call lines which are like this?
+- [01:23:00,780 - 01:23:02,460] I forgot there's a word in elementary geometry.
+- [01:23:03,120 - 01:23:03,700] Skew,
+- [01:23:03,700 - 01:23:04,140] skew,
+- [01:23:04,140 - 01:23:04,420] skew.
+- [01:23:04,760 - 01:23:06,960] Two skew light rays going past each other.
+- [01:23:07,360 - 01:23:08,600] They don't intersect,
+- [01:23:08,860 - 01:23:10,060] but they would intersect if they,
+- [01:23:10,060 - 01:23:10,400] you know,
+- [01:23:10,400 - 01:23:11,760] just going past each other.
+- [01:23:12,040 - 01:23:14,360] Each one causes
+- [01:23:14,360 - 01:23:16,080] a gravitational field
+- [01:23:16,639 - 01:23:18,180] which attracts the other one.
+- [01:23:18,360 - 01:23:19,160] So instead of just going,
+- [01:23:19,160 - 01:23:20,300] can I do this?
+- [01:23:20,340 - 01:23:20,600] Let's see.
+- [01:23:24,339 - 01:23:25,380] They go...
+- [01:23:27,639 - 01:23:29,280] They attract each other.
+- [01:23:29,980 - 01:23:32,240] Haven't they measured at very high energy levels
+- [01:23:32,240 - 01:23:34,200] that photons do not interact
+- [01:23:34,200 - 01:23:35,060] with other photons?
+- [01:23:35,280 - 01:23:35,540] Yes,
+- [01:23:35,540 - 01:23:35,700] yes,
+- [01:23:35,700 - 01:23:36,100] yes.
+- [01:23:37,100 - 01:23:40,280] Remember that Newton's constant is tiny.
+- [01:23:41,380 - 01:23:42,820] It is very,
+- [01:23:42,820 - 01:23:44,100] very hard in a laboratory
+- [01:23:44,100 - 01:23:46,460] to measure the gravitational
+- [01:23:46,460 - 01:23:47,760] interaction between
+- [01:23:47,760 - 01:23:48,500] two
+- [01:23:50,200 - 01:23:52,260] kilogram balls of iron.
+- [01:23:53,040 - 01:23:54,340] A photon
+- [01:23:54,340 - 01:23:55,560] or a light beam
+- [01:23:56,240 - 01:23:57,820] has very,
+- [01:23:57,820 - 01:23:58,160] very
+- [01:23:58,160 - 01:23:59,140] little energy
+- [01:23:59,140 - 01:24:00,660] and very,
+- [01:24:00,660 - 01:24:01,580] very little mass.
+- [01:24:02,240 - 01:24:04,520] Its energy divided by c squared
+- [01:24:04,520 - 01:24:05,280] is its mass
+- [01:24:06,059 - 01:24:07,200] and it's...
+- [01:24:07,200 - 01:24:07,880] Remember,
+- [01:24:07,880 - 01:24:10,140] it may be true that
+- [01:24:10,140 - 01:24:11,120] E equals mc squared,
+- [01:24:13,820 - 01:24:15,700] but it's also true that m
+- [01:24:16,240 - 01:24:18,060] equals E over c squared.
+- [01:24:19,520 - 01:24:20,980] So if you have some energy
+- [01:24:21,960 - 01:24:23,660] of an ordinary kind,
+- [01:24:23,840 - 01:24:24,660] ordinary magnitude,
+- [01:24:24,860 - 01:24:27,780] the mass that it corresponds to is
+- [01:24:27,780 - 01:24:28,120] minute,
+- [01:24:28,120 - 01:24:29,560] very,
+- [01:24:29,560 - 01:24:30,220] very small.
+- [01:24:30,500 - 01:24:32,080] If you then say
+- [01:24:32,240 - 01:24:34,280] that the gravitational interaction
+- [01:24:34,280 - 01:24:35,700] between these two things
+- [01:24:36,060 - 01:24:37,320] is their effective...
+- [01:24:37,320 - 01:24:38,420] Let's write out what it would be.
+- [01:24:38,580 - 01:24:41,740] It would be their effective masses...
+- [01:24:42,500 - 01:24:43,680] This is terrible.
+- [01:24:44,360 - 01:24:45,820] It would be their effective
+- [01:24:45,820 - 01:24:47,100] masses m1,
+- [01:24:47,100 - 01:24:47,600] m2
+- [01:24:48,719 - 01:24:50,380] times Newton's constant
+- [01:24:50,380 - 01:24:51,480] divided
+- [01:24:52,180 - 01:24:53,240] by r squared.
+- [01:24:53,340 - 01:24:55,780] r squared might be the distance of closest
+- [01:24:55,780 - 01:24:56,880] approach of these two
+- [01:24:56,880 - 01:24:58,420] light waves.
+- [01:24:58,660 - 01:24:59,920] Now what is m1?
+- [01:25:02,500 - 01:25:04,100] divided by c squared.
+- [01:25:06,620 - 01:25:08,320] E of light beam
+- [01:25:08,320 - 01:25:10,200] one times E of
+- [01:25:10,200 - 01:25:11,140] light beam two
+- [01:25:12,660 - 01:25:14,200] divided by c
+- [01:25:14,200 - 01:25:15,160] to the fourth.
+- [01:25:16,840 - 01:25:18,200] c to the
+- [01:25:18,200 - 01:25:18,680] fourth.
+- [01:25:19,500 - 01:25:22,340] c is three times ten to the eighth,
+- [01:25:22,680 - 01:25:23,960] ten to the seventeen,
+- [01:25:24,160 - 01:25:25,680] ten to the minus thirty-four
+- [01:25:25,680 - 01:25:26,760] in the denominator.
+- [01:25:28,860 - 01:25:30,200] Ten to the minus
+- [01:25:30,200 - 01:25:32,040] thirty-four and
+- [01:25:32,240 - 01:25:35,140] seven times ten to the minus eleven
+- [01:25:35,140 - 01:25:36,000] in the numerator.
+- [01:25:36,460 - 01:25:38,220] That's about ten to the minus ten.
+- [01:25:38,340 - 01:25:39,900] Ten to the minus forty-four.
+- [01:25:40,640 - 01:25:42,620] Ten to the minus forty-four
+- [01:25:42,620 - 01:25:44,260] times the
+- [01:25:44,260 - 01:25:46,480] energy divided by r squared.
+- [01:25:47,080 - 01:25:47,720] So
+- [01:25:48,200 - 01:25:49,720] in practice,
+- [01:25:49,720 - 01:25:50,220] of course,
+- [01:25:50,320 - 01:25:52,000] the interaction between
+- [01:25:52,000 - 01:25:54,000] light waves is entirely completely
+- [01:25:54,000 - 01:25:55,000] negligible.
+- [01:25:55,920 - 01:25:58,080] You never have enough energy...
+- [01:25:58,080 - 01:25:58,260] Yeah?
+- [01:26:00,000 - 01:26:02,140] Maybe a historical question on the Cosmos
+- [01:26:02,240 - 01:26:02,800] logical constant.
+- [01:26:02,800 - 01:26:03,980] What you read in the
+- [01:26:03,980 - 01:26:06,000] popular books is that Einstein was compelled
+- [01:26:06,000 - 01:26:07,940] to put that in there to
+- [01:26:07,940 - 01:26:09,620] keep the universe from collapsing.
+- [01:26:10,279 - 01:26:11,860] As opposed to
+- [01:26:14,219 - 01:26:16,120] how you described it earlier
+- [01:26:16,120 - 01:26:17,580] where it fits right in
+- [01:26:18,240 - 01:26:18,560] there.
+- [01:26:19,940 - 01:26:22,280] Can you elaborate on that
+- [01:26:22,280 - 01:26:22,520] maybe?
+- [01:26:22,520 - 01:26:23,200] Yeah.
+- [01:26:25,000 - 01:26:25,560] Okay.
+- [01:26:26,220 - 01:26:28,060] Let's talk about the Cosmo...
+- [01:26:28,719 - 01:26:29,980] Let's talk about the
+- [01:26:29,980 - 01:26:31,000] Cosmological constant.
+- [01:26:34,780 - 01:26:35,440] Okay.
+- [01:26:35,780 - 01:26:36,440] So
+- [01:26:36,440 - 01:26:38,820] we modify the equations
+- [01:26:38,820 - 01:26:39,980] r mu nu
+- [01:26:39,980 - 01:26:42,380] minus one half g mu nu
+- [01:26:42,380 - 01:26:43,560] r
+- [01:26:44,400 - 01:26:46,220] and then we add
+- [01:26:46,220 - 01:26:46,660] to it
+- [01:26:47,540 - 01:26:49,280] plus some lambda
+- [01:26:50,000 - 01:26:51,400] times g mu nu
+- [01:26:52,600 - 01:26:54,040] and we set that
+- [01:26:54,040 - 01:26:55,200] equal to t mu nu
+- [01:26:56,620 - 01:26:58,320] or k times t mu nu
+- [01:26:58,320 - 01:26:58,800] or whatever.
+- [01:27:01,320 - 01:27:02,220] One takes
+- [01:27:02,240 - 01:27:02,680] the
+- [01:27:07,300 - 01:27:08,260] constant of
+- [01:27:08,260 - 01:27:17,960] r mu nu
+- [01:27:17,960 - 01:27:18,440] and then we
+- [01:27:18,440 - 01:27:18,700] multiply it by
+- [01:27:18,700 - 01:27:19,640] the constant of
+- [01:27:19,640 - 01:27:22,000] r mu nu
+- [01:27:22,000 - 01:27:23,180] and then we
+- [01:27:23,180 - 01:27:23,380] and then
+- [01:27:23,380 - 01:27:26,380] we multiply it
+- [01:27:27,860 - 01:27:28,280] by
+- [01:27:28,280 - 01:27:29,020] the constant of
+- [01:27:29,020 - 01:27:32,280] r mu nu
+- [01:27:34,600 - 01:27:34,700] and then we
+- [01:27:34,700 - 01:27:35,000] multiply it by
+- [01:27:36,259 - 01:27:36,940] the
+- [01:27:36,940 - 01:27:37,600] constant of
+- [01:27:37,600 - 01:27:38,280] r mu nu
+- [01:27:38,280 - 01:27:39,200] and then
+- [01:27:39,200 - 01:27:49,980] r mu nu
+- [01:27:49,980 - 01:27:53,380] and then
+- [01:27:53,380 - 01:27:54,940] we multiply it
+- [01:27:54,940 - 01:27:55,740] by the constant of
+- [01:27:55,740 - 01:27:59,740] r mu nu
+- [01:27:59,740 - 01:28:00,220] and then we
+- [01:28:00,220 - 01:28:00,240] multiply it by
+- [01:28:00,240 - 01:28:00,860] the constant of
+- [01:28:00,860 - 01:28:07,240] r mu nu
+- [01:28:07,240 - 01:28:07,400] and then we
+- [01:28:07,400 - 01:28:08,680] multiply it
+- [01:28:08,680 - 01:28:09,200] by
+- [01:28:21,900 - 01:28:23,240] r mu nu
+- [01:28:23,240 - 01:28:23,260] because
+- [01:28:23,260 - 01:28:23,340] r mu nu
+- [01:28:23,340 - 01:28:23,360] is
+- [01:28:23,360 - 01:28:26,820] the equation is telling me how phi out
+- [01:28:26,820 - 01:28:30,280] here responds to the presence of a point mass.
+- [01:28:31,240 - 01:28:33,300] But let's ask a different question.
+- [01:28:33,300 - 01:28:41,180] Let's ask how phi responds to just a cosmological
+- [01:28:41,180 - 01:28:41,780] constant.
+- [01:28:41,780 - 01:28:44,640] What is phi like if there
+- [01:28:44,640 - 01:28:47,500] was a cosmological constant with a Newtonian?
+- [01:28:47,500 - 01:28:53,340] All
+- [01:28:54,099 - 01:28:54,620] right.
+- [01:28:54,620 - 01:28:56,260] The sine of lambda I'll figure out later.
+- [01:28:56,260 - 01:28:58,540] Let's just be loose and sloppy with
+- [01:28:58,540 - 01:29:00,280] the sine equals lambda.
+- [01:29:00,280 - 01:29:04,480] I can find it.
+- [01:29:04,480 - 01:29:08,880] Say it again.
+- [01:29:08,880 - 01:29:12,100] Right,
+- [01:29:12,100 - 01:29:14,920] right.
+- [01:29:14,920 - 01:29:16,500] But look at it from
+- [01:29:16,500 - 01:29:17,140] this point of view.
+- [01:29:17,140 - 01:29:21,520] It's equivalent to just having a uniform mass density.
+- [01:29:21,520 - 01:29:23,240] It's equivalent
+- [01:29:23,240 - 01:29:23,320] to just having a uniform mass density.
+- [01:29:23,320 - 01:29:23,320] It's equivalent to just having a uniform mass density.
+- [01:29:23,340 - 01:29:25,290] It's equivalent to just putting a
+- [01:29:25,290 - 01:29:27,240] uniform mass density spread all over space.
+- [01:29:27,240 - 01:29:28,580] Now what's
+- [01:29:28,580 - 01:29:29,700] the solution of this equation?
+- [01:29:29,700 - 01:29:30,880] It's not phi equals zero.
+- [01:29:30,880 - 01:29:32,480] It's not phi equals a constant.
+- [01:29:33,640 - 01:29:35,660] For phi equals zero or a constant,
+- [01:29:35,660 - 01:29:39,080] you would get zero on the left-hand side.
+- [01:29:39,080 - 01:29:41,340] Yeah.
+- [01:29:41,340 - 01:29:50,440] What
+- [01:29:50,440 - 01:29:51,780] if I took the function x
+- [01:29:51,780 - 01:29:53,120] squared plus y squared plus z squared?
+- [01:29:55,240 - 01:29:56,320] What's its del squared?
+- [01:29:56,320 - 01:30:00,280] It's a number.
+- [01:30:00,280 - 01:30:01,700] Six,
+- [01:30:01,700 - 01:30:02,140] right?
+- [01:30:02,140 - 01:30:05,700] Differentiating x twice gives me two,
+- [01:30:05,900 - 01:30:07,180] y twice gives me...
+- [01:30:07,180 - 01:30:07,900] So this would be six.
+- [01:30:07,900 - 01:30:10,630] So I think I want to
+- [01:30:10,630 - 01:30:13,360] put a one over six lambda.
+- [01:30:16,320 - 01:30:18,400] And then del squared of this,
+- [01:30:18,400 - 01:30:20,620] if phi is equal to this,
+- [01:30:20,620 - 01:30:23,100] del squared of this,
+- [01:30:23,100 - 01:30:23,100] if phi is equal
+- [01:30:23,100 - 01:30:25,820] to this,
+- [01:30:25,820 - 01:30:29,260] then there would be apace space and that
+- [01:30:29,260 - 01:30:29,260] there would be less space.
+- [01:30:29,260 - 01:30:29,260] Right,
+- [01:30:29,260 - 01:30:30,260] well got it.
+- [01:30:30,260 - 01:30:30,260] One,
+- [01:30:30,260 - 01:30:30,340] zero,
+- [01:30:30,340 - 01:30:34,660] that's what it looks like
+- [01:30:34,660 - 01:30:38,000] 6 over lambda,
+- [01:30:38,000 - 01:30:40,180] three times 10 to the recall.
+- [01:30:40,180 - 01:30:40,240] Just to make it simple
+- [01:30:40,240 - 01:30:40,300] as I did for the哈 knockingbox.
+- [01:30:40,300 - 01:30:44,180] There would be no physics here,
+- [01:30:44,180 - 01:30:44,420] there would be no
+- [01:30:44,420 - 01:30:44,420] physics,
+- [01:30:44,420 - 01:30:45,020] more of a lush sphere,
+- [01:30:45,020 - 01:30:45,100] the quantoism to mansion,
+- [01:30:45,100 - 01:30:46,560] liked it over MICAH's last word,
+- [01:30:47,160 - 01:30:48,080] of which we are not familiar with yet,
+- [01:30:48,080 - 01:30:50,620] but it gives us the component phi square
+- [01:30:50,620 - 01:30:52,560] It's the gravitational potential.
+- [01:30:52,560 - 01:30:54,660] What do you do with the potential?
+- [01:30:55,280 - 01:30:58,240] You differentiate it
+- [01:30:58,240 - 01:31:01,660] to find the force.
+- [01:31:02,380 - 01:31:04,500] So let's find the components of force,
+- [01:31:04,500 - 01:31:06,260] or strictly speaking
+- [01:31:06,260 - 01:31:07,800] the acceleration of an object.
+- [01:31:07,800 - 01:31:10,560] Phi has been defined
+- [01:31:10,560 - 01:31:12,700] in such a way that its gradient is acceleration.
+- [01:31:14,320 - 01:31:15,620] So here we are,
+- [01:31:15,620 - 01:31:17,180] we have a particle over here,
+- [01:31:17,180 - 01:31:18,700] here's the origin of coordinates.
+- [01:31:18,700 - 01:31:22,400] What is the x component of force?
+- [01:31:22,580 - 01:31:24,530] The x component of force
+- [01:31:24,530 - 01:31:26,480] is the gradient of phi along
+- [01:31:26,480 - 01:31:27,360] the x axis,
+- [01:31:27,360 - 01:31:28,810] or maybe it's minus the gradient
+- [01:31:28,810 - 01:31:30,260] of phi along the x axis.
+- [01:31:31,080 - 01:31:34,640] Derivative of phi with respect to x is equal
+- [01:31:34,640 - 01:31:37,380] to lambda over 6 times 2x,
+- [01:31:37,380 - 01:31:37,680] right?
+- [01:31:41,239 - 01:31:42,440] Or lambda
+- [01:31:43,679 - 01:31:45,580] lambda x over 3.
+- [01:31:47,940 - 01:31:49,220] What does that say?
+- [01:31:49,320 - 01:31:51,540] That says that the x component
+- [01:31:51,540 - 01:31:53,760] of force is proportional to x.
+- [01:31:55,020 - 01:31:55,800] Pushing away,
+- [01:31:55,800 - 01:31:57,660] well depending on the sign of lambda
+- [01:31:57,660 - 01:31:59,100] and had I kept my sign
+- [01:31:59,100 - 01:32:00,540] straight we would have gotten it right.
+- [01:32:01,080 - 01:32:05,100] It's telling me that there's a component of force along
+- [01:32:05,100 - 01:32:06,660] the radial direction.
+- [01:32:06,660 - 01:32:09,700] The x component of force
+- [01:32:09,700 - 01:32:11,480] is proportional to x,
+- [01:32:11,480 - 01:32:13,440] the y component of force is proportional
+- [01:32:13,440 - 01:32:13,960] to y.
+- [01:32:13,960 - 01:32:17,340] And so it
+- [01:32:17,340 - 01:32:21,340] corresponds to everything in the universe being pushed
+- [01:32:21,340 - 01:32:23,440] away from the center by
+- [01:32:23,440 - 01:32:25,540] a force proportional to the distance
+- [01:32:26,320 - 01:32:29,040] and also proportional to the cosmological
+- [01:32:29,040 - 01:32:29,680] constant.
+- [01:32:29,680 - 01:32:31,680] Now you might ask,
+- [01:32:31,680 - 01:32:33,220] wait a minute,
+- [01:32:33,400 - 01:32:34,800] is there a special center?
+- [01:32:34,800 - 01:32:36,140] The answer is no.
+- [01:32:36,600 - 01:32:38,760] A force law like this where everything
+- [01:32:38,760 - 01:32:40,920] is being pushed away from everything else,
+- [01:32:41,500 - 01:32:43,000] if you sat at the center,
+- [01:32:43,000 - 01:32:44,880] you would see everything being pushed
+- [01:32:44,880 - 01:32:45,120] away.
+- [01:32:45,120 - 01:32:46,670] But if you sat on one of
+- [01:32:46,670 - 01:32:48,220] the particles that was being pushed away,
+- [01:32:49,940 - 01:32:52,520] you would also see the original origin
+- [01:32:52,520 - 01:32:53,940] being pushed away from you.
+- [01:32:53,940 - 01:32:56,520] So in fact it's a force law which really
+- [01:32:56,520 - 01:32:57,640] doesn't have a center.
+- [01:32:57,640 - 01:33:00,760] It really just corresponds
+- [01:33:00,760 - 01:33:01,660] to everything,
+- [01:33:01,660 - 01:33:04,240] what it corresponds to is everything expanding.
+- [01:33:05,060 - 01:33:08,480] Everything growing and the separation between all objects
+- [01:33:08,480 - 01:33:10,020] accelerating outward.
+- [01:33:11,000 - 01:33:13,220] So that's the cosmological constant.
+- [01:33:13,220 - 01:33:14,940] And Newton
+- [01:33:14,940 - 01:33:16,140] should have discovered it.
+- [01:33:16,140 - 01:33:17,280] It shouldn't have taken Einstein.
+- [01:33:17,280 - 01:33:18,900] Newton should have discovered it.
+- [01:33:19,020 - 01:33:19,220] Well,
+- [01:33:19,220 - 01:33:19,680] of course,
+- [01:33:19,680 - 01:33:23,020] or maybe Laplace or maybe Poisson or whoever
+- [01:33:23,020 - 01:33:26,720] it was who invented this kind of equation here.
+- [01:33:27,140 - 01:33:28,660] They could have discovered it.
+- [01:33:28,660 - 01:33:30,860] It was a possible thing in the equations.
+- [01:33:32,600 - 01:33:33,680] They didn't.
+- [01:33:34,980 - 01:33:37,030] But Einstein realized that there
+- [01:33:37,030 - 01:33:39,080] was an ambiguity in the equations.
+- [01:33:39,660 - 01:33:40,220] And
+- [01:33:40,920 - 01:33:41,200] he,
+- [01:33:41,200 - 01:33:42,840] for a while,
+- [01:33:42,840 - 01:33:43,840] he entertained this.
+- [01:33:44,300 - 01:33:46,180] Now notice you can put it
+- [01:33:46,180 - 01:33:48,060] on the other side of the equation.
+- [01:33:50,420 - 01:33:51,300] Minus lambda
+- [01:33:52,679 - 01:33:53,660] g mu nu.
+- [01:33:53,660 - 01:33:56,280] And you can therefore think of it
+- [01:33:56,920 - 01:33:59,060] as part of the energy momentum tensor.
+- [01:33:59,060 - 01:34:00,860] It's a part
+- [01:34:00,860 - 01:34:02,850] of the energy momentum tensor which
+- [01:34:02,850 - 01:34:04,840] is there even if nothing else is
+- [01:34:04,840 - 01:34:05,060] there.
+- [01:34:05,060 - 01:34:07,600] And so sometimes
+- [01:34:07,600 - 01:34:14,720] the cosmological constant is a little bit schizophrenic.
+- [01:34:14,720 - 01:34:15,910] It doesn't know which side of
+- [01:34:15,910 - 01:34:17,100] the equation it wants to be on.
+- [01:34:17,720 - 01:34:19,520] You can think of it as being on
+- [01:34:19,520 - 01:34:21,320] the left side of the equation in which case
+- [01:34:21,320 - 01:34:24,220] it's part of the geometry side of the equation.
+- [01:34:25,420 - 01:34:27,460] Or you can put it on the
+- [01:34:27,460 - 01:34:29,500] right hand side of the equation in which
+- [01:34:29,500 - 01:34:32,180] case you can think of it as vacuum energy.
+- [01:34:32,180 - 01:34:33,620] Energy that's
+- [01:34:33,620 - 01:34:35,400] there when there's nothing else present.
+- [01:34:35,400 - 01:34:37,500] You can either think of it as a
+- [01:34:37,600 - 01:34:41,240] uniform distribution of mass or negative mass or positive
+- [01:34:41,240 - 01:34:43,210] depending on the sign of
+- [01:34:43,210 - 01:34:45,180] things which is pushing things out.
+- [01:34:48,040 - 01:34:49,340] In other words,
+- [01:34:49,340 - 01:34:49,460] a
+- [01:34:49,460 - 01:34:50,400] funny form of energy.
+- [01:34:50,400 - 01:34:51,860] Or you can include it on
+- [01:34:51,860 - 01:34:53,320] the left hand side as a
+- [01:34:53,320 - 01:34:57,620] funny piece in the geometry side of the equations.
+- [01:34:58,140 - 01:34:59,080] That's up to you.
+- [01:35:02,900 - 01:35:03,440] Yeah.
+- [01:35:04,460 - 01:35:05,000] Yeah.
+- [01:35:08,500 - 01:35:10,620] But it's numerical value in
+- [01:35:10,620 - 01:35:12,740] the real world is extremely small.
+- [01:35:13,340 - 01:35:14,020] Why is it so?
+- [01:35:14,020 - 01:35:14,920] How do we know it's small?
+- [01:35:14,920 - 01:35:17,360] It doesn't have any influence on
+- [01:35:17,360 - 01:35:20,040] anything astronomically until the distance.
+- [01:35:20,040 - 01:35:21,500] Remember it's a force which grows
+- [01:35:21,500 - 01:35:22,060] with distance.
+- [01:35:22,060 - 01:35:24,600] It only becomes
+- [01:35:26,379 - 01:35:29,020] measurable and detectable
+- [01:35:30,400 - 01:35:33,640] when the distance is out a billion light years.
+- [01:35:33,860 - 01:35:36,560] A couple of billion light years then it becomes detectable.
+- [01:35:37,600 - 01:35:40,440] My understanding was that if it was zero
+- [01:35:41,800 - 01:35:42,420] that,
+- [01:35:42,420 - 01:35:44,000] or put it another way,
+- [01:35:44,000 - 01:35:45,520] that he introduced it
+- [01:35:45,520 - 01:35:49,260] because if it wasn't present then he wouldn't
+- [01:35:49,260 - 01:35:53,080] then the universe wouldn't
+- [01:35:53,080 - 01:35:55,700] that his equation didn't have a static sign.
+- [01:35:55,700 - 01:35:55,980] That's right.
+- [01:35:55,980 - 01:35:56,500] That's right.
+- [01:35:57,600 - 01:35:58,220] Yeah.
+- [01:35:58,220 - 01:36:01,520] There he did
+- [01:36:01,520 - 01:36:02,100] make a mistake.
+- [01:36:06,320 - 01:36:07,220] Here's what he said.
+- [01:36:07,460 - 01:36:08,180] He said,
+- [01:36:08,180 - 01:36:08,360] look,
+- [01:36:08,360 - 01:36:10,620] the universe has been sitting here for a long time.
+- [01:36:10,620 - 01:36:12,240] Why isn't everything crushing in?
+- [01:36:12,380 - 01:36:14,960] Why isn't gravity pulling all the stars together and stuff?
+- [01:36:15,300 - 01:36:18,200] There's got to be some compensating repulsive force.
+- [01:36:19,300 - 01:36:23,260] So he introduced the cosmological constant
+- [01:36:23,260 - 01:36:27,260] as a repulsion which would counteract
+- [01:36:27,260 - 01:36:29,400] the attraction due to gravity.
+- [01:36:30,080 - 01:36:33,240] And it was possible using the two of them together
+- [01:36:33,240 - 01:36:36,420] to create an equilibrium
+- [01:36:37,120 - 01:36:39,000] where the repulsive effect of
+- [01:36:39,000 - 01:36:40,880] the cosmological constant would cancel
+- [01:36:40,880 - 01:36:44,700] the attractive effect of gravity for just the right magnet.
+- [01:36:44,860 - 01:36:46,760] It required a very delicate cancellation.
+- [01:36:46,760 - 01:36:49,200] The cosmological constant
+- [01:36:49,200 - 01:36:50,180] had to be just right.
+- [01:36:50,180 - 01:36:53,180] But what he didn't realize was that it was an
+- [01:36:53,180 - 01:36:54,300] unstable equilibrium.
+- [01:36:54,300 - 01:36:57,140] That it was an
+- [01:36:57,140 - 01:36:59,100] unstable and not a stable equilibrium.
+- [01:37:00,420 - 01:37:01,100] Hmm?
+- [01:37:01,100 - 01:37:02,600] Sort of an armistice.
+- [01:37:02,600 - 01:37:03,980] Well,
+- [01:37:03,980 - 01:37:04,920] it wasn't a very
+- [01:37:04,920 - 01:37:05,980] an armistice.
+- [01:37:05,980 - 01:37:08,760] It was a bad armistice because it had
+- [01:37:08,760 - 01:37:12,000] had stability problems.
+- [01:37:12,840 - 01:37:16,480] It was like you discover a rock
+- [01:37:16,480 - 01:37:18,860] hovering above the earth somewheres.
+- [01:37:18,860 - 01:37:20,260] What do you conclude?
+- [01:37:20,540 - 01:37:22,710] You conclude there must be some
+- [01:37:22,710 - 01:37:24,880] additional force to gravity which is holding
+- [01:37:24,880 - 01:37:26,300] the rock from falling.
+- [01:37:26,300 - 01:37:28,860] So you invent a linear force
+- [01:37:30,140 - 01:37:32,100] which pushes the rock away
+- [01:37:32,100 - 01:37:34,330] and there's some equilibrium point where
+- [01:37:34,330 - 01:37:36,560] the attraction of gravity and the
+- [01:37:36,560 - 01:37:40,260] repulsion of this new force
+- [01:37:40,880 - 01:37:41,840] creates an equilibrium.
+- [01:37:41,840 - 01:37:43,340] Now let's look at it for a minute.
+- [01:37:43,340 - 01:37:43,940] It's interesting.
+- [01:37:45,520 - 01:37:46,580] Gravity is attractive,
+- [01:37:46,580 - 01:37:47,080] right?
+- [01:37:48,840 - 01:37:51,500] Let's plot the potential energy.
+- [01:37:51,500 - 01:37:52,340] Let's imagine.
+- [01:37:52,340 - 01:37:55,680] Here's the earth.
+- [01:37:55,980 - 01:37:56,900] Here's a rock.
+- [01:37:56,900 - 01:37:58,640] The rock is noticed.
+- [01:37:58,640 - 01:38:00,120] It's not hovering because
+- [01:38:00,120 - 01:38:01,320] of centrifugal force.
+- [01:38:01,320 - 01:38:02,520] It just hovers.
+- [01:38:02,520 - 01:38:04,280] There must be some
+- [01:38:04,280 - 01:38:06,350] repulsive force that's keeping it
+- [01:38:06,350 - 01:38:08,420] from falling toward the earth.
+- [01:38:08,920 - 01:38:10,540] Let's suppose it's of this kind,
+- [01:38:10,540 - 01:38:12,040] of this cosmological constant
+- [01:38:12,040 - 01:38:12,540] kind,
+- [01:38:12,540 - 01:38:16,080] so that it has a force
+- [01:38:16,080 - 01:38:17,860] which is proportional to distance.
+- [01:38:17,860 - 01:38:19,800] Can everybody read that?
+- [01:38:19,800 - 01:38:20,460] Force proportional
+- [01:38:20,460 - 01:38:21,140] to distance?
+- [01:38:22,519 - 01:38:23,120] Okay.
+- [01:38:23,120 - 01:38:26,020] Let's plot the potential energy.
+- [01:38:26,700 - 01:38:27,820] First of all,
+- [01:38:27,820 - 01:38:29,620] there's the potential energy of the rock
+- [01:38:30,139 - 01:38:32,220] due to the lump,
+- [01:38:32,220 - 01:38:33,300] due to the earth.
+- [01:38:33,300 - 01:38:34,420] What does that look like?
+- [01:38:37,640 - 01:38:38,540] Potential energy.
+- [01:38:39,460 - 01:38:40,380] Potential energy.
+- [01:38:41,740 - 01:38:42,860] Positive or negative?
+- [01:38:42,860 - 01:38:44,080] Negative.
+- [01:38:44,080 - 01:38:46,320] So it looks like
+- [01:38:47,639 - 01:38:48,240] this.
+- [01:38:49,940 - 01:38:50,500] Oops,
+- [01:38:50,500 - 01:38:51,500] like that.
+- [01:38:52,919 - 01:38:53,480] Now,
+- [01:38:53,480 - 01:38:55,520] supposing this is a repulsive force,
+- [01:38:57,980 - 01:39:00,340] then there's a potential energy associated
+- [01:39:00,340 - 01:39:01,000] with it.
+- [01:39:01,000 - 01:39:04,040] What does that potential energy look like?
+- [01:39:05,080 - 01:39:06,200] Not a straight line.
+- [01:39:06,200 - 01:39:07,680] The force is a straight line.
+- [01:39:07,680 - 01:39:08,220] The potential
+- [01:39:08,220 - 01:39:09,760] energy would be a parabola.
+- [01:39:09,760 - 01:39:11,080] But would it be a
+- [01:39:11,080 - 01:39:12,400] parabola going up or a parabola
+- [01:39:12,400 - 01:39:12,980] going down?
+- [01:39:12,980 - 01:39:16,000] Not if it's a repulsive force.
+- [01:39:16,000 - 01:39:17,640] If it's a repulsive force,
+- [01:39:17,640 - 01:39:17,900] remember,
+- [01:39:17,900 - 01:39:19,980] things push toward lower energy.
+- [01:39:21,980 - 01:39:23,080] It would look like this.
+- [01:39:27,020 - 01:39:27,420] Now,
+- [01:39:27,960 - 01:39:29,580] supposing your rock was right over here,
+- [01:39:29,580 - 01:39:31,020] would it be in equilibrium?
+- [01:39:33,060 - 01:39:34,220] It would be in equilibrium.
+- [01:39:34,220 - 01:39:35,920] What if you gave it a little
+- [01:39:35,920 - 01:39:36,880] bit of a push this way?
+- [01:39:36,880 - 01:39:38,400] What if you gave it a
+- [01:39:38,400 - 01:39:39,920] little bit of a push that
+- [01:39:39,920 - 01:39:40,120] way?
+- [01:39:40,120 - 01:39:44,140] That's exactly the situation that Einstein created
+- [01:39:44,140 - 01:39:47,140] by balancing the cosmological constant
+- [01:39:47,780 - 01:39:49,400] against ordinary gravity.
+- [01:39:49,400 - 01:39:52,040] I don't know whether he noticed it or not.
+- [01:39:53,520 - 01:39:54,840] It may be that he
+- [01:39:54,840 - 01:39:56,160] didn't notice that it was unstable.
+- [01:39:56,500 - 01:39:58,210] It may have been that he
+- [01:39:58,210 - 01:39:59,920] noticed it was unstable and didn't care
+- [01:39:59,920 - 01:40:00,360] or,
+- [01:40:00,360 - 01:40:01,100] but,
+- [01:40:03,580 - 01:40:07,840] he regarded it as his most foolish blunder.
+- [01:40:09,100 - 01:40:10,060] But of course,
+- [01:40:10,060 - 01:40:11,580] it was far from a blunder.
+- [01:40:11,580 - 01:40:12,140] There really
+- [01:40:12,140 - 01:40:13,520] is a cosmological constant.
+- [01:40:13,520 - 01:40:16,080] What was a blunder was the
+- [01:40:16,080 - 01:40:19,340] idea that it could be used to keep the universe
+- [01:40:20,140 - 01:40:22,440] in equilibrium.
+- [01:40:22,440 - 01:40:24,060] That was false.
+- [01:40:24,500 - 01:40:26,350] But the idea that there should
+- [01:40:26,350 - 01:40:28,200] and could be such a cosmological
+- [01:40:28,200 - 01:40:29,560] constant in the equations,
+- [01:40:29,560 - 01:40:31,740] that is certainly true.
+- [01:40:32,000 - 01:40:32,340] Yeah?
+- [01:40:32,340 - 01:40:35,920] Suppose the cosmological constant acted as an attractive
+- [01:40:35,920 - 01:40:36,540] force.
+- [01:40:36,540 - 01:40:39,920] Would that produce a specific origin?
+- [01:40:41,460 - 01:40:42,120] No.
+- [01:40:42,140 - 01:40:42,240] No.
+- [01:40:42,240 - 01:40:43,940] It would still be the same,
+- [01:40:43,940 - 01:40:45,460] that there's no specific origin,
+- [01:40:46,260 - 01:40:47,600] but what it would do,
+- [01:40:47,600 - 01:40:49,020] it would enhance
+- [01:40:49,940 - 01:40:53,740] the effect of gravity on pulling things together
+- [01:40:53,740 - 01:40:55,460] and it would just create a crush.
+- [01:40:55,460 - 01:40:58,200] Why wouldn't the forces
+- [01:40:58,200 - 01:41:01,240] all act to direct toward a specific origin?
+- [01:41:02,940 - 01:41:04,360] There's no specific origin,
+- [01:41:04,360 - 01:41:05,480] but
+- [01:41:07,300 - 01:41:08,320] we'll come to that.
+- [01:41:08,320 - 01:41:10,200] That's why we're going to be studying
+- [01:41:10,200 - 01:41:10,920] cosmology.
+- [01:41:12,140 - 01:41:15,060] So that we can understand the geometry of a world
+- [01:41:16,179 - 01:41:17,780] with such forces,
+- [01:41:17,780 - 01:41:20,060] but without a center.
+- [01:41:20,880 - 01:41:21,860] We'll come to that.
+- [01:41:21,860 - 01:41:23,880] But not tonight.
+- [01:41:24,760 - 01:41:28,180] Is it possible that the entire universe could be spinning
+- [01:41:28,180 - 01:41:31,340] and centripetal forces causing things to fly apart?
+- [01:41:34,600 - 01:41:35,120] No.
+- [01:41:37,540 - 01:41:38,360] First of all,
+- [01:41:38,360 - 01:41:39,860] we know experimentally that there's no
+- [01:41:39,860 - 01:41:42,380] axis of rotation,
+- [01:41:42,380 - 01:41:43,880] just observationally.
+- [01:41:45,540 - 01:41:48,940] But even if there was some rotational axis,
+- [01:41:49,340 - 01:41:51,060] when you go far enough out,
+- [01:41:51,900 - 01:41:56,620] the universe can't be rotating with any very significant
+- [01:41:56,620 - 01:41:58,260] angular velocity.
+- [01:41:58,260 - 01:41:59,380] Why?
+- [01:41:59,760 - 01:42:02,100] Imagine it had a fixed angular velocity.
+- [01:42:02,100 - 01:42:03,960] When you go out far enough,
+- [01:42:04,160 - 01:42:06,100] it will be exceeding the speed of light.
+- [01:42:06,100 - 01:42:08,200] So you couldn't
+- [01:42:08,200 - 01:42:11,580] have a global uniform universe
+- [01:42:11,580 - 01:42:14,100] which was all in rotation.
+- [01:42:15,400 - 01:42:18,180] At best you could have some small region in rotation,
+- [01:42:18,180 - 01:42:19,140] and of course you do.
+- [01:42:19,140 - 01:42:19,880] They're called galaxies.
+- [01:42:23,260 - 01:42:24,380] But the galaxy
+- [01:42:24,380 - 01:42:28,160] cannot act like an axis which drags everything
+- [01:42:28,160 - 01:42:29,140] else with it,
+- [01:42:29,140 - 01:42:31,160] just because of the speed of light constraint.
+- [01:42:32,540 - 01:42:35,180] Unless of course the rotation is so small
+- [01:42:35,180 - 01:42:38,860] that even out at the edges of the visible universe
+- [01:42:38,860 - 01:42:41,000] the velocity is still so small that
+- [01:42:41,000 - 01:42:43,140] it's well below the speed of light.
+- [01:42:43,240 - 01:42:46,260] But that would really be observationally extremely small.
+- [01:42:46,820 - 01:42:49,020] The angular frequency.
+- [01:42:49,500 - 01:42:50,600] We would be unique,
+- [01:42:50,600 - 01:42:51,360] wouldn't we?
+- [01:42:54,800 - 01:42:55,380] Yes.
+- [01:42:55,380 - 01:42:57,460] Yeah,
+- [01:42:57,460 - 01:42:58,860] then that would place us
+- [01:42:58,860 - 01:42:59,640] in the center.
+- [01:42:59,640 - 01:43:00,080] Oh,
+- [01:43:00,080 - 01:43:00,520] good.
+- [01:43:04,340 - 01:43:05,420] Self-centered?
+- [01:43:10,640 - 01:43:13,200] Going back to the energy momentum tensor,
+- [01:43:13,200 - 01:43:15,460] can you talk about the consequences
+- [01:43:15,460 - 01:43:17,040] of the off-diagonal terms?
+- [01:43:21,380 - 01:43:21,920] Yeah.
+- [01:43:24,920 - 01:43:27,260] I don't want to do that too much right now.
+- [01:43:27,260 - 01:43:29,520] They create shear forces,
+- [01:43:29,520 - 01:43:30,500] and they create
+- [01:43:31,799 - 01:43:33,609] they're for example very
+- [01:43:33,609 - 01:43:35,420] instrumental in creating gravitational waves.
+- [01:43:36,420 - 01:43:38,900] Gravitational waves are kind of shear waves.
+- [01:43:39,300 - 01:43:41,300] We haven't talked about them very much.
+- [01:43:42,400 - 01:43:43,780] I'm not going to talk about them tonight,
+- [01:43:43,780 - 01:43:45,600] but yeah,
+- [01:43:45,600 - 01:43:46,960] they're extremely important
+- [01:43:46,960 - 01:43:49,620] in creating gravitational radiation.
+- [01:43:51,420 - 01:43:53,260] I'm not sure what to say about them.
+- [01:43:54,780 - 01:43:55,380] Uh...
+- [01:43:57,260 - 01:43:57,740] But for example,
+- [01:43:57,740 - 01:43:58,000] you know,
+- [01:43:58,000 - 01:43:58,780] there's no difference,
+- [01:43:58,780 - 01:43:59,540] incidentally,
+- [01:43:59,540 - 01:44:01,000] between
+- [01:44:01,800 - 01:44:04,220] here is two things which sound entirely different.
+- [01:44:04,480 - 01:44:07,400] Take a block of material and try to shear it.
+- [01:44:09,200 - 01:44:09,640] Yeah,
+- [01:44:09,640 - 01:44:10,340] so here it is.
+- [01:44:10,340 - 01:44:11,600] We take a block of material
+- [01:44:12,620 - 01:44:14,330] and we push this edge this
+- [01:44:14,330 - 01:44:16,040] way and that edge that way
+- [01:44:17,860 - 01:44:18,740] making sure,
+- [01:44:18,740 - 01:44:20,700] well,
+- [01:44:22,440 - 01:44:25,380] let's say we hold this edge down on the floor
+- [01:44:26,020 - 01:44:29,080] glue it to the floor and push the top.
+- [01:44:29,300 - 01:44:32,160] That creates some stress inside the block.
+- [01:44:33,200 - 01:44:35,540] Now here's something that sounds entirely different.
+- [01:44:35,540 - 01:44:36,960] Take the block
+- [01:44:36,960 - 01:44:40,780] squeeze it this way and stretch it this way.
+- [01:44:42,920 - 01:44:43,980] In fact,
+- [01:44:43,980 - 01:44:45,660] they're identical to each other
+- [01:44:45,660 - 01:44:47,560] except rotated by 45 degrees.
+- [01:44:48,700 - 01:44:51,120] It's not hard to convince yourself that,
+- [01:44:51,120 - 01:44:53,400] if you think about it a little bit
+- [01:44:53,400 - 01:44:54,320] that
+- [01:44:55,380 - 01:44:57,350] a squeezing this way and a
+- [01:44:57,350 - 01:44:59,320] stretching this way is the same
+- [01:44:59,320 - 01:45:03,060] as a shear along a 45 degree axis.
+- [01:45:03,980 - 01:45:06,380] So what this means
+- [01:45:07,660 - 01:45:10,640] is that off-diagonal elements
+- [01:45:11,700 - 01:45:14,820] are the same as having
+- [01:45:14,820 - 01:45:17,700] on-diagonal elements which are different from each other.
+- [01:45:19,140 - 01:45:20,200] For example,
+- [01:45:20,200 - 01:45:22,740] a positive and a negative on-diagonal element.
+- [01:45:22,740 - 01:45:24,120] In any case,
+- [01:45:24,120 - 01:45:26,160] we'll come back to that
+- [01:45:26,740 - 01:45:27,780] shear and so forth.
+- [01:45:27,780 - 01:45:28,820] It is important.
+- [01:45:28,820 - 01:45:30,480] It does have all sorts of consequences
+- [01:45:30,480 - 01:45:33,440] but it's not a good time for it now.
+- [01:45:35,340 - 01:45:37,260] It requires a little more explanation.
+- [01:45:37,260 - 01:45:37,700] Yeah?
+- [01:45:37,980 - 01:45:40,060] Is there an intuitive solution to
+- [01:45:40,060 - 01:45:42,140] these equations that sort of describes
+- [01:45:42,140 - 01:45:44,360] a plan going around a sum that
+- [01:45:44,360 - 01:45:46,580] gives us a little bit of sense
+- [01:45:46,580 - 01:45:50,380] of the meaning of the
+- [01:45:50,380 - 01:45:53,500] different matrix and what we sometimes feel like
+- [01:45:55,239 - 01:45:55,799] Well,
+- [01:45:55,799 - 01:45:56,360] okay.
+- [01:45:56,360 - 01:45:58,240] The easy thing to do
+- [01:45:58,240 - 01:45:58,980] is to work,
+- [01:45:58,980 - 01:45:59,640] and we're going to do it,
+- [01:45:59,640 - 01:46:01,100] it's not that easy,
+- [01:46:01,100 - 01:46:02,200] but the
+- [01:46:02,200 - 01:46:05,720] easier thing to do is to solve the equations
+- [01:46:05,720 - 01:46:10,260] of gravity when the right-hand side here is
+- [01:46:10,260 - 01:46:11,800] just a spherical mass,
+- [01:46:11,800 - 01:46:12,480] the sun.
+- [01:46:12,480 - 01:46:14,320] We can solve it.
+- [01:46:14,840 - 01:46:16,320] We can find the metric.
+- [01:46:16,320 - 01:46:18,460] We can calculate all the Christoffel symbols.
+- [01:46:18,460 - 01:46:21,820] And we can calculate the motion of a small
+- [01:46:22,460 - 01:46:24,360] planet traveling around the sun.
+- [01:46:24,360 - 01:46:25,720] Absolutely.
+- [01:46:26,020 - 01:46:29,160] The solution is called the Schwarzschild solution.
+- [01:46:29,640 - 01:46:33,780] And it's the solution of a radially symmetric mass
+- [01:46:34,400 - 01:46:35,360] outside the mass.
+- [01:46:35,360 - 01:46:36,560] That's what we're going to do.
+- [01:46:36,560 - 01:46:37,420] We're going to study that solution.
+- [01:46:39,320 - 01:46:41,900] It is also the solution of a black hole.
+- [01:46:43,640 - 01:46:45,900] The problem of solving
+- [01:46:45,900 - 01:46:48,900] Einstein's equations for two masses,
+- [01:46:48,900 - 01:46:49,980] both of which
+- [01:46:49,980 - 01:46:52,900] are big enough to create a significant gravitational field,
+- [01:46:52,900 - 01:46:54,100] you don't want to know.
+- [01:46:54,360 - 01:46:54,880] I mean,
+- [01:46:54,880 - 01:46:58,140] that's a job for a super computer.
+- [01:46:58,840 - 01:47:01,860] Not for human equation solving.
+- [01:47:04,320 - 01:47:04,960] Yeah?
+- [01:47:05,420 - 01:47:06,580] It's kind of intriguing,
+- [01:47:06,580 - 01:47:09,300] the idea of energy momentum
+- [01:47:09,720 - 01:47:11,860] transfer for light being
+- [01:47:13,700 - 01:47:14,920] very large.
+- [01:47:15,900 - 01:47:18,540] So that skew beings would
+- [01:47:20,220 - 01:47:22,020] light beings going past each
+- [01:47:22,020 - 01:47:23,820] other would skew around each other.
+- [01:47:23,980 - 01:47:25,560] You do that much better than I do.
+- [01:47:26,240 - 01:47:29,140] Do it again.
+- [01:47:32,060 - 01:47:33,640] Now you're on the spot.
+- [01:47:35,080 - 01:47:36,040] But anyway,
+- [01:47:36,040 - 01:47:38,740] doesn't that sort of imply that you could indeed
+- [01:47:40,080 - 01:47:43,640] have high enough energy light density
+- [01:47:43,640 - 01:47:44,520] so that...
+- [01:47:45,900 - 01:47:46,540] I don't understand what I said.
+- [01:47:46,640 - 01:47:48,490] ...go in a complete circle the
+- [01:47:48,490 - 01:47:50,340] way it does inside the Schwarzschild radius?
+- [01:47:50,440 - 01:47:52,280] What I said was not that
+- [01:47:52,280 - 01:47:54,120] light has a big energy momentum tensor.
+- [01:47:54,220 - 01:47:56,860] I said it has a very small energy momentum tensor.
+- [01:47:57,780 - 01:47:58,220] Yeah,
+- [01:47:58,220 - 01:47:58,620] but...
+- [01:47:59,580 - 01:48:02,360] Small because there are c-fourths in the denominator,
+- [01:48:02,360 - 01:48:03,860] or c-squares in the denominator.
+- [01:48:04,880 - 01:48:05,620] But in principle,
+- [01:48:05,620 - 01:48:07,240] could you still have...
+- [01:48:10,060 - 01:48:11,780] So you're asking the question...
+- [01:48:11,780 - 01:48:14,060] ...a bound ring of light or something like that?
+- [01:48:15,580 - 01:48:16,420] Bound to what,
+- [01:48:16,420 - 01:48:16,660] though?
+- [01:48:18,259 - 01:48:20,540] Going in a circle.
+- [01:48:24,519 - 01:48:25,640] For example,
+- [01:48:25,640 - 01:48:26,760] around a star?
+- [01:48:28,079 - 01:48:30,100] A black hole made out of photons.
+- [01:48:30,420 - 01:48:30,500] Yeah.
+- [01:48:30,500 - 01:48:33,220] You could certainly have a
+- [01:48:33,919 - 01:48:35,679] light wave going around the
+- [01:48:35,679 - 01:48:37,440] circular orbit around the black hole.
+- [01:48:37,960 - 01:48:39,060] The trouble is,
+- [01:48:39,060 - 01:48:41,100] the circular orbit
+- [01:48:42,299 - 01:48:44,120] of a light ray
+- [01:48:44,120 - 01:48:45,600] is unstable.
+- [01:48:46,900 - 01:48:47,240] Again,
+- [01:48:47,240 - 01:48:49,120] it's an unstable orbit,
+- [01:48:49,120 - 01:48:50,560] so if it's...
+- [01:48:55,320 - 01:48:57,040] If you have a mass,
+- [01:48:59,059 - 01:49:00,740] a given mass,
+- [01:49:01,080 - 01:49:03,360] and you consider a circular orbit
+- [01:49:03,360 - 01:49:04,840] at a certain distance,
+- [01:49:05,160 - 01:49:08,200] then the velocity of that circular orbit
+- [01:49:08,200 - 01:49:09,900] is fixed by the distance,
+- [01:49:10,200 - 01:49:11,080] by the parameter,
+- [01:49:11,100 - 01:49:12,760] by the parameters of the mass and the distance.
+- [01:49:13,360 - 01:49:13,880] So,
+- [01:49:13,880 - 01:49:14,520] for example,
+- [01:49:14,660 - 01:49:17,840] the Earth's distance from the Sun determines its velocity.
+- [01:49:18,760 - 01:49:21,100] As you come in closer to the star,
+- [01:49:21,540 - 01:49:22,280] or whatever it is,
+- [01:49:22,380 - 01:49:23,600] the velocity gets larger.
+- [01:49:24,240 - 01:49:26,620] If you have a real genuine black hole,
+- [01:49:26,780 - 01:49:28,340] you can get in close enough to it,
+- [01:49:28,980 - 01:49:30,980] not so close that you're trapped,
+- [01:49:33,039 - 01:49:35,940] about three Schwarzschild radii away from it,
+- [01:49:36,060 - 01:49:39,040] where there's a closed orbit of a light ray.
+- [01:49:40,400 - 01:49:41,440] In other words,
+- [01:49:41,440 - 01:49:43,360] a closed orbit where the velocity
+- [01:49:43,360 - 01:49:44,780] is equal to the speed of light.
+- [01:49:46,000 - 01:49:46,600] Um...
+- [01:49:47,719 - 01:49:50,540] So there's one particular orbital distance
+- [01:49:50,540 - 01:49:51,900] where a circular
+- [01:49:53,339 - 01:49:54,540] light ray,
+- [01:49:54,720 - 01:49:55,420] circular light,
+- [01:49:55,520 - 01:49:56,580] circular path,
+- [01:49:56,920 - 01:49:59,400] a light-like circular path can exist.
+- [01:49:59,780 - 01:50:01,100] The problem is,
+- [01:50:01,200 - 01:50:04,180] if it deviates just a little bit in toward,
+- [01:50:04,600 - 01:50:06,060] then it gets sucked in,
+- [01:50:06,180 - 01:50:08,220] and if it deviates a little bit outward,
+- [01:50:09,100 - 01:50:10,440] So it's an unstable orbit.
+- [01:50:11,400 - 01:50:12,560] So there's an unstable,
+- [01:50:12,560 - 01:50:13,220] um,
+- [01:50:14,300 - 01:50:16,720] orbit for a light ray outside a black hole.
+- [01:50:17,340 - 01:50:19,180] What if you had two hypersonic...
+- [01:50:19,180 - 01:50:19,280] If you were there,
+- [01:50:19,280 - 01:50:19,320] would you just see a plane?
+- [01:50:19,520 - 01:50:20,320] One of a kind.
+- [01:50:21,040 - 01:50:21,940] If you were there,
+- [01:50:21,940 - 01:50:22,720] would you just see a...
+- [01:50:22,720 - 01:50:23,880] on that circle,
+- [01:50:23,880 - 01:50:25,020] would you just see a plane
+- [01:50:25,020 - 01:50:26,060] instead of the actual,
+- [01:50:26,060 - 01:50:26,460] uh...
+- [01:50:26,460 - 01:50:27,000] A plane?
+- [01:50:27,000 - 01:50:28,020] You mean like an airplane?
+- [01:50:28,220 - 01:50:30,600] The surface of the star would be...
+- [01:50:30,600 - 01:50:31,800] It would look like a plane.
+- [01:50:33,080 - 01:50:34,720] If you were in that circular orbit.
+- [01:50:35,220 - 01:50:36,940] If you were on that circular orbit?
+- [01:50:40,740 - 01:50:41,260] Well,
+- [01:50:41,260 - 01:50:43,240] you wouldn't see any curvature
+- [01:50:43,240 - 01:50:44,420] of that ceiling.
+- [01:50:45,020 - 01:50:47,200] The star would just look like a different plane.
+- [01:50:48,920 - 01:50:49,440] Well,
+- [01:50:49,440 - 01:50:49,940] I'm not sure that,
+- [01:50:49,960 - 01:50:53,040] I'm not sure that the light beams can see anything.
+- [01:50:58,400 - 01:51:00,290] I would have to think
+- [01:51:00,290 - 01:51:02,180] about what a very fast observer
+- [01:51:02,180 - 01:51:04,160] moving around on close to that
+- [01:51:04,160 - 01:51:05,400] light ray would see.
+- [01:51:05,940 - 01:51:06,360] No,
+- [01:51:06,360 - 01:51:06,560] say,
+- [01:51:06,660 - 01:51:09,020] you didn't have to go as fast as you did
+- [01:51:09,040 - 01:51:10,020] because the light that I'm taking,
+- [01:51:10,060 - 01:51:11,200] you're just at that distance.
+- [01:51:11,620 - 01:51:13,660] Then what it would look like is that...
+- [01:51:13,660 - 01:51:15,660] If you're at that distance being supported
+- [01:51:15,660 - 01:51:17,760] and kept from falling into the black hole,
+- [01:51:17,980 - 01:51:19,400] you would just see in front of you
+- [01:51:19,400 - 01:51:20,380] a great big horizon.
+- [01:51:22,040 - 01:51:23,260] A big black...
+- [01:51:23,260 - 01:51:24,220] A flash plane,
+- [01:51:24,220 - 01:51:25,320] the surface of the star
+- [01:51:25,320 - 01:51:26,440] would look like a flash plane?
+- [01:51:26,720 - 01:51:26,980] Oh,
+- [01:51:26,980 - 01:51:27,140] no,
+- [01:51:27,140 - 01:51:27,540] not quite.
+- [01:51:31,700 - 01:51:35,060] This orbit is not quite at the horizon.
+- [01:51:35,480 - 01:51:35,960] It's,
+- [01:51:35,960 - 01:51:36,600] uh...
+- [01:51:37,780 - 01:51:38,700] The horizon
+- [01:51:39,040 - 01:51:39,200] is,
+- [01:51:39,200 - 01:51:39,500] uh,
+- [01:51:39,500 - 01:51:41,240] it's three halves of the distance
+- [01:51:41,240 - 01:51:41,900] to the horizon,
+- [01:51:41,900 - 01:51:42,740] to be precise.
+- [01:51:43,040 - 01:51:43,960] But I'm not...
+- [01:51:43,960 - 01:51:44,400] Look,
+- [01:51:44,540 - 01:51:46,640] when we get to the geometry of black holes,
+- [01:51:46,800 - 01:51:48,980] you will understand a great deal about black holes
+- [01:51:48,980 - 01:51:50,100] that you don't understand now,
+- [01:51:50,100 - 01:51:50,940] and you'll understand
+- [01:51:50,940 - 01:51:53,320] just how foolish your questions have been up till now.
+- [01:51:55,260 - 01:51:56,140] That's my goal.
+- [01:51:58,160 - 01:51:58,600] Okay.
+- [01:52:02,880 - 01:52:03,680] I've got one.
+- [01:52:03,860 - 01:52:06,580] I think that I'm using some stress-energy tensor
+- [01:52:06,580 - 01:52:07,820] to have a special thing like this.
+- [01:52:09,800 - 01:52:10,460] Um...
+- [01:52:11,180 - 01:52:12,100] For ex...
+- [01:52:12,100 - 01:52:12,460] Uh,
+- [01:52:12,460 - 01:52:13,220] they do.
+- [01:52:18,540 - 01:52:19,860] For example,
+- [01:52:22,040 - 01:52:23,040] the sums
+- [01:52:23,040 - 01:52:23,640] of the eigen...
+- [01:52:23,640 - 01:52:25,130] the sums of the space-like eigenvalues
+- [01:52:25,760 - 01:52:27,060] divided by three
+- [01:52:27,060 - 01:52:27,600] is the pressure.
+- [01:52:29,500 - 01:52:30,160] Um...
+- [01:52:31,200 - 01:52:33,060] The time-like eigenvalue
+- [01:52:33,060 - 01:52:34,680] is related to the,
+- [01:52:34,680 - 01:52:35,100] um...
+- [01:52:35,100 - 01:52:36,860] to the energy density
+- [01:52:36,860 - 01:52:38,400] in a frame of reference,
+- [01:52:38,400 - 01:52:38,920] moving,
+- [01:52:39,040 - 01:52:39,860] moving with the fluid,
+- [01:52:39,860 - 01:52:40,980] if it happens to be a fluid.
+- [01:52:43,880 - 01:52:44,320] Uh...
+- [01:52:46,280 - 01:52:47,360] If the eigenvalues
+- [01:52:47,360 - 01:52:48,640] of the space-like...
+- [01:52:48,640 - 01:52:48,800] You know,
+- [01:52:48,800 - 01:52:50,280] it has four eigenvalues.
+- [01:52:50,800 - 01:52:52,420] One in a time-like direction,
+- [01:52:52,620 - 01:52:53,120] uh...
+- [01:52:53,120 - 01:52:54,800] three in space-like directions.
+- [01:52:55,600 - 01:52:57,420] If the three space-like eigenvalues
+- [01:52:57,420 - 01:52:58,120] are all equal,
+- [01:52:58,840 - 01:53:01,040] it means that in some frame of reference,
+- [01:53:01,240 - 01:53:01,780] the fluid,
+- [01:53:01,780 - 01:53:02,080] if...
+- [01:53:02,080 - 01:53:03,060] Let's think of it as a fluid,
+- [01:53:03,120 - 01:53:03,960] is isotropic.
+- [01:53:05,640 - 01:53:06,080] Uh...
+- [01:53:06,080 - 01:53:06,360] Uh...
+- [01:53:08,759 - 01:53:09,920] If they're different,
+- [01:53:10,060 - 01:53:11,880] it means that there are some shear forces,
+- [01:53:12,000 - 01:53:14,120] or squeezing and stretching.
+- [01:53:14,820 - 01:53:15,380] Uh,
+- [01:53:15,380 - 01:53:15,880] so yes,
+- [01:53:15,980 - 01:53:17,200] they definitely do have meaning.
+- [01:53:18,540 - 01:53:19,100] Um...
+- [01:53:19,740 - 01:53:20,300] Um...
+- [01:53:22,620 - 01:53:23,340] I mean,
+- [01:53:23,340 - 01:53:23,840] they basically
+- [01:53:23,840 - 01:53:25,280] characterize the,
+- [01:53:25,280 - 01:53:25,920] uh...
+- [01:53:25,920 - 01:53:27,640] the state of affairs.
+- [01:53:30,259 - 01:53:30,820] Question.
+- [01:53:30,820 - 01:53:31,440] Yeah.
+- [01:53:31,600 - 01:53:32,140] The...
+- [01:53:32,140 - 01:53:34,400] If you have an isolated
+- [01:53:34,400 - 01:53:35,920] mass in space,
+- [01:53:36,280 - 01:53:37,840] then you...
+- [01:53:37,840 - 01:53:40,280] Do you adjust the...
+- [01:53:41,559 - 01:53:42,280] Um...
+- [01:53:42,280 - 01:53:43,840] the Riemann tensor
+- [01:53:43,840 - 01:53:45,920] so that it's,
+- [01:53:45,920 - 01:53:46,480] uh...
+- [01:53:46,480 - 01:53:47,980] So the curvature is zero
+- [01:53:47,980 - 01:53:48,900] at infinity?
+- [01:53:48,900 - 01:53:49,640] Yes.
+- [01:53:50,300 - 01:53:52,300] Then how do you do that
+- [01:53:52,300 - 01:53:53,940] with the cosmological concept?
+- [01:53:54,140 - 01:53:54,800] You don't.
+- [01:53:56,760 - 01:53:57,480] No.
+- [01:53:57,480 - 01:53:58,000] Good.
+- [01:53:58,860 - 01:54:00,240] If you have a cosmological...
+- [01:54:01,059 - 01:54:02,120] Excuse me.
+- [01:54:02,700 - 01:54:04,560] If you have a cosmological
+- [01:54:04,560 - 01:54:05,240] constant,
+- [01:54:06,200 - 01:54:08,360] then the geometry that's associated
+- [01:54:08,360 - 01:54:10,100] with it is not
+- [01:54:10,100 - 01:54:11,580] flat at infinity.
+- [01:54:12,860 - 01:54:13,800] It's what's called
+- [01:54:13,800 - 01:54:14,380] de Sitter space,
+- [01:54:14,380 - 01:54:15,700] or anti-de Sitter space,
+- [01:54:16,040 - 01:54:18,240] and it's an entirely different kind of geometry.
+- [01:54:19,020 - 01:54:20,300] So the answer is,
+- [01:54:20,400 - 01:54:21,800] if there's a cosmological constant,
+- [01:54:21,960 - 01:54:23,760] you don't adjust the geometry
+- [01:54:23,760 - 01:54:26,400] so that the Riemann tensor is zero far away.
+- [01:54:27,100 - 01:54:27,960] In fact,
+- [01:54:27,960 - 01:54:29,960] if you have a cosmological constant...
+- [01:54:31,440 - 01:54:32,000] Now,
+- [01:54:32,140 - 01:54:32,380] okay,
+- [01:54:32,380 - 01:54:33,400] let's go back.
+- [01:54:33,400 - 01:54:34,120] Let's see...
+- [01:54:35,620 - 01:54:36,100] Alright.
+- [01:54:37,460 - 01:54:39,400] If we have a cosmological constant,
+- [01:54:40,180 - 01:54:41,880] then we can set this equal to
+- [01:54:41,880 - 01:54:42,940] lambda G mu nu.
+- [01:54:43,420 - 01:54:45,300] I may have changed the sign of lambda,
+- [01:54:45,440 - 01:54:46,180] but it doesn't matter.
+- [01:54:47,220 - 01:54:47,700] Okay.
+- [01:54:48,120 - 01:54:50,280] Now let's contract this equation
+- [01:54:50,780 - 01:54:51,820] with G mu nu.
+- [01:54:53,700 - 01:54:54,940] This becomes R.
+- [01:54:57,000 - 01:54:58,420] This becomes minus
+- [01:54:59,760 - 01:55:00,240] 2R.
+- [01:55:00,800 - 01:55:01,600] This becomes minus
+- [01:55:02,740 - 01:55:03,340] 2R.
+- [01:55:03,340 - 01:55:04,020] And what does this become?
+- [01:55:06,680 - 01:55:07,660] 4 lambda,
+- [01:55:07,660 - 01:55:08,000] right?
+- [01:55:09,240 - 01:55:09,840] Hmm?
+- [01:55:10,760 - 01:55:11,660] 4 lambda.
+- [01:55:13,960 - 01:55:15,600] So we find that
+- [01:55:15,600 - 01:55:16,760] minus R
+- [01:55:18,219 - 01:55:19,680] is equal to 4...
+- [01:55:19,680 - 01:55:21,100] or lambda is equal to...
+- [01:55:21,100 - 01:55:23,580] or R is equal to minus 4 lambda.
+- [01:55:24,180 - 01:55:25,240] In other words,
+- [01:55:25,280 - 01:55:27,020] even if there's no matter around,
+- [01:55:27,240 - 01:55:29,840] if all there is is cosmological constant,
+- [01:55:30,260 - 01:55:31,820] then out to infinity
+- [01:55:32,140 - 01:55:34,120] the curvature scalar is exactly
+- [01:55:34,120 - 01:55:36,440] given by the cosmological constant.
+- [01:55:37,640 - 01:55:39,380] If there is no matter around,
+- [01:55:39,640 - 01:55:41,340] and only this,
+- [01:55:41,640 - 01:55:44,140] then one would say that
+- [01:55:44,140 - 01:55:46,680] that space
+- [01:55:46,680 - 01:55:48,120] and spacetime
+- [01:55:48,120 - 01:55:49,620] are uniformly curved.
+- [01:55:50,460 - 01:55:51,380] Uniformly curved
+- [01:55:51,380 - 01:55:54,240] because the Riemann scalar
+- [01:55:54,240 - 01:55:55,880] is uniform everywhere
+- [01:55:55,880 - 01:55:57,640] just given by the cosmological constant.
+- [01:55:58,120 - 01:55:58,800] So,
+- [01:55:58,800 - 01:56:00,800] I forgot what the question was,
+- [01:56:00,920 - 01:56:01,940] but I think I answered it.
+- [01:56:02,020 - 01:56:02,120] So,
+- [01:56:02,120 - 01:56:02,120] I think I answered it.
+- [01:56:05,720 - 01:56:06,360] You know,
+- [01:56:06,380 - 01:56:07,440] are we assuming that
+- [01:56:07,440 - 01:56:08,720] the universe is infinite?
+- [01:56:09,300 - 01:56:09,780] No.
+- [01:56:12,020 - 01:56:12,500] No.
+- [01:56:12,580 - 01:56:13,060] So,
+- [01:56:13,060 - 01:56:14,800] we could have a model
+- [01:56:14,800 - 01:56:16,760] of a finite universe
+- [01:56:16,760 - 01:56:18,520] even with the cosmological constant
+- [01:56:19,180 - 01:56:20,060] in the same context?
+- [01:56:22,480 - 01:56:22,960] No.
+- [01:56:24,880 - 01:56:25,360] Now,
+- [01:56:26,100 - 01:56:26,580] yes,
+- [01:56:26,580 - 01:56:27,720] you can have a model of one.
+- [01:56:27,800 - 01:56:28,340] The question is,
+- [01:56:28,420 - 01:56:28,740] real,
+- [01:56:28,740 - 01:56:29,640] honest physics,
+- [01:56:29,800 - 01:56:32,120] when everything is taken
+- [01:56:32,140 - 01:56:32,700] into account,
+- [01:56:32,900 - 01:56:33,700] what can you expect?
+- [01:56:35,280 - 01:56:36,240] That's debatable.
+- [01:56:36,440 - 01:56:37,020] But yes,
+- [01:56:37,020 - 01:56:38,300] you can have a closed universe
+- [01:56:38,300 - 01:56:39,940] with a cosmological constant.
+- [01:56:41,440 - 01:56:42,900] Do we know enough now
+- [01:56:42,900 - 01:56:44,800] to understand what the frame value is?
+- [01:56:45,940 - 01:56:46,420] No,
+- [01:56:46,420 - 01:56:46,920] not yet.
+- [01:56:47,640 - 01:56:48,080] No,
+- [01:56:48,080 - 01:56:49,240] I think we need to...
+- [01:56:55,320 - 01:56:55,800] Well,
+- [01:56:55,800 - 01:56:56,160] we,
+- [01:56:56,780 - 01:56:57,860] we need to...
+- [01:57:02,980 - 01:57:03,420] No,
+- [01:57:03,420 - 01:57:04,180] not yet.
+- [01:57:04,340 - 01:57:04,720] Not yet.
+- [01:57:05,640 - 01:57:07,500] Do we know enough to understand
+- [01:57:07,500 - 01:57:08,060] what it is,
+- [01:57:08,060 - 01:57:09,480] whether the universe is flat or not?
+- [01:57:12,100 - 01:57:13,980] Space-time is flat or space is flat?
+- [01:57:14,120 - 01:57:15,000] Space-time is flat.
+- [01:57:15,380 - 01:57:18,000] Space-time is flat means it's just absolutely empty
+- [01:57:18,000 - 01:57:19,480] and there is no energy or momentum
+- [01:57:19,480 - 01:57:20,600] because if there were,
+- [01:57:20,600 - 01:57:21,660] it just wouldn't be flat.
+- [01:57:21,900 - 01:57:22,380] Not locally,
+- [01:57:22,380 - 01:57:24,280] but at the universe.
+- [01:57:24,540 - 01:57:25,200] At infinity.
+- [01:57:26,260 - 01:57:26,700] Yes,
+- [01:57:26,700 - 01:57:27,560] it just means
+- [01:57:28,080 - 01:57:28,300] that,
+- [01:57:28,300 - 01:57:29,620] yes,
+- [01:57:29,620 - 01:57:32,000] it means that the geometry
+- [01:57:32,000 - 01:57:32,940] or the metric
+- [01:57:33,620 - 01:57:35,400] can be taken to just go
+- [01:57:35,400 - 01:57:36,540] to eta mu nu,
+- [01:57:36,540 - 01:57:37,060] far away.
+- [01:57:38,080 - 01:57:39,120] That's all it means.
+- [01:57:39,340 - 01:57:41,200] And it would be exactly the situation
+- [01:57:41,200 - 01:57:43,560] whenever there are some concentrated masses
+- [01:57:44,720 - 01:57:46,900] that create gravitational fields
+- [01:57:46,900 - 01:57:47,820] that fall off
+- [01:57:47,820 - 01:57:49,060] far away,
+- [01:57:49,940 - 01:57:51,680] then space-time is
+- [01:57:51,680 - 01:57:52,860] asymptotically flat,
+- [01:57:53,060 - 01:57:54,280] is the right terminology.
+- [01:57:55,480 - 01:57:56,940] Asymptotically flat just means
+- [01:57:56,940 - 01:57:58,640] that the components of the metric
+- [01:58:00,620 - 01:58:01,060] asymptotically
+- [01:58:01,540 - 01:58:03,100] tend to eta mu nu.
+- [01:58:03,920 - 01:58:05,620] But it's not obvious that that's true
+- [01:58:05,620 - 01:58:06,980] because there's investigation...
+- [01:58:06,980 - 01:58:07,800] You mean in the real world?
+- [01:58:07,800 - 01:58:08,420] In the real world.
+- [01:58:08,640 - 01:58:09,200] It's not true.
+- [01:58:09,200 - 01:58:11,440] It's most definitely
+- [01:58:11,440 - 01:58:11,980] not true.
+- [01:58:12,140 - 01:58:12,540] Well,
+- [01:58:12,540 - 01:58:14,580] I've found to be closer and closer...
+- [01:58:15,160 - 01:58:15,660] What's that?
+- [01:58:16,560 - 01:58:18,120] Investigation has shown that it's very,
+- [01:58:18,120 - 01:58:19,300] very close to being true.
+- [01:58:19,320 - 01:58:19,760] No,
+- [01:58:19,760 - 01:58:19,840] no,
+- [01:58:19,840 - 01:58:21,520] you're confusing the curvature of space
+- [01:58:21,520 - 01:58:23,100] with the curvature of space-time.
+- [01:58:23,500 - 01:58:23,940] Oh,
+- [01:58:23,940 - 01:58:24,100] okay.
+- [01:58:26,100 - 01:58:27,020] That's why I asked you,
+- [01:58:27,020 - 01:58:27,500] do you mean space
+- [01:58:27,500 - 01:58:28,240] or space-time?
+- [01:58:28,240 - 01:58:29,300] Right.
+- [01:58:30,300 - 01:58:30,800] Yeah,
+- [01:58:30,800 - 01:58:31,500] we can...
+- [01:58:32,580 - 01:58:33,760] I don't know
+- [01:58:33,760 - 01:58:35,460] how much we're going to get into that this quarter
+- [01:58:35,460 - 01:58:37,220] and how much we'll save it for next quarter.
+- [01:58:39,280 - 01:58:41,480] But flat-space and flat-space-time
+- [01:58:41,480 - 01:58:43,160] are two quite different things.
+- [01:58:45,160 - 01:58:47,500] We will go through the Schwarzschild black hole
+- [01:58:48,760 - 01:58:49,540] and the
+- [01:58:49,540 - 01:58:50,420] Schwarzschild metric
+- [01:58:51,180 - 01:58:51,680] and
+- [01:58:54,500 - 01:58:55,640] and if I
+- [01:58:55,640 - 01:58:56,080] have time,
+- [01:58:56,080 - 01:58:57,380] a little bit about the
+- [01:58:57,380 - 01:58:58,840] expanding universe.
+- [01:58:59,620 - 01:59:01,420] But I think it will take a full two hours
+- [01:59:01,420 - 01:59:04,060] to navigate through the Schwarzschild metric.
+- [01:59:04,360 - 01:59:04,980] And really,
+- [01:59:04,980 - 01:59:06,140] that's kind of the goal.
+- [01:59:06,720 - 01:59:07,120] You know,
+- [01:59:07,120 - 01:59:08,420] that's the real thing.
+- [01:59:08,540 - 01:59:09,780] So I don't want to stop
+- [01:59:09,780 - 01:59:11,320] before we do the Schwarzschild metric.
+- [01:59:11,720 - 01:59:12,000] Right.
+- [01:59:12,000 - 01:59:12,520] Okay.
+- [01:59:12,520 - 01:59:13,500] So next week we...
+- [01:59:13,500 - 01:59:13,780] No.
+- [01:59:13,780 - 01:59:15,020] Yeah.
+- [01:59:15,240 - 01:59:15,960] Next week,
+- [01:59:15,960 - 01:59:16,100] yeah.
+- [01:59:23,900 - 01:59:26,980] The preceding program is copyrighted by Stanford University.
+- [01:59:27,560 - 01:59:28,900] Please visit us at
+- [01:59:28,900 - 01:59:30,160] stanford.edu.
