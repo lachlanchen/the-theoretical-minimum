@@ -1,0 +1,2982 @@
+# Transcript
+
+Source: core/cosmology/2013_winter_theoretical_minimum/171 - Cosmology Lecture 7 [GvhxamzVpN8].mkv
+
+- [00:00:04,779 - 00:00:06,260] Stanford University.
+- [00:00:09,320 - 00:00:10,260] All right,
+- [00:00:10,260 - 00:00:11,340] shall we begin?
+- [00:00:12,100 - 00:00:15,990] Just to go back very briefly
+- [00:00:15,990 - 00:00:19,880] over what we said last week.
+- [00:00:21,840 - 00:00:24,820] What I said was that the
+- [00:00:24,820 - 00:00:27,800] best way to go about trying to
+- [00:00:27,800 - 00:00:31,840] estimate the rough parameters of the
+- [00:00:31,840 - 00:00:35,880] expanding universe is to begin with a
+- [00:00:35,880 - 00:00:39,760] model and then calculate its consequences.
+- [00:00:41,300 - 00:00:41,860] What?
+- [00:00:41,860 - 00:00:42,940] I'll tell you in a moment.
+- [00:00:43,520 - 00:00:45,840] And if that doesn't work so well,
+- [00:00:45,840 - 00:00:49,060] adjust the parameters of the model and keep
+- [00:00:49,060 - 00:00:51,400] adjusting until you hit pay dirt
+- [00:00:51,400 - 00:00:53,740] and you agree with the data.
+- [00:00:55,860 - 00:00:56,840] You can do it the other way.
+- [00:00:56,900 - 00:00:57,340] You can take the data
+- [00:00:57,340 - 00:00:57,780] and put it in the model.
+- [00:00:57,780 - 00:00:58,840] You can try to run
+- [00:00:58,840 - 00:00:59,900] it backwards using the same equations,
+- [00:00:59,900 - 00:01:02,420] but it's often harder to do that.
+- [00:01:02,680 - 00:01:03,180] All right,
+- [00:01:03,180 - 00:01:03,980] the data,
+- [00:01:03,980 - 00:01:04,800] not the data,
+- [00:01:04,800 - 00:01:06,910] the model that we put
+- [00:01:06,910 - 00:01:09,020] in basically consists of two things.
+- [00:01:09,140 - 00:01:12,820] It consists of a time history for the scale factor,
+- [00:01:12,820 - 00:01:14,220] A of t,
+- [00:01:14,220 - 00:01:17,860] and a specification of whether
+- [00:01:17,860 - 00:01:20,320] we're talking about a negatively curved,
+- [00:01:20,320 - 00:01:21,420] positively curved,
+- [00:01:21,420 - 00:01:22,640] or zero curved universe.
+- [00:01:25,260 - 00:01:32,000] So the volume error themselves.
+- [00:01:32,700 - 00:01:33,280] Oh,
+- [00:01:33,280 - 00:01:33,940] and if you get past the core,
+- [00:01:33,940 - 00:01:34,080] this was just the power of
+- [00:01:34,080 - 00:01:34,180] what you pick up the cell,
+- [00:01:34,180 - 00:01:34,660] which then is again,
+- [00:01:34,660 - 00:01:34,930] which then is going to jump off and
+- [00:01:34,930 - 00:01:35,200] the energy current who's going to feel an
+- [00:01:35,900 - 00:01:40,240] effect on that coming back to earth of cost.
+- [00:01:40,240 - 00:01:41,460] Now if theanki times that from the locus,
+- [00:01:41,600 - 00:01:41,960] et cetera,
+- [00:01:41,980 - 00:01:42,160] as Petri is.
+- [00:01:43,020 - 00:01:43,600] .com,
+- [00:01:52,640 - 00:01:52,920] k,
+- [00:01:52,920 - 00:01:54,340] the positive curvature,
+- [00:01:54,340 - 00:01:55,440] negative curvature,
+- [00:01:55,440 - 00:01:56,380] or zero curvature,
+- [00:01:56,380 - 00:01:57,500] is really
+- [00:01:57,500 - 00:01:59,460] very critical to the analysis.
+- [00:01:59,460 - 00:02:04,920] That's like saying if you're on the surface of
+- [00:02:04,920 - 00:02:08,699] the earth and you look out a thousand miles,
+- [00:02:08,699 - 00:02:10,320] well the curvature counts,
+- [00:02:10,320 - 00:02:11,660] but it
+- [00:02:11,660 - 00:02:12,420] really doesn't,
+- [00:02:12,420 - 00:02:16,240] it really is not that strong an effect,
+- [00:02:16,240 - 00:02:21,540] and if your everything
+- [00:02:21,540 - 00:02:24,420] else that you're doing is not too precise,
+- [00:02:24,420 - 00:02:25,880] it's hard to tell whether the
+- [00:02:25,880 - 00:02:27,160] curve of the earth is curved
+- [00:02:27,160 - 00:02:28,440] on a scale of a thousand miles.
+- [00:02:28,440 - 00:02:29,640] Of course if you
+- [00:02:29,640 - 00:02:32,160] have high precision then you can tell,
+- [00:02:32,160 - 00:02:34,080] but you know,
+- [00:02:34,080 - 00:02:35,140] all you're doing is looking
+- [00:02:35,140 - 00:02:37,200] looking out relatively nearby,
+- [00:02:37,200 - 00:02:38,400] relatively nearby,
+- [00:02:38,400 - 00:02:40,200] the curvature doesn't matter too
+- [00:02:40,200 - 00:02:40,380] much.
+- [00:02:40,380 - 00:02:41,920] The same is true of negative curvature,
+- [00:02:41,920 - 00:02:43,960] and so counting,
+- [00:02:43,960 - 00:02:44,760] counting
+- [00:02:44,760 - 00:02:45,320] galaxies,
+- [00:02:45,320 - 00:02:47,300] counting supernovae,
+- [00:02:47,300 - 00:02:48,620] and things like that,
+- [00:02:48,620 - 00:02:50,660] which at
+- [00:02:50,660 - 00:02:50,860] at
+- [00:02:51,600 - 00:02:53,960] not such large redshifts,
+- [00:02:53,960 - 00:02:57,800] redshifts that never get bigger than four,
+- [00:02:57,800 - 00:02:58,020] five,
+- [00:02:58,020 - 00:02:58,400] six,
+- [00:02:58,540 - 00:02:58,820] seven,
+- [00:02:58,820 - 00:02:59,840] or something like that,
+- [00:02:59,840 - 00:03:02,760] you don't really have,
+- [00:03:02,760 - 00:03:04,360] you're not really terribly
+- [00:03:04,360 - 00:03:05,800] sensitive to the curvature.
+- [00:03:05,800 - 00:03:07,820] That's both good and bad.
+- [00:03:07,820 - 00:03:10,220] It's bad because it doesn't
+- [00:03:10,220 - 00:03:13,320] allow you to deduce from the counting
+- [00:03:13,320 - 00:03:16,420] of supernovae and so forth with good
+- [00:03:16,420 - 00:03:18,680] precision what the curvature is,
+- [00:03:18,680 - 00:03:19,280] whether it's zero,
+- [00:03:19,280 - 00:03:19,660] plus,
+- [00:03:19,660 - 00:03:20,200] or minus.
+- [00:03:20,200 - 00:03:21,520] On the other hand,
+- [00:03:21,520 - 00:03:23,400] since it doesn't matter too much,
+- [00:03:23,400 - 00:03:27,920] it means that that you don't have to know
+- [00:03:27,920 - 00:03:30,180] too well what the curvature is to
+- [00:03:30,180 - 00:03:32,440] to make conclusions about the other thing,
+- [00:03:32,700 - 00:03:34,990] and the other thing that counts is
+- [00:03:34,990 - 00:03:37,280] the curvature history or the or the history
+- [00:03:37,280 - 00:03:38,360] of the scale factor,
+- [00:03:38,360 - 00:03:39,680] how it varies with time.
+- [00:03:41,940 - 00:03:44,290] So you start with a model which is
+- [00:03:44,290 - 00:03:46,640] which is scale factor as a function of time,
+- [00:03:46,820 - 00:03:48,420] and what you calculate,
+- [00:03:48,420 - 00:03:50,740] there's two things you can try to calculate,
+- [00:03:50,740 - 00:03:51,500] you can try to
+- [00:03:51,500 - 00:03:57,120] calculate the redshift as the,
+- [00:03:57,120 - 00:04:01,760] sorry,
+- [00:04:01,760 - 00:04:05,600] the intensity as a function of the redshift.
+- [00:04:06,180 - 00:04:07,660] In other words,
+- [00:04:07,660 - 00:04:12,000] what is the brightness of standard sources,
+- [00:04:12,000 - 00:04:13,420] standard candles,
+- [00:04:14,020 - 00:04:15,780] as a function of their redshift.
+- [00:04:15,780 - 00:04:17,380] That's roughly speaking,
+- [00:04:17,380 - 00:04:21,200] calculating the Hubble
+- [00:04:21,200 - 00:04:21,459] law,
+- [00:04:21,459 - 00:04:23,580] relation between distance and velocity,
+- [00:04:23,580 - 00:04:27,740] and you can calculate
+- [00:04:28,460 - 00:04:31,690] from your model the number of objects that
+- [00:04:31,690 - 00:04:34,920] you see in the sky of a given
+- [00:04:34,920 - 00:04:35,520] redshift.
+- [00:04:35,520 - 00:04:36,820] In other words,
+- [00:04:36,820 - 00:04:39,140] the density of things out there is a function of
+- [00:04:39,140 - 00:04:39,520] redshift,
+- [00:04:39,520 - 00:04:41,900] and those are the two things
+- [00:04:41,900 - 00:04:44,280] which you can calculate from a model,
+- [00:04:44,340 - 00:04:45,260] compare with a model,
+- [00:04:45,260 - 00:04:48,360] and pin down your parameters as best you can.
+- [00:04:48,360 - 00:04:49,140] The
+- [00:04:51,340 - 00:04:53,360] just from the counting,
+- [00:04:53,360 - 00:04:56,610] you do not as well as
+- [00:04:56,610 - 00:04:59,860] if you knew the curvature with
+- [00:04:59,860 - 00:05:00,520] great precision,
+- [00:05:00,520 - 00:05:01,200] which you,
+- [00:05:01,200 - 00:05:04,480] which takes CMB data to get at,
+- [00:05:04,480 - 00:05:06,700] but still the
+- [00:05:07,180 - 00:05:11,020] tendency is toward a fairly flat universe,
+- [00:05:11,020 - 00:05:14,500] fairly flat,
+- [00:05:14,500 - 00:05:19,240] with no indication
+- [00:05:19,240 - 00:05:21,060] of either positive or negative
+- [00:05:21,060 - 00:05:21,380] curvature,
+- [00:05:21,380 - 00:05:24,520] consistent with zero curvature,
+- [00:05:24,520 - 00:05:29,060] and a expansion history which
+- [00:05:29,060 - 00:05:32,210] is consistent with the existence
+- [00:05:32,210 - 00:05:35,360] of a cosmological constant which contains
+- [00:05:35,360 - 00:05:38,100] about 70% or dark energy,
+- [00:05:38,100 - 00:05:42,160] which contains about 70% of the energy in space.
+- [00:05:42,820 - 00:05:51,040] So that's what you learn from the counting of supernovae.
+- [00:05:51,060 - 00:05:51,780] So there's floating Curiosity around your
+- [00:05:51,780 - 00:05:52,500] field and also Daniels mug � Ultra
+- [00:05:52,500 - 00:05:56,620] taking all the energy everything away、Our side
+- [00:05:56,620 - 00:05:56,630] through妳 and after you make us
+- [00:05:56,630 - 00:05:56,640] no longer pose alas of a
+- [00:05:56,640 - 00:06:03,700] much us in a new
+- [00:06:03,700 - 00:06:08,540] Rather you are
+- [00:06:08,540 - 00:06:12,380] all the energy of that question
+- [00:06:12,380 - 00:06:16,220] we have made a mother why not
+- [00:06:16,220 - 00:06:18,630] all but what was enough is
+- [00:06:18,630 - 00:06:21,040] always located there because it occurs,
+- [00:06:21,040 - 00:06:21,040] it's important that it's
+- [00:06:21,060 - 00:06:23,120] What we want to talk about
+- [00:06:23,120 - 00:06:25,180] is the temperature history of the universe.
+- [00:06:25,960 - 00:06:27,960] The temperature history of the universe,
+- [00:06:27,960 - 00:06:29,900] temperature,
+- [00:06:29,900 - 00:06:30,740] first of all,
+- [00:06:30,740 - 00:06:31,360] what is temperature?
+- [00:06:32,820 - 00:06:33,380] Temperature,
+- [00:06:33,380 - 00:06:35,040] you all know what temperature is,
+- [00:06:35,040 - 00:06:37,100] you put your hand on a hot flame and you
+- [00:06:37,100 - 00:06:38,400] know what heat is,
+- [00:06:38,400 - 00:06:39,820] it feels bad,
+- [00:06:39,820 - 00:06:41,960] it feels good,
+- [00:06:41,960 - 00:06:44,020] whatever your tastes are,
+- [00:06:44,020 - 00:06:46,960] but strictly
+- [00:06:46,960 - 00:06:47,200] speaking,
+- [00:06:47,200 - 00:06:50,980] temperature is a feature of thermal equilibrium.
+- [00:06:52,100 - 00:06:56,160] Thermal equilibrium is a condition for a system
+- [00:06:56,160 - 00:07:00,220] that is established after a period of time,
+- [00:07:01,080 - 00:07:02,220] basically by scattering.
+- [00:07:02,480 - 00:07:04,710] The kinds of systems we're thinking about
+- [00:07:04,710 - 00:07:06,940] are things made up out of particles.
+- [00:07:07,480 - 00:07:08,700] What particles?
+- [00:07:09,020 - 00:07:09,660] Well,
+- [00:07:09,660 - 00:07:11,460] what particles are present in the universe?
+- [00:07:11,660 - 00:07:12,280] There are photons,
+- [00:07:12,280 - 00:07:14,660] there are electrons,
+- [00:07:14,660 - 00:07:16,320] there are protons.
+- [00:07:17,000 - 00:07:18,240] And nuclei.
+- [00:07:20,000 - 00:07:21,220] Forget neutrons,
+- [00:07:21,220 - 00:07:22,560] they decay very quickly,
+- [00:07:22,560 - 00:07:23,400] but there are nuclei.
+- [00:07:23,820 - 00:07:25,480] And for our simple purposes,
+- [00:07:25,480 - 00:07:27,220] let's just say there are electrons,
+- [00:07:27,220 - 00:07:28,040] protons,
+- [00:07:28,040 - 00:07:30,380] and photons.
+- [00:07:30,700 - 00:07:32,480] Those are the particles that make up the universe,
+- [00:07:32,480 - 00:07:34,720] today,
+- [00:07:34,720 - 00:07:36,020] at present times.
+- [00:07:36,560 - 00:07:40,790] And thermal equilibrium is what
+- [00:07:40,790 - 00:07:45,020] happens after you put particles together,
+- [00:07:45,020 - 00:07:46,300] allow them to
+- [00:07:46,300 - 00:07:48,090] collide with each other for
+- [00:07:48,090 - 00:07:49,880] a relatively long period of time.
+- [00:07:50,180 - 00:07:51,360] How long?
+- [00:07:51,680 - 00:07:54,960] Long by comparison with the time scales that
+- [00:07:54,960 - 00:07:58,240] it takes for actual collisions to take place.
+- [00:07:58,820 - 00:08:00,590] Particles collide with each other
+- [00:08:00,590 - 00:08:02,360] in microscopic amounts of time.
+- [00:08:02,580 - 00:08:07,100] There are mean-free paths between particles.
+- [00:08:07,460 - 00:08:09,240] So there are various time scales.
+- [00:08:09,680 - 00:08:12,620] The time scales are not associated,
+- [00:08:12,620 - 00:08:13,520] typically,
+- [00:08:13,520 - 00:08:16,280] with a grand column.
+- [00:08:16,280 - 00:08:17,940] Cosmological features of the universe.
+- [00:08:18,380 - 00:08:21,480] They're just associated with the nature of the gas,
+- [00:08:21,480 - 00:08:24,440] or the gas,
+- [00:08:24,440 - 00:08:25,580] or fluid,
+- [00:08:25,580 - 00:08:26,380] or whatever
+- [00:08:26,380 - 00:08:27,480] it is we're talking about.
+- [00:08:28,220 - 00:08:30,480] The fluid might as well be here in the laboratory,
+- [00:08:30,480 - 00:08:33,000] and the various time scales have to do with
+- [00:08:33,000 - 00:08:35,700] the microscopic aspects of the fluid.
+- [00:08:37,400 - 00:08:39,740] And when the fluid sits around,
+- [00:08:39,740 - 00:08:41,840] when I say fluid,
+- [00:08:41,840 - 00:08:44,600] I mean whatever it happens to be.
+- [00:08:44,680 - 00:08:45,860] I just use the term fluid.
+- [00:08:45,860 - 00:08:46,760] I don't use fluid because it can flow.
+- [00:08:48,100 - 00:08:49,420] The fluid,
+- [00:08:49,420 - 00:08:53,640] if left to itself for a period of time,
+- [00:08:53,640 - 00:08:56,200] will establish thermal equilibrium.
+- [00:08:56,520 - 00:08:59,590] It will establish thermal equilibrium
+- [00:08:59,590 - 00:09:02,660] as long as the expansion,
+- [00:09:02,660 - 00:09:04,380] whatever expansion might
+- [00:09:04,380 - 00:09:04,780] exist,
+- [00:09:04,780 - 00:09:09,380] as long as the expansion is much slower
+- [00:09:09,380 - 00:09:13,980] than these time scales for which these collisions
+- [00:09:13,980 - 00:09:14,640] taking place.
+- [00:09:14,640 - 00:09:17,400] Then it will establish thermal equilibrium.
+- [00:09:19,339 - 00:09:21,860] But you've got to be careful about that.
+- [00:09:23,359 - 00:09:26,940] What causes things to become thermalized,
+- [00:09:26,940 - 00:09:28,720] or to become to thermal equilibrium?
+- [00:09:28,980 - 00:09:30,800] If I have a box,
+- [00:09:30,800 - 00:09:32,980] let's take as our model,
+- [00:09:32,980 - 00:09:33,520] again,
+- [00:09:33,520 - 00:09:35,240] our mythical box.
+- [00:09:37,500 - 00:09:39,160] Let's take our mythical box,
+- [00:09:39,160 - 00:09:43,560] and let's give it perfectly reflecting walls as usual,
+- [00:09:43,560 - 00:09:44,460] so
+- [00:09:44,460 - 00:09:44,620] that it's not just a box.
+- [00:09:44,640 - 00:09:46,960] So we don't have to worry about heating the walls,
+- [00:09:46,960 - 00:09:49,200] energy being absorbed by the walls,
+- [00:09:49,280 - 00:09:49,740] and so forth,
+- [00:09:49,740 - 00:09:51,000] perfectly reflecting walls,
+- [00:09:51,000 - 00:09:53,180] and put photons into it.
+- [00:09:53,340 - 00:09:55,600] And let's put photons into it
+- [00:09:55,600 - 00:09:57,860] by shining a laser into the box.
+- [00:09:58,160 - 00:09:59,620] So we shine a laser into
+- [00:09:59,620 - 00:10:01,080] the box through a little hole.
+- [00:10:01,840 - 00:10:03,680] The radiation is in the box,
+- [00:10:03,680 - 00:10:04,840] and then we close up the hole,
+- [00:10:04,840 - 00:10:07,920] and the radiation bounces off
+- [00:10:07,920 - 00:10:08,940] the walls of the box.
+- [00:10:10,300 - 00:10:14,120] And if this is just pure photons...
+- [00:10:15,500 - 00:10:18,040] with no interaction between them,
+- [00:10:18,040 - 00:10:21,000] and the interactions between photons is extremely
+- [00:10:21,260 - 00:10:21,560] weak,
+- [00:10:21,560 - 00:10:25,440] photons do not readily scatter off each other ordinarily,
+- [00:10:25,440 - 00:10:29,100] then the box will not come
+- [00:10:29,100 - 00:10:30,100] to thermal equilibrium.
+- [00:10:30,360 - 00:10:33,500] All that will happen is the pulse of radiation
+- [00:10:33,500 - 00:10:36,640] will bounce back and forth and back and forth
+- [00:10:36,640 - 00:10:38,260] and back and forth and back and forth,
+- [00:10:38,260 - 00:10:39,100] forever and ever,
+- [00:10:39,100 - 00:10:40,500] almost forever and ever,
+- [00:10:40,500 - 00:10:41,500] without
+- [00:10:42,060 - 00:10:43,680] anything interesting happening.
+- [00:10:43,740 - 00:10:44,100] So we can't do anything.
+- [00:10:44,120 - 00:10:44,560] Well,
+- [00:10:44,560 - 00:10:45,840] maybe you consider that interesting,
+- [00:10:45,840 - 00:10:47,980] but without it
+- [00:10:48,699 - 00:10:51,409] Without the energy being spread through
+- [00:10:51,409 - 00:10:54,120] the system without the energy becoming thermal
+- [00:10:55,740 - 00:10:59,110] What it takes is some scattering it takes
+- [00:10:59,110 - 00:11:02,480] some form of collisions to scatter the photons
+- [00:11:04,239 - 00:11:07,940] And cause the system to come to thermal equilibrium
+- [00:11:08,980 - 00:11:11,500] Photons do scatter a little bit.
+- [00:11:11,500 - 00:11:13,380] There is some
+- [00:11:14,820 - 00:11:17,260] cross-section for the interaction of photons,
+- [00:11:17,260 - 00:11:20,560] but for photons of wavelength
+- [00:11:21,040 - 00:11:23,360] comparable to what we have in the universe today
+- [00:11:24,200 - 00:11:27,210] The cross-section for scattering or the probability
+- [00:11:27,210 - 00:11:30,220] for two photons to scattering is so negligible
+- [00:11:30,800 - 00:11:33,880] That that these photons would not equilibrate.
+- [00:11:33,880 - 00:11:35,540] They would not come to thermal equilibrium
+- [00:11:36,240 - 00:11:39,990] What it takes to make things come to thermal equilibrium to
+- [00:11:39,990 - 00:11:43,740] make photons come to thermal equilibrium equilibrium is some charged particles
+- [00:11:44,120 - 00:11:46,440] charged particles scatter very
+- [00:11:46,440 - 00:11:48,760] very efficiently off radiation
+- [00:11:49,800 - 00:11:51,800] an electron a
+- [00:11:51,800 - 00:11:54,320] photon or an electromagnetic wave an electromagnetic
+- [00:11:54,320 - 00:11:56,840] wave goes past it the electric field
+- [00:11:56,840 - 00:12:01,130] causes the electron to vibrate the vibrating electric field the
+- [00:12:01,130 - 00:12:05,420] vibrating electron then sends off more radiation and scattering is very
+- [00:12:05,420 - 00:12:07,700] efficient if this box
+- [00:12:08,300 - 00:12:11,160] contains some density of
+- [00:12:11,660 - 00:12:12,840] electrons and
+- [00:12:14,120 - 00:12:15,200] other electrons
+- [00:12:15,200 - 00:12:17,600] Let's call them a minus minus for
+- [00:12:17,600 - 00:12:20,000] the fact that electrons have negative charge
+- [00:12:20,800 - 00:12:23,110] If the box had some
+- [00:12:23,110 - 00:12:25,420] population of electrons in it then
+- [00:12:26,349 - 00:12:28,634] Scattering would be efficient and the box
+- [00:12:28,634 - 00:12:30,920] would very quickly come to thermal equilibrium
+- [00:12:31,920 - 00:12:32,740] Of course.
+- [00:12:32,740 - 00:12:34,570] It depends on what the
+- [00:12:34,570 - 00:12:36,400] distance between the electrons are but
+- [00:12:36,400 - 00:12:37,960] You know if we put a
+- [00:12:37,960 - 00:12:39,520] reasonable density of electrons in there
+- [00:12:40,080 - 00:12:43,220] then photons scatter electrons scatter
+- [00:12:43,220 - 00:12:45,800] the electrons and the photons all
+- [00:12:45,800 - 00:12:48,380] come and form eventually a thermal soup,
+- [00:12:48,600 - 00:12:50,720] and under those circumstances we would
+- [00:12:50,720 - 00:12:52,840] say that the box has a temperature.
+- [00:12:54,480 - 00:12:55,040] Now,
+- [00:12:55,040 - 00:12:58,960] the universe appears,
+- [00:12:58,960 - 00:13:01,520] there's good reason for this,
+- [00:13:01,520 - 00:13:02,300] but we're not going to
+- [00:13:02,300 - 00:13:02,900] get to it tonight,
+- [00:13:02,900 - 00:13:04,420] there's good reason for it,
+- [00:13:04,420 - 00:13:05,780] but the universe appears to be
+- [00:13:06,640 - 00:13:07,740] electrically neutral.
+- [00:13:07,740 - 00:13:14,600] There are not large lumps of positive charge and not
+- [00:13:14,600 - 00:13:17,180] large lumps of negative charge in the universe,
+- [00:13:17,180 - 00:13:19,000] and certainly on the average
+- [00:13:19,000 - 00:13:22,320] the universe appears to be electrically neutral.
+- [00:13:22,320 - 00:13:24,880] So it's not just electrons,
+- [00:13:24,880 - 00:13:25,960] in
+- [00:13:25,960 - 00:13:29,500] addition to electrons there are
+- [00:13:29,500 - 00:13:33,040] protons and other atomic nuclei with
+- [00:13:33,040 - 00:13:33,840] positive charge.
+- [00:13:34,340 - 00:13:35,540] Let's simplify
+- [00:13:35,540 - 00:13:39,400] it and just say there are photons in the box,
+- [00:13:39,400 - 00:13:42,360] we'll call them gamma,
+- [00:13:42,360 - 00:13:44,160] gamma for gamma
+- [00:13:44,160 - 00:13:44,480] ray,
+- [00:13:44,480 - 00:13:46,680] but they're not necessarily gamma rays,
+- [00:13:46,680 - 00:13:48,580] just gamma for photon,
+- [00:13:48,580 - 00:13:50,460] and there are
+- [00:13:50,460 - 00:13:51,200] protons,
+- [00:13:51,200 - 00:13:51,920] p.
+- [00:13:51,920 - 00:13:54,000] That's what's in the box,
+- [00:13:54,000 - 00:13:54,860] gamma,
+- [00:13:54,860 - 00:13:56,040] electrons,
+- [00:13:56,040 - 00:13:57,520] and protons.
+- [00:13:57,520 - 00:14:00,720] The number of
+- [00:14:00,720 - 00:14:01,220] electrons,
+- [00:14:01,220 - 00:14:04,140] the number of electrons,
+- [00:14:04,140 - 00:14:05,520] let's call it n,
+- [00:14:05,520 - 00:14:06,800] n e minus,
+- [00:14:06,800 - 00:14:10,060] is the same as the number of protons,
+- [00:14:10,060 - 00:14:12,080] and that's why it's electrically
+- [00:14:12,080 - 00:14:12,360] neutral.
+- [00:14:12,360 - 00:14:14,020] Well,
+- [00:14:14,020 - 00:14:16,940] that's not why it's electrically neutral,
+- [00:14:16,940 - 00:14:19,080] the why of why it's
+- [00:14:19,080 - 00:14:20,620] electrically neutral is more complicated,
+- [00:14:20,620 - 00:14:23,680] it simply states that the box is
+- [00:14:23,680 - 00:14:24,440] electrically neutral.
+- [00:14:24,440 - 00:14:26,180] We of course use the
+- [00:14:26,180 - 00:14:27,920] fact that the charge of the
+- [00:14:27,920 - 00:14:29,410] electron is equal and opposite
+- [00:14:29,410 - 00:14:30,900] to the charge of a proton,
+- [00:14:30,900 - 00:14:31,880] another experimental
+- [00:14:31,880 - 00:14:34,920] fact that we're not trying to explain tonight.
+- [00:14:39,060 - 00:14:41,380] If the electrons and protons
+- [00:14:41,380 - 00:14:43,700] are freely moving in the box,
+- [00:14:43,700 - 00:14:45,100] in other words,
+- [00:14:45,100 - 00:14:45,660] if they're not
+- [00:14:45,660 - 00:14:47,140] bound to situations,
+- [00:14:47,140 - 00:14:49,260] one situation that you could imagine
+- [00:14:49,260 - 00:14:51,380] is that the electrons and the
+- [00:14:51,380 - 00:14:54,820] protons are tied together into hydrogen nuclei.
+- [00:14:54,820 - 00:14:58,820] Hydrogen nuclei are electrically neutral.
+- [00:15:00,740 - 00:15:04,600] Electrically neutral objects are not efficient scatterers.
+- [00:15:05,520 - 00:15:07,640] It is true that they
+- [00:15:07,640 - 00:15:09,760] do scatter radiation a little bit,
+- [00:15:09,760 - 00:15:11,140] but on the whole,
+- [00:15:11,140 - 00:15:11,900] they're such
+- [00:15:11,900 - 00:15:16,620] weak scatterers that the very,
+- [00:15:16,620 - 00:15:22,100] very small dilute density of hydrogen in the universe
+- [00:15:22,100 - 00:15:26,300] today has so little effect on the photons
+- [00:15:26,300 - 00:15:30,500] moving through it that it would take forever,
+- [00:15:30,700 - 00:15:32,360] I never even tried to calculate,
+- [00:15:32,360 - 00:15:33,340] but a very,
+- [00:15:33,340 - 00:15:34,240] very long time,
+- [00:15:34,240 - 00:15:35,500] much longer than the age of
+- [00:15:35,500 - 00:15:35,920] the universe,
+- [00:15:35,920 - 00:15:40,460] to cause the photons to come to thermal equilibrium.
+- [00:15:42,600 - 00:15:44,920] And so today,
+- [00:15:44,920 - 00:15:47,980] the universe is not in thermal equilibrium.
+- [00:15:49,260 - 00:15:51,020] It's not in thermal equilibrium,
+- [00:15:51,020 - 00:15:54,080] it doesn't have a proper temperature,
+- [00:15:54,080 - 00:15:56,340] or another way
+- [00:15:56,340 - 00:15:59,720] of saying it is that the various kinds
+- [00:15:59,720 - 00:16:03,100] of particles are not in equilibrium with each
+- [00:16:03,100 - 00:16:03,380] other.
+- [00:16:04,280 - 00:16:04,960] The...
+- [00:16:05,500 - 00:16:07,740] The atomic nuclei that are out there,
+- [00:16:07,740 - 00:16:11,340] if you were to characterize them by a temperature,
+- [00:16:13,060 - 00:16:15,300] how do you characterize them by a temperature?
+- [00:16:15,520 - 00:16:16,240] Roughly speaking,
+- [00:16:16,240 - 00:16:19,540] the temperature is the kinetic energy of a particle.
+- [00:16:19,980 - 00:16:21,980] If you were to calculate them as,
+- [00:16:21,980 - 00:16:23,800] if you were to describe
+- [00:16:23,800 - 00:16:25,620] them as by having a temperature,
+- [00:16:26,000 - 00:16:27,920] the temperature would be much,
+- [00:16:27,920 - 00:16:32,140] much lower than the temperature that characterizes the
+- [00:16:32,140 - 00:16:33,160] photons out there.
+- [00:16:37,480 - 00:16:39,620] The ordinary particles,
+- [00:16:39,620 - 00:16:42,000] electrons and protons,
+- [00:16:42,000 - 00:16:45,340] are not in equilibrium with the photons.
+- [00:16:46,100 - 00:16:49,260] There's simply not enough scattering for that to happen.
+- [00:16:49,480 - 00:16:50,720] On the other hand,
+- [00:16:50,720 - 00:16:55,670] if the electrons and protons were
+- [00:16:55,670 - 00:17:00,620] freely moving and not bound into atoms,
+- [00:17:00,980 - 00:17:03,800] then they would be efficient scatterers.
+- [00:17:04,020 - 00:17:04,750] And they would cause a
+- [00:17:04,750 - 00:17:05,480] lot of energy to come through.
+- [00:17:05,500 - 00:17:07,400] They would come to equilibrium together with the photons,
+- [00:17:07,400 - 00:17:09,300] and you would expect it to be
+- [00:17:09,300 - 00:17:11,020] characterized by a single temperature.
+- [00:17:11,579 - 00:17:13,119] The temperature of the electrons,
+- [00:17:13,119 - 00:17:14,319] the temperature of the protons,
+- [00:17:14,319 - 00:17:15,640] the temperature of the photons,
+- [00:17:15,880 - 00:17:16,859] all the same temperature.
+- [00:17:17,280 - 00:17:19,359] And in that circumstance,
+- [00:17:19,359 - 00:17:21,380] there's a well-defined notion of temperature.
+- [00:17:24,380 - 00:17:27,819] What does it take to make sure that the
+- [00:17:27,819 - 00:17:31,260] electrons don't fall into the protons and form atoms?
+- [00:17:31,940 - 00:17:32,440] Well,
+- [00:17:32,440 - 00:17:33,840] it takes a high enough temperature.
+- [00:17:34,220 - 00:17:35,480] When the temperature is high enough,
+- [00:17:35,480 - 00:17:35,480] the electrons are not going to fall into the protons.
+- [00:17:35,480 - 00:17:36,180] When the temperature is high enough,
+- [00:17:36,180 - 00:17:41,280] the energies of the photons and the energies
+- [00:17:41,280 - 00:17:43,810] of the electrons and the energies of the
+- [00:17:43,810 - 00:17:46,340] protons and so forth are large enough that enough
+- [00:17:46,340 - 00:17:48,670] collisions take place that they
+- [00:17:48,670 - 00:17:51,000] keep busting up the hydrogen atoms.
+- [00:17:51,380 - 00:17:54,500] There are some hydrogen atoms when the temperature is high,
+- [00:17:54,500 - 00:17:57,360] but there are also plenty of free
+- [00:17:57,360 - 00:18:00,400] electrons and free protons to scatter the radiation,
+- [00:18:00,400 - 00:18:02,820] and that maintains the thermal
+- [00:18:02,820 - 00:18:03,280] equilibrium.
+- [00:18:04,360 - 00:18:05,040] So,
+- [00:18:05,040 - 00:18:05,460] how do we do that?
+- [00:18:05,460 - 00:18:05,460] Well,
+- [00:18:05,460 - 00:18:08,320] if we're in the regime of
+- [00:18:08,320 - 00:18:11,180] temperatures where temperature is really meaningful,
+- [00:18:11,180 - 00:18:12,140] in
+- [00:18:12,140 - 00:18:12,560] other words,
+- [00:18:12,560 - 00:18:13,680] where things are thermal equilibrium,
+- [00:18:13,680 - 00:18:22,160] then the box of gas is described by a number
+- [00:18:22,160 - 00:18:23,420] of electrons and protons,
+- [00:18:23,420 - 00:18:24,260] or better yet,
+- [00:18:24,260 - 00:18:27,340] a density of electrons and protons,
+- [00:18:27,340 - 00:18:28,480] with the
+- [00:18:28,480 - 00:18:30,680] density of electrons and protons being equal,
+- [00:18:30,680 - 00:18:33,560] and a temperature,
+- [00:18:33,560 - 00:18:34,780] T.
+- [00:18:38,860 - 00:18:39,500] Now,
+- [00:18:39,500 - 00:18:41,320] the radiation in the box,
+- [00:18:41,320 - 00:18:44,840] every component of the radiation,
+- [00:18:44,840 - 00:18:45,680] every photon,
+- [00:18:45,680 - 00:18:46,320] if you like,
+- [00:18:46,520 - 00:18:49,090] or every bit of the radiation
+- [00:18:49,090 - 00:18:51,660] is also characterized by a wavelength,
+- [00:18:51,660 - 00:18:52,540] lambda.
+- [00:18:54,320 - 00:18:55,240] There are many,
+- [00:18:55,240 - 00:18:57,020] many different wavelengths in the box.
+- [00:18:57,320 - 00:18:59,510] The box does not have a
+- [00:18:59,510 - 00:19:01,700] single wavelength once it's in thermal equilibrium,
+- [00:19:01,700 - 00:19:02,900] and the
+- [00:19:02,900 - 00:19:04,170] distribution of wavelengths is determined
+- [00:19:04,170 - 00:19:05,440] by the number of electrons.
+- [00:19:05,460 - 00:19:05,560] So,
+- [00:19:05,560 - 00:19:06,270] the number of electrons is determined
+- [00:19:06,270 - 00:19:06,980] by the thermal properties of the box.
+- [00:19:07,900 - 00:19:12,880] We could also characterize radiation not just by wavelength,
+- [00:19:12,880 - 00:19:15,180] but equivalently by frequency.
+- [00:19:15,460 - 00:19:18,080] And the relationship between frequency and wavelength
+- [00:19:18,080 - 00:19:20,700] is that the product of the frequency
+- [00:19:20,700 - 00:19:23,300] and the wavelength is equal to the speed of light.
+- [00:19:26,800 - 00:19:29,600] So either wavelength or frequency,
+- [00:19:29,600 - 00:19:30,800] and as I said,
+- [00:19:30,800 - 00:19:31,640] there are many,
+- [00:19:31,640 - 00:19:32,900] many different frequencies.
+- [00:19:33,060 - 00:19:35,440] There's a whole spectrum of frequencies.
+- [00:19:35,460 - 00:19:36,820] There's a whole spectrum of frequencies inside the box.
+- [00:19:39,100 - 00:19:41,580] And it's characterized by a function.
+- [00:19:42,620 - 00:19:46,120] It's characterized by a function called the intensity,
+- [00:19:46,120 - 00:19:49,720] intensity I.
+- [00:19:50,120 - 00:19:55,080] And the intensity I is basically an energy density.
+- [00:19:55,300 - 00:19:57,320] It's basically an energy density,
+- [00:19:57,320 - 00:20:04,120] but it's a function of both the temperature and either
+- [00:20:04,120 - 00:20:05,440] the wavelength or the temperature.
+- [00:20:05,440 - 00:20:05,840] The wavelength or the frequency.
+- [00:20:07,000 - 00:20:09,060] The wavelength or the frequency,
+- [00:20:09,060 - 00:20:10,760] and it's defined in such
+- [00:20:10,760 - 00:20:12,460] a way that if you multiply
+- [00:20:12,460 - 00:20:14,180] it by the volume of the box,
+- [00:20:14,180 - 00:20:18,140] or just a small little differential volume in the box,
+- [00:20:18,140 - 00:20:19,160] dv,
+- [00:20:19,380 - 00:20:24,220] and you multiply it by a small differential of frequency,
+- [00:20:24,220 - 00:20:25,420] dnu,
+- [00:20:25,420 - 00:20:29,080] that tells you how much
+- [00:20:29,080 - 00:20:34,960] energy is stored in the volume v in a band.
+- [00:20:35,060 - 00:20:35,420] Okay?
+- [00:20:38,139 - 00:20:40,260] So that
+- [00:20:40,260 - 00:20:42,780] I'm here for to accompany with
+- [00:20:42,780 - 00:20:45,300] my current theory of the frequency.
+- [00:20:45,840 - 00:20:47,220] Now,
+- [00:20:47,220 - 00:20:59,360] do you even need this artwork to fly with you?
+- [00:20:59,440 - 00:21:00,620] Yeah?
+- [00:21:02,700 - 00:21:04,960] We'll take a minute.
+- [00:21:06,600 - 00:21:09,510] we can actually work out the behavior
+- [00:21:09,510 - 00:21:12,420] of the intensity function as it would have
+- [00:21:12,420 - 00:21:14,880] been worked out before 1900.
+- [00:21:14,880 - 00:21:17,320] Before 1900,
+- [00:21:17,320 - 00:21:21,000] the only parameter,
+- [00:21:21,000 - 00:21:22,840] the only constant of
+- [00:21:22,840 - 00:21:25,900] nature which appeared in the theory of
+- [00:21:25,900 - 00:21:28,960] light and in the theory of radiation was
+- [00:21:28,960 - 00:21:30,200] the speed of light c.
+- [00:21:30,200 - 00:21:33,320] So that's all there was,
+- [00:21:33,320 - 00:21:33,840] was c.
+- [00:21:33,840 - 00:21:38,500] And now you can use simple
+- [00:21:40,020 - 00:21:43,340] dimensional analysis to ask what must be
+- [00:21:43,340 - 00:21:46,660] the formula for the intensity as a
+- [00:21:46,660 - 00:21:48,140] function of t and nu,
+- [00:21:48,140 - 00:21:50,460] and you get an answer.
+- [00:21:50,460 - 00:21:52,400] Everybody know how to do
+- [00:21:52,400 - 00:21:53,520] dimensional analysis?
+- [00:21:53,520 - 00:21:54,380] You just say,
+- [00:21:54,380 - 00:21:54,800] alright,
+- [00:21:54,800 - 00:21:55,620] let me tell you how you do
+- [00:21:55,620 - 00:21:56,500] dimensional analysis.
+- [00:21:56,500 - 00:21:58,440] The first question is,
+- [00:21:58,440 - 00:22:00,940] what is the dimension of intensity?
+- [00:22:00,940 - 00:22:01,980] Well,
+- [00:22:01,980 - 00:22:05,740] it's energy per unit volume per unit
+- [00:22:05,740 - 00:22:06,360] frequency.
+- [00:22:06,360 - 00:22:08,380] What is the units of frequency,
+- [00:22:08,380 - 00:22:09,220] incidentally?
+- [00:22:09,220 - 00:22:11,840] Inverse time.
+- [00:22:11,840 - 00:22:13,020] Right.
+- [00:22:13,020 - 00:22:13,680] So
+- [00:22:13,680 - 00:22:14,840] whatever intensity is,
+- [00:22:14,840 - 00:22:16,720] it has units,
+- [00:22:16,720 - 00:22:25,320] its units are energy per unit time
+- [00:22:35,560 - 00:22:36,320] Sorry,
+- [00:22:36,320 - 00:22:37,840] energy per unit frequency,
+- [00:22:37,840 - 00:22:39,840] energy per unit frequency,
+- [00:22:39,840 - 00:22:41,600] which means energy
+- [00:22:41,600 - 00:22:44,420] times time per unit volume.
+- [00:22:44,420 - 00:22:48,380] Now,
+- [00:22:48,380 - 00:22:52,200] you can ask what kind of quantity can you make,
+- [00:22:53,480 - 00:22:55,950] what kind of quantity can you make
+- [00:22:55,950 - 00:22:58,420] out of the temperature of that energy?
+- [00:22:58,420 - 00:22:58,420] And you
+- [00:22:58,440 - 00:22:58,600] Oh,
+- [00:22:58,600 - 00:22:59,480] the other question is,
+- [00:22:59,480 - 00:22:59,680] sorry,
+- [00:22:59,680 - 00:23:00,480] there's one other element.
+- [00:23:01,040 - 00:23:02,180] What about temperature?
+- [00:23:02,180 - 00:23:03,460] What are the units of temperature?
+- [00:23:03,660 - 00:23:04,900] This is the units of intensity,
+- [00:23:04,900 - 00:23:07,340] energy times time over volume.
+- [00:23:07,800 - 00:23:09,220] What are the units of temperature?
+- [00:23:09,700 - 00:23:15,100] The units of temperature are basically units of energy.
+- [00:23:16,260 - 00:23:18,380] There's a historical glitch
+- [00:23:18,380 - 00:23:20,500] in the definition of temperature.
+- [00:23:21,280 - 00:23:23,540] Temperature was not originally defined.
+- [00:23:23,740 - 00:23:26,340] It wasn't even known that it was an energy.
+- [00:23:26,340 - 00:23:28,380] It was just defined in terms
+- [00:23:28,380 - 00:23:30,420] of boiling water and freezing water
+- [00:23:30,420 - 00:23:32,980] and dividing the gap into a hundred little segments,
+- [00:23:33,080 - 00:23:36,540] and they were called degrees centigrade.
+- [00:23:37,819 - 00:23:40,920] But modern theories of what temperature is,
+- [00:23:40,940 - 00:23:43,170] is that temperature is just
+- [00:23:43,170 - 00:23:45,400] basically the energy of a molecule,
+- [00:23:45,420 - 00:23:47,290] the average energy of a molecule
+- [00:23:47,290 - 00:23:49,160] or a particle in a gas.
+- [00:23:49,420 - 00:23:50,560] Energy is temperature.
+- [00:23:50,560 - 00:23:51,120] Sorry,
+- [00:23:51,120 - 00:23:52,220] temperature is energy.
+- [00:23:52,460 - 00:23:54,220] The conversion factor,
+- [00:23:54,980 - 00:23:56,320] just the numerical conversion,
+- [00:23:56,340 - 00:23:59,270] the conversion factor between energy units
+- [00:23:59,270 - 00:24:02,200] and conventional temperature units like centigrade
+- [00:24:02,940 - 00:24:05,680] is a certain constant called Boltzmann's constant.
+- [00:24:06,899 - 00:24:09,479] So you'll often see formulas
+- [00:24:09,479 - 00:24:12,060] in which some energy or another,
+- [00:24:12,280 - 00:24:13,680] whatever it happens to be,
+- [00:24:13,960 - 00:24:18,550] is written as being proportional to
+- [00:24:18,550 - 00:24:23,140] some temperature times a constant k Boltzmann.
+- [00:24:24,660 - 00:24:26,860] The Boltzmann constant is,
+- [00:24:26,860 - 00:24:27,400] as I said,
+- [00:24:27,400 - 00:24:29,020] just a conversion factor.
+- [00:24:30,000 - 00:24:31,320] I'll keep it around,
+- [00:24:31,320 - 00:24:34,780] but for our real purposes,
+- [00:24:36,320 - 00:24:39,520] temperature is an energy and it has units of energy.
+- [00:24:40,380 - 00:24:44,550] And k Boltzmann is just some historical relic that we
+- [00:24:44,550 - 00:24:48,720] could easily set equal to one and not lose anything.
+- [00:24:48,900 - 00:24:50,700] I'll keep it around just because
+- [00:24:50,700 - 00:24:52,500] it's traditional to keep it around.
+- [00:24:53,860 - 00:24:54,540] Ok,
+- [00:24:54,540 - 00:24:56,800] apart from this k Boltzmann,
+- [00:24:56,800 - 00:24:59,140] temperature has units of energy.
+- [00:24:59,480 - 00:25:01,020] And so we can ask,
+- [00:25:01,020 - 00:25:06,280] what kind of dependence can i have,
+- [00:25:06,580 - 00:25:08,260] which has certain units,
+- [00:25:08,260 - 00:25:11,120] on temperature and frequency?
+- [00:25:11,760 - 00:25:13,880] Frequency has units of one over time,
+- [00:25:13,880 - 00:25:16,020] temperature has units of energy,
+- [00:25:17,300 - 00:25:19,400] and i has to have units
+- [00:25:19,400 - 00:25:21,500] of energy times time over volume.
+- [00:25:22,440 - 00:25:23,660] It'll take you a few minutes,
+- [00:25:23,660 - 00:25:24,940] just work it out.
+- [00:25:25,200 - 00:25:27,660] I'll tell you what the general formula has to be.
+- [00:25:34,940 - 00:25:40,080] It's of the form I equals temperature
+- [00:25:40,080 - 00:25:45,220] times frequency squared over the speed of light
+- [00:25:45,220 - 00:25:47,000] squared if we keep the speed of light in.
+- [00:25:47,520 - 00:25:48,890] That's the only thing around
+- [00:25:48,890 - 00:25:50,260] that we have is the temperature,
+- [00:25:50,260 - 00:25:51,220] the frequency,
+- [00:25:51,220 - 00:25:51,760] and the
+- [00:25:51,760 - 00:25:52,400] speed of light.
+- [00:25:53,460 - 00:25:54,880] And this is the only
+- [00:25:54,880 - 00:25:56,300] formula which has the right units.
+- [00:25:56,320 - 00:25:56,960] Of course,
+- [00:25:56,960 - 00:25:59,080] it's not the only formula that has the right units.
+- [00:25:59,620 - 00:26:01,140] There can be other formulas,
+- [00:26:01,140 - 00:26:02,720] like for example twice that,
+- [00:26:02,720 - 00:26:04,740] two has no units,
+- [00:26:04,740 - 00:26:05,260] and in fact
+- [00:26:05,260 - 00:26:06,940] that's basically the right answer.
+- [00:26:07,600 - 00:26:10,130] Twice the temperature times the frequency
+- [00:26:10,130 - 00:26:12,660] squared over the speed of light squared.
+- [00:26:14,260 - 00:26:15,220] That's as...
+- [00:26:15,220 - 00:26:16,020] I'm sorry.
+- [00:26:17,020 - 00:26:17,540] Oh,
+- [00:26:17,540 - 00:26:18,220] not quite.
+- [00:26:18,440 - 00:26:20,300] I said I would keep K Boltzmann around,
+- [00:26:20,300 - 00:26:22,240] but the rule is always the same.
+- [00:26:22,480 - 00:26:24,540] Whenever you see a temperature in the formula,
+- [00:26:24,540 - 00:26:26,720] multiply it by K Boltzmann,
+- [00:26:26,720 - 00:26:27,820] and think of temperature
+- [00:26:27,820 - 00:26:29,820] times K Boltzmann as a single thing.
+- [00:26:29,920 - 00:26:31,780] A single thing with units of energy.
+- [00:26:32,720 - 00:26:33,440] All right,
+- [00:26:33,440 - 00:26:36,930] so that's the formula for the
+- [00:26:36,930 - 00:26:40,420] energy per unit volume per unit frequency.
+- [00:26:41,380 - 00:26:41,900] Now,
+- [00:26:41,900 - 00:26:43,460] this formula is a disaster.
+- [00:26:43,740 - 00:26:45,200] This formula is a disaster.
+- [00:26:45,200 - 00:26:47,220] It was known to people in
+- [00:26:47,220 - 00:26:49,240] the 1890s or early parts of the,
+- [00:26:49,240 - 00:26:51,060] or late parts of the 19th century
+- [00:26:51,840 - 00:26:53,320] that this was a disaster.
+- [00:26:53,520 - 00:26:55,900] If we plot this as a function of nu,
+- [00:26:55,900 - 00:27:00,440] we see that it grows parabolically,
+- [00:27:00,440 - 00:27:02,880] and therefore
+- [00:27:03,680 - 00:27:06,270] the total amount of energy contained in
+- [00:27:06,270 - 00:27:08,860] this box is going to be infinite.
+- [00:27:09,360 - 00:27:11,710] There's just more and more and more energy
+- [00:27:11,710 - 00:27:14,060] per unit volume in higher and higher frequencies.
+- [00:27:14,360 - 00:27:14,640] All right?
+- [00:27:14,640 - 00:27:15,460] So you know the story,
+- [00:27:15,460 - 00:27:15,880] of course.
+- [00:27:16,320 - 00:27:20,280] The story was that a new constant was necessary.
+- [00:27:20,520 - 00:27:20,940] Oh,
+- [00:27:20,940 - 00:27:22,120] experimentally.
+- [00:27:22,980 - 00:27:23,540] Experimentally.
+- [00:27:23,740 - 00:27:25,340] And for the life of me,
+- [00:27:25,340 - 00:27:27,750] I have never been able to
+- [00:27:27,750 - 00:27:30,160] figure out how the experiments were
+- [00:27:30,160 - 00:27:38,120] really done to discover that any detail to this curve.
+- [00:27:39,080 - 00:27:40,860] I don't know how they were done,
+- [00:27:40,860 - 00:27:44,400] because I don't know how physicists at that time could
+- [00:27:44,400 - 00:27:47,780] have measured the intensity as a function of wavelength.
+- [00:27:48,460 - 00:27:50,020] And I've looked it up.
+- [00:27:50,120 - 00:27:50,860] I've tried to find.
+- [00:27:51,100 - 00:27:51,780] I cannot.
+- [00:27:51,980 - 00:27:52,460] I don't know.
+- [00:27:53,220 - 00:27:55,200] I'm not even sure that they did do it,
+- [00:27:55,200 - 00:27:56,800] or were just guessing about it.
+- [00:27:57,140 - 00:28:02,900] But this is the formula from classical physics.
+- [00:28:03,320 - 00:28:04,260] And of course,
+- [00:28:04,260 - 00:28:05,600] experimentally,
+- [00:28:05,600 - 00:28:07,000] the formula was quite different.
+- [00:28:08,060 - 00:28:13,020] It turned over and went back down to zero.
+- [00:28:13,120 - 00:28:13,580] So,
+- [00:28:13,580 - 00:28:13,980] I'm going to go back to the first formula.
+- [00:28:13,980 - 00:28:14,000] And I'm going to go back to the first formula.
+- [00:28:14,740 - 00:28:16,310] So that the total energy
+- [00:28:16,310 - 00:28:17,880] contained in the box is finite.
+- [00:28:19,060 - 00:28:20,160] This fact,
+- [00:28:20,160 - 00:28:22,980] or the fiction,
+- [00:28:22,980 - 00:28:24,570] that the energy in the box
+- [00:28:24,570 - 00:28:26,160] is infinite because of this formula
+- [00:28:26,160 - 00:28:28,120] was called the ultraviolet catastrophe.
+- [00:28:29,700 - 00:28:33,020] And in order to have it turn over like that,
+- [00:28:33,020 - 00:28:36,300] it was necessary that this formula have another
+- [00:28:36,300 - 00:28:37,400] constant in it.
+- [00:28:37,500 - 00:28:40,300] This was the only formula that you
+- [00:28:40,300 - 00:28:43,100] could make that only involved the constant c.
+- [00:28:44,120 - 00:28:45,500] Necessary to have another constant.
+- [00:28:45,640 - 00:28:46,520] And that constant was,
+- [00:28:46,520 - 00:28:46,960] of course,
+- [00:28:46,960 - 00:28:47,860] Planck's constant.
+- [00:28:48,560 - 00:28:50,840] Adding Planck's constant into the formula,
+- [00:28:50,840 - 00:28:51,420] you can,
+- [00:28:51,420 - 00:28:52,280] you can,
+- [00:28:52,280 - 00:28:54,480] or adding Planck's constant,
+- [00:28:54,680 - 00:28:56,000] you can make up many formulas.
+- [00:28:56,560 - 00:28:58,180] But let me give you the right one.
+- [00:28:58,700 - 00:29:01,740] I'll give you the precise formula for i.
+- [00:29:03,780 - 00:29:06,040] And we'll see some interesting things about it.
+- [00:29:07,640 - 00:29:09,100] i is equal,
+- [00:29:09,100 - 00:29:11,380] this is the black body formula.
+- [00:29:11,560 - 00:29:13,080] This is the famous black body formula.
+- [00:29:13,080 - 00:29:13,980] Or the Planck formula.
+- [00:29:15,220 - 00:29:16,700] Twice Planck's constant.
+- [00:29:16,980 - 00:29:19,000] Anybody know what the units of Planck's constant are?
+- [00:29:20,340 - 00:29:22,360] Energy times time.
+- [00:29:22,900 - 00:29:23,960] Energy times time.
+- [00:29:24,380 - 00:29:24,900] Okay.
+- [00:29:25,400 - 00:29:26,100] Of course,
+- [00:29:26,100 - 00:29:27,000] what are the units of energy?
+- [00:29:30,440 - 00:29:32,560] You want to reduce everything to length,
+- [00:29:32,560 - 00:29:33,720] distance,
+- [00:29:33,720 - 00:29:34,540] distance,
+- [00:29:34,540 - 00:29:35,080] time,
+- [00:29:35,080 - 00:29:35,780] and mass.
+- [00:29:35,780 - 00:29:36,000] Mass.
+- [00:29:36,580 - 00:29:38,680] Mass length squared over time.
+- [00:29:41,780 - 00:29:42,960] Mv squared.
+- [00:29:43,760 - 00:29:44,060] Mass.
+- [00:29:45,520 - 00:29:47,600] Mv is length over time.
+- [00:29:49,080 - 00:29:50,040] Mv squared.
+- [00:29:51,300 - 00:29:53,600] M mass times length squared over time squared.
+- [00:29:53,940 - 00:29:54,360] Yeah.
+- [00:29:54,780 - 00:29:56,360] And then to get h,
+- [00:29:56,360 - 00:29:57,480] you multiply by time,
+- [00:29:57,480 - 00:29:59,440] so it's m length squared over time.
+- [00:29:59,740 - 00:30:00,280] But whatever.
+- [00:30:01,640 - 00:30:05,500] Definite units times nu cubed.
+- [00:30:05,560 - 00:30:05,760] Yeah.
+- [00:30:08,220 - 00:30:12,420] Divided by c squared times a crazy function.
+- [00:30:14,700 - 00:30:19,540] And the crazy function was 1 divided by e.
+- [00:30:20,980 - 00:30:26,280] The Planck's constant times the frequency divided by kt.
+- [00:30:28,720 - 00:30:29,500] Again,
+- [00:30:29,500 - 00:30:30,920] that's k Boltzmann.
+- [00:30:31,540 - 00:30:33,820] Goes together with the temperature as always.
+- [00:30:34,000 - 00:30:35,020] Minus 1.
+- [00:30:35,020 - 00:30:35,120] Minus 1.
+- [00:30:38,360 - 00:30:38,980] All right,
+- [00:30:38,980 - 00:30:39,780] just to look at it,
+- [00:30:39,780 - 00:30:40,320] just for fun,
+- [00:30:40,320 - 00:30:40,860] what is it?
+- [00:30:41,720 - 00:30:42,200] Question?
+- [00:30:42,580 - 00:30:42,680] No.
+- [00:30:43,260 - 00:30:43,740] Okay.
+- [00:30:44,080 - 00:30:46,740] What does this formula have to do with this formula?
+- [00:30:48,200 - 00:30:48,680] Well,
+- [00:30:48,680 - 00:30:51,070] the point is the formulas
+- [00:30:51,070 - 00:30:53,460] are the same for low energy,
+- [00:30:53,460 - 00:30:54,680] for low frequency.
+- [00:30:55,360 - 00:30:56,780] For low frequency,
+- [00:30:56,780 - 00:31:01,840] the exponential is an exponential of a small quantity here,
+- [00:31:01,840 - 00:31:02,980] when the frequency
+- [00:31:02,980 - 00:31:03,760] is very small.
+- [00:31:04,520 - 00:31:06,720] If the frequency is close to 0,
+- [00:31:06,720 - 00:31:08,900] you can expand out this exponential,
+- [00:31:08,900 - 00:31:10,560] and you use the fact
+- [00:31:10,560 - 00:31:12,650] that an exponential e to the x
+- [00:31:12,650 - 00:31:14,740] for small x is just 1 plus x.
+- [00:31:15,320 - 00:31:17,300] And then subtract off the 1,
+- [00:31:17,300 - 00:31:21,140] e to the x minus 1 is just x.
+- [00:31:21,920 - 00:31:26,520] So what's in the denominator here is
+- [00:31:26,520 - 00:31:31,120] just 1 over h nu divided by kt,
+- [00:31:31,120 - 00:31:32,120] but that means the
+- [00:31:32,120 - 00:31:33,740] kt can go in the numerator.
+- [00:31:35,820 - 00:31:40,880] That's what the complicated function is for small nu.
+- [00:31:41,180 - 00:31:43,500] And then if I multiply it by this,
+- [00:31:43,500 - 00:31:44,520] let's do it,
+- [00:31:44,520 - 00:31:47,780] twice h nu cubed over c squared,
+- [00:31:47,780 - 00:31:49,100] notice
+- [00:31:49,100 - 00:31:49,880] first of all,
+- [00:31:49,880 - 00:31:50,980] Planck's constant disappears.
+- [00:31:53,760 - 00:31:55,700] So in first approximation,
+- [00:31:55,700 - 00:31:58,420] for small nu,
+- [00:31:58,420 - 00:32:01,560] Planck's constant has canceled.
+- [00:32:01,560 - 00:32:04,520] One power of the frequency cancels.
+- [00:32:06,660 - 00:32:08,410] And if I didn't make a
+- [00:32:08,410 - 00:32:10,160] mistake in writing these things down,
+- [00:32:10,160 - 00:32:11,900] twice t kb,
+- [00:32:11,900 - 00:32:15,020] twice t kb,
+- [00:32:15,080 - 00:32:16,780] nu squared over c squared.
+- [00:32:16,880 - 00:32:17,600] I think I got it right.
+- [00:32:17,820 - 00:32:18,760] I think they agree.
+- [00:32:19,220 - 00:32:19,360] OK?
+- [00:32:19,940 - 00:32:24,540] So now the point,
+- [00:32:24,540 - 00:32:25,060] of course,
+- [00:32:25,060 - 00:32:29,800] is that this becomes important when nu gets large.
+- [00:32:30,460 - 00:32:31,540] For small nu,
+- [00:32:31,540 - 00:32:31,540] it's going to be larger.
+- [00:32:31,540 - 00:32:31,620] For small nu,
+- [00:32:31,620 - 00:32:34,010] the formula as written by the
+- [00:32:34,010 - 00:32:36,400] classical physicists of the 19th century,
+- [00:32:36,560 - 00:32:36,880] Rayleigh,
+- [00:32:36,880 - 00:32:37,720] Jeans,
+- [00:32:37,720 - 00:32:38,460] and other people,
+- [00:32:38,460 - 00:32:39,720] that was correct.
+- [00:32:40,340 - 00:32:42,620] But as nu starts getting large,
+- [00:32:42,620 - 00:32:45,220] what happens to the exponential here?
+- [00:32:45,420 - 00:32:47,800] The exponential starts to get very big.
+- [00:32:48,540 - 00:32:50,660] So as nu becomes large,
+- [00:32:50,660 - 00:32:51,580] in particular,
+- [00:32:51,580 - 00:33:01,520] when h nu over kt starts to become large,
+- [00:33:01,520 - 00:33:01,520] then
+- [00:33:01,520 - 00:33:02,740] it becomes bigger than 1.
+- [00:33:03,700 - 00:33:06,260] This exponential starts to get large.
+- [00:33:06,580 - 00:33:07,460] In fact,
+- [00:33:07,460 - 00:33:08,840] it becomes so large that
+- [00:33:08,840 - 00:33:10,220] the 1 isn't even important here.
+- [00:33:11,120 - 00:33:16,100] And this whole factor just becomes exponentially small.
+- [00:33:17,500 - 00:33:19,600] So there's a crossover point.
+- [00:33:19,860 - 00:33:22,450] There's a crossover point when h nu
+- [00:33:22,450 - 00:33:25,040] over kt is about equal to 1.
+- [00:33:25,800 - 00:33:28,140] Instead of this curve continuing up
+- [00:33:28,140 - 00:33:30,480] and up and up like a parabola,
+- [00:33:32,139 - 00:33:37,560] it rather suddenly turns over and goes exponentially to 0,
+- [00:33:38,659 - 00:33:42,840] thus solving the ultraviolet problem,
+- [00:33:42,840 - 00:33:45,660] the ultraviolet catastrophe.
+- [00:33:46,340 - 00:33:47,220] Now,
+- [00:33:47,220 - 00:33:49,740] this provides another interesting connection.
+- [00:33:50,100 - 00:33:52,460] It says that for every temperature,
+- [00:33:52,460 - 00:33:54,900] taking this formula,
+- [00:33:54,900 - 00:33:56,660] kt,
+- [00:33:56,660 - 00:33:59,180] kt,
+- [00:33:59,180 - 00:34:02,140] I don't want to confuse time and temperature.
+- [00:34:05,360 - 00:34:07,280] This can be written in another way,
+- [00:34:07,280 - 00:34:08,020] incidentally.
+- [00:34:08,100 - 00:34:09,719] Let's write it another way.
+- [00:34:09,980 - 00:34:10,940] Instead of nu,
+- [00:34:10,940 - 00:34:15,480] let's remember that nu is equal to c over lambda.
+- [00:34:17,120 - 00:34:19,500] Nu equals c over lambda.
+- [00:34:20,159 - 00:34:21,739] We can plug that in here.
+- [00:34:22,960 - 00:34:29,100] And this says h c over lambda.
+- [00:34:42,339 - 00:34:44,360] And this is the
+- [00:34:44,360 - 00:34:44,540] So,
+- [00:34:44,540 - 00:34:48,730] high frequencies or small wavelengths
+- [00:34:48,730 - 00:34:52,920] are strongly affected by quantum mechanics,
+- [00:34:53,199 - 00:34:55,960] and the spectrum is driven very quickly to 0.
+- [00:34:56,600 - 00:34:58,400] There's a crossover point.
+- [00:34:59,100 - 00:35:05,230] The crossover point is exactly at
+- [00:35:05,230 - 00:35:11,360] lambda equals h c over kt.
+- [00:35:12,820 - 00:35:14,340] That's the crossover point.
+- [00:35:14,640 - 00:35:15,740] And more than that,
+- [00:35:15,740 - 00:35:18,660] that's where most of the power is.
+- [00:35:19,420 - 00:35:20,740] Most of the power,
+- [00:35:20,740 - 00:35:23,380] most of the energy density,
+- [00:35:23,380 - 00:35:26,180] or at least the largest part of it,
+- [00:35:26,180 - 00:35:31,280] is contained in wavelengths that are
+- [00:35:31,280 - 00:35:36,380] proportional to 1 over the temperature.
+- [00:35:36,700 - 00:35:39,120] That allows us to establish a connection,
+- [00:35:39,120 - 00:35:39,720] if you like,
+- [00:35:39,720 - 00:35:42,020] between lambda and temperature.
+- [00:35:42,800 - 00:35:43,480] Now,
+- [00:35:43,480 - 00:35:46,530] we can sort of use
+- [00:35:46,530 - 00:35:49,580] that connection between lambda and temperature,
+- [00:35:49,740 - 00:35:52,960] even when a system is not in strict thermal equilibrium,
+- [00:35:52,960 - 00:35:57,080] just to get a rough sense sometimes.
+- [00:35:58,060 - 00:36:01,790] If we know that we have a bunch
+- [00:36:01,790 - 00:36:05,520] of photons whose average wavelength is some particular wavelength,
+- [00:36:05,960 - 00:36:08,130] and we want to know how potent they
+- [00:36:08,130 - 00:36:10,300] are at doing various things to a system,
+- [00:36:10,560 - 00:36:11,660] we can,
+- [00:36:11,660 - 00:36:12,720] roughly speaking,
+- [00:36:12,720 - 00:36:14,900] replace it by the question of
+- [00:36:14,900 - 00:36:17,210] how potent would be
+- [00:36:17,210 - 00:36:19,520] radiation at a corresponding temperature.
+- [00:36:23,600 - 00:36:25,160] And so we could look at
+- [00:36:25,160 - 00:36:26,720] the photons that we see today,
+- [00:36:26,960 - 00:36:29,320] and from the bulk of the
+- [00:36:29,320 - 00:36:31,680] photons that we see in the universe,
+- [00:36:33,440 - 00:36:35,370] the overwhelming majority of
+- [00:36:35,370 - 00:36:37,300] them have a particular wavelength.
+- [00:36:37,520 - 00:36:38,860] The wavelength is about a millimeter.
+- [00:36:40,320 - 00:36:44,260] And that allows us to associate with it a temperature.
+- [00:36:45,580 - 00:36:48,660] And that temperature is about 3 degrees.
+- [00:36:49,600 - 00:36:51,020] We'll come back to that.
+- [00:36:51,020 - 00:36:53,400] But that does not say,
+- [00:36:53,400 - 00:36:54,820] and it's not interpreted,
+- [00:36:54,840 - 00:36:57,450] we should not interpret that in itself
+- [00:36:57,450 - 00:37:00,060] as saying anything is in thermal equilibrium.
+- [00:37:00,620 - 00:37:02,040] That's just a rough correspondence.
+- [00:37:02,500 - 00:37:04,240] It turns out to be much better than that,
+- [00:37:04,240 - 00:37:05,380] but for reasons we'll come to.
+- [00:37:05,600 - 00:37:05,800] Yeah?
+- [00:37:06,060 - 00:37:06,940] Quick question.
+- [00:37:07,260 - 00:37:08,920] When Planck worked this out,
+- [00:37:08,920 - 00:37:11,350] was he working with a model
+- [00:37:11,350 - 00:37:13,780] of electrons and protons in that body?
+- [00:37:13,780 - 00:37:14,060] No,
+- [00:37:14,060 - 00:37:14,400] no,
+- [00:37:14,400 - 00:37:14,600] no,
+- [00:37:14,600 - 00:37:14,820] no,
+- [00:37:14,820 - 00:37:15,040] no,
+- [00:37:15,040 - 00:37:15,220] no,
+- [00:37:15,220 - 00:37:15,460] no,
+- [00:37:15,460 - 00:37:15,560] no,
+- [00:37:15,560 - 00:37:15,640] no,
+- [00:37:15,640 - 00:37:15,760] no.
+- [00:37:16,380 - 00:37:16,880] No.
+- [00:37:17,260 - 00:37:17,260] Um,
+- [00:37:17,260 - 00:37:19,660] uh,
+- [00:37:19,660 - 00:37:20,960] Planck was doing a,
+- [00:37:21,020 - 00:37:22,220] he was doing a combination of two things.
+- [00:37:22,260 - 00:37:25,000] He was doing a combination of curve fitting.
+- [00:37:26,520 - 00:37:27,240] Um,
+- [00:37:27,240 - 00:37:27,960] okay,
+- [00:37:27,960 - 00:37:30,640] so various things were known.
+- [00:37:31,700 - 00:37:33,840] The fact that the wavelength,
+- [00:37:33,840 - 00:37:37,720] that the central wavelength here shifts with temperature,
+- [00:37:38,759 - 00:37:39,700] that was known,
+- [00:37:39,700 - 00:37:40,820] it was called,
+- [00:37:40,820 - 00:37:42,580] it's called Wien's displacement law.
+- [00:37:43,000 - 00:37:44,940] It's the displacement of the central
+- [00:37:44,940 - 00:37:46,880] peak as a function of temperature.
+- [00:37:47,779 - 00:37:51,000] Wien was a physicist of the 1970s.
+- [00:37:51,020 - 00:37:51,260] He was a scientist of the 19th century.
+- [00:37:52,160 - 00:37:52,640] And,
+- [00:37:52,640 - 00:37:53,040] uh,
+- [00:37:53,040 - 00:37:54,440] Planck knew that very well.
+- [00:37:55,080 - 00:37:58,200] And he was able to read off the displacement law.
+- [00:37:58,560 - 00:38:00,880] He was able to read off a constant h.
+- [00:38:03,680 - 00:38:04,160] Uh,
+- [00:38:04,160 - 00:38:05,500] k was nothing new.
+- [00:38:05,660 - 00:38:07,130] Everybody knew that k and
+- [00:38:07,130 - 00:38:08,600] temperature go together by that time.
+- [00:38:08,980 - 00:38:10,260] Speed of light was known.
+- [00:38:10,840 - 00:38:12,680] And so the displacement law,
+- [00:38:12,680 - 00:38:15,020] which said that lambda goes as one over the temperature,
+- [00:38:15,320 - 00:38:18,760] was parameterized by a new constant called h.
+- [00:38:18,760 - 00:38:20,120] So the,
+- [00:38:20,120 - 00:38:22,680] the most important part of what Planck
+- [00:38:22,680 - 00:38:25,240] did was just to identify this constant,
+- [00:38:25,420 - 00:38:26,580] to identify the constant.
+- [00:38:26,820 - 00:38:27,100] And,
+- [00:38:27,100 - 00:38:27,240] uh,
+- [00:38:27,240 - 00:38:28,120] and this was,
+- [00:38:28,120 - 00:38:30,800] it's much deeper than it sounds.
+- [00:38:31,560 - 00:38:32,060] Um,
+- [00:38:32,060 - 00:38:35,060] he also recognized that it had
+- [00:38:35,060 - 00:38:38,060] something to do with harmonic oscillators.
+- [00:38:38,740 - 00:38:39,740] He recognized,
+- [00:38:39,740 - 00:38:41,180] but he had the wrong idea.
+- [00:38:41,380 - 00:38:44,470] He didn't realize that it had to
+- [00:38:44,470 - 00:38:47,560] do with the radiation being described by oscillators.
+- [00:38:47,560 - 00:38:51,800] He thought that it had to do with the
+- [00:38:51,800 - 00:38:56,040] walls of the box containing harmonic oscillators of some sort.
+- [00:38:56,200 - 00:38:57,020] Oscillating systems.
+- [00:38:57,500 - 00:38:59,820] It was before atoms were known for sure.
+- [00:39:00,700 - 00:39:02,260] Molecules were not really understood.
+- [00:39:02,960 - 00:39:04,630] But he had the idea that there's
+- [00:39:04,630 - 00:39:06,300] something vibrating in the walls of the box.
+- [00:39:06,640 - 00:39:08,800] And the walls of the box are emitting.
+- [00:39:09,100 - 00:39:10,260] And he had some right ideas,
+- [00:39:10,260 - 00:39:11,060] some wrong ideas.
+- [00:39:11,240 - 00:39:11,760] It was Einstein,
+- [00:39:11,760 - 00:39:12,320] of course,
+- [00:39:12,320 - 00:39:12,560] who,
+- [00:39:12,560 - 00:39:12,760] uh,
+- [00:39:12,760 - 00:39:15,500] who derived this,
+- [00:39:15,500 - 00:39:15,980] uh,
+- [00:39:16,720 - 00:39:19,480] who derived this formula in
+- [00:39:19,480 - 00:39:22,240] detail from a set of principles.
+- [00:39:23,340 - 00:39:24,220] But we're not,
+- [00:39:24,220 - 00:39:25,580] that's not where we're going today.
+- [00:39:27,160 - 00:39:27,760] Okay,
+- [00:39:27,760 - 00:39:28,280] so,
+- [00:39:28,280 - 00:39:29,920] um,
+- [00:39:29,920 - 00:39:32,880] yeah?
+- [00:39:33,900 - 00:39:36,340] The formula you used from there,
+- [00:39:36,340 - 00:39:36,980] how does,
+- [00:39:36,980 - 00:39:38,860] how do the units match up
+- [00:39:38,860 - 00:39:40,740] with what you put on the top?
+- [00:39:40,880 - 00:39:41,480] And every time,
+- [00:39:41,480 - 00:39:43,380] I divide by volume.
+- [00:39:44,500 - 00:39:45,100] Okay.
+- [00:39:45,980 - 00:39:47,080] You really want to go through it,
+- [00:39:47,080 - 00:39:48,620] or do you want to do it at home?
+- [00:39:48,760 - 00:39:50,660] T times k Boltzmann is energy,
+- [00:39:50,660 - 00:39:50,960] right?
+- [00:39:51,840 - 00:39:53,560] T times k Boltzmann is energy.
+- [00:39:54,520 - 00:39:54,920] Yeah.
+- [00:39:55,640 - 00:39:58,420] So the rest of the units go through,
+- [00:39:58,420 - 00:39:58,780] right?
+- [00:39:59,620 - 00:40:00,020] Well,
+- [00:40:00,020 - 00:40:00,280] I don't know.
+- [00:40:00,360 - 00:40:01,860] If you want me to work it out,
+- [00:40:01,860 - 00:40:02,380] we can do it.
+- [00:40:02,580 - 00:40:03,400] They work out.
+- [00:40:03,780 - 00:40:04,180] Hm?
+- [00:40:04,300 - 00:40:08,340] H bar is energy times C is lambda over time.
+- [00:40:08,540 - 00:40:08,840] Hm?
+- [00:40:08,900 - 00:40:10,620] It's energy times the,
+- [00:40:10,620 - 00:40:11,740] it gives you lambda.
+- [00:40:12,480 - 00:40:13,060] Thank you.
+- [00:40:14,640 - 00:40:15,960] I think he's looking at it.
+- [00:40:15,980 - 00:40:17,980] I think I and the units of I.
+- [00:40:19,060 - 00:40:19,620] Yeah,
+- [00:40:19,620 - 00:40:20,500] the units of I.
+- [00:40:22,380 - 00:40:24,100] So the units of I,
+- [00:40:24,100 - 00:40:24,940] let's see,
+- [00:40:24,940 - 00:40:28,160] the units of I are energy
+- [00:40:28,160 - 00:40:31,380] per unit volume per unit frequency.
+- [00:40:32,360 - 00:40:33,900] Or at least that's what they better be.
+- [00:40:38,520 - 00:40:39,080] Uh,
+- [00:40:39,080 - 00:40:40,240] do I have it wrong?
+- [00:40:42,260 - 00:40:43,860] K times T is energy.
+- [00:40:47,660 - 00:40:48,600] All right,
+- [00:40:48,600 - 00:40:49,560] let's try it.
+- [00:40:49,600 - 00:40:50,320] Let's see what we get.
+- [00:40:54,570 - 00:40:54,920] Okay.
+- [00:40:56,760 - 00:41:05,020] I say I has units of energy divided by frequency,
+- [00:41:05,020 - 00:41:08,300] energy per unit frequency per unit volume.
+- [00:41:09,590 - 00:41:10,180] All right.
+- [00:41:10,220 - 00:41:12,220] And that is energy.
+- [00:41:12,220 - 00:41:13,780] What's the units of energy?
+- [00:41:13,900 - 00:41:14,860] What did we say energy was?
+- [00:41:19,600 - 00:41:21,700] Mass times length squared,
+- [00:41:21,700 - 00:41:23,440] mass times velocity squared.
+- [00:41:23,700 - 00:41:23,880] All right,
+- [00:41:23,880 - 00:41:25,840] mass times length squared over time squared.
+- [00:41:27,800 - 00:41:28,740] That's energy.
+- [00:41:30,100 - 00:41:31,340] What about frequency?
+- [00:41:31,620 - 00:41:33,720] Frequency is one over time.
+- [00:41:34,360 - 00:41:36,500] So that would put a time upstairs.
+- [00:41:39,420 - 00:41:42,200] And volume downstairs would be length two.
+- [00:41:46,820 - 00:41:47,860] All right,
+- [00:41:47,860 - 00:41:48,860] so let's see what we get.
+- [00:41:49,040 - 00:41:54,300] That's mass divided by length times time.
+- [00:41:56,100 - 00:41:58,580] Mass divided by length times time.
+- [00:41:59,340 - 00:42:01,860] Now we have to go over to the right-hand side.
+- [00:42:02,140 - 00:42:04,800] I probably made a mistake in substituting for the
+- [00:42:04,800 - 00:42:07,460] energy there since the energy already appears on this side.
+- [00:42:07,540 - 00:42:08,320] But let's do it anyway.
+- [00:42:08,900 - 00:42:09,420] On.
+- [00:42:10,180 - 00:42:12,200] That's the units of intensity.
+- [00:42:12,540 - 00:42:17,220] The units on the right-hand side are again energy.
+- [00:42:17,940 - 00:42:19,720] This is the right-hand side.
+- [00:42:20,780 - 00:42:22,220] Right-hand side.
+- [00:42:25,720 - 00:42:26,440] Energy,
+- [00:42:26,440 - 00:42:31,540] which is again mass times length squared over time squared.
+- [00:42:35,120 - 00:42:37,720] Frequency squared is one over time squared.
+- [00:42:46,840 - 00:42:48,280] There's the energy minus.
+- [00:42:48,400 - 00:42:49,060] New energy minus by.
+- [00:42:52,120 - 00:42:53,100] There's that energy.
+- [00:42:53,100 - 00:42:53,200] And we want to get all the energy back.
+- [00:42:53,200 - 00:42:53,300] Because you're realise you're cooking up time.
+- [00:42:54,860 - 00:42:54,880] You false it hasn't sunk your laser.
+- [00:42:54,880 - 00:42:56,160] So if I'm using something,
+- [00:42:56,160 - 00:42:56,160] I can use a little more energy.
+- [00:42:56,160 - 00:42:56,320] No energy out of it.
+- [00:42:56,320 - 00:42:57,140] That makes sense more than any energy out of it.
+- [00:42:57,140 - 00:42:57,440] I want to show you the anda next decoration.
+- [00:42:57,880 - 00:42:59,480] This segregated occasion.
+- [00:42:59,480 - 00:42:59,480] Right,
+- [00:42:59,480 - 00:42:59,580] I'm right here.
+- [00:43:03,960 - 00:43:05,240] Now we'll use it a little bit harder.
+- [00:43:05,420 - 00:43:07,260] Air go over here into theapa.
+- [00:43:08,399 - 00:43:09,780] how much are we off by?
+- [00:43:14,160 - 00:43:15,620] yeah it looks like we're
+- [00:43:15,620 - 00:43:17,080] off by a factor of c
+- [00:43:20,000 - 00:43:24,340] L squared cancels
+- [00:43:28,799 - 00:43:30,640] yeah we're off by a factor of c
+- [00:43:30,640 - 00:43:31,080] somewhere
+- [00:43:35,100 - 00:43:36,360] length times time
+- [00:43:36,360 - 00:43:39,680] is length over time squared
+- [00:43:40,520 - 00:43:42,600] times time over length
+- [00:43:43,320 - 00:43:44,560] which means a c
+- [00:43:44,560 - 00:43:45,800] we're off by a factor of c
+- [00:43:45,800 - 00:43:47,280] so is it upstairs or downstairs?
+- [00:43:47,600 - 00:43:48,360] I don't know what happened
+- [00:43:49,300 - 00:43:50,940] c cubed on the bottom
+- [00:43:52,960 - 00:43:53,560] yeah
+- [00:43:55,440 - 00:43:58,460] my guess is that the definition of intensity
+- [00:43:58,460 - 00:44:01,100] has an extra factor of c in it
+- [00:44:01,100 - 00:44:02,120] that I didn't know about
+- [00:44:02,120 - 00:44:04,800] because I remember this
+- [00:44:04,800 - 00:44:06,220] well I mean
+- [00:44:06,220 - 00:44:06,340] well I mean
+- [00:44:06,360 - 00:44:07,460] I may have remembered the formula wrong
+- [00:44:07,460 - 00:44:11,820] I may have remembered the speed of light factor wrong
+- [00:44:11,820 - 00:44:14,540] the speed of light of course is
+- [00:44:14,540 - 00:44:15,900] yeah okay so we
+- [00:44:15,900 - 00:44:16,980] what is the right formula?
+- [00:44:17,140 - 00:44:18,260] c cubed downstairs?
+- [00:44:19,660 - 00:44:21,900] c cubed downstairs looks like
+- [00:44:24,840 - 00:44:28,620] and now you can also ask about this exponential here
+- [00:44:28,620 - 00:44:29,840] is that dimensionless?
+- [00:44:30,060 - 00:44:31,740] it should be dimensionless because it
+- [00:44:31,740 - 00:44:33,420] has to be compared with one
+- [00:44:33,420 - 00:44:35,960] and that I'm sure is dimensionless
+- [00:44:37,000 - 00:44:37,800] h nu
+- [00:44:37,800 - 00:44:38,400] so this is a constant
+- [00:44:38,400 - 00:44:38,420] it's like that
+- [00:44:38,420 - 00:44:38,440] h nu
+- [00:44:38,440 - 00:44:38,840] and what is that?
+- [00:44:38,840 - 00:44:39,380] that's an energy
+- [00:44:39,380 - 00:44:40,680] e equals h nu
+- [00:44:40,680 - 00:44:42,080] everybody knows that formula right?
+- [00:44:42,180 - 00:44:43,300] energy equals h nu
+- [00:44:43,300 - 00:44:44,760] and kt is also an energy
+- [00:44:44,760 - 00:44:46,460] so we're in good shape
+- [00:44:46,460 - 00:44:47,400] apart from that
+- [00:44:48,040 - 00:44:49,800] speed of light cubed
+- [00:44:49,800 - 00:44:50,380] which I
+- [00:44:50,380 - 00:44:51,020] blew
+- [00:44:55,680 - 00:44:56,840] all right
+- [00:44:56,840 - 00:44:57,380] so in any way
+- [00:44:57,380 - 00:44:58,960] that has no effect on
+- [00:44:58,960 - 00:45:01,320] this relationship between
+- [00:45:01,320 - 00:45:05,280] frequencies or wavelengths and temperatures.
+- [00:45:05,280 - 00:45:08,800] Given a temperature,
+- [00:45:08,800 - 00:45:09,820] this
+- [00:45:09,820 - 00:45:12,040] wavelength is called the thermal wavelength,
+- [00:45:12,040 - 00:45:13,360] the thermal wavelength
+- [00:45:13,360 - 00:45:14,680] associated with that temperature.
+- [00:45:14,680 - 00:45:18,740] Now there's something else helpful or
+- [00:45:19,620 - 00:45:21,380] simplifying about this formula.
+- [00:45:21,380 - 00:45:28,660] Let's just take the formula and get rid
+- [00:45:28,660 - 00:45:32,160] of everything that's irrelevant for my purposes right now.
+- [00:45:32,160 - 00:45:34,340] 2H and C are
+- [00:45:34,340 - 00:45:34,860] constants.
+- [00:45:34,860 - 00:45:36,010] So let me take them out of
+- [00:45:36,010 - 00:45:37,160] here and just say this is a
+- [00:45:37,160 - 00:45:38,120] proportionality.
+- [00:45:38,120 - 00:45:40,500] This is a proportionality.
+- [00:45:40,500 - 00:45:43,040] I is proportional to nu
+- [00:45:43,040 - 00:45:46,300] cubed times this thing over here.
+- [00:45:46,300 - 00:45:51,460] Notice that what's in over here is a function
+- [00:45:51,460 - 00:45:53,620] of nu divided by temperature.
+- [00:45:53,620 - 00:45:56,360] What's in here.
+- [00:45:56,360 - 00:45:58,460] It contains constants K
+- [00:45:58,460 - 00:45:58,640] and C,
+- [00:45:58,640 - 00:45:58,640] and this is the constant.
+- [00:45:58,640 - 00:45:58,640] And I'm going to write it down in the
+- [00:45:58,640 - 00:45:59,180] and h-bar,
+- [00:45:59,180 - 00:46:02,480] but its dependence on nu,
+- [00:46:02,480 - 00:46:04,060] the frequency,
+- [00:46:04,060 - 00:46:07,880] is through the ratio of nu to temperature.
+- [00:46:08,180 - 00:46:09,000] Well,
+- [00:46:09,000 - 00:46:12,960] let's divide this by temperature cubed,
+- [00:46:12,960 - 00:46:16,000] and now multiply it by temperature cubed.
+- [00:46:19,240 - 00:46:23,360] What I'm interested in is the shape of the curve.
+- [00:46:23,360 - 00:46:26,040] The shape of the curve here,
+- [00:46:26,040 - 00:46:31,000] and for the moment not the height of the curve.
+- [00:46:31,879 - 00:46:33,999] I'm interested for the moment only
+- [00:46:33,999 - 00:46:36,120] in the shape of this particular curve,
+- [00:46:36,120 - 00:46:38,280] and the shape
+- [00:46:38,280 - 00:46:42,530] of the curve as a function of nu is not influenced
+- [00:46:42,530 - 00:46:46,780] by whether I do or don't multiply by t cubed here.
+- [00:46:49,040 - 00:46:52,560] Multiplying by t cubed simply changes the
+- [00:46:52,560 - 00:46:53,340] overall nu.
+- [00:46:53,360 - 00:46:55,100] Normalization height of the curve,
+- [00:46:55,100 - 00:46:57,120] but it doesn't change its shape.
+- [00:46:57,940 - 00:47:01,700] Here is the thing which determines its universal shape,
+- [00:47:01,700 - 00:47:04,540] and notice that it's only a function
+- [00:47:04,879 - 00:47:08,020] of the ratio of nu to temperature.
+- [00:47:08,620 - 00:47:09,640] In other words,
+- [00:47:09,640 - 00:47:13,730] the shape of the curve dropping the factor
+- [00:47:13,730 - 00:47:17,820] t cubed is just a function of the
+- [00:47:17,820 - 00:47:20,500] ratio of nu to temperature.
+- [00:47:22,020 - 00:47:25,540] That means that if I change the temperature,
+- [00:47:25,540 - 00:47:30,800] all that happens is the curve rescales,
+- [00:47:30,800 - 00:47:31,240] the
+- [00:47:31,240 - 00:47:32,380] frequency rescales.
+- [00:47:32,400 - 00:47:32,780] For example,
+- [00:47:32,780 - 00:47:35,700] supposing I change the temperature by a factor of two.
+- [00:47:36,420 - 00:47:38,140] What happens to this curve?
+- [00:47:38,900 - 00:47:41,520] It simply rescales by a factor
+- [00:47:41,520 - 00:47:44,140] of two along the nu axis here.
+- [00:47:47,020 - 00:47:47,620] Alright,
+- [00:47:47,620 - 00:47:50,380] so I just stretch it by a factor of two.
+- [00:47:51,100 - 00:47:52,440] If I want to change the
+- [00:47:52,440 - 00:47:53,780] temperature by a factor of two.
+- [00:47:53,980 - 00:47:55,350] If I want to change the
+- [00:47:55,350 - 00:47:56,720] temperature by a factor of a hundred,
+- [00:47:56,720 - 00:47:59,380] I just stretch the curve by
+- [00:47:59,380 - 00:48:00,320] a factor of a hundred.
+- [00:48:00,880 - 00:48:02,260] In terms of wavelengths,
+- [00:48:02,260 - 00:48:04,540] I do the same thing.
+- [00:48:05,300 - 00:48:09,280] Remember that nu is proportional to one over the wavelength.
+- [00:48:09,820 - 00:48:11,860] We could write it this way if we wanted.
+- [00:48:12,700 - 00:48:13,860] One over the wavelength.
+- [00:48:14,580 - 00:48:16,220] If I change the temperature,
+- [00:48:16,220 - 00:48:18,460] then as a function of wavelength,
+- [00:48:18,460 - 00:48:20,080] I just squeeze the curve.
+- [00:48:21,920 - 00:48:22,440] Alright,
+- [00:48:22,440 - 00:48:24,200] so there's a universal behavior to
+- [00:48:24,200 - 00:48:25,960] the shape of the black body spectrum.
+- [00:48:27,580 - 00:48:30,620] And if you know it at one temperature,
+- [00:48:30,620 - 00:48:33,160] and you want to get it at another temperature,
+- [00:48:33,440 - 00:48:34,980] you simply rescale it.
+- [00:48:35,460 - 00:48:38,420] You rescale the frequency proportional
+- [00:48:38,420 - 00:48:41,380] to the rescaling of the temperature.
+- [00:48:42,180 - 00:48:43,660] And that's an important point.
+- [00:48:43,740 - 00:48:45,430] This is going to come
+- [00:48:45,430 - 00:48:47,120] up as a very important fact.
+- [00:48:48,820 - 00:48:50,060] And it's a simplifying.
+- [00:48:50,060 - 00:48:50,420] It's a simplifying fact.
+- [00:48:53,820 - 00:48:54,420] Okay.
+- [00:48:58,100 - 00:48:58,860] As I said,
+- [00:48:59,500 - 00:49:00,400] neutral atoms,
+- [00:49:00,400 - 00:49:01,620] and in fact today,
+- [00:49:02,800 - 00:49:05,330] most of the electrons and protons in
+- [00:49:05,330 - 00:49:07,860] the universe are bound up into atoms.
+- [00:49:08,400 - 00:49:09,920] And furthermore,
+- [00:49:09,920 - 00:49:10,800] they're very dilute.
+- [00:49:10,800 - 00:49:13,100] There aren't very many of them per unit volume.
+- [00:49:14,080 - 00:49:16,240] Many more photons than there
+- [00:49:16,240 - 00:49:18,400] are protons and neutron scatterers.
+- [00:49:18,520 - 00:49:20,040] And the scatterers aren't
+- [00:49:20,060 - 00:49:21,580] really available for scattering.
+- [00:49:21,840 - 00:49:23,680] They're bound up into these nuclei.
+- [00:49:24,660 - 00:49:30,680] And so the universe today is not in thermal equilibrium.
+- [00:49:33,420 - 00:49:37,410] The fact that there is a temperature associated with
+- [00:49:37,410 - 00:49:41,400] the black body radiation is a kind of accident.
+- [00:49:41,700 - 00:49:43,740] And we'll come to what that accident is.
+- [00:49:44,820 - 00:49:45,460] Okay,
+- [00:49:45,460 - 00:49:48,480] so when the temperature is too low in the box,
+- [00:49:48,560 - 00:49:49,480] Okay,
+- [00:49:49,480 - 00:49:49,480] so when the temperature is too low in the box,
+- [00:49:49,480 - 00:49:49,480] Okay,
+- [00:49:49,480 - 00:49:49,660] so when the temperature is too low in the box,
+- [00:49:53,840 - 00:49:57,180] the radiation decouples.
+- [00:49:57,180 - 00:49:59,060] The right term is that
+- [00:49:59,060 - 00:50:00,940] it decouples from the charged particles.
+- [00:50:01,080 - 00:50:02,380] When the temperature is too low,
+- [00:50:02,380 - 00:50:04,480] the charged particles form atoms.
+- [00:50:04,840 - 00:50:06,760] The atoms are poor scatterers.
+- [00:50:06,940 - 00:50:08,900] And for the most part,
+- [00:50:08,900 - 00:50:10,960] the photons in the box,
+- [00:50:10,960 - 00:50:12,220] the radiation in the box,
+- [00:50:12,819 - 00:50:14,980] doesn't even see the charged particles.
+- [00:50:15,600 - 00:50:18,460] It just goes right past them and decouples from them.
+- [00:50:18,560 - 00:50:19,580] That's the right term.
+- [00:50:21,760 - 00:50:25,960] Now let's imagine starting with this box.
+- [00:50:27,920 - 00:50:29,540] And for whatever reason,
+- [00:50:29,540 - 00:50:33,100] let's suppose it starts at a high temperature.
+- [00:50:34,380 - 00:50:36,680] Let's suppose that it starts at a high temperature,
+- [00:50:36,680 - 00:50:39,660] so high that the electrons
+- [00:50:39,660 - 00:50:42,640] and protons in it are ionized.
+- [00:50:42,900 - 00:50:45,320] That they're not bound into atoms,
+- [00:50:45,320 - 00:50:46,720] or at least that not all
+- [00:50:46,720 - 00:50:48,120] of them are bound into atoms.
+- [00:50:48,580 - 00:50:50,040] And so it does have a temperature.
+- [00:50:50,060 - 00:50:51,680] It does have a thermal equilibrium.
+- [00:50:52,140 - 00:50:54,480] And the radiation spectrum looks
+- [00:50:54,480 - 00:50:56,820] like the black body radiation spectrum.
+- [00:50:57,380 - 00:51:00,200] Now let's start to expand the box.
+- [00:51:01,000 - 00:51:02,700] As we expand the box,
+- [00:51:02,700 - 00:51:04,700] just expand it physically,
+- [00:51:04,700 - 00:51:05,980] as we expand the box,
+- [00:51:05,980 - 00:51:06,580] it cools.
+- [00:51:07,720 - 00:51:09,590] It cools because the various
+- [00:51:09,590 - 00:51:11,460] particles do work on the box.
+- [00:51:12,160 - 00:51:15,880] And the work depletes the energy inside the box.
+- [00:51:15,980 - 00:51:16,640] The box cools,
+- [00:51:16,640 - 00:51:17,920] the temperature goes down,
+- [00:51:17,920 - 00:51:18,340] of course.
+- [00:51:18,340 - 00:51:22,240] And eventually it gets so cold in the
+- [00:51:22,240 - 00:51:26,140] box that the electrons and protons combine into atoms.
+- [00:51:26,380 - 00:51:31,060] And there just aren't enough sources of scattering.
+- [00:51:31,280 - 00:51:33,600] There aren't enough high energy photons.
+- [00:51:33,940 - 00:51:38,220] There aren't enough oomph in there to ionize,
+- [00:51:38,220 - 00:51:39,640] to reionize the atoms.
+- [00:51:41,059 - 00:51:43,080] So what happens?
+- [00:51:43,800 - 00:51:48,320] The radiation decouples from the atoms.
+- [00:51:48,320 - 00:51:51,300] The atoms go their own way.
+- [00:51:51,420 - 00:51:52,580] Who knows what happens to them?
+- [00:51:52,820 - 00:51:56,700] Their temperature may also go down.
+- [00:51:57,020 - 00:51:59,520] The temperature of the radiation goes down.
+- [00:52:01,260 - 00:52:03,600] But it doesn't really stay in thermal equilibrium.
+- [00:52:04,220 - 00:52:06,740] To say it's in thermal equilibrium means the temperature
+- [00:52:06,740 - 00:52:09,260] of every part of the system is the same.
+- [00:52:10,120 - 00:52:12,800] So the system falls out of thermal equilibrium.
+- [00:52:13,240 - 00:52:15,720] At some point it falls out of thermal equilibrium.
+- [00:52:15,980 - 00:52:16,880] But nevertheless,
+- [00:52:16,880 - 00:52:18,300] as we continue to expand the box,
+- [00:52:18,300 - 00:52:21,880] the shape of the black body
+- [00:52:21,880 - 00:52:25,460] spectrum here is sort of frozen in.
+- [00:52:26,280 - 00:52:29,440] It's frozen in for the simple reason that
+- [00:52:29,440 - 00:52:32,600] when you expand the size of the box,
+- [00:52:32,820 - 00:52:36,650] every single photon in it just has
+- [00:52:36,650 - 00:52:40,480] its wavelength stretched by the same factor.
+- [00:52:40,900 - 00:52:44,020] Every photon is stretched by the same factor.
+- [00:52:44,280 - 00:52:45,740] And as we saw,
+- [00:52:49,960 - 00:52:53,640] stretching the wavelengths by a factor of two,
+- [00:52:53,640 - 00:52:54,320] for example,
+- [00:52:54,400 - 00:52:55,700] in this formula,
+- [00:52:55,700 - 00:52:57,340] in this formula here,
+- [00:52:57,340 - 00:52:59,160] is equivalent to just changing the
+- [00:52:59,160 - 00:53:00,980] temperature by a factor of two.
+- [00:53:02,340 - 00:53:04,120] So as the box expands,
+- [00:53:04,120 - 00:53:06,360] every wavelength gets doubled,
+- [00:53:06,360 - 00:53:07,000] let's say.
+- [00:53:09,060 - 00:53:10,300] It mimics,
+- [00:53:10,300 - 00:53:13,260] it mimics the effect of just lowering
+- [00:53:13,260 - 00:53:16,220] the temperature by a factor of two.
+- [00:53:16,220 - 00:53:17,880] But only for the radiation.
+- [00:53:18,600 - 00:53:21,020] What happens to the other particles?
+- [00:53:21,200 - 00:53:21,400] Well,
+- [00:53:21,400 - 00:53:22,420] they do whatever they do,
+- [00:53:22,420 - 00:53:25,220] but they don't couple very much to the radiation.
+- [00:53:25,990 - 00:53:26,780] So in general,
+- [00:53:26,780 - 00:53:29,920] what will happen is the molecules,
+- [00:53:29,920 - 00:53:31,600] not the molecules,
+- [00:53:31,600 - 00:53:32,600] the atoms in there,
+- [00:53:32,760 - 00:53:35,420] will have a different temperature than the radiation.
+- [00:53:35,860 - 00:53:37,850] They won't come to thermal
+- [00:53:37,850 - 00:53:39,840] equilibrium because they're not efficient scatterers,
+- [00:53:39,920 - 00:53:44,840] but the radiation will have exactly the same form,
+- [00:53:46,220 - 00:53:49,180] the blackbody spectrum will not change,
+- [00:53:49,380 - 00:53:52,110] except insofar as it rescales
+- [00:53:52,110 - 00:53:54,840] according to the change in volume,
+- [00:53:54,900 - 00:53:58,840] or the change in linear dimension of the box.
+- [00:53:59,380 - 00:54:01,520] If the linear dimension of the box doubles,
+- [00:54:02,480 - 00:54:04,090] the effect of temperature goes
+- [00:54:04,090 - 00:54:05,700] down by a factor of two.
+- [00:54:05,900 - 00:54:07,120] If it quadruples,
+- [00:54:07,120 - 00:54:08,530] the effect of temperature goes
+- [00:54:08,530 - 00:54:09,940] down by a factor of four,
+- [00:54:09,940 - 00:54:10,860] and so forth.
+- [00:54:14,380 - 00:54:15,140] That's why,
+- [00:54:15,140 - 00:54:15,800] today,
+- [00:54:17,080 - 00:54:19,500] when the universe is far too cold
+- [00:54:19,500 - 00:54:21,920] for it to be in thermal equilibrium,
+- [00:54:22,140 - 00:54:23,700] radiation with matter,
+- [00:54:23,940 - 00:54:24,840] nevertheless,
+- [00:54:24,840 - 00:54:28,110] the spectrum of radiation in
+- [00:54:28,110 - 00:54:31,380] the universe has the blackbody form.
+- [00:54:31,920 - 00:54:32,560] Again,
+- [00:54:32,560 - 00:54:33,080] I emphasize,
+- [00:54:33,080 - 00:54:35,010] it's not because the radiation
+- [00:54:35,010 - 00:54:36,940] is in equilibrium with anything,
+- [00:54:37,260 - 00:54:39,690] it's just because it had this shape
+- [00:54:39,690 - 00:54:42,120] frozen in at some very early time,
+- [00:54:42,260 - 00:54:43,840] and maintained that shape.
+- [00:54:44,200 - 00:54:44,840] Now,
+- [00:54:44,840 - 00:54:46,200] how do we know that it had that shape?
+- [00:54:46,220 - 00:54:47,420] At a very early time?
+- [00:54:47,580 - 00:54:51,280] We know because we measure
+- [00:54:51,280 - 00:54:54,980] the shape of the blackbody spectrum,
+- [00:54:55,100 - 00:54:56,970] or we measure the shape of
+- [00:54:56,970 - 00:54:58,840] the photon spectrum in the universe,
+- [00:54:59,020 - 00:54:59,760] which,
+- [00:54:59,760 - 00:55:02,720] there's of course lots of different kinds of photons,
+- [00:55:02,860 - 00:55:04,200] there's gamma rays in the universe,
+- [00:55:04,480 - 00:55:06,720] there's ordinary light,
+- [00:55:06,720 - 00:55:07,520] starlight,
+- [00:55:07,520 - 00:55:08,760] and all that kind of stuff,
+- [00:55:08,900 - 00:55:12,300] but the overwhelming majority of photons are
+- [00:55:12,300 - 00:55:15,700] in the wavelength range of about a millimeter.
+- [00:55:16,220 - 00:55:19,640] Everything else is just more or less incidental,
+- [00:55:19,640 - 00:55:21,300] carries very little energy,
+- [00:55:21,460 - 00:55:25,180] and is fully accounted for by mechanisms that we understand.
+- [00:55:26,659 - 00:55:29,740] The dominant form of radiation,
+- [00:55:30,020 - 00:55:32,030] and I say that both by
+- [00:55:32,030 - 00:55:34,040] energy and by counting number of photons,
+- [00:55:34,460 - 00:55:35,760] the dominant form,
+- [00:55:35,760 - 00:55:36,700] by a long shot,
+- [00:55:36,960 - 00:55:41,360] is the blackbody microwave cosmic background radiation
+- [00:55:42,220 - 00:55:44,560] that was discovered in the 1960s.
+- [00:55:46,580 - 00:55:49,260] That radiation has been studied to death,
+- [00:55:49,480 - 00:55:51,870] and of course it does have
+- [00:55:51,870 - 00:55:54,260] the shape of a blackbody spectrum,
+- [00:55:54,560 - 00:55:55,980] to very high precision.
+- [00:55:57,320 - 00:56:00,260] The error bars by now are very,
+- [00:56:00,260 - 00:56:00,880] very tiny,
+- [00:56:01,040 - 00:56:02,760] I'm not sure exactly how big they are,
+- [00:56:02,840 - 00:56:10,660] but they're so small that the deviations from the blackbody
+- [00:56:10,660 - 00:56:11,780] are much,
+- [00:56:11,780 - 00:56:13,940] much smaller than the error bars.
+- [00:56:14,560 - 00:56:15,040] Well,
+- [00:56:15,040 - 00:56:15,970] how can we know that
+- [00:56:15,970 - 00:56:16,900] they're smaller than the error bars?
+- [00:56:17,960 - 00:56:18,560] Well,
+- [00:56:18,560 - 00:56:19,280] because we have many,
+- [00:56:19,280 - 00:56:21,240] many different frequencies we study it at,
+- [00:56:21,340 - 00:56:22,160] and statistically,
+- [00:56:22,160 - 00:56:25,920] the curve fits the blackbody spectrum
+- [00:56:26,920 - 00:56:28,400] to very high precision.
+- [00:56:28,860 - 00:56:29,440] So,
+- [00:56:29,440 - 00:56:36,460] what we see today is a universe filled with radiation
+- [00:56:36,460 - 00:56:37,760] that appears,
+- [00:56:37,760 - 00:56:39,520] for all practical purposes,
+- [00:56:39,840 - 00:56:43,560] to be the remnant of a thermal distribution
+- [00:56:44,380 - 00:56:46,270] that must have become thermalized
+- [00:56:46,270 - 00:56:48,160] at a much higher temperature
+- [00:56:48,740 - 00:56:52,500] when the electrons and protons were ionized.
+- [00:56:53,900 - 00:56:56,390] That's of course our best guess as to
+- [00:56:56,390 - 00:56:58,880] what the thermal history of the universe was.
+- [00:57:00,240 - 00:57:02,880] But let's expand on it a little bit.
+- [00:57:06,900 - 00:57:08,020] What can we say?
+- [00:57:08,280 - 00:57:09,120] First of all,
+- [00:57:09,120 - 00:57:09,820] what are the facts?
+- [00:57:10,180 - 00:57:11,900] What are the facts and what do we know?
+- [00:57:16,500 - 00:57:17,180] Question?
+- [00:57:17,580 - 00:57:17,900] Yeah.
+- [00:57:19,560 - 00:57:22,800] A photon that travels in vacuum.
+- [00:57:23,360 - 00:57:23,940] Supposing what?
+- [00:57:24,240 - 00:57:26,880] A photon traveling in vacuum.
+- [00:57:27,220 - 00:57:29,080] How much space does it occupy?
+- [00:57:29,380 - 00:57:31,580] How much space does a photon occupy?
+- [00:57:37,120 - 00:57:40,660] That is a loaded question.
+- [00:57:43,560 - 00:57:44,500] In some sense,
+- [00:57:44,500 - 00:57:46,500] the photon has no size at all,
+- [00:57:46,660 - 00:57:49,680] but it does have a quantum mechanical spread in its,
+- [00:57:51,200 - 00:57:53,200] let's call it its probability distribution.
+- [00:58:02,280 - 00:58:04,160] Let's say it occupies a
+- [00:58:04,160 - 00:58:06,040] size roughly equal to its wavelength,
+- [00:58:06,380 - 00:58:07,560] to the inverse temperature.
+- [00:58:08,020 - 00:58:08,500] Yeah,
+- [00:58:08,500 - 00:58:09,860] I think that's...
+- [00:58:09,860 - 00:58:12,900] The photons that are floating around,
+- [00:58:12,900 - 00:58:16,380] not only have a wavelength of about this big,
+- [00:58:16,620 - 00:58:19,020] but the wave packets that describe
+- [00:58:19,020 - 00:58:21,420] them are also roughly about that big.
+- [00:58:22,500 - 00:58:23,060] Yeah.
+- [00:58:23,180 - 00:58:23,880] So a millimeter.
+- [00:58:25,100 - 00:58:25,940] A millimeter.
+- [00:58:27,280 - 00:58:30,840] Characteristic size scale of the photons,
+- [00:58:31,160 - 00:58:31,920] the wave packets,
+- [00:58:31,920 - 00:58:33,120] the wavelengths,
+- [00:58:33,340 - 00:58:34,120] all the same,
+- [00:58:34,120 - 00:58:36,300] about a millimeter in today's...
+- [00:58:38,180 - 00:58:39,000] Say it again?
+- [00:58:39,120 - 00:58:41,040] The least function of the frequency of the photon.
+- [00:58:41,460 - 00:58:42,020] Yeah,
+- [00:58:42,020 - 00:58:42,160] yeah,
+- [00:58:42,160 - 00:58:42,280] yeah.
+- [00:58:42,280 - 00:58:42,940] But the peak,
+- [00:58:42,940 - 00:58:44,400] the peak here today,
+- [00:58:45,920 - 00:58:48,980] the peak here today is about one millimeter.
+- [00:58:49,400 - 00:58:49,740] Yeah.
+- [00:58:51,980 - 00:58:54,630] There's no universal well-defined notion
+- [00:58:54,630 - 00:58:57,280] of how big a particle is.
+- [00:58:57,380 - 00:58:59,890] There's several different things that you
+- [00:58:59,890 - 00:59:02,400] could call the size of it,
+- [00:59:02,500 - 00:59:04,980] so I'm not going to try to answer that.
+- [00:59:05,720 - 00:59:06,260] Okay.
+- [00:59:12,840 - 00:59:13,400] Yeah,
+- [00:59:13,400 - 00:59:16,260] there's another formula that I want to write down,
+- [00:59:16,440 - 00:59:18,400] which we'll come back to soon.
+- [00:59:28,040 - 00:59:31,010] Let's call this phenomenon where
+- [00:59:31,010 - 00:59:33,980] you go through the situation
+- [00:59:33,980 - 00:59:36,620] where you start with ionized gas,
+- [00:59:36,980 - 00:59:38,400] lower the temperature,
+- [00:59:38,700 - 00:59:41,220] and come out at the other side with lower temperature,
+- [00:59:41,220 - 00:59:43,100] with atoms.
+- [00:59:43,880 - 00:59:44,580] Okay?
+- [00:59:44,820 - 00:59:48,860] That's the phenomena of combination.
+- [00:59:49,740 - 00:59:51,300] It's called recombination,
+- [00:59:51,300 - 00:59:52,400] but it's just combination,
+- [00:59:52,740 - 00:59:55,700] where the electrons and protons combine into atoms.
+- [00:59:56,040 - 00:59:59,800] That's the point at which the scattering stops.
+- [01:00:00,300 - 01:00:01,760] That's called decoupling,
+- [01:00:03,300 - 01:00:06,600] and it's characterized by a certain temperature.
+- [01:00:06,980 - 01:00:08,920] It's characterized by a temperature,
+- [01:00:09,140 - 01:00:11,200] and it's characterized by a temperature,
+- [01:00:11,200 - 01:00:11,580] and it's characterized by a wavelength
+- [01:00:12,200 - 01:00:15,020] through the connection between wavelengths and temperature.
+- [01:00:16,240 - 01:00:16,840] Okay,
+- [01:00:16,840 - 01:00:19,700] what about the wavelength of the radiation today?
+- [01:00:21,300 - 01:00:23,780] The wavelength of the radiation today,
+- [01:00:24,400 - 01:00:25,760] let's write a formula.
+- [01:00:25,960 - 01:00:27,180] It's a sort of trivial formula.
+- [01:00:27,780 - 01:00:30,880] The wavelength of the radiation that we see today,
+- [01:00:31,020 - 01:00:34,100] the remnant radiation from this black-body spectrum,
+- [01:00:34,280 - 01:00:35,640] let's call it today,
+- [01:00:37,440 - 01:00:39,260] and now we mean the average wavelength.
+- [01:00:39,260 - 01:00:41,480] We mean the wavelength at the top of the peak.
+- [01:00:41,900 - 01:00:43,160] The wavelength today,
+- [01:00:43,840 - 01:00:46,880] divided by the wavelength at decoupling.
+- [01:00:48,080 - 01:00:50,060] Is this bigger than one or smaller than one?
+- [01:00:50,180 - 01:00:50,980] First question.
+- [01:00:51,300 - 01:00:52,940] Is it a big number or a small number?
+- [01:00:53,460 - 01:00:53,700] Hmm.
+- [01:00:54,380 - 01:00:55,180] It's a big number.
+- [01:00:55,300 - 01:00:56,380] The waves got stretched.
+- [01:00:56,620 - 01:00:57,040] Okay?
+- [01:00:57,540 - 01:00:58,920] What did they get stretched by?
+- [01:00:58,980 - 01:01:01,040] They got stretched by the expansion of the universe.
+- [01:01:01,700 - 01:01:03,880] So we can write that this is
+- [01:01:03,880 - 01:01:06,060] just the ratio of the scale factor today,
+- [01:01:08,100 - 01:01:08,580] divided,
+- [01:01:09,260 - 01:01:12,100] by the scale factor at
+- [01:01:12,100 - 01:01:14,940] the time that decoupling took place.
+- [01:01:16,760 - 01:01:19,520] The time that decoupling took
+- [01:01:19,520 - 01:01:22,280] place is not an absolutely rigorously,
+- [01:01:22,320 - 01:01:23,860] sharply defined time.
+- [01:01:24,260 - 01:01:26,660] It happened over some period of time,
+- [01:01:26,960 - 01:01:29,180] but the characteristic time that
+- [01:01:29,180 - 01:01:31,400] it happened over is relatively short,
+- [01:01:31,540 - 01:01:33,180] and so we can talk about
+- [01:01:33,180 - 01:01:34,820] the ratio of the scale factor.
+- [01:01:34,900 - 01:01:35,460] In other words,
+- [01:01:36,120 - 01:01:39,140] this ratio is the ratio by which the universe,
+- [01:01:39,260 - 01:01:41,680] expanded over that period of time,
+- [01:01:41,900 - 01:01:44,780] between the decoupling phenomenon and today.
+- [01:01:45,040 - 01:01:46,230] So it's interesting to ask
+- [01:01:46,230 - 01:01:47,420] what do we know about it?
+- [01:01:48,010 - 01:01:48,380] Okay.
+- [01:01:48,760 - 01:01:50,640] It is also equal,
+- [01:01:52,920 - 01:01:55,650] since the wavelengths are inversely
+- [01:01:55,650 - 01:01:58,380] proportional to the characteristic temperature,
+- [01:02:00,010 - 01:02:04,540] it's also equal to the ratio of the temperature
+- [01:02:05,760 - 01:02:08,800] at decoupling to the temperature today.
+- [01:02:11,520 - 01:02:12,720] T today.
+- [01:02:16,560 - 01:02:18,810] Lambda today over lambda decoupling
+- [01:02:18,810 - 01:02:21,060] is T decoupling over T today.
+- [01:02:21,560 - 01:02:22,160] Okay.
+- [01:02:22,380 - 01:02:23,260] Who's temperature?
+- [01:02:23,640 - 01:02:25,320] Not the temperature in this room.
+- [01:02:26,320 - 01:02:29,280] Not the temperature even in outer space,
+- [01:02:29,400 - 01:02:30,860] if you are out there floating around.
+- [01:02:31,300 - 01:02:32,740] That would be most of
+- [01:02:32,740 - 01:02:34,180] the temperature you would actually feel.
+- [01:02:34,460 - 01:02:36,680] Would probably have a lot more to
+- [01:02:36,680 - 01:02:38,900] do with the temperature of the molecules
+- [01:02:38,900 - 01:02:39,240] and the energy.
+- [01:02:39,240 - 01:02:40,000] There are tons of molecules and atoms out there.
+- [01:02:40,240 - 01:02:40,880] No,
+- [01:02:40,880 - 01:02:42,600] we're talking about the
+- [01:02:42,600 - 01:02:44,320] temperature of the microwave radiation,
+- [01:02:44,760 - 01:02:46,560] the microwave background radiation.
+- [01:02:48,520 - 01:02:51,440] And this is the ratio of the temperature today,
+- [01:02:51,600 - 01:02:52,820] the temperature of,
+- [01:02:52,900 - 01:02:55,520] this today is about three degrees.
+- [01:02:56,120 - 01:02:57,480] Three degrees centigrade,
+- [01:02:57,760 - 01:02:58,760] three degrees Kelvin.
+- [01:03:00,000 - 01:03:00,640] No.
+- [01:03:02,120 - 01:03:04,740] The temperature today is about three degrees.
+- [01:03:04,740 - 01:03:06,980] And it's an interesting question.
+- [01:03:07,160 - 01:03:10,760] What can we say about the temperature at decoupling?
+- [01:03:11,260 - 01:03:16,840] What was the temperature at which hydrogen recombined,
+- [01:03:16,860 - 01:03:17,960] or better yet,
+- [01:03:17,960 - 01:03:19,060] if you went in the other direction,
+- [01:03:19,260 - 01:03:21,940] what would be the temperature
+- [01:03:21,940 - 01:03:24,620] at which hydrogen would ionize?
+- [01:03:26,020 - 01:03:29,260] There's one simple answer to it.
+- [01:03:29,660 - 01:03:31,960] When the temperature is such
+- [01:03:33,320 - 01:03:38,820] that the photons have enough energy to ionize the atom.
+- [01:03:40,880 - 01:03:41,940] That's when the photon,
+- [01:03:42,220 - 01:03:43,810] anybody know what the energy of
+- [01:03:43,810 - 01:03:45,400] ionization of a hydrogen atom is?
+- [01:03:45,760 - 01:03:48,260] 13 electron volts.
+- [01:03:48,700 - 01:03:50,740] So if the photons,
+- [01:03:50,980 - 01:03:52,610] if the characteristic photons had
+- [01:03:52,610 - 01:03:54,240] an energy of 13 electron volts,
+- [01:03:55,760 - 01:03:57,640] then they would have plenty of energy
+- [01:03:57,640 - 01:03:59,350] to kick the hell out of
+- [01:03:59,350 - 01:04:01,060] the hydrogen atom and ionize it.
+- [01:04:01,680 - 01:04:04,360] That's a temperature of,
+- [01:04:07,360 - 01:04:08,240] let's see,
+- [01:04:08,380 - 01:04:11,670] that's a much bigger
+- [01:04:11,670 - 01:04:14,960] temperature than the decoupling temperature,
+- [01:04:15,140 - 01:04:16,220] and I'll tell you why in a moment.
+- [01:04:16,740 - 01:04:17,360] Okay.
+- [01:04:17,500 - 01:04:20,320] But that is one simple
+- [01:04:20,320 - 01:04:23,140] theory of the temperature of decoupling.
+- [01:04:23,240 - 01:04:25,920] It's the temperature at which the average photon
+- [01:04:26,600 - 01:04:31,040] has an energy comparable to the 13 electron volts.
+- [01:04:31,040 - 01:04:31,640] So if the electron is
+- [01:04:31,640 - 01:04:32,240] at 13 point whatever it is,
+- [01:04:32,280 - 01:04:35,720] electron volts that will ionize an atom.
+- [01:04:37,020 - 01:04:37,620] Okay.
+- [01:04:37,800 - 01:04:39,740] But there's another element,
+- [01:04:39,800 - 01:04:41,880] and the other element is that
+- [01:04:41,880 - 01:04:43,960] there's a lot of photons out there.
+- [01:04:44,220 - 01:04:46,980] The ratio of the number of photons
+- [01:04:46,980 - 01:04:49,740] to the number of protons is very large.
+- [01:04:51,180 - 01:04:52,140] In fact,
+- [01:04:52,140 - 01:04:54,780] the number of photons to the number of protons,
+- [01:04:57,640 - 01:04:59,400] or the number of atoms,
+- [01:04:59,400 - 01:05:00,520] or the number of electrons,
+- [01:05:00,740 - 01:05:01,520] they're the same thing,
+- [01:05:01,600 - 01:05:03,140] let's say the number of electrons,
+- [01:05:03,799 - 01:05:06,560] the ratio is about 10 to the eighth.
+- [01:05:09,220 - 01:05:11,020] Now where did that number come from?
+- [01:05:11,100 - 01:05:13,040] How did so many photons get there?
+- [01:05:13,280 - 01:05:16,000] This is something we're going to try to talk about.
+- [01:05:16,520 - 01:05:17,920] How did it get to be?
+- [01:05:18,040 - 01:05:19,620] This is an observable fact.
+- [01:05:19,880 - 01:05:21,660] This is a fact that we know
+- [01:05:21,660 - 01:05:23,440] by looking at the matter in the universe.
+- [01:05:23,640 - 01:05:24,980] We know how many protons there are,
+- [01:05:25,040 - 01:05:26,180] how many electrons there are,
+- [01:05:26,320 - 01:05:28,500] and we measure how many photons there are
+- [01:05:28,500 - 01:05:29,560] from the black body spectrum,
+- [01:05:30,350 - 01:05:31,435] and we know that the
+- [01:05:31,435 - 01:05:32,520] ratio of the number of photons
+- [01:05:32,520 - 01:05:33,800] to the number of electrons
+- [01:05:33,800 - 01:05:35,080] is about 10 to the eighth.
+- [01:05:35,760 - 01:05:36,380] Now,
+- [01:05:36,380 - 01:05:42,940] let's suppose that the temperature was just called T.
+- [01:05:43,200 - 01:05:44,540] Let's take the temperature T.
+- [01:05:45,290 - 01:05:48,315] What is the probability that
+- [01:05:48,315 - 01:05:51,340] a photon have a given energy?
+- [01:05:52,300 - 01:05:55,800] And the answer is at a temperature T,
+- [01:05:55,800 - 01:05:59,460] the probability for photons to have different energies
+- [01:05:59,460 - 01:06:02,580] is of the form e to the minus,
+- [01:06:03,280 - 01:06:04,600] let's write it correctly,
+- [01:06:06,020 - 01:06:07,880] the energy of the photon,
+- [01:06:08,220 - 01:06:10,960] let's call it epsilon for the energy of the photon,
+- [01:06:11,240 - 01:06:12,320] energy of photon,
+- [01:06:14,460 - 01:06:16,020] divided by kT.
+- [01:06:16,360 - 01:06:18,100] This is a standard formula.
+- [01:06:18,260 - 01:06:20,980] This is the Boltzmann distribution.
+- [01:06:21,540 - 01:06:24,680] e to the minus energy over kT.
+- [01:06:24,680 - 01:06:27,240] This is the probability that
+- [01:06:27,240 - 01:06:29,800] the photon have an energy epsilon.
+- [01:06:35,899 - 01:06:36,660] Good.
+- [01:06:36,660 - 01:06:37,740] That's where we are.
+- [01:06:38,280 - 01:06:40,020] So now I can ask the question,
+- [01:06:40,120 - 01:06:42,610] what's the probability that a
+- [01:06:42,610 - 01:06:45,100] photon have the ionization energy?
+- [01:06:45,280 - 01:06:49,000] The ionization energy being 13.5 electron volts.
+- [01:06:49,220 - 01:06:51,100] Let's just substitute that in.
+- [01:06:52,459 - 01:06:53,980] Epsilon ionization.
+- [01:06:54,820 - 01:06:56,400] Epsilon stands for energy.
+- [01:06:56,580 - 01:07:00,620] Epsilon ionization is just good old 13.5 electron volts.
+- [01:07:02,200 - 01:07:04,780] That's the probability that a given photon
+- [01:07:04,780 - 01:07:07,130] have an energy which is big
+- [01:07:07,130 - 01:07:09,480] enough to ionize the hydrogen atom.
+- [01:07:11,020 - 01:07:14,600] If epsilon is very much smaller than kT,
+- [01:07:14,880 - 01:07:16,440] then this is a small,
+- [01:07:16,440 - 01:07:17,160] small number,
+- [01:07:17,160 - 01:07:18,360] exponentially small.
+- [01:07:18,700 - 01:07:20,120] On the other hand,
+- [01:07:20,120 - 01:07:21,800] there are a lot of photons.
+- [01:07:21,800 - 01:07:24,180] So instead of asking the question,
+- [01:07:24,340 - 01:07:26,760] what is the probability that any given photon
+- [01:07:27,760 - 01:07:33,800] have an energy big enough to ionize the atom,
+- [01:07:33,940 - 01:07:35,970] we could ask how many photons
+- [01:07:35,970 - 01:07:38,000] are there that can ionize the atom.
+- [01:07:38,200 - 01:07:39,140] To answer that,
+- [01:07:39,140 - 01:07:40,620] we have to multiply this.
+- [01:07:41,240 - 01:07:42,060] In other words,
+- [01:07:42,060 - 01:07:43,340] per atom,
+- [01:07:43,920 - 01:07:46,700] how many photons are there that can do the job?
+- [01:07:47,540 - 01:07:49,660] And the answer is this
+- [01:07:49,660 - 01:07:51,780] number times 10 to the 8th.
+- [01:07:53,319 - 01:07:55,000] So in other words,
+- [01:07:55,000 - 01:07:56,810] we're actually operating in the
+- [01:07:56,810 - 01:07:58,620] tails of the distribution here.
+- [01:08:01,320 - 01:08:04,280] We have to multiply this by 10 to the 8th.
+- [01:08:06,760 - 01:08:11,120] And if this combination of numbers is order 1,
+- [01:08:11,440 - 01:08:13,740] is roughly 1 or bigger,
+- [01:08:14,780 - 01:08:17,069] then there are simply enough
+- [01:08:17,069 - 01:08:19,359] photons to ionize the electrons.
+- [01:08:20,020 - 01:08:20,779] Okay.
+- [01:08:20,779 - 01:08:23,779] There will be one photon,
+- [01:08:24,560 - 01:08:25,740] if this is of order 1,
+- [01:08:25,920 - 01:08:28,819] that says there will be roughly one photon per atom
+- [01:08:28,819 - 01:08:31,380] with enough juice to ionize it.
+- [01:08:31,600 - 01:08:32,140] Alright,
+- [01:08:32,140 - 01:08:34,939] 10 to the 8th is approximately e to the 20,
+- [01:08:37,460 - 01:08:38,840] or something like that.
+- [01:08:39,620 - 01:08:42,560] Is that at that energy or at and above?
+- [01:08:43,439 - 01:08:45,300] At and above.
+- [01:08:46,160 - 01:08:46,720] Yeah,
+- [01:08:46,720 - 01:08:47,460] but don't forget,
+- [01:08:47,460 - 01:08:48,740] the spectrum falls off quickly,
+- [01:08:48,979 - 01:08:50,760] so it's mostly going to be positive.
+- [01:08:50,760 - 01:08:51,660] It's going to be pretty much
+- [01:08:51,660 - 01:08:52,560] in the vicinity of that energy.
+- [01:08:52,700 - 01:08:53,000] But yes,
+- [01:08:53,000 - 01:08:54,580] that energy or energy above.
+- [01:08:54,859 - 01:08:55,240] Question,
+- [01:08:55,240 - 01:08:56,830] would that 10 to the
+- [01:08:56,830 - 01:08:58,420] 8th be true way back when,
+- [01:08:58,600 - 01:08:58,899] when,
+- [01:08:58,899 - 01:09:00,660] wouldn't that be a different number?
+- [01:09:00,979 - 01:09:01,220] No.
+- [01:09:01,859 - 01:09:02,399] No.
+- [01:09:02,500 - 01:09:03,040] No.
+- [01:09:03,100 - 01:09:07,960] As far as the ratio of these numbers go,
+- [01:09:08,140 - 01:09:09,460] that was frozen in.
+- [01:09:09,660 - 01:09:14,540] There was no mechanism within this box
+- [01:09:14,540 - 01:09:17,520] for changing either the number of photons
+- [01:09:17,520 - 01:09:20,560] or the number of electrons or the number of protons.
+- [01:09:20,760 - 01:09:24,240] At least not until the temperatures are very,
+- [01:09:24,319 - 01:09:25,939] very much higher than we're talking about.
+- [01:09:26,260 - 01:09:30,099] The history back to decoupling
+- [01:09:30,099 - 01:09:33,939] is a history of pretty much
+- [01:09:33,939 - 01:09:35,460] conserved number of particles,
+- [01:09:35,460 - 01:09:37,200] conserved number of photons,
+- [01:09:37,460 - 01:09:38,460] conserved number of electrons,
+- [01:09:38,460 - 01:09:39,700] conserved number of protons.
+- [01:09:40,160 - 01:09:43,420] And to calculate that,
+- [01:09:43,420 - 01:09:45,420] it requires some calculation,
+- [01:09:45,700 - 01:09:48,540] but that's the bottom line,
+- [01:09:48,540 - 01:09:50,160] that the number of particles
+- [01:09:50,160 - 01:09:52,640] of any given species really didn't change very much.
+- [01:09:53,639 - 01:09:54,200] Okay,
+- [01:09:54,200 - 01:09:57,440] back to decoupling and probably well back before that.
+- [01:09:58,640 - 01:09:59,380] All right,
+- [01:09:59,380 - 01:10:01,720] so we have E to the 20
+- [01:10:01,720 - 01:10:04,060] times E to the minus ionization energy
+- [01:10:04,060 - 01:10:05,860] over kT should be of order 1.
+- [01:10:06,940 - 01:10:10,540] And we can write that then at the ionization,
+- [01:10:14,379 - 01:10:19,540] E ionization over kT should be,
+- [01:10:24,580 - 01:10:27,700] bigger than or equal to about what,
+- [01:10:27,700 - 01:10:28,100] 20?
+- [01:10:31,380 - 01:10:32,580] Or in other words,
+- [01:10:32,580 - 01:10:33,360] we can write this,
+- [01:10:33,360 - 01:10:34,820] turn it over.
+- [01:10:34,960 - 01:10:35,960] Let's turn it over.
+- [01:10:36,400 - 01:10:41,700] It says that kT is about
+- [01:10:41,700 - 01:10:47,000] 1 20th of the ionization energy.
+- [01:10:47,560 - 01:10:48,600] In other words,
+- [01:10:48,600 - 01:10:49,520] let me just spell it out.
+- [01:10:49,540 - 01:10:50,340] Let me spell out what this means.
+- [01:10:50,680 - 01:10:53,660] It means there are so many photons
+- [01:10:53,660 - 01:10:56,640] around that you don't actually have to heat
+- [01:10:56,640 - 01:10:58,650] the system up to the
+- [01:10:58,650 - 01:11:00,660] ionization temperature before there's a significant
+- [01:11:00,660 - 01:11:05,420] population of photons that can ionize the atoms.
+- [01:11:06,320 - 01:11:10,340] At a temperature 1 20th of the ionization temperature,
+- [01:11:11,280 - 01:11:13,500] there are enough photons around because
+- [01:11:13,500 - 01:11:15,720] of the large population of photons,
+- [01:11:15,940 - 01:11:16,900] it's 10 to the 8th.
+- [01:11:18,360 - 01:11:21,260] There are enough high energy photons,
+- [01:11:21,260 - 01:11:25,720] high energy photons now means above 13.5 electron volts.
+- [01:11:26,140 - 01:11:29,340] There are enough of them around to make sure
+- [01:11:29,340 - 01:11:32,540] that a significant population of the atoms are ionized.
+- [01:11:33,300 - 01:11:35,560] That happens when the temperature,
+- [01:11:35,560 - 01:11:38,210] when the characteristic temperature is only
+- [01:11:38,210 - 01:11:40,860] 1 20th of the ionization temperature.
+- [01:11:44,820 - 01:11:46,580] How many degrees would that be?
+- [01:11:46,580 - 01:11:48,380] You say the number of photons is constant.
+- [01:11:48,900 - 01:11:49,600] What's that?
+- [01:11:49,720 - 01:11:56,160] You say that the number of photons coming out of the solar system
+- [01:11:56,160 - 01:12:02,600] is negligible or just that it's not enough ionization energy photons coming out.
+- [01:12:02,960 - 01:12:03,300] No,
+- [01:12:03,300 - 01:12:03,420] no,
+- [01:12:03,420 - 01:12:03,720] no.
+- [01:12:03,760 - 01:12:07,180] The population of photons is very,
+- [01:12:07,180 - 01:12:07,460] very,
+- [01:12:07,460 - 01:12:09,920] the photons that came out of stars,
+- [01:12:10,820 - 01:12:13,140] they weren't even around at that time,
+- [01:12:13,140 - 01:12:15,460] so we don't care about them at all.
+- [01:12:15,460 - 01:12:17,780] And even if we did,
+- [01:12:17,780 - 01:12:20,060] the population of them is a tiny,
+- [01:12:20,060 - 01:12:23,600] tiny fraction of the population of overall photons.
+- [01:12:24,100 - 01:12:24,620] No,
+- [01:12:24,620 - 01:12:26,630] we're only counting the photons
+- [01:12:26,630 - 01:12:28,640] that are in the microwave background.
+- [01:12:28,800 - 01:12:29,360] In other words,
+- [01:12:29,360 - 01:12:31,360] the remnants or the relics
+- [01:12:31,360 - 01:12:33,360] of that early thermal equilibrium.
+- [01:12:35,080 - 01:12:36,200] Those are the ones that
+- [01:12:36,200 - 01:12:37,320] count as far as we're concerned.
+- [01:12:39,519 - 01:12:40,040] Okay,
+- [01:12:40,040 - 01:12:41,560] so we know now.
+- [01:12:41,880 - 01:12:42,460] I have a question.
+- [01:12:42,700 - 01:12:42,840] Yeah.
+- [01:12:43,480 - 01:12:45,440] So I have to take a question.
+- [01:12:45,440 - 01:12:46,180] At the time of decoupling,
+- [01:12:46,180 - 01:12:49,480] you got all these electrons and protons that combine
+- [01:12:49,480 - 01:12:52,780] with the hydrogen atoms and emit a 13.6 eV photon.
+- [01:12:53,140 - 01:12:56,100] So at the time of recombination there,
+- [01:12:56,100 - 01:12:58,850] the electrons and positrons combined the
+- [01:12:58,850 - 01:13:01,600] hydrogen atoms and emit 13.6 eV photons.
+- [01:13:02,040 - 01:13:03,200] You mean when they recombine?
+- [01:13:03,400 - 01:13:03,680] Yes.
+- [01:13:03,700 - 01:13:04,060] Yes,
+- [01:13:04,060 - 01:13:04,360] they do.
+- [01:13:04,480 - 01:13:08,750] So shouldn't there be a line in the spectrum of
+- [01:13:08,750 - 01:13:13,020] the black body radiation at 20 times the average energy?
+- [01:13:13,020 - 01:13:13,380] Well,
+- [01:13:13,380 - 01:13:15,980] as long as the process is happening slowly enough,
+- [01:13:15,980 - 01:13:17,900] it will stay in thermal equilibrium.
+- [01:13:19,059 - 01:13:23,060] And if it stays in thermal equilibrium,
+- [01:13:23,060 - 01:13:25,000] the curve will be the right curve.
+- [01:13:25,699 - 01:13:29,000] If the expansion takes place a little faster,
+- [01:13:29,000 - 01:13:29,380] yeah,
+- [01:13:29,380 - 01:13:32,330] then there will be a kind
+- [01:13:32,330 - 01:13:35,280] of bump at the 13.5 eV.
+- [01:13:35,420 - 01:13:36,940] But as long as it happens slowly,
+- [01:13:36,940 - 01:13:41,860] the balance will maintain itself.
+- [01:13:41,860 - 01:13:43,000] And the population will be the same.
+- [01:13:43,000 - 01:13:46,940] The population will conform to the thermal equilibrium.
+- [01:13:48,919 - 01:13:50,200] So technically,
+- [01:13:50,200 - 01:13:52,170] if the expansion is slow
+- [01:13:52,170 - 01:13:54,140] enough that the process is adiabatic,
+- [01:13:54,140 - 01:14:00,870] it will remain in thermal equilibrium at all times until the point
+- [01:14:00,870 - 01:14:07,600] where there simply aren't enough charged particles to keep it in equilibrium.
+- [01:14:08,740 - 01:14:11,080] So what is the actual temperature of the liquid?
+- [01:14:11,240 - 01:14:11,580] OK.
+- [01:14:11,680 - 01:14:12,980] The temperature is about 5 degrees.
+- [01:14:13,000 - 01:14:13,540] 5,000 degrees.
+- [01:14:13,640 - 01:14:14,360] 4,000 degrees.
+- [01:14:15,360 - 01:14:16,760] 1 20th.
+- [01:14:16,860 - 01:14:19,870] You can plug in the ionization
+- [01:14:19,870 - 01:14:22,880] energy corresponds to a certain wavelength.
+- [01:14:24,180 - 01:14:27,260] The wavelength is some angstrom or whatever it is.
+- [01:14:27,800 - 01:14:29,360] You plug that in.
+- [01:14:30,220 - 01:14:31,840] You get an energy out.
+- [01:14:32,020 - 01:14:37,090] And the temperature at which the ionization happens or the recombination
+- [01:14:37,090 - 01:14:42,160] happens is about a 20th of that because of the large population.
+- [01:14:43,219 - 01:14:47,420] And that brings it down to about 4,000 degrees.
+- [01:14:47,780 - 01:14:50,560] 4,000 degrees is much lower
+- [01:14:50,560 - 01:14:53,340] than the ionization temperature by what?
+- [01:14:53,420 - 01:14:54,380] Two orders of magnitude?
+- [01:14:56,660 - 01:14:57,260] No.
+- [01:14:57,440 - 01:14:58,380] By a factor of 20.
+- [01:14:59,020 - 01:14:59,620] Right.
+- [01:15:00,400 - 01:15:00,740] Right.
+- [01:15:00,880 - 01:15:03,420] One and a quarter magnitude or whatever.
+- [01:15:09,440 - 01:15:10,040] Right.
+- [01:15:11,220 - 01:15:12,140] We'll try to get a little bit of a difference.
+- [01:15:12,140 - 01:15:15,280] So the alpha says that 13.6 eV
+- [01:15:15,280 - 01:15:18,420] divided by 20 is about 7,891 degrees.
+- [01:15:20,020 - 01:15:20,500] OK.
+- [01:15:20,660 - 01:15:21,420] So it's 25.
+- [01:15:22,320 - 01:15:23,420] We have to be 40.
+- [01:15:23,660 - 01:15:24,980] Where did you get that number from?
+- [01:15:25,020 - 01:15:25,400] Say it again.
+- [01:15:25,680 - 01:15:26,340] Wolfram alpha.
+- [01:15:26,520 - 01:15:26,880] Yeah.
+- [01:15:27,020 - 01:15:28,300] 13.6 eV.
+- [01:15:28,360 - 01:15:29,000] Wolfram alpha.
+- [01:15:29,100 - 01:15:29,380] Alpha.
+- [01:15:29,580 - 01:15:30,280] What is alpha?
+- [01:15:30,660 - 01:15:31,520] It gives you the name 40.
+- [01:15:31,640 - 01:15:32,140] It's a program.
+- [01:15:32,320 - 01:15:32,760] Oh,
+- [01:15:32,760 - 01:15:33,000] OK.
+- [01:15:34,140 - 01:15:36,620] And it gives you twice that,
+- [01:15:36,620 - 01:15:36,860] essentially,
+- [01:15:36,860 - 01:15:38,060] almost 8,000 degrees.
+- [01:15:38,360 - 01:15:39,750] So it sounds like it needs
+- [01:15:39,750 - 01:15:41,140] to be a factor of 40.
+- [01:15:41,560 - 01:15:42,120] It could be.
+- [01:15:42,120 - 01:15:42,940] It could be a factor of 40.
+- [01:15:43,340 - 01:15:43,800] Yeah.
+- [01:15:43,900 - 01:15:44,260] I mean,
+- [01:15:44,260 - 01:15:45,380] this is very rough.
+- [01:15:45,520 - 01:15:46,380] This is very rough.
+- [01:15:46,980 - 01:15:47,960] This is very rough.
+- [01:15:48,120 - 01:15:48,300] Yeah.
+- [01:15:50,200 - 01:15:50,660] Yeah.
+- [01:15:50,760 - 01:15:52,740] A detailed calculation has to be done.
+- [01:15:53,040 - 01:15:57,040] And the detailed calculations have been done.
+- [01:15:57,180 - 01:15:58,460] I haven't done them.
+- [01:15:59,180 - 01:16:00,880] But this is the basic physics.
+- [01:16:01,520 - 01:16:04,100] The important thing is that it's a
+- [01:16:04,100 - 01:16:06,680] good deal lower than the ionization temperature by,
+- [01:16:06,740 - 01:16:07,820] if not a factor of 20,
+- [01:16:07,820 - 01:16:08,920] maybe a factor of 40.
+- [01:16:13,460 - 01:16:14,260] And yeah.
+- [01:16:15,980 - 01:16:16,720] Right.
+- [01:16:16,900 - 01:16:20,140] So recombination happens,
+- [01:16:20,140 - 01:16:21,440] or decoupling happens,
+- [01:16:21,440 - 01:16:24,360] at a temperature of 4,000 degrees.
+- [01:16:26,120 - 01:16:30,260] The temperature of the current radiation is 3 degrees.
+- [01:16:31,460 - 01:16:36,040] 4,000 degrees over 3 degrees is about 1,000.
+- [01:16:36,300 - 01:16:39,320] That's 1,200 or something like that.
+- [01:16:41,240 - 01:16:42,100] Something like that.
+- [01:16:42,100 - 01:16:42,260] Yeah.
+- [01:16:42,400 - 01:16:43,040] OK.
+- [01:16:43,200 - 01:16:46,820] So that tells us then that the temperature at decoupling,
+- [01:16:46,820 - 01:16:50,800] provided by the temperature
+- [01:16:50,800 - 01:16:51,240] today,
+- [01:16:51,240 - 01:16:54,460] putting everything together that we know,
+- [01:16:54,460 - 01:16:57,180] is about a factor of 1,000.
+- [01:16:58,320 - 01:17:02,260] But that's also the ratio of the scale factor.
+- [01:17:02,640 - 01:17:03,320] Remember,
+- [01:17:03,320 - 01:17:07,480] the temperature scales inversely with the scale factor,
+- [01:17:07,480 - 01:17:10,020] and so this is also
+- [01:17:10,020 - 01:17:12,080] equal to the scale factor.
+- [01:17:12,080 - 01:17:15,030] So the scale factor today divided
+- [01:17:15,030 - 01:17:17,980] by the scale factor at decoupling.
+- [01:17:24,379 - 01:17:27,549] That's kind of an amazing piece of information
+- [01:17:27,549 - 01:17:30,720] to know that the universe expanded by a factor
+- [01:17:30,720 - 01:17:34,440] of 1,000 from the time that it was opaque.
+- [01:17:34,820 - 01:17:36,960] Opaque means that it was ionized,
+- [01:17:36,960 - 01:17:39,580] and therefore light could not readily travel through it.
+- [01:17:40,680 - 01:17:41,000] OK.
+- [01:17:49,300 - 01:17:50,040] All right.
+- [01:17:50,080 - 01:17:51,320] So that's one landmark,
+- [01:17:51,320 - 01:17:52,240] so to speak.
+- [01:17:52,320 - 01:17:54,840] That's one landmark going backward in time.
+- [01:17:55,040 - 01:17:55,640] Of course,
+- [01:17:55,640 - 01:17:58,040] there were a lot of landmarks going
+- [01:17:58,040 - 01:18:00,440] backward in time that I've overlooked in thinking
+- [01:18:00,440 - 01:18:02,720] about the history of the universe going backward.
+- [01:18:04,040 - 01:18:06,620] I haven't talked about galaxy formation.
+- [01:18:07,370 - 01:18:10,980] I haven't talked about black holes formation.
+- [01:18:11,000 - 01:18:20,740] I haven't talked about star formation.
+- [01:18:21,760 - 01:18:23,360] I haven't talked about the
+- [01:18:23,360 - 01:18:26,520] the decoupling landmark.
+- [01:18:31,080 - 01:18:34,160] Now the second landmark in going backwards.
+- [01:18:34,220 - 01:18:37,600] The second important thing that happened
+- [01:18:37,600 - 01:18:40,980] in the sense of going backwards.
+- [01:18:41,000 - 01:18:41,240] backward,
+- [01:18:41,240 - 01:18:44,180] is the universe went from being
+- [01:18:44,180 - 01:18:47,120] matter dominated to being radiation dominated.
+- [01:18:47,560 - 01:18:49,120] Or to put it correctly,
+- [01:18:49,120 - 01:18:50,730] the universe went from being
+- [01:18:50,730 - 01:18:52,340] radiation dominated to being matter
+- [01:18:52,340 - 01:18:52,820] dominated.
+- [01:18:53,220 - 01:18:54,720] Remember what radiation dominated
+- [01:18:54,720 - 01:18:56,220] and matter dominated means?
+- [01:18:57,000 - 01:19:00,680] The equation of state for radiation and the
+- [01:19:00,680 - 01:19:04,360] equation of state for matter led to two different
+- [01:19:04,360 - 01:19:07,240] formulas for the energy density
+- [01:19:07,240 - 01:19:10,120] in the two kinds of energies.
+- [01:19:10,580 - 01:19:18,560] The energy density in matter scaled like some constant,
+- [01:19:18,560 - 01:19:19,740] let's call it rho naught,
+- [01:19:19,740 - 01:19:20,620] divided
+- [01:19:20,620 - 01:19:22,440] by the scale factor cubed.
+- [01:19:23,180 - 01:19:24,970] That's just the dilution of
+- [01:19:24,970 - 01:19:26,760] particles as the universe expands,
+- [01:19:26,760 - 01:19:33,680] whereas rho radiation went
+- [01:19:33,680 - 01:19:34,340] like some other constant.
+- [01:19:34,360 - 01:19:34,740] Some other rho,
+- [01:19:34,740 - 01:19:36,700] some other rho one,
+- [01:19:36,700 - 01:19:39,360] I guess we could call this rho matter,
+- [01:19:39,360 - 01:19:40,880] rho radiation,
+- [01:19:41,140 - 01:19:41,760] it's just a number,
+- [01:19:41,760 - 01:19:43,340] divided by a fourth.
+- [01:19:44,720 - 01:19:46,600] As we go forward in time,
+- [01:19:46,600 - 01:19:49,200] radiation becomes less important.
+- [01:19:50,600 - 01:19:52,660] Well of course it's less important today,
+- [01:19:52,660 - 01:19:53,980] it's much less important today,
+- [01:19:53,980 - 01:19:54,360] but as we
+- [01:19:54,360 - 01:19:55,820] go backward in time,
+- [01:19:55,820 - 01:19:57,570] we come to a time
+- [01:19:57,570 - 01:19:59,320] where this becomes bigger than that.
+- [01:20:00,719 - 01:20:04,340] Today and for almost the entire observable universe,
+- [01:20:04,340 - 01:20:04,340] we're going to have a time where
+- [01:20:04,340 - 01:20:05,550] the universe is much bigger
+- [01:20:05,550 - 01:20:06,760] than the radiation dominated part.
+- [01:20:06,760 - 01:20:07,940] The universe was matter dominated,
+- [01:20:07,940 - 01:20:11,400] meaning that the matter contribution was much bigger
+- [01:20:11,400 - 01:20:13,240] than the radiation dominated part.
+- [01:20:13,940 - 01:20:16,420] That affected the way the universe expanded.
+- [01:20:17,460 - 01:20:19,450] Expanded like t to the two-thirds instead
+- [01:20:19,450 - 01:20:21,440] of t to the one-half or whatever.
+- [01:20:22,400 - 01:20:24,460] But if we go back early enough,
+- [01:20:24,460 - 01:20:26,940] where the scale factor is small enough,
+- [01:20:26,940 - 01:20:28,080] we come to the
+- [01:20:28,080 - 01:20:31,360] point where there's a crossover between here and here.
+- [01:20:32,200 - 01:20:34,320] Let's see if we can estimate where that is.
+- [01:20:34,340 - 01:20:35,240] Where that crossover happened,
+- [01:20:35,240 - 01:20:38,220] what the scale factors were when that happened.
+- [01:20:39,360 - 01:20:40,080] Alright,
+- [01:20:40,080 - 01:20:45,520] first let's see what we know about the ratio today.
+- [01:20:46,320 - 01:20:49,180] Let's take the ratio today of,
+- [01:20:49,180 - 01:20:50,820] let's erase this formula,
+- [01:20:50,820 - 01:20:52,420] I don't want to confuse too many
+- [01:20:52,420 - 01:20:52,940] things here.
+- [01:20:53,520 - 01:20:57,690] Let's take the ratio today
+- [01:20:57,690 - 01:21:01,860] of the energy density in radiation.
+- [01:21:06,719 - 01:21:08,640] To the energy density in matter.
+- [01:21:18,140 - 01:21:18,900] That's today.
+- [01:21:19,780 - 01:21:20,840] How do you do it?
+- [01:21:21,080 - 01:21:22,560] Well first of all,
+- [01:21:22,560 - 01:21:27,280] you know from the black body spectrum,
+- [01:21:27,280 - 01:21:31,260] you know how much energy density
+- [01:21:31,260 - 01:21:33,300] is present in the form of photons.
+- [01:21:34,960 - 01:21:35,600] Basically,
+- [01:21:35,600 - 01:21:37,040] you can use the following facts.
+- [01:21:37,180 - 01:21:40,640] That for every proton,
+- [01:21:40,640 - 01:21:44,020] or for every hydrogen atom,
+- [01:21:44,020 - 01:21:46,860] there's ten to the eighth photons.
+- [01:21:47,520 - 01:21:54,260] Ten to the eighth photons per proton.
+- [01:21:55,660 - 01:21:56,780] Second of all,
+- [01:21:56,780 - 01:21:58,820] we know the energy of each photon,
+- [01:21:58,820 - 01:22:01,820] the energy of each photon is about
+- [01:22:01,820 - 01:22:06,340] ten to the minus four electron volts.
+- [01:22:08,160 - 01:22:09,620] That's the three degree,
+- [01:22:09,620 - 01:22:11,680] that's what corresponds to three degrees.
+- [01:22:12,820 - 01:22:15,020] And what about the energy of a proton?
+- [01:22:16,480 - 01:22:24,060] The energy of a proton is a billion electron volts.
+- [01:22:25,259 - 01:22:26,620] One GeV,
+- [01:22:26,620 - 01:22:28,280] one billion electron volts.
+- [01:22:28,280 - 01:22:29,440] So,
+- [01:22:29,440 - 01:22:33,400] there's a factor of ten to the eighth,
+- [01:22:33,400 - 01:22:40,080] ten to the minus eighth,
+- [01:22:40,080 - 01:22:42,680] times I guess ten
+- [01:22:42,680 - 01:22:43,740] to the thirteenth.
+- [01:22:44,380 - 01:22:47,680] Ten to the minus eighth is the ratio of
+- [01:22:47,680 - 01:22:50,980] the number of protons to the number of photons,
+- [01:22:51,300 - 01:22:54,780] and then ten to the thirteenth is the
+- [01:22:54,780 - 01:22:58,260] ratio of the energy per photon per photon.
+- [01:22:59,059 - 01:22:59,740] Anyway,
+- [01:22:59,740 - 01:23:03,140] it's straightforward to work out,
+- [01:23:03,140 - 01:23:06,220] and the answer is about ten to the five.
+- [01:23:06,560 - 01:23:07,680] A hundred thousand.
+- [01:23:09,500 - 01:23:12,250] The ratio of matter to radiation
+- [01:23:12,250 - 01:23:15,000] today is about ten to the five.
+- [01:23:16,720 - 01:23:17,400] Okay,
+- [01:23:17,400 - 01:23:19,740] now how did it behave in the past?
+- [01:23:20,160 - 01:23:21,540] In the past,
+- [01:23:21,540 - 01:23:23,660] as we extrapolate backward,
+- [01:23:23,660 - 01:23:27,480] raw matter scales with three powers of the scale
+- [01:23:27,480 - 01:23:27,960] factor.
+- [01:23:28,260 - 01:23:28,960] Whereas,
+- [01:23:28,960 - 01:23:33,500] raw radiation scales with four factors of the scale factor.
+- [01:23:34,140 - 01:23:36,180] That means the ratio here,
+- [01:23:36,180 - 01:23:37,300] in time,
+- [01:23:37,300 - 01:23:45,100] scaled like one factor of the scale factor.
+- [01:23:46,380 - 01:23:47,580] How far back?
+- [01:23:47,760 - 01:23:47,960] Oh,
+- [01:23:47,960 - 01:23:48,120] oh,
+- [01:23:48,120 - 01:23:48,720] this is incorrect.
+- [01:23:49,040 - 01:23:49,600] Why is this incorrect?
+- [01:23:49,940 - 01:23:50,600] I made a mistake.
+- [01:23:52,160 - 01:23:53,660] I forgot about dark matter.
+- [01:23:55,100 - 01:23:55,640] Right,
+- [01:23:55,640 - 01:23:56,720] I forgot about dark matter.
+- [01:23:56,720 - 01:23:59,750] Dark matter has about ten times as
+- [01:23:59,750 - 01:24:02,780] much mass as the ordinary luminous matter,
+- [01:24:02,780 - 01:24:03,180] protons,
+- [01:24:03,620 - 01:24:05,800] so this actually becomes ten to the sixth.
+- [01:24:06,940 - 01:24:08,580] Ten to the sixth ratio
+- [01:24:08,580 - 01:24:10,220] of raw matter to raw radiation.
+- [01:24:11,060 - 01:24:11,660] Alright,
+- [01:24:11,660 - 01:24:12,200] now,
+- [01:24:12,200 - 01:24:14,550] the way that they scale as you
+- [01:24:14,550 - 01:24:16,900] go backward in time differs by one factor
+- [01:24:16,900 - 01:24:17,960] of the scale factor,
+- [01:24:17,960 - 01:24:20,600] and what that tells you,
+- [01:24:20,600 - 01:24:23,980] what that tells you is that in the past,
+- [01:24:23,980 - 01:24:24,300] at
+- [01:24:24,300 - 01:24:24,960] the time,
+- [01:24:24,960 - 01:24:26,700] when the scale factor is one factor,
+- [01:24:26,700 - 01:24:26,700] the ratio of the matter to the radiation is
+- [01:24:27,620 - 01:24:28,260] not the same.
+- [01:24:28,260 - 01:24:28,260] So,
+- [01:24:28,260 - 01:24:31,150] if the scale factor was a
+- [01:24:31,150 - 01:24:34,040] million times smaller than it is today,
+- [01:24:34,040 - 01:24:37,420] that the energy
+- [01:24:37,420 - 01:24:39,130] density in matter and the energy
+- [01:24:39,130 - 01:24:40,840] density in radiation were the same.
+- [01:24:42,980 - 01:24:43,620] So,
+- [01:24:43,620 - 01:24:44,320] as you go backward,
+- [01:24:44,320 - 01:24:47,110] when the scale factor is a
+- [01:24:47,110 - 01:24:49,900] million times smaller than it is today,
+- [01:24:50,100 - 01:24:51,220] in other words,
+- [01:24:51,220 - 01:24:52,980] when the temperature is a million
+- [01:24:52,980 - 01:24:54,740] times larger than the three degrees,
+- [01:24:55,080 - 01:24:56,300] that's well,
+- [01:24:56,300 - 01:24:56,700] well ahead.
+- [01:24:56,720 - 01:24:59,300] above that's roughly a thousand times
+- [01:24:59,300 - 01:25:01,880] that's a thousand times the temperature
+- [01:25:01,880 - 01:25:03,970] of the decoupling period when the
+- [01:25:03,970 - 01:25:06,060] temperature was another factor of a
+- [01:25:06,060 - 01:25:08,850] thousand larger universe another factor of
+- [01:25:08,850 - 01:25:11,640] thousand smaller then there was a
+- [01:25:11,640 - 01:25:15,260] crossover and the universe became
+- [01:25:15,260 - 01:25:18,880] dominated by radiation the radiation
+- [01:25:18,880 - 01:25:21,690] energy became larger than the than the
+- [01:25:21,690 - 01:25:24,500] matter energy and as you go even further
+- [01:25:24,500 - 01:25:26,290] and further back the universe becomes
+- [01:25:26,290 - 01:25:28,080] more and more and more radiation
+- [01:25:28,080 - 01:25:30,450] dominated all right so that tells us that
+- [01:25:30,450 - 01:25:32,820] if you go to the very very early
+- [01:25:32,820 - 01:25:36,670] universe that matter matter meaning
+- [01:25:36,670 - 01:25:40,520] massive particles protons electrons but
+- [01:25:40,520 - 01:25:43,310] basically protons nuclei were very
+- [01:25:43,310 - 01:25:46,100] unimportant in the energy balance and
+- [01:25:46,100 - 01:25:48,650] the Friedman equation was basically
+- [01:25:48,650 - 01:25:51,200] just the equation coming from radiation
+- [01:25:54,500 - 01:25:56,290] because that was very early and we
+- [01:25:56,290 - 01:25:58,080] don't easily see directly back to that
+- [01:25:58,080 - 01:26:00,770] time so in fact we don't easily see
+- [01:26:00,770 - 01:26:03,460] back to a time when the universe was was
+- [01:26:03,460 - 01:26:06,350] radiation dominated nevertheless theory tells us
+- [01:26:06,350 - 01:26:09,240] that it must have been radiation
+- [01:26:09,240 - 01:26:11,740] dominated wouldn't there be a
+- [01:26:11,740 - 01:26:14,240] temperature where even protons can exist
+- [01:26:14,240 - 01:26:17,100] yes yes yes yes yes that would change
+- [01:26:17,100 - 01:26:19,960] the equation oh yes oh yes yes yes
+- [01:26:24,500 - 01:26:27,850] we have a constant number of electrons protons and
+- [01:26:27,850 - 01:26:31,200] protons and to ignore all the stellar output today
+- [01:26:31,200 - 01:26:33,880] you're talking about only the CMB or
+- [01:26:33,880 - 01:26:36,560] you're talking about period the whole universe
+- [01:26:36,560 - 01:26:37,840] no the CMB
+- [01:26:37,840 - 01:26:39,900] okay CMB is where the constants
+- [01:26:39,900 - 01:26:41,960] apply we do get more protons
+- [01:26:41,960 - 01:26:45,330] yeah yeah no obviously obviously we talk about starlight the
+- [01:26:45,330 - 01:26:48,700] starlight is there today it wasn't there at these very
+- [01:26:48,700 - 01:26:50,470] early times incidentally all of these
+- [01:26:50,470 - 01:26:52,240] things are happening long before there
+- [01:26:52,240 - 01:26:54,020] were stars and the temperature was
+- [01:26:54,020 - 01:26:56,550] was way up there long before
+- [01:26:56,550 - 01:26:59,080] there were stars galaxies and so forth
+- [01:26:59,080 - 01:27:04,210] I have a slightly different way to answer the question that was asked earlier
+- [01:27:04,210 - 01:27:09,340] which is if you take all of the three electrons okay and just ionize
+- [01:27:10,339 - 01:27:16,229] deionize them all at the same time you just add NE to N gamma and
+- [01:27:16,229 - 01:27:22,120] it will change by one part in a hundred million so it's sort of negligible
+- [01:27:23,299 - 01:27:23,649] all right so that's the question I have is that if you take all of the three electrons and just ionize them all at the
+- [01:27:23,649 - 01:27:24,000] same time you just add NE to N gamma and it will change by one part in a hundred million so it's sort of negligible
+- [01:27:24,020 - 01:27:24,540] sorry
+- [01:27:24,540 - 01:27:28,440] if you just if you just take N gamma over
+- [01:27:28,440 - 01:27:32,340] NE and change it to N gamma plus NE over NE
+- [01:27:32,780 - 01:27:35,230] well we're gonna come to that yes yes yes yes that's
+- [01:27:35,230 - 01:27:37,680] yeah we're gonna come to that ratio that's an important ratio
+- [01:27:38,980 - 01:27:40,660] we're gonna come to it hopefully tonight
+- [01:27:41,860 - 01:27:45,540] okay so we found two landmarks decoupling
+- [01:27:45,540 - 01:27:49,560] sorry when we were talking earlier you said the universe
+- [01:27:49,560 - 01:27:53,580] had expanded a thousand times since the universe became transparent
+- [01:27:53,580 - 01:27:54,000] yeah
+- [01:27:54,020 - 01:27:58,020] did that happen about 280,000 years after the big bang
+- [01:28:00,840 - 01:28:03,330] I can't remember if it's that's the order of
+- [01:28:03,330 - 01:28:05,820] magnitude for sure I can't remember it's a hundred
+- [01:28:06,800 - 01:28:07,660] what's that
+- [01:28:10,300 - 01:28:12,630] 380 yeah it's an order of
+- [01:28:12,630 - 01:28:14,960] magnitude a couple hundred thousand years yeah
+- [01:28:14,960 - 01:28:19,240] the universe has only expanded a thousand
+- [01:28:19,240 - 01:28:23,520] times in thirteen point essentially four billion years
+- [01:28:23,520 - 01:28:27,440] thirteen point whatever it is billion years
+- [01:28:27,440 - 01:28:36,140] yeah the time the time until the decoupling is negligible it's a tiny tiny time in cosmological scales and then that's
+- [01:28:36,140 - 01:28:44,840] right it's expanded from what you normally think of as the big bang it expanded by a factor of a thousand
+- [01:28:45,520 - 01:28:47,360] the volume would be
+- [01:28:47,360 - 01:28:50,340] the volume expanded by a factor
+- [01:28:50,340 - 01:28:53,320] of a thousand times a thousand
+- [01:28:53,320 - 01:28:55,360] there's a million times a thousand there's a billion
+- [01:28:56,200 - 01:28:56,760] yeah
+- [01:28:58,160 - 01:29:02,760] yes that that that's correct that's the lesson that over
+- [01:29:02,760 - 01:29:07,360] the period that we usually associate with after the big bang
+- [01:29:08,200 - 01:29:09,910] the universe that depends on what
+- [01:29:09,910 - 01:29:11,620] you define to be the big bang
+- [01:29:12,180 - 01:29:14,440] if you define the big bang to be
+- [01:29:14,440 - 01:29:16,700] the decoupling era when the universe became transparent
+- [01:29:18,059 - 01:29:20,500] then it expanded by a factor of a thousand
+- [01:29:20,500 - 01:29:21,940] now before that
+- [01:29:21,940 - 01:29:26,000] it presumably expanded by a much bigger factor
+- [01:29:26,000 - 01:29:26,720] and
+- [01:29:26,720 - 01:29:31,980] in fact if we go back
+- [01:29:32,840 - 01:29:35,180] if we go back to the point
+- [01:29:36,000 - 01:29:40,060] where this crossover took place between radiation and matter
+- [01:29:40,060 - 01:29:41,920] that's a factor of a million
+- [01:29:42,540 - 01:29:44,120] we can go back before that
+- [01:29:44,120 - 01:29:45,740] we can go back earlier than that
+- [01:29:45,740 - 01:29:49,620] the next important landmark
+- [01:29:49,620 - 01:29:50,770] in fact the next one that i can think
+- [01:29:50,770 - 01:29:51,920] of is the next important landmark in the universe
+- [01:29:51,920 - 01:29:52,240] that we think of
+- [01:29:53,380 - 01:29:57,640] is the landmark where the temperature was hot enough
+- [01:30:00,660 - 01:30:03,300] to create positrons
+- [01:30:05,559 - 01:30:06,360] question
+- [01:30:06,700 - 01:30:07,100] yes
+- [01:30:07,640 - 01:30:08,040] um
+- [01:30:10,360 - 01:30:11,960] do we know what a is
+- [01:30:11,960 - 01:30:14,180] what a what is
+- [01:30:14,180 - 01:30:15,700] a at times zero is
+- [01:30:15,700 - 01:30:18,420] ha ha ha ha
+- [01:30:21,920 - 01:30:22,060] No,
+- [01:30:22,060 - 01:30:23,800] we don't know what a times zero was.
+- [01:30:24,220 - 01:30:25,920] And so if it was,
+- [01:30:25,920 - 01:30:27,860] if it wasn't zero...
+- [01:30:27,860 - 01:30:28,460] Remember,
+- [01:30:28,460 - 01:30:29,140] yeah,
+- [01:30:29,140 - 01:30:32,000] remember I've warned you about this before.
+- [01:30:32,100 - 01:30:33,860] Space is pretty close to being flat.
+- [01:30:34,260 - 01:30:36,060] When space is flat,
+- [01:30:36,060 - 01:30:38,400] only ratios of a's have meaning.
+- [01:30:40,720 - 01:30:42,980] If you take a flat plane and you
+- [01:30:42,980 - 01:30:45,240] ask what the radius of curvature of it is,
+- [01:30:45,300 - 01:30:46,720] it doesn't mean anything.
+- [01:30:46,720 - 01:30:48,600] Its radius of curvature is infinite.
+- [01:30:48,600 - 01:30:53,300] But if the plane stretches by a factor of two,
+- [01:30:53,520 - 01:30:56,050] so that the grid that's embedded in
+- [01:30:56,050 - 01:30:58,580] the plane stretches by a factor of two,
+- [01:30:58,760 - 01:30:59,840] that's well defined.
+- [01:31:00,340 - 01:31:03,550] So to the extent that the universe
+- [01:31:03,550 - 01:31:06,760] is and was close to being flat,
+- [01:31:07,580 - 01:31:10,440] a doesn't really measure the radius of anything.
+- [01:31:10,780 - 01:31:14,440] It's ratios of a that measure the expansion factor.
+- [01:31:14,820 - 01:31:15,660] That's what I was going to get to.
+- [01:31:15,860 - 01:31:18,160] At the time of the Big Bang,
+- [01:31:18,600 - 01:31:19,960] at that moment,
+- [01:31:19,960 - 01:31:22,340] the universe could have been infinite.
+- [01:31:22,960 - 01:31:23,860] We don't know.
+- [01:31:24,000 - 01:31:24,620] We don't know,
+- [01:31:24,620 - 01:31:25,320] but it could have been,
+- [01:31:25,320 - 01:31:25,500] right?
+- [01:31:26,520 - 01:31:27,320] I mean,
+- [01:31:27,320 - 01:31:28,740] in my naive way,
+- [01:31:28,740 - 01:31:29,660] when I think of the Big Bang,
+- [01:31:29,720 - 01:31:31,560] I think of like this tiny universe,
+- [01:31:31,840 - 01:31:33,020] but I think that's probably an
+- [01:31:33,020 - 01:31:34,200] incorrect way to think about it.
+- [01:31:35,280 - 01:31:37,500] I think that's an incorrect way to think about it.
+- [01:31:37,940 - 01:31:38,340] Look,
+- [01:31:38,340 - 01:31:40,780] it depends on whether k is plus one,
+- [01:31:40,780 - 01:31:41,280] minus one,
+- [01:31:41,280 - 01:31:41,580] or zero.
+- [01:31:42,100 - 01:31:43,440] If k is plus one,
+- [01:31:43,440 - 01:31:45,280] that means a closed and bounded universe,
+- [01:31:45,340 - 01:31:46,720] and a has some meaning.
+- [01:31:47,420 - 01:31:48,580] Now still,
+- [01:31:48,580 - 01:31:50,740] the only thing we know
+- [01:31:50,740 - 01:31:52,900] is that it's ratios of a.
+- [01:31:53,020 - 01:31:55,400] We don't know what the
+- [01:31:55,400 - 01:31:57,780] primordial size of the universe was
+- [01:31:57,780 - 01:31:59,460] when it first formed,
+- [01:31:59,460 - 01:32:01,680] if it was a sphere.
+- [01:32:02,120 - 01:32:03,960] If it is negatively curved,
+- [01:32:03,960 - 01:32:05,240] then it started out infinite.
+- [01:32:05,940 - 01:32:10,240] It started out as this infinite hyperbolic Escher drawing.
+- [01:32:10,960 - 01:32:11,820] So yes,
+- [01:32:11,820 - 01:32:14,260] we're operating now at the
+- [01:32:14,260 - 01:32:16,700] level of what observational law is.
+- [01:32:16,700 - 01:32:17,480] We're operating now at the level
+- [01:32:17,480 - 01:32:18,260] of what observational cosmologists can say.
+- [01:32:18,400 - 01:32:21,020] And what they can say is about ratios of a's.
+- [01:32:22,180 - 01:32:22,840] All right.
+- [01:32:22,840 - 01:32:23,920] Good.
+- [01:32:24,020 - 01:32:26,520] Let's keep going back in time.
+- [01:32:26,800 - 01:32:27,320] Yeah.
+- [01:32:27,560 - 01:32:31,780] So when we get to the point of decoupling,
+- [01:32:31,980 - 01:32:34,200] is that where our observations end?
+- [01:32:35,200 - 01:32:35,720] Yes.
+- [01:32:35,720 - 01:32:36,060] All right.
+- [01:32:36,060 - 01:32:36,340] Good.
+- [01:32:36,340 - 01:32:37,300] Good.
+- [01:32:37,820 - 01:32:40,500] Let's draw a picture in another one.
+- [01:32:40,620 - 01:32:40,700] Yeah.
+- [01:32:40,700 - 01:32:43,280] That is correct.
+- [01:32:44,860 - 01:32:45,380] That's...
+- [01:32:46,700 - 01:32:49,880] That's not necessarily where any observations can end.
+- [01:32:50,060 - 01:32:52,780] It's where our observations do end today.
+- [01:32:53,100 - 01:32:53,860] So let's...
+- [01:32:54,860 - 01:32:58,260] And let's discuss that a little bit.
+- [01:33:00,490 - 01:33:01,000] All right.
+- [01:33:01,000 - 01:33:02,220] So last time,
+- [01:33:02,220 - 01:33:03,940] I drew a picture on the board.
+- [01:33:05,700 - 01:33:07,300] Time versus space.
+- [01:33:07,540 - 01:33:08,680] Time goes upward.
+- [01:33:08,920 - 01:33:10,460] Space goes horizontal.
+- [01:33:10,980 - 01:33:13,940] Let's imagine us sitting at the origin here.
+- [01:33:14,040 - 01:33:14,700] Here we are.
+- [01:33:14,700 - 01:33:15,700] Here's us now.
+- [01:33:15,920 - 01:33:16,260] Later,
+- [01:33:16,260 - 01:33:16,640] later,
+- [01:33:16,640 - 01:33:16,860] later.
+- [01:33:17,080 - 01:33:17,820] And in fact,
+- [01:33:17,820 - 01:33:18,380] here's today.
+- [01:33:19,860 - 01:33:23,320] This line or this surface here represents today.
+- [01:33:23,580 - 01:33:24,780] And we look backward.
+- [01:33:24,980 - 01:33:26,740] We look backward along light rays.
+- [01:33:26,940 - 01:33:27,200] I mean,
+- [01:33:27,200 - 01:33:29,780] we see various things.
+- [01:33:30,520 - 01:33:30,780] Now,
+- [01:33:30,780 - 01:33:32,100] you asked me...
+- [01:33:32,100 - 01:33:33,360] Repeat your question again now.
+- [01:33:33,520 - 01:33:34,600] My question is,
+- [01:33:34,600 - 01:33:37,700] at the era of recombination...
+- [01:33:38,780 - 01:33:38,800] Yeah.
+- [01:33:38,800 - 01:33:38,820] Yeah.
+- [01:33:39,260 - 01:33:43,120] That's kind of where our cosmological observations...
+- [01:33:43,120 - 01:33:43,180] Yeah.
+- [01:33:43,180 - 01:33:43,820] That's correct.
+- [01:33:43,820 - 01:33:44,740] That's correct.
+- [01:33:44,740 - 01:33:45,440] All right.
+- [01:33:45,720 - 01:33:48,900] So in looking back to different time periods,
+- [01:33:49,120 - 01:33:50,680] we see different distances.
+- [01:33:51,160 - 01:33:52,720] We can plot that by
+- [01:33:52,720 - 01:33:54,280] saying we sit at the center,
+- [01:33:54,879 - 01:33:56,260] and we look out,
+- [01:33:56,260 - 01:33:57,840] and we see...
+- [01:33:58,860 - 01:34:00,300] A thousand years ago,
+- [01:34:00,300 - 01:34:02,800] we see things a thousand light years away.
+- [01:34:02,960 - 01:34:03,700] A shell.
+- [01:34:03,960 - 01:34:05,300] A million years ago,
+- [01:34:05,300 - 01:34:06,440] or rather,
+- [01:34:06,440 - 01:34:08,260] even further out,
+- [01:34:08,380 - 01:34:10,840] we see things as they were a million years ago,
+- [01:34:11,060 - 01:34:13,040] further and further out,
+- [01:34:13,040 - 01:34:15,360] and eventually we see back,
+- [01:34:15,360 - 01:34:16,360] in looking out,
+- [01:34:16,460 - 01:34:18,880] we see back to the time
+- [01:34:18,880 - 01:34:21,300] at which this recombination took place.
+- [01:34:21,720 - 01:34:22,460] All right.
+- [01:34:22,560 - 01:34:24,520] That's actually looking at some time,
+- [01:34:24,680 - 01:34:26,420] but from our perspective,
+- [01:34:26,660 - 01:34:29,480] it's shells corresponding to different times.
+- [01:34:29,880 - 01:34:30,440] Now,
+- [01:34:30,440 - 01:34:32,540] we see light coming in from different places,
+- [01:34:34,279 - 01:34:36,340] and that's the subject of astronomy,
+- [01:34:36,340 - 01:34:36,980] of course.
+- [01:34:39,279 - 01:34:41,980] But before decoupling took place,
+- [01:34:41,980 - 01:34:43,800] the universe was ionized.
+- [01:34:43,980 - 01:34:45,060] Light does not...
+- [01:34:45,060 - 01:34:46,020] That's the whole point.
+- [01:34:46,140 - 01:34:49,960] Light scatters a great deal from ionized material.
+- [01:34:50,320 - 01:34:51,440] And in fact,
+- [01:34:51,440 - 01:34:54,740] the light simply didn't make its way very readily
+- [01:34:54,740 - 01:34:56,670] through the ionized material
+- [01:34:56,670 - 01:34:58,600] that was there before decoupling.
+- [01:34:58,820 - 01:35:00,160] That basically means,
+- [01:35:00,160 - 01:35:01,180] roughly speaking,
+- [01:35:01,180 - 01:35:02,200] that it was opaque,
+- [01:35:02,480 - 01:35:07,640] that the universe was optically opaque before decoupling.
+- [01:35:07,860 - 01:35:09,580] So that means we look
+- [01:35:09,580 - 01:35:11,300] out to a distance out here,
+- [01:35:11,300 - 01:35:14,820] that distance is what we're looking at
+- [01:35:14,820 - 01:35:16,640] when we're looking at the microwave background,
+- [01:35:16,640 - 01:35:17,300] basically.
+- [01:35:18,040 - 01:35:20,700] Telescopes that are looking at the microwave background
+- [01:35:20,700 - 01:35:22,460] are effectively looking back to there,
+- [01:35:23,339 - 01:35:24,580] and beyond that,
+- [01:35:24,580 - 01:35:25,900] they can't see because it's opaque.
+- [01:35:26,740 - 01:35:27,440] All right.
+- [01:35:28,120 - 01:35:28,720] Now,
+- [01:35:28,720 - 01:35:30,860] you might have a chance of
+- [01:35:30,860 - 01:35:33,000] seeing other kinds of things coming through
+- [01:35:33,000 - 01:35:35,310] that are less affected by whatever
+- [01:35:35,310 - 01:35:37,620] it is that's creating the opacity.
+- [01:35:38,100 - 01:35:39,060] For example,
+- [01:35:39,060 - 01:35:39,860] neutrinos.
+- [01:35:41,300 - 01:35:42,840] Neutrinos can pass through a lot more stuff.
+- [01:35:42,940 - 01:35:44,810] Low-energy neutrinos can pass through
+- [01:35:44,810 - 01:35:46,680] a lot more stuff than photons.
+- [01:35:47,600 - 01:35:48,380] And so,
+- [01:35:48,380 - 01:35:49,300] in principle,
+- [01:35:49,300 - 01:35:52,680] you can see neutrinos from further out.
+- [01:35:53,700 - 01:35:54,960] Gravitons even more so.
+- [01:35:56,859 - 01:36:00,540] So the distances to which you can see in principle
+- [01:36:01,419 - 01:36:04,329] may not be constrained to the same degree
+- [01:36:04,329 - 01:36:07,240] as the things that you can see by optical...
+- [01:36:08,519 - 01:36:09,040] Optical,
+- [01:36:09,040 - 01:36:10,520] I mean in the general sense.
+- [01:36:11,760 - 01:36:12,720] Electromagnetic radiation.
+- [01:36:13,840 - 01:36:14,820] Electromagnetic radiation,
+- [01:36:14,820 - 01:36:16,430] the earliest that we can
+- [01:36:16,430 - 01:36:18,040] see to is the decoupling period.
+- [01:36:19,000 - 01:36:22,660] Anything else beyond that is...
+- [01:36:27,280 - 01:36:28,640] is circumstantial evidence,
+- [01:36:28,640 - 01:36:29,400] shall we call it,
+- [01:36:29,480 - 01:36:31,160] but some of it we understand very well.
+- [01:36:31,960 - 01:36:32,540] Okay,
+- [01:36:32,540 - 01:36:34,720] let's keep going back in time.
+- [01:36:35,280 - 01:36:37,260] Going out past here.
+- [01:36:37,380 - 01:36:37,540] Well,
+- [01:36:37,540 - 01:36:38,480] somewhere out here
+- [01:36:39,820 - 01:36:40,980] was the...
+- [01:36:42,419 - 01:36:47,240] transition from radiation-dominated to...
+- [01:36:48,040 - 01:36:49,700] radiation-dominated on this side,
+- [01:36:49,860 - 01:36:51,220] matter-dominated here.
+- [01:36:51,460 - 01:36:53,720] So there's radiation-dominated here,
+- [01:36:53,880 - 01:36:55,600] matter-dominated here.
+- [01:36:55,900 - 01:36:57,520] Here is decoupling.
+- [01:36:59,000 - 01:36:59,680] Decoupling.
+- [01:37:00,060 - 01:37:02,080] And then galaxies formed,
+- [01:37:02,080 - 01:37:03,060] somewhere is in here,
+- [01:37:03,320 - 01:37:04,620] and here we are today.
+- [01:37:05,300 - 01:37:06,580] So that's the...
+- [01:37:06,580 - 01:37:09,460] that's the picture of the universe in a nutshell.
+- [01:37:10,500 - 01:37:10,980] But...
+- [01:37:12,100 - 01:37:14,160] more things can be traced back.
+- [01:37:14,340 - 01:37:16,840] We understand the laws of physics well enough
+- [01:37:16,840 - 01:37:18,920] to go to yet higher temperatures.
+- [01:37:19,120 - 01:37:21,380] It's an issue of going to higher and higher temperatures.
+- [01:37:22,460 - 01:37:23,860] Scale factor is getting...
+- [01:37:23,860 - 01:37:25,470] despite the fact that it looks like things
+- [01:37:25,470 - 01:37:27,080] are getting bigger as we go out here,
+- [01:37:27,160 - 01:37:29,060] the scale factor itself is getting smaller,
+- [01:37:29,580 - 01:37:31,540] which means the temperature is increasing.
+- [01:37:32,840 - 01:37:34,550] And something new happens when
+- [01:37:34,550 - 01:37:36,260] the temperature gets to be about...
+- [01:37:37,760 - 01:37:39,420] 10 to the 10th.
+- [01:37:39,460 - 01:37:41,520] 10 to the 10th Kelvin.
+- [01:37:42,940 - 01:37:44,020] That corresponds...
+- [01:37:54,209 - 01:37:56,800] That corresponds to a T...
+- [01:37:56,800 - 01:37:59,020] a today over A of T...
+- [01:37:59,820 - 01:38:01,500] of about 10 to the 14.
+- [01:38:02,360 - 01:38:03,260] In other words,
+- [01:38:03,260 - 01:38:04,540] at the point where the universe
+- [01:38:05,290 - 01:38:07,740] was 10 to the 14 times smaller,
+- [01:38:07,900 - 01:38:09,440] or where the scale factor was 10 to the 14,
+- [01:38:09,460 - 01:38:11,840] 10 to the 14 times smaller than it is today,
+- [01:38:12,000 - 01:38:16,000] the temperature would be 10 to the 14 times larger,
+- [01:38:17,179 - 01:38:20,240] and the characteristic photon wavelength,
+- [01:38:20,560 - 01:38:22,620] or the characteristic photon energy,
+- [01:38:23,300 - 01:38:25,680] would be about a million electron volts.
+- [01:38:26,220 - 01:38:27,380] At this point,
+- [01:38:27,380 - 01:38:32,860] the characteristic energy of a photon is 1 MeV.
+- [01:38:33,140 - 01:38:33,960] So the...
+- [01:38:33,960 - 01:38:35,580] what I called epsilon earlier,
+- [01:38:36,780 - 01:38:38,620] the energy of a photon...
+- [01:38:40,780 - 01:38:43,380] here is about 1 MeV.
+- [01:38:44,300 - 01:38:46,120] One million electron volts.
+- [01:38:47,080 - 01:38:50,140] Now that happens to be about
+- [01:38:50,140 - 01:38:53,200] twice the mass of an electron.
+- [01:38:53,420 - 01:38:55,660] The mc squared of an electron...
+- [01:38:56,440 - 01:38:57,400] I'm sorry,
+- [01:38:57,400 - 01:38:58,580] it's about...
+- [01:39:09,920 - 01:39:12,260] Then it would correspond to the mass of an electron.
+- [01:39:12,720 - 01:39:14,400] Correspond to the mass of an electron.
+- [01:39:14,920 - 01:39:18,340] Once the temperature gets up to that high a temperature,
+- [01:39:18,680 - 01:39:20,820] there are lots of photons around
+- [01:39:21,420 - 01:39:24,660] whose energy is high enough that if they collide,
+- [01:39:24,900 - 01:39:26,240] that when they collide,
+- [01:39:26,420 - 01:39:27,960] two photons...
+- [01:39:29,540 - 01:39:32,440] have enough energy that when they collide,
+- [01:39:33,360 - 01:39:35,780] that they can make a transition
+- [01:39:36,440 - 01:39:37,740] to an electron...
+- [01:39:39,460 - 01:39:40,300] e minus...
+- [01:39:40,300 - 01:39:43,260] and a positively charged electron,
+- [01:39:43,260 - 01:39:44,020] a positron.
+- [01:39:45,240 - 01:39:46,080] In other words,
+- [01:39:46,080 - 01:39:47,900] pair production becomes possible.
+- [01:39:50,440 - 01:39:52,720] That whether it does or doesn't happen
+- [01:39:52,720 - 01:39:55,880] is a matter of quantum electrodynamics and computation,
+- [01:39:56,400 - 01:39:58,220] but it could not happen
+- [01:39:58,220 - 01:40:01,560] when the energies were much lower than this...
+- [01:40:01,560 - 01:40:04,860] than the energy of the mass of an electron.
+- [01:40:05,380 - 01:40:09,340] So once you get up above this threshold here,
+- [01:40:09,460 - 01:40:12,000] the photons have enough energy
+- [01:40:12,000 - 01:40:14,540] that they can make electron-positron pairs,
+- [01:40:14,700 - 01:40:15,160] and they do.
+- [01:40:15,620 - 01:40:16,420] And they do.
+- [01:40:16,540 - 01:40:19,900] Quantum electrodynamics says that photons of such energy,
+- [01:40:20,060 - 01:40:20,800] when they collide,
+- [01:40:21,020 - 01:40:23,100] have a significant probability
+- [01:40:23,100 - 01:40:25,680] of creating an electron-positron pair.
+- [01:40:26,960 - 01:40:28,420] It's also true
+- [01:40:28,420 - 01:40:32,040] that electron-positron pairs will collide together
+- [01:40:32,040 - 01:40:33,260] and make pairs of photons.
+- [01:40:33,960 - 01:40:36,560] What happens is the electrons,
+- [01:40:36,560 - 01:40:37,960] positrons,
+- [01:40:37,960 - 01:40:38,840] and photons,
+- [01:40:38,840 - 01:40:41,360] come into thermal equilibrium.
+- [01:40:41,860 - 01:40:43,960] The electrons and positrons,
+- [01:40:44,760 - 01:40:47,100] the number of electrons and positrons,
+- [01:40:47,820 - 01:40:54,680] is no longer determined by memory of the future.
+- [01:40:54,880 - 01:40:56,740] Memory of the future meaning today.
+- [01:40:57,500 - 01:40:59,060] When we go back one time,
+- [01:40:59,340 - 01:41:01,250] we come to a point where
+- [01:41:01,250 - 01:41:03,160] new particles can legitimately be created
+- [01:41:03,840 - 01:41:06,800] by simply the energy of collision of photons.
+- [01:41:08,840 - 01:41:09,620] And the equilibrium,
+- [01:41:09,900 - 01:41:13,020] the number of such electrons and positrons,
+- [01:41:13,120 - 01:41:15,580] is determined not by history,
+- [01:41:15,800 - 01:41:17,200] but just by the temperature.
+- [01:41:17,680 - 01:41:18,700] And in fact,
+- [01:41:19,480 - 01:41:21,980] thermal equilibrium at that temperature,
+- [01:41:22,639 - 01:41:25,100] when you're at thermal equilibrium at that temperature,
+- [01:41:27,440 - 01:41:29,460] the number of electrons
+- [01:41:30,960 - 01:41:32,020] is equal
+- [01:41:32,020 - 01:41:35,280] to the number of positrons,
+- [01:41:35,340 - 01:41:36,520] not quite,
+- [01:41:36,520 - 01:41:37,460] we'll see in a moment,
+- [01:41:37,460 - 01:41:38,080] but close,
+- [01:41:38,840 - 01:41:41,280] number of electrons is equal to the number of positrons
+- [01:41:41,280 - 01:41:43,800] is about equal to the number of photons.
+- [01:41:44,580 - 01:41:45,560] In other words,
+- [01:41:45,560 - 01:41:46,240] it's a soup
+- [01:41:46,919 - 01:41:48,400] consisting of electrons.
+- [01:41:49,579 - 01:41:51,509] What happens if the number of
+- [01:41:51,509 - 01:41:53,440] electrons and positrons gets too low?
+- [01:41:56,319 - 01:41:56,879] Well,
+- [01:41:56,879 - 01:41:59,160] they're replenished by collisions.
+- [01:41:59,900 - 01:42:01,440] They're replenished by collisions,
+- [01:42:01,680 - 01:42:04,940] and the collisions will tend to simply resupply them.
+- [01:42:05,100 - 01:42:06,670] What happens if the number of
+- [01:42:06,670 - 01:42:08,240] electrons and positrons get too high?
+- [01:42:08,840 - 01:42:11,240] They will collide and make photons.
+- [01:42:11,640 - 01:42:12,900] So there's a balance,
+- [01:42:12,980 - 01:42:15,320] and the balance is not
+- [01:42:15,320 - 01:42:17,660] determined by anything except the temperature,
+- [01:42:17,940 - 01:42:19,820] and above that temperature,
+- [01:42:20,559 - 01:42:22,940] the three species of electrons,
+- [01:42:22,940 - 01:42:23,780] positrons,
+- [01:42:23,780 - 01:42:25,020] and photons
+- [01:42:25,020 - 01:42:27,380] are all about equally abundant.
+- [01:42:31,780 - 01:42:34,880] You said that the universe is electrically neutral,
+- [01:42:34,880 - 01:42:35,340] right?
+- [01:42:35,480 - 01:42:37,180] So you're talking here about...
+- [01:42:37,180 - 01:42:37,380] Approximately,
+- [01:42:37,380 - 01:42:37,660] yes.
+- [01:42:37,660 - 01:42:38,180] No,
+- [01:42:38,180 - 01:42:39,180] as far as we know,
+- [01:42:39,180 - 01:42:40,580] it's exactly electrically neutral.
+- [01:42:40,840 - 01:42:42,660] So here you're talking about
+- [01:42:42,660 - 01:42:44,480] the creation of electrons and positrons
+- [01:42:44,480 - 01:42:46,300] that are beyond the actual electrons
+- [01:42:46,300 - 01:42:48,120] that are part of the universe now.
+- [01:42:48,920 - 01:42:49,440] Well,
+- [01:42:49,440 - 01:42:49,620] of course,
+- [01:42:49,620 - 01:42:51,400] you can't tell which ones are which.
+- [01:42:51,700 - 01:42:52,940] But this is just a balance.
+- [01:42:53,160 - 01:42:55,100] These are the additional ones.
+- [01:42:55,140 - 01:42:56,440] These are the additional ones,
+- [01:42:56,440 - 01:42:57,560] right?
+- [01:42:58,320 - 01:43:01,260] And remember that this number is
+- [01:43:01,260 - 01:43:04,200] about 10 to the eighth times larger
+- [01:43:04,799 - 01:43:05,700] than the...
+- [01:43:08,520 - 01:43:10,400] number of electrons today.
+- [01:43:10,980 - 01:43:11,760] Yeah.
+- [01:43:11,900 - 01:43:14,720] The implication of that is something like this.
+- [01:43:16,740 - 01:43:19,820] The number of electrons...
+- [01:43:22,280 - 01:43:26,000] minus the number of positrons,
+- [01:43:26,240 - 01:43:30,360] that's the excess of electrons to positrons.
+- [01:43:30,560 - 01:43:31,820] That doesn't change.
+- [01:43:32,340 - 01:43:33,820] That doesn't change.
+- [01:43:33,900 - 01:43:37,060] The excess of electrons over positrons doesn't change.
+- [01:43:37,660 - 01:43:38,840] As the universe calls.
+- [01:43:39,380 - 01:43:43,700] What does change is the sum of electrons and positrons.
+- [01:43:43,760 - 01:43:45,080] When a collision takes place,
+- [01:43:45,080 - 01:43:46,980] it creates an electron and a positron.
+- [01:43:47,540 - 01:43:48,220] Okay?
+- [01:43:48,320 - 01:43:50,920] So the electrons plus positrons increase,
+- [01:43:51,460 - 01:43:53,600] but the electrons minus positrons,
+- [01:43:53,660 - 01:43:54,120] in other words,
+- [01:43:54,120 - 01:43:56,600] the excess of electrons over positrons,
+- [01:43:56,600 - 01:43:57,360] does not change.
+- [01:43:58,820 - 01:43:59,500] So,
+- [01:43:59,500 - 01:44:03,980] the number of electrons minus the number of positrons,
+- [01:44:04,660 - 01:44:07,360] that's basically today the number of electrons.
+- [01:44:08,559 - 01:44:10,620] Whatever the number of electrons today is,
+- [01:44:10,780 - 01:44:12,220] it was originally,
+- [01:44:12,220 - 01:44:13,540] the number of electrons
+- [01:44:13,540 - 01:44:15,100] minus the number of positrons,
+- [01:44:15,300 - 01:44:17,860] and if you divide that by the number of electrons
+- [01:44:18,559 - 01:44:20,400] plus the number of positrons.
+- [01:44:21,580 - 01:44:24,760] Well the number of electrons plus the number of positrons
+- [01:44:24,760 - 01:44:27,000] is basically of the same order of
+- [01:44:27,000 - 01:44:28,400] magnitude as the number of photons.
+- [01:44:29,700 - 01:44:32,080] But the number of electrons today,
+- [01:44:32,320 - 01:44:34,420] in ratio to the number of photons,
+- [01:44:34,640 - 01:44:36,080] is 10 to the minus eighth.
+- [01:44:36,940 - 01:44:41,580] So this number is believed at the time when the
+- [01:44:41,580 - 01:44:46,220] universe was hot enough to create lots of electrons and positrons,
+- [01:44:46,440 - 01:44:48,980] this number is believed to have
+- [01:44:48,980 - 01:44:51,520] been about 10 to the minus 8th.
+- [01:44:52,040 - 01:44:53,200] In other words,
+- [01:44:53,200 - 01:44:56,720] if we forget about today and we just
+- [01:44:56,720 - 01:45:00,240] ask what was life like in the very,
+- [01:45:00,240 - 01:45:01,560] very early times
+- [01:45:01,560 - 01:45:07,240] when electrons and positrons were as abundant as photons,
+- [01:45:08,060 - 01:45:10,910] then basically for every 10
+- [01:45:10,910 - 01:45:13,760] to the 8th electron-positron pairs,
+- [01:45:13,760 - 01:45:16,700] there was one excess electron.
+- [01:45:17,900 - 01:45:20,560] Now that's an extremely odd fact.
+- [01:45:21,300 - 01:45:23,320] That's an extremely odd fact,
+- [01:45:23,320 - 01:45:26,550] and it turns upside down the old
+- [01:45:26,550 - 01:45:29,780] question of why there are so many photons.
+- [01:45:30,380 - 01:45:31,220] But...
+- [01:45:32,919 - 01:45:37,020] The question is not why there are so many photons,
+- [01:45:38,259 - 01:45:40,940] as it is why there are so few.
+- [01:45:44,100 - 01:45:48,620] Why the excess of electrons minus...
+- [01:45:49,040 - 01:45:51,200] Why this difference is so much smaller
+- [01:45:51,200 - 01:45:53,360] than the total number of electrons and positrons.
+- [01:45:53,900 - 01:45:55,650] The question is not how did the
+- [01:45:55,650 - 01:45:57,400] number of photons get to be large.
+- [01:45:58,420 - 01:46:00,860] It's why is the excess of...
+- [01:46:00,860 - 01:46:05,220] minus charges over plus charges so terribly tiny.
+- [01:46:06,170 - 01:46:15,345] But the question can even be turned around again by asking what is it
+- [01:46:15,345 - 01:46:24,520] that led to any difference between the number of electrons and the number of positrons.
+- [01:46:25,140 - 01:46:28,000] If the universe really started neutral,
+- [01:46:28,000 - 01:46:30,480] and for the moment suppose there were no protons,
+- [01:46:30,480 - 01:46:32,340] let's start with a world with no protons.
+- [01:46:35,360 - 01:46:37,140] Start with a world with no protons.
+- [01:46:37,640 - 01:46:39,000] There's lots of photons,
+- [01:46:39,000 - 01:46:40,560] lots of electrons,
+- [01:46:40,560 - 01:46:41,880] and lots of positrons.
+- [01:46:42,760 - 01:46:45,220] And if you believe in symmetry,
+- [01:46:45,220 - 01:46:48,940] in particular symmetry between particles and antiparticles,
+- [01:46:48,940 - 01:46:49,900] you might guess
+- [01:46:50,660 - 01:46:53,760] that the way the world started was with an
+- [01:46:53,760 - 01:46:56,860] equal number of an equal abundance of electrons and positrons.
+- [01:46:57,460 - 01:47:00,320] If it had no electrons and positrons to begin with,
+- [01:47:00,320 - 01:47:01,720] it would very quickly...the photons
+- [01:47:01,720 - 01:47:03,120] would collide with each other,
+- [01:47:03,120 - 01:47:05,520] make electrons and positrons but in equal numbers.
+- [01:47:06,679 - 01:47:06,980] So,
+- [01:47:06,980 - 01:47:08,840] a natural expectation,
+- [01:47:08,840 - 01:47:11,900] based on symmetry,
+- [01:47:11,900 - 01:47:13,630] would be that the number of
+- [01:47:13,630 - 01:47:15,360] electrons and number of positrons were equal.
+- [01:47:17,379 - 01:47:19,360] Plenty of...and that this would be 0.
+- [01:47:21,380 - 01:47:23,420] That turns the question around again.
+- [01:47:25,779 - 01:47:29,360] Given that the number of electrons and positrons
+- [01:47:29,360 - 01:47:30,300] are not equal.
+- [01:47:30,300 - 01:47:30,540] equal,
+- [01:47:30,540 - 01:47:32,540] which is odd in itself,
+- [01:47:32,540 - 01:47:34,600] the question then becomes,
+- [01:47:34,600 - 01:47:35,940] why is it so small?
+- [01:47:38,120 - 01:47:39,860] But on the other hand,
+- [01:47:39,860 - 01:47:40,420] you could say,
+- [01:47:40,420 - 01:47:40,620] well,
+- [01:47:40,620 - 01:47:42,780] 10 to the minus eighth is a lot bigger than
+- [01:47:42,780 - 01:47:43,100] zero.
+- [01:47:43,380 - 01:47:44,860] So why is it so big?
+- [01:47:46,200 - 01:47:47,420] Why is it so big?
+- [01:47:47,720 - 01:47:49,020] Why is it so small?
+- [01:47:49,520 - 01:47:52,300] What is the theory which tells
+- [01:47:52,300 - 01:47:55,080] us why there's an electron positron imbalance?
+- [01:47:55,080 - 01:47:57,380] Before we address that,
+- [01:47:57,380 - 01:47:58,460] let's go back,
+- [01:47:58,460 - 01:47:59,660] let's go even a little,
+- [01:47:59,660 - 01:48:00,700] we'll address that next
+- [01:48:00,700 - 01:48:01,080] time.
+- [01:48:02,200 - 01:48:06,540] That's the theory of particle,
+- [01:48:06,540 - 01:48:09,580] anti-particle excess,
+- [01:48:09,580 - 01:48:12,220] excess of particles over anti-particles.
+- [01:48:13,020 - 01:48:16,040] Let's just go a little bit further back,
+- [01:48:16,040 - 01:48:19,820] another factor of 100 or 200 or 300 in temperature,
+- [01:48:20,140 - 01:48:22,240] and something else begins to happen.
+- [01:48:23,500 - 01:48:24,600] If we go back.
+- [01:48:24,600 - 01:48:25,820] If we go back another factor of,
+- [01:48:25,820 - 01:48:27,140] let's say,
+- [01:48:27,140 - 01:48:28,920] certainly by a factor of a thousand,
+- [01:48:28,920 - 01:48:29,480] certainly
+- [01:48:29,480 - 01:48:30,740] by a factor of a thousand,
+- [01:48:30,740 - 01:48:34,680] then probably a good deal less than that,
+- [01:48:34,680 - 01:48:35,960] then the photon
+- [01:48:35,960 - 01:48:38,380] collisions can make quarks and anti-quarks.
+- [01:48:38,620 - 01:48:42,260] By the time it's a thousand times hotter,
+- [01:48:42,260 - 01:48:46,380] the collisions can make protons and anti-protons.
+- [01:48:47,920 - 01:48:51,440] So if we go back another factor of a thousand.
+- [01:48:53,800 - 01:48:54,340] The.
+- [01:48:54,480 - 01:48:54,580] The.
+- [01:48:54,580 - 01:48:58,640] The universe should be filled with protons and anti-protons,
+- [01:48:58,640 - 01:49:00,480] again in equal abundance.
+- [01:49:00,860 - 01:49:01,940] The trouble is,
+- [01:49:01,940 - 01:49:05,360] it's too hot for protons and anti-protons to exist.
+- [01:49:05,880 - 01:49:06,740] They simply,
+- [01:49:06,740 - 01:49:08,930] the same way that hydrogen
+- [01:49:08,930 - 01:49:11,120] dissociates into electrons and protons,
+- [01:49:11,120 - 01:49:14,600] the protons and
+- [01:49:14,600 - 01:49:15,140] neutrons,
+- [01:49:15,140 - 01:49:16,300] or the protons in particular,
+- [01:49:16,300 - 01:49:17,780] will dissociate into quarks.
+- [01:49:18,440 - 01:49:19,600] So above,
+- [01:49:19,600 - 01:49:22,060] what would it be?
+- [01:49:22,480 - 01:49:23,160] Uh.
+- [01:49:23,160 - 01:49:24,860] I lost track of the temperature,
+- [01:49:24,860 - 01:49:26,350] but another factor of 10 to
+- [01:49:26,350 - 01:49:27,840] the 2 or 10 to the 3,
+- [01:49:27,840 - 01:49:28,760] and
+- [01:49:28,760 - 01:49:32,980] the world is a hot soup of electrons,
+- [01:49:32,980 - 01:49:33,820] positrons,
+- [01:49:33,820 - 01:49:34,380] photons,
+- [01:49:34,380 - 01:49:35,340] quarks,
+- [01:49:35,340 - 01:49:36,440] and anti-quarks.
+- [01:49:36,680 - 01:49:37,940] And am I missing anything?
+- [01:49:38,440 - 01:49:39,000] Dark matter.
+- [01:49:39,560 - 01:49:40,540] Dark matter,
+- [01:49:40,540 - 01:49:41,200] yeah.
+- [01:49:42,460 - 01:49:43,300] Dark matter,
+- [01:49:43,300 - 01:49:45,260] which we don't know exactly what it is.
+- [01:49:46,520 - 01:49:47,040] Gluons.
+- [01:49:48,000 - 01:49:49,200] All sorts of things.
+- [01:49:49,660 - 01:49:50,180] And.
+- [01:49:50,520 - 01:49:51,700] The population.
+- [01:49:51,800 - 01:49:52,100] Uh.
+- [01:49:53,160 - 01:49:53,260] It's a little complicated.
+- [01:49:55,140 - 01:49:56,140] But this little.
+- [01:49:56,580 - 01:49:57,060] Energy,
+- [01:49:57,060 - 01:49:58,460] how does that fit into the.
+- [01:49:59,560 - 01:50:02,820] That's that's that is not important in the early universe.
+- [01:50:03,480 - 01:50:05,520] That's not very important in the early universe.
+- [01:50:05,780 - 01:50:07,780] It's not part of the story at this stage.
+- [01:50:10,620 - 01:50:13,480] But what is true is that there are some relics.
+- [01:50:13,740 - 01:50:14,700] Some relics,
+- [01:50:14,700 - 01:50:15,860] like dinosaur hunting.
+- [01:50:16,040 - 01:50:18,430] What are the things which didn't
+- [01:50:18,430 - 01:50:20,820] change since the very earliest times?
+- [01:50:21,680 - 01:50:22,160] And.
+- [01:50:22,160 - 01:50:25,200] It's expected or thought that
+- [01:50:25,200 - 01:50:28,240] the excess of matter to anti-matter,
+- [01:50:28,240 - 01:50:29,440] in particular electrons
+- [01:50:29,440 - 01:50:30,360] to positrons,
+- [01:50:30,360 - 01:50:31,200] goes way,
+- [01:50:31,200 - 01:50:31,780] way back.
+- [01:50:32,400 - 01:50:35,580] Same with the number of quarks to anti-quarks.
+- [01:50:36,440 - 01:50:37,720] Number of quarks.
+- [01:50:37,980 - 01:50:40,620] There are more quarks today than there are anti-quarks.
+- [01:50:40,940 - 01:50:43,740] That's because there are protons and no anti-protons,
+- [01:50:43,740 - 01:50:45,540] or not many anti-protons out there.
+- [01:50:46,320 - 01:50:47,480] And so the.
+- [01:50:47,640 - 01:50:50,840] There's an excess of quarks over anti-quarks.
+- [01:50:51,020 - 01:50:52,140] There's an excess of electrons.
+- [01:50:52,140 - 01:50:53,580] There's an excess of electrons over positrons.
+- [01:50:54,080 - 01:50:55,200] And the question is,
+- [01:50:55,200 - 01:50:56,710] what is the origin of that
+- [01:50:56,710 - 01:50:58,220] excess and why is it so small?
+- [01:50:58,480 - 01:51:00,220] What is the theory that accounts for it?
+- [01:51:00,680 - 01:51:02,040] Are those similar numbers?
+- [01:51:02,800 - 01:51:03,400] What's the.
+- [01:51:04,360 - 01:51:05,580] Are they similar in intensity?
+- [01:51:06,020 - 01:51:07,300] Those two differences.
+- [01:51:07,800 - 01:51:08,140] Oh,
+- [01:51:08,140 - 01:51:08,540] they're the same.
+- [01:51:09,060 - 01:51:11,830] They are a factor of three because
+- [01:51:11,830 - 01:51:14,600] three quarks to a to a proton.
+- [01:51:14,800 - 01:51:15,620] But yeah,
+- [01:51:15,620 - 01:51:20,220] the excess of baryon matter to anti-baryon,
+- [01:51:20,220 - 01:51:21,980] which means quarks to anti-quarks.
+- [01:51:21,980 - 01:51:24,980] Is the same as the excess of electrons to positrons.
+- [01:51:25,080 - 01:51:26,760] That's to keep electrical neutrality.
+- [01:51:27,400 - 01:51:27,920] Yeah.
+- [01:51:29,159 - 01:51:31,320] And so that's about the same number.
+- [01:51:32,320 - 01:51:33,460] Roughly the same number.
+- [01:51:33,900 - 01:51:34,420] And.
+- [01:51:36,880 - 01:51:37,480] You know,
+- [01:51:37,480 - 01:51:37,980] we can ask.
+- [01:51:39,180 - 01:51:42,760] What in our experience with physics would account,
+- [01:51:42,760 - 01:51:44,840] could account for that imbalance?
+- [01:51:45,380 - 01:51:46,980] And we do have a theory of it.
+- [01:51:47,200 - 01:51:48,940] Not a detailed theory of it.
+- [01:51:49,020 - 01:51:50,400] That number 10 to the
+- [01:51:50,400 - 01:51:51,780] minus eight has never been calculated.
+- [01:51:51,780 - 01:51:51,960] But it's a theory.
+- [01:51:51,980 - 01:51:52,860] It's not calculated as a hard number.
+- [01:51:54,940 - 01:51:57,180] But there is a rough theory of it.
+- [01:51:57,240 - 01:51:59,240] And we more or less understand why it's small.
+- [01:51:59,480 - 01:51:59,740] Yeah.
+- [01:51:59,920 - 01:52:02,640] But where do the forces start coming together?
+- [01:52:03,320 - 01:52:03,760] Well,
+- [01:52:03,760 - 01:52:04,520] that's what it means.
+- [01:52:04,700 - 01:52:05,080] The forces.
+- [01:52:05,080 - 01:52:07,620] The combination of forces when you get
+- [01:52:07,620 - 01:52:10,160] back to high enough temperatures to the forces
+- [01:52:10,160 - 01:52:12,600] and the forces combined.
+- [01:52:14,440 - 01:52:14,880] Oh,
+- [01:52:14,880 - 01:52:15,580] that's way back.
+- [01:52:15,800 - 01:52:16,640] That's that's way back.
+- [01:52:16,740 - 01:52:17,500] That's that's much,
+- [01:52:17,500 - 01:52:18,400] much hotter than this.
+- [01:52:18,500 - 01:52:18,620] Yeah.
+- [01:52:18,880 - 01:52:19,320] Yeah.
+- [01:52:19,320 - 01:52:22,520] But let's just let's just let's start.
+- [01:52:22,660 - 01:52:24,300] Let's just think about for a moment.
+- [01:52:24,600 - 01:52:27,210] Starting with this condition where
+- [01:52:27,210 - 01:52:29,820] there's lots of electrons and positrons,
+- [01:52:29,820 - 01:52:30,700] lots of photons.
+- [01:52:30,960 - 01:52:31,900] It makes this hot soup.
+- [01:52:32,100 - 01:52:34,500] It's almost completely balanced between electrons
+- [01:52:34,500 - 01:52:36,900] and positrons with a tiny excess.
+- [01:52:37,300 - 01:52:39,300] And let's follow it forward in time.
+- [01:52:39,740 - 01:52:41,770] As we follow it forward in
+- [01:52:41,770 - 01:52:43,800] time and it starts to cool down,
+- [01:52:43,800 - 01:52:47,400] the electrons and positrons will annihilate into photons.
+- [01:52:47,880 - 01:52:49,300] But typically the photons will be in the same place.
+- [01:52:49,300 - 01:52:53,340] The photons will not will not have enough energy
+- [01:52:53,340 - 01:52:57,380] to to collide and make electrons and positrons again.
+- [01:52:57,580 - 01:52:59,420] So as you cool it down,
+- [01:52:59,420 - 01:53:03,320] annihilation becomes the dominant thing that happens.
+- [01:53:03,440 - 01:53:06,330] Annihilation of electrons and positrons and
+- [01:53:06,330 - 01:53:09,220] the electrons and positrons just annihilate.
+- [01:53:09,400 - 01:53:12,880] They just they just disappear and turn into photons.
+- [01:53:13,240 - 01:53:14,380] The photons scatter.
+- [01:53:14,680 - 01:53:15,880] When they scatter,
+- [01:53:15,880 - 01:53:17,520] they thermalize.
+- [01:53:17,680 - 01:53:19,280] And their temperature collapses.
+- [01:53:19,280 - 01:53:21,010] The electrons come below the temperature
+- [01:53:21,010 - 01:53:22,740] needed to make electrons and positrons.
+- [01:53:23,100 - 01:53:24,840] And so if the number
+- [01:53:24,840 - 01:53:26,580] of electrons and positrons were equal,
+- [01:53:26,580 - 01:53:30,030] what would simply happen is essentially
+- [01:53:30,030 - 01:53:33,480] all the electrons and positrons would annihilate.
+- [01:53:33,480 - 01:53:36,660] And there would be none left or almost none left.
+- [01:53:37,980 - 01:53:41,360] What we see is the
+- [01:53:41,360 - 01:53:44,740] leftover because it wasn't exactly balanced.
+- [01:53:45,060 - 01:53:47,000] What we see is the imbalance.
+- [01:53:49,280 - 01:53:50,200] As far as we can tell,
+- [01:53:50,200 - 01:53:53,310] electrons dominate over positrons
+- [01:53:53,310 - 01:53:56,420] everywhere in the universe.
+- [01:53:56,640 - 01:53:59,525] It's not as if we were just a
+- [01:53:59,525 - 01:54:02,410] local pocket where there's more electrons than positrons.
+- [01:54:02,900 - 01:54:04,420] A statistical fluctuation.
+- [01:54:07,560 - 01:54:09,460] No matter how far out we look,
+- [01:54:09,460 - 01:54:12,460] what we see appears to be
+- [01:54:12,460 - 01:54:15,460] due to electrons and not to positrons.
+- [01:54:15,600 - 01:54:17,460] We see cosmic rays coming in.
+- [01:54:17,960 - 01:54:19,960] Cosmic rays appear to be made.
+- [01:54:20,240 - 01:54:21,700] And the cosmic rays,
+- [01:54:21,700 - 01:54:22,980] the highest energy ones,
+- [01:54:22,980 - 01:54:25,580] are cosmic in origin,
+- [01:54:25,580 - 01:54:26,080] very,
+- [01:54:26,080 - 01:54:26,780] very far away.
+- [01:54:28,640 - 01:54:31,250] Nobody has ever seen an
+- [01:54:31,250 - 01:54:33,860] antinucleus come in in cosmic rays.
+- [01:54:34,440 - 01:54:37,180] There are a few antiprotons that come in.
+- [01:54:37,300 - 01:54:38,700] But that's easy to explain.
+- [01:54:38,840 - 01:54:40,010] If a high energy particle
+- [01:54:40,010 - 01:54:41,180] comes in and hits the atmosphere,
+- [01:54:41,180 - 01:54:42,860] it will make some antiprotons.
+- [01:54:43,160 - 01:54:45,920] But the chances of it making an antinucleus,
+- [01:54:45,920 - 01:54:46,100] you know,
+- [01:54:46,100 - 01:54:47,440] a whole helium nucleus,
+- [01:54:47,440 - 01:54:47,440] is very,
+- [01:54:47,440 - 01:54:47,440] very low.
+- [01:54:47,440 - 01:54:49,500] That's extremely small.
+- [01:54:49,880 - 01:54:51,080] On the other hand,
+- [01:54:51,080 - 01:54:54,800] if there were galaxies out there that were anti-galaxies,
+- [01:54:54,800 - 01:54:59,340] then we should see coming from them antinuclei,
+- [01:55:00,040 - 01:55:01,790] which would be of the same
+- [01:55:01,790 - 01:55:03,540] kind or just the opposite kind,
+- [01:55:03,540 - 01:55:06,120] the opposite charge of the nuclei that
+- [01:55:06,120 - 01:55:08,700] we see coming from ordinary matter galaxies.
+- [01:55:09,060 - 01:55:13,240] So the complete absence of antinuclei in cosmic rays
+- [01:55:13,240 - 01:55:17,420] are a pretty strong indication that everywhere there's a galaxy.
+- [01:55:17,420 - 01:55:17,540] And in fact,
+- [01:55:17,540 - 01:55:18,280] this is true in many other galaxies throughout the universe.
+- [01:55:18,660 - 01:55:21,540] This sign difference here,
+- [01:55:21,540 - 01:55:24,760] or this excess of electrons over positrons,
+- [01:55:24,760 - 01:55:25,480] is the same,
+- [01:55:25,480 - 01:55:28,520] and of the same order of magnitude.
+- [01:55:28,660 - 01:55:29,220] In fact,
+- [01:55:29,220 - 01:55:30,660] it is of the same order of magnitude.
+- [01:55:31,920 - 01:55:33,560] So there's something to explain there.
+- [01:55:35,760 - 01:55:36,320] Question?
+- [01:55:36,840 - 01:55:37,260] Mm-hmm?
+- [01:55:37,300 - 01:55:39,170] So that's N e minus N
+- [01:55:39,170 - 01:55:41,040] e plus is also equal to n,
+- [01:55:41,040 - 01:55:41,760] proton.
+- [01:55:42,540 - 01:55:43,260] Mm-hmm?
+- [01:55:44,600 - 01:55:45,340] Mm-hmm.
+- [01:55:49,160 - 01:55:49,800] Yeah,
+- [01:55:49,800 - 01:55:51,060] well,
+- [01:55:51,060 - 01:55:52,520] at this time,
+- [01:55:52,520 - 01:55:56,100] the protons are still the same protons.
+- [01:55:56,740 - 01:56:01,180] The proton pair creation has not happened yet.
+- [01:56:01,980 - 01:56:03,380] So at this time,
+- [01:56:03,380 - 01:56:04,380] NE,
+- [01:56:04,380 - 01:56:06,330] this difference here is the
+- [01:56:06,330 - 01:56:08,280] same as the number of protons.
+- [01:56:09,060 - 01:56:09,700] Right.
+- [01:56:10,540 - 01:56:12,160] That was my question.
+- [01:56:12,260 - 01:56:14,520] What was the protons doing at this time?
+- [01:56:14,520 - 01:56:14,520] Well,
+- [01:56:14,520 - 01:56:16,300] at this time,
+- [01:56:16,300 - 01:56:18,620] the protons were pretty much just protons.
+- [01:56:19,560 - 01:56:20,760] They were knocking around.
+- [01:56:20,960 - 01:56:22,120] The temperature was high enough
+- [01:56:22,120 - 01:56:23,280] to kick them around a lot,
+- [01:56:23,280 - 01:56:24,880] but it wasn't high enough to
+- [01:56:24,880 - 01:56:25,480] destroy them.
+- [01:56:25,780 - 01:56:27,870] And it wasn't high enough
+- [01:56:27,870 - 01:56:29,960] to create new proton-antiproton pairs.
+- [01:56:31,420 - 01:56:34,100] So there was a period when
+- [01:56:34,100 - 01:56:36,780] the protons were just plain old protons,
+- [01:56:36,780 - 01:56:39,640] and there was a tiny
+- [01:56:39,640 - 01:56:42,140] population of them compared to the photons,
+- [01:56:42,140 - 01:56:43,360] 10 to the minus eighth.
+- [01:56:43,360 - 01:56:46,020] And the proton number was about the
+- [01:56:46,020 - 01:56:48,680] same as the difference between electrons and positrons.
+- [01:56:49,060 - 01:56:49,700] Yeah.
+- [01:56:50,100 - 01:56:50,900] In fact,
+- [01:56:50,900 - 01:56:52,620] presumably exactly the same.
+- [01:56:55,560 - 01:56:56,200] Okay.
+- [01:56:57,580 - 01:57:00,910] So you mentioned a couple times that what
+- [01:57:00,910 - 01:57:04,240] we see is probably a very small fraction of
+- [01:57:04,240 - 01:57:04,760] what there is.
+- [01:57:05,080 - 01:57:05,800] Very likely.
+- [01:57:06,140 - 01:57:09,550] So doesn't that make us doubt
+- [01:57:09,550 - 01:57:12,960] our results about the excess of matter,
+- [01:57:12,960 - 01:57:13,340] or whatever?
+- [01:57:14,940 - 01:57:15,640] I mean,
+- [01:57:15,640 - 01:57:19,140] so what if you can't see in coordinates?
+- [01:57:19,320 - 01:57:22,330] Are there any alternative theories that
+- [01:57:22,330 - 01:57:25,340] perhaps make different assumptions about that imbalance,
+- [01:57:25,500 - 01:57:26,840] that perhaps are not imbalanced,
+- [01:57:26,840 - 01:57:28,840] but that we can't see in coordinates?
+- [01:57:31,679 - 01:57:34,909] What I can tell you is the imbalance is
+- [01:57:34,909 - 01:57:38,140] much too large to be a local statistical fluctuation.
+- [01:57:39,800 - 01:57:41,570] A local statistical fluctuation over a volume of
+- [01:57:41,570 - 01:57:43,340] a proton is not a very large number.
+- [01:57:43,340 - 01:57:43,660] This is the same thing as the total volume of,
+- [01:57:43,660 - 01:57:44,120] let's say,
+- [01:57:44,120 - 01:57:45,500] 10 to the tenth light years
+- [01:57:45,500 - 01:57:45,880] cubed,
+- [01:57:45,880 - 01:57:49,940] all of which have this same sign of imbalance,
+- [01:57:49,940 - 01:57:52,120] same order of magnitude.
+- [01:57:52,800 - 01:57:57,170] Such a random statistical fluctuation of
+- [01:57:57,170 - 01:58:01,540] matter over antimatter would be violently unlikely.
+- [01:58:03,540 - 01:58:06,220] So the fact that the 10 billion light years
+- [01:58:06,220 - 01:58:08,900] or 20 billion light years or so that we see
+- [01:58:08,900 - 01:58:12,120] is all of the same sign certainly needs an explanation.
+- [01:58:12,280 - 01:58:13,320] And an explanation can be easily found.
+- [01:58:13,320 - 01:58:16,700] cannot be a random statistical fluctuation.
+- [01:58:16,700 - 01:58:19,680] But your point is correct,
+- [01:58:19,680 - 01:58:20,100] we
+- [01:58:20,100 - 01:58:22,970] simply can't see out beyond a certain
+- [01:58:22,970 - 01:58:25,840] distance and if there's some kind of
+- [01:58:25,840 - 01:58:28,760] reason why there might be a
+- [01:58:28,760 - 01:58:31,680] transition to another region where everything is
+- [01:58:31,680 - 01:58:34,640] backward with respect to electrons and positrons,
+- [01:58:34,640 - 01:58:36,100] we wouldn't know it easily.
+- [01:58:38,339 - 01:58:41,549] So the answer is we don't
+- [01:58:41,549 - 01:58:44,760] have much information about what's out there
+- [01:58:44,760 - 01:58:47,600] beyond 15-20 billion light years.
+- [01:59:01,499 - 01:59:03,740] Let's call it by its current name,
+- [01:59:03,740 - 01:59:04,680] the CMB.
+- [01:59:05,460 - 01:59:06,020] CMB.
+- [01:59:06,060 - 01:59:06,080] CMB.
+- [01:59:06,100 - 01:59:06,140] CMB.
+- [01:59:06,140 - 01:59:06,600] Okay.
+- [01:59:07,319 - 01:59:10,560] CMB is older even than the galaxies,
+- [01:59:10,560 - 01:59:11,100] is that correct?
+- [01:59:11,260 - 01:59:11,480] Oh,
+- [01:59:11,480 - 01:59:12,340] it's older than galaxies.
+- [01:59:12,520 - 01:59:14,100] And since we're receiving it,
+- [01:59:14,100 - 01:59:16,240] that means we're actually getting radiation
+- [01:59:16,240 - 01:59:18,860] from far enough back than what's in the galaxies.
+- [01:59:19,640 - 01:59:20,940] Does that suggest-
+- [01:59:20,940 - 01:59:21,080] Yeah,
+- [01:59:21,080 - 01:59:23,420] galaxies formed in here somewhere.
+- [01:59:24,800 - 01:59:26,890] Does that suggest that while we may
+- [01:59:26,890 - 01:59:28,980] not be able to see the entire universe,
+- [01:59:29,420 - 01:59:31,590] it is unlikely that there's any galaxies
+- [01:59:31,590 - 01:59:33,760] that are so far away that they're
+- [01:59:33,760 - 01:59:34,680] receiving from us?
+- [01:59:36,599 - 01:59:39,359] fast enough that we can't see them because
+- [01:59:39,359 - 01:59:42,120] they couldn't be further away from the source
+- [01:59:42,120 - 01:59:45,420] of the cosmic CMB and we're still getting CMB signals.
+- [01:59:45,560 - 01:59:47,200] Or am I not thinking about it right now?
+- [01:59:48,580 - 01:59:49,860] This is decoupling.
+- [01:59:49,860 - 01:59:51,860] This is the time of decoupling over here.
+- [01:59:51,860 - 01:59:53,000] Here's today.
+- [01:59:53,620 - 01:59:55,160] We see back to here.
+- [01:59:55,160 - 01:59:59,210] That tells us absolutely nothing about whether
+- [01:59:59,210 - 02:00:03,260] there are galaxies up here or not today.
+- [02:00:05,059 - 02:00:06,420] This doesn't tell us anything.
+- [02:00:08,360 - 02:00:08,880] Right.
+- [02:00:08,880 - 02:00:10,470] We could not see them because
+- [02:00:10,470 - 02:00:12,060] we can't get light from them.
+- [02:00:12,280 - 02:00:15,080] From this great distance we can't get light altogether.
+- [02:00:16,300 - 02:00:21,340] But certainly we can't get light from comparable times.
+- [02:00:21,540 - 02:00:21,840] So no,
+- [02:00:21,840 - 02:00:24,200] this tells us nothing about whether
+- [02:00:24,200 - 02:00:26,560] there are galaxies out beyond the...
+- [02:00:28,179 - 02:00:30,619] What we do know is that by
+- [02:00:30,619 - 02:00:33,060] looking out as far as we can look,
+- [02:00:33,920 - 02:00:37,620] we see galaxies homogeneously distributed.
+- [02:00:38,460 - 02:00:41,090] No reason to think that there's a sharp
+- [02:00:41,090 - 02:00:43,720] edge of any kind in the galaxy population.
+- [02:00:44,400 - 02:00:46,020] They just look uniform.
+- [02:00:47,000 - 02:00:50,190] So most people would bet that that uniformity extends
+- [02:00:50,190 - 02:00:53,380] out beyond the distance that we can see through.
+- [02:00:53,760 - 02:00:54,560] See two.
+- [02:00:54,560 - 02:00:56,120] I would.
+- [02:00:57,800 - 02:00:58,400] Yeah.
+- [02:01:01,200 - 02:01:01,800] Okay.
+- [02:01:05,040 - 02:01:06,060] For more,
+- [02:01:06,060 - 02:01:08,480] please visit us at stanford.edu.
