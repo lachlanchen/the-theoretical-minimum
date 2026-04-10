@@ -1,0 +1,2287 @@
+# Transcript
+
+Source: core/quantum_mechanics/2012_winter_theoretical_minimum_alt_title/128 - Lecture 5 ｜ The Theoretical Minimum [sgQafF7tLSo].mkv
+
+- [00:00:00,000 - 00:00:06,400] Stanford University.
+- [00:00:06,400 - 00:00:11,360] Okay, tonight we're going to do a number of things.
+- [00:00:11,360 - 00:00:17,280] We're going to talk about uncertainty.
+- [00:00:17,280 - 00:00:24,880] We're going to talk more about the Schrodinger equation,
+- [00:00:24,880 - 00:00:27,640] the various versions of the Schrodinger equation.
+- [00:00:27,640 - 00:00:30,200] We're going to talk about how things evolve with time.
+- [00:00:30,200 - 00:00:33,880] We've talked about that some already.
+- [00:00:33,880 - 00:00:35,520] Let's see what else we have here.
+- [00:00:35,520 - 00:00:40,400] Yeah, we're going to apply the Schrodinger equation idea
+- [00:00:40,400 - 00:00:45,100] for the evolution of systems to our favorite little system of one spin.
+- [00:00:45,100 - 00:00:48,320] But then if we have time, and I hope we will,
+- [00:00:48,320 - 00:00:50,900] I would like to move past the single spin.
+- [00:00:50,900 - 00:00:55,400] We have a general theory of quantum mechanics
+- [00:00:55,400 - 00:00:57,620] for which I announced what the basic
+- [00:00:57,620 - 00:01:00,920] rules were and the basic principles.
+- [00:01:00,920 - 00:01:05,860] Her mission operators are observables, vectors are states, and so forth and so on.
+- [00:01:05,860 - 00:01:08,260] Orthogonal vectors mean distinguishable.
+- [00:01:08,260 - 00:01:13,620] A very, very general set of principles.
+- [00:01:13,620 - 00:01:17,300] And so far we've applied it to exactly one simple system,
+- [00:01:17,300 - 00:01:19,240] the simplest possible system in the world.
+- [00:01:19,240 - 00:01:21,860] We're not finished with it yet.
+- [00:01:21,860 - 00:01:27,060] But hopefully tonight or next time we will move on to the next simplest.
+- [00:01:27,620 - 00:01:32,620] But if you don't know, it's the next to next simplest system.
+- [00:01:32,620 - 00:01:36,380] There's a simpler one in between, but two spins.
+- [00:01:36,380 - 00:01:40,120] Two spins is the next to next simplest system.
+- [00:01:40,120 - 00:01:45,220] Why do you think that two spins are the next to next simplest system
+- [00:01:45,220 - 00:01:49,620] as opposed to the next to simplest?
+- [00:01:49,620 - 00:01:51,720] A spin has two states.
+- [00:01:51,720 - 00:01:53,380] How many states do two spins have?
+- [00:01:53,380 - 00:01:55,380] Two orthogonal states.
+- [00:01:55,380 - 00:01:56,120] Two?
+- [00:01:56,120 - 00:01:56,780] Four.
+- [00:01:56,780 - 00:01:57,380] Two.
+- [00:01:57,380 - 00:01:58,300] You can state with three states.
+- [00:01:58,300 - 00:02:00,100] The system with three states.
+- [00:02:00,100 - 00:02:02,060] You can imagine a system with only three states.
+- [00:02:02,060 - 00:02:04,040] That's the next to simplest.
+- [00:02:04,040 - 00:02:06,580] So two spins is the next to next to simplest.
+- [00:02:06,580 - 00:02:11,280] But let's get on.
+- [00:02:11,280 - 00:02:13,060] First of all, the concept of uncertainty.
+- [00:02:13,060 - 00:02:17,060] I'm not going to do the mathematical uncertainty principle tonight,
+- [00:02:17,060 - 00:02:20,800] but we should just talk a little bit about the fact
+- [00:02:20,800 - 00:02:27,380] that there are observables, pairs of observables, which cannot simultaneously
+- [00:02:27,380 - 00:02:38,840] be measured. The basic principle is that if you measure something, then by the
+- [00:02:38,840 - 00:02:44,620] definition of a good measurement, you leave the system with the same value
+- [00:02:44,620 - 00:02:50,140] that you measured. Otherwise you couldn't confirm in the next round of, you
+- [00:02:50,140 - 00:02:54,300] couldn't confirm what you had measured. So it's important that you leave the
+- [00:02:54,300 - 00:02:58,860] system at least momentarily or instantaneously having the same value
+- [00:02:58,860 - 00:03:07,200] that you measured. The measurable quantities of a system are the
+- [00:03:07,200 - 00:03:11,800] eigenvalues of the observable operators, the operators that
+- [00:03:11,800 - 00:03:19,500] represent observables, and the states in which the observables are definite, in
+- [00:03:19,500 - 00:03:22,740] other words, in which there's no ambiguity about them, the thing that you
+- [00:03:22,740 - 00:03:24,280] get after you've done a good job of measuring something, is the value of the
+- [00:03:24,280 - 00:03:28,240] observable operator. So the observable operator, on a measurement of a certain
+- [00:03:28,240 - 00:03:35,140] quantity, is an eigenvector, are the eigenvectors of the observables. Now
+- [00:03:35,140 - 00:03:43,240] supposing we had two observables which could be simultaneously measured. If you
+- [00:03:43,240 - 00:03:48,580] measure, you can measure one and it will leave it in a state with that same value,
+- [00:03:48,580 - 00:03:52,720] but you can also measure two things simultaneously. It doesn't matter, it
+- [00:03:52,720 - 00:03:54,280] could be one after the other, but let's let's just call it simultaneously. You
+- [00:03:54,280 - 00:03:59,320] have two measurements simultaneously of two different things and you leave both
+- [00:03:59,320 - 00:04:05,740] of them in eigenvectors of the quantities that were measured, two
+- [00:04:05,740 - 00:04:12,640] distinct quantities. That must mean that the states that you leave things in are
+- [00:04:12,640 - 00:04:18,400] simultaneous eigenvectors of two of the two distinct things. If you can measure
+- [00:04:18,400 - 00:04:23,920] things simultaneously, it means basically that they have the same
+- [00:04:24,280 - 00:04:32,200] eigenvectors, or that there exists a complete set of basis, a basis of...
+- [00:04:32,200 - 00:04:39,340] Incidentally, the term, somebody pointed out to me that the term basis, that I've
+- [00:04:39,340 - 00:04:44,000] been misusing it a little bit, and that's probably true, I use the term basis to
+- [00:04:44,000 - 00:04:49,880] mean a complete set of orthonormal vectors, meaning to say they're all
+- [00:04:49,880 - 00:04:53,500] orthogonal. Quantum physicists tend to use it that way.
+- [00:04:54,280 - 00:05:00,840] I think in mathematics, the notion of a basis does not require the vectors to be
+- [00:05:00,840 - 00:05:06,580] orthogonal. It just requires them to be linearly independent. Alright, that's not
+- [00:05:06,580 - 00:05:10,720] a big deal, I just pointed out to you. I will use the term basis to mean a
+- [00:05:10,720 - 00:05:21,240] complete set of orthogonal normalized vectors. The eigenvectors of an observable
+- [00:05:21,240 - 00:05:22,240] ...
+- [00:05:24,280 - 00:05:30,460] can be made to be a complete orthonormal basis. When I say they can be made to be,
+- [00:05:30,460 - 00:05:35,020] I mean you do have the ambiguity. What happens if there are two eigenvalues
+- [00:05:35,020 - 00:05:40,180] with exactly the same value? Alright, then you have an ambiguity as to how
+- [00:05:40,180 - 00:05:45,820] to choose the eigenvectors, but you can choose them perpendicular. And if you
+- [00:05:45,820 - 00:05:51,040] have two distinct operators, which can be simultaneously measured and therefore
+- [00:05:51,040 - 00:05:54,040] simultaneously left in...
+- [00:05:54,280 - 00:05:55,060] een keynote
+- [00:05:55,060 - 00:06:01,280] eigenvectors of those quantities, it must mean that there is a basis, a basis
+- [00:06:02,780 - 00:06:08,960] of vectors which are simultaneous eigenvectors of both quantities. In other words, there
+- [00:06:08,960 - 00:06:11,260] exists a basis if...
+- [00:06:11,260 - 00:06:22,240] Let's call the two observables L and M. These are Hermitian operators, L and M, and
+- [00:06:22,240 - 00:06:23,120] it means that if L and M,
+- [00:06:23,120 - 00:06:23,600] ....
+- [00:06:23,600 - 00:06:23,980] a function limiter,
+- [00:06:23,980 - 00:06:24,040] sería astronomico,
+- [00:06:24,040 - 00:06:24,180] Obstrakción,
+- [00:06:24,180 - 00:06:24,220] 이게 dióxido,
+- [00:06:24,220 - 00:06:24,280] cubedu,
+- [00:06:24,280 - 00:06:30,680] are to be simultaneously measurable, it must mean that there's a complete basis, basis of states,
+- [00:06:31,720 - 00:06:38,920] which are both simultaneously eigenvectors of L and eigenvectors of M. So that must mean that L on I
+- [00:06:40,840 - 00:06:50,520] equals, let's use the notation for eigenvalues of L, let's use the notation little l,
+- [00:06:50,520 - 00:07:04,640] little l sub i, that's instead of lambda, l sub i times i, that's the condition that i be an eigenvector of L with eigenvalue l sub i,
+- [00:07:04,640 - 00:07:13,680] and at the same time, the same set of states must be eigenvectors of the M observable,
+- [00:07:13,680 - 00:07:19,480] and so this must be true for a complete set of states.
+- [00:07:20,120 - 00:07:20,500] Now,
+- [00:07:20,520 - 00:07:30,920] let's apply l and m in sequence. First l, then m, and then try it the other way and see what we get.
+- [00:07:31,960 - 00:07:39,000] So first, let's start with l on i, here we have it, but now let's take m,
+- [00:07:41,400 - 00:07:49,320] multiply it by l, and then hit the eigenvector i. Well, from the first relationship here,
+- [00:07:50,040 - 00:07:50,440] this is
+- [00:07:50,520 - 00:07:59,320] equal to m times l sub i times i, right? All I've done is plug in this first equation,
+- [00:07:59,960 - 00:08:04,280] but now l sub i, that's just number, that's a number, that's not even a matrix, it's just a
+- [00:08:04,280 - 00:08:11,480] good old number, an eigenvalue, and that means we can write it as l sub i m times i,
+- [00:08:14,440 - 00:08:19,960] but we now know that m times i is just little m. So what does this give? This gives m times i,
+- [00:08:19,960 - 00:08:28,380] this gives l sub i m sub i times i, a product. Okay, that's not too surprising.
+- [00:08:28,960 - 00:08:33,880] i is a thing which can be measured, uh, sorry, m and l are things which can both
+- [00:08:33,880 - 00:08:41,960] be measured simultaneously, and if we multiply the two of them together as matrices or as operators,
+- [00:08:41,960 - 00:08:46,600] they become another observable whose eigenvalues are just the products.
+- [00:08:46,600 - 00:08:48,620] Good, but if we did it exactly the NAOP degrees, by the first option, we'd sometimes get a false positive, but an odd scale I gar.
+- [00:08:48,620 - 00:08:56,200] did it exactly in the opposite order, l m on i, we would get exactly the same thing.
+- [00:08:56,700 - 00:09:01,120] The order, these are just numbers, and so that the order that you write them down doesn't matter.
+- [00:09:01,760 - 00:09:08,800] l sub i times m sub i is the same as m sub i times l sub i, and so this is equal to the same thing.
+- [00:09:09,720 - 00:09:10,840] Same thing.
+- [00:09:10,840 - 00:09:24,620] Now supposing you have two operators which have exactly the same action on every member of a basis.
+- [00:09:25,620 - 00:09:34,740] That means they will have the same action on any superposition of vectors formed out of a superposition of the basis vectors.
+- [00:09:34,740 - 00:09:38,820] In other words, they will have the same action on any vector.
+- [00:09:39,440 - 00:09:40,440] m times l.
+- [00:09:40,440 - 00:09:50,500] And l times m have exactly the same action on any vector, and therefore m times l is equal to l times m as operators.
+- [00:09:51,600 - 00:09:53,620] All right, so we've proved the following theorem.
+- [00:09:54,120 - 00:10:06,360] That if two things are simultaneously measurable, the two observables or the two operators representing those observables commute.
+- [00:10:06,900 - 00:10:09,460] l times m and m times l are the same.
+- [00:10:10,220 - 00:10:10,360] Or?
+- [00:10:10,600 - 00:10:22,620] l times m minus m times l, which is the commutator, which is the commutator, l commutator m, must be equal to zero.
+- [00:10:23,900 - 00:10:30,980] You can prove a stronger form of this theorem, and it just goes the other way.
+- [00:10:31,520 - 00:10:33,900] If you have two operators, I'll leave this to you.
+- [00:10:34,280 - 00:10:40,220] If you have two operators which commute, remember, if you have two operators, you have to commute.
+- [00:10:40,220 - 00:10:55,660] If you have two operators which commute, it means that you can find the complete basis of states in which both of them simultaneously, in which the complete basis of states are simultaneous eigenvectors of the two operators.
+- [00:10:55,660 - 00:10:57,480] In other words, it goes both ways.
+- [00:10:58,180 - 00:11:04,700] Given that you have two things which can simultaneously be measured, it follows that they commute.
+- [00:11:05,220 - 00:11:09,000] And if two things commute, it follows that they can be simultaneously measured.
+- [00:11:09,100 - 00:11:10,200] They have a complete set.
+- [00:11:10,200 - 00:11:12,060] They have a complete set of common eigenvectors.
+- [00:11:14,100 - 00:11:20,120] All right, so the condition, then, for things to be simultaneously measurable is that they commute.
+- [00:11:21,420 - 00:11:22,720] What if they don't commute?
+- [00:11:23,600 - 00:11:27,600] In fact, we already have some examples of things that don't commute.
+- [00:11:28,600 - 00:11:33,380] Sigma x and sigma y and sigma z, no two of them commute.
+- [00:11:34,340 - 00:11:36,420] No two of them commute with each other.
+- [00:11:36,420 - 00:11:39,980] And therefore, they do not have...
+- [00:11:40,200 - 00:11:41,800] They do not have simultaneous eigenvectors.
+- [00:11:41,800 - 00:11:42,900] And that's no surprise.
+- [00:11:43,680 - 00:11:46,420] We know that the eigenvectors of sigma z are up and down.
+- [00:11:46,920 - 00:11:49,600] The eigenvectors of sigma x are left and right.
+- [00:11:49,780 - 00:11:50,860] And they're not the same thing.
+- [00:11:51,000 - 00:11:51,480] They're different.
+- [00:11:52,440 - 00:11:53,600] They don't lie along.
+- [00:11:53,700 - 00:11:56,120] They're not proportional to each other.
+- [00:11:57,220 - 00:12:00,700] So there are examples of operators which don't commute.
+- [00:12:01,220 - 00:12:04,280] In fact, we're going to work out the commutation relations for them.
+- [00:12:04,620 - 00:12:05,340] They don't commute.
+- [00:12:05,520 - 00:12:06,580] In fact, they don't commute.
+- [00:12:06,580 - 00:12:09,900] And that's an indication that you can't measure them simultaneously.
+- [00:12:10,200 - 00:12:12,440] That's the idea of uncertainty.
+- [00:12:12,440 - 00:12:19,840] The idea of uncertainty is when you have two objects, two observables,
+- [00:12:20,100 - 00:12:25,220] each of which you could decide to measure and get an answer.
+- [00:12:25,360 - 00:12:27,620] You may not know what the answer is going to be.
+- [00:12:27,700 - 00:12:28,340] It's statistical.
+- [00:12:29,220 - 00:12:31,020] But you can measure them.
+- [00:12:31,340 - 00:12:34,100] After you've measured them, be certain you can repeat the measurement
+- [00:12:34,100 - 00:12:38,320] and find consistency, each of them, but not both of them.
+- [00:12:38,320 - 00:12:39,020] Okay?
+- [00:12:40,200 - 00:12:42,200] In classical physics, there's no such thing.
+- [00:12:42,200 - 00:12:46,200] If you can measure A and you can measure B, then you can measure both A and B.
+- [00:12:47,200 - 00:12:51,440] And you can be certain about both of them if you can be certain about either of them.
+- [00:12:52,440 - 00:12:52,940] All right.
+- [00:12:52,940 - 00:12:54,440] So that's just a...
+- [00:12:54,440 - 00:12:57,960] And we'll come back to that theme of uncertainty and quantify it.
+- [00:12:58,600 - 00:12:59,800] And quantify it.
+- [00:13:01,900 - 00:13:06,400] There may be states where although you can't be...
+- [00:13:06,400 - 00:13:07,700] Although you're not certain...
+- [00:13:07,700 - 00:13:08,440] Well, all right.
+- [00:13:08,440 - 00:13:09,440] Let's...
+- [00:13:09,440 - 00:13:10,440] We'll come back to it.
+- [00:13:10,440 - 00:13:11,440] We'll come back to it.
+- [00:13:11,440 - 00:13:21,940] We want a quantitative measure of the necessary degree of uncertainty in measuring two things simultaneously.
+- [00:13:21,940 - 00:13:23,440] And that is the uncertainty principle.
+- [00:13:23,440 - 00:13:32,440] But for the moment, we have the idea or an explanation of why there are uncertainty between observables in the first place.
+- [00:13:32,440 - 00:13:33,440] Excuse me.
+- [00:13:33,440 - 00:13:33,940] Yeah.
+- [00:13:33,940 - 00:13:38,440] Could you repeat actually why you have two observables?
+- [00:13:38,440 - 00:13:38,940] Uh...
+- [00:13:39,440 - 00:13:43,440] That they have to share a common or a normal basis?
+- [00:13:43,440 - 00:13:54,440] Well, if you measure them and you get answers for both of them, you have to leave the system in a state which is an eigenvector of either one of them.
+- [00:13:54,440 - 00:13:55,440] Both of them.
+- [00:13:55,940 - 00:13:56,940] That's the rule.
+- [00:13:56,940 - 00:14:05,440] When you measure something, it leaves it in a state of definite thatness, whatever that happens to be, which means an eigenvector.
+- [00:14:05,440 - 00:14:07,440] If you measure two things and you...
+- [00:14:07,440 - 00:14:07,940] And you...
+- [00:14:07,940 - 00:14:08,440] If you can measure two things simultaneously...
+- [00:14:08,440 - 00:14:15,440] If you can measure two things simultaneously, it must mean the state that you leave it in is an eigenvector of both of them.
+- [00:14:15,440 - 00:14:18,440] Okay.
+- [00:14:18,440 - 00:14:19,440] All right.
+- [00:14:19,440 - 00:14:22,440] Let's...
+- [00:14:22,440 - 00:14:31,440] Let's come back now to the evolution of systems.
+- [00:14:31,440 - 00:14:37,440] As I said last time, I went back and looked at the classical mechanics...
+- [00:14:38,440 - 00:14:39,440] I went back and looked at the classical mechanics of quantum notes.
+- [00:14:39,440 - 00:14:46,440] And I realized and I said, okay, I have something like about 50 pages of quantum notes.
+- [00:14:46,440 - 00:14:51,440] The equivalent classically was how many pages in the classical mechanics...
+- [00:14:51,440 - 00:14:53,440] It was about a quarter of a page, I think.
+- [00:14:53,440 - 00:15:01,440] Just a statement that states are sets of things and that you can write on the blackboard points on the...
+- [00:15:01,440 - 00:15:02,440] All right.
+- [00:15:02,440 - 00:15:06,440] So 50 pages to get to where classical mechanics we were after about 30 years.
+- [00:15:06,440 - 00:15:07,440] Okay.
+- [00:15:07,440 - 00:15:10,440] About 30 seconds when we were...
+- [00:15:10,440 - 00:15:12,440] And that's just the way it is.
+- [00:15:12,440 - 00:15:17,440] The next thing we did when we talked about classical mechanics was we talked about how states change with time.
+- [00:15:17,440 - 00:15:19,440] That took another page.
+- [00:15:19,440 - 00:15:20,440] Took another page.
+- [00:15:20,440 - 00:15:23,440] Arrows going from one to the next and so forth.
+- [00:15:23,440 - 00:15:24,440] Here, it's not so bad.
+- [00:15:24,440 - 00:15:27,440] It's not going to take us another 50 pages, fortunately.
+- [00:15:27,440 - 00:15:29,440] In fact, we've already laid it out.
+- [00:15:29,440 - 00:15:31,440] It took basically a...
+- [00:15:31,440 - 00:15:36,440] I would say something like about five pages or something in my notes, I think.
+- [00:15:36,440 - 00:15:37,440] Four or five pages.
+- [00:15:37,440 - 00:15:38,440] Maybe a little more.
+- [00:15:38,440 - 00:15:40,440] Maybe a little more.
+- [00:15:40,440 - 00:15:44,440] So we're beginning to compress and things are...
+- [00:15:44,440 - 00:15:50,440] Once you got the idea of states, then the next is a little bit easier.
+- [00:15:50,440 - 00:15:51,440] Okay.
+- [00:15:51,440 - 00:15:55,440] So let's remind ourselves what we said about the time evolution.
+- [00:15:55,440 - 00:15:56,440] The Schrodinger equation.
+- [00:15:56,440 - 00:16:02,440] The Schrodinger equation is the equation that governs the time evolution of systems.
+- [00:16:02,440 - 00:16:06,440] We began with the idea of the conservation of distinctions
+- [00:16:06,440 - 00:16:09,440] or conservation of distinguishability of states.
+- [00:16:09,440 - 00:16:15,440] The implication was that states which are orthogonal remain orthogonal.
+- [00:16:15,440 - 00:16:20,440] It was easy to prove from that, and I hope you've proved it.
+- [00:16:20,440 - 00:16:24,440] You should be able to prove it.
+- [00:16:24,440 - 00:16:30,440] That the U operator...
+- [00:16:30,440 - 00:16:34,440] I should have brought my own pens.
+- [00:16:34,440 - 00:16:35,440] The U operator...
+- [00:16:35,440 - 00:16:38,440] Remember what the U operator is.
+- [00:16:38,440 - 00:16:45,440] If you want to know what a state is at a later time from its value at time zero,
+- [00:16:45,440 - 00:16:48,440] this stands for time zero,
+- [00:16:48,440 - 00:16:53,440] then you apply a certain operation.
+- [00:16:53,440 - 00:16:55,440] It's more than just an operation.
+- [00:16:55,440 - 00:16:57,440] It's a linear operator.
+- [00:16:57,440 - 00:16:58,440] Okay.
+- [00:16:58,440 - 00:17:03,440] A linear operator U, and you get psi at time t.
+- [00:17:03,440 - 00:17:08,440] U, of course, is a function of t.
+- [00:17:08,440 - 00:17:13,440] The later or the earlier that you want to project the vector forward,
+- [00:17:13,440 - 00:17:15,440] you put in different t's here.
+- [00:17:15,440 - 00:17:18,440] And that was the basic equation.
+- [00:17:18,440 - 00:17:20,440] But then we required another ingredient,
+- [00:17:20,440 - 00:17:26,440] and the other ingredient is that orthogonal states stay orthogonal.
+- [00:17:26,440 - 00:17:29,440] So, for example, if we have two orthogonal states,
+- [00:17:29,440 - 00:17:32,440] let's call them for the moment i and j instead of psi.
+- [00:17:32,440 - 00:17:37,440] i and j are orthogonal.
+- [00:17:37,440 - 00:17:42,440] In fact, i and j might be members of an orthonormal basis.
+- [00:17:42,440 - 00:17:45,440] Let's take them to be members of an orthonormal basis.
+- [00:17:45,440 - 00:17:48,440] And then you allow i to evolve for a time,
+- [00:17:48,440 - 00:17:51,440] and you allow j to evolve for a time.
+- [00:17:51,440 - 00:17:55,440] The ket vector i becomes U...
+- [00:17:55,440 - 00:17:59,440] Let's say U of t times i.
+- [00:17:59,440 - 00:18:00,440] If you start with i, after a time it's U of t.
+- [00:18:00,440 - 00:18:01,440] And then you start with i.
+- [00:18:01,440 - 00:18:04,440] After a time it's U of t of i.
+- [00:18:04,440 - 00:18:15,440] j evolves with the Hermitian conjugate of U, j.
+- [00:18:15,440 - 00:18:19,440] And the assumption is that if i and j were orthonormal,
+- [00:18:19,440 - 00:18:26,440] U times i and U star times j are also orthonormal.
+- [00:18:26,440 - 00:18:29,440] So, the way to say this is if j i is equal to a Kronecker delta,
+- [00:18:29,440 - 00:18:39,440] then this is also equal to a Kronecker delta.
+- [00:18:39,440 - 00:18:42,440] In other words, putting U and U dagger,
+- [00:18:42,440 - 00:18:45,440] sandwiching them between orthonormal bases here,
+- [00:18:45,440 - 00:18:47,440] does not change the inner product.
+- [00:18:47,440 - 00:18:49,440] And from that you can conclude,
+- [00:18:49,440 - 00:18:52,440] since this is true for any members of the basis,
+- [00:18:52,440 - 00:18:58,440] that U dagger U is just a unit operator.
+- [00:18:59,440 - 00:19:01,440] We did this last time, I know.
+- [00:19:01,440 - 00:19:03,440] Unit operator.
+- [00:19:03,440 - 00:19:05,440] It does nothing.
+- [00:19:05,440 - 00:19:07,440] U dagger times U.
+- [00:19:07,440 - 00:19:09,440] Then we went another step.
+- [00:19:09,440 - 00:19:12,440] We said, alright, let's consider the evolution
+- [00:19:12,440 - 00:19:18,440] from time zero to an infinitesimally short time later.
+- [00:19:18,440 - 00:19:22,440] So, we're interested in, let's call it U of epsilon,
+- [00:19:22,440 - 00:19:25,440] where epsilon is a small time.
+- [00:19:25,440 - 00:19:28,440] And we argued, well, first of all, if epsilon is zero,
+- [00:19:28,440 - 00:19:30,440] nothing happens.
+- [00:19:30,440 - 00:19:37,440] To say that nothing happens means that U is the unit operator.
+- [00:19:37,440 - 00:19:40,440] Alright, so U of zero is just the unit operator.
+- [00:19:40,440 - 00:19:43,440] It does nothing, just leaves the state the same.
+- [00:19:43,440 - 00:19:46,440] We added one more thing, and that was a kind of continuity.
+- [00:19:46,440 - 00:19:48,440] I may not have spelled it out.
+- [00:19:48,440 - 00:19:53,440] A kind of continuity, and that was that U of a small time
+- [00:19:53,440 - 00:19:56,440] is close to the identity.
+- [00:19:56,440 - 00:19:58,440] In other words, in a very small period of time,
+- [00:19:58,440 - 00:20:00,440] it doesn't change much.
+- [00:20:00,440 - 00:20:06,440] So, that's the same as saying that U is equal to the unit operator
+- [00:20:06,440 - 00:20:11,440] plus something small of order epsilon.
+- [00:20:11,440 - 00:20:15,440] And I used my freedom of definitions,
+- [00:20:15,440 - 00:20:17,440] just choosing definitions,
+- [00:20:17,440 - 00:20:23,440] to write this as minus I epsilon times H.
+- [00:20:23,440 - 00:20:27,440] There was no content in that minus I epsilon.
+- [00:20:27,440 - 00:20:29,440] I can just absorb it into H.
+- [00:20:29,440 - 00:20:30,440] I put it there.
+- [00:20:30,440 - 00:20:35,440] In fact, had I really wanted to keep track of all the interesting constants,
+- [00:20:35,440 - 00:20:40,440] I would have put an H bar over here.
+- [00:20:40,440 - 00:20:44,440] But this is all a matter of convention.
+- [00:20:44,440 - 00:20:46,440] Whether or not we include an H bar,
+- [00:20:46,440 - 00:20:47,440] whether or not we include an I,
+- [00:20:47,440 - 00:20:49,440] whether or not we include an epsilon,
+- [00:20:49,440 - 00:20:55,440] is simply a definition of H.
+- [00:20:55,440 - 00:20:57,440] We could have called this whole thing H bar,
+- [00:20:57,440 - 00:21:01,440] and then said K is equal to I epsilon over H.
+- [00:21:01,440 - 00:21:02,440] You know what I mean.
+- [00:21:02,440 - 00:21:04,440] I don't have to say it more.
+- [00:21:04,440 - 00:21:06,440] All right, let's take away the H bar.
+- [00:21:06,440 - 00:21:08,440] I'm going to forget it anyway.
+- [00:21:08,440 - 00:21:09,440] It's units.
+- [00:21:09,440 - 00:21:13,440] It's simply units.
+- [00:21:13,440 - 00:21:16,440] And then we said this.
+- [00:21:16,440 - 00:21:18,440] Oh, let's write the other one.
+- [00:21:18,440 - 00:21:25,440] U dagger of epsilon is equal to 1 plus I epsilon H dagger.
+- [00:21:25,440 - 00:21:27,440] Dagger meaning hermitian conjugate.
+- [00:21:27,440 - 00:21:32,440] Then we fed these two into the unitarity condition.
+- [00:21:32,440 - 00:21:34,440] And what did we find?
+- [00:21:34,440 - 00:21:40,440] We found that H minus H dagger must be equal to 0.
+- [00:21:40,440 - 00:21:45,440] That's what happens if you feed these two into the unitarity condition,
+- [00:21:45,440 - 00:21:49,440] or another way to say it is H is equal to H dagger,
+- [00:21:49,440 - 00:21:52,440] or H is hermitian.
+- [00:21:52,440 - 00:21:53,440] Now, that's big news.
+- [00:21:53,440 - 00:21:55,440] Why is that big news?
+- [00:21:55,440 - 00:21:57,440] It means that H is an observable.
+- [00:21:57,440 - 00:21:59,440] It's something that we can measure.
+- [00:21:59,440 - 00:22:02,440] And we should be interested in it.
+- [00:22:02,440 - 00:22:03,440] What is it?
+- [00:22:03,440 - 00:22:06,440] And of course the answer is it's the, not of course,
+- [00:22:06,440 - 00:22:09,440] but as I said last time, it is essentially,
+- [00:22:09,440 - 00:22:11,440] it is apart from a factor of Planck's constant,
+- [00:22:11,440 - 00:22:13,440] it is the Hamiltonian.
+- [00:22:13,440 - 00:22:16,440] What's it got to do with the classical Hamiltonian?
+- [00:22:16,440 - 00:22:17,440] We talked about it a little bit.
+- [00:22:17,440 - 00:22:19,440] I'll come back to it.
+- [00:22:19,440 - 00:22:23,440] But for the moment, it's just called the quantum mechanical Hamiltonian.
+- [00:22:23,440 - 00:22:26,440] It's a thing which in some way or another,
+- [00:22:26,440 - 00:22:28,440] well, in a very clear way,
+- [00:22:28,440 - 00:22:32,440] generates time evolution.
+- [00:22:35,440 - 00:22:37,440] Incidentally, you might think that this,
+- [00:22:37,440 - 00:22:38,440] all right, well, let's go on.
+- [00:22:38,440 - 00:22:40,440] We went a little bit another step.
+- [00:22:40,440 - 00:22:43,440] Okay, let's write the equation.
+- [00:22:43,440 - 00:22:46,440] Psi of epsilon.
+- [00:22:46,440 - 00:22:47,440] This is pure review.
+- [00:22:47,440 - 00:22:52,440] Psi of epsilon is equal to psi of 0
+- [00:22:52,440 - 00:22:55,440] minus I epsilon H.
+- [00:22:56,440 - 00:23:01,440] Psi of 0.
+- [00:23:01,440 - 00:23:05,440] I just plugged in for what U is.
+- [00:23:05,440 - 00:23:09,440] And then transposed this to the left-hand side
+- [00:23:09,440 - 00:23:12,440] and divided by epsilon.
+- [00:23:12,440 - 00:23:15,440] Transposing to the left-hand side makes this minus
+- [00:23:15,440 - 00:23:18,440] and puts an equal sign here
+- [00:23:18,440 - 00:23:21,440] and then divide by epsilon.
+- [00:23:21,440 - 00:23:23,440] This is the obvious thing to do.
+- [00:23:23,440 - 00:23:25,440] So, I'm going to write this down.
+- [00:23:25,440 - 00:23:27,440] This is the obvious thing to do.
+- [00:23:27,440 - 00:23:29,440] And what do we get on the left?
+- [00:23:29,440 - 00:23:34,440] We get the time derivative of the state vector of the system.
+- [00:23:34,440 - 00:23:37,440] The time derivative of the state vector of the system,
+- [00:23:37,440 - 00:23:47,440] d psi by dt is equal to minus I H psi.
+- [00:23:47,440 - 00:23:50,440] So, what H is, is it's a rule
+- [00:23:50,440 - 00:23:53,440] for how you update the state of a system.
+- [00:23:53,440 - 00:23:55,440] You know it in an instant of time.
+- [00:23:55,440 - 00:23:58,440] Then at the next instant of time,
+- [00:23:58,440 - 00:24:02,440] you make an incremental change
+- [00:24:02,440 - 00:24:07,440] in the state of the system proportional to I minus I H times psi.
+- [00:24:07,440 - 00:24:10,440] It's a little machine for telling you how to update the state of the system.
+- [00:24:10,440 - 00:24:12,440] Now, it sounds awfully deterministic.
+- [00:24:12,440 - 00:24:15,440] It sounds awfully much like classical determinism.
+- [00:24:15,440 - 00:24:19,440] Classical determinism is also a set of rules
+- [00:24:19,440 - 00:24:21,440] for updating
+- [00:24:21,440 - 00:24:23,440] the
+- [00:24:23,440 - 00:24:25,440] the state of a system.
+- [00:24:25,440 - 00:24:28,440] So, in what sense are things not deterministic
+- [00:24:28,440 - 00:24:30,440] if you know how to change the state
+- [00:24:30,440 - 00:24:32,440] from one instant of time to another?
+- [00:24:32,440 - 00:24:34,440] Well, they're not deterministic in the sense that
+- [00:24:34,440 - 00:24:37,440] even if you know the state of a system,
+- [00:24:37,440 - 00:24:41,440] you simply don't know the results of every measurement.
+- [00:24:41,440 - 00:24:44,440] The knowledge of the state of a system
+- [00:24:44,440 - 00:24:46,440] in quantum mechanics
+- [00:24:46,440 - 00:24:50,440] is not equivalent to the knowledge of
+- [00:24:50,440 - 00:24:53,440] the outcome of every experiment.
+- [00:24:53,440 - 00:24:56,440] What does it tell you, the state of the system?
+- [00:24:56,440 - 00:24:58,440] It tells you probabilities.
+- [00:24:58,440 - 00:25:03,440] So this is basically a rule for updating probabilities.
+- [00:25:03,440 - 00:25:06,440] It's not a rule for updating knowledge,
+- [00:25:06,440 - 00:25:10,440] complete knowledge of the state of the
+- [00:25:10,440 - 00:25:14,440] of the set of experiments that you could do.
+- [00:25:14,440 - 00:25:18,440] But, in some sense or another,
+- [00:25:18,440 - 00:25:20,440] the state vector evolves.
+- [00:25:20,440 - 00:25:22,440] I don't want to call it deterministically deterministic.
+- [00:25:22,440 - 00:25:26,440] Because deterministically carries baggage with it.
+- [00:25:26,440 - 00:25:30,440] But, it evolves in a known and definite way.
+- [00:25:30,440 - 00:25:35,440] Now, this is true, but only if you don't interfere with the system.
+- [00:25:35,440 - 00:25:38,440] In classical mechanics, you can interfere with the system
+- [00:25:38,440 - 00:25:43,440] arbitrarily gently and not cause any changes
+- [00:25:43,440 - 00:25:45,440] in the way it's evolving.
+- [00:25:45,440 - 00:25:48,440] In quantum mechanics, when you make a measurement,
+- [00:25:48,440 - 00:25:50,440] you necessarily disturb the system.
+- [00:25:50,440 - 00:25:52,440] So this is the evolution of the system.
+- [00:25:52,440 - 00:25:58,440] Of an undisturbed system that is not in the process of being measured.
+- [00:25:58,440 - 00:26:03,440] What if the system happens to be in an eigenstate of the measurement you've made?
+- [00:26:03,440 - 00:26:05,440] That's alright. So what?
+- [00:26:05,440 - 00:26:07,440] Then you would not disturb the system.
+- [00:26:07,440 - 00:26:09,440] Well, that's a special case.
+- [00:26:09,440 - 00:26:11,440] Yeah, you're right.
+- [00:26:11,440 - 00:26:14,440] You're right. That's right.
+- [00:26:14,440 - 00:26:17,440] If you're in a special case of an eigenstate of the system
+- [00:26:17,440 - 00:26:19,440] and you measure it, it doesn't disturb it.
+- [00:26:19,440 - 00:26:22,440] So, right.
+- [00:26:22,440 - 00:26:26,440] So that is an exception to what I said.
+- [00:26:26,440 - 00:26:29,440] But generally speaking, the generic situation is
+- [00:26:29,440 - 00:26:34,440] when you measure something, you disturb something else about the system.
+- [00:26:34,440 - 00:26:37,440] Okay.
+- [00:26:37,440 - 00:26:44,440] This equation is the Schrodinger equation.
+- [00:26:44,440 - 00:26:50,440] Now, it's sometimes called the generalized Schrodinger equation.
+- [00:26:50,440 - 00:26:54,440] The actual Schrodinger equation, as Schrodinger wrote it down,
+- [00:26:54,440 - 00:26:57,440] was for a particular kind of system, the motion of a particle.
+- [00:26:57,440 - 00:27:01,440] But it has exactly this form.
+- [00:27:01,440 - 00:27:07,440] This first became known as the generalized Schrodinger equation,
+- [00:27:07,440 - 00:27:10,440] and then people dropped the generalized.
+- [00:27:10,440 - 00:27:14,440] We now think of this as the form of the Schrodinger equation.
+- [00:27:14,440 - 00:27:18,440] And what it is, is it's an equation which tells us how states change with time.
+- [00:27:18,440 - 00:27:22,440] It can be applied to the simplest system of a single spin.
+- [00:27:22,440 - 00:27:26,440] It can be applied to the second simplest and the third simplest system
+- [00:27:26,440 - 00:27:29,440] and to systems of arbitrary complexity.
+- [00:27:29,440 - 00:27:32,440] But this is the form that it has.
+- [00:27:32,440 - 00:27:34,440] Alright.
+- [00:27:34,440 - 00:27:39,440] That's where we more or less were last time.
+- [00:27:39,440 - 00:27:43,440] Okay. So let's erase everything but the Schrodinger equation.
+- [00:27:43,440 - 00:27:51,440] Actually, this is called the time-dependent Schrodinger equation.
+- [00:27:51,440 - 00:27:57,440] The time-dependent Schrodinger equation is an equation for how things change with time.
+- [00:27:57,440 - 00:28:02,440] There's also another equation which is called the time-independent Schrodinger equation.
+- [00:28:02,440 - 00:28:05,440] H is an observable.
+- [00:28:05,440 - 00:28:09,440] It corresponds to the Hamiltonian, but Hamiltonian is nothing but energy,
+- [00:28:09,440 - 00:28:11,440] at least in classical mechanics.
+- [00:28:11,440 - 00:28:13,440] So one might expect,
+- [00:28:13,440 - 00:28:18,440] that H is the operator that's representing the observable energy of a system.
+- [00:28:18,440 - 00:28:22,440] Okay. Now, we're going to make a measurement of the energy of some system.
+- [00:28:22,440 - 00:28:24,440] How do we do it? Let's not worry about that.
+- [00:28:24,440 - 00:28:26,440] There's one way we could do it.
+- [00:28:26,440 - 00:28:29,440] We use E equals mc squared.
+- [00:28:29,440 - 00:28:34,440] And then we weigh the system carefully, really, really carefully.
+- [00:28:34,440 - 00:28:38,440] And in that way determine its mass and its energy.
+- [00:28:38,440 - 00:28:41,440] Okay. That's not a very efficient way to do it
+- [00:28:41,440 - 00:28:43,440] because the change of the energy
+- [00:28:43,440 - 00:28:48,440] of a system when you heat it up or something is so negligible that the...
+- [00:28:48,440 - 00:28:53,440] But that's one way. There are many ways to measure energy.
+- [00:28:53,440 - 00:28:58,440] But what are the possible outcomes of the measurement of the energy of a system?
+- [00:28:58,440 - 00:29:00,440] That, of course, depends on the system.
+- [00:29:00,440 - 00:29:04,440] It's not something you can answer in general,
+- [00:29:04,440 - 00:29:06,440] but depending on the system...
+- [00:29:06,440 - 00:29:10,440] For example, if you measure the energies of an atom,
+- [00:29:10,440 - 00:29:12,440] you get one of...
+- [00:29:13,440 - 00:29:17,440] a denumerable family of possible answers,
+- [00:29:17,440 - 00:29:19,440] namely the energy levels of the atom.
+- [00:29:19,440 - 00:29:23,440] If you measure the energies of a harmonic oscillator,
+- [00:29:23,440 - 00:29:28,440] again, you get a denumerable collection of possible answers.
+- [00:29:28,440 - 00:29:34,440] If you measure the energy of a particle moving in a non-closed orbit,
+- [00:29:34,440 - 00:29:42,440] then, in fact, you get a continuous possible family of possible answers.
+- [00:29:43,440 - 00:29:48,440] So the question of what the energies are depends on the system,
+- [00:29:48,440 - 00:29:50,440] and it depends on the choice.
+- [00:29:50,440 - 00:29:52,440] Of course, it's not a choice.
+- [00:29:52,440 - 00:29:54,440] The systems have Hamiltonians.
+- [00:29:54,440 - 00:29:59,440] It's not up to you to dictate to a system what its Hamiltonian is.
+- [00:29:59,440 - 00:30:04,440] It may be up to you to try to discover what its Hamiltonian is.
+- [00:30:04,440 - 00:30:06,440] But let's use the terminology.
+- [00:30:06,440 - 00:30:09,440] You get to choose the Hamiltonian,
+- [00:30:09,440 - 00:30:13,440] meaning to say you get to study different possibilities.
+- [00:30:13,440 - 00:30:18,440] And depending on the choice of operator that you put here,
+- [00:30:18,440 - 00:30:19,440] that you call H,
+- [00:30:19,440 - 00:30:21,440] you can get different energy levels.
+- [00:30:21,440 - 00:30:24,440] How do you calculate and determine
+- [00:30:24,440 - 00:30:27,440] what the possible outcomes of the energy measurement are?
+- [00:30:27,440 - 00:30:31,440] You use the statement that the values that the energy can take on
+- [00:30:31,440 - 00:30:34,440] are the eigenvalues of the Hamiltonian,
+- [00:30:34,440 - 00:30:36,440] like any other observable.
+- [00:30:36,440 - 00:30:41,440] So you write another equation, H on.
+- [00:30:41,440 - 00:30:43,440] Let's call it the...
+- [00:30:43,440 - 00:30:49,440] Now, I now represents an eigenstate of the energy.
+- [00:30:49,440 - 00:30:52,440] It doesn't represent any old basis.
+- [00:30:52,440 - 00:30:55,440] It represents in particular the...
+- [00:30:55,440 - 00:30:58,440] In fact, maybe we should indicate that
+- [00:30:58,440 - 00:31:01,440] by writing in here
+- [00:31:01,440 - 00:31:05,440] the energy, the i-th possible energy level,
+- [00:31:05,440 - 00:31:07,440] H on E sub i,
+- [00:31:07,440 - 00:31:11,440] is equal to the eigenvalue E sub i
+- [00:31:11,440 - 00:31:13,440] times the eigenvalue,
+- [00:31:13,440 - 00:31:16,440] the eigenvector associated with that energy.
+- [00:31:16,440 - 00:31:19,440] The notation of putting E sub i inside the ket vector
+- [00:31:19,440 - 00:31:21,440] just means nothing more
+- [00:31:21,440 - 00:31:23,440] than this is the ket vector,
+- [00:31:23,440 - 00:31:25,440] which happens to be the eigenvector of H
+- [00:31:25,440 - 00:31:28,440] with eigenvalue E sub i.
+- [00:31:28,440 - 00:31:31,440] And how many such E sub i's are there?
+- [00:31:31,440 - 00:31:34,440] Well, there's a complete basis of them.
+- [00:31:34,440 - 00:31:37,440] Whatever the dimensionality of the system is,
+- [00:31:37,440 - 00:31:40,440] whatever the dimensionality of the space of states is,
+- [00:31:40,440 - 00:31:43,440] there's that many eigenvectors of the energy.
+- [00:31:43,440 - 00:31:49,440] And your job as a physicist is to try to find them.
+- [00:31:49,440 - 00:31:58,440] So that's the time-independent Schrodinger equation.
+- [00:32:08,440 - 00:32:10,440] Next thing we did...
+- [00:32:10,440 - 00:32:12,440] Again, a lot of review tonight.
+- [00:32:12,440 - 00:32:15,440] Next thing we did was talk about the evolution,
+- [00:32:15,440 - 00:32:19,440] time evolution of expectation values,
+- [00:32:19,440 - 00:32:21,440] average values.
+- [00:32:21,440 - 00:32:25,440] I complained bitterly about the terminology expectation values,
+- [00:32:25,440 - 00:32:28,440] all right, but many, many years ago I gave up on this,
+- [00:32:28,440 - 00:32:30,440] and so it's become expectation value.
+- [00:32:30,440 - 00:32:32,440] But it really should be average.
+- [00:32:35,440 - 00:32:37,440] It's okay, I'm okay with expectation value.
+- [00:32:37,440 - 00:32:38,440] I'll use expecta...
+- [00:32:38,440 - 00:32:40,440] But it really should be average.
+- [00:32:42,440 - 00:32:44,440] Okay.
+- [00:32:44,440 - 00:32:47,440] And here's what we found.
+- [00:32:47,440 - 00:32:53,440] Well, what we said is the thing that changes with time is the state vector.
+- [00:32:53,440 - 00:32:57,440] So we're interested in calculating psi of t...
+- [00:32:57,440 - 00:33:00,440] Remember the expectation value, I'll just remind you.
+- [00:33:00,440 - 00:33:05,440] The expectation value you get by sandwiching the observable
+- [00:33:07,440 - 00:33:12,440] in a sandwich between the bra version of the state vector,
+- [00:33:12,440 - 00:33:13,440] and the ket version of it.
+- [00:33:13,440 - 00:33:14,440] We proved this.
+- [00:33:14,440 - 00:33:19,440] We proved that this is the same as the average, the statistical average.
+- [00:33:21,440 - 00:33:24,440] And I won't go back over that now.
+- [00:33:24,440 - 00:33:29,440] This is the average value of L, the observable L.
+- [00:33:29,440 - 00:33:31,440] And we can ask how it changes with time.
+- [00:33:31,440 - 00:33:34,440] It changes with time because psi changes with time.
+- [00:33:34,440 - 00:33:37,440] And here we know how psi changes with time.
+- [00:33:37,440 - 00:33:39,440] There's two factors of psi here.
+- [00:33:39,440 - 00:33:41,440] So when we go to differentiate this,
+- [00:33:41,440 - 00:33:45,440] with respect to time, there will be two terms.
+- [00:33:45,440 - 00:33:47,440] One coming from differentiating this,
+- [00:33:47,440 - 00:33:50,440] and one coming from differentiating that.
+- [00:33:50,440 - 00:33:54,440] If you remember that when you flip from bra to ket,
+- [00:33:54,440 - 00:33:56,440] you have to complex conjugate,
+- [00:33:56,440 - 00:34:00,440] and that complex conjugating changes the sign of i,
+- [00:34:00,440 - 00:34:03,440] you will come to the conclusion that this is equal to...
+- [00:34:03,440 - 00:34:05,440] Now, I always get the sign wrong.
+- [00:34:05,440 - 00:34:06,440] Let me try to get the sign right.
+- [00:34:06,440 - 00:34:08,440] I think it's minus i...
+- [00:34:11,440 - 00:34:18,440] times LH minus HL,
+- [00:34:21,440 - 00:34:23,440] average value of that.
+- [00:34:26,440 - 00:34:30,440] Psi, psi.
+- [00:34:31,440 - 00:34:33,440] We worked that out.
+- [00:34:34,440 - 00:34:39,440] We used that L on psi gives you H on psi.
+- [00:34:39,440 - 00:34:41,440] That's this piece over here.
+- [00:34:41,440 - 00:34:45,440] And we used that L when it acts to the left,
+- [00:34:45,440 - 00:34:48,440] gives you a term with H acting to the left,
+- [00:34:48,440 - 00:34:50,440] with a minus sign.
+- [00:34:50,440 - 00:34:52,440] Okay, so here's what we find then.
+- [00:34:52,440 - 00:34:57,440] We find that the time derivative of the average of L,
+- [00:34:57,440 - 00:34:59,440] let's just write it this way,
+- [00:34:59,440 - 00:35:02,440] d by dt,
+- [00:35:02,440 - 00:35:04,440] of the average of L,
+- [00:35:04,440 - 00:35:08,440] I'll use that notation for the average of L,
+- [00:35:08,440 - 00:35:09,440] as a function of time,
+- [00:35:09,440 - 00:35:14,440] is equal to minus i
+- [00:35:14,440 - 00:35:19,440] times the average of the commutator
+- [00:35:19,440 - 00:35:24,440] of L with the Hamiltonian.
+- [00:35:24,440 - 00:35:29,440] If you know what the Hamiltonian is as an operator or as a matrix,
+- [00:35:29,440 - 00:35:33,440] and you know what L is as an operator or a matrix,
+- [00:35:33,440 - 00:35:38,440] you can compute the commutator.
+- [00:35:39,440 - 00:35:41,440] And when you've computed the commutator,
+- [00:35:41,440 - 00:35:43,440] you can compute its average value.
+- [00:35:43,440 - 00:35:45,440] Just use this rule,
+- [00:35:45,440 - 00:35:47,440] the sandwich rule,
+- [00:35:47,440 - 00:35:49,440] let's call it the sandwich rule.
+- [00:35:49,440 - 00:35:51,440] And it tells you,
+- [00:35:51,440 - 00:35:53,440] the left hand, the right hand side,
+- [00:35:53,440 - 00:35:55,440] tells you what the left hand side,
+- [00:35:55,440 - 00:35:57,440] how it changes with time.
+- [00:35:57,440 - 00:36:00,440] Do you find it odd that there's an i there?
+- [00:36:02,440 - 00:36:04,440] Well, I did the first time I saw this.
+- [00:36:04,440 - 00:36:05,440] First time I saw this, I said,
+- [00:36:05,440 - 00:36:06,440] wait a minute, wait a minute,
+- [00:36:06,440 - 00:36:08,440] the time derivative of a real thing
+- [00:36:08,440 - 00:36:10,440] can't be imaginary.
+- [00:36:10,440 - 00:36:12,440] We're going to find out
+- [00:36:12,440 - 00:36:14,440] that commutators of real things
+- [00:36:14,440 - 00:36:16,440] are always imaginary.
+- [00:36:16,440 - 00:36:18,440] So the imaginary will go away.
+- [00:36:18,440 - 00:36:19,440] We're going to do some examples,
+- [00:36:19,440 - 00:36:22,440] and you'll see this is not hard to prove,
+- [00:36:22,440 - 00:36:24,440] but we'll do it by example.
+- [00:36:28,440 - 00:36:31,440] Sometimes this is written in a shorthand.
+- [00:36:31,440 - 00:36:35,440] The shorthand is just a dL dt
+- [00:36:35,440 - 00:36:37,440] is equal to minus i,
+- [00:36:37,440 - 00:36:39,440] is equal to minus i,
+- [00:36:39,440 - 00:36:41,440] times the commutator of L with h.
+- [00:36:47,440 - 00:36:51,440] But at least at this stage of our knowledge,
+- [00:36:51,440 - 00:36:53,440] what this means
+- [00:36:53,440 - 00:36:55,440] is that it should always be sandwiched
+- [00:36:55,440 - 00:36:57,440] and thought of as a
+- [00:36:57,440 - 00:37:00,440] equation for the average values of things.
+- [00:37:01,440 - 00:37:03,440] And so there we have
+- [00:37:03,440 - 00:37:09,440] what are called the Heisenberg equations of motion
+- [00:37:09,440 - 00:37:11,440] of a system.
+- [00:37:13,440 - 00:37:16,440] That brings us to the study of commutators.
+- [00:37:17,440 - 00:37:19,440] The study of commutators,
+- [00:37:19,440 - 00:37:22,440] and I want to go through that just again a little bit.
+- [00:37:23,440 - 00:37:27,440] Commutators have some rules associated with them.
+- [00:37:27,440 - 00:37:30,440] The rules are very, very reminiscent
+- [00:37:30,440 - 00:37:33,440] of the rules for Poisson brackets.
+- [00:37:33,440 - 00:37:37,440] So go back and read about Poisson brackets.
+- [00:37:40,440 - 00:37:42,440] I'll write down what the rules are.
+- [00:37:44,440 - 00:37:46,440] General rules, algebraic rules
+- [00:37:46,440 - 00:37:48,440] of Poisson brackets and commutators.
+- [00:37:48,440 - 00:37:50,440] And then we'll just check.
+- [00:37:50,440 - 00:37:52,440] Are they really true for both of them?
+- [00:37:52,440 - 00:37:55,440] Well, the rules for Poisson brackets we did last quarter.
+- [00:37:55,440 - 00:37:57,440] Poisson brackets are written this way.
+- [00:37:57,440 - 00:37:59,440] Okay, a, b,
+- [00:37:59,440 - 00:38:01,440] and I'm not going to write out
+- [00:38:01,440 - 00:38:03,440] how you express them in terms of the p's and q's
+- [00:38:03,440 - 00:38:05,440] of classical mechanics.
+- [00:38:06,440 - 00:38:08,440] But there was a few simple rules
+- [00:38:08,440 - 00:38:10,440] associated with them.
+- [00:38:10,440 - 00:38:13,440] First of all, there was some linearity rules
+- [00:38:13,440 - 00:38:16,440] that if you add two operators,
+- [00:38:16,440 - 00:38:18,440] sorry, if you add two things
+- [00:38:18,440 - 00:38:20,440] and then take the Poisson bracket with a third,
+- [00:38:20,440 - 00:38:22,440] they add and so forth.
+- [00:38:22,440 - 00:38:24,440] This is certainly true of commutators.
+- [00:38:24,440 - 00:38:26,440] But there was a couple of non-trivial rules.
+- [00:38:28,440 - 00:38:30,440] Well, first of all, a Poisson bracket
+- [00:38:30,440 - 00:38:32,440] is odd, which means that when you
+- [00:38:32,440 - 00:38:34,440] interchange the two entries,
+- [00:38:34,440 - 00:38:36,440] it changes sign.
+- [00:38:37,440 - 00:38:40,440] Minus b, a.
+- [00:38:41,440 - 00:38:43,440] That was one property.
+- [00:38:43,440 - 00:38:45,440] This is certainly shared
+- [00:38:45,440 - 00:38:47,440] by the commutator.
+- [00:38:47,440 - 00:38:49,440] If you interchange L and H,
+- [00:38:49,440 - 00:38:51,440] you interchange these two terms,
+- [00:38:51,440 - 00:38:53,440] and you change the sign of the commutator.
+- [00:38:53,440 - 00:38:55,440] So that's true of the commutator.
+- [00:38:55,440 - 00:38:57,440] Also,
+- [00:38:57,440 - 00:38:59,440] let's see.
+- [00:38:59,440 - 00:39:02,440] If a and b are now quantum variables,
+- [00:39:02,440 - 00:39:05,440] this is also equal to minus b times a.
+- [00:39:07,440 - 00:39:09,440] There's really only other one
+- [00:39:09,440 - 00:39:11,440] important relationship,
+- [00:39:11,440 - 00:39:13,440] and it's the product rule.
+- [00:39:13,440 - 00:39:15,440] The product of a and b
+- [00:39:15,440 - 00:39:19,440] Poisson'd with c.
+- [00:39:21,440 - 00:39:23,440] The operation of Poisson-ing.
+- [00:39:26,440 - 00:39:28,440] If you remember, the Poisson bracket
+- [00:39:28,440 - 00:39:30,440] was a combination of derivatives.
+- [00:39:30,440 - 00:39:32,440] Derivatives of various things.
+- [00:39:32,440 - 00:39:35,440] If you go and use that definition
+- [00:39:35,440 - 00:39:37,440] of the Poisson bracket,
+- [00:39:37,440 - 00:39:40,440] use the rule for derivatives of products.
+- [00:39:40,440 - 00:39:43,440] What you'll find out is that this is equal to,
+- [00:39:43,440 - 00:39:46,440] this is the Poisson bracket side,
+- [00:39:46,440 - 00:39:50,440] it's equal to a times the Poisson bracket
+- [00:39:50,440 - 00:39:52,440] of b with c,
+- [00:39:52,440 - 00:39:56,440] plus the Poisson bracket of b with c,
+- [00:39:56,440 - 00:39:58,440] times,
+- [00:39:58,440 - 00:39:59,440] sorry,
+- [00:39:59,440 - 00:40:01,440] Poisson bracket of a with c,
+- [00:40:01,440 - 00:40:03,440] times b.
+- [00:40:04,440 - 00:40:07,440] Now the order that you write down
+- [00:40:07,440 - 00:40:09,440] a and the Poisson bracket,
+- [00:40:09,440 - 00:40:10,440] that's not important.
+- [00:40:10,440 - 00:40:11,440] These are just numbers.
+- [00:40:11,440 - 00:40:14,440] I mean, these are just ordinary functions or numbers,
+- [00:40:14,440 - 00:40:17,440] and it doesn't matter which order you multiply them.
+- [00:40:17,440 - 00:40:20,440] But I wrote them in an order
+- [00:40:20,440 - 00:40:24,440] which I know that the commutator will also satisfy.
+- [00:40:24,440 - 00:40:27,440] Operators, the order does matter.
+- [00:40:27,440 - 00:40:29,440] So I wrote these in a specific order,
+- [00:40:29,440 - 00:40:32,440] namely I put a on the left over here,
+- [00:40:32,440 - 00:40:34,440] and then I put b on the right over here.
+- [00:40:34,440 - 00:40:36,440] Maybe it's not too surprising.
+- [00:40:36,440 - 00:40:39,440] a appears on the left in this factor,
+- [00:40:39,440 - 00:40:40,440] and b appears on the right,
+- [00:40:40,440 - 00:40:42,440] so I kept the order intact.
+- [00:40:42,440 - 00:40:46,440] Okay, let's see if this is true for commutators.
+- [00:40:46,440 - 00:40:48,440] What would it say?
+- [00:40:48,440 - 00:40:51,440] It would say,
+- [00:40:51,440 - 00:40:52,440] well let's write it out.
+- [00:40:52,440 - 00:40:55,440] a times commutator b c,
+- [00:40:55,440 - 00:41:02,440] sorry, go back.
+- [00:41:02,440 - 00:41:11,440] It would say that commutator of a b with c
+- [00:41:11,440 - 00:41:13,440] is equal to,
+- [00:41:13,440 - 00:41:14,440] we'll put a question mark here,
+- [00:41:14,440 - 00:41:16,440] I don't know if it's equal to yet,
+- [00:41:16,440 - 00:41:23,440] a times the commutator of b with c,
+- [00:41:23,440 - 00:41:25,440] plus,
+- [00:41:25,440 - 00:41:28,440] a with c,
+- [00:41:28,440 - 00:41:31,440] yeah, a with c times b.
+- [00:41:31,440 - 00:41:33,440] Let's check if that's true.
+- [00:41:33,440 - 00:41:35,440] This is very easy to do.
+- [00:41:35,440 - 00:41:37,440] We don't have to do any derivatives.
+- [00:41:37,440 - 00:41:39,440] All we have to do is write out the meaning of this.
+- [00:41:39,440 - 00:41:42,440] Commutator of a b with c is the same as
+- [00:41:42,440 - 00:41:46,440] a b times c minus c times a b.
+- [00:41:46,440 - 00:41:49,440] Everybody see why?
+- [00:41:49,440 - 00:41:52,440] First you put a b on the left times c,
+- [00:41:52,440 - 00:41:54,440] and then you put a b on the right,
+- [00:41:54,440 - 00:41:56,440] and you take the difference.
+- [00:41:56,440 - 00:41:58,440] Definition of the commutator.
+- [00:41:58,440 - 00:42:00,440] Let's see what we get on the right hand side.
+- [00:42:00,440 - 00:42:02,440] On the right hand side,
+- [00:42:02,440 - 00:42:07,440] we get a times b c minus c b.
+- [00:42:07,440 - 00:42:09,440] That's this term.
+- [00:42:09,440 - 00:42:10,440] And then from here,
+- [00:42:10,440 - 00:42:16,440] we get plus a c minus c a times b.
+- [00:42:16,440 - 00:42:18,440] That's the commutator.
+- [00:42:18,440 - 00:42:19,440] And then from here,
+- [00:42:19,440 - 00:42:23,440] we get plus a c minus c a times b.
+- [00:42:23,440 - 00:42:25,440] These are operators now.
+- [00:42:25,440 - 00:42:27,440] In this calculation, they're operators.
+- [00:42:27,440 - 00:42:29,440] The order matters.
+- [00:42:29,440 - 00:42:31,440] Okay, let's see what we have.
+- [00:42:31,440 - 00:42:33,440] We have a b c.
+- [00:42:33,440 - 00:42:34,440] Here's a b c.
+- [00:42:34,440 - 00:42:36,440] That's good.
+- [00:42:36,440 - 00:42:37,440] We have,
+- [00:42:37,440 - 00:42:39,440] all right, so this is a friend.
+- [00:42:39,440 - 00:42:42,440] We have minus c a b.
+- [00:42:42,440 - 00:42:44,440] That's this one over here, c a b.
+- [00:42:44,440 - 00:42:46,440] That's also a friend.
+- [00:42:46,440 - 00:42:49,440] Our enemies are a c b,
+- [00:42:49,440 - 00:42:51,440] but they occur both the same way.
+- [00:42:51,440 - 00:42:52,440] a b c.
+- [00:42:53,440 - 00:42:54,440] No, no.
+- [00:42:54,440 - 00:42:56,440] a c b.
+- [00:42:56,440 - 00:42:57,440] That's a bad one.
+- [00:42:57,440 - 00:43:00,440] But here we have also a c b.
+- [00:43:00,440 - 00:43:02,440] One with a minus sign,
+- [00:43:02,440 - 00:43:04,440] one with a plus sign.
+- [00:43:04,440 - 00:43:07,440] So it's a c b minus a c b,
+- [00:43:07,440 - 00:43:08,440] and we're finished.
+- [00:43:08,440 - 00:43:12,440] The commutator satisfies the same algebraic rule
+- [00:43:12,440 - 00:43:15,440] as the Poisson bracket.
+- [00:43:15,440 - 00:43:16,440] Is this an accident?
+- [00:43:16,440 - 00:43:18,440] No, of course it's not an accident,
+- [00:43:18,440 - 00:43:22,440] but we'll get to the deeper reason for it eventually.
+- [00:43:23,440 - 00:43:26,440] Which comes first and which is more basic?
+- [00:43:26,440 - 00:43:29,440] Certainly the commutator is more basic.
+- [00:43:29,440 - 00:43:32,440] Quantum mechanics is more basic than classical mechanics.
+- [00:43:32,440 - 00:43:36,440] Classical mechanics is an approximation to quantum mechanics.
+- [00:43:36,440 - 00:43:40,440] So it stands to reason there ought to be a classical approximation
+- [00:43:40,440 - 00:43:43,440] to the notion of commutator,
+- [00:43:43,440 - 00:43:44,440] and there is.
+- [00:43:44,440 - 00:43:47,440] It's, it's,
+- [00:43:47,440 - 00:43:52,440] that leads us to speculate, if you like,
+- [00:43:52,440 - 00:43:54,440] but I'll take it as not a speculation,
+- [00:43:54,440 - 00:43:56,440] I'll take it as something that we'll discover
+- [00:43:56,440 - 00:44:01,440] or be able to prove later,
+- [00:44:01,440 - 00:44:05,440] that when we go from quantum mechanics to classical mechanics,
+- [00:44:05,440 - 00:44:08,440] the Poisson bracket,
+- [00:44:08,440 - 00:44:10,440] let's see,
+- [00:44:10,440 - 00:44:13,440] the Poisson bracket becomes,
+- [00:44:13,440 - 00:44:16,440] I think, minus i.
+- [00:44:16,440 - 00:44:19,440] Now this equality doesn't quite make sense.
+- [00:44:19,440 - 00:44:21,440] This is something classical on the right hand side,
+- [00:44:21,440 - 00:44:23,440] maybe we should put arrows there.
+- [00:44:28,440 - 00:44:31,440] Commutator, a with b.
+- [00:44:35,440 - 00:44:38,440] In that last equation that you wrote there,
+- [00:44:38,440 - 00:44:41,440] it seems, no, no, the bottom one,
+- [00:44:41,440 - 00:44:45,440] it seems like the right side is twice what the left side is.
+- [00:44:45,440 - 00:44:47,440] Well, I don't think so.
+- [00:44:47,440 - 00:44:49,440] a, b, c,
+- [00:44:49,440 - 00:44:51,440] a, b, c,
+- [00:44:51,440 - 00:44:53,440] c, a, b, c,
+- [00:44:53,440 - 00:44:56,440] c, a, b, c, a, b,
+- [00:44:56,440 - 00:44:58,440] with a minus sign.
+- [00:44:58,440 - 00:45:00,440] And then we have a couple of extra terms,
+- [00:45:00,440 - 00:45:03,440] the extra terms are minus a, c, b,
+- [00:45:03,440 - 00:45:06,440] plus a, c, b.
+- [00:45:06,440 - 00:45:08,440] Yeah, okay, good.
+- [00:45:08,440 - 00:45:10,440] You're allowed to make mistakes.
+- [00:45:10,440 - 00:45:13,440] That's good, slow me down.
+- [00:45:13,440 - 00:45:15,440] Yeah, yeah, all right.
+- [00:45:15,440 - 00:45:17,440] Now, nothing in what I've done so far,
+- [00:45:17,440 - 00:45:22,440] tells you that this should be identified exactly with that.
+- [00:45:22,440 - 00:45:26,440] It might be identified with this times a numerical multiple.
+- [00:45:26,440 - 00:45:29,440] The Poisson bracket might be seven times a commutator,
+- [00:45:29,440 - 00:45:31,440] or a quarter of a commutator,
+- [00:45:31,440 - 00:45:34,440] and they would all still make sense.
+- [00:45:34,440 - 00:45:39,440] In fact, there's a dimensional difference between these.
+- [00:45:39,440 - 00:45:44,440] Poisson brackets are derivatives of a with respect to x,
+- [00:45:44,440 - 00:45:47,440] derivatives of b with respect to p,
+- [00:45:47,440 - 00:45:52,440] they have units which are different than just a, b.
+- [00:45:52,440 - 00:45:59,440] The difference of units is actually soaked up in Planck's constant.
+- [00:45:59,440 - 00:46:02,440] If we work with Planck's constant equal to one,
+- [00:46:02,440 - 00:46:06,440] then Poisson brackets are just minus i times commutators,
+- [00:46:06,440 - 00:46:10,440] but for dimensional reasons there's an h-bar there.
+- [00:46:10,440 - 00:46:15,440] Let's write it another way, let's put the h-bar on the left-hand side.
+- [00:46:15,440 - 00:46:17,440] Certainly classically,
+- [00:46:17,440 - 00:46:22,440] we think of commutators as very small,
+- [00:46:22,440 - 00:46:24,440] in fact we think of them as essentially zero,
+- [00:46:24,440 - 00:46:26,440] a, b minus b, a.
+- [00:46:26,440 - 00:46:28,440] So in the classical limit,
+- [00:46:28,440 - 00:46:31,440] the commutator is something which is just zero.
+- [00:46:31,440 - 00:46:32,440] How does that happen?
+- [00:46:32,440 - 00:46:34,440] Well, it's the h-bar here.
+- [00:46:34,440 - 00:46:36,440] When h-bar is very, very small,
+- [00:46:36,440 - 00:46:39,440] in units in which h-bar is very, very small,
+- [00:46:39,440 - 00:46:41,440] which are just ordinary units,
+- [00:46:41,440 - 00:46:44,440] I mean units like meters, seconds, kilograms,
+- [00:46:44,440 - 00:46:46,440] h-bar is an incredibly small number,
+- [00:46:46,440 - 00:46:49,440] some 10 to the minus, what, 30, I forget,
+- [00:46:49,440 - 00:46:51,440] it's a very small number,
+- [00:46:51,440 - 00:46:54,440] so in the classical approximation,
+- [00:46:54,440 - 00:46:57,440] commutators are negligibly small.
+- [00:46:57,440 - 00:47:01,440] But, when keeping track of real quantum mechanics,
+- [00:47:01,440 - 00:47:04,440] the commutator is not zero.
+- [00:47:04,440 - 00:47:05,440] Okay.
+- [00:47:05,440 - 00:47:12,440] So that's the meaning or the notion of commutator,
+- [00:47:12,440 - 00:47:15,440] and the nice property now is,
+- [00:47:15,440 - 00:47:19,440] that this relationship here,
+- [00:47:19,440 - 00:47:22,440] is simply the quantum analog
+- [00:47:22,440 - 00:47:25,440] of an equation that we studied last quarter,
+- [00:47:25,440 - 00:47:28,440] dL by dt,
+- [00:47:28,440 - 00:47:31,440] is equal to the Poisson bracket
+- [00:47:31,440 - 00:47:38,440] of L with the Hamiltonian,
+- [00:47:38,440 - 00:47:41,440] which matches quite well with this.
+- [00:47:41,440 - 00:47:43,440] That is the essential reason,
+- [00:47:43,440 - 00:47:44,440] at this stage,
+- [00:47:44,440 - 00:47:48,440] for identifying h with the Hamiltonian.
+- [00:47:48,440 - 00:47:50,440] Classical mechanics,
+- [00:47:50,440 - 00:47:52,440] when packaged in this fishy way
+- [00:47:52,440 - 00:47:55,440] called Poisson formulation,
+- [00:47:55,440 - 00:47:57,440] the fishy Poisson formulation
+- [00:47:57,440 - 00:48:00,440] encapsulates, you know, takes,
+- [00:48:00,440 - 00:48:03,440] organizes everything into relations
+- [00:48:03,440 - 00:48:05,440] involving Poisson brackets,
+- [00:48:05,440 - 00:48:08,440] and in particular it says that the L by dt,
+- [00:48:08,440 - 00:48:09,440] L could be anything,
+- [00:48:09,440 - 00:48:11,440] incidentally L here is not the angular momentum,
+- [00:48:11,440 - 00:48:13,440] it's anything,
+- [00:48:13,440 - 00:48:16,440] but it's the momentum of the Poisson bracket,
+- [00:48:16,440 - 00:48:18,440] and the momentum of the Poisson bracket,
+- [00:48:18,440 - 00:48:21,440] is equal to the Poisson bracket of L with h,
+- [00:48:21,440 - 00:48:23,440] and in quantum mechanics,
+- [00:48:23,440 - 00:48:26,440] in the sense of average value,
+- [00:48:26,440 - 00:48:29,440] we found that the L by dt
+- [00:48:29,440 - 00:48:33,440] is minus I times the commutator.
+- [00:48:33,440 - 00:48:37,440] So that's the essence of the connection
+- [00:48:37,440 - 00:48:40,440] between the Hamiltonian of classical mechanics
+- [00:48:40,440 - 00:48:42,440] and quantum mechanics.
+- [00:48:42,440 - 00:48:45,440] What's the definition of L?
+- [00:48:45,440 - 00:48:46,440] Of what?
+- [00:48:46,440 - 00:48:48,440] The definition of L.
+- [00:48:48,440 - 00:48:50,440] L is any observable.
+- [00:48:50,440 - 00:48:52,440] Any observable.
+- [00:48:52,440 - 00:48:55,440] I used L for linear operator,
+- [00:48:55,440 - 00:48:56,440] but of course it should be
+- [00:48:56,440 - 00:48:57,440] Hermitian linear operator,
+- [00:48:57,440 - 00:48:59,440] so I might have used h,
+- [00:48:59,440 - 00:49:00,440] but then I would have gotten caught
+- [00:49:00,440 - 00:49:02,440] and found that h,
+- [00:49:02,440 - 00:49:03,440] hm?
+- [00:49:03,440 - 00:49:04,440] It is Hermitian.
+- [00:49:04,440 - 00:49:05,440] Oh, h is Hermitian,
+- [00:49:05,440 - 00:49:06,440] and so is L.
+- [00:49:06,440 - 00:49:11,440] But I used L for a generic observable,
+- [00:49:12,440 - 00:49:18,440] so I assume that L is Hermitian.
+- [00:49:18,440 - 00:49:21,440] Originally, I used it for linear,
+- [00:49:21,440 - 00:49:25,440] but now I'm using it to mean
+- [00:49:25,440 - 00:49:27,440] linear and Hermitian.
+- [00:49:27,440 - 00:49:30,440] All right, L could be h.
+- [00:49:30,440 - 00:49:32,440] L could be h.
+- [00:49:32,440 - 00:49:34,440] All right, that's a word,
+- [00:49:34,440 - 00:49:36,440] that's, we could study the equation of motion
+- [00:49:36,440 - 00:49:39,440] of how h changes with time,
+- [00:49:39,440 - 00:49:40,440] or better yet,
+- [00:49:40,440 - 00:49:42,440] how the average of h changes with time.
+- [00:49:42,440 - 00:49:44,440] Let's do so.
+- [00:49:44,440 - 00:49:46,440] Here we are.
+- [00:49:46,440 - 00:49:51,440] dh, the h by dt
+- [00:49:51,440 - 00:49:53,440] is equal to minus i
+- [00:49:53,440 - 00:49:57,440] times the commutator of h with h.
+- [00:49:57,440 - 00:50:01,440] But the commutator of anything with itself is zero.
+- [00:50:01,440 - 00:50:04,440] And so, incidentally, is the Poisson bracket
+- [00:50:04,440 - 00:50:06,440] of anything with itself.
+- [00:50:06,440 - 00:50:08,440] Because Poisson brackets are odd,
+- [00:50:08,440 - 00:50:10,440] they change sign when you interchange
+- [00:50:10,440 - 00:50:12,440] the two objects.
+- [00:50:12,440 - 00:50:14,440] That means the Poisson bracket
+- [00:50:14,440 - 00:50:16,440] of a thing with itself is zero.
+- [00:50:16,440 - 00:50:18,440] So from a classical point of view,
+- [00:50:18,440 - 00:50:22,440] we could have derived the conservation of energy
+- [00:50:22,440 - 00:50:25,440] from the principle that the time derivative of the energy
+- [00:50:25,440 - 00:50:27,440] is the Poisson bracket
+- [00:50:27,440 - 00:50:30,440] of the energy with itself.
+- [00:50:30,440 - 00:50:31,440] Here we find in quantum mechanics
+- [00:50:31,440 - 00:50:32,440] a very simple thing,
+- [00:50:32,440 - 00:50:34,440] a similar thing.
+- [00:50:34,440 - 00:50:36,440] The time derivative of the,
+- [00:50:36,440 - 00:50:38,440] again, the Hamiltonian,
+- [00:50:38,440 - 00:50:40,440] is the Poisson bracket,
+- [00:50:40,440 - 00:50:45,440] is the commutator of the Hamiltonian with itself,
+- [00:50:45,440 - 00:50:47,440] and is therefore zero.
+- [00:50:47,440 - 00:50:49,440] Energy is conserved in quantum mechanics,
+- [00:50:49,440 - 00:50:53,440] or at least the average of the energy is conserved.
+- [00:50:53,440 - 00:50:55,440] Now, it's better than that.
+- [00:50:55,440 - 00:50:57,440] There's a very definite sense in which
+- [00:50:57,440 - 00:50:59,440] the energy is exactly conserved.
+- [00:51:01,440 - 00:51:03,440] But not for tonight.
+- [00:51:07,440 - 00:51:08,440] Good question.
+- [00:51:08,440 - 00:51:09,440] Mm-hmm?
+- [00:51:09,440 - 00:51:11,440] In the introductory example there,
+- [00:51:11,440 - 00:51:16,440] we were talking about two operators.
+- [00:51:16,440 - 00:51:18,440] Can you talk about that?
+- [00:51:18,440 - 00:51:19,440] Mm-hmm.
+- [00:51:19,440 - 00:51:21,440] In the physical example of that,
+- [00:51:21,440 - 00:51:24,440] are there two particles with pin saves?
+- [00:51:24,440 - 00:51:25,440] Two what?
+- [00:51:25,440 - 00:51:28,440] Two objects or particles with pin saves?
+- [00:51:28,440 - 00:51:29,440] We have two spins.
+- [00:51:29,440 - 00:51:31,440] Yeah, absolutely.
+- [00:51:31,440 - 00:51:33,440] Absolutely.
+- [00:51:33,440 - 00:51:35,440] In fact, whenever we build a system
+- [00:51:35,440 - 00:51:38,440] out of two systems,
+- [00:51:38,440 - 00:51:42,440] in general, the observables for one of the systems
+- [00:51:42,440 - 00:51:44,440] and the observable for the other systems
+- [00:51:44,440 - 00:51:46,440] commute with each other.
+- [00:51:46,440 - 00:51:49,440] That's why you can measure the position
+- [00:51:49,440 - 00:51:52,440] of me and Sanjay simultaneously,
+- [00:51:52,440 - 00:51:55,440] because we're two,
+- [00:51:55,440 - 00:51:57,440] because our positions commute.
+- [00:51:57,440 - 00:51:59,440] And so do our spins.
+- [00:51:59,440 - 00:52:01,440] But I think that's the question.
+- [00:52:01,440 - 00:52:03,440] That is the question you were asking?
+- [00:52:03,440 - 00:52:05,440] Yeah, okay, right.
+- [00:52:05,440 - 00:52:07,440] Yeah, but we haven't come yet.
+- [00:52:07,440 - 00:52:09,440] That's where I was going to go later,
+- [00:52:09,440 - 00:52:11,440] but I don't know if we'll get to it,
+- [00:52:11,440 - 00:52:14,440] to the question of composing systems,
+- [00:52:14,440 - 00:52:17,440] taking systems and making bigger systems
+- [00:52:17,440 - 00:52:19,440] out of composing them.
+- [00:52:19,440 - 00:52:22,440] And that would bring us to the issue of entanglement.
+- [00:52:22,440 - 00:52:25,440] I have a feeling we probably won't quite get there,
+- [00:52:25,440 - 00:52:28,440] but maybe we'll at least partly get there.
+- [00:52:28,440 - 00:52:30,440] All right, the next thing we want to do
+- [00:52:30,440 - 00:52:32,440] is solve Schrodinger's equation.
+- [00:52:32,440 - 00:52:35,440] I don't mean the one for the eigenvalues
+- [00:52:35,440 - 00:52:36,440] and the eigenvectors.
+- [00:52:36,440 - 00:52:41,440] That we solve by standard methods of,
+- [00:52:41,440 - 00:52:44,440] if we happen to know what the Hamiltonian is,
+- [00:52:44,440 - 00:52:46,440] and in particular if we happen to know it
+- [00:52:46,440 - 00:52:48,440] in some matrix form,
+- [00:52:48,440 - 00:52:50,440] then we're just calculating the eigenvectors
+- [00:52:50,440 - 00:52:52,440] and eigenvalues of some matrix.
+- [00:52:52,440 - 00:52:54,440] Let's suppose that's done.
+- [00:52:54,440 - 00:52:56,440] We have the eigenvectors,
+- [00:52:56,440 - 00:52:58,440] we have the eigenvalues.
+- [00:52:58,440 - 00:53:00,440] Let's now find the general solution
+- [00:53:00,440 - 00:53:02,440] of Schrodinger's equation.
+- [00:53:02,440 - 00:53:04,440] In other words, how things evolve with time.
+- [00:53:04,440 - 00:53:06,440] Okay.
+- [00:53:06,440 - 00:53:21,440] You know, I realize that all of this is abstract,
+- [00:53:21,440 - 00:53:25,440] that the only system that we have to apply this all to
+- [00:53:25,440 - 00:53:27,440] is the world's simplest system again,
+- [00:53:27,440 - 00:53:29,440] and that's not very much.
+- [00:53:29,440 - 00:53:32,440] So at this stage, you're probably saying to yourself,
+- [00:53:32,440 - 00:53:35,440] when are we going to be thinking about real things?
+- [00:53:35,440 - 00:53:38,440] Objects? Systems?
+- [00:53:38,440 - 00:53:40,440] We will.
+- [00:53:40,440 - 00:53:42,440] We will, by all means.
+- [00:53:44,440 - 00:53:46,440] But I think having all of this apparatus,
+- [00:53:46,440 - 00:53:50,440] this abstract formulation of quantum mechanics,
+- [00:53:50,440 - 00:53:52,440] will make it very easy and quick
+- [00:53:52,440 - 00:53:55,440] to start applying it to lots of things.
+- [00:53:55,440 - 00:53:57,440] Yeah?
+- [00:53:57,440 - 00:54:02,440] Do we know what H is for this spin system yet?
+- [00:54:02,440 - 00:54:04,440] Well, okay, so let me answer that right now.
+- [00:54:05,440 - 00:54:11,440] That depends on what we do with a spin.
+- [00:54:11,440 - 00:54:14,440] If we have a spin in free space,
+- [00:54:14,440 - 00:54:17,440] far from anything else,
+- [00:54:17,440 - 00:54:20,440] then its energy or its Hamiltonian
+- [00:54:20,440 - 00:54:22,440] is just basically zero.
+- [00:54:22,440 - 00:54:25,440] Incidentally, adding a constant to a Hamiltonian
+- [00:54:25,440 - 00:54:27,440] doesn't do anything,
+- [00:54:27,440 - 00:54:30,440] and the reason is because a constant commutes with everything.
+- [00:54:30,440 - 00:54:33,440] So apart from a possible additive constant in the energy,
+- [00:54:33,440 - 00:54:35,440] a spin which is not around anything,
+- [00:54:35,440 - 00:54:38,440] it just doesn't, its Hamiltonian is zero,
+- [00:54:38,440 - 00:54:41,440] and that means that it doesn't change with time.
+- [00:54:41,440 - 00:54:43,440] If you put it in a magnetic field,
+- [00:54:43,440 - 00:54:45,440] if it happens to be a real spin of an electron,
+- [00:54:45,440 - 00:54:47,440] you put it in a magnetic field,
+- [00:54:47,440 - 00:54:49,440] the magnetic field induces a Hamiltonian,
+- [00:54:49,440 - 00:54:51,440] which I hope we'll get to tonight,
+- [00:54:51,440 - 00:54:53,440] and it causes the spin to do things,
+- [00:54:53,440 - 00:54:56,440] to have a time dependence.
+- [00:54:56,440 - 00:54:58,440] And then what the Hamiltonian would be
+- [00:54:58,440 - 00:55:00,440] would have to do with which direction
+- [00:55:00,440 - 00:55:02,440] the magnetic field was in.
+- [00:55:02,440 - 00:55:05,440] So Hamiltonians can be done
+- [00:55:05,440 - 00:55:08,440] by changing the direction of a magnetic field.
+- [00:55:08,440 - 00:55:10,440] But we'll come,
+- [00:55:10,440 - 00:55:12,440] I hope we get to this example tonight,
+- [00:55:12,440 - 00:55:15,440] but let's just first write down the general solution
+- [00:55:15,440 - 00:55:18,440] of the Schrodinger equation.
+- [00:55:18,440 - 00:55:21,440] To do that, we start by saying
+- [00:55:21,440 - 00:55:24,440] let there be a basis of eigenvectors,
+- [00:55:24,440 - 00:55:26,440] I guess we called it,
+- [00:55:26,440 - 00:55:29,440] this is the same as E sub i,
+- [00:55:29,440 - 00:55:31,440] if I'm not mistaken,
+- [00:55:31,440 - 00:55:33,440] and then we'll call it E sub i.
+- [00:55:33,440 - 00:55:35,440] So let's say that E sub i is the same
+- [00:55:35,440 - 00:55:37,440] as the eigenvector of the energy,
+- [00:55:37,440 - 00:55:39,440] and if I don't want to write E sub i,
+- [00:55:39,440 - 00:55:41,440] I will just write the i-th eigenvector,
+- [00:55:41,440 - 00:55:45,440] but it means the eigenvector with energy E sub i.
+- [00:55:45,440 - 00:55:47,440] Alright, we can take any state,
+- [00:55:47,440 - 00:55:51,440] since i or E sub i are a basis of states,
+- [00:55:51,440 - 00:55:54,440] we can take any state,
+- [00:55:54,440 - 00:55:57,440] let's call it A,
+- [00:55:57,440 - 00:55:59,440] or should we call it psi,
+- [00:55:59,440 - 00:56:02,440] let's see, what did I call it in my notes?
+- [00:56:02,440 - 00:56:04,440] No, I think I called it psi, I did.
+- [00:56:04,440 - 00:56:07,440] Psi.
+- [00:56:13,440 - 00:56:17,440] And let's think about psi at time zero.
+- [00:56:17,440 - 00:56:22,440] Well, no, let's leave the time arbitrary.
+- [00:56:22,440 - 00:56:27,440] Psi is a sum over all of the eigenstates,
+- [00:56:27,440 - 00:56:29,440] or all the eigenvalues,
+- [00:56:29,440 - 00:56:32,440] of some set of coefficients,
+- [00:56:32,440 - 00:56:34,440] alpha sub i,
+- [00:56:34,440 - 00:56:36,440] I've used the term alpha in the past
+- [00:56:36,440 - 00:56:39,440] to denote the coefficients of states,
+- [00:56:39,440 - 00:56:41,440] of basis vectors.
+- [00:56:43,440 - 00:56:46,440] So any state whatever can be written
+- [00:56:46,440 - 00:56:49,440] as a superposition of eigenvectors of the energy,
+- [00:56:49,440 - 00:56:53,440] since the eigenvectors of a Hermitian operator
+- [00:56:53,440 - 00:56:55,440] are a complete basis.
+- [00:56:55,440 - 00:56:56,440] Alright, so this is psi,
+- [00:56:56,440 - 00:56:58,440] and let's say at time t equals zero.
+- [00:56:59,440 - 00:57:01,440] Now, how does the, how does the,
+- [00:57:01,440 - 00:57:03,440] not at time, at time t,
+- [00:57:03,440 - 00:57:05,440] how does the state change with time?
+- [00:57:05,440 - 00:57:06,440] What's changing here?
+- [00:57:06,440 - 00:57:10,440] Well, the states i are just a fixed set of states.
+- [00:57:10,440 - 00:57:12,440] It's the alphas which change,
+- [00:57:12,440 - 00:57:15,440] the coefficients here which change with time.
+- [00:57:18,440 - 00:57:21,440] Alright, so the coefficients in the expansion
+- [00:57:21,440 - 00:57:24,440] of an arbitrary state are typically
+- [00:57:24,440 - 00:57:26,440] time-dependent coefficients.
+- [00:57:26,440 - 00:57:29,440] That's what gives rise to a time dependence
+- [00:57:29,440 - 00:57:32,440] in expectation values and other things.
+- [00:57:32,440 - 00:57:35,440] Now let's write the Schrodinger equation.
+- [00:57:35,440 - 00:57:38,440] So we have i psi dot,
+- [00:57:38,440 - 00:57:40,440] sorry, we have psi dot,
+- [00:57:40,440 - 00:57:42,440] which we can now write,
+- [00:57:42,440 - 00:57:44,440] let's take psi dot, d by dt of psi,
+- [00:57:44,440 - 00:57:46,440] d psi dt.
+- [00:57:49,440 - 00:57:51,440] That's equal, from here,
+- [00:57:51,440 - 00:57:52,440] sum on i,
+- [00:57:52,440 - 00:57:56,440] d alpha sub i of t with respect to t,
+- [00:57:56,440 - 00:57:58,440] times i.
+- [00:57:58,440 - 00:58:00,440] To differentiate the state,
+- [00:58:00,440 - 00:58:02,440] all we do is differentiate the state.
+- [00:58:02,440 - 00:58:05,440] We differentiate the individual coefficients.
+- [00:58:05,440 - 00:58:08,440] Now, Schrodinger's equation tells us
+- [00:58:08,440 - 00:58:11,440] to set that equal to minus i,
+- [00:58:13,440 - 00:58:15,440] oh, different i.
+- [00:58:15,440 - 00:58:17,440] Holy smoke.
+- [00:58:18,440 - 00:58:20,440] Okay.
+- [00:58:20,440 - 00:58:23,440] J, j.
+- [00:58:30,440 - 00:58:31,440] Okay.
+- [00:58:31,440 - 00:58:34,440] Set that equal to minus i
+- [00:58:34,440 - 00:58:38,440] times h acting on this.
+- [00:58:38,440 - 00:58:40,440] But h can be brought in
+- [00:58:40,440 - 00:58:42,440] through the summation here,
+- [00:58:42,440 - 00:58:44,440] and this can just be written as
+- [00:58:44,440 - 00:58:45,440] summation over i,
+- [00:58:45,440 - 00:58:47,440] the coefficient numbers,
+- [00:58:47,440 - 00:58:48,440] alpha j,
+- [00:58:48,440 - 00:58:51,440] summation over j, j.
+- [00:58:51,440 - 00:58:54,440] Alpha j of t,
+- [00:58:54,440 - 00:58:58,440] h on j.
+- [00:58:58,440 - 00:59:00,440] Now what is h on j?
+- [00:59:01,440 - 00:59:03,440] Somebody said zero?
+- [00:59:03,440 - 00:59:07,440] .
+- [00:59:07,440 - 00:59:08,440] No.
+- [00:59:08,440 - 00:59:12,440] No, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no.
+- [00:59:12,440 - 00:59:13,440] No.
+- [00:59:13,440 - 00:59:15,440] .
+- [00:59:15,440 - 00:59:17,440] Up there.
+- [00:59:17,440 - 00:59:20,440] i and e sub i are the same vectors.
+- [00:59:20,440 - 00:59:21,440] Go up to the top vector,
+- [00:59:21,440 - 00:59:23,440] to the top equation.
+- [00:59:23,440 - 00:59:25,440] h on the i-th eigenvector
+- [00:59:25,440 - 00:59:27,440] is the energy e sub i
+- [00:59:27,440 - 00:59:29,440] on the i-th eigenvector.
+- [00:59:29,440 - 00:59:30,440] Okay.
+- [00:59:30,440 - 00:59:32,440] So,
+- [00:59:32,440 - 00:59:34,440] this just becomes
+- [00:59:34,440 - 00:59:36,440] e sub j.
+- [00:59:41,440 - 00:59:42,440] Here we have,
+- [00:59:42,440 - 00:59:44,440] on the left-hand side,
+- [00:59:44,440 - 00:59:46,440] a sum
+- [00:59:46,440 - 00:59:47,440] of
+- [00:59:47,440 - 00:59:49,440] basis vectors
+- [00:59:49,440 - 00:59:51,440] with coefficients alpha j.
+- [00:59:51,440 - 00:59:52,440] Sorry.
+- [00:59:52,440 - 00:59:53,440] Where are we?
+- [00:59:53,440 - 00:59:55,440] Did I make a mistake here?
+- [00:59:55,440 - 00:59:56,440] Oh, sorry.
+- [00:59:56,440 - 00:59:58,440] This should've gone,
+- [00:59:58,440 - 01:00:00,440] this should've gone down here.
+- [01:00:00,440 - 01:00:03,440] This is wrong.
+- [01:00:03,440 - 01:00:06,440] Here.
+- [01:00:06,440 - 01:00:07,440] This should've gone down here.
+- [01:00:07,440 - 01:00:09,440] This is sum on j,
+- [01:00:09,440 - 01:00:17,440] d by dt of alpha j.
+- [01:00:17,440 - 01:00:18,440] And then,
+- [01:00:18,440 - 01:00:20,440] .
+- [01:00:20,440 - 01:00:21,440] Hm?
+- [01:00:21,440 - 01:00:25,440] .
+- [01:00:25,440 - 01:00:26,440] I'm lost.
+- [01:00:26,440 - 01:00:27,440] .
+- [01:00:27,440 - 01:00:28,440] .
+- [01:00:28,440 - 01:00:29,440] Who?
+- [01:00:29,440 - 01:00:30,440] .
+- [01:00:30,440 - 01:00:31,440] .
+- [01:00:31,440 - 01:00:32,440] .
+- [01:00:32,440 - 01:00:33,440] .
+- [01:00:33,440 - 01:00:34,440] .
+- [01:00:34,440 - 01:00:35,440] .
+- [01:00:35,440 - 01:00:36,440] .
+- [01:00:36,440 - 01:00:37,440] .
+- [01:00:37,440 - 01:00:38,440] .
+- [01:00:38,440 - 01:00:39,440] .
+- [01:00:39,440 - 01:00:40,440] .
+- [01:00:40,440 - 01:00:41,440] .
+- [01:00:41,440 - 01:00:42,440] .
+- [01:00:42,440 - 01:00:43,440] .
+- [01:00:43,440 - 01:00:44,440] .
+- [01:00:44,440 - 01:00:45,440] This is correct up to here.
+- [01:00:45,440 - 01:00:46,440] This is correct up to here.
+- [01:00:46,440 - 01:00:47,440] Let's,
+- [01:00:47,440 - 01:00:49,440] let's,
+- [01:00:49,440 - 01:00:50,440] okay.
+- [01:00:50,440 - 01:00:51,440] .
+- [01:00:51,440 - 01:00:52,440] .
+- [01:00:52,440 - 01:00:53,440] .
+- [01:00:53,440 - 01:00:54,440] .
+- [01:00:54,440 - 01:00:55,440] .
+- [01:00:55,440 - 01:00:56,440] Yeah.
+- [01:00:56,440 - 01:00:57,440] Let's do that.
+- [01:00:57,440 - 01:00:58,440] And now,
+- [01:00:58,440 - 01:00:59,440] let's calculate,
+- [01:00:59,440 - 01:01:01,440] ah.
+- [01:01:01,440 - 01:01:03,440] Let's calculate the time derivative of this.
+- [01:01:03,440 - 01:01:04,440] What do we do?
+- [01:01:04,440 - 01:01:06,440] We put in minus i times h on j.
+- [01:01:06,440 - 01:01:07,440] Here is where I use h on j is equal to ej on j.
+- [01:01:07,440 - 01:01:08,440] Okay.
+- [01:01:08,440 - 01:01:10,440] But,
+- [01:01:10,440 - 01:01:11,440] but,
+- [01:01:11,440 - 01:01:12,440] but,
+- [01:01:12,440 - 01:01:13,440] but,
+- [01:01:13,440 - 01:01:14,440] but,
+- [01:01:14,440 - 01:01:15,440] but,
+- [01:01:15,440 - 01:01:16,440] but,
+- [01:01:16,440 - 01:01:17,440] but,
+- [01:01:17,440 - 01:01:18,440] but,
+- [01:01:18,440 - 01:01:19,440] but,
+- [01:01:19,440 - 01:01:20,440] but,
+- [01:01:20,440 - 01:01:21,440] but,
+- [01:01:21,440 - 01:01:22,440] but,
+- [01:01:22,440 - 01:01:23,440] but,
+- [01:01:23,440 - 01:01:24,440] but,
+- [01:01:24,440 - 01:01:25,440] but,
+- [01:01:25,440 - 01:01:28,740] Okay, okay, I think that's what I had a moment ago anyway, isn't it?
+- [01:01:28,740 - 01:01:31,260] I think that's exactly what I had.
+- [01:01:31,260 - 01:01:33,200] Minus i, take out the minus i.
+- [01:01:33,200 - 01:01:41,120] All right, this thing and this thing are the same, so this sum must be exactly the same
+- [01:01:41,120 - 01:01:43,380] as this sum.
+- [01:01:43,380 - 01:01:53,040] If you have two sums of basis vectors, the coefficients must be the same.
+- [01:01:53,040 - 01:01:58,640] If you have two sets of basis vectors, sorry, if you have two linear superpositions of the
+- [01:01:58,640 - 01:02:05,060] same set of basis vectors, and they're equal to each other, then the individual coefficients
+- [01:02:05,060 - 01:02:07,100] have to be equal to each other.
+- [01:02:07,100 - 01:02:23,000] So it follows that d alpha by dt is equal to minus i times the alpha j by dt, ej alpha
+- [01:02:23,000 - 01:02:23,040] and t.
+- [01:02:23,040 - 01:02:35,080] All I've done is set d alpha dt equal to the coefficient in this equation over here.
+- [01:02:35,080 - 01:02:36,180] And that's the whole upshot.
+- [01:02:36,180 - 01:02:40,320] It tells you how the alphas change with time.
+- [01:02:40,320 - 01:02:44,600] For each j, this is a differential equation.
+- [01:02:44,600 - 01:02:47,620] Think of this as just a differential equation for alpha.
+- [01:02:47,620 - 01:02:49,800] What's the solution of this differential equation?
+- [01:02:49,800 - 01:02:53,000] We've done this kind of equation over and over again.
+- [01:02:53,000 - 01:02:57,840] The time derivative of something is proportional to the same thing, to the thing itself.
+- [01:02:59,840 - 01:03:01,360] Exponential solution, right?
+- [01:03:01,360 - 01:03:11,520] So the solution of this equation is alpha j equals alpha j at time zero times e to the
+- [01:03:11,520 - 01:03:14,560] minus i ej t.
+- [01:03:15,680 - 01:03:22,800] If we differentiate alpha j with respect to t, it will bring down this factor minus i
+- [01:03:23,000 - 01:03:24,120] times the same thing.
+- [01:03:24,120 - 01:03:29,840] So we can now write the general solution of the Schrodinger equation.
+- [01:03:29,840 - 01:03:34,080] We've solved it for each individual eigenvector.
+- [01:03:34,080 - 01:03:40,240] This is the way the individual coefficients alpha change with time.
+- [01:03:40,240 - 01:03:42,240] But now we can go back.
+- [01:03:42,240 - 01:03:45,680] Let's go back to the original equation.
+- [01:03:45,680 - 01:03:49,840] And we can go back to the original equation.
+- [01:03:49,840 - 01:03:50,960] So we've solved it.
+- [01:03:50,960 - 01:03:51,840] We've solved it.
+- [01:03:51,840 - 01:03:52,840] We've solved it.
+- [01:03:52,840 - 01:03:53,840] We've solved it.
+- [01:03:53,840 - 01:03:54,840] We've solved it.
+- [01:03:54,840 - 01:03:55,840] We've solved it.
+- [01:03:55,840 - 01:03:56,840] We've solved it.
+- [01:03:56,840 - 01:03:57,840] So now we can write the general solution of the Schrodinger equation.
+- [01:03:57,840 - 01:04:01,760] Let's go back to the original equation that the state vector is a sum over the eigenvectors.
+- [01:04:01,760 - 01:04:05,700] And let's plug in what we now know about alpha.
+- [01:04:05,700 - 01:04:07,740] We now have solved for alpha.
+- [01:04:07,740 - 01:04:15,240] And here we can write that the general state vector at time t, if you know it at time zero,
+- [01:04:15,240 - 01:04:18,340] let's suppose we know it at time zero.
+- [01:04:18,340 - 01:04:20,960] At time zero, it was just alpha j of time zero.
+- [01:04:20,960 - 01:04:21,960] Let's plug in what we now know about alpha.
+- [01:04:21,960 - 01:04:26,880] So alpha j of time zero times j.
+- [01:04:26,880 - 01:04:31,780] All that happens is each alpha j picks up a time dependence.
+- [01:04:31,780 - 01:04:38,960] And the time dependence is just governed by the energy of the state.
+- [01:04:38,960 - 01:04:41,960] Earthquake?
+- [01:04:41,960 - 01:04:49,960] I don't know.
+- [01:04:49,960 - 01:04:50,960] All right.
+- [01:04:50,960 - 01:04:56,980] So all you do to find the general solution is you take the state, you break it up into
+- [01:04:56,980 - 01:05:01,980] eigenvectors of the Hamiltonian.
+- [01:05:01,980 - 01:05:08,300] And then whatever it was at time zero, the only thing that happens is the phase of each
+- [01:05:08,300 - 01:05:16,400] entry here changes with time with an e to the minus i times the energy of the state.
+- [01:05:16,400 - 01:05:18,160] Where would the h bar go in this formula?
+- [01:05:18,160 - 01:05:19,160] Anybody know?
+- [01:05:19,160 - 01:05:20,160] I don't know.
+- [01:05:20,160 - 01:05:29,040] Underneath the i or underneath the energy or underneath the time, it doesn't matter,
+- [01:05:29,040 - 01:05:38,060] but it goes into the denominator here.
+- [01:05:38,060 - 01:05:43,780] This is the connection between energy and oscillations.
+- [01:05:43,780 - 01:05:46,160] This is the oscillations of the wave function.
+- [01:05:46,160 - 01:05:48,160] Not oscillations of real things.
+- [01:05:48,160 - 01:05:50,160] But oscillations of the...
+- [01:05:50,160 - 01:05:59,040] Of the coefficients of the state vectors.
+- [01:05:59,040 - 01:06:04,160] While we're at it, let's do one more thing.
+- [01:06:04,160 - 01:06:11,960] Let's use our general solution of the Schrodinger equation to calculate how the average of L
+- [01:06:11,960 - 01:06:13,860] changes with time.
+- [01:06:13,860 - 01:06:18,160] We have an equation for it, but now we actually know how psi changes with time.
+- [01:06:18,160 - 01:06:19,160] And this is just a general equation.
+- [01:06:19,160 - 01:06:20,160] So we're going to do one more thing.
+- [01:06:20,160 - 01:06:21,160] It's just a little bit of a gym...
+- [01:06:21,160 - 01:06:22,160] Not gymnastics.
+- [01:06:22,160 - 01:06:26,860] Just a little bit of fiddling around with equations.
+- [01:06:26,860 - 01:06:31,380] Some of you may recognize the equation we're about to get, but whether you recognize it
+- [01:06:31,380 - 01:06:38,040] or not, it's just explaining how the symbols are used, if you like.
+- [01:06:38,040 - 01:06:39,400] Okay.
+- [01:06:39,400 - 01:06:41,560] Let's calculate...
+- [01:06:41,560 - 01:06:49,040] Given that the state changes like so, let's ask how the expectation value...
+- [01:06:49,040 - 01:06:50,040] Okay.
+- [01:06:50,160 - 01:06:56,840] Of an arbitrary observable changes.
+- [01:06:56,840 - 01:07:04,220] What do you have to know to know how the average or the expectation value of L changes?
+- [01:07:04,220 - 01:07:05,220] L is some operator.
+- [01:07:05,220 - 01:07:08,420] I haven't told you what operator.
+- [01:07:08,420 - 01:07:11,560] Of course, you need to know what operator in order to say how it changes.
+- [01:07:11,560 - 01:07:13,020] Of course you do.
+- [01:07:13,020 - 01:07:17,160] But still, we can go a little ways.
+- [01:07:17,160 - 01:07:18,160] Okay.
+- [01:07:18,160 - 01:07:19,160] Let's plug in...
+- [01:07:19,160 - 01:07:20,160] Okay.
+- [01:07:20,160 - 01:07:22,540] Let's plug in the formula for psi of t.
+- [01:07:22,540 - 01:07:38,700] This is sum of j, alpha sub j, e to the minus i, ej, t, times j.
+- [01:07:38,700 - 01:07:43,460] Now we have L. Put L over here.
+- [01:07:43,460 - 01:07:46,280] Now we're going to do the same thing to this bra vector over here.
+- [01:07:46,280 - 01:07:48,340] But what happens when we do a bra vector?
+- [01:07:48,340 - 01:07:50,040] Let's do the bra vector.
+- [01:07:50,040 - 01:07:54,360] The bra vector is psi of t is summation...
+- [01:07:54,360 - 01:07:58,580] We better use a different summation variable, k.
+- [01:07:58,580 - 01:08:04,220] And then we will have alpha star sub k of 0.
+- [01:08:04,220 - 01:08:09,540] When you go from bras to kets, you have to complex conjugate.
+- [01:08:09,540 - 01:08:19,420] We'll also have to change this to e to the plus i, e sub k, t, times the bra vector,
+- [01:08:19,420 - 01:08:21,800] and then we'll have the sum of k.
+- [01:08:21,800 - 01:08:22,800] Okay.
+- [01:08:22,800 - 01:08:27,860] I've changed the summation index here so that I don't confuse it with this one.
+- [01:08:27,860 - 01:08:35,480] I've complex conjugated here and flipped from kets to bras.
+- [01:08:35,480 - 01:08:37,740] Alright, so I can put this over here.
+- [01:08:37,740 - 01:08:43,740] Summation over k.
+- [01:08:43,740 - 01:08:44,740] k.
+- [01:08:44,740 - 01:08:45,740] Okay.
+- [01:08:45,740 - 01:08:46,740] And then we'll get the sum over here.
+- [01:08:46,740 - 01:08:47,740] Sum over k.
+- [01:08:47,740 - 01:08:48,740] k.
+- [01:08:48,740 - 01:08:49,740] k.
+- [01:08:49,740 - 01:09:02,560] alpha star k, alpha star k at time 0.
+- [01:09:02,560 - 01:09:07,480] This is at time 0.
+- [01:09:07,480 - 01:09:12,660] Times e to the plus i, e k t.
+- [01:09:12,660 - 01:09:14,400] So it's a double sum.
+- [01:09:14,400 - 01:09:17,440] It's a double sum over k and j.
+- [01:09:17,440 - 01:09:18,540] That's not terribly illuminating.
+- [01:09:18,540 - 01:09:25,480] But let's just for fun, let's work it out.
+- [01:09:25,480 - 01:09:27,620] Now what's the inner product of k with j?
+- [01:09:27,620 - 01:09:31,920] We see here the inner, oh no, sorry, it's not the inner product of k with j.
+- [01:09:31,920 - 01:09:37,400] What we see here is L sandwiched between j and k.
+- [01:09:37,400 - 01:09:40,720] L sandwiched between j and k.
+- [01:09:40,720 - 01:09:45,500] The operator L acts on the state j, and then you project it onto k.
+- [01:09:45,500 - 01:09:46,540] Let's give that a name.
+- [01:09:46,540 - 01:09:47,540] Let's call that L k j.
+- [01:09:47,540 - 01:09:48,540] Okay.
+- [01:09:48,540 - 01:09:49,540] Let's call that L k j.
+- [01:09:49,540 - 01:09:54,860] That's exactly the kind of matrix elements we computed when we talked about the matrix
+- [01:09:54,860 - 01:09:57,880] representation of observables.
+- [01:09:57,880 - 01:10:05,480] The inner product of alpha, sorry, of L on j with k.
+- [01:10:05,480 - 01:10:07,700] That's what we called L k j.
+- [01:10:07,700 - 01:10:12,140] Just the matrix representation of the observable.
+- [01:10:12,140 - 01:10:17,540] And then we have alpha star k of 0.
+- [01:10:17,540 - 01:10:18,540] Okay.
+- [01:10:18,540 - 01:10:19,540] Alpha j of 0.
+- [01:10:19,540 - 01:10:20,540] Alpha j of 0.
+- [01:10:20,540 - 01:10:25,000] We'll say, we'll talk about that in a moment.
+- [01:10:25,000 - 01:10:37,540] And then we have a phase e to the i, e sub k minus e sub j times t.
+- [01:10:37,540 - 01:10:38,640] Summed over j and k.
+- [01:10:38,640 - 01:10:45,420] Now, the main reason I did this was just to illustrate the machinery.
+- [01:10:45,420 - 01:10:48,540] I did not do this because this is a formula of...
+- [01:10:48,540 - 01:10:54,700] I don't think it's of any importance right now, but some of you may nevertheless recognize
+- [01:10:54,700 - 01:10:55,760] it.
+- [01:10:55,760 - 01:11:02,780] It is Heisenberg's matrix formulation of quantum mechanics, Heisenberg's formulation of the
+- [01:11:02,780 - 01:11:06,720] way averages change with time.
+- [01:11:06,720 - 01:11:12,760] If you go back to Heisenberg's first paper on quantum mechanics, he guessed this formula.
+- [01:11:12,760 - 01:11:16,340] Basically just guessed this formula.
+- [01:11:16,340 - 01:11:18,540] Every observable has two frequencies associated.
+- [01:11:18,540 - 01:11:23,000] That was weird.
+- [01:11:23,000 - 01:11:29,920] It was common for people to understand that an observable might be an oscillating observable.
+- [01:11:29,920 - 01:11:34,600] It might be something that oscillates and would have a frequency associated with it.
+- [01:11:34,600 - 01:11:40,760] But Heisenberg said there are two frequencies associated with every matrix element of an
+- [01:11:40,760 - 01:11:43,240] observable.
+- [01:11:43,240 - 01:11:44,240] This is where it came from.
+- [01:11:44,240 - 01:11:45,240] No, this is...
+- [01:11:45,240 - 01:11:46,820] It came out of Heisenberg's head.
+- [01:11:46,820 - 01:11:47,840] But this is the way Dirac explained it.
+- [01:11:47,840 - 01:11:48,300] Okay.
+- [01:11:48,300 - 01:11:48,360] Okay.
+- [01:11:48,360 - 01:11:48,460] Okay.
+- [01:11:48,460 - 01:11:48,540] Okay.
+- [01:11:48,540 - 01:11:49,820] So this is the way Dirac explained...
+- [01:11:49,820 - 01:12:02,540] This is the way Dirac understood what Heisenberg was saying through this machinery.
+- [01:12:02,540 - 01:12:04,040] First just the pieces.
+- [01:12:04,040 - 01:12:08,400] This represents the observable, whatever the observable is.
+- [01:12:08,400 - 01:12:11,040] It's its matrix representation.
+- [01:12:11,040 - 01:12:16,740] These things have to do with the initial state, the state at time t equals zero.
+- [01:12:16,740 - 01:12:18,460] And these things here have to do with the matrix.
+- [01:12:18,460 - 01:12:26,420] the way things change with time. Everything changes with time with two separate frequencies
+- [01:12:26,420 - 01:12:31,660] and then you sum it all together and that tells you how L changes with time, how the
+- [01:12:31,660 - 01:12:39,060] average of L changes with time. So we're putting together a bunch of machinery that we'll use.
+- [01:12:39,060 - 01:12:43,060] Are there any questions? Yeah?
+- [01:12:43,060 - 01:12:49,860] Am I reading this correctly? Is it the case that the magnitude of the alphas stays the same over time?
+- [01:12:49,860 - 01:12:54,060] The alphas are fixed. The alphas are just the alphas at time t equals zero, period.
+- [01:12:54,060 - 01:12:59,780] Yeah, yes, no, I think you're going back to here. Yeah, yes, that's correct. The magnitudes
+- [01:12:59,780 - 01:13:08,440] of the alphas stay fixed. It's the relative phases between them. So all of the time evolution
+- [01:13:08,440 - 01:13:12,660] has to do with these relative phases. Yeah?
+- [01:13:12,660 - 01:13:16,660] So in the Stranger Equations, it's the partial derivative.
+- [01:13:16,660 - 01:13:20,660] Is what? The partial derivative with respect to time.
+- [01:13:20,660 - 01:13:27,460] Oh, oh, it actually doesn't matter. This just means the whole derivative with respect to
+- [01:13:27,460 - 01:13:32,660] time. It's usually written as a partial derivative, but it just means it could be written as a
+- [01:13:32,660 - 01:13:35,660] total derivative. Same thing. Psi only depends on time.
+- [01:13:35,660 - 01:13:39,660] So psi will also function in the same position.
+- [01:13:39,660 - 01:13:42,660] Well, yeah, that's, okay, that's right.
+- [01:13:42,660 - 01:13:48,960] We will eventually come to think of psi as a function of time and position, and that's
+- [01:13:48,960 - 01:13:57,560] why it, but that's later. For the moment, it doesn't matter whether we use partial derivative
+- [01:13:57,560 - 01:14:05,260] or total derivative. It just means the change in psi in a small time, and it doesn't matter
+- [01:14:05,260 - 01:14:06,660] whether, which, yeah?
+- [01:14:06,660 - 01:14:11,660] When you derive the time dependent short-annual equation, you use the fact that the, the, the,
+- [01:14:11,660 - 01:14:17,960] the states stay orthogonal over time. I think that's an empirical fact.
+- [01:14:17,960 - 01:14:29,260] Well, it is an empirical fact, but in fact, I think it's much more than that. The evidence
+- [01:14:29,260 - 01:14:34,660] that it's much more than that is also an empirical fact. It's a curious empirical, empirical
+- [01:14:34,660 - 01:14:41,660] fact. People have tried to change quantum mechanics, and it seems to be as hard to do
+- [01:14:41,660 - 01:14:49,860] to change quantum mechanics as it is to change arithmetic or logic.
+- [01:14:49,860 - 01:14:55,760] If you start fooling around with it and try to change the rules, you very quickly find
+- [01:14:55,760 - 01:15:06,260] that something really bad happens. Probability is not conserved. Probability is not, not positive.
+- [01:15:06,260 - 01:15:11,660] Terrible non-localities happen where you can communicate that the infinite distances, the
+- [01:15:11,660 - 01:15:16,960] infinite space, the infinite space, are not consistent. And so quantum mechanics is not
+- [01:15:16,960 - 01:15:22,260] a thing which is easily changed. In fact, there is no known changes that can be made
+- [01:15:22,260 - 01:15:28,160] in it. Of course, there is one known change that can be made. You can just replace it
+- [01:15:28,160 - 01:15:33,460] by classical mechanics. That's a consistent theory. The reason it's a consistent theory
+- [01:15:33,460 - 01:15:39,660] is because it's a good limit of quantum mechanics, but there's no ways to change its, you know,
+- [01:15:39,660 - 01:15:40,960] to deform it a little bit.
+- [01:15:41,660 - 01:15:50,160] My friend David Finkelstein, who is a very wise man, a great scientist, once explained
+- [01:15:50,160 - 01:15:56,560] to me that there are two kinds of revolutions in physics. He called one a plastic flow and
+- [01:15:56,560 - 01:16:02,860] the other a brittle cracking. What he meant by that, he considered, for example, general
+- [01:16:02,860 - 01:16:08,160] relativity to be a plastic flow. You can change it a little bit. You can deform it a little
+- [01:16:08,160 - 01:16:11,160] bit. You can change Einstein's equations by, by, by, by, by, by, by, by, by, by, by, by, by,
+- [01:16:11,160 - 01:16:19,460] by changing variables. It's not something that you cannot change at all, and you can
+- [01:16:19,460 - 01:16:25,560] change it in little ways and deform it. Special relativity is very hard to change. Once you
+- [01:16:25,560 - 01:16:34,260] change special relativity, it's very brittle, and the whole structure of it goes down the
+- [01:16:34,260 - 01:16:39,060] drain, but you probably, but nevertheless, you could change it a little bit. It's harder
+- [01:16:39,060 - 01:16:40,360] to change in general relativity.
+- [01:16:41,160 - 01:16:47,460] Most things go wrong, but quantum mechanics is absolutely brittle, and by that he meant
+- [01:16:47,460 - 01:16:53,860] not that the theory is in danger of being broken by anything, but that if you try to
+- [01:16:53,860 - 01:17:04,360] change it, you will get broken. So quantum mechanics is very hard to change, and I think
+- [01:17:04,360 - 01:17:09,160] the evidence for that is just all of the years over which people have tried to change it.
+- [01:17:09,160 - 01:17:10,160] .
+- [01:17:10,160 - 01:17:11,160] .
+- [01:17:11,160 - 01:17:12,160] So the e sub j and e sub j values, those are both real numbers, right?
+- [01:17:12,160 - 01:17:13,160] Mm-hmm. Right.
+- [01:17:13,160 - 01:17:14,160] So is the reason that we know that they're real numbers because the eigenstates that we
+- [01:17:14,160 - 01:17:15,160] chose are eigenstates of the H matrix?
+- [01:17:15,160 - 01:17:36,160] Yeah. Yes. We derive from the unit, we derive from unitarity. Unitarity is this condition
+- [01:17:36,160 - 01:17:39,160] that u dagger u is equal to 1, or i, called unitarity.
+- [01:17:39,160 - 01:17:40,160] .
+- [01:17:40,160 - 01:17:41,160] .
+- [01:17:41,160 - 01:17:44,760] Called unitarity. From that we derive that the Hamiltonian is her mission, and from
+- [01:17:44,760 - 01:17:50,160] that we can define, we can derive that its eigenvalues are real. Yeah.
+- [01:17:50,160 - 01:17:51,160] .
+- [01:17:51,160 - 01:17:52,160] Mm-hmm. Of what?
+- [01:17:52,160 - 01:17:53,160] Syntax.
+- [01:17:53,160 - 01:17:54,160] Syntax.
+- [01:17:54,160 - 01:17:55,160] .
+- [01:17:55,160 - 01:17:56,160] .
+- [01:17:56,160 - 01:17:57,160] .
+- [01:17:57,160 - 01:17:58,160] .
+- [01:17:58,160 - 01:17:59,160] .
+- [01:17:59,160 - 01:18:00,160] .
+- [01:18:00,160 - 01:18:01,160] .
+- [01:18:01,160 - 01:18:02,160] .
+- [01:18:02,160 - 01:18:03,160] .
+- [01:18:03,160 - 01:18:04,160] .
+- [01:18:04,160 - 01:18:05,160] .
+- [01:18:05,160 - 01:18:06,160] .
+- [01:18:06,160 - 01:18:07,160] .
+- [01:18:07,160 - 01:18:08,160] .
+- [01:18:08,160 - 01:18:09,160] .
+- [01:18:09,160 - 01:18:10,160] .
+- [01:18:10,160 - 01:18:11,160] .
+- [01:18:11,160 - 01:18:12,160] .
+- [01:18:12,160 - 01:18:13,160] .
+- [01:18:13,160 - 01:18:14,160] .
+- [01:18:14,160 - 01:18:15,160] .
+- [01:18:15,160 - 01:18:16,160] .
+- [01:18:16,160 - 01:18:17,160] .
+- [01:18:17,160 - 01:18:18,160] .
+- [01:18:18,160 - 01:18:19,160] .
+- [01:18:19,160 - 01:18:20,160] .
+- [01:18:20,160 - 01:18:21,160] .
+- [01:18:21,160 - 01:18:22,160] .
+- [01:18:22,160 - 01:18:23,160] .
+- [01:18:23,160 - 01:18:24,160] .
+- [01:18:24,160 - 01:18:25,160] .
+- [01:18:25,160 - 01:18:26,160] .
+- [01:18:26,160 - 01:18:27,160] .
+- [01:18:27,160 - 01:18:28,160] .
+- [01:18:28,160 - 01:18:29,160] .
+- [01:18:29,160 - 01:18:30,160] .
+- [01:18:30,160 - 01:18:31,160] .
+- [01:18:31,160 - 01:18:32,160] Right?
+- [01:18:32,160 - 01:18:33,160] Mm-hmm.
+- [01:18:33,160 - 01:18:34,160] Here it's just the eigenvalue.
+- [01:18:34,160 - 01:18:35,160] That's what I was gonna say.
+- [01:18:35,160 - 01:18:36,160] Right.
+- [01:18:36,160 - 01:18:37,160] .
+- [01:18:37,160 - 01:18:43,160] repeated indices do not get summed over. This is a case of the non-summation convention.
+- [01:18:46,660 - 01:18:54,660] Let's apply some of this apparatus to the problem of a single spin, a spin in a magnetic field.
+- [01:18:54,660 - 01:19:07,660] Let's see if we can calculate, in particular, how the average of the components of the spins change.
+- [01:19:08,660 - 01:19:17,660] As we do this, depending on your memory for classical physics, you may start to find some of it familiar.
+- [01:19:18,660 - 01:19:23,660] If not, I will remind you.
+- [01:19:25,660 - 01:19:40,660] It's not as bad as fingers on the old light.
+- [01:19:41,660 - 01:19:45,660] No, no, it's not. No, no, it is not.
+- [01:19:46,660 - 01:19:50,660] That wasn't terribly bad, it just reminds me of my cat in the middle of the night.
+- [01:19:51,660 - 01:19:53,660] Okay, we have a single spin.
+- [01:19:55,660 - 01:19:58,660] Let's put the spin into a magnetic field.
+- [01:19:59,660 - 01:20:05,660] If we put the spin into a magnetic field along, let's take the z-axis, let's be simple.
+- [01:20:06,660 - 01:20:12,660] Let's take the z-axis, put the spin in, put the magnetic field along the z-axis.
+- [01:20:13,660 - 01:20:20,660] A spin, in particular, the spin of a charged particle, is a little electromagnet.
+- [01:20:21,660 - 01:20:23,660] Charged particle spins around and as it spins around it changes.
+- [01:20:24,660 - 01:20:27,660] There are currents of flow and it creates a little magnet.
+- [01:20:28,660 - 01:20:32,660] Put a magnet into a magnetic field and you get an energy.
+- [01:20:33,660 - 01:20:40,660] And basically the energy is proportional to the misalignment of the magnetic field with the spin, with the axis of the spin.
+- [01:20:41,660 - 01:20:53,660] And the simple formula is that the energy is proportional to the dot product.
+- [01:20:54,660 - 01:20:57,660] Of the spin with the magnetic field.
+- [01:20:58,660 - 01:20:59,660] That's where we're going to start.
+- [01:21:00,660 - 01:21:04,660] We're going to start with an energy which is proportional to the magnetic field.
+- [01:21:06,660 - 01:21:09,660] And the magnetic field is along the z-axis.
+- [01:21:10,660 - 01:21:17,660] So what is the dot product of the spin with the magnetic field that's going to be proportional to the z component of spin?
+- [01:21:18,660 - 01:21:22,660] The dot product of the spin with the magnetic field will be the component of the spin along the z axis.
+- [01:21:23,660 - 01:21:26,660] Along the axis of the magnetic field.
+- [01:21:27,660 - 01:21:28,660] That's a guess.
+- [01:21:29,660 - 01:21:30,660] Take that as a guess.
+- [01:21:31,660 - 01:21:35,660] Which we could then study and then ask if the experiments on the spin agree with it.
+- [01:21:36,660 - 01:21:39,660] So we have a spin, we have a magnetic field along the z-axis.
+- [01:21:40,660 - 01:21:41,660] Let's call it B sub z.
+- [01:21:42,660 - 01:21:43,660] And we have a spin.
+- [01:21:44,660 - 01:21:46,660] And the spin has components.
+- [01:21:47,660 - 01:21:48,660] Sigma x, sigma y, and sigma z.
+- [01:21:49,660 - 01:21:50,660] People ask me incidentally,
+- [01:21:50,660 - 01:21:55,660] why in the book that I'm writing about quantum mechanics there aren't more figures.
+- [01:21:56,660 - 01:21:58,660] There are lots of figures in the classical mechanics book.
+- [01:21:59,660 - 01:22:00,660] And the reason is very simple.
+- [01:22:00,660 - 01:22:01,660] I mean it's a real reason.
+- [01:22:01,660 - 01:22:03,660] You can't draw quantum mechanical systems.
+- [01:22:04,660 - 01:22:08,660] Quantum mechanical systems are by their very nature not things that you can draw.
+- [01:22:09,660 - 01:22:15,660] If you try to draw them, you will always be trying to draw things which cannot simultaneously make sense.
+- [01:22:16,660 - 01:22:19,660] In particular, if I try to draw the components of a spin,
+- [01:22:19,660 - 01:22:23,660] I'll be trying to draw components of the spin which don't commute with each other.
+- [01:22:24,660 - 01:22:26,660] And it doesn't make sense to draw them.
+- [01:22:26,660 - 01:22:27,660] Nevertheless, there it is.
+- [01:22:28,660 - 01:22:29,660] Magnetic field and the spin.
+- [01:22:31,660 - 01:22:34,660] And we're just going to write now.
+- [01:22:35,660 - 01:22:37,660] We're going to take this as a guess.
+- [01:22:38,660 - 01:22:39,660] Or as a postulate.
+- [01:22:40,660 - 01:22:46,660] The Hamiltonian is just going to be proportional to the component of spin along the z-axis
+- [01:22:47,660 - 01:22:48,660] times something proportional to the spin.
+- [01:22:49,660 - 01:22:51,660] And we're going to write the moment of the magnetic field.
+- [01:22:52,660 - 01:22:57,660] I'm not going to write out it contains the electric charge, it contains the magnetic moment, it contains the magnetic field.
+- [01:22:58,660 - 01:23:03,660] But let's just call the coefficient here, let's call it omega over 2.
+- [01:23:04,660 - 01:23:06,660] That's the definition of omega if you like.
+- [01:23:08,660 - 01:23:16,660] Whatever the right combination of magnetic field, charge, magnetic moment, magnetic moment and magnetic field.
+- [01:23:16,660 - 01:23:19,660] We'll lump them up and call it sigma over 2.
+- [01:23:20,660 - 01:23:21,660] Sorry, call it omega over 2.
+- [01:23:22,660 - 01:23:24,660] And the reason for the omega will become clear shortly.
+- [01:23:25,660 - 01:23:29,660] Sorry, the reason for the 2, for both the omega and the 2 will become clear shortly.
+- [01:23:31,660 - 01:23:40,660] Okay, now what I want to calculate, what I want to calculate, I want to calculate the time derivative of the averages of all the components of the spin.
+- [01:23:41,660 - 01:23:42,660] Here we have
+- [01:23:42,660 - 01:23:54,660] the z component in the Hamiltonian, but I want to find out how all the components, sigma x, sigma y, and sigma z, how they vary with time.
+- [01:23:55,660 - 01:24:03,660] So in particular, I want to calculate the time derivative, dot for time derivative, of sigma x and sigma y and sigma z.
+- [01:24:04,660 - 01:24:09,660] Well what is the rule? I'm afraid the rule has been erased, but I think you probably remember it.
+- [01:24:09,660 - 01:24:16,660] The time, and by definition now, this means the average of sigma x.
+- [01:24:17,660 - 01:24:23,660] I'm not going to bother writing the braquette, the angular brackets there.
+- [01:24:24,660 - 01:24:32,660] We're now talking about the averages of sigma x, sigma y, and sigma z, and the time derivatives of the averages.
+- [01:24:33,660 - 01:24:36,660] Alright, so if you remember, this is equal to minus i
+- [01:24:37,660 - 01:24:38,660] times the commutator,
+- [01:24:39,660 - 01:24:41,660] times the time derivative of sigma x,
+- [01:24:42,660 - 01:24:44,660] with the Hamiltonian, right?
+- [01:24:45,660 - 01:24:48,660] So, the Hamiltonian is sigma z,
+- [01:24:49,660 - 01:24:52,660] and we get another factor of omega over 2.
+- [01:24:53,660 - 01:24:54,660] Oh, uh, yeah.
+- [01:24:55,660 - 01:24:56,660] That's correct.
+- [01:24:57,660 - 01:24:59,660] Likewise here.
+- [01:25:02,660 - 01:25:04,660] Sigma y with sigma z
+- [01:25:06,660 - 01:25:08,660] times omega over 2.
+- [01:25:09,660 - 01:25:11,660] Likewise here.
+- [01:25:13,660 - 01:25:15,660] Sigma z, sigma z.
+- [01:25:20,660 - 01:25:23,660] Now one of these is very easy. Which is the easy one?
+- [01:25:24,660 - 01:25:26,660] The bottom one.
+- [01:25:27,660 - 01:25:29,660] Everything commutes with itself, right?
+- [01:25:29,660 - 01:25:31,660] Everything commutes with itself.
+- [01:25:31,660 - 01:25:32,660] So this is zero.
+- [01:25:33,660 - 01:25:34,660] And what does it tell us?
+- [01:25:34,660 - 01:25:37,660] It tells us that the component of the spin
+- [01:25:37,660 - 01:25:39,660] along the magnetic field,
+- [01:25:40,660 - 01:25:43,660] the average of it, does not change with time.
+- [01:25:44,660 - 01:25:48,660] That also tells us, well, if we were doing classical physics, which we're not,
+- [01:25:49,660 - 01:25:56,660] if we were doing classical physics, it would tell us that the angle of the little vector here with the magnetic field stays the same.
+- [01:25:56,660 - 01:25:57,660] But we're not.
+- [01:25:58,660 - 01:25:59,660] We'll just take this for what it says.
+- [01:25:59,660 - 01:26:03,660] It says that the z component doesn't change with time.
+- [01:26:03,660 - 01:26:04,660] The average.
+- [01:26:07,660 - 01:26:10,660] So that's the first thing we discover.
+- [01:26:11,660 - 01:26:17,660] Now, to go beyond this, we have to know what the commutation relations are of the sigmas.
+- [01:26:18,660 - 01:26:19,660] So let's work them out.
+- [01:26:20,660 - 01:26:21,660] I think we have enough time.
+- [01:26:22,660 - 01:26:25,660] Let's work out the commutation relations of the sigmas.
+- [01:26:26,660 - 01:26:28,660] All pairs of them.
+- [01:26:29,660 - 01:26:32,660] And see what we get, and then plug it into here.
+- [01:26:37,660 - 01:26:51,660] I'll start with the sigma z.
+- [01:26:51,660 - 01:26:53,660] And then I'll calculate the sigma z.
+- [01:26:53,660 - 01:26:56,660] I'm going to start with sigma x, sigma z.
+- [01:26:56,660 - 01:26:59,660] But instead, I'm going to do it the opposite way.
+- [01:26:59,660 - 01:27:02,660] I'm going to calculate sigma z, sigma x.
+- [01:27:03,660 - 01:27:05,660] It's the same thing except with a minus sign.
+- [01:27:05,660 - 01:27:09,580] to change the two of them so we'll have to remember I'm calculating sigma z
+- [01:27:09,580 - 01:27:16,160] sigma x we'll have to remember to change the sign okay so what is this this is
+- [01:27:16,160 - 01:27:20,100] the product now everybody remember what sigma z is as a matrix we're going to do
+- [01:27:20,100 - 01:27:25,040] it now by matrices let's say the way to calculate this is to remember that sigma
+- [01:27:25,040 - 01:27:31,220] z and sigma x are matrices or at least they have a matrix representation and we
+- [01:27:31,220 - 01:27:38,220] just have to multiply the matrices sigma z what was that that was 1 0 1 sorry 1
+- [01:27:38,220 - 01:27:50,980] minus 1 and what about sigma x that's 0 1 1 0 that's the first term in the
+- [01:27:50,980 - 01:27:56,780] commutator sigma z times sigma x and then the other term is just to put them
+- [01:27:56,780 - 01:27:59,760] in the opposite order 0 1
+- [01:28:01,220 - 01:28:08,040] 0 1 0 times 1 0 0 minus 1
+- [01:28:08,500 - 01:28:11,500] so for these operations we're not using angular?
+- [01:28:12,060 - 01:28:19,040] No we'll just take, just take commutators of the of the matrices is what it comes down to
+- [01:28:20,900 - 01:28:26,440] we can do it without the matrices just by applying the operators to
+- [01:28:26,440 - 01:28:30,840] the vectors the vectors up and down and we know what we know enough to actually
+- [01:28:30,840 - 01:28:31,220] do that well
+- [01:28:31,220 - 01:28:35,460] without actually using the matrices, but the matrices are a very convenient tool
+- [01:28:35,460 - 01:28:42,760] for manipulating operators. Operator product is the same as matrix product.
+- [01:28:42,760 - 01:28:48,320] Okay, so everybody know how to do a matrix product? I hope so. Let's do this
+- [01:28:48,320 - 01:28:55,760] one over here. The upper left-hand corner is the product of this row with this
+- [01:28:55,760 - 01:29:02,080] column, 1 times 0, 0 times 1, 0. The upper-right corner is the product of
+- [01:29:02,080 - 01:29:09,220] this row with this column, 1 times 1, 0, 0, 1. The lower left corner
+- [01:29:09,220 - 01:29:15,320] is the product of this row with this column, that's minus 1 and then the last
+- [01:29:15,320 - 01:29:21,260] one is this column times this row, zero times one.
+- [01:29:21,260 - 01:29:25,380] 0 to this one
+- [01:29:25,380 - 01:29:25,460] 0 to this one
+- [01:29:25,460 - 01:29:25,740] 0 to this one
+- [01:29:25,740 - 01:29:29,280] this one's still zero
+- [01:29:29,280 - 01:29:32,280] okay now let's do the other one over here
+- [01:29:32,280 - 01:29:36,080] minus
+- [01:29:36,080 - 01:29:38,860] zero times one
+- [01:29:38,860 - 01:29:41,560] this one times this one, zero
+- [01:29:41,560 - 01:29:44,980] this one times this one, minus one
+- [01:29:44,980 - 01:29:48,380] this one times this one, one, zero
+- [01:29:48,380 - 01:29:55,380] I think I missed the sign somewhere
+- [01:30:07,380 - 01:30:09,380] yeah no no it's right, it's right
+- [01:30:09,380 - 01:30:11,380] this is plus
+- [01:30:11,380 - 01:30:13,380] minus
+- [01:30:13,380 - 01:30:18,380] okay so this, they just gave the same thing
+- [01:30:18,380 - 01:30:20,380] but with a minus sign
+- [01:30:20,380 - 01:30:22,380] sorry
+- [01:30:22,380 - 01:30:24,380] this minus this
+- [01:30:24,380 - 01:30:27,380] gave two terms which add
+- [01:30:27,380 - 01:30:30,380] so the commutator is just equal to
+- [01:30:30,380 - 01:30:32,380] the commutator itself
+- [01:30:32,380 - 01:30:34,380] is just equal to zero, one
+- [01:30:34,380 - 01:30:36,380] no, it's equal to twice
+- [01:30:36,380 - 01:30:40,380] minus one, zero
+- [01:30:40,380 - 01:30:44,380] now do you recognize this thing over here
+- [01:30:46,380 - 01:30:47,380] if I put an
+- [01:30:47,380 - 01:30:48,380] on
+- [01:30:48,380 - 01:30:49,380] over here
+- [01:30:49,380 - 01:30:50,380] and an over here
+- [01:30:50,380 - 01:30:54,380] you might recognize it as being related to sigma y
+- [01:30:54,380 - 01:30:56,380] let me write down sigma y
+- [01:30:56,380 - 01:31:03,380] sigma y is equal to minus i, i, zero, zero
+- [01:31:03,380 - 01:31:09,380] and what happens if I multiply sigma i by i
+- [01:31:09,380 - 01:31:14,380] i times minus i is one
+- [01:31:14,380 - 01:31:18,380] and i times i is minus one
+- [01:31:18,380 - 01:31:25,380] so what this is, is it's just twice i sigma y
+- [01:31:25,380 - 01:31:28,380] two i sigma y
+- [01:31:28,380 - 01:31:29,380] that's kind of neat
+- [01:31:29,380 - 01:31:32,380] it's closing up on itself
+- [01:31:32,380 - 01:31:34,380] commutators of sigmas with sigmas are sigmas
+- [01:31:34,380 - 01:31:35,380] that's good
+- [01:31:35,380 - 01:31:38,380] because it's going to allow me to write equations
+- [01:31:38,380 - 01:31:40,380] for the time derivatives of sigmas
+- [01:31:40,380 - 01:31:43,380] which are just going to be sigmas again
+- [01:31:43,380 - 01:31:46,380] okay so let's see what we have
+- [01:31:46,380 - 01:31:47,380] we have
+- [01:31:47,380 - 01:31:51,380] commutator sigma z with sigma x
+- [01:31:51,380 - 01:31:54,380] is equal to twice i sigma y
+- [01:31:54,380 - 01:31:57,380] and now I'll write down the rest of them
+- [01:31:57,380 - 01:32:00,380] incidentally, as I said, if you want to get the opposite order
+- [01:32:00,380 - 01:32:02,380] you just change the sign
+- [01:32:02,380 - 01:32:06,380] sigma z sigma x with sigma y
+- [01:32:06,380 - 01:32:10,380] is equal to two i sigma z
+- [01:32:10,380 - 01:32:14,380] and z x y sigma y
+- [01:32:14,380 - 01:32:16,380] x y z
+- [01:32:16,380 - 01:32:18,380] sigma z
+- [01:32:18,380 - 01:32:24,380] is equal to two i sigma x
+- [01:32:24,380 - 01:32:26,380] these are the three commutations
+- [01:32:26,380 - 01:32:31,380] do these remind you of anything?
+- [01:32:31,380 - 01:32:36,380] do you remember the Poisson brackets of angular momentum?
+- [01:32:36,380 - 01:32:39,380] the Poisson brackets of angular momentum
+- [01:32:39,380 - 01:32:42,380] were Lz Lx equals Ly
+- [01:32:42,380 - 01:32:45,380] Lx Ly is equal to Lz
+- [01:32:45,380 - 01:32:48,380] and Ly Lz is equal to Lx
+- [01:32:48,380 - 01:32:50,380] so apart from a factor of two i
+- [01:32:50,380 - 01:32:54,380] remember there is an i in the connection between Poisson brackets and
+- [01:32:54,380 - 01:32:57,380] and commutators
+- [01:32:57,380 - 01:33:00,380] these are essentially apart from a factor of two
+- [01:33:00,380 - 01:33:02,380] which we can absorb
+- [01:33:02,380 - 01:33:04,380] they're essentially angular momentum
+- [01:33:04,380 - 01:33:06,380] Poisson brackets
+- [01:33:08,380 - 01:33:10,380] that's there's an important clue there
+- [01:33:10,380 - 01:33:13,380] for the meaning of angular momentum
+- [01:33:13,380 - 01:33:15,380] but we're not going to dwell on it
+- [01:33:15,380 - 01:33:16,380] for the moment
+- [01:33:16,380 - 01:33:21,380] these are the commutation relations
+- [01:33:21,380 - 01:33:24,380] of the components of the spin
+- [01:33:24,380 - 01:33:28,380] and they just give back the components of the spin again
+- [01:33:28,380 - 01:33:30,380] with this funny ordering
+- [01:33:30,380 - 01:33:34,380] z x y x y z y z x
+- [01:33:34,380 - 01:33:36,380] they're just permuted cyclically
+- [01:33:36,380 - 01:33:39,380] okay so let's go over to here now
+- [01:33:39,380 - 01:33:41,380] this now becomes
+- [01:33:41,380 - 01:33:43,380] minus i
+- [01:33:43,380 - 01:33:46,380] omega over two
+- [01:33:46,380 - 01:33:50,380] and now what's the commutator of sigma x with sigma z
+- [01:33:50,380 - 01:33:54,380] it's minus two i sigma y
+- [01:33:54,380 - 01:33:58,380] so we get another minus two i
+- [01:33:58,380 - 01:34:01,380] sigma y
+- [01:34:01,380 - 01:34:04,380] the twos cancel
+- [01:34:04,380 - 01:34:09,380] that was the reason that I put a two in the denominator here in the first place
+- [01:34:09,380 - 01:34:11,380] because I knew it was going to cancel
+- [01:34:11,380 - 01:34:13,380] so let's cancel the two
+- [01:34:13,380 - 01:34:18,380] and we have minus i times minus i
+- [01:34:18,380 - 01:34:20,380] which is minus one
+- [01:34:20,380 - 01:34:22,380] so what we get
+- [01:34:22,380 - 01:34:26,380] is minus omega sigma y
+- [01:34:26,380 - 01:34:29,380] notice that the i went away
+- [01:34:29,380 - 01:34:32,380] the i went away
+- [01:34:32,380 - 01:34:35,380] I was worried about it about a half an hour ago
+- [01:34:35,380 - 01:34:37,380] that oh my goodness
+- [01:34:37,380 - 01:34:39,380] time derivatives of real things
+- [01:34:39,380 - 01:34:41,380] are going to get imaginary
+- [01:34:41,380 - 01:34:42,380] but they didn't
+- [01:34:42,380 - 01:34:47,380] they didn't because the commutators themselves had imaginary coefficients
+- [01:34:47,380 - 01:34:49,380] and that's general
+- [01:34:49,380 - 01:34:51,380] that's general
+- [01:34:51,380 - 01:34:52,380] okay
+- [01:34:52,380 - 01:34:53,380] so there we are
+- [01:34:53,380 - 01:34:55,380] we have
+- [01:34:55,380 - 01:34:57,380] sigma x dot
+- [01:34:57,380 - 01:35:00,380] is equal to minus omega
+- [01:35:00,380 - 01:35:06,380] sigma y
+- [01:35:06,380 - 01:35:09,380] and sigma y dot
+- [01:35:09,380 - 01:35:11,380] here we have the relationship for sigma y
+- [01:35:11,380 - 01:35:15,380] and it involves twice sigma x
+- [01:35:15,380 - 01:35:18,380] the correct relationship if we work it out
+- [01:35:18,380 - 01:35:21,380] is that this is equal to plus
+- [01:35:21,380 - 01:35:26,380] plus omega sigma x
+- [01:35:26,380 - 01:35:30,380] okay so sigma z dot is zero
+- [01:35:30,380 - 01:35:33,380] but what's happening to sigma x and sigma y
+- [01:35:33,380 - 01:35:36,380] can you see what's happening to sigma x and sigma y
+- [01:35:36,380 - 01:35:39,380] do you recognize these equations?
+- [01:35:41,380 - 01:35:46,380] these are the equations
+- [01:35:46,380 - 01:35:49,380] for a thing moving in circular motion right
+- [01:35:49,380 - 01:35:52,380] what's happening is simple
+- [01:35:52,380 - 01:35:54,380] the
+- [01:35:54,380 - 01:35:58,380] in the sense of expectation values
+- [01:35:58,380 - 01:36:01,380] expectation values are real numbers
+- [01:36:01,380 - 01:36:04,380] and in the sense of expectation values
+- [01:36:04,380 - 01:36:08,380] the spin vector is processing around
+- [01:36:08,380 - 01:36:10,380] the z axis
+- [01:36:10,380 - 01:36:12,380] it's processing around the z axis
+- [01:36:12,380 - 01:36:15,380] sigma x dot is minus omega sigma y
+- [01:36:15,380 - 01:36:18,380] sigma y dot is plus omega sigma x
+- [01:36:18,380 - 01:36:22,380] this is the same kind of formula
+- [01:36:22,380 - 01:36:24,380] that we discovered in classical mechanics
+- [01:36:24,380 - 01:36:26,380] when we talked about a rotor
+- [01:36:26,380 - 01:36:27,380] do you remember the rotor?
+- [01:36:27,380 - 01:36:30,380] and we also put the rotor in a magnetic field
+- [01:36:30,380 - 01:36:32,380] the angular momentum
+- [01:36:32,380 - 01:36:34,380] executed exactly the same
+- [01:36:34,380 - 01:36:36,380] and it's also the gyroscope procession
+- [01:36:36,380 - 01:36:39,380] it's basically gyroscopic procession
+- [01:36:39,380 - 01:36:40,380] a spin
+- [01:36:40,380 - 01:36:42,380] a quantum mechanical spin
+- [01:36:42,380 - 01:36:45,380] in the sense of expectation values
+- [01:36:45,380 - 01:36:47,380] it doesn't make any sense to say that
+- [01:36:47,380 - 01:36:50,380] the quantum mechanical operators themselves process
+- [01:36:50,380 - 01:36:52,380] that doesn't mean anything
+- [01:36:52,380 - 01:36:54,380] quantum mechanical operators are just these matrices
+- [01:36:54,380 - 01:36:56,380] they don't do anything
+- [01:36:56,380 - 01:36:59,380] but because the state vectors change with time
+- [01:36:59,380 - 01:37:01,380] the expectation values
+- [01:37:01,380 - 01:37:04,380] the average values of the spin
+- [01:37:04,380 - 01:37:06,380] execute a motion
+- [01:37:06,380 - 01:37:09,380] which is basically the same
+- [01:37:09,380 - 01:37:11,380] as a classical rotor
+- [01:37:11,380 - 01:37:14,380] processing in a magnetic field
+- [01:37:14,380 - 01:37:15,380] okay
+- [01:37:15,380 - 01:37:17,380] so we have now
+- [01:37:17,380 - 01:37:19,380] solved the problem
+- [01:37:19,380 - 01:37:21,380] of a spin in a magnetic field
+- [01:37:21,380 - 01:37:23,380] we've solved the hardest possible problem
+- [01:37:23,380 - 01:37:25,380] associated with a single spin
+- [01:37:25,380 - 01:37:29,380] there is no Hamiltonian which is more complicated than this
+- [01:37:29,380 - 01:37:31,380] for the single spin
+- [01:37:31,380 - 01:37:33,380] it's the most general
+- [01:37:33,380 - 01:37:36,380] of course you could put the magnetic field in the x direction
+- [01:37:36,380 - 01:37:37,380] alright there's a little
+- [01:37:37,380 - 01:37:39,380] yes you can solve a harder problem
+- [01:37:39,380 - 01:37:47,380] you could put the spin along some peculiar axis
+- [01:37:47,380 - 01:37:49,380] but what you would find after you work the whole thing out
+- [01:37:49,380 - 01:37:53,380] is that it would just process around the peculiar axis of the magnetic field
+- [01:37:53,380 - 01:37:54,380] same thing
+- [01:37:54,380 - 01:37:56,380] you just rotate it so that
+- [01:37:56,380 - 01:37:59,380] so that the magnetic field is pointing in a different direction
+- [01:37:59,380 - 01:38:01,380] excuse me
+- [01:38:01,380 - 01:38:07,380] any hints on why that's the correct value for the Hamiltonian
+- [01:38:07,380 - 01:38:09,380] there really aren't very many
+- [01:38:09,380 - 01:38:10,380] operators
+- [01:38:10,380 - 01:38:12,380] okay so let's
+- [01:38:12,380 - 01:38:14,380] here's a general
+- [01:38:14,380 - 01:38:15,380] you can work this out yourself
+- [01:38:15,380 - 01:38:17,380] this is not hard to prove
+- [01:38:19,380 - 01:38:22,380] the most general
+- [01:38:22,380 - 01:38:26,380] Hermitian operator in two dimensions
+- [01:38:26,380 - 01:38:28,380] is a linear combination
+- [01:38:28,380 - 01:38:30,380] of the unit operator
+- [01:38:33,380 - 01:38:35,380] sigma x, sigma y, and sigma z
+- [01:38:35,380 - 01:38:37,380] the most general Hermitian operator
+- [01:38:37,380 - 01:38:40,380] is a linear combination of these
+- [01:38:40,380 - 01:38:43,380] putting a unit operator into a Hamiltonian
+- [01:38:43,380 - 01:38:46,380] that's like adding a constant to the energy
+- [01:38:46,380 - 01:38:49,380] unit operators commute with everything
+- [01:38:49,380 - 01:38:53,380] so putting a unit operator in is not interesting
+- [01:38:53,380 - 01:38:54,380] it does nothing
+- [01:38:54,380 - 01:38:56,380] so we get rid of this
+- [01:38:56,380 - 01:38:59,380] the next possibility is a general combination
+- [01:38:59,380 - 01:39:01,380] linear combination
+- [01:39:01,380 - 01:39:02,380] add them up
+- [01:39:02,380 - 01:39:04,380] of a coefficient times sigma x
+- [01:39:04,380 - 01:39:05,380] another coefficient times sigma y
+- [01:39:05,380 - 01:39:06,380] and another coefficient times sigma y
+- [01:39:06,380 - 01:39:08,380] and another coefficient times sigma z
+- [01:39:08,380 - 01:39:10,380] that just corresponds
+- [01:39:10,380 - 01:39:14,380] to putting the magnetic field at some angle
+- [01:39:14,380 - 01:39:16,380] it's just
+- [01:39:16,380 - 01:39:21,380] the simple case where we only took one of these
+- [01:39:21,380 - 01:39:27,380] is the magnetic field along the z-axis
+- [01:39:27,380 - 01:39:30,380] if we took a general linear combination
+- [01:39:30,380 - 01:39:33,380] let's say n sub x, sigma x
+- [01:39:33,380 - 01:39:35,380] plus n sub y, sigma y
+- [01:39:35,380 - 01:39:38,380] plus n sub z, sigma z
+- [01:39:38,380 - 01:39:41,380] this would just correspond to the component of the spin
+- [01:39:41,380 - 01:39:43,380] along the n-axis
+- [01:39:43,380 - 01:39:47,380] and you would do exactly the same calculation
+- [01:39:47,380 - 01:39:49,380] except you might work instead
+- [01:39:49,380 - 01:39:54,380] in the basis of eigenvectors of sigma dot n
+- [01:39:54,380 - 01:39:56,380] so it really is the most general Hamiltonian
+- [01:39:56,380 - 01:39:59,380] that you can write down
+- [01:39:59,380 - 01:40:02,380] and that's just because a two-dimensional space
+- [01:40:02,380 - 01:40:03,380] is so simple
+- [01:40:03,380 - 01:40:05,380] there just aren't very many
+- [01:40:05,380 - 01:40:07,380] independent operators in it
+- [01:40:09,380 - 01:40:11,380] there just is nothing else
+- [01:40:13,380 - 01:40:15,380] Can you comment on the relation between
+- [01:40:15,380 - 01:40:19,380] the two-dimensional space is the space of states
+- [01:40:19,380 - 01:40:21,380] but we're sort of thinking of three-dimensional here
+- [01:40:21,380 - 01:40:23,380] from the precession
+- [01:40:23,380 - 01:40:24,380] Right
+- [01:40:24,380 - 01:40:25,380] But we worked
+- [01:40:25,380 - 01:40:26,380] yeah
+- [01:40:26,380 - 01:40:27,380] but remember
+- [01:40:27,380 - 01:40:29,380] for every direction that you can think of
+- [01:40:29,380 - 01:40:31,380] there is a state
+- [01:40:31,380 - 01:40:33,380] for which
+- [01:40:33,380 - 01:40:35,380] that component of the spin is definite
+- [01:40:35,380 - 01:40:37,380] but that's secondary here
+- [01:40:37,380 - 01:40:41,380] that didn't play very much of a role here
+- [01:40:41,380 - 01:40:43,380] we just follow the rules
+- [01:40:43,380 - 01:40:45,380] and
+- [01:40:45,380 - 01:40:47,380] but yes, I mean there are
+- [01:40:47,380 - 01:40:49,380] two things going on here
+- [01:40:49,380 - 01:40:52,380] and this is a good place to focus on those two things
+- [01:40:52,380 - 01:40:54,380] there are the three vectors
+- [01:40:54,380 - 01:40:56,380] the vectors in real space
+- [01:40:56,380 - 01:40:59,380] those are the components of the averages of sigma
+- [01:40:59,380 - 01:41:01,380] and there's the two-dimensional space of states
+- [01:41:01,380 - 01:41:03,380] and they're quite different things
+- [01:41:03,380 - 01:41:05,380] although they are related
+- [01:41:05,380 - 01:41:07,380] but they're not
+- [01:41:07,380 - 01:41:09,380] no
+- [01:41:09,380 - 01:41:13,380] Does omega represent some property of the magnetic field or something?
+- [01:41:13,380 - 01:41:15,380] It's a problem
+- [01:41:15,380 - 01:41:18,380] Omega is basically the product of the magnetic field
+- [01:41:18,380 - 01:41:21,380] times the magnetic moment of the little spin
+- [01:41:21,380 - 01:41:23,380] right
+- [01:41:23,380 - 01:41:26,380] There may be a two I have to remember but
+- [01:41:26,380 - 01:41:28,380] no I don't think there is
+- [01:41:28,380 - 01:41:30,380] yeah there is a two
+- [01:41:30,380 - 01:41:31,380] yeah
+- [01:41:31,380 - 01:41:33,380] Omega over two
+- [01:41:33,380 - 01:41:35,380] is the product of the magnetic moment
+- [01:41:35,380 - 01:41:37,380] of the magnetic field
+- [01:41:37,380 - 01:41:42,380] Our original technique for creating sigma z
+- [01:41:42,380 - 01:41:47,380] was to put it in a magnetic field and have a photon go out
+- [01:41:47,380 - 01:41:49,380] that was last year
+- [01:41:51,380 - 01:41:53,380] right, you're right
+- [01:41:53,380 - 01:41:54,380] right
+- [01:41:54,380 - 01:41:58,380] I mean if we pursued this and coupled it to a field
+- [01:41:58,380 - 01:42:00,380] we would see that thing
+- [01:42:00,380 - 01:42:01,380] yeah
+- [01:42:01,380 - 01:42:03,380] right, if we couple the spin
+- [01:42:03,380 - 01:42:05,380] now forget the precession
+- [01:42:05,380 - 01:42:08,380] if we couple the spin to the magnetic field
+- [01:42:08,380 - 01:42:11,380] then there would be two energy states
+- [01:42:11,380 - 01:42:14,380] for example if the magnetic field is along the z-axis
+- [01:42:14,380 - 01:42:19,380] then the energy of the up state and the down state will be different
+- [01:42:19,380 - 01:42:21,380] they'll differ by amount omega
+- [01:42:21,380 - 01:42:23,380] up will have energy omega over two
+- [01:42:23,380 - 01:42:26,380] down will have energy minus omega over two
+- [01:42:26,380 - 01:42:29,380] and there will be an energy difference of omega
+- [01:42:29,380 - 01:42:31,380] alright so one of them has higher energy
+- [01:42:31,380 - 01:42:33,380] one of them has lower energy
+- [01:42:33,380 - 01:42:38,380] what happens to a real spin if you wait long enough
+- [01:42:38,380 - 01:42:41,380] if you put it in a magnetic field
+- [01:42:41,380 - 01:42:46,380] the answer is eventually the higher energy state will emit a photon
+- [01:42:46,380 - 01:42:49,380] and what will be the energy of the photon
+- [01:42:49,380 - 01:42:50,380] omega
+- [01:42:50,380 - 01:42:53,380] just a difference between the upper energy and the lower energy
+- [01:42:53,380 - 01:42:56,380] and in the process of emitting the photon it will flip
+- [01:42:56,380 - 01:43:01,380] so these things are all certainly connected
+- [01:43:03,380 - 01:43:09,380] alright we've solved a real genuine quantum mechanics problem
+- [01:43:09,380 - 01:43:13,380] so why is the B not treated as an operator
+- [01:43:13,380 - 01:43:14,380] what's that
+- [01:43:14,380 - 01:43:16,380] why is the magnetic field not treated as an operator
+- [01:43:16,380 - 01:43:18,380] its value is all one in one way
+- [01:43:18,380 - 01:43:21,380] if you were to think of the magnet
+- [01:43:21,380 - 01:43:23,380] as part of the quantum mechanical system
+- [01:43:23,380 - 01:43:29,380] whenever you're facing the problem of a real quantum system
+- [01:43:29,380 - 01:43:31,380] which is
+- [01:43:31,380 - 01:43:32,380] being
+- [01:43:32,380 - 01:43:35,380] in interaction with a heavy system
+- [01:43:35,380 - 01:43:38,380] with a system like a heavy magnet
+- [01:43:38,380 - 01:43:40,380] or some other kind of detector
+- [01:43:40,380 - 01:43:42,380] an almost classical system
+- [01:43:44,380 - 01:43:49,380] you don't bother trying to think of the heavy system quantum mechanically
+- [01:43:49,380 - 01:43:50,380] you just say it has some parameter
+- [01:43:50,380 - 01:43:51,380] now that has to be justified
+- [01:43:51,380 - 01:43:54,380] this is not obvious to justify
+- [01:43:54,380 - 01:43:57,380] why don't we have to think of the magnet
+- [01:43:57,380 - 01:43:59,380] as part of the quantum mechanical system
+- [01:43:59,380 - 01:44:01,380] that's another way of asking the same question
+- [01:44:02,380 - 01:44:05,380] and the answer is that it's so big and it's so heavy
+- [01:44:05,380 - 01:44:07,380] that it doesn't fluctuate much
+- [01:44:07,380 - 01:44:11,380] but eventually we'll want to address that problem
+- [01:44:11,380 - 01:44:14,380] for the moment we just think of the magnet
+- [01:44:14,380 - 01:44:16,380] as part of a heavy apparatus
+- [01:44:16,380 - 01:44:18,380] which is sort of fixed and it's there
+- [01:44:18,380 - 01:44:21,380] and nothing that that electron can do
+- [01:44:21,380 - 01:44:25,380] is going to cause that magnetic field to change
+- [01:44:25,380 - 01:44:26,380] it's just stuck there
+- [01:44:26,380 - 01:44:30,380] and we get to think of it deterministically
+- [01:44:30,380 - 01:44:31,380] when do we get to think of it?
+- [01:44:31,380 - 01:44:34,380] when do we get to think about a thing deterministically?
+- [01:44:34,380 - 01:44:36,380] we get to think about a thing deterministically
+- [01:44:36,380 - 01:44:38,380] when it's so heavy
+- [01:44:38,380 - 01:44:41,380] and so many degrees of freedom
+- [01:44:41,380 - 01:44:44,380] that when we calculate the quantum mechanics of it
+- [01:44:44,380 - 01:44:47,380] we find that the fluctuations are really small
+- [01:44:47,380 - 01:44:49,380] but that has not been established yet
+- [01:44:49,380 - 01:44:53,380] so far we've divided the world into the quantum
+- [01:44:53,380 - 01:44:56,380] and the apparatuses, the heavy apparatuses
+- [01:44:56,380 - 01:44:58,380] which we don't have to deal with quantum mechanically
+- [01:44:58,380 - 01:45:00,380] that of course has to be a temporary thing
+- [01:45:00,380 - 01:45:03,380] real apparatuses are made of the same thing
+- [01:45:03,380 - 01:45:05,380] as the systems we study
+- [01:45:05,380 - 01:45:07,380] and so at some point we have to come back and say
+- [01:45:07,380 - 01:45:10,380] what was the justification
+- [01:45:10,380 - 01:45:13,380] for saying the apparatus
+- [01:45:13,380 - 01:45:16,380] was allowed to be considered just classically
+- [01:45:16,380 - 01:45:18,380] you just point it in some direction
+- [01:45:18,380 - 01:45:20,380] and that's the way it is
+- [01:45:20,380 - 01:45:22,380] and the spin dealt with quantum mechanically
+- [01:45:22,380 - 01:45:24,380] we will have to come back and answer that
+- [01:45:24,380 - 01:45:29,380] but my usual statement at this point is
+- [01:45:30,380 - 01:45:32,380] not tonight
+- [01:45:32,380 - 01:45:39,380] sigma x dot and sigma y dot
+- [01:45:39,380 - 01:45:42,380] those are average
+- [01:45:42,380 - 01:45:44,380] yes, yes, that's what
+- [01:45:44,380 - 01:45:46,380] so if you do the experiment
+- [01:45:46,380 - 01:45:49,380] a zillion times would it fail in an unpredictable manner?
+- [01:45:49,380 - 01:45:50,380] what?
+- [01:45:50,380 - 01:45:52,380] suppose you do the experiment
+- [01:45:52,380 - 01:45:56,380] zillions of times would it fail in an unpredictable manner?
+- [01:45:56,380 - 01:45:58,380] no, in an unpredictable manner
+- [01:45:58,380 - 01:46:00,380] yes
+- [01:46:00,380 - 01:46:02,380] right
+- [01:46:02,380 - 01:46:04,380] yes, the answer is yes
+- [01:46:04,380 - 01:46:06,380] it will occasionally fail
+- [01:46:06,380 - 01:46:09,380] but that has little to do with quantum mechanics
+- [01:46:09,380 - 01:46:11,380] well it has to do with quantum mechanics
+- [01:46:11,380 - 01:46:15,380] but it has to do with the use of statistics and probability
+- [01:46:15,380 - 01:46:17,380] why does probability work?
+- [01:46:17,380 - 01:46:19,380] we make a basic postulate
+- [01:46:19,380 - 01:46:23,380] and that's that if you do an experiment over enough times
+- [01:46:23,380 - 01:46:27,380] the average value that you get in the laboratory
+- [01:46:27,380 - 01:46:30,380] will agree to within small precision
+- [01:46:30,380 - 01:46:36,380] with the mathematical averages that you calculate from a probability distribution
+- [01:46:36,380 - 01:46:39,380] I am not going to try to justify that
+- [01:46:39,380 - 01:46:42,380] the reason is I don't know why it's true
+- [01:46:42,380 - 01:46:44,380] and
+- [01:46:44,380 - 01:46:46,380] why does probability work?
+- [01:46:46,380 - 01:46:49,380] why if I tell you you flip a coin
+- [01:46:49,380 - 01:46:52,380] a thousand times
+- [01:46:52,380 - 01:46:55,380] does it come up heads 500 times?
+- [01:46:55,380 - 01:46:56,380] no
+- [01:46:56,380 - 01:46:58,380] there's no such prediction
+- [01:46:58,380 - 01:46:59,380] certainly not
+- [01:46:59,380 - 01:47:01,380] it might come up 500 times heads
+- [01:47:01,380 - 01:47:04,380] but there's no prediction that says it does
+- [01:47:05,380 - 01:47:10,380] will it come up 500 times plus or minus square root of a thousand?
+- [01:47:10,380 - 01:47:11,380] plus or minus 30?
+- [01:47:11,380 - 01:47:13,380] that's the margin of error
+- [01:47:13,380 - 01:47:15,380] not every time, no
+- [01:47:15,380 - 01:47:17,380] so there's no such prediction
+- [01:47:17,380 - 01:47:18,380] what can you say?
+- [01:47:18,380 - 01:47:21,380] you can say it will probably come up
+- [01:47:21,380 - 01:47:24,380] you know, we get into this cycle
+- [01:47:24,380 - 01:47:26,380] how about if I do it a million times?
+- [01:47:26,380 - 01:47:27,380] will it certainly come up?
+- [01:47:27,380 - 01:47:31,380] 500,000 plus or minus square root of n?
+- [01:47:31,380 - 01:47:32,380] no
+- [01:47:32,380 - 01:47:34,380] no matter how many times you do it
+- [01:47:34,380 - 01:47:38,380] there is no hard and fast prediction
+- [01:47:38,380 - 01:47:41,380] from probability that any particular thing will happen
+- [01:47:41,380 - 01:47:43,380] why does it work?
+- [01:47:43,380 - 01:47:45,380] Jesus, it beats me
+- [01:47:48,380 - 01:47:50,380] but it does
+- [01:47:51,380 - 01:47:54,380] many people, you know I'm not the only one who's been puzzled by this
+- [01:47:54,380 - 01:47:56,380] I mean, you know
+- [01:47:56,380 - 01:48:02,380] I used to like the joke that this is probably the reason that Einstein didn't like quantum mechanics
+- [01:48:05,380 - 01:48:09,380] you started off giving different components
+- [01:48:09,380 - 01:48:11,380] you said the x, y, and z
+- [01:48:11,380 - 01:48:12,380] say it again
+- [01:48:12,380 - 01:48:17,380] on the far left you assigned different components to x, y, and z
+- [01:48:17,380 - 01:48:18,380] yeah
+- [01:48:18,380 - 01:48:21,380] you said in the original direction
+- [01:48:21,380 - 01:48:24,380] that's reflected in your method, right?
+- [01:48:26,380 - 01:48:27,380] yeah
+- [01:48:27,380 - 01:48:30,380] now we could have done the same calculation
+- [01:48:30,380 - 01:48:33,380] by instead of putting sigma z here
+- [01:48:33,380 - 01:48:35,380] putting this
+- [01:48:35,380 - 01:48:37,380] sigma dot n
+- [01:48:42,380 - 01:48:44,380] sigma dot n
+- [01:48:44,380 - 01:48:46,380] is the matrix
+- [01:48:46,380 - 01:48:49,380] in the notation that we've been using up till now
+- [01:48:49,380 - 01:48:52,380] where the sigma matrices are the things I wrote down
+- [01:48:52,380 - 01:48:54,380] it would be the matrix
+- [01:48:54,380 - 01:48:55,380] uh...
+- [01:48:56,380 - 01:49:00,380] n is a unit vector
+- [01:49:00,380 - 01:49:03,380] n sub z minus n sub z
+- [01:49:03,380 - 01:49:06,380] nx minus iny
+- [01:49:06,380 - 01:49:10,380] and nx plus iny
+- [01:49:12,380 - 01:49:15,380] it's just taking the components of n
+- [01:49:15,380 - 01:49:18,380] and multiplying them with the corresponding components of sigma
+- [01:49:18,380 - 01:49:21,380] and then you could start with this and say this is the
+- [01:49:21,380 - 01:49:23,380] well, I'll put an omega over 2
+- [01:49:23,380 - 01:49:25,380] and take the components of n and put them together and say
+- [01:49:25,380 - 01:49:28,380] and take this to be the Hamiltonian
+- [01:49:28,380 - 01:49:33,380] and then recalculate what happens to the different components of spin
+- [01:49:33,380 - 01:49:37,380] well, the component of spin along the n-axis
+- [01:49:37,380 - 01:49:38,380] what would we do then?
+- [01:49:38,380 - 01:49:40,380] then we would have to calculate
+- [01:49:40,380 - 01:49:43,380] commutators of the various components of the spin
+- [01:49:43,380 - 01:49:45,380] with sigma dot n
+- [01:49:45,380 - 01:49:47,380] sigma dot n
+- [01:49:49,380 - 01:49:52,380] what about the component along the n-axis?
+- [01:49:52,380 - 01:49:53,380] what happens to it?
+- [01:49:53,380 - 01:49:56,380] the commutator is zero, right?
+- [01:49:56,380 - 01:49:59,380] sigma dot n commutes with sigma dot n
+- [01:49:59,380 - 01:50:04,380] so we would find out that the component of the spin along the n-axis
+- [01:50:04,380 - 01:50:07,380] would be the thing that doesn't change
+- [01:50:07,380 - 01:50:11,380] how about the components of spin perpendicular to that axis?
+- [01:50:11,380 - 01:50:13,380] we could work that out
+- [01:50:13,380 - 01:50:18,380] and we would discover that the spin processes about the n-axis
+- [01:50:18,380 - 01:50:21,380] that's a good exercise to try to do
+- [01:50:21,380 - 01:50:24,380] I was asking whether the omega reflected the orientation
+- [01:50:24,380 - 01:50:27,380] you moved it from the omega and the dot n
+- [01:50:27,380 - 01:50:30,380] if you want to say it again
+- [01:50:30,380 - 01:50:36,380] I was asking whether the omega reflected the orientation of the spin
+- [01:50:36,380 - 01:50:40,380] and you moved it from the omega into the dot n
+- [01:50:40,380 - 01:50:42,380] no, the omega is just a number
+- [01:50:42,380 - 01:50:45,380] because you put the dot n there
+- [01:50:45,380 - 01:50:50,380] if you hadn't put the dot n there, the omega would have reflected the orientation
+- [01:50:50,380 - 01:50:56,380] by orientation you mean plus or minus one?
+- [01:50:56,380 - 01:50:58,380] or you mean direction?
+- [01:50:58,380 - 01:51:02,380] no, no, no, no, no, no, no
+- [01:51:02,380 - 01:51:05,380] omega doesn't have to do with the direction
+- [01:51:05,380 - 01:51:08,380] omega is just the magnitude of the magnetic field
+- [01:51:08,380 - 01:51:10,380] magnitude of the magnetic field
+- [01:51:10,380 - 01:51:14,380] times the magnitude of the magnetic moment
+- [01:51:14,380 - 01:51:18,380] no, not dotted, they're just numbers, they're numbers
+- [01:51:18,380 - 01:51:20,380] the dot product is being measured
+- [01:51:20,380 - 01:51:22,380] between sigma and n
+- [01:51:24,380 - 01:51:27,380] omega is just a spectator, it's just a number
+- [01:51:28,380 - 01:51:30,380] it's just a number
+- [01:51:31,380 - 01:51:34,380] oh, you can if you like, you could take this omega
+- [01:51:34,380 - 01:51:36,380] and put it with the n if you wanted to
+- [01:51:36,380 - 01:51:42,380] the h is variable, what do you think of it as the omega or the dot n
+- [01:51:42,380 - 01:51:45,380] and it still depends upon the orientation of the spin
+- [01:51:45,380 - 01:51:47,380] what depends on the orientation of the spin?
+- [01:51:47,380 - 01:51:50,380] the energy hydroglattics
+- [01:51:50,380 - 01:51:52,380] the h
+- [01:51:52,380 - 01:51:55,380] one of us is confused, I'm not sure which
+- [01:51:55,380 - 01:51:58,380] the confusion is that when you had sigma z up there
+- [01:51:58,380 - 01:52:00,380] that implies the magnetic field is in the z direction
+- [01:52:00,380 - 01:52:02,380] here the magnetic field was in the z direction
+- [01:52:02,380 - 01:52:05,380] and that's the omega z you had before, right?
+- [01:52:05,380 - 01:52:07,380] omega z, where did I have omega z?
+- [01:52:07,380 - 01:52:10,380] you had h equals omega over 2, sorry, sigma z
+- [01:52:10,380 - 01:52:11,380] sigma z, yes, sigma z
+- [01:52:11,380 - 01:52:19,380] where is the, where is the, the, the spatial vector of the spin represented?
+- [01:52:20,380 - 01:52:23,380] omega dot n means dot product
+- [01:52:30,380 - 01:52:33,380] I can't remember which book I read it in but
+- [01:52:33,380 - 01:52:35,380] they said whenever you're talking spin
+- [01:52:35,380 - 01:52:39,380] you're really not talking one half, you're talking one over 2 pi
+- [01:52:43,380 - 01:52:45,380] is that, is that
+- [01:52:45,380 - 01:52:47,380] yeah, I think I read that in
+- [01:52:47,380 - 01:52:50,380] I read that too, I think it was in Newt Gingrich's letter
+- [01:52:50,380 - 01:52:51,380] in his last book
+- [01:52:57,380 - 01:52:58,380] I don't know
+- [01:52:58,380 - 01:53:03,380] look, sigma dot n stands for sigma x and x
+- [01:53:03,380 - 01:53:06,380] plus sigma y and y
+- [01:53:06,380 - 01:53:08,380] plus sigma z and z
+- [01:53:08,380 - 01:53:12,380] exactly as if sigma was a classical vector
+- [01:53:13,380 - 01:53:17,380] but, of course it's not, it's just a collection of three matrices
+- [01:53:17,380 - 01:53:19,380] so this stands for matrix
+- [01:53:19,380 - 01:53:22,380] this stands for a single matrix
+- [01:53:22,380 - 01:53:25,380] which happens to be the sum of three particular matrices
+- [01:53:25,380 - 01:53:28,380] but that's the definition of sigma dot n if you like
+- [01:53:28,380 - 01:53:34,380] these are the components of n and they determine the direction of the magnetic field
+- [01:53:34,380 - 01:53:38,380] we multiply that by omega over 2 which is just a number
+- [01:53:38,380 - 01:53:42,380] just a number, nothing more complicated than a number
+- [01:53:42,380 - 01:53:45,380] and this is what sigma dot n means
+- [01:53:45,380 - 01:53:48,380] if the magnetic field is along the z axis
+- [01:53:48,380 - 01:53:54,380] then the only component of n which is non-zero would be n sub z
+- [01:53:54,380 - 01:53:56,380] okay
+- [01:53:56,380 - 01:54:01,380] if the magnetic field was along the z axis
+- [01:54:01,380 - 01:54:07,380] then we would say only n sub z
+- [01:54:07,380 - 01:54:12,380] if you like, would you like me to write down the relationship between n and the magnetic field
+- [01:54:12,380 - 01:54:15,380] the relationship between n and the magnetic field
+- [01:54:15,380 - 01:54:17,380] is that the magnetic field vector
+- [01:54:18,380 - 01:54:21,380] is equal to the magnitude of the magnetic field
+- [01:54:21,380 - 01:54:24,380] times the unit vector n
+- [01:54:26,380 - 01:54:29,380] the magnetic field as a vector
+- [01:54:29,380 - 01:54:32,380] is the magnitude of the magnetic field
+- [01:54:32,380 - 01:54:34,380] times the vector n
+- [01:54:34,380 - 01:54:38,380] and that stands for a magnetic field that's pointing along the n axis
+- [01:54:38,380 - 01:54:40,380] with magnitude b
+- [01:54:40,380 - 01:54:42,380] once we know that
+- [01:54:42,380 - 01:54:47,380] then we can basically identify the magnetic field with n
+- [01:54:47,380 - 01:54:50,380] apart from a numerical coefficient
+- [01:54:50,380 - 01:54:53,380] numerical coefficient is buried in omega here
+- [01:54:53,380 - 01:54:57,380] once we know that we can write this as
+- [01:54:57,380 - 01:55:00,380] the spin dotted into b
+- [01:55:00,380 - 01:55:02,380] so I'm not sure what the questions are
+- [01:55:02,380 - 01:55:04,380] there's something which is bothering some of you
+- [01:55:04,380 - 01:55:06,380] I'm not sure what it is
+- [01:55:06,380 - 01:55:08,380] when you flip it you get a frequency
+- [01:55:08,380 - 01:55:13,380] is that frequency always the same or does it depend on the spin on the thing?
+- [01:55:13,380 - 01:55:15,380] it depends on the magnitude of the magnetic field
+- [01:55:15,380 - 01:55:18,380] it depends on the magnitude of the magnetic field, nothing more
+- [01:55:18,380 - 01:55:21,380] is it the frequency of the dot n?
+- [01:55:21,380 - 01:55:23,380] you're talking about the frequency of the photon?
+- [01:55:23,380 - 01:55:24,380] yeah
+- [01:55:24,380 - 01:55:26,380] yeah, now the frequency of the photon
+- [01:55:26,380 - 01:55:32,380] is always just the difference of the energy of the upper energy level and the lower energy level
+- [01:55:32,380 - 01:55:35,380] and it is always just omega
+- [01:55:36,380 - 01:55:39,380] doesn't depend on the comp- right
+- [01:55:41,380 - 01:55:44,380] if you take sigma dot n and you ask what its eigenvalues are
+- [01:55:44,380 - 01:55:47,380] the eigenvalues don't depend on n
+- [01:55:47,380 - 01:55:51,380] plus and minus one in any direction
+- [01:55:51,380 - 01:55:53,380] hmm?
+- [01:55:57,380 - 01:56:00,380] no, just the eigenvalues
+- [01:56:00,380 - 01:56:02,380] here let's write out sigma dot n
+- [01:56:02,380 - 01:56:05,380] alright here's an exercise for you, it should be done
+- [01:56:05,380 - 01:56:11,380] sigma dot n is n sub z times sigma sub z
+- [01:56:11,380 - 01:56:14,380] that's nz minus nz
+- [01:56:14,380 - 01:56:20,380] plus nx times sigma x
+- [01:56:20,380 - 01:56:21,380] that's that
+- [01:56:21,380 - 01:56:25,380] minus or ny sigma y
+- [01:56:27,380 - 01:56:29,380] that's n dot sigma
+- [01:56:32,380 - 01:56:36,380] question, what are the eigenvalues of this matrix?
+- [01:56:36,380 - 01:56:39,380] somebody's worked them out, I know that somebody in this room has worked them out
+- [01:56:39,380 - 01:56:42,380] where, who was it? hmm?
+- [01:56:42,380 - 01:56:48,380] the eigenvalues of this matrix here for any ns, as long as they're unit vectors
+- [01:56:48,380 - 01:56:52,380] if n is the components of a unit vector
+- [01:56:52,380 - 01:56:58,380] in other words, nx squared plus ny squared plus nz squared is equal to one
+- [01:56:58,380 - 01:57:03,380] you will find that the eigenvalues of this matrix are always plus or minus one
+- [01:57:03,380 - 01:57:11,380] this is simply the statement that no matter what direction you point your detector, your apparatus
+- [01:57:11,380 - 01:57:16,380] when the apparatus acts, it gives you plus or minus one
+- [01:57:16,380 - 01:57:17,380] okay?
+- [01:57:17,380 - 01:57:20,380] so, whatever direction you take here
+- [01:57:22,380 - 01:57:26,380] the eigenvalues of this matrix are plus or minus one
+- [01:57:29,380 - 01:57:32,380] if you know a little bit about matrices
+- [01:57:32,380 - 01:57:35,380] for those who know a little bit about matrices, let's prove it
+- [01:57:38,380 - 01:57:41,380] the trace of a matrix is the sum of its eigenvalues
+- [01:57:42,380 - 01:57:45,380] the trace means the sum of the diagonal elements
+- [01:57:46,380 - 01:57:47,380] alright, first step
+- [01:57:47,380 - 01:57:49,380] there are two eigenvalues
+- [01:57:49,380 - 01:57:51,380] let's call them lambda one and lambda two
+- [01:57:51,380 - 01:57:55,380] and the trace of the matrix is zero, this one plus this one
+- [01:57:55,380 - 01:57:59,380] and that tells us that lambda one plus lambda two is zero
+- [01:57:59,380 - 01:58:02,380] or lambda one is equal to minus lambda two
+- [01:58:02,380 - 01:58:05,380] so there are two eigenvalues and they're equal and opposite
+- [01:58:07,380 - 01:58:09,380] what about the determinant of the matrix?
+- [01:58:11,380 - 01:58:15,380] it's the product of the eigenvalues
+- [01:58:15,380 - 01:58:19,380] so we now know they come in equal and opposite pairs
+- [01:58:19,380 - 01:58:22,380] what's the product, what's the determinant?
+- [01:58:22,380 - 01:58:28,380] the determinant of this matrix
+- [01:58:30,380 - 01:58:34,380] is equal to minus nz squared
+- [01:58:34,380 - 01:58:36,380] this times this
+- [01:58:36,380 - 01:58:38,380] minus this times this
+- [01:58:38,380 - 01:58:40,380] and that's minus nx squared
+- [01:58:40,380 - 01:58:42,380] minus ny squared, right?
+- [01:58:43,380 - 01:58:49,380] nx plus ny times nx minus ny is nx squared plus ny squared, here it is
+- [01:58:49,380 - 01:58:52,380] and what is nx squared plus ny squared plus nz squared?
+- [01:58:52,380 - 01:58:54,380] one
+- [01:58:54,380 - 01:58:58,380] so the determinant, which is the product of the eigenvalues
+- [01:58:59,380 - 01:59:01,380] is equal to minus one
+- [01:59:03,380 - 01:59:04,380] there's only one solution
+- [01:59:04,380 - 01:59:07,380] lambda one plus lambda two
+- [01:59:08,380 - 01:59:09,380] is equal to zero
+- [01:59:10,380 - 01:59:12,380] that says lambda one is equal to minus lambda two
+- [01:59:12,380 - 01:59:15,380] and the product is equal to minus one
+- [01:59:15,380 - 01:59:18,380] there's only one such pair, it's plus one and minus one
+- [01:59:18,380 - 01:59:24,380] so all such matrices of this form have eigenvalues which are plus or minus one
+- [01:59:24,380 - 01:59:32,380] and therefore the energy levels are always plus or minus omega over two
+- [01:59:32,380 - 01:59:37,380] one of them plus omega over two, the other minus omega over two
+- [01:59:37,380 - 01:59:39,380] and when you flip from one to another
+- [01:59:39,380 - 01:59:42,380] you get omega worth of energy
+- [01:59:43,380 - 01:59:46,380] right, so it doesn't matter which way things are pointing in
+- [01:59:46,380 - 01:59:48,380] yeah, I think it's time to go but
+- [01:59:48,380 - 01:59:52,380] if an electron is prepared let's say in the x direction
+- [01:59:52,380 - 01:59:53,380] yeah
+- [01:59:53,380 - 01:59:56,380] and you put it in a negative field in the z direction
+- [01:59:56,380 - 01:59:58,380] for a few sets for a while
+- [01:59:58,380 - 02:00:01,380] and then suddenly it aligns in the z direction
+- [02:00:01,380 - 02:00:03,380] yeah, yeah, yeah, yeah, yeah
+- [02:00:03,380 - 02:00:04,380] that's right
+- [02:00:04,380 - 02:00:06,380] in studying, yes I should have said
+- [02:00:06,380 - 02:00:08,380] in studying the precession here
+- [02:00:08,380 - 02:00:12,380] we've ignored the possibility that it can radiate a photon
+- [02:00:12,380 - 02:00:17,380] now the probability to radiate a photon per unit time
+- [02:00:17,380 - 02:00:20,380] can be pretty small
+- [02:00:20,380 - 02:00:22,380] can be very, very small
+- [02:00:22,380 - 02:00:25,380] in particular if the energy differences are very small
+- [02:00:25,380 - 02:00:28,380] as they would be in an ordinary magnetic field
+- [02:00:28,380 - 02:00:32,380] it will process many, many times before it emits a photon
+- [02:00:32,380 - 02:00:33,380] so
+- [02:00:33,380 - 02:00:36,380] my question is if it does
+- [02:00:36,380 - 02:00:38,380] emit a photon
+- [02:00:38,380 - 02:00:40,380] since it's not exactly flicking
+- [02:00:40,380 - 02:00:42,380] it's only going 90 degrees
+- [02:00:42,380 - 02:00:44,380] mmm, mmm, mmm, mmm, mmm, mmm
+- [02:00:44,380 - 02:00:45,380] going from up to down
+- [02:00:45,380 - 02:00:46,380] okay
+- [02:00:47,380 - 02:00:49,380] remember the two eigenvect
+- [02:00:50,380 - 02:00:55,380] the two eigenvectors up and down or left and right or in and out
+- [02:00:57,380 - 02:01:01,380] correspond to opposite orientations of the spin
+- [02:01:01,380 - 02:01:04,380] even though the state vectors are orthogonal
+- [02:01:04,380 - 02:01:06,380] the directions in space
+- [02:01:06,380 - 02:01:09,380] are 180 degrees apart
+- [02:01:11,380 - 02:01:13,380] so his imaginary situation
+- [02:01:13,380 - 02:01:16,380] that electron is not going to suddenly
+- [02:01:16,380 - 02:01:19,380] do something other than what it was doing
+- [02:01:19,380 - 02:01:21,380] or orthogonal to what it was doing
+- [02:01:21,380 - 02:01:23,380] right?
+- [02:01:23,380 - 02:01:25,380] well, okay
+- [02:01:26,380 - 02:01:31,380] there's a probability for the electron to decay and emit a photon
+- [02:01:31,380 - 02:01:34,380] it is, and that probability per unit time
+- [02:01:34,380 - 02:01:36,380] is typically small
+- [02:01:36,380 - 02:01:38,380] so you could be unlucky
+- [02:01:38,380 - 02:01:40,380] and after a quarter of a revolution
+- [02:01:40,380 - 02:01:42,380] it might emit its photon
+- [02:01:42,380 - 02:01:44,380] but that's extremely unlikely
+- [02:01:45,380 - 02:01:47,380] you can estimate how many
+- [02:01:47,380 - 02:01:49,380] is it, am I answering your question?
+- [02:01:49,380 - 02:01:50,380] I'm not sure
+- [02:01:50,380 - 02:01:52,380] no, I mean, it's going to be either
+- [02:01:52,380 - 02:01:54,380] in the direction it was going
+- [02:01:54,380 - 02:01:56,380] or flipped opposite
+- [02:01:56,380 - 02:01:59,380] it won't suddenly go to some other weird angle
+- [02:01:59,380 - 02:02:01,380] like from x to y to z
+- [02:02:01,380 - 02:02:04,380] I think the question is that since it's not
+- [02:02:04,380 - 02:02:05,380] it feels like the electron is going to be in the opposite direction
+- [02:02:05,380 - 02:02:07,380] it feels like the electron
+- [02:02:07,380 - 02:02:09,380] as you can hear it, it's not
+- [02:02:09,380 - 02:02:11,380] perfectly equal to the magnetic field
+- [02:02:11,380 - 02:02:13,380] it only goes half way
+- [02:02:15,380 - 02:02:16,380] no
+- [02:02:16,380 - 02:02:18,380] it's in a superposition of being up
+- [02:02:18,380 - 02:02:19,380] and down
+- [02:02:19,380 - 02:02:21,380] it's one of the two of those
+- [02:02:21,380 - 02:02:22,380] it's only the average
+- [02:02:22,380 - 02:02:25,380] which is sort of in a cattywampus direction
+- [02:02:26,380 - 02:02:29,380] it's in a superposition of being up and down
+- [02:02:30,380 - 02:02:32,380] if it's down
+- [02:02:32,380 - 02:02:34,380] and down is the lower energy state
+- [02:02:34,380 - 02:02:35,380] it will radiate
+- [02:02:35,380 - 02:02:37,380] if it's up, it will radiate
+- [02:02:37,380 - 02:02:40,380] so if you put the electron in some other direction
+- [02:02:40,380 - 02:02:43,380] there will be some probability for it to radiate
+- [02:02:43,380 - 02:02:45,380] and a probability for it not to radiate
+- [02:02:45,380 - 02:02:47,380] the probability for it to radiate
+- [02:02:47,380 - 02:02:49,380] is the probability that it was up
+- [02:02:51,380 - 02:02:53,380] very confusing
+- [02:02:53,380 - 02:02:55,380] very confusing
+- [02:02:55,380 - 02:02:57,380] alright
+- [02:02:58,380 - 02:03:00,380] okay, now I see what was bothering you
+- [02:03:01,380 - 02:03:03,380] if the magnetic field is that way
+- [02:03:04,380 - 02:03:06,380] and the spin is aligned that way
+- [02:03:06,380 - 02:03:08,380] you might have thought that when it jumps
+- [02:03:08,380 - 02:03:11,380] you only emit half the energy of a photon
+- [02:03:11,380 - 02:03:13,380] half the energy
+- [02:03:13,380 - 02:03:15,380] no
+- [02:03:15,380 - 02:03:17,380] what's correct
+- [02:03:17,380 - 02:03:21,380] is that the probability for it to emit a photon is one half
+- [02:03:21,380 - 02:03:22,380] why?
+- [02:03:22,380 - 02:03:25,380] because there's half a probability that this is actually down
+- [02:03:25,380 - 02:03:27,380] and half a probability that it's up
+- [02:03:27,380 - 02:03:29,380] if you were to measure the upness and downness of it
+- [02:03:29,380 - 02:03:32,380] so that means the average energy that it emits
+- [02:03:32,380 - 02:03:34,380] is half
+- [02:03:34,380 - 02:03:38,380] but it either emits omega
+- [02:03:38,380 - 02:03:40,380] or it doesn't emit at all
+- [02:03:40,380 - 02:03:41,380] good
+- [02:03:41,380 - 02:03:45,380] for more, please visit us at stanford.edu
