@@ -1,0 +1,3061 @@
+# Transcript
+
+Source: core/cosmology/2013_winter_theoretical_minimum/170 - Cosmology Lecture 6 [eOOtl8DTmhQ].mkv
+
+- [00:00:04,580 - 00:00:06,160] Stanford University.
+- [00:00:09,080 - 00:00:10,000] Okay,
+- [00:00:10,000 - 00:00:20,400] let's come to some observational facts,
+- [00:00:22,000 - 00:00:24,090] or connections between observational
+- [00:00:24,090 - 00:00:26,180] facts and the equations.
+- [00:00:26,180 - 00:00:28,580] It's impossible to really give any
+- [00:00:28,580 - 00:00:30,980] kind of justice to the observational facts
+- [00:00:30,980 - 00:00:33,770] without putting them into a
+- [00:00:33,770 - 00:00:36,560] context of the fundamental cosmological equations.
+- [00:00:39,540 - 00:00:41,500] So let's begin with them.
+- [00:00:41,500 - 00:00:42,660] We've already begun with them,
+- [00:00:42,660 - 00:00:43,440] but let's begin with
+- [00:00:43,440 - 00:00:48,700] them again and define some observational quantities,
+- [00:00:48,700 - 00:00:49,920] quantities which astronomers
+- [00:00:49,920 - 00:00:52,900] can and do observe.
+- [00:01:04,280 - 00:01:04,980] All right,
+- [00:01:04,980 - 00:01:05,960] the basic equation,
+- [00:01:05,960 - 00:01:07,220] as always,
+- [00:01:07,220 - 00:01:09,580] at least for a homogeneous universe,
+- [00:01:09,580 - 00:01:10,620] is the
+- [00:01:10,620 - 00:01:11,240] Friedman equation,
+- [00:01:11,240 - 00:01:14,180] a dot over a squared,
+- [00:01:14,180 - 00:01:17,420] and that we can also give another name.
+- [00:01:17,740 - 00:01:20,140] We can call it the Hubble constant squared,
+- [00:01:20,140 - 00:01:20,800] or the Hubble,
+- [00:01:20,800 - 00:01:22,520] somebody suggested that we
+- [00:01:22,520 - 00:01:23,500] call it the Hubble function,
+- [00:01:23,500 - 00:01:25,260] since it depends on time,
+- [00:01:25,260 - 00:01:26,160] and that's
+- [00:01:26,160 - 00:01:26,280] fine,
+- [00:01:26,280 - 00:01:29,700] you can call it the Hubble function.
+- [00:01:32,920 - 00:01:36,000] And I suppose you could call its value today,
+- [00:01:36,000 - 00:01:37,400] at the present time,
+- [00:01:37,400 - 00:01:40,260] I suppose you could call it the Hubble constant,
+- [00:01:40,940 - 00:01:43,080] keeping in mind that it's not a constant.
+- [00:01:43,080 - 00:01:44,660] But when people quote,
+- [00:01:44,660 - 00:01:45,760] when they quote the
+- [00:01:45,760 - 00:01:47,980] Hubble constant is so many
+- [00:01:47,980 - 00:01:50,200] kilometers per second per megaparsec,
+- [00:01:50,200 - 00:01:50,960] or whatever it is,
+- [00:01:51,080 - 00:01:54,840] they're quoting the value of the Hubble function today.
+- [00:01:55,440 - 00:01:55,790] I'll just say that the Hubble
+- [00:01:55,790 - 00:01:56,140] function is the Hubble constant squared,
+- [00:01:56,140 - 00:01:56,140] and that's fine,
+- [00:01:56,140 - 00:01:56,140] you can call it the Hubble function.
+- [00:01:56,160 - 00:01:56,990] I'll just say that the Hubble
+- [00:01:56,990 - 00:01:57,820] function is the Hubble function today.
+- [00:01:57,820 - 00:01:59,240] If I call it the Hubble constant,
+- [00:01:59,240 - 00:02:01,000] and just forgive me,
+- [00:02:01,000 - 00:02:03,420] I simply mean a dot over a.
+- [00:02:03,640 - 00:02:05,260] This is the Hubble constant squared,
+- [00:02:05,260 - 00:02:06,740] and as we know,
+- [00:02:06,740 - 00:02:11,500] that is equal to good old 8 pi g
+- [00:02:11,500 - 00:02:16,260] over 3 times the energy density minus a term for,
+- [00:02:16,260 - 00:02:17,920] and the usual energy density,
+- [00:02:17,920 - 00:02:20,520] minus a term coming from curvature,
+- [00:02:20,520 - 00:02:23,330] and that curvature term has
+- [00:02:23,330 - 00:02:26,140] a k in front of it.
+- [00:02:26,160 - 00:02:26,240] It's not a constant,
+- [00:02:26,240 - 00:02:26,240] it's a constant.
+- [00:02:26,240 - 00:02:28,150] And so we can conclude that k
+- [00:02:28,150 - 00:02:30,060] is either plus or minus one or zero.
+- [00:02:30,300 - 00:02:32,780] It's never anything but plus or minus one or zero,
+- [00:02:32,780 - 00:02:37,200] positive for a spherical geometry,
+- [00:02:37,200 - 00:02:39,640] negative for the hyperbolic geometry,
+- [00:02:39,640 - 00:02:41,640] and zero for the flat geometry,
+- [00:02:41,640 - 00:02:43,540] divided by a squared.
+- [00:02:44,960 - 00:02:48,900] The role of a is to go into the metric.
+- [00:02:49,900 - 00:02:51,380] Over here I'll write the metric.
+- [00:02:51,600 - 00:02:52,820] Well I think we need
+- [00:02:52,820 - 00:02:54,040] a little more room for it.
+- [00:02:54,360 - 00:02:55,480] I'll write the metric.
+- [00:02:56,160 - 00:03:03,070] The connection between A and the metric is that the metric dS squared
+- [00:03:03,070 - 00:03:09,980] is equal to minus dt squared plus the radius at time t squared.
+- [00:03:10,680 - 00:03:13,580] And now I'm going to use a bracket,
+- [00:03:13,580 - 00:03:17,920] dr squared,
+- [00:03:17,920 - 00:03:21,020] and then what goes in addition?
+- [00:03:21,020 - 00:03:22,820] An angular piece,
+- [00:03:22,820 - 00:03:27,940] and the angular piece is one of three possibilities,
+- [00:03:27,940 - 00:03:29,100] depending on k.
+- [00:03:30,300 - 00:03:32,120] The first one would be flat space.
+- [00:03:32,120 - 00:03:33,560] Let's take the case of flat space,
+- [00:03:33,560 - 00:03:34,540] that's k equals zero.
+- [00:03:34,960 - 00:03:40,160] Then this would be r squared d omega two squared,
+- [00:03:40,160 - 00:03:42,420] the two sphere of the sky.
+- [00:03:43,200 - 00:03:45,180] What about k equals plus one,
+- [00:03:45,180 - 00:03:45,920] what do we put there?
+- [00:03:47,440 - 00:03:48,340] Anybody remember?
+- [00:03:51,040 - 00:03:52,720] Sine of r squared.
+- [00:03:54,420 - 00:03:56,560] So this could be sine of r squared,
+- [00:03:56,560 - 00:04:01,360] or if it's negatively curved,
+- [00:04:01,360 - 00:04:03,980] hyperbolic sine of squared.
+- [00:04:04,620 - 00:04:05,620] So let's give it,
+- [00:04:05,620 - 00:04:08,480] instead of writing three separate equations,
+- [00:04:08,480 - 00:04:13,720] let's just call it xi squared of r,
+- [00:04:15,080 - 00:04:16,440] where xi squared,
+- [00:04:16,440 - 00:04:17,820] where xi has the following meaning.
+- [00:04:17,980 - 00:04:20,579] xi is equal to sine of r.
+- [00:04:21,399 - 00:04:24,140] When k is equal to plus one.
+- [00:04:24,800 - 00:04:29,320] xi is equal to hyperbolic sine of r.
+- [00:04:29,740 - 00:04:31,780] When k is equal to minus one.
+- [00:04:31,960 - 00:04:33,970] And xi is equal to r
+- [00:04:33,970 - 00:04:35,980] when k is equal to zero.
+- [00:04:36,900 - 00:04:41,440] That makes one simple formula,
+- [00:04:41,440 - 00:04:43,580] and we just have to remember which one we're using.
+- [00:04:44,040 - 00:04:46,000] Three different spatial geometries,
+- [00:04:46,000 - 00:04:49,820] and an equation of motion for A.
+- [00:04:51,020 - 00:04:52,240] That's our basic...
+- [00:04:54,179 - 00:04:54,900] Okay.
+- [00:05:08,280 - 00:05:09,220] All right,
+- [00:05:09,220 - 00:05:10,840] now the energy density
+- [00:05:11,760 - 00:05:13,800] can come from various sources.
+- [00:05:13,800 - 00:05:16,130] The actual only sources that we
+- [00:05:16,130 - 00:05:18,460] really know in the current universe are
+- [00:05:19,400 - 00:05:20,580] of three kinds.
+- [00:05:21,020 - 00:05:22,800] There are three contributions to rho.
+- [00:05:24,200 - 00:05:24,740] And...
+- [00:05:28,340 - 00:05:28,880] rho
+- [00:05:30,120 - 00:05:30,660] appears,
+- [00:05:30,660 - 00:05:31,860] as far as we can tell,
+- [00:05:31,860 - 00:05:34,560] to have only three main important contributions.
+- [00:05:35,120 - 00:05:36,800] The first is radiation.
+- [00:05:37,280 - 00:05:38,220] And radiation
+- [00:05:39,359 - 00:05:41,480] energy density is some constant,
+- [00:05:42,180 - 00:05:43,460] representing the amount,
+- [00:05:43,460 - 00:05:45,280] the number of photons per unit volume,
+- [00:05:45,280 - 00:05:48,740] or the number of units of energy per unit volume,
+- [00:05:49,470 - 00:05:49,740] today.
+- [00:05:50,780 - 00:05:53,340] Divided by A to the fourth.
+- [00:05:55,260 - 00:05:57,430] Then there's another contribution
+- [00:05:57,430 - 00:05:59,600] associated with ordinary particles,
+- [00:05:59,600 - 00:06:01,300] non-relativistic particles.
+- [00:06:01,680 - 00:06:03,540] We usually call that matter.
+- [00:06:05,180 - 00:06:07,120] And that's divided by A cubed.
+- [00:06:11,420 - 00:06:13,660] Then there's the possibility of vacuum energy.
+- [00:06:15,660 - 00:06:17,720] Let's actually put here eight pi
+- [00:06:18,660 - 00:06:19,720] g or...
+- [00:06:19,720 - 00:06:20,140] over three.
+- [00:06:21,100 - 00:06:22,820] And continue to use the right-hand
+- [00:06:22,820 - 00:06:24,540] side the way I've written it.
+- [00:06:25,000 - 00:06:25,640] Then,
+- [00:06:25,760 - 00:06:28,860] the vacuum energy would be times lambda,
+- [00:06:28,860 - 00:06:30,420] the cosmological constant.
+- [00:06:31,140 - 00:06:34,480] That does not dilute with increasing radius.
+- [00:06:36,240 - 00:06:37,000] That's it.
+- [00:06:37,180 - 00:06:38,580] But let's add in,
+- [00:06:38,580 - 00:06:39,580] to rho,
+- [00:06:39,580 - 00:06:43,180] let's add in minus k over A squared.
+- [00:06:43,900 - 00:06:45,660] Minus k over A squared.
+- [00:06:46,780 - 00:06:47,400] Plus this,
+- [00:06:47,400 - 00:06:48,120] in other words,
+- [00:06:49,720 - 00:06:52,940] let's include this over here as part of rho.
+- [00:06:54,500 - 00:06:56,910] And then we will put in
+- [00:06:56,910 - 00:06:59,320] here minus k over A squared.
+- [00:07:05,180 - 00:07:06,480] I'm not sure why I did that.
+- [00:07:07,560 - 00:07:08,240] Why did I?
+- [00:07:08,300 - 00:07:08,480] Well,
+- [00:07:08,480 - 00:07:09,060] yeah,
+- [00:07:09,060 - 00:07:09,520] that's okay.
+- [00:07:09,520 - 00:07:10,060] We can do it.
+- [00:07:10,440 - 00:07:10,440] Um,
+- [00:07:10,440 - 00:07:12,200] yeah.
+- [00:07:12,820 - 00:07:13,220] Okay.
+- [00:07:15,080 - 00:07:15,780] That's this.
+- [00:07:15,780 - 00:07:16,880] And what is this equal to?
+- [00:07:17,140 - 00:07:18,420] It's equal to H squared.
+- [00:07:19,300 - 00:07:19,700] So,
+- [00:07:19,700 - 00:07:19,700] that's this.
+- [00:07:19,700 - 00:07:19,700] And what is this equal to?
+- [00:07:19,700 - 00:07:19,700] It's equal to H squared.
+- [00:07:19,700 - 00:07:20,600] It's equal to H squared.
+- [00:07:23,000 - 00:07:23,560] Now,
+- [00:07:23,560 - 00:07:25,720] think about this equation today,
+- [00:07:25,720 - 00:07:27,280] at the present time.
+- [00:07:27,860 - 00:07:30,590] This says that a certain set of four
+- [00:07:30,590 - 00:07:33,320] quantities has to add up to H squared.
+- [00:07:34,280 - 00:07:35,400] That's a constraint.
+- [00:07:35,800 - 00:07:38,210] That a certain set of four quantities
+- [00:07:38,210 - 00:07:40,620] has to add up to H squared.
+- [00:07:41,040 - 00:07:42,300] And we can ask,
+- [00:07:42,300 - 00:07:43,320] how much do we,
+- [00:07:43,320 - 00:07:43,820] how much,
+- [00:07:43,820 - 00:07:44,140] today,
+- [00:07:44,140 - 00:07:44,940] present,
+- [00:07:44,940 - 00:07:46,240] in the present universe,
+- [00:07:46,980 - 00:07:47,660] how much
+- [00:07:47,660 - 00:07:49,680] of adding up to the right-hand side of the equation,
+- [00:07:49,700 - 00:07:51,520] comes from radiation,
+- [00:07:52,000 - 00:07:53,460] how much comes from matter,
+- [00:07:53,660 - 00:07:56,820] how much comes from dark energy,
+- [00:07:56,820 - 00:07:57,360] lambda,
+- [00:07:57,620 - 00:08:01,320] and how much is left over in this curvature term?
+- [00:08:02,840 - 00:08:04,120] That's a reasonable question.
+- [00:08:05,000 - 00:08:07,820] The scale factor today is some number.
+- [00:08:08,120 - 00:08:09,780] We're going to talk about it in a little while,
+- [00:08:09,780 - 00:08:10,600] how big it is.
+- [00:08:11,000 - 00:08:12,360] But it's some number,
+- [00:08:12,360 - 00:08:15,980] and each one of these terms has some value.
+- [00:08:16,340 - 00:08:18,020] And H has some value.
+- [00:08:18,020 - 00:08:19,500] How do we measure these terms?
+- [00:08:19,640 - 00:08:21,340] Let's think about how we measure them for the moment,
+- [00:08:21,440 - 00:08:23,180] or how we might measure them if we could.
+- [00:08:25,740 - 00:08:27,260] H is the Hubble constant.
+- [00:08:28,180 - 00:08:29,760] Hubble measured the Hubble constant.
+- [00:08:30,300 - 00:08:34,900] What he did was he measured the relation between velocities
+- [00:08:34,900 - 00:08:37,520] as determined from redshifts.
+- [00:08:38,020 - 00:08:39,820] We'll go back to redshifts in a little while.
+- [00:08:40,159 - 00:08:45,120] He determined velocities as a function of distance.
+- [00:08:46,120 - 00:08:47,220] How did he get distance?
+- [00:08:48,940 - 00:08:50,000] Velocities from redshift,
+- [00:08:50,000 - 00:08:50,820] how do you get distance?
+- [00:08:51,420 - 00:08:52,740] That's the invariable.
+- [00:08:54,840 - 00:08:55,360] Luminosity,
+- [00:08:55,360 - 00:08:55,880] brightness.
+- [00:08:56,300 - 00:09:00,560] A distant bulb looks dimmer than a close bulb.
+- [00:09:01,180 - 00:09:03,350] So it was basically redshift
+- [00:09:03,350 - 00:09:05,520] versus luminosity that he plotted.
+- [00:09:06,800 - 00:09:09,480] And he measured the Hubble constant.
+- [00:09:09,740 - 00:09:11,530] The fact that he mismeasured
+- [00:09:11,530 - 00:09:13,320] it by a factor of 10,
+- [00:09:13,540 - 00:09:15,480] that was not the important thing.
+- [00:09:16,300 - 00:09:17,520] And that's true.
+- [00:09:17,520 - 00:09:19,200] He did mismeasure it by a factor of 10.
+- [00:09:19,520 - 00:09:21,640] But in principle,
+- [00:09:21,640 - 00:09:22,820] with better measurements.
+- [00:09:23,520 - 00:09:26,240] And these were not cosmological measurements,
+- [00:09:26,240 - 00:09:27,340] incidentally.
+- [00:09:27,340 - 00:09:28,100] By cosmological,
+- [00:09:28,100 - 00:09:30,560] I mean measurements taking place on a scale
+- [00:09:31,239 - 00:09:33,000] of tens of billions of light years.
+- [00:09:33,540 - 00:09:36,660] These were measurements of our local properties
+- [00:09:36,660 - 00:09:38,920] of a few clusters of galaxies.
+- [00:09:39,740 - 00:09:41,860] And so they did not
+- [00:09:41,860 - 00:09:43,980] penetrate back deep into the past.
+- [00:09:44,760 - 00:09:46,240] For his purposes,
+- [00:09:46,240 - 00:09:49,460] since they weren't penetrating back deep into the past,
+- [00:09:49,640 - 00:09:50,940] the Hubble constant was a constant.
+- [00:09:51,540 - 00:09:53,480] He wasn't looking at it at different times.
+- [00:09:53,520 - 00:09:54,440] He was looking at it now.
+- [00:09:54,740 - 00:09:55,220] Well,
+- [00:09:55,220 - 00:09:55,660] slightly,
+- [00:09:55,660 - 00:09:56,420] not quite now.
+- [00:09:56,720 - 00:09:58,660] But not too bad.
+- [00:09:58,960 - 00:09:59,420] So,
+- [00:09:59,420 - 00:10:00,380] yeah.
+- [00:10:00,640 - 00:10:01,620] This is a strong question.
+- [00:10:02,220 - 00:10:03,530] How do we know these
+- [00:10:03,530 - 00:10:04,840] things all have the same brightness?
+- [00:10:05,600 - 00:10:07,100] It seems like there's a
+- [00:10:07,100 - 00:10:08,600] kind of catch-22 or something there.
+- [00:10:09,120 - 00:10:09,600] Yeah.
+- [00:10:10,320 - 00:10:13,880] There's the whole story of the cosmic distance ladder.
+- [00:10:15,400 - 00:10:16,600] And how...
+- [00:10:17,319 - 00:10:19,699] And it's a story of
+- [00:10:19,699 - 00:10:22,080] many different little pieces overlapping...
+- [00:10:22,980 - 00:10:23,580] Overlapping...
+- [00:10:23,580 - 00:10:24,340] You know,
+- [00:10:24,340 - 00:10:26,460] how do you measure the distance to the nearest stars?
+- [00:10:26,580 - 00:10:28,760] You do it by parallax.
+- [00:10:29,260 - 00:10:31,120] And then you find certain stars
+- [00:10:31,120 - 00:10:33,740] that always behave in a particular kind of way,
+- [00:10:33,940 - 00:10:35,400] called Cepheid variables.
+- [00:10:35,840 - 00:10:38,380] They behave in a certain very definite way,
+- [00:10:38,540 - 00:10:40,240] and they have a very,
+- [00:10:40,240 - 00:10:41,260] very definite relation
+- [00:10:41,260 - 00:10:43,320] between their period and their luminosity.
+- [00:10:43,320 - 00:10:45,480] And that you determine
+- [00:10:46,520 - 00:10:48,780] from stars which are close enough
+- [00:10:49,310 - 00:10:51,840] that you can get the distance to them from parallax.
+- [00:10:54,120 - 00:10:55,480] Those were in the Milky Way.
+- [00:10:55,560 - 00:10:56,700] For sure they were in the Milky Way.
+- [00:10:57,520 - 00:11:00,340] And that gave you a candle,
+- [00:11:00,400 - 00:11:02,000] a standard candle to work with,
+- [00:11:02,020 - 00:11:02,820] the Cepheid variables.
+- [00:11:03,200 - 00:11:06,700] You could then apply it to more distant things.
+- [00:11:08,180 - 00:11:10,360] And you worked your way up a ladder.
+- [00:11:11,760 - 00:11:12,570] Supernovae are...
+- [00:11:13,520 - 00:11:15,180] The best standard candles.
+- [00:11:16,140 - 00:11:17,960] And we're going to talk about that.
+- [00:11:18,020 - 00:11:18,820] We're going to talk about that.
+- [00:11:21,500 - 00:11:23,800] And of course velocity he measured by redshift.
+- [00:11:24,180 - 00:11:26,440] Velocity by redshift and distance
+- [00:11:27,020 - 00:11:29,600] by a sequence of overlapping standards
+- [00:11:30,220 - 00:11:32,660] that were around.
+- [00:11:35,380 - 00:11:36,280] Let's double check.
+- [00:11:36,420 - 00:11:39,020] Are C sub r and C sub m absolute constants,
+- [00:11:39,200 - 00:11:40,500] independent of time?
+- [00:11:40,660 - 00:11:41,180] Yeah.
+- [00:11:41,180 - 00:11:42,960] They're constants independent of time.
+- [00:11:44,840 - 00:11:47,200] Radiation scales like 1 over a to the fourth.
+- [00:11:47,980 - 00:11:50,940] Matter scales or dilutes like 1 over a cubed.
+- [00:11:51,580 - 00:11:53,300] Vacuum energy doesn't dilute.
+- [00:11:53,500 - 00:11:55,140] And the curvature term,
+- [00:11:56,080 - 00:11:58,300] which you can think of as a kind of energy,
+- [00:11:58,380 - 00:11:58,780] if you like,
+- [00:11:58,860 - 00:11:59,760] an energy of curvature,
+- [00:11:59,920 - 00:12:01,340] scales like 1 over a squared.
+- [00:12:02,440 - 00:12:02,960] Okay.
+- [00:12:03,180 - 00:12:04,880] So Hubble measured h.
+- [00:12:05,100 - 00:12:07,100] We do a better job of measuring h.
+- [00:12:07,560 - 00:12:09,780] But basically you measure h
+- [00:12:09,780 - 00:12:11,560] by measuring the relationship
+- [00:12:11,560 - 00:12:13,700] between distance and velocity
+- [00:12:13,700 - 00:12:18,100] or redshift and luminosity.
+- [00:12:18,480 - 00:12:20,180] But you want to do it...
+- [00:12:20,180 - 00:12:22,540] You don't need to go to very huge,
+- [00:12:22,540 - 00:12:24,360] huge distances to do so.
+- [00:12:25,020 - 00:12:27,600] And therefore you're not looking back deep,
+- [00:12:27,600 - 00:12:27,960] deep,
+- [00:12:27,960 - 00:12:29,060] deep into the past.
+- [00:12:29,400 - 00:12:30,570] And you don't have to
+- [00:12:30,570 - 00:12:31,740] worry too much about age varying.
+- [00:12:33,680 - 00:12:35,460] So Hubble measured this.
+- [00:12:35,840 - 00:12:36,440] Now,
+- [00:12:36,440 - 00:12:39,020] what about C radiation?
+- [00:12:40,660 - 00:12:41,260] Well,
+- [00:12:41,260 - 00:12:43,020] we can actually look at the
+- [00:12:43,020 - 00:12:44,780] amount of radiation in the universe.
+- [00:12:45,860 - 00:12:48,720] Most of it is in the
+- [00:12:48,720 - 00:12:51,580] form of the cosmic microwave background,
+- [00:12:51,740 - 00:12:52,580] which we will come to.
+- [00:12:53,300 - 00:12:54,740] But it's very feeble.
+- [00:12:55,000 - 00:12:58,000] There isn't much energy there in the form of photons.
+- [00:12:58,600 - 00:12:59,640] It's a tiny,
+- [00:12:59,640 - 00:13:04,280] tiny fraction of the other kinds of energies.
+- [00:13:04,540 - 00:13:08,580] And that we know just by measuring the photons
+- [00:13:08,580 - 00:13:09,980] that exist around us.
+- [00:13:10,960 - 00:13:12,380] The black body photons,
+- [00:13:12,380 - 00:13:13,620] the ordinary photons.
+- [00:13:15,360 - 00:13:16,480] And again,
+- [00:13:16,480 - 00:13:19,780] there's nothing terribly cosmological about the measurement.
+- [00:13:19,940 - 00:13:21,480] You don't have to go
+- [00:13:21,480 - 00:13:23,020] very deep into the distant past.
+- [00:13:23,260 - 00:13:24,900] Nor do you have to go very far away.
+- [00:13:26,800 - 00:13:28,130] You have to have a
+- [00:13:28,130 - 00:13:29,460] big enough volume to average over.
+- [00:13:29,880 - 00:13:34,040] But we pretty much know that radiation is today
+- [00:13:35,400 - 00:13:35,960] inessential,
+- [00:13:35,960 - 00:13:37,160] not very important.
+- [00:13:38,580 - 00:13:38,900] OK,
+- [00:13:38,900 - 00:13:39,600] that's not there.
+- [00:13:40,620 - 00:13:41,100] Matter?
+- [00:13:41,740 - 00:13:42,220] Well,
+- [00:13:42,220 - 00:13:43,580] what do we know about matter?
+- [00:13:43,740 - 00:13:45,100] We look at the galaxies.
+- [00:13:46,500 - 00:13:49,840] We see how much hydrogen is in them.
+- [00:13:49,940 - 00:13:52,160] We see how much luminosity is coming out of them.
+- [00:13:52,420 - 00:13:54,360] We make studies of stars.
+- [00:13:54,580 - 00:13:56,300] We know a good deal about average stars.
+- [00:13:57,180 - 00:13:59,270] And from the average properties
+- [00:13:59,270 - 00:14:01,360] of stars and interstellar gas
+- [00:14:01,360 - 00:14:04,940] and things which are technical
+- [00:14:04,940 - 00:14:08,520] but not conceptually terribly difficult,
+- [00:14:08,580 - 00:14:12,860] we measure all the matter that we can see.
+- [00:14:13,440 - 00:14:14,720] The luminous matter.
+- [00:14:15,380 - 00:14:16,940] The matter that can be seen.
+- [00:14:18,480 - 00:14:19,820] We add it all up.
+- [00:14:22,640 - 00:14:25,160] And we have a pretty good idea.
+- [00:14:25,300 - 00:14:26,760] As the years go on,
+- [00:14:26,760 - 00:14:28,280] we measure better and better and better
+- [00:14:28,280 - 00:14:30,420] how much luminous matter is out there.
+- [00:14:30,700 - 00:14:32,610] The luminous matter is presumably all
+- [00:14:32,610 - 00:14:34,520] in the form of atoms and protons
+- [00:14:34,520 - 00:14:37,620] and nuclei and electrons.
+- [00:14:38,800 - 00:14:42,280] And we get an estimate of this number here.
+- [00:14:42,660 - 00:14:44,040] That number today,
+- [00:14:44,040 - 00:14:48,140] the density of energy in the universe today
+- [00:14:48,140 - 00:14:52,700] on the average is about one proton per cubic meter.
+- [00:14:53,060 - 00:14:54,340] So it's very low.
+- [00:14:54,800 - 00:14:57,500] But much higher than the radiation energy density.
+- [00:15:00,900 - 00:15:07,000] So one proton per cubic meter is this term.
+- [00:15:07,840 - 00:15:08,780] For the moment,
+- [00:15:08,780 - 00:15:10,560] let's forget about vacuum energy.
+- [00:15:10,880 - 00:15:12,660] We'll come back to it.
+- [00:15:14,440 - 00:15:17,320] And let's ignore it for a moment.
+- [00:15:17,740 - 00:15:17,920] Yeah?
+- [00:15:18,100 - 00:15:19,880] What about the dark matter?
+- [00:15:20,860 - 00:15:21,380] Yes,
+- [00:15:21,380 - 00:15:21,620] yes,
+- [00:15:21,620 - 00:15:21,880] yes,
+- [00:15:21,880 - 00:15:22,100] yes.
+- [00:15:22,100 - 00:15:22,820] We're going to come to that.
+- [00:15:22,920 - 00:15:23,520] We're going to come to that.
+- [00:15:23,600 - 00:15:26,520] I'm being slightly hysterical.
+- [00:15:26,800 - 00:15:27,320] Historical.
+- [00:15:28,340 - 00:15:29,220] Slightly historical.
+- [00:15:29,860 - 00:15:30,380] Yeah.
+- [00:15:30,460 - 00:15:34,030] I want to do this with
+- [00:15:34,030 - 00:15:37,600] a bit of history in mind.
+- [00:15:37,600 - 00:15:38,990] This is as it was
+- [00:15:38,990 - 00:15:40,380] when I was a young physicist,
+- [00:15:40,380 - 00:15:40,980] let's say.
+- [00:15:41,600 - 00:15:42,680] C radiation,
+- [00:15:42,680 - 00:15:43,620] negligible.
+- [00:15:43,780 - 00:15:44,760] C matter,
+- [00:15:44,760 - 00:15:46,220] substantial.
+- [00:15:46,660 - 00:15:47,580] Big deal.
+- [00:15:47,720 - 00:15:49,620] One proton per cubic meter.
+- [00:15:50,380 - 00:15:52,440] Nobody believed there was a lambda.
+- [00:15:52,680 - 00:15:53,740] So we forgot lambda.
+- [00:15:54,260 - 00:15:57,720] And then H had been measured.
+- [00:15:59,360 - 00:16:00,000] Incidentally,
+- [00:16:00,000 - 00:16:01,880] the relative ratios of these,
+- [00:16:01,980 - 00:16:04,380] the relative ratios of these today,
+- [00:16:04,620 - 00:16:07,120] the ratios depend on time,
+- [00:16:07,120 - 00:16:08,340] because they scale differently.
+- [00:16:08,680 - 00:16:11,820] But the ratios today are called omega.
+- [00:16:12,300 - 00:16:13,480] So this would,
+- [00:16:13,480 - 00:16:15,800] not the values of these,
+- [00:16:16,100 - 00:16:17,320] but the ratios.
+- [00:16:17,620 - 00:16:19,840] The ratios are omega r,
+- [00:16:19,840 - 00:16:22,620] omega m,
+- [00:16:22,620 - 00:16:26,900] omega lambda,
+- [00:16:29,300 - 00:16:31,220] plus omega curvature.
+- [00:16:31,940 - 00:16:33,940] Omega curvature may be negative.
+- [00:16:34,160 - 00:16:35,900] And the rule is,
+- [00:16:35,900 - 00:16:37,280] these must add up to one,
+- [00:16:38,420 - 00:16:41,140] for the simple reason that their definition
+- [00:16:42,180 - 00:16:44,920] is just the magnitude of them today
+- [00:16:44,920 - 00:16:47,080] divided by H squared today.
+- [00:16:47,740 - 00:16:48,840] In other words,
+- [00:16:49,340 - 00:16:54,120] the omegas are the fraction of H squared today
+- [00:16:55,439 - 00:16:57,720] contained in each one of these terms.
+- [00:16:59,040 - 00:16:59,860] All right,
+- [00:16:59,860 - 00:17:00,560] so as I said,
+- [00:17:00,580 - 00:17:04,020] as a young physicist,
+- [00:17:05,900 - 00:17:07,780] everybody thought that omega r
+- [00:17:07,780 - 00:17:09,660] was equal to essentially zero,
+- [00:17:09,859 - 00:17:10,520] which it is.
+- [00:17:11,160 - 00:17:14,819] Omega matter was what you measure
+- [00:17:14,819 - 00:17:16,049] when you look out and
+- [00:17:16,049 - 00:17:17,280] look at the light coming in.
+- [00:17:17,940 - 00:17:19,099] The stars,
+- [00:17:19,099 - 00:17:21,119] interstellar matter,
+- [00:17:21,119 - 00:17:22,200] and so forth.
+- [00:17:22,619 - 00:17:24,760] Roughly one proton per cubic meter.
+- [00:17:26,220 - 00:17:27,180] Omega lambda,
+- [00:17:27,180 - 00:17:28,780] nobody ever heard of it.
+- [00:17:28,860 - 00:17:30,040] Didn't believe it existed.
+- [00:17:31,240 - 00:17:33,300] Einstein had told us it didn't exist.
+- [00:17:33,300 - 00:17:38,700] And so we then had a situation
+- [00:17:39,300 - 00:17:42,880] where we could compute
+- [00:17:42,880 - 00:17:45,540] and know what omega k was.
+- [00:17:45,860 - 00:17:46,940] Or in other words,
+- [00:17:46,960 - 00:17:48,660] going back to this equation over here,
+- [00:17:49,220 - 00:17:50,580] this term was negligible.
+- [00:17:51,140 - 00:17:53,640] This term was believed not to be negligible.
+- [00:17:54,000 - 00:17:55,080] This was unknown.
+- [00:17:57,140 - 00:17:58,860] And H had been measured.
+- [00:17:59,860 - 00:18:02,440] H had been measured at about,
+- [00:18:03,300 - 00:18:08,420] a factor of roughly 20 or maybe 30
+- [00:18:10,040 - 00:18:11,480] times this over here.
+- [00:18:14,340 - 00:18:16,220] H had been measured pretty well,
+- [00:18:17,120 - 00:18:19,010] and it was too big to
+- [00:18:19,010 - 00:18:20,900] correspond to Cm over A cubed.
+- [00:18:21,240 - 00:18:22,280] In other words,
+- [00:18:23,180 - 00:18:24,000] in other words,
+- [00:18:24,260 - 00:18:25,880] of this one here,
+- [00:18:27,979 - 00:18:29,680] this had not been discovered.
+- [00:18:29,940 - 00:18:31,320] This was negligible.
+- [00:18:31,320 - 00:18:34,700] The omega matter was something like 1 over 20,
+- [00:18:35,040 - 00:18:36,260] maybe 1 over 30,
+- [00:18:36,380 - 00:18:37,620] I'm not sure exactly how big,
+- [00:18:37,740 - 00:18:39,300] roughly 1 over 30.
+- [00:18:40,700 - 00:18:41,820] This was small.
+- [00:18:42,480 - 00:18:44,700] And the only conclusion
+- [00:18:45,280 - 00:18:46,800] was that omega k
+- [00:18:48,640 - 00:18:50,560] was almost equal to 1.
+- [00:18:51,900 - 00:18:53,240] Almost equal to 1
+- [00:18:53,240 - 00:18:55,680] meant that k over A squared,
+- [00:18:55,780 - 00:18:57,260] or minus k over A squared,
+- [00:18:57,540 - 00:18:59,320] had to be close to H squared.
+- [00:19:00,380 - 00:19:02,020] So let's write that down.
+- [00:19:02,780 - 00:19:03,040] k,
+- [00:19:03,040 - 00:19:04,100] well,
+- [00:19:04,100 - 00:19:06,320] we can say what the sign of k is immediately,
+- [00:19:06,320 - 00:19:06,860] right?
+- [00:19:07,100 - 00:19:09,500] The sign of k has to be negative.
+- [00:19:10,160 - 00:19:11,620] That was the first conclusion.
+- [00:19:11,760 - 00:19:13,420] The sign of k is negative.
+- [00:19:15,000 - 00:19:15,560] Open,
+- [00:19:15,560 - 00:19:16,640] infinite universe,
+- [00:19:16,640 - 00:19:17,500] it looked like.
+- [00:19:18,640 - 00:19:19,760] k was negative,
+- [00:19:19,860 - 00:19:21,820] and 1 over A squared
+- [00:19:23,340 - 00:19:26,720] equal to Hubble's measurement of H squared.
+- [00:19:27,920 - 00:19:28,500] Now,
+- [00:19:28,500 - 00:19:29,740] what the...
+- [00:19:31,620 - 00:19:32,560] And why?
+- [00:19:34,300 - 00:19:37,000] Because this just appeared to be too small.
+- [00:19:37,400 - 00:19:39,800] Too small to make up H squared.
+- [00:19:39,940 - 00:19:42,540] The only thing around that was big enough was this.
+- [00:19:43,440 - 00:19:44,280] And that,
+- [00:19:44,280 - 00:19:44,820] in turn,
+- [00:19:44,900 - 00:19:46,100] told us,
+- [00:19:46,100 - 00:19:47,600] or we thought it told us,
+- [00:19:47,620 - 00:19:49,760] how big A is in terms of H.
+- [00:19:50,140 - 00:19:50,720] Now,
+- [00:19:50,720 - 00:19:52,540] H has another meaning,
+- [00:19:53,240 - 00:19:55,380] at least within the context
+- [00:19:55,380 - 00:19:57,460] of matter-dominated universe.
+- [00:19:58,180 - 00:20:00,780] Let's go back to the matter-dominated universe,
+- [00:20:01,659 - 00:20:02,320] which,
+- [00:20:02,320 - 00:20:02,820] after all,
+- [00:20:02,820 - 00:20:03,940] this is what we have here,
+- [00:20:04,140 - 00:20:06,260] and write down the equation for A.
+- [00:20:07,400 - 00:20:08,440] If you remember,
+- [00:20:08,440 - 00:20:10,820] A in the matter-dominated universe
+- [00:20:11,740 - 00:20:14,860] goes like t to the 2 thirds.
+- [00:20:17,040 - 00:20:19,560] For most of the history of the universe,
+- [00:20:19,560 - 00:20:20,240] in fact,
+- [00:20:22,039 - 00:20:24,940] this term is not as important
+- [00:20:25,460 - 00:20:26,780] as the matter term.
+- [00:20:27,680 - 00:20:30,720] 1 over A squared for small a,
+- [00:20:30,880 - 00:20:32,120] when the universe was small,
+- [00:20:32,420 - 00:20:34,300] was smaller than this term here.
+- [00:20:34,420 - 00:20:35,340] At late times,
+- [00:20:35,340 - 00:20:35,960] it's true,
+- [00:20:35,960 - 00:20:36,840] this one got bigger,
+- [00:20:37,000 - 00:20:38,480] but at early times,
+- [00:20:38,480 - 00:20:40,340] for most of the history of the universe,
+- [00:20:41,780 - 00:20:44,500] even though the matter was pretty small,
+- [00:20:45,040 - 00:20:46,700] it was still true that this term,
+- [00:20:46,700 - 00:20:47,600] for most of time,
+- [00:20:48,480 - 00:20:50,060] competed favorably with this term.
+- [00:20:50,400 - 00:20:51,480] So this was pretty good.
+- [00:20:51,540 - 00:20:53,140] This was a pretty good approximation.
+- [00:20:55,680 - 00:20:57,600] It fails at late time,
+- [00:20:57,780 - 00:20:59,080] but it's pretty good at early time.
+- [00:20:59,420 - 00:21:01,920] And so let's calculate A dot over A,
+- [00:21:02,060 - 00:21:03,380] A dot over A.
+- [00:21:04,380 - 00:21:05,360] What's A dot?
+- [00:21:05,440 - 00:21:07,400] A dot is the time derivative
+- [00:21:07,400 - 00:21:09,360] of t to the 2 thirds,
+- [00:21:09,540 - 00:21:10,340] which is 2 thirds,
+- [00:21:12,080 - 00:21:14,080] t to the minus 1 third,
+- [00:21:15,080 - 00:21:16,800] and then we divide it by A.
+- [00:21:16,920 - 00:21:19,100] So we divide it by another
+- [00:21:19,100 - 00:21:21,280] t to the minus 2 thirds.
+- [00:21:22,560 - 00:21:23,120] All right,
+- [00:21:23,120 - 00:21:23,120] so we have a time derivative
+- [00:21:23,120 - 00:21:23,120] of t to the minus 1 third,
+- [00:21:23,120 - 00:21:23,420] All together,
+- [00:21:23,420 - 00:21:24,560] A dot over A
+- [00:21:25,720 - 00:21:29,420] is just 2 over 3 t.
+- [00:21:31,620 - 00:21:33,100] So the Hubble constant,
+- [00:21:33,420 - 00:21:34,460] in fact,
+- [00:21:34,460 - 00:21:36,740] we know how the Hubble constant varies with time.
+- [00:21:37,240 - 00:21:38,420] In this model,
+- [00:21:38,420 - 00:21:40,700] in the model of a matter-dominated universe,
+- [00:21:41,060 - 00:21:42,520] the Hubble constant,
+- [00:21:42,520 - 00:21:43,540] we can write this now,
+- [00:21:43,940 - 00:21:45,180] the Hubble constant,
+- [00:21:45,400 - 00:21:47,200] another way to write the Hubble constant,
+- [00:21:47,200 - 00:21:51,260] is it's just 2 divided by 3 t,
+- [00:21:52,040 - 00:21:53,580] and of course it's not a constant.
+- [00:21:53,920 - 00:21:54,940] But we can ask,
+- [00:21:54,940 - 00:21:55,680] what is it today?
+- [00:21:56,560 - 00:21:58,940] This equation was being applied today,
+- [00:21:59,080 - 00:22:00,280] so what is it today?
+- [00:22:00,640 - 00:22:03,160] The Hubble constant today is just equal,
+- [00:22:03,400 - 00:22:04,700] let's call it h today,
+- [00:22:06,640 - 00:22:11,140] is just equal to 2 thirds the time today.
+- [00:22:11,400 - 00:22:12,920] What does the time today mean?
+- [00:22:13,020 - 00:22:14,780] It means the age of the universe.
+- [00:22:15,440 - 00:22:17,000] Let's call it capital T.
+- [00:22:17,000 - 00:22:20,520] Capital T stands for the age of the universe.
+- [00:22:21,240 - 00:22:22,280] In other words,
+- [00:22:22,280 - 00:22:23,420] how long it was
+- [00:22:24,000 - 00:22:26,400] since the universe was very small.
+- [00:22:27,140 - 00:22:29,040] We don't know exactly how small,
+- [00:22:29,260 - 00:22:34,180] but how long since the scale factor
+- [00:22:34,180 - 00:22:38,260] was many orders of magnitude smaller than it is today.
+- [00:22:39,760 - 00:22:41,040] That's what h is.
+- [00:22:41,220 - 00:22:46,160] It's essentially 1 over the age of the universe,
+- [00:22:46,580 - 00:22:47,840] or to be more exact,
+- [00:22:48,020 - 00:22:48,990] it would be 2 thirds
+- [00:22:48,990 - 00:22:49,960] over the age of the universe.
+- [00:22:50,200 - 00:22:51,560] What is the units of t?
+- [00:22:52,120 - 00:22:52,520] Time.
+- [00:22:52,840 - 00:22:53,240] No,
+- [00:22:53,240 - 00:22:53,600] what is the...
+- [00:22:54,000 - 00:22:54,200] Seconds.
+- [00:22:54,820 - 00:22:55,220] Seconds.
+- [00:22:55,940 - 00:22:56,340] Sure.
+- [00:22:56,660 - 00:22:56,900] No,
+- [00:22:56,900 - 00:22:57,980] but it's just 2 thirds.
+- [00:22:58,540 - 00:22:59,400] 1 over t,
+- [00:22:59,400 - 00:22:59,760] I mean,
+- [00:22:59,760 - 00:23:00,100] it's...
+- [00:23:00,560 - 00:23:02,920] There must be some speed of light...
+- [00:23:02,920 - 00:23:03,180] No.
+- [00:23:03,800 - 00:23:04,200] No,
+- [00:23:04,200 - 00:23:04,300] no.
+- [00:23:04,620 - 00:23:07,320] The units of the Hubble constant are 1 over time.
+- [00:23:07,780 - 00:23:08,460] But I mean,
+- [00:23:08,460 - 00:23:09,880] time can be years,
+- [00:23:09,880 - 00:23:10,220] hours,
+- [00:23:10,220 - 00:23:10,600] seconds.
+- [00:23:10,700 - 00:23:11,760] That's what I'm asking.
+- [00:23:11,900 - 00:23:13,280] Which time unit is this?
+- [00:23:13,520 - 00:23:14,160] Which time,
+- [00:23:14,160 - 00:23:15,900] which units would you like to use?
+- [00:23:17,340 - 00:23:19,220] Which units would you like to use?
+- [00:23:19,840 - 00:23:20,200] Seconds?
+- [00:23:20,980 - 00:23:21,340] Years.
+- [00:23:21,940 - 00:23:22,300] Years.
+- [00:23:22,880 - 00:23:24,700] And this is about 1 over 10 to the 10th.
+- [00:23:26,100 - 00:23:27,380] Doesn't it just depend on what h is?
+- [00:23:27,460 - 00:23:27,640] I mean,
+- [00:23:27,640 - 00:23:29,540] you can define h in whatever units you want.
+- [00:23:29,700 - 00:23:30,000] That's right.
+- [00:23:30,160 - 00:23:32,560] And whatever units you define the age in,
+- [00:23:32,600 - 00:23:33,900] those are the units of h.
+- [00:23:35,400 - 00:23:37,220] If you define it in terms of...
+- [00:23:37,220 - 00:23:39,480] I just realized it has units of time also.
+- [00:23:39,660 - 00:23:39,900] Yeah.
+- [00:23:40,320 - 00:23:40,680] Yeah,
+- [00:23:40,680 - 00:23:40,860] look,
+- [00:23:40,860 - 00:23:42,480] what is the Hubble constant?
+- [00:23:42,580 - 00:23:44,860] It's a relation between velocity and distance.
+- [00:23:45,520 - 00:23:48,060] What is the connection between velocity and distance?
+- [00:23:48,400 - 00:23:48,920] Time.
+- [00:23:49,440 - 00:23:50,840] So the Hubble constant,
+- [00:23:50,840 - 00:23:52,320] even though people...
+- [00:23:52,320 - 00:23:54,590] If you go and you look in
+- [00:23:54,590 - 00:23:56,860] Wikipedia or something for the Hubble constant,
+- [00:23:57,020 - 00:24:00,440] they were quoted as something like
+- [00:24:00,440 - 00:24:03,860] 80 kilometers per second per kiloparsec,
+- [00:24:04,600 - 00:24:04,980] something,
+- [00:24:04,980 - 00:24:05,460] something,
+- [00:24:05,460 - 00:24:05,680] something.
+- [00:24:05,840 - 00:24:06,300] I don't remember.
+- [00:24:07,500 - 00:24:09,860] But that's an astronomer's unit.
+- [00:24:10,140 - 00:24:12,280] The astronomers use the unit...
+- [00:24:12,280 - 00:24:13,100] I don't know.
+- [00:24:13,100 - 00:24:15,220] I don't know.
+- [00:24:15,220 - 00:24:16,240] Because it's good for telescopes.
+- [00:24:16,640 - 00:24:19,140] But from our theoretical point of view,
+- [00:24:19,900 - 00:24:21,590] the Hubble constant is just 1
+- [00:24:21,590 - 00:24:23,280] over the age of the universe,
+- [00:24:23,860 - 00:24:25,400] at least for the matter dominated.
+- [00:24:26,080 - 00:24:26,600] Incidentally,
+- [00:24:26,600 - 00:24:27,340] if it was...
+- [00:24:27,340 - 00:24:28,920] Let's suppose it was radiation dominated.
+- [00:24:29,400 - 00:24:31,080] If it were radiation dominated,
+- [00:24:31,940 - 00:24:32,880] in other words,
+- [00:24:32,880 - 00:24:33,500] if there was no matter,
+- [00:24:33,500 - 00:24:34,140] only radiation,
+- [00:24:34,360 - 00:24:35,740] this would be t to the 1 half,
+- [00:24:36,420 - 00:24:38,840] and h today would be 1 over 2t.
+- [00:24:39,600 - 00:24:42,700] So whatever kind of nice equation of state you have,
+- [00:24:42,700 - 00:24:44,100] for most equations of state,
+- [00:24:44,400 - 00:24:47,330] the Hubble constant today is related
+- [00:24:47,330 - 00:24:50,260] to the inverse age of the universe.
+- [00:24:52,380 - 00:24:52,940] That's...
+- [00:24:54,780 - 00:24:55,340] Good.
+- [00:24:57,800 - 00:24:58,360] Okay,
+- [00:24:58,360 - 00:25:00,800] so we know something else from the Hubble constant.
+- [00:25:01,220 - 00:25:02,480] Having measured it,
+- [00:25:03,800 - 00:25:04,920] Hubble knew...
+- [00:25:04,920 - 00:25:05,920] As I said,
+- [00:25:05,920 - 00:25:07,260] he was wrong by a factor of 10.
+- [00:25:07,860 - 00:25:09,740] The Hubble constant too large,
+- [00:25:09,740 - 00:25:10,300] if I remember.
+- [00:25:10,300 - 00:25:13,120] And therefore the universe was too young.
+- [00:25:14,060 - 00:25:15,540] By a factor of 10,
+- [00:25:15,780 - 00:25:17,860] I think he got roughly a billion years.
+- [00:25:19,020 - 00:25:20,920] And the answer is more like 10 billion years.
+- [00:25:21,380 - 00:25:24,320] But that's just from measuring Hubble constant.
+- [00:25:24,680 - 00:25:24,980] Okay.
+- [00:25:26,120 - 00:25:26,560] So...
+- [00:25:30,520 - 00:25:31,140] All right.
+- [00:25:31,320 - 00:25:32,840] Would you defer to one of the other concepts,
+- [00:25:32,980 - 00:25:34,100] or would you just be on your own?
+- [00:25:34,500 - 00:25:35,420] I believe so.
+- [00:25:36,040 - 00:25:37,100] It seems odd,
+- [00:25:37,100 - 00:25:37,800] doesn't it?
+- [00:25:37,840 - 00:25:38,100] The...
+- [00:25:39,840 - 00:25:40,280] The...
+- [00:25:40,280 - 00:25:40,520] The...
+- [00:25:41,120 - 00:25:41,900] As far as I know,
+- [00:25:41,900 - 00:25:42,120] yes.
+- [00:25:42,520 - 00:25:43,600] And as far as I know,
+- [00:25:43,640 - 00:25:45,300] he got it from the measurements.
+- [00:25:45,540 - 00:25:46,380] As far as I know.
+- [00:25:46,460 - 00:25:48,620] I don't know that he
+- [00:25:48,620 - 00:25:50,780] had any deep insight into it.
+- [00:25:50,960 - 00:25:51,260] All right.
+- [00:25:51,280 - 00:25:51,560] So now,
+- [00:25:51,560 - 00:25:52,960] looking at this equation here,
+- [00:25:55,139 - 00:25:57,860] and seeing that this is negligible compared to this,
+- [00:25:58,300 - 00:26:00,840] 1 over a squared then is h squared,
+- [00:26:01,800 - 00:26:03,730] and h squared is 1 over
+- [00:26:03,730 - 00:26:05,660] the age of the universe squared.
+- [00:26:08,680 - 00:26:09,940] It's telling us something.
+- [00:26:09,940 - 00:26:11,860] about the size of the universe.
+- [00:26:11,860 - 00:26:15,640] It's telling us the size of the universe is
+- [00:26:15,640 - 00:26:17,400] basically the age of the universe.
+- [00:26:17,400 - 00:26:19,060] Now there is a speed of light in here.
+- [00:26:19,060 - 00:26:21,760] A is
+- [00:26:21,760 - 00:26:22,800] measured in length,
+- [00:26:22,800 - 00:26:25,000] t is measured in time,
+- [00:26:25,000 - 00:26:28,820] and so this is what this is telling you
+- [00:26:28,820 - 00:26:32,360] is that the size of the universe is essentially
+- [00:26:33,570 - 00:26:33,830] وبي
+- [00:26:33,830 - 00:26:34,310] يا
+- [00:26:36,066 - 00:26:37,066] size of the universe
+- [00:26:37,786 - 00:26:40,176] is about equal to the distance light
+- [00:26:40,176 - 00:26:42,566] will travel in the age of the universe
+- [00:26:42,566 - 00:26:44,176] no no no this is not true none of
+- [00:26:44,176 - 00:26:45,786] this is true this is what was expected to be
+- [00:26:45,786 - 00:26:46,086] true
+- [00:26:46,086 - 00:26:49,306] on the basis of cosmology forty years ago
+- [00:26:50,226 - 00:26:50,786] uh...
+- [00:26:50,786 - 00:26:51,506] these equations
+- [00:26:52,066 - 00:26:53,586] with dropping uh...
+- [00:26:53,586 - 00:26:55,766] the various terms that were thought to be
+- [00:26:56,326 - 00:26:56,886] negligible
+- [00:26:56,886 - 00:26:58,506] and as i said
+- [00:26:59,586 - 00:27:00,146] uh...
+- [00:27:00,146 - 00:27:01,506] one ingredient in this
+- [00:27:03,226 - 00:27:04,066] several ingredients
+- [00:27:04,066 - 00:27:06,866] first of all radiation negligible
+- [00:27:07,106 - 00:27:08,365] this true this is true
+- [00:27:09,126 - 00:27:09,466] uh...
+- [00:27:10,646 - 00:27:11,966] matter being
+- [00:27:12,746 - 00:27:13,426] substantial
+- [00:27:14,046 - 00:27:15,566] but still small
+- [00:27:16,206 - 00:27:18,026] only one proton per cubic meter
+- [00:27:18,506 - 00:27:21,946] and only about a twentieth of this side here
+- [00:27:23,025 - 00:27:24,026] and lambda
+- [00:27:25,006 - 00:27:26,606] being as far as anybody knew
+- [00:27:27,025 - 00:27:28,666] was zero was thought to be zero
+- [00:27:28,666 - 00:27:30,226] so that's what went into that
+- [00:27:30,945 - 00:27:32,465] and that's why for all these
+- [00:27:32,465 - 00:27:33,986] years people thought that the universe
+- [00:27:33,986 - 00:27:36,116] that the radius of curvature of the
+- [00:27:36,116 - 00:27:38,246] universe was about equal to its age
+- [00:27:39,826 - 00:27:41,606] something that we no longer think is true
+- [00:27:43,325 - 00:27:43,806] okay
+- [00:27:45,346 - 00:27:46,306] the first
+- [00:27:47,926 - 00:27:48,406] uh...
+- [00:27:51,605 - 00:27:52,086] change
+- [00:27:53,605 - 00:27:55,126] had to do with dark matter
+- [00:27:55,746 - 00:27:57,156] so let's just talk about dark
+- [00:27:57,156 - 00:27:58,566] matter a little bit what uh...
+- [00:27:58,566 - 00:27:59,366] what has to do with
+- [00:27:59,366 - 00:28:01,226] i think probably most of you know
+- [00:28:01,226 - 00:28:03,086] the dark matter story but let's uh...
+- [00:28:03,086 - 00:28:03,966] let's spell it out anyway
+- [00:28:07,006 - 00:28:08,326] ordinary matter
+- [00:28:09,276 - 00:28:12,326] made out of electrically charged particles radiates
+- [00:28:12,326 - 00:28:16,546] it radiates when it's accelerated it radiates when uh...
+- [00:28:17,386 - 00:28:18,046] uh...
+- [00:28:18,046 - 00:28:19,266] when you collide with it
+- [00:28:20,206 - 00:28:21,706] and it's called luminous
+- [00:28:22,176 - 00:28:23,326] because it radiates
+- [00:28:26,216 - 00:28:28,266] it's a kind of matter that we know about
+- [00:28:28,736 - 00:28:30,671] from direct telescopic observation and
+- [00:28:30,671 - 00:28:32,606] it's what went into here
+- [00:28:32,606 - 00:28:34,446] on the other hand
+- [00:28:35,045 - 00:28:36,226] there's another kind of
+- [00:28:37,146 - 00:28:38,366] definition of matter
+- [00:28:39,045 - 00:28:40,806] which is how much it gravitates
+- [00:28:41,586 - 00:28:44,806] what's the mass of matter which gravitates
+- [00:28:44,806 - 00:28:46,816] and of course at first it was thought
+- [00:28:46,816 - 00:28:48,826] that the galaxies were made of luminous matter
+- [00:28:48,826 - 00:28:50,546] and the mass of a galaxy was
+- [00:28:50,546 - 00:28:52,266] just the mass of its luminous matter
+- [00:28:53,465 - 00:28:53,946] uh...
+- [00:28:53,946 - 00:28:55,436] it goes way back I didn't
+- [00:28:55,436 - 00:28:56,926] know how far back it went
+- [00:28:57,426 - 00:29:00,006] it went back to the nineteen thirty two i didn't know
+- [00:29:00,006 - 00:29:02,586] this i thought it was a little bit later than that
+- [00:29:03,406 - 00:29:04,046] 1932,
+- [00:29:04,046 - 00:29:06,566] the Dutch astronomer Oort,
+- [00:29:06,566 - 00:29:08,986] I'm not sure how you say his name,
+- [00:29:08,986 - 00:29:14,466] noticed that there were
+- [00:29:14,466 - 00:29:17,286] some things wrong with the way galaxies were behaving.
+- [00:29:18,726 - 00:29:20,026] A year later,
+- [00:29:20,026 - 00:29:21,286] Fritz Zwicky,
+- [00:29:21,286 - 00:29:22,406] who I did know about,
+- [00:29:22,406 - 00:29:25,406] noticed that clusters of galaxies were
+- [00:29:25,406 - 00:29:26,106] misbehaving.
+- [00:29:26,626 - 00:29:28,066] And by misbehaving,
+- [00:29:28,066 - 00:29:30,726] it meant that the gravitational behavior
+- [00:29:30,726 - 00:29:33,386] of them was inappropriate to Newton's
+- [00:29:33,386 - 00:29:33,746] laws,
+- [00:29:33,746 - 00:29:35,846] also Einstein's laws.
+- [00:29:36,506 - 00:29:37,666] Inappropriate to Newton's laws,
+- [00:29:37,666 - 00:29:43,206] and suggested that there simply was more matter out there
+- [00:29:43,206 - 00:29:45,946] than had been accounted for by this.
+- [00:29:46,106 - 00:29:47,366] So I'm going to take you through that.
+- [00:29:47,466 - 00:29:48,566] I think most of you
+- [00:29:48,566 - 00:29:49,666] know the story of dark matter.
+- [00:29:50,846 - 00:29:51,366] Yeah?
+- [00:29:51,586 - 00:29:53,046] When you say luminous matter,
+- [00:29:53,046 - 00:29:56,026] do you include things like diffused gas that
+- [00:29:56,106 - 00:29:57,226] might not be radiating,
+- [00:29:57,226 - 00:30:00,386] but it could if it were under the right circumstances?
+- [00:30:00,406 - 00:30:00,446] Yeah,
+- [00:30:00,446 - 00:30:01,106] yeah.
+- [00:30:01,306 - 00:30:04,246] And how you separate the diffused gas.
+- [00:30:04,726 - 00:30:06,706] Almost everything radiates a little bit.
+- [00:30:08,065 - 00:30:08,986] Almost everything...
+- [00:30:08,986 - 00:30:10,946] Black holes in the center of all the galaxies.
+- [00:30:11,386 - 00:30:11,706] What's that?
+- [00:30:11,906 - 00:30:13,546] The supermassive black holes,
+- [00:30:13,546 - 00:30:15,246] do they amount to very much?
+- [00:30:15,826 - 00:30:18,066] And would we count those as luminous matter?
+- [00:30:18,706 - 00:30:19,166] Yeah,
+- [00:30:19,166 - 00:30:20,606] count them as luminous matter.
+- [00:30:21,946 - 00:30:22,406] Okay.
+- [00:30:22,566 - 00:30:23,026] Now,
+- [00:30:23,026 - 00:30:23,646] how...
+- [00:30:23,646 - 00:30:24,606] And of course,
+- [00:30:24,606 - 00:30:25,986] they're not luminous matter.
+- [00:30:25,986 - 00:30:26,606] They're black holes.
+- [00:30:27,086 - 00:30:28,306] But the point is,
+- [00:30:28,306 - 00:30:29,526] it doesn't matter whether we count
+- [00:30:29,526 - 00:30:30,746] them as luminous matter or not,
+- [00:30:30,746 - 00:30:31,126] because
+- [00:30:31,126 - 00:30:32,186] they're a small fraction.
+- [00:30:32,506 - 00:30:34,826] The galaxy at the center of a black hole...
+- [00:30:34,826 - 00:30:34,886] No,
+- [00:30:34,886 - 00:30:35,786] take that back.
+- [00:30:35,966 - 00:30:38,416] The black hole at the center
+- [00:30:38,416 - 00:30:40,866] of the galaxy is roughly about...
+- [00:30:40,866 - 00:30:43,686] Anywhere between a million and a billion solar masses.
+- [00:30:44,086 - 00:30:47,626] The galaxy is 10 billion...
+- [00:30:48,146 - 00:30:48,406] No,
+- [00:30:48,406 - 00:30:50,646] 100 billion solar masses.
+- [00:30:51,246 - 00:30:54,286] And so the black hole content is small.
+- [00:30:54,286 - 00:30:56,465] It's not a major...
+- [00:30:56,465 - 00:30:58,145] And that's not the...
+- [00:30:58,145 - 00:30:59,366] And besides,
+- [00:30:59,366 - 00:31:01,646] it certainly could not be the dark matter,
+- [00:31:01,646 - 00:31:03,266] because it's concentrated at the
+- [00:31:03,266 - 00:31:03,566] center.
+- [00:31:03,806 - 00:31:05,526] Whatever the dark matter is,
+- [00:31:05,526 - 00:31:09,306] I presume it was Oort who first understood,
+- [00:31:09,306 - 00:31:10,806] it is not concentrated
+- [00:31:10,806 - 00:31:11,926] at the center of galaxies.
+- [00:31:11,986 - 00:31:14,106] So let's just go through the argument.
+- [00:31:15,086 - 00:31:16,826] The argument has to do with
+- [00:31:16,826 - 00:31:18,566] the so-called rotation curves of galaxies.
+- [00:31:19,126 - 00:31:20,266] You have a galaxy.
+- [00:31:21,546 - 00:31:22,066] And...
+- [00:31:22,066 - 00:31:24,166] You look at stars.
+- [00:31:24,186 - 00:31:24,266] You look at stars.
+- [00:31:24,266 - 00:31:25,186] You look at stars at different radii.
+- [00:31:25,806 - 00:31:28,406] And you look at their tangential velocity,
+- [00:31:28,406 - 00:31:28,986] v.
+- [00:31:31,376 - 00:31:34,351] Let's begin by assuming something which would
+- [00:31:34,351 - 00:31:37,326] follow if all of the matter was luminous.
+- [00:31:37,975 - 00:31:40,590] The fact is that most of the luminous matter
+- [00:31:40,590 - 00:31:43,206] in the galaxy is in the center of the galaxy.
+- [00:31:46,966 - 00:31:48,126] By far,
+- [00:31:48,126 - 00:31:50,946] the majority of the overwhelming majority of the
+- [00:31:50,946 - 00:31:53,766] material is at the center of the galaxy,
+- [00:31:53,766 - 00:31:54,646] at the galactic center.
+- [00:31:55,266 - 00:31:58,366] And so for gravitational purposes,
+- [00:31:58,366 - 00:32:00,826] the outer things in the
+- [00:32:00,826 - 00:32:03,286] outer parts of the galaxy are
+- [00:32:04,066 - 00:32:06,686] moving under the influence of a central force,
+- [00:32:06,686 - 00:32:10,526] where the central force is just the mass near
+- [00:32:10,526 - 00:32:10,946] the center.
+- [00:32:11,146 - 00:32:12,466] Now this turns out to be wrong,
+- [00:32:12,466 - 00:32:15,046] but let's follow the logic of it for a minute.
+- [00:32:16,106 - 00:32:17,786] Let's use Newton's equations,
+- [00:32:17,786 - 00:32:18,686] F equals mA.
+- [00:32:19,306 - 00:32:21,346] The gravitational acceleration due to a
+- [00:32:21,346 - 00:32:23,386] mass at the center would be m.
+- [00:32:25,186 - 00:32:26,416] Because a mass is always
+- [00:32:26,416 - 00:32:27,646] between a wave's and a force's
+- [00:32:27,646 - 00:32:27,826] FIRST CONTROL Можно us bandage
+- [00:32:27,826 - 00:32:28,006] the space around the exponent.
+- [00:32:33,366 - 00:32:34,026] YAH
+- [00:32:34,026 - 00:32:41,446] Buy Pull out at least ten already I did,
+- [00:32:41,446 - 00:32:41,726] won't take much advantage of that.
+- [00:32:41,786 - 00:32:42,846] Buy ducting is probably like nothing else.
+- [00:32:42,846 - 00:32:45,266] You just say,."That's what it's supposed to look like.
+- [00:32:45,266 - 00:32:46,316] Must be more in order for it
+- [00:32:46,316 - 00:32:47,366] to be some kind of cast off.
+- [00:32:47,366 - 00:32:47,746] falls off
+- [00:32:49,206 - 00:32:50,486] like one over r
+- [00:32:52,086 - 00:32:54,386] this is somebody's law,
+- [00:32:54,386 - 00:32:56,006] do you know whose law this is?
+- [00:32:57,466 - 00:32:59,106] this is kepler's law
+- [00:32:59,106 - 00:33:01,446] this is kepler's planetary law
+- [00:33:01,446 - 00:33:03,376] it's usually expressed in terms of
+- [00:33:03,376 - 00:33:05,306] the period rather than the velocity
+- [00:33:05,306 - 00:33:08,846] but this is essentially kepler's planetary law
+- [00:33:08,846 - 00:33:10,066] one of the laws,
+- [00:33:10,066 - 00:33:10,606] which one is it,
+- [00:33:10,606 - 00:33:11,486] the second law?
+- [00:33:12,626 - 00:33:13,146] uh...
+- [00:33:13,146 - 00:33:14,506] whatever it is
+- [00:33:15,146 - 00:33:15,666] uh...
+- [00:33:18,026 - 00:33:19,346] telling you how
+- [00:33:19,346 - 00:33:20,086] uh...
+- [00:33:20,086 - 00:33:23,086] the velocity of planets
+- [00:33:23,746 - 00:33:25,806] varies as a function of the radius from the sun
+- [00:33:26,526 - 00:33:27,226] same law here
+- [00:33:27,786 - 00:33:29,976] and in particular it says that the
+- [00:33:29,976 - 00:33:32,166] velocity falls off like one over the
+- [00:33:32,166 - 00:33:32,986] square root of r
+- [00:33:35,066 - 00:33:36,546] velocity falls like one over the square
+- [00:33:36,546 - 00:33:38,026] root of r as you move away
+- [00:33:39,546 - 00:33:41,946] that's not what was seen by ort,
+- [00:33:41,946 - 00:33:44,406] and it's not what's seen by anybody since
+- [00:33:44,406 - 00:33:44,646] now since
+- [00:33:44,646 - 00:33:48,196] we have to all deal with
+- [00:33:48,196 - 00:33:51,746] the idea of a certain number ofowanae
+- [00:33:51,746 - 00:33:52,646] uh...
+- [00:33:57,105 - 00:33:57,946] roughly
+- [00:33:57,946 - 00:33:58,226] or in summary
+- [00:33:58,226 - 00:33:58,266] alpha
+- [00:33:59,846 - 00:34:00,686] Dual
+- [00:34:00,686 - 00:34:01,386] this is a birth
+- [00:34:01,386 - 00:34:02,306] that's one .
+- [00:34:04,365 - 00:34:06,186] this is the webcam
+- [00:34:06,186 - 00:34:06,226] this is theirty
+- [00:34:13,545 - 00:34:14,386] again,
+- [00:34:14,386 - 00:34:14,386] it's very simple
+- [00:34:14,386 - 00:34:17,106] let's say the mass is distributed and
+- [00:34:17,106 - 00:34:19,826] let's say let's introduce a function m
+- [00:34:19,826 - 00:34:20,726] of r.
+- [00:34:20,726 - 00:34:24,936] m of r is the amount of
+- [00:34:24,936 - 00:34:29,146] mass contained within a sphere out to radius
+- [00:34:29,146 - 00:34:29,626] r.
+- [00:34:29,626 - 00:34:31,846] A planet,
+- [00:34:31,846 - 00:34:33,065] not a planet,
+- [00:34:33,065 - 00:34:37,666] a star at distance r moves under the influence not
+- [00:34:37,666 - 00:34:40,696] of a constant mass at the center but
+- [00:34:40,696 - 00:34:43,726] a varying mass which varies like m of r
+- [00:34:43,726 - 00:34:49,735] and in that case let's put back
+- [00:34:49,735 - 00:34:55,746] the equation mg over r squared equals v
+- [00:34:55,746 - 00:34:58,366] squared over r.
+- [00:34:58,366 - 00:35:01,796] Let's multiply it by r and
+- [00:35:01,796 - 00:35:05,226] now say that v is constant.
+- [00:35:05,226 - 00:35:06,806] If v is
+- [00:35:06,806 - 00:35:07,386] constant,
+- [00:35:07,386 - 00:35:10,255] oh we put here now m of
+- [00:35:10,255 - 00:35:13,125] r not just m but m of r.
+- [00:35:13,346 - 00:35:13,706] you
+- [00:35:15,186 - 00:35:15,496] can see that m of r
+- [00:35:15,496 - 00:35:15,806] is the mass of the center.
+- [00:35:15,806 - 00:35:16,506] v is constant,
+- [00:35:16,506 - 00:35:17,546] doesn't change with
+- [00:35:17,546 - 00:35:21,556] distance and therefore we find that
+- [00:35:21,556 - 00:35:25,566] m of r must grow like r.
+- [00:35:25,566 - 00:35:29,366] Just multiply by r,
+- [00:35:29,606 - 00:35:30,966] think of v as a constant,
+- [00:35:30,966 - 00:35:32,976] m of r increases as
+- [00:35:32,976 - 00:35:34,986] you move away from the center.
+- [00:35:34,986 - 00:35:37,546] And so as
+- [00:35:37,546 - 00:35:38,306] you move out,
+- [00:35:38,306 - 00:35:41,246] this is not the mass density incidentally,
+- [00:35:41,246 - 00:35:43,526] this is the total mass with
+- [00:35:43,726 - 00:35:43,906] values of sin .
+- [00:35:43,906 - 00:35:45,946] so ourchan tells us that at the
+- [00:35:45,946 - 00:35:47,986] feet of the planet within a radius r,
+- [00:35:49,106 - 00:35:52,826] apparently increases linearly with r out
+- [00:35:52,826 - 00:35:55,366] to the outer boundaries of
+- [00:35:55,366 - 00:35:57,906] a galaxy and even beyond that.
+- [00:35:57,906 - 00:35:59,626] We see things,
+- [00:35:59,626 - 00:36:00,066] you know,
+- [00:36:00,086 - 00:36:01,346] at the very,
+- [00:36:01,346 - 00:36:03,956] very far edges of galaxies we do
+- [00:36:03,956 - 00:36:06,566] see a stray star here and there and,
+- [00:36:06,566 - 00:36:06,846] this can,
+- [00:36:06,846 - 00:36:07,086] yeah
+- [00:36:10,906 - 00:36:12,426] So the luminous matter,
+- [00:36:12,426 - 00:36:13,886] you know,
+- [00:36:13,946 - 00:36:15,586] is much more dense in the center.
+- [00:36:15,766 - 00:36:16,226] That's right.
+- [00:36:16,486 - 00:36:19,286] But the non-luminous matter seems to sort of magically
+- [00:36:20,286 - 00:36:22,346] adjust for that so that the density,
+- [00:36:22,346 - 00:36:23,226] not the density,
+- [00:36:23,306 - 00:36:28,046] but the mass is a linear function of the radius.
+- [00:36:28,226 - 00:36:28,886] We know,
+- [00:36:28,886 - 00:36:31,146] is there any theory as to why that would be?
+- [00:36:31,186 - 00:36:32,826] Because it seems very neat.
+- [00:36:37,246 - 00:36:39,786] If there is a theory,
+- [00:36:39,786 - 00:36:40,826] I don't know it.
+- [00:36:42,106 - 00:36:44,066] But my guess is that by now,
+- [00:36:44,066 - 00:36:44,446] people
+- [00:36:44,446 - 00:36:47,366] who simulate galaxy formation could probably
+- [00:36:48,406 - 00:36:51,166] tell you that this is not an unnatural thing.
+- [00:36:53,366 - 00:36:56,826] I definitely do not know a simple explanation for it.
+- [00:36:58,726 - 00:37:01,626] So at the moment,
+- [00:37:01,626 - 00:37:03,026] it looks like a piece of luck
+- [00:37:03,026 - 00:37:06,106] that the velocity curve is just flat.
+- [00:37:07,666 - 00:37:11,046] And I don't know a good,
+- [00:37:11,046 - 00:37:11,766] substantial,
+- [00:37:11,766 - 00:37:12,926] simple argument
+- [00:37:12,926 - 00:37:14,186] about why that's the case.
+- [00:37:16,006 - 00:37:17,386] So tell you what,
+- [00:37:17,386 - 00:37:18,546] I'll ask some of my colleagues
+- [00:37:18,546 - 00:37:19,326] if anybody knows.
+- [00:37:19,426 - 00:37:21,306] I know people who work on galaxy formation.
+- [00:37:24,326 - 00:37:26,226] But my guess is by now,
+- [00:37:26,226 - 00:37:27,306] it's a combination
+- [00:37:27,306 - 00:37:33,166] of observational fact and simulation fact.
+- [00:37:34,666 - 00:37:35,226] OK.
+- [00:37:35,306 - 00:37:35,506] So.
+- [00:37:36,506 - 00:37:37,066] OK.
+- [00:37:37,086 - 00:37:39,086] So that's the status of galaxies.
+- [00:37:39,626 - 00:37:44,006] The other thing,
+- [00:37:44,006 - 00:37:44,866] incidentally,
+- [00:37:44,866 - 00:37:47,046] is we know that from the motion,
+- [00:37:47,146 - 00:37:50,186] even from the motion of stars perpendicular
+- [00:37:50,505 - 00:37:52,026] to the plane of the galaxies,
+- [00:37:52,026 - 00:37:52,786] that it
+- [00:37:52,786 - 00:37:54,946] looks as if this distribution of mass
+- [00:37:55,525 - 00:37:59,446] is spherical in character rather than conforming
+- [00:37:59,446 - 00:38:04,766] to the odd spiral or flattened shape of galaxies.
+- [00:38:05,126 - 00:38:05,666] Now,
+- [00:38:05,666 - 00:38:06,366] I can tell you for sure.
+- [00:38:06,366 - 00:38:10,626] I do not understand why galaxies have spiral arms
+- [00:38:10,626 - 00:38:13,826] or why they look like flattened disks.
+- [00:38:14,986 - 00:38:18,506] I looked it up more than once.
+- [00:38:18,626 - 00:38:20,346] I've looked it up in various places.
+- [00:38:20,686 - 00:38:23,426] And you get some very complicated explanations.
+- [00:38:24,006 - 00:38:24,386] It's not.
+- [00:38:24,466 - 00:38:25,866] It's apparently not simple.
+- [00:38:26,286 - 00:38:28,546] And it's certainly not that the galaxy is
+- [00:38:28,546 - 00:38:29,926] going around like a pinwheel.
+- [00:38:30,106 - 00:38:31,566] It is not doing that at all.
+- [00:38:34,486 - 00:38:36,266] So what do we know about this document?
+- [00:38:36,366 - 00:38:43,526] I mean,
+- [00:38:43,526 - 00:38:43,986] it electrical mass.
+- [00:38:44,046 - 00:38:47,366] How are we designed laboratory technology
+- [00:38:51,626 - 00:38:53,246] In低氧 and high氧 Nepal Now,
+- [00:38:53,626 - 00:38:55,506] we cannot know whether I
+- [00:38:55,506 - 00:38:57,386] am rotating in a pulling moment
+- [00:38:57,806 - 00:38:58,566] But theellksam
+- [00:38:58,566 - 00:39:01,786] mat stick weird pour natural and
+- [00:39:01,786 - 00:39:02,166] nonsense argument.
+- [00:39:03,486 - 00:39:06,746] And it is roughly a factor
+- [00:39:06,746 - 00:39:10,006] of somewhere between 5 and 10.
+- [00:39:11,926 - 00:39:13,046] And when I say it's
+- [00:39:13,046 - 00:39:14,166] a factor of 5 and 10,
+- [00:39:14,346 - 00:39:16,136] I mean to say that somebody
+- [00:39:16,136 - 00:39:17,926] knows whether it's a 5 or 10,
+- [00:39:17,926 - 00:39:18,706] but I don't.
+- [00:39:19,346 - 00:39:20,906] I always thought it was 10.
+- [00:39:21,346 - 00:39:22,526] I looked it up today,
+- [00:39:22,526 - 00:39:24,106] and it was more like 5.
+- [00:39:24,546 - 00:39:25,846] So let's say 7 times.
+- [00:39:26,046 - 00:39:27,026] But whatever it is,
+- [00:39:27,026 - 00:39:30,106] it's of order of magnitude
+- [00:39:30,106 - 00:39:33,786] 10 times larger than the luminous mass.
+- [00:39:34,446 - 00:39:35,066] Now,
+- [00:39:35,066 - 00:39:36,346] why doesn't it collapse?
+- [00:39:36,626 - 00:39:37,706] And it's bigger.
+- [00:39:37,706 - 00:39:39,166] It's bigger in size.
+- [00:39:40,946 - 00:39:45,866] If a galaxy looks like this,
+- [00:39:45,946 - 00:39:46,206] you know,
+- [00:39:46,206 - 00:39:47,826] it's a little pinwheel about that big,
+- [00:39:48,006 - 00:39:50,566] the halo around it is quite a bit bigger.
+- [00:39:53,546 - 00:39:57,526] Why didn't it also fall together
+- [00:39:57,526 - 00:40:00,086] the same way that the luminous,
+- [00:40:00,106 - 00:40:00,726] the luminous mass did?
+- [00:40:01,106 - 00:40:01,666] Well,
+- [00:40:01,666 - 00:40:05,206] the luminous mass fell together,
+- [00:40:06,026 - 00:40:09,666] meaning to say it collapsed in this form,
+- [00:40:09,746 - 00:40:11,206] by losing energy.
+- [00:40:11,466 - 00:40:13,106] It lost energy to radiation,
+- [00:40:13,106 - 00:40:14,206] among other things.
+- [00:40:14,546 - 00:40:16,246] It lost energy to collisions.
+- [00:40:16,466 - 00:40:17,446] What kind of collisions?
+- [00:40:17,586 - 00:40:19,126] Collisions having to do
+- [00:40:19,126 - 00:40:20,666] with electromagnetic forces and things.
+- [00:40:21,446 - 00:40:24,346] And in the process of colliding,
+- [00:40:24,346 - 00:40:25,306] losing energy,
+- [00:40:25,306 - 00:40:26,326] radiating,
+- [00:40:26,426 - 00:40:29,246] it sort of fell into the center to some extent.
+- [00:40:30,206 - 00:40:32,126] So what we need to
+- [00:40:32,126 - 00:40:34,046] expect then about the dark matter
+- [00:40:34,686 - 00:40:36,126] is that whatever it is,
+- [00:40:36,126 - 00:40:37,966] it's much more weakly interacting.
+- [00:40:38,186 - 00:40:38,926] In particular,
+- [00:40:38,926 - 00:40:40,806] it's not electrically charged.
+- [00:40:41,186 - 00:40:41,706] Now,
+- [00:40:41,706 - 00:40:41,986] of course,
+- [00:40:41,986 - 00:40:43,486] if it were electrically charged,
+- [00:40:43,626 - 00:40:44,286] we would see it.
+- [00:40:44,286 - 00:40:44,966] It would radiate.
+- [00:40:45,726 - 00:40:47,566] So it's not electrically charged.
+- [00:40:47,706 - 00:40:49,586] But the fact that it's not electrically charged
+- [00:40:49,586 - 00:40:53,566] and that it is very likely rather weakly interacting,
+- [00:40:53,766 - 00:40:54,986] maybe like neutrinos,
+- [00:40:54,986 - 00:40:56,406] maybe a little stronger than that,
+- [00:40:56,506 - 00:41:00,086] means that these particles that may be in the center,
+- [00:41:00,106 - 00:41:01,526] make up this halo here.
+- [00:41:02,525 - 00:41:03,726] They circulate around.
+- [00:41:03,966 - 00:41:05,366] They may go back and forth this way.
+- [00:41:05,506 - 00:41:07,166] Some of them are going this way.
+- [00:41:07,326 - 00:41:09,446] Some of them are in elliptical orbits.
+- [00:41:10,106 - 00:41:12,386] But they don't interact with each other very much.
+- [00:41:12,586 - 00:41:15,106] And because they don't interact with each other very much
+- [00:41:15,106 - 00:41:17,046] over the period of 10 billion years,
+- [00:41:17,785 - 00:41:19,945] this halo matter has not
+- [00:41:19,945 - 00:41:22,106] collapsed and followed the luminous matter.
+- [00:41:22,906 - 00:41:25,006] So the luminous matter...
+- [00:41:26,206 - 00:41:28,046] There's no question that to some degree,
+- [00:41:28,206 - 00:41:29,646] they do follow each other.
+- [00:41:30,346 - 00:41:31,186] There are no,
+- [00:41:31,186 - 00:41:32,126] as far as I know,
+- [00:41:32,206 - 00:41:34,106] no large lumps of dark matter
+- [00:41:34,106 - 00:41:35,416] that don't have some kind
+- [00:41:35,416 - 00:41:36,726] of luminous matter at the center.
+- [00:41:36,926 - 00:41:38,826] And I don't believe there are
+- [00:41:38,826 - 00:41:40,726] any galaxies out there that are visible
+- [00:41:40,726 - 00:41:43,786] that don't have luminous matter around them.
+- [00:41:44,046 - 00:41:45,666] But it doesn't follow...
+- [00:41:45,666 - 00:41:47,606] They don't follow each other in the detail
+- [00:41:48,266 - 00:41:50,396] that the dark matter has a
+- [00:41:50,396 - 00:41:52,526] shape which looks like a galaxy.
+- [00:41:52,566 - 00:41:53,966] It just looks like a great big sphere.
+- [00:41:57,046 - 00:41:58,046] A halo.
+- [00:42:00,466 - 00:42:02,346] Before he discovered this,
+- [00:42:02,346 - 00:42:04,946] he was interested in looking at galactic clusters.
+- [00:42:05,226 - 00:42:06,406] I think he was looking at clusters.
+- [00:42:07,506 - 00:42:08,066] Galaxies.
+- [00:42:08,066 - 00:42:08,266] Yeah.
+- [00:42:09,366 - 00:42:10,006] That's right.
+- [00:42:10,066 - 00:42:12,246] He was looking at the motion of galaxies in clusters.
+- [00:42:12,786 - 00:42:13,586] That's correct.
+- [00:42:13,746 - 00:42:14,066] That's correct.
+- [00:42:14,186 - 00:42:16,086] Oort was the one who looked at galaxies.
+- [00:42:16,386 - 00:42:18,326] And I understand he was first.
+- [00:42:18,606 - 00:42:20,366] The scale of the...
+- [00:42:21,066 - 00:42:21,346] Good.
+- [00:42:22,126 - 00:42:22,686] Good.
+- [00:42:22,746 - 00:42:23,686] So that's right.
+- [00:42:23,766 - 00:42:25,836] So there is evidence for this
+- [00:42:25,836 - 00:42:27,906] kind of thing on multiple scales.
+- [00:42:28,346 - 00:42:30,086] It's not all coming from galaxies.
+- [00:42:30,106 - 00:42:31,266] It's coming from galaxies.
+- [00:42:31,546 - 00:42:33,146] It's coming from interaction between galaxies.
+- [00:42:33,346 - 00:42:35,246] And it's coming from whole galactic clusters.
+- [00:42:35,866 - 00:42:36,386] Yeah.
+- [00:42:36,546 - 00:42:39,266] So when you say that these...
+- [00:42:40,006 - 00:42:42,246] that dark matter is mutually interacting...
+- [00:42:43,366 - 00:42:44,786] It's made out of particles.
+- [00:42:45,106 - 00:42:46,986] Which everybody believes it's made out of particles.
+- [00:42:48,026 - 00:42:49,846] Does it interact...
+- [00:42:49,846 - 00:42:52,986] Are the gravitational laws the same for dark matter?
+- [00:42:53,566 - 00:42:54,806] We sure think so.
+- [00:42:55,026 - 00:42:55,426] Okay.
+- [00:42:55,626 - 00:42:56,846] So in that sense,
+- [00:42:56,946 - 00:42:59,346] like two pieces of dark matter
+- [00:42:59,346 - 00:43:01,146] are going to be attracted with the same forces.
+- [00:43:01,366 - 00:43:01,706] Mm-hmm.
+- [00:43:02,806 - 00:43:04,126] So what do you mean by
+- [00:43:04,126 - 00:43:05,446] the fact that they're weakly interacting?
+- [00:43:05,866 - 00:43:07,326] No electrical forces?
+- [00:43:07,366 - 00:43:07,546] Yeah.
+- [00:43:07,586 - 00:43:08,646] No electrical forces.
+- [00:43:08,726 - 00:43:09,026] No...
+- [00:43:10,386 - 00:43:11,026] Yeah.
+- [00:43:11,246 - 00:43:14,886] The emission of gravitational radiation
+- [00:43:16,506 - 00:43:18,776] by stars and other things moving
+- [00:43:18,776 - 00:43:21,046] in galactic orbits and so forth
+- [00:43:21,046 - 00:43:24,366] is completely negligible on the energy balance.
+- [00:43:24,746 - 00:43:28,206] So radiation of gravitational waves
+- [00:43:28,206 - 00:43:30,406] is not an efficient way to...
+- [00:43:31,165 - 00:43:34,746] for things to lose their energy.
+- [00:43:36,046 - 00:43:39,326] Wouldn't dark matter tend to congregate around black holes
+- [00:43:39,326 - 00:43:42,026] because they do interact gravitationally?
+- [00:43:42,145 - 00:43:43,165] And it does.
+- [00:43:43,726 - 00:43:44,746] And it does.
+- [00:43:44,946 - 00:43:45,306] It does.
+- [00:43:51,245 - 00:43:54,766] It's very likely that the dark matter,
+- [00:43:56,185 - 00:43:56,826] the...
+- [00:43:58,026 - 00:44:00,246] This was controversial for a while.
+- [00:44:00,306 - 00:44:01,726] I don't think it's controversial anymore
+- [00:44:02,406 - 00:44:05,266] that the galaxies formed
+- [00:44:06,206 - 00:44:08,006] by first the dark matter
+- [00:44:09,926 - 00:44:13,706] collecting in these great big halos
+- [00:44:13,706 - 00:44:16,826] and then the baryons,
+- [00:44:17,566 - 00:44:17,966] the protons,
+- [00:44:17,966 - 00:44:18,506] neutrons,
+- [00:44:18,506 - 00:44:18,866] electrons,
+- [00:44:18,866 - 00:44:19,626] and so forth
+- [00:44:20,366 - 00:44:22,906] falling into the dark matter halos,
+- [00:44:23,006 - 00:44:23,846] that the dark matter,
+- [00:44:23,906 - 00:44:25,266] that the big things were there first
+- [00:44:25,266 - 00:44:28,306] and then the smaller galaxies formed.
+- [00:44:28,446 - 00:44:32,526] They formed stars and probably the...
+- [00:44:32,526 - 00:44:36,226] I don't know how early the black holes formed,
+- [00:44:36,266 - 00:44:37,386] and I don't know if anybody does,
+- [00:44:38,056 - 00:44:40,786] but the black holes may have been consequences
+- [00:44:40,786 - 00:44:43,026] of simply a lot of stars falling together.
+- [00:44:43,466 - 00:44:46,366] So it wasn't that the dark matter
+- [00:44:46,366 - 00:44:49,106] formed around the black holes.
+- [00:44:49,586 - 00:44:52,446] The black holes are a negligible amount
+- [00:44:52,446 - 00:44:55,246] of the mass at the center of the galaxy.
+- [00:44:55,866 - 00:44:57,566] It's that the galaxies formed
+- [00:44:57,566 - 00:45:00,506] as a consequence of the halos of the dark matter.
+- [00:45:00,686 - 00:45:02,066] That's probably the way that it worked.
+- [00:45:02,466 - 00:45:04,566] But would the density of dark matter
+- [00:45:04,566 - 00:45:07,306] be higher near a black hole because of gravity?
+- [00:45:07,306 - 00:45:07,526] Yeah,
+- [00:45:07,526 - 00:45:08,486] it would be somewhat.
+- [00:45:08,746 - 00:45:09,126] Yes,
+- [00:45:09,126 - 00:45:10,526] it would certainly be somewhat.
+- [00:45:10,766 - 00:45:12,206] And would they radiate when they fall?
+- [00:45:12,366 - 00:45:12,726] Yeah.
+- [00:45:12,846 - 00:45:13,286] I mean,
+- [00:45:13,286 - 00:45:14,266] we think that the density...
+- [00:45:14,266 - 00:45:14,586] For example,
+- [00:45:14,586 - 00:45:16,406] we think that the density of dark matter
+- [00:45:16,406 - 00:45:18,326] near the center of the galaxy
+- [00:45:18,326 - 00:45:21,406] is significantly higher than the density of dark matter
+- [00:45:21,406 - 00:45:23,086] away from the galactic center.
+- [00:45:23,766 - 00:45:24,726] And therefore,
+- [00:45:24,726 - 00:45:27,506] people who are looking for,
+- [00:45:27,506 - 00:45:28,066] for example,
+- [00:45:28,066 - 00:45:31,866] radiation coming from the annihilation of dark matter,
+- [00:45:31,986 - 00:45:34,126] two dark matter particles colliding,
+- [00:45:34,886 - 00:45:35,406] annihilating,
+- [00:45:35,406 - 00:45:36,166] forming radiation,
+- [00:45:36,766 - 00:45:37,866] where would you look?
+- [00:45:37,926 - 00:45:39,366] You would look toward the center of the galaxy,
+- [00:45:39,366 - 00:45:40,326] for sure.
+- [00:45:40,886 - 00:45:41,646] So yes,
+- [00:45:41,646 - 00:45:43,546] it's more dense near the center of the galaxy.
+- [00:45:43,886 - 00:45:45,746] Is there any way that we can know
+- [00:45:45,746 - 00:45:48,826] at what level dark matter is aggregated?
+- [00:45:48,886 - 00:45:51,406] Is it gas or is it dust or clods?
+- [00:45:51,826 - 00:45:53,886] It's probably just lonesome particles.
+- [00:45:54,726 - 00:45:55,306] We don't know.
+- [00:45:55,366 - 00:45:55,906] We don't know.
+- [00:45:56,006 - 00:45:56,506] We don't know.
+- [00:45:56,626 - 00:45:58,366] But it's probably just lonesome particles.
+- [00:46:00,306 - 00:46:01,766] What does dust mean?
+- [00:46:02,046 - 00:46:07,766] Dust means assemblages of large numbers of particles
+- [00:46:07,766 - 00:46:10,426] that hold themselves together by what?
+- [00:46:10,586 - 00:46:12,086] By electrostatic forces,
+- [00:46:12,586 - 00:46:15,466] by all the usual things that hold things together.
+- [00:46:16,486 - 00:46:19,506] If those kind of forces existed between those particles,
+- [00:46:20,526 - 00:46:24,706] they would not have survived.
+- [00:46:24,706 - 00:46:25,786] They would not have survived as
+- [00:46:25,786 - 00:46:26,866] these kind of dark matter particles.
+- [00:46:27,146 - 00:46:33,546] So the expectation is that they are simply lonely particles
+- [00:46:33,546 - 00:46:37,226] that are lonely.
+- [00:46:39,826 - 00:46:43,206] If the sun is moving through space through these particles,
+- [00:46:43,506 - 00:46:43,746] What's that?
+- [00:46:43,946 - 00:46:46,766] If the sun is moving through space through these particles,
+- [00:46:46,986 - 00:46:50,566] wouldn't they tend to be trapped in the solar web?
+- [00:46:51,026 - 00:46:51,586] Well,
+- [00:46:51,586 - 00:46:52,566] they were...
+- [00:46:53,526 - 00:46:54,086] Yes,
+- [00:46:54,086 - 00:46:57,646] there's probably some abundance of them
+- [00:46:57,646 - 00:47:00,286] that is somewhere trapped near the sun.
+- [00:47:00,526 - 00:47:00,846] Yeah.
+- [00:47:01,506 - 00:47:02,066] Yeah,
+- [00:47:02,066 - 00:47:02,626] but...
+- [00:47:03,466 - 00:47:04,886] If I combine these two,
+- [00:47:04,886 - 00:47:08,266] it says that velocity is independent of r.
+- [00:47:08,346 - 00:47:08,746] Is that correct?
+- [00:47:08,966 - 00:47:09,326] Yeah.
+- [00:47:09,726 - 00:47:11,206] Velocity is independent of r.
+- [00:47:11,426 - 00:47:13,796] So that says that the angular
+- [00:47:13,796 - 00:47:16,166] frequency goes like one over r.
+- [00:47:17,686 - 00:47:18,246] Yeah.
+- [00:47:18,646 - 00:47:21,406] So doesn't that explain that kind of sequence?
+- [00:47:22,086 - 00:47:22,686] Yeah.
+- [00:47:25,506 - 00:47:27,826] Go look up the spiral arms of galaxies
+- [00:47:27,826 - 00:47:29,906] and try to see if you can decipher the explanation.
+- [00:47:31,026 - 00:47:33,226] Some people think that they're
+- [00:47:33,226 - 00:47:35,426] shock waves of star formation,
+- [00:47:35,686 - 00:47:37,826] shock waves propagating around in circles
+- [00:47:37,826 - 00:47:40,646] and not moving with the galaxy,
+- [00:47:40,646 - 00:47:41,266] incidentally,
+- [00:47:41,266 - 00:47:42,506] not moving with the dark matter.
+- [00:47:44,106 - 00:47:45,546] There's other pictures,
+- [00:47:45,546 - 00:47:46,886] none of which I understand.
+- [00:47:47,266 - 00:47:47,806] Yeah.
+- [00:47:47,926 - 00:47:49,126] Why would you think it's
+- [00:47:49,126 - 00:47:50,326] not one of the standard particles,
+- [00:47:50,326 - 00:47:51,786] like a neutrino or...?
+- [00:47:53,205 - 00:47:54,566] Neutrinos are very light,
+- [00:47:54,666 - 00:47:56,046] and because they would be so light,
+- [00:47:56,186 - 00:47:57,966] they would have to be pretty relativistic
+- [00:47:58,626 - 00:48:00,106] to have that much mass.
+- [00:48:03,086 - 00:48:05,806] And relativistic particles...
+- [00:48:05,806 - 00:48:05,926] Okay,
+- [00:48:05,926 - 00:48:07,746] so one fact about these particles,
+- [00:48:07,846 - 00:48:08,886] which is most important,
+- [00:48:09,066 - 00:48:10,166] is that they cluster.
+- [00:48:10,886 - 00:48:12,826] That they tend to cluster...
+- [00:48:13,505 - 00:48:15,586] that gravitation makes them cluster.
+- [00:48:16,686 - 00:48:17,146] Um...
+- [00:48:18,846 - 00:48:20,806] Things cluster less
+- [00:48:20,806 - 00:48:23,746] when they have high velocity.
+- [00:48:24,186 - 00:48:27,106] If these particles had high velocity,
+- [00:48:27,466 - 00:48:29,366] they would tend to cluster less.
+- [00:48:30,786 - 00:48:32,246] It's kind of obvious that if
+- [00:48:32,246 - 00:48:33,706] you have a gas of stuff
+- [00:48:33,706 - 00:48:35,246] and it has gravitational attractions,
+- [00:48:35,506 - 00:48:36,286] if it's hot,
+- [00:48:36,526 - 00:48:39,846] it will tend to resist the clustering tendency
+- [00:48:39,846 - 00:48:41,426] due to attractive forces.
+- [00:48:41,806 - 00:48:43,106] If it's cold,
+- [00:48:43,106 - 00:48:45,506] it will tend to cluster.
+- [00:48:46,406 - 00:48:47,086] Neutrinos...
+- [00:48:47,086 - 00:48:49,306] being so light,
+- [00:48:49,466 - 00:48:51,146] would tend to be pretty relativistic.
+- [00:48:51,386 - 00:48:53,726] They would be what is called hot dark matter.
+- [00:48:55,026 - 00:48:57,346] Hot dark matter is no longer an option.
+- [00:48:57,746 - 00:48:59,806] It's thought that the dark matter...
+- [00:49:01,466 - 00:49:04,446] basically because of this tendency to cluster,
+- [00:49:04,666 - 00:49:06,166] a strong tendency to cluster,
+- [00:49:06,366 - 00:49:07,526] is cold.
+- [00:49:07,846 - 00:49:10,546] Cold means to say that the particles are moving
+- [00:49:11,166 - 00:49:13,486] relative to the local reference frame
+- [00:49:13,486 - 00:49:15,446] with much less than the speed of light.
+- [00:49:16,226 - 00:49:17,066] So Neutrinos are moving,
+- [00:49:17,086 - 00:49:20,046] but Neutrinos are not a good option for dark matter.
+- [00:49:20,346 - 00:49:20,846] Yeah?
+- [00:49:20,966 - 00:49:23,246] One thing I'm confused about in your explanation.
+- [00:49:24,106 - 00:49:24,966] You were saying,
+- [00:49:24,966 - 00:49:25,166] well,
+- [00:49:25,246 - 00:49:28,206] that matter in that equation up there
+- [00:49:28,206 - 00:49:29,626] with the four pieces,
+- [00:49:30,546 - 00:49:33,926] that the curvature piece dominates over the matter part.
+- [00:49:34,126 - 00:49:34,846] That's what they thought.
+- [00:49:35,106 - 00:49:35,746] That's what they thought.
+- [00:49:36,006 - 00:49:36,246] Yeah.
+- [00:49:36,266 - 00:49:38,206] But then at the same time you're saying
+- [00:49:38,206 - 00:49:41,486] in a matter-dominated world,
+- [00:49:41,966 - 00:49:43,846] A goes like T to the 2 thirds.
+- [00:49:44,166 - 00:49:44,346] Oh,
+- [00:49:44,346 - 00:49:45,746] up until the time...
+- [00:49:45,746 - 00:49:49,266] up until the time that this gets bigger than that.
+- [00:49:50,026 - 00:49:50,486] Okay.
+- [00:49:50,766 - 00:49:50,966] Right.
+- [00:49:52,166 - 00:49:54,046] You'd have to correct...
+- [00:49:54,046 - 00:49:54,166] All right,
+- [00:49:54,166 - 00:49:55,806] so the equation that...
+- [00:49:57,846 - 00:49:58,546] that...what is it?
+- [00:49:58,586 - 00:50:00,726] That H is like 1 over T,
+- [00:50:01,366 - 00:50:03,366] that would get somewhat corrected,
+- [00:50:03,446 - 00:50:04,246] but not a lot,
+- [00:50:04,326 - 00:50:06,246] because most of it was happening earlier
+- [00:50:06,246 - 00:50:09,086] before this crossover point.
+- [00:50:09,366 - 00:50:09,826] So...
+- [00:50:10,986 - 00:50:11,446] Again,
+- [00:50:11,446 - 00:50:13,766] a theory 30 or 40 years ago...
+- [00:50:13,766 - 00:50:15,406] And the point is you can work it out.
+- [00:50:15,746 - 00:50:16,666] You can work out the detail.
+- [00:50:16,926 - 00:50:16,946] Yeah.
+- [00:50:17,366 - 00:50:18,866] Like 30 or 40 years ago,
+- [00:50:19,826 - 00:50:21,326] what was considered...
+- [00:50:21,326 - 00:50:21,866] what was dominant?
+- [00:50:22,046 - 00:50:23,066] What is time now?
+- [00:50:23,186 - 00:50:23,766] Is it like...
+- [00:50:23,766 - 00:50:25,386] is the matter dominated over the curvature?
+- [00:50:25,726 - 00:50:28,126] Or is the curvature dominated over the matter now?
+- [00:50:28,386 - 00:50:28,566] When,
+- [00:50:28,566 - 00:50:28,786] now?
+- [00:50:28,886 - 00:50:29,126] Today?
+- [00:50:29,346 - 00:50:29,446] Yes,
+- [00:50:29,446 - 00:50:29,786] today.
+- [00:50:29,886 - 00:50:30,166] You mean...
+- [00:50:31,465 - 00:50:34,346] You mean today according to yesterday's theory
+- [00:50:34,346 - 00:50:36,446] or today according to today's theory?
+- [00:50:36,826 - 00:50:37,946] The way they were thinking about
+- [00:50:37,946 - 00:50:39,066] it 30 or 40 years ago.
+- [00:50:39,226 - 00:50:39,526] Okay,
+- [00:50:39,526 - 00:50:40,746] so there was massive confusion.
+- [00:50:41,686 - 00:50:43,706] There was a lot of confusion about it.
+- [00:50:43,946 - 00:50:45,526] But I think if you would have...
+- [00:50:45,526 - 00:50:49,366] put things together without worrying about dark matter,
+- [00:50:49,626 - 00:50:52,126] I think you would have had to say that...
+- [00:50:52,846 - 00:50:55,646] that this term was big,
+- [00:50:56,526 - 00:50:59,966] that it was of the sign that K was negative,
+- [00:51:00,266 - 00:51:02,406] and that A was roughly the
+- [00:51:02,406 - 00:51:04,546] same as the age of the universe.
+- [00:51:04,986 - 00:51:05,526] Yeah.
+- [00:51:06,486 - 00:51:07,086] Yeah.
+- [00:51:07,226 - 00:51:09,886] And people resisted it to some extent.
+- [00:51:10,186 - 00:51:11,646] The main reason I...
+- [00:51:11,646 - 00:51:13,106] You know...
+- [00:51:13,806 - 00:51:15,506] I don't know what people were thinking.
+- [00:51:15,526 - 00:51:17,586] Each person was thinking something different.
+- [00:51:18,306 - 00:51:20,766] But I think one of the prejudices
+- [00:51:20,766 - 00:51:23,286] was that the universe was closed and bounded.
+- [00:51:23,906 - 00:51:26,886] So they would tend to write equations
+- [00:51:27,526 - 00:51:30,186] that were appropriate for K equals positive,
+- [00:51:30,546 - 00:51:32,126] and that didn't...
+- [00:51:32,126 - 00:51:34,326] and that conflicted with the observations.
+- [00:51:34,846 - 00:51:37,006] So there was a lot of confusion about it.
+- [00:51:37,586 - 00:51:38,626] Later on,
+- [00:51:38,626 - 00:51:40,046] 20 years ago,
+- [00:51:40,146 - 00:51:41,346] I'm not sure exactly when,
+- [00:51:41,486 - 00:51:43,286] it sort of settled down that...
+- [00:51:43,286 - 00:51:44,146] that...
+- [00:51:46,786 - 00:51:48,846] that K was probably negative.
+- [00:51:49,806 - 00:51:50,406] Okay?
+- [00:51:50,566 - 00:51:51,166] Now,
+- [00:51:51,166 - 00:51:52,326] what happened...
+- [00:51:52,326 - 00:51:53,026] Let's come now.
+- [00:51:53,106 - 00:51:55,026] What did dark matter do to this equation?
+- [00:51:56,266 - 00:51:56,866] Well,
+- [00:51:56,866 - 00:51:58,006] the left...
+- [00:51:58,006 - 00:51:59,486] If we just ignore this,
+- [00:52:00,126 - 00:52:02,486] the right side and the left side,
+- [00:52:02,626 - 00:52:04,506] the matter-dominated term over here
+- [00:52:04,506 - 00:52:05,866] and the Hubble constant
+- [00:52:06,886 - 00:52:09,986] differed by a factor of 25 or something like that.
+- [00:52:10,726 - 00:52:12,626] So it was pretty serious.
+- [00:52:12,646 - 00:52:14,126] A big gap in the equation.
+- [00:52:14,126 - 00:52:15,006] It was a gap between these two.
+- [00:52:16,206 - 00:52:17,406] At best,
+- [00:52:17,586 - 00:52:19,246] the dark matter
+- [00:52:20,226 - 00:52:24,106] is five or six or seven times the luminous matter,
+- [00:52:24,326 - 00:52:25,806] and it did not fix this.
+- [00:52:26,806 - 00:52:28,186] It fixed it somewhat,
+- [00:52:28,386 - 00:52:29,546] but it didn't fix it...
+- [00:52:29,546 - 00:52:30,746] it didn't fix it...
+- [00:52:31,666 - 00:52:32,266] uh...
+- [00:52:33,886 - 00:52:37,386] It didn't make the matter term
+- [00:52:37,386 - 00:52:39,306] equal to the Hubble constant term.
+- [00:52:41,306 - 00:52:42,386] What it did,
+- [00:52:43,246 - 00:52:44,486] was it still...
+- [00:52:44,486 - 00:52:46,886] not only left room for a K over A squared
+- [00:52:46,886 - 00:52:48,046] with negative curvature,
+- [00:52:48,346 - 00:52:49,506] it required it.
+- [00:52:50,066 - 00:52:53,406] It required this term to still be there.
+- [00:52:53,646 - 00:52:55,006] So it didn't...
+- [00:52:55,006 - 00:52:56,106] it didn't...
+- [00:52:57,926 - 00:52:58,526] Well,
+- [00:52:58,526 - 00:52:59,986] when I say it didn't fix things,
+- [00:53:00,126 - 00:53:01,406] I'm not sure what fix means.
+- [00:53:02,386 - 00:53:04,786] There was nothing particularly wrong
+- [00:53:04,786 - 00:53:07,566] with saying that H squared
+- [00:53:08,246 - 00:53:09,886] largely came from here.
+- [00:53:11,106 - 00:53:12,366] But the matter term
+- [00:53:12,386 - 00:53:15,066] was not sufficient to fill the gap.
+- [00:53:15,286 - 00:53:17,166] It still had this present.
+- [00:53:17,786 - 00:53:19,366] Are there any sort of restrictions
+- [00:53:19,366 - 00:53:21,006] on the mass of the particles
+- [00:53:21,006 - 00:53:22,006] with dark matter?
+- [00:53:22,426 - 00:53:22,746] No.
+- [00:53:23,326 - 00:53:24,206] Essentially none.
+- [00:53:24,646 - 00:53:25,906] If you got too light,
+- [00:53:26,146 - 00:53:27,866] would you have a problem that...
+- [00:53:29,146 - 00:53:29,746] Yeah.
+- [00:53:30,466 - 00:53:31,066] Um...
+- [00:53:35,146 - 00:53:36,346] It depends...
+- [00:53:36,346 - 00:53:36,846] All right,
+- [00:53:36,846 - 00:53:37,386] there's...
+- [00:53:38,726 - 00:53:41,426] If the particles are light and fermions,
+- [00:53:41,426 - 00:53:42,226] you're in trouble.
+- [00:53:42,366 - 00:53:44,606] They can't all occupy the same state
+- [00:53:44,606 - 00:53:46,306] and be moving together slowly
+- [00:53:46,306 - 00:53:47,666] relative to each other.
+- [00:53:48,146 - 00:53:49,866] If they're bosons,
+- [00:53:50,285 - 00:53:52,386] they can be extremely light
+- [00:53:52,386 - 00:53:57,606] and be in a phase called a Bose condensation,
+- [00:53:57,986 - 00:53:59,766] and the Bose condensation
+- [00:53:59,766 - 00:54:00,966] just has very,
+- [00:54:00,966 - 00:54:02,466] very slow particles
+- [00:54:02,466 - 00:54:05,026] all in the same quantum state,
+- [00:54:05,266 - 00:54:07,726] moving like a Bose...
+- [00:54:07,726 - 00:54:09,746] like a Bose-Einstein condensation,
+- [00:54:09,746 - 00:54:12,806] and that is one of the theories of dark matter.
+- [00:54:12,986 - 00:54:14,286] It's called the axion theory,
+- [00:54:14,526 - 00:54:17,266] that the axions are incredibly light,
+- [00:54:17,326 - 00:54:17,626] very,
+- [00:54:17,626 - 00:54:18,206] very light.
+- [00:54:18,286 - 00:54:19,446] I don't remember the exact numbers,
+- [00:54:19,526 - 00:54:20,686] but extremely light,
+- [00:54:20,726 - 00:54:21,026] much,
+- [00:54:21,026 - 00:54:22,346] much lighter than neutrinos,
+- [00:54:23,166 - 00:54:25,286] and that they form a Bose condensation.
+- [00:54:26,266 - 00:54:28,626] That's one theory of dark matter,
+- [00:54:28,726 - 00:54:29,666] and it's a good theory.
+- [00:54:29,806 - 00:54:31,606] It's not a crazy theory,
+- [00:54:31,746 - 00:54:35,806] but mostly people think about theories
+- [00:54:35,806 - 00:54:37,386] in which the dark matter
+- [00:54:37,386 - 00:54:39,726] are particles that could be dark
+- [00:54:39,746 - 00:54:41,686] and be detected in big accelerators,
+- [00:54:42,746 - 00:54:44,246] particles whose mass
+- [00:54:44,246 - 00:54:47,986] are in the range of masses
+- [00:54:47,986 - 00:54:51,606] that could be discovered at the LHC.
+- [00:54:52,106 - 00:54:54,086] Is that because...
+- [00:54:57,366 - 00:54:58,506] Is that wishful thinking?
+- [00:54:58,746 - 00:54:59,166] Yeah.
+- [00:55:00,366 - 00:55:01,866] They can't get enough power yet,
+- [00:55:01,866 - 00:55:03,326] right?
+- [00:55:03,486 - 00:55:06,106] They don't have enough power yet
+- [00:55:06,505 - 00:55:07,626] in the accelerator
+- [00:55:07,626 - 00:55:10,586] to try and reach the theoretical maximum.
+- [00:55:10,846 - 00:55:11,586] No.
+- [00:55:11,766 - 00:55:12,306] No,
+- [00:55:12,306 - 00:55:13,686] there is no theoretical maximum
+- [00:55:13,686 - 00:55:17,386] unless you assume that the particles interact
+- [00:55:17,386 - 00:55:20,286] with roughly standard model
+- [00:55:20,286 - 00:55:22,006] weak interaction cross-sections.
+- [00:55:22,326 - 00:55:25,966] Then the maximum is probably up in a few TeV,
+- [00:55:26,146 - 00:55:26,466] a few,
+- [00:55:26,466 - 00:55:30,286] maybe at most 10 times 10 TeV.
+- [00:55:32,166 - 00:55:32,906] And,
+- [00:55:32,906 - 00:55:33,646] yeah,
+- [00:55:33,646 - 00:55:34,266] I mean,
+- [00:55:35,506 - 00:55:37,566] is there enough energy?
+- [00:55:37,566 - 00:55:38,786] Is there enough energy to have detected them?
+- [00:55:40,166 - 00:55:41,086] Apparently not.
+- [00:55:42,266 - 00:55:42,746] Well,
+- [00:55:42,746 - 00:55:43,326] in two years,
+- [00:55:43,346 - 00:55:44,426] we'll be out of more,
+- [00:55:44,426 - 00:55:44,786] right?
+- [00:55:45,046 - 00:55:45,826] In two years,
+- [00:55:45,966 - 00:55:48,786] we'll have more information,
+- [00:55:49,326 - 00:55:50,546] and it is possible
+- [00:55:50,546 - 00:55:52,106] that particles will be discovered,
+- [00:55:52,246 - 00:55:53,606] and they may have the right properties.
+- [00:55:54,566 - 00:55:56,186] So would it be fair to say
+- [00:55:56,186 - 00:55:57,166] that the dark matter,
+- [00:55:57,346 - 00:55:59,386] could we blame string theory on it
+- [00:55:59,386 - 00:56:00,066] and say...
+- [00:56:00,066 - 00:56:00,186] No.
+- [00:56:01,206 - 00:56:03,166] The reason that we can't see it
+- [00:56:03,166 - 00:56:06,006] is because it's saying a dimension
+- [00:56:06,006 - 00:56:07,546] that we can't see from our eyes.
+- [00:56:07,546 - 00:56:07,786] No,
+- [00:56:07,786 - 00:56:08,026] no,
+- [00:56:08,026 - 00:56:08,226] no,
+- [00:56:08,226 - 00:56:08,446] no,
+- [00:56:08,446 - 00:56:08,606] no.
+- [00:56:08,606 - 00:56:08,846] I mean,
+- [00:56:08,846 - 00:56:09,986] they are particles.
+- [00:56:10,146 - 00:56:11,086] They can be seen.
+- [00:56:11,266 - 00:56:12,446] They can be measured.
+- [00:56:13,306 - 00:56:14,346] We do measure them.
+- [00:56:14,426 - 00:56:15,706] We measure them gravitationally.
+- [00:56:15,886 - 00:56:17,206] I guess you're asking,
+- [00:56:17,306 - 00:56:19,306] is it conceivable that these are particles
+- [00:56:19,306 - 00:56:21,146] which are so unusual
+- [00:56:21,146 - 00:56:24,466] that they have almost no interaction
+- [00:56:24,466 - 00:56:25,586] with ordinary material,
+- [00:56:25,946 - 00:56:27,786] and therefore we don't see them?
+- [00:56:27,826 - 00:56:28,026] Yes,
+- [00:56:28,026 - 00:56:28,466] it's possible.
+- [00:56:28,746 - 00:56:29,026] But that's what...
+- [00:56:29,026 - 00:56:29,486] But,
+- [00:56:29,486 - 00:56:29,986] yeah,
+- [00:56:29,986 - 00:56:30,566] that's right.
+- [00:56:30,706 - 00:56:32,006] But it is possible
+- [00:56:32,006 - 00:56:34,586] that they are just so weakly interacting
+- [00:56:34,586 - 00:56:35,926] with ordinary matter
+- [00:56:38,086 - 00:56:40,846] that there's no chance of detecting them.
+- [00:56:40,986 - 00:56:41,806] It's possible.
+- [00:56:42,626 - 00:56:45,026] One of the reasons that neutrinos are so fast
+- [00:56:45,026 - 00:56:46,786] is because during the Big Bang
+- [00:56:46,786 - 00:56:48,306] they were formed in a...
+- [00:56:48,826 - 00:56:50,586] So if this dark matter
+- [00:56:50,586 - 00:56:52,346] was formed at the Big Bang,
+- [00:56:52,386 - 00:56:53,666] would it have been formed later
+- [00:56:54,366 - 00:56:56,466] when the universe was cooler or something?
+- [00:56:56,706 - 00:56:56,886] No,
+- [00:56:56,886 - 00:56:57,086] no,
+- [00:56:57,086 - 00:56:57,246] no,
+- [00:56:57,246 - 00:56:57,926] they're just heavier.
+- [00:56:58,386 - 00:56:58,826] Oh,
+- [00:56:58,826 - 00:56:59,146] I mean,
+- [00:56:59,146 - 00:56:59,706] if they were light.
+- [00:56:59,766 - 00:57:00,766] If they were very,
+- [00:57:00,766 - 00:57:01,346] very light,
+- [00:57:01,346 - 00:57:01,606] okay.
+- [00:57:01,966 - 00:57:02,266] If they were light,
+- [00:57:02,306 - 00:57:03,496] then they were going to
+- [00:57:03,496 - 00:57:04,686] be faster than a gate block.
+- [00:57:05,326 - 00:57:05,766] Yeah.
+- [00:57:06,786 - 00:57:08,486] But if they're bosons,
+- [00:57:08,486 - 00:57:08,926] it's okay.
+- [00:57:09,086 - 00:57:10,606] They can boson condense,
+- [00:57:10,666 - 00:57:13,306] and they don't have to be moving fast.
+- [00:57:13,606 - 00:57:14,666] If they're fermions,
+- [00:57:14,666 - 00:57:15,866] they have to be moving fast.
+- [00:57:17,766 - 00:57:18,246] But,
+- [00:57:18,246 - 00:57:18,726] okay,
+- [00:57:18,726 - 00:57:22,266] the axion theory is not a theory
+- [00:57:22,266 - 00:57:25,066] in which the axions were ever in thermal equilibrium.
+- [00:57:26,986 - 00:57:29,626] If they were in thermal equilibrium at one time,
+- [00:57:29,706 - 00:57:31,746] then they would be moving fast today.
+- [00:57:33,606 - 00:57:35,906] But this is not what we're talking about.
+- [00:57:35,906 - 00:57:37,286] This is not where I was going with tonight's lecture.
+- [00:57:37,426 - 00:57:38,586] I wasn't going to get into axions.
+- [00:57:38,786 - 00:57:43,206] We know with any confidence nothing about dark matter.
+- [00:57:43,646 - 00:57:45,346] The most likely thing is
+- [00:57:45,346 - 00:57:47,046] that some form of elementary particle
+- [00:57:47,046 - 00:57:48,606] that hasn't been discovered yet,
+- [00:57:49,026 - 00:57:54,686] a good chance that they're heavy enough
+- [00:57:54,686 - 00:57:57,506] to have escaped detection in the LHC
+- [00:57:57,506 - 00:57:59,356] but light enough to be able
+- [00:57:59,356 - 00:58:01,206] to be detected in future experiments.
+- [00:58:02,226 - 00:58:03,586] But that's it.
+- [00:58:03,586 - 00:58:05,806] That's about all we can say at the moment.
+- [00:58:05,966 - 00:58:06,726] And they're there.
+- [00:58:08,006 - 00:58:10,966] The other alternative to dark matter
+- [00:58:12,026 - 00:58:15,506] was to modify gravitational theory
+- [00:58:16,486 - 00:58:19,646] so that Kepler's laws doesn't work for galaxies.
+- [00:58:21,286 - 00:58:25,986] But that doesn't seem to have worked very well.
+- [00:58:26,126 - 00:58:28,486] There don't seem to be any nice modifications
+- [00:58:28,486 - 00:58:31,226] of standard gravity theory which explain this.
+- [00:58:31,366 - 00:58:31,846] So...
+- [00:58:34,746 - 00:58:36,186] Most of us think it's particles.
+- [00:58:37,606 - 00:58:39,306] But you're free to make other theories.
+- [00:58:41,866 - 00:58:44,346] It hasn't necessitated any modifications
+- [00:58:44,346 - 00:58:46,666] to the Newtonian mechanics by which
+- [00:58:46,666 - 00:58:48,986] we understand our own solar system.
+- [00:58:49,266 - 00:58:49,726] It has not.
+- [00:58:50,106 - 00:58:52,706] So by that we can conclude that there's
+- [00:58:52,706 - 00:58:55,306] a negligible amount of dark matter around us.
+- [00:58:55,526 - 00:58:55,906] That's right.
+- [00:58:57,166 - 00:58:57,906] That's right.
+- [00:58:58,066 - 00:58:58,526] Yeah.
+- [00:59:00,186 - 00:59:01,446] Keep in mind...
+- [00:59:03,826 - 00:59:04,386] Yeah.
+- [00:59:04,666 - 00:59:07,326] The density of matter in the solar system
+- [00:59:07,326 - 00:59:11,906] is a lot higher than it is out in...
+- [00:59:15,166 - 00:59:15,726] Yeah.
+- [00:59:15,826 - 00:59:18,266] The dark matter in the solar system
+- [00:59:18,266 - 00:59:19,536] does not compete with the gravity
+- [00:59:19,536 - 00:59:20,806] of the Sun at the center.
+- [00:59:21,226 - 00:59:22,506] Not by a long shot.
+- [00:59:22,826 - 00:59:24,306] And so that's right.
+- [00:59:24,406 - 00:59:29,206] It doesn't affect the solar system.
+- [00:59:30,746 - 00:59:31,306] Okay.
+- [00:59:33,906 - 00:59:34,906] All right.
+- [00:59:34,986 - 00:59:37,186] So it's natural then to ask,
+- [00:59:37,366 - 00:59:38,606] can we make a...
+- [00:59:38,606 - 00:59:40,646] How do we test...
+- [00:59:40,646 - 00:59:42,746] How do we test...
+- [00:59:44,726 - 00:59:46,286] the candidate theory?
+- [00:59:46,486 - 00:59:47,806] Here's the candidate theory now.
+- [00:59:48,066 - 00:59:50,906] The candidate theory is matter dominated.
+- [00:59:51,666 - 00:59:53,126] We forget this.
+- [00:59:55,046 - 00:59:58,126] We forget lambda because that's
+- [00:59:58,126 - 01:00:01,206] something we hadn't heard about.
+- [01:00:02,166 - 01:00:05,906] K here is negative and...
+- [01:00:07,826 - 01:00:09,246] negative curved space.
+- [01:00:11,646 - 01:00:13,106] How do we test that theory?
+- [01:00:17,466 - 01:00:18,106] Okay.
+- [01:00:19,066 - 01:00:21,186] How do we test any particular model?
+- [01:00:21,426 - 01:00:24,146] A model incidentally consists of two things.
+- [01:00:24,366 - 01:00:27,946] It consists of a specification of K,
+- [01:00:28,226 - 01:00:28,986] whether it's zero,
+- [01:00:28,986 - 01:00:29,966] plus one,
+- [01:00:29,966 - 01:00:30,726] or minus one.
+- [01:00:31,286 - 01:00:33,466] And some kind of equation of state
+- [01:00:33,466 - 01:00:36,086] for which you could substitute a history,
+- [01:00:36,366 - 01:00:37,266] an A of T.
+- [01:00:38,306 - 01:00:40,896] An A of T and a K is
+- [01:00:40,896 - 01:00:43,486] a model that you can try to test.
+- [01:00:43,966 - 01:00:46,026] So what do we know
+- [01:00:46,026 - 01:00:48,265] and what can astronomers measure
+- [01:00:48,265 - 01:00:49,986] and how do they compare it
+- [01:00:49,986 - 01:00:51,446] with a particular...
+- [01:00:52,426 - 01:00:53,725] with a particular model?
+- [01:00:56,926 - 01:00:57,486] Well,
+- [01:00:57,486 - 01:01:00,346] pretty much the same thing Hubble did.
+- [01:01:01,285 - 01:01:03,386] Except a sophisticated version of it.
+- [01:01:06,346 - 01:01:08,946] You can measure two things to a large extent.
+- [01:01:09,106 - 01:01:10,606] You can measure the redshift of things,
+- [01:01:10,725 - 01:01:12,446] which tells you something about their velocity.
+- [01:01:12,986 - 01:01:15,866] And you can measure distance by...
+- [01:01:17,586 - 01:01:18,626] by luminosity.
+- [01:01:20,146 - 01:01:22,686] How do those two things come together
+- [01:01:22,686 - 01:01:24,446] to tell you anything about...
+- [01:01:25,426 - 01:01:27,366] about K and A of T?
+- [01:01:27,566 - 01:01:28,926] So let's talk about that a little bit.
+- [01:01:29,386 - 01:01:29,906] First,
+- [01:01:29,906 - 01:01:31,265] let's ignore the fact that...
+- [01:01:31,285 - 01:01:32,846] that H,
+- [01:01:32,846 - 01:01:34,086] the Hubble constant,
+- [01:01:34,086 - 01:01:35,326] changes with time.
+- [01:01:35,766 - 01:01:38,266] And let's just suppose we didn't have to worry
+- [01:01:38,266 - 01:01:40,106] about the fact that the universe evolves.
+- [01:01:40,706 - 01:01:42,946] Let's just suppose for a minute that it was...
+- [01:01:42,946 - 01:01:45,846] that it was all at an instant
+- [01:01:45,846 - 01:01:46,886] and that it didn't change.
+- [01:01:47,586 - 01:01:49,626] What could you do to measure K?
+- [01:01:50,506 - 01:01:53,586] Whether the universe is open or closed or what?
+- [01:01:54,566 - 01:01:56,926] And the way to do that...
+- [01:01:58,706 - 01:01:59,226] um...
+- [01:02:02,946 - 01:02:03,426] is...
+- [01:02:04,306 - 01:02:08,486] to measure the number of galaxies out there
+- [01:02:08,486 - 01:02:09,606] of a given brightness.
+- [01:02:11,146 - 01:02:13,446] What does the brightness have to do with K?
+- [01:02:13,626 - 01:02:14,666] So let's talk about that.
+- [01:02:15,586 - 01:02:16,066] If...
+- [01:02:16,586 - 01:02:19,806] the number of galaxies as a function of distance,
+- [01:02:19,806 - 01:02:20,266] really,
+- [01:02:20,426 - 01:02:21,446] that's what you want to do.
+- [01:02:21,626 - 01:02:23,186] You want to measure the number of galaxies
+- [01:02:23,186 - 01:02:24,146] as a function of distance.
+- [01:02:24,426 - 01:02:26,006] If you happen to think
+- [01:02:26,006 - 01:02:27,586] that distance is related to redshift,
+- [01:02:27,786 - 01:02:28,806] which of course it is,
+- [01:02:28,966 - 01:02:31,266] then you could be talking about the...
+- [01:02:31,286 - 01:02:33,146] the number of galaxies as a function of redshift,
+- [01:02:33,306 - 01:02:34,966] but let's just talk about the number of galaxies
+- [01:02:34,966 - 01:02:36,206] as a function of distance,
+- [01:02:36,366 - 01:02:38,666] where the distance has been measured in some way
+- [01:02:38,666 - 01:02:39,226] that we'll...
+- [01:02:39,226 - 01:02:40,346] that we need to come back to.
+- [01:02:40,826 - 01:02:41,426] All right.
+- [01:02:41,746 - 01:02:42,186] So...
+- [01:02:42,726 - 01:02:44,726] if we're living in a flat space...
+- [01:02:45,426 - 01:02:47,066] if we're living in a flat space,
+- [01:02:47,786 - 01:02:48,226] uh...
+- [01:02:48,226 - 01:02:49,566] then it's clear...
+- [01:02:49,566 - 01:02:51,086] and space is homogeneous,
+- [01:02:51,406 - 01:02:52,246] and everything is homogeneous,
+- [01:02:52,946 - 01:02:55,846] then it's pretty clear that the...
+- [01:02:57,546 - 01:02:59,246] number of galaxies...
+- [01:03:03,186 - 01:03:05,406] in a region dr,
+- [01:03:07,056 - 01:03:10,266] let's say within a shell surrounding us,
+- [01:03:11,036 - 01:03:12,106] the distance dr,
+- [01:03:12,966 - 01:03:13,666] uh...
+- [01:03:14,426 - 01:03:16,266] goes like r squared.
+- [01:03:17,286 - 01:03:20,346] That's just the volume of a r squared dr.
+- [01:03:24,406 - 01:03:26,106] It's also true that if
+- [01:03:26,106 - 01:03:27,806] we lived in negative curved space,
+- [01:03:28,086 - 01:03:31,266] it would go like hyperbolic sine squared.
+- [01:03:31,286 - 01:03:35,866] And that means something which grows exponentially with r,
+- [01:03:36,066 - 01:03:38,686] e to the 2r dr.
+- [01:03:41,086 - 01:03:42,566] If we were on a sphere,
+- [01:03:42,826 - 01:03:43,826] if we were living...
+- [01:03:43,826 - 01:03:44,506] not this sphere,
+- [01:03:44,706 - 01:03:46,186] but if space was a sphere,
+- [01:03:46,426 - 01:03:51,226] this would become sine of r squared dr.
+- [01:03:51,866 - 01:03:53,026] But let's forget that.
+- [01:03:53,186 - 01:03:56,086] The evidence seems to say negative curvature.
+- [01:03:56,446 - 01:03:58,266] This is the case for negative curvature.
+- [01:03:58,606 - 01:03:59,936] And so the first thing you
+- [01:03:59,936 - 01:04:01,266] can see is the number of galaxies
+- [01:04:01,266 - 01:04:02,886] as a function of distance
+- [01:04:03,486 - 01:04:05,166] would grow much,
+- [01:04:05,166 - 01:04:06,226] much more rapidly
+- [01:04:07,086 - 01:04:08,666] as a function of distance.
+- [01:04:10,906 - 01:04:11,466] Um...
+- [01:04:12,866 - 01:04:15,126] What about as a function of luminosity?
+- [01:04:15,846 - 01:04:18,066] What can we say as a function of luminosity?
+- [01:04:18,386 - 01:04:19,966] How does the luminosity,
+- [01:04:20,106 - 01:04:20,526] in particular,
+- [01:04:20,666 - 01:04:22,366] another question you could ask is
+- [01:04:22,366 - 01:04:24,446] how does luminosity depend on distance?
+- [01:04:25,226 - 01:04:25,786] Well,
+- [01:04:25,786 - 01:04:28,286] how does luminosity depend on distance in flat space?
+- [01:04:29,826 - 01:04:30,386] Um...
+- [01:04:30,386 - 01:04:31,346] What's that?
+- [01:04:33,046 - 01:04:34,606] It goes like 1 over r squared.
+- [01:04:35,646 - 01:04:38,826] It's just the same fact here.
+- [01:04:39,126 - 01:04:41,166] If you thought of a light bulb at the center
+- [01:04:41,166 - 01:04:42,186] and us out here,
+- [01:04:43,046 - 01:04:45,206] then the luminosity of the light bulb,
+- [01:04:45,406 - 01:04:47,066] the amount of radiation coming out,
+- [01:04:47,106 - 01:04:49,186] would simply be spread over
+- [01:04:49,186 - 01:04:51,266] the area of the sphere here,
+- [01:04:51,346 - 01:04:52,866] and the area grows like r squared.
+- [01:04:53,266 - 01:04:56,066] So the luminosity itself goes like r squared.
+- [01:04:56,326 - 01:04:57,726] But supposing you were living
+- [01:04:57,726 - 01:04:59,126] in this negatively curved space
+- [01:04:59,126 - 01:05:00,886] where the area of the sphere
+- [01:05:00,886 - 01:05:02,646] grows like e to the 2r,
+- [01:05:03,546 - 01:05:06,046] then the luminosity would be
+- [01:05:07,526 - 01:05:08,146] much,
+- [01:05:08,146 - 01:05:08,426] uh,
+- [01:05:08,426 - 01:05:09,666] much smaller.
+- [01:05:10,586 - 01:05:12,806] So what you would find would be
+- [01:05:12,806 - 01:05:17,086] a very rapid fall-off of luminosity with distance.
+- [01:05:17,626 - 01:05:20,426] You would find many more galaxies out there
+- [01:05:20,856 - 01:05:21,806] at a given distance,
+- [01:05:22,066 - 01:05:23,806] but you would find the luminosity
+- [01:05:23,806 - 01:05:26,626] as a function of distance would fall off much faster.
+- [01:05:27,246 - 01:05:28,526] So in particular,
+- [01:05:28,526 - 01:05:29,146] you could ask,
+- [01:05:29,206 - 01:05:31,286] what about luminosity as a function of redshift?
+- [01:05:31,826 - 01:05:34,166] And you would find a characteristic behavior
+- [01:05:34,166 - 01:05:36,926] of the luminosity as a function of the redshift,
+- [01:05:37,126 - 01:05:40,426] which would say the luminosity really gets small fast
+- [01:05:40,426 - 01:05:42,846] because of this e to the 2r here.
+- [01:05:43,606 - 01:05:44,926] So that would be...
+- [01:05:46,046 - 01:05:47,906] That's pretty much the way
+- [01:05:48,526 - 01:05:51,106] of determining whether k is plus 1,
+- [01:05:51,106 - 01:05:51,966] minus 1,
+- [01:05:51,966 - 01:05:52,486] or 0.
+- [01:05:53,606 - 01:05:54,146] That,
+- [01:05:54,146 - 01:05:54,326] uh,
+- [01:05:54,326 - 01:05:55,306] that in particular,
+- [01:05:55,406 - 01:05:57,106] if k is minus 1,
+- [01:05:57,106 - 01:05:58,766] meaning to say negative curvature,
+- [01:05:59,106 - 01:06:01,146] one should find that the,
+- [01:06:01,146 - 01:06:01,606] um,
+- [01:06:01,646 - 01:06:04,126] that the number of galaxies at a given distance,
+- [01:06:04,426 - 01:06:06,406] or let's say at a given redshift,
+- [01:06:07,466 - 01:06:10,366] anomalously grows rapidly with redshift.
+- [01:06:11,106 - 01:06:11,686] Okay.
+- [01:06:11,766 - 01:06:12,866] As the redshift,
+- [01:06:12,866 - 01:06:13,086] uh,
+- [01:06:13,086 - 01:06:13,466] gets,
+- [01:06:13,466 - 01:06:13,846] uh,
+- [01:06:14,486 - 01:06:16,346] deeper and deeper into the red,
+- [01:06:16,606 - 01:06:18,246] number of galaxies should grow
+- [01:06:18,246 - 01:06:20,646] much faster than it would in flat space.
+- [01:06:21,006 - 01:06:22,146] So that's a test.
+- [01:06:23,906 - 01:06:25,126] You can also...
+- [01:06:27,825 - 01:06:31,086] Think about calculating the number of galaxies
+- [01:06:32,046 - 01:06:34,626] that you see as a function of redshift.
+- [01:06:34,786 - 01:06:36,056] How many galaxies do you
+- [01:06:36,056 - 01:06:37,326] see as a function of redshift?
+- [01:06:37,406 - 01:06:39,446] Forget the dimness and the brightness for a minute now.
+- [01:06:39,846 - 01:06:42,606] Just how many galaxies do you see at each redshift?
+- [01:06:43,306 - 01:06:44,866] That's something you can also calculate.
+- [01:06:45,026 - 01:06:46,186] Let's talk about it a little bit,
+- [01:06:46,186 - 01:06:46,866] how you do that.
+- [01:06:48,286 - 01:06:48,686] Well,
+- [01:06:48,686 - 01:06:49,646] in order to talk about it,
+- [01:06:49,666 - 01:06:50,606] we have to talk about redshift.
+- [01:06:51,386 - 01:06:52,306] What is redshift?
+- [01:06:54,346 - 01:06:54,946] All right.
+- [01:07:06,266 - 01:07:06,746] Redshift is a function of light
+- [01:07:06,746 - 01:07:08,866] If light is emitted by a source
+- [01:07:10,306 - 01:07:12,286] that has a wavelength lambda,
+- [01:07:13,246 - 01:07:16,006] we can call that the wavelength of the light
+- [01:07:16,006 - 01:07:16,786] when it's emitted.
+- [01:07:17,506 - 01:07:18,186] The emitted,
+- [01:07:18,186 - 01:07:18,486] uh,
+- [01:07:19,466 - 01:07:20,366] just the usual.
+- [01:07:20,506 - 01:07:22,186] It's a light bulb that has a certain wavelength.
+- [01:07:23,446 - 01:07:24,706] When it's detected,
+- [01:07:24,886 - 01:07:24,926] it's a wavelength of light
+- [01:07:24,946 - 01:07:24,966] and when it's emitted,
+- [01:07:24,966 - 01:07:28,446] the light may or may not have the same wavelength.
+- [01:07:29,106 - 01:07:30,746] There could be various reasons
+- [01:07:30,746 - 01:07:32,746] for a shift of the wavelength.
+- [01:07:33,446 - 01:07:34,706] Doppler shift is one.
+- [01:07:36,566 - 01:07:37,686] Gravitational redshift,
+- [01:07:37,686 - 01:07:38,046] uh,
+- [01:07:38,806 - 01:07:39,366] from,
+- [01:07:39,366 - 01:07:39,946] uh,
+- [01:07:39,946 - 01:07:41,926] from gravity due to a black hole
+- [01:07:41,926 - 01:07:42,706] is another one.
+- [01:07:43,106 - 01:07:44,846] And the expansion of the universe,
+- [01:07:45,686 - 01:07:48,366] which happens to be equivalent to the Doppler shift,
+- [01:07:48,566 - 01:07:50,186] is not a third.
+- [01:07:50,326 - 01:07:52,066] It's equivalent to the Doppler shift.
+- [01:07:52,246 - 01:07:54,426] But the expansion of the universe is the one
+- [01:07:54,946 - 01:07:55,526] that we're interested in.
+- [01:07:55,806 - 01:07:58,766] So here is what is going on.
+- [01:07:59,126 - 01:08:00,866] Let's draw a map of the universe.
+- [01:08:01,066 - 01:08:01,786] This is time.
+- [01:08:03,106 - 01:08:04,066] Horizontal is space.
+- [01:08:04,826 - 01:08:05,966] And here's today.
+- [01:08:08,766 - 01:08:10,206] We're right at the center.
+- [01:08:10,386 - 01:08:11,466] This is r equals zero.
+- [01:08:13,046 - 01:08:13,606] And
+- [01:08:16,666 - 01:08:17,786] different r
+- [01:08:18,586 - 01:08:21,305] correspond to different vertical lines here.
+- [01:08:22,685 - 01:08:23,786] This is r equals one,
+- [01:08:23,786 - 01:08:24,446] r equals two,
+- [01:08:24,946 - 01:08:25,046] r equals three,
+- [01:08:25,046 - 01:08:26,546] and so forth.
+- [01:08:27,566 - 01:08:28,345] All right.
+- [01:08:28,725 - 01:08:30,185] We look back.
+- [01:08:30,706 - 01:08:32,706] And we look back along light rays.
+- [01:08:33,106 - 01:08:35,166] So how do light rays move?
+- [01:08:35,645 - 01:08:36,206] Well,
+- [01:08:36,206 - 01:08:37,326] in flat space,
+- [01:08:37,466 - 01:08:38,826] in the Minkowski metric,
+- [01:08:39,446 - 01:08:41,845] they move on 45 degree lines.
+- [01:08:42,386 - 01:08:44,106] But this is general relativity.
+- [01:08:44,366 - 01:08:45,866] There's a complicated metric here.
+- [01:08:46,026 - 01:08:47,386] We'll discuss a little later
+- [01:08:47,386 - 01:08:48,586] how light rays move.
+- [01:08:48,746 - 01:08:49,366] But however they move,
+- [01:08:49,366 - 01:08:50,026] they move somehow.
+- [01:08:52,246 - 01:08:53,666] Either straight lines
+- [01:08:53,666 - 01:08:54,866] or curved trajectories,
+- [01:08:54,946 - 01:08:56,145] or somehow light rays.
+- [01:08:56,326 - 01:08:57,286] We'll figure that out later.
+- [01:08:57,606 - 01:08:58,725] But we look back,
+- [01:08:58,725 - 01:09:00,566] and we see a galaxy over here.
+- [01:09:00,645 - 01:09:01,926] We see a galaxy over here.
+- [01:09:01,946 - 01:09:03,106] We see a galaxy over here.
+- [01:09:03,166 - 01:09:04,386] And we see a galaxy over here.
+- [01:09:05,286 - 01:09:06,946] We see them at different times.
+- [01:09:07,046 - 01:09:08,746] And because we see them at different times,
+- [01:09:08,805 - 01:09:09,805] we see them,
+- [01:09:09,805 - 01:09:11,305] first of all,
+- [01:09:11,305 - 01:09:12,586] with different scale factors.
+- [01:09:13,586 - 01:09:16,426] The scale factor varies vertically here.
+- [01:09:16,546 - 01:09:17,446] There's an a of t.
+- [01:09:19,986 - 01:09:20,725] Up here,
+- [01:09:20,725 - 01:09:21,626] there's a today.
+- [01:09:21,765 - 01:09:23,345] Let's call that a today.
+- [01:09:25,166 - 01:09:27,326] The emission point over here,
+- [01:09:27,426 - 01:09:28,845] let's just call a of t.
+- [01:09:33,246 - 01:09:35,106] The light emitted over here
+- [01:09:35,106 - 01:09:36,366] has to stretch
+- [01:09:36,946 - 01:09:38,066] to get to here.
+- [01:09:38,305 - 01:09:40,366] The universe increases
+- [01:09:40,946 - 01:09:42,026] by a factor
+- [01:09:42,666 - 01:09:43,725] of a today
+- [01:09:46,026 - 01:09:46,666] over
+- [01:09:47,886 - 01:09:48,526] a
+- [01:09:48,526 - 01:09:50,486] at the emission time.
+- [01:09:51,626 - 01:09:53,145] a today can just be
+- [01:09:53,145 - 01:09:54,026] thought of as a number.
+- [01:09:54,946 - 01:09:55,846] a at the emission time
+- [01:09:55,846 - 01:09:57,486] depends on the emission time.
+- [01:09:59,426 - 01:10:00,626] That's the factor
+- [01:10:00,626 - 01:10:01,866] by which the wavelength
+- [01:10:01,866 - 01:10:03,966] of an electromagnetic wave
+- [01:10:03,966 - 01:10:04,886] will stretch,
+- [01:10:05,026 - 01:10:06,866] and going from here to here.
+- [01:10:07,826 - 01:10:08,846] And that's,
+- [01:10:08,846 - 01:10:09,226] in fact,
+- [01:10:09,286 - 01:10:10,366] the redshift factor.
+- [01:10:11,566 - 01:10:12,246] Oh,
+- [01:10:12,246 - 01:10:13,906] we should define redshift carefully.
+- [01:10:14,186 - 01:10:15,846] Let's define redshift carefully.
+- [01:10:16,126 - 01:10:17,886] It is the ratio of
+- [01:10:18,766 - 01:10:19,446] lambda
+- [01:10:19,446 - 01:10:21,506] when it's detected
+- [01:10:21,506 - 01:10:21,766] when it's detected
+- [01:10:21,766 - 01:10:25,566] when it's detected
+- [01:10:25,566 - 01:10:27,246] divided by lambda emitted
+- [01:10:27,246 - 01:10:29,606] when it's detected
+- [01:10:29,606 - 01:10:31,426] and that's not quite right.
+- [01:10:31,866 - 01:10:33,226] Is it minus one
+- [01:10:33,226 - 01:10:34,506] or plus one times that?
+- [01:10:35,586 - 01:10:36,426] Minus one.
+- [01:10:38,226 - 01:10:39,126] Minus one.
+- [01:10:40,306 - 01:10:42,026] Why is the minus one there?
+- [01:10:42,126 - 01:10:43,306] For historical reasons.
+- [01:10:43,666 - 01:10:45,126] And it's called z.
+- [01:10:48,026 - 01:10:49,406] z is the redshift.
+- [01:10:51,986 - 01:10:53,746] And lambda detected
+- [01:10:53,746 - 01:10:55,066] over lambda emitted
+- [01:10:55,066 - 01:10:56,966] is just the ratio of
+- [01:10:56,966 - 01:10:58,166] a today over a of t.
+- [01:10:59,506 - 01:11:00,926] So we look back
+- [01:11:00,926 - 01:11:02,426] along a light ray
+- [01:11:02,426 - 01:11:05,006] we see light emitted
+- [01:11:05,846 - 01:11:06,726] over here,
+- [01:11:06,806 - 01:11:08,086] we see light emitted over here,
+- [01:11:08,146 - 01:11:09,406] we see light emitted over here,
+- [01:11:09,526 - 01:11:11,526] and each emission
+- [01:11:11,526 - 01:11:13,286] has a different redshift factor.
+- [01:11:13,566 - 01:11:15,046] The redshift factor
+- [01:11:15,046 - 01:11:16,206] are
+- [01:11:16,206 - 01:11:19,386] the two
+- [01:11:19,406 - 01:11:21,746] this minus one
+- [01:11:21,746 - 01:11:22,746] is equal to z.
+- [01:11:25,426 - 01:11:26,286] a today,
+- [01:11:26,286 - 01:11:26,726] yeah,
+- [01:11:26,786 - 01:11:28,706] this minus one is equal to z.
+- [01:11:30,006 - 01:11:31,386] So if we know
+- [01:11:31,386 - 01:11:32,966] the scale factor
+- [01:11:32,966 - 01:11:34,046] at the time of emission
+- [01:11:34,046 - 01:11:36,226] then we know what z is.
+- [01:11:38,166 - 01:11:38,666] Okay,
+- [01:11:38,666 - 01:11:39,186] so that's good.
+- [01:11:52,106 - 01:11:53,726] But so far we don't know anything
+- [01:11:53,726 - 01:11:55,666] because we don't know how the light ray moves.
+- [01:11:56,506 - 01:11:57,486] Until we know how the
+- [01:11:57,486 - 01:11:59,266] light ray moves
+- [01:11:59,266 - 01:12:01,606] we don't know how to compare these points.
+- [01:12:01,846 - 01:12:03,566] So let's talk about how the light ray moves.
+- [01:12:04,206 - 01:12:05,726] Let's work out all the things we need
+- [01:12:05,726 - 01:12:07,526] and then I'll write down
+- [01:12:07,526 - 01:12:08,646] some equations for you
+- [01:12:08,646 - 01:12:11,326] which an astronomer would actually
+- [01:12:11,326 - 01:12:11,986] work with.
+- [01:12:11,986 - 01:12:12,926] Okay,
+- [01:12:12,926 - 01:12:13,186] so
+- [01:12:13,186 - 01:12:14,026] what's the next thing?
+- [01:12:14,026 - 01:12:14,926] How does the light ray move?
+- [01:12:15,266 - 01:12:16,586] We go back to the metric.
+- [01:12:16,586 - 01:12:17,406] Here's the metric
+- [01:12:17,406 - 01:12:17,946] over here.
+- [01:12:19,506 - 01:12:21,686] And light rays are null rays.
+- [01:12:21,986 - 01:12:22,646] Light rays,
+- [01:12:22,926 - 01:12:24,026] in particular,
+- [01:12:24,026 - 01:12:25,186] light rays
+- [01:12:25,186 - 01:12:26,826] that are moving radially
+- [01:12:26,826 - 01:12:28,026] relative to us,
+- [01:12:28,026 - 01:12:28,966] here we are over here,
+- [01:12:29,126 - 01:12:31,206] light rays moving radially
+- [01:12:31,206 - 01:12:33,286] to us are null rays
+- [01:12:33,286 - 01:12:35,206] which means that dt
+- [01:12:35,206 - 01:12:37,186] squared is equal to a of t
+- [01:12:37,186 - 01:12:38,606] squared times dr squared.
+- [01:12:40,146 - 01:12:40,746] Alright,
+- [01:12:40,746 - 01:12:41,446] so we can write
+- [01:12:41,446 - 01:12:42,746] then for a null ray,
+- [01:12:42,746 - 01:12:43,486] for a light ray
+- [01:12:43,486 - 01:12:44,726] moving backward like that,
+- [01:12:44,926 - 01:12:47,246] an imaginary backward moving light ray,
+- [01:12:47,406 - 01:12:48,846] that dt
+- [01:12:55,126 - 01:12:55,606] dt
+- [01:12:55,606 - 01:12:55,826] dt
+- [01:12:55,826 - 01:12:57,246] dt is equal to
+- [01:12:57,246 - 01:12:58,826] a of t dr.
+- [01:12:59,106 - 01:13:00,786] Now I don't quite have it right here.
+- [01:13:01,506 - 01:13:02,846] I have the sign wrong.
+- [01:13:03,946 - 01:13:04,426] Um
+- [01:13:04,906 - 01:13:05,386] Of
+- [01:13:07,186 - 01:13:08,966] course what's true is d t squared
+- [01:13:08,966 - 01:13:11,266] is equal to a of t squared times dr squared.
+- [01:13:11,786 - 01:13:13,126] Now there are two solutions.
+- [01:13:13,526 - 01:13:15,046] One for going back into
+- [01:13:15,046 - 01:13:17,346] the past and one that's going forward
+- [01:13:17,346 - 01:13:17,746] in time.
+- [01:13:17,746 - 01:13:19,306] Obviously the one we're
+- [01:13:19,406 - 01:13:21,726] interested in is the one which goes back
+- [01:13:21,726 - 01:13:24,046] into the past and for that dt is equal
+- [01:13:24,046 - 01:13:28,476] to minus a over t dr all this says
+- [01:13:28,476 - 01:13:32,906] is that R gets bigger as T gets more
+- [01:13:32,906 - 01:13:36,546] negative as T gets more negative R
+- [01:13:36,546 - 01:13:40,186] gets bigger alright so there's this funny
+- [01:13:40,186 - 01:13:44,516] minus sign there it's a peculiar minus sign
+- [01:13:44,516 - 01:13:48,846] or well more that dr dr is equal to
+- [01:13:48,846 - 01:13:52,626] dt over a of T with a minus sign
+- [01:13:52,626 - 01:13:56,406] alright so this is one equation and that tells
+- [01:13:56,406 - 01:14:01,306] us how light moves that tells us how
+- [01:14:01,306 - 01:14:06,206] light moves along here and let's now see
+- [01:14:06,206 - 01:14:09,596] if we can invent an equation and
+- [01:14:09,596 - 01:14:12,986] invent a question that an astronomer would be
+- [01:14:12,986 - 01:14:13,626] interested in
+- [01:14:19,086 - 01:14:22,316] here's the question what is the number
+- [01:14:22,316 - 01:14:25,546] of visible galaxies of a given redshift
+- [01:14:25,546 - 01:14:29,596] that just that what is the number of
+- [01:14:29,596 - 01:14:33,646] let's call it dn the number of galaxies
+- [01:14:33,646 - 01:14:39,246] within redshift z and z plus dz
+- [01:14:39,246 - 01:14:44,846] the number of visible galaxies per unit
+- [01:14:44,846 - 01:14:48,166] redshift that's something that surely can be measured
+- [01:14:48,846 - 01:14:50,586] look out you see the galaxies
+- [01:14:50,586 - 01:14:52,326] or if they're galaxies or whatever the
+- [01:14:52,326 - 01:14:55,136] standard candles are and you count the
+- [01:14:55,136 - 01:14:57,946] number at each redshift that will give
+- [01:14:57,946 - 01:14:59,436] you dn dz let's see if we
+- [01:14:59,436 - 01:15:00,926] can figure out an equation for it
+- [01:15:01,606 - 01:15:05,866] what about dn what about dn dn
+- [01:15:09,446 - 01:15:13,526] let's just take that to be the number
+- [01:15:13,526 - 01:15:17,606] of galaxies within a sphere of radius R and
+- [01:15:17,606 - 01:15:18,826] differential r
+- [01:15:18,846 - 01:15:21,496] a distance dr what's that going to be
+- [01:15:21,496 - 01:15:24,146] it's going to be equal to the area of
+- [01:15:24,146 - 01:15:28,046] the sphere times d r so dn is going
+- [01:15:28,046 - 01:15:31,946] to be dr and what's the area of the sphere
+- [01:15:34,546 - 01:15:38,346] nope not in general not in general
+- [01:15:38,346 - 01:15:42,146] that would be correct in flat space in
+- [01:15:42,146 - 01:15:45,246] general that's proportional to C of R squared
+- [01:15:45,766 - 01:15:46,066] yeah
+- [01:15:46,726 - 01:15:47,326] ok
+- [01:15:48,226 - 01:15:48,826] yeah
+- [01:15:48,826 - 01:15:48,886] In other words,
+- [01:15:48,886 - 01:15:53,586] in the case of interest where k is negative,
+- [01:15:53,586 - 01:15:57,346] this would be hyperbolic sine of r,
+- [01:15:57,346 - 01:16:00,086] and at large distances it would be some exponential.
+- [01:16:00,986 - 01:16:03,086] But of course we can study all of the cases.
+- [01:16:03,246 - 01:16:06,036] We can study all of the cases
+- [01:16:06,036 - 01:16:08,826] simultaneously by putting psi of r squared.
+- [01:16:09,126 - 01:16:09,846] Times what?
+- [01:16:09,986 - 01:16:11,706] Times a number which is the
+- [01:16:11,706 - 01:16:13,426] number of galaxies per unit volume.
+- [01:16:14,126 - 01:16:15,686] But let's leave that out.
+- [01:16:15,726 - 01:16:17,586] Let's just write proportional to.
+- [01:16:18,826 - 01:16:22,286] The number of galaxies within a shell is
+- [01:16:22,286 - 01:16:25,746] proportional to dr times psi of r squared.
+- [01:16:25,986 - 01:16:27,166] Now what about dz?
+- [01:16:28,146 - 01:16:29,246] Let's look at z.
+- [01:16:29,346 - 01:16:29,806] Here's z.
+- [01:16:31,885 - 01:16:37,765] And we're interested in the change in z from going
+- [01:16:37,765 - 01:16:43,646] from one radial point to another radial point at distance dr.
+- [01:16:44,026 - 01:16:45,866] How much does z change?
+- [01:16:47,306 - 01:16:47,666] Well,
+- [01:16:47,666 - 01:16:48,506] let's just.
+- [01:16:48,826 - 01:16:51,186] Take this equation here and differentiate it.
+- [01:16:51,945 - 01:16:57,266] dz is equal to derivative of minus one to zero.
+- [01:16:58,126 - 01:16:59,086] a today.
+- [01:16:59,486 - 01:17:01,186] What's varying incidentally?
+- [01:17:01,186 - 01:17:02,086] Is a today varying?
+- [01:17:02,686 - 01:17:03,246] No,
+- [01:17:03,246 - 01:17:04,246] a today isn't varying.
+- [01:17:04,326 - 01:17:05,726] a today is just a today.
+- [01:17:06,206 - 01:17:08,516] What's varying as you look back along
+- [01:17:08,516 - 01:17:10,826] here is a at the emission point.
+- [01:17:11,386 - 01:17:12,286] a of t.
+- [01:17:13,066 - 01:17:14,906] So that's equal to a today.
+- [01:17:17,646 - 01:17:18,606] And I want to.
+- [01:17:18,826 - 01:17:19,906] Differentiate one over a.
+- [01:17:20,326 - 01:17:24,366] So that's minus a of t squared.
+- [01:17:25,986 - 01:17:28,256] Different derivative of one over a is one
+- [01:17:28,256 - 01:17:30,526] of a of t squared times da right.
+- [01:17:34,206 - 01:17:35,146] Da of t.
+- [01:17:36,306 - 01:17:38,066] Everybody recognize that equation.
+- [01:17:41,786 - 01:17:43,766] So we have to divide by dz.
+- [01:17:45,126 - 01:17:45,726] Let's.
+- [01:17:45,726 - 01:17:46,286] See.
+- [01:17:48,186 - 01:17:48,786] That's.
+- [01:17:48,806 - 01:17:49,306] Minus.
+- [01:17:49,606 - 01:17:50,866] A today.
+- [01:17:53,826 - 01:17:55,926] Over a squared.
+- [01:17:59,666 - 01:18:00,506] Da.
+- [01:18:06,846 - 01:18:08,026] What is da?
+- [01:18:09,186 - 01:18:11,486] Da is da by dt.
+- [01:18:15,266 - 01:18:16,326] Times dt.
+- [01:18:16,486 - 01:18:17,186] So.
+- [01:18:17,946 - 01:18:18,366] That's.
+- [01:18:18,366 - 01:18:19,606] I haven't done anything.
+- [01:18:19,786 - 01:18:21,686] I've just manipulated the equation a little bit.
+- [01:18:21,726 - 01:18:22,166] What is dt?
+- [01:18:23,806 - 01:18:24,246] dt.
+- [01:18:25,566 - 01:18:26,006] Is.
+- [01:18:29,246 - 01:18:29,686] Dr.
+- [01:18:30,486 - 01:18:31,206] It's not quite.
+- [01:18:31,226 - 01:18:31,346] No,
+- [01:18:31,346 - 01:18:32,086] it's not quite dr.
+- [01:18:32,686 - 01:18:33,646] It's not quite dr.
+- [01:18:33,846 - 01:18:34,186] That's what.
+- [01:18:34,326 - 01:18:34,626] That's.
+- [01:18:35,246 - 01:18:35,686] No,
+- [01:18:35,686 - 01:18:36,866] we have dr by dt.
+- [01:18:37,026 - 01:18:37,946] What's dr by dt?
+- [01:18:38,886 - 01:18:39,626] Here it is.
+- [01:18:41,606 - 01:18:43,386] The r by dt is
+- [01:18:43,386 - 01:18:45,166] minus one over a of t.
+- [01:18:47,226 - 01:18:47,666] Right.
+- [01:18:48,366 - 01:18:49,146] Along the light ray.
+- [01:18:49,526 - 01:18:50,866] That's why I had to do this.
+- [01:18:51,326 - 01:18:53,066] That's why I have to figure out what that.
+- [01:18:53,206 - 01:18:53,666] So ba.
+- [01:18:53,846 - 01:18:54,266] Let's see.
+- [01:18:54,366 - 01:18:54,646] So d.
+- [01:18:58,266 - 01:19:00,366] Let's put the r by dt.
+- [01:19:02,066 - 01:19:04,866] And the r by dt is minus one over a.
+- [01:19:05,046 - 01:19:06,546] So that gets rid of the minus sign.
+- [01:19:08,266 - 01:19:10,106] And gives us a.
+- [01:19:12,426 - 01:19:13,766] Another a downstairs.
+- [01:19:14,786 - 01:19:15,226] Good.
+- [01:19:17,646 - 01:19:18,286] The a.
+- [01:19:18,366 - 01:19:18,866] The a's cancel.
+- [01:19:19,066 - 01:19:20,566] This a cancels this a.
+- [01:19:23,146 - 01:19:26,706] I don't like it.
+- [01:19:28,226 - 01:19:29,786] It's not what I have in my notes.
+- [01:19:44,106 - 01:19:44,566] Yes,
+- [01:19:44,566 - 01:19:44,786] it is.
+- [01:19:45,986 - 01:19:47,726] What's a today over a?
+- [01:19:52,506 - 01:19:53,546] z plus one.
+- [01:19:55,146 - 01:19:55,626] Okay.
+- [01:19:55,666 - 01:19:58,446] So a today over a is z plus one.
+- [01:20:03,446 - 01:20:03,926] Okay.
+- [01:20:04,046 - 01:20:04,526] Okay.
+- [01:20:04,646 - 01:20:06,406] So here I have the number
+- [01:20:06,406 - 01:20:08,166] of galaxies seen at redshift z.
+- [01:20:09,066 - 01:20:11,306] Contains a factor one over z plus one.
+- [01:20:11,486 - 01:20:11,866] Okay.
+- [01:20:11,906 - 01:20:13,286] That's just.
+- [01:20:13,606 - 01:20:15,066] That's known if we know z.
+- [01:20:15,486 - 01:20:17,886] And then we have c of r divided by.
+- [01:20:18,366 - 01:20:18,646] A dot.
+- [01:20:19,926 - 01:20:21,386] What can we do with that?
+- [01:20:21,546 - 01:20:21,846] All right.
+- [01:20:21,866 - 01:20:23,006] Let's see what we can do with it.
+- [01:20:23,946 - 01:20:24,306] Um.
+- [01:20:26,906 - 01:20:27,446] We can.
+- [01:20:30,366 - 01:20:31,886] There's nothing we can do with it now.
+- [01:20:32,026 - 01:20:33,376] There's nothing we can do with
+- [01:20:33,376 - 01:20:34,726] it until we make a model.
+- [01:20:36,046 - 01:20:37,266] Until we make a model.
+- [01:20:39,345 - 01:20:40,586] So let's make a model.
+- [01:20:40,706 - 01:20:42,286] Let's make a model and see what we get.
+- [01:20:43,866 - 01:20:45,406] Do we really want to do this now?
+- [01:20:45,606 - 01:20:45,886] Yeah.
+- [01:20:46,046 - 01:20:46,906] Let's do it.
+- [01:20:46,926 - 01:20:47,246] All right.
+- [01:20:47,266 - 01:20:47,906] Let's make a model.
+- [01:20:48,366 - 01:20:51,046] Our model is the matter dominated universe.
+- [01:20:51,446 - 01:20:53,936] Let's take the matter dominated
+- [01:20:53,936 - 01:20:56,426] universe with k equals minus one.
+- [01:20:56,866 - 01:20:58,696] And for the matter dominated
+- [01:20:58,696 - 01:21:00,526] universe for most of the evolution.
+- [01:21:01,726 - 01:21:02,246] Again,
+- [01:21:02,246 - 01:21:04,326] a looks like t to
+- [01:21:04,326 - 01:21:06,406] the one to the two thirds.
+- [01:21:07,886 - 01:21:08,946] Here's what we want to do.
+- [01:21:09,026 - 01:21:10,326] I'm not going to go through
+- [01:21:10,326 - 01:21:11,626] the whole go through the whole story.
+- [01:21:13,306 - 01:21:15,146] We can calculate a dot.
+- [01:21:16,366 - 01:21:17,406] A dot.
+- [01:21:17,586 - 01:21:18,346] Is equal to.
+- [01:21:18,366 - 01:21:19,026] Two thirds.
+- [01:21:20,946 - 01:21:22,846] Divided by one over t to the one third.
+- [01:21:23,766 - 01:21:25,006] We calculate a dot.
+- [01:21:25,246 - 01:21:26,286] What about r?
+- [01:21:26,546 - 01:21:27,546] Can we calculate r?
+- [01:21:27,746 - 01:21:27,986] Yes,
+- [01:21:27,986 - 01:21:29,086] we can calculate r.
+- [01:21:29,526 - 01:21:30,926] Once we know a of t.
+- [01:21:32,226 - 01:21:33,846] We can calculate r.
+- [01:21:34,206 - 01:21:35,446] I won't do the calculation.
+- [01:21:35,886 - 01:21:37,926] But we also know r of t.
+- [01:21:38,806 - 01:21:39,466] It's known.
+- [01:21:39,586 - 01:21:40,766] We can compute it.
+- [01:21:42,506 - 01:21:42,986] Moreover.
+- [01:21:44,446 - 01:21:45,706] Once we know a.
+- [01:21:46,406 - 01:21:47,866] We can calculate z.
+- [01:21:49,266 - 01:21:51,986] The point is that everything a,
+- [01:21:51,986 - 01:21:52,686] a dot,
+- [01:21:52,686 - 01:21:55,606] r can all be expressed in terms of z.
+- [01:21:56,746 - 01:21:59,046] We know that and a today.
+- [01:21:59,266 - 01:22:02,026] We know the relationship between a and z.
+- [01:22:03,866 - 01:22:06,306] We know the relation between a and t.
+- [01:22:07,426 - 01:22:08,606] In other words,
+- [01:22:08,606 - 01:22:10,786] we can write everything in terms of z.
+- [01:22:11,426 - 01:22:13,846] Everything here is known in terms of z.
+- [01:22:14,086 - 01:22:16,186] And so we get a
+- [01:22:16,186 - 01:22:18,286] thing here which depends on z.
+- [01:22:18,366 - 01:22:20,336] But it's known only because
+- [01:22:20,336 - 01:22:22,306] we substituted a particular model.
+- [01:22:22,606 - 01:22:24,926] Had I used a different equation of state,
+- [01:22:24,926 - 01:22:26,126] I would get a different answer.
+- [01:22:27,266 - 01:22:28,366] C of r.
+- [01:22:28,566 - 01:22:29,766] That's an interesting quantity.
+- [01:22:30,405 - 01:22:32,806] That exponentially increases with r.
+- [01:22:33,126 - 01:22:34,486] That's easy to detect.
+- [01:22:34,906 - 01:22:36,766] That's really easy to detect.
+- [01:22:36,886 - 01:22:37,646] That C of r,
+- [01:22:37,646 - 01:22:40,346] this explosive thing which just increases with r.
+- [01:22:40,985 - 01:22:43,946] That means since r increases with redshift,
+- [01:22:43,946 - 01:22:47,946] that makes an anomalously large number of galaxies.
+- [01:22:47,946 - 01:22:49,346] A large redshift.
+- [01:22:50,846 - 01:22:52,306] If k is negative.
+- [01:22:52,986 - 01:22:54,876] And a dot can be
+- [01:22:54,876 - 01:22:56,766] computed directly in terms of z.
+- [01:22:57,406 - 01:22:58,006] In other words,
+- [01:22:58,006 - 01:23:00,566] the point is with enough little bit of labor,
+- [01:23:00,566 - 01:23:02,266] you can take a model which
+- [01:23:02,266 - 01:23:03,966] means an a and a k.
+- [01:23:04,206 - 01:23:06,566] And convert it into a statement of
+- [01:23:06,566 - 01:23:08,926] how many galaxies you see per unit redshift.
+- [01:23:10,326 - 01:23:13,636] Together with the other piece of information
+- [01:23:13,636 - 01:23:16,946] which was the relationship between redshift and luminosity.
+- [01:23:18,286 - 01:23:21,906] Those two bits of information together can give you
+- [01:23:21,906 - 01:23:25,526] a complete history of the expansion of the universe.
+- [01:23:25,806 - 01:23:29,526] That's enough to give you a complete description of the expansion
+- [01:23:29,526 - 01:23:33,246] of the universe and to tell you what C of r is.
+- [01:23:33,986 - 01:23:36,006] I've assumed something about C of r,
+- [01:23:36,006 - 01:23:36,986] but I didn't have to.
+- [01:23:37,406 - 01:23:39,826] I could have done this calculation in flat space.
+- [01:23:40,006 - 01:23:41,946] I could have done it in a closed universe.
+- [01:23:43,066 - 01:23:46,226] The two pieces of information are...
+- [01:23:47,406 - 01:23:47,926] are...
+- [01:23:47,926 - 01:23:48,206] um...
+- [01:23:51,786 - 01:23:52,906] redshift or...
+- [01:23:54,586 - 01:23:55,706] not redshift...
+- [01:23:57,186 - 01:23:59,306] luminosity as a function of redshift.
+- [01:24:00,206 - 01:24:04,966] And the number of galaxies as a function of redshift.
+- [01:24:05,746 - 01:24:08,526] Those two things together are enough
+- [01:24:08,526 - 01:24:11,306] to determine A of t and k.
+- [01:24:11,526 - 01:24:13,586] Whether it's plus one or minus one or zero.
+- [01:24:14,426 - 01:24:14,986] Alright,
+- [01:24:14,986 - 01:24:15,686] so you do that.
+- [01:24:16,426 - 01:24:17,266] Astronomers do that.
+- [01:24:17,266 - 01:24:18,946] They've been doing it for fifty years or more.
+- [01:24:19,446 - 01:24:21,306] And the final upshot...
+- [01:24:22,286 - 01:24:25,666] is first of all inconsistent with
+- [01:24:25,666 - 01:24:29,046] this matter dominated universe with k equals...
+- [01:24:29,686 - 01:24:31,186] with k being negative.
+- [01:24:31,566 - 01:24:33,326] What it's consistent with...
+- [01:24:33,326 - 01:24:34,246] the best fit...
+- [01:24:34,246 - 01:24:35,546] the best fit from...
+- [01:24:36,286 - 01:24:36,926] Incidentally,
+- [01:24:36,926 - 01:24:38,006] when I say galaxies,
+- [01:24:38,006 - 01:24:40,766] I mean standard candles of some kind.
+- [01:24:40,986 - 01:24:43,376] And the standard candles which are best
+- [01:24:43,376 - 01:24:45,766] at the redshift we're interested in are supernovae.
+- [01:24:47,266 - 01:24:50,446] Supernovae are things which are very controllable.
+- [01:24:50,945 - 01:24:52,226] We can't control them,
+- [01:24:52,226 - 01:24:52,926] but we can...
+- [01:24:52,926 - 01:24:54,726] Nature controls them.
+- [01:24:55,586 - 01:24:56,306] And...
+- [01:24:56,966 - 01:24:58,206] the result is...
+- [01:24:59,266 - 01:25:01,426] not this formula at all...
+- [01:25:02,326 - 01:25:03,046] but...
+- [01:25:05,945 - 01:25:06,926] omega radiation,
+- [01:25:06,926 - 01:25:07,466] again,
+- [01:25:07,466 - 01:25:09,166] essentially equal to zero.
+- [01:25:10,806 - 01:25:12,246] Omega matter...
+- [01:25:12,246 - 01:25:15,986] and this includes both dark matter and luminous matter.
+- [01:25:15,986 - 01:25:19,446] Dark matter and luminous matter about point three.
+- [01:25:23,326 - 01:25:24,726] Omega lambda...
+- [01:25:24,726 - 01:25:26,806] about point seven.
+- [01:25:29,806 - 01:25:30,506] And...
+- [01:25:30,506 - 01:25:33,146] omega k about zero.
+- [01:25:36,346 - 01:25:38,226] This is observational fact.
+- [01:25:38,566 - 01:25:40,706] Very little theory has gone into this.
+- [01:25:40,946 - 01:25:41,406] Well,
+- [01:25:41,406 - 01:25:43,226] theory has gone into it,
+- [01:25:43,226 - 01:25:43,626] but...
+- [01:25:43,626 - 01:25:46,606] no particular biases about...
+- [01:25:47,586 - 01:25:48,926] what to expect.
+- [01:25:50,766 - 01:25:53,606] This is pretty much what the unbiased raw data says.
+- [01:25:53,766 - 01:25:54,366] And zero,
+- [01:25:54,366 - 01:25:55,106] he means...
+- [01:25:55,426 - 01:25:56,526] it could be point one,
+- [01:25:56,526 - 01:25:58,226] or it could be minus point one.
+- [01:25:58,846 - 01:25:59,326] But...
+- [01:25:59,326 - 01:25:59,606] No,
+- [01:25:59,606 - 01:25:59,806] no,
+- [01:25:59,806 - 01:25:59,946] no,
+- [01:25:59,946 - 01:26:00,206] no,
+- [01:26:00,206 - 01:26:00,366] no,
+- [01:26:00,366 - 01:26:00,426] no,
+- [01:26:00,426 - 01:26:01,046] take that back.
+- [01:26:01,186 - 01:26:02,446] Point oh one.
+- [01:26:03,666 - 01:26:05,766] Could be point oh...
+- [01:26:08,966 - 01:26:10,626] point oh one.
+- [01:26:11,486 - 01:26:12,546] Plus or minus.
+- [01:26:13,626 - 01:26:15,426] It could be that small.
+- [01:26:15,686 - 01:26:16,606] Or it could be that big.
+- [01:26:17,226 - 01:26:19,586] Omega lambda is about point seven.
+- [01:26:19,786 - 01:26:21,526] Omega matter about point three.
+- [01:26:21,566 - 01:26:22,646] That's the best fit...
+- [01:26:22,646 - 01:26:25,826] to these various pieces of information here...
+- [01:26:26,345 - 01:26:29,766] using models which depend on the equation of state.
+- [01:26:30,346 - 01:26:30,866] Okay?
+- [01:26:32,006 - 01:26:32,646] So...
+- [01:26:34,586 - 01:26:36,266] Just from counting...
+- [01:26:36,266 - 01:26:37,506] just from counting galaxies,
+- [01:26:37,506 - 01:26:39,246] redshift and...
+- [01:26:39,246 - 01:26:41,106] and luminosity...
+- [01:26:41,106 - 01:26:42,306] that's the picture that emerges.
+- [01:26:45,766 - 01:26:46,886] Why is...
+- [01:26:46,886 - 01:26:47,646] I thought...
+- [01:26:47,646 - 01:26:49,286] I thought lambda wasn't even known yet.
+- [01:26:49,546 - 01:26:50,106] No,
+- [01:26:50,106 - 01:26:50,266] no,
+- [01:26:50,266 - 01:26:51,226] I'm talking about today.
+- [01:26:52,166 - 01:26:53,746] Now I'm talking about today.
+- [01:26:53,826 - 01:26:54,566] This model...
+- [01:26:54,566 - 01:26:55,566] This theory failed.
+- [01:26:56,086 - 01:26:57,006] It failed.
+- [01:26:57,026 - 01:26:57,886] It failed this test.
+- [01:26:58,106 - 01:27:00,286] It just could not reproduce the...
+- [01:27:00,286 - 01:27:02,226] the observed luminosity...
+- [01:27:03,666 - 01:27:06,066] luminosity z relation and dn dz.
+- [01:27:06,306 - 01:27:06,646] Just...
+- [01:27:06,646 - 01:27:07,166] Just failed.
+- [01:27:07,886 - 01:27:08,446] So...
+- [01:27:08,446 - 01:27:09,856] So the way we know
+- [01:27:09,856 - 01:27:11,266] omega lambda is from the equation?
+- [01:27:12,066 - 01:27:13,106] We're not measuring...
+- [01:27:13,106 - 01:27:13,606] We're not measuring the...
+- [01:27:13,606 - 01:27:13,846] Yeah.
+- [01:27:14,326 - 01:27:14,826] No,
+- [01:27:14,826 - 01:27:15,626] you put in...
+- [01:27:15,626 - 01:27:15,786] Yeah.
+- [01:27:21,306 - 01:27:23,566] You put in numbers for these things.
+- [01:27:23,726 - 01:27:26,326] The model consists of numbers for these things.
+- [01:27:28,386 - 01:27:29,786] That's what goes into the model.
+- [01:27:30,826 - 01:27:32,626] A value of omega k,
+- [01:27:32,626 - 01:27:34,066] a value of omega lambda,
+- [01:27:34,066 - 01:27:35,666] and a value of omega matter.
+- [01:27:35,946 - 01:27:37,626] Or equivalently...
+- [01:27:39,126 - 01:27:40,126] c matter...
+- [01:27:42,946 - 01:27:43,386] c is the value of lambda...
+- [01:27:43,386 - 01:27:44,526] Radiation is not important.
+- [01:27:46,566 - 01:27:47,446] Lambda and...
+- [01:27:49,206 - 01:27:49,646] k.
+- [01:27:51,506 - 01:27:52,346] I guess my...
+- [01:27:52,346 - 01:27:53,366] My question is...
+- [01:27:54,146 - 01:27:54,586] From...
+- [01:27:54,586 - 01:27:55,426] From what you're talking about,
+- [01:27:55,426 - 01:27:56,926] taking these measurements,
+- [01:27:56,926 - 01:27:57,866] just taking measurements,
+- [01:27:58,606 - 01:27:59,986] you said we could solve...
+- [01:27:59,986 - 01:28:01,006] We could kind of figure
+- [01:28:01,006 - 01:28:02,026] out what k had to be...
+- [01:28:02,026 - 01:28:02,406] No.
+- [01:28:02,426 - 01:28:04,746] Or what omega k and omega m had to be.
+- [01:28:04,886 - 01:28:05,566] Is that right?
+- [01:28:06,986 - 01:28:09,006] You have to process it through this.
+- [01:28:09,166 - 01:28:09,526] Right.
+- [01:28:10,926 - 01:28:11,626] You have to...
+- [01:28:12,365 - 01:28:12,726] You...
+- [01:28:12,726 - 01:28:13,846] This is what you begin with.
+- [01:28:15,106 - 01:28:15,466] No,
+- [01:28:15,466 - 01:28:15,646] no,
+- [01:28:15,646 - 01:28:15,766] no.
+- [01:28:15,766 - 01:28:16,366] You don't begin with this.
+- [01:28:16,426 - 01:28:18,166] You begin with a value of omega k,
+- [01:28:18,166 - 01:28:19,706] a value of omega lambda,
+- [01:28:19,706 - 01:28:21,526] a value of omega m,
+- [01:28:21,526 - 01:28:21,766] and a
+- [01:28:21,766 - 01:28:22,746] value of omega r.
+- [01:28:22,946 - 01:28:24,506] Just to get sort of a guess?
+- [01:28:24,906 - 01:28:25,266] No,
+- [01:28:25,266 - 01:28:25,406] no.
+- [01:28:25,426 - 01:28:26,186] You start with a number.
+- [01:28:26,286 - 01:28:27,286] You start with a set of numbers.
+- [01:28:27,946 - 01:28:29,286] That defines a model.
+- [01:28:29,786 - 01:28:31,106] Now you process it.
+- [01:28:31,186 - 01:28:32,866] Now you run it through the equations.
+- [01:28:32,966 - 01:28:33,966] You run it through the mill,
+- [01:28:33,966 - 01:28:35,986] and what you calculate is L of
+- [01:28:35,986 - 01:28:38,006] z and the n by the z.
+- [01:28:38,006 - 01:28:40,206] You compare them with experiment.
+- [01:28:40,626 - 01:28:41,746] If it fails,
+- [01:28:41,746 - 01:28:42,836] you throw the model away
+- [01:28:42,836 - 01:28:43,926] and put in some new numbers.
+- [01:28:44,886 - 01:28:46,206] And you keep trying numbers...
+- [01:28:46,826 - 01:28:48,146] What are you saying is that one works?
+- [01:28:48,366 - 01:28:49,286] That one works.
+- [01:28:50,106 - 01:28:51,066] That one works.
+- [01:28:52,686 - 01:28:54,206] With some uncertainties,
+- [01:28:54,206 - 01:28:55,606] but the uncertainties are not big.
+- [01:28:55,726 - 01:28:57,386] This one is rather small,
+- [01:28:57,386 - 01:28:58,426] 0.01.
+- [01:28:59,766 - 01:29:00,846] They're all small.
+- [01:29:01,026 - 01:29:01,526] They're all in...
+- [01:29:01,526 - 01:29:02,906] I think this is 0.28,
+- [01:29:02,906 - 01:29:03,466] if I remember.
+- [01:29:03,686 - 01:29:06,186] 2.8 and whatever.
+- [01:29:07,006 - 01:29:07,986] Let's call it 0.1.
+- [01:29:09,686 - 01:29:11,826] So they're known to about 1%.
+- [01:29:11,826 - 01:29:14,166] These numbers are known to about 1%.
+- [01:29:16,066 - 01:29:18,306] And if you vary them very much,
+- [01:29:18,306 - 01:29:19,386] much more than 1%,
+- [01:29:19,386 - 01:29:20,546] these tests fail.
+- [01:29:22,506 - 01:29:24,146] So a model then,
+- [01:29:24,146 - 01:29:24,606] again,
+- [01:29:24,606 - 01:29:29,286] a model consists of a specification of these values,
+- [01:29:29,506 - 01:29:34,406] which means the values of the various components here today.
+- [01:29:35,166 - 01:29:37,126] But you don't measure them completely.
+- [01:29:37,986 - 01:29:38,626] Some of them you measure,
+- [01:29:38,626 - 01:29:39,506] some you don't measure.
+- [01:29:39,986 - 01:29:41,826] But you just feed them in,
+- [01:29:41,826 - 01:29:43,726] grind the wheels,
+- [01:29:43,726 - 01:29:48,466] calculate A of t from the Friedmann equation.
+- [01:29:49,326 - 01:29:50,206] Calculate A of t.
+- [01:29:50,266 - 01:29:51,226] Once you have A of t,
+- [01:29:51,226 - 01:29:53,086] you can feed it into here,
+- [01:29:53,086 - 01:29:55,186] calculate the n by dz,
+- [01:29:55,186 - 01:29:57,426] and luminosity is a function of z,
+- [01:29:57,426 - 01:29:58,146] and test it.
+- [01:29:58,826 - 01:29:59,266] Yeah?
+- [01:29:59,566 - 01:30:01,646] Just to remind us,
+- [01:30:01,646 - 01:30:03,046] is A today,
+- [01:30:03,046 - 01:30:04,386] where does that come from,
+- [01:30:04,386 - 01:30:05,166] the Hubble constant?
+- [01:30:06,766 - 01:30:07,206] Yes.
+- [01:30:10,786 - 01:30:11,306] Well,
+- [01:30:11,306 - 01:30:12,606] once you have a model,
+- [01:30:12,606 - 01:30:14,206] you're juggling various things,
+- [01:30:14,206 - 01:30:15,706] but once you have a model
+- [01:30:15,706 - 01:30:17,206] that fits these two pieces of data,
+- [01:30:19,246 - 01:30:22,426] then you have an A as a function of time,
+- [01:30:22,426 - 01:30:24,766] and you can read off it what A today is.
+- [01:30:25,506 - 01:30:26,026] Yeah.
+- [01:30:27,446 - 01:30:30,606] And it's roughly speaking from the Hubble constant today.
+- [01:30:30,706 - 01:30:30,966] Yes,
+- [01:30:30,966 - 01:30:32,226] it's from the Hubble constant today.
+- [01:30:35,266 - 01:30:36,866] So that is one of the outputs.
+- [01:30:36,866 - 01:30:38,746] One of the outputs is A today.
+- [01:30:40,946 - 01:30:41,386] And...
+- [01:30:43,966 - 01:30:45,486] Earlier you said that,
+- [01:30:45,486 - 01:30:49,106] I think you said something along the lines of,
+- [01:30:49,106 - 01:30:51,466] you're doing this looking not that far back in time.
+- [01:30:52,386 - 01:30:54,166] If you were to have gathered this
+- [01:30:54,166 - 01:30:55,946] data by looking very far back in time,
+- [01:30:55,946 - 01:30:58,586] wouldn't that distort it because you'd be,
+- [01:30:58,726 - 01:31:00,366] maybe it's the same point,
+- [01:31:00,366 - 01:31:02,606] but you'd be looking back at it.
+- [01:31:02,946 - 01:31:03,506] You know,
+- [01:31:03,506 - 01:31:05,746] if you only took your data from very,
+- [01:31:05,746 - 01:31:06,846] very far in the past,
+- [01:31:06,846 - 01:31:10,806] the only term that's important here is this one.
+- [01:31:14,206 - 01:31:16,086] If you go to very small a,
+- [01:31:16,086 - 01:31:17,706] which means long in the past,
+- [01:31:17,706 - 01:31:20,006] this is simply much bigger than this and this.
+- [01:31:20,886 - 01:31:22,236] But is that something like
+- [01:31:22,236 - 01:31:23,586] if you're not going that far,
+- [01:31:23,586 - 01:31:23,746] I mean,
+- [01:31:23,746 - 01:31:26,626] let's say you look back a billion years to...
+- [01:31:26,626 - 01:31:26,726] Oh,
+- [01:31:26,726 - 01:31:27,946] a billion years is not very far.
+- [01:31:28,506 - 01:31:30,136] But that's not enough to distort
+- [01:31:30,136 - 01:31:31,766] the answers that you got from this.
+- [01:31:32,526 - 01:31:33,726] What do you mean to distort it?
+- [01:31:33,726 - 01:31:34,746] That's what you do.
+- [01:31:34,746 - 01:31:35,826] You go back a billion years,
+- [01:31:35,826 - 01:31:36,466] two billion years,
+- [01:31:36,466 - 01:31:37,186] three billion years,
+- [01:31:37,186 - 01:31:37,926] four billion years,
+- [01:31:37,926 - 01:31:40,626] and that's what...
+- [01:31:43,766 - 01:31:45,266] That's what goes into these equations.
+- [01:31:45,626 - 01:31:46,586] A of t.
+- [01:31:47,546 - 01:31:49,786] A of t as a function of t
+- [01:31:49,786 - 01:31:52,026] all the way back up to the present.
+- [01:31:54,166 - 01:31:54,646] Yeah.
+- [01:31:55,306 - 01:31:55,786] You...
+- [01:31:56,806 - 01:31:57,406] All right,
+- [01:31:57,406 - 01:31:58,346] let's go back through it again.
+- [01:31:58,526 - 01:32:00,636] You begin with a set
+- [01:32:00,636 - 01:32:02,746] of values of the matter density,
+- [01:32:03,006 - 01:32:04,686] the cosmology,
+- [01:32:04,746 - 01:32:05,826] the logical constant density,
+- [01:32:07,526 - 01:32:08,726] all of these.
+- [01:32:09,806 - 01:32:11,546] They go into the Friedman equation.
+- [01:32:12,306 - 01:32:13,436] I know your answer was
+- [01:32:13,436 - 01:32:14,566] for where do we come from?
+- [01:32:14,686 - 01:32:15,446] These numbers.
+- [01:32:16,146 - 01:32:16,626] No.
+- [01:32:17,306 - 01:32:18,106] I'm finished.
+- [01:32:18,346 - 01:32:19,226] You just invent them.
+- [01:32:20,046 - 01:32:20,326] No,
+- [01:32:20,326 - 01:32:20,846] but really,
+- [01:32:20,846 - 01:32:21,246] I mean,
+- [01:32:21,246 - 01:32:21,866] the...
+- [01:32:21,866 - 01:32:23,846] The ratio of that over the Hubble...
+- [01:32:23,846 - 01:32:24,426] Where did you get those values?
+- [01:32:28,206 - 01:32:30,046] We start with some other values.
+- [01:32:31,106 - 01:32:32,986] We feed them into here.
+- [01:32:32,986 - 01:32:36,186] We calculate the n by dz.
+- [01:32:36,426 - 01:32:37,726] That's an observable thing.
+- [01:32:37,866 - 01:32:39,086] The number of galaxies...
+- [01:32:39,086 - 01:32:41,026] How the number of galaxies varies with z.
+- [01:32:41,226 - 01:32:42,026] We observe it.
+- [01:32:42,506 - 01:32:44,006] We calculate l of z.
+- [01:32:44,126 - 01:32:45,726] That's also an observable thing.
+- [01:32:47,226 - 01:32:48,646] If the model doesn't work,
+- [01:32:48,826 - 01:32:50,626] we throw it away and try some new numbers.
+- [01:32:51,926 - 01:32:52,406] No,
+- [01:32:52,406 - 01:32:53,166] I understood all that.
+- [01:32:53,326 - 01:32:54,566] Where did you get those?
+- [01:32:56,446 - 01:32:57,726] I didn't get them.
+- [01:32:58,906 - 01:32:59,726] Trial and error.
+- [01:33:00,286 - 01:33:00,766] Trial and error.
+- [01:33:00,766 - 01:33:02,326] How did you ever know that would work?
+- [01:33:02,326 - 01:33:03,566] Trial and error.
+- [01:33:04,506 - 01:33:06,206] It fits the data the best.
+- [01:33:06,686 - 01:33:07,366] That's right.
+- [01:33:11,066 - 01:33:12,976] You have a machine that starts
+- [01:33:12,976 - 01:33:14,886] with a set of four numbers.
+- [01:33:16,406 - 01:33:18,246] This one is not important.
+- [01:33:18,406 - 01:33:20,286] Everybody knows that this is not important
+- [01:33:20,286 - 01:33:21,606] because you measure it directly.
+- [01:33:21,826 - 01:33:22,966] It's just too small to matter.
+- [01:33:23,866 - 01:33:25,766] So you put these in a Friedman's equation
+- [01:33:25,766 - 01:33:27,316] and that allows you to compute
+- [01:33:27,316 - 01:33:28,866] d and dz and l of z.
+- [01:33:29,026 - 01:33:30,726] And these numbers give you a good fit.
+- [01:33:30,726 - 01:33:31,446] Yeah,
+- [01:33:31,446 - 01:33:33,026] these numbers give you the best fit.
+- [01:33:34,046 - 01:33:34,606] Well,
+- [01:33:34,606 - 01:33:37,046] this is what you do with spreadsheets all the time.
+- [01:33:37,286 - 01:33:37,386] Yeah.
+- [01:33:38,946 - 01:33:40,066] All right.
+- [01:33:40,066 - 01:33:40,786] Some of them...
+- [01:33:40,786 - 01:33:40,986] Look,
+- [01:33:40,986 - 01:33:46,926] this one here is more or less measurable directly.
+- [01:33:47,886 - 01:33:48,446] Why?
+- [01:33:49,286 - 01:33:50,906] You can measure h.
+- [01:33:51,306 - 01:33:52,486] h is measurable.
+- [01:33:52,766 - 01:33:55,426] And you can measure the dark matter
+- [01:33:55,426 - 01:33:57,106] and the luminous matter together.
+- [01:33:57,466 - 01:33:58,446] And basically,
+- [01:33:58,446 - 01:33:59,426] omega m
+- [01:33:59,426 - 01:34:03,386] is the ratio of this factor over here,
+- [01:34:03,426 - 01:34:04,326] this one to this one.
+- [01:34:04,746 - 01:34:08,466] You measure the energy density in matter.
+- [01:34:09,106 - 01:34:10,686] You measure the Hubble constant.
+- [01:34:10,906 - 01:34:13,226] And the ratio of them is omega m.
+- [01:34:13,666 - 01:34:15,946] So that actually is measurable.
+- [01:34:16,866 - 01:34:19,746] It's really this one here,
+- [01:34:19,966 - 01:34:20,786] which was the unknown.
+- [01:34:22,386 - 01:34:22,946] So,
+- [01:34:22,946 - 01:34:23,586] all right.
+- [01:34:23,606 - 01:34:24,786] So what can you say?
+- [01:34:25,346 - 01:34:28,026] This one is pretty much directly measurable,
+- [01:34:28,026 - 01:34:28,846] omega matter.
+- [01:34:29,326 - 01:34:30,506] And it's 0.3.
+- [01:34:30,646 - 01:34:32,626] With an assumption about dark matter.
+- [01:34:32,766 - 01:34:33,146] Hmm?
+- [01:34:33,346 - 01:34:34,726] With an assumption about dark matter.
+- [01:34:35,146 - 01:34:35,726] Yeah.
+- [01:34:35,946 - 01:34:37,286] Including the dark matter,
+- [01:34:37,506 - 01:34:40,086] omega m is about 0.3.
+- [01:34:41,646 - 01:34:44,186] These two are the ones which are not known.
+- [01:34:44,566 - 01:34:45,826] But what is known,
+- [01:34:46,086 - 01:34:47,626] at least in theory,
+- [01:34:47,886 - 01:34:49,746] is that this plus this
+- [01:34:49,746 - 01:34:51,606] plus this has to equal 1.
+- [01:34:53,266 - 01:34:55,906] This plus this plus this has to equal 1.
+- [01:34:56,886 - 01:34:57,906] This one is known.
+- [01:34:59,426 - 01:34:59,786] Therefore,
+- [01:34:59,786 - 01:35:00,606] this one follows.
+- [01:35:02,486 - 01:35:04,366] But you want to do better than that.
+- [01:35:04,906 - 01:35:06,286] Really what you want to do is,
+- [01:35:06,366 - 01:35:07,706] you really want to do better than that.
+- [01:35:07,746 - 01:35:08,726] You just don't want to say,
+- [01:35:09,326 - 01:35:09,686] well,
+- [01:35:09,686 - 01:35:10,686] this was 0.3.
+- [01:35:13,106 - 01:35:14,586] This one's not really known.
+- [01:35:14,806 - 01:35:16,106] Nobody's ever measured the curvature.
+- [01:35:17,426 - 01:35:18,146] And therefore,
+- [01:35:18,146 - 01:35:20,545] this one must be 0.7.
+- [01:35:20,686 - 01:35:21,766] That's not what you want to do.
+- [01:35:22,186 - 01:35:24,126] You want to take this as given,
+- [01:35:24,126 - 01:35:25,826] this is unknown,
+- [01:35:26,746 - 01:35:28,106] and omega k,
+- [01:35:28,106 - 01:35:29,306] whatever it is,
+- [01:35:29,345 - 01:35:30,345] to fill up the difference.
+- [01:35:32,466 - 01:35:32,946] Okay?
+- [01:35:33,606 - 01:35:34,345] You with me?
+- [01:35:35,206 - 01:35:36,545] You take this one as known,
+- [01:35:37,386 - 01:35:38,586] this one as unknown,
+- [01:35:38,885 - 01:35:41,505] but we'll put it in as a trial.
+- [01:35:42,286 - 01:35:44,246] And omega k is just what's left over.
+- [01:35:45,486 - 01:35:47,505] We put that into these equations.
+- [01:35:48,686 - 01:35:49,666] We run it,
+- [01:35:49,686 - 01:35:52,005] and we calculate L of z in dn by dz.
+- [01:35:53,066 - 01:35:54,106] Having done that,
+- [01:35:54,126 - 01:35:55,366] we just look for the best fit.
+- [01:35:56,066 - 01:35:57,806] I think I probably didn't say this clearly,
+- [01:35:58,446 - 01:36:00,925] so let me just try it once more.
+- [01:36:02,806 - 01:36:03,606] These two,
+- [01:36:03,606 - 01:36:04,425] this one and this one,
+- [01:36:04,465 - 01:36:04,866] are measurable.
+- [01:36:05,086 - 01:36:06,146] This is negligible.
+- [01:36:06,446 - 01:36:07,545] This is 0.3.
+- [01:36:08,586 - 01:36:09,626] These two are unknown,
+- [01:36:10,206 - 01:36:11,506] but what's known is that
+- [01:36:11,506 - 01:36:12,806] the sum of all of them
+- [01:36:12,806 - 01:36:13,626] should add up to 1.
+- [01:36:14,926 - 01:36:15,505] All right?
+- [01:36:15,826 - 01:36:16,266] So,
+- [01:36:16,266 - 01:36:19,686] we take a test value for omega lambda.
+- [01:36:21,186 - 01:36:23,666] That tells us what lambda is.
+- [01:36:23,666 - 01:36:26,266] We run it through the Friedmann equations,
+- [01:36:26,606 - 01:36:28,366] find out what A of t is.
+- [01:36:29,146 - 01:36:30,946] Having computed A of t,
+- [01:36:31,226 - 01:36:33,306] we go to this blackboard over here
+- [01:36:33,306 - 01:36:37,126] and compute the observable signature,
+- [01:36:37,366 - 01:36:39,986] the number of galaxies per unit z,
+- [01:36:40,186 - 01:36:44,526] and the relationship between z and luminosity.
+- [01:36:45,206 - 01:36:47,646] The relation between z and luminosity
+- [01:36:47,646 - 01:36:52,546] is a generalization of Hubble's original calculation.
+- [01:36:54,546 - 01:36:56,686] Luminosity is distance.
+- [01:36:57,246 - 01:36:58,986] Z is velocity.
+- [01:36:59,446 - 01:37:01,206] The only reason we have to do better
+- [01:37:01,206 - 01:37:03,466] is because we're looking at it at different times.
+- [01:37:04,966 - 01:37:05,626] All right?
+- [01:37:06,046 - 01:37:06,526] So,
+- [01:37:06,526 - 01:37:08,766] the additional ingredient
+- [01:37:09,626 - 01:37:12,166] is to have these curves
+- [01:37:12,166 - 01:37:14,946] knowing how light moves and so forth.
+- [01:37:15,226 - 01:37:16,686] That involves the model.
+- [01:37:16,806 - 01:37:18,266] That involves the details of the model.
+- [01:37:18,426 - 01:37:20,626] But once you put the details of the model in,
+- [01:37:20,726 - 01:37:21,946] you look for your best fit.
+- [01:37:22,666 - 01:37:23,646] And the best fit is the one
+- [01:37:23,646 - 01:37:24,866] that's the best fit is with these numbers here.
+- [01:37:24,966 - 01:37:27,226] So the last two you treat as adjustable parameters?
+- [01:37:27,466 - 01:37:28,566] Last two you treat...
+- [01:37:28,566 - 01:37:28,706] Well,
+- [01:37:28,706 - 01:37:29,546] only one of them
+- [01:37:29,546 - 01:37:31,106] because they have to sum to...
+- [01:37:31,746 - 01:37:32,626] That's sort of a question.
+- [01:37:32,726 - 01:37:33,546] Why just one of them?
+- [01:37:33,606 - 01:37:33,806] I mean,
+- [01:37:33,806 - 01:37:35,446] both of them appear in the equation.
+- [01:37:36,066 - 01:37:39,986] So why couldn't you guess lambda equals 0.4
+- [01:37:39,986 - 01:37:43,746] and k equals 0.3 or something like that?
+- [01:37:44,046 - 01:37:44,206] No,
+- [01:37:44,206 - 01:37:44,306] no.
+- [01:37:44,346 - 01:37:45,206] I have to add up to one.
+- [01:37:45,406 - 01:37:45,926] These are...
+- [01:37:45,926 - 01:37:46,426] No,
+- [01:37:46,426 - 01:37:47,606] they would add up.
+- [01:37:47,606 - 01:37:48,686] All that would add up to one.
+- [01:37:48,906 - 01:37:51,126] Instead of lambda equals 0.7
+- [01:37:51,126 - 01:37:53,406] and k equals essentially zero,
+- [01:37:53,646 - 01:37:56,746] why not lambda equals 0.4
+- [01:37:56,746 - 01:38:00,726] and then k equals 0.3?
+- [01:38:00,846 - 01:38:01,026] Good.
+- [01:38:02,426 - 01:38:02,726] Good.
+- [01:38:02,946 - 01:38:04,126] You take this.
+- [01:38:04,446 - 01:38:06,266] You take your trial.
+- [01:38:07,386 - 01:38:09,866] You solve the Friedmann equations with it.
+- [01:38:10,046 - 01:38:12,106] That tells you what A of t is
+- [01:38:12,426 - 01:38:13,306] for your model.
+- [01:38:14,446 - 01:38:16,486] You then feed it into here.
+- [01:38:18,466 - 01:38:20,106] This is not what you get.
+- [01:38:20,206 - 01:38:21,026] You get something different.
+- [01:38:21,666 - 01:38:22,806] Feed it into here
+- [01:38:22,806 - 01:38:25,486] and calculate the number of galaxies per redshift
+- [01:38:25,486 - 01:38:27,566] or the number of supernovae per redshift
+- [01:38:28,806 - 01:38:31,466] and the luminosity as a function of z.
+- [01:38:31,606 - 01:38:32,766] The only thing I'm pointing out is that
+- [01:38:33,226 - 01:38:34,446] that's different than what you said.
+- [01:38:34,526 - 01:38:35,946] You said just take lambda,
+- [01:38:35,946 - 01:38:36,966] forget k,
+- [01:38:37,226 - 01:38:38,386] and let it fall out.
+- [01:38:38,486 - 01:38:39,566] I'm not even sure what that means.
+- [01:38:40,466 - 01:38:42,266] You were saying we only have one parameter,
+- [01:38:43,166 - 01:38:43,526] lambda,
+- [01:38:43,526 - 01:38:44,466] that we have to deal with.
+- [01:38:44,666 - 01:38:48,566] But I don't understand why...
+- [01:38:48,566 - 01:38:50,346] Because this plus this plus this has to be one.
+- [01:38:53,086 - 01:38:53,446] Right,
+- [01:38:53,446 - 01:38:54,886] but as I said,
+- [01:38:55,026 - 01:38:57,166] if you just...
+- [01:38:58,266 - 01:38:58,626] Okay,
+- [01:38:58,626 - 01:38:59,066] so you...
+- [01:38:59,066 - 01:38:59,706] Can we take it offline?
+- [01:38:59,866 - 01:39:00,086] All right,
+- [01:39:00,086 - 01:39:01,046] I don't want to waste time here.
+- [01:39:01,126 - 01:39:01,486] Yeah.
+- [01:39:02,266 - 01:39:04,486] The point is that if you set lambda,
+- [01:39:04,986 - 01:39:07,146] you're forced to set a certain...
+- [01:39:07,746 - 01:39:08,006] 可以
+- [01:39:09,890 - 01:39:10,670] okay yeah
+- [01:39:10,670 - 01:39:15,870] I have a question about k
+- [01:39:15,870 - 01:39:19,830] you can say plus one minus one zero
+- [01:39:19,830 - 01:39:23,450] is it really k is greater than zero?
+- [01:39:24,930 - 01:39:25,290] no,
+- [01:39:25,290 - 01:39:26,630] the way we formulated it,
+- [01:39:26,630 - 01:39:27,970] plus one minus one is zero
+- [01:39:28,790 - 01:39:29,970] but omega,
+- [01:39:29,970 - 01:39:30,430] yeah
+- [01:39:30,430 - 01:39:33,330] I'm having trouble seeing how the
+- [01:39:35,910 - 01:39:37,750] dimensions work there
+- [01:39:39,129 - 01:39:42,409] k over a squared has to
+- [01:39:42,409 - 01:39:45,690] have the same dimensions as a squared
+- [01:39:47,449 - 01:39:48,010] that's right
+- [01:39:49,809 - 01:39:51,150] speed of light is equal to one
+- [01:39:52,149 - 01:39:53,410] apart from the speed of light,
+- [01:39:53,410 - 01:39:53,850] that's correct
+- [01:39:53,850 - 01:39:54,590] oh I see,
+- [01:39:54,590 - 01:39:56,790] so there's a c in it
+- [01:39:56,790 - 01:39:58,910] there are some c's in there
+- [01:39:58,910 - 01:40:01,490] there are some speeds of light
+- [01:40:01,909 - 01:40:02,710] but you know,
+- [01:40:02,710 - 01:40:04,640] get used to working with speed of light
+- [01:40:04,640 - 01:40:06,570] equal to one and then this is dimensionally
+- [01:40:06,570 - 01:40:06,790] correct
+- [01:40:07,750 - 01:40:08,250] that's it
+- [01:40:08,250 - 01:40:12,590] does this method rely on the assumption that
+- [01:40:12,590 - 01:40:18,690] the density of galaxies is isotropic over space and time?
+- [01:40:18,850 - 01:40:19,390] No,
+- [01:40:19,390 - 01:40:20,710] what does it mean for it
+- [01:40:20,710 - 01:40:22,030] to be isotropic over space and time?
+- [01:40:22,350 - 01:40:22,790] Jinities
+- [01:40:22,790 - 01:40:23,930] what does that mean?
+- [01:40:25,170 - 01:40:29,070] meaning that earlier in the universe there
+- [01:40:29,070 - 01:40:32,970] might have been more galaxies but smaller
+- [01:40:32,970 - 01:40:34,610] ones per unit of space
+- [01:40:34,610 - 01:40:36,170] it assumes that in every time interval you
+- [01:40:36,170 - 01:40:37,730] can get middle space alignment aleo Caroline willst
+- [01:40:37,730 - 01:40:40,090] time space is homogeneous and isotropic.
+- [01:40:40,090 - 01:40:42,710] It does assume that.
+- [01:40:42,710 - 01:40:47,710] But you know that's to a
+- [01:40:47,710 - 01:40:49,010] large extent tested,
+- [01:40:49,010 - 01:40:51,810] not completely,
+- [01:40:51,810 - 01:40:55,590] but if you want to know whether it's isotropic at
+- [01:40:55,590 - 01:40:56,630] this time over here,
+- [01:40:56,630 - 01:40:58,540] you just look at galaxies that you
+- [01:40:58,540 - 01:41:00,450] can see at that time and you see
+- [01:41:00,450 - 01:41:01,290] that it's isotropic.
+- [01:41:01,290 - 01:41:03,890] You look in different directions at different redshifts,
+- [01:41:03,890 - 01:41:04,490] at the
+- [01:41:04,490 - 01:41:06,390] redshift you're interested in,
+- [01:41:06,390 - 01:41:07,890] and it's isotropic.
+- [01:41:08,090 - 01:41:10,710] These omegas are the way it is today,
+- [01:41:10,710 - 01:41:13,970] but in the past it would be different.
+- [01:41:13,970 - 01:41:15,610] So like
+- [01:41:15,610 - 01:41:16,870] in the early days...
+- [01:41:16,870 - 01:41:20,130] The omegas are defined to be the ratios...
+- [01:41:20,130 - 01:41:20,470] Okay,
+- [01:41:20,470 - 01:41:24,350] so you have these four numbers,
+- [01:41:25,450 - 01:41:29,790] CR over A to the fourth plus CM over
+- [01:41:29,790 - 01:41:34,130] A cubed plus lambda minus K over A squared equals
+- [01:41:34,130 - 01:41:34,470] H squared.
+- [01:41:34,490 - 01:41:35,770] That's true at all times,
+- [01:41:35,770 - 01:41:36,090] okay?
+- [01:41:36,090 - 01:41:39,310] Now we plug in today.
+- [01:41:39,310 - 01:41:40,770] Now we plug in today,
+- [01:41:40,770 - 01:41:42,170] today,
+- [01:41:42,170 - 01:41:43,630] today,
+- [01:41:47,129 - 01:41:47,650] today.
+- [01:41:47,650 - 01:41:51,010] Now we just take the ratio,
+- [01:41:51,010 - 01:41:52,050] divide it...
+- [01:41:52,050 - 01:41:53,470] I was going to say that.
+- [01:41:53,470 - 01:41:55,910] Like a zillion years ago,
+- [01:41:55,910 - 01:41:58,050] the omegas would be different.
+- [01:41:58,610 - 01:41:59,990] A zillion years ago,
+- [01:41:59,990 - 01:42:01,170] the omegas would be different.
+- [01:42:01,250 - 01:42:02,590] So my question is,
+- [01:42:02,590 - 01:42:03,910] is...
+- [01:42:03,910 - 01:42:07,430] Does the derivative of the omegas,
+- [01:42:07,430 - 01:42:08,930] in reference to time,
+- [01:42:08,930 - 01:42:10,190] what do they look like?
+- [01:42:10,190 - 01:42:10,630] Obviously
+- [01:42:10,630 - 01:42:14,290] the wave one...
+- [01:42:14,290 - 01:42:15,710] Here they are.
+- [01:42:15,710 - 01:42:19,630] Here you can see that long in the past,
+- [01:42:19,630 - 01:42:23,690] radiation was much more important
+- [01:42:23,690 - 01:42:24,330] than matter.
+- [01:42:24,330 - 01:42:25,050] Well,
+- [01:42:25,050 - 01:42:25,530] it's much,
+- [01:42:25,530 - 01:42:26,850] much more important than lambda.
+- [01:42:26,850 - 01:42:29,610] So long in the past,
+- [01:42:29,610 - 01:42:30,030] a long,
+- [01:42:30,110 - 01:42:30,870] long time ago,
+- [01:42:30,870 - 01:42:33,870] omega radiation was large.
+- [01:42:35,069 - 01:42:38,350] Large means essentially equal to one.
+- [01:42:38,350 - 01:42:40,490] Long in the past,
+- [01:42:40,490 - 01:42:42,270] omega radiation was about all
+- [01:42:42,270 - 01:42:44,370] there was and everything else was small.
+- [01:42:44,590 - 01:42:44,770] Right,
+- [01:42:44,770 - 01:42:47,550] so therefore d omega r is negative.
+- [01:42:47,550 - 01:42:49,150] The derivative of that...
+- [01:42:50,770 - 01:42:51,390] Yes,
+- [01:42:51,390 - 01:42:52,250] the omega...
+- [01:42:52,250 - 01:42:53,630] Omega is...
+- [01:42:53,630 - 01:42:54,790] Omega r is decreasing.
+- [01:42:55,150 - 01:42:55,310] Right,
+- [01:42:55,310 - 01:42:57,750] and omega matter and the other one...
+- [01:42:57,750 - 01:42:58,750] What are they doing?
+- [01:42:58,750 - 01:42:59,810] Are they increasing...
+- [01:42:59,810 - 01:43:02,810] Probably omega is probably zero.
+- [01:43:02,810 - 01:43:03,030] Zero.
+- [01:43:03,590 - 01:43:04,430] The derivative of it.
+- [01:43:04,550 - 01:43:04,930] Yeah,
+- [01:43:04,930 - 01:43:05,770] omega...
+- [01:43:05,770 - 01:43:06,250] Look,
+- [01:43:06,250 - 01:43:06,950] okay,
+- [01:43:06,950 - 01:43:07,790] so let's...
+- [01:43:07,790 - 01:43:09,130] The most...
+- [01:43:09,130 - 01:43:10,470] When a gets large,
+- [01:43:10,470 - 01:43:11,770] what is going to
+- [01:43:11,770 - 01:43:12,450] be biggest here?
+- [01:43:12,450 - 01:43:14,250] Lambda is going to be biggest,
+- [01:43:14,250 - 01:43:14,530] right?
+- [01:43:14,530 - 01:43:16,390] So long in the future,
+- [01:43:16,390 - 01:43:17,850] omega lambda
+- [01:43:17,850 - 01:43:18,630] will be one.
+- [01:43:18,630 - 01:43:21,550] Omega lambda will be one
+- [01:43:21,550 - 01:43:24,470] and everything else will be small.
+- [01:43:24,470 - 01:43:28,310] Omega curvature
+- [01:43:30,849 - 01:43:32,790] will be less than...
+- [01:43:32,790 - 01:43:35,470] Less small than omega matter,
+- [01:43:35,470 - 01:43:38,690] which will be less small than omega radiation.
+- [01:43:38,690 - 01:43:40,210] But long
+- [01:43:40,210 - 01:43:40,810] in the future,
+- [01:43:40,810 - 01:43:43,130] it will be dominated by lambda.
+- [01:43:43,130 - 01:43:45,090] Long in the past,
+- [01:43:45,090 - 01:43:47,550] it was dominated by radiation.
+- [01:43:48,490 - 01:43:49,070] Okay.
+- [01:43:49,430 - 01:43:50,010] So,
+- [01:43:50,010 - 01:43:50,450] Mike,
+- [01:43:50,450 - 01:43:52,870] the real question is what is
+- [01:43:52,870 - 01:43:55,290] the time derivative of matter look like?
+- [01:43:55,290 - 01:43:55,830] It obviously
+- [01:43:55,830 - 01:43:56,950] starts small,
+- [01:43:56,950 - 01:43:57,950] then it gets larger,
+- [01:43:57,950 - 01:43:59,270] then it gets small again.
+- [01:43:59,270 - 01:44:00,770] The...
+- [01:44:00,770 - 01:44:01,890] Yes.
+- [01:44:01,890 - 01:44:02,090] Yes,
+- [01:44:02,090 - 01:44:03,490] that's correct.
+- [01:44:03,490 - 01:44:04,210] That's correct.
+- [01:44:04,210 - 01:44:07,270] The omega matter starts small.
+- [01:44:07,270 - 01:44:07,810] Why?
+- [01:44:07,810 - 01:44:08,510] Because it's
+- [01:44:08,510 - 01:44:09,810] almost all omega radiation.
+- [01:44:10,150 - 01:44:10,410] Right,
+- [01:44:10,410 - 01:44:11,130] then it gets bigger.
+- [01:44:11,170 - 01:44:11,370] Right,
+- [01:44:11,370 - 01:44:12,310] then it gets bigger.
+- [01:44:12,310 - 01:44:13,770] It starts to dominate.
+- [01:44:13,770 - 01:44:14,990] It gets up near...
+- [01:44:14,990 - 01:44:16,410] Pretty big,
+- [01:44:16,410 - 01:44:16,830] up near...
+- [01:44:16,830 - 01:44:17,590] Close to one.
+- [01:44:17,590 - 01:44:21,050] That's before lambda became important.
+- [01:44:21,050 - 01:44:24,670] And then lambda becomes more important
+- [01:44:24,670 - 01:44:25,170] than this.
+- [01:44:25,170 - 01:44:26,830] That's today.
+- [01:44:26,830 - 01:44:31,710] So omega matter is 0.3.
+- [01:44:31,710 - 01:44:33,670] And omega lambda is 0.7.
+- [01:44:35,910 - 01:44:36,870] And omega...
+- [01:44:36,870 - 01:44:38,550] Lambda gets really big.
+- [01:44:38,830 - 01:44:40,790] And omega k is...
+- [01:44:40,790 - 01:44:41,990] Omega k always stays...
+- [01:44:41,990 - 01:44:42,910] Well,
+- [01:44:42,910 - 01:44:44,070] we don't know that.
+- [01:44:44,070 - 01:44:45,810] We don't know that.
+- [01:44:45,810 - 01:44:46,270] Let's see.
+- [01:44:48,910 - 01:44:50,150] Omega k is...
+- [01:44:50,150 - 01:44:50,950] Yeah,
+- [01:44:50,950 - 01:44:51,130] no,
+- [01:44:51,130 - 01:44:51,590] it...
+- [01:44:51,590 - 01:44:52,010] Right,
+- [01:44:52,010 - 01:44:52,450] it's not...
+- [01:44:52,450 - 01:44:52,710] No,
+- [01:44:52,710 - 01:44:53,650] that's correct.
+- [01:44:53,650 - 01:44:54,730] It's not going to...
+- [01:44:54,730 - 01:44:55,590] When I said...
+- [01:44:55,590 - 01:44:56,710] When I said we don't know that,
+- [01:44:56,710 - 01:44:58,810] I mean to say that we
+- [01:44:58,810 - 01:45:00,910] know that it's zero to within
+- [01:45:00,910 - 01:45:01,690] about...
+- [01:45:01,690 - 01:45:02,470] About 1%.
+- [01:45:02,470 - 01:45:04,480] The next round of experiments
+- [01:45:04,480 - 01:45:06,490] might discover that it's not zero,
+- [01:45:06,490 - 01:45:07,190] that it might
+- [01:45:07,190 - 01:45:08,190] be 1%,
+- [01:45:08,190 - 01:45:09,270] either plus or minus.
+- [01:45:09,270 - 01:45:10,010] That won't...
+- [01:45:10,010 - 01:45:10,150] No,
+- [01:45:10,150 - 01:45:10,910] that won't change much.
+- [01:45:10,910 - 01:45:11,250] No.
+- [01:45:11,250 - 01:45:14,290] Well,
+- [01:45:14,290 - 01:45:14,570] let's
+- [01:45:14,570 - 01:45:14,690] see.
+- [01:45:14,690 - 01:45:15,890] Yeah,
+- [01:45:15,890 - 01:45:16,890] it will change.
+- [01:45:16,890 - 01:45:17,190] Sure,
+- [01:45:17,190 - 01:45:18,110] it will get smaller.
+- [01:45:18,110 - 01:45:19,930] It will get smaller.
+- [01:45:19,930 - 01:45:20,990] It will get
+- [01:45:20,990 - 01:45:24,500] smaller because this will eventually
+- [01:45:24,500 - 01:45:28,010] defeat this by any arbitrary amount.
+- [01:45:28,010 - 01:45:29,370] So yeah,
+- [01:45:29,370 - 01:45:29,650] this
+- [01:45:29,650 - 01:45:30,310] one will get smaller.
+- [01:45:30,310 - 01:45:31,250] And eventually,
+- [01:45:31,250 - 01:45:32,470] all there'll be will be lambda.
+- [01:45:32,470 - 01:45:36,150] That's as far as we can tell.
+- [01:45:36,150 - 01:45:36,450] I mean,
+- [01:45:36,450 - 01:45:36,770] that's...
+- [01:45:37,310 - 01:45:38,810] There's some theory that goes into that,
+- [01:45:38,810 - 01:45:39,250] of course.
+- [01:45:40,290 - 01:45:41,990] When you put the values in,
+- [01:45:41,990 - 01:45:43,010] fit the data,
+- [01:45:43,010 - 01:45:45,150] is there any kind of systematic deviation
+- [01:45:45,150 - 01:45:46,370] that's not understood?
+- [01:45:47,570 - 01:45:48,390] I don't think so.
+- [01:45:48,390 - 01:45:49,490] No.
+- [01:45:49,490 - 01:45:50,850] No.
+- [01:45:52,050 - 01:45:53,110] So it's a good problem.
+- [01:45:53,710 - 01:45:54,150] Yeah.
+- [01:45:54,150 - 01:45:54,470] No,
+- [01:45:54,470 - 01:45:59,310] this has achieved the level of precision.
+- [01:46:00,210 - 01:46:00,290] Yeah.
+- [01:46:00,310 - 01:46:00,430] It's a good problem.
+- [01:46:00,430 - 01:46:01,320] It's a well-defined precision
+- [01:46:01,320 - 01:46:02,210] cosmology where everything does fit.
+- [01:46:02,210 - 01:46:04,770] Now,
+- [01:46:04,770 - 01:46:05,690] the only thing is,
+- [01:46:05,810 - 01:46:06,930] it's a 1% model,
+- [01:46:06,930 - 01:46:08,130] it's not a tenth of a percent,
+- [01:46:08,130 - 01:46:09,690] and it's not a hundredth of a percent.
+- [01:46:09,690 - 01:46:10,070] It's
+- [01:46:10,070 - 01:46:10,330] a...
+- [01:46:10,330 - 01:46:13,430] It's a 1% fit,
+- [01:46:13,430 - 01:46:17,730] and everything fits to 1%.
+- [01:46:19,910 - 01:46:21,010] Independent of this,
+- [01:46:21,010 - 01:46:22,550] had they been trying to do
+- [01:46:22,550 - 01:46:24,090] experiments where they could show if
+- [01:46:24,090 - 01:46:25,590] A is positive,
+- [01:46:25,590 - 01:46:25,930] negative,
+- [01:46:25,930 - 01:46:29,450] or zero by trying to do huge triangulations and...
+- [01:46:30,049 - 01:46:32,090] looking at angles to see if they're,
+- [01:46:32,090 - 01:46:32,350] you know,
+- [01:46:32,350 - 01:46:33,190] some up to 180.
+- [01:46:33,550 - 01:46:34,190] That's correct.
+- [01:46:34,570 - 01:46:35,250] That's correct.
+- [01:46:35,290 - 01:46:36,900] And we're going to come to
+- [01:46:36,900 - 01:46:38,510] that when we study next week
+- [01:46:39,129 - 01:46:41,130] the microwave background.
+- [01:46:42,470 - 01:46:44,090] And the microwave background,
+- [01:46:44,210 - 01:46:46,770] or at least the lumpiness of the microwave background,
+- [01:46:46,870 - 01:46:50,190] allows triangulation and allows you to study triangles.
+- [01:46:50,670 - 01:46:51,390] And again,
+- [01:46:51,390 - 01:46:57,630] probably if all you use is the supernova data,
+- [01:46:57,770 - 01:46:58,090] which is,
+- [01:46:58,090 - 01:46:59,110] this is the supernova data,
+- [01:46:59,450 - 01:47:01,330] I don't think that gets you to 1%.
+- [01:47:02,870 - 01:47:06,510] Maybe it gets you somewhere between 10% and 1%.
+- [01:47:07,550 - 01:47:09,640] Combined and supplemented with
+- [01:47:09,640 - 01:47:11,730] a cosmic microwave background,
+- [01:47:11,930 - 01:47:12,690] it's 1%.
+- [01:47:13,190 - 01:47:13,630] Yeah.
+- [01:47:13,690 - 01:47:15,450] When the value is k to 0,
+- [01:47:15,590 - 01:47:17,810] then it says the universe is becoming flatter?
+- [01:47:18,450 - 01:47:18,890] Becoming?
+- [01:47:19,110 - 01:47:19,550] Flatter?
+- [01:47:20,990 - 01:47:21,430] Yes.
+- [01:47:22,130 - 01:47:22,570] Oh,
+- [01:47:22,570 - 01:47:22,770] yes,
+- [01:47:22,770 - 01:47:23,110] for sure.
+- [01:47:23,830 - 01:47:24,490] For sure.
+- [01:47:24,870 - 01:47:25,310] Sure,
+- [01:47:25,310 - 01:47:25,970] the bigger it gets,
+- [01:47:25,970 - 01:47:26,790] the flatter it gets.
+- [01:47:28,190 - 01:47:29,070] That's just...
+- [01:47:29,850 - 01:47:30,890] Big is flat.
+- [01:47:32,830 - 01:47:33,870] In any case,
+- [01:47:33,870 - 01:47:35,110] if it continues to grow,
+- [01:47:36,230 - 01:47:37,650] will it become flatter?
+- [01:47:42,130 - 01:47:42,610] Okay,
+- [01:47:42,610 - 01:47:43,090] this...
+- [01:47:44,630 - 01:47:45,790] This is tricky stuff,
+- [01:47:46,010 - 01:47:46,840] but the way to think
+- [01:47:46,840 - 01:47:47,670] about it is what I said.
+- [01:47:47,970 - 01:47:49,290] You start with a model,
+- [01:47:49,330 - 01:47:50,929] which means a set of parameters here.
+- [01:47:51,090 - 01:47:55,610] You feed them into Friedmann equations.
+- [01:47:57,410 - 01:47:58,690] You go to this side.
+- [01:47:58,690 - 01:47:59,790] Once you have Friedmann equations,
+- [01:48:00,090 - 01:48:02,610] and you can read off from the Friedmann equations
+- [01:48:02,610 - 01:48:04,750] the observable quantities,
+- [01:48:05,010 - 01:48:06,950] L of z and dn by dz,
+- [01:48:07,170 - 01:48:07,970] and you compare.
+- [01:48:09,770 - 01:48:11,660] There's incidentally no reason why
+- [01:48:11,660 - 01:48:13,550] any particular set of numbers
+- [01:48:13,550 - 01:48:15,630] has to agree with the data,
+- [01:48:16,489 - 01:48:17,550] other than theory.
+- [01:48:18,210 - 01:48:19,310] Without a theory,
+- [01:48:22,209 - 01:48:25,450] there'd be no particular reason why any set of numbers
+- [01:48:25,450 - 01:48:26,610] would agree with the data.
+- [01:48:27,530 - 01:48:28,090] So,
+- [01:48:28,690 - 01:48:30,970] it's not just testing a particular model,
+- [01:48:31,090 - 01:48:32,450] it's testing a particular model,
+- [01:48:32,530 - 01:48:33,950] and it's testing the theory.
+- [01:48:35,160 - 01:48:35,470] Yeah.
+- [01:48:40,280 - 01:48:40,590] Yeah.
+- [01:48:42,540 - 01:48:43,170] For more,
+- [01:48:43,170 - 01:48:45,590] please visit us at stanford.edu.
