@@ -1,0 +1,2679 @@
+# Transcript
+
+Source: core/quantum_mechanics/2012_winter_theoretical_minimum_alt_title/126 - Lecture 3 ｜ The Theoretical Minimum [-GO3SL5n30k].mkv
+
+- [00:00:04,879 - 00:00:06,160] Stanford University
+- [00:00:09,959 - 00:00:10,600] Alright,
+- [00:00:10,600 - 00:00:14,480] a mathematical interlude we're going to begin with.
+- [00:00:16,120 - 00:00:18,700] Mathematical interlude is again about linear algebra,
+- [00:00:18,700 - 00:00:19,940] about vector spaces,
+- [00:00:20,340 - 00:00:21,900] but about the idea of operators.
+- [00:00:21,900 - 00:00:23,480] But before we do,
+- [00:00:23,480 - 00:00:25,820] before we get to operators,
+- [00:00:25,820 - 00:00:28,220] I want to say a few more things about vectors.
+- [00:00:28,220 - 00:00:31,720] A few more bits about the mathematics of vectors.
+- [00:00:32,460 - 00:00:35,900] Most of these bits have to do not
+- [00:00:35,900 - 00:00:39,340] so much with deep mathematics as with good notation.
+- [00:00:39,700 - 00:00:43,980] Good notation is worth an awful lot when you can
+- [00:00:43,980 - 00:00:48,260] just manipulate symbols in ways that are sort of prearranged
+- [00:00:48,260 - 00:00:52,000] and do it easily and comfortably.
+- [00:00:52,650 - 00:00:54,440] There's an enormous benefit in that.
+- [00:00:54,520 - 00:00:55,800] For doing things like this,
+- [00:00:55,820 - 00:00:57,700] you can do things like abstract mathematics,
+- [00:00:57,700 - 00:00:58,400] certainly,
+- [00:00:58,580 - 00:01:00,320] but also the abstractions,
+- [00:01:00,320 - 00:01:01,960] the mathematical abstractions of physics.
+- [00:01:03,519 - 00:01:05,059] The abstractions that we're going to
+- [00:01:05,059 - 00:01:06,600] talk about are largely due to Dirac,
+- [00:01:06,600 - 00:01:07,460] Paul Dirac,
+- [00:01:08,079 - 00:01:10,179] who really was the one who saw into
+- [00:01:10,179 - 00:01:12,280] the way that quantum mechanics really fits together.
+- [00:01:13,300 - 00:01:14,720] So let's talk about that.
+- [00:01:15,060 - 00:01:17,140] We have a space of states.
+- [00:01:17,140 - 00:01:18,160] The space of states,
+- [00:01:18,160 - 00:01:20,140] which we'll come back to,
+- [00:01:20,699 - 00:01:21,140] is,
+- [00:01:21,140 - 00:01:21,800] as I said,
+- [00:01:21,800 - 00:01:23,100] a linear vector space,
+- [00:01:23,100 - 00:01:25,800] meaning to say that you can multiply states,
+- [00:01:25,800 - 00:01:26,620] by numbers,
+- [00:01:26,620 - 00:01:28,220] to get new states,
+- [00:01:28,220 - 00:01:30,000] and these are abstract vectors.
+- [00:01:31,000 - 00:01:31,900] Abstract vectors,
+- [00:01:31,900 - 00:01:34,290] maybe I throw too much in
+- [00:01:34,290 - 00:01:36,680] when I say space of states,
+- [00:01:36,880 - 00:01:38,060] just abstract vectors,
+- [00:01:38,060 - 00:01:39,840] you can multiply them by numbers,
+- [00:01:39,840 - 00:01:41,300] in our case complex numbers,
+- [00:01:41,680 - 00:01:43,100] and you can add them,
+- [00:01:43,100 - 00:01:45,700] and there are two kinds of vectors.
+- [00:01:45,940 - 00:01:47,680] There are the Bra vectors and the ket vectors.
+- [00:01:47,840 - 00:01:48,000] They're,
+- [00:01:48,000 - 00:01:48,620] roughly speaking,
+- [00:01:48,620 - 00:01:50,800] related by complex conjugation,
+- [00:01:52,620 - 00:01:54,800] and a vector space has a dimensionality.
+- [00:01:54,800 - 00:01:57,810] The dimensionality is the maximum number of orthogonal
+- [00:01:57,810 - 00:02:00,820] vectors that you can find in that space,
+- [00:02:01,140 - 00:02:02,720] and once you know what
+- [00:02:02,720 - 00:02:04,300] the dimension of the space is,
+- [00:02:04,500 - 00:02:06,520] you can look for a basis of vectors.
+- [00:02:06,700 - 00:02:09,669] The basis of vectors is
+- [00:02:09,669 - 00:02:12,640] a mutually orthogonal collection of normalized,
+- [00:02:12,960 - 00:02:14,120] get the terminology down,
+- [00:02:14,120 - 00:02:16,260] orthonormal basis.
+- [00:02:16,880 - 00:02:19,400] Ortho means that they're all orthogonal to each other.
+- [00:02:20,120 - 00:02:20,720] Normal,
+- [00:02:20,720 - 00:02:23,240] the word normal means normalized,
+- [00:02:23,240 - 00:02:25,390] and normalized simply means that
+- [00:02:25,390 - 00:02:27,540] the vectors are of unit length.
+- [00:02:30,260 - 00:02:32,640] A collection of them that is maximal,
+- [00:02:32,640 - 00:02:33,480] in other words,
+- [00:02:33,480 - 00:02:34,420] that you can't find anymore,
+- [00:02:34,540 - 00:02:36,000] because there are no more directions left,
+- [00:02:36,220 - 00:02:37,680] that defines a basis,
+- [00:02:37,680 - 00:02:39,390] and the number of them is
+- [00:02:39,390 - 00:02:41,100] equal to the dimensionality of the space.
+- [00:02:41,780 - 00:02:42,920] Given such a basis,
+- [00:02:42,920 - 00:02:44,380] you can make,
+- [00:02:44,380 - 00:02:46,700] you can write any vector in the space
+- [00:02:47,240 - 00:02:50,560] as some kind of sum over those basis vectors.
+- [00:02:51,240 - 00:02:51,720] So,
+- [00:02:51,720 - 00:02:53,220] we can write for any vector in the space,
+- [00:02:53,240 - 00:02:53,560] vector A,
+- [00:02:53,560 - 00:02:57,900] that it's equal to sum over I.
+- [00:02:58,100 - 00:03:01,040] I here stands for the basis vectors.
+- [00:03:01,560 - 00:03:02,460] Of course,
+- [00:03:02,460 - 00:03:04,360] a basis is not a unique thing.
+- [00:03:04,980 - 00:03:07,270] Just as there are many sets
+- [00:03:07,270 - 00:03:09,560] of mutually orthogonal vectors in three-dimensional space,
+- [00:03:09,780 - 00:03:12,840] there are many sets of mutually
+- [00:03:12,840 - 00:03:15,900] orthogonal vectors in an abstract vector space,
+- [00:03:16,100 - 00:03:16,740] but we pick one.
+- [00:03:17,000 - 00:03:18,300] We pick a set.
+- [00:03:18,640 - 00:03:19,920] Having picked that set,
+- [00:03:19,920 - 00:03:20,860] and we label it I,
+- [00:03:21,160 - 00:03:22,300] we can,
+- [00:03:23,240 - 00:03:24,870] we can write any vector
+- [00:03:24,870 - 00:03:26,500] as a sum alpha sub I,
+- [00:03:26,720 - 00:03:30,460] exactly those alphas which we referred to a moment ago.
+- [00:03:30,980 - 00:03:32,040] Alpha sub I,
+- [00:03:32,040 - 00:03:33,500] a set of complex numbers,
+- [00:03:33,500 - 00:03:34,880] a set of complex coefficients,
+- [00:03:35,620 - 00:03:37,480] times the ith basis vector.
+- [00:03:37,780 - 00:03:38,840] The ith basis vector,
+- [00:03:44,440 - 00:03:46,200] I'm labeling I.
+- [00:03:47,120 - 00:03:48,700] This is a ket representation,
+- [00:03:49,340 - 00:03:51,180] but now what we can do with this
+- [00:03:51,180 - 00:03:53,820] is we can take the inner product with it.
+- [00:03:53,880 - 00:03:57,400] I want to try to calculate these alpha sub I's
+- [00:03:57,400 - 00:03:59,290] in terms of some
+- [00:03:59,290 - 00:04:01,180] quantities involving the vectors themselves.
+- [00:04:02,160 - 00:04:02,580] Alright,
+- [00:04:02,580 - 00:04:04,420] so what we do is we take the
+- [00:04:04,420 - 00:04:06,260] inner product of both sides of the equation
+- [00:04:07,140 - 00:04:09,220] with the basis vector J,
+- [00:04:09,959 - 00:04:11,120] the ket vector J.
+- [00:04:11,340 - 00:04:12,780] On the left-hand side,
+- [00:04:12,780 - 00:04:14,180] we get the inner product
+- [00:04:15,079 - 00:04:17,019] of the vector A,
+- [00:04:17,240 - 00:04:20,740] which is the thing we're trying to express.
+- [00:04:21,300 - 00:04:23,440] And that's equal to the sum over I,
+- [00:04:24,120 - 00:04:25,200] alpha sub I,
+- [00:04:25,500 - 00:04:27,860] times the inner product of the vector J,
+- [00:04:28,140 - 00:04:29,180] with the vector I.
+- [00:04:31,060 - 00:04:32,630] But the inner product of the
+- [00:04:32,630 - 00:04:34,200] vector J with this vector I
+- [00:04:34,980 - 00:04:36,520] is either 1 or 0.
+- [00:04:37,440 - 00:04:40,380] It's 1 if I and J are the same vector,
+- [00:04:40,520 - 00:04:41,900] and it's 0 otherwise.
+- [00:04:42,560 - 00:04:43,080] Why?
+- [00:04:43,080 - 00:04:46,020] Because they're orthogonal if I is not equal to J,
+- [00:04:46,220 - 00:04:47,640] and they're normalized,
+- [00:04:47,640 - 00:04:49,300] namely of unit length,
+- [00:04:49,400 - 00:04:50,480] if I does equal J.
+- [00:04:52,060 - 00:04:52,580] So,
+- [00:04:52,580 - 00:04:54,580] this bracket over here,
+- [00:04:54,700 - 00:04:56,780] this product of bras and kets,
+- [00:04:56,920 - 00:04:59,960] is just the Kronecker symbol delta Jk,
+- [00:05:00,500 - 00:05:01,020] sorry,
+- [00:05:01,020 - 00:05:01,980] delta J I,
+- [00:05:02,880 - 00:05:04,160] 0 or 1,
+- [00:05:04,340 - 00:05:05,800] and when you do the sum,
+- [00:05:06,000 - 00:05:09,080] it just picks out one and only one contribution,
+- [00:05:09,380 - 00:05:12,340] the contribution in which I is equal to J.
+- [00:05:12,960 - 00:05:13,480] So,
+- [00:05:13,480 - 00:05:14,860] on the right-hand side,
+- [00:05:15,120 - 00:05:16,440] you just get alpha J.
+- [00:05:16,860 - 00:05:17,720] No sum.
+- [00:05:17,720 - 00:05:19,640] The sum is collapsed to one term,
+- [00:05:19,640 - 00:05:24,220] and that's now equal to J A.
+- [00:05:24,740 - 00:05:25,260] Alright,
+- [00:05:25,260 - 00:05:26,060] so what have we learned?
+- [00:05:26,160 - 00:05:28,080] We've learned that the coefficient here,
+- [00:05:29,140 - 00:05:31,120] in the expansion of any vector,
+- [00:05:31,180 - 00:05:36,400] is just the inner product of the Jth vector
+- [00:05:36,400 - 00:05:37,980] with the target vector,
+- [00:05:38,080 - 00:05:39,500] with the vector we're trying to describe.
+- [00:05:42,200 - 00:05:44,880] The fact that I wrote a J there is irrelevant.
+- [00:05:48,140 - 00:05:49,620] It could also be alpha J.
+- [00:05:49,620 - 00:05:52,380] It doesn't matter which I or which J.
+- [00:05:55,640 - 00:05:59,280] The Ith coefficient is an inner product.
+- [00:05:59,620 - 00:06:00,100] Now,
+- [00:06:00,100 - 00:06:03,160] I can use that to rewrite the sum up here.
+- [00:06:03,420 - 00:06:05,780] I now know what the alpha sub I's are.
+- [00:06:06,160 - 00:06:07,420] They're these guys over here.
+- [00:06:07,880 - 00:06:08,360] So,
+- [00:06:08,360 - 00:06:09,400] let's rewrite this.
+- [00:06:10,219 - 00:06:11,620] Sum over I.
+- [00:06:12,420 - 00:06:14,680] I'm going to start with alpha I.
+- [00:06:15,400 - 00:06:15,880] Sorry,
+- [00:06:15,880 - 00:06:16,460] with I.
+- [00:06:17,180 - 00:06:19,020] And then write alpha sub I.
+- [00:06:19,620 - 00:06:20,710] I'm going to write alpha sub
+- [00:06:20,710 - 00:06:21,800] I next to it over here
+- [00:06:21,800 - 00:06:22,700] in the opposite order.
+- [00:06:22,920 - 00:06:23,960] That's allowed.
+- [00:06:26,999 - 00:06:28,560] Nothing noncommutative at this stage.
+- [00:06:28,900 - 00:06:30,640] Now I want to write alpha sub I.
+- [00:06:30,800 - 00:06:31,220] So,
+- [00:06:31,220 - 00:06:34,540] I write I A.
+- [00:06:38,040 - 00:06:39,340] That's a basic formula
+- [00:06:40,939 - 00:06:44,060] that any vector can be rewritten
+- [00:06:44,060 - 00:06:47,900] in terms of its coefficients
+- [00:06:47,900 - 00:06:49,600] or in terms of its inner product
+- [00:06:49,620 - 00:06:50,960] with the basis vectors
+- [00:06:51,820 - 00:06:53,720] times the basis vectors themselves.
+- [00:06:54,540 - 00:06:55,480] Summed over I.
+- [00:06:55,680 - 00:06:56,840] It's kind of a pretty formula.
+- [00:06:57,540 - 00:07:00,440] And it comes back over and over again.
+- [00:07:01,120 - 00:07:03,660] What it says is whenever you see this summation
+- [00:07:04,240 - 00:07:06,640] of I times I in that form,
+- [00:07:06,920 - 00:07:08,520] you can sort of throw it away.
+- [00:07:08,860 - 00:07:10,440] It's just A equals A.
+- [00:07:10,980 - 00:07:14,740] But it's an expression for a vector
+- [00:07:14,740 - 00:07:16,180] in terms of its components.
+- [00:07:17,560 - 00:07:18,260] All right.
+- [00:07:18,260 - 00:07:20,280] So that's one simple fact.
+- [00:07:20,480 - 00:07:23,040] The same thing is true for bra vectors.
+- [00:07:24,280 - 00:07:26,740] Exactly the same thing is true for bra vectors.
+- [00:07:26,820 - 00:07:28,660] And you would write it in the following form.
+- [00:07:29,640 - 00:07:33,960] A bra vector is also a sum over I
+- [00:07:33,960 - 00:07:40,820] of the inner product of the bra vector
+- [00:07:40,820 - 00:07:43,060] with the basis vectors
+- [00:07:44,059 - 00:07:46,440] times the basis bra vectors.
+- [00:07:46,440 - 00:07:49,920] The basis bra vectors are just the complex conjugates,
+- [00:07:49,940 - 00:07:50,360] if you like,
+- [00:07:50,360 - 00:07:53,440] of the basis ket vectors.
+- [00:07:53,820 - 00:07:55,500] Both of these equations are true.
+- [00:07:55,640 - 00:07:58,280] And we're going to find out that they're enormously useful.
+- [00:07:59,520 - 00:08:03,400] They're enormously useful and powerful,
+- [00:08:03,700 - 00:08:05,280] even though they were very,
+- [00:08:05,280 - 00:08:05,840] very simple.
+- [00:08:07,220 - 00:08:07,940] All right.
+- [00:08:07,960 - 00:08:10,300] Now we come to the notion of linear operators.
+- [00:08:11,520 - 00:08:14,300] States in quantum mechanics are vectors.
+- [00:08:15,480 - 00:08:18,240] And we saw a little bit about how that works
+- [00:08:18,920 - 00:08:20,820] in the case of a single spin.
+- [00:08:22,400 - 00:08:22,920] Observables.
+- [00:08:23,420 - 00:08:25,780] Observables mean the things that we measure.
+- [00:08:26,560 - 00:08:27,920] The things that we measure,
+- [00:08:27,960 - 00:08:29,180] the objects that we measure,
+- [00:08:29,220 - 00:08:30,460] the quantities that we measure.
+- [00:08:30,820 - 00:08:33,929] The observables are related to
+- [00:08:33,929 - 00:08:37,039] linear operators in the space.
+- [00:08:37,580 - 00:08:38,240] All right.
+- [00:08:38,280 - 00:08:39,539] So what is a linear operator?
+- [00:08:41,020 - 00:08:43,559] And it'll take us the rest of the evening
+- [00:08:43,559 - 00:08:44,280] to understand that.
+- [00:08:44,280 - 00:08:45,680] And in any detail what
+- [00:08:45,680 - 00:08:47,080] it has to do with observables.
+- [00:08:47,620 - 00:08:49,740] So put that out of your head for the moment.
+- [00:08:49,880 - 00:08:51,940] We're just doing a mathematical interlude now.
+- [00:08:52,300 - 00:08:54,400] What is the notion of a linear operator?
+- [00:08:56,060 - 00:09:01,500] A linear operator is a process,
+- [00:09:01,500 - 00:09:02,240] if you like,
+- [00:09:03,079 - 00:09:04,940] which you apply to vectors.
+- [00:09:06,480 - 00:09:07,380] Somebody or other,
+- [00:09:07,380 - 00:09:08,620] I can't remember who it might have been,
+- [00:09:08,640 - 00:09:09,180] John Wheeler,
+- [00:09:09,180 - 00:09:11,840] liked to describe these things as machines.
+- [00:09:12,820 - 00:09:13,820] He would say,
+- [00:09:14,500 - 00:09:17,980] a linear operator is a machine
+- [00:09:17,980 - 00:09:21,460] with two little ports in it.
+- [00:09:21,800 - 00:09:24,400] Into one port you put an input vector,
+- [00:09:24,580 - 00:09:26,120] and then you turn the wheel,
+- [00:09:26,280 - 00:09:28,120] and out comes an output vector.
+- [00:09:28,620 - 00:09:32,600] So it's a thing which acts on an input vector
+- [00:09:32,600 - 00:09:33,880] to give an output vector.
+- [00:09:35,040 - 00:09:40,700] So let's call m a linear operator.
+- [00:09:42,200 - 00:09:44,140] Linear is a linear we'll come to.
+- [00:09:44,280 - 00:09:46,200] So far we're just talking about operator.
+- [00:09:46,480 - 00:09:47,340] A machine.
+- [00:09:47,640 - 00:09:48,720] In goes one end,
+- [00:09:48,720 - 00:09:50,020] out comes another end.
+- [00:09:50,420 - 00:09:52,040] And we'll talk about what it means
+- [00:09:52,040 - 00:09:53,660] for it to be linear in a minute.
+- [00:09:54,080 - 00:09:54,640] Alright,
+- [00:09:54,640 - 00:09:56,980] so m is some operator.
+- [00:09:57,640 - 00:10:00,940] And that means that given any vector,
+- [00:10:02,480 - 00:10:04,300] when m acts on it,
+- [00:10:04,300 - 00:10:05,960] it simply gives another vector.
+- [00:10:07,540 - 00:10:08,100] Unique.
+- [00:10:09,360 - 00:10:10,440] Given any a,
+- [00:10:10,440 - 00:10:11,720] it gives a unique b.
+- [00:10:13,700 - 00:10:14,260] Unique.
+- [00:10:14,260 - 00:10:14,580] It does not mean,
+- [00:10:14,580 - 00:10:16,380] the converse may not be,
+- [00:10:16,440 - 00:10:16,780] converse,
+- [00:10:16,780 - 00:10:17,120] opposite,
+- [00:10:17,120 - 00:10:17,540] I don't know,
+- [00:10:17,600 - 00:10:18,660] may not be true.
+- [00:10:18,860 - 00:10:21,470] It may not be that
+- [00:10:21,470 - 00:10:24,080] given a b on this side,
+- [00:10:24,240 - 00:10:26,160] that there's only one unique a
+- [00:10:26,160 - 00:10:28,080] that gives rise to that b.
+- [00:10:29,199 - 00:10:31,129] But it is true that
+- [00:10:31,129 - 00:10:33,060] m applied to any vector a
+- [00:10:33,060 - 00:10:35,620] gives a unique reflection of a,
+- [00:10:36,760 - 00:10:39,820] which is the process m acting on a.
+- [00:10:40,720 - 00:10:42,070] Now what does it mean for
+- [00:10:42,070 - 00:10:43,420] m to be a linear operator?
+- [00:10:44,260 - 00:10:44,720] Well,
+- [00:10:44,720 - 00:10:46,280] first of all,
+- [00:10:46,280 - 00:10:52,640] m can act on z times a,
+- [00:10:52,840 - 00:10:55,180] where z times a is a vector.
+- [00:10:56,260 - 00:10:57,140] In fact,
+- [00:10:57,140 - 00:11:01,160] let's write that m can act on z times a.
+- [00:11:01,220 - 00:11:03,100] Z times a is itself a vector,
+- [00:11:03,220 - 00:11:05,770] because you're allowed to
+- [00:11:05,770 - 00:11:08,320] multiply vectors by complex numbers.
+- [00:11:08,700 - 00:11:10,120] Z is a complex number.
+- [00:11:10,969 - 00:11:12,800] The rule about linear operators,
+- [00:11:12,800 - 00:11:17,520] is if they apply on constants times a vector,
+- [00:11:17,660 - 00:11:20,560] they just give back the constant times
+- [00:11:20,560 - 00:11:23,460] what they would have given on a.
+- [00:11:25,240 - 00:11:27,100] So it just means that a z,
+- [00:11:27,100 - 00:11:28,860] a complex number,
+- [00:11:29,569 - 00:11:32,520] a complex number can be brought through m.
+- [00:11:33,510 - 00:11:35,725] m acting on twice a gives twice
+- [00:11:35,725 - 00:11:37,940] what m would have given on a.
+- [00:11:38,100 - 00:11:40,440] m acting on three times a gives three
+- [00:11:40,440 - 00:11:42,780] times what a would have given on a.
+- [00:11:42,780 - 00:11:43,480] m gives on a.
+- [00:11:44,020 - 00:11:46,620] m acting on i times a,
+- [00:11:46,800 - 00:11:49,040] the complex number of i just gives
+- [00:11:49,040 - 00:11:51,280] i times whatever m would give on a.
+- [00:11:51,760 - 00:11:53,720] That's the first rule about linearity.
+- [00:11:54,080 - 00:11:57,500] And the second rule about linearity is
+- [00:11:58,540 - 00:12:01,840] that if m acts on the sum of two vectors,
+- [00:12:03,700 - 00:12:05,260] a plus b,
+- [00:12:08,760 - 00:12:10,760] then what you get is just a sum
+- [00:12:11,380 - 00:12:13,280] of what the machine spit out for a
+- [00:12:13,280 - 00:12:15,180] and what the machine spit out for b.
+- [00:12:15,420 - 00:12:16,840] What the machine spits out when
+- [00:12:16,840 - 00:12:18,260] you put in a plus b
+- [00:12:18,260 - 00:12:21,060] is just the sum of what comes out
+- [00:12:25,459 - 00:12:31,060] m times a plus m times b.
+- [00:12:31,240 - 00:12:32,040] And that's it.
+- [00:12:32,040 - 00:12:33,980] That's the notion of a linear operator.
+- [00:12:34,160 - 00:12:35,280] There's no more to it than that.
+- [00:12:40,760 - 00:12:42,860] Or at least that's the full
+- [00:12:42,860 - 00:12:44,960] set of rules about linear operators.
+- [00:12:47,640 - 00:12:48,890] Now let's see if we
+- [00:12:48,890 - 00:12:50,140] can be more concrete about them.
+- [00:12:54,040 - 00:12:56,080] And see if we can learn to manipulate with them.
+- [00:12:57,240 - 00:13:03,180] Let's suppose that m times a equals b.
+- [00:13:04,480 - 00:13:07,420] Here I've used b as a piece of the input,
+- [00:13:07,620 - 00:13:09,320] but now b is the output.
+- [00:13:09,320 - 00:13:10,660] a and b are just letters.
+- [00:13:10,660 - 00:13:11,840] I can use them any way I want.
+- [00:13:12,000 - 00:13:14,040] m times a equals b.
+- [00:13:18,900 - 00:13:22,290] I'm interested in the component
+- [00:13:22,290 - 00:13:25,680] of b along the axis i.
+- [00:13:25,920 - 00:13:28,840] By that I mean these objects over here,
+- [00:13:28,840 - 00:13:29,520] the alphas,
+- [00:13:29,720 - 00:13:32,740] they are the components of the vector a
+- [00:13:33,320 - 00:13:36,940] along the various basis vector directions.
+- [00:13:36,940 - 00:13:41,080] So alpha sub i's are the components of the vectors.
+- [00:13:41,220 - 00:13:44,800] And I'm interested in the components of the output vector.
+- [00:13:45,060 - 00:13:47,320] I would like to know in a
+- [00:13:47,320 - 00:13:49,580] concrete way what are the components of b.
+- [00:13:49,740 - 00:13:50,720] So to find out,
+- [00:13:50,720 - 00:13:54,800] I just project them onto the direction i.
+- [00:13:59,359 - 00:14:02,260] a m i.
+- [00:14:02,980 - 00:14:04,870] All I've done is in both
+- [00:14:04,870 - 00:14:06,760] sides of the equation project or to,
+- [00:14:06,760 - 00:14:07,600] project this to,
+- [00:14:07,600 - 00:14:09,400] take the inner product with the vector i.
+- [00:14:10,200 - 00:14:13,560] This by definition is beta i.
+- [00:14:15,120 - 00:14:16,060] In other words,
+- [00:14:16,060 - 00:14:17,780] if I were to expand b
+- [00:14:17,780 - 00:14:19,500] in the same way I expanded a,
+- [00:14:20,000 - 00:14:22,300] I would use the coefficients beta i.
+- [00:14:22,560 - 00:14:24,260] That's what we learned up on the top board.
+- [00:14:24,860 - 00:14:25,900] This is beta i.
+- [00:14:25,900 - 00:14:26,860] How about over here?
+- [00:14:27,040 - 00:14:28,490] What can I do with this
+- [00:14:28,490 - 00:14:29,940] to rewrite things in terms of components?
+- [00:14:30,620 - 00:14:32,920] I want to rewrite everything in terms of components
+- [00:14:32,920 - 00:14:34,280] so they actually become
+- [00:14:35,980 - 00:14:37,980] arithmetical operations that you can do.
+- [00:14:38,939 - 00:14:39,540] Well,
+- [00:14:39,540 - 00:14:42,520] here's where we use this trick.
+- [00:14:43,720 - 00:14:45,620] Now whenever you see a vector a,
+- [00:14:45,840 - 00:14:47,780] you can substitute for it
+- [00:14:47,780 - 00:14:50,220] a sum.
+- [00:14:52,660 - 00:14:54,360] Let's do that right in here.
+- [00:14:54,520 - 00:14:55,400] Where a is,
+- [00:14:55,400 - 00:14:56,880] let's substitute i.
+- [00:14:57,900 - 00:14:59,440] I haven't substituted yet.
+- [00:15:00,360 - 00:15:00,960] Now,
+- [00:15:01,959 - 00:15:04,260] the summation variable is not i in here.
+- [00:15:04,280 - 00:15:04,940] It's a j in this case.
+- [00:15:05,420 - 00:15:09,300] i I've used as the external non-summation variable here.
+- [00:15:09,480 - 00:15:10,760] So let's sum over j.
+- [00:15:11,020 - 00:15:13,300] It doesn't matter what we call the summation variable.
+- [00:15:13,860 - 00:15:15,040] j a.
+- [00:15:17,060 - 00:15:20,700] I've stuck in for a the sum of the components
+- [00:15:21,440 - 00:15:22,840] times the jth vector.
+- [00:15:23,180 - 00:15:26,000] Times the jth basis vector.
+- [00:15:26,940 - 00:15:27,840] But now,
+- [00:15:27,840 - 00:15:29,600] a times j,
+- [00:15:29,840 - 00:15:31,420] go up to the top again,
+- [00:15:32,720 - 00:15:35,360] that's just alpha j.
+- [00:15:37,500 - 00:15:38,060] So,
+- [00:15:38,060 - 00:15:39,680] we now have a formula
+- [00:15:40,300 - 00:15:42,120] completely in terms of components.
+- [00:15:42,980 - 00:15:46,760] This is i m j.
+- [00:15:47,040 - 00:15:48,320] I'll get to this in a minute,
+- [00:15:48,320 - 00:15:49,160] but it's a number.
+- [00:15:49,740 - 00:15:51,420] Inner products are numbers.
+- [00:15:52,020 - 00:15:53,820] m times j is a vector,
+- [00:15:54,000 - 00:15:55,980] and you can take its inner product with i.
+- [00:15:56,660 - 00:15:58,500] m times j is a vector,
+- [00:15:58,500 - 00:15:59,900] and vectors,
+- [00:15:59,900 - 00:16:00,640] ket vectors,
+- [00:16:00,760 - 00:16:03,640] have inner products with basis vectors.
+- [00:16:04,100 - 00:16:06,820] Times j a,
+- [00:16:07,360 - 00:16:08,920] or times alpha j,
+- [00:16:14,439 - 00:16:15,740] that's equal to beta i.
+- [00:16:19,280 - 00:16:20,720] So all we have to do
+- [00:16:21,340 - 00:16:23,240] is give this object a name.
+- [00:16:24,420 - 00:16:25,600] What is this object?
+- [00:16:25,860 - 00:16:26,980] I'll tell you again.
+- [00:16:26,980 - 00:16:28,900] You have some operator,
+- [00:16:29,080 - 00:16:30,280] it's an abstract entity.
+- [00:16:30,720 - 00:16:32,980] You have a collection of basis vectors.
+- [00:16:33,640 - 00:16:36,840] You apply the abstract operator
+- [00:16:36,840 - 00:16:38,800] to the vector j,
+- [00:16:39,060 - 00:16:40,580] and take its inner product with i,
+- [00:16:40,680 - 00:16:43,160] and call the thing m i j.
+- [00:16:43,620 - 00:16:44,680] It's a number.
+- [00:16:45,040 - 00:16:46,820] It may be a complex number,
+- [00:16:47,840 - 00:16:48,920] but it's a number.
+- [00:16:49,760 - 00:16:50,980] In other words,
+- [00:16:51,060 - 00:16:54,660] it's possible to characterize linear operators
+- [00:16:55,400 - 00:16:56,000] by
+- [00:16:57,300 - 00:16:59,720] what are called their matrix elements.
+- [00:17:00,060 - 00:17:01,920] These are called the matrix elements
+- [00:17:01,920 - 00:17:05,280] of the linear operator m.
+- [00:17:05,920 - 00:17:08,920] This times alpha j summed over j.
+- [00:17:09,140 - 00:17:11,680] I left out the sum over j here.
+- [00:17:11,839 - 00:17:12,900] Let's put it back in.
+- [00:17:12,980 - 00:17:15,520] Sum on j is equal to beta i.
+- [00:17:17,339 - 00:17:19,060] If somebody hands you
+- [00:17:19,060 - 00:17:21,579] the collection of m i j's,
+- [00:17:21,660 - 00:17:24,079] and somebody hands you a vector
+- [00:17:24,079 - 00:17:25,720] in the form of its components,
+- [00:17:26,000 - 00:17:29,280] you can then start sweeping through it
+- [00:17:29,900 - 00:17:32,180] and calculating what the components
+- [00:17:32,180 - 00:17:34,800] of the output are in terms of the input.
+- [00:17:37,260 - 00:17:39,020] m i j is a matrix.
+- [00:17:39,400 - 00:17:40,820] It has two indices.
+- [00:17:41,300 - 00:17:42,720] It's a square matrix.
+- [00:17:43,440 - 00:17:45,980] If the dimensionality of the space is n,
+- [00:17:46,280 - 00:17:52,120] then m is an n by n matrix.
+- [00:17:52,460 - 00:17:53,800] A square matrix.
+- [00:17:54,560 - 00:17:55,920] It's a square matrix,
+- [00:17:55,920 - 00:17:56,140] and it's a square matrix.
+- [00:17:56,820 - 00:17:59,500] Alpha can be regarded as a column.
+- [00:18:00,800 - 00:18:02,700] Alpha can be regarded as a column,
+- [00:18:02,920 - 00:18:05,500] and the output is also a column.
+- [00:18:06,840 - 00:18:09,320] It's a column because a was a ket vector
+- [00:18:09,320 - 00:18:10,700] and b was a ket vector.
+- [00:18:11,320 - 00:18:11,940] All right,
+- [00:18:11,940 - 00:18:13,920] so another way to write the same thing,
+- [00:18:14,020 - 00:18:16,210] this is one way to
+- [00:18:16,210 - 00:18:18,400] write m times a equals b.
+- [00:18:19,400 - 00:18:19,880] Well,
+- [00:18:19,880 - 00:18:21,060] here's one way to write it,
+- [00:18:21,060 - 00:18:21,520] abstract.
+- [00:18:22,000 - 00:18:24,660] Here's another way to write it as a concrete sum,
+- [00:18:25,920 - 00:18:27,020] and the third way is to recognize
+- [00:18:27,020 - 00:18:28,740] that this is just the multiplication
+- [00:18:28,740 - 00:18:30,960] of a matrix times a column vector.
+- [00:18:32,880 - 00:18:34,540] You write the matrix m
+- [00:18:36,040 - 00:18:38,240] by displaying all of its components,
+- [00:18:39,360 - 00:18:40,380] m one one,
+- [00:18:40,380 - 00:18:42,780] m one two,
+- [00:18:43,000 - 00:18:44,300] m one three,
+- [00:18:44,300 - 00:18:45,140] dot dot dot,
+- [00:18:45,400 - 00:18:46,740] m two one,
+- [00:18:46,740 - 00:18:48,080] m two two,
+- [00:18:48,260 - 00:18:49,020] dot dot dot,
+- [00:18:49,020 - 00:18:50,120] dot dot dot dot dot dot.
+- [00:18:51,520 - 00:18:53,520] It's just an array that exhibits
+- [00:18:53,520 - 00:18:55,200] the matrix elements,
+- [00:18:55,360 - 00:18:56,380] we'll now learn to call these
+- [00:18:56,380 - 00:18:57,780] the matrix elements of m,
+- [00:18:59,260 - 00:19:01,420] times the column vector a,
+- [00:19:02,400 - 00:19:03,280] alpha one,
+- [00:19:03,280 - 00:19:04,160] alpha two,
+- [00:19:04,260 - 00:19:05,000] dot dot dot,
+- [00:19:05,000 - 00:19:06,300] alpha n.
+- [00:19:08,340 - 00:19:09,660] And what is the rule?
+- [00:19:09,920 - 00:19:10,380] This,
+- [00:19:10,380 - 00:19:11,140] of course,
+- [00:19:11,140 - 00:19:12,500] is supposed to result
+- [00:19:13,280 - 00:19:15,900] in an output which is beta one,
+- [00:19:15,900 - 00:19:16,860] beta two,
+- [00:19:16,940 - 00:19:17,580] dot dot,
+- [00:19:17,580 - 00:19:18,380] beta n.
+- [00:19:19,360 - 00:19:20,060] All right,
+- [00:19:20,060 - 00:19:21,260] what's the rule that's implied
+- [00:19:21,260 - 00:19:23,000] by this equation over here?
+- [00:19:23,060 - 00:19:23,500] It's very simple.
+- [00:19:23,520 - 00:19:28,240] If you want the first entry over here,
+- [00:19:28,960 - 00:19:30,560] you take the first row,
+- [00:19:31,360 - 00:19:33,080] and you take its inner product
+- [00:19:33,080 - 00:19:34,140] with the column here.
+- [00:19:34,780 - 00:19:35,860] Not the inner product,
+- [00:19:35,900 - 00:19:37,000] you can call it the inner product.
+- [00:19:37,200 - 00:19:37,820] m one one,
+- [00:19:37,820 - 00:19:38,620] alpha one,
+- [00:19:38,820 - 00:19:40,140] plus m one two,
+- [00:19:40,140 - 00:19:40,880] alpha two,
+- [00:19:40,980 - 00:19:42,000] plus m one three,
+- [00:19:42,000 - 00:19:42,740] alpha three,
+- [00:19:42,840 - 00:19:44,420] right down to the bottom.
+- [00:19:45,560 - 00:19:48,700] That's exactly this formula.
+- [00:19:48,980 - 00:19:49,900] m one two,
+- [00:19:49,900 - 00:19:51,340] sorry,
+- [00:19:51,480 - 00:19:52,100] m one one,
+- [00:19:52,100 - 00:19:52,860] alpha one,
+- [00:19:52,860 - 00:19:54,100] plus m one two,
+- [00:19:54,100 - 00:19:54,800] alpha two,
+- [00:19:54,920 - 00:19:55,720] and so forth,
+- [00:19:55,820 - 00:19:58,400] is exactly the standard rule
+- [00:19:58,400 - 00:20:01,380] for multiplying a matrix by a column vector.
+- [00:20:03,040 - 00:20:03,760] All right,
+- [00:20:03,760 - 00:20:04,980] so now we have a third way
+- [00:20:04,980 - 00:20:07,980] to represent the action of a matrix
+- [00:20:07,980 - 00:20:09,700] on a vector.
+- [00:20:10,980 - 00:20:12,460] This is less abstract.
+- [00:20:13,600 - 00:20:14,500] It's concrete.
+- [00:20:14,740 - 00:20:15,960] If you know the matrix elements,
+- [00:20:16,100 - 00:20:17,400] you know exactly what to do with them.
+- [00:20:17,820 - 00:20:20,480] The only thing about it is it does depend
+- [00:20:20,480 - 00:20:22,180] on a particular choice
+- [00:20:22,180 - 00:20:23,580] of your basis vectors.
+- [00:20:24,500 - 00:20:28,560] The specifics of the matrix elements here
+- [00:20:29,020 - 00:20:30,680] and the column vector will depend
+- [00:20:30,680 - 00:20:32,000] on your choice of,
+- [00:20:32,100 - 00:20:33,980] once you pick a basis,
+- [00:20:34,280 - 00:20:35,140] you stick with it.
+- [00:20:36,080 - 00:20:38,200] But you could have chosen a different basis,
+- [00:20:38,380 - 00:20:40,120] in which case these components
+- [00:20:40,120 - 00:20:41,140] would have been different.
+- [00:20:41,960 - 00:20:43,760] The matrix elements would have been different.
+- [00:20:44,420 - 00:20:45,320] After all,
+- [00:20:45,320 - 00:20:46,040] the matrix elements
+- [00:20:46,040 - 00:20:50,180] are themselves related to the basis vectors.
+- [00:20:50,180 - 00:20:52,360] And so you lose something
+- [00:20:52,360 - 00:20:53,140] and you gain something
+- [00:20:53,140 - 00:20:55,620] by going to a matrix type representation.
+- [00:20:56,160 - 00:21:01,560] What you lose is the geometric idea
+- [00:21:01,560 - 00:21:04,000] of a relationship between two vectors
+- [00:21:04,000 - 00:21:06,220] that's independent of the basis choice.
+- [00:21:06,980 - 00:21:11,280] What you gain is a computational,
+- [00:21:11,700 - 00:21:14,160] actual mechanical algorithm
+- [00:21:14,160 - 00:21:15,800] for producing,
+- [00:21:15,860 - 00:21:17,920] or for the machine itself.
+- [00:21:18,220 - 00:21:18,960] Here is the machine.
+- [00:21:18,960 - 00:21:19,940] The machine is a matrix,
+- [00:21:20,480 - 00:21:22,560] and what it does is it grinds through
+- [00:21:22,560 - 00:21:23,200] m11,
+- [00:21:23,200 - 00:21:23,960] alpha1,
+- [00:21:23,960 - 00:21:24,880] blah blah blah blah blah,
+- [00:21:24,960 - 00:21:26,020] then it goes to the next row,
+- [00:21:26,240 - 00:21:27,420] does the thing again,
+- [00:21:27,540 - 00:21:28,440] goes to the next row,
+- [00:21:28,580 - 00:21:29,360] does the thing again,
+- [00:21:30,020 - 00:21:32,300] and just spits out a final answer.
+- [00:21:38,540 - 00:21:40,200] These things are of course also true
+- [00:21:40,200 - 00:21:42,280] for ordinary vectors in three-dimensional space.
+- [00:21:42,640 - 00:21:43,400] They're not specific.
+- [00:21:44,260 - 00:21:45,880] We tend not to use them as much
+- [00:21:45,880 - 00:21:47,400] in three-dimensional ordinary vectors.
+- [00:21:48,260 - 00:21:51,060] But they're quite essential
+- [00:21:52,220 - 00:21:53,540] in quantum mechanics.
+- [00:21:53,700 - 00:21:53,860] Yes,
+- [00:21:53,860 - 00:21:54,480] Martha?
+- [00:21:54,920 - 00:21:55,860] This may be getting ahead.
+- [00:21:56,980 - 00:21:58,800] Could the choice of basis vectors
+- [00:21:58,800 - 00:22:00,720] ever make a difference to whether or not
+- [00:22:00,720 - 00:22:02,360] you can see the solution to a problem?
+- [00:22:02,700 - 00:22:03,100] Well,
+- [00:22:05,040 - 00:22:05,520] alright,
+- [00:22:05,520 - 00:22:07,200] the precise way you ask it,
+- [00:22:07,280 - 00:22:08,580] whether it can make a difference
+- [00:22:08,580 - 00:22:10,580] to the way you see through a problem,
+- [00:22:10,780 - 00:22:12,820] certainly a wrong choice of basis
+- [00:22:12,820 - 00:22:15,100] can leave you completely confused.
+- [00:22:15,540 - 00:22:17,260] I think what you really meant is,
+- [00:22:17,400 - 00:22:19,000] can different choices of basis
+- [00:22:19,000 - 00:22:21,220] lead to different physical answers?
+- [00:22:21,400 - 00:22:22,580] And that had better not be.
+- [00:22:23,080 - 00:22:24,580] Then you're doing something wrong.
+- [00:22:25,080 - 00:22:25,920] You have to be smart.
+- [00:22:26,940 - 00:22:27,420] Yeah,
+- [00:22:27,420 - 00:22:27,840] yeah.
+- [00:22:27,900 - 00:22:31,060] It's often the case that a convenient choice of basis
+- [00:22:31,060 - 00:22:33,420] will make your computations especially simple.
+- [00:22:35,020 - 00:22:36,620] And a bad choice of basis
+- [00:22:36,620 - 00:22:38,240] might make them horribly complicated.
+- [00:22:38,680 - 00:22:39,400] That's true.
+- [00:22:41,040 - 00:22:42,820] But at the end of the day,
+- [00:22:42,920 - 00:22:44,840] the answer should not depend on it.
+- [00:22:45,520 - 00:22:47,140] The result of an experiment.
+- [00:22:48,159 - 00:22:48,600] Okay?
+- [00:22:48,720 - 00:22:50,420] So now we have the idea
+- [00:22:50,420 - 00:22:52,480] of a linear operator
+- [00:22:54,320 - 00:22:55,100] operating on a,
+- [00:22:55,200 - 00:22:58,000] and several different versions of it.
+- [00:23:01,320 - 00:23:01,760] Question?
+- [00:23:02,200 - 00:23:02,500] Yeah.
+- [00:23:02,680 - 00:23:03,740] Is it legitimate,
+- [00:23:04,620 - 00:23:06,480] it seems that within the definition
+- [00:23:06,480 - 00:23:07,120] of a linear operator,
+- [00:23:07,260 - 00:23:08,680] you have an operator that gives you
+- [00:23:08,680 - 00:23:10,420] a ket vector from a bra vector,
+- [00:23:10,640 - 00:23:11,200] or vice versa.
+- [00:23:11,280 - 00:23:11,440] No,
+- [00:23:11,440 - 00:23:11,580] no,
+- [00:23:11,580 - 00:23:11,720] no,
+- [00:23:11,720 - 00:23:11,900] no.
+- [00:23:12,020 - 00:23:12,460] No,
+- [00:23:12,460 - 00:23:12,640] no,
+- [00:23:12,640 - 00:23:12,800] no,
+- [00:23:12,800 - 00:23:12,960] no,
+- [00:23:12,960 - 00:23:13,040] no.
+- [00:23:13,580 - 00:23:15,740] Linear operators act on ket vectors
+- [00:23:15,740 - 00:23:16,680] to give ket vectors.
+- [00:23:16,680 - 00:23:18,960] The complex conjugation is not allowed.
+- [00:23:19,220 - 00:23:19,740] That's right.
+- [00:23:19,820 - 00:23:20,200] Complex,
+- [00:23:20,200 - 00:23:20,720] ah,
+- [00:23:20,720 - 00:23:21,700] very good.
+- [00:23:21,880 - 00:23:22,360] All right.
+- [00:23:22,360 - 00:23:22,560] Well,
+- [00:23:22,560 - 00:23:22,960] let's,
+- [00:23:22,960 - 00:23:23,420] yeah.
+- [00:23:24,720 - 00:23:29,940] The simplest kind of linear operator
+- [00:23:29,940 - 00:23:32,260] is just multiplication by a complex number.
+- [00:23:32,940 - 00:23:35,380] I just multiply A by a complex number
+- [00:23:35,380 - 00:23:37,400] and get another vector.
+- [00:23:37,580 - 00:23:39,280] It's basically the same vector,
+- [00:23:39,340 - 00:23:41,060] but twice as long or something.
+- [00:23:41,280 - 00:23:42,740] That is a linear operator.
+- [00:23:43,840 - 00:23:46,660] You might ask whether complex conjugation
+- [00:23:46,680 - 00:23:47,960] is a linear operator.
+- [00:23:48,800 - 00:23:49,760] I take,
+- [00:23:49,760 - 00:23:52,880] I take the components of a vector
+- [00:23:52,880 - 00:23:55,160] and replace them by their complex conjugates.
+- [00:23:55,220 - 00:23:56,300] The answer is no.
+- [00:23:56,880 - 00:23:57,740] It is not.
+- [00:23:58,840 - 00:24:01,140] And you can check the definitions.
+- [00:24:02,060 - 00:24:03,720] Multiplying the components of a vector,
+- [00:24:03,880 - 00:24:04,780] or not multiplying them,
+- [00:24:04,860 - 00:24:06,640] but complex conjugating them is not.
+- [00:24:07,020 - 00:24:09,840] What it does do is it takes a vector,
+- [00:24:11,640 - 00:24:13,160] it's a different kind of machine,
+- [00:24:13,300 - 00:24:14,540] complex conjugation.
+- [00:24:14,800 - 00:24:16,660] It's a machine which takes a vector,
+- [00:24:16,660 - 00:24:18,280] it just takes a bra vector to a ket vector,
+- [00:24:18,380 - 00:24:19,800] or a ket vector to a bra vector.
+- [00:24:20,120 - 00:24:21,400] And that's strictly,
+- [00:24:22,660 - 00:24:24,480] it's called an anti-linear operator.
+- [00:24:26,540 - 00:24:27,780] It's not anti-linear.
+- [00:24:27,980 - 00:24:28,200] I mean,
+- [00:24:28,200 - 00:24:28,600] it's just,
+- [00:24:28,720 - 00:24:30,360] it's not the opposite of linear.
+- [00:24:31,240 - 00:24:32,380] It's just a word.
+- [00:24:33,719 - 00:24:34,159] Well,
+- [00:24:34,159 - 00:24:35,240] the reason it's a word,
+- [00:24:35,320 - 00:24:36,880] the reason it was called an anti-linear
+- [00:24:36,880 - 00:24:39,300] is because the process of complex conjugation
+- [00:24:39,300 - 00:24:41,620] is in some deep way related to anti-particles,
+- [00:24:41,720 - 00:24:43,720] but we're not there yet.
+- [00:24:47,939 - 00:24:48,580] Yeah.
+- [00:24:49,880 - 00:24:50,740] All right,
+- [00:24:50,740 - 00:24:51,400] now let's talk,
+- [00:24:51,440 - 00:24:52,680] let's talk about ket,
+- [00:24:52,680 - 00:24:53,200] sorry,
+- [00:24:53,200 - 00:24:53,840] bra vectors.
+- [00:24:54,820 - 00:24:55,860] So far,
+- [00:24:55,860 - 00:24:58,100] we have defined our linear operators
+- [00:24:58,660 - 00:25:02,320] to act only on ket vectors.
+- [00:25:03,260 - 00:25:07,020] But every linear operator can also be given a definition.
+- [00:25:07,280 - 00:25:08,600] We need a definition,
+- [00:25:08,600 - 00:25:09,100] of course.
+- [00:25:09,120 - 00:25:10,140] We haven't defined it yet.
+- [00:25:10,280 - 00:25:11,440] We need a definition.
+- [00:25:11,740 - 00:25:13,260] But there is also a definition
+- [00:25:13,260 - 00:25:15,760] of any given linear operator
+- [00:25:15,760 - 00:25:17,620] acting on a bra vector.
+- [00:25:18,400 - 00:25:18,960] Okay,
+- [00:25:18,960 - 00:25:19,780] let's see if we can
+- [00:25:22,580 - 00:25:23,920] concoct a definition,
+- [00:25:24,160 - 00:25:25,660] and then we'll stick with that definition.
+- [00:25:28,660 - 00:25:30,760] What might be the rules
+- [00:25:32,900 - 00:25:36,580] for the action of that same linear operator
+- [00:25:36,580 - 00:25:40,280] when it acts on a bra vector?
+- [00:25:40,700 - 00:25:41,620] First of all,
+- [00:25:41,620 - 00:25:42,580] the standard notation,
+- [00:25:42,740 - 00:25:43,340] and it's very,
+- [00:25:43,340 - 00:25:44,960] very good to keep track of notation
+- [00:25:44,960 - 00:25:47,620] and to use the same notation over it.
+- [00:25:48,280 - 00:25:49,440] It's not only neat,
+- [00:25:49,560 - 00:25:51,980] but it keeps things in order.
+- [00:25:53,280 - 00:25:54,960] When you act on a bra vector,
+- [00:25:55,520 - 00:25:57,140] put the corresponding operator
+- [00:25:57,140 - 00:25:58,280] on the right side of it.
+- [00:25:58,760 - 00:25:59,880] It gives something.
+- [00:26:01,200 - 00:26:02,200] Take that something
+- [00:26:02,860 - 00:26:04,140] and take its inner product.
+- [00:26:04,240 - 00:26:05,420] Let's put a bracket around it
+- [00:26:05,420 - 00:26:09,260] to indicate that M acting on A
+- [00:26:09,260 - 00:26:11,080] is itself an entity.
+- [00:26:11,580 - 00:26:14,480] And now let's take its inner product,
+- [00:26:14,480 - 00:26:15,700] with another vector,
+- [00:26:15,700 - 00:26:17,200] B.
+- [00:26:23,100 - 00:26:23,660] Well,
+- [00:26:23,660 - 00:26:25,720] if I removed the bracket here,
+- [00:26:26,480 - 00:26:27,720] I would have a symbol
+- [00:26:28,320 - 00:26:29,780] which would look like this,
+- [00:26:29,860 - 00:26:30,200] A,
+- [00:26:30,200 - 00:26:30,860] M,
+- [00:26:30,860 - 00:26:31,520] B.
+- [00:26:31,840 - 00:26:33,520] And I really wouldn't know
+- [00:26:34,340 - 00:26:35,640] if what I'm supposed to do
+- [00:26:35,640 - 00:26:37,460] is act with M on B
+- [00:26:37,460 - 00:26:40,220] and then take the inner product with A,
+- [00:26:40,820 - 00:26:42,820] or act with M on A
+- [00:26:42,820 - 00:26:44,960] and then take the inner product with B.
+- [00:26:46,720 - 00:26:47,980] The answer is,
+- [00:26:48,120 - 00:26:49,960] with the standard definition
+- [00:26:49,960 - 00:26:54,240] of how linear operators act to the left
+- [00:26:54,820 - 00:26:56,320] on bra vectors,
+- [00:26:56,640 - 00:26:58,240] it doesn't matter.
+- [00:26:58,620 - 00:26:59,760] In other words,
+- [00:26:59,780 - 00:27:02,740] we define the action of an M on an A
+- [00:27:02,740 - 00:27:03,820] to the left,
+- [00:27:04,620 - 00:27:05,280] such that,
+- [00:27:05,400 - 00:27:07,420] and I'll show you that we can always do this,
+- [00:27:07,580 - 00:27:10,020] such that it doesn't matter
+- [00:27:16,219 - 00:27:17,300] which way we do it.
+- [00:27:19,679 - 00:27:20,080] A,
+- [00:27:20,080 - 00:27:20,480] M,
+- [00:27:20,480 - 00:27:22,200] B is the same as A,
+- [00:27:22,200 - 00:27:22,620] M,
+- [00:27:22,620 - 00:27:23,000] B,
+- [00:27:24,379 - 00:27:25,900] that you can remove the brackets.
+- [00:27:28,040 - 00:27:28,440] Okay,
+- [00:27:28,440 - 00:27:29,600] let's see that we can do this.
+- [00:27:30,380 - 00:27:31,400] In order to see it,
+- [00:27:31,420 - 00:27:33,360] let's start with a definition this way.
+- [00:27:35,080 - 00:27:36,680] Let's start with a definition this way.
+- [00:27:36,740 - 00:27:37,280] Where's my...
+- [00:27:38,159 - 00:27:38,560] Ah,
+- [00:27:38,560 - 00:27:39,060] okay.
+- [00:27:40,380 - 00:27:41,880] Start with a definition this way,
+- [00:27:41,960 - 00:27:42,800] and then we'll do this.
+- [00:27:42,800 - 00:27:42,920] Now,
+- [00:27:42,920 - 00:27:45,760] I'm going to use that trick up on the top,
+- [00:27:46,440 - 00:27:50,740] where you write a vector by inserting...
+- [00:27:50,740 - 00:27:53,120] There's a name for this operation here.
+- [00:27:53,440 - 00:27:56,500] It's called inserting a complete set of states.
+- [00:27:57,920 - 00:27:59,960] Complete simply means it's a basis.
+- [00:28:01,860 - 00:28:04,920] It's called inserting a complete set of states.
+- [00:28:05,020 - 00:28:05,620] It did nothing.
+- [00:28:05,760 - 00:28:07,840] It took A and it rewrote A,
+- [00:28:07,980 - 00:28:10,460] but it rewrote A in terms of its components.
+- [00:28:10,740 - 00:28:12,260] So let's do that over...
+- [00:28:12,899 - 00:28:14,060] on B over here.
+- [00:28:14,740 - 00:28:16,220] We can do the same thing over here.
+- [00:28:16,280 - 00:28:17,720] We can write that this is equal to B,
+- [00:28:20,659 - 00:28:21,060] J,
+- [00:28:23,559 - 00:28:24,760] J summed over J.
+- [00:28:24,880 - 00:28:26,320] I'm not going to write the summation signs.
+- [00:28:26,680 - 00:28:29,100] Maybe I'll put them at the end out here.
+- [00:28:30,220 - 00:28:31,160] Summation I and J.
+- [00:28:32,920 - 00:28:33,460] All right,
+- [00:28:33,460 - 00:28:34,700] so this is the same vector as B.
+- [00:28:36,460 - 00:28:37,580] Then put M there.
+- [00:28:38,680 - 00:28:40,180] Let's put the bracket around it.
+- [00:28:40,420 - 00:28:41,460] Put M there,
+- [00:28:41,460 - 00:28:43,110] and now do exactly the
+- [00:28:43,110 - 00:28:44,760] same thing on the ket vector.
+- [00:28:45,260 - 00:28:45,740] Remember,
+- [00:28:45,740 - 00:28:47,350] the ket vector can also
+- [00:28:47,350 - 00:28:48,960] be expanded in the same way.
+- [00:28:49,720 - 00:28:50,680] So here we go.
+- [00:28:50,900 - 00:28:51,180] A,
+- [00:28:51,180 - 00:28:54,080] I,
+- [00:28:54,080 - 00:28:55,980] I.
+- [00:29:01,980 - 00:29:03,140] What do we see here?
+- [00:29:03,240 - 00:29:07,020] We see this is alpha star I.
+- [00:29:07,260 - 00:29:09,340] Why did I put the star there?
+- [00:29:12,100 - 00:29:14,880] Because the bra vectors are complex conjugates.
+- [00:29:15,380 - 00:29:16,580] Alpha sub star I.
+- [00:29:17,160 - 00:29:18,200] There's an M,
+- [00:29:18,200 - 00:29:18,860] I,
+- [00:29:18,860 - 00:29:19,240] J.
+- [00:29:21,540 - 00:29:23,420] I in a product of I,
+- [00:29:23,420 - 00:29:24,700] M times J.
+- [00:29:24,920 - 00:29:27,920] And then there is beta J.
+- [00:29:30,480 - 00:29:31,620] That's all we have here.
+- [00:29:32,440 - 00:29:34,380] This is summed on I and J.
+- [00:29:37,580 - 00:29:38,900] M with I on the
+- [00:29:38,900 - 00:29:40,220] left and J on the right.
+- [00:29:40,220 - 00:29:40,720] That's M,
+- [00:29:40,720 - 00:29:40,860] I,
+- [00:29:40,860 - 00:29:41,060] J.
+- [00:29:41,360 - 00:29:42,160] J beta,
+- [00:29:42,160 - 00:29:43,020] alpha I.
+- [00:29:44,060 - 00:29:45,230] And you can see from
+- [00:29:45,230 - 00:29:46,400] the way that we've written this
+- [00:29:46,400 - 00:29:50,380] that it doesn't matter if I first sum over J
+- [00:29:50,380 - 00:29:52,700] and think of M as
+- [00:29:52,700 - 00:29:55,020] acting on the ket vector beta,
+- [00:29:55,580 - 00:29:58,330] or I sum over I and think of
+- [00:29:58,330 - 00:30:01,080] M as first acting to the left on alpha.
+- [00:30:01,280 - 00:30:02,360] You get the same answer.
+- [00:30:02,940 - 00:30:05,440] It's just a double sum over I and J.
+- [00:30:05,800 - 00:30:07,080] You get the same answer.
+- [00:30:07,820 - 00:30:12,080] And so if you define,
+- [00:30:12,980 - 00:30:13,980] in other words,
+- [00:30:13,980 - 00:30:14,500] you can,
+- [00:30:14,660 - 00:30:17,480] you can define M in such a
+- [00:30:17,480 - 00:30:20,300] way that it doesn't matter which order,
+- [00:30:20,460 - 00:30:22,420] which order or where you put the brackets.
+- [00:30:23,420 - 00:30:24,740] That eases your life.
+- [00:30:24,860 - 00:30:26,200] You don't have to remember whether
+- [00:30:26,200 - 00:30:27,540] you meant M acts on B
+- [00:30:27,540 - 00:30:29,660] and then you take the inner product with A,
+- [00:30:29,840 - 00:30:31,280] or M acts on A and then
+- [00:30:31,280 - 00:30:32,720] you take the inner product with B.
+- [00:30:32,800 - 00:30:33,360] Same thing.
+- [00:30:34,840 - 00:30:35,320] Okay,
+- [00:30:35,320 - 00:30:35,960] but there is a,
+- [00:30:36,080 - 00:30:36,540] there is,
+- [00:30:38,320 - 00:30:38,900] that's,
+- [00:30:42,120 - 00:30:43,920] that's the power of a nice notation.
+- [00:30:44,660 - 00:30:46,780] But now let's consider another question.
+- [00:30:49,740 - 00:30:56,860] Supposing that the linear operator M on A gives B.
+- [00:30:59,140 - 00:30:59,720] Incidentally,
+- [00:30:59,720 - 00:31:01,250] I'm using A and B all
+- [00:31:01,250 - 00:31:02,780] over the place in different ways.
+- [00:31:04,660 - 00:31:06,340] There it was just two vectors.
+- [00:31:07,080 - 00:31:07,220] Here,
+- [00:31:07,220 - 00:31:09,160] A is the input vector,
+- [00:31:09,160 - 00:31:10,580] B is the output vector.
+- [00:31:10,780 - 00:31:13,120] So let's suppose that the machine M,
+- [00:31:14,100 - 00:31:16,020] when you stick A into it,
+- [00:31:16,020 - 00:31:17,160] out spits B.
+- [00:31:19,700 - 00:31:22,460] We could ask what's the corresponding
+- [00:31:24,340 - 00:31:25,940] bra vector relationship.
+- [00:31:26,600 - 00:31:29,740] Is there a linear operator which has the property
+- [00:31:29,740 - 00:31:32,740] that when it acts on,
+- [00:31:35,880 - 00:31:37,060] I'm not going to call it a vector,
+- [00:31:37,060 - 00:31:37,820] I'm going to call it M yet.
+- [00:31:38,640 - 00:31:39,500] It's not M.
+- [00:31:40,540 - 00:31:42,360] Let's call it scripty M.
+- [00:31:43,460 - 00:31:44,260] Is there,
+- [00:31:44,260 - 00:31:45,380] for every M,
+- [00:31:46,200 - 00:31:47,820] which acts on A to give B,
+- [00:31:48,460 - 00:31:50,960] is there a corresponding scripty M
+- [00:31:50,960 - 00:31:53,500] which acts on the corresponding bra vector,
+- [00:31:57,980 - 00:31:58,500] B,
+- [00:32:00,840 - 00:32:04,360] to give the corresponding bra vector over here?
+- [00:32:05,200 - 00:32:05,720] Well,
+- [00:32:05,720 - 00:32:06,300] yes there is,
+- [00:32:06,300 - 00:32:07,650] and we're going to figure out how
+- [00:32:07,650 - 00:32:09,000] to figure out what it is soon enough.
+- [00:32:09,700 - 00:32:13,160] But it is not the original M.
+- [00:32:13,740 - 00:32:15,920] One example would be,
+- [00:32:15,960 - 00:32:19,940] what if M was just multiplication by a complex number?
+- [00:32:20,500 - 00:32:22,140] Then what would scripty M be?
+- [00:32:24,660 - 00:32:26,680] Multiplication by the complex conjugate number.
+- [00:32:27,240 - 00:32:27,800] So,
+- [00:32:27,800 - 00:32:29,600] whatever M is,
+- [00:32:29,700 - 00:32:33,080] is not necessarily the same as scripty M.
+- [00:32:33,280 - 00:32:34,940] It would be the same as scripty M,
+- [00:32:34,940 - 00:32:38,400] if it was multiplication by a real number.
+- [00:32:39,280 - 00:32:41,700] But if it's multiplication by a complex number,
+- [00:32:42,000 - 00:32:43,560] then in general,
+- [00:32:43,720 - 00:32:44,060] well,
+- [00:32:44,060 - 00:32:46,740] in general it will not give the same relationship.
+- [00:32:47,480 - 00:32:50,340] We would normally just put a complex conjugate sign
+- [00:32:50,340 - 00:32:52,640] if we wanted to operate on the other direction.
+- [00:32:53,540 - 00:32:54,300] All right,
+- [00:32:54,300 - 00:32:56,860] the notation that is standard
+- [00:32:58,040 - 00:33:00,130] is to say that the operator
+- [00:33:00,130 - 00:33:02,220] which when acting to the left,
+- [00:33:04,940 - 00:33:06,220] is the reflection,
+- [00:33:06,220 - 00:33:06,920] if you like,
+- [00:33:07,100 - 00:33:09,170] is the dual of the
+- [00:33:09,170 - 00:33:11,240] operator M acting to the right,
+- [00:33:11,820 - 00:33:13,340] that is not called M,
+- [00:33:13,560 - 00:33:16,940] it is called M dagger.
+- [00:33:17,700 - 00:33:24,520] The dagger is a operator version of complex conjugation.
+- [00:33:25,600 - 00:33:29,840] It's an operator version of complex conjugation,
+- [00:33:29,840 - 00:33:32,620] or a matrix version of complex conjugation.
+- [00:33:32,680 - 00:33:34,380] It's called Hermitian conjugation,
+- [00:33:34,380 - 00:33:37,560] but we'll get to these fancy words soon enough.
+- [00:33:38,680 - 00:33:39,200] Well,
+- [00:33:39,200 - 00:33:39,760] okay,
+- [00:33:39,760 - 00:33:40,560] this is abstract,
+- [00:33:40,720 - 00:33:42,410] but let's see if we
+- [00:33:42,410 - 00:33:44,100] can get to a concrete notion.
+- [00:33:46,560 - 00:33:47,500] M i j,
+- [00:33:47,500 - 00:33:48,900] the abstract operator,
+- [00:33:49,120 - 00:33:51,640] is equivalent to a concrete matrix.
+- [00:33:52,300 - 00:33:54,240] If I give you the concrete matrix,
+- [00:33:54,580 - 00:33:56,080] then I'm giving you M.
+- [00:33:56,560 - 00:33:57,680] The question is,
+- [00:33:57,680 - 00:33:59,300] in terms of that concrete matrix,
+- [00:33:59,660 - 00:34:02,520] is there a concrete matrix for M dagger?
+- [00:34:02,820 - 00:34:03,880] And the answer is yes.
+- [00:34:04,380 - 00:34:05,480] How do we find it?
+- [00:34:05,520 - 00:34:07,300] We find it just by proceeding dead ahead.
+- [00:34:08,340 - 00:34:15,980] I would like to know what the matrix elements,
+- [00:34:16,480 - 00:34:18,020] let's see which way I did it.
+- [00:34:26,440 - 00:34:26,880] Yeah.
+- [00:34:32,659 - 00:34:35,269] This is what I would call
+- [00:34:35,269 - 00:34:37,880] the ijth matrix element of M dagger.
+- [00:34:38,080 - 00:34:39,219] I don't know what M dagger is yet.
+- [00:34:39,260 - 00:34:40,540] I have a suspicion that it's
+- [00:34:40,540 - 00:34:41,820] something to do with complex conjugates.
+- [00:34:43,060 - 00:34:45,260] But this is its matrix elements,
+- [00:34:45,540 - 00:34:47,040] concrete set of numbers.
+- [00:34:48,440 - 00:34:51,280] Can we find out what they are?
+- [00:34:51,739 - 00:34:52,179] All right,
+- [00:34:52,179 - 00:34:52,760] yeah,
+- [00:34:52,760 - 00:34:54,699] I think I have to step back for a minute.
+- [00:34:54,699 - 00:34:58,869] Let me suppose that M acts on
+- [00:34:58,869 - 00:35:03,040] the basis vector to give i prime.
+- [00:35:04,860 - 00:35:07,150] i prime is just the result of
+- [00:35:07,150 - 00:35:09,440] sticking the basis vector into the machine,
+- [00:35:10,100 - 00:35:11,480] into the M machine,
+- [00:35:11,800 - 00:35:13,240] and this is what comes out.
+- [00:35:13,360 - 00:35:14,500] Let's suppose that's the result.
+- [00:35:15,360 - 00:35:16,020] Okay.
+- [00:35:16,320 - 00:35:21,940] Now let's take j M i.
+- [00:35:22,960 - 00:35:24,680] That's equal to j M i.
+- [00:35:24,700 - 00:35:25,600] That's equal to j i prime.
+- [00:35:26,900 - 00:35:29,580] All I've done is take the inner product with j.
+- [00:35:31,040 - 00:35:34,740] Here's the matrix element of the matrix M,
+- [00:35:34,980 - 00:35:36,540] and it's just this inner product.
+- [00:35:36,740 - 00:35:38,100] That was a trivial operation.
+- [00:35:38,380 - 00:35:39,120] I didn't do anything.
+- [00:35:39,880 - 00:35:40,440] Okay.
+- [00:35:40,560 - 00:35:42,220] I didn't do anything very significant.
+- [00:35:45,500 - 00:35:47,080] If this is true,
+- [00:35:47,080 - 00:35:48,760] then by definition,
+- [00:35:50,980 - 00:35:52,400] then by definition,
+- [00:35:55,400 - 00:35:58,440] if M dagger acting to the left,
+- [00:35:58,640 - 00:36:00,110] what does M dagger acting
+- [00:36:00,110 - 00:36:01,580] to the left give on i?
+- [00:36:05,140 - 00:36:05,620] Okay.
+- [00:36:05,640 - 00:36:06,640] Look at this equation here.
+- [00:36:06,960 - 00:36:07,760] M dagger,
+- [00:36:07,760 - 00:36:09,020] when it acts to the left,
+- [00:36:10,580 - 00:36:12,360] gives the bra vector b.
+- [00:36:14,160 - 00:36:14,660] All right.
+- [00:36:14,720 - 00:36:16,200] So that's what all that dagger does,
+- [00:36:16,320 - 00:36:18,140] is it sort of turns the equation over.
+- [00:36:18,600 - 00:36:21,080] So what does M dagger acting on i give?
+- [00:36:22,080 - 00:36:24,120] It gives the bra vector i prime.
+- [00:36:24,240 - 00:36:24,680] So what does M dagger acting on i give?
+- [00:36:24,680 - 00:36:27,800] If M dagger acts on the bra i,
+- [00:36:28,460 - 00:36:30,980] it must give the bra vector i prime.
+- [00:36:31,360 - 00:36:34,440] It just flips the equation from bras to kets.
+- [00:36:35,080 - 00:36:37,340] So what we have over
+- [00:36:37,340 - 00:36:39,600] here then is i prime j.
+- [00:36:43,160 - 00:36:44,520] That's the matrix element.
+- [00:36:44,660 - 00:36:46,140] That's this matrix element over here.
+- [00:36:56,220 - 00:36:56,740] Okay.
+- [00:36:56,820 - 00:36:57,720] So let's look at what we have.
+- [00:36:58,160 - 00:37:00,080] We have the matrix element of M
+- [00:37:00,080 - 00:37:02,500] is the inner product of j with i prime.
+- [00:37:03,580 - 00:37:06,300] The matrix element of M dagger
+- [00:37:06,900 - 00:37:09,260] is the inner product of i prime with j.
+- [00:37:09,340 - 00:37:11,060] What's the relationship between these two?
+- [00:37:12,800 - 00:37:13,320] Transpose.
+- [00:37:16,540 - 00:37:18,140] Transpose and complex conjugate.
+- [00:37:18,380 - 00:37:19,360] Just a complex conjugate.
+- [00:37:20,220 - 00:37:21,940] If you take two vectors,
+- [00:37:21,940 - 00:37:23,520] a and b,
+- [00:37:25,640 - 00:37:28,540] and you think of them in the opposite order,
+- [00:37:29,800 - 00:37:31,930] the bra a times the ket b
+- [00:37:31,930 - 00:37:34,060] versus the bra b times the ket a,
+- [00:37:34,120 - 00:37:37,080] the relationship between them is just complex conjugation.
+- [00:37:38,300 - 00:37:41,960] So this here is just a complex conjugate of this.
+- [00:37:43,500 - 00:37:47,880] So what we've derived is that the matrix element,
+- [00:37:47,980 - 00:37:50,760] the i jth matrix element of M dagger
+- [00:37:50,760 - 00:37:53,500] is the complex conjugate of j.
+- [00:37:55,060 - 00:38:00,240] So what we have here is the matrix element
+- [00:38:00,240 - 00:38:05,420] of the j i th matrix element of M.
+- [00:38:07,080 - 00:38:09,960] So if I know the matrix elements of M,
+- [00:38:11,250 - 00:38:12,675] what do I do to get
+- [00:38:12,675 - 00:38:14,100] the matrix elements of M dagger?
+- [00:38:14,620 - 00:38:15,800] It's very simple.
+- [00:38:16,020 - 00:38:17,660] You complex conjugate,
+- [00:38:17,660 - 00:38:19,080] but that's not quite enough.
+- [00:38:19,600 - 00:38:21,240] You complex conjugate,
+- [00:38:21,240 - 00:38:25,920] and you interchange i's and j's.
+- [00:38:26,600 - 00:38:28,660] You interchange i and j.
+- [00:38:29,540 - 00:38:30,220] Okay?
+- [00:38:31,180 - 00:38:33,400] Another way to write it
+- [00:38:33,400 - 00:38:35,620] is that M dagger i j
+- [00:38:36,240 - 00:38:40,600] is equal to M j i star.
+- [00:38:44,100 - 00:38:45,540] So now we know a lot.
+- [00:38:45,640 - 00:38:49,200] We know how to construct operators
+- [00:38:49,200 - 00:38:54,380] which act to the left to do the same mapping
+- [00:38:55,020 - 00:38:56,760] that they did when they went to the right.
+- [00:38:57,620 - 00:39:01,600] They map the bra a to the bra b
+- [00:39:02,200 - 00:39:04,150] if the original operator did
+- [00:39:04,150 - 00:39:06,100] the same thing on the kets.
+- [00:39:07,180 - 00:39:07,920] All right,
+- [00:39:07,920 - 00:39:10,230] that's the notion of Hermitian conjugation.
+- [00:39:10,860 - 00:39:12,600] This is called Hermitian conjugation.
+- [00:39:12,600 - 00:39:17,470] The word Hermitian is named after some mathematician
+- [00:39:17,720 - 00:39:19,180] whose name was Hermitian.
+- [00:39:21,620 - 00:39:27,680] So Hermitian conjugation is the process
+- [00:39:27,680 - 00:39:31,420] of interchanging i and j and taking its complex conjugate.
+- [00:39:31,780 - 00:39:33,580] In terms of matrices,
+- [00:39:34,760 - 00:39:36,120] if I have a matrix,
+- [00:39:37,340 - 00:39:39,300] this is an easy way to remember it,
+- [00:39:39,420 - 00:39:40,620] M one one,
+- [00:39:40,620 - 00:39:41,700] M one two,
+- [00:39:41,700 - 00:39:42,540] dot dot dot,
+- [00:39:42,720 - 00:39:43,540] M two one,
+- [00:39:43,540 - 00:39:44,920] M two two.
+- [00:39:47,460 - 00:39:52,540] If that's the matrix representing M,
+- [00:39:52,700 - 00:39:55,440] then the matrix representing its conjugate,
+- [00:39:55,640 - 00:39:56,620] its Hermitian conjugate,
+- [00:39:56,980 - 00:40:00,500] is to simply interchange rows and columns.
+- [00:40:01,100 - 00:40:04,720] That means reflecting it about the diagonal
+- [00:40:05,600 - 00:40:07,920] and then complex conjugating.
+- [00:40:09,000 - 00:40:10,560] Interchanging i and j,
+- [00:40:12,640 - 00:40:15,620] that's like interchanging M one two with M two one.
+- [00:40:16,520 - 00:40:19,240] You just flip it about the diagonal
+- [00:40:19,860 - 00:40:21,840] and you complex conjugate it.
+- [00:40:23,280 - 00:40:25,160] So if I want the matrix elements
+- [00:40:25,160 - 00:40:26,780] of the Hermitian conjugate,
+- [00:40:28,380 - 00:40:28,980] well,
+- [00:40:28,980 - 00:40:30,340] I can't say it anymore,
+- [00:40:30,560 - 00:40:31,900] just do what I said,
+- [00:40:32,200 - 00:40:34,080] you interchange rows and columns
+- [00:40:34,080 - 00:40:36,240] and you complex conjugate.
+- [00:40:36,640 - 00:40:38,140] Interchanging rows and columns
+- [00:40:38,140 - 00:40:41,140] is the same thing as reflecting about the diagonal.
+- [00:40:42,899 - 00:40:44,740] You reflect about the diagonal,
+- [00:40:45,680 - 00:40:46,600] let's do it,
+- [00:40:46,680 - 00:40:49,100] and then you complex conjugate.
+- [00:40:49,960 - 00:40:51,340] Let me give an example.
+- [00:40:51,720 - 00:40:53,320] Supposing I have the matrix
+- [00:40:54,660 - 00:40:55,340] two,
+- [00:40:57,320 - 00:41:01,160] six plus i times seven,
+- [00:41:02,060 - 00:41:05,100] four minus i and nine.
+- [00:41:05,700 - 00:41:07,140] Nine plus i,
+- [00:41:07,140 - 00:41:07,480] okay.
+- [00:41:08,140 - 00:41:08,340] Nine plus i.
+- [00:41:08,900 - 00:41:11,040] What's the Hermitian conjugate of that?
+- [00:41:11,440 - 00:41:12,040] Alright,
+- [00:41:12,040 - 00:41:13,400] you first flip it.
+- [00:41:14,220 - 00:41:16,980] Flipping it leaves the diagonal elements in place
+- [00:41:16,980 - 00:41:19,560] and interchanges the off-diagonal elements.
+- [00:41:20,380 - 00:41:21,600] So you flip it,
+- [00:41:21,660 - 00:41:22,200] two,
+- [00:41:22,200 - 00:41:23,720] nine plus i,
+- [00:41:24,920 - 00:41:27,840] six plus i times seven,
+- [00:41:28,680 - 00:41:30,120] four minus i.
+- [00:41:31,920 - 00:41:34,700] What is that process called of flipping it like that?
+- [00:41:35,060 - 00:41:35,620] Transpose.
+- [00:41:35,800 - 00:41:36,400] Transpose.
+- [00:41:36,400 - 00:41:37,540] That's called a transpose.
+- [00:41:38,020 - 00:41:39,640] So flipping it is a transpose,
+- [00:41:39,720 - 00:41:41,660] but then you have to complex conjugate it.
+- [00:41:42,280 - 00:41:44,140] Complex conjugating just means
+- [00:41:44,140 - 00:41:45,180] wherever you see i,
+- [00:41:45,420 - 00:41:46,420] put minus i.
+- [00:41:47,140 - 00:41:49,500] So this becomes four plus i,
+- [00:41:50,360 - 00:41:52,240] one minus seven i,
+- [00:41:52,420 - 00:41:54,320] and nine minus i.
+- [00:41:55,100 - 00:41:57,600] And that's the matrix that represents
+- [00:41:57,600 - 00:42:00,260] the Hermitian conjugate of the original matrix.
+- [00:42:01,080 - 00:42:02,120] So it's easy.
+- [00:42:03,100 - 00:42:03,940] It's easy,
+- [00:42:03,940 - 00:42:04,560] it's concrete,
+- [00:42:04,800 - 00:42:05,940] and it's also abstract.
+- [00:42:05,940 - 00:42:07,300] It has an abstract side.
+- [00:42:08,140 - 00:42:11,540] The Hermitian conjugate just allows you to turn an equation
+- [00:42:11,540 - 00:42:12,480] from a bra ket,
+- [00:42:12,540 - 00:42:14,380] a bra vector to a ket vector.
+- [00:42:14,780 - 00:42:17,740] And in terms of concrete matrix elements,
+- [00:42:18,080 - 00:42:19,980] you flip i and j,
+- [00:42:20,140 - 00:42:21,900] and you complex conjugate.
+- [00:42:22,200 - 00:42:23,620] And that defines m dagger.
+- [00:42:31,920 - 00:42:32,880] Now as I said,
+- [00:42:32,940 - 00:42:34,100] in general these matrices
+- [00:42:34,100 - 00:42:37,120] are thought of as complex objects.
+- [00:42:39,380 - 00:42:42,780] And the notion of complex conjugation
+- [00:42:42,780 - 00:42:45,960] is replaced by this Hermitian conjugation.
+- [00:42:46,720 - 00:42:48,780] Simultaneous flipping and...
+- [00:42:48,780 - 00:42:51,760] Now what is a real number?
+- [00:42:52,080 - 00:42:53,660] A real number is one
+- [00:42:53,660 - 00:42:55,240] which is its own complex conjugate.
+- [00:42:55,940 - 00:42:58,500] If I write that z is equal to z star,
+- [00:42:58,720 - 00:43:00,280] you jump up and you say,
+- [00:43:00,380 - 00:43:02,140] that is a real number.
+- [00:43:03,440 - 00:43:04,080] So,
+- [00:43:04,080 - 00:43:06,620] there's a corresponding notion for operators.
+- [00:43:07,900 - 00:43:11,100] It's the notion of an operator
+- [00:43:12,080 - 00:43:14,700] which is its own Hermitian conjugate.
+- [00:43:16,660 - 00:43:19,640] An operator which is its own Hermitian conjugate,
+- [00:43:20,779 - 00:43:23,700] that means you interchange and complex conjugate
+- [00:43:23,700 - 00:43:25,080] and you get back to the same thing.
+- [00:43:25,360 - 00:43:27,200] That is called Hermitian.
+- [00:43:28,859 - 00:43:31,020] Hermitian is the analog for matrices
+- [00:43:31,020 - 00:43:32,960] or the analog for operators
+- [00:43:32,960 - 00:43:34,960] of real.
+- [00:43:36,100 - 00:43:36,740] Alright,
+- [00:43:36,740 - 00:43:37,480] so what it says,
+- [00:43:37,620 - 00:43:38,460] a Hermitian matrix.
+- [00:43:38,780 - 00:43:40,800] Now let's specialize to the case of
+- [00:43:40,800 - 00:43:41,620] Hermitian matrices.
+- [00:43:44,240 - 00:43:46,520] Let me just spell out Hermitian for you.
+- [00:43:52,980 - 00:43:54,580] Hermitian for matrices
+- [00:43:54,580 - 00:43:57,660] is the analog of real for numbers.
+- [00:43:58,240 - 00:44:01,840] A Hermitian operator or matrix
+- [00:44:01,840 - 00:44:02,940] is one which is its own Hermitian conjugate.
+- [00:44:02,960 - 00:44:05,240] One which is equal to its own
+- [00:44:05,240 - 00:44:07,020] Hermitian conjugate.
+- [00:44:09,400 - 00:44:10,920] In terms of matrices,
+- [00:44:11,780 - 00:44:13,020] it's Mij
+- [00:44:14,800 - 00:44:18,220] is equal to Mji star.
+- [00:44:19,620 - 00:44:21,460] Let's try to see if we can construct
+- [00:44:21,460 - 00:44:22,440] a Hermitian matrix.
+- [00:44:23,020 - 00:44:23,720] Yeah,
+- [00:44:23,720 - 00:44:25,020] let's see if we can construct
+- [00:44:25,020 - 00:44:25,840] a Hermitian matrix.
+- [00:44:28,480 - 00:44:30,600] The first thing about Hermitian matrices
+- [00:44:30,600 - 00:44:32,940] is their diagonal elements are not the same.
+- [00:44:32,960 - 00:44:33,800] They're always real.
+- [00:44:34,700 - 00:44:35,980] Take a diagonal element.
+- [00:44:36,140 - 00:44:37,080] For a diagonal element,
+- [00:44:37,080 - 00:44:38,220] i and j are equal.
+- [00:44:39,020 - 00:44:40,660] ij is the same as ji
+- [00:44:40,660 - 00:44:42,640] if on the diagonal.
+- [00:44:43,280 - 00:44:44,760] So that says that
+- [00:44:44,760 - 00:44:45,880] for the diagonal elements,
+- [00:44:45,880 - 00:44:46,920] they're always real.
+- [00:44:47,840 - 00:44:49,080] So a Hermitian matrix
+- [00:44:49,080 - 00:44:50,560] first of all has real
+- [00:44:51,400 - 00:44:52,520] diagonal elements.
+- [00:44:55,080 - 00:44:55,600] I don't know,
+- [00:44:55,600 - 00:44:56,140] I like 7.
+- [00:44:58,240 - 00:44:59,220] Minus 2.6
+- [00:45:00,080 - 00:45:01,280] on the diagonal.
+- [00:45:02,380 - 00:45:02,940] Often,
+- [00:45:02,960 - 00:45:03,080] if you have a diagonal
+- [00:45:03,080 - 00:45:03,320] with a diagonal
+- [00:45:03,320 - 00:45:06,360] they have the property that when you reflect them
+- [00:45:07,240 - 00:45:09,060] they simply complex conjugate.
+- [00:45:09,700 - 00:45:12,080] So if we were to put i over here
+- [00:45:12,080 - 00:45:13,980] we would put minus i over here
+- [00:45:13,980 - 00:45:14,980] for a Hermitian matrix.
+- [00:45:15,520 - 00:45:16,740] If you were to put
+- [00:45:18,020 - 00:45:19,960] 4 minus i over here
+- [00:45:19,960 - 00:45:22,040] you would put 4 plus i over here
+- [00:45:22,040 - 00:45:24,020] and if you had 5 over here
+- [00:45:24,020 - 00:45:25,220] you'd put 5 over here.
+- [00:45:27,620 - 00:45:28,980] So a Hermitian matrix
+- [00:45:28,980 - 00:45:30,480] has the property first of all
+- [00:45:30,480 - 00:45:31,640] the diagonal elements are real
+- [00:45:32,960 - 00:45:34,280] and the off diagonal elements
+- [00:45:34,960 - 00:45:36,020] not symmetric
+- [00:45:36,819 - 00:45:39,340] but a different kind of symmetry
+- [00:45:39,340 - 00:45:41,000] a symmetry where
+- [00:45:41,000 - 00:45:42,100] when you reflect them
+- [00:45:42,100 - 00:45:43,220] they complex conjugate.
+- [00:45:43,820 - 00:45:45,980] That's called a Hermitian matrix.
+- [00:45:46,640 - 00:45:47,840] A Hermitian matrix
+- [00:45:48,680 - 00:45:50,200] has an enormous importance
+- [00:45:50,960 - 00:45:53,120] Hermitian matrices have enormous importance
+- [00:45:53,120 - 00:45:55,380] in quantum mechanics
+- [00:45:55,380 - 00:45:56,940] they represent
+- [00:45:56,940 - 00:45:58,500] the observable quantities
+- [00:45:58,500 - 00:46:00,120] the measurable quantities
+- [00:46:00,120 - 00:46:01,440] the things that you can measure.
+- [00:46:02,960 - 00:46:03,880] We're going to come to that
+- [00:46:03,880 - 00:46:06,260] and we're going to do a bit of that
+- [00:46:06,260 - 00:46:07,660] especially for the single spin
+- [00:46:07,660 - 00:46:08,360] I hope tonight.
+- [00:46:10,460 - 00:46:11,660] But before we do
+- [00:46:11,660 - 00:46:13,060] we have to know a little more
+- [00:46:13,060 - 00:46:14,400] about Hermitian matrices.
+- [00:46:14,940 - 00:46:17,260] In particular we need a concept
+- [00:46:17,260 - 00:46:20,020] the concept of eigenvector and eigenvalue.
+- [00:46:20,780 - 00:46:22,460] I know that I'm going fast
+- [00:46:22,460 - 00:46:23,840] and I know I'm quite aware
+- [00:46:23,840 - 00:46:25,540] that if you don't know these ideas
+- [00:46:25,540 - 00:46:26,920] you're going to have to
+- [00:46:28,800 - 00:46:30,360] struggle tonight to keep up
+- [00:46:30,360 - 00:46:32,360] but they're standard ideas
+- [00:46:32,960 - 00:46:34,800] there are lots of textbooks on linear algebra
+- [00:46:34,800 - 00:46:36,040] you can find it
+- [00:46:36,040 - 00:46:37,500] and you can sit down quietly
+- [00:46:37,500 - 00:46:40,100] and learn these ideas in about two hours
+- [00:46:40,100 - 00:46:40,700] I would say
+- [00:46:41,980 - 00:46:42,580] two,
+- [00:46:42,580 - 00:46:43,060] three hours
+- [00:46:44,360 - 00:46:44,960] Okay,
+- [00:46:44,960 - 00:46:45,440] so
+- [00:46:46,580 - 00:46:48,760] let's talk about Hermitian
+- [00:46:48,760 - 00:46:50,380] well let's first talk about
+- [00:46:50,960 - 00:46:52,420] eigenvectors and eigenvalues
+- [00:47:07,180 - 00:47:09,060] we can even think about these things
+- [00:47:09,060 - 00:47:11,160] incidentally in ordinary three dimensional space
+- [00:47:11,160 - 00:47:12,920] where the vector space is just
+- [00:47:12,920 - 00:47:14,460] a space of ordinary three vectors
+- [00:47:17,560 - 00:47:19,140] there are operators
+- [00:47:19,140 - 00:47:20,900] they're represented by matrices
+- [00:47:20,900 - 00:47:23,520] and those operators operate on vectors
+- [00:47:23,520 - 00:47:24,440] to give other vectors
+- [00:47:25,440 - 00:47:27,200] and typically if a matrix
+- [00:47:27,200 - 00:47:28,300] is at all interesting
+- [00:47:28,300 - 00:47:30,240] or if an operator is at all interesting
+- [00:47:30,240 - 00:47:31,760] whatever you mean to be interesting
+- [00:47:32,960 - 00:47:35,240] or if it's at all a little bit complex
+- [00:47:35,240 - 00:47:37,580] it will generally have the property
+- [00:47:37,580 - 00:47:40,120] that if you put a vector into the machine
+- [00:47:40,120 - 00:47:41,840] the vector that comes out
+- [00:47:41,840 - 00:47:43,420] will be pointing in a different direction
+- [00:47:43,420 - 00:47:45,240] that will be generally true
+- [00:47:45,240 - 00:47:46,480] generically true
+- [00:47:48,060 - 00:47:49,340] so directionality
+- [00:47:49,340 - 00:47:50,780] is not preserved
+- [00:47:50,780 - 00:47:52,920] by linear operators as a rule
+- [00:47:52,920 - 00:47:54,800] on the other hand
+- [00:47:54,800 - 00:47:56,680] there may be particular vectors
+- [00:47:56,680 - 00:47:58,980] and typically there are particular vectors
+- [00:48:00,140 - 00:48:00,780] that
+- [00:48:00,780 - 00:48:02,500] when you apply
+- [00:48:02,960 - 00:48:03,420] a matrix
+- [00:48:04,240 - 00:48:06,560] those vectors will depend on which matrix
+- [00:48:06,560 - 00:48:08,440] you're talking about or an operator
+- [00:48:08,960 - 00:48:10,900] there may be specific vectors
+- [00:48:10,900 - 00:48:13,160] associated with a specific operator
+- [00:48:13,160 - 00:48:14,340] that do
+- [00:48:14,960 - 00:48:17,340] simply get multiplied by numbers
+- [00:48:17,340 - 00:48:19,400] in other words they come out in the same direction
+- [00:48:19,400 - 00:48:21,100] an example
+- [00:48:21,100 - 00:48:22,960] an example
+- [00:48:23,820 - 00:48:25,040] of a operation
+- [00:48:25,480 - 00:48:26,520] a linear operation
+- [00:48:26,520 - 00:48:29,000] on a vector is a rotation about an axis
+- [00:48:29,000 - 00:48:30,780] that can be represented by a matrix
+- [00:48:31,860 - 00:48:32,940] a matrix
+- [00:48:32,960 - 00:48:33,780] in three dimensions
+- [00:48:33,780 - 00:48:36,520] if you rotate the vector space
+- [00:48:36,520 - 00:48:37,480] about some axis
+- [00:48:38,260 - 00:48:39,700] then generally speaking
+- [00:48:39,700 - 00:48:42,940] an arbitrary vector will wind up in a different direction
+- [00:48:42,940 - 00:48:44,740] however there is one
+- [00:48:44,740 - 00:48:46,520] particular direction for which
+- [00:48:46,520 - 00:48:49,120] that doesn't happen namely along the axis of rotation
+- [00:48:49,120 - 00:48:51,200] if you rotate about the axis of rotation
+- [00:48:51,200 - 00:48:52,500] the vector
+- [00:48:52,500 - 00:48:54,480] comes out pointing in the same direction
+- [00:48:54,480 - 00:48:56,780] it comes out a multiple of itself
+- [00:48:56,780 - 00:48:59,060] now in this case simply equal to itself
+- [00:49:00,280 - 00:49:00,880] alright
+- [00:49:00,880 - 00:49:02,780] so that's the notion of
+- [00:49:02,960 - 00:49:04,800] the eigenvectors of an operator
+- [00:49:04,800 - 00:49:06,700] they are the vectors
+- [00:49:07,520 - 00:49:08,620] if there are any
+- [00:49:08,620 - 00:49:10,140] there are not necessarily any
+- [00:49:11,060 - 00:49:12,700] for example in rotations
+- [00:49:12,700 - 00:49:13,980] about two and two dimensions
+- [00:49:14,840 - 00:49:16,240] there are no eigenvectors
+- [00:49:16,240 - 00:49:17,800] there are no directions which come out
+- [00:49:17,800 - 00:49:20,380] no directions which come out unaffected
+- [00:49:21,080 - 00:49:21,620] but
+- [00:49:23,460 - 00:49:24,460] so in general
+- [00:49:24,460 - 00:49:26,160] there may or may not be
+- [00:49:27,920 - 00:49:28,460] eigenvectors
+- [00:49:28,460 - 00:49:30,600] but if there are eigenvectors they're defined
+- [00:49:30,600 - 00:49:31,480] in the following way
+- [00:49:32,960 - 00:49:34,980] so let's use m for the generic operator
+- [00:49:35,980 - 00:49:37,160] m acts
+- [00:49:37,160 - 00:49:39,880] on an eigenvector
+- [00:49:39,880 - 00:49:42,340] let's call the eigenvector i
+- [00:49:43,360 - 00:49:44,840] i for eigen
+- [00:49:44,840 - 00:49:47,140] now of course i is not for eigen
+- [00:49:48,140 - 00:49:49,860] eigen begins with an e
+- [00:49:51,660 - 00:49:53,520] but i'm going to call it i anyway
+- [00:49:53,520 - 00:49:54,500] alright
+- [00:49:54,500 - 00:49:55,520] if m
+- [00:49:56,240 - 00:49:58,840] acts on one of its eigenvectors
+- [00:49:58,840 - 00:50:00,300] eigenvectors are not things
+- [00:50:00,300 - 00:50:01,820] which are independent of the matrices
+- [00:50:01,820 - 00:50:02,940] they're just a bunch of things
+- [00:50:02,960 - 00:50:04,700] given a matrix or an operator
+- [00:50:04,700 - 00:50:06,820] it has certain
+- [00:50:06,820 - 00:50:09,120] eigendirections or certain eigenvectors
+- [00:50:10,140 - 00:50:10,900] and
+- [00:50:10,900 - 00:50:12,680] the rule is
+- [00:50:12,680 - 00:50:14,380] or the definition
+- [00:50:14,960 - 00:50:16,840] is the set of vectors
+- [00:50:16,840 - 00:50:18,480] which just get multiplied
+- [00:50:18,480 - 00:50:19,540] by numbers
+- [00:50:20,740 - 00:50:22,340] let's call for the i-th
+- [00:50:22,960 - 00:50:23,740] eigenvector here
+- [00:50:23,740 - 00:50:26,760] the eigenvalue is called lambda i
+- [00:50:26,760 - 00:50:29,120] and it simply multiplies
+- [00:50:29,120 - 00:50:29,700] the input
+- [00:50:30,939 - 00:50:32,340] now different
+- [00:50:32,960 - 00:50:33,380] eigenvectors
+- [00:50:34,080 - 00:50:36,740] of the same matrix will have different
+- [00:50:36,740 - 00:50:37,340] eigenvalues
+- [00:50:37,340 - 00:50:40,620] there may be and in general that's
+- [00:50:40,620 - 00:50:41,740] the generic situation
+- [00:50:42,690 - 00:50:44,440] if there are several eigenvectors
+- [00:50:44,960 - 00:50:47,100] they will have different eigenvalues
+- [00:50:47,100 - 00:50:47,960] however
+- [00:50:48,750 - 00:50:50,140] the eigenvectors
+- [00:50:50,140 - 00:50:52,300] are not completely unambiguous
+- [00:50:52,960 - 00:50:54,540] if you take an eigenvector
+- [00:50:54,540 - 00:50:55,920] and multiply it by a number
+- [00:50:56,850 - 00:50:58,700] the result is still an eigenvector
+- [00:50:58,700 - 00:50:59,760] with the same eigenvalue
+- [00:51:01,120 - 00:51:02,340] if i multiply
+- [00:51:02,960 - 00:51:04,600] the equation by a complex number z
+- [00:51:04,600 - 00:51:06,960] i can bring the complex number z
+- [00:51:06,960 - 00:51:08,920] through and i'll find out
+- [00:51:08,920 - 00:51:10,760] that any numerical
+- [00:51:10,760 - 00:51:12,400] even complex numerical
+- [00:51:12,940 - 00:51:15,080] multiple of an eigenvector
+- [00:51:15,080 - 00:51:16,800] is also an eigenvector
+- [00:51:17,580 - 00:51:18,220] ah
+- [00:51:20,100 - 00:51:20,740] so
+- [00:51:20,740 - 00:51:22,380] strictly speaking you should talk about
+- [00:51:22,960 - 00:51:23,300] eigendirections
+- [00:51:23,300 - 00:51:24,920] the set of vectors
+- [00:51:26,220 - 00:51:26,860] including
+- [00:51:28,240 - 00:51:28,880] or
+- [00:51:30,140 - 00:51:32,440] not worrying about their length so to speak
+- [00:51:32,960 - 00:51:34,740] but in any case this is the direction of
+- [00:51:34,740 - 00:51:36,640] this is the definition of
+- [00:51:36,640 - 00:51:38,480] an eigenvector
+- [00:51:40,799 - 00:51:42,720] alright some matrices have eigenvectors
+- [00:51:42,720 - 00:51:44,520] other matrices don't have eigenvectors
+- [00:51:44,520 - 00:51:46,540] there is something important about
+- [00:51:46,540 - 00:51:47,580] Hermitian matrices
+- [00:51:47,580 - 00:51:49,500] or Hermitian operators
+- [00:51:49,500 - 00:51:53,200] Hermitian operators not only have eigenvectors
+- [00:51:54,200 - 00:51:56,800] they have a complete set of eigenvectors
+- [00:51:57,560 - 00:51:58,720] complete means
+- [00:51:58,720 - 00:52:00,360] that there are enough of them
+- [00:52:00,360 - 00:52:02,620] to expand any vector and even better
+- [00:52:02,960 - 00:52:04,420] they have
+- [00:52:04,960 - 00:52:07,230] an orthonormal family
+- [00:52:07,600 - 00:52:08,860] of eigenvectors
+- [00:52:08,860 - 00:52:10,920] in general
+- [00:52:10,920 - 00:52:12,820] the different eigenvectors will have different eigenvalues
+- [00:52:12,820 - 00:52:13,500] as i said
+- [00:52:13,500 - 00:52:15,120] but it will be true
+- [00:52:15,120 - 00:52:16,740] that if a matrix is Hermitian
+- [00:52:16,740 - 00:52:18,600] it has
+- [00:52:18,600 - 00:52:20,820] and the dimensionality
+- [00:52:20,820 - 00:52:21,860] of the space is n
+- [00:52:21,860 - 00:52:24,440] there will be n mutually
+- [00:52:24,440 - 00:52:26,260] orthogonal eigenvectors
+- [00:52:27,000 - 00:52:29,080] in other words the eigenvectors
+- [00:52:29,080 - 00:52:30,860] of Hermitian matrices
+- [00:52:30,860 - 00:52:32,820] define a basis
+- [00:52:36,280 - 00:52:38,640] I'm going to let you prove part of that theorem
+- [00:52:38,640 - 00:52:40,280] it's a very easy theorem to prove
+- [00:52:40,280 - 00:52:41,860] and I'm going to prove the other half of it
+- [00:52:42,520 - 00:52:43,820] I'll prove the half
+- [00:52:43,820 - 00:52:45,240] that says that
+- [00:52:45,240 - 00:52:47,960] if you have two eigenvectors
+- [00:52:47,960 - 00:52:49,740] with different eigenvalues
+- [00:52:49,740 - 00:52:51,560] and that's the generic situation
+- [00:52:51,560 - 00:52:53,540] that the eigenvalues are all different
+- [00:52:53,540 - 00:52:56,480] if you have two eigenvectors
+- [00:52:56,480 - 00:52:57,860] with different eigenvalues
+- [00:52:57,860 - 00:53:00,340] we will prove that they are orthogonal
+- [00:53:00,340 - 00:53:01,160] to each other
+- [00:53:02,160 - 00:53:02,940] your general hypothesis
+- [00:53:02,960 - 00:53:03,800] my job is to prove
+- [00:53:03,800 - 00:53:07,020] that you won't run out of eigenvectors
+- [00:53:07,020 - 00:53:09,020] until you have n of them
+- [00:53:11,060 - 00:53:12,100] it's not hard
+- [00:53:12,759 - 00:53:14,680] in any case it's true
+- [00:53:14,680 - 00:53:16,340] so let's prove
+- [00:53:16,960 - 00:53:18,960] that if we have two eigenvectors
+- [00:53:19,820 - 00:53:21,600] m is a Hermitian
+- [00:53:21,600 - 00:53:23,200] m is Hermitian
+- [00:53:24,140 - 00:53:26,420] m equals a Hermitian matrix
+- [00:53:29,100 - 00:53:31,260] I use matrix and operator synonymously
+- [00:53:32,060 - 00:53:32,940] which means
+- [00:53:32,960 - 00:53:34,880] that m equals m dagger
+- [00:53:38,750 - 00:53:40,080] okay let's suppose
+- [00:53:40,080 - 00:53:41,320] that m is Hermitian
+- [00:53:41,320 - 00:53:43,720] and it has an eigenvalue lambda i
+- [00:53:43,720 - 00:53:45,580] the first observation
+- [00:53:45,580 - 00:53:47,480] is that the eigenvalues
+- [00:53:47,480 - 00:53:49,680] of Hermitian matrices are real
+- [00:53:49,680 - 00:53:52,380] that even comes before what I said previously
+- [00:53:52,960 - 00:53:54,520] if there is an eigenvalue
+- [00:53:54,520 - 00:53:56,040] it is real
+- [00:53:56,040 - 00:53:58,280] okay how do we prove that it's real
+- [00:54:00,760 - 00:54:02,780] let's prove that it's real
+- [00:54:02,960 - 00:54:03,580] well
+- [00:54:05,600 - 00:54:06,800] let's take this equation
+- [00:54:06,800 - 00:54:08,980] and flip it over into a
+- [00:54:08,980 - 00:54:09,920] bra equation
+- [00:54:09,920 - 00:54:12,280] to flip it over into a bra equation
+- [00:54:13,460 - 00:54:14,760] I flip i
+- [00:54:16,460 - 00:54:18,800] I take m and I replace it by
+- [00:54:18,800 - 00:54:19,420] m dagger
+- [00:54:20,460 - 00:54:22,120] well that's not going to do much
+- [00:54:22,120 - 00:54:23,580] because m is equal to m dagger
+- [00:54:24,660 - 00:54:26,180] and on the right hand side
+- [00:54:26,900 - 00:54:28,220] I flip i
+- [00:54:29,000 - 00:54:30,360] and what do I do with lambda
+- [00:54:31,580 - 00:54:32,440] in general
+- [00:54:33,900 - 00:54:34,920] complex conjugate
+- [00:54:36,440 - 00:54:37,480] complex conjugate
+- [00:54:37,480 - 00:54:38,380] lambda i
+- [00:54:38,380 - 00:54:40,160] so far we haven't proved that it's real
+- [00:54:43,060 - 00:54:44,680] every time you flip
+- [00:54:44,680 - 00:54:46,600] from bras to kets you have to
+- [00:54:46,600 - 00:54:48,800] complex conjugate all the numbers that are there
+- [00:54:49,500 - 00:54:50,420] alright but now
+- [00:54:51,540 - 00:54:52,060] assumption
+- [00:54:52,060 - 00:54:54,700] m is Hermitian so it's equal to it's own
+- [00:54:55,660 - 00:54:56,620] Hermitian conjugate
+- [00:54:57,580 - 00:54:59,040] and now we have this equation
+- [00:55:03,700 - 00:55:06,080] now let's take the inner product
+- [00:55:06,080 - 00:55:08,360] of both of these equations
+- [00:55:08,960 - 00:55:09,780] with i
+- [00:55:09,780 - 00:55:11,760] in the upper equation
+- [00:55:11,760 - 00:55:13,900] we're going to take the inner product
+- [00:55:18,280 - 00:55:20,140] on the left with i
+- [00:55:20,140 - 00:55:21,640] and what does that give us
+- [00:55:21,640 - 00:55:22,840] that gives us i i
+- [00:55:23,520 - 00:55:24,760] times lambda i
+- [00:55:28,140 - 00:55:29,900] let's do the same thing over here
+- [00:55:31,380 - 00:55:32,380] except now
+- [00:55:32,380 - 00:55:32,940] we have a product
+- [00:55:34,180 - 00:55:35,400] multiplying on the right
+- [00:55:40,680 - 00:55:43,340] this and this are obviously the same
+- [00:55:43,920 - 00:55:45,660] m with i on the left
+- [00:55:45,660 - 00:55:46,480] and i on the right
+- [00:55:46,480 - 00:55:47,440] is the same as this
+- [00:55:49,140 - 00:55:51,200] but this is not obviously the same
+- [00:55:52,140 - 00:55:53,060] not unless
+- [00:55:53,060 - 00:55:55,280] lambda is equal to lambda star
+- [00:55:58,160 - 00:56:00,200] i i here is the same as i i here
+- [00:56:00,980 - 00:56:02,140] that cancels out
+- [00:56:02,140 - 00:56:02,940] and this is the same as
+- [00:56:02,960 - 00:56:05,600] and therefore we come to the conclusion
+- [00:56:05,600 - 00:56:07,320] that if a matrix is Hermitian
+- [00:56:08,500 - 00:56:11,040] if it's equal to it's own Hermitian conjugate
+- [00:56:11,040 - 00:56:12,720] then it's eigenvalues
+- [00:56:12,720 - 00:56:14,820] are equal to their own complex
+- [00:56:14,820 - 00:56:16,420] conjugates and they are real
+- [00:56:17,220 - 00:56:19,060] eigenvalues of Hermitian matrices
+- [00:56:19,060 - 00:56:19,820] are real
+- [00:56:19,820 - 00:56:21,240] that's the first step
+- [00:56:22,760 - 00:56:25,100] now let's prove that if we have
+- [00:56:25,100 - 00:56:26,840] two different eigenvalues
+- [00:56:26,840 - 00:56:29,040] the corresponding eigenvectors
+- [00:56:29,040 - 00:56:29,900] must be orthogonal
+- [00:56:30,819 - 00:56:32,940] now remember what orthogonal means from a matrix
+- [00:56:32,960 - 00:56:34,100] from a physical point of view
+- [00:56:34,100 - 00:56:37,140] it means physically distinct
+- [00:56:37,140 - 00:56:39,060] that there's an experiment
+- [00:56:39,060 - 00:56:40,640] that you can do to distinguish
+- [00:56:40,640 - 00:56:42,120] the two of them unambiguously
+- [00:56:42,779 - 00:56:44,139] that's what orthogonality means from
+- [00:56:44,139 - 00:56:45,500] a physical point of view
+- [00:56:45,500 - 00:56:46,860] let's prove
+- [00:56:46,860 - 00:56:48,160] that the eigenvectors
+- [00:56:48,879 - 00:56:51,240] of m with different eigenvalue
+- [00:56:51,980 - 00:56:53,040] are orthogonal
+- [00:56:54,140 - 00:56:55,360] different eigenvalue
+- [00:56:55,360 - 00:56:57,380] physically distinguishable
+- [00:56:57,380 - 00:56:58,680] you should keep that in your head
+- [00:56:59,360 - 00:57:00,800] okay so here we are
+- [00:57:00,800 - 00:57:02,940] let's start with m on the left
+- [00:57:02,960 - 00:57:03,180] m on i
+- [00:57:04,720 - 00:57:06,760] equals lambda i i
+- [00:57:08,120 - 00:57:09,900] and m on j
+- [00:57:11,020 - 00:57:13,400] equals lambda j j
+- [00:57:13,400 - 00:57:15,420] two different eigenvectors
+- [00:57:16,140 - 00:57:17,280] i and j
+- [00:57:18,300 - 00:57:19,480] first thing we'll do
+- [00:57:19,480 - 00:57:21,460] is turn this one over
+- [00:57:21,460 - 00:57:23,480] and turn it into a ket equation
+- [00:57:23,480 - 00:57:24,420] ah a bra
+- [00:57:24,420 - 00:57:25,380] it is a ket equation
+- [00:57:25,380 - 00:57:26,680] we'll take this one
+- [00:57:26,680 - 00:57:28,280] and turn it into a bra equation
+- [00:57:28,280 - 00:57:29,620] so that looks like this
+- [00:57:29,620 - 00:57:32,680] j m dagger
+- [00:57:32,960 - 00:57:34,280] but m dagger is the same as m
+- [00:57:37,420 - 00:57:38,800] equals the real
+- [00:57:38,800 - 00:57:40,160] number lambda j
+- [00:57:41,560 - 00:57:43,160] eigenvalues of permission matrices
+- [00:57:43,160 - 00:57:43,720] are real
+- [00:57:44,400 - 00:57:45,100] times j
+- [00:57:49,880 - 00:57:50,380] now
+- [00:57:50,380 - 00:57:51,120] here we have
+- [00:57:51,120 - 00:57:54,680] two equations
+- [00:57:58,940 - 00:58:00,400] what can you do to them
+- [00:58:01,220 - 00:58:02,180] so that we can
+- [00:58:02,980 - 00:58:03,780] relate them
+- [00:58:04,640 - 00:58:06,600] what we can do with them to relate them
+- [00:58:06,600 - 00:58:09,580] is to multiply this one by j on the left
+- [00:58:09,580 - 00:58:11,180] and this one by i on the right
+- [00:58:11,180 - 00:58:13,120] and we will get the same expression
+- [00:58:13,120 - 00:58:14,680] on the left hand side of the equation
+- [00:58:14,680 - 00:58:16,000] so let's do that
+- [00:58:16,000 - 00:58:16,400] j
+- [00:58:19,259 - 00:58:19,700] j
+- [00:58:21,560 - 00:58:22,000] i
+- [00:58:23,279 - 00:58:23,720] i
+- [00:58:28,140 - 00:58:29,480] what we have on the left
+- [00:58:30,180 - 00:58:30,980] is the same
+- [00:58:30,980 - 00:58:32,860] on the upper and lower equations
+- [00:58:32,960 - 00:58:34,640] what we have on the right
+- [00:58:34,640 - 00:58:36,240] is not necessarily the same
+- [00:58:37,000 - 00:58:38,500] so let's require
+- [00:58:38,500 - 00:58:39,820] that it's the same
+- [00:58:40,740 - 00:58:42,500] requiring that it's the same says that
+- [00:58:42,500 - 00:58:44,580] lambda i minus
+- [00:58:44,580 - 00:58:45,420] lambda j
+- [00:58:48,560 - 00:58:50,560] times the inner product
+- [00:58:50,560 - 00:58:52,500] of j with i
+- [00:58:53,640 - 00:58:54,840] must equal zero
+- [00:58:54,840 - 00:58:56,980] I've just written
+- [00:58:56,980 - 00:58:58,880] I've just written that this
+- [00:58:58,880 - 00:58:59,640] is equal to this
+- [00:58:59,640 - 00:59:02,120] and then transposed
+- [00:59:02,960 - 00:59:04,800] so lambda i minus lambda j
+- [00:59:04,800 - 00:59:06,580] times the inner product of j i
+- [00:59:06,580 - 00:59:07,320] equals zero
+- [00:59:09,180 - 00:59:09,700] well
+- [00:59:10,420 - 00:59:12,320] if the product of two things
+- [00:59:12,320 - 00:59:13,560] and I have two things
+- [00:59:14,160 - 00:59:15,860] lambda i minus lambda j
+- [00:59:15,860 - 00:59:17,680] and the inner product of j i with j
+- [00:59:17,680 - 00:59:19,320] if the product of two things is zero
+- [00:59:19,320 - 00:59:21,440] it says unambiguously
+- [00:59:21,440 - 00:59:23,860] at least one of them is zero
+- [00:59:24,880 - 00:59:26,880] it usually says one of them is zero
+- [00:59:26,880 - 00:59:27,580] okay
+- [00:59:28,140 - 00:59:31,000] the inner product of i and j
+- [00:59:31,000 - 00:59:32,440] may or may not be zero
+- [00:59:32,960 - 00:59:34,820] but let's take the case where we know
+- [00:59:34,820 - 00:59:37,200] that the eigenvectors correspond
+- [00:59:37,200 - 00:59:39,740] to different values of the eigenvectors
+- [00:59:39,740 - 00:59:41,720] sorry that the eigenvalues are different
+- [00:59:41,720 - 00:59:43,620] that's what I'm interested in
+- [00:59:43,620 - 00:59:45,020] I'm interested in eigenvectors
+- [00:59:45,020 - 00:59:47,620] corresponding to different values
+- [00:59:47,620 - 00:59:48,500] of the eigenvalue
+- [00:59:49,240 - 00:59:50,640] so by assumption
+- [00:59:50,640 - 00:59:52,880] lambda i is not equal to
+- [00:59:52,880 - 00:59:53,440] lambda j
+- [00:59:54,240 - 00:59:55,760] the conclusion is
+- [00:59:55,760 - 00:59:57,550] that the inner product of i
+- [00:59:57,550 - 00:59:59,340] with j must be equal to zero
+- [01:00:00,220 - 01:00:01,380] so what does that mean
+- [01:00:01,380 - 01:00:02,580] that means
+- [01:00:02,960 - 01:00:04,520] that i and j are orthogonal
+- [01:00:05,260 - 01:00:06,960] so we now have a theorem
+- [01:00:09,240 - 01:00:10,360] the eigenvectors
+- [01:00:11,300 - 01:00:12,840] of Hermitian matrices
+- [01:00:13,420 - 01:00:14,960] with different eigenvalue
+- [01:00:15,680 - 01:00:16,740] are orthogonal
+- [01:00:19,880 - 01:00:22,160] let's just take the generic case
+- [01:00:22,160 - 01:00:23,500] where all of the eigenvalues
+- [01:00:23,500 - 01:00:24,140] are different
+- [01:00:24,140 - 01:00:25,640] we can come back to what happens
+- [01:00:25,640 - 01:00:26,960] when some of them may be the same
+- [01:00:26,960 - 01:00:29,700] it's not important right now
+- [01:00:29,700 - 01:00:31,160] if all the eigenvalues
+- [01:00:31,160 - 01:00:32,400] happen to be different
+- [01:00:32,400 - 01:00:32,940] than each other
+- [01:00:32,960 - 01:00:34,720] then all the eigenvectors
+- [01:00:34,720 - 01:00:36,860] are mutually orthogonal to each other
+- [01:00:37,960 - 01:00:39,940] if there are enough of them
+- [01:00:39,940 - 01:00:41,200] and your job is to prove
+- [01:00:41,200 - 01:00:42,240] there's enough of them
+- [01:00:42,240 - 01:00:43,680] they form a basis
+- [01:00:43,680 - 01:00:46,280] in other words this collection of things
+- [01:00:46,280 - 01:00:47,560] called i and j here
+- [01:00:47,560 - 01:00:50,680] is a special case of a kind of basis
+- [01:00:50,680 - 01:00:52,820] which we labeled with small i and j
+- [01:00:52,820 - 01:00:55,120] but it's the basis of eigenvectors
+- [01:00:56,580 - 01:00:58,340] it's the basis of eigenvectors
+- [01:00:58,340 - 01:00:59,900] of the Hermitian operator
+- [01:01:00,880 - 01:01:01,740] as I said
+- [01:01:01,740 - 01:01:02,520] Hermitian operators
+- [01:01:02,960 - 01:01:04,960] will be identified with observable quantities
+- [01:01:04,960 - 01:01:08,320] and to say that eigenvectors
+- [01:01:08,320 - 01:01:08,880] are orthogonal
+- [01:01:08,880 - 01:01:10,640] has something or other to do
+- [01:01:10,640 - 01:01:12,280] with physical differences
+- [01:01:12,960 - 01:01:14,000] that are measurable
+- [01:01:14,960 - 01:01:16,300] unambiguously between those
+- [01:01:16,960 - 01:01:18,320] states of the system
+- [01:01:20,859 - 01:01:21,700] okay,
+- [01:01:21,700 - 01:01:22,580] we are now
+- [01:01:22,580 - 01:01:24,220] prepared to state
+- [01:01:24,220 - 01:01:26,380] the principles of quantum mechanics
+- [01:01:27,540 - 01:01:28,840] we have enough
+- [01:01:28,840 - 01:01:29,520] mathematical
+- [01:01:31,200 - 01:01:32,040] information
+- [01:01:32,960 - 01:01:33,360] we have enough mathematical
+- [01:01:33,360 - 01:01:34,460] formalism
+- [01:01:35,320 - 01:01:36,320] to state
+- [01:01:37,720 - 01:01:39,600] the entire show
+- [01:01:39,600 - 01:01:40,980] we can put on the blackboard now
+- [01:01:40,980 - 01:01:43,200] what quantum mechanics is
+- [01:01:43,200 - 01:01:43,920] and what it says
+- [01:01:43,920 - 01:01:47,100] and what the rules are
+- [01:01:47,960 - 01:01:49,840] or what the correspondences are
+- [01:01:52,520 - 01:01:53,560] what the mathematical
+- [01:01:53,560 - 01:01:54,320] sorry
+- [01:01:54,320 - 01:01:56,540] what the physical meaning
+- [01:01:56,540 - 01:01:58,320] of these various things are
+- [01:01:59,700 - 01:02:00,640] you won't get
+- [01:02:00,640 - 01:02:02,600] you won't understand this the first time around
+- [01:02:02,960 - 01:02:03,220] it will be foreign,
+- [01:02:03,220 - 01:02:04,140] it will be peculiar
+- [01:02:04,140 - 01:02:05,300] what is he talking about
+- [01:02:05,300 - 01:02:07,960] of course we'll work it out in examples
+- [01:02:07,960 - 01:02:09,800] and we'll see how the ideas work
+- [01:02:10,420 - 01:02:12,140] so don't get disturbed
+- [01:02:12,899 - 01:02:14,440] if what I throw at you now
+- [01:02:15,420 - 01:02:16,720] sounds a little bit
+- [01:02:16,720 - 01:02:17,060] meaningless
+- [01:02:18,000 - 01:02:18,740] that's okay
+- [01:02:18,740 - 01:02:21,400] by the time we're finished with some examples
+- [01:02:21,400 - 01:02:23,480] it should be clear how we use this
+- [01:02:24,800 - 01:02:25,320] alright,
+- [01:02:25,320 - 01:02:26,020] first of all
+- [01:02:26,020 - 01:02:27,680] there are measurable quantities
+- [01:02:28,240 - 01:02:31,080] the result of a measurement is always a real number
+- [01:02:31,940 - 01:02:32,740] it takes
+- [01:02:32,960 - 01:02:33,780] at least two measurements
+- [01:02:33,780 - 01:02:35,860] and somehow two compatible measurements
+- [01:02:35,860 - 01:02:38,600] two measurements that can both be performed simultaneously
+- [01:02:39,500 - 01:02:41,320] to measure a complex number
+- [01:02:42,320 - 01:02:42,880] alright
+- [01:02:42,880 - 01:02:44,420] the basic ingredients
+- [01:02:44,420 - 01:02:45,880] and basic measurables
+- [01:02:45,880 - 01:02:47,020] are real numbers
+- [01:02:47,020 - 01:02:48,520] that's what comes out of your detector
+- [01:02:48,520 - 01:02:50,340] you can measure two of them
+- [01:02:50,340 - 01:02:52,280] if you can measure two of them
+- [01:02:52,280 - 01:02:54,800] if it's possible to simultaneously measure two things
+- [01:02:54,800 - 01:02:57,140] and put them together into a complex number
+- [01:02:57,140 - 01:02:59,660] but it really is just two measurements
+- [01:02:59,660 - 01:03:00,880] so each measurement,
+- [01:03:00,880 - 01:03:02,140] each thing that you measure
+- [01:03:02,960 - 01:03:04,120] has a real
+- [01:03:04,860 - 01:03:06,740] result associated with it
+- [01:03:08,600 - 01:03:10,580] the physical measurables
+- [01:03:10,580 - 01:03:12,700] they're called observables
+- [01:03:12,700 - 01:03:15,040] in quantum mechanics they're called observables
+- [01:03:15,040 - 01:03:16,740] the things that you can measure
+- [01:03:16,740 - 01:03:18,580] the observables
+- [01:03:18,580 - 01:03:21,060] are identified with
+- [01:03:21,060 - 01:03:22,020] Hermitian matrices
+- [01:03:22,020 - 01:03:23,780] or Hermitian operators
+- [01:03:24,879 - 01:03:25,680] observables,
+- [01:03:25,680 - 01:03:26,360] whoops not q
+- [01:03:26,360 - 01:03:27,380] where did I get q from
+- [01:03:37,259 - 01:03:38,780] I won't write equals
+- [01:03:38,780 - 01:03:40,320] are represented by
+- [01:03:40,320 - 01:03:41,260] we'll just put an arrow
+- [01:03:41,260 - 01:03:43,980] are represented by Hermitian
+- [01:03:49,299 - 01:03:51,220] linear of course operators
+- [01:03:55,560 - 01:03:56,580] first statement
+- [01:04:01,240 - 01:04:02,480] let's just think in
+- [01:04:02,960 - 01:04:03,720] studying the spin
+- [01:04:03,720 - 01:04:04,700] in a
+- [01:04:04,700 - 01:04:08,460] in a rough and loose way
+- [01:04:08,460 - 01:04:10,320] we sort of identified
+- [01:04:10,320 - 01:04:11,620] some observables
+- [01:04:11,620 - 01:04:13,680] the observables that we identified
+- [01:04:13,680 - 01:04:15,860] were the components of the spin
+- [01:04:15,860 - 01:04:18,340] the observables that we could identify
+- [01:04:18,710 - 01:04:20,440] were associated with our apparatus
+- [01:04:20,440 - 01:04:22,460] point your apparatus in some direction
+- [01:04:22,460 - 01:04:24,920] and measure the spin along those directions
+- [01:04:24,920 - 01:04:26,360] we said
+- [01:04:26,360 - 01:04:27,100] we called,
+- [01:04:27,100 - 01:04:28,320] if we measured the spin along
+- [01:04:28,320 - 01:04:29,340] the z-axis,
+- [01:04:29,340 - 01:04:30,760] we called it sigma z
+- [01:04:30,760 - 01:04:32,440] we can measure it
+- [01:04:33,700 - 01:04:34,980] or we could turn
+- [01:04:34,980 - 01:04:36,280] our apparatus on its side
+- [01:04:36,280 - 01:04:37,540] and measure sigma x
+- [01:04:39,260 - 01:04:40,580] or we can turn
+- [01:04:40,580 - 01:04:41,420] our apparatus
+- [01:04:41,420 - 01:04:44,680] from the x-axis
+- [01:04:44,680 - 01:04:46,840] to the y-axis and measure sigma y
+- [01:04:47,540 - 01:04:48,640] we talked about
+- [01:04:48,640 - 01:04:49,820] those things
+- [01:04:49,820 - 01:04:52,380] we didn't talk about sigma's being
+- [01:04:52,700 - 01:04:53,580] Hermitian operators
+- [01:04:53,580 - 01:04:55,150] in fact we didn't talk
+- [01:04:55,150 - 01:04:56,720] about them being operators at all
+- [01:04:56,720 - 01:04:58,780] but we did talk
+- [01:04:58,780 - 01:05:00,000] about measuring them
+- [01:05:00,700 - 01:05:02,760] these will become Hermitian operators
+- [01:05:02,960 - 01:05:03,120] sometime
+- [01:05:03,120 - 01:05:04,160] alright,
+- [01:05:04,160 - 01:05:05,400] next
+- [01:05:05,400 - 01:05:07,280] the possible values
+- [01:05:07,280 - 01:05:10,880] that a given observable can take on
+- [01:05:10,880 - 01:05:12,640] what are they for sigma z
+- [01:05:13,700 - 01:05:14,880] what are the possible
+- [01:05:15,960 - 01:05:17,240] plus one and minus one
+- [01:05:17,240 - 01:05:17,500] right?
+- [01:05:18,460 - 01:05:20,960] the possible observable
+- [01:05:20,960 - 01:05:21,440] values
+- [01:05:27,900 - 01:05:29,340] measured in an experiment
+- [01:05:30,180 - 01:05:31,360] those observable
+- [01:05:31,360 - 01:05:32,540] values are
+- [01:05:32,960 - 01:05:33,900] the eigenvalues
+- [01:05:37,359 - 01:05:38,400] they're real
+- [01:05:38,660 - 01:05:40,460] because the matrices are Hermitian
+- [01:05:47,779 - 01:05:49,320] the eigenvectors,
+- [01:05:49,320 - 01:05:50,580] what about the eigenvectors
+- [01:05:50,580 - 01:05:52,460] the eigenvectors correspond to states
+- [01:05:52,460 - 01:05:53,780] states,
+- [01:05:53,780 - 01:05:54,800] vectors
+- [01:05:54,800 - 01:05:55,300] states,
+- [01:05:55,300 - 01:05:56,020] vectors
+- [01:05:56,020 - 01:05:57,420] the eigenvectors
+- [01:05:57,420 - 01:06:00,800] are the states in which the corresponding
+- [01:06:00,800 - 01:06:02,460] quantities are
+- [01:06:02,960 - 01:06:03,260] definite,
+- [01:06:03,260 - 01:06:04,680] in other words
+- [01:06:04,680 - 01:06:07,120] in which the measurement of them is unambiguous
+- [01:06:07,120 - 01:06:08,380] oh well let's
+- [01:06:08,380 - 01:06:09,060] let's follow
+- [01:06:10,540 - 01:06:11,980] through on this here a little bit
+- [01:06:11,980 - 01:06:14,640] for all three of these observables
+- [01:06:14,640 - 01:06:16,720] the eigenvalues had better be
+- [01:06:16,720 - 01:06:17,640] plus or minus one
+- [01:06:19,980 - 01:06:20,700] ok now
+- [01:06:20,700 - 01:06:21,860] let's come to the eigenvectors
+- [01:06:22,840 - 01:06:23,800] the eigenvectors
+- [01:06:24,540 - 01:06:25,460] for example,
+- [01:06:25,460 - 01:06:26,940] the eigenvector
+- [01:06:26,940 - 01:06:28,180] with a given eigenvalue
+- [01:06:28,860 - 01:06:30,960] is a state of the system where if you measure
+- [01:06:30,960 - 01:06:32,860] that particular observable
+- [01:06:32,960 - 01:06:34,760] you will definitely get
+- [01:06:34,760 - 01:06:36,320] the eigenvalue
+- [01:06:36,839 - 01:06:38,260] associated with that eigenvector
+- [01:06:38,960 - 01:06:40,540] so the eigenvectors
+- [01:06:46,660 - 01:06:47,720] those are
+- [01:06:49,060 - 01:06:50,980] I think I have it backwards
+- [01:06:50,980 - 01:06:52,840] we should put eigenvectors on this side
+- [01:06:55,740 - 01:06:57,140] and on the left
+- [01:06:57,140 - 01:06:58,700] side the physical meaning of them
+- [01:06:58,700 - 01:07:00,440] the physical meaning
+- [01:07:02,960 - 01:07:04,700] is states
+- [01:07:04,700 - 01:07:07,200] in which
+- [01:07:10,040 - 01:07:11,440] observable
+- [01:07:11,440 - 01:07:15,480] has unambiguous
+- [01:07:15,480 - 01:07:17,580] unambiguous
+- [01:07:21,380 - 01:07:22,780] result
+- [01:07:29,660 - 01:07:31,060] example
+- [01:07:31,060 - 01:07:32,620] we talked
+- [01:07:32,620 - 01:07:32,940] for example
+- [01:07:32,960 - 01:07:34,520] about the states
+- [01:07:34,520 - 01:07:35,780] up and down
+- [01:07:38,220 - 01:07:39,440] those are states
+- [01:07:39,440 - 01:07:40,780] in which sigma z
+- [01:07:40,780 - 01:07:42,280] had definite values
+- [01:07:42,960 - 01:07:44,000] when you're up,
+- [01:07:44,000 - 01:07:44,860] sigma z is
+- [01:07:44,860 - 01:07:45,640] definitely one,
+- [01:07:45,640 - 01:07:46,580] when you're down
+- [01:07:46,580 - 01:07:48,440] sigma z is definitely minus one
+- [01:07:48,960 - 01:07:50,520] any other vector
+- [01:07:50,520 - 01:07:53,160] sigma z is statistically
+- [01:07:53,160 - 01:07:56,160] either plus or minus one
+- [01:07:56,160 - 01:07:57,140] but with a randomness
+- [01:07:58,840 - 01:07:59,190] so
+- [01:07:59,820 - 01:08:00,920] up and down
+- [01:08:00,920 - 01:08:02,940] must be the eigenvectors of sigma z
+- [01:08:04,720 - 01:08:06,020] left and right
+- [01:08:06,740 - 01:08:07,820] were the states
+- [01:08:07,820 - 01:08:08,800] in which sigma x
+- [01:08:08,800 - 01:08:11,800] was unambiguously either plus one or minus one
+- [01:08:11,800 - 01:08:13,420] so left and right
+- [01:08:13,420 - 01:08:14,900] must be the eigenvectors
+- [01:08:14,900 - 01:08:15,940] of sigma x
+- [01:08:15,940 - 01:08:17,779] whatever sigma x is
+- [01:08:18,319 - 01:08:19,399] we're going to try to
+- [01:08:19,399 - 01:08:20,479] figure out what sigma x is
+- [01:08:20,479 - 01:08:21,620] knowing its eigenvalues
+- [01:08:21,620 - 01:08:23,899] and its eigenvectors
+- [01:08:24,879 - 01:08:25,399] and
+- [01:08:26,379 - 01:08:27,540] what was the other three,
+- [01:08:27,540 - 01:08:28,279] the other two called
+- [01:08:28,279 - 01:08:29,140] in and out I think
+- [01:08:29,140 - 01:08:31,220] in and out
+- [01:08:32,960 - 01:08:35,100] the eigenvectors of sigma y
+- [01:08:37,600 - 01:08:40,180] so we have three
+- [01:08:40,960 - 01:08:41,800] connections
+- [01:08:41,800 - 01:08:43,660] and now a fourth connection
+- [01:08:44,819 - 01:08:46,800] given a general state
+- [01:08:46,800 - 01:08:48,840] not an eigenvector
+- [01:08:48,840 - 01:08:51,080] not an eigenvector
+- [01:08:54,880 - 01:08:56,560] given a general state a
+- [01:08:58,560 - 01:09:00,880] somebody made an electron
+- [01:09:00,880 - 01:09:01,479] or
+- [01:09:02,960 - 01:09:03,800] a system of some sort
+- [01:09:04,700 - 01:09:06,420] and left it in the state a
+- [01:09:06,859 - 01:09:08,760] then we can talk about what is
+- [01:09:08,760 - 01:09:09,520] the probability
+- [01:09:10,500 - 01:09:13,300] that we measure the eigenvalues
+- [01:09:13,300 - 01:09:14,720] of n
+- [01:09:14,720 - 01:09:16,899] at different values
+- [01:09:16,899 - 01:09:18,819] there may be several different eigenvalues
+- [01:09:18,819 - 01:09:20,800] in this case they would be
+- [01:09:20,800 - 01:09:22,960] plus one and minus one but more generally
+- [01:09:23,799 - 01:09:25,160] thousand eigenvalues
+- [01:09:25,160 - 01:09:26,580] million eigenvalues
+- [01:09:26,580 - 01:09:28,380] whatever the number is
+- [01:09:29,160 - 01:09:29,840] labeled
+- [01:09:30,680 - 01:09:31,899] by the
+- [01:09:33,059 - 01:09:34,060] label i
+- [01:09:34,880 - 01:09:36,260] what is the probability
+- [01:09:36,700 - 01:09:37,800] that when you measure
+- [01:09:38,720 - 01:09:40,479] m you get
+- [01:09:40,479 - 01:09:41,920] lambda i
+- [01:09:43,279 - 01:09:45,060] that's the last piece of
+- [01:09:45,060 - 01:09:46,899] thing here so on the left hand
+- [01:09:46,899 - 01:09:48,279] side we put probability
+- [01:09:49,479 - 01:09:50,500] physical meaning
+- [01:09:50,500 - 01:09:51,140] probability
+- [01:09:52,219 - 01:09:54,300] and I'll write it just as the probability
+- [01:09:54,720 - 01:09:55,960] to measure i
+- [01:09:56,740 - 01:09:58,620] no to measure lambda i
+- [01:09:58,620 - 01:10:00,840] I'm sorry to measure lambda i
+- [01:10:01,920 - 01:10:02,940] that there is a
+- [01:10:02,960 - 01:10:04,700] the result of the experiment comes out
+- [01:10:04,700 - 01:10:06,740] a particular eigenvalue
+- [01:10:06,740 - 01:10:09,280] of the observable
+- [01:10:09,280 - 01:10:10,860] m whatever m is
+- [01:10:11,759 - 01:10:12,400] that
+- [01:10:15,860 - 01:10:17,140] is related
+- [01:10:17,140 - 01:10:18,800] not related to it's
+- [01:10:18,800 - 01:10:20,100] essentially equal to
+- [01:10:20,100 - 01:10:22,020] two pieces comes in two steps
+- [01:10:22,900 - 01:10:24,900] first you calculate if you have
+- [01:10:24,900 - 01:10:26,540] the vector a
+- [01:10:26,540 - 01:10:28,960] the vector which you start that's the state of the
+- [01:10:28,960 - 01:10:30,860] system you take it's inner
+- [01:10:30,860 - 01:10:31,340] product
+- [01:10:32,960 - 01:10:34,280] with the eigenvector i
+- [01:10:35,679 - 01:10:36,980] the projection
+- [01:10:36,980 - 01:10:38,540] of a onto i
+- [01:10:38,540 - 01:10:40,780] the component of a in the i
+- [01:10:40,780 - 01:10:42,820] direction now that in general
+- [01:10:42,820 - 01:10:44,820] is a complex number that
+- [01:10:44,820 - 01:10:46,080] is not the probability
+- [01:10:46,960 - 01:10:48,700] you multiply it by its own
+- [01:10:48,700 - 01:10:50,620] complex conjugate to get a real
+- [01:10:50,620 - 01:10:52,580] positive number and that
+- [01:10:52,580 - 01:10:53,500] is the probability
+- [01:10:54,780 - 01:10:56,680] we can multiply this by its complex
+- [01:10:56,680 - 01:10:58,520] conjugate or we can just write it
+- [01:10:58,520 - 01:10:59,180] ia
+- [01:11:00,919 - 01:11:02,280] this ia
+- [01:11:02,960 - 01:11:04,260] and ai are complex
+- [01:11:04,260 - 01:11:05,460] conjugates of each other
+- [01:11:05,460 - 01:11:08,280] we can also write this as the absolute
+- [01:11:08,280 - 01:11:10,400] value of ia squared
+- [01:11:12,540 - 01:11:14,540] the individual components
+- [01:11:14,540 - 01:11:16,780] before we square them are called
+- [01:11:16,780 - 01:11:18,700] amplitudes they are called probability
+- [01:11:18,700 - 01:11:19,620] amplitudes
+- [01:11:19,620 - 01:11:22,280] probability amplitudes are things
+- [01:11:22,880 - 01:11:24,700] which you multiply by their complex
+- [01:11:24,700 - 01:11:26,320] conjugates to find probabilities
+- [01:11:26,320 - 01:11:28,520] they are real they are positive
+- [01:11:29,679 - 01:11:30,400] and
+- [01:11:30,800 - 01:11:31,640] that's the fourth
+- [01:11:32,960 - 01:11:34,040] the fourth postulate
+- [01:11:35,519 - 01:11:37,200] of quantum mechanics
+- [01:11:37,200 - 01:11:38,500] now they are not all independent
+- [01:11:38,500 - 01:11:41,000] i use them because
+- [01:11:41,000 - 01:11:43,020] because they are reasonably
+- [01:11:43,020 - 01:11:44,980] intuitive in fact
+- [01:11:44,980 - 01:11:46,380] you can probably
+- [01:11:46,960 - 01:11:48,780] get rid of at least
+- [01:11:48,780 - 01:11:50,900] two of them and prove them from
+- [01:11:50,900 - 01:11:53,160] the others but we don't need to do that
+- [01:11:53,160 - 01:11:54,940] this is a good starting
+- [01:11:54,940 - 01:11:55,280] point
+- [01:11:57,820 - 01:11:59,100] and these
+- [01:11:59,100 - 01:12:00,920] are the basic four postulates of
+- [01:12:00,920 - 01:12:01,580] quantum mechanics
+- [01:12:02,960 - 01:12:04,980] the other postulate is that
+- [01:12:04,980 - 01:12:06,180] when you measure a quantity
+- [01:12:06,960 - 01:12:08,660] you prepare the system
+- [01:12:08,660 - 01:12:10,880] in a state of definite
+- [01:12:10,880 - 01:12:12,780] value of that quantity i won't bother
+- [01:12:12,780 - 01:12:14,740] writing that down when you measure
+- [01:12:14,740 - 01:12:16,880] something you are in effect
+- [01:12:17,639 - 01:12:18,980] pushing it into
+- [01:12:18,980 - 01:12:20,500] a state of definite value
+- [01:12:20,500 - 01:12:22,800] of that quantity depending on what the
+- [01:12:22,800 - 01:12:24,280] outcome of your experiment is
+- [01:12:24,960 - 01:12:26,840] if your outcome measures
+- [01:12:26,840 - 01:12:28,300] some particular
+- [01:12:28,300 - 01:12:30,800] if the outcome of an experiment is some particular
+- [01:12:30,800 - 01:12:31,620] eigenvalue
+- [01:12:32,960 - 01:12:34,180] that means you push the system
+- [01:12:34,180 - 01:12:36,540] into the state into the eigenstate
+- [01:12:36,540 - 01:12:38,960] of that quantity with that eigenvalue
+- [01:12:38,960 - 01:12:41,040] i won't write that down
+- [01:12:41,040 - 01:12:42,660] it takes too many words to write it down
+- [01:12:43,960 - 01:12:45,100] what's under the p
+- [01:12:45,100 - 01:12:46,280] the probability
+- [01:12:46,960 - 01:12:47,500] right here
+- [01:12:48,860 - 01:12:49,460] yeah
+- [01:12:50,740 - 01:12:52,640] next to the p what is that
+- [01:12:52,640 - 01:12:54,100] i can't read your handwriting
+- [01:12:55,700 - 01:12:56,300] prob
+- [01:12:56,940 - 01:12:57,540] prob
+- [01:12:59,320 - 01:13:00,720] it's probably probable
+- [01:13:00,720 - 01:13:02,260] probably probability
+- [01:13:04,799 - 01:13:05,440] yeah
+- [01:13:05,440 - 01:13:05,940] yeah
+- [01:13:08,460 - 01:13:10,920] this reads the probability of measuring
+- [01:13:10,920 - 01:13:11,240] lambda
+- [01:13:11,720 - 01:13:12,780] oh it is lambda i
+- [01:13:12,780 - 01:13:15,500] lambda i the probability of measuring
+- [01:13:15,500 - 01:13:16,320] lambda i
+- [01:13:16,960 - 01:13:18,140] is the square
+- [01:13:18,700 - 01:13:19,960] of the inner product
+- [01:13:19,960 - 01:13:22,360] of a with i
+- [01:13:25,719 - 01:13:26,740] it's if you like
+- [01:13:26,740 - 01:13:27,540] it's the projection
+- [01:13:28,860 - 01:13:31,220] of a onto the i'th direction
+- [01:13:31,220 - 01:13:32,940] or the component of a in the i'th direction
+- [01:13:32,960 - 01:13:35,840] now there's an implication here
+- [01:13:35,840 - 01:13:37,100] there's an implication here
+- [01:13:37,100 - 01:13:39,560] about the nature of
+- [01:13:39,560 - 01:13:40,720] state vectors
+- [01:13:41,740 - 01:13:43,320] coming from the assumption
+- [01:13:43,320 - 01:13:44,900] that total probabilities
+- [01:13:44,900 - 01:13:45,820] are equal to one
+- [01:13:46,740 - 01:13:47,680] normalize them
+- [01:13:47,680 - 01:13:50,240] they have to be normalized
+- [01:13:50,240 - 01:13:53,400] yeah let's work that out
+- [01:13:58,999 - 01:14:01,460] if you want the total probability
+- [01:14:01,460 - 01:14:02,600] to add up to one
+- [01:14:03,340 - 01:14:04,600] then you want
+- [01:14:04,600 - 01:14:07,860] the sums of all these objects
+- [01:14:07,860 - 01:14:09,260] when you sum over i
+- [01:14:09,260 - 01:14:11,400] over the various possible values
+- [01:14:11,400 - 01:14:12,220] of
+- [01:14:12,820 - 01:14:14,620] that you can measure
+- [01:14:14,620 - 01:14:16,920] you want that to equal one
+- [01:14:16,920 - 01:14:18,920] so you want the sum over i
+- [01:14:18,920 - 01:14:20,960] for any allowable
+- [01:14:22,960 - 01:14:24,120] state a
+- [01:14:25,880 - 01:14:27,020] we want
+- [01:14:27,020 - 01:14:27,800] the sum
+- [01:14:27,800 - 01:14:29,260] of a
+- [01:14:30,700 - 01:14:31,420] i
+- [01:14:31,420 - 01:14:31,780] i
+- [01:14:32,980 - 01:14:33,620] a
+- [01:14:35,839 - 01:14:37,540] to equal one
+- [01:14:41,000 - 01:14:42,680] now i is a basis
+- [01:14:42,680 - 01:14:45,140] and if you go up to the top equation
+- [01:14:45,140 - 01:14:45,580] there
+- [01:14:46,259 - 01:14:48,180] you have equations
+- [01:14:48,820 - 01:14:50,600] which tell you how to deal
+- [01:14:50,600 - 01:14:52,520] with exactly this combination
+- [01:14:53,940 - 01:14:54,940] what is the
+- [01:14:54,940 - 01:14:56,620] sum over i of
+- [01:14:56,620 - 01:14:58,020] i i a
+- [01:14:59,099 - 01:15:00,140] it's just a
+- [01:15:00,960 - 01:15:01,980] so what this says
+- [01:15:02,960 - 01:15:05,320] is that the inner product of a with itself
+- [01:15:05,320 - 01:15:06,400] should equal one
+- [01:15:06,880 - 01:15:09,500] the total length of a should be equal to one
+- [01:15:09,500 - 01:15:11,380] that's not too surprising that that's what this says
+- [01:15:11,380 - 01:15:12,840] this says the sums of the
+- [01:15:12,840 - 01:15:14,300] squares of the components of a
+- [01:15:14,300 - 01:15:15,640] add up to one
+- [01:15:16,900 - 01:15:18,860] for ordinary vectors that would just say
+- [01:15:18,860 - 01:15:20,280] the length of the vector was one
+- [01:15:20,280 - 01:15:21,180] and that's what this says
+- [01:15:21,180 - 01:15:23,100] the length of a is equal to one
+- [01:15:24,880 - 01:15:27,300] it's equivalent in terms of the alphas
+- [01:15:27,300 - 01:15:29,320] we got rid of the alphas are up there also
+- [01:15:29,320 - 01:15:31,520] it's equivalent to the sum of
+- [01:15:31,520 - 01:15:32,800] alpha star i
+- [01:15:32,960 - 01:15:33,680] alpha i
+- [01:15:33,680 - 01:15:34,580] alpha i equals one
+- [01:15:37,300 - 01:15:39,100] well i capital i
+- [01:15:43,640 - 01:15:45,960] and so there is
+- [01:15:46,890 - 01:15:47,220] one
+- [01:15:48,540 - 01:15:50,200] combination of the alphas
+- [01:15:50,200 - 01:15:51,600] this is one real equation
+- [01:15:51,600 - 01:15:53,640] it's not a complex equation it's a real equation
+- [01:15:53,640 - 01:15:56,660] and that means there's one real combination
+- [01:15:56,660 - 01:15:58,920] of the alphas which has to be constrained
+- [01:16:00,020 - 01:16:00,840] alphas are
+- [01:16:00,840 - 01:16:01,940] not completely free
+- [01:16:03,380 - 01:16:05,540] or the alphas are not completely free
+- [01:16:05,540 - 01:16:07,780] roughly speaking the sums of their squares
+- [01:16:07,780 - 01:16:09,840] or the sums of them times a complex conjugate
+- [01:16:09,840 - 01:16:10,800] has to add up to one
+- [01:16:11,640 - 01:16:12,860] so that means there's less
+- [01:16:14,860 - 01:16:16,520] fewer independent quantities
+- [01:16:16,520 - 01:16:17,320] than you thought
+- [01:16:20,080 - 01:16:21,540] there is another fact
+- [01:16:21,540 - 01:16:23,760] which we have not gotten to yet
+- [01:16:24,540 - 01:16:25,800] we will get to it
+- [01:16:28,440 - 01:16:30,500] you can sort of see it from here
+- [01:16:32,100 - 01:16:32,940] all properties
+- [01:16:32,940 - 01:16:34,500] probabilities any probability
+- [01:16:34,500 - 01:16:36,480] that you ever may want to measure
+- [01:16:36,480 - 01:16:38,220] or that you ever may want to
+- [01:16:38,690 - 01:16:40,340] to calculate
+- [01:16:40,340 - 01:16:41,740] or compare with experiment
+- [01:16:42,610 - 01:16:44,020] is always connected
+- [01:16:44,020 - 01:16:46,440] with a real quantity like this
+- [01:16:47,840 - 01:16:48,960] the collection
+- [01:16:48,960 - 01:16:50,180] of such real quantities
+- [01:16:51,880 - 01:16:53,280] is invariant
+- [01:16:53,280 - 01:16:54,460] under a certain operation
+- [01:16:55,240 - 01:16:56,780] the operation is
+- [01:16:56,780 - 01:16:59,260] multiplying the state vector by a phase
+- [01:16:59,260 - 01:17:00,760] everybody know what it means to
+- [01:17:00,760 - 01:17:02,920] multiply a number of things like that
+- [01:17:02,940 - 01:17:03,440] by a phase
+- [01:17:03,440 - 01:17:07,040] you multiply it by an e to the i theta
+- [01:17:07,040 - 01:17:08,900] if you multiply
+- [01:17:08,900 - 01:17:10,600] all the components of a
+- [01:17:11,480 - 01:17:13,160] by the same overall
+- [01:17:13,160 - 01:17:13,720] phase
+- [01:17:13,720 - 01:17:16,620] then every probability is unchanged
+- [01:17:17,920 - 01:17:19,220] every probability
+- [01:17:19,220 - 01:17:19,800] is unchanged
+- [01:17:20,740 - 01:17:21,500] ah
+- [01:17:23,219 - 01:17:24,740] even if you rotate
+- [01:17:24,740 - 01:17:26,500] bases it's unchanged
+- [01:17:26,500 - 01:17:28,620] so physical quantities
+- [01:17:28,620 - 01:17:30,860] don't respond to a change of
+- [01:17:30,860 - 01:17:32,100] a phase
+- [01:17:32,940 - 01:17:35,120] that means there are two fewer
+- [01:17:35,839 - 01:17:37,200] degrees of freedom
+- [01:17:37,200 - 01:17:38,280] two fewer
+- [01:17:39,460 - 01:17:40,100] parameters
+- [01:17:40,780 - 01:17:43,120] in the specification of a state
+- [01:17:43,120 - 01:17:45,060] than the collection
+- [01:17:45,060 - 01:17:46,240] of complex numbers
+- [01:17:46,240 - 01:17:49,440] that would define a vector in the abstract space
+- [01:17:49,440 - 01:17:50,180] two
+- [01:17:50,640 - 01:17:52,520] one is the phase the overall phase
+- [01:17:52,520 - 01:17:54,280] and the other is the magnitude of it
+- [01:17:54,280 - 01:17:55,440] we'll come back to that
+- [01:17:56,960 - 01:17:59,560] okay that's taken us a long way
+- [01:17:59,560 - 01:18:01,120] you're probably
+- [01:18:01,120 - 01:18:02,700] saturated but I'm not
+- [01:18:02,940 - 01:18:03,540] so we're going to continue
+- [01:18:05,200 - 01:18:06,220] I'm on a high
+- [01:18:08,120 - 01:18:08,640] questions
+- [01:18:08,640 - 01:18:09,260] yeah
+- [01:18:09,260 - 01:18:11,240] some probability also has to be
+- [01:18:12,320 - 01:18:12,840] negative
+- [01:18:12,840 - 01:18:15,780] yeah yeah that's right so these are always positive
+- [01:18:15,780 - 01:18:18,780] thing times its complex conjugate is always positive
+- [01:18:21,320 - 01:18:22,560] is the evolution
+- [01:18:22,560 - 01:18:23,620] part of it
+- [01:18:23,620 - 01:18:24,800] is the what
+- [01:18:26,339 - 01:18:27,820] the evolution part
+- [01:18:27,820 - 01:18:30,080] we haven't gotten to that yet
+- [01:18:30,759 - 01:18:32,480] how things change with time
+- [01:18:32,940 - 01:18:33,020] yeah
+- [01:18:33,680 - 01:18:35,340] no we're at the level now
+- [01:18:36,300 - 01:18:38,580] of where we were in classical physics
+- [01:18:38,580 - 01:18:40,800] when we just said the state of a system
+- [01:18:40,800 - 01:18:41,920] is just a point in a
+- [01:18:42,560 - 01:18:44,020] among a set of things
+- [01:18:44,940 - 01:18:46,100] that's about where we are
+- [01:18:46,100 - 01:18:47,640] that's how far we've gotten
+- [01:18:47,640 - 01:18:49,920] we've not talked about how things change
+- [01:18:49,920 - 01:18:53,420] in particular how the states of systems change
+- [01:18:53,420 - 01:18:54,340] we'll come to that
+- [01:18:55,380 - 01:18:55,840] so
+- [01:18:57,340 - 01:18:58,860] back in the beginning when we had
+- [01:18:58,860 - 01:19:00,180] this example of
+- [01:19:01,000 - 01:19:02,920] you know measuring these cubed measures
+- [01:19:02,940 - 01:19:04,160] and you had
+- [01:19:04,860 - 01:19:07,080] you had the apparatus at an angle
+- [01:19:07,080 - 01:19:09,080] and you got the
+- [01:19:09,080 - 01:19:10,080] cosine of theta
+- [01:19:10,080 - 01:19:11,920] right so
+- [01:19:11,920 - 01:19:12,700] we have to do it
+- [01:19:13,400 - 01:19:14,080] ok well
+- [01:19:14,080 - 01:19:15,740] ok I guess my question was
+- [01:19:15,740 - 01:19:18,780] we somehow got the idea that cosine of theta
+- [01:19:18,780 - 01:19:21,360] is going to be the average of your measurements
+- [01:19:22,219 - 01:19:23,900] should it be cosine squared
+- [01:19:24,480 - 01:19:25,000] no
+- [01:19:27,099 - 01:19:28,300] I see why
+- [01:19:28,300 - 01:19:29,280] I see where you're going but
+- [01:19:29,280 - 01:19:31,580] I'm going to do it
+- [01:19:35,920 - 01:19:37,380] can you say that last
+- [01:19:37,380 - 01:19:38,820] posture one more time
+- [01:19:38,820 - 01:19:39,680] so I can get more
+- [01:19:39,680 - 01:19:42,820] when you measure something you push it into the state
+- [01:19:42,820 - 01:19:43,520] you are measuring
+- [01:19:43,520 - 01:19:46,560] no when you measure something
+- [01:19:46,560 - 01:19:47,320] you get a result
+- [01:19:49,320 - 01:19:50,840] the result is statistically
+- [01:19:51,600 - 01:19:52,060] determined
+- [01:19:52,960 - 01:19:54,960] meaning to say that you may get one result
+- [01:19:54,960 - 01:19:56,840] you may get another result but once you get that
+- [01:19:56,840 - 01:19:57,140] result
+- [01:19:58,940 - 01:20:00,660] then you know what state
+- [01:20:00,660 - 01:20:01,520] the system is in
+- [01:20:02,940 - 01:20:03,920] the eigenstate
+- [01:20:03,920 - 01:20:07,100] of the quantity that you measured
+- [01:20:07,100 - 01:20:08,580] with the eigenvalue
+- [01:20:08,580 - 01:20:10,220] that came up on your
+- [01:20:10,220 - 01:20:10,560] detector
+- [01:20:13,219 - 01:20:13,820] remember
+- [01:20:15,139 - 01:20:17,020] when we had our apparatus
+- [01:20:17,860 - 01:20:19,080] and we measured
+- [01:20:19,080 - 01:20:19,620] sigma z
+- [01:20:20,720 - 01:20:22,660] we said that not only measures
+- [01:20:22,660 - 01:20:24,760] sigma z but it prepares the
+- [01:20:24,760 - 01:20:26,600] system in a state of definite
+- [01:20:26,600 - 01:20:28,900] sigma z it leaves it
+- [01:20:28,900 - 01:20:30,940] over in a state in which
+- [01:20:30,940 - 01:20:32,800] sigma z is definite for the next
+- [01:20:32,940 - 01:20:34,880] measurement that means it leaves
+- [01:20:34,880 - 01:20:36,720] it in an eigenstate of
+- [01:20:36,720 - 01:20:37,220] sigma z
+- [01:20:38,920 - 01:20:39,360] okay
+- [01:20:42,820 - 01:20:44,220] let's see if we can apply this
+- [01:20:44,980 - 01:20:45,420] to
+- [01:20:45,420 - 01:20:49,760] to the spin system
+- [01:20:57,560 - 01:20:59,000] you get a very general
+- [01:20:59,000 - 01:20:59,540] formulation
+- [01:21:00,520 - 01:21:01,720] and now we want to try
+- [01:21:01,720 - 01:21:02,920] it out and see how it works
+- [01:21:03,660 - 01:21:04,220] alright
+- [01:21:05,059 - 01:21:07,020] so I want to start with the
+- [01:21:07,020 - 01:21:08,660] three observables sigma x
+- [01:21:08,660 - 01:21:10,820] sigma y and sigma z and see what I can
+- [01:21:10,820 - 01:21:11,420] learn about them
+- [01:21:13,200 - 01:21:14,640] first of all sigma z
+- [01:21:17,839 - 01:21:18,780] now let's
+- [01:21:18,780 - 01:21:19,560] start
+- [01:21:20,740 - 01:21:21,780] in the basis
+- [01:21:23,059 - 01:21:24,180] associated with
+- [01:21:24,820 - 01:21:26,620] the measurement of the spin along
+- [01:21:26,620 - 01:21:28,720] the z axis let's take that as
+- [01:21:28,720 - 01:21:29,860] the appropriate basis
+- [01:21:31,799 - 01:21:32,920] sigma z
+- [01:21:32,940 - 01:21:34,640] has two eigenvectors by
+- [01:21:35,259 - 01:21:37,420] from the experiments that we talked
+- [01:21:37,420 - 01:21:38,560] about we would have learned
+- [01:21:38,560 - 01:21:40,860] that we done the experiment that sigma z
+- [01:21:40,860 - 01:21:41,920] has two eigenvalues
+- [01:21:42,620 - 01:21:44,820] and two eigenvectors
+- [01:21:44,820 - 01:21:46,880] the two eigenvectors we've
+- [01:21:46,880 - 01:21:48,680] called up and down and they're
+- [01:21:48,680 - 01:21:50,960] associated with sigma z equals plus one
+- [01:21:50,960 - 01:21:52,860] and minus one those
+- [01:21:52,860 - 01:21:54,700] must be the eigenvectors of sigma z
+- [01:21:54,700 - 01:21:56,900] and eigenvalues and
+- [01:21:56,900 - 01:21:58,880] so we can immediately say sigma z
+- [01:21:59,740 - 01:22:00,660] times up
+- [01:22:01,559 - 01:22:02,760] is equal to up
+- [01:22:02,940 - 01:22:04,600] plus one times up
+- [01:22:07,280 - 01:22:07,860] why
+- [01:22:07,860 - 01:22:09,840] because the measured value
+- [01:22:10,940 - 01:22:12,480] when we measure sigma z
+- [01:22:12,480 - 01:22:14,880] is going to be plus one
+- [01:22:15,820 - 01:22:17,000] that's the eigenvalue
+- [01:22:17,000 - 01:22:19,140] and up is the eigenvector
+- [01:22:19,140 - 01:22:20,660] because in the up state
+- [01:22:20,660 - 01:22:21,660] sigma z is definite
+- [01:22:22,260 - 01:22:24,420] what about sigma z on the down state
+- [01:22:26,380 - 01:22:27,600] what should I write there
+- [01:22:29,700 - 01:22:31,040] is sigma z definite
+- [01:22:31,040 - 01:22:32,380] in the down state
+- [01:22:32,380 - 01:22:32,840] no
+- [01:22:32,840 - 01:22:32,920] sigma z is definite
+- [01:22:32,940 - 01:22:34,760] yes it's always minus one
+- [01:22:34,760 - 01:22:36,140] it's going to be minus one
+- [01:22:36,700 - 01:22:39,080] and that means the eigenvalue is minus one
+- [01:22:40,240 - 01:22:41,160] times down
+- [01:22:42,960 - 01:22:45,100] it's not sigma z times down equals up
+- [01:22:45,100 - 01:22:46,440] that wouldn't be an eigenvector
+- [01:22:46,440 - 01:22:48,900] an eigenvector has the property that when the
+- [01:22:48,900 - 01:22:50,000] operator acts on it
+- [01:22:50,599 - 01:22:52,740] it gives the same direction back
+- [01:22:52,740 - 01:22:54,080] times the eigenvalue
+- [01:22:54,940 - 01:22:56,680] so here is what we know
+- [01:22:56,680 - 01:22:57,520] about
+- [01:22:58,900 - 01:22:59,740] sigma z
+- [01:23:01,379 - 01:23:02,880] okay let's see if we can
+- [01:23:02,940 - 01:23:04,420] compute its matrix elements
+- [01:23:04,420 - 01:23:06,460] and exhibit it as a matrix
+- [01:23:06,460 - 01:23:09,260] but when I say exhibit it as a matrix
+- [01:23:09,260 - 01:23:10,540] I have picked
+- [01:23:10,540 - 01:23:12,460] I must pick a basis
+- [01:23:13,340 - 01:23:15,100] I'm going to pick the basis
+- [01:23:15,100 - 01:23:16,080] up and down
+- [01:23:17,820 - 01:23:18,900] first of all
+- [01:23:18,900 - 01:23:20,160] one thing
+- [01:23:20,160 - 01:23:23,040] up and down are orthogonal to each other
+- [01:23:23,040 - 01:23:24,960] they must be according to these
+- [01:23:24,960 - 01:23:26,520] principles because
+- [01:23:26,520 - 01:23:28,260] if sigma z is an observable
+- [01:23:28,260 - 01:23:30,100] it corresponds to a Hermitian matrix
+- [01:23:31,240 - 01:23:32,860] if there are two different
+- [01:23:32,940 - 01:23:33,640] eigenvalues
+- [01:23:35,339 - 01:23:37,200] the eigenvectors must be orthogonal
+- [01:23:37,200 - 01:23:38,460] for a Hermitian matrix
+- [01:23:38,460 - 01:23:40,360] and so up and down
+- [01:23:40,360 - 01:23:42,820] first of all learn that up and down
+- [01:23:42,820 - 01:23:43,520] are orthogonal
+- [01:23:43,520 - 01:23:44,880] that's one fact
+- [01:23:46,639 - 01:23:48,820] it doesn't matter whether we write up down
+- [01:23:48,820 - 01:23:49,420] or down up
+- [01:23:49,420 - 01:23:50,880] we can write it in the opposite order
+- [01:23:51,780 - 01:23:54,200] let's see if we can compute the matrix elements
+- [01:23:54,920 - 01:23:56,960] the matrix elements are just the array
+- [01:23:57,660 - 01:23:58,620] that we get
+- [01:23:59,540 - 01:24:01,000] when we consider
+- [01:24:01,000 - 01:24:02,160] the four possibilities
+- [01:24:02,940 - 01:24:03,900] two by two matrices
+- [01:24:03,900 - 01:24:06,800] and the four possibilities
+- [01:24:07,320 - 01:24:08,280] are going to be
+- [01:24:08,920 - 01:24:10,860] first of all we take the inner product
+- [01:24:10,860 - 01:24:11,760] of this back with up
+- [01:24:12,420 - 01:24:14,360] that will be the up up matrix element
+- [01:24:14,360 - 01:24:15,740] or the one one matrix element
+- [01:24:15,740 - 01:24:16,780] what is that going to be
+- [01:24:18,560 - 01:24:19,440] to find
+- [01:24:20,980 - 01:24:22,160] I'm not sure I want to
+- [01:24:23,220 - 01:24:25,060] let's do it over here
+- [01:24:29,100 - 01:24:30,300] let's calculate up
+- [01:24:30,840 - 01:24:32,680] sigma z up
+- [01:24:33,520 - 01:24:34,300] that's equal
+- [01:24:34,300 - 01:24:36,000] sigma z acts to the right
+- [01:24:36,000 - 01:24:37,800] to give us up
+- [01:24:38,560 - 01:24:39,460] plus one
+- [01:24:39,460 - 01:24:41,960] times up
+- [01:24:45,400 - 01:24:46,900] just the inner product of up
+- [01:24:46,900 - 01:24:47,300] with itself
+- [01:24:47,300 - 01:24:49,640] and since up is a basis vector
+- [01:24:50,660 - 01:24:51,600] it's normalized
+- [01:24:51,600 - 01:24:53,820] and this is just equal to one
+- [01:24:54,500 - 01:24:56,120] its magnitude is equal to one
+- [01:24:56,120 - 01:24:57,520] I can choose it to be equal to one
+- [01:25:00,420 - 01:25:01,280] it's positive
+- [01:25:01,280 - 01:25:02,620] yeah it's positive
+- [01:25:02,940 - 01:25:03,060] it's real
+- [01:25:03,060 - 01:25:05,320] and it's just plain one
+- [01:25:05,320 - 01:25:07,720] so up here in the up up
+- [01:25:07,720 - 01:25:09,380] or the one one place
+- [01:25:10,059 - 01:25:11,260] it's just one
+- [01:25:12,879 - 01:25:13,940] now let's
+- [01:25:13,940 - 01:25:16,100] what about the off diagonal element
+- [01:25:16,800 - 01:25:18,420] the off diagonal element
+- [01:25:19,199 - 01:25:21,580] that's an off diagonal element there
+- [01:25:23,120 - 01:25:24,440] that's going to be equal
+- [01:25:24,440 - 01:25:26,940] to the inner product of down with up
+- [01:25:28,540 - 01:25:29,260] what's that
+- [01:25:31,040 - 01:25:32,160] zero over here
+- [01:25:32,160 - 01:25:32,860] so
+- [01:25:33,600 - 01:25:35,660] I would get exactly the same thing
+- [01:25:35,660 - 01:25:37,380] if I put down over here
+- [01:25:37,380 - 01:25:38,240] and up over here
+- [01:25:38,760 - 01:25:40,760] then I would use this equation over here
+- [01:25:40,760 - 01:25:42,740] let sigma z act on down
+- [01:25:42,740 - 01:25:44,860] and then take its overlap with up
+- [01:25:44,860 - 01:25:45,960] and I would get zero again
+- [01:25:47,020 - 01:25:48,200] and the last one
+- [01:25:48,200 - 01:25:50,860] is down sigma z down
+- [01:25:52,660 - 01:25:53,440] what is that
+- [01:25:53,440 - 01:25:54,560] well you go over to here
+- [01:25:54,560 - 01:25:56,600] sigma z times down is minus down
+- [01:25:57,280 - 01:25:59,080] so this is just equal to minus
+- [01:25:59,720 - 01:26:00,580] down down
+- [01:26:00,580 - 01:26:01,440] and what's that
+- [01:26:03,600 - 01:26:04,320] minus one
+- [01:26:06,640 - 01:26:08,180] so this is the matrix
+- [01:26:08,820 - 01:26:10,320] that's associated with sigma z
+- [01:26:14,320 - 01:26:17,000] when it acts on a vector on a column vector
+- [01:26:17,000 - 01:26:19,000] in particular when it acts
+- [01:26:19,000 - 01:26:21,380] what is the column vector that's associated with up
+- [01:26:23,980 - 01:26:25,260] it's just a one in the
+- [01:26:25,260 - 01:26:26,540] top and a zero in the bottom
+- [01:26:27,040 - 01:26:28,520] alright so let's just try this
+- [01:26:28,520 - 01:26:29,540] one zero
+- [01:26:30,920 - 01:26:31,840] what do we get
+- [01:26:32,860 - 01:26:33,580] one times one is one
+- [01:26:34,580 - 01:26:35,920] zero times zero is zero
+- [01:26:35,920 - 01:26:37,300] we just get the same vector back
+- [01:26:37,300 - 01:26:38,200] that's good
+- [01:26:38,200 - 01:26:42,340] same thing
+- [01:26:43,120 - 01:26:45,080] it's guaranteed that we'll get the right
+- [01:26:45,080 - 01:26:46,580] that the eigenvectors are
+- [01:26:46,580 - 01:26:47,760] what they're supposed to be
+- [01:26:47,760 - 01:26:49,440] namely just up and down
+- [01:26:49,440 - 01:26:52,180] and that the eigenvalues are plus one and minus one
+- [01:26:52,180 - 01:26:53,100] in the right way
+- [01:26:54,040 - 01:26:56,240] alright so we found one of
+- [01:26:57,260 - 01:26:58,400] the sigma matrices
+- [01:26:58,400 - 01:26:59,500] sigma z
+- [01:27:01,540 - 01:27:02,460] is of course
+- [01:27:02,860 - 01:27:03,940] well not of course
+- [01:27:03,940 - 01:27:05,380] they're called the Pauli matrices
+- [01:27:05,980 - 01:27:06,720] sigma x,
+- [01:27:06,720 - 01:27:07,200] sigma y,
+- [01:27:07,200 - 01:27:07,840] and sigma z
+- [01:27:07,840 - 01:27:10,300] let's see what we can find out about
+- [01:27:11,400 - 01:27:12,260] sigma x
+- [01:27:14,080 - 01:27:14,580] now
+- [01:27:14,580 - 01:27:15,600] I'm using
+- [01:27:15,600 - 01:27:17,280] if I use the x basis
+- [01:27:17,280 - 01:27:19,480] if I use the basis of left and right
+- [01:27:20,100 - 01:27:22,380] of course I would just find exactly the same thing
+- [01:27:22,380 - 01:27:25,120] but I want to stick with the up down basis
+- [01:27:25,640 - 01:27:27,540] I want to stick with the up down basis
+- [01:27:27,540 - 01:27:28,520] but
+- [01:27:28,520 - 01:27:31,140] find out what the matrix elements
+- [01:27:31,140 - 01:27:32,260] of sigma x are
+- [01:27:33,480 - 01:27:35,400] now what is the property of sigma x
+- [01:27:35,400 - 01:27:37,740] the property of sigma x
+- [01:27:37,740 - 01:27:38,940] is that its eigenvectors
+- [01:27:39,380 - 01:27:40,360] are left and right
+- [01:27:41,320 - 01:27:42,520] so for example
+- [01:27:44,299 - 01:27:45,680] sigma x on right
+- [01:27:46,219 - 01:27:47,340] that equals right
+- [01:27:48,059 - 01:27:49,940] and what about sigma x on left
+- [01:27:53,940 - 01:27:55,180] equals minus left
+- [01:27:56,519 - 01:27:58,420] those are the two possible values
+- [01:27:58,420 - 01:28:00,140] that sigma x can take on
+- [01:28:01,320 - 01:28:02,280] left and right
+- [01:28:02,280 - 01:28:02,840] are the eigenvectors
+- [01:28:02,860 - 01:28:04,380] in other words the states
+- [01:28:04,380 - 01:28:06,360] in which sigma x has definite values
+- [01:28:06,360 - 01:28:07,740] plus one and minus one
+- [01:28:07,740 - 01:28:09,980] and this is what I know about sigma x
+- [01:28:09,980 - 01:28:12,800] but I want to find its matrix elements
+- [01:28:12,800 - 01:28:14,040] in the up down basis
+- [01:28:14,540 - 01:28:15,980] so what I really want then
+- [01:28:15,980 - 01:28:18,300] let's come over to here
+- [01:28:20,480 - 01:28:22,260] and see if we can compute
+- [01:28:22,260 - 01:28:23,440] in the same basis
+- [01:28:24,260 - 01:28:26,320] what did I do with the Pauli matrix
+- [01:28:26,860 - 01:28:27,620] did I erase it
+- [01:28:29,500 - 01:28:31,300] I worked so hard to get it
+- [01:28:34,480 - 01:28:36,020] sigma z is equal to
+- [01:28:36,020 - 01:28:38,080] one minus one zero zero
+- [01:28:39,080 - 01:28:40,880] now we want to try to get sigma x
+- [01:28:41,720 - 01:28:42,980] so the first step is
+- [01:28:42,980 - 01:28:45,540] erase the blackboard
+- [01:28:53,920 - 01:28:55,120] and let's start
+- [01:28:55,120 - 01:28:55,700] one by one
+- [01:28:55,700 - 01:28:56,820] there are four matrix elements
+- [01:28:56,820 - 01:28:58,140] let's do them one by one
+- [01:29:02,240 - 01:29:02,840] up down basis
+- [01:29:02,860 - 01:29:05,140] up sigma x up
+- [01:29:05,980 - 01:29:07,320] now what we have to know
+- [01:29:08,240 - 01:29:09,240] is that up
+- [01:29:10,420 - 01:29:12,520] is equal to left plus right
+- [01:29:14,040 - 01:29:15,480] over the square root of two
+- [01:29:15,480 - 01:29:16,220] you remember that
+- [01:29:19,720 - 01:29:20,980] we originally defined
+- [01:29:21,700 - 01:29:22,620] left and right
+- [01:29:22,620 - 01:29:24,560] to be up plus or minus down
+- [01:29:24,560 - 01:29:26,040] over the square root of two
+- [01:29:26,040 - 01:29:26,940] but then we can solve
+- [01:29:26,940 - 01:29:29,500] for up and down in terms of left and right
+- [01:29:30,820 - 01:29:31,260] down
+- [01:29:32,180 - 01:29:32,620] down
+- [01:29:32,620 - 01:29:32,840] plus or minus down
+- [01:29:32,860 - 01:29:33,080] is
+- [01:29:35,440 - 01:29:35,940] left
+- [01:29:35,940 - 01:29:38,000] sorry it's right minus left
+- [01:29:40,520 - 01:29:42,360] with the notation we had last time
+- [01:29:42,360 - 01:29:42,980] it was down
+- [01:29:42,980 - 01:29:44,640] no sorry it's right
+- [01:29:46,780 - 01:29:47,700] minus left
+- [01:29:48,520 - 01:29:49,600] over root two
+- [01:29:50,840 - 01:29:52,520] so all we have to do is plug them in
+- [01:29:56,540 - 01:29:58,680] on the left here we have
+- [01:29:59,660 - 01:30:00,160] left
+- [01:30:00,920 - 01:30:01,940] you know I'm going to
+- [01:30:02,860 - 01:30:04,340] use notation and just write
+- [01:30:04,340 - 01:30:05,320] this as
+- [01:30:06,360 - 01:30:09,280] left plus right over square root of two
+- [01:30:09,280 - 01:30:10,200] this is a meaningless
+- [01:30:11,880 - 01:30:12,360] symbol
+- [01:30:12,360 - 01:30:14,500] but I think you know what I mean
+- [01:30:14,500 - 01:30:16,500] I mean the bra vector
+- [01:30:16,500 - 01:30:18,520] left plus the bra vector right
+- [01:30:18,520 - 01:30:19,720] over the square root of two
+- [01:30:20,360 - 01:30:23,020] but too many vertical strokes and I get confused
+- [01:30:23,020 - 01:30:24,820] so let's just write it as left plus right
+- [01:30:24,820 - 01:30:25,800] over the square root of two
+- [01:30:26,280 - 01:30:27,060] sigma x
+- [01:30:28,940 - 01:30:30,140] left plus right
+- [01:30:30,680 - 01:30:31,700] over square root of two
+- [01:30:33,060 - 01:30:34,060] first of all
+- [01:30:34,060 - 01:30:35,460] I can take out this
+- [01:30:35,460 - 01:30:36,860] is the what is this thing
+- [01:30:36,860 - 01:30:38,520] this is sigma x
+- [01:30:38,520 - 01:30:40,880] up up there it is it's the up up
+- [01:30:40,880 - 01:30:41,180] entry
+- [01:30:42,720 - 01:30:43,980] one that goes up in here
+- [01:30:46,620 - 01:30:48,800] alright first of all there's a factor
+- [01:30:48,800 - 01:30:50,100] of two that I can take out
+- [01:30:50,100 - 01:30:51,430] square root of two from here and
+- [01:30:51,430 - 01:30:52,760] a square root of two from here
+- [01:30:52,760 - 01:30:53,860] that's altogether one half
+- [01:30:54,900 - 01:30:56,160] and now let's look at this
+- [01:30:56,780 - 01:30:58,900] what happens when sigma x hits
+- [01:30:58,900 - 01:30:59,200] left
+- [01:31:01,960 - 01:31:03,260] it gives back left
+- [01:31:03,260 - 01:31:04,420] it gives back left except with a minus sign
+- [01:31:05,340 - 01:31:07,620] what happens when sigma x hits right
+- [01:31:10,140 - 01:31:11,620] it gives back right
+- [01:31:11,620 - 01:31:13,320] with a plus sign
+- [01:31:14,340 - 01:31:15,700] so when sigma x
+- [01:31:15,700 - 01:31:16,940] acts on this
+- [01:31:17,460 - 01:31:18,760] what it winds up giving
+- [01:31:18,760 - 01:31:20,200] you can take the sigma x away
+- [01:31:21,080 - 01:31:22,660] and just remember what it does
+- [01:31:23,220 - 01:31:25,560] it gives right minus left
+- [01:31:28,200 - 01:31:29,180] instead of right minus left
+- [01:31:29,200 - 01:31:32,280] it hits the vector
+- [01:31:33,500 - 01:31:35,200] right and gives plus one
+- [01:31:35,200 - 01:31:37,340] it hits the vector left and gives minus one
+- [01:31:37,340 - 01:31:41,000] again these are not things to be numerically added
+- [01:31:41,000 - 01:31:42,420] these are vectors
+- [01:31:42,420 - 01:31:45,040] the right vector minus the left vector
+- [01:31:45,040 - 01:31:47,180] and now all we have to do is
+- [01:31:47,180 - 01:31:48,180] take the inner products
+- [01:31:49,379 - 01:31:51,240] well the inner product of right
+- [01:31:51,240 - 01:31:52,500] with right is what
+- [01:31:53,599 - 01:31:54,160] one
+- [01:31:54,160 - 01:31:57,520] the inner product of right with left
+- [01:31:57,520 - 01:31:57,940] is
+- [01:31:59,200 - 01:32:00,860] zero the inner product of left with right
+- [01:32:00,860 - 01:32:03,240] is zero and the inner product
+- [01:32:03,240 - 01:32:04,120] of left with left
+- [01:32:05,540 - 01:32:07,060] minus one when you
+- [01:32:07,060 - 01:32:07,860] account for this minus
+- [01:32:07,860 - 01:32:09,880] the result is they cancel
+- [01:32:11,580 - 01:32:12,160] alright
+- [01:32:12,160 - 01:32:14,840] one minus one or equivalently
+- [01:32:14,840 - 01:32:16,340] the inner product
+- [01:32:17,020 - 01:32:17,600] of
+- [01:32:17,600 - 01:32:18,560] of
+- [01:32:20,820 - 01:32:22,520] well okay zero
+- [01:32:22,970 - 01:32:25,140] so first of all there's a zero over here
+- [01:32:26,200 - 01:32:27,240] that's the up up
+- [01:32:27,240 - 01:32:27,900] matrix element
+- [01:32:30,200 - 01:32:32,580] it's easy to get the down down matrix element
+- [01:32:32,580 - 01:32:34,260] the down down matrix element
+- [01:32:34,260 - 01:32:35,840] you would do exactly the same thing
+- [01:32:35,840 - 01:32:37,260] except that you would start with
+- [01:32:37,260 - 01:32:38,300] right minus left
+- [01:32:39,160 - 01:32:40,280] right minus left
+- [01:32:41,339 - 01:32:42,840] right minus left
+- [01:32:44,480 - 01:32:45,420] sigma x
+- [01:32:45,420 - 01:32:47,040] and then you would say
+- [01:32:47,040 - 01:32:49,360] that when sigma x hits right
+- [01:32:49,360 - 01:32:50,580] it's plus right
+- [01:32:50,980 - 01:32:53,420] when it hits left it gives minus left
+- [01:32:53,420 - 01:32:54,780] so when sigma x acts
+- [01:32:54,780 - 01:32:57,240] it takes right minus left to right
+- [01:32:57,240 - 01:32:58,080] plus left
+- [01:32:59,940 - 01:33:01,300] and what's the inner product
+- [01:33:01,300 - 01:33:03,520] of right plus left with right minus left
+- [01:33:04,700 - 01:33:05,600] zero again
+- [01:33:07,660 - 01:33:08,960] right with right is one
+- [01:33:08,960 - 01:33:10,620] left with left is minus one
+- [01:33:10,620 - 01:33:11,900] and the cross terms are just zero
+- [01:33:12,500 - 01:33:14,100] so there's a zero over here
+- [01:33:15,340 - 01:33:15,820] now
+- [01:33:15,820 - 01:33:17,420] looks like all we're going to get is zeros
+- [01:33:17,420 - 01:33:18,580] but that can't be right
+- [01:33:19,400 - 01:33:20,500] so let's try
+- [01:33:22,880 - 01:33:24,200] let's try up down
+- [01:33:28,640 - 01:33:29,120] alright
+- [01:33:29,200 - 01:33:30,060] we try up down
+- [01:33:30,060 - 01:33:31,620] let's put up down there
+- [01:33:31,620 - 01:33:34,000] up will be right plus left
+- [01:33:34,000 - 01:33:35,300] we'll have sigma x
+- [01:33:36,019 - 01:33:38,500] and then down is right minus left
+- [01:33:40,540 - 01:33:43,400] what happens when sigma x hits right plus left
+- [01:33:43,400 - 01:33:45,360] it makes right minus left
+- [01:33:49,419 - 01:33:51,120] and now what's the inner product
+- [01:33:51,879 - 01:33:53,120] the inner product of
+- [01:33:53,120 - 01:33:54,160] right with right is one
+- [01:33:54,160 - 01:33:57,180] the inner product of minus left with minus left
+- [01:33:57,180 - 01:33:58,340] is also plus one
+- [01:33:59,200 - 01:33:59,700] so they add
+- [01:34:00,419 - 01:34:02,900] and again the cross terms
+- [01:34:02,900 - 01:34:04,360] between right and left are zero
+- [01:34:04,919 - 01:34:07,260] so we get two divided by two
+- [01:34:07,260 - 01:34:08,400] which is one
+- [01:34:09,000 - 01:34:10,260] we get a one up here
+- [01:34:11,860 - 01:34:12,380] and
+- [01:34:12,380 - 01:34:13,840] if we work it out
+- [01:34:13,840 - 01:34:15,300] we'll get another one over here
+- [01:34:18,360 - 01:34:20,400] alright so now we've got sigma y
+- [01:34:29,200 - 01:34:30,330] let's just stop for a minute and
+- [01:34:30,330 - 01:34:31,460] say what is it that we have
+- [01:34:31,460 - 01:34:34,120] we have a pair of linear operators
+- [01:34:34,120 - 01:34:35,540] or a pair of matrices
+- [01:34:36,579 - 01:34:37,700] whose eigenvectors
+- [01:34:37,700 - 01:34:38,500] are
+- [01:34:41,139 - 01:34:43,100] this fellow's eigenvectors here
+- [01:34:43,100 - 01:34:44,300] are up and down
+- [01:34:44,300 - 01:34:47,280] this fellow's eigenvectors are right and left
+- [01:34:47,280 - 01:34:49,600] they're exactly what we were talking about
+- [01:34:49,600 - 01:34:50,800] on the previous blackboard
+- [01:34:51,780 - 01:34:52,340] the
+- [01:34:54,919 - 01:34:57,100] states in which the observables have
+- [01:34:57,100 - 01:34:59,180] unambiguous results are the eigenvectors
+- [01:35:01,080 - 01:35:03,000] that's where we are
+- [01:35:03,000 - 01:35:03,260] now
+- [01:35:03,260 - 01:35:04,800] the last one is sigma y
+- [01:35:05,959 - 01:35:08,000] what do we know about sigma y
+- [01:35:08,000 - 01:35:08,680] I'm not
+- [01:35:10,740 - 01:35:11,680] in and out
+- [01:35:12,440 - 01:35:13,360] are the eigenvectors
+- [01:35:13,780 - 01:35:16,560] the one we just did is sigma x
+- [01:35:16,560 - 01:35:18,060] the one we just did is sigma x
+- [01:35:18,060 - 01:35:19,080] you wrote sigma y
+- [01:35:19,080 - 01:35:20,740] you wrote sigma y
+- [01:35:20,740 - 01:35:22,160] oh sigma x sorry
+- [01:35:22,700 - 01:35:23,220] actually
+- [01:35:26,019 - 01:35:28,140] I don't think I wrote sigma y
+- [01:35:28,140 - 01:35:29,180] I think I just wrote sigma y
+- [01:35:29,200 - 01:35:30,800] I just failed to cross the x
+- [01:35:30,800 - 01:35:33,040] I think I don't know maybe I wrote sigma y
+- [01:35:35,600 - 01:35:37,080] alright the next one is sigma y
+- [01:35:37,840 - 01:35:39,040] and here I'm going to leave
+- [01:35:39,040 - 01:35:40,780] some of the algebrates
+- [01:35:40,780 - 01:35:43,080] this is very easy to you but let's see
+- [01:35:43,080 - 01:35:45,340] what the rules are
+- [01:35:50,460 - 01:35:50,900] oh
+- [01:35:51,700 - 01:35:52,140] incidentally
+- [01:35:53,600 - 01:35:54,960] no I think we're okay
+- [01:35:56,300 - 01:35:57,280] we know the rules
+- [01:35:57,280 - 01:35:58,460] we know the rules
+- [01:36:00,820 - 01:36:02,140] we know the rules
+- [01:36:02,140 - 01:36:02,860] ok so there was
+- [01:36:02,860 - 01:36:03,640] in and out
+- [01:36:06,140 - 01:36:09,020] I cannot remember which one was which
+- [01:36:10,840 - 01:36:12,600] so I'm going to fake it
+- [01:36:13,110 - 01:36:15,100] and if it comes out wrong it comes out wrong
+- [01:36:15,100 - 01:36:15,980] um
+- [01:36:15,980 - 01:36:19,360] I think in
+- [01:36:20,220 - 01:36:21,480] was up
+- [01:36:24,280 - 01:36:25,620] plus I think
+- [01:36:25,620 - 01:36:28,100] times down
+- [01:36:29,360 - 01:36:30,320] and out
+- [01:36:30,960 - 01:36:32,040] was up
+- [01:36:33,600 - 01:36:35,480] minus I times down
+- [01:36:35,480 - 01:36:36,760] and I think I left out
+- [01:36:36,760 - 01:36:38,040] factors of square root of two
+- [01:36:43,160 - 01:36:48,300] and I think I left out
+- [01:36:48,300 - 01:36:53,440] factors of square root of two
+- [01:36:56,500 - 01:36:57,820] incidentally you can check that
+- [01:36:57,820 - 01:36:59,180] in and out are orthogonal to each other
+- [01:36:59,200 - 01:36:59,940] in and out are orthogonal to each other
+- [01:37:07,539 - 01:37:08,660] in and out are orthogonal to each other
+- [01:37:08,660 - 01:37:10,080] ok there's in and out
+- [01:37:10,080 - 01:37:12,000] can we find a matrix
+- [01:37:13,440 - 01:37:14,000] which
+- [01:37:20,040 - 01:37:21,680] in and out are eigenvectors
+- [01:37:21,680 - 01:37:23,180] with eigenvalue
+- [01:37:23,180 - 01:37:24,640] plus one and minus one
+- [01:37:25,400 - 01:37:26,320] it's getting late
+- [01:37:26,320 - 01:37:27,120] it's very easy
+- [01:37:29,200 - 01:37:31,900] I will simply tell you what that matrix is.
+- [01:37:31,900 - 01:37:32,380] It's unique.
+- [01:37:33,140 - 01:37:33,760] It's unique.
+- [01:37:33,760 - 01:37:36,660] If you know the eigenvectors and you know the eigenvalues,
+- [01:37:37,680 - 01:37:38,340] it's unique.
+- [01:37:38,340 - 01:37:39,340] One way of doing it
+- [01:37:40,000 - 01:37:41,880] is to solve for up and
+- [01:37:41,880 - 01:37:43,760] down in terms of in and out.
+- [01:37:45,160 - 01:37:46,520] Once you've solved for up and
+- [01:37:46,520 - 01:37:47,880] down in terms of in and out,
+- [01:37:47,880 - 01:37:48,970] and you know how the
+- [01:37:48,970 - 01:37:50,060] matrix acts on in and out,
+- [01:37:50,060 - 01:37:50,540] you're finished.
+- [01:37:51,380 - 01:37:54,160] The last one in the multiplet here,
+- [01:37:56,100 - 01:37:57,660] now I am writing sigma y,
+- [01:38:00,900 - 01:38:01,940] similar to this one,
+- [01:38:03,320 - 01:38:07,040] but it's O minus I and I.
+- [01:38:10,040 - 01:38:10,500] Alright,
+- [01:38:10,500 - 01:38:11,440] so a little exercise.
+- [01:38:12,040 - 01:38:14,540] You don't really need to go and prove this.
+- [01:38:14,740 - 01:38:16,060] You can do a different thing.
+- [01:38:16,060 - 01:38:18,750] You can take this matrix and show
+- [01:38:18,750 - 01:38:21,440] that these are the eigenvectors of it.
+- [01:38:22,800 - 01:38:24,960] Just show that these are the eigenvectors of it.
+- [01:38:25,020 - 01:38:28,300] You take this matrix and show that it's eigenvectors.
+- [01:38:28,520 - 01:38:29,180] What does that mean?
+- [01:38:29,200 - 01:38:31,420] It means that its eigenvectors are
+- [01:38:31,420 - 01:38:33,640] one I and one minus I.
+- [01:38:34,060 - 01:38:35,740] The square root of two doesn't matter.
+- [01:38:37,620 - 01:38:38,860] Eigenvectors are eigenvectors.
+- [01:38:38,860 - 01:38:40,260] They don't care about the square root of two.
+- [01:38:41,980 - 01:38:44,060] These are the three Pauli matrices
+- [01:38:44,060 - 01:38:46,290] that represent the components of
+- [01:38:46,290 - 01:38:48,520] a spin in different directions.
+- [01:38:50,220 - 01:38:52,540] I think that's enough for tonight.
+- [01:38:52,880 - 01:38:54,200] What I was going to do,
+- [01:38:54,200 - 01:38:55,180] and I have in my notes,
+- [01:38:55,180 - 01:38:56,440] was exactly this question.
+- [01:38:56,900 - 01:38:57,840] What happens
+- [01:38:57,840 - 01:38:59,830] if you have a component
+- [01:38:59,830 - 01:39:01,820] of spin along an arbitrary direction?
+- [01:39:02,660 - 01:39:03,840] Can we show,
+- [01:39:03,840 - 01:39:05,720] using what we know,
+- [01:39:05,720 - 01:39:06,480] that the prob-
+- [01:39:06,480 - 01:39:07,560] We'll do this next time.
+- [01:39:07,660 - 01:39:10,680] If we have a component
+- [01:39:10,680 - 01:39:13,700] of spin along an arbitrary direction,
+- [01:39:14,519 - 01:39:16,120] and we want to calculate,
+- [01:39:16,120 - 01:39:17,440] using the principles,
+- [01:39:17,820 - 01:39:21,500] we want to calculate what the probability is
+- [01:39:22,139 - 01:39:25,320] for the measurement of sigma z in various,
+- [01:39:25,320 - 01:39:26,780] either plus or minus,
+- [01:39:26,780 - 01:39:28,560] we should be able to do it.
+- [01:39:28,620 - 01:39:29,360] We have enough information.
+- [01:39:30,100 - 01:39:32,290] I think it's probably more than
+- [01:39:32,290 - 01:39:34,480] we can yet handle for tonight.
+- [01:39:34,840 - 01:39:36,220] I think we did a lot for tonight.
+- [01:39:37,280 - 01:39:39,680] Probably more than reasonable.
+- [01:39:40,280 - 01:39:42,430] Am I wrong to say that the u's need
+- [01:39:42,430 - 01:39:44,580] to be negative to make those two more positive?
+- [01:39:46,940 - 01:39:48,530] Does one of the u's need to
+- [01:39:48,530 - 01:39:50,120] be negative to make those two more positive?
+- [01:39:50,120 - 01:39:50,280] No.
+- [01:39:50,680 - 01:39:51,680] You know what you're missing?
+- [01:39:52,520 - 01:39:54,340] You're missing that you have to complex conjugate.
+- [01:39:56,360 - 01:39:59,340] If you want the inner product of in without,
+- [01:40:00,240 - 01:40:01,940] you multiply one times one,
+- [01:40:02,180 - 01:40:03,800] and then add i,
+- [01:40:03,800 - 01:40:05,600] not times minus i,
+- [01:40:05,820 - 01:40:07,420] but i times plus i.
+- [01:40:07,920 - 01:40:08,520] Yeah.
+- [01:40:09,160 - 01:40:09,760] Yeah.
+- [01:40:14,059 - 01:40:16,069] The only way that somebody like
+- [01:40:16,069 - 01:40:18,080] me knows so quickly what you're thinking
+- [01:40:18,080 - 01:40:20,040] is having made the same mistake,
+- [01:40:20,040 - 01:40:20,560] of course.
+- [01:40:25,960 - 01:40:27,040] Sometime in the past.
+- [01:40:28,720 - 01:40:29,160] Okay.
+- [01:40:30,320 - 01:40:30,940] All right,
+- [01:40:30,940 - 01:40:31,640] we're finished for tonight,
+- [01:40:31,640 - 01:40:32,080] I think,
+- [01:40:32,080 - 01:40:32,860] unless there's questions.
+- [01:40:34,540 - 01:40:35,260] For more,
+- [01:40:35,260 - 01:40:37,680] please visit us at stanford.edu.
