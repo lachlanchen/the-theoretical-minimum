@@ -1,0 +1,2698 @@
+# Transcript
+
+Source: core/general_relativity/2008_fall_einsteins_general_theory_of_relativity/008 - Einstein's General Theory of Relativity ｜ Lecture 8 [AC3TMizGpB8].mp4
+
+- [00:00:06,820 - 00:00:09,800] This program is brought to you by Stanford University.
+- [00:00:10,220 - 00:00:12,720] Please visit us at stanford.edu.
+- [00:00:14,680 - 00:00:18,040] We talked a little bit about curvature last time.
+- [00:00:18,760 - 00:00:19,280] Curvature,
+- [00:00:19,280 - 00:00:20,940] these are hard concepts.
+- [00:00:21,180 - 00:00:21,820] They're not easy.
+- [00:00:22,660 - 00:00:25,000] And partly they require,
+- [00:00:25,000 - 00:00:28,680] in order to do them in an elegant way,
+- [00:00:28,680 - 00:00:31,960] requires a degree of notation that's
+- [00:00:31,960 - 00:00:32,900] a little bit sophisticated.
+- [00:00:35,500 - 00:00:39,020] I told you what the curvature is.
+- [00:00:39,200 - 00:00:41,020] You go around a little closed loop,
+- [00:00:41,430 - 00:00:43,940] and a vector doesn't quite come back to itself.
+- [00:00:44,660 - 00:00:46,360] And that's an indication of curvature.
+- [00:00:46,480 - 00:00:47,960] I wrote a formula on the blackboard.
+- [00:00:48,680 - 00:00:51,200] I thought today I would actually derive that formula.
+- [00:00:51,260 - 00:00:53,730] But to do it in anything
+- [00:00:53,730 - 00:00:56,200] like a reasonable amount of blackboard
+- [00:00:56,200 - 00:00:58,180] space and a reasonable amount of time,
+- [00:00:59,000 - 00:01:00,360] it's very,
+- [00:01:00,360 - 00:01:03,780] very useful to introduce some,
+- [00:01:04,519 - 00:01:06,900] I don't know if the word is notation or conventions
+- [00:01:06,900 - 00:01:08,800] or mathematical ideas,
+- [00:01:08,800 - 00:01:10,980] that are not very hard.
+- [00:01:11,060 - 00:01:11,760] And in fact,
+- [00:01:11,760 - 00:01:13,620] they're ideas that if you've
+- [00:01:13,620 - 00:01:18,180] followed the development of either my or anybody else's
+- [00:01:18,180 - 00:01:19,400] quantum mechanics course,
+- [00:01:19,400 - 00:01:21,420] you'll be extremely familiar with.
+- [00:01:22,579 - 00:01:26,140] So I will use those ideas to derive the curvature.
+- [00:01:27,300 - 00:01:27,980] Curvature.
+- [00:01:27,980 - 00:01:28,040] Curvature.
+- [00:01:28,040 - 00:01:28,400] The curvature.
+- [00:01:28,560 - 00:01:28,660] Curvature.
+- [00:01:28,680 - 00:01:30,420] as I think somebody pointed out,
+- [00:01:30,420 - 00:01:31,180] it was probably Michael.
+- [00:01:31,500 - 00:01:31,940] See,
+- [00:01:31,940 - 00:01:32,720] you're here,
+- [00:01:32,720 - 00:01:33,060] aren't you,
+- [00:01:33,060 - 00:01:33,300] Michael?
+- [00:01:33,380 - 00:01:33,620] Michael,
+- [00:01:33,620 - 00:01:33,900] Michael,
+- [00:01:33,900 - 00:01:34,100] Michael,
+- [00:01:34,100 - 00:01:34,340] yes.
+- [00:01:34,600 - 00:01:36,900] I think you pointed out that it's a commutator.
+- [00:01:38,120 - 00:01:40,280] So I think we will go through that
+- [00:01:40,280 - 00:01:44,680] and show you the fast way to derive the curvature.
+- [00:01:45,660 - 00:01:46,540] But as I said,
+- [00:01:46,540 - 00:01:48,080] it's slightly abstract.
+- [00:01:48,820 - 00:01:50,920] So we have to go
+- [00:01:50,920 - 00:01:53,020] through a couple of abstract definitions.
+- [00:01:53,020 - 00:01:58,420] The basic idea is the idea of an operator,
+- [00:01:58,800 - 00:02:03,440] a linear operator operating on a vector space.
+- [00:02:04,120 - 00:02:06,860] But the vector space could be a space of functions.
+- [00:02:07,060 - 00:02:09,100] We see that all the time in quantum mechanics,
+- [00:02:10,739 - 00:02:11,420] where,
+- [00:02:11,420 - 00:02:12,340] for example,
+- [00:02:12,340 - 00:02:14,160] the idea of a derivative
+- [00:02:14,880 - 00:02:18,560] is a linear operator that operates on functions.
+- [00:02:21,100 - 00:02:23,000] So there's an example.
+- [00:02:23,020 - 00:02:26,180] Another example of linear operators
+- [00:02:26,180 - 00:02:29,660] are matrices that act on vectors.
+- [00:02:30,600 - 00:02:31,560] But in fact,
+- [00:02:31,560 - 00:02:32,940] we can combine the two.
+- [00:02:34,040 - 00:02:39,160] Supposing we have a function which is a vector,
+- [00:02:39,400 - 00:02:39,580] well,
+- [00:02:39,580 - 00:02:42,740] let's not call it a vector in a function space.
+- [00:02:43,000 - 00:02:44,780] That will confuse us too much.
+- [00:02:44,980 - 00:02:46,140] Let's just call it a function.
+- [00:02:46,600 - 00:02:47,900] Supposing we have a function,
+- [00:02:47,900 - 00:02:49,200] but not a single function,
+- [00:02:49,400 - 00:02:51,100] a collection of functions,
+- [00:02:51,840 - 00:02:52,800] which correspond,
+- [00:02:53,020 - 00:02:54,610] which correspond to the components
+- [00:02:54,610 - 00:02:56,200] of a vector field in space.
+- [00:02:56,960 - 00:02:57,660] All right,
+- [00:02:57,660 - 00:02:59,700] so depending on the dimensionality of space,
+- [00:02:59,980 - 00:03:02,040] if we're talking about four-dimensional space-time,
+- [00:03:02,360 - 00:03:04,960] that would basically be four functions of space,
+- [00:03:05,140 - 00:03:06,100] and what would we call them?
+- [00:03:06,240 - 00:03:11,180] We might call them V alpha of X.
+- [00:03:12,680 - 00:03:13,400] All right,
+- [00:03:13,400 - 00:03:14,020] so we've already,
+- [00:03:14,980 - 00:03:18,260] I've already mentioned that one kind of operator,
+- [00:03:18,640 - 00:03:19,580] an operator is,
+- [00:03:19,580 - 00:03:19,900] of course,
+- [00:03:19,900 - 00:03:20,380] an operation
+- [00:03:20,380 - 00:03:21,550] that you can do on
+- [00:03:21,550 - 00:03:22,720] a function to get another function,
+- [00:03:23,020 - 00:03:26,980] but a linear operator is a particular kind of operation,
+- [00:03:27,859 - 00:03:28,960] of which,
+- [00:03:28,960 - 00:03:29,640] for example,
+- [00:03:29,640 - 00:03:32,300] a derivative with respect to any,
+- [00:03:32,340 - 00:03:33,360] any of the compo-,
+- [00:03:33,360 - 00:03:34,540] any of the components of X,
+- [00:03:34,740 - 00:03:35,240] derivative,
+- [00:03:38,820 - 00:03:41,860] derivative with respect to X mu,
+- [00:03:43,380 - 00:03:46,690] that's an operation that can be
+- [00:03:46,690 - 00:03:50,000] applied to V alpha of X,
+- [00:03:50,180 - 00:03:50,900] and therefore,
+- [00:03:50,900 - 00:03:52,020] we call it an operator.
+- [00:03:52,020 - 00:03:54,920] That's one kind of operator that we can have,
+- [00:03:55,080 - 00:03:56,220] a derivative operator.
+- [00:03:56,860 - 00:03:59,240] Let's make a list of some operators over here.
+- [00:04:00,180 - 00:04:01,280] First of all,
+- [00:04:01,280 - 00:04:01,700] there,
+- [00:04:01,700 - 00:04:02,780] this is,
+- [00:04:02,780 - 00:04:07,560] this by no means exhausts all possible operators,
+- [00:04:07,640 - 00:04:08,740] just a couple of examples.
+- [00:04:09,500 - 00:04:15,500] The derivative with respect to any of the coordinates,
+- [00:04:16,640 - 00:04:18,079] that's a linear operator,
+- [00:04:18,360 - 00:04:20,779] and it can act on any kind of function.
+- [00:04:20,920 - 00:04:22,000] The function could be a scalar,
+- [00:04:22,000 - 00:04:23,000] it could be a vector.
+- [00:04:23,740 - 00:04:24,560] If it's a vector,
+- [00:04:24,560 - 00:04:25,540] then of course it,
+- [00:04:25,540 - 00:04:27,550] it corresponds to differentiating all
+- [00:04:27,550 - 00:04:29,560] four components of a vector.
+- [00:04:30,200 - 00:04:33,440] So if we apply this operator,
+- [00:04:34,240 - 00:04:37,560] or allow it to act on V alpha,
+- [00:04:39,380 - 00:04:42,290] all it really means is the
+- [00:04:42,290 - 00:04:45,200] derivative of V alpha of X
+- [00:04:45,980 - 00:04:47,660] with respect to X mu.
+- [00:04:49,120 - 00:04:50,100] That's all it means.
+- [00:04:51,120 - 00:04:51,680] Okay?
+- [00:04:52,000 - 00:04:55,400] Hit the object with the operator,
+- [00:04:55,700 - 00:04:57,240] and just do it.
+- [00:04:57,400 - 00:04:57,940] All right,
+- [00:04:57,940 - 00:05:01,280] so derivative with respect to X is a operator.
+- [00:05:02,000 - 00:05:04,660] Another kind of operator doesn't differentiate.
+- [00:05:05,820 - 00:05:11,860] It might just multiply a function by another function.
+- [00:05:12,240 - 00:05:16,440] So just multiplication by any function of X,
+- [00:05:18,240 - 00:05:19,900] take any function of X,
+- [00:05:20,540 - 00:05:25,900] and use it to multiply your starting function.
+- [00:05:26,200 - 00:05:28,380] That's another operator that you can do.
+- [00:05:28,500 - 00:05:29,300] So for example,
+- [00:05:29,300 - 00:05:33,000] applying F of X as an
+- [00:05:33,000 - 00:05:36,700] operator to V alpha of X,
+- [00:05:37,000 - 00:05:38,340] just gives you,
+- [00:05:38,340 - 00:05:40,540] I needn't write it over again,
+- [00:05:40,540 - 00:05:41,140] but I will,
+- [00:05:41,340 - 00:05:43,600] it just gives you F of X,
+- [00:05:44,140 - 00:05:46,920] let's say times V alpha of X.
+- [00:05:47,920 - 00:05:49,340] A little dot is redundant,
+- [00:05:49,340 - 00:05:50,240] but I just want to make,
+- [00:05:50,300 - 00:05:53,020] I just want to distinguish between F of X
+- [00:05:53,020 - 00:05:55,740] as an operator acting on V alpha of X.
+- [00:05:55,940 - 00:05:57,120] All it does is multiply.
+- [00:05:58,220 - 00:05:58,720] Okay?
+- [00:05:58,800 - 00:06:00,680] So that's another example of an operator.
+- [00:06:01,920 - 00:06:03,480] But yet a third kind
+- [00:06:03,480 - 00:06:05,040] of operator that we can do
+- [00:06:06,400 - 00:06:07,900] on V alpha of X
+- [00:06:08,720 - 00:06:12,020] is just to multiply it by a numerical matrix.
+- [00:06:12,020 - 00:06:15,460] Remember this V alpha of X has components.
+- [00:06:16,720 - 00:06:21,040] It forms a column vector in a space.
+- [00:06:21,380 - 00:06:22,480] For this purpose,
+- [00:06:22,480 - 00:06:24,280] just think of X as fixed.
+- [00:06:25,160 - 00:06:26,140] Right now,
+- [00:06:26,140 - 00:06:28,400] just think of X as a fixed position.
+- [00:06:29,600 - 00:06:33,880] And we can multiply V alpha of X
+- [00:06:36,120 - 00:06:37,260] by a matrix.
+- [00:06:40,940 - 00:06:41,620] Sorry.
+- [00:06:42,020 - 00:06:46,020] M on V.
+- [00:06:47,880 - 00:06:49,140] Let's see what that means.
+- [00:06:49,280 - 00:06:52,580] M applied to the vector V means,
+- [00:06:53,659 - 00:06:56,760] I would like to get the alpha component of it.
+- [00:06:57,520 - 00:06:58,120] Well,
+- [00:06:58,120 - 00:07:01,500] the rule for that is M alpha beta,
+- [00:07:01,700 - 00:07:04,380] those are the matrix entries of M,
+- [00:07:04,520 - 00:07:08,240] multiplying V beta and summing over beta.
+- [00:07:08,800 - 00:07:10,960] That gives you a vector
+- [00:07:10,960 - 00:07:12,320] with a component alpha.
+- [00:07:14,160 - 00:07:17,900] And it is a linear operation applied to a vector.
+- [00:07:17,980 - 00:07:18,980] So there are three examples.
+- [00:07:19,340 - 00:07:24,780] One of them is just multiplication by a numerical matrix.
+- [00:07:25,680 - 00:07:27,700] Another is differentiation.
+- [00:07:28,260 - 00:07:30,740] Another is multiplying by a function of X.
+- [00:07:30,820 - 00:07:31,840] We can even get fancier.
+- [00:07:32,520 - 00:07:34,400] We can take matrices,
+- [00:07:34,400 - 00:07:35,940] alpha beta,
+- [00:07:36,619 - 00:07:39,560] which themselves depend on position.
+- [00:07:41,080 - 00:07:44,220] And multiply by V beta of X.
+- [00:07:46,620 - 00:07:48,520] I'm not going to write that this is equal
+- [00:07:48,520 - 00:07:49,880] to what I've already written.
+- [00:07:51,420 - 00:07:52,920] So we can have an
+- [00:07:52,920 - 00:07:54,420] operator which is both a matrix
+- [00:07:54,420 - 00:07:55,880] and a function of X.
+- [00:07:56,640 - 00:07:59,180] We can even do more complicated things than that.
+- [00:08:00,100 - 00:08:05,420] But I think you get the point.
+- [00:08:05,920 - 00:08:06,460] Now,
+- [00:08:06,460 - 00:08:07,880] the covariant derivative,
+- [00:08:07,880 - 00:08:12,160] the ordinary derivative of a vector,
+- [00:08:12,859 - 00:08:15,800] is an operator applied to the vector.
+- [00:08:16,420 - 00:08:20,000] But the covariant derivative is also an operator
+- [00:08:20,000 - 00:08:21,120] applied to a vector.
+- [00:08:21,670 - 00:08:23,640] It's a more interesting one in many respects.
+- [00:08:23,960 - 00:08:26,080] But let me just point that out
+- [00:08:26,080 - 00:08:28,380] and explain to you exactly in what sense
+- [00:08:28,380 - 00:08:33,580] the covariant derivative is an operator
+- [00:08:33,580 - 00:08:36,240] applied to a vector field.
+- [00:08:36,240 - 00:08:37,980] All right,
+- [00:08:37,980 - 00:08:39,700] we write it del M.
+- [00:08:42,080 - 00:08:44,960] That's the notation for covariant derivative.
+- [00:08:45,620 - 00:08:46,760] Or del mu.
+- [00:08:46,920 - 00:08:48,360] I guess I'm using indices mu
+- [00:08:48,360 - 00:08:49,800] and nu and alpha and beta.
+- [00:08:51,920 - 00:08:53,940] This means the covariant derivative
+- [00:08:53,940 - 00:08:56,820] with respect to the coordinate X mu.
+- [00:08:57,460 - 00:08:59,280] So it's like D by DX mu.
+- [00:09:01,140 - 00:09:06,020] Applied to a vector with components V alpha.
+- [00:09:06,240 - 00:09:06,500] And the derivative of V alpha is,
+- [00:09:07,500 - 00:09:10,200] by definition or by construction,
+- [00:09:11,000 - 00:09:15,000] the derivative of V alpha of X
+- [00:09:17,200 - 00:09:19,000] with respect to X mu
+- [00:09:22,060 - 00:09:22,820] plus,
+- [00:09:22,820 - 00:09:23,580] now,
+- [00:09:23,580 - 00:09:25,420] gamma.
+- [00:09:25,740 - 00:09:28,540] I'm just writing the usual expression
+- [00:09:28,540 - 00:09:29,840] for covariant derivative.
+- [00:09:30,200 - 00:09:32,240] An index down here,
+- [00:09:34,760 - 00:09:35,400] which,
+- [00:09:35,400 - 00:09:38,480] don't think of that as being a matrix index.
+- [00:09:38,660 - 00:09:40,860] I'm going to take the matrix indices
+- [00:09:40,860 - 00:09:42,100] and write them in red.
+- [00:09:43,300 - 00:09:47,040] But remember that the Christoffel symbol
+- [00:09:47,040 - 00:09:48,260] has three indices,
+- [00:09:48,260 - 00:09:50,480] alpha and beta.
+- [00:09:51,260 - 00:09:53,140] Now the way I want you to think about this
+- [00:09:53,140 - 00:09:54,840] is for each mu,
+- [00:09:55,920 - 00:09:59,680] there's a matrix gamma sub mu
+- [00:10:00,320 - 00:10:02,220] with indices alpha and beta.
+- [00:10:02,240 - 00:10:05,460] So I've written the matrix indices.
+- [00:10:06,000 - 00:10:06,640] Of course,
+- [00:10:06,640 - 00:10:09,100] it is really just gamma mu alpha beta.
+- [00:10:10,260 - 00:10:12,240] But I want you to keep in your head,
+- [00:10:12,340 - 00:10:14,980] I want you to imagine that gamma mu alpha beta
+- [00:10:14,980 - 00:10:17,200] is a set of four matrices.
+- [00:10:17,840 - 00:10:19,740] Alpha and beta are the matrix entries.
+- [00:10:20,080 - 00:10:23,080] And mu just tells you which of the four matrices
+- [00:10:23,080 - 00:10:23,920] you're talking about.
+- [00:10:24,200 - 00:10:26,860] And now you multiply that by V beta.
+- [00:10:27,720 - 00:10:29,340] Let's use red to indicate
+- [00:10:30,220 - 00:10:31,920] the matrix indices here.
+- [00:10:33,320 - 00:10:34,940] And sum over beta.
+- [00:10:35,200 - 00:10:38,500] Notice that that's exactly what we did over here,
+- [00:10:39,480 - 00:10:42,360] except there are four such operations,
+- [00:10:42,580 - 00:10:44,460] one for each direction mu.
+- [00:10:45,500 - 00:10:46,260] Alright,
+- [00:10:46,260 - 00:10:47,960] so the covariant derivative
+- [00:10:47,960 - 00:10:52,260] is a combination of differential operator,
+- [00:10:52,560 - 00:10:53,580] derivative operator,
+- [00:10:53,780 - 00:10:57,340] and matrix multiplication.
+- [00:10:58,200 - 00:10:58,880] Now,
+- [00:10:58,880 - 00:11:01,480] gamma mu is not just a numerical matrix,
+- [00:11:01,480 - 00:11:03,920] typically it's a numerical matrix
+- [00:11:03,920 - 00:11:05,180] that depends on position.
+- [00:11:05,740 - 00:11:08,800] So it's exactly like this kind of thing over here.
+- [00:11:09,960 - 00:11:10,680] Alright,
+- [00:11:10,680 - 00:11:12,320] we could summarize it
+- [00:11:15,319 - 00:11:21,360] by the notation delta mu equals
+- [00:11:23,699 - 00:11:25,880] derivative with respect to X mu
+- [00:11:28,420 - 00:11:30,700] plus gamma mu.
+- [00:11:30,700 - 00:11:31,900] Now,
+- [00:11:31,900 - 00:11:33,220] that looks stupid.
+- [00:11:33,380 - 00:11:33,960] What does that mean?
+- [00:11:35,040 - 00:11:38,140] What it means is exactly what I wrote up here.
+- [00:11:38,480 - 00:11:41,160] When it applies to a vector,
+- [00:11:41,360 - 00:11:43,280] you differentiate the vector,
+- [00:11:43,440 - 00:11:45,500] and then you add to it
+- [00:11:46,420 - 00:11:49,740] the matrix gamma mu applied to the vector.
+- [00:11:49,940 - 00:11:51,500] This gamma mu here
+- [00:11:52,220 - 00:11:54,340] is a set of four matrices.
+- [00:11:55,720 - 00:11:58,580] It's exactly this set of four matrices over here,
+- [00:11:58,580 - 00:12:00,920] but I've just called it gamma mu,
+- [00:12:01,080 - 00:12:02,680] and you keep in mind
+- [00:12:02,680 - 00:12:05,580] that there are really two hidden indices here
+- [00:12:06,360 - 00:12:08,980] which are acting as matrix indices
+- [00:12:09,580 - 00:12:10,820] which act on the vector.
+- [00:12:11,980 - 00:12:14,060] So that's a little notational device
+- [00:12:15,319 - 00:12:17,720] which summarizes what's written up here,
+- [00:12:18,320 - 00:12:20,080] but when you act on a vector
+- [00:12:20,080 - 00:12:22,680] to find out what del mu does,
+- [00:12:23,060 - 00:12:24,820] it does exactly what's written here.
+- [00:12:25,980 - 00:12:27,780] So that's a nice,
+- [00:12:27,780 - 00:12:29,380] and remember now that gamma mu
+- [00:12:29,380 - 00:12:30,760] is a function of X.
+- [00:12:36,860 - 00:12:39,360] But it also has the two hidden indices there.
+- [00:12:40,660 - 00:12:42,760] But are the four matrices
+- [00:12:42,760 - 00:12:44,860] tied into three special coordinates?
+- [00:12:45,260 - 00:12:45,960] Say it again?
+- [00:12:46,280 - 00:12:48,390] The four indices would be
+- [00:12:48,390 - 00:12:50,500] tied into three special coordinates,
+- [00:12:50,580 - 00:12:53,680] so limiting it to four space.
+- [00:12:54,060 - 00:12:54,580] Yeah,
+- [00:12:54,580 - 00:12:55,720] the moment with,
+- [00:12:55,780 - 00:12:56,040] right,
+- [00:12:56,040 - 00:12:56,880] I'm talking about four space,
+- [00:12:56,880 - 00:12:57,080] yes,
+- [00:12:57,780 - 00:12:58,000] absolutely.
+- [00:12:58,140 - 00:13:00,080] If we were talking about some other space
+- [00:13:00,080 - 00:13:01,280] with different dimension,
+- [00:13:01,280 - 00:13:02,360] right,
+- [00:13:02,360 - 00:13:03,100] yeah.
+- [00:13:04,060 - 00:13:04,800] That's right,
+- [00:13:04,800 - 00:13:05,560] exactly.
+- [00:13:06,520 - 00:13:07,120] Okay,
+- [00:13:07,120 - 00:13:08,720] so that's something to keep in mind.
+- [00:13:08,880 - 00:13:11,620] It's a little notational device that we will use.
+- [00:13:12,720 - 00:13:14,900] Now I want to show you that
+- [00:13:15,959 - 00:13:20,540] in the process of going around a small closed loop
+- [00:13:20,540 - 00:13:23,060] and asking how something changes
+- [00:13:23,060 - 00:13:24,740] when you come back to the origin,
+- [00:13:24,980 - 00:13:26,160] in effect,
+- [00:13:26,960 - 00:13:31,860] you're calculating a commutator of two operators.
+- [00:13:32,980 - 00:13:33,380] Well,
+- [00:13:33,380 - 00:13:34,200] before I do it,
+- [00:13:34,240 - 00:13:37,360] perhaps we should just discuss very quickly
+- [00:13:38,000 - 00:13:38,800] the commutator,
+- [00:13:38,800 - 00:13:40,200] the idea of a commutator.
+- [00:13:41,580 - 00:13:43,060] You mostly know what it is,
+- [00:13:43,140 - 00:13:44,040] but I'll tell you what it is.
+- [00:13:44,080 - 00:13:45,160] If I have two operators,
+- [00:13:45,940 - 00:13:47,220] let's call them A and B,
+- [00:13:48,820 - 00:13:49,740] whatever they are,
+- [00:13:49,820 - 00:13:51,280] they could have derivatives in them,
+- [00:13:51,380 - 00:13:53,160] they might be multiplication by matrices,
+- [00:13:54,060 - 00:13:56,040] they might be multiplication by matrices,
+- [00:13:56,160 - 00:13:57,080] they might be functions of position,
+- [00:13:57,360 - 00:13:59,980] they might be sums or differences of such things,
+- [00:14:00,220 - 00:14:01,160] A and B,
+- [00:14:01,680 - 00:14:02,520] the product,
+- [00:14:02,520 - 00:14:03,480] what does the product A,
+- [00:14:03,480 - 00:14:03,920] B mean?
+- [00:14:04,220 - 00:14:04,700] Well,
+- [00:14:04,700 - 00:14:06,680] it means you first act with B
+- [00:14:06,680 - 00:14:10,980] on whatever your operations are supposed to act on.
+- [00:14:12,140 - 00:14:13,060] For example,
+- [00:14:13,060 - 00:14:14,820] if it's supposed to act on a vector,
+- [00:14:14,900 - 00:14:15,520] act on a vector.
+- [00:14:15,820 - 00:14:21,400] The result of acting with B is a new function,
+- [00:14:21,980 - 00:14:23,680] and then you act with A on it.
+- [00:14:23,800 - 00:14:24,920] So first act with B,
+- [00:14:24,920 - 00:14:26,300] and then follow it by A,
+- [00:14:26,580 - 00:14:28,320] and that of course defines the product A,
+- [00:14:28,320 - 00:14:28,460] B.
+- [00:14:29,520 - 00:14:31,920] The difference of A,
+- [00:14:31,920 - 00:14:32,700] B and B,
+- [00:14:32,700 - 00:14:33,040] A
+- [00:14:33,819 - 00:14:36,880] is of course called the commutator of A with B.
+- [00:14:38,780 - 00:14:42,360] There's only one little identity that I want to prove
+- [00:14:42,920 - 00:14:43,980] and that we'll use,
+- [00:14:45,699 - 00:14:47,100] and it's the following,
+- [00:14:48,680 - 00:14:53,000] that the commutator of a derivative,
+- [00:14:53,160 - 00:14:54,900] let's say the derivative with respect to B,
+- [00:14:54,920 - 00:14:55,440] with respect to X,
+- [00:14:55,440 - 00:14:56,420] any particular,
+- [00:14:56,680 - 00:14:57,920] X doesn't matter,
+- [00:14:58,140 - 00:15:01,060] the commutator of the derivative of X
+- [00:15:01,800 - 00:15:02,460] with respect,
+- [00:15:02,460 - 00:15:03,940] sorry,
+- [00:15:03,940 - 00:15:06,040] and a function of X
+- [00:15:08,720 - 00:15:10,180] is equal to,
+- [00:15:10,820 - 00:15:11,940] and I'll tell you exactly
+- [00:15:11,940 - 00:15:13,060] what this means in a moment,
+- [00:15:14,000 - 00:15:15,360] DF by DX.
+- [00:15:15,880 - 00:15:17,920] Now I may or may not have the sign right,
+- [00:15:18,100 - 00:15:19,460] but we'll work it out.
+- [00:15:20,320 - 00:15:21,520] What does this mean?
+- [00:15:23,160 - 00:15:24,400] F of X now,
+- [00:15:24,920 - 00:15:26,620] is just a numerical function,
+- [00:15:26,760 - 00:15:28,140] not a numerical function,
+- [00:15:28,140 - 00:15:28,800] a function,
+- [00:15:29,020 - 00:15:30,520] but it's thought of as an operator.
+- [00:15:31,180 - 00:15:34,680] It's not the thing that these expressions act on.
+- [00:15:34,960 - 00:15:37,040] The things that they act on,
+- [00:15:37,240 - 00:15:38,640] we can give another name,
+- [00:15:38,700 - 00:15:39,880] we'll just call V of X.
+- [00:15:40,440 - 00:15:42,620] It doesn't have to be a vector function of X,
+- [00:15:42,700 - 00:15:43,960] just some function of X.
+- [00:15:44,660 - 00:15:45,660] Let's see what this says,
+- [00:15:45,780 - 00:15:47,000] let's see what the meaning of this is.
+- [00:15:49,800 - 00:15:50,720] First of all,
+- [00:15:50,720 - 00:15:52,980] the first term is D by DX,
+- [00:15:54,760 - 00:15:56,080] F of X,
+- [00:15:58,160 - 00:15:59,420] that's one term here,
+- [00:15:59,620 - 00:16:02,160] and the other term is minus
+- [00:16:03,040 - 00:16:04,060] F of X,
+- [00:16:04,640 - 00:16:05,600] D by DX.
+- [00:16:06,020 - 00:16:07,600] Now what's the difference between these two?
+- [00:16:08,380 - 00:16:08,860] Well,
+- [00:16:08,860 - 00:16:09,900] it's hard to say what
+- [00:16:09,900 - 00:16:10,940] the difference between these two are
+- [00:16:10,940 - 00:16:13,060] until I tell you what they do.
+- [00:16:13,540 - 00:16:14,600] What they do,
+- [00:16:14,620 - 00:16:17,140] is they act on functions of X.
+- [00:16:17,520 - 00:16:18,960] Let's say V of X,
+- [00:16:20,540 - 00:16:21,560] V of X.
+- [00:16:22,480 - 00:16:22,960] So,
+- [00:16:25,580 - 00:16:27,200] now what's the meaning of this?
+- [00:16:27,460 - 00:16:30,260] This means first multiply by F,
+- [00:16:31,480 - 00:16:33,960] by the time you've multiplied by F,
+- [00:16:34,120 - 00:16:35,400] you have a new object,
+- [00:16:35,640 - 00:16:36,660] in red,
+- [00:16:36,840 - 00:16:39,340] and then differentiate the whole thing.
+- [00:16:41,100 - 00:16:45,160] That is the operation of first multiplying by F,
+- [00:16:45,300 - 00:16:46,560] and then differentiating,
+- [00:16:46,660 - 00:16:48,540] and it constitutes the instruction
+- [00:16:48,540 - 00:16:51,020] that's associated with the product
+- [00:16:51,020 - 00:16:52,760] F times D by DX.
+- [00:16:52,840 - 00:16:52,960] So,
+- [00:16:52,980 - 00:16:53,160] we have the product F times V by DX,
+- [00:16:53,160 - 00:16:53,190] and then we have the
+- [00:16:53,190 - 00:16:53,220] product F times V by DX.
+- [00:16:53,720 - 00:16:54,760] Over here,
+- [00:16:54,860 - 00:16:57,820] we first differentiate with respect to X,
+- [00:16:58,040 - 00:16:59,840] and then multiply by F.
+- [00:17:01,260 - 00:17:01,860] Okay?
+- [00:17:02,060 - 00:17:03,500] Let's see what the difference is.
+- [00:17:05,599 - 00:17:06,720] What is this,
+- [00:17:06,760 - 00:17:09,359] DX of F times V of X?
+- [00:17:09,480 - 00:17:09,859] For this,
+- [00:17:09,859 - 00:17:11,359] we just use the product formula,
+- [00:17:11,599 - 00:17:13,500] that the derivative of a product
+- [00:17:13,500 - 00:17:14,540] is
+- [00:17:15,400 - 00:17:18,300] the derivative of F with respect to X,
+- [00:17:18,500 - 00:17:19,859] times V,
+- [00:17:19,859 - 00:17:21,599] plus F,
+- [00:17:22,319 - 00:17:24,960] times the derivative of V with respect to X.
+- [00:17:26,300 - 00:17:29,240] All I've used is the simple calculus rule
+- [00:17:29,240 - 00:17:31,020] that the derivative of a product
+- [00:17:31,020 - 00:17:33,620] is the sums of,
+- [00:17:34,020 - 00:17:34,320] well,
+- [00:17:34,320 - 00:17:34,800] you know what.
+- [00:17:35,560 - 00:17:37,340] Then we have to subtract off
+- [00:17:37,860 - 00:17:38,900] minus F,
+- [00:17:39,160 - 00:17:40,220] DV by DX.
+- [00:17:41,940 - 00:17:43,380] But that's the same as this.
+- [00:17:45,380 - 00:17:46,480] So these cancel.
+- [00:17:48,679 - 00:17:50,560] And what are we left with?
+- [00:17:50,740 - 00:17:52,400] We're left with the instruction
+- [00:17:52,400 - 00:17:56,160] that when you apply the commutator
+- [00:17:56,160 - 00:17:59,480] of D by DX and F,
+- [00:17:59,680 - 00:18:00,300] this is,
+- [00:18:00,300 - 00:18:00,880] of course,
+- [00:18:00,960 - 00:18:02,580] the commutator
+- [00:18:03,500 - 00:18:04,140] of
+- [00:18:05,120 - 00:18:07,640] derivative with respect to X and F
+- [00:18:09,639 - 00:18:10,440] on V,
+- [00:18:12,780 - 00:18:15,080] you get exactly the same thing
+- [00:18:15,080 - 00:18:16,460] as just multiplying
+- [00:18:16,460 - 00:18:19,140] V by DF by DX.
+- [00:18:21,240 - 00:18:23,340] After all of this whole operation,
+- [00:18:23,520 - 00:18:24,780] including all these derivatives,
+- [00:18:25,120 - 00:18:26,880] the entire instruction
+- [00:18:27,459 - 00:18:29,020] is to multiply V
+- [00:18:29,020 - 00:18:31,480] by the function DF by DX.
+- [00:18:33,300 - 00:18:35,780] So that's why we write that
+- [00:18:36,940 - 00:18:38,980] commutator of the derivative
+- [00:18:38,980 - 00:18:42,880] and the multiplication by a function of X
+- [00:18:43,460 - 00:18:45,360] is just DF by DX.
+- [00:18:45,360 - 00:18:46,860] And what does it mean?
+- [00:18:47,140 - 00:18:49,800] It means when you apply this to some V,
+- [00:18:50,300 - 00:18:51,840] it gives you the same thing
+- [00:18:51,840 - 00:18:54,500] as just multiplying by DF by DX.
+- [00:18:55,800 - 00:18:56,440] All right,
+- [00:18:56,440 - 00:18:57,020] so that's a,
+- [00:18:57,200 - 00:19:00,240] that's as tough as the mathematics
+- [00:19:00,240 - 00:19:01,180] is going to get tonight,
+- [00:19:01,180 - 00:19:01,680] I think.
+- [00:19:03,840 - 00:19:05,580] The idea of a commutator
+- [00:19:05,580 - 00:19:07,120] and the idea of a covariant derivative
+- [00:19:07,860 - 00:19:09,980] as a operator.
+- [00:19:11,720 - 00:19:12,200] Okay.
+- [00:19:14,060 - 00:19:15,260] Keep this in mind
+- [00:19:15,360 - 00:19:16,220] we need,
+- [00:19:17,159 - 00:19:18,440] we need
+- [00:19:18,440 - 00:19:21,760] a basic little theorem
+- [00:19:28,360 - 00:19:29,000] that,
+- [00:19:30,340 - 00:19:32,260] I'll just write it out in longhand,
+- [00:19:33,000 - 00:19:35,660] D by DX times F of X
+- [00:19:36,740 - 00:19:38,540] minus F of X
+- [00:19:39,320 - 00:19:40,400] times D by DX
+- [00:19:41,280 - 00:19:44,240] is the same thing as DF by DX.
+- [00:19:47,180 - 00:19:48,880] Try it on any function.
+- [00:19:49,020 - 00:19:50,040] Take any function
+- [00:19:50,040 - 00:19:51,600] and apply the rule here,
+- [00:19:51,740 - 00:19:52,380] the rule here,
+- [00:19:52,440 - 00:19:53,140] subtract them
+- [00:19:53,140 - 00:19:54,700] and it's the same as multiplying
+- [00:19:54,700 - 00:19:55,760] by DF by DX.
+- [00:19:56,220 - 00:19:57,160] So we'll need that.
+- [00:19:58,580 - 00:19:59,080] Okay.
+- [00:20:01,760 - 00:20:02,260] Next.
+- [00:20:06,220 - 00:20:07,980] I guess we can use this one here.
+- [00:20:09,080 - 00:20:10,640] Let's take a little rectangle.
+- [00:20:12,720 - 00:20:14,720] Let's take a little rectangle.
+- [00:20:15,400 - 00:20:18,040] I won't try to be too general right now.
+- [00:20:18,220 - 00:20:20,740] I'll say let's pick two directions in space
+- [00:20:20,740 - 00:20:21,720] or in space time.
+- [00:20:22,180 - 00:20:23,260] One direction
+- [00:20:23,260 - 00:20:26,680] and take a little differential distance
+- [00:20:26,680 - 00:20:31,160] that I'll call DX mu.
+- [00:20:32,940 - 00:20:34,140] All right.
+- [00:20:34,140 - 00:20:36,760] And now take another little differential distance.
+- [00:20:37,860 - 00:20:39,500] Let's think of it as oriented.
+- [00:20:40,480 - 00:20:41,520] DX mu,
+- [00:20:41,520 - 00:20:43,800] a little infinitely small displacement.
+- [00:20:43,800 - 00:20:45,060] Think of a displacement.
+- [00:20:45,920 - 00:20:46,600] All right.
+- [00:20:46,620 - 00:20:48,620] And now take another displacement.
+- [00:20:50,980 - 00:20:51,840] I'll tell you what.
+- [00:20:51,880 - 00:20:53,360] Let me even simplify it more.
+- [00:20:53,600 - 00:20:54,720] Let me simplify it.
+- [00:20:55,740 - 00:20:57,020] Let me simplify it more.
+- [00:20:57,880 - 00:20:59,760] We're going to take two displacements.
+- [00:21:03,500 - 00:21:04,020] Well,
+- [00:21:04,020 - 00:21:05,920] that's simple enough.
+- [00:21:06,080 - 00:21:08,840] DX mu this way
+- [00:21:08,840 - 00:21:10,200] and another one,
+- [00:21:11,040 - 00:21:12,080] delta X,
+- [00:21:13,840 - 00:21:15,420] mu this way.
+- [00:21:15,780 - 00:21:17,140] These are two vectors.
+- [00:21:17,320 - 00:21:20,700] I've just indicated them with indices mu and mu,
+- [00:21:20,900 - 00:21:23,080] but it's not important what the mu and mu are.
+- [00:21:23,160 - 00:21:25,060] These are just two distinct vectors,
+- [00:21:26,340 - 00:21:27,460] infinitely small,
+- [00:21:27,460 - 00:21:28,520] both of them.
+- [00:21:29,100 - 00:21:33,740] And they simply pick out a pair of little elements
+- [00:21:33,740 - 00:21:38,360] of a tiny rectangle in space or in space time.
+- [00:21:38,960 - 00:21:39,300] All right.
+- [00:21:39,320 - 00:21:41,560] What we're going to do is we're going to transport,
+- [00:21:41,800 - 00:21:43,320] parallelly transport something
+- [00:21:44,000 - 00:21:49,200] around the rectangle determined by these two vectors.
+- [00:21:53,080 - 00:21:53,600] Now,
+- [00:21:53,600 - 00:21:56,960] let's imagine that as we transport the object
+- [00:21:56,960 - 00:21:58,960] around these vectors,
+- [00:21:59,040 - 00:22:00,800] we're going to start at position A.
+- [00:22:01,800 - 00:22:02,940] We're going to go to B.
+- [00:22:03,120 - 00:22:04,240] Then we're going to go to C.
+- [00:22:04,420 - 00:22:05,320] We're going to go to D.
+- [00:22:05,520 - 00:22:07,360] And then we're going to come back to A.
+- [00:22:08,220 - 00:22:11,960] We're going to go right around that loop in space.
+- [00:22:11,960 - 00:22:18,040] But what happens to the thing that we're transporting around
+- [00:22:18,620 - 00:22:21,280] is that it won't come back to exactly itself.
+- [00:22:21,660 - 00:22:21,980] Why?
+- [00:22:22,280 - 00:22:23,120] Because there's curvature.
+- [00:22:24,080 - 00:22:26,900] We've seen how on the surface of a sphere
+- [00:22:26,900 - 00:22:28,500] or on the surface of a cone,
+- [00:22:28,740 - 00:22:30,840] how when you go around a closed loop,
+- [00:22:30,940 - 00:22:31,980] you don't come back to yourself.
+- [00:22:32,380 - 00:22:36,260] So I'm going to draw next to it over here
+- [00:22:37,660 - 00:22:39,420] what happens to the object.
+- [00:22:39,420 - 00:22:41,490] The object starts at some
+- [00:22:41,490 - 00:22:43,560] value which we can call V.
+- [00:22:43,740 - 00:22:44,900] And let's think of it as a vector.
+- [00:22:46,320 - 00:22:47,800] V sub A.
+- [00:22:49,340 - 00:22:50,660] I won't draw it.
+- [00:22:50,660 - 00:22:54,460] We'll just say it starts at a point VA.
+- [00:22:54,940 - 00:22:57,000] We transport it over to here,
+- [00:22:57,140 - 00:22:58,600] and it becomes VB.
+- [00:22:59,640 - 00:23:01,480] We transport it over to here,
+- [00:23:01,640 - 00:23:02,940] and it becomes VC.
+- [00:23:04,360 - 00:23:06,440] And then we transport it over to here.
+- [00:23:06,580 - 00:23:08,040] It becomes VD.
+- [00:23:08,040 - 00:23:10,060] But then when we transport
+- [00:23:10,060 - 00:23:12,080] it back along the last leg,
+- [00:23:12,300 - 00:23:14,180] it doesn't quite come back to itself
+- [00:23:14,920 - 00:23:16,340] if there's curvature in there.
+- [00:23:16,600 - 00:23:22,600] And so let's just call the result VA prime.
+- [00:23:24,340 - 00:23:26,360] Let's just call it VA prime.
+- [00:23:27,380 - 00:23:31,460] And we're interested in the difference
+- [00:23:31,460 - 00:23:33,580] between VA and VA prime.
+- [00:23:34,080 - 00:23:36,060] So let me show you a little identity,
+- [00:23:36,140 - 00:23:38,020] and then we'll interpret that identity
+- [00:23:38,040 - 00:23:39,680] in terms of covariant derivatives.
+- [00:23:40,460 - 00:23:41,300] We're imagining,
+- [00:23:41,300 - 00:23:43,500] incidentally,
+- [00:23:44,560 - 00:23:46,320] parallelly transporting these vectors.
+- [00:23:46,620 - 00:23:47,980] It's the effect of curvature
+- [00:23:47,980 - 00:23:51,360] that makes the vector not quite come back to itself.
+- [00:23:52,320 - 00:23:54,500] So I'll just represent that by saying
+- [00:23:54,500 - 00:23:56,520] we go around in a little closed loop,
+- [00:23:56,700 - 00:23:58,000] and we fail to come
+- [00:23:58,000 - 00:23:59,300] back to the starting point exactly.
+- [00:23:59,720 - 00:24:00,540] Not in space,
+- [00:24:00,540 - 00:24:02,460] but in the direction of the vector.
+- [00:24:02,600 - 00:24:02,660] Yeah?
+- [00:24:03,080 - 00:24:03,540] Question.
+- [00:24:03,880 - 00:24:05,920] The difficulty of it not matching is
+- [00:24:05,920 - 00:24:07,380] it doesn't come back to the same point?
+- [00:24:07,500 - 00:24:08,020] Or that it's...
+- [00:24:08,040 - 00:24:09,100] It comes back to the same point,
+- [00:24:09,160 - 00:24:10,600] but comes back oriented differently.
+- [00:24:10,920 - 00:24:13,400] So I'm just representing that by a little mismatch.
+- [00:24:13,480 - 00:24:14,360] I don't know how else...
+- [00:24:14,360 - 00:24:15,000] Right.
+- [00:24:15,320 - 00:24:21,300] So let me take the following identity.
+- [00:24:22,280 - 00:24:23,060] All right.
+- [00:24:23,100 - 00:24:27,800] Let's take VC minus VB.
+- [00:24:29,960 - 00:24:30,520] Okay?
+- [00:24:31,240 - 00:24:32,940] VC minus VB.
+- [00:24:33,640 - 00:24:36,540] That's going to be related to some derivative of V
+- [00:24:36,540 - 00:24:39,800] along this direction here later on.
+- [00:24:39,900 - 00:24:40,480] But for the moment,
+- [00:24:40,480 - 00:24:42,060] it's just VC minus VB
+- [00:24:49,280 - 00:24:51,600] minus VD minus...
+- [00:24:51,600 - 00:24:51,640] Oh,
+- [00:24:51,640 - 00:24:51,860] no,
+- [00:24:51,860 - 00:24:52,540] I'm sorry.
+- [00:24:52,680 - 00:24:53,780] I didn't do this right.
+- [00:24:53,920 - 00:24:55,340] I should have started differently.
+- [00:24:55,960 - 00:24:58,240] Let me just find my notes here.
+- [00:24:58,580 - 00:24:58,980] Yeah,
+- [00:24:58,980 - 00:24:59,300] I'm sorry.
+- [00:24:59,600 - 00:25:03,300] VC minus VD.
+- [00:25:05,360 - 00:25:08,080] That's the difference between the vector here and here.
+- [00:25:08,300 - 00:25:11,640] And it's clearly related to some derivative of the vector
+- [00:25:11,640 - 00:25:15,040] along the direction DX mu here,
+- [00:25:15,180 - 00:25:17,660] along this direction,
+- [00:25:17,660 - 00:25:19,120] which is DX mu.
+- [00:25:19,380 - 00:25:21,070] But let's just call it
+- [00:25:21,070 - 00:25:22,760] VC minus VD for the moment.
+- [00:25:23,480 - 00:25:31,760] And now subtract from that minus VB minus VA.
+- [00:25:32,500 - 00:25:33,140] Okay,
+- [00:25:33,140 - 00:25:33,280] so that's the difference.
+- [00:25:33,280 - 00:25:34,140] So let's see what I've done.
+- [00:25:34,360 - 00:25:37,380] I've taken VC minus VD.
+- [00:25:38,000 - 00:25:39,360] That's a little difference here.
+- [00:25:39,600 - 00:25:42,820] And subtracted the corresponding difference down here.
+- [00:25:44,100 - 00:25:47,060] I've taken a difference up here
+- [00:25:47,060 - 00:25:50,140] and subtracted the corresponding same thing
+- [00:25:50,140 - 00:25:52,440] except displaced down here.
+- [00:25:53,899 - 00:25:56,040] That's going to be related to a second derivative.
+- [00:25:56,460 - 00:25:58,160] It's a difference of differences.
+- [00:25:58,640 - 00:26:02,960] VC minus VD minus VB minus VA.
+- [00:26:03,700 - 00:26:06,580] That's the thing that makes up a second derivative
+- [00:26:06,580 - 00:26:08,400] when we do it with calculus.
+- [00:26:09,100 - 00:26:10,340] Difference of differences.
+- [00:26:10,800 - 00:26:11,540] All right,
+- [00:26:11,540 - 00:26:12,100] that's one thing.
+- [00:26:12,220 - 00:26:15,160] Now I'm going to write a similar thing.
+- [00:26:15,240 - 00:26:16,540] I'm going to subtract from it.
+- [00:26:16,640 - 00:26:17,820] Let's put this in brackets.
+- [00:26:19,580 - 00:26:21,880] And I'm going to subtract from the whole thing
+- [00:26:21,880 - 00:26:23,860] a very similar expression.
+- [00:26:24,320 - 00:26:25,620] Notice what I did here.
+- [00:26:25,700 - 00:26:27,240] I took a difference going horizontally
+- [00:26:28,020 - 00:26:29,830] and then took the
+- [00:26:29,830 - 00:26:31,640] difference of differences moving vertically.
+- [00:26:31,640 - 00:26:33,720] Now I'm going to do it the opposite way.
+- [00:26:34,080 - 00:26:35,940] I'm going to take the difference vertically
+- [00:26:36,470 - 00:26:38,900] and subtract off when I move horizontally.
+- [00:26:39,700 - 00:26:40,820] In one case,
+- [00:26:40,820 - 00:26:42,200] I took a derivative this way
+- [00:26:42,200 - 00:26:44,080] and then differentiated it vertically.
+- [00:26:44,440 - 00:26:46,300] Now I'm going to take a vertical derivative
+- [00:26:46,860 - 00:26:48,240] or a vertical difference
+- [00:26:48,240 - 00:26:51,080] and different and displace it horizontally.
+- [00:26:51,640 - 00:26:52,680] So let's see.
+- [00:26:52,680 - 00:26:53,360] What am I saying?
+- [00:26:53,480 - 00:26:54,640] I'm going to subtract
+- [00:26:57,600 - 00:26:59,280] VC minus VB
+- [00:27:03,780 - 00:27:05,240] VC minus VB
+- [00:27:05,240 - 00:27:07,680] and then from that subtract the same
+- [00:27:07,680 - 00:27:10,120] kind of thing over at this end
+- [00:27:10,640 - 00:27:13,120] except VD minus VA prime.
+- [00:27:14,740 - 00:27:16,440] Instead of coming back to here,
+- [00:27:16,600 - 00:27:18,140] we know we come back to VA prime,
+- [00:27:18,420 - 00:27:19,680] so I'm just going to subtract
+- [00:27:21,200 - 00:27:24,180] VD minus VA prime.
+- [00:27:29,840 - 00:27:31,420] That's related to a
+- [00:27:33,100 - 00:27:34,620] two different orders
+- [00:27:34,620 - 00:27:36,860] that we can take differences.
+- [00:27:41,780 - 00:27:45,340] Why did you choose to subtract the VB minus MC
+- [00:27:45,340 - 00:27:48,060] from D to A instead of the other way around?
+- [00:27:48,160 - 00:27:50,700] Why don't we use the first term,
+- [00:27:50,760 - 00:27:51,660] VC minus VB
+- [00:27:51,660 - 00:27:54,480] and then do minus VD minus VA.
+- [00:27:54,680 - 00:27:55,920] Why don't you do it the other way around?
+- [00:27:56,020 - 00:27:57,440] VC minus VB
+- [00:27:57,440 - 00:27:59,680] minus VBA minus VA.
+- [00:27:59,680 - 00:28:01,260] On the second term.
+- [00:28:02,120 - 00:28:02,520] Okay.
+- [00:28:02,740 - 00:28:04,980] Why did you choose to do VC minus VB
+- [00:28:05,699 - 00:28:08,360] minus VD minus VA instead of the other way around?
+- [00:28:08,560 - 00:28:09,320] What other way around?
+- [00:28:09,520 - 00:28:12,260] VD minus VA minus VC minus VB.
+- [00:28:12,760 - 00:28:14,080] Because I know what I want to get.
+- [00:28:15,120 - 00:28:16,680] Because I know what I want to get.
+- [00:28:16,820 - 00:28:18,040] I know the answer that I want to get.
+- [00:28:19,639 - 00:28:20,640] My point is,
+- [00:28:20,740 - 00:28:22,000] well you'll see in a moment.
+- [00:28:23,480 - 00:28:26,580] This has been engineered to give me a particular answer.
+- [00:28:26,780 - 00:28:28,380] It's been engineered on purpose
+- [00:28:28,380 - 00:28:29,880] to give me a particular answer.
+- [00:28:30,100 - 00:28:31,780] Because you're going around counter-clockwise.
+- [00:28:32,440 - 00:28:33,600] If you switch it,
+- [00:28:33,600 - 00:28:34,260] you could have plus it.
+- [00:28:34,900 - 00:28:35,380] What's that?
+- [00:28:35,600 - 00:28:37,480] I can define anything I want.
+- [00:28:37,740 - 00:28:38,620] I'm a free man.
+- [00:28:38,620 - 00:28:40,080] I can do anything I want.
+- [00:28:40,300 - 00:28:42,000] I choose to define this,
+- [00:28:42,000 - 00:28:42,280] okay?
+- [00:28:42,980 - 00:28:43,460] Now,
+- [00:28:43,460 - 00:28:44,500] having chose this...
+- [00:28:44,920 - 00:28:46,040] Final minus initial.
+- [00:28:46,780 - 00:28:47,260] Yeah,
+- [00:28:47,260 - 00:28:47,400] yeah,
+- [00:28:47,400 - 00:28:47,600] yeah,
+- [00:28:47,600 - 00:28:47,780] yeah.
+- [00:28:47,980 - 00:28:49,560] VX mu and VX...
+- [00:28:49,560 - 00:28:49,920] Yeah,
+- [00:28:49,920 - 00:28:50,100] yeah.
+- [00:28:50,100 - 00:28:51,940] If we think of going
+- [00:28:51,940 - 00:28:53,070] this way is the positive
+- [00:28:53,070 - 00:28:54,200] axis and this way is going
+- [00:28:54,200 - 00:28:55,020] the positive axis,
+- [00:28:55,020 - 00:28:56,220] I've always subtracted
+- [00:28:56,220 - 00:28:59,200] the more positive from the less positive point.
+- [00:28:59,980 - 00:29:03,360] But the point here is I've engineered something
+- [00:29:03,360 - 00:29:04,680] to give me an answer I want.
+- [00:29:05,320 - 00:29:06,680] Let's see what the answer is.
+- [00:29:07,120 - 00:29:10,260] Notice that VC cancels.
+- [00:29:10,260 - 00:29:12,820] There's a plus VC here and a minus VC here.
+- [00:29:13,540 - 00:29:14,060] Okay?
+- [00:29:14,620 - 00:29:16,220] There's a minus VD here,
+- [00:29:16,220 - 00:29:18,200] but a plus VD here.
+- [00:29:18,380 - 00:29:19,660] Two minuses make a plus.
+- [00:29:21,340 - 00:29:21,860] Okay?
+- [00:29:22,160 - 00:29:23,200] How about VB?
+- [00:29:23,420 - 00:29:23,940] Incidentally,
+- [00:29:23,940 - 00:29:25,860] upper and lower case B are the same thing.
+- [00:29:26,220 - 00:29:30,720] There's a minus VB here and a plus VB here.
+- [00:29:31,200 - 00:29:31,880] So,
+- [00:29:31,880 - 00:29:35,520] many things have been engineered on purpose
+- [00:29:35,520 - 00:29:36,420] to cancel out.
+- [00:29:37,020 - 00:29:38,760] VC cancels out.
+- [00:29:40,960 - 00:29:41,960] Here and here.
+- [00:29:43,360 - 00:29:45,080] VD cancels out.
+- [00:29:47,660 - 00:29:48,340] Minus,
+- [00:29:48,340 - 00:29:48,740] plus.
+- [00:29:49,960 - 00:29:51,580] VB cancels out.
+- [00:29:52,240 - 00:29:52,920] Minus,
+- [00:29:52,920 - 00:29:53,520] plus.
+- [00:29:54,040 - 00:29:56,200] And the only thing that's left over is the
+- [00:29:57,100 - 00:29:59,660] VA prime minus VA.
+- [00:30:00,980 - 00:30:01,320] Okay?
+- [00:30:01,880 - 00:30:05,100] VA prime minus VA equals...
+- [00:30:05,100 - 00:30:06,660] VA minus VA prime.
+- [00:30:06,720 - 00:30:07,100] You're right.
+- [00:30:07,320 - 00:30:08,000] VA...
+- [00:30:08,000 - 00:30:08,660] No.
+- [00:30:08,980 - 00:30:09,660] Yes.
+- [00:30:10,420 - 00:30:11,300] You're right.
+- [00:30:11,420 - 00:30:12,960] VA minus VA prime.
+- [00:30:15,100 - 00:30:15,780] No,
+- [00:30:15,780 - 00:30:16,340] I think I got it right.
+- [00:30:17,140 - 00:30:18,820] There's two minus signs here.
+- [00:30:19,020 - 00:30:19,680] So,
+- [00:30:19,680 - 00:30:24,580] it's plus VA and there's three minus signs here.
+- [00:30:24,580 - 00:30:25,400] So,
+- [00:30:25,400 - 00:30:26,240] good.
+- [00:30:26,580 - 00:30:28,420] VA minus VA prime.
+- [00:30:28,780 - 00:30:29,620] In other words,
+- [00:30:29,620 - 00:30:32,730] I have succeeded in writing the difference
+- [00:30:32,730 - 00:30:35,840] of VA prime and VA in terms
+- [00:30:35,840 - 00:30:37,760] of various derivatives.
+- [00:30:38,300 - 00:30:39,300] They're not yet derivatives,
+- [00:30:39,300 - 00:30:40,020] of course.
+- [00:30:40,200 - 00:30:42,170] We're going to turn them into derivatives
+- [00:30:42,170 - 00:30:44,140] in a minute by making these distances infinitely
+- [00:30:44,140 - 00:30:44,600] small.
+- [00:30:45,140 - 00:30:48,590] But we've actually written the difference
+- [00:30:48,590 - 00:30:52,040] in terms of a derivative of derivatives.
+- [00:30:52,040 - 00:30:53,060] In other words,
+- [00:30:53,060 - 00:30:53,940] a second derivative.
+- [00:30:54,480 - 00:30:55,140] Now,
+- [00:30:55,140 - 00:30:56,600] let's see what that second derivative is.
+- [00:30:56,700 - 00:30:59,040] Let's take the first expression up on top.
+- [00:30:59,420 - 00:31:00,540] First of all,
+- [00:31:00,540 - 00:31:02,260] let's take VC minus VD.
+- [00:31:03,640 - 00:31:10,980] VC minus VD is related to the derivative of
+- [00:31:10,980 - 00:31:18,320] V with respect to X mu times DX mu.
+- [00:31:20,080 - 00:31:21,440] The derivative...
+- [00:31:21,440 - 00:31:25,120] The V here minus V here is the change in
+- [00:31:25,120 - 00:31:28,800] V when you change X mu a little bit times the
+- [00:31:28,800 - 00:31:29,560] change in X.
+- [00:31:29,820 - 00:31:30,460] So,
+- [00:31:30,460 - 00:31:31,760] that's the first term up here.
+- [00:31:33,800 - 00:31:34,440] Now,
+- [00:31:34,440 - 00:31:35,440] what's the second term?
+- [00:31:35,660 - 00:31:38,120] The second term is exactly
+- [00:31:38,120 - 00:31:40,580] the same thing except displaced downward.
+- [00:31:42,160 - 00:31:43,260] Both of these,
+- [00:31:43,260 - 00:31:47,160] VC minus VD and VB minus VA...
+- [00:31:47,580 - 00:31:50,440] VC minus VD and VB minus VA...
+- [00:31:50,440 - 00:31:53,090] VC minus VD and VB minus VA are
+- [00:31:53,090 - 00:31:55,740] both related to derivatives along the axis DX mu.
+- [00:31:57,560 - 00:32:00,460] But what's the difference between them?
+- [00:32:00,660 - 00:32:04,190] The difference between them is a derivative
+- [00:32:04,190 - 00:32:07,720] of this with respect to the vertical axis.
+- [00:32:08,620 - 00:32:10,440] It's the difference of differences.
+- [00:32:11,120 - 00:32:12,180] And so,
+- [00:32:12,180 - 00:32:15,520] the actual full thing that's
+- [00:32:15,520 - 00:32:18,860] written here for infinitely small...
+- [00:32:18,860 - 00:32:19,860] For infinitesimal...
+- [00:32:19,860 - 00:32:27,460] For infinitesimal elements is we differentiate this again...
+- [00:32:28,260 - 00:32:30,680] The V...
+- [00:32:31,260 - 00:32:32,080] It's actually...
+- [00:32:32,080 - 00:32:32,700] Excuse me.
+- [00:32:32,740 - 00:32:34,280] I'm not writing it correctly.
+- [00:32:34,640 - 00:32:37,100] This should be covariant
+- [00:32:37,100 - 00:32:39,560] derivative because we're parallelly transporting.
+- [00:32:44,060 - 00:32:46,360] Because we're not just doing ordinary derivatives.
+- [00:32:46,460 - 00:32:48,150] We're parallelly transporting and
+- [00:32:48,150 - 00:32:49,840] taking the covariant derivative...
+- [00:32:49,840 - 00:32:53,080] The covariant difference between these.
+- [00:32:53,500 - 00:32:54,100] So,
+- [00:32:54,100 - 00:32:57,050] the covariant difference between these is
+- [00:32:57,050 - 00:33:00,000] covariant derivative of V times DX mu.
+- [00:33:00,240 - 00:33:01,160] And then,
+- [00:33:01,160 - 00:33:03,450] if we want to subtract off
+- [00:33:03,450 - 00:33:05,740] the second half of it here,
+- [00:33:05,940 - 00:33:08,720] we simply have to multiply it by...
+- [00:33:08,960 - 00:33:10,460] We have to do another derivative.
+- [00:33:11,780 - 00:33:14,140] Del with respect to X nu.
+- [00:33:14,580 - 00:33:15,480] And then,
+- [00:33:15,480 - 00:33:16,780] which way is it?
+- [00:33:16,780 - 00:33:21,780] It is DX mu delta X nu.
+- [00:33:24,920 - 00:33:26,300] That's what appears here.
+- [00:33:26,420 - 00:33:29,020] The derivatives or the difference of differences.
+- [00:33:29,660 - 00:33:33,800] The difference when you transport along the DX axis.
+- [00:33:35,550 - 00:33:36,040] And then,
+- [00:33:36,040 - 00:33:39,520] take the difference of that when you transport
+- [00:33:39,520 - 00:33:43,000] the whole thing along the delta X axis.
+- [00:33:43,860 - 00:33:44,480] Okay.
+- [00:33:44,540 - 00:33:44,700] So,
+- [00:33:44,700 - 00:33:45,460] that's what this is.
+- [00:33:46,780 - 00:33:48,360] What about the other term?
+- [00:33:48,380 - 00:33:50,460] The second term that we subtracted off here?
+- [00:33:50,760 - 00:33:54,359] It's exactly the same thing except
+- [00:33:54,359 - 00:33:57,959] in the opposite order where instead of...
+- [00:33:58,420 - 00:33:58,600] Well,
+- [00:33:58,600 - 00:33:59,560] let's just look at it.
+- [00:33:59,920 - 00:34:01,360] What's the first thing here?
+- [00:34:01,540 - 00:34:02,660] We're subtracting.
+- [00:34:03,920 - 00:34:06,660] This is VC minus VB.
+- [00:34:07,000 - 00:34:10,079] VC minus VB is the derivative
+- [00:34:10,079 - 00:34:13,159] with respect to the vertical axis.
+- [00:34:13,940 - 00:34:14,620] So,
+- [00:34:14,620 - 00:34:15,179] that's...
+- [00:34:15,179 - 00:34:16,139] Del...
+- [00:34:17,179 - 00:34:21,280] Nu V times delta X nu.
+- [00:34:21,480 - 00:34:21,820] Oops.
+- [00:34:21,980 - 00:34:22,520] Times...
+- [00:34:23,139 - 00:34:24,320] Let me get it right.
+- [00:34:24,400 - 00:34:24,560] Yes.
+- [00:34:24,620 - 00:34:25,719] Times delta X nu.
+- [00:34:27,780 - 00:34:28,920] And then,
+- [00:34:28,920 - 00:34:32,620] D mu times DX mu.
+- [00:34:33,929 - 00:34:34,739] In other words,
+- [00:34:34,739 - 00:34:39,329] the difference between these is just
+- [00:34:39,329 - 00:34:43,920] the order in which I differentiate.
+- [00:34:44,699 - 00:34:45,679] If I...
+- [00:34:45,679 - 00:34:48,039] I can differentiate in the horizontal direction
+- [00:34:48,039 - 00:34:50,400] or I can differentiate in the vertical direction.
+- [00:34:51,620 - 00:34:52,540] Covariant derivatives.
+- [00:34:52,980 - 00:34:55,929] The difference between those two
+- [00:34:55,929 - 00:34:58,880] derivatives constitutes what I've written here.
+- [00:35:00,260 - 00:35:00,940] Okay.
+- [00:35:02,220 - 00:35:02,900] So,
+- [00:35:02,900 - 00:35:03,700] what have we found?
+- [00:35:03,840 - 00:35:06,600] We've found that the change in V
+- [00:35:06,600 - 00:35:09,360] when you go around a closed loop,
+- [00:35:09,360 - 00:35:11,220] first of all,
+- [00:35:11,220 - 00:35:15,040] contains these little differential elements.
+- [00:35:15,040 - 00:35:17,300] The X mu and delta X nu.
+- [00:35:18,740 - 00:35:20,420] That's the little area element.
+- [00:35:21,040 - 00:35:25,020] That's the little area element contained in the rectangle.
+- [00:35:26,100 - 00:35:29,320] Rectangle or parallelogram.
+- [00:35:29,640 - 00:35:30,720] It doesn't have to be a rectangle.
+- [00:35:30,900 - 00:35:31,740] It could be a parallelogram.
+- [00:35:32,100 - 00:35:32,960] And then,
+- [00:35:32,960 - 00:35:36,300] it contains delta nu,
+- [00:35:36,300 - 00:35:37,240] delta mu,
+- [00:35:37,240 - 00:35:38,940] V minus delta mu,
+- [00:35:38,940 - 00:35:39,660] delta nu,
+- [00:35:39,660 - 00:35:39,900] V.
+- [00:35:40,080 - 00:35:40,580] What is that?
+- [00:35:40,720 - 00:35:43,940] That's the commutator of delta nu...
+- [00:35:45,080 - 00:35:46,320] with delta mu...
+- [00:35:49,140 - 00:35:49,860] on V.
+- [00:35:50,940 - 00:35:51,880] First term,
+- [00:35:51,880 - 00:35:54,180] delta nu is to the left,
+- [00:35:54,180 - 00:35:55,380] delta mu is to the right.
+- [00:35:55,460 - 00:35:56,200] And the second term,
+- [00:35:56,200 - 00:35:57,480] delta mu is to the left,
+- [00:35:57,480 - 00:35:58,940] delta nu to the right.
+- [00:36:00,220 - 00:36:00,700] So,
+- [00:36:00,700 - 00:36:04,610] here's a fancy expression involving
+- [00:36:04,610 - 00:36:08,520] the commutator of two covariant derivatives.
+- [00:36:10,040 - 00:36:12,460] The commutator of two covariant derivatives.
+- [00:36:14,040 - 00:36:16,060] Each one is itself an operator.
+- [00:36:17,780 - 00:36:19,220] When you commute them,
+- [00:36:19,220 - 00:36:20,540] you get another operator.
+- [00:36:20,900 - 00:36:23,260] When you apply that commutator to
+- [00:36:23,260 - 00:36:25,620] the original vector starting vector V,
+- [00:36:25,620 - 00:36:30,000] and multiply by these deltas,
+- [00:36:30,120 - 00:36:32,070] it gives you the change in
+- [00:36:32,070 - 00:36:34,020] V in going around a small loop.
+- [00:36:34,460 - 00:36:35,140] So,
+- [00:36:35,140 - 00:36:39,500] it's a very concise trick to compute how a
+- [00:36:39,500 - 00:36:43,860] vector changes when you go around a small infinitesimal loop.
+- [00:36:43,860 - 00:36:46,310] Which is made up out of
+- [00:36:46,310 - 00:36:48,760] a pair of vectors delta and D.
+- [00:36:48,900 - 00:36:50,400] Delta X and D X.
+- [00:36:51,320 - 00:36:51,920] Okay?
+- [00:36:52,000 - 00:36:53,880] Quite an elegant expression.
+- [00:36:54,420 - 00:36:55,180] And now,
+- [00:36:55,180 - 00:36:58,160] all we have to do is plug
+- [00:36:58,160 - 00:37:01,140] in the definition of the covariant derivatives.
+- [00:37:01,600 - 00:37:03,260] Work out the commutator.
+- [00:37:03,360 - 00:37:06,100] And what is the object that we will have constructed,
+- [00:37:06,100 - 00:37:06,920] incidentally?
+- [00:37:07,960 - 00:37:09,320] The curvature tensor.
+- [00:37:09,780 - 00:37:11,810] Because it's the curvature tensor
+- [00:37:11,810 - 00:37:13,840] that tells you what happens.
+- [00:37:13,840 - 00:37:15,160] What happens when you go around a little loop.
+- [00:37:16,360 - 00:37:16,880] Okay,
+- [00:37:16,880 - 00:37:18,900] so let's write them down.
+- [00:37:19,160 - 00:37:19,820] We're interested.
+- [00:37:20,160 - 00:37:21,600] Let's write out the expression.
+- [00:37:28,280 - 00:37:28,800] Yeah.
+- [00:37:32,340 - 00:37:32,860] Okay,
+- [00:37:32,860 - 00:37:34,480] so let's write it out explicitly.
+- [00:37:34,840 - 00:37:37,920] It's D nu plus gamma nu.
+- [00:37:40,900 - 00:37:41,860] That's del nu.
+- [00:37:41,860 - 00:37:44,080] I bring you over to here again.
+- [00:37:44,600 - 00:37:48,860] Del mu is just derivative plus multiplication by gamma.
+- [00:37:49,140 - 00:37:49,480] And remember,
+- [00:37:49,480 - 00:37:50,360] gamma is a matrix.
+- [00:37:50,900 - 00:37:52,120] Or a set of matrices.
+- [00:37:52,900 - 00:37:54,440] D nu plus gamma nu.
+- [00:37:55,100 - 00:37:55,940] That's delta.
+- [00:37:56,080 - 00:37:57,020] That's delta nu.
+- [00:37:57,960 - 00:38:01,760] And then D mu plus gamma mu.
+- [00:38:04,700 - 00:38:05,760] That's the product.
+- [00:38:06,320 - 00:38:07,720] Delta nu on the left.
+- [00:38:10,140 - 00:38:11,720] And delta mu on the right.
+- [00:38:11,860 - 00:38:14,640] Now we have to switch them and subtract.
+- [00:38:17,760 - 00:38:22,480] Minus D mu plus gamma mu
+- [00:38:22,480 - 00:38:27,200] times D nu plus gamma nu.
+- [00:38:30,000 - 00:38:32,420] And then multiply it by the vector V.
+- [00:38:32,540 - 00:38:33,280] But for the moment,
+- [00:38:33,280 - 00:38:35,620] I'm only interested in writing the operators down.
+- [00:38:36,660 - 00:38:37,240] Okay,
+- [00:38:37,240 - 00:38:38,640] so let's work it out.
+- [00:38:38,740 - 00:38:40,500] The first term that I get.
+- [00:38:41,860 - 00:38:42,840] Contains no gammas.
+- [00:38:43,000 - 00:38:46,920] It's just delta nu times delta mu minus delta mu.
+- [00:38:47,180 - 00:38:47,520] I'm sorry,
+- [00:38:47,520 - 00:38:47,960] not delta.
+- [00:38:48,360 - 00:38:52,240] It's just derivative with respect to X nu.
+- [00:38:53,220 - 00:38:54,840] Derivative with respect to X mu.
+- [00:38:55,820 - 00:38:57,940] Minus derivative with respect to X mu.
+- [00:38:58,120 - 00:38:59,520] Derivative with respect to X nu.
+- [00:38:59,620 - 00:39:03,310] Is everybody comfortable with my writing expressions like derivative
+- [00:39:03,310 - 00:39:07,000] with respect to X mu is just D mu?
+- [00:39:08,780 - 00:39:09,300] Okay,
+- [00:39:09,300 - 00:39:10,480] I think I've done that before.
+- [00:39:11,220 - 00:39:13,070] But D sub mu just means
+- [00:39:13,070 - 00:39:14,920] derivative with respect to X mu.
+- [00:39:15,520 - 00:39:16,040] Alright,
+- [00:39:16,040 - 00:39:17,700] so the first term is just
+- [00:39:17,700 - 00:39:19,360] gotten by D nu times D mu.
+- [00:39:19,960 - 00:39:20,480] Sorry,
+- [00:39:20,480 - 00:39:21,380] D delta.
+- [00:39:21,680 - 00:39:22,200] Derivative.
+- [00:39:22,400 - 00:39:23,100] Derivative nu.
+- [00:39:23,280 - 00:39:23,960] Derivative mu.
+- [00:39:24,060 - 00:39:25,000] Minus derivative mu.
+- [00:39:25,060 - 00:39:25,540] Derivative nu.
+- [00:39:25,640 - 00:39:26,140] What is this?
+- [00:39:27,320 - 00:39:28,040] That's zero.
+- [00:39:28,240 - 00:39:30,340] Ordinary derivatives commute with each other.
+- [00:39:31,240 - 00:39:32,280] Ordinary derivatives,
+- [00:39:32,280 - 00:39:34,400] it doesn't matter the order of differentiation.
+- [00:39:34,900 - 00:39:36,160] So the first term is zero.
+- [00:39:37,420 - 00:39:37,940] Okay.
+- [00:39:38,160 - 00:39:39,820] The term just involving derivatives.
+- [00:39:41,660 - 00:39:42,260] Next,
+- [00:39:42,260 - 00:39:47,040] we get gamma nu times D mu.
+- [00:39:48,480 - 00:39:50,790] But then we have another one over here
+- [00:39:50,790 - 00:39:53,100] which is almost identical except in the opposite order.
+- [00:39:53,540 - 00:39:55,820] D mu times gamma nu.
+- [00:39:57,500 - 00:40:00,580] So that's minus D nu.
+- [00:40:01,620 - 00:40:02,220] Sorry,
+- [00:40:02,220 - 00:40:04,460] D mu times gamma nu.
+- [00:40:10,500 - 00:40:11,100] Okay.
+- [00:40:11,240 - 00:40:12,080] D nu,
+- [00:40:12,080 - 00:40:12,860] no,
+- [00:40:12,860 - 00:40:13,440] yes,
+- [00:40:13,440 - 00:40:13,880] no.
+- [00:40:14,280 - 00:40:15,100] No yes.
+- [00:40:16,420 - 00:40:18,180] Gamma nu times D mu.
+- [00:40:18,560 - 00:40:19,320] That's here.
+- [00:40:20,020 - 00:40:23,640] And then D mu gamma nu.
+- [00:40:23,720 - 00:40:24,200] That's here.
+- [00:40:24,820 - 00:40:25,820] What is this?
+- [00:40:25,880 - 00:40:27,760] This is just a commutator
+- [00:40:27,760 - 00:40:29,640] of gamma mu with D mu.
+- [00:40:30,980 - 00:40:31,580] Alright.
+- [00:40:32,060 - 00:40:33,760] We can write this as,
+- [00:40:33,760 - 00:40:40,340] I guess it's minus the commutator.
+- [00:40:40,340 - 00:40:41,330] This is just a commutator
+- [00:40:41,330 - 00:40:42,320] of D mu with gamma nu.
+- [00:40:44,280 - 00:40:46,120] Gamma nu is a function of X.
+- [00:40:47,820 - 00:40:49,320] D mu is just derivative.
+- [00:40:49,800 - 00:40:51,200] What is this commutator?
+- [00:40:53,580 - 00:40:54,100] Okay.
+- [00:40:54,160 - 00:40:55,900] Now you have to go back and remember.
+- [00:40:59,840 - 00:41:00,360] Yeah.
+- [00:41:02,420 - 00:41:03,320] There it is.
+- [00:41:04,300 - 00:41:05,160] There it is.
+- [00:41:06,360 - 00:41:08,680] Derivative times F minus F times derivative.
+- [00:41:08,680 - 00:41:10,460] That's exactly what we have here.
+- [00:41:11,080 - 00:41:12,820] And I hope I have the sign right.
+- [00:41:13,100 - 00:41:16,960] This should then be minus the derivative
+- [00:41:16,960 - 00:41:20,820] of gamma nu with respect to X mu.
+- [00:41:22,200 - 00:41:23,360] That's just a function.
+- [00:41:23,480 - 00:41:26,500] But it's the function that's made by differentiating gamma.
+- [00:41:27,180 - 00:41:27,740] Okay.
+- [00:41:28,080 - 00:41:28,740] That's the,
+- [00:41:28,740 - 00:41:30,000] I get that term.
+- [00:41:30,260 - 00:41:30,780] Let's see.
+- [00:41:30,840 - 00:41:32,300] Which ones have I taken care of?
+- [00:41:32,380 - 00:41:32,700] Let's,
+- [00:41:32,700 - 00:41:38,260] we've taken care of this product and that product.
+- [00:41:39,080 - 00:41:42,740] Now we've gotten gamma nu times D mu.
+- [00:41:42,960 - 00:41:43,680] That's this.
+- [00:41:44,540 - 00:41:47,120] And D mu times gamma nu.
+- [00:41:50,980 - 00:41:51,560] Now,
+- [00:41:51,560 - 00:41:53,620] there's another term in here.
+- [00:41:53,820 - 00:41:54,180] Alright.
+- [00:41:54,220 - 00:41:55,160] Let's collect this term.
+- [00:41:56,880 - 00:42:01,120] There's another term in which mu and nu are interchanged.
+- [00:42:01,560 - 00:42:03,780] In which mu and nu are interchanged.
+- [00:42:05,100 - 00:42:07,100] And it comes in with the opposite sign.
+- [00:42:07,100 - 00:42:10,820] That one is going to
+- [00:42:10,820 - 00:42:14,540] be plus D nu gamma mu.
+- [00:42:15,960 - 00:42:19,550] And that's equal to plus
+- [00:42:19,550 - 00:42:23,140] D by DX nu gamma mu.
+- [00:42:23,620 - 00:42:25,840] You can hunt around in here for those terms.
+- [00:42:26,460 - 00:42:28,180] One of them is easy to find.
+- [00:42:28,300 - 00:42:28,920] Let's see.
+- [00:42:29,740 - 00:42:31,220] Derivative with respect to,
+- [00:42:31,220 - 00:42:32,320] here it is.
+- [00:42:32,380 - 00:42:35,540] Derivative with respect to X mu times.
+- [00:42:36,200 - 00:42:36,700] No.
+- [00:42:38,020 - 00:42:39,560] Derivative with respect to X nu.
+- [00:42:39,680 - 00:42:40,560] That's here.
+- [00:42:40,740 - 00:42:41,820] Times gamma mu.
+- [00:42:42,740 - 00:42:43,560] That's this one.
+- [00:42:43,800 - 00:42:45,240] Comes in with the opposite sign.
+- [00:42:48,160 - 00:42:50,070] Looks the same except mu and nu
+- [00:42:50,070 - 00:42:51,980] are interchanged and you have the opposite sign.
+- [00:42:52,800 - 00:42:53,300] Okay.
+- [00:42:53,380 - 00:42:53,680] Yes.
+- [00:42:54,160 - 00:43:01,120] You have the derivative of gamma nu partial X nu.
+- [00:43:02,080 - 00:43:02,680] Gamma nu,
+- [00:43:02,680 - 00:43:03,680] what is that?
+- [00:43:03,800 - 00:43:03,900] I mean,
+- [00:43:03,900 - 00:43:04,420] that's a matrix,
+- [00:43:04,420 - 00:43:04,760] right?
+- [00:43:04,760 - 00:43:05,880] It is a matrix.
+- [00:43:06,180 - 00:43:08,660] So what's its derivative with respect to X nu?
+- [00:43:08,880 - 00:43:09,080] Well,
+- [00:43:09,080 - 00:43:10,720] it's a matrix which depends on position.
+- [00:43:12,420 - 00:43:15,900] So it means you differentiate each component of the matrix.
+- [00:43:16,400 - 00:43:16,920] Yeah.
+- [00:43:17,360 - 00:43:17,880] Yeah.
+- [00:43:17,960 - 00:43:19,400] It just means you go
+- [00:43:19,400 - 00:43:20,840] through the matrix differentiating its components.
+- [00:43:21,420 - 00:43:21,940] Right.
+- [00:43:23,360 - 00:43:23,880] Okay.
+- [00:43:23,960 - 00:43:24,520] So that's easy.
+- [00:43:24,700 - 00:43:28,440] And just please keep in mind that there are
+- [00:43:28,440 - 00:43:32,180] matrix entries here which I've purged out of the formulas.
+- [00:43:32,480 - 00:43:34,180] And now what's the last term?
+- [00:43:34,760 - 00:43:37,630] The last term is gamma nu times
+- [00:43:37,630 - 00:43:40,500] gamma mu minus gamma mu times gamma nu.
+- [00:43:42,260 - 00:43:43,700] So the last term,
+- [00:43:43,700 - 00:43:45,100] I'll write it in here,
+- [00:43:45,100 - 00:43:47,240] is plus gamma nu,
+- [00:43:47,240 - 00:43:52,640] gamma mu minus gamma mu,
+- [00:43:52,640 - 00:43:54,340] gamma nu.
+- [00:43:57,120 - 00:43:58,700] Now why isn't that zero?
+- [00:43:58,820 - 00:44:00,680] Why isn't gamma nu times gamma
+- [00:44:00,680 - 00:44:02,540] mu equal to minus gamma mu,
+- [00:44:02,540 - 00:44:03,640] gamma nu equal to zero?
+- [00:44:03,640 - 00:44:05,300] Because they're matrices.
+- [00:44:05,300 - 00:44:05,580] Because they're matrices.
+- [00:44:06,020 - 00:44:06,660] Right.
+- [00:44:07,160 - 00:44:07,800] Okay.
+- [00:44:07,900 - 00:44:10,140] So let's collect it all together
+- [00:44:10,140 - 00:44:12,380] and put back the matrix indices,
+- [00:44:12,380 - 00:44:16,500] and we will have an expression for the curvature.
+- [00:44:19,560 - 00:44:21,500] We'll have an expression for the small
+- [00:44:21,500 - 00:44:23,440] change when you go around the closed loop.
+- [00:44:38,620 - 00:44:39,900] So let's see.
+- [00:44:40,020 - 00:44:42,600] We first have d nu gamma mu.
+- [00:44:45,480 - 00:44:47,280] I'll put in the indices in a minute.
+- [00:44:47,320 - 00:44:48,260] I just want to write it out.
+- [00:44:48,320 - 00:44:54,960] Minus d mu gamma nu plus gamma
+- [00:44:54,960 - 00:45:01,600] nu gamma mu minus gamma mu gamma nu.
+- [00:45:01,600 - 00:45:02,460] Okay.
+- [00:45:03,400 - 00:45:05,740] Let's put back the matrix entries now.
+- [00:45:05,800 - 00:45:06,460] I'll do that in red.
+- [00:45:12,080 - 00:45:13,520] Alpha beta,
+- [00:45:13,520 - 00:45:16,220] alpha beta.
+- [00:45:16,600 - 00:45:19,180] But here we have matrix multiplication.
+- [00:45:19,440 - 00:45:22,090] We want the alpha beta-th element
+- [00:45:22,090 - 00:45:24,740] of the matrix gamma times gamma.
+- [00:45:25,500 - 00:45:30,820] So that becomes alpha delta delta beta.
+- [00:45:32,480 - 00:45:35,430] That's multiplying the matrix gamma alpha
+- [00:45:35,430 - 00:45:38,380] delta by the matrix gamma delta beta.
+- [00:45:40,380 - 00:45:42,240] Einstein summation convention,
+- [00:45:42,240 - 00:45:43,940] sum over delta.
+- [00:45:44,420 - 00:45:47,140] That's a simple way to do matrix multiplication.
+- [00:45:48,020 - 00:45:49,560] And the same thing over here.
+- [00:45:49,680 - 00:45:53,400] Alpha delta delta beta.
+- [00:45:54,560 - 00:45:55,720] That's the...
+- [00:45:57,940 - 00:45:59,520] And what's the whole thing?
+- [00:45:59,520 - 00:46:01,200] The whole thing is the curvature tensor.
+- [00:46:01,500 - 00:46:02,840] But what do we do with it?
+- [00:46:03,260 - 00:46:06,360] What we do with it is we multiply it.
+- [00:46:07,660 - 00:46:08,780] First of all,
+- [00:46:08,780 - 00:46:14,600] we multiply it by delta x nu and dx mu.
+- [00:46:21,520 - 00:46:22,740] Delta x nu,
+- [00:46:22,740 - 00:46:25,360] dx mu.
+- [00:46:25,440 - 00:46:27,040] That's our little rectangle or
+- [00:46:27,040 - 00:46:28,640] the sides of our little rectangle.
+- [00:46:29,520 - 00:46:33,240] And then we multiply it by v beta.
+- [00:46:37,580 - 00:46:39,020] And what does it give us?
+- [00:46:39,100 - 00:46:43,760] It gives us the change in v alpha.
+- [00:46:44,080 - 00:46:46,580] The only open index here is alpha,
+- [00:46:46,580 - 00:46:47,180] I hope.
+- [00:46:47,640 - 00:46:49,320] Nu and mu have been soaked up.
+- [00:46:49,500 - 00:46:50,440] Alpha beta.
+- [00:46:50,660 - 00:46:53,200] It gives us the change in v
+- [00:46:53,200 - 00:46:55,740] alpha when we go around the closed loop.
+- [00:46:57,820 - 00:46:58,340] Well,
+- [00:46:58,340 - 00:46:59,790] the change is a very small change
+- [00:46:59,790 - 00:47:01,240] if you go around the small loop.
+- [00:47:01,300 - 00:47:02,560] I've drawn it as a big change.
+- [00:47:03,060 - 00:47:04,200] But that's the change.
+- [00:47:04,400 - 00:47:11,460] And notice that it contains the edge sizes quadratically.
+- [00:47:11,540 - 00:47:14,100] So it's proportional to some area in there.
+- [00:47:16,200 - 00:47:18,280] It contains v itself.
+- [00:47:19,840 - 00:47:22,300] So it's some operator acting on v.
+- [00:47:22,900 - 00:47:25,020] And it contains this big structure.
+- [00:47:25,020 - 00:47:28,680] This big ugly structure here called the Riemann tensor.
+- [00:47:28,940 - 00:47:30,260] The v on the right
+- [00:47:30,260 - 00:47:31,580] hand side of the top line.
+- [00:47:31,740 - 00:47:32,160] I'm sorry.
+- [00:47:33,320 - 00:47:34,120] Up here.
+- [00:47:34,240 - 00:47:34,600] Yep.
+- [00:47:37,560 - 00:47:38,080] Right.
+- [00:47:39,040 - 00:47:39,700] All right.
+- [00:47:40,320 - 00:47:40,840] Well,
+- [00:47:40,840 - 00:47:41,960] this is the Riemann tensor.
+- [00:47:42,360 - 00:47:47,140] R nu mu alpha beta.
+- [00:47:47,400 - 00:47:49,480] And I think in my notes last
+- [00:47:49,480 - 00:47:51,560] time I may have had an index misplaced.
+- [00:47:52,780 - 00:47:54,120] That's the Riemann tensor.
+- [00:47:55,020 - 00:47:58,250] So the Riemann tensor is d
+- [00:47:58,250 - 00:48:01,480] nu gamma mu alpha beta minus.
+- [00:48:01,660 - 00:48:02,080] Oh,
+- [00:48:02,080 - 00:48:02,220] yeah.
+- [00:48:02,260 - 00:48:02,640] OK.
+- [00:48:02,840 - 00:48:04,460] I'm going to do it this way.
+- [00:48:04,920 - 00:48:10,860] Plus gamma nu alpha delta gamma mu delta beta
+- [00:48:10,860 - 00:48:16,800] minus what happens is if you interchange mu and nu.
+- [00:48:17,020 - 00:48:18,580] I'm not going to write the whole thing out.
+- [00:48:19,140 - 00:48:22,020] It contains one term with a mu and a mu.
+- [00:48:22,220 - 00:48:23,880] And the other term is identical.
+- [00:48:25,020 - 00:48:27,060] Except just interchange nu and mu.
+- [00:48:29,259 - 00:48:32,729] Not surprising since after all we were taking a
+- [00:48:32,729 - 00:48:36,200] commutator of something that we get minus signs in it.
+- [00:48:37,080 - 00:48:38,280] That's the Riemann tensor.
+- [00:48:40,900 - 00:48:43,280] And we could plug it into this formula over here.
+- [00:48:43,420 - 00:48:46,230] And we see that the Riemann tensor is the construction for telling you
+- [00:48:46,230 - 00:48:49,040] how to change a vector when you go around a little closed loop.
+- [00:48:56,740 - 00:48:57,220] Questions?
+- [00:48:58,800 - 00:48:59,280] Yes?
+- [00:48:59,620 - 00:49:01,860] It looks like you picked kind of a plane.
+- [00:49:02,160 - 00:49:02,600] Say it?
+- [00:49:02,800 - 00:49:04,580] It looks like you picked kind of a plane.
+- [00:49:04,800 - 00:49:05,380] I picked a plane.
+- [00:49:05,460 - 00:49:06,560] I picked a plane to go around.
+- [00:49:06,920 - 00:49:09,840] So it doesn't matter that the choice doesn't matter.
+- [00:49:09,840 - 00:49:10,000] Yeah,
+- [00:49:10,000 - 00:49:10,180] right.
+- [00:49:10,600 - 00:49:11,960] Once I know the general formula,
+- [00:49:11,960 - 00:49:15,060] I can choose that plane any way I like by choosing
+- [00:49:15,060 - 00:49:18,160] delta x mu and delta x nu to be arbitrary little vectors.
+- [00:49:19,380 - 00:49:19,860] OK.
+- [00:49:24,420 - 00:49:25,000] All right.
+- [00:49:25,000 - 00:49:25,400] In other words,
+- [00:49:25,400 - 00:49:28,700] any plane that can be characterized by two vectors.
+- [00:49:28,940 - 00:49:30,580] Any two vectors characterize a plane.
+- [00:49:31,340 - 00:49:32,920] So if I choose two vectors,
+- [00:49:32,920 - 00:49:34,580] two infinitesimal vectors,
+- [00:49:34,580 - 00:49:36,900] delta x nu and dx mu.
+- [00:49:37,000 - 00:49:37,940] These are two different vectors,
+- [00:49:37,940 - 00:49:38,700] delta and d.
+- [00:49:42,240 - 00:49:44,060] Then they define a plane.
+- [00:49:44,620 - 00:49:45,460] And that's right.
+- [00:49:45,560 - 00:49:48,120] What we're doing is we're picking out a plane,
+- [00:49:48,120 - 00:49:52,140] taking a small little loop in that plane,
+- [00:49:52,850 - 00:49:54,860] going around that small little loop,
+- [00:49:55,000 - 00:49:57,070] and seeing what happens when
+- [00:49:57,070 - 00:49:59,140] we covariantly transport a vector.
+- [00:49:59,400 - 00:50:01,500] And the result is that when you go around,
+- [00:50:01,500 - 00:50:03,640] it will reorient itself in some new direction.
+- [00:50:03,640 - 00:50:06,420] I guess another way of answering that question.
+- [00:50:06,900 - 00:50:07,540] Is there a question?
+- [00:50:08,020 - 00:50:12,700] Is that mu and nu are free indices,
+- [00:50:12,700 - 00:50:16,100] so that really is not one vector.
+- [00:50:16,100 - 00:50:16,220] Oh,
+- [00:50:16,220 - 00:50:16,420] yes.
+- [00:50:17,300 - 00:50:20,960] They're not free indices in this final formula here.
+- [00:50:22,779 - 00:50:24,980] Before I contract them with this little area,
+- [00:50:25,000 - 00:50:25,540] I'm going to contract them with this little area element.
+- [00:50:26,220 - 00:50:27,240] They're free indices.
+- [00:50:28,500 - 00:50:31,340] But when I decide what...
+- [00:50:32,540 - 00:50:33,020] Yeah.
+- [00:50:33,580 - 00:50:35,580] I'm just saying that you can...
+- [00:50:40,020 - 00:50:41,610] You get the same Riemann tensor
+- [00:50:41,610 - 00:50:43,200] no matter what plane you pick.
+- [00:50:43,400 - 00:50:43,640] Yes.
+- [00:50:43,660 - 00:50:44,920] You use the same Riemann tensor,
+- [00:50:44,920 - 00:50:46,430] but you use different components of
+- [00:50:46,430 - 00:50:47,940] it when you choose different planes.
+- [00:50:48,620 - 00:50:49,100] Right.
+- [00:50:50,500 - 00:50:52,620] I'm trying to understand what happens
+- [00:50:52,620 - 00:50:54,740] when delta and xn and ds...
+- [00:50:54,740 - 00:50:54,980] Yeah.
+- [00:50:54,980 - 00:50:57,880] Delta xn and dxn go to zero.
+- [00:50:58,360 - 00:51:00,200] What else goes to zero
+- [00:51:00,200 - 00:51:02,040] then to give me a number?
+- [00:51:02,620 - 00:51:03,560] Zero in length,
+- [00:51:03,560 - 00:51:04,200] for example.
+- [00:51:05,280 - 00:51:05,720] Yeah.
+- [00:51:06,040 - 00:51:07,980] The change in the vector goes to zero.
+- [00:51:09,400 - 00:51:10,600] The change in the vector,
+- [00:51:10,600 - 00:51:12,060] if you go around a small loop,
+- [00:51:12,140 - 00:51:13,720] as the loop gets smaller and smaller,
+- [00:51:14,980 - 00:51:17,180] let's say we take this vector and we go around,
+- [00:51:18,500 - 00:51:20,340] the smaller we make this loop,
+- [00:51:20,340 - 00:51:21,670] the smaller the difference between
+- [00:51:21,670 - 00:51:23,000] the vector when we go around.
+- [00:51:23,240 - 00:51:24,960] But we want to keep track of that smaller vector.
+- [00:51:24,960 - 00:51:25,260] That small distance,
+- [00:51:25,260 - 00:51:26,420] that small difference.
+- [00:51:27,080 - 00:51:27,760] We could,
+- [00:51:27,760 - 00:51:28,400] for example,
+- [00:51:28,400 - 00:51:30,560] choose a bigger circle
+- [00:51:31,940 - 00:51:33,860] and integrate up the effects
+- [00:51:33,860 - 00:51:35,780] of small little bits of curvature.
+- [00:51:35,920 - 00:51:37,400] We want to keep track of that little difference.
+- [00:51:37,640 - 00:51:39,620] But nothing in the Riemann tensor looks to me
+- [00:51:39,620 - 00:51:41,600] like it depends on the size of that circle.
+- [00:51:42,300 - 00:51:44,260] Nothing in the Riemann tensor depends on it.
+- [00:51:44,360 - 00:51:45,600] This is what depends on it.
+- [00:51:45,840 - 00:51:46,300] Yeah.
+- [00:51:46,540 - 00:51:47,180] This does.
+- [00:51:50,440 - 00:51:50,900] Okay,
+- [00:51:50,900 - 00:51:52,900] but I want something to go to zero.
+- [00:51:54,140 - 00:51:55,790] I want something else to go to
+- [00:51:55,790 - 00:51:57,440] zero so the rest of it has a...
+- [00:51:57,440 - 00:51:58,500] The answer goes to zero.
+- [00:51:59,400 - 00:51:59,880] Okay.
+- [00:52:00,040 - 00:52:00,340] Right.
+- [00:52:00,400 - 00:52:00,780] Okay,
+- [00:52:00,780 - 00:52:02,840] let me change what I was saying.
+- [00:52:04,300 - 00:52:06,120] I can see why you might have gotten confused.
+- [00:52:06,680 - 00:52:08,220] Let's put this up here.
+- [00:52:08,640 - 00:52:11,740] Equals delta V.
+- [00:52:12,340 - 00:52:13,320] Now I'm happy.
+- [00:52:13,600 - 00:52:14,300] Thank you.
+- [00:52:14,520 - 00:52:14,620] Right.
+- [00:52:15,940 - 00:52:19,190] Now notice this quantity is
+- [00:52:19,190 - 00:52:22,440] quadratic in small deviations here.
+- [00:52:22,440 - 00:52:23,640] So it's doubly small,
+- [00:52:23,640 - 00:52:24,360] so to speak.
+- [00:52:24,560 - 00:52:27,650] But we're adding up all of the curvature components of
+- [00:52:27,650 - 00:52:30,740] each of the planes for each of the basis vectors.
+- [00:52:30,820 - 00:52:30,860] Right.
+- [00:52:30,860 - 00:52:30,920] Well,
+- [00:52:30,920 - 00:52:32,940] supposing I chose,
+- [00:52:32,940 - 00:52:34,700] supposing I arbitrarily said,
+- [00:52:35,320 - 00:52:37,650] let's take delta X nu here
+- [00:52:37,650 - 00:52:39,980] to lie along the X axis.
+- [00:52:40,240 - 00:52:40,320] No,
+- [00:52:40,320 - 00:52:40,440] no,
+- [00:52:40,440 - 00:52:42,300] I'm just saying because we're contracting those,
+- [00:52:42,560 - 00:52:44,360] we're adding up all of the
+- [00:52:44,360 - 00:52:46,160] components in all of the different directions.
+- [00:52:46,340 - 00:52:46,480] Right.
+- [00:52:47,500 - 00:52:48,020] Right,
+- [00:52:48,020 - 00:52:48,480] that's right.
+- [00:52:50,160 - 00:52:50,680] Okay,
+- [00:52:50,680 - 00:52:52,420] so that's the Riemann tensor.
+- [00:52:54,580 - 00:52:56,440] If you now use...
+- [00:52:57,160 - 00:52:58,580] Now I don't know any...
+- [00:52:58,580 - 00:52:58,840] Well,
+- [00:52:58,840 - 00:53:01,120] I know some simple ways to
+- [00:53:01,120 - 00:53:03,400] see some of the symmetries of this.
+- [00:53:06,240 - 00:53:06,760] Incidentally,
+- [00:53:06,760 - 00:53:07,860] it is a tensor.
+- [00:53:09,340 - 00:53:11,550] It's made up out of
+- [00:53:11,550 - 00:53:13,760] covariant derivatives of covariant derivatives.
+- [00:53:14,580 - 00:53:17,460] And covariant derivatives are the things which make tensors.
+- [00:53:17,760 - 00:53:20,200] So it is guaranteed to be a tensor.
+- [00:53:21,420 - 00:53:22,420] Since it's a tensor,
+- [00:53:22,440 - 00:53:24,780] I can lower the index alpha if
+- [00:53:24,780 - 00:53:27,120] I like and put all the indices downstairs.
+- [00:53:27,580 - 00:53:28,560] I can do that if I like.
+- [00:53:31,500 - 00:53:33,840] And we just lower the index.
+- [00:53:34,080 - 00:53:35,000] How do we lower indices?
+- [00:53:36,380 - 00:53:36,900] Yeah,
+- [00:53:36,900 - 00:53:37,120] yeah,
+- [00:53:37,120 - 00:53:39,760] by multiplying by the metric or the appropriate way.
+- [00:53:39,980 - 00:53:42,160] And so we can also
+- [00:53:42,160 - 00:53:44,340] write R nu mu alpha beta.
+- [00:53:44,600 - 00:53:45,580] It's a different thing.
+- [00:53:45,620 - 00:53:46,940] It has different values.
+- [00:53:47,760 - 00:53:49,880] But we can get it directly from here.
+- [00:53:50,380 - 00:53:51,100] All right.
+- [00:53:51,100 - 00:53:55,280] It has anti-symmetric indices nu and mu.
+- [00:53:55,840 - 00:53:59,380] It's clearly anti-symmetric under nu mu interchange.
+- [00:54:00,980 - 00:54:02,720] If you interchange nu and mu,
+- [00:54:02,720 - 00:54:03,660] you interchange...
+- [00:54:03,660 - 00:54:04,160] Sorry,
+- [00:54:04,160 - 00:54:05,420] we interchange a term from
+- [00:54:05,420 - 00:54:06,680] here with a term from here.
+- [00:54:07,680 - 00:54:10,940] So it's anti-symmetric if you interchange nu and mu,
+- [00:54:11,080 - 00:54:13,100] keeping alpha and beta fixed.
+- [00:54:14,020 - 00:54:17,120] It also happens to be anti-symmetric.
+- [00:54:17,320 - 00:54:20,520] This is something you can check by direct calculation.
+- [00:54:21,600 - 00:54:25,120] It's also anti-symmetric if you interchange alpha and beta.
+- [00:54:27,220 - 00:54:29,700] You can prove this in a number of ways,
+- [00:54:29,700 - 00:54:30,940] which I'm not going to do.
+- [00:54:31,320 - 00:54:34,590] But one of the ways is
+- [00:54:34,590 - 00:54:37,860] by simply demanding that the vector,
+- [00:54:37,920 - 00:54:39,260] as it's transported around,
+- [00:54:39,260 - 00:54:40,840] doesn't change its length.
+- [00:54:41,880 - 00:54:43,370] That's enough to prove that
+- [00:54:43,370 - 00:54:44,860] it's anti-symmetric with alpha and beta.
+- [00:54:45,000 - 00:54:45,800] I'm not going to prove that.
+- [00:54:45,900 - 00:54:46,940] We've done as much mathematics
+- [00:54:46,940 - 00:54:47,980] as I want to do tonight.
+- [00:54:49,320 - 00:54:50,800] So let me just indicate that.
+- [00:54:51,100 - 00:54:52,280] So I'm going to do this by putting
+- [00:54:52,280 - 00:54:53,460] a little arrow here and a minus sign.
+- [00:54:53,860 - 00:54:56,580] That means that if you interchange mu and nu,
+- [00:54:57,500 - 00:54:59,600] the sign of the Riemann tensor changes.
+- [00:55:00,020 - 00:55:03,400] It's also anti-symmetric with respect to alpha and beta.
+- [00:55:05,280 - 00:55:08,060] And it has the further property that
+- [00:55:08,060 - 00:55:10,840] if I literally pick up mu and nu
+- [00:55:10,840 - 00:55:13,400] and interchange them with alpha and beta,
+- [00:55:13,400 - 00:55:14,840] it's symmetric.
+- [00:55:15,880 - 00:55:19,240] So I'll indicate that by some sort of...
+- [00:55:21,100 - 00:55:21,880] I'll put a plus sign like that.
+- [00:55:23,060 - 00:55:26,440] What this plus sign means is that this is the
+- [00:55:26,440 - 00:55:29,820] same or it's equal to R alpha beta mu nu.
+- [00:55:29,980 - 00:55:30,540] No,
+- [00:55:30,540 - 00:55:30,900] nu mu.
+- [00:55:32,840 - 00:55:33,960] Nu mu.
+- [00:55:35,040 - 00:55:37,200] If I take alpha and beta
+- [00:55:37,200 - 00:55:39,360] and interchange them with nu and mu,
+- [00:55:39,540 - 00:55:40,540] the pair of them,
+- [00:55:40,540 - 00:55:43,080] then nothing changes.
+- [00:55:43,839 - 00:55:45,879] If I interchange a nu and a
+- [00:55:45,879 - 00:55:47,920] mu without changing an alpha and beta,
+- [00:55:48,140 - 00:55:49,340] it changes sign.
+- [00:55:49,340 - 00:55:51,210] And if I interchange an alpha
+- [00:55:51,210 - 00:55:53,080] and beta without interchanging mu and nu,
+- [00:55:53,120 - 00:55:53,760] it changes sign.
+- [00:55:54,320 - 00:55:57,380] So those are the basic properties of the Riemann tensor.
+- [00:55:57,920 - 00:55:59,900] Does it have a sum property?
+- [00:56:01,500 - 00:56:02,040] Probably.
+- [00:56:03,780 - 00:56:04,320] Probably.
+- [00:56:09,520 - 00:56:10,600] Almost undoubtedly.
+- [00:56:11,840 - 00:56:13,380] Everything you want to know about it,
+- [00:56:13,380 - 00:56:13,520] though,
+- [00:56:13,540 - 00:56:16,240] you can find out by plugging in for the gammas
+- [00:56:16,240 - 00:56:19,100] their expression in terms of derivatives,
+- [00:56:19,100 - 00:56:19,810] and then you can find out
+- [00:56:19,810 - 00:56:20,520] what the derivatives of the Gs.
+- [00:56:21,600 - 00:56:22,960] So let's see what it is.
+- [00:56:23,080 - 00:56:23,500] Okay,
+- [00:56:23,500 - 00:56:24,520] let's just get a rough idea.
+- [00:56:25,060 - 00:56:28,000] What kind of things does a gamma have in it?
+- [00:56:28,600 - 00:56:33,140] The gammas have in them first derivatives of the metric.
+- [00:56:34,540 - 00:56:36,860] It also has inverse metrics,
+- [00:56:38,300 - 00:56:39,860] but it contains,
+- [00:56:39,860 - 00:56:41,060] as far as derivatives go,
+- [00:56:41,360 - 00:56:44,410] each gamma is proportional to
+- [00:56:44,410 - 00:56:47,460] a single derivative of a G.
+- [00:56:49,100 - 00:56:50,040] I'll write them out later,
+- [00:56:50,040 - 00:56:52,180] but let's just keep in mind.
+- [00:56:52,380 - 00:56:55,400] That means that these terms
+- [00:56:55,400 - 00:56:58,420] here contain second derivatives of G.
+- [00:57:01,500 - 00:57:06,400] So the Rs have second derivatives of G,
+- [00:57:06,400 - 00:57:07,480] of the metric,
+- [00:57:08,240 - 00:57:11,720] and these terms here are quadratic in first derivatives.
+- [00:57:13,100 - 00:57:15,700] The gamma contains a first derivative.
+- [00:57:15,980 - 00:57:19,080] A gamma times another gamma contains a first derivative.
+- [00:57:19,100 - 00:57:20,560] A first derivative times another first derivative.
+- [00:57:21,180 - 00:57:24,320] So the Rs contain two kinds of terms,
+- [00:57:25,040 - 00:57:27,960] one of them being quadratic in first derivatives,
+- [00:57:28,240 - 00:57:32,600] and the other kind being second derivative of a G.
+- [00:57:32,880 - 00:57:34,720] Second derivatives of G and
+- [00:57:34,720 - 00:57:36,560] quadratic in first derivatives of G.
+- [00:57:37,160 - 00:57:38,860] They always contain two derivatives.
+- [00:57:39,240 - 00:57:41,660] Sometimes the two derivatives act on one G,
+- [00:57:41,900 - 00:57:43,440] giving you second derivatives.
+- [00:57:43,720 - 00:57:46,520] Sometimes it'll be a product of a derivative of G
+- [00:57:46,520 - 00:57:47,960] times another derivative of G.
+- [00:57:49,100 - 00:57:50,160] So this is the character of the Riemann tensor.
+- [00:57:51,700 - 00:57:53,920] It is quadratic in derivatives,
+- [00:57:54,140 - 00:57:56,560] made up out of the Christoffel symbols.
+- [00:57:56,760 - 00:57:58,010] Christoffel symbols are themselves made
+- [00:57:58,010 - 00:57:59,260] up out of the metric.
+- [00:58:00,920 - 00:58:02,280] So if you know the metric
+- [00:58:02,280 - 00:58:03,640] tensor as a function of position,
+- [00:58:04,280 - 00:58:06,960] with a great deal of labor and effort,
+- [00:58:07,140 - 00:58:09,040] you can work out all,
+- [00:58:09,040 - 00:58:11,160] I think it's 24 components,
+- [00:58:11,380 - 00:58:13,580] independent components of the Riemann tensor.
+- [00:58:16,420 - 00:58:18,380] It's only six in three dimensions,
+- [00:58:18,380 - 00:58:20,940] and one in two dimensions.
+- [00:58:21,620 - 00:58:22,260] That's fine.
+- [00:58:22,400 - 00:58:22,840] Yeah.
+- [00:58:23,080 - 00:58:24,610] Skip's waiting for you to divide
+- [00:58:24,610 - 00:58:26,140] both sides of that long line
+- [00:58:26,140 - 00:58:28,230] by dx mu dx mu and get
+- [00:58:28,230 - 00:58:30,320] a mixed partial on the right-hand side.
+- [00:58:30,560 - 00:58:32,620] I think this is the way to express it.
+- [00:58:32,760 - 00:58:34,000] I know you're waiting for me to do that,
+- [00:58:34,080 - 00:58:35,380] but I don't think it's appropriate to do it.
+- [00:58:36,600 - 00:58:38,300] It's not a second derivative of anything.
+- [00:58:38,500 - 00:58:39,340] It is what it is.
+- [00:58:44,100 - 00:58:44,820] All right.
+- [00:58:44,880 - 00:58:45,680] Once now.
+- [00:58:48,360 - 00:58:48,740] As I said,
+- [00:58:48,740 - 00:58:50,920] the basic idea is simple enough.
+- [00:58:52,000 - 00:58:54,630] The equations are rather
+- [00:58:54,630 - 00:58:57,260] complicated and not terribly pretty.
+- [00:58:57,480 - 00:59:02,120] They can be simplified.
+- [00:59:04,120 - 00:59:07,080] I don't think I ever wrote the .
+- [00:59:07,080 - 00:59:07,080] .
+- [00:59:07,080 - 00:59:07,080] .
+- [00:59:11,130 - 00:59:13,280] We can also write in a very simple form.
+- [00:59:13,360 - 00:59:17,980] We can just write that R nu,
+- [00:59:19,440 - 00:59:20,080] mu,
+- [00:59:20,080 - 00:59:22,740] alpha,
+- [00:59:22,740 - 00:59:23,420] beta,
+- [00:59:23,420 - 00:59:24,720] thought of as a matrix.
+- [00:59:25,060 - 00:59:25,700] R,
+- [00:59:25,700 - 00:59:27,740] thought of as a matrix,
+- [00:59:27,860 - 00:59:29,520] so let's suppress its matrix indices,
+- [00:59:30,620 - 00:59:35,540] is just the commutator of two covariant derivatives,
+- [00:59:36,160 - 00:59:37,180] nu and mu.
+- [00:59:38,120 - 00:59:41,080] That's the most elegant way to write the Riemann tensor,
+- [00:59:41,220 - 00:59:42,990] and to remember that each
+- [00:59:42,990 - 00:59:44,760] one of the objects in there
+- [00:59:44,760 - 00:59:46,560] is itself a matrix.
+- [00:59:49,800 - 00:59:50,400] Whatever.
+- [00:59:50,800 - 00:59:51,400] Whatever.
+- [00:59:51,700 - 00:59:51,800] Alpha,
+- [00:59:51,800 - 00:59:52,100] beta.
+- [00:59:55,600 - 00:59:58,380] That's an elegant representation for it,
+- [00:59:58,500 - 01:00:00,740] but when you actually come to calculate,
+- [01:00:02,700 - 01:00:04,640] this is the thing that you are calculating
+- [01:00:04,640 - 01:00:06,240] when you calculate the Riemann tensor.
+- [01:00:07,380 - 01:00:09,270] Now there are some other
+- [01:00:09,270 - 01:00:11,160] tensors that you can make up
+- [01:00:11,160 - 01:00:12,780] out of the Riemann tensor.
+- [01:00:14,480 - 01:00:15,640] The Ricci tensor,
+- [01:00:15,640 - 01:00:18,060] and the scalar curvature.
+- [01:00:18,720 - 01:00:20,000] I'll define them now.
+- [01:00:20,100 - 01:00:22,420] They play a very important role in general relativity.
+- [01:00:25,140 - 01:00:25,700] No.
+- [01:00:26,480 - 01:00:28,060] This is a thing with four indices,
+- [01:00:28,240 - 01:00:29,760] but I've suppressed two of the indices,
+- [01:00:30,080 - 01:00:32,500] and it's anti-symmetric on the mu and nu.
+- [01:00:32,920 - 01:00:33,480] Okay.
+- [01:00:33,480 - 01:00:34,020] Okay,
+- [01:00:34,020 - 01:00:36,520] so it's definitely not the Ricci tensor.
+- [01:00:37,080 - 01:00:38,780] The Ricci tensor .
+- [01:00:38,780 - 01:00:42,020] .
+- [01:00:42,020 - 01:00:42,020] .
+- [01:00:42,020 - 01:00:44,140] Now I could try contracting .
+- [01:00:44,140 - 01:00:45,620] .
+- [01:00:45,620 - 01:00:45,620] .
+- [01:00:45,620 - 01:00:46,980] Let's see what we can make up.
+- [01:01:00,420 - 01:01:04,940] Let's take R mu nu alpha beta.
+- [01:01:08,980 - 01:01:10,020] In fact,
+- [01:01:10,020 - 01:01:11,880] let's take it in that form.
+- [01:01:12,200 - 01:01:14,060] Can I contract mu with nu?
+- [01:01:14,060 - 01:01:15,200] How would I do that?
+- [01:01:15,320 - 01:01:17,020] I would multiply it by g mu nu,
+- [01:01:17,200 - 01:01:18,800] and that would give me a
+- [01:01:18,800 - 01:01:20,400] thing with just an alpha beta index.
+- [01:01:21,360 - 01:01:22,300] This is zero.
+- [01:01:22,500 - 01:01:23,780] Does anybody know why this is zero?
+- [01:01:25,160 - 01:01:27,460] Because R is anti-symmetric,
+- [01:01:27,560 - 01:01:28,780] and g is symmetric.
+- [01:01:29,620 - 01:01:31,840] Whenever you take a symmetric matrix
+- [01:01:31,840 - 01:01:34,260] and contract it with an anti-symmetric matrix,
+- [01:01:34,440 - 01:01:35,800] you'll always get zero.
+- [01:01:36,160 - 01:01:39,120] You get as many positive terms as negative terms,
+- [01:01:40,020 - 01:01:41,540] and so you'll always get zero.
+- [01:01:41,820 - 01:01:44,040] So you can't contract the mu and nu,
+- [01:01:44,040 - 01:01:45,460] and get anything interesting.
+- [01:01:47,060 - 01:01:49,040] Same thing with the alpha beta.
+- [01:01:49,240 - 01:01:51,540] Remember that this matrix is also .
+- [01:01:51,540 - 01:01:51,700] .
+- [01:01:51,700 - 01:01:51,700] .
+- [01:01:51,700 - 01:01:53,620] When everybody is written with lower indices,
+- [01:01:54,280 - 01:01:57,300] it's also anti-symmetric with respect to alpha and beta.
+- [01:01:57,820 - 01:02:01,120] So contracting alpha and beta will also lead to grief.
+- [01:02:01,220 - 01:02:01,840] You'll get nothing.
+- [01:02:03,140 - 01:02:06,060] But if you contract alpha with nu,
+- [01:02:06,060 - 01:02:06,940] for example,
+- [01:02:07,700 - 01:02:10,640] meaning to say you multiply the whole thing .
+- [01:02:10,640 - 01:02:10,640] .
+- [01:02:10,640 - 01:02:10,640] .
+- [01:02:10,640 - 01:02:10,680] Well,
+- [01:02:10,680 - 01:02:12,140] what does it mean?
+- [01:02:12,240 - 01:02:12,660] It means .
+- [01:02:12,660 - 01:02:12,660] .
+- [01:02:12,660 - 01:02:12,660] .
+- [01:02:12,660 - 01:02:13,100] doesn't mean .
+- [01:02:13,100 - 01:02:13,200] .
+- [01:02:13,200 - 01:02:13,200] .
+- [01:02:13,200 - 01:02:20,240] It means you just write R mu alpha alpha beta,
+- [01:02:21,919 - 01:02:24,220] and contract and sum over the alphas.
+- [01:02:24,580 - 01:02:26,940] That gives you a non-zero thing,
+- [01:02:27,060 - 01:02:28,300] which is called the Ricci tensor,
+- [01:02:28,600 - 01:02:30,620] and it's R mu beta.
+- [01:02:34,160 - 01:02:34,940] All right.
+- [01:02:34,960 - 01:02:35,340] It exists.
+- [01:02:35,540 - 01:02:36,180] It's not zero.
+- [01:02:38,400 - 01:02:40,360] And how many components does it .
+- [01:02:40,360 - 01:02:40,360] .
+- [01:02:40,360 - 01:02:40,360] .
+- [01:02:40,360 - 01:02:41,240] It's also symmetric.
+- [01:02:41,240 - 01:02:44,440] The reason it's symmetric is one of the .
+- [01:02:44,440 - 01:02:44,480] .
+- [01:02:44,480 - 01:02:44,480] .
+- [01:02:44,480 - 01:02:46,400] Some of the symmetries of the Riemann tensor .
+- [01:02:46,400 - 01:02:46,400] .
+- [01:02:46,400 - 01:02:46,400] .
+- [01:02:46,400 - 01:02:47,100] It's not hard to show.
+- [01:02:47,260 - 01:02:48,220] You know enough.
+- [01:02:48,280 - 01:02:50,580] I've told you enough to prove that it's symmetric
+- [01:02:50,580 - 01:02:52,220] when you interchange mu and beta.
+- [01:02:53,140 - 01:02:54,480] That is .
+- [01:02:54,480 - 01:02:54,560] .
+- [01:02:54,560 - 01:02:54,560] .
+- [01:02:54,560 - 01:02:55,200] Where is it?
+- [01:02:55,680 - 01:02:57,520] If I bring this alpha downstairs,
+- [01:02:57,520 - 01:02:58,580] alpha beta,
+- [01:02:59,380 - 01:03:02,880] then it's the symmetry under interchanging these two.
+- [01:03:04,900 - 01:03:08,160] The result is that R mu beta is symmetric.
+- [01:03:08,360 - 01:03:10,000] It's equal to R beta mu.
+- [01:03:15,280 - 01:03:18,340] Say again how you contract the Riemann tensor .
+- [01:03:18,340 - 01:03:18,500] .
+- [01:03:18,500 - 01:03:18,500] .
+- [01:03:19,300 - 01:03:20,900] This one and that one.
+- [01:03:27,020 - 01:03:28,760] There's no ambiguity really,
+- [01:03:28,760 - 01:03:29,960] apart from a sign.
+- [01:03:31,180 - 01:03:33,960] If you choose the wrong two to contract,
+- [01:03:34,220 - 01:03:37,760] you'll get zero by anti-symmetry.
+- [01:03:38,740 - 01:03:40,260] If you pick the right one,
+- [01:03:40,260 - 01:03:41,080] they're all the same.
+- [01:03:41,220 - 01:03:42,690] There's enough symmetry to make sure
+- [01:03:42,690 - 01:03:44,160] the answer is always the same.
+- [01:03:45,340 - 01:03:46,180] What would you do?
+- [01:03:46,240 - 01:03:48,420] You'd multiply that by delta?
+- [01:03:50,400 - 01:03:50,800] Well,
+- [01:03:50,800 - 01:03:51,900] if I put the alpha .
+- [01:03:51,900 - 01:03:52,060] .
+- [01:03:52,060 - 01:03:52,500] .
+- [01:03:52,500 - 01:03:52,760] Let's see.
+- [01:03:52,820 - 01:03:54,320] When you change the .
+- [01:03:54,320 - 01:03:54,500] .
+- [01:03:54,500 - 01:03:54,500] .
+- [01:03:54,500 - 01:03:55,760] Do the substitutions,
+- [01:03:55,760 - 01:03:57,200] isn't that the same as Kronecker delta?
+- [01:03:58,600 - 01:03:59,200] Kronecker delta,
+- [01:03:59,200 - 01:03:59,440] yeah.
+- [01:04:00,060 - 01:04:03,480] It's like Kronecker delta alpha mu.
+- [01:04:03,720 - 01:04:04,260] That's right.
+- [01:04:05,680 - 01:04:08,140] Or we could put the alpha index downstairs.
+- [01:04:08,140 - 01:04:13,220] And then just multiply by g nu alpha.
+- [01:04:14,200 - 01:04:15,040] In other words,
+- [01:04:15,040 - 01:04:16,740] we've got to contract these two indices,
+- [01:04:16,740 - 01:04:17,580] nu and alpha.
+- [01:04:17,780 - 01:04:19,520] We can do it in any number of ways.
+- [01:04:19,660 - 01:04:20,480] All the same thing.
+- [01:04:21,020 - 01:04:23,020] And you get a tensor with two indices.
+- [01:04:23,120 - 01:04:24,580] Take any tensor with four indices,
+- [01:04:25,320 - 01:04:27,140] and by contracting the indices,
+- [01:04:27,440 - 01:04:29,720] identifying an upper with a lower,
+- [01:04:30,560 - 01:04:31,620] and then summing,
+- [01:04:31,780 - 01:04:33,860] you remove those two indices,
+- [01:04:34,020 - 01:04:36,160] and you get something with two fewer indices.
+- [01:04:36,160 - 01:04:38,420] So that's r beta mu,
+- [01:04:38,420 - 01:04:40,440] and that's Ricci.
+- [01:04:43,000 - 01:04:44,660] This is Riemann.
+- [01:04:51,920 - 01:04:52,640] Okay.
+- [01:04:53,480 - 01:04:56,620] There's one last tensor that you can make.
+- [01:05:00,660 - 01:05:02,320] And the last tensor .
+- [01:05:02,320 - 01:05:02,320] .
+- [01:05:02,320 - 01:05:02,320] .
+- [01:05:02,320 - 01:05:05,160] Is there some way to differentiate the two different bars
+- [01:05:05,160 - 01:05:06,120] when you write them?
+- [01:05:06,880 - 01:05:07,800] Ricci and Riemann?
+- [01:05:08,500 - 01:05:08,980] Yeah.
+- [01:05:09,080 - 01:05:10,480] You have to put a number of indices.
+- [01:05:10,920 - 01:05:11,420] You just have to.
+- [01:05:11,420 - 01:05:11,940] Okay.
+- [01:05:12,000 - 01:05:12,340] Yeah.
+- [01:05:13,160 - 01:05:14,220] They're both called R,
+- [01:05:14,220 - 01:05:14,820] unfortunately.
+- [01:05:15,440 - 01:05:17,420] And then there's one more thing that's called R.
+- [01:05:17,920 - 01:05:19,420] It's the Ricci scalar.
+- [01:05:20,760 - 01:05:23,740] The Ricci scalar is just gotten by taking .
+- [01:05:23,740 - 01:05:24,100] .
+- [01:05:24,100 - 01:05:24,100] .
+- [01:05:24,220 - 01:05:26,020] Or the curvature scalar.
+- [01:05:26,260 - 01:05:26,540] Sorry.
+- [01:05:26,620 - 01:05:28,430] The curvature scalar is just
+- [01:05:28,430 - 01:05:30,240] gotten by taking the Ricci tensor
+- [01:05:30,240 - 01:05:32,620] and contracting its two indices,
+- [01:05:32,620 - 01:05:36,900] which you do by writing
+- [01:05:36,900 - 01:05:41,180] r beta mu g beta mu.
+- [01:05:42,020 - 01:05:43,540] And that's just called R.
+- [01:05:45,100 - 01:05:46,940] And it's just called the curvature scalar.
+- [01:05:50,020 - 01:05:52,260] If the curvature scalar is not zero,
+- [01:05:52,400 - 01:05:53,340] the space is curved.
+- [01:05:53,720 - 01:05:55,840] But if the curvature scalar is zero,
+- [01:05:55,920 - 01:05:58,660] it doesn't mean that the space is not curved.
+- [01:05:59,360 - 01:06:00,820] Any one of the .
+- [01:06:00,820 - 01:06:02,600] .
+- [01:06:02,600 - 01:06:02,600] .
+- [01:06:02,600 - 01:06:03,780] If it's not zero,
+- [01:06:03,780 - 01:06:05,280] the space is not flat.
+- [01:06:06,100 - 01:06:09,070] But you can have situations
+- [01:06:09,070 - 01:06:12,040] where the curvature scalar is zero,
+- [01:06:13,180 - 01:06:16,560] even though the components of either the Ricci
+- [01:06:16,560 - 01:06:18,200] or the Riemann tensor are not.
+- [01:06:18,700 - 01:06:21,700] So the vanishing .
+- [01:06:21,700 - 01:06:22,060] .
+- [01:06:22,060 - 01:06:22,060] .
+- [01:06:22,060 - 01:06:22,300] Well,
+- [01:06:22,300 - 01:06:22,600] okay.
+- [01:06:22,680 - 01:06:24,120] Let me put it this way.
+- [01:06:24,240 - 01:06:31,600] The vanishing of the curvature scalar is necessary
+- [01:06:31,600 - 01:06:34,100] for a space to be flat.
+- [01:06:35,680 - 01:06:36,640] But it's not .
+- [01:06:36,640 - 01:06:36,820] .
+- [01:06:36,820 - 01:06:36,820] .
+- [01:06:36,820 - 01:06:37,820] When I say vanishing,
+- [01:06:37,820 - 01:06:38,900] I mean vanishing everywhere.
+- [01:06:39,180 - 01:06:40,440] I mean vanishing as a function.
+- [01:06:40,940 - 01:06:42,040] If it vanishes,
+- [01:06:42,040 - 01:06:43,920] that doesn't mean the space is flat.
+- [01:06:44,140 - 01:06:45,420] But if it doesn't vanish,
+- [01:06:45,420 - 01:06:46,640] it means the space .
+- [01:06:46,640 - 01:06:48,000] .
+- [01:06:48,000 - 01:06:48,000] .
+- [01:06:48,000 - 01:06:48,860] Did I say this right?
+- [01:06:49,340 - 01:06:51,580] It is necessary for flatness,
+- [01:06:51,580 - 01:06:52,580] but not sufficient.
+- [01:06:53,600 - 01:06:55,480] Except in two dimensions.
+- [01:06:56,220 - 01:06:57,540] In two dimensions,
+- [01:06:57,540 - 01:06:59,819] there is only one independent component
+- [01:07:00,440 - 01:07:01,580] of the Ricci scalar.
+- [01:07:01,580 - 01:07:02,060] The Riemann tensor.
+- [01:07:02,740 - 01:07:03,920] Easy to prove.
+- [01:07:05,299 - 01:07:08,009] And it can be rewritten
+- [01:07:08,009 - 01:07:10,720] in terms of the scalar curvature.
+- [01:07:11,100 - 01:07:12,640] So in two dimensions,
+- [01:07:12,640 - 01:07:14,760] it's both necessary and sufficient
+- [01:07:15,440 - 01:07:17,040] for a space to be flat,
+- [01:07:17,220 - 01:07:20,580] for the Riemann or for the curvature scalar
+- [01:07:20,580 - 01:07:22,160] to be everywhere as zero.
+- [01:07:22,560 - 01:07:23,120] Yeah?
+- [01:07:23,320 - 01:07:24,760] Would an example of that be a saddle point?
+- [01:07:25,420 - 01:07:27,980] A point of a saddle shape?
+- [01:07:28,300 - 01:07:28,660] Well,
+- [01:07:28,660 - 01:07:29,760] that would not be zero,
+- [01:07:29,760 - 01:07:30,040] yeah.
+- [01:07:30,200 - 01:07:31,020] Not zero.
+- [01:07:31,580 - 01:07:32,800] The scalar would not be zero.
+- [01:07:32,980 - 01:07:33,180] No.
+- [01:07:33,200 - 01:07:33,620] No,
+- [01:07:33,620 - 01:07:34,580] scalar .
+- [01:07:34,580 - 01:07:34,840] .
+- [01:07:34,840 - 01:07:38,680] .
+- [01:07:39,640 - 01:07:41,480] In three dimensions,
+- [01:07:41,480 - 01:07:44,280] it's necessary and sufficient
+- [01:07:44,280 - 01:07:47,200] for the Ricci tensor to be zero
+- [01:07:47,200 - 01:07:49,120] in order to have a flat spacetime.
+- [01:07:49,420 - 01:07:51,400] But in higher than three dimensions,
+- [01:07:52,560 - 01:07:56,100] neither the scalar nor the Ricci tensor by itself
+- [01:07:56,100 - 01:07:58,880] completely determine whether the space is flat.
+- [01:07:59,100 - 01:08:00,120] In principle,
+- [01:08:00,120 - 01:08:00,980] you have to check
+- [01:08:00,980 - 01:08:03,500] every single one of the independent components
+- [01:08:03,500 - 01:08:04,620] of the Riemann tensor
+- [01:08:04,620 - 01:08:06,740] to determine whether a space is flat.
+- [01:08:09,200 - 01:08:11,800] But if all the components of the Riemann tensor
+- [01:08:11,800 - 01:08:12,740] are everywhere zero,
+- [01:08:13,060 - 01:08:14,420] the space is flat.
+- [01:08:15,040 - 01:08:15,600] Now,
+- [01:08:15,600 - 01:08:16,319] I haven't proved that,
+- [01:08:16,420 - 01:08:17,180] but that is a theorem.
+- [01:08:17,540 - 01:08:18,680] That is a theorem.
+- [01:08:21,580 - 01:08:25,240] So in a great circle on a sphere,
+- [01:08:25,340 - 01:08:26,920] you would have flat space?
+- [01:08:27,279 - 01:08:27,600] No.
+- [01:08:28,899 - 01:08:29,840] That's only .
+- [01:08:29,840 - 01:08:29,859] .
+- [01:08:29,859 - 01:08:29,859] .
+- [01:08:29,859 - 01:08:30,760] No,
+- [01:08:30,760 - 01:08:30,960] there's no .
+- [01:08:30,960 - 01:08:30,960] .
+- [01:08:30,960 - 01:08:30,960] .
+- [01:08:30,960 - 01:08:31,279] Remember,
+- [01:08:31,279 - 01:08:33,760] the Riemann curvature
+- [01:08:33,760 - 01:08:34,899] or any of these curvatures
+- [01:08:34,899 - 01:08:36,600] has to do with small little loops.
+- [01:08:36,660 - 01:08:38,439] What happens when you go around small little loops?
+- [01:08:39,040 - 01:08:40,200] In other words,
+- [01:08:40,200 - 01:08:41,279] the statement is
+- [01:08:41,960 - 01:08:44,200] if the Riemann tensor is .
+- [01:08:44,200 - 01:08:44,279] .
+- [01:08:44,279 - 01:08:44,279] .
+- [01:08:44,279 - 01:08:48,240] if the scalar curvature is zero,
+- [01:08:48,479 - 01:08:51,020] then any little loop that you go around,
+- [01:08:51,319 - 01:08:52,899] the vector will come back to itself.
+- [01:08:53,359 - 01:08:56,660] I think he's confusing you with the geodesic.
+- [01:08:56,819 - 01:08:57,180] Yeah,
+- [01:08:57,180 - 01:08:57,720] that's a point.
+- [01:08:57,979 - 01:08:58,819] And actually,
+- [01:08:58,819 - 01:09:01,520] if you go around the Arctic Circle,
+- [01:09:01,680 - 01:09:03,100] that is not a geodesic.
+- [01:09:03,180 - 01:09:03,380] No,
+- [01:09:03,380 - 01:09:03,560] no,
+- [01:09:03,560 - 01:09:03,779] no,
+- [01:09:03,779 - 01:09:04,520] definitely not.
+- [01:09:05,240 - 01:09:05,720] That's right.
+- [01:09:05,800 - 01:09:07,120] If you go around the Arctic Circle
+- [01:09:07,120 - 01:09:09,540] at 10 degrees around the Arctic Circle,
+- [01:09:09,640 - 01:09:10,760] that is not a geodesic.
+- [01:09:12,260 - 01:09:13,309] I'm not sure if that's
+- [01:09:13,309 - 01:09:14,359] what the confusion was or not.
+- [01:09:14,500 - 01:09:16,340] That is not a geodesic.
+- [01:09:20,040 - 01:09:22,080] There's great circles which are geodesics.
+- [01:09:24,300 - 01:09:24,700] Okay,
+- [01:09:24,700 - 01:09:26,220] so now we know a great deal
+- [01:09:26,220 - 01:09:27,800] about what curvature is.
+- [01:09:29,700 - 01:09:33,060] Keep in mind that curvature does not have to do
+- [01:09:33,060 - 01:09:36,439] with the way the thing is embedded in space.
+- [01:09:36,740 - 01:09:37,060] I mean,
+- [01:09:37,060 - 01:09:37,600] for example,
+- [01:09:37,600 - 01:09:39,120] this piece of paper
+- [01:09:40,560 - 01:09:42,060] has zero curvature,
+- [01:09:42,060 - 01:09:43,439] whether you do this to it,
+- [01:09:43,500 - 01:09:44,140] that to it,
+- [01:09:44,140 - 01:09:44,880] this to it,
+- [01:09:44,880 - 01:09:45,520] that to it,
+- [01:09:45,560 - 01:09:46,919] or any other kind of bending
+- [01:09:46,919 - 01:09:48,279] that you can do to it.
+- [01:09:48,779 - 01:09:51,720] The intrinsic properties of the space,
+- [01:09:51,979 - 01:09:54,960] the properties that are felt by that tiny little bug
+- [01:09:54,960 - 01:09:56,780] that can only walk on the space
+- [01:09:56,780 - 01:09:58,800] and can only feel as well as it can,
+- [01:09:58,820 - 01:09:59,540] if you bend it all the
+- [01:09:59,540 - 01:10:00,260] way around on the space itself,
+- [01:10:00,560 - 01:10:03,400] those properties don't depend on the way
+- [01:10:03,400 - 01:10:05,760] that it's embedded in a higher dimensional space.
+- [01:10:06,360 - 01:10:09,740] The properties of how it's embedded
+- [01:10:09,740 - 01:10:11,940] are called extrinsic properties.
+- [01:10:12,460 - 01:10:16,200] So if I press this down on here,
+- [01:10:16,360 - 01:10:19,040] it has zero intrinsic curvature.
+- [01:10:19,400 - 01:10:21,940] It also has zero extrinsic curvature.
+- [01:10:22,360 - 01:10:24,160] If I bend it up like that,
+- [01:10:24,340 - 01:10:27,680] it now has zero intrinsic curvature,
+- [01:10:27,680 - 01:10:30,700] but non-zero extrinsic curvature.
+- [01:10:31,080 - 01:10:34,100] So don't confuse those two concepts.
+- [01:10:34,420 - 01:10:35,720] And at the moment,
+- [01:10:35,720 - 01:10:36,860] we're only interested
+- [01:10:36,860 - 01:10:39,240] in intrinsic properties of the space,
+- [01:10:39,440 - 01:10:42,180] what we can feel moving in our own spacetime.
+- [01:10:44,340 - 01:10:45,040] Okay,
+- [01:10:45,040 - 01:10:45,540] so that,
+- [01:10:45,540 - 01:10:46,040] I think,
+- [01:10:46,040 - 01:10:49,980] is curvature.
+- [01:10:51,220 - 01:10:56,500] Now I want to come to motion of particles,
+- [01:10:56,500 - 01:10:58,400] slow particles in particular.
+- [01:10:59,210 - 01:11:00,180] What we want to do,
+- [01:11:00,180 - 01:11:01,420] I'll tell you right now,
+- [01:11:01,520 - 01:11:03,540] the Riemann tensor,
+- [01:11:03,540 - 01:11:04,160] of course,
+- [01:11:04,260 - 01:11:06,400] and its various friends here,
+- [01:11:06,500 - 01:11:07,760] are the gravitational field.
+- [01:11:09,040 - 01:11:12,360] And we're going to want to find
+- [01:11:12,360 - 01:11:16,640] the approximate connection between these things
+- [01:11:16,640 - 01:11:20,020] and the easier to think about Newtonian approximation.
+- [01:11:20,920 - 01:11:23,160] How are these objects connected
+- [01:11:23,160 - 01:11:26,020] to the things that Newton would have understood
+- [01:11:26,020 - 01:11:27,580] as the gravitational field?
+- [01:11:28,300 - 01:11:32,040] I don't think Newton ever really defined the field concept,
+- [01:11:32,300 - 01:11:34,800] but we could have easily explained it to him.
+- [01:11:37,860 - 01:11:39,420] As the field of acceleration,
+- [01:11:40,320 - 01:11:42,920] as we move around in space with a point mass
+- [01:11:42,920 - 01:11:46,400] and see what its acceleration is,
+- [01:11:47,080 - 01:11:49,800] that acceleration defines a vector field
+- [01:11:49,800 - 01:11:51,080] at every point in space,
+- [01:11:51,900 - 01:11:54,140] and that's what we would call the gravitational field.
+- [01:11:54,140 - 01:11:55,520] And the question is,
+- [01:11:55,520 - 01:11:56,580] how is it connected
+- [01:11:56,580 - 01:11:57,520] to these much,
+- [01:11:57,520 - 01:11:59,260] much more complicated objects here?
+- [01:12:01,160 - 01:12:01,920] All right,
+- [01:12:01,920 - 01:12:03,640] the first step
+- [01:12:04,759 - 01:12:10,300] is to understand acceleration along geodesics.
+- [01:12:10,480 - 01:12:12,980] What's the idea of acceleration along geodesics?
+- [01:12:13,100 - 01:12:13,260] Now,
+- [01:12:13,260 - 01:12:15,360] a geodesic is the straightest possible path.
+- [01:12:16,240 - 01:12:18,720] The straightest possible path in spacetime,
+- [01:12:19,020 - 01:12:20,340] if there's no curvature,
+- [01:12:20,720 - 01:12:21,320] is,
+- [01:12:21,320 - 01:12:21,660] of course,
+- [01:12:21,660 - 01:12:22,300] a straight line.
+- [01:12:22,300 - 01:12:25,820] Straight line means unaccelerated,
+- [01:12:25,820 - 01:12:26,780] uniform motion,
+- [01:12:28,000 - 01:12:29,160] no acceleration.
+- [01:12:29,860 - 01:12:31,520] But in curved spacetime,
+- [01:12:31,840 - 01:12:34,500] there's just no concept
+- [01:12:34,500 - 01:12:38,160] which is quite equivalent to a perfect straight line,
+- [01:12:38,420 - 01:12:39,960] and no matter what we do,
+- [01:12:40,060 - 01:12:42,080] we will find the concept of acceleration
+- [01:12:42,080 - 01:12:43,940] in a curved spacetime,
+- [01:12:44,240 - 01:12:48,060] and that's what gets related to the Newton force law.
+- [01:12:48,860 - 01:12:49,460] Okay,
+- [01:12:49,460 - 01:12:50,600] but let's go back now.
+- [01:12:50,780 - 01:12:52,280] I think we did a bit of this last time.
+- [01:12:52,300 - 01:12:54,140] But I want to go through it more carefully now.
+- [01:12:56,380 - 01:12:58,380] I want to talk only now
+- [01:12:58,380 - 01:13:00,560] about things which are moving slowly.
+- [01:13:02,020 - 01:13:04,740] We're going to restrict ourselves for a little bit
+- [01:13:04,740 - 01:13:06,320] to things which are moving slowly.
+- [01:13:07,139 - 01:13:08,340] And furthermore,
+- [01:13:08,340 - 01:13:09,660] they're moving slowly
+- [01:13:09,660 - 01:13:11,300] in a gravitational field
+- [01:13:11,300 - 01:13:13,180] which is not so strong
+- [01:13:13,900 - 01:13:16,660] that the Newtonian approximation breaks down.
+- [01:13:16,940 - 01:13:18,540] Can you think of a gravitational field
+- [01:13:18,540 - 01:13:19,800] where the Newtonian approximation
+- [01:13:19,800 - 01:13:21,340] really breaks down badly?
+- [01:13:21,700 - 01:13:22,280] Level of gravity.
+- [01:13:22,300 - 01:13:22,620] Sure,
+- [01:13:22,620 - 01:13:23,160] a black hole.
+- [01:13:23,480 - 01:13:26,040] Or the expansion of the universe or whatever.
+- [01:13:26,420 - 01:13:30,340] So if we're thinking about the kinds of gravitational fields
+- [01:13:31,099 - 01:13:33,149] which are made up out of
+- [01:13:33,149 - 01:13:35,200] planets and stars and so forth
+- [01:13:35,200 - 01:13:37,360] for which the Newtonian approximation is good,
+- [01:13:37,960 - 01:13:41,260] then general relativity should reduce to Newtonian physics.
+- [01:13:41,920 - 01:13:43,880] We should have an F equals mA,
+- [01:13:43,960 - 01:13:45,940] and we should have a force law
+- [01:13:45,940 - 01:13:47,460] which we recognize as Newton.
+- [01:13:48,120 - 01:13:51,480] So let's first begin with the F equals mA idea.
+- [01:13:56,459 - 01:13:58,860] And let's just think about the acceleration
+- [01:13:58,860 - 01:14:01,360] of a particle moving on a geodesic.
+- [01:14:01,720 - 01:14:04,280] The rule of general relativity is very simple.
+- [01:14:05,120 - 01:14:08,340] Particles move along geodesics in space-time.
+- [01:14:08,860 - 01:14:10,540] It's a marvelously simple rule,
+- [01:14:10,680 - 01:14:12,480] a lot simpler than anything Newton could have said.
+- [01:14:12,680 - 01:14:14,040] They just go as straight
+- [01:14:14,040 - 01:14:15,400] ahead as they can in space-time.
+- [01:14:16,120 - 01:14:16,460] All right,
+- [01:14:16,460 - 01:14:17,480] what's the equation for that?
+- [01:14:17,880 - 01:14:19,519] Here's the equation for a geodesic.
+- [01:14:20,300 - 01:14:21,460] It's just that the temperature of the geodesic
+- [01:14:21,480 - 01:14:23,820] The tangent vector is covariantly constant
+- [01:14:23,820 - 01:14:25,020] along the trajectory.
+- [01:14:26,020 - 01:14:29,150] It's just d second x
+- [01:14:29,150 - 01:14:32,280] by d tau squared x mu.
+- [01:14:32,620 - 01:14:35,220] Tau is proper time along the trajectory.
+- [01:14:38,180 - 01:14:41,210] d tau squared is equal to
+- [01:14:41,210 - 01:14:44,240] g mu nu dx mu dx nu.
+- [01:14:45,380 - 01:14:46,760] That's d tau squared.
+- [01:14:47,040 - 01:14:48,120] Take a square root,
+- [01:14:48,120 - 01:14:49,400] and it becomes d tau.
+- [01:14:50,660 - 01:14:51,460] That's a long time.
+- [01:14:51,460 - 01:14:51,840] It's a long trajectory.
+- [01:14:54,219 - 01:14:56,139] And the second derivative of
+- [01:14:56,139 - 01:14:58,060] x with respect to tau squared
+- [01:15:01,400 - 01:15:02,680] plus gamma.
+- [01:15:05,220 - 01:15:05,660] Let's see,
+- [01:15:05,660 - 01:15:06,320] what do I have here?
+- [01:15:06,420 - 01:15:12,130] Sigma lambda mu dx sigma by
+- [01:15:12,130 - 01:15:17,840] d tau dx lambda by d tau.
+- [01:15:19,360 - 01:15:25,700] This is the covariant derivative of the tangent vector.
+- [01:15:26,040 - 01:15:27,560] Remember what the tangent vector is.
+- [01:15:27,640 - 01:15:30,030] The tangent vector is the vector whose
+- [01:15:30,030 - 01:15:32,420] components are dx mu by d tau.
+- [01:15:33,980 - 01:15:35,460] That's the tangent vector.
+- [01:15:37,500 - 01:15:38,340] All right,
+- [01:15:38,340 - 01:15:40,080] then we take the tangent vector
+- [01:15:41,280 - 01:15:43,700] and covariantly differentiate it
+- [01:15:43,700 - 01:15:46,120] along the trajectory itself.
+- [01:15:47,219 - 01:15:49,240] If this is equal to zero,
+- [01:15:51,780 - 01:15:53,360] everywhere along the trajectory,
+- [01:15:53,480 - 01:15:55,160] then the trajectory is a geodesic.
+- [01:15:56,040 - 01:15:58,220] Or another way of saying it
+- [01:15:58,220 - 01:16:00,400] is this becomes the equation of motion
+- [01:16:00,400 - 01:16:03,840] for a particle moving in a gravitational field
+- [01:16:03,840 - 01:16:06,460] or moving in a space-time metric.
+- [01:16:08,820 - 01:16:09,560] All right,
+- [01:16:09,560 - 01:16:13,320] now let's imagine a frame of reference.
+- [01:16:13,480 - 01:16:15,240] Let's suppose there's a frame of reference
+- [01:16:15,240 - 01:16:19,040] in which everything that we're interested in
+- [01:16:19,040 - 01:16:22,180] is moving slowly by comparison with the speed of light.
+- [01:16:22,660 - 01:16:25,860] And everything is changing in time slowly.
+- [01:16:25,940 - 01:16:27,140] Nothing is very,
+- [01:16:27,140 - 01:16:28,980] very rapidly changing in time.
+- [01:16:29,260 - 01:16:33,100] That's the condition for Newton to be approximately correct.
+- [01:16:33,880 - 01:16:34,620] All right,
+- [01:16:34,620 - 01:16:35,500] first of all,
+- [01:16:35,500 - 01:16:36,340] what's the connection
+- [01:16:36,340 - 01:16:39,000] if a trajectory is moving slowly?
+- [01:16:39,600 - 01:16:42,260] That means in some frame of reference,
+- [01:16:42,360 - 01:16:44,060] it's moving practically vertically.
+- [01:16:46,700 - 01:16:48,780] What is the connection then?
+- [01:16:53,380 - 01:16:57,280] What's the connection then between tau along the trajectory
+- [01:16:57,280 - 01:16:58,720] and ordinary time?
+- [01:17:00,460 - 01:17:01,100] Yeah,
+- [01:17:01,100 - 01:17:01,620] okay,
+- [01:17:01,620 - 01:17:03,580] there's an assumption involved there,
+- [01:17:03,640 - 01:17:04,820] and I'll tell you what the assumption is.
+- [01:17:05,200 - 01:17:08,620] The assumption that's involved is that g mu nu
+- [01:17:08,620 - 01:17:11,620] is almost equal to delta mu nu.
+- [01:17:11,700 - 01:17:11,880] Oh,
+- [01:17:11,880 - 01:17:12,160] sorry.
+- [01:17:12,160 - 01:17:15,880] It's almost equal to eta mu nu.
+- [01:17:16,120 - 01:17:17,580] Remember what eta mu nu is?
+- [01:17:18,820 - 01:17:20,800] It's the metric of special relativity.
+- [01:17:22,220 - 01:17:22,920] All right,
+- [01:17:22,920 - 01:17:24,780] so there are two assumptions.
+- [01:17:25,180 - 01:17:27,440] One is that there is a frame of reference
+- [01:17:27,440 - 01:17:29,420] in which everything is moving slowly
+- [01:17:29,420 - 01:17:30,940] and everything is changing slowly.
+- [01:17:31,980 - 01:17:33,700] And we'll work in that frame of reference.
+- [01:17:34,040 - 01:17:37,820] And the other is that the gravitational field is weak.
+- [01:17:38,120 - 01:17:40,660] To say that the gravitational field is weak
+- [01:17:40,660 - 01:17:43,090] is to say that g mu
+- [01:17:43,090 - 01:17:45,520] nu is equal to eta mu nu
+- [01:17:45,520 - 01:17:47,180] plus a small correction,
+- [01:17:47,880 - 01:17:51,260] that the correction to flat spacetime is small.
+- [01:17:53,160 - 01:17:53,840] Okay,
+- [01:17:53,840 - 01:17:55,160] let's make that assumption.
+- [01:17:55,480 - 01:17:56,100] Now,
+- [01:17:56,100 - 01:17:56,860] with that assumption,
+- [01:17:56,860 - 01:17:59,400] things moving slowly,
+- [01:17:59,540 - 01:18:04,660] and the metric approximately of the Minkowski kind,
+- [01:18:05,620 - 01:18:08,640] then it is true that x naught,
+- [01:18:08,640 - 01:18:11,180] which can also be called t,
+- [01:18:14,760 - 01:18:17,160] is the same as tau along a trajectory.
+- [01:18:19,400 - 01:18:19,940] Again,
+- [01:18:19,940 - 01:18:21,220] I've set c equal to 1,
+- [01:18:21,460 - 01:18:25,680] so you can put back the c's.
+- [01:18:25,800 - 01:18:26,520] They're worth putting back.
+- [01:18:27,640 - 01:18:30,360] But that in particular says that
+- [01:18:31,600 - 01:18:33,900] the x naught by d tau
+- [01:18:35,580 - 01:18:37,040] is equal to 1
+- [01:18:37,040 - 01:18:37,980] plus tiny,
+- [01:18:37,980 - 01:18:38,940] tiny corrections.
+- [01:18:40,720 - 01:18:43,920] Corrections which are small
+- [01:18:44,800 - 01:18:46,820] when things are moving slowly
+- [01:18:46,820 - 01:18:48,460] compared to the speed of light.
+- [01:18:48,640 - 01:18:49,970] And if the x by d
+- [01:18:49,970 - 01:18:51,300] tau is always equal to 1,
+- [01:18:51,480 - 01:18:52,850] if the x naught by d
+- [01:18:52,850 - 01:18:54,220] tau is always equal to 1,
+- [01:18:54,400 - 01:18:56,480] then the second derivative of x naught
+- [01:18:56,480 - 01:18:57,780] with respect to tau squared
+- [01:18:57,780 - 01:18:58,980] is always going to be very small.
+- [01:18:59,900 - 01:19:01,380] So we don't have to worry about that.
+- [01:19:01,520 - 01:19:04,280] That's not something we have to worry about,
+- [01:19:04,400 - 01:19:06,900] the time component of x.
+- [01:19:07,040 - 01:19:09,140] It's the space components of x
+- [01:19:09,140 - 01:19:10,220] that we want to deal with.
+- [01:19:11,060 - 01:19:11,300] Alright,
+- [01:19:11,300 - 01:19:13,940] so once we say that tau is close to t,
+- [01:19:14,160 - 01:19:16,100] to within very small quantities,
+- [01:19:16,780 - 01:19:19,880] we could pick out one spatial component of x.
+- [01:19:20,100 - 01:19:21,360] Which one should we pick out?
+- [01:19:21,420 - 01:19:22,400] Let's just pick out x.
+- [01:19:22,720 - 01:19:23,520] x itself,
+- [01:19:23,520 - 01:19:25,000] x as in x,
+- [01:19:25,000 - 01:19:25,280] y,
+- [01:19:25,280 - 01:19:25,600] and z.
+- [01:19:26,520 - 01:19:27,700] Let's pick out x.
+- [01:19:28,200 - 01:19:31,720] d second x by d tau squared
+- [01:19:31,720 - 01:19:33,720] is the same as d
+- [01:19:33,720 - 01:19:35,720] second x by d t squared.
+- [01:19:37,520 - 01:19:41,160] Also known as the x component of acceleration.
+- [01:19:42,220 - 01:19:43,120] Alright,
+- [01:19:43,120 - 01:19:45,080] so the first thing is
+- [01:19:45,080 - 01:19:48,160] in a frame in which everything is moving slowly,
+- [01:19:49,040 - 01:19:51,460] and in which the gravitational field
+- [01:19:51,670 - 01:19:55,520] is practically small,
+- [01:19:56,020 - 01:20:04,280] small means close to the standard Minkowski metric.
+- [01:20:04,540 - 01:20:05,920] In that case,
+- [01:20:05,920 - 01:20:08,280] this term in the equation
+- [01:20:08,280 - 01:20:10,780] is nothing but ordinary acceleration.
+- [01:20:12,120 - 01:20:13,240] In this case,
+- [01:20:13,240 - 01:20:14,180] along the x axis.
+- [01:20:14,500 - 01:20:17,020] A similar one for y and z.
+- [01:20:20,860 - 01:20:21,500] Plus,
+- [01:20:21,500 - 01:20:22,980] now what appears here,
+- [01:20:23,080 - 01:20:24,140] since this is acceleration,
+- [01:20:24,640 - 01:20:26,740] what appears here must be associated
+- [01:20:26,740 - 01:20:28,280] with gravitational force.
+- [01:20:29,080 - 01:20:31,080] We might want to multiply by M,
+- [01:20:31,220 - 01:20:31,880] but we don't,
+- [01:20:31,880 - 01:20:32,980] let's not bother.
+- [01:20:33,620 - 01:20:33,940] Uh,
+- [01:20:36,480 - 01:20:37,780] here's the acceleration,
+- [01:20:38,120 - 01:20:39,350] and so it's related by a
+- [01:20:39,350 - 01:20:40,580] factor of M to the force,
+- [01:20:40,660 - 01:20:41,640] but let's look at it for a minute.
+- [01:20:43,240 - 01:20:45,000] d x by d tau,
+- [01:20:45,260 - 01:20:48,280] if we pick out a space component of x,
+- [01:20:48,700 - 01:20:50,760] d x by d tau is small.
+- [01:20:51,340 - 01:20:52,200] Very small.
+- [01:20:52,200 - 01:20:52,960] Why is it small?
+- [01:20:54,960 - 01:20:56,140] Because by assumption,
+- [01:20:56,340 - 01:20:57,920] we're working in a frame of reference
+- [01:20:57,920 - 01:20:59,620] where everybody is moving very slowly.
+- [01:21:00,380 - 01:21:01,900] Moving slowly means
+- [01:21:01,900 - 01:21:04,700] d x by d tau is small,
+- [01:21:04,700 - 01:21:06,480] d y by d tau is small,
+- [01:21:06,620 - 01:21:08,380] and d z by d tau is small.
+- [01:21:09,100 - 01:21:12,720] The only components of the four velocity
+- [01:21:12,720 - 01:21:13,840] which are large,
+- [01:21:14,060 - 01:21:15,980] there's only one component of the four velocity
+- [01:21:15,980 - 01:21:16,840] which is large,
+- [01:21:17,600 - 01:21:20,140] and that's d x naught by d tau.
+- [01:21:20,560 - 01:21:22,520] How big is d x naught by d tau?
+- [01:21:22,840 - 01:21:23,160] One.
+- [01:21:24,340 - 01:21:25,940] So to a good approximation,
+- [01:21:26,660 - 01:21:28,600] the only thing which is here
+- [01:21:28,600 - 01:21:32,720] is gamma zero zero mu
+- [01:21:34,320 - 01:21:36,560] d x naught by d tau,
+- [01:21:36,800 - 01:21:37,820] but that's just one,
+- [01:21:37,980 - 01:21:39,880] d x naught by d tau.
+- [01:21:40,540 - 01:21:41,640] There is no mu.
+- [01:21:42,280 - 01:21:43,600] There is no mu.
+- [01:21:43,800 - 01:21:44,700] There is no mu?
+- [01:21:44,980 - 01:21:46,220] There is zero mu.
+- [01:21:46,920 - 01:21:47,400] Yeah,
+- [01:21:47,400 - 01:21:47,820] yeah,
+- [01:21:47,820 - 01:21:47,960] yeah,
+- [01:21:47,960 - 01:21:48,240] good.
+- [01:21:48,940 - 01:21:51,120] I was just about to do that,
+- [01:21:51,120 - 01:21:51,360] right?
+- [01:21:52,280 - 01:21:52,760] Yeah.
+- [01:21:53,260 - 01:21:53,740] Anyway,
+- [01:21:53,740 - 01:21:54,660] these are one,
+- [01:21:55,860 - 01:21:57,920] and now this is just x,
+- [01:21:58,720 - 01:21:59,680] or one,
+- [01:21:59,680 - 01:22:00,740] depending on
+- [01:22:01,300 - 01:22:02,700] how you like to take it.
+- [01:22:02,720 - 01:22:02,900] So this is a combination.
+- [01:22:04,460 - 01:22:06,220] x is the first component of x,
+- [01:22:06,220 - 01:22:06,440] y,
+- [01:22:06,440 - 01:22:06,720] and z,
+- [01:22:06,880 - 01:22:08,340] so this can either be one or x.
+- [01:22:08,920 - 01:22:10,360] So what have we found out?
+- [01:22:10,420 - 01:22:13,140] We found out that apart from a minus sign,
+- [01:22:13,980 - 01:22:14,900] equals minus,
+- [01:22:15,799 - 01:22:18,300] that this is the field of acceleration.
+- [01:22:18,960 - 01:22:20,280] The Christoffel symbol,
+- [01:22:20,560 - 01:22:23,000] but in particular the Christoffel symbol
+- [01:22:23,000 - 01:22:24,520] with two zeros downstairs,
+- [01:22:25,919 - 01:22:27,920] and an x upstairs,
+- [01:22:28,959 - 01:22:31,860] is the x component of acceleration.
+- [01:22:32,180 - 01:22:32,700] Let's look at it.
+- [01:22:32,720 - 01:22:33,660] It's got a minus sign in there.
+- [01:22:34,300 - 01:22:35,640] Let's write that out.
+- [01:22:35,980 - 01:22:37,260] Let's write it out,
+- [01:22:40,220 - 01:22:41,700] taking into account
+- [01:22:42,490 - 01:22:43,760] some approximations.
+- [01:22:45,600 - 01:22:46,740] First of all,
+- [01:22:46,760 - 01:22:48,340] what is this
+- [01:22:48,340 - 01:22:50,780] gamma x zero zero?
+- [01:22:51,260 - 01:22:52,820] We're going to assume now
+- [01:22:52,820 - 01:22:53,400] that
+- [01:22:53,400 - 01:22:55,560] g mu nu
+- [01:22:56,660 - 01:22:58,720] is equal to eta mu nu
+- [01:22:58,720 - 01:23:00,750] plus small correction.
+- [01:23:02,040 - 01:23:02,700] So,
+- [01:23:02,720 - 01:23:04,720] that also means that
+- [01:23:04,720 - 01:23:05,960] g super mu nu
+- [01:23:06,720 - 01:23:08,260] is eta super mu nu,
+- [01:23:08,380 - 01:23:10,140] which is the same symbol,
+- [01:23:10,500 - 01:23:12,340] plus small corrections.
+- [01:23:15,600 - 01:23:16,280] Okay,
+- [01:23:16,280 - 01:23:16,500] so
+- [01:23:16,500 - 01:23:18,960] let's write out what this gamma symbol is.
+- [01:23:21,640 - 01:23:22,800] It's equal to
+- [01:23:22,800 - 01:23:24,300] g x x
+- [01:23:24,300 - 01:23:26,140] with upstairs x's
+- [01:23:29,560 - 01:23:31,120] minus one half
+- [01:23:32,460 - 01:23:33,580] times
+- [01:23:33,580 - 01:23:35,980] the derivative of
+- [01:23:35,980 - 01:23:38,800] g x zero
+- [01:23:40,920 - 01:23:44,240] with respect to x naught
+- [01:23:45,660 - 01:23:47,840] plus the derivative of
+- [01:23:47,840 - 01:23:49,700] g x zero x
+- [01:23:49,700 - 01:23:52,260] with respect to x naught
+- [01:23:52,260 - 01:23:54,000] minus
+- [01:23:54,000 - 01:23:55,740] the derivative of
+- [01:23:56,140 - 01:23:57,320] g naught naught
+- [01:23:58,139 - 01:23:59,700] with respect to x.
+- [01:24:02,620 - 01:24:03,220] Alright.
+- [01:24:09,260 - 01:24:10,820] That's basically what it is.
+- [01:24:11,060 - 01:24:12,580] What I'm doing is
+- [01:24:12,580 - 01:24:14,580] I'm using for g out here
+- [01:24:16,580 - 01:24:17,560] just eta.
+- [01:24:18,080 - 01:24:19,860] Why don't I keep the corrections,
+- [01:24:20,120 - 01:24:20,580] the small,
+- [01:24:20,620 - 01:24:21,080] alright,
+- [01:24:21,180 - 01:24:23,660] I'm not going to keep the small corrections
+- [01:24:23,660 - 01:24:24,380] to g
+- [01:24:24,380 - 01:24:26,040] in this expression,
+- [01:24:26,080 - 01:24:26,120] because I'm going to keep the small corrections
+- [01:24:26,140 - 01:24:26,500] in and out here.
+- [01:24:26,720 - 01:24:27,520] Why not?
+- [01:24:28,940 - 01:24:30,220] Because it's second order.
+- [01:24:31,280 - 01:24:31,880] Obviously,
+- [01:24:31,880 - 01:24:33,220] this is proportional
+- [01:24:33,220 - 01:24:34,220] to the corrections.
+- [01:24:34,840 - 01:24:36,780] If there are small corrections,
+- [01:24:37,180 - 01:24:39,680] this will be proportional to the corrections.
+- [01:24:39,920 - 01:24:40,180] Why?
+- [01:24:40,700 - 01:24:42,620] Because when you differentiate g,
+- [01:24:42,920 - 01:24:45,440] you get nothing from the big term in g
+- [01:24:45,440 - 01:24:47,400] and you only get contributions
+- [01:24:47,400 - 01:24:48,660] from the small term.
+- [01:24:49,320 - 01:24:51,240] So this here is already
+- [01:24:51,240 - 01:24:53,040] first order in small things.
+- [01:24:53,760 - 01:24:54,360] Alright.
+- [01:24:56,140 - 01:24:58,260] The only things which are first order in small things,
+- [01:24:58,520 - 01:25:00,460] I don't want to write the corrections
+- [01:25:01,060 - 01:25:02,080] to g here.
+- [01:25:02,420 - 01:25:03,740] This just becomes eta,
+- [01:25:03,760 - 01:25:05,380] this just becomes eta
+- [01:25:05,860 - 01:25:06,340] xx,
+- [01:25:06,340 - 01:25:07,680] and what is eta xx?
+- [01:25:07,780 - 01:25:08,620] The xx compo-
+- [01:25:09,400 - 01:25:10,360] You fail.
+- [01:25:10,940 - 01:25:11,720] Who was it?
+- [01:25:14,820 - 01:25:15,660] You get a d.
+- [01:25:17,060 - 01:25:18,240] What is eta xx?
+- [01:25:19,920 - 01:25:20,520] Minus one.
+- [01:25:23,680 - 01:25:24,160] Remember,
+- [01:25:24,160 - 01:25:26,000] it's dt squared minus dx squared.
+- [01:25:27,420 - 01:25:27,900] Alright.
+- [01:25:28,100 - 01:25:28,580] So,
+- [01:25:31,760 - 01:25:33,480] we've got to keep our signs correct.
+- [01:25:33,740 - 01:25:34,840] I'm going to lose the sign.
+- [01:25:34,940 - 01:25:35,840] I'm sure I'll lose the sign.
+- [01:25:35,980 - 01:25:36,240] Let's see,
+- [01:25:36,240 - 01:25:37,940] since I've got a minus here,
+- [01:25:38,060 - 01:25:39,860] I probably want another minus here.
+- [01:25:42,040 - 01:25:43,840] But eta xx is minus.
+- [01:25:46,320 - 01:25:47,770] I know that my sign
+- [01:25:47,770 - 01:25:49,220] is going to come out wrong.
+- [01:25:49,840 - 01:25:52,600] It doesn't really matter which you use.
+- [01:25:53,160 - 01:25:55,660] Because you're going to get a gtt over there.
+- [01:25:55,760 - 01:25:56,060] So,
+- [01:25:56,060 - 01:25:56,120] I'm going to write the corrections
+- [01:25:56,140 - 01:25:56,500] to g.
+- [01:25:58,860 - 01:25:59,340] Yeah,
+- [01:25:59,340 - 01:25:59,520] no,
+- [01:25:59,640 - 01:26:01,180] in that sense it doesn't matter.
+- [01:26:02,780 - 01:26:03,260] Well,
+- [01:26:04,480 - 01:26:05,740] let's just be careful
+- [01:26:05,740 - 01:26:06,460] and be consistent.
+- [01:26:07,260 - 01:26:08,800] Eta xx is minus one.
+- [01:26:09,160 - 01:26:09,640] So,
+- [01:26:09,640 - 01:26:10,040] let's see,
+- [01:26:10,040 - 01:26:11,720] now I've lost the thread.
+- [01:26:11,800 - 01:26:12,830] I don't remember how many
+- [01:26:12,830 - 01:26:13,860] times I've changed the minus sign.
+- [01:26:15,680 - 01:26:16,160] Okay,
+- [01:26:16,380 - 01:26:17,680] you started with a minus sign
+- [01:26:17,680 - 01:26:19,120] from the original equation.
+- [01:26:19,400 - 01:26:19,640] Yeah,
+- [01:26:19,640 - 01:26:21,600] so that's this minus sign here.
+- [01:26:21,600 - 01:26:23,140] You have a minus sign for the
+- [01:26:24,160 - 01:26:24,980] first opposite.
+- [01:26:26,460 - 01:26:27,940] There's a leading minus sign there.
+- [01:26:29,000 - 01:26:29,660] From the eta?
+- [01:26:31,480 - 01:26:31,920] Does the
+- [01:26:31,920 - 01:26:34,320] cross-optical symbol give you minus half or plus half?
+- [01:26:34,360 - 01:26:34,520] No,
+- [01:26:34,520 - 01:26:35,220] it is plus a half.
+- [01:26:35,580 - 01:26:35,940] Oh,
+- [01:26:35,940 - 01:26:36,060] yeah,
+- [01:26:36,060 - 01:26:36,620] it's plus a half.
+- [01:26:36,840 - 01:26:37,120] Yeah,
+- [01:26:37,120 - 01:26:37,920] but this is minus.
+- [01:26:38,240 - 01:26:40,260] You get a minus because you got the third term,
+- [01:26:40,380 - 01:26:41,880] and two of those terms go with it.
+- [01:26:43,618 - 01:26:44,018] ありがとうございました
+- [01:26:45,922 - 01:26:45,982] Right.
+- [01:26:46,661 - 01:26:46,982] Now,
+- [01:26:46,982 - 01:26:48,862] the reason that these go away,
+- [01:26:48,862 - 01:26:49,822] why do these go away?
+- [01:26:51,182 - 01:26:54,022] These go away because we're assuming that everything
+- [01:26:54,022 - 01:26:55,202] is moving slowly.
+- [01:26:56,062 - 01:26:58,102] If everything is moving slowly,
+- [01:26:58,102 - 01:26:59,142] it
+- [01:26:59,142 - 01:27:01,722] means the components of the gravitational field
+- [01:27:01,722 - 01:27:02,862] change slowly.
+- [01:27:03,482 - 01:27:05,842] If the sources of the gravitational field
+- [01:27:06,562 - 01:27:08,042] are moving slowly,
+- [01:27:08,042 - 01:27:08,962] for example,
+- [01:27:08,962 - 01:27:09,542] the sun
+- [01:27:09,542 - 01:27:11,182] is at rest in our frame.
+- [01:27:11,762 - 01:27:13,902] If the sun is at rest in our frame,
+- [01:27:13,902 - 01:27:17,762] then the components of the metric don't change with time.
+- [01:27:18,402 - 01:27:20,242] None of the components of the metric
+- [01:27:20,242 - 01:27:24,002] will change rapidly with time if everything
+- [01:27:24,002 - 01:27:25,442] is moving very slowly.
+- [01:27:25,802 - 01:27:27,582] So in the Newtonian approximation,
+- [01:27:28,622 - 01:27:32,882] the time dependence here is very small,
+- [01:27:33,381 - 01:27:34,702] and we can neglect this.
+- [01:27:35,362 - 01:27:37,522] The only big term is this one.
+- [01:27:38,262 - 01:27:39,662] And so altogether then,
+- [01:27:39,662 - 01:27:40,562] we get an equation
+- [01:27:41,062 - 01:27:43,382] that the second derivative of x with respect
+- [01:27:43,382 - 01:27:43,882] to t.
+- [01:27:43,902 - 01:27:47,412] So t squared is equal to
+- [01:27:47,412 - 01:27:50,922] 1 half with a minus sign,
+- [01:27:51,042 - 01:27:51,782] it looks like to me,
+- [01:27:51,782 - 01:27:55,222] the derivative of g0 0
+- [01:27:55,222 - 01:27:57,222] with respect to x.
+- [01:28:05,422 - 01:28:08,042] What would you have written in Newtonian gravity?
+- [01:28:11,722 - 01:28:13,582] Let's go back to Newtonian gravity now.
+- [01:28:14,322 - 01:28:15,322] You would have written,
+- [01:28:15,322 - 01:28:16,102] well,
+- [01:28:16,102 - 01:28:16,702] you
+- [01:28:16,738 - 01:28:16,858] ありがとうございました
+- [01:28:19,586 - 01:28:20,666] gm 1 over r.
+- [01:28:21,065 - 01:28:21,386] Well,
+- [01:28:21,386 - 01:28:23,746] let's not worry about the detailed form
+- [01:28:23,746 - 01:28:24,906] of the gravitational field.
+- [01:28:27,005 - 01:28:28,286] But yeah,
+- [01:28:28,286 - 01:28:29,666] yeah.
+- [01:28:30,106 - 01:28:31,326] The force is a gradient,
+- [01:28:31,326 - 01:28:32,106] or the acceleration
+- [01:28:32,106 - 01:28:35,906] is the gradient of the potential,
+- [01:28:35,906 - 01:28:37,906] of the potential.
+- [01:28:38,486 - 01:28:38,806] Right.
+- [01:28:38,906 - 01:28:41,706] So we would have written in Newtonian physics,
+- [01:28:42,006 - 01:28:45,346] the second derivative of x with respect to t squared
+- [01:28:45,346 - 01:28:51,866] squared is equal to minus,
+- [01:28:51,866 - 01:28:52,586] I think,
+- [01:28:53,486 - 01:28:55,426] the derivative of the potential.
+- [01:28:55,666 - 01:28:58,766] Let's call it phi with respect to x.
+- [01:29:03,426 - 01:29:05,506] Basically the same kind of formula.
+- [01:29:09,886 - 01:29:11,116] I have a feeling I
+- [01:29:11,116 - 01:29:12,346] have a sign that I've lost.
+- [01:29:12,886 - 01:29:13,946] That I've dropped a sign.
+- [01:29:14,146 - 01:29:15,166] gxx is negative.
+- [01:29:15,306 - 01:29:15,326] Yeah.
+- [01:29:16,986 - 01:29:18,286] And you also have a negative sign.
+- [01:29:18,626 - 01:29:18,986] Well,
+- [01:29:18,986 - 01:29:20,226] which way did I drop the sign?
+- [01:29:21,706 - 01:29:22,226] Is this,
+- [01:29:22,226 - 01:29:22,706] should this be?
+- [01:29:22,906 - 01:29:23,786] Where it says gamma 0,
+- [01:29:23,786 - 01:29:25,346] 0x equals 1 half,
+- [01:29:25,566 - 01:29:28,266] there's this would be a gxx there,
+- [01:29:28,266 - 01:29:29,126] which is negative.
+- [01:29:29,166 - 01:29:30,766] I have a feeling I've lost a sign.
+- [01:29:31,046 - 01:29:32,166] Cancel that again tomorrow.
+- [01:29:32,406 - 01:29:33,226] Let me just see.
+- [01:29:34,946 - 01:29:35,306] Yeah,
+- [01:29:35,306 - 01:29:36,546] I thought I kept track of it,
+- [01:29:36,546 - 01:29:37,366] but now it looks,
+- [01:29:37,366 - 01:29:38,146] now it looks.
+- [01:29:51,666 - 01:29:53,116] It's too late and I'm too
+- [01:29:53,116 - 01:29:54,566] tired to go through the signs carefully.
+- [01:29:54,826 - 01:29:54,926] So,
+- [01:29:54,926 - 01:29:55,746] well,
+- [01:29:55,746 - 01:29:57,026] of course it is important,
+- [01:29:57,026 - 01:29:58,166] but at this point,
+- [01:29:58,186 - 01:29:59,846] at this point it's not so important.
+- [01:30:00,666 - 01:30:01,666] It is important,
+- [01:30:01,666 - 01:30:05,346] but we'll have to come back to it.
+- [01:30:05,426 - 01:30:05,866] I'll get the sign.
+- [01:30:06,726 - 01:30:07,926] It's either right or it's wrong.
+- [01:30:07,926 - 01:30:10,176] I have a 50% chance
+- [01:30:10,176 - 01:30:12,426] of gravity being attractive or repulsive.
+- [01:30:12,586 - 01:30:13,226] That's the point.
+- [01:30:13,466 - 01:30:13,686] Okay?
+- [01:30:14,735 - 01:30:16,326] Get the wrong sign there and you'll
+- [01:30:16,326 - 01:30:18,406] find that gravity is repulsive instead of attractive.
+- [01:30:19,446 - 01:30:20,286] All right.
+- [01:30:20,956 - 01:30:25,306] So it appears then that to within a sign,
+- [01:30:27,196 - 01:30:30,486] there is a close connection between the gravitational
+- [01:30:30,486 - 01:30:32,826] potential and g0,
+- [01:30:32,826 - 01:30:33,186] 0.
+- [01:30:34,856 - 01:30:35,166] Now,
+- [01:30:35,166 - 01:30:36,326] I thought that.
+- [01:30:36,346 - 01:30:36,646] Uh.
+- [01:30:38,746 - 01:30:39,846] All right.
+- [01:30:39,866 - 01:30:40,566] The way it's written,
+- [01:30:40,566 - 01:30:42,486] it says that g0,
+- [01:30:42,486 - 01:30:45,146] 0 in this approximation
+- [01:30:46,326 - 01:30:48,726] should be equal to phi,
+- [01:30:48,726 - 01:30:50,006] but does it say that?
+- [01:30:51,006 - 01:30:51,946] Not quite.
+- [01:30:52,226 - 01:30:52,866] Why not?
+- [01:30:53,266 - 01:30:55,026] Plus a constant,
+- [01:30:55,026 - 01:30:55,386] right?
+- [01:30:56,106 - 01:30:56,906] Plus a constant.
+- [01:31:01,666 - 01:31:02,486] Plus a constant.
+- [01:31:06,646 - 01:31:07,346] And a factor of 2.
+- [01:31:07,506 - 01:31:07,806] Good.
+- [01:31:09,676 - 01:31:12,026] The factor of 2 goes over here.
+- [01:31:12,826 - 01:31:13,366] Yeah.
+- [01:31:15,156 - 01:31:15,926] So g0,
+- [01:31:15,926 - 01:31:16,286] 0,
+- [01:31:16,286 - 01:31:19,646] the time-time component of the metric,
+- [01:31:19,646 - 01:31:23,126] incidentally,
+- [01:31:23,126 - 01:31:25,266] very far from a gravitating object,
+- [01:31:25,946 - 01:31:28,256] the metric should just go
+- [01:31:28,256 - 01:31:30,566] over to the standard Minkowski form
+- [01:31:31,546 - 01:31:32,766] without any gravity.
+- [01:31:32,986 - 01:31:34,006] In that case,
+- [01:31:34,006 - 01:31:35,266] the c would just be 1.
+- [01:31:35,486 - 01:31:36,446] We'll come back to it.
+- [01:31:36,446 - 01:31:37,806] We'll come back to what this constant is.
+- [01:31:37,966 - 01:31:38,926] It's really just 1.
+- [01:31:41,426 - 01:31:43,466] But we will come back to it.
+- [01:31:44,806 - 01:31:45,286] OK.
+- [01:31:45,386 - 01:31:46,646] So in some way,
+- [01:31:46,646 - 01:31:47,106] g0,
+- [01:31:47,106 - 01:31:49,626] 0 is related to twice
+- [01:31:49,966 - 01:31:51,626] the gravitational potential.
+- [01:31:54,106 - 01:31:55,206] Keep that in mind.
+- [01:31:55,466 - 01:31:58,666] We're not going to write down today the theory
+- [01:31:58,666 - 01:31:59,906] of a concentrated mass,
+- [01:31:59,906 - 01:32:01,866] but that will come up.
+- [01:32:02,286 - 01:32:04,866] We've now learned something about the metric tensor.
+- [01:32:05,226 - 01:32:07,016] We've learned that if we
+- [01:32:07,016 - 01:32:08,806] know what the Newtonian potential is,
+- [01:32:08,946 - 01:32:13,346] then we have an approximation to
+- [01:32:13,346 - 01:32:17,746] a piece of the metric tensor.
+- [01:32:17,966 - 01:32:19,006] That's information.
+- [01:32:19,926 - 01:32:22,886] And it's information that we'll use in trying
+- [01:32:22,886 - 01:32:27,226] to build the Einstein theory.
+- [01:32:27,966 - 01:32:28,626] OK.
+- [01:32:28,766 - 01:32:29,066] Now,
+- [01:32:29,066 - 01:32:31,946] let's keep that in mind.
+- [01:32:32,676 - 01:32:34,786] And let's go back to Newton.
+- [01:32:37,326 - 01:32:40,406] Or let's continue with Newton and say,
+- [01:32:40,446 - 01:32:42,386] what do we know about this quantity phi?
+- [01:32:43,886 - 01:32:44,406] Well,
+- [01:32:44,406 - 01:32:46,526] phi is the thing whose gradient
+- [01:32:47,286 - 01:32:48,786] is the field of acceleration.
+- [01:32:50,026 - 01:32:51,446] Earlier in the course,
+- [01:32:51,446 - 01:32:52,306] what I called a,
+- [01:32:52,306 - 01:32:53,386] the acceleration
+- [01:32:53,386 - 01:32:53,906] field,
+- [01:32:53,906 - 01:32:58,466] is minus or plus.
+- [01:32:58,606 - 01:32:59,526] And now I've lost track.
+- [01:33:00,566 - 01:33:01,086] Again,
+- [01:33:01,086 - 01:33:02,546] I'm going to have trouble with signs tonight.
+- [01:33:02,846 - 01:33:04,986] I think it's just the derivative of phi.
+- [01:33:05,766 - 01:33:06,286] Now,
+- [01:33:06,286 - 01:33:09,586] that's like force is minus the derivative of phi
+- [01:33:09,586 - 01:33:10,666] with respect to x.
+- [01:33:11,126 - 01:33:15,986] I think that's right definition.
+- [01:33:17,146 - 01:33:17,866] All right,
+- [01:33:17,866 - 01:33:18,246] now what,
+- [01:33:18,246 - 01:33:20,926] how is phi connected
+- [01:33:20,926 - 01:33:23,206] to the sources of the gravitational field?
+- [01:33:24,006 - 01:33:25,206] Here's where we're going now.
+- [01:33:25,326 - 01:33:26,956] We know that phi is connected
+- [01:33:26,956 - 01:33:28,586] to the metric in a certain way,
+- [01:33:28,666 - 01:33:32,046] which I've raised up out of sight.
+- [01:33:32,266 - 01:33:33,986] Phi is connected to the metric.
+- [01:33:35,206 - 01:33:37,686] It was essentially a piece of the metric.
+- [01:33:38,046 - 01:33:39,286] On the other hand,
+- [01:33:39,286 - 01:33:40,406] phi is related
+- [01:33:40,406 - 01:33:42,626] to the sources of the gravitational field,
+- [01:33:42,626 - 01:33:43,426] which
+- [01:33:43,426 - 01:33:43,886] are mass.
+- [01:33:44,906 - 01:33:45,266] Well,
+- [01:33:45,266 - 01:33:47,906] that's going to tell us that the metric itself
+- [01:33:47,906 - 01:33:49,866] is somehow controlled by masses.
+- [01:33:50,826 - 01:33:56,826] So what's the connection between phi and mass density?
+- [01:33:57,266 - 01:33:59,186] Let's call mass density rho.
+- [01:34:01,346 - 01:34:03,126] Rho is mass per unit volume.
+- [01:34:07,425 - 01:34:10,365] Let me remind you that
+- [01:34:10,365 - 01:34:13,306] the connection between A and rho
+- [01:34:13,306 - 01:34:19,566] is that the divergence of A is equal to,
+- [01:34:19,566 - 01:34:20,586] now is that correct?
+- [01:34:22,496 - 01:34:22,886] No.
+- [01:34:24,796 - 01:34:26,026] There's a factor of g.
+- [01:34:26,226 - 01:34:26,926] What else?
+- [01:34:28,296 - 01:34:28,946] 4 pi.
+- [01:34:33,286 - 01:34:34,526] And a minus sign,
+- [01:34:34,526 - 01:34:36,106] if I'm not mistaken.
+- [01:34:38,825 - 01:34:39,426] Now,
+- [01:34:39,426 - 01:34:40,766] this tells us,
+- [01:34:40,766 - 01:34:43,086] since A is the gradient of phi,
+- [01:34:43,726 - 01:34:45,466] and this is the divergence of A,
+- [01:34:45,466 - 01:34:46,686] this
+- [01:34:46,686 - 01:34:49,786] can be written as del squared phi,
+- [01:34:49,786 - 01:34:52,026] or maybe with a minus sign,
+- [01:34:52,766 - 01:34:55,986] is equal to 4 pi rho g,
+- [01:34:55,986 - 01:34:58,206] where del squared of phi
+- [01:34:58,906 - 01:35:02,586] means the second derivative of phi with respect to x.
+- [01:35:03,126 - 01:35:06,526] Plus the second derivative of phi with respect to y.
+- [01:35:07,346 - 01:35:10,346] Plus the second derivative of phi with respect to z.
+- [01:35:11,626 - 01:35:13,686] Equals del squared phi.
+- [01:35:14,966 - 01:35:18,626] So here we have an equation which
+- [01:35:18,626 - 01:35:23,426] is some simplified approximation to an equation which
+- [01:35:23,426 - 01:35:30,506] connects the metric to the mass density.
+- [01:35:30,886 - 01:35:31,466] Now,
+- [01:35:31,466 - 01:35:32,246] mass density.
+- [01:35:32,246 - 01:35:33,066] Of course,
+- [01:35:33,066 - 01:35:34,646] is the same as energy density.
+- [01:35:35,546 - 01:35:37,186] E equals mc squared,
+- [01:35:37,186 - 01:35:39,866] and c is equal to 1 in our units.
+- [01:35:40,386 - 01:35:43,466] And so the right hand side is
+- [01:35:43,466 - 01:35:46,546] really 4 pi g times the energy
+- [01:35:46,546 - 01:35:47,026] density.
+- [01:35:48,226 - 01:35:48,546] Well,
+- [01:35:48,546 - 01:35:51,266] the last time we talked about energy density
+- [01:35:51,266 - 01:35:52,606] and momentum density,
+- [01:35:52,606 - 01:35:53,746] and we gave it,
+- [01:35:53,766 - 01:35:56,346] we put them together into a big matrix,
+- [01:35:56,606 - 01:35:59,746] and the matrix was called the energy momentum tensor.
+- [01:36:03,866 - 01:36:04,486] So it's the same thing.
+- [01:36:04,486 - 01:36:04,766] The x of t which adore T correctly,
+- [01:36:04,766 - 01:36:04,766] ,
+- [01:36:04,766 - 01:36:10,746] scooped out Arrow happening
+- [01:36:10,746 - 01:36:11,206] It's an interesting expression of the partiality trustees
+- [01:36:11,206 - 01:36:13,326] of an
+- [01:36:13,326 - 01:36:27,386] In other words,
+- [01:36:27,386 - 01:36:29,486] the initialiov of t,
+- [01:36:29,486 - 01:36:31,006] which is always 1,0,0,0.
+- [01:36:31,006 - 01:36:32,886] the energy density,
+- [01:36:32,886 - 01:36:34,746] which is the same as the mass density.
+- [01:36:35,426 - 01:36:40,686] So we have an equation which has the form
+- [01:36:44,046 - 01:36:48,036] del squared phi is 4
+- [01:36:48,036 - 01:36:52,026] pi g times T naught naught,
+- [01:36:54,146 - 01:36:55,206] roughly speaking.
+- [01:36:56,446 - 01:36:58,745] But what is on the left-hand side?
+- [01:36:58,745 - 01:37:04,386] On the left-hand side is the second derivative of phi,
+- [01:37:05,446 - 01:37:07,256] which is closely related to the
+- [01:37:07,256 - 01:37:09,066] second derivative of g naught naught.
+- [01:37:10,846 - 01:37:11,326] Remember,
+- [01:37:11,326 - 01:37:12,446] what was the connection now?
+- [01:37:12,606 - 01:37:14,546] Phi is equal to either 1 half
+- [01:37:14,546 - 01:37:16,486] g naught naught or twice g naught naught.
+- [01:37:16,626 - 01:37:17,146] Which way was it?
+- [01:37:19,646 - 01:37:21,826] Phi is equal to 1 half g naught naught.
+- [01:37:25,966 - 01:37:27,586] So on the left-hand side,
+- [01:37:27,806 - 01:37:28,266] I can write that the energy density
+- [01:37:28,266 - 01:37:28,726] is 4 pi g times T naught naught.
+- [01:37:28,726 - 01:37:33,346] This is 1 half del squared,
+- [01:37:33,346 - 01:37:35,826] second derivative of g naught naught.
+- [01:37:36,686 - 01:37:38,386] These are spatial derivatives,
+- [01:37:38,386 - 01:37:40,606] two spatial derivatives on g naught naught.
+- [01:37:41,086 - 01:37:44,886] And that's equal to 4 pi,
+- [01:37:44,886 - 01:37:48,286] I'm going to write 8 pi g T naught naught
+- [01:37:48,286 - 01:37:49,466] and get rid of the half here.
+- [01:37:50,986 - 01:37:51,566] Okay.
+- [01:37:51,626 - 01:37:51,826] Okay.
+- [01:37:54,586 - 01:37:58,426] We're starting to get some geometric picture.
+- [01:37:58,726 - 01:37:59,426] We're starting to get some
+- [01:37:59,426 - 01:38:00,126] geometric picture of how gravity works,
+- [01:38:00,866 - 01:38:03,186] that the energy momentum tensor,
+- [01:38:03,186 - 01:38:04,346] its naught naught component,
+- [01:38:04,606 - 01:38:07,746] somehow determines g naught naught.
+- [01:38:07,926 - 01:38:09,446] But what's wrong with this equation?
+- [01:38:09,586 - 01:38:10,526] Is this a sensible equation?
+- [01:38:14,786 - 01:38:15,386] Well,
+- [01:38:15,386 - 01:38:16,626] it's an okay equation,
+- [01:38:16,966 - 01:38:18,906] but the problem with it is
+- [01:38:18,906 - 01:38:20,846] that it's not a tensor equation.
+- [01:38:21,746 - 01:38:24,706] It's not written explicitly as a tensor equation.
+- [01:38:25,346 - 01:38:28,446] It's not clear that we've derived it
+- [01:38:28,446 - 01:38:30,506] in a particular frame of reference,
+- [01:38:30,686 - 01:38:33,826] a frame of reference where everything is moving slowly.
+- [01:38:34,606 - 01:38:37,726] Unless we can express it as a tensor equation,
+- [01:38:38,186 - 01:38:40,206] we will not expect it to be
+- [01:38:40,206 - 01:38:42,226] true in an arbitrary frame of reference.
+- [01:38:43,166 - 01:38:46,466] The whole point of tensors is to write equations
+- [01:38:46,466 - 01:38:49,566] which are the same in every reference frame.
+- [01:38:50,336 - 01:38:52,701] And while the right-hand side is
+- [01:38:52,701 - 01:38:55,066] indeed a component of a tensor,
+- [01:38:56,905 - 01:38:58,146] tensor equations,
+- [01:38:58,166 - 01:38:58,426] tensor equations,
+- [01:38:58,426 - 01:39:07,966] tensor equations,
+- [01:39:15,146 - 01:39:20,076] the problem is it's just not
+- [01:39:20,076 - 01:39:25,006] a tensor equation as it stands.
+- [01:39:25,886 - 01:39:28,406] Is there a tensor equation
+- [01:39:28,406 - 01:39:31,706] which in the limit that we're talking about,
+- [01:39:31,706 - 01:39:33,906] everything moving slowly,
+- [01:39:33,906 - 01:39:35,786] weak gravitational
+- [01:39:35,786 - 01:39:36,506] fields,
+- [01:39:36,506 - 01:39:40,446] is there a tensor equation which becomes equal to this?
+- [01:39:40,446 - 01:39:43,866] Well on the right hand side we have
+- [01:39:43,866 - 01:39:45,366] a piece of a tensor.
+- [01:39:45,366 - 01:39:48,516] We should be looking for some kind
+- [01:39:48,516 - 01:39:51,666] of equation which looks something like this.
+- [01:39:53,606 - 01:39:56,576] A tensor on the left hand side made
+- [01:39:56,576 - 01:39:59,546] up only out of the components of the metric.
+- [01:39:59,546 - 01:40:00,926] Let's give it a
+- [01:40:00,926 - 01:40:01,186] name.
+- [01:40:01,186 - 01:40:03,466] Let's call it g mu nu.
+- [01:40:03,466 - 01:40:06,226] I don't know what it is yet.
+- [01:40:06,226 - 01:40:08,486] I know some things about it,
+- [01:40:08,486 - 01:40:09,406] but I don't
+- [01:40:09,406 - 01:40:10,086] know what it is yet,
+- [01:40:10,086 - 01:40:11,996] but it's something made up only out
+- [01:40:11,996 - 01:40:13,906] of the metric and some of its derivatives.
+- [01:40:15,026 - 01:40:16,486] And on the right hand side,
+- [01:40:16,486 - 01:40:20,526] 8 pi g t mu nu.
+- [01:40:22,126 - 01:40:25,206] Supposing I was able to find a tensor which
+- [01:40:25,206 - 01:40:28,286] had the property that in the frame where everything is
+- [01:40:28,286 - 01:40:28,966] moving slowly,
+- [01:40:28,966 - 01:40:33,546] it's naught naught component simply reduced to this.
+- [01:40:33,546 - 01:40:37,786] Then my guess would be that the
+- [01:40:37,786 - 01:40:41,306] full gravitational theory in frames of ref and
+- [01:40:41,306 - 01:40:44,826] other frames of reference or in situations where
+- [01:40:44,826 - 01:40:46,046] things are varying rapidly,
+- [01:40:46,046 - 01:40:47,466] in situations where the approximations
+- [01:40:47,466 - 01:40:48,886] are not quite so good,
+- [01:40:48,886 - 01:40:50,126] this
+- [01:40:50,126 - 01:40:51,646] would become the full gravitational theory.
+- [01:40:51,666 - 01:40:55,446] So the question is what is this?
+- [01:40:55,446 - 01:40:56,786] Well let's see what it has.
+- [01:40:56,786 - 01:41:00,136] It's made up out of the metric and it's
+- [01:41:00,136 - 01:41:03,486] made up out of second derivatives of the metric.
+- [01:41:06,045 - 01:41:07,006] What tensors,
+- [01:41:07,006 - 01:41:09,096] oh and it also has to
+- [01:41:09,096 - 01:41:11,186] be a tensor with only two indices.
+- [01:41:11,186 - 01:41:12,866] Why two indices?
+- [01:41:12,866 - 01:41:14,666] Because it's going to be equal to some
+- [01:41:14,666 - 01:41:16,466] tensor on the right hand side with two indices.
+- [01:41:17,046 - 01:41:19,056] The energy density is a piece
+- [01:41:19,056 - 01:41:21,066] of a tensor with two indices.
+- [01:41:21,906 - 01:41:26,946] The left hand side has to have two indices made up only out of
+- [01:41:26,946 - 01:41:31,986] the metric and only having second derivatives or being containing second derivatives of the metric.
+- [01:41:32,386 - 01:41:35,526] Any suggestions by now before I might go there?
+- [01:41:38,246 - 01:41:38,766] Yeah,
+- [01:41:38,766 - 01:41:39,646] arm you knew.
+- [01:41:43,806 - 01:41:47,686] But there's another tensor that we can make with two indices
+- [01:41:47,686 - 01:41:51,566] that also is made up out of the same kind of thing.
+- [01:41:51,586 - 01:41:51,646] So what's the answer to that?
+- [01:41:52,346 - 01:41:52,626] The answer is that the tensors are
+- [01:41:52,626 - 01:41:52,906] just the scalar R times G mu nu.
+- [01:41:52,906 - 01:41:53,886] And I'll tell you what it is.
+- [01:41:54,026 - 01:41:55,466] R times G mu nu?
+- [01:41:55,626 - 01:41:55,886] Yeah.
+- [01:41:55,886 - 01:41:57,106] R,
+- [01:41:57,106 - 01:41:58,746] the scalar R,
+- [01:41:58,746 - 01:42:00,806] times G mu nu.
+- [01:42:02,766 - 01:42:03,806] A scalar,
+- [01:42:03,806 - 01:42:04,706] remember,
+- [01:42:04,706 - 01:42:07,766] this is the curvature scalar,
+- [01:42:07,766 - 01:42:08,966] the scalar curvature.
+- [01:42:08,966 - 01:42:10,886] Everybody's been contracted.
+- [01:42:10,886 - 01:42:12,906] Times the metric itself.
+- [01:42:13,626 - 01:42:16,776] So there are two tensors which could
+- [01:42:16,776 - 01:42:19,926] go here and some combination of them,
+- [01:42:19,926 - 01:42:21,626] some are in the right hand side.
+- [01:42:21,626 - 01:42:22,146] coefficient,
+- [01:42:22,146 - 01:42:23,246] let's call it A,
+- [01:42:23,246 - 01:42:24,866] a numerical coefficient,
+- [01:42:24,866 - 01:42:26,586] and by numerical now I
+- [01:42:26,586 - 01:42:28,566] mean like it could be 3 or it could
+- [01:42:28,566 - 01:42:30,546] be 1 or it could be 7 or whatever,
+- [01:42:30,546 - 01:42:32,426] plus some
+- [01:42:32,426 - 01:42:39,306] other numerical coefficient B times delta mu nu times R,
+- [01:42:39,306 - 01:42:42,686] and that's it.
+- [01:42:42,686 - 01:42:42,986] There
+- [01:42:42,986 - 01:42:46,526] are no other tensors which contain
+- [01:42:46,526 - 01:42:50,066] only the second derivatives and which
+- [01:42:50,066 - 01:42:52,926] are made up only out of the metric other
+- [01:42:52,926 - 01:42:55,786] than A times R mu nu plus B times delta
+- [01:42:55,786 - 01:42:56,466] mu nu R,
+- [01:42:56,466 - 01:43:02,426] that's equal to 8 pi G times T mu nu.
+- [01:43:02,426 - 01:43:04,826] So,
+- [01:43:04,826 - 01:43:07,406] ah,
+- [01:43:07,406 - 01:43:08,546] G mu nu,
+- [01:43:08,546 - 01:43:08,866] sorry,
+- [01:43:08,866 - 01:43:11,086] G mu nu.
+- [01:43:15,986 - 01:43:16,426] Right,
+- [01:43:16,426 - 01:43:17,726] left-hand side is a tensor,
+- [01:43:17,726 - 01:43:19,266] the right-hand side is a tensor,
+- [01:43:19,426 - 01:43:20,046] and the right-hand side is a tensor.
+- [01:43:20,066 - 01:43:21,306] If they're the same in one frame,
+- [01:43:21,306 - 01:43:22,606] they're the same in all frames,
+- [01:43:22,606 - 01:43:29,476] so all we have to do is search for some numerical coefficients A and B so that
+- [01:43:29,476 - 01:43:36,346] the left-hand side in the limit of everybody moving slowly is just del squared of G naught naught.
+- [01:43:36,486 - 01:43:37,406] We're not going to do that tonight.
+- [01:43:37,406 - 01:43:39,086] There is a solution to that.
+- [01:43:39,086 - 01:43:39,866] If there wasn't,
+- [01:43:39,866 - 01:43:40,506] we wouldn't be here.
+- [01:43:41,426 - 01:43:43,846] It's called capital G mu nu.
+- [01:43:45,206 - 01:43:46,966] It's also called the Einstein tensor.
+- [01:43:48,406 - 01:43:49,066] All right.
+- [01:43:50,346 - 01:43:51,566] But that's the goal.
+- [01:43:53,326 - 01:43:55,386] So the logic has been pretty clear.
+- [01:43:55,466 - 01:44:01,756] We've decided to look at the theory in frames
+- [01:44:01,756 - 01:44:08,046] of reference where everything is recognizably small in Newtonian,
+- [01:44:08,046 - 01:44:10,856] came to the conclusion that our equations
+- [01:44:10,856 - 01:44:13,666] are going to be something like this.
+- [01:44:13,726 - 01:44:15,626] How did we find out that G mu nu was,
+- [01:44:15,626 - 01:44:17,576] or that G naught naught
+- [01:44:17,576 - 01:44:19,526] was related to the gravitational potential?
+- [01:44:19,526 - 01:44:22,586] By studying the theory of geodesics,
+- [01:44:22,586 - 01:44:26,506] we found that G naught naught was essentially
+- [01:44:26,506 - 01:44:30,426] the same as phi with a factor of two.
+- [01:44:34,646 - 01:44:35,206] Well,
+- [01:44:35,206 - 01:44:36,806] the derivatives of G naught naught are
+- [01:44:36,806 - 01:44:38,406] the same as the derivatives of phi.
+- [01:44:39,926 - 01:44:42,506] And this equation represents nothing but del
+- [01:44:42,506 - 01:44:45,086] squared phi is four pi G rho.
+- [01:44:46,986 - 01:44:49,506] And then look for general assumptions.
+- [01:44:49,526 - 01:44:50,406] So we have a generalization of this,
+- [01:44:50,406 - 01:44:53,006] which has the form of a tensor equation.
+- [01:44:54,266 - 01:44:54,946] So far,
+- [01:44:54,946 - 01:44:56,966] I haven't told you what is here.
+- [01:44:58,286 - 01:45:00,386] But it's more or less obvious that it
+- [01:45:00,386 - 01:45:02,486] should have something to do with the curvature tensor,
+- [01:45:02,486 - 01:45:07,006] simply because it's got to be made up out of
+- [01:45:07,006 - 01:45:11,526] a thing with two derivatives acting on the metric tensor.
+- [01:45:12,486 - 01:45:12,966] Okay.
+- [01:45:13,046 - 01:45:15,386] The next time we will
+- [01:45:15,386 - 01:45:17,726] explore what A and B are.
+- [01:45:17,726 - 01:45:20,526] What the principles are which govern A and B.
+- [01:45:20,666 - 01:45:21,746] And what the numbers are.
+- [01:45:21,766 - 01:45:22,266] I'll tell you right now,
+- [01:45:22,266 - 01:45:23,526] the numbers are one and a half.
+- [01:45:27,026 - 01:45:28,026] One plus a half?
+- [01:45:28,165 - 01:45:29,366] One minus a half.
+- [01:45:29,526 - 01:45:30,425] One minus a half.
+- [01:45:30,586 - 01:45:30,846] Yeah.
+- [01:45:31,586 - 01:45:31,986] Yeah.
+- [01:45:32,066 - 01:45:33,386] So they're real easy numbers.
+- [01:45:34,165 - 01:45:38,685] And all we really have to show,
+- [01:45:38,685 - 01:45:40,665] well,
+- [01:45:40,665 - 01:45:42,026] we have to show a little more than that.
+- [01:45:42,226 - 01:45:46,806] But that's the basic set of ideas.
+- [01:45:47,726 - 01:45:49,406] And that's general relativity.
+- [01:45:51,006 - 01:45:54,146] So it's not so hard,
+- [01:45:54,146 - 01:45:54,406] is it?
