@@ -1,0 +1,3279 @@
+# Transcript
+
+Source: core/cosmology/2013_winter_theoretical_minimum/174 - Cosmology Lecture 10 [NZ_CvI9Ying].mkv
+
+- [00:00:04,880 - 00:00:06,200] Stanford University.
+- [00:00:08,660 - 00:00:12,400] We do know a highly
+- [00:00:12,400 - 00:00:16,140] accurate description of elementary particles.
+- [00:00:20,040 - 00:00:21,780] It has a lot of parameters.
+- [00:00:23,009 - 00:00:25,220] Depending on the particular version of it,
+- [00:00:25,220 - 00:00:26,500] which turns out to be true,
+- [00:00:26,500 - 00:00:30,820] it could vary anywhere from 25 parameters to 150.
+- [00:00:32,840 - 00:00:34,660] But of order,
+- [00:00:34,660 - 00:00:37,320] somewhere like 50,
+- [00:00:37,320 - 00:00:37,760] 75,
+- [00:00:37,760 - 00:00:39,320] 100 parameters,
+- [00:00:39,320 - 00:00:39,940] numbers.
+- [00:00:40,200 - 00:00:40,980] What kind of numbers?
+- [00:00:41,720 - 00:00:43,880] The masses of quarks,
+- [00:00:43,880 - 00:00:45,140] the masses of electrons,
+- [00:00:45,140 - 00:00:46,700] the masses of muons,
+- [00:00:48,180 - 00:00:49,800] the coupling constants,
+- [00:00:49,800 - 00:00:53,880] the value of the electric charge of particles,
+- [00:00:55,240 - 00:00:56,360] all kinds of things.
+- [00:00:56,360 - 00:00:56,940] Things like that.
+- [00:00:57,460 - 00:00:58,660] And in addition,
+- [00:00:58,660 - 00:01:01,860] just a list of what the particles are.
+- [00:01:03,920 - 00:01:06,760] Some of the particles are related to
+- [00:01:06,760 - 00:01:09,600] each other in various kinds of mathematical ways.
+- [00:01:11,240 - 00:01:13,300] Others of them are not
+- [00:01:13,300 - 00:01:15,360] particularly simply related to each other.
+- [00:01:16,060 - 00:01:21,090] And so there's a very accurate theory that
+- [00:01:21,090 - 00:01:26,120] describes everything basically that's known about elementary particles.
+- [00:01:27,120 - 00:01:28,320] Thousands of experiments.
+- [00:01:29,020 - 00:01:30,160] In principle,
+- [00:01:30,160 - 00:01:32,040] it can explain nuclei.
+- [00:01:32,540 - 00:01:34,560] It can certainly explain atoms.
+- [00:01:34,820 - 00:01:36,760] Quantum electrodynamics is part of it.
+- [00:01:38,100 - 00:01:38,740] And therefore,
+- [00:01:38,740 - 00:01:41,420] it can explain molecules and chemistry.
+- [00:01:42,100 - 00:01:42,580] Of course,
+- [00:01:42,580 - 00:01:43,980] when I say it can explain it,
+- [00:01:43,980 - 00:01:47,940] I mean to say if you had infinite computing power,
+- [00:01:49,160 - 00:01:52,750] that you could solve its equations
+- [00:01:52,750 - 00:01:56,340] and do it with reasonably high power.
+- [00:01:56,340 - 00:01:56,680] And by precision,
+- [00:01:56,680 - 00:01:58,560] you could explain chemistry,
+- [00:01:58,560 - 00:02:00,220] molecules.
+- [00:02:01,840 - 00:02:04,300] I'm not going to tell you you could explain life.
+- [00:02:04,480 - 00:02:05,930] That I think I would
+- [00:02:05,930 - 00:02:07,380] get all sorts of reactions to.
+- [00:02:07,720 - 00:02:09,000] That's a separate issue.
+- [00:02:10,300 - 00:02:11,520] Consciousness and so forth.
+- [00:02:11,720 - 00:02:12,780] Leave that off the table.
+- [00:02:16,020 - 00:02:17,140] Then in addition,
+- [00:02:17,140 - 00:02:18,820] we have a theory of gravity.
+- [00:02:19,280 - 00:02:19,800] Oh,
+- [00:02:19,800 - 00:02:20,160] of course,
+- [00:02:20,160 - 00:02:24,160] the theory of fundamental particles is quantum mechanical,
+- [00:02:24,520 - 00:02:25,600] heavily quantum mechanical.
+- [00:02:26,420 - 00:02:30,900] We also have a classical theory of gravity.
+- [00:02:31,120 - 00:02:32,560] Einstein's field equations,
+- [00:02:32,560 - 00:02:34,180] general relativity.
+- [00:02:35,060 - 00:02:35,840] Again,
+- [00:02:35,840 - 00:02:39,440] it's a highly accurate theory.
+- [00:02:41,140 - 00:02:43,480] Does it have any parameters in it?
+- [00:02:43,780 - 00:02:44,560] Well,
+- [00:02:44,560 - 00:02:46,000] it has Newton's constant.
+- [00:02:49,040 - 00:02:52,030] It's worthwhile spending a few minutes asking
+- [00:02:52,030 - 00:02:55,020] what the fundamental quantities are in physics.
+- [00:02:58,140 - 00:03:00,680] There's all sorts of quantities
+- [00:03:00,680 - 00:03:03,220] like the mass of the proton,
+- [00:03:03,580 - 00:03:06,900] or more exactly,
+- [00:03:06,900 - 00:03:10,100] the ratios of masses of particles.
+- [00:03:10,840 - 00:03:12,270] Ratio of the mass of the
+- [00:03:12,270 - 00:03:13,700] proton to the mass of the electron.
+- [00:03:14,120 - 00:03:15,680] All those are parameters.
+- [00:03:16,100 - 00:03:18,400] They're not thought to be highly,
+- [00:03:18,400 - 00:03:19,120] deeply,
+- [00:03:19,120 - 00:03:19,960] deeply fundamental.
+- [00:03:21,240 - 00:03:23,340] They're not universal parameters.
+- [00:03:24,219 - 00:03:27,509] They're specific parameters that have to do with
+- [00:03:27,509 - 00:03:30,800] the proton and the electron in this case.
+- [00:03:31,000 - 00:03:33,060] If I was to substitute for
+- [00:03:33,060 - 00:03:35,120] the proton some other similar particle,
+- [00:03:35,120 - 00:03:36,360] the neutron for example,
+- [00:03:36,540 - 00:03:39,900] and substitute for the electron the mu particle,
+- [00:03:39,900 - 00:03:41,660] which is very similar to the electron,
+- [00:03:41,900 - 00:03:44,000] would be an entirely different ratio.
+- [00:03:45,700 - 00:03:47,120] Where they came from,
+- [00:03:47,120 - 00:03:48,180] why they're there,
+- [00:03:48,180 - 00:03:49,220] what they reflect,
+- [00:03:49,220 - 00:03:50,220] we don't really know.
+- [00:03:50,520 - 00:03:52,580] But they don't seem to have any,
+- [00:03:52,580 - 00:03:53,180] you know,
+- [00:03:53,180 - 00:03:55,240] really broad generality.
+- [00:03:56,440 - 00:03:58,140] There are a couple of parameters,
+- [00:03:58,140 - 00:04:00,260] three of them to be precise,
+- [00:04:00,600 - 00:04:02,460] which have great generality.
+- [00:04:02,540 - 00:04:05,160] And I'll explain what I mean by generality and universality.
+- [00:04:06,040 - 00:04:07,540] First of all is the speed of light.
+- [00:04:09,080 - 00:04:11,240] In what sense is the speed of light universal?
+- [00:04:11,580 - 00:04:11,700] Well,
+- [00:04:11,700 - 00:04:14,260] when you think about what Einstein's principle says,
+- [00:04:14,520 - 00:04:18,360] it says that all matter and all information
+- [00:04:18,360 - 00:04:22,200] moves with less than the speed of light.
+- [00:04:23,180 - 00:04:24,140] The key word there is all.
+- [00:04:24,960 - 00:04:27,240] Whenever you have one of these statements that all such
+- [00:04:27,240 - 00:04:29,520] and such and such and such and such and such,
+- [00:04:29,680 - 00:04:30,980] some law of physics,
+- [00:04:31,360 - 00:04:33,080] when that word all is there,
+- [00:04:33,080 - 00:04:35,490] you know that it has to do
+- [00:04:35,490 - 00:04:37,900] with something deep and fundamental and universal.
+- [00:04:38,380 - 00:04:38,860] So,
+- [00:04:38,860 - 00:04:40,000] there's the speed of light.
+- [00:04:41,600 - 00:04:42,080] See.
+- [00:04:44,140 - 00:04:44,620] Next,
+- [00:04:44,620 - 00:04:45,480] Planck's constant.
+- [00:04:46,980 - 00:04:50,220] Is Planck's constant just some random number
+- [00:04:50,220 - 00:04:53,160] that has only to do with one specific number?
+- [00:04:53,180 - 00:04:54,140] Is it a specific kind of phenomenon?
+- [00:04:54,880 - 00:04:55,780] Or is it,
+- [00:04:55,780 - 00:04:57,440] again,
+- [00:04:57,440 - 00:04:58,900] a universal quantity?
+- [00:04:59,440 - 00:05:00,020] Well,
+- [00:05:00,020 - 00:05:01,400] in this case,
+- [00:05:01,400 - 00:05:02,660] it's the uncertainty principle.
+- [00:05:03,020 - 00:05:06,420] The uncertainty principle says for all particles,
+- [00:05:06,620 - 00:05:07,560] and not only particles,
+- [00:05:07,560 - 00:05:08,860] for all objects,
+- [00:05:08,860 - 00:05:09,520] period,
+- [00:05:09,920 - 00:05:12,240] the uncertainty in the position
+- [00:05:12,240 - 00:05:14,560] times the uncertainty in the momentum
+- [00:05:14,920 - 00:05:17,540] is always greater than or equal to h-bar.
+- [00:05:17,720 - 00:05:17,940] Again,
+- [00:05:17,940 - 00:05:21,320] the word all comes up repeatedly in that sentence.
+- [00:05:21,320 - 00:05:22,960] And so,
+- [00:05:22,960 - 00:05:23,740] h-bar,
+- [00:05:23,740 - 00:05:24,680] Planck's constant,
+- [00:05:25,560 - 00:05:29,920] is also a very fundamental constant.
+- [00:05:31,460 - 00:05:34,260] And fundamental in the sense of universal.
+- [00:05:34,760 - 00:05:36,400] Governs all phenomena,
+- [00:05:36,400 - 00:05:39,340] not just some specific particular kind of particle,
+- [00:05:39,500 - 00:05:40,580] but all particles,
+- [00:05:40,580 - 00:05:42,600] all objects,
+- [00:05:42,600 - 00:05:43,080] period.
+- [00:05:43,740 - 00:05:45,300] And finally,
+- [00:05:45,300 - 00:05:46,580] there's Newton's constant.
+- [00:05:47,060 - 00:05:49,520] Remember Newton's law of gravity?
+- [00:05:49,520 - 00:05:56,180] All objects attract each other with a force
+- [00:05:56,180 - 00:05:59,060] that is inverse to the distance between them,
+- [00:05:59,120 - 00:06:01,240] inverse squared to the distance between them,
+- [00:06:01,380 - 00:06:04,180] and proportional to the product of the masses
+- [00:06:04,180 - 00:06:07,340] times a constant called Newton's constant,
+- [00:06:07,340 - 00:06:08,320] capital G,
+- [00:06:11,240 - 00:06:15,040] that is the same for all possible objects.
+- [00:06:16,800 - 00:06:19,500] When a little bit of relativity is added in,
+- [00:06:19,520 - 00:06:21,500] mass becomes energy,
+- [00:06:21,840 - 00:06:24,760] and so all forms of energy attract each other,
+- [00:06:25,520 - 00:06:29,040] but the universal constant G is always there.
+- [00:06:29,400 - 00:06:35,400] So this use of the word all in the laws
+- [00:06:35,400 - 00:06:39,580] for which these things are the numbers associated with them
+- [00:06:41,500 - 00:06:43,220] is apparently deep.
+- [00:06:45,080 - 00:06:47,880] Planck was really the first one to realize this.
+- [00:06:47,880 - 00:06:50,600] He was the first one to realize how fundamental...
+- [00:06:50,600 - 00:06:51,440] Now at that time,
+- [00:06:51,440 - 00:06:54,420] he didn't even know what h-bar really meant.
+- [00:06:55,100 - 00:06:57,320] He had parameterized radiation,
+- [00:06:57,320 - 00:06:59,540] thermal radiation,
+- [00:06:59,840 - 00:07:00,840] black body radiation,
+- [00:07:00,840 - 00:07:02,760] by this quantity h-bar.
+- [00:07:03,080 - 00:07:04,520] He didn't really know what it meant.
+- [00:07:04,620 - 00:07:07,440] He didn't know what quantum mechanics was going to be,
+- [00:07:07,460 - 00:07:08,570] that it was going to be a
+- [00:07:08,570 - 00:07:09,680] whole new way of thinking about things.
+- [00:07:10,440 - 00:07:12,820] He just had discovered this new constant,
+- [00:07:13,000 - 00:07:15,080] which together with C and
+- [00:07:15,080 - 00:07:17,160] G gave three constants of nature.
+- [00:07:18,159 - 00:07:19,420] And ultimately,
+- [00:07:19,420 - 00:07:19,960] of course,
+- [00:07:19,960 - 00:07:21,000] we did find out
+- [00:07:21,000 - 00:07:22,600] that these three constants are
+- [00:07:22,600 - 00:07:24,200] deep and fundamental and universal,
+- [00:07:24,560 - 00:07:26,960] but Planck sort of suspected it.
+- [00:07:27,300 - 00:07:29,460] And the other thing he realized,
+- [00:07:29,460 - 00:07:31,420] which is also very important,
+- [00:07:31,660 - 00:07:36,880] is that there are three units of...
+- [00:07:36,880 - 00:07:39,180] three dimensional units in physics,
+- [00:07:39,460 - 00:07:42,160] which are the three basic
+- [00:07:42,160 - 00:07:44,860] dimensional units that we work with.
+- [00:07:45,060 - 00:07:46,400] One of them is length,
+- [00:07:48,060 - 00:07:49,820] one of them is time,
+- [00:07:49,940 - 00:07:50,840] units of length,
+- [00:07:50,840 - 00:07:51,740] units of time,
+- [00:07:51,900 - 00:07:53,640] and units of mass.
+- [00:07:56,260 - 00:07:57,820] What he also realized
+- [00:07:59,100 - 00:08:02,500] is that the units of C,
+- [00:08:02,500 - 00:08:03,440] h-bar,
+- [00:08:03,440 - 00:08:03,940] and G
+- [00:08:03,940 - 00:08:06,820] were such that you could combine them
+- [00:08:06,820 - 00:08:09,700] and make units of length,
+- [00:08:09,700 - 00:08:10,160] time,
+- [00:08:10,160 - 00:08:10,840] and mass.
+- [00:08:12,240 - 00:08:15,240] So that means that there's some fundamental...
+- [00:08:15,240 - 00:08:16,780] there are fundamental constants here,
+- [00:08:16,780 - 00:08:17,380] and these constants,
+- [00:08:17,380 - 00:08:18,120] incidentally,
+- [00:08:18,120 - 00:08:19,320] carry dimensions.
+- [00:08:20,000 - 00:08:21,420] They're not dimensionless.
+- [00:08:21,620 - 00:08:23,360] They're not like ratios of masses,
+- [00:08:23,360 - 00:08:24,400] which are dimensionless.
+- [00:08:24,480 - 00:08:25,220] They carry dimensions.
+- [00:08:26,620 - 00:08:28,220] The units of length,
+- [00:08:28,220 - 00:08:28,640] time,
+- [00:08:28,640 - 00:08:30,220] and mass also carry dimensions.
+- [00:08:30,680 - 00:08:33,380] And what it meant is you could make up...
+- [00:08:33,380 - 00:08:34,100] not make up,
+- [00:08:34,100 - 00:08:37,240] you could derive a basic unit of length,
+- [00:08:37,539 - 00:08:39,340] a basic unit of time,
+- [00:08:39,520 - 00:08:41,840] and a basic unit of mass
+- [00:08:42,690 - 00:08:43,980] from these three quantities.
+- [00:08:46,780 - 00:08:47,200] So we do it?
+- [00:08:48,120 - 00:08:48,560] Okay.
+- [00:08:49,680 - 00:08:51,260] It's called dimensional analysis.
+- [00:08:51,660 - 00:08:53,560] The first thing we have to find out is
+- [00:08:53,560 - 00:08:55,800] what is the units of C,
+- [00:08:55,800 - 00:08:57,240] h-bar,
+- [00:08:57,240 - 00:08:57,740] and G?
+- [00:08:57,880 - 00:08:59,700] Here's the way you do dimensional analysis.
+- [00:08:59,940 - 00:09:02,140] You first make sure you know what the dimensions
+- [00:09:02,140 - 00:09:04,980] of the quantities that you're dealing with are.
+- [00:09:05,400 - 00:09:07,760] And the symbol for the dimension of a quantity
+- [00:09:07,760 - 00:09:09,680] is just a square bracket like this.
+- [00:09:10,200 - 00:09:11,960] This doesn't stand for the speed of light.
+- [00:09:12,000 - 00:09:14,020] It stands for the dimensions of the speed of light.
+- [00:09:14,100 - 00:09:14,320] All right,
+- [00:09:14,320 - 00:09:16,760] what's the dimensions of a velocity?
+- [00:09:17,420 - 00:09:18,440] Length over time.
+- [00:09:18,640 - 00:09:19,620] Length over time.
+- [00:09:19,820 - 00:09:20,960] So that's length over time.
+- [00:09:23,620 - 00:09:24,320] All right,
+- [00:09:24,320 - 00:09:28,540] what's the dimension of Planck's constant?
+- [00:09:28,800 - 00:09:30,600] The dimension of Planck's constant,
+- [00:09:30,600 - 00:09:31,400] h-bar?
+- [00:09:32,340 - 00:09:33,140] One over what?
+- [00:09:33,480 - 00:09:34,800] One over L squared over two.
+- [00:09:35,760 - 00:09:36,560] Probably right,
+- [00:09:36,560 - 00:09:37,880] but I have to do it.
+- [00:09:38,820 - 00:09:40,200] Let's see if we can figure it out.
+- [00:09:41,220 - 00:09:44,520] We need an equation that involves h-bar.
+- [00:09:44,720 - 00:09:46,760] The basic equation that involves h-bar
+- [00:09:46,780 - 00:09:49,380] always involves distance times momentum,
+- [00:09:49,380 - 00:09:49,860] right?
+- [00:09:50,080 - 00:09:50,940] Uncertainty principle.
+- [00:09:51,620 - 00:09:52,740] Distance times momentum.
+- [00:09:53,600 - 00:09:54,340] All right,
+- [00:09:54,340 - 00:09:55,640] so the units of h-bar
+- [00:09:55,640 - 00:09:58,180] are the units of length times momentum,
+- [00:09:58,480 - 00:10:01,180] but momentum is mass times velocity.
+- [00:10:01,960 - 00:10:05,060] So it's mass times velocity,
+- [00:10:05,220 - 00:10:07,160] and a velocity is another L over T,
+- [00:10:07,320 - 00:10:09,160] so that's L squared over T,
+- [00:10:09,300 - 00:10:10,720] and I think somebody said that.
+- [00:10:11,280 - 00:10:12,120] Length squared,
+- [00:10:12,120 - 00:10:13,260] mass over time.
+- [00:10:13,340 - 00:10:14,680] I don't know how you knew that so fast.
+- [00:10:14,820 - 00:10:15,880] How did you know that so fast?
+- [00:10:16,900 - 00:10:17,640] Memorize it?
+- [00:10:17,720 - 00:10:18,180] Who did it?
+- [00:10:19,360 - 00:10:20,520] Some guy back there,
+- [00:10:20,520 - 00:10:20,780] okay.
+- [00:10:22,620 - 00:10:23,460] Mass squared,
+- [00:10:23,460 - 00:10:23,860] okay,
+- [00:10:23,860 - 00:10:24,780] there we go.
+- [00:10:25,100 - 00:10:26,140] And finally,
+- [00:10:26,140 - 00:10:27,300] Newton's constant.
+- [00:10:27,560 - 00:10:27,720] All right,
+- [00:10:27,720 - 00:10:30,900] we need a formula that involves Newton's constant.
+- [00:10:31,520 - 00:10:34,760] Why not take the basic formula that Newton started with?
+- [00:10:37,220 - 00:10:43,800] Force is equal to mass times mass times g
+- [00:10:45,420 - 00:10:47,640] divided by distance squared,
+- [00:10:47,640 - 00:10:48,100] right?
+- [00:10:48,200 - 00:10:48,800] R squared.
+- [00:10:50,120 - 00:10:50,620] Okay,
+- [00:10:50,620 - 00:10:51,020] well,
+- [00:10:51,020 - 00:10:52,260] we're not quite finished
+- [00:10:52,260 - 00:10:55,000] because we have to know the units of force.
+- [00:10:56,400 - 00:10:56,900] Now,
+- [00:10:56,900 - 00:10:58,380] we're trying to find the units of g.
+- [00:10:58,820 - 00:11:00,260] What are the units of force?
+- [00:11:00,620 - 00:11:01,080] Well,
+- [00:11:01,080 - 00:11:02,880] we use another Newton equation.
+- [00:11:03,200 - 00:11:04,320] Mass times acceleration.
+- [00:11:07,040 - 00:11:08,320] Mass times acceleration.
+- [00:11:08,500 - 00:11:09,480] We can cancel.
+- [00:11:09,680 - 00:11:11,500] We're only interested in the units now.
+- [00:11:12,040 - 00:11:12,660] All right,
+- [00:11:12,660 - 00:11:13,740] we can cancel a mass.
+- [00:11:13,740 - 00:11:14,660] We can cancel a mass from both sides.
+- [00:11:17,320 - 00:11:18,720] What about an acceleration?
+- [00:11:19,520 - 00:11:23,600] An acceleration is a length divided by a time squared,
+- [00:11:23,600 - 00:11:24,540] right?
+- [00:11:24,620 - 00:11:28,500] So this is a length divided by a time squared.
+- [00:11:29,860 - 00:11:30,980] This is...oh,
+- [00:11:30,980 - 00:11:31,400] good,
+- [00:11:31,400 - 00:11:31,820] thank you.
+- [00:11:31,940 - 00:11:33,520] Length divided by a time squared.
+- [00:11:34,100 - 00:11:35,940] This is a length squared here.
+- [00:11:36,480 - 00:11:39,160] So let's multiply by a length squared.
+- [00:11:39,320 - 00:11:40,620] This will give us a
+- [00:11:40,620 - 00:11:41,920] length cubed on the right side,
+- [00:11:42,020 - 00:11:43,340] and it will get rid of the length squared
+- [00:11:43,740 - 00:11:44,800] on the left side.
+- [00:11:46,240 - 00:11:48,380] Length cubed divided by time squared
+- [00:11:48,380 - 00:11:50,040] is equal to m times g.
+- [00:11:50,500 - 00:11:51,960] And now to find g,
+- [00:11:52,160 - 00:11:55,100] all we have to do is divide by a mass.
+- [00:11:56,860 - 00:11:58,960] The meaning of this equation here
+- [00:11:58,960 - 00:12:00,680] is that the units of g
+- [00:12:03,640 - 00:12:06,740] are units of length cubed
+- [00:12:06,740 - 00:12:09,420] divided by mass divided by time squared.
+- [00:12:09,680 - 00:12:10,040] Okay?
+- [00:12:11,260 - 00:12:12,020] All right,
+- [00:12:12,020 - 00:12:13,420] now I want to build...
+- [00:12:13,740 - 00:12:14,480] out of h bar,
+- [00:12:14,480 - 00:12:14,780] g,
+- [00:12:14,780 - 00:12:15,240] and c,
+- [00:12:15,400 - 00:12:17,340] I want to build a length.
+- [00:12:18,420 - 00:12:20,130] I want to build a
+- [00:12:20,130 - 00:12:21,840] quantity with the units of length
+- [00:12:21,840 - 00:12:24,500] and see how small or how big it is.
+- [00:12:25,260 - 00:12:26,160] So what do I do?
+- [00:12:27,080 - 00:12:29,820] Standard method for doing dimensional analysis
+- [00:12:30,520 - 00:12:31,360] is you say,
+- [00:12:31,360 - 00:12:33,000] I'm interested in some length.
+- [00:12:33,440 - 00:12:34,560] Let's call it L.
+- [00:12:34,640 - 00:12:35,960] It's the basic length that I
+- [00:12:35,960 - 00:12:37,280] can build out of these quantities.
+- [00:12:38,060 - 00:12:42,160] And it's c to some unknown power.
+- [00:12:42,160 - 00:12:43,330] I don't know what power
+- [00:12:43,330 - 00:12:44,500] to put there to begin with.
+- [00:12:47,400 - 00:12:50,120] h bar to some other unknown power.
+- [00:12:52,580 - 00:12:55,820] g to yet some other unknown power.
+- [00:12:59,100 - 00:13:01,880] And then we simply stick in these units
+- [00:13:01,880 - 00:13:04,760] and make sure that what's on the right side
+- [00:13:04,760 - 00:13:07,000] and the left side both have units of length.
+- [00:13:08,120 - 00:13:08,640] Okay,
+- [00:13:08,640 - 00:13:09,660] so let's put that in.
+- [00:13:10,100 - 00:13:11,720] c to the power a,
+- [00:13:12,160 - 00:13:13,700] is a length to the power a
+- [00:13:13,700 - 00:13:16,300] divided by a time to the power a.
+- [00:13:18,420 - 00:13:19,820] h bar to the b
+- [00:13:19,820 - 00:13:24,480] is a length to the 2b,
+- [00:13:26,220 - 00:13:27,820] a mass to the b,
+- [00:13:29,160 - 00:13:30,740] and a time to the b.
+- [00:13:32,760 - 00:13:33,760] And finally,
+- [00:13:33,760 - 00:13:36,440] g to the c,
+- [00:13:37,100 - 00:13:39,240] that's length to the 3c,
+- [00:13:41,040 - 00:13:44,560] divided by mass to the c,
+- [00:13:46,600 - 00:13:50,120] divided by time to the 2c.
+- [00:13:51,340 - 00:13:51,760] Right.
+- [00:13:52,480 - 00:13:53,680] And this all has to
+- [00:13:53,680 - 00:13:54,880] work out to be a length.
+- [00:13:55,740 - 00:13:57,400] I used capital L here.
+- [00:13:57,440 - 00:13:58,380] I should have used small l.
+- [00:13:58,500 - 00:14:00,000] This all has to add up to a length.
+- [00:14:00,140 - 00:14:00,320] Okay.
+- [00:14:01,060 - 00:14:03,060] So what's the first thing I can conclude?
+- [00:14:04,020 - 00:14:05,160] I've got to get rid
+- [00:14:05,160 - 00:14:06,300] of the masses and the times
+- [00:14:06,300 - 00:14:08,460] and only be left with a single power of length.
+- [00:14:09,359 - 00:14:12,320] So in order to get rid of the masses,
+- [00:14:12,819 - 00:14:16,160] I had better have that b is equal to c.
+- [00:14:16,400 - 00:14:17,580] That's my first conclusion.
+- [00:14:17,940 - 00:14:19,440] So why don't we stick that in.
+- [00:14:19,520 - 00:14:21,020] Let's put in everywhere we see it,
+- [00:14:21,040 - 00:14:22,680] let's put in b is equal to c
+- [00:14:23,780 - 00:14:24,920] and use it.
+- [00:14:26,220 - 00:14:26,660] Alright,
+- [00:14:26,660 - 00:14:27,300] so let's see.
+- [00:14:27,340 - 00:14:28,220] Wherever we see c,
+- [00:14:28,220 - 00:14:29,180] we can put b
+- [00:14:32,619 - 00:14:33,400] to b.
+- [00:14:34,640 - 00:14:37,300] And the masses now automatically cancel,
+- [00:14:37,520 - 00:14:38,620] so I can get rid of them.
+- [00:14:41,819 - 00:14:43,640] Now I want to get rid of the time.
+- [00:14:44,500 - 00:14:45,800] So that means what?
+- [00:14:45,980 - 00:14:52,100] That a plus b plus 2b has to be 0.
+- [00:14:52,720 - 00:14:54,340] It should be time to the 0.
+- [00:14:56,600 - 00:14:57,300] Say it again.
+- [00:15:00,560 - 00:15:01,380] To 0.
+- [00:15:01,840 - 00:15:02,480] To 0.
+- [00:15:02,980 - 00:15:05,480] There's no time on the right hand side.
+- [00:15:06,000 - 00:15:06,680] So alright,
+- [00:15:06,680 - 00:15:08,740] so that says that a plus 3b,
+- [00:15:11,640 - 00:15:12,820] should be equal to 0.
+- [00:15:14,740 - 00:15:16,420] And we've got to get a
+- [00:15:16,420 - 00:15:18,100] single power of length on this side.
+- [00:15:18,580 - 00:15:21,420] So that looks like it says that a plus 5b,
+- [00:15:21,620 - 00:15:22,700] I hope this works.
+- [00:15:23,520 - 00:15:24,960] a plus 5b,
+- [00:15:26,620 - 00:15:28,160] I don't recognize it at all.
+- [00:15:28,420 - 00:15:30,160] a plus 5b should be 1.
+- [00:15:32,020 - 00:15:33,860] a plus 5b should be 1.
+- [00:15:34,000 - 00:15:34,760] So on that side.
+- [00:15:34,860 - 00:15:36,780] Now we should be able to solve these two equations.
+- [00:15:37,520 - 00:15:39,220] The first thing to do is to suppose that
+- [00:15:39,240 - 00:15:40,960] we subtract the first one from the second one.
+- [00:15:41,080 - 00:15:41,840] We get rid of a.
+- [00:15:42,220 - 00:15:44,280] So that gives us 2b equals 1.
+- [00:15:45,700 - 00:15:47,320] And b equals a half.
+- [00:15:47,780 - 00:15:49,620] b equals a half.
+- [00:15:53,720 - 00:15:55,400] And then what about a then?
+- [00:15:56,020 - 00:15:57,300] b is a half,
+- [00:15:57,300 - 00:15:59,580] so a is equal to minus 3 halves.
+- [00:16:00,480 - 00:16:02,360] a equals minus 3 halves.
+- [00:16:05,120 - 00:16:08,360] And of course c is the same as b.
+- [00:16:08,360 - 00:16:12,020] So c equals b.
+- [00:16:13,040 - 00:16:13,600] Okay,
+- [00:16:13,600 - 00:16:18,380] now we can write down our unit of length.
+- [00:16:19,740 - 00:16:21,940] The fundamental unit of length now.
+- [00:16:22,680 - 00:16:24,520] Which is the speed of light.
+- [00:16:28,780 - 00:16:29,900] c to the,
+- [00:16:29,900 - 00:16:31,280] a is equal to plus.
+- [00:16:32,520 - 00:16:33,080] Minus,
+- [00:16:33,080 - 00:16:33,960] was it minus 3 halves?
+- [00:16:34,000 - 00:16:34,540] Did I get that right?
+- [00:16:37,660 - 00:16:38,840] Let's write l squared.
+- [00:16:40,800 - 00:16:41,260] 2a,
+- [00:16:41,260 - 00:16:41,720] 2b,
+- [00:16:41,720 - 00:16:42,620] 2b.
+- [00:16:42,660 - 00:16:43,360] I don't want to write a square.
+- [00:16:43,420 - 00:16:44,560] I don't feel like writing square roots.
+- [00:16:45,479 - 00:16:47,380] 2a is minus 3.
+- [00:16:48,720 - 00:16:49,900] So that's c cubed.
+- [00:16:50,700 - 00:16:51,160] No,
+- [00:16:51,160 - 00:16:51,880] c to the minus,
+- [00:16:51,880 - 00:16:53,060] 1 over c cubed.
+- [00:16:53,720 - 00:16:55,120] 1 over c cubed.
+- [00:16:56,380 - 00:16:58,300] h bar to the 2b.
+- [00:17:00,280 - 00:17:01,360] 2b is 1.
+- [00:17:01,360 - 00:17:02,680] h bar.
+- [00:17:05,060 - 00:17:07,440] And g is,
+- [00:17:07,440 - 00:17:11,180] g is also 1,
+- [00:17:11,180 - 00:17:11,599] sorry,
+- [00:17:11,599 - 00:17:13,099] b is also 1 half.
+- [00:17:13,700 - 00:17:15,339] So it's just g upstairs,
+- [00:17:15,339 - 00:17:15,800] right?
+- [00:17:17,200 - 00:17:17,760] Thus,
+- [00:17:17,760 - 00:17:19,760] the basic unit of length,
+- [00:17:19,760 - 00:17:21,119] the fundamental unit of length that
+- [00:17:21,119 - 00:17:22,480] you can build out of these,
+- [00:17:23,200 - 00:17:24,579] is equal to the square
+- [00:17:24,579 - 00:17:25,960] root of h bar c over,
+- [00:17:25,960 - 00:17:28,640] h bar g over c cubed.
+- [00:17:29,500 - 00:17:30,320] All right,
+- [00:17:30,320 - 00:17:30,880] the next thing,
+- [00:17:30,880 - 00:17:31,220] of course,
+- [00:17:31,220 - 00:17:31,480] now,
+- [00:17:31,480 - 00:17:33,220] is to ask how big is this length?
+- [00:17:34,120 - 00:17:34,600] Okay.
+- [00:17:34,820 - 00:17:36,140] How big is this length?
+- [00:17:36,520 - 00:17:38,000] And Planck did ask that.
+- [00:17:39,040 - 00:17:40,300] So we stick in,
+- [00:17:40,300 - 00:17:42,960] anybody know what h bar is in metric units?
+- [00:17:44,180 - 00:17:45,360] I can never remember.
+- [00:17:46,520 - 00:17:48,080] It's a very small number,
+- [00:17:48,080 - 00:17:48,720] right?
+- [00:17:50,020 - 00:17:52,180] g is a rather small number.
+- [00:17:52,280 - 00:17:54,780] 6.7 times 10 to the minus 11.
+- [00:17:55,000 - 00:17:56,580] h bar is,
+- [00:17:56,580 - 00:17:57,260] um...
+- [00:17:58,960 - 00:17:59,920] 10 to the minus what?
+- [00:18:01,500 - 00:18:03,040] 10 to the minus 30 something.
+- [00:18:03,740 - 00:18:05,700] And c is a very big number.
+- [00:18:06,340 - 00:18:07,220] So altogether,
+- [00:18:07,220 - 00:18:09,380] this is a very small number.
+- [00:18:11,420 - 00:18:11,860] Well,
+- [00:18:11,860 - 00:18:13,250] it's a little bit less small because you
+- [00:18:13,250 - 00:18:14,640] have to take the square root of it,
+- [00:18:14,700 - 00:18:15,860] but it's still pretty small.
+- [00:18:16,340 - 00:18:20,740] And this is about 10 to the minus 35 meters.
+- [00:18:22,480 - 00:18:23,520] That's the Planck length.
+- [00:18:24,440 - 00:18:25,640] That is the Planck length.
+- [00:18:25,660 - 00:18:27,020] 10 to the minus 35.
+- [00:18:27,020 - 00:18:27,560] 10 to the minus 35 meters.
+- [00:18:27,800 - 00:18:31,700] And given that c and h bar and
+- [00:18:31,700 - 00:18:35,600] g are such universal things that govern so much,
+- [00:18:35,600 - 00:18:37,880] measuring
+- [00:18:37,880 - 00:18:38,680] masses,
+- [00:18:38,680 - 00:18:39,580] oh,
+- [00:18:39,580 - 00:18:39,780] sorry,
+- [00:18:39,780 - 00:18:41,870] measuring lengths in units of
+- [00:18:41,870 - 00:18:43,960] this Planck length must mean something
+- [00:18:43,960 - 00:18:44,580] fundamental.
+- [00:18:45,240 - 00:18:46,920] That was Planck's,
+- [00:18:46,920 - 00:18:47,540] all right,
+- [00:18:47,540 - 00:18:52,060] let's do the time unit.
+- [00:18:52,600 - 00:18:55,400] The time unit is obvious now.
+- [00:18:55,400 - 00:18:56,960] There's a unit which is
+- [00:18:56,960 - 00:18:58,520] 10 to the minus 35 centimeters,
+- [00:18:59,000 - 00:19:00,790] and it's very clear that
+- [00:19:00,790 - 00:19:02,580] the time that's associated with it,
+- [00:19:02,640 - 00:19:03,160] here's my fist,
+- [00:19:03,160 - 00:19:05,080] it's 10 to the minus 35 centimeters,
+- [00:19:05,340 - 00:19:07,760] how long does it take light to travel across it?
+- [00:19:08,320 - 00:19:10,050] Light travels at 3 times 10
+- [00:19:10,050 - 00:19:11,780] to the eighth meters per second,
+- [00:19:12,480 - 00:19:15,780] so we have to divide this number
+- [00:19:15,780 - 00:19:19,080] by 3 times 10 to the eighth.
+- [00:19:21,140 - 00:19:21,880] All right,
+- [00:19:21,880 - 00:19:22,640] so the time...
+- [00:19:26,000 - 00:19:28,320] The corresponding time is equal
+- [00:19:28,320 - 00:19:30,640] to 10 to the minus 35,
+- [00:19:30,940 - 00:19:32,380] and when I say 10 to the minus 35,
+- [00:19:32,380 - 00:19:34,900] there's some numerical factor in front of it.
+- [00:19:36,540 - 00:19:38,680] 10 to the minus 35 times,
+- [00:19:38,680 - 00:19:41,120] divided by 3 times 10 to the eighth,
+- [00:19:41,360 - 00:19:42,080] all right,
+- [00:19:42,080 - 00:19:43,300] so let's put a 10 to
+- [00:19:43,300 - 00:19:44,520] the eighth here and another 3.
+- [00:19:45,419 - 00:19:47,280] 35 and 8 is what?
+- [00:19:50,940 - 00:19:51,600] All right,
+- [00:19:51,600 - 00:19:52,870] so this is of order
+- [00:19:52,870 - 00:19:54,140] 10 to the minus 43 seconds.
+- [00:19:57,660 - 00:19:58,940] That's the Planck time.
+- [00:19:59,460 - 00:20:00,380] But of course,
+- [00:20:00,380 - 00:20:02,190] all it really is is the time
+- [00:20:02,190 - 00:20:04,000] that it takes to travel by light
+- [00:20:04,000 - 00:20:06,000] across the Planck distance,
+- [00:20:06,000 - 00:20:07,140] so it's not a new thing.
+- [00:20:09,040 - 00:20:11,160] And what about the Planck mass?
+- [00:20:11,520 - 00:20:12,840] Let's do the Planck mass.
+- [00:20:14,280 - 00:20:17,480] How can we get a mass out of this easily?
+- [00:20:22,120 - 00:20:25,380] How can we get a mass without doing any work?
+- [00:20:28,780 - 00:20:29,580] Let's see.
+- [00:20:31,060 - 00:20:31,740] What's that?
+- [00:20:33,380 - 00:20:34,180] Say it again.
+- [00:20:35,160 - 00:20:35,720] Oh,
+- [00:20:35,720 - 00:20:35,980] oh,
+- [00:20:35,980 - 00:20:36,240] oh,
+- [00:20:36,240 - 00:20:36,420] oh,
+- [00:20:36,420 - 00:20:37,420] here's the way we do it.
+- [00:20:38,140 - 00:20:41,540] We use quantum mechanics to relate energy and time.
+- [00:20:42,880 - 00:20:44,320] Energy is mc squared,
+- [00:20:44,320 - 00:20:45,380] okay?
+- [00:20:45,880 - 00:20:48,620] So energy times time,
+- [00:20:51,780 - 00:20:53,840] which is mc squared,
+- [00:20:56,200 - 00:20:57,480] times time,
+- [00:20:59,380 - 00:21:01,660] that's energy times time.
+- [00:21:01,860 - 00:21:07,220] That should be like Planck's constant,
+- [00:21:07,220 - 00:21:07,780] right?
+- [00:21:07,920 - 00:21:13,460] Energy times time has the same units as Planck's constant.
+- [00:21:14,120 - 00:21:15,120] All right?
+- [00:21:15,160 - 00:21:18,380] So energy is mc squared times time,
+- [00:21:18,580 - 00:21:20,880] and that should be like Planck's constant.
+- [00:21:21,120 - 00:21:24,460] Equals here simply means has the same units as.
+- [00:21:24,460 - 00:21:29,080] But that means that we can construct a mass
+- [00:21:29,080 - 00:21:31,300] by taking Planck's constant
+- [00:21:32,880 - 00:21:35,560] and dividing it by the speed of light squared
+- [00:21:36,680 - 00:21:38,100] times the Planck time.
+- [00:21:38,360 - 00:21:39,760] Let's call it the Planck time.
+- [00:21:40,720 - 00:21:42,420] We know what the Planck time is.
+- [00:21:42,520 - 00:21:45,460] The Planck time is 10 to the minus 43 seconds.
+- [00:21:46,460 - 00:21:48,940] So there's a small number now in the denominator.
+- [00:21:50,540 - 00:21:52,480] A very small number in the denominator,
+- [00:21:52,740 - 00:21:54,220] a very small number in the numerator,
+- [00:21:54,220 - 00:21:55,920] another big number in the denominator.
+- [00:21:56,160 - 00:21:57,000] What do you get?
+- [00:21:57,080 - 00:22:00,300] You get a number which is neither terribly small
+- [00:22:00,300 - 00:22:01,460] nor terribly big.
+- [00:22:02,160 - 00:22:09,160] It's about 10 to the minus eighth kilograms.
+- [00:22:11,040 - 00:22:12,480] That's not terribly small.
+- [00:22:13,640 - 00:22:15,550] The Planck mass is about
+- [00:22:15,550 - 00:22:17,460] the mass of a dust mote.
+- [00:22:18,420 - 00:22:19,420] A dust mote.
+- [00:22:20,900 - 00:22:22,860] If you ask how much energy it is,
+- [00:22:22,900 - 00:22:24,200] how much energy would be related
+- [00:22:24,220 - 00:22:24,540] to the speed of light squared?
+- [00:22:24,540 - 00:22:24,540] Well,
+- [00:22:24,540 - 00:22:27,120] at least if you could turn all of that energy,
+- [00:22:27,380 - 00:22:28,800] all that mass into energy,
+- [00:22:29,020 - 00:22:30,410] you have to multiply it
+- [00:22:30,410 - 00:22:31,800] by the speed of light squared.
+- [00:22:33,620 - 00:22:37,680] Speed of light squared is about 10 to the 17.
+- [00:22:39,280 - 00:22:40,790] So 10 to the 17
+- [00:22:40,790 - 00:22:42,300] times 10 to the minus eighth
+- [00:22:42,300 - 00:22:43,920] is 10 to the ninth or something.
+- [00:22:44,000 - 00:22:44,500] Did I get that right?
+- [00:22:44,660 - 00:22:46,020] 10 to the ninth what?
+- [00:22:47,420 - 00:22:47,860] Joules.
+- [00:22:48,960 - 00:22:50,340] About a tank of gasoline.
+- [00:22:50,340 - 00:22:52,430] So I figured once that
+- [00:22:52,430 - 00:22:54,520] you could drive across the country
+- [00:22:54,520 - 00:22:59,320] with my old first car,
+- [00:22:59,320 - 00:23:00,020] a Ford.
+- [00:23:00,260 - 00:23:01,200] I still have a Ford.
+- [00:23:02,280 - 00:23:04,340] With my old first car
+- [00:23:04,340 - 00:23:06,400] on about 10 tanks of gasoline,
+- [00:23:06,760 - 00:23:08,640] which meant 10 Planck masses,
+- [00:23:08,780 - 00:23:10,880] which meant about 10 to the minus seventh kilograms.
+- [00:23:11,940 - 00:23:15,320] 10 Planck masses you could drive across the country.
+- [00:23:17,360 - 00:23:19,480] How do you get that?
+- [00:23:19,480 - 00:23:19,860] Well,
+- [00:23:19,860 - 00:23:19,860] you have to have a lot of energy.
+- [00:23:19,860 - 00:23:20,920] How did I get on that?
+- [00:23:21,700 - 00:23:22,720] Where did we get to that?
+- [00:23:24,580 - 00:23:25,960] That's Planck mass energy,
+- [00:23:25,960 - 00:23:26,800] all the same thing.
+- [00:23:26,960 - 00:23:27,580] What do we know?
+- [00:23:28,300 - 00:23:29,200] What do we know?
+- [00:23:29,200 - 00:23:29,460] Yeah,
+- [00:23:29,460 - 00:23:30,060] yeah.
+- [00:23:30,340 - 00:23:30,780] Okay,
+- [00:23:30,780 - 00:23:35,140] now the point is that this length scale,
+- [00:23:35,360 - 00:23:37,780] 10 to the minus 35 centimeters,
+- [00:23:38,639 - 00:23:44,520] is how much smaller than the scales that we probe,
+- [00:23:45,080 - 00:23:46,560] let's say at the LHC.
+- [00:23:47,320 - 00:23:54,210] The LHC probe scales about
+- [00:23:54,210 - 00:24:01,100] 10 to the minus 17 centimeters.
+- [00:24:05,280 - 00:24:07,400] But whatever that distance is,
+- [00:24:07,500 - 00:24:10,220] I do know that distance in Planck units,
+- [00:24:10,480 - 00:24:13,860] the distance that is probed in Planck units is huge,
+- [00:24:13,860 - 00:24:14,340] of course.
+- [00:24:14,400 - 00:24:15,720] The Planck unit is very small.
+- [00:24:16,560 - 00:24:18,700] The distances that are being probed at the LHC
+- [00:24:18,700 - 00:24:28,720] are about 10 to the 17th Planck lengths.
+- [00:24:35,220 - 00:24:37,860] 10 to the 17th is a gigantic number,
+- [00:24:38,040 - 00:24:41,300] and it means that the size scales that we're probing
+- [00:24:41,300 - 00:24:43,800] are huge by comparison,
+- [00:24:43,980 - 00:24:46,540] 17 orders of magnitude bigger than the Planck units.
+- [00:24:46,560 - 00:24:46,680] So that's the Planck scale.
+- [00:24:47,260 - 00:24:49,480] It's like the whole universe compared to a pea,
+- [00:24:49,620 - 00:24:50,480] if I'm not mistaken.
+- [00:24:50,640 - 00:24:52,160] I'm not sure that's exactly right,
+- [00:24:52,260 - 00:24:55,160] but it's a very discrepant length scale.
+- [00:24:55,800 - 00:24:57,120] And what don't we know?
+- [00:24:57,300 - 00:24:59,140] We don't know everything in between.
+- [00:25:00,460 - 00:25:01,100] All right,
+- [00:25:01,100 - 00:25:02,000] so as I said,
+- [00:25:02,000 - 00:25:05,440] we know that which we know
+- [00:25:05,440 - 00:25:08,300] is a lot less than that which we don't know.
+- [00:25:09,240 - 00:25:11,160] That's the entire range of phenomena.
+- [00:25:13,379 - 00:25:13,860] Nevertheless,
+- [00:25:13,860 - 00:25:15,340] if we look at the phenomena
+- [00:25:15,340 - 00:25:19,160] at that scale that the LHC is probing now,
+- [00:25:19,360 - 00:25:22,180] it looks like the standard model of particles
+- [00:25:22,180 - 00:25:23,860] is a highly accurate thing,
+- [00:25:24,040 - 00:25:26,880] but perhaps it's not too surprising
+- [00:25:26,880 - 00:25:30,160] that given that it's something that may have to
+- [00:25:31,360 - 00:25:38,160] arise somehow from 17 orders of magnitude,
+- [00:25:38,580 - 00:25:41,940] possibly different things going on between those two,
+- [00:25:42,960 - 00:25:45,120] not too surprising that there are a large number
+- [00:25:45,340 - 00:25:49,060] of parameters that are necessary in the standard model.
+- [00:25:49,460 - 00:25:50,820] It's just like nuclear physics.
+- [00:25:50,980 - 00:25:53,200] Nuclear physics takes place at a bigger scale,
+- [00:25:53,540 - 00:25:54,760] and again,
+- [00:25:54,760 - 00:25:56,580] you need even more parameters
+- [00:25:56,580 - 00:25:59,620] to describe nuclei because they're complicated.
+- [00:26:00,040 - 00:26:02,480] The objects that we're studying at the LHC
+- [00:26:02,480 - 00:26:04,780] are probably rather complicated,
+- [00:26:05,459 - 00:26:09,040] probably not the fundamental basic units of anything,
+- [00:26:10,139 - 00:26:12,000] and so as I said,
+- [00:26:12,000 - 00:26:13,860] we don't know everything in between.
+- [00:26:17,200 - 00:26:20,580] The question of why the parameters are what they are,
+- [00:26:20,740 - 00:26:21,900] and in particular,
+- [00:26:21,900 - 00:26:23,140] certain of the parameters
+- [00:26:23,140 - 00:26:24,800] which are highly fine-tuned
+- [00:26:25,340 - 00:26:28,020] and seem to have to lie in very,
+- [00:26:28,020 - 00:26:29,620] very narrow ranges
+- [00:26:30,090 - 00:26:31,595] in order to make the world
+- [00:26:31,595 - 00:26:33,100] be anything like what we see,
+- [00:26:34,240 - 00:26:37,700] those again are completely mysterious
+- [00:26:38,340 - 00:26:40,640] from the point of view of the mathematics
+- [00:26:40,640 - 00:26:42,920] of the standard model of particle physics.
+- [00:26:43,100 - 00:26:45,040] We don't know why they are what they are.
+- [00:26:45,879 - 00:26:49,500] I read that the recent results show
+- [00:26:49,500 - 00:26:51,000] that the Higgs boson is turning
+- [00:26:51,000 - 00:26:52,500] out to be lighter than expected.
+- [00:26:52,740 - 00:26:53,500] Is that a...
+- [00:26:53,500 - 00:26:54,500] Actually heavier than expected.
+- [00:26:54,720 - 00:26:55,260] Heavier than expected.
+- [00:26:56,040 - 00:26:57,620] Does that expose...
+- [00:26:57,620 - 00:26:57,940] Well,
+- [00:26:57,940 - 00:26:58,760] no,
+- [00:26:58,760 - 00:27:03,280] heavier or lighter than expected when?
+- [00:27:05,199 - 00:27:06,080] I mean,
+- [00:27:06,080 - 00:27:07,770] there was a time when it
+- [00:27:07,770 - 00:27:09,460] was thought to be very heavy.
+- [00:27:09,540 - 00:27:10,260] That was a long,
+- [00:27:10,260 - 00:27:10,860] long time ago.
+- [00:27:11,060 - 00:27:13,020] There's definitely new physics somewhere
+- [00:27:13,020 - 00:27:14,760] that keeps it to be as light as it is.
+- [00:27:15,340 - 00:27:15,440] Oh,
+- [00:27:15,440 - 00:27:15,820] oh,
+- [00:27:15,820 - 00:27:16,160] oh,
+- [00:27:16,160 - 00:27:16,500] oh,
+- [00:27:16,500 - 00:27:16,840] oh.
+- [00:27:18,840 - 00:27:19,320] Yeah.
+- [00:27:20,620 - 00:27:23,720] That's something I was heavily involved in in the 80s,
+- [00:27:24,280 - 00:27:24,520] earlier,
+- [00:27:24,520 - 00:27:26,060] the 1980s,
+- [00:27:26,060 - 00:27:26,820] late 70s.
+- [00:27:30,520 - 00:27:31,000] Yeah,
+- [00:27:31,000 - 00:27:31,480] the...
+- [00:27:32,620 - 00:27:35,220] We don't understand why the Higgs boson...
+- [00:27:35,220 - 00:27:35,640] Okay,
+- [00:27:35,640 - 00:27:37,720] so when I said as heavy as it is,
+- [00:27:37,760 - 00:27:38,500] or as light as it is,
+- [00:27:38,500 - 00:27:39,560] there's two things going on.
+- [00:27:40,880 - 00:27:42,380] The first question is,
+- [00:27:42,460 - 00:27:44,660] why are any particles...
+- [00:27:44,660 - 00:27:47,240] Where did we put the Planck mass?
+- [00:27:47,540 - 00:27:48,380] Here's the Planck mass.
+- [00:27:49,420 - 00:27:50,380] That's a big,
+- [00:27:50,380 - 00:27:51,040] heavy mass.
+- [00:27:51,240 - 00:27:51,380] I mean,
+- [00:27:51,380 - 00:27:52,540] on the scale of particles,
+- [00:27:52,540 - 00:27:53,580] elementary particles,
+- [00:27:53,720 - 00:27:55,700] this is a real giant mass.
+- [00:27:56,960 - 00:27:57,480] Many,
+- [00:27:57,480 - 00:27:59,190] many orders of magnitude heavier
+- [00:27:59,190 - 00:28:00,900] than electrons or anything else.
+- [00:28:02,340 - 00:28:03,400] First question is,
+- [00:28:03,400 - 00:28:05,400] why do any of the fundamental particles,
+- [00:28:05,580 - 00:28:06,600] if they're really fundamental,
+- [00:28:07,160 - 00:28:10,500] why are they so much lighter than the Planck mass?
+- [00:28:11,040 - 00:28:13,760] Why are there any particles which have masses...
+- [00:28:14,660 - 00:28:16,640] 10 to the minus 20,
+- [00:28:16,640 - 00:28:18,320] 10 to the minus 25,
+- [00:28:18,620 - 00:28:19,080] 23,
+- [00:28:19,080 - 00:28:20,180] whatever it is,
+- [00:28:20,180 - 00:28:22,500] 10 to the minus 22 Planck masses,
+- [00:28:22,600 - 00:28:23,360] that would be the electron,
+- [00:28:23,580 - 00:28:28,220] 10 to the minus 19 Planck masses for proton,
+- [00:28:30,200 - 00:28:30,680] quarks,
+- [00:28:30,680 - 00:28:31,760] some was in between.
+- [00:28:32,360 - 00:28:34,540] Why are any of the particles so light?
+- [00:28:36,340 - 00:28:39,340] It all traces to the properties of the Higgs boson,
+- [00:28:39,500 - 00:28:41,260] why the Higgs boson is so light.
+- [00:28:41,700 - 00:28:43,680] Why is the Higgs boson itself...
+- [00:28:45,680 - 00:28:48,940] so many orders of magnitude lighter than the...
+- [00:28:49,550 - 00:28:51,700] You read in the newspaper that the Higgs boson
+- [00:28:51,700 - 00:28:54,320] is the fundamental particle that makes the world work.
+- [00:28:54,520 - 00:28:55,860] Why doesn't it have this
+- [00:28:55,860 - 00:28:57,200] mass if it's so damn fundamental?
+- [00:28:58,560 - 00:29:00,840] And the answer is,
+- [00:29:01,470 - 00:29:03,620] you can make it be anything you want
+- [00:29:03,620 - 00:29:06,220] by tuning the parameters of the theory.
+- [00:29:06,760 - 00:29:08,540] There are parameters in the theory,
+- [00:29:08,600 - 00:29:10,540] and if you tune them in various ways,
+- [00:29:11,180 - 00:29:14,480] you can make that Higgs mass anything you want,
+- [00:29:14,660 - 00:29:16,800] but if you tune it crudely,
+- [00:29:17,500 - 00:29:18,720] with crude tuning,
+- [00:29:19,440 - 00:29:20,660] you're going to get this answer.
+- [00:29:22,300 - 00:29:25,420] If you tune the parameters in one range,
+- [00:29:25,620 - 00:29:26,540] you'll get this answer,
+- [00:29:26,540 - 00:29:27,840] with a positive sign.
+- [00:29:28,580 - 00:29:30,820] If you tune the parameters the other way,
+- [00:29:30,920 - 00:29:32,320] you'll get it with a negative sign.
+- [00:29:32,720 - 00:29:33,960] On a tiny,
+- [00:29:33,960 - 00:29:36,660] tiny little knife edge of parameter space,
+- [00:29:37,640 - 00:29:38,900] you can get the Higgs
+- [00:29:38,900 - 00:29:40,160] mass to come out to be
+- [00:29:41,120 - 00:29:42,500] what it's observed to be.
+- [00:29:46,660 - 00:29:49,080] Unless there's other physics going on
+- [00:29:49,080 - 00:29:50,600] other than the standard model.
+- [00:29:50,960 - 00:29:52,570] So given that the Higgs mass
+- [00:29:52,570 - 00:29:54,180] is as light as it is,
+- [00:29:54,760 - 00:29:58,740] people have invented explanations of why it's so light,
+- [00:29:58,940 - 00:30:00,800] but they tend to overshoot.
+- [00:30:01,560 - 00:30:04,140] They tend to overshoot the standard explanation
+- [00:30:04,140 - 00:30:06,280] of why the Higgs mass is so light.
+- [00:30:06,380 - 00:30:07,660] It's called supersymmetry.
+- [00:30:07,780 - 00:30:08,560] We're not going there,
+- [00:30:08,560 - 00:30:12,260] but I've been there.
+- [00:30:14,100 - 00:30:14,640] And...
+- [00:30:17,719 - 00:30:20,300] And in the simplest supersymmetric models,
+- [00:30:20,480 - 00:30:22,100] it tends to overshoot the mark.
+- [00:30:22,480 - 00:30:27,360] And instead of getting mass of 125 GeV,
+- [00:30:27,520 - 00:30:28,800] or whatever the right number is,
+- [00:30:29,000 - 00:30:31,360] it comes out to be about 100 GeV.
+- [00:30:32,480 - 00:30:33,980] That's a significant difference.
+- [00:30:34,340 - 00:30:36,220] That's a very significant difference.
+- [00:30:36,740 - 00:30:40,300] So it's both too light from one point of view,
+- [00:30:40,420 - 00:30:42,920] but then from the overshot theory,
+- [00:30:43,140 - 00:30:44,640] which tends to overshot,
+- [00:30:44,660 - 00:30:46,140] to make it even lighter than it is,
+- [00:30:46,220 - 00:30:47,560] it's a little too heavy.
+- [00:30:48,560 - 00:30:50,100] So that was my funny answer
+- [00:30:50,520 - 00:30:52,920] when you said it was too light,
+- [00:30:53,060 - 00:30:53,940] I said it was too heavy.
+- [00:30:55,120 - 00:30:57,800] How does the Higgs get massed in other particles?
+- [00:30:58,440 - 00:30:59,770] I think I gave a lecture
+- [00:30:59,770 - 00:31:01,100] on it about a year ago,
+- [00:31:01,380 - 00:31:04,380] and I think I remember seeing you in the audience.
+- [00:31:08,059 - 00:31:09,340] It was the last talk.
+- [00:31:10,539 - 00:31:10,939] Yeah,
+- [00:31:10,939 - 00:31:12,020] I remember it.
+- [00:31:13,320 - 00:31:14,980] And it's still on the internet.
+- [00:31:15,860 - 00:31:17,420] So I believe from that lecture,
+- [00:31:17,580 - 00:31:20,440] you said the Higgs is what makes all the
+- [00:31:20,440 - 00:31:22,560] quote normal particles have any mass at all.
+- [00:31:22,860 - 00:31:24,140] Not the proton and neutron.
+- [00:31:24,660 - 00:31:30,060] So would we expect the WIMPs or whatever,
+- [00:31:30,200 - 00:31:31,160] the dark matter particles,
+- [00:31:31,280 - 00:31:33,900] to have orderly mass or more?
+- [00:31:34,040 - 00:31:34,360] Well,
+- [00:31:34,360 - 00:31:36,760] WIMP stands for
+- [00:31:36,760 - 00:31:39,040] Weakly Interacting Mass of Particle.
+- [00:31:40,600 - 00:31:41,640] Weakly Interacting,
+- [00:31:42,020 - 00:31:46,000] means that it has cross sections and properties
+- [00:31:46,000 - 00:31:48,260] consistent with the weak interactions.
+- [00:31:49,000 - 00:31:49,600] Now,
+- [00:31:49,600 - 00:31:52,520] the reason people want it to be a WIMP
+- [00:31:52,520 - 00:31:53,980] is because they want to be
+- [00:31:53,980 - 00:31:55,440] able to discover it in a laboratory.
+- [00:31:55,900 - 00:32:00,340] If the cross sections and interactions with ordinary matter
+- [00:32:00,340 - 00:32:01,580] are much,
+- [00:32:01,580 - 00:32:02,300] much less
+- [00:32:02,980 - 00:32:05,020] than what is called weakly interacting.
+- [00:32:05,320 - 00:32:07,180] Weakly interacting is not a generic term.
+- [00:32:07,300 - 00:32:08,720] It means some special number.
+- [00:32:09,520 - 00:32:11,480] If the cross sections were scattering,
+- [00:32:11,480 - 00:32:14,160] if the influence and the interactions with ordinary matter
+- [00:32:14,160 - 00:32:14,960] are too weak,
+- [00:32:14,960 - 00:32:16,000] you'll never discover it.
+- [00:32:16,540 - 00:32:19,480] If it's in the range that people call WIMPs,
+- [00:32:21,980 - 00:32:25,300] then the various constraints of cosmology,
+- [00:32:25,360 - 00:32:26,160] particle physics,
+- [00:32:26,160 - 00:32:27,300] and a number of other things
+- [00:32:27,940 - 00:32:28,680] tell you,
+- [00:32:28,680 - 00:32:28,960] no,
+- [00:32:28,960 - 00:32:32,000] those WIMPs on the Planck scale mass,
+- [00:32:32,320 - 00:32:33,700] the Planck mass scale,
+- [00:32:34,020 - 00:32:35,840] will still be very light.
+- [00:32:36,080 - 00:32:37,630] They'll be heavier than the proton
+- [00:32:37,630 - 00:32:39,180] by a factor of a thousand
+- [00:32:39,180 - 00:32:40,280] or something like that,
+- [00:32:40,280 - 00:32:41,240] or maybe ten thousand,
+- [00:32:41,820 - 00:32:43,960] but they won't be Planck scale.
+- [00:32:44,160 - 00:32:45,160] On the other hand,
+- [00:32:45,160 - 00:32:48,240] if you allow them to be arbitrarily weakly interacting,
+- [00:32:50,300 - 00:32:52,460] so that we will never be able to discover them,
+- [00:32:52,680 - 00:32:54,720] then the mass of those things could be anything.
+- [00:32:55,900 - 00:32:56,340] And,
+- [00:32:56,340 - 00:32:56,640] uh,
+- [00:32:58,520 - 00:32:58,960] uh,
+- [00:32:58,960 - 00:32:59,620] so,
+- [00:33:00,360 - 00:33:03,240] part of the set of assumptions
+- [00:33:03,240 - 00:33:05,260] that goes into many,
+- [00:33:05,260 - 00:33:06,820] many papers on WIMPs
+- [00:33:07,360 - 00:33:08,220] is that we're,
+- [00:33:08,220 - 00:33:08,840] you know,
+- [00:33:08,840 - 00:33:09,440] they're in the range
+- [00:33:09,440 - 00:33:10,160] of what means you can be discovered.
+- [00:33:10,800 - 00:33:11,320] Yeah?
+- [00:33:11,480 - 00:33:11,880] Yeah,
+- [00:33:11,880 - 00:33:12,100] um,
+- [00:33:12,100 - 00:33:13,300] Planck constant,
+- [00:33:13,300 - 00:33:14,020] Planck mass,
+- [00:33:14,020 - 00:33:14,820] Planck time
+- [00:33:14,820 - 00:33:16,280] are fundamental,
+- [00:33:16,280 - 00:33:18,160] the smallest units of it.
+- [00:33:18,320 - 00:33:19,040] All right,
+- [00:33:19,040 - 00:33:19,380] all right.
+- [00:33:19,580 - 00:33:20,100] Uh,
+- [00:33:20,100 - 00:33:21,940] Planck time,
+- [00:33:21,940 - 00:33:23,020] Planck length,
+- [00:33:23,020 - 00:33:23,840] Planck constant
+- [00:33:23,840 - 00:33:25,520] are fundamental units,
+- [00:33:25,520 - 00:33:26,940] they're like the building blocks,
+- [00:33:27,060 - 00:33:28,240] but a Planck mass seems,
+- [00:33:28,560 - 00:33:31,220] what is the semantics of it?
+- [00:33:31,280 - 00:33:32,500] What does it signify?
+- [00:33:34,220 - 00:33:36,320] It's the mass of the smallest black hole.
+- [00:33:37,460 - 00:33:38,420] That's what it is.
+- [00:33:39,440 - 00:33:42,160] It's the mass of the smallest possible black hole.
+- [00:33:42,380 - 00:33:43,020] What is it?
+- [00:33:43,020 - 00:33:43,440] Why?
+- [00:33:43,440 - 00:33:44,100] How did it?
+- [00:33:44,200 - 00:33:45,220] Why black holes?
+- [00:33:45,640 - 00:33:46,240] Well,
+- [00:33:46,240 - 00:33:48,880] it contains G.
+- [00:33:50,620 - 00:33:52,640] You know that black holes have entropy.
+- [00:33:52,940 - 00:33:54,580] They have information content.
+- [00:33:55,080 - 00:33:57,360] Their information content is,
+- [00:33:57,360 - 00:33:57,740] uh,
+- [00:33:57,740 - 00:33:58,880] proportional to,
+- [00:33:58,880 - 00:33:59,280] um,
+- [00:34:00,300 - 00:34:00,900] uh,
+- [00:34:00,900 - 00:34:02,160] to some of these constants.
+- [00:34:03,040 - 00:34:06,080] The information content of the smallest black hole
+- [00:34:06,080 - 00:34:07,620] is one bit of information.
+- [00:34:08,739 - 00:34:09,960] In Planck units,
+- [00:34:09,960 - 00:34:11,860] it has an area of its horizon,
+- [00:34:12,080 - 00:34:13,780] which is one unit in Planck area.
+- [00:34:14,320 - 00:34:16,040] If you ask what its mass is,
+- [00:34:16,699 - 00:34:19,620] the mass of the smallest possible black hole
+- [00:34:19,620 - 00:34:21,260] is basically one Planck unit.
+- [00:34:22,040 - 00:34:22,500] So,
+- [00:34:22,500 - 00:34:22,820] uh,
+- [00:34:22,820 - 00:34:23,620] that's what it is.
+- [00:34:25,040 - 00:34:26,500] So does that mean that there's a,
+- [00:34:26,500 - 00:34:27,139] sort of,
+- [00:34:27,139 - 00:34:29,219] does that mean there's a
+- [00:34:29,219 - 00:34:31,300] fundamental energy content to one bit?
+- [00:34:31,679 - 00:34:32,139] Yes.
+- [00:34:32,139 - 00:34:33,440] Yes.
+- [00:34:33,900 - 00:34:34,699] The Planck,
+- [00:34:34,699 - 00:34:35,300] the Planck unit,
+- [00:34:35,300 - 00:34:35,600] yeah.
+- [00:34:36,159 - 00:34:36,739] Sort of.
+- [00:34:38,259 - 00:34:38,739] Now,
+- [00:34:38,739 - 00:34:41,060] there can be particles which are lighter than that,
+- [00:34:41,120 - 00:34:42,100] but they're not black holes,
+- [00:34:42,360 - 00:34:44,980] and they don't carry the same kind of information.
+- [00:34:46,340 - 00:34:46,820] Yeah.
+- [00:34:47,340 - 00:34:47,820] The,
+- [00:34:47,820 - 00:34:48,320] um,
+- [00:34:51,340 - 00:34:51,820] yeah,
+- [00:34:51,820 - 00:34:53,500] there's an energy content,
+- [00:34:53,500 - 00:34:54,320] in a sense,
+- [00:34:54,340 - 00:34:55,639] to a single bit of information.
+- [00:34:56,480 - 00:34:58,640] And that's the Planck mass?
+- [00:34:58,860 - 00:34:59,000] Mm-hmm.
+- [00:35:00,960 - 00:35:01,440] Yeah.
+- [00:35:03,600 - 00:35:04,720] That's not to say there
+- [00:35:04,720 - 00:35:05,840] can't be things which are lighter.
+- [00:35:05,840 - 00:35:08,600] But they won't be the same kind of things.
+- [00:35:10,220 - 00:35:10,740] Okay.
+- [00:35:11,140 - 00:35:13,880] Are we ready to start the cosmology for the evening?
+- [00:35:14,480 - 00:35:15,000] Yeah.
+- [00:35:15,000 - 00:35:15,680] That's good.
+- [00:35:16,920 - 00:35:17,580] You know,
+- [00:35:17,580 - 00:35:18,260] from now on,
+- [00:35:19,320 - 00:35:21,210] I could set C and
+- [00:35:21,210 - 00:35:23,100] H-bar and G equal to one,
+- [00:35:23,620 - 00:35:25,740] and say we are working in Planck units.
+- [00:35:26,240 - 00:35:27,660] And Planck units,
+- [00:35:29,440 - 00:35:30,840] where the length,
+- [00:35:30,840 - 00:35:32,420] the Planck length scale is
+- [00:35:32,420 - 00:35:34,000] 10 to the minus 35 meters,
+- [00:35:34,280 - 00:35:35,820] the Planck time is 10 to the minus 35 meters,
+- [00:35:35,840 - 00:35:37,340] 10 to the minus 43 seconds,
+- [00:35:37,460 - 00:35:38,690] and the Planck mass is
+- [00:35:38,690 - 00:35:39,920] 10 to the minus 8 kilograms,
+- [00:35:40,640 - 00:35:43,180] if you go back and you ask what is C,
+- [00:35:43,180 - 00:35:43,780] H-bar,
+- [00:35:43,780 - 00:35:44,120] and G,
+- [00:35:44,280 - 00:35:45,540] they're all equal to one.
+- [00:35:47,460 - 00:35:47,940] So,
+- [00:35:47,940 - 00:35:48,280] uh,
+- [00:35:49,340 - 00:35:51,840] physicists often tend to work in Planck units.
+- [00:35:51,980 - 00:35:52,420] And in fact,
+- [00:35:52,420 - 00:35:53,200] I remember
+- [00:35:54,300 - 00:35:56,380] all sorts of orders of magnitude,
+- [00:35:57,200 - 00:35:58,760] relations between units,
+- [00:35:58,900 - 00:36:01,500] by remembering what they are in Planck units.
+- [00:36:02,700 - 00:36:03,180] It's,
+- [00:36:03,180 - 00:36:03,220] uh,
+- [00:36:04,700 - 00:36:06,820] and I transfer back and forth from,
+- [00:36:06,820 - 00:36:07,040] uh,
+- [00:36:07,260 - 00:36:09,840] from various units of ordinary physics,
+- [00:36:10,020 - 00:36:10,780] laboratory physics,
+- [00:36:10,920 - 00:36:13,080] by first remembering what they are in Planck units.
+- [00:36:14,880 - 00:36:17,020] It's easier to remember one set of units
+- [00:36:17,020 - 00:36:18,300] and then stick to that.
+- [00:36:20,920 - 00:36:21,400] Uh,
+- [00:36:21,400 - 00:36:21,880] yeah.
+- [00:36:23,020 - 00:36:23,500] Okay,
+- [00:36:23,500 - 00:36:25,840] so let's begin with
+- [00:36:26,740 - 00:36:28,220] the map of the universe,
+- [00:36:28,420 - 00:36:30,260] which I think I sent over the internet,
+- [00:36:30,460 - 00:36:31,700] and which most of you have seen.
+- [00:36:33,220 - 00:36:33,840] Where's the eraser?
+- [00:36:33,840 - 00:36:34,300] No eraser?
+- [00:36:34,640 - 00:36:35,080] On the table.
+- [00:36:36,940 - 00:36:37,980] All right,
+- [00:36:37,980 - 00:36:39,620] the map is called WMAP.
+- [00:36:42,800 - 00:36:44,100] W is somebody's name,
+- [00:36:44,100 - 00:36:44,760] Wilkinson,
+- [00:36:44,760 - 00:36:44,920] but,
+- [00:36:44,920 - 00:36:45,160] uh,
+- [00:36:45,960 - 00:36:46,480] but,
+- [00:36:46,480 - 00:36:46,760] uh,
+- [00:36:46,760 - 00:36:47,620] WMAP
+- [00:36:48,220 - 00:36:49,600] is a map of the sky
+- [00:36:50,100 - 00:36:50,960] in the microwave,
+- [00:36:51,640 - 00:36:55,620] and what it's looking at is the thermal remnant
+- [00:36:56,680 - 00:36:59,460] microwave radiation that we've talked about earlier,
+- [00:37:00,120 - 00:37:01,040] coming from...
+- [00:37:03,220 - 00:37:04,800] the era of decoupling.
+- [00:37:05,500 - 00:37:06,680] When we look back,
+- [00:37:06,680 - 00:37:07,280] here we are.
+- [00:37:09,180 - 00:37:10,200] Different shells.
+- [00:37:10,800 - 00:37:13,160] And the furthest out shell that we can see
+- [00:37:13,160 - 00:37:16,120] is the shell where the universe became opaque
+- [00:37:16,660 - 00:37:18,240] because it was ionized.
+- [00:37:18,700 - 00:37:19,100] Okay?
+- [00:37:19,320 - 00:37:21,360] Out there is the furthest shell we can see,
+- [00:37:21,480 - 00:37:23,320] and we don't really see it through a telescope,
+- [00:37:23,520 - 00:37:25,120] we see it through microwave detectors,
+- [00:37:26,080 - 00:37:28,260] and the radiation from that,
+- [00:37:28,260 - 00:37:28,600] uh,
+- [00:37:28,720 - 00:37:29,880] from those places here
+- [00:37:29,880 - 00:37:33,200] has been redshifted by about a factor of a thousand.
+- [00:37:35,000 - 00:37:36,900] It started out as,
+- [00:37:36,900 - 00:37:37,140] uh,
+- [00:37:37,500 - 00:37:38,660] roughly speaking,
+- [00:37:38,660 - 00:37:39,380] um,
+- [00:37:40,300 - 00:37:41,300] ordinary light,
+- [00:37:41,300 - 00:37:42,240] maybe a little hotter,
+- [00:37:42,940 - 00:37:45,220] and arrives at us at,
+- [00:37:45,220 - 00:37:45,540] uh,
+- [00:37:45,760 - 00:37:47,900] three degree blackbody radiation.
+- [00:37:49,540 - 00:37:51,820] Could you say exactly what that map is?
+- [00:37:51,820 - 00:37:52,240] What,
+- [00:37:52,240 - 00:37:52,380] what?
+- [00:37:52,380 - 00:37:53,180] No,
+- [00:37:53,180 - 00:37:53,920] we're talking about the map,
+- [00:37:53,920 - 00:37:54,120] yeah.
+- [00:37:54,440 - 00:37:55,260] All right,
+- [00:37:55,260 - 00:37:55,480] right.
+- [00:37:56,860 - 00:37:59,400] Like the direction it corresponds to
+- [00:37:59,400 - 00:38:00,300] and the weight scales?
+- [00:38:00,740 - 00:38:00,820] Yeah,
+- [00:38:00,820 - 00:38:00,960] yeah,
+- [00:38:00,960 - 00:38:01,080] yeah.
+- [00:38:01,080 - 00:38:01,840] Yeah.
+- [00:38:03,220 - 00:38:03,760] Okay.
+- [00:38:04,980 - 00:38:06,900] So if you look around with a,
+- [00:38:06,900 - 00:38:07,480] with a,
+- [00:38:07,480 - 00:38:07,620] uh,
+- [00:38:07,820 - 00:38:08,320] infrared,
+- [00:38:08,320 - 00:38:08,760] uh,
+- [00:38:09,080 - 00:38:10,320] not an infrared,
+- [00:38:10,320 - 00:38:11,580] a microwave telescope,
+- [00:38:11,700 - 00:38:13,340] and you point it in different directions,
+- [00:38:13,560 - 00:38:15,040] you pick up this radiation.
+- [00:38:15,400 - 00:38:17,680] And the radiation is very isotropic.
+- [00:38:18,060 - 00:38:20,280] The temperature in every direction
+- [00:38:20,280 - 00:38:22,520] is about 2.7 degrees.
+- [00:38:23,340 - 00:38:25,500] And to very high precision,
+- [00:38:25,760 - 00:38:27,320] everything is very,
+- [00:38:27,320 - 00:38:28,340] very isotropic.
+- [00:38:28,460 - 00:38:29,020] To very,
+- [00:38:29,020 - 00:38:29,900] very high precision.
+- [00:38:31,920 - 00:38:33,120] Perfect isotropy,
+- [00:38:33,220 - 00:38:36,140] would also mean perfect homogeneity for the universe.
+- [00:38:36,680 - 00:38:38,800] The universe is not perfectly homogeneous.
+- [00:38:40,020 - 00:38:41,040] And if it was,
+- [00:38:41,040 - 00:38:43,580] if it was perfectly homogeneous in the end,
+- [00:38:43,660 - 00:38:45,440] it would remain perfectly homogeneous.
+- [00:38:46,820 - 00:38:48,320] So there must have been some,
+- [00:38:49,740 - 00:38:52,640] at least very small inhomogeneities.
+- [00:38:52,700 - 00:38:53,060] Small,
+- [00:38:53,060 - 00:38:54,240] I don't mean small in size,
+- [00:38:54,420 - 00:38:56,020] I mean small in magnitude.
+- [00:38:56,300 - 00:38:58,660] Small inhomogeneities.
+- [00:38:59,640 - 00:39:02,360] So you look out at the universe in different directions,
+- [00:39:02,360 - 00:39:03,380] and this oval,
+- [00:39:07,380 - 00:39:10,140] that's just a projection onto the plane
+- [00:39:10,140 - 00:39:11,500] of all directions.
+- [00:39:11,940 - 00:39:14,120] This point over here is the same point
+- [00:39:14,120 - 00:39:15,380] as this point over here.
+- [00:39:16,000 - 00:39:17,240] There's a northern half,
+- [00:39:17,240 - 00:39:18,140] the southern half,
+- [00:39:18,280 - 00:39:19,230] the north half is not
+- [00:39:19,230 - 00:39:20,180] the same as the southern half.
+- [00:39:20,340 - 00:39:21,500] And what does north and south mean?
+- [00:39:22,240 - 00:39:23,650] It's plotted in such a way
+- [00:39:23,650 - 00:39:25,060] that right down the middle here
+- [00:39:26,620 - 00:39:28,060] is the galactic plane.
+- [00:39:28,940 - 00:39:30,460] We are sitting in the middle,
+- [00:39:30,500 - 00:39:31,860] we're surrounded by a galaxy,
+- [00:39:32,360 - 00:39:34,400] we look out in all possible directions,
+- [00:39:34,560 - 00:39:36,200] and of course what we see is the galaxy.
+- [00:39:36,420 - 00:39:37,240] In some directions,
+- [00:39:37,240 - 00:39:39,260] the galaxy is very,
+- [00:39:39,260 - 00:39:39,840] very dense.
+- [00:39:40,420 - 00:39:41,380] Other directions,
+- [00:39:41,380 - 00:39:42,120] not so dense.
+- [00:39:42,620 - 00:39:44,070] So the center of the galaxy
+- [00:39:44,070 - 00:39:45,520] is placed at the center here.
+- [00:39:47,460 - 00:39:50,320] These points here are looking away from the galaxy.
+- [00:39:50,760 - 00:39:53,760] That's looking straight at the center of the galaxy.
+- [00:39:54,280 - 00:39:55,780] This is looking up,
+- [00:39:55,780 - 00:39:56,960] up above,
+- [00:39:57,120 - 00:39:58,660] to the north of the,
+- [00:39:58,660 - 00:40:00,340] it's called the north,
+- [00:40:00,400 - 00:40:01,860] I'm not sure if it's really north.
+- [00:40:01,860 - 00:40:02,280] It is,
+- [00:40:02,280 - 00:40:02,580] it is,
+- [00:40:02,580 - 00:40:03,860] it is,
+- [00:40:03,860 - 00:40:04,140] it is,
+- [00:40:04,140 - 00:40:04,880] it is,
+- [00:40:04,880 - 00:40:05,340] it is.
+- [00:40:05,640 - 00:40:06,900] It is toward the north.
+- [00:40:07,360 - 00:40:08,880] This is the northern hemisphere,
+- [00:40:09,040 - 00:40:10,200] this is the southern hemisphere,
+- [00:40:10,360 - 00:40:13,460] and that's the whole 4 pi solid angle
+- [00:40:14,160 - 00:40:15,800] that astronomers can see.
+- [00:40:16,680 - 00:40:20,080] What we're looking at now is not stars and galaxies
+- [00:40:20,080 - 00:40:20,680] and so forth,
+- [00:40:20,680 - 00:40:21,920] although stars and galaxies
+- [00:40:21,920 - 00:40:24,680] could be plotted on exactly the same thing.
+- [00:40:25,100 - 00:40:26,900] We're looking at the microwave background.
+- [00:40:27,660 - 00:40:29,300] And the first approximation,
+- [00:40:29,980 - 00:40:31,840] what's seen for that microwave background
+- [00:40:31,860 - 00:40:32,400] well,
+- [00:40:32,400 - 00:40:35,220] there's a band across the center
+- [00:40:35,220 - 00:40:36,960] because we see microwaves coming
+- [00:40:36,960 - 00:40:38,700] from the plane of the galaxies.
+- [00:40:39,600 - 00:40:41,080] These people are very,
+- [00:40:41,080 - 00:40:41,680] very clever
+- [00:40:41,680 - 00:40:43,640] and they know how to subtract it out.
+- [00:40:44,040 - 00:40:46,320] So after it's been subtracted out,
+- [00:40:46,540 - 00:40:49,440] what's seen is extremely featureless,
+- [00:40:52,120 - 00:40:53,400] extremely isotropic,
+- [00:40:54,620 - 00:40:58,780] indicating that the universe is isotropic around us
+- [00:40:58,780 - 00:41:00,600] and therefore rather homogeneous.
+- [00:41:01,860 - 00:41:02,080] Okay,
+- [00:41:02,080 - 00:41:02,840] but as I said,
+- [00:41:04,440 - 00:41:06,600] something accounted for the fluctuations
+- [00:41:06,600 - 00:41:08,620] or the ripples and so forth
+- [00:41:09,080 - 00:41:10,420] which led to galaxies,
+- [00:41:10,420 - 00:41:10,980] clusters,
+- [00:41:10,980 - 00:41:12,080] superclusters.
+- [00:41:12,440 - 00:41:14,560] Remember the pictures we drew last time
+- [00:41:14,560 - 00:41:17,500] of caustics at the bottom of the swimming pool?
+- [00:41:18,320 - 00:41:20,000] Caustics at the bottom of the swimming pool
+- [00:41:20,000 - 00:41:21,540] come from little surface ripples
+- [00:41:21,540 - 00:41:22,820] at the top of the swimming pool.
+- [00:41:24,500 - 00:41:25,870] And so when going from the top
+- [00:41:25,870 - 00:41:27,240] to the bottom of the swimming pool,
+- [00:41:27,360 - 00:41:29,680] if the swimming pool was perfectly flat on the top,
+- [00:41:29,780 - 00:41:31,840] it would be no caustics on the bottom.
+- [00:41:31,860 - 00:41:33,840] The fact that we see structure,
+- [00:41:34,860 - 00:41:38,660] galaxies forming these intricate patterns,
+- [00:41:38,960 - 00:41:41,940] means that those patterns must have been there
+- [00:41:42,480 - 00:41:44,120] at least in a very,
+- [00:41:44,120 - 00:41:47,400] very weak form to begin with.
+- [00:41:49,259 - 00:41:51,340] The WMAP map
+- [00:41:51,860 - 00:41:55,800] is exactly a map of the temperature distribution.
+- [00:41:56,500 - 00:41:57,340] Now,
+- [00:41:57,340 - 00:42:01,360] the temperature distribution is very close
+- [00:42:01,360 - 00:42:04,120] in all directions to that good old 2.7,
+- [00:42:04,120 - 00:42:04,940] whatever it is,
+- [00:42:04,940 - 00:42:06,100] Kelvin,
+- [00:42:06,860 - 00:42:08,620] but it varies a little bit.
+- [00:42:09,020 - 00:42:09,900] And in fact,
+- [00:42:09,900 - 00:42:11,740] the variations in the temperature,
+- [00:42:12,020 - 00:42:13,440] the fluctuations in it,
+- [00:42:13,440 - 00:42:15,300] meaning to say the inhomogeneities,
+- [00:42:16,130 - 00:42:18,740] divided by the average temperature itself
+- [00:42:19,340 - 00:42:22,440] are of order 10 to the minus 5.
+- [00:42:23,120 - 00:42:25,020] One part in 100,000.
+- [00:42:25,460 - 00:42:27,420] That's very difficult to detect,
+- [00:42:27,420 - 00:42:27,900] obviously.
+- [00:42:28,460 - 00:42:30,560] Anything that's one part in 100,000
+- [00:42:31,360 - 00:42:32,620] is hard to detect.
+- [00:42:34,100 - 00:42:36,400] But when I say that that's true,
+- [00:42:37,100 - 00:42:39,780] let me tell you two places that number came from.
+- [00:42:40,340 - 00:42:43,080] One place that number came from was
+- [00:42:43,080 - 00:42:46,860] from the known distribution of masses in the universe
+- [00:42:46,860 - 00:42:48,520] traced backward
+- [00:42:50,300 - 00:42:52,040] when cosmologists asked
+- [00:42:52,040 - 00:42:54,840] how much variation would there have had to been
+- [00:42:54,840 - 00:42:57,800] at decoupling in order that it would have evolved
+- [00:42:58,100 - 00:42:59,160] into what we see today.
+- [00:42:59,900 - 00:43:00,500] Okay?
+- [00:43:01,360 - 00:43:05,400] The technology for doing simulations today is very good.
+- [00:43:05,580 - 00:43:07,000] In those days it was less good.
+- [00:43:09,080 - 00:43:10,120] But nevertheless,
+- [00:43:10,120 - 00:43:11,800] there was enough technology
+- [00:43:11,800 - 00:43:13,020] in the form of simulations,
+- [00:43:13,180 - 00:43:15,380] both analytic and computer,
+- [00:43:16,820 - 00:43:17,520] you know,
+- [00:43:17,520 - 00:43:19,680] 25 years ago or something like that,
+- [00:43:19,720 - 00:43:20,360] maybe a little more,
+- [00:43:21,140 - 00:43:24,040] that it was pretty clear that there had to be
+- [00:43:24,040 - 00:43:28,220] local fluctuations of roughly this big
+- [00:43:28,220 - 00:43:31,100] in order to translate into what we see today.
+- [00:43:31,760 - 00:43:32,340] Okay?
+- [00:43:32,660 - 00:43:35,900] The other place that it came from is direct observation.
+- [00:43:36,500 - 00:43:39,540] The Wilkinson map is a direct measurement
+- [00:43:39,540 - 00:43:41,860] of the temperature distributions over here.
+- [00:43:42,200 - 00:43:43,700] And it doesn't look...
+- [00:43:44,090 - 00:43:46,040] On the scale of 10 to the minus 5,
+- [00:43:46,200 - 00:43:47,460] you have to escalate everything up
+- [00:43:47,460 - 00:43:49,260] by five orders of magnitude,
+- [00:43:49,700 - 00:43:51,920] and then you see this blotchy...
+- [00:43:57,480 - 00:43:59,700] And the interesting thing about the blotches
+- [00:43:59,700 - 00:44:01,340] is you see structure on all of them.
+- [00:44:01,360 - 00:44:01,960] On all scales.
+- [00:44:04,100 - 00:44:05,920] Some places are a little hotter.
+- [00:44:06,160 - 00:44:06,440] They're...
+- [00:44:07,240 - 00:44:09,520] I can't remember now whether the hot is blue
+- [00:44:09,520 - 00:44:10,360] or the hot is red.
+- [00:44:10,460 - 00:44:10,860] I don't remember.
+- [00:44:14,520 - 00:44:15,680] Smaller scale structures,
+- [00:44:16,020 - 00:44:17,140] bigger scale structures,
+- [00:44:17,440 - 00:44:19,120] big giant structures,
+- [00:44:19,840 - 00:44:21,360] structures within structures,
+- [00:44:21,620 - 00:44:24,000] and essentially at every scale
+- [00:44:24,000 - 00:44:25,140] you see features.
+- [00:44:26,080 - 00:44:26,640] Blobs.
+- [00:44:27,440 - 00:44:28,860] It's kind of a fractal.
+- [00:44:29,440 - 00:44:30,200] In fact,
+- [00:44:30,200 - 00:44:31,020] if you looked at it,
+- [00:44:31,020 - 00:44:31,880] and you blew it up,
+- [00:44:31,920 - 00:44:32,920] it would look exactly...
+- [00:44:32,920 - 00:44:33,060] Well,
+- [00:44:33,060 - 00:44:34,900] it would look largely exactly the same.
+- [00:44:35,040 - 00:44:36,740] It's more or less scale invariant
+- [00:44:37,940 - 00:44:40,280] with a temperature fluctuation.
+- [00:44:40,560 - 00:44:42,860] Each one of these fluctuations is about
+- [00:44:42,860 - 00:44:44,120] 10 to the minus 5
+- [00:44:44,919 - 00:44:47,080] of the background average density...
+- [00:44:47,080 - 00:44:47,860] average temperature.
+- [00:44:48,960 - 00:44:49,560] Now,
+- [00:44:49,560 - 00:44:52,040] where do temperature fluctuations come from?
+- [00:44:52,140 - 00:44:54,040] Temperature fluctuations come from
+- [00:44:54,040 - 00:44:55,620] mass distribution fluctuations.
+- [00:44:56,160 - 00:44:56,620] Fluctuations,
+- [00:44:56,620 - 00:44:57,240] I mean...
+- [00:44:58,400 - 00:44:59,120] you know,
+- [00:44:59,120 - 00:45:00,540] variations across the sky.
+- [00:45:01,560 - 00:45:02,120] If...
+- [00:45:02,120 - 00:45:05,640] Let's imagine that there was an excess of mass
+- [00:45:05,640 - 00:45:07,400] in this little region over here.
+- [00:45:08,560 - 00:45:10,300] Not a huge excess of mass,
+- [00:45:10,400 - 00:45:11,620] a small excess of mass.
+- [00:45:12,760 - 00:45:15,160] Then light coming out from there
+- [00:45:15,160 - 00:45:16,620] would be redshifted
+- [00:45:16,620 - 00:45:18,460] more than it would be from other places.
+- [00:45:18,920 - 00:45:20,580] If you have a lump of mass
+- [00:45:20,580 - 00:45:22,940] and light is escaping from it,
+- [00:45:23,760 - 00:45:26,700] the light has to extract itself
+- [00:45:26,700 - 00:45:28,100] and get away from that mass,
+- [00:45:28,320 - 00:45:29,820] and it loses energy.
+- [00:45:29,820 - 00:45:31,560] And losing energy,
+- [00:45:31,880 - 00:45:33,140] the temperature,
+- [00:45:33,560 - 00:45:36,800] the apparent temperature in that direction
+- [00:45:36,800 - 00:45:39,460] will be less than the temperature
+- [00:45:39,460 - 00:45:40,940] in some region where there isn't
+- [00:45:40,940 - 00:45:42,180] a mass excess like that.
+- [00:45:43,140 - 00:45:45,140] So these temperature fluctuations
+- [00:45:45,820 - 00:45:49,800] have to do with mass distribution fluctuations,
+- [00:45:50,240 - 00:45:52,440] and this translates into the statement
+- [00:45:54,220 - 00:45:56,660] that at that time,
+- [00:45:56,840 - 00:45:59,800] the variations in the energy density,
+- [00:45:59,820 - 00:46:03,280] divided by the average energy density,
+- [00:46:03,520 - 00:46:05,520] this is at the time of decoupling,
+- [00:46:05,720 - 00:46:08,220] was also about 10 to the minus 5.
+- [00:46:13,800 - 00:46:15,880] So we need a theory to tell us
+- [00:46:15,880 - 00:46:16,940] where this came from.
+- [00:46:17,600 - 00:46:19,360] This sounds like a tall order
+- [00:46:19,360 - 00:46:22,260] to explain at the very beginning of the universe
+- [00:46:22,260 - 00:46:25,620] where such things came from.
+- [00:46:26,440 - 00:46:27,040] Oh,
+- [00:46:27,040 - 00:46:27,640] incidentally,
+- [00:46:27,640 - 00:46:29,200] there is a pattern,
+- [00:46:29,200 - 00:46:30,260] and as I said,
+- [00:46:30,280 - 00:46:32,580] the pattern is the scale invariance.
+- [00:46:32,620 - 00:46:34,460] It looks the same if you blow it up
+- [00:46:34,460 - 00:46:35,520] or if you shrink it down,
+- [00:46:37,360 - 00:46:39,720] and that is the primary pattern.
+- [00:46:41,060 - 00:46:41,660] Okay.
+- [00:46:42,560 - 00:46:43,160] What?
+- [00:46:44,240 - 00:46:45,500] I was wondering,
+- [00:46:45,620 - 00:46:48,940] since the light is from that recombination,
+- [00:46:49,740 - 00:46:52,520] wouldn't the light in the homogeneous
+- [00:46:53,200 - 00:46:58,560] just be from just that last scattering?
+- [00:47:01,920 - 00:47:04,460] You mean just from microscopic fluctuations?
+- [00:47:04,940 - 00:47:06,420] That wouldn't be on this scale.
+- [00:47:06,520 - 00:47:07,860] These are huge scales.
+- [00:47:08,100 - 00:47:08,700] Right.
+- [00:47:10,100 - 00:47:12,820] Such scales at the time of decoupling
+- [00:47:12,820 - 00:47:14,800] would have corresponded to very,
+- [00:47:14,800 - 00:47:17,360] very large things.
+- [00:47:17,780 - 00:47:20,360] So it's not microscopic things.
+- [00:47:21,980 - 00:47:24,660] But perhaps if you traced it backward,
+- [00:47:24,940 - 00:47:26,680] even past that,
+- [00:47:26,680 - 00:47:29,360] perhaps it does have to do with microscopic things.
+- [00:47:29,940 - 00:47:31,000] And in fact,
+- [00:47:32,780 - 00:47:36,080] that is exactly the theory of these fluctuations,
+- [00:47:36,500 - 00:47:39,020] that they originated from quantum fluctuations.
+- [00:47:39,660 - 00:47:42,440] Quantum fluctuations plastered across the sky
+- [00:47:42,440 - 00:47:47,780] are what the current theory is
+- [00:47:47,780 - 00:47:49,160] of these fluctuations.
+- [00:47:50,100 - 00:47:50,740] Now,
+- [00:47:50,740 - 00:47:52,200] we're not going to get to it,
+- [00:47:52,260 - 00:47:54,660] but the theory I'm going to tell you about
+- [00:47:54,660 - 00:47:56,660] is a very high precision theory.
+- [00:47:56,680 - 00:48:00,000] It is explained to extremely high precision,
+- [00:48:00,240 - 00:48:01,460] a huge amount of data.
+- [00:48:02,040 - 00:48:05,500] So I don't think anybody these days has any doubt
+- [00:48:08,300 - 00:48:10,520] that the blackboard can be raised.
+- [00:48:11,200 - 00:48:11,820] Ah,
+- [00:48:11,820 - 00:48:12,000] there.
+- [00:48:14,460 - 00:48:15,080] Jesus,
+- [00:48:15,080 - 00:48:15,640] that's hard.
+- [00:48:19,980 - 00:48:20,600] Okay.
+- [00:48:21,740 - 00:48:22,960] So what is a theory?
+- [00:48:24,080 - 00:48:25,620] To understand the theory,
+- [00:48:25,620 - 00:48:27,940] you have to understand only two things.
+- [00:48:28,040 - 00:48:29,900] You have to understand quantum fluctuations,
+- [00:48:30,200 - 00:48:32,680] quantum zero-point motion of a harmonic oscillator,
+- [00:48:33,620 - 00:48:36,200] and you have to understand the damped harmonic oscillator.
+- [00:48:36,260 - 00:48:36,700] Excuse me,
+- [00:48:36,700 - 00:48:37,900] the damped harmonic oscillator.
+- [00:48:38,880 - 00:48:40,760] The damped harmonic oscillator.
+- [00:48:42,480 - 00:48:44,540] And you need to know the equations
+- [00:48:44,540 - 00:48:47,960] of a scalar field in the expanding universe.
+- [00:48:49,400 - 00:48:51,920] Let's go through the damped harmonic oscillator first.
+- [00:48:52,180 - 00:48:53,040] Do it over here.
+- [00:48:53,040 - 00:48:55,440] All right.
+- [00:48:55,500 - 00:48:58,160] Let's start with the undamped harmonic oscillator.
+- [00:48:58,580 - 00:49:00,660] That's just a good old harmonic oscillator
+- [00:49:00,660 - 00:49:02,500] where the energy or the Hamiltonian,
+- [00:49:02,560 - 00:49:03,560] whatever we want to call it,
+- [00:49:03,680 - 00:49:05,540] is x dot squared,
+- [00:49:05,900 - 00:49:07,720] the kinetic energy squared,
+- [00:49:07,820 - 00:49:10,960] divided by two is the usual convention,
+- [00:49:11,320 - 00:49:13,240] plus omega squared,
+- [00:49:13,380 - 00:49:15,480] where omega is the frequency of the oscillator,
+- [00:49:15,800 - 00:49:18,520] times x squared divided by two.
+- [00:49:20,320 - 00:49:20,960] Incidentally,
+- [00:49:20,960 - 00:49:23,160] on the average,
+- [00:49:23,280 - 00:49:25,600] as the oscillator oscillates back and forth,
+- [00:49:26,320 - 00:49:28,500] potential energy becomes kinetic energy
+- [00:49:28,500 - 00:49:30,660] becomes potential energy becomes kinetic energy,
+- [00:49:30,860 - 00:49:33,500] but the time averaged kinetic energy
+- [00:49:33,500 - 00:49:35,240] and potential energy are the same.
+- [00:49:35,680 - 00:49:37,520] It just transfers them back and forth,
+- [00:49:37,640 - 00:49:39,040] but on the time average,
+- [00:49:39,260 - 00:49:41,220] splits them pretty much equally.
+- [00:49:41,420 - 00:49:41,740] In fact,
+- [00:49:41,740 - 00:49:42,800] splits them exactly equally.
+- [00:49:44,420 - 00:49:45,540] Next statement,
+- [00:49:45,540 - 00:49:46,680] quantum mechanically,
+- [00:49:47,640 - 00:49:49,860] the energy of an oscillator,
+- [00:49:51,280 - 00:49:55,100] is proportional to an integer
+- [00:49:55,100 - 00:50:00,820] plus one half times h bar omega.
+- [00:50:01,820 - 00:50:04,480] The integer counts up
+- [00:50:04,480 - 00:50:06,960] how many units of excitation there are.
+- [00:50:07,880 - 00:50:11,360] It really covers how many units of excess energy
+- [00:50:11,360 - 00:50:12,620] has been pumped into it.
+- [00:50:13,000 - 00:50:15,680] This one half here is the zero point energy.
+- [00:50:16,100 - 00:50:19,240] The origin of zero point energy
+- [00:50:19,240 - 00:50:20,740] is the uncertainty principle.
+- [00:50:21,560 - 00:50:24,860] A particle cannot have simultaneously
+- [00:50:24,860 - 00:50:27,760] a known position and a known velocity.
+- [00:50:29,640 - 00:50:31,040] And for that reason,
+- [00:50:31,080 - 00:50:33,400] both x and x dot cannot be zero
+- [00:50:33,400 - 00:50:35,180] in the ground state of the harmonic oscillator.
+- [00:50:36,280 - 00:50:40,260] And you have to sort of make a compromise.
+- [00:50:40,600 - 00:50:42,400] And the best compromise,
+- [00:50:42,720 - 00:50:44,900] consistent with the uncertainty principle,
+- [00:50:45,220 - 00:50:47,800] says that even in the ground state,
+- [00:50:48,000 - 00:50:50,260] the harmonic oscillator oscillates,
+- [00:50:50,280 - 00:50:50,940] and the ground state of the oscillator oscillates,
+- [00:50:50,940 - 00:50:52,120] and has a certain amount of energy,
+- [00:50:52,280 - 00:50:54,620] and that's that one half h bar omega here.
+- [00:50:55,360 - 00:50:57,020] The one half h bar omega
+- [00:50:57,700 - 00:50:59,600] corresponds to an oscillation.
+- [00:50:59,660 - 00:51:01,620] It corresponds to a small oscillation.
+- [00:51:02,700 - 00:51:03,860] And if you want to know
+- [00:51:03,860 - 00:51:05,020] how big an oscillation it is,
+- [00:51:05,080 - 00:51:07,220] how much does x vary going back and forth
+- [00:51:07,740 - 00:51:10,020] during these zero point oscillations?
+- [00:51:10,640 - 00:51:11,200] Alright,
+- [00:51:11,200 - 00:51:13,540] so the ground state energy,
+- [00:51:13,860 - 00:51:15,300] ground state meaning
+- [00:51:16,300 - 00:51:20,200] when the oscillator is absolutely unexcited,
+- [00:51:21,020 - 00:51:22,760] is one half h bar omega.
+- [00:51:24,040 - 00:51:26,540] I told you a moment ago that on the average,
+- [00:51:26,680 - 00:51:27,840] this and this are the same.
+- [00:51:29,040 - 00:51:29,900] So therefore,
+- [00:51:29,900 - 00:51:31,800] we can write that on the average,
+- [00:51:32,080 - 00:51:32,840] omega,
+- [00:51:32,840 - 00:51:33,760] time average,
+- [00:51:33,860 - 00:51:36,020] omega squared x squared divided by two
+- [00:51:37,660 - 00:51:39,040] must be the same
+- [00:51:40,020 - 00:51:43,920] as one half h bar omega.
+- [00:51:44,180 - 00:51:45,760] Now this is only half the energy.
+- [00:51:47,240 - 00:51:48,400] Half of it is here,
+- [00:51:48,400 - 00:51:49,320] half of it is here.
+- [00:51:49,320 - 00:51:50,940] So in fact,
+- [00:51:50,940 - 00:51:53,120] this should be one quarter of this.
+- [00:51:54,660 - 00:51:55,280] Well,
+- [00:51:55,280 - 00:51:56,760] omega squared x squared
+- [00:51:57,740 - 00:52:00,360] is one half h bar omega.
+- [00:52:00,920 - 00:52:02,680] And now we can read off
+- [00:52:04,720 - 00:52:05,340] what,
+- [00:52:05,340 - 00:52:07,280] how big x squared is.
+- [00:52:08,040 - 00:52:09,120] X squared,
+- [00:52:09,120 - 00:52:10,240] or x let's take,
+- [00:52:11,110 - 00:52:11,420] um,
+- [00:52:11,420 - 00:52:13,740] let's see,
+- [00:52:13,740 - 00:52:15,300] x squared will be one,
+- [00:52:15,400 - 00:52:18,660] of order one half h bar
+- [00:52:18,660 - 00:52:19,780] over omega.
+- [00:52:20,040 - 00:52:20,960] Let's forget the,
+- [00:52:20,960 - 00:52:22,720] let's forget the factors of two,
+- [00:52:22,800 - 00:52:23,840] they're not important in this.
+- [00:52:24,440 - 00:52:27,200] X squared will be about h bar over omega.
+- [00:52:29,880 - 00:52:32,160] And that's about how far back and forth
+- [00:52:33,440 - 00:52:35,560] the oscillator oscillates
+- [00:52:37,480 - 00:52:38,980] due to zero point motion.
+- [00:52:39,240 - 00:52:40,240] And notice it's small.
+- [00:52:40,400 - 00:52:42,380] It's small because h bar is small.
+- [00:52:44,220 - 00:52:44,740] Okay,
+- [00:52:44,740 - 00:52:45,780] what about this one over here?
+- [00:52:45,820 - 00:52:46,100] Let's,
+- [00:52:46,100 - 00:52:46,140] uh,
+- [00:52:47,080 - 00:52:47,560] okay,
+- [00:52:47,560 - 00:52:49,060] that's really good enough.
+- [00:52:49,680 - 00:52:51,160] How does x oscillate?
+- [00:52:51,220 - 00:52:53,180] It oscillates either like a sine wave,
+- [00:52:53,400 - 00:52:55,800] like a sine of time or a cosine of time,
+- [00:52:55,960 - 00:52:57,400] or we can write it
+- [00:52:57,400 - 00:52:58,840] as x is equal to this
+- [00:52:58,840 - 00:53:00,920] times e to the i omega t.
+- [00:53:02,400 - 00:53:04,700] This is how much it oscillates back and forth,
+- [00:53:04,880 - 00:53:06,960] and this just represents the oscillation.
+- [00:53:07,780 - 00:53:10,740] Oscillation going from minus one to plus one.
+- [00:53:11,140 - 00:53:12,370] The e to the i omega
+- [00:53:12,370 - 00:53:13,600] t is a way of writing
+- [00:53:13,600 - 00:53:15,500] sines and cosines of omega t.
+- [00:53:16,540 - 00:53:17,100] Which,
+- [00:53:17,100 - 00:53:18,700] what about x dot?
+- [00:53:18,860 - 00:53:19,900] Let's calculate x dot.
+- [00:53:23,000 - 00:53:24,260] If this is x,
+- [00:53:24,260 - 00:53:25,580] then to find x dot,
+- [00:53:25,680 - 00:53:26,320] we just multiply,
+- [00:53:26,800 - 00:53:29,240] we just differentiate e to the i omega t,
+- [00:53:29,820 - 00:53:32,180] and that gives us a factor of omega.
+- [00:53:33,380 - 00:53:35,540] So x dot will be proportional
+- [00:53:36,460 - 00:53:38,440] to omega times this.
+- [00:53:39,180 - 00:53:41,260] Omega times that will be square
+- [00:53:41,260 - 00:53:43,340] root of h bar times omega.
+- [00:53:44,760 - 00:53:45,760] If I multiply,
+- [00:53:47,920 - 00:53:49,800] if I multiply one over square root of omega
+- [00:53:49,800 - 00:53:50,780] by another omega,
+- [00:53:53,140 - 00:53:54,720] it will be square root of omega.
+- [00:53:55,560 - 00:53:57,080] And how about x dot squared?
+- [00:53:57,400 - 00:54:02,460] x dot squared will also be h bar omega,
+- [00:54:02,800 - 00:54:04,520] and that's just a statement that,
+- [00:54:04,560 - 00:54:06,080] there's a factor of two someplace,
+- [00:54:06,520 - 00:54:08,920] but that's just a statement that
+- [00:54:08,920 - 00:54:11,960] both terms in the energy will be about comparable
+- [00:54:11,960 - 00:54:13,680] and both equal to h bar omega.
+- [00:54:14,300 - 00:54:15,340] So that's the series,
+- [00:54:15,340 - 00:54:17,700] that's the theory of zero point oscillations
+- [00:54:17,700 - 00:54:19,240] of a harmonic oscillator.
+- [00:54:19,820 - 00:54:20,740] They're always there,
+- [00:54:20,800 - 00:54:21,680] you can't get rid of them.
+- [00:54:21,920 - 00:54:23,820] No matter how much you cool the oscillator,
+- [00:54:23,940 - 00:54:24,910] no matter how much energy you
+- [00:54:24,910 - 00:54:25,880] try to take out of it,
+- [00:54:25,920 - 00:54:26,640] they're always there.
+- [00:54:28,280 - 00:54:30,520] Now let's go to the damped harmonic oscillator.
+- [00:54:31,460 - 00:54:33,160] The damped harmonic oscillator
+- [00:54:34,860 - 00:54:36,160] has another term in it,
+- [00:54:36,180 - 00:54:38,780] has another term in its equation of motion.
+- [00:54:38,980 - 00:54:40,500] I didn't write the equation of motion.
+- [00:54:41,380 - 00:54:43,860] Let's write down the equation of motion over here.
+- [00:54:43,860 - 00:54:48,360] The equation of motion is x double dot
+- [00:54:51,660 - 00:54:56,180] plus x times omega is equal to zero.
+- [00:54:56,920 - 00:54:58,300] This is acceleration.
+- [00:54:59,740 - 00:55:03,160] If we put x omega on the other side,
+- [00:55:03,900 - 00:55:06,280] if we put x omega on the other side,
+- [00:55:06,400 - 00:55:08,220] it would be the restoring force.
+- [00:55:08,640 - 00:55:12,060] And omega would be the spring constant.
+- [00:55:14,500 - 00:55:15,540] Omega squared,
+- [00:55:15,540 - 00:55:16,140] I'm sorry,
+- [00:55:16,140 - 00:55:16,880] omega squared.
+- [00:55:18,620 - 00:55:19,560] Omega squared.
+- [00:55:20,580 - 00:55:22,420] That's what you get from this omega squared.
+- [00:55:22,700 - 00:55:24,960] Omega squared would be the spring constant
+- [00:55:24,960 - 00:55:26,360] pulling it back.
+- [00:55:26,620 - 00:55:29,160] So spring constant is omega squared,
+- [00:55:30,060 - 00:55:31,500] and that would be the equation,
+- [00:55:32,320 - 00:55:34,020] and it would give you oscillations
+- [00:55:34,020 - 00:55:34,940] going back and forth.
+- [00:55:36,220 - 00:55:38,900] The damped harmonic oscillator has another term,
+- [00:55:39,020 - 00:55:40,340] the damping term,
+- [00:55:40,340 - 00:55:43,220] and it corresponds to friction.
+- [00:55:43,440 - 00:55:45,860] Friction or viscosity.
+- [00:55:46,940 - 00:55:47,920] What is this?
+- [00:55:48,040 - 00:55:49,440] This is a spring
+- [00:55:51,380 - 00:55:53,220] with a rock on the end of it
+- [00:55:53,220 - 00:55:56,160] vibrating back and forth in honey.
+- [00:55:57,580 - 00:55:59,640] Everything is surrounded by honey,
+- [00:55:59,760 - 00:56:01,020] so it's in a viscous fluid.
+- [00:56:02,020 - 00:56:04,700] The viscous fluid exerts viscous forces,
+- [00:56:04,760 - 00:56:06,040] and with viscosity,
+- [00:56:07,340 - 00:56:09,540] the equation is x double dot,
+- [00:56:10,340 - 00:56:11,750] plus what did we call
+- [00:56:11,750 - 00:56:13,160] the viscous drag coefficient last time?
+- [00:56:13,240 - 00:56:13,740] I don't remember.
+- [00:56:14,080 - 00:56:14,540] I think...
+- [00:56:14,540 - 00:56:14,840] C sub d.
+- [00:56:15,020 - 00:56:15,380] Hmm?
+- [00:56:16,080 - 00:56:17,260] C sub d.
+- [00:56:17,440 - 00:56:18,260] C sub d.
+- [00:56:18,320 - 00:56:18,460] Well,
+- [00:56:18,460 - 00:56:20,060] we're going to call it gamma tonight.
+- [00:56:22,020 - 00:56:23,920] Gamma stands for viscosity.
+- [00:56:25,840 - 00:56:26,880] Gamma times what?
+- [00:56:27,240 - 00:56:27,760] X dot.
+- [00:56:27,860 - 00:56:28,520] X dot.
+- [00:56:32,080 - 00:56:37,160] Plus the restoring force equals zero.
+- [00:56:37,300 - 00:56:39,700] That's the equation of motion of a...
+- [00:56:40,720 - 00:56:42,160] damped harmonic oscillator.
+- [00:56:43,160 - 00:56:44,440] And let's solve it.
+- [00:56:46,120 - 00:56:47,300] This kind of equation,
+- [00:56:47,660 - 00:56:49,980] if you know anything about differential equations,
+- [00:56:50,320 - 00:56:52,240] you look at this equation and you say,
+- [00:56:52,320 - 00:56:52,560] aha,
+- [00:56:52,560 - 00:56:54,440] linear differential equation
+- [00:56:54,440 - 00:56:56,620] of second order with constant coefficients.
+- [00:56:57,200 - 00:56:58,280] Can you say that?
+- [00:56:59,360 - 00:57:01,420] Linear differential equation
+- [00:57:01,420 - 00:57:03,900] of first order with constant coefficients.
+- [00:57:04,880 - 00:57:07,440] And that signals that the solutions
+- [00:57:08,279 - 00:57:09,300] have the form of
+- [00:57:09,300 - 00:57:10,820] exponentials of time,
+- [00:57:12,060 - 00:57:14,360] e to the alpha times t,
+- [00:57:16,260 - 00:57:17,300] times coefficients.
+- [00:57:17,780 - 00:57:19,380] You can put numbers in front of them.
+- [00:57:20,320 - 00:57:21,720] That's the kind of solution,
+- [00:57:21,980 - 00:57:22,940] general solution,
+- [00:57:26,220 - 00:57:29,180] numerical constants times e to the alpha t,
+- [00:57:29,360 - 00:57:31,320] where alpha is a number
+- [00:57:31,320 - 00:57:33,280] which depends on gamma and omega.
+- [00:57:35,980 - 00:57:38,280] Let's see if we can find out what alpha is
+- [00:57:38,280 - 00:57:39,660] from the equation of motion.
+- [00:57:40,020 - 00:57:41,480] All we do is plug in.
+- [00:57:42,100 - 00:57:43,340] This is x.
+- [00:57:43,480 - 00:57:44,680] x equals this.
+- [00:57:45,420 - 00:57:47,390] X dot is equal to
+- [00:57:47,390 - 00:57:49,360] alpha e to the alpha t.
+- [00:57:50,080 - 00:57:52,530] And x double dot is equal to
+- [00:57:52,530 - 00:57:54,980] alpha squared e to the alpha t.
+- [00:57:56,180 - 00:57:58,060] And so if I plug into this equation,
+- [00:57:58,320 - 00:58:00,900] I will get alpha squared
+- [00:58:02,780 - 00:58:04,320] plus gamma alpha
+- [00:58:06,600 - 00:58:08,160] plus omega squared.
+- [00:58:10,600 - 00:58:13,420] All times e to the alpha t.
+- [00:58:13,900 - 00:58:15,470] Each one of these is multiplied
+- [00:58:15,470 - 00:58:17,040] by e to the alpha t.
+- [00:58:18,120 - 00:58:18,980] I'm not going to write
+- [00:58:18,980 - 00:58:19,840] the e to the alpha t.
+- [00:58:20,060 - 00:58:22,020] Just imagine that it's there for a moment.
+- [00:58:22,500 - 00:58:24,440] And we're going to set the answer equal to zero.
+- [00:58:24,780 - 00:58:25,980] That's the equation of motion.
+- [00:58:26,160 - 00:58:26,280] Well,
+- [00:58:26,280 - 00:58:27,260] e to the alpha of t,
+- [00:58:27,420 - 00:58:29,300] e to the alpha times t is an exponential.
+- [00:58:29,320 - 00:58:29,940] It's not zero.
+- [00:58:31,080 - 00:58:32,170] The only way we can get
+- [00:58:32,170 - 00:58:33,260] zero on the right hand side
+- [00:58:33,799 - 00:58:35,169] is if the thing that
+- [00:58:35,169 - 00:58:36,540] multiplies e to the alpha t
+- [00:58:38,160 - 00:58:38,640] is zero.
+- [00:58:38,920 - 00:58:41,540] So this gives us an equation for what alpha is.
+- [00:58:42,040 - 00:58:43,900] Given gamma and given omega,
+- [00:58:44,100 - 00:58:44,500] numbers,
+- [00:58:44,500 - 00:58:45,800] numerical constants,
+- [00:58:47,100 - 00:58:49,400] alpha is determined by a quadratic equation.
+- [00:58:49,860 - 00:58:51,000] So let's solve it.
+- [00:58:51,500 - 00:58:54,540] Alpha is equal to minus gamma
+- [00:58:55,380 - 00:58:56,560] plus or minus,
+- [00:58:56,560 - 00:58:57,680] there are two solutions,
+- [00:58:58,800 - 00:59:01,180] plus or minus square root
+- [00:59:02,460 - 00:59:03,700] of gamma squared
+- [00:59:05,260 - 00:59:06,420] plus four,
+- [00:59:06,420 - 00:59:06,800] uh,
+- [00:59:08,160 - 00:59:08,840] minus four,
+- [00:59:08,840 - 00:59:09,500] minus four,
+- [00:59:09,500 - 00:59:10,140] minus four.
+- [00:59:10,860 - 00:59:11,380] Yeah.
+- [00:59:12,800 - 00:59:13,560] Minus four.
+- [00:59:13,600 - 00:59:13,900] Let's see,
+- [00:59:13,900 - 00:59:14,160] where,
+- [00:59:14,160 - 00:59:14,500] uh,
+- [00:59:16,760 - 00:59:18,240] minus four gamma squared.
+- [00:59:18,820 - 00:59:22,240] That has to be minus.
+- [00:59:24,580 - 00:59:25,360] Minus four,
+- [00:59:25,360 - 00:59:26,220] one times.
+- [00:59:26,820 - 00:59:27,680] Over two.
+- [00:59:28,840 - 00:59:29,580] Over two.
+- [00:59:34,900 - 00:59:35,420] Yeah,
+- [00:59:35,420 - 00:59:36,620] b squared minus four ac,
+- [00:59:36,620 - 00:59:37,100] sure.
+- [00:59:37,100 - 00:59:37,400] If,
+- [00:59:37,400 - 00:59:38,700] if gamma's a positive number,
+- [00:59:38,800 - 00:59:41,980] shouldn't the equation be minus gamma x dot theta?
+- [00:59:42,340 - 00:59:42,800] Hm?
+- [00:59:43,000 - 00:59:44,920] The original equation you're solving.
+- [00:59:45,200 - 00:59:45,400] Yeah.
+- [00:59:46,120 - 00:59:47,180] If gamma's a,
+- [00:59:47,180 - 00:59:50,300] isn't the viscous force opposite the direction of t?
+- [00:59:50,658 - 00:59:52,738] 嗯
+- [00:59:52,770 - 00:59:54,510] You're coming up with some jams and negatives.
+- [00:59:54,770 - 00:59:55,010] No.
+- [00:59:55,930 - 00:59:56,330] No.
+- [00:59:57,390 - 00:59:58,470] F equals mA.
+- [00:59:58,990 - 00:59:59,550] Here's A.
+- [00:59:59,550 - 01:00:01,270] If I want it to be equal to F,
+- [01:00:01,270 - 01:00:02,690] I have to put this on the other side.
+- [01:00:04,130 - 01:00:04,530] Okay?
+- [01:00:04,810 - 01:00:05,690] So it would be gamma,
+- [01:00:05,690 - 01:00:06,050] right.
+- [01:00:06,270 - 01:00:06,650] Right.
+- [01:00:08,010 - 01:00:08,410] Right.
+- [01:00:08,950 - 01:00:09,350] Right.
+- [01:00:10,190 - 01:00:10,590] Alright,
+- [01:00:10,590 - 01:00:11,410] so this is alpha.
+- [01:00:12,070 - 01:00:13,660] You can first of all see
+- [01:00:13,660 - 01:00:15,250] that for every gamma and omega,
+- [01:00:15,250 - 01:00:17,210] there are two possible alphas.
+- [01:00:17,210 - 01:00:20,830] That means the general solution will be a coefficient
+- [01:00:20,830 - 01:00:24,450] times e to the one of the alphas times time,
+- [01:00:24,650 - 01:00:27,110] and then another coefficient times another
+- [01:00:27,110 - 01:00:29,570] such term with two different coefficients.
+- [01:00:29,990 - 01:00:30,250] Okay,
+- [01:00:30,250 - 01:00:33,170] so let's see what we make of this,
+- [01:00:33,170 - 01:00:36,930] and let's study it in various regimes of the parameters.
+- [01:00:42,230 - 01:00:42,910] First,
+- [01:00:42,910 - 01:00:46,550] let's take the case where viscosity is negligible.
+- [01:00:47,370 - 01:00:48,010] Okay?
+- [01:00:48,010 - 01:00:48,310] Or small.
+- [01:00:51,990 - 01:00:53,990] When viscosity is small,
+- [01:00:53,990 - 01:00:56,330] and that means in this case,
+- [01:00:56,330 - 01:00:59,010] gamma smaller,
+- [01:00:59,270 - 01:01:02,970] gamma squared smaller than four omega squared.
+- [01:01:03,890 - 01:01:05,010] In other words,
+- [01:01:05,010 - 01:01:06,680] the situation where what's inside
+- [01:01:06,680 - 01:01:08,350] the square root is negative.
+- [01:01:09,430 - 01:01:10,250] In that case,
+- [01:01:10,250 - 01:01:11,530] the square root is imaginary.
+- [01:01:12,689 - 01:01:13,010] Okay?
+- [01:01:13,010 - 01:01:15,090] Square root of a negative number is imaginary.
+- [01:01:15,909 - 01:01:17,090] So for gamma squared,
+- [01:01:17,090 - 01:01:17,190] you have to have a negative number.
+- [01:01:17,190 - 01:01:17,230] So we have the cosine root of omega squared,
+- [01:01:17,230 - 01:01:19,010] less than four omega squared.
+- [01:01:19,270 - 01:01:25,390] That's weak viscosity and a pretty good restoring force.
+- [01:01:25,730 - 01:01:26,170] In other words,
+- [01:01:26,170 - 01:01:27,770] when a restoring force is strong,
+- [01:01:27,850 - 01:01:29,530] and the viscosity is weak,
+- [01:01:29,530 - 01:01:30,530] what do we expect to happen?
+- [01:01:30,670 - 01:01:33,210] We expect it to oscillate like an oscillator pretty much.
+- [01:01:34,330 - 01:01:34,810] Okay?
+- [01:01:34,890 - 01:01:35,370] So let's see,
+- [01:01:35,370 - 01:01:35,990] so what do we get?
+- [01:01:36,430 - 01:01:37,590] In that case,
+- [01:01:37,590 - 01:01:40,110] in that case we write that alpha,
+- [01:01:40,110 - 01:01:45,070] since what's inside the square root is negative,
+- [01:01:45,250 - 01:01:47,170] we can write it in a different way.
+- [01:01:47,170 - 01:01:52,240] way we can write it as minus gamma over 2
+- [01:01:52,240 - 01:01:57,310] plus or minus 1 half and let's write it now
+- [01:01:57,310 - 01:02:01,150] as I times the square root
+- [01:02:01,150 - 01:02:04,990] of 4 omega squared minus gamma squared.
+- [01:02:04,990 - 01:02:07,350] Instead of writing gamma
+- [01:02:07,350 - 01:02:09,050] squared minus 4 omega squared,
+- [01:02:09,050 - 01:02:12,050] I've written 4 omega squared times gamma squared,
+- [01:02:12,050 - 01:02:13,010] but then
+- [01:02:13,010 - 01:02:15,550] we would have to put a minus 1 inside
+- [01:02:15,550 - 01:02:18,090] the square root and a minus 1 inside the square
+- [01:02:18,090 - 01:02:20,450] root means an i outside the square root.
+- [01:02:20,450 - 01:02:22,170] Okay,
+- [01:02:22,170 - 01:02:22,890] so there we are,
+- [01:02:22,890 - 01:02:25,790] there's our alpha and now
+- [01:02:25,790 - 01:02:27,890] let's look at the solution.
+- [01:02:27,890 - 01:02:29,010] Where is our solution?
+- [01:02:29,010 - 01:02:30,450] e to the alpha t.
+- [01:02:30,450 - 01:02:34,070] The general solution is
+- [01:02:34,070 - 01:02:37,450] x is equal to one coefficient,
+- [01:02:37,450 - 01:02:42,870] a coefficient times e to the
+- [01:02:42,870 - 01:02:42,930] minus 1 half times the square root
+- [01:02:42,930 - 01:02:42,990] of 4 omega squared minus 1 half.
+- [01:02:42,990 - 01:02:42,990] So we're going to write
+- [01:02:42,990 - 01:02:49,390] it as minus gamma over 2 t times e to the
+- [01:02:49,390 - 01:02:55,790] plus or minus i over 2 square root of the same thing.
+- [01:03:00,350 - 01:03:02,090] When gamma is small,
+- [01:03:02,090 - 01:03:08,090] this is basically 4 omega squared minus a little bit.
+- [01:03:08,090 - 01:03:09,790] Square root of 4
+- [01:03:09,790 - 01:03:11,230] omega squared is 2 omega,
+- [01:03:11,230 - 01:03:12,970] 2 omega divided by 2 is 2.
+- [01:03:12,970 - 01:03:13,190] So the solution is,
+- [01:03:13,190 - 01:03:14,850] do I have that right?
+- [01:03:14,850 - 01:03:16,110] Yeah.
+- [01:03:16,110 - 01:03:17,390] So,
+- [01:03:17,390 - 01:03:18,110] oops,
+- [01:03:18,110 - 01:03:18,770] times time,
+- [01:03:18,770 - 01:03:20,210] times time upstairs
+- [01:03:20,210 - 01:03:21,510] in the exponent.
+- [01:03:21,510 - 01:03:25,250] This is basically e to the i omega t,
+- [01:03:25,250 - 01:03:26,890] a good old oscillation,
+- [01:03:26,890 - 01:03:27,770] except
+- [01:03:28,210 - 01:03:29,750] that the frequency is a
+- [01:03:29,750 - 01:03:31,290] little bit less because of the,
+- [01:03:31,290 - 01:03:33,810] because of the gamma.
+- [01:03:33,810 - 01:03:35,310] On the other
+- [01:03:35,310 - 01:03:35,470] hand,
+- [01:03:35,470 - 01:03:36,410] on top of that,
+- [01:03:36,410 - 01:03:39,670] there's a multiplicative e to the minus gamma t,
+- [01:03:39,670 - 01:03:42,490] which means that the
+- [01:03:42,490 - 01:03:47,550] solution oscillates but slowly dissipates.
+- [01:03:47,550 - 01:03:50,910] That's the damped harmonic oscillator,
+- [01:03:50,910 - 01:03:52,430] and
+- [01:03:52,430 - 01:03:55,570] the regime where gamma squared is small compared
+- [01:03:55,570 - 01:03:58,710] to 4 omega squared is called the underdamped
+- [01:03:58,710 - 01:03:59,070] oscillator.
+- [01:03:59,070 - 01:04:01,210] It's underdamped,
+- [01:04:01,210 - 01:04:03,210] which means that the damping
+- [01:04:03,210 - 01:04:05,210] is not strong enough to prevent
+- [01:04:05,210 - 01:04:06,350] it from oscillating.
+- [01:04:06,350 - 01:04:08,450] All right.
+- [01:04:08,450 - 01:04:10,270] If you take the harmonic oscillator and
+- [01:04:10,270 - 01:04:12,090] you try to make it plow through concrete,
+- [01:04:12,090 - 01:04:13,650] it's not going to oscillate.
+- [01:04:13,650 - 01:04:17,030] So that becomes the overdamped region.
+- [01:04:17,030 - 01:04:19,990] Let's do the overdamped region.
+- [01:04:20,330 - 01:04:26,050] The overdamped region is when it's underdamped,
+- [01:04:26,050 - 01:04:27,290] now overdamped.
+- [01:04:31,830 - 01:04:32,770] That's gamma,
+- [01:04:32,770 - 01:04:34,610] that's a lot of viscosity,
+- [01:04:34,610 - 01:04:39,070] and a lot means bigger than 4 omega squared.
+- [01:04:40,030 - 01:04:41,470] In that case,
+- [01:04:41,470 - 01:04:43,390] let's just do that case over here.
+- [01:04:43,390 - 01:04:45,490] In that case,
+- [01:04:45,490 - 01:04:47,310] we get rid of the i,
+- [01:04:51,130 - 01:04:54,310] and write it as gamma squared minus 4 omega squared,
+- [01:04:54,310 - 01:04:55,790] the same way it was over there.
+- [01:05:01,250 - 01:05:04,510] Gamma squared minus 4 omega squared is a positive number.
+- [01:05:07,290 - 01:05:07,850] Alpha,
+- [01:05:07,850 - 01:05:09,050] there are two solutions to this.
+- [01:05:09,050 - 01:05:09,630] There are two solutions for alpha,
+- [01:05:09,630 - 01:05:12,750] two roots of this equation with a plus or minus.
+- [01:05:13,210 - 01:05:14,510] Both of them are negative.
+- [01:05:17,530 - 01:05:20,770] You can see that this is obviously negative.
+- [01:05:22,730 - 01:05:23,210] Now,
+- [01:05:23,210 - 01:05:24,570] you have two possibilities.
+- [01:05:24,570 - 01:05:27,450] You can add a positive number to the negative number,
+- [01:05:27,610 - 01:05:31,790] but what's in here is gamma squared minus something,
+- [01:05:31,790 - 01:05:33,650] so this is less than gamma squared.
+- [01:05:34,410 - 01:05:35,830] When you take its square root,
+- [01:05:35,830 - 01:05:36,670] it's less than gamma.
+- [01:05:39,329 - 01:05:40,890] Even with this term,
+- [01:05:40,890 - 01:05:43,350] adding in the one-half square root here
+- [01:05:43,350 - 01:05:45,810] still leaves you with a negative number.
+- [01:05:46,530 - 01:05:48,170] If you put it in with a minus sign,
+- [01:05:48,170 - 01:05:49,110] it's surely negative.
+- [01:05:49,630 - 01:05:51,370] Even if you put it in with a plus sign,
+- [01:05:51,370 - 01:05:52,790] it's still a little bit negative.
+- [01:05:53,190 - 01:05:54,650] So there are two solutions,
+- [01:05:54,650 - 01:06:00,080] each of which goes like e
+- [01:06:00,080 - 01:06:05,510] to a minus an alpha t,
+- [01:06:05,510 - 01:06:07,230] where alpha is the absolute value.
+- [01:06:07,510 - 01:06:08,830] Alpha is always negative.
+- [01:06:09,050 - 01:06:12,590] That means each of the solutions decays with time.
+- [01:06:12,870 - 01:06:16,930] The general solution is the sum of two decaying solutions,
+- [01:06:16,930 - 01:06:20,870] and that's the overdamped case.
+- [01:06:21,150 - 01:06:22,410] It doesn't oscillate.
+- [01:06:22,410 - 01:06:25,870] It just exponentially drops off and goes to zero.
+- [01:06:28,089 - 01:06:28,809] Okay,
+- [01:06:28,809 - 01:06:30,630] that's the overdamped case.
+- [01:06:32,450 - 01:06:35,210] And now there's a transition between them.
+- [01:06:35,530 - 01:06:37,280] The transition between the overdamped
+- [01:06:37,280 - 01:06:39,030] and the underdamped is interesting.
+- [01:06:39,050 - 01:06:41,470] And we'll call it the critical case.
+- [01:06:42,210 - 01:06:45,370] The critical case is right on the border between them.
+- [01:06:45,550 - 01:06:47,980] And it clearly is defined by
+- [01:06:47,980 - 01:06:50,410] gamma squared equals four omega squared.
+- [01:06:51,370 - 01:06:52,090] Alright,
+- [01:06:52,090 - 01:07:01,930] so critical damping is when gamma equals two omega.
+- [01:07:06,510 - 01:07:08,410] It tries to oscillate,
+- [01:07:08,410 - 01:07:10,110] but it doesn't quite oscillate very much,
+- [01:07:10,110 - 01:07:10,910] and it goes to zero,
+- [01:07:10,910 - 01:07:12,630] but not before maybe it
+- [01:07:12,630 - 01:07:14,350] makes half an oscillation or something.
+- [01:07:15,650 - 01:07:17,270] That's the critical damped case.
+- [01:07:18,790 - 01:07:20,550] And one more case.
+- [01:07:20,790 - 01:07:21,670] One more case.
+- [01:07:22,150 - 01:07:23,210] That's a transition.
+- [01:07:23,990 - 01:07:25,610] That's a kind of a crossover.
+- [01:07:26,110 - 01:07:30,190] We call it a crossover going from overdamped to underdamped.
+- [01:07:30,250 - 01:07:30,990] Behavior changes.
+- [01:07:30,990 - 01:07:33,870] Not radically at that point.
+- [01:07:33,950 - 01:07:35,030] It just smoothly changes.
+- [01:07:35,210 - 01:07:36,750] It goes from one behavior to another.
+- [01:07:37,630 - 01:07:40,570] And one more behavior I want to consider.
+- [01:07:41,310 - 01:07:44,750] And that's the case when the restoring force is zero.
+- [01:07:45,370 - 01:07:47,810] That's when gamma is much bigger.
+- [01:07:47,970 - 01:07:50,450] That's completely dominated by friction.
+- [01:07:51,550 - 01:07:53,450] Completely dominated by friction,
+- [01:07:53,450 - 01:07:55,470] and the restoring force is zero.
+- [01:07:56,330 - 01:07:58,050] To get that case,
+- [01:07:58,882 - 01:07:59,002] 是的
+- [01:08:00,034 - 01:08:01,094] Let's go back to the equation.
+- [01:08:01,094 - 01:08:02,334] We don't need to deal with it.
+- [01:08:02,334 - 01:08:04,194] We can deal with it with the solution,
+- [01:08:04,194 - 01:08:06,173] but it's easier to just
+- [01:08:06,173 - 01:08:08,153] go back to the basic equation.
+- [01:08:09,534 - 01:08:09,934] Now,
+- [01:08:09,934 - 01:08:11,834] we're not doing gamma equals 4 omega.
+- [01:08:12,554 - 01:08:13,574] Let me put this here.
+- [01:08:13,574 - 01:08:16,273] This is the transition between the two behaviors.
+- [01:08:16,714 - 01:08:18,134] It should be 2 omega.
+- [01:08:18,394 - 01:08:19,993] It should be 2 omega.
+- [01:08:19,993 - 01:08:21,854] We took a square root.
+- [01:08:24,334 - 01:08:24,854] Okay,
+- [01:08:24,854 - 01:08:26,434] with omega equals 0,
+- [01:08:26,434 - 01:08:29,493] our basic defining equation for alpha is that
+- [01:08:29,493 - 01:08:32,554] alpha squared plus gamma alpha is equal to 0.
+- [01:08:33,754 - 01:08:36,014] Or that alpha times alpha
+- [01:08:36,014 - 01:08:38,274] plus gamma is equal to 0.
+- [01:08:40,993 - 01:08:43,573] If a product of two numbers is equal to 0,
+- [01:08:43,573 - 01:08:45,514] then one of them better be 0.
+- [01:08:45,654 - 01:08:46,774] Both of them can be 0 too,
+- [01:08:46,774 - 01:08:48,573] but you can't simultaneously have alpha
+- [01:08:48,573 - 01:08:50,374] equals 0 and alpha plus gamma.
+- [01:08:50,573 - 01:08:51,174] All right?
+- [01:08:51,254 - 01:08:51,774] So,
+- [01:08:51,774 - 01:08:51,834] that's the solution.
+- [01:08:51,854 - 01:08:51,854] So,
+- [01:08:51,854 - 01:08:52,694] there are two solutions,
+- [01:08:52,694 - 01:08:58,113] alpha equals 0 and alpha equals minus gamma.
+- [01:09:01,734 - 01:09:02,613] What does that mean?
+- [01:09:03,533 - 01:09:07,073] Alpha equals 0 is a solution e
+- [01:09:07,073 - 01:09:10,613] to the alpha t with alpha equals 0.
+- [01:09:11,274 - 01:09:12,384] What's e to the alpha
+- [01:09:12,384 - 01:09:13,493] of t with alpha equals 0?
+- [01:09:14,874 - 01:09:15,314] But,
+- [01:09:15,314 - 01:09:15,654] of course,
+- [01:09:15,654 - 01:09:16,934] I could have put a constant here.
+- [01:09:17,033 - 01:09:17,194] So,
+- [01:09:17,194 - 01:09:18,413] let's call that c.
+- [01:09:20,314 - 01:09:21,314] Let's call that c.
+- [01:09:21,854 - 01:09:26,794] Any constant times e to the alpha t
+- [01:09:26,794 - 01:09:31,734] with alpha t just being 1 plus another solution,
+- [01:09:31,734 - 01:09:33,394] which is c,
+- [01:09:33,394 - 01:09:35,514] c1 let's call it,
+- [01:09:35,514 - 01:09:37,993] e to the minus gamma t.
+- [01:09:39,613 - 01:09:41,854] That's the case where alpha is equal to
+- [01:09:41,854 - 01:09:44,094] minus gamma e to the minus gamma t.
+- [01:09:44,613 - 01:09:45,654] What is this thing?
+- [01:09:48,314 - 01:09:51,834] This asymptotically at late times just goes to a constant.
+- [01:09:53,554 - 01:09:55,794] But it goes to a constant exponentially.
+- [01:09:56,454 - 01:09:58,724] What this is doing is it's
+- [01:09:58,724 - 01:10:00,994] the stone moving through the viscous fluid.
+- [01:10:01,194 - 01:10:01,754] No gravity,
+- [01:10:01,754 - 01:10:02,694] no forces on it.
+- [01:10:03,034 - 01:10:06,154] You give it a push and it just exponentially,
+- [01:10:06,154 - 01:10:08,094] quickly comes to,
+- [01:10:08,094 - 01:10:09,594] exponentially comes to rest.
+- [01:10:11,074 - 01:10:12,974] And it comes to rest at what point?
+- [01:10:13,094 - 01:10:15,154] It comes to rest at point c0.
+- [01:10:16,373 - 01:10:18,553] We've parameterized it so that it
+- [01:10:18,553 - 01:10:20,734] comes to rest at point c0.
+- [01:10:20,794 - 01:10:21,834] When time is limited.
+- [01:10:21,834 - 01:10:21,994] This is large.
+- [01:10:22,734 - 01:10:23,754] This is negligible.
+- [01:10:23,974 - 01:10:26,834] And so it just comes to rest at some constant.
+- [01:10:27,934 - 01:10:32,254] That's the case with no restoring force.
+- [01:10:33,354 - 01:10:34,014] Now what is it?
+- [01:10:34,134 - 01:10:34,454] OK.
+- [01:10:34,554 - 01:10:35,914] So we have the three situations.
+- [01:10:37,814 - 01:10:38,774] Small gamma,
+- [01:10:38,774 - 01:10:40,714] large restoring force,
+- [01:10:40,714 - 01:10:42,194] oscillations,
+- [01:10:42,194 - 01:10:43,674] which slowly die out.
+- [01:10:45,014 - 01:10:45,974] Critical damping,
+- [01:10:45,974 - 01:10:47,094] let's not worry too much.
+- [01:10:47,234 - 01:10:47,934] That's the crossover.
+- [01:10:48,314 - 01:10:50,434] It's important to know where the crossover is.
+- [01:10:50,594 - 01:10:51,814] And beyond the crossover,
+- [01:10:51,814 - 01:10:51,814] there's a constant.
+- [01:10:51,814 - 01:10:52,114] And beyond the crossover,
+- [01:10:52,114 - 01:10:54,214] it just dies quickly.
+- [01:10:54,474 - 01:10:56,134] It just really dies quickly
+- [01:10:56,134 - 01:10:57,794] with less than a single oscillation.
+- [01:10:58,454 - 01:10:59,814] It comes back to zero.
+- [01:11:00,973 - 01:11:03,014] But the final case,
+- [01:11:03,014 - 01:11:05,874] no restoring force at all.
+- [01:11:06,354 - 01:11:07,834] It just comes to zero.
+- [01:11:07,954 - 01:11:10,414] It comes to rest at an arbitrary position,
+- [01:11:10,414 - 01:11:13,254] depending on the initial conditions.
+- [01:11:13,674 - 01:11:14,914] You give it a push.
+- [01:11:15,034 - 01:11:16,134] There's no restoring force.
+- [01:11:16,354 - 01:11:19,334] It just slows down quickly and stops in the honey.
+- [01:11:20,094 - 01:11:21,794] And stops at some place which is the point c0.
+- [01:11:21,794 - 01:11:23,754] Which is not necessarily zero in general.
+- [01:11:24,014 - 01:11:25,334] Those are the three behaviors I
+- [01:11:25,334 - 01:11:26,654] want you to keep in mind.
+- [01:11:27,714 - 01:11:31,954] Now we're going to write down the field equation.
+- [01:11:34,554 - 01:11:35,254] Oh,
+- [01:11:35,254 - 01:11:36,434] before we do,
+- [01:11:36,434 - 01:11:42,814] let's imagine now the following scenario for our oscillator.
+- [01:11:45,754 - 01:11:48,894] Omega is not actually a constant.
+- [01:11:50,194 - 01:11:51,594] Omega varies.
+- [01:11:51,794 - 01:11:51,934] Now,
+- [01:11:51,934 - 01:11:52,974] very slowly.
+- [01:11:53,334 - 01:11:55,974] If it varies slowly at any given time,
+- [01:11:55,974 - 01:11:58,714] the behavior will be whatever it should be for
+- [01:11:58,714 - 01:11:58,954] class.
+- [01:11:59,094 - 01:12:00,274] So omega varies slowly.
+- [01:12:01,374 - 01:12:06,074] It starts out large.
+- [01:12:07,454 - 01:12:09,294] Omega starts out large,
+- [01:12:09,294 - 01:12:12,214] and so it starts out in the oscillating regime.
+- [01:12:13,794 - 01:12:15,354] Omega much bigger,
+- [01:12:15,354 - 01:12:16,014] let's say,
+- [01:12:16,014 - 01:12:16,514] than gamma.
+- [01:12:18,134 - 01:12:19,394] Restoring force strong.
+- [01:12:20,014 - 01:12:20,854] Gamma small.
+- [01:12:20,854 - 01:12:21,053] Gamma small.
+- [01:12:21,154 - 01:12:22,254] What does it do?
+- [01:12:23,754 - 01:12:24,954] During the time,
+- [01:12:24,954 - 01:12:26,014] this is time,
+- [01:12:26,014 - 01:12:29,574] this is x,
+- [01:12:29,574 - 01:12:31,834] it oscillates.
+- [01:12:32,254 - 01:12:36,134] It oscillates with the frequency omega.
+- [01:12:37,134 - 01:12:38,314] But now,
+- [01:12:38,314 - 01:12:39,514] and of course,
+- [01:12:39,514 - 01:12:41,774] if gamma is a little bit of gamma,
+- [01:12:41,774 - 01:12:45,154] so it mildly starts to decrease.
+- [01:12:46,634 - 01:12:47,274] Okay.
+- [01:12:47,354 - 01:12:49,394] Now gamma starts to get stronger.
+- [01:12:50,194 - 01:12:50,834] Gamma is a little bit stronger.
+- [01:12:50,834 - 01:12:52,354] As gamma gets stronger,
+- [01:12:52,354 - 01:12:54,574] the frequency decreases.
+- [01:12:55,774 - 01:12:56,534] Remember,
+- [01:12:56,534 - 01:13:00,124] the formula for the real frequency here
+- [01:13:00,124 - 01:13:03,714] has 4 omega squared minus gamma squared.
+- [01:13:04,054 - 01:13:06,374] So as gamma increases,
+- [01:13:06,374 - 01:13:10,294] the frequency starts to decrease.
+- [01:13:11,494 - 01:13:14,194] Eventually we get to the point
+- [01:13:14,194 - 01:13:16,894] where gamma is equal to 2 omega.
+- [01:13:17,534 - 01:13:19,174] Omega is decreasing.
+- [01:13:19,174 - 01:13:19,374] Omega is increasing,
+- [01:13:19,374 - 01:13:21,714] and then beyond that,
+- [01:13:21,714 - 01:13:24,674] it's overdamped.
+- [01:13:25,914 - 01:13:27,494] And so what it does,
+- [01:13:27,494 - 01:13:30,514] and at some point,
+- [01:13:30,514 - 01:13:37,154] it simply stops oscillating if omega goes to
+- [01:13:37,814 - 01:13:40,634] If omega gets sufficiently small,
+- [01:13:40,634 - 01:13:41,674] fast enough,
+- [01:13:41,674 - 01:13:44,034] it will simply stop oscillating,
+- [01:13:44,034 - 01:13:44,454] not enough
+- [01:13:44,454 - 01:13:45,214] restoring force.
+- [01:13:45,574 - 01:13:49,094] And it will behave like this with no restoring force.
+- [01:13:49,974 - 01:13:51,804] so if we had an
+- [01:13:51,804 - 01:13:53,634] oscillator where we could control the
+- [01:13:54,934 - 01:13:55,754] restoring force
+- [01:13:56,374 - 01:13:58,614] And allow it to get smaller and
+- [01:13:58,614 - 01:14:00,854] smaller and smaller at a sufficiently rapid pace
+- [01:14:01,874 - 01:14:04,134] We would see oscillations with time.
+- [01:14:04,134 - 01:14:06,344] We would see the oscillations slow down
+- [01:14:06,344 - 01:14:08,554] and then we would see it just
+- [01:14:09,354 - 01:14:11,034] Come to rest and it would
+- [01:14:11,034 - 01:14:12,714] come to rest at some place
+- [01:14:13,814 - 01:14:15,644] You'd have to calculate the equations of motion
+- [01:14:15,644 - 01:14:17,474] to find out where it comes to rest
+- [01:14:18,714 - 01:14:20,854] And it depends on the initial conditions
+- [01:14:22,893 - 01:14:25,843] That's the system we're going to be interested
+- [01:14:25,843 - 01:14:28,794] in the damped harmonic oscillator with a time-dependent
+- [01:14:28,794 - 01:14:31,474] restoring force and one that goes to zero.
+- [01:14:31,474 - 01:14:32,074] Okay.
+- [01:14:32,074 - 01:14:33,554] So what does this have to do with anything?
+- [01:14:34,634 - 01:14:36,614] Understand what this has to do with anything
+- [01:14:37,953 - 01:14:39,134] We need to
+- [01:14:45,713 - 01:14:46,583] We need to go back to the initial conditions
+- [01:14:46,583 - 01:14:47,454] and we need to go back to the initial conditions
+- [01:14:47,474 - 01:14:50,484] We need to go back to the equations of
+- [01:14:50,484 - 01:14:53,494] motion of the inflaton field everybody remember the inflaton field
+- [01:14:54,534 - 01:14:56,294] three cheers for the inflaton
+- [01:15:02,634 - 01:15:05,864] Without it the universe would be wrinkled up
+- [01:15:05,864 - 01:15:09,094] like a raisin or prune better yet a prune
+- [01:15:12,034 - 01:15:12,794] Okay,
+- [01:15:12,794 - 01:15:14,894] so what about the inflaton
+- [01:15:16,454 - 01:15:17,134] the
+- [01:15:17,134 - 01:15:18,474] Inflaton is a scalar field
+- [01:15:19,753 - 01:15:22,014] It's a scalar field with a potential
+- [01:15:22,974 - 01:15:23,894] via Phi
+- [01:15:26,514 - 01:15:30,454] Remember we thought about a potential which was very flat
+- [01:15:31,714 - 01:15:36,014] With some energy density and then suddenly a cliff
+- [01:15:37,514 - 01:15:40,524] That's the form that the inflaton field we
+- [01:15:40,524 - 01:15:43,534] don't understand why the inflaton field behaves like this
+- [01:15:43,534 - 01:15:46,434] we know from observation that this is the way
+- [01:15:46,434 - 01:15:49,334] it has to be in order for it to
+- [01:15:49,334 - 01:15:50,854] for things to work out.
+- [01:15:50,854 - 01:15:52,994] The inflaton field itself,
+- [01:15:52,994 - 01:15:53,714] this is phi,
+- [01:15:53,714 - 01:15:56,414] this is V of phi,
+- [01:15:58,914 - 01:16:01,334] and the motion of the field is
+- [01:16:01,334 - 01:16:03,754] very much like rolling down this hill,
+- [01:16:03,754 - 01:16:04,174] a very
+- [01:16:04,174 - 01:16:05,274] shallow mild hill.
+- [01:16:05,274 - 01:16:07,434] It moves very slowly till it
+- [01:16:07,434 - 01:16:09,594] gets to the cliff and then it
+- [01:16:09,594 - 01:16:13,694] falls down and falls down to the bottom.
+- [01:16:13,694 - 01:16:18,034] So the universe is like a little ball
+- [01:16:18,034 - 01:16:21,214] rolling on this hill where the ball
+- [01:16:21,214 - 01:16:24,394] literally means the value of the field
+- [01:16:24,394 - 01:16:25,054] at any time.
+- [01:16:25,054 - 01:16:27,034] All right,
+- [01:16:27,034 - 01:16:28,874] let's for the moment,
+- [01:16:28,874 - 01:16:31,354] we're going to make an
+- [01:16:31,354 - 01:16:31,834] approximation.
+- [01:16:31,834 - 01:16:35,294] The approximation is that V is flat in here.
+- [01:16:35,294 - 01:16:37,894] V being flat means
+- [01:16:37,894 - 01:16:39,354] that V prime of phi
+- [01:16:39,354 - 01:16:42,014] is close to zero.
+- [01:16:42,014 - 01:16:46,104] Let's write down the field
+- [01:16:46,104 - 01:16:50,194] equation for a scalar field with
+- [01:16:50,194 - 01:16:50,874] no potential.
+- [01:16:50,874 - 01:16:57,034] The full equation of motion in ordinary flat space-time.
+- [01:16:57,034 - 01:16:58,214] What is it?
+- [01:16:58,254 - 01:16:59,274] It's the wave equation.
+- [01:16:59,274 - 01:17:01,524] It's the good old wave
+- [01:17:01,524 - 01:17:03,774] equation for a scalar field in
+- [01:17:03,774 - 01:17:04,474] empty space.
+- [01:17:04,474 - 01:17:07,514] This would be in ordinary space-time,
+- [01:17:07,514 - 01:17:08,914] not an inflating or
+- [01:17:08,914 - 01:17:09,334] expanding equation.
+- [01:17:12,194 - 01:17:14,574] It's a second order partial differential equation.
+- [01:17:14,574 - 01:17:18,314] It's a wave equation and it
+- [01:17:18,314 - 01:17:23,384] looks like minus d second phi by the
+- [01:17:23,384 - 01:17:28,454] x squared and then another term for y
+- [01:17:28,454 - 01:17:30,494] squared and another term for z squared.
+- [01:17:30,494 - 01:17:31,394] I won't write them.
+- [01:17:31,394 - 01:17:33,194] This is the wave
+- [01:17:33,194 - 01:17:35,414] equation and we set it equal to zero.
+- [01:17:38,414 - 01:17:39,334] For a scalar field,
+- [01:17:39,334 - 01:17:39,334] we're going to write down the wave equation.
+- [01:17:39,334 - 01:17:39,334] This is the wave equation and
+- [01:17:39,334 - 01:17:39,334] we set it equal to zero.
+- [01:17:39,354 - 01:17:41,814] A scalar field with a flat potential.
+- [01:17:41,814 - 01:17:43,594] If the potential were
+- [01:17:43,594 - 01:17:44,254] not flat,
+- [01:17:44,594 - 01:17:46,344] we would put on the right-hand
+- [01:17:46,344 - 01:17:48,094] side minus dv by d phi.
+- [01:17:49,434 - 01:17:50,534] But it is flat,
+- [01:17:50,534 - 01:17:51,254] at
+- [01:17:51,254 - 01:17:52,334] least approximately so.
+- [01:17:52,334 - 01:17:54,294] So let's ignore this.
+- [01:18:00,434 - 01:18:01,034] Now,
+- [01:18:01,034 - 01:18:02,634] if the univers is expanding,
+- [01:18:02,634 - 01:18:07,554] if phi was flat,
+- [01:18:07,554 - 01:18:08,774] meaning,
+- [01:18:08,774 - 01:18:09,074] say,
+- [01:18:09,074 - 01:18:09,334] if they had .li will always shop
+- [01:18:09,354 - 01:18:11,494] if it didn't vary from point to point in space,
+- [01:18:11,494 - 01:18:12,914] this would not be there,
+- [01:18:12,914 - 01:18:13,194] right?
+- [01:18:13,934 - 01:18:14,914] We'd have only this.
+- [01:18:16,534 - 01:18:17,094] Okay,
+- [01:18:17,094 - 01:18:20,144] the last two times we discussed the equation
+- [01:18:20,144 - 01:18:23,194] of phi in the presence of an expanding
+- [01:18:23,194 - 01:18:23,634] universe.
+- [01:18:24,254 - 01:18:25,794] I'll write down what it was.
+- [01:18:26,494 - 01:18:29,074] It was d second phi by dt squared.
+- [01:18:29,274 - 01:18:30,494] I called it phi double dot.
+- [01:18:32,074 - 01:18:33,704] But it was just a second time
+- [01:18:33,704 - 01:18:35,334] derivative of phi with respect to t.
+- [01:18:35,554 - 01:18:37,394] I'll write it as partial derivative.
+- [01:18:37,394 - 01:18:38,414] It doesn't matter,
+- [01:18:38,414 - 01:18:39,774] partial or ordinary derivative,
+- [01:18:39,774 - 01:18:41,494] if things don't depend on space.
+- [01:18:42,314 - 01:18:43,694] And do you remember what the second term was?
+- [01:18:45,354 - 01:18:47,094] It had a three in front of it.
+- [01:18:49,373 - 01:18:58,154] H is determined by the amount of potential energy here.
+- [01:18:58,494 - 01:18:59,694] And if it's constant,
+- [01:18:59,694 - 01:19:02,534] it's just a constant H times what?
+- [01:19:05,394 - 01:19:06,094] Phi dot,
+- [01:19:06,094 - 01:19:06,374] right?
+- [01:19:06,494 - 01:19:06,754] Right.
+- [01:19:07,394 - 01:19:08,274] That's d phi by dt.
+- [01:19:13,254 - 01:19:18,294] And now that's what we had under the circumstance
+- [01:19:18,294 - 01:19:23,334] that phi did not vary from point to point.
+- [01:19:24,674 - 01:19:25,194] Okay,
+- [01:19:25,194 - 01:19:27,354] but there has to be another term
+- [01:19:27,354 - 01:19:29,514] if phi does vary from place to place.
+- [01:19:30,014 - 01:19:30,854] In fact,
+- [01:19:30,854 - 01:19:32,834] that other term has to be
+- [01:19:32,834 - 01:19:34,814] such that if A is constant,
+- [01:19:34,814 - 01:19:36,654] if the scale factor is constant,
+- [01:19:37,394 - 01:19:39,134] then we should reproduce this equation,
+- [01:19:39,134 - 01:19:42,654] or an equation very much like it,
+- [01:19:42,654 - 01:19:44,414] with A being
+- [01:19:44,414 - 01:19:44,874] constant.
+- [01:19:46,774 - 01:19:48,914] So there's got to be another term in here,
+- [01:19:48,914 - 01:19:50,734] and I'm going to tell you what the other term
+- [01:19:50,734 - 01:19:51,114] is,
+- [01:19:51,114 - 01:19:52,874] and then I'm going to try
+- [01:19:52,874 - 01:19:54,634] to explain to you why it's that.
+- [01:19:57,294 - 01:19:57,734] Incidentally,
+- [01:19:57,734 - 01:20:01,534] H would be zero if the universe were not expanding.
+- [01:20:02,434 - 01:20:03,994] So in a non-expanding situation,
+- [01:20:03,994 - 01:20:05,414] you don't have this at all.
+- [01:20:07,394 - 01:20:09,954] You would have minus d second phi by dx squared.
+- [01:20:10,334 - 01:20:12,784] So let's just try minus
+- [01:20:12,784 - 01:20:15,234] d second phi by dx squared.
+- [01:20:16,954 - 01:20:19,174] We might guess that that's the equation.
+- [01:20:19,954 - 01:20:22,334] That would not quite be right.
+- [01:20:23,854 - 01:20:24,914] Do you know why?
+- [01:20:28,554 - 01:20:29,274] Well,
+- [01:20:29,274 - 01:20:32,774] the real correct equation should involve the
+- [01:20:32,774 - 01:20:36,274] derivative of phi with respect to proper
+- [01:20:36,274 - 01:20:36,934] distance.
+- [01:20:36,934 - 01:20:38,634] Proper distance means measured,
+- [01:20:38,634 - 01:20:39,094] let's say,
+- [01:20:39,094 - 01:20:40,154] in some fixed units,
+- [01:20:40,154 - 01:20:42,434] units such as meters
+- [01:20:43,154 - 01:20:44,074] or better yet,
+- [01:20:44,074 - 01:20:45,374] light seconds.
+- [01:20:45,754 - 01:20:47,494] There should be a speed of light here,
+- [01:20:47,494 - 01:20:48,114] incidentally,
+- [01:20:48,114 - 01:20:48,954] but let's leave it out.
+- [01:20:49,114 - 01:20:50,614] Let's work in units of light seconds
+- [01:20:50,614 - 01:20:52,114] where the speed of light is one.
+- [01:20:53,054 - 01:20:58,414] This would be correct if we were measuring
+- [01:20:58,414 - 01:21:03,774] x in standard units of light years or light
+- [01:21:03,774 - 01:21:04,834] seconds or whatever,
+- [01:21:04,834 - 01:21:06,014] but we're not.
+- [01:21:06,934 - 01:21:09,864] The actual distance between points separated by
+- [01:21:09,864 - 01:21:12,794] a given delta x is how much?
+- [01:21:13,794 - 01:21:16,034] A times delta x.
+- [01:21:16,374 - 01:21:18,974] The scale factor times delta x.
+- [01:21:19,834 - 01:21:22,604] So we can say ordinary
+- [01:21:22,604 - 01:21:25,374] lengths are delta x's times a.
+- [01:21:27,454 - 01:21:31,294] That means that this second derivative with respect
+- [01:21:31,294 - 01:21:35,134] to x squared is not the right thing
+- [01:21:35,134 - 01:21:35,454] here.
+- [01:21:36,934 - 01:21:38,824] It should actually be second derivative of
+- [01:21:38,824 - 01:21:40,714] phi with respect to distance measured in
+- [01:21:40,714 - 01:21:41,614] standard units,
+- [01:21:41,614 - 01:21:43,304] and that means that there
+- [01:21:43,304 - 01:21:44,994] should be another a squared downstairs.
+- [01:21:47,094 - 01:21:48,774] One over a squared.
+- [01:21:49,614 - 01:21:54,994] And a times a little dx is an actual length.
+- [01:21:56,094 - 01:21:58,814] And that in fact is the right equation
+- [01:21:58,814 - 01:22:01,534] for a scalar field in an expanding universe,
+- [01:22:01,534 - 01:22:02,794] and
+- [01:22:02,794 - 01:22:03,254] in general,
+- [01:22:03,254 - 01:22:04,754] a is a function of time.
+- [01:22:06,274 - 01:22:06,914] a is a function of time.
+- [01:22:06,934 - 01:22:10,694] In the case of interest here,
+- [01:22:10,694 - 01:22:12,714] h is pretty flat.
+- [01:22:13,614 - 01:22:15,074] Doesn't change much with time.
+- [01:22:15,874 - 01:22:16,854] But this is there.
+- [01:22:17,214 - 01:22:18,374] One over a of t.
+- [01:22:18,694 - 01:22:19,814] Should that be plus?
+- [01:22:20,934 - 01:22:21,294] Hm?
+- [01:22:21,454 - 01:22:22,614] Plus one over a squared?
+- [01:22:23,314 - 01:22:23,794] No,
+- [01:22:23,794 - 01:22:26,534] it shouldn't match this minus here.
+- [01:22:29,814 - 01:22:31,174] Why do you think it should be plus?
+- [01:22:33,194 - 01:22:33,874] Who asked?
+- [01:22:34,414 - 01:22:35,354] I asked that.
+- [01:22:35,394 - 01:22:36,034] I must be mistaken.
+- [01:22:36,434 - 01:22:36,914] I'm sorry.
+- [01:22:36,914 - 01:22:37,494] What's that?
+- [01:22:37,714 - 01:22:38,714] I must be mistaken.
+- [01:22:39,034 - 01:22:40,014] You are mistaken.
+- [01:22:40,294 - 01:22:41,974] Do you understand why there's a minus here?
+- [01:22:43,814 - 01:22:44,954] For a wave equation?
+- [01:22:45,374 - 01:22:45,594] Yeah.
+- [01:22:45,674 - 01:22:46,194] Yeah.
+- [01:22:46,774 - 01:22:47,334] Okay.
+- [01:22:47,414 - 01:22:48,894] This is just this term,
+- [01:22:48,894 - 01:22:52,934] except rescaled with appropriate unit
+- [01:22:52,934 - 01:22:56,974] changes so that the unit
+- [01:22:56,974 - 01:22:57,614] of length,
+- [01:22:57,614 - 01:22:58,474] which should go here,
+- [01:22:58,474 - 01:23:01,354] is a times delta x.
+- [01:23:02,114 - 01:23:05,154] A times delta x is a little differential distance.
+- [01:23:05,514 - 01:23:05,734] Okay.
+- [01:23:06,914 - 01:23:07,494] That's our equation.
+- [01:23:09,853 - 01:23:15,054] And what I want to solve it for is waves.
+- [01:23:15,554 - 01:23:16,594] In particular,
+- [01:23:16,594 - 01:23:19,904] I want to solve it for
+- [01:23:19,904 - 01:23:23,214] a solution that varies with x.
+- [01:23:23,754 - 01:23:25,494] How does it vary with x?
+- [01:23:25,654 - 01:23:27,974] Like a sine wave or a cosine wave.
+- [01:23:29,974 - 01:23:31,154] In other words,
+- [01:23:31,154 - 01:23:33,914] I'll use complex exponentials,
+- [01:23:33,914 - 01:23:36,174] but it really just means sines and cosines.
+- [01:23:36,174 - 01:23:37,314] In other words,
+- [01:23:37,314 - 01:23:40,424] a wave which has the wave form that
+- [01:23:40,424 - 01:23:43,534] it behaves like e to the i kx.
+- [01:23:44,434 - 01:23:45,594] k dot x.
+- [01:23:45,734 - 01:23:47,294] x is a three-dimensional vector,
+- [01:23:47,294 - 01:23:49,874] and k is the wave vector.
+- [01:23:51,954 - 01:23:52,474] Times,
+- [01:23:52,474 - 01:23:54,934] now that's a funny looking thing.
+- [01:23:55,214 - 01:23:56,634] It doesn't depend on time.
+- [01:23:57,014 - 01:23:59,354] We expect our waves to depend on time.
+- [01:23:59,954 - 01:24:01,274] If this is the form,
+- [01:24:01,274 - 01:24:03,114] then we want to put a
+- [01:24:03,114 - 01:24:04,954] phi sub k of t here.
+- [01:24:05,214 - 01:24:05,734] Okay.
+- [01:24:07,474 - 01:24:07,994] Now,
+- [01:24:07,994 - 01:24:08,194] of course,
+- [01:24:08,194 - 01:24:10,074] there are many possible waves that can propagate.
+- [01:24:10,634 - 01:24:12,694] We should add up lots of waves,
+- [01:24:12,694 - 01:24:14,954] but later on we'll add up lots of waves.
+- [01:24:15,154 - 01:24:17,064] Let's just study what happens
+- [01:24:17,064 - 01:24:18,974] to a wave of this form.
+- [01:24:21,894 - 01:24:26,254] Let's plug this form into this equation.
+- [01:24:26,894 - 01:24:27,894] See what we get.
+- [01:24:29,494 - 01:24:31,534] d second phi by dt squared.
+- [01:24:31,714 - 01:24:31,974] Well,
+- [01:24:31,974 - 01:24:33,814] the only thing here that depends
+- [01:24:33,814 - 01:24:35,654] on time is the coefficient out here.
+- [01:24:36,494 - 01:24:37,074] All right.
+- [01:24:37,394 - 01:24:37,794] So,
+- [01:24:37,794 - 01:24:41,114] that's going to give us the
+- [01:24:41,114 - 01:24:44,434] second time derivative of phi sub k.
+- [01:24:46,594 - 01:24:48,874] Phi k second time derivative
+- [01:24:48,874 - 01:24:51,154] times e to the i kx.
+- [01:24:52,414 - 01:24:53,894] Times e to the i kx.
+- [01:24:54,054 - 01:24:56,254] Let's put the e to the i kx outside.
+- [01:24:57,154 - 01:24:58,334] Every term here is going to
+- [01:24:58,334 - 01:24:59,514] have an e to the i kx.
+- [01:25:00,554 - 01:25:01,114] All right.
+- [01:25:01,134 - 01:25:02,574] So this one will have phi double dot.
+- [01:25:03,134 - 01:25:04,074] How about this one?
+- [01:25:05,494 - 01:25:10,554] Plus 3h phi dot,
+- [01:25:10,554 - 01:25:10,873] right?
+- [01:25:11,294 - 01:25:12,393] Phi dot of t.
+- [01:25:16,714 - 01:25:18,054] And what about this one?
+- [01:25:24,154 - 01:25:25,133] Plus or minus?
+- [01:25:28,294 - 01:25:30,294] What happens if I differentiate
+- [01:25:30,294 - 01:25:32,294] this twice with respect to x?
+- [01:25:32,554 - 01:25:33,674] Plus or minus?
+- [01:25:33,934 - 01:25:34,054] Plus or minus?
+- [01:25:35,174 - 01:25:37,074] I squared gives you a minus 1.
+- [01:25:37,234 - 01:25:42,584] So you get plus k squared
+- [01:25:42,584 - 01:25:47,934] over a squared of t times phi.
+- [01:25:49,534 - 01:25:51,874] Times phi sub k of t.
+- [01:25:59,194 - 01:25:59,714] Well,
+- [01:25:59,714 - 01:26:01,374] here we have the...
+- [01:26:01,374 - 01:26:02,614] a squared of t or k of t?
+- [01:26:02,994 - 01:26:03,554] a squared.
+- [01:26:03,554 - 01:26:03,794] a squared.
+- [01:26:04,714 - 01:26:05,574] Thank you.
+- [01:26:07,794 - 01:26:10,294] Here we have the damped harmonic oscillator.
+- [01:26:11,294 - 01:26:12,534] Phi double dot,
+- [01:26:12,534 - 01:26:14,634] 3h phi dot.
+- [01:26:15,154 - 01:26:18,334] 3h plays the role of gamma.
+- [01:26:21,294 - 01:26:22,974] 3h plays the role of gamma.
+- [01:26:23,494 - 01:26:25,774] Times a constant times phi.
+- [01:26:26,754 - 01:26:28,774] That's what we call omega squared.
+- [01:26:31,854 - 01:26:33,534] But with one constant.
+- [01:26:33,534 - 01:26:34,054] Omega squared is a new thing.
+- [01:26:35,014 - 01:26:36,954] Omega squared depends on time.
+- [01:26:37,354 - 01:26:39,034] And as the universe expands,
+- [01:26:39,034 - 01:26:42,174] omega squared gets smaller and smaller.
+- [01:26:43,954 - 01:26:46,354] If the universe exponentially expands,
+- [01:26:46,354 - 01:26:50,414] we can even say how a squared gets big.
+- [01:26:50,514 - 01:26:51,494] But we're not going to worry about it.
+- [01:26:51,534 - 01:26:54,454] We're just going to say a increases with time.
+- [01:26:54,994 - 01:26:57,394] And so the restoring force decreases.
+- [01:26:57,394 - 01:27:04,154] That's exactly the situation that I've either erased...
+- [01:27:04,154 - 01:27:04,234] Oh,
+- [01:27:04,234 - 01:27:04,594] here it is.
+- [01:27:04,994 - 01:27:07,354] It's exactly this situation here,
+- [01:27:08,254 - 01:27:12,914] where the restoring force decreases as a function of time,
+- [01:27:13,094 - 01:27:15,754] goes to zero as the universe expands,
+- [01:27:19,374 - 01:27:22,494] and the result is exactly this kind of thing,
+- [01:27:24,173 - 01:27:24,854] where,
+- [01:27:24,854 - 01:27:28,594] because the restoring force goes to zero,
+- [01:27:29,354 - 01:27:31,814] it doesn't get pulled back to the origin.
+- [01:27:32,854 - 01:27:37,274] It just winds up asymptotically at late times
+- [01:27:37,274 - 01:27:39,414] with some value of the field,
+- [01:27:39,494 - 01:27:41,294] some numerical value of the field,
+- [01:27:41,394 - 01:27:43,854] that depends on the initial conditions.
+- [01:27:43,974 - 01:27:45,894] It depends on solving the whole equation,
+- [01:27:45,894 - 01:27:46,574] set of equations.
+- [01:27:47,094 - 01:27:49,094] But it ends up with a
+- [01:27:49,094 - 01:27:51,094] number for phi for each k.
+- [01:27:51,414 - 01:27:52,834] There may be many waves.
+- [01:27:53,394 - 01:27:54,834] There may be waves of this kind,
+- [01:27:54,834 - 01:27:55,174] waves of this wavelength,
+- [01:27:55,414 - 01:27:56,334] waves of that wavelength,
+- [01:27:56,454 - 01:27:57,334] waves going this way,
+- [01:27:57,414 - 01:27:58,354] waves going that way.
+- [01:27:58,774 - 01:27:59,294] If,
+- [01:27:59,294 - 01:28:00,314] for whatever reason,
+- [01:28:00,974 - 01:28:04,394] we started out with a complicated set of waves,
+- [01:28:05,394 - 01:28:07,754] each of those waves will first of all stretch.
+- [01:28:08,434 - 01:28:10,124] They stretch just by virtue
+- [01:28:10,124 - 01:28:11,814] of the fact that this x
+- [01:28:14,414 - 01:28:17,954] is not a physical unit.
+- [01:28:18,014 - 01:28:20,414] It's a stretched unit.
+- [01:28:20,714 - 01:28:22,014] So as the universe expands,
+- [01:28:22,414 - 01:28:24,314] the waves stretch out,
+- [01:28:25,854 - 01:28:28,834] and they oscillate for a while.
+- [01:28:29,074 - 01:28:30,494] At first they oscillate,
+- [01:28:30,514 - 01:28:32,614] and then the oscillations die out,
+- [01:28:32,674 - 01:28:33,594] and they come to rest,
+- [01:28:33,674 - 01:28:35,424] but they come to rest with
+- [01:28:35,424 - 01:28:37,174] some non-zero value of the field.
+- [01:28:38,154 - 01:28:39,354] For each k,
+- [01:28:39,574 - 01:28:41,094] for each k that's true.
+- [01:28:42,194 - 01:28:42,674] So,
+- [01:28:47,854 - 01:28:48,894] but on the other hand,
+- [01:28:48,914 - 01:28:51,154] it's also true that each
+- [01:28:51,154 - 01:28:53,394] wave gets more and more stretched.
+- [01:28:53,394 - 01:28:54,914] So as measured,
+- [01:28:55,054 - 01:28:57,594] its wavelength as measured in meters
+- [01:28:58,194 - 01:28:59,934] gets longer and longer and longer.
+- [01:29:00,134 - 01:29:01,594] Everything gets stretched out.
+- [01:29:02,074 - 01:29:04,054] And that was the whole purpose of inflation.
+- [01:29:04,574 - 01:29:05,854] To start with anything,
+- [01:29:06,054 - 01:29:07,154] stretch it out,
+- [01:29:07,254 - 01:29:09,094] and let it,
+- [01:29:09,094 - 01:29:11,694] let it just stretch out.
+- [01:29:13,234 - 01:29:14,854] That would be the end of the story
+- [01:29:14,854 - 01:29:16,214] if it were not for quantum mechanics.
+- [01:29:17,974 - 01:29:20,874] Quantum mechanics has zero-point oscillations.
+- [01:29:21,914 - 01:29:23,374] Those oscillations can be used
+- [01:29:23,394 - 01:29:26,014] to be thought of as just classical waves.
+- [01:29:27,164 - 01:29:29,094] Where did we write the formula for them?
+- [01:29:29,814 - 01:29:32,754] The zero-point oscillations of each oscillator
+- [01:29:33,384 - 01:29:35,014] means that in space,
+- [01:29:35,274 - 01:29:38,474] there's an oscillating field for every value of k.
+- [01:29:39,074 - 01:29:40,694] Now why don't we see it?
+- [01:29:41,094 - 01:29:41,794] Typically,
+- [01:29:41,794 - 01:29:44,414] the oscillation frequency is very large.
+- [01:29:44,994 - 01:29:45,694] Typically,
+- [01:29:45,694 - 01:29:47,254] we're in this regime here
+- [01:29:47,254 - 01:29:49,594] where the oscillation frequency of
+- [01:29:50,453 - 01:29:53,074] the zero-point oscillations
+- [01:29:53,394 - 01:29:54,414] of electromagnetic field
+- [01:29:54,414 - 01:29:56,834] or pretty much any kind of field
+- [01:29:57,314 - 01:29:58,354] are so rapid
+- [01:29:58,354 - 01:30:01,294] that we average them out and we don't see them.
+- [01:30:02,774 - 01:30:03,514] They're there.
+- [01:30:04,494 - 01:30:05,994] But look what happens here.
+- [01:30:06,634 - 01:30:08,954] The wave starts oscillating
+- [01:30:08,954 - 01:30:10,694] so that its time average is zero
+- [01:30:10,694 - 01:30:11,734] in the beginning.
+- [01:30:12,594 - 01:30:13,734] We wouldn't see it,
+- [01:30:13,734 - 01:30:14,914] but then it slows down
+- [01:30:15,614 - 01:30:17,534] and eventually comes to rest
+- [01:30:17,534 - 01:30:19,554] with the field just frozen.
+- [01:30:21,194 - 01:30:22,714] That's the way you should think about
+- [01:30:23,394 - 01:30:24,334] the zero-point oscillations.
+- [01:30:24,334 - 01:30:27,934] The zero-point oscillations in the expanding universe
+- [01:30:27,934 - 01:30:30,374] go through this transition
+- [01:30:30,374 - 01:30:33,094] from under-damped to over-damped
+- [01:30:33,094 - 01:30:35,514] and then just settle down and freeze.
+- [01:30:35,994 - 01:30:37,374] Each one freezes.
+- [01:30:38,594 - 01:30:41,194] But it's important to know
+- [01:30:42,334 - 01:30:44,034] when they freeze.
+- [01:30:44,474 - 01:30:46,214] When they freeze means
+- [01:30:46,214 - 01:30:49,134] when do you reach this critical damping?
+- [01:30:50,814 - 01:30:52,774] So let's see if we can figure out
+- [01:30:54,974 - 01:30:58,354] at what time the critical damping happens.
+- [01:30:59,194 - 01:31:00,954] And the answer will depend on k.
+- [01:31:02,014 - 01:31:03,694] The shorter the wavelength,
+- [01:31:04,054 - 01:31:07,834] the later the critical transition will happen
+- [01:31:07,834 - 01:31:09,514] between under-damped and over-damped.
+- [01:31:10,134 - 01:31:12,154] Another way of saying it is
+- [01:31:12,154 - 01:31:13,614] the smaller the wavelength,
+- [01:31:14,094 - 01:31:17,054] the later the wave will get frozen
+- [01:31:18,034 - 01:31:20,934] and stop behaving with oscillations.
+- [01:31:20,934 - 01:31:23,134] Let's see if we can see how that's so.
+- [01:31:24,754 - 01:31:28,374] The critical transition between the two
+- [01:31:28,374 - 01:31:30,314] is that gamma equals 2 omega.
+- [01:31:30,854 - 01:31:32,154] So let's work that out.
+- [01:31:32,214 - 01:31:34,414] Gamma equals 2 omega.
+- [01:31:35,654 - 01:31:36,774] Now what is gamma?
+- [01:31:37,694 - 01:31:40,094] Gamma is 3 times the Hubble constant
+- [01:31:40,094 - 01:31:41,774] in the expanding universe,
+- [01:31:41,894 - 01:31:42,854] in the inflating universe.
+- [01:31:43,654 - 01:31:47,674] So gamma is 3h equals
+- [01:31:48,733 - 01:31:49,614] twice...
+- [01:31:51,054 - 01:31:54,074] and omega is k over a.
+- [01:31:58,314 - 01:32:00,314] Omega is k over a.
+- [01:32:06,194 - 01:32:09,414] That means that the transition happens
+- [01:32:10,634 - 01:32:17,094] when a is equal to 2k over 3h.
+- [01:32:21,274 - 01:32:23,394] I've just solved this equation here for a.
+- [01:32:24,194 - 01:32:25,934] I've divided by 3h,
+- [01:32:25,934 - 01:32:27,494] multiplied by a.
+- [01:32:27,934 - 01:32:29,174] a equals...
+- [01:32:29,174 - 01:32:32,414] Now notice that the freeze-out...
+- [01:32:32,414 - 01:32:33,594] it's not called freeze-out.
+- [01:32:35,274 - 01:32:37,754] It's officially called exiting the horizon.
+- [01:32:38,174 - 01:32:39,194] Don't ask who's exiting.
+- [01:32:39,194 - 01:32:39,994] Nobody's exiting.
+- [01:32:40,534 - 01:32:42,434] It's exiting the horizon,
+- [01:32:42,674 - 01:32:43,834] but it's just a set of words.
+- [01:32:45,134 - 01:32:47,654] The transition from under-damped to over-damped
+- [01:32:47,654 - 01:32:50,234] happens for a given k
+- [01:32:50,234 - 01:32:53,094] when the universe has expanded
+- [01:32:53,094 - 01:32:56,674] so that its scale factor is twice k over 3h.
+- [01:32:57,134 - 01:32:58,934] The 2 over 3 is not important.
+- [01:32:59,354 - 01:33:01,834] What's important is the k over h.
+- [01:33:02,974 - 01:33:04,454] The smaller k...
+- [01:33:04,454 - 01:33:05,274] Sorry,
+- [01:33:05,274 - 01:33:06,654] the larger k.
+- [01:33:06,834 - 01:33:08,494] Larger k means small wavelength.
+- [01:33:09,254 - 01:33:12,254] Large k means rapid oscillation.
+- [01:33:12,554 - 01:33:14,174] When k is large,
+- [01:33:15,454 - 01:33:16,174] then...
+- [01:33:16,174 - 01:33:20,994] the freezing doesn't happen until a large a.
+- [01:33:21,394 - 01:33:22,754] When k is small,
+- [01:33:22,754 - 01:33:24,074] that's a long wavelength,
+- [01:33:24,514 - 01:33:26,174] it happens faster.
+- [01:33:27,774 - 01:33:28,294] Okay?
+- [01:33:29,194 - 01:33:31,894] Let's see if we can write it a different way.
+- [01:33:32,094 - 01:33:33,394] I want to write it a different way.
+- [01:33:34,774 - 01:33:38,034] I want to replace k by the wavelength.
+- [01:33:39,574 - 01:33:41,374] Let's replace k by the wavelength.
+- [01:33:41,954 - 01:33:42,994] We have a wave.
+- [01:33:43,094 - 01:33:44,814] It's a sine wave of some kind.
+- [01:33:46,334 - 01:33:47,354] And it goes,
+- [01:33:47,354 - 01:33:47,874] let's say,
+- [01:33:47,874 - 01:33:51,794] like sine kx.
+- [01:33:51,914 - 01:33:52,334] Now remember,
+- [01:33:52,334 - 01:33:55,234] x is not the thing that's measured in meters.
+- [01:33:56,334 - 01:33:57,914] x times a is the
+- [01:33:57,914 - 01:33:59,494] thing which is measured in meters.
+- [01:33:59,594 - 01:34:00,094] We'll need that.
+- [01:34:00,954 - 01:34:01,994] But nevertheless,
+- [01:34:01,994 - 01:34:03,954] what is the wavelength in x
+- [01:34:03,954 - 01:34:06,874] that's associated with this oscillation,
+- [01:34:06,974 - 01:34:08,694] with this wave?
+- [01:34:09,994 - 01:34:13,934] The wavelength lambda
+- [01:34:13,934 - 01:34:18,034] is equal to 2 pi over k.
+- [01:34:18,274 - 01:34:19,734] Everybody know that formula?
+- [01:34:22,394 - 01:34:23,574] 2 pi over k?
+- [01:34:24,154 - 01:34:26,864] That's how far you have to
+- [01:34:26,864 - 01:34:29,574] go before the wave executes one oscillation.
+- [01:34:30,014 - 01:34:32,054] Or you can write it as k
+- [01:34:32,054 - 01:34:34,094] is equal to 2 pi over lambda.
+- [01:34:37,114 - 01:34:37,874] But now,
+- [01:34:37,874 - 01:34:40,834] is lambda really the true wavelength of this radiation?
+- [01:34:42,814 - 01:34:45,164] It's not the wavelength measured
+- [01:34:45,164 - 01:34:47,514] in meters or in light years.
+- [01:34:48,094 - 01:34:52,694] It's the wavelength measured in these artificial units
+- [01:34:52,694 - 01:34:54,174] that are expanding with the universe.
+- [01:34:59,094 - 01:35:03,214] If we want the wavelength in standard units,
+- [01:35:03,474 - 01:35:07,094] we want to put another a down here.
+- [01:35:08,814 - 01:35:10,814] A wavelength in standard units,
+- [01:35:10,834 - 01:35:12,674] we want to put a wavelength in x times a,
+- [01:35:12,854 - 01:35:15,174] is a wavelength in true meters.
+- [01:35:15,934 - 01:35:19,154] So k is equal to 2 pi
+- [01:35:19,834 - 01:35:22,534] divided by the actual wavelength of the wave
+- [01:35:22,534 - 01:35:23,874] measured with a meter stick
+- [01:35:24,874 - 01:35:26,434] divided by a.
+- [01:35:33,754 - 01:35:34,934] Do I have that right?
+- [01:35:43,094 - 01:35:43,774] No.
+- [01:35:45,134 - 01:35:45,814] No,
+- [01:35:45,814 - 01:35:46,334] I don't.
+- [01:35:48,814 - 01:35:49,874] A upstairs.
+- [01:35:50,474 - 01:35:51,154] Yep.
+- [01:35:52,434 - 01:35:53,114] Okay.
+- [01:35:54,134 - 01:35:55,714] Doesn't x go to ax?
+- [01:35:56,854 - 01:35:57,534] Yeah,
+- [01:35:57,534 - 01:35:57,814] okay.
+- [01:35:58,274 - 01:36:06,154] k is dimensionless.
+- [01:36:06,654 - 01:36:08,834] And lambda is a length.
+- [01:36:08,994 - 01:36:09,834] A is a length.
+- [01:36:10,034 - 01:36:10,214] Yeah.
+- [01:36:10,834 - 01:36:11,034] This is right.
+- [01:36:11,154 - 01:36:11,354] Okay,
+- [01:36:11,354 - 01:36:12,794] so let's see if we can understand why.
+- [01:36:30,274 - 01:36:31,454] What are the units of k?
+- [01:36:32,774 - 01:36:33,834] What are the units of x?
+- [01:36:35,134 - 01:36:35,894] In meters.
+- [01:36:36,674 - 01:36:37,074] No.
+- [01:36:37,794 - 01:36:38,554] I'll say it.
+- [01:36:38,954 - 01:36:39,354] No.
+- [01:36:39,354 - 01:36:40,694] It's a unit of a sort,
+- [01:36:40,774 - 01:36:42,514] but it's just these grid units
+- [01:36:42,514 - 01:36:43,194] are really...
+- [01:36:44,334 - 01:36:44,814] Dimensionless.
+- [01:36:45,014 - 01:36:46,054] They have no dimensions.
+- [01:36:46,214 - 01:36:47,294] They're just names of places.
+- [01:36:48,334 - 01:36:48,814] Okay?
+- [01:36:49,154 - 01:36:50,734] x is dimensionless.
+- [01:36:51,534 - 01:36:53,054] So k has to be dimensionless.
+- [01:36:53,054 - 01:36:54,694] And k has to be dimensionless.
+- [01:36:54,814 - 01:36:56,434] And k has to be dimensionless.
+- [01:36:56,534 - 01:36:59,854] So to figure out where a's and k's go,
+- [01:37:00,134 - 01:37:01,934] k has to be dimensionless.
+- [01:37:02,094 - 01:37:04,874] Lambda is ordinary wavelength measured in meters.
+- [01:37:05,394 - 01:37:07,014] So this has units of length.
+- [01:37:07,014 - 01:37:09,154] And a has units of length.
+- [01:37:09,254 - 01:37:10,174] So this is right.
+- [01:37:10,274 - 01:37:10,854] This is right.
+- [01:37:10,894 - 01:37:13,114] k is 2 pi a over lambda.
+- [01:37:13,914 - 01:37:15,934] And that means we can substitute into here.
+- [01:37:16,014 - 01:37:17,134] Now what was this point over here?
+- [01:37:17,214 - 01:37:17,934] Remember what this stood for?
+- [01:37:19,754 - 01:37:22,594] That's the scale factor in which the crossover happens
+- [01:37:22,594 - 01:37:24,234] from underdamped to overdamped.
+- [01:37:24,614 - 01:37:25,774] So let's put this in.
+- [01:37:25,994 - 01:37:28,314] This is equal to...
+- [01:37:28,754 - 01:37:30,114] Let's forget the 2 thirds.
+- [01:37:31,013 - 01:37:34,694] k is equal to 2 pi.
+- [01:37:34,854 - 01:37:35,454] Let's forget that.
+- [01:37:35,754 - 01:37:37,194] So this is equal to a over lambda.
+- [01:37:37,454 - 01:37:41,394] That's k divided by h.
+- [01:37:46,514 - 01:37:49,694] So the crossover happens...
+- [01:37:51,134 - 01:37:55,154] The crossover happens when the scale factor
+- [01:37:55,154 - 01:37:58,014] is equal to about...
+- [01:37:59,374 - 01:38:02,194] give or take a factor of pi's and 3's...
+- [01:38:02,494 - 01:38:05,654] a divided by lambda.
+- [01:38:05,754 - 01:38:06,054] lambda h.
+- [01:38:14,294 - 01:38:16,394] a on both sides of the equation.
+- [01:38:17,014 - 01:38:18,774] You have a on both sides.
+- [01:38:19,054 - 01:38:20,334] One of them is the body.
+- [01:38:20,554 - 01:38:20,874] Oh,
+- [01:38:20,874 - 01:38:22,454] that means lambda h has to be equal to 1.
+- [01:38:25,494 - 01:38:28,974] The crossover happens when the actual wavelength
+- [01:38:28,974 - 01:38:30,314] of the radiation...
+- [01:38:30,314 - 01:38:34,954] when lambda is equal to 1 over h.
+- [01:38:40,933 - 01:38:42,774] Does that mean anything to anybody here?
+- [01:38:44,754 - 01:38:46,214] What is a distance which
+- [01:38:46,214 - 01:38:47,674] is 1 over the Hubble constant?
+- [01:38:48,234 - 01:38:49,454] It's actually probably...
+- [01:38:49,454 - 01:38:50,894] There's a speed of light in there,
+- [01:38:50,994 - 01:38:52,694] but we've set the speed of light equal to 1,
+- [01:38:52,754 - 01:38:53,934] and we'll continue to do so.
+- [01:38:55,314 - 01:38:56,954] Lambda is equal to 1 over h.
+- [01:38:57,134 - 01:38:57,954] Does that ring a bell?
+- [01:38:58,354 - 01:38:58,754] Okay,
+- [01:38:58,754 - 01:38:59,774] let me remind you what...
+- [01:38:59,774 - 01:39:03,094] Is that where the expansion is faster than the speed?
+- [01:39:03,274 - 01:39:05,734] That's where the expansion reaches the speed of light.
+- [01:39:05,734 - 01:39:07,354] Let's just check that.
+- [01:39:08,974 - 01:39:10,674] Hubble constant is defined
+- [01:39:11,334 - 01:39:14,454] so that distance is equal to Hubble...
+- [01:39:14,454 - 01:39:14,674] No.
+- [01:39:14,814 - 01:39:18,614] So that velocity is Hubble constant times distance,
+- [01:39:18,614 - 01:39:19,014] right?
+- [01:39:19,114 - 01:39:21,174] That was a good old definition of the Hubble constant.
+- [01:39:21,994 - 01:39:22,514] Okay?
+- [01:39:25,634 - 01:39:26,154] Where,
+- [01:39:26,154 - 01:39:27,134] at what distance,
+- [01:39:27,714 - 01:39:29,974] does the velocity go to the speed of light?
+- [01:39:30,414 - 01:39:31,374] That's when 1,
+- [01:39:31,374 - 01:39:33,254] the speed of light in our units,
+- [01:39:33,454 - 01:39:35,414] is equal to h times d.
+- [01:39:35,734 - 01:39:36,874] Or in other words,
+- [01:39:36,874 - 01:39:38,454] d equals 1 over h.
+- [01:39:39,674 - 01:39:41,534] That's the significance of h,
+- [01:39:41,534 - 01:39:42,054] if you like.
+- [01:39:42,554 - 01:39:44,594] d equals 1 over h,
+- [01:39:44,854 - 01:39:46,534] either d or h,
+- [01:39:46,794 - 01:39:49,274] is the distance out to the point
+- [01:39:49,274 - 01:39:51,634] where things are receding at the speed of light.
+- [01:39:51,914 - 01:39:53,494] You can call it the horizon,
+- [01:39:53,494 - 01:39:54,174] if you like.
+- [01:39:55,434 - 01:39:56,574] It's the distance,
+- [01:39:56,574 - 01:39:58,154] usually called the Hubble,
+- [01:39:58,314 - 01:40:01,234] the Hubble distance or the Hubble horizon.
+- [01:40:02,154 - 01:40:03,814] So what have we found here?
+- [01:40:04,454 - 01:40:05,714] We found that...
+- [01:40:05,714 - 01:40:06,934] that for each wave...
+- [01:40:06,934 - 01:40:07,654] Here's the picture.
+- [01:40:07,834 - 01:40:09,474] You have a wave propagating.
+- [01:40:12,334 - 01:40:15,294] Let's put some meter sticks down here.
+- [01:40:15,794 - 01:40:16,834] These are meter sticks.
+- [01:40:17,554 - 01:40:19,854] They're not expanding with the background,
+- [01:40:20,693 - 01:40:23,494] but the wave is expanding.
+- [01:40:24,014 - 01:40:27,374] It started out with a small wavelength,
+- [01:40:28,134 - 01:40:30,494] and the expansion of the universe
+- [01:40:31,634 - 01:40:33,414] just expanded it.
+- [01:40:33,494 - 01:40:34,814] As the universe stretched,
+- [01:40:34,814 - 01:40:36,014] it began to stretch,
+- [01:40:36,634 - 01:40:40,234] until its wavelength was equal...
+- [01:40:40,814 - 01:40:41,454] well,
+- [01:40:41,454 - 01:40:43,174] until its wavelength
+- [01:40:43,814 - 01:40:46,514] was equal to about a horizon size.
+- [01:40:47,614 - 01:40:47,954] Now,
+- [01:40:47,954 - 01:40:49,494] is this horizon size
+- [01:40:49,494 - 01:40:51,974] that we're talking about 10 billion light years?
+- [01:40:53,734 - 01:40:54,414] No,
+- [01:40:54,414 - 01:40:56,214] because we're talking about during inflation.
+- [01:40:56,694 - 01:40:57,914] During inflation,
+- [01:40:57,914 - 01:41:00,414] the expansion was so fast,
+- [01:41:00,494 - 01:41:02,194] the Hubble constant was so big,
+- [01:41:02,194 - 01:41:03,714] that the...
+- [01:41:03,714 - 01:41:04,694] that the...
+- [01:41:04,694 - 01:41:09,734] that the Hubble horizon was a tiny microscopic size.
+- [01:41:10,174 - 01:41:11,134] But still,
+- [01:41:11,134 - 01:41:13,094] think about it as the horizon size
+- [01:41:13,094 - 01:41:14,754] of the universe at that time.
+- [01:41:15,094 - 01:41:17,574] It was expanding extremely rapidly
+- [01:41:17,574 - 01:41:19,754] with a very large Hubble constant,
+- [01:41:20,554 - 01:41:21,654] and therefore,
+- [01:41:21,654 - 01:41:22,634] this wavelength
+- [01:41:22,974 - 01:41:24,594] was a microscopic wavelength,
+- [01:41:25,094 - 01:41:25,894] but still,
+- [01:41:25,894 - 01:41:26,954] it played the role
+- [01:41:26,954 - 01:41:29,814] of the horizon size at that time.
+- [01:41:29,814 - 01:41:33,854] And each time a wave that might have been present
+- [01:41:34,814 - 01:41:38,134] grows to the size that it is equal
+- [01:41:38,634 - 01:41:41,694] to this Hubble horizon size,
+- [01:41:41,994 - 01:41:44,354] then it freezes.
+- [01:41:44,714 - 01:41:46,714] Then it goes from oscillation
+- [01:41:46,714 - 01:41:48,614] to overdamped,
+- [01:41:48,774 - 01:41:50,634] and it gets it even a little bit bigger,
+- [01:41:50,734 - 01:41:52,614] and it stops oscillating altogether.
+- [01:41:52,994 - 01:41:54,494] It stops oscillating altogether
+- [01:41:54,494 - 01:41:56,454] because when...
+- [01:41:56,454 - 01:41:58,034] as the wave expands,
+- [01:41:58,034 - 01:41:59,374] the...
+- [01:42:00,874 - 01:42:03,034] the restoring force here...
+- [01:42:03,034 - 01:42:04,014] where's the restoring force?
+- [01:42:04,214 - 01:42:04,654] Here it is.
+- [01:42:04,734 - 01:42:06,874] The restoring force goes to zero.
+- [01:42:07,514 - 01:42:08,193] Okay?
+- [01:42:08,554 - 01:42:10,134] So that's the picture
+- [01:42:10,873 - 01:42:14,074] that if you had an ambient population of waves,
+- [01:42:14,554 - 01:42:16,213] the waves would stretch
+- [01:42:17,314 - 01:42:19,814] until the wavelength got to be
+- [01:42:19,814 - 01:42:20,994] the size of the horizon,
+- [01:42:21,314 - 01:42:23,753] and when it got to the size of the horizon,
+- [01:42:24,034 - 01:42:25,134] it freezes.
+- [01:42:25,793 - 01:42:28,014] It no longer undergoes oscillation.
+- [01:42:28,034 - 01:42:29,334] It's just frozen there.
+- [01:42:30,014 - 01:42:30,794] All right.
+- [01:42:30,834 - 01:42:31,094] Now,
+- [01:42:31,094 - 01:42:33,693] each one of these waves gets stretched.
+- [01:42:33,834 - 01:42:36,193] If there's only a certain population of them,
+- [01:42:36,374 - 01:42:38,954] eventually they'll all get stretched so much
+- [01:42:38,954 - 01:42:40,434] that they all just get the...
+- [01:42:40,434 - 01:42:41,614] the field becomes uniform.
+- [01:42:42,914 - 01:42:46,074] Unless there is a source of new waves.
+- [01:42:46,594 - 01:42:50,233] Imagine now that as the waves stretch
+- [01:42:50,233 - 01:42:52,173] and become larger than the horizon,
+- [01:42:53,814 - 01:42:56,094] new waves come to take their place.
+- [01:42:56,273 - 01:42:57,294] I'll tell you in a moment
+- [01:42:57,294 - 01:42:58,494] where the new waves come from.
+- [01:42:59,814 - 01:43:02,334] New waves come to take their place
+- [01:43:03,894 - 01:43:06,094] so that as everything expands,
+- [01:43:06,274 - 01:43:09,214] a population of waves keeps getting created,
+- [01:43:11,774 - 01:43:15,274] and they get created with short wavelength.
+- [01:43:15,614 - 01:43:17,474] They begin life with short wavelength.
+- [01:43:18,104 - 01:43:18,954] They stretch,
+- [01:43:18,954 - 01:43:20,294] and eventually
+- [01:43:20,294 - 01:43:22,294] they reach the horizon size.
+- [01:43:22,594 - 01:43:24,094] They become frozen.
+- [01:43:24,954 - 01:43:25,614] Okay.
+- [01:43:25,614 - 01:43:28,214] Where do these new waves come from?
+- [01:43:28,534 - 01:43:30,714] They come from the vacuum fluctuations.
+- [01:43:31,634 - 01:43:32,834] They're always...
+- [01:43:32,834 - 01:43:34,834] at every wavelength,
+- [01:43:35,034 - 01:43:36,834] let's say a wavelength of a tenth of a centimeter,
+- [01:43:37,274 - 01:43:38,174] they're there.
+- [01:43:39,494 - 01:43:41,874] That wave then expands,
+- [01:43:42,274 - 01:43:42,794] stretches,
+- [01:43:42,794 - 01:43:43,954] gets frozen.
+- [01:43:44,274 - 01:43:48,034] But a new vacuum fluctuation is still there.
+- [01:43:48,214 - 01:43:49,914] That new vacuum fluctuation,
+- [01:43:50,054 - 01:43:51,814] which is still oscillating,
+- [01:43:51,834 - 01:43:52,934] but at smaller wavelength,
+- [01:43:53,234 - 01:43:54,094] expands,
+- [01:43:54,094 - 01:43:55,474] gets stretched,
+- [01:43:55,874 - 01:43:56,554] freezes.
+- [01:43:56,774 - 01:43:58,354] Then the next one comes,
+- [01:43:58,913 - 01:43:59,274] expands,
+- [01:43:59,274 - 01:44:00,194] freezes.
+- [01:44:00,853 - 01:44:03,474] The result is a population of waves
+- [01:44:03,474 - 01:44:05,674] that keeps coming in and coming in,
+- [01:44:05,834 - 01:44:11,374] and eventually leads to a picture
+- [01:44:12,934 - 01:44:15,354] where the field profile in space,
+- [01:44:15,534 - 01:44:16,854] the frozen field,
+- [01:44:17,054 - 01:44:19,494] the one that's not oscillating violently,
+- [01:44:19,914 - 01:44:21,954] the one that's not averaging to zero,
+- [01:44:22,154 - 01:44:24,074] consists of sums of waves
+- [01:44:25,174 - 01:44:26,434] of one wavelength,
+- [01:44:26,854 - 01:44:28,094] another wavelength,
+- [01:44:28,714 - 01:44:29,834] another wavelength,
+- [01:44:30,594 - 01:44:31,714] another wavelength,
+- [01:44:31,954 - 01:44:34,654] and the whole thing just makes a kind of random
+- [01:44:36,174 - 01:44:37,354] pattern of field.
+- [01:44:38,534 - 01:44:39,874] It's not really random.
+- [01:44:41,514 - 01:44:42,854] It is this pattern
+- [01:44:42,854 - 01:44:45,894] of waves on top of waves on top of waves,
+- [01:44:46,194 - 01:44:48,134] more and more and more of them coming in,
+- [01:44:48,794 - 01:44:49,994] exiting the horizon,
+- [01:44:50,354 - 01:44:52,074] and as they exit the horizon,
+- [01:44:52,074 - 01:44:52,634] they freeze.
+- [01:44:53,794 - 01:44:55,794] That's a population of waves
+- [01:44:55,794 - 01:44:58,634] that is ultimately coming from the quantum fluctuations,
+- [01:45:00,574 - 01:45:06,034] and which ruins the isotropy and the homogeneity of the...
+- [01:45:06,034 - 01:45:06,074] Yeah?
+- [01:45:06,234 - 01:45:09,134] I thought the waves freeze out at a particular point.
+- [01:45:09,394 - 01:45:11,634] Are they freezing out at a particular wavelength?
+- [01:45:12,014 - 01:45:12,114] Yeah,
+- [01:45:12,114 - 01:45:13,534] they're freezing out at a wavelength.
+- [01:45:13,954 - 01:45:14,674] That's right.
+- [01:45:14,854 - 01:45:17,934] Is that because H is exponential in time?
+- [01:45:18,294 - 01:45:18,554] No,
+- [01:45:18,554 - 01:45:19,074] H...
+- [01:45:19,074 - 01:45:19,294] All right.
+- [01:45:19,674 - 01:45:22,614] If the potential is flat like that,
+- [01:45:22,634 - 01:45:24,454] at least while the universe
+- [01:45:24,454 - 01:45:26,274] is up on the flat part,
+- [01:45:26,434 - 01:45:27,174] H is constant.
+- [01:45:28,094 - 01:45:31,274] H is basically the square root of the potential energy.
+- [01:45:32,094 - 01:45:33,054] It's constant.
+- [01:45:33,314 - 01:45:35,894] So to a good approximation during this period,
+- [01:45:36,054 - 01:45:37,354] H is constant during this period
+- [01:45:37,354 - 01:45:38,654] when you're up on the top.
+- [01:45:39,194 - 01:45:39,574] Yeah?
+- [01:45:39,814 - 01:45:43,914] Are these waves in some form of electromagnetic wave?
+- [01:45:44,014 - 01:45:44,154] No.
+- [01:45:44,194 - 01:45:44,894] The particle waves?
+- [01:45:45,234 - 01:45:47,054] The inflaton waves.
+- [01:45:51,034 - 01:45:52,514] The inflaton waves.
+- [01:45:53,734 - 01:45:58,614] The field which someday may or may not get discovered,
+- [01:45:58,794 - 01:46:00,254] but we're pretty damn sure it's there
+- [01:46:00,254 - 01:46:02,954] because this theory works to really,
+- [01:46:02,954 - 01:46:03,914] really good precision.
+- [01:46:04,554 - 01:46:07,074] Is there a continuum of wavelengths?
+- [01:46:07,414 - 01:46:07,654] Yes.
+- [01:46:08,154 - 01:46:09,994] There's a continuum of wavelengths.
+- [01:46:10,314 - 01:46:10,714] That's right.
+- [01:46:10,774 - 01:46:12,174] There's a continuum of wavelengths.
+- [01:46:12,514 - 01:46:13,034] So it steps?
+- [01:46:13,254 - 01:46:15,234] It's not continually varying?
+- [01:46:15,474 - 01:46:15,694] No,
+- [01:46:15,694 - 01:46:16,174] it's not...
+- [01:46:16,174 - 01:46:17,454] It's continually varying.
+- [01:46:17,994 - 01:46:19,394] It's continually varying,
+- [01:46:19,574 - 01:46:21,554] and if you really want to work out the details
+- [01:46:21,554 - 01:46:22,994] of what the shape looks like,
+- [01:46:23,034 - 01:46:24,314] you have to do a Fourier integral.
+- [01:46:26,174 - 01:46:27,134] A Fourier...
+- [01:46:27,134 - 01:46:29,014] The field is described by a Fourier integral,
+- [01:46:29,214 - 01:46:30,954] which is a continuous sum of waves,
+- [01:46:31,194 - 01:46:33,514] and each wave undergoes this process.
+- [01:46:33,934 - 01:46:39,034] So is that continuousness due to an infinite universe?
+- [01:46:39,214 - 01:46:40,114] Or if it's finite,
+- [01:46:40,114 - 01:46:43,234] don't you have all these solutions,
+- [01:46:43,514 - 01:46:45,014] only discrete solutions?
+- [01:46:46,054 - 01:46:46,534] Yeah.
+- [01:46:48,414 - 01:46:48,894] Yeah,
+- [01:46:48,894 - 01:46:50,334] if the universe was finite,
+- [01:46:50,454 - 01:46:51,534] you would have only a discrete solution.
+- [01:46:51,554 - 01:46:51,814] A discrete collection,
+- [01:46:51,814 - 01:46:52,414] that's right.
+- [01:46:52,614 - 01:46:52,714] Yeah.
+- [01:46:53,014 - 01:46:53,454] Yeah.
+- [01:46:53,494 - 01:46:53,714] However,
+- [01:46:53,714 - 01:46:55,754] they would be so closely spaced that...
+- [01:46:55,754 - 01:46:56,254] Yeah,
+- [01:46:56,254 - 01:46:57,174] that's true.
+- [01:46:57,674 - 01:46:58,114] Right.
+- [01:46:58,234 - 01:46:59,534] So this can be thought of
+- [01:46:59,534 - 01:47:00,834] as the picture for an infinite universe.
+- [01:47:01,074 - 01:47:01,234] Yeah.
+- [01:47:01,814 - 01:47:04,144] And it keeps pumping and pumping
+- [01:47:04,144 - 01:47:06,474] and pumping these short wavelengths in.
+- [01:47:06,794 - 01:47:09,254] They undergo this transition and then
+- [01:47:09,254 - 01:47:11,714] come out the other side frozen.
+- [01:47:12,854 - 01:47:14,124] Every time a wave gets
+- [01:47:14,124 - 01:47:15,394] to be of the Hubble length,
+- [01:47:15,394 - 01:47:16,254] it freezes.
+- [01:47:16,514 - 01:47:18,034] Another one comes and takes its place,
+- [01:47:18,174 - 01:47:19,194] not in the discrete sense,
+- [01:47:19,194 - 01:47:20,514] but in the continuous sense.
+- [01:47:20,514 - 01:47:27,814] And so the waves are sitting there in the universe
+- [01:47:27,814 - 01:47:29,214] of all different sizes,
+- [01:47:29,214 - 01:47:29,734] shapes,
+- [01:47:29,734 - 01:47:32,374] and orientations.
+- [01:47:32,794 - 01:47:35,714] Now all of this takes place on
+- [01:47:35,714 - 01:47:38,634] top of something else which is going on.
+- [01:47:39,114 - 01:47:41,954] Very slowly but gradually,
+- [01:47:41,954 - 01:47:45,774] the field is sliding down this potential.
+- [01:47:45,954 - 01:47:46,854] That's classical,
+- [01:47:46,854 - 01:47:49,254] purely classical motion,
+- [01:47:49,254 - 01:47:52,084] just sliding down exactly as if
+- [01:47:52,084 - 01:47:54,914] none of this quantum fluctuation were there.
+- [01:47:55,734 - 01:47:57,434] On top of that,
+- [01:47:57,434 - 01:48:01,474] there's this quantum fluctuation noise.
+- [01:48:01,974 - 01:48:03,534] It's almost white noise.
+- [01:48:03,734 - 01:48:04,534] It's not white noise,
+- [01:48:04,534 - 01:48:06,294] but it's some kind of noise.
+- [01:48:06,654 - 01:48:08,034] Some kind of noisy,
+- [01:48:08,034 - 01:48:11,534] random fluctuations that keep populating
+- [01:48:11,534 - 01:48:15,674] and sitting on top of the classical motion.
+- [01:48:16,494 - 01:48:19,234] Now none of this fluctuation is very secure.
+- [01:48:19,254 - 01:48:19,334] It's strong,
+- [01:48:19,334 - 01:48:19,954] in fact.
+- [01:48:20,254 - 01:48:22,454] It's all quantum mechanical in nature.
+- [01:48:22,654 - 01:48:25,034] That means it has H bars in front of it.
+- [01:48:25,174 - 01:48:26,194] It's a tiny effect.
+- [01:48:26,194 - 01:48:27,414] It's not a big effect.
+- [01:48:28,174 - 01:48:29,614] It's certainly in itself,
+- [01:48:29,614 - 01:48:32,234] the energy stored in these waves
+- [01:48:32,234 - 01:48:36,084] is not enough to explain the
+- [01:48:36,084 - 01:48:39,934] variations in energy density across the universe.
+- [01:48:40,574 - 01:48:41,594] Something else,
+- [01:48:41,594 - 01:48:43,104] I think we have time
+- [01:48:43,104 - 01:48:44,614] to just barely finish this discussion.
+- [01:48:45,574 - 01:48:48,194] So something else is going on.
+- [01:48:48,194 - 01:48:51,174] And what's going on has to do with as
+- [01:48:51,174 - 01:48:54,154] you slide down there and go over the edge.
+- [01:48:55,154 - 01:48:55,834] Okay.
+- [01:48:56,134 - 01:48:58,574] So let's talk about what happens when
+- [01:48:58,574 - 01:49:01,014] you slide down and go over the edge.
+- [01:49:01,234 - 01:49:03,954] And something rather dramatic actually happens.
+- [01:49:08,094 - 01:49:10,634] Let's first ignore the noise
+- [01:49:11,873 - 01:49:14,663] and suppose the entire universe
+- [01:49:14,663 - 01:49:17,454] simultaneously goes over the edge.
+- [01:49:19,734 - 01:49:20,954] Let's draw that.
+- [01:49:23,974 - 01:49:28,594] The horizontal axis here is phi.
+- [01:49:30,334 - 01:49:33,054] And the vertical axis is space.
+- [01:49:33,734 - 01:49:36,794] I'm not used to drawing space being vertical.
+- [01:49:36,954 - 01:49:37,474] Here's space.
+- [01:49:38,034 - 01:49:39,514] One dimensional space,
+- [01:49:39,514 - 01:49:41,254] but use your imagination to put
+- [01:49:41,254 - 01:49:42,994] in a couple of more dimensions.
+- [01:49:43,994 - 01:49:46,834] At any given instant of time in that picture,
+- [01:49:46,834 - 01:49:49,734] the field phi has a certain value.
+- [01:49:50,934 - 01:49:53,154] And if we ignore the quantum noise,
+- [01:49:53,534 - 01:49:56,934] the value is the same at every position.
+- [01:49:58,454 - 01:50:01,334] It's just a field with a constant value,
+- [01:50:01,554 - 01:50:04,974] and that constant value is slowly sliding down the hill.
+- [01:50:05,794 - 01:50:06,054] Alright,
+- [01:50:06,054 - 01:50:08,234] so at every x at any given time,
+- [01:50:08,234 - 01:50:09,494] let's say at a certain time,
+- [01:50:09,814 - 01:50:11,674] the field has a certain value.
+- [01:50:11,794 - 01:50:12,334] There it is.
+- [01:50:12,674 - 01:50:15,414] This is the value of the field at time t1.
+- [01:50:17,374 - 01:50:18,774] Let's put over here,
+- [01:50:18,774 - 01:50:20,014] here's the cliff.
+- [01:50:20,954 - 01:50:22,174] The cliff looks,
+- [01:50:22,174 - 01:50:24,114] the cliff I'll represent this way.
+- [01:50:25,114 - 01:50:28,274] That's the cliff where you fall over the edge.
+- [01:50:30,234 - 01:50:32,394] What happens as time goes on?
+- [01:50:32,554 - 01:50:34,234] As time goes on,
+- [01:50:34,234 - 01:50:36,194] the universe rides slowly,
+- [01:50:36,194 - 01:50:37,754] slowly down that hill.
+- [01:50:37,914 - 01:50:44,214] So it moves from here to here to here
+- [01:50:45,134 - 01:50:46,894] until it gets to the edge.
+- [01:50:47,094 - 01:50:48,714] And when it gets to the edge,
+- [01:50:48,714 - 01:50:50,714] it all falls off the edge.
+- [01:50:51,134 - 01:50:53,094] What happens to the kinetic,
+- [01:50:53,094 - 01:50:54,694] to the potential energy up there?
+- [01:50:56,714 - 01:50:59,374] It turns into particles and heat and other things.
+- [01:51:00,874 - 01:51:03,174] What happens to the expansion of the universe?
+- [01:51:05,774 - 01:51:09,234] It's less rapid because the energy density is less rapid.
+- [01:51:09,614 - 01:51:10,554] And in fact,
+- [01:51:10,554 - 01:51:11,774] it's just ordinary particles.
+- [01:51:11,934 - 01:51:13,314] It's no longer vacuum energy.
+- [01:51:14,214 - 01:51:14,454] It's ordinary particles.
+- [01:51:14,834 - 01:51:16,294] And what happens to ordinary
+- [01:51:16,294 - 01:51:17,754] particle energies as the universe expands?
+- [01:51:18,834 - 01:51:20,054] It dilutes.
+- [01:51:21,154 - 01:51:23,374] So after falling off the edge,
+- [01:51:23,374 - 01:51:24,314] two things happen.
+- [01:51:24,554 - 01:51:26,874] The expansion is no longer exponential.
+- [01:51:28,114 - 01:51:30,554] And the energy density dilutes.
+- [01:51:31,933 - 01:51:32,374] That's it.
+- [01:51:32,474 - 01:51:33,214] That's all.
+- [01:51:33,374 - 01:51:34,774] Except not quite.
+- [01:51:35,214 - 01:51:37,994] And the reason not quite is this noise.
+- [01:51:38,434 - 01:51:40,154] So let's think about the noise.
+- [01:51:40,474 - 01:51:43,814] The noise says that from point to point,
+- [01:51:43,814 - 01:51:46,554] the field is not the same at every point.
+- [01:51:46,794 - 01:51:48,374] It wanders a little bit.
+- [01:51:48,714 - 01:51:51,194] So the field at a given time might look,
+- [01:51:51,314 - 01:51:52,434] I'm not going to use dotted lines.
+- [01:51:52,594 - 01:51:54,734] Dotted lines are a little too hard for this picture.
+- [01:51:55,214 - 01:51:57,554] It may have a little bit of waviness into it.
+- [01:51:57,734 - 01:52:00,794] That waviness is this composite waviness
+- [01:52:00,794 - 01:52:05,554] formed from all of the quantum noise that got frozen.
+- [01:52:07,194 - 01:52:10,974] So instead of being a perfectly sharp line here,
+- [01:52:11,134 - 01:52:13,194] where at every point of space,
+- [01:52:13,814 - 01:52:14,774] the field is the same,
+- [01:52:14,934 - 01:52:16,894] at different points of space,
+- [01:52:17,074 - 01:52:18,414] it wanders a little bit.
+- [01:52:19,394 - 01:52:20,334] Not much.
+- [01:52:20,554 - 01:52:22,994] Not enough to account for anything very interesting.
+- [01:52:23,794 - 01:52:26,394] Think of the field at different points of space
+- [01:52:27,214 - 01:52:31,454] as a bunch of people walking down here,
+- [01:52:31,594 - 01:52:32,594] holding hands,
+- [01:52:32,794 - 01:52:35,514] trying to keep right parallel to each other
+- [01:52:36,314 - 01:52:37,834] until they get to the cliff,
+- [01:52:37,994 - 01:52:39,214] and then go off the cliff.
+- [01:52:39,554 - 01:52:41,194] If they're really good at it,
+- [01:52:41,214 - 01:52:43,134] they'll all go off the cliff at the same time.
+- [01:52:43,814 - 01:52:46,154] But supposing there's a few who lag a little behind,
+- [01:52:46,394 - 01:52:47,814] and a few who are a little bit ahead,
+- [01:52:48,214 - 01:52:49,594] and then as you go a little further away,
+- [01:52:49,794 - 01:52:52,554] a little bit of sloppiness,
+- [01:52:52,754 - 01:52:54,074] military sloppiness.
+- [01:52:55,914 - 01:52:57,914] Sometime I'll tell you when I was in the ROTC.
+- [01:52:57,994 - 01:52:58,474] Let me tell you,
+- [01:52:58,474 - 01:52:59,894] we were sloppy.
+- [01:53:03,594 - 01:53:04,834] So they're going down,
+- [01:53:05,014 - 01:53:07,254] and the first guy who happens
+- [01:53:07,254 - 01:53:09,494] to be a real hot dog,
+- [01:53:09,674 - 01:53:11,234] he's a little ahead of the others,
+- [01:53:11,394 - 01:53:13,314] and he goes whoop first.
+- [01:53:13,814 - 01:53:14,654] And the other ones are left behind,
+- [01:53:14,654 - 01:53:14,954] right?
+- [01:53:16,194 - 01:53:18,914] And then somebody else goes over the edge,
+- [01:53:19,054 - 01:53:20,974] and then somebody else goes over the edge.
+- [01:53:21,294 - 01:53:24,214] But when the first guy goes over the edge,
+- [01:53:24,374 - 01:53:27,194] that means that this has shifted
+- [01:53:27,754 - 01:53:29,614] to a configuration where
+- [01:53:31,654 - 01:53:33,174] somebody's gone over the edge here.
+- [01:53:33,934 - 01:53:35,434] In that region of space,
+- [01:53:35,634 - 01:53:37,134] that defines a little region of space.
+- [01:53:37,394 - 01:53:38,834] Let's take that little region of space.
+- [01:53:39,734 - 01:53:41,074] What's going on in there?
+- [01:53:41,694 - 01:53:42,194] Well,
+- [01:53:42,194 - 01:53:42,894] first of all,
+- [01:53:42,894 - 01:53:44,394] what's going on in there
+- [01:53:44,394 - 01:53:45,894] is you're sliding down the hill.
+- [01:53:46,574 - 01:53:49,314] You're heating in there because that energy
+- [01:53:49,793 - 01:53:52,554] is being converted to ordinary particles
+- [01:53:52,554 - 01:53:53,774] and light and heat.
+- [01:53:55,114 - 01:53:57,354] And it's getting diluted
+- [01:53:57,894 - 01:54:00,674] because even though the universe may not be
+- [01:54:00,674 - 01:54:02,014] exponentially expanding,
+- [01:54:02,514 - 01:54:05,274] it's still expanding in a more ordinary way
+- [01:54:06,854 - 01:54:07,814] in here,
+- [01:54:08,634 - 01:54:11,534] and so the energy density is getting diluted.
+- [01:54:12,894 - 01:54:15,154] So we have some places now
+- [01:54:16,433 - 01:54:18,974] which are no longer inflating,
+- [01:54:18,974 - 01:54:21,194] meaning no longer exponentially expanding.
+- [01:54:21,594 - 01:54:23,474] They're expanding more slowly,
+- [01:54:23,674 - 01:54:25,914] but the energy density is diluting.
+- [01:54:26,774 - 01:54:28,254] Then a little bit later,
+- [01:54:28,614 - 01:54:30,614] the next guy comes
+- [01:54:31,734 - 01:54:34,714] and forms a little pocket.
+- [01:54:34,854 - 01:54:37,914] These pockets have expanded somewhat
+- [01:54:39,513 - 01:54:41,114] and diluted.
+- [01:54:42,134 - 01:54:44,934] Their energy density is less than the way they started,
+- [01:54:45,674 - 01:54:47,434] but then the next guy comes over
+- [01:54:47,434 - 01:54:48,374] the edge of the cliff.
+- [01:54:49,414 - 01:54:51,514] His potential energy gets dumped
+- [01:54:51,514 - 01:54:54,734] into particles and heat and light,
+- [01:54:54,874 - 01:54:56,374] and it has not yet
+- [01:55:00,434 - 01:55:00,914] diluted.
+- [01:55:01,494 - 01:55:03,234] It has not yet diluted,
+- [01:55:03,274 - 01:55:05,914] so the energy density here is going to be larger
+- [01:55:05,914 - 01:55:07,634] than the energy density in here.
+- [01:55:08,054 - 01:55:10,214] So there'll be some little pockets like this.
+- [01:55:11,114 - 01:55:12,214] They'll have higher energy density.
+- [01:55:12,734 - 01:55:15,994] Then the whole thing will evolve for a while.
+- [01:55:16,374 - 01:55:18,394] Everybody will grow a little bit.
+- [01:55:21,674 - 01:55:23,314] And the next group of
+- [01:55:23,314 - 01:55:24,954] soldiers will go over the edge
+- [01:55:24,954 - 01:55:26,934] and produce little pockets,
+- [01:55:27,114 - 01:55:28,174] even smaller pockets,
+- [01:55:29,074 - 01:55:30,514] with higher energy again.
+- [01:55:31,434 - 01:55:33,614] The result is going to be
+- [01:55:33,614 - 01:55:37,694] a very complicated fractal variation of energies.
+- [01:55:38,854 - 01:55:39,874] Something else.
+- [01:55:39,874 - 01:55:40,954] The slower...
+- [01:55:40,954 - 01:55:42,614] How does this effect depend
+- [01:55:43,314 - 01:55:44,914] on the speed with which
+- [01:55:44,914 - 01:55:46,514] you ride down the hill there?
+- [01:55:48,674 - 01:55:49,234] Well,
+- [01:55:49,234 - 01:55:50,714] the slower they go,
+- [01:55:50,874 - 01:55:52,314] the bigger the effect.
+- [01:55:52,594 - 01:55:52,974] Why?
+- [01:55:53,434 - 01:55:55,054] Because the slower they go,
+- [01:55:55,174 - 01:55:57,134] the longer the time interval
+- [01:55:57,874 - 01:56:00,874] between one guy going over
+- [01:56:00,874 - 01:56:02,094] and the next guy going over.
+- [01:56:02,174 - 01:56:03,274] The longer the time interval,
+- [01:56:03,514 - 01:56:07,234] the more dilution that's taken place before the...
+- [01:56:07,834 - 01:56:08,834] So in fact,
+- [01:56:08,834 - 01:56:10,254] the slower phi dot is,
+- [01:56:10,454 - 01:56:12,314] the bigger this effect is.
+- [01:56:12,674 - 01:56:14,534] What is the net upshot?
+- [01:56:14,774 - 01:56:19,074] The net upshot is a complicated fractal distribution
+- [01:56:19,784 - 01:56:21,254] of energy density,
+- [01:56:22,354 - 01:56:23,454] delta rho,
+- [01:56:23,654 - 01:56:26,074] that's the fluctuations in the energy density,
+- [01:56:26,684 - 01:56:29,874] divided by the average background energy density,
+- [01:56:33,094 - 01:56:35,894] which is present as a consequence
+- [01:56:35,894 - 01:56:37,774] of this complicated evolution.
+- [01:56:37,774 - 01:56:39,834] But it can be followed.
+- [01:56:40,174 - 01:56:40,954] In fact,
+- [01:56:40,974 - 01:56:43,214] it really can be followed throughout its history.
+- [01:56:44,574 - 01:56:47,154] And depending on the detailed nature
+- [01:56:47,154 - 01:56:49,094] of the parameters in the potential,
+- [01:56:49,834 - 01:56:51,264] it is not hard to
+- [01:56:51,264 - 01:56:52,694] make this delta rho over rho
+- [01:56:52,694 - 01:56:53,814] to come out to be
+- [01:56:53,814 - 01:56:54,934] the 10 to the minus 5
+- [01:56:54,934 - 01:56:56,574] that's observed in the...
+- [01:56:59,154 - 01:57:00,934] in both the W map
+- [01:57:00,934 - 01:57:04,554] and what is needed for a galaxy evolution
+- [01:57:04,554 - 01:57:06,614] to form those nice...
+- [01:57:08,274 - 01:57:10,874] fractal structures that we saw in the sky last time.
+- [01:57:11,714 - 01:57:16,614] This theory has been turned into a highly quantitative...
+- [01:57:16,614 - 01:57:18,154] If you go and you look up W map,
+- [01:57:18,334 - 01:57:19,714] Google it on the Google,
+- [01:57:20,534 - 01:57:24,034] and you'll see all kinds of high...
+- [01:57:24,034 - 01:57:25,414] of detailed curves
+- [01:57:26,294 - 01:57:30,394] that have been fit by one or two parameters
+- [01:57:31,354 - 01:57:35,294] that describe an entire range of different frequencies,
+- [01:57:35,294 - 01:57:37,234] different wave numbers,
+- [01:57:37,494 - 01:57:43,934] and really do nail this theory in place very solidly.
+- [01:57:44,074 - 01:57:45,214] One last point.
+- [01:57:45,414 - 01:57:45,554] Okay,
+- [01:57:45,554 - 01:57:46,974] so what does all this have to do
+- [01:57:46,974 - 01:57:50,534] with the map that we started with,
+- [01:57:50,734 - 01:57:51,614] the W map?
+- [01:57:52,074 - 01:57:53,234] The W map,
+- [01:57:53,234 - 01:57:54,294] which looks like this,
+- [01:57:54,314 - 01:57:58,634] with a structure here and here.
+- [01:58:00,054 - 01:58:00,794] All right.
+- [01:58:01,434 - 01:58:04,114] What this process is making
+- [01:58:04,114 - 01:58:06,574] is it's making pockets,
+- [01:58:06,914 - 01:58:08,354] or what should we call them,
+- [01:58:08,354 - 01:58:09,094] blobs.
+- [01:58:09,834 - 01:58:12,414] Blobs within blobs,
+- [01:58:12,474 - 01:58:13,634] on top of blobs,
+- [01:58:13,674 - 01:58:18,054] of all possible sizes,
+- [01:58:18,054 - 01:58:18,954] shapes,
+- [01:58:19,294 - 01:58:22,234] with a particular characteristic distribution.
+- [01:58:22,574 - 01:58:23,914] It's not just totally random.
+- [01:58:24,414 - 01:58:25,554] It follows...
+- [01:58:25,554 - 01:58:28,434] The distribution does follow from the theory.
+- [01:58:29,054 - 01:58:32,694] And variations from point to point in space.
+- [01:58:32,694 - 01:58:35,414] Now we put ourselves somewheres.
+- [01:58:35,574 - 01:58:36,334] We're over here.
+- [01:58:36,914 - 01:58:38,154] And we look out.
+- [01:58:38,354 - 01:58:39,674] Remember when we look out,
+- [01:58:39,674 - 01:58:40,814] we look out in shells.
+- [01:58:41,314 - 01:58:43,934] We look out at different distances
+- [01:58:43,934 - 01:58:45,534] at different times.
+- [01:58:46,234 - 01:58:47,854] And out at some distance,
+- [01:58:48,094 - 01:58:50,034] we see the surface of the...
+- [01:58:50,554 - 01:58:53,114] the place where the universe got opaque,
+- [01:58:53,394 - 01:58:54,754] where the radiation,
+- [01:58:55,114 - 01:58:57,074] microwave radiation is coming from,
+- [01:58:57,254 - 01:58:59,274] and that's some distance out here.
+- [01:59:01,634 - 01:59:02,194] And that's some distance out here.
+- [01:59:02,194 - 01:59:03,314] That's what we're seeing
+- [01:59:03,314 - 01:59:04,874] when we look at the microwave background.
+- [01:59:05,274 - 01:59:06,914] And notice that
+- [01:59:08,954 - 01:59:11,654] the shell describing this microwave,
+- [01:59:11,854 - 01:59:13,594] the origin of this microwave background,
+- [01:59:13,874 - 01:59:16,114] is passing through a variety
+- [01:59:16,114 - 01:59:17,974] of different energy densities.
+- [01:59:18,194 - 01:59:20,454] Where the energy density is large,
+- [01:59:20,674 - 01:59:22,814] let's say there's a large energy density over here,
+- [01:59:23,154 - 01:59:25,294] then the photons on their way in
+- [01:59:25,294 - 01:59:27,094] will be somewhat redshifted,
+- [01:59:27,914 - 01:59:29,514] relative to the photons
+- [01:59:29,514 - 01:59:31,354] which are coming from a less dense place.
+- [01:59:32,214 - 01:59:33,674] The meaning of this is that
+- [01:59:33,674 - 01:59:34,694] when we look on the sky
+- [01:59:34,694 - 01:59:36,374] at the surface of the last scattering,
+- [01:59:36,614 - 01:59:38,094] and we see all the structure,
+- [01:59:38,254 - 01:59:39,294] we don't see the structure,
+- [01:59:39,534 - 01:59:43,254] what we see is the structure projected,
+- [01:59:43,474 - 01:59:44,134] not projected,
+- [01:59:44,354 - 01:59:46,274] the structure as it exists
+- [01:59:46,274 - 01:59:47,894] on the surface of the last scattering.
+- [01:59:48,774 - 01:59:51,634] That's what this complicated map is.
+- [01:59:52,234 - 01:59:53,994] It's seeing exactly that structure.
+- [01:59:54,414 - 01:59:55,574] On the other hand,
+- [01:59:55,574 - 01:59:57,614] if we come into the interior here,
+- [01:59:57,714 - 01:59:59,494] away from the surface of the last scattering,
+- [01:59:59,714 - 02:00:01,874] we are seeing the density fluctuations
+- [02:00:01,874 - 02:00:03,994] which are the seeds of structure.
+- [02:00:04,394 - 02:00:06,234] These are the things which evolve
+- [02:00:06,874 - 02:00:08,874] by a combination of the mechanism
+- [02:00:08,874 - 02:00:10,294] we talked about last time,
+- [02:00:10,434 - 02:00:10,834] what was that,
+- [02:00:10,834 - 02:00:13,234] that was caustic formation,
+- [02:00:13,634 - 02:00:15,394] also just gravitation,
+- [02:00:15,574 - 02:00:18,374] gravitation starts pulling these things together,
+- [02:00:18,634 - 02:00:20,494] galaxies form and so forth.
+- [02:00:20,854 - 02:00:22,674] So what's inside here,
+- [02:00:23,394 - 02:00:25,774] that's the evolution of that,
+- [02:00:25,814 - 02:00:27,034] is galaxy formation.
+- [02:00:27,614 - 02:00:30,234] What's on the edge of visibility
+- [02:00:31,014 - 02:00:33,234] is the source of the microwave radiation,
+- [02:00:33,614 - 02:00:35,494] and that's what we see by WMAP.
+- [02:00:37,762 - 02:00:37,862] 走
+- [02:00:38,210 - 02:00:41,130] point in time does that correspond to?
+- [02:00:41,190 - 02:00:41,410] I mean,
+- [02:00:41,410 - 02:00:42,269] in the age of the universe,
+- [02:00:42,269 - 02:00:43,110] what we see today?
+- [02:00:45,610 - 02:00:46,990] You see all sorts of things today.
+- [02:00:46,990 - 02:00:47,650] I see you.
+- [02:00:47,850 - 02:00:48,010] No,
+- [02:00:48,010 - 02:00:49,270] but I mean the microwave background.
+- [02:00:49,850 - 02:00:52,310] That originated about 13 billion years ago.
+- [02:00:52,490 - 02:00:52,890] You mean,
+- [02:00:52,890 - 02:00:54,390] when did it form relative to what?
+- [02:00:54,390 - 02:00:55,410] Relative to...
+- [02:00:55,410 - 02:00:56,570] So we don't see all
+- [02:00:56,570 - 02:00:57,730] the way back to time zero.
+- [02:00:59,070 - 02:01:00,390] Because of the whole business.
+- [02:01:00,630 - 02:01:00,830] Alright,
+- [02:01:00,830 - 02:01:01,150] okay.
+- [02:01:01,150 - 02:01:01,930] Good.
+- [02:01:03,310 - 02:01:04,670] We fall off that cliff.
+- [02:01:05,469 - 02:01:07,009] The falling off that cliff
+- [02:01:07,009 - 02:01:08,550] happened at a very early time.
+- [02:01:09,410 - 02:01:13,090] And it was the origin of matter in the universe.
+- [02:01:13,670 - 02:01:14,950] The universe expanded.
+- [02:01:15,370 - 02:01:16,590] At the same time,
+- [02:01:16,590 - 02:01:17,770] we roll down to the bottom.
+- [02:01:20,450 - 02:01:22,350] Everything that we directly measure
+- [02:01:22,350 - 02:01:24,250] takes place at the bottom.
+- [02:01:24,530 - 02:01:29,750] Including the microwave background.
+- [02:01:30,830 - 02:01:32,740] The microwave background originated
+- [02:01:32,740 - 02:01:34,650] a couple hundred years ago.
+- [02:01:34,670 - 02:01:36,320] 500,000 years after we fell off
+- [02:01:36,320 - 02:01:37,970] the top of the edge there.
+- [02:01:38,630 - 02:01:40,610] The universe cooled a lot.
+- [02:01:40,910 - 02:01:43,070] When it fell off the top of that edge there,
+- [02:01:43,210 - 02:01:45,840] the scales involved were hugely
+- [02:01:45,840 - 02:01:48,470] hot temperatures by our normal standard.
+- [02:01:48,990 - 02:01:51,000] The universe had to cool a great
+- [02:01:51,000 - 02:01:53,010] deal before it cooled down to the point
+- [02:01:53,610 - 02:01:57,230] where the recombination or the
+- [02:01:57,230 - 02:02:00,850] electrons and protons formed hydrogen atoms
+- [02:02:00,850 - 02:02:02,870] until the universe became transparent.
+- [02:02:03,550 - 02:02:04,650] That took a couple of years.
+- [02:02:04,650 - 02:02:05,430] It took a couple of hundred thousand years.
+- [02:02:07,230 - 02:02:08,950] I forget the exact numbers.
+- [02:02:08,990 - 02:02:10,270] Roughly 200,000 years.
+- [02:02:10,550 - 02:02:13,170] So it's almost all the way back to the beginning.
+- [02:02:13,870 - 02:02:15,870] 200,000 years is a very short,
+- [02:02:15,870 - 02:02:17,230] fractional time.
+- [02:02:17,510 - 02:02:18,070] Right.
+- [02:02:19,530 - 02:02:20,090] Question?
+- [02:02:20,450 - 02:02:21,010] Yeah.
+- [02:02:21,170 - 02:02:26,710] The WMAP analysis also produced an anisotropy,
+- [02:02:26,710 - 02:02:29,130] a deferred direction.
+- [02:02:29,510 - 02:02:30,670] Does that fall out of this?
+- [02:02:31,910 - 02:02:33,850] You're talking about the north-south...
+- [02:02:36,069 - 02:02:36,670] Yeah.
+- [02:02:37,170 - 02:02:40,440] I actually don't know what
+- [02:02:40,440 - 02:02:43,710] the situation is now with that.
+- [02:02:43,990 - 02:02:46,749] But nobody takes it very seriously.
+- [02:02:48,670 - 02:02:51,290] It's thought to be a statistical fluctuation.
+- [02:02:54,970 - 02:02:56,170] Long ago,
+- [02:02:56,170 - 02:02:58,210] the Deep Sky Survey,
+- [02:02:58,210 - 02:03:00,510] where he looked at the spiral galaxies,
+- [02:03:00,570 - 02:03:01,270] and they...
+- [02:03:01,270 - 02:03:02,670] 7% of them,
+- [02:03:02,670 - 02:03:04,630] which is about 1% of the total.
+- [02:03:04,630 - 02:03:06,800] So it's a very small chance that a
+- [02:03:06,800 - 02:03:08,970] million also line up with the axis of even.
+- [02:03:09,730 - 02:03:10,770] Not exactly,
+- [02:03:10,770 - 02:03:12,170] but close to it.
+- [02:03:12,330 - 02:03:14,490] So that's a separate...
+- [02:03:14,490 - 02:03:15,970] My understanding is that people
+- [02:03:15,970 - 02:03:17,450] who do the statistics of it
+- [02:03:17,450 - 02:03:20,610] don't think it's a statistically significant thing.
+- [02:03:23,009 - 02:03:24,589] I don't have a strong opinion
+- [02:03:24,589 - 02:03:26,170] about it one way or another.
+- [02:03:26,390 - 02:03:27,510] The problem is,
+- [02:03:27,510 - 02:03:28,830] with the universe,
+- [02:03:28,830 - 02:03:30,770] you can't really...
+- [02:03:30,770 - 02:03:33,350] Certain things you can do statistics with,
+- [02:03:33,350 - 02:03:34,530] and certain things you can't.
+- [02:03:34,630 - 02:03:35,990] For example,
+- [02:03:35,990 - 02:03:39,830] consider variations along here.
+- [02:03:40,530 - 02:03:43,350] There are small-scale variations.
+- [02:03:43,550 - 02:03:45,250] Let's say small-scale variations involving
+- [02:03:45,250 - 02:03:46,950] a tenth of a degree.
+- [02:03:47,650 - 02:03:49,880] There are many small-scale variations
+- [02:03:49,880 - 02:03:52,110] involving a tenth of a degree.
+- [02:03:53,750 - 02:03:55,930] You can do some statistics on them,
+- [02:03:56,520 - 02:04:01,670] and you can ask whether the small-scale variations like this
+- [02:04:01,670 - 02:04:04,350] are isotropically distributed,
+- [02:04:04,630 - 02:04:05,550] it makes sense to ask,
+- [02:04:05,550 - 02:04:06,480] and you can do it
+- [02:04:06,480 - 02:04:07,410] because you have many of them.
+- [02:04:08,350 - 02:04:09,330] On the other hand,
+- [02:04:09,330 - 02:04:12,210] if you think about a large-scale fluctuation,
+- [02:04:12,670 - 02:04:14,990] one that looks like a...
+- [02:04:16,110 - 02:04:20,910] maybe just an ellipsoidal,
+- [02:04:22,390 - 02:04:24,230] characterized by multipole moments,
+- [02:04:25,530 - 02:04:26,790] a quadrupole moment,
+- [02:04:28,470 - 02:04:29,570] there's only one of them.
+- [02:04:29,650 - 02:04:30,810] That happened only once.
+- [02:04:31,150 - 02:04:33,150] You don't get to do statistics on it.
+- [02:04:33,150 - 02:04:38,370] There's only one sample that you can draw out
+- [02:04:38,370 - 02:04:42,030] which is a fluctuation which took place on large scale.
+- [02:04:42,630 - 02:04:46,050] So this is said to be cosmic variance constrained,
+- [02:04:47,630 - 02:04:50,630] which simply means that you don't get to do statistics
+- [02:04:50,630 - 02:04:53,570] on these large-scale variations.
+- [02:04:54,650 - 02:04:55,390] Of course,
+- [02:04:55,390 - 02:04:57,590] if we could look out beyond our horizon,
+- [02:04:57,870 - 02:05:00,130] we would then be able to see many,
+- [02:05:00,130 - 02:05:01,810] many large-scale variations
+- [02:05:01,810 - 02:05:03,710] of the same size,
+- [02:05:03,710 - 02:05:06,050] pointing in different directions and so forth,
+- [02:05:06,270 - 02:05:08,430] but we don't get to look out that far.
+- [02:05:08,730 - 02:05:11,750] So all we get to see is one sample
+- [02:05:11,750 - 02:05:14,590] of what is called a quadrupole moment.
+- [02:05:15,769 - 02:05:21,330] The quadrupole moment differs from the average prediction
+- [02:05:21,330 - 02:05:24,050] by about a factor of two.
+- [02:05:25,270 - 02:05:27,080] That factor of two is
+- [02:05:27,080 - 02:05:28,890] believed to be basically the imbalance
+- [02:05:28,890 - 02:05:31,330] between the north and southern part of the sky,
+- [02:05:31,869 - 02:05:33,490] and I don't know...
+- [02:05:33,490 - 02:05:36,490] It would be wonderful if there was something real
+- [02:05:36,490 - 02:05:37,470] telling us something.
+- [02:05:38,069 - 02:05:39,030] Most likely,
+- [02:05:39,030 - 02:05:40,510] it's just...
+- [02:05:40,510 - 02:05:44,330] I think the anomaly is that the dipole,
+- [02:05:44,330 - 02:05:44,990] the quadrupole,
+- [02:05:45,150 - 02:05:46,550] and the octupole are all aligned.
+- [02:05:46,550 - 02:05:48,310] It's not in the dipole.
+- [02:05:48,310 - 02:05:49,270] There is no dipole.
+- [02:05:49,430 - 02:05:49,890] Well,
+- [02:05:49,890 - 02:05:51,070] the dipole...
+- [02:05:51,070 - 02:05:52,010] The quadrupole,
+- [02:05:52,010 - 02:05:52,950] the octupole,
+- [02:05:52,950 - 02:05:54,150] and the next one.
+- [02:05:54,770 - 02:05:56,590] They should be random,
+- [02:05:56,590 - 02:05:57,470] and they're aligned.
+- [02:05:58,150 - 02:05:58,630] Yeah,
+- [02:05:58,630 - 02:05:58,930] look,
+- [02:05:58,930 - 02:05:59,530] I don't...
+- [02:05:59,530 - 02:06:01,620] You have to find some expert
+- [02:06:01,620 - 02:06:03,710] at the statistics of these fluctuations
+- [02:06:03,710 - 02:06:05,250] and find out what they think.
+- [02:06:06,530 - 02:06:08,770] Don't go to the press for it.
+- [02:06:09,270 - 02:06:14,730] Don't go to even the Scientific American.
+- [02:06:19,430 - 02:06:21,950] You have to go to the scientific literature
+- [02:06:22,530 - 02:06:24,570] because everybody else will tend
+- [02:06:24,570 - 02:06:26,610] to sensationalize it a little bit.
+- [02:06:29,610 - 02:06:30,730] On the other hand,
+- [02:06:30,730 - 02:06:33,390] it could be something real.
+- [02:06:33,590 - 02:06:35,530] The problem is there's no way to tell.
+- [02:06:36,310 - 02:06:36,910] You know,
+- [02:06:36,910 - 02:06:40,690] if you flip a coin five times,
+- [02:06:40,930 - 02:06:43,130] let's say six times,
+- [02:06:43,210 - 02:06:45,710] and you get four heads and two tails,
+- [02:06:46,290 - 02:06:48,730] have you violated the rules of large numbers?
+- [02:06:49,490 - 02:06:49,990] Now,
+- [02:06:49,990 - 02:06:52,290] if you do that same experiment many times
+- [02:06:52,290 - 02:06:54,910] and you keep getting four heads and two tails,
+- [02:06:55,110 - 02:06:57,190] you say something's wrong with that coin.
+- [02:06:57,190 - 02:06:59,490] The coin has an imbalance.
+- [02:07:00,450 - 02:07:01,570] In the same way,
+- [02:07:01,570 - 02:07:04,370] if you look at the structure many times
+- [02:07:04,370 - 02:07:05,610] and you see the same thing,
+- [02:07:06,170 - 02:07:06,650] okay,
+- [02:07:06,650 - 02:07:07,510] then there's a problem.
+- [02:07:08,930 - 02:07:10,170] If you see it once,
+- [02:07:13,050 - 02:07:14,290] you can say,
+- [02:07:14,290 - 02:07:14,450] well,
+- [02:07:14,450 - 02:07:14,770] look,
+- [02:07:14,770 - 02:07:17,850] maybe something's wrong with the coin,
+- [02:07:18,030 - 02:07:21,050] or maybe it was just an unlucky event.
+- [02:07:21,870 - 02:07:23,580] And the point is there's no
+- [02:07:23,580 - 02:07:25,290] way to do the experiment again.
+- [02:07:26,050 - 02:07:30,210] You're stuck with the one universe that we have.
+- [02:07:31,150 - 02:07:32,810] And that's where we are.
+- [02:07:34,450 - 02:07:35,150] Okay,
+- [02:07:35,150 - 02:07:36,710] I think we're finished for the quarter.
+- [02:07:42,050 - 02:07:43,450] For more,
+- [02:07:43,450 - 02:07:45,890] please visit us at stanford.edu.
