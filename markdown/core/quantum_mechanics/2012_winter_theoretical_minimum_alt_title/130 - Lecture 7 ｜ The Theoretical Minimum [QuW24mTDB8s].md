@@ -1,0 +1,3640 @@
+# Transcript
+
+Source: core/quantum_mechanics/2012_winter_theoretical_minimum_alt_title/130 - Lecture 7 ｜ The Theoretical Minimum [QuW24mTDB8s].mkv
+
+- [00:00:04,820 - 00:00:06,160] Stanford University.
+- [00:00:07,480 - 00:00:08,300] All right,
+- [00:00:08,300 - 00:00:10,220] we started to explore entanglement.
+- [00:00:12,160 - 00:00:14,300] I had actually started to
+- [00:00:14,300 - 00:00:16,440] think about doing Bell's Theorem tonight,
+- [00:00:18,580 - 00:00:23,540] but I decided not to do it yet.
+- [00:00:24,580 - 00:00:26,320] It's a complicated story,
+- [00:00:26,320 - 00:00:27,500] the Bell's Theorem.
+- [00:00:29,320 - 00:00:30,440] It's very lovely,
+- [00:00:30,440 - 00:00:32,930] but more important than the
+- [00:00:32,930 - 00:00:35,420] theorem itself is what it says.
+- [00:00:35,800 - 00:00:38,380] And so I want to get as
+- [00:00:38,380 - 00:00:40,960] much as possible tonight to what it says,
+- [00:00:41,940 - 00:00:45,800] and what entanglement has to tell
+- [00:00:45,800 - 00:00:49,660] us about the nature of systems.
+- [00:00:50,220 - 00:00:52,540] Sometimes people say the nature of reality.
+- [00:00:53,320 - 00:00:54,800] I don't like the word reality.
+- [00:00:55,060 - 00:00:56,680] I think it's misleading.
+- [00:00:56,920 - 00:00:57,480] Okay.
+- [00:01:02,819 - 00:01:05,969] In looking on the Internet at the
+- [00:01:05,969 - 00:01:09,120] messages you guys send back and forth,
+- [00:01:09,660 - 00:01:10,760] they're very interesting,
+- [00:01:10,760 - 00:01:13,170] and many of them have
+- [00:01:13,170 - 00:01:15,580] some very interesting points in them.
+- [00:01:15,980 - 00:01:18,840] There's a terminology which I would discourage,
+- [00:01:18,860 - 00:01:20,780] at least unless you know
+- [00:01:20,780 - 00:01:22,700] what it means with greater precision,
+- [00:01:23,240 - 00:01:25,400] and I've seen this all over the place.
+- [00:01:26,080 - 00:01:27,480] People say entanglement.
+- [00:01:27,480 - 00:01:31,920] Entanglement is when two quantum systems share a state.
+- [00:01:32,480 - 00:01:34,340] I've never understood what that means,
+- [00:01:34,340 - 00:01:35,460] to share a state.
+- [00:01:38,480 - 00:01:40,660] Quantum systems have states.
+- [00:01:41,000 - 00:01:43,200] If they're composite quantum systems,
+- [00:01:43,200 - 00:01:44,300] they have states.
+- [00:01:45,180 - 00:01:48,880] You can say that a pair of quantum systems,
+- [00:01:48,880 - 00:01:50,840] when they make a given quantum system,
+- [00:01:51,460 - 00:01:52,560] share a state,
+- [00:01:52,560 - 00:01:53,000] if you like,
+- [00:01:53,000 - 00:01:55,380] but it just means the state of the composite system.
+- [00:01:56,820 - 00:01:57,460] The quantum system is a state of the composite system.
+- [00:01:57,460 - 00:02:01,280] The important idea about entanglement is not
+- [00:02:01,280 - 00:02:05,100] so much that systems share a state,
+- [00:02:05,240 - 00:02:06,480] that they always do,
+- [00:02:07,060 - 00:02:09,880] it's the important thing is that they
+- [00:02:09,880 - 00:02:12,700] are not described by a product state,
+- [00:02:12,960 - 00:02:15,640] a product state being a state in
+- [00:02:15,640 - 00:02:18,320] which the wave function of the system,
+- [00:02:18,500 - 00:02:19,560] and we'll talk about wave functions.
+- [00:02:19,620 - 00:02:21,320] Have we talked about wave functions very much?
+- [00:02:21,380 - 00:02:22,260] I don't think we have.
+- [00:02:23,240 - 00:02:26,000] Let's begin by talking about wave functions,
+- [00:02:26,000 - 00:02:27,760] and then I want to move on
+- [00:02:27,760 - 00:02:29,520] to the concept of a density matrix.
+- [00:02:30,040 - 00:02:31,520] This will make it much easier
+- [00:02:31,520 - 00:02:33,000] for us to think about entanglement.
+- [00:02:34,640 - 00:02:35,460] First of all,
+- [00:02:35,460 - 00:02:36,440] the notion of a wave function.
+- [00:02:37,760 - 00:02:40,840] A wave function may or may
+- [00:02:40,840 - 00:02:43,920] not have anything to do with waves.
+- [00:02:45,679 - 00:02:49,409] The concept grew historically out
+- [00:02:49,409 - 00:02:53,140] of the quantum mechanics of particles
+- [00:02:53,140 - 00:02:57,360] and the probability description of them in terms of waves,
+- [00:02:58,179 - 00:03:02,509] but the logical concept of a wave function is
+- [00:03:02,509 - 00:03:06,840] one that you can apply to any quantum system,
+- [00:03:07,000 - 00:03:09,320] and in general it doesn't have to
+- [00:03:09,320 - 00:03:11,640] do with wave motion of any particular kind.
+- [00:03:11,960 - 00:03:14,940] The basic idea of a wave function is the following.
+- [00:03:16,120 - 00:03:17,500] You have a quantum state.
+- [00:03:17,940 - 00:03:20,020] Let's call the quantum state...
+- [00:03:29,140 - 00:03:29,820] Ah,
+- [00:03:29,820 - 00:03:30,920] capital Psi.
+- [00:03:31,220 - 00:03:33,740] I'll use the letter capital Psi to
+- [00:03:33,740 - 00:03:36,260] denote a generic quantum state of a system.
+- [00:03:37,780 - 00:03:41,040] I think previously I've been using As and Bs,
+- [00:03:41,060 - 00:03:43,910] but I'm going to start using Psi as
+- [00:03:43,910 - 00:03:46,760] a generic quantum state for pretty much any system.
+- [00:03:47,180 - 00:03:50,080] And also I have a basis system.
+- [00:03:50,840 - 00:03:51,980] The basis system is typically a
+- [00:03:51,980 - 00:03:53,120] system of a set of two.
+- [00:03:53,140 - 00:03:55,440] It's typically labeled by a
+- [00:03:55,440 - 00:03:57,740] collection of eigenvalues of something.
+- [00:03:59,020 - 00:04:03,520] It might be labeled by one or more variables.
+- [00:04:04,780 - 00:04:09,300] If there are several commuting operators in a system,
+- [00:04:09,799 - 00:04:12,279] you can specify simultaneously the
+- [00:04:12,279 - 00:04:14,760] eigenvalues of more than one thing,
+- [00:04:14,940 - 00:04:17,800] and in many cases you'll want to do that,
+- [00:04:17,959 - 00:04:20,279] and the basis vectors in those cases
+- [00:04:20,279 - 00:04:24,340] are labeled by a collection of observables,
+- [00:04:24,340 - 00:04:26,730] or a collection of
+- [00:04:26,730 - 00:04:29,120] eigenvalues of perhaps several quantities.
+- [00:04:29,320 - 00:04:30,100] I'll give you an example.
+- [00:04:31,480 - 00:04:35,580] If you're talking about the motion of a particle,
+- [00:04:37,939 - 00:04:40,769] then the x and y and z
+- [00:04:40,769 - 00:04:43,600] coordinates of the particle are commuting variables.
+- [00:04:44,240 - 00:04:46,700] The things that don't commute are the
+- [00:04:46,700 - 00:04:49,160] components of momentum with the components of position.
+- [00:04:49,160 - 00:04:50,640] I know we haven't done this yet,
+- [00:04:50,640 - 00:04:51,140] but...
+- [00:04:52,420 - 00:04:53,600] On the other hand,
+- [00:04:53,600 - 00:04:55,600] the three components of position
+- [00:04:55,600 - 00:04:57,600] all commute with each other.
+- [00:04:57,700 - 00:04:59,840] That means they can be specified simultaneously.
+- [00:05:01,680 - 00:05:03,850] A useful basis for studying
+- [00:05:03,850 - 00:05:06,020] the quantum mechanics of a particle
+- [00:05:06,020 - 00:05:09,150] is a basis which is labeled
+- [00:05:09,150 - 00:05:12,280] by the three coordinates of the particle.
+- [00:05:12,840 - 00:05:14,100] I'll wait for...
+- [00:05:22,420 - 00:05:22,880] Yeah,
+- [00:05:22,880 - 00:05:23,500] I'll give her a hand.
+- [00:05:25,840 - 00:05:26,460] All right,
+- [00:05:26,460 - 00:05:27,160] so we have a basis,
+- [00:05:27,300 - 00:05:29,920] and the basis is labeled by a collection of eigenvalues.
+- [00:05:32,820 - 00:05:34,120] Let's label them...
+- [00:05:34,120 - 00:05:35,800] I just don't have a decent pen.
+- [00:05:36,120 - 00:05:36,660] All right,
+- [00:05:36,660 - 00:05:36,900] a,
+- [00:05:36,900 - 00:05:37,520] b,
+- [00:05:37,520 - 00:05:38,040] c,
+- [00:05:38,040 - 00:05:42,000] however many commuting variables there are
+- [00:05:42,000 - 00:05:44,320] that need to be specified
+- [00:05:44,320 - 00:05:46,640] in order to specify a system.
+- [00:05:50,620 - 00:05:53,740] And the inner product of the basis
+- [00:05:53,740 - 00:05:56,860] vector with the state of the system itself
+- [00:05:56,860 - 00:05:58,620] is called the wave function.
+- [00:05:59,020 - 00:05:59,820] In fact,
+- [00:05:59,820 - 00:06:01,160] we can write that psi,
+- [00:06:01,160 - 00:06:04,400] since these objects here form a basis,
+- [00:06:04,640 - 00:06:08,200] we can say that this is a sum.
+- [00:06:08,320 - 00:06:09,520] I still don't have a decent pen.
+- [00:06:10,640 - 00:06:11,240] Uh-oh.
+- [00:06:13,180 - 00:06:13,700] Ah,
+- [00:06:13,700 - 00:06:14,560] a little bit better.
+- [00:06:14,920 - 00:06:16,780] A sum over the basis vectors,
+- [00:06:17,020 - 00:06:19,140] which means a sum over this collection of eigenvalues.
+- [00:06:19,160 - 00:06:19,380] a,
+- [00:06:19,380 - 00:06:20,400] b,
+- [00:06:20,400 - 00:06:20,720] dot,
+- [00:06:20,720 - 00:06:20,900] dot,
+- [00:06:20,900 - 00:06:21,180] dot,
+- [00:06:22,039 - 00:06:27,300] of the inner product of the basis vectors
+- [00:06:29,120 - 00:06:30,420] with the state vector
+- [00:06:32,020 - 00:06:33,660] times the basis vectors.
+- [00:06:38,260 - 00:06:39,700] We've written this equation,
+- [00:06:39,700 - 00:06:41,060] this kind of equation down before.
+- [00:06:41,440 - 00:06:44,180] What it says is that the expansion coefficients
+- [00:06:44,180 - 00:06:47,880] that you use to expand a vector in basis vectors
+- [00:06:47,880 - 00:06:49,470] are just the inner products of
+- [00:06:49,470 - 00:06:51,060] the vector with the basis vectors.
+- [00:06:53,120 - 00:06:55,140] This object is called the wave function,
+- [00:06:55,140 - 00:06:55,800] right here.
+- [00:06:57,880 - 00:07:01,400] And it's a function of the a's,
+- [00:07:01,400 - 00:07:01,680] b's,
+- [00:07:01,680 - 00:07:02,140] and c's.
+- [00:07:04,760 - 00:07:05,900] So let's give it a name.
+- [00:07:05,980 - 00:07:09,460] Let's call it little psi of a,
+- [00:07:09,460 - 00:07:09,840] b,
+- [00:07:09,840 - 00:07:10,220] c,
+- [00:07:10,220 - 00:07:10,920] and so forth.
+- [00:07:13,440 - 00:07:14,800] It's called the wave function.
+- [00:07:15,700 - 00:07:18,260] And it's defined in such a way
+- [00:07:18,800 - 00:07:20,040] that the state vector psi
+- [00:07:20,700 - 00:07:22,940] is equal to the sum over a,
+- [00:07:23,180 - 00:07:25,710] over all the indices which
+- [00:07:25,710 - 00:07:28,240] it takes to specify the basis,
+- [00:07:29,680 - 00:07:31,300] times psi of a,
+- [00:07:31,300 - 00:07:31,640] b,
+- [00:07:31,640 - 00:07:31,980] and c,
+- [00:07:31,980 - 00:07:32,940] and so forth.
+- [00:07:33,800 - 00:07:35,080] Psi of a,
+- [00:07:35,080 - 00:07:35,240] b,
+- [00:07:35,240 - 00:07:35,660] and c.
+- [00:07:36,360 - 00:07:37,460] Of the coordinates,
+- [00:07:37,460 - 00:07:38,060] of the,
+- [00:07:38,060 - 00:07:38,400] um,
+- [00:07:39,000 - 00:07:40,020] what are the coordinates?
+- [00:07:55,620 - 00:07:56,160] What are the coordinates of the vector?
+- [00:07:56,160 - 00:07:58,140] if we're just talking about a single spin,
+- [00:07:59,960 - 00:08:02,900] then a complete set of commuting variables
+- [00:08:02,900 - 00:08:05,720] necessary to specify a vector
+- [00:08:05,720 - 00:08:06,560] is,
+- [00:08:06,560 - 00:08:07,000] for example,
+- [00:08:07,000 - 00:08:07,720] just sigma z,
+- [00:08:07,900 - 00:08:09,220] the z component of spin.
+- [00:08:10,000 - 00:08:11,900] And then psi would just be
+- [00:08:11,900 - 00:08:14,230] the probability amplitudes for the spin to
+- [00:08:14,230 - 00:08:16,560] be up or the spin to be down.
+- [00:08:16,760 - 00:08:18,280] It would be a function of one variable,
+- [00:08:18,280 - 00:08:20,740] that variable would take on the values up and down.
+- [00:08:21,320 - 00:08:22,600] If we had two spins,
+- [00:08:22,600 - 00:08:26,130] then we would label a basis of
+- [00:08:26,130 - 00:08:29,660] vectors with ups and downs for one
+- [00:08:29,660 - 00:08:29,940] spin,
+- [00:08:29,940 - 00:08:31,640] ups and downs for the other spin,
+- [00:08:31,640 - 00:08:34,280] and it would take two labels to label a state
+- [00:08:34,280 - 00:08:34,580] vector,
+- [00:08:34,580 - 00:08:35,700] not just one.
+- [00:08:35,960 - 00:08:37,150] The two labels would be
+- [00:08:37,150 - 00:08:38,340] the labels of the two spins,
+- [00:08:38,340 - 00:08:40,260] and that's all we're talking
+- [00:08:40,260 - 00:08:40,919] about here.
+- [00:08:41,179 - 00:08:45,480] Might take multiple labels to label a basis vector,
+- [00:08:45,480 - 00:08:47,580] and if so,
+- [00:08:47,580 - 00:08:48,840] just display them here,
+- [00:08:49,020 - 00:08:50,840] and then by definition,
+- [00:08:50,840 - 00:08:52,160] pure definition,
+- [00:08:52,160 - 00:08:53,680] the wave function of the system,
+- [00:08:53,680 - 00:08:54,660] you can think
+- [00:08:54,660 - 00:08:55,240] of it two ways.
+- [00:08:55,520 - 00:08:58,640] You can think of it as the set of coefficients,
+- [00:08:58,640 - 00:09:02,060] the set of coefficients that you use to expand
+- [00:09:02,060 - 00:09:05,260] an arbitrary vector in terms of the basis vectors,
+- [00:09:05,260 - 00:09:07,920] or you can think of them as the inner
+- [00:09:07,920 - 00:09:08,500] products.
+- [00:09:08,700 - 00:09:09,220] Okay?
+- [00:09:09,220 - 00:09:12,820] So you can think of the inner products
+- [00:09:12,820 - 00:09:16,420] of the state vector with the basis vectors themselves.
+- [00:09:16,720 - 00:09:18,400] That is called the wave function,
+- [00:09:18,400 - 00:09:21,600] and Schrodinger's wave function is a special case of it,
+- [00:09:21,600 - 00:09:21,800] which
+- [00:09:21,800 - 00:09:23,580] we will not get to at the moment,
+- [00:09:23,580 - 00:09:27,280] but it is a special case of it.
+- [00:09:28,820 - 00:09:29,340] Question?
+- [00:09:32,260 - 00:09:32,780] Okay,
+- [00:09:32,780 - 00:09:36,260] so if you know the wave function of the system,
+- [00:09:36,260 - 00:09:37,760] you know its state vector,
+- [00:09:37,760 - 00:09:38,380] and
+- [00:09:38,380 - 00:09:40,020] you can compute all sorts of things.
+- [00:09:40,240 - 00:09:49,840] You can compute expectation values and all sorts of things.
+- [00:09:50,580 - 00:09:51,100] Yeah?
+- [00:09:51,300 - 00:09:53,330] This looks a little like
+- [00:09:53,330 - 00:09:55,360] a Fourier transform in some basis.
+- [00:09:55,480 - 00:09:56,440] Is a Fourier transform?
+- [00:09:58,900 - 00:09:59,420] Yep.
+- [00:09:59,580 - 00:10:01,460] It is a Fourier transform for
+- [00:10:01,460 - 00:10:03,340] the case of position and momentum.
+- [00:10:03,520 - 00:10:03,960] Yes.
+- [00:10:05,600 - 00:10:06,120] Yeah.
+- [00:10:07,560 - 00:10:08,360] So if you're going to do a Fourier transform,
+- [00:10:08,360 - 00:10:08,360] you're going to have to do a Fourier transform.
+- [00:10:08,380 - 00:10:08,680] But in that case,
+- [00:10:08,680 - 00:10:09,960] you could go back and forth.
+- [00:10:10,160 - 00:10:10,420] Well,
+- [00:10:10,420 - 00:10:10,720] no.
+- [00:10:11,560 - 00:10:13,750] The Fourier transform is going back
+- [00:10:13,750 - 00:10:15,940] and forth between different basis sets.
+- [00:10:16,740 - 00:10:17,300] Okay?
+- [00:10:17,660 - 00:10:19,980] Here I've chosen a particular basis set.
+- [00:10:20,940 - 00:10:23,360] Supposing I wanted to use a different basis,
+- [00:10:23,360 - 00:10:25,300] instead of sigma z,
+- [00:10:25,300 - 00:10:26,200] sigma x.
+- [00:10:26,620 - 00:10:29,820] Then I would have to transform these wave functions somehow.
+- [00:10:30,240 - 00:10:31,920] They look different in the x basis,
+- [00:10:31,920 - 00:10:34,340] and that's the analog of Fourier transform.
+- [00:10:35,720 - 00:10:36,280] Okay.
+- [00:10:39,540 - 00:10:41,330] Now I want to introduce
+- [00:10:41,330 - 00:10:43,120] a concept called the density matrix.
+- [00:10:43,800 - 00:10:45,960] If we have just a single system,
+- [00:10:45,960 - 00:10:48,270] this is the way we think
+- [00:10:48,270 - 00:10:50,580] about the state of the system.
+- [00:10:51,180 - 00:10:51,500] Oh,
+- [00:10:51,500 - 00:10:52,980] let's talk about expectation values.
+- [00:10:53,200 - 00:10:54,500] Let's talk about expectation values.
+- [00:10:55,300 - 00:10:57,440] Supposing we have some observable.
+- [00:10:57,480 - 00:10:58,260] Let's call it L.
+- [00:10:58,260 - 00:10:58,760] Ah.
+- [00:11:00,240 - 00:11:01,280] Let's call it L.
+- [00:11:01,280 - 00:11:03,240] It's some observable.
+- [00:11:03,660 - 00:11:05,920] And it has matrix elements.
+- [00:11:05,920 - 00:11:07,440] What do matrix elements mean?
+- [00:11:08,100 - 00:11:08,760] They mean,
+- [00:11:08,760 - 00:11:11,200] if this is a basis vector,
+- [00:11:11,200 - 00:11:13,220] I won't bother writing out multiple labels.
+- [00:11:13,540 - 00:11:15,040] Let's just put one label
+- [00:11:15,040 - 00:11:16,540] there to summarize all the labels.
+- [00:11:17,040 - 00:11:19,300] And another label over here,
+- [00:11:19,300 - 00:11:19,940] a prime.
+- [00:11:23,680 - 00:11:27,300] These are called the matrix elements of the observable.
+- [00:11:27,800 - 00:11:28,400] Okay.
+- [00:11:28,520 - 00:11:30,480] The matrix elements of the observable,
+- [00:11:30,480 - 00:11:32,520] the observable acts on a basis vector,
+- [00:11:32,520 - 00:11:32,900] and then
+- [00:11:32,900 - 00:11:34,780] you project it onto another basis vector.
+- [00:11:34,780 - 00:11:36,620] And that's called L,
+- [00:11:36,620 - 00:11:37,540] I suppose,
+- [00:11:37,540 - 00:11:40,320] A prime A.
+- [00:11:40,320 - 00:11:44,620] Just notation.
+- [00:11:46,040 - 00:11:46,560] Okay.
+- [00:11:46,600 - 00:11:49,910] Now supposing I want to calculate the expectation
+- [00:11:49,910 - 00:11:53,220] value of L in a state whose wave function
+- [00:11:53,740 - 00:11:54,220] is psi.
+- [00:11:54,960 - 00:11:56,120] Let's see how we do that.
+- [00:11:56,740 - 00:11:57,800] We take psi.
+- [00:11:58,040 - 00:11:58,520] I'm going to,
+- [00:11:58,520 - 00:11:59,100] as I said,
+- [00:11:59,100 - 00:12:00,830] I'm just going to restrict
+- [00:12:00,830 - 00:12:02,560] myself to a single A here,
+- [00:12:02,560 - 00:12:03,080] but the
+- [00:12:03,080 - 00:12:04,700] same thing would hold if there were multiples.
+- [00:12:04,700 - 00:12:04,760] Okay.
+- [00:12:04,780 - 00:12:05,260] So I'm going to take the multiple As.
+- [00:12:06,360 - 00:12:06,820] All right.
+- [00:12:06,840 - 00:12:07,580] So what do we do?
+- [00:12:07,640 - 00:12:09,380] We take the state vector on the left,
+- [00:12:09,380 - 00:12:10,880] the ket vector.
+- [00:12:11,220 - 00:12:12,140] The ket vector,
+- [00:12:12,140 - 00:12:14,160] maybe we should write out the ket vector here.
+- [00:12:14,680 - 00:12:15,040] Sorry,
+- [00:12:15,040 - 00:12:15,600] the bra vector.
+- [00:12:15,860 - 00:12:16,500] The bra vector,
+- [00:12:16,500 - 00:12:17,280] this is the ket vector.
+- [00:12:17,460 - 00:12:21,760] The bra vector is the sum over A and B.
+- [00:12:21,760 - 00:12:22,680] But you know,
+- [00:12:22,680 - 00:12:23,940] I want to use different indices
+- [00:12:23,940 - 00:12:24,320] here.
+- [00:12:24,420 - 00:12:26,060] I want to call them A prime and B prime.
+- [00:12:27,060 - 00:12:28,120] They're being summed over,
+- [00:12:28,120 - 00:12:29,580] so it doesn't matter what I call them.
+- [00:12:29,700 - 00:12:31,200] I just don't want to confuse them with these.
+- [00:12:31,600 - 00:12:34,760] And then we're going to have bra vector.
+- [00:12:34,780 - 00:12:35,020] So I'm going to call them bra vectors,
+- [00:12:35,020 - 00:12:42,660] ABC or times,
+- [00:12:42,660 - 00:12:44,180] and then I put psi here,
+- [00:12:44,180 - 00:12:45,520] psi star.
+- [00:12:49,200 - 00:12:50,820] So exactly the same kind
+- [00:12:50,820 - 00:12:52,440] of expression for the bra vector,
+- [00:12:52,440 - 00:12:54,780] except complex conjugated
+- [00:12:54,780 - 00:12:55,260] coefficients.
+- [00:12:56,680 - 00:12:57,360] Good.
+- [00:12:57,440 - 00:13:02,780] Now let's calculate psi L.
+- [00:13:05,960 - 00:13:08,340] That's the expectation value or the average
+- [00:13:08,340 - 00:13:10,720] value of L in the quantum state psi.
+- [00:13:11,040 - 00:13:12,580] And we do it just by plugging in.
+- [00:13:13,540 - 00:13:15,920] The left bra vector here is
+- [00:13:15,920 - 00:13:18,300] the sum of just a single index,
+- [00:13:18,300 - 00:13:19,720] A prime,
+- [00:13:19,720 - 00:13:21,500] A prime,
+- [00:13:21,500 - 00:13:23,700] psi of A
+- [00:13:23,700 - 00:13:24,040] prime.
+- [00:13:26,580 - 00:13:28,140] That constructs the bra vector.
+- [00:13:28,500 - 00:13:29,500] The ket vector,
+- [00:13:29,500 - 00:13:31,840] I will have to write another sum,
+- [00:13:31,840 - 00:13:34,760] a sum over A of A prime.
+- [00:13:34,760 - 00:13:38,700] So I'm going to write psi of A times A.
+- [00:13:40,060 - 00:13:43,700] Summing on A turns this into the ket vector,
+- [00:13:43,700 - 00:13:44,680] capital psi.
+- [00:13:45,140 - 00:13:48,020] Summing over A prime turns this into the bra vector,
+- [00:13:48,020 - 00:13:50,860] the corresponding bra vector.
+- [00:13:51,470 - 00:13:52,320] And in between,
+- [00:13:52,320 - 00:13:53,620] we sandwich L.
+- [00:13:55,480 - 00:13:56,100] All right.
+- [00:13:56,400 - 00:13:57,020] Now,
+- [00:13:57,020 - 00:13:59,720] somebody please correct me.
+- [00:13:59,740 - 00:14:00,420] What did I write wrong?
+- [00:14:00,800 - 00:14:01,620] Psi star.
+- [00:14:01,620 - 00:14:02,420] Psi star.
+- [00:14:03,380 - 00:14:04,160] All right.
+- [00:14:07,780 - 00:14:09,260] We take the psi's and the
+- [00:14:09,260 - 00:14:10,740] psi star's out of the expression.
+- [00:14:10,900 - 00:14:11,640] They're just numbers.
+- [00:14:11,840 - 00:14:13,390] And so the whole thing is
+- [00:14:13,390 - 00:14:14,940] the sum of A prime and A.
+- [00:14:15,660 - 00:14:17,880] Psi star of A prime,
+- [00:14:17,880 - 00:14:19,720] psi of A,
+- [00:14:19,720 - 00:14:25,060] times the inner product or the sandwich,
+- [00:14:25,060 - 00:14:26,960] A prime L A.
+- [00:14:27,680 - 00:14:31,600] That's exactly the matrix element of L A.
+- [00:14:31,600 - 00:14:33,800] So that's L between A and A prime.
+- [00:14:34,460 - 00:14:35,900] So that's L,
+- [00:14:35,900 - 00:14:38,100] which one is it?
+- [00:14:38,220 - 00:14:38,800] A prime A,
+- [00:14:38,800 - 00:14:39,220] I think.
+- [00:14:41,680 - 00:14:45,480] And this reduces every expectation value to
+- [00:14:45,480 - 00:14:49,280] a calculation in terms of wave functions,
+- [00:14:49,880 - 00:14:50,720] a psi,
+- [00:14:50,720 - 00:14:53,100] always a psi and always a psi star,
+- [00:14:53,100 - 00:14:55,730] times a matrix element of
+- [00:14:55,730 - 00:14:58,360] the observable that we're interested in.
+- [00:14:59,000 - 00:14:59,720] All right.
+- [00:14:59,740 - 00:15:00,980] So this is a basic formula.
+- [00:15:02,319 - 00:15:04,519] For the expectation value of anything
+- [00:15:04,519 - 00:15:06,720] that we might be interested in.
+- [00:15:08,000 - 00:15:08,580] Okay.
+- [00:15:09,920 - 00:15:12,860] Basically all of quantum mechanics is contained in there.
+- [00:15:13,000 - 00:15:15,500] The expectation value of everything in the world,
+- [00:15:15,500 - 00:15:17,200] that's just about everything we ever
+- [00:15:17,200 - 00:15:18,900] may want to be interested in.
+- [00:15:20,260 - 00:15:22,360] And so let's put this equation
+- [00:15:22,360 - 00:15:24,460] over here and keep it over here.
+- [00:15:26,760 - 00:15:27,340] Now,
+- [00:15:27,340 - 00:15:29,900] supposing we have a composite system.
+- [00:15:32,120 - 00:15:34,220] Composed of two subsystems.
+- [00:15:34,440 - 00:15:38,720] Let's call them Alice's and Bob's subsystems.
+- [00:15:39,320 - 00:15:40,080] All right.
+- [00:15:40,120 - 00:15:42,920] Alice has control of one of them.
+- [00:15:43,000 - 00:15:44,420] Bob has control of the other.
+- [00:15:45,880 - 00:15:49,830] And maybe even there are times
+- [00:15:49,830 - 00:15:53,780] when they don't have control of them.
+- [00:15:54,040 - 00:15:56,780] But we just call them two subsystems,
+- [00:15:56,780 - 00:15:57,760] Alice's and Bob's.
+- [00:16:01,400 - 00:16:02,120] Then,
+- [00:16:02,120 - 00:16:03,240] and in fact,
+- [00:16:03,240 - 00:16:07,600] let's use A now to represent a
+- [00:16:07,600 - 00:16:11,960] complete set of observables for Alice's subsystem.
+- [00:16:13,320 - 00:16:18,560] Everything that Alice needs to know in order to specify a basis
+- [00:16:18,560 - 00:16:23,800] for her subsystem and B are the set of variables for Bob's subsystem.
+- [00:16:24,020 - 00:16:25,280] When we talk about spin,
+- [00:16:25,280 - 00:16:28,770] I think we called Alice's
+- [00:16:28,770 - 00:16:32,260] variable tau and Bob's variable sigma,
+- [00:16:32,260 - 00:16:33,320] if I remember correctly.
+- [00:16:33,600 - 00:16:34,600] But we just,
+- [00:16:34,600 - 00:16:37,080] these are a complete set of things,
+- [00:16:37,080 - 00:16:39,080] a complete set of variables for Alice.
+- [00:16:39,340 - 00:16:41,780] And this is a complete set of variables for Bob.
+- [00:16:43,080 - 00:16:46,880] Alice's states for her subsystem would look like this.
+- [00:16:47,920 - 00:16:49,280] Bob's would look like that.
+- [00:16:49,380 - 00:16:51,770] Maybe we want to use a different notation so
+- [00:16:51,770 - 00:16:54,160] we don't wind up confusing the two vector spaces.
+- [00:16:55,280 - 00:16:57,340] But then there's the composite vector space.
+- [00:16:57,640 - 00:16:59,840] The composite vector space is the
+- [00:16:59,840 - 00:17:02,040] vector space describing the composite system.
+- [00:17:02,400 - 00:17:04,970] And that has a basis which
+- [00:17:04,970 - 00:17:07,540] consists of an A and a B.
+- [00:17:08,940 - 00:17:11,200] When A runs over all its values
+- [00:17:11,200 - 00:17:13,460] and B runs over all its values,
+- [00:17:14,000 - 00:17:16,700] we have a complete basis of the combined system.
+- [00:17:18,859 - 00:17:19,500] Okay,
+- [00:17:19,500 - 00:17:21,299] so now let's talk about
+- [00:17:21,299 - 00:17:23,099] wave functions of the composite system.
+- [00:17:23,099 - 00:17:24,359] Again,
+- [00:17:24,359 - 00:17:26,920] we have a state vector.
+- [00:17:27,980 - 00:17:31,570] The state vector psi is a state vector
+- [00:17:31,570 - 00:17:35,160] in the composite in the tensor product space.
+- [00:17:35,740 - 00:17:38,080] The space made by tensoring,
+- [00:17:38,080 - 00:17:39,980] producting A's and B's together.
+- [00:17:41,020 - 00:17:44,160] It has as its basis vectors a basis
+- [00:17:44,160 - 00:17:47,300] vector from A and a basis vector from B.
+- [00:17:48,080 - 00:17:50,580] And now I want to define in the
+- [00:17:50,580 - 00:17:53,080] same way the notion of the basis vector.
+- [00:17:53,080 - 00:17:55,480] It's the function of a composite wave function.
+- [00:17:55,780 - 00:17:56,780] So what is it?
+- [00:17:56,860 - 00:17:59,210] It's just the inner product
+- [00:17:59,210 - 00:18:01,560] of psi with the basis vectors.
+- [00:18:03,240 - 00:18:04,700] And what is it a function of?
+- [00:18:04,960 - 00:18:06,700] It's now a function of two
+- [00:18:06,700 - 00:18:08,440] sets of variables or two variables,
+- [00:18:08,720 - 00:18:10,860] psi of A and B,
+- [00:18:10,860 - 00:18:11,700] different B here.
+- [00:18:12,160 - 00:18:12,720] This,
+- [00:18:12,720 - 00:18:13,640] yeah,
+- [00:18:13,640 - 00:18:13,920] okay,
+- [00:18:13,920 - 00:18:14,440] here it is.
+- [00:18:15,600 - 00:18:21,520] It's a function of the variables of the two subsystems.
+- [00:18:23,700 - 00:18:24,280] Okay,
+- [00:18:24,280 - 00:18:25,260] so that's the wave function.
+- [00:18:25,460 - 00:18:26,720] Now we have notion of a
+- [00:18:26,720 - 00:18:27,980] wave function of a composite system.
+- [00:18:28,340 - 00:18:33,600] And let's talk about observables of a composite system.
+- [00:18:34,040 - 00:18:36,380] The observables of a composite system,
+- [00:18:39,320 - 00:18:40,340] first of all,
+- [00:18:40,340 - 00:18:43,390] among those variables are the ones which
+- [00:18:43,390 - 00:18:46,440] would describe the separate subsystems by themselves.
+- [00:18:47,720 - 00:18:51,920] So let's suppose that L and M,
+- [00:18:52,920 - 00:18:54,480] are two observables,
+- [00:18:54,480 - 00:18:57,760] one of them having to do with Alice's subsystem,
+- [00:18:57,760 - 00:18:59,280] Alice,
+- [00:19:00,560 - 00:19:03,100] and the other one having to do with Bob's subsystem.
+- [00:19:03,720 - 00:19:05,120] I could call them L
+- [00:19:05,120 - 00:19:06,520] sub A and L sub B,
+- [00:19:06,520 - 00:19:07,260] but I won't.
+- [00:19:07,280 - 00:19:08,200] I'll call them L and M.
+- [00:19:10,920 - 00:19:14,220] How do we represent observables acting
+- [00:19:14,220 - 00:19:17,520] on the composite space of states?
+- [00:19:17,800 - 00:19:19,460] The answer is simple.
+- [00:19:19,920 - 00:19:21,900] The operators of states,
+- [00:19:21,920 - 00:19:23,840] associated with Alice's subsystem,
+- [00:19:23,960 - 00:19:28,700] act on Alice's piece of the state vector,
+- [00:19:28,940 - 00:19:31,860] and leave Bob's piece of the state vector unchanged.
+- [00:19:33,320 - 00:19:35,100] That's what we did when we did spins.
+- [00:19:35,620 - 00:19:38,670] We said Bob's sigma matrices acted
+- [00:19:38,670 - 00:19:41,720] on his half of the wave function,
+- [00:19:41,900 - 00:19:43,700] or his half of the basis vectors,
+- [00:19:43,900 - 00:19:45,700] and were completely passive,
+- [00:19:45,820 - 00:19:50,300] or Alice's piece of the state vector was completely passive,
+- [00:19:50,380 - 00:19:51,900] just bypassed by Alice's.
+- [00:19:51,920 - 00:19:54,640] So what that says,
+- [00:19:56,100 - 00:19:56,920] what that says,
+- [00:19:57,040 - 00:20:02,420] is that Alice's observables are matrices,
+- [00:20:03,560 - 00:20:08,680] they're matrices that can be written
+- [00:20:08,680 - 00:20:13,800] as L of A prime B prime,
+- [00:20:14,100 - 00:20:15,160] just like L here,
+- [00:20:15,920 - 00:20:18,500] has a prime variable and an unprime variable,
+- [00:20:18,760 - 00:20:21,840] but now the single index is replaced by two indices,
+- [00:20:21,920 - 00:20:23,500] an A and B.
+- [00:20:24,140 - 00:20:25,780] What does this correspond to?
+- [00:20:25,900 - 00:20:28,240] This corresponds to the sandwich,
+- [00:20:28,560 - 00:20:34,180] A prime B prime L A B,
+- [00:20:36,120 - 00:20:37,080] whatever A,
+- [00:20:37,080 - 00:20:38,480] whatever this stands for.
+- [00:20:38,680 - 00:20:43,720] But L only belongs to Alice's space of states,
+- [00:20:43,960 - 00:20:45,640] only belongs to Alice's system.
+- [00:20:45,860 - 00:20:47,100] So the question is,
+- [00:20:47,180 - 00:20:50,060] what then do we say about this matrix here,
+- [00:20:50,180 - 00:20:51,180] to set,
+- [00:20:51,180 - 00:20:51,900] to interpret,
+- [00:20:51,900 - 00:20:56,960] to indicate that it has no effect on Bob's variables?
+- [00:20:58,700 - 00:21:00,080] The answer is simple.
+- [00:21:00,240 - 00:21:01,720] We make it proportional
+- [00:21:06,299 - 00:21:11,120] to the identity matrix in Bob's variables.
+- [00:21:11,820 - 00:21:13,480] The identity operator,
+- [00:21:13,800 - 00:21:16,780] the identity operator in a space
+- [00:21:17,600 - 00:21:19,960] is the operator whose matrix elements
+- [00:21:19,960 - 00:21:21,640] are the Kronecker delta symbol.
+- [00:21:21,900 - 00:21:23,440] That's the identity operator.
+- [00:21:23,920 - 00:21:27,140] And the identity operator on a subsystem
+- [00:21:27,140 - 00:21:29,180] does nothing to that subsystem.
+- [00:21:29,440 - 00:21:32,720] The identity operator simply gives the same vector back.
+- [00:21:33,140 - 00:21:34,320] In other words,
+- [00:21:34,340 - 00:21:35,980] if you apply the identity operator,
+- [00:21:36,200 - 00:21:36,840] it does nothing.
+- [00:21:37,180 - 00:21:39,900] But now what we're doing is applying the identity operator
+- [00:21:39,900 - 00:21:41,900] on Bob's half of the system,
+- [00:21:42,100 - 00:21:45,860] but the observable that's supposed to be associated
+- [00:21:45,860 - 00:21:48,080] with Alice's half of the subsystem
+- [00:21:48,080 - 00:21:51,400] is represented by the same matrix,
+- [00:21:51,400 - 00:21:53,460] that she would have used
+- [00:21:53,460 - 00:21:55,580] had she not even known about Bob.
+- [00:21:57,000 - 00:21:59,020] Had she not even known about Bob,
+- [00:21:59,240 - 00:22:02,000] she would have used the matrix A,
+- [00:22:02,200 - 00:22:02,900] L,
+- [00:22:02,900 - 00:22:04,060] A prime and A,
+- [00:22:04,240 - 00:22:05,580] to describe her observable.
+- [00:22:06,860 - 00:22:09,000] How does she describe it in the bigger Hilbert space?
+- [00:22:09,520 - 00:22:11,900] She says it does nothing to Bob's variables,
+- [00:22:12,000 - 00:22:14,220] and so it's just the identity matrix
+- [00:22:14,220 - 00:22:16,020] in Bob's half of the space.
+- [00:22:18,480 - 00:22:20,360] That's Alice's variables.
+- [00:22:20,360 - 00:22:22,940] We could say the same thing about Bob's.
+- [00:22:23,520 - 00:22:26,260] M of A prime and
+- [00:22:26,260 - 00:22:29,000] B prime and A and B
+- [00:22:29,000 - 00:22:32,040] is just equal to the Kronecker delta
+- [00:22:32,760 - 00:22:34,400] of Alice's variables
+- [00:22:34,400 - 00:22:37,800] times the matrix that Bob would have used
+- [00:22:39,719 - 00:22:43,360] to describe the subsystem,
+- [00:22:43,480 - 00:22:45,240] had he not known anything about Alice.
+- [00:22:46,300 - 00:22:46,940] Okay.
+- [00:22:48,899 - 00:22:50,180] Let's prove
+- [00:22:51,040 - 00:22:54,520] some things about the setup here.
+- [00:22:55,000 - 00:22:56,200] First of all,
+- [00:22:56,200 - 00:22:58,340] let's calculate expectation values
+- [00:22:58,340 - 00:23:02,260] of Alice's variables in a product state.
+- [00:23:02,680 - 00:23:05,780] A product state is one in which the two systems
+- [00:23:05,780 - 00:23:07,600] are not entangled with each other.
+- [00:23:08,200 - 00:23:09,620] And let's see what we get.
+- [00:23:14,380 - 00:23:16,080] What would you expect to get
+- [00:23:16,080 - 00:23:19,300] if you had an unentangled state
+- [00:23:19,300 - 00:23:22,160] describing Alice's and Bob's subsystems,
+- [00:23:22,160 - 00:23:25,280] and you considered the expectation value
+- [00:23:25,280 - 00:23:27,340] of Alice's variable?
+- [00:23:31,320 - 00:23:33,460] You'd get exactly what you would have gotten
+- [00:23:34,360 - 00:23:36,140] had Bob not been there altogether.
+- [00:23:36,460 - 00:23:37,420] So let's check that out.
+- [00:23:37,680 - 00:23:38,440] What do I mean,
+- [00:23:38,440 - 00:23:39,220] first of all,
+- [00:23:39,220 - 00:23:40,820] by a product state?
+- [00:23:41,500 - 00:23:43,520] I explained what a product state was,
+- [00:23:43,600 - 00:23:45,640] but now let me explain what a product state is
+- [00:23:45,640 - 00:23:47,300] in the language of wave functions.
+- [00:23:47,620 - 00:23:48,740] It's very simple.
+- [00:23:49,300 - 00:23:51,580] It means that the wave function is a product
+- [00:23:52,140 - 00:23:53,320] of two wave functions,
+- [00:23:53,320 - 00:23:54,960] one for Alice and one for Bob.
+- [00:23:55,320 - 00:23:56,320] That's all it means.
+- [00:23:57,100 - 00:24:00,900] A product state is one whose wave function
+- [00:24:00,900 - 00:24:02,060] psi of a and b,
+- [00:24:02,060 - 00:24:04,880] Alice's and Bob's variables,
+- [00:24:05,140 - 00:24:06,400] is just a product.
+- [00:24:06,980 - 00:24:07,840] So let's see,
+- [00:24:07,840 - 00:24:08,960] how shall we denote that?
+- [00:24:09,300 - 00:24:10,740] Let's call it,
+- [00:24:10,740 - 00:24:12,000] um,
+- [00:24:13,000 - 00:24:13,520] well,
+- [00:24:13,520 - 00:24:15,980] let's just call it psi Alice of a
+- [00:24:17,420 - 00:24:21,560] and phi Bob of b.
+- [00:24:23,160 - 00:24:24,200] It factorizes.
+- [00:24:24,540 - 00:24:27,060] It's a product of two functions.
+- [00:24:27,700 - 00:24:29,360] It's a function of two variables,
+- [00:24:29,580 - 00:24:31,360] but it's a product of two functions,
+- [00:24:31,440 - 00:24:32,680] each of one variable.
+- [00:24:33,860 - 00:24:37,560] It's pretty clear that if it factorizes like this,
+- [00:24:37,720 - 00:24:40,380] then Alice can think of this as the wave function
+- [00:24:40,380 - 00:24:41,660] for her subsystem,
+- [00:24:41,660 - 00:24:43,300] and Bob thinks of this
+- [00:24:43,300 - 00:24:45,140] as the wave function for his subsystem.
+- [00:24:46,140 - 00:24:46,660] Okay,
+- [00:24:46,660 - 00:24:51,740] let's calculate now Alice's expectation value of L
+- [00:24:51,740 - 00:24:54,280] if this happens to be the wave function.
+- [00:24:54,560 - 00:24:55,220] So what do we do?
+- [00:24:55,600 - 00:24:56,560] We first take psi,
+- [00:24:56,560 - 00:24:57,400] we're going to make a sandwich.
+- [00:24:57,700 - 00:24:58,920] We're going to make a sandwich
+- [00:24:58,920 - 00:25:00,140] with a psi star on one side,
+- [00:25:00,240 - 00:25:01,360] a psi on the other side,
+- [00:25:01,360 - 00:25:03,280] and L in between.
+- [00:25:03,980 - 00:25:04,680] All right,
+- [00:25:04,680 - 00:25:05,440] so psi star,
+- [00:25:05,440 - 00:25:08,840] that's psi star of Alice of a,
+- [00:25:10,020 - 00:25:10,840] a prime,
+- [00:25:13,020 - 00:25:14,060] phi star,
+- [00:25:14,060 - 00:25:15,000] Bob,
+- [00:25:15,000 - 00:25:15,960] Alice,
+- [00:25:15,960 - 00:25:16,840] of b prime.
+- [00:25:17,460 - 00:25:18,280] This is,
+- [00:25:18,280 - 00:25:20,320] where do we write it?
+- [00:25:20,500 - 00:25:20,640] Here.
+- [00:25:25,080 - 00:25:27,540] That's the complex conjugate of the wave function
+- [00:25:27,540 - 00:25:29,720] as a function of a prime and b prime.
+- [00:25:30,360 - 00:25:31,160] What next?
+- [00:25:32,320 - 00:25:32,840] Next,
+- [00:25:32,840 - 00:25:40,140] we put into the sandwich L of a prime,
+- [00:25:40,140 - 00:25:40,820] b prime,
+- [00:25:40,820 - 00:25:41,540] a and b.
+- [00:25:42,080 - 00:25:42,980] It's a matrix.
+- [00:25:43,360 - 00:25:44,540] One entry here,
+- [00:25:44,540 - 00:25:45,480] one entry here.
+- [00:25:45,960 - 00:25:46,460] But it's simple.
+- [00:25:46,780 - 00:25:48,620] It's just L of a prime and a
+- [00:25:50,280 - 00:25:52,020] times delta b,
+- [00:25:52,020 - 00:25:52,560] b prime.
+- [00:25:55,140 - 00:25:56,390] And then we close it up
+- [00:25:56,390 - 00:25:57,640] with the other half of the sandwich,
+- [00:25:57,740 - 00:25:58,600] which is this up here,
+- [00:25:59,219 - 00:26:00,980] psi a of a,
+- [00:26:02,139 - 00:26:04,280] phi b of b.
+- [00:26:05,160 - 00:26:06,000] And we sum.
+- [00:26:06,340 - 00:26:07,160] As always,
+- [00:26:07,160 - 00:26:09,100] we sum over everything in sight.
+- [00:26:09,420 - 00:26:10,560] a prime a,
+- [00:26:10,560 - 00:26:11,620] b prime b.
+- [00:26:14,200 - 00:26:16,560] That's the rule for calculating an expectation value.
+- [00:26:16,920 - 00:26:17,680] So what do we get?
+- [00:26:18,780 - 00:26:19,740] First of all,
+- [00:26:19,740 - 00:26:20,720] the delta b,
+- [00:26:20,720 - 00:26:21,340] b prime,
+- [00:26:21,940 - 00:26:25,760] that tells us to set b prime equal to b.
+- [00:26:26,080 - 00:26:27,000] So let's do that.
+- [00:26:27,080 - 00:26:27,500] First off,
+- [00:26:27,500 - 00:26:28,100] let's do that.
+- [00:26:29,440 - 00:26:30,260] I'll just erase.
+- [00:26:32,100 - 00:26:33,640] Set b prime equal to b.
+- [00:26:34,140 - 00:26:36,580] I'll let you write down your notes if you want.
+- [00:26:37,220 - 00:26:38,770] Set b prime equal to
+- [00:26:38,770 - 00:26:40,320] b and remove the Kronecker delta.
+- [00:26:41,620 - 00:26:43,020] Now b is equal to b prime.
+- [00:26:43,280 - 00:26:44,060] Now notice,
+- [00:26:44,060 - 00:26:45,520] the only thing that depends on b
+- [00:26:46,180 - 00:26:48,380] is phi star b and phi b.
+- [00:26:49,880 - 00:26:50,360] What?
+- [00:26:50,780 - 00:26:52,640] The sum over b prime was done
+- [00:26:52,640 - 00:26:54,300] when I set b equal to b prime.
+- [00:26:54,660 - 00:26:56,360] And now there's a sum over b
+- [00:26:56,360 - 00:26:58,300] of phi star phi.
+- [00:26:58,560 - 00:26:59,060] What does that give?
+- [00:27:00,220 - 00:27:00,700] One.
+- [00:27:01,380 - 00:27:02,480] Under the assumption,
+- [00:27:02,480 - 00:27:02,960] of course,
+- [00:27:03,460 - 00:27:05,220] that Bob's wave function is normalized.
+- [00:27:06,200 - 00:27:08,100] Under the assumption that Bob's half
+- [00:27:08,100 - 00:27:10,000] of the wave function is normalized,
+- [00:27:10,000 - 00:27:13,220] so that his total probability for his,
+- [00:27:13,300 - 00:27:15,580] all his measurements he could do is one,
+- [00:27:16,640 - 00:27:18,940] then sum over b of phi star of
+- [00:27:18,940 - 00:27:21,240] b times phi of b is just one.
+- [00:27:21,520 - 00:27:23,160] And what does the whole thing reduce to?
+- [00:27:23,420 - 00:27:27,260] The whole thing reduces to exactly what's up there.
+- [00:27:27,560 - 00:27:29,160] We can remove the phis.
+- [00:27:30,880 - 00:27:31,720] Take them out.
+- [00:27:35,820 - 00:27:36,880] Put them down here.
+- [00:27:37,520 - 00:27:39,000] That sum is just one.
+- [00:27:40,000 - 00:27:42,920] And the rest of it is just exactly what's up
+- [00:27:42,920 - 00:27:44,180] on the top of the blackboard there.
+- [00:27:44,840 - 00:27:45,940] In other words,
+- [00:27:45,940 - 00:27:46,820] in a product state,
+- [00:27:47,140 - 00:27:50,700] the expectation value of any of Alice's operators
+- [00:27:50,700 - 00:27:56,900] are exactly the same as if Bob wasn't there.
+- [00:27:57,260 - 00:27:59,700] And it doesn't matter what Bob's wave function is
+- [00:27:59,700 - 00:28:01,540] as long as it's a product.
+- [00:28:04,520 - 00:28:08,660] What about one of Bob's expectation values?
+- [00:28:08,660 - 00:28:10,100] What would happen if we
+- [00:28:10,100 - 00:28:11,540] stuck a Bob operator in there?
+- [00:28:11,880 - 00:28:12,600] Well then,
+- [00:28:12,600 - 00:28:15,300] instead of the Kronecker delta of b's,
+- [00:28:15,840 - 00:28:16,840] let's go back.
+- [00:28:16,960 - 00:28:18,020] We have b and b prime.
+- [00:28:20,120 - 00:28:21,300] b and b prime.
+- [00:28:23,040 - 00:28:23,520] Yeah,
+- [00:28:23,520 - 00:28:24,400] b and b prime.
+- [00:28:24,940 - 00:28:26,200] b prime over here.
+- [00:28:26,600 - 00:28:28,240] And instead of l and a prime,
+- [00:28:28,340 - 00:28:31,180] we would have m of b and b prime
+- [00:28:32,399 - 00:28:34,020] delta a a prime.
+- [00:28:34,560 - 00:28:35,260] And now,
+- [00:28:35,260 - 00:28:37,220] we would set a prime equal to a.
+- [00:28:39,460 - 00:28:40,840] And we would get a sum
+- [00:28:40,840 - 00:28:42,220] that would again give us one.
+- [00:28:42,480 - 00:28:43,920] And we would get the same,
+- [00:28:44,000 - 00:28:45,190] we would get basically the same
+- [00:28:45,190 - 00:28:46,380] thing that I wrote up here.
+- [00:28:51,080 - 00:28:51,640] Bob.
+- [00:28:54,400 - 00:28:55,540] Except it would be
+- [00:28:57,060 - 00:28:59,640] Bob's wave function phi star
+- [00:29:00,980 - 00:29:04,360] Bob of b prime.
+- [00:29:04,800 - 00:29:06,860] m of b prime b.
+- [00:29:09,300 - 00:29:11,740] times phi Bob of b.
+- [00:29:12,380 - 00:29:14,960] Which is exactly what Bob would have done
+- [00:29:15,780 - 00:29:17,300] had he not known about Alice.
+- [00:29:17,740 - 00:29:18,360] So,
+- [00:29:18,360 - 00:29:22,180] product states are really just that.
+- [00:29:22,640 - 00:29:25,110] They're states in which one party
+- [00:29:25,110 - 00:29:27,580] just doesn't know about the other.
+- [00:29:27,940 - 00:29:29,240] There's no correlation.
+- [00:29:29,560 - 00:29:34,640] There's no information in one of them about the other.
+- [00:29:36,060 - 00:29:36,680] Okay.
+- [00:29:39,120 - 00:29:41,480] We can say a little bit more about correlation.
+- [00:29:42,620 - 00:29:45,940] Let's suppose now that we were interested
+- [00:29:46,660 - 00:29:49,040] in the product of an
+- [00:29:49,040 - 00:29:51,420] Alice variable and a Bob variable.
+- [00:29:51,880 - 00:29:56,120] We're interested in the expectation value of l times m.
+- [00:29:56,380 - 00:29:57,380] Let's see what we get.
+- [00:29:58,580 - 00:30:00,380] Expectation in the product state.
+- [00:30:00,660 - 00:30:02,400] Strictly product states for the moment.
+- [00:30:02,720 - 00:30:04,100] We go back up to here.
+- [00:30:05,840 - 00:30:06,700] And now,
+- [00:30:06,700 - 00:30:07,720] instead of writing
+- [00:30:09,040 - 00:30:10,080] m b
+- [00:30:10,480 - 00:30:11,560] Is this b b prime?
+- [00:30:11,560 - 00:30:12,860] This should be b b prime.
+- [00:30:13,940 - 00:30:16,280] Instead of delta of a and a prime
+- [00:30:16,280 - 00:30:19,080] if we're taking the product of l and m
+- [00:30:19,720 - 00:30:20,120] then
+- [00:30:21,380 - 00:30:22,460] what do I put here?
+- [00:30:25,380 - 00:30:25,900] l.
+- [00:30:28,400 - 00:30:30,120] If I'm interested in the
+- [00:30:30,120 - 00:30:31,840] operator which represents the product
+- [00:30:32,920 - 00:30:34,480] of two variables
+- [00:30:34,480 - 00:30:36,300] one for Alice and one for Bob
+- [00:30:36,300 - 00:30:39,860] instead of putting the unit operator over here for Alice
+- [00:30:39,860 - 00:30:41,600] I will simply put in
+- [00:30:43,040 - 00:30:43,980] Alice's operator.
+- [00:30:45,600 - 00:30:46,600] Not m,
+- [00:30:46,600 - 00:30:47,300] Alice.
+- [00:30:47,440 - 00:30:47,620] l.
+- [00:30:54,480 - 00:30:56,120] Now this just factorizes.
+- [00:30:56,440 - 00:30:58,180] Let's look at all the a-dependents.
+- [00:30:58,220 - 00:30:59,420] Here's a-dependents.
+- [00:30:59,640 - 00:31:01,120] Here's a-dependents.
+- [00:31:01,140 - 00:31:02,340] Here's a-dependents.
+- [00:31:02,900 - 00:31:04,320] That factorizes.
+- [00:31:04,320 - 00:31:06,840] That's completely separate from the b-dependents.
+- [00:31:07,040 - 00:31:09,520] I could take everything with a b-dependents
+- [00:31:09,520 - 00:31:10,540] and put it on one side.
+- [00:31:10,920 - 00:31:12,270] Everything with an a-dependents and
+- [00:31:12,270 - 00:31:13,620] put it on the other side.
+- [00:31:13,800 - 00:31:16,080] And do the a and b summations independently.
+- [00:31:19,400 - 00:31:20,480] Can you see that?
+- [00:31:20,900 - 00:31:21,420] That,
+- [00:31:21,420 - 00:31:23,380] let's write it out.
+- [00:31:26,120 - 00:31:30,060] It's sum of a prime a b prime b
+- [00:31:30,060 - 00:31:33,560] of psi Alice star
+- [00:31:34,320 - 00:31:38,020] of a prime l a a prime
+- [00:31:38,020 - 00:31:40,200] psi Alice of a
+- [00:31:41,320 - 00:31:42,620] all times
+- [00:31:43,320 - 00:31:45,160] phi Bob star
+- [00:31:46,320 - 00:31:48,020] of b prime
+- [00:31:48,020 - 00:31:51,460] m of b b prime
+- [00:31:52,030 - 00:31:52,560] and
+- [00:31:52,560 - 00:31:55,660] phi of b.
+- [00:32:01,270 - 00:32:02,720] The sums can be done
+- [00:32:02,720 - 00:32:04,160] quite independently.
+- [00:32:04,440 - 00:32:05,840] We can put the sum over here.
+- [00:32:06,000 - 00:32:06,620] Same thing.
+- [00:32:06,740 - 00:32:07,580] I haven't changed it.
+- [00:32:07,640 - 00:32:08,720] We're summing over everything.
+- [00:32:09,380 - 00:32:10,360] b's and a's.
+- [00:32:11,180 - 00:32:12,370] And we see that what
+- [00:32:12,370 - 00:32:13,560] we get is just the product.
+- [00:32:13,860 - 00:32:17,080] We get the product of the expectation value of l
+- [00:32:17,560 - 00:32:19,720] times the expectation value of m.
+- [00:32:20,760 - 00:32:21,740] Not surprising.
+- [00:32:21,880 - 00:32:23,040] If we have a product state
+- [00:32:23,820 - 00:32:25,680] and Alice does her measurement
+- [00:32:25,680 - 00:32:27,180] and Bob does his measurement
+- [00:32:27,720 - 00:32:30,320] and we then come together and compare the measurements
+- [00:32:30,320 - 00:32:32,500] and ask what was the product of the measurements,
+- [00:32:32,720 - 00:32:36,320] the expectation value will just be the product.
+- [00:32:36,540 - 00:32:39,500] The expectation value of the product operator
+- [00:32:39,500 - 00:32:42,180] will be the product of expectation values.
+- [00:32:42,380 - 00:32:43,400] And we can write this this way.
+- [00:32:43,460 - 00:32:45,880] Let's write it
+- [00:32:47,419 - 00:32:48,620] in a form
+- [00:32:52,580 - 00:32:55,820] It says for product states,
+- [00:32:56,120 - 00:32:58,240] for product,
+- [00:32:58,240 - 00:32:59,620] what's called product states,
+- [00:33:01,980 - 00:33:02,700] the expectation value of the product operator
+- [00:33:02,720 - 00:33:05,900] is the expectation value of l and times m.
+- [00:33:06,860 - 00:33:07,400] Now remember,
+- [00:33:07,400 - 00:33:08,980] l belongs to Alice,
+- [00:33:09,280 - 00:33:10,540] m belongs to Bob,
+- [00:33:10,780 - 00:33:15,540] and they operate in different halves of the system.
+- [00:33:16,440 - 00:33:18,820] The expectation value of l times m
+- [00:33:18,820 - 00:33:21,740] is just the expectation value of l
+- [00:33:22,580 - 00:33:24,680] times the expectation value of m.
+- [00:33:27,260 - 00:33:27,980] Now,
+- [00:33:27,980 - 00:33:29,960] is this something that we expect
+- [00:33:29,960 - 00:33:31,900] to always be true for every state?
+- [00:33:33,080 - 00:33:34,740] That the expectation value,
+- [00:33:35,080 - 00:33:36,000] in fact,
+- [00:33:36,000 - 00:33:38,760] even in classical probability theory,
+- [00:33:38,980 - 00:33:40,940] if we have a probability distribution
+- [00:33:40,940 - 00:33:42,140] for two variables,
+- [00:33:42,500 - 00:33:43,660] in general,
+- [00:33:43,660 - 00:33:44,960] is it true
+- [00:33:44,960 - 00:33:47,020] that the average of the product
+- [00:33:47,020 - 00:33:48,320] is the product of the average?
+- [00:33:48,760 - 00:33:50,120] Only if the variables are independent.
+- [00:33:50,780 - 00:33:53,180] Which means what in terms of the probability distribution?
+- [00:33:54,240 - 00:33:55,560] Exactly what you've written there.
+- [00:33:55,580 - 00:33:56,700] It means that it factorizes.
+- [00:33:57,360 - 00:33:59,260] It means that the probability distribution
+- [00:33:59,260 - 00:34:01,720] is a product of two probability distributions.
+- [00:34:01,720 - 00:34:02,280] Right.
+- [00:34:02,860 - 00:34:03,480] Well,
+- [00:34:03,480 - 00:34:05,380] what if it's not true?
+- [00:34:05,760 - 00:34:07,380] What if the probability distribution
+- [00:34:07,380 - 00:34:08,780] does not factorize?
+- [00:34:09,530 - 00:34:09,840] Then,
+- [00:34:09,840 - 00:34:11,440] this quantity here,
+- [00:34:11,620 - 00:34:16,100] the difference between the average of l times m
+- [00:34:16,100 - 00:34:18,639] and the product of averages of l and m
+- [00:34:18,639 - 00:34:21,360] is called the correlation between l and m.
+- [00:34:24,600 - 00:34:25,940] It's called a correlation,
+- [00:34:27,360 - 00:34:29,540] and it is a measure of how much
+- [00:34:29,540 - 00:34:30,940] these variables are correlated.
+- [00:34:30,940 - 00:34:31,440] We'll do,
+- [00:34:31,440 - 00:34:33,080] we'll see some examples.
+- [00:34:33,340 - 00:34:34,639] This is called the correlation,
+- [00:34:35,300 - 00:34:37,000] and whenever the correlation,
+- [00:34:37,639 - 00:34:40,239] whenever there is anything in the system,
+- [00:34:41,500 - 00:34:44,020] an Alice variable and a Bob variable,
+- [00:34:44,699 - 00:34:46,639] whose correlation is not zero,
+- [00:34:48,580 - 00:34:50,600] that's an indication of entanglement.
+- [00:34:52,960 - 00:34:55,420] If you can find any pair of variables,
+- [00:34:55,580 - 00:34:57,440] one of Alice's and one of Bob's,
+- [00:34:58,120 - 00:35:00,800] such that the average of the product
+- [00:35:00,940 - 00:35:02,520] is not the product of the averages,
+- [00:35:03,580 - 00:35:05,920] then you're experiencing entanglement.
+- [00:35:16,360 - 00:35:18,760] I think we did an example last time.
+- [00:35:22,480 - 00:35:24,400] We took what I call the singlet state,
+- [00:35:24,980 - 00:35:27,440] which was up,
+- [00:35:27,440 - 00:35:27,800] down,
+- [00:35:27,800 - 00:35:29,080] minus down,
+- [00:35:29,080 - 00:35:29,620] up,
+- [00:35:30,940 - 00:35:32,160] over the square root of two.
+- [00:35:37,560 - 00:35:38,380] This is psi,
+- [00:35:38,380 - 00:35:39,820] and this is not a product state.
+- [00:35:40,420 - 00:35:41,440] And in this state,
+- [00:35:41,440 - 00:35:42,960] we took the expectation value
+- [00:35:42,960 - 00:35:45,580] of Bob's variable,
+- [00:35:45,580 - 00:35:46,480] sigma z.
+- [00:35:49,080 - 00:35:53,180] We took the expectation value of Alice's variable,
+- [00:35:53,420 - 00:35:54,520] which I think was tau z.
+- [00:35:55,740 - 00:35:56,640] Do you remember what these were?
+- [00:35:57,160 - 00:35:59,720] What's the average value of Bob's variable?
+- [00:36:02,759 - 00:36:04,320] Let's say the first entrance here,
+- [00:36:04,820 - 00:36:06,820] the first entry stands for Bob.
+- [00:36:07,140 - 00:36:08,020] Here's Bob.
+- [00:36:09,120 - 00:36:09,560] Bob.
+- [00:36:09,560 - 00:36:10,360] Here's Alice.
+- [00:36:13,520 - 00:36:15,100] What would you guess in this state
+- [00:36:15,100 - 00:36:16,560] the average of sigma z is?
+- [00:36:19,780 - 00:36:20,680] Not the state,
+- [00:36:20,680 - 00:36:21,600] but the combined state.
+- [00:36:24,540 - 00:36:24,980] No.
+- [00:36:24,980 - 00:36:25,420] Zero.
+- [00:36:26,040 - 00:36:27,060] Why is it zero?
+- [00:36:27,260 - 00:36:28,650] Because it has as much probability
+- [00:36:28,650 - 00:36:30,040] of being up as being down.
+- [00:36:31,880 - 00:36:34,240] It has probability one half to be
+- [00:36:34,240 - 00:36:36,600] up and one half to be down.
+- [00:36:37,360 - 00:36:40,900] So the average of Bob's variable is zero.
+- [00:36:41,000 - 00:36:42,400] I think we worked that out last time.
+- [00:36:43,900 - 00:36:45,320] What about Alice's variable?
+- [00:36:46,940 - 00:36:49,580] It's also up as much as it's down.
+- [00:36:50,940 - 00:36:51,420] Okay?
+- [00:36:51,960 - 00:36:54,640] It's also expectation value of zero.
+- [00:36:54,860 - 00:36:55,880] What about...
+- [00:36:55,880 - 00:36:56,400] All right,
+- [00:36:56,400 - 00:36:57,700] so first step.
+- [00:36:59,040 - 00:37:00,920] Both of these are zero in this case.
+- [00:37:02,620 - 00:37:03,940] What about the product?
+- [00:37:04,300 - 00:37:07,520] What about the product of sigma z and tau z?
+- [00:37:08,580 - 00:37:10,040] What's its average value?
+- [00:37:11,640 - 00:37:12,140] Well,
+- [00:37:12,140 - 00:37:13,500] we worked it out last time.
+- [00:37:14,400 - 00:37:15,440] We got an answer.
+- [00:37:15,740 - 00:37:16,780] Anybody remember the answer?
+- [00:37:17,200 - 00:37:17,680] Minus one.
+- [00:37:17,780 - 00:37:18,360] Minus one.
+- [00:37:18,740 - 00:37:20,380] But you can just look at this thing,
+- [00:37:20,480 - 00:37:22,780] and you can say in both vectors here,
+- [00:37:22,960 - 00:37:24,200] the spins are opposite.
+- [00:37:25,000 - 00:37:26,560] So in either case here,
+- [00:37:26,620 - 00:37:28,480] the product of the spins is minus one.
+- [00:37:28,880 - 00:37:29,890] It's pretty clear that the product
+- [00:37:29,890 - 00:37:30,900] of the spins is minus one.
+- [00:37:30,900 - 00:37:32,170] And you can see that this whole
+- [00:37:32,170 - 00:37:33,440] thing is an eigenvector of the product,
+- [00:37:33,740 - 00:37:35,840] because on either vector here,
+- [00:37:35,940 - 00:37:37,380] the product is minus one.
+- [00:37:38,460 - 00:37:39,660] Act with sigma z.
+- [00:37:41,800 - 00:37:42,920] Act with sigma z,
+- [00:37:42,920 - 00:37:43,460] you'll get...
+- [00:37:43,460 - 00:37:44,880] You know what will happen.
+- [00:37:45,300 - 00:37:48,280] So it'll just change sign.
+- [00:37:48,740 - 00:37:49,500] So yes,
+- [00:37:49,500 - 00:37:51,060] this has...
+- [00:37:51,060 - 00:37:53,580] The product of the sigma z is equal to one.
+- [00:37:54,280 - 00:37:54,940] Minus one,
+- [00:37:54,940 - 00:37:55,520] excuse me.
+- [00:37:58,220 - 00:37:59,340] So they're entangled.
+- [00:38:00,900 - 00:38:01,360] In this case,
+- [00:38:01,360 - 00:38:03,740] they're what I'll call maximally entangled.
+- [00:38:03,820 - 00:38:04,660] They're very entangled.
+- [00:38:05,960 - 00:38:08,480] If you can find any pair of variables
+- [00:38:09,040 - 00:38:11,540] which are correlated in this form,
+- [00:38:11,700 - 00:38:13,480] the quantum state is entangled.
+- [00:38:14,180 - 00:38:15,100] Do you remember now,
+- [00:38:15,240 - 00:38:17,040] here it's completely obvious
+- [00:38:17,980 - 00:38:20,300] that the average of sigma z is zero
+- [00:38:20,300 - 00:38:21,580] for just the reasons that I said.
+- [00:38:22,900 - 00:38:24,420] Sigma z and tau z.
+- [00:38:24,880 - 00:38:27,200] Up appears as much as down for Bob,
+- [00:38:27,300 - 00:38:29,840] and down appears as much as up for Alice.
+- [00:38:30,060 - 00:38:30,880] And so it's very obvious.
+- [00:38:30,900 - 00:38:32,080] So it's clear the average is zero.
+- [00:38:32,360 - 00:38:34,200] What about the average of sigma x?
+- [00:38:34,420 - 00:38:34,800] Do you remember?
+- [00:38:41,400 - 00:38:42,080] It's zero.
+- [00:38:42,580 - 00:38:43,680] But that's not obvious,
+- [00:38:43,680 - 00:38:44,040] is it?
+- [00:38:45,500 - 00:38:46,400] That's not obvious.
+- [00:38:48,200 - 00:38:49,940] But we did it last time.
+- [00:38:50,120 - 00:38:51,160] Go back to your notes,
+- [00:38:51,810 - 00:38:53,480] and you'll discover that not only
+- [00:38:53,480 - 00:38:56,560] is the expectation value of sigma z zero,
+- [00:38:58,220 - 00:39:00,240] but sigma x is also equal to zero.
+- [00:39:00,900 - 00:39:01,420] The average.
+- [00:39:02,200 - 00:39:03,280] On the other hand,
+- [00:39:03,280 - 00:39:05,100] you'll also find that the product
+- [00:39:05,720 - 00:39:08,840] of Bob's sigma x and Alice's tau x
+- [00:39:08,840 - 00:39:10,660] is again equal to minus one.
+- [00:39:13,720 - 00:39:14,240] So,
+- [00:39:14,240 - 00:39:16,860] the sigma z's and the tau z's are correlated.
+- [00:39:17,220 - 00:39:19,860] The sigma x's and the tau x's are correlated.
+- [00:39:20,120 - 00:39:20,740] And what about y?
+- [00:39:21,000 - 00:39:21,640] Same thing.
+- [00:39:22,780 - 00:39:23,940] Same exact thing.
+- [00:39:24,180 - 00:39:25,160] You can work that out.
+- [00:39:25,260 - 00:39:26,680] We know what these operators do.
+- [00:39:27,040 - 00:39:28,740] You can apply them to the states
+- [00:39:28,740 - 00:39:30,860] and calculate what their expectation values are.
+- [00:39:30,860 - 00:39:31,240] So,
+- [00:39:31,240 - 00:39:34,360] this state is a highly entangled
+- [00:39:34,360 - 00:39:35,780] or a highly correlated state.
+- [00:39:36,060 - 00:39:38,000] Being correlated and being entangled
+- [00:39:38,000 - 00:39:39,160] are basically the same idea.
+- [00:39:40,240 - 00:39:40,720] Question?
+- [00:39:41,060 - 00:39:41,480] Yeah.
+- [00:39:41,600 - 00:39:43,160] In the general case,
+- [00:39:43,320 - 00:39:45,020] if you put the l's and the m's around,
+- [00:39:45,960 - 00:39:47,500] say you put two of each other,
+- [00:39:47,620 - 00:39:48,380] the new order is,
+- [00:39:48,380 - 00:39:50,300] you know,
+- [00:39:51,140 - 00:39:53,020] put the l's and the m's,
+- [00:39:53,060 - 00:39:55,640] lm minus bracket L,
+- [00:39:55,700 - 00:39:59,000] bracket equals ml minus,
+- [00:39:59,100 - 00:40:00,840] is that the right way?
+- [00:40:01,340 - 00:40:01,780] No.
+- [00:40:01,780 - 00:40:01,880] You know what I'm saying?
+- [00:40:02,180 - 00:40:02,620] No.
+- [00:40:02,800 - 00:40:04,880] They just put the l's and the m's.
+- [00:40:04,940 - 00:40:05,060] Oh,
+- [00:40:05,060 - 00:40:05,180] yeah.
+- [00:40:05,740 - 00:40:06,360] That's equal,
+- [00:40:06,360 - 00:40:06,640] right?
+- [00:40:06,760 - 00:40:07,020] Yeah,
+- [00:40:07,020 - 00:40:07,200] sure.
+- [00:40:07,300 - 00:40:07,820] Mm-hmm.
+- [00:40:08,700 - 00:40:09,340] All right.
+- [00:40:10,980 - 00:40:11,920] There's a point there,
+- [00:40:12,000 - 00:40:13,440] which I may not have mentioned.
+- [00:40:14,500 - 00:40:17,260] All operators associated with one system
+- [00:40:17,839 - 00:40:21,060] commute with all operators associated with the other system,
+- [00:40:21,160 - 00:40:23,620] so it doesn't matter in which order you write them.
+- [00:40:24,780 - 00:40:27,200] That's independent of whether the system is entangled.
+- [00:40:27,500 - 00:40:29,840] It doesn't matter which order you write them.
+- [00:40:30,060 - 00:40:30,660] Excuse me.
+- [00:40:30,860 - 00:40:31,080] Yeah.
+- [00:40:32,220 - 00:40:33,540] I guess I'm missing something.
+- [00:40:34,520 - 00:40:35,840] When you wrote that down,
+- [00:40:35,900 - 00:40:37,680] you showed us that if you have a product state
+- [00:40:37,680 - 00:40:41,080] where l is a state in Alice's and M's...
+- [00:40:41,080 - 00:40:41,160] Yeah.
+- [00:40:41,220 - 00:40:42,440] Then this is equal to zero.
+- [00:40:42,620 - 00:40:43,340] Then that's equal to zero.
+- [00:40:43,540 - 00:40:43,760] Mm-hmm.
+- [00:40:44,300 - 00:40:44,700] Yeah.
+- [00:40:44,760 - 00:40:45,980] What does lm mean?
+- [00:40:46,120 - 00:40:46,620] I mean,
+- [00:40:46,620 - 00:40:47,440] you've got it written up there.
+- [00:40:47,520 - 00:40:48,960] Isn't that a product state?
+- [00:40:49,400 - 00:40:49,800] This?
+- [00:40:50,080 - 00:40:50,480] No.
+- [00:40:51,279 - 00:40:52,320] The state is...
+- [00:40:52,320 - 00:40:52,960] These are the states.
+- [00:40:53,040 - 00:40:54,160] These are the observables.
+- [00:40:54,440 - 00:40:54,840] Right.
+- [00:40:55,060 - 00:40:55,360] Right.
+- [00:40:55,580 - 00:40:58,020] Doesn't that lm be a product state?
+- [00:40:58,100 - 00:40:58,360] No.
+- [00:40:58,860 - 00:41:00,140] L's and m's are not states.
+- [00:41:04,340 - 00:41:04,940] Yeah.
+- [00:41:05,340 - 00:41:06,800] There are si's in here.
+- [00:41:08,280 - 00:41:08,880] Okay.
+- [00:41:09,480 - 00:41:12,380] This is a statement about the state vectors.
+- [00:41:14,960 - 00:41:15,560] Oh.
+- [00:41:15,680 - 00:41:15,980] Okay.
+- [00:41:19,820 - 00:41:20,420] Right.
+- [00:41:22,840 - 00:41:23,440] Okay.
+- [00:41:23,860 - 00:41:26,860] One other point is worth just noticing.
+- [00:41:27,060 - 00:41:28,700] When I say things are correlated,
+- [00:41:28,840 - 00:41:30,120] that the spins are correlated,
+- [00:41:30,120 - 00:41:30,460] correlated,
+- [00:41:30,460 - 00:41:31,260] I mean it.
+- [00:41:31,260 - 00:41:33,140] What I mean is that you
+- [00:41:33,140 - 00:41:35,020] can learn something about one variable
+- [00:41:35,560 - 00:41:36,720] by looking at the other.
+- [00:41:36,720 - 00:41:38,900] If you know that this is the state,
+- [00:41:38,900 - 00:41:39,940] if you happen to know that
+- [00:41:39,940 - 00:41:40,620] this is the state,
+- [00:41:40,620 - 00:41:43,580] then if you know Bob's,
+- [00:41:43,580 - 00:41:45,340] if you measure Bob's variable,
+- [00:41:45,340 - 00:41:47,080] and you find
+- [00:41:47,080 - 00:41:47,860] out that it's up,
+- [00:41:47,860 - 00:41:51,320] then in that component of the state,
+- [00:41:51,320 - 00:41:52,600] which is the only one that's left
+- [00:41:52,600 - 00:41:53,580] after you measure Bob,
+- [00:41:53,580 - 00:41:55,460] Alice is down.
+- [00:41:55,460 - 00:41:57,480] In a product state,
+- [00:41:57,480 - 00:41:59,080] you learn nothing about one
+- [00:41:59,080 - 00:42:01,520] system by measuring anything about the other.
+- [00:42:01,520 - 00:42:03,700] In a highly entangled state,
+- [00:42:03,700 - 00:42:04,560] you learn a great
+- [00:42:04,560 - 00:42:08,380] deal about one system by measuring the other one.
+- [00:42:08,380 - 00:42:09,800] Okay,
+- [00:42:09,800 - 00:42:11,000] that's what entanglement means.
+- [00:42:11,540 - 00:42:12,640] On the other hand,
+- [00:42:12,640 - 00:42:13,580] it may also follow,
+- [00:42:13,580 - 00:42:14,580] and it may also be true,
+- [00:42:14,580 - 00:42:16,560] that in a highly entangled
+- [00:42:16,560 - 00:42:17,780] state beforehand,
+- [00:42:17,780 - 00:42:19,420] if you happen to know the state,
+- [00:42:19,420 - 00:42:23,160] you may know very little about each
+- [00:42:23,160 - 00:42:24,240] individual piece.
+- [00:42:24,240 - 00:42:26,680] For example,
+- [00:42:26,680 - 00:42:28,280] in the singlet state here,
+- [00:42:29,620 - 00:42:30,640] there is,
+- [00:42:30,640 - 00:42:35,300] what is the probability that Bob's variable is up?
+- [00:42:35,300 - 00:42:36,460] One half.
+- [00:42:36,460 - 00:42:37,820] What is the probability
+- [00:42:37,820 - 00:42:40,080] that Bob's variable is down?
+- [00:42:40,080 - 00:42:41,120] One half.
+- [00:42:41,120 - 00:42:43,020] So in this state,
+- [00:42:43,020 - 00:42:47,040] knowing everything about this
+- [00:42:47,040 - 00:42:47,340] state,
+- [00:42:47,340 - 00:42:49,580] you still know nothing about
+- [00:42:49,580 - 00:42:51,820] whether Bob measures up or down,
+- [00:42:51,820 - 00:42:52,780] if he does a measurement.
+- [00:42:54,680 - 00:42:55,320] Curious.
+- [00:42:55,320 - 00:42:57,030] You know nothing at all about
+- [00:42:57,030 - 00:42:58,740] whether Bob measures up or down.
+- [00:42:59,080 - 00:43:00,590] You know nothing at all about
+- [00:43:00,590 - 00:43:02,100] whether Alice measures up or down,
+- [00:43:02,100 - 00:43:03,460] but you know everything
+- [00:43:03,879 - 00:43:05,240] about the product of them.
+- [00:43:05,240 - 00:43:08,580] That if Bob does his measurement,
+- [00:43:08,580 - 00:43:09,820] Alice does her measurement,
+- [00:43:10,040 - 00:43:11,540] and you compare them afterwards,
+- [00:43:11,540 - 00:43:13,560] every single time,
+- [00:43:13,560 - 00:43:15,720] if this is the state that you put the
+- [00:43:15,720 - 00:43:16,280] system into,
+- [00:43:16,280 - 00:43:18,120] the product will be minus.
+- [00:43:18,120 - 00:43:23,120] So this is an example of this odd thing in
+- [00:43:23,120 - 00:43:24,910] quantum mechanics that you can
+- [00:43:24,910 - 00:43:26,700] know everything about a composite system,
+- [00:43:26,700 - 00:43:28,720] and know nothing
+- [00:43:29,080 - 00:43:29,480] about the pieces.
+- [00:43:29,480 - 00:43:32,700] That's what this is telling you.
+- [00:43:32,700 - 00:43:34,640] You know everything,
+- [00:43:34,640 - 00:43:35,700] or when I say you
+- [00:43:35,700 - 00:43:36,200] know everything,
+- [00:43:36,200 - 00:43:38,200] I mean you know as much
+- [00:43:38,200 - 00:43:40,200] as quantum mechanics allows you to know.
+- [00:43:40,200 - 00:43:41,040] This
+- [00:43:41,040 - 00:43:42,020] is the state of the system.
+- [00:43:42,020 - 00:43:43,860] You're not going to do any better than that.
+- [00:43:43,860 - 00:43:44,640] That's all there
+- [00:43:44,640 - 00:43:45,700] is to know about it.
+- [00:43:45,700 - 00:43:51,100] What you know about it is that sigma times tau,
+- [00:43:51,100 - 00:43:52,300] whether it be sigma
+- [00:43:52,300 - 00:43:53,460] x or tau x,
+- [00:43:53,460 - 00:43:55,460] this is true for the x,
+- [00:43:55,460 - 00:43:55,800] y,
+- [00:43:55,800 - 00:43:57,060] or z components separately,
+- [00:43:57,060 - 00:43:58,560] that the product
+- [00:43:58,560 - 00:43:59,060] of Alice measures up or down,
+- [00:43:59,060 - 00:43:59,060] is minus.
+- [00:43:59,060 - 00:43:59,060] So you know everything about the product of Alice,
+- [00:43:59,080 - 00:43:59,760] Alice's variable,
+- [00:43:59,760 - 00:44:01,900] and Bob's variable is minus one.
+- [00:44:01,900 - 00:44:03,220] That's a lot to know,
+- [00:44:03,220 - 00:44:04,460] but it's not as
+- [00:44:04,460 - 00:44:05,800] much as you would know classically.
+- [00:44:05,800 - 00:44:06,980] Classically,
+- [00:44:06,980 - 00:44:08,400] if you knew everything about a system,
+- [00:44:08,400 - 00:44:08,640] you
+- [00:44:08,640 - 00:44:10,200] would know everything about the constituents,
+- [00:44:10,200 - 00:44:14,260] as well as things that you could measure about
+- [00:44:14,260 - 00:44:14,520] them,
+- [00:44:14,520 - 00:44:15,680] that you could combine together.
+- [00:44:15,680 - 00:44:17,200] In quantum mechanics,
+- [00:44:17,200 - 00:44:17,900] you can't know,
+- [00:44:17,900 - 00:44:18,540] either
+- [00:44:18,540 - 00:44:20,480] you can say you can't know everything,
+- [00:44:20,480 - 00:44:24,040] or to the extent that everything is everything
+- [00:44:24,040 - 00:44:24,920] you can know,
+- [00:44:24,920 - 00:44:26,700] in this case,
+- [00:44:26,700 - 00:44:29,040] you know everything about the combined system.
+- [00:44:29,040 - 00:44:31,000] And you know nothing about its constituents.
+- [00:44:31,000 - 00:44:34,980] That's the really odd thing about entanglement.
+- [00:44:36,220 - 00:44:41,580] That's the extremely odd property of quantum mechanics,
+- [00:44:41,580 - 00:44:46,060] that it allows such nonsense.
+- [00:44:56,480 - 00:44:59,020] Wouldn't that just mean you can't solve the problem?
+- [00:44:59,020 - 00:44:59,640] Separate,
+- [00:44:59,640 - 00:45:02,680] decompose the system without destroying information?
+- [00:45:03,100 - 00:45:03,300] Yeah.
+- [00:45:03,300 - 00:45:04,580] Yeah.
+- [00:45:04,580 - 00:45:05,780] Yeah,
+- [00:45:05,780 - 00:45:06,940] it does mean that.
+- [00:45:09,900 - 00:45:11,920] When you write lm,
+- [00:45:11,920 - 00:45:14,280] I'm a little confused.
+- [00:45:14,280 - 00:45:21,340] Is that measure m and then measure l?
+- [00:45:21,560 - 00:45:21,720] No,
+- [00:45:21,720 - 00:45:21,860] no,
+- [00:45:21,860 - 00:45:21,940] no,
+- [00:45:21,940 - 00:45:22,080] no.
+- [00:45:22,420 - 00:45:23,980] It's the product of lm.
+- [00:45:24,200 - 00:45:24,840] All right,
+- [00:45:24,840 - 00:45:26,140] let's be very clear.
+- [00:45:26,140 - 00:45:27,400] Let's be very clear.
+- [00:45:27,400 - 00:45:28,440] The operation
+- [00:45:29,320 - 00:45:29,880] The operation,
+- [00:45:29,880 - 00:45:32,710] the mathematical operation of multiplying
+- [00:45:32,710 - 00:45:35,540] a state vector by an operator
+- [00:45:35,540 - 00:45:37,900] is not got anything to do with
+- [00:45:37,900 - 00:45:40,260] the actual physical act of measuring it.
+- [00:45:40,320 - 00:45:40,640] I know,
+- [00:45:40,640 - 00:45:42,120] but the syntax looks the same.
+- [00:45:45,250 - 00:45:45,520] على
+- [00:45:45,520 - 00:45:45,790] إذن
+- [00:45:47,769 - 00:45:48,410] I'm not sure,
+- [00:45:48,410 - 00:45:49,950] the syntax is not the same
+- [00:45:50,709 - 00:45:52,110] I'm not sure what syntax means,
+- [00:45:52,110 - 00:45:53,250] I assume it means the words
+- [00:45:53,250 - 00:45:54,230] It just means,
+- [00:45:54,230 - 00:45:56,110] how do I interpret L,
+- [00:45:56,110 - 00:45:57,530] M on the board,
+- [00:45:57,530 - 00:45:57,950] that's all
+- [00:46:00,829 - 00:46:02,310] The product of the operators
+- [00:46:03,190 - 00:46:03,590] Yes,
+- [00:46:03,590 - 00:46:03,790] yes,
+- [00:46:03,790 - 00:46:05,450] it means you act first with M and then L
+- [00:46:05,450 - 00:46:06,010] Okay,
+- [00:46:06,010 - 00:46:06,670] that's it
+- [00:46:06,670 - 00:46:06,830] Yeah
+- [00:46:07,629 - 00:46:08,030] Yeah
+- [00:46:08,030 - 00:46:10,730] But it doesn't mean that you've measured them,
+- [00:46:10,730 - 00:46:13,110] it means this is just a mathematical thing
+- [00:46:13,690 - 00:46:14,090] Right
+- [00:46:17,749 - 00:46:20,750] The same is true in classical mechanics
+- [00:46:21,110 - 00:46:23,410] I can multiply the momentum of
+- [00:46:23,410 - 00:46:25,710] something by the position of something else
+- [00:46:25,710 - 00:46:27,970] That doesn't mean I measured them just
+- [00:46:27,970 - 00:46:30,230] because I multiplied the two things together
+- [00:46:31,130 - 00:46:32,530] Physical act of measurement,
+- [00:46:32,530 - 00:46:36,850] it's not the operators which act on the states
+- [00:46:37,570 - 00:46:41,130] It's the detectors or apparatuses which act on the system
+- [00:46:42,349 - 00:46:42,950] So,
+- [00:46:42,950 - 00:46:44,050] in words,
+- [00:46:44,050 - 00:46:45,690] when you do a measurement
+- [00:46:45,690 - 00:46:47,310] A detector or a...
+- [00:46:47,330 - 00:46:49,170] Or an apparatus acts on
+- [00:46:49,170 - 00:46:51,010] the system and gives a result
+- [00:46:52,370 - 00:46:53,250] The...
+- [00:46:53,250 - 00:46:55,770] In the space of states,
+- [00:46:55,770 - 00:47:00,290] a operator acts on a vector
+- [00:47:01,290 - 00:47:04,510] Not a detector acting on a system
+- [00:47:05,190 - 00:47:06,570] Quite different concepts
+- [00:47:08,950 - 00:47:09,390] Yeah
+- [00:47:10,230 - 00:47:13,830] Before we make a measurement on an electron
+- [00:47:13,830 - 00:47:14,490] Mm-hmm
+- [00:47:15,330 - 00:47:17,310] Unless we already have a vector,
+- [00:47:17,310 - 00:47:17,310] we can't measure it,
+- [00:47:17,310 - 00:47:17,310] right?
+- [00:47:17,310 - 00:47:17,410] No,
+- [00:47:17,410 - 00:47:17,590] we can't measure it
+- [00:47:17,590 - 00:47:18,370] But we know how it's been prepared,
+- [00:47:18,370 - 00:47:21,130] which is a special case where,
+- [00:47:21,130 - 00:47:21,750] in that case,
+- [00:47:21,750 - 00:47:24,310] we can describe the state as
+- [00:47:24,310 - 00:47:26,870] a linear combination of basic vectors
+- [00:47:26,870 - 00:47:27,170] Yeah
+- [00:47:27,170 - 00:47:29,530] But before we make a measurement,
+- [00:47:29,530 - 00:47:31,430] we might know nothing about it
+- [00:47:31,430 - 00:47:33,250] We might know a little bit about it,
+- [00:47:33,250 - 00:47:34,430] but no matter how much we know,
+- [00:47:34,430 - 00:47:37,550] it'll have to be expressed in terms of probabilities
+- [00:47:37,550 - 00:47:38,330] Mm-hmm
+- [00:47:38,330 - 00:47:39,970] Not in terms of the vectors
+- [00:47:40,450 - 00:47:40,890] Yes
+- [00:47:41,490 - 00:47:41,930] So,
+- [00:47:41,930 - 00:47:44,450] in the case where there's
+- [00:47:44,450 - 00:47:46,970] a correlation between two electrons,
+- [00:47:46,970 - 00:47:47,290] it's a linear combination of vectors,
+- [00:47:47,290 - 00:47:47,290] right?
+- [00:47:47,290 - 00:47:49,890] And let's say it's not a pure correlation,
+- [00:47:49,890 - 00:47:51,730] it's a partial...
+- [00:47:51,730 - 00:47:52,330] It's not a product
+- [00:47:52,850 - 00:47:53,850] It's not a product,
+- [00:47:53,850 - 00:47:55,869] and it's not a purely entangled state,
+- [00:47:55,869 - 00:47:56,770] it's somewhere between...
+- [00:47:56,770 - 00:47:57,210] It's not a what?
+- [00:47:57,490 - 00:47:57,930] A...
+- [00:47:57,930 - 00:47:58,450] A...
+- [00:47:58,450 - 00:47:58,850] A...
+- [00:47:58,850 - 00:47:59,010] A...
+- [00:47:59,010 - 00:47:59,210] A...
+- [00:47:59,210 - 00:47:59,310] A...
+- [00:47:59,310 - 00:47:59,330] A...
+- [00:47:59,330 - 00:47:59,410] A...
+- [00:47:59,410 - 00:47:59,470] A...
+- [00:47:59,470 - 00:47:59,490] A...
+- [00:47:59,490 - 00:47:59,550] A...
+- [00:47:59,550 - 00:47:59,670] A...
+- [00:47:59,670 - 00:47:59,730] A...
+- [00:48:01,270 - 00:48:01,710] A...
+- [00:48:01,710 - 00:48:01,710] Yeah,
+- [00:48:01,710 - 00:48:02,330] a linear state of...
+- [00:48:02,330 - 00:48:02,830] Exactly.
+- [00:48:03,170 - 00:48:04,050] So if,
+- [00:48:04,050 - 00:48:04,670] then,
+- [00:48:04,670 - 00:48:06,610] after we made the sigma measurement,
+- [00:48:06,610 - 00:48:11,430] and we want to describe the tau electron,
+- [00:48:11,430 - 00:48:13,440] we would still have to
+- [00:48:13,440 - 00:48:15,450] describe tau in terms of probabilities
+- [00:48:15,450 - 00:48:19,750] We wouldn't be able to specify it in terms of...
+- [00:48:21,770 - 00:48:22,330] Okay.
+- [00:48:22,850 - 00:48:25,110] I'm not exactly sure what you're getting at,
+- [00:48:25,110 - 00:48:27,390] but maybe this will help.
+- [00:48:29,870 - 00:48:31,690] If we have the quantity,
+- [00:48:31,690 - 00:48:31,690] and you have the numbers,
+- [00:48:31,690 - 00:48:31,690] you're going to get a single unit,
+- [00:48:31,690 - 00:48:32,930] state of a single spin.
+- [00:48:32,930 - 00:48:35,850] Let's suppose somebody told us what the quantum
+- [00:48:36,170 - 00:48:37,170] state of a spin was.
+- [00:48:37,170 - 00:48:43,110] Then for any quantum state there is always an
+- [00:48:43,110 - 00:48:44,010] observable,
+- [00:48:44,010 - 00:48:46,150] in particular some component of Sigma,
+- [00:48:46,150 - 00:48:47,950] which is definite,
+- [00:48:47,950 - 00:48:48,790] which is
+- [00:48:48,790 - 00:48:49,270] predictable.
+- [00:48:49,270 - 00:48:52,360] Every part of it that's obvious
+- [00:48:52,360 - 00:48:55,450] for the states up and down,
+- [00:48:55,450 - 00:48:56,110] it's
+- [00:48:56,110 - 00:48:57,810] obvious for the states left and right.
+- [00:48:57,810 - 00:48:59,590] For the state up,
+- [00:48:59,590 - 00:49:01,150] if you measure Sigma Z
+- [00:49:01,150 - 00:49:01,670] it's definite.
+- [00:49:01,670 - 00:49:02,870] If you measure,
+- [00:49:02,870 - 00:49:04,610] if you know that the
+- [00:49:04,610 - 00:49:06,350] state is right and you measure
+- [00:49:06,350 - 00:49:06,910] Sigma X,
+- [00:49:06,910 - 00:49:07,830] it's definite.
+- [00:49:07,830 - 00:49:09,970] This is more general.
+- [00:49:09,970 - 00:49:12,170] Given any quantum state whatever
+- [00:49:12,170 - 00:49:13,310] of a spin,
+- [00:49:13,310 - 00:49:15,550] there exists a direction,
+- [00:49:15,550 - 00:49:16,410] this you can prove,
+- [00:49:16,410 - 00:49:17,790] that there exists a
+- [00:49:17,790 - 00:49:20,190] direction for which the spin is definite.
+- [00:49:20,190 - 00:49:21,390] Okay?
+- [00:49:21,390 - 00:49:23,110] Curiously,
+- [00:49:23,110 - 00:49:24,810] when you combine the
+- [00:49:24,810 - 00:49:27,410] system together into an entangled state like this,
+- [00:49:27,410 - 00:49:30,910] there is no direction in which
+- [00:49:30,910 - 00:49:31,130] the spin is definite.
+- [00:49:31,150 - 00:49:33,090] In fact,
+- [00:49:33,090 - 00:49:35,050] there is no direction Sigma
+- [00:49:35,050 - 00:49:37,010] X for one of the spins.
+- [00:49:37,010 - 00:49:39,110] Each one of the spins,
+- [00:49:39,230 - 00:49:40,990] either Alice's or Bob's,
+- [00:49:40,990 - 00:49:44,930] has average value zero in every direction.
+- [00:49:44,930 - 00:49:46,870] No matter
+- [00:49:46,870 - 00:49:47,930] what direction you pick,
+- [00:49:47,930 - 00:49:48,190] X,
+- [00:49:48,190 - 00:49:48,510] Y,
+- [00:49:48,510 - 00:49:48,750] Z,
+- [00:49:48,750 - 00:49:49,730] or anything in between,
+- [00:49:49,730 - 00:49:51,550] the average of the
+- [00:49:51,550 - 00:49:51,870] spin,
+- [00:49:51,870 - 00:49:52,650] of Bob's spin,
+- [00:49:52,650 - 00:49:53,910] in this state is zero.
+- [00:49:53,910 - 00:49:55,590] So,
+- [00:49:55,590 - 00:49:57,470] and here's a quantum state in which
+- [00:49:57,470 - 00:49:58,710] Bob can say nothing,
+- [00:49:58,710 - 00:50:00,410] whether he can know the quantum state fully,
+- [00:50:00,410 - 00:50:01,970] and as I said,
+- [00:50:01,970 - 00:50:04,950] has equal probability for up and down in every direction.
+- [00:50:04,950 - 00:50:08,390] I'm not sure
+- [00:50:08,390 - 00:50:09,790] if that's what you're addressing or not.
+- [00:50:11,429 - 00:50:13,439] My question in a nutshell is
+- [00:50:13,439 - 00:50:15,450] if we have a partial correlation.
+- [00:50:15,950 - 00:50:16,430] Oh,
+- [00:50:16,430 - 00:50:16,710] partial,
+- [00:50:16,710 - 00:50:17,050] okay.
+- [00:50:17,230 - 00:50:19,610] The correlation is somewhere between zero and one.
+- [00:50:19,870 - 00:50:20,110] All right,
+- [00:50:20,110 - 00:50:21,430] so we put a big number
+- [00:50:21,430 - 00:50:22,750] here and a small number here.
+- [00:50:23,070 - 00:50:23,310] Yeah,
+- [00:50:23,310 - 00:50:24,550] so we mentioned one,
+- [00:50:24,550 - 00:50:26,670] and then the other could
+- [00:50:26,670 - 00:50:28,790] be expressed as various probabilities
+- [00:50:28,790 - 00:50:30,390] of Sigma X and Sigma Z.
+- [00:50:30,410 - 00:50:30,870] Yes,
+- [00:50:30,870 - 00:50:31,450] yes,
+- [00:50:31,450 - 00:50:32,030] yes,
+- [00:50:32,030 - 00:50:32,630] yes.
+- [00:50:32,630 - 00:50:34,690] We can calculate all the probabilities.
+- [00:50:34,690 - 00:50:35,750] We just calculate them.
+- [00:50:36,090 - 00:50:36,570] Yeah.
+- [00:50:36,570 - 00:50:38,390] Okay.
+- [00:50:38,790 - 00:50:40,450] Could you remind us the physical
+- [00:50:40,450 - 00:50:41,470] What is that?
+- [00:50:41,810 - 00:50:42,490] Singlet state?
+- [00:50:42,810 - 00:50:43,330] Say it again?
+- [00:50:44,010 - 00:50:44,630] What is,
+- [00:50:44,630 - 00:50:46,540] what would be an example of
+- [00:50:46,540 - 00:50:48,450] a physical experiment corresponding to a singlet
+- [00:50:48,450 - 00:50:48,670] state?
+- [00:50:48,890 - 00:50:49,050] Good,
+- [00:50:49,050 - 00:50:49,890] good.
+- [00:50:49,890 - 00:50:51,990] Good.
+- [00:50:51,990 - 00:50:53,150] That's an important,
+- [00:50:53,150 - 00:50:54,850] obviously an important question.
+- [00:50:54,850 - 00:50:55,870] Another
+- [00:50:55,870 - 00:50:57,210] way to ask it is
+- [00:50:57,210 - 00:50:58,550] how would you prepare a state,
+- [00:50:58,550 - 00:50:59,830] a system in the singlet state?
+- [00:51:00,410 - 00:51:00,830] All right.
+- [00:51:00,830 - 00:51:03,190] All right,
+- [00:51:03,190 - 00:51:04,770] I'll tell you something about the singlet state.
+- [00:51:04,770 - 00:51:06,170] The singlet state
+- [00:51:06,170 - 00:51:08,380] has the property that it's
+- [00:51:08,380 - 00:51:10,590] an eigenvector of a certain operator.
+- [00:51:10,590 - 00:51:11,530] It's eigenvector of
+- [00:51:11,530 - 00:51:12,150] many operators,
+- [00:51:12,150 - 00:51:13,130] but in particular,
+- [00:51:13,130 - 00:51:16,230] it's an eigenvector of Sigma X,
+- [00:51:16,230 - 00:51:16,970] Tau X.
+- [00:51:16,970 - 00:51:17,950] You can prove
+- [00:51:17,950 - 00:51:18,090] it.
+- [00:51:18,090 - 00:51:20,510] It's actually an eigenvector of Sigma X,
+- [00:51:20,510 - 00:51:21,010] Tau X.
+- [00:51:21,010 - 00:51:23,230] It's an eigenvector of Sigma Y,
+- [00:51:23,470 - 00:51:23,990] Tau Y.
+- [00:51:23,990 - 00:51:27,150] And it's an eigenvector of Sigma Z,
+- [00:51:27,150 - 00:51:27,790] Tau Z.
+- [00:51:27,790 - 00:51:30,210] What's the eigenvalue for each one
+- [00:51:30,210 - 00:51:30,470] of these?
+- [00:51:30,950 - 00:51:31,490] Minus one.
+- [00:51:31,690 - 00:51:32,370] Minus one.
+- [00:51:32,370 - 00:51:35,310] And the eigenvalue is the same for all of them.
+- [00:51:35,310 - 00:51:38,290] That means that it's an eigenvector
+- [00:51:38,290 - 00:51:39,210] of any linear,
+- [00:51:39,210 - 00:51:42,770] any combination of these with eigenvalue minus one.
+- [00:51:42,770 - 00:51:43,890] Any one of them acts
+- [00:51:43,890 - 00:51:44,870] on the singlet state,
+- [00:51:44,870 - 00:51:46,610] gives back minus the singlet state.
+- [00:51:46,610 - 00:51:48,770] Any combination of them will
+- [00:51:48,770 - 00:51:50,110] give back minus the singlet state.
+- [00:51:50,110 - 00:51:51,750] So in particular,
+- [00:51:51,750 - 00:51:53,570] if I take this object here,
+- [00:51:53,570 - 00:51:56,050] the singlet state
+- [00:51:56,050 - 00:51:58,290] is also an eigenvector of this.
+- [00:51:59,250 - 00:51:59,810] Now,
+- [00:51:59,810 - 00:52:00,890] this is a funny thing.
+- [00:52:00,890 - 00:52:05,910] Alice and Bob can't easily measure this whole quantity here.
+- [00:52:06,170 - 00:52:06,710] Why?
+- [00:52:06,710 - 00:52:10,990] Because Alice can't measure Tau X and Tau Y simultaneously.
+- [00:52:10,990 - 00:52:14,250] By separate measurements,
+- [00:52:14,870 - 00:52:16,530] this would be hard to measure.
+- [00:52:16,530 - 00:52:19,190] Can't be measured by separate measurements.
+- [00:52:19,190 - 00:52:21,170] Why?
+- [00:52:21,170 - 00:52:21,850] Because no
+- [00:52:21,850 - 00:52:23,980] separate measurement can measure Tau X
+- [00:52:23,980 - 00:52:26,110] and Tau Y at the same time,
+- [00:52:26,110 - 00:52:27,190] or Tau Z at the same
+- [00:52:27,190 - 00:52:27,430] time.
+- [00:52:28,290 - 00:52:28,490] Now,
+- [00:52:28,490 - 00:52:31,070] this object is a perfectly good Hermitian operator,
+- [00:52:31,070 - 00:52:34,030] and there must exist a way of measuring
+- [00:52:34,030 - 00:52:34,430] it.
+- [00:52:34,430 - 00:52:36,570] But more to the point right now,
+- [00:52:36,570 - 00:52:38,930] there's a way of preparing
+- [00:52:38,930 - 00:52:41,290] a state which is an eigenvector
+- [00:52:41,290 - 00:52:41,750] of this.
+- [00:52:41,750 - 00:52:43,230] Now,
+- [00:52:43,230 - 00:52:43,930] what state?
+- [00:52:43,930 - 00:52:44,870] The singlet state.
+- [00:52:44,870 - 00:52:47,450] The singlet state is an eigenvector of this
+- [00:52:47,450 - 00:52:50,470] object with eigenvalue minus 3.
+- [00:52:50,470 - 00:52:53,430] That's an eigenvalue of this one with minus one,
+- [00:52:53,430 - 00:52:53,710] this
+- [00:52:53,710 - 00:52:54,650] one with minus one,
+- [00:52:54,650 - 00:52:55,850] and this one with minus one.
+- [00:52:55,850 - 00:52:58,270] The whole thing has eigenvalues of three.
+- [00:52:58,270 - 00:53:00,110] The point is,
+- [00:53:00,110 - 00:53:03,150] the eigenvectors of this product,
+- [00:53:03,150 - 00:53:04,890] or the sum of products here,
+- [00:53:04,890 - 00:53:08,150] include the singlet
+- [00:53:08,150 - 00:53:09,590] state as a particular one.
+- [00:53:09,590 - 00:53:12,150] You can also write this as just sigma dot tau.
+- [00:53:12,150 - 00:53:16,550] Sigma X Tau X,
+- [00:53:16,610 - 00:53:17,430] sigma Y Tau Y,
+- [00:53:17,430 - 00:53:18,430] sigma Z Tau Z.
+- [00:53:18,430 - 00:53:20,810] These are ordinary classical vectors.
+- [00:53:20,810 - 00:53:21,850] You would write it as sigma
+- [00:53:21,850 - 00:53:22,590] dot tau.
+- [00:53:22,590 - 00:53:23,810] Now,
+- [00:53:23,810 - 00:53:24,670] if you take two electrons,
+- [00:53:24,670 - 00:53:26,070] each one has its spin,
+- [00:53:26,070 - 00:53:27,670] and they're very,
+- [00:53:27,670 - 00:53:28,190] very far
+- [00:53:28,190 - 00:53:28,250] away.
+- [00:53:28,250 - 00:53:28,250] They're very,
+- [00:53:28,250 - 00:53:28,250] very far away.
+- [00:53:28,250 - 00:53:28,250] They're very,
+- [00:53:28,250 - 00:53:28,250] very far away.
+- [00:53:28,250 - 00:53:28,250] They're very,
+- [00:53:28,250 - 00:53:28,250] very far
+- [00:53:28,270 - 00:53:28,430] apart.
+- [00:53:28,430 - 00:53:30,450] They don't interact with each other.
+- [00:53:30,450 - 00:53:34,670] There's no energy associated with the interaction
+- [00:53:34,670 - 00:53:35,430] between them.
+- [00:53:35,430 - 00:53:37,190] But as you bring them together,
+- [00:53:37,190 - 00:53:38,470] there are all sorts of energies.
+- [00:53:38,470 - 00:53:39,250] One energy,
+- [00:53:39,370 - 00:53:39,870] for example,
+- [00:53:39,870 - 00:53:41,510] is just a Coulomb energy between them,
+- [00:53:41,510 - 00:53:43,030] product of the charges.
+- [00:53:43,030 - 00:53:44,590] There is also
+- [00:53:44,590 - 00:53:46,870] an energy associated with the spins.
+- [00:53:46,870 - 00:53:49,770] And one of the terms in the energy associated with
+- [00:53:49,770 - 00:53:52,370] the spin is just the dot product of the spins.
+- [00:53:52,370 - 00:53:53,430] If the spins are aligned,
+- [00:53:53,430 - 00:53:57,270] you get one value.
+- [00:53:57,270 - 00:53:58,930] If they're anti-aligned,
+- [00:53:58,930 - 00:53:59,850] you get the other value.
+- [00:53:59,850 - 00:54:04,910] And so sigma dot tau is a piece of
+- [00:54:04,910 - 00:54:10,650] the Hamiltonian of the two-spin system.
+- [00:54:10,650 - 00:54:12,810] In the singlet state,
+- [00:54:12,810 - 00:54:13,850] it's minimum.
+- [00:54:13,850 - 00:54:15,850] There's three
+- [00:54:15,850 - 00:54:17,510] other states called the triplet state,
+- [00:54:17,510 - 00:54:19,030] in which it's maximum.
+- [00:54:19,030 - 00:54:23,290] So the energy is lowest
+- [00:54:23,590 - 00:54:24,629] in the singlet state.
+- [00:54:24,629 - 00:54:27,249] The spins are trying to get to the maximum.
+- [00:54:27,249 - 00:54:27,249] And the energy is trying
+- [00:54:27,249 - 00:54:29,970] to get anti-aligned with each other,
+- [00:54:29,970 - 00:54:31,110] but in every direction,
+- [00:54:31,110 - 00:54:32,270] not just the z direction,
+- [00:54:32,510 - 00:54:33,390] in every direction.
+- [00:54:33,390 - 00:54:36,570] And they eventually compromise on the singlet state.
+- [00:54:37,190 - 00:54:39,530] So you have two energy levels
+- [00:54:39,530 - 00:54:41,870] associated with the spin of an electron.
+- [00:54:41,870 - 00:54:43,370] These two energy
+- [00:54:43,370 - 00:54:47,370] in hydrogen or in positronium,
+- [00:54:47,370 - 00:54:47,930] even better.
+- [00:54:47,930 - 00:54:49,230] In positronium,
+- [00:54:49,230 - 00:54:50,910] you have the aligned and anti-aligned
+- [00:54:50,910 - 00:54:51,170] spins.
+- [00:54:51,170 - 00:54:53,170] And they have different energy levels,
+- [00:54:53,170 - 00:54:54,270] singlet,
+- [00:54:54,270 - 00:54:55,310] triplet.
+- [00:54:56,289 - 00:55:00,170] If you bring two electrons together,
+- [00:55:00,170 - 00:55:02,230] then any state can be
+- [00:55:02,230 - 00:55:04,290] written in terms of the singlet
+- [00:55:04,290 - 00:55:05,010] and triplet states.
+- [00:55:05,010 - 00:55:07,160] Even the product state can be
+- [00:55:07,160 - 00:55:09,310] represented as a sum of singlet and
+- [00:55:09,310 - 00:55:09,930] triplet states.
+- [00:55:09,930 - 00:55:13,430] What happens when you bring the
+- [00:55:13,430 - 00:55:16,930] electrons together after a period if they're
+- [00:55:16,930 - 00:55:18,670] in the triplet state with the higher energy?
+- [00:55:18,670 - 00:55:23,310] What happens to higher energy states after
+- [00:55:23,310 - 00:55:23,690] a while?
+- [00:55:25,330 - 00:55:27,110] They emit a photon and
+- [00:55:27,110 - 00:55:28,890] go to the lower energy state.
+- [00:55:28,890 - 00:55:31,070] So if you take two spins,
+- [00:55:31,070 - 00:55:32,710] which may
+- [00:55:32,710 - 00:55:33,710] be in a product state,
+- [00:55:33,710 - 00:55:36,070] and you bring them together and wait a long time,
+- [00:55:36,070 - 00:55:37,910] a photon may
+- [00:55:37,910 - 00:55:39,130] or may not be emitted.
+- [00:55:39,130 - 00:55:41,890] If the system is in the singlet state,
+- [00:55:41,890 - 00:55:43,490] no emission.
+- [00:55:43,490 - 00:55:44,510] If it's in
+- [00:55:44,510 - 00:55:45,150] the triplet state,
+- [00:55:45,150 - 00:55:45,990] it emits,
+- [00:55:45,990 - 00:55:46,930] gives off a photon,
+- [00:55:46,930 - 00:55:48,970] and winds up in the singlet state.
+- [00:55:49,650 - 00:55:51,690] So this would be a way of
+- [00:55:51,690 - 00:55:53,730] preparing the system in the singlet state.
+- [00:55:53,730 - 00:55:55,050] You just take the two
+- [00:55:55,050 - 00:55:57,270] electrons and wait until they radiate a photon,
+- [00:55:57,270 - 00:55:58,290] and wait long enough.
+- [00:55:58,290 - 00:55:59,750] They either do or don't
+- [00:55:59,750 - 00:56:00,550] radiate the photon,
+- [00:56:00,550 - 00:56:01,810] but if you wait long enough,
+- [00:56:01,810 - 00:56:04,210] you'll know that it's in the singlet state.
+- [00:56:06,090 - 00:56:08,850] So that's an experiment.
+- [00:56:08,850 - 00:56:11,390] That's an experiment to another way,
+- [00:56:11,390 - 00:56:15,350] now this one is very,
+- [00:56:15,350 - 00:56:15,670] very
+- [00:56:15,670 - 00:56:16,450] far-fetched,
+- [00:56:16,450 - 00:56:17,750] extremely far-fetched.
+- [00:56:17,750 - 00:56:19,970] The energy in the singlet
+- [00:56:19,970 - 00:56:22,190] state is less than the energy
+- [00:56:22,190 - 00:56:23,590] in the other three states.
+- [00:56:23,590 - 00:56:25,030] There are four states.
+- [00:56:25,030 - 00:56:25,030] There are four viruses,
+- [00:56:25,030 - 00:56:25,030] two Constitutional
+- [00:56:25,030 - 00:56:27,370] four possible states altogether,
+- [00:56:27,370 - 00:56:28,850] four possible basis states,
+- [00:56:28,850 - 00:56:29,970] singlet and
+- [00:56:29,970 - 00:56:30,490] three-triplet.
+- [00:56:30,490 - 00:56:32,870] The energy of the singlet is lowest.
+- [00:56:32,870 - 00:56:36,510] So you just take your composite
+- [00:56:36,510 - 00:56:38,300] system and you put it on
+- [00:56:38,300 - 00:56:40,090] a scale and you measure its mass.
+- [00:56:40,090 - 00:56:41,910] Mass is energy.
+- [00:56:41,910 - 00:56:42,970] When
+- [00:56:42,970 - 00:56:44,070] you've measured its mass,
+- [00:56:44,070 - 00:56:47,350] you've measured whether its energy is the energy of the
+- [00:56:47,350 - 00:56:49,150] singlet state or the triplet state,
+- [00:56:49,150 - 00:56:53,210] and that constitutes a measurement or
+- [00:56:53,210 - 00:56:56,380] constitutes a preparation device or
+- [00:56:56,380 - 00:56:59,550] a measurement of basically this variable,
+- [00:56:59,810 - 00:57:03,010] but if you like the difference between singlet and triplet.
+- [00:57:03,010 - 00:57:04,530] So,
+- [00:57:04,530 - 00:57:04,930] yeah,
+- [00:57:04,930 - 00:57:05,430] there are
+- [00:57:05,430 - 00:57:08,510] ways of preparing systems in the singlet or triplet—in the
+- [00:57:08,510 - 00:57:10,470] singlet state—or ways of,
+- [00:57:10,470 - 00:57:11,150] in fact,
+- [00:57:11,150 - 00:57:13,870] if you bring the systems together and you wait
+- [00:57:13,870 - 00:57:14,270] a while,
+- [00:57:14,270 - 00:57:18,410] it's very difficult to have anything but the singlet state.
+- [00:57:18,410 - 00:57:20,070] Then once
+- [00:57:20,070 - 00:57:21,630] you've made that singlet state,
+- [00:57:21,630 - 00:57:23,030] if you grab the
+- [00:57:23,030 - 00:57:24,870] the electrons without turning their spins,
+- [00:57:24,870 - 00:57:27,150] if you grab them somehow in a way that doesn't
+- [00:57:27,150 - 00:57:30,450] put any torque on their spins and pull them apart,
+- [00:57:30,450 - 00:57:33,290] you now have two separated electrons,
+- [00:57:33,610 - 00:57:34,470] for example,
+- [00:57:34,470 - 00:57:35,310] in the singlet state.
+- [00:57:35,310 - 00:57:39,470] So it's not a terribly hard thing to do.
+- [00:57:40,250 - 00:57:43,070] With the speed that you can
+- [00:57:43,070 - 00:57:45,890] actually assign an energy to the entanglement?
+- [00:57:45,890 - 00:57:46,670] Yes,
+- [00:57:46,670 - 00:57:47,430] in this case,
+- [00:57:47,430 - 00:57:47,710] yes.
+- [00:57:47,710 - 00:57:49,390] In this case,
+- [00:57:49,390 - 00:57:50,470] yes.
+- [00:57:50,470 - 00:57:52,150] But that's — well,
+- [00:57:52,150 - 00:57:56,890] what you can say is
+- [00:57:56,890 - 00:57:58,970] the lower energy is certainly entangled.
+- [00:57:58,970 - 00:58:00,210] The lowest energy state,
+- [00:58:00,210 - 00:58:01,350] the one that it seeks
+- [00:58:01,350 - 00:58:03,700] to get to by — it
+- [00:58:03,700 - 00:58:06,050] doesn't have to be radiating a photon.
+- [00:58:06,050 - 00:58:09,590] Any mechanism by which the system
+- [00:58:09,590 - 00:58:10,890] can lower its energy,
+- [00:58:10,890 - 00:58:15,870] emitting phonon or doing anything else,
+- [00:58:15,870 - 00:58:15,870] it's not going to be able to
+- [00:58:15,890 - 00:58:17,410] interact with a crystal lattice
+- [00:58:17,410 - 00:58:18,930] or anything to lower its energy.
+- [00:58:18,930 - 00:58:20,030] We'll leave it in the
+- [00:58:20,030 - 00:58:20,530] singlet state.
+- [00:58:20,530 - 00:58:23,790] So — and I think the right thing
+- [00:58:23,790 - 00:58:27,050] just to say is that the lower energy
+- [00:58:27,050 - 00:58:28,830] state is entangled.
+- [00:58:28,830 - 00:58:30,830] That's almost always the case,
+- [00:58:30,830 - 00:58:36,330] that the states of lowest energy are
+- [00:58:36,330 - 00:58:38,010] highly entangled between systems.
+- [00:58:38,010 - 00:58:42,230] Okay,
+- [00:58:42,230 - 00:58:43,409] so next question.
+- [00:58:47,050 - 00:58:48,890] I liked this most about Hamilton,
+- [00:58:48,890 - 00:58:50,630] which is the achromatic very worthless function.
+- [00:58:51,230 - 00:58:52,430] I'm not aware of this.
+- [00:58:52,430 - 00:58:52,470] It's not an impeccable thing.
+- [00:58:52,470 - 00:58:52,470] So now we've ownership space,
+- [00:58:52,470 - 00:58:53,130] and if you tracking something on aiggling chain,
+- [00:58:54,770 - 00:58:56,770] the pies happen and Executive Plan,
+- [00:58:56,770 - 00:58:57,410] as I said,
+- [00:58:57,410 - 00:58:57,990] they'll rise and fail were not able is this
+- [00:58:57,990 - 00:59:01,800] to do with wants and returns공 you
+- [00:59:01,800 - 00:59:05,610] have to lay a tangent of some norm.
+- [00:59:05,870 - 00:59:06,670] So you'll have to,
+- [00:59:06,670 - 00:59:07,830] basically,
+- [00:59:07,830 - 00:59:09,810] you're going to depend over time how you see things.
+- [00:59:09,810 - 00:59:12,840] You're going to rer Huizing from the zero Madden
+- [00:59:12,840 - 00:59:15,870] resolved by y than the lower down Tx going tomorrow,
+- [00:59:15,870 - 00:59:17,350] I think we can do it.
+- [00:59:20,770 - 00:59:24,670] Let's define an object called Alice's density matrix.
+- [00:59:25,750 - 00:59:31,170] Alice's density matrix is a quantity which,
+- [00:59:31,170 - 00:59:33,210] even in an entangled state,
+- [00:59:33,790 - 00:59:37,110] is as complete a description of Alice's
+- [00:59:37,110 - 00:59:40,430] system for the purposes of Alice's measurements
+- [00:59:40,730 - 00:59:42,170] as Alice can ever get.
+- [00:59:43,410 - 00:59:44,650] It's not a wave function.
+- [00:59:45,710 - 00:59:47,550] If it was unentangled,
+- [00:59:47,550 - 00:59:49,110] the wave function would be
+- [00:59:49,110 - 00:59:50,670] the best description she could have.
+- [00:59:50,950 - 00:59:52,810] But for an entangled system,
+- [00:59:52,810 - 00:59:55,270] you cannot extract out a wave function
+- [00:59:55,270 - 00:59:57,730] for either piece of the entangled system.
+- [00:59:58,130 - 01:00:00,050] The best you could do
+- [01:00:00,050 - 01:00:01,970] is something called the density matrix.
+- [01:00:02,150 - 01:00:03,230] We actually had it up here.
+- [01:00:03,590 - 01:00:04,730] Let me go back to it.
+- [01:00:06,050 - 01:00:09,100] Let's talk about all of Alice's experiments that
+- [01:00:09,100 - 01:00:12,150] she can do without measuring the density matrix.
+- [01:00:12,170 - 01:00:13,830] Without measuring anything about
+- [01:00:13,830 - 01:00:15,490] Bob's electron or Bob's system.
+- [01:00:16,170 - 01:00:18,590] Let's imagine that they've separated their systems.
+- [01:00:19,090 - 01:00:20,310] Bob has his,
+- [01:00:20,310 - 01:00:21,210] Alice has her,
+- [01:00:21,210 - 01:00:23,830] and Alice can do all the experiments she likes
+- [01:00:23,830 - 01:00:26,990] and measure any one of these L observables.
+- [01:00:27,150 - 01:00:29,350] L stands for Alice.
+- [01:00:31,990 - 01:00:35,060] How does she describe all the possible expectation
+- [01:00:35,060 - 01:00:38,130] values of everything that she can ever measure?
+- [01:00:38,230 - 01:00:39,530] So we had a formula up before,
+- [01:00:39,530 - 01:00:40,490] and I'm going to rewrite it.
+- [01:00:42,170 - 01:00:47,790] The expectation value of L is psi star of alpha...
+- [01:00:49,070 - 01:00:49,650] Let's see,
+- [01:00:49,650 - 01:00:50,070] what was it?
+- [01:00:50,130 - 01:00:50,650] Alpha prime,
+- [01:00:50,650 - 01:00:52,750] beta prime,
+- [01:00:52,750 - 01:00:53,790] or A prime,
+- [01:00:53,790 - 01:00:54,310] B prime.
+- [01:00:58,330 - 01:00:59,950] This is the combined system.
+- [01:01:00,190 - 01:01:02,030] We're going back to the combined system now.
+- [01:01:05,830 - 01:01:06,310] L,
+- [01:01:06,310 - 01:01:07,210] A prime,
+- [01:01:07,210 - 01:01:07,730] A.
+- [01:01:10,110 - 01:01:10,590] Psi,
+- [01:01:10,590 - 01:01:11,070] A,
+- [01:01:11,070 - 01:01:11,870] B.
+- [01:01:12,170 - 01:01:15,570] But we set B equal to B prime.
+- [01:01:16,910 - 01:01:17,910] Or if we like,
+- [01:01:17,910 - 01:01:19,920] we can leave the B prime here and
+- [01:01:19,920 - 01:01:21,930] put a Kronecker delta of B and B prime.
+- [01:01:23,190 - 01:01:26,930] This is one of Alice's variables.
+- [01:01:27,430 - 01:01:29,390] And so as far as Bob goes,
+- [01:01:29,390 - 01:01:30,890] it's just the unit operator.
+- [01:01:31,130 - 01:01:33,150] It does nothing to Bob's piece of the wave function.
+- [01:01:33,650 - 01:01:36,610] And that just says stick B equal to B prime.
+- [01:01:38,010 - 01:01:38,490] Okay,
+- [01:01:38,490 - 01:01:40,330] look at this quantity right over here.
+- [01:01:40,330 - 01:01:42,270] Let's take L on the outside.
+- [01:01:42,630 - 01:01:46,110] Let's take L of A prime and A out there.
+- [01:01:46,770 - 01:01:47,690] Isolate it off.
+- [01:01:48,350 - 01:01:50,350] We have to sum this over B.
+- [01:01:50,690 - 01:01:51,970] We sum over everything.
+- [01:01:52,270 - 01:01:53,550] We sum this over B.
+- [01:01:54,070 - 01:01:55,750] And here's a quantity...
+- [01:01:58,850 - 01:02:00,970] right here that depends on A prime,
+- [01:02:00,970 - 01:02:01,730] A,
+- [01:02:02,350 - 01:02:04,030] and it multiplies something else that
+- [01:02:04,030 - 01:02:05,710] depends on A and A prime.
+- [01:02:06,150 - 01:02:07,690] But it doesn't depend on B.
+- [01:02:07,930 - 01:02:09,230] We've summed over B.
+- [01:02:09,230 - 01:02:10,430] Once you've summed over B,
+- [01:02:10,430 - 01:02:11,990] it doesn't depend on B anymore.
+- [01:02:13,670 - 01:02:16,000] So this object over here is
+- [01:02:16,000 - 01:02:18,330] a function only of Alice's coordinates,
+- [01:02:18,330 - 01:02:19,690] A and A prime.
+- [01:02:21,970 - 01:02:22,530] It,
+- [01:02:22,530 - 01:02:22,950] of course,
+- [01:02:22,950 - 01:02:24,090] to calculate it,
+- [01:02:24,090 - 01:02:26,390] you may have to know more about the wave function.
+- [01:02:26,550 - 01:02:27,930] But once you've calculated it,
+- [01:02:27,930 - 01:02:31,040] that's all that Alice ever needs to know
+- [01:02:31,040 - 01:02:34,150] to calculate anything about her half of the system.
+- [01:02:34,770 - 01:02:36,090] So let's give it a name.
+- [01:02:36,090 - 01:02:38,490] It's the sum over B,
+- [01:02:40,530 - 01:02:44,410] psi star of A prime B,
+- [01:02:44,690 - 01:02:46,910] psi of AB.
+- [01:02:47,630 - 01:02:49,220] It doesn't depend on B
+- [01:02:49,220 - 01:02:50,810] degrees of freedom at all anymore,
+- [01:02:50,810 - 01:02:51,949] Bob's degrees of freedom.
+- [01:02:52,330 - 01:02:54,490] It's called the density matrix.
+- [01:02:54,909 - 01:02:56,070] And it's a function,
+- [01:02:56,070 - 01:02:57,510] it's a thing,
+- [01:02:57,510 - 01:02:59,710] which depends on A prime and A.
+- [01:03:00,010 - 01:03:00,630] It's a matrix.
+- [01:03:01,370 - 01:03:02,370] It's a matrix.
+- [01:03:02,370 - 01:03:03,189] It has two entries.
+- [01:03:03,909 - 01:03:07,249] Any matrix can be thought of as
+- [01:03:07,249 - 01:03:10,590] a function of a row and a column.
+- [01:03:12,610 - 01:03:13,990] This is a density matrix.
+- [01:03:14,490 - 01:03:16,250] And if we know the density matrix,
+- [01:03:16,250 - 01:03:18,110] it doesn't matter where it came from.
+- [01:03:18,390 - 01:03:20,290] It doesn't matter what Bob's state was.
+- [01:03:20,370 - 01:03:21,370] If we know row and A,
+- [01:03:21,370 - 01:03:21,850] row,
+- [01:03:21,850 - 01:03:23,830] then we know that the expectation,
+- [01:03:23,830 - 01:03:24,810] let's write the formula,
+- [01:03:25,050 - 01:03:27,590] the expectation value of L
+- [01:03:27,590 - 01:03:30,130] is equal to the sum of
+- [01:03:31,190 - 01:03:33,010] row of A prime,
+- [01:03:33,010 - 01:03:33,430] and A,
+- [01:03:33,430 - 01:03:36,750] L of A and A prime.
+- [01:03:36,950 - 01:03:38,190] I think I have one of them backwards.
+- [01:03:38,190 - 01:03:38,870] It doesn't matter.
+- [01:03:40,550 - 01:03:41,510] So Alice,
+- [01:03:41,510 - 01:03:43,510] if she knew this density matrix,
+- [01:03:43,810 - 01:03:46,090] could forget about Bob completely,
+- [01:03:46,770 - 01:03:47,170] and say,
+- [01:03:47,170 - 01:03:48,950] I know everything that there
+- [01:03:48,950 - 01:03:50,730] is to know about my subsystem,
+- [01:03:51,670 - 01:03:52,790] and here it is.
+- [01:03:54,210 - 01:03:54,730] Okay.
+- [01:03:55,830 - 01:03:58,590] What is row of A and A prime?
+- [01:04:02,690 - 01:04:03,830] If we start with a pure state,
+- [01:04:05,489 - 01:04:07,450] supposing we started with a pure state,
+- [01:04:11,330 - 01:04:12,290] Are you getting exhausted?
+- [01:04:15,910 - 01:04:16,310] Well,
+- [01:04:16,310 - 01:04:17,850] this is quantum mechanics for you.
+- [01:04:18,130 - 01:04:18,530] Sorry,
+- [01:04:18,530 - 01:04:18,910] buddies,
+- [01:04:18,910 - 01:04:19,630] but this is it.
+- [01:04:22,609 - 01:04:24,250] I can't make it any easier.
+- [01:04:24,590 - 01:04:26,290] This is as easy as I can make it.
+- [01:04:26,850 - 01:04:27,410] All right?
+- [01:04:27,470 - 01:04:28,850] You got to sit down with it,
+- [01:04:28,850 - 01:04:30,110] and you got to go through it,
+- [01:04:30,130 - 01:04:32,030] and penetrate it.
+- [01:04:32,690 - 01:04:34,730] But I'll do my best.
+- [01:04:35,710 - 01:04:36,230] Okay.
+- [01:04:37,350 - 01:04:39,370] This is the notion of a density matrix.
+- [01:04:42,970 - 01:04:44,010] What if
+- [01:04:45,350 - 01:04:45,870] psi
+- [01:04:47,030 - 01:04:48,250] is a pure state?
+- [01:04:48,490 - 01:04:50,690] What can we say about this density matrix?
+- [01:04:51,150 - 01:04:54,230] So let's go back and see exactly what it says.
+- [01:04:54,910 - 01:04:55,830] If psi is,
+- [01:04:55,830 - 01:04:56,370] sorry,
+- [01:04:56,370 - 01:04:58,010] what if psi is a product state?
+- [01:04:58,310 - 01:04:59,850] If psi is a product state,
+- [01:04:59,850 - 01:05:01,370] it means the wave function
+- [01:05:02,190 - 01:05:02,670] factorizes.
+- [01:05:02,890 - 01:05:03,570] So let's go back.
+- [01:05:03,610 - 01:05:04,130] Here we are.
+- [01:05:04,650 - 01:05:05,870] Here's the density matrix.
+- [01:05:06,510 - 01:05:09,270] The wave function factorizes into a,
+- [01:05:09,270 - 01:05:10,230] this is B prime.
+- [01:05:10,490 - 01:05:10,610] Yeah,
+- [01:05:10,610 - 01:05:10,970] that's right.
+- [01:05:11,090 - 01:05:11,650] That's correct.
+- [01:05:11,730 - 01:05:12,990] If the density matrix,
+- [01:05:12,990 - 01:05:15,250] your sum is over A prime and A,
+- [01:05:15,870 - 01:05:16,850] it's a double sum.
+- [01:05:16,910 - 01:05:18,690] Not in the density matrix.
+- [01:05:19,050 - 01:05:20,330] In this one,
+- [01:05:20,330 - 01:05:20,510] yes.
+- [01:05:20,910 - 01:05:21,890] It's a double sum.
+- [01:05:22,790 - 01:05:23,750] It's a double sum,
+- [01:05:23,750 - 01:05:25,370] but it only involves row.
+- [01:05:25,590 - 01:05:26,950] So let's erase this for a moment.
+- [01:05:28,830 - 01:05:31,350] And see what we learn about this creature called,
+- [01:05:31,350 - 01:05:32,290] the density matrix,
+- [01:05:32,290 - 01:05:34,850] if psi is a product vector.
+- [01:05:35,050 - 01:05:36,970] It must have a special form somehow.
+- [01:05:37,630 - 01:05:40,200] So let's say that psi is
+- [01:05:40,200 - 01:05:42,770] a product of Alice's wave function
+- [01:05:45,249 - 01:05:46,690] times Bob's wave function.
+- [01:05:46,810 - 01:05:47,950] I forget which one is which now.
+- [01:05:48,110 - 01:05:49,770] Was psi Alice or was psi Bob?
+- [01:05:51,010 - 01:05:51,870] Psi was Bob?
+- [01:05:52,990 - 01:05:53,810] Psi is Alice.
+- [01:05:53,810 - 01:05:54,590] Psi is Alice.
+- [01:05:54,790 - 01:05:54,950] Okay,
+- [01:05:54,950 - 01:05:55,450] it doesn't matter.
+- [01:05:55,650 - 01:05:57,030] We'll just change them now.
+- [01:05:57,910 - 01:05:58,370] So,
+- [01:06:01,850 - 01:06:06,350] the complex conjugate here is Alice's wave function times,
+- [01:06:06,510 - 01:06:08,310] this is not the wave function of Alice.
+- [01:06:08,470 - 01:06:10,130] This is the wave function of Alice's spin,
+- [01:06:10,130 - 01:06:10,510] incidentally.
+- [01:06:10,910 - 01:06:12,590] But I'll call it Alice's wave function.
+- [01:06:13,470 - 01:06:16,890] Alice's wave function times Bob's wave function,
+- [01:06:16,970 - 01:06:17,870] the complex conjugate.
+- [01:06:18,210 - 01:06:21,730] And then we multiply that
+- [01:06:21,730 - 01:06:25,250] by the non-complex conjugated thing.
+- [01:06:25,490 - 01:06:26,890] Let me put them in the opposite order.
+- [01:06:27,090 - 01:06:28,190] Psi of B,
+- [01:06:28,190 - 01:06:31,330] notice we've identified B with B here.
+- [01:06:31,350 - 01:06:32,730] It's not B and B prime.
+- [01:06:34,489 - 01:06:37,750] And this is prime psi A.
+- [01:06:40,090 - 01:06:41,590] Each one of these factorizes.
+- [01:06:41,650 - 01:06:43,910] This factorizes into a function of A prime and B,
+- [01:06:44,350 - 01:06:46,250] and this one into a function of B and A.
+- [01:06:48,810 - 01:06:50,090] And now we sum over B.
+- [01:06:51,410 - 01:06:54,410] What is the sum of B of phi star phi?
+- [01:06:55,290 - 01:06:55,690] One,
+- [01:06:55,690 - 01:06:56,070] right?
+- [01:06:57,230 - 01:06:57,630] Okay,
+- [01:06:57,630 - 01:06:58,650] so now we can take
+- [01:06:58,650 - 01:06:59,670] this out and throw it out.
+- [01:07:01,490 - 01:07:02,870] And here's what we find.
+- [01:07:02,950 - 01:07:04,850] We find that for a product state,
+- [01:07:05,110 - 01:07:06,630] only for product state,
+- [01:07:08,270 - 01:07:10,990] that rho is simply made up out
+- [01:07:10,990 - 01:07:13,710] of Alice's half of the wave function
+- [01:07:13,710 - 01:07:15,610] without any regard to Bob.
+- [01:07:15,910 - 01:07:18,370] She doesn't need to know anything about Bob.
+- [01:07:19,470 - 01:07:21,290] This is not too surprising that she
+- [01:07:21,290 - 01:07:23,110] didn't need to know anything about Bob.
+- [01:07:24,010 - 01:07:24,870] After all,
+- [01:07:24,870 - 01:07:26,090] it is a product wave function.
+- [01:07:26,290 - 01:07:29,490] And the density matrix is just a,
+- [01:07:29,490 - 01:07:29,970] um,
+- [01:07:30,810 - 01:07:31,290] a
+- [01:07:33,570 - 01:07:35,610] product of the complex conjugate of the
+- [01:07:35,610 - 01:07:37,650] wave function with the wave function itself.
+- [01:07:37,990 - 01:07:39,530] Two different A's though.
+- [01:07:39,690 - 01:07:40,830] An A and an A prime.
+- [01:07:41,910 - 01:07:47,070] Now what can we say about a matrix like this?
+- [01:07:47,150 - 01:07:48,330] Let's call this matrix,
+- [01:07:48,330 - 01:07:49,410] let's call it,
+- [01:07:49,969 - 01:07:52,230] I think it's actually rho of,
+- [01:07:52,750 - 01:07:54,410] let's call it rho of A and A prime.
+- [01:07:56,630 - 01:07:57,850] Just call it rho of A.
+- [01:07:58,010 - 01:07:59,070] I've switched the order,
+- [01:07:59,070 - 01:08:00,150] but that's just the definition.
+- [01:08:01,210 - 01:08:02,650] Let's take this rho,
+- [01:08:03,510 - 01:08:04,370] it's a matrix,
+- [01:08:04,850 - 01:08:07,050] and act with it on a column vector.
+- [01:08:07,410 - 01:08:08,450] How do you act,
+- [01:08:08,590 - 01:08:10,830] if you know the components of a matrix,
+- [01:08:11,130 - 01:08:12,710] how do you act on a column vector?
+- [01:08:12,910 - 01:08:14,670] So let's suppose this is a matrix,
+- [01:08:15,610 - 01:08:16,090] is,
+- [01:08:17,189 - 01:08:17,670] yeah,
+- [01:08:17,670 - 01:08:18,430] rho one one,
+- [01:08:18,430 - 01:08:19,090] just a second,
+- [01:08:19,130 - 01:08:19,790] rho one two,
+- [01:08:19,790 - 01:08:20,510] so forth,
+- [01:08:20,770 - 01:08:21,770] rho two one,
+- [01:08:21,770 - 01:08:23,229] we make a matrix out of it.
+- [01:08:23,630 - 01:08:23,830] Yeah?
+- [01:08:24,010 - 01:08:25,460] Do you want to erase that
+- [01:08:25,460 - 01:08:26,910] summation sign there on the far?
+- [01:08:27,170 - 01:08:27,390] Yeah,
+- [01:08:27,390 - 01:08:27,810] I do.
+- [01:08:29,890 - 01:08:30,790] Good point.
+- [01:08:31,770 - 01:08:32,390] Excellent.
+- [01:08:34,189 - 01:08:34,810] Alright,
+- [01:08:34,810 - 01:08:35,609] so we have rho,
+- [01:08:35,790 - 01:08:37,950] it's made up out of Alice's wave function,
+- [01:08:39,250 - 01:08:43,210] and I maintain that this density matrix,
+- [01:08:43,529 - 01:08:44,390] thought of as a matrix,
+- [01:08:44,729 - 01:08:46,569] has an eigenvector.
+- [01:08:47,630 - 01:08:48,630] I maintain,
+- [01:08:48,630 - 01:08:49,290] moreover,
+- [01:08:49,290 - 01:08:52,189] that it has one and only one eigenvector,
+- [01:08:52,290 - 01:08:54,430] with non-zero eigenvalue,
+- [01:08:54,729 - 01:08:57,229] and that that eigenvalue is plus one.
+- [01:08:57,470 - 01:08:57,990] Right.
+- [01:08:59,069 - 01:08:59,930] Somebody say right?
+- [01:09:00,330 - 01:09:00,890] Good.
+- [01:09:06,689 - 01:09:07,250] Okay,
+- [01:09:07,250 - 01:09:08,569] let's prove it.
+- [01:09:08,750 - 01:09:11,590] I'll tell you exactly what that eigenvector is.
+- [01:09:12,069 - 01:09:13,490] It's psi A.
+- [01:09:13,729 - 01:09:15,229] It's psi itself.
+- [01:09:15,850 - 01:09:16,910] It's psi itself.
+- [01:09:17,189 - 01:09:18,450] So let's check that out.
+- [01:09:18,890 - 01:09:20,390] Let's multiply this
+- [01:09:21,069 - 01:09:22,930] by psi of A prime,
+- [01:09:22,930 - 01:09:23,590] in fact,
+- [01:09:23,590 - 01:09:25,710] and sum it over A prime.
+- [01:09:25,910 - 01:09:26,430] This is matrix,
+- [01:09:26,430 - 01:09:27,590] this is the process
+- [01:09:27,590 - 01:09:31,710] of multiplying a column vector by a matrix.
+- [01:09:32,170 - 01:09:33,490] That's the way you do it.
+- [01:09:33,870 - 01:09:35,850] You write down the matrix,
+- [01:09:36,170 - 01:09:37,910] you write down the column vector,
+- [01:09:38,090 - 01:09:43,750] and you sum over the element between them.
+- [01:09:45,430 - 01:09:46,069] Okay,
+- [01:09:46,069 - 01:09:47,529] let's see if we can see what we get.
+- [01:09:48,889 - 01:09:49,529] Oh,
+- [01:09:49,529 - 01:09:52,390] this is the action of rho on psi.
+- [01:09:53,529 - 01:09:54,170] Okay,
+- [01:09:54,170 - 01:09:55,270] so let's do it.
+- [01:09:55,270 - 01:09:56,210] Rho,
+- [01:09:56,210 - 01:09:56,810] here's rho.
+- [01:10:01,130 - 01:10:04,410] Now let's multiply it by psi of A prime.
+- [01:10:08,330 - 01:10:10,070] And now let's sum over A prime.
+- [01:10:10,250 - 01:10:10,650] What do we get?
+- [01:10:13,210 - 01:10:16,090] Psi star of A prime times psi of A prime
+- [01:10:16,090 - 01:10:17,470] summed over A prime is?
+- [01:10:18,390 - 01:10:18,870] One,
+- [01:10:18,870 - 01:10:19,390] right?
+- [01:10:20,030 - 01:10:20,510] So?
+- [01:10:21,070 - 01:10:22,730] It all comes out to just be psi.
+- [01:10:23,870 - 01:10:24,870] So this is psi.
+- [01:10:27,570 - 01:10:29,530] What does that tell you about eigenvectors
+- [01:10:29,530 - 01:10:31,370] and eigenvalues of the density matrix?
+- [01:10:33,170 - 01:10:35,970] It tells you that the original wave function
+- [01:10:35,970 - 01:10:38,870] is an eigenvector of the density matrix
+- [01:10:38,870 - 01:10:40,590] with eigenvalue plus one.
+- [01:10:42,070 - 01:10:43,310] Let me prove now
+- [01:10:43,310 - 01:10:45,910] that all vectors perpendicular,
+- [01:10:46,550 - 01:10:47,930] there are n minus one,
+- [01:10:48,070 - 01:10:50,010] if the dimensionality of the space is n,
+- [01:10:50,210 - 01:10:52,870] then this is one eigenvector out of n
+- [01:10:52,870 - 01:10:55,090] which has eigenvalue one.
+- [01:10:56,110 - 01:10:58,070] Let's take any vector now
+- [01:10:58,070 - 01:10:58,950] which is perpendicular,
+- [01:10:59,350 - 01:11:02,030] which is orthogonal to psi,
+- [01:11:02,270 - 01:11:03,130] to psi A,
+- [01:11:03,410 - 01:11:04,710] to Alice's wave function.
+- [01:11:05,410 - 01:11:07,970] Let's call it psi A tilde.
+- [01:11:08,890 - 01:11:10,770] Tilde now means it's orthogonal
+- [01:11:10,770 - 01:11:13,750] to the original Alice's vector.
+- [01:11:14,790 - 01:11:16,370] Now what is this inner product?
+- [01:11:18,910 - 01:11:19,550] Zero,
+- [01:11:19,550 - 01:11:19,910] right?
+- [01:11:21,450 - 01:11:24,530] So we find out that rho,
+- [01:11:24,530 - 01:11:28,410] rho on psi twiddle is zero.
+- [01:11:29,350 - 01:11:31,070] That means that any vector
+- [01:11:31,070 - 01:11:33,230] perpendicular to Alice's vector
+- [01:11:34,170 - 01:11:36,510] is an eigenvector with eigenvalue zero.
+- [01:11:37,690 - 01:11:41,750] The original state of Alice's spin
+- [01:11:41,750 - 01:11:43,770] is an eigenvector with plus one.
+- [01:11:45,230 - 01:11:45,950] Conclusion,
+- [01:11:46,090 - 01:11:48,570] the density matrix for a pure state
+- [01:11:48,570 - 01:11:52,150] has one and only one nonzero eigenvalue
+- [01:11:52,150 - 01:11:53,830] and it's equal to one.
+- [01:12:00,930 - 01:12:02,610] What if it's not a product state?
+- [01:12:04,310 - 01:12:05,950] If it's not a product state,
+- [01:12:07,150 - 01:12:11,910] then you'll find a collection of eigenvalues.
+- [01:12:12,430 - 01:12:13,310] In fact,
+- [01:12:13,310 - 01:12:14,070] in general,
+- [01:12:14,210 - 01:12:16,250] there will be all of the eigenvalues
+- [01:12:16,250 - 01:12:17,730] in general will be nonzero
+- [01:12:18,430 - 01:12:19,870] of the density matrix.
+- [01:12:20,370 - 01:12:22,810] You can try this out for the
+- [01:12:22,810 - 01:12:22,830] for the,
+- [01:12:24,350 - 01:12:26,230] for the two-spin system.
+- [01:12:26,730 - 01:12:29,830] Work out the density matrix of Alice's spin,
+- [01:12:31,050 - 01:12:32,790] the density matrix of Bob's spin,
+- [01:12:32,970 - 01:12:35,610] and you will find out that they're quite different.
+- [01:12:35,710 - 01:12:37,130] They don't have a single eigenvector
+- [01:12:37,130 - 01:12:37,890] which is nonzero.
+- [01:12:37,970 - 01:12:39,230] They have a pair of eigenvectors
+- [01:12:39,230 - 01:12:39,970] which are nonzero.
+- [01:12:40,710 - 01:12:42,490] So what we learn
+- [01:12:43,370 - 01:12:45,230] is that there's information
+- [01:12:45,230 - 01:12:46,750] in the density matrix,
+- [01:12:46,870 - 01:12:48,750] and in particular in the eigenvalues
+- [01:12:48,750 - 01:12:50,050] of the density matrix,
+- [01:12:50,330 - 01:12:52,450] which tell you whether there's a great deal
+- [01:12:52,450 - 01:12:53,590] of entanglement or not.
+- [01:12:54,430 - 01:12:57,470] The more eigenvectors which are nonzero,
+- [01:12:57,790 - 01:12:59,910] the more entangled it is.
+- [01:13:00,010 - 01:13:01,550] If there's only one eigenvector
+- [01:13:01,550 - 01:13:02,370] which is nonzero,
+- [01:13:03,310 - 01:13:04,970] it's not entangled at all,
+- [01:13:07,370 - 01:13:09,670] and Alice's half of the wave function
+- [01:13:09,670 - 01:13:11,730] is just that eigenvector.
+- [01:13:13,010 - 01:13:14,270] If they're entangled,
+- [01:13:14,430 - 01:13:15,850] then one finds,
+- [01:13:15,990 - 01:13:18,230] and the more they're entangled,
+- [01:13:18,350 - 01:13:20,730] the more eigenvalues you will find.
+- [01:13:20,730 - 01:13:23,530] And the maximum entanglement
+- [01:13:23,530 - 01:13:26,230] is when all the eigenvectors are equal.
+- [01:13:26,830 - 01:13:29,110] When all the eigenvectors are equal,
+- [01:13:29,210 - 01:13:30,090] all eigenvalues,
+- [01:13:30,310 - 01:13:32,270] when all the eigenvalues are equal,
+- [01:13:32,430 - 01:13:34,890] that's maximal entanglement.
+- [01:13:36,070 - 01:13:38,770] Take the singlet state,
+- [01:13:39,110 - 01:13:40,810] work out the density matrix
+- [01:13:40,810 - 01:13:42,690] of Alice's spin,
+- [01:13:42,890 - 01:13:44,930] and what you'll find is that
+- [01:13:44,930 - 01:13:46,390] it has two eigenvalues,
+- [01:13:46,770 - 01:13:48,750] each of which is a half,
+- [01:13:49,430 - 01:13:50,710] equal and nonzero.
+- [01:13:50,730 - 01:13:51,370] And equal to a half.
+- [01:13:53,610 - 01:13:55,050] So that's a test,
+- [01:13:55,210 - 01:13:57,170] that's the way to test whether a system
+- [01:13:57,690 - 01:13:59,330] does or doesn't have entanglement.
+- [01:14:00,090 - 01:14:01,370] Calculate its density matrix,
+- [01:14:02,010 - 01:14:03,810] and study its eigenvalues.
+- [01:14:04,270 - 01:14:07,050] The maximal entanglement is when they're all equal.
+- [01:14:08,510 - 01:14:09,430] When they're equal,
+- [01:14:09,590 - 01:14:10,930] they're equal to one over n.
+- [01:14:12,570 - 01:14:13,650] You can prove that.
+- [01:14:14,030 - 01:14:16,310] Where n is the dimensionality of the space.
+- [01:14:17,150 - 01:14:18,010] One over n.
+- [01:14:20,770 - 01:14:21,130] Okay,
+- [01:14:21,130 - 01:14:24,970] that's entanglement quantified.
+- [01:14:28,490 - 01:14:30,330] It can even be a little more quantitative.
+- [01:14:31,210 - 01:14:32,570] Even be a little more quantitative.
+- [01:14:38,210 - 01:14:38,570] No,
+- [01:14:38,570 - 01:14:39,530] let's not do that now.
+- [01:14:39,770 - 01:14:42,670] I'll write the more quantitative condition in the notes,
+- [01:14:42,810 - 01:14:49,230] and I think we've done enough calculation for the moment.
+- [01:14:52,590 - 01:14:53,210] Let's do it again.
+- [01:14:54,110 - 01:14:54,830] Let's do it again.
+- [01:14:56,470 - 01:14:58,770] Let's very quickly go through the connection
+- [01:14:58,770 - 01:15:00,810] between measurement and entanglement.
+- [01:15:00,950 - 01:15:02,260] There's a deep connection
+- [01:15:02,260 - 01:15:03,570] between measurement and entanglement.
+- [01:15:04,570 - 01:15:05,190] Basically,
+- [01:15:05,190 - 01:15:08,350] measurement is the process of entangling,
+- [01:15:08,430 - 01:15:10,510] of starting with a product state,
+- [01:15:10,670 - 01:15:11,990] a product state of what and what?
+- [01:15:12,230 - 01:15:15,650] A product state of a system and the apparatus.
+- [01:15:16,690 - 01:15:19,810] The apparatus is in a definite state to begin with,
+- [01:15:19,810 - 01:15:21,670] and the system is in a definite state.
+- [01:15:22,070 - 01:15:23,950] What state is the apparatus in?
+- [01:15:24,410 - 01:15:24,930] Well,
+- [01:15:24,930 - 01:15:26,740] the apparatus might be something
+- [01:15:26,740 - 01:15:28,550] which detects something or other,
+- [01:15:28,650 - 01:15:29,990] and if it's not detecting,
+- [01:15:30,150 - 01:15:31,890] you might put it in some neutral state.
+- [01:15:32,370 - 01:15:33,530] Some neutral state,
+- [01:15:33,530 - 01:15:34,730] which is the starting state,
+- [01:15:34,850 - 01:15:36,630] the undetected state,
+- [01:15:36,850 - 01:15:38,150] the neutral state of the apparatus.
+- [01:15:38,650 - 01:15:41,890] And now you bring the system that you're interested in
+- [01:15:41,890 - 01:15:43,510] right up to the apparatus.
+- [01:15:43,910 - 01:15:45,630] It does something to the apparatus.
+- [01:15:45,930 - 01:15:47,610] Something happens to the system itself,
+- [01:15:47,730 - 01:15:49,490] and what's left over,
+- [01:15:49,810 - 01:15:51,970] is an entangled state between the two of them.
+- [01:15:52,110 - 01:15:53,090] So I'll give you an example.
+- [01:15:53,750 - 01:15:55,450] I'm going to think of the apparatus
+- [01:15:55,450 - 01:15:58,670] as a very simple system with only two states.
+- [01:16:02,350 - 01:16:04,470] Let me find my notes here.
+- [01:16:12,630 - 01:16:13,090] Yeah,
+- [01:16:13,090 - 01:16:14,470] my system is a spin,
+- [01:16:15,150 - 01:16:18,510] and my apparatus also happens to have only two states.
+- [01:16:18,510 - 01:16:19,580] You can think of it
+- [01:16:19,580 - 01:16:20,650] as another spin if you like.
+- [01:16:21,330 - 01:16:22,030] In fact,
+- [01:16:22,030 - 01:16:23,530] it could be Alice's and Bob's,
+- [01:16:23,989 - 01:16:25,579] but you can also think of
+- [01:16:25,579 - 01:16:27,170] it as a more complex system.
+- [01:16:29,370 - 01:16:30,490] But for simplicity,
+- [01:16:30,490 - 01:16:31,730] it only has two states.
+- [01:16:35,030 - 01:16:35,950] Here's the apparatus,
+- [01:16:37,590 - 01:16:39,070] and it has only two states,
+- [01:16:39,070 - 01:16:39,350] plus,
+- [01:16:39,350 - 01:16:40,110] let's say,
+- [01:16:40,110 - 01:16:41,230] zero and one now.
+- [01:16:42,249 - 01:16:45,850] Zero is the state before the apparatus is switched on.
+- [01:16:45,990 - 01:16:46,230] Well,
+- [01:16:46,230 - 01:16:47,170] when it's switched on.
+- [01:16:47,170 - 01:16:49,530] When it's switched on and it's not detected anything,
+- [01:16:49,830 - 01:16:52,150] it always starts out in the state zero.
+- [01:16:52,370 - 01:16:53,970] If it's not in the state zero,
+- [01:16:54,070 - 01:16:55,350] give it a shove and make it,
+- [01:16:55,350 - 01:16:56,630] put it into the state zero.
+- [01:16:56,730 - 01:16:57,030] Otherwise,
+- [01:16:57,030 - 01:16:57,550] it's not,
+- [01:16:57,550 - 01:16:58,570] otherwise,
+- [01:17:00,209 - 01:17:00,830] you know,
+- [01:17:00,830 - 01:17:03,150] you have to start your apparatus in some known state.
+- [01:17:03,710 - 01:17:04,150] Otherwise,
+- [01:17:04,150 - 01:17:05,450] you're not going to be able to do a measurement.
+- [01:17:06,309 - 01:17:06,749] So,
+- [01:17:06,749 - 01:17:07,750] zero or one,
+- [01:17:07,750 - 01:17:08,990] but it starts out zero.
+- [01:17:09,970 - 01:17:12,630] And we have our spin.
+- [01:17:12,950 - 01:17:13,750] Here's a spin,
+- [01:17:13,750 - 01:17:15,410] and we're going to do a measurement on it.
+- [01:17:17,330 - 01:17:19,870] Supposing the spin is in the up state,
+- [01:17:21,530 - 01:17:22,810] and the apparatus,
+- [01:17:22,810 - 01:17:23,390] of course,
+- [01:17:23,390 - 01:17:25,050] begins in the zero state.
+- [01:17:25,330 - 01:17:25,590] So,
+- [01:17:25,590 - 01:17:29,130] we'll represent that by a combined ket vector.
+- [01:17:29,610 - 01:17:32,850] A combined ket vector is in the tensor product
+- [01:17:33,390 - 01:17:36,750] of the spin Hilbert space and the detector Hilbert space.
+- [01:17:38,410 - 01:17:39,970] Up and zero.
+- [01:17:40,850 - 01:17:44,290] If the spin comes in to begin with down,
+- [01:17:45,810 - 01:17:47,330] then you start out in the
+- [01:17:47,330 - 01:17:48,850] space in the state down zero.
+- [01:17:51,390 - 01:17:51,950] Why?
+- [01:17:51,950 - 01:17:53,900] Because you start out with
+- [01:17:53,900 - 01:17:55,850] the detector in the neutral state.
+- [01:17:57,630 - 01:17:58,190] Now,
+- [01:17:58,190 - 01:18:00,010] I'm not going to tell you in detail
+- [01:18:00,010 - 01:18:04,410] what the interaction is between the detector and the spin.
+- [01:18:04,850 - 01:18:08,950] That could involve magnetic fields and other kinds of things
+- [01:18:08,950 - 01:18:11,650] causing an influence between the detector.
+- [01:18:11,850 - 01:18:13,410] But I am going to tell
+- [01:18:13,410 - 01:18:14,970] you that if you bring the spin
+- [01:18:15,410 - 01:18:17,250] into the detector and then take
+- [01:18:17,250 - 01:18:19,090] the spin out of the detector,
+- [01:18:19,410 - 01:18:23,030] I will tell you what state is left over.
+- [01:18:23,490 - 01:18:24,010] So,
+- [01:18:24,010 - 01:18:24,750] in particular,
+- [01:18:24,750 - 01:18:26,470] and I'm making this up,
+- [01:18:26,470 - 01:18:26,850] of course,
+- [01:18:26,930 - 01:18:29,700] I'm making up a rule
+- [01:18:29,700 - 01:18:32,470] which would be a good detector.
+- [01:18:32,630 - 01:18:33,890] Which would be a good detector.
+- [01:18:36,070 - 01:18:36,590] Namely,
+- [01:18:36,590 - 01:18:37,790] if the spin,
+- [01:18:37,790 - 01:18:39,650] if the system starts,
+- [01:18:39,670 - 01:18:42,910] if the combined system starts in the state U zero,
+- [01:18:42,910 - 01:18:46,970] then the detector feels a spin
+- [01:18:46,970 - 01:18:51,030] and it jumps to state one.
+- [01:18:51,750 - 01:18:54,530] It goes to state U one.
+- [01:18:55,710 - 01:18:57,230] Nothing happens to the spin.
+- [01:18:58,890 - 01:19:01,030] It just activates the detector.
+- [01:19:01,850 - 01:19:03,150] On the other hand,
+- [01:19:03,150 - 01:19:04,350] if the spin is down,
+- [01:19:04,490 - 01:19:06,310] it doesn't activate the detector.
+- [01:19:06,770 - 01:19:07,790] That's my rule.
+- [01:19:08,150 - 01:19:10,890] So this goes to down one.
+- [01:19:11,850 - 01:19:12,510] No,
+- [01:19:12,510 - 01:19:12,890] down one.
+- [01:19:12,910 - 01:19:13,130] Down zero.
+- [01:19:13,750 - 01:19:14,850] Down zero.
+- [01:19:17,810 - 01:19:20,790] And that's a very good detector of upness and downness.
+- [01:19:21,710 - 01:19:23,370] But now let's start with
+- [01:19:23,370 - 01:19:25,030] a superposition of up and down.
+- [01:19:25,470 - 01:19:30,600] Let's take alpha up times
+- [01:19:30,600 - 01:19:35,730] up plus alpha down times down.
+- [01:19:36,250 - 01:19:37,830] Somebody now brought us a
+- [01:19:37,830 - 01:19:39,410] spin in a superposition of states,
+- [01:19:39,410 - 01:19:40,670] in a general quantum state.
+- [01:19:40,670 - 01:19:43,610] But of course the detector starts out zero.
+- [01:19:47,110 - 01:19:48,630] So that's the starting state.
+- [01:19:50,090 - 01:19:52,830] What happens after the detector acts?
+- [01:19:54,770 - 01:19:55,330] Well,
+- [01:19:55,330 - 01:19:57,529] if the state is U zero,
+- [01:19:57,529 - 01:19:58,770] it goes to U one.
+- [01:19:59,029 - 01:20:01,929] So that means it goes to
+- [01:20:01,929 - 01:20:04,830] alpha sub U times U one.
+- [01:20:06,870 - 01:20:08,630] Plus alpha sub down.
+- [01:20:13,770 - 01:20:14,890] Down zero.
+- [01:20:19,270 - 01:20:21,989] This all of a sudden has become an entangled state.
+- [01:20:22,509 - 01:20:23,989] It's an entangled state.
+- [01:20:24,690 - 01:20:25,770] If it's up,
+- [01:20:25,770 - 01:20:27,410] if the spin is up,
+- [01:20:27,410 - 01:20:28,529] the detector is up.
+- [01:20:28,610 - 01:20:29,610] The detector is one.
+- [01:20:29,930 - 01:20:31,190] If the spin is down,
+- [01:20:31,190 - 01:20:33,790] the detector is zero.
+- [01:20:34,350 - 01:20:36,750] That is an entangled state.
+- [01:20:36,910 - 01:20:38,350] Why is it an entangled state?
+- [01:20:38,630 - 01:20:41,469] It's an entangled state because by looking at the detector,
+- [01:20:41,630 - 01:20:43,450] you can tell what the spin is doing.
+- [01:20:43,830 - 01:20:44,550] In fact,
+- [01:20:44,550 - 01:20:45,550] that's what a measurement is.
+- [01:20:45,770 - 01:20:47,840] A measurement is an interaction
+- [01:20:47,840 - 01:20:49,910] between a system and an apparatus
+- [01:20:49,910 - 01:20:53,390] that leaves the apparatus in
+- [01:20:53,390 - 01:20:56,870] a state that depends on the,
+- [01:20:56,970 - 01:20:59,810] whatever it is that it's measuring about the system.
+- [01:21:00,690 - 01:21:02,130] So from one point of view,
+- [01:21:02,130 - 01:21:02,890] you can just say,
+- [01:21:02,970 - 01:21:03,290] well look,
+- [01:21:03,290 - 01:21:05,710] this is exactly what I knew a measurement always was.
+- [01:21:07,710 - 01:21:08,530] It just,
+- [01:21:08,530 - 01:21:08,610] it's a constant.
+- [01:21:08,630 - 01:21:10,900] It's just a process that
+- [01:21:10,900 - 01:21:13,170] leaves a record on the apparatus
+- [01:21:13,170 - 01:21:16,770] of what the initial state was of the spin.
+- [01:21:17,370 - 01:21:18,890] But from another point of view,
+- [01:21:19,170 - 01:21:22,330] it's the physics of a combined system,
+- [01:21:22,550 - 01:21:25,570] the combined system being the spin and the apparatus,
+- [01:21:25,930 - 01:21:28,890] which leaves them in a highly entangled state.
+- [01:21:29,370 - 01:21:33,550] So entangled that by looking at the detector,
+- [01:21:33,850 - 01:21:35,730] you can tell what the spin is.
+- [01:21:37,010 - 01:21:40,270] So entanglement and measurement are really the same thing.
+- [01:21:41,690 - 01:21:42,730] And in fact,
+- [01:21:42,730 - 01:21:43,790] to measure a spin,
+- [01:21:43,790 - 01:21:45,750] you really only need another spin.
+- [01:21:47,470 - 01:21:48,030] This,
+- [01:21:48,030 - 01:21:50,230] the detector here could just be a spin,
+- [01:21:50,370 - 01:21:52,710] and one and zero could be up and down.
+- [01:21:53,450 - 01:21:56,110] So we had this kind of concoction here,
+- [01:21:57,110 - 01:21:58,970] where exactly this happened.
+- [01:21:59,070 - 01:22:01,040] It would take only one spin
+- [01:22:01,040 - 01:22:03,010] to be a detector or an apparatus
+- [01:22:03,010 - 01:22:05,090] which could measure another spin.
+- [01:22:05,890 - 01:22:06,970] But in general,
+- [01:22:06,970 - 01:22:12,470] this is the nature of measurement
+- [01:22:13,130 - 01:22:16,030] that it entangles systems together.
+- [01:22:16,350 - 01:22:19,150] It entangles in particular apparatus with system.
+- [01:22:29,650 - 01:22:31,050] Is that clear?
+- [01:22:32,050 - 01:22:33,290] It should be very clear.
+- [01:22:33,450 - 01:22:33,870] And that's all.
+- [01:22:33,870 - 01:22:35,630] That's one way of thinking about measurement.
+- [01:22:35,750 - 01:22:38,590] In this language in which you think of the system
+- [01:22:38,590 - 01:22:39,590] and the apparatus together,
+- [01:22:39,850 - 01:22:42,550] you never speak about collapse of the wave function.
+- [01:22:43,010 - 01:22:45,850] You speak about the development of entanglement.
+- [01:22:46,150 - 01:22:48,310] If you don't want to
+- [01:22:48,310 - 01:22:50,470] include the apparatus into your system,
+- [01:22:50,610 - 01:22:53,120] then the only thing to say
+- [01:22:53,120 - 01:22:55,630] is that after the experiment is done,
+- [01:22:55,850 - 01:22:58,450] the system is either up or down,
+- [01:22:58,570 - 01:23:01,190] and which one do you pick?
+- [01:23:01,370 - 01:23:02,810] You pick the one that you record.
+- [01:23:02,810 - 01:23:04,230] But the one that you record
+- [01:23:04,230 - 01:23:05,650] is the one recorded by the apparatus.
+- [01:23:06,170 - 01:23:09,550] So thinking about just the system by itself,
+- [01:23:09,890 - 01:23:11,470] you have to have this
+- [01:23:11,470 - 01:23:13,050] rule that the wave function collapses.
+- [01:23:13,490 - 01:23:15,630] Thinking about the system plus apparatus,
+- [01:23:15,950 - 01:23:18,060] the same physics is described
+- [01:23:18,060 - 01:23:20,170] by the development of entanglement
+- [01:23:20,170 - 01:23:21,690] between the system and apparatus.
+- [01:23:23,690 - 01:23:24,990] So in that case,
+- [01:23:24,990 - 01:23:28,090] for the mixed state,
+- [01:23:28,090 - 01:23:28,910] the monotate,
+- [01:23:29,090 - 01:23:31,510] what do you see on the meter of your apparatus,
+- [01:23:31,510 - 01:23:32,650] the one and the zero?
+- [01:23:34,350 - 01:23:34,870] Okay,
+- [01:23:34,870 - 01:23:35,450] the apparatus...
+- [01:23:35,450 - 01:23:38,910] Now you are another detector.
+- [01:23:39,410 - 01:23:42,090] This is the hierarchy of detection,
+- [01:23:43,070 - 01:23:44,950] or the hierarchy of measurement.
+- [01:23:45,930 - 01:23:46,770] Here's the spin.
+- [01:23:47,910 - 01:23:48,910] Here's the apparatus,
+- [01:23:48,910 - 01:23:49,950] but we're not finished.
+- [01:23:50,110 - 01:23:53,650] We still have to look at the apparatus.
+- [01:23:54,150 - 01:23:56,330] We haven't gotten anywhere until we look at the apparatus,
+- [01:23:56,330 - 01:23:56,870] right?
+- [01:23:57,490 - 01:23:58,270] All right,
+- [01:23:58,270 - 01:23:58,530] well,
+- [01:23:58,530 - 01:23:59,410] what's going to happen?
+- [01:23:59,810 - 01:24:00,330] Again,
+- [01:24:00,330 - 01:24:01,450] we're going to have to say,
+- [01:24:01,510 - 01:24:03,130] when we look at the apparatus,
+- [01:24:03,570 - 01:24:06,230] we wind up collapsing the wave function
+- [01:24:06,230 - 01:24:09,690] to one of these two pieces of the entangled state.
+- [01:24:10,190 - 01:24:15,590] Or we can say include the eyeball into the system.
+- [01:24:15,810 - 01:24:17,030] In that case,
+- [01:24:17,030 - 01:24:19,530] we should have included another system here,
+- [01:24:19,730 - 01:24:20,690] the eyeball,
+- [01:24:20,690 - 01:24:22,690] and the eyeball...
+- [01:24:22,690 - 01:24:23,550] I don't know,
+- [01:24:23,550 - 01:24:24,350] how did it start?
+- [01:24:24,590 - 01:24:25,630] It started...
+- [01:24:32,710 - 01:24:34,790] It also has two states.
+- [01:24:35,190 - 01:24:38,970] The two states correspond to the two possible answers
+- [01:24:38,970 - 01:24:41,190] that the brain up there...
+- [01:24:41,190 - 01:24:42,410] There's also a brain up here.
+- [01:24:45,390 - 01:24:46,830] Two states of the brain.
+- [01:24:47,190 - 01:24:48,730] One state of the brain says,
+- [01:24:48,870 - 01:24:52,610] I saw the apparatus with a zero.
+- [01:24:52,890 - 01:24:54,750] The other state of the brain says,
+- [01:24:54,910 - 01:24:57,030] I saw the apparatus with a one.
+- [01:24:58,230 - 01:25:00,930] If we want to include the observer,
+- [01:25:01,510 - 01:25:02,190] as well as the apparatus,
+- [01:25:02,470 - 01:25:04,370] we have to include another factor here.
+- [01:25:05,450 - 01:25:07,240] And that factor has to depend
+- [01:25:07,240 - 01:25:09,030] on the state of the brain.
+- [01:25:09,230 - 01:25:10,230] Let's call it B...
+- [01:25:10,230 - 01:25:11,350] Let's call it B naught.
+- [01:25:12,010 - 01:25:13,370] It starts B naught,
+- [01:25:13,590 - 01:25:16,450] which is the brain before it has looked at anything.
+- [01:25:17,410 - 01:25:20,970] And then it goes to B1 over here,
+- [01:25:21,010 - 01:25:22,350] or B naught over here.
+- [01:25:23,570 - 01:25:26,510] It's now become a system which is entangled
+- [01:25:26,510 - 01:25:28,450] with the eye and brain.
+- [01:25:30,030 - 01:25:30,830] You can say,
+- [01:25:30,830 - 01:25:31,410] wait a minute.
+- [01:25:31,510 - 01:25:33,810] We now have this entangled state.
+- [01:25:34,050 - 01:25:36,210] We've described it all by the quantum mechanics
+- [01:25:36,210 - 01:25:40,050] of the entanglement between spin and apparatus,
+- [01:25:40,310 - 01:25:42,230] and then later on between apparatus,
+- [01:25:42,230 - 01:25:42,730] spin,
+- [01:25:42,730 - 01:25:43,870] and eyeball.
+- [01:25:44,190 - 01:25:46,090] It's all been described by quantum mechanics.
+- [01:25:47,390 - 01:25:49,430] But you may not be satisfied.
+- [01:25:49,990 - 01:25:52,170] You may worry about the other fellow
+- [01:25:52,170 - 01:25:53,670] who comes in the room,
+- [01:25:53,670 - 01:25:54,830] takes a look,
+- [01:25:54,870 - 01:25:56,490] or asks you,
+- [01:25:56,490 - 01:25:57,550] what did you see?
+- [01:25:57,710 - 01:25:59,270] So somebody else comes in.
+- [01:26:02,450 - 01:26:03,490] And asks you,
+- [01:26:03,490 - 01:26:03,830] okay,
+- [01:26:03,830 - 01:26:04,390] Charlie,
+- [01:26:04,390 - 01:26:05,270] what did you measure?
+- [01:26:08,050 - 01:26:09,710] And in the process,
+- [01:26:09,710 - 01:26:12,850] collapses the wave function
+- [01:26:12,850 - 01:26:16,810] of the spin apparatus.
+- [01:26:17,650 - 01:26:18,510] What's his name?
+- [01:26:18,590 - 01:26:19,110] Give him a name.
+- [01:26:20,310 - 01:26:20,830] No,
+- [01:26:20,830 - 01:26:21,050] no,
+- [01:26:21,050 - 01:26:21,170] no.
+- [01:26:21,210 - 01:26:21,490] Charlie,
+- [01:26:21,490 - 01:26:22,330] this is Charlie.
+- [01:26:22,470 - 01:26:23,430] He comes in afterwards.
+- [01:26:23,930 - 01:26:24,450] Wigner.
+- [01:26:25,690 - 01:26:26,210] Wiggy.
+- [01:26:28,190 - 01:26:28,710] Yeah.
+- [01:26:28,830 - 01:26:29,510] This is Wigner.
+- [01:26:29,590 - 01:26:30,850] This is Schrodinger,
+- [01:26:30,850 - 01:26:31,030] right?
+- [01:26:32,230 - 01:26:32,930] That's Wigner.
+- [01:26:33,030 - 01:26:33,750] So Schrodinger.
+- [01:26:35,010 - 01:26:37,470] And I don't know.
+- [01:26:37,510 - 01:26:38,650] Which one of these has ears?
+- [01:26:41,210 - 01:26:42,350] This is the atom.
+- [01:26:42,690 - 01:26:43,810] This is the atom.
+- [01:26:44,130 - 01:26:44,950] The cat,
+- [01:26:44,950 - 01:26:47,050] he doesn't look at the atom,
+- [01:26:47,210 - 01:26:48,190] but he gets hit.
+- [01:26:48,350 - 01:26:49,210] Something happens.
+- [01:26:49,230 - 01:26:50,810] Something happens to him when the atom.
+- [01:26:51,050 - 01:26:52,330] So he's the detector.
+- [01:26:53,690 - 01:26:55,310] The cat is the detector.
+- [01:26:57,870 - 01:26:58,350] Right?
+- [01:26:58,750 - 01:26:59,850] Here's Schrodinger,
+- [01:26:59,850 - 01:27:01,030] who looks into the box,
+- [01:27:01,030 - 01:27:01,810] and here's Wigner,
+- [01:27:01,810 - 01:27:02,950] who looks at Schrodinger.
+- [01:27:03,410 - 01:27:05,150] And there's a hierarchy here.
+- [01:27:05,570 - 01:27:06,570] The hierarchy,
+- [01:27:06,570 - 01:27:09,650] where you decide to break the hierarchy,
+- [01:27:09,950 - 01:27:11,670] where you decide to break the hierarchy,
+- [01:27:13,490 - 01:27:15,750] determines at what stage you
+- [01:27:15,750 - 01:27:18,010] will say the wave function collapsed.
+- [01:27:19,770 - 01:27:20,650] If you like.
+- [01:27:23,550 - 01:27:25,330] I suppose at some stage you'll
+- [01:27:25,330 - 01:27:27,110] have to say the wave function collapsed,
+- [01:27:27,990 - 01:27:30,150] or when the last person looked at it,
+- [01:27:30,150 - 01:27:31,760] but you can always include
+- [01:27:31,760 - 01:27:33,370] that last person into the system,
+- [01:27:33,570 - 01:27:35,470] and then no collapse happens.
+- [01:27:35,870 - 01:27:37,600] But then in order to make
+- [01:27:37,600 - 01:27:39,330] sense out of the whole thing,
+- [01:27:39,490 - 01:27:40,250] again,
+- [01:27:40,250 - 01:27:42,510] you have to imagine some other person.
+- [01:27:42,750 - 01:27:46,390] So you always have to imagine a hierarchy of observation.
+- [01:27:47,830 - 01:27:49,950] And there is such a hierarchy of observation.
+- [01:27:50,410 - 01:27:53,570] The world is built like an onion.
+- [01:27:54,590 - 01:27:55,670] Things inside,
+- [01:27:55,670 - 01:27:56,870] next thing out,
+- [01:27:56,870 - 01:27:57,650] next thing out,
+- [01:27:57,650 - 01:27:58,290] next thing out.
+- [01:27:58,490 - 01:28:00,130] And each thing gets to a point.
+- [01:28:00,150 - 01:28:02,790] And you observe what's in the inside of it.
+- [01:28:04,410 - 01:28:07,610] What is the process whereby
+- [01:28:07,610 - 01:28:10,810] we move into the classical world
+- [01:28:10,810 - 01:28:15,110] and one of those people actually sees the definite value
+- [01:28:15,110 - 01:28:16,030] instead of the superposed?
+- [01:28:18,110 - 01:28:18,710] Well,
+- [01:28:18,710 - 01:28:19,590] I don't know.
+- [01:28:23,790 - 01:28:25,990] I don't think there is any sharp line.
+- [01:28:26,230 - 01:28:27,910] I don't think there is any sharp line.
+- [01:28:27,910 - 01:28:32,610] We tend to describe big
+- [01:28:32,610 - 01:28:37,310] systems as having little uncertainty.
+- [01:28:41,030 - 01:28:45,430] But I'm not sure that anything really different happens
+- [01:28:47,329 - 01:28:52,290] when an electron looks at another electron
+- [01:28:52,910 - 01:28:54,870] or when a cat looks at an electron.
+- [01:28:55,669 - 01:28:57,890] I think the physics or the mathematical science
+- [01:28:57,910 - 01:28:58,350] of the physical description,
+- [01:28:58,350 - 01:28:59,070] I think,
+- [01:28:59,070 - 01:29:00,390] is the same description.
+- [01:29:01,730 - 01:29:03,730] Or at least if we
+- [01:29:03,730 - 01:29:05,730] want to say something special happened
+- [01:29:05,730 - 01:29:07,080] when the cat looked that's
+- [01:29:07,080 - 01:29:08,430] not well described by quantum mechanics,
+- [01:29:08,570 - 01:29:10,690] we have to introduce something about cats
+- [01:29:12,470 - 01:29:14,970] that isn't contained within quantum mechanics.
+- [01:29:15,130 - 01:29:15,610] And personally,
+- [01:29:15,610 - 01:29:17,510] I don't believe there is anything about cats
+- [01:29:17,510 - 01:29:19,430] which is not contained within quantum mechanics.
+- [01:29:19,630 - 01:29:21,490] So I'm happy with this description.
+- [01:29:22,090 - 01:29:23,650] I'm happy with this description.
+- [01:29:24,030 - 01:29:27,090] What makes me happy is that it doesn't matter
+- [01:29:27,090 - 01:29:28,630] where you draw the line.
+- [01:29:29,250 - 01:29:31,360] You can draw the line in
+- [01:29:31,360 - 01:29:33,470] one place or the next place
+- [01:29:33,470 - 01:29:35,990] or the next place and the results will be consistent.
+- [01:29:36,830 - 01:29:39,530] If the cat saw the spin-up,
+- [01:29:40,330 - 01:29:43,110] Schrödinger will see the cat having seen the spin-up.
+- [01:29:43,470 - 01:29:46,890] And Wigner will have seen Schrödinger having seen the cat
+- [01:29:46,890 - 01:29:48,110] having seen the spin-up.
+- [01:29:48,990 - 01:29:50,790] That's what the nature of the state is.
+- [01:29:51,010 - 01:29:53,230] So that I find satisfying,
+- [01:29:53,610 - 01:29:56,490] that you don't ever have to say
+- [01:29:56,490 - 01:29:57,930] where you draw the line.
+- [01:29:58,590 - 01:30:00,250] And until you draw the line,
+- [01:30:00,390 - 01:30:01,320] you can put the line
+- [01:30:01,320 - 01:30:02,250] as far out as you like,
+- [01:30:02,450 - 01:30:03,830] until you draw the line,
+- [01:30:04,030 - 01:30:06,090] everything is described by the
+- [01:30:06,090 - 01:30:08,150] rules of conventional quantum mechanics.
+- [01:30:09,330 - 01:30:10,890] So it's like if you're the cat,
+- [01:30:10,890 - 01:30:12,170] you definitely draw the line.
+- [01:30:12,850 - 01:30:13,230] Well,
+- [01:30:13,230 - 01:30:13,530] okay.
+- [01:30:13,530 - 01:30:14,250] Yeah.
+- [01:30:14,430 - 01:30:14,830] Yeah.
+- [01:30:16,710 - 01:30:17,190] Look,
+- [01:30:17,190 - 01:30:18,630] I think at some stage,
+- [01:30:18,710 - 01:30:20,180] you have to decide for
+- [01:30:20,180 - 01:30:21,650] yourself how you think about this.
+- [01:30:21,770 - 01:30:24,120] I'm not going to try to
+- [01:30:24,120 - 01:30:26,470] push my interpretation of quantum mechanics
+- [01:30:26,490 - 01:30:27,230] on you,
+- [01:30:27,230 - 01:30:30,730] particularly since
+- [01:30:33,110 - 01:30:35,890] I don't know what to say about it except this.
+- [01:30:37,110 - 01:30:39,330] This seems to disturb a lot of people,
+- [01:30:39,430 - 01:30:42,490] this whole business of systems
+- [01:30:43,510 - 01:30:45,050] for which you can know
+- [01:30:45,050 - 01:30:46,590] as much as can be known
+- [01:30:46,590 - 01:30:48,630] and know nothing about the parts of the system.
+- [01:30:48,750 - 01:30:50,010] This seems to disturb people.
+- [01:30:51,130 - 01:30:52,250] Is it disturbing?
+- [01:30:53,290 - 01:30:54,410] You know,
+- [01:30:54,410 - 01:30:56,170] when Feynman was asked,
+- [01:30:56,490 - 01:30:57,960] whether he thought there was
+- [01:30:57,960 - 01:30:59,430] a problem about quantum mechanics,
+- [01:30:59,650 - 01:31:01,970] his answer was the problem was so big
+- [01:31:01,970 - 01:31:03,530] that he couldn't tell if there was a problem.
+- [01:31:04,170 - 01:31:05,610] He knew how to use it.
+- [01:31:05,710 - 01:31:07,770] He knew how to predict with it.
+- [01:31:07,930 - 01:31:10,270] He could predict anything that he wanted to predict
+- [01:31:10,270 - 01:31:12,110] that had an answer.
+- [01:31:12,790 - 01:31:14,970] And he did not expect...
+- [01:31:14,970 - 01:31:16,950] I'm actually speaking about myself now,
+- [01:31:17,090 - 01:31:17,470] but...
+- [01:31:17,470 - 01:31:19,390] and for him.
+- [01:31:19,490 - 01:31:21,260] He did not expect that
+- [01:31:21,260 - 01:31:23,030] quantum mechanics would ever go wrong,
+- [01:31:23,230 - 01:31:25,910] that the rules would always be satisfied,
+- [01:31:25,910 - 01:31:28,610] but is there a problem
+- [01:31:28,610 - 01:31:31,310] because of this sense of unreality
+- [01:31:31,310 - 01:31:34,290] about where actual objective...
+- [01:31:34,290 - 01:31:36,550] where objectively does something happen?
+- [01:31:36,830 - 01:31:40,470] Does the objective death of the cat happen
+- [01:31:40,470 - 01:31:42,590] when the cat looks at the atom,
+- [01:31:42,750 - 01:31:44,630] or is it when Schrödinger looks at the cat,
+- [01:31:44,830 - 01:31:47,070] or is it when Wigner looks at Schrödinger?
+- [01:31:47,090 - 01:31:49,650] Where does the objective phenomenon happen?
+- [01:31:50,050 - 01:31:54,470] And maybe we're just playing with words there.
+- [01:31:55,290 - 01:31:55,890] Maybe.
+- [01:31:55,910 - 01:31:57,070] Maybe we're playing with words,
+- [01:31:57,190 - 01:31:58,650] trying to use words in
+- [01:31:58,650 - 01:32:00,110] a context where they don't apply,
+- [01:32:00,290 - 01:32:01,710] but you have to decide that yourself.
+- [01:32:02,370 - 01:32:04,310] My goal is to give you the tools
+- [01:32:04,310 - 01:32:06,030] to be able to ask the question,
+- [01:32:07,129 - 01:32:08,899] and I doubt seriously that
+- [01:32:08,899 - 01:32:10,670] you're going to answer the question
+- [01:32:10,670 - 01:32:11,430] even for yourself.
+- [01:32:11,730 - 01:32:16,270] You'll probably come away feeling as uncomfortable about it,
+- [01:32:16,290 - 01:32:17,490] but you'll know why you're uncomfortable.
+- [01:32:18,050 - 01:32:20,730] You'll know what it is with some precision
+- [01:32:20,730 - 01:32:22,790] that's making you uncomfortable about it.
+- [01:32:22,850 - 01:32:23,350] At least I hope.
+- [01:32:23,450 - 01:32:24,690] At least that's my goal.
+- [01:32:26,050 - 01:32:26,790] All right.
+- [01:32:28,290 - 01:32:32,010] In the equation you put up there with the i,
+- [01:32:32,350 - 01:32:34,790] forget about Schrödinger,
+- [01:32:34,790 - 01:32:35,970] just the i,
+- [01:32:36,490 - 01:32:38,230] the equation you wrote,
+- [01:32:38,310 - 01:32:41,160] that implies there's a correlation of
+- [01:32:41,160 - 01:32:44,010] one between the state of the system,
+- [01:32:44,130 - 01:32:44,570] the apparatus,
+- [01:32:44,570 - 01:32:46,530] the composite state,
+- [01:32:46,530 - 01:32:48,410] and the state of the i.
+- [01:32:49,070 - 01:32:49,210] Yeah.
+- [01:32:49,310 - 01:32:50,850] So would it...
+- [01:32:50,850 - 01:32:51,270] In other words,
+- [01:32:51,270 - 01:32:52,790] the i has become entangled
+- [01:32:52,790 - 01:32:53,910] with the rest of the system.
+- [01:32:53,910 - 01:32:56,370] Now suppose your vision wasn't so good.
+- [01:32:57,850 - 01:32:59,810] That's what you call a weak measurement.
+- [01:33:02,830 - 01:33:03,270] Yeah,
+- [01:33:03,270 - 01:33:03,530] look.
+- [01:33:03,790 - 01:33:04,230] No,
+- [01:33:04,230 - 01:33:04,350] no,
+- [01:33:04,350 - 01:33:04,950] that can happen.
+- [01:33:05,070 - 01:33:08,150] There can be partial entanglement for sure.
+- [01:33:08,690 - 01:33:11,310] I've given you a kind of idealized situation.
+- [01:33:11,670 - 01:33:11,890] Right.
+- [01:33:11,970 - 01:33:12,130] No,
+- [01:33:12,130 - 01:33:12,310] no,
+- [01:33:12,310 - 01:33:12,590] that's...
+- [01:33:13,250 - 01:33:14,370] It's a serious question.
+- [01:33:14,910 - 01:33:15,350] No,
+- [01:33:15,350 - 01:33:16,130] it's a serious question.
+- [01:33:16,270 - 01:33:16,910] People talk...
+- [01:33:17,510 - 01:33:18,150] If your i isn't so good,
+- [01:33:18,210 - 01:33:20,430] you're not quite sure what the apparatus is saying.
+- [01:33:20,710 - 01:33:21,150] Well,
+- [01:33:21,150 - 01:33:21,670] your i...
+- [01:33:21,670 - 01:33:21,910] No,
+- [01:33:21,910 - 01:33:22,150] no,
+- [01:33:22,150 - 01:33:22,630] okay.
+- [01:33:22,630 - 01:33:24,140] There could be several reasons
+- [01:33:24,140 - 01:33:25,650] why your i was no good.
+- [01:33:25,710 - 01:33:26,090] First of all,
+- [01:33:26,090 - 01:33:28,110] it could be that the interaction with the apparatus
+- [01:33:28,110 - 01:33:29,210] was simply too weak,
+- [01:33:29,810 - 01:33:32,390] that there wasn't enough oomph in the interaction.
+- [01:33:32,710 - 01:33:33,750] It wasn't that your i was bad,
+- [01:33:33,910 - 01:33:36,850] it just wasn't enough coupling between the two systems,
+- [01:33:37,030 - 01:33:39,170] and then you only get partial information.
+- [01:33:39,630 - 01:33:41,630] Or it could be that your
+- [01:33:41,630 - 01:33:43,630] i is bad because you have cataracts,
+- [01:33:43,630 - 01:33:44,010] let's say.
+- [01:33:44,690 - 01:33:45,370] All right.
+- [01:33:45,430 - 01:33:46,590] In that case,
+- [01:33:46,590 - 01:33:49,090] the i did a measurement.
+- [01:33:49,690 - 01:33:52,430] It became entangled with the...
+- [01:33:52,630 - 01:33:54,310] with the system completely.
+- [01:33:54,790 - 01:33:57,770] It's just the connection between the...
+- [01:33:59,150 - 01:34:02,280] the stuff in your i
+- [01:34:02,280 - 01:34:05,410] and your brain wasn't good enough
+- [01:34:05,410 - 01:34:07,290] to send the signal back to your brain.
+- [01:34:07,490 - 01:34:09,410] So the correlation happened,
+- [01:34:10,410 - 01:34:13,810] but it was a bit messy.
+- [01:34:14,330 - 01:34:16,970] Is that a detector efficiency problem?
+- [01:34:18,130 - 01:34:20,690] Sometimes it's a detector efficiency problem,
+- [01:34:20,790 - 01:34:22,070] and sometimes it's a problem...
+- [01:34:23,130 - 01:34:23,610] Well,
+- [01:34:23,610 - 01:34:25,470] detector efficiency could have to do
+- [01:34:25,470 - 01:34:27,750] with the strength of interaction with the system,
+- [01:34:27,870 - 01:34:29,300] or it could just be that it's
+- [01:34:29,300 - 01:34:30,730] too hard to get the signal out.
+- [01:34:30,910 - 01:34:33,210] So I'm not sure what detector efficiency really means,
+- [01:34:33,350 - 01:34:34,710] but I could think of several things.
+- [01:34:35,010 - 01:34:36,450] One is the signal is there,
+- [01:34:36,510 - 01:34:38,030] it imprinted itself on the system,
+- [01:34:38,190 - 01:34:40,790] and you personally have a hard time getting it out.
+- [01:34:40,990 - 01:34:44,210] The other is that the interaction was not strong enough
+- [01:34:44,210 - 01:34:46,030] to really establish a
+- [01:34:46,030 - 01:34:47,850] full entanglement between these systems.
+- [01:34:48,170 - 01:34:49,130] Both can happen.
+- [01:34:49,830 - 01:34:52,510] What about a lip reader watching a Dove movie?
+- [01:34:54,270 - 01:34:54,790] Right.
+- [01:34:55,770 - 01:34:57,930] Would it affect our data detector?
+- [01:34:58,210 - 01:35:00,730] You can think of all sorts of variants on this.
+- [01:35:01,530 - 01:35:03,810] Would it affect our data detector?
+- [01:35:04,090 - 01:35:04,330] What's that?
+- [01:35:04,710 - 01:35:06,430] Let's say there was a bad detector in between
+- [01:35:06,430 - 01:35:07,370] that got entangled,
+- [01:35:07,450 - 01:35:09,770] and then I had a perfectly good detector later on.
+- [01:35:09,890 - 01:35:11,490] Would it affect the measurement of that?
+- [01:35:12,370 - 01:35:12,890] Well,
+- [01:35:12,890 - 01:35:13,890] I think this probably...
+- [01:35:13,890 - 01:35:16,170] I guess the weakest link is where you...
+- [01:35:16,170 - 01:35:16,770] Yeah.
+- [01:35:18,790 - 01:35:19,510] All right,
+- [01:35:19,510 - 01:35:20,890] let's talk about locality.
+- [01:35:21,010 - 01:35:21,870] Let's talk about...
+- [01:35:21,870 - 01:35:22,610] Let's talk about...
+- [01:35:22,630 - 01:35:24,110] Let's talk about locality and entanglement,
+- [01:35:24,410 - 01:35:27,370] which is really where people get hung up.
+- [01:35:27,510 - 01:35:27,970] I mean...
+- [01:35:28,630 - 01:35:29,870] And the villain,
+- [01:35:29,870 - 01:35:31,370] the arch-villain here,
+- [01:35:33,470 - 01:35:37,170] who really tangled things badly...
+- [01:35:40,130 - 01:35:41,330] was Einstein.
+- [01:35:43,320 - 01:35:43,670] Einstein,
+- [01:35:43,670 - 01:35:45,590] and not that he asked a question.
+- [01:35:45,750 - 01:35:46,210] Of course,
+- [01:35:46,210 - 01:35:47,470] he asked a wonderful question
+- [01:35:47,470 - 01:35:48,950] about entangled systems,
+- [01:35:49,290 - 01:35:51,750] really our understanding of entanglement
+- [01:35:51,750 - 01:35:54,090] and much of what we think about it
+- [01:35:54,090 - 01:35:55,710] and our curiosity about it
+- [01:35:55,710 - 01:35:58,590] goes back to Einstein's question in 1933,
+- [01:36:01,030 - 01:36:03,950] who was very much puzzled by this idea
+- [01:36:03,950 - 01:36:05,370] that you could have a
+- [01:36:05,370 - 01:36:06,790] system about which you knew everything
+- [01:36:06,790 - 01:36:09,050] and yet you knew nothing about the components of it.
+- [01:36:10,470 - 01:36:14,890] And he wrote a paper simply complaining about it.
+- [01:36:15,030 - 01:36:16,390] I don't know if he
+- [01:36:16,390 - 01:36:17,750] was the first one to notice
+- [01:36:17,750 - 01:36:19,450] the phenomenon of entanglement.
+- [01:36:19,690 - 01:36:20,950] I have a feeling not.
+- [01:36:20,950 - 01:36:23,290] He was the first one
+- [01:36:23,290 - 01:36:25,630] to get really exercised by it
+- [01:36:25,630 - 01:36:27,930] and say something is very peculiar here.
+- [01:36:28,450 - 01:36:31,990] That I find quite okay.
+- [01:36:32,230 - 01:36:34,130] He then used the term...
+- [01:36:34,130 - 01:36:35,690] What was the term again?
+- [01:36:37,330 - 01:36:39,650] Spooky action at a distance.
+- [01:36:40,230 - 01:36:44,050] And that got everybody confused afterwards.
+- [01:36:44,610 - 01:36:46,860] Because Einstein knew exactly what
+- [01:36:46,860 - 01:36:49,110] action at a distance meant
+- [01:36:49,110 - 01:36:50,930] and it didn't matter.
+- [01:36:50,930 - 01:36:54,210] It didn't mean what he meant
+- [01:36:54,210 - 01:36:56,230] when he was using it in this context.
+- [01:36:56,870 - 01:36:59,550] Action at a distance literally means
+- [01:36:59,550 - 01:37:02,630] forces between systems at a distance,
+- [01:37:02,890 - 01:37:05,300] the ability to affect the outcome
+- [01:37:05,300 - 01:37:07,710] of an experiment at one place
+- [01:37:07,710 - 01:37:11,190] by doing something at another place.
+- [01:37:11,690 - 01:37:13,130] Action at a distance,
+- [01:37:13,470 - 01:37:15,630] the Coulomb force between electrons.
+- [01:37:16,589 - 01:37:16,990] Now,
+- [01:37:16,990 - 01:37:17,450] of course,
+- [01:37:17,450 - 01:37:18,410] in the real world
+- [01:37:18,410 - 01:37:19,830] it's not action at a distance.
+- [01:37:20,450 - 01:37:22,370] But in Newton's world,
+- [01:37:22,470 - 01:37:22,610] well,
+- [01:37:22,610 - 01:37:23,850] Newton didn't know about electrons.
+- [01:37:24,030 - 01:37:25,290] Newton knew about gravity.
+- [01:37:25,730 - 01:37:27,070] In Newton's world,
+- [01:37:27,070 - 01:37:28,470] the gravitational interaction
+- [01:37:28,470 - 01:37:30,250] was action at a distance.
+- [01:37:30,690 - 01:37:32,190] And the meaning of that,
+- [01:37:32,190 - 01:37:33,570] from our point of view,
+- [01:37:34,129 - 01:37:36,110] is that if something came along
+- [01:37:36,110 - 01:37:40,610] and gave the sun a sudden shove,
+- [01:37:41,090 - 01:37:43,190] we would know it instantly
+- [01:37:43,190 - 01:37:45,370] for the simple reason that
+- [01:37:45,370 - 01:37:47,450] the orbit of the Earth
+- [01:37:47,450 - 01:37:49,390] would instantly react
+- [01:37:49,390 - 01:37:51,990] to the change in position of the sun.
+- [01:37:52,090 - 01:37:54,030] The force on the Earth would instantly react.
+- [01:37:54,550 - 01:37:57,710] And so every measurement of everything
+- [01:37:57,710 - 01:37:59,170] that you might want to measure
+- [01:37:59,170 - 01:38:01,670] would be to some extent or another
+- [01:38:01,670 - 01:38:05,970] modified by the sudden change
+- [01:38:06,770 - 01:38:08,230] in the orbit of the sun.
+- [01:38:08,310 - 01:38:10,310] That's what action at a distance meant.
+- [01:38:10,690 - 01:38:11,630] The ability,
+- [01:38:11,630 - 01:38:12,470] if you like,
+- [01:38:12,670 - 01:38:14,090] to send a signal.
+- [01:38:14,270 - 01:38:15,510] By shoving the sun,
+- [01:38:15,610 - 01:38:16,910] you're sending a signal to Earth
+- [01:38:16,910 - 01:38:18,490] and you're sending it instantaneously
+- [01:38:18,490 - 01:38:20,110] if there's action at a distance.
+- [01:38:22,650 - 01:38:24,250] Einstein must have known,
+- [01:38:24,350 - 01:38:25,690] I am certain that he knew,
+- [01:38:25,870 - 01:38:28,990] that entanglement did not entail
+- [01:38:28,990 - 01:38:31,570] action at a distance in that sense.
+- [01:38:34,690 - 01:38:35,930] What one can do,
+- [01:38:35,930 - 01:38:37,150] what one can work out,
+- [01:38:38,770 - 01:38:40,230] is supposing you start,
+- [01:38:40,410 - 01:38:43,270] I'll give you something you can try to play with
+- [01:38:43,270 - 01:38:44,330] and see if you can work it out.
+- [01:38:44,870 - 01:38:46,330] Supposing you start with a system,
+- [01:38:46,910 - 01:38:48,470] which is a two-part system,
+- [01:38:48,690 - 01:38:49,870] it has a wave function,
+- [01:38:50,130 - 01:38:51,430] psi of A and B,
+- [01:38:51,590 - 01:38:53,910] and from that system,
+- [01:38:54,270 - 01:38:56,870] you can construct a density matrix,
+- [01:38:56,870 - 01:38:57,750] Alice and Bob,
+- [01:38:58,030 - 01:39:00,150] you can construct a density matrix
+- [01:39:00,150 - 01:39:01,950] rho for Alice.
+- [01:39:03,650 - 01:39:05,910] That density matrix contains
+- [01:39:05,910 - 01:39:07,530] every possible
+- [01:39:10,210 - 01:39:11,650] statistical prediction
+- [01:39:11,650 - 01:39:14,330] that Alice can ever make
+- [01:39:14,910 - 01:39:16,410] for her subsystem A.
+- [01:39:17,030 - 01:39:20,350] Now let's imagine that Alice and Bob
+- [01:39:20,350 - 01:39:21,990] took their subsystems,
+- [01:39:21,990 - 01:39:24,510] Alice went to a distant planet,
+- [01:39:25,450 - 01:39:27,610] Bob stayed in Palo Alto,
+- [01:39:28,850 - 01:39:30,990] and they're very far from one another,
+- [01:39:31,130 - 01:39:32,690] so far that it would take light
+- [01:39:32,690 - 01:39:34,750] four years to get from one place to another.
+- [01:39:36,690 - 01:39:38,290] Bob does an experiment.
+- [01:39:39,210 - 01:39:40,110] That means,
+- [01:39:40,110 - 01:39:40,610] now this is,
+- [01:39:41,470 - 01:39:43,710] this could be an entangled state,
+- [01:39:43,870 - 01:39:45,430] this is not a non-entangled state,
+- [01:39:45,430 - 01:39:48,310] Bob does an experiment,
+- [01:39:48,970 - 01:39:50,970] and that has an effect
+- [01:39:50,970 - 01:39:53,510] on his half of the system here,
+- [01:39:53,670 - 01:39:56,130] but it has no effect whatever
+- [01:39:56,130 - 01:39:58,090] on Alice's density matrix.
+- [01:39:58,410 - 01:39:59,550] Perhaps I can prove that,
+- [01:39:59,590 - 01:40:00,570] I'm not going to prove that tonight.
+- [01:40:01,230 - 01:40:03,350] It's not too hard to prove
+- [01:40:03,350 - 01:40:08,670] that any physically allowable
+- [01:40:09,430 - 01:40:11,070] change in this wave function,
+- [01:40:11,190 - 01:40:14,330] which only involves Bob half of it,
+- [01:40:14,330 - 01:40:16,490] the process of interacting
+- [01:40:16,490 - 01:40:17,770] with some other system,
+- [01:40:17,970 - 01:40:18,890] or whatever it is,
+- [01:40:18,970 - 01:40:20,590] Bob gives his electron a knock,
+- [01:40:20,750 - 01:40:21,750] whatever he does to it,
+- [01:40:22,270 - 01:40:24,150] he will not have any effect
+- [01:40:24,150 - 01:40:26,670] on Alice's density matrix.
+- [01:40:27,350 - 01:40:28,830] That's the way quantum mechanics
+- [01:40:28,830 - 01:40:29,910] is really put together,
+- [01:40:30,690 - 01:40:32,930] and the implication is that
+- [01:40:32,930 - 01:40:35,050] anything that Bob does,
+- [01:40:35,190 - 01:40:35,890] suddenly,
+- [01:40:35,890 - 01:40:38,050] at a fixed instant of time,
+- [01:40:38,790 - 01:40:40,790] will not have any effect
+- [01:40:40,790 - 01:40:42,070] on any prediction,
+- [01:40:42,170 - 01:40:44,310] or the success of any prediction,
+- [01:40:44,330 - 01:40:45,870] it will have no effect
+- [01:40:45,870 - 01:40:47,570] on the statistical probabilities
+- [01:40:48,330 - 01:40:50,630] of Alice measuring anything about A.
+- [01:40:51,010 - 01:40:52,130] It just will not.
+- [01:40:55,890 - 01:40:57,310] So in that sense,
+- [01:40:57,550 - 01:40:59,610] it was impossible for Bob
+- [01:40:59,610 - 01:41:02,610] to send a message to Alice suddenly.
+- [01:41:02,890 - 01:41:03,630] Now of course,
+- [01:41:03,710 - 01:41:04,890] he can do an experiment
+- [01:41:04,890 - 01:41:06,010] on his subsystem,
+- [01:41:07,390 - 01:41:09,310] and after he's done the experiment,
+- [01:41:09,490 - 01:41:10,990] he can then send a telegram
+- [01:41:10,990 - 01:41:12,310] to Alice far away,
+- [01:41:12,310 - 01:41:14,010] in the standard way
+- [01:41:14,010 - 01:41:15,050] that you send messages,
+- [01:41:15,110 - 01:41:16,830] and tell her what the result,
+- [01:41:16,830 - 01:41:17,210] again,
+- [01:41:17,210 - 01:41:19,670] this is an entangled state,
+- [01:41:19,850 - 01:41:20,910] it could be up-down,
+- [01:41:23,150 - 01:41:24,450] minus down-up.
+- [01:41:27,030 - 01:41:30,770] When Bob does a measurement
+- [01:41:30,770 - 01:41:32,150] on his spin,
+- [01:41:32,370 - 01:41:33,590] it has no effect
+- [01:41:33,590 - 01:41:35,110] on Alice's density matrix.
+- [01:41:35,470 - 01:41:37,730] He can then send Alice a message
+- [01:41:37,730 - 01:41:38,110] and say,
+- [01:41:38,110 - 01:41:38,290] look,
+- [01:41:38,290 - 01:41:38,950] I saw down,
+- [01:41:39,310 - 01:41:40,670] and Alice will say,
+- [01:41:40,750 - 01:41:40,910] ah,
+- [01:41:40,910 - 01:41:41,770] yeah,
+- [01:41:41,770 - 01:41:42,290] that's true,
+- [01:41:42,310 - 01:41:43,210] that's because I saw up.
+- [01:41:44,470 - 01:41:45,550] They were correlated.
+- [01:41:45,830 - 01:41:46,730] I thought they were correlated,
+- [01:41:46,790 - 01:41:48,070] and you just confirmed that.
+- [01:41:48,610 - 01:41:51,930] I measured up a few months ago,
+- [01:41:52,130 - 01:41:52,990] and in fact,
+- [01:41:52,990 - 01:41:54,250] I'm now getting your telegram,
+- [01:41:54,370 - 01:41:56,070] and it tells me that you got down,
+- [01:41:57,370 - 01:41:58,950] and that's consistent,
+- [01:41:59,210 - 01:42:00,130] everything is fine.
+- [01:42:00,350 - 01:42:01,810] Nobody sent any message
+- [01:42:01,810 - 01:42:03,150] faster than the speed of light.
+- [01:42:03,770 - 01:42:05,550] The mere fact that when
+- [01:42:07,930 - 01:42:10,130] Bob measures his variable,
+- [01:42:10,290 - 01:42:11,730] he instantly knows something
+- [01:42:11,730 - 01:42:14,990] about Alice's is no source
+- [01:42:14,990 - 01:42:17,670] of anxiety for locality.
+- [01:42:18,710 - 01:42:20,890] This would happen for nickels
+- [01:42:20,890 - 01:42:21,310] and dimes,
+- [01:42:21,390 - 01:42:24,250] for perfectly classical systems.
+- [01:42:24,730 - 01:42:27,250] The peculiarity is different
+- [01:42:27,250 - 01:42:27,610] than that.
+- [01:42:27,690 - 01:42:29,030] The peculiarity has to do
+- [01:42:29,030 - 01:42:30,490] with this idea that you can know
+- [01:42:30,490 - 01:42:31,590] everything about a system
+- [01:42:31,590 - 01:42:32,310] and yet know nothing
+- [01:42:32,310 - 01:42:33,070] about its parts.
+- [01:42:36,670 - 01:42:40,670] What is it then if locality,
+- [01:42:40,670 - 01:42:42,390] the standard physicist definition
+- [01:42:42,390 - 01:42:44,190] of locality is not at risk,
+- [01:42:44,350 - 01:42:47,230] and you can't send signals faster?
+- [01:42:47,350 - 01:42:49,810] What is it that Einstein meant,
+- [01:42:49,930 - 01:42:51,070] and what did Bell mean,
+- [01:42:51,310 - 01:42:52,990] and what did all the other people
+- [01:42:52,990 - 01:42:54,590] who talk about these things mean
+- [01:42:55,410 - 01:42:58,550] when they said entanglement
+- [01:42:58,550 - 01:43:01,510] entails a degree of nonlocality?
+- [01:43:01,650 - 01:43:03,010] So I'll try to explain to you
+- [01:43:03,670 - 01:43:05,130] by imagining a game.
+- [01:43:07,510 - 01:43:08,110] Yeah?
+- [01:43:08,410 - 01:43:09,990] If Bob made a measurement
+- [01:43:09,990 - 01:43:11,050] and Alice did not,
+- [01:43:11,709 - 01:43:13,950] and Bob sent Alice a message
+- [01:43:13,950 - 01:43:14,890] after his measurement,
+- [01:43:15,050 - 01:43:16,710] would that information alone
+- [01:43:16,710 - 01:43:19,370] be enough to change Alice's
+- [01:43:19,370 - 01:43:20,250] density matrix?
+- [01:43:20,970 - 01:43:22,070] Be enough to what?
+- [01:43:22,210 - 01:43:24,470] To change Alice's density matrix.
+- [01:43:24,730 - 01:43:25,570] Oh yeah.
+- [01:43:25,750 - 01:43:27,270] If Alice sends a real,
+- [01:43:27,350 - 01:43:28,870] if Bob sends a real message
+- [01:43:28,870 - 01:43:30,570] and Alice hasn't looked yet,
+- [01:43:31,170 - 01:43:31,770] okay,
+- [01:43:31,770 - 01:43:34,310] so let's say Bob,
+- [01:43:34,490 - 01:43:35,830] Alice has not looked.
+- [01:43:35,970 - 01:43:37,630] She doesn't know anything yet,
+- [01:43:37,770 - 01:43:39,630] and as far as she's concerned,
+- [01:43:39,630 - 01:43:41,870] the density matrix is consistent with that
+- [01:43:41,870 - 01:43:43,690] and basically tells her nothing.
+- [01:43:43,830 - 01:43:44,870] That's a density matrix
+- [01:43:44,870 - 01:43:46,850] which hasn't got very much information in it
+- [01:43:46,850 - 01:43:47,510] about her spin.
+- [01:43:48,350 - 01:43:50,470] And then she gets a telegram from Bob
+- [01:43:50,470 - 01:43:51,290] saying,
+- [01:43:51,290 - 01:43:52,430] my spin was up.
+- [01:43:52,550 - 01:43:54,130] As far as Alice is concerned,
+- [01:43:54,510 - 01:43:56,970] that collapses her density matrix
+- [01:43:56,970 - 01:43:58,510] and tells her her spin is down.
+- [01:43:59,330 - 01:44:00,210] So thereafter,
+- [01:44:01,110 - 01:44:02,950] she will use a density matrix
+- [01:44:02,950 - 01:44:04,430] which says that her spin is down.
+- [01:44:05,310 - 01:44:06,010] So yes,
+- [01:44:06,010 - 01:44:07,790] once a message has had time
+- [01:44:07,790 - 01:44:08,910] to go between them,
+- [01:44:09,630 - 01:44:09,770] yes,
+- [01:44:09,770 - 01:44:11,710] then she will know something
+- [01:44:11,710 - 01:44:12,830] that she didn't know before,
+- [01:44:14,170 - 01:44:16,630] and she will therefore update
+- [01:44:17,430 - 01:44:18,470] her density matrix.
+- [01:44:18,950 - 01:44:21,570] But that will only take place
+- [01:44:21,570 - 01:44:24,330] after there's been sufficient time
+- [01:44:24,330 - 01:44:26,490] for the signal to propagate.
+- [01:44:28,350 - 01:44:28,950] Yeah?
+- [01:44:29,970 - 01:44:31,230] If I understand correctly,
+- [01:44:31,530 - 01:44:33,250] the statements that we're making here
+- [01:44:33,250 - 01:44:35,330] are about expected values
+- [01:44:35,330 - 01:44:37,590] of these disturbance,
+- [01:44:37,590 - 01:44:38,110] right?
+- [01:44:38,270 - 01:44:38,430] Yes.
+- [01:44:38,430 - 01:44:40,310] But when you realize it once,
+- [01:44:40,570 - 01:44:41,910] you're actually not going to get
+- [01:44:41,910 - 01:44:43,630] the expected value you're going to get.
+- [01:44:43,990 - 01:44:46,770] But this also holds for every value,
+- [01:44:46,890 - 01:44:48,230] not just expected values,
+- [01:44:48,230 - 01:44:48,610] right?
+- [01:44:50,670 - 01:44:51,150] No,
+- [01:44:51,150 - 01:44:52,730] expected or expectation values
+- [01:44:52,730 - 01:44:54,070] or whatever you want to call them,
+- [01:44:54,070 - 01:44:54,770] average values,
+- [01:44:55,270 - 01:44:57,030] if you know the average values
+- [01:44:57,030 - 01:44:58,430] of all variables,
+- [01:44:59,090 - 01:44:59,750] you don't need to know all,
+- [01:44:59,810 - 01:45:00,390] let's,
+- [01:45:00,390 - 01:45:00,710] okay.
+- [01:45:01,630 - 01:45:03,610] Supposing we have one variable
+- [01:45:03,610 - 01:45:04,570] that we're interested in.
+- [01:45:04,630 - 01:45:05,750] Let's call it L again.
+- [01:45:06,730 - 01:45:08,410] If we know the average values
+- [01:45:08,430 - 01:45:09,750] of L,
+- [01:45:10,710 - 01:45:12,770] the average value of L squared,
+- [01:45:13,370 - 01:45:15,530] the average value of L cubed,
+- [01:45:15,890 - 01:45:16,410] dot,
+- [01:45:16,410 - 01:45:16,650] dot,
+- [01:45:16,650 - 01:45:16,870] dot,
+- [01:45:16,890 - 01:45:19,710] we know the whole probability distribution of L.
+- [01:45:20,510 - 01:45:22,350] This is called knowing the moments,
+- [01:45:22,450 - 01:45:23,510] all of the moments
+- [01:45:23,510 - 01:45:24,930] of a probability distribution.
+- [01:45:25,310 - 01:45:27,790] If we know all the expectation values
+- [01:45:27,790 - 01:45:28,350] of L,
+- [01:45:28,350 - 01:45:29,070] L squared,
+- [01:45:29,070 - 01:45:29,830] L cubed,
+- [01:45:30,930 - 01:45:32,370] actually for a single spin,
+- [01:45:32,490 - 01:45:33,390] you only need the spin
+- [01:45:33,390 - 01:45:34,270] and the spin squared,
+- [01:45:35,810 - 01:45:38,410] then you know the full probability distribution.
+- [01:45:38,430 - 01:45:41,010] Once you know the full probability distribution,
+- [01:45:41,390 - 01:45:42,170] that's all you can know.
+- [01:45:44,250 - 01:45:45,670] So knowing all,
+- [01:45:46,470 - 01:45:48,930] knowing a full set of expectation values
+- [01:45:48,930 - 01:45:50,870] like this is knowing everything
+- [01:45:50,870 - 01:45:52,390] that Alice can know about the system.
+- [01:45:53,670 - 01:45:56,310] But the actual realization
+- [01:45:56,310 - 01:45:58,030] of the experiment when it happened was?
+- [01:45:58,250 - 01:45:58,410] Oh,
+- [01:45:58,410 - 01:45:58,870] that's right,
+- [01:45:58,870 - 01:45:59,150] yes.
+- [01:45:59,370 - 01:46:00,750] So the first one measured up
+- [01:46:00,750 - 01:46:02,270] and then the second one measured down?
+- [01:46:02,290 - 01:46:02,490] Yeah,
+- [01:46:02,490 - 01:46:02,550] yeah,
+- [01:46:02,550 - 01:46:02,730] yeah,
+- [01:46:02,730 - 01:46:04,250] that's right.
+- [01:46:04,570 - 01:46:06,430] Then they still are guaranteed
+- [01:46:06,950 - 01:46:07,610] to be opposite,
+- [01:46:07,610 - 01:46:08,050] right?
+- [01:46:08,050 - 01:46:08,510] They are.
+- [01:46:08,670 - 01:46:09,790] They're guaranteed to be opposite,
+- [01:46:09,790 - 01:46:10,190] yes.
+- [01:46:10,710 - 01:46:12,690] But Alice cannot find,
+- [01:46:12,770 - 01:46:15,050] Alice doesn't update her information about it
+- [01:46:15,050 - 01:46:15,710] until she gets it.
+- [01:46:15,910 - 01:46:17,630] Before Alice gets the information,
+- [01:46:17,830 - 01:46:18,550] as far as she knows,
+- [01:46:18,710 - 01:46:19,730] it's half a half.
+- [01:46:20,050 - 01:46:21,750] But let's try to do it a little better.
+- [01:46:22,370 - 01:46:24,430] Alice and Bob are now
+- [01:46:24,430 - 01:46:26,490] going to each have many spins.
+- [01:46:28,290 - 01:46:30,730] So Charlie is going to give each of them
+- [01:46:30,730 - 01:46:32,790] many entangled pairs.
+- [01:46:34,810 - 01:46:38,030] So Alice has spin number one,
+- [01:46:38,050 - 01:46:41,370] and Bob has his spin number one,
+- [01:46:41,450 - 01:46:44,410] and they are in the relationship
+- [01:46:44,410 - 01:46:45,730] of being entangled.
+- [01:46:47,450 - 01:46:47,990] Also,
+- [01:46:47,990 - 01:46:49,650] Alice has spin number two,
+- [01:46:49,730 - 01:46:51,830] which is not entangled with spin number one,
+- [01:46:51,850 - 01:46:53,930] but it happens to be entangled
+- [01:46:53,930 - 01:46:55,670] with Bob's spin number two.
+- [01:46:57,330 - 01:47:00,290] Charlie gave him a whole series of these
+- [01:47:06,610 - 01:47:07,910] so that they can do statistics.
+- [01:47:08,050 - 01:47:08,950] So they can do statistical experiments
+- [01:47:08,950 - 01:47:10,350] and collect statistics.
+- [01:47:15,650 - 01:47:17,410] When they've collected statistics,
+- [01:47:17,790 - 01:47:21,650] they will discover that every time Bob is up,
+- [01:47:21,690 - 01:47:22,410] Alice is down.
+- [01:47:22,590 - 01:47:24,010] Every time Bob is down,
+- [01:47:24,010 - 01:47:24,850] Alice is up.
+- [01:47:24,950 - 01:47:26,890] But now they can do a lot more than that.
+- [01:47:27,170 - 01:47:27,710] They can,
+- [01:47:27,710 - 01:47:29,110] let's see,
+- [01:47:29,190 - 01:47:31,510] what's a good example for what can be done?
+- [01:47:36,110 - 01:47:36,610] Yeah,
+- [01:47:36,610 - 01:47:37,110] right.
+- [01:47:37,390 - 01:47:37,890] Good.
+- [01:47:38,590 - 01:47:41,550] Bob does all of his experiments here
+- [01:47:41,550 - 01:47:42,910] at some instant of time
+- [01:47:42,910 - 01:47:44,890] and finds out every one of these,
+- [01:47:44,990 - 01:47:47,370] finds out exactly what every one of them is doing.
+- [01:47:47,930 - 01:47:51,550] Does that convey any information at all to Alice
+- [01:47:51,550 - 01:47:56,050] about which she knows that just about half of them
+- [01:47:56,050 - 01:47:57,310] are up and half of them are down?
+- [01:47:58,630 - 01:48:00,670] Bob goes and makes his measurement.
+- [01:48:00,810 - 01:48:03,570] He does his measurement on every single one of them.
+- [01:48:03,930 - 01:48:06,750] Does Alice know anything afterward
+- [01:48:06,750 - 01:48:08,190] that she didn't know before?
+- [01:48:08,610 - 01:48:09,130] No.
+- [01:48:09,890 - 01:48:12,030] Does anything surprising happen
+- [01:48:12,030 - 01:48:13,690] when she measures these things?
+- [01:48:14,010 - 01:48:16,810] Does the statistics of these things over here
+- [01:48:16,810 - 01:48:20,530] in any way change because Bob measured these things?
+- [01:48:20,630 - 01:48:20,810] No.
+- [01:48:20,890 - 01:48:22,770] There will be no statistical difference.
+- [01:48:23,510 - 01:48:24,930] Bob can do his measurement,
+- [01:48:25,830 - 01:48:28,170] throw his measurement in the waste paper basket,
+- [01:48:28,410 - 01:48:30,590] but he's measured every single one of these.
+- [01:48:30,790 - 01:48:34,670] It has no influence at all on what Alice measures.
+- [01:48:35,790 - 01:48:36,310] But,
+- [01:48:36,310 - 01:48:39,510] if Bob sends a message to Alice
+- [01:48:39,510 - 01:48:41,010] before she does her measurement
+- [01:48:41,010 - 01:48:42,050] and says,
+- [01:48:42,210 - 01:48:43,810] Spin 1 came out plus,
+- [01:48:43,990 - 01:48:45,250] Spin 2 came out minus,
+- [01:48:45,430 - 01:48:45,610] blah,
+- [01:48:45,610 - 01:48:45,830] blah,
+- [01:48:45,830 - 01:48:46,010] blah,
+- [01:48:46,090 - 01:48:49,130] then instantly Alice knows everything about these.
+- [01:48:49,590 - 01:48:50,410] In fact,
+- [01:48:50,410 - 01:48:50,970] he could say,
+- [01:48:51,530 - 01:48:53,690] Sigma z equals plus 1.
+- [01:48:54,470 - 01:48:57,170] But he decided over here not to measure Sigma z.
+- [01:48:57,350 - 01:48:57,550] He said,
+- [01:48:57,550 - 01:48:59,110] I'm going to measure Sigma x over here,
+- [01:48:59,110 - 01:48:59,770] minus 1.
+- [01:49:00,070 - 01:49:03,210] And over here he measures Sigma y equals plus 1.
+- [01:49:04,830 - 01:49:06,230] Having made these measurements,
+- [01:49:07,790 - 01:49:10,390] without informing Alice in any way,
+- [01:49:10,570 - 01:49:13,870] does nothing whatever to the statistics of her measurements.
+- [01:49:14,230 - 01:49:15,790] But if he now sends them,
+- [01:49:18,570 - 01:49:20,330] she can now decide.
+- [01:49:20,550 - 01:49:22,390] She can decide to measure anything she wants.
+- [01:49:22,550 - 01:49:24,350] But if she decides to measure Sigma z,
+- [01:49:24,570 - 01:49:27,730] because she knew that Bob got plus 1 here,
+- [01:49:27,950 - 01:49:29,570] and Sigma x for this one,
+- [01:49:29,690 - 01:49:31,110] and Sigma y for this one,
+- [01:49:31,290 - 01:49:33,470] we'll find that in every case,
+- [01:49:33,610 - 01:49:34,890] that they're opposite.
+- [01:49:34,890 - 01:49:38,250] You keep saying Bob sends the message.
+- [01:49:38,330 - 01:49:39,410] I just want to make sure I understand.
+- [01:49:39,810 - 01:49:39,910] Yeah,
+- [01:49:39,910 - 01:49:40,590] he sends a telegram.
+- [01:49:40,790 - 01:49:41,830] It's not him sending it.
+- [01:49:41,850 - 01:49:43,150] It's her receiving it that matters.
+- [01:49:43,470 - 01:49:43,770] Well,
+- [01:49:43,770 - 01:49:44,130] of course,
+- [01:49:44,130 - 01:49:44,370] yes.
+- [01:49:44,810 - 01:49:45,210] Right.
+- [01:49:45,330 - 01:49:45,610] No,
+- [01:49:45,610 - 01:49:47,350] the important point is that it
+- [01:49:47,350 - 01:49:49,090] takes time to send a message.
+- [01:49:49,970 - 01:49:50,370] Yeah.
+- [01:49:51,550 - 01:49:51,950] Hmm?
+- [01:49:52,510 - 01:49:52,910] What?
+- [01:49:53,470 - 01:49:53,870] No,
+- [01:49:53,870 - 01:49:54,010] no,
+- [01:49:54,010 - 01:49:54,170] no.
+- [01:49:54,770 - 01:49:55,430] I missed.
+- [01:49:55,630 - 01:49:55,950] Okay.
+- [01:49:56,050 - 01:49:56,630] You're going to be live.
+- [01:49:57,490 - 01:49:57,890] Well,
+- [01:49:57,890 - 01:49:58,170] yes,
+- [01:49:58,170 - 01:49:58,870] that is a problem.
+- [01:50:01,110 - 01:50:02,630] I don't know if this captures,
+- [01:50:02,850 - 01:50:04,870] but it seems like this feeling about something,
+- [01:50:04,890 - 01:50:05,990] about spooky action at a distance,
+- [01:50:06,190 - 01:50:08,140] comes not from thinking externally
+- [01:50:08,140 - 01:50:10,090] about Bob and Alice doing measurements,
+- [01:50:10,310 - 01:50:12,590] but almost thinking about inside the system,
+- [01:50:12,730 - 01:50:14,230] like they're these two separate entities.
+- [01:50:14,770 - 01:50:15,210] Well,
+- [01:50:15,210 - 01:50:19,690] I will try to give you a precise definition.
+- [01:50:20,230 - 01:50:20,990] All right?
+- [01:50:21,070 - 01:50:21,610] Now,
+- [01:50:21,610 - 01:50:24,550] there is a theorem lurking here.
+- [01:50:24,770 - 01:50:29,590] I don't know that the theorem has ever been discussed
+- [01:50:29,590 - 01:50:31,470] in the computer science community.
+- [01:50:32,010 - 01:50:34,350] It's a kind of computer science theorem.
+- [01:50:36,410 - 01:50:38,770] Whether anybody has actually discussed it
+- [01:50:38,770 - 01:50:40,210] in the language I'm going to tell you now,
+- [01:50:40,250 - 01:50:40,770] I don't know.
+- [01:50:40,970 - 01:50:42,860] And I don't really quite know
+- [01:50:42,860 - 01:50:44,750] how to formulate it as a theorem.
+- [01:50:44,930 - 01:50:45,810] I've never tried.
+- [01:50:47,470 - 01:50:50,150] But I think I can capture the
+- [01:50:50,150 - 01:50:52,830] essence of what this theorem would say
+- [01:50:52,830 - 01:50:55,390] if only the theorem could be made precise.
+- [01:50:57,330 - 01:50:59,310] We have 10 minutes to try to do this.
+- [01:50:59,490 - 01:51:01,010] If we go over a little bit,
+- [01:51:01,010 - 01:51:02,950] we'll do that.
+- [01:51:03,730 - 01:51:04,210] All right.
+- [01:51:05,130 - 01:51:06,470] Here's the game I want to play.
+- [01:51:07,490 - 01:51:08,450] I want...
+- [01:51:08,450 - 01:51:10,930] I'm going to write a computer program,
+- [01:51:10,930 - 01:51:12,170] my computer.
+- [01:51:12,650 - 01:51:14,350] My computer has a screen,
+- [01:51:14,350 - 01:51:14,650] okay?
+- [01:51:14,730 - 01:51:16,360] It has a screen and all
+- [01:51:16,360 - 01:51:17,990] the usual things that computers have.
+- [01:51:18,610 - 01:51:20,950] Over here on the screen is a little black box,
+- [01:51:21,070 - 01:51:23,290] and that little black box is called spin.
+- [01:51:24,390 - 01:51:25,910] You can't see inside it,
+- [01:51:25,910 - 01:51:26,970] but there's something in it.
+- [01:51:28,070 - 01:51:31,890] And in here is apparatus A.
+- [01:51:32,250 - 01:51:33,590] And apparatus A,
+- [01:51:33,590 - 01:51:34,190] you can see,
+- [01:51:34,210 - 01:51:36,310] you can see what it's doing and so forth.
+- [01:51:37,070 - 01:51:38,070] It's got a zero,
+- [01:51:38,070 - 01:51:39,790] it can measure zero or one.
+- [01:51:40,470 - 01:51:40,990] Now,
+- [01:51:40,990 - 01:51:41,770] here's the game.
+- [01:51:42,410 - 01:51:44,950] The memory stores two things.
+- [01:51:45,450 - 01:51:48,610] The memory stores information about the spin.
+- [01:51:48,830 - 01:51:50,950] This is a completely classical computer.
+- [01:51:51,550 - 01:51:53,530] The game we're going to play is
+- [01:51:53,530 - 01:51:55,510] I'm going to fool you into thinking
+- [01:51:55,510 - 01:51:57,870] there's really a quantum mechanical system in here.
+- [01:51:58,730 - 01:51:59,830] How are we going to do that?
+- [01:52:00,210 - 01:52:02,080] We're going to do it by
+- [01:52:02,080 - 01:52:03,950] I'm going to write a computer program
+- [01:52:04,210 - 01:52:07,990] which completely simulates the classical computer program
+- [01:52:07,990 - 01:52:10,670] that completely simulates what happens when
+- [01:52:10,670 - 01:52:13,350] an apparatus looks at a spin.
+- [01:52:14,270 - 01:52:14,870] Okay,
+- [01:52:14,870 - 01:52:16,010] so here's the way it's going to go.
+- [01:52:18,130 - 01:52:19,350] We're going to start,
+- [01:52:19,350 - 01:52:20,850] just for convenience,
+- [01:52:21,150 - 01:52:23,570] we'll start with a spin in a known state.
+- [01:52:25,130 - 01:52:28,550] So the apparatus or the computer program,
+- [01:52:29,570 - 01:52:30,670] it's not important,
+- [01:52:30,670 - 01:52:31,910] but the computer program,
+- [01:52:31,990 - 01:52:33,670] let's say it starts out with a spin.
+- [01:52:34,210 - 01:52:35,390] It's going to go up or whatever it's doing.
+- [01:52:37,710 - 01:52:42,010] The apparatus can either read zero or one.
+- [01:52:43,150 - 01:52:47,850] There's a button over here that you touch,
+- [01:52:47,970 - 01:52:49,530] and that button is M.
+- [01:52:50,470 - 01:52:52,070] It means you measure,
+- [01:52:52,070 - 01:52:52,950] it means measurement.
+- [01:52:53,310 - 01:52:55,490] So when you touch that button over here,
+- [01:52:55,590 - 01:52:57,350] the apparatus measures the spin.
+- [01:52:58,970 - 01:53:01,490] The computer records two things.
+- [01:53:01,730 - 01:53:04,130] It records the state vector,
+- [01:53:04,210 - 01:53:05,210] the state vector of the spin.
+- [01:53:05,430 - 01:53:06,290] How does it do that?
+- [01:53:06,590 - 01:53:09,090] By providing two complex numbers.
+- [01:53:09,830 - 01:53:12,230] Stored in the computer are two complex numbers,
+- [01:53:12,510 - 01:53:14,450] alpha up and alpha down,
+- [01:53:15,189 - 01:53:17,570] subject to the constraint that alpha star alpha
+- [01:53:17,570 - 01:53:19,750] plus alpha star alpha is equal to one.
+- [01:53:21,110 - 01:53:23,930] So it stores an information which is equivalent
+- [01:53:23,930 - 01:53:26,090] to the state vector of the spin.
+- [01:53:26,470 - 01:53:29,250] And the other thing it stores is the direction
+- [01:53:29,250 - 01:53:30,970] that you point the apparatus.
+- [01:53:30,970 - 01:53:33,210] You can move the apparatus
+- [01:53:33,210 - 01:53:35,450] around by playing with the computer.
+- [01:53:35,610 - 01:53:36,630] Not move it around,
+- [01:53:36,630 - 01:53:38,010] but you can reorient it
+- [01:53:38,010 - 01:53:39,690] in any direction that you like.
+- [01:53:41,030 - 01:53:42,670] You start with a spin up.
+- [01:53:42,910 - 01:53:46,150] Now this spin might be interacting with a magnetic field
+- [01:53:46,150 - 01:53:47,610] or whatever's happening to it.
+- [01:53:47,950 - 01:53:50,510] The computer solves the Schrodinger equation.
+- [01:53:51,070 - 01:53:53,790] And solving the Schrodinger equation for the spin,
+- [01:53:53,910 - 01:53:56,650] that means it updates the state of the spin.
+- [01:53:57,050 - 01:53:58,910] You start with a particular state,
+- [01:53:59,070 - 01:54:00,210] doesn't matter what it is,
+- [01:54:00,210 - 01:54:03,190] and after a time t it updates the spin,
+- [01:54:03,390 - 01:54:04,769] it updates the state,
+- [01:54:04,930 - 01:54:07,590] so the computer now knows what alpha is
+- [01:54:07,590 - 01:54:10,309] after a certain time has elapsed.
+- [01:54:10,830 - 01:54:12,590] Then you punch the measure button.
+- [01:54:13,729 - 01:54:17,950] And the computer takes the state,
+- [01:54:18,149 - 01:54:20,630] turns it into a pair of probabilities,
+- [01:54:21,070 - 01:54:22,710] alpha star alpha up,
+- [01:54:22,710 - 01:54:24,010] alpha star alpha down.
+- [01:54:24,350 - 01:54:28,229] The computer now knows the probability for up and down.
+- [01:54:28,790 - 01:54:30,189] And it also has a range.
+- [01:54:30,210 - 01:54:31,130] It has a random number generator.
+- [01:54:31,850 - 01:54:34,250] Random number generators are a dime a dozen,
+- [01:54:34,390 - 01:54:35,430] and they work very well.
+- [01:54:35,729 - 01:54:37,410] With a random number generator,
+- [01:54:37,790 - 01:54:41,350] it then takes the probabilities alpha up and alpha down,
+- [01:54:41,490 - 01:54:44,050] and spits out a number plus or minus one
+- [01:54:44,050 - 01:54:49,570] with probability alpha star alpha and alpha star alpha.
+- [01:54:49,890 - 01:54:52,350] So it just simulates the quantum mechanics
+- [01:54:52,350 - 01:54:54,609] by having a random number generator
+- [01:54:55,309 - 01:54:59,990] that either spits out plus one or minus one,
+- [01:54:59,990 - 01:55:03,570] but with a probability that's given by alpha star alpha.
+- [01:55:04,130 - 01:55:06,689] But then the computer then,
+- [01:55:06,769 - 01:55:08,330] whatever the answer is,
+- [01:55:08,609 - 01:55:11,490] whatever the answer that the apparatus spit out,
+- [01:55:11,649 - 01:55:14,630] the computer then updates once again
+- [01:55:14,630 - 01:55:15,950] the state of the spin
+- [01:55:15,950 - 01:55:18,520] and says it is in
+- [01:55:18,520 - 01:55:21,090] the state that the apparatus measured.
+- [01:55:21,490 - 01:55:23,530] So if the apparatus spits
+- [01:55:23,530 - 01:55:25,570] out plus one along some axis,
+- [01:55:25,990 - 01:55:28,490] you get to turn the apparatus,
+- [01:55:31,529 - 01:55:35,010] but when you get to turn the apparatus,
+- [01:55:35,250 - 01:55:37,490] you have to do a slightly complicated calculation
+- [01:55:37,490 - 01:55:40,070] to find out what the statistics are.
+- [01:55:40,330 - 01:55:41,390] But once you've done it,
+- [01:55:42,150 - 01:55:43,690] whatever the answer is,
+- [01:55:44,450 - 01:55:46,420] the computer goes back and
+- [01:55:46,420 - 01:55:48,390] updates the state of the spin
+- [01:55:48,390 - 01:55:51,450] to make it consistent with what the apparatus measured.
+- [01:55:51,590 - 01:55:52,210] You can do this.
+- [01:55:52,370 - 01:55:54,010] You can try to write a program.
+- [01:55:54,210 - 01:55:56,390] There's a program that could be written.
+- [01:55:56,470 - 01:55:58,270] It's probably not even terribly complicated.
+- [01:55:59,250 - 01:55:59,770] And...
+- [01:55:59,990 - 01:56:04,250] if you only got to look at the measuring button,
+- [01:56:04,450 - 01:56:05,450] decide to measure,
+- [01:56:05,590 - 01:56:06,790] and look at the outcome,
+- [01:56:07,070 - 01:56:09,910] you would get everything exactly equivalent
+- [01:56:09,910 - 01:56:12,170] to the extent that a random number generator
+- [01:56:12,170 - 01:56:14,630] can be a good faithful random number generator.
+- [01:56:14,950 - 01:56:16,660] You would completely simulate the
+- [01:56:16,660 - 01:56:18,370] quantum mechanics of the system.
+- [01:56:19,650 - 01:56:22,650] The lesson is that quantum mechanics can be
+- [01:56:22,650 - 01:56:24,870] a special case of classical physics.
+- [01:56:25,210 - 01:56:26,170] So what's going on?
+- [01:56:26,330 - 01:56:26,790] What the...
+- [01:56:26,790 - 01:56:28,160] If quantum mechanics can be
+- [01:56:28,160 - 01:56:29,530] a special case of classical mechanics,
+- [01:56:29,530 - 01:56:32,810] what's all this confusion
+- [01:56:32,810 - 01:56:36,950] about quantum mechanics being logically different?
+- [01:56:37,310 - 01:56:37,910] All right.
+- [01:56:38,150 - 01:56:40,430] Now we want to play the same game
+- [01:56:41,470 - 01:56:42,750] with a pair of spins.
+- [01:56:43,350 - 01:56:44,430] I just have one question.
+- [01:56:44,570 - 01:56:45,990] You said that quantum mechanics...
+- [01:56:45,990 - 01:56:47,770] You were trying to say quantum
+- [01:56:47,770 - 01:56:49,550] mechanics is a special case of classical...
+- [01:56:49,550 - 01:56:51,530] But I thought in classical everything was deterministic
+- [01:56:51,530 - 01:56:53,150] in introducing probability.
+- [01:56:53,430 - 01:56:53,650] Okay,
+- [01:56:53,650 - 01:56:54,070] but it's...
+- [01:56:54,070 - 01:56:54,510] Yeah,
+- [01:56:54,510 - 01:56:54,710] yeah,
+- [01:56:54,710 - 01:56:54,770] yeah.
+- [01:56:55,290 - 01:56:56,550] But it's only...
+- [01:56:56,550 - 01:56:58,150] This is a classical computer,
+- [01:56:58,150 - 01:57:00,490] and it's using a classical number generator,
+- [01:57:00,770 - 01:57:02,510] a classical random number generator.
+- [01:57:02,790 - 01:57:03,190] All right?
+- [01:57:03,230 - 01:57:05,010] So you do have to add in...
+- [01:57:05,010 - 01:57:07,790] But the difference between quantum mechanics
+- [01:57:07,790 - 01:57:10,330] and classical mechanics isn't randomness.
+- [01:57:10,410 - 01:57:12,870] You can generate all sorts of random number generators
+- [01:57:12,870 - 01:57:14,680] that would easily fool you
+- [01:57:14,680 - 01:57:16,490] into thinking they were really random.
+- [01:57:16,890 - 01:57:17,610] Of course,
+- [01:57:17,610 - 01:57:19,310] any real random number generator,
+- [01:57:19,590 - 01:57:21,690] the numbers come from somewheres,
+- [01:57:21,730 - 01:57:23,270] so they're not strictly random.
+- [01:57:23,590 - 01:57:26,650] But you can sure make a random number generator
+- [01:57:26,650 - 01:57:27,510] that would fool anybody.
+- [01:57:27,510 - 01:57:28,250] So,
+- [01:57:28,250 - 01:57:30,190] yeah,
+- [01:57:30,190 - 01:57:33,730] you can build a computer program
+- [01:57:33,730 - 01:57:36,230] to simulate the quantum mechanics
+- [01:57:36,230 - 01:57:38,250] basically of any system that you like
+- [01:57:38,250 - 01:57:40,930] by the same method.
+- [01:57:41,570 - 01:57:42,030] Okay?
+- [01:57:42,150 - 01:57:44,470] But now supposing you wanted to simulate
+- [01:57:45,270 - 01:57:47,730] a system consisting of two electrons.
+- [01:57:48,010 - 01:57:48,790] There's two electrons,
+- [01:57:48,790 - 01:57:49,810] two boxes here.
+- [01:57:50,070 - 01:57:52,750] And you wanted to do it with two computers,
+- [01:57:54,330 - 01:57:57,490] and in the process of taking the electrons apart,
+- [01:57:57,510 - 01:57:58,390] you want to take the electrons apart from each other,
+- [01:57:58,470 - 01:58:01,030] so as to ask this question about the...
+- [01:58:01,030 - 01:58:02,270] You want to take the computers,
+- [01:58:02,570 - 01:58:05,050] you want to encode the information
+- [01:58:05,050 - 01:58:08,330] about Alice's spin in one computer
+- [01:58:08,330 - 01:58:11,490] and Bob's spin in the other computer,
+- [01:58:11,590 - 01:58:13,510] physically separate them,
+- [01:58:13,670 - 01:58:14,790] and ask,
+- [01:58:14,790 - 01:58:18,950] can these computers simulate quantum mechanics?
+- [01:58:19,090 - 01:58:20,410] So I'll tell you what the answer is.
+- [01:58:20,670 - 01:58:25,110] As long as the spins
+- [01:58:27,510 - 01:58:29,210] as long as they start in a product state
+- [01:58:29,210 - 01:58:30,890] and they don't interact with each other
+- [01:58:30,890 - 01:58:32,650] and therefore stay in a product state,
+- [01:58:32,930 - 01:58:34,150] then you can do it.
+- [01:58:34,410 - 01:58:36,430] You can put all of the information
+- [01:58:37,549 - 01:58:39,570] about Bob's spin in here,
+- [01:58:39,770 - 01:58:42,850] all the information about Alice's spin in here.
+- [01:58:43,430 - 01:58:43,950] Likewise,
+- [01:58:43,950 - 01:58:46,690] you can have Bob's apparatus over here,
+- [01:58:46,850 - 01:58:49,630] you can have Alice's apparatus over here,
+- [01:58:49,710 - 01:58:50,610] little black boxes,
+- [01:58:50,750 - 01:58:54,690] and it's just basically two identical versions
+- [01:58:55,450 - 01:58:56,530] of what I said before.
+- [01:58:57,730 - 01:58:59,290] You can take the computers,
+- [01:58:59,290 - 01:59:00,790] physically separate them,
+- [01:59:01,489 - 01:59:03,410] do experiments on each one,
+- [01:59:03,550 - 01:59:05,270] and they will completely agree
+- [01:59:05,270 - 01:59:07,030] with the results of quantum mechanics
+- [01:59:07,030 - 01:59:09,010] because if they're in a product state,
+- [01:59:09,250 - 01:59:10,690] one doesn't care about the other.
+- [01:59:11,410 - 01:59:12,110] But then you say,
+- [01:59:12,110 - 01:59:14,250] what if I wanted to put these two spins
+- [01:59:14,250 - 01:59:15,730] in an entangled state?
+- [01:59:16,829 - 01:59:17,389] Well,
+- [01:59:17,389 - 01:59:18,530] first of all,
+- [01:59:18,550 - 01:59:20,630] to put them in an entangled state,
+- [01:59:21,250 - 01:59:24,330] you cannot do it without bringing the computers together.
+- [01:59:24,950 - 01:59:26,410] Bringing the computers together
+- [01:59:26,410 - 01:59:27,930] so that they talk to each other.
+- [01:59:29,190 - 01:59:32,990] You can record in the combined computer system,
+- [01:59:33,170 - 01:59:34,270] now that they're brought together,
+- [01:59:35,150 - 01:59:38,870] how many numbers does it take
+- [01:59:38,870 - 01:59:42,650] to specify the state of a two-spin system?
+- [01:59:44,810 - 01:59:45,410] Six.
+- [01:59:46,929 - 01:59:47,530] So,
+- [01:59:47,530 - 01:59:50,310] you record six numbers in the computer here.
+- [01:59:51,770 - 01:59:54,510] Six numbers are recorded in the computer,
+- [01:59:54,510 - 01:59:58,510] and some numbers to reflect the orientations
+- [01:59:59,230 - 02:00:05,450] of various apparatuses that you might conceive of.
+- [02:00:05,910 - 02:00:08,710] And then you try to split the computer into two.
+- [02:00:10,509 - 02:00:12,990] Keeping Alice's information in here
+- [02:00:12,990 - 02:00:15,350] and Bob's information in here,
+- [02:00:15,450 - 02:00:18,450] separate them and try to simulate
+- [02:00:18,450 - 02:00:22,670] the quantum mechanics of the entangled system.
+- [02:00:23,450 - 02:00:25,510] Bell's theorem is what tells you
+- [02:00:25,510 - 02:00:27,070] that you cannot do this
+- [02:00:27,070 - 02:00:31,630] unless there are instantaneous action
+- [02:00:31,630 - 02:00:36,070] at a distance phenomena taking place between the com...
+- [02:00:36,070 - 02:00:37,550] wires between the computer,
+- [02:00:37,550 - 02:00:38,210] so to speak.
+- [02:00:38,390 - 02:00:41,130] Hidden wires that have to be part of the system
+- [02:00:41,130 - 02:00:43,310] connecting the computers together.
+- [02:00:43,510 - 02:00:48,550] You cannot simulate the quantum mechanics
+- [02:00:48,550 - 02:00:50,150] with a classical computer system.
+- [02:00:50,310 - 02:00:52,310] You can't simulate the quantum mechanics
+- [02:00:52,670 - 02:00:55,110] of an entangled system
+- [02:00:55,670 - 02:00:59,050] unless it's really just one computer.
+- [02:00:59,590 - 02:01:00,310] Really,
+- [02:01:00,310 - 02:01:01,730] one computer means
+- [02:01:01,730 - 02:01:04,650] that signals can be transmitted back and forth
+- [02:01:04,650 - 02:01:05,550] basically instantly.
+- [02:01:06,510 - 02:01:08,270] That's what Bell's theorem really says.
+- [02:01:08,850 - 02:01:09,210] Now,
+- [02:01:09,210 - 02:01:12,330] is this a form of nonlocality?
+- [02:01:12,870 - 02:01:13,230] Well,
+- [02:01:13,230 - 02:01:15,090] you might think that if to...
+- [02:01:15,590 - 02:01:18,470] if you really have to have these wires there
+- [02:01:18,470 - 02:01:20,830] to simulate quantum mechanics,
+- [02:01:20,830 - 02:01:23,790] then why can't you send an instantaneous message
+- [02:01:23,790 - 02:01:24,670] through these wires?
+- [02:01:25,130 - 02:01:25,730] Of course,
+- [02:01:25,730 - 02:01:26,110] you can.
+- [02:01:26,810 - 02:01:29,530] But not if you only allow yourself
+- [02:01:29,530 - 02:01:32,210] to do the things which quantum mechanics permits.
+- [02:01:32,690 - 02:01:33,710] For example,
+- [02:01:33,710 - 02:01:34,250] there are things
+- [02:01:34,250 - 02:01:35,570] that quantum mechanics doesn't permit.
+- [02:01:35,730 - 02:01:36,810] It doesn't allow you to measure
+- [02:01:36,810 - 02:01:39,370] the X and Y component of a spin simultaneously.
+- [02:01:40,670 - 02:01:42,340] All kinds of things that it
+- [02:01:42,340 - 02:01:44,010] does not permit you to do
+- [02:01:44,010 - 02:01:46,890] because they correspond to noncommuting operators.
+- [02:01:47,730 - 02:01:50,110] If you restrict yourself to the measurements
+- [02:01:50,110 - 02:01:52,510] which quantum mechanics allows you to do
+- [02:01:52,510 - 02:01:55,150] on either one of these or any combination of them,
+- [02:01:55,310 - 02:01:58,330] then it's a very magical and special fact
+- [02:01:58,330 - 02:02:00,790] that you cannot send information
+- [02:02:00,790 - 02:02:02,090] faster than the speed of light.
+- [02:02:02,150 - 02:02:04,090] You cannot send information instantaneously
+- [02:02:04,090 - 02:02:06,530] by this computer setup.
+- [02:02:06,950 - 02:02:09,390] What if you assign not probabilities
+- [02:02:09,390 - 02:02:11,290] but conditional probabilities?
+- [02:02:11,810 - 02:02:12,750] Doesn't matter.
+- [02:02:13,070 - 02:02:16,370] If you want to simulate a quantum system
+- [02:02:16,370 - 02:02:19,230] with a classical system of computers,
+- [02:02:19,230 - 02:02:22,190] and you want to study entangled systems,
+- [02:02:22,530 - 02:02:25,010] the computers have to be able to communicate
+- [02:02:25,010 - 02:02:26,650] with each other instantaneously.
+- [02:02:26,890 - 02:02:29,030] That's the content of Bell's theorem.
+- [02:02:29,850 - 02:02:30,490] Now,
+- [02:02:30,490 - 02:02:32,450] does that mean that there's any action,
+- [02:02:32,510 - 02:02:34,150] a spooky action at a distance,
+- [02:02:34,370 - 02:02:37,110] or does it just mean that you've gotten yourself
+- [02:02:37,110 - 02:02:41,110] into trouble by trying to simulate quantum mechanics
+- [02:02:41,110 - 02:02:42,150] with classical mechanics?
+- [02:02:42,470 - 02:02:46,130] My view is that you've gotten yourself into trouble
+- [02:02:46,130 - 02:02:48,230] by trying to simulate something
+- [02:02:48,230 - 02:02:50,710] which just doesn't want to be described
+- [02:02:50,710 - 02:02:52,430] by a classical computer system,
+- [02:02:52,630 - 02:02:54,230] and it's a deep and interesting fact
+- [02:02:54,230 - 02:02:55,350] about quantum mechanics.
+- [02:02:56,230 - 02:03:01,810] Einstein's view was that this is basically evidence
+- [02:03:01,810 - 02:03:05,190] that the description is incomplete
+- [02:03:06,170 - 02:03:09,750] and that there are other variables of the system,
+- [02:03:09,910 - 02:03:12,830] and Bell's conclusion was those other variables
+- [02:03:12,830 - 02:03:16,670] have to be hidden wires that connect distant places.
+- [02:03:19,610 - 02:03:20,030] So,
+- [02:03:20,030 - 02:03:24,390] you can take it for however you see it yourself.
+- [02:03:24,670 - 02:03:24,890] Yes?
+- [02:03:25,450 - 02:03:27,230] If you had a quantum computer there,
+- [02:03:27,370 - 02:03:29,570] and let's say when you had the states...
+- [02:03:29,570 - 02:03:30,850] If you had a quantum computer,
+- [02:03:30,850 - 02:03:31,650] you could do it.
+- [02:03:31,990 - 02:03:33,530] And you separated it,
+- [02:03:33,530 - 02:03:33,990] right?
+- [02:03:34,150 - 02:03:34,530] Now,
+- [02:03:34,530 - 02:03:36,410] when you observe Bob's computer,
+- [02:03:36,590 - 02:03:38,310] now you know something about Alice's,
+- [02:03:38,310 - 02:03:38,950] right?
+- [02:03:39,350 - 02:03:40,970] But you can't really still send it...
+- [02:03:40,970 - 02:03:41,170] No,
+- [02:03:41,170 - 02:03:41,890] it's the same problem.
+- [02:03:42,110 - 02:03:42,830] But look,
+- [02:03:42,830 - 02:03:44,810] all a quantum computer is,
+- [02:03:45,270 - 02:03:47,210] is an electron in this computer
+- [02:03:47,210 - 02:03:48,150] and an electron in this computer.
+- [02:03:48,150 - 02:03:48,850] That's all it is.
+- [02:03:49,150 - 02:03:50,710] It's just a quantum system.
+- [02:03:51,410 - 02:03:53,610] It's just a true quantum system,
+- [02:03:53,770 - 02:03:56,190] a quantum system in each one of these
+- [02:03:56,190 - 02:03:57,250] which has been entangled.
+- [02:03:57,570 - 02:03:59,130] That's all a quantum computer is.
+- [02:03:59,230 - 02:04:00,650] It's a quantum mechanical system
+- [02:04:00,650 - 02:04:06,050] which can reflect the logical structures
+- [02:04:06,050 - 02:04:06,950] of quantum mechanics,
+- [02:04:07,030 - 02:04:08,090] and the way you make it
+- [02:04:08,090 - 02:04:10,010] is by actually making a
+- [02:04:10,010 - 02:04:11,930] pair of entangled electrons in there.
+- [02:04:12,550 - 02:04:15,210] Something real has been entangled between them,
+- [02:04:15,210 - 02:04:20,250] and it can't be simulated by a fake computer program
+- [02:04:20,250 - 02:04:24,490] unless the computer has this property of...
+- [02:04:24,490 - 02:04:25,870] But you still have the
+- [02:04:25,870 - 02:04:27,250] problem of transmitting that information somehow.
+- [02:04:27,570 - 02:04:27,750] Oh,
+- [02:04:27,750 - 02:04:28,050] no,
+- [02:04:28,050 - 02:04:28,490] you have...
+- [02:04:28,490 - 02:04:28,930] Sure,
+- [02:04:28,930 - 02:04:29,870] sure,
+- [02:04:29,870 - 02:04:30,370] right.
+- [02:04:31,849 - 02:04:34,830] You could sort of hack this problem away
+- [02:04:34,830 - 02:04:36,670] if you're using your analogy.
+- [02:04:36,990 - 02:04:39,370] We said that there are pseudo-random generators
+- [02:04:39,370 - 02:04:41,070] who are synchronized,
+- [02:04:41,070 - 02:04:41,650] so...
+- [02:04:41,650 - 02:04:42,030] Yeah,
+- [02:04:42,030 - 02:04:42,470] they won't...
+- [02:04:42,470 - 02:04:43,130] They are actually,
+- [02:04:43,130 - 02:04:44,030] you know,
+- [02:04:44,030 - 02:04:44,349] not...
+- [02:04:44,790 - 02:04:45,030] Yeah.
+- [02:04:45,210 - 02:04:45,630] They're going to be random.
+- [02:04:46,050 - 02:04:47,010] They won't be...
+- [02:04:47,830 - 02:04:50,050] They'll steer to the truth if you can't do that.
+- [02:04:50,070 - 02:04:50,230] Yeah,
+- [02:04:50,230 - 02:04:50,730] no,
+- [02:04:50,730 - 02:04:51,710] but what you can't do...
+- [02:04:51,710 - 02:04:54,590] What you can't do is synchronize them in advance
+- [02:04:56,929 - 02:04:59,390] and then not let them interact with each other.
+- [02:04:59,450 - 02:05:00,390] That won't do it.
+- [02:05:01,130 - 02:05:03,130] The random numbers have to be...
+- [02:05:03,130 - 02:05:05,050] Random number generators have to be such
+- [02:05:05,050 - 02:05:06,850] that what this one measures
+- [02:05:07,450 - 02:05:09,150] responds to what that one measured.
+- [02:05:09,510 - 02:05:09,930] Like,
+- [02:05:09,930 - 02:05:10,890] for example,
+- [02:05:10,890 - 02:05:12,490] what I meant to say,
+- [02:05:12,510 - 02:05:13,410] maybe I didn't explain it very well,
+- [02:05:13,410 - 02:05:15,490] is that the random number generators
+- [02:05:15,490 - 02:05:18,130] are synchronized at the beginning,
+- [02:05:18,410 - 02:05:20,670] and whenever you measure,
+- [02:05:20,970 - 02:05:22,690] because they're synchronized,
+- [02:05:22,830 - 02:05:25,110] they will always generate up and down,
+- [02:05:25,110 - 02:05:26,410] reversed.
+- [02:05:27,050 - 02:05:27,330] No,
+- [02:05:27,330 - 02:05:27,970] they lose the memory.
+- [02:05:28,290 - 02:05:29,030] They lose what?
+- [02:05:29,070 - 02:05:30,250] They lose the memory of the state.
+- [02:05:30,570 - 02:05:30,670] No,
+- [02:05:30,670 - 02:05:32,770] it's simply not enough.
+- [02:05:32,870 - 02:05:34,030] This is what the theorem says.
+- [02:05:34,230 - 02:05:37,170] It is not enough to synchronize them in advance
+- [02:05:37,170 - 02:05:39,090] and then take them apart.
+- [02:05:39,390 - 02:05:41,790] They've got to continue to interact with each other.
+- [02:05:41,870 - 02:05:42,610] That's what it says.
+- [02:05:42,610 - 02:05:46,030] That they must continue to interact with each other
+- [02:05:46,030 - 02:05:47,770] and feed information back and forth.
+- [02:05:48,130 - 02:05:48,650] Yeah.
+- [02:05:48,990 - 02:05:49,750] I think,
+- [02:05:49,750 - 02:05:49,910] I mean,
+- [02:05:49,910 - 02:05:50,390] if there's...
+- [02:05:51,429 - 02:05:51,950] Somebody...
+- [02:05:51,950 - 02:05:52,330] Oh,
+- [02:05:52,330 - 02:05:52,630] sorry.
+- [02:05:54,110 - 02:05:54,630] No,
+- [02:05:54,630 - 02:05:57,070] the problem with the delayed choice
+- [02:05:57,070 - 02:06:01,150] is if you put a filter in Bob's instrument,
+- [02:06:01,470 - 02:06:06,770] then instantaneously Alice's correlation is affected,
+- [02:06:06,990 - 02:06:08,870] even if she is four light years away,
+- [02:06:09,010 - 02:06:10,310] that's actually...
+- [02:06:10,870 - 02:06:12,590] I told you everything I know about the system
+- [02:06:12,610 - 02:06:13,030] and what I know about it,
+- [02:06:13,070 - 02:06:15,000] and what I know about it
+- [02:06:15,000 - 02:06:16,930] is that there's nothing Bob can do
+- [02:06:16,930 - 02:06:20,730] which can influence the statistics of Alice's measurements
+- [02:06:21,270 - 02:06:23,690] without sending her a measure.
+- [02:06:23,950 - 02:06:26,090] It says that you have to depend instantaneously
+- [02:06:26,090 - 02:06:28,190] on the setting of the distance of instruments.
+- [02:06:29,110 - 02:06:29,630] Okay.
+- [02:06:31,490 - 02:06:32,010] Yeah,
+- [02:06:32,010 - 02:06:32,650] um...
+- [02:06:32,650 - 02:06:33,310] All right.
+- [02:06:33,670 - 02:06:34,530] One more minute.
+- [02:06:34,630 - 02:06:35,530] Two more questions.
+- [02:06:35,870 - 02:06:38,490] For good action at a distance of two separate computers,
+- [02:06:38,650 - 02:06:40,360] I just find it interesting that
+- [02:06:40,360 - 02:06:42,070] if you have a single computer,
+- [02:06:42,270 - 02:06:42,590] are you saying that you can't do it?
+- [02:06:42,590 - 02:06:45,120] Are you saying that you
+- [02:06:45,120 - 02:06:47,650] could actually classically simulate quantum mechanics?
+- [02:06:47,990 - 02:06:48,410] Yes.
+- [02:06:48,990 - 02:06:51,650] You can classically simulate quantum mechanics,
+- [02:06:51,870 - 02:06:53,740] but you basically have to
+- [02:06:53,740 - 02:06:55,610] do it within a single computer
+- [02:06:55,610 - 02:06:58,170] where all parts of it speak to every other part.
+- [02:06:58,450 - 02:07:00,550] You cannot physically take them apart
+- [02:07:00,550 - 02:07:01,980] the way you would want
+- [02:07:01,980 - 02:07:03,410] to take the quantum systems apart.
+- [02:07:06,590 - 02:07:09,230] I'm a little confused on being able to measure
+- [02:07:09,230 - 02:07:10,730] the statistics of all versus the parts.
+- [02:07:10,930 - 02:07:12,570] It seems like you're measuring the parts of the system,
+- [02:07:12,590 - 02:07:14,470] Bob's making a measurement of the part,
+- [02:07:14,550 - 02:07:16,470] Alice is making a measurement of the part,
+- [02:07:16,510 - 02:07:18,490] but I think one mistake that you made was that
+- [02:07:18,490 - 02:07:21,350] you don't know the entire system.
+- [02:07:21,990 - 02:07:22,510] No.
+- [02:07:23,550 - 02:07:24,070] No.
+- [02:07:24,250 - 02:07:25,490] In an entangled system,
+- [02:07:25,490 - 02:07:27,110] Bob can do his measurements,
+- [02:07:27,310 - 02:07:28,710] Alice can do her measurements.
+- [02:07:28,950 - 02:07:31,490] But there are other things that can be measured
+- [02:07:31,490 - 02:07:34,470] besides just the things that Alice would measure
+- [02:07:34,470 - 02:07:37,590] on her system or the things that Bob would measure.
+- [02:07:37,650 - 02:07:38,350] For example,
+- [02:07:38,350 - 02:07:41,590] neither Bob nor Alice by themselves
+- [02:07:42,590 - 02:07:45,790] can measure sigma x times tau x.
+- [02:07:46,010 - 02:07:47,550] It takes both of them to do it.
+- [02:07:47,730 - 02:07:49,530] It takes both detectives,
+- [02:07:49,530 - 02:07:51,110] it takes both apparatuses
+- [02:07:51,110 - 02:07:54,250] to make a measurement of sigma x times tau x.
+- [02:07:54,750 - 02:07:56,850] This is something that you cannot measure.
+- [02:07:57,250 - 02:07:59,570] Now you can measure it with two apparatuses.
+- [02:07:59,890 - 02:08:00,770] The question is,
+- [02:08:00,770 - 02:08:02,270] are there any things that you could measure
+- [02:08:02,270 - 02:08:05,590] that you couldn't measure even with those two apparatuses?
+- [02:08:05,710 - 02:08:05,990] And yes,
+- [02:08:05,990 - 02:08:06,330] there are.
+- [02:08:07,250 - 02:08:09,810] Sigma x tau x plus sigma y
+- [02:08:09,810 - 02:08:12,370] tau y plus sigma z tau z.
+- [02:08:12,370 - 02:08:15,390] is something that cannot even be measured
+- [02:08:15,390 - 02:08:17,550] by using both apparatuses.
+- [02:08:17,670 - 02:08:19,130] It takes a new kind of apparatus,
+- [02:08:19,550 - 02:08:23,170] which is not a combination of Alice's and Bob's
+- [02:08:23,170 - 02:08:24,370] original apparatuses,
+- [02:08:24,550 - 02:08:28,330] which each measure a Bob thing and an Alice thing.
+- [02:08:29,510 - 02:08:31,330] Bob cannot measure the entanglement.
+- [02:08:32,570 - 02:08:34,550] Nobody can measure entanglement.
+- [02:08:34,670 - 02:08:35,990] You have to talk to Alice
+- [02:08:35,990 - 02:08:37,310] to know that there's an entanglement
+- [02:08:37,310 - 02:08:38,110] involved in the system.
+- [02:08:40,650 - 02:08:41,250] No,
+- [02:08:41,250 - 02:08:42,290] Bob can discover,
+- [02:08:42,290 - 02:08:43,990] that he's got the...
+- [02:08:43,990 - 02:08:48,110] Nobody can do anything with one event.
+- [02:08:49,390 - 02:08:51,170] But if you have a whole replication,
+- [02:08:51,450 - 02:08:52,710] like I described over here,
+- [02:08:52,710 - 02:08:54,210] where did I describe it,
+- [02:08:54,310 - 02:08:56,710] where we have many replicas of the same thing,
+- [02:08:57,929 - 02:08:59,930] many replicas of the same thing,
+- [02:09:00,070 - 02:09:03,570] then Bob can discover the fact
+- [02:09:03,570 - 02:09:06,070] that his state is entangled with something.
+- [02:09:06,590 - 02:09:08,890] And the way he does it is he says,
+- [02:09:09,030 - 02:09:12,010] let me search around for a direction in space
+- [02:09:12,690 - 02:09:15,270] for which the spins are definitely aligned
+- [02:09:15,270 - 02:09:16,170] in some direction.
+- [02:09:16,390 - 02:09:16,950] Here's what he knows.
+- [02:09:17,090 - 02:09:18,560] He knows that all the systems
+- [02:09:18,560 - 02:09:20,030] were prepared in the same way.
+- [02:09:20,930 - 02:09:22,010] They're all identical.
+- [02:09:22,350 - 02:09:25,030] Each pair is identical to each other pair,
+- [02:09:25,110 - 02:09:26,410] is identical to each other pair.
+- [02:09:26,930 - 02:09:27,930] And he's wondering,
+- [02:09:28,050 - 02:09:31,190] could each one of these be in a product state?
+- [02:09:31,350 - 02:09:32,810] Same product state for this one,
+- [02:09:32,890 - 02:09:34,210] same product state for that one,
+- [02:09:34,250 - 02:09:35,550] same product state for that one.
+- [02:09:36,030 - 02:09:37,470] If they're in a product state,
+- [02:09:37,610 - 02:09:39,010] then Bob can search around.
+- [02:09:39,250 - 02:09:41,550] He's got enough versions of it,
+- [02:09:41,550 - 02:09:44,110] enough trials that he can go on and on
+- [02:09:44,110 - 02:09:45,210] with experiments forever.
+- [02:09:46,250 - 02:09:48,450] And he can search around for a direction
+- [02:09:49,030 - 02:09:51,090] where when he measures the spin,
+- [02:09:51,090 - 02:09:51,770] his spin,
+- [02:09:52,250 - 02:09:54,510] he always discovers that it's up.
+- [02:09:55,230 - 02:09:55,710] Now,
+- [02:09:55,710 - 02:09:58,930] the first time he may be in the wrong direction
+- [02:09:58,930 - 02:09:59,990] and he'll find down.
+- [02:10:00,450 - 02:10:02,170] Next time he may find up,
+- [02:10:02,170 - 02:10:03,010] he'll try it again.
+- [02:10:03,150 - 02:10:03,750] It'll be down,
+- [02:10:03,750 - 02:10:04,490] wrong direction.
+- [02:10:04,650 - 02:10:05,850] And he keeps searching around.
+- [02:10:06,630 - 02:10:08,010] If it's a product state,
+- [02:10:08,210 - 02:10:10,250] he will eventually find a direction
+- [02:10:10,250 - 02:10:14,330] where the spin will continue to be up,
+- [02:10:14,330 - 02:10:14,630] up,
+- [02:10:14,630 - 02:10:14,970] up,
+- [02:10:14,970 - 02:10:15,170] up
+- [02:10:15,170 - 02:10:16,230] after he's found it.
+- [02:10:16,530 - 02:10:18,230] If it's an entangled state,
+- [02:10:18,450 - 02:10:20,490] no matter what direction he measures,
+- [02:10:20,750 - 02:10:23,570] he will always find the spins are random.
+- [02:10:25,730 - 02:10:26,290] Okay,
+- [02:10:26,290 - 02:10:27,950] that's the character of it.
+- [02:10:31,190 - 02:10:32,830] And that's on separate measurements,
+- [02:10:32,830 - 02:10:33,210] right?
+- [02:10:33,350 - 02:10:34,970] On separate discrete measurements,
+- [02:10:35,110 - 02:10:36,570] not the measurement of the same thing.
+- [02:10:36,850 - 02:10:37,290] No,
+- [02:10:37,290 - 02:10:38,990] you've got to have an ensemble
+- [02:10:38,990 - 02:10:40,230] of identical spin.
+- [02:10:40,250 - 02:10:40,490] You've got to have identical systems
+- [02:10:40,490 - 02:10:43,290] to do anything like this.
+- [02:10:43,730 - 02:10:46,210] You just prepare each one the same way.
+- [02:10:46,330 - 02:10:47,670] You do an experiment.
+- [02:10:47,930 - 02:10:49,210] And he doesn't care about Alice.
+- [02:10:49,310 - 02:10:51,950] He's just going to measure his spin along some axis.
+- [02:10:52,330 - 02:10:53,290] Another axis,
+- [02:10:53,290 - 02:10:54,050] another axis,
+- [02:10:54,150 - 02:10:56,830] until he finds one where he keeps repetitively
+- [02:10:56,830 - 02:10:57,850] getting the same answer.
+- [02:10:58,270 - 02:10:59,970] And then he says that's the direction
+- [02:10:59,970 - 02:11:01,190] that that spin is polarized.
+- [02:11:01,690 - 02:11:03,830] And then he keeps doing it and finds consistency.
+- [02:11:04,610 - 02:11:07,770] He'll never find that unless it's a product state.
+- [02:11:08,630 - 02:11:09,570] So it's pretty...
+- [02:11:10,429 - 02:11:11,790] pretty interesting stuff.
+- [02:11:14,110 - 02:11:15,130] Hard stuff.
+- [02:11:16,350 - 02:11:17,370] For more,
+- [02:11:17,370 - 02:11:19,770] please visit us at stanford.edu.
