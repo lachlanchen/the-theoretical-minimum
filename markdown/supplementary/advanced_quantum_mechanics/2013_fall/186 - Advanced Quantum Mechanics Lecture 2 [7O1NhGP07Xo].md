@@ -1,0 +1,2721 @@
+# Transcript
+
+Source: supplementary/advanced_quantum_mechanics/2013_fall/186 - Advanced Quantum Mechanics Lecture 2 [7O1NhGP07Xo].mkv
+
+- [00:00:04,760 - 00:00:06,200] Stanford University
+- [00:00:09,000 - 00:00:09,760] Alright,
+- [00:00:09,760 - 00:00:15,980] so we were in the midst of talking about symmetry.
+- [00:00:18,260 - 00:00:21,420] Symmetries are operations that you can do
+- [00:00:21,420 - 00:00:24,580] on a system which don't change the description,
+- [00:00:25,200 - 00:00:28,440] which don't change the phenomena,
+- [00:00:28,440 - 00:00:31,560] which don't change the energy levels,
+- [00:00:31,780 - 00:00:36,120] which don't change the values of the energies of systems.
+- [00:00:36,580 - 00:00:38,340] That's not ours,
+- [00:00:38,340 - 00:00:38,880] I don't think.
+- [00:00:41,360 - 00:00:42,460] In particular,
+- [00:00:42,460 - 00:00:43,800] they don't change the values
+- [00:00:43,800 - 00:00:45,140] of the energies of a system.
+- [00:00:46,100 - 00:00:48,840] Examples that we talked about were translation.
+- [00:00:49,560 - 00:00:53,060] If you take an atom with a given energy,
+- [00:00:53,060 - 00:00:55,620] and you move it from one place to another,
+- [00:00:55,620 - 00:00:56,760] the energy doesn't change.
+- [00:00:58,080 - 00:01:00,640] Doesn't matter which atomic state you study,
+- [00:01:00,860 - 00:01:02,640] it's not just true for the ground state,
+- [00:01:02,640 - 00:01:04,720] it's true for every atomic state.
+- [00:01:09,300 - 00:01:10,060] And so,
+- [00:01:10,060 - 00:01:16,760] the Hamiltonian doesn't change when you move things.
+- [00:01:17,200 - 00:01:18,100] That's a symmetry.
+- [00:01:18,460 - 00:01:20,280] The Schrodinger equation doesn't change.
+- [00:01:20,500 - 00:01:21,800] Same Schrodinger equation.
+- [00:01:23,060 - 00:01:26,020] Same thing is true for rotating a system.
+- [00:01:26,520 - 00:01:29,200] We're going to talk a lot tonight about rotating systems.
+- [00:01:34,580 - 00:01:38,460] Another example is just interchanging two particles,
+- [00:01:38,460 - 00:01:39,720] two identical particles.
+- [00:01:40,460 - 00:01:42,360] You might call one electron,
+- [00:01:42,360 - 00:01:43,260] electron one,
+- [00:01:43,260 - 00:01:44,460] and the other electron,
+- [00:01:44,460 - 00:01:45,340] electron two.
+- [00:01:45,760 - 00:01:47,400] You might call them Harry and Fred.
+- [00:01:49,520 - 00:01:51,460] Changing the names of the electrons,
+- [00:01:51,460 - 00:01:53,960] interchanging electron one with electron two,
+- [00:01:54,800 - 00:01:59,080] doesn't change the properties of an atom.
+- [00:02:00,020 - 00:02:01,400] So that's also a symmetry.
+- [00:02:02,640 - 00:02:04,430] We tend not to think of it as
+- [00:02:04,430 - 00:02:06,220] a symmetry just because we're so used to it.
+- [00:02:06,280 - 00:02:07,720] Identical particles are identical,
+- [00:02:07,720 - 00:02:09,620] so it doesn't matter what you name them.
+- [00:02:10,020 - 00:02:11,160] But it is a symmetry.
+- [00:02:11,800 - 00:02:14,760] And there are other symmetries of physics.
+- [00:02:16,140 - 00:02:17,060] For example,
+- [00:02:17,060 - 00:02:18,100] if you have a crystal lattice,
+- [00:02:18,100 - 00:02:22,020] a crystal lattice has a kind of translation symmetry.
+- [00:02:23,620 - 00:02:27,300] It's not translation symmetry in space.
+- [00:02:27,720 - 00:02:29,960] It is translation symmetry in space,
+- [00:02:30,260 - 00:02:33,180] but a different kind of translation symmetry in space.
+- [00:02:33,840 - 00:02:38,440] It's just translating everything by one lattice unit.
+- [00:02:39,000 - 00:02:40,680] If we had a very,
+- [00:02:40,680 - 00:02:41,420] very long,
+- [00:02:41,420 - 00:02:45,060] almost infinite crystal,
+- [00:02:45,580 - 00:02:48,080] then it's almost a perfect symmetry.
+- [00:02:48,080 - 00:02:52,280] To translate from one atom to the,
+- [00:02:52,280 - 00:02:52,580] you know,
+- [00:02:52,620 - 00:02:55,960] to translate the whole system by one lattice spacing.
+- [00:02:56,480 - 00:02:57,200] Of course,
+- [00:02:57,200 - 00:02:58,840] there it's not exactly a symmetry
+- [00:02:58,840 - 00:03:00,480] if the system is not infinite.
+- [00:03:01,340 - 00:03:02,820] If the system is not infinite,
+- [00:03:02,820 - 00:03:04,560] then there are boundaries to the crystal.
+- [00:03:04,760 - 00:03:05,240] Well,
+- [00:03:05,240 - 00:03:06,860] then you can't really translate it.
+- [00:03:06,940 - 00:03:08,000] But if the crystal went
+- [00:03:08,000 - 00:03:09,060] on and on and on forever,
+- [00:03:10,260 - 00:03:11,680] then you could do two things.
+- [00:03:12,240 - 00:03:16,340] You could imagine taking the crystal,
+- [00:03:20,359 - 00:03:23,160] and moving the entire crystal a little bit.
+- [00:03:28,080 - 00:03:29,120] This one goes to here,
+- [00:03:29,120 - 00:03:29,940] this one goes to here,
+- [00:03:30,000 - 00:03:30,720] this one goes to here,
+- [00:03:30,720 - 00:03:31,520] this one goes to here.
+- [00:03:33,260 - 00:03:34,860] That is a symmetry of a crystal.
+- [00:03:35,140 - 00:03:35,780] That's true.
+- [00:03:35,920 - 00:03:37,340] It's a symmetry of anything.
+- [00:03:38,100 - 00:03:40,340] The ability to move it from one place to another.
+- [00:03:40,800 - 00:03:43,220] But the crystal has a different symmetry,
+- [00:03:43,960 - 00:03:44,940] which is just,
+- [00:03:47,460 - 00:03:47,860] just,
+- [00:03:48,080 - 00:03:49,900] translating from,
+- [00:03:51,000 - 00:03:52,020] let's call this one,
+- [00:03:52,020 - 00:03:52,980] two,
+- [00:03:52,980 - 00:03:53,740] three,
+- [00:03:53,740 - 00:03:54,560] four,
+- [00:03:54,680 - 00:03:55,920] and let's suppose it goes on
+- [00:03:55,920 - 00:03:57,160] and on and on forever and ever.
+- [00:03:58,420 - 00:04:00,870] Just relabeling the crystal so that
+- [00:04:00,870 - 00:04:03,320] this one is now called minus one,
+- [00:04:03,400 - 00:04:04,080] this one is called,
+- [00:04:04,720 - 00:04:05,120] no,
+- [00:04:05,120 - 00:04:05,360] no,
+- [00:04:05,360 - 00:04:05,680] not one,
+- [00:04:05,680 - 00:04:06,160] minus one,
+- [00:04:06,160 - 00:04:06,460] zero,
+- [00:04:06,460 - 00:04:07,060] one,
+- [00:04:07,060 - 00:04:07,620] two,
+- [00:04:07,620 - 00:04:08,160] three.
+- [00:04:08,640 - 00:04:10,340] Imagine the crystal goes on and on.
+- [00:04:12,160 - 00:04:13,220] That's also a symmetry.
+- [00:04:13,680 - 00:04:15,300] Translation of crystals by the crystal,
+- [00:04:15,300 - 00:04:17,440] by the crystal lattice spacing.
+- [00:04:18,860 - 00:04:19,560] What else?
+- [00:04:19,720 - 00:04:21,360] What other symmetries are there?
+- [00:04:21,519 - 00:04:22,340] There are lots.
+- [00:04:23,460 - 00:04:24,400] There are lots,
+- [00:04:24,400 - 00:04:25,000] but,
+- [00:04:27,240 - 00:04:29,660] some of them are more abstract than others.
+- [00:04:32,320 - 00:04:34,840] The physically intuitive ones
+- [00:04:35,400 - 00:04:38,260] tend to have to do with properties of space.
+- [00:04:39,780 - 00:04:41,240] The homogeneity of space,
+- [00:04:41,540 - 00:04:43,740] the fact that every point is like every other point,
+- [00:04:43,740 - 00:04:45,760] is translation symmetry.
+- [00:04:46,100 - 00:04:47,880] The isotropy of space,
+- [00:04:48,180 - 00:04:50,740] the fact that every direction is like every other direction,
+- [00:04:50,940 - 00:04:52,480] is rotational symmetry.
+- [00:04:54,800 - 00:04:55,460] Now,
+- [00:04:58,199 - 00:04:59,520] another concept
+- [00:05:00,580 - 00:05:01,420] that is,
+- [00:05:01,420 - 00:05:03,340] we'll see is related to symmetry,
+- [00:05:03,660 - 00:05:04,880] not the same thing,
+- [00:05:05,100 - 00:05:06,560] is called degeneracy.
+- [00:05:08,260 - 00:05:10,200] Degeneracy and then specifically
+- [00:05:10,200 - 00:05:12,140] degeneracy of energy levels.
+- [00:05:13,260 - 00:05:16,140] Degeneracy of energy levels is simply the statement
+- [00:05:16,140 - 00:05:18,400] an energy level of a system
+- [00:05:18,880 - 00:05:20,640] is said to be degenerate
+- [00:05:20,640 - 00:05:22,390] if there's more than one
+- [00:05:22,390 - 00:05:24,140] state with the same energy level.
+- [00:05:25,400 - 00:05:28,120] Then that energy level is called degenerate.
+- [00:05:29,700 - 00:05:31,240] When does it happen,
+- [00:05:32,080 - 00:05:36,800] for a random system with a generic Hamiltonian,
+- [00:05:36,920 - 00:05:40,500] assuming that the spectrum of it is,
+- [00:05:42,080 - 00:05:43,000] discrete spectrum,
+- [00:05:43,160 - 00:05:46,920] some sort of discrete spectrum of energy levels,
+- [00:05:47,180 - 00:05:48,820] it would be an accident,
+- [00:05:49,020 - 00:05:50,680] it would be a rather odd accident,
+- [00:05:51,240 - 00:05:54,260] that two levels would have exactly the same energy.
+- [00:05:54,520 - 00:05:55,580] And when I say exactly,
+- [00:05:55,680 - 00:05:57,300] I mean exactly the same energy.
+- [00:05:57,580 - 00:05:59,095] They may have the same energy to
+- [00:05:59,095 - 00:06:00,610] one part in 10 to the 15th,
+- [00:06:01,580 - 00:06:03,940] but to say they have exactly the same energy,
+- [00:06:04,060 - 00:06:06,240] what kind of coincidence would that take?
+- [00:06:07,320 - 00:06:07,780] Well,
+- [00:06:08,840 - 00:06:09,900] as we'll see,
+- [00:06:09,900 - 00:06:12,400] it doesn't necessarily take a coincidence,
+- [00:06:12,840 - 00:06:14,280] it takes a symmetry.
+- [00:06:16,500 - 00:06:17,580] In fact,
+- [00:06:17,580 - 00:06:19,000] those are the only cases
+- [00:06:19,900 - 00:06:23,840] where we really believe that there are true degeneracies,
+- [00:06:23,860 - 00:06:25,460] exact degeneracies of nature,
+- [00:06:27,200 - 00:06:28,720] when there are symmetries.
+- [00:06:32,540 - 00:06:33,920] Degeneracies sometimes,
+- [00:06:34,859 - 00:06:35,580] no,
+- [00:06:37,299 - 00:06:38,020] sometimes,
+- [00:06:38,160 - 00:06:39,220] not degeneracy,
+- [00:06:39,560 - 00:06:39,840] sometimes,
+- [00:06:39,900 - 00:06:40,680] means symmetry,
+- [00:06:40,900 - 00:06:41,480] the other way.
+- [00:06:42,080 - 00:06:45,120] Symmetries sometimes imply degeneracy,
+- [00:06:45,140 - 00:06:46,160] but not always.
+- [00:06:46,620 - 00:06:48,060] And I'm gonna show you now,
+- [00:06:48,120 - 00:06:49,460] I'm gonna begin with an example
+- [00:06:49,460 - 00:06:53,900] in which you can see sort of intuitively
+- [00:06:54,900 - 00:07:00,880] how symmetries and when symmetries imply degeneracy.
+- [00:07:04,079 - 00:07:07,720] That incidentally is one of the main uses of symmetry
+- [00:07:07,720 - 00:07:09,880] to analyze the energy,
+- [00:07:09,900 - 00:07:11,440] the energy spectrums of systems,
+- [00:07:11,580 - 00:07:15,860] and see that they have levels that exactly match.
+- [00:07:16,220 - 00:07:17,580] That can be very important.
+- [00:07:17,900 - 00:07:18,600] In atoms,
+- [00:07:18,600 - 00:07:19,760] it's extremely important.
+- [00:07:22,440 - 00:07:24,700] Let's start with rotation symmetry.
+- [00:07:26,160 - 00:07:28,040] Let's start with rotation symmetry.
+- [00:07:28,360 - 00:07:31,040] And I wanna think about a very simple system,
+- [00:07:31,760 - 00:07:34,460] namely a particle moving on a circle.
+- [00:07:35,480 - 00:07:38,400] It could be a particle moving on a circular wire.
+- [00:07:38,400 - 00:07:41,260] I don't want it to get off the circle,
+- [00:07:41,440 - 00:07:42,760] so it's a little particle,
+- [00:07:42,840 - 00:07:44,720] which is kind of a bead moving on the circle.
+- [00:07:46,180 - 00:07:47,460] And what is the symmetry?
+- [00:07:47,780 - 00:07:50,420] The symmetry is rotational invariance.
+- [00:07:51,760 - 00:07:54,180] How do we describe the location of the particle?
+- [00:07:55,200 - 00:07:55,740] Well,
+- [00:07:57,180 - 00:08:00,920] if we embed it in two-dimensional space,
+- [00:08:01,320 - 00:08:02,980] then we could describe it by
+- [00:08:02,980 - 00:08:04,640] an x and a y coordinate.
+- [00:08:05,940 - 00:08:07,160] But as long as a
+- [00:08:07,160 - 00:08:08,380] particle can't get off the circle,
+- [00:08:08,380 - 00:08:10,380] if it's only moving in the angular space,
+- [00:08:12,099 - 00:08:13,860] then it's a little bit excessive
+- [00:08:13,860 - 00:08:16,200] to think about an x and a y coordinate.
+- [00:08:16,800 - 00:08:18,650] We can just think of
+- [00:08:18,650 - 00:08:20,500] a theta coordinate or an angle.
+- [00:08:25,960 - 00:08:28,120] That particle has a wave function.
+- [00:08:28,440 - 00:08:29,640] Here's the particle over here.
+- [00:08:29,940 - 00:08:31,360] It has a wave function.
+- [00:08:32,000 - 00:08:34,240] The wave function could be thought of
+- [00:08:34,240 - 00:08:36,480] as a function of x and y,
+- [00:08:36,720 - 00:08:37,620] but as I said,
+- [00:08:37,620 - 00:08:38,539] that's excessive,
+- [00:08:38,799 - 00:08:40,659] too many variables.
+- [00:08:41,360 - 00:08:43,860] We can just think of it as psi of theta.
+- [00:08:44,800 - 00:08:46,080] The wave function,
+- [00:08:47,000 - 00:08:48,260] its square,
+- [00:08:48,580 - 00:08:50,260] or it times its absolute,
+- [00:08:50,440 - 00:08:51,600] excuse me,
+- [00:08:51,600 - 00:08:53,520] it times its complex conjugate
+- [00:08:53,520 - 00:08:58,040] defines the probability to find particle on the circle.
+- [00:09:02,319 - 00:09:04,520] What does the operation of rotation do?
+- [00:09:04,660 - 00:09:05,840] Let's say rotation,
+- [00:09:08,060 - 00:09:08,560] counterclockwise,
+- [00:09:11,300 - 00:09:12,960] rotation counterclockwise takes
+- [00:09:12,960 - 00:09:18,380] psi to psi of theta minus epsilon,
+- [00:09:19,100 - 00:09:21,540] where epsilon is the small angle of rotation.
+- [00:09:22,920 - 00:09:25,160] I constantly get confused about whether
+- [00:09:25,160 - 00:09:27,400] it's plus epsilon or minus epsilon.
+- [00:09:27,440 - 00:09:28,440] I hope I have it right,
+- [00:09:28,560 - 00:09:29,040] but if not,
+- [00:09:29,040 - 00:09:29,900] don't worry about it.
+- [00:09:29,960 - 00:09:31,580] It just means all of my signs will be wrong.
+- [00:09:34,500 - 00:09:35,000] Okay.
+- [00:09:40,360 - 00:09:40,900] So,
+- [00:09:40,900 - 00:09:43,200] psi goes to psi of theta minus epsilon,
+- [00:09:43,380 - 00:09:46,460] or another way to say the same thing
+- [00:09:47,540 - 00:09:49,820] is that the change in psi,
+- [00:09:51,120 - 00:09:51,660] epsilon,
+- [00:09:51,660 - 00:09:52,320] of course,
+- [00:09:52,960 - 00:09:55,620] is our small number,
+- [00:09:55,780 - 00:09:57,860] which is so small that it's square or zero.
+- [00:09:58,860 - 00:10:00,520] It's an infinitesimal number.
+- [00:10:01,370 - 00:10:02,440] The change in psi
+- [00:10:02,440 - 00:10:05,380] is equal to the derivative of psi
+- [00:10:05,380 - 00:10:09,540] with respect to theta times epsilon.
+- [00:10:12,080 - 00:10:13,860] I can rewrite that
+- [00:10:15,360 - 00:10:17,920] as minus i epsilon
+- [00:10:21,440 - 00:10:24,140] times minus i epsilon,
+- [00:10:24,320 - 00:10:27,320] minus i derivative of psi
+- [00:10:27,320 - 00:10:28,820] with respect to theta.
+- [00:10:30,160 - 00:10:30,960] Now,
+- [00:10:30,960 - 00:10:32,520] I've put those i's in there
+- [00:10:33,380 - 00:10:33,940] because
+- [00:10:35,380 - 00:10:36,580] I want you to remember,
+- [00:10:36,900 - 00:10:37,720] well,
+- [00:10:37,720 - 00:10:39,580] let's think about ordinary momentum.
+- [00:10:40,120 - 00:10:41,400] Ordinary momentum
+- [00:10:42,380 - 00:10:42,880] is
+- [00:10:44,980 - 00:10:46,960] described by an operator which
+- [00:10:46,960 - 00:10:48,940] is minus i d by dx.
+- [00:10:50,120 - 00:10:51,260] Angular momentum
+- [00:10:53,160 - 00:10:53,960] is simply,
+- [00:10:54,100 - 00:10:56,660] basically the same as momentum,
+- [00:10:56,940 - 00:11:00,780] except the coordinate is angle
+- [00:11:00,780 - 00:11:02,660] instead of being linear position.
+- [00:11:05,380 - 00:11:08,880] The operator minus i d by d theta,
+- [00:11:09,600 - 00:11:10,580] and that's an operator,
+- [00:11:10,760 - 00:11:11,680] it's a linear operator,
+- [00:11:11,900 - 00:11:12,780] it's a Hermitian operator.
+- [00:11:13,480 - 00:11:15,740] The i is there to make it Hermitian.
+- [00:11:17,100 - 00:11:18,000] Without the i,
+- [00:11:18,120 - 00:11:19,180] it would not be Hermitian.
+- [00:11:19,540 - 00:11:21,240] Does one of those i's be positive?
+- [00:11:22,200 - 00:11:23,220] Is one of the i's what?
+- [00:11:23,560 - 00:11:25,300] Should be epsilon and then positive plus,
+- [00:11:25,300 - 00:11:25,520] no?
+- [00:11:26,720 - 00:11:27,820] Do I have a...
+- [00:11:27,820 - 00:11:29,100] I think the epsilon is...
+- [00:11:29,100 - 00:11:29,540] Minus i,
+- [00:11:29,540 - 00:11:30,260] then minus i,
+- [00:11:30,300 - 00:11:30,440] yeah,
+- [00:11:30,440 - 00:11:31,480] I think it may be plus.
+- [00:11:32,120 - 00:11:32,620] Let's see,
+- [00:11:32,620 - 00:11:33,280] did I get it wrong?
+- [00:11:40,420 - 00:11:41,020] No,
+- [00:11:41,020 - 00:11:43,140] I actually had it right.
+- [00:11:45,400 - 00:11:46,000] Minus...
+- [00:11:46,780 - 00:11:47,860] I had it right,
+- [00:11:48,000 - 00:11:49,440] this side was wrong.
+- [00:11:49,700 - 00:11:50,100] Yeah,
+- [00:11:50,100 - 00:11:51,080] okay.
+- [00:11:52,200 - 00:11:53,460] It's correct now.
+- [00:11:55,040 - 00:11:55,640] Okay,
+- [00:11:55,640 - 00:11:56,260] but
+- [00:11:57,660 - 00:11:59,700] minus i d by d theta
+- [00:12:00,200 - 00:12:01,560] is a Hermitian operator,
+- [00:12:03,439 - 00:12:05,240] you may be surprised
+- [00:12:05,240 - 00:12:06,450] that there has to have
+- [00:12:06,450 - 00:12:07,660] an i in front of it
+- [00:12:07,660 - 00:12:08,560] for it to be Hermitian.
+- [00:12:08,740 - 00:12:09,540] After all,
+- [00:12:09,600 - 00:12:12,380] Hermitian is the analog among operators
+- [00:12:12,380 - 00:12:13,880] as being real,
+- [00:12:14,439 - 00:12:16,300] but I guarantee you
+- [00:12:16,300 - 00:12:17,380] that i has to be there.
+- [00:12:17,560 - 00:12:18,940] Go back in your notes
+- [00:12:18,940 - 00:12:20,380] to the study of momentum,
+- [00:12:21,420 - 00:12:22,820] and you'll find out
+- [00:12:22,820 - 00:12:24,100] why that i has to be there.
+- [00:12:24,680 - 00:12:26,700] And that's called the angular momentum.
+- [00:12:28,980 - 00:12:30,640] That's usually denoted L.
+- [00:12:31,060 - 00:12:31,540] And that's the angular momentum
+- [00:12:32,700 - 00:12:33,360] of the angular momentum.
+- [00:12:33,360 - 00:12:33,700] Y L?
+- [00:12:33,900 - 00:12:35,100] Don't know Y L.
+- [00:12:36,740 - 00:12:38,120] Y P for momentum?
+- [00:12:38,460 - 00:12:39,940] Don't know Y P for momentum.
+- [00:12:42,380 - 00:12:44,580] But L is the angular momentum.
+- [00:12:45,300 - 00:12:46,220] And so,
+- [00:12:46,220 - 00:12:47,160] we can write
+- [00:12:47,160 - 00:12:49,140] that the change in psi
+- [00:12:50,260 - 00:12:54,180] under the operation of infinitesimal rotation
+- [00:12:55,310 - 00:12:56,400] is governed by
+- [00:12:57,640 - 00:12:58,660] minus i
+- [00:12:59,540 - 00:13:00,600] times the action
+- [00:13:00,600 - 00:13:02,760] of the angular momentum operator
+- [00:13:03,600 - 00:13:04,360] on psi.
+- [00:13:06,410 - 00:13:07,760] That identifies,
+- [00:13:07,840 - 00:13:09,400] according to the definitions
+- [00:13:09,400 - 00:13:10,600] of last week,
+- [00:13:11,349 - 00:13:13,060] that identifies L
+- [00:13:13,600 - 00:13:15,600] as the generator of rotations.
+- [00:13:17,360 - 00:13:19,540] If you can't remember
+- [00:13:19,540 - 00:13:20,920] the precise definition,
+- [00:13:21,300 - 00:13:22,820] let's just say
+- [00:13:22,820 - 00:13:24,520] that this is the definition
+- [00:13:25,600 - 00:13:27,420] of the generator
+- [00:13:27,420 - 00:13:29,420] of a symmetry operation.
+- [00:13:29,680 - 00:13:30,580] It's the generator
+- [00:13:30,600 - 00:13:32,420] If the symmetry operation is such
+- [00:13:32,420 - 00:13:35,700] that it has a version of it
+- [00:13:35,700 - 00:13:37,960] for arbitrarily small parameter,
+- [00:13:38,460 - 00:13:39,780] in this case angle,
+- [00:13:40,480 - 00:13:42,800] then the definition of the generator
+- [00:13:43,439 - 00:13:46,500] is just in terms of the small change
+- [00:13:46,500 - 00:13:47,420] in the wave function
+- [00:13:48,540 - 00:13:52,200] when you shift by an infinitesimal amount,
+- [00:13:53,060 - 00:13:55,780] and that will just give you the generator.
+- [00:13:56,020 - 00:13:56,760] You lost an epsilon.
+- [00:13:57,000 - 00:13:57,600] Don't worry.
+- [00:13:57,600 - 00:13:58,720] I did lose an epsilon.
+- [00:14:02,860 - 00:14:03,480] I did lose an epsilon.
+- [00:14:03,620 - 00:14:04,660] I did lose an epsilon,
+- [00:14:04,900 - 00:14:06,060] and this defines L,
+- [00:14:06,220 - 00:14:08,340] and L is minus i d by d theta.
+- [00:14:10,480 - 00:14:10,960] Okay.
+- [00:14:11,920 - 00:14:13,860] And L is known as the angular momentum.
+- [00:14:14,660 - 00:14:15,140] Now,
+- [00:14:15,140 - 00:14:16,100] before I go on,
+- [00:14:16,120 - 00:14:17,980] I want to put in some H bars.
+- [00:14:19,920 - 00:14:21,800] I'll surely drop them again,
+- [00:14:21,920 - 00:14:23,660] but just to remind you where they go.
+- [00:14:24,940 - 00:14:26,400] The precise definition,
+- [00:14:26,400 - 00:14:28,100] including H bars,
+- [00:14:28,180 - 00:14:29,880] when we don't set H bar to one,
+- [00:14:30,520 - 00:14:32,400] contains an H bar over here.
+- [00:14:34,540 - 00:14:36,540] That's the same H bar that occurs
+- [00:14:36,540 - 00:14:37,460] in the momentum,
+- [00:14:37,760 - 00:14:42,080] P equals minus i H bar d by dx.
+- [00:14:43,820 - 00:14:44,980] Same H bar,
+- [00:14:49,100 - 00:14:50,980] and it's a little bit arbitrary
+- [00:14:50,980 - 00:14:52,180] where we put it,
+- [00:14:53,400 - 00:14:55,140] but putting it over here,
+- [00:14:55,140 - 00:14:57,160] I guess we would say that
+- [00:14:57,860 - 00:15:00,880] the change in psi is i
+- [00:15:00,880 - 00:15:03,900] epsilon over H bar times L.
+- [00:15:04,140 - 00:15:04,700] Now,
+- [00:15:04,700 - 00:15:05,940] probably here and there,
+- [00:15:06,580 - 00:15:09,940] just to remind you and to keep you awake,
+- [00:15:10,220 - 00:15:11,580] I will put in H bars
+- [00:15:13,000 - 00:15:13,940] now and then,
+- [00:15:14,040 - 00:15:15,540] every so often,
+- [00:15:16,320 - 00:15:16,880] randomly.
+- [00:15:20,160 - 00:15:20,720] Okay.
+- [00:15:28,300 - 00:15:30,060] What are the eigenvectors
+- [00:15:30,910 - 00:15:32,180] of the angular momentum?
+- [00:15:33,040 - 00:15:34,900] The eigenvectors of the ang-
+- [00:15:34,900 - 00:15:36,100] and the eigenvalues.
+- [00:15:36,460 - 00:15:38,660] The eigenvalues are the values
+- [00:15:38,660 - 00:15:40,820] of the possible outcomes of experiments,
+- [00:15:41,320 - 00:15:43,940] and the eigenvectors are the states
+- [00:15:43,940 - 00:15:45,160] of the system which-
+- [00:15:45,160 - 00:15:47,420] for which those outcomes are certain.
+- [00:15:48,040 - 00:15:48,860] All right,
+- [00:15:48,860 - 00:15:49,560] to answer that,
+- [00:15:49,780 - 00:15:53,160] we write the equation L on psi,
+- [00:15:55,140 - 00:15:57,240] that's the action of the angular momentum,
+- [00:15:58,040 - 00:16:00,780] is equal to an eigenvalue,
+- [00:16:01,060 - 00:16:03,200] I'm going to call that eigenvalue M.
+- [00:16:05,220 - 00:16:06,260] It's standard.
+- [00:16:06,760 - 00:16:08,340] M times psi.
+- [00:16:11,880 - 00:16:12,480] Now,
+- [00:16:12,480 - 00:16:13,900] if I were doing it,
+- [00:16:13,960 - 00:16:15,420] I would have put little L here,
+- [00:16:15,680 - 00:16:18,380] but somebody did this long in the past.
+- [00:16:18,800 - 00:16:21,880] M happens to stand for magnetic quantum number,
+- [00:16:22,080 - 00:16:24,800] but that's a historical,
+- [00:16:24,800 - 00:16:25,120] and it's not a real number,
+- [00:16:25,120 - 00:16:25,740] it's a real anachronism.
+- [00:16:25,980 - 00:16:26,560] Nevertheless,
+- [00:16:26,560 - 00:16:28,940] the eigenvalue of L,
+- [00:16:29,080 - 00:16:31,200] and let's add a little more to this picture.
+- [00:16:31,540 - 00:16:33,360] Let's put a z-axis in.
+- [00:16:33,580 - 00:16:35,480] The z-axis comes out of the blackboard.
+- [00:16:36,100 - 00:16:38,180] So we're talking about rotations
+- [00:16:38,180 - 00:16:39,560] about the z-axis.
+- [00:16:40,040 - 00:16:42,620] We could call this the z-component
+- [00:16:42,620 - 00:16:44,000] of the angular momentum.
+- [00:16:44,400 - 00:16:46,900] It is the z-component of the angular momentum.
+- [00:16:46,900 - 00:16:47,700] For the moment,
+- [00:16:47,700 - 00:16:48,800] I'm going to suppress that.
+- [00:16:50,340 - 00:16:51,120] All right,
+- [00:16:51,120 - 00:16:53,240] and M is the eigenvalue
+- [00:16:53,240 - 00:16:54,640] of that angular momentum,
+- [00:16:55,120 - 00:16:56,180] so strictly speaking,
+- [00:16:56,380 - 00:16:58,560] it's the eigenvalue of the z-component
+- [00:16:58,560 - 00:16:59,420] of angular momentum.
+- [00:17:00,020 - 00:17:02,200] Does it matter which axis is z
+- [00:17:02,200 - 00:17:03,800] and which axis is x?
+- [00:17:03,880 - 00:17:04,980] So you rotate the home?
+- [00:17:04,980 - 00:17:05,180] No,
+- [00:17:05,180 - 00:17:05,780] it doesn't matter,
+- [00:17:05,900 - 00:17:07,319] but it's convention.
+- [00:17:08,740 - 00:17:09,280] Okay,
+- [00:17:09,280 - 00:17:11,079] how do we find the eigenvectors?
+- [00:17:11,500 - 00:17:12,560] In other words,
+- [00:17:12,579 - 00:17:14,500] how do we find the wave functions
+- [00:17:15,119 - 00:17:16,980] that correspond to eigenvectors?
+- [00:17:17,220 - 00:17:18,119] And for that,
+- [00:17:18,119 - 00:17:19,520] we just do the obvious thing.
+- [00:17:19,640 - 00:17:24,000] We put in minus i h-bar d by d theta.
+- [00:17:25,420 - 00:17:28,760] That's L acting on psi of theta
+- [00:17:29,440 - 00:17:32,320] is equal to M psi of theta.
+- [00:17:33,700 - 00:17:35,860] That's a standard type of equation.
+- [00:17:36,060 - 00:17:38,660] The derivative of something
+- [00:17:38,660 - 00:17:41,400] is proportional to that something else.
+- [00:17:41,500 - 00:17:42,870] We could bring the i
+- [00:17:42,870 - 00:17:44,240] h-bar over to the right-hand side,
+- [00:17:44,840 - 00:17:46,000] and that tells us
+- [00:17:46,700 - 00:17:49,880] that the eigenvector with eigenvalue M
+- [00:17:49,880 - 00:17:50,520] is equal to m.
+- [00:17:54,400 - 00:17:55,100] So that's the eigenvalue of M.
+- [00:17:55,100 - 00:17:58,060] It is equal to e to the i M theta.
+- [00:17:59,980 - 00:18:03,000] It's very similar to the case of ordinary momentum.
+- [00:18:03,260 - 00:18:03,540] Oops!
+- [00:18:04,340 - 00:18:05,740] What do I have missing here?
+- [00:18:06,400 - 00:18:08,020] I'm missing the h-bar.
+- [00:18:08,220 - 00:18:10,020] The h-bar would go downstairs here.
+- [00:18:13,660 - 00:18:16,180] Because if you divide by h-bar,
+- [00:18:16,320 - 00:18:17,730] you see the thing that
+- [00:18:17,730 - 00:18:19,140] comes in is M over h-bar.
+- [00:18:21,380 - 00:18:21,900] Now,
+- [00:18:21,900 - 00:18:24,900] unlike the case of ordinary linear momentum,
+- [00:18:25,580 - 00:18:26,940] there's another constraint.
+- [00:18:27,920 - 00:18:29,360] You know the other constraint.
+- [00:18:29,520 - 00:18:30,720] I'm sure that most of you know it,
+- [00:18:30,760 - 00:18:31,900] but let's spell it out anyway.
+- [00:18:32,560 - 00:18:34,860] The other constraint is that
+- [00:18:34,860 - 00:18:36,780] when theta is equal to 2 pi,
+- [00:18:39,720 - 00:18:43,640] the wave function should be exactly what it was
+- [00:18:43,640 - 00:18:45,260] when theta was equal to 0.
+- [00:18:45,780 - 00:18:46,300] Why?
+- [00:18:46,700 - 00:18:48,760] Because going around by 2 pi
+- [00:18:48,760 - 00:18:50,520] brings you back to the same point.
+- [00:18:50,900 - 00:18:53,360] And so if there's a sensible wave function,
+- [00:18:53,480 - 00:18:55,080] that sensible wave function
+- [00:18:55,100 - 00:18:57,700] should be unchanged
+- [00:18:58,380 - 00:19:01,540] if you go around the circle by 2 pi.
+- [00:19:02,480 - 00:19:04,970] So that says that e
+- [00:19:04,970 - 00:19:07,460] to the i M over h-bar
+- [00:19:08,100 - 00:19:09,420] times 2 pi...
+- [00:19:10,100 - 00:19:10,440] Well,
+- [00:19:10,440 - 00:19:10,740] let's see.
+- [00:19:10,820 - 00:19:11,380] First of all,
+- [00:19:12,700 - 00:19:15,040] the wave function for theta equals 0
+- [00:19:16,260 - 00:19:17,300] is just 1.
+- [00:19:18,020 - 00:19:19,780] If I set theta equal to 0,
+- [00:19:19,780 - 00:19:20,580] this is just 1.
+- [00:19:20,940 - 00:19:22,680] If I go around by 2 pi,
+- [00:19:23,040 - 00:19:24,660] the answer will be...
+- [00:19:25,100 - 00:19:30,200] e to the i 2 pi M over h-bar.
+- [00:19:30,780 - 00:19:33,280] And that also has to be equal to 1.
+- [00:19:36,100 - 00:19:37,200] What's the constraint?
+- [00:19:37,500 - 00:19:39,840] The constraint is that M over h-bar
+- [00:19:39,840 - 00:19:40,920] has to be an integer.
+- [00:19:42,780 - 00:19:45,240] In order to make sure that the wave function
+- [00:19:45,240 - 00:19:46,420] comes back to itself,
+- [00:19:46,560 - 00:19:47,720] that it's single-valued,
+- [00:19:47,740 - 00:19:50,440] that it has a definite value at each point,
+- [00:19:50,700 - 00:19:52,000] it's necessary
+- [00:19:53,500 - 00:19:55,640] that the eigenvalues M
+- [00:19:55,640 - 00:19:59,680] be integer multiples of Planck's constant.
+- [00:19:59,900 - 00:20:01,080] So let's write that out.
+- [00:20:04,700 - 00:20:07,780] M is equal to an integer...
+- [00:20:09,700 - 00:20:10,500] No.
+- [00:20:11,920 - 00:20:12,720] Yeah.
+- [00:20:13,860 - 00:20:16,520] M is an integer times h-bar,
+- [00:20:16,680 - 00:20:19,400] but the usual notation,
+- [00:20:19,840 - 00:20:20,840] the usual definition,
+- [00:20:22,000 - 00:20:24,640] is to set M equal to the integer.
+- [00:20:25,260 - 00:20:27,260] Just call M the integer,
+- [00:20:27,520 - 00:20:29,360] and then the angular momentum,
+- [00:20:30,360 - 00:20:32,760] the eigenvalue of the angular momentum,
+- [00:20:33,860 - 00:20:37,140] is an integer times h-bar.
+- [00:20:39,140 - 00:20:41,400] That's the quantization of angular momentum
+- [00:20:41,400 - 00:20:42,800] in units of h-bar.
+- [00:20:45,380 - 00:20:45,960] Hereafter,
+- [00:20:45,960 - 00:20:47,240] at least for the time being,
+- [00:20:47,440 - 00:20:48,940] I will drop h-bar,
+- [00:20:49,860 - 00:20:51,980] and we'll just say that the angular momentum
+- [00:20:52,000 - 00:20:54,540] must be equal to an integer.
+- [00:20:56,560 - 00:20:58,740] Angular momentum must be equal to an integer,
+- [00:20:59,000 - 00:21:03,660] and that's a fundamental fact of quantum mechanics
+- [00:21:09,400 - 00:21:15,440] that we've known since the time of Niels Bohr.
+- [00:21:18,820 - 00:21:19,360] Okay,
+- [00:21:19,360 - 00:21:21,980] now I have the following question for you.
+- [00:21:22,860 - 00:21:24,840] Must it be the case...
+- [00:21:24,840 - 00:21:26,580] Let's suppose there's some energy.
+- [00:21:27,380 - 00:21:28,900] And let's suppose the energy
+- [00:21:28,900 - 00:21:30,420] depends on the angular momentum.
+- [00:21:30,600 - 00:21:31,280] Of course it does.
+- [00:21:31,860 - 00:21:32,640] The energy...
+- [00:21:32,640 - 00:21:34,360] The bigger the angular momentum,
+- [00:21:34,620 - 00:21:35,680] the bigger the energy.
+- [00:21:35,960 - 00:21:37,600] The particles whipping around
+- [00:21:37,600 - 00:21:39,000] with a large angular momentum
+- [00:21:39,000 - 00:21:41,500] that has more energy than a small angular momentum.
+- [00:21:42,100 - 00:21:44,500] So we expect that the angular momentum...
+- [00:21:45,580 - 00:21:48,380] that the energy will depend on the angular momentum.
+- [00:21:50,380 - 00:21:51,960] But must it be the case
+- [00:21:51,960 - 00:22:02,740] that the energy of a state with angular momentum m...
+- [00:22:02,740 - 00:22:04,640] That's the eigenvalue.
+- [00:22:05,020 - 00:22:06,640] Must it be the same
+- [00:22:08,199 - 00:22:10,549] as the energy of a
+- [00:22:10,549 - 00:22:12,900] state with angular momentum minus m?
+- [00:22:14,060 - 00:22:16,620] What's the difference between m and minus m?
+- [00:22:16,820 - 00:22:17,040] Well,
+- [00:22:17,040 - 00:22:18,480] the only difference is that
+- [00:22:18,480 - 00:22:21,940] positive angular momentum means the particle is moving.
+- [00:22:21,940 - 00:22:24,940] The particle is going around the circle counterclockwise.
+- [00:22:28,040 - 00:22:29,650] And negative angular momentum
+- [00:22:29,650 - 00:22:31,260] means it's going around clockwise.
+- [00:22:34,000 - 00:22:34,800] Take a vote.
+- [00:22:34,900 - 00:22:38,160] How many people think that the energy must
+- [00:22:38,160 - 00:22:41,420] be the same for m and minus m?
+- [00:22:42,960 - 00:22:43,680] Of course.
+- [00:22:43,760 - 00:22:44,660] I'll raise my hand too.
+- [00:22:45,480 - 00:22:46,610] How many think it does
+- [00:22:46,610 - 00:22:47,740] not have to be the same?
+- [00:22:49,580 - 00:22:51,160] I will also raise my hand.
+- [00:22:51,940 - 00:22:52,480] I have a question.
+- [00:22:52,900 - 00:22:53,240] Yeah.
+- [00:22:53,520 - 00:22:54,880] Just when you start out,
+- [00:22:54,960 - 00:22:58,260] you said that theta goes beside theta minus epsilon.
+- [00:22:58,880 - 00:23:00,900] Should I think that then
+- [00:23:00,900 - 00:23:02,920] that implies we're looking at it
+- [00:23:02,920 - 00:23:04,580] as going in a clockwise direction?
+- [00:23:05,000 - 00:23:06,450] It's not telling you anything about
+- [00:23:06,450 - 00:23:07,900] the direction of motion of the particle.
+- [00:23:08,060 - 00:23:09,930] It's only telling you which
+- [00:23:09,930 - 00:23:11,800] way you counted theta as positive.
+- [00:23:12,840 - 00:23:14,000] It's just telling...
+- [00:23:14,000 - 00:23:16,700] It's like telling you I've decided
+- [00:23:16,700 - 00:23:19,400] that the positive x-axis points that way.
+- [00:23:19,560 - 00:23:21,700] That tells me nothing about whether
+- [00:23:21,940 - 00:23:24,160] I'm walking that way or I'm walking this way.
+- [00:23:26,060 - 00:23:26,720] All right.
+- [00:23:27,140 - 00:23:30,220] It does set the definition of what
+- [00:23:30,220 - 00:23:33,300] you mean by positive and negative angular momentum.
+- [00:23:34,340 - 00:23:36,380] But it does not tell you whether
+- [00:23:36,380 - 00:23:38,420] the system has positive or negative angular momentum.
+- [00:23:40,580 - 00:23:41,100] Okay.
+- [00:23:41,720 - 00:23:42,240] Art,
+- [00:23:42,240 - 00:23:43,960] you raised your hand the second time.
+- [00:23:44,160 - 00:23:45,840] Do you know an example where...
+- [00:23:45,840 - 00:23:48,480] I was just thinking that you
+- [00:23:48,480 - 00:23:51,120] could have an asymmetrical field somewhere.
+- [00:23:51,120 - 00:23:51,840] Okay.
+- [00:23:52,000 - 00:23:52,920] All right.
+- [00:23:53,360 - 00:23:57,390] Does anybody know an example of a field
+- [00:23:57,390 - 00:24:01,420] which would lead to an asymmetry between positive
+- [00:24:01,420 - 00:24:04,500] and negative angular momentum or angular velocity?
+- [00:24:05,800 - 00:24:07,260] Magnetic field for electrons.
+- [00:24:07,620 - 00:24:08,060] Yeah.
+- [00:24:08,200 - 00:24:09,220] Magnetic field.
+- [00:24:09,700 - 00:24:12,360] If there were a magnetic field,
+- [00:24:12,360 - 00:24:15,740] that's exactly what magnetic fields do.
+- [00:24:16,280 - 00:24:17,400] Magnetic field,
+- [00:24:17,400 - 00:24:18,140] for example...
+- [00:24:20,220 - 00:24:23,660] Magnetic field into the blackboard will
+- [00:24:23,660 - 00:24:27,100] raise the energy a little bit.
+- [00:24:27,180 - 00:24:28,560] Maybe I may have it backward.
+- [00:24:28,780 - 00:24:31,500] Raise the energy a little bit of positive
+- [00:24:31,500 - 00:24:34,220] angular momentum and lower the energy a little bit
+- [00:24:34,220 - 00:24:35,360] of negative angular momentum.
+- [00:24:35,960 - 00:24:38,460] And it will break the degeneracy.
+- [00:24:39,880 - 00:24:43,400] It'll break the degeneracy between m and minus m.
+- [00:24:43,520 - 00:24:44,120] That's the language.
+- [00:24:45,360 - 00:24:47,300] If you didn't have the magnetic field,
+- [00:24:47,300 - 00:24:51,920] the energy levels would be degenerate in pairs.
+- [00:24:53,240 - 00:24:54,980] Angular momentum zero...
+- [00:24:54,980 - 00:24:55,700] Oh,
+- [00:24:55,700 - 00:24:58,880] angular momentum zero would not be degenerate.
+- [00:24:58,900 - 00:24:59,720] There's only one of them.
+- [00:25:00,280 - 00:25:02,060] But angular momentum plus one
+- [00:25:02,060 - 00:25:03,840] and minus one would be degenerate.
+- [00:25:03,880 - 00:25:06,500] Angular momentum two and minus two would be degenerate.
+- [00:25:06,920 - 00:25:08,880] In the presence of the magnetic field,
+- [00:25:08,880 - 00:25:10,040] that degeneracy is broken,
+- [00:25:10,040 - 00:25:12,740] but that magnetic field
+- [00:25:12,740 - 00:25:14,100] does not violate the energy levels.
+- [00:25:14,120 - 00:25:16,380] It doesn't violate in any way rotational invariance.
+- [00:25:16,780 - 00:25:19,600] The magnetic field is pointing into the blackboard.
+- [00:25:19,880 - 00:25:22,440] It doesn't in any way violate
+- [00:25:22,440 - 00:25:25,000] the invariance with respect to rotation.
+- [00:25:26,800 - 00:25:33,960] And so we see that symmetry is itself not enough.
+- [00:25:34,220 - 00:25:35,460] Not this symmetry.
+- [00:25:35,760 - 00:25:38,910] Rotation symmetry by itself is not enough to
+- [00:25:38,910 - 00:25:42,060] tell you that the energy levels are degenerate.
+- [00:25:42,060 - 00:25:44,280] Why am I even talking about it?
+- [00:25:44,340 - 00:25:44,460] Well,
+- [00:25:44,460 - 00:25:47,300] you need to add...
+- [00:25:47,300 - 00:25:49,040] If you add one more symmetry,
+- [00:25:49,040 - 00:25:52,470] one more symmetry is enough to tell you
+- [00:25:52,470 - 00:25:55,900] that the energy levels have to be degenerate.
+- [00:25:55,960 - 00:25:56,980] And symmetry is very simple.
+- [00:25:57,220 - 00:25:59,080] It's not a continuous symmetry.
+- [00:25:59,200 - 00:26:00,340] It's a discrete symmetry.
+- [00:26:01,240 - 00:26:03,860] It's simply the discrete symmetry of
+- [00:26:03,860 - 00:26:06,480] reflection about one of the axes.
+- [00:26:08,640 - 00:26:11,880] Reflection about an axis is basically mirror.
+- [00:26:11,880 - 00:26:13,000] Reflection.
+- [00:26:13,380 - 00:26:16,260] Imagine you had a horizontal mirror here,
+- [00:26:16,260 - 00:26:19,630] and any system above the mirror
+- [00:26:19,630 - 00:26:23,000] has a mirror image below the mirror.
+- [00:26:24,160 - 00:26:26,820] And if there's mirror symmetry,
+- [00:26:26,820 - 00:26:28,980] it's not called mirror symmetry,
+- [00:26:28,980 - 00:26:30,340] it's called reflection symmetry.
+- [00:26:31,400 - 00:26:34,910] I'm going to call it mirror symmetry and
+- [00:26:34,910 - 00:26:38,420] use the notation m to describe that symmetry.
+- [00:26:38,760 - 00:26:40,310] The reason is I don't want
+- [00:26:40,310 - 00:26:41,860] to use r for mirror symmetry.
+- [00:26:41,880 - 00:26:43,410] I'm going to use r for reflection because
+- [00:26:43,410 - 00:26:44,940] I don't want you to confuse it with rotation.
+- [00:26:46,020 - 00:26:46,940] So m,
+- [00:26:46,940 - 00:26:47,800] big M.
+- [00:26:47,920 - 00:26:50,960] Big M stands for reflection about a mirror.
+- [00:26:51,800 - 00:26:53,280] And in particular,
+- [00:26:53,280 - 00:27:00,040] we could imagine the mirror is oriented along the x-axis.
+- [00:27:00,980 - 00:27:01,720] Of course,
+- [00:27:01,720 - 00:27:02,840] a mirror is two-dimensional,
+- [00:27:02,840 - 00:27:04,980] but in this situation,
+- [00:27:04,980 - 00:27:06,920] along the x-z plane.
+- [00:27:07,620 - 00:27:09,520] But we don't have to think about z.
+- [00:27:09,520 - 00:27:16,000] We just have a mirror and the mirror image of...
+- [00:27:19,320 - 00:27:20,390] I don't know if I can
+- [00:27:20,390 - 00:27:21,460] draw the mirror image of that.
+- [00:27:23,580 - 00:27:24,700] I don't think I can.
+- [00:27:29,340 - 00:27:32,900] Did I get that right?
+- [00:27:34,380 - 00:27:35,020] Maybe not.
+- [00:27:35,020 - 00:27:35,480] I don't know.
+- [00:27:36,640 - 00:27:38,440] The mirror image of...
+- [00:27:41,679 - 00:27:43,600] This is this.
+- [00:27:44,940 - 00:27:45,380] Okay.
+- [00:27:49,199 - 00:27:52,100] If there is not mirror symmetry in a problem,
+- [00:27:52,100 - 00:27:56,400] then a configuration like this...
+- [00:27:56,400 - 00:27:57,360] Whatever it happens to be,
+- [00:27:57,360 - 00:27:58,340] I don't know what it is.
+- [00:27:58,440 - 00:28:00,360] It's a couple of building blocks or something.
+- [00:28:01,280 - 00:28:03,020] The energy of this does not have to
+- [00:28:03,020 - 00:28:04,760] be the same as the energy of that.
+- [00:28:07,380 - 00:28:11,560] If there is no mirror symmetry in the system.
+- [00:28:11,780 - 00:28:13,520] But if there is mirror symmetry,
+- [00:28:13,520 - 00:28:15,980] it means that the description of this
+- [00:28:15,980 - 00:28:18,440] and the description of this are indistinguishable.
+- [00:28:18,500 - 00:28:20,400] And that they must have the same energy.
+- [00:28:21,840 - 00:28:25,100] So let's add mirror symmetry to rotation
+- [00:28:25,100 - 00:28:28,360] symmetry and see what we buy from it.
+- [00:28:29,160 - 00:28:29,720] Well,
+- [00:28:29,720 - 00:28:34,740] we will certainly find that the energy levels of...
+- [00:28:34,740 - 00:28:38,360] The energy levels E of M must
+- [00:28:38,360 - 00:28:41,980] be the same as E of minus M.
+- [00:28:42,360 - 00:28:43,440] Why is that?
+- [00:28:44,900 - 00:28:47,780] Let's think about in the upper half plane here.
+- [00:28:50,500 - 00:28:54,160] Let's think of a circular motion moving counterclockwise.
+- [00:28:56,240 - 00:28:58,020] What's the mirror image of that?
+- [00:28:58,520 - 00:29:00,640] That's a circular motion moving clockwise.
+- [00:29:00,640 - 00:29:06,470] So the mirror image of a particle moving with positive
+- [00:29:06,470 - 00:29:12,300] angular momentum is a particle moving with negative angular momentum.
+- [00:29:12,640 - 00:29:14,880] And if the world or our
+- [00:29:14,880 - 00:29:17,120] system has such a mirror symmetry,
+- [00:29:17,120 - 00:29:18,840] such a reflection symmetry,
+- [00:29:19,280 - 00:29:21,750] then it means that the M energies of
+- [00:29:21,750 - 00:29:24,220] the two states must be exactly the same.
+- [00:29:25,640 - 00:29:29,560] There we have an example where rotation symmetry...
+- [00:29:29,560 - 00:29:32,970] which tells you that the energy
+- [00:29:32,970 - 00:29:36,380] levels depend on the angular momentum,
+- [00:29:36,680 - 00:29:39,080] and that the angular momentum is conserved.
+- [00:29:39,240 - 00:29:41,820] The added ingredient is the mirror symmetry,
+- [00:29:41,820 - 00:29:43,680] which tells you that the
+- [00:29:43,680 - 00:29:45,540] energy levels have to be degenerate.
+- [00:29:46,060 - 00:29:49,670] So that's a case in which two symmetries combined
+- [00:29:49,670 - 00:29:53,280] tells you that there have to be degenerate energy levels.
+- [00:29:54,340 - 00:29:54,980] Yes?
+- [00:29:55,680 - 00:29:56,700] If we...
+- [00:29:57,560 - 00:29:59,540] If the position of the particle is...
+- [00:29:59,560 - 00:30:02,060] is determined by the probability,
+- [00:30:02,060 - 00:30:03,200] i.e.
+- [00:30:03,200 - 00:30:06,640] by the square of the sine,
+- [00:30:06,920 - 00:30:08,320] we look at the sine,
+- [00:30:08,320 - 00:30:11,820] and think of the Moivre expression,
+- [00:30:11,820 - 00:30:12,520] the cosine,
+- [00:30:12,960 - 00:30:15,100] and we change M to minus M,
+- [00:30:15,960 - 00:30:17,800] and you do the algebra,
+- [00:30:17,800 - 00:30:18,100] at least.
+- [00:30:18,320 - 00:30:19,320] It seems that...
+- [00:30:19,320 - 00:30:21,240] But it seems that the sine goes
+- [00:30:21,240 - 00:30:23,160] away and you're left with the same number.
+- [00:30:23,280 - 00:30:24,020] So in a way,
+- [00:30:24,020 - 00:30:26,370] replacing M with minus M algebraically will
+- [00:30:26,370 - 00:30:28,720] show that it is the same probability,
+- [00:30:28,720 - 00:30:29,800] meaning it's...
+- [00:30:30,960 - 00:30:31,680] They're equal.
+- [00:30:31,680 - 00:30:32,660] The energies are equal.
+- [00:30:32,900 - 00:30:34,760] Is that not a good way to look at it?
+- [00:30:36,520 - 00:30:37,340] It's just wrong.
+- [00:30:39,680 - 00:30:40,160] Um...
+- [00:30:43,660 - 00:30:45,320] A function of theta is not the
+- [00:30:45,320 - 00:30:46,980] same as a function of minus theta.
+- [00:30:50,740 - 00:30:51,700] For example...
+- [00:30:54,020 - 00:30:55,280] Here's a function of theta.
+- [00:30:56,199 - 00:30:58,860] The probability is concentrated over here.
+- [00:30:59,580 - 00:31:01,820] Here's a corresponding function of minus theta.
+- [00:31:02,020 - 00:31:03,240] The kind that's over here.
+- [00:31:03,240 - 00:31:04,080] They're not the same thing.
+- [00:31:10,100 - 00:31:10,520] Also,
+- [00:31:10,520 - 00:31:12,140] e to the i theta is...
+- [00:31:12,140 - 00:31:13,710] Or e to the i M theta is not
+- [00:31:13,710 - 00:31:15,280] the same as e to the minus i M theta.
+- [00:31:16,000 - 00:31:18,120] But the square of the...
+- [00:31:18,120 - 00:31:18,300] Yes,
+- [00:31:18,300 - 00:31:18,420] yes,
+- [00:31:18,420 - 00:31:18,560] yes,
+- [00:31:18,560 - 00:31:19,220] but we don't...
+- [00:31:19,220 - 00:31:19,680] But that's...
+- [00:31:20,960 - 00:31:21,380] Right.
+- [00:31:21,940 - 00:31:23,320] But the square...
+- [00:31:24,260 - 00:31:28,360] This is the equation for the eigenvectors of psi,
+- [00:31:28,620 - 00:31:31,020] or the eigenvectors of angular momentum.
+- [00:31:31,260 - 00:31:32,320] It involves psi.
+- [00:31:32,320 - 00:31:34,180] It doesn't involve psi star psi.
+- [00:31:35,960 - 00:31:36,580] Yeah.
+- [00:31:40,866 - 00:31:43,866] ご視聴ありがとうございました
+- [00:31:44,770 - 00:31:45,990] That's the whole point of quantum mechanics.
+- [00:31:45,990 - 00:31:47,250] We have to work with wave functions,
+- [00:31:47,250 - 00:31:48,050] not probabilities.
+- [00:31:51,250 - 00:31:54,160] So is it the case that
+- [00:31:54,160 - 00:31:57,070] mirror symmetry guarantees degeneracy in any situation?
+- [00:31:57,770 - 00:31:58,270] No.
+- [00:31:58,270 - 00:31:59,190] No.
+- [00:31:59,190 - 00:32:00,090] No.
+- [00:32:00,090 - 00:32:01,190] It doesn't.
+- [00:32:01,190 - 00:32:03,290] It doesn't in itself.
+- [00:32:05,129 - 00:32:10,059] What's necessary is to have two symmetries and one more
+- [00:32:10,059 - 00:32:14,990] condition that the two symmetries don't commute with each other.
+- [00:32:16,550 - 00:32:18,620] That the symmetry operations for the
+- [00:32:18,620 - 00:32:20,690] two symmetries don't commute with each other.
+- [00:32:22,130 - 00:32:23,370] I'm going to let you prove that,
+- [00:32:23,370 - 00:32:25,530] that if symmetries don't commute with each other,
+- [00:32:25,530 - 00:32:27,410] that it implies degeneracy.
+- [00:32:27,610 - 00:32:28,790] It's not hard to prove,
+- [00:32:28,790 - 00:32:30,320] but I'm going to show you how
+- [00:32:30,320 - 00:32:31,850] it works in a couple of examples.
+- [00:32:32,790 - 00:32:33,270] Okay.
+- [00:32:33,290 - 00:32:35,970] Any two symmetries,
+- [00:32:35,970 - 00:32:37,830] if they don't commute with each other.
+- [00:32:38,750 - 00:32:41,260] So let's ask whether
+- [00:32:41,260 - 00:32:43,770] rotation symmetry and reflection symmetry...
+- [00:32:44,290 - 00:32:44,770] Incidentally,
+- [00:32:44,770 - 00:32:47,220] the term mirror symmetry happens
+- [00:32:47,220 - 00:32:49,670] to have another meaning in physics.
+- [00:32:49,869 - 00:32:51,490] It's a very fancy term,
+- [00:32:51,490 - 00:32:54,520] very mathematical term that applies
+- [00:32:54,520 - 00:32:57,550] to certain manifolds in string theory.
+- [00:32:57,790 - 00:32:59,270] Don't get confused by it.
+- [00:32:59,270 - 00:33:00,530] It's a completely different concept.
+- [00:33:00,530 - 00:33:04,930] I just use mirror to represent the reflection in space.
+- [00:33:04,930 - 00:33:05,430] Yeah?
+- [00:33:05,630 - 00:33:08,490] Does the mirror symmetry break the magnetic field?
+- [00:33:08,610 - 00:33:09,210] Yes.
+- [00:33:09,210 - 00:33:10,450] Very interesting.
+- [00:33:10,450 - 00:33:11,010] Good.
+- [00:33:11,010 - 00:33:11,710] Good point.
+- [00:33:11,990 - 00:33:12,590] Yeah.
+- [00:33:12,590 - 00:33:16,650] The mirror symmetry of a magnetic field,
+- [00:33:16,650 - 00:33:19,530] the mirror inversion of a magnetic field,
+- [00:33:19,530 - 00:33:21,910] is a magnetic field pointing in the other direction.
+- [00:33:23,970 - 00:33:28,550] If you take a magnetic field pointing into the blackboard,
+- [00:33:28,550 - 00:33:38,630] and you reflect the configuration about a plane like this,
+- [00:33:38,790 - 00:33:41,190] what you get is a configuration with
+- [00:33:41,190 - 00:33:43,590] the magnetic field coming out of the blackboard.
+- [00:33:43,910 - 00:33:47,730] This is because magnetic field is an axial vector.
+- [00:33:49,650 - 00:33:50,410] Okay.
+- [00:33:50,410 - 00:33:52,070] You can see it another way.
+- [00:33:53,690 - 00:33:55,749] Magnetic fields are made by currents.
+- [00:33:56,090 - 00:33:56,850] Currents...
+- [00:33:56,850 - 00:33:58,530] Let's not imagine...
+- [00:33:58,530 - 00:33:59,830] Let's not imagine that the magnetic field is there.
+- [00:34:00,330 - 00:34:03,320] Let's instead imagine that the magnetic field is
+- [00:34:03,320 - 00:34:06,310] being made by a current going this way.
+- [00:34:07,550 - 00:34:09,989] A current going around in a loop like this.
+- [00:34:10,030 - 00:34:11,650] It could be going around a solenoid.
+- [00:34:11,909 - 00:34:14,300] We could be talking about a solenoid
+- [00:34:14,300 - 00:34:16,690] into the blackboard with the current going clockwise.
+- [00:34:17,550 - 00:34:20,650] That creates a magnetic field going into the blackboard.
+- [00:34:22,010 - 00:34:23,310] In the lower half plane,
+- [00:34:23,310 - 00:34:24,790] the mirror image of that
+- [00:34:25,530 - 00:34:27,480] is a solenoid in which the
+- [00:34:27,480 - 00:34:29,429] current is going in the opposite direction.
+- [00:34:30,409 - 00:34:33,170] And because the current is going in the opposite direction,
+- [00:34:33,510 - 00:34:37,190] it makes a magnetic field pointing out of the blackboard.
+- [00:34:38,010 - 00:34:38,790] So yes,
+- [00:34:38,790 - 00:34:42,130] the mirror inversion of a magnetic
+- [00:34:42,130 - 00:34:45,469] field is not the same magnetic field.
+- [00:34:45,850 - 00:34:47,900] So I think you foresaw that
+- [00:34:47,900 - 00:34:49,949] that had to be the case if...
+- [00:34:52,429 - 00:34:52,969] Yeah.
+- [00:34:52,969 - 00:34:53,590] Okay.
+- [00:34:55,650 - 00:34:56,290] Alright,
+- [00:34:56,290 - 00:34:56,969] let's ask.
+- [00:34:57,150 - 00:34:58,630] Let's ask the mathematical.
+- [00:34:58,870 - 00:35:00,270] Let's go through the mathematics now
+- [00:35:00,790 - 00:35:03,270] of showing that reflection...
+- [00:35:03,270 - 00:35:07,590] mirror reflection does not commute with rotation.
+- [00:35:08,090 - 00:35:09,620] And we'll do that by
+- [00:35:09,620 - 00:35:11,150] showing that the generator of rotation
+- [00:35:11,890 - 00:35:16,850] doesn't commute with the action of the reflection operator.
+- [00:35:18,190 - 00:35:20,930] We need to figure out what the reflection operator does.
+- [00:35:24,790 - 00:35:25,130] Okay.
+- [00:35:25,390 - 00:35:26,910] The reflection operator,
+- [00:35:26,910 - 00:35:28,970] we'll call m for mirror,
+- [00:35:29,770 - 00:35:31,370] it takes any wave function
+- [00:35:32,569 - 00:35:34,590] and replaces it...
+- [00:35:34,590 - 00:35:36,370] I shouldn't write arrow,
+- [00:35:36,370 - 00:35:37,150] I should write equals.
+- [00:35:38,530 - 00:35:43,030] And replaces it by wave function of minus theta.
+- [00:35:44,290 - 00:35:46,630] Reflection about the horizontal axis
+- [00:35:46,630 - 00:35:48,970] just takes theta to minus theta.
+- [00:35:50,530 - 00:35:51,750] So any wave function,
+- [00:35:51,750 - 00:35:53,030] when you reflect it,
+- [00:35:53,110 - 00:35:54,770] goes to psi of minus theta.
+- [00:35:54,790 - 00:35:55,510] Okay.
+- [00:35:56,750 - 00:35:57,990] In particular,
+- [00:35:57,990 - 00:36:00,130] if you apply it to...
+- [00:36:00,130 - 00:36:00,710] Well,
+- [00:36:00,710 - 00:36:00,990] alright,
+- [00:36:00,990 - 00:36:01,650] we'll do it in a minute.
+- [00:36:02,010 - 00:36:05,890] Now let's consider the commutator
+- [00:36:06,989 - 00:36:09,910] of the mirror symmetry transformation
+- [00:36:10,790 - 00:36:12,530] with the angular momentum.
+- [00:36:13,070 - 00:36:15,200] The angular momentum is just
+- [00:36:15,200 - 00:36:17,330] a version of a rotation operator
+- [00:36:17,330 - 00:36:18,670] for very small rotation.
+- [00:36:20,510 - 00:36:23,430] Let's consider the commutator.
+- [00:36:24,090 - 00:36:24,610] Okay.
+- [00:36:26,350 - 00:36:28,610] What the commutator is telling us about
+- [00:36:28,610 - 00:36:30,650] is what happens if we do
+- [00:36:30,650 - 00:36:32,690] the two operations in opposite order.
+- [00:36:33,330 - 00:36:35,830] A rotation about an axis and a reflection
+- [00:36:36,550 - 00:36:39,770] versus a reflection and a rotation about the same axis.
+- [00:36:40,530 - 00:36:42,050] Are they the same operations?
+- [00:36:42,550 - 00:36:44,470] Rotating about an axis and then reflecting,
+- [00:36:44,670 - 00:36:46,610] is that the same as reflecting and then rotating?
+- [00:36:47,290 - 00:36:47,810] Okay,
+- [00:36:47,810 - 00:36:49,070] the answer is obviously no.
+- [00:36:49,150 - 00:36:49,350] Well,
+- [00:36:49,350 - 00:36:50,350] if it's not obvious to you,
+- [00:36:50,350 - 00:36:51,030] think about it.
+- [00:36:51,270 - 00:36:53,410] But we'll work it out by doing it.
+- [00:36:53,430 - 00:36:54,910] We'll work it out by doing the mathematical commutator
+- [00:36:54,910 - 00:36:55,690] and seeing what we get.
+- [00:36:56,850 - 00:37:02,050] Let's look at the commutator of M with L.
+- [00:37:02,210 - 00:37:03,110] We know what L does.
+- [00:37:03,850 - 00:37:04,630] Here it is.
+- [00:37:04,730 - 00:37:06,610] It differentiates with respect to theta.
+- [00:37:07,250 - 00:37:08,370] What does M do?
+- [00:37:08,570 - 00:37:09,690] It reflects theta.
+- [00:37:10,610 - 00:37:13,290] So we can figure out what the commutator does.
+- [00:37:13,570 - 00:37:15,300] We can figure out what it does
+- [00:37:15,300 - 00:37:17,030] when it acts on a wave function.
+- [00:37:17,190 - 00:37:19,270] I'm going to act on a particular wave function.
+- [00:37:19,870 - 00:37:21,510] I'm going to act on the wave function
+- [00:37:21,510 - 00:37:25,350] e to the i m theta.
+- [00:37:28,889 - 00:37:31,670] A eigenvector of the angular momentum.
+- [00:37:32,010 - 00:37:33,450] I'm leaving h-bar out of it.
+- [00:37:33,510 - 00:37:34,110] We don't need it.
+- [00:37:34,710 - 00:37:37,030] And don't confuse big M with little m.
+- [00:37:37,150 - 00:37:38,440] Little m and big M have
+- [00:37:38,440 - 00:37:39,730] nothing to do with each other.
+- [00:37:39,950 - 00:37:41,250] This stands for mirror.
+- [00:37:41,490 - 00:37:44,130] This stands for magnetic quantum number.
+- [00:37:45,050 - 00:37:45,530] Okay,
+- [00:37:45,530 - 00:37:46,830] let's see if we can work it out.
+- [00:37:47,690 - 00:37:49,590] Let's first do M L
+- [00:37:50,230 - 00:37:52,570] times e to the i m theta.
+- [00:37:53,390 - 00:37:55,280] What does L do when it
+- [00:37:55,280 - 00:37:57,170] hits e to the i m theta?
+- [00:37:58,270 - 00:37:59,690] It brings an M down.
+- [00:38:00,010 - 00:38:01,150] It brings an M down.
+- [00:38:02,770 - 00:38:03,290] Right.
+- [00:38:03,590 - 00:38:05,030] It just brings an M down.
+- [00:38:05,550 - 00:38:06,910] So this gives us
+- [00:38:09,070 - 00:38:10,810] M times little m
+- [00:38:11,610 - 00:38:13,230] e to the i m theta.
+- [00:38:14,650 - 00:38:16,670] And what does capital M do
+- [00:38:18,410 - 00:38:19,570] when it hits e to the i m theta?
+- [00:38:19,570 - 00:38:24,090] It just changes the sign of theta.
+- [00:38:25,489 - 00:38:26,090] Incidentally,
+- [00:38:26,090 - 00:38:28,190] once this is just a number,
+- [00:38:28,869 - 00:38:30,810] it doesn't matter which order
+- [00:38:30,810 - 00:38:32,490] big M and little m appear.
+- [00:38:33,790 - 00:38:35,490] And so this is just equal
+- [00:38:35,490 - 00:38:38,430] to little m times e
+- [00:38:38,430 - 00:38:41,370] to the minus i m theta.
+- [00:38:43,150 - 00:38:45,710] The big M just reflected theta.
+- [00:38:47,090 - 00:38:47,690] Okay,
+- [00:38:47,690 - 00:38:48,830] let's do it in the opposite order.
+- [00:38:48,910 - 00:38:49,550] L times e to the i m theta.
+- [00:38:49,550 - 00:38:49,990] So this is equal to M
+- [00:38:51,050 - 00:38:52,990] e to the i m theta.
+- [00:38:54,330 - 00:38:56,010] Now in the opposite order,
+- [00:38:57,190 - 00:38:58,570] first M acts.
+- [00:38:59,510 - 00:39:01,090] And that gives us L.
+- [00:39:01,990 - 00:39:03,210] When M acts,
+- [00:39:03,210 - 00:39:04,770] it changes the sign of theta
+- [00:39:04,770 - 00:39:07,690] and gives us e to the minus i m theta.
+- [00:39:09,130 - 00:39:10,950] But what happens when L hits
+- [00:39:10,950 - 00:39:12,650] e to the minus i m theta?
+- [00:39:13,990 - 00:39:15,250] Anybody got a good idea?
+- [00:39:19,550 - 00:39:21,510] It brings down a minus M.
+- [00:39:25,290 - 00:39:26,650] By reflecting,
+- [00:39:27,250 - 00:39:29,430] we've changed the sign of the angular momentum.
+- [00:39:29,790 - 00:39:31,650] So the angular momentum operator
+- [00:39:31,650 - 00:39:33,790] gives us the minus of what it gave before.
+- [00:39:34,130 - 00:39:35,830] It gives us minus M
+- [00:39:36,550 - 00:39:38,310] e to the minus i m theta.
+- [00:39:39,850 - 00:39:43,410] So the answer is that M and L,
+- [00:39:43,630 - 00:39:46,270] angular momentum and the reflection operator,
+- [00:39:46,430 - 00:39:47,970] don't commute with each other.
+- [00:39:49,550 - 00:39:52,350] That's the key to whether or not
+- [00:39:53,670 - 00:39:54,350] symmetries...
+- [00:39:58,630 - 00:40:01,330] whether or not symmetries
+- [00:40:01,330 - 00:40:04,210] create degeneracies of energy levels.
+- [00:40:04,510 - 00:40:06,130] We've seen in this case
+- [00:40:06,130 - 00:40:09,250] that two symmetries,
+- [00:40:09,410 - 00:40:12,350] rotational symmetry together with reflection symmetry,
+- [00:40:12,650 - 00:40:15,970] tell us that there are degeneracies of the energy levels.
+- [00:40:16,230 - 00:40:18,410] That M and minus M
+- [00:40:18,410 - 00:40:19,650] have to have the same energy.
+- [00:40:20,429 - 00:40:21,250] That's a pattern.
+- [00:40:22,130 - 00:40:23,069] It's also a theorem,
+- [00:40:23,250 - 00:40:24,949] but we'll...
+- [00:40:24,949 - 00:40:27,170] I don't think we'll do the theorem right now.
+- [00:40:28,090 - 00:40:30,270] Does this mean that any Heisenberg pair
+- [00:40:30,270 - 00:40:33,290] generates degeneracies?
+- [00:40:38,190 - 00:40:39,890] A Heisenberg pair like x and p?
+- [00:40:40,730 - 00:40:41,130] Well,
+- [00:40:41,130 - 00:40:43,050] the problem is that x and p are not conserved.
+- [00:40:45,230 - 00:40:45,630] Right.
+- [00:40:45,710 - 00:40:47,170] And they're not symmetries in themselves.
+- [00:40:48,430 - 00:40:52,590] In the case of a particle
+- [00:40:52,590 - 00:40:55,410] not having a magnetic field,
+- [00:40:56,910 - 00:40:58,170] then angular momentum,
+- [00:40:58,170 - 00:40:58,730] rotation,
+- [00:40:58,730 - 00:40:59,810] and reflection
+- [00:40:59,810 - 00:41:00,850] are both symmetries.
+- [00:41:01,090 - 00:41:03,150] They both commute with a Hamiltonian.
+- [00:41:03,230 - 00:41:05,890] They both are conserved.
+- [00:41:07,470 - 00:41:12,570] x and p are typically and generally not conserved.
+- [00:41:12,730 - 00:41:13,490] If they were,
+- [00:41:13,490 - 00:41:14,750] then the answer would be yes.
+- [00:41:17,110 - 00:41:18,390] Then the answer would be yes.
+- [00:41:18,390 - 00:41:18,890] Yeah.
+- [00:41:19,450 - 00:41:19,930] Okay.
+- [00:41:20,570 - 00:41:23,850] We're going to study an example in some detail tonight.
+- [00:41:24,550 - 00:41:25,850] I think we'll get through it.
+- [00:41:27,910 - 00:41:28,390] Oh,
+- [00:41:28,390 - 00:41:28,790] let's...
+- [00:41:28,790 - 00:41:28,930] Well,
+- [00:41:28,930 - 00:41:30,730] let's just write down
+- [00:41:33,790 - 00:41:37,130] just some formal observations of what I mean.
+- [00:41:37,790 - 00:41:39,730] Supposing you have two symmetries.
+- [00:41:39,870 - 00:41:40,070] Now,
+- [00:41:40,070 - 00:41:41,210] what does it mean to have a symmetry?
+- [00:41:41,650 - 00:41:43,850] Let's call the two symmetries A and B.
+- [00:41:44,930 - 00:41:47,590] The A and B stand for operators.
+- [00:41:48,910 - 00:41:50,730] Operators that act on the state vectors.
+- [00:41:50,930 - 00:41:53,810] They could stand for infinitesimal generators,
+- [00:41:54,170 - 00:41:56,290] or they could stand for
+- [00:41:56,290 - 00:41:58,410] the full operation of the symmetry.
+- [00:41:58,890 - 00:41:59,830] A and B.
+- [00:42:00,350 - 00:42:02,650] Let's say they refer to the generators.
+- [00:42:03,010 - 00:42:07,030] Let's take the case of where there are small versions
+- [00:42:07,030 - 00:42:08,730] of the transformations.
+- [00:42:11,430 - 00:42:12,030] Then,
+- [00:42:12,030 - 00:42:13,790] to say they're symmetries means
+- [00:42:14,390 - 00:42:16,750] that both of them commute with a Hamiltonian.
+- [00:42:26,830 - 00:42:28,670] It does not in itself
+- [00:42:28,670 - 00:42:30,510] say that A commutes with B.
+- [00:42:31,110 - 00:42:32,110] In general,
+- [00:42:32,110 - 00:42:34,270] here's an example where they didn't.
+- [00:42:35,450 - 00:42:40,790] Commutator of A with B may be non-zero,
+- [00:42:41,530 - 00:42:43,070] and there are two possibilities.
+- [00:42:44,530 - 00:42:46,730] Both possibilities will lead to degeneracy,
+- [00:42:46,750 - 00:42:48,670] but let's think of two possibilities.
+- [00:42:49,010 - 00:42:50,270] In one possibility,
+- [00:42:50,270 - 00:42:52,310] the commutator of A and B
+- [00:42:52,310 - 00:42:54,290] may be A itself,
+- [00:42:54,290 - 00:42:55,870] it may be B itself,
+- [00:42:56,210 - 00:42:57,830] or it may be some
+- [00:42:57,830 - 00:42:59,450] linear combination of A and B.
+- [00:43:00,170 - 00:43:02,650] That does not lead to a new symmetry.
+- [00:43:02,970 - 00:43:05,210] It doesn't lead to a new operator.
+- [00:43:05,370 - 00:43:06,720] It just leads to a
+- [00:43:06,720 - 00:43:08,070] linear combination of the old ones.
+- [00:43:09,110 - 00:43:10,730] But let's suppose that it
+- [00:43:10,730 - 00:43:12,350] leads to a genuinely new operator
+- [00:43:12,350 - 00:43:16,730] that cannot be written as a linear commutator.
+- [00:43:16,750 - 00:43:17,670] It's a linear combination of A and B.
+- [00:43:17,730 - 00:43:18,430] Let's call it C.
+- [00:43:23,190 - 00:43:23,590] Okay,
+- [00:43:23,590 - 00:43:24,870] first theorem.
+- [00:43:25,530 - 00:43:26,730] It's not a theorem.
+- [00:43:26,870 - 00:43:27,790] It's hardly a theorem.
+- [00:43:28,150 - 00:43:30,250] C also commutes with H.
+- [00:43:31,430 - 00:43:32,090] How do I know?
+- [00:43:34,730 - 00:43:36,090] Let's put an I in here.
+- [00:43:36,290 - 00:43:37,630] Why am I putting an I in there?
+- [00:43:40,630 - 00:43:42,450] The commutator of two Hermitian operators
+- [00:43:42,450 - 00:43:43,510] is not Hermitian.
+- [00:43:43,550 - 00:43:44,490] It's anti-Hermitian.
+- [00:43:46,750 - 00:43:48,830] The commutator of X and P is I.
+- [00:43:49,570 - 00:43:51,090] If you want a Hermitian operator,
+- [00:43:51,350 - 00:43:52,350] you have to put an I here.
+- [00:43:52,450 - 00:43:54,150] So let's suppose that C is
+- [00:43:54,150 - 00:43:55,850] the commutator of A and B
+- [00:43:55,850 - 00:43:56,970] except with an extra I.
+- [00:43:57,330 - 00:43:59,110] Then C is a Hermitian operator.
+- [00:44:02,529 - 00:44:04,870] And let me show you why it's conserved.
+- [00:44:04,930 - 00:44:06,570] It's conserved for a trivial reason.
+- [00:44:08,030 - 00:44:11,110] Let's think about the commutator of C with H.
+- [00:44:13,989 - 00:44:16,530] That's ABH minus H.
+- [00:44:16,630 - 00:44:16,730] That's ABH minus H.
+- [00:44:16,730 - 00:44:21,190] AB is equal to C,
+- [00:44:21,930 - 00:44:23,450] apart from the factor of I.
+- [00:44:24,650 - 00:44:27,050] So the commutator of C with H
+- [00:44:27,050 - 00:44:29,850] is proportional to ABH minus HAB.
+- [00:44:30,710 - 00:44:32,690] But now all we have to do is say,
+- [00:44:32,750 - 00:44:32,890] look,
+- [00:44:32,890 - 00:44:34,630] we know that B commutes with H.
+- [00:44:34,790 - 00:44:35,490] That's an assumption.
+- [00:44:36,090 - 00:44:37,400] That means that we can
+- [00:44:37,400 - 00:44:38,710] move B to the other side.
+- [00:44:39,730 - 00:44:41,750] Once we've moved B to the other side,
+- [00:44:42,310 - 00:44:44,530] we know that A commutes with H.
+- [00:44:44,770 - 00:44:45,810] That's also an assumption.
+- [00:44:45,810 - 00:44:47,650] So we can move A to the other side.
+- [00:44:51,230 - 00:44:51,890] And that,
+- [00:44:51,890 - 00:44:52,210] of course,
+- [00:44:52,210 - 00:44:53,030] is equal to 0.
+- [00:44:53,850 - 00:44:56,610] So if A and B both commute with the Hamiltonian,
+- [00:44:57,230 - 00:45:04,010] then the commutator of A and B
+- [00:45:04,010 - 00:45:05,930] also commute with the Hamiltonian.
+- [00:45:07,150 - 00:45:07,750] In fact,
+- [00:45:07,750 - 00:45:09,970] the product A and B commute with the Hamiltonian.
+- [00:45:10,330 - 00:45:11,670] But the reason we don't
+- [00:45:11,670 - 00:45:13,010] consider the commutator is because...
+- [00:45:13,010 - 00:45:13,410] Sorry.
+- [00:45:14,250 - 00:45:17,390] The product of A and B commute with the Hamiltonian.
+- [00:45:18,390 - 00:45:20,290] Certainly the commutator does.
+- [00:45:20,990 - 00:45:21,470] Okay?
+- [00:45:23,510 - 00:45:25,230] I'm not so interested in the product
+- [00:45:25,230 - 00:45:27,130] because it's not generally Hermitian.
+- [00:45:27,710 - 00:45:29,630] It's the commutator which is Hermitian.
+- [00:45:31,070 - 00:45:32,550] So there's an example
+- [00:45:35,709 - 00:45:37,570] where given two symmetries,
+- [00:45:37,650 - 00:45:39,030] if they don't commute,
+- [00:45:39,150 - 00:45:40,530] you generate a third symmetry.
+- [00:45:40,710 - 00:45:42,070] And it might be an independent one.
+- [00:45:42,090 - 00:45:42,750] It might be a new thing.
+- [00:45:44,310 - 00:45:46,730] Once you have A and B and C,
+- [00:45:46,930 - 00:45:48,270] you can play the game again.
+- [00:45:49,250 - 00:45:51,850] Commute C with A and B.
+- [00:45:52,950 - 00:45:53,950] See what you get.
+- [00:45:54,150 - 00:45:57,130] You may get something that just reproduces
+- [00:45:57,130 - 00:45:58,550] or that's just a linear combination
+- [00:45:58,550 - 00:46:00,590] of the three that you started with.
+- [00:46:01,990 - 00:46:03,330] Or you may get something new.
+- [00:46:03,370 - 00:46:03,950] You may get D.
+- [00:46:05,370 - 00:46:07,810] You keep doing this and doing this and doing this
+- [00:46:07,810 - 00:46:09,850] until you don't get something new.
+- [00:46:10,630 - 00:46:11,950] You might never end.
+- [00:46:11,950 - 00:46:14,130] You might get an infinite number
+- [00:46:14,130 - 00:46:16,010] of different symmetries.
+- [00:46:16,510 - 00:46:19,190] That's rare and that's unusual and it's bizarre.
+- [00:46:19,930 - 00:46:22,030] Or it will close eventually
+- [00:46:22,030 - 00:46:27,070] and you'll have some finite number of symmetries
+- [00:46:28,469 - 00:46:31,270] which are all independent of each other
+- [00:46:31,950 - 00:46:35,490] and which form a kind of closed system
+- [00:46:35,490 - 00:46:36,970] when you commute them,
+- [00:46:37,890 - 00:46:39,690] when you commute the generators.
+- [00:46:40,530 - 00:46:41,270] Question?
+- [00:46:41,270 - 00:46:41,690] Yeah.
+- [00:46:42,030 - 00:46:43,810] Just to make sure I understand your argument,
+- [00:46:43,910 - 00:46:45,590] what you showed was that
+- [00:46:45,590 - 00:46:47,270] if you have A and B
+- [00:46:47,270 - 00:46:48,130] that commute with H,
+- [00:46:48,290 - 00:46:50,370] then the product A and B commutes with A.
+- [00:46:50,370 - 00:46:50,730] It does.
+- [00:46:50,950 - 00:46:53,570] And then since the commutator of A and B
+- [00:46:53,570 - 00:46:54,950] is just A and B minus B A,
+- [00:46:55,729 - 00:46:57,350] then you'll get the full commutation.
+- [00:46:57,670 - 00:46:57,810] Yeah.
+- [00:46:59,930 - 00:47:00,370] Right.
+- [00:47:00,490 - 00:47:01,750] So eventually,
+- [00:47:01,750 - 00:47:04,890] if you have a few symmetries,
+- [00:47:05,389 - 00:47:07,850] you can start commuting them and commuting them
+- [00:47:07,850 - 00:47:08,450] among themselves,
+- [00:47:09,629 - 00:47:11,250] being guaranteed that what you get
+- [00:47:11,270 - 00:47:12,170] is another symmetry,
+- [00:47:12,470 - 00:47:16,850] which may be just a trivial superposition
+- [00:47:16,850 - 00:47:19,630] of the original ones or it may be something new.
+- [00:47:19,910 - 00:47:21,050] If it's something new,
+- [00:47:21,050 - 00:47:22,130] good.
+- [00:47:23,090 - 00:47:26,690] Put it into your list and commute some more.
+- [00:47:27,350 - 00:47:27,910] Eventually,
+- [00:47:27,910 - 00:47:29,450] you'll either run out of them
+- [00:47:30,070 - 00:47:31,250] or you won't,
+- [00:47:31,270 - 00:47:33,710] but I'm particularly interested in the situations
+- [00:47:33,710 - 00:47:34,650] where you run out.
+- [00:47:34,870 - 00:47:38,090] And then you'll have what is called a commutator algebra.
+- [00:47:39,010 - 00:47:40,890] The commutator algebra includes
+- [00:47:41,270 - 00:47:43,270] the commutators of all the symmetries
+- [00:47:44,969 - 00:47:47,850] and it includes the commutation relations
+- [00:47:47,850 - 00:47:49,110] with the Hamiltonian,
+- [00:47:49,110 - 00:47:50,410] which just say zero.
+- [00:47:51,310 - 00:47:52,690] When you're in that situation,
+- [00:47:52,690 - 00:47:53,910] whenever that happens,
+- [00:47:54,090 - 00:47:57,850] you have a great deal of power over the system
+- [00:47:57,850 - 00:48:01,250] to be able to say a lot about the nature
+- [00:48:01,250 - 00:48:04,050] of the energy levels and the degeneracies among them.
+- [00:48:06,310 - 00:48:06,910] Okay,
+- [00:48:06,910 - 00:48:08,349] so that's the general...
+- [00:48:08,870 - 00:48:09,070] Oh,
+- [00:48:09,070 - 00:48:10,850] what is such a structure called?
+- [00:48:11,869 - 00:48:14,110] The collection of symmetry operations.
+- [00:48:15,130 - 00:48:15,710] A group.
+- [00:48:15,790 - 00:48:16,130] A group.
+- [00:48:16,970 - 00:48:18,350] This is a symmetry group.
+- [00:48:19,570 - 00:48:20,890] This is a symmetry group.
+- [00:48:23,770 - 00:48:29,210] Why do we care that these two things are degenerate?
+- [00:48:29,510 - 00:48:31,970] Why do we care that it's degenerate or not?
+- [00:48:32,910 - 00:48:34,650] It would certainly be important if,
+- [00:48:34,650 - 00:48:35,030] for example,
+- [00:48:35,030 - 00:48:36,990] we wanted to know if from one state
+- [00:48:36,990 - 00:48:38,420] you could emit a photon and
+- [00:48:38,420 - 00:48:39,850] then go down to the other state.
+- [00:48:39,850 - 00:48:41,990] Can't do it if the energies are the same.
+- [00:48:44,150 - 00:48:46,970] We want to classify the energy levels of systems.
+- [00:48:47,750 - 00:48:48,270] Why?
+- [00:48:48,690 - 00:48:50,430] Because we're spectroscopists
+- [00:48:50,430 - 00:48:53,930] and we want to study the spectroscopy of atoms.
+- [00:48:55,250 - 00:48:55,770] Oh,
+- [00:48:55,770 - 00:48:57,650] we're spectroscopists and we want to study
+- [00:48:57,650 - 00:49:00,589] the way hadrons,
+- [00:49:00,589 - 00:49:03,389] excited states of hadrons emit pions
+- [00:49:03,389 - 00:49:04,129] or whatever.
+- [00:49:05,670 - 00:49:06,550] Same rules.
+- [00:49:07,810 - 00:49:08,869] So the commutator...
+- [00:49:08,869 - 00:49:10,250] The elements of...
+- [00:49:10,250 - 00:49:12,540] So each of these commutators would
+- [00:49:12,540 - 00:49:14,830] be an element of this symmetry group?
+- [00:49:14,870 - 00:49:15,190] Well,
+- [00:49:15,190 - 00:49:16,330] these things themselves,
+- [00:49:16,330 - 00:49:18,430] these I imagined were generators.
+- [00:49:20,530 - 00:49:22,610] The generators form an algebra,
+- [00:49:22,610 - 00:49:24,470] a commutator algebra,
+- [00:49:24,470 - 00:49:25,190] a Lie algebra.
+- [00:49:28,370 - 00:49:30,030] The symmetries themselves,
+- [00:49:30,030 - 00:49:32,590] which are built up from the generators
+- [00:49:32,590 - 00:49:35,990] by applying small transformations repeatedly,
+- [00:49:36,750 - 00:49:38,850] those are the group elements.
+- [00:49:38,870 - 00:49:41,730] But we're going to mainly work with the generators.
+- [00:49:42,890 - 00:49:44,810] The generators have a lot of power.
+- [00:49:45,530 - 00:49:46,990] The algebra of them.
+- [00:49:47,370 - 00:49:48,410] The C generators,
+- [00:49:48,410 - 00:49:49,510] it's not a combination?
+- [00:49:50,110 - 00:49:50,290] Yeah.
+- [00:49:50,290 - 00:49:51,530] They're all generators.
+- [00:49:52,070 - 00:49:52,270] Yeah.
+- [00:49:53,510 - 00:49:54,070] Right.
+- [00:49:55,470 - 00:49:56,590] They're all...
+- [00:49:56,590 - 00:49:58,800] Now you can have a situation
+- [00:49:58,800 - 00:50:01,010] where you may have many symmetries,
+- [00:50:01,030 - 00:50:02,430] but they commute with each other.
+- [00:50:02,530 - 00:50:03,190] That can happen.
+- [00:50:04,410 - 00:50:07,690] Then you don't get anything terribly interesting.
+- [00:50:07,690 - 00:50:09,040] You just have separate symmetries
+- [00:50:09,040 - 00:50:10,390] that commute with each other.
+- [00:50:11,190 - 00:50:13,730] Symmetries of that kind are called abelian.
+- [00:50:13,890 - 00:50:16,230] Abelian means everything commutes with everything else.
+- [00:50:16,790 - 00:50:19,140] When there are non-zero
+- [00:50:19,140 - 00:50:21,490] commutators between symmetry generators,
+- [00:50:21,770 - 00:50:23,390] it's called non-abelian.
+- [00:50:25,190 - 00:50:28,910] Is there any fundamental definition of a generator again?
+- [00:50:32,230 - 00:50:34,400] A generator of a symmetry is
+- [00:50:34,400 - 00:50:36,570] if you take the symmetry operations,
+- [00:50:38,150 - 00:50:39,590] unitary symmetry operations,
+- [00:50:40,410 - 00:50:42,790] and you consider the case of a
+- [00:50:42,790 - 00:50:45,170] symmetry operation very close to the identity.
+- [00:50:45,570 - 00:50:46,850] In the case of rotations,
+- [00:50:46,850 - 00:50:49,130] it means a rotation by a very small angle.
+- [00:50:49,670 - 00:50:51,590] And you write it in the form 1,
+- [00:50:51,590 - 00:50:52,710] I can never remember,
+- [00:50:52,970 - 00:50:56,610] I think it's minus i g times epsilon,
+- [00:50:57,310 - 00:50:59,010] then g is called the generator.
+- [00:50:59,890 - 00:51:00,410] Okay?
+- [00:51:01,230 - 00:51:02,710] You can build up,
+- [00:51:02,710 - 00:51:03,730] if you know the generator,
+- [00:51:04,490 - 00:51:06,550] that allows you to make a small rotation.
+- [00:51:07,229 - 00:51:09,269] If you keep doing small
+- [00:51:09,269 - 00:51:11,310] rotations repeatedly about a given axis,
+- [00:51:11,450 - 00:51:13,530] you'll eventually build up a whole rotation,
+- [00:51:13,770 - 00:51:15,270] I mean a finite rotation.
+- [00:51:16,050 - 00:51:18,800] So the generators contain basically all
+- [00:51:18,800 - 00:51:21,550] the interesting information about the group.
+- [00:51:22,270 - 00:51:22,910] Well,
+- [00:51:22,910 - 00:51:23,570] almost.
+- [00:51:25,610 - 00:51:28,260] Is there any fundamental difference between
+- [00:51:28,260 - 00:51:30,910] ab and then c or d?
+- [00:51:31,190 - 00:51:31,550] No.
+- [00:51:31,710 - 00:51:33,140] We could have started with b
+- [00:51:33,140 - 00:51:34,570] and c and then with a.
+- [00:51:35,090 - 00:51:35,490] Yeah.
+- [00:51:35,590 - 00:51:35,970] Well,
+- [00:51:35,970 - 00:51:36,910] maybe yes,
+- [00:51:36,910 - 00:51:37,290] maybe no.
+- [00:51:37,390 - 00:51:38,490] You might take b and c,
+- [00:51:38,490 - 00:51:41,270] and you might not get a.
+- [00:51:42,330 - 00:51:43,310] You might get d.
+- [00:51:47,230 - 00:51:47,810] You might.
+- [00:51:48,530 - 00:51:50,490] Or you might get a plus b.
+- [00:51:50,570 - 00:51:51,850] If you got a plus b,
+- [00:51:51,850 - 00:51:54,270] then it wouldn't be anything new.
+- [00:51:55,770 - 00:51:58,490] You might get a plus b plus c back again,
+- [00:51:58,570 - 00:51:59,970] and it still wouldn't be anything new.
+- [00:52:00,350 - 00:52:01,550] But if you got something new,
+- [00:52:01,550 - 00:52:02,330] d,
+- [00:52:02,490 - 00:52:04,310] which was not among your previous list,
+- [00:52:04,570 - 00:52:07,190] then you have a genuinely new symmetry.
+- [00:52:08,810 - 00:52:09,270] Question?
+- [00:52:09,630 - 00:52:09,850] Yeah.
+- [00:52:10,450 - 00:52:11,620] Could you please repeat what
+- [00:52:11,620 - 00:52:12,790] you said about what's an algebra?
+- [00:52:13,150 - 00:52:13,890] That's not a question.
+- [00:52:17,110 - 00:52:18,190] That's a Dirac story.
+- [00:52:21,330 - 00:52:22,630] What did you ask me?
+- [00:52:22,970 - 00:52:23,230] No,
+- [00:52:23,230 - 00:52:23,950] what did you tell me?
+- [00:52:24,570 - 00:52:26,970] What did you request of me?
+- [00:52:27,150 - 00:52:28,490] You said something was an algebra,
+- [00:52:28,730 - 00:52:30,090] and first of all,
+- [00:52:30,090 - 00:52:31,450] I want to know what is the algebra,
+- [00:52:31,610 - 00:52:32,970] and what is the momentum?
+- [00:52:32,970 - 00:52:34,550] The algebra is the collection of things.
+- [00:52:34,570 - 00:52:34,650] It's a collection of generators.
+- [00:52:35,890 - 00:52:37,190] You can add them.
+- [00:52:37,310 - 00:52:38,390] They are still generators.
+- [00:52:40,270 - 00:52:41,930] You can subtract them.
+- [00:52:42,650 - 00:52:45,410] You can even multiply them by ordinary numbers,
+- [00:52:46,110 - 00:52:47,790] and you can commute them.
+- [00:52:48,090 - 00:52:51,670] So commuting is a product in that algebra?
+- [00:52:51,950 - 00:52:52,490] That's correct.
+- [00:52:52,850 - 00:52:55,230] Commuting is a product in that algebra.
+- [00:52:55,630 - 00:52:57,270] An algebra is a thing,
+- [00:52:57,270 - 00:52:59,930] is a collection of elements that you can add,
+- [00:53:00,130 - 00:53:01,390] you can multiply by numbers,
+- [00:53:01,390 - 00:53:02,910] and you can multiply.
+- [00:53:03,150 - 00:53:03,510] Sorry.
+- [00:53:03,510 - 00:53:05,130] And you can multiply by each other.
+- [00:53:05,530 - 00:53:06,810] In this algebra,
+- [00:53:06,810 - 00:53:10,530] multiplication is commutation.
+- [00:53:10,730 - 00:53:11,430] That's correct.
+- [00:53:12,670 - 00:53:13,470] That's correct.
+- [00:53:15,930 - 00:53:16,490] Okay,
+- [00:53:16,490 - 00:53:17,750] so we'd like an example.
+- [00:53:18,790 - 00:53:20,350] Not only would we like an example,
+- [00:53:20,470 - 00:53:21,850] we would like the preeminent,
+- [00:53:21,850 - 00:53:22,930] most important example,
+- [00:53:24,350 - 00:53:26,400] and that is angular momentum
+- [00:53:26,400 - 00:53:28,450] and rotation about different axes.
+- [00:53:30,370 - 00:53:32,850] As an example of what I'm talking about here,
+- [00:53:32,850 - 00:53:35,590] we can consider rotation about the x-axis.
+- [00:53:35,750 - 00:53:36,910] Which way is the x-axis?
+- [00:53:36,990 - 00:53:37,330] That way,
+- [00:53:37,330 - 00:53:37,690] I guess.
+- [00:53:38,530 - 00:53:40,010] Rotation about the x-axis.
+- [00:53:40,910 - 00:53:42,470] Rotation about the y-axis.
+- [00:53:43,530 - 00:53:44,670] And if you think about it,
+- [00:53:44,670 - 00:53:45,810] and you probably know this,
+- [00:53:45,850 - 00:53:46,630] I can never do this.
+- [00:53:46,670 - 00:53:47,330] I'm not going to try it.
+- [00:53:47,430 - 00:53:47,530] But,
+- [00:53:47,530 - 00:53:47,690] you know,
+- [00:53:47,690 - 00:53:49,270] if you do rotate about the x-axis,
+- [00:53:49,330 - 00:53:52,230] then rotate about the y-axis by the right amount,
+- [00:53:52,410 - 00:53:54,810] what you get is a rotation about the z-axis.
+- [00:53:57,850 - 00:53:58,570] What's more,
+- [00:53:58,570 - 00:54:02,170] if you rotate a little bit about the x-axis,
+- [00:54:02,170 - 00:54:03,930] and then a little bit about the y-axis,
+- [00:54:04,010 - 00:54:04,190] no,
+- [00:54:04,190 - 00:54:05,690] a little bit about the x-axis,
+- [00:54:05,750 - 00:54:07,210] and then a little bit about the y-axis,
+- [00:54:07,770 - 00:54:09,830] it's not the same as rotating
+- [00:54:09,830 - 00:54:11,890] a little bit about the y-axis first,
+- [00:54:11,970 - 00:54:13,270] and then about the x-axis.
+- [00:54:13,450 - 00:54:14,930] They don't commute with each other.
+- [00:54:15,010 - 00:54:15,630] We're going to show that.
+- [00:54:17,170 - 00:54:18,520] We're going to show that
+- [00:54:18,520 - 00:54:19,870] by studying the commutation relations
+- [00:54:19,870 - 00:54:21,330] of the angular momentum.
+- [00:54:22,850 - 00:54:24,030] You look puzzled.
+- [00:54:24,150 - 00:54:25,380] I'm puzzled because I know
+- [00:54:25,380 - 00:54:26,610] that that's true for finite rotations,
+- [00:54:26,850 - 00:54:30,170] but I thought somehow that infinitesimal rotations...
+- [00:54:31,690 - 00:54:32,050] Infinitesimal?
+- [00:54:32,690 - 00:54:33,170] Okay.
+- [00:54:34,370 - 00:54:37,070] They don't commute to second order in the small numbers.
+- [00:54:37,630 - 00:54:38,110] Yeah.
+- [00:54:39,970 - 00:54:40,690] That's enough.
+- [00:54:41,150 - 00:54:41,870] That's enough.
+- [00:54:42,710 - 00:54:43,590] But remember,
+- [00:54:43,590 - 00:54:45,990] these generators have the small
+- [00:54:45,990 - 00:54:48,390] numbers factored out of them,
+- [00:54:49,730 - 00:54:50,830] and they don't commute.
+- [00:54:51,070 - 00:54:51,990] They really don't commute.
+- [00:54:52,710 - 00:54:53,190] Okay,
+- [00:54:53,190 - 00:54:54,950] we're going to work out an example in detail.
+- [00:54:55,190 - 00:54:56,250] We'll do it right now.
+- [00:54:56,610 - 00:54:59,530] The example is the three components of angular momentum.
+- [00:54:59,890 - 00:55:01,950] The three components of angular momentum
+- [00:55:02,170 - 00:55:06,990] are the three rotations about any axis form a group,
+- [00:55:08,929 - 00:55:10,850] but for our purposes now,
+- [00:55:10,850 - 00:55:12,370] we're not concentrating on groups.
+- [00:55:12,730 - 00:55:16,730] The angular momentum generators form a Lie algebra,
+- [00:55:17,030 - 00:55:18,590] a commutator algebra.
+- [00:55:19,090 - 00:55:21,480] That simply means that the commutators
+- [00:55:21,480 - 00:55:23,870] of components of the angular momentum
+- [00:55:23,870 - 00:55:26,410] give you other components of the angular momentum,
+- [00:55:26,550 - 00:55:27,430] and we'll work that out.
+- [00:55:27,890 - 00:55:28,810] But first,
+- [00:55:28,810 - 00:55:30,870] let's talk a little bit about...
+- [00:55:33,150 - 00:55:35,290] classical angular momentum for a minute,
+- [00:55:35,390 - 00:55:39,310] just to understand the corresponding classical concept.
+- [00:55:41,770 - 00:55:42,370] Okay,
+- [00:55:42,370 - 00:55:42,990] we can do this.
+- [00:55:46,610 - 00:55:47,210] Okay,
+- [00:55:47,210 - 00:55:51,090] let's imagine a planetary orbit.
+- [00:55:54,830 - 00:55:56,210] For my purpose now,
+- [00:55:56,210 - 00:55:57,490] it can be a circular orbit.
+- [00:55:58,390 - 00:56:00,010] It's orbiting about an axis,
+- [00:56:00,010 - 00:56:01,550] and it has an angular momentum,
+- [00:56:01,550 - 00:56:03,390] which is perpendicular to the orbit.
+- [00:56:03,590 - 00:56:04,890] That could be LZ.
+- [00:56:07,510 - 00:56:09,070] It has a certain energy,
+- [00:56:09,070 - 00:56:09,770] E.
+- [00:56:12,030 - 00:56:14,190] at a classical level,
+- [00:56:14,190 - 00:56:16,630] is that energy level degenerate?
+- [00:56:17,170 - 00:56:18,310] The meaning of that is,
+- [00:56:18,310 - 00:56:23,090] is there another orbit with exactly the same energy?
+- [00:56:24,830 - 00:56:25,650] Of course,
+- [00:56:25,650 - 00:56:28,850] there are many other orbits with exactly the same energy,
+- [00:56:29,010 - 00:56:30,170] but in particular,
+- [00:56:30,170 - 00:56:31,530] there's some that you can easily compute.
+- [00:56:31,550 - 00:56:33,090] Some of them can easily prove have the same energy,
+- [00:56:33,210 - 00:56:35,810] because of rotational invariance.
+- [00:56:36,290 - 00:56:38,000] All you have to do
+- [00:56:38,000 - 00:56:39,710] is rotate this about an axis.
+- [00:56:40,010 - 00:56:43,650] Let's rotate it about the y-axis.
+- [00:56:44,590 - 00:56:46,110] Take this configuration,
+- [00:56:46,110 - 00:56:48,190] rotate it about the y-axis.
+- [00:56:51,450 - 00:56:53,090] It's a new configuration,
+- [00:56:55,850 - 00:56:59,290] and the angular momentum has changed.
+- [00:56:59,590 - 00:57:00,090] Oops.
+- [00:57:01,570 - 00:57:02,010] Yeah,
+- [00:57:02,010 - 00:57:02,730] I guess that's okay.
+- [00:57:02,830 - 00:57:03,270] I guess,
+- [00:57:03,270 - 00:57:04,510] what did I do?
+- [00:57:05,210 - 00:57:06,590] I don't like my picture.
+- [00:57:06,710 - 00:57:07,390] My picture,
+- [00:57:07,390 - 00:57:10,010] this is in the wrong place.
+- [00:57:10,110 - 00:57:11,430] It should be coming from here.
+- [00:57:14,669 - 00:57:15,550] There's LZ.
+- [00:57:17,490 - 00:57:20,850] And now there's a change in L.
+- [00:57:20,990 - 00:57:22,550] It's picked up an x component.
+- [00:57:22,950 - 00:57:23,250] Yes,
+- [00:57:23,250 - 00:57:23,570] in fact,
+- [00:57:23,570 - 00:57:24,810] it's picked up an x component.
+- [00:57:26,070 - 00:57:29,430] And so because of rotation about the y-axis,
+- [00:57:31,010 - 00:57:34,770] rotation about the y-axis has not only
+- [00:57:34,770 - 00:57:38,530] given us another configuration with the same energy,
+- [00:57:39,170 - 00:57:41,060] but it's given us a configuration
+- [00:57:41,060 - 00:57:42,950] with a shift of the angular momentum,
+- [00:57:43,170 - 00:57:44,370] and in particular,
+- [00:57:44,370 - 00:57:46,850] a shift of the x component of the angular momentum.
+- [00:57:48,630 - 00:57:49,230] Classically,
+- [00:57:49,230 - 00:57:51,650] that's an indication that quantum mechanically,
+- [00:57:51,730 - 00:57:53,890] the components of angular momentum don't commute.
+- [00:57:55,490 - 00:57:57,270] A rotation by one,
+- [00:57:58,570 - 00:58:00,940] a rotation of a component of
+- [00:58:00,940 - 00:58:03,310] an angular momentum about a different axis
+- [00:58:04,190 - 00:58:06,730] changes the angular momentum about the third axis.
+- [00:58:07,490 - 00:58:09,890] That has a great deal to
+- [00:58:09,890 - 00:58:12,290] do with the commutation relations of rotations,
+- [00:58:13,070 - 00:58:14,930] but we'll work it out in detail.
+- [00:58:15,570 - 00:58:17,030] So here's an example.
+- [00:58:17,410 - 00:58:18,570] Classical physics,
+- [00:58:18,570 - 00:58:19,930] just at the classical level,
+- [00:58:20,090 - 00:58:22,970] the combination of rotation and variance,
+- [00:58:24,050 - 00:58:25,570] rotation and variance,
+- [00:58:25,570 - 00:58:27,700] the combination of the different
+- [00:58:27,700 - 00:58:29,830] rotation and variances about different axes,
+- [00:58:30,570 - 00:58:32,250] tells us unequivocally that there
+- [00:58:32,250 - 00:58:33,930] must be degeneracy of the orbits,
+- [00:58:34,190 - 00:58:36,710] that there must be orbits with the same energy,
+- [00:58:38,550 - 00:58:40,610] with rotated angular momentum.
+- [00:58:41,570 - 00:58:43,930] That's the basic idea classically.
+- [00:58:44,370 - 00:58:46,530] So let's go through it quantum mechanically.
+- [00:58:46,810 - 00:58:49,290] The first thing we have to do
+- [00:58:49,290 - 00:58:51,770] is understand the angular momentum generators better.
+- [00:58:52,830 - 00:58:55,450] So let's come back to the angular momentum generators
+- [00:58:55,570 - 00:58:55,850] and their form.
+- [00:58:56,670 - 00:59:00,590] Previously I just said minus i d by d theta.
+- [00:59:03,570 - 00:59:08,170] But let's work them out,
+- [00:59:08,270 - 00:59:11,310] not assuming that a particle is moving on a circle,
+- [00:59:11,949 - 00:59:14,530] but that a particle could be moving in three dimensions.
+- [00:59:14,770 - 00:59:15,070] In fact,
+- [00:59:15,070 - 00:59:16,470] it doesn't even really have to be a particle,
+- [00:59:16,610 - 00:59:17,490] but let it be a particle.
+- [00:59:17,990 - 00:59:20,030] A particle moving in three dimensions.
+- [00:59:22,190 - 00:59:22,630] First,
+- [00:59:22,630 - 00:59:23,930] before we do three dimensions,
+- [00:59:23,930 - 00:59:24,970] let's do two dimensions.
+- [00:59:25,830 - 00:59:27,610] Particle moving in the xy plane,
+- [00:59:27,850 - 00:59:29,350] not restricted to a circle.
+- [00:59:30,830 - 00:59:31,970] And let's ask,
+- [00:59:31,970 - 00:59:34,530] what's the generator of rotation now?
+- [00:59:34,770 - 00:59:35,390] It's not i d,
+- [00:59:35,390 - 00:59:35,590] well,
+- [00:59:35,590 - 00:59:37,130] it may be i d by d theta,
+- [00:59:37,310 - 00:59:38,630] but we can represent it
+- [00:59:38,630 - 00:59:39,950] in terms of the xy coordinates.
+- [00:59:40,790 - 00:59:41,270] Alright,
+- [00:59:41,270 - 00:59:43,290] so here's the position of the particle,
+- [00:59:43,290 - 00:59:44,050] let's say.
+- [00:59:45,130 - 00:59:47,810] Let's suppose we rotate the configuration.
+- [00:59:49,310 - 00:59:50,350] Rotating the configuration,
+- [00:59:50,350 - 00:59:51,810] whatever it happens to be,
+- [00:59:51,870 - 00:59:53,290] means whatever the particle is,
+- [00:59:53,290 - 00:59:54,970] or whatever the wave function of it is,
+- [00:59:54,970 - 00:59:55,770] shifted.
+- [00:59:56,950 - 00:59:59,330] So if the particle was at point xy,
+- [01:00:00,210 - 01:00:02,590] it moves to a new point.
+- [01:00:05,090 - 01:00:06,250] What's the new point?
+- [01:00:06,510 - 01:00:08,230] The new point is given,
+- [01:00:08,370 - 01:00:10,550] if the old point was given by xy,
+- [01:00:11,290 - 01:00:13,900] then the new point is shifted by
+- [01:00:13,900 - 01:00:16,510] an amount delta x and delta y.
+- [01:00:17,090 - 01:00:19,450] I'm assuming that the angle is small,
+- [01:00:20,490 - 01:00:22,430] and let's call the angle epsilon.
+- [01:00:23,330 - 01:00:26,790] Let's call the angle epsilon.
+- [01:00:29,830 - 01:00:30,350] Then,
+- [01:00:30,350 - 01:00:32,130] what is delta x and delta y?
+- [01:00:32,930 - 01:00:34,580] I'll leave it to you to
+- [01:00:34,580 - 01:00:36,230] prove this is a very simple exercise,
+- [01:00:36,430 - 01:00:37,590] it's just simple geometry.
+- [01:00:39,170 - 01:00:40,790] For a small epsilon,
+- [01:00:41,730 - 01:00:43,790] can anybody tell me what delta x is?
+- [01:00:44,530 - 01:00:46,230] It's of course proportional to epsilon.
+- [01:00:48,470 - 01:00:49,250] Minus y.
+- [01:00:49,770 - 01:00:50,410] Minus y.
+- [01:00:50,750 - 01:00:51,150] Yeah.
+- [01:00:52,570 - 01:00:54,130] If y is positive,
+- [01:00:54,890 - 01:00:56,030] and you rotate,
+- [01:00:56,470 - 01:00:58,190] the change in x is negative.
+- [01:00:58,850 - 01:00:59,170] So,
+- [01:00:59,170 - 01:01:00,830] it's got to be minus,
+- [01:01:01,050 - 01:01:03,130] and it's proportional to y.
+- [01:01:04,370 - 01:01:05,990] What about delta y?
+- [01:01:07,470 - 01:01:09,190] That's epsilon times x.
+- [01:01:12,750 - 01:01:13,390] Okay,
+- [01:01:13,390 - 01:01:15,090] now let's consider a wave function,
+- [01:01:15,430 - 01:01:16,470] psi of x and y.
+- [01:01:18,130 - 01:01:20,890] What is the change in the wave function
+- [01:01:21,150 - 01:01:24,970] if you reconfigure the system by rotation?
+- [01:01:26,810 - 01:01:29,520] It's equal to the derivative
+- [01:01:29,520 - 01:01:32,230] of psi with respect to x,
+- [01:01:33,130 - 01:01:34,550] times the change in x,
+- [01:01:36,810 - 01:01:39,670] plus the derivative of psi with respect to y,
+- [01:01:40,810 - 01:01:42,170] times the change in y,
+- [01:01:45,510 - 01:01:47,130] if I shift the wave function.
+- [01:01:47,130 - 01:01:51,890] But delta x is minus epsilon times y.
+- [01:02:00,570 - 01:02:04,530] Minus epsilon times y.
+- [01:02:05,390 - 01:02:10,450] And this is plus epsilon times x.
+- [01:02:13,370 - 01:02:15,230] That's the change in the wave function,
+- [01:02:15,230 - 01:02:16,510] and of course,
+- [01:02:16,510 - 01:02:17,770] this must be,
+- [01:02:19,190 - 01:02:20,230] by definition,
+- [01:02:20,930 - 01:02:22,730] I guess it's L sub z,
+- [01:02:25,190 - 01:02:26,010] times psi.
+- [01:02:27,350 - 01:02:27,870] So,
+- [01:02:27,870 - 01:02:28,390] oh,
+- [01:02:28,390 - 01:02:29,810] i epsilon,
+- [01:02:30,070 - 01:02:31,950] i epsilon times L z.
+- [01:02:36,090 - 01:02:37,950] Now it's much too late in the evening
+- [01:02:37,950 - 01:02:39,170] for me to follow the signs,
+- [01:02:39,410 - 01:02:40,130] so I won't.
+- [01:02:40,150 - 01:02:42,530] I'll leave the signs for you to figure out yourself.
+- [01:02:43,470 - 01:02:43,990] But,
+- [01:02:45,810 - 01:02:47,530] it has this form.
+- [01:02:48,050 - 01:02:51,270] But what is the psi by dx in quantum mechanics?
+- [01:02:55,010 - 01:02:56,510] i times px.
+- [01:02:57,590 - 01:03:00,110] So this is another factor of i,
+- [01:03:01,810 - 01:03:03,150] and this is
+- [01:03:05,969 - 01:03:08,030] y times px.
+- [01:03:11,850 - 01:03:14,250] Did it matter which order I put down
+- [01:03:14,250 - 01:03:15,350] y and px here?
+- [01:03:16,830 - 01:03:17,770] Do they commute?
+- [01:03:19,890 - 01:03:20,410] Yeah,
+- [01:03:20,410 - 01:03:21,790] y commutes with px.
+- [01:03:21,850 - 01:03:23,350] x doesn't commute with px.
+- [01:03:23,690 - 01:03:25,290] y doesn't commute with py,
+- [01:03:25,490 - 01:03:26,910] but x commutes with py.
+- [01:03:28,070 - 01:03:29,230] What about this one?
+- [01:03:29,790 - 01:03:30,930] This one is
+- [01:03:31,870 - 01:03:32,730] plus i
+- [01:03:37,470 - 01:03:38,510] times xpy.
+- [01:03:48,230 - 01:03:49,430] All times...
+- [01:03:55,010 - 01:03:55,610] Alright,
+- [01:03:55,610 - 01:03:56,450] apart from the sign,
+- [01:03:56,670 - 01:03:57,780] which I said I wouldn't
+- [01:03:57,780 - 01:03:58,890] try to track in any detail,
+- [01:03:59,530 - 01:04:00,790] it's quite clear
+- [01:04:00,790 - 01:04:03,910] what the correspondence between the z component
+- [01:04:03,910 - 01:04:05,170] of the angular momentum,
+- [01:04:06,890 - 01:04:08,590] the generator of rotations,
+- [01:04:09,010 - 01:04:12,890] and the coordinates and momenta of the particle are.
+- [01:04:13,950 - 01:04:14,430] Lz
+- [01:04:22,130 - 01:04:24,330] is to be identified with
+- [01:04:26,710 - 01:04:28,670] xpy minus ypx,
+- [01:04:28,790 - 01:04:29,830] and now I do have...
+- [01:04:29,830 - 01:04:31,190] this is the right sign.
+- [01:04:32,290 - 01:04:33,830] I lost track of the sign,
+- [01:04:33,950 - 01:04:34,930] but this is the correct sign.
+- [01:04:35,970 - 01:04:37,190] Have you seen that before?
+- [01:04:39,450 - 01:04:41,910] That's the component of r cross p.
+- [01:04:41,910 - 01:04:45,030] The standard three-dimensional angular momentum.
+- [01:04:45,330 - 01:04:46,810] r cross p.
+- [01:04:49,690 - 01:04:51,390] So now we see a
+- [01:04:51,390 - 01:04:53,090] new interpretation of r cross p.
+- [01:04:54,790 - 01:04:58,590] Not just the mechanical angular momentum
+- [01:04:58,590 - 01:04:59,910] from classical physics,
+- [01:05:00,210 - 01:05:02,330] but it now has the role of the thing
+- [01:05:02,330 - 01:05:04,610] which generates small rotations
+- [01:05:04,610 - 01:05:07,110] by acting on the wave function.
+- [01:05:07,770 - 01:05:08,270] Okay.
+- [01:05:09,930 - 01:05:12,270] What about the other components of angular momentum?
+- [01:05:12,530 - 01:05:14,490] You can read them off just by cycling,
+- [01:05:14,690 - 01:05:16,490] by cycling through the xyz.
+- [01:05:17,130 - 01:05:18,230] x goes to y,
+- [01:05:18,230 - 01:05:19,130] y goes to z,
+- [01:05:19,130 - 01:05:20,130] z goes to x.
+- [01:05:21,690 - 01:05:22,190] Alright,
+- [01:05:22,190 - 01:05:23,390] so going through it.
+- [01:05:24,810 - 01:05:26,430] z goes to x,
+- [01:05:26,430 - 01:05:28,550] x goes to y,
+- [01:05:28,550 - 01:05:30,050] y goes to z,
+- [01:05:32,990 - 01:05:33,990] minus zpy.
+- [01:05:33,990 - 01:05:38,950] And lxxyz.
+- [01:05:42,589 - 01:05:44,010] pypzpx minus xpy.
+- [01:05:49,650 - 01:05:50,050] These,
+- [01:05:50,050 - 01:05:50,490] of course,
+- [01:05:50,490 - 01:05:51,610] you could confirm
+- [01:05:51,610 - 01:05:52,650] by doing,
+- [01:05:52,650 - 01:05:53,670] by imagining rotations
+- [01:05:53,670 - 01:05:54,890] about the other axes,
+- [01:05:54,969 - 01:05:55,850] but just by,
+- [01:05:55,850 - 01:05:56,330] you know,
+- [01:05:56,330 - 01:05:58,850] just by the parallel reasoning,
+- [01:05:59,469 - 01:06:00,590] this is what you would get.
+- [01:06:02,350 - 01:06:02,750] Questions?
+- [01:06:05,069 - 01:06:05,469] Oh,
+- [01:06:05,469 - 01:06:06,030] you're right,
+- [01:06:06,030 - 01:06:06,330] pz.
+- [01:06:07,030 - 01:06:09,110] I have two different notations for z,
+- [01:06:09,110 - 01:06:09,489] don't I?
+- [01:06:15,110 - 01:06:15,509] Yeah.
+- [01:06:18,449 - 01:06:18,989] Wait a minute.
+- [01:06:20,210 - 01:06:20,830] Which one,
+- [01:06:20,830 - 01:06:21,130] which one?
+- [01:06:24,409 - 01:06:24,810] Ly,
+- [01:06:24,810 - 01:06:25,210] good,
+- [01:06:25,210 - 01:06:25,870] thank you.
+- [01:06:26,230 - 01:06:26,630] Ly,
+- [01:06:26,630 - 01:06:27,150] good,
+- [01:06:27,150 - 01:06:27,449] good,
+- [01:06:27,449 - 01:06:27,630] good,
+- [01:06:27,630 - 01:06:27,770] good,
+- [01:06:27,770 - 01:06:27,830] good.
+- [01:06:28,890 - 01:06:29,290] Okay.
+- [01:06:30,730 - 01:06:31,390] These are the,
+- [01:06:31,390 - 01:06:32,429] these are,
+- [01:06:33,989 - 01:06:34,790] are they symmetries?
+- [01:06:36,150 - 01:06:36,710] Well,
+- [01:06:36,710 - 01:06:37,489] they're symmetries
+- [01:06:37,489 - 01:06:40,150] if the system is rotationally invariant.
+- [01:06:41,449 - 01:06:42,010] Why?
+- [01:06:43,370 - 01:06:43,930] Well,
+- [01:06:43,930 - 01:06:45,950] because rotating a system
+- [01:06:45,950 - 01:06:47,750] shouldn't change the Hamiltonian.
+- [01:06:48,610 - 01:06:49,770] So we expect,
+- [01:06:49,770 - 01:06:50,950] we fully expect
+- [01:06:50,950 - 01:06:53,010] that if we have a system
+- [01:06:53,010 - 01:06:54,870] with rotational invariance,
+- [01:06:54,930 - 01:06:57,950] then these should commute with the Hamiltonian.
+- [01:06:57,990 - 01:06:59,070] And typically they do,
+- [01:06:59,070 - 01:06:59,730] they do.
+- [01:06:59,870 - 01:07:00,250] In fact,
+- [01:07:00,250 - 01:07:02,390] they always do if the system has invariance.
+- [01:07:03,390 - 01:07:06,290] What kind of systems have rotational invariance?
+- [01:07:06,850 - 01:07:07,590] Well,
+- [01:07:07,590 - 01:07:09,990] a very particular system
+- [01:07:09,990 - 01:07:13,270] is a particle moving in a central force field.
+- [01:07:14,210 - 01:07:16,910] A particle moving in a central force field
+- [01:07:16,910 - 01:07:19,560] will have rotational invariance,
+- [01:07:19,990 - 01:07:22,130] and therefore for that kind of system,
+- [01:07:22,350 - 01:07:27,930] the commutator of Lx with h equals zero,
+- [01:07:28,050 - 01:07:30,210] and in fact all three of them.
+- [01:07:32,049 - 01:07:32,890] L sub i,
+- [01:07:32,890 - 01:07:33,190] one,
+- [01:07:33,190 - 01:07:33,450] two,
+- [01:07:33,450 - 01:07:33,750] and three,
+- [01:07:33,790 - 01:07:34,130] or x,
+- [01:07:34,130 - 01:07:34,270] y,
+- [01:07:34,270 - 01:07:34,570] and z,
+- [01:07:34,710 - 01:07:36,570] they all commute with the Hamiltonian
+- [01:07:36,570 - 01:07:37,690] and they're all conserved.
+- [01:07:37,930 - 01:07:40,810] And this is just good old angular momentum conservation
+- [01:07:40,810 - 01:07:44,230] except in the quantum guise.
+- [01:07:45,810 - 01:07:46,690] Next question.
+- [01:07:47,950 - 01:07:49,630] Do they commute with each other?
+- [01:07:50,630 - 01:07:53,370] Suppose all we had was Lx and Ly.
+- [01:07:54,110 - 01:07:55,250] That's all we knew about.
+- [01:07:55,350 - 01:07:56,150] Lx and Ly.
+- [01:07:56,670 - 01:07:58,710] Why we only knew about Lx and Ly?
+- [01:07:58,710 - 01:08:00,470] I don't know.
+- [01:08:00,510 - 01:08:02,390] Our mothers only told us about x and y.
+- [01:08:05,330 - 01:08:07,490] Would we discover Lz?
+- [01:08:09,010 - 01:08:10,930] That Lz is another symmetry.
+- [01:08:12,010 - 01:08:12,570] Well,
+- [01:08:12,570 - 01:08:14,990] our mothers only told us about x and y,
+- [01:08:15,270 - 01:08:17,569] but they also told us about commuting
+- [01:08:17,569 - 01:08:18,930] the generators of Lie groups.
+- [01:08:22,729 - 01:08:23,290] So,
+- [01:08:23,290 - 01:08:24,670] mom tells us,
+- [01:08:24,710 - 01:08:24,930] look,
+- [01:08:24,930 - 01:08:27,330] commute Lx and Ly
+- [01:08:27,330 - 01:08:28,770] and see what you get.
+- [01:08:28,990 - 01:08:30,490] Let's commute Lx and Ly
+- [01:08:30,490 - 01:08:31,609] and see what we get.
+- [01:08:37,490 - 01:08:37,930] Okay,
+- [01:08:37,930 - 01:08:38,330] well,
+- [01:08:38,330 - 01:08:39,149] what do we need to do?
+- [01:08:39,229 - 01:08:40,729] We need to know the commutation relations
+- [01:08:40,729 - 01:08:41,630] between x,
+- [01:08:41,630 - 01:08:41,910] y,
+- [01:08:41,910 - 01:08:43,010] and z on the one hand
+- [01:08:43,010 - 01:08:43,590] and px,
+- [01:08:43,590 - 01:08:43,850] py,
+- [01:08:43,850 - 01:08:45,270] and pz on the other hand.
+- [01:08:45,770 - 01:08:46,410] The rule,
+- [01:08:46,410 - 01:08:47,510] I'll write it over here,
+- [01:08:49,830 - 01:08:53,109] any x with y or z or anything like that
+- [01:08:53,109 - 01:08:54,649] is always equal to zero.
+- [01:08:55,130 - 01:08:56,970] x with itself is equal to zero.
+- [01:08:57,330 - 01:08:57,609] x with y,
+- [01:08:57,609 - 01:08:59,149] x with z is equal to zero.
+- [01:08:59,750 - 01:09:00,630] They commute.
+- [01:09:01,630 - 01:09:03,370] Ps commute with each other.
+- [01:09:03,450 - 01:09:03,850] px,
+- [01:09:03,850 - 01:09:04,189] py,
+- [01:09:04,189 - 01:09:06,649] and pz all commute with each other.
+- [01:09:06,990 - 01:09:08,550] Which things don't commute?
+- [01:09:09,189 - 01:09:10,850] The things that don't commute
+- [01:09:12,170 - 01:09:15,330] are x with px,
+- [01:09:16,109 - 01:09:18,130] and that's equal to i,
+- [01:09:18,130 - 01:09:18,890] strictly,
+- [01:09:18,970 - 01:09:20,470] i times h-bar.
+- [01:09:22,410 - 01:09:23,649] Same with y.
+- [01:09:25,649 - 01:09:28,689] y with py is i,
+- [01:09:28,930 - 01:09:30,729] and z with pz is i.
+- [01:09:30,850 - 01:09:32,029] I won't write it down.
+- [01:09:33,770 - 01:09:35,229] How about x with py?
+- [01:09:37,750 - 01:09:38,770] That commutes.
+- [01:09:40,029 - 01:09:41,189] Multiplication by x
+- [01:09:41,189 - 01:09:43,810] and differentiation with respect to y
+- [01:09:43,810 - 01:09:45,189] commute with each other.
+- [01:09:45,870 - 01:09:47,050] And you can check that.
+- [01:09:48,130 - 01:09:48,689] Okay,
+- [01:09:48,689 - 01:09:50,689] so let's calculate the commutator
+- [01:09:50,689 - 01:09:51,930] of Lx with Ly.
+- [01:09:52,910 - 01:09:56,330] That's the commutator of ypz
+- [01:09:58,169 - 01:09:58,890] minus zpy,
+- [01:10:00,290 - 01:10:00,650] comma,
+- [01:10:01,890 - 01:10:03,210] comma for commutator,
+- [01:10:06,310 - 01:10:07,970] zpx minus xpz.
+- [01:10:11,330 - 01:10:11,690] Now,
+- [01:10:11,690 - 01:10:12,990] I'm not going to go through the rules
+- [01:10:12,990 - 01:10:14,010] for commutators.
+- [01:10:14,350 - 01:10:15,410] If you remember them,
+- [01:10:15,410 - 01:10:15,890] you don't,
+- [01:10:15,890 - 01:10:16,370] but I'll just,
+- [01:10:16,550 - 01:10:18,250] but it's by inspection.
+- [01:10:18,570 - 01:10:20,230] You can more or less see what to do.
+- [01:10:21,930 - 01:10:24,050] Who in this side doesn't commute
+- [01:10:24,050 - 01:10:25,670] with who on this side?
+- [01:10:26,330 - 01:10:28,430] It's a commutator of this thing with this thing.
+- [01:10:28,710 - 01:10:31,070] What on this side doesn't commute
+- [01:10:31,070 - 01:10:32,610] with something on this side?
+- [01:10:33,170 - 01:10:33,470] Well,
+- [01:10:33,470 - 01:10:34,790] y commutes with z,
+- [01:10:34,990 - 01:10:36,190] y commutes with px,
+- [01:10:36,190 - 01:10:36,710] and so forth,
+- [01:10:36,990 - 01:10:39,710] but pz does not commute with z.
+- [01:10:40,430 - 01:10:42,650] So there's two things which don't commute.
+- [01:10:45,090 - 01:10:45,650] And,
+- [01:10:45,650 - 01:10:46,770] let's see over here,
+- [01:10:47,390 - 01:10:49,810] z doesn't commute with pz.
+- [01:10:51,050 - 01:10:51,910] With pz.
+- [01:10:52,810 - 01:10:55,570] Those are the only combinations,
+- [01:10:56,390 - 01:10:58,590] if we were to expand this out,
+- [01:10:58,890 - 01:11:01,770] the only combinations which don't commute
+- [01:11:01,770 - 01:11:03,210] are pz,
+- [01:11:03,210 - 01:11:04,470] did I get it right,
+- [01:11:04,470 - 01:11:04,830] with z,
+- [01:11:06,850 - 01:11:08,050] and z,
+- [01:11:08,050 - 01:11:10,210] did I get that right?
+- [01:11:12,570 - 01:11:13,810] Zpx minus x,
+- [01:11:14,810 - 01:11:15,410] no,
+- [01:11:15,410 - 01:11:15,530] no,
+- [01:11:15,530 - 01:11:18,630] what have I written here?
+- [01:11:21,230 - 01:11:21,830] pxpd.
+- [01:11:21,850 - 01:11:21,890] pxpd.
+- [01:11:23,350 - 01:11:24,330] What am I doing?
+- [01:11:24,410 - 01:11:26,670] I'm commuting lx,
+- [01:11:28,270 - 01:11:29,390] that looks right,
+- [01:11:30,350 - 01:11:31,850] ypz minus zpy,
+- [01:11:32,810 - 01:11:33,830] with ly,
+- [01:11:33,830 - 01:11:36,690] which is zpx minus xpz.
+- [01:11:36,850 - 01:11:36,970] Yeah,
+- [01:11:36,970 - 01:11:37,370] that's right.
+- [01:11:41,550 - 01:11:42,150] Yeah,
+- [01:11:42,150 - 01:11:42,750] okay?
+- [01:11:43,770 - 01:11:44,370] Okay.
+- [01:11:45,010 - 01:11:45,610] Alright,
+- [01:11:45,610 - 01:11:47,150] from this term over here,
+- [01:11:47,609 - 01:11:49,870] you get a commutator of pz with z.
+- [01:11:49,870 - 01:11:51,850] What's the commutator of pz with z?
+- [01:11:55,870 - 01:11:56,410] Minus i.
+- [01:11:57,790 - 01:11:58,350] Minus i.
+- [01:11:58,490 - 01:11:59,570] So there's a minus i,
+- [01:12:00,730 - 01:12:02,710] and that gets rid of pz and z,
+- [01:12:02,830 - 01:12:04,590] and you're left over with y times,
+- [01:12:07,230 - 01:12:07,710] no,
+- [01:12:07,710 - 01:12:08,130] y,
+- [01:12:08,130 - 01:12:08,530] sorry,
+- [01:12:08,530 - 01:12:09,210] you're left over,
+- [01:12:09,310 - 01:12:11,690] that gets rid of z with pz,
+- [01:12:11,890 - 01:12:14,370] and that leaves over y and px.
+- [01:12:15,670 - 01:12:17,390] From this with this,
+- [01:12:17,470 - 01:12:19,630] you get y times px.
+- [01:12:19,870 - 01:12:21,030] Does it matter which order
+- [01:12:21,030 - 01:12:22,190] you write down y and px?
+- [01:12:22,470 - 01:12:22,990] No.
+- [01:12:23,890 - 01:12:24,450] Okay,
+- [01:12:24,450 - 01:12:25,410] so there's minus i,
+- [01:12:26,150 - 01:12:27,790] y times px,
+- [01:12:27,970 - 01:12:29,850] and then there's the other one,
+- [01:12:30,609 - 01:12:31,270] which is
+- [01:12:33,530 - 01:12:35,950] commutator of z with pz is again,
+- [01:12:36,729 - 01:12:37,010] i,
+- [01:12:37,910 - 01:12:39,250] and now we get
+- [01:12:42,990 - 01:12:44,110] plus i,
+- [01:12:45,870 - 01:12:46,430] xpy,
+- [01:12:46,430 - 01:12:47,230] I believe.
+- [01:12:48,270 - 01:12:49,130] Yeah,
+- [01:12:49,130 - 01:12:50,830] x times py.
+- [01:12:51,410 - 01:12:52,610] Where is it?
+- [01:12:53,790 - 01:12:54,410] Ah,
+- [01:12:54,530 - 01:12:58,390] x times py from here.
+- [01:13:00,650 - 01:13:02,950] Which is our friend
+- [01:13:02,950 - 01:13:08,050] i times lz.
+- [01:13:09,890 - 01:13:12,890] So this is an example of commuting
+- [01:13:14,350 - 01:13:17,210] generators and discovering new generators.
+- [01:13:18,650 - 01:13:20,230] Not a big surprise,
+- [01:13:20,550 - 01:13:21,510] but nevertheless,
+- [01:13:21,770 - 01:13:23,430] we see it before our eyes.
+- [01:13:23,810 - 01:13:25,450] And so now we can write down
+- [01:13:25,450 - 01:13:28,130] the general list of commutation relations.
+- [01:13:29,170 - 01:13:31,390] Notice that by commuting to angular momentum,
+- [01:13:31,530 - 01:13:32,450] we got a third one.
+- [01:13:32,730 - 01:13:33,750] There's only three.
+- [01:13:34,070 - 01:13:35,490] There's no way we're going
+- [01:13:35,490 - 01:13:36,910] to get more than three generators
+- [01:13:36,910 - 01:13:40,130] out of this sequence of commutations.
+- [01:13:40,730 - 01:13:43,310] And so the Lie algebra is just going to be
+- [01:13:43,310 - 01:13:45,130] the Lie algebra of the three components
+- [01:13:45,130 - 01:13:46,270] of the angular momentum.
+- [01:13:46,270 - 01:13:48,990] Let's write it down.
+- [01:13:51,070 - 01:13:52,890] This one says that
+- [01:13:54,470 - 01:13:56,310] Lx with Ly
+- [01:13:58,529 - 01:14:00,210] equals ilz.
+- [01:14:04,770 - 01:14:06,950] And then the trick is always the same,
+- [01:14:07,070 - 01:14:07,770] just cycle.
+- [01:14:09,170 - 01:14:11,530] LL equals il.
+- [01:14:12,789 - 01:14:15,050] LL equals il.
+- [01:14:15,050 - 01:14:16,410] L....
+- [01:14:17,410 - 01:14:18,210] comma
+- [01:14:22,430 - 01:14:23,230] xyz
+- [01:14:26,350 - 01:14:27,150] YZx
+- [01:14:28,930 - 01:14:29,730] YZx
+- [01:14:29,730 - 01:14:30,590] xy
+- [01:14:30,590 - 01:14:30,670] xy
+- [01:14:30,670 - 01:14:31,070] xy
+- [01:14:31,890 - 01:14:32,890] Those are our basic
+- [01:14:32,890 - 01:14:35,070] commutation relations of angular momentum.
+- [01:14:35,830 - 01:14:36,530] If you
+- [01:14:37,629 - 01:14:39,030] continue commuting,
+- [01:14:39,110 - 01:14:40,310] you won't get anything new.
+- [01:14:41,730 - 01:14:45,210] So we've discovered the genuine Lie algebra.
+- [01:14:50,090 - 01:14:50,690] Yeah?
+- [01:14:50,970 - 01:14:52,410] When you generate an LC,
+- [01:14:52,410 - 01:14:54,160] don't you have to prove that
+- [01:14:54,160 - 01:14:55,910] it's not a linear combination of
+- [01:14:55,910 - 01:14:56,870] LX and LZ?
+- [01:14:59,930 - 01:15:00,530] Well,
+- [01:15:00,530 - 01:15:02,500] you want to prove that
+- [01:15:02,500 - 01:15:04,470] LZ is not a linear combination.
+- [01:15:04,890 - 01:15:06,770] I suppose we do.
+- [01:15:09,510 - 01:15:10,210] But yeah,
+- [01:15:10,210 - 01:15:11,210] I think we can prove that.
+- [01:15:11,290 - 01:15:11,710] Let's see,
+- [01:15:11,710 - 01:15:12,490] what can we do?
+- [01:15:18,230 - 01:15:20,170] Let me not answer that right now.
+- [01:15:20,210 - 01:15:21,790] It gets me off track.
+- [01:15:22,030 - 01:15:22,670] It should be...
+- [01:15:26,750 - 01:15:29,870] Let's come back to it.
+- [01:15:31,529 - 01:15:33,110] It should be very easy.
+- [01:15:34,370 - 01:15:36,750] I don't want to get my head...
+- [01:15:36,770 - 01:15:37,730] Confused.
+- [01:15:37,970 - 01:15:38,770] Of course,
+- [01:15:38,770 - 01:15:40,950] the Z component of the angular momentum
+- [01:15:40,950 - 01:15:43,130] is not likely to be a linear combination
+- [01:15:43,130 - 01:15:44,590] of X and Y components.
+- [01:15:44,930 - 01:15:45,530] But yes,
+- [01:15:45,530 - 01:15:45,930] you're right.
+- [01:15:46,070 - 01:15:46,550] You're right.
+- [01:15:46,630 - 01:15:50,070] We do have the obligation
+- [01:15:50,070 - 01:15:53,510] of showing that LZ is not...
+- [01:15:53,510 - 01:15:54,870] You know what?
+- [01:15:54,950 - 01:15:57,670] I think we can probably show that LZ,
+- [01:15:57,670 - 01:16:00,010] from these commutation relations,
+- [01:16:00,010 - 01:16:01,570] I believe we
+- [01:16:01,570 - 01:16:04,160] could show that LZ does not commute
+- [01:16:04,160 - 01:16:06,750] with any linear combination of LX and LZ.
+- [01:16:06,750 - 01:16:06,750] So,
+- [01:16:06,750 - 01:16:07,050] we have the obligation of showing that LZ
+- [01:16:07,050 - 01:16:07,350] is not a linear combination of LX and LY.
+- [01:16:10,970 - 01:16:15,190] If LZ was a linear combination of LX and LY,
+- [01:16:15,190 - 01:16:17,110] it would commute with that linear combination.
+- [01:16:17,450 - 01:16:18,470] I think we can prove it.
+- [01:16:18,770 - 01:16:19,210] But...
+- [01:16:19,210 - 01:16:19,210] So,
+- [01:16:19,210 - 01:16:20,390] you could say it's orthogonal?
+- [01:16:22,090 - 01:16:23,070] What does that mean?
+- [01:16:23,230 - 01:16:24,030] LZ is orthogonal?
+- [01:16:24,410 - 01:16:24,870] What does it mean?
+- [01:16:25,650 - 01:16:26,130] Well,
+- [01:16:26,130 - 01:16:29,010] there's no linear combination of LX and LY.
+- [01:16:29,210 - 01:16:31,070] What does it mean that the LX and...
+- [01:16:31,750 - 01:16:32,230] Yes,
+- [01:16:32,230 - 01:16:32,970] they are components.
+- [01:16:33,370 - 01:16:35,050] They are perpendicular components
+- [01:16:35,050 - 01:16:36,730] of some three-dimensional components.
+- [01:16:36,730 - 01:16:37,970] vector r cross p.
+- [01:16:37,970 - 01:16:39,650] But I don't want to use that.
+- [01:16:39,650 - 01:16:41,150] I think the right thing to do is
+- [01:16:41,150 - 01:16:43,070] exactly as this gentleman said,
+- [01:16:43,070 - 01:16:46,750] is to directly prove algebraically that LZ is
+- [01:16:46,750 - 01:16:48,950] not a linear combination of the others.
+- [01:16:48,950 - 01:16:50,510] I think we can prove that,
+- [01:16:50,510 - 01:16:51,210] but yeah.
+- [01:16:54,830 - 01:16:55,870] What's that?
+- [01:16:56,610 - 01:17:00,600] A Lie algebra is an algebra
+- [01:17:00,600 - 01:17:04,590] where the rule for multiplication is
+- [01:17:04,590 - 01:17:05,210] commutation.
+- [01:17:05,210 - 01:17:07,610] Okay,
+- [01:17:07,610 - 01:17:08,310] that's what it means.
+- [01:17:08,310 - 01:17:11,510] But don't worry about the name.
+- [01:17:11,870 - 01:17:12,990] The name is just,
+- [01:17:12,990 - 01:17:18,410] it's a collection of objects whose commutation
+- [01:17:18,410 - 01:17:19,850] relations close.
+- [01:17:19,850 - 01:17:22,010] A collection of objects,
+- [01:17:22,010 - 01:17:23,310] when you keep commuting them,
+- [01:17:23,310 - 01:17:23,810] you don't
+- [01:17:23,810 - 01:17:24,390] get new ones.
+- [01:17:24,390 - 01:17:26,190] That's called a Lie algebra.
+- [01:17:26,190 - 01:17:30,610] And it's just a name.
+- [01:17:30,610 - 01:17:33,690] Lie,
+- [01:17:33,690 - 01:17:34,170] of course,
+- [01:17:34,170 - 01:17:34,330] was
+- [01:17:34,330 - 01:17:34,570] a mathematical name.
+- [01:17:34,590 - 01:17:35,030] A mathematician.
+- [01:17:35,030 - 01:17:43,130] I don't know,
+- [01:17:43,130 - 01:17:44,190] was algebra a mathematician?
+- [01:17:44,190 - 01:17:46,430] It might have been,
+- [01:17:46,430 - 01:17:46,710] I don't
+- [01:17:46,710 - 01:17:46,810] know.
+- [01:17:46,810 - 01:17:48,710] Al-Jabeer.
+- [01:17:48,710 - 01:17:49,370] Yeah,
+- [01:17:49,370 - 01:17:50,070] I think he was.
+- [01:17:56,290 - 01:17:56,810] What's that?
+- [01:17:58,570 - 01:17:58,950] What's that?
+- [01:17:59,470 - 01:18:00,750] Algebra is an Arabic word.
+- [01:18:00,930 - 01:18:01,830] I think it's an Arabic word,
+- [01:18:01,830 - 01:18:02,010] yeah.
+- [01:18:02,570 - 01:18:03,190] I don't think so.
+- [01:18:04,590 - 01:18:05,370] I think it was.
+- [01:18:05,370 - 01:18:07,690] I have a feeling his name was just Al-Jabeer,
+- [01:18:07,690 - 01:18:09,490] but I'm not sure.
+- [01:18:09,490 - 01:18:10,410] I remember
+- [01:18:10,410 - 01:18:11,050] reading that,
+- [01:18:11,050 - 01:18:13,290] but maybe I don't remember reading it.
+- [01:18:13,290 - 01:18:15,670] Okay,
+- [01:18:15,670 - 01:18:17,110] so where are we?
+- [01:18:17,110 - 01:18:18,150] We have this nice
+- [01:18:18,150 - 01:18:21,830] collection of algebraic relations,
+- [01:18:21,830 - 01:18:24,910] including three more,
+- [01:18:24,910 - 01:18:26,450] but I'll just write them as one
+- [01:18:26,450 - 01:18:26,730] more.
+- [01:18:26,730 - 01:18:34,570] The commutator of any component of L with the Hamiltonian.
+- [01:18:34,590 - 01:18:34,830] Okay.
+- [01:18:34,830 - 01:18:35,510] The commutator of any component of L
+- [01:18:35,510 - 01:18:36,190] with the Hamiltonian is equal to zero.
+- [01:18:36,190 - 01:18:39,690] Which means that the three
+- [01:18:39,690 - 01:18:43,190] components of angular momentum are conserved.
+- [01:18:43,190 - 01:18:45,110] Okay,
+- [01:18:45,110 - 01:18:46,230] what can we do with that?
+- [01:18:46,230 - 01:18:48,330] Well,
+- [01:18:48,330 - 01:18:51,510] a lot.
+- [01:18:52,630 - 01:18:53,270] Okay.
+- [01:18:57,330 - 01:19:00,950] This is a good time to remember what we learned about the
+- [01:19:00,950 - 01:19:04,570] harmonic oscillator by having a lot of time to think about it.
+- [01:19:04,570 - 01:19:04,750] Okay.
+- [01:19:04,750 - 01:19:04,750] So,
+- [01:19:04,750 - 01:19:06,730] we had a similar kind of algebraic structure.
+- [01:19:06,730 - 01:19:10,910] The similar kind of algebraic structure that we
+- [01:19:10,910 - 01:19:15,090] had were the commutation relations of creation operators,
+- [01:19:15,090 - 01:19:16,930] annihilation operators,
+- [01:19:16,930 - 01:19:18,830] and the number operator.
+- [01:19:19,610 - 01:19:23,950] We had closed commutation relations of a very similar kind,
+- [01:19:23,950 - 01:19:25,390] not exactly the same kind,
+- [01:19:25,390 - 01:19:28,090] but closed commutation relations,
+- [01:19:28,090 - 01:19:30,610] and they were quite powerful.
+- [01:19:32,150 - 01:19:33,350] We deduced the entire spectrum of
+- [01:19:33,350 - 01:19:34,550] the harmonic oscillator by the number operator.
+- [01:19:36,030 - 01:19:38,670] We did it from
+- [01:19:38,670 - 01:19:41,310] constructing creation and annihilation operators.
+- [01:19:41,310 - 01:19:44,210] It was much easier than solving any Schrodinger equation.
+- [01:19:47,070 - 01:19:48,550] We're going to do the same thing here.
+- [01:19:48,550 - 01:19:50,170] We're going to construct
+- [01:19:50,170 - 01:19:51,790] creation and annihilation operators,
+- [01:19:51,790 - 01:19:54,170] but the creation and annihilation operators
+- [01:19:54,170 - 01:19:56,550] are not going to change the energy.
+- [01:19:57,210 - 01:19:59,250] What they're going to change is
+- [01:19:59,250 - 01:20:01,290] the z component of angular momentum.
+- [01:20:01,290 - 01:20:02,370] Now,
+- [01:20:02,370 - 01:20:04,530] why do I pick the z component of angular momentum?
+- [01:20:04,550 - 01:20:05,830] That's arbitrary.
+- [01:20:05,830 - 01:20:07,370] Remember,
+- [01:20:07,370 - 01:20:08,350] in quantum mechanics,
+- [01:20:08,350 - 01:20:10,790] if you want to actually work with things,
+- [01:20:10,790 - 01:20:13,270] you usually have to pick a basis.
+- [01:20:13,330 - 01:20:18,790] You usually have to pick a preferred set of operators,
+- [01:20:18,790 - 01:20:26,950] which you regard as defining a basis.
+- [01:20:27,910 - 01:20:29,370] Often it doesn't matter.
+- [01:20:29,370 - 01:20:32,290] There's the x basis or the x representation.
+- [01:20:32,290 - 01:20:33,650] Not a basis,
+- [01:20:33,650 - 01:20:34,270] a representation.
+- [01:20:34,270 - 01:20:34,530] Okay.
+- [01:20:34,550 - 01:20:37,170] In quantum mechanics of a particle,
+- [01:20:37,170 - 01:20:38,670] there's the position representation,
+- [01:20:38,670 - 01:20:40,390] there's the momentum representation.
+- [01:20:41,070 - 01:20:42,450] In studying spins,
+- [01:20:42,450 - 01:20:44,860] we have the sigma z representation and
+- [01:20:44,860 - 01:20:47,270] the sigma x representation and so forth.
+- [01:20:48,370 - 01:20:51,600] It really doesn't matter for the purposes
+- [01:20:51,600 - 01:20:54,830] of the invariant physics which basis you use,
+- [01:20:54,830 - 01:20:56,680] but it's common to pick one and
+- [01:20:56,680 - 01:20:58,530] work with it and keep with it.
+- [01:20:59,250 - 01:21:00,690] We're going to do the same thing here.
+- [01:21:00,690 - 01:21:02,250] We're going to pick out
+- [01:21:02,250 - 01:21:03,810] the z component of angular momentum.
+- [01:21:04,850 - 01:21:05,510] We're going to pick out the z
+- [01:21:05,510 - 01:21:06,170] component of angular momentum to focus on.
+- [01:21:07,250 - 01:21:09,210] There's nothing special about it.
+- [01:21:09,210 - 01:21:10,300] We could have picked the x
+- [01:21:10,300 - 01:21:11,390] and we could have picked the y,
+- [01:21:11,390 - 01:21:13,750] but it's useful to pick the z component.
+- [01:21:15,250 - 01:21:16,790] No more useful than x and y,
+- [01:21:16,790 - 01:21:17,530] but let's do it.
+- [01:21:18,670 - 01:21:19,070] Okay.
+- [01:21:19,070 - 01:21:22,250] So we're going to work with the
+- [01:21:22,250 - 01:21:25,430] z component of angular momentum and its eigenvectors.
+- [01:21:26,750 - 01:21:28,770] We're going to work with the z
+- [01:21:28,770 - 01:21:30,790] component of angular momentum and its eigenvectors.
+- [01:21:30,790 - 01:21:34,230] And see what we can
+- [01:21:34,230 - 01:21:37,670] find out about the entire spectrum.
+- [01:21:42,650 - 01:21:43,290] Okay.
+- [01:21:48,550 - 01:21:50,390] Lz has eigenvectors.
+- [01:21:50,390 - 01:21:51,690] It's a Hermitian operator.
+- [01:21:52,250 - 01:21:53,590] How many it has,
+- [01:21:53,590 - 01:21:54,250] I don't know.
+- [01:21:54,250 - 01:21:55,850] We'll find out as we go along.
+- [01:21:56,170 - 01:22:00,410] And let's call the eigenvalue of Lz little m.
+- [01:22:00,790 - 01:22:02,690] It's the same eigenvalue or the same
+- [01:22:02,690 - 01:22:04,590] notation that I used in two dimensions.
+- [01:22:05,290 - 01:22:07,500] In two dimensions where there was
+- [01:22:07,500 - 01:22:09,710] only the z component of angular momentum,
+- [01:22:09,710 - 01:22:12,070] I called the eigenvalues m,
+- [01:22:12,070 - 01:22:13,650] and I'll continue to do that.
+- [01:22:15,650 - 01:22:16,250] Again,
+- [01:22:16,250 - 01:22:18,350] it's a historical notation.
+- [01:22:20,630 - 01:22:24,410] It had to do with putting atoms in magnetic fields.
+- [01:22:25,569 - 01:22:27,729] You put an atom in a
+- [01:22:27,729 - 01:22:29,890] magnetic field and you study its spectroscopy.
+- [01:22:31,590 - 01:22:32,870] And arbitrarily,
+- [01:22:32,870 - 01:22:34,650] the z direction was chosen for
+- [01:22:34,650 - 01:22:36,430] the direction of the magnetic field,
+- [01:22:36,670 - 01:22:39,060] and the angular momentum about the z
+- [01:22:39,060 - 01:22:41,450] axis was called the magnetic quantum number.
+- [01:22:41,830 - 01:22:43,850] But for our purposes now,
+- [01:22:43,850 - 01:22:46,210] m is just an eigenvalue of Lz.
+- [01:22:49,390 - 01:22:53,720] This is the equation that says that the eigenvector
+- [01:22:53,720 - 01:22:58,050] m is an eigenvector of Lz with eigenvalue little m.
+- [01:22:58,050 - 01:22:59,750] Sort of redundant notation.
+- [01:22:59,750 - 01:23:01,390] I've used the same notation
+- [01:23:01,390 - 01:23:03,030] for the eigenvector and the eigenvalue.
+- [01:23:03,390 - 01:23:05,670] And here's where mathematicians go crazy,
+- [01:23:05,670 - 01:23:07,160] because they don't like you to
+- [01:23:07,160 - 01:23:08,650] use the same notation for two things.
+- [01:23:15,770 - 01:23:17,250] But we'll do it anyway.
+- [01:23:18,130 - 01:23:18,690] Okay,
+- [01:23:18,690 - 01:23:19,410] so that's the...
+- [01:23:19,410 - 01:23:21,970] and what we want to find out
+- [01:23:21,970 - 01:23:24,530] is what are the possible values of m.
+- [01:23:25,570 - 01:23:26,800] The possible values of m
+- [01:23:26,800 - 01:23:28,030] will be a little bit different.
+- [01:23:28,050 - 01:23:30,400] They're exactly the same as the
+- [01:23:30,400 - 01:23:32,750] possible eigenvalues of Lx and Ly,
+- [01:23:33,210 - 01:23:35,470] because there's nothing special about Lz.
+- [01:23:35,770 - 01:23:36,770] But nevertheless,
+- [01:23:36,770 - 01:23:38,170] let's see what we can find out.
+- [01:23:38,710 - 01:23:39,110] Now,
+- [01:23:39,110 - 01:23:40,470] in the case of the harmonic oscillator,
+- [01:23:40,470 - 01:23:42,940] we figured stuff out by
+- [01:23:42,940 - 01:23:45,410] inventing creation and annihilation operators,
+- [01:23:45,890 - 01:23:48,810] or operators which raised and lowered the energy.
+- [01:23:49,230 - 01:23:51,500] We're now going to invent
+- [01:23:51,500 - 01:23:53,770] operators which raise and lower m.
+- [01:23:54,830 - 01:23:58,190] They raise and lower the magnetic quantum number.
+- [01:23:58,570 - 01:23:59,710] And how do you do it?
+- [01:23:59,710 - 01:24:00,900] You do it in a way
+- [01:24:00,900 - 01:24:02,090] very similar to the harmonic oscillator.
+- [01:24:02,790 - 01:24:03,190] Question.
+- [01:24:03,550 - 01:24:03,770] Yeah.
+- [01:24:04,090 - 01:24:05,450] When you refer to...
+- [01:24:05,450 - 01:24:06,810] we did the harmonic oscillator,
+- [01:24:06,810 - 01:24:08,970] you talked about the classical harmonic oscillator?
+- [01:24:09,150 - 01:24:09,350] We did.
+- [01:24:11,010 - 01:24:11,810] Or the...
+- [01:24:11,810 - 01:24:13,290] The quantum harmonic oscillator.
+- [01:24:13,750 - 01:24:13,950] Okay,
+- [01:24:13,950 - 01:24:14,690] we never did that.
+- [01:24:14,930 - 01:24:16,350] We didn't.
+- [01:24:16,350 - 01:24:17,770] We didn't do that?
+- [01:24:17,810 - 01:24:18,250] Not in the class,
+- [01:24:18,250 - 01:24:18,850] not in the book.
+- [01:24:18,850 - 01:24:19,890] Not in the last class,
+- [01:24:19,890 - 01:24:20,890] but it's in the book.
+- [01:24:21,390 - 01:24:21,790] Oh.
+- [01:24:21,850 - 01:24:23,630] And there is a video that covers it.
+- [01:24:23,630 - 01:24:24,030] Ooh.
+- [01:24:24,210 - 01:24:25,270] Somewhere back in history.
+- [01:24:25,970 - 01:24:26,410] Ooh,
+- [01:24:26,410 - 01:24:26,890] we didn't...
+- [01:24:26,890 - 01:24:28,290] we never did the harmonic oscillator.
+- [01:24:28,930 - 01:24:29,370] Okay.
+- [01:24:29,910 - 01:24:30,790] In that case,
+- [01:24:30,790 - 01:24:32,470] we'll come back to the harmonic oscillator,
+- [01:24:32,610 - 01:24:34,030] and instead of telling you how
+- [01:24:34,030 - 01:24:35,450] much this is like the harmonic oscillator,
+- [01:24:35,790 - 01:24:37,370] I will tell you how much
+- [01:24:37,370 - 01:24:38,950] the harmonic oscillator is like angular momentum.
+- [01:24:39,890 - 01:24:40,330] Good.
+- [01:24:49,049 - 01:24:50,630] This is self-contained.
+- [01:24:50,630 - 01:24:52,510] It doesn't require us to know about...
+- [01:24:52,510 - 01:24:53,590] I thought that was one of your...
+- [01:24:53,630 - 01:24:54,250] I thought that was one
+- [01:24:54,250 - 01:24:54,870] of your main motivations for this...
+- [01:24:54,870 - 01:24:55,810] for this second course,
+- [01:24:55,810 - 01:24:56,030] because
+- [01:24:56,030 - 01:24:56,510] you said,
+- [01:24:56,510 - 01:24:56,930] gee,
+- [01:24:56,930 - 01:24:58,630] we didn't get to cover the harmonic oscillator.
+- [01:24:58,930 - 01:24:59,450] I had forgotten.
+- [01:25:00,370 - 01:25:00,770] Well,
+- [01:25:00,770 - 01:25:01,690] it's in our book,
+- [01:25:01,690 - 01:25:02,270] but...
+- [01:25:03,210 - 01:25:04,030] There is a...
+- [01:25:04,030 - 01:25:05,670] I'll send the link out to the video.
+- [01:25:05,770 - 01:25:05,970] Good.
+- [01:25:06,030 - 01:25:06,530] Thank you.
+- [01:25:06,650 - 01:25:07,550] The book will open.
+- [01:25:08,490 - 01:25:08,910] It's up.
+- [01:25:09,290 - 01:25:09,530] Yeah,
+- [01:25:09,530 - 01:25:09,910] on the email.
+- [01:25:10,030 - 01:25:10,230] Right.
+- [01:25:11,190 - 01:25:12,030] You'll find out.
+- [01:25:13,170 - 01:25:13,570] Okay,
+- [01:25:13,570 - 01:25:15,730] do not worry about the harmonic oscillator now.
+- [01:25:15,790 - 01:25:17,210] It's much more complicated than this.
+- [01:25:18,550 - 01:25:18,950] Okay.
+- [01:25:18,950 - 01:25:19,230] Thank you.
+- [01:25:20,010 - 01:25:20,590] Thank you.
+- [01:25:20,730 - 01:25:21,130] Thank you.
+- [01:25:22,430 - 01:25:23,030] Thank you.
+- [01:25:23,050 - 01:25:23,090] Thank you.
+- [01:25:23,150 - 01:25:23,170] Thank you.
+- [01:25:24,610 - 01:25:25,150] So,
+- [01:25:25,150 - 01:25:25,790] we've picked out,
+- [01:25:25,790 - 01:25:27,250] LZ is a little bit special.
+- [01:25:28,550 - 01:25:29,550] Not physically,
+- [01:25:29,550 - 01:25:31,370] but mathematically for our purposes.
+- [01:25:31,990 - 01:25:32,530] And,
+- [01:25:32,530 - 01:25:37,370] let's invent operators LX plus ILY,
+- [01:25:37,370 - 01:25:42,890] and also LX minus ILY.
+- [01:25:44,090 - 01:25:44,630] And,
+- [01:25:44,630 - 01:25:47,810] call them L plus and L minus.
+- [01:25:49,950 - 01:25:50,490] Now,
+- [01:25:50,490 - 01:25:51,820] what I want to figure out
+- [01:25:51,820 - 01:25:53,150] is the commutation relation of the...
+- [01:25:55,150 - 01:25:59,230] of L plus and L minus with Lz.
+- [01:26:00,190 - 01:26:01,110] For the moment,
+- [01:26:01,110 - 01:26:02,670] I don't really care too much about the
+- [01:26:02,670 - 01:26:04,510] commutator of L plus with L minus.
+- [01:26:04,850 - 01:26:06,390] I'll tell you now it's Lz,
+- [01:26:06,390 - 01:26:10,110] but that's not so important.
+- [01:26:10,490 - 01:26:12,540] What I want is the commutation
+- [01:26:12,540 - 01:26:14,590] relations of L plus with L minus.
+- [01:26:15,310 - 01:26:16,590] So how do we get them?
+- [01:26:16,590 - 01:26:17,490] Well,
+- [01:26:17,490 - 01:26:20,000] we're going to get them from
+- [01:26:20,000 - 01:26:22,510] the last two of these equations.
+- [01:26:23,250 - 01:26:24,310] Let's rewrite them.
+- [01:26:28,530 - 01:26:29,130] Let's see,
+- [01:26:29,130 - 01:26:29,870] how did I write them?
+- [01:26:33,530 - 01:26:35,030] Lx with Lz,
+- [01:26:35,030 - 01:26:40,910] that's this one over here.
+- [01:26:44,130 - 01:26:46,570] I've changed the order of x and z.
+- [01:26:46,590 - 01:26:48,950] So that's minus Ily.
+- [01:26:50,150 - 01:26:51,270] Do I have that right?
+- [01:26:52,450 - 01:26:53,010] Yeah.
+- [01:26:54,550 - 01:26:55,890] That's this one over here.
+- [01:26:59,430 - 01:27:02,090] And since I changed the order of x and z,
+- [01:27:02,090 - 01:27:04,210] that changes the sign.
+- [01:27:04,690 - 01:27:05,810] Then there's the other one,
+- [01:27:05,810 - 01:27:08,170] commutator of Ly with Lz.
+- [01:27:09,510 - 01:27:11,290] And that is,
+- [01:27:11,290 - 01:27:15,670] or Ily with Lz.
+- [01:27:16,590 - 01:27:18,170] We have to do a little bit of work.
+- [01:27:18,950 - 01:27:20,510] Here's Ly with Lz.
+- [01:27:21,510 - 01:27:22,630] Multiply it by I,
+- [01:27:22,630 - 01:27:26,190] and we get minus Lx.
+- [01:27:30,390 - 01:27:32,090] And now we're just going to
+- [01:27:32,090 - 01:27:33,790] add and subtract these two equations.
+- [01:27:34,590 - 01:27:36,250] Adding and subtracting them will
+- [01:27:36,250 - 01:27:37,910] give us the commutation relations
+- [01:27:37,910 - 01:27:41,130] between L plus and L minus on the one hand,
+- [01:27:41,130 - 01:27:42,150] and Lz.
+- [01:27:43,190 - 01:27:44,810] Do you have minus or what now?
+- [01:27:46,590 - 01:27:47,130] Minus Lx,
+- [01:27:47,130 - 01:27:47,510] yeah.
+- [01:27:50,130 - 01:27:50,590] Okay,
+- [01:27:50,590 - 01:27:52,270] we add them and subtract them.
+- [01:27:52,330 - 01:27:52,970] If we add them,
+- [01:27:52,970 - 01:27:56,310] we get L plus commuted with Lz.
+- [01:27:56,350 - 01:27:57,490] And if we subtract them,
+- [01:27:57,490 - 01:27:58,310] we get L minus.
+- [01:27:58,850 - 01:28:01,250] We do the summation on this side also.
+- [01:28:01,410 - 01:28:02,610] And here's what we get.
+- [01:28:02,650 - 01:28:03,570] I'll just write it out.
+- [01:28:03,610 - 01:28:05,290] We don't need to belabor it.
+- [01:28:06,130 - 01:28:10,230] The commutator of L plus
+- [01:28:10,230 - 01:28:14,330] with Lz is minus L plus.
+- [01:28:19,410 - 01:28:24,200] And the commutator of L
+- [01:28:24,200 - 01:28:28,990] minus with Lz is L minus.
+- [01:28:29,250 - 01:28:30,810] Not minus L minus,
+- [01:28:30,810 - 01:28:32,070] but plus L minus.
+- [01:28:32,630 - 01:28:34,030] L minus.
+- [01:28:34,750 - 01:28:37,040] Those are the two basic
+- [01:28:37,040 - 01:28:39,330] commutation relations that follow from these.
+- [01:28:40,630 - 01:28:43,390] Now I understand this is very abstract.
+- [01:28:43,690 - 01:28:45,070] How did anybody know to do this?
+- [01:28:45,490 - 01:28:46,190] Well,
+- [01:28:46,190 - 01:28:46,570] I did.
+- [01:28:49,410 - 01:28:51,030] I'm not even sure who did it.
+- [01:28:51,890 - 01:28:53,150] It's probably Dirac.
+- [01:28:54,350 - 01:28:55,710] Dirac had a weird mind.
+- [01:28:56,210 - 01:29:01,530] He liked to commute.
+- [01:29:12,490 - 01:29:15,170] I can't tell you exactly why he did this,
+- [01:29:15,170 - 01:29:16,970] but once you do it,
+- [01:29:16,970 - 01:29:17,370] you say,
+- [01:29:17,370 - 01:29:17,610] wow,
+- [01:29:17,610 - 01:29:18,070] okay,
+- [01:29:18,070 - 01:29:20,190] that's very clever.
+- [01:29:22,010 - 01:29:23,270] So this is just another
+- [01:29:23,270 - 01:29:24,530] way of writing the Lie algebra.
+- [01:29:24,750 - 01:29:26,540] It's probably true that commutator of
+- [01:29:26,540 - 01:29:28,330] L plus with L minus is Lz.
+- [01:29:29,890 - 01:29:31,550] Or maybe twice Lz.
+- [01:29:31,590 - 01:29:32,690] You can work that out.
+- [01:29:33,030 - 01:29:34,170] But we won't use it.
+- [01:29:34,730 - 01:29:35,210] Okay.
+- [01:29:35,650 - 01:29:37,990] Now what I'm going to prove
+- [01:29:37,990 - 01:29:40,330] is the following very interesting little theorem.
+- [01:29:41,710 - 01:29:44,170] Supposing we have an eigenvector.
+- [01:29:44,170 - 01:29:46,130] The eigenvector of M,
+- [01:29:46,130 - 01:29:47,210] of Lz.
+- [01:29:48,910 - 01:29:49,870] Supposing we have one.
+- [01:29:49,910 - 01:29:50,970] We found one somehow.
+- [01:29:51,930 - 01:29:53,700] Now I'm going to show you how
+- [01:29:53,700 - 01:29:55,470] to find another one with a different eigenvalue.
+- [01:29:56,770 - 01:29:57,250] Okay.
+- [01:29:59,810 - 01:30:02,200] We're going to do it
+- [01:30:02,200 - 01:30:04,590] by applying one of these equations.
+- [01:30:04,790 - 01:30:05,850] Which one are we going to do?
+- [01:30:06,030 - 01:30:06,710] L plus.
+- [01:30:06,870 - 01:30:07,650] Let's do L plus.
+- [01:30:08,310 - 01:30:10,510] We're going to take this equation for L plus
+- [01:30:11,070 - 01:30:14,150] and multiply it by the eigenvector.
+- [01:30:18,309 - 01:30:22,330] L plus L minus.
+- [01:30:23,370 - 01:30:24,190] Sorry,
+- [01:30:24,190 - 01:30:25,190] L plus Lz.
+- [01:30:29,030 - 01:30:31,070] Minus Lz L plus.
+- [01:30:31,130 - 01:30:32,370] That's the commutator.
+- [01:30:33,450 - 01:30:38,290] Acting on the vector M is equal to
+- [01:30:38,290 - 01:30:43,130] minus L plus acting on the vector M.
+- [01:30:43,330 - 01:30:44,150] Okay.
+- [01:30:48,870 - 01:30:50,410] So what do we know?
+- [01:30:52,930 - 01:30:56,350] Let's take this first term here.
+- [01:30:56,390 - 01:30:56,650] Well,
+- [01:30:56,650 - 01:30:56,910] okay.
+- [01:30:56,990 - 01:30:59,150] Let's take this first term here on the left.
+- [01:30:59,630 - 01:31:02,410] What does Lz do when it hits M?
+- [01:31:04,470 - 01:31:05,390] Multiplies by M.
+- [01:31:07,290 - 01:31:10,390] That's because M is an eigenvector of Lz.
+- [01:31:11,210 - 01:31:13,270] So the first term becomes M.
+- [01:31:13,270 - 01:31:16,810] M times L plus M.
+- [01:31:17,270 - 01:31:19,770] I'm going to take L plus and M and
+- [01:31:19,770 - 01:31:22,270] I'm going to put them in a red circle.
+- [01:31:24,670 - 01:31:26,200] Because I want you to
+- [01:31:26,200 - 01:31:27,730] think of it as a unit.
+- [01:31:34,730 - 01:31:35,250] Now,
+- [01:31:35,250 - 01:31:40,150] let's add this over to the left side here.
+- [01:31:41,050 - 01:31:42,150] We're going to take this term
+- [01:31:42,150 - 01:31:43,250] and move it to the right.
+- [01:31:43,270 - 01:31:44,520] And we're going to take this
+- [01:31:44,520 - 01:31:45,770] one and move it to the left.
+- [01:31:46,490 - 01:31:47,890] So let's take this one and
+- [01:31:47,890 - 01:31:49,290] move it over to the left.
+- [01:31:49,370 - 01:31:52,610] That will give us plus L plus M.
+- [01:31:54,110 - 01:31:55,760] That's also exactly the same thing
+- [01:31:55,760 - 01:31:57,410] that appears in the red circle.
+- [01:32:00,070 - 01:32:01,130] So what do we get?
+- [01:32:01,330 - 01:32:04,680] We get M plus 1 times
+- [01:32:04,680 - 01:32:08,030] the object in the red circle.
+- [01:32:09,970 - 01:32:13,190] Let's just draw a red circle there.
+- [01:32:14,790 - 01:32:18,720] That's the left hand side with
+- [01:32:18,720 - 01:32:22,650] this term transposed to the left.
+- [01:32:22,830 - 01:32:25,710] Now let's transpose the other term to the right.
+- [01:32:26,310 - 01:32:34,870] That's equal to Lz times L plus M.
+- [01:32:35,970 - 01:32:37,830] But L plus M is again
+- [01:32:37,830 - 01:32:39,690] exactly the thing in the red circle.
+- [01:32:41,630 - 01:32:43,250] The thing in the red circle is the same thing.
+- [01:32:43,250 - 01:32:44,110] There's a certain ket vector.
+- [01:32:46,250 - 01:32:47,570] So what does this say?
+- [01:32:48,170 - 01:32:53,670] This says that there's another eigenvector of Lz.
+- [01:32:53,850 - 01:32:56,530] This equation is an eigenvector equation for Lz.
+- [01:32:57,029 - 01:33:00,239] Lz acting on the red eigenvector gives
+- [01:33:00,239 - 01:33:03,450] us M plus 1 times the red eigenvector.
+- [01:33:03,930 - 01:33:05,050] What does this mean?
+- [01:33:05,290 - 01:33:08,700] It means we've discovered another eigenvector
+- [01:33:08,700 - 01:33:12,110] of Lz with eigenvalue M plus 1.
+- [01:33:13,470 - 01:33:16,210] We can call the thing in the red bracket here,
+- [01:33:16,350 - 01:33:19,390] we can just call it the eigenvector M plus 1.
+- [01:33:21,030 - 01:33:26,610] We found a trick for taking any eigenvector of Lz
+- [01:33:27,180 - 01:33:28,730] and promoting it,
+- [01:33:28,730 - 01:33:30,470] lifting it up one unit,
+- [01:33:30,670 - 01:33:33,430] and increasing the eigenvalue by one unit.
+- [01:33:35,530 - 01:33:37,140] What about if we did
+- [01:33:37,140 - 01:33:38,750] the same thing with L minus?
+- [01:33:41,810 - 01:33:44,570] If we did the same thing with L minus,
+- [01:33:44,830 - 01:33:47,540] we would again discover another
+- [01:33:47,540 - 01:33:50,250] eigenvector with one lower unit.
+- [01:33:54,770 - 01:33:58,190] So we've used a simple algebra of commutators
+- [01:33:58,750 - 01:34:00,670] to generate a spectrum,
+- [01:34:00,670 - 01:34:02,630] a spectrum of values of Lz.
+- [01:34:04,370 - 01:34:05,910] And what's more,
+- [01:34:05,910 - 01:34:08,030] they're separated by,
+- [01:34:08,750 - 01:34:09,230] an integer,
+- [01:34:09,230 - 01:34:10,990] they're separated by integers.
+- [01:34:11,650 - 01:34:13,450] So we've discovered the following fact,
+- [01:34:13,710 - 01:34:16,010] that if we plot on the vertical axis here,
+- [01:34:16,250 - 01:34:18,230] the possible values,
+- [01:34:18,230 - 01:34:19,950] the values of M,
+- [01:34:22,250 - 01:34:23,330] or Lz,
+- [01:34:23,330 - 01:34:24,070] Lz,
+- [01:34:24,070 - 01:34:25,690] the possible values of Lz,
+- [01:34:25,850 - 01:34:29,210] if we find one at some value of M,
+- [01:34:29,450 - 01:34:29,650] oh,
+- [01:34:29,650 - 01:34:30,650] let's first of all,
+- [01:34:30,650 - 01:34:32,270] let's,
+- [01:34:32,270 - 01:34:32,470] um,
+- [01:34:34,310 - 01:34:35,130] let's put some,
+- [01:34:35,130 - 01:34:36,590] let's lay some integers down.
+- [01:34:39,269 - 01:34:39,629] 0,
+- [01:34:39,629 - 01:34:39,990] 1,
+- [01:34:39,990 - 01:34:41,630] 2,
+- [01:34:41,630 - 01:34:42,370] 3,
+- [01:34:42,370 - 01:34:43,530] 0,
+- [01:34:43,530 - 01:34:44,430] minus 1,
+- [01:34:44,430 - 01:34:45,170] minus 2,
+- [01:34:45,170 - 01:34:45,930] minus 3.
+- [01:34:48,970 - 01:34:51,290] Let's suppose we found an eigenvector,
+- [01:34:51,290 - 01:34:52,570] or an eigenvalue of M.
+- [01:34:53,070 - 01:34:55,130] Nothing yet has told us it must be an integer.
+- [01:34:55,810 - 01:34:56,890] So it could be anywhere.
+- [01:34:56,890 - 01:34:57,830] It could be over here.
+- [01:34:58,470 - 01:34:59,790] It could be at 3 quarters,
+- [01:34:59,790 - 01:35:01,230] or it could be at 7 eighths,
+- [01:35:01,230 - 01:35:02,430] or it could be pi quarters,
+- [01:35:02,430 - 01:35:03,570] or it could be a half.
+- [01:35:04,250 - 01:35:05,350] It could be anywheres.
+- [01:35:06,710 - 01:35:07,370] Not over here.
+- [01:35:07,370 - 01:35:08,030] Let's put it over here.
+- [01:35:10,589 - 01:35:10,950] Then...
+- [01:35:11,970 - 01:35:12,890] Just one question.
+- [01:35:13,070 - 01:35:13,330] Look,
+- [01:35:13,330 - 01:35:13,910] it was,
+- [01:35:13,910 - 01:35:15,270] the way it was defined,
+- [01:35:15,270 - 01:35:16,270] it had to be an integer.
+- [01:35:16,490 - 01:35:17,290] Going all the way back.
+- [01:35:17,790 - 01:35:18,430] In fact,
+- [01:35:18,430 - 01:35:19,770] we're going to find it has to be...
+- [01:35:20,770 - 01:35:21,130] Yeah.
+- [01:35:23,830 - 01:35:24,470] You're right.
+- [01:35:25,390 - 01:35:25,970] You're right.
+- [01:35:25,970 - 01:35:26,670] Except,
+- [01:35:26,670 - 01:35:27,290] not quite.
+- [01:35:27,770 - 01:35:28,690] What I mean is,
+- [01:35:28,690 - 01:35:29,590] I thought you already said that.
+- [01:35:30,270 - 01:35:30,630] Yeah.
+- [01:35:31,690 - 01:35:33,910] We could go back to what I said earlier,
+- [01:35:34,549 - 01:35:35,590] and use that.
+- [01:35:36,030 - 01:35:37,290] I don't want to,
+- [01:35:37,290 - 01:35:38,390] I don't want to,
+- [01:35:38,390 - 01:35:38,670] because,
+- [01:35:38,750 - 01:35:40,850] I want to show you another argument for it.
+- [01:35:40,950 - 01:35:41,390] Now,
+- [01:35:41,390 - 01:35:43,910] the other argument will not prove it's an integer.
+- [01:35:44,070 - 01:35:46,510] It'll prove something a little bit looser.
+- [01:35:46,750 - 01:35:49,210] And the looser fact is,
+- [01:35:49,210 - 01:35:49,650] in fact,
+- [01:35:49,650 - 01:35:50,390] the correct fact.
+- [01:35:50,990 - 01:35:51,870] But we'll see.
+- [01:35:52,630 - 01:35:53,110] Alright,
+- [01:35:53,110 - 01:35:54,790] so the first thing is,
+- [01:35:54,950 - 01:35:56,200] we know that there's got
+- [01:35:56,200 - 01:35:57,450] to be another one above it.
+- [01:35:57,990 - 01:35:59,250] One unit above it.
+- [01:35:59,850 - 01:36:00,770] And another one,
+- [01:36:00,770 - 01:36:01,690] one unit below it.
+- [01:36:03,470 - 01:36:03,950] Now,
+- [01:36:03,950 - 01:36:05,950] there's one exception to this statement,
+- [01:36:05,970 - 01:36:08,150] that when we apply L plus,
+- [01:36:09,050 - 01:36:10,970] we will necessarily get a
+- [01:36:10,970 - 01:36:12,890] new eigenvector with one unit up.
+- [01:36:12,930 - 01:36:14,270] What's the other alternative possibility?
+- [01:36:15,470 - 01:36:15,970] Zero.
+- [01:36:16,470 - 01:36:17,470] That you get zero.
+- [01:36:18,410 - 01:36:20,290] That you get just plain zero.
+- [01:36:20,390 - 01:36:21,370] No vector at all.
+- [01:36:21,650 - 01:36:23,390] So this could terminate.
+- [01:36:23,750 - 01:36:24,250] Conceivably,
+- [01:36:24,250 - 01:36:25,190] it could terminate.
+- [01:36:26,650 - 01:36:28,230] I wish I had a green pen.
+- [01:36:28,230 - 01:36:28,650] I don't.
+- [01:36:29,550 - 01:36:31,330] It could terminate somewheres.
+- [01:36:31,490 - 01:36:32,770] Let's say it terminates here.
+- [01:36:34,750 - 01:36:35,250] And,
+- [01:36:35,250 - 01:36:36,610] by the same logic,
+- [01:36:36,890 - 01:36:38,730] it could terminate from below.
+- [01:36:38,750 - 01:36:43,070] If L minus killed the vector.
+- [01:36:44,850 - 01:36:45,490] So,
+- [01:36:45,490 - 01:36:47,810] we will generate a family
+- [01:36:49,390 - 01:36:53,330] which may or may not also terminate somewheres.
+- [01:36:57,670 - 01:36:58,310] Now,
+- [01:36:58,310 - 01:36:59,750] the first thing which is true,
+- [01:37:00,390 - 01:37:02,810] is if it terminates,
+- [01:37:02,810 - 01:37:05,310] then there's a relationship about where
+- [01:37:05,310 - 01:37:07,810] it terminates from above and below.
+- [01:37:08,750 - 01:37:10,170] And the reason is very simple.
+- [01:37:11,569 - 01:37:14,890] M is the eigenvalue of Lz.
+- [01:37:15,470 - 01:37:18,110] Remember we have rotation invariance.
+- [01:37:18,630 - 01:37:21,150] Supposing I use my rotation invariance
+- [01:37:21,150 - 01:37:23,910] to completely rotate by 180 degrees.
+- [01:37:25,290 - 01:37:27,730] If I rotate by 180 degrees,
+- [01:37:28,150 - 01:37:31,290] then Lz becomes minus Lz.
+- [01:37:33,270 - 01:37:35,610] If there's really rotational symmetry,
+- [01:37:35,930 - 01:37:37,590] then it must mean the spectrum,
+- [01:37:37,590 - 01:37:41,250] the possible eigenvalues of Lz must be the same
+- [01:37:41,250 - 01:37:44,370] as the eigenvalues of minus Lz.
+- [01:37:44,670 - 01:37:46,470] It's just looking at the same system,
+- [01:37:46,530 - 01:37:48,010] except standing on your head.
+- [01:37:48,350 - 01:37:50,350] And if there's rotation invariance,
+- [01:37:50,410 - 01:37:52,330] you should get exactly the same spectrum.
+- [01:37:52,850 - 01:37:53,450] So,
+- [01:37:53,450 - 01:37:53,970] from that,
+- [01:37:54,170 - 01:37:57,130] you can conclude that this red dot
+- [01:37:57,130 - 01:37:59,910] and this red dot have to be symmetrically placed.
+- [01:38:01,670 - 01:38:03,290] There's only two possibilities.
+- [01:38:04,890 - 01:38:07,370] If the red dots are symmetrically placed,
+- [01:38:07,370 - 01:38:10,950] and these are separated by integers,
+- [01:38:11,250 - 01:38:12,730] then there's only two possibilities.
+- [01:38:13,410 - 01:38:16,250] The first possibility is that the red dot
+- [01:38:16,250 - 01:38:18,050] is at an integer.
+- [01:38:21,450 - 01:38:22,550] Let's call this,
+- [01:38:22,550 - 01:38:23,710] this is the integer M.
+- [01:38:24,790 - 01:38:26,070] And 0,
+- [01:38:26,070 - 01:38:27,490] 1,
+- [01:38:27,490 - 01:38:27,930] 2,
+- [01:38:27,930 - 01:38:28,330] 3,
+- [01:38:28,330 - 01:38:29,190] 1,
+- [01:38:29,190 - 01:38:29,690] 2,
+- [01:38:29,690 - 01:38:30,070] 3,
+- [01:38:30,070 - 01:38:31,930] down here.
+- [01:38:33,810 - 01:38:37,070] Symmetrically placed about the origin,
+- [01:38:37,370 - 01:38:39,670] and separated by integers.
+- [01:38:40,010 - 01:38:42,770] That would be one possible spectrum.
+- [01:38:50,330 - 01:38:51,810] If it terminates.
+- [01:38:52,390 - 01:38:53,990] There's another possibility,
+- [01:38:54,330 - 01:38:57,610] and the other possibility that still is consistent
+- [01:38:57,610 - 01:38:59,050] with a symmetric spectrum
+- [01:38:59,050 - 01:39:01,470] and separation by integers,
+- [01:39:02,049 - 01:39:03,730] and that's the half integer option.
+- [01:39:10,150 - 01:39:11,490] The half integer option is 0 again.
+- [01:39:13,190 - 01:39:13,750] 1,
+- [01:39:13,750 - 01:39:14,350] 2,
+- [01:39:14,350 - 01:39:14,870] whatever.
+- [01:39:16,890 - 01:39:17,450] Whatever.
+- [01:39:18,810 - 01:39:19,750] Start here.
+- [01:39:21,110 - 01:39:22,430] Shift by an integer.
+- [01:39:22,870 - 01:39:24,030] Shift by an integer.
+- [01:39:24,370 - 01:39:25,550] Shift by an integer.
+- [01:39:26,450 - 01:39:27,210] Let's see,
+- [01:39:27,210 - 01:39:27,870] here's 0.
+- [01:39:31,190 - 01:39:34,010] And it's also symmetrically placed about the origin.
+- [01:39:35,530 - 01:39:37,590] In this spectrum over here,
+- [01:39:37,750 - 01:39:39,130] if it's physically reasonable,
+- [01:39:40,230 - 01:39:42,950] the values of the angular momentum,
+- [01:39:43,150 - 01:39:44,950] the z component of the angular momentum,
+- [01:39:44,950 - 01:39:45,930] are half integers.
+- [01:39:46,610 - 01:39:47,730] Half integer,
+- [01:39:47,730 - 01:39:48,510] 3 halves,
+- [01:39:48,510 - 01:39:49,430] 5 halves,
+- [01:39:49,690 - 01:39:51,750] minus a half,
+- [01:39:51,750 - 01:39:52,910] minus 3 halves,
+- [01:39:52,910 - 01:39:53,850] minus 5 halves,
+- [01:39:53,970 - 01:39:55,270] ending somewheres.
+- [01:39:56,430 - 01:39:59,430] Or the other possibility is integer spectrum.
+- [01:40:00,410 - 01:40:01,129] Now,
+- [01:40:01,129 - 01:40:02,410] you mentioned before
+- [01:40:02,410 - 01:40:03,990] that I've already spoken about
+- [01:40:04,010 - 01:40:06,749] how we sort of proved that the spectrum is integer,
+- [01:40:07,030 - 01:40:07,730] and I did.
+- [01:40:08,690 - 01:40:09,610] Somebody mentioned.
+- [01:40:10,730 - 01:40:11,950] And that's correct.
+- [01:40:12,150 - 01:40:15,230] That is correct for orbital angular momentum.
+- [01:40:15,490 - 01:40:17,669] Orbital angular momentum means r cross p.
+- [01:40:17,890 - 01:40:19,570] It means wave functions of particles
+- [01:40:19,570 - 01:40:20,730] that depend on position.
+- [01:40:21,230 - 01:40:22,430] And how do we prove that?
+- [01:40:22,470 - 01:40:23,270] Remember how we proved it?
+- [01:40:24,710 - 01:40:25,190] Oh,
+- [01:40:25,190 - 01:40:26,970] we proved it by saying the wave function
+- [01:40:26,970 - 01:40:28,730] has to be single-valued when you go around,
+- [01:40:30,110 - 01:40:31,470] when you go all the ways around.
+- [01:40:32,250 - 01:40:32,730] Okay.
+- [01:40:32,730 - 01:40:33,209] So,
+- [01:40:33,209 - 01:40:36,790] on the face of it,
+- [01:40:36,850 - 01:40:40,390] it would seem that this is the only physical possibility.
+- [01:40:41,430 - 01:40:42,330] In fact,
+- [01:40:42,330 - 01:40:45,950] this possibility here is also real,
+- [01:40:46,129 - 01:40:48,589] and it corresponds to spin angular momentum.
+- [01:40:49,270 - 01:40:50,450] But for the time being,
+- [01:40:50,450 - 01:40:51,450] let's just get rid of it.
+- [01:40:52,290 - 01:40:53,350] We'll come back to it.
+- [01:40:54,790 - 01:40:55,410] All right,
+- [01:40:55,410 - 01:40:56,010] there's a maximum.
+- [01:41:01,450 - 01:41:02,709] Given a state of the mass,
+- [01:41:02,730 - 01:41:03,270] a state like this,
+- [01:41:03,390 - 01:41:05,129] we can generate a few more.
+- [01:41:05,890 - 01:41:07,510] It may or may not terminate,
+- [01:41:07,530 - 01:41:08,910] but let's assume it terminates.
+- [01:41:10,690 - 01:41:13,209] We found a multiplet of states.
+- [01:41:13,430 - 01:41:14,890] A multiplet of states
+- [01:41:16,530 - 01:41:19,209] which are in some way related to each other
+- [01:41:23,670 - 01:41:26,190] and which have to have the same energy.
+- [01:41:26,450 - 01:41:28,209] Why do they have to have the same energy?
+- [01:41:31,930 - 01:41:33,549] Let's prove they have the same energy.
+- [01:41:34,470 - 01:41:35,410] And then we'll quit.
+- [01:41:35,490 - 01:41:36,390] That'll be enough for tonight.
+- [01:41:36,770 - 01:41:38,010] Let's prove one more thing.
+- [01:41:38,110 - 01:41:39,630] They have to have the same energy.
+- [01:41:51,890 - 01:41:54,230] Let's suppose that we found a state M,
+- [01:41:54,750 - 01:41:57,350] and it has an energy equal to E.
+- [01:41:57,750 - 01:41:58,190] So,
+- [01:41:58,190 - 01:41:58,190] let's say that we found a state M,
+- [01:41:58,190 - 01:41:58,910] times M.
+- [01:41:59,450 - 01:42:01,310] It's an eigenvector of the energy.
+- [01:42:01,970 - 01:42:04,670] It has L sub Z equal to M,
+- [01:42:04,830 - 01:42:06,430] and it has energy E.
+- [01:42:07,630 - 01:42:08,190] Now,
+- [01:42:08,190 - 01:42:09,590] let's go to M plus 1.
+- [01:42:10,190 - 01:42:11,310] M plus 1
+- [01:42:12,590 - 01:42:16,110] is L plus times M.
+- [01:42:18,250 - 01:42:19,490] That's M plus 1.
+- [01:42:20,750 - 01:42:23,190] And let's ask what its energy is.
+- [01:42:23,530 - 01:42:24,670] So what do we do?
+- [01:42:24,730 - 01:42:27,070] We apply the Hamiltonian to it.
+- [01:42:27,070 - 01:42:28,910] And see what we get.
+- [01:42:30,530 - 01:42:31,210] Okay.
+- [01:42:31,670 - 01:42:32,350] But,
+- [01:42:32,350 - 01:42:35,050] the Hamiltonian commutes,
+- [01:42:35,050 - 01:42:37,550] it's assumed that the Hamiltonian commutes
+- [01:42:37,550 - 01:42:39,790] with all the components of the angular momentum.
+- [01:42:41,310 - 01:42:43,240] So that means we can write
+- [01:42:43,240 - 01:42:45,170] that this is the same as
+- [01:42:45,869 - 01:42:49,850] L plus H times M.
+- [01:42:51,570 - 01:42:55,430] But H times M is just E times M.
+- [01:42:55,550 - 01:42:55,870] Okay.
+- [01:42:58,430 - 01:43:00,050] What does this equation say?
+- [01:43:00,370 - 01:43:03,690] It says H on M plus 1,
+- [01:43:03,950 - 01:43:05,670] that's L plus on M,
+- [01:43:05,810 - 01:43:10,090] is equal to E times M plus 1.
+- [01:43:11,770 - 01:43:14,430] We can do the same thing with M minus 1.
+- [01:43:15,910 - 01:43:19,770] That tells us that if we find an eigenvector
+- [01:43:19,770 - 01:43:23,510] of the Z component of angular momentum,
+- [01:43:24,850 - 01:43:27,050] which happens also to be an eigenvector,
+- [01:43:27,070 - 01:43:27,750] an eigenvector of energy,
+- [01:43:28,310 - 01:43:30,230] then by raising and lowering,
+- [01:43:30,390 - 01:43:31,830] until we run out of possibilities,
+- [01:43:32,550 - 01:43:33,870] until we run out of,
+- [01:43:33,990 - 01:43:35,610] until we hit the endpoints,
+- [01:43:36,310 - 01:43:39,250] we create states of exactly the same energy.
+- [01:43:41,130 - 01:43:45,370] This is the idea of degeneracy following from symmetry
+- [01:43:46,030 - 01:43:48,090] when symmetries don't commute with each other.
+- [01:43:49,450 - 01:43:51,150] This is what we talked about in the beginning.
+- [01:43:51,330 - 01:43:53,350] When symmetries don't commute with each other,
+- [01:43:53,829 - 01:43:55,410] the L's in this case,
+- [01:43:56,010 - 01:43:59,070] it tells us that there are degeneracies.
+- [01:43:59,490 - 01:44:02,870] And the degeneracies are states of equal energy.
+- [01:44:03,290 - 01:44:04,570] And in this case,
+- [01:44:04,570 - 01:44:07,090] the states of equal energy are just found
+- [01:44:08,289 - 01:44:11,390] by going up and down this ladder in this way.
+- [01:44:13,510 - 01:44:17,370] But these just states go to the different axes?
+- [01:44:17,650 - 01:44:19,670] Like the Z axis is equivalent to the Y axis?
+- [01:44:19,790 - 01:44:19,970] Yeah.
+- [01:44:20,870 - 01:44:21,430] Yeah,
+- [01:44:21,430 - 01:44:23,990] they're very closely related
+- [01:44:23,990 - 01:44:25,390] to the idea of tangent.
+- [01:44:25,410 - 01:44:25,550] I mean,
+- [01:44:25,550 - 01:44:25,550] they're very closely related to the idea of tangent.
+- [01:44:25,550 - 01:44:27,090] and then we're taking these states and rotating it.
+- [01:44:28,010 - 01:44:28,490] Yes.
+- [01:44:28,770 - 01:44:30,650] For example,
+- [01:44:30,650 - 01:44:31,510] you could ask the question,
+- [01:44:31,990 - 01:44:34,410] what are the eigenvectors of L sub X?
+- [01:44:35,390 - 01:44:37,110] The eigenvectors of L sub X
+- [01:44:37,110 - 01:44:38,930] are not individual ones of these,
+- [01:44:38,990 - 01:44:40,770] but linear combinations of them.
+- [01:44:40,770 - 01:44:41,690] Right.
+- [01:44:41,690 - 01:44:46,570] Linear combinations of these are eigenvectors of Lx and Ly,
+- [01:44:46,570 - 01:44:50,130] and so in that
+- [01:44:50,130 - 01:44:53,650] sense what we're finding here
+- [01:44:53,650 - 01:44:57,170] is essentially the eigenvectors rotated,
+- [01:44:57,170 - 01:44:57,810] the
+- [01:44:57,810 - 01:44:59,190] rotated versions of the...
+- [01:44:59,190 - 01:44:59,690] yeah.
+- [01:44:59,690 - 01:45:02,730] And that's kind of obvious because when you
+- [01:45:02,730 - 01:45:03,610] apply an L,
+- [01:45:03,610 - 01:45:05,890] you're generating a rotation.
+- [01:45:05,890 - 01:45:07,390] Yeah.
+- [01:45:07,390 - 01:45:10,290] So this is the quantum analog
+- [01:45:10,290 - 01:45:13,820] of saying that if you take an
+- [01:45:13,820 - 01:45:17,350] orbit and rotate it about an axis,
+- [01:45:17,350 - 01:45:18,750] you'll find a
+- [01:45:18,750 - 01:45:20,530] new orbit with a different angular momentum,
+- [01:45:20,530 - 01:45:22,130] but with the same energy.
+- [01:45:22,770 - 01:45:23,750] Different angle...
+- [01:45:23,750 - 01:45:27,290] different z component of the angular momentum.
+- [01:45:27,290 - 01:45:28,490] It's exactly
+- [01:45:28,490 - 01:45:29,350] what's going on here.
+- [01:45:29,350 - 01:45:33,530] Rotating the configuration is creating states of
+- [01:45:33,530 - 01:45:36,430] different z component...
+- [01:45:36,430 - 01:45:39,310] different z component of the angular momentum,
+- [01:45:39,310 - 01:45:40,030] but
+- [01:45:40,030 - 01:45:40,270] with a different angular momentum.
+- [01:45:40,270 - 01:45:40,270] So we're going to be able
+- [01:45:40,270 - 01:45:40,270] to do the same thing here.
+- [01:45:40,270 - 01:45:40,570] Rotating the configuration is creating states of
+- [01:45:40,570 - 01:45:41,410] exactly the same energy.
+- [01:45:41,410 - 01:45:42,870] That's what's happening.
+- [01:45:42,870 - 01:45:44,330] Yeah.
+- [01:45:44,330 - 01:45:46,550] By applying the other
+- [01:45:46,550 - 01:45:48,070] rotation operators...
+- [01:45:48,070 - 01:45:52,230] now it's convenient to use this particular combinations L
+- [01:45:52,230 - 01:45:55,990] plus and L minus just because Dirac
+- [01:45:55,990 - 01:45:59,750] figured out how to do it this way.
+- [01:45:59,750 - 01:46:02,210] This
+- [01:46:02,210 - 01:46:09,270] is the the trick of using raising and lowering operators,
+- [01:46:09,270 - 01:46:10,250] and this occurs all
+- [01:46:10,250 - 01:46:11,910] the time in quantum mechanics.
+- [01:46:11,910 - 01:46:15,390] Whenever you find an algebra like this which
+- [01:46:15,390 - 01:46:17,150] closes on the commutation,
+- [01:46:17,150 - 01:46:22,870] that's a signal that you should be looking for
+- [01:46:22,870 - 01:46:26,470] creation or raising and lowering operators
+- [01:46:26,470 - 01:46:30,070] and using the algebra to sort
+- [01:46:30,070 - 01:46:31,470] out the spectrum of the system,
+- [01:46:31,470 - 01:46:32,670] the spectrum of eigenvalues.
+- [01:46:33,190 - 01:46:36,910] Can you apply the operator L plus to the maximum?
+- [01:46:38,090 - 01:46:39,510] That'll give zero.
+- [01:46:40,250 - 01:46:40,690] By definition.
+- [01:46:40,690 - 01:46:42,790] That's the definition of the top level.
+- [01:46:42,790 - 01:46:44,790] There may not be a top.
+- [01:46:44,790 - 01:46:45,530] You may just go up and
+- [01:46:45,530 - 01:46:46,270] up and up and up and up.
+- [01:46:46,650 - 01:46:47,530] What's the definition,
+- [01:46:47,530 - 01:46:48,030] please?
+- [01:46:48,330 - 01:46:49,050] I had a question.
+- [01:46:49,050 - 01:46:51,030] How do you define you reach the top?
+- [01:46:51,030 - 01:46:51,650] What happens?
+- [01:46:52,270 - 01:46:53,710] L plus gives zero.
+- [01:46:56,830 - 01:46:58,810] And you're minus zero at the bottom.
+- [01:46:59,010 - 01:46:59,210] Right.
+- [01:46:59,210 - 01:47:02,770] Now this can all be made concrete by
+- [01:47:02,770 - 01:47:06,330] specific wave functions that will show that this happens.
+- [01:47:06,330 - 01:47:08,230] I didn't want to write
+- [01:47:08,230 - 01:47:10,130] down complicated angular wave functions.
+- [01:47:11,149 - 01:47:13,910] One possibility is you never run out of anything.
+- [01:47:13,910 - 01:47:16,030] That would correspond to
+- [01:47:16,030 - 01:47:18,150] basically infinite angular momentum states.
+- [01:47:18,210 - 01:47:19,330] States of infinite angular,
+- [01:47:19,330 - 01:47:21,750] infinite capacity,
+- [01:47:21,750 - 01:47:24,260] but typically real angular momentum states
+- [01:47:24,260 - 01:47:26,770] of atoms and so forth in somewheres.
+- [01:47:30,770 - 01:47:33,310] We'll work out more about angular momentum,
+- [01:47:33,310 - 01:47:34,030] a little more,
+- [01:47:34,030 - 01:47:36,690] and then we'll apply it to atoms
+- [01:47:36,690 - 01:47:39,350] and understand a little bit about atomic spectrum.
+- [01:47:40,110 - 01:47:43,770] A little bit about the spectrum of the hydrogen atom.
+- [01:47:46,290 - 01:47:48,870] But this is where the degeneracies,
+- [01:47:48,870 - 01:47:50,350] or some of the degeneracies,
+- [01:47:50,350 - 01:47:52,400] well it's where all of the exact
+- [01:47:52,400 - 01:47:54,450] degeneracies of the hydrogen atom come from.
+- [01:47:55,330 - 01:47:58,250] All of the equality of a...
+- [01:48:00,869 - 01:48:04,450] And these states are the orbital,
+- [01:48:04,450 - 01:48:08,130] or the various orbital quantum numbers of...
+- [01:48:11,210 - 01:48:12,670] Of the hydrogen atom.
+- [01:48:13,770 - 01:48:14,610] There's more,
+- [01:48:14,610 - 01:48:15,230] there's more,
+- [01:48:15,230 - 01:48:15,730] but...
+- [01:48:17,670 - 01:48:18,290] Okay.
+- [01:48:21,770 - 01:48:22,670] For more,
+- [01:48:22,670 - 01:48:25,090] please visit us at stanford.edu.
