@@ -1,0 +1,2415 @@
+# Transcript
+
+Source: core/statistical_mechanics/2013_spring_theoretical_minimum/182 - Statistical Mechanics Lecture 8 [3hh0lJZbUfo].mkv
+
+- [00:00:05,219 - 00:00:06,180] Stanford University.
+- [00:00:09,520 - 00:00:10,140] All right,
+- [00:00:10,140 - 00:00:11,780] let's come back to the second law for a minute,
+- [00:00:11,780 - 00:00:12,400] a little bit.
+- [00:00:13,499 - 00:00:17,560] And talk about Poincare recurrences.
+- [00:00:19,139 - 00:00:20,540] Poincare recurrences are,
+- [00:00:20,540 - 00:00:24,260] I am not sure whether Poincare was
+- [00:00:24,260 - 00:00:26,220] really the first one to think about it.
+- [00:00:26,220 - 00:00:28,620] I have a feeling that
+- [00:00:28,620 - 00:00:31,020] Boltzmann again probably understood this.
+- [00:00:31,560 - 00:00:32,560] Was Boltzmann,
+- [00:00:32,560 - 00:00:33,940] Boltzmann was before Poincare?
+- [00:00:34,180 - 00:00:34,960] I think so.
+- [00:00:36,240 - 00:00:37,280] I think so.
+- [00:00:39,440 - 00:00:40,800] So here's a question,
+- [00:00:40,800 - 00:00:42,180] here's a question you might ask.
+- [00:00:44,980 - 00:00:48,230] Let's suppose you start out with the air in
+- [00:00:48,230 - 00:00:51,480] this room all on one side of the room.
+- [00:00:51,620 - 00:00:53,300] This is not an impossible thing to do.
+- [00:00:53,400 - 00:00:54,960] You put a wall in.
+- [00:00:55,520 - 00:00:56,200] You have
+- [00:00:56,220 - 00:00:57,260] to evacuate the air out
+- [00:00:57,260 - 00:00:58,300] of one side of the room,
+- [00:00:58,300 - 00:01:00,040] stick it into the other side of the room,
+- [00:01:00,100 - 00:01:02,279] and start with an initial condition with all
+- [00:01:02,279 - 00:01:04,459] the air on the left side of the room.
+- [00:01:06,020 - 00:01:07,120] And now you let it go.
+- [00:01:07,900 - 00:01:08,300] Okay,
+- [00:01:08,300 - 00:01:08,960] what happens?
+- [00:01:09,120 - 00:01:10,400] Comes to thermal equilibrium,
+- [00:01:10,400 - 00:01:12,600] fills the room pretty much uniformly.
+- [00:01:14,159 - 00:01:14,960] Entropy increases.
+- [00:01:16,500 - 00:01:17,940] But what if you sit there and you wait
+- [00:01:17,940 - 00:01:19,380] and you wait and you wait and you wait?
+- [00:01:21,260 - 00:01:22,300] Sooner or later,
+- [00:01:22,300 - 00:01:24,420] sooner or later,
+- [00:01:24,520 - 00:01:26,200] the unlikely will happen.
+- [00:01:26,200 - 00:01:31,450] The unlikely event will happen where by accident
+- [00:01:31,450 - 00:01:36,700] or by just waiting long enough in time,
+- [00:01:38,060 - 00:01:40,090] all of the air will reappear
+- [00:01:40,090 - 00:01:42,120] in the left side of the room.
+- [00:01:42,520 - 00:01:44,980] Or in the top half of the room or whatever.
+- [00:01:45,160 - 00:01:46,520] But let's say the left half of the room.
+- [00:01:47,120 - 00:01:48,900] That's called a Poincare recurrence.
+- [00:01:49,740 - 00:01:50,560] And it's,
+- [00:01:50,560 - 00:01:52,100] it's really no different than saying
+- [00:01:52,100 - 00:01:53,640] that if I flip a coin,
+- [00:01:53,700 - 00:01:54,340] a null,
+- [00:01:54,340 - 00:01:54,690] a null,
+- [00:01:56,200 - 00:01:58,440] times I will get a million heads in a row.
+- [00:01:58,440 - 00:01:59,620] Very unlikely,
+- [00:01:59,620 - 00:02:00,840] but if I do it enough
+- [00:02:00,840 - 00:02:03,720] some fluctuation will happen.
+- [00:02:03,720 - 00:02:04,480] Okay,
+- [00:02:04,480 - 00:02:05,280] so the question is,
+- [00:02:05,280 - 00:02:06,240] roughly speaking,
+- [00:02:06,240 - 00:02:07,360] how long do
+- [00:02:07,360 - 00:02:10,039] you have to wait for the air to
+- [00:02:10,039 - 00:02:12,720] all appear in one side of the room?
+- [00:02:12,720 - 00:02:13,800] Is it a
+- [00:02:13,800 - 00:02:14,320] year?
+- [00:02:14,320 - 00:02:15,400] Is it ten years?
+- [00:02:15,400 - 00:02:16,540] Is it a hundred years?
+- [00:02:16,540 - 00:02:18,000] Is it the age of the universe?
+- [00:02:18,000 - 00:02:18,980] So
+- [00:02:18,980 - 00:02:20,460] let's see if we can get a handle on that.
+- [00:02:20,460 - 00:02:25,660] You start out with the idea of phase
+- [00:02:25,660 - 00:02:29,660] space and phase space is the space
+- [00:02:29,660 - 00:02:33,660] of the coordinates of the molecules and the
+- [00:02:33,660 - 00:02:36,530] momentum of the molecules and of
+- [00:02:36,530 - 00:02:39,400] course it's very high dimensional six n
+- [00:02:39,400 - 00:02:39,980] dimensional.
+- [00:02:39,980 - 00:02:45,700] Six n because each particle has three coordinates,
+- [00:02:45,700 - 00:02:46,160] each
+- [00:02:46,160 - 00:02:48,120] particle has three momentum components,
+- [00:02:48,120 - 00:02:50,960] and if there are n particles there are six n
+- [00:02:50,960 - 00:02:53,060] coordinates of this a very high dimensional space.
+- [00:02:53,060 - 00:02:55,640] Okay now as
+- [00:02:55,640 - 00:02:58,160] As far as the momentum space goes,
+- [00:02:58,160 - 00:03:01,120] that's kind of bounded.
+- [00:03:02,100 - 00:03:04,650] It's bounded because if any
+- [00:03:04,650 - 00:03:07,200] particle has an enormous momentum,
+- [00:03:07,440 - 00:03:08,820] it will have a very large energy.
+- [00:03:09,140 - 00:03:10,640] And there's a certain amount of
+- [00:03:10,640 - 00:03:12,140] energy that you put in the box,
+- [00:03:12,140 - 00:03:13,860] no more than that.
+- [00:03:14,560 - 00:03:19,570] So pretty much we can say the
+- [00:03:19,570 - 00:03:24,580] momentum dimension in this box is bounded.
+- [00:03:24,580 - 00:03:28,890] And let's just bound it by saying
+- [00:03:28,890 - 00:03:33,200] the momentum is definitely within some range here.
+- [00:03:33,560 - 00:03:36,040] And it doesn't matter how many particles we have.
+- [00:03:36,200 - 00:03:37,940] It doesn't matter how big the system is.
+- [00:03:39,200 - 00:03:41,280] It doesn't matter what the temperature is.
+- [00:03:41,780 - 00:03:43,040] The higher the temperature,
+- [00:03:43,040 - 00:03:45,060] the more uncertain the momentum is.
+- [00:03:45,380 - 00:03:48,160] But if the temperature is reasonably low,
+- [00:03:48,160 - 00:03:51,220] then the momentum direction here
+- [00:03:51,220 - 00:03:52,180] is pretty much bounded.
+- [00:03:53,520 - 00:03:54,560] And the answer is,
+- [00:03:54,560 - 00:03:54,560] well,
+- [00:03:54,560 - 00:03:55,220] x-axis,
+- [00:03:55,220 - 00:03:57,250] that runs from the left part of the
+- [00:03:57,250 - 00:03:59,280] room to the right part of the room,
+- [00:03:59,280 - 00:04:01,340] sort of.
+- [00:04:02,080 - 00:04:03,950] And to say that we started
+- [00:04:03,950 - 00:04:05,820] out in one half of the room
+- [00:04:06,840 - 00:04:10,540] meant that the phase point was in here.
+- [00:04:12,280 - 00:04:13,340] In other words,
+- [00:04:13,340 - 00:04:16,260] the system started in phase space somewhere in there.
+- [00:04:16,399 - 00:04:18,940] Let's not be detailed about where it is in there.
+- [00:04:19,019 - 00:04:19,880] It's somewhere in there.
+- [00:04:20,680 - 00:04:24,400] So the probability distribution is spread out
+- [00:04:24,560 - 00:04:25,000] over here.
+- [00:04:25,880 - 00:04:27,600] And now we wait for a while.
+- [00:04:27,740 - 00:04:28,360] And what happens?
+- [00:04:28,600 - 00:04:30,440] The phase point starts to move.
+- [00:04:31,080 - 00:04:31,680] Now,
+- [00:04:31,680 - 00:04:33,640] it moves chaotically.
+- [00:04:34,380 - 00:04:34,980] Chaotically,
+- [00:04:34,980 - 00:04:36,080] for our purposes,
+- [00:04:36,080 - 00:04:38,380] just means pretty unpredictably.
+- [00:04:39,140 - 00:04:42,920] And not unpredictably because the laws of physics
+- [00:04:42,920 - 00:04:44,360] are unpredictable in principle,
+- [00:04:44,360 - 00:04:47,520] but because trajectories,
+- [00:04:48,340 - 00:04:51,440] like the example of the billiard balls,
+- [00:04:51,440 - 00:04:53,000] errors,
+- [00:04:53,000 - 00:04:54,540] or a slide,
+- [00:04:54,560 - 00:04:55,180] like differences
+- [00:04:55,180 - 00:04:57,720] tend to magnify themselves after a while.
+- [00:04:58,140 - 00:05:01,320] And so even if we started out two very,
+- [00:05:01,320 - 00:05:01,520] very
+- [00:05:01,520 - 00:05:04,800] similar trajectories,
+- [00:05:04,800 - 00:05:06,360] they would very quickly depart.
+- [00:05:07,060 - 00:05:11,000] And you can pretty much imagine that this
+- [00:05:11,000 - 00:05:12,880] means that this phase point moves
+- [00:05:12,880 - 00:05:14,340] around in here in very,
+- [00:05:14,340 - 00:05:15,560] very complicated ways
+- [00:05:16,940 - 00:05:21,440] and pretty much fills up the phase space,
+- [00:05:21,440 - 00:05:24,100] fills up the phase space,
+- [00:05:24,100 - 00:05:24,540] in this case.
+- [00:05:24,560 - 00:05:27,510] sense that if you coarse-grain it and
+- [00:05:27,510 - 00:05:30,460] fuzz your eyes a little bit and wear
+- [00:05:30,460 - 00:05:31,700] somebody else's glasses,
+- [00:05:31,700 - 00:05:34,680] it will look like it's pretty much filled up the
+- [00:05:34,680 - 00:05:35,120] phase space.
+- [00:05:35,120 - 00:05:36,120] Okay,
+- [00:05:36,120 - 00:05:38,270] so what percentage of the
+- [00:05:38,270 - 00:05:40,420] time would you expect that the
+- [00:05:41,380 - 00:05:44,050] phase point resides such that the particles
+- [00:05:44,050 - 00:05:46,720] are all in one half the room,
+- [00:05:46,840 - 00:05:47,680] if this were the picture?
+- [00:05:47,680 - 00:05:51,340] Looks like half the time.
+- [00:05:51,340 - 00:05:52,160] That's crazy!
+- [00:05:52,160 - 00:05:52,920] We don't expect
+- [00:05:52,920 - 00:05:55,410] half the time the air molecules to be
+- [00:05:55,410 - 00:05:57,900] in the left half of the room or the
+- [00:05:57,900 - 00:05:58,680] right half of the room.
+- [00:05:58,680 - 00:06:02,560] And the mistake we're making is we're drawing a picture
+- [00:06:02,560 - 00:06:03,560] in just two dimensions.
+- [00:06:03,560 - 00:06:05,160] Alright.
+- [00:06:05,160 - 00:06:06,860] In two dimensions,
+- [00:06:06,860 - 00:06:10,380] if we divide the X space in
+- [00:06:10,380 - 00:06:10,820] half,
+- [00:06:10,820 - 00:06:15,980] and say we're to the right,
+- [00:06:15,980 - 00:06:19,700] we're talking about half the volume of the
+- [00:06:19,700 - 00:06:20,120] phase space.
+- [00:06:20,120 - 00:06:22,620] What happens though,
+- [00:06:22,620 - 00:06:25,320] if we have n coordinates,
+- [00:06:25,320 - 00:06:28,740] and we're not talking about the part of the phase
+- [00:06:28,740 - 00:06:33,280] space where one particle is on the right-hand side,
+- [00:06:33,280 - 00:06:35,440] but where all of them are
+- [00:06:35,440 - 00:06:36,360] on the right-hand side.
+- [00:06:36,360 - 00:06:38,280] So let's just say there are two particles.
+- [00:06:38,280 - 00:06:39,460] Let's forget the
+- [00:06:39,460 - 00:06:42,020] momentum for a minute and just draw the two coordinates,
+- [00:06:42,020 - 00:06:43,860] X1 and X2,
+- [00:06:43,860 - 00:06:44,540] or X and Y.
+- [00:06:47,440 - 00:06:49,000] X and Y are the
+- [00:06:49,000 - 00:06:50,560] first X and the second X.
+- [00:06:50,560 - 00:06:52,480] And to say that both of
+- [00:06:52,620 - 00:06:56,400] them are on one half of the room is to
+- [00:06:56,400 - 00:07:00,180] say that the phase point is somewhere in the quarter
+- [00:07:01,000 - 00:07:01,800] of the square.
+- [00:07:01,800 - 00:07:05,370] So suppose there were only
+- [00:07:05,370 - 00:07:08,940] two particles moving in one dimension,
+- [00:07:08,940 - 00:07:10,140] and
+- [00:07:10,580 - 00:07:12,490] we start somewhere and they move
+- [00:07:12,490 - 00:07:14,400] around and the system moves around randomly.
+- [00:07:14,400 - 00:07:15,760] Two particles
+- [00:07:15,760 - 00:07:16,940] scatter off each other,
+- [00:07:16,940 - 00:07:18,140] they do very random things.
+- [00:07:18,140 - 00:07:21,140] What percentage of the time are both
+- [00:07:21,140 - 00:07:22,600] particles moving?
+- [00:07:22,620 - 00:07:23,040] One quarter.
+- [00:07:23,040 - 00:07:24,780] In the left-hand side of the room?
+- [00:07:25,200 - 00:07:25,900] One quarter.
+- [00:07:26,040 - 00:07:26,580] A quarter,
+- [00:07:26,580 - 00:07:27,800] right?
+- [00:07:27,800 - 00:07:29,540] What if there are three particles?
+- [00:07:31,140 - 00:07:32,560] One over two to the third.
+- [00:07:33,200 - 00:07:35,100] And what if there are n particles?
+- [00:07:35,100 - 00:07:37,740] One over two to the n.
+- [00:07:37,740 - 00:07:40,460] One over two to the n is right.
+- [00:07:45,220 - 00:07:46,600] One over two to the n.
+- [00:07:47,740 - 00:07:48,460] One over three n?
+- [00:07:52,620 - 00:07:54,560] That depends on how we're constraining it.
+- [00:07:54,560 - 00:07:56,380] If we said all the particles are to the left
+- [00:07:56,380 - 00:07:57,580] but not the...
+- [00:07:57,580 - 00:07:59,230] we just said to the
+- [00:07:59,230 - 00:08:00,880] left and left it at that,
+- [00:08:00,880 - 00:08:02,380] didn't care where they were
+- [00:08:02,380 - 00:08:03,060] up or down,
+- [00:08:03,060 - 00:08:04,260] then I think it would be
+- [00:08:04,260 - 00:08:05,460] one over two to the n.
+- [00:08:05,460 - 00:08:06,280] All right,
+- [00:08:06,280 - 00:08:06,860] there's another way
+- [00:08:06,860 - 00:08:08,020] to think about it,
+- [00:08:08,020 - 00:08:09,940] and that's to say,
+- [00:08:09,940 - 00:08:21,700] let's take the phase space and identify a subregion
+- [00:08:21,700 - 00:08:28,920] of it as the subregion which we're interested in.
+- [00:08:28,920 - 00:08:32,440] Interested means an interesting configuration
+- [00:08:33,360 - 00:08:34,620] that is very unlikely.
+- [00:08:34,620 - 00:08:36,179] All right,
+- [00:08:36,179 - 00:08:38,679] so here's a little region of the phase space.
+- [00:08:38,679 - 00:08:40,460] The phase
+- [00:08:40,460 - 00:08:42,299] space is much bigger,
+- [00:08:42,299 - 00:08:46,540] and the volume,
+- [00:08:46,540 - 00:08:50,560] let's say the whole volume of the phase space,
+- [00:08:50,560 - 00:08:51,680] is
+- [00:08:52,200 - 00:08:52,720] very small.
+- [00:08:52,720 - 00:08:53,620] Let's forget momentum.
+- [00:08:53,620 - 00:08:55,340] Momentum is not important in this.
+- [00:08:55,340 - 00:08:57,120] What is the volume
+- [00:08:57,580 - 00:09:00,420] of the phase space if there are n particles?
+- [00:09:00,420 - 00:09:07,540] It's the volume of the box raised to the nth
+- [00:09:07,540 - 00:09:08,760] or the three nth power,
+- [00:09:08,760 - 00:09:09,840] depending on...
+- [00:09:09,840 - 00:09:10,280] right.
+- [00:09:10,280 - 00:09:12,540] So the volume of the whole phase space,
+- [00:09:12,540 - 00:09:14,020] because
+- [00:09:14,020 - 00:09:15,800] it's an n-dimensional phase space,
+- [00:09:15,800 - 00:09:17,080] or a three n or whatever,
+- [00:09:17,080 - 00:09:19,520] let's forget the three.
+- [00:09:19,520 - 00:09:20,480] The
+- [00:09:20,480 - 00:09:21,300] volume...
+- [00:09:21,700 - 00:09:23,880] of the whole phase space
+- [00:09:23,880 - 00:09:26,060] contains a volume to the nth.
+- [00:09:26,060 - 00:09:28,100] That's the same volume to the
+- [00:09:28,100 - 00:09:30,840] nth that we discovered when we calculated
+- [00:09:30,840 - 00:09:33,580] the partition function and we integrated over
+- [00:09:33,580 - 00:09:34,340] position.
+- [00:09:34,340 - 00:09:35,880] Volume to the nth.
+- [00:09:35,880 - 00:09:39,540] Let's suppose this region of
+- [00:09:39,540 - 00:09:43,200] phase space over here has a
+- [00:09:43,200 - 00:09:46,480] much smaller size.
+- [00:09:46,480 - 00:09:50,980] All the particles have to be in there.
+- [00:09:52,580 - 00:09:53,000] Then,
+- [00:09:53,000 - 00:09:55,620] the volume of this region of phase space,
+- [00:09:55,620 - 00:09:57,260] with all the particles in here,
+- [00:09:57,260 - 00:09:57,980] will
+- [00:09:57,980 - 00:10:01,020] be some little v to the nth.
+- [00:10:01,020 - 00:10:03,320] This is the volume of the box,
+- [00:10:03,320 - 00:10:04,000] incidentally.
+- [00:10:04,000 - 00:10:04,400] This is not the
+- [00:10:04,400 - 00:10:05,160] volume of the phase space.
+- [00:10:05,160 - 00:10:06,170] The volume of the phase
+- [00:10:06,170 - 00:10:07,180] space is v to the n,
+- [00:10:07,180 - 00:10:08,240] the volume of the
+- [00:10:08,240 - 00:10:08,520] box.
+- [00:10:08,520 - 00:10:11,300] And if we're asking about all
+- [00:10:11,300 - 00:10:14,080] the particles being in some small volume,
+- [00:10:14,080 - 00:10:15,840] could be half.
+- [00:10:16,020 - 00:10:16,200] I mean,
+- [00:10:16,200 - 00:10:17,800] this could be half of the big volume.
+- [00:10:17,800 - 00:10:19,380] Okay.
+- [00:10:19,380 - 00:10:20,780] This is some smaller region,
+- [00:10:20,780 - 00:10:21,680] and that's
+- [00:10:21,700 - 00:10:23,810] and the volume of this region of
+- [00:10:23,810 - 00:10:25,920] phase space is little v to the n,
+- [00:10:29,840 - 00:10:32,370] what percentage of the time would you
+- [00:10:32,370 - 00:10:34,900] expect the phase point to be in here?
+- [00:10:37,300 - 00:10:39,800] Little v to the n over little v
+- [00:10:39,800 - 00:10:42,300] to the n over big V to the n.
+- [00:10:47,420 - 00:10:47,980] Now,
+- [00:10:47,980 - 00:10:51,920] little v to the n could be some small number,
+- [00:10:51,920 - 00:10:53,160] whatever it is,
+- [00:10:53,220 - 00:10:55,400] but what about big V to the n?
+- [00:10:55,800 - 00:10:58,480] Big V to the n is proportional
+- [00:10:58,480 - 00:11:01,160] to the entropy of the whole system.
+- [00:11:03,720 - 00:11:07,230] The entropy of a region of phase space
+- [00:11:07,230 - 00:11:10,740] is the logarithm of the volume of that region.
+- [00:11:11,000 - 00:11:12,220] If all you knew,
+- [00:11:12,300 - 00:11:13,650] is that the system was
+- [00:11:13,650 - 00:11:15,000] in some region of phase space,
+- [00:11:15,220 - 00:11:17,520] the volume of that region
+- [00:11:17,520 - 00:11:19,820] of phase space is the logarithm,
+- [00:11:19,820 - 00:11:20,420] is the entropy.
+- [00:11:20,700 - 00:11:20,940] Yeah.
+- [00:11:21,660 - 00:11:25,360] Is that the volume of configuration space?
+- [00:11:25,980 - 00:11:26,540] Yeah,
+- [00:11:26,540 - 00:11:28,500] we're not worrying about the momentum now.
+- [00:11:28,760 - 00:11:29,060] Yeah.
+- [00:11:29,680 - 00:11:30,240] Yeah.
+- [00:11:30,380 - 00:11:30,940] Why?
+- [00:11:31,120 - 00:11:34,060] The momentum is the momentum,
+- [00:11:34,060 - 00:11:35,120] roughly speaking,
+- [00:11:35,120 - 00:11:37,820] of whatever the temperature is.
+- [00:11:38,020 - 00:11:39,520] So let's not worry about that.
+- [00:11:39,820 - 00:11:40,380] Okay.
+- [00:11:40,380 - 00:11:42,140] So roughly speaking then,
+- [00:11:42,140 - 00:11:43,720] this here,
+- [00:11:43,720 - 00:11:45,580] little v to the n,
+- [00:11:46,300 - 00:11:49,560] is the entropy that a gas would
+- [00:11:49,560 - 00:11:52,820] have if it was in this little region,
+- [00:11:53,000 - 00:11:54,780] if all the particles were in that little region.
+- [00:11:54,860 - 00:11:56,580] Let's take the little region to be pretty small.
+- [00:11:57,260 - 00:11:58,760] So that's just some number.
+- [00:12:01,640 - 00:12:03,860] But what's about big V to the n?
+- [00:12:04,220 - 00:12:07,460] That's the entropy of the whole gas and thermal equilibrium,
+- [00:12:08,240 - 00:12:08,840] or sorry,
+- [00:12:08,840 - 00:12:10,800] it's the exponential of the entropy.
+- [00:12:11,640 - 00:12:13,490] Logarithm of V to the n is
+- [00:12:13,490 - 00:12:15,340] the entropy of the gas in this region,
+- [00:12:15,540 - 00:12:17,180] and V to the n
+- [00:12:17,180 - 00:12:18,820] is the exponential of the entropy.
+- [00:12:19,180 - 00:12:22,150] So what this is telling us is
+- [00:12:22,150 - 00:12:25,120] that the likelihood of finding a system
+- [00:12:25,620 - 00:12:29,710] in a tiny volume of phase space here
+- [00:12:29,710 - 00:12:33,800] is always proportional to e to the minus,
+- [00:12:33,800 - 00:12:35,220] because it's in the denominator,
+- [00:12:35,540 - 00:12:38,000] e to the minus the entropy of,
+- [00:12:38,000 - 00:12:41,480] of the thermal equilibrium state.
+- [00:12:43,580 - 00:12:46,900] The meaning of that is that it's very improbable.
+- [00:12:47,360 - 00:12:48,160] e to the,
+- [00:12:48,240 - 00:12:49,560] e to the entropy,
+- [00:12:49,680 - 00:12:51,420] e to the minus the entropy is a very,
+- [00:12:51,480 - 00:12:52,220] very small number.
+- [00:12:52,620 - 00:12:54,000] What's the entropy of the,
+- [00:12:54,100 - 00:12:56,020] of the molecules in this room?
+- [00:12:57,280 - 00:12:58,060] Roughly speaking,
+- [00:12:58,200 - 00:12:59,900] proportional to the number of molecules.
+- [00:13:00,340 - 00:13:02,980] It's pretty close to just being the number of molecules.
+- [00:13:03,320 - 00:13:04,140] 10 to the,
+- [00:13:07,600 - 00:13:08,560] no,
+- [00:13:08,760 - 00:13:09,860] it's more than 10,
+- [00:13:09,860 - 00:13:11,240] 10 to the 30th,
+- [00:13:12,260 - 00:13:13,640] 10 to the 30th,
+- [00:13:13,660 - 00:13:14,660] I'm not sure exactly what,
+- [00:13:14,720 - 00:13:15,460] something like that.
+- [00:13:16,500 - 00:13:18,140] So V to the n,
+- [00:13:18,360 - 00:13:19,880] or the entropy,
+- [00:13:19,980 - 00:13:20,880] is,
+- [00:13:23,340 - 00:13:25,320] is 10 to the 30th.
+- [00:13:26,380 - 00:13:28,920] The probability of finding yourself in
+- [00:13:28,920 - 00:13:31,460] a tiny little volume of phase space
+- [00:13:31,460 - 00:13:35,040] like this is not e to the entropy,
+- [00:13:35,160 - 00:13:35,640] it's,
+- [00:13:35,640 - 00:13:36,260] sorry,
+- [00:13:36,260 - 00:13:38,800] it is e to the minus the entropy.
+- [00:13:39,620 - 00:13:41,920] e to the minus the entropy is the
+- [00:13:41,920 - 00:13:44,220] probability of finding yourself in a small region.
+- [00:13:45,580 - 00:13:46,830] It's the same as this 1
+- [00:13:46,830 - 00:13:48,080] over 2 to the n here.
+- [00:13:49,260 - 00:13:50,290] It's the same as this
+- [00:13:50,290 - 00:13:51,320] 1 over 2 to the n.
+- [00:13:51,800 - 00:13:54,320] In the case that we studied over here,
+- [00:13:54,780 - 00:13:57,800] little v over big V was a half.
+- [00:13:59,660 - 00:14:00,180] But,
+- [00:14:00,180 - 00:14:02,160] and a half is not a terribly small number,
+- [00:14:02,320 - 00:14:03,790] but when it's raised to
+- [00:14:03,790 - 00:14:05,260] the power 10 to the 30th,
+- [00:14:05,260 - 00:14:07,980] that is a very small number.
+- [00:14:09,200 - 00:14:09,700] Okay,
+- [00:14:09,700 - 00:14:10,680] so the likelihood
+- [00:14:12,000 - 00:14:14,040] at a random draw of a point
+- [00:14:14,040 - 00:14:16,080] from the phase space that you find yourself
+- [00:14:16,880 - 00:14:19,600] in this tiny volume of phase space here
+- [00:14:20,220 - 00:14:20,720] is,
+- [00:14:21,440 - 00:14:22,700] in this case here,
+- [00:14:22,900 - 00:14:24,100] 1 over 2
+- [00:14:25,000 - 00:14:26,450] raised to the 10,
+- [00:14:26,880 - 00:14:28,060] not to the 30th power,
+- [00:14:28,200 - 00:14:29,780] to the 10 to the 30th power.
+- [00:14:32,140 - 00:14:33,440] That's a pretty small number.
+- [00:14:35,780 - 00:14:38,640] How long do you have to wait on the average
+- [00:14:38,640 - 00:14:41,100] to find yourself in that region?
+- [00:14:43,140 - 00:14:43,660] Well,
+- [00:14:43,660 - 00:14:45,820] about a time of order
+- [00:14:45,820 - 00:14:48,540] 2 to the 10 to the 30th.
+- [00:14:49,160 - 00:14:50,950] If the fraction of time that
+- [00:14:50,950 - 00:14:52,740] you spend in that odd region
+- [00:14:53,520 - 00:14:56,160] is 1 over 2 to the 10 to the 30th,
+- [00:14:56,180 - 00:14:57,720] then how long do you have to
+- [00:14:57,720 - 00:14:59,260] wait till you find yourself in that region?
+- [00:14:59,760 - 00:15:01,880] 2 to the 10 to the 30th.
+- [00:15:02,280 - 00:15:03,400] In what units?
+- [00:15:03,400 - 00:15:03,720] Years?
+- [00:15:03,720 - 00:15:04,620] Seconds?
+- [00:15:06,460 - 00:15:08,040] It doesn't matter.
+- [00:15:12,780 - 00:15:14,960] What is the objective of doing this?
+- [00:15:15,540 - 00:15:16,180] Oh,
+- [00:15:16,180 - 00:15:16,780] it's...
+- [00:15:16,780 - 00:15:18,680] Why is this interesting?
+- [00:15:18,820 - 00:15:20,460] Why we do this exercise?
+- [00:15:20,980 - 00:15:22,960] We do this exercise just to understand it.
+- [00:15:23,340 - 00:15:24,780] Just to understand it.
+- [00:15:24,820 - 00:15:26,380] To understand in what sense
+- [00:15:28,540 - 00:15:30,060] systems are reversible.
+- [00:15:30,680 - 00:15:31,860] The answer is,
+- [00:15:31,860 - 00:15:33,180] if you wait long enough,
+- [00:15:33,180 - 00:15:35,160] they will reverse themselves.
+- [00:15:35,560 - 00:15:37,780] And if you really have a sealed room here,
+- [00:15:38,400 - 00:15:39,660] and you let it evolve,
+- [00:15:41,780 - 00:15:45,040] let's say starting from the odd state,
+- [00:15:46,220 - 00:15:48,480] it would come to thermal equilibrium,
+- [00:15:48,700 - 00:15:50,340] or what looks like thermal equilibrium.
+- [00:15:50,980 - 00:15:51,920] It would spend a long,
+- [00:15:51,920 - 00:15:53,040] long time there.
+- [00:15:53,420 - 00:15:54,840] But every so often,
+- [00:15:54,920 - 00:15:56,850] every 1 to the 2 to the
+- [00:15:56,850 - 00:15:58,780] 10 to the 30th years or whatever,
+- [00:15:59,020 - 00:16:01,320] you would find the molecules in half the room.
+- [00:16:01,520 - 00:16:03,160] You wait long enough,
+- [00:16:03,160 - 00:16:03,340] and then you go down again,
+- [00:16:03,640 - 00:16:05,440] it equilibrates again,
+- [00:16:05,580 - 00:16:06,780] it looks conventional,
+- [00:16:07,319 - 00:16:09,600] and then all of a sudden you find
+- [00:16:09,600 - 00:16:11,960] the molecules in the other half of the room,
+- [00:16:12,040 - 00:16:13,280] or that corner of the room.
+- [00:16:14,020 - 00:16:16,800] And if you integrate it or study it
+- [00:16:16,800 - 00:16:18,720] over sufficiently long times,
+- [00:16:18,780 - 00:16:21,240] you will discover that the entropy goes down,
+- [00:16:21,320 - 00:16:22,860] or that the...
+- [00:16:26,840 - 00:16:28,480] oddness goes up and down,
+- [00:16:28,500 - 00:16:29,260] and up and down,
+- [00:16:29,260 - 00:16:29,980] and up and down,
+- [00:16:29,980 - 00:16:32,180] in a completely time-symmetric way.
+- [00:16:33,460 - 00:16:34,060] Okay?
+- [00:16:34,060 - 00:16:35,720] In a completely time-symmetric way.
+- [00:16:36,440 - 00:16:38,160] What's not time-symmetric
+- [00:16:38,160 - 00:16:41,000] is if you knowingly start
+- [00:16:41,000 - 00:16:43,940] in a very odd configuration.
+- [00:16:44,580 - 00:16:45,560] In other words,
+- [00:16:45,560 - 00:16:46,560] you knowingly start
+- [00:16:46,560 - 00:16:48,600] in a tiny volume of phase space.
+- [00:16:49,340 - 00:16:50,420] Most likely,
+- [00:16:50,420 - 00:16:52,020] the next thing is to find yourself
+- [00:16:52,020 - 00:16:53,160] out of that volume.
+- [00:16:53,900 - 00:16:56,880] So if you start in an odd situation
+- [00:16:56,880 - 00:16:59,760] with all the molecules in the corner of the room,
+- [00:16:59,980 - 00:17:02,620] you expect the next thing to find
+- [00:17:02,620 - 00:17:04,760] is the molecules spread out.
+- [00:17:05,579 - 00:17:06,540] In fact,
+- [00:17:06,540 - 00:17:08,300] you'll find the next thing
+- [00:17:08,300 - 00:17:09,540] and the next thing and the next thing
+- [00:17:09,540 - 00:17:11,200] is pretty much to spread out uniformly,
+- [00:17:12,140 - 00:17:14,040] and that sounds like it violates
+- [00:17:14,040 - 00:17:15,940] the reversibility of the physical laws.
+- [00:17:16,300 - 00:17:17,339] But in fact,
+- [00:17:17,339 - 00:17:19,140] if you were to have waited long enough,
+- [00:17:19,339 - 00:17:20,859] you'll find it reversing itself
+- [00:17:20,859 - 00:17:22,599] and doing everything imaginable
+- [00:17:22,599 - 00:17:24,060] for a closed system.
+- [00:17:24,359 - 00:17:25,260] I have a question,
+- [00:17:25,260 - 00:17:25,540] please.
+- [00:17:25,720 - 00:17:28,099] You said that time didn't matter,
+- [00:17:28,099 - 00:17:28,600] seconds,
+- [00:17:28,600 - 00:17:29,140] who cares.
+- [00:17:29,140 - 00:17:31,780] But let's say it's 10 to minus 30
+- [00:17:31,780 - 00:17:33,560] or 10 to minus 40 times.
+- [00:17:34,780 - 00:17:36,000] What happens then?
+- [00:17:36,020 - 00:17:37,600] It seems to matter somehow.
+- [00:17:37,700 - 00:17:37,860] No,
+- [00:17:37,860 - 00:17:37,920] no,
+- [00:17:37,920 - 00:17:38,320] it doesn't.
+- [00:17:38,440 - 00:17:38,500] Well,
+- [00:17:38,500 - 00:17:39,300] some,
+- [00:17:39,300 - 00:17:39,640] yes,
+- [00:17:39,640 - 00:17:40,060] of course,
+- [00:17:40,060 - 00:17:40,820] but let's just see.
+- [00:17:41,500 - 00:17:41,940] Okay,
+- [00:17:41,940 - 00:17:42,920] so we have a number
+- [00:17:45,560 - 00:17:49,360] 2 to the 10 to the 30th,
+- [00:17:49,360 - 00:17:49,560] okay?
+- [00:17:51,500 - 00:17:51,940] Now,
+- [00:17:51,940 - 00:17:53,140] I'm going to change units.
+- [00:17:53,280 - 00:17:58,160] This unit is the units
+- [00:17:59,140 - 00:17:59,620] of seconds.
+- [00:18:00,460 - 00:18:02,200] Supposing I change the units of hours,
+- [00:18:03,320 - 00:18:04,780] what does this number become?
+- [00:18:06,080 - 00:18:08,720] Times 2 to the 10 to the 30th.
+- [00:18:08,740 - 00:18:11,040] 2 to the 10 to the 30th.
+- [00:18:12,400 - 00:18:13,240] Subtract 3.
+- [00:18:15,560 - 00:18:16,240] Divided by?
+- [00:18:18,540 - 00:18:19,600] Divided by what's,
+- [00:18:19,600 - 00:18:21,740] 3,000 or something.
+- [00:18:22,120 - 00:18:23,440] Let's say 10 to the 3,
+- [00:18:23,440 - 00:18:24,500] right?
+- [00:18:26,520 - 00:18:27,020] Okay,
+- [00:18:27,020 - 00:18:28,140] that's the same as 2
+- [00:18:28,140 - 00:18:30,540] to the 10 to the 30th minus 3.
+- [00:18:33,560 - 00:18:35,000] It doesn't matter whether,
+- [00:18:35,000 - 00:18:37,180] right.
+- [00:18:37,420 - 00:18:38,860] 10 to the 30th minus
+- [00:18:38,860 - 00:18:40,300] 3 is 10 to the 30th.
+- [00:18:40,980 - 00:18:43,520] Does it mean that if we were to invent
+- [00:18:43,520 - 00:18:47,100] a short time equivalent to 10 to minus 3,
+- [00:18:47,240 - 00:18:48,000] you know,
+- [00:18:48,000 - 00:18:48,480] the opposite,
+- [00:18:49,280 - 00:18:50,060] will it,
+- [00:18:50,060 - 00:18:51,980] for that infinitesimal time,
+- [00:18:52,180 - 00:18:54,220] actually come back to that volume?
+- [00:18:54,540 - 00:18:55,060] Yeah.
+- [00:18:55,680 - 00:18:56,200] Yeah.
+- [00:18:56,360 - 00:18:56,880] Yeah.
+- [00:18:57,160 - 00:18:57,500] Yeah.
+- [00:18:58,660 - 00:19:00,140] Infinitesimal fraction of the time.
+- [00:19:00,540 - 00:19:02,920] How long it actually spends in the corner,
+- [00:19:03,000 - 00:19:04,840] that depends on how fast the molecules are moving
+- [00:19:04,840 - 00:19:05,460] and so forth.
+- [00:19:05,740 - 00:19:07,140] The quantum limitations,
+- [00:19:07,140 - 00:19:07,920] I assume.
+- [00:19:08,200 - 00:19:10,080] There is a quantum version of the,
+- [00:19:11,980 - 00:19:14,480] of the Poincare recurrence theorem.
+- [00:19:15,620 - 00:19:17,480] But we want to get into it now.
+- [00:19:18,120 - 00:19:18,740] All right,
+- [00:19:18,740 - 00:19:19,520] so that's just,
+- [00:19:20,460 - 00:19:22,480] it's more than an interesting point.
+- [00:19:22,480 - 00:19:25,530] It's a deep conceptual point that resolved
+- [00:19:26,040 - 00:19:28,980] and helped Boltzmann resolve the puzzle of
+- [00:19:31,360 - 00:19:32,700] the one-wayness,
+- [00:19:32,900 - 00:19:34,640] the apparent one-wayness of time
+- [00:19:35,420 - 00:19:40,240] and the two-wayness of the laws of motion.
+- [00:19:40,420 - 00:19:41,260] Of course,
+- [00:19:41,260 - 00:19:43,140] what it required to make sense out of it
+- [00:19:43,140 - 00:19:44,260] is that we eventually,
+- [00:19:44,260 - 00:19:45,720] we would eventually have to understand
+- [00:19:45,720 - 00:19:47,540] why the universe started
+- [00:19:47,540 - 00:19:49,940] in a little corner of phase space.
+- [00:19:50,240 - 00:19:51,460] That's a separate issue.
+- [00:19:52,160 - 00:19:53,260] Boltzmann knew that.
+- [00:19:53,300 - 00:19:54,780] He knew that and he,
+- [00:19:56,180 - 00:19:58,020] and he said so.
+- [00:19:58,140 - 00:19:58,460] He said.
+- [00:19:58,620 - 00:19:59,840] I was thinking,
+- [00:19:59,960 - 00:20:02,240] could this have application in cosmology?
+- [00:20:02,240 - 00:20:02,640] Absolutely.
+- [00:20:03,400 - 00:20:03,700] Absolutely.
+- [00:20:04,140 - 00:20:06,360] And it's still a open and,
+- [00:20:06,360 - 00:20:09,820] and question that's constantly being addressed.
+- [00:20:10,100 - 00:20:12,160] Why did the universe start in a,
+- [00:20:12,160 - 00:20:14,440] in a small corner of phase space?
+- [00:20:14,860 - 00:20:17,640] I was thinking after the universe spreads out,
+- [00:20:17,660 - 00:20:19,240] have you waited long enough?
+- [00:20:20,300 - 00:20:20,900] Yeah.
+- [00:20:20,900 - 00:20:22,060] This is a,
+- [00:20:22,080 - 00:20:22,720] this is a,
+- [00:20:22,760 - 00:20:23,980] this is a,
+- [00:20:24,100 - 00:20:24,900] it's a good question.
+- [00:20:26,100 - 00:20:28,480] And it is one which we're working on.
+- [00:20:28,840 - 00:20:29,200] I'll just say.
+- [00:20:30,000 - 00:20:30,480] Question.
+- [00:20:31,100 - 00:20:32,710] I think the answer is the
+- [00:20:32,710 - 00:20:34,320] universe must not be a closed system.
+- [00:20:34,420 - 00:20:35,480] If it's a closed system,
+- [00:20:35,540 - 00:20:37,240] it will just recur and recur and recur.
+- [00:20:37,580 - 00:20:37,940] And,
+- [00:20:39,420 - 00:20:40,820] and that does not,
+- [00:20:40,940 - 00:20:43,300] that doesn't make for a
+- [00:20:43,300 - 00:20:45,660] good statistical explanation of the world.
+- [00:20:45,920 - 00:20:46,240] Yeah.
+- [00:20:46,340 - 00:20:48,200] I didn't understand when you said,
+- [00:20:48,360 - 00:20:50,580] I think you said that time was symmetric.
+- [00:20:50,580 - 00:20:52,840] If you watch,
+- [00:20:52,860 - 00:20:55,920] if you watch the closed system long enough,
+- [00:20:57,120 - 00:20:58,720] you would find that,
+- [00:21:01,100 - 00:21:08,870] let's call it some measure of the localization of the particles would decrease if you started off in a corner and sit
+- [00:21:08,870 - 00:21:16,640] there pretty delocalized for a long time and then pop up and then go back down and pop up and go back down.
+- [00:21:16,760 - 00:21:20,560] But the time scale to discover the,
+- [00:21:20,560 - 00:21:24,320] this reversibility that what goes up must come down,
+- [00:21:24,460 - 00:21:25,000] so to speak,
+- [00:21:25,220 - 00:21:27,540] is this two to the 10th to the 30th.
+- [00:21:29,280 - 00:21:30,880] You're not saying that,
+- [00:21:31,440 - 00:21:34,040] you're not saying that it takes as long for it to
+- [00:21:34,040 - 00:21:36,640] move out as it does to come back to one corner.
+- [00:21:37,060 - 00:21:37,320] Well,
+- [00:21:37,320 - 00:21:37,540] it does.
+- [00:21:37,840 - 00:21:38,080] Yeah,
+- [00:21:38,080 - 00:21:38,620] everything is,
+- [00:21:38,620 - 00:21:39,140] everything is,
+- [00:21:39,180 - 00:21:40,160] everything would be symmetric.
+- [00:21:42,580 - 00:21:46,560] Every now and then you would find the molecules
+- [00:21:46,560 - 00:21:50,540] in exactly the right configuration to swoosh into the corner.
+- [00:21:51,199 - 00:21:52,519] Pretty much the same way
+- [00:21:52,519 - 00:21:53,840] they swooshed out of the corner.
+- [00:21:53,980 - 00:21:54,200] Oh,
+- [00:21:54,200 - 00:21:54,600] I see.
+- [00:21:54,620 - 00:21:57,460] You're comparing two exact same states.
+- [00:21:57,680 - 00:21:57,820] Yeah.
+- [00:21:58,000 - 00:21:58,400] Okay.
+- [00:21:58,879 - 00:22:00,820] So you'll see everything happen.
+- [00:22:00,900 - 00:22:02,760] You'll see everything happen in both directions.
+- [00:22:04,040 - 00:22:04,620] Excuse me.
+- [00:22:05,000 - 00:22:05,400] Yeah.
+- [00:22:05,500 - 00:22:07,350] So this doesn't really have anything to do with
+- [00:22:07,350 - 00:22:09,200] the fact that they started in a small area.
+- [00:22:09,820 - 00:22:12,140] You could start with a room just like this,
+- [00:22:12,800 - 00:22:13,200] right?
+- [00:22:13,320 - 00:22:14,790] And then eventually all the air
+- [00:22:14,790 - 00:22:16,260] will be in a small area.
+- [00:22:16,260 - 00:22:16,460] Yes,
+- [00:22:16,460 - 00:22:16,620] yes,
+- [00:22:16,620 - 00:22:16,780] yes.
+- [00:22:16,880 - 00:22:18,710] But if we're trying to understand why
+- [00:22:18,710 - 00:22:20,540] the world looks the way it is,
+- [00:22:20,560 - 00:22:20,840] you see,
+- [00:22:20,840 - 00:22:22,260] the problem,
+- [00:22:22,260 - 00:22:24,780] and I think Boltzmann knew this,
+- [00:22:24,900 - 00:22:27,440] it's a more recurrent problem in recent years,
+- [00:22:27,800 - 00:22:30,450] is if the universe really were a
+- [00:22:30,450 - 00:22:33,100] closed box and you were to ask,
+- [00:22:33,200 - 00:22:38,020] what's the most likely configuration to
+- [00:22:38,020 - 00:22:42,840] find a planet with people on it?
+- [00:22:43,100 - 00:22:44,840] What's the most likely possibility?
+- [00:22:45,460 - 00:22:49,000] You would discover that the most likely possibility is,
+- [00:22:50,560 - 00:22:53,300] is to have uniform gas everywheres,
+- [00:22:53,340 - 00:22:55,910] except the smallest possible amount of
+- [00:22:55,910 - 00:22:58,480] gas necessary to make up a planet,
+- [00:22:59,840 - 00:23:01,920] having condensed into the planet.
+- [00:23:02,480 - 00:23:04,900] The chances that you would see two planets,
+- [00:23:05,140 - 00:23:08,540] the chances that you see one planet are very,
+- [00:23:08,540 - 00:23:09,040] very,
+- [00:23:09,040 - 00:23:09,740] very small.
+- [00:23:10,240 - 00:23:12,720] The chances that you see two
+- [00:23:12,720 - 00:23:15,200] planets are vastly more negligible than that.
+- [00:23:15,540 - 00:23:17,680] So if you were asking the question,
+- [00:23:17,900 - 00:23:20,500] what should astronomers expect?
+- [00:23:20,560 - 00:23:22,240] What should astronomers expect to see in a world,
+- [00:23:22,320 - 00:23:23,760] given that there are astronomers,
+- [00:23:24,760 - 00:23:26,340] given that there are astronomers,
+- [00:23:26,420 - 00:23:27,480] a conditional probability,
+- [00:23:28,120 - 00:23:30,860] the conditional probability that there is a planet,
+- [00:23:30,980 - 00:23:33,160] and on that planet there are astronomers,
+- [00:23:33,420 - 00:23:36,180] and they do astronomical observations,
+- [00:23:36,879 - 00:23:38,940] what's the most likely thing they will see?
+- [00:23:39,300 - 00:23:41,330] The most likely thing they will see
+- [00:23:41,330 - 00:23:43,360] is they will look out and see nothing.
+- [00:23:44,120 - 00:23:46,000] Or they may see some gas out there,
+- [00:23:46,080 - 00:23:48,420] but they will not see it condensed into another planet.
+- [00:23:48,420 - 00:23:50,220] By far,
+- [00:23:50,220 - 00:23:52,680] the most likely thing to see is one planet,
+- [00:23:52,780 - 00:23:54,440] if you know that you have one,
+- [00:23:54,440 - 00:23:55,720] and not two.
+- [00:23:55,800 - 00:23:57,630] What's the probability that you'll
+- [00:23:57,630 - 00:23:59,460] see the universe filled with stars?
+- [00:24:00,579 - 00:24:01,860] Absolutely negligible,
+- [00:24:02,520 - 00:24:07,200] unless you know that in the fairly recent past,
+- [00:24:08,060 - 00:24:09,960] in the fairly recent past,
+- [00:24:10,180 - 00:24:12,650] that you started with some
+- [00:24:12,650 - 00:24:15,120] very exceptional and unusual starting point.
+- [00:24:15,700 - 00:24:18,400] And then the flow out from that starting point,
+- [00:24:20,419 - 00:24:24,220] is likely to have certain kinds of structure
+- [00:24:24,220 - 00:24:27,360] that a random fluctuation would not have.
+- [00:24:27,820 - 00:24:28,520] Anyway,
+- [00:24:28,520 - 00:24:30,340] that's called the problem of Boltzmann brains.
+- [00:24:30,760 - 00:24:32,700] It's called the problem of Boltzmann brains
+- [00:24:33,480 - 00:24:36,840] because people went a little bit excessive on it
+- [00:24:36,840 - 00:24:39,940] and said the most probable astronomer would be
+- [00:24:41,240 - 00:24:45,480] a single astronomer's head disconnected from anything else
+- [00:24:48,560 - 00:24:50,180] but it is a problem,
+- [00:24:50,280 - 00:24:52,530] it's a problem of using statistics to
+- [00:24:52,530 - 00:24:54,780] understand the world the way it is.
+- [00:24:55,180 - 00:24:57,720] And it's always a conditional question.
+- [00:24:57,840 - 00:25:01,180] The conditional question is always given that we're here,
+- [00:25:01,340 - 00:25:02,020] that etc.,
+- [00:25:02,020 - 00:25:02,980] all the various things,
+- [00:25:03,120 - 00:25:04,960] what's the probability that we see X?
+- [00:25:05,320 - 00:25:07,650] And the probability in a
+- [00:25:07,650 - 00:25:09,980] closed universe that we see X
+- [00:25:12,080 - 00:25:16,940] would be much higher
+- [00:25:16,940 - 00:25:20,300] to see only X and not Y,
+- [00:25:20,480 - 00:25:23,380] Y meaning some other planets and things like that.
+- [00:25:23,500 - 00:25:26,660] So it's not a good theory to think
+- [00:25:26,660 - 00:25:29,820] we are just a result of a random fluctuation.
+- [00:25:33,120 - 00:25:35,940] If we were the result of a random fluctuation
+- [00:25:35,940 - 00:25:40,820] where things just assemble themselves sort of accidentally
+- [00:25:40,820 - 00:25:42,530] or what is apparently accidentally into
+- [00:25:42,530 - 00:25:44,240] a planet with people on it,
+- [00:25:44,300 - 00:25:46,920] we would have no explanation of the world
+- [00:25:46,940 - 00:25:47,620] and we would have no
+- [00:25:47,620 - 00:25:48,300] explanation of the coherence of history,
+- [00:25:49,620 - 00:25:52,980] why history looks like it had a coherent past
+- [00:25:55,360 - 00:26:00,880] and why there's a consistency to historical evidence
+- [00:26:02,179 - 00:26:06,740] if the universe just materialized by random fluctuation,
+- [00:26:06,800 - 00:26:08,100] not the universe but the planet,
+- [00:26:08,320 - 00:26:10,240] just materialized by random fluctuation
+- [00:26:10,240 - 00:26:12,160] with us sitting here today.
+- [00:26:12,400 - 00:26:16,740] It seems like if you're starting up with a place
+- [00:26:16,940 - 00:26:17,100] and you're trying to explain,
+- [00:26:17,100 - 00:26:17,720] so to speak,
+- [00:26:17,800 - 00:26:19,580] then you can talk about the
+- [00:26:19,580 - 00:26:21,360] probability of finding one planet like this,
+- [00:26:21,440 - 00:26:22,460] and it's very small.
+- [00:26:22,720 - 00:26:24,610] The probability of finding one planet
+- [00:26:24,610 - 00:26:26,500] is much bigger than finding two.
+- [00:26:26,700 - 00:26:27,120] Right,
+- [00:26:27,120 - 00:26:30,440] but you can talk about the conditional probability
+- [00:26:30,440 - 00:26:32,140] that given that there is one planet,
+- [00:26:32,240 - 00:26:34,140] what's the probability of finding another one?
+- [00:26:34,200 - 00:26:35,200] That seems like it would be the same.
+- [00:26:35,360 - 00:26:35,700] No,
+- [00:26:35,700 - 00:26:37,220] the same as just finding one?
+- [00:26:37,220 - 00:26:37,820] No.
+- [00:26:37,940 - 00:26:39,640] Given that you know one exists,
+- [00:26:39,940 - 00:26:41,260] so we can talk about conditional probability,
+- [00:26:41,600 - 00:26:43,380] what's the probability of a second one?
+- [00:26:43,660 - 00:26:44,380] Extremely small.
+- [00:26:44,700 - 00:26:45,360] But I mean,
+- [00:26:45,360 - 00:26:46,520] it seems like the same
+- [00:26:46,940 - 00:26:48,480] as when you don't know any exist,
+- [00:26:48,660 - 00:26:50,460] it's the same as the probability...
+- [00:26:50,460 - 00:26:50,560] No,
+- [00:26:50,560 - 00:26:52,880] if what we're relying on is random fluctuations,
+- [00:26:54,180 - 00:26:56,240] and here we have a
+- [00:26:56,240 - 00:26:58,300] situation where randomly in this room
+- [00:27:00,080 - 00:27:04,180] a collection of molecules randomly materialized
+- [00:27:04,180 - 00:27:07,440] and formed Boltzmann's head.
+- [00:27:08,540 - 00:27:09,020] Okay?
+- [00:27:09,020 - 00:27:10,140] Formed Boltzmann's head.
+- [00:27:10,300 - 00:27:11,620] That is a very small probability.
+- [00:27:12,480 - 00:27:14,300] I'm talking about like that's the longest...
+- [00:27:14,300 - 00:27:14,440] Wait,
+- [00:27:14,440 - 00:27:14,680] wait,
+- [00:27:14,680 - 00:27:14,820] wait,
+- [00:27:14,820 - 00:27:15,000] wait.
+- [00:27:15,040 - 00:27:15,680] I'm not sure you understand.
+- [00:27:15,680 - 00:27:17,140] Maybe I didn't,
+- [00:27:17,140 - 00:27:19,460] but let's just explain it anyway.
+- [00:27:20,500 - 00:27:23,920] The probability that we discover a Boltzmann's head
+- [00:27:23,920 - 00:27:25,660] is going to be a very,
+- [00:27:25,660 - 00:27:26,720] very small number.
+- [00:27:29,280 - 00:27:31,460] Given Boltzmann's head has formed,
+- [00:27:31,680 - 00:27:33,320] Boltzmann looks around and he says,
+- [00:27:33,380 - 00:27:35,190] I wonder what the probability is
+- [00:27:35,190 - 00:27:37,000] that my wife is here also.
+- [00:27:40,280 - 00:27:40,900] Very,
+- [00:27:40,900 - 00:27:41,360] very,
+- [00:27:41,360 - 00:27:42,060] very tiny.
+- [00:27:43,280 - 00:27:43,900] Much,
+- [00:27:43,900 - 00:27:45,060] much tinier than this.
+- [00:27:45,680 - 00:27:46,020] Boltzmann.
+- [00:27:46,400 - 00:27:46,800] Okay,
+- [00:27:46,800 - 00:27:47,900] now that's not what you were asking,
+- [00:27:47,900 - 00:27:48,260] you said.
+- [00:27:48,320 - 00:27:48,440] Okay,
+- [00:27:48,440 - 00:27:50,300] well this is the way I'm thinking of it.
+- [00:27:50,340 - 00:27:50,620] Imagine,
+- [00:27:50,620 - 00:27:52,540] talk about playing the lottery.
+- [00:27:52,940 - 00:27:54,940] And you've got two people who've played the lottery
+- [00:27:54,940 - 00:27:56,040] the same number of times,
+- [00:27:56,180 - 00:27:58,360] and one of them has won once,
+- [00:27:58,440 - 00:27:59,940] and the other has won zero.
+- [00:28:00,600 - 00:28:03,680] Now what's the probability the next time those two play,
+- [00:28:03,820 - 00:28:06,320] what are the two probabilities of them winning again?
+- [00:28:06,380 - 00:28:06,880] And they're equal.
+- [00:28:07,600 - 00:28:08,500] You see what I'm saying?
+- [00:28:08,580 - 00:28:10,480] It doesn't matter if the other
+- [00:28:10,480 - 00:28:12,380] guy won once in that sense,
+- [00:28:12,580 - 00:28:14,400] because they're in the game.
+- [00:28:14,640 - 00:28:15,080] That's right.
+- [00:28:15,980 - 00:28:16,700] That's right.
+- [00:28:16,860 - 00:28:18,840] So the probability that there's
+- [00:28:18,840 - 00:28:20,820] a discovery of a Boltzmann's wife
+- [00:28:20,820 - 00:28:22,880] in the room is very,
+- [00:28:22,880 - 00:28:23,520] very tiny.
+- [00:28:24,440 - 00:28:27,200] It's equally tiny if Boltzmann happens
+- [00:28:27,200 - 00:28:29,960] to have been discovered in the room.
+- [00:28:30,140 - 00:28:30,520] It's equal.
+- [00:28:30,680 - 00:28:31,060] Right.
+- [00:28:31,440 - 00:28:33,680] Equally improbable whether,
+- [00:28:33,680 - 00:28:34,700] that's right,
+- [00:28:34,860 - 00:28:36,580] but very improbable.
+- [00:28:37,360 - 00:28:38,940] So in other words,
+- [00:28:38,940 - 00:28:41,440] Boltzmann ought to be very,
+- [00:28:41,440 - 00:28:42,480] very surprised
+- [00:28:42,480 - 00:28:44,280] that his wife is there.
+- [00:28:44,280 - 00:28:44,360] He,
+- [00:28:44,360 - 00:28:45,160] first of all,
+- [00:28:45,160 - 00:28:46,200] is surprised that he's there.
+- [00:28:46,420 - 00:28:46,820] Well,
+- [00:28:46,820 - 00:28:48,540] maybe he doesn't know the theory very well.
+- [00:28:49,020 - 00:28:50,720] He doesn't know too much about the,
+- [00:28:50,840 - 00:28:51,980] he knows a little about the theory.
+- [00:28:52,480 - 00:28:53,860] And he discovers he's there.
+- [00:28:54,000 - 00:28:54,120] He says,
+- [00:28:54,120 - 00:28:54,220] oh,
+- [00:28:54,220 - 00:28:55,300] what a wonderful accident.
+- [00:28:55,440 - 00:28:56,340] How happy I am.
+- [00:28:56,400 - 00:28:57,360] I wonder if my wife is here.
+- [00:28:57,420 - 00:28:57,640] Nah,
+- [00:28:57,640 - 00:28:59,880] that would be too much of a good thing.
+- [00:29:01,460 - 00:29:02,280] He looks around.
+- [00:29:02,540 - 00:29:03,240] He finds her.
+- [00:29:03,500 - 00:29:04,180] He says,
+- [00:29:04,180 - 00:29:05,140] what is his conclusion?
+- [00:29:05,660 - 00:29:06,860] His conclusion is,
+- [00:29:06,860 - 00:29:07,240] you know,
+- [00:29:07,380 - 00:29:09,920] I think my world is probably
+- [00:29:09,920 - 00:29:12,460] not a world of random statistics.
+- [00:29:13,060 - 00:29:15,590] It's probably not a world
+- [00:29:15,590 - 00:29:18,120] of a closed volume of molecules
+- [00:29:18,120 - 00:29:20,240] which just randomly assembled me.
+- [00:29:20,940 - 00:29:22,560] He couldn't say that before.
+- [00:29:23,300 - 00:29:24,780] He couldn't say that before.
+- [00:29:25,000 - 00:29:26,480] What he would say before is,
+- [00:29:26,480 - 00:29:27,480] look,
+- [00:29:27,480 - 00:29:28,960] I'm here.
+- [00:29:29,920 - 00:29:32,760] I know that if we wait long enough,
+- [00:29:32,760 - 00:29:34,780] I will be here.
+- [00:29:35,500 - 00:29:36,880] When will I be here?
+- [00:29:37,040 - 00:29:39,010] Is it a fantastic piece of luck
+- [00:29:39,010 - 00:29:40,980] that I happen to be here right now?
+- [00:29:41,380 - 00:29:41,940] No.
+- [00:29:41,940 - 00:29:44,100] At some point in time,
+- [00:29:44,100 - 00:29:44,900] I'm going to be here.
+- [00:29:44,980 - 00:29:46,640] This happens to be the time I'm here.
+- [00:29:47,220 - 00:29:47,920] He says,
+- [00:29:47,920 - 00:29:49,840] if that's the right theory,
+- [00:29:50,899 - 00:29:54,899] that I'm here just because the gas
+- [00:29:54,899 - 00:29:58,900] in the room eventually assembled into me,
+- [00:29:59,020 - 00:29:59,990] and when else could I
+- [00:29:59,990 - 00:30:00,960] be here except when I'm here?
+- [00:30:01,080 - 00:30:01,620] It's when I'm here.
+- [00:30:02,120 - 00:30:04,260] But I think the best prediction I
+- [00:30:04,260 - 00:30:06,400] can make is that if I look around,
+- [00:30:06,600 - 00:30:08,460] I will find the rest of
+- [00:30:08,460 - 00:30:10,320] the room pretty much in thermal equilibrium
+- [00:30:10,320 - 00:30:11,920] with no fancy structure in it.
+- [00:30:11,940 - 00:30:13,500] In particular,
+- [00:30:13,500 - 00:30:14,620] my wife won't be here.
+- [00:30:14,780 - 00:30:16,140] If he discovers his wife,
+- [00:30:16,140 - 00:30:17,420] he will say,
+- [00:30:17,420 - 00:30:20,140] that's extraordinarily unlikely,
+- [00:30:20,400 - 00:30:22,020] even much more unlikely,
+- [00:30:22,020 - 00:30:24,840] so my theory is probably wrong
+- [00:30:24,840 - 00:30:27,320] that I'm the result of a random fluctuation.
+- [00:30:28,200 - 00:30:28,400] That's,
+- [00:30:28,400 - 00:30:28,800] yeah,
+- [00:30:28,800 - 00:30:29,220] okay.
+- [00:30:29,940 - 00:30:30,940] All right,
+- [00:30:30,940 - 00:30:31,440] this is good.
+- [00:30:31,660 - 00:30:33,560] What is historical coherence?
+- [00:30:33,760 - 00:30:36,060] You mentioned the word historic.
+- [00:30:36,060 - 00:30:37,080] Can you define it?
+- [00:30:38,320 - 00:30:40,160] We couldn't explain it historically.
+- [00:30:40,180 - 00:30:41,920] One textbook says George Washington.
+- [00:30:41,940 - 00:30:43,180] George Washington chopped down a cherry tree,
+- [00:30:43,320 - 00:30:44,820] and then you go and look at another textbook,
+- [00:30:45,020 - 00:30:45,900] it says the same thing.
+- [00:30:47,020 - 00:30:49,080] But if the world was just a fluctuation,
+- [00:30:49,160 - 00:30:50,500] it was just made by fluctuation,
+- [00:30:51,340 - 00:30:53,480] and one textbook happened to say
+- [00:30:53,480 - 00:30:55,900] George Washington chopped down a cherry tree,
+- [00:30:56,020 - 00:30:57,420] there'd be no reason to expect the
+- [00:30:57,420 - 00:30:58,820] other textbook to say the same thing.
+- [00:30:58,960 - 00:30:59,920] He chopped the tree.
+- [00:31:00,460 - 00:31:02,060] Why would they not vote for him?
+- [00:31:02,060 - 00:31:02,160] No,
+- [00:31:02,160 - 00:31:02,260] no,
+- [00:31:02,260 - 00:31:03,020] he didn't chop the tree.
+- [00:31:03,080 - 00:31:05,840] The world just materialized accidentally in a configuration
+- [00:31:05,840 - 00:31:09,520] in which the textbook said he chopped the tree.
+- [00:31:10,480 - 00:31:11,300] Don't worry about it.
+- [00:31:11,300 - 00:31:12,840] This is not the right theory of nature.
+- [00:31:13,620 - 00:31:14,100] Yeah,
+- [00:31:14,100 - 00:31:15,700] doesn't this just say that
+- [00:31:15,700 - 00:31:17,300] we could live in a world
+- [00:31:17,300 - 00:31:19,820] that's closed system that's extremely long,
+- [00:31:19,820 - 00:31:21,440] time constant to reach equilibrium?
+- [00:31:24,020 - 00:31:24,500] Yes,
+- [00:31:24,500 - 00:31:25,860] but it would still be true.
+- [00:31:26,220 - 00:31:26,700] Yeah,
+- [00:31:26,700 - 00:31:27,760] you could say that,
+- [00:31:28,260 - 00:31:30,660] but then you would nevertheless say
+- [00:31:31,300 - 00:31:32,720] if you wait long enough,
+- [00:31:32,720 - 00:31:33,820] there will be many,
+- [00:31:33,820 - 00:31:34,300] many,
+- [00:31:34,300 - 00:31:35,820] many replicas of you
+- [00:31:35,820 - 00:31:36,860] in the future,
+- [00:31:36,860 - 00:31:39,460] and almost all of them
+- [00:31:39,460 - 00:31:43,160] will not see a coherent history.
+- [00:31:43,720 - 00:31:47,200] So if you make your best guess,
+- [00:31:47,280 - 00:31:48,800] you find yourself here today,
+- [00:31:49,520 - 00:31:50,560] and you ask,
+- [00:31:50,560 - 00:31:51,700] how did I get here?
+- [00:31:51,900 - 00:31:53,970] The overwhelming majority of people
+- [00:31:53,970 - 00:31:56,040] who wake up in the morning
+- [00:31:56,040 - 00:31:58,060] and ask that question will be ones who
+- [00:31:58,060 - 00:32:00,080] came out of one of these random fluctuations.
+- [00:32:01,120 - 00:32:01,700] Now,
+- [00:32:01,700 - 00:32:03,420] is this a serious concern?
+- [00:32:03,800 - 00:32:05,880] Should we worry about that?
+- [00:32:06,320 - 00:32:07,500] I can tell you,
+- [00:32:07,500 - 00:32:09,440] cosmologists do worry about that.
+- [00:32:11,540 - 00:32:13,340] Serious theoretical cosmologists.
+- [00:32:13,520 - 00:32:15,400] But I'm not going to try to sell you anything.
+- [00:32:16,140 - 00:32:19,980] It is something that is of concern,
+- [00:32:21,100 - 00:32:22,980] that if we want to use statistics
+- [00:32:23,960 - 00:32:27,840] and ask what's the most probable thing we should see,
+- [00:32:28,080 - 00:32:28,860] given that we're here,
+- [00:32:29,320 - 00:32:30,810] we have to take into account all
+- [00:32:30,810 - 00:32:32,300] the ways we could have gotten here.
+- [00:32:32,900 - 00:32:34,780] Most of the ways we could have gotten here
+- [00:32:34,780 - 00:32:36,980] would be by random fluctuation,
+- [00:32:38,399 - 00:32:39,440] and history would be,
+- [00:32:39,460 - 00:32:40,600] and history would not be coherent for them.
+- [00:32:40,980 - 00:32:41,500] Okay,
+- [00:32:41,500 - 00:32:43,300] that's the problem with Boltzmann brains.
+- [00:32:43,560 - 00:32:43,980] Question?
+- [00:32:44,700 - 00:32:47,170] Is there anything that can be said about
+- [00:32:47,170 - 00:32:49,640] the fact that life seems to decrease entropy?
+- [00:32:50,900 - 00:32:51,420] No,
+- [00:32:51,420 - 00:32:52,220] of course it doesn't.
+- [00:32:52,340 - 00:32:52,620] No,
+- [00:32:52,620 - 00:32:52,740] no,
+- [00:32:52,740 - 00:32:53,560] of course it doesn't.
+- [00:32:55,040 - 00:32:56,360] Life does not...
+- [00:32:57,660 - 00:32:58,180] Yes,
+- [00:32:58,180 - 00:33:00,200] but it's always at the cost
+- [00:33:00,200 - 00:33:02,220] of something else increasing its entropy.
+- [00:33:04,960 - 00:33:07,140] The second law does not say
+- [00:33:07,660 - 00:33:12,160] that some subsystem of the world can't decrease its entropy,
+- [00:33:12,460 - 00:33:14,210] but it will always be at
+- [00:33:14,210 - 00:33:15,960] the cost of some other subsystem
+- [00:33:16,560 - 00:33:18,520] increasing its entropy even more.
+- [00:33:19,560 - 00:33:20,040] So...
+- [00:33:21,580 - 00:33:23,120] But it seems like it sticks and
+- [00:33:23,120 - 00:33:24,660] it goes for a very long time.
+- [00:33:24,760 - 00:33:26,960] It's not just something that comes together and goes away.
+- [00:33:27,240 - 00:33:29,320] It seems to keep maintaining itself.
+- [00:33:29,480 - 00:33:30,740] It seems kind of a little strange.
+- [00:33:31,220 - 00:33:33,160] It's the flow of energy from the sun.
+- [00:33:34,159 - 00:33:36,260] The Earth is not in equilibrium.
+- [00:33:36,260 - 00:33:38,640] It's in a stationary configuration.
+- [00:33:38,800 - 00:33:40,720] Stationary means it stays the same,
+- [00:33:40,720 - 00:33:41,500] but there's a flow.
+- [00:33:41,860 - 00:33:44,170] If you have a system which
+- [00:33:44,170 - 00:33:46,480] has a flow moving through it,
+- [00:33:46,580 - 00:33:49,600] it can create interesting structures.
+- [00:33:49,900 - 00:33:50,960] For example,
+- [00:33:50,960 - 00:33:54,920] a flow of water through a pipe can create vortices
+- [00:33:54,920 - 00:33:56,540] that spin off and spin off.
+- [00:33:56,780 - 00:33:58,960] Those vortices have a structure.
+- [00:33:59,180 - 00:33:59,860] You know,
+- [00:33:59,860 - 00:34:01,760] little eddy currents and so forth.
+- [00:34:01,840 - 00:34:03,160] Eddy currents have a structure.
+- [00:34:04,520 - 00:34:06,240] The water flows through a pipe.
+- [00:34:06,260 - 00:34:07,820] The water flowing through the pipe creates them.
+- [00:34:08,159 - 00:34:09,969] And you can imagine that little
+- [00:34:09,969 - 00:34:11,780] eddy currents could have enough structure
+- [00:34:11,780 - 00:34:14,040] to have some interesting properties.
+- [00:34:14,760 - 00:34:16,920] But if you stop the flow by
+- [00:34:16,920 - 00:34:19,080] sealing off the ends of the pipe,
+- [00:34:19,320 - 00:34:20,600] then what happens?
+- [00:34:20,860 - 00:34:22,060] The eddy currents disappear,
+- [00:34:22,440 - 00:34:24,860] and it just returns to a quiescent,
+- [00:34:24,860 - 00:34:25,400] dull,
+- [00:34:25,400 - 00:34:26,580] boring equilibrium.
+- [00:34:27,980 - 00:34:30,620] So what is the flow in the case of life
+- [00:34:30,620 - 00:34:35,239] that allows this kind of apparent...
+- [00:34:38,420 - 00:34:39,820] violation of the principle?
+- [00:34:40,639 - 00:34:41,100] Incidentally,
+- [00:34:41,100 - 00:34:41,400] of course,
+- [00:34:41,400 - 00:34:43,260] even in that flow situation,
+- [00:34:43,520 - 00:34:45,580] the total entropy of everything is increasing,
+- [00:34:46,080 - 00:34:47,840] even though you're making it
+- [00:34:47,840 - 00:34:49,600] a pump and a sink of...
+- [00:34:50,170 - 00:34:51,600] The water's coming in one end,
+- [00:34:51,600 - 00:34:52,620] going out the other end.
+- [00:34:52,719 - 00:34:54,159] It comes out warmer out the other
+- [00:34:54,159 - 00:34:55,600] end than it came in this end.
+- [00:34:56,040 - 00:34:57,860] So altogether,
+- [00:34:57,860 - 00:34:59,640] the second law is not being violated.
+- [00:35:00,700 - 00:35:02,800] The same thing is true on Earth.
+- [00:35:02,800 - 00:35:06,880] The flow is the flow of energy from the sun.
+- [00:35:09,020 - 00:35:11,900] If we sealed up the Earth,
+- [00:35:12,500 - 00:35:14,080] didn't let sunlight in,
+- [00:35:14,080 - 00:35:15,440] didn't let sunlight out,
+- [00:35:16,040 - 00:35:18,540] everything would eventually come to thermal equilibrium.
+- [00:35:18,840 - 00:35:19,540] It would be dull.
+- [00:35:19,540 - 00:35:20,600] There would be no life.
+- [00:35:20,800 - 00:35:22,500] And we would just have featureless...
+- [00:35:24,700 - 00:35:25,820] thermal equilibrium.
+- [00:35:30,500 - 00:35:32,780] Life is a kind of eddy flow.
+- [00:35:32,800 - 00:35:35,580] It's a kind of eddy currents or little vortices
+- [00:35:35,580 - 00:35:37,940] that appear in a moving fluid,
+- [00:35:38,080 - 00:35:39,760] the fluid being energy from the sun.
+- [00:35:42,120 - 00:35:42,680] Okay.
+- [00:35:44,160 - 00:35:44,720] Well,
+- [00:35:44,720 - 00:35:47,860] we spent an hour talking about interesting things.
+- [00:35:48,920 - 00:35:51,060] Now we can get back to some dull things.
+- [00:35:54,620 - 00:35:55,180] Magnets.
+- [00:35:57,560 - 00:35:58,680] Magnets are...
+- [00:35:58,680 - 00:36:00,200] When we talk about magnets,
+- [00:36:00,200 - 00:36:01,000] incidentally,
+- [00:36:01,000 - 00:36:02,360] in statistical mechanics,
+- [00:36:02,800 - 00:36:05,380] we're usually not talking about pieces of iron.
+- [00:36:08,360 - 00:36:11,560] We're usually talking about mathematical models
+- [00:36:11,560 - 00:36:13,460] of a certain kind of system
+- [00:36:13,460 - 00:36:19,920] that has certain features that resemble magnetism.
+- [00:36:21,440 - 00:36:22,720] So first of all,
+- [00:36:22,720 - 00:36:23,700] what is a magnet?
+- [00:36:25,680 - 00:36:27,360] Whatever a magnet is,
+- [00:36:27,360 - 00:36:28,340] an ordinary magnet,
+- [00:36:29,060 - 00:36:31,420] it's made up of lots of little magnets.
+- [00:36:34,440 - 00:36:35,970] Little magnets could even be
+- [00:36:35,970 - 00:36:37,500] as small as a single atom.
+- [00:36:41,100 - 00:36:43,340] Or they could be little crystal grains.
+- [00:36:43,980 - 00:36:45,620] But whatever a magnet is,
+- [00:36:45,620 - 00:36:46,780] it's made up of little magnets.
+- [00:36:49,380 - 00:36:50,500] And typically,
+- [00:36:50,500 - 00:36:53,140] at room temperature,
+- [00:36:53,300 - 00:36:55,100] at some ordinary temperature,
+- [00:36:56,960 - 00:36:59,860] room temperature being rather high in this context,
+- [00:36:59,920 - 00:37:00,800] could be rather high,
+- [00:37:00,920 - 00:37:02,780] but certainly at very high temperatures,
+- [00:37:02,780 - 00:37:04,220] at a temperature of 1,000 degrees or whatever,
+- [00:37:05,500 - 00:37:08,380] those little magnets are randomly oriented
+- [00:37:08,380 - 00:37:11,820] in such a way that the net sample
+- [00:37:12,720 - 00:37:14,660] doesn't have a net orientation.
+- [00:37:15,780 - 00:37:19,240] The orientation is random.
+- [00:37:19,700 - 00:37:21,210] And not just is the
+- [00:37:21,210 - 00:37:22,720] orientation of the whole thing random,
+- [00:37:22,860 - 00:37:24,220] but the relative orientation of
+- [00:37:24,220 - 00:37:25,580] the parts of it are random,
+- [00:37:25,720 - 00:37:29,100] and so there's no net magnetization.
+- [00:37:29,520 - 00:37:31,300] You don't see a magnetic...
+- [00:37:31,300 - 00:37:32,760] a macroscopic magnetic field.
+- [00:37:32,760 - 00:37:33,160] There's no magnetic field from it.
+- [00:37:34,640 - 00:37:36,240] If you cool it down,
+- [00:37:37,760 - 00:37:40,680] and if the energies stored
+- [00:37:40,680 - 00:37:43,600] in pairs of these little magnets
+- [00:37:43,600 - 00:37:45,840] is such that the magnets like
+- [00:37:45,840 - 00:37:48,080] to line up in the same direction,
+- [00:37:49,520 - 00:37:51,380] as you start to cool it down,
+- [00:37:51,640 - 00:37:54,420] you find out that lumps,
+- [00:37:54,420 - 00:37:55,760] groups of magnets,
+- [00:37:55,980 - 00:37:59,060] groups of little magnets tend to be in alignment,
+- [00:37:59,360 - 00:38:01,740] but other little groups of magnets
+- [00:38:02,760 - 00:38:03,500] tend to be in alignment,
+- [00:38:03,640 - 00:38:04,660] but in other directions.
+- [00:38:05,660 - 00:38:08,040] And you'll find sort of domains,
+- [00:38:08,320 - 00:38:10,840] domains which are magnetized,
+- [00:38:10,900 - 00:38:13,020] which means they tend to point in the same direction,
+- [00:38:13,720 - 00:38:16,380] but these domains are still fairly small.
+- [00:38:17,300 - 00:38:18,880] If you cool it down...
+- [00:38:18,880 - 00:38:18,960] Now,
+- [00:38:18,960 - 00:38:20,820] these are experimental facts,
+- [00:38:21,580 - 00:38:24,240] and not completely hard to understand,
+- [00:38:24,460 - 00:38:26,120] but as you cool it down more and more,
+- [00:38:28,320 - 00:38:28,840] energy,
+- [00:38:28,840 - 00:38:30,340] the energy consideration,
+- [00:38:30,340 - 00:38:32,620] that things like to be in the same direction,
+- [00:38:32,880 - 00:38:36,180] like means that the energy is lower
+- [00:38:36,180 - 00:38:38,000] if the magnets are parallel.
+- [00:38:38,700 - 00:38:41,160] If the energy is lower if the magnets are parallel,
+- [00:38:42,620 - 00:38:45,520] then as you suck energy out of the system,
+- [00:38:45,740 - 00:38:47,340] more and more of them
+- [00:38:47,340 - 00:38:48,940] will want to come into alignment,
+- [00:38:49,780 - 00:38:52,880] and these domains will start to grow.
+- [00:38:54,420 - 00:38:55,460] And eventually,
+- [00:38:55,460 - 00:38:57,940] you may or may not hit a point
+- [00:38:58,680 - 00:39:00,520] at finite temperature,
+- [00:39:00,820 - 00:39:02,480] not at zero temperature,
+- [00:39:02,820 - 00:39:05,360] you may or may not hit a point
+- [00:39:05,360 - 00:39:08,080] at which all of a sudden
+- [00:39:08,080 - 00:39:11,220] these domains become infinitely big
+- [00:39:11,220 - 00:39:16,080] so that the magnets tend to be somewhat lined up
+- [00:39:16,080 - 00:39:17,960] everywheres in the same direction.
+- [00:39:18,720 - 00:39:21,020] That's called a ferromagnetic transition,
+- [00:39:21,280 - 00:39:22,460] and it's a phase transition,
+- [00:39:22,720 - 00:39:26,300] and it's basically the simplest kind of phase transition.
+- [00:39:28,540 - 00:39:30,700] Certainly at zero temperature,
+- [00:39:31,120 - 00:39:33,380] you'll expect them to be all lined up.
+- [00:39:33,460 - 00:39:33,900] Why is that?
+- [00:39:34,220 - 00:39:35,800] Because at zero temperature,
+- [00:39:35,980 - 00:39:39,140] the only state of importance in Boltzmann distribution
+- [00:39:39,140 - 00:39:41,420] is the lowest energy state.
+- [00:39:41,700 - 00:39:43,300] When the temperature is zero,
+- [00:39:43,400 - 00:39:45,120] only the lowest energy state,
+- [00:39:45,380 - 00:39:47,180] and the lowest energy state,
+- [00:39:47,360 - 00:39:51,900] all the microscopic atoms
+- [00:39:51,900 - 00:39:55,080] or the microscopic magnets line up.
+- [00:39:55,080 - 00:39:56,080] Yeah?
+- [00:39:56,200 - 00:39:56,720] Question.
+- [00:39:56,820 - 00:39:58,020] If you have two,
+- [00:39:58,140 - 00:40:00,220] I'm thinking about microscopic magnets,
+- [00:40:01,740 - 00:40:04,560] wouldn't they prefer to anti-align?
+- [00:40:04,820 - 00:40:06,940] It depends on the details.
+- [00:40:07,680 - 00:40:09,140] In a piece of iron,
+- [00:40:09,140 - 00:40:09,760] they like to align.
+- [00:40:12,960 - 00:40:14,440] I know what you're thinking.
+- [00:40:14,640 - 00:40:14,760] Yeah,
+- [00:40:14,760 - 00:40:17,200] you're thinking North Pole wants to grab the South Pole.
+- [00:40:17,480 - 00:40:18,860] It's just a little more complicated.
+- [00:40:19,260 - 00:40:21,180] And that's partly why there
+- [00:40:21,180 - 00:40:23,100] aren't that many magnetic materials.
+- [00:40:24,040 - 00:40:24,560] Right.
+- [00:40:25,080 - 00:40:27,440] There's a tendency for them to want to anti-align,
+- [00:40:27,540 - 00:40:29,520] but there's also competing things going on.
+- [00:40:31,560 - 00:40:34,870] Do they have to have an external
+- [00:40:34,870 - 00:40:38,180] magnetic field in the cool to line up?
+- [00:40:38,400 - 00:40:38,720] No.
+- [00:40:38,880 - 00:40:39,380] No.
+- [00:40:39,640 - 00:40:40,240] No.
+- [00:40:40,380 - 00:40:42,960] But which direction they line up in may be random.
+- [00:40:44,140 - 00:40:44,740] Right.
+- [00:40:46,920 - 00:40:50,600] And that in itself is called spontaneous symmetry breaking.
+- [00:40:50,740 - 00:40:54,680] We're going to be talking about simple magnetic systems,
+- [00:40:54,680 - 00:40:57,960] the tendency toward order as you cool them.
+- [00:40:58,040 - 00:41:00,380] Order means parallelness in this case.
+- [00:41:01,360 - 00:41:02,040] And the,
+- [00:41:02,040 - 00:41:05,040] okay,
+- [00:41:05,040 - 00:41:07,110] so let me make a
+- [00:41:07,110 - 00:41:09,180] remark about what you just asked.
+- [00:41:09,260 - 00:41:10,120] I think you just asked it.
+- [00:41:11,320 - 00:41:13,840] They could all line up this way,
+- [00:41:13,840 - 00:41:15,780] or they could all line up this way,
+- [00:41:15,840 - 00:41:17,380] or they could all line up that way.
+- [00:41:19,040 - 00:41:20,780] And which way do they line up?
+- [00:41:20,800 - 00:41:22,420] Which way do they wind up lining up?
+- [00:41:22,420 - 00:41:26,300] And that itself might be defined or
+- [00:41:26,300 - 00:41:30,180] determined by the tiniest little stray magnetic field.
+- [00:41:31,300 - 00:41:33,320] Just one molecule,
+- [00:41:33,320 - 00:41:39,840] just one little elementary atom being in a magnetic field,
+- [00:41:40,020 - 00:41:41,820] which tends to line it up a little bit,
+- [00:41:41,940 - 00:41:44,690] may govern the whole thing about
+- [00:41:44,690 - 00:41:47,440] the way the whole system lines up.
+- [00:41:48,140 - 00:41:48,980] There's a symmetry.
+- [00:41:49,120 - 00:41:51,320] The symmetry is which way things point.
+- [00:41:52,620 - 00:41:55,040] If they wind up pointing in a direction,
+- [00:41:55,040 - 00:41:56,240] that symmetry is broken.
+- [00:41:56,460 - 00:41:58,160] That's called breaking the symmetry.
+- [00:41:58,420 - 00:41:59,380] There is no more symmetry,
+- [00:41:59,380 - 00:42:01,140] or at least it looks like there's no more symmetry.
+- [00:42:01,860 - 00:42:03,200] But it's spontaneous.
+- [00:42:03,500 - 00:42:05,070] There's no magnetic field
+- [00:42:05,070 - 00:42:06,640] pushing everything in that direction.
+- [00:42:06,820 - 00:42:08,000] It just had to pick a direction.
+- [00:42:08,120 - 00:42:08,760] It picked a direction.
+- [00:42:09,040 - 00:42:11,280] It may be because of a tiny,
+- [00:42:11,280 - 00:42:11,680] tiny,
+- [00:42:11,680 - 00:42:13,540] tiny little stray magnetic field.
+- [00:42:14,860 - 00:42:16,360] But we're going to talk about it.
+- [00:42:16,420 - 00:42:17,680] These are the things we're going to talk about.
+- [00:42:18,320 - 00:42:21,300] And the point at which the symmetry is broken,
+- [00:42:21,320 - 00:42:23,860] the point at which the magnets tend
+- [00:42:23,860 - 00:42:26,400] to line themselves up in some direction,
+- [00:42:26,660 - 00:42:28,280] that's a phase transition.
+- [00:42:28,960 - 00:42:31,110] And that phase transition is
+- [00:42:31,110 - 00:42:33,260] called the magnetic phase transition.
+- [00:42:34,540 - 00:42:35,520] All right.
+- [00:42:35,580 - 00:42:37,300] So first of all,
+- [00:42:37,300 - 00:42:39,240] don't think about literal magnets,
+- [00:42:40,339 - 00:42:45,059] because the model systems that
+- [00:42:45,059 - 00:42:49,780] are studied often are quite unrealistic
+- [00:42:49,780 - 00:42:51,300] as theories of physics.
+- [00:42:51,300 - 00:42:51,440] They're not really magnetic.
+- [00:42:51,440 - 00:42:53,540] They're just a bunch of ferromagnetic chunks of iron.
+- [00:42:55,060 - 00:42:58,500] What makes them interesting is,
+- [00:42:58,500 - 00:42:58,840] of course,
+- [00:42:58,860 - 00:43:01,480] that they resemble a lot of other things in nature
+- [00:43:02,600 - 00:43:08,740] and that they're mathematically simple enough to study
+- [00:43:08,740 - 00:43:10,490] and interesting enough to
+- [00:43:10,490 - 00:43:12,240] exhibit features like phase transitions.
+- [00:43:12,480 - 00:43:13,700] That's what makes them interesting.
+- [00:43:14,300 - 00:43:14,940] OK.
+- [00:43:15,040 - 00:43:16,920] So let's start with the very,
+- [00:43:16,920 - 00:43:18,540] very simplest magnet.
+- [00:43:21,300 - 00:43:21,480] As I say,
+- [00:43:21,480 - 00:43:23,280] don't think of it as a real magnet.
+- [00:43:23,540 - 00:43:25,550] This kind of magnet either
+- [00:43:25,550 - 00:43:27,560] points up or it points down.
+- [00:43:27,780 - 00:43:29,660] It doesn't get to point in random directions.
+- [00:43:31,120 - 00:43:32,310] You can think of it as
+- [00:43:32,310 - 00:43:33,500] heads and tails if you like.
+- [00:43:33,940 - 00:43:36,840] But this very simple mathematical magnet
+- [00:43:36,840 - 00:43:39,740] either points up or it points down.
+- [00:43:41,560 - 00:43:43,140] So and we'll...
+- [00:43:45,060 - 00:43:47,900] It doesn't matter how they're laid out on the blackboard,
+- [00:43:48,000 - 00:43:49,420] but let's lay them out and align.
+- [00:43:51,300 - 00:43:53,080] Some of them are up.
+- [00:43:53,240 - 00:43:54,500] Some of them are down.
+- [00:43:56,620 - 00:43:59,580] And we want to make a statistical mechanics of this
+- [00:44:00,210 - 00:44:02,945] and ask such questions of what's
+- [00:44:02,945 - 00:44:05,680] the relative percentage of ups and downs,
+- [00:44:06,320 - 00:44:07,980] what's the energy of the magnet,
+- [00:44:07,980 - 00:44:08,880] and so forth.
+- [00:44:09,620 - 00:44:10,000] All right.
+- [00:44:10,020 - 00:44:11,040] So before we begin,
+- [00:44:11,040 - 00:44:13,300] if we're going to be talking about statistical mechanics
+- [00:44:13,300 - 00:44:14,340] in the Boltzmann distribution,
+- [00:44:14,340 - 00:44:17,060] we have to have an energy function.
+- [00:44:17,840 - 00:44:18,340] Remember,
+- [00:44:18,340 - 00:44:20,100] e to the minus beta times the energy.
+- [00:44:20,100 - 00:44:21,340] We have to know what the energy is.
+- [00:44:21,680 - 00:44:22,160] So,
+- [00:44:22,160 - 00:44:22,500] yeah.
+- [00:44:22,820 - 00:44:24,260] When you say them,
+- [00:44:24,260 - 00:44:27,260] do I think of these as particles or...
+- [00:44:27,260 - 00:44:29,300] You can think of them as atoms in a crystal,
+- [00:44:29,300 - 00:44:30,180] for example.
+- [00:44:30,520 - 00:44:31,000] Yeah.
+- [00:44:31,500 - 00:44:33,500] You can think of them as atoms in a crystal.
+- [00:44:33,900 - 00:44:38,440] The atoms have electrical currents or maybe they have spins.
+- [00:44:39,060 - 00:44:41,600] Electrical currents make little electromagnets.
+- [00:44:41,640 - 00:44:43,850] And so each atom is a magnet
+- [00:44:43,850 - 00:44:46,060] with a north pole and a south pole.
+- [00:44:46,960 - 00:44:49,680] But for the simplest model,
+- [00:44:50,100 - 00:44:50,520] if you've ever studied,
+- [00:44:50,520 - 00:44:53,080] which we're going to begin with,
+- [00:44:53,260 - 00:44:56,480] the atoms point up or point down,
+- [00:44:56,480 - 00:44:58,380] and they can't point any other way.
+- [00:44:59,160 - 00:44:59,800] And again,
+- [00:44:59,800 - 00:45:01,620] the purpose of this is to be simple.
+- [00:45:02,900 - 00:45:03,340] Okay.
+- [00:45:03,400 - 00:45:04,200] So there's a lot of them.
+- [00:45:04,280 - 00:45:04,920] How many of them?
+- [00:45:05,020 - 00:45:05,880] Capital N.
+- [00:45:07,880 - 00:45:09,100] And what is the energy?
+- [00:45:09,240 - 00:45:10,580] We're going to start with a very,
+- [00:45:10,580 - 00:45:12,280] very simple version.
+- [00:45:12,760 - 00:45:14,500] In the very simple version,
+- [00:45:14,500 - 00:45:18,360] there's no interaction between the atom,
+- [00:45:18,360 - 00:45:20,140] between the magnets at all,
+- [00:45:20,140 - 00:45:23,120] but there is a magnetic field.
+- [00:45:24,060 - 00:45:25,830] There's a magnetic field either
+- [00:45:25,830 - 00:45:27,600] pointing up or pointing down.
+- [00:45:28,500 - 00:45:31,900] I'm not sure which way my notes actually correspond to.
+- [00:45:32,140 - 00:45:33,600] There's a magnetic field.
+- [00:45:34,080 - 00:45:36,400] Each atom has a magnetic moment.
+- [00:45:36,520 - 00:45:38,540] That's just a little number attached to it,
+- [00:45:38,580 - 00:45:40,100] which tells you how strongly
+- [00:45:40,100 - 00:45:41,620] it interacts with the magnetic field.
+- [00:45:42,000 - 00:45:44,100] It has a magnetic moment called mu.
+- [00:45:46,000 - 00:45:47,580] It has to do with...
+- [00:45:48,360 - 00:45:49,360] with the strength of the magnet,
+- [00:45:49,360 - 00:45:49,820] basically.
+- [00:45:50,740 - 00:45:52,180] There's a magnetic field.
+- [00:45:54,540 - 00:45:57,120] The magnetic field is either pointing up or down,
+- [00:45:57,240 - 00:45:58,880] and I can't remember which way I chose it.
+- [00:45:59,020 - 00:45:59,260] Well,
+- [00:45:59,260 - 00:46:00,160] let's not worry about it.
+- [00:46:00,480 - 00:46:03,160] But the energy of one of these magnets
+- [00:46:03,160 - 00:46:05,840] is different if it's up or if it's down.
+- [00:46:06,600 - 00:46:07,480] In particular,
+- [00:46:07,480 - 00:46:11,420] if the magnet is up,
+- [00:46:12,300 - 00:46:15,880] I think we give it a plus energy,
+- [00:46:16,100 - 00:46:18,060] and if the magnet is down,
+- [00:46:18,360 - 00:46:19,280] we give it a minus energy.
+- [00:46:19,720 - 00:46:23,020] So let's invent a variable for each magnet.
+- [00:46:23,620 - 00:46:24,720] Let's give it a name.
+- [00:46:24,780 - 00:46:25,680] Let's call it sigma.
+- [00:46:26,240 - 00:46:28,500] This is the sigma for the first atom.
+- [00:46:28,720 - 00:46:30,760] And this is sigma for the second atom.
+- [00:46:31,120 - 00:46:31,680] Blah,
+- [00:46:31,680 - 00:46:31,800] blah,
+- [00:46:31,800 - 00:46:31,980] blah,
+- [00:46:31,980 - 00:46:32,180] blah,
+- [00:46:32,180 - 00:46:32,320] blah.
+- [00:46:32,460 - 00:46:34,640] And sigma is either plus or minus one.
+- [00:46:35,520 - 00:46:38,760] It's just a label or a variable
+- [00:46:39,700 - 00:46:42,380] which is plus or minus one.
+- [00:46:42,660 - 00:46:44,720] So if the first spin is up,
+- [00:46:44,880 - 00:46:48,020] that means sigma one is up.
+- [00:46:48,020 - 00:46:48,520] It's plus.
+- [00:46:49,560 - 00:46:51,160] If the second spin is down,
+- [00:46:51,260 - 00:46:53,300] it means sigma two is minus.
+- [00:46:53,920 - 00:46:54,840] And so forth.
+- [00:46:55,440 - 00:46:55,920] Okay,
+- [00:46:55,920 - 00:46:57,640] what is the energy of this system?
+- [00:46:58,740 - 00:47:00,520] If the spin is up,
+- [00:47:02,160 - 00:47:04,860] then the energy is positive,
+- [00:47:05,380 - 00:47:07,580] and it's just equal to mu times h.
+- [00:47:10,200 - 00:47:11,580] What if the spin is down?
+- [00:47:11,680 - 00:47:12,580] What's the energy then?
+- [00:47:14,000 - 00:47:14,480] Okay,
+- [00:47:14,480 - 00:47:15,520] supposing there are n,
+- [00:47:15,660 - 00:47:16,320] little n,
+- [00:47:16,320 - 00:47:19,060] little n spins up,
+- [00:47:19,260 - 00:47:21,640] and little m spins down.
+- [00:47:21,840 - 00:47:22,480] What's the energy?
+- [00:47:25,080 - 00:47:26,600] The energy is equal
+- [00:47:28,080 - 00:47:31,940] to little n minus little m
+- [00:47:31,940 - 00:47:34,720] times mu times h.
+- [00:47:36,400 - 00:47:38,410] Mu times h is the energy
+- [00:47:38,410 - 00:47:40,420] of one spin if it's up,
+- [00:47:41,160 - 00:47:42,650] and minus mu times h
+- [00:47:42,650 - 00:47:44,140] is the spin if it's down.
+- [00:47:44,140 - 00:47:44,780] n,
+- [00:47:44,780 - 00:47:46,600] little n,
+- [00:47:46,800 - 00:47:49,920] equals the number of ups,
+- [00:47:50,660 - 00:47:55,080] and little m is the number of downs.
+- [00:47:58,040 - 00:48:00,560] What's little n plus little m?
+- [00:48:02,420 - 00:48:03,200] Big N.
+- [00:48:04,220 - 00:48:06,840] So little n plus little
+- [00:48:06,840 - 00:48:09,460] m is equal to capital N.
+- [00:48:11,480 - 00:48:12,080] Okay,
+- [00:48:12,080 - 00:48:13,040] we're good to go now.
+- [00:48:13,040 - 00:48:15,020] We can write down the Boltzmann distribution,
+- [00:48:15,320 - 00:48:17,040] and we can calculate anything we want
+- [00:48:17,040 - 00:48:18,300] using statistical mechanics.
+- [00:48:19,220 - 00:48:20,980] So let's do that.
+- [00:48:21,420 - 00:48:22,820] What are the dimensions,
+- [00:48:22,820 - 00:48:23,200] please,
+- [00:48:23,240 - 00:48:23,860] excuse me,
+- [00:48:23,860 - 00:48:25,700] of h and e?
+- [00:48:26,260 - 00:48:27,980] What are the dimensions?
+- [00:48:29,400 - 00:48:29,820] I mean,
+- [00:48:29,820 - 00:48:31,860] is h a number or a magnetic field?
+- [00:48:32,380 - 00:48:33,220] For us,
+- [00:48:33,220 - 00:48:33,640] it's a number.
+- [00:48:33,800 - 00:48:35,380] It's the strength of the magnetic field.
+- [00:48:37,180 - 00:48:39,180] It's an external magnetic field
+- [00:48:39,180 - 00:48:41,400] imposed on the magnet from outside.
+- [00:48:41,400 - 00:48:43,480] So for our purposes,
+- [00:48:43,480 - 00:48:44,920] it's a number.
+- [00:48:46,680 - 00:48:48,240] And mu is also a number.
+- [00:48:48,920 - 00:48:52,460] And we might as well put mu and h together
+- [00:48:52,460 - 00:48:54,720] and just call the whole thing a number.
+- [00:48:56,380 - 00:48:57,340] That's often done.
+- [00:48:58,780 - 00:49:00,260] Sometimes it's called little h,
+- [00:49:00,460 - 00:49:01,960] but I thought I would just
+- [00:49:01,960 - 00:49:03,460] expose the various pieces of it.
+- [00:49:05,060 - 00:49:06,490] Would you prefer it called
+- [00:49:06,490 - 00:49:07,920] big H times mu little h
+- [00:49:07,920 - 00:49:09,560] and never see mu and the big H again?
+- [00:49:09,720 - 00:49:10,540] We could do that.
+- [00:49:10,540 - 00:49:11,100] It doesn't matter.
+- [00:49:11,340 - 00:49:11,900] OK.
+- [00:49:13,180 - 00:49:14,000] All right.
+- [00:49:14,400 - 00:49:14,960] Now...
+- [00:49:14,960 - 00:49:15,600] Excuse me,
+- [00:49:15,600 - 00:49:16,080] what is e?
+- [00:49:17,600 - 00:49:18,160] Oh,
+- [00:49:18,160 - 00:49:18,480] sorry,
+- [00:49:18,480 - 00:49:19,520] e equals...
+- [00:49:21,279 - 00:49:22,160] This is the energy,
+- [00:49:22,160 - 00:49:23,460] and it equals...
+- [00:49:23,460 - 00:49:24,040] Good,
+- [00:49:24,040 - 00:49:24,580] thank you.
+- [00:49:25,500 - 00:49:27,020] Energy equals that.
+- [00:49:27,940 - 00:49:28,500] OK.
+- [00:49:29,540 - 00:49:30,100] Now,
+- [00:49:30,100 - 00:49:32,680] how many configurations are there...
+- [00:49:33,600 - 00:49:35,940] How many configurations are there
+- [00:49:37,760 - 00:49:39,900] with little n ups
+- [00:49:40,540 - 00:49:42,040] and little m downs?
+- [00:49:42,580 - 00:49:44,680] Without asking which ones are which,
+- [00:49:45,419 - 00:49:47,320] how many configurations are there?
+- [00:49:47,440 - 00:49:48,940] We have capital N things,
+- [00:49:49,560 - 00:49:52,100] and we want to group them into two groups.
+- [00:49:53,760 - 00:49:55,200] One group of little n
+- [00:49:55,200 - 00:49:56,640] and one group of little m.
+- [00:49:57,560 - 00:50:00,140] How many such configurations are there?
+- [00:50:00,240 - 00:50:01,780] How many such arrangements are there?
+- [00:50:02,640 - 00:50:04,100] That's a combinatoric problem.
+- [00:50:04,600 - 00:50:05,240] All right.
+- [00:50:05,940 - 00:50:06,460] Yeah.
+- [00:50:06,900 - 00:50:07,420] Yeah,
+- [00:50:07,420 - 00:50:08,320] but let's write it down.
+- [00:50:08,320 - 00:50:13,420] The number of configurations with this value of energy...
+- [00:50:13,420 - 00:50:16,880] The number of configurations with this value of energy
+- [00:50:16,880 - 00:50:20,380] is capital N factorial...
+- [00:50:21,140 - 00:50:22,360] This is number...
+- [00:50:23,439 - 00:50:24,560] Not mumber,
+- [00:50:24,560 - 00:50:24,880] number.
+- [00:50:28,560 - 00:50:30,220] Number of states...
+- [00:50:33,919 - 00:50:36,780] for a given n minus m
+- [00:50:36,780 - 00:50:38,600] is n factorial
+- [00:50:40,000 - 00:50:42,060] over little n factorial,
+- [00:50:42,060 - 00:50:43,660] little m factorial,
+- [00:50:44,900 - 00:50:46,810] remembering that little n and little
+- [00:50:46,810 - 00:50:48,720] m add up to big N.
+- [00:50:49,820 - 00:50:52,080] That's the number of such configurations.
+- [00:50:54,260 - 00:50:55,040] All right.
+- [00:50:56,080 - 00:50:58,280] Let's take one of those configurations
+- [00:50:58,280 - 00:51:01,000] and ask what the Boltzmann weight is for that.
+- [00:51:01,040 - 00:51:02,590] The Boltzmann weight means e to
+- [00:51:02,590 - 00:51:04,140] the minus beta times the energy.
+- [00:51:04,720 - 00:51:05,500] All right.
+- [00:51:05,500 - 00:51:06,220] In fact,
+- [00:51:06,220 - 00:51:08,430] what we're going to be doing
+- [00:51:08,430 - 00:51:10,640] is working out the partition function.
+- [00:51:11,040 - 00:51:14,820] The partition function is the sum over all configurations.
+- [00:51:17,259 - 00:51:21,020] That means it's the sum over n and m
+- [00:51:21,880 - 00:51:23,850] such that little n plus little
+- [00:51:23,850 - 00:51:25,820] m is equal to big N.
+- [00:51:25,900 - 00:51:26,900] I won't bother writing that,
+- [00:51:26,900 - 00:51:28,100] but keep that in mind.
+- [00:51:28,620 - 00:51:33,720] Times e to the minus beta times the energy,
+- [00:51:33,720 - 00:51:40,240] which is mu h times n minus m.
+- [00:51:43,680 - 00:51:45,280] So we just take this thing
+- [00:51:45,280 - 00:51:46,880] and we add them all up.
+- [00:51:48,720 - 00:51:49,360] Now,
+- [00:51:49,360 - 00:51:51,520] for each n minus m,
+- [00:51:51,840 - 00:51:54,500] there's going to be a certain number of configurations,
+- [00:51:54,640 - 00:51:56,740] and that number of configurations
+- [00:51:56,740 - 00:51:58,840] is this combinatoric coefficient here.
+- [00:51:59,220 - 00:52:01,300] So we can write this...
+- [00:52:01,300 - 00:52:01,980] Yeah.
+- [00:52:04,700 - 00:52:05,100] n,
+- [00:52:05,100 - 00:52:07,100] nm is not too variable.
+- [00:52:09,460 - 00:52:09,860] Yeah,
+- [00:52:09,860 - 00:52:10,220] they are.
+- [00:52:10,320 - 00:52:11,900] The number of ups and the number of downs.
+- [00:52:12,460 - 00:52:12,860] Well,
+- [00:52:12,860 - 00:52:14,530] I'm just saying it's not two
+- [00:52:14,530 - 00:52:16,200] variables that are independent of one another.
+- [00:52:17,320 - 00:52:18,820] They have to add up to capital N.
+- [00:52:18,820 - 00:52:19,140] That's all.
+- [00:52:20,020 - 00:52:20,420] So,
+- [00:52:20,420 - 00:52:22,380] but I'm just saying if you have...
+- [00:52:22,380 - 00:52:24,420] You can't use both of them as indices.
+- [00:52:24,800 - 00:52:24,940] No,
+- [00:52:24,940 - 00:52:25,060] no,
+- [00:52:25,060 - 00:52:25,180] no,
+- [00:52:25,180 - 00:52:25,520] they're not.
+- [00:52:27,700 - 00:52:28,400] That's what I'm saying.
+- [00:52:28,520 - 00:52:30,340] You sum over n and m,
+- [00:52:30,340 - 00:52:32,420] making sure that n plus m...
+- [00:52:32,420 - 00:52:33,140] Yeah,
+- [00:52:33,140 - 00:52:33,400] okay.
+- [00:52:33,400 - 00:52:33,700] Quick question.
+- [00:52:33,720 - 00:52:34,660] You can write it another way.
+- [00:52:34,720 - 00:52:34,800] Well,
+- [00:52:34,800 - 00:52:36,600] m is equal to n minus n,
+- [00:52:36,600 - 00:52:37,900] so it's just...
+- [00:52:37,900 - 00:52:38,000] Yeah.
+- [00:52:38,360 - 00:52:38,840] Yeah.
+- [00:52:39,380 - 00:52:39,860] Yeah,
+- [00:52:39,860 - 00:52:41,150] so let's just leave it this
+- [00:52:41,150 - 00:52:42,440] way to keep the notation simple,
+- [00:52:42,440 - 00:52:44,080] but...
+- [00:52:45,300 - 00:52:47,660] You don't need a combinatorial function inside
+- [00:52:47,660 - 00:52:50,020] the sum there before that makes sense?
+- [00:52:50,300 - 00:52:50,560] No,
+- [00:52:50,560 - 00:52:53,260] each individual configuration gives this,
+- [00:52:53,880 - 00:52:56,680] and the number of configurations
+- [00:52:56,680 - 00:52:59,480] with a given energy is this.
+- [00:52:59,560 - 00:52:59,860] All right,
+- [00:52:59,860 - 00:53:00,340] so let me...
+- [00:53:00,340 - 00:53:02,960] You'll understand when I write the formula.
+- [00:53:03,720 - 00:53:04,420] All right.
+- [00:53:04,460 - 00:53:06,040] It's the sum over just n,
+- [00:53:06,040 - 00:53:06,540] little n,
+- [00:53:06,540 - 00:53:12,650] of n factorial over little n factorial
+- [00:53:12,650 - 00:53:18,760] times big N minus little n factorial.
+- [00:53:19,500 - 00:53:22,460] This is capital N factorial,
+- [00:53:22,460 - 00:53:23,780] little n factorial,
+- [00:53:23,780 - 00:53:25,080] little m factorial,
+- [00:53:25,080 - 00:53:27,140] all right,
+- [00:53:27,140 - 00:53:30,800] times e to the minus beta.
+- [00:53:32,400 - 00:53:33,080] And...
+- [00:53:34,640 - 00:53:36,780] So let's leave it this way for a minute.
+- [00:53:37,820 - 00:53:38,540] In fact,
+- [00:53:38,540 - 00:53:39,580] let's not leave it this way.
+- [00:53:39,780 - 00:53:42,560] Let's write the following.
+- [00:53:43,240 - 00:53:46,860] e to the minus beta mu h n,
+- [00:53:46,860 - 00:53:50,360] and let's call that x.
+- [00:53:53,000 - 00:53:59,320] And let's call e to the plus beta mu h.
+- [00:53:59,560 - 00:54:00,860] I could call it 1 over x,
+- [00:54:00,860 - 00:54:02,440] but I'm going to call it y for a minute.
+- [00:54:03,720 - 00:54:05,780] Let's take these two numbers here.
+- [00:54:07,700 - 00:54:10,720] Call e to the minus beta h x,
+- [00:54:10,720 - 00:54:12,560] and the other one y.
+- [00:54:13,520 - 00:54:14,080] Okay,
+- [00:54:14,080 - 00:54:16,780] so what's e to the minus beta h times n?
+- [00:54:17,280 - 00:54:19,220] That's x to the power n.
+- [00:54:19,520 - 00:54:20,200] Do you see that?
+- [00:54:21,140 - 00:54:22,100] Can you see that?
+- [00:54:23,300 - 00:54:25,120] That's x to the power n.
+- [00:54:26,380 - 00:54:28,520] And what about the other factor here?
+- [00:54:29,700 - 00:54:31,640] That's y to the power m.
+- [00:54:33,720 - 00:54:38,180] Let's call there as mu h times m.
+- [00:54:39,620 - 00:54:40,220] All right,
+- [00:54:40,220 - 00:54:40,220] so let's check this out.
+- [00:54:40,540 - 00:54:41,480] I just...
+- [00:54:41,480 - 00:54:43,300] Remember here,
+- [00:54:43,300 - 00:54:43,720] my first example asнalified e to the power n.
+- [00:54:43,720 - 00:54:44,540] This actually is a somewhat semantic symbol,
+- [00:54:44,700 - 00:54:44,720] It's a...
+- [00:54:44,720 - 00:54:44,740] If you closed it in a few lines like this,
+- [00:54:44,740 - 00:54:44,860] it would call ho of e
+- [00:54:44,860 - 00:54:44,980] to the minus beta into 0.
+- [00:54:44,980 - 00:54:45,040] that means thecych is off.
+- [00:54:45,160 - 00:54:45,760] And cox would be 0.
+- [00:54:45,794 - 00:54:46,194] 笑
+- [00:54:49,410 - 00:54:50,950] x plus y.
+- [00:54:51,930 - 00:54:54,730] This is the binomial expansion.
+- [00:54:55,650 - 00:54:58,290] This is the binomial expansion and
+- [00:54:58,290 - 00:55:01,420] this whole thing is just equal to
+- [00:55:01,420 - 00:55:04,550] x plus y to the capital N.
+- [00:55:06,250 - 00:55:07,250] All right,
+- [00:55:07,250 - 00:55:09,750] that's the binomial expansion.
+- [00:55:10,210 - 00:55:11,590] And so we've solved it.
+- [00:55:11,610 - 00:55:13,230] We've figured out what z is.
+- [00:55:13,490 - 00:55:14,450] Let's write it down.
+- [00:55:14,450 - 00:55:17,530] Z is just x,
+- [00:55:17,530 - 00:55:21,770] this is z is equal to x,
+- [00:55:21,930 - 00:55:24,740] which is e to the
+- [00:55:24,740 - 00:55:27,550] minus beta mu h plus y,
+- [00:55:27,850 - 00:55:32,370] which is e to the plus beta mu h,
+- [00:55:33,230 - 00:55:36,810] all raised to the capital N power.
+- [00:55:38,130 - 00:55:38,670] That's it,
+- [00:55:38,670 - 00:55:39,230] that's z.
+- [00:55:41,370 - 00:55:42,090] That was easy.
+- [00:55:45,190 - 00:55:46,050] This function,
+- [00:55:46,050 - 00:55:47,390] does that function have a name?
+- [00:55:48,330 - 00:55:48,770] Well,
+- [00:55:48,770 - 00:55:50,670] let's multiply it and divide it by two.
+- [00:55:54,230 - 00:55:55,230] How about this function?
+- [00:55:55,470 - 00:55:56,150] Does it have a name?
+- [00:55:57,790 - 00:55:59,130] It's the hyperbolic cosine,
+- [00:55:59,130 - 00:55:59,570] right?
+- [00:55:59,670 - 00:56:00,930] So let's call it that.
+- [00:56:01,050 - 00:56:01,650] We might as well.
+- [00:56:02,430 - 00:56:05,330] So the answer then is two to the N.
+- [00:56:05,410 - 00:56:06,260] Now two to the N
+- [00:56:06,260 - 00:56:07,110] is not going to be interesting.
+- [00:56:07,550 - 00:56:08,390] It's a number.
+- [00:56:09,690 - 00:56:11,690] A multiplicative factor in the
+- [00:56:11,690 - 00:56:13,690] partition function usually doesn't do anything,
+- [00:56:13,690 - 00:56:14,010] but
+- [00:56:14,010 - 00:56:14,690] we'll leave it there.
+- [00:56:15,070 - 00:56:19,440] And then hyperbolic cosine of
+- [00:56:19,440 - 00:56:23,810] mu h to the power N.
+- [00:56:29,070 - 00:56:30,230] That's the partition function.
+- [00:56:30,650 - 00:56:31,250] Sorry,
+- [00:56:31,250 - 00:56:32,550] beta mu h.
+- [00:56:33,090 - 00:56:34,090] My mistake.
+- [00:56:34,450 - 00:56:35,710] Beta is awfully important.
+- [00:56:35,910 - 00:56:36,930] It's the inverse temperature.
+- [00:56:37,730 - 00:56:38,370] Without it,
+- [00:56:38,370 - 00:56:40,470] we can't differentiate with respect to it.
+- [00:56:41,230 - 00:56:42,170] All right.
+- [00:56:44,010 - 00:56:45,210] So that's our partition function.
+- [00:56:50,710 - 00:56:51,410] Now,
+- [00:56:51,410 - 00:56:53,330] supposing we're interested in the question,
+- [00:56:53,980 - 00:56:56,615] what is the relative percentage
+- [00:56:56,615 - 00:56:59,250] of up spins and down spins?
+- [00:57:00,700 - 00:57:02,130] What's the relative percentage?
+- [00:57:02,470 - 00:57:04,810] That quantity has a name.
+- [00:57:04,970 - 00:57:06,250] It's called the magnetization.
+- [00:57:07,390 - 00:57:10,690] The magnetization is zero if there are
+- [00:57:10,690 - 00:57:13,990] as many up spins as down spins.
+- [00:57:13,990 - 00:57:16,830] The magnetization is plus if there
+- [00:57:16,830 - 00:57:19,670] are more up spins than down spins.
+- [00:57:20,030 - 00:57:23,690] And magnetization is minus in the opposite situation.
+- [00:57:24,689 - 00:57:25,630] So let's define,
+- [00:57:25,630 - 00:57:26,610] first of all,
+- [00:57:26,610 - 00:57:28,030] let's define the magnetization.
+- [00:57:32,330 - 00:57:34,630] N minus M is the difference
+- [00:57:34,630 - 00:57:36,930] between up spins and down spins.
+- [00:57:37,929 - 00:57:39,370] It's sort of the magnetization,
+- [00:57:39,370 - 00:57:43,910] but it's usual to divide it by capital N,
+- [00:57:43,910 - 00:57:43,970] and then,
+- [00:57:43,970 - 00:57:47,370] so that it becomes the magnetization per magnet,
+- [00:57:47,370 - 00:57:48,370] if you know what I mean.
+- [00:57:48,810 - 00:57:49,570] So the,
+- [00:57:49,570 - 00:57:56,220] let's call the magnetization M is equal to N
+- [00:57:56,220 - 00:58:02,870] minus M times mu h divided by capital N.
+- [00:58:03,050 - 00:58:04,150] That's a definition.
+- [00:58:04,530 - 00:58:05,870] The magnetization,
+- [00:58:05,870 - 00:58:06,790] and what is it?
+- [00:58:06,930 - 00:58:09,170] It's the bias for each particle,
+- [00:58:09,170 - 00:58:10,990] whether it's up or down.
+- [00:58:11,870 - 00:58:12,910] If the magnetization is pi
+- [00:58:12,910 - 00:58:13,950] n minus n minus mu h,
+- [00:58:13,950 - 00:58:13,950] then the magnetization is equal to
+- [00:58:13,950 - 00:58:13,950] mu h divided by capital N.
+- [00:58:13,950 - 00:58:14,250] So if the magnetization is positive,
+- [00:58:14,250 - 00:58:18,430] it's sort of the average upness or downness of each,
+- [00:58:20,110 - 00:58:20,710] oh,
+- [00:58:20,710 - 00:58:22,030] I take that back.
+- [00:58:22,610 - 00:58:24,930] The magnetization is just this.
+- [00:58:26,210 - 00:58:27,770] Doesn't have the mu h there.
+- [00:58:28,130 - 00:58:29,430] And that's definition.
+- [00:58:30,529 - 00:58:31,190] That's definition,
+- [00:58:31,190 - 00:58:32,290] all right?
+- [00:58:32,810 - 00:58:36,550] The magnetization is clearly related to the energy.
+- [00:58:38,369 - 00:58:40,190] Let's just write a few equations here,
+- [00:58:40,190 - 00:58:42,950] and then we'll be able to use the partition function.
+- [00:58:43,950 - 00:58:45,770] The energy is equal,
+- [00:58:45,770 - 00:58:49,880] the energy is equal to N
+- [00:58:49,880 - 00:58:53,990] times the magnetization times mu h.
+- [00:58:54,930 - 00:58:57,660] All I've done here is say that
+- [00:58:57,660 - 00:59:00,390] N minus M is the magnetization times N,
+- [00:59:00,390 - 00:59:01,050] that's this,
+- [00:59:01,050 - 00:59:02,330] times mu h.
+- [00:59:03,230 - 00:59:03,850] All right,
+- [00:59:03,850 - 00:59:04,510] so we'll use this.
+- [00:59:04,650 - 00:59:05,410] We'll come back to it.
+- [00:59:07,130 - 00:59:08,390] Too many definitions,
+- [00:59:08,390 - 00:59:10,650] but magnetization is an important one.
+- [00:59:11,370 - 00:59:12,250] It is,
+- [00:59:12,250 - 00:59:13,810] roughly speaking,
+- [00:59:13,810 - 00:59:13,930] the most important one.
+- [00:59:13,930 - 00:59:16,300] The probability of being up minus the
+- [00:59:16,300 - 00:59:18,670] probability of being down for a given spin.
+- [00:59:19,490 - 00:59:20,090] Okay,
+- [00:59:20,090 - 00:59:22,410] how can we calculate the magnetization?
+- [00:59:24,530 - 00:59:25,130] Well,
+- [00:59:25,130 - 00:59:27,900] one easy way is to
+- [00:59:27,900 - 00:59:30,670] calculate the energy of the system.
+- [00:59:31,449 - 00:59:33,210] If we know the energy of the system,
+- [00:59:33,210 - 00:59:34,970] and we know the number of particles,
+- [00:59:34,970 - 00:59:35,850] and we know mu,
+- [00:59:35,950 - 00:59:36,790] and we know mu h,
+- [00:59:36,790 - 00:59:39,130] we can calculate the magnetization.
+- [00:59:40,009 - 00:59:41,959] So the first thing we
+- [00:59:41,959 - 00:59:43,910] will calculate using the partition function,
+- [00:59:43,910 - 00:59:49,850] the partition function is the average energy.
+- [00:59:50,690 - 00:59:53,410] From that we can read off the magnetization.
+- [00:59:54,690 - 00:59:59,590] But the magnetization is for a particular configuration.
+- [01:00:00,130 - 01:00:01,890] Are you talking about some average magnetization?
+- [01:00:01,890 - 01:00:02,070] No,
+- [01:00:02,070 - 01:00:04,650] we're talking about the average magnetization.
+- [01:00:04,870 - 01:00:06,190] We're talking about the average.
+- [01:00:06,450 - 01:00:07,270] Absolutely right.
+- [01:00:08,190 - 01:00:08,910] Absolutely right.
+- [01:00:09,030 - 01:00:10,510] This is a particular configuration,
+- [01:00:10,510 - 01:00:12,200] and we should say that the
+- [01:00:12,200 - 01:00:13,890] magnetization is equal to mu h.
+- [01:00:13,910 - 01:00:14,910] This is the average of that.
+- [01:00:15,110 - 01:00:16,170] You're absolutely right.
+- [01:00:16,690 - 01:00:17,950] It's the average of it.
+- [01:00:19,930 - 01:00:22,990] It's the average over the
+- [01:00:22,990 - 01:00:26,050] statistical distribution of the Boltzmann distribution.
+- [01:00:29,029 - 01:00:30,150] And of course,
+- [01:00:30,150 - 01:00:31,510] this is also the average energy.
+- [01:00:31,890 - 01:00:32,370] Yeah.
+- [01:00:32,790 - 01:00:33,270] Right.
+- [01:00:34,350 - 01:00:34,830] Okay.
+- [01:00:35,590 - 01:00:36,070] Hell,
+- [01:00:36,070 - 01:00:36,610] what did I do?
+- [01:00:36,670 - 01:00:37,010] There it is.
+- [01:00:38,090 - 01:00:38,730] All right,
+- [01:00:38,730 - 01:00:40,710] so what do we do to calculate the average energy?
+- [01:00:40,870 - 01:00:41,850] We calculate...
+- [01:00:41,850 - 01:00:43,370] Is that obvious?
+- [01:00:43,370 - 01:00:44,430] That it's true?
+- [01:00:44,770 - 01:00:45,570] Which is true?
+- [01:00:45,750 - 01:00:48,670] That the average energy equals the average magnetization?
+- [01:00:49,090 - 01:00:49,330] No,
+- [01:00:49,330 - 01:00:50,630] this is the energy.
+- [01:00:50,870 - 01:00:51,230] Right,
+- [01:00:51,230 - 01:00:54,530] but that's a particular case of it,
+- [01:00:54,530 - 01:00:54,730] right?
+- [01:00:54,990 - 01:00:55,470] No,
+- [01:00:55,470 - 01:00:56,190] that's the energy.
+- [01:00:56,330 - 01:00:57,430] Given n and given m,
+- [01:00:57,430 - 01:00:58,390] that's the average of it.
+- [01:00:58,490 - 01:00:58,590] Right.
+- [01:00:58,810 - 01:00:59,290] That's...
+- [01:00:59,290 - 01:01:01,250] This is the energy...
+- [01:01:01,250 - 01:01:01,630] Sorry.
+- [01:01:02,150 - 01:01:04,770] This is the energy for a given configuration.
+- [01:01:05,210 - 01:01:05,290] Right.
+- [01:01:05,610 - 01:01:08,120] The average energy is the
+- [01:01:08,120 - 01:01:10,630] average value of n minus m.
+- [01:01:11,830 - 01:01:12,310] So...
+- [01:01:12,310 - 01:01:12,330] Well,
+- [01:01:12,330 - 01:01:13,350] Goley's taken into account.
+- [01:01:13,350 - 01:01:13,750] Hm?
+- [01:01:14,130 - 01:01:15,650] With the probabilities taken into account.
+- [01:01:15,650 - 01:01:15,730] Yeah,
+- [01:01:15,730 - 01:01:16,490] with the probability...
+- [01:01:16,490 - 01:01:16,550] Yeah,
+- [01:01:16,550 - 01:01:16,890] yeah.
+- [01:01:17,250 - 01:01:18,310] And all I'm asking is,
+- [01:01:18,310 - 01:01:20,820] is it obvious that that average
+- [01:01:20,820 - 01:01:23,330] energy is equal to that equation
+- [01:01:23,330 - 01:01:27,330] involving the average magnetization?
+- [01:01:27,770 - 01:01:28,410] It's not...
+- [01:01:28,410 - 01:01:28,830] I mean,
+- [01:01:28,830 - 01:01:29,810] it's probably true,
+- [01:01:29,810 - 01:01:30,790] but it's not obvious to me.
+- [01:01:31,410 - 01:01:31,790] Okay.
+- [01:01:32,230 - 01:01:32,990] I mean,
+- [01:01:32,990 - 01:01:33,950] call that E...
+- [01:01:34,790 - 01:01:36,010] Say E sub a.
+- [01:01:36,310 - 01:01:41,050] Here's an equation that configuration by configuration...
+- [01:01:41,050 - 01:01:41,430] All right,
+- [01:01:41,430 - 01:01:41,970] let's...
+- [01:01:41,970 - 01:01:42,210] Look.
+- [01:01:42,210 - 01:01:43,830] It is obvious.
+- [01:01:44,070 - 01:01:44,830] You think about it.
+- [01:01:44,930 - 01:01:45,810] It is obvious.
+- [01:01:46,010 - 01:01:46,970] It is obvious.
+- [01:01:48,210 - 01:01:49,810] For every configuration,
+- [01:01:49,810 - 01:01:54,530] the energy is proportional to n minus m.
+- [01:01:54,830 - 01:01:57,030] If you average both sides,
+- [01:01:57,030 - 01:01:59,740] the average energy will be proportional
+- [01:01:59,740 - 01:02:02,450] to the average of n minus m.
+- [01:02:03,850 - 01:02:05,370] So the average energy...
+- [01:02:05,910 - 01:02:08,410] We can put averages around all of these.
+- [01:02:09,950 - 01:02:12,190] If something is equal to something else in the equation,
+- [01:02:12,190 - 01:02:13,810] plus configuration by configuration,
+- [01:02:13,810 - 01:02:17,110] then it will also be equal in the average.
+- [01:02:17,450 - 01:02:18,800] So the average magnetization
+- [01:02:18,800 - 01:02:20,150] also involves the probabilities.
+- [01:02:20,690 - 01:02:20,910] Yeah,
+- [01:02:20,910 - 01:02:21,170] absolutely.
+- [01:02:21,570 - 01:02:21,950] Yes,
+- [01:02:21,950 - 01:02:22,330] yes,
+- [01:02:22,330 - 01:02:22,710] yes.
+- [01:02:23,070 - 01:02:24,030] All of these...
+- [01:02:24,030 - 01:02:24,290] Yeah,
+- [01:02:24,290 - 01:02:26,970] everything in statistical mechanics is average.
+- [01:02:27,350 - 01:02:28,880] If you write that last equation
+- [01:02:28,880 - 01:02:30,410] with all the brackets you need,
+- [01:02:30,410 - 01:02:33,010] only the brackets on the right-hand side around n.
+- [01:02:33,350 - 01:02:33,910] No,
+- [01:02:33,910 - 01:02:34,430] actually...
+- [01:02:34,430 - 01:02:34,810] No.
+- [01:02:35,130 - 01:02:36,310] Around capital N?
+- [01:02:36,710 - 01:02:37,270] No,
+- [01:02:37,270 - 01:02:37,410] no,
+- [01:02:37,410 - 01:02:37,450] no.
+- [01:02:37,570 - 01:02:38,410] Around E.
+- [01:02:38,470 - 01:02:38,550] No,
+- [01:02:38,550 - 01:02:38,570] no,
+- [01:02:38,570 - 01:02:38,730] no.
+- [01:02:38,890 - 01:02:39,630] Bottom equation.
+- [01:02:40,130 - 01:02:40,690] Yes,
+- [01:02:40,690 - 01:02:40,910] yes,
+- [01:02:40,910 - 01:02:41,310] of course.
+- [01:02:42,230 - 01:02:43,470] Around this n here,
+- [01:02:43,470 - 01:02:43,810] big N?
+- [01:02:43,990 - 01:02:45,710] Around E and then around big M.
+- [01:02:45,970 - 01:02:46,570] Big M,
+- [01:02:46,570 - 01:02:47,050] big M,
+- [01:02:47,050 - 01:02:47,710] not big N.
+- [01:02:47,930 - 01:02:48,270] Right.
+- [01:02:48,330 - 01:02:49,670] Big N is a number,
+- [01:02:49,670 - 01:02:50,770] big M...
+- [01:02:51,410 - 01:02:51,850] Yes,
+- [01:02:51,850 - 01:02:52,470] all right.
+- [01:02:52,530 - 01:02:53,050] That's right.
+- [01:02:53,190 - 01:02:53,310] All right,
+- [01:02:53,310 - 01:02:54,590] so let's write it the way you want it.
+- [01:02:54,890 - 01:03:01,130] The average energy is equal to n mu H,
+- [01:03:01,130 - 01:03:03,490] all of which are fixed numbers,
+- [01:03:03,490 - 01:03:07,030] times the average magnetization,
+- [01:03:07,030 - 01:03:07,830] let's call it.
+- [01:03:08,390 - 01:03:08,830] Now,
+- [01:03:08,830 - 01:03:09,830] strictly speaking,
+- [01:03:09,830 - 01:03:11,290] with the usual definition,
+- [01:03:11,290 - 01:03:13,430] you don't have to put an average
+- [01:03:13,430 - 01:03:15,570] here because the definition of magnetization is average.
+- [01:03:16,910 - 01:03:20,290] It's also true that in statistical mechanics...
+- [01:03:20,970 - 01:03:21,290] Not an average?
+- [01:03:22,099 - 01:03:22,449] No,
+- [01:03:22,449 - 01:03:25,250] average over the probability distribution.
+- [01:03:25,630 - 01:03:26,130] Okay.
+- [01:03:26,530 - 01:03:28,850] Average over the same exact thing
+- [01:03:28,850 - 01:03:31,170] we did with the ideal gas.
+- [01:03:31,510 - 01:03:33,190] We have a probability
+- [01:03:33,190 - 01:03:34,870] distribution and we calculate averages.
+- [01:03:37,430 - 01:03:40,650] We calculate averages from that probability distribution.
+- [01:03:41,330 - 01:03:45,320] How do you get them all to
+- [01:03:45,320 - 01:03:49,310] line north-south without biasing up or down?
+- [01:03:50,630 - 01:03:51,730] They are biased,
+- [01:03:51,730 - 01:03:52,210] sorry,
+- [01:03:52,210 - 01:03:52,590] what?
+- [01:03:53,370 - 01:03:55,770] You get them not to be east-west,
+- [01:03:55,770 - 01:03:56,350] but...
+- [01:03:56,350 - 01:03:56,470] No,
+- [01:03:56,470 - 01:03:56,570] no,
+- [01:03:56,570 - 01:03:56,710] no,
+- [01:03:56,710 - 01:03:56,790] no,
+- [01:03:56,790 - 01:03:59,990] this is a model in which by definition
+- [01:03:59,990 - 01:04:03,190] these things can only point up or down.
+- [01:04:03,470 - 01:04:05,550] This is a mathematical model...
+- [01:04:05,550 - 01:04:06,650] They're not biased up or down,
+- [01:04:06,650 - 01:04:07,630] for the moment?
+- [01:04:07,890 - 01:04:09,730] They may be biased up versus down,
+- [01:04:09,730 - 01:04:10,570] but they're not biased...
+- [01:04:10,650 - 01:04:12,030] But there's no such thing as east and west.
+- [01:04:12,290 - 01:04:12,530] Well,
+- [01:04:12,530 - 01:04:16,350] that partition function is totally unbiased.
+- [01:04:16,610 - 01:04:16,730] Oh,
+- [01:04:16,730 - 01:04:17,550] it's very biased.
+- [01:04:18,250 - 01:04:21,850] The energy prefers the molecules to be down.
+- [01:04:23,850 - 01:04:24,410] Remember,
+- [01:04:24,410 - 01:04:26,850] the energy is plus if they're up,
+- [01:04:26,850 - 01:04:28,210] minus if they're down.
+- [01:04:29,610 - 01:04:31,290] Systems like to be...
+- [01:04:31,290 - 01:04:32,650] have to have lower energy,
+- [01:04:32,650 - 01:04:34,370] meaning to say that the
+- [01:04:34,370 - 01:04:36,090] Boltzmann distribution favors lower energy.
+- [01:04:36,790 - 01:04:38,710] This is most definitely biased by
+- [01:04:38,710 - 01:04:40,630] the presence of the magnetic field.
+- [01:04:42,130 - 01:04:44,050] So there's no symmetry here.
+- [01:04:44,910 - 01:04:46,910] This is a problem that has no symmetry.
+- [01:04:47,290 - 01:04:51,210] It's biased for the atoms to point down,
+- [01:04:51,210 - 01:04:53,890] and it costs energy to tip them up.
+- [01:04:54,590 - 01:04:57,070] Which way are they likely to be?
+- [01:04:59,190 - 01:04:59,750] Okay,
+- [01:04:59,750 - 01:05:01,250] let's see if we can make some guesses.
+- [01:05:01,730 - 01:05:04,190] Which way will they be at zero temperature?
+- [01:05:05,630 - 01:05:06,190] Right?
+- [01:05:06,190 - 01:05:06,790] No,
+- [01:05:06,790 - 01:05:08,010] definitely not right.
+- [01:05:08,910 - 01:05:09,470] Down.
+- [01:05:10,650 - 01:05:11,310] Right,
+- [01:05:11,310 - 01:05:12,230] so at zero temperature,
+- [01:05:12,230 - 01:05:14,850] what do we expect the magnetization to be?
+- [01:05:15,390 - 01:05:17,930] We expect everybody to be down,
+- [01:05:17,930 - 01:05:22,370] and that means the magnetization will be minus one.
+- [01:05:25,450 - 01:05:27,410] What do we expect at infinite temperature?
+- [01:05:28,490 - 01:05:29,170] Yeah.
+- [01:05:30,410 - 01:05:31,090] Well,
+- [01:05:31,090 - 01:05:31,990] a lot of them are down.
+- [01:05:34,330 - 01:05:35,250] We expect...
+- [01:05:35,250 - 01:05:36,210] at average...
+- [01:05:36,210 - 01:05:38,050] at infinite temperature,
+- [01:05:38,050 - 01:05:40,150] everything is just maximally random.
+- [01:05:40,150 - 01:05:42,310] All states are equally probable.
+- [01:05:43,590 - 01:05:45,770] And so at infinite temperature,
+- [01:05:45,770 - 01:05:48,790] we expect the magnetization to be zero.
+- [01:05:49,550 - 01:05:52,430] So it goes from one at
+- [01:05:52,430 - 01:05:55,310] zero temperature to zero at infinite temperature.
+- [01:05:55,450 - 01:05:56,290] This is what we expect.
+- [01:05:56,370 - 01:05:56,750] This is right.
+- [01:05:56,890 - 01:05:57,430] This is correct.
+- [01:05:57,650 - 01:05:57,930] Sorry,
+- [01:05:57,930 - 01:05:59,610] it goes minus one to zero.
+- [01:06:00,850 - 01:06:02,810] At no point will it be positive,
+- [01:06:02,810 - 01:06:05,210] because the average magnetization will not
+- [01:06:05,210 - 01:06:07,610] be positive because of the bias down.
+- [01:06:08,490 - 01:06:09,610] It's that the infinite...
+- [01:06:09,610 - 01:06:12,570] Infinite temperature will defeat the bias.
+- [01:06:13,710 - 01:06:16,660] Infinite temperature is just so random that
+- [01:06:16,660 - 01:06:19,610] the little bit of magnetic energy is unimportant,
+- [01:06:19,610 - 01:06:21,930] and so it will be random.
+- [01:06:23,050 - 01:06:28,170] But at no point will the average magnetization be up.
+- [01:06:28,630 - 01:06:29,850] It won't be positive.
+- [01:06:30,150 - 01:06:30,410] Okay,
+- [01:06:30,410 - 01:06:30,730] let's...
+- [01:06:30,730 - 01:06:31,870] I hope I'm right.
+- [01:06:32,710 - 01:06:35,050] What would you have to do to make it up?
+- [01:06:35,930 - 01:06:37,870] Switch the magnetic field the other way.
+- [01:06:39,730 - 01:06:41,390] Make the magnetic field negative.
+- [01:06:42,390 - 01:06:42,950] Right.
+- [01:06:43,730 - 01:06:44,290] Right.
+- [01:06:46,990 - 01:06:47,550] Right.
+- [01:06:47,670 - 01:06:48,970] Switch the magnetic field.
+- [01:06:49,090 - 01:06:49,270] Okay,
+- [01:06:49,270 - 01:06:50,230] so where are we?
+- [01:06:51,030 - 01:06:53,030] Instead of calculating the magnetization,
+- [01:06:53,030 - 01:06:54,790] I'm going to calculate the average energy.
+- [01:06:55,190 - 01:06:56,980] We know how to calculate the
+- [01:06:56,980 - 01:06:58,770] average energy from a partition function.
+- [01:06:59,410 - 01:06:59,890] Remember,
+- [01:06:59,890 - 01:07:00,990] the average energy...
+- [01:07:00,990 - 01:07:01,870] and I'm just going to write E,
+- [01:07:01,870 - 01:07:03,110] no averages...
+- [01:07:03,110 - 01:07:05,770] is equal to minus the derivative of
+- [01:07:05,770 - 01:07:08,430] the logarithm of Z with respect to beta.
+- [01:07:10,290 - 01:07:13,150] So there's a little bit of algebra to do here.
+- [01:07:13,230 - 01:07:14,510] We might as well do it.
+- [01:07:14,570 - 01:07:16,170] I know it tends to put
+- [01:07:16,170 - 01:07:17,770] people asleep to watch me do algebra.
+- [01:07:18,750 - 01:07:20,510] The logarithm of Z...
+- [01:07:23,070 - 01:07:24,930] has a constant from here.
+- [01:07:25,570 - 01:07:27,370] That's going to go away when we differentiate,
+- [01:07:27,370 - 01:07:29,070] so let's not even bother writing it.
+- [01:07:29,490 - 01:07:35,510] It's equal to n log of the hyperbolic cosine...
+- [01:07:35,510 - 01:07:36,690] This is a terrible function...
+- [01:07:36,690 - 01:07:41,690] of beta times mu h.
+- [01:07:43,790 - 01:07:46,050] n times the logarithm...
+- [01:07:46,730 - 01:07:47,410] Notice,
+- [01:07:47,410 - 01:07:48,290] first of all,
+- [01:07:48,290 - 01:07:49,890] that it's proportional to n.
+- [01:07:50,370 - 01:07:53,570] That's a good thing because typically energies,
+- [01:07:53,570 - 01:07:54,630] when we differentiate,
+- [01:07:55,369 - 01:07:57,470] will be proportional to n,
+- [01:07:57,470 - 01:07:58,930] and that's natural.
+- [01:08:00,350 - 01:08:03,530] Let's differentiate this with respect to Z...
+- [01:08:04,290 - 01:08:04,970] Sorry,
+- [01:08:04,970 - 01:08:05,970] with respect to beta.
+- [01:08:06,710 - 01:08:10,850] The derivative of log Z with respect to beta...
+- [01:08:11,599 - 01:08:12,350] First of all,
+- [01:08:12,350 - 01:08:13,110] we'll have an n.
+- [01:08:14,290 - 01:08:14,950] Now,
+- [01:08:14,950 - 01:08:17,490] the derivative of logarithm of an argument
+- [01:08:17,490 - 01:08:20,029] of a thing is one over that thing.
+- [01:08:20,310 - 01:08:22,010] So that will give us,
+- [01:08:22,010 - 01:08:24,029] in the denominator,
+- [01:08:24,029 - 01:08:28,310] hyperbolic cosine of beta mu h.
+- [01:08:29,990 - 01:08:31,430] And then in the numerator,
+- [01:08:31,430 - 01:08:33,390] we have to differentiate...
+- [01:08:34,450 - 01:08:36,450] cosh beta mu h...
+- [01:08:36,450 - 01:08:37,290] with respect to beta.
+- [01:08:37,450 - 01:08:39,470] So what happens when you differentiate cosh?
+- [01:08:39,569 - 01:08:40,970] What is the derivative of cosh?
+- [01:08:42,330 - 01:08:42,810] Cinch.
+- [01:08:43,670 - 01:08:45,430] So that's cinch...
+- [01:08:47,770 - 01:08:48,729] beta h...
+- [01:08:49,430 - 01:08:49,670] Sorry,
+- [01:08:49,670 - 01:08:50,609] beta mu h.
+- [01:08:51,450 - 01:08:54,529] And then you have to differentiate the cosh...
+- [01:08:54,529 - 01:08:54,850] Sorry,
+- [01:08:54,850 - 01:08:57,229] you have to differentiate this thing with respect to beta.
+- [01:08:57,569 - 01:08:59,390] So that gives you another mu h.
+- [01:09:00,069 - 01:09:01,250] mu h outside.
+- [01:09:03,810 - 01:09:04,290] Now,
+- [01:09:04,290 - 01:09:05,010] is that the energy?
+- [01:09:05,010 - 01:09:06,630] Not quite.
+- [01:09:09,210 - 01:09:09,890] Minus sign.
+- [01:09:12,149 - 01:09:13,270] This is the energy.
+- [01:09:15,609 - 01:09:16,130] Minus.
+- [01:09:17,330 - 01:09:17,850] Okay,
+- [01:09:17,850 - 01:09:19,010] so we have the energy.
+- [01:09:20,490 - 01:09:22,149] And we want the magnetization.
+- [01:09:22,430 - 01:09:24,920] So what we want to do with it is
+- [01:09:24,920 - 01:09:27,410] divide it by mu h and divide it by n.
+- [01:09:28,609 - 01:09:30,390] So the magnetization...
+- [01:09:31,569 - 01:09:33,149] is equal to...
+- [01:09:35,050 - 01:09:35,569] minus...
+- [01:09:35,569 - 01:09:37,510] And as I said in the first place,
+- [01:09:37,510 - 01:09:38,350] it comes out minus.
+- [01:09:39,750 - 01:09:42,250] We're dividing by n and we're dividing by mu h.
+- [01:09:42,790 - 01:09:44,750] And so it's just exactly...
+- [01:09:45,890 - 01:09:46,410] cinch...
+- [01:09:47,130 - 01:09:49,250] beta mu h over cosh.
+- [01:09:49,410 - 01:09:51,229] That function also has a name.
+- [01:09:54,570 - 01:09:56,230] It's equal to the tanch...
+- [01:09:58,830 - 01:10:00,350] of beta mu h.
+- [01:10:04,809 - 01:10:06,110] With a minus sign.
+- [01:10:06,230 - 01:10:06,230] With a minus sign,
+- [01:10:06,230 - 01:10:06,290] yes.
+- [01:10:06,430 - 01:10:07,110] With a minus sign.
+- [01:10:08,090 - 01:10:08,530] Okay,
+- [01:10:08,530 - 01:10:10,910] so now all we have to do to understand
+- [01:10:10,910 - 01:10:13,290] this system is understand what the tanch function looks like.
+- [01:10:13,310 - 01:10:13,730] Incidentally,
+- [01:10:13,730 - 01:10:15,430] beta is one over the temperature.
+- [01:10:16,570 - 01:10:17,010] Okay.
+- [01:10:17,310 - 01:10:19,160] So we just want to plot this
+- [01:10:19,160 - 01:10:21,010] function as a function of the temperature.
+- [01:10:21,450 - 01:10:22,470] Mu times h,
+- [01:10:22,470 - 01:10:23,370] that's just a number.
+- [01:10:23,490 - 01:10:24,330] It's not so interesting.
+- [01:10:24,410 - 01:10:26,310] We could absorb it into beta here.
+- [01:10:27,410 - 01:10:28,710] We could plot the thing as
+- [01:10:28,710 - 01:10:30,010] a function of beta mu h.
+- [01:10:30,010 - 01:10:30,870] They come in together.
+- [01:10:31,650 - 01:10:32,170] Okay,
+- [01:10:32,170 - 01:10:33,560] so the question is what
+- [01:10:33,560 - 01:10:34,950] does a tanch function look like?
+- [01:10:43,710 - 01:10:45,740] You can work out what the
+- [01:10:45,740 - 01:10:47,770] tanch function looks like by yourself.
+- [01:10:48,090 - 01:10:49,550] I will show you what it looks like.
+- [01:10:49,670 - 01:10:49,830] Well,
+- [01:10:49,830 - 01:10:50,630] first of all,
+- [01:10:52,150 - 01:10:54,310] cinch and cosh,
+- [01:10:54,770 - 01:10:57,570] for very large values of the argument,
+- [01:10:57,670 - 01:10:59,130] become equal to each other.
+- [01:11:00,010 - 01:11:02,730] They're basically both exponentials of beta mu h.
+- [01:11:03,950 - 01:11:05,050] Let's write them down.
+- [01:11:07,930 - 01:11:11,320] Cosh of x is equal to e to the
+- [01:11:11,320 - 01:11:14,710] x plus e to the minus x over 2.
+- [01:11:16,389 - 01:11:20,099] Cinch of x equals e to the x
+- [01:11:20,099 - 01:11:23,810] minus e to the minus x over 2.
+- [01:11:24,890 - 01:11:26,670] When x gets large,
+- [01:11:27,510 - 01:11:29,290] let's go to large x,
+- [01:11:30,010 - 01:11:31,050] when x gets large,
+- [01:11:31,230 - 01:11:32,710] what happens to e to the minus x?
+- [01:11:33,710 - 01:11:34,810] It just goes away.
+- [01:11:35,610 - 01:11:37,110] So for large x,
+- [01:11:38,370 - 01:11:40,910] they both are equal to e to the x,
+- [01:11:41,050 - 01:11:42,450] and their ratio is 1.
+- [01:11:43,590 - 01:11:45,110] So very far away,
+- [01:11:48,550 - 01:11:49,850] cinch over cosh,
+- [01:11:50,030 - 01:11:52,030] I'm not including the minus sign now,
+- [01:11:52,190 - 01:11:53,749] just the cinch over cosh,
+- [01:11:53,790 - 01:11:54,910] the tanch function,
+- [01:11:58,729 - 01:11:59,729] goes to 1.
+- [01:12:04,509 - 01:12:04,989] Incidentally,
+- [01:12:06,890 - 01:12:08,509] for negative x,
+- [01:12:08,729 - 01:12:10,009] it goes to minus 1.
+- [01:12:10,890 - 01:12:12,350] But let's not worry about that.
+- [01:12:12,570 - 01:12:14,390] x is going to be positive in this problem.
+- [01:12:14,790 - 01:12:16,310] Now what does it do near the origin?
+- [01:12:16,989 - 01:12:18,310] Near the origin,
+- [01:12:19,990 - 01:12:21,670] cosh is equal to 1.
+- [01:12:22,670 - 01:12:23,730] x equals 0,
+- [01:12:23,730 - 01:12:24,770] near the origin.
+- [01:12:25,070 - 01:12:26,450] e to the x is 1.
+- [01:12:26,550 - 01:12:27,890] This is 1 plus 1 is 2.
+- [01:12:29,730 - 01:12:30,610] What about this one?
+- [01:12:31,570 - 01:12:32,330] That's 0.
+- [01:12:33,030 - 01:12:34,530] But what about the linear,
+- [01:12:34,670 - 01:12:36,110] what about the correction to it
+- [01:12:36,110 - 01:12:37,730] if we expand e to
+- [01:12:37,730 - 01:12:39,350] the x as 1 plus x?
+- [01:12:42,110 - 01:12:43,880] So the e to the
+- [01:12:43,880 - 01:12:45,650] x will be 1 plus x
+- [01:12:47,130 - 01:12:49,400] minus e to the minus
+- [01:12:49,400 - 01:12:51,670] x is minus 1 plus x
+- [01:12:51,670 - 01:12:52,830] divided by 2,
+- [01:12:53,630 - 01:12:55,090] and the answer is just x.
+- [01:12:56,830 - 01:12:59,650] The first derivative here is 1.
+- [01:13:00,290 - 01:13:01,370] In other words,
+- [01:13:01,370 - 01:13:03,150] it starts out just looking like x,
+- [01:13:03,310 - 01:13:05,530] and it very quickly just bends over.
+- [01:13:05,730 - 01:13:07,370] It's a very boring function.
+- [01:13:07,850 - 01:13:09,830] It starts out linear,
+- [01:13:10,050 - 01:13:12,010] and then it gets tired quickly,
+- [01:13:12,230 - 01:13:13,930] and it just flattens out.
+- [01:13:14,750 - 01:13:15,930] That's the tanch function.
+- [01:13:17,650 - 01:13:18,390] All right.
+- [01:13:18,410 - 01:13:24,010] And this horizontal axis is beta times mu h.
+- [01:13:25,210 - 01:13:25,930] All right.
+- [01:13:25,930 - 01:13:27,620] Now keeping in mind that
+- [01:13:27,620 - 01:13:29,310] beta is 1 over the temperature,
+- [01:13:29,310 - 01:13:34,470] what is the magnetization when the temperature is small?
+- [01:13:34,990 - 01:13:36,910] That's when beta is large.
+- [01:13:37,770 - 01:13:39,610] When beta is large,
+- [01:13:39,810 - 01:13:40,830] we're way out here,
+- [01:13:41,070 - 01:13:43,430] and the tanch function is 1.
+- [01:13:45,130 - 01:13:47,670] So the magnetization is minus 1.
+- [01:13:48,230 - 01:13:49,450] Zero temperature,
+- [01:13:49,710 - 01:13:52,370] all the spins align themselves down.
+- [01:13:53,530 - 01:13:54,250] Okay.
+- [01:13:54,310 - 01:13:56,130] What about infinite temperature?
+- [01:13:56,430 - 01:13:59,290] Infinite temperature is beta equals 0.
+- [01:13:59,310 - 01:14:02,470] Beta equals 0.
+- [01:14:04,330 - 01:14:04,530] Well,
+- [01:14:04,530 - 01:14:05,650] first of all,
+- [01:14:05,670 - 01:14:07,130] the magnetization is 0.
+- [01:14:09,170 - 01:14:10,290] Beta equals 0.
+- [01:14:10,430 - 01:14:11,690] The magnetization is 0,
+- [01:14:11,810 - 01:14:12,510] as expected.
+- [01:14:12,910 - 01:14:15,190] And this just fills in the details for us.
+- [01:14:15,310 - 01:14:18,230] This just fills in the exact details for this problem
+- [01:14:18,230 - 01:14:20,210] of how the magnetization
+- [01:14:21,030 - 01:14:23,290] goes from 1 at low temperatures
+- [01:14:23,290 - 01:14:25,730] and goes to 0 at high temperatures.
+- [01:14:27,390 - 01:14:27,950] Okay.
+- [01:14:28,730 - 01:14:29,290] So,
+- [01:14:29,829 - 01:14:32,730] you asked me how can you get the magnetization
+- [01:14:32,730 - 01:14:34,290] to go in the opposite direction.
+- [01:14:34,810 - 01:14:35,250] Well,
+- [01:14:35,250 - 01:14:37,410] the answer is to allow h to go negative.
+- [01:14:37,570 - 01:14:38,530] If h goes negative,
+- [01:14:38,810 - 01:14:41,290] then it looks like that.
+- [01:14:42,450 - 01:14:45,090] So if the magnetic field flips sign,
+- [01:14:45,390 - 01:14:46,770] everything just reverses.
+- [01:14:46,970 - 01:14:48,130] I have a question,
+- [01:14:48,130 - 01:14:48,350] please.
+- [01:14:48,790 - 01:14:50,490] This looks like a continuous,
+- [01:14:50,630 - 01:14:52,630] but you said there is a temperature with...
+- [01:14:52,630 - 01:14:53,130] No,
+- [01:14:53,130 - 01:14:53,230] no,
+- [01:14:53,230 - 01:14:53,970] not in this system.
+- [01:14:54,310 - 01:14:55,370] Not in this system.
+- [01:14:55,950 - 01:14:58,150] This system does not have a phase transition.
+- [01:14:58,150 - 01:14:58,830] No.
+- [01:14:59,250 - 01:15:00,430] This is too simple.
+- [01:15:01,170 - 01:15:02,970] The first interesting system
+- [01:15:02,970 - 01:15:04,310] that has a phase transition
+- [01:15:05,050 - 01:15:07,190] is the two-dimensional Ising model.
+- [01:15:08,550 - 01:15:09,970] But first we're going to do
+- [01:15:09,970 - 01:15:11,690] the one-dimensional Ising model.
+- [01:15:12,650 - 01:15:13,210] Ising
+- [01:15:17,190 - 01:15:17,750] was
+- [01:15:17,750 - 01:15:21,510] not a very good student.
+- [01:15:21,590 - 01:15:23,070] He was a student of Lenz,
+- [01:15:23,150 - 01:15:23,830] L-E-N-Z,
+- [01:15:23,830 - 01:15:25,210] who was famous for the...
+- [01:15:25,210 - 01:15:26,470] for a number of things.
+- [01:15:28,150 - 01:15:29,890] For one of the things he was famous for,
+- [01:15:30,010 - 01:15:31,490] or he was not famous for,
+- [01:15:31,650 - 01:15:33,590] was inventing the Ising model.
+- [01:15:35,270 - 01:15:37,510] He gave his student one problem
+- [01:15:38,070 - 01:15:40,650] to determine whether there was a phase transition
+- [01:15:40,650 - 01:15:41,690] in the Ising model,
+- [01:15:41,850 - 01:15:43,650] in the one-dimensional Ising model.
+- [01:15:44,210 - 01:15:46,150] And his student got the wrong answer.
+- [01:15:46,510 - 01:15:48,370] He said there was a phase transition,
+- [01:15:48,610 - 01:15:49,130] there was not.
+- [01:15:49,570 - 01:15:50,330] That's all,
+- [01:15:50,330 - 01:15:51,090] as far as I know,
+- [01:15:51,170 - 01:15:52,210] that Ising ever did.
+- [01:15:53,530 - 01:15:56,410] So why it's called the Ising model is just...
+- [01:15:56,410 - 01:15:58,130] And Ising is the most famous model,
+- [01:15:58,150 - 01:15:59,870] the most famous name in all of statistical mechanics.
+- [01:16:01,858 - 01:16:02,138] ありがとうございました
+- [01:16:04,802 - 01:16:05,262] way it goes.
+- [01:16:07,222 - 01:16:07,922] Win some,
+- [01:16:07,922 - 01:16:08,542] you lose some.
+- [01:16:09,322 - 01:16:10,182] You win some,
+- [01:16:10,182 - 01:16:10,662] sorry,
+- [01:16:10,662 - 01:16:11,162] you lose some,
+- [01:16:11,162 - 01:16:11,482] you win,
+- [01:16:11,582 - 01:16:12,342] you lose some,
+- [01:16:12,342 - 01:16:12,862] you lose some,
+- [01:16:12,862 - 01:16:13,422] I don't know.
+- [01:16:18,721 - 01:16:19,162] Okay,
+- [01:16:19,162 - 01:16:20,502] what is the Ising model?
+- [01:16:20,942 - 01:16:23,142] Now the interesting thing about the Ising model
+- [01:16:23,142 - 01:16:26,342] is it is symmetric between up and down.
+- [01:16:27,142 - 01:16:28,002] So therefore,
+- [01:16:28,002 - 01:16:30,902] if there is any magnetization,
+- [01:16:31,662 - 01:16:35,902] it's because somehow the system
+- [01:16:37,502 - 01:16:40,362] has spontaneously broken the symmetry.
+- [01:16:41,702 - 01:16:43,762] In the one-dimensional Ising model,
+- [01:16:43,762 - 01:16:44,842] that does not happen.
+- [01:16:44,922 - 01:16:46,362] In the two-dimensional Ising model,
+- [01:16:46,362 - 01:16:47,002] it does happen.
+- [01:16:47,162 - 01:16:48,572] So I will define all of
+- [01:16:48,572 - 01:16:49,982] these Ising models for you right now.
+- [01:16:51,302 - 01:16:52,822] They work the following way.
+- [01:16:54,962 - 01:17:00,262] The energy is not stored particle by particle.
+- [01:17:00,422 - 01:17:00,882] There's no energy.
+- [01:17:00,882 - 01:17:03,162] We have no external field.
+- [01:17:05,842 - 01:17:08,882] So if the particles didn't interact with each other,
+- [01:17:08,922 - 01:17:10,882] if the little magnets didn't interact with each other,
+- [01:17:10,922 - 01:17:11,842] there would be no energy.
+- [01:17:12,162 - 01:17:13,602] And if there's no energy,
+- [01:17:13,602 - 01:17:15,882] all configurations are equally likely.
+- [01:17:17,142 - 01:17:18,522] In this case,
+- [01:17:18,522 - 01:17:21,682] the magnetic field that each spin sees
+- [01:17:21,682 - 01:17:23,882] is due to its neighbors.
+- [01:17:24,822 - 01:17:26,882] If its neighbors are up,
+- [01:17:26,882 - 01:17:29,402] it feels a magnetic field up.
+- [01:17:29,402 - 01:17:32,142] If both neighbors are down,
+- [01:17:32,142 - 01:17:33,802] it feels a magnetic field down.
+- [01:17:33,962 - 01:17:35,362] And if one is up and one down,
+- [01:17:35,362 - 01:17:36,682] it feels no magnetic field.
+- [01:17:37,002 - 01:17:40,592] So what we're saying is that
+- [01:17:40,592 - 01:17:44,182] the energy is associated with pairs,
+- [01:17:44,302 - 01:17:47,042] with pairs of neighboring spins.
+- [01:17:48,582 - 01:17:51,882] And if the pairs are in the same direction,
+- [01:17:52,742 - 01:17:56,322] let's take that to be lower energy.
+- [01:17:56,462 - 01:17:57,862] We have to make a choice now.
+- [01:17:59,402 - 01:18:02,202] Do we want the interactions
+- [01:18:02,202 - 01:18:05,002] to favor alignment or anti-alignment?
+- [01:18:05,662 - 01:18:07,082] If it's anti-alignment,
+- [01:18:07,082 - 01:18:08,122] this is alignment.
+- [01:18:08,762 - 01:18:09,882] This is alignment,
+- [01:18:09,882 - 01:18:11,102] and this is also alignment.
+- [01:18:12,582 - 01:18:15,221] The energy is going to be equal for this configuration
+- [01:18:15,221 - 01:18:16,842] as it is for that configuration,
+- [01:18:18,601 - 01:18:22,102] and unequal to this configuration or that configuration.
+- [01:18:22,242 - 01:18:22,762] You get it?
+- [01:18:22,882 - 01:18:23,562] All right,
+- [01:18:23,562 - 01:18:23,722] good.
+- [01:18:25,081 - 01:18:28,362] So we come back to these variables sigma.
+- [01:18:29,722 - 01:18:32,982] And we say if sigma is aligned,
+- [01:18:33,242 - 01:18:35,322] if the two neighboring sigmas are aligned,
+- [01:18:35,462 - 01:18:36,962] just focus on two spins,
+- [01:18:37,262 - 01:18:39,002] if they're aligned,
+- [01:18:39,002 - 01:18:41,922] then the energy is lower.
+- [01:18:42,222 - 01:18:43,762] If they're unaligned,
+- [01:18:43,762 - 01:18:44,882] the energy is larger.
+- [01:18:45,262 - 01:18:48,702] So let's take the energy to be
+- [01:18:48,702 - 01:18:52,142] some number which is usually called J.
+- [01:18:52,622 - 01:18:54,942] I don't know what J stands for.
+- [01:18:55,302 - 01:18:57,162] It's usually just called J.
+- [01:18:57,902 - 01:18:59,062] It's just a number.
+- [01:18:59,402 - 01:19:01,042] It has an energy scale.
+- [01:19:01,122 - 01:19:02,522] It's an energy scale for the problem.
+- [01:19:04,122 - 01:19:07,522] J times sigma of particle
+- [01:19:07,522 - 01:19:10,922] one times sigma of particle two.
+- [01:19:11,102 - 01:19:12,942] Only two particles for a moment.
+- [01:19:14,822 - 01:19:19,622] These are two neighboring particles on a lattice.
+- [01:19:20,022 - 01:19:21,102] Now later on,
+- [01:19:21,102 - 01:19:22,522] we'll allow the lattice.
+- [01:19:22,682 - 01:19:24,422] Now the lattice is just a line.
+- [01:19:25,662 - 01:19:26,682] Later on,
+- [01:19:26,682 - 01:19:28,982] we can have the lattice be a two-dimensional lattice
+- [01:19:29,402 - 01:19:30,282] or a three-dimensional lattice.
+- [01:19:31,142 - 01:19:34,242] One and two are neighboring sites on the lattice.
+- [01:19:34,522 - 01:19:36,742] And this is the energy of the one-two pair.
+- [01:19:38,681 - 01:19:39,201] Now,
+- [01:19:39,201 - 01:19:42,762] this energy is going to be lower if they're anti-aligned.
+- [01:19:43,102 - 01:19:44,842] Because if they're anti-aligned,
+- [01:19:44,842 - 01:19:46,482] sigma one times sigma two is negative.
+- [01:19:46,722 - 01:19:48,942] I want the energy to be lower if they're aligned.
+- [01:19:49,862 - 01:19:51,802] So I'm going to put a minus sign here.
+- [01:19:53,362 - 01:19:54,462] With this energy,
+- [01:19:54,462 - 01:19:59,382] the energy is low if the spins are aligned.
+- [01:19:59,402 - 01:20:04,102] And it's higher if they're anti-aligned.
+- [01:20:04,522 - 01:20:05,202] Now,
+- [01:20:05,202 - 01:20:08,162] supposing we have a line of them.
+- [01:20:08,782 - 01:20:11,262] And each one is interacting with its neighbor.
+- [01:20:11,522 - 01:20:18,102] Then we can write that the energy is equal to a sum
+- [01:20:18,102 - 01:20:24,682] minus J of sigma of N times sigma of N plus one.
+- [01:20:25,442 - 01:20:27,522] Does everybody understand what that means?
+- [01:20:29,562 - 01:20:32,042] The product of the spin...
+- [01:20:33,402 - 01:20:33,922] Spin,
+- [01:20:33,922 - 01:20:34,642] I call it spin.
+- [01:20:34,842 - 01:20:37,462] The product of the magnetic moment
+- [01:20:37,462 - 01:20:40,082] at each site times its neighboring site.
+- [01:20:40,742 - 01:20:41,542] Each one,
+- [01:20:41,542 - 01:20:42,682] each pair,
+- [01:20:42,682 - 01:20:44,862] each neighboring pair counted once.
+- [01:20:47,062 - 01:20:47,582] Okay,
+- [01:20:47,582 - 01:20:49,322] so this is our expression for the energy.
+- [01:20:51,102 - 01:20:51,622] Now,
+- [01:20:51,622 - 01:20:53,062] let's think about it for a moment.
+- [01:20:56,022 - 01:20:58,402] What do you expect to happen at infinite temperature?
+- [01:21:01,742 - 01:21:03,852] The general rule is that
+- [01:21:03,852 - 01:21:05,962] infinite temperature is just random chaos.
+- [01:21:06,542 - 01:21:08,842] Everything is equally likely.
+- [01:21:10,822 - 01:21:12,342] Zero magnetization.
+- [01:21:14,222 - 01:21:15,742] Zero magnetization.
+- [01:21:16,162 - 01:21:20,382] And we'll worry about the energy,
+- [01:21:20,382 - 01:21:22,102] but yeah.
+- [01:21:23,282 - 01:21:24,042] Right,
+- [01:21:24,042 - 01:21:25,262] everything is just random.
+- [01:21:25,462 - 01:21:26,522] And so in particular,
+- [01:21:26,522 - 01:21:27,842] zero magnetization.
+- [01:21:28,202 - 01:21:28,842] Everything.
+- [01:21:29,682 - 01:21:31,342] Every product will be zero,
+- [01:21:31,342 - 01:21:31,662] too,
+- [01:21:31,662 - 01:21:33,242] because one is one and one is zero.
+- [01:21:33,602 - 01:21:35,742] Every product will be on the average zero.
+- [01:21:37,522 - 01:21:38,102] That's right.
+- [01:21:39,562 - 01:21:40,642] Why does that bother you?
+- [01:21:41,102 - 01:21:42,442] It means the energy is there.
+- [01:21:42,642 - 01:21:43,082] Well,
+- [01:21:43,082 - 01:21:43,422] don't forget,
+- [01:21:43,422 - 01:21:43,922] the energy,
+- [01:21:43,922 - 01:21:45,222] if they're all parallel,
+- [01:21:45,222 - 01:21:45,782] is negative.
+- [01:21:45,962 - 01:21:47,902] So you're starting with a negative bias.
+- [01:21:48,022 - 01:21:49,222] You're starting with the
+- [01:21:49,222 - 01:21:50,422] ground state having negative energy.
+- [01:21:54,262 - 01:21:55,882] So the zero of energy,
+- [01:21:55,882 - 01:21:56,502] so to speak,
+- [01:21:56,502 - 01:21:57,842] is a big negative number.
+- [01:21:57,842 - 01:22:02,182] So having zero energy is effectively having a
+- [01:22:02,182 - 01:22:06,522] lot of energy relative to the ground state.
+- [01:22:07,982 - 01:22:08,802] All right.
+- [01:22:09,346 - 01:22:09,826] すっきりと見る
+- [01:22:10,626 - 01:22:12,146] Why are the products up in zero?
+- [01:22:12,266 - 01:22:14,186] I thought sigma was either plus one or minus one.
+- [01:22:14,645 - 01:22:15,366] It is,
+- [01:22:15,366 - 01:22:16,326] but on the average,
+- [01:22:16,326 - 01:22:19,786] if the neighbors are randomly
+- [01:22:19,786 - 01:22:20,406] distributed,
+- [01:22:20,406 - 01:22:22,806] yeah,
+- [01:22:22,806 - 01:22:25,626] the average.
+- [01:22:26,806 - 01:22:28,406] If you have random chaos,
+- [01:22:28,406 - 01:22:29,946] that means
+- [01:22:29,946 - 01:22:32,686] there is likely to be found parallel is anti-parallel.
+- [01:22:32,966 - 01:22:35,146] So the average energy will be zero,
+- [01:22:35,906 - 01:22:37,006] which is a lot of energy.
+- [01:22:38,385 - 01:22:40,106] But what about zero temperature?
+- [01:22:40,506 - 01:22:42,066] What would you guess for zero temperature?
+- [01:22:45,606 - 01:22:46,406] They'll be aligned,
+- [01:22:46,406 - 01:22:46,666] right?
+- [01:22:47,586 - 01:22:48,426] They'll want to be aligned.
+- [01:22:48,566 - 01:22:49,086] But which way?
+- [01:22:49,146 - 01:22:49,826] Are they going to be this way?
+- [01:22:49,926 - 01:22:50,506] All of them.
+- [01:22:50,606 - 01:22:53,546] Everybody aligned this way or everybody aligned this way?
+- [01:22:55,566 - 01:22:56,986] You can't tell offhand.
+- [01:22:57,486 - 01:22:59,026] There are two ground states.
+- [01:22:59,306 - 01:23:01,886] Ground states mean states of minimum energy.
+- [01:23:02,866 - 01:23:05,426] And they will both come in with equal probability.
+- [01:23:06,546 - 01:23:06,986] And they're going to be aligned.
+- [01:23:06,986 - 01:23:08,886] They'll both come in with equal probability.
+- [01:23:10,366 - 01:23:13,066] But now let me add one more thing.
+- [01:23:13,786 - 01:23:17,126] Let me suppose that there's a magnetic field,
+- [01:23:18,526 - 01:23:20,246] external magnetic field,
+- [01:23:20,246 - 01:23:23,606] but it's only acting on one particle.
+- [01:23:24,046 - 01:23:26,876] One out of 10 to the
+- [01:23:26,876 - 01:23:29,706] 23rd has a little stray magnetic field.
+- [01:23:29,926 - 01:23:33,706] And let's say that magnetic field is along one axis.
+- [01:23:33,866 - 01:23:34,926] Then what is the ground state?
+- [01:23:34,926 - 01:23:39,146] The ground state has a definite orientation.
+- [01:23:39,586 - 01:23:42,546] Even if that magnetic field is very small,
+- [01:23:42,946 - 01:23:45,846] the ground state still has a definite orientation.
+- [01:23:46,246 - 01:23:47,826] And at zero temperature,
+- [01:23:47,826 - 01:23:49,586] at strictly zero temperature,
+- [01:23:50,586 - 01:23:54,046] the Boltzmann distribution always favors
+- [01:23:54,046 - 01:23:57,506] infinitely strongly the lowest energy state.
+- [01:23:57,826 - 01:24:03,106] So that means that even the tiniest little magnetic field,
+- [01:24:03,106 - 01:24:04,506] stray magnetic field,
+- [01:24:04,546 - 01:24:04,906] is going to be aligned with the ground state.
+- [01:24:04,906 - 01:24:05,546] Well,
+- [01:24:05,546 - 01:24:08,236] the Boltzmann distribution will favor all
+- [01:24:08,236 - 01:24:10,926] of the spins pointing along one axis.
+- [01:24:11,846 - 01:24:14,786] If you were to apply that tiny magnetic field,
+- [01:24:15,825 - 01:24:19,045] let the system come to equilibrium at zero temperature,
+- [01:24:19,226 - 01:24:20,946] and then remove the magnetic field,
+- [01:24:21,226 - 01:24:22,786] the system will remember it.
+- [01:24:23,126 - 01:24:25,286] Everybody's holding everybody else in place.
+- [01:24:25,546 - 01:24:28,226] And the possibility of them all
+- [01:24:28,226 - 01:24:30,906] simultaneously jumping to the opposite state
+- [01:24:30,906 - 01:24:33,906] is remote if there's enough of them.
+- [01:24:34,906 - 01:24:37,166] So that's called spontaneous symmetry breaking.
+- [01:24:37,386 - 01:24:39,746] That is what spontaneous symmetry breaking is.
+- [01:24:39,966 - 01:24:41,226] In this case,
+- [01:24:41,226 - 01:24:41,806] it's very simple.
+- [01:24:41,886 - 01:24:45,466] And this example has a symmetry.
+- [01:24:45,966 - 01:24:48,986] We can actually say quantitatively
+- [01:24:48,986 - 01:24:52,006] or mathematically what that symmetry is.
+- [01:24:52,726 - 01:24:55,656] A symmetry is usually represented by a
+- [01:24:55,656 - 01:24:58,586] mathematical operation on the degrees of freedom.
+- [01:24:59,546 - 01:25:03,266] What mathematical operation would you do on sigma
+- [01:25:04,906 - 01:25:05,866] if you were to change from up to down?
+- [01:25:09,586 - 01:25:10,746] Multiply it by minus one.
+- [01:25:12,186 - 01:25:12,706] Right.
+- [01:25:12,986 - 01:25:13,506] Okay.
+- [01:25:13,706 - 01:25:16,286] Let's go back to the earlier case over here,
+- [01:25:16,426 - 01:25:17,686] where the energy,
+- [01:25:17,686 - 01:25:19,406] in this case we could say,
+- [01:25:19,606 - 01:25:22,706] the energy was proportional to just sigma itself,
+- [01:25:23,046 - 01:25:24,686] not sigma times a neighboring sigma,
+- [01:25:24,926 - 01:25:26,386] but just sigma by itself.
+- [01:25:26,746 - 01:25:27,866] Does that have a symmetry?
+- [01:25:28,426 - 01:25:28,946] No.
+- [01:25:29,006 - 01:25:33,586] The energy itself changes sign when you change sigma.
+- [01:25:33,586 - 01:25:34,366] And that's not a symmetry.
+- [01:25:34,406 - 01:25:36,026] Symmetry is actions that you can
+- [01:25:36,026 - 01:25:37,646] do that don't change the energy.
+- [01:25:38,726 - 01:25:39,166] Okay.
+- [01:25:39,866 - 01:25:41,006] What about this system?
+- [01:25:41,086 - 01:25:43,166] Supposing you change the sign of one spin,
+- [01:25:43,166 - 01:25:44,246] one of them,
+- [01:25:44,426 - 01:25:45,806] sigma one and not sigma two.
+- [01:25:46,186 - 01:25:47,106] Is that a symmetry?
+- [01:25:48,546 - 01:25:48,986] No.
+- [01:25:49,026 - 01:25:50,166] The energy changes.
+- [01:25:50,866 - 01:25:52,106] But what if you change them both?
+- [01:25:53,546 - 01:25:54,686] If you change them both,
+- [01:25:54,686 - 01:25:56,986] then the energy doesn't change sign.
+- [01:25:57,346 - 01:26:00,026] So if you go from two up to two down,
+- [01:26:00,026 - 01:26:01,246] that's a symmetry.
+- [01:26:01,426 - 01:26:03,566] Now we have this whole vast array of them,
+- [01:26:10,286 - 01:26:14,126] and what if we change all of the sigmas simultaneously?
+- [01:26:14,646 - 01:26:18,826] We write formally the equation sigma of i
+- [01:26:18,826 - 01:26:23,006] for all i goes to minus sigma of i.
+- [01:26:24,906 - 01:26:28,705] We replace every sigma by minus its value.
+- [01:26:28,905 - 01:26:30,705] Then the energy doesn't change.
+- [01:26:31,606 - 01:26:33,466] Then the energy doesn't change.
+- [01:26:33,466 - 01:26:35,226] And that's what it means to have a symmetry,
+- [01:26:35,486 - 01:26:37,866] an operation that you can do
+- [01:26:37,866 - 01:26:40,246] on the coordinates of a system
+- [01:26:40,246 - 01:26:42,086] that don't change the energy,
+- [01:26:42,086 - 01:26:42,986] no matter what state,
+- [01:26:42,986 - 01:26:43,886] for every state.
+- [01:26:44,106 - 01:26:45,126] Whatever the state is,
+- [01:26:45,126 - 01:26:49,006] there is another corresponding state
+- [01:26:49,806 - 01:26:52,646] which has the same energy but
+- [01:26:52,646 - 01:26:55,486] in which the spins are all reoriented
+- [01:26:55,486 - 01:26:57,626] opposite to what you started with.
+- [01:26:58,646 - 01:27:02,726] And that ensures that in some sense,
+- [01:27:02,726 - 01:27:06,166] there's no bias to up or down.
+- [01:27:06,906 - 01:27:10,116] If the system is going to flop
+- [01:27:10,116 - 01:27:13,326] itself all simultaneously into up at zero temperature,
+- [01:27:13,586 - 01:27:17,106] that means it could have also flopped itself into down.
+- [01:27:18,446 - 01:27:20,426] There's no way to predict in advance,
+- [01:27:20,566 - 01:27:23,746] unless you know that tiny little stray magnetic field,
+- [01:27:24,605 - 01:27:26,115] there's no way to predict in
+- [01:27:26,115 - 01:27:27,626] advance which way it's going to go,
+- [01:27:27,646 - 01:27:29,046] but it's going to go one way or the other,
+- [01:27:29,126 - 01:27:30,666] because the Boltzmann distribution says you've
+- [01:27:30,666 - 01:27:32,206] got to be in the ground state.
+- [01:27:33,186 - 01:27:33,756] So you've got to be in
+- [01:27:33,756 - 01:27:34,326] the ground state for zero temperature.
+- [01:27:36,666 - 01:27:37,946] And as I said,
+- [01:27:37,946 - 01:27:40,386] the little tiny stray magnetic field,
+- [01:27:40,506 - 01:27:42,186] which will determine which one it is,
+- [01:27:42,266 - 01:27:43,326] but it will be one of them.
+- [01:27:43,906 - 01:27:44,586] All right,
+- [01:27:44,586 - 01:27:46,566] so clearly the next thing we want to do
+- [01:27:46,566 - 01:27:49,786] is to solve the one-dimensional Ising model.
+- [01:27:50,626 - 01:27:51,746] We want to find,
+- [01:27:51,746 - 01:27:53,146] what do we want to do?
+- [01:27:53,306 - 01:27:57,426] We want to calculate exactly the same,
+- [01:27:57,466 - 01:27:58,326] not the same part,
+- [01:27:58,326 - 01:28:00,006] we want to calculate the partition function
+- [01:28:01,586 - 01:28:02,546] for this.
+- [01:28:04,245 - 01:28:05,986] So we're going to do that in the next time,
+- [01:28:06,126 - 01:28:07,286] we're going to do that in the next time,
+- [01:28:07,286 - 01:28:08,086] we're going to do that in the next time,
+- [01:28:08,246 - 01:28:08,906] we'll work it out,
+- [01:28:08,906 - 01:28:10,646] and we will see that there is not,
+- [01:28:10,786 - 01:28:12,796] it does not have a
+- [01:28:12,796 - 01:28:14,806] phase transition at a finite temperature.
+- [01:28:15,146 - 01:28:17,086] Nothing funny happens at finite temperature.
+- [01:28:20,006 - 01:28:21,386] Contrary to what Ising thought.
+- [01:28:22,786 - 01:28:25,376] It took a few more
+- [01:28:25,376 - 01:28:27,966] years for a couple of physicists
+- [01:28:27,966 - 01:28:30,336] named Cromers and Wannier to
+- [01:28:30,336 - 01:28:32,706] prove that if it's a two-dimensional,
+- [01:28:32,706 - 01:28:33,286] two-dimensional lattice,
+- [01:28:33,286 - 01:28:34,886] there is a phase transition.
+- [01:28:36,665 - 01:28:38,466] And that's a beautiful story,
+- [01:28:38,466 - 01:28:39,446] and we'll try to do it.
+- [01:28:41,066 - 01:28:41,886] For more,
+- [01:28:41,886 - 01:28:44,306] please visit us at stanford.edu.
