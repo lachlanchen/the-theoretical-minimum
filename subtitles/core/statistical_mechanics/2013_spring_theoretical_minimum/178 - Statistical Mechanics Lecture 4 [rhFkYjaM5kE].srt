@@ -1,0 +1,10196 @@
+1
+00:00:05,299 --> 00:00:06,180
+Stanford University.
+
+2
+00:00:09,859 --> 00:00:11,529
+Tonight we want to get to
+
+3
+00:00:11,529 --> 00:00:13,200
+the real heart of statistical mechanics,
+
+4
+00:00:13,200 --> 00:00:14,240
+the Boltzmann distribution.
+
+5
+00:00:15,020 --> 00:00:16,400
+And then I was hoping to work
+
+6
+00:00:16,400 --> 00:00:17,780
+out an example of the ideal gas.
+
+7
+00:00:17,780 --> 00:00:20,640
+So let's just very quickly review.
+
+8
+00:00:33,380 --> 00:00:39,890
+We worked out last time and the time before a basic
+
+9
+00:00:39,890 --> 00:00:46,400
+principle or set of rules for calculating the probabilities p sub i.
+
+10
+00:00:47,879 --> 00:00:49,340
+I won't repeat them.
+
+11
+00:00:49,460 --> 00:00:50,920
+I was going to repeat them,
+
+12
+00:00:50,920 --> 00:00:52,140
+but we're 15 minutes late.
+
+13
+00:00:52,620 --> 00:00:53,620
+What did I call them?
+
+14
+00:00:53,720 --> 00:00:55,480
+P of i or p sub i?
+
+15
+00:00:55,700 --> 00:00:56,340
+I can't remember.
+
+16
+00:00:57,740 --> 00:00:59,400
+P of i or p sub i?
+
+17
+00:01:02,199 --> 00:01:06,339
+The probability of the i-th state in any
+
+18
+00:01:06,339 --> 00:01:10,480
+one of the large number of replicated identical systems.
+
+19
+00:01:12,120 --> 00:01:13,900
+Just to remind you very quickly,
+
+20
+00:01:13,900 --> 00:01:16,300
+there were things called occupation numbers.
+
+21
+00:01:16,300 --> 00:01:17,160
+Namely,
+
+22
+00:01:17,160 --> 00:01:21,620
+the number of these subsystems here in the i-th state.
+
+23
+00:01:22,220 --> 00:01:24,580
+And if you divide that by total n,
+
+24
+00:01:24,580 --> 00:01:25,900
+the total number of them,
+
+25
+00:01:25,900 --> 00:01:28,040
+that defines the probability that any one
+
+26
+00:01:28,040 --> 00:01:30,180
+of them is in the i-th state.
+
+27
+00:01:31,300 --> 00:01:34,730
+And that gives us a probability
+
+28
+00:01:34,730 --> 00:01:38,160
+distribution over the states of the system.
+
+29
+00:01:39,220 --> 00:01:40,200
+From that,
+
+30
+00:01:40,200 --> 00:01:41,780
+we can compute an entropy.
+
+31
+00:01:46,940 --> 00:01:50,830
+Which is equal to minus summation over i
+
+32
+00:01:50,830 --> 00:01:54,720
+of p sub i logarithm of p sub i.
+
+33
+00:01:55,200 --> 00:01:57,580
+That was our definition of entropy
+
+34
+00:01:57,580 --> 00:01:59,960
+that we discussed a while ago.
+
+35
+00:02:00,500 --> 00:02:01,420
+And in fact,
+
+36
+00:02:01,420 --> 00:02:02,080
+what we found,
+
+37
+00:02:02,080 --> 00:02:04,220
+it came from just that
+
+38
+00:02:04,220 --> 00:02:06,360
+complicated binomial or multinomial distribution.
+
+39
+00:02:06,600 --> 00:02:09,180
+The capital N factorial over little n factorial,
+
+40
+00:02:09,180 --> 00:02:11,180
+product of little n factorials.
+
+41
+00:02:12,880 --> 00:02:15,680
+And we found that if we wrote that out,
+
+42
+00:02:15,680 --> 00:02:18,620
+writing that little n sub i
+
+43
+00:02:18,620 --> 00:02:21,560
+over big N is p sub i,
+
+44
+00:02:21,720 --> 00:02:27,780
+we found out that what we wanted to do,
+
+45
+00:02:27,780 --> 00:02:31,550
+to find out what set of occupation numbers
+
+46
+00:02:31,550 --> 00:02:35,320
+was the most likely set of occupation numbers,
+
+47
+00:02:36,160 --> 00:02:40,060
+turned out to be to maximize the entropy.
+
+48
+00:02:40,580 --> 00:02:42,060
+Maximize the entropy,
+
+49
+00:02:42,060 --> 00:02:45,140
+but subject to a constraint.
+
+50
+00:02:45,380 --> 00:02:45,820
+Incidentally,
+
+51
+00:02:45,820 --> 00:02:49,540
+let's think of this entropy here as a function.
+
+52
+00:02:49,700 --> 00:02:50,800
+What is it a function of?
+
+53
+00:02:52,500 --> 00:02:55,260
+It's a function of all of the p sub i's.
+
+54
+00:02:55,420 --> 00:02:56,520
+Think of it as a function.
+
+55
+00:02:57,280 --> 00:02:59,880
+But it's a function of all the p sub i's.
+
+56
+00:03:00,280 --> 00:03:00,780
+Fortunately,
+
+57
+00:03:00,780 --> 00:03:02,360
+it's a rather simple function.
+
+58
+00:03:02,760 --> 00:03:04,980
+It's a function which is a sum of terms,
+
+59
+00:03:04,980 --> 00:03:07,060
+one term for each p sub i.
+
+60
+00:03:07,060 --> 00:03:09,620
+So it's a simple thing,
+
+61
+00:03:09,620 --> 00:03:10,840
+relatively simple,
+
+62
+00:03:10,840 --> 00:03:13,200
+which is just a sum of
+
+63
+00:03:13,200 --> 00:03:15,560
+all the variables in the problem,
+
+64
+00:03:16,359 --> 00:03:17,800
+the probabilities i,
+
+65
+00:03:17,800 --> 00:03:21,020
+of a particularly simple function of p sub i.
+
+66
+00:03:21,440 --> 00:03:21,960
+Well,
+
+67
+00:03:21,960 --> 00:03:22,620
+it's not that simple.
+
+68
+00:03:22,740 --> 00:03:23,740
+It has a logarithm in it,
+
+69
+00:03:23,740 --> 00:03:24,780
+but not that bad either.
+
+70
+00:03:25,800 --> 00:03:26,320
+OK,
+
+71
+00:03:26,320 --> 00:03:31,600
+but it was important to remember that there are constraints.
+
+72
+00:03:34,600 --> 00:03:35,120
+Constraints.
+
+73
+00:03:35,300 --> 00:03:36,020
+Two constraints.
+
+74
+00:03:36,020 --> 00:03:37,600
+The first constraint,
+
+75
+00:03:40,820 --> 00:03:42,780
+you want to maximize s,
+
+76
+00:03:42,780 --> 00:03:45,140
+subject to two constraints.
+
+77
+00:03:45,340 --> 00:03:48,020
+Constraint one is that the summation of
+
+78
+00:03:48,020 --> 00:03:50,700
+p sub i is equal to one.
+
+79
+00:03:54,709 --> 00:03:56,160
+The next constraint is,
+
+80
+00:03:56,160 --> 00:03:59,100
+we started with a certain total amount of energy.
+
+81
+00:04:01,080 --> 00:04:04,280
+Let's call it capital E times n,
+
+82
+00:04:04,280 --> 00:04:05,260
+capital N.
+
+83
+00:04:05,260 --> 00:04:06,540
+Why times capital N?
+
+84
+00:04:06,660 --> 00:04:08,970
+Because I'm imagining there's a certain amount of energy
+
+85
+00:04:08,970 --> 00:04:11,280
+on the average in each one of these boxes.
+
+86
+00:04:11,700 --> 00:04:13,560
+And if I double the number of boxes,
+
+87
+00:04:13,560 --> 00:04:16,029
+I will want to double the amount of
+
+88
+00:04:16,029 --> 00:04:18,500
+energy that I have in the whole system.
+
+89
+00:04:19,260 --> 00:04:22,400
+So we assume the total energy is proportional to n.
+
+90
+00:04:23,840 --> 00:04:27,060
+And the average energy in each subsystem,
+
+91
+00:04:27,060 --> 00:04:27,400
+then,
+
+92
+00:04:27,400 --> 00:04:27,980
+too,
+
+93
+00:04:27,980 --> 00:04:31,480
+is a summation p sub i,
+
+94
+00:04:31,480 --> 00:04:33,880
+e sub i,
+
+95
+00:04:33,880 --> 00:04:34,200
+and p sub i.
+
+96
+00:04:34,200 --> 00:04:34,500
+And the sum of the
+
+97
+00:04:34,500 --> 00:04:34,800
+total energy is proportional to n.
+
+98
+00:04:36,000 --> 00:04:38,950
+The probability that a system has is in the
+
+99
+00:04:38,950 --> 00:04:41,900
+i-th state times the energy of the other i-th state.
+
+100
+00:04:42,140 --> 00:04:43,580
+And what is that equal to?
+
+101
+00:04:44,580 --> 00:04:47,260
+It's equal to the energy per box.
+
+102
+00:04:47,840 --> 00:04:49,700
+The average energy per box.
+
+103
+00:04:50,640 --> 00:04:52,260
+So we'll just call that E.
+
+104
+00:04:52,860 --> 00:04:53,860
+That's fixed.
+
+105
+00:04:55,300 --> 00:04:56,240
+It's fixed.
+
+106
+00:04:56,320 --> 00:04:59,840
+We've determined it once and for all by saying there
+
+107
+00:04:59,840 --> 00:05:03,360
+was a total amount of energy in the set of boxes.
+
+108
+00:05:05,020 --> 00:05:06,340
+That can't vary.
+
+109
+00:05:06,700 --> 00:05:09,640
+And so it's necessary that the
+
+110
+00:05:09,640 --> 00:05:12,580
+average energy in each box is fixed,
+
+111
+00:05:12,580 --> 00:05:13,580
+equal to E.
+
+112
+00:05:14,320 --> 00:05:17,030
+Where E is the total energy
+
+113
+00:05:17,030 --> 00:05:19,740
+divided by the number of boxes.
+
+114
+00:05:20,360 --> 00:05:21,020
+Okay.
+
+115
+00:05:21,080 --> 00:05:22,360
+So these are the two constraints.
+
+116
+00:05:24,620 --> 00:05:28,980
+Let me just write minus the entropy and write that
+
+117
+00:05:28,980 --> 00:05:33,340
+minus the entropy is plus p sub i log p.
+
+118
+00:05:33,360 --> 00:05:37,180
+Just for a particular linguistic reason,
+
+119
+00:05:37,180 --> 00:05:39,590
+I want to talk about
+
+120
+00:05:39,590 --> 00:05:42,000
+minimizing something rather than maximizing it.
+
+121
+00:05:42,200 --> 00:05:43,640
+It's just a habit.
+
+122
+00:05:44,080 --> 00:05:47,120
+It's a linguistic habit for
+
+123
+00:05:47,120 --> 00:05:50,160
+me to talk about minimizing something.
+
+124
+00:05:50,720 --> 00:05:54,170
+So I will talk about minimizing the
+
+125
+00:05:54,170 --> 00:05:57,620
+function minus s subject to these constraints.
+
+126
+00:05:58,400 --> 00:06:02,160
+The constraints also involve the same set of variables.
+
+127
+00:06:02,780 --> 00:06:07,990
+So what are the rules for finding
+
+128
+00:06:07,990 --> 00:06:13,200
+the minimum of a function given some constraints?
+
+129
+00:06:13,720 --> 00:06:14,600
+And there,
+
+130
+00:06:14,600 --> 00:06:16,080
+we talked about it last time,
+
+131
+00:06:16,080 --> 00:06:18,160
+the method is the method of Lagrange multipliers.
+
+132
+00:06:18,940 --> 00:06:23,620
+Now it's a highly formalized mathematical construction,
+
+133
+00:06:23,620 --> 00:06:25,760
+but it's extremely powerful.
+
+134
+00:06:27,180 --> 00:06:28,200
+Anybody who does,
+
+135
+00:06:28,200 --> 00:06:28,720
+first of all,
+
+136
+00:06:28,720 --> 00:06:30,430
+anybody who does statistical mechanics will use
+
+137
+00:06:30,430 --> 00:06:32,140
+it over and over and over again.
+
+138
+00:06:32,140 --> 00:06:34,580
+But in all sorts of contexts where
+
+139
+00:06:34,580 --> 00:06:37,020
+you want to find the minimum of something,
+
+140
+00:06:37,020 --> 00:06:39,180
+where you know some other things,
+
+141
+00:06:39,180 --> 00:06:41,260
+this is the way to do it.
+
+142
+00:06:41,680 --> 00:06:46,440
+So what you do is you take your function,
+
+143
+00:06:46,440 --> 00:06:48,840
+which in this case,
+
+144
+00:06:48,840 --> 00:06:53,580
+let's call this f of p sub i.
+
+145
+00:06:53,960 --> 00:06:55,440
+f of all the p's.
+
+146
+00:06:56,340 --> 00:06:58,460
+I'm calling it f because we called,
+
+147
+00:06:58,460 --> 00:07:00,700
+because it's just a function that we want to minimize.
+
+148
+00:07:01,180 --> 00:07:01,740
+All right.
+
+149
+00:07:02,140 --> 00:07:05,120
+So you minimize f subject to these constraints.
+
+150
+00:07:05,460 --> 00:07:06,980
+So let me remind you what you do.
+
+151
+00:07:07,920 --> 00:07:14,050
+You take f and you
+
+152
+00:07:14,050 --> 00:07:20,180
+add to it the constraint equation.
+
+153
+00:07:20,880 --> 00:07:22,040
+By the constraint equation,
+
+154
+00:07:22,040 --> 00:07:25,000
+let me write the constraint equation in this way.
+
+155
+00:07:29,180 --> 00:07:31,920
+The left-hand side of the constraint equation.
+
+156
+00:07:33,680 --> 00:07:35,380
+The thing which is equal to zero.
+
+157
+00:07:36,400 --> 00:07:39,920
+You multiply each constraint by a Lagrange multiplier.
+
+158
+00:07:40,360 --> 00:07:41,200
+That's just a number.
+
+159
+00:07:41,380 --> 00:07:42,240
+Later on,
+
+160
+00:07:42,240 --> 00:07:43,640
+we will figure out what the numbers are.
+
+161
+00:07:45,420 --> 00:07:48,400
+Let's call the first Lagrange multiplier alpha.
+
+162
+00:07:51,140 --> 00:07:54,620
+I called the general Lagrange multiplier last time lambda.
+
+163
+00:07:55,260 --> 00:07:58,620
+But now I'm going to have two Lagrange multipliers.
+
+164
+00:07:59,360 --> 00:08:01,180
+One for one constraint.
+
+165
+00:08:01,180 --> 00:08:02,680
+The other for the other constraint.
+
+166
+00:08:02,980 --> 00:08:04,700
+And so I'm going to call them alpha and beta.
+
+167
+00:08:05,660 --> 00:08:06,240
+All right.
+
+168
+00:08:06,260 --> 00:08:08,780
+So the lambdas in this problem are alpha and beta.
+
+169
+00:08:08,920 --> 00:08:09,770
+And I want to distinguish
+
+170
+00:08:09,770 --> 00:08:10,620
+them because they're a little different.
+
+171
+00:08:10,720 --> 00:08:11,720
+They play a little different role.
+
+172
+00:08:12,140 --> 00:08:12,760
+All right.
+
+173
+00:08:12,820 --> 00:08:14,560
+So here's the first constraint equation.
+
+174
+00:08:16,980 --> 00:08:22,460
+Alpha times summation over i p sub i minus one.
+
+175
+00:08:25,140 --> 00:08:28,360
+And then the second Lagrange multiplier is called beta.
+
+176
+00:08:31,120 --> 00:08:36,089
+And that's summation e sub i
+
+177
+00:08:36,089 --> 00:08:41,059
+p sub i minus the constant e.
+
+178
+00:08:41,320 --> 00:08:47,680
+Here e is a fixed constant that's been determined once and for
+
+179
+00:08:47,680 --> 00:08:54,040
+all by the energy supply for the whole collection of identical systems.
+
+180
+00:08:55,700 --> 00:08:57,960
+So e is also a constant.
+
+181
+00:08:58,420 --> 00:08:59,580
+And here we have it.
+
+182
+00:08:59,660 --> 00:09:01,020
+Now what is the rule?
+
+183
+00:09:01,320 --> 00:09:02,460
+The rule is,
+
+184
+00:09:02,460 --> 00:09:04,340
+and this is called now f prime.
+
+185
+00:09:04,680 --> 00:09:08,380
+I'm using the same notation I did last time
+
+186
+00:09:08,380 --> 00:09:12,080
+where you take the thing you want to measure.
+
+187
+00:09:12,260 --> 00:09:12,600
+Sorry,
+
+188
+00:09:12,600 --> 00:09:13,660
+that you want to minimize.
+
+189
+00:09:14,560 --> 00:09:17,740
+You add Lagrange multipliers to the constraints.
+
+190
+00:09:18,860 --> 00:09:21,440
+And then you minimize f prime.
+
+191
+00:09:22,240 --> 00:09:23,130
+That will leave you with a constant
+
+192
+00:09:23,130 --> 00:09:24,020
+e sub i p sub i minus one.
+
+193
+00:09:24,020 --> 00:09:24,120
+So you have a function of alpha and beta.
+
+194
+00:09:24,120 --> 00:09:26,010
+And you can now do this with
+
+195
+00:09:26,010 --> 00:09:27,900
+unknown values of the alphas and betas.
+
+196
+00:09:28,320 --> 00:09:31,200
+But then you figure them out by imposing the constraints.
+
+197
+00:09:32,080 --> 00:09:33,650
+We're also considering that f prime
+
+198
+00:09:33,650 --> 00:09:35,220
+is a function of alpha and beta?
+
+199
+00:09:36,200 --> 00:09:36,560
+Yes,
+
+200
+00:09:36,560 --> 00:09:37,820
+it is a function of alpha and beta.
+
+201
+00:09:37,960 --> 00:09:38,770
+But for the moment I
+
+202
+00:09:38,770 --> 00:09:39,580
+want to focus on the fact,
+
+203
+00:09:39,580 --> 00:09:39,860
+yeah,
+
+204
+00:09:39,860 --> 00:09:41,100
+it is a function of alpha and beta.
+
+205
+00:09:42,040 --> 00:09:42,400
+Right.
+
+206
+00:09:42,500 --> 00:09:43,020
+It is.
+
+207
+00:09:43,520 --> 00:09:45,590
+But I want to focus on the
+
+208
+00:09:45,590 --> 00:09:47,660
+fact mostly that it's a function of p.
+
+209
+00:09:49,220 --> 00:09:49,580
+Okay.
+
+210
+00:09:49,580 --> 00:09:51,240
+Now we're very lucky in this case.
+
+211
+00:09:52,140 --> 00:09:53,460
+Each term here.
+
+212
+00:09:54,340 --> 00:09:54,820
+Oh,
+
+213
+00:09:54,820 --> 00:09:58,340
+well first of all what we're going to do to
+
+214
+00:09:58,340 --> 00:10:01,860
+minimize it is differentiate the f's with respect to the variables.
+
+215
+00:10:02,220 --> 00:10:03,480
+And set it equal to zero.
+
+216
+00:10:03,600 --> 00:10:05,120
+That's the way you find a minimum.
+
+217
+00:10:06,100 --> 00:10:08,230
+That means we're going to take this f of
+
+218
+00:10:08,230 --> 00:10:10,360
+p and differentiate it with respect to the p's.
+
+219
+00:10:10,880 --> 00:10:14,500
+When I differentiate it with respect to the p's,
+
+220
+00:10:14,500 --> 00:10:16,660
+the one here won't give us anything.
+
+221
+00:10:17,580 --> 00:10:18,060
+Right.
+
+222
+00:10:18,140 --> 00:10:19,160
+It's just a constant.
+
+223
+00:10:19,580 --> 00:10:22,700
+It contains alpha,
+
+224
+00:10:22,700 --> 00:10:25,000
+but we're not differentiating with respect to alpha.
+
+225
+00:10:25,380 --> 00:10:27,120
+So for practical purposes,
+
+226
+00:10:27,120 --> 00:10:29,680
+I'm going to throw away this one here.
+
+227
+00:10:31,140 --> 00:10:31,620
+Likewise,
+
+228
+00:10:31,620 --> 00:10:34,360
+when I differentiate this thing with respect to p,
+
+229
+00:10:34,360 --> 00:10:36,520
+the e won't contribute.
+
+230
+00:10:37,020 --> 00:10:39,160
+So let's just get rid of it and forget it.
+
+231
+00:10:39,780 --> 00:10:41,580
+It's not going to be important because
+
+232
+00:10:41,580 --> 00:10:43,380
+the equation that we're going to write,
+
+233
+00:10:43,380 --> 00:10:44,400
+namely,
+
+234
+00:10:44,400 --> 00:10:46,600
+that the derivative of this thing with respect
+
+235
+00:10:46,600 --> 00:10:48,800
+to each of the p's is equal to zero.
+
+236
+00:10:48,800 --> 00:10:50,480
+it's not sensitive to that.
+
+237
+00:10:50,480 --> 00:10:51,080
+So there we are.
+
+238
+00:10:51,080 --> 00:10:52,300
+Here's what we have to minimize.
+
+239
+00:10:52,980 --> 00:10:54,140
+And what is f?
+
+240
+00:10:54,140 --> 00:10:58,600
+f is also a sum,
+
+241
+00:10:58,600 --> 00:11:02,300
+and it's a sum p
+
+242
+00:11:02,300 --> 00:11:06,000
+sub i log p sub i.
+
+243
+00:11:06,880 --> 00:11:11,540
+This is very fortunate that each term is a sum,
+
+244
+00:11:11,540 --> 00:11:16,480
+each term of which contains only one of the p's.
+
+245
+00:11:18,619 --> 00:11:19,560
+Each term.
+
+246
+00:11:19,560 --> 00:11:21,640
+So supposing I want to differentiate
+
+247
+00:11:21,640 --> 00:11:23,720
+this with respect to some particular p.
+
+248
+00:11:24,460 --> 00:11:26,640
+Just to focus attention on what we're doing,
+
+249
+00:11:26,640 --> 00:11:27,660
+let's pick p7.
+
+250
+00:11:29,760 --> 00:11:31,930
+We want to differentiate this with respect
+
+251
+00:11:31,930 --> 00:11:34,100
+to p7 and set it equal to 0.
+
+252
+00:11:35,320 --> 00:11:37,140
+So here's p7,
+
+253
+00:11:37,140 --> 00:11:41,420
+here's one term which is p7 log p7.
+
+254
+00:11:43,460 --> 00:11:46,120
+What's the derivative of that with respect to p7?
+
+255
+00:11:47,680 --> 00:11:52,600
+We want to differentiate this with respect to p7.
+
+256
+00:11:52,600 --> 00:11:56,610
+What we're writing now is we're writing
+
+257
+00:11:56,610 --> 00:12:00,620
+derivative of f prime with respect to p7.
+
+258
+00:12:01,460 --> 00:12:02,440
+Why 7?
+
+259
+00:12:02,440 --> 00:12:03,500
+No reason.
+
+260
+00:12:03,500 --> 00:12:06,980
+One is too special.
+
+261
+00:12:08,300 --> 00:12:11,500
+Seven is a randomly picked number.
+
+262
+00:12:12,920 --> 00:12:14,000
+The lucky number.
+
+263
+00:12:14,460 --> 00:12:14,600
+Yeah,
+
+264
+00:12:14,600 --> 00:12:15,460
+the lucky number.
+
+265
+00:12:16,680 --> 00:12:17,220
+Alright,
+
+266
+00:12:17,220 --> 00:12:17,940
+so f prime,
+
+267
+00:12:17,940 --> 00:12:21,870
+the derivative of f prime with respect to p7 is
+
+268
+00:12:21,870 --> 00:12:25,800
+the derivative with respect to p7 of p7 log p7.
+
+269
+00:12:27,200 --> 00:12:28,260
+And that is,
+
+270
+00:12:28,260 --> 00:12:28,800
+okay,
+
+271
+00:12:28,800 --> 00:12:30,200
+so we have p log p.
+
+272
+00:12:30,880 --> 00:12:32,680
+There are two terms in the derivative.
+
+273
+00:12:33,120 --> 00:12:34,400
+In the first term,
+
+274
+00:12:34,400 --> 00:12:39,720
+we differentiate p keeping log and not log.
+
+275
+00:12:40,360 --> 00:12:42,440
+So that gives us just log p7.
+
+276
+00:12:45,140 --> 00:12:46,480
+Differentiating p gives us 1.
+
+277
+00:12:47,260 --> 00:12:50,500
+What's the other term where you differentiate log?
+
+278
+00:12:50,720 --> 00:12:51,680
+What's the derivative of log?
+
+279
+00:12:52,520 --> 00:12:54,140
+1 over p times p?
+
+280
+00:12:54,140 --> 00:12:55,240
+1.
+
+281
+00:12:56,040 --> 00:12:57,200
+So this is pretty easy.
+
+282
+00:12:57,340 --> 00:12:59,840
+That's the first term.
+
+283
+00:13:00,300 --> 00:13:02,420
+What's the derivative of this
+
+284
+00:13:02,420 --> 00:13:04,540
+thing here with respect to p7?
+
+285
+00:13:06,120 --> 00:13:07,100
+Really easy,
+
+286
+00:13:07,100 --> 00:13:08,400
+even easier than this one.
+
+287
+00:13:08,840 --> 00:13:09,680
+Plus alpha.
+
+288
+00:13:12,680 --> 00:13:14,360
+Same for every one of the p's,
+
+289
+00:13:14,360 --> 00:13:15,060
+incidentally.
+
+290
+00:13:15,360 --> 00:13:17,580
+And how about the derivative of this one?
+
+291
+00:13:21,000 --> 00:13:23,160
+Plus beta e7.
+
+292
+00:13:26,880 --> 00:13:27,860
+That's pretty simple.
+
+293
+00:13:28,460 --> 00:13:30,820
+We have the same thing for
+
+294
+00:13:30,820 --> 00:13:33,180
+p8 and p4 and p9 and p152.
+
+295
+00:13:36,120 --> 00:13:36,640
+So,
+
+296
+00:13:36,640 --> 00:13:39,620
+let's just write p i here.
+
+297
+00:13:40,880 --> 00:13:42,180
+Log p i.
+
+298
+00:13:44,420 --> 00:13:47,540
+1 plus alpha times e i.
+
+299
+00:13:50,960 --> 00:13:52,940
+Now what is this thing supposed to be equal to?
+
+300
+00:13:54,680 --> 00:13:55,160
+Zero.
+
+301
+00:13:58,360 --> 00:13:58,840
+Well,
+
+302
+00:13:58,840 --> 00:13:59,820
+this is kind of amazing.
+
+303
+00:14:00,060 --> 00:14:00,680
+At this point,
+
+304
+00:14:00,680 --> 00:14:01,120
+you know,
+
+305
+00:14:01,120 --> 00:14:03,880
+statistical mechanics is full of things like this.
+
+306
+00:14:03,980 --> 00:14:04,840
+Sort of magic.
+
+307
+00:14:05,020 --> 00:14:07,800
+Magical identities which all of a sudden,
+
+308
+00:14:07,800 --> 00:14:09,500
+as you're playing with them,
+
+309
+00:14:09,620 --> 00:14:10,600
+you look at it and say,
+
+310
+00:14:10,660 --> 00:14:10,880
+wow,
+
+311
+00:14:10,880 --> 00:14:12,600
+I just discovered something important.
+
+312
+00:14:13,200 --> 00:14:14,880
+I just discovered something unexpected.
+
+313
+00:14:15,920 --> 00:14:16,600
+Unexpected how?
+
+314
+00:14:17,020 --> 00:14:17,460
+Look,
+
+315
+00:14:17,460 --> 00:14:19,640
+this is an equation for p i.
+
+316
+00:14:19,780 --> 00:14:21,700
+It's going to tell us what p i is.
+
+317
+00:14:22,700 --> 00:14:26,030
+Let's write it as log p
+
+318
+00:14:26,030 --> 00:14:29,360
+i equals minus 1 plus alpha.
+
+319
+00:14:29,480 --> 00:14:30,280
+That's a number now.
+
+320
+00:14:30,500 --> 00:14:32,440
+We haven't figured out what alpha is yet,
+
+321
+00:14:32,500 --> 00:14:33,820
+but we'll figure it out soon enough.
+
+322
+00:14:35,320 --> 00:14:37,460
+Minus beta e i.
+
+323
+00:14:39,460 --> 00:14:42,180
+And what does that tell us that p i is?
+
+324
+00:14:44,960 --> 00:14:46,000
+We exponentiate,
+
+325
+00:14:46,000 --> 00:14:46,380
+right?
+
+326
+00:14:47,360 --> 00:14:49,340
+So it's first of all e
+
+327
+00:14:49,340 --> 00:14:51,320
+to the minus 1 plus alpha.
+
+328
+00:14:51,820 --> 00:14:52,340
+Well,
+
+329
+00:14:52,340 --> 00:14:53,020
+that's a number.
+
+330
+00:14:54,740 --> 00:14:55,520
+That's a number.
+
+331
+00:14:55,660 --> 00:14:58,980
+I'm going to call it by its standard name.
+
+332
+00:14:59,880 --> 00:15:02,560
+Its standard name is just 1 over z.
+
+333
+00:15:05,200 --> 00:15:06,600
+e to the minus,
+
+334
+00:15:06,780 --> 00:15:07,440
+or e to the minus,
+
+335
+00:15:07,440 --> 00:15:08,240
+1 to the 1 plus alpha
+
+336
+00:15:11,060 --> 00:15:13,620
+is called in statistical mechanics z.
+
+337
+00:15:14,360 --> 00:15:15,500
+It has a name.
+
+338
+00:15:16,760 --> 00:15:17,660
+For the moment,
+
+339
+00:15:17,660 --> 00:15:19,020
+I'm not going to write the name,
+
+340
+00:15:19,140 --> 00:15:20,060
+but this is just...
+
+341
+00:15:20,060 --> 00:15:21,740
+I didn't know what alpha was,
+
+342
+00:15:21,980 --> 00:15:23,340
+and I don't know what z is.
+
+343
+00:15:23,620 --> 00:15:25,760
+So I haven't lost or gained any information
+
+344
+00:15:25,760 --> 00:15:28,340
+by replacing e to the minus 1 over alpha
+
+345
+00:15:28,340 --> 00:15:29,540
+and calling it 1 over z.
+
+346
+00:15:33,420 --> 00:15:33,900
+Now,
+
+347
+00:15:33,900 --> 00:15:36,200
+I'm exponentiating this thing.
+
+348
+00:15:36,200 --> 00:15:38,030
+The first factor is e
+
+349
+00:15:38,030 --> 00:15:39,860
+to the minus 1 plus alpha.
+
+350
+00:15:39,920 --> 00:15:40,860
+That's my 1 over z.
+
+351
+00:15:41,080 --> 00:15:43,630
+But then the second factor is e
+
+352
+00:15:43,630 --> 00:15:46,180
+to the minus beta e sub i.
+
+353
+00:15:48,500 --> 00:15:53,520
+This piece here doesn't distinguish the different states.
+
+354
+00:15:53,740 --> 00:15:54,840
+It's just a number.
+
+355
+00:15:56,640 --> 00:15:58,280
+It is important.
+
+356
+00:15:58,540 --> 00:15:59,840
+It's not that it's not important,
+
+357
+00:15:59,960 --> 00:16:03,280
+but the relative probabilities of different states
+
+358
+00:16:03,280 --> 00:16:05,240
+are all contained in here.
+
+359
+00:16:05,240 --> 00:16:07,460
+And what have we found?
+
+360
+00:16:07,640 --> 00:16:10,060
+We found that the relative probabilities
+
+361
+00:16:10,060 --> 00:16:11,660
+of the different states
+
+362
+00:16:11,940 --> 00:16:14,060
+are simply exponentials.
+
+363
+00:16:15,780 --> 00:16:18,560
+Exponentials of e to the minus beta e sub i.
+
+364
+00:16:18,820 --> 00:16:20,320
+Beta must mean something.
+
+365
+00:16:21,160 --> 00:16:23,640
+Beta must have some physical significance.
+
+366
+00:16:25,080 --> 00:16:26,500
+It's the thing...
+
+367
+00:16:26,500 --> 00:16:28,840
+It's the only variable in here
+
+368
+00:16:29,660 --> 00:16:32,340
+that tells us what kind of...
+
+369
+00:16:32,340 --> 00:16:32,820
+Well,
+
+370
+00:16:32,820 --> 00:16:33,320
+that...
+
+371
+00:16:33,320 --> 00:16:34,000
+Ah.
+
+372
+00:16:35,820 --> 00:16:37,420
+It's the only variable in here
+
+373
+00:16:37,420 --> 00:16:38,840
+that has any chance of telling us
+
+374
+00:16:38,840 --> 00:16:40,120
+what the average energy is.
+
+375
+00:16:40,920 --> 00:16:42,300
+Notice what this looks like.
+
+376
+00:16:44,540 --> 00:16:45,620
+Here's the probability.
+
+377
+00:16:47,100 --> 00:16:48,960
+Here's the energy going horizontally.
+
+378
+00:16:49,900 --> 00:16:52,160
+And it's just an exponential function
+
+379
+00:16:52,160 --> 00:16:53,140
+which falls off.
+
+380
+00:16:55,100 --> 00:16:56,920
+The bigger beta is,
+
+381
+00:16:59,820 --> 00:17:01,840
+the faster it falls off.
+
+382
+00:17:03,419 --> 00:17:05,319
+The smaller beta is,
+
+383
+00:17:05,579 --> 00:17:07,700
+the slower it falls off.
+
+384
+00:17:10,280 --> 00:17:12,040
+What are these different curves
+
+385
+00:17:13,180 --> 00:17:15,220
+going to be parametrized by?
+
+386
+00:17:15,339 --> 00:17:15,520
+Well,
+
+387
+00:17:15,520 --> 00:17:16,740
+they're parametrized by beta,
+
+388
+00:17:17,460 --> 00:17:19,619
+but they also can be parametrized
+
+389
+00:17:19,619 --> 00:17:20,599
+by the average energy.
+
+390
+00:17:21,060 --> 00:17:22,200
+It's quite clear
+
+391
+00:17:23,040 --> 00:17:25,339
+that the further out this curve is,
+
+392
+00:17:25,400 --> 00:17:25,819
+like this,
+
+393
+00:17:26,630 --> 00:17:28,760
+the larger the average energy.
+
+394
+00:17:29,620 --> 00:17:30,340
+Mm-hmm.
+
+395
+00:17:31,080 --> 00:17:32,340
+The bigger beta,
+
+396
+00:17:33,760 --> 00:17:35,660
+the smaller the average energy.
+
+397
+00:17:35,840 --> 00:17:37,200
+The smaller beta,
+
+398
+00:17:37,440 --> 00:17:38,840
+the bigger the average energy.
+
+399
+00:17:39,020 --> 00:17:41,180
+So beta has something to do with energy.
+
+400
+00:17:42,680 --> 00:17:44,400
+It's the thing that you tune
+
+401
+00:17:45,300 --> 00:17:46,940
+to change the average energy.
+
+402
+00:17:47,620 --> 00:17:49,980
+We're gonna be more specific about that.
+
+403
+00:17:51,260 --> 00:17:52,700
+It's the thing that you tune
+
+404
+00:17:53,060 --> 00:17:54,520
+to change the average energy.
+
+405
+00:17:55,080 --> 00:17:55,740
+But for now,
+
+406
+00:17:55,740 --> 00:17:56,880
+it's just called beta,
+
+407
+00:17:57,000 --> 00:17:58,060
+and its significance
+
+408
+00:17:58,060 --> 00:17:59,680
+is a certain Lagrange multiplier.
+
+409
+00:18:00,899 --> 00:18:02,300
+What is its real significance?
+
+410
+00:18:03,640 --> 00:18:04,100
+Temperature.
+
+411
+00:18:04,520 --> 00:18:05,340
+Inverse temperature.
+
+412
+00:18:06,980 --> 00:18:08,800
+Beta is the inverse temperature,
+
+413
+00:18:08,980 --> 00:18:10,140
+but how the hell do we prove that?
+
+414
+00:18:10,240 --> 00:18:12,000
+We already have a definition of temperature.
+
+415
+00:18:13,580 --> 00:18:15,340
+I'll remind you when we get to it
+
+416
+00:18:15,340 --> 00:18:17,060
+what the definition of temperature is.
+
+417
+00:18:18,600 --> 00:18:19,940
+But here's our probabilities
+
+418
+00:18:19,940 --> 00:18:22,400
+in terms of two parameters.
+
+419
+00:18:23,520 --> 00:18:24,320
+One is z,
+
+420
+00:18:25,000 --> 00:18:25,980
+and one is beta.
+
+421
+00:18:26,260 --> 00:18:28,180
+The two Lagrange multipliers.
+
+422
+00:18:28,600 --> 00:18:29,200
+All right,
+
+423
+00:18:29,200 --> 00:18:30,320
+now we have to come back.
+
+424
+00:18:30,340 --> 00:18:32,580
+How do we fix the Lagrange multipliers?
+
+425
+00:18:32,860 --> 00:18:34,900
+We fix the Lagrange multipliers
+
+426
+00:18:36,000 --> 00:18:38,460
+by making sure the constraints are satisfied.
+
+427
+00:18:39,140 --> 00:18:40,540
+So the first constraint
+
+428
+00:18:41,120 --> 00:18:42,940
+is that the sum of all the probabilities
+
+429
+00:18:42,940 --> 00:18:44,100
+has to add up to one.
+
+430
+00:18:45,200 --> 00:18:46,140
+That's the equation.
+
+431
+00:18:46,720 --> 00:18:47,620
+Let's write it out.
+
+432
+00:18:47,720 --> 00:18:48,340
+One over z
+
+433
+00:18:49,600 --> 00:18:51,320
+times the summation over i
+
+434
+00:18:51,320 --> 00:18:54,120
+of e to the minus beta e sub i
+
+435
+00:18:54,899 --> 00:18:56,020
+is equal to one.
+
+436
+00:18:56,080 --> 00:18:56,480
+Incidentally,
+
+437
+00:18:56,480 --> 00:18:58,060
+where do the e sub i's come from?
+
+438
+00:18:58,140 --> 00:18:58,500
+What are they?
+
+439
+00:19:01,120 --> 00:19:01,640
+Well,
+
+440
+00:19:01,640 --> 00:19:02,160
+they're...
+
+441
+00:19:03,160 --> 00:19:03,680
+Yeah,
+
+442
+00:19:03,680 --> 00:19:04,800
+you throw up your hands and you say
+
+443
+00:19:04,800 --> 00:19:07,420
+some laws of physics that had to do with
+
+444
+00:19:07,420 --> 00:19:08,840
+whatever is inside the box
+
+445
+00:19:09,360 --> 00:19:11,760
+tells you what the possible energy levels are.
+
+446
+00:19:12,280 --> 00:19:14,200
+So those from our point of view now
+
+447
+00:19:14,200 --> 00:19:15,960
+are simply numbers that are known.
+
+448
+00:19:16,820 --> 00:19:19,180
+Somebody has been smart enough to compute them
+
+449
+00:19:19,180 --> 00:19:21,360
+and tells us what the energy levels are.
+
+450
+00:19:22,140 --> 00:19:24,560
+What this tells us is what the average,
+
+451
+00:19:24,660 --> 00:19:27,740
+what the probability to be in the i-th level is
+
+452
+00:19:27,740 --> 00:19:29,240
+as a function of beta.
+
+453
+00:19:29,240 --> 00:19:31,020
+And beta is a thing
+
+454
+00:19:31,720 --> 00:19:33,340
+that has to do somehow
+
+455
+00:19:33,860 --> 00:19:35,420
+with the average energy
+
+456
+00:19:36,360 --> 00:19:37,860
+because as we vary beta,
+
+457
+00:19:37,860 --> 00:19:38,880
+we shift the curve.
+
+458
+00:19:39,300 --> 00:19:40,100
+Excuse me,
+
+459
+00:19:40,100 --> 00:19:40,320
+question.
+
+460
+00:19:40,640 --> 00:19:40,820
+Yeah.
+
+461
+00:19:41,360 --> 00:19:43,840
+I'm trying to understand your graph over there.
+
+462
+00:19:44,000 --> 00:19:45,120
+On the vertical axis,
+
+463
+00:19:45,120 --> 00:19:46,620
+that's a particular p i,
+
+464
+00:19:46,860 --> 00:19:47,380
+is that correct?
+
+465
+00:19:47,700 --> 00:19:47,940
+No,
+
+466
+00:19:47,940 --> 00:19:48,240
+that's...
+
+467
+00:19:48,240 --> 00:19:48,340
+Yeah,
+
+468
+00:19:48,340 --> 00:19:48,860
+no,
+
+469
+00:19:48,860 --> 00:19:49,100
+no,
+
+470
+00:19:49,100 --> 00:19:49,200
+no,
+
+471
+00:19:49,200 --> 00:19:49,460
+no,
+
+472
+00:19:49,460 --> 00:19:49,860
+no,
+
+473
+00:19:49,860 --> 00:19:49,960
+no.
+
+474
+00:19:50,280 --> 00:19:51,820
+This is e i.
+
+475
+00:19:52,140 --> 00:19:52,660
+Yeah.
+
+476
+00:19:53,020 --> 00:19:54,800
+So there's a whole bunch of i's here.
+
+477
+00:19:55,780 --> 00:19:58,240
+This is i equals one.
+
+478
+00:19:58,240 --> 00:19:58,780
+One.
+
+479
+00:19:58,940 --> 00:20:00,140
+This is i equals two.
+
+480
+00:20:00,720 --> 00:20:01,240
+Right?
+
+481
+00:20:01,240 --> 00:20:01,680
+Okay.
+
+482
+00:20:02,340 --> 00:20:02,860
+Right.
+
+483
+00:20:02,980 --> 00:20:04,820
+But you can also think of it as a function
+
+484
+00:20:04,820 --> 00:20:07,440
+of the energy of the level by just saying
+
+485
+00:20:07,440 --> 00:20:08,840
+every level has a certain energy.
+
+486
+00:20:09,080 --> 00:20:09,500
+Right?
+
+487
+00:20:10,060 --> 00:20:11,560
+So the bigger beta is,
+
+488
+00:20:11,820 --> 00:20:15,180
+the more rapidly this function falls to zero.
+
+489
+00:20:15,880 --> 00:20:17,400
+If beta is huge,
+
+490
+00:20:17,740 --> 00:20:20,600
+then it's dominated by the lowest energy levels.
+
+491
+00:20:21,680 --> 00:20:22,380
+All right?
+
+492
+00:20:22,840 --> 00:20:25,620
+Just make the energy even a little bit bigger
+
+493
+00:20:25,620 --> 00:20:27,700
+and you'll lose a whole bunch of probability.
+
+494
+00:20:28,380 --> 00:20:29,480
+On the other hand,
+
+495
+00:20:29,480 --> 00:20:30,680
+if beta is near zero,
+
+496
+00:20:32,080 --> 00:20:35,100
+then this curve is practically flat
+
+497
+00:20:35,100 --> 00:20:38,290
+and it's going to contain important contributions
+
+498
+00:20:38,800 --> 00:20:39,940
+from large energy.
+
+499
+00:20:40,860 --> 00:20:42,520
+So by tuning beta,
+
+500
+00:20:42,520 --> 00:20:43,660
+you tune the energy,
+
+501
+00:20:43,860 --> 00:20:45,420
+or you tune the average energy.
+
+502
+00:20:45,900 --> 00:20:47,340
+We'll come back to that in a moment.
+
+503
+00:20:49,260 --> 00:20:49,800
+Okay,
+
+504
+00:20:49,800 --> 00:20:50,420
+from this,
+
+505
+00:20:50,420 --> 00:20:51,520
+from here now,
+
+506
+00:20:52,720 --> 00:20:54,780
+we see what z is.
+
+507
+00:20:55,520 --> 00:20:56,560
+Multiply by z,
+
+508
+00:20:56,560 --> 00:20:59,460
+and now you have a formula for z
+
+509
+00:20:59,460 --> 00:21:01,660
+for the unknown Lagrange multiplier.
+
+510
+00:21:03,780 --> 00:21:04,740
+And incidentally,
+
+511
+00:21:04,740 --> 00:21:05,080
+in general,
+
+512
+00:21:05,140 --> 00:21:08,620
+Lagrange multipliers depend on,
+
+513
+00:21:13,600 --> 00:21:14,080
+well,
+
+514
+00:21:14,080 --> 00:21:15,300
+they are numbers,
+
+515
+00:21:15,400 --> 00:21:17,200
+but they may depend on each other.
+
+516
+00:21:17,260 --> 00:21:17,580
+But here,
+
+517
+00:21:17,580 --> 00:21:19,680
+the first Lagrange multiplier,
+
+518
+00:21:19,760 --> 00:21:20,540
+that's the alpha,
+
+519
+00:21:20,540 --> 00:21:22,320
+or strictly speaking,
+
+520
+00:21:22,440 --> 00:21:23,760
+it's e to the one plus alpha,
+
+521
+00:21:24,600 --> 00:21:26,480
+that we see is a function of beta.
+
+522
+00:21:26,560 --> 00:21:27,600
+In general,
+
+523
+00:21:27,600 --> 00:21:28,620
+it is a function of beta,
+
+524
+00:21:28,780 --> 00:21:31,020
+but it doesn't depend,
+
+525
+00:21:31,040 --> 00:21:33,420
+it's a sum over all the states of the system.
+
+526
+00:21:33,540 --> 00:21:34,640
+So this is z of beta,
+
+527
+00:21:35,180 --> 00:21:36,500
+and it has a name,
+
+528
+00:21:37,180 --> 00:21:37,660
+here,
+
+529
+00:21:37,660 --> 00:21:39,520
+you can forget where it came from now.
+
+530
+00:21:39,960 --> 00:21:41,020
+Z of beta,
+
+531
+00:21:41,020 --> 00:21:43,340
+for our purposes from here on in,
+
+532
+00:21:43,500 --> 00:21:45,550
+is by definition the sum over
+
+533
+00:21:45,550 --> 00:21:47,600
+all of the states of the system
+
+534
+00:21:47,600 --> 00:21:50,440
+of e to the minus beta e sub i.
+
+535
+00:21:52,980 --> 00:21:53,460
+Okay.
+
+536
+00:21:54,580 --> 00:21:56,400
+Where does it fit into the probability?
+
+537
+00:21:56,400 --> 00:21:57,100
+In probability distribution,
+
+538
+00:21:57,520 --> 00:22:00,260
+it fits in as a kind of normalization constant
+
+539
+00:22:00,260 --> 00:22:03,060
+that makes sure the total probabilities add up to one.
+
+540
+00:22:03,560 --> 00:22:05,040
+But in its own right,
+
+541
+00:22:05,580 --> 00:22:07,220
+it is a function of beta.
+
+542
+00:22:07,780 --> 00:22:08,600
+Let's keep it,
+
+543
+00:22:08,600 --> 00:22:08,900
+let's remember,
+
+544
+00:22:09,620 --> 00:22:11,860
+almost everything in statistical mechanics
+
+545
+00:22:11,860 --> 00:22:13,940
+is buried in this function of beta.
+
+546
+00:22:14,320 --> 00:22:16,920
+We're going to find this is an extremely powerful thing.
+
+547
+00:22:17,080 --> 00:22:19,280
+It is called the partition function.
+
+548
+00:22:19,800 --> 00:22:21,640
+Now what it has to do with partitions,
+
+549
+00:22:21,640 --> 00:22:22,400
+I don't know.
+
+550
+00:22:23,760 --> 00:22:24,280
+Partitions,
+
+551
+00:22:24,280 --> 00:22:24,640
+I thought,
+
+552
+00:22:24,640 --> 00:22:25,800
+were walls in a room.
+
+553
+00:22:35,960 --> 00:22:37,480
+This is the partition function,
+
+554
+00:22:37,700 --> 00:22:39,200
+and it's a function of beta.
+
+555
+00:22:40,100 --> 00:22:40,960
+As we'll see,
+
+556
+00:22:40,960 --> 00:22:44,800
+beta is essentially the inverse temperature,
+
+557
+00:22:45,040 --> 00:22:46,280
+but we don't know that yet.
+
+558
+00:22:48,480 --> 00:22:49,440
+Next equation.
+
+559
+00:22:52,080 --> 00:22:54,460
+Summation of p sub i e sub i
+
+560
+00:22:55,100 --> 00:22:56,380
+is the average energy.
+
+561
+00:22:56,400 --> 00:22:57,720
+Write that out.
+
+562
+00:22:57,800 --> 00:23:00,120
+That's going to determine the other Lagrange multiple.
+
+563
+00:23:00,240 --> 00:23:01,300
+That's going to determine beta,
+
+564
+00:23:01,300 --> 00:23:01,780
+basically.
+
+565
+00:23:02,300 --> 00:23:03,300
+So let's turn,
+
+566
+00:23:03,300 --> 00:23:04,980
+let's work it out.
+
+567
+00:23:07,360 --> 00:23:10,500
+We have summation over i.
+
+568
+00:23:11,600 --> 00:23:13,820
+p sub i is one over z,
+
+569
+00:23:15,840 --> 00:23:19,380
+e to the minus beta e sub i.
+
+570
+00:23:20,260 --> 00:23:21,380
+That's p sub i.
+
+571
+00:23:22,120 --> 00:23:24,440
+And now we multiply it by e sub i.
+
+572
+00:23:30,800 --> 00:23:33,500
+That's equal to e.
+
+573
+00:23:35,300 --> 00:23:36,900
+Supposing we've calculated z.
+
+574
+00:23:37,160 --> 00:23:37,900
+We know z.
+
+575
+00:23:38,580 --> 00:23:40,080
+Supposing we've calculated it.
+
+576
+00:23:40,580 --> 00:23:43,140
+The rest of this equation determines beta.
+
+577
+00:23:44,300 --> 00:23:45,500
+The rest of the equation,
+
+578
+00:23:45,500 --> 00:23:47,260
+having figured out what z is,
+
+579
+00:23:47,500 --> 00:23:51,340
+this now becomes an equation for beta.
+
+580
+00:23:51,740 --> 00:23:53,160
+In terms of what?
+
+581
+00:23:53,580 --> 00:23:55,260
+In terms of the average energy.
+
+582
+00:23:56,400 --> 00:23:57,260
+We know the average energy,
+
+583
+00:23:57,260 --> 00:23:58,880
+and we're lucky this equation
+
+584
+00:23:58,880 --> 00:24:00,500
+might have a simple enough form
+
+585
+00:24:01,230 --> 00:24:03,760
+that we can find out what the average,
+
+586
+00:24:03,760 --> 00:24:06,200
+what beta is in terms of the energy.
+
+587
+00:24:06,500 --> 00:24:08,040
+But we can also read it the other way.
+
+588
+00:24:08,220 --> 00:24:09,800
+We can say whatever beta is,
+
+589
+00:24:09,800 --> 00:24:12,440
+it determines the average energy.
+
+590
+00:24:13,340 --> 00:24:15,480
+Both are legitimate ways to look at it.
+
+591
+00:24:17,200 --> 00:24:18,160
+For the moment,
+
+592
+00:24:18,160 --> 00:24:20,240
+let's just stare at the equation.
+
+593
+00:24:20,640 --> 00:24:22,000
+I'm going to rewrite it.
+
+594
+00:24:23,720 --> 00:24:24,640
+The trick,
+
+595
+00:24:24,640 --> 00:24:25,760
+the very famous trick.
+
+596
+00:24:25,940 --> 00:24:27,540
+And the famous trick goes as follows.
+
+597
+00:24:29,040 --> 00:24:30,060
+Let's differentiate.
+
+598
+00:24:36,400 --> 00:24:36,960
+Now,
+
+599
+00:24:36,960 --> 00:24:38,520
+let's begin.
+
+600
+00:24:50,080 --> 00:24:51,980
+Let's take e to the minus beta e sub i.
+
+601
+00:24:53,460 --> 00:24:54,020
+That's,
+
+602
+00:24:54,020 --> 00:24:54,320
+of course,
+
+603
+00:24:54,320 --> 00:24:55,280
+the partition function.
+
+604
+00:24:56,420 --> 00:24:58,140
+This is the partition function.
+
+605
+00:24:58,480 --> 00:25:00,900
+And let's differentiate it with respect to beta.
+
+606
+00:25:01,160 --> 00:25:02,040
+This is z.
+
+607
+00:25:03,500 --> 00:25:05,320
+And let's differentiate both sides
+
+608
+00:25:05,320 --> 00:25:07,140
+with respect to the partition,
+
+609
+00:25:07,140 --> 00:25:08,240
+with respect to beta.
+
+610
+00:25:10,940 --> 00:25:11,500
+Again,
+
+611
+00:25:11,500 --> 00:25:12,200
+another trick.
+
+612
+00:25:13,200 --> 00:25:15,040
+The z by d beta.
+
+613
+00:25:17,180 --> 00:25:18,580
+What do we get on this side?
+
+614
+00:25:21,980 --> 00:25:23,840
+How do you differentiate this with respect to beta?
+
+615
+00:25:27,320 --> 00:25:28,600
+You just pull down a
+
+616
+00:25:28,600 --> 00:25:29,880
+factor of minus e sub i.
+
+617
+00:25:31,600 --> 00:25:33,470
+Derivative of an exponential with respect
+
+618
+00:25:33,470 --> 00:25:35,340
+to the argument in the exponential
+
+619
+00:25:35,879 --> 00:25:37,359
+just gives you a factor
+
+620
+00:25:37,359 --> 00:25:38,840
+of what's in the exponential here.
+
+621
+00:25:39,080 --> 00:25:40,480
+So it gives you a minus sign,
+
+622
+00:25:40,480 --> 00:25:42,680
+an e sub i,
+
+623
+00:25:42,680 --> 00:25:45,760
+and an e to the minus beta e sub i.
+
+624
+00:25:47,780 --> 00:25:49,540
+Does everybody recognize when I say
+
+625
+00:25:49,540 --> 00:25:51,300
+that the derivative of respect to,
+
+626
+00:25:51,300 --> 00:25:53,520
+of each of these terms just pulls
+
+627
+00:25:53,520 --> 00:25:55,740
+down a factor of minus e sub i?
+
+628
+00:25:56,240 --> 00:25:56,800
+OK.
+
+629
+00:25:57,440 --> 00:25:58,320
+But now,
+
+630
+00:25:58,320 --> 00:26:02,900
+the equation for z,
+
+631
+00:26:02,900 --> 00:26:03,520
+didn't you,
+
+632
+00:26:03,520 --> 00:26:05,360
+e,
+
+633
+00:26:05,360 --> 00:26:07,120
+shouldn't it be z,
+
+634
+00:26:07,120 --> 00:26:08,900
+1 over e?
+
+635
+00:26:11,138 --> 00:26:11,698
+ありがとうございました
+
+636
+00:26:13,122 --> 00:26:13,342
+No
+
+637
+00:26:14,302 --> 00:26:17,542
+Looking at the equation just above z equals equation
+
+638
+00:26:17,542 --> 00:26:17,982
+There
+
+639
+00:26:18,462 --> 00:26:18,942
+Here
+
+640
+00:26:18,942 --> 00:26:19,582
+Yes
+
+641
+00:26:19,582 --> 00:26:20,322
+You saw that
+
+642
+00:26:20,322 --> 00:26:20,822
+Here's z
+
+643
+00:26:22,222 --> 00:26:23,182
+This one?
+
+644
+00:26:23,582 --> 00:26:24,062
+Yeah
+
+645
+00:26:24,842 --> 00:26:26,702
+I thought that was what you were solving
+
+646
+00:26:27,262 --> 00:26:27,742
+No,
+
+647
+00:26:27,742 --> 00:26:28,082
+you just
+
+648
+00:26:28,782 --> 00:26:29,022
+No,
+
+649
+00:26:29,022 --> 00:26:29,042
+no,
+
+650
+00:26:29,042 --> 00:26:30,702
+I just took the definition of z
+
+651
+00:26:31,102 --> 00:26:31,622
+My bad
+
+652
+00:26:31,622 --> 00:26:32,322
+Right,
+
+653
+00:26:32,322 --> 00:26:33,902
+I took the definition of z,
+
+654
+00:26:33,902 --> 00:26:34,842
+the top equation
+
+655
+00:26:34,842 --> 00:26:36,862
+And differentiated it
+
+656
+00:26:36,862 --> 00:26:37,962
+And notice,
+
+657
+00:26:37,962 --> 00:26:38,702
+look what I get
+
+658
+00:26:39,142 --> 00:26:40,742
+I get something which looks like this,
+
+659
+00:26:40,742 --> 00:26:42,662
+which has a piece of the second equation here
+
+660
+00:26:43,702 --> 00:26:44,042
+Okay,
+
+661
+00:26:44,042 --> 00:26:45,222
+so let's look at what we have
+
+662
+00:26:47,922 --> 00:26:50,142
+Let's divide by z on both sides
+
+663
+00:26:52,242 --> 00:26:53,902
+Put a z downstairs here
+
+664
+00:26:54,922 --> 00:26:56,782
+And now what is the sum?
+
+665
+00:27:00,102 --> 00:27:02,082
+The sum is exactly the thing
+
+666
+00:27:02,082 --> 00:27:04,062
+that we identified as the average energy
+
+667
+00:27:05,721 --> 00:27:08,442
+So we have that the average energy,
+
+668
+00:27:08,442 --> 00:27:09,142
+E
+
+669
+00:27:10,262 --> 00:27:12,042
+The average energy
+
+670
+00:27:12,462 --> 00:27:13,002
+Is just
+
+671
+00:27:13,002 --> 00:27:13,682
+Is 1 over z
+
+672
+00:27:14,212 --> 00:27:15,082
+D z by
+
+673
+00:27:15,082 --> 00:27:16,042
+Is minus
+
+674
+00:27:16,042 --> 00:27:16,982
+There's a minus sign
+
+675
+00:27:17,682 --> 00:27:18,342
+Here
+
+676
+00:27:20,542 --> 00:27:21,522
+Minus plus
+
+677
+00:27:24,202 --> 00:27:26,562
+So we have a remarkable formula
+
+678
+00:27:27,412 --> 00:27:30,367
+For the energy in terms of the derivative
+
+679
+00:27:30,367 --> 00:27:33,322
+of the partition function with respect to beta
+
+680
+00:27:33,322 --> 00:27:34,542
+Let's write it out
+
+681
+00:27:35,782 --> 00:27:36,442
+E,
+
+682
+00:27:36,442 --> 00:27:37,102
+energy
+
+683
+00:27:40,542 --> 00:27:42,522
+What this is suggesting to us
+
+684
+00:27:43,202 --> 00:27:44,792
+Is that the thing that you
+
+685
+00:27:44,792 --> 00:27:46,382
+want to compute is this partition function
+
+686
+00:27:46,982 --> 00:27:48,702
+The partition function we're going
+
+687
+00:27:48,702 --> 00:27:50,422
+to find has everything in it
+
+688
+00:27:50,422 --> 00:27:51,542
+But in particular,
+
+689
+00:27:51,542 --> 00:27:53,082
+it has the average energy
+
+690
+00:27:53,642 --> 00:27:55,372
+And it's equal to 1
+
+691
+00:27:55,372 --> 00:27:57,102
+over z minus 1 over z
+
+692
+00:27:59,122 --> 00:28:01,182
+Derivative of z with respect to beta
+
+693
+00:28:02,762 --> 00:28:05,302
+So if we knew the partition function,
+
+694
+00:28:05,302 --> 00:28:07,502
+which we will calculate in various cases
+
+695
+00:28:07,502 --> 00:28:10,022
+We differentiate it with respect to beta
+
+696
+00:28:10,022 --> 00:28:12,082
+And that tells us the average energy
+
+697
+00:28:12,082 --> 00:28:14,242
+It's also of course a function of beta
+
+698
+00:28:14,242 --> 00:28:16,182
+Everything here is a function of beta
+
+699
+00:28:16,641 --> 00:28:18,491
+So what this is telling us is
+
+700
+00:28:18,491 --> 00:28:20,342
+the energy as a function of beta
+
+701
+00:28:24,262 --> 00:28:24,702
+Yeah,
+
+702
+00:28:24,702 --> 00:28:26,022
+there's one step first
+
+703
+00:28:26,022 --> 00:28:28,142
+Before I answer the question
+
+704
+00:28:28,142 --> 00:28:29,922
+Let me just note that this is minus
+
+705
+00:28:30,782 --> 00:28:33,442
+The derivative of the logarithm of z
+
+706
+00:28:33,442 --> 00:28:35,222
+With respect to beta
+
+707
+00:28:37,802 --> 00:28:39,772
+It's really the logarithm of z which
+
+708
+00:28:39,772 --> 00:28:41,742
+is going to occupy us a lot
+
+709
+00:28:43,262 --> 00:28:45,732
+1 over z times the derivative of z
+
+710
+00:28:45,732 --> 00:28:48,202
+is the derivative of the logarithm of z
+
+711
+00:28:48,202 --> 00:28:48,482
+Okay,
+
+712
+00:28:48,482 --> 00:28:48,822
+yeah,
+
+713
+00:28:48,822 --> 00:28:49,402
+question
+
+714
+00:28:49,402 --> 00:28:50,062
+Yeah,
+
+715
+00:28:50,062 --> 00:28:51,792
+I did this as homework because
+
+716
+00:28:51,792 --> 00:28:53,522
+I thought it would be really interesting
+
+717
+00:28:53,522 --> 00:28:56,362
+And I got to this equation and
+
+718
+00:28:56,362 --> 00:28:59,202
+it reminded me of an eigenvalue equation
+
+719
+00:28:59,202 --> 00:29:00,562
+I don't know if that's what it is
+
+720
+00:29:00,562 --> 00:29:03,502
+It looked like the differential with respect to beta
+
+721
+00:29:04,622 --> 00:29:08,682
+Transforms the function z into a constant times the z
+
+722
+00:29:09,382 --> 00:29:10,622
+Is there any connection?
+
+723
+00:29:10,622 --> 00:29:11,042
+Well
+
+724
+00:29:16,782 --> 00:29:18,562
+It should not be thought of
+
+725
+00:29:19,682 --> 00:29:20,202
+No
+
+726
+00:29:21,642 --> 00:29:23,262
+E is not a constant,
+
+727
+00:29:23,262 --> 00:29:24,242
+it's a function of beta
+
+728
+00:29:25,422 --> 00:29:26,402
+In this equation,
+
+729
+00:29:26,402 --> 00:29:27,862
+for the purposes of this equation
+
+730
+00:29:28,962 --> 00:29:30,642
+This is E of beta
+
+731
+00:29:33,322 --> 00:29:34,322
+What does it mean?
+
+732
+00:29:35,362 --> 00:29:37,112
+Since we're going to find that
+
+733
+00:29:37,112 --> 00:29:38,862
+B is closely connected to the temperature
+
+734
+00:29:38,862 --> 00:29:40,662
+This is going to tell us the
+
+735
+00:29:40,662 --> 00:29:42,462
+energy as a function of the temperature
+
+736
+00:29:43,481 --> 00:29:46,422
+Is minus d log z by d beta
+
+737
+00:29:54,262 --> 00:29:56,302
+This is the first of many
+
+738
+00:29:57,422 --> 00:30:00,022
+Sort of magical formulas
+
+739
+00:30:03,402 --> 00:30:05,522
+Since in our statistical mechanics,
+
+740
+00:30:05,522 --> 00:30:10,302
+it's extremely easy and it's extremely hard
+
+741
+00:30:11,542 --> 00:30:12,742
+It's subtle
+
+742
+00:30:13,682 --> 00:30:15,462
+It's full of surprises
+
+743
+00:30:15,462 --> 00:30:21,042
+It's full of the application of very simple formulas
+
+744
+00:30:21,042 --> 00:30:26,342
+Which then yield extremely surprising and powerful results
+
+745
+00:30:27,242 --> 00:30:28,682
+When it's hard
+
+746
+00:30:28,682 --> 00:30:30,002
+It's hard
+
+747
+00:30:30,942 --> 00:30:34,062
+is that half the time you can't guess
+
+748
+00:30:34,062 --> 00:30:37,182
+or you can't look at the formulas and say,
+
+749
+00:30:37,282 --> 00:30:37,382
+oh,
+
+750
+00:30:37,382 --> 00:30:39,182
+of course this is obvious.
+
+751
+00:30:39,422 --> 00:30:41,422
+E is equal to the derivative
+
+752
+00:30:41,422 --> 00:30:43,422
+of the logarithm of the partition function.
+
+753
+00:30:43,602 --> 00:30:46,022
+The whole story here was complicated.
+
+754
+00:30:46,302 --> 00:30:47,182
+You couldn't have guessed that.
+
+755
+00:30:47,662 --> 00:30:49,262
+But it sure is a simple formula.
+
+756
+00:30:50,342 --> 00:30:51,902
+And it's a powerful formula.
+
+757
+00:30:55,522 --> 00:30:55,962
+Yeah?
+
+758
+00:30:56,682 --> 00:30:58,322
+So when you talk about the E over here,
+
+759
+00:30:58,322 --> 00:30:58,862
+the average energy,
+
+760
+00:30:58,862 --> 00:31:02,542
+that's the total energy or the average energy per partition?
+
+761
+00:31:02,982 --> 00:31:06,242
+That's the average energy per box.
+
+762
+00:31:06,642 --> 00:31:07,242
+Remember,
+
+763
+00:31:07,242 --> 00:31:07,842
+it was the,
+
+764
+00:31:07,842 --> 00:31:08,282
+yeah,
+
+765
+00:31:08,282 --> 00:31:10,002
+per box.
+
+766
+00:31:10,482 --> 00:31:10,902
+Well,
+
+767
+00:31:10,902 --> 00:31:11,242
+actually,
+
+768
+00:31:11,242 --> 00:31:15,382
+if you just look at the logarithm of Z,
+
+769
+00:31:15,542 --> 00:31:18,142
+it's the sum of the energies times the temperature.
+
+770
+00:31:20,162 --> 00:31:20,762
+What?
+
+771
+00:31:22,061 --> 00:31:24,781
+The logarithm of Z is the
+
+772
+00:31:24,781 --> 00:31:27,502
+sum of the EIs times the...
+
+773
+00:31:28,862 --> 00:31:32,392
+The logarithm of the sum of exponentials
+
+774
+00:31:32,392 --> 00:31:35,922
+is not the sum of the logarithms
+
+775
+00:31:35,922 --> 00:31:37,482
+of each individual exponential.
+
+776
+00:31:37,902 --> 00:31:38,602
+You can't do that.
+
+777
+00:31:40,582 --> 00:31:42,142
+It's the product of the...
+
+778
+00:31:42,142 --> 00:31:43,202
+I mean,
+
+779
+00:31:43,202 --> 00:31:44,302
+it's the product of the...
+
+780
+00:31:46,442 --> 00:31:47,822
+You take the logarithm,
+
+781
+00:31:47,822 --> 00:31:49,462
+you bring them down,
+
+782
+00:31:49,462 --> 00:31:50,702
+and you...
+
+783
+00:31:51,302 --> 00:31:51,742
+No,
+
+784
+00:31:51,742 --> 00:31:53,182
+you have Z.
+
+785
+00:31:53,202 --> 00:31:53,642
+Oh,
+
+786
+00:31:53,642 --> 00:31:54,102
+it's,
+
+787
+00:31:54,102 --> 00:31:54,342
+right,
+
+788
+00:31:54,342 --> 00:31:54,942
+it's sums,
+
+789
+00:31:54,942 --> 00:31:55,602
+not products.
+
+790
+00:31:55,822 --> 00:31:56,262
+Yeah,
+
+791
+00:31:56,262 --> 00:31:56,482
+that's right.
+
+792
+00:31:56,562 --> 00:31:56,902
+Sum,
+
+793
+00:31:56,902 --> 00:31:57,462
+not product.
+
+794
+00:31:57,602 --> 00:31:57,862
+Right.
+
+795
+00:31:58,102 --> 00:31:58,542
+Right.
+
+796
+00:31:58,862 --> 00:31:59,222
+Question?
+
+797
+00:31:59,602 --> 00:32:00,102
+Yeah.
+
+798
+00:32:01,542 --> 00:32:02,902
+Let's make sure I get this.
+
+799
+00:32:03,802 --> 00:32:05,382
+We've got unknowns PI.
+
+800
+00:32:06,322 --> 00:32:07,982
+The EI are knowns,
+
+801
+00:32:07,982 --> 00:32:08,302
+is that right?
+
+802
+00:32:08,422 --> 00:32:09,202
+They're givens?
+
+803
+00:32:09,202 --> 00:32:09,462
+Yeah,
+
+804
+00:32:09,462 --> 00:32:10,122
+they're given.
+
+805
+00:32:10,422 --> 00:32:10,702
+Okay,
+
+806
+00:32:10,702 --> 00:32:13,702
+so when you have a Lagrange multiplier kind of problem,
+
+807
+00:32:14,382 --> 00:32:15,522
+you've got these unknowns,
+
+808
+00:32:15,522 --> 00:32:17,142
+P1 through Pn or whatever,
+
+809
+00:32:17,362 --> 00:32:19,522
+and then you introduce this alpha and beta.
+
+810
+00:32:19,862 --> 00:32:22,382
+And when you do the solutions we've done here,
+
+811
+00:32:22,502 --> 00:32:23,582
+in the end,
+
+812
+00:32:23,582 --> 00:32:25,002
+you solve for everything.
+
+813
+00:32:25,062 --> 00:32:25,782
+There are numbers.
+
+814
+00:32:25,922 --> 00:32:27,562
+It's like alpha and beta,
+
+815
+00:32:27,562 --> 00:32:28,062
+they're numbers.
+
+816
+00:32:28,262 --> 00:32:28,622
+Right.
+
+817
+00:32:28,622 --> 00:32:31,882
+But here we're like alpha and beta are like variables.
+
+818
+00:32:32,162 --> 00:32:32,402
+Well,
+
+819
+00:32:32,402 --> 00:32:34,322
+it may turn out that the alphas and betas
+
+820
+00:32:34,322 --> 00:32:36,422
+have some interesting physical significance.
+
+821
+00:32:40,942 --> 00:32:41,502
+Remember,
+
+822
+00:32:41,502 --> 00:32:45,782
+there are other things in the problem
+
+823
+00:32:45,782 --> 00:32:47,162
+besides just the P sub i's.
+
+824
+00:32:47,162 --> 00:32:47,502
+For example,
+
+825
+00:32:47,502 --> 00:32:48,442
+there's the average energy.
+
+826
+00:32:50,002 --> 00:32:50,562
+Now,
+
+827
+00:32:50,562 --> 00:32:53,182
+what we're finding is that there's a trade-off
+
+828
+00:32:53,182 --> 00:32:56,142
+between average energy and beta.
+
+829
+00:32:56,322 --> 00:32:56,622
+Okay.
+
+830
+00:32:57,802 --> 00:32:58,242
+So,
+
+831
+00:32:58,242 --> 00:33:00,202
+can either fix the average energy
+
+832
+00:33:00,682 --> 00:33:02,602
+and then determine what beta is.
+
+833
+00:33:03,942 --> 00:33:06,292
+That would be the standard
+
+834
+00:33:06,292 --> 00:33:08,642
+way of looking at Lagrange multipliers.
+
+835
+00:33:08,922 --> 00:33:10,482
+But you can read it the other way.
+
+836
+00:33:10,902 --> 00:33:13,012
+You can say the average energy
+
+837
+00:33:13,012 --> 00:33:15,122
+is determined in terms of beta.
+
+838
+00:33:15,302 --> 00:33:16,182
+And we're going to find,
+
+839
+00:33:16,182 --> 00:33:16,662
+as I said,
+
+840
+00:33:16,682 --> 00:33:19,222
+that beta has a significance of its own.
+
+841
+00:33:19,782 --> 00:33:21,682
+It has a life of its own as the temperature,
+
+842
+00:33:21,982 --> 00:33:22,822
+as the inverse temperature.
+
+843
+00:33:23,822 --> 00:33:25,462
+And that's the next thing we're going to do.
+
+844
+00:33:27,502 --> 00:33:28,242
+Not quite.
+
+845
+00:33:29,222 --> 00:33:31,142
+And alpha has gone from the picture now?
+
+846
+00:33:31,602 --> 00:33:31,762
+Is what?
+
+847
+00:33:32,662 --> 00:33:34,142
+Alpha has gone from the picture?
+
+848
+00:33:34,642 --> 00:33:35,082
+Yeah.
+
+849
+00:33:35,142 --> 00:33:36,802
+Alpha went away a long time ago.
+
+850
+00:33:36,862 --> 00:33:37,782
+We just redefined it.
+
+851
+00:33:38,062 --> 00:33:38,502
+Yeah.
+
+852
+00:33:40,502 --> 00:33:42,042
+But it's imbedded in Z,
+
+853
+00:33:42,042 --> 00:33:42,422
+right?
+
+854
+00:33:43,062 --> 00:33:47,782
+It's a E to the one plus alpha is Z.
+
+855
+00:33:48,422 --> 00:33:49,682
+It's just a re-definition.
+
+856
+00:33:51,162 --> 00:33:56,602
+But this is predicated on the idea that the secondift
+
+857
+00:33:56,622 --> 00:34:00,342
+equation summation p of i e p of i minus
+
+858
+00:34:00,342 --> 00:34:04,062
+equals zero and that that supposes a lot about the
+
+859
+00:34:04,702 --> 00:34:08,911
+second equation here right there yeah that's that that
+
+860
+00:34:08,911 --> 00:34:13,121
+presupposes a lot of stuff that may or may
+
+861
+00:34:13,121 --> 00:34:16,371
+not be true given these systems it's definition
+
+862
+00:34:16,371 --> 00:34:19,621
+of the average energy yeah there may be other
+
+863
+00:34:19,621 --> 00:34:23,322
+constraints there may be energy is not the way
+
+864
+00:34:23,322 --> 00:34:27,022
+you something makes the energy happen in one cell
+
+865
+00:34:27,022 --> 00:34:30,222
+for some reason you can get a constraint to that
+
+866
+00:34:30,222 --> 00:34:33,422
+and then refine it there may be other things going
+
+867
+00:34:33,422 --> 00:34:36,371
+on for example you may want to constrain
+
+868
+00:34:36,371 --> 00:34:39,322
+the total momentum or some other conserved quantity
+
+869
+00:34:40,382 --> 00:34:43,021
+for the moment let's suppose there are
+
+870
+00:34:43,021 --> 00:34:45,661
+no other conserved quantities then there's nothing left
+
+871
+00:34:45,661 --> 00:34:47,421
+to constrain now you may
+
+872
+00:34:47,421 --> 00:34:49,181
+come in and you may say
+
+873
+00:34:49,621 --> 00:34:50,522
+yeah okay
+
+874
+00:34:52,042 --> 00:34:55,831
+you may be interested in changing the volume of
+
+875
+00:34:55,831 --> 00:34:59,622
+your box that your gas is in for the moment
+
+876
+00:34:59,622 --> 00:35:02,792
+we've supposed that all the parameters which define
+
+877
+00:35:02,792 --> 00:35:05,962
+the system such as the volume of the box
+
+878
+00:35:06,561 --> 00:35:08,881
+such as the shape of the box
+
+879
+00:35:08,881 --> 00:35:11,202
+all the other things that you could imagine
+
+880
+00:35:11,202 --> 00:35:17,042
+varying are kept fixed those are called control parameters
+
+881
+00:35:18,142 --> 00:35:19,602
+changing the volume of the box
+
+882
+00:35:19,602 --> 00:35:20,002
+of the box,
+
+883
+00:35:20,002 --> 00:35:22,242
+changing the shape of the box,
+
+884
+00:35:23,602 --> 00:35:26,262
+changing the magnetic field on the system.
+
+885
+00:35:26,442 --> 00:35:27,702
+Those are control parameters,
+
+886
+00:35:27,702 --> 00:35:28,542
+and they're important.
+
+887
+00:35:28,882 --> 00:35:29,702
+But at the moment,
+
+888
+00:35:29,702 --> 00:35:30,422
+we're imagining
+
+889
+00:35:30,422 --> 00:35:31,622
+they're absolutely fixed.
+
+890
+00:35:32,142 --> 00:35:34,082
+What do they determine,
+
+891
+00:35:34,082 --> 00:35:35,142
+incidentally?
+
+892
+00:35:36,262 --> 00:35:37,322
+The energy levels.
+
+893
+00:35:37,962 --> 00:35:38,242
+Yeah.
+
+894
+00:35:40,742 --> 00:35:43,562
+So when you change the control parameters,
+
+895
+00:35:43,962 --> 00:35:44,242
+you,
+
+896
+00:35:44,242 --> 00:35:44,762
+in general,
+
+897
+00:35:44,762 --> 00:35:46,042
+change the energy levels.
+
+898
+00:35:46,182 --> 00:35:47,322
+And in so doing,
+
+899
+00:35:47,322 --> 00:35:48,242
+you change everything,
+
+900
+00:35:48,242 --> 00:35:49,802
+including the partition function.
+
+901
+00:35:50,462 --> 00:35:51,102
+Yeah.
+
+902
+00:35:52,502 --> 00:35:55,362
+Should we be writing over there in the energy
+
+903
+00:35:56,402 --> 00:35:58,122
+with a parameter beta,
+
+904
+00:35:58,122 --> 00:35:59,182
+shouldn't alpha
+
+905
+00:35:59,182 --> 00:36:00,502
+be as a parameter also?
+
+906
+00:36:00,862 --> 00:36:01,442
+No.
+
+907
+00:36:01,782 --> 00:36:02,982
+Because it's in z.
+
+908
+00:36:03,142 --> 00:36:04,002
+It's in z.
+
+909
+00:36:05,302 --> 00:36:06,642
+You don't need both z and alpha.
+
+910
+00:36:09,802 --> 00:36:15,022
+Because z and alpha are the same thing.
+
+911
+00:36:16,022 --> 00:36:17,902
+This was just a definition.
+
+912
+00:36:17,902 --> 00:36:18,402
+This was just a definition of z.
+
+913
+00:36:18,562 --> 00:36:19,262
+It's a number.
+
+914
+00:36:19,342 --> 00:36:19,982
+It's a number.
+
+915
+00:36:20,402 --> 00:36:20,802
+Well,
+
+916
+00:36:20,802 --> 00:36:22,282
+it's a number that depends on beta.
+
+917
+00:36:23,742 --> 00:36:24,742
+It depends on beta,
+
+918
+00:36:24,742 --> 00:36:26,442
+because when we worked out what it is,
+
+919
+00:36:27,262 --> 00:36:28,542
+we found out,
+
+920
+00:36:28,542 --> 00:36:29,042
+where is it?
+
+921
+00:36:29,122 --> 00:36:31,962
+We found out that it has implicit dependence on beta.
+
+922
+00:36:33,222 --> 00:36:34,882
+So it's a beta-dependent number,
+
+923
+00:36:34,882 --> 00:36:35,342
+but it's a number.
+
+924
+00:36:35,462 --> 00:36:35,682
+It's on ei,
+
+925
+00:36:35,682 --> 00:36:36,102
+too.
+
+926
+00:36:36,202 --> 00:36:37,782
+So that's how it captures the system.
+
+927
+00:36:38,582 --> 00:36:38,982
+Yes.
+
+928
+00:36:38,982 --> 00:36:40,042
+It depends on the eis,
+
+929
+00:36:40,042 --> 00:36:41,642
+which we're
+
+930
+00:36:41,642 --> 00:36:43,962
+imagining are a fixed set of numbers for the moment.
+
+931
+00:36:44,942 --> 00:36:45,342
+Now.
+
+932
+00:36:45,402 --> 00:36:47,542
+When we vary other things in the system,
+
+933
+00:36:48,682 --> 00:36:49,902
+volume of the box,
+
+934
+00:36:49,902 --> 00:36:52,202
+electric or magnetic field,
+
+935
+00:36:53,162 --> 00:36:55,742
+or other things that we might vary,
+
+936
+00:36:55,902 --> 00:36:57,122
+other control parameters,
+
+937
+00:36:57,122 --> 00:36:59,122
+voltages,
+
+938
+00:36:59,122 --> 00:37:00,442
+whatever you have,
+
+939
+00:37:02,902 --> 00:37:05,302
+you may change the energy levels.
+
+940
+00:37:06,702 --> 00:37:07,802
+And when you do,
+
+941
+00:37:07,802 --> 00:37:08,602
+you change z.
+
+942
+00:37:09,562 --> 00:37:10,342
+But for the moment,
+
+943
+00:37:10,342 --> 00:37:11,122
+those are fixed.
+
+944
+00:37:12,002 --> 00:37:12,802
+Excuse me.
+
+945
+00:37:13,402 --> 00:37:14,862
+Not to be the dead horse,
+
+946
+00:37:14,862 --> 00:37:15,122
+but.
+
+947
+00:37:19,522 --> 00:37:22,282
+So when we had to set up this problem,
+
+948
+00:37:22,402 --> 00:37:23,562
+we've got unknowns pi.
+
+949
+00:37:24,022 --> 00:37:25,382
+The eis are fixed.
+
+950
+00:37:25,642 --> 00:37:28,162
+We then introduce the Lagrange multipliers.
+
+951
+00:37:28,302 --> 00:37:29,222
+We solve those.
+
+952
+00:37:29,402 --> 00:37:32,562
+Those are actual numbers that we went into trouble solving.
+
+953
+00:37:32,942 --> 00:37:33,202
+Right.
+
+954
+00:37:33,282 --> 00:37:33,662
+But now,
+
+955
+00:37:33,662 --> 00:37:34,522
+given that we.
+
+956
+00:37:34,642 --> 00:37:35,362
+That depend on beta.
+
+957
+00:37:35,702 --> 00:37:36,102
+Yeah.
+
+958
+00:37:36,522 --> 00:37:37,002
+Yeah.
+
+959
+00:37:37,122 --> 00:37:38,642
+And well,
+
+960
+00:37:38,642 --> 00:37:40,102
+beta is a number.
+
+961
+00:37:40,242 --> 00:37:41,522
+For a given ei,
+
+962
+00:37:41,522 --> 00:37:43,162
+beta is an actual number.
+
+963
+00:37:43,342 --> 00:37:45,542
+But now that we've found this.
+
+964
+00:37:46,221 --> 00:37:47,862
+Beta is a number that depends.
+
+965
+00:37:47,882 --> 00:37:48,722
+It depends on the average energy.
+
+966
+00:37:48,842 --> 00:37:49,902
+If you fix the average energy,
+
+967
+00:37:49,902 --> 00:37:50,642
+then beta is a number.
+
+968
+00:37:50,762 --> 00:37:53,102
+We're going to now vary the ei and the e.
+
+969
+00:37:53,422 --> 00:37:53,682
+No,
+
+970
+00:37:53,682 --> 00:37:54,802
+we're not going to vary the ei.
+
+971
+00:37:55,542 --> 00:37:56,202
+Not now,
+
+972
+00:37:56,202 --> 00:37:56,522
+anyway.
+
+973
+00:37:57,462 --> 00:37:59,322
+The ei are a fixed set of numbers,
+
+974
+00:37:59,322 --> 00:38:00,702
+the energy levels of the system.
+
+975
+00:38:02,622 --> 00:38:03,042
+Well,
+
+976
+00:38:03,042 --> 00:38:03,862
+then you're going to get a fixed,
+
+977
+00:38:03,862 --> 00:38:04,702
+you're going to get a number,
+
+978
+00:38:04,782 --> 00:38:05,822
+a particular number beta.
+
+979
+00:38:06,262 --> 00:38:06,682
+Why?
+
+980
+00:38:08,102 --> 00:38:11,442
+Because you solve the Lagrange multiplier and
+
+981
+00:38:11,442 --> 00:38:14,782
+it's n plus two equations or whatever and.
+
+982
+00:38:15,822 --> 00:38:16,562
+And n plus two.
+
+983
+00:38:16,562 --> 00:38:17,862
+The ei's.
+
+984
+00:38:17,862 --> 00:38:17,862
+.
+
+985
+00:38:17,862 --> 00:38:17,862
+.
+
+986
+00:38:17,862 --> 00:38:18,882
+The ei's are just a fixed
+
+987
+00:38:18,882 --> 00:38:19,902
+set of numbers of the energy levels.
+
+988
+00:38:20,162 --> 00:38:20,502
+Right.
+
+989
+00:38:20,642 --> 00:38:22,642
+They are not the energies of the system.
+
+990
+00:38:23,382 --> 00:38:29,142
+The energy of the system depends on the pi's.
+
+991
+00:38:29,342 --> 00:38:30,802
+The i's are just a set of numbers.
+
+992
+00:38:32,722 --> 00:38:33,122
+Okay.
+
+993
+00:38:33,842 --> 00:38:37,482
+The average energy really depends on the p's.
+
+994
+00:38:38,102 --> 00:38:38,502
+Okay,
+
+995
+00:38:38,502 --> 00:38:38,822
+so,
+
+996
+00:38:38,822 --> 00:38:40,042
+so you're going to vary the e,
+
+997
+00:38:40,042 --> 00:38:40,382
+the,
+
+998
+00:38:40,382 --> 00:38:41,262
+the e then,
+
+999
+00:38:41,262 --> 00:38:41,902
+not the ei.
+
+1000
+00:38:42,202 --> 00:38:42,682
+The e,
+
+1001
+00:38:42,682 --> 00:38:43,602
+not the ei's.
+
+1002
+00:38:43,622 --> 00:38:43,802
+Okay.
+
+1003
+00:38:44,422 --> 00:38:45,562
+I'm just trying to see that.
+
+1004
+00:38:45,782 --> 00:38:45,882
+Yeah.
+
+1005
+00:38:45,922 --> 00:38:47,562
+For a fixed e and a fixed ei.
+
+1006
+00:38:47,562 --> 00:38:47,662
+Yeah,
+
+1007
+00:38:47,662 --> 00:38:47,702
+i,
+
+1008
+00:38:47,702 --> 00:38:48,802
+beta is a number.
+
+1009
+00:38:49,002 --> 00:38:49,402
+Right.
+
+1010
+00:38:49,562 --> 00:38:50,042
+Okay,
+
+1011
+00:38:50,042 --> 00:38:52,282
+but now we're going to vary the e and hence.
+
+1012
+00:38:52,582 --> 00:38:53,382
+Big beta,
+
+1013
+00:38:53,382 --> 00:38:54,422
+beta itself can vary.
+
+1014
+00:38:54,642 --> 00:38:54,942
+Right.
+
+1015
+00:38:54,942 --> 00:38:55,242
+Okay.
+
+1016
+00:38:55,322 --> 00:38:57,402
+So beta is a function of e,
+
+1017
+00:38:57,402 --> 00:38:59,402
+or e is a function of beta.
+
+1018
+00:38:59,582 --> 00:38:59,862
+Thank you.
+
+1019
+00:38:59,942 --> 00:39:00,422
+Right.
+
+1020
+00:39:00,842 --> 00:39:02,792
+Either one of them can be used
+
+1021
+00:39:02,792 --> 00:39:04,742
+as the parameter that you might vary.
+
+1022
+00:39:05,422 --> 00:39:05,902
+Now,
+
+1023
+00:39:05,902 --> 00:39:07,042
+in a box of gas,
+
+1024
+00:39:07,042 --> 00:39:08,802
+it's easier,
+
+1025
+00:39:08,802 --> 00:39:11,282
+much easier to measure the temperature
+
+1026
+00:39:11,282 --> 00:39:13,722
+than it is to measure the energy in the box.
+
+1027
+00:39:14,122 --> 00:39:15,472
+How do you measure the
+
+1028
+00:39:15,472 --> 00:39:16,822
+energy of a box of gas?
+
+1029
+00:39:17,562 --> 00:39:17,762
+Well,
+
+1030
+00:39:17,762 --> 00:39:18,242
+you can,
+
+1031
+00:39:18,242 --> 00:39:20,422
+you can weigh it and use e equals mc squared.
+
+1032
+00:39:20,662 --> 00:39:21,802
+That's a lousy way that,
+
+1033
+00:39:21,802 --> 00:39:22,222
+I mean,
+
+1034
+00:39:22,222 --> 00:39:23,642
+it's a great way,
+
+1035
+00:39:23,642 --> 00:39:25,942
+but not helpful.
+
+1036
+00:39:30,002 --> 00:39:31,602
+A little hard to measure the energy.
+
+1037
+00:39:31,642 --> 00:39:33,522
+It's much easier to measure the temperature.
+
+1038
+00:39:34,662 --> 00:39:36,482
+And you stick a thermometer in,
+
+1039
+00:39:36,482 --> 00:39:37,362
+you measure the temperature.
+
+1040
+00:39:37,642 --> 00:39:40,462
+And if you know the connection between e and beta,
+
+1041
+00:39:40,462 --> 00:39:42,642
+then you can determine the energy.
+
+1042
+00:39:45,302 --> 00:39:46,722
+But there's one hang up.
+
+1043
+00:39:46,802 --> 00:39:47,542
+We haven't shown you.
+
+1044
+00:39:47,542 --> 00:39:51,382
+We haven't shown yet that beta is connected with the,
+
+1045
+00:39:51,382 --> 00:39:53,262
+with the temperature.
+
+1046
+00:39:53,902 --> 00:39:55,322
+So let's do that now.
+
+1047
+00:39:55,422 --> 00:39:55,582
+Well,
+
+1048
+00:39:55,582 --> 00:39:56,802
+one step first.
+
+1049
+00:39:57,542 --> 00:39:58,142
+Yeah,
+
+1050
+00:39:58,142 --> 00:39:59,162
+before we do that,
+
+1051
+00:39:59,162 --> 00:40:00,122
+let's talk about entropy.
+
+1052
+00:40:00,302 --> 00:40:00,542
+Remember,
+
+1053
+00:40:00,542 --> 00:40:02,422
+entropy comes before temperature.
+
+1054
+00:40:05,101 --> 00:40:09,662
+Entropy logically comes before temperature.
+
+1055
+00:40:10,542 --> 00:40:13,362
+So it behooves us to calculate the entropy.
+
+1056
+00:40:14,522 --> 00:40:16,342
+I don't think we need this anymore.
+
+1057
+00:40:20,622 --> 00:40:23,122
+Let's see if we can get an expression
+
+1058
+00:40:23,122 --> 00:40:25,622
+for the entropy in terms of the partition function.
+
+1059
+00:40:33,602 --> 00:40:35,462
+Here's more magic.
+
+1060
+00:40:38,462 --> 00:40:41,752
+Entropy is equal to minus summation over
+
+1061
+00:40:41,752 --> 00:40:45,042
+i p sub i log p sub i.
+
+1062
+00:40:46,882 --> 00:40:47,522
+And that's the answer.
+
+1063
+00:40:51,741 --> 00:40:52,302
+Equals.
+
+1064
+00:40:53,182 --> 00:40:53,742
+Minus.
+
+1065
+00:40:54,802 --> 00:40:55,822
+Summation over i.
+
+1066
+00:40:57,202 --> 00:40:59,912
+1 over z e to
+
+1067
+00:40:59,912 --> 00:41:02,622
+the minus beta e sub i.
+
+1068
+00:41:04,582 --> 00:41:06,742
+p sub i is 1 over z
+
+1069
+00:41:06,742 --> 00:41:08,902
+e to the minus beta e sub i.
+
+1070
+00:41:09,062 --> 00:41:09,462
+Where is that?
+
+1071
+00:41:10,382 --> 00:41:11,742
+We lost it.
+
+1072
+00:41:12,282 --> 00:41:13,502
+But that's the probability.
+
+1073
+00:41:14,382 --> 00:41:15,982
+Times log p sub i.
+
+1074
+00:41:16,222 --> 00:41:17,302
+And what is log?
+
+1075
+00:41:17,382 --> 00:41:17,502
+Well,
+
+1076
+00:41:17,502 --> 00:41:17,522
+it's log of p sub i.
+
+1077
+00:41:17,542 --> 00:41:18,382
+of P sub i,
+
+1078
+00:41:18,382 --> 00:41:20,442
+let's write that,
+
+1079
+00:41:20,442 --> 00:41:23,752
+P sub i is equal to 1 over
+
+1080
+00:41:23,752 --> 00:41:27,062
+z e to the minus beta e sub i,
+
+1081
+00:41:27,062 --> 00:41:27,382
+right?
+
+1082
+00:41:29,582 --> 00:41:30,122
+Okay,
+
+1083
+00:41:30,122 --> 00:41:35,952
+logarithm of P is minus beta
+
+1084
+00:41:35,952 --> 00:41:41,782
+e sub i minus log z.
+
+1085
+00:41:48,561 --> 00:41:49,682
+Everybody see what I did?
+
+1086
+00:41:52,302 --> 00:41:53,542
+Log of P sub i,
+
+1087
+00:41:53,542 --> 00:41:54,602
+P sub i is a product,
+
+1088
+00:41:54,602 --> 00:41:57,162
+so it's log of 1 over z,
+
+1089
+00:41:57,162 --> 00:41:58,382
+that's minus log z,
+
+1090
+00:41:58,382 --> 00:42:02,062
+and log of e to the minus beta e i,
+
+1091
+00:42:02,062 --> 00:42:03,422
+that's minus beta e i.
+
+1092
+00:42:09,301 --> 00:42:09,741
+Okay,
+
+1093
+00:42:09,741 --> 00:42:11,502
+what's the first term here with the minus,
+
+1094
+00:42:11,502 --> 00:42:12,362
+let's see,
+
+1095
+00:42:12,362 --> 00:42:13,102
+this is s,
+
+1096
+00:42:13,102 --> 00:42:14,922
+so let's get rid of some minus signs.
+
+1097
+00:42:15,602 --> 00:42:16,542
+Minus sign here.
+
+1098
+00:42:17,542 --> 00:42:17,902
+Plus,
+
+1099
+00:42:17,902 --> 00:42:18,402
+plus.
+
+1100
+00:42:20,762 --> 00:42:21,342
+That's good,
+
+1101
+00:42:21,342 --> 00:42:22,862
+because entropy ought to be positive.
+
+1102
+00:42:24,882 --> 00:42:25,322
+Okay,
+
+1103
+00:42:25,322 --> 00:42:26,422
+what's the first term?
+
+1104
+00:42:27,622 --> 00:42:31,482
+P sub i times beta e sub i.
+
+1105
+00:42:31,602 --> 00:42:32,402
+Beta is a number,
+
+1106
+00:42:32,402 --> 00:42:32,642
+right?
+
+1107
+00:42:32,722 --> 00:42:33,542
+Beta is a number,
+
+1108
+00:42:33,542 --> 00:42:34,502
+it doesn't depend on i,
+
+1109
+00:42:34,502 --> 00:42:36,562
+so let's take it outside for the first term.
+
+1110
+00:42:37,821 --> 00:42:38,702
+Beta times,
+
+1111
+00:42:38,702 --> 00:42:40,692
+this is essentially just the sum
+
+1112
+00:42:40,692 --> 00:42:42,682
+of P sub i e sub i.
+
+1113
+00:42:43,602 --> 00:42:44,522
+That's the first term,
+
+1114
+00:42:44,522 --> 00:42:44,902
+what is that?
+
+1115
+00:42:47,662 --> 00:42:48,802
+That's the average energy.
+
+1116
+00:42:51,562 --> 00:42:53,132
+So the first term here
+
+1117
+00:42:53,132 --> 00:42:54,702
+is beta times the average energy.
+
+1118
+00:42:55,122 --> 00:42:55,602
+Okay,
+
+1119
+00:42:55,602 --> 00:42:56,062
+that's good.
+
+1120
+00:42:58,842 --> 00:43:03,042
+We know how to compute the average energy from z.
+
+1121
+00:43:05,022 --> 00:43:06,202
+So given z,
+
+1122
+00:43:06,202 --> 00:43:08,192
+we would know how to
+
+1123
+00:43:08,192 --> 00:43:10,182
+calculate beta times the average energy.
+
+1124
+00:43:11,142 --> 00:43:12,202
+That's the first term.
+
+1125
+00:43:12,322 --> 00:43:13,002
+Can everybody see?
+
+1126
+00:43:13,002 --> 00:43:14,002
+Anybody cannot see?
+
+1127
+00:43:14,082 --> 00:43:15,802
+Yell out right now if you can't see that
+
+1128
+00:43:15,802 --> 00:43:17,522
+the first term is beta times the average energy.
+
+1129
+00:43:19,341 --> 00:43:20,941
+What happened to 1 over z?
+
+1130
+00:43:21,602 --> 00:43:23,622
+That's part of the definition of P sub i.
+
+1131
+00:43:24,241 --> 00:43:24,682
+Oh,
+
+1132
+00:43:24,682 --> 00:43:24,822
+okay,
+
+1133
+00:43:24,822 --> 00:43:25,042
+right,
+
+1134
+00:43:25,042 --> 00:43:25,282
+yes.
+
+1135
+00:43:25,481 --> 00:43:25,922
+Okay,
+
+1136
+00:43:25,922 --> 00:43:26,582
+good.
+
+1137
+00:43:27,481 --> 00:43:27,922
+Now,
+
+1138
+00:43:27,922 --> 00:43:29,182
+the second term,
+
+1139
+00:43:29,182 --> 00:43:30,362
+let's look at the second term.
+
+1140
+00:43:31,422 --> 00:43:32,902
+Plus 1 over z,
+
+1141
+00:43:32,902 --> 00:43:35,961
+log z.
+
+1142
+00:43:39,422 --> 00:43:40,782
+1 over z from here,
+
+1143
+00:43:40,782 --> 00:43:42,662
+log z from here,
+
+1144
+00:43:42,662 --> 00:43:43,682
+and then sum.
+
+1145
+00:43:48,842 --> 00:43:52,122
+Over i e to the minus beta e sub i.
+
+1146
+00:43:53,802 --> 00:43:55,722
+What is the sum of i of
+
+1147
+00:43:55,722 --> 00:43:57,642
+e to the minus beta c sub i?
+
+1148
+00:43:59,242 --> 00:44:00,282
+That's z.
+
+1149
+00:44:01,822 --> 00:44:04,622
+So this z just cancels this z.
+
+1150
+00:44:04,882 --> 00:44:05,182
+Now,
+
+1151
+00:44:05,182 --> 00:44:07,222
+there's a lot of fancy gymnastics here.
+
+1152
+00:44:10,302 --> 00:44:11,682
+At some point,
+
+1153
+00:44:11,682 --> 00:44:12,102
+you know,
+
+1154
+00:44:12,102 --> 00:44:13,682
+you go on to autopilot,
+
+1155
+00:44:13,702 --> 00:44:17,502
+and you just do some mathematics until you find out.
+
+1156
+00:44:17,502 --> 00:44:18,682
+You find the formula that you like.
+
+1157
+00:44:20,962 --> 00:44:23,262
+Here we have sum over i e to the
+
+1158
+00:44:23,262 --> 00:44:25,562
+minus beta e sub i is equal to z.
+
+1159
+00:44:26,662 --> 00:44:28,022
+That cancels this z.
+
+1160
+00:44:28,682 --> 00:44:31,062
+And now we have a formula that we like,
+
+1161
+00:44:31,062 --> 00:44:31,602
+I like.
+
+1162
+00:44:34,022 --> 00:44:35,302
+What was this thing?
+
+1163
+00:44:35,502 --> 00:44:36,862
+Anybody remember what I calculated?
+
+1164
+00:44:38,582 --> 00:44:39,522
+The entropy.
+
+1165
+00:44:41,542 --> 00:44:44,502
+So we have an interesting formula for the entropy.
+
+1166
+00:44:46,082 --> 00:44:47,282
+Beta times e,
+
+1167
+00:44:47,282 --> 00:44:49,072
+I could write e in terms of
+
+1168
+00:44:49,072 --> 00:44:50,862
+a certain derivative of the log z,
+
+1169
+00:44:51,042 --> 00:44:52,062
+but I don't need to.
+
+1170
+00:44:52,122 --> 00:44:53,722
+I'm just going to leave it as the average energy.
+
+1171
+00:44:54,702 --> 00:44:56,782
+Plus the logarithm of z.
+
+1172
+00:44:58,902 --> 00:45:01,592
+The logarithm of z is a thing
+
+1173
+00:45:01,592 --> 00:45:04,282
+which comes up over and over again.
+
+1174
+00:45:05,402 --> 00:45:06,502
+I'm not going to give
+
+1175
+00:45:06,502 --> 00:45:07,602
+it a name at the moment.
+
+1176
+00:45:09,422 --> 00:45:10,802
+It does have a name.
+
+1177
+00:45:12,902 --> 00:45:13,342
+Actually.
+
+1178
+00:45:14,502 --> 00:45:15,762
+It's related to,
+
+1179
+00:45:15,762 --> 00:45:17,202
+by a factor of temperature,
+
+1180
+00:45:17,722 --> 00:45:20,962
+the Helmholtz free energy.
+
+1181
+00:45:21,202 --> 00:45:21,842
+But for the moment,
+
+1182
+00:45:21,842 --> 00:45:22,722
+we don't need to know.
+
+1183
+00:45:22,802 --> 00:45:25,102
+This is a formula.
+
+1184
+00:45:25,322 --> 00:45:27,382
+If we calculate the partition function,
+
+1185
+00:45:27,722 --> 00:45:30,842
+and we can calculate it as a function of beta,
+
+1186
+00:45:31,082 --> 00:45:32,222
+it is a function of beta,
+
+1187
+00:45:33,942 --> 00:45:37,162
+then we're capable of calculating the average energy.
+
+1188
+00:45:37,942 --> 00:45:40,182
+We're capable of calculating the entropy.
+
+1189
+00:45:40,942 --> 00:45:42,082
+And in fact,
+
+1190
+00:45:42,142 --> 00:45:43,762
+if we calculate the entropy
+
+1191
+00:45:44,502 --> 00:45:47,502
+and the energy,
+
+1192
+00:45:47,782 --> 00:45:49,622
+we can calculate the temperature.
+
+1193
+00:45:50,622 --> 00:45:52,242
+So let's go to the next step,
+
+1194
+00:45:52,322 --> 00:45:53,722
+which is calculating the temperature.
+
+1195
+00:45:53,982 --> 00:45:55,162
+Should there be a minus
+
+1196
+00:45:55,162 --> 00:45:56,342
+sign in front of that s?
+
+1197
+00:45:56,622 --> 00:45:57,642
+I don't think so.
+
+1198
+00:45:58,914 --> 00:45:59,394
+ありがとうございました
+
+1199
+00:46:00,130 --> 00:46:00,670
+don't think so,
+
+1200
+00:46:00,670 --> 00:46:01,110
+no.
+
+1201
+00:46:02,570 --> 00:46:03,570
+No minus sign.
+
+1202
+00:46:09,570 --> 00:46:10,990
+Let's go on to autopilot
+
+1203
+00:46:10,990 --> 00:46:12,410
+again and see if we can
+
+1204
+00:46:13,250 --> 00:46:15,270
+find out something about the temperature.
+
+1205
+00:46:15,570 --> 00:46:16,880
+Now to find out something about
+
+1206
+00:46:16,880 --> 00:46:18,190
+the temperature we have to remember
+
+1207
+00:46:18,190 --> 00:46:19,930
+something about the definition of temperature.
+
+1208
+00:46:24,250 --> 00:46:24,930
+Temperature.
+
+1209
+00:46:24,930 --> 00:46:25,190
+Not bad,
+
+1210
+00:46:25,190 --> 00:46:25,830
+pretty good.
+
+1211
+00:46:33,830 --> 00:46:34,510
+Temperature.
+
+1212
+00:46:35,649 --> 00:46:39,330
+The definition is that the change in energy,
+
+1213
+00:46:39,330 --> 00:46:40,110
+oh sorry,
+
+1214
+00:46:40,250 --> 00:46:42,930
+the change in energy when you
+
+1215
+00:46:42,930 --> 00:46:45,610
+change the entropy by one unit
+
+1216
+00:46:45,610 --> 00:46:47,530
+is called the temperature.
+
+1217
+00:46:47,750 --> 00:46:49,050
+DE equals.
+
+1218
+00:46:51,049 --> 00:46:51,610
+TDS.
+
+1219
+00:46:53,330 --> 00:46:55,580
+It's basically the derivative of the
+
+1220
+00:46:55,580 --> 00:46:57,830
+energy with respect to the entropy.
+
+1221
+00:46:59,970 --> 00:47:00,950
+That's temperature.
+
+1222
+00:47:01,330 --> 00:47:02,930
+That's the way we defined it.
+
+1223
+00:47:04,030 --> 00:47:07,370
+When we used the definition of it in this way,
+
+1224
+00:47:07,990 --> 00:47:11,170
+we found that heat always flows from hot to cold.
+
+1225
+00:47:11,350 --> 00:47:12,730
+That's a pretty good indication that
+
+1226
+00:47:12,730 --> 00:47:14,110
+it's got something to do with temperature.
+
+1227
+00:47:14,770 --> 00:47:17,290
+It is the definition of the temperature of a system.
+
+1228
+00:47:17,490 --> 00:47:18,700
+The rate of change of
+
+1229
+00:47:18,700 --> 00:47:19,910
+energy with respect to the energy.
+
+1230
+00:47:19,930 --> 00:47:20,340
+The rate of change of
+
+1231
+00:47:20,340 --> 00:47:20,750
+energy with respect to the temperature.
+
+1232
+00:47:21,110 --> 00:47:21,710
+So,
+
+1233
+00:47:21,710 --> 00:47:24,110
+let's try to calculate.
+
+1234
+00:47:25,710 --> 00:47:26,790
+This of course,
+
+1235
+00:47:26,790 --> 00:47:31,170
+this of course is also equal to,
+
+1236
+00:47:31,210 --> 00:47:34,440
+or one over the temperature is equal to the
+
+1237
+00:47:34,440 --> 00:47:37,670
+rate of change of S with respect to energy.
+
+1238
+00:47:39,610 --> 00:47:42,450
+The inverse temperature is the rate of
+
+1239
+00:47:42,450 --> 00:47:45,290
+change of S with respect to entropy.
+
+1240
+00:47:46,490 --> 00:47:48,430
+Let's see if we can do that derivative.
+
+1241
+00:47:49,850 --> 00:47:52,330
+The derivative of S with respect to energy.
+
+1242
+00:47:54,490 --> 00:47:55,010
+Okay.
+
+1243
+00:47:57,070 --> 00:47:57,590
+So,
+
+1244
+00:47:57,590 --> 00:48:00,310
+let's differentiate this with respect to energy first.
+
+1245
+00:48:00,570 --> 00:48:02,250
+Now keep in mind that beta,
+
+1246
+00:48:02,250 --> 00:48:03,740
+it would be simple if
+
+1247
+00:48:03,740 --> 00:48:05,230
+beta didn't depend on the energy.
+
+1248
+00:48:05,930 --> 00:48:07,790
+But beta does depend on the energy.
+
+1249
+00:48:08,329 --> 00:48:10,790
+So there's two terms from the first term.
+
+1250
+00:48:12,429 --> 00:48:17,050
+There's the S by DE is equal to beta.
+
+1251
+00:48:21,770 --> 00:48:28,030
+Plus E times the beta by DE.
+
+1252
+00:48:29,350 --> 00:48:30,990
+Does everybody see what I did?
+
+1253
+00:48:32,170 --> 00:48:34,610
+I differentiated this with respect
+
+1254
+00:48:34,610 --> 00:48:37,050
+to energy and I got beta.
+
+1255
+00:48:37,170 --> 00:48:37,930
+That's one term.
+
+1256
+00:48:38,070 --> 00:48:39,960
+And the other term is the
+
+1257
+00:48:39,960 --> 00:48:41,850
+energy times the beta by the energy.
+
+1258
+00:48:42,930 --> 00:48:43,610
+Okay.
+
+1259
+00:48:44,990 --> 00:48:46,070
+Everybody with me?
+
+1260
+00:48:47,370 --> 00:48:48,130
+Next term,
+
+1261
+00:48:48,130 --> 00:48:49,070
+this one over here.
+
+1262
+00:48:50,210 --> 00:48:55,850
+Let's differentiate log Z.
+
+1263
+00:48:57,410 --> 00:48:58,450
+Let's see how I did this.
+
+1264
+00:49:04,510 --> 00:49:05,510
+I'm doing this badly.
+
+1265
+00:49:05,770 --> 00:49:07,030
+Let me go back a step.
+
+1266
+00:49:08,490 --> 00:49:09,670
+Let me go back a step.
+
+1267
+00:49:10,130 --> 00:49:10,830
+Let's go back.
+
+1268
+00:49:12,350 --> 00:49:13,250
+I'm doing this badly.
+
+1269
+00:49:13,390 --> 00:49:14,850
+I want to start over.
+
+1270
+00:49:16,070 --> 00:49:17,530
+I want to start completely over again.
+
+1271
+00:49:20,750 --> 00:49:21,970
+Bad first move.
+
+1272
+00:49:22,730 --> 00:49:25,130
+A better move would have just been to write DS.
+
+1273
+00:49:27,250 --> 00:49:27,770
+DS.
+
+1274
+00:49:27,970 --> 00:49:29,710
+I'm going to take a differential of S.
+
+1275
+00:49:29,990 --> 00:49:33,110
+And that is two terms from the first term.
+
+1276
+00:49:33,250 --> 00:49:36,510
+Beta DE plus ED beta.
+
+1277
+00:49:36,770 --> 00:49:37,750
+This is easier.
+
+1278
+00:49:39,770 --> 00:49:41,110
+And from the second term,
+
+1279
+00:49:41,110 --> 00:49:41,730
+what do I get?
+
+1280
+00:49:42,010 --> 00:49:45,790
+I get the derivative of the log of Z.
+
+1281
+00:49:46,450 --> 00:49:49,330
+With respect to beta times D beta.
+
+1282
+00:49:49,950 --> 00:49:50,610
+Oh boy,
+
+1283
+00:49:50,610 --> 00:49:51,850
+this is much easier than I thought.
+
+1284
+00:49:52,190 --> 00:49:53,950
+It's also easier than I wrote in the notes.
+
+1285
+00:49:55,190 --> 00:49:56,030
+See what I did?
+
+1286
+00:49:56,890 --> 00:50:00,150
+I wrote DS is equal to a term from here.
+
+1287
+00:50:00,250 --> 00:50:00,910
+That's this.
+
+1288
+00:50:01,390 --> 00:50:03,890
+And then derivative of log Z
+
+1289
+00:50:03,890 --> 00:50:06,390
+with respect to beta times D beta.
+
+1290
+00:50:09,710 --> 00:50:10,130
+Oh,
+
+1291
+00:50:10,130 --> 00:50:11,010
+this is so easy.
+
+1292
+00:50:11,130 --> 00:50:13,370
+How did I make it so complicated in the notes?
+
+1293
+00:50:14,150 --> 00:50:14,570
+Okay.
+
+1294
+00:50:19,070 --> 00:50:20,750
+Energy is equal to minus
+
+1295
+00:50:20,750 --> 00:50:22,430
+D log Z by D beta.
+
+1296
+00:50:24,210 --> 00:50:26,380
+So we have energy times D
+
+1297
+00:50:26,380 --> 00:50:28,550
+beta minus energy times D beta.
+
+1298
+00:50:36,510 --> 00:50:37,930
+Equals beta DE.
+
+1299
+00:50:39,550 --> 00:50:40,150
+DS.
+
+1300
+00:50:41,070 --> 00:50:41,670
+Okay.
+
+1301
+00:50:43,490 --> 00:50:45,430
+What was the definition of temperature?
+
+1302
+00:50:45,870 --> 00:50:47,270
+Temperature was,
+
+1303
+00:50:47,270 --> 00:50:48,770
+remember,
+
+1304
+00:50:48,770 --> 00:50:51,870
+DE equals TDS,
+
+1305
+00:50:51,870 --> 00:50:52,350
+right?
+
+1306
+00:50:52,530 --> 00:50:53,290
+Ah,
+
+1307
+00:50:53,290 --> 00:50:55,110
+DE equals TDS.
+
+1308
+00:50:55,390 --> 00:50:56,290
+Remember that one?
+
+1309
+00:50:57,350 --> 00:50:58,110
+Okay.
+
+1310
+00:50:58,170 --> 00:51:03,190
+Here we have DE equals 1 over beta DS.
+
+1311
+00:51:06,370 --> 00:51:07,130
+Thus,
+
+1312
+00:51:07,130 --> 00:51:09,390
+it follows that the temperature is
+
+1313
+00:51:09,390 --> 00:51:11,650
+equal to 1 over beta DS.
+
+1314
+00:51:11,650 --> 00:51:16,240
+For years I've been teaching this
+
+1315
+00:51:16,240 --> 00:51:20,830
+through a complicated series of steps,
+
+1316
+00:51:20,830 --> 00:51:22,510
+which is much
+
+1317
+00:51:22,510 --> 00:51:23,870
+more complicated than this.
+
+1318
+00:51:27,830 --> 00:51:28,470
+Okay.
+
+1319
+00:51:28,650 --> 00:51:29,710
+It's very easy.
+
+1320
+00:51:30,670 --> 00:51:32,700
+Beta DE plus ED beta plus
+
+1321
+00:51:32,700 --> 00:51:34,730
+D log Z by D beta.
+
+1322
+00:51:34,850 --> 00:51:35,310
+That's DS.
+
+1323
+00:51:36,910 --> 00:51:38,850
+These two cancel identically.
+
+1324
+00:51:40,030 --> 00:51:41,760
+And the result is the temperature
+
+1325
+00:51:41,760 --> 00:51:43,490
+is equal to 1 over beta.
+
+1326
+00:51:43,930 --> 00:51:46,270
+That's wonderful because we've now found
+
+1327
+00:51:46,270 --> 00:51:48,610
+out what the significance of beta is,
+
+1328
+00:51:48,610 --> 00:51:49,570
+the physical
+
+1329
+00:51:49,570 --> 00:51:50,130
+significance.
+
+1330
+00:51:50,490 --> 00:51:54,090
+It started out as simply a Lagrange multiplier.
+
+1331
+00:51:55,350 --> 00:51:56,970
+We manipulated it,
+
+1332
+00:51:56,970 --> 00:51:58,930
+used a couple of identities,
+
+1333
+00:51:58,930 --> 00:52:00,150
+a little bit of calculus,
+
+1334
+00:52:00,150 --> 00:52:01,390
+and we find out
+
+1335
+00:52:01,390 --> 00:52:03,850
+that beta is 1 divided by the temperature.
+
+1336
+00:52:04,230 --> 00:52:06,530
+Does that assume that the log
+
+1337
+00:52:06,530 --> 00:52:08,830
+Z doesn't depend on the temperature?
+
+1338
+00:52:09,810 --> 00:52:11,670
+It does depend on E.
+
+1339
+00:52:11,730 --> 00:52:12,270
+It does depend on E.
+
+1340
+00:52:12,270 --> 00:52:14,170
+It depends on either E or beta.
+
+1341
+00:52:14,430 --> 00:52:17,550
+Then don't I have to say D log Z DE?
+
+1342
+00:52:17,850 --> 00:52:18,270
+No,
+
+1343
+00:52:18,270 --> 00:52:18,550
+no,
+
+1344
+00:52:18,550 --> 00:52:18,550
+no.
+
+1345
+00:52:18,970 --> 00:52:21,090
+It depends on only one variable,
+
+1346
+00:52:21,090 --> 00:52:23,490
+either E or beta.
+
+1347
+00:52:24,390 --> 00:52:25,290
+They're connected.
+
+1348
+00:52:25,490 --> 00:52:27,630
+There's only one independent variable.
+
+1349
+00:52:28,190 --> 00:52:29,110
+And you may,
+
+1350
+00:52:29,110 --> 00:52:32,250
+I could have differentiated with respect to E,
+
+1351
+00:52:32,250 --> 00:52:33,250
+but that would have made it
+
+1352
+00:52:33,250 --> 00:52:33,870
+more complicated.
+
+1353
+00:52:36,450 --> 00:52:38,750
+Z only depends on one variable.
+
+1354
+00:52:38,810 --> 00:52:41,270
+It can either be taken to be E or beta.
+
+1355
+00:52:42,890 --> 00:52:44,270
+So that's a good point.
+
+1356
+00:52:44,430 --> 00:52:44,610
+I mean,
+
+1357
+00:52:44,610 --> 00:52:47,270
+but so.
+
+1358
+00:52:49,110 --> 00:52:51,650
+The units of temperature here are units of energy,
+
+1359
+00:52:51,650 --> 00:52:51,930
+right?
+
+1360
+00:52:52,150 --> 00:52:52,490
+Yeah.
+
+1361
+00:52:52,650 --> 00:52:53,130
+Good,
+
+1362
+00:52:53,130 --> 00:52:53,510
+good,
+
+1363
+00:52:53,510 --> 00:52:53,670
+good.
+
+1364
+00:52:53,890 --> 00:52:57,370
+There would be a Boltzmann constant here if
+
+1365
+00:52:57,370 --> 00:53:00,850
+I wanted to keep track of centigrade or Fahrenheit
+
+1366
+00:53:00,850 --> 00:53:01,870
+and so forth.
+
+1367
+00:53:02,410 --> 00:53:04,950
+It would actually be the Boltzmann constant
+
+1368
+00:53:04,950 --> 00:53:07,490
+times the temperature is 1 over beta.
+
+1369
+00:53:08,810 --> 00:53:09,970
+Beta is 1 over kT.
+
+1370
+00:53:10,970 --> 00:53:11,730
+All right,
+
+1371
+00:53:11,730 --> 00:53:14,510
+so in laboratory units,
+
+1372
+00:53:14,510 --> 00:53:16,450
+beta is 1 over kT,
+
+1373
+00:53:16,450 --> 00:53:17,690
+k Boltzmann T.
+
+1374
+00:53:18,490 --> 00:53:20,670
+But in the theorist's units
+
+1375
+00:53:20,670 --> 00:53:22,850
+where temperature has units of energy,
+
+1376
+00:53:22,850 --> 00:53:27,410
+then it's just 1 over beta.
+
+1377
+00:53:32,150 --> 00:53:35,730
+When I'm dealing with a volume of gas,
+
+1378
+00:53:36,170 --> 00:53:36,470
+Mm-hmm.
+
+1379
+00:53:37,210 --> 00:53:41,910
+that average energy is usually the average of a molecule,
+
+1380
+00:53:41,910 --> 00:53:44,290
+energy of a molecule in the gas.
+
+1381
+00:53:49,830 --> 00:53:50,350
+No,
+
+1382
+00:53:50,350 --> 00:53:50,710
+not,
+
+1383
+00:53:50,710 --> 00:53:50,970
+well,
+
+1384
+00:53:50,970 --> 00:53:52,970
+not if your system is defined
+
+1385
+00:53:52,970 --> 00:53:54,970
+to be the box of gas.
+
+1386
+00:53:55,890 --> 00:53:57,190
+If the system is defined
+
+1387
+00:53:57,190 --> 00:53:58,490
+to be the box of gas,
+
+1388
+00:53:58,490 --> 00:54:03,150
+then it's the energy of a collection of molecules.
+
+1389
+00:54:04,730 --> 00:54:05,170
+Now,
+
+1390
+00:54:05,170 --> 00:54:07,180
+you can go back and try to
+
+1391
+00:54:07,180 --> 00:54:09,190
+define the system as a single molecule,
+
+1392
+00:54:09,390 --> 00:54:10,720
+and you might be able to
+
+1393
+00:54:10,720 --> 00:54:12,050
+get away with it under certain circumstances.
+
+1394
+00:54:17,050 --> 00:54:19,350
+The reason you can't get away with it in
+
+1395
+00:54:19,350 --> 00:54:21,650
+all circumstances is because the molecules interact with each other,
+
+1396
+00:54:22,290 --> 00:54:24,530
+and it was assumed that
+
+1397
+00:54:24,530 --> 00:54:26,770
+these boxes were extremely weakly interacting,
+
+1398
+00:54:26,890 --> 00:54:28,450
+only interacting enough to be able
+
+1399
+00:54:28,450 --> 00:54:30,010
+to exchange energy a little bit.
+
+1400
+00:54:30,390 --> 00:54:30,830
+So.
+
+1401
+00:54:31,830 --> 00:54:33,130
+What's an ideal gas system?
+
+1402
+00:54:33,130 --> 00:54:34,309
+It's a gas that's not interact with the gas.
+
+1403
+00:54:34,789 --> 00:54:35,189
+Right.
+
+1404
+00:54:37,710 --> 00:54:38,870
+So in many cases,
+
+1405
+00:54:38,870 --> 00:54:41,270
+you can take the system to be one molecule.
+
+1406
+00:54:42,550 --> 00:54:43,570
+But we'll do it,
+
+1407
+00:54:43,570 --> 00:54:44,850
+we'll do it by taking the
+
+1408
+00:54:44,850 --> 00:54:46,130
+system to be the box of molecules,
+
+1409
+00:54:47,330 --> 00:54:49,570
+and we'll see the relationship between them.
+
+1410
+00:54:50,610 --> 00:54:51,010
+Okay,
+
+1411
+00:54:51,010 --> 00:54:52,650
+so we have temperature is 1 over,
+
+1412
+00:54:52,650 --> 00:54:53,970
+and we,
+
+1413
+00:54:53,970 --> 00:54:54,230
+oh,
+
+1414
+00:54:54,230 --> 00:54:54,410
+good,
+
+1415
+00:54:54,410 --> 00:54:54,830
+good.
+
+1416
+00:54:54,950 --> 00:54:55,210
+So we,
+
+1417
+00:54:55,210 --> 00:54:55,670
+let's,
+
+1418
+00:54:55,670 --> 00:54:57,710
+let's,
+
+1419
+00:55:00,870 --> 00:55:03,020
+let's accumulate our equations
+
+1420
+00:55:03,020 --> 00:55:05,170
+here someplace of important equations.
+
+1421
+00:55:07,449 --> 00:55:08,730
+Let's summarize them.
+
+1422
+00:55:12,930 --> 00:55:14,090
+Put them over here.
+
+1423
+00:55:16,490 --> 00:55:18,450
+P sub i is 1 over z,
+
+1424
+00:55:18,450 --> 00:55:23,250
+e to the minus beta e sub i.
+
+1425
+00:55:24,930 --> 00:55:27,690
+z equals summation of,
+
+1426
+00:55:27,690 --> 00:55:28,150
+1 over i,
+
+1427
+00:55:28,150 --> 00:55:30,390
+e to the minus beta e sub i.
+
+1428
+00:55:31,210 --> 00:55:34,330
+z is a function of beta.
+
+1429
+00:55:37,750 --> 00:55:40,410
+e is equal to minus the derivative
+
+1430
+00:55:40,410 --> 00:55:43,070
+of log z with respect to beta.
+
+1431
+00:55:49,070 --> 00:55:51,170
+Temperature is 1 over beta.
+
+1432
+00:55:54,210 --> 00:55:57,270
+And we have one more equation here that's interesting.
+
+1433
+00:55:57,470 --> 00:56:01,710
+The entropy is equal to,
+
+1434
+00:56:01,710 --> 00:56:03,250
+where did I have it?
+
+1435
+00:56:03,310 --> 00:56:05,770
+Beta times e plus log z.
+
+1436
+00:56:17,890 --> 00:56:19,490
+Now we want to do an example.
+
+1437
+00:56:19,650 --> 00:56:21,150
+An example drawn from real life.
+
+1438
+00:56:21,150 --> 00:56:21,490
+Real physics.
+
+1439
+00:56:22,910 --> 00:56:23,750
+Approximate physics,
+
+1440
+00:56:23,750 --> 00:56:24,670
+to be sure.
+
+1441
+00:56:25,690 --> 00:56:29,210
+Meaning to say that we'll make an approximation.
+
+1442
+00:56:30,510 --> 00:56:31,890
+The ideal gas.
+
+1443
+00:56:33,530 --> 00:56:37,030
+The ideal gas is a gas of molecules in
+
+1444
+00:56:37,030 --> 00:56:40,530
+a box where each molecule is a point molecule.
+
+1445
+00:56:44,190 --> 00:56:45,440
+And either you can say
+
+1446
+00:56:45,440 --> 00:56:46,690
+it in a number of ways.
+
+1447
+00:56:46,790 --> 00:56:48,960
+You can say that the molecules are
+
+1448
+00:56:48,960 --> 00:56:51,130
+so weakly interacting that we ignore the interaction.
+
+1449
+00:56:51,150 --> 00:56:55,840
+Or we can say that the gas is so dilute that the
+
+1450
+00:56:55,840 --> 00:57:00,530
+probability of two molecules being close enough together to interact is negligible.
+
+1451
+00:57:03,210 --> 00:57:04,230
+Either way,
+
+1452
+00:57:04,230 --> 00:57:06,210
+the approximation is that the
+
+1453
+00:57:06,210 --> 00:57:08,190
+molecules do not interact at all.
+
+1454
+00:57:08,530 --> 00:57:11,310
+Another way of saying that is that
+
+1455
+00:57:11,310 --> 00:57:14,090
+the energy is a sum of just,
+
+1456
+00:57:14,090 --> 00:57:14,990
+in this case,
+
+1457
+00:57:14,990 --> 00:57:16,540
+let's say the kinetic energy
+
+1458
+00:57:16,540 --> 00:57:18,090
+of the molecules and nothing more.
+
+1459
+00:57:18,230 --> 00:57:19,110
+Inside a box.
+
+1460
+00:57:19,610 --> 00:57:20,570
+A box.
+
+1461
+00:57:20,570 --> 00:57:21,530
+Here's the box.
+
+1462
+00:57:24,090 --> 00:57:25,530
+It has volume v.
+
+1463
+00:57:26,170 --> 00:57:29,250
+The number of molecules in the box is n.
+
+1464
+00:57:29,830 --> 00:57:32,010
+The density is n over v.
+
+1465
+00:57:32,190 --> 00:57:33,510
+The density of molecules,
+
+1466
+00:57:33,510 --> 00:57:34,770
+not the density of energy.
+
+1467
+00:57:35,750 --> 00:57:36,690
+n over v.
+
+1468
+00:57:36,810 --> 00:57:38,730
+And I'll call that rho when we get to it.
+
+1469
+00:57:40,350 --> 00:57:43,070
+And we want to calculate the partition function.
+
+1470
+00:57:43,290 --> 00:57:43,470
+Oh,
+
+1471
+00:57:43,470 --> 00:57:44,090
+first of all,
+
+1472
+00:57:44,090 --> 00:57:44,650
+what's the energy?
+
+1473
+00:57:44,750 --> 00:57:45,050
+First of all,
+
+1474
+00:57:45,050 --> 00:57:45,690
+what are the states?
+
+1475
+00:57:46,850 --> 00:57:47,810
+What are the states?
+
+1476
+00:57:47,810 --> 00:57:52,010
+The states are the collection of values
+
+1477
+00:57:52,010 --> 00:57:56,210
+of position and momentum for each molecule.
+
+1478
+00:57:56,730 --> 00:57:58,610
+That's the way we label the states.
+
+1479
+00:58:00,030 --> 00:58:01,630
+So a state,
+
+1480
+00:58:01,630 --> 00:58:01,930
+then,
+
+1481
+00:58:01,930 --> 00:58:06,210
+is a collection of 3n coordinates,
+
+1482
+00:58:06,210 --> 00:58:11,150
+x1 through x3n.
+
+1483
+00:58:12,190 --> 00:58:14,510
+Why 3n and why not just n?
+
+1484
+00:58:15,310 --> 00:58:17,490
+Because each molecule has 3 coordinates.
+
+1485
+00:58:17,630 --> 00:58:18,350
+That's why x,
+
+1486
+00:58:18,350 --> 00:58:18,610
+y,
+
+1487
+00:58:18,610 --> 00:58:18,950
+and z.
+
+1488
+00:58:19,690 --> 00:58:24,750
+But we'll just lump them all together in this fashion.
+
+1489
+00:58:27,590 --> 00:58:29,230
+What about the momenta?
+
+1490
+00:58:29,570 --> 00:58:33,170
+The momenta are p1 through p3n.
+
+1491
+00:58:37,350 --> 00:58:40,070
+And a state of the system is
+
+1492
+00:58:40,070 --> 00:58:42,790
+just a point in this 6n dimensional space.
+
+1493
+00:58:42,790 --> 00:58:45,240
+A set of values of x and a
+
+1494
+00:58:45,240 --> 00:58:47,690
+set of values of p label a point.
+
+1495
+00:58:47,850 --> 00:58:50,430
+What is a sum over states?
+
+1496
+00:58:50,870 --> 00:58:54,070
+A sum over states is replaced by
+
+1497
+00:58:54,070 --> 00:58:57,270
+an integral over the x's and the p's.
+
+1498
+00:58:59,610 --> 00:59:01,070
+In other words,
+
+1499
+00:59:01,070 --> 00:59:05,350
+we have to make use now of the
+
+1500
+00:59:05,350 --> 00:59:09,630
+relationship or the correspondence between sums and integrals.
+
+1501
+00:59:09,850 --> 00:59:11,610
+I'll not go through that in detail.
+
+1502
+00:59:12,170 --> 00:59:12,770
+Okay?
+
+1503
+00:59:12,790 --> 00:59:14,990
+I think you know how to do that,
+
+1504
+00:59:14,990 --> 00:59:17,140
+how to replace an integral by a
+
+1505
+00:59:17,140 --> 00:59:19,290
+sum or a sum by an integral.
+
+1506
+00:59:19,710 --> 00:59:21,370
+So let's just do it.
+
+1507
+00:59:21,490 --> 00:59:23,790
+Instead of writing a sum over i,
+
+1508
+00:59:23,790 --> 00:59:33,990
+we write an integral over d3nx and d3np.
+
+1509
+00:59:34,810 --> 00:59:36,870
+Over all the x's and p's.
+
+1510
+00:59:37,050 --> 00:59:38,690
+I'm interested in the partition function.
+
+1511
+00:59:40,170 --> 00:59:42,450
+The partition function is a sum.
+
+1512
+00:59:42,790 --> 00:59:43,190
+Let's begin with,
+
+1513
+00:59:43,190 --> 00:59:43,770
+where is it?
+
+1514
+00:59:44,710 --> 00:59:45,910
+A sum over i.
+
+1515
+00:59:46,930 --> 00:59:52,590
+That is replaced by an integral over x's and p's.
+
+1516
+00:59:54,950 --> 00:59:55,510
+Next,
+
+1517
+00:59:55,510 --> 00:59:59,940
+we want to write e to the minus
+
+1518
+00:59:59,940 --> 01:00:04,370
+beta times the energy of the ith state.
+
+1519
+01:00:04,930 --> 01:00:06,910
+What is the energy in the ith
+
+1520
+01:00:06,910 --> 01:00:08,890
+state of a particle in a box?
+
+1521
+01:00:09,830 --> 01:00:11,470
+It's just a kinetic energy.
+
+1522
+01:00:11,470 --> 01:00:12,170
+For the moment,
+
+1523
+01:00:12,170 --> 01:00:14,470
+we're ignoring the interaction between the particles.
+
+1524
+01:00:14,930 --> 01:00:16,410
+It's just a kinetic energy.
+
+1525
+01:00:16,710 --> 01:00:18,830
+So what is the kinetic energy of a particle?
+
+1526
+01:00:20,330 --> 01:00:24,650
+It's p1 squared plus p2 squared plus p3 squared.
+
+1527
+01:00:25,770 --> 01:00:28,090
+One over twice the mass of the particle.
+
+1528
+01:00:29,050 --> 01:00:29,590
+p1,
+
+1529
+01:00:29,590 --> 01:00:29,990
+p2,
+
+1530
+01:00:29,990 --> 01:00:34,590
+and p3 are the three components of the momentum.
+
+1531
+01:00:34,850 --> 01:00:35,310
+px,
+
+1532
+01:00:35,310 --> 01:00:35,510
+py,
+
+1533
+01:00:35,510 --> 01:00:35,990
+and pc,
+
+1534
+01:00:35,990 --> 01:00:36,690
+so to speak.
+
+1535
+01:00:37,890 --> 01:00:39,670
+Notice the three directions of space
+
+1536
+01:00:39,670 --> 01:00:41,450
+enter in exactly the same way.
+
+1537
+01:00:41,450 --> 01:00:44,690
+What if I take all of the particles?
+
+1538
+01:00:45,010 --> 01:00:47,050
+If I take all of the particles,
+
+1539
+01:00:47,050 --> 01:00:50,680
+all I do is add up
+
+1540
+01:00:50,680 --> 01:00:54,310
+all 3n contributions of this type here.
+
+1541
+01:00:55,250 --> 01:00:59,050
+So this just becomes sum over,
+
+1542
+01:00:59,050 --> 01:01:01,510
+little n labels the particles.
+
+1543
+01:01:01,890 --> 01:01:05,310
+Little n labels which particle I'm talking about.
+
+1544
+01:01:05,530 --> 01:01:06,170
+Oh no,
+
+1545
+01:01:06,170 --> 01:01:08,650
+it labels which coordinate I'm talking about.
+
+1546
+01:01:09,050 --> 01:01:10,410
+From n equals 1.
+
+1547
+01:01:11,670 --> 01:01:16,050
+The 3n times pn squared divided
+
+1548
+01:01:16,050 --> 01:01:20,430
+by twice the mass of the particle.
+
+1549
+01:01:25,550 --> 01:01:27,710
+It's just e to the minus beta.
+
+1550
+01:01:28,180 --> 01:01:29,550
+The beta is the beta here.
+
+1551
+01:01:29,810 --> 01:01:34,710
+But the energy of a given state is just the sums of the squares
+
+1552
+01:01:34,710 --> 01:01:39,610
+of the momenta of all of the 3n momenta divided by twice the mass.
+
+1553
+01:01:41,430 --> 01:01:41,990
+Yeah,
+
+1554
+01:01:41,990 --> 01:01:43,510
+let's take the masses to all be equal.
+
+1555
+01:01:45,010 --> 01:01:45,810
+Let's take a,
+
+1556
+01:01:45,810 --> 01:01:48,150
+let me clean this up a little bit.
+
+1557
+01:01:49,210 --> 01:01:51,570
+Minus beta over twice the mass.
+
+1558
+01:01:54,670 --> 01:01:57,330
+Times p sub n squared.
+
+1559
+01:01:58,170 --> 01:02:00,410
+Now it's a sum in the exponent.
+
+1560
+01:02:01,070 --> 01:02:03,410
+But that means it's actually just a product.
+
+1561
+01:02:03,850 --> 01:02:08,770
+It's a product over all n.
+
+1562
+01:02:10,210 --> 01:02:12,530
+I'm not going to write a fancy product sign.
+
+1563
+01:02:13,770 --> 01:02:15,030
+Maybe I'll just leave,
+
+1564
+01:02:15,030 --> 01:02:16,490
+I'll leave it as sum here.
+
+1565
+01:02:16,910 --> 01:02:19,230
+But remember this is a fairly simple expression.
+
+1566
+01:02:19,770 --> 01:02:21,310
+It's just a product.
+
+1567
+01:02:21,790 --> 01:02:23,870
+One factor for each coordinate.
+
+1568
+01:02:24,290 --> 01:02:27,870
+e to the minus p squared over 2m times beta.
+
+1569
+01:02:29,950 --> 01:02:30,510
+Where?
+
+1570
+01:02:34,690 --> 01:02:38,670
+Well the sum goes from n equals 1 to 3n.
+
+1571
+01:02:39,850 --> 01:02:42,330
+There are 3n momenta all together.
+
+1572
+01:02:44,330 --> 01:02:46,430
+But there's 3 directions.
+
+1573
+01:02:46,650 --> 01:02:47,870
+There's 3n particles.
+
+1574
+01:02:48,150 --> 01:02:48,450
+No,
+
+1575
+01:02:48,450 --> 01:02:48,590
+no,
+
+1576
+01:02:48,590 --> 01:02:49,790
+there's n particles.
+
+1577
+01:02:50,170 --> 01:02:51,270
+n particles,
+
+1578
+01:02:51,270 --> 01:02:52,170
+3n coordinates.
+
+1579
+01:02:53,670 --> 01:02:54,350
+Right.
+
+1580
+01:02:54,870 --> 01:02:56,730
+Why would I have 3n particles?
+
+1581
+01:02:57,010 --> 01:02:58,330
+That would really be perverse.
+
+1582
+01:03:00,770 --> 01:03:02,390
+But 3n coordinates.
+
+1583
+01:03:04,530 --> 01:03:05,209
+Okay.
+
+1584
+01:03:08,670 --> 01:03:09,090
+Professor?
+
+1585
+01:03:10,010 --> 01:03:10,570
+Yes.
+
+1586
+01:03:10,650 --> 01:03:15,810
+You're summing over all the momentum.
+
+1587
+01:03:16,370 --> 01:03:18,690
+It seems like you're double
+
+1588
+01:03:18,690 --> 01:03:21,010
+counting versus the formula for z.
+
+1589
+01:03:21,469 --> 01:03:21,989
+No,
+
+1590
+01:03:21,989 --> 01:03:22,670
+you're summing over n.
+
+1591
+01:03:23,490 --> 01:03:24,050
+Okay,
+
+1592
+01:03:24,050 --> 01:03:25,170
+let's write out what this is.
+
+1593
+01:03:25,890 --> 01:03:27,190
+Let's write out what this is.
+
+1594
+01:03:27,310 --> 01:03:31,130
+This is integral dp1 e to
+
+1595
+01:03:31,130 --> 01:03:34,950
+the minus beta over 2m p1 squared.
+
+1596
+01:03:37,109 --> 01:03:41,850
+dp2 e to the minus beta over 2m p2 squared.
+
+1597
+01:03:44,629 --> 01:03:49,690
+dp3 e to the minus beta over 2m p3 squared.
+
+1598
+01:03:52,410 --> 01:03:53,550
+See what I've done.
+
+1599
+01:03:54,330 --> 01:03:54,530
+Oh,
+
+1600
+01:03:54,530 --> 01:03:55,290
+there's also,
+
+1601
+01:03:55,290 --> 01:03:55,850
+sorry,
+
+1602
+01:03:55,850 --> 01:03:57,350
+there's also the x integrations,
+
+1603
+01:03:57,350 --> 01:03:58,630
+which I haven't included here.
+
+1604
+01:03:59,110 --> 01:04:02,950
+The momentum integrations factorize.
+
+1605
+01:04:02,950 --> 01:04:04,590
+They factorize into a product.
+
+1606
+01:04:05,130 --> 01:04:07,610
+dp1 for the first component of momentum,
+
+1607
+01:04:07,610 --> 01:04:10,790
+e to the minus beta over 2m p1 squared.
+
+1608
+01:04:12,430 --> 01:04:13,490
+And in fact,
+
+1609
+01:04:13,490 --> 01:04:14,910
+if you think about it for a minute,
+
+1610
+01:04:14,910 --> 01:04:17,160
+this is just a 3nth
+
+1611
+01:04:17,160 --> 01:04:19,410
+power of one of these integrals.
+
+1612
+01:04:20,750 --> 01:04:24,250
+Each integral is exactly the same as every other integral.
+
+1613
+01:04:25,450 --> 01:04:28,950
+The integral over p1 gives a certain thing,
+
+1614
+01:04:28,950 --> 01:04:29,530
+a number.
+
+1615
+01:04:30,770 --> 01:04:31,690
+Integral p1.
+
+1616
+01:04:32,250 --> 01:04:33,090
+Integral p2,
+
+1617
+01:04:33,090 --> 01:04:34,430
+when the integral is done,
+
+1618
+01:04:34,430 --> 01:04:36,130
+gives the same number.
+
+1619
+01:04:36,450 --> 01:04:37,810
+It's just the capital,
+
+1620
+01:04:37,810 --> 01:04:43,790
+it's just the 3nth power of one of these integrals.
+
+1621
+01:04:45,110 --> 01:04:46,510
+That's going to make it very easy.
+
+1622
+01:04:47,310 --> 01:04:48,850
+But before we do,
+
+1623
+01:04:48,850 --> 01:04:49,910
+let's write it out.
+
+1624
+01:04:50,050 --> 01:04:51,890
+Might as well write that down now.
+
+1625
+01:04:53,789 --> 01:04:55,950
+This is not an indefinite integral.
+
+1626
+01:04:56,270 --> 01:04:58,010
+It's a definite integral.
+
+1627
+01:04:58,290 --> 01:04:59,310
+But we didn't write it down.
+
+1628
+01:05:00,950 --> 01:05:01,670
+Over all the integrals.
+
+1629
+01:05:01,670 --> 01:05:02,050
+Over all momentum.
+
+1630
+01:05:02,330 --> 01:05:05,470
+All possible momenta that the particle could have.
+
+1631
+01:05:05,550 --> 01:05:06,510
+It's a definite integral.
+
+1632
+01:05:08,370 --> 01:05:12,610
+It's an integral over all possible momenta,
+
+1633
+01:05:12,610 --> 01:05:14,270
+all possible states.
+
+1634
+01:05:14,630 --> 01:05:17,210
+The sum over i is the sum
+
+1635
+01:05:17,210 --> 01:05:19,790
+over all possible states of the system.
+
+1636
+01:05:20,090 --> 01:05:22,840
+The integrals dp and dx are
+
+1637
+01:05:22,840 --> 01:05:25,590
+integrals over all possible p and x.
+
+1638
+01:05:25,970 --> 01:05:26,610
+Now,
+
+1639
+01:05:26,610 --> 01:05:28,610
+the momenta in the box can be anything.
+
+1640
+01:05:29,550 --> 01:05:31,590
+What about the x integration?
+
+1641
+01:05:34,730 --> 01:05:36,510
+They have to be inside the box.
+
+1642
+01:05:38,050 --> 01:05:40,070
+They're constrained to be inside the box.
+
+1643
+01:05:40,590 --> 01:05:42,830
+So let's focus on them first of all.
+
+1644
+01:05:42,890 --> 01:05:44,110
+Let's take the first particle.
+
+1645
+01:05:44,570 --> 01:05:46,370
+That's the first particle.
+
+1646
+01:05:46,450 --> 01:05:50,210
+That's just integral d3x for the first particle.
+
+1647
+01:05:50,750 --> 01:05:52,630
+And it's an integral over the box.
+
+1648
+01:05:53,670 --> 01:05:54,550
+What's its value?
+
+1649
+01:05:56,130 --> 01:05:57,410
+The volume of the box,
+
+1650
+01:05:57,410 --> 01:05:57,650
+right?
+
+1651
+01:05:59,190 --> 01:06:01,130
+So the x integrations here,
+
+1652
+01:06:01,130 --> 01:06:01,650
+each of these integrals have to be inside the box.
+
+1653
+01:06:01,650 --> 01:06:02,270
+So for each particle,
+
+1654
+01:06:02,270 --> 01:06:03,650
+for each particle separately,
+
+1655
+01:06:03,650 --> 01:06:07,970
+the x integral gives a volume of the box.
+
+1656
+01:06:09,730 --> 01:06:10,930
+So altogether,
+
+1657
+01:06:10,930 --> 01:06:12,630
+the x integrations,
+
+1658
+01:06:12,630 --> 01:06:13,670
+and the integrations factor.
+
+1659
+01:06:14,370 --> 01:06:15,770
+They're not connected together.
+
+1660
+01:06:15,910 --> 01:06:18,170
+There's nothing in this integrand that depends on x.
+
+1661
+01:06:19,610 --> 01:06:21,630
+The integrand only depends on p.
+
+1662
+01:06:22,790 --> 01:06:24,950
+So the integral over x is very simple.
+
+1663
+01:06:25,330 --> 01:06:28,210
+The integral over x gives a
+
+1664
+01:06:28,210 --> 01:06:31,090
+factor of volume to the 3n.
+
+1665
+01:06:34,290 --> 01:06:34,650
+No.
+
+1666
+01:06:35,630 --> 01:06:36,670
+Volume to the n.
+
+1667
+01:06:46,990 --> 01:06:48,750
+I'm going to put an extra factor in here.
+
+1668
+01:06:51,850 --> 01:06:52,550
+If you like,
+
+1669
+01:06:52,550 --> 01:06:55,190
+we can get rid of it.
+
+1670
+01:06:56,610 --> 01:06:56,970
+Well,
+
+1671
+01:06:56,970 --> 01:06:57,870
+let's not do it.
+
+1672
+01:06:57,930 --> 01:06:58,670
+Let's leave it.
+
+1673
+01:06:58,730 --> 01:06:59,770
+Let's not.
+
+1674
+01:07:01,650 --> 01:07:02,430
+We'll come back to it.
+
+1675
+01:07:07,310 --> 01:07:07,710
+No.
+
+1676
+01:07:08,010 --> 01:07:08,410
+Let's.
+
+1677
+01:07:09,930 --> 01:07:12,460
+The factor 1 over n
+
+1678
+01:07:12,460 --> 01:07:14,990
+factorial is a little bit contentious,
+
+1679
+01:07:14,990 --> 01:07:16,260
+whether it ought to be there
+
+1680
+01:07:16,260 --> 01:07:17,530
+or it oughtn't to be there.
+
+1681
+01:07:18,410 --> 01:07:18,810
+Fortunately,
+
+1682
+01:07:18,810 --> 01:07:21,570
+it doesn't matter whether you put it there or not.
+
+1683
+01:07:22,050 --> 01:07:23,470
+I will keep track of it.
+
+1684
+01:07:23,570 --> 01:07:24,310
+I will put it there.
+
+1685
+01:07:24,410 --> 01:07:25,810
+But I'm going to tell you what it comes from.
+
+1686
+01:07:27,710 --> 01:07:30,110
+It comes from identifying,
+
+1687
+01:07:30,110 --> 01:07:33,750
+here's a state with molecule 1
+
+1688
+01:07:33,750 --> 01:07:37,390
+over here and molecule 2 over here.
+
+1689
+01:07:38,150 --> 01:07:40,520
+Here's another state with molecule 2
+
+1690
+01:07:40,520 --> 01:07:42,890
+over here and 1 over here.
+
+1691
+01:07:43,210 --> 01:07:45,050
+Are they the same state or not?
+
+1692
+01:07:49,750 --> 01:07:50,430
+Well,
+
+1693
+01:07:50,430 --> 01:07:51,930
+that's a little bit ambiguous.
+
+1694
+01:07:51,930 --> 01:07:57,880
+Do particles carry labels which have names attached to them so that putting Larry over
+
+1695
+01:07:57,880 --> 01:08:03,830
+here and Fred over here is different than putting Fred over here and Larry over here?
+
+1696
+01:08:04,130 --> 01:08:08,190
+Or are they sort of nameless things where you can just say
+
+1697
+01:08:08,190 --> 01:08:12,250
+the states correspond to a particle over here and a particle over here,
+
+1698
+01:08:12,250 --> 01:08:13,590
+just two of them,
+
+1699
+01:08:13,590 --> 01:08:15,010
+one here and one here?
+
+1700
+01:08:15,490 --> 01:08:18,029
+The answer is in classical physics,
+
+1701
+01:08:18,029 --> 01:08:19,250
+it doesn't matter.
+
+1702
+01:08:20,630 --> 01:08:21,910
+In quantum physics,
+
+1703
+01:08:21,910 --> 01:08:21,910
+it doesn't matter.
+
+1704
+01:08:21,910 --> 01:08:22,350
+In quantum mechanics,
+
+1705
+01:08:22,350 --> 01:08:24,689
+it does matter.
+
+1706
+01:08:24,970 --> 01:08:26,490
+And in quantum mechanics,
+
+1707
+01:08:26,490 --> 01:08:28,569
+particles do not carry names.
+
+1708
+01:08:29,670 --> 01:08:32,510
+An electron over here and an electron over here is the
+
+1709
+01:08:32,510 --> 01:08:35,350
+same as an electron over here and an electron over here.
+
+1710
+01:08:37,910 --> 01:08:42,130
+So that means if there was two particles,
+
+1711
+01:08:42,130 --> 01:08:46,529
+you would say you overcount by a factor of 2
+
+1712
+01:08:47,670 --> 01:08:51,410
+by considering all possible configurations.
+
+1713
+01:08:52,229 --> 01:08:56,870
+Giving the particles names and then allowing them to have all
+
+1714
+01:08:56,870 --> 01:09:01,510
+possible configurations gives you a factor of 2 too many states.
+
+1715
+01:09:03,210 --> 01:09:05,630
+How about 3 if there were 3 particles?
+
+1716
+01:09:07,189 --> 01:09:08,850
+What's the overcounting factor?
+
+1717
+01:09:10,529 --> 01:09:11,750
+3 factorial.
+
+1718
+01:09:13,029 --> 01:09:15,850
+What if there are n particles?
+
+1719
+01:09:16,790 --> 01:09:18,050
+n factorial.
+
+1720
+01:09:19,290 --> 01:09:20,090
+So.
+
+1721
+01:09:20,090 --> 01:09:22,790
+The usual argument goes,
+
+1722
+01:09:22,790 --> 01:09:23,510
+as I said,
+
+1723
+01:09:23,510 --> 01:09:24,250
+it doesn't matter.
+
+1724
+01:09:24,410 --> 01:09:24,990
+In the end,
+
+1725
+01:09:24,990 --> 01:09:28,109
+it would make no difference to any of the formulas.
+
+1726
+01:09:29,850 --> 01:09:30,930
+I'll try to show you
+
+1727
+01:09:30,930 --> 01:09:32,010
+where it goes in the end.
+
+1728
+01:09:32,550 --> 01:09:38,160
+But it's a common practice to divide this by n factorial and to
+
+1729
+01:09:38,160 --> 01:09:43,770
+say that we overcounted everything by a factor of 1 over n factorial.
+
+1730
+01:09:44,810 --> 01:09:46,069
+I'll show you what that does.
+
+1731
+01:09:46,130 --> 01:09:46,930
+That does a nice thing.
+
+1732
+01:09:48,410 --> 01:09:48,890
+Okay.
+
+1733
+01:09:48,890 --> 01:09:51,290
+So that's the volume integral.
+
+1734
+01:09:52,170 --> 01:09:54,750
+What about the p integral here?
+
+1735
+01:09:56,510 --> 01:10:01,050
+That gives us something to the 3n power.
+
+1736
+01:10:01,370 --> 01:10:03,270
+Because there's 3n of these integrals.
+
+1737
+01:10:03,490 --> 01:10:05,670
+It gives us something to the 3n power.
+
+1738
+01:10:06,310 --> 01:10:06,990
+Namely,
+
+1739
+01:10:06,990 --> 01:10:09,910
+integral dp e to the
+
+1740
+01:10:09,910 --> 01:10:12,830
+minus beta over 2m p squared.
+
+1741
+01:10:13,110 --> 01:10:17,010
+All of that to the 3n power.
+
+1742
+01:10:20,509 --> 01:10:22,130
+Look at this.
+
+1743
+01:10:24,590 --> 01:10:26,030
+Looks terribly complicated,
+
+1744
+01:10:26,030 --> 01:10:26,810
+but it's not.
+
+1745
+01:10:27,010 --> 01:10:28,670
+This integral is just an integral.
+
+1746
+01:10:28,830 --> 01:10:29,690
+A definite integral.
+
+1747
+01:10:30,150 --> 01:10:31,550
+What can it depend on?
+
+1748
+01:10:31,930 --> 01:10:33,350
+It could depend on beta.
+
+1749
+01:10:33,550 --> 01:10:34,850
+It could depend on m.
+
+1750
+01:10:35,130 --> 01:10:36,670
+It doesn't depend on p.
+
+1751
+01:10:36,830 --> 01:10:38,110
+That's the integration variable.
+
+1752
+01:10:40,170 --> 01:10:42,490
+So we have an integral to do.
+
+1753
+01:10:44,330 --> 01:10:45,840
+I'm going to do the integral over
+
+1754
+01:10:45,840 --> 01:10:47,350
+here on this side of the blackboard.
+
+1755
+01:10:48,529 --> 01:10:49,430
+I'm not going to...
+
+1756
+01:10:49,430 --> 01:10:49,550
+Oh,
+
+1757
+01:10:49,550 --> 01:10:49,750
+no,
+
+1758
+01:10:49,750 --> 01:10:50,430
+I think I'll do it underneath.
+
+1759
+01:11:00,210 --> 01:11:01,430
+Let's take the integral.
+
+1760
+01:11:03,670 --> 01:11:08,140
+Integral dp e to the
+
+1761
+01:11:08,140 --> 01:11:12,610
+minus beta over 2m p squared.
+
+1762
+01:11:14,910 --> 01:11:15,350
+Okay.
+
+1763
+01:11:15,410 --> 01:11:16,790
+First I'm going to change variables.
+
+1764
+01:11:17,630 --> 01:11:19,580
+I hate the fact that there's
+
+1765
+01:11:19,580 --> 01:11:21,530
+a complicated expression in the exponent here.
+
+1766
+01:11:21,810 --> 01:11:25,070
+So I'm going to define beta over 2m
+
+1767
+01:11:25,070 --> 01:11:28,330
+p squared to be equal to q squared.
+
+1768
+01:11:31,850 --> 01:11:34,250
+That's just a change of variables.
+
+1769
+01:11:35,410 --> 01:11:41,110
+Then the integral becomes e to the minus q squared.
+
+1770
+01:11:43,810 --> 01:11:44,650
+That was easy.
+
+1771
+01:11:44,730 --> 01:11:46,090
+I got rid of all the stuff in here.
+
+1772
+01:11:46,090 --> 01:11:47,450
+But not quite,
+
+1773
+01:11:47,450 --> 01:11:49,070
+because what happens to dp?
+
+1774
+01:11:51,750 --> 01:11:53,370
+What happens to dp?
+
+1775
+01:12:00,390 --> 01:12:02,780
+p is equal to the square
+
+1776
+01:12:02,780 --> 01:12:05,170
+root of 2m over beta times q.
+
+1777
+01:12:07,670 --> 01:12:13,670
+So dp becomes the square root of 2m over beta.
+
+1778
+01:12:15,930 --> 01:12:16,430
+dq.
+
+1779
+01:12:20,490 --> 01:12:22,890
+But now this here integral is just a number.
+
+1780
+01:12:22,990 --> 01:12:24,290
+This really is just a number.
+
+1781
+01:12:24,930 --> 01:12:27,450
+dq e to the minus q
+
+1782
+01:12:27,450 --> 01:12:29,970
+squared is really just a number,
+
+1783
+01:12:30,030 --> 01:12:31,590
+from minus infinity to infinity.
+
+1784
+01:12:31,770 --> 01:12:32,610
+Anybody know what the number is?
+
+1785
+01:12:35,590 --> 01:12:36,630
+Square root of pi.
+
+1786
+01:12:37,850 --> 01:12:39,030
+Where did it come from?
+
+1787
+01:12:39,190 --> 01:12:40,430
+You look it up in a book.
+
+1788
+01:12:42,610 --> 01:12:44,990
+I could show you some ways to do the integral.
+
+1789
+01:12:45,230 --> 01:12:47,000
+But the main thing is that
+
+1790
+01:12:47,000 --> 01:12:48,770
+the integral is just a number.
+
+1791
+01:12:49,650 --> 01:12:52,180
+It converges very quickly because e to the
+
+1792
+01:12:52,180 --> 01:12:54,710
+minus q squared goes to 0 very fast.
+
+1793
+01:12:55,310 --> 01:12:57,390
+The integrand is finite everywhere.
+
+1794
+01:12:57,710 --> 01:12:59,910
+It goes from minus infinity to infinity.
+
+1795
+01:13:00,270 --> 01:13:01,450
+It's just a number.
+
+1796
+01:13:01,650 --> 01:13:04,650
+And that number happens to be square root of pi.
+
+1797
+01:13:05,410 --> 01:13:07,330
+So we've calculated it.
+
+1798
+01:13:07,390 --> 01:13:08,900
+You just put a square root of
+
+1799
+01:13:08,900 --> 01:13:10,410
+pi inside the square root of pi.
+
+1800
+01:13:10,410 --> 01:13:11,010
+Square root here.
+
+1801
+01:13:11,730 --> 01:13:13,070
+And that's your integral.
+
+1802
+01:13:17,650 --> 01:13:18,730
+Ladies and gentlemen,
+
+1803
+01:13:18,730 --> 01:13:20,770
+we've calculated the partition function.
+
+1804
+01:13:21,710 --> 01:13:24,290
+The partition function for the free gas,
+
+1805
+01:13:24,290 --> 01:13:25,690
+for the ideal gas,
+
+1806
+01:13:25,970 --> 01:13:27,010
+let's write it down now.
+
+1807
+01:13:35,050 --> 01:13:38,610
+z is the volume to the n over n factorial.
+
+1808
+01:13:41,130 --> 01:13:42,950
+Times the square root.
+
+1809
+01:13:43,650 --> 01:13:45,190
+I forgot what it is now.
+
+1810
+01:13:46,750 --> 01:13:47,730
+2m over beta.
+
+1811
+01:13:47,890 --> 01:13:48,810
+2m over beta.
+
+1812
+01:13:50,290 --> 01:13:51,530
+2m pi over beta.
+
+1813
+01:13:53,270 --> 01:13:54,330
+To what power?
+
+1814
+01:13:56,210 --> 01:13:57,430
+To the 3n.
+
+1815
+01:13:58,450 --> 01:13:59,970
+So we can call that.
+
+1816
+01:14:00,030 --> 01:14:01,730
+We can take the square root away.
+
+1817
+01:14:02,350 --> 01:14:04,890
+And write that this is
+
+1818
+01:14:04,890 --> 01:14:07,430
+to the power 3n over 2.
+
+1819
+01:14:08,090 --> 01:14:10,110
+The 1 half is the square root.
+
+1820
+01:14:16,090 --> 01:14:16,530
+The 1 half is the 1 over 2.
+
+1821
+01:14:16,530 --> 01:14:17,650
+It's fine in this form.
+
+1822
+01:14:17,810 --> 01:14:19,960
+But let me just show you what this
+
+1823
+01:14:19,960 --> 01:14:22,110
+n factorial does for you if you include it.
+
+1824
+01:14:23,450 --> 01:14:24,670
+If you don't include it,
+
+1825
+01:14:24,670 --> 01:14:28,210
+you just go through the calculation the same way.
+
+1826
+01:14:28,250 --> 01:14:29,130
+And you find no difference.
+
+1827
+01:14:29,310 --> 01:14:29,810
+But still,
+
+1828
+01:14:29,810 --> 01:14:31,470
+I'll show you where it goes.
+
+1829
+01:14:31,650 --> 01:14:35,470
+But let's take v to the n over n factorial,
+
+1830
+01:14:35,470 --> 01:14:37,210
+and make n big.
+
+1831
+01:14:38,510 --> 01:14:40,390
+We're talking about 10-12 times 1.
+
+1832
+01:14:40,390 --> 01:14:41,430
+10 to the 23rd molecule.
+
+1833
+01:14:41,430 --> 01:14:43,050
+So n is a huge number.
+
+1834
+01:14:43,050 --> 01:14:45,690
+n factorial is a huge number.
+
+1835
+01:14:45,690 --> 01:14:47,310
+And we can approximate
+
+1836
+01:14:47,310 --> 01:14:50,310
+n factorial by the Sterling formula.
+
+1837
+01:14:50,310 --> 01:14:52,670
+So v to the n,
+
+1838
+01:14:52,670 --> 01:14:54,830
+that just stays v to the n.
+
+1839
+01:14:54,830 --> 01:14:56,990
+n factorial,
+
+1840
+01:14:58,010 --> 01:15:00,290
+that becomes n to the n,
+
+1841
+01:15:00,290 --> 01:15:04,010
+e to the minus n.
+
+1842
+01:15:04,010 --> 01:15:04,970
+Remember that?
+
+1843
+01:15:04,970 --> 01:15:08,730
+Or that gives us e to the n upstairs.
+
+1844
+01:15:12,670 --> 01:15:14,750
+e times v to the power,
+
+1845
+01:15:14,750 --> 01:15:16,350
+e times v over n,
+
+1846
+01:15:16,350 --> 01:15:18,810
+all to the power n.
+
+1847
+01:15:24,170 --> 01:15:24,530
+Well,
+
+1848
+01:15:24,530 --> 01:15:25,090
+e is e.
+
+1849
+01:15:25,090 --> 01:15:26,270
+There's nothing I can do with that.
+
+1850
+01:15:26,270 --> 01:15:27,190
+I wish it weren't there,
+
+1851
+01:15:27,190 --> 01:15:27,850
+but it is there,
+
+1852
+01:15:27,950 --> 01:15:28,770
+so let's leave it there.
+
+1853
+01:15:28,770 --> 01:15:30,310
+That doesn't do very much.
+
+1854
+01:15:30,310 --> 01:15:32,990
+But what is the ratio of v to n?
+
+1855
+01:15:32,990 --> 01:15:33,670
+Better yet,
+
+1856
+01:15:33,750 --> 01:15:34,890
+what's the ratio of n to v?
+
+1857
+01:15:34,890 --> 01:15:38,710
+The density of particles.
+
+1858
+01:15:38,710 --> 01:15:44,190
+So we wind up being able to replace all
+
+1859
+01:15:44,190 --> 01:15:49,670
+of this volume dependence by e divided by rho.
+
+1860
+01:15:51,170 --> 01:15:52,930
+This is not the electric charge,
+
+1861
+01:15:52,930 --> 01:15:53,550
+incidentally.
+
+1862
+01:15:53,550 --> 01:15:54,550
+It's just a stupid number e,
+
+1863
+01:15:54,550 --> 01:15:55,490
+2.7,
+
+1864
+01:15:56,290 --> 01:16:00,950
+divided by the density to the power n.
+
+1865
+01:16:00,950 --> 01:16:05,030
+That's the factor coming from here.
+
+1866
+01:16:05,030 --> 01:16:05,850
+If I hadn't had this
+
+1867
+01:16:05,850 --> 01:16:07,130
+n factorial there,
+
+1868
+01:16:07,130 --> 01:16:08,690
+I wouldn't have been able to do it.
+
+1869
+01:16:08,690 --> 01:16:08,690
+So I'm gonna do it by dividing by the volume,
+
+1870
+01:16:08,690 --> 01:16:09,790
+to make this nice trick.
+
+1871
+01:16:11,349 --> 01:16:13,810
+The answer would have simply been n to n.
+
+1872
+01:16:13,830 --> 01:16:14,230
+You know,
+
+1873
+01:16:14,230 --> 01:16:15,590
+OK,
+
+1874
+01:16:15,590 --> 01:16:18,470
+let's leave it that way.
+
+1875
+01:16:19,670 --> 01:16:20,270
+All right,
+
+1876
+01:16:20,270 --> 01:16:21,810
+so altogether then,
+
+1877
+01:16:21,810 --> 01:16:23,130
+here's our formula.
+
+1878
+01:16:23,550 --> 01:16:28,210
+z is equal to this factor times
+
+1879
+01:16:28,210 --> 01:16:32,870
+e over rho to the power n.
+
+1880
+01:16:34,670 --> 01:16:36,530
+Let's get rid of what doesn't belong.
+
+1881
+01:16:43,090 --> 01:16:43,650
+That's z.
+
+1882
+01:16:45,750 --> 01:16:46,390
+All right,
+
+1883
+01:16:46,390 --> 01:16:47,130
+so again,
+
+1884
+01:16:47,130 --> 01:16:50,230
+we knew what we wanted to calculate.
+
+1885
+01:16:50,450 --> 01:16:51,530
+We went on to autopilot,
+
+1886
+01:16:51,530 --> 01:16:52,810
+started doing integrals.
+
+1887
+01:16:53,050 --> 01:16:54,290
+And the end of the day,
+
+1888
+01:16:54,290 --> 01:16:55,150
+here is z.
+
+1889
+01:16:55,590 --> 01:16:56,790
+And note what it is.
+
+1890
+01:16:56,930 --> 01:16:59,090
+It first of all depends on the density.
+
+1891
+01:16:59,650 --> 01:17:02,710
+The density for a fixed number of particles,
+
+1892
+01:17:02,870 --> 01:17:03,870
+in a fixed box,
+
+1893
+01:17:03,870 --> 01:17:06,810
+the density is just a number.
+
+1894
+01:17:07,630 --> 01:17:08,370
+All right,
+
+1895
+01:17:08,370 --> 01:17:11,130
+so it's interesting that it depends on the density.
+
+1896
+01:17:11,810 --> 01:17:13,710
+But the density is a number.
+
+1897
+01:17:15,470 --> 01:17:17,710
+2m and pi are numbers.
+
+1898
+01:17:18,370 --> 01:17:19,930
+Capital N is a number.
+
+1899
+01:17:20,530 --> 01:17:23,610
+Only beta here is,
+
+1900
+01:17:23,610 --> 01:17:25,690
+it's also a number of course.
+
+1901
+01:17:26,070 --> 01:17:27,630
+But it's an interesting number.
+
+1902
+01:17:27,730 --> 01:17:29,270
+It's one that we may want to change
+
+1903
+01:17:29,270 --> 01:17:30,730
+in the course of the problem.
+
+1904
+01:17:32,210 --> 01:17:32,850
+For example,
+
+1905
+01:17:32,850 --> 01:17:32,850
+if you're looking at this.
+
+1906
+01:17:32,850 --> 01:17:35,280
+example we may want to differentiate with
+
+1907
+01:17:35,280 --> 01:17:37,710
+respect to it which we will do
+
+1908
+01:17:37,710 --> 01:17:41,310
+momentarily this is Z let's calculate logarithm
+
+1909
+01:17:41,310 --> 01:17:44,910
+of Z I told you the logarithm
+
+1910
+01:17:44,910 --> 01:17:47,240
+of Z is the thing which comes up over
+
+1911
+01:17:47,240 --> 01:17:49,570
+and over it comes up over here so let's
+
+1912
+01:17:49,570 --> 01:17:51,110
+calculate a logarithm of Z
+
+1913
+01:17:57,349 --> 01:17:59,119
+incidentally whenever you get a product
+
+1914
+01:17:59,119 --> 01:18:00,890
+and you want to differentiate it
+
+1915
+01:18:07,409 --> 01:18:10,889
+I guess there's an old saying due
+
+1916
+01:18:10,889 --> 01:18:14,370
+to I don't know Zarathustra thus spake Zarathustra
+
+1917
+01:18:14,370 --> 01:18:17,910
+it's easier to differentiate a sum than a product
+
+1918
+01:18:19,069 --> 01:18:19,710
+so
+
+1919
+01:18:19,710 --> 01:18:20,770
+so
+
+1920
+01:18:20,770 --> 01:18:21,090
+so
+
+1921
+01:18:21,090 --> 01:18:24,020
+that that's why you take logarithms
+
+1922
+01:18:24,020 --> 01:18:26,950
+of things this is a product partition
+
+1923
+01:18:26,950 --> 01:18:29,670
+functions are products typically it's
+
+1924
+01:18:29,670 --> 01:18:32,390
+good to take their logarithm because
+
+1925
+01:18:32,390 --> 01:18:35,080
+then they're easier to differentiate okay so
+
+1926
+01:18:35,080 --> 01:18:37,770
+what's the log of Z the log of
+
+1927
+01:18:37,770 --> 01:18:49,890
+Z is equal to in times three halves
+
+1928
+01:18:49,890 --> 01:18:55,380
+over two to the power색 you do if you
+
+1929
+01:18:55,380 --> 01:19:00,870
+get a log fr over the sine of z
+
+1930
+01:19:00,870 --> 01:19:01,170
+will multiply забarc meus
+
+1931
+01:19:01,170 --> 01:19:03,650
+besides
+
+1932
+01:19:03,650 --> 01:19:06,290
+the attacks of log r from a
+
+1933
+01:19:06,290 --> 01:19:08,930
+free Subscribe to our channel to getноver 있�ity
+
+1934
+01:19:17,750 --> 01:19:19,330
+getnover produto
+
+1935
+01:19:19,870 --> 01:19:20,530
+over E.
+
+1936
+01:19:20,530 --> 01:19:24,010
+That's the logarithm,
+
+1937
+01:19:24,010 --> 01:19:25,270
+but does everybody see what I did?
+
+1938
+01:19:25,990 --> 01:19:26,390
+Well,
+
+1939
+01:19:26,390 --> 01:19:26,990
+you can just say,
+
+1940
+01:19:26,990 --> 01:19:29,630
+plus 1.
+
+1941
+01:19:32,070 --> 01:19:32,730
+From where?
+
+1942
+01:19:33,030 --> 01:19:34,210
+Log E is 1.
+
+1943
+01:19:34,810 --> 01:19:35,610
+It is indeed.
+
+1944
+01:19:35,610 --> 01:19:38,430
+It is indeed.
+
+1945
+01:19:38,430 --> 01:19:41,010
+Log E is 1.
+
+1946
+01:19:41,010 --> 01:19:44,370
+So I think you're right.
+
+1947
+01:19:44,370 --> 01:19:44,990
+I think there's
+
+1948
+01:19:44,990 --> 01:19:45,710
+a plus 1.
+
+1949
+01:19:45,710 --> 01:19:49,690
+Minus log rho plus 1.
+
+1950
+01:19:49,690 --> 01:19:54,770
+Now we're going to be doing things like differentiating
+
+1951
+01:19:54,770 --> 01:19:58,250
+the log of z and things like that.
+
+1952
+01:19:58,250 --> 01:20:00,750
+This 1 isn't going to do anything.
+
+1953
+01:20:00,750 --> 01:20:02,250
+When you differentiate
+
+1954
+01:20:02,250 --> 01:20:02,730
+a 1,
+
+1955
+01:20:02,730 --> 01:20:03,630
+you don't get anything.
+
+1956
+01:20:03,630 --> 01:20:06,370
+So it's not in any way important in the formula.
+
+1957
+01:20:10,670 --> 01:20:12,970
+Logarithm of 2m pi over beta,
+
+1958
+01:20:12,970 --> 01:20:14,970
+that's logarithm of pi over beta.
+
+1959
+01:20:14,970 --> 01:20:17,460
+Logarithm of 2m pi plus logarithm of nm
+
+1960
+01:20:17,460 --> 01:20:19,950
+plus logarithm of 2 minus log of beta.
+
+1961
+01:20:21,250 --> 01:20:23,430
+So it contains a bunch of terms,
+
+1962
+01:20:23,430 --> 01:20:28,190
+the only one of which is important when you differentiate
+
+1963
+01:20:28,190 --> 01:20:30,940
+it with respect to beta is the
+
+1964
+01:20:30,940 --> 01:20:33,690
+3 halves minus 3 halves log beta.
+
+1965
+01:20:33,690 --> 01:20:37,670
+Everything else functions
+
+1966
+01:20:37,670 --> 01:20:38,550
+as a constant.
+
+1967
+01:20:39,110 --> 01:20:42,030
+So we can write then that this
+
+1968
+01:20:42,030 --> 01:20:44,950
+is 3 halves minus 3 halves log beta.
+
+1969
+01:20:44,970 --> 01:20:46,240
+So we can write then that
+
+1970
+01:20:46,240 --> 01:20:47,510
+this is 3 halves log beta.
+
+1971
+01:20:47,510 --> 01:20:49,869
+Everything else functions as a
+
+1972
+01:20:52,730 --> 01:20:56,730
+Constants that include the density,
+
+1973
+01:20:56,730 --> 01:20:57,890
+which we're not different,
+
+1974
+01:20:57,890 --> 01:20:58,650
+we're not changing.
+
+1975
+01:20:59,050 --> 01:21:02,590
+Pi m 2 and 1.
+
+1976
+01:21:05,750 --> 01:21:08,310
+3m times n minus n.
+
+1977
+01:21:09,470 --> 01:21:10,110
+n.
+
+1978
+01:21:13,730 --> 01:21:14,890
+n is also a constant.
+
+1979
+01:21:17,049 --> 01:21:17,850
+So indeed,
+
+1980
+01:21:17,850 --> 01:21:19,290
+this is a constant times n,
+
+1981
+01:21:19,290 --> 01:21:21,110
+but for our purposes,
+
+1982
+01:21:21,110 --> 01:21:22,350
+it's just another constant.
+
+1983
+01:21:24,929 --> 01:21:26,150
+I think you're right.
+
+1984
+01:21:26,150 --> 01:21:27,330
+I think it's log 1 over beta.
+
+1985
+01:21:28,770 --> 01:21:29,170
+No,
+
+1986
+01:21:29,170 --> 01:21:30,590
+that's what the minus was here.
+
+1987
+01:21:30,590 --> 01:21:32,690
+The minus made it log of 1 over beta.
+
+1988
+01:21:37,810 --> 01:21:38,750
+Everybody got it?
+
+1989
+01:21:39,490 --> 01:21:41,670
+Minus sign because it's log of 1 over beta.
+
+1990
+01:21:42,170 --> 01:21:42,950
+3 halves.
+
+1991
+01:21:42,950 --> 01:21:44,070
+Where did the 3 come from?
+
+1992
+01:21:46,290 --> 01:21:47,690
+3 dimensions of space.
+
+1993
+01:21:47,830 --> 01:21:49,830
+Suppose there were 11 dimensions of space.
+
+1994
+01:21:51,290 --> 01:21:51,690
+11.
+
+1995
+01:21:51,690 --> 01:21:51,950
+11 halves.
+
+1996
+01:21:52,230 --> 01:21:54,330
+Where did the 1 half come from?
+
+1997
+01:21:54,990 --> 01:21:55,410
+2,
+
+1998
+01:21:55,410 --> 01:21:57,630
+p squared over 2m.
+
+1999
+01:21:58,150 --> 01:21:58,710
+No,
+
+2000
+01:21:58,710 --> 01:22:00,730
+it didn't come from there.
+
+2001
+01:22:01,390 --> 01:22:03,570
+It came from the square root,
+
+2002
+01:22:03,570 --> 01:22:06,250
+which was this Gaussian integral.
+
+2003
+01:22:06,610 --> 01:22:08,640
+It came from the change of
+
+2004
+01:22:08,640 --> 01:22:10,670
+variables from this thing here to q.
+
+2005
+01:22:11,490 --> 01:22:13,110
+We had to take a square root.
+
+2006
+01:22:13,490 --> 01:22:14,050
+So that's what we had to do.
+
+2007
+01:22:14,050 --> 01:22:16,750
+So is that where it came from?
+
+2008
+01:22:16,910 --> 01:22:17,310
+No.
+
+2009
+01:22:18,150 --> 01:22:18,550
+No,
+
+2010
+01:22:18,550 --> 01:22:19,370
+it didn't come from there.
+
+2011
+01:22:19,450 --> 01:22:19,910
+I take that back.
+
+2012
+01:22:20,370 --> 01:22:20,770
+Yeah,
+
+2013
+01:22:20,770 --> 01:22:21,110
+it did.
+
+2014
+01:22:21,190 --> 01:22:21,430
+It did.
+
+2015
+01:22:21,510 --> 01:22:21,830
+It did.
+
+2016
+01:22:21,870 --> 01:22:22,210
+It did.
+
+2017
+01:22:22,230 --> 01:22:22,750
+It did.
+
+2018
+01:22:22,790 --> 01:22:23,190
+It did.
+
+2019
+01:22:23,250 --> 01:22:24,670
+That's exactly where it came from.
+
+2020
+01:22:25,350 --> 01:22:25,750
+Yeah.
+
+2021
+01:22:27,070 --> 01:22:27,470
+Remember,
+
+2022
+01:22:27,470 --> 01:22:28,810
+the Gaussian integral,
+
+2023
+01:22:28,810 --> 01:22:30,010
+this is called the Gaussian integral.
+
+2024
+01:22:30,150 --> 01:22:31,420
+The Gaussian integral is the
+
+2025
+01:22:31,420 --> 01:22:32,690
+square root of this thing here.
+
+2026
+01:22:33,890 --> 01:22:34,290
+OK,
+
+2027
+01:22:34,290 --> 01:22:35,710
+so that's where all the pieces
+
+2028
+01:22:35,710 --> 01:22:37,130
+and all the parts come from.
+
+2029
+01:22:37,650 --> 01:22:38,550
+Here's log z.
+
+2030
+01:22:39,010 --> 01:22:40,210
+What can we calculate?
+
+2031
+01:22:41,110 --> 01:22:42,270
+We can calculate.
+
+2032
+01:22:42,270 --> 01:22:43,830
+We can calculate the entropy.
+
+2033
+01:22:44,290 --> 01:22:47,390
+But even more interesting for the moment and simpler
+
+2034
+01:22:47,390 --> 01:22:50,490
+is to calculate the total energy of the system.
+
+2035
+01:22:50,670 --> 01:22:53,070
+So let's calculate the total energy of the system.
+
+2036
+01:22:54,090 --> 01:22:55,650
+We have the partition function.
+
+2037
+01:22:55,970 --> 01:22:56,450
+Oh,
+
+2038
+01:22:56,450 --> 01:22:57,710
+can't slide this one up.
+
+2039
+01:22:57,870 --> 01:22:58,170
+OK.
+
+2040
+01:23:02,150 --> 01:23:03,390
+Let's do it over here.
+
+2041
+01:23:04,090 --> 01:23:04,170
+OK.
+
+2042
+01:23:07,590 --> 01:23:11,850
+The energy is the derivative.
+
+2043
+01:23:11,850 --> 01:23:13,700
+The derivative of log z with
+
+2044
+01:23:13,700 --> 01:23:15,550
+respect to beta with a minus sign.
+
+2045
+01:23:16,550 --> 01:23:17,250
+All right.
+
+2046
+01:23:17,270 --> 01:23:20,390
+The important term here and the only important
+
+2047
+01:23:20,390 --> 01:23:23,510
+term is minus three halves n log beta.
+
+2048
+01:23:25,650 --> 01:23:28,650
+So we just have to differentiate
+
+2049
+01:23:28,650 --> 01:23:31,650
+log z with respect to beta.
+
+2050
+01:23:31,870 --> 01:23:36,850
+And that gives us the derivative of log z with
+
+2051
+01:23:36,850 --> 01:23:41,830
+respect to beta is equal to minus three n over two.
+
+2052
+01:23:43,570 --> 01:23:45,250
+And what's the derivative of
+
+2053
+01:23:45,250 --> 01:23:46,930
+log beta with respect to beta?
+
+2054
+01:23:48,650 --> 01:23:49,210
+Well,
+
+2055
+01:23:49,210 --> 01:23:50,030
+what is one over beta?
+
+2056
+01:23:50,430 --> 01:23:50,990
+Temperature.
+
+2057
+01:23:51,110 --> 01:23:51,670
+Temperature.
+
+2058
+01:23:55,870 --> 01:23:56,430
+Oh,
+
+2059
+01:23:56,430 --> 01:23:57,710
+what about that minus sign?
+
+2060
+01:23:57,970 --> 01:23:58,050
+Oh.
+
+2061
+01:23:59,890 --> 01:24:00,450
+Yeah.
+
+2062
+01:24:00,830 --> 01:24:02,370
+The minus sign is the
+
+2063
+01:24:02,370 --> 01:24:03,910
+energy is actually minus this thing.
+
+2064
+01:24:04,530 --> 01:24:10,830
+So the energy is plus three halves.
+
+2065
+01:24:11,270 --> 01:24:11,550
+And then we have the derivative
+
+2066
+01:24:11,550 --> 01:24:11,830
+of log beta with respect to beta.
+
+2067
+01:24:12,390 --> 01:24:12,670
+And then we have the derivative
+
+2068
+01:24:12,670 --> 01:24:12,950
+of log beta with respect to beta.
+
+2069
+01:24:12,950 --> 01:24:13,830
+I told you where the
+
+2070
+01:24:13,830 --> 01:24:14,710
+three and the two came from.
+
+2071
+01:24:15,090 --> 01:24:15,650
+In,
+
+2072
+01:24:15,650 --> 01:24:16,930
+well,
+
+2073
+01:24:16,930 --> 01:24:19,680
+certainly it makes sense to say the total energy of
+
+2074
+01:24:19,680 --> 01:24:22,430
+the box of gas is proportional to the number of particles.
+
+2075
+01:24:24,069 --> 01:24:28,650
+And this is telling us that for an ideal gas,
+
+2076
+01:24:28,650 --> 01:24:32,290
+this is not very general,
+
+2077
+01:24:32,290 --> 01:24:34,850
+although it's often a good approximation.
+
+2078
+01:24:35,770 --> 01:24:37,310
+For an ideal gas,
+
+2079
+01:24:37,310 --> 01:24:40,330
+or an almost ideal gas,
+
+2080
+01:24:40,330 --> 01:24:41,810
+it's either exact or good approximation.
+
+2081
+01:24:41,810 --> 01:24:41,940
+And the ideal gas is always going to
+
+2082
+01:24:41,940 --> 01:24:42,070
+be greater than the total energy of the gas.
+
+2083
+01:24:42,070 --> 01:24:49,010
+So I'm going to use the integral approximation to say that the energy
+
+2084
+01:24:49,010 --> 01:24:55,950
+per particle is three halves energy per particle is three halves the temperature.
+
+2085
+01:24:58,510 --> 01:25:00,570
+Where would Boltzmann's constant be?
+
+2086
+01:25:04,150 --> 01:25:06,790
+Whenever you see a formula like this,
+
+2087
+01:25:06,790 --> 01:25:09,110
+and you want to convert it to laboratory units,
+
+2088
+01:25:09,110 --> 01:25:11,790
+the temperature becomes k Boltzmann times temperature.
+
+2089
+01:25:11,810 --> 01:25:12,050
+temperature.
+
+2090
+01:25:12,050 --> 01:25:16,350
+k Boltzmann is of course a very small number,
+
+2091
+01:25:16,350 --> 01:25:18,890
+and so if the temperature is
+
+2092
+01:25:18,890 --> 01:25:19,850
+300 degrees,
+
+2093
+01:25:19,850 --> 01:25:22,600
+you multiply 300 degrees by
+
+2094
+01:25:22,600 --> 01:25:25,350
+this terribly small Boltzmann factor,
+
+2095
+01:25:25,350 --> 01:25:26,610
+and you get
+
+2096
+01:25:26,610 --> 01:25:27,510
+the number of joules.
+
+2097
+01:25:27,510 --> 01:25:30,620
+The k Boltzmann is of order
+
+2098
+01:25:30,620 --> 01:25:33,730
+10 to the minus 23rd or something.
+
+2099
+01:25:34,370 --> 01:25:34,890
+Well,
+
+2100
+01:25:34,890 --> 01:25:36,430
+but then you multiply it by n.
+
+2101
+01:25:36,430 --> 01:25:36,710
+Yeah,
+
+2102
+01:25:36,710 --> 01:25:36,950
+yeah,
+
+2103
+01:25:36,950 --> 01:25:37,270
+yeah,
+
+2104
+01:25:37,270 --> 01:25:37,810
+yeah,
+
+2105
+01:25:37,810 --> 01:25:38,410
+yeah,
+
+2106
+01:25:38,410 --> 01:25:38,650
+yeah,
+
+2107
+01:25:38,650 --> 01:25:39,370
+but you shouldn't,
+
+2108
+01:25:39,370 --> 01:25:39,690
+right,
+
+2109
+01:25:39,690 --> 01:25:43,150
+but without this k Boltzmann,
+
+2110
+01:25:43,310 --> 01:25:43,850
+you might say,
+
+2111
+01:25:43,850 --> 01:25:44,050
+hey,
+
+2112
+01:25:44,050 --> 01:25:44,630
+wait a minute,
+
+2113
+01:25:44,630 --> 01:25:47,010
+the energy per particle is a huge number,
+
+2114
+01:25:47,010 --> 01:25:47,490
+300.
+
+2115
+01:25:47,490 --> 01:25:49,350
+300 what?
+
+2116
+01:25:50,990 --> 01:25:51,990
+It's 300,
+
+2117
+01:25:51,990 --> 01:25:56,570
+but you gotta use the conversion factor k Boltzmann,
+
+2118
+01:25:56,570 --> 01:25:58,510
+which makes it a small
+
+2119
+01:25:58,510 --> 01:25:59,070
+number,
+
+2120
+01:25:59,070 --> 01:26:01,190
+the energy per particle.
+
+2121
+01:26:01,190 --> 01:26:05,550
+But this is where the idea that,
+
+2122
+01:26:05,550 --> 01:26:05,870
+you know,
+
+2123
+01:26:05,870 --> 01:26:06,390
+that the
+
+2124
+01:26:06,430 --> 01:26:08,800
+particles move around with the kinetic
+
+2125
+01:26:08,800 --> 01:26:11,170
+energy which is proportional to the temperature.
+
+2126
+01:26:12,590 --> 01:26:14,150
+You can say it another way.
+
+2127
+01:26:14,150 --> 01:26:21,530
+Since the kinetic energy is the sum of three terms,
+
+2128
+01:26:21,530 --> 01:26:22,310
+px squared,
+
+2129
+01:26:22,490 --> 01:26:23,210
+py squared,
+
+2130
+01:26:23,210 --> 01:26:23,970
+and pz squared,
+
+2131
+01:26:23,970 --> 01:26:27,550
+you can say for each direction,
+
+2132
+01:26:27,550 --> 01:26:29,990
+for each direction of space,
+
+2133
+01:26:30,860 --> 01:26:33,245
+the energy stored in the momentum
+
+2134
+01:26:33,245 --> 01:26:35,630
+in that direction is one half kt.
+
+2135
+01:26:35,790 --> 01:26:36,410
+Okay.
+
+2136
+01:26:36,430 --> 01:26:38,490
+So for each direction of space,
+
+2137
+01:26:38,490 --> 01:26:41,830
+the energy is one half kt.
+
+2138
+01:26:41,830 --> 01:26:44,050
+If there are three directions
+
+2139
+01:26:44,050 --> 01:26:44,430
+of space,
+
+2140
+01:26:44,430 --> 01:26:46,090
+then it's three dance or three halves kt.
+
+2141
+01:26:50,130 --> 01:26:50,690
+So,
+
+2142
+01:26:50,690 --> 01:26:51,250
+yeah,
+
+2143
+01:26:51,250 --> 01:26:52,190
+it.
+
+2144
+01:26:54,310 --> 01:26:54,870
+Yeah.
+
+2145
+01:27:01,790 --> 01:27:02,910
+That's right,
+
+2146
+01:27:02,910 --> 01:27:06,410
+because that would factor off the partition problem.
+
+2147
+01:27:06,410 --> 01:27:06,750
+function.
+
+2148
+01:27:06,750 --> 01:27:07,990
+When you took the logarithm,
+
+2149
+01:27:07,990 --> 01:27:11,210
+it would be an additive independent constant.
+
+2150
+01:27:12,210 --> 01:27:13,710
+And so when you differentiate,
+
+2151
+01:27:13,710 --> 01:27:15,030
+it would have made no difference.
+
+2152
+01:27:15,030 --> 01:27:16,270
+Right.
+
+2153
+01:27:16,270 --> 01:27:18,670
+It's just a neat little
+
+2154
+01:27:18,670 --> 01:27:21,790
+trick to include the n factorials and then things
+
+2155
+01:27:21,790 --> 01:27:24,910
+wind up depending on the density in an elegant way.
+
+2156
+01:27:25,230 --> 01:27:26,350
+But that's right.
+
+2157
+01:27:26,350 --> 01:27:28,610
+The numerical factor
+
+2158
+01:27:28,610 --> 01:27:33,820
+in front of the partition function never makes
+
+2159
+01:27:33,820 --> 01:27:39,030
+any difference because when you take the logarithm,
+
+2160
+01:27:39,390 --> 01:27:41,820
+it makes an additive constant to the
+
+2161
+01:27:41,820 --> 01:27:44,250
+logarithm and then when you differentiate it,
+
+2162
+01:27:44,250 --> 01:27:44,730
+it goes away.
+
+2163
+01:27:45,470 --> 01:27:47,150
+So in classical physics,
+
+2164
+01:27:47,150 --> 01:27:51,170
+there's no particular content to the one over n factorial.
+
+2165
+01:27:54,830 --> 01:27:56,090
+In quantum mechanics,
+
+2166
+01:27:56,090 --> 01:27:56,950
+it is important.
+
+2167
+01:27:58,590 --> 01:28:01,380
+If you took that same box of gas and you
+
+2168
+01:28:01,380 --> 01:28:04,170
+set it down on the surface of the neutron star
+
+2169
+01:28:05,970 --> 01:28:08,570
+where you could do major damage to z,
+
+2170
+01:28:08,570 --> 01:28:12,050
+would you be able to solve that by getting another
+
+2171
+01:28:12,050 --> 01:28:13,630
+Lagrange multiplier that...
+
+2172
+01:28:13,630 --> 01:28:14,790
+or how would you...
+
+2173
+01:28:15,590 --> 01:28:17,170
+I'm not sure what aspect
+
+2174
+01:28:17,170 --> 01:28:18,750
+of the neutron star is important.
+
+2175
+01:28:19,470 --> 01:28:20,590
+You would have the...
+
+2176
+01:28:20,790 --> 01:28:21,590
+Major damage to z.
+
+2177
+01:28:26,090 --> 01:28:28,470
+We have very little gamma.
+
+2178
+01:28:28,590 --> 01:28:29,470
+at the very top of it.
+
+2179
+01:28:29,470 --> 01:28:31,270
+It would all be concentrated at the bottom,
+
+2180
+01:28:31,270 --> 01:28:33,570
+so the stakes would not be...
+
+2181
+01:28:33,570 --> 01:28:35,050
+Are you trying to use the G word?
+
+2182
+01:28:35,050 --> 01:28:36,030
+Gravity?
+
+2183
+01:28:36,350 --> 01:28:36,750
+Yeah.
+
+2184
+01:28:39,010 --> 01:28:39,470
+Okay.
+
+2185
+01:28:39,470 --> 01:28:39,930
+So,
+
+2186
+01:28:39,930 --> 01:28:42,530
+before we do our neutron star,
+
+2187
+01:28:42,530 --> 01:28:45,350
+let's ask how this might have changed
+
+2188
+01:28:47,110 --> 01:28:50,690
+if we had a gas in this room and we worried about
+
+2189
+01:28:50,690 --> 01:28:54,270
+the fact that the energy of the gas has a potential energy term.
+
+2190
+01:28:55,190 --> 01:28:56,530
+What's the potential energy?
+
+2191
+01:28:56,530 --> 01:28:57,950
+Y.
+
+2192
+01:28:57,950 --> 01:29:01,090
+I always use the vertical axis Y.
+
+2193
+01:29:01,090 --> 01:29:02,590
+X and Z are the other ones.
+
+2194
+01:29:03,570 --> 01:29:04,130
+Alright.
+
+2195
+01:29:04,130 --> 01:29:07,130
+So what's the kinetic energy?
+
+2196
+01:29:07,130 --> 01:29:10,550
+The mass times G times the height.
+
+2197
+01:29:11,510 --> 01:29:13,670
+So there would be another term up here,
+
+2198
+01:29:13,670 --> 01:29:16,290
+which would be one term for each particle.
+
+2199
+01:29:16,430 --> 01:29:17,490
+For each particle,
+
+2200
+01:29:17,490 --> 01:29:20,750
+we would have an E
+
+2201
+01:29:20,750 --> 01:29:24,010
+to the minus Mg times Y.
+
+2202
+01:29:26,150 --> 01:29:27,450
+Summed over N again.
+
+2203
+01:29:27,450 --> 01:29:30,030
+Sorry.
+
+2204
+01:29:30,030 --> 01:29:31,650
+Summed in the exponent.
+
+2205
+01:29:37,170 --> 01:29:39,230
+So it would be part of this product structure,
+
+2206
+01:29:39,230 --> 01:29:40,170
+summed in the exponent.
+
+2207
+01:29:42,950 --> 01:29:43,470
+Alright.
+
+2208
+01:29:43,470 --> 01:29:44,730
+So let's see what that would do.
+
+2209
+01:29:46,330 --> 01:29:47,470
+First of all,
+
+2210
+01:29:47,470 --> 01:29:51,290
+the X and Z integrations would be unchanged.
+
+2211
+01:29:52,230 --> 01:29:53,750
+This only depends on Y.
+
+2212
+01:29:54,270 --> 01:29:56,850
+It would not change the X and Z integrations.
+
+2213
+01:29:57,370 --> 01:29:59,230
+But the X and Z integrations,
+
+2214
+01:29:59,230 --> 01:30:01,290
+instead of giving the volume to the nth,
+
+2215
+01:30:01,290 --> 01:30:04,350
+would give the area of the base to the n.
+
+2216
+01:30:05,030 --> 01:30:05,550
+Okay.
+
+2217
+01:30:05,550 --> 01:30:08,360
+So let's say area of the
+
+2218
+01:30:08,360 --> 01:30:11,170
+base of the box to the n.
+
+2219
+01:30:11,930 --> 01:30:14,210
+And then we would have another integral here,
+
+2220
+01:30:14,210 --> 01:30:21,450
+would be E to the minus MgY integral dy.
+
+2221
+01:30:25,409 --> 01:30:26,830
+From where to where?
+
+2222
+01:30:29,570 --> 01:30:30,510
+Bottom of the box.
+
+2223
+01:30:31,190 --> 01:30:33,270
+Let's call the bottom of the box Y equals 0.
+
+2224
+01:30:34,110 --> 01:30:35,510
+It doesn't make any difference,
+
+2225
+01:30:35,510 --> 01:30:38,490
+but Y equals 0 to infinity.
+
+2226
+01:30:39,430 --> 01:30:40,930
+And what is this integral?
+
+2227
+01:30:43,230 --> 01:30:44,590
+Isn't it limited to both?
+
+2228
+01:30:45,050 --> 01:30:45,710
+Say it again?
+
+2229
+01:30:47,010 --> 01:30:47,490
+Oh,
+
+2230
+01:30:47,490 --> 01:30:47,970
+yeah,
+
+2231
+01:30:47,970 --> 01:30:48,370
+sorry.
+
+2232
+01:30:48,370 --> 01:30:49,670
+Right.
+
+2233
+01:30:49,670 --> 01:30:50,870
+You're right.
+
+2234
+01:30:51,450 --> 01:30:52,290
+To the height of the box.
+
+2235
+01:30:52,290 --> 01:30:52,970
+Good.
+
+2236
+01:30:53,630 --> 01:30:54,070
+Well,
+
+2237
+01:30:54,070 --> 01:30:54,490
+at 0,
+
+2238
+01:30:54,490 --> 01:30:56,450
+gravity is going to act in X and Y,
+
+2239
+01:30:56,450 --> 01:30:56,870
+too.
+
+2240
+01:30:58,010 --> 01:30:58,450
+What?
+
+2241
+01:30:59,890 --> 01:31:00,330
+No.
+
+2242
+01:31:02,390 --> 01:31:05,150
+If you set the bottom of
+
+2243
+01:31:05,150 --> 01:31:07,910
+your box at Y equals 0,
+
+2244
+01:31:07,910 --> 01:31:10,950
+now you're going to have gravity acting in...
+
+2245
+01:31:11,429 --> 01:31:12,750
+It's not 20 microseconds.
+
+2246
+01:31:13,270 --> 01:31:16,890
+It's just the bottom of the box.
+
+2247
+01:31:16,910 --> 01:31:18,650
+I'm thinking the box is bigger than your...
+
+2248
+01:31:18,650 --> 01:31:18,990
+Oh,
+
+2249
+01:31:18,990 --> 01:31:19,310
+okay.
+
+2250
+01:31:19,430 --> 01:31:19,610
+...gravity.
+
+2251
+01:31:19,610 --> 01:31:20,090
+Yeah.
+
+2252
+01:31:21,930 --> 01:31:22,450
+Okay,
+
+2253
+01:31:22,450 --> 01:31:23,030
+so you're right.
+
+2254
+01:31:23,150 --> 01:31:24,910
+You're absolutely right.
+
+2255
+01:31:25,030 --> 01:31:26,880
+We should integrate from 0
+
+2256
+01:31:26,880 --> 01:31:28,730
+to the height of the box,
+
+2257
+01:31:28,730 --> 01:31:29,790
+which we'll call L.
+
+2258
+01:31:30,890 --> 01:31:32,310
+Height of the box is L.
+
+2259
+01:31:33,070 --> 01:31:35,250
+And the area of the box...
+
+2260
+01:31:38,670 --> 01:31:40,650
+So we have to do the integral.
+
+2261
+01:31:42,510 --> 01:31:43,030
+And,
+
+2262
+01:31:43,030 --> 01:31:43,550
+sorry,
+
+2263
+01:31:43,550 --> 01:31:45,290
+and this comes into the nth power.
+
+2264
+01:31:47,790 --> 01:31:48,310
+Okay.
+
+2265
+01:31:52,750 --> 01:31:55,570
+What's the integral of e to the minus mgy dy?
+
+2266
+01:32:00,950 --> 01:32:01,930
+1 over m...
+
+2267
+01:32:02,550 --> 01:32:03,030
+Yeah,
+
+2268
+01:32:03,030 --> 01:32:05,730
+I'm going to let you do this.
+
+2269
+01:32:06,910 --> 01:32:07,390
+No,
+
+2270
+01:32:07,390 --> 01:32:07,550
+no,
+
+2271
+01:32:07,550 --> 01:32:07,950
+it's easy.
+
+2272
+01:32:08,070 --> 01:32:11,610
+The integral of e to the minus mgy is
+
+2273
+01:32:11,610 --> 01:32:15,150
+minus 1 over mg e to the minus mgy.
+
+2274
+01:32:15,150 --> 01:32:18,050
+But you have to evaluate it between the two limits.
+
+2275
+01:32:18,310 --> 01:32:19,540
+And this determines that it's
+
+2276
+01:32:19,540 --> 01:32:20,770
+a little bit of a nuisance.
+
+2277
+01:32:22,970 --> 01:32:24,810
+I'll let you do the nuisance work.
+
+2278
+01:32:25,170 --> 01:32:26,710
+This gives you another factor.
+
+2279
+01:32:27,210 --> 01:32:27,710
+Okay?
+
+2280
+01:32:27,810 --> 01:32:29,540
+But notice that the other
+
+2281
+01:32:29,540 --> 01:32:31,270
+factor does not depend on beta.
+
+2282
+01:32:31,530 --> 01:32:31,950
+Oh,
+
+2283
+01:32:31,950 --> 01:32:32,710
+sorry,
+
+2284
+01:32:32,710 --> 01:32:33,750
+it does depend on beta.
+
+2285
+01:32:34,190 --> 01:32:34,690
+Whoops,
+
+2286
+01:32:34,690 --> 01:32:35,190
+whoops,
+
+2287
+01:32:35,190 --> 01:32:35,430
+whoops,
+
+2288
+01:32:35,430 --> 01:32:35,590
+whoops,
+
+2289
+01:32:35,590 --> 01:32:35,770
+beta.
+
+2290
+01:32:38,130 --> 01:32:38,630
+Beta.
+
+2291
+01:32:39,770 --> 01:32:40,970
+Somebody didn't catch me.
+
+2292
+01:32:41,330 --> 01:32:44,210
+It's e to the minus beta times the energy.
+
+2293
+01:32:45,810 --> 01:32:46,250
+Right?
+
+2294
+01:32:46,830 --> 01:32:48,850
+E to the minus beta times the energy.
+
+2295
+01:32:49,030 --> 01:32:50,670
+So there is a factor,
+
+2296
+01:32:50,670 --> 01:32:53,990
+there is some additional beta dependence there.
+
+2297
+01:32:54,030 --> 01:32:54,230
+Yes,
+
+2298
+01:32:54,230 --> 01:32:54,630
+there is.
+
+2299
+01:32:54,630 --> 01:32:56,450
+There's additional beta dependence there.
+
+2300
+01:32:59,190 --> 01:33:00,670
+And you can work with it.
+
+2301
+01:33:00,730 --> 01:33:01,450
+You can work it out.
+
+2302
+01:33:02,030 --> 01:33:03,310
+Maybe we'll do it next time.
+
+2303
+01:33:03,430 --> 01:33:04,230
+I'm getting a little tired.
+
+2304
+01:33:04,310 --> 01:33:05,770
+It's getting a little too late.
+
+2305
+01:33:06,130 --> 01:33:09,770
+But we could work out what the partition function
+
+2306
+01:33:09,770 --> 01:33:13,410
+is for the box of gas in the gravitational field.
+
+2307
+01:33:15,150 --> 01:33:17,990
+It has the same factor that it
+
+2308
+01:33:17,990 --> 01:33:20,830
+had before plus another factor from here.
+
+2309
+01:33:21,690 --> 01:33:22,250
+Okay.
+
+2310
+01:33:22,410 --> 01:33:30,810
+So I'll let you work that out.
+
+2311
+01:33:33,610 --> 01:33:36,670
+Since this term is beta dependent,
+
+2312
+01:33:36,670 --> 01:33:40,490
+it will give some contribution to the energy per particle.
+
+2313
+01:33:40,650 --> 01:33:41,430
+But of course it will.
+
+2314
+01:33:41,590 --> 01:33:43,390
+It will just be giving you the energy.
+
+2315
+01:33:44,410 --> 01:33:46,150
+It will give you the potential energy per particle.
+
+2316
+01:33:47,910 --> 01:33:48,430
+Okay.
+
+2317
+01:33:48,810 --> 01:33:49,370
+Let's just,
+
+2318
+01:33:49,370 --> 01:33:50,030
+eh,
+
+2319
+01:33:50,030 --> 01:33:50,750
+what the hell.
+
+2320
+01:33:50,810 --> 01:33:51,370
+Let's go through it.
+
+2321
+01:33:52,770 --> 01:33:53,730
+Let's go through it.
+
+2322
+01:33:54,590 --> 01:33:55,650
+It's not that hard.
+
+2323
+01:33:58,890 --> 01:33:59,650
+I'll tell you what.
+
+2324
+01:33:59,710 --> 01:34:01,330
+To simplify it a little bit,
+
+2325
+01:34:01,330 --> 01:34:05,770
+let's let the room be infinitely high.
+
+2326
+01:34:06,410 --> 01:34:09,410
+So this is literally the problem of
+
+2327
+01:34:09,410 --> 01:34:12,410
+the atmosphere between the Earth's surface and infinity.
+
+2328
+01:34:13,390 --> 01:34:13,910
+Okay.
+
+2329
+01:34:15,030 --> 01:34:15,810
+Okay.
+
+2330
+01:34:25,770 --> 01:34:27,270
+So what's the integral?
+
+2331
+01:34:27,430 --> 01:34:33,540
+The integral over here is just one
+
+2332
+01:34:33,540 --> 01:34:39,650
+divided by beta mg to the power n.
+
+2333
+01:34:41,490 --> 01:34:43,370
+And then the other one is just one.
+
+2334
+01:34:43,370 --> 01:34:45,150
+And then this area is exactly what it was before.
+
+2335
+01:34:46,390 --> 01:34:48,130
+Anybody remember what it was before?
+
+2336
+01:34:50,270 --> 01:34:50,870
+Oh.
+
+2337
+01:34:57,230 --> 01:35:00,270
+This area to the n over n factorial,
+
+2338
+01:35:00,270 --> 01:35:02,530
+that's fixed.
+
+2339
+01:35:02,610 --> 01:35:03,210
+That's just a number.
+
+2340
+01:35:03,570 --> 01:35:05,010
+And what about the other stuff?
+
+2341
+01:35:05,270 --> 01:35:09,310
+Square root of 2m pi
+
+2342
+01:35:09,310 --> 01:35:13,350
+over beta to the power n.
+
+2343
+01:35:13,350 --> 01:35:15,270
+the power 3n
+
+2344
+01:35:17,910 --> 01:35:18,430
+yeah,
+
+2345
+01:35:18,430 --> 01:35:18,810
+okay,
+
+2346
+01:35:18,810 --> 01:35:19,350
+over 2
+
+2347
+01:35:24,030 --> 01:35:26,050
+notice everything is to the nth power
+
+2348
+01:35:26,630 --> 01:35:29,170
+that's nice because when you take the logarithm
+
+2349
+01:35:30,030 --> 01:35:31,870
+that tells you the log of z,
+
+2350
+01:35:31,870 --> 01:35:32,670
+this is z
+
+2351
+01:35:33,370 --> 01:35:34,390
+log of z
+
+2352
+01:35:36,510 --> 01:35:37,030
+is,
+
+2353
+01:35:37,030 --> 01:35:37,550
+contains
+
+2354
+01:35:39,010 --> 01:35:40,610
+3n over 2
+
+2355
+01:35:41,570 --> 01:35:43,510
+minus log beta
+
+2356
+01:35:44,690 --> 01:35:48,010
+I'm keeping only the things which depend on beta now
+
+2357
+01:35:49,009 --> 01:35:51,650
+minus 3n over 2 log beta
+
+2358
+01:35:54,850 --> 01:35:55,690
+2,
+
+2359
+01:35:55,690 --> 01:35:58,250
+3n over 2
+
+2360
+01:35:58,250 --> 01:36:01,310
+plus a bunch of constants
+
+2361
+01:36:02,870 --> 01:36:03,710
+minus
+
+2362
+01:36:05,070 --> 01:36:07,130
+n log beta
+
+2363
+01:36:10,610 --> 01:36:14,290
+plus logarithm of the area blah blah blah
+
+2364
+01:36:14,290 --> 01:36:15,550
+we don't care about that
+
+2365
+01:36:16,509 --> 01:36:18,970
+so when we differentiate with respect to beta
+
+2366
+01:36:19,529 --> 01:36:21,930
+we will get the same term as before
+
+2367
+01:36:22,770 --> 01:36:23,890
+3 halves
+
+2368
+01:36:26,090 --> 01:36:28,170
+3 halves times the temperature
+
+2369
+01:36:29,030 --> 01:36:30,190
+for each
+
+2370
+01:36:30,190 --> 01:36:32,130
+for each
+
+2371
+01:36:33,110 --> 01:36:33,750
+particle
+
+2372
+01:36:34,610 --> 01:36:36,710
+and then another term which looks like it's
+
+2373
+01:36:36,710 --> 01:36:36,950
+um
+
+2374
+01:36:40,890 --> 01:36:41,530
+well,
+
+2375
+01:36:41,530 --> 01:36:43,570
+when you differentiate this with respect to beta
+
+2376
+01:36:43,570 --> 01:36:46,570
+you're going to get n over beta
+
+2377
+01:36:46,570 --> 01:36:51,210
+which is n times t it looks like
+
+2378
+01:36:53,270 --> 01:36:55,950
+and that must be the potential energy
+
+2379
+01:36:59,610 --> 01:37:01,190
+I can't remember
+
+2380
+01:37:01,190 --> 01:37:05,550
+it must be the average potential energy
+
+2381
+01:37:05,550 --> 01:37:06,570
+oh no,
+
+2382
+01:37:06,570 --> 01:37:06,830
+sorry
+
+2383
+01:37:06,830 --> 01:37:12,050
+I guess that's true
+
+2384
+01:37:19,310 --> 01:37:20,350
+looks like it
+
+2385
+01:37:24,870 --> 01:37:27,330
+in any case that's the procedure
+
+2386
+01:37:28,470 --> 01:37:29,610
+that's an example
+
+2387
+01:37:29,610 --> 01:37:32,030
+those are a couple of examples of
+
+2388
+01:37:32,030 --> 01:37:34,450
+very very simple calculations of partition functions
+
+2389
+01:37:35,390 --> 01:37:36,100
+and they show you among them
+
+2390
+01:37:36,100 --> 01:37:36,810
+that there are a lot of them
+
+2391
+01:37:36,810 --> 01:37:38,890
+oh incidentally as a homework problem
+
+2392
+01:37:38,890 --> 01:37:41,270
+calculate the entropy of this gas
+
+2393
+01:37:42,670 --> 01:37:44,270
+remember what the entropy is
+
+2394
+01:37:44,270 --> 01:37:45,910
+the entropy is s
+
+2395
+01:37:46,670 --> 01:37:48,270
+is equal to beta e
+
+2396
+01:37:48,270 --> 01:37:49,890
+plus log z
+
+2397
+01:37:52,170 --> 01:37:55,210
+calculate the entropy and the entropy per particle
+
+2398
+01:37:56,070 --> 01:37:56,670
+uh
+
+2399
+01:37:57,610 --> 01:37:59,010
+just as an exercise
+
+2400
+01:38:00,050 --> 01:38:01,770
+and of course it's very straightforward
+
+2401
+01:38:01,770 --> 01:38:02,690
+very easy
+
+2402
+01:38:04,030 --> 01:38:05,670
+maybe we'll use it for something
+
+2403
+01:38:05,670 --> 01:38:06,730
+um
+
+2404
+01:38:08,410 --> 01:38:11,650
+and that finishes us up for tonight
+
+2405
+01:38:12,550 --> 01:38:13,630
+any questions?
+
+2406
+01:38:13,930 --> 01:38:14,030
+yeah,
+
+2407
+01:38:14,030 --> 01:38:14,430
+yes,
+
+2408
+01:38:14,430 --> 01:38:14,650
+Kevin
+
+2409
+01:38:14,650 --> 01:38:16,420
+so these equations are
+
+2410
+01:38:16,420 --> 01:38:18,190
+effectively the Boltzmann distribution?
+
+2411
+01:38:18,470 --> 01:38:19,290
+is that right?
+
+2412
+01:38:20,770 --> 01:38:23,030
+Boltzmann distribution is this one over here
+
+2413
+01:38:23,550 --> 01:38:24,730
+and that's equilibrium
+
+2414
+01:38:24,730 --> 01:38:27,610
+and maximum entropy
+
+2415
+01:38:27,610 --> 01:38:28,530
+maximum entropy
+
+2416
+01:38:28,530 --> 01:38:30,980
+maximum entropy subject to the
+
+2417
+01:38:30,980 --> 01:38:33,430
+constraint of given total energy
+
+2418
+01:38:33,430 --> 01:38:35,650
+which has to be computed from here
+
+2419
+01:38:35,670 --> 01:38:40,750
+and the constraint that the total probabilities add to one
+
+2420
+01:38:40,750 --> 01:38:41,930
+which is hardly a constraint
+
+2421
+01:38:41,930 --> 01:38:44,230
+but you have to include it in the formal mathematics
+
+2422
+01:38:46,690 --> 01:38:47,190
+well
+
+2423
+01:38:49,130 --> 01:38:50,090
+it's pretty nifty
+
+2424
+01:38:52,510 --> 01:38:53,270
+after a while
+
+2425
+01:38:55,150 --> 01:38:57,180
+you never get to the point
+
+2426
+01:38:57,180 --> 01:38:59,210
+where you're not surprised by the equations
+
+2427
+01:39:00,230 --> 01:39:01,350
+but after a point
+
+2428
+01:39:01,350 --> 01:39:03,730
+you get familiar with the simple tricks
+
+2429
+01:39:05,010 --> 01:39:05,330
+and you get to the point
+
+2430
+01:39:05,330 --> 01:39:05,650
+where you're not surprised by the equations
+
+2431
+01:39:05,650 --> 01:39:07,220
+and you know which equations
+
+2432
+01:39:07,220 --> 01:39:08,790
+to use one following the other
+
+2433
+01:39:09,970 --> 01:39:11,710
+but it's always the case
+
+2434
+01:39:12,429 --> 01:39:13,490
+it's always the case
+
+2435
+01:39:13,490 --> 01:39:15,490
+that you follow a set of procedures
+
+2436
+01:39:15,490 --> 01:39:16,620
+and then all of a sudden
+
+2437
+01:39:16,620 --> 01:39:17,750
+you look at the thing and say
+
+2438
+01:39:17,750 --> 01:39:17,930
+whoa
+
+2439
+01:39:18,569 --> 01:39:18,990
+that's uh
+
+2440
+01:39:19,650 --> 01:39:20,890
+that's an interesting equation
+
+2441
+01:39:21,489 --> 01:39:23,690
+all the ones before it were totally um
+
+2442
+01:39:24,550 --> 01:39:25,070
+uninteresting
+
+2443
+01:39:25,690 --> 01:39:26,210
+so
+
+2444
+01:39:27,570 --> 01:39:29,130
+it's a very curious subject,
+
+2445
+01:39:29,130 --> 01:39:29,450
+yeah
+
+2446
+01:39:29,450 --> 01:39:32,450
+so since you've already introduced the G-word
+
+2447
+01:39:32,450 --> 01:39:33,930
+the G-word,
+
+2448
+01:39:33,930 --> 01:39:34,190
+yes
+
+2449
+01:39:34,850 --> 01:39:37,680
+will we be able to at some
+
+2450
+01:39:37,680 --> 01:39:40,510
+point apply that to maybe a collapsing star
+
+2451
+01:39:40,510 --> 01:39:43,730
+and get an insight about what the entropy looks like?
+
+2452
+01:39:45,290 --> 01:39:45,570
+because I,
+
+2453
+01:39:45,570 --> 01:39:45,830
+I,
+
+2454
+01:39:45,830 --> 01:39:46,070
+I
+
+2455
+01:39:46,070 --> 01:39:46,950
+if you mean a black hole,
+
+2456
+01:39:46,950 --> 01:39:47,250
+yes,
+
+2457
+01:39:47,250 --> 01:39:47,810
+that's easy
+
+2458
+01:39:47,810 --> 01:39:49,870
+if you mean a collapsing star
+
+2459
+01:39:52,170 --> 01:39:53,350
+or a star
+
+2460
+01:39:55,090 --> 01:39:56,130
+stars are hard
+
+2461
+01:39:56,130 --> 01:39:58,470
+but they're hard because it's complicated details
+
+2462
+01:39:58,470 --> 01:40:00,050
+not because it's conceptually hard
+
+2463
+01:40:00,770 --> 01:40:01,290
+okay,
+
+2464
+01:40:01,290 --> 01:40:01,950
+well I'm,
+
+2465
+01:40:01,950 --> 01:40:03,670
+what I'm trying to wrap my head around
+
+2466
+01:40:03,670 --> 01:40:06,450
+is how that collapsing star and more black hole
+
+2467
+01:40:06,450 --> 01:40:08,430
+I'll take whichever one you want
+
+2468
+01:40:08,430 --> 01:40:09,190
+um,
+
+2469
+01:40:09,190 --> 01:40:09,810
+uh
+
+2470
+01:40:10,390 --> 01:40:11,390
+winds up
+
+2471
+01:40:11,390 --> 01:40:12,370
+uh,
+
+2472
+01:40:12,370 --> 01:40:13,570
+with increasing entropy
+
+2473
+01:40:14,190 --> 01:40:15,330
+since everything gets
+
+2474
+01:40:15,330 --> 01:40:17,130
+probably smaller and smaller space
+
+2475
+01:40:17,130 --> 01:40:17,570
+mhm
+
+2476
+01:40:18,550 --> 01:40:20,730
+the entropy does go up to a point
+
+2477
+01:40:20,730 --> 01:40:23,390
+to a point until it gets to the Halking-Beckenstein entropy
+
+2478
+01:40:23,390 --> 01:40:25,210
+and then it cannot go higher than that
+
+2479
+01:40:26,190 --> 01:40:28,110
+not unless you add more energy
+
+2480
+01:40:28,810 --> 01:40:31,190
+for a given amount of energy and a given volume
+
+2481
+01:40:31,810 --> 01:40:32,510
+that's about,
+
+2482
+01:40:32,510 --> 01:40:32,970
+that's it,
+
+2483
+01:40:32,970 --> 01:40:33,190
+uh,
+
+2484
+01:40:33,190 --> 01:40:33,410
+you know
+
+2485
+01:40:33,670 --> 01:40:33,730
+so,
+
+2486
+01:40:33,730 --> 01:40:34,470
+uh
+
+2487
+01:40:36,029 --> 01:40:36,429
+okay,
+
+2488
+01:40:36,429 --> 01:40:36,830
+yes
+
+2489
+01:40:37,770 --> 01:40:40,150
+I see they have some inkling from my statistics
+
+2490
+01:40:40,150 --> 01:40:42,550
+you can use a partition function to calculate the,
+
+2491
+01:40:42,550 --> 01:40:43,090
+uh,
+
+2492
+01:40:43,090 --> 01:40:43,670
+fluctuations
+
+2493
+01:40:44,150 --> 01:40:44,550
+distribution
+
+2494
+01:40:46,650 --> 01:40:47,710
+fluctuations in energy,
+
+2495
+01:40:47,710 --> 01:40:48,350
+for example
+
+2496
+01:40:49,290 --> 01:40:49,690
+yeah
+
+2497
+01:40:50,810 --> 01:40:51,210
+um
+
+2498
+01:40:52,750 --> 01:40:53,150
+okay,
+
+2499
+01:40:53,150 --> 01:40:53,350
+we,
+
+2500
+01:40:53,350 --> 01:40:53,730
+I,
+
+2501
+01:40:53,730 --> 01:40:55,510
+I hadn't intended to do that tonight
+
+2502
+01:40:55,510 --> 01:40:56,230
+and I'm not going to
+
+2503
+01:40:56,230 --> 01:40:57,370
+but I'll tell you what the trick is
+
+2504
+01:40:58,550 --> 01:40:58,950
+uh,
+
+2505
+01:40:58,950 --> 01:40:59,870
+if you want to calculate
+
+2506
+01:41:01,130 --> 01:41:02,990
+the fluctuations in a quantity
+
+2507
+01:41:03,670 --> 01:41:05,750
+what you want to first calculate is
+
+2508
+01:41:05,750 --> 01:41:07,830
+the average of the square of that quantity,
+
+2509
+01:41:07,830 --> 01:41:08,110
+right?
+
+2510
+01:41:09,630 --> 01:41:10,430
+with me?
+
+2511
+01:41:10,650 --> 01:41:11,210
+okay
+
+2512
+01:41:11,910 --> 01:41:14,230
+so to calculate the square of the energy
+
+2513
+01:41:15,230 --> 01:41:15,790
+you'll
+
+2514
+01:41:16,710 --> 01:41:19,810
+want to differentiate twice with respect to beta
+
+2515
+01:41:21,570 --> 01:41:23,990
+and you'll find a formula
+
+2516
+01:41:23,990 --> 01:41:26,410
+involving some second derivatives and,
+
+2517
+01:41:26,410 --> 01:41:26,630
+uh
+
+2518
+01:41:27,250 --> 01:41:28,990
+I'll work it out maybe next time,
+
+2519
+01:41:28,990 --> 01:41:29,510
+the fluctuations
+
+2520
+01:41:31,430 --> 01:41:32,810
+and this is a very nice
+
+2521
+01:41:32,810 --> 01:41:35,790
+rather beautiful formula for the fluctuations of energy
+
+2522
+01:41:36,590 --> 01:41:38,420
+fluctuations in energy means the width
+
+2523
+01:41:38,420 --> 01:41:40,250
+of the energy of the distribution
+
+2524
+01:41:41,290 --> 01:41:41,970
+and,
+
+2525
+01:41:41,970 --> 01:41:42,570
+um
+
+2526
+01:41:42,570 --> 01:41:44,070
+it's an important formula
+
+2527
+01:41:44,910 --> 01:41:49,330
+it relates the fluctuations in energy to the specific heat
+
+2528
+01:41:49,330 --> 01:41:50,650
+and,
+
+2529
+01:41:50,650 --> 01:41:50,910
+uh,
+
+2530
+01:41:50,910 --> 01:41:52,170
+it's a neat formula
+
+2531
+01:41:52,170 --> 01:41:53,550
+we'll work it out next time
+
+2532
+01:41:54,490 --> 01:41:55,170
+right
+
+2533
+01:41:55,810 --> 01:41:58,320
+fluctuations were not a part
+
+2534
+01:41:58,320 --> 01:42:00,830
+of the original thermodynamic theory that,
+
+2535
+01:42:00,830 --> 01:42:02,170
+as it was originally known
+
+2536
+01:42:02,170 --> 01:42:06,110
+but it was really Einstein and Gibbs who really,
+
+2537
+01:42:06,110 --> 01:42:06,510
+really,
+
+2538
+01:42:06,510 --> 01:42:07,230
+who understood
+
+2539
+01:42:07,989 --> 01:42:11,250
+that the way to find out
+
+2540
+01:42:11,250 --> 01:42:12,810
+if what you're talking about
+
+2541
+01:42:12,810 --> 01:42:17,590
+is the statistical mechanics of a finite collection of atoms
+
+2542
+01:42:18,170 --> 01:42:20,130
+versus a complete continuum,
+
+2543
+01:42:20,130 --> 01:42:20,790
+um
+
+2544
+01:42:20,790 --> 01:42:23,450
+with no basis in statistics
+
+2545
+01:42:23,850 --> 01:42:25,050
+was to study fluctuations
+
+2546
+01:42:25,050 --> 01:42:26,550
+so we'll,
+
+2547
+01:42:26,550 --> 01:42:26,770
+uh,
+
+2548
+01:42:26,770 --> 01:42:28,030
+we'll do a little bit of that next time
+
+2549
+01:42:32,170 --> 01:42:33,710
+visit us at stanford.edu
+
