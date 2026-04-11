@@ -1,0 +1,3060 @@
+# Transcript
+
+Source: core/special_relativity/2012_spring_theoretical_minimum/141 - Special Relativity ｜ Lecture 8 [LnsZaOcF1Bo].mp4
+
+- [00:00:05,039 - 00:00:06,160] Stanford University.
+- [00:00:08,080 - 00:00:08,640] Alright,
+- [00:00:08,640 - 00:00:10,900] what I wanted to talk
+- [00:00:10,900 - 00:00:13,160] about before going into Maxwell's equations,
+- [00:00:13,340 - 00:00:14,980] we've talked about the motion of
+- [00:00:14,980 - 00:00:16,620] a charged particle in an electromagnetic field.
+- [00:00:16,980 - 00:00:18,840] We have not talked about the
+- [00:00:18,840 - 00:00:20,700] dynamics of the electric and magnetic field,
+- [00:00:20,860 - 00:00:21,200] in other words,
+- [00:00:21,200 - 00:00:21,860] the field equations,
+- [00:00:21,860 - 00:00:23,820] or for that matter,
+- [00:00:23,900 - 00:00:28,640] the related effect of charges on the electromagnetic field.
+- [00:00:29,459 - 00:00:30,880] We're going to do a bit of that tonight.
+- [00:00:32,080 - 00:00:32,860] This time,
+- [00:00:32,860 - 00:00:34,920] not starting with the action principle.
+- [00:00:34,960 - 00:00:35,720] I'll tell you why.
+- [00:00:35,720 - 00:00:37,120] We'll come back to the action principle.
+- [00:00:37,340 - 00:00:40,900] But first I thought,
+- [00:00:40,900 - 00:00:44,620] we sort of jumped to
+- [00:00:44,620 - 00:00:48,340] some very formal and mathematical technology.
+- [00:00:49,780 - 00:00:52,920] I had occasion last week,
+- [00:00:52,920 - 00:00:54,660] actually while I was in Belgium,
+- [00:00:56,319 - 00:00:57,280] visiting Mrs.
+- [00:00:57,280 - 00:00:58,620] Salford.
+- [00:00:58,640 - 00:01:00,700] She was the Solveig of the Solveig family,
+- [00:01:01,020 - 00:01:03,930] who were the people who first brought
+- [00:01:03,930 - 00:01:06,840] together probably the very first physics conferences
+- [00:01:07,449 - 00:01:08,240] that took place,
+- [00:01:08,240 - 00:01:09,140] ever,
+- [00:01:09,140 - 00:01:11,460] in the early 1900s.
+- [00:01:12,300 - 00:01:15,340] I had occasion to look at Einstein's first paper.
+- [00:01:15,480 - 00:01:18,220] I had to struggle through some of it in German,
+- [00:01:19,760 - 00:01:25,680] just because some historical discussion came up about it.
+- [00:01:25,940 - 00:01:26,700] And I looked at it.
+- [00:01:26,720 - 00:01:28,620] And I read the first paper.
+- [00:01:28,620 - 00:01:29,780] It's a basic paragraph.
+- [00:01:30,800 - 00:01:32,980] The title of the paper in English
+- [00:01:32,980 - 00:01:35,160] is on the electrodynamics of moving objects.
+- [00:01:36,660 - 00:01:38,220] And Einstein expresses,
+- [00:01:38,220 - 00:01:39,760] I had read this long ago,
+- [00:01:39,960 - 00:01:41,120] in fact more than once,
+- [00:01:41,120 - 00:01:42,800] and I had more or less forgotten about it,
+- [00:01:42,920 - 00:01:45,340] expresses extremely clearly what his
+- [00:01:45,340 - 00:01:47,760] logic and what his motivation is.
+- [00:01:48,640 - 00:01:50,300] And I'd like to come back to
+- [00:01:50,300 - 00:01:51,960] it and just discuss it for a moment,
+- [00:01:52,020 - 00:01:53,640] because it is deeply
+- [00:01:53,640 - 00:01:55,260] connected with the transformation properties
+- [00:01:55,260 - 00:01:57,620] of the electromagnetic field tensor.
+- [00:01:57,620 - 00:01:59,140] I want to go through it.
+- [00:01:59,180 - 00:02:01,860] If you have access to Einstein's first paper,
+- [00:02:02,820 - 00:02:03,360] it's worth,
+- [00:02:03,360 - 00:02:04,000] first of all,
+- [00:02:04,000 - 00:02:04,660] it's worth reading.
+- [00:02:04,840 - 00:02:05,220] You can now,
+- [00:02:05,220 - 00:02:06,820] I'm sure you can understand it now.
+- [00:02:08,800 - 00:02:10,139] But if nothing else,
+- [00:02:10,139 - 00:02:12,880] just reading that first paragraph is,
+- [00:02:14,620 - 00:02:15,540] it's marvelous.
+- [00:02:16,080 - 00:02:17,640] I wish I had it here.
+- [00:02:17,700 - 00:02:19,080] I would read you the first paragraph,
+- [00:02:19,080 - 00:02:20,900] but I don't.
+- [00:02:22,740 - 00:02:26,240] But he expresses,
+- [00:02:27,920 - 00:02:29,440] the puzzle,
+- [00:02:29,440 - 00:02:32,000] which by that time no longer puzzled him,
+- [00:02:32,160 - 00:02:35,630] but the puzzle of the
+- [00:02:35,630 - 00:02:39,100] invariance of certain electromagnetic phenomena,
+- [00:02:40,240 - 00:02:42,880] that in fact you describe in
+- [00:02:42,880 - 00:02:45,520] different ways in different reference frames.
+- [00:02:45,980 - 00:02:48,690] In one reference frame you blame
+- [00:02:48,690 - 00:02:51,400] a certain effect on a magnetic field.
+- [00:02:51,660 - 00:02:53,900] In another reference frame you
+- [00:02:53,900 - 00:02:56,140] blame it on an electric field.
+- [00:02:56,140 - 00:02:57,560] And he says,
+- [00:02:57,560 - 00:02:57,780] look,
+- [00:02:57,780 - 00:03:00,460] there's no real difference between the phenomena
+- [00:03:01,140 - 00:03:02,680] viewed in the two frames,
+- [00:03:02,680 - 00:03:05,720] but we describe them in a completely different way.
+- [00:03:06,520 - 00:03:08,980] There's something there that we should understand,
+- [00:03:09,160 - 00:03:10,980] that we should understand the
+- [00:03:10,980 - 00:03:12,800] transformation from one frame to another,
+- [00:03:12,980 - 00:03:16,140] and why two different descriptions give
+- [00:03:16,140 - 00:03:19,300] rise to exactly the same phenomena.
+- [00:03:19,560 - 00:03:20,420] In other words,
+- [00:03:20,420 - 00:03:21,540] he's talking about relativity.
+- [00:03:22,500 - 00:03:24,660] And the two phenomena he's talking about,
+- [00:03:24,660 - 00:03:26,120] or the single phenomena he's talking about,
+- [00:03:26,120 - 00:03:29,570] is of course the effect of
+- [00:03:29,570 - 00:03:33,020] electromagnetic fields on moving and stationary charges.
+- [00:03:36,100 - 00:03:36,740] He,
+- [00:03:36,740 - 00:03:38,020] more explicitly,
+- [00:03:38,020 - 00:03:40,060] he talks about charges moving in wires,
+- [00:03:40,220 - 00:03:40,760] in other words,
+- [00:03:40,760 - 00:03:41,180] currents.
+- [00:03:42,480 - 00:03:44,170] It doesn't matter very much whether
+- [00:03:44,170 - 00:03:45,860] the charges are moving in wires,
+- [00:03:46,100 - 00:03:48,280] or whether they're just moving in free space.
+- [00:03:49,720 - 00:03:51,910] He might have talked about
+- [00:03:51,910 - 00:03:54,100] charged particles moving in space,
+- [00:03:54,400 - 00:03:56,100] just ordinary charged particles,
+- [00:03:56,120 - 00:03:58,410] the reason he didn't was probably because at
+- [00:03:58,410 - 00:04:00,700] that time it was not easy to see
+- [00:04:00,700 - 00:04:02,280] the motion of a charged particle,
+- [00:04:02,480 - 00:04:03,870] it was much easier to
+- [00:04:03,870 - 00:04:05,260] push a particle through a wire,
+- [00:04:05,400 - 00:04:06,820] a charged particle through a wire.
+- [00:04:07,420 - 00:04:08,600] But in any case,
+- [00:04:08,600 - 00:04:11,560] here was the situation he was talking about.
+- [00:04:12,180 - 00:04:13,740] Here's your three dimensions of space.
+- [00:04:16,540 - 00:04:18,540] Let's suppose that they're,
+- [00:04:18,540 - 00:04:19,760] what can we call them,
+- [00:04:19,760 - 00:04:20,680] we can call them x,
+- [00:04:21,800 - 00:04:22,340] let's see,
+- [00:04:22,340 - 00:04:22,780] x,
+- [00:04:22,780 - 00:04:23,220] y,
+- [00:04:23,220 - 00:04:23,660] and z,
+- [00:04:23,660 - 00:04:24,740] I guess this would be y,
+- [00:04:24,740 - 00:04:26,240] and this would be z,
+- [00:04:28,240 - 00:04:29,120] and supposing,
+- [00:04:29,120 - 00:04:30,720] oh I think I have in my
+- [00:04:30,720 - 00:04:32,320] notes here that I call this y,
+- [00:04:32,520 - 00:04:35,180] which is probably inconsistent with the right hand rule,
+- [00:04:35,180 - 00:04:36,060] but never mind,
+- [00:04:38,220 - 00:04:38,660] x,
+- [00:04:38,660 - 00:04:39,040] y,
+- [00:04:39,040 - 00:04:39,300] z,
+- [00:04:41,900 - 00:04:44,250] and let there be a magnetic
+- [00:04:44,250 - 00:04:46,600] field pointing out of the blackboard,
+- [00:04:46,820 - 00:04:47,980] in other words,
+- [00:04:47,980 - 00:04:48,220] b,
+- [00:04:48,220 - 00:04:48,560] y.
+- [00:04:50,100 - 00:04:51,420] A magnetic field,
+- [00:04:51,420 - 00:04:54,660] and that's the only component of the electromagnetic field,
+- [00:04:54,740 - 00:04:57,040] what would create such a magnetic field?
+- [00:04:57,300 - 00:04:57,720] Well,
+- [00:04:57,720 - 00:04:59,600] it could be the poles of a magnet.
+- [00:04:59,860 - 00:05:02,190] The two poles of a
+- [00:05:02,190 - 00:05:04,520] magnet are a pole over here,
+- [00:05:04,600 - 00:05:07,820] and another pole over here,
+- [00:05:07,900 - 00:05:10,540] with a magnetic field into the blackboard,
+- [00:05:11,340 - 00:05:11,900] let's see,
+- [00:05:11,900 - 00:05:12,500] north pole,
+- [00:05:12,500 - 00:05:13,460] south pole,
+- [00:05:14,700 - 00:05:15,900] magnetic field coming,
+- [00:05:15,900 - 00:05:17,550] I know that doesn't look like
+- [00:05:17,550 - 00:05:19,200] it's coming out of the blackboard,
+- [00:05:19,340 - 00:05:20,820] but think of it as out of the blackboard,
+- [00:05:21,000 - 00:05:21,800] in other words,
+- [00:05:21,800 - 00:05:22,820] along the direction y,
+- [00:05:23,900 - 00:05:26,800] and let there also be a charged particle,
+- [00:05:27,180 - 00:05:31,500] and the charged particle is moving along the x-axis.
+- [00:05:31,880 - 00:05:35,400] It's moving along the x-axis in this direction.
+- [00:05:35,700 - 00:05:37,640] In our frame of reference,
+- [00:05:37,640 - 00:05:40,240] all there is is the magnetic field,
+- [00:05:40,480 - 00:05:42,240] and the particle is moving.
+- [00:05:42,800 - 00:05:43,460] Alright,
+- [00:05:43,460 - 00:05:45,720] now in Einstein's imagination,
+- [00:05:45,940 - 00:05:52,340] he really was thinking about a wire in this direction,
+- [00:05:53,300 - 00:05:54,860] the wire contains,
+- [00:05:54,860 - 00:05:56,600] of course we know what the wire contains,
+- [00:05:56,800 - 00:05:58,680] the wire contains atoms,
+- [00:05:59,000 - 00:06:01,900] and the atoms are nailed in place in the wire,
+- [00:06:01,900 - 00:06:02,640] they can't move,
+- [00:06:02,940 - 00:06:04,060] and electrons,
+- [00:06:04,060 - 00:06:05,870] and electrons in a conducting
+- [00:06:05,870 - 00:06:07,680] wire can move up and down,
+- [00:06:07,840 - 00:06:10,360] so really it was only the electrons that mattered,
+- [00:06:10,400 - 00:06:12,670] Einstein didn't talk about electrons and
+- [00:06:12,670 - 00:06:14,940] protons and neutrons and so forth,
+- [00:06:15,440 - 00:06:17,160] he just talked about a current and a wire,
+- [00:06:17,340 - 00:06:18,550] but he might have been
+- [00:06:18,550 - 00:06:19,760] just talking about a charged particle,
+- [00:06:20,000 - 00:06:22,260] and now the wire is made,
+- [00:06:22,260 - 00:06:24,610] the wire or the charged particle
+- [00:06:24,610 - 00:06:26,960] is made to move along the x-axis.
+- [00:06:27,380 - 00:06:28,460] What happens?
+- [00:06:28,800 - 00:06:30,930] What happens is a force
+- [00:06:30,930 - 00:06:33,060] is exerted on the charged particle.
+- [00:06:33,700 - 00:06:34,840] We call it,
+- [00:06:34,840 - 00:06:35,680] and in fact Lorentz,
+- [00:06:35,680 - 00:06:36,920] I don't know what Lorentz called it,
+- [00:06:36,980 - 00:06:38,080] but Lorentz knew about it,
+- [00:06:38,080 - 00:06:39,900] it was the Lorentz force,
+- [00:06:40,200 - 00:06:42,060] v cross b,
+- [00:06:43,259 - 00:06:47,180] electric charge times v cross the magnetic field,
+- [00:06:48,200 - 00:06:50,920] so if the magnetic field is out of the blackboard,
+- [00:06:51,740 - 00:06:55,660] the particle is being forced to move along the x-axis,
+- [00:06:55,860 - 00:06:57,610] there will be a force which
+- [00:06:57,610 - 00:06:59,360] is both perpendicular to the velocity
+- [00:06:59,360 - 00:07:00,420] and the magnetic field,
+- [00:07:00,420 - 00:07:01,780] the magnetic field is out,
+- [00:07:02,440 - 00:07:03,540] velocity is this way,
+- [00:07:03,620 - 00:07:05,680] so there's a force on the charged particle,
+- [00:07:05,680 - 00:07:06,740] either up or down,
+- [00:07:07,460 - 00:07:08,620] you're a better man than I
+- [00:07:08,620 - 00:07:09,780] am if you can figure out instantly
+- [00:07:09,780 - 00:07:10,780] which way it is,
+- [00:07:10,780 - 00:07:11,680] whether it's up or down,
+- [00:07:11,820 - 00:07:12,900] and I don't care for the moment,
+- [00:07:12,900 - 00:07:13,320] yeah,
+- [00:07:13,320 - 00:07:13,460] you,
+- [00:07:13,460 - 00:07:13,840] right,
+- [00:07:13,840 - 00:07:14,920] is it down?
+- [00:07:15,940 - 00:07:16,340] Well,
+- [00:07:16,340 - 00:07:18,240] that depends on whether the charge is plus or minus.
+- [00:07:18,540 - 00:07:18,780] Okay.
+- [00:07:20,180 - 00:07:20,580] Right.
+- [00:07:20,920 - 00:07:21,200] Okay.
+- [00:07:21,300 - 00:07:23,060] But there's a charge along,
+- [00:07:23,060 - 00:07:24,700] along,
+- [00:07:26,380 - 00:07:26,980] sorry,
+- [00:07:26,980 - 00:07:28,780] there's a force along the y-axis,
+- [00:07:28,840 - 00:07:30,660] which for example would cause a
+- [00:07:30,660 - 00:07:32,480] current to flow along the wire.
+- [00:07:33,420 - 00:07:36,840] That's a description from one frame of reference
+- [00:07:36,840 - 00:07:40,400] in which the effect on the charges,
+- [00:07:40,400 - 00:07:40,980] the effect,
+- [00:07:40,980 - 00:07:42,060] the current is produced
+- [00:07:42,700 - 00:07:46,260] by the motion of a charge in a magnetic field.
+- [00:07:46,800 - 00:07:47,400] Well,
+- [00:07:47,400 - 00:07:48,380] Einstein then says,
+- [00:07:50,020 - 00:07:51,160] wait a second,
+- [00:07:51,320 - 00:07:55,180] we also know another fact,
+- [00:07:55,960 - 00:07:58,720] this time keep the wire fixed,
+- [00:07:59,160 - 00:08:00,340] don't move the wire,
+- [00:08:00,340 - 00:08:01,860] but move the magnet.
+- [00:08:02,620 - 00:08:03,880] Move the magnet,
+- [00:08:03,880 - 00:08:05,980] and what happens when you move a magnet
+- [00:08:05,980 - 00:08:07,960] and you have a wire like that?
+- [00:08:08,420 - 00:08:08,960] Well,
+- [00:08:08,960 - 00:08:10,840] according to,
+- [00:08:10,840 - 00:08:15,480] according to Einstein and everybody else at the time,
+- [00:08:15,620 - 00:08:18,300] a moving magnetic field like that,
+- [00:08:18,380 - 00:08:21,580] will create what they called an EMF,
+- [00:08:21,620 - 00:08:22,800] an electromagnetic force,
+- [00:08:22,980 - 00:08:25,860] which effectively means an electric field.
+- [00:08:26,200 - 00:08:27,980] It creates an electric field,
+- [00:08:28,100 - 00:08:29,940] taking a magnetic field which points
+- [00:08:29,940 - 00:08:31,780] either into or out of the blackboard,
+- [00:08:32,100 - 00:08:33,440] and moving the magnet,
+- [00:08:33,620 - 00:08:36,080] creates an electric field vertically,
+- [00:08:36,340 - 00:08:38,159] which has the same effect,
+- [00:08:38,280 - 00:08:39,880] causes charges to flow,
+- [00:08:40,120 - 00:08:44,020] or exerts a force on a stationary particle.
+- [00:08:44,880 - 00:08:45,840] Imagine now,
+- [00:08:45,840 - 00:08:46,780] in other words,
+- [00:08:46,780 - 00:08:48,780] if there was a stationary particle,
+- [00:08:48,920 - 00:08:50,400] but a moving magnet,
+- [00:08:50,780 - 00:08:52,300] it would have the same effect.
+- [00:08:52,520 - 00:08:53,400] So what Einstein said is,
+- [00:08:53,400 - 00:08:53,520] look,
+- [00:08:53,520 - 00:08:54,000] we have these,
+- [00:08:54,100 - 00:08:55,800] the phenomena is the same,
+- [00:08:56,500 - 00:08:57,760] of vertical force.
+- [00:08:58,100 - 00:09:00,360] We have two totally different descriptions.
+- [00:09:00,680 - 00:09:02,020] In one description,
+- [00:09:02,380 - 00:09:06,060] the magnetic field exerts a force on a moving charge,
+- [00:09:06,420 - 00:09:07,400] and the other,
+- [00:09:07,400 - 00:09:09,340] the moving magnet,
+- [00:09:09,420 - 00:09:11,080] creates an electric field,
+- [00:09:11,360 - 00:09:13,070] and the electric field exerts
+- [00:09:13,070 - 00:09:14,780] the force on the charged particle.
+- [00:09:14,780 - 00:09:17,180] His attitude was,
+- [00:09:17,180 - 00:09:18,100] these are the same effect.
+- [00:09:18,220 - 00:09:19,400] These must be the same effect.
+- [00:09:19,640 - 00:09:22,070] And the only explanation is
+- [00:09:22,070 - 00:09:24,500] what looks like a magnetic field,
+- [00:09:24,660 - 00:09:25,840] a pure magnetic field,
+- [00:09:25,980 - 00:09:27,460] in one frame of reference,
+- [00:09:28,400 - 00:09:30,300] in another frame of reference,
+- [00:09:30,600 - 00:09:31,980] namely in this case,
+- [00:09:31,980 - 00:09:33,280] the frame of reference that happens
+- [00:09:33,280 - 00:09:34,580] to be moving with a particle,
+- [00:09:35,560 - 00:09:37,420] looks like a bit,
+- [00:09:37,420 - 00:09:38,380] at least a bit,
+- [00:09:38,380 - 00:09:39,620] of electric field.
+- [00:09:40,740 - 00:09:41,300] So,
+- [00:09:41,300 - 00:09:42,380] what he said is,
+- [00:09:42,520 - 00:09:44,760] electric and magnetic fields are particles,
+- [00:09:44,780 - 00:09:46,560] part of the same complex of objects,
+- [00:09:46,840 - 00:09:49,480] which transform into each other,
+- [00:09:50,780 - 00:09:51,820] under a,
+- [00:09:53,600 - 00:09:54,280] I don't,
+- [00:09:54,280 - 00:09:56,120] he didn't call them Lorentz transformations,
+- [00:09:56,620 - 00:09:57,950] he probably would have preferred
+- [00:09:57,950 - 00:09:59,280] that they were called Einstein transformations,
+- [00:09:59,660 - 00:10:00,120] I don't know,
+- [00:10:00,300 - 00:10:01,100] but,
+- [00:10:02,500 - 00:10:03,020] motion.
+- [00:10:04,520 - 00:10:05,040] Okay,
+- [00:10:05,040 - 00:10:07,100] so can we see in detail,
+- [00:10:07,700 - 00:10:08,220] mathematically,
+- [00:10:11,020 - 00:10:12,060] this transformation,
+- [00:10:13,060 - 00:10:13,580] when,
+- [00:10:14,780 - 00:10:16,060] if we have a magnetic field,
+- [00:10:16,180 - 00:10:17,660] let's forget the charged particle now,
+- [00:10:17,880 - 00:10:19,720] we have a magnetic field,
+- [00:10:20,520 - 00:10:22,200] in your frame of reference,
+- [00:10:22,340 - 00:10:23,920] there's a magnetic field pointing at it,
+- [00:10:23,980 - 00:10:24,320] and that's all,
+- [00:10:24,320 - 00:10:25,540] just a magnetic field,
+- [00:10:25,720 - 00:10:28,360] and I move along with the charged particle,
+- [00:10:28,520 - 00:10:32,320] can we see that I perceive an electric field?
+- [00:10:32,600 - 00:10:35,450] Can we see it from the
+- [00:10:35,450 - 00:10:38,300] transformation properties of the electromagnetic field tensor?
+- [00:10:40,460 - 00:10:40,980] Okay,
+- [00:10:40,980 - 00:10:41,300] so,
+- [00:10:41,400 - 00:10:42,600] for that,
+- [00:10:42,600 - 00:10:43,300] we need to,
+- [00:10:44,320 - 00:10:44,840] explore,
+- [00:10:45,240 - 00:10:46,140] a little bit,
+- [00:10:46,260 - 00:10:47,740] the transformation properties of
+- [00:10:47,740 - 00:10:49,220] the electromagnetic field tensor,
+- [00:10:49,340 - 00:10:49,560] if,
+- [00:10:55,480 - 00:10:57,140] we did some of this,
+- [00:10:57,340 - 00:10:58,720] I want to come back to it,
+- [00:10:58,780 - 00:11:00,280] and talk about this particular effect.
+- [00:11:01,140 - 00:11:01,660] Alright,
+- [00:11:01,660 - 00:11:04,420] let's remember what the electromagnetic field tensor is,
+- [00:11:04,420 - 00:11:05,080] first of all.
+- [00:11:05,320 - 00:11:07,100] It's a thing with two indices,
+- [00:11:08,360 - 00:11:09,700] F mu nu.
+- [00:11:10,180 - 00:11:11,140] It happens,
+- [00:11:11,220 - 00:11:12,020] just to,
+- [00:11:12,020 - 00:11:12,940] just to put all the,
+- [00:11:12,980 - 00:11:14,420] put everything out on the table,
+- [00:11:15,360 - 00:11:17,100] F mu nu happens to be,
+- [00:11:17,140 - 00:11:19,180] expressed in terms of the vector potential,
+- [00:11:19,860 - 00:11:20,820] let's write it,
+- [00:11:20,880 - 00:11:22,600] although I don't think I'll use it for the moment,
+- [00:11:22,800 - 00:11:24,400] d mu A nu,
+- [00:11:24,580 - 00:11:26,920] minus d nu A mu,
+- [00:11:27,720 - 00:11:28,540] this means,
+- [00:11:29,200 - 00:11:31,580] the derivative with respect to X mu,
+- [00:11:31,800 - 00:11:32,700] of the,
+- [00:11:32,720 - 00:11:35,040] nu-th component of the vector potential,
+- [00:11:36,000 - 00:11:36,500] minus,
+- [00:11:36,560 - 00:11:38,620] the derivative with respect to X nu,
+- [00:11:38,760 - 00:11:40,240] of the mu-th component.
+- [00:11:42,020 - 00:11:42,720] d sub mu,
+- [00:11:42,940 - 00:11:43,540] means,
+- [00:11:45,819 - 00:11:47,160] d by dx mu.
+- [00:11:49,680 - 00:11:50,160] Alright,
+- [00:11:50,160 - 00:11:50,640] that's the,
+- [00:11:50,640 - 00:11:51,620] that's the field tensor,
+- [00:11:51,760 - 00:11:52,640] it's anti-symmetric,
+- [00:11:53,240 - 00:11:54,180] just to,
+- [00:11:54,660 - 00:11:57,120] to recall a couple of facts about it,
+- [00:11:57,819 - 00:11:58,440] mu and nu,
+- [00:11:58,560 - 00:11:59,740] go from one to four,
+- [00:11:59,940 - 00:12:01,300] they run from time,
+- [00:12:01,480 - 00:12:01,920] X,
+- [00:12:01,920 - 00:12:02,440] Y,
+- [00:12:02,440 - 00:12:02,880] and Z,
+- [00:12:03,540 - 00:12:04,400] time is zero,
+- [00:12:04,600 - 00:12:04,820] X,
+- [00:12:04,820 - 00:12:05,060] Y,
+- [00:12:05,060 - 00:12:05,620] and Z are one,
+- [00:12:05,620 - 00:12:05,780] two,
+- [00:12:05,780 - 00:12:06,140] and three,
+- [00:12:06,880 - 00:12:08,140] and F naught,
+- [00:12:09,120 - 00:12:09,600] N,
+- [00:12:11,000 - 00:12:11,900] that's the time,
+- [00:12:11,900 - 00:12:14,060] that's the mixed space-time components,
+- [00:12:14,280 - 00:12:15,020] oh incidentally,
+- [00:12:15,040 - 00:12:16,620] this is anti-symmetric,
+- [00:12:16,700 - 00:12:19,440] and so the diagonal elements of this are zero,
+- [00:12:19,640 - 00:12:22,060] but the mixed space-time components,
+- [00:12:23,000 - 00:12:24,940] are electric fields,
+- [00:12:28,580 - 00:12:30,020] little m and N,
+- [00:12:30,180 - 00:12:32,660] now are ordinary spatial components,
+- [00:12:33,200 - 00:12:34,200] mu and nu,
+- [00:12:34,340 - 00:12:35,400] are space-time,
+- [00:12:35,640 - 00:12:37,080] m and N are space.
+- [00:12:38,000 - 00:12:38,640] Alright,
+- [00:12:38,640 - 00:12:39,180] so that's,
+- [00:12:39,180 - 00:12:41,260] that's the connection between the field tensor,
+- [00:12:41,260 - 00:12:42,680] anti-symmetric field tensor,
+- [00:12:42,800 - 00:12:43,600] and the electric field,
+- [00:12:43,780 - 00:12:46,140] it happens from this equation here,
+- [00:12:46,360 - 00:12:49,440] that it's the time derivative of a m,
+- [00:12:50,100 - 00:12:50,880] minus the,
+- [00:12:51,780 - 00:12:52,560] no sorry,
+- [00:12:52,680 - 00:12:53,200] this is N,
+- [00:12:53,360 - 00:12:54,000] N,
+- [00:12:54,000 - 00:12:54,300] N,
+- [00:12:54,300 - 00:12:54,600] N,
+- [00:12:54,600 - 00:12:54,920] N,
+- [00:12:56,060 - 00:12:58,400] if the left-hand side has an N,
+- [00:12:58,480 - 00:13:00,120] the right-hand side has to have an N,
+- [00:13:00,220 - 00:13:03,700] and times the time derivative of,
+- [00:13:05,400 - 00:13:06,240] no sorry,
+- [00:13:06,300 - 00:13:11,120] times the N derivative of a naught,
+- [00:13:11,120 - 00:13:12,000] a naught.
+- [00:13:14,700 - 00:13:15,220] Alright,
+- [00:13:15,220 - 00:13:17,080] that's just rewriting this for the naught,
+- [00:13:17,140 - 00:13:17,320] alright,
+- [00:13:17,400 - 00:13:19,100] I'm not going to use this particularly,
+- [00:13:19,160 - 00:13:21,220] the expression in terms of the vector potential,
+- [00:13:21,380 - 00:13:22,200] but just to remind you,
+- [00:13:22,820 - 00:13:24,360] that's the electric field,
+- [00:13:24,520 - 00:13:25,980] and the magnetic field,
+- [00:13:27,060 - 00:13:29,980] is related to the space-space components,
+- [00:13:30,100 - 00:13:31,240] and N,
+- [00:13:33,820 - 00:13:35,240] and the connection is,
+- [00:13:35,940 - 00:13:37,280] that the magnetic field,
+- [00:13:37,280 - 00:13:40,720] is equal to the curl,
+- [00:13:41,800 - 00:13:43,220] of the vector potential,
+- [00:13:44,860 - 00:13:47,640] when restricted to the space components,
+- [00:13:47,820 - 00:13:50,020] this expression here is connected,
+- [00:13:50,060 - 00:13:53,200] is simply the components of the curl of a vector,
+- [00:13:53,360 - 00:13:55,380] and so the corresponding,
+- [00:13:56,120 - 00:13:57,400] the F M N,
+- [00:14:00,520 - 00:14:02,840] the magnetic field is the curl,
+- [00:14:02,980 - 00:14:06,760] of the space components of the vector potential,
+- [00:14:06,760 - 00:14:07,980] for example,
+- [00:14:08,320 - 00:14:09,380] this would say,
+- [00:14:09,420 - 00:14:10,040] for example,
+- [00:14:10,120 - 00:14:11,720] an example of it would be that,
+- [00:14:11,760 - 00:14:12,760] B sub X,
+- [00:14:13,320 - 00:14:15,840] is equal to the derivative with respect to Y,
+- [00:14:16,500 - 00:14:18,840] of the Z component of the vector potential,
+- [00:14:19,460 - 00:14:21,580] minus the derivative with respect to Z,
+- [00:14:22,200 - 00:14:24,940] of the Y component of the vector potential,
+- [00:14:25,240 - 00:14:26,700] this is just shorthand,
+- [00:14:26,780 - 00:14:28,940] for these equations,
+- [00:14:29,280 - 00:14:30,440] three of them,
+- [00:14:30,460 - 00:14:31,140] for BX,
+- [00:14:31,140 - 00:14:31,340] BY,
+- [00:14:31,340 - 00:14:31,900] and BZ,
+- [00:14:31,980 - 00:14:32,200] okay,
+- [00:14:32,320 - 00:14:33,840] now we can summarize,
+- [00:14:33,960 - 00:14:35,080] the connection,
+- [00:14:36,200 - 00:14:38,560] between the electric magnetic field,
+- [00:14:38,700 - 00:14:39,520] and the field tensor,
+- [00:14:40,460 - 00:14:41,020] by,
+- [00:14:42,340 - 00:14:43,460] writing down,
+- [00:14:43,480 - 00:14:44,520] a big matrix,
+- [00:14:45,080 - 00:14:46,800] a four by four matrix,
+- [00:14:47,180 - 00:14:49,040] and filling in the components,
+- [00:14:49,040 - 00:14:50,720] with electric and magnetic fields,
+- [00:14:50,980 - 00:14:51,840] so just to,
+- [00:14:52,060 - 00:14:53,660] to write that out once,
+- [00:14:54,020 - 00:14:55,660] I know we've done it before,
+- [00:14:55,800 - 00:14:56,620] but let's do it anyway,
+- [00:14:56,860 - 00:14:57,460] F mu nu,
+- [00:14:59,340 - 00:15:00,560] is a big matrix,
+- [00:15:01,200 - 00:15:04,060] and in order to keep track of the elements,
+- [00:15:04,060 - 00:15:06,300] we will let nu,
+- [00:15:06,580 - 00:15:08,040] run horizontally,
+- [00:15:08,220 - 00:15:08,940] and mu,
+- [00:15:09,140 - 00:15:10,080] run vertically,
+- [00:15:10,380 - 00:15:11,680] that's a standard rule,
+- [00:15:11,960 - 00:15:12,440] the right,
+- [00:15:12,460 - 00:15:13,980] the second element here,
+- [00:15:14,040 - 00:15:15,060] runs horizontally,
+- [00:15:15,320 - 00:15:16,680] the first element runs vertically,
+- [00:15:17,700 - 00:15:18,340] and,
+- [00:15:18,520 - 00:15:19,320] the first,
+- [00:15:19,460 - 00:15:20,200] we can,
+- [00:15:20,360 - 00:15:21,520] just to,
+- [00:15:22,320 - 00:15:23,700] organize the matrix,
+- [00:15:24,700 - 00:15:26,580] let's put some guidelines in,
+- [00:15:28,840 - 00:15:30,500] it's a four by four matrix,
+- [00:15:31,860 - 00:15:32,500] alright,
+- [00:15:32,500 - 00:15:36,280] the diagonal elements are zero,
+- [00:15:39,260 - 00:15:41,620] and the upper right hand corner here,
+- [00:15:41,820 - 00:15:41,980] oh,
+- [00:15:42,800 - 00:15:44,060] just to remind you,
+- [00:15:44,140 - 00:15:45,860] the first row here,
+- [00:15:45,960 - 00:15:47,300] is the time component,
+- [00:15:47,620 - 00:15:48,680] the next one is x,
+- [00:15:48,880 - 00:15:49,360] y,
+- [00:15:49,540 - 00:15:50,120] and z,
+- [00:15:50,980 - 00:15:51,920] and likewise,
+- [00:15:52,040 - 00:15:52,940] for the rows,
+- [00:15:53,060 - 00:15:53,920] time component,
+- [00:15:54,100 - 00:15:54,380] x,
+- [00:15:54,500 - 00:15:54,800] y,
+- [00:15:54,840 - 00:15:55,260] and z,
+- [00:15:56,360 - 00:15:57,340] the time,
+- [00:15:57,420 - 00:15:59,280] the mixed space time components,
+- [00:15:59,280 - 00:16:00,380] are electric fields,
+- [00:16:00,660 - 00:16:01,620] so that means along,
+- [00:16:01,620 - 00:16:02,040] here,
+- [00:16:03,120 - 00:16:04,380] we have electric fields,
+- [00:16:05,540 - 00:16:06,500] e x,
+- [00:16:07,200 - 00:16:08,080] e y,
+- [00:16:08,680 - 00:16:09,600] and e z,
+- [00:16:11,740 - 00:16:13,040] minus e x,
+- [00:16:13,160 - 00:16:14,100] it's anti-symmetric,
+- [00:16:14,260 - 00:16:15,100] minus e y,
+- [00:16:15,400 - 00:16:16,540] and minus e z,
+- [00:16:17,579 - 00:16:19,140] and then the other components,
+- [00:16:19,340 - 00:16:20,540] the space space components,
+- [00:16:20,780 - 00:16:22,820] are components of the magnetic field,
+- [00:16:23,100 - 00:16:24,600] and those get filled in,
+- [00:16:24,660 - 00:16:26,180] as the y component,
+- [00:16:29,000 - 00:16:29,560] no,
+- [00:16:29,640 - 00:16:30,740] that's the z component,
+- [00:16:31,120 - 00:16:31,340] whoops,
+- [00:16:31,520 - 00:16:31,600] and then the y component,
+- [00:16:31,620 - 00:16:32,040] sorry,
+- [00:16:32,220 - 00:16:32,900] z component,
+- [00:16:35,320 - 00:16:36,920] why is it the z component?
+- [00:16:37,780 - 00:16:38,340] Because,
+- [00:16:38,500 - 00:16:39,940] it is the x,
+- [00:16:39,940 - 00:16:41,860] y component of f,
+- [00:16:42,160 - 00:16:42,480] x,
+- [00:16:42,560 - 00:16:44,860] y component means the z component of b,
+- [00:16:44,980 - 00:16:46,000] you'll just have to remember that,
+- [00:16:46,220 - 00:16:47,580] minus b sub y,
+- [00:16:48,180 - 00:16:49,460] and b sub x,
+- [00:16:49,660 - 00:16:51,080] and down here,
+- [00:16:51,200 - 00:16:52,440] minus b z,
+- [00:16:53,080 - 00:16:54,620] that's the anti-symmetry,
+- [00:16:55,580 - 00:16:57,460] what's in the lower,
+- [00:16:58,100 - 00:16:59,360] half of the matrix,
+- [00:16:59,440 - 00:17:00,160] is simply,
+- [00:17:00,160 - 00:17:01,420] the reflection,
+- [00:17:01,500 - 00:17:02,740] except with a minus sign,
+- [00:17:02,960 - 00:17:04,319] plus b sub y,
+- [00:17:05,440 - 00:17:06,920] and minus b sub x,
+- [00:17:06,980 - 00:17:08,619] and that's the electromagnetic field tensor,
+- [00:17:09,819 - 00:17:10,339] incidentally,
+- [00:17:11,079 - 00:17:11,339] just,
+- [00:17:12,920 - 00:17:13,440] to,
+- [00:17:15,440 - 00:17:16,040] let's see,
+- [00:17:16,099 - 00:17:16,680] if I put,
+- [00:17:20,440 - 00:17:21,599] here's a little exercise,
+- [00:17:23,339 - 00:17:25,000] fill in the blanks,
+- [00:17:26,740 - 00:17:28,099] for f mu nu,
+- [00:17:28,180 - 00:17:29,400] with upper indices,
+- [00:17:30,360 - 00:17:31,760] the rule is,
+- [00:17:31,860 - 00:17:33,960] whenever you go from a lower index,
+- [00:17:34,160 - 00:17:34,960] to an upper index,
+- [00:17:35,500 - 00:17:38,040] if you have raised a time component,
+- [00:17:38,480 - 00:17:39,520] you get a minus sign,
+- [00:17:39,740 - 00:17:41,720] if you've raised a space component,
+- [00:17:42,140 - 00:17:43,220] no minus sign,
+- [00:17:43,960 - 00:17:44,220] alright,
+- [00:17:44,320 - 00:17:45,000] so in fact,
+- [00:17:45,000 - 00:17:46,340] it's easy to work out,
+- [00:17:47,360 - 00:17:47,880] what,
+- [00:17:48,720 - 00:17:51,060] f mu nu with upper components is,
+- [00:17:51,180 - 00:17:52,760] it's in fact exactly the same,
+- [00:17:52,820 - 00:17:53,420] except one,
+- [00:17:54,200 - 00:17:54,720] slight,
+- [00:17:55,900 - 00:17:56,420] difference,
+- [00:17:56,800 - 00:17:57,500] let's see here,
+- [00:17:57,520 - 00:17:58,840] we need some lines in here,
+- [00:18:03,180 - 00:18:05,160] the only difference is,
+- [00:18:05,400 - 00:18:07,220] that this is minus e x,
+- [00:18:07,900 - 00:18:08,980] minus e y,
+- [00:18:09,260 - 00:18:10,580] minus e z,
+- [00:18:11,660 - 00:18:12,660] e x,
+- [00:18:13,500 - 00:18:14,460] e y,
+- [00:18:14,460 - 00:18:14,960] and e z,
+- [00:18:16,940 - 00:18:18,320] why did that happen?
+- [00:18:18,940 - 00:18:20,020] That happened,
+- [00:18:20,080 - 00:18:21,520] because the electric component,
+- [00:18:21,600 - 00:18:23,320] has one time index,
+- [00:18:23,440 - 00:18:24,440] and one space index,
+- [00:18:24,820 - 00:18:26,640] so when you raise the indices,
+- [00:18:26,780 - 00:18:28,280] you're raising one time component,
+- [00:18:28,540 - 00:18:29,620] and one space component,
+- [00:18:29,620 - 00:18:31,540] and that gives you a minus sign,
+- [00:18:31,700 - 00:18:33,520] the magnetic terms are the same,
+- [00:18:33,600 - 00:18:34,660] are unchanged,
+- [00:18:35,540 - 00:18:36,280] b z,
+- [00:18:38,260 - 00:18:39,320] minus b y,
+- [00:18:39,880 - 00:18:40,920] and b x,
+- [00:18:41,140 - 00:18:43,100] and you can fill in the lower corner here,
+- [00:18:43,320 - 00:18:45,180] it's just anti-symmetric,
+- [00:18:45,360 - 00:18:45,940] alright,
+- [00:18:46,080 - 00:18:48,260] so it doesn't matter which one of these you use,
+- [00:18:51,100 - 00:18:53,060] you fill in the blanks,
+- [00:18:53,060 - 00:18:55,500] and that's the field tensor.
+- [00:18:55,880 - 00:18:57,120] I'm reading this correctly,
+- [00:18:57,280 - 00:18:59,520] the magnetic components don't have any time components,
+- [00:18:59,520 - 00:19:00,260] yeah,
+- [00:19:00,360 - 00:19:03,400] the magnetic components are space-space components,
+- [00:19:04,240 - 00:19:05,240] pure space,
+- [00:19:06,340 - 00:19:07,620] so that means,
+- [00:19:08,360 - 00:19:08,720] okay,
+- [00:19:08,720 - 00:19:09,400] where are the space,
+- [00:19:09,520 - 00:19:13,900] let's take advantage of some colored pens,
+- [00:19:14,120 - 00:19:17,780] and block out here,
+- [00:19:19,480 - 00:19:21,320] the space-space components,
+- [00:19:21,500 - 00:19:23,520] this is time x,
+- [00:19:23,520 - 00:19:24,140] y,
+- [00:19:24,140 - 00:19:24,780] z,
+- [00:19:25,800 - 00:19:26,520] alright,
+- [00:19:26,640 - 00:19:29,000] so this green 3x3 matrix,
+- [00:19:30,300 - 00:19:32,620] is the space-space components,
+- [00:19:33,080 - 00:19:36,320] and they consist only of magnetic fields,
+- [00:19:36,560 - 00:19:37,800] and zeros,
+- [00:19:39,299 - 00:19:42,200] the mixed space-time components,
+- [00:19:42,440 - 00:19:46,140] are the ones along the edges here,
+- [00:19:47,560 - 00:19:48,200] okay,
+- [00:19:48,280 - 00:19:49,460] now,
+- [00:19:49,560 - 00:19:50,660] what do we want to do,
+- [00:19:50,720 - 00:19:54,440] we want to figure out how this object,
+- [00:19:55,699 - 00:19:57,419] transforms when we move from
+- [00:19:57,419 - 00:19:59,140] one frame of reference to another,
+- [00:19:59,520 - 00:20:00,700] in other words,
+- [00:20:00,840 - 00:20:02,650] given an electromagnetic field tensor
+- [00:20:02,650 - 00:20:04,460] in one frame of reference,
+- [00:20:04,760 - 00:20:07,320] in which the electric and magnetic fields are,
+- [00:20:07,440 - 00:20:08,540] what are written down here,
+- [00:20:09,100 - 00:20:11,740] if I now move relative to it,
+- [00:20:11,840 - 00:20:14,160] and let's say move along the x-axis for simplicity,
+- [00:20:14,500 - 00:20:16,420] if I move along the x-axis,
+- [00:20:17,700 - 00:20:20,000] what are the new components of the
+- [00:20:20,000 - 00:20:22,300] electromagnetic field tensor in the new frame?
+- [00:20:22,840 - 00:20:23,360] Alright,
+- [00:20:23,480 - 00:20:24,720] so to work those out,
+- [00:20:25,280 - 00:20:27,160] we simply have to remember,
+- [00:20:27,420 - 00:20:28,580] the rules for,
+- [00:20:28,580 - 00:20:30,900] transformation of tensors,
+- [00:20:31,480 - 00:20:32,640] of things with indices,
+- [00:20:32,880 - 00:20:34,540] tensors are just things with indices,
+- [00:20:35,440 - 00:20:35,920] alright,
+- [00:20:36,020 - 00:20:37,500] so let me go back first,
+- [00:20:37,740 - 00:20:39,480] to the simplest of all,
+- [00:20:40,360 - 00:20:43,240] well the simplest of all tensors are of course scalars,
+- [00:20:43,260 - 00:20:44,480] and scalars don't transform,
+- [00:20:44,740 - 00:20:45,300] they're too simple,
+- [00:20:45,800 - 00:20:46,280] but,
+- [00:20:46,380 - 00:20:47,540] four vectors,
+- [00:20:47,800 - 00:20:50,080] in particular the four vector x mu,
+- [00:20:50,240 - 00:20:50,820] x mu,
+- [00:20:53,500 - 00:20:53,980] prime,
+- [00:20:56,060 - 00:20:56,820] it's x,
+- [00:20:56,820 - 00:20:57,080] y,
+- [00:20:57,080 - 00:20:57,320] z,
+- [00:20:57,320 - 00:20:57,680] and t,
+- [00:20:57,740 - 00:20:58,000] or t,
+- [00:20:58,000 - 00:20:58,260] x,
+- [00:20:58,260 - 00:20:58,440] y,
+- [00:20:58,440 - 00:20:58,560] and t,
+- [00:20:58,580 - 00:21:00,820] we know how they transform,
+- [00:21:01,160 - 00:21:01,800] in fact,
+- [00:21:01,820 - 00:21:04,300] they transform by Lorentz transformation,
+- [00:21:05,100 - 00:21:07,540] t prime is equal to t,
+- [00:21:07,780 - 00:21:09,240] minus v x,
+- [00:21:09,620 - 00:21:11,640] over square root of one minus v squared,
+- [00:21:11,980 - 00:21:14,660] x prime is equal to x minus v t,
+- [00:21:14,960 - 00:21:17,360] over square root of one minus v squared,
+- [00:21:17,720 - 00:21:19,500] y prime equals y,
+- [00:21:19,820 - 00:21:21,080] z prime equals z,
+- [00:21:21,320 - 00:21:24,880] but we can organize this into a matrix expression,
+- [00:21:25,040 - 00:21:26,340] or we can write it in two ways,
+- [00:21:26,600 - 00:21:27,980] we can write it,
+- [00:21:29,199 - 00:21:31,520] using the Einstein summation convention,
+- [00:21:31,740 - 00:21:35,040] we introduce a matrix called L,
+- [00:21:35,160 - 00:21:36,600] L for Lorentz,
+- [00:21:37,979 - 00:21:38,620] mu,
+- [00:21:40,500 - 00:21:41,140] nu,
+- [00:21:42,379 - 00:21:43,560] x nu,
+- [00:21:43,740 - 00:21:45,420] now remember we sum over nu,
+- [00:21:47,399 - 00:21:49,320] this is shorthand,
+- [00:21:49,360 - 00:21:51,740] for this set of four equations here,
+- [00:21:54,620 - 00:21:55,620] summing over nu,
+- [00:21:58,240 - 00:21:59,480] and if we do that,
+- [00:21:59,520 - 00:22:01,480] we can read off the component,
+- [00:22:01,700 - 00:22:02,000] or we could,
+- [00:22:02,060 - 00:22:03,360] another way to think about it,
+- [00:22:03,420 - 00:22:04,000] same equation,
+- [00:22:04,120 - 00:22:06,400] is to line up x prime,
+- [00:22:08,600 - 00:22:10,780] this is x one,
+- [00:22:11,460 - 00:22:12,320] x two,
+- [00:22:12,500 - 00:22:13,340] x three,
+- [00:22:13,440 - 00:22:14,820] x four,
+- [00:22:15,080 - 00:22:15,540] no,
+- [00:22:15,540 - 00:22:15,860] sorry,
+- [00:22:16,000 - 00:22:16,500] x zero,
+- [00:22:16,600 - 00:22:17,220] x one,
+- [00:22:17,760 - 00:22:18,600] x two,
+- [00:22:18,640 - 00:22:19,220] x three,
+- [00:22:20,580 - 00:22:22,420] and prime the whole thing,
+- [00:22:23,980 - 00:22:26,560] I don't want to put the primes in here,
+- [00:22:26,680 - 00:22:27,180] there's too many,
+- [00:22:27,300 - 00:22:27,580] that'll,
+- [00:22:27,980 - 00:22:29,100] make it look like it's x eleven,
+- [00:22:29,380 - 00:22:30,140] or x twenty one,
+- [00:22:30,220 - 00:22:31,060] or x twenty three,
+- [00:22:31,140 - 00:22:31,800] I don't want to do that,
+- [00:22:31,960 - 00:22:33,260] just prime on the outside,
+- [00:22:34,399 - 00:22:37,420] and that's given by some matrix L,
+- [00:22:37,660 - 00:22:38,880] a four by four matrix,
+- [00:22:39,600 - 00:22:41,320] whose components are called mu,
+- [00:22:41,320 - 00:22:41,500] nu,
+- [00:22:42,399 - 00:22:44,100] times the column vector,
+- [00:22:44,720 - 00:22:45,520] x naught,
+- [00:22:45,520 - 00:22:46,240] x one,
+- [00:22:46,240 - 00:22:47,140] x two,
+- [00:22:47,140 - 00:22:47,700] x three,
+- [00:22:49,080 - 00:22:50,040] same equation,
+- [00:22:53,400 - 00:22:54,560] and the matrix L,
+- [00:22:54,740 - 00:22:56,300] can we read off the matrix L,
+- [00:22:56,300 - 00:22:57,980] sure we can read off the matrix L,
+- [00:22:58,040 - 00:22:59,160] we can read off the matrix L,
+- [00:22:59,280 - 00:23:00,540] from this equation here,
+- [00:23:01,740 - 00:23:03,160] I'll write it down for you,
+- [00:23:04,900 - 00:23:06,120] the matrix L,
+- [00:23:06,300 - 00:23:08,180] that's associated with the Lorentz transformation,
+- [00:23:08,800 - 00:23:10,620] is again a four by four matrix,
+- [00:23:11,660 - 00:23:13,540] I put lines in so that,
+- [00:23:13,640 - 00:23:14,780] just to guide my eye,
+- [00:23:14,900 - 00:23:18,640] I'm not very good at keeping rows and columns neat,
+- [00:23:18,900 - 00:23:19,820] so I put the lines in,
+- [00:23:20,440 - 00:23:20,880] alright,
+- [00:23:20,960 - 00:23:22,460] so x naught prime is a,
+- [00:23:24,280 - 00:23:26,280] one over square root of,
+- [00:23:26,280 - 00:23:27,860] one minus v squared here,
+- [00:23:28,060 - 00:23:30,100] there's a one over square root of,
+- [00:23:30,180 - 00:23:31,500] one minus v squared here,
+- [00:23:32,080 - 00:23:34,000] there's a v over square root,
+- [00:23:34,100 - 00:23:35,100] of one minus v squared,
+- [00:23:37,000 - 00:23:37,840] also here,
+- [00:23:37,940 - 00:23:39,240] v over square root of,
+- [00:23:39,280 - 00:23:40,240] one minus v squared,
+- [00:23:42,480 - 00:23:42,920] zero,
+- [00:23:42,920 - 00:23:43,540] zero,
+- [00:23:43,540 - 00:23:44,080] zero,
+- [00:23:44,080 - 00:23:44,460] zero,
+- [00:23:44,560 - 00:23:45,040] zero,
+- [00:23:45,040 - 00:23:45,540] zero,
+- [00:23:45,540 - 00:23:45,980] zero,
+- [00:23:45,980 - 00:23:46,300] zero,
+- [00:23:46,300 - 00:23:46,540] zero,
+- [00:23:46,660 - 00:23:47,260] one,
+- [00:23:47,260 - 00:23:47,920] one.
+- [00:23:50,699 - 00:23:51,139] ah,
+- [00:23:51,139 - 00:23:51,580] sorry,
+- [00:23:51,720 - 00:23:53,090] I didn't hear what you said but I
+- [00:23:53,090 - 00:23:54,460] suspect you said there was a minus sign here,
+- [00:23:54,680 - 00:23:55,420] is that what you said?
+- [00:23:56,280 - 00:23:56,440] Thank you.
+- [00:23:59,300 - 00:24:00,420] And it's correct,
+- [00:24:00,420 - 00:24:01,020] of course.
+- [00:24:01,080 - 00:24:03,040] The minus sign is this one over here.
+- [00:24:05,680 - 00:24:06,620] And now we have it.
+- [00:24:09,100 - 00:24:12,700] If this matrix is multiplied by x0,
+- [00:24:12,700 - 00:24:13,220] x1,
+- [00:24:13,220 - 00:24:13,560] x2,
+- [00:24:13,560 - 00:24:14,020] x3,
+- [00:24:14,060 - 00:24:16,480] also a.k.a.
+- [00:24:16,480 - 00:24:16,840] t,
+- [00:24:16,840 - 00:24:17,360] x,
+- [00:24:17,360 - 00:24:17,640] y,
+- [00:24:17,640 - 00:24:17,960] and z,
+- [00:24:18,100 - 00:24:18,620] a.k.a.
+- [00:24:18,620 - 00:24:19,860] stands for also known as,
+- [00:24:19,960 - 00:24:20,520] t,
+- [00:24:20,520 - 00:24:21,000] x,
+- [00:24:21,000 - 00:24:21,300] y,
+- [00:24:21,300 - 00:24:21,680] and z,
+- [00:24:22,139 - 00:24:25,680] it simply reproduces these four equations over here.
+- [00:24:26,560 - 00:24:28,700] So this is the matrix
+- [00:24:28,700 - 00:24:30,840] which represents the Lorentz transformation
+- [00:24:31,460 - 00:24:34,500] by velocity v along the x-axis.
+- [00:24:35,620 - 00:24:36,380] All right,
+- [00:24:36,380 - 00:24:37,810] now what do we do with
+- [00:24:37,810 - 00:24:39,240] a tensor like F mu nu?
+- [00:24:40,600 - 00:24:42,260] How do we transform it?
+- [00:24:42,520 - 00:24:45,060] I will take the tensor with the upper,
+- [00:24:45,200 - 00:24:47,260] the upper version of it.
+- [00:24:48,000 - 00:24:48,560] Why?
+- [00:24:49,260 - 00:24:51,570] Just because I already have
+- [00:24:51,570 - 00:24:53,880] rules for things with upper indices.
+- [00:24:54,000 - 00:24:55,100] I've written them down there.
+- [00:24:55,699 - 00:24:58,800] How do you transform a thing with two upper indices?
+- [00:24:59,460 - 00:25:01,030] Here we know how to transform
+- [00:25:01,030 - 00:25:02,600] a thing with one upper index.
+- [00:25:03,520 - 00:25:06,600] Here's the transformation for a thing with one upper index.
+- [00:25:07,960 - 00:25:08,720] In fact,
+- [00:25:08,720 - 00:25:10,220] you know what I'm going to do?
+- [00:25:10,280 - 00:25:11,780] I'm going to change this index here.
+- [00:25:11,860 - 00:25:12,840] I'm going to call it sigma.
+- [00:25:14,060 - 00:25:14,460] Sigma.
+- [00:25:15,340 - 00:25:16,600] It's a summation index,
+- [00:25:16,840 - 00:25:18,540] and so it doesn't matter what I call it.
+- [00:25:20,040 - 00:25:20,940] I'll call it sigma.
+- [00:25:22,460 - 00:25:23,020] All right,
+- [00:25:23,020 - 00:25:24,320] so let me write down for you,
+- [00:25:24,320 - 00:25:27,400] and it's more or less obvious what to do.
+- [00:25:27,480 - 00:25:34,420] You write down that F mu nu prime,
+- [00:25:35,640 - 00:25:38,420] the field tensor in the new coordinates,
+- [00:25:38,460 - 00:25:39,140] in other words,
+- [00:25:39,140 - 00:25:40,580] in the moving reference frame,
+- [00:25:44,340 - 00:25:47,480] is L mu sigma,
+- [00:25:48,400 - 00:25:50,190] exactly that same object that's up
+- [00:25:50,190 - 00:25:51,980] on the top of the blackboard.
+- [00:25:52,620 - 00:25:54,300] That's how the mu index works.
+- [00:25:54,320 - 00:25:58,740] That's associated with the transformation of the mu index.
+- [00:25:59,040 - 00:26:00,780] The transformation of the new
+- [00:26:00,780 - 00:26:02,520] index is you put another L
+- [00:26:02,520 - 00:26:08,240] and introduce another summation index.
+- [00:26:08,700 - 00:26:10,460] What do you multiply it by?
+- [00:26:10,640 - 00:26:14,940] You multiply it by F sigma tau.
+- [00:26:16,920 - 00:26:18,200] In other words,
+- [00:26:18,200 - 00:26:21,980] the way the mu index transforms
+- [00:26:21,980 - 00:26:23,140] is exactly the way it would
+- [00:26:23,140 - 00:26:24,300] be if you put another L.
+- [00:26:24,300 - 00:26:26,200] You would if there was only the mu index.
+- [00:26:26,540 - 00:26:27,520] L mu sigma,
+- [00:26:27,520 - 00:26:28,340] F sigma.
+- [00:26:28,720 - 00:26:30,980] The way the new index transforms
+- [00:26:30,980 - 00:26:34,580] is exactly the way a new index would transform.
+- [00:26:35,020 - 00:26:35,940] L nu tau,
+- [00:26:35,940 - 00:26:37,200] F tau.
+- [00:26:37,760 - 00:26:39,600] When both indices are present,
+- [00:26:39,600 - 00:26:40,280] that's it.
+- [00:26:40,400 - 00:26:41,160] Very simple rule.
+- [00:26:41,760 - 00:26:45,020] If you had an object with more indices,
+- [00:26:45,860 - 00:26:47,600] you could have any number of indices,
+- [00:26:48,300 - 00:26:50,740] the rule would be the same for every index
+- [00:26:50,740 - 00:26:52,120] you transform the same way.
+- [00:26:52,320 - 00:26:52,660] All right,
+- [00:26:52,660 - 00:26:54,180] so that's the rule for transformation.
+- [00:26:54,300 - 00:26:55,040] So that's the whole idea of the transformation of tensors.
+- [00:26:55,280 - 00:26:57,280] And now let's try it out.
+- [00:26:57,380 - 00:27:00,330] Let's see if we can figure
+- [00:27:00,330 - 00:27:03,280] out what the primed tensor is.
+- [00:27:03,380 - 00:27:05,420] Let's see if we can discover whether or not
+- [00:27:05,420 - 00:27:14,400] there is an electric field along the x-axis.
+- [00:27:15,260 - 00:27:16,400] Is that what we want?
+- [00:27:16,500 - 00:27:17,440] An electric field?
+- [00:27:18,060 - 00:27:18,580] Yes.
+- [00:27:23,680 - 00:27:24,200] Okay.
+- [00:27:32,500 - 00:27:33,100] Let's see.
+- [00:27:33,160 - 00:27:33,360] Let's see if we can figure
+- [00:27:33,360 - 00:27:33,560] out what the primed tensor is.
+- [00:27:33,560 - 00:27:33,580] We were...
+- [00:27:35,000 - 00:27:37,920] We had a particle moving along this axis here.
+- [00:27:38,000 - 00:27:40,860] We had a B field coming out along the y-axis.
+- [00:27:41,600 - 00:27:43,360] And we're now going to move,
+- [00:27:43,440 - 00:27:45,420] so we should see a
+- [00:27:45,420 - 00:27:47,400] Z component of an electric field.
+- [00:27:47,680 - 00:27:49,220] The question is will we see
+- [00:27:49,220 - 00:27:50,760] a Z component of electric field?
+- [00:27:51,200 - 00:27:51,720] Okay.
+- [00:27:52,280 - 00:27:52,800] So,
+- [00:27:52,800 - 00:27:53,720] let's try it.
+- [00:27:53,720 - 00:27:55,640] Let's try to compute the
+- [00:27:55,640 - 00:27:57,560] Z component of the electric field
+- [00:27:57,560 - 00:27:59,520] in the primed reference frame.
+- [00:27:59,920 - 00:28:09,060] We can call this E prime or EZ prime.
+- [00:28:10,360 - 00:28:11,980] Let's see if we can calculate that.
+- [00:28:12,060 - 00:28:12,200] Now,
+- [00:28:12,200 - 00:28:12,740] what is it?
+- [00:28:13,220 - 00:28:14,220] What is it?
+- [00:28:14,540 - 00:28:23,480] EZ is really F naught Z.
+- [00:28:25,500 - 00:28:27,260] F naught Z is EZ.
+- [00:28:27,320 - 00:28:28,360] I'm not going to worry about signs.
+- [00:28:28,600 - 00:28:31,140] Signs are too complicated for me to keep track of.
+- [00:28:31,440 - 00:28:33,060] It's either plus or minus this,
+- [00:28:33,100 - 00:28:34,760] and it's not terribly important right now.
+- [00:28:34,960 - 00:28:39,560] F naught Z is the Z component of...
+- [00:28:39,560 - 00:28:40,420] or F time,
+- [00:28:40,420 - 00:28:42,020] the mixed space-time component,
+- [00:28:43,300 - 00:28:47,240] is the electric field,
+- [00:28:47,300 - 00:28:49,140] the primed version of this.
+- [00:28:49,880 - 00:28:51,440] That's what I would like to compute.
+- [00:28:52,500 - 00:28:53,020] So,
+- [00:28:53,020 - 00:28:53,460] let's say I want to compute the electric field.
+- [00:28:53,460 - 00:28:54,080] Now,
+- [00:28:54,080 - 00:28:57,420] let's go up to this equation and compute it.
+- [00:28:57,520 - 00:28:58,200] What do we know,
+- [00:28:58,200 - 00:28:58,880] incidentally?
+- [00:28:59,020 - 00:29:02,200] We know something about the unprimed tensor.
+- [00:29:02,380 - 00:29:03,920] What do we know about the unprimed tensor?
+- [00:29:07,200 - 00:29:13,460] That it's a pure magnetic field along the Y axis.
+- [00:29:13,880 - 00:29:14,440] Right?
+- [00:29:14,760 - 00:29:17,640] It's a pure magnetic field along the Y axis,
+- [00:29:17,640 - 00:29:18,840] the unprimed.
+- [00:29:19,260 - 00:29:19,820] So,
+- [00:29:19,820 - 00:29:22,680] we know that on the right-hand side,
+- [00:29:23,460 - 00:29:27,280] the F sigma tau has only one component.
+- [00:29:28,290 - 00:29:29,200] And what is it?
+- [00:29:29,540 - 00:29:33,700] It's FxZ.
+- [00:29:35,639 - 00:29:39,480] FxZ is what corresponds to By.
+- [00:29:41,600 - 00:29:43,300] FxZ is By.
+- [00:29:43,440 - 00:29:43,760] So,
+- [00:29:43,760 - 00:29:44,660] on the right-hand side,
+- [00:29:44,660 - 00:29:46,620] there will be an FxZ.
+- [00:29:47,740 - 00:29:50,000] There will be two Ls.
+- [00:29:51,860 - 00:29:53,440] And let's now match...
+- [00:29:53,460 - 00:29:53,580] Let's now match indices.
+- [00:29:56,060 - 00:29:56,560] Notice,
+- [00:29:56,560 - 00:30:00,660] this mu index here matches the mu index up here.
+- [00:30:01,060 - 00:30:01,560] So,
+- [00:30:01,560 - 00:30:03,220] we're looking for F0Z.
+- [00:30:03,340 - 00:30:05,540] There had better be a 0 index up here.
+- [00:30:06,200 - 00:30:07,160] What about nu?
+- [00:30:10,480 - 00:30:14,980] Nu is associated with the second index here,
+- [00:30:15,140 - 00:30:15,660] and that's Z.
+- [00:30:16,240 - 00:30:16,740] So,
+- [00:30:16,740 - 00:30:17,900] there has to be a Z up here.
+- [00:30:19,800 - 00:30:21,660] What about the lower indices,
+- [00:30:21,660 - 00:30:22,940] sigma and tau?
+- [00:30:23,460 - 00:30:24,020] Well,
+- [00:30:24,020 - 00:30:28,520] those have to match the indices over here.
+- [00:30:30,400 - 00:30:31,080] So,
+- [00:30:31,080 - 00:30:33,340] that means that this one is
+- [00:30:33,340 - 00:30:35,600] X and this one is Z.
+- [00:30:38,200 - 00:30:39,680] What happened to the summation
+- [00:30:39,680 - 00:30:41,160] that you were supposed to do
+- [00:30:41,160 - 00:30:43,460] that's implicit in these formulas here?
+- [00:30:44,260 - 00:30:44,940] Well,
+- [00:30:44,940 - 00:30:47,220] the summation collapses to a single term
+- [00:30:47,220 - 00:30:50,330] for the simple reason that we're assuming
+- [00:30:50,330 - 00:30:53,440] that there's only one component of F here.
+- [00:30:54,220 - 00:30:54,820] Namely,
+- [00:30:54,820 - 00:30:56,200] the component FxZ.
+- [00:30:56,380 - 00:30:58,420] And we're only looking for
+- [00:30:58,420 - 00:31:00,460] one component on the left-hand side.
+- [00:31:01,400 - 00:31:03,430] We're trying to compute a
+- [00:31:03,430 - 00:31:05,460] particular component on the left-hand side.
+- [00:31:06,180 - 00:31:09,580] And there only is an FxZ on the right-hand side.
+- [00:31:09,820 - 00:31:12,260] We've assumed only a B
+- [00:31:12,260 - 00:31:14,700] component sticking out of the blackboard.
+- [00:31:15,500 - 00:31:16,100] Alright,
+- [00:31:16,100 - 00:31:16,860] so now let's see.
+- [00:31:17,000 - 00:31:17,880] What is...
+- [00:31:18,440 - 00:31:19,500] Here is our matrix.
+- [00:31:20,480 - 00:31:21,980] Let's put these things in.
+- [00:31:21,980 - 00:31:22,060] N,
+- [00:31:22,060 - 00:31:22,400] 0,
+- [00:31:22,400 - 00:31:23,900] X,
+- [00:31:23,900 - 00:31:24,920] Y,
+- [00:31:24,920 - 00:31:25,800] Z.
+- [00:31:27,200 - 00:31:28,260] What is L,
+- [00:31:28,260 - 00:31:28,700] Z,
+- [00:31:28,700 - 00:31:29,260] Z?
+- [00:31:31,480 - 00:31:32,400] That's just one.
+- [00:31:33,620 - 00:31:34,100] Okay?
+- [00:31:34,620 - 00:31:35,100] So,
+- [00:31:35,100 - 00:31:35,400] L,
+- [00:31:35,400 - 00:31:35,720] Z,
+- [00:31:35,720 - 00:31:36,440] Z is just one.
+- [00:31:36,500 - 00:31:38,080] I don't think I will erase it.
+- [00:31:38,160 - 00:31:39,280] I'll just put one over here.
+- [00:31:39,900 - 00:31:43,480] But what about the mixed component L,
+- [00:31:43,480 - 00:31:43,940] 0,
+- [00:31:43,940 - 00:31:44,460] X?
+- [00:31:45,840 - 00:31:47,260] That's this one over here.
+- [00:31:47,580 - 00:31:48,060] 0,
+- [00:31:48,060 - 00:31:48,780] X.
+- [00:31:49,680 - 00:31:50,160] So,
+- [00:31:50,160 - 00:31:50,980] this one over here
+- [00:31:50,980 - 00:31:53,640] has a minus V over square
+- [00:31:53,640 - 00:31:56,300] root of 1 minus V squared.
+- [00:31:57,100 - 00:31:57,620] So,
+- [00:31:57,620 - 00:32:00,060] this product is nothing but our
+- [00:32:00,060 - 00:32:02,500] old friend V plus or minus,
+- [00:32:02,500 - 00:32:03,020] not important,
+- [00:32:03,120 - 00:32:05,200] V over square root of 1 minus V squared.
+- [00:32:05,720 - 00:32:08,880] And the Z goes along for the ride.
+- [00:32:09,780 - 00:32:10,300] Now,
+- [00:32:10,300 - 00:32:11,680] what about FxZ?
+- [00:32:11,940 - 00:32:12,540] What is that?
+- [00:32:14,240 - 00:32:16,500] That's just the magnetic field that we started with,
+- [00:32:16,500 - 00:32:16,740] right?
+- [00:32:17,440 - 00:32:17,960] So,
+- [00:32:17,960 - 00:32:19,440] this is just B,
+- [00:32:19,440 - 00:32:20,140] B sub Y.
+- [00:32:20,140 - 00:32:21,480] The original B sub Y.
+- [00:32:28,220 - 00:32:30,160] And what's the left-hand side?
+- [00:32:30,560 - 00:32:32,730] The left-hand side is the
+- [00:32:32,730 - 00:32:34,900] electric field along the Z axis.
+- [00:32:36,060 - 00:32:37,480] That's along this axis.
+- [00:32:37,580 - 00:32:39,480] The electric field along the Z axis
+- [00:32:41,560 - 00:32:44,280] in the moving frame of reference.
+- [00:32:44,840 - 00:32:45,440] So,
+- [00:32:45,440 - 00:32:46,200] in particular,
+- [00:32:46,200 - 00:32:47,620] we see that it's not 0.
+- [00:32:47,620 - 00:32:51,220] We started with an electric field which was 0
+- [00:32:51,220 - 00:32:56,000] and a magnetic field only along the Y axis.
+- [00:32:57,200 - 00:33:01,660] We subjected ourselves to a motion along the X axis.
+- [00:33:01,880 - 00:33:03,280] And what do we discover?
+- [00:33:03,500 - 00:33:04,700] That there is,
+- [00:33:04,700 - 00:33:05,360] in fact,
+- [00:33:05,360 - 00:33:07,980] a Z component of the electric field
+- [00:33:07,980 - 00:33:09,580] in the new frame of reference.
+- [00:33:10,640 - 00:33:12,520] But in the new frame of reference,
+- [00:33:13,899 - 00:33:15,100] the electron,
+- [00:33:15,100 - 00:33:16,460] or whatever it is,
+- [00:33:16,460 - 00:33:17,640] is not moving.
+- [00:33:18,740 - 00:33:19,260] Well,
+- [00:33:19,260 - 00:33:20,020] I assumed that.
+- [00:33:20,040 - 00:33:21,620] I assumed that I moved fast
+- [00:33:21,620 - 00:33:23,200] enough to keep up with the electron.
+- [00:33:23,480 - 00:33:24,280] And therefore,
+- [00:33:24,280 - 00:33:26,100] there's no magnetic force on it.
+- [00:33:26,400 - 00:33:28,540] It's at rest in my frame.
+- [00:33:28,840 - 00:33:29,560] My frame,
+- [00:33:29,560 - 00:33:30,560] moving with the electron.
+- [00:33:30,880 - 00:33:32,520] The electron is at rest.
+- [00:33:32,880 - 00:33:33,840] But nevertheless,
+- [00:33:33,840 - 00:33:35,420] there is a force on it,
+- [00:33:35,460 - 00:33:37,120] and the force on it is electric.
+- [00:33:38,260 - 00:33:39,520] It's an electric force,
+- [00:33:40,280 - 00:33:41,060] which is,
+- [00:33:41,060 - 00:33:41,440] in fact,
+- [00:33:41,440 - 00:33:43,000] proportional to the velocity.
+- [00:33:43,360 - 00:33:45,740] This 1 minus V squared over C squared.
+- [00:33:45,740 - 00:33:46,780] This is something very,
+- [00:33:46,780 - 00:33:47,760] very close to 1,
+- [00:33:47,880 - 00:33:49,760] as long as the velocity is not very large.
+- [00:33:50,100 - 00:33:51,340] And so we discover,
+- [00:33:51,520 - 00:33:53,340] in the moving frame of reference,
+- [00:33:53,480 - 00:33:54,360] the same effect,
+- [00:33:55,300 - 00:33:58,380] the effect which in the stationary frame of reference
+- [00:33:58,380 - 00:34:01,320] was due to the magnetic field and the moving charge,
+- [00:34:02,180 - 00:34:04,120] becomes an electric field
+- [00:34:04,740 - 00:34:05,940] acting on a static,
+- [00:34:05,940 - 00:34:07,160] stationary charge.
+- [00:34:07,780 - 00:34:10,280] That was the content,
+- [00:34:10,280 - 00:34:10,960] if you like,
+- [00:34:11,120 - 00:34:15,239] of the first paragraph of Einstein's paper.
+- [00:34:16,460 - 00:34:17,300] Of course,
+- [00:34:17,300 - 00:34:17,840] no.
+- [00:34:17,940 - 00:34:19,360] The content was the question.
+- [00:34:19,600 - 00:34:22,219] The rest of the paper was the answer,
+- [00:34:22,400 - 00:34:23,460] and this was the answer.
+- [00:34:25,260 - 00:34:25,780] Okay,
+- [00:34:25,780 - 00:34:26,239] so that,
+- [00:34:26,239 - 00:34:27,440] wow.
+- [00:34:27,739 - 00:34:29,300] That took over 40 minutes.
+- [00:34:29,320 - 00:34:30,060] Holy smoke.
+- [00:34:30,860 - 00:34:31,380] Well,
+- [00:34:31,380 - 00:34:32,820] it took Einstein 10 years.
+- [00:34:34,179 - 00:34:34,840] All right,
+- [00:34:34,840 - 00:34:36,360] let's come to Maxwell's equations now.
+- [00:34:36,500 - 00:34:37,900] Let's come to Maxwell's equations.
+- [00:34:40,520 - 00:34:42,129] I am not going to derive
+- [00:34:42,129 - 00:34:43,739] them today from an action principle.
+- [00:34:44,040 - 00:34:45,719] If we went back to the first part
+- [00:34:45,739 - 00:34:47,260] to our standard methodology,
+- [00:34:47,620 - 00:34:50,980] usually we know what the answer
+- [00:34:50,980 - 00:34:52,760] for the equations of motion is,
+- [00:34:52,900 - 00:34:54,409] and then we look for
+- [00:34:54,409 - 00:34:55,920] an action principle to describe it.
+- [00:34:56,040 - 00:34:57,700] We could go the other way,
+- [00:34:57,900 - 00:35:00,560] and next week I will go the other way
+- [00:35:00,560 - 00:35:04,180] and start with the basic action principle
+- [00:35:04,180 - 00:35:06,260] and derive the equations of motion
+- [00:35:06,260 - 00:35:07,600] of the electromagnetic field.
+- [00:35:08,540 - 00:35:09,100] Uh...
+- [00:35:10,500 - 00:35:11,080] What's that?
+- [00:35:11,340 - 00:35:12,500] Isn't that what you already did?
+- [00:35:13,640 - 00:35:14,200] No.
+- [00:35:14,340 - 00:35:14,500] Oh,
+- [00:35:14,500 - 00:35:15,000] you're talking about...
+- [00:35:15,740 - 00:35:17,220] We're talking about the field equations,
+- [00:35:17,480 - 00:35:19,160] not the equations for the charged particle.
+- [00:35:20,560 - 00:35:21,000] Okay.
+- [00:35:21,920 - 00:35:24,220] There are two kinds of Maxwell's.
+- [00:35:24,220 - 00:35:26,000] How many Maxwell's equations are there altogether?
+- [00:35:26,160 - 00:35:27,080] I will tell you the answer.
+- [00:35:27,160 - 00:35:27,880] Don't try to figure out that.
+- [00:35:27,920 - 00:35:28,140] Eight.
+- [00:35:29,540 - 00:35:31,280] But they come in combinations.
+- [00:35:31,660 - 00:35:34,100] Vector notation converts them into four.
+- [00:35:35,960 - 00:35:36,400] Eight?
+- [00:35:36,760 - 00:35:37,200] One,
+- [00:35:37,200 - 00:35:37,540] two,
+- [00:35:37,540 - 00:35:37,840] three,
+- [00:35:37,840 - 00:35:38,140] four,
+- [00:35:38,140 - 00:35:38,440] five,
+- [00:35:38,440 - 00:35:38,700] six,
+- [00:35:38,700 - 00:35:39,120] seven,
+- [00:35:39,120 - 00:35:39,320] eight.
+- [00:35:39,440 - 00:35:39,700] Yes.
+- [00:35:42,220 - 00:35:43,100] Eight equations.
+- [00:35:45,600 - 00:35:47,180] Half of them,
+- [00:35:47,180 - 00:35:48,020] four of them,
+- [00:35:48,020 - 00:35:50,200] come for free.
+- [00:35:50,620 - 00:35:51,880] They come for free.
+- [00:35:51,940 - 00:35:55,120] They are consequences of the definitions
+- [00:35:55,120 - 00:35:57,920] of the electric and magnetic fields
+- [00:35:57,920 - 00:35:59,900] in terms of the vector potential.
+- [00:36:00,640 - 00:36:01,840] In other words,
+- [00:36:01,940 - 00:36:06,420] half of the equations are simply identities
+- [00:36:07,880 - 00:36:09,160] that follow...
+- [00:36:14,820 - 00:36:16,660] ...from these equations
+- [00:36:16,660 - 00:36:19,480] together with some identities,
+- [00:36:19,880 - 00:36:21,160] some vector identities.
+- [00:36:21,400 - 00:36:22,880] Identities are what an identity is.
+- [00:36:22,920 - 00:36:26,180] An identity is a mathematical fact
+- [00:36:26,180 - 00:36:29,800] which just follows basically from a definition.
+- [00:36:31,120 - 00:36:32,140] But sometimes,
+- [00:36:32,140 - 00:36:34,140] even though they just follow from a definition,
+- [00:36:34,380 - 00:36:37,240] sometimes they're a little bit non-obvious.
+- [00:36:37,540 - 00:36:37,780] Okay,
+- [00:36:37,780 - 00:36:40,500] so let me start with two basic identities.
+- [00:36:41,940 - 00:36:48,980] The first identity involves the divergence of a curl.
+- [00:36:50,020 - 00:36:52,840] A now does not have to be the vector potential.
+- [00:36:53,240 - 00:36:55,720] A stands for any three vector.
+- [00:36:56,900 - 00:36:59,620] I'm only the three components for the moment.
+- [00:36:59,820 - 00:37:01,700] A stands for a three vector.
+- [00:37:02,580 - 00:37:06,060] And del cross A is the
+- [00:37:06,060 - 00:37:09,540] curl of a certain three vector
+- [00:37:09,540 - 00:37:10,480] which has been called A.
+- [00:37:12,100 - 00:37:13,520] As I said,
+- [00:37:13,520 - 00:37:16,320] A could be any three vector field.
+- [00:37:16,980 - 00:37:18,350] It has to be a field
+- [00:37:18,350 - 00:37:19,720] because we're going to differentiate it,
+- [00:37:19,840 - 00:37:22,360] but it could be any three vector field,
+- [00:37:22,360 - 00:37:22,640] whatever.
+- [00:37:22,840 - 00:37:24,120] It doesn't have to be the vector potential.
+- [00:37:32,700 - 00:37:35,340] Does anybody here not know the definition of the curl?
+- [00:37:36,800 - 00:37:38,630] I'm going to assume everybody
+- [00:37:38,630 - 00:37:40,460] knows the definition of curl divergence.
+- [00:37:40,460 - 00:37:41,180] It's the divergence and gradient.
+- [00:37:43,420 - 00:37:43,900] Alright,
+- [00:37:43,900 - 00:37:47,000] so the first identity is...
+- [00:37:49,680 - 00:37:51,200] What is the nature of this object?
+- [00:37:51,320 - 00:37:52,200] What's the nature of a curl?
+- [00:37:52,400 - 00:37:54,360] The nature of a curl is it's another vector.
+- [00:37:54,700 - 00:37:56,020] It's another vector field.
+- [00:37:56,900 - 00:37:57,380] Alright,
+- [00:37:57,380 - 00:37:59,540] a curl is a vector field.
+- [00:38:00,380 - 00:38:01,700] And as such,
+- [00:38:01,700 - 00:38:02,700] it has a divergence.
+- [00:38:04,380 - 00:38:05,200] Del dot.
+- [00:38:06,220 - 00:38:08,420] Maybe I should put over here the definition
+- [00:38:08,420 - 00:38:10,660] of curl and divergence,
+- [00:38:10,660 - 00:38:11,960] just since we use them.
+- [00:38:18,260 - 00:38:21,030] The curl of a vector
+- [00:38:21,030 - 00:38:23,800] can be specified by its components.
+- [00:38:24,300 - 00:38:25,380] For example,
+- [00:38:25,380 - 00:38:28,060] the x component of the curl of A
+- [00:38:28,060 - 00:38:34,720] is by definition dyAz minus dzAy.
+- [00:38:36,560 - 00:38:37,240] And...
+- [00:38:37,939 - 00:38:40,920] You cycle through going from one to the next.
+- [00:38:41,300 - 00:38:42,640] You let x go to
+- [00:38:42,640 - 00:38:43,980] y and y go to z.
+- [00:38:44,100 - 00:38:46,700] You can work out the other two components.
+- [00:38:50,000 - 00:38:50,400] Well,
+- [00:38:50,400 - 00:38:51,700] I'm not going to spell them out.
+- [00:38:51,760 - 00:38:52,480] You just cycle.
+- [00:38:53,560 - 00:38:54,760] Let x go to y.
+- [00:38:55,080 - 00:38:56,240] Let y go to z.
+- [00:38:56,400 - 00:38:57,580] Let z go to x.
+- [00:38:57,660 - 00:38:58,580] And cycle through them.
+- [00:38:58,720 - 00:39:00,000] And you can write out the
+- [00:39:00,000 - 00:39:01,280] other two components of the curl.
+- [00:39:02,600 - 00:39:03,440] Definition of the curl.
+- [00:39:05,560 - 00:39:06,900] Divergence of a vector,
+- [00:39:06,900 - 00:39:08,180] any vector now,
+- [00:39:08,400 - 00:39:12,640] del dot A for any vector,
+- [00:39:13,339 - 00:39:14,600] is a scalar quantity.
+- [00:39:15,160 - 00:39:17,450] And it's given by derivative with
+- [00:39:17,450 - 00:39:19,740] respect to x of the x component
+- [00:39:20,220 - 00:39:23,680] plus derivative with respect to y of the y component
+- [00:39:23,680 - 00:39:26,580] plus derivative with respect to z of the z component.
+- [00:39:29,240 - 00:39:31,380] And the last concept
+- [00:39:31,380 - 00:39:34,040] is the gradient of a scalar,
+- [00:39:34,040 - 00:39:35,140] which you know very well.
+- [00:39:35,280 - 00:39:37,880] I'm just writing them out so that we'll have them.
+- [00:39:38,320 - 00:39:40,620] The gradient of a scalar
+- [00:39:41,240 - 00:39:42,480] is a vector.
+- [00:39:43,620 - 00:39:45,480] And it's a vector whose components,
+- [00:39:46,000 - 00:39:46,720] for example,
+- [00:39:46,720 - 00:39:47,700] whose x component
+- [00:39:48,380 - 00:39:51,720] is just derivative of s with respect to x.
+- [00:39:52,480 - 00:39:54,500] And likewise for y and z.
+- [00:39:54,920 - 00:39:55,520] Alright,
+- [00:39:55,520 - 00:39:56,660] so here's the identities.
+- [00:39:57,440 - 00:40:00,040] The first identity is the divergence
+- [00:40:00,040 - 00:40:03,520] of a curl is always zero.
+- [00:40:05,880 - 00:40:07,520] Now how do you prove that?
+- [00:40:07,840 - 00:40:09,440] You prove it just by
+- [00:40:09,440 - 00:40:11,040] writing out the whole damn thing.
+- [00:40:13,740 - 00:40:15,600] Does anybody want to see it?
+- [00:40:15,660 - 00:40:15,760] No,
+- [00:40:15,760 - 00:40:16,780] nobody wants to see it,
+- [00:40:16,780 - 00:40:16,900] right?
+- [00:40:17,000 - 00:40:17,220] No,
+- [00:40:17,220 - 00:40:17,760] no.
+- [00:40:18,080 - 00:40:20,900] You just literally write out
+- [00:40:20,900 - 00:40:23,760] the components of del cross A
+- [00:40:23,760 - 00:40:27,260] and then differentiate them according to the rule
+- [00:40:28,080 - 00:40:30,080] for a divergence.
+- [00:40:31,120 - 00:40:32,600] And you will find out
+- [00:40:32,600 - 00:40:34,980] that there's a whole bunch of cancellations.
+- [00:40:35,420 - 00:40:38,020] Typically the terms will involve something like
+- [00:40:38,020 - 00:40:39,610] derivative with respect to x times
+- [00:40:39,610 - 00:40:41,200] the derivative with respect to y
+- [00:40:41,200 - 00:40:42,540] which is d by dx,
+- [00:40:42,540 - 00:40:43,180] d by dy
+- [00:40:43,180 - 00:40:45,160] of some A something
+- [00:40:46,500 - 00:40:47,940] minus the derivatives,
+- [00:40:48,160 - 00:40:50,200] the same derivatives in the opposite order
+- [00:40:50,200 - 00:40:52,680] and you'll say that that's zero.
+- [00:40:52,860 - 00:40:54,580] So just a simple identity.
+- [00:40:55,920 - 00:40:58,620] Divergence of any curl is equal to zero.
+- [00:40:59,620 - 00:41:01,180] And the other identity
+- [00:41:02,020 - 00:41:05,980] is that the curl of any gradient is zero.
+- [00:41:06,060 - 00:41:07,380] Given that any gradient,
+- [00:41:08,320 - 00:41:13,280] the curl of del s
+- [00:41:14,400 - 00:41:15,960] this is a vector,
+- [00:41:15,960 - 00:41:17,200] del s is a vector.
+- [00:41:17,400 - 00:41:20,260] Let's put some signs here to
+- [00:41:20,260 - 00:41:23,120] indicate that there are three vectors.
+- [00:41:23,120 - 00:41:25,300] s is not a three vector,
+- [00:41:25,300 - 00:41:26,120] it's just a scalar.
+- [00:41:26,420 - 00:41:30,600] The curl of a gradient is also always zero.
+- [00:41:34,700 - 00:41:36,420] In particular I emphasize
+- [00:41:36,960 - 00:41:40,480] this is not a statement about any particular vector field
+- [00:41:40,480 - 00:41:41,680] like the vector potential.
+- [00:41:42,040 - 00:41:44,860] It's an identity that's true for any vector field.
+- [00:41:44,960 - 00:41:46,660] As long as it's differentiable
+- [00:41:46,660 - 00:41:47,680] and nicely,
+- [00:41:47,680 - 00:41:48,620] smoothly behaved
+- [00:41:48,620 - 00:41:50,040] so that you can do the derivatives.
+- [00:41:51,580 - 00:41:52,220] Okay.
+- [00:41:52,220 - 00:41:55,700] These two identities are enough to prove
+- [00:41:56,220 - 00:41:59,400] two or half of Maxwell's equations
+- [00:42:00,180 - 00:42:02,080] without doing anything else.
+- [00:42:02,880 - 00:42:03,980] In other words,
+- [00:42:03,980 - 00:42:05,480] they follow as definitions
+- [00:42:05,480 - 00:42:07,040] or they follow from definitions.
+- [00:42:12,840 - 00:42:16,560] Let's begin with the magnetic field
+- [00:42:16,560 - 00:42:18,880] which is the curl of A.
+- [00:42:18,880 - 00:42:22,800] And let's take the divergence of the magnetic field.
+- [00:42:27,300 - 00:42:29,880] Let's take the divergence of the magnetic field,
+- [00:42:29,980 - 00:42:31,980] del dot B.
+- [00:42:33,860 - 00:42:36,100] That's the source of the magnetic field
+- [00:42:36,100 - 00:42:38,040] in the sense that divergence,
+- [00:42:38,879 - 00:42:40,700] the outgoingness of the field,
+- [00:42:40,820 - 00:42:42,000] the tendency of the field
+- [00:42:42,000 - 00:42:43,180] to spread out from a point.
+- [00:42:44,580 - 00:42:48,860] Del dot B is equal to,
+- [00:42:48,860 - 00:42:49,960] del dot,
+- [00:42:51,320 - 00:42:52,300] curl of A.
+- [00:42:52,580 - 00:42:54,660] From the simple fact,
+- [00:42:54,940 - 00:42:56,300] or from the simple definition
+- [00:42:56,799 - 00:42:58,459] of the magnetic field is
+- [00:42:58,459 - 00:43:00,120] the curl of the vector potential.
+- [00:43:01,220 - 00:43:01,860] Alright.
+- [00:43:01,940 - 00:43:05,560] But the divergence of any curl is automatically zero.
+- [00:43:06,420 - 00:43:08,520] So without any further work,
+- [00:43:08,760 - 00:43:10,180] no dynamics,
+- [00:43:10,680 - 00:43:14,480] no just pure definition or pure kinematics if you like,
+- [00:43:14,620 - 00:43:17,260] the divergence of the magnetic field is zero.
+- [00:43:20,660 - 00:43:21,360] What is,
+- [00:43:21,460 - 00:43:22,920] just to get ahead of,
+- [00:43:22,920 - 00:43:24,560] to get ahead of ourselves for a moment,
+- [00:43:24,680 - 00:43:26,300] what is the divergence of the electric field?
+- [00:43:27,540 - 00:43:28,320] Charge density.
+- [00:43:28,320 - 00:43:28,980] Charge density,
+- [00:43:28,980 - 00:43:30,000] electric charge density.
+- [00:43:30,420 - 00:43:31,420] In particular,
+- [00:43:31,420 - 00:43:33,320] a point charge has a divergence,
+- [00:43:33,400 - 00:43:36,400] a spread of the electric field coming out.
+- [00:43:36,920 - 00:43:38,200] Among other things,
+- [00:43:40,080 - 00:43:41,220] this would say,
+- [00:43:42,140 - 00:43:43,420] if it could be trusted,
+- [00:43:44,780 - 00:43:47,660] that there cannot be magnetic charges.
+- [00:43:49,360 - 00:43:51,160] Magnetic field has no divergence,
+- [00:43:51,580 - 00:43:54,040] and so if we saw a configuration
+- [00:43:54,680 - 00:43:57,740] with a magnetic field coming out of a point,
+- [00:43:57,860 - 00:43:59,620] like out of a magnetic monopole,
+- [00:43:59,780 - 00:44:01,020] if there was such a thing,
+- [00:44:02,040 - 00:44:04,940] then we would say something's wrong with this equation.
+- [00:44:05,780 - 00:44:07,700] If there's something wrong with this equation,
+- [00:44:07,860 - 00:44:10,140] there must be something wrong with this definition.
+- [00:44:11,720 - 00:44:12,240] So,
+- [00:44:12,780 - 00:44:14,000] from a simplistic
+- [00:44:14,880 - 00:44:17,280] and a straightforward point of view,
+- [00:44:17,280 - 00:44:21,700] this equation says there are no magnetic charges.
+- [00:44:22,120 - 00:44:22,720] Now,
+- [00:44:22,840 - 00:44:25,220] we're going to have to come back at some point
+- [00:44:25,220 - 00:44:27,340] and understand
+- [00:44:29,360 - 00:44:31,660] there are ways around this,
+- [00:44:31,820 - 00:44:33,720] but simplistically,
+- [00:44:33,880 - 00:44:34,740] or simply,
+- [00:44:34,940 - 00:44:37,260] this is a statement that there are no
+- [00:44:38,000 - 00:44:39,700] sources of magnetic field.
+- [00:44:40,480 - 00:44:41,940] Now there's another equation,
+- [00:44:42,220 - 00:44:42,820] one of them,
+- [00:44:42,860 - 00:44:44,880] this is one of Maxwell's equations,
+- [00:44:45,060 - 00:44:45,820] there's another one,
+- [00:44:45,820 - 00:44:48,180] which also follows for free.
+- [00:44:53,780 - 00:44:55,280] Let's go back to the definition
+- [00:44:55,280 - 00:44:57,000] that the electric field,
+- [00:44:58,980 - 00:45:00,360] let's write it over here,
+- [00:45:01,980 - 00:45:03,360] let me just write this as
+- [00:45:03,360 - 00:45:04,340] electric field
+- [00:45:05,960 - 00:45:08,720] is equal to time derivative of the vector potential,
+- [00:45:10,020 - 00:45:11,200] indicate it that way,
+- [00:45:13,580 - 00:45:14,060] well,
+- [00:45:14,060 - 00:45:15,800] maybe I'll just write it as d-1,
+- [00:45:15,820 - 00:45:16,220] d by dt,
+- [00:45:16,460 - 00:45:17,780] d by dt of A,
+- [00:45:26,340 - 00:45:27,020] minus,
+- [00:45:28,600 - 00:45:28,940] now,
+- [00:45:29,820 - 00:45:33,060] derivative of A-naught with respect to x-n,
+- [00:45:33,160 - 00:45:37,080] that is just equal to the gradient of A-naught.
+- [00:45:40,120 - 00:45:42,700] From the three-dimensional point of view,
+- [00:45:42,780 - 00:45:43,400] just space,
+- [00:45:43,700 - 00:45:45,800] the time component of A-naught,
+- [00:45:45,800 - 00:45:47,220] can be thought of as a scalar.
+- [00:45:47,440 - 00:45:49,320] It's not a scalar from
+- [00:45:49,320 - 00:45:51,200] the point of four-dimensional vector spaces,
+- [00:45:51,620 - 00:45:53,140] but it is a scalar from
+- [00:45:53,140 - 00:45:54,660] the point of view of three dimensions.
+- [00:45:56,860 - 00:46:01,380] The vector whose components are derivative of A-naught
+- [00:46:01,380 - 00:46:04,860] can just be thought of as the gradient of A-naught.
+- [00:46:05,700 - 00:46:07,380] So we have the electric field,
+- [00:46:07,480 - 00:46:08,360] two terms in it,
+- [00:46:08,500 - 00:46:10,510] one is the time derivative
+- [00:46:10,510 - 00:46:12,520] of the space component of the,
+- [00:46:12,660 - 00:46:13,400] let's,
+- [00:46:13,400 - 00:46:15,780] of the vector potential,
+- [00:46:15,780 - 00:46:20,160] and the other is the gradient of the time component.
+- [00:46:21,020 - 00:46:21,620] Okay,
+- [00:46:21,620 - 00:46:22,160] now,
+- [00:46:22,160 - 00:46:22,820] let's,
+- [00:46:24,440 - 00:46:28,920] let's consider the curl of the electric field.
+- [00:46:29,960 - 00:46:33,700] The curl of the electric field is first of all,
+- [00:46:33,700 - 00:46:37,000] the curl of the time derivative of the vector potential,
+- [00:46:37,140 - 00:46:37,880] that's the first term.
+- [00:46:40,900 - 00:46:44,420] That also happens to be the time derivative,
+- [00:46:45,780 - 00:46:47,060] of the curl of A.
+- [00:46:49,200 - 00:46:50,100] Why is that?
+- [00:46:50,280 - 00:46:51,920] Because you can interchange derivatives.
+- [00:46:52,160 - 00:46:54,180] When I take a derivative to
+- [00:46:54,180 - 00:46:56,200] make a curl out of this,
+- [00:46:56,380 - 00:46:58,050] I can interchange the space
+- [00:46:58,050 - 00:46:59,720] derivative with the time derivative,
+- [00:46:59,920 - 00:47:02,480] and pull the time derivative on the outside.
+- [00:47:03,720 - 00:47:07,180] So the curl of the time derivative of A
+- [00:47:07,740 - 00:47:10,320] is the time derivative of the curl of A.
+- [00:47:11,340 - 00:47:12,080] Number one.
+- [00:47:12,760 - 00:47:13,680] Over here,
+- [00:47:13,680 - 00:47:14,840] then we have minus,
+- [00:47:14,840 - 00:47:19,440] the curl of the gradient of A naught.
+- [00:47:19,920 - 00:47:23,260] The curl of any gradient is equal to zero.
+- [00:47:24,140 - 00:47:25,600] So we get nothing from here.
+- [00:47:26,780 - 00:47:28,520] If I compute the curl of E,
+- [00:47:28,700 - 00:47:30,240] I get nothing from here,
+- [00:47:30,340 - 00:47:33,220] and just the time derivative of the curl of A.
+- [00:47:33,340 - 00:47:34,220] But what's the curl of A?
+- [00:47:34,600 - 00:47:37,420] The curl of A is just the magnetic field.
+- [00:47:39,080 - 00:47:39,560] So,
+- [00:47:39,560 - 00:47:39,660] zero.
+- [00:47:43,780 - 00:47:45,560] Here's another Maxwell equation.
+- [00:47:47,880 - 00:47:49,600] Curl of the electric field,
+- [00:47:50,580 - 00:47:54,680] let's write it as minus the time derivative
+- [00:47:55,440 - 00:47:58,420] of the magnetic field is equal to zero.
+- [00:48:01,319 - 00:48:04,600] Those are the two Maxwell equations that,
+- [00:48:04,600 - 00:48:05,120] as I said,
+- [00:48:05,240 - 00:48:09,500] follow from the fact that the electric and magnetic fields,
+- [00:48:09,560 - 00:48:12,180] are defined in terms of the vector potential.
+- [00:48:15,600 - 00:48:17,720] There are two more Maxwell equations.
+- [00:48:19,120 - 00:48:19,640] Well,
+- [00:48:19,640 - 00:48:21,040] how many equations is each?
+- [00:48:21,200 - 00:48:21,720] Really,
+- [00:48:21,720 - 00:48:23,020] how many equations are here?
+- [00:48:23,520 - 00:48:23,800] Well,
+- [00:48:23,800 - 00:48:25,460] this is a vector equation.
+- [00:48:25,620 - 00:48:26,720] It has three components.
+- [00:48:28,040 - 00:48:28,560] So,
+- [00:48:28,560 - 00:48:29,220] you know,
+- [00:48:29,220 - 00:48:31,180] this is really three independent equations,
+- [00:48:31,420 - 00:48:32,520] and this is a fourth one.
+- [00:48:33,140 - 00:48:35,600] So this stands for four independent equations.
+- [00:48:36,140 - 00:48:36,980] But of course,
+- [00:48:36,980 - 00:48:38,680] if we think of them in vector notation,
+- [00:48:39,560 - 00:48:41,320] this is one equation,
+- [00:48:41,320 - 00:48:42,440] which is a scalar equation,
+- [00:48:42,760 - 00:48:44,640] and one more which is a vector equation.
+- [00:48:45,740 - 00:48:46,780] These are...
+- [00:48:48,360 - 00:48:50,180] I'm not sure if they have names or not.
+- [00:48:50,320 - 00:48:54,340] This is one half of the Maxwell equations.
+- [00:48:54,780 - 00:48:56,780] The other half of the Maxwell equations,
+- [00:48:56,820 - 00:48:57,820] I'll write down over here.
+- [00:48:58,400 - 00:48:59,520] And this half
+- [00:49:01,260 - 00:49:05,120] is the half that you derive from the action principle.
+- [00:49:05,640 - 00:49:07,580] It's the half that is dynamical.
+- [00:49:07,660 - 00:49:09,360] It's the half that is not defined
+- [00:49:09,560 - 00:49:10,520] in terms of...
+- [00:49:10,520 - 00:49:13,000] is not purely definition.
+- [00:49:14,440 - 00:49:16,380] It could be different.
+- [00:49:16,840 - 00:49:19,320] If I chose a different action,
+- [00:49:19,540 - 00:49:22,240] then I could make the second half
+- [00:49:22,240 - 00:49:23,960] of the Maxwell equations be different.
+- [00:49:24,840 - 00:49:28,240] But the Maxwell equations as Maxwell knew them
+- [00:49:29,240 - 00:49:31,980] was entirely analogous to these two,
+- [00:49:32,160 - 00:49:35,060] basically with the electric and the magnetic field
+- [00:49:35,060 - 00:49:35,980] interchanged,
+- [00:49:35,980 - 00:49:37,060] but not quite.
+- [00:49:37,360 - 00:49:39,120] So let's write down the other two
+- [00:49:39,560 - 00:49:39,940] equations.
+- [00:49:40,340 - 00:49:41,760] One of them involves
+- [00:49:43,319 - 00:49:45,520] the divergence of the electric field.
+- [00:49:47,000 - 00:49:47,600] Alright?
+- [00:49:47,740 - 00:49:49,180] So we know what the
+- [00:49:49,180 - 00:49:50,620] divergence of the electric field is.
+- [00:49:50,760 - 00:49:52,740] It's called the charge density.
+- [00:49:54,280 - 00:49:56,580] We're going to spend some time in a few minutes
+- [00:49:56,580 - 00:49:59,200] talking about what charge density and current are.
+- [00:49:59,480 - 00:50:00,660] But for the moment,
+- [00:50:00,660 - 00:50:01,620] I'm just writing down
+- [00:50:01,620 - 00:50:04,820] the equations formally.
+- [00:50:05,180 - 00:50:06,520] The right-hand side
+- [00:50:06,520 - 00:50:09,360] is the charge density,
+- [00:50:09,580 - 00:50:12,520] which means the amount of charge per unit volume,
+- [00:50:13,840 - 00:50:16,640] or the charge in a small volume of space
+- [00:50:16,640 - 00:50:18,660] divided by the small volume of space.
+- [00:50:20,300 - 00:50:22,080] That's what's on the right-hand side here.
+- [00:50:22,320 - 00:50:24,740] And the other equation looks a lot like this one
+- [00:50:24,740 - 00:50:25,880] with E and B interchanged,
+- [00:50:25,880 - 00:50:26,640] but not quite.
+- [00:50:27,620 - 00:50:29,260] It's del cross B
+- [00:50:30,980 - 00:50:31,500] plus
+- [00:50:33,680 - 00:50:34,880] dE by dt,
+- [00:50:36,680 - 00:50:38,120] and what is it equal to?
+- [00:50:42,000 - 00:50:43,340] The current density.
+- [00:50:43,700 - 00:50:45,200] I will tell you in a moment.
+- [00:50:45,580 - 00:50:46,560] So far,
+- [00:50:46,560 - 00:50:47,860] we're just going to give it a name.
+- [00:50:48,400 - 00:50:49,800] We're going to give it a name,
+- [00:50:49,800 - 00:50:50,580] and that's all.
+- [00:50:50,740 - 00:50:51,680] We're going to call it
+- [00:50:53,160 - 00:50:53,620] J.
+- [00:50:54,620 - 00:50:56,560] Now what kind of quantity is J?
+- [00:50:57,340 - 00:50:57,800] Well,
+- [00:50:58,940 - 00:51:01,080] the left-hand side is a three vector.
+- [00:51:01,660 - 00:51:03,380] Electric field is a three vector.
+- [00:51:03,600 - 00:51:05,540] Its time derivative is a three vector.
+- [00:51:06,520 - 00:51:08,040] The curl of a three
+- [00:51:08,040 - 00:51:09,560] vector is also a three vector.
+- [00:51:10,040 - 00:51:12,020] So J is a three vector,
+- [00:51:12,140 - 00:51:13,440] and rho
+- [00:51:14,100 - 00:51:16,440] is a three dimensional scalar.
+- [00:51:16,940 - 00:51:17,580] Now,
+- [00:51:17,580 - 00:51:19,060] they're not four vector,
+- [00:51:19,060 - 00:51:20,800] in four vector language,
+- [00:51:21,120 - 00:51:22,200] more complicated.
+- [00:51:22,660 - 00:51:24,160] In four vector language,
+- [00:51:24,160 - 00:51:25,180] we will discover
+- [00:51:25,180 - 00:51:27,540] that the three components of J
+- [00:51:28,340 - 00:51:28,980] and
+- [00:51:30,120 - 00:51:30,980] the rho,
+- [00:51:30,980 - 00:51:34,140] together form a four vector.
+- [00:51:34,140 - 00:51:35,620] There are four components,
+- [00:51:35,860 - 00:51:37,540] three components of J,
+- [00:51:37,760 - 00:51:39,120] and one component of rho.
+- [00:51:45,720 - 00:51:48,160] J is called the current density.
+- [00:51:48,860 - 00:51:50,560] The electric current density.
+- [00:51:50,800 - 00:51:53,160] And rho is called the
+- [00:51:54,440 - 00:51:55,400] charge density.
+- [00:51:55,600 - 00:51:57,440] Charge density and current density.
+- [00:51:58,000 - 00:51:59,760] So let's talk about them,
+- [00:51:59,820 - 00:52:02,620] and let me explain
+- [00:52:02,620 - 00:52:03,660] what they are.
+- [00:52:06,000 - 00:52:07,960] the J's and rho's.
+- [00:52:09,780 - 00:52:10,340] Oh!
+- [00:52:12,940 - 00:52:13,500] Cool!
+- [00:52:18,260 - 00:52:19,320] This is rho,
+- [00:52:19,460 - 00:52:20,200] the thing in here.
+- [00:52:20,340 - 00:52:20,660] But,
+- [00:52:20,660 - 00:52:21,440] let's see.
+- [00:52:24,540 - 00:52:25,100] So,
+- [00:52:27,980 - 00:52:29,620] this is rho.
+- [00:52:29,620 - 00:52:33,440] And rho is the current density.
+- [00:52:33,440 - 00:52:33,520] And rho is the current density.
+- [00:52:33,520 - 00:52:33,600] So,
+- [00:52:35,020 - 00:52:37,360] somebody's teaching quantum mechanics.
+- [00:53:01,259 - 00:53:02,520] Next quarter,
+- [00:53:02,520 - 00:53:03,520] I have a crazy teaching
+- [00:53:03,600 - 00:53:04,100] assignment.
+- [00:53:05,260 - 00:53:07,140] Steve Schenker and I are
+- [00:53:07,140 - 00:53:08,140] volunteered
+- [00:53:08,140 - 00:53:11,300] to do something which I know is going to be
+- [00:53:11,300 - 00:53:12,380] incredibly frustrating.
+- [00:53:12,840 - 00:53:15,300] To teach quantum mechanics in the mathematics
+- [00:53:15,300 - 00:53:15,940] department.
+- [00:53:20,220 - 00:53:21,340] Frustrating for whom?
+- [00:53:25,820 - 00:53:26,460] Well,
+- [00:53:26,460 - 00:53:27,500] possibly for the
+- [00:53:27,500 - 00:53:28,800] poor sucker physics
+- [00:53:28,800 - 00:53:31,120] department students who have to have a
+- [00:53:31,120 - 00:53:33,340] mathematician come and teach statistical mechanics.
+- [00:53:36,100 - 00:53:36,580] No,
+- [00:53:36,580 - 00:53:37,420] I think it will be fun,
+- [00:53:37,420 - 00:53:37,720] actually.
+- [00:53:39,460 - 00:53:41,900] Someday I'll tell you why we decided to do this.
+- [00:53:46,120 - 00:53:47,760] This is not an undergraduate course.
+- [00:53:47,820 - 00:53:49,640] It's mainly the faculty who wanted to
+- [00:53:49,640 - 00:53:50,600] learn quantum mechanics.
+- [00:53:53,180 - 00:53:56,120] They heard that they cannot understand
+- [00:53:56,120 - 00:53:58,520] Ed Witten told them they have to
+- [00:53:58,520 - 00:54:00,060] understand quantum field theory
+- [00:54:00,060 - 00:54:01,720] if they want to understand basic
+- [00:54:02,420 - 00:54:03,380] modern mathematics.
+- [00:54:03,440 - 00:54:03,580] And they were told that
+- [00:54:06,000 - 00:54:06,840] they could not understand it.
+- [00:54:06,840 - 00:54:07,260] And they believed him.
+- [00:54:07,400 - 00:54:08,660] So they tried to understand
+- [00:54:08,660 - 00:54:10,540] quantum field theory and found out
+- [00:54:10,540 - 00:54:12,020] they couldn't understand it.
+- [00:54:13,040 - 00:54:13,800] So they said,
+- [00:54:13,800 - 00:54:13,920] well,
+- [00:54:13,920 - 00:54:15,200] the reason we can't understand it
+- [00:54:15,200 - 00:54:17,000] is because we don't know anything about quantum mechanics.
+- [00:54:17,180 - 00:54:19,280] So please help us teach us quantum mechanics.
+- [00:54:19,380 - 00:54:20,180] Why am I getting into this?
+- [00:54:20,180 - 00:54:20,600] Forget it.
+- [00:54:20,960 - 00:54:21,380] But,
+- [00:54:21,380 - 00:54:21,780] yeah,
+- [00:54:21,780 - 00:54:22,100] okay.
+- [00:54:23,300 - 00:54:25,040] Charge density and current density.
+- [00:54:25,160 - 00:54:25,820] What are they?
+- [00:54:27,620 - 00:54:28,040] So,
+- [00:54:28,040 - 00:54:29,200] let me explain exactly
+- [00:54:29,200 - 00:54:29,720] what they are.
+- [00:54:30,320 - 00:54:31,380] First of all,
+- [00:54:31,380 - 00:54:31,940] charge density
+- [00:54:31,940 - 00:54:33,800] is exactly what it sounds like.
+- [00:54:34,100 - 00:54:34,940] You take
+- [00:54:35,620 - 00:54:36,960] a region of space.
+- [00:54:37,160 - 00:54:38,400] I'm going to draw some pictures.
+- [00:54:39,080 - 00:54:40,100] Here is time.
+- [00:54:41,020 - 00:54:43,180] And the other two directions are space.
+- [00:54:43,420 - 00:54:45,120] Now the problem here is,
+- [00:54:45,120 - 00:54:45,580] of course,
+- [00:54:45,600 - 00:54:47,940] there are three directions of space.
+- [00:54:49,080 - 00:54:50,100] And it's going to be
+- [00:54:50,100 - 00:54:51,340] a little hard for us to
+- [00:54:52,180 - 00:54:54,000] I'm not going to try to draw
+- [00:54:54,780 - 00:54:56,420] four-dimensional space-time
+- [00:54:56,420 - 00:54:57,180] on the blackboard.
+- [00:54:57,620 - 00:54:59,000] So we'll have to imagine
+- [00:54:59,720 - 00:55:00,700] that these two directions
+- [00:55:00,700 - 00:55:03,840] are standing for three dimensions of space
+- [00:55:03,840 - 00:55:05,500] and one direction of time.
+- [00:55:06,320 - 00:55:06,700] Alright,
+- [00:55:06,700 - 00:55:07,440] we take a little
+- [00:55:07,440 - 00:55:08,940] cell in space.
+- [00:55:09,260 - 00:55:10,980] I'll draw it as a little square here.
+- [00:55:11,360 - 00:55:12,740] But of course it's a cube.
+- [00:55:13,740 - 00:55:14,640] It's not a square,
+- [00:55:14,640 - 00:55:15,280] it's a cube.
+- [00:55:15,360 - 00:55:16,960] It's a cube because it has three dimensions.
+- [00:55:17,440 - 00:55:19,440] And therefore it's a little volume element.
+- [00:55:19,580 - 00:55:20,980] A small volume element.
+- [00:55:22,520 - 00:55:23,400] We imagine
+- [00:55:23,400 - 00:55:24,660] charged particles.
+- [00:55:24,800 - 00:55:26,740] Charged particles have world lines.
+- [00:55:26,940 - 00:55:28,640] So let's draw some world lines.
+- [00:55:30,819 - 00:55:32,180] And let's imagine
+- [00:55:32,180 - 00:55:33,500] that the space
+- [00:55:33,500 - 00:55:35,100] and time
+- [00:55:35,100 - 00:55:36,800] are filled with a
+- [00:55:37,440 - 00:55:39,100] kind of a bundle of
+- [00:55:40,100 - 00:55:41,420] charged particles
+- [00:55:41,420 - 00:55:41,820] moving
+- [00:55:43,439 - 00:55:45,020] sort of flowing,
+- [00:55:45,140 - 00:55:46,140] a fluid of them.
+- [00:55:51,820 - 00:55:53,380] Those are the world lines.
+- [00:55:53,680 - 00:55:55,720] And think of the world lines
+- [00:55:55,720 - 00:55:57,780] that pass through
+- [00:55:58,879 - 00:55:59,640] Yes?
+- [00:55:59,720 - 00:56:00,000] There they are.
+- [00:56:00,040 - 00:56:01,060] They're passing through
+- [00:56:02,140 - 00:56:03,640] this little cube.
+- [00:56:04,320 - 00:56:05,400] Now what does it mean?
+- [00:56:05,520 - 00:56:06,160] That means
+- [00:56:08,740 - 00:56:10,260] that at an instant,
+- [00:56:10,500 - 00:56:11,200] here's an instant,
+- [00:56:11,400 - 00:56:12,140] at an instant,
+- [00:56:12,320 - 00:56:15,040] the particles which pass through that cube
+- [00:56:15,040 - 00:56:17,480] are simply the particles that are in the cube
+- [00:56:17,480 - 00:56:18,340] at that period,
+- [00:56:18,340 - 00:56:19,600] at that instant of time.
+- [00:56:20,540 - 00:56:21,800] All the particles,
+- [00:56:21,940 - 00:56:22,900] the charged particles,
+- [00:56:23,260 - 00:56:24,980] they could be electrons for example,
+- [00:56:24,980 - 00:56:26,700] we take all the electrons
+- [00:56:26,700 - 00:56:27,460] that are in there,
+- [00:56:27,460 - 00:56:29,360] we count up all their charges,
+- [00:56:30,220 - 00:56:31,520] and we think of it
+- [00:56:31,520 - 00:56:33,100] as the total charge
+- [00:56:33,100 - 00:56:34,740] passing through
+- [00:56:34,740 - 00:56:35,840] that little
+- [00:56:36,920 - 00:56:38,120] volume of space.
+- [00:56:39,480 - 00:56:40,840] Passing through in the sense
+- [00:56:40,840 - 00:56:42,460] they were in the past,
+- [00:56:42,540 - 00:56:43,600] then they were in the future,
+- [00:56:43,800 - 00:56:45,470] but at the instant that
+- [00:56:45,470 - 00:56:47,140] we drew that little volume element,
+- [00:56:47,420 - 00:56:49,280] they were in the volume element.
+- [00:56:49,820 - 00:56:51,180] And so you can think of them
+- [00:56:51,180 - 00:56:52,820] as passing through the volume element.
+- [00:56:53,020 - 00:56:54,960] The total charge in that little volume element
+- [00:56:56,520 - 00:56:58,680] divided by the volume element
+- [00:56:58,680 - 00:57:01,480] is the charge per unit volume
+- [00:57:01,480 - 00:57:02,540] and it's rho.
+- [00:57:04,560 - 00:57:06,300] Rho is equal
+- [00:57:07,460 - 00:57:08,480] let's call it
+- [00:57:08,480 - 00:57:10,620] the charge
+- [00:57:13,680 - 00:57:15,600] within the volume delta v.
+- [00:57:15,700 - 00:57:17,280] Delta q over delta v
+- [00:57:17,280 - 00:57:18,620] in the limit that
+- [00:57:18,620 - 00:57:20,700] the volume element goes to zero,
+- [00:57:20,920 - 00:57:22,880] I don't have to spell that out,
+- [00:57:23,000 - 00:57:24,960] infinitesimal volume element
+- [00:57:24,960 - 00:57:26,720] infinitesimal charge in there,
+- [00:57:26,820 - 00:57:27,940] that ratio,
+- [00:57:27,940 - 00:57:29,180] charge per unit volume
+- [00:57:29,180 - 00:57:30,220] is called
+- [00:57:30,960 - 00:57:32,100] the charge density.
+- [00:57:32,500 - 00:57:35,200] And it is literally the amount of charge
+- [00:57:35,200 - 00:57:36,100] per unit volume.
+- [00:57:37,200 - 00:57:39,240] Now what about the current density?
+- [00:57:39,460 - 00:57:40,720] The current density is
+- [00:57:40,720 - 00:57:42,820] simply this thing turned on its side.
+- [00:57:46,700 - 00:57:47,850] Now here is where we get
+- [00:57:47,850 - 00:57:49,000] into a little bit of problem.
+- [00:57:49,880 - 00:57:51,340] The vertical axis
+- [00:57:51,340 - 00:57:53,180] here is time
+- [00:57:53,180 - 00:57:53,780] and
+- [00:57:54,960 - 00:57:56,440] the horizontal axis
+- [00:57:57,280 - 00:57:58,500] or the two horizontal,
+- [00:57:58,640 - 00:57:58,780] sorry,
+- [00:57:58,780 - 00:57:59,680] the two horizontal,
+- [00:57:59,940 - 00:58:02,340] let's get this right.
+- [00:58:02,780 - 00:58:04,040] There's a time axis
+- [00:58:04,760 - 00:58:05,760] and yeah,
+- [00:58:07,000 - 00:58:07,500] right,
+- [00:58:07,500 - 00:58:08,100] that's it.
+- [00:58:08,880 - 00:58:09,380] Alright.
+- [00:58:10,780 - 00:58:11,280] Now
+- [00:58:12,860 - 00:58:14,280] this is the x axis.
+- [00:58:14,600 - 00:58:15,820] This is the x axis.
+- [00:58:16,060 - 00:58:17,560] I guess this here stands
+- [00:58:17,560 - 00:58:19,060] for the y and z axes.
+- [00:58:19,700 - 00:58:21,020] Since I can't draw them
+- [00:58:21,020 - 00:58:22,600] I'll just call them the y and z axis.
+- [00:58:23,480 - 00:58:23,980] Alright,
+- [00:58:23,980 - 00:58:24,400] so
+- [00:58:24,960 - 00:58:25,720] think of
+- [00:58:25,720 - 00:58:28,940] a little cell here in space and time
+- [00:58:28,940 - 00:58:30,540] which is perpendicular
+- [00:58:30,540 - 00:58:31,920] to the x axis.
+- [00:58:32,640 - 00:58:34,900] That means it's a little cube
+- [00:58:34,900 - 00:58:36,120] in space and time.
+- [00:58:36,120 - 00:58:36,900] In space and time
+- [00:58:36,900 - 00:58:37,360] it's a cube.
+- [00:58:37,360 - 00:58:38,980] It has an edge
+- [00:58:38,980 - 00:58:40,120] along the time axis
+- [00:58:40,120 - 00:58:42,740] and it has two edges along the
+- [00:58:42,740 - 00:58:43,660] y and z axis.
+- [00:58:45,660 - 00:58:46,780] Let me take it out
+- [00:58:46,780 - 00:58:47,620] and put it over here
+- [00:58:48,200 - 00:58:50,700] and draw a pure space diagram.
+- [00:58:50,860 - 00:58:51,320] x
+- [00:58:52,880 - 00:58:54,600] y and z
+- [00:58:56,560 - 00:58:58,220] this edge over here
+- [00:58:59,440 - 00:59:00,480] really stands
+- [00:59:00,480 - 00:59:02,940] for a two dimensional square
+- [00:59:02,940 - 00:59:05,560] the y and z square
+- [00:59:06,120 - 00:59:07,640] and so it's a little square
+- [00:59:07,640 - 00:59:08,240] in the,
+- [00:59:08,320 - 00:59:09,120] yeah,
+- [00:59:09,120 - 00:59:10,300] that's okay.
+- [00:59:10,440 - 00:59:12,280] It's a little square
+- [00:59:12,280 - 00:59:13,480] in the y z plane.
+- [00:59:15,540 - 00:59:16,700] We can ask
+- [00:59:16,700 - 00:59:18,220] how much charge,
+- [00:59:18,440 - 00:59:19,300] think of it as a window,
+- [00:59:19,520 - 00:59:20,460] think of it as a window.
+- [00:59:20,620 - 00:59:21,580] There's a little window over there
+- [00:59:21,580 - 00:59:21,920] if I,
+- [00:59:21,920 - 00:59:23,740] I'll get into big trouble
+- [00:59:24,960 - 00:59:25,520] I'm gonna wall here.
+- [00:59:25,960 - 00:59:26,440] Okay,
+- [00:59:26,440 - 00:59:27,000] I won't.
+- [00:59:27,820 - 00:59:28,300] Alright,
+- [00:59:28,300 - 00:59:28,940] here's the window,
+- [00:59:28,940 - 00:59:29,700] this thing over here.
+- [00:59:29,760 - 00:59:32,060] That's a window and that window
+- [00:59:33,560 - 00:59:34,040] is
+- [00:59:34,580 - 00:59:36,180] along the y z axis.
+- [00:59:36,920 - 00:59:37,560] It's right,
+- [00:59:37,560 - 00:59:38,520] hmm?
+- [00:59:38,680 - 00:59:39,180] What's that?
+- [00:59:39,180 - 00:59:40,000] Yeah.
+- [00:59:40,380 - 00:59:42,880] I guess the window here is on the ceiling.
+- [00:59:43,040 - 00:59:43,260] Sorry,
+- [00:59:43,260 - 00:59:44,520] the window here is on the ceiling.
+- [00:59:44,800 - 00:59:45,280] Yeah,
+- [00:59:45,280 - 00:59:46,080] the problem is
+- [00:59:47,060 - 00:59:48,600] there's just not enough axes
+- [00:59:48,600 - 00:59:49,700] in the world to draw.
+- [00:59:50,080 - 00:59:51,520] In any case there's a window.
+- [00:59:51,960 - 00:59:54,580] The window in this case is perpendicular
+- [00:59:54,960 - 00:59:55,760] to the x axis.
+- [00:59:56,120 - 00:59:57,860] So if the x axis is that way,
+- [00:59:58,000 - 00:59:58,680] yeah,
+- [00:59:58,680 - 01:00:00,200] if the x axis is that way
+- [01:00:00,930 - 01:00:02,540] the window is in the y z plane.
+- [01:00:02,720 - 01:00:03,160] It's like that.
+- [01:00:03,660 - 01:00:05,100] And now I ask the question,
+- [01:00:05,100 - 01:00:06,200] how much charge
+- [01:00:06,870 - 01:00:08,280] passes through that window
+- [01:00:09,960 - 01:00:11,220] per unit time?
+- [01:00:12,360 - 01:00:13,860] The amount of charge
+- [01:00:13,860 - 01:00:15,140] that passes through
+- [01:00:15,140 - 01:00:16,780] a small window
+- [01:00:17,940 - 01:00:19,080] per unit time.
+- [01:00:19,280 - 01:00:19,980] In other words,
+- [01:00:20,100 - 01:00:22,460] it's the charge passing through
+- [01:00:22,460 - 01:00:23,740] a little cell
+- [01:00:24,960 - 01:00:26,100] per unit space
+- [01:00:26,100 - 01:00:28,120] per unit time.
+- [01:00:28,340 - 01:00:30,300] Per unit area per unit time.
+- [01:00:30,600 - 01:00:33,060] The amount of charge passing through
+- [01:00:33,060 - 01:00:34,440] a unit area
+- [01:00:34,819 - 01:00:35,960] in a unit time.
+- [01:00:36,220 - 01:00:39,040] Or per unit area per unit time.
+- [01:00:39,920 - 01:00:40,720] That's
+- [01:00:40,720 - 01:00:42,200] the precise analog
+- [01:00:42,200 - 01:00:44,460] of turning this on its side.
+- [01:00:45,740 - 01:00:46,880] This cell
+- [01:00:46,880 - 01:00:48,660] was perpendicular to time.
+- [01:00:49,520 - 01:00:50,720] This cell
+- [01:00:50,720 - 01:00:52,720] is purely spatial
+- [01:00:52,720 - 01:00:53,180] but
+- [01:00:55,240 - 01:00:57,460] it's perpendicular to the x axis.
+- [01:00:57,560 - 01:00:57,860] Sorry,
+- [01:00:57,860 - 01:00:58,860] it has a time component
+- [01:00:58,860 - 01:01:01,040] and a y and a z component.
+- [01:01:01,320 - 01:01:02,160] No x component.
+- [01:01:02,680 - 01:01:04,460] So it's like turning it on its side.
+- [01:01:04,860 - 01:01:06,220] That's called J.
+- [01:01:06,560 - 01:01:07,840] J sub x,
+- [01:01:08,220 - 01:01:09,880] to define J sub x,
+- [01:01:10,640 - 01:01:12,660] you take a window perpendicular
+- [01:01:12,660 - 01:01:14,020] to the x axis.
+- [01:01:14,940 - 01:01:16,420] Perpendicular to the x axis,
+- [01:01:16,420 - 01:01:16,800] you ask
+- [01:01:16,800 - 01:01:19,280] how much charge is flowing through it
+- [01:01:20,020 - 01:01:20,620] from
+- [01:01:20,620 - 01:01:23,120] the negative x side to the positive
+- [01:01:23,120 - 01:01:23,720] x side.
+- [01:01:23,720 - 01:01:24,580] How much charge
+- [01:01:24,960 - 01:01:27,020] flows through it per unit time.
+- [01:01:27,740 - 01:01:29,080] So J sub x
+- [01:01:29,080 - 01:01:30,700] is the charge
+- [01:01:33,300 - 01:01:34,920] per unit area
+- [01:01:34,920 - 01:01:37,780] per unit time.
+- [01:01:43,220 - 01:01:43,920] Volume,
+- [01:01:43,920 - 01:01:44,620] area,
+- [01:01:44,760 - 01:01:45,420] times time.
+- [01:01:45,860 - 01:01:48,600] And this area here is an area
+- [01:01:49,900 - 01:01:50,600] perpendicular
+- [01:01:50,600 - 01:01:51,940] to the x axis.
+- [01:01:52,260 - 01:01:53,180] In other words,
+- [01:01:53,180 - 01:01:54,260] it's a y z area.
+- [01:01:54,960 - 01:01:56,840] But perpendicular to the x axis.
+- [01:01:56,940 - 01:01:57,940] That's J x.
+- [01:01:59,300 - 01:02:00,540] What about
+- [01:02:00,540 - 01:02:01,760] J y and J z?
+- [01:02:02,180 - 01:02:04,840] J y and J z are the same thing.
+- [01:02:05,000 - 01:02:06,580] The amount of charge
+- [01:02:06,580 - 01:02:08,520] per unit area per unit time
+- [01:02:08,520 - 01:02:10,060] passing through a window
+- [01:02:10,960 - 01:02:12,740] perpendicular either to the y
+- [01:02:12,740 - 01:02:14,740] direction or the z direction.
+- [01:02:15,460 - 01:02:16,960] So there's J sub z,
+- [01:02:17,100 - 01:02:18,100] J sub y,
+- [01:02:18,100 - 01:02:18,640] and
+- [01:02:18,640 - 01:02:19,240] J sub z.
+- [01:02:20,260 - 01:02:21,940] The formula is the same.
+- [01:02:21,980 - 01:02:24,940] Delta q over delta x
+- [01:02:24,960 - 01:02:25,060] over delta a
+- [01:02:25,060 - 01:02:26,900] over delta t,
+- [01:02:26,900 - 01:02:27,780] except
+- [01:02:27,780 - 01:02:30,660] delta a is a little window
+- [01:02:30,660 - 01:02:32,760] perpendicular to either the y
+- [01:02:32,760 - 01:02:33,560] or the z axis.
+- [01:02:34,360 - 01:02:35,980] That's the definition of J.
+- [01:02:38,140 - 01:02:39,300] And in fact,
+- [01:02:41,000 - 01:02:41,860] J x,
+- [01:02:42,040 - 01:02:42,500] J y,
+- [01:02:42,680 - 01:02:43,340] J z,
+- [01:02:43,340 - 01:02:44,200] and rho
+- [01:02:44,899 - 01:02:46,420] form a complex of things
+- [01:02:46,420 - 01:02:47,880] which in fact are a four vector.
+- [01:02:48,320 - 01:02:50,880] We'll see why I say they're a four vector
+- [01:02:50,880 - 01:02:51,440] soon enough.
+- [01:02:52,560 - 01:02:53,960] But they are a four vector.
+- [01:02:55,240 - 01:02:55,720] And
+- [01:02:57,580 - 01:02:58,800] they enter into
+- [01:02:58,800 - 01:02:59,600] Maxwell's equations.
+- [01:02:59,600 - 01:03:00,420] Where were
+- [01:03:00,420 - 01:03:01,160] Maxwell's equations?
+- [01:03:01,160 - 01:03:02,560] Did we erase
+- [01:03:02,560 - 01:03:03,320] Maxwell's equations?
+- [01:03:03,320 - 01:03:03,780] Oh,
+- [01:03:03,780 - 01:03:04,200] here they are.
+- [01:03:04,220 - 01:03:04,640] Here they are.
+- [01:03:04,640 - 01:03:05,340] Yeah.
+- [01:03:06,500 - 01:03:07,480] And that's what's here.
+- [01:03:09,460 - 01:03:10,900] The J is a kind of
+- [01:03:10,900 - 01:03:11,780] flow of charge.
+- [01:03:11,780 - 01:03:12,680] They represent the
+- [01:03:12,680 - 01:03:14,640] flow of charge from one place to another
+- [01:03:14,640 - 01:03:16,180] across these windows,
+- [01:03:16,180 - 01:03:17,080] or through the windows.
+- [01:03:17,960 - 01:03:18,440] Alright?
+- [01:03:18,520 - 01:03:20,600] So the x component
+- [01:03:20,600 - 01:03:21,900] of del cross b
+- [01:03:21,900 - 01:03:24,480] plus the time derivative of the x component
+- [01:03:24,960 - 01:03:25,300] of de
+- [01:03:25,300 - 01:03:27,320] is equal to the flow
+- [01:03:27,320 - 01:03:29,440] of charge through the x window.
+- [01:03:37,300 - 01:03:38,660] There's one more thing
+- [01:03:38,660 - 01:03:39,620] about the charge,
+- [01:03:39,620 - 01:03:40,880] about the density
+- [01:03:40,880 - 01:03:42,920] and current vector which is important.
+- [01:03:43,380 - 01:03:44,700] It actually can be
+- [01:03:44,700 - 01:03:46,820] derived from Maxwell's equations.
+- [01:03:47,080 - 01:03:47,500] Let's see.
+- [01:03:48,660 - 01:03:49,380] Yeah,
+- [01:03:49,380 - 01:03:50,560] we can derive them
+- [01:03:50,560 - 01:03:52,160] from Maxwell's equations.
+- [01:03:54,960 - 01:03:55,580] I won't,
+- [01:03:55,580 - 01:03:56,400] but I'll let you do it.
+- [01:03:56,460 - 01:03:57,880] You can derive it from Maxwell's equations.
+- [01:03:58,560 - 01:04:02,040] But it's really just charge conservation.
+- [01:04:02,520 - 01:04:04,460] So let's talk about charge conservation.
+- [01:04:05,780 - 01:04:06,180] Yes.
+- [01:04:07,580 - 01:04:08,140] In fact,
+- [01:04:08,140 - 01:04:09,400] let's take a break for five minutes.
+- [01:04:09,840 - 01:04:10,780] Ask me the question,
+- [01:04:10,780 - 01:04:12,460] but let's take a break for five minutes,
+- [01:04:12,480 - 01:04:14,040] during which I'm going to take my jacket off.
+- [01:04:14,540 - 01:04:16,810] So basically these four numbers
+- [01:04:16,810 - 01:04:19,080] are just the complements in the...
+- [01:04:19,700 - 01:04:21,220] One is flow in the time direction,
+- [01:04:21,360 - 01:04:22,760] and the other one is flow in the x,
+- [01:04:22,760 - 01:04:23,000] y,
+- [01:04:23,000 - 01:04:23,600] and z directions.
+- [01:04:23,640 - 01:04:24,020] Right.
+- [01:04:24,020 - 01:04:25,320] Is that what you're saying?
+- [01:04:25,420 - 01:04:26,460] That's the way to think about it.
+- [01:04:26,520 - 01:04:26,700] Okay.
+- [01:04:26,820 - 01:04:27,280] Yep.
+- [01:04:28,560 - 01:04:29,040] Right.
+- [01:04:29,140 - 01:04:31,000] So you can think of a spatial volume
+- [01:04:31,620 - 01:04:35,900] as a kind of window perpendicular to the t-axis.
+- [01:04:37,140 - 01:04:38,880] And if you think about it that way,
+- [01:04:41,440 - 01:04:42,400] then uniformity.
+- [01:04:43,600 - 01:04:44,560] Four definitions.
+- [01:04:48,759 - 01:04:51,940] Does the eta function come into play eventually?
+- [01:04:54,020 - 01:04:54,840] Is it a scenario?
+- [01:04:55,120 - 01:04:55,780] The eta?
+- [01:04:56,000 - 01:04:56,480] Yes.
+- [01:04:58,080 - 01:05:00,200] You mean the...
+- [01:05:02,540 - 01:05:03,100] Yeah,
+- [01:05:03,100 - 01:05:08,380] I think you're asking a sensible question,
+- [01:05:08,520 - 01:05:09,580] but I would rephrase it.
+- [01:05:09,960 - 01:05:12,820] I would ask whether the rho and
+- [01:05:12,820 - 01:05:15,680] j are a covariant or a contravariant vector,
+- [01:05:15,800 - 01:05:16,420] four vector.
+- [01:05:16,560 - 01:05:17,300] And we'll come to that.
+- [01:05:17,360 - 01:05:18,980] We'll see that as defined,
+- [01:05:19,819 - 01:05:21,960] they form the components of a...
+- [01:05:21,960 - 01:05:22,940] A vector.
+- [01:05:22,940 - 01:05:23,180] A vector.
+- [01:05:23,200 - 01:05:23,260] A vector.
+- [01:05:24,020 - 01:05:24,780] Contravariant vector.
+- [01:05:25,140 - 01:05:26,040] Upper index.
+- [01:05:27,140 - 01:05:28,520] In other words...
+- [01:05:28,939 - 01:05:30,480] And we'll see why this is soon enough.
+- [01:05:30,920 - 01:05:33,400] We'll see that the complex rho,
+- [01:05:33,400 - 01:05:35,040] jx,
+- [01:05:35,040 - 01:05:35,760] jy,
+- [01:05:35,760 - 01:05:36,440] and jz
+- [01:05:38,860 - 01:05:41,600] can be thought of as the
+- [01:05:41,600 - 01:05:44,340] components of a four vector called jmu
+- [01:05:45,320 - 01:05:46,680] with an upper index.
+- [01:05:49,540 - 01:05:51,280] But we'll come to why that's true
+- [01:05:52,720 - 01:05:54,000] as soon as we study it.
+- [01:05:54,020 - 01:05:57,070] And we'll come to why that's true as soon
+- [01:05:57,070 - 01:06:00,120] as we study the relativistic formulation of the Maxwell equations.
+- [01:06:02,080 - 01:06:02,480] Okay,
+- [01:06:02,480 - 01:06:03,640] let's take a two minute break.
+- [01:06:04,020 - 01:06:05,580] I'm happy to answer questions,
+- [01:06:05,900 - 01:06:07,160] but I want to take a
+- [01:06:07,160 - 01:06:08,420] break from lecturing for a few minutes,
+- [01:06:08,500 - 01:06:09,160] for a couple of minutes.
+- [01:06:11,820 - 01:06:12,740] I have a question.
+- [01:06:13,460 - 01:06:15,380] My son was watching you on TV,
+- [01:06:15,600 - 01:06:16,590] and he asked me a
+- [01:06:16,590 - 01:06:17,580] question about something that you said,
+- [01:06:17,700 - 01:06:18,660] and I didn't know the answer.
+- [01:06:19,200 - 01:06:20,640] So maybe you can tell me,
+- [01:06:20,640 - 01:06:21,120] and I'll tell him.
+- [01:06:21,380 - 01:06:21,480] Yeah.
+- [01:06:21,800 - 01:06:24,000] He was watching that show where you were talking about...
+- [01:06:24,020 - 01:06:26,190] black holes and the different point
+- [01:06:26,190 - 01:06:28,360] of view of somebody falling in
+- [01:06:28,360 - 01:06:29,740] versus the person watching.
+- [01:06:30,200 - 01:06:30,220] Right.
+- [01:06:30,680 - 01:06:33,300] And from what you described,
+- [01:06:33,520 - 01:06:35,140] the person that's outside the black hole
+- [01:06:35,140 - 01:06:37,980] sees the person falling in and slowing down
+- [01:06:37,980 - 01:06:39,440] and eventually stopping.
+- [01:06:39,880 - 01:06:41,940] So what he asked me is like,
+- [01:06:42,040 - 01:06:43,780] if it eventually stops,
+- [01:06:44,140 - 01:06:46,280] wouldn't you see around the black hole
+- [01:06:46,280 - 01:06:49,420] basically everything that's ever fallen onto it,
+- [01:06:49,480 - 01:06:50,760] and you wouldn't see a black hole at all,
+- [01:06:50,860 - 01:06:51,840] but just a bunch of litter?
+- [01:06:52,560 - 01:06:53,120] Classically,
+- [01:06:53,120 - 01:06:54,000] the answer is yes.
+- [01:06:54,020 - 01:06:56,120] That's what you would see.
+- [01:06:57,180 - 01:06:59,960] All the stuff that falls onto the black hole
+- [01:06:59,960 - 01:07:03,460] forms kind of sedimentary layers,
+- [01:07:03,840 - 01:07:06,040] which just asymptotically,
+- [01:07:06,160 - 01:07:06,640] slowly,
+- [01:07:06,640 - 01:07:07,620] slowly,
+- [01:07:07,620 - 01:07:09,580] slowly gravitate to the horizon.
+- [01:07:11,200 - 01:07:12,280] Quantum mechanically...
+- [01:07:16,200 - 01:07:16,920] Well,
+- [01:07:16,920 - 01:07:18,660] it also slows down.
+- [01:07:19,680 - 01:07:21,360] It also slows down,
+- [01:07:21,580 - 01:07:24,000] which means that the rest...
+- [01:07:24,020 - 01:07:25,180] Radiation coming...
+- [01:07:25,180 - 01:07:25,240] You know,
+- [01:07:25,240 - 01:07:27,300] if I were this in-falling person
+- [01:07:27,300 - 01:07:29,740] and I was sending out messages,
+- [01:07:30,480 - 01:07:33,800] let's suppose I was sending out messages at some frequency.
+- [01:07:36,340 - 01:07:36,940] So,
+- [01:07:36,940 - 01:07:39,660] as I would approach the horizon,
+- [01:07:39,900 - 01:07:41,620] I would send out the messages
+- [01:07:41,620 - 01:07:44,720] in a way that sounds to me normal.
+- [01:07:45,840 - 01:07:46,440] Okay?
+- [01:07:46,520 - 01:07:48,000] But to you far away,
+- [01:07:48,000 - 01:07:49,940] it would be redshifted.
+- [01:07:50,040 - 01:07:51,640] Redshifted means that...
+- [01:07:52,680 - 01:07:53,880] You know,
+- [01:07:54,020 - 01:07:58,500] the frequency would get lower and lower and lower.
+- [01:07:58,900 - 01:08:01,020] And if the frequency of
+- [01:08:01,020 - 01:08:03,140] the sound that I was making
+- [01:08:04,100 - 01:08:06,320] was a finite frequency,
+- [01:08:07,140 - 01:08:10,360] there basically would be a last wave
+- [01:08:10,920 - 01:08:12,360] that I would send out
+- [01:08:14,320 - 01:08:14,840] before,
+- [01:08:14,840 - 01:08:15,560] you know,
+- [01:08:15,580 - 01:08:17,460] before the end of the message.
+- [01:08:17,720 - 01:08:18,160] Now,
+- [01:08:18,160 - 01:08:19,340] I could send out more waves
+- [01:08:19,340 - 01:08:20,899] if I would increase the frequency.
+- [01:08:21,500 - 01:08:22,840] I'll make it higher and higher.
+- [01:08:23,000 - 01:08:24,000] But for any given frequency,
+- [01:08:24,020 - 01:08:29,080] there would basically be a last bit of the message
+- [01:08:29,080 - 01:08:30,020] that I could send out.
+- [01:08:30,750 - 01:08:31,080] So,
+- [01:08:31,080 - 01:08:33,899] for any finite thing falling in
+- [01:08:33,899 - 01:08:35,200] with a finite frequency,
+- [01:08:35,439 - 01:08:37,979] with a finite amount of energy available
+- [01:08:37,979 - 01:08:40,380] to send out photons and so forth,
+- [01:08:41,840 - 01:08:43,439] it will slow down,
+- [01:08:43,950 - 01:08:47,160] get redder and redder and redder.
+- [01:08:48,979 - 01:08:51,779] My flashlight that I send out
+- [01:08:51,779 - 01:08:53,300] with optical radiation,
+- [01:08:54,059 - 01:08:56,399] will look to you as I fall in
+- [01:08:57,859 - 01:08:58,379] as,
+- [01:08:58,379 - 01:08:59,080] you know,
+- [01:08:59,080 - 01:08:59,540] infrared.
+- [01:08:59,880 - 01:09:01,279] I fall in a little further,
+- [01:09:01,380 - 01:09:03,479] it starts to look like microwaves coming out.
+- [01:09:03,580 - 01:09:04,180] Not look like,
+- [01:09:04,180 - 01:09:05,479] it's microwaves coming out.
+- [01:09:05,520 - 01:09:05,939] Not to me.
+- [01:09:06,500 - 01:09:09,979] I'm sending out perfectly good flashlight light.
+- [01:09:10,580 - 01:09:12,620] You're seeing infrared,
+- [01:09:12,620 - 01:09:13,660] microwave,
+- [01:09:13,660 - 01:09:15,220] radio wave,
+- [01:09:15,500 - 01:09:18,140] longer and longer wavelength radio waves.
+- [01:09:18,340 - 01:09:21,120] The photons coming out carry less and less energy.
+- [01:09:21,340 - 01:09:21,960] And so,
+- [01:09:21,960 - 01:09:22,359] in effect,
+- [01:09:22,359 - 01:09:23,120] it turns black.
+- [01:09:24,020 - 01:09:24,680] It does turn black.
+- [01:09:24,819 - 01:09:28,140] Is this asymptotically approaching the event horizon?
+- [01:09:31,720 - 01:09:32,279] Mechanically,
+- [01:09:32,279 - 01:09:33,140] it's a little more complicated
+- [01:09:33,140 - 01:09:34,939] because the event horizon has a temperature.
+- [01:09:36,240 - 01:09:37,060] And so,
+- [01:09:37,060 - 01:09:38,460] this reddened,
+- [01:09:38,460 - 01:09:39,120] reddened radiation
+- [01:09:39,120 - 01:09:41,859] gets mixed up with the Hawking radiation
+- [01:09:41,859 - 01:09:44,260] that comes out and becomes indistinguishable from it.
+- [01:09:44,760 - 01:09:45,180] So,
+- [01:09:45,180 - 01:09:45,760] um...
+- [01:09:50,580 - 01:09:53,700] What happens when the wavelength,
+- [01:09:54,020 - 01:09:56,180] gets shifted to the point where it's
+- [01:09:56,860 - 01:10:00,240] exceeding the radius of the observable universe
+- [01:10:00,240 - 01:10:01,240] to just disappear?
+- [01:10:03,600 - 01:10:04,200] Clearly,
+- [01:10:04,200 - 01:10:04,960] it's lost,
+- [01:10:04,960 - 01:10:06,520] but it's lost long before that.
+- [01:10:13,600 - 01:10:14,620] That's a good question.
+- [01:10:14,800 - 01:10:14,940] I mean,
+- [01:10:14,940 - 01:10:16,140] it's a good question.
+- [01:10:16,660 - 01:10:17,260] Basically,
+- [01:10:17,260 - 01:10:21,660] the black hole sends out
+- [01:10:22,579 - 01:10:23,780] one photon,
+- [01:10:29,480 - 01:10:31,900] per transit time across the black hole.
+- [01:10:31,980 - 01:10:33,520] Transit time across the black hole.
+- [01:10:34,000 - 01:10:36,460] The horizon of the black hole has a certain radius
+- [01:10:36,460 - 01:10:37,820] called the Schwarzschild radius.
+- [01:10:38,760 - 01:10:42,360] There's a time associated with the transit time across that.
+- [01:10:43,300 - 01:10:43,840] You know,
+- [01:10:43,840 - 01:10:44,640] just a...
+- [01:10:46,080 - 01:10:46,780] What do you do?
+- [01:10:46,860 - 01:10:48,100] You take R and divide it by C?
+- [01:10:48,280 - 01:10:48,600] Yeah,
+- [01:10:48,600 - 01:10:49,860] you take R and divide it by C.
+- [01:10:49,900 - 01:10:51,140] That gives you a time.
+- [01:10:51,440 - 01:10:53,420] And every such time unit,
+- [01:10:54,300 - 01:10:56,520] it sends out one photon.
+- [01:10:56,800 - 01:10:57,500] Now,
+- [01:10:57,500 - 01:10:59,060] that's not a lot of photons.
+- [01:10:59,260 - 01:11:02,260] One photon per transit time
+- [01:11:02,260 - 01:11:04,640] is a very,
+- [01:11:04,640 - 01:11:06,520] very weak radiation.
+- [01:11:07,040 - 01:11:08,840] But on top of that,
+- [01:11:09,250 - 01:11:12,440] the radiation gets longer and longer wavelength.
+- [01:11:13,540 - 01:11:15,300] So that means the black hole,
+- [01:11:15,300 - 01:11:16,300] as it radiates...
+- [01:11:16,300 - 01:11:17,880] I'm talking about the Hawking radiation now.
+- [01:11:17,960 - 01:11:22,100] It sends out longer and longer wavelengths.
+- [01:11:25,140 - 01:11:29,500] And one per horizon crossing time.
+- [01:11:29,780 - 01:11:32,840] And that really just gets to be negligible
+- [01:11:32,840 - 01:11:34,080] from the point of view of anything
+- [01:11:34,080 - 01:11:35,620] that we could reasonably measure.
+- [01:11:36,760 - 01:11:37,240] It's...
+- [01:11:38,540 - 01:11:39,020] So,
+- [01:11:39,020 - 01:11:39,300] yeah,
+- [01:11:39,300 - 01:11:40,100] in that sense,
+- [01:11:40,100 - 01:11:41,760] it gets quite black.
+- [01:11:41,980 - 01:11:42,140] Yeah.
+- [01:11:42,400 - 01:11:43,440] Is that rate,
+- [01:11:43,440 - 01:11:45,200] one per transit time,
+- [01:11:45,280 - 01:11:48,320] the same during the life of the black hole?
+- [01:11:48,880 - 01:11:49,360] No,
+- [01:11:49,360 - 01:11:50,820] the black hole evaporates.
+- [01:11:50,820 - 01:11:52,080] The thing shrinks.
+- [01:11:52,920 - 01:11:53,620] And so,
+- [01:11:53,620 - 01:11:54,840] it speeds up in that sense.
+- [01:11:55,160 - 01:11:57,440] But that relationship still holds for...
+- [01:11:57,440 - 01:11:57,520] Yeah.
+- [01:11:57,740 - 01:11:58,140] Yeah.
+- [01:11:58,440 - 01:11:58,840] Yeah.
+- [01:11:59,380 - 01:11:59,780] Yeah.
+- [01:12:00,940 - 01:12:01,340] Okay.
+- [01:12:04,260 - 01:12:04,860] All right.
+- [01:12:04,900 - 01:12:05,660] We've defined J.
+- [01:12:06,140 - 01:12:07,290] So we know what's on
+- [01:12:07,290 - 01:12:08,440] the right-hand side of this equation.
+- [01:12:08,620 - 01:12:08,760] Now,
+- [01:12:08,760 - 01:12:09,840] it's an interesting exercise.
+- [01:12:11,640 - 01:12:12,680] Try to work it out.
+- [01:12:13,980 - 01:12:15,260] I think it's almost obvious,
+- [01:12:15,340 - 01:12:16,720] but I'm going to let you work it out.
+- [01:12:17,520 - 01:12:18,600] From this equation,
+- [01:12:19,140 - 01:12:20,560] we could compute...
+- [01:12:21,020 - 01:12:21,420] Oh.
+- [01:12:22,720 - 01:12:23,120] Wait.
+- [01:12:23,240 - 01:12:23,480] No.
+- [01:12:23,620 - 01:12:24,600] I didn't give you the punchline yet.
+- [01:12:24,660 - 01:12:24,740] No.
+- [01:12:24,820 - 01:12:25,200] Go back.
+- [01:12:25,260 - 01:12:25,500] Back,
+- [01:12:25,500 - 01:12:25,700] back,
+- [01:12:25,700 - 01:12:25,820] back.
+- [01:12:25,920 - 01:12:26,280] Rewind.
+- [01:12:26,380 - 01:12:26,720] Rewind.
+- [01:12:28,420 - 01:12:29,640] Conservation of charge.
+- [01:12:30,880 - 01:12:34,180] Conservation of charge is what it says it is.
+- [01:12:34,420 - 01:12:37,540] The total charge in the universe doesn't change with time.
+- [01:12:41,180 - 01:12:41,660] But,
+- [01:12:42,740 - 01:12:43,220] really,
+- [01:12:43,220 - 01:12:46,860] the conservation of charge is a more detailed law
+- [01:12:47,480 - 01:12:51,040] than just saying the charge in the universe doesn't change.
+- [01:12:51,360 - 01:12:51,760] Okay.
+- [01:12:52,540 - 01:12:53,020] Okay.
+- [01:12:53,020 - 01:12:53,160] Okay.
+- [01:12:53,620 - 01:12:55,220] It says it doesn't change,
+- [01:12:55,420 - 01:12:57,480] and it doesn't change in a special way.
+- [01:12:58,300 - 01:13:02,040] The special way is the following.
+- [01:13:02,680 - 01:13:05,020] If I take a region of space...
+- [01:13:05,020 - 01:13:05,560] Well,
+- [01:13:05,560 - 01:13:06,020] first of all,
+- [01:13:06,020 - 01:13:07,220] what does the conservation say?
+- [01:13:08,040 - 01:13:10,640] Start with a region of space that I'm interested in,
+- [01:13:10,700 - 01:13:12,580] and look at the total charge in there.
+- [01:13:12,700 - 01:13:13,340] Let's call it Q.
+- [01:13:13,780 - 01:13:16,640] Q is the standard terminology for electric charge.
+- [01:13:16,980 - 01:13:17,860] Call it Q.
+- [01:13:18,880 - 01:13:21,680] Let's suppose after a small amount of time,
+- [01:13:21,800 - 01:13:23,600] the charge within this region,
+- [01:13:23,620 - 01:13:24,560] this region has changed.
+- [01:13:25,420 - 01:13:27,040] Maybe it's decreased a little bit.
+- [01:13:27,240 - 01:13:30,280] That means the charge someplace else must have increased.
+- [01:13:30,900 - 01:13:32,560] That's conservation of charge.
+- [01:13:34,420 - 01:13:36,230] But the conservation of charge
+- [01:13:36,230 - 01:13:38,040] wouldn't be very helpful to us
+- [01:13:38,620 - 01:13:43,020] if there were no rules about where the charge increased.
+- [01:13:43,300 - 01:13:43,780] For example,
+- [01:13:43,780 - 01:13:45,690] it would be perfectly consistent
+- [01:13:45,690 - 01:13:47,600] with the conservation of charge
+- [01:13:47,600 - 01:13:48,850] that every time the charge
+- [01:13:48,850 - 01:13:50,100] changed in a box over here,
+- [01:13:50,220 - 01:13:52,380] it reappeared instantly at Alpha Centauri.
+- [01:13:52,380 - 01:13:53,860] But then from the point
+- [01:13:53,860 - 01:13:55,340] of view of our laboratory experiment,
+- [01:13:56,200 - 01:13:58,280] it would be tantamount to
+- [01:13:58,280 - 01:14:00,360] saying that the conservation of charge
+- [01:14:00,360 - 01:14:03,280] would be meaningless unless we could do an experiment
+- [01:14:03,280 - 01:14:05,620] that involved out to Alpha Centauri.
+- [01:14:06,239 - 01:14:07,899] And if you can do
+- [01:14:07,899 - 01:14:09,560] an experiment out to Alpha Centauri,
+- [01:14:09,640 - 01:14:11,580] go out to the Coma Cluster or wherever you want,
+- [01:14:12,320 - 01:14:14,080] conservation wouldn't have much bite
+- [01:14:14,879 - 01:14:18,400] if the rule was simply that the quantity,
+- [01:14:18,540 - 01:14:19,880] total quantity doesn't change.
+- [01:14:20,060 - 01:14:22,360] The real rule is that the total quantity of charge,
+- [01:14:22,380 - 01:14:23,680] that the charge within a region,
+- [01:14:23,900 - 01:14:26,010] can only change if it passes
+- [01:14:26,010 - 01:14:28,120] through the walls of that region.
+- [01:14:28,620 - 01:14:29,640] In other words,
+- [01:14:29,640 - 01:14:33,420] somebody standing and monitoring the boundaries of this box
+- [01:14:35,500 - 01:14:36,060] will,
+- [01:14:36,060 - 01:14:38,740] if the charge on the inside changes,
+- [01:14:39,380 - 01:14:41,910] it will be due to the fact that they
+- [01:14:41,910 - 01:14:44,440] discover charge passing through the walls of the box.
+- [01:14:44,980 - 01:14:47,200] Now the walls of the box are these little windows.
+- [01:14:50,800 - 01:14:51,980] So what it says,
+- [01:14:51,980 - 01:14:54,580] is that changes of charge
+- [01:14:54,580 - 01:14:57,180] in the interior of a box
+- [01:14:57,180 - 01:14:59,910] must be accompanied by something or
+- [01:14:59,910 - 01:15:02,640] other having to do with the current
+- [01:15:03,460 - 01:15:05,320] on the boundaries of the box.
+- [01:15:05,880 - 01:15:07,020] In other words,
+- [01:15:07,020 - 01:15:08,240] a change in charge,
+- [01:15:08,340 - 01:15:10,040] let's take this to be a small box,
+- [01:15:10,920 - 01:15:12,080] a small box,
+- [01:15:12,880 - 01:15:15,840] then the charge inside that small box
+- [01:15:16,420 - 01:15:18,960] is basically the volume of the small box,
+- [01:15:19,040 - 01:15:20,320] I'll take the volume to be one
+- [01:15:20,320 - 01:15:21,140] so that I don't have to
+- [01:15:21,140 - 01:15:21,960] write it over and over again,
+- [01:15:23,040 - 01:15:24,740] let's take the volume to be one,
+- [01:15:24,880 - 01:15:26,100] but think of the volume as small,
+- [01:15:26,280 - 01:15:27,730] but in some units where a
+- [01:15:27,730 - 01:15:29,180] small volume is just a unit volume,
+- [01:15:30,240 - 01:15:32,400] then what is the time derivative
+- [01:15:32,400 - 01:15:34,560] of the charge in that box?
+- [01:15:35,140 - 01:15:36,730] Well the charge in that
+- [01:15:36,730 - 01:15:38,320] box is just the charge density,
+- [01:15:38,540 - 01:15:39,530] if I take the volume
+- [01:15:39,530 - 01:15:40,520] of the box to be one.
+- [01:15:41,140 - 01:15:42,920] If the volume of the box is one,
+- [01:15:43,120 - 01:15:44,540] charge per unit volume,
+- [01:15:44,860 - 01:15:47,000] then rho is just the charge in that box.
+- [01:15:47,680 - 01:15:50,820] The time derivative of the charge is just rho dot.
+- [01:15:50,820 - 01:15:52,660] The time derivative of rho.
+- [01:15:53,760 - 01:15:55,600] What the conservation,
+- [01:15:56,000 - 01:15:58,820] or we can call it the local conservation of charge,
+- [01:15:59,100 - 01:16:03,360] the idea that charge can't change within a volume
+- [01:16:03,360 - 01:16:07,440] unless it's discovered to be passing through the walls,
+- [01:16:07,700 - 01:16:09,820] that's called local conservation.
+- [01:16:11,080 - 01:16:13,820] Local conservation says that rho
+- [01:16:13,820 - 01:16:16,560] dot must somehow be connected with,
+- [01:16:16,620 - 01:16:18,000] which means equal to,
+- [01:16:18,520 - 01:16:20,720] something or other about the boundary.
+- [01:16:20,820 - 01:16:21,420] So that's the boundaries of the box.
+- [01:16:22,339 - 01:16:22,860] Okay,
+- [01:16:22,860 - 01:16:23,400] so,
+- [01:16:24,839 - 01:16:25,880] supposing rho,
+- [01:16:26,820 - 01:16:28,540] let's take the case where it increases,
+- [01:16:28,920 - 01:16:30,560] supposing the charge increases,
+- [01:16:31,120 - 01:16:32,920] that must mean there's some
+- [01:16:32,920 - 01:16:34,720] net flow of charge coming in.
+- [01:16:35,160 - 01:16:37,480] The net flow of charge coming in
+- [01:16:37,480 - 01:16:39,300] must be the sum of the
+- [01:16:39,300 - 01:16:41,120] charges coming in through this window,
+- [01:16:41,320 - 01:16:42,700] plus this window,
+- [01:16:42,940 - 01:16:45,200] plus the charge coming in from this window,
+- [01:16:45,360 - 01:16:46,400] plus that window,
+- [01:16:46,560 - 01:16:49,080] plus the ones in the front and the back.
+- [01:16:49,700 - 01:16:50,180] Okay.
+- [01:16:50,600 - 01:16:53,020] So let's consider the charge coming in
+- [01:16:53,520 - 01:16:55,020] through this window over here.
+- [01:16:55,280 - 01:16:56,160] What is that?
+- [01:16:57,140 - 01:16:58,260] That's the value,
+- [01:16:58,380 - 01:17:00,220] let's take this to be the x-axis.
+- [01:17:00,440 - 01:17:01,980] We'll take that to be the x-axis.
+- [01:17:02,200 - 01:17:04,360] The vertical one will be the y-axis.
+- [01:17:04,420 - 01:17:05,480] The other one is the x,
+- [01:17:05,480 - 01:17:05,780] y,
+- [01:17:05,780 - 01:17:05,980] z,
+- [01:17:05,980 - 01:17:06,740] z-axis.
+- [01:17:07,960 - 01:17:10,680] The charge coming through this window over here
+- [01:17:11,440 - 01:17:12,340] is proportional
+- [01:17:14,840 - 01:17:15,800] to jx.
+- [01:17:17,640 - 01:17:18,120] Now,
+- [01:17:18,120 - 01:17:18,900] in fact,
+- [01:17:20,139 - 01:17:22,260] jx is defined in such a way
+- [01:17:22,260 - 01:17:24,380] that it corresponds to the flow from
+- [01:17:24,380 - 01:17:27,660] lower values of x to larger values of x.
+- [01:17:27,800 - 01:17:28,560] So in particular,
+- [01:17:28,700 - 01:17:31,320] the charge coming into here per unit time
+- [01:17:31,320 - 01:17:32,260] through this window
+- [01:17:32,900 - 01:17:34,640] is actually minus jx,
+- [01:17:34,800 - 01:17:37,620] and it's minus jx at that point,
+- [01:17:37,660 - 01:17:39,180] or in the neighborhood of that point.
+- [01:17:39,920 - 01:17:42,180] So there's some charge flowing in from here,
+- [01:17:42,900 - 01:17:44,620] and we can add them all up.
+- [01:17:45,300 - 01:17:46,800] Minus jx over here.
+- [01:17:46,920 - 01:17:48,220] What about over here?
+- [01:17:49,219 - 01:17:51,540] What's the charge flowing in from this side?
+- [01:17:52,620 - 01:17:54,480] It's plus jx,
+- [01:17:54,740 - 01:17:56,280] but not at the same point.
+- [01:17:57,780 - 01:18:00,540] jx at a somewhat displaced point,
+- [01:18:01,340 - 01:18:03,720] displaced along the x-axis.
+- [01:18:05,920 - 01:18:07,880] So if I take this contribution
+- [01:18:07,880 - 01:18:09,340] and that contribution,
+- [01:18:09,980 - 01:18:14,880] it corresponds to a certain derivative of jx,
+- [01:18:15,140 - 01:18:18,680] the difference between jx over here and over here,
+- [01:18:19,080 - 01:18:21,440] and it is basically
+- [01:18:22,139 - 01:18:24,820] the derivative of jx with respect to x.
+- [01:18:26,000 - 01:18:26,900] In fact,
+- [01:18:26,900 - 01:18:27,440] it's minus
+- [01:18:28,080 - 01:18:31,260] the derivative of jx with respect to x.
+- [01:18:32,440 - 01:18:35,220] That's the contribution from the two faces
+- [01:18:35,220 - 01:18:37,720] which are perpendicular to x.
+- [01:18:37,940 - 01:18:40,360] The two faces which are perpendicular to x,
+- [01:18:40,640 - 01:18:43,120] the charge per unit time
+- [01:18:43,120 - 01:18:44,840] flowing per unit time
+- [01:18:45,540 - 01:18:46,700] is proportional
+- [01:18:46,700 - 01:18:50,660] to minus the derivative of jx with respect to x.
+- [01:18:51,400 - 01:18:53,920] What about the charge flowing into the box
+- [01:18:54,940 - 01:18:56,660] through the y faces,
+- [01:18:56,980 - 01:18:59,480] through the faces perpendicular to the y-axis?
+- [01:18:59,700 - 01:19:00,740] Same thing.
+- [01:19:01,780 - 01:19:05,700] Minus the derivative of jy with respect to y.
+- [01:19:06,580 - 01:19:07,800] In other words,
+- [01:19:07,800 - 01:19:09,420] some charge flowing in here,
+- [01:19:09,540 - 01:19:11,280] some charge flowing in here,
+- [01:19:11,380 - 01:19:14,340] because of the opposite sense of direction,
+- [01:19:15,420 - 01:19:16,420] it's a difference.
+- [01:19:16,700 - 01:19:18,320] Minus jy with respect to y,
+- [01:19:18,480 - 01:19:18,960] and finally,
+- [01:19:18,960 - 01:19:21,720] minus the derivative of jz
+- [01:19:21,720 - 01:19:23,080] with respect to z.
+- [01:19:24,220 - 01:19:27,840] This is the net charge per unit time
+- [01:19:28,719 - 01:19:30,260] flowing into the box
+- [01:19:30,260 - 01:19:33,180] by flowing through these three kinds of windows.
+- [01:19:35,800 - 01:19:38,980] This must be equal to the time rate of change
+- [01:19:38,980 - 01:19:40,620] of the charge in the box.
+- [01:19:41,760 - 01:19:43,400] So we now have an equation
+- [01:19:43,400 - 01:19:46,480] that rho dot is equal to minus
+- [01:19:46,700 - 01:19:48,340] and what is this?
+- [01:19:49,340 - 01:19:51,300] This is the divergence of j,
+- [01:19:51,540 - 01:19:52,720] del dot j.
+- [01:19:55,060 - 01:19:55,800] Or,
+- [01:19:55,800 - 01:19:59,360] rho dot plus del dot j
+- [01:20:00,260 - 01:20:01,740] is equal to zero.
+- [01:20:03,320 - 01:20:08,300] That equation is a local point,
+- [01:20:08,420 - 01:20:11,240] neighborhood by neighborhood expression
+- [01:20:11,240 - 01:20:13,340] of the conservation of charge.
+- [01:20:14,580 - 01:20:15,820] If it's true,
+- [01:20:16,700 - 01:20:19,920] then the charge within any small region
+- [01:20:20,589 - 01:20:21,960] will only change
+- [01:20:22,800 - 01:20:26,720] due to the flow of charge out of that region,
+- [01:20:26,880 - 01:20:29,660] the flow of charge through the walls of the region.
+- [01:20:30,580 - 01:20:30,860] Okay?
+- [01:20:32,460 - 01:20:33,340] All right,
+- [01:20:33,340 - 01:20:34,820] so that's the idea of...
+- [01:20:34,820 - 01:20:38,260] This equation is known as the continuity equation.
+- [01:20:39,320 - 01:20:40,020] Continuity.
+- [01:20:44,179 - 01:20:46,860] I don't like thinking of it as a continuity equation
+- [01:20:46,860 - 01:20:49,120] because continuity sounds like something
+- [01:20:49,120 - 01:20:50,360] that's necessarily continuous,
+- [01:20:50,360 - 01:20:51,340] which it's not.
+- [01:20:51,700 - 01:20:55,220] I like to call it local conservation.
+- [01:20:56,140 - 01:20:57,120] In other words,
+- [01:20:57,120 - 01:20:57,520] conservation,
+- [01:20:57,880 - 01:20:59,600] but a strong form of conservation
+- [01:20:59,600 - 01:21:01,310] which does not allow a
+- [01:21:01,310 - 01:21:03,020] charge to disappear at one place
+- [01:21:03,020 - 01:21:05,260] and reappear at another place
+- [01:21:05,260 - 01:21:08,380] unless in between there's a flow of charge,
+- [01:21:08,380 - 01:21:09,080] a current.
+- [01:21:10,300 - 01:21:10,740] Okay,
+- [01:21:10,740 - 01:21:12,180] so this is the continuity equation,
+- [01:21:12,760 - 01:21:14,060] and it's another one of...
+- [01:21:14,060 - 01:21:16,380] It's another equation that has to be added to these,
+- [01:21:16,660 - 01:21:18,030] but in fact it really doesn't
+- [01:21:18,030 - 01:21:19,400] have to be added to these.
+- [01:21:19,920 - 01:21:21,820] It's a consequence of these equations.
+- [01:21:21,940 - 01:21:25,000] So I suggest to you the following exercise.
+- [01:21:26,980 - 01:21:28,960] Here we have an expression for rho.
+- [01:21:29,080 - 01:21:32,420] Here we have an expression for j.
+- [01:21:33,660 - 01:21:36,620] You can take the time derivative of the left-hand side,
+- [01:21:36,800 - 01:21:37,860] and it will give you rho dot.
+- [01:21:37,860 - 01:21:41,320] You can take the divergence of the right-hand side,
+- [01:21:41,520 - 01:21:42,840] and it will give you divergence of j.
+- [01:21:44,120 - 01:21:47,400] See if you can prove that as an identity
+- [01:21:48,839 - 01:21:50,939] that rho dot plus del
+- [01:21:50,939 - 01:21:53,040] dot j is equal to zero.
+- [01:21:53,360 - 01:21:54,440] In other words,
+- [01:21:54,440 - 01:21:56,600] that Maxwell's equations
+- [01:21:58,619 - 01:22:01,780] require the charge to be conserved.
+- [01:22:03,740 - 01:22:05,420] It's such an important thing
+- [01:22:05,420 - 01:22:07,500] that I'm sort of tempted to see
+- [01:22:07,500 - 01:22:07,840] if I can get it right.
+- [01:22:07,860 - 01:22:08,920] I can do it on the blackboard.
+- [01:22:09,520 - 01:22:10,840] It is really central.
+- [01:22:11,100 - 01:22:12,000] It's really central.
+- [01:22:12,780 - 01:22:16,080] Charge conservation is not an option
+- [01:22:18,180 - 01:22:22,280] that it follows from the Maxwell equations.
+- [01:22:22,720 - 01:22:23,800] I'm going to let you do it.
+- [01:22:23,880 - 01:22:24,140] It's fun.
+- [01:22:24,240 - 01:22:25,300] It's a little bit of an exercise.
+- [01:22:25,580 - 01:22:26,620] It uses a couple of identities.
+- [01:22:30,260 - 01:22:30,720] And,
+- [01:22:30,720 - 01:22:31,320] you know,
+- [01:22:31,320 - 01:22:35,180] it's truly central to the whole game.
+- [01:22:37,860 - 01:22:38,380] Okay,
+- [01:22:38,380 - 01:22:43,100] so now we have Maxwell's equations.
+- [01:22:43,200 - 01:22:50,140] And the real question that I want to address
+- [01:22:50,830 - 01:22:52,980] is can we express all of these equations
+- [01:22:52,980 - 01:22:54,900] in a relativistic notation
+- [01:22:55,690 - 01:22:57,020] which makes it clear
+- [01:22:57,690 - 01:22:59,340] that the collection of equations
+- [01:22:59,750 - 01:23:01,960] is invariant on the Lorentz transformations?
+- [01:23:02,040 - 01:23:02,800] In other words,
+- [01:23:02,800 - 01:23:04,780] can we express them as tensor equations?
+- [01:23:06,360 - 01:23:07,840] Equations with indices upstairs,
+- [01:23:07,840 - 01:23:08,540] downstairs,
+- [01:23:08,700 - 01:23:13,740] with the rules of indexology.
+- [01:23:15,060 - 01:23:15,460] Yes,
+- [01:23:15,460 - 01:23:15,640] sir?
+- [01:23:16,400 - 01:23:19,740] We didn't really show those last two equations
+- [01:23:19,740 - 01:23:20,680] how they came to be.
+- [01:23:21,060 - 01:23:21,680] Which ones?
+- [01:23:22,860 - 01:23:25,540] The second set of the hard ones.
+- [01:23:25,860 - 01:23:26,260] No,
+- [01:23:26,260 - 01:23:27,120] we haven't come to these yet.
+- [01:23:27,140 - 01:23:27,540] We have not.
+- [01:23:28,000 - 01:23:28,700] We have not.
+- [01:23:28,900 - 01:23:29,100] No,
+- [01:23:29,100 - 01:23:29,460] exactly.
+- [01:23:30,180 - 01:23:30,580] No,
+- [01:23:30,580 - 01:23:31,200] that's right.
+- [01:23:31,360 - 01:23:31,760] Well,
+- [01:23:31,760 - 01:23:32,840] this is the target.
+- [01:23:33,000 - 01:23:33,720] This is the target.
+- [01:23:33,720 - 01:23:34,960] This is Maxwell's...
+- [01:23:37,500 - 01:23:38,240] Let's see.
+- [01:23:41,659 - 01:23:44,380] This and this were known to Faraday.
+- [01:23:46,060 - 01:23:49,360] Faraday also knew that del cross B equals J,
+- [01:23:49,620 - 01:23:51,860] but he didn't have it worked out
+- [01:23:51,860 - 01:23:53,580] in the case where there was time dependence.
+- [01:23:54,560 - 01:23:58,660] This term here was invented by Maxwell.
+- [01:23:59,020 - 01:24:00,400] Without this term,
+- [01:24:00,400 - 01:24:01,980] you would not discover...
+- [01:24:02,600 - 01:24:02,720] In fact,
+- [01:24:02,720 - 01:24:03,520] you would discover that
+- [01:24:03,720 - 01:24:05,180] charge conservation is false.
+- [01:24:05,720 - 01:24:09,820] This term is essential to prove that
+- [01:24:09,820 - 01:24:12,180] rho dot plus del dot J is equal to zero.
+- [01:24:12,540 - 01:24:12,980] So,
+- [01:24:12,980 - 01:24:13,300] in fact,
+- [01:24:13,300 - 01:24:14,860] what Maxwell did is
+- [01:24:14,860 - 01:24:16,280] he knew about charge conservation.
+- [01:24:16,720 - 01:24:19,200] So did Faraday.
+- [01:24:19,400 - 01:24:21,120] They knew about charge conservation.
+- [01:24:21,220 - 01:24:22,820] They knew about the continuity equation.
+- [01:24:23,620 - 01:24:25,390] And Maxwell realized that he
+- [01:24:25,390 - 01:24:27,160] has to put this term in
+- [01:24:27,519 - 01:24:29,920] in order for charge to be conserved.
+- [01:24:30,360 - 01:24:32,030] That it wouldn't work unless
+- [01:24:32,030 - 01:24:33,700] you were able to do it.
+- [01:24:33,720 - 01:24:34,780] So he added this term over here.
+- [01:24:34,880 - 01:24:37,100] So that's a nice exercise to work out.
+- [01:24:38,920 - 01:24:39,400] Okay.
+- [01:24:40,880 - 01:24:44,140] Let's see what we can do about making these equations
+- [01:24:45,180 - 01:24:46,140] relativistically invariant.
+- [01:24:46,160 - 01:24:46,760] In other words,
+- [01:24:46,760 - 01:24:47,340] some...
+- [01:24:48,380 - 01:24:49,640] just relativistic notation.
+- [01:24:52,120 - 01:24:52,600] Well,
+- [01:24:52,600 - 01:24:54,380] this one over here is pretty clear.
+- [01:24:54,440 - 01:24:55,160] It's pretty obvious.
+- [01:24:56,160 - 01:24:58,280] Let's rewrite it in a
+- [01:24:58,280 - 01:25:00,400] form that is easy to see.
+- [01:25:01,000 - 01:25:03,700] Rho dot is d by 2.
+- [01:25:03,700 - 01:25:05,160] d by dt of,
+- [01:25:05,160 - 01:25:07,600] let's call it rho.
+- [01:25:07,840 - 01:25:08,560] It is rho.
+- [01:25:09,460 - 01:25:10,340] What about this?
+- [01:25:10,460 - 01:25:15,580] This one is plus d by dx of Jx
+- [01:25:16,759 - 01:25:22,020] plus d by dy of Jy
+- [01:25:22,700 - 01:25:27,640] plus d by dz of Jz.
+- [01:25:27,900 - 01:25:28,600] Now,
+- [01:25:28,600 - 01:25:29,120] so far,
+- [01:25:29,120 - 01:25:31,320] I've not been thinking about
+- [01:25:31,320 - 01:25:33,540] four vector notation and so forth.
+- [01:25:33,700 - 01:25:36,140] We've been thinking three-dimensionally.
+- [01:25:36,460 - 01:25:38,700] So from the three-dimensional point of view,
+- [01:25:38,740 - 01:25:41,220] there is no difference between an upstairs index
+- [01:25:41,220 - 01:25:42,520] and a downstairs index.
+- [01:25:43,120 - 01:25:44,860] But when we look at this equation,
+- [01:25:45,490 - 01:25:49,580] it becomes natural to think of it
+- [01:25:51,320 - 01:25:55,620] in a notation which is sort of manifestly Lorentz.
+- [01:25:55,940 - 01:25:57,080] Lorentz invariant.
+- [01:26:01,300 - 01:26:02,400] First of all,
+- [01:26:02,400 - 01:26:05,460] differentiating with respect to an xm,
+- [01:26:06,400 - 01:26:07,880] that's a downstairs index.
+- [01:26:12,480 - 01:26:13,700] If we put...
+- [01:26:13,700 - 01:26:15,920] If we write the index upstairs,
+- [01:26:17,049 - 01:26:21,320] then this is part of a scalar.
+- [01:26:21,980 - 01:26:24,100] Let's say it more completely.
+- [01:26:26,030 - 01:26:28,000] Let's define rho
+- [01:26:29,130 - 01:26:30,840] to be the time component
+- [01:26:30,840 - 01:26:32,360] of J.
+- [01:26:33,820 - 01:26:34,800] In other words,
+- [01:26:34,800 - 01:26:35,560] take Jx,
+- [01:26:35,560 - 01:26:36,220] Jy,
+- [01:26:36,220 - 01:26:36,940] and Jz.
+- [01:26:38,540 - 01:26:40,220] Put them together with rho.
+- [01:26:41,900 - 01:26:42,460] Rho,
+- [01:26:45,619 - 01:26:46,179] Jx,
+- [01:26:46,179 - 01:26:46,740] Jy,
+- [01:26:46,740 - 01:26:48,000] and Jz.
+- [01:26:48,780 - 01:26:50,840] I'm putting the index here upstairs,
+- [01:26:50,980 - 01:26:52,460] but it doesn't matter because
+- [01:26:52,460 - 01:26:54,460] three-dimensional indices doesn't matter
+- [01:26:54,460 - 01:26:55,600] whether you put them upstairs or downstairs.
+- [01:26:56,080 - 01:26:58,540] Put them together and call the whole complex
+- [01:26:58,540 - 01:26:59,560] of four objects,
+- [01:27:01,800 - 01:27:02,560] Jmu,
+- [01:27:04,240 - 01:27:05,540] with an upstairs index.
+- [01:27:06,360 - 01:27:10,040] Then this equation has the form of a
+- [01:27:10,040 - 01:27:15,360] four-dimensional relativistically invariant equation,
+- [01:27:16,740 - 01:27:19,040] Djmu by Dxmu,
+- [01:27:19,280 - 01:27:20,620] summed over mu,
+- [01:27:22,220 - 01:27:23,880] Einstein's summation in the convention,
+- [01:27:23,880 - 01:27:25,020] equals zero.
+- [01:27:27,540 - 01:27:28,740] So it's natural,
+- [01:27:28,740 - 01:27:29,220] therefore,
+- [01:27:29,840 - 01:27:32,040] to think of rho together with J
+- [01:27:32,740 - 01:27:34,740] as the components of a four vector.
+- [01:27:36,140 - 01:27:36,900] In fact,
+- [01:27:36,900 - 01:27:38,240] it's not hard to prove
+- [01:27:38,240 - 01:27:39,800] that they really do transform
+- [01:27:41,059 - 01:27:43,240] as the components of a four vector.
+- [01:27:46,240 - 01:27:47,980] Let's not try to do that at the moment.
+- [01:27:48,080 - 01:27:51,700] Let's just make use of our notation
+- [01:27:51,700 - 01:27:54,840] to take it as a very strong suggestion.
+- [01:27:54,840 - 01:27:57,380] That the components of rho and J
+- [01:27:57,380 - 01:27:59,180] form a single complex.
+- [01:27:59,480 - 01:28:00,520] Of course they do.
+- [01:28:00,640 - 01:28:02,240] They were defined pretty much in the same way.
+- [01:28:02,300 - 01:28:04,920] You took windows in various directions in space and time
+- [01:28:04,920 - 01:28:07,800] and asked about the charge passing through those windows.
+- [01:28:08,380 - 01:28:10,360] So it's a rather symmetric thing
+- [01:28:10,360 - 01:28:11,740] with respect to space and time.
+- [01:28:11,880 - 01:28:12,380] And in fact,
+- [01:28:12,380 - 01:28:13,360] that symmetry
+- [01:28:14,179 - 01:28:15,580] is just the statement
+- [01:28:15,580 - 01:28:17,540] that the complex rho,
+- [01:28:17,540 - 01:28:18,100] J,
+- [01:28:18,280 - 01:28:19,580] form a four vector.
+- [01:28:20,920 - 01:28:21,440] Question.
+- [01:28:21,840 - 01:28:22,020] Yeah.
+- [01:28:23,120 - 01:28:24,280] Is there some
+- [01:28:24,840 - 01:28:26,140] trick that I missed
+- [01:28:26,140 - 01:28:27,120] when the
+- [01:28:27,740 - 01:28:29,220] code derivative of rho
+- [01:28:29,220 - 01:28:31,300] with respect to T became a partial derivative?
+- [01:28:31,700 - 01:28:32,140] Oh,
+- [01:28:32,140 - 01:28:32,640] no,
+- [01:28:32,640 - 01:28:33,520] it is partial derivative.
+- [01:28:33,820 - 01:28:35,460] It was always partial derivative.
+- [01:28:36,440 - 01:28:37,920] It was always partial derivative.
+- [01:28:38,200 - 01:28:38,680] Why?
+- [01:28:38,680 - 01:28:39,280] What does it mean?
+- [01:28:39,400 - 01:28:41,740] It means you stand at a point in space,
+- [01:28:42,480 - 01:28:43,540] a little box,
+- [01:28:43,780 - 01:28:45,760] and you ask how much the
+- [01:28:45,760 - 01:28:48,320] charge inside that region changes.
+- [01:28:48,600 - 01:28:49,140] Now,
+- [01:28:49,140 - 01:28:51,060] we're not moving the box from place to place.
+- [01:28:51,120 - 01:28:52,640] We're keeping the box fixed.
+- [01:28:53,120 - 01:28:54,820] That means we're differentiating
+- [01:28:54,840 - 01:28:55,980] with respect to time,
+- [01:28:56,000 - 01:28:56,720] keeping x,
+- [01:28:56,720 - 01:28:56,920] y,
+- [01:28:56,920 - 01:28:57,600] and z fixed.
+- [01:28:59,800 - 01:29:01,660] We're looking at a particular box.
+- [01:29:01,780 - 01:29:02,660] We're not moving it.
+- [01:29:02,780 - 01:29:03,500] And we're saying,
+- [01:29:03,620 - 01:29:06,120] what's the rate of change of charge in that box?
+- [01:29:06,760 - 01:29:08,160] That's a partial derivative
+- [01:29:08,840 - 01:29:12,980] because it's asking how the charge density changes
+- [01:29:13,580 - 01:29:14,700] if you vary time,
+- [01:29:14,920 - 01:29:16,320] not varying x,
+- [01:29:16,320 - 01:29:16,620] y,
+- [01:29:16,620 - 01:29:16,920] or z.
+- [01:29:17,540 - 01:29:20,320] So rho dot could signify partial derivative?
+- [01:29:20,760 - 01:29:21,320] Yeah,
+- [01:29:21,320 - 01:29:23,500] rho dot meant partial derivative.
+- [01:29:24,559 - 01:29:25,080] Right.
+- [01:29:26,540 - 01:29:28,360] We're not following some trajectory.
+- [01:29:28,500 - 01:29:29,960] We're just looking at a fixed box.
+- [01:29:30,460 - 01:29:31,460] So that's right.
+- [01:29:31,560 - 01:29:34,500] Rho dot just meant literally
+- [01:29:36,400 - 01:29:38,340] partial derivative with respect to time.
+- [01:29:38,500 - 01:29:39,160] That's a good point.
+- [01:29:40,140 - 01:29:40,660] Okay,
+- [01:29:40,660 - 01:29:42,220] and then the rest of them
+- [01:29:42,220 - 01:29:43,320] are also partial derivatives.
+- [01:29:43,880 - 01:29:48,500] So now we have the elements necessary to...
+- [01:29:49,220 - 01:29:53,080] We know that E and B form a...
+- [01:29:54,019 - 01:29:56,520] anti-symmetric tensor with two indices.
+- [01:29:57,480 - 01:30:01,800] J and rho form a four vector,
+- [01:30:02,060 - 01:30:02,960] in other words,
+- [01:30:02,960 - 01:30:04,180] a tensor with one index.
+- [01:30:04,920 - 01:30:06,240] And here's a set of...
+- [01:30:08,360 - 01:30:10,320] Here are a set of four equations,
+- [01:30:10,920 - 01:30:11,880] and the question is,
+- [01:30:11,920 - 01:30:13,420] can we express them in a way
+- [01:30:13,420 - 01:30:17,280] which is invariant under Lorentz transformations?
+- [01:30:23,080 - 01:30:23,640] Yeah.
+- [01:30:32,590 - 01:30:35,390] Thank you.
+- [01:30:35,426 - 01:30:38,826] Let's begin with the left side,
+- [01:30:38,826 - 01:30:40,206] not the left side,
+- [01:30:40,206 - 01:30:40,466] sorry.
+- [01:30:40,566 - 01:30:43,545] Let's begin with the two equations in this box,
+- [01:30:43,545 - 01:30:45,686] the equations that were for free.
+- [01:30:46,186 - 01:30:50,896] The equations that were just a consequence of the
+- [01:30:50,896 - 01:30:55,606] definitions of B and E in terms of vector potential.
+- [01:30:57,066 - 01:30:57,906] What are they?
+- [01:30:57,906 - 01:30:59,426] They're some kind of derivative.
+- [01:31:01,186 - 01:31:05,596] Each one of these equations has a
+- [01:31:05,596 - 01:31:10,006] derivative acting on a component of F.
+- [01:31:12,886 - 01:31:14,946] And the result is equal to zero.
+- [01:31:18,106 - 01:31:20,406] How many such equations are there?
+- [01:31:20,406 - 01:31:22,666] There are four such equations.
+- [01:31:22,746 - 01:31:23,506] Here's one,
+- [01:31:23,506 - 01:31:25,866] and there are three more here.
+- [01:31:25,946 - 01:31:27,506] There are three because it's a...
+- [01:31:28,066 - 01:31:28,406] Right.
+- [01:31:28,726 - 01:31:29,406] So...
+- [01:31:29,426 - 01:31:31,086] So there are four such equations,
+- [01:31:31,086 - 01:31:34,446] and I will just show you how
+- [01:31:34,446 - 01:31:37,806] to write them out in tensor notation,
+- [01:31:38,126 - 01:31:39,266] and then we can check.
+- [01:31:39,406 - 01:31:41,136] We can check them one by one and
+- [01:31:41,136 - 01:31:42,866] see that they're the same set of equations.
+- [01:31:44,006 - 01:31:44,966] Here it is.
+- [01:31:48,386 - 01:31:52,566] There are some tricks to doing it,
+- [01:31:52,566 - 01:31:55,526] but the answer is more interesting than the tricks.
+- [01:31:55,766 - 01:31:56,806] Or the answer,
+- [01:31:56,806 - 01:31:58,086] the fact that it's covariant.
+- [01:31:58,086 - 01:31:59,226] So let me write it out for you.
+- [01:31:59,426 - 01:31:59,526] Here it is.
+- [01:32:00,606 - 01:32:01,966] It's d sigma.
+- [01:32:02,206 - 01:32:04,086] Now sigma can be any one of four.
+- [01:32:05,446 - 01:32:05,846] T,
+- [01:32:05,846 - 01:32:06,206] x,
+- [01:32:06,206 - 01:32:06,466] y,
+- [01:32:06,466 - 01:32:06,746] or z,
+- [01:32:06,746 - 01:32:07,486] or 0,
+- [01:32:07,486 - 01:32:07,826] 1,
+- [01:32:07,826 - 01:32:08,026] 2,
+- [01:32:08,026 - 01:32:08,386] or 3.
+- [01:32:10,945 - 01:32:13,086] F nu tau.
+- [01:32:20,485 - 01:32:21,686] Plus d nu.
+- [01:32:23,426 - 01:32:25,206] I'll tell you how you get this in a moment.
+- [01:32:26,985 - 01:32:28,306] Nu tau sigma.
+- [01:32:33,605 - 01:32:34,806] Plus d tau.
+- [01:32:36,926 - 01:32:37,326] F.
+- [01:32:40,426 - 01:32:40,826] Now.
+- [01:32:50,746 - 01:32:51,146] Let's see.
+- [01:32:51,226 - 01:32:51,526] It's tau,
+- [01:32:51,526 - 01:32:52,886] so it's got to be nu and sigma,
+- [01:32:52,886 - 01:32:54,006] and it must be sigma nu.
+- [01:32:54,706 - 01:32:55,106] Nu.
+- [01:32:55,926 - 01:32:56,506] Equals 0.
+- [01:32:58,446 - 01:32:59,226] You take...
+- [01:32:59,426 - 01:33:02,826] Any three of these components,
+- [01:33:02,826 - 01:33:03,606] sigma,
+- [01:33:03,606 - 01:33:04,046] nu,
+- [01:33:04,046 - 01:33:04,626] and tau,
+- [01:33:06,186 - 01:33:08,426] for any combination of sigma,
+- [01:33:08,426 - 01:33:08,726] nu,
+- [01:33:08,726 - 01:33:09,246] and tau,
+- [01:33:09,486 - 01:33:09,706] 1,
+- [01:33:09,706 - 01:33:10,106] 2,
+- [01:33:10,106 - 01:33:10,426] 3,
+- [01:33:10,426 - 01:33:10,766] 2,
+- [01:33:10,766 - 01:33:11,006] 3,
+- [01:33:11,006 - 01:33:11,126] 1,
+- [01:33:11,126 - 01:33:11,426] whatever,
+- [01:33:11,606 - 01:33:13,086] this is equal to 0.
+- [01:33:13,666 - 01:33:16,966] That's equivalent to these equations.
+- [01:33:17,066 - 01:33:17,726] Let's check.
+- [01:33:17,966 - 01:33:18,766] Let's just check.
+- [01:33:18,906 - 01:33:20,496] The way to do this is
+- [01:33:20,496 - 01:33:22,086] just to go through them and check.
+- [01:33:22,606 - 01:33:23,566] In particular,
+- [01:33:23,566 - 01:33:26,366] let's take the case...
+- [01:33:27,366 - 01:33:28,066] Let's see.
+- [01:33:29,426 - 01:33:29,586] Yeah.
+- [01:33:30,226 - 01:33:33,406] Let's take the case first where all three indices,
+- [01:33:33,406 - 01:33:34,266] sigma,
+- [01:33:34,266 - 01:33:34,686] nu,
+- [01:33:34,686 - 01:33:35,386] and tau,
+- [01:33:35,386 - 01:33:37,146] are space components.
+- [01:33:38,166 - 01:33:38,706] Okay?
+- [01:33:38,886 - 01:33:40,086] Let's see what this says.
+- [01:33:40,206 - 01:33:40,706] If sigma,
+- [01:33:40,706 - 01:33:41,086] nu,
+- [01:33:41,086 - 01:33:42,966] and tau are space components.
+- [01:33:43,686 - 01:33:45,346] So this is d...
+- [01:33:45,346 - 01:33:45,946] Well,
+- [01:33:45,946 - 01:33:47,346] I won't rewrite it.
+- [01:33:48,126 - 01:33:49,366] I'm getting a little tired,
+- [01:33:49,366 - 01:33:51,666] but let's go through it.
+- [01:33:53,066 - 01:33:53,606] Yeah.
+- [01:33:59,426 - 01:34:00,186] Notice...
+- [01:34:03,446 - 01:34:04,466] Let's see.
+- [01:34:09,386 - 01:34:10,266] Let's see.
+- [01:34:15,446 - 01:34:19,286] Let's take sigma equals x,
+- [01:34:19,286 - 01:34:22,526] nu equals y,
+- [01:34:22,526 - 01:34:25,826] and tau equals z.
+- [01:34:26,326 - 01:34:29,066] Let's try that combination and see what we get.
+- [01:34:29,686 - 01:34:30,206] Then,
+- [01:34:30,206 - 01:34:32,346] this is derivative with respect to x.
+- [01:34:33,866 - 01:34:34,386] Now,
+- [01:34:34,386 - 01:34:35,206] this is f,
+- [01:34:35,206 - 01:34:35,486] nu,
+- [01:34:35,486 - 01:34:36,106] tau.
+- [01:34:36,366 - 01:34:37,346] So that's f,
+- [01:34:37,346 - 01:34:37,646] y,
+- [01:34:37,646 - 01:34:38,046] z.
+- [01:34:38,446 - 01:34:38,966] f,
+- [01:34:38,966 - 01:34:39,226] y,
+- [01:34:39,226 - 01:34:40,406] z is what?
+- [01:34:40,546 - 01:34:42,706] It's a component of the magnetic field.
+- [01:34:42,906 - 01:34:43,506] Which component?
+- [01:34:44,786 - 01:34:45,306] Good.
+- [01:34:45,986 - 01:34:46,506] Bx.
+- [01:34:48,666 - 01:34:49,186] Okay.
+- [01:34:49,366 - 01:34:50,726] How about this one over here?
+- [01:34:50,846 - 01:34:51,146] Now,
+- [01:34:51,146 - 01:34:52,885] nu is equal to y.
+- [01:34:53,346 - 01:34:56,325] So this is plus derivative with respect to y.
+- [01:34:57,366 - 01:34:58,666] Tau and sigma.
+- [01:34:58,826 - 01:34:59,326] What are?
+- [01:34:59,426 - 01:35:00,026] Tau and sigma.
+- [01:35:00,466 - 01:35:01,806] Z and x.
+- [01:35:02,206 - 01:35:03,606] So what kind of B is that?
+- [01:35:04,106 - 01:35:04,546] By.
+- [01:35:06,406 - 01:35:08,106] You have to check the sign.
+- [01:35:08,386 - 01:35:10,006] The only thing that could go wrong is the sign.
+- [01:35:10,526 - 01:35:11,786] And the last one,
+- [01:35:11,786 - 01:35:13,766] tau is equal to z.
+- [01:35:18,966 - 01:35:21,486] And sigma and nu are x and y.
+- [01:35:21,606 - 01:35:22,566] So this is Bz.
+- [01:35:23,686 - 01:35:24,986] And that's equal to zero.
+- [01:35:25,526 - 01:35:27,666] That's simply del dot B is equal to zero.
+- [01:35:28,306 - 01:35:28,746] Okay.
+- [01:35:29,426 - 01:35:32,706] So if we take all three of
+- [01:35:32,706 - 01:35:35,986] these to be different components and pure space-like,
+- [01:35:37,806 - 01:35:38,246] sigma,
+- [01:35:38,246 - 01:35:38,466] nu,
+- [01:35:38,466 - 01:35:38,846] and tau,
+- [01:35:38,846 - 01:35:40,846] we just get del dot B equals zero.
+- [01:35:40,926 - 01:35:42,186] We get exactly the same thing,
+- [01:35:42,186 - 01:35:42,846] incidentally,
+- [01:35:42,846 - 01:35:44,906] if we took nu to be x,
+- [01:35:44,906 - 01:35:45,486] sorry,
+- [01:35:45,486 - 01:35:46,486] nu to be x,
+- [01:35:46,626 - 01:35:48,106] and sigma to be y.
+- [01:35:48,306 - 01:35:48,966] It wouldn't change.
+- [01:35:49,026 - 01:35:49,626] You get the same thing.
+- [01:35:51,046 - 01:35:51,486] Okay.
+- [01:35:52,166 - 01:35:53,526] Let's try another one.
+- [01:35:53,566 - 01:35:54,796] Let's take one of the
+- [01:35:54,796 - 01:35:56,026] components to be a time component.
+- [01:35:57,726 - 01:35:58,406] Which one?
+- [01:35:58,406 - 01:35:59,306] Which one?
+- [01:35:59,306 - 01:36:02,086] Do you have a preference for which one is time?
+- [01:36:03,286 - 01:36:03,746] Tau.
+- [01:36:03,986 - 01:36:04,446] Oh,
+- [01:36:04,446 - 01:36:04,726] good.
+- [01:36:05,786 - 01:36:06,626] Tau is time.
+- [01:36:06,786 - 01:36:06,946] Yeah.
+- [01:36:07,026 - 01:36:07,866] Tau is time.
+- [01:36:11,846 - 01:36:13,826] And let's take sigma and nu
+- [01:36:13,826 - 01:36:15,806] to be y and x again.
+- [01:36:15,926 - 01:36:17,266] So let's see what this says.
+- [01:36:20,186 - 01:36:20,646] Okay.
+- [01:36:20,746 - 01:36:21,386] D sigma,
+- [01:36:21,386 - 01:36:23,046] that's derivative with respect to y,
+- [01:36:23,046 - 01:36:26,906] of nu tau.
+- [01:36:27,026 - 01:36:27,186] Now,
+- [01:36:27,186 - 01:36:28,386] what's f nu tau?
+- [01:36:30,206 - 01:36:33,346] One leg in time and one leg in space.
+- [01:36:36,826 - 01:36:37,986] That's an electric field.
+- [01:36:38,906 - 01:36:42,886] The electric field are the mixed space-time components of f.
+- [01:36:43,506 - 01:36:44,206] All right.
+- [01:36:44,226 - 01:36:47,306] So let's not try to keep track of the signs.
+- [01:36:47,546 - 01:36:48,576] It's a little too tricky
+- [01:36:48,576 - 01:36:49,606] to keep track of the signs.
+- [01:36:49,786 - 01:36:54,986] Let's just be a little loose with the signs now.
+- [01:36:55,566 - 01:36:57,866] So f nu tau.
+- [01:36:58,626 - 01:36:59,126] That's f nu tau.
+- [01:36:59,126 - 01:36:59,806] And then f nu tau is e sub x.
+- [01:37:00,906 - 01:37:04,276] So this is derivative with respect to y of e
+- [01:37:04,276 - 01:37:07,646] sub x with a plus or minus sign that is
+- [01:37:07,646 - 01:37:09,156] a little too hard to keep track
+- [01:37:09,156 - 01:37:10,666] of in real time on the blackboard.
+- [01:37:11,106 - 01:37:12,246] What about this one?
+- [01:37:12,366 - 01:37:17,116] This is plus or minus derivative with
+- [01:37:17,116 - 01:37:21,866] respect to x of f sigma tau.
+- [01:37:23,206 - 01:37:25,146] That's e sub y.
+- [01:37:27,186 - 01:37:30,806] And no doubt there is a minus sign between them.
+- [01:37:33,606 - 01:37:35,386] So what is this a component of?
+- [01:37:35,446 - 01:37:36,766] What is this thing here?
+- [01:37:37,706 - 01:37:39,046] That's a piece of the curl.
+- [01:37:39,326 - 01:37:41,666] It's a component of the curl of e.
+- [01:37:42,546 - 01:37:44,546] Which one haven't I kept track of yet?
+- [01:37:44,606 - 01:37:45,046] This one?
+- [01:37:46,306 - 01:37:46,786] Okay.
+- [01:37:46,866 - 01:37:50,346] So this one is plus derivative with respect to t.
+- [01:37:50,506 - 01:37:50,986] Okay.
+- [01:37:51,326 - 01:37:51,806] So this one is plus derivative with respect to t.
+- [01:37:51,806 - 01:37:52,426] Okay.
+- [01:37:52,426 - 01:37:55,126] So this one is plus derivative of f sigma nu.
+- [01:37:58,226 - 01:38:01,886] That's the magnetic field in the z direction.
+- [01:38:03,145 - 01:38:06,435] f x y is the z
+- [01:38:06,435 - 01:38:09,726] component of the magnetic field equals 0.
+- [01:38:10,206 - 01:38:11,006] And again,
+- [01:38:11,006 - 01:38:13,386] there's some sign there that I haven't kept track of.
+- [01:38:13,486 - 01:38:16,446] But that's just at the curl of e minus
+- [01:38:16,446 - 01:38:19,406] the time derivative of b is equal to 0.
+- [01:38:20,626 - 01:38:21,186] Okay.
+- [01:38:21,266 - 01:38:21,686] Here's the problem.
+- [01:38:21,686 - 01:38:22,446] all of these equations,
+- [01:38:22,446 - 01:38:25,006] you can just see there are some repetitions.
+- [01:38:25,006 - 01:38:26,306] In general,
+- [01:38:26,306 - 01:38:26,766] it doesn't
+- [01:38:26,766 - 01:38:30,466] matter which way you set sigma nu and tau,
+- [01:38:30,466 - 01:38:30,746] x,
+- [01:38:30,746 - 01:38:31,006] y,
+- [01:38:31,006 - 01:38:31,306] t,
+- [01:38:31,306 - 01:38:31,806] or t,
+- [01:38:31,806 - 01:38:32,106] y,
+- [01:38:32,106 - 01:38:32,506] x,
+- [01:38:32,506 - 01:38:33,486] you'll get the same equation.
+- [01:38:34,046 - 01:38:36,106] You'll just find that these equations,
+- [01:38:36,106 - 01:38:37,206] all of them,
+- [01:38:37,206 - 01:38:39,106] for all possible sigma nu and tau,
+- [01:38:39,666 - 01:38:41,026] either just give you zero.
+- [01:38:41,026 - 01:38:43,506] There are times when you just get zero.
+- [01:38:43,506 - 01:38:44,626] In particular,
+- [01:38:44,626 - 01:38:44,886] if
+- [01:38:44,886 - 01:38:46,926] any two of the components are the same,
+- [01:38:46,926 - 01:38:48,786] you'll get zero every single time.
+- [01:38:48,786 - 01:38:49,806] And if they're
+- [01:38:49,806 - 01:38:50,366] not the same,
+- [01:38:50,366 - 01:38:54,026] you'll get either this equation or this equation.
+- [01:38:54,026 - 01:38:58,266] So the first equation here
+- [01:38:58,266 - 01:39:01,326] can be represented in a
+- [01:39:01,326 - 01:39:04,386] completely relativistically invariant tensor notation.
+- [01:39:04,386 - 01:39:08,206] This is a tensor
+- [01:39:08,206 - 01:39:09,406] with three components,
+- [01:39:09,406 - 01:39:10,946] or three indices,
+- [01:39:10,946 - 01:39:12,046] sigma,
+- [01:39:12,046 - 01:39:12,526] tau,
+- [01:39:12,526 - 01:39:12,946] and nu.
+- [01:39:12,946 - 01:39:16,666] And this is true.
+- [01:39:16,666 - 01:39:18,686] You can check
+- [01:39:18,686 - 01:39:19,666] this another way.
+- [01:39:19,806 - 01:39:24,906] You can remember that f is the derivative of
+- [01:39:24,906 - 01:39:30,006] a nu with respect to x tau minus the derivative
+- [01:39:30,006 - 01:39:33,026] of a tau with respect to x nu.
+- [01:39:33,026 - 01:39:35,946] That's this one.
+- [01:39:35,946 - 01:39:38,046] And then you have another one over here
+- [01:39:38,046 - 01:39:39,786] and another one over here.
+- [01:39:39,786 - 01:39:45,106] And you can simply work them all out,
+- [01:39:45,106 - 01:39:47,026] and you will discover term
+- [01:39:47,026 - 01:39:47,806] by term,
+- [01:39:47,806 - 01:39:48,646] they cancel.
+- [01:39:48,646 - 01:39:49,786] They just cancel.
+- [01:39:49,806 - 01:39:50,706] They cancel among themselves,
+- [01:39:50,706 - 01:39:51,846] and you get zero.
+- [01:39:51,846 - 01:39:54,486] So these equations here,
+- [01:39:54,486 - 01:39:55,946] the ones which
+- [01:39:55,946 - 01:39:56,686] come for free,
+- [01:39:56,686 - 01:39:59,976] the ones which just are determined by the
+- [01:39:59,976 - 01:40:03,266] fact that f is defined in terms of
+- [01:40:03,266 - 01:40:03,866] the vector potential,
+- [01:40:03,866 - 01:40:10,566] they are equivalent to this tensor equation.
+- [01:40:10,566 - 01:40:12,406] Completely Lorentz
+- [01:40:12,406 - 01:40:12,986] invariant.
+- [01:40:12,986 - 01:40:13,726] You can check that.
+- [01:40:13,726 - 01:40:14,906] You can see how it transforms.
+- [01:40:14,906 - 01:40:18,146] And this equation,
+- [01:40:18,146 - 01:40:19,146] or this
+- [01:40:19,146 - 01:40:20,186] complex of equations,
+- [01:40:20,186 - 01:40:20,906] has a name.
+- [01:40:20,906 - 01:40:23,626] The name is called the Bianchi identity,
+- [01:40:23,626 - 01:40:25,686] or it's a
+- [01:40:25,686 - 01:40:28,606] special case of an identity called the Bianchi identity.
+- [01:40:28,606 - 01:40:36,126] Giorgio,
+- [01:40:36,126 - 01:40:36,986] is there an h in that?
+- [01:40:37,326 - 01:40:37,746] Yes.
+- [01:40:37,906 - 01:40:38,206] Yes.
+- [01:40:38,206 - 01:40:42,226] The Bianchi identity.
+- [01:40:42,226 - 01:40:45,686] It has a similar identity in general relativity.
+- [01:40:45,686 - 01:40:48,266] It has a certain
+- [01:40:48,266 - 01:40:49,186] geometric meaning.
+- [01:40:49,186 - 01:40:51,146] Geometric meaning is interesting,
+- [01:40:51,146 - 01:40:51,866] but it's
+- [01:40:52,466 - 01:40:54,526] not for us tonight.
+- [01:40:55,646 - 01:40:56,806] What does it express?
+- [01:40:56,806 - 01:40:57,346] Again,
+- [01:40:57,346 - 01:40:58,776] one of the things it
+- [01:40:58,776 - 01:41:00,206] expresses is the fact that the
+- [01:41:00,206 - 01:41:01,706] magnetic field has no divergence,
+- [01:41:01,706 - 01:41:04,286] so there's no charge
+- [01:41:04,286 - 01:41:05,046] densities,
+- [01:41:05,046 - 01:41:05,626] sorry,
+- [01:41:05,626 - 01:41:07,286] no magnetic charge densities,
+- [01:41:07,286 - 01:41:08,306] but if there are no
+- [01:41:08,306 - 01:41:09,686] magnetic charge densities,
+- [01:41:09,686 - 01:41:11,346] there are no magnetic currents,
+- [01:41:11,346 - 01:41:12,286] you might have thought
+- [01:41:13,046 - 01:41:15,706] that by analogy with this equation,
+- [01:41:15,706 - 01:41:19,006] you could put a magnetic charge density here,
+- [01:41:19,006 - 01:41:19,646] the analog
+- [01:41:19,646 - 01:41:21,086] of an electric charge density,
+- [01:41:21,086 - 01:41:23,686] and a magnetic current over here.
+- [01:41:24,266 - 01:41:27,486] What we're finding is that the Bianchi identity
+- [01:41:27,486 - 01:41:31,566] is the statement that there are no magnetic charge
+- [01:41:31,566 - 01:41:33,726] densities or magnetic currents.
+- [01:41:36,146 - 01:41:37,406] Next time,
+- [01:41:37,406 - 01:41:39,026] we will come to these equations.
+- [01:41:39,966 - 01:41:41,866] These are the equations which
+- [01:41:41,866 - 01:41:43,766] are derived from an action principle.
+- [01:41:44,166 - 01:41:44,886] These,
+- [01:41:44,886 - 01:41:45,466] as I said,
+- [01:41:45,466 - 01:41:46,226] are just identities,
+- [01:41:46,226 - 01:41:47,326] you get them for free.
+- [01:41:47,326 - 01:41:48,946] These are the ones
+- [01:41:48,946 - 01:41:52,086] that are derived from the action principle,
+- [01:41:52,086 - 01:41:53,246] and we'll do that next time.
+- [01:41:53,606 - 01:41:54,166] Okay,
+- [01:41:54,166 - 01:41:56,166] I think we're finished for tonight.
+- [01:41:56,166 - 01:41:57,046] Any questions?
+- [01:41:57,846 - 01:41:58,126] Yeah?
+- [01:41:58,686 - 01:41:59,246] So,
+- [01:41:59,246 - 01:42:02,256] the capital F matrix
+- [01:42:02,256 - 01:42:05,266] essentially has six independent entities.
+- [01:42:05,666 - 01:42:06,026] Yeah.
+- [01:42:06,906 - 01:42:08,886] Three electric and three magnetic fields.
+- [01:42:08,946 - 01:42:11,706] And that's 64 different entities.
+- [01:42:12,606 - 01:42:12,946] Yeah,
+- [01:42:12,946 - 01:42:14,126] there's not that many there.
+- [01:42:14,286 - 01:42:14,686] Yeah.
+- [01:42:15,466 - 01:42:15,466] So,
+- [01:42:15,466 - 01:42:16,976] you end up getting four
+- [01:42:16,976 - 01:42:18,486] pieces of anything in the middle.
+- [01:42:18,666 - 01:42:20,006] Is there any reason?
+- [01:42:20,766 - 01:42:21,166] Yeah,
+- [01:42:21,166 - 01:42:21,366] there is,
+- [01:42:21,366 - 01:42:22,446] but I'm going to let you do it.
+- [01:42:22,546 - 01:42:22,926] Okay.
+- [01:42:23,906 - 01:42:27,006] You'll just discover that the 1,
+- [01:42:27,006 - 01:42:27,266] 2,
+- [01:42:27,266 - 01:42:27,586] 3,
+- [01:42:27,586 - 01:42:29,806] that if any two of them are repeated,
+- [01:42:29,806 - 01:42:30,566] you get zero.
+- [01:42:30,966 - 01:42:31,706] In other words,
+- [01:42:31,706 - 01:42:32,066] the x,
+- [01:42:32,066 - 01:42:32,406] y,
+- [01:42:32,406 - 01:42:33,606] y component is zero.
+- [01:42:35,266 - 01:42:37,746] And you'll discover that the 1,
+- [01:42:37,746 - 01:42:38,066] 2,
+- [01:42:38,066 - 01:42:39,696] 3 component piece of the equation
+- [01:42:39,696 - 01:42:41,326] is the same as the 2,
+- [01:42:41,326 - 01:42:41,526] 3,
+- [01:42:41,526 - 01:42:41,726] 1,
+- [01:42:41,906 - 01:42:42,606] is the same as the,
+- [01:42:42,606 - 01:42:45,246] so there's only a handful of independent ones.
+- [01:42:46,386 - 01:42:47,446] And that you can check.
+- [01:42:49,146 - 01:42:49,506] So,
+- [01:42:49,506 - 01:42:52,006] as you said,
+- [01:42:52,006 - 01:42:52,686] it looks like there's,
+- [01:42:52,686 - 01:42:52,866] what,
+- [01:42:52,866 - 01:42:54,166] 64 equations here?
+- [01:42:54,246 - 01:42:55,346] Four times four times four?
+- [01:42:55,466 - 01:42:56,146] But there aren't.
+- [01:42:56,286 - 01:42:56,646] Pardon?
+- [01:42:57,106 - 01:42:57,766] There are not.
+- [01:42:58,686 - 01:42:59,746] There are 24.
+- [01:43:00,706 - 01:43:01,546] Really only four.
+- [01:43:01,726 - 01:43:02,086] How many of them?
+- [01:43:02,526 - 01:43:03,266] There are only four.
+- [01:43:03,646 - 01:43:04,006] Pardon?
+- [01:43:04,246 - 01:43:04,786] There are only four,
+- [01:43:04,786 - 01:43:05,166] really.
+- [01:43:05,826 - 01:43:06,186] Namely,
+- [01:43:06,186 - 01:43:06,346] these.
+- [01:43:07,086 - 01:43:07,446] Right,
+- [01:43:07,446 - 01:43:07,866] I understand,
+- [01:43:07,866 - 01:43:09,406] but there are literally 64.
+- [01:43:09,426 - 01:43:09,646] Yeah,
+- [01:43:09,646 - 01:43:09,746] yeah,
+- [01:43:09,746 - 01:43:10,486] literally 64.
+- [01:43:10,946 - 01:43:11,626] Most of them go away.
+- [01:43:11,666 - 01:43:11,826] Right.
+- [01:43:12,226 - 01:43:12,586] Well,
+- [01:43:12,586 - 01:43:12,986] it's not that they,
+- [01:43:12,986 - 01:43:14,726] a good number of them go away.
+- [01:43:15,466 - 01:43:16,806] And a good number of them
+- [01:43:16,806 - 01:43:18,146] are just repetitions of other ones.
+- [01:43:18,326 - 01:43:18,566] Right,
+- [01:43:18,566 - 01:43:19,086] that's true.
+- [01:43:19,726 - 01:43:20,226] Yeah.
+- [01:43:23,286 - 01:43:23,786] So,
+- [01:43:23,786 - 01:43:24,286] that's,
+- [01:43:24,286 - 01:43:24,746] yeah.
+- [01:43:25,546 - 01:43:28,166] If your charge and current are zero,
+- [01:43:28,166 - 01:43:29,586] then you have the duality.
+- [01:43:29,886 - 01:43:30,146] If what?
+- [01:43:30,566 - 01:43:33,306] If charge and current are gone,
+- [01:43:33,306 - 01:43:36,326] the duality between E and B.
+- [01:43:36,806 - 01:43:37,886] So I'm confused.
+- [01:43:38,026 - 01:43:39,226] When you have your space,
+- [01:43:39,226 - 01:43:41,306] your E's are your time space
+- [01:43:41,306 - 01:43:43,386] and your B's are your space,
+- [01:43:43,626 - 01:43:44,686] what's the meaning of that?
+- [01:43:44,686 - 01:43:45,986] In light of duality.
+- [01:43:50,246 - 01:43:50,686] Yeah.
+- [01:43:50,806 - 01:43:52,086] What's special about E?
+- [01:43:52,406 - 01:43:54,586] That it's time and space and.
+- [01:43:54,806 - 01:43:55,386] In the end,
+- [01:43:55,386 - 01:43:58,586] as far as we think we understand things,
+- [01:43:58,586 - 01:43:59,566] there is no difference.
+- [01:43:59,766 - 01:44:00,006] I mean,
+- [01:44:00,006 - 01:44:00,706] that is to say,
+- [01:44:00,706 - 01:44:07,006] if there was such a thing as magnetic charge density,
+- [01:44:07,006 - 01:44:08,366] we would
+- [01:44:08,366 - 01:44:09,366] put it in on the right,
+- [01:44:09,366 - 01:44:10,806] let's call this electric charge,
+- [01:44:10,806 - 01:44:12,066] electric current,
+- [01:44:12,066 - 01:44:14,626] magnetic charge,
+- [01:44:14,626 - 01:44:14,666] electric current.
+- [01:44:14,686 - 01:44:14,706] So,
+- [01:44:14,706 - 01:44:14,706] if you have a charge,
+- [01:44:14,706 - 01:44:16,906] magnetic current.
+- [01:44:22,326 - 01:44:23,186] I can't remember,
+- [01:44:23,186 - 01:44:24,426] yeah,
+- [01:44:24,426 - 01:44:24,846] I think,
+- [01:44:24,846 - 01:44:26,666] I'm not sure about the sign of this one,
+- [01:44:26,666 - 01:44:27,286] maybe a minus
+- [01:44:27,286 - 01:44:27,466] sign,
+- [01:44:27,466 - 01:44:27,946] I can't remember.
+- [01:44:30,706 - 01:44:36,206] They're completely parallel or invariant with,
+- [01:44:36,206 - 01:44:39,006] not with respect to changing E to B
+- [01:44:39,006 - 01:44:39,686] and B to E.
+- [01:44:39,786 - 01:44:40,646] That doesn't quite work.
+- [01:44:41,166 - 01:44:41,826] Why not?
+- [01:44:41,866 - 01:44:43,126] Because of this minus sign
+- [01:44:43,126 - 01:44:44,386] here and a plus sign here.
+- [01:44:44,486 - 01:44:44,666] Yeah.
+- [01:44:44,686 - 01:44:46,526] You think about it a little bit differently.
+- [01:44:47,526 - 01:44:48,506] You make a,
+- [01:44:48,506 - 01:44:54,126] you make a plane whose axes are E and B.
+- [01:44:56,966 - 01:44:57,526] Okay.
+- [01:44:57,886 - 01:45:02,026] Now interchanging E and B would be
+- [01:45:02,026 - 01:45:06,166] reflecting E into B and B into E.
+- [01:45:06,986 - 01:45:08,166] That's not what you do.
+- [01:45:08,326 - 01:45:09,976] What you do is you
+- [01:45:09,976 - 01:45:11,626] rotate the diagram by 90 degrees.
+- [01:45:12,206 - 01:45:13,566] E goes to B.
+- [01:45:13,566 - 01:45:15,646] B goes to minus E.
+- [01:45:15,646 - 01:45:17,646] That's the duality.
+- [01:45:17,766 - 01:45:18,666] E goes to B.
+- [01:45:18,666 - 01:45:19,846] B goes to minus E.
+- [01:45:19,846 - 01:45:24,166] And either electric charge goes to magnetic charge or
+- [01:45:24,166 - 01:45:26,486] electric charge goes to minus magnetic charge.
+- [01:45:28,106 - 01:45:28,666] So,
+- [01:45:28,666 - 01:45:29,506] there are many,
+- [01:45:29,506 - 01:45:31,566] many ways of expressing this duality.
+- [01:45:34,006 - 01:45:36,476] But if you go back and you say that
+- [01:45:36,476 - 01:45:38,946] E and B really came from a vector potential,
+- [01:45:38,946 - 01:45:40,726] then,
+- [01:45:40,846 - 01:45:42,426] at least at a naive level.
+- [01:45:42,826 - 01:45:43,546] It would be a negative potential.
+- [01:45:43,546 - 01:45:45,516] It would say that the
+- [01:45:45,516 - 01:45:47,486] magnetic charge and current are zero.
+- [01:45:48,726 - 01:45:49,586] There you go.
+- [01:45:50,646 - 01:45:51,046] So.
+- [01:45:51,246 - 01:45:53,696] It seems so clean and elegant and everything the
+- [01:45:53,696 - 01:45:56,146] way that E and B interchange and all fits
+- [01:45:56,146 - 01:45:56,666] with relativity.
+- [01:45:57,286 - 01:45:59,076] It almost seems meaningless to
+- [01:45:59,076 - 01:46:00,866] talk about a magnetic monopole given,
+- [01:46:00,866 - 01:46:01,826] given that.
+- [01:46:01,986 - 01:46:02,166] What,
+- [01:46:02,166 - 01:46:02,526] I mean,
+- [01:46:02,526 - 01:46:04,146] you have to change what you
+- [01:46:04,146 - 01:46:05,766] mean by magnetic field almost or something.
+- [01:46:08,546 - 01:46:09,326] You know what I mean?
+- [01:46:09,766 - 01:46:10,166] Yeah.
+- [01:46:10,226 - 01:46:10,946] Of course I know what you mean.
+- [01:46:11,326 - 01:46:13,506] We will come back to magnetic monopoles.
+- [01:46:13,746 - 01:46:17,516] I will try to cover magnetic monopoles this
+- [01:46:17,516 - 01:46:21,286] quarter and discuss how they fit into this
+- [01:46:21,286 - 01:46:21,666] picture.
+- [01:46:22,666 - 01:46:23,306] Of course,
+- [01:46:23,306 - 01:46:24,706] it's an interesting fact that
+- [01:46:24,706 - 01:46:26,106] nobody's ever discovered a magnetic monopole.
+- [01:46:30,765 - 01:46:32,366] But we'll come back to that.
+- [01:46:32,486 - 01:46:34,186] Let's not push it tonight.
+- [01:46:34,366 - 01:46:34,846] I'm tired.
+- [01:46:35,506 - 01:46:35,986] Okay,
+- [01:46:35,986 - 01:46:36,246] good.
+- [01:46:40,046 - 01:46:40,926] For more information,
+- [01:46:40,926 - 01:46:40,926] visit www.FEMA.gov.
+- [01:46:40,946 - 01:46:43,266] Or please visit us at stanford.edu.
