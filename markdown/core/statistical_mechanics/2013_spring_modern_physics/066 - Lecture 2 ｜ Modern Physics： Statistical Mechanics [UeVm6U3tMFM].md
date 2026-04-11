@@ -1,0 +1,1352 @@
+# Transcript
+
+Source: core/statistical_mechanics/2013_spring_modern_physics/066 - Lecture 2 ｜ Modern Physics： Statistical Mechanics [UeVm6U3tMFM].mp4
+
+- [00:00:05,160 - 00:00:06,200] Stanford University.
+- [00:00:08,540 - 00:00:09,060] Well,
+- [00:00:09,060 - 00:00:12,810] I think what I'm gonna do is
+- [00:00:12,810 - 00:00:16,560] take roughly a half an hour or
+- [00:00:16,560 - 00:00:19,630] something like that and
+- [00:00:19,630 - 00:00:22,700] just discuss some elementary mathematics.
+- [00:00:23,020 - 00:00:23,180] Now,
+- [00:00:23,180 - 00:00:26,320] I want you to learn this mathematics
+- [00:00:26,320 - 00:00:29,460] and if need be to look it up.
+- [00:00:29,460 - 00:00:31,280] It's three simple pieces.
+- [00:00:31,280 - 00:00:32,659] See,
+- [00:00:32,659 - 00:00:34,320] three simple pieces of mathematics,
+- [00:00:34,320 - 00:00:34,840] all
+- [00:00:34,840 - 00:00:35,420] elementary,
+- [00:00:35,420 - 00:00:38,580] and I suspect most of you either
+- [00:00:38,580 - 00:00:41,740] know this or knew it at one time,
+- [00:00:41,960 - 00:00:45,190] but it's so central that I think we
+- [00:00:45,190 - 00:00:48,420] need to lay it out and use it.
+- [00:00:49,820 - 00:00:52,020] Lay it out for future purposes.
+- [00:00:52,020 - 00:00:54,240] Okay,
+- [00:00:54,240 - 00:00:57,820] the first piece of mathematics is
+- [00:00:57,820 - 00:00:59,440] called Lagrange-Rogge.
+- [00:00:59,460 - 00:01:02,480] How many people here have seen Lagrange multipliers?
+- [00:01:02,480 - 00:01:04,019] How many of those people
+- [00:01:04,019 - 00:01:05,880] remember what a Lagrange multiplier is?
+- [00:01:05,880 - 00:01:10,300] So roughly half the people have seen it
+- [00:01:10,300 - 00:01:11,400] can use it.
+- [00:01:11,400 - 00:01:12,780] Would that be fair to say?
+- [00:01:12,780 - 00:01:15,080] How many people have never seen a Lagrange
+- [00:01:15,080 - 00:01:17,180] multiplier or can't remember what it is?
+- [00:01:17,180 - 00:01:19,480] Alright,
+- [00:01:19,480 - 00:01:22,620] so the answer is the majority of
+- [00:01:22,620 - 00:01:23,040] you have,
+- [00:01:23,040 - 00:01:25,460] but I'm going to remind you
+- [00:01:25,460 - 00:01:27,880] anyway because it is absolutely central.
+- [00:01:28,520 - 00:01:29,440] We're constantly
+- [00:01:29,460 - 00:01:35,520] minimizing or maximizing things subject to constraints.
+- [00:01:35,520 - 00:01:37,180] What is the thing that
+- [00:01:37,180 - 00:01:39,800] we're likely to minimize incidentally or maximize,
+- [00:01:39,800 - 00:01:40,340] sorry?
+- [00:01:40,340 - 00:01:41,960] Entropy.
+- [00:01:41,960 - 00:01:43,420] But we'll get to
+- [00:01:43,420 - 00:01:44,220] why entropy,
+- [00:01:44,220 - 00:01:46,860] not tonight,
+- [00:01:46,860 - 00:01:47,740] next time I suspect,
+- [00:01:47,740 - 00:01:50,940] but why we maximize entropy.
+- [00:01:50,940 - 00:01:52,200] But
+- [00:01:52,200 - 00:01:52,560] yes,
+- [00:01:52,560 - 00:01:55,970] thermal equilibrium is a state of
+- [00:01:55,970 - 00:01:59,380] maximum entropy and that means we want
+- [00:01:59,380 - 00:02:02,280] to maximize something as a function of something else.
+- [00:02:02,280 - 00:02:03,420] We want to maximize a
+- [00:02:03,420 - 00:02:05,720] certain function as a function
+- [00:02:05,720 - 00:02:08,020] of the variables that define it,
+- [00:02:08,020 - 00:02:08,780] number one.
+- [00:02:09,220 - 00:02:10,160] Number two,
+- [00:02:10,160 - 00:02:11,220] there are constraints.
+- [00:02:11,220 - 00:02:17,580] We don't just want to maximize a function,
+- [00:02:17,800 - 00:02:20,400] but we want to maximize
+- [00:02:20,400 - 00:02:23,000] a function subject to some constraints.
+- [00:02:23,000 - 00:02:24,520] What might
+- [00:02:24,520 - 00:02:25,540] the constraints be?
+- [00:02:27,620 - 00:02:28,260] Well,
+- [00:02:28,260 - 00:02:29,360] a particular function明
+- [00:02:29,360 - 00:02:32,290] constraint might be that we know the
+- [00:02:32,290 - 00:02:35,220] total energy of the system or we know
+- [00:02:35,220 - 00:02:37,550] the average energy of the system for
+- [00:02:37,550 - 00:02:39,880] some reason we may know the average
+- [00:02:39,880 - 00:02:44,150] energy of the system for example we
+- [00:02:44,150 - 00:02:48,420] might have again a container full of a
+- [00:02:48,420 - 00:02:51,170] lot of molecules we break it up
+- [00:02:51,170 - 00:02:53,920] into small pieces we're going to study one
+- [00:02:53,920 - 00:02:56,580] small piece and I tell you that
+- [00:02:56,580 - 00:02:59,240] the total energy in that container is
+- [00:02:59,240 - 00:03:04,270] whatever it is 20 zillion joules okay I
+- [00:03:04,270 - 00:03:09,300] also tell you that it's composed of a
+- [00:03:09,300 - 00:03:12,530] bunch of identical parts how many
+- [00:03:12,530 - 00:03:15,760] identical parts 10,000 of them what's
+- [00:03:15,760 - 00:03:18,120] the average energy in each one well you
+- [00:03:18,120 - 00:03:20,480] take the total energy and you divide it
+- [00:03:20,480 - 00:03:22,600] by the number of parts and that tells you the
+- [00:03:22,600 - 00:03:23,260] the average
+- [00:03:23,260 - 00:03:24,840] the average energy in each part
+- [00:03:25,459 - 00:03:27,660] now I want to focus on this part
+- [00:03:28,920 - 00:03:31,230] and say I know the average energy
+- [00:03:31,230 - 00:03:33,540] and I want to maximize the entropy
+- [00:03:34,340 - 00:03:36,040] subject to the constraint
+- [00:03:36,600 - 00:03:38,440] that the total energy is fixed
+- [00:03:39,940 - 00:03:40,940] that's a problem
+- [00:03:41,579 - 00:03:42,800] that's the kind of problem
+- [00:03:43,359 - 00:03:46,400] that emerges time and time again over and over
+- [00:03:46,980 - 00:03:48,840] another example is we may know
+- [00:03:48,840 - 00:03:50,700] the total amount of electric charge
+- [00:03:50,700 - 00:03:53,000] in a region and we may
+- [00:03:53,000 - 00:03:55,300] want to maximize the entropy given
+- [00:03:55,300 - 00:03:57,860] the total amount of electric charge
+- [00:03:58,400 - 00:04:00,300] or the total amount of angular momentum
+- [00:04:00,300 - 00:04:01,660] or whatever
+- [00:04:02,480 - 00:04:05,090] so we constantly face problems
+- [00:04:05,090 - 00:04:07,700] of minimizing or maximizing mathematical
+- [00:04:08,600 - 00:04:10,750] subject of minimizing and maximizing are
+- [00:04:10,750 - 00:04:12,900] equivalent to each other or the same
+- [00:04:13,820 - 00:04:16,839] we constantly want to maximize functions
+- [00:04:16,839 - 00:04:19,740] of several variables
+- [00:04:20,700 - 00:04:23,420] subject to constraints on those variables
+- [00:04:23,880 - 00:04:24,780] what does that mean?
+- [00:04:29,940 - 00:04:30,740] example
+- [00:04:30,740 - 00:04:32,760] a function of two variables
+- [00:04:39,500 - 00:04:42,100] let's literally take an example
+- [00:04:43,180 - 00:04:45,720] I want to minimize
+- [00:04:46,320 - 00:04:47,380] minimize or maximize?
+- [00:04:47,380 - 00:04:48,280] minimize I think
+- [00:04:48,680 - 00:04:49,460] x squared
+- [00:04:50,260 - 00:04:50,680] plus x squared
+- [00:04:50,680 - 00:04:51,400] plus y squared
+- [00:04:52,859 - 00:04:55,800] now anybody can minimize x squared plus y squared
+- [00:04:55,800 - 00:04:58,080] what's the minimum value of x squared y squared?
+- [00:04:59,160 - 00:04:59,640] zero
+- [00:04:59,640 - 00:05:01,670] it can't be less than zero because
+- [00:05:01,670 - 00:05:03,700] x squared and y squared are both positive
+- [00:05:03,700 - 00:05:05,630] and x equals 0 and y
+- [00:05:05,630 - 00:05:07,560] equals 0 it is equal to 0
+- [00:05:07,560 - 00:05:09,900] but it's not equal to 0 anywhere else
+- [00:05:09,900 - 00:05:11,570] so the minimum is right
+- [00:05:11,570 - 00:05:13,240] at x equals y equals 0
+- [00:05:13,240 - 00:05:15,820] and the function is equal to 0 at that point
+- [00:05:16,560 - 00:05:18,160] but now supposing I tell
+- [00:05:18,160 - 00:05:19,760] you I want to minimize it
+- [00:05:19,760 - 00:05:20,210] subject to a LA dalla Make sure
+- [00:05:20,210 - 00:05:20,660] that you memorize all its taken coefficients
+- [00:05:20,660 - 00:05:21,520] to a constraint.
+- [00:05:21,520 - 00:05:23,470] I want to know where x
+- [00:05:23,470 - 00:05:25,420] squared plus y squared is minimum given
+- [00:05:27,939 - 00:05:28,419] that,
+- [00:05:28,419 - 00:05:29,180] I don't know,
+- [00:05:29,180 - 00:05:35,400] let's say x plus 2y is equal to 1.
+- [00:05:35,400 - 00:05:38,080] To draw a picture,
+- [00:05:38,080 - 00:05:40,240] we
+- [00:05:40,240 - 00:05:42,640] can plot on the plane here the
+- [00:05:42,640 - 00:05:45,040] contours of x squared plus y squared.
+- [00:05:45,040 - 00:05:46,520] X squared plus
+- [00:05:46,520 - 00:05:47,080] y squared,
+- [00:05:47,080 - 00:05:48,860] the contour map,
+- [00:05:48,860 - 00:05:52,460] right at the center.
+- [00:05:52,460 - 00:05:53,880] It's minimized and as we move
+- [00:05:53,880 - 00:05:55,440] away it forms a bowl,
+- [00:05:55,440 - 00:05:57,240] a valley,
+- [00:05:57,240 - 00:05:59,560] and the contour map would look like this.
+- [00:05:59,560 - 00:06:00,460] On the
+- [00:06:00,460 - 00:06:01,000] other hand,
+- [00:06:01,000 - 00:06:02,650] and of course the minimum of
+- [00:06:02,650 - 00:06:04,300] the function is right at the center,
+- [00:06:04,300 - 00:06:04,740] on
+- [00:06:05,300 - 00:06:05,980] the other hand,
+- [00:06:05,980 - 00:06:07,970] I really want to minimize it
+- [00:06:07,970 - 00:06:09,960] subject to a constraint and that
+- [00:06:09,960 - 00:06:13,060] constraint is x plus 2y equals 1.
+- [00:06:13,060 - 00:06:16,400] That's a straight line and I don't know
+- [00:06:16,400 - 00:06:17,080] what's a straight line,
+- [00:06:17,080 - 00:06:19,180] maybe it looks something like that.
+- [00:06:19,180 - 00:06:20,600] So what I'm really
+- [00:06:20,600 - 00:06:24,650] asking is where along this line is
+- [00:06:24,650 - 00:06:28,700] x squared plus y squared minimized given
+- [00:06:28,700 - 00:06:29,860] that you're on the line?
+- [00:06:29,860 - 00:06:31,940] Well that's certainly not at the origin here,
+- [00:06:31,940 - 00:06:32,160] it's
+- [00:06:32,160 - 00:06:33,180] somewhere along here.
+- [00:06:33,180 - 00:06:35,100] Looks like it's about over here,
+- [00:06:35,100 - 00:06:35,500] doesn't it?
+- [00:06:37,340 - 00:06:40,140] x squared plus y squared of course is
+- [00:06:40,140 - 00:06:42,940] just the squared distance from the origin and so
+- [00:06:42,940 - 00:06:46,280] you're kind of asking along this line where is the
+- [00:06:46,400 - 00:06:47,860] line closest to the origin?
+- [00:06:47,860 - 00:06:50,400] That's the geometric problem that corresponds to it
+- [00:06:50,400 - 00:06:52,370] but the mathematics problem is to
+- [00:06:52,370 - 00:06:54,340] minimize x squared plus y squared
+- [00:06:54,340 - 00:06:55,990] subject to a constraint that x
+- [00:06:55,990 - 00:06:57,640] plus 2y is equal to 1.
+- [00:06:57,640 - 00:06:58,300] How do you do that?
+- [00:07:00,220 - 00:07:00,660] Well,
+- [00:07:00,660 - 00:07:03,080] one way would just be to eliminate,
+- [00:07:03,080 - 00:07:03,720] let's do it,
+- [00:07:03,720 - 00:07:06,120] we could eliminate one of
+- [00:07:06,120 - 00:07:06,760] the variables,
+- [00:07:06,760 - 00:07:08,540] plug it into here,
+- [00:07:08,540 - 00:07:11,600] and then minimize the remaining function.
+- [00:07:11,600 - 00:07:11,920] For
+- [00:07:11,920 - 00:07:12,340] example,
+- [00:07:12,340 - 00:07:13,000] what does that mean?
+- [00:07:13,000 - 00:07:16,200] We could solve for x and
+- [00:07:16,400 - 00:07:19,790] find that x is equal to 1 minus 2y
+- [00:07:19,790 - 00:07:23,180] and then plug it into here and we would have
+- [00:07:23,180 - 00:07:26,660] 1 minus 2y squared,
+- [00:07:26,660 - 00:07:27,920] that's x squared,
+- [00:07:27,920 - 00:07:30,400] plus y squared.
+- [00:07:30,400 - 00:07:32,320] Let's just call this f.
+- [00:07:33,700 - 00:07:35,340] f on the line,
+- [00:07:35,340 - 00:07:36,980] on the red line,
+- [00:07:36,980 - 00:07:39,150] f would be given by this
+- [00:07:39,150 - 00:07:41,320] and then the next step is
+- [00:07:41,320 - 00:07:43,980] just to minimize f with respect to y.
+- [00:07:43,980 - 00:07:46,120] We don't have to worry about the constraint
+- [00:07:46,120 - 00:07:47,440] anymore because we've already
+- [00:07:47,440 - 00:07:48,760] taken the constraint into account.
+- [00:07:48,760 - 00:07:50,820] So that's one
+- [00:07:50,820 - 00:07:51,940] way of doing the problem.
+- [00:07:51,940 - 00:07:55,940] Now in many cases the constraint is just too
+- [00:07:55,940 - 00:07:57,240] complicated to solve.
+- [00:07:57,240 - 00:08:01,500] It might be some stupid complicated function that's just
+- [00:08:01,500 - 00:08:02,760] too complicated to solve,
+- [00:08:02,760 - 00:08:04,510] but there is another way
+- [00:08:04,510 - 00:08:06,260] to do the problem and the
+- [00:08:06,260 - 00:08:09,240] problem is called the method of Lagrange multipliers.
+- [00:08:09,240 - 00:08:12,560] Maybe I'll,
+- [00:08:12,560 - 00:08:14,280] perhaps as we go
+- [00:08:14,280 - 00:08:14,620] along,
+- [00:08:14,620 - 00:08:16,100] I will prove that it works.
+- [00:08:17,440 - 00:08:18,580] For a simple,
+- [00:08:18,580 - 00:08:20,420] well not for this example,
+- [00:08:20,420 - 00:08:21,920] but maybe a little more general example,
+- [00:08:21,920 - 00:08:22,860] but
+- [00:08:22,860 - 00:08:25,680] let me just tell you what the method is.
+- [00:08:25,680 - 00:08:26,920] I'm going to tell you the rule,
+- [00:08:26,920 - 00:08:28,580] then we can try
+- [00:08:28,580 - 00:08:30,040] to see maybe why the rule is true.
+- [00:08:31,380 - 00:08:31,780] Alright,
+- [00:08:31,780 - 00:08:32,200] what you do,
+- [00:08:32,200 - 00:08:33,520] here's our problem.
+- [00:08:33,520 - 00:08:36,179] We have a function of some variables,
+- [00:08:36,179 - 00:08:36,659] in this
+- [00:08:36,659 - 00:08:37,520] case just 2,
+- [00:08:37,520 - 00:08:39,860] function of x and y,
+- [00:08:39,860 - 00:08:42,950] and we want to minimize
+- [00:08:42,950 - 00:08:46,040] it given that some other function
+- [00:08:46,540 - 00:08:51,080] g of x and y is equal to 0.
+- [00:08:51,080 - 00:08:53,750] g of x and y in
+- [00:08:53,750 - 00:08:56,420] this case over here just corresponds to,
+- [00:08:56,620 - 00:08:57,500] what was it,
+- [00:08:57,500 - 00:09:00,360] x plus 2y minus 1.
+- [00:09:00,360 - 00:09:02,740] x plus 2y minus 1 is equal to 0.
+- [00:09:02,740 - 00:09:05,460] That's the constraint.
+- [00:09:08,600 - 00:09:09,080] Alright,
+- [00:09:09,080 - 00:09:10,200] here's the trick that you do.
+- [00:09:10,200 - 00:09:14,240] You take the constraint and you multiply it by
+- [00:09:14,240 - 00:09:15,100] a new variable.
+- [00:09:16,120 - 00:09:18,020] A new variable is often called lambda,
+- [00:09:18,020 - 00:09:20,420] usually a Greek letter,
+- [00:09:20,420 - 00:09:21,780] and it's called a Lagrange
+- [00:09:21,780 - 00:09:22,320] multiplier.
+- [00:09:22,320 - 00:09:26,360] You add that to f.
+- [00:09:26,360 - 00:09:27,840] Add or subtract,
+- [00:09:27,840 - 00:09:28,640] it doesn't matter.
+- [00:09:28,640 - 00:09:32,320] You add it to f,
+- [00:09:32,320 - 00:09:33,320] and now
+- [00:09:33,320 - 00:09:36,300] you have a new function of x and y
+- [00:09:36,300 - 00:09:39,280] that also depends on this auxiliary variable which we're
+- [00:09:39,280 - 00:09:40,460] going to get rid of soon enough.
+- [00:09:40,460 - 00:09:43,020] We're going to get rid of it in a moment.
+- [00:09:43,020 - 00:09:45,480] But we have
+- [00:09:45,480 - 00:09:46,080] a new thing.
+- [00:09:46,080 - 00:09:46,100] We're going to get rid of it in a moment,
+- [00:09:46,100 - 00:09:46,100] but we have a new thing.
+- [00:09:46,100 - 00:09:46,100] And,
+- [00:09:46,100 - 00:09:46,100] we have a new thing,
+- [00:09:46,100 - 00:09:50,720] which is f and lambda g.
+- [00:09:50,720 - 00:09:54,380] And then what we do is we just minimize
+- [00:09:57,060 - 00:10:00,800] f plus lambda g with respect to x and y,
+- [00:10:00,800 - 00:10:03,180] ignoring the constraint.
+- [00:10:03,180 - 00:10:05,360] Forget the constraint and
+- [00:10:05,360 - 00:10:07,340] just think of this new object here and
+- [00:10:07,340 - 00:10:09,320] minimize it with respect to x and y.
+- [00:10:09,320 - 00:10:09,700] Okay,
+- [00:10:09,700 - 00:10:10,360] how do you
+- [00:10:10,360 - 00:10:12,460] minimize a function of two
+- [00:10:12,460 - 00:10:14,560] variables with respect to its variables?
+- [00:10:16,220 - 00:10:18,160] You differentiate with respect to the variables
+- [00:10:18,160 - 00:10:20,100] and you set the result equal to zero.
+- [00:10:20,100 - 00:10:21,180] So,
+- [00:10:21,180 - 00:10:21,720] that
+- [00:10:21,720 - 00:10:29,240] would say we differentiate df by dx plus lambda.
+- [00:10:29,240 - 00:10:31,480] Lambda is treated as just a constant,
+- [00:10:31,480 - 00:10:32,800] times
+- [00:10:33,760 - 00:10:35,300] dg by dx.
+- [00:10:35,300 - 00:10:38,180] And we set that equal to zero.
+- [00:10:38,180 - 00:10:40,300] That's one equation.
+- [00:10:40,300 - 00:10:43,080] And the other equation is df by dy.
+- [00:10:43,740 - 00:10:44,280] Okay.
+- [00:10:47,519 - 00:10:53,820] Plus lambda dg by dy is equal to zero.
+- [00:10:53,820 - 00:10:58,060] Those are the two equations for minimizing this particular
+- [00:10:58,060 - 00:10:59,380] object over here.
+- [00:10:59,380 - 00:11:01,260] Alright,
+- [00:11:01,260 - 00:11:04,980] here are two equations for two unknowns x and y.
+- [00:11:04,980 - 00:11:06,240] Both of them depend
+- [00:11:06,240 - 00:11:07,200] on x and y.
+- [00:11:07,200 - 00:11:09,880] x and y.
+- [00:11:09,880 - 00:11:10,980] x and y.
+- [00:11:10,980 - 00:11:14,260] And we can solve them for x and y.
+- [00:11:14,260 - 00:11:15,700] But wait a minute.
+- [00:11:15,700 - 00:11:16,080] We have an
+- [00:11:16,100 - 00:11:17,180] this thing lambda there.
+- [00:11:17,180 - 00:11:18,660] What do we do with that thing lambda?
+- [00:11:18,660 - 00:11:22,520] The answer for x and y
+- [00:11:23,060 - 00:11:25,660] will depend on this parameter lambda.
+- [00:11:25,660 - 00:11:29,720] What we do with the parameter lambda at the end,
+- [00:11:30,579 - 00:11:33,580] after we have solved this problem over here,
+- [00:11:33,580 - 00:11:35,800] implicitly in terms of lambda,
+- [00:11:35,800 - 00:11:37,880] is that we
+- [00:11:37,880 - 00:11:40,310] set lambda to whatever value is
+- [00:11:40,310 - 00:11:42,740] necessary in order that the constraint,
+- [00:11:42,740 - 00:11:43,620] the original
+- [00:11:43,620 - 00:11:44,100] constraint,
+- [00:11:44,100 - 00:11:46,200] g equals zero,
+- [00:11:46,200 - 00:11:47,500] is really satisfied.
+- [00:11:47,500 - 00:11:49,280] I'm going to give you an example.
+- [00:11:49,280 - 00:11:49,520] I'm going
+- [00:11:49,520 - 00:11:51,120] to show you how it works by example.
+- [00:11:51,120 - 00:11:53,580] In fact,
+- [00:11:53,580 - 00:11:54,660] we might as well do that example,
+- [00:11:54,660 - 00:11:55,640] and then
+- [00:11:55,640 - 00:11:57,180] I'm going to show you why it works.
+- [00:11:57,180 - 00:11:58,860] I'll show you how it
+- [00:11:58,860 - 00:12:00,540] works and then why it works.
+- [00:12:03,339 - 00:12:03,780] Incidentally,
+- [00:12:03,780 - 00:12:06,720] you could imagine having more variables,
+- [00:12:06,720 - 00:12:07,120] x,
+- [00:12:07,120 - 00:12:07,480] y,
+- [00:12:07,480 - 00:12:07,780] z,
+- [00:12:07,780 - 00:12:08,180] w,
+- [00:12:08,180 - 00:12:10,440] and have several constraints.
+- [00:12:12,080 - 00:12:13,600] I'll tell you later on.
+- [00:12:13,600 - 00:12:14,270] I'll show you later on
+- [00:12:14,270 - 00:12:14,940] what you do with several constraints,
+- [00:12:14,940 - 00:12:16,420] but let's just do it as a function
+- [00:12:16,420 - 00:12:18,460] of two variables for one constraint.
+- [00:12:18,460 - 00:12:18,800] Okay,
+- [00:12:18,800 - 00:12:20,360] so let's solve this problem up here.
+- [00:12:20,360 - 00:12:20,700] Here's
+- [00:12:20,700 - 00:12:21,180] our problem.
+- [00:12:21,180 - 00:12:25,950] Minimize x squared plus y squared subject
+- [00:12:25,950 - 00:12:30,720] to the constraint that x plus 2y minus
+- [00:12:30,720 - 00:12:31,680] 1 is equal to zero.
+- [00:12:31,680 - 00:12:33,180] Well,
+- [00:12:33,180 - 00:12:37,060] we add this quantity,
+- [00:12:37,060 - 00:12:39,420] x squared plus y squared,
+- [00:12:39,420 - 00:12:43,040] plus lambda,
+- [00:12:43,040 - 00:12:43,580] which
+- [00:12:43,580 - 00:12:44,600] I'll sum up as y squared plus z squared,
+- [00:12:44,600 - 00:12:45,540] times the constraint,
+- [00:12:45,540 - 00:12:51,020] x plus 2y minus 1.
+- [00:12:51,020 - 00:12:52,100] In this
+- [00:12:52,100 - 00:12:52,480] case.
+- [00:12:52,480 - 00:12:53,900] The 1 is not going to
+- [00:12:53,900 - 00:12:55,320] be very important to this calculation.
+- [00:12:55,320 - 00:12:57,240] That's a new object,
+- [00:12:57,500 - 00:12:59,260] and now we minimize it.
+- [00:12:59,260 - 00:13:00,320] How do we minimize it?
+- [00:13:00,320 - 00:13:02,140] We differentiate it with respect to x
+- [00:13:02,140 - 00:13:03,660] and set the result equal to 0.
+- [00:13:03,660 - 00:13:05,820] What's the derivative of this?
+- [00:13:05,820 - 00:13:09,680] That's 2x plus lambda
+- [00:13:09,680 - 00:13:11,500] x equals zero.
+- [00:13:11,500 - 00:13:13,560] Mens for unjust hermit,
+- [00:13:13,560 - 00:13:13,560] who's got a limited number of terms,
+- [00:13:13,560 - 00:13:13,560] and we firing
+- [00:13:13,560 - 00:13:14,280] with respect to...
+- [00:13:15,660 - 00:13:16,140] Oh,
+- [00:13:16,140 - 00:13:16,420] sorry,
+- [00:13:16,420 - 00:13:16,900] plus lambda.
+- [00:13:16,900 - 00:13:17,260] Good.
+- [00:13:17,360 - 00:13:17,720] Thank you.
+- [00:13:19,120 - 00:13:20,620] Plus lambda equals zero.
+- [00:13:22,319 - 00:13:23,280] 2x plus
+- [00:13:23,280 - 00:13:24,300] lambda equals zero.
+- [00:13:24,300 - 00:13:25,440] And then
+- [00:13:25,440 - 00:13:26,520] same thing with y,
+- [00:13:26,520 - 00:13:27,320] 2y
+- [00:13:27,320 - 00:13:29,380] and in this case it's plus
+- [00:13:29,380 - 00:13:30,380] 2 lambda,
+- [00:13:30,380 - 00:13:31,520] extra
+- [00:13:31,520 - 00:13:32,080] 2 here,
+- [00:13:32,080 - 00:13:33,400] equals zero.
+- [00:13:34,760 - 00:13:35,560] Now we can
+- [00:13:35,560 - 00:13:37,520] solve for x and y in terms
+- [00:13:37,520 - 00:13:38,120] of lambda.
+- [00:13:38,120 - 00:13:39,680] We don't know what lambda is yet,
+- [00:13:40,300 - 00:13:41,580] but let's solve for
+- [00:13:41,580 - 00:13:42,800] in terms of x and y.
+- [00:13:45,500 - 00:13:46,200] Let's solve
+- [00:13:46,200 - 00:13:47,960] for x and y in terms of lambda.
+- [00:13:48,380 - 00:13:50,220] x is equal to minus
+- [00:13:50,220 - 00:13:51,380] lambda over 2.
+- [00:13:51,380 - 00:13:52,240] That's
+- [00:13:52,240 - 00:13:52,780] this equation.
+- [00:13:52,780 - 00:13:54,260] x is minus lambda
+- [00:13:54,260 - 00:13:54,840] over 2.
+- [00:13:54,840 - 00:13:55,920] And y,
+- [00:13:55,920 - 00:13:56,340] I
+- [00:13:56,340 - 00:13:56,600] think,
+- [00:13:56,600 - 00:13:57,880] is just equal to minus lambda.
+- [00:14:00,280 - 00:14:01,500] Everybody agree with that?
+- [00:14:02,300 - 00:14:02,820] Right.
+- [00:14:02,820 - 00:14:03,900] Okay.
+- [00:14:03,900 - 00:14:04,340] So we
+- [00:14:04,340 - 00:14:05,080] solved that problem,
+- [00:14:05,080 - 00:14:06,300] except we don't know what
+- [00:14:06,300 - 00:14:06,840] lambda is.
+- [00:14:07,820 - 00:14:09,820] What we do now is we choose
+- [00:14:09,820 - 00:14:12,260] lambda so that the constraint
+- [00:14:12,260 - 00:14:13,360] is actually satisfied.
+- [00:14:14,280 - 00:14:15,160] Let's do that.
+- [00:14:16,220 - 00:14:18,320] x plus 2y minus 1
+- [00:14:18,320 - 00:14:19,200] is equal to zero.
+- [00:14:19,200 - 00:14:20,300] Let's
+- [00:14:20,300 - 00:14:21,120] plug in the solution.
+- [00:14:21,120 - 00:14:22,560] The solution
+- [00:14:22,560 - 00:14:23,240] is x,
+- [00:14:23,240 - 00:14:24,340] which is minus
+- [00:14:24,340 - 00:14:25,400] lambda over 2,
+- [00:14:27,100 - 00:14:28,220] plus 2y,
+- [00:14:28,900 - 00:14:29,760] which is minus
+- [00:14:29,760 - 00:14:31,160] 2 lambda,
+- [00:14:31,160 - 00:14:31,720] I believe.
+- [00:14:33,260 - 00:14:34,380] 2y is
+- [00:14:34,380 - 00:14:35,860] minus 2 lambda.
+- [00:14:38,380 - 00:14:39,180] Minus 1
+- [00:14:40,360 - 00:14:41,600] is equal to zero.
+- [00:14:41,600 - 00:14:42,260] Sorry,
+- [00:14:42,360 - 00:14:43,360] is equal to 1.
+- [00:14:43,560 - 00:14:44,460] Is equal to 1.
+- [00:14:45,220 - 00:14:47,760] I just transposed the 1 over to the other side.
+- [00:14:48,320 - 00:14:49,000] And now,
+- [00:14:49,000 - 00:14:49,760] what does that mean
+- [00:14:49,760 - 00:14:50,640] in terms of lambda?
+- [00:14:56,860 - 00:14:57,560] Excuse me.
+- [00:15:06,640 - 00:15:07,960] 2 is 4 over 2.
+- [00:15:10,940 - 00:15:11,380] Okay.
+- [00:15:13,560 - 00:15:14,260] So this is what?
+- [00:15:14,260 - 00:15:15,400] Minus 5 halves lambda?
+- [00:15:16,320 - 00:15:17,660] Minus 5 halves lambda
+- [00:15:17,660 - 00:15:18,280] equals 1,
+- [00:15:18,280 - 00:15:19,440] or lambda is
+- [00:15:19,440 - 00:15:21,500] equal to minus
+- [00:15:21,500 - 00:15:22,320] 2 fifths.
+- [00:15:23,540 - 00:15:25,360] And now we solved our problem.
+- [00:15:25,760 - 00:15:27,260] Lambda is equal to minus
+- [00:15:27,260 - 00:15:28,260] 2 fifths,
+- [00:15:28,260 - 00:15:29,220] which means
+- [00:15:29,220 - 00:15:31,000] lambda over 2 is
+- [00:15:31,000 - 00:15:33,100] minus lambda over 2 is 1 fifth,
+- [00:15:34,240 - 00:15:35,080] I think.
+- [00:15:35,900 - 00:15:36,580] Let's see.
+- [00:15:36,580 - 00:15:37,560] Lambda over 2
+- [00:15:38,500 - 00:15:39,100] is
+- [00:15:39,100 - 00:15:40,040] 1 fifth,
+- [00:15:40,040 - 00:15:41,120] and y
+- [00:15:41,120 - 00:15:42,880] is equal to
+- [00:15:44,660 - 00:15:45,820] 2 fifths.
+- [00:15:46,780 - 00:15:48,740] I've just plugged in what lambda is.
+- [00:15:50,720 - 00:15:52,740] Minus lambda is 2 fifths.
+- [00:15:53,020 - 00:15:54,900] Minus lambda over 2 is 1 fifth,
+- [00:15:55,740 - 00:15:57,740] and we have now found out
+- [00:15:57,740 - 00:15:58,740] where
+- [00:15:59,380 - 00:16:00,440] this curve,
+- [00:16:00,440 - 00:16:00,960] or where
+- [00:16:00,960 - 00:16:02,360] this line
+- [00:16:05,060 - 00:16:06,160] achieves its closest
+- [00:16:06,160 - 00:16:08,100] distance to the origin.
+- [00:16:08,380 - 00:16:09,960] That was the mathematics problem.
+- [00:16:10,960 - 00:16:12,160] Minimize x squared
+- [00:16:12,160 - 00:16:13,080] plus y squared,
+- [00:16:13,080 - 00:16:13,540] which is 1.
+- [00:16:13,540 - 00:16:14,460] This is just the square
+- [00:16:14,460 - 00:16:15,380] of the distance of a point
+- [00:16:15,770 - 00:16:16,460] to the origin.
+- [00:16:17,080 - 00:16:18,720] Minimize it along this line,
+- [00:16:18,980 - 00:16:21,480] and that means find the point along the line
+- [00:16:21,480 - 00:16:23,100] which is closest to the center.
+- [00:16:25,840 - 00:16:26,300] Now,
+- [00:16:26,300 - 00:16:28,260] we could check independently,
+- [00:16:28,260 - 00:16:29,320] of course.
+- [00:16:29,360 - 00:16:30,980] We could do the calculation the other way
+- [00:16:31,599 - 00:16:34,240] by eliminating the constraint,
+- [00:16:34,460 - 00:16:36,720] by solving the constraint for one of the variables
+- [00:16:36,720 - 00:16:37,860] and plugging it back in,
+- [00:16:37,940 - 00:16:40,080] and we could do it that way.
+- [00:16:40,140 - 00:16:40,440] Of course,
+- [00:16:40,440 - 00:16:41,320] we'll get the same answer.
+- [00:16:42,180 - 00:16:42,640] Now,
+- [00:16:42,640 - 00:16:43,340] let me show you why
+- [00:16:43,340 - 00:16:43,960] this works.
+- [00:16:43,980 - 00:16:45,100] So just a little bit of algebra.
+- [00:16:45,260 - 00:16:46,440] It just takes a little bit of algebra
+- [00:16:46,440 - 00:16:47,500] to see why it works.
+- [00:16:47,860 - 00:16:49,000] And it's very general.
+- [00:16:49,240 - 00:16:50,420] It's extremely general.
+- [00:16:50,680 - 00:16:51,000] It's not
+- [00:16:53,439 - 00:16:55,040] x squared plus y squared
+- [00:16:55,040 - 00:16:57,180] was just an arbitrary function that I picked.
+- [00:16:58,380 - 00:16:59,660] Pick any other function.
+- [00:17:00,640 - 00:17:03,080] The fact that I chose the constraint
+- [00:17:03,080 - 00:17:04,900] to be a straight line,
+- [00:17:05,140 - 00:17:06,180] a linear function,
+- [00:17:06,440 - 00:17:06,980] again,
+- [00:17:06,980 - 00:17:08,819] nothing special about that.
+- [00:17:09,859 - 00:17:10,339] Okay,
+- [00:17:10,339 - 00:17:13,319] let's do the next one.
+- [00:17:13,319 - 00:17:13,619] Let's look at the problem,
+- [00:17:13,920 - 00:17:15,060] not this problem,
+- [00:17:15,240 - 00:17:17,920] but a general problem in both ways
+- [00:17:17,920 - 00:17:20,079] and see that we get the same answer.
+- [00:17:21,160 - 00:17:24,300] So let's start by the method of eliminating
+- [00:17:24,300 - 00:17:26,619] one of the variables from the constraint.
+- [00:17:26,819 - 00:17:27,780] Here's our problem.
+- [00:17:27,960 - 00:17:29,660] We have f of x and y.
+- [00:17:31,680 - 00:17:33,360] We want to minimize it,
+- [00:17:33,440 - 00:17:36,540] subject to the constraint that g of x and y
+- [00:17:37,420 - 00:17:38,560] is equal to zero.
+- [00:17:38,720 - 00:17:41,520] g of x and y equals zero is some curve,
+- [00:17:41,800 - 00:17:43,300] and it means we're minimizing it,
+- [00:17:43,320 - 00:17:45,140] minimizing f along that curve.
+- [00:17:46,260 - 00:17:46,860] All right.
+- [00:17:47,880 - 00:17:49,080] Here's the way I'm going to do it.
+- [00:17:49,240 - 00:17:49,920] I'm going to imagine,
+- [00:17:50,220 - 00:17:51,920] this may be too hard to do,
+- [00:17:51,980 - 00:17:52,660] but it doesn't matter.
+- [00:17:52,780 - 00:17:54,140] All I have to do is imagine doing it.
+- [00:17:54,640 - 00:17:55,720] Solving this equation
+- [00:17:56,320 - 00:17:57,700] for one of the two variables.
+- [00:17:58,580 - 00:17:59,240] Which one?
+- [00:17:59,460 - 00:17:59,740] All right,
+- [00:17:59,740 - 00:18:01,060] let's imagine solving for y.
+- [00:18:01,840 - 00:18:03,860] If we solve this equation for y,
+- [00:18:04,379 - 00:18:05,829] it will tell us what y
+- [00:18:05,829 - 00:18:07,280] is as a function of x.
+- [00:18:08,280 - 00:18:09,180] In other words,
+- [00:18:09,180 - 00:18:10,440] this was some curve.
+- [00:18:11,380 - 00:18:13,140] It corresponds to a curve.
+- [00:18:13,320 - 00:18:15,340] That represents y as a function of x.
+- [00:18:16,220 - 00:18:18,820] Let's not worry right now whether it's single-valued,
+- [00:18:18,900 - 00:18:19,840] not single-valued.
+- [00:18:19,960 - 00:18:21,740] That's not an important issue here.
+- [00:18:22,140 - 00:18:24,800] It gives us a y as a function of x.
+- [00:18:25,080 - 00:18:27,040] Then we plug that back into here.
+- [00:18:27,280 - 00:18:29,260] And we say what we're really trying to minimize
+- [00:18:29,260 - 00:18:33,980] is f of x and y of x.
+- [00:18:35,520 - 00:18:38,100] This is now a function of a single variable.
+- [00:18:38,720 - 00:18:40,580] It's only a function of x
+- [00:18:41,440 - 00:18:43,300] because y is a function of x.
+- [00:18:43,320 - 00:18:44,490] So f of x is
+- [00:18:44,490 - 00:18:45,660] now a definite function of x.
+- [00:18:45,940 - 00:18:48,070] f of x and y becomes
+- [00:18:48,070 - 00:18:50,200] f of x and y of x.
+- [00:18:51,280 - 00:18:52,380] Next step.
+- [00:18:52,580 - 00:18:53,400] What's the next step?
+- [00:18:57,080 - 00:18:58,580] Differentiate this with respect to x
+- [00:18:58,580 - 00:19:00,060] and set the result equal to zero.
+- [00:19:01,000 - 00:19:03,220] That will find us the minimum of x
+- [00:19:03,220 - 00:19:04,520] subject to the constraint.
+- [00:19:04,760 - 00:19:05,280] So let's see.
+- [00:19:05,320 - 00:19:05,760] Let's do that.
+- [00:19:06,800 - 00:19:09,400] We have to differentiate the x dependence.
+- [00:19:09,780 - 00:19:10,880] That's df by dx.
+- [00:19:13,320 - 00:19:14,860] But then we have to add to that
+- [00:19:15,720 - 00:19:18,140] the derivative of f with respect to y
+- [00:19:22,680 - 00:19:25,160] times dy by dx.
+- [00:19:25,440 - 00:19:26,620] This is an ordinary derivative.
+- [00:19:27,620 - 00:19:28,860] dy by dx.
+- [00:19:31,320 - 00:19:31,840] Alright,
+- [00:19:31,840 - 00:19:34,100] this is the change in f
+- [00:19:34,100 - 00:19:36,640] when we change the first argument here
+- [00:19:36,640 - 00:19:37,300] of the function.
+- [00:19:37,520 - 00:19:39,000] And this is the change
+- [00:19:39,000 - 00:19:40,480] due to the change in y.
+- [00:19:40,960 - 00:19:42,130] But the change in y is not
+- [00:19:42,130 - 00:19:43,300] the same as the change in y.
+- [00:19:43,320 - 00:19:44,870] The change in y is
+- [00:19:44,870 - 00:19:46,420] determined by the change in x.
+- [00:19:46,980 - 00:19:49,400] And we set this equal to zero.
+- [00:19:54,300 - 00:19:54,900] Okay,
+- [00:19:54,900 - 00:19:56,680] that's an equation.
+- [00:19:57,120 - 00:19:58,880] But what about dy by dx?
+- [00:19:59,220 - 00:20:00,800] What do I know about dy by dx?
+- [00:20:01,040 - 00:20:02,230] Let's see what we can
+- [00:20:02,230 - 00:20:03,420] figure out about dy by dx.
+- [00:20:04,080 - 00:20:05,460] This curve here
+- [00:20:07,080 - 00:20:10,060] is a curve of constant g.
+- [00:20:11,060 - 00:20:12,660] Let's imagine moving along it.
+- [00:20:13,320 - 00:20:14,320] Imagine moving along it
+- [00:20:14,320 - 00:20:16,780] and making a small differential displacement.
+- [00:20:18,040 - 00:20:20,320] A small differential displacement
+- [00:20:21,240 - 00:20:23,520] along the curve of constant g
+- [00:20:24,080 - 00:20:26,440] will not change g by definition.
+- [00:20:26,600 - 00:20:30,120] If we're moving along the curve of constant g,
+- [00:20:31,080 - 00:20:32,260] then g doesn't change.
+- [00:20:32,700 - 00:20:34,640] So I can write the following equation.
+- [00:20:34,740 - 00:20:35,580] Along this curve,
+- [00:20:36,320 - 00:20:37,820] the derivative of g
+- [00:20:37,820 - 00:20:39,680] with respect to x
+- [00:20:40,420 - 00:20:41,700] times dx
+- [00:20:41,700 - 00:20:44,380] plus the derivative of g
+- [00:20:44,380 - 00:20:45,340] with respect to y
+- [00:20:46,520 - 00:20:47,500] times dy
+- [00:20:47,500 - 00:20:49,340] is equal to zero.
+- [00:20:49,560 - 00:20:51,440] That says g doesn't change
+- [00:20:51,440 - 00:20:54,280] when I make a small differential displacement.
+- [00:20:54,740 - 00:20:56,360] The reason I did this
+- [00:20:56,360 - 00:20:58,780] is because this allows me to solve
+- [00:20:58,780 - 00:21:00,820] for dy by dx
+- [00:21:01,460 - 00:21:05,700] in terms of things involving the constraint g.
+- [00:21:06,060 - 00:21:06,440] Alright,
+- [00:21:06,440 - 00:21:07,520] so dy by dx,
+- [00:21:07,740 - 00:21:08,860] which is divide by dx,
+- [00:21:08,860 - 00:21:13,140] and what do we get?
+- [00:21:13,240 - 00:21:14,440] We get dy by dx
+- [00:21:15,840 - 00:21:17,480] dy by dx
+- [00:21:18,720 - 00:21:20,320] is equal to minus
+- [00:21:21,580 - 00:21:23,060] dg by dx
+- [00:21:24,399 - 00:21:25,680] divided by
+- [00:21:26,820 - 00:21:28,120] dg by dy.
+- [00:21:31,500 - 00:21:32,220] Alright,
+- [00:21:32,220 - 00:21:32,900] very simple.
+- [00:21:33,040 - 00:21:34,760] We just use the statement
+- [00:21:34,760 - 00:21:36,200] that the constraint,
+- [00:21:36,500 - 00:21:37,360] along the constraint,
+- [00:21:37,360 - 00:21:38,340] g is constant,
+- [00:21:38,860 - 00:21:40,500] and that tells us something about
+- [00:21:40,500 - 00:21:43,240] the derivative of y with respect to x
+- [00:21:43,240 - 00:21:44,080] along that curve.
+- [00:21:44,340 - 00:21:45,660] And now we plug it in.
+- [00:21:46,100 - 00:21:47,420] We plug it into here.
+- [00:21:48,780 - 00:21:49,740] Let's see what we get.
+- [00:21:50,760 - 00:21:52,080] dy by dx
+- [00:21:52,760 - 00:21:54,260] might as well write it over.
+- [00:21:55,220 - 00:21:55,980] We get
+- [00:21:57,139 - 00:21:58,300] df by dx
+- [00:22:00,320 - 00:22:01,800] Now there's going to be a minus sign
+- [00:22:01,800 - 00:22:03,160] from the dy by dx,
+- [00:22:03,380 - 00:22:04,700] so let's put the minus sign here.
+- [00:22:05,440 - 00:22:06,360] df by dy
+- [00:22:07,780 - 00:22:08,680] and now,
+- [00:22:09,480 - 00:22:10,620] dy by dx,
+- [00:22:10,820 - 00:22:12,940] except I already took into account the minus sign,
+- [00:22:13,160 - 00:22:14,940] this is dg by dx
+- [00:22:16,640 - 00:22:18,400] divided by dg by dy
+- [00:22:20,660 - 00:22:21,580] Let's put it in there.
+- [00:22:21,640 - 00:22:22,260] dg by dy
+- [00:22:24,500 - 00:22:25,300] equals 0.
+- [00:22:26,160 - 00:22:28,240] Let's multiply by dg by dy.
+- [00:22:29,020 - 00:22:31,900] So we get dg by dy
+- [00:22:33,680 - 00:22:34,560] equals 0.
+- [00:22:36,240 - 00:22:37,720] That's not a bad looking equation.
+- [00:22:38,320 - 00:22:38,840] Alright,
+- [00:22:38,840 - 00:22:38,840] so now we're going to
+- [00:22:38,860 - 00:22:39,640] do the same thing.
+- [00:22:39,640 - 00:22:40,320] That's the equation
+- [00:22:42,360 - 00:22:43,860] after we've eliminated
+- [00:22:45,340 - 00:22:45,820] y,
+- [00:22:47,200 - 00:22:48,400] this is the equation
+- [00:22:48,400 - 00:22:50,400] which solves for the minimum
+- [00:22:50,400 - 00:22:52,840] of f subject to g.
+- [00:22:53,640 - 00:22:54,940] What I want to show you,
+- [00:22:54,980 - 00:22:56,080] I don't want you to use this,
+- [00:22:56,140 - 00:22:57,380] we're not going to use this.
+- [00:22:57,720 - 00:23:00,000] What we're going to do is show that you get
+- [00:23:00,000 - 00:23:01,760] exactly the same relationship
+- [00:23:01,760 - 00:23:04,140] from the method of Lagrange multipliers.
+- [00:23:05,560 - 00:23:06,760] So let's go to
+- [00:23:06,760 - 00:23:08,400] the method of Lagrange multipliers.
+- [00:23:13,199 - 00:23:14,940] Here are the two equations
+- [00:23:16,239 - 00:23:17,520] that followed
+- [00:23:17,520 - 00:23:20,000] from the method of Lagrange multipliers.
+- [00:23:20,160 - 00:23:21,140] But now,
+- [00:23:21,280 - 00:23:22,280] let's eliminate
+- [00:23:22,280 - 00:23:24,000] lambda from the equation.
+- [00:23:24,500 - 00:23:25,760] How can we do that?
+- [00:23:25,860 - 00:23:28,300] We can solve for lambda in one equation
+- [00:23:28,300 - 00:23:30,240] and plug it into the other.
+- [00:23:31,080 - 00:23:31,720] Alright,
+- [00:23:31,720 - 00:23:32,400] so let's see.
+- [00:23:32,480 - 00:23:32,640] Here,
+- [00:23:32,640 - 00:23:33,260] lambda,
+- [00:23:34,159 - 00:23:35,440] it says lambda
+- [00:23:35,440 - 00:23:37,780] is equal to
+- [00:23:37,780 - 00:23:38,260] minus
+- [00:23:40,200 - 00:23:41,600] df by dx
+- [00:23:43,480 - 00:23:44,580] divided by
+- [00:23:44,580 - 00:23:45,640] dg by dx.
+- [00:23:45,860 - 00:23:46,280] Is that right?
+- [00:23:49,700 - 00:23:50,400] Let's see.
+- [00:23:50,920 - 00:23:51,480] Yeah.
+- [00:23:52,680 - 00:23:53,240] Minus,
+- [00:23:53,240 - 00:23:54,360] because I've got to transpose,
+- [00:23:54,940 - 00:23:56,400] and then lambda will be
+- [00:23:56,400 - 00:23:57,200] df by dx
+- [00:23:57,200 - 00:23:59,400] divided by dg by dx.
+- [00:24:00,160 - 00:24:01,900] Now let's plug it into here.
+- [00:24:02,940 - 00:24:03,500] Alright,
+- [00:24:03,500 - 00:24:03,940] let's plug
+- [00:24:03,940 - 00:24:04,820] lambda into here.
+- [00:24:05,560 - 00:24:06,780] So we have lambda
+- [00:24:08,660 - 00:24:09,600] minus sine
+- [00:24:11,820 - 00:24:12,880] df by dx
+- [00:24:17,040 - 00:24:18,940] divided by dg by dx.
+- [00:24:19,580 - 00:24:20,880] But instead of dividing
+- [00:24:20,880 - 00:24:22,340] by dg by dx over here,
+- [00:24:22,420 - 00:24:23,260] let's just multiply
+- [00:24:23,260 - 00:24:25,020] by dg by dx over here.
+- [00:24:27,360 - 00:24:27,920] Alright,
+- [00:24:27,920 - 00:24:28,620] it really was
+- [00:24:28,620 - 00:24:30,140] divided by dg by dx,
+- [00:24:30,360 - 00:24:31,300] but then I just multiply
+- [00:24:31,300 - 00:24:33,260] the right hand side of zero.
+- [00:24:35,100 - 00:24:36,960] Hopefully it's the same equation.
+- [00:24:37,140 - 00:24:37,700] So,
+- [00:24:38,260 - 00:24:39,520] I'm not even going to look.
+- [00:24:40,360 - 00:24:42,380] I hope it's
+- [00:24:42,380 - 00:24:42,920] the same equation.
+- [00:24:42,920 - 00:24:44,240] Is it the same equation?
+- [00:24:45,560 - 00:24:46,040] Hmm?
+- [00:24:46,180 - 00:24:47,020] It's got a minus sign.
+- [00:24:48,080 - 00:24:49,440] They both have minus sign.
+- [00:24:50,780 - 00:24:52,700] minus d by dy
+- [00:24:52,700 - 00:24:54,500] minus d by dy
+- [00:24:54,500 - 00:24:55,620] minus d by dy
+- [00:24:57,620 - 00:24:58,660] They're both equal to zero.
+- [00:24:59,220 - 00:25:00,100] They're both equal to zero.
+- [00:25:00,100 - 00:25:00,780] I don't know.
+- [00:25:02,180 - 00:25:02,660] Right.
+- [00:25:04,320 - 00:25:04,900] Right.
+- [00:25:05,280 - 00:25:06,480] We have to multiply
+- [00:25:06,480 - 00:25:08,300] by minus one to get them to be the same.
+- [00:25:08,520 - 00:25:09,580] But they are the same.
+- [00:25:10,430 - 00:25:12,240] So this was just a simple illustration
+- [00:25:13,880 - 00:25:15,040] that the method of
+- [00:25:15,040 - 00:25:16,600] there's an intuitive geometric
+- [00:25:16,600 - 00:25:17,680] picture of it,
+- [00:25:17,680 - 00:25:18,400] but
+- [00:25:18,400 - 00:25:20,440] it takes longer to explain
+- [00:25:20,440 - 00:25:21,800] than just to do the arithmetic.
+- [00:25:22,520 - 00:25:24,620] The method of Lagrange multipliers
+- [00:25:24,620 - 00:25:26,000] is completely equivalent
+- [00:25:26,660 - 00:25:28,520] to solving the constraint
+- [00:25:29,700 - 00:25:30,780] and then plugging
+- [00:25:30,780 - 00:25:31,440] back in.
+- [00:25:31,440 - 00:25:32,640] And as you
+- [00:25:32,660 - 00:25:32,660] can see,
+- [00:25:32,660 - 00:25:33,440] it's usually easier.
+- [00:25:34,160 - 00:25:34,680] Okay,
+- [00:25:34,680 - 00:25:35,740] so what are the rules again?
+- [00:25:35,960 - 00:25:37,260] You take the constraint,
+- [00:25:37,260 - 00:25:38,620] you multiply it by lambda.
+- [00:25:38,860 - 00:25:40,500] You add it to the
+- [00:25:40,500 - 00:25:42,760] thing that you're trying to make minimum or maximum.
+- [00:25:43,500 - 00:25:44,860] You then differentiate
+- [00:25:44,860 - 00:25:46,660] as if you were trying to
+- [00:25:46,660 - 00:25:48,300] minimize the whole thing.
+- [00:25:50,100 - 00:25:51,560] You get two equations.
+- [00:25:52,200 - 00:25:52,820] Let's see.
+- [00:25:54,000 - 00:25:55,200] Or however many
+- [00:25:55,200 - 00:25:56,280] equations there are
+- [00:25:56,280 - 00:25:57,920] variables in the problem.
+- [00:26:00,440 - 00:26:01,520] Doesn't have to be two.
+- [00:26:02,120 - 00:26:02,640] But you can do it.
+- [00:26:02,660 - 00:26:02,820] Okay,
+- [00:26:02,820 - 00:26:04,180] so the other one is df
+- [00:26:04,180 - 00:26:05,580] by dy
+- [00:26:06,959 - 00:26:08,240] plus lambda
+- [00:26:08,919 - 00:26:10,280] dg by dy
+- [00:26:11,459 - 00:26:12,420] equals zero.
+- [00:26:14,800 - 00:26:16,640] You solve those two equations.
+- [00:26:16,920 - 00:26:18,420] They're two equations for two unknowns,
+- [00:26:18,720 - 00:26:19,200] x and y.
+- [00:26:20,380 - 00:26:21,100] But then,
+- [00:26:21,100 - 00:26:22,320] after you're finished,
+- [00:26:23,479 - 00:26:24,520] you choose
+- [00:26:24,520 - 00:26:26,620] lambda so that the constraint
+- [00:26:26,620 - 00:26:27,940] is actually satisfied.
+- [00:26:28,320 - 00:26:30,500] So that the constraint g equals zero
+- [00:26:30,500 - 00:26:31,140] is satisfied.
+- [00:26:31,140 - 00:26:32,580] So I gave you some
+- [00:26:32,660 - 00:26:33,020] example.
+- [00:26:34,340 - 00:26:35,840] Make up your own examples.
+- [00:26:36,040 - 00:26:36,600] Work out,
+- [00:26:36,600 - 00:26:37,580] I don't know,
+- [00:26:37,580 - 00:26:37,980] instead of
+- [00:26:37,980 - 00:26:39,120] x squared plus y squared,
+- [00:26:39,120 - 00:26:39,800] take
+- [00:26:40,379 - 00:26:42,200] x cubed plus y cubed
+- [00:26:42,840 - 00:26:44,500] and the constraint is
+- [00:26:44,500 - 00:26:46,340] that sine of x plus y is three.
+- [00:26:46,600 - 00:26:47,020] I don't know.
+- [00:26:47,020 - 00:26:47,200] No,
+- [00:26:47,200 - 00:26:48,600] sine of x plus y can't be
+- [00:26:48,600 - 00:26:48,860] three.
+- [00:26:52,000 - 00:26:54,320] e to the x plus y is equal to three.
+- [00:26:55,660 - 00:26:56,100] Right.
+- [00:26:56,260 - 00:26:56,580] Alright,
+- [00:26:56,580 - 00:26:58,100] just make up an example or two.
+- [00:26:59,020 - 00:27:00,460] Try doing it by
+- [00:27:00,460 - 00:27:02,640] eliminating one of the various
+- [00:27:02,660 - 00:27:04,800] variables and you'll quickly discover
+- [00:27:04,800 - 00:27:06,320] that it's usually easier
+- [00:27:06,320 - 00:27:08,480] to just use the method of Lagrange
+- [00:27:08,480 - 00:27:09,300] multipliers.
+- [00:27:09,820 - 00:27:11,210] But one of the nice
+- [00:27:11,210 - 00:27:12,600] things about the method of Lagrange
+- [00:27:12,600 - 00:27:13,380] multipliers,
+- [00:27:13,380 - 00:27:14,600] it doesn't force
+- [00:27:14,600 - 00:27:16,400] you to single out one of the
+- [00:27:16,400 - 00:27:18,540] variables for special
+- [00:27:18,540 - 00:27:18,980] treatment.
+- [00:27:20,479 - 00:27:22,000] The method of,
+- [00:27:22,000 - 00:27:22,660] that I
+- [00:27:22,660 - 00:27:23,160] used here,
+- [00:27:23,160 - 00:27:24,600] singled
+- [00:27:24,600 - 00:27:25,420] out x
+- [00:27:26,479 - 00:27:28,080] as opposed to y.
+- [00:27:28,520 - 00:27:29,820] It wasn't special,
+- [00:27:29,820 - 00:27:30,360] but
+- [00:27:30,360 - 00:27:32,400] I singled it out to solve
+- [00:27:32,660 - 00:27:33,000] for it.
+- [00:27:33,000 - 00:27:34,300] I solved for y,
+- [00:27:34,500 - 00:27:34,820] actually.
+- [00:27:34,820 - 00:27:36,420] And so I didn't treat
+- [00:27:36,420 - 00:27:37,780] the variables symmetrically.
+- [00:27:38,200 - 00:27:39,160] No problem,
+- [00:27:39,160 - 00:27:40,260] there's nothing wrong with that.
+- [00:27:40,640 - 00:27:42,540] But it's a nice feature of the
+- [00:27:42,540 - 00:27:44,420] method of Lagrange multipliers that it
+- [00:27:44,420 - 00:27:46,520] treats the variables symmetrically.
+- [00:27:47,500 - 00:27:48,620] Let me just
+- [00:27:48,620 - 00:27:50,020] tell you without
+- [00:27:50,020 - 00:27:50,660] proving.
+- [00:27:50,660 - 00:27:52,460] Supposing I had a
+- [00:27:52,460 - 00:27:53,840] function of several variables.
+- [00:27:54,880 - 00:27:55,960] Function of
+- [00:27:57,440 - 00:27:58,640] x1 dot
+- [00:27:58,640 - 00:27:59,540] dot dot dot
+- [00:28:00,280 - 00:28:00,880] xn.
+- [00:28:00,880 - 00:28:02,480] Whatever
+- [00:28:02,660 - 00:28:03,400] they happen to be.
+- [00:28:04,600 - 00:28:06,640] And now I have a collection
+- [00:28:06,640 - 00:28:07,420] of constraints.
+- [00:28:07,420 - 00:28:08,580] Not
+- [00:28:08,580 - 00:28:09,640] just one constraint.
+- [00:28:10,320 - 00:28:11,340] For example,
+- [00:28:11,340 - 00:28:12,300] I may have two constraints.
+- [00:28:12,520 - 00:28:14,360] One of the constraints might be that the total
+- [00:28:14,360 - 00:28:15,240] energy is fixed.
+- [00:28:15,240 - 00:28:16,680] Another constraint
+- [00:28:16,680 - 00:28:18,580] might be that the total charge is
+- [00:28:18,580 - 00:28:18,980] fixed.
+- [00:28:18,980 - 00:28:20,220] Or the energy
+- [00:28:20,220 - 00:28:21,620] and the angular momentum.
+- [00:28:21,620 - 00:28:22,400] They would be two
+- [00:28:22,400 - 00:28:23,620] separate constraints.
+- [00:28:24,420 - 00:28:26,420] And so I would have a
+- [00:28:26,420 - 00:28:27,560] set of constraints.
+- [00:28:28,560 - 00:28:29,080] g1,
+- [00:28:29,080 - 00:28:30,140] let's call it,
+- [00:28:30,140 - 00:28:30,480] is equal
+- [00:28:30,480 - 00:28:30,900] to zero.
+- [00:28:30,900 - 00:28:32,460] g1 is
+- [00:28:32,660 - 00:28:34,760] a function of the same set of variables.
+- [00:28:35,520 - 00:28:36,580] g2 is equal
+- [00:28:36,580 - 00:28:36,980] to zero.
+- [00:28:36,980 - 00:28:38,660] However many I have.
+- [00:28:39,020 - 00:28:40,680] It's important that there not be
+- [00:28:40,680 - 00:28:42,180] more constraints than variables.
+- [00:28:42,420 - 00:28:43,660] Otherwise you can't solve it.
+- [00:28:44,760 - 00:28:46,460] If you have more constraints than
+- [00:28:46,460 - 00:28:46,880] variables,
+- [00:28:46,880 - 00:28:48,320] in general there is no solution.
+- [00:28:48,800 - 00:28:49,360] But
+- [00:28:50,920 - 00:28:52,040] fewer constraints
+- [00:28:52,660 - 00:28:53,580] than variables.
+- [00:28:54,000 - 00:28:56,740] Then what you do is you introduce a Lagrange
+- [00:28:56,740 - 00:28:58,600] multiplier for each of the
+- [00:28:58,600 - 00:28:59,060] constraints.
+- [00:28:59,060 - 00:29:00,680] So you write
+- [00:29:00,680 - 00:29:01,160] f
+- [00:29:02,820 - 00:29:04,620] plus the first
+- [00:29:04,620 - 00:29:06,600] Lagrange multiplier times g1
+- [00:29:06,600 - 00:29:08,640] plus the second
+- [00:29:08,640 - 00:29:10,600] Lagrange multiplier times g2.
+- [00:29:10,720 - 00:29:12,700] And however many Lagrange multipliers
+- [00:29:12,700 - 00:29:14,720] you have or however many constraints you have.
+- [00:29:15,020 - 00:29:16,740] And then you minimize
+- [00:29:17,580 - 00:29:18,360] or
+- [00:29:18,360 - 00:29:19,100] differentiate
+- [00:29:20,370 - 00:29:22,460] the result with respect to the
+- [00:29:22,460 - 00:29:22,820] x's.
+- [00:29:22,820 - 00:29:24,520] Set them equal to zero.
+- [00:29:25,220 - 00:29:26,520] The f
+- [00:29:26,520 - 00:29:28,520] plus the sum
+- [00:29:28,520 - 00:29:30,460] of lambda i gi
+- [00:29:31,600 - 00:29:32,640] with respect
+- [00:29:32,660 - 00:29:33,180] to
+- [00:29:38,420 - 00:29:40,340] each one of the x's
+- [00:29:40,340 - 00:29:42,320] and set it equal to zero.
+- [00:29:45,200 - 00:29:45,940] Solve it
+- [00:29:46,660 - 00:29:48,100] and then
+- [00:29:49,200 - 00:29:50,600] choose all of the
+- [00:29:50,600 - 00:29:51,100] lambdas.
+- [00:29:51,100 - 00:29:52,420] How many lambdas
+- [00:29:52,420 - 00:29:52,900] do you have?
+- [00:29:52,900 - 00:29:54,520] One for each constraint.
+- [00:29:54,980 - 00:29:56,840] Choose all of the lambdas
+- [00:29:56,840 - 00:29:58,760] so that all the constraints
+- [00:29:58,760 - 00:29:59,480] are satisfied.
+- [00:30:00,260 - 00:30:00,860] That's
+- [00:30:02,660 - 00:30:04,260] the method of Lagrange multipliers
+- [00:30:04,260 - 00:30:06,260] and as I said it is
+- [00:30:06,260 - 00:30:08,460] central to statistical
+- [00:30:08,460 - 00:30:09,060] mechanics.
+- [00:30:09,060 - 00:30:10,540] We will use
+- [00:30:10,540 - 00:30:11,940] it over and over again
+- [00:30:12,520 - 00:30:14,620] and if you're not familiar
+- [00:30:14,620 - 00:30:16,360] with it just look it up on
+- [00:30:16,360 - 00:30:18,560] I'm sure you can find it easily on
+- [00:30:18,560 - 00:30:18,720] the,
+- [00:30:18,720 - 00:30:20,760] just google it
+- [00:30:20,760 - 00:30:22,320] Lagrange multipliers
+- [00:30:22,320 - 00:30:24,160] it's probably a Wikipedia article
+- [00:30:24,900 - 00:30:26,140] and try it out,
+- [00:30:26,140 - 00:30:26,700] work with it
+- [00:30:26,700 - 00:30:28,500] a little bit and become familiar with it.
+- [00:30:30,700 - 00:30:32,240] I will not explain it again
+- [00:30:32,660 - 00:30:33,400] but I will use it again
+- [00:30:34,720 - 00:30:35,660] over and over.
+- [00:30:37,420 - 00:30:38,520] What is the thing that
+- [00:30:38,520 - 00:30:39,760] we're typically going to minimize?
+- [00:30:40,180 - 00:30:40,720] The entropy.
+- [00:30:40,720 - 00:30:42,480] What are the constraints?
+- [00:30:43,780 - 00:30:44,620] Constraints such
+- [00:30:44,620 - 00:30:46,060] as we know the total energy,
+- [00:30:46,060 - 00:30:46,600] we know
+- [00:30:46,600 - 00:30:47,980] the total whatever it happens to be.
+- [00:30:49,340 - 00:30:49,860] Okay,
+- [00:30:49,860 - 00:30:50,380] next
+- [00:30:50,380 - 00:30:52,000] little theorem.
+- [00:30:52,320 - 00:30:54,400] These things are too small to really be called
+- [00:30:54,400 - 00:30:54,940] theorems.
+- [00:30:56,840 - 00:30:57,820] Stirling's approximation
+- [00:30:58,600 - 00:31:00,380] to the factorial function.
+- [00:31:01,040 - 00:31:02,240] Everybody know what
+- [00:31:03,680 - 00:31:04,820] Stirling's approximation is?
+- [00:31:06,780 - 00:31:07,540] Anybody not know?
+- [00:31:10,200 - 00:31:10,940] Anybody not know?
+- [00:31:11,320 - 00:31:12,180] Oh no no no
+- [00:31:12,180 - 00:31:13,360] but I mean you know how to prove it.
+- [00:31:14,818 - 00:31:15,048] 好
+- [00:31:15,048 - 00:31:15,278] 謝謝
+- [00:31:17,026 - 00:31:17,666] where it comes from.
+- [00:31:17,666 - 00:31:19,106] Alright,
+- [00:31:19,106 - 00:31:21,206] so let's just review very quickly
+- [00:31:21,206 - 00:31:22,666] Sterling's approximation.
+- [00:31:22,666 - 00:31:30,026] N factorial occurs over and over in all sorts of
+- [00:31:30,026 - 00:31:31,166] probability contexts.
+- [00:31:31,166 - 00:31:36,286] Every time you calculate permutations and combinations
+- [00:31:36,286 - 00:31:38,346] in order to calculate probabilities,
+- [00:31:38,346 - 00:31:41,806] N factorials appear all over the place.
+- [00:31:41,806 - 00:31:42,846] Okay,
+- [00:31:42,846 - 00:31:50,686] generally the N's which appear are very large numbers.
+- [00:31:50,686 - 00:31:52,366] They have to do with
+- [00:31:52,366 - 00:31:54,486] how many ways there are arranging
+- [00:31:54,486 - 00:31:56,606] or rearranging a large number of variables
+- [00:31:56,606 - 00:31:57,986] in some large number of ways,
+- [00:31:57,986 - 00:32:02,106] and so it's important to have an approximation of a
+- [00:32:02,106 - 00:32:05,066] reliable approximation which becomes better and
+- [00:32:05,066 - 00:32:08,026] better as N becomes large for
+- [00:32:08,026 - 00:32:09,166] the factorial function.
+- [00:32:09,166 - 00:32:11,206] N factorial.
+- [00:32:23,386 - 00:32:25,886] Equals 1 times 2 times 3
+- [00:32:25,886 - 00:32:28,386] dot dot dot dot up to N.
+- [00:32:28,386 - 00:32:31,526] That's the factorial function,
+- [00:32:31,526 - 00:32:31,826] right?
+- [00:32:33,266 - 00:32:33,746] Alright,
+- [00:32:33,746 - 00:32:36,006] now I want to find a good estimate for it.
+- [00:32:36,006 - 00:32:37,726] What I'm going to begin
+- [00:32:37,726 - 00:32:39,506] with is by taking its logarithm.
+- [00:32:39,506 - 00:32:40,846] I'm going to calculate,
+- [00:32:40,846 - 00:32:41,686] I'm going to estimate
+- [00:32:41,686 - 00:32:41,786] it.
+- [00:32:41,786 - 00:32:41,786] I'm going to calculate the logarithm.
+- [00:32:41,786 - 00:32:41,786] I'm going to calculate the logarithm.
+- [00:32:41,786 - 00:32:43,346] I'm going to estimate the logarithm of N factorial.
+- [00:32:43,346 - 00:32:45,126] Once I've estimated the
+- [00:32:45,126 - 00:32:46,326] logarithm of N factorial,
+- [00:32:46,326 - 00:32:48,526] how do I estimate N factorial?
+- [00:32:50,206 - 00:32:51,966] We exponentiate the logarithm.
+- [00:32:51,966 - 00:32:52,606] Right.
+- [00:32:52,606 - 00:32:54,626] So it's just as good to...
+- [00:32:54,626 - 00:32:55,046] Alright,
+- [00:32:55,046 - 00:32:55,726] so let's calculate,
+- [00:32:55,726 - 00:32:59,426] let's estimate the logarithm of N factorial.
+- [00:32:59,666 - 00:33:01,046] Log N factorial.
+- [00:33:01,046 - 00:33:03,666] That's equal to log of 1 plus log
+- [00:33:03,666 - 00:33:06,286] of 2 plus log of 3 plus and so
+- [00:33:06,286 - 00:33:07,146] forth and so on.
+- [00:33:07,146 - 00:33:11,126] Log 1 happens to be 0.
+- [00:33:11,126 - 00:33:12,946] But nevertheless,
+- [00:33:12,946 - 00:33:13,786] write it down.
+- [00:33:13,786 - 00:33:16,716] Plus log 2 plus log 3
+- [00:33:16,716 - 00:33:19,646] dot dot dot plus log N.
+- [00:33:22,666 - 00:33:23,226] Alright,
+- [00:33:23,226 - 00:33:23,966] so what do I have?
+- [00:33:23,966 - 00:33:27,586] Let's plot N in this direction.
+- [00:33:27,586 - 00:33:31,246] Let's plot logarithm of N.
+- [00:33:31,486 - 00:33:33,566] Now what does the logarithm function look like?
+- [00:33:33,566 - 00:33:37,606] It looks like it's 0 at N equals 1.
+- [00:33:37,806 - 00:33:39,586] And it looks something like this.
+- [00:33:41,126 - 00:33:43,006] And basically what we're doing
+- [00:33:43,006 - 00:33:44,886] is we're adding up the areas.
+- [00:33:51,246 - 00:33:52,506] N equals 1,
+- [00:33:52,506 - 00:33:53,606] N equals 2,
+- [00:33:53,606 - 00:33:55,566] N equals 3,
+- [00:33:55,566 - 00:33:57,426] dot dot dot.
+- [00:33:57,426 - 00:34:02,566] We're adding up the areas under this
+- [00:34:02,566 - 00:34:03,846] logarithm curve here.
+- [00:34:03,846 - 00:34:05,286] Alright.
+- [00:34:05,286 - 00:34:07,686] When N becomes large,
+- [00:34:07,686 - 00:34:10,366] it's a good
+- [00:34:10,366 - 00:34:11,106] approximation of N factorial.
+- [00:34:11,106 - 00:34:11,426] breakfast
+- [00:34:11,426 - 00:34:14,235] Since the least possible approximation to the
+- [00:34:14,235 - 00:34:17,045] sum to replace it by the integral.
+- [00:34:17,706 - 00:34:18,366] Right.
+- [00:34:18,366 - 00:34:19,886] The integral.
+- [00:34:19,886 - 00:34:23,766] So let's consider picture 2.
+- [00:34:23,766 - 00:34:26,306] So let's consider then instead of considering the sum here,
+- [00:34:26,306 - 00:34:29,706] this is sum of log
+- [00:34:29,706 - 00:34:33,106] of N from N equals 1,
+- [00:34:33,106 - 00:34:36,085] N equals sorry it's log of,
+- [00:34:36,085 - 00:34:36,585] let's
+- [00:34:36,585 - 00:34:37,426] call it log of X.
+- [00:34:37,426 - 00:34:41,085] Log of X from X equals 1.
+- [00:34:41,085 - 00:34:47,206] 1 to x equals n and we're going
+- [00:34:47,206 - 00:34:53,326] to replace that by integral dx logarithm of x
+- [00:34:55,786 - 00:34:56,386] Okay,
+- [00:34:56,386 - 00:35:02,846] so we have the problem of integrating logarithm of x
+- [00:35:03,966 - 00:35:04,946] It's easy to do,
+- [00:35:04,946 - 00:35:07,206] you just look it up in a table of integrals
+- [00:35:18,326 - 00:35:21,186] That incidentally means find the function
+- [00:35:21,186 - 00:35:24,046] whose derivative is logarithm of x
+- [00:35:24,846 - 00:35:26,276] I'll tell you how I would think
+- [00:35:26,276 - 00:35:27,706] about it if I didn't know the answer
+- [00:35:27,706 - 00:35:29,566] I would begin by saying,
+- [00:35:29,566 - 00:35:31,106] well logarithm,
+- [00:35:31,106 - 00:35:32,846] at least for large x,
+- [00:35:32,846 - 00:35:35,666] is a very slowly varying function
+- [00:35:35,666 - 00:35:38,545] It practically doesn't vary at all
+- [00:35:38,545 - 00:35:41,066] Logarithm is terribly slowly varying
+- [00:35:41,086 - 00:35:44,786] So I might just try saying,
+- [00:35:44,786 - 00:35:48,146] well what if this logarithm were a constant
+- [00:35:48,686 - 00:35:51,706] Then what would be the integral dx of a constant?
+- [00:35:54,066 - 00:35:55,466] x times the constant,
+- [00:35:55,466 - 00:35:55,886] right?
+- [00:35:56,846 - 00:35:58,046] x times the constant
+- [00:35:58,046 - 00:35:59,126] Okay,
+- [00:35:59,126 - 00:36:01,446] so let's try x times log x
+- [00:36:04,245 - 00:36:05,966] x times log x
+- [00:36:05,966 - 00:36:08,206] If log x were a constant,
+- [00:36:08,206 - 00:36:10,666] and it's very very slowly varying
+- [00:36:11,086 - 00:36:12,906] If we replaced it by a constant,
+- [00:36:12,906 - 00:36:15,906] then the right answer would be x times the constant
+- [00:36:16,506 - 00:36:18,306] So this shouldn't be too far off
+- [00:36:18,306 - 00:36:20,776] Now let's differentiate it and see
+- [00:36:20,776 - 00:36:23,246] if we really get logarithm of x
+- [00:36:23,966 - 00:36:26,046] So what's the derivative of x log x?
+- [00:36:27,166 - 00:36:27,666] Well,
+- [00:36:27,666 - 00:36:28,586] it's got two factors
+- [00:36:28,586 - 00:36:31,526] So the derivative of the first
+- [00:36:31,526 - 00:36:34,466] factor is 1 times the second factor
+- [00:36:34,466 - 00:36:35,286] That gives us,
+- [00:36:35,286 - 00:36:35,426] good,
+- [00:36:35,426 - 00:36:36,366] that gives us log x,
+- [00:36:36,366 - 00:36:36,626] right?
+- [00:36:37,966 - 00:36:39,226] But there's another term,
+- [00:36:39,226 - 00:36:39,946] what's the other term?
+- [00:36:42,186 - 00:36:45,646] It's x times the derivative of logarithm of x
+- [00:36:45,646 - 00:36:46,816] But the derivative of logarithm
+- [00:36:46,816 - 00:36:47,986] of x is 1 over x
+- [00:36:49,506 - 00:36:49,946] Okay,
+- [00:36:49,946 - 00:36:50,746] so what do we get?
+- [00:36:51,626 - 00:36:52,366] Plus 1
+- [00:36:53,306 - 00:36:55,626] Not log x plus 1,
+- [00:36:55,626 - 00:36:56,546] but log x
+- [00:36:57,206 - 00:36:58,646] 1 plus log x
+- [00:37:02,526 - 00:37:03,586] So that's not so good,
+- [00:37:03,586 - 00:37:04,786] we wanted to get log x
+- [00:37:04,786 - 00:37:06,526] We didn't want to get 1 plus log x
+- [00:37:07,526 - 00:37:07,966] Okay,
+- [00:37:07,966 - 00:37:10,526] but all we have to do now is
+- [00:37:11,086 - 00:37:12,766] We have to subtract something from this
+- [00:37:12,766 - 00:37:14,866] Whose derivative is 1
+- [00:37:16,206 - 00:37:17,986] Which is x
+- [00:37:21,006 - 00:37:21,646] That,
+- [00:37:21,646 - 00:37:22,546] my friends,
+- [00:37:22,546 - 00:37:25,986] is the integral of log x
+- [00:37:25,986 - 00:37:28,246] x log x minus x
+- [00:37:28,946 - 00:37:29,546] Differentiate it,
+- [00:37:29,546 - 00:37:30,166] you'll get x,
+- [00:37:30,166 - 00:37:30,586] sorry,
+- [00:37:30,586 - 00:37:31,466] you'll get log x
+- [00:37:32,146 - 00:37:34,266] So we now know that this,
+- [00:37:34,266 - 00:37:34,506] oh,
+- [00:37:34,506 - 00:37:36,866] this integral goes from 1 to n
+- [00:37:37,886 - 00:37:39,226] And the answer is
+- [00:37:41,086 - 00:37:46,126] n log n minus n
+- [00:37:47,066 - 00:37:48,986] I've just substituted for x,
+- [00:37:48,986 - 00:37:49,506] I've just
+- [00:37:50,726 - 00:37:52,346] Integral from 1 to n
+- [00:37:52,846 - 00:37:54,466] One end point just gives 0
+- [00:37:54,466 - 00:37:57,466] The other end point gives n log n minus n
+- [00:37:58,226 - 00:38:01,386] This is Sterling's approximation for the logarithm
+- [00:38:02,786 - 00:38:04,006] Of n factorial
+- [00:38:05,826 - 00:38:07,266] And actually this is the way
+- [00:38:07,266 - 00:38:08,706] we're going to wind up using it
+- [00:38:08,706 - 00:38:10,606] n log n minus n
+- [00:38:11,086 - 00:38:12,876] Because we're generally going to be
+- [00:38:12,876 - 00:38:14,666] interested in the logarithm of n factorial
+- [00:38:14,666 - 00:38:16,786] But just to
+- [00:38:22,406 - 00:38:23,526] Just to,
+- [00:38:23,526 - 00:38:24,326] hmm,
+- [00:38:24,326 - 00:38:25,246] I don't know what's going on
+- [00:38:25,246 - 00:38:27,126] Just to complete the calculation,
+- [00:38:27,126 - 00:38:29,626] we now want to exponentiate it
+- [00:38:29,626 - 00:38:30,666] Alright,
+- [00:38:30,666 - 00:38:31,746] so we want to take
+- [00:38:31,746 - 00:38:34,026] e to the n log n
+- [00:38:36,706 - 00:38:38,446] e to the minus n
+- [00:38:38,946 - 00:38:41,586] We have the sum or the difference of two terms
+- [00:38:41,586 - 00:38:43,466] When we're going to exponentiate it,
+- [00:38:43,466 - 00:38:44,126] I will get
+- [00:38:45,346 - 00:38:46,706] e to the n log n
+- [00:38:46,706 - 00:38:47,086] That's,
+- [00:38:47,086 - 00:38:48,986] what's e to the n log n?
+- [00:38:51,666 - 00:38:52,546] That's n to the n
+- [00:38:53,186 - 00:38:54,426] Same as n to the n
+- [00:38:56,566 - 00:38:57,906] n to the n is the same
+- [00:38:57,906 - 00:38:59,246] as e to the n log n
+- [00:39:00,146 - 00:39:01,406] Times e to the minus n
+- [00:39:03,186 - 00:39:04,746] This is Sterling's approximation
+- [00:39:05,986 - 00:39:07,806] This is Sterling's approximation
+- [00:39:09,185 - 00:39:12,106] Sterling's approximation to the factorial function
+- [00:39:12,106 - 00:39:14,146] It grows very fast
+- [00:39:14,146 - 00:39:16,486] n to the n grows very rapidly
+- [00:39:16,486 - 00:39:19,146] But not quite as rapidly as n to the n
+- [00:39:19,146 - 00:39:21,126] It's modulated by a decreasing
+- [00:39:21,126 - 00:39:23,106] function e to the minus n
+- [00:39:23,106 - 00:39:24,366] Okay,
+- [00:39:24,366 - 00:39:28,066] so that's a second little lemma or theorem
+- [00:39:28,066 - 00:39:34,586] That you must know in order to do statistical mechanics
+- [00:39:35,445 - 00:39:36,906] And the third one
+- [00:39:38,446 - 00:39:39,866] Is a combinatoric fact
+- [00:39:40,965 - 00:39:42,126] Simple combinatoric fact
+- [00:39:42,126 - 00:39:42,746] But one
+- [00:39:42,746 - 00:39:44,186] And once we do it,
+- [00:39:44,186 - 00:39:45,006] we won't do it again
+- [00:39:45,806 - 00:39:48,306] Or we won't explain it again
+- [00:39:48,306 - 00:39:49,886] But let's do it anyway
+- [00:39:53,426 - 00:39:54,766] I'll tell you what the
+- [00:39:54,766 - 00:39:56,106] problem that we're really interested in
+- [00:39:58,026 - 00:39:59,065] Supposing I have
+- [00:40:01,406 - 00:40:04,866] n copies of the same system
+- [00:40:05,486 - 00:40:07,626] Now you can just think of this as n boxes
+- [00:40:08,625 - 00:40:09,766] n boxes
+- [00:40:11,166 - 00:40:14,726] And each box can be in a state
+- [00:40:15,446 - 00:40:17,666] The states of a single box
+- [00:40:18,136 - 00:40:19,386] I'll label them over here
+- [00:40:20,136 - 00:40:23,326] They actually correspond to the energy states of the system
+- [00:40:25,666 - 00:40:26,846] But here they are
+- [00:40:27,446 - 00:40:29,386] Vertically is energy
+- [00:40:30,426 - 00:40:32,726] This is the i-th state over here
+- [00:40:36,926 - 00:40:38,786] And each one of these boxes
+- [00:40:38,786 - 00:40:42,426] Can be identified with a state in here
+- [00:40:42,426 - 00:40:43,066] In other words,
+- [00:40:43,066 - 00:40:45,406] each box is in a state
+- [00:40:45,406 - 00:40:47,266] Or has a particular state
+- [00:40:48,105 - 00:40:49,546] Labeled by one of these i's
+- [00:40:49,546 - 00:40:50,966] We could draw a picture
+- [00:40:51,646 - 00:40:52,926] Or we could draw a figure
+- [00:40:54,166 - 00:40:56,686] If the first box happens to
+- [00:40:56,686 - 00:40:59,206] be in this state over here
+- [00:40:59,206 - 00:41:00,866] I'll put a line over there like that
+- [00:41:00,866 - 00:41:02,456] If the second box happens
+- [00:41:02,456 - 00:41:04,046] to be in the same state
+- [00:41:04,046 - 00:41:06,046] I'll put another line over here
+- [00:41:07,566 - 00:41:08,926] Supposing the third box is
+- [00:41:08,926 - 00:41:10,286] in a different state over here
+- [00:41:10,286 - 00:41:11,936] And the fourth box is
+- [00:41:11,936 - 00:41:13,586] in a different one over here
+- [00:41:13,586 - 00:41:15,386] And the fifth box
+- [00:41:15,386 - 00:41:17,426] Let's put a fifth box
+- [00:41:17,426 - 00:41:19,466] in just to add one more
+- [00:41:19,466 - 00:41:21,556] Just happens to be in the
+- [00:41:21,556 - 00:41:23,646] same state as this one over here
+- [00:41:24,926 - 00:41:27,106] So a diagram like this
+- [00:41:27,726 - 00:41:30,446] Is a description of the states
+- [00:41:30,446 - 00:41:32,426] Of n copies
+- [00:41:32,426 - 00:41:34,166] There are n copies here
+- [00:41:34,166 - 00:41:35,566] Of a system
+- [00:41:36,196 - 00:41:36,926] N copies
+- [00:41:37,446 - 00:41:38,806] Each with its own state
+- [00:41:41,646 - 00:41:42,346] Now
+- [00:41:43,745 - 00:41:45,346] Here's an interesting quantity
+- [00:41:46,146 - 00:41:46,846] Oh
+- [00:41:47,446 - 00:41:48,786] What should we label
+- [00:41:48,786 - 00:41:49,346] Yes,
+- [00:41:49,346 - 00:41:51,086] we labeled the states i
+- [00:41:51,086 - 00:41:52,886] Notice that i does not stand
+- [00:41:52,886 - 00:41:54,686] for which box we're talking about
+- [00:41:54,686 - 00:41:57,126] It stands for the possible state
+- [00:41:57,126 - 00:41:58,326] Within a box
+- [00:41:58,326 - 00:42:00,426] The possible configuration within a box
+- [00:42:02,426 - 00:42:04,666] And I'm taking them to be discrete
+- [00:42:05,546 - 00:42:06,146] Alright
+- [00:42:06,146 - 00:42:08,846] I can ask how many boxes are there
+- [00:42:09,586 - 00:42:11,066] In the first state
+- [00:42:11,066 - 00:42:12,186] This is i equals one
+- [00:42:13,186 - 00:42:14,686] How many boxes are there
+- [00:42:14,686 - 00:42:16,026] Well in this case there are
+- [00:42:16,026 - 00:42:17,366] no boxes with i equals one
+- [00:42:17,366 - 00:42:20,346] But in general the answer will be an integer
+- [00:42:21,086 - 00:42:22,886] N sub one
+- [00:42:23,506 - 00:42:25,666] That's the number of boxes
+- [00:42:25,666 - 00:42:27,586] In state number one
+- [00:42:28,366 - 00:42:29,446] The number of boxes
+- [00:42:29,446 - 00:42:32,626] In state number two
+- [00:42:33,046 - 00:42:34,226] Is n sub two
+- [00:42:35,006 - 00:42:36,046] N sub three
+- [00:42:36,786 - 00:42:37,646] And so forth
+- [00:42:38,826 - 00:42:40,966] What do these n's have to add up to
+- [00:42:48,746 - 00:42:49,936] I wonder if the lecture is
+- [00:42:49,936 - 00:42:51,126] supposed to be in here tonight
+- [00:42:53,466 - 00:42:54,506] It's supposed to be in the other room,
+- [00:42:54,506 - 00:42:54,646] no?
+- [00:42:54,726 - 00:42:54,866] Yeah,
+- [00:42:54,866 - 00:42:55,526] okay
+- [00:42:56,546 - 00:42:56,926] Okay
+- [00:42:58,366 - 00:42:58,866] Okay
+- [00:43:00,246 - 00:43:02,446] What must these n's add up to
+- [00:43:02,446 - 00:43:02,846] Begin
+- [00:43:03,686 - 00:43:06,906] The number of boxes in the first state
+- [00:43:06,906 - 00:43:08,686] Plus the number of boxes in the second state
+- [00:43:08,686 - 00:43:10,386] Plus the number of boxes in the third state
+- [00:43:10,386 - 00:43:11,926] And so forth have to add up to n
+- [00:43:11,926 - 00:43:14,406] But the question I want to ask is
+- [00:43:14,756 - 00:43:18,546] How many ways are there
+- [00:43:18,546 - 00:43:21,286] Of choosing a state for each box
+- [00:43:22,086 - 00:43:24,526] Such that there are n one
+- [00:43:26,366 - 00:43:28,226] Boxes in the state one
+- [00:43:28,226 - 00:43:30,746] N two boxes in the state two
+- [00:43:30,746 - 00:43:32,666] N three boxes in the state three
+- [00:43:32,666 - 00:43:33,526] And so forth
+- [00:43:33,526 - 00:43:35,586] How many ways are there
+- [00:43:35,586 - 00:43:39,106] Of getting a given set of n's
+- [00:43:40,266 - 00:43:40,806] Okay
+- [00:43:40,806 - 00:43:42,006] Anybody know the answer?
+- [00:43:43,426 - 00:43:45,186] Oh I wrote the answer down in the
+- [00:43:45,186 - 00:43:45,586] Yeah,
+- [00:43:45,586 - 00:43:47,246] the answer was written in the notes
+- [00:43:47,246 - 00:43:48,846] So you do know the answer I presume
+- [00:43:49,666 - 00:43:50,206] Okay
+- [00:43:50,206 - 00:43:52,206] Let me write the answer down
+- [00:43:52,206 - 00:43:54,526] And then if we have time
+- [00:43:55,136 - 00:43:57,426] I'll try to explain why it's the answer
+- [00:43:59,896 - 00:44:02,166] The answer involves a bunch of factorials
+- [00:44:02,166 - 00:44:03,946] And is the primary reason
+- [00:44:03,946 - 00:44:04,846] Why
+- [00:44:05,806 - 00:44:07,826] Why I bothered
+- [00:44:08,566 - 00:44:10,086] Giving you an approximation
+- [00:44:10,086 - 00:44:12,346] For the factorial function
+- [00:44:12,346 - 00:44:13,346] Alright,
+- [00:44:13,346 - 00:44:14,186] the answer is very simple
+- [00:44:14,186 - 00:44:16,866] It's simple but subtle
+- [00:44:16,866 - 00:44:19,386] It's capital N factorial
+- [00:44:20,166 - 00:44:21,726] What should we call this thing?
+- [00:44:22,566 - 00:44:24,126] I think I just called it
+- [00:44:24,126 - 00:44:25,086] I don't remember
+- [00:44:25,086 - 00:44:26,406] Did I give it a name in the notes?
+- [00:44:26,946 - 00:44:28,626] The number of ways
+- [00:44:29,136 - 00:44:31,986] Of distributing a state to each box
+- [00:44:33,465 - 00:44:34,386] Such that
+- [00:44:35,036 - 00:44:36,646] There are n one boxes
+- [00:44:36,646 - 00:44:38,326] In state number one
+- [00:44:39,076 - 00:44:41,226] N two boxes in state number two
+- [00:44:41,226 - 00:44:42,746] And so forth and so on
+- [00:44:43,766 - 00:44:45,266] I'll just call it number
+- [00:44:46,186 - 00:44:46,766] Number
+- [00:44:48,245 - 00:44:48,826] Alright
+- [00:44:48,826 - 00:44:50,046] It is equal
+- [00:44:51,206 - 00:44:53,246] To capital N factorial
+- [00:44:55,246 - 00:44:56,726] Divided by a product
+- [00:44:56,726 - 00:44:58,166] And the product
+- [00:44:58,946 - 00:44:59,666] Is
+- [00:45:00,626 - 00:45:02,266] N one factorial
+- [00:45:02,266 - 00:45:03,926] N two factorial
+- [00:45:03,926 - 00:45:05,546] N three factorial
+- [00:45:06,386 - 00:45:07,626] Dot dot dot
+- [00:45:09,686 - 00:45:12,766] What happens if some of the states
+- [00:45:12,766 - 00:45:15,226] Are unoccupied altogether
+- [00:45:15,226 - 00:45:16,046] For example
+- [00:45:16,046 - 00:45:17,206] This state over here
+- [00:45:17,946 - 00:45:20,026] Doesn't appear in any of these boxes
+- [00:45:20,906 - 00:45:23,366] Let's call this the forty second state over here
+- [00:45:24,206 - 00:45:25,986] What is N sub forty eight?
+- [00:45:27,566 - 00:45:28,106] Zero
+- [00:45:28,766 - 00:45:30,206] That looks a little odd
+- [00:45:30,206 - 00:45:32,046] Zero factorial downstairs
+- [00:45:32,046 - 00:45:33,406] But what's zero factorial?
+- [00:45:34,186 - 00:45:34,726] One
+- [00:45:34,726 - 00:45:37,446] That's the definition of a factorial function
+- [00:45:39,026 - 00:45:39,566] So
+- [00:45:40,166 - 00:45:42,906] All of the unoccupied states
+- [00:45:43,706 - 00:45:45,246] Just give a bunch of ones
+- [00:45:45,246 - 00:45:47,746] One times one times one times one is just one
+- [00:45:47,746 - 00:45:50,046] So you only get something interesting
+- [00:45:50,476 - 00:45:52,706] From the states which are actually filled
+- [00:45:52,706 - 00:45:55,546] And if there are three boxes
+- [00:45:55,546 - 00:45:57,006] In the first state
+- [00:45:57,006 - 00:45:58,186] Then there's a three factorial
+- [00:45:58,696 - 00:46:00,286] Four boxes in the second state
+- [00:46:00,286 - 00:46:01,306] Then there's a four factorial
+- [00:46:01,306 - 00:46:02,246] And so forth
+- [00:46:02,246 - 00:46:04,566] Alright this is the answer
+- [00:46:04,566 - 00:46:05,866] To the question
+- [00:46:05,866 - 00:46:07,746] Of how many ways there are
+- [00:46:07,746 - 00:46:09,966] Of making a configuration
+- [00:46:10,566 - 00:46:12,686] Where there's a given number of boxes
+- [00:46:12,686 - 00:46:13,666] In each state
+- [00:46:13,666 - 00:46:15,286] Let's see if we can
+- [00:46:15,286 - 00:46:16,986] Let's see if we can
+- [00:46:16,986 - 00:46:19,366] At least motivate the answer
+- [00:46:24,826 - 00:46:26,826] I wonder if we should just go in there
+- [00:46:26,826 - 00:46:27,486] And get some seats
+- [00:46:28,186 - 00:46:28,706] Yeah
+- [00:46:28,706 - 00:46:30,286] Yeah I think that's the thing to do
+- [00:46:30,286 - 00:46:34,806] If we come in a little early next time
+- [00:46:34,806 - 00:46:36,626] I'll finish up the derivation of this
+- [00:46:36,626 - 00:46:37,746] Ten minutes early
+- [00:46:39,286 - 00:46:41,586] But you can also look it up again
+- [00:46:41,586 - 00:46:42,286] Wikipedia
+- [00:46:42,286 - 00:46:44,406] For more
+- [00:46:44,406 - 00:46:45,726] Please visit us at
+- [00:46:45,726 - 00:46:46,886] stanford.edu
+- [00:46:46,986 - 00:46:48,106] Thank you
