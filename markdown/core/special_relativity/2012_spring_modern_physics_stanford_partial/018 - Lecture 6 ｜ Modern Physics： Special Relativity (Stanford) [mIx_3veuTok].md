@@ -1,0 +1,2669 @@
+# Transcript
+
+Source: core/special_relativity/2012_spring_modern_physics_stanford_partial/018 - Lecture 6 ｜ Modern Physics： Special Relativity (Stanford) [mIx_3veuTok].mp4
+
+- [00:00:06,719 - 00:00:09,800] This program is brought to you by Stanford University.
+- [00:00:10,200 - 00:00:12,720] Please visit us at stanford.edu.
+- [00:00:15,740 - 00:00:18,620] Let's talk about conservation of charge a little bit.
+- [00:00:22,200 - 00:00:24,810] The most naive version is that
+- [00:00:24,810 - 00:00:27,420] the amount of charge in the world,
+- [00:00:27,420 - 00:00:28,720] whatever the world means,
+- [00:00:28,720 - 00:00:30,740] doesn't change.
+- [00:00:30,740 - 00:00:32,479] It just stays the same.
+- [00:00:33,540 - 00:00:35,320] That's the most naive version of it.
+- [00:00:35,700 - 00:00:36,280] Now,
+- [00:00:36,280 - 00:00:38,420] if that were all there were to it,
+- [00:00:38,420 - 00:00:43,500] then it really wouldn't say very much.
+- [00:00:44,160 - 00:00:47,410] If a charge disappeared over
+- [00:00:47,410 - 00:00:50,660] here and reappeared on Alpha Centauri
+- [00:00:50,660 - 00:00:52,720] at exactly the same instant of time,
+- [00:00:52,720 - 00:00:53,380] exactly,
+- [00:00:54,120 - 00:00:54,940] of course,
+- [00:00:54,940 - 00:00:56,400] we have to worry about relativity
+- [00:00:56,400 - 00:00:56,900] and the fact that it's going
+- [00:00:56,900 - 00:00:57,400] to be a very long time.
+- [00:00:57,400 - 00:00:58,560] The same instant of time
+- [00:00:58,560 - 00:00:59,720] may be a little bit confusing,
+- [00:00:59,920 - 00:01:03,480] but let's get a little pre-relativistic.
+- [00:01:03,860 - 00:01:06,520] If a charge disappeared over here
+- [00:01:06,520 - 00:01:09,180] and reappeared on Alpha Centauri instantaneously,
+- [00:01:09,800 - 00:01:12,740] we would say charge is conserved by that definition.
+- [00:01:13,280 - 00:01:15,320] That total charge doesn't change.
+- [00:01:15,760 - 00:01:20,020] But we aren't on Alpha Centauri.
+- [00:01:20,080 - 00:01:21,440] It's too far away for
+- [00:01:21,440 - 00:01:22,800] us to know what's happening there.
+- [00:01:23,300 - 00:01:26,120] And so in that sense,
+- [00:01:26,120 - 00:01:27,340] if that's all there was,
+- [00:01:27,340 - 00:01:27,360] then we're going to be able
+- [00:01:27,360 - 00:01:27,380] to do a lot of things.
+- [00:01:27,380 - 00:01:27,720] But if that was the case,
+- [00:01:27,720 - 00:01:28,300] if we were to go to charge conservation,
+- [00:01:28,640 - 00:01:29,940] it wouldn't tell us anything.
+- [00:01:30,480 - 00:01:32,140] It wouldn't tell us anything at all.
+- [00:01:32,220 - 00:01:32,460] Okay,
+- [00:01:32,460 - 00:01:33,800] if we could get to Alpha
+- [00:01:33,800 - 00:01:35,140] Centauri and check the charges there,
+- [00:01:35,260 - 00:01:37,020] we could go to Beta Centauri,
+- [00:01:37,020 - 00:01:38,080] or Gamma Centauri,
+- [00:01:38,140 - 00:01:40,220] or the next galaxy over,
+- [00:01:40,220 - 00:01:40,940] or whatever,
+- [00:01:41,560 - 00:01:43,580] and we would have exactly the same problem,
+- [00:01:44,160 - 00:01:46,200] that within our laboratory,
+- [00:01:46,200 - 00:01:50,000] charge conservation wouldn't mean anything.
+- [00:01:50,740 - 00:01:52,480] We'd have no way of checking it.
+- [00:01:53,380 - 00:01:53,860] Now,
+- [00:01:53,860 - 00:01:55,780] what is the way that we check it?
+- [00:01:55,780 - 00:01:58,180] Can charge disappear from the laboratory?
+- [00:01:58,660 - 00:01:59,200] Yes,
+- [00:01:59,200 - 00:02:01,040] charge can disappear from the laboratory.
+- [00:02:01,740 - 00:02:04,000] It can reappear outside the laboratory.
+- [00:02:04,820 - 00:02:06,280] But in order to do so,
+- [00:02:06,280 - 00:02:09,800] it has to pass through the walls of the laboratory.
+- [00:02:10,380 - 00:02:13,850] And so some detector set up at the walls
+- [00:02:13,850 - 00:02:17,320] of the laboratory to monitor the flow of charge.
+- [00:02:17,820 - 00:02:21,860] What do detectors do?
+- [00:02:22,060 - 00:02:24,500] They would ring bells or detect.
+- [00:02:24,500 - 00:02:25,820] That's what detectors do.
+- [00:02:25,940 - 00:02:26,340] They detect.
+- [00:02:26,800 - 00:02:27,840] They would detect,
+- [00:02:27,840 - 00:02:28,360] ring bells,
+- [00:02:28,360 - 00:02:30,270] and we would know that charge
+- [00:02:30,270 - 00:02:32,180] passed from the inside to the outside.
+- [00:02:33,460 - 00:02:37,780] That idea that conservation means more than just the
+- [00:02:37,780 - 00:02:42,100] algebraic sum of the charges in the world doesn't change.
+- [00:02:42,340 - 00:02:44,970] But it means that there's a concept
+- [00:02:44,970 - 00:02:47,600] that when charge does disappear from a place,
+- [00:02:48,430 - 00:02:52,000] it identifiably moves through the walls of the system,
+- [00:02:52,000 - 00:02:54,380] through the boundaries of the system,
+- [00:02:54,500 - 00:02:57,500] that gets quantified in the
+- [00:02:57,500 - 00:03:00,500] idea of local charge conservation,
+- [00:03:02,359 - 00:03:04,069] or the idea of a
+- [00:03:04,069 - 00:03:05,780] current as well as a charge.
+- [00:03:06,100 - 00:03:08,080] A current is a flow of charge.
+- [00:03:08,840 - 00:03:11,080] So another way to say it
+- [00:03:11,080 - 00:03:13,320] is if charge disappears from this room,
+- [00:03:13,560 - 00:03:15,570] it's because a current flowed through
+- [00:03:15,570 - 00:03:17,580] somehow the boundaries of the room.
+- [00:03:18,220 - 00:03:19,920] That's the only way it can happen,
+- [00:03:19,920 - 00:03:22,200] and a current flowing through the boundaries of the
+- [00:03:22,200 - 00:03:24,480] room is detectable at the walls of the room.
+- [00:03:24,500 - 00:03:28,160] So let's see if we can quantify that,
+- [00:03:28,160 - 00:03:29,480] not just quantify it,
+- [00:03:29,480 - 00:03:30,920] formalize it,
+- [00:03:31,020 - 00:03:34,060] turn it into a mathematical statement of some sort,
+- [00:03:34,899 - 00:03:36,689] and then check with our little
+- [00:03:36,689 - 00:03:38,480] theory that we made up about charge,
+- [00:03:40,100 - 00:03:40,620] that,
+- [00:03:40,620 - 00:03:40,980] well,
+- [00:03:40,980 - 00:03:42,400] we'll go back to it,
+- [00:03:42,400 - 00:03:44,480] whether it satisfies that criterion.
+- [00:03:45,720 - 00:03:46,380] All right,
+- [00:03:46,380 - 00:03:46,980] first of all,
+- [00:03:46,980 - 00:03:48,320] there's the concept of charge.
+- [00:03:48,460 - 00:03:48,700] Yes?
+- [00:03:49,459 - 00:03:51,559] Is this particularly different than
+- [00:03:51,559 - 00:03:53,660] a similar statement about mass?
+- [00:03:54,739 - 00:03:55,260] No,
+- [00:03:55,260 - 00:03:58,520] it is not particularly different than statements about mass.
+- [00:03:59,000 - 00:03:59,520] Now,
+- [00:03:59,520 - 00:04:00,940] the difference is that,
+- [00:04:00,940 - 00:04:03,000] I'll tell you what the difference is.
+- [00:04:03,480 - 00:04:06,580] Mass by itself in a relativistic theory doesn't really,
+- [00:04:06,580 - 00:04:07,700] is not a conserved quantity.
+- [00:04:07,800 - 00:04:09,900] Energy is the corresponding conserved quantity.
+- [00:04:10,340 - 00:04:10,980] All right,
+- [00:04:10,980 - 00:04:11,680] energy,
+- [00:04:11,680 - 00:04:14,660] and it comes along with another conserved quantity,
+- [00:04:14,760 - 00:04:16,440] or three other conserved quantities,
+- [00:04:16,440 - 00:04:17,240] which are called momentum,
+- [00:04:17,240 - 00:04:19,360] and they form a complex.
+- [00:04:19,980 - 00:04:22,780] But each one of them is separately conserved,
+- [00:04:22,780 - 00:04:24,380] and each one of them has a flow.
+- [00:04:25,840 - 00:04:26,300] Now,
+- [00:04:26,300 - 00:04:26,900] in fact,
+- [00:04:26,900 - 00:04:30,360] the momentum is the flow of energy.
+- [00:04:32,500 - 00:04:33,900] But what's the flow of momentum?
+- [00:04:34,420 - 00:04:36,080] And that's something else called stress.
+- [00:04:36,600 - 00:04:37,060] Now,
+- [00:04:37,060 - 00:04:38,040] whether we'll get to the stress,
+- [00:04:38,040 - 00:04:40,120] it's called stress,
+- [00:04:40,220 - 00:04:42,090] not the kind of stress that you feel
+- [00:04:42,090 - 00:04:43,960] when you know you've lied to your wife,
+- [00:04:44,080 - 00:04:45,340] but then she's going to catch you,
+- [00:04:45,380 - 00:04:48,610] but the kind of stress that a material
+- [00:04:48,610 - 00:04:51,840] object experiences when a force is imposed on it.
+- [00:04:53,140 - 00:04:54,480] Did I say something about momentum?
+- [00:04:54,500 - 00:04:57,180] Of you having lied and...
+- [00:04:57,180 - 00:04:57,600] No,
+- [00:04:57,600 - 00:04:57,860] no,
+- [00:04:57,860 - 00:04:58,680] I didn't mean that.
+- [00:05:03,480 - 00:05:04,000] What?
+- [00:05:05,900 - 00:05:06,840] This is 2000,
+- [00:05:06,840 - 00:05:07,760] you can't see that.
+- [00:05:08,020 - 00:05:08,780] This is two...
+- [00:05:10,480 - 00:05:10,960] 2008,
+- [00:05:10,960 - 00:05:11,840] you can't do that?
+- [00:05:12,120 - 00:05:13,720] The 1960s.
+- [00:05:14,140 - 00:05:16,460] I stopped doing it in the 1960s,
+- [00:05:16,460 - 00:05:16,820] that's right.
+- [00:05:18,040 - 00:05:21,440] I stopped doing almost everything interesting in the...
+- [00:05:22,480 - 00:05:23,000] Yeah,
+- [00:05:23,000 - 00:05:23,760] so where were we?
+- [00:05:23,760 - 00:05:25,680] We were talking about charge flow,
+- [00:05:25,960 - 00:05:28,500] and the first concept is charge density.
+- [00:05:28,960 - 00:05:29,480] Now,
+- [00:05:29,480 - 00:05:31,300] density is not the motion of charge,
+- [00:05:31,520 - 00:05:33,540] it's just a local version of the
+- [00:05:33,540 - 00:05:35,560] idea of how much charge is there.
+- [00:05:35,880 - 00:05:39,200] Local means it's identified with a small region of space.
+- [00:05:39,860 - 00:05:42,880] There's the idea of charge density.
+- [00:05:43,360 - 00:05:46,340] Charge density is just locally,
+- [00:05:46,340 - 00:05:48,540] at some particular location,
+- [00:05:48,780 - 00:05:52,740] the charge per unit volume that's present.
+- [00:05:53,760 - 00:05:53,940] Now,
+- [00:05:53,940 - 00:05:55,160] to define it precisely,
+- [00:05:55,920 - 00:05:57,900] we do a little bit of calculus
+- [00:05:57,900 - 00:05:59,880] and a little bit of limiting notions.
+- [00:06:00,400 - 00:06:04,120] We take a little box around the surrounding point.
+- [00:06:04,780 - 00:06:07,260] We take the total charge in that box.
+- [00:06:07,520 - 00:06:09,760] Let's say the box is of size epsilon.
+- [00:06:10,540 - 00:06:11,660] It has a volume,
+- [00:06:11,660 - 00:06:12,520] epsilon cubed.
+- [00:06:12,980 - 00:06:15,100] We take the charge inside that box.
+- [00:06:15,900 - 00:06:16,980] Let's call it...
+- [00:06:16,980 - 00:06:18,540] What's a good name for charge?
+- [00:06:18,660 - 00:06:18,780] Q.
+- [00:06:18,960 - 00:06:22,200] Q is the standard terminology for electric charge.
+- [00:06:22,900 - 00:06:23,420] Q.
+- [00:06:23,760 - 00:06:24,920] Q inside the box.
+- [00:06:25,160 - 00:06:26,660] This is not Q of the world.
+- [00:06:26,780 - 00:06:28,120] This is Q of the box.
+- [00:06:28,560 - 00:06:30,860] We divide it by the volume of the box.
+- [00:06:32,580 - 00:06:35,880] And then we take the limit in which both...
+- [00:06:35,880 - 00:06:37,600] in which epsilon goes to zero,
+- [00:06:37,720 - 00:06:39,520] and of course also Q goes to zero.
+- [00:06:39,760 - 00:06:41,720] We take the limit of Q over epsilon
+- [00:06:41,720 - 00:06:43,380] as the box gets smaller and smaller,
+- [00:06:43,880 - 00:06:45,540] and that's called rho.
+- [00:06:47,360 - 00:06:48,520] Rho for density.
+- [00:06:48,720 - 00:06:50,450] I don't know why it's called rho
+- [00:06:50,450 - 00:06:52,180] and not D or delta or something else,
+- [00:06:52,180 - 00:06:54,000] but it's rho for density,
+- [00:06:54,000 - 00:06:55,180] and it depends on position.
+- [00:06:55,740 - 00:06:56,420] Of course,
+- [00:06:56,420 - 00:06:57,760] it also depends on time.
+- [00:06:58,040 - 00:07:00,340] The density of charge can change with time.
+- [00:07:00,780 - 00:07:02,140] So whatever rho is,
+- [00:07:02,140 - 00:07:04,800] it depends on position and time.
+- [00:07:06,380 - 00:07:06,860] Okay.
+- [00:07:07,060 - 00:07:08,300] What do we do with rho?
+- [00:07:08,600 - 00:07:09,040] Well,
+- [00:07:09,040 - 00:07:09,720] if we know rho,
+- [00:07:09,720 - 00:07:11,440] we can say how much charge
+- [00:07:11,440 - 00:07:13,160] is in any region of space.
+- [00:07:13,940 - 00:07:15,320] In any region of space,
+- [00:07:15,320 - 00:07:17,460] let's take an arbitrary region of space now,
+- [00:07:17,600 - 00:07:18,360] with any shape,
+- [00:07:18,360 - 00:07:18,580] whatever,
+- [00:07:19,159 - 00:07:20,980] then the amount of charge in there,
+- [00:07:21,460 - 00:07:22,680] let's also call it Q,
+- [00:07:22,840 - 00:07:23,850] but it doesn't stand for
+- [00:07:23,850 - 00:07:24,860] the charge in a box now,
+- [00:07:24,940 - 00:07:26,760] it stands for the charge in a general region,
+- [00:07:27,420 - 00:07:31,100] is then equal to the integral over that region,
+- [00:07:32,200 - 00:07:33,600] let's call it D3x,
+- [00:07:33,600 - 00:07:34,600] meaning Dx,
+- [00:07:34,600 - 00:07:34,840] Dy,
+- [00:07:34,840 - 00:07:35,280] Dz,
+- [00:07:35,900 - 00:07:36,940] over that region,
+- [00:07:36,940 - 00:07:38,820] over the interior of that region of rho.
+- [00:07:41,960 - 00:07:42,940] And strictly speaking,
+- [00:07:42,940 - 00:07:44,180] we could take this to
+- [00:07:44,180 - 00:07:45,420] be the definition of charge density.
+- [00:07:45,960 - 00:07:47,590] It's the thing that you sum up
+- [00:07:47,590 - 00:07:49,220] or integrate over a region of space
+- [00:07:49,220 - 00:07:50,840] to find out how much charge is in there.
+- [00:07:51,820 - 00:07:53,660] The total charge in the universe,
+- [00:07:53,940 - 00:07:57,140] you integrate over everything in the world,
+- [00:07:57,920 - 00:07:59,360] all of volume,
+- [00:07:59,360 - 00:08:01,060] and that gives you the total charge in the universe,
+- [00:08:01,200 - 00:08:03,180] but usually that's a fairly useless concept,
+- [00:08:03,380 - 00:08:05,180] the total charge in the universe.
+- [00:08:05,680 - 00:08:09,420] Better integrate over the region of the laboratory,
+- [00:08:10,000 - 00:08:11,240] and that will tell you how
+- [00:08:11,240 - 00:08:12,480] much charge is in your laboratory.
+- [00:08:15,260 - 00:08:15,820] Now,
+- [00:08:15,820 - 00:08:16,920] next concept,
+- [00:08:16,920 - 00:08:18,740] the flow of charge.
+- [00:08:18,740 - 00:08:21,300] The flow of charge is defined
+- [00:08:21,300 - 00:08:23,860] by a thing called the current.
+- [00:08:24,640 - 00:08:26,250] You're used to thinking
+- [00:08:26,250 - 00:08:27,860] about currents flowing through wires.
+- [00:08:28,700 - 00:08:30,230] We don't have to be
+- [00:08:30,230 - 00:08:31,760] thinking about currents flowing through wires,
+- [00:08:31,900 - 00:08:34,159] we're thinking about charges flowing through space,
+- [00:08:34,340 - 00:08:36,539] clouds of charge flowing through space.
+- [00:08:37,500 - 00:08:40,280] And to quantify the idea of a current,
+- [00:08:42,880 - 00:08:44,500] we take a little area,
+- [00:08:45,860 - 00:08:47,980] now this is an area in space,
+- [00:08:47,980 - 00:08:48,980] a little square,
+- [00:08:50,520 - 00:08:52,340] and we stand there and watch that square,
+- [00:08:52,620 - 00:08:55,580] and watch the charge passing through that little square.
+- [00:08:55,680 - 00:08:56,180] It's a little window,
+- [00:08:56,180 - 00:08:57,180] think of it as a window,
+- [00:08:58,300 - 00:08:59,240] small window,
+- [00:08:59,819 - 00:09:01,339] and charges go from one side
+- [00:09:01,339 - 00:09:02,860] of the window through the window
+- [00:09:02,860 - 00:09:04,600] out to the other side of the window.
+- [00:09:05,560 - 00:09:08,320] And we can ask how much charge
+- [00:09:08,320 - 00:09:11,080] goes through the window per unit time.
+- [00:09:11,980 - 00:09:13,640] We can wait one second and see
+- [00:09:13,640 - 00:09:15,300] how much charge goes through the window,
+- [00:09:15,800 - 00:09:16,280] count,
+- [00:09:16,280 - 00:09:17,300] take that charge,
+- [00:09:17,300 - 00:09:18,860] and divide it by the one second.
+- [00:09:19,400 - 00:09:21,300] But we can also do calculus,
+- [00:09:21,380 - 00:09:22,820] and we can go to the
+- [00:09:22,820 - 00:09:24,260] limit of a very small time interval.
+- [00:09:24,820 - 00:09:26,820] I think that's the last time I will say that,
+- [00:09:26,820 - 00:09:27,660] that we'll take limits.
+- [00:09:27,920 - 00:09:28,640] Just imagine,
+- [00:09:28,640 - 00:09:31,160] you know how to take limits.
+- [00:09:33,120 - 00:09:35,760] We study the amount of charge that
+- [00:09:35,760 - 00:09:38,400] goes through the window per unit time.
+- [00:09:39,760 - 00:09:41,200] Now that's not yet the current.
+- [00:09:41,640 - 00:09:44,160] The amount of charge that will go through that window
+- [00:09:45,300 - 00:09:48,180] will not only be proportional to the time element,
+- [00:09:48,320 - 00:09:50,520] the little time that you allow,
+- [00:09:50,840 - 00:09:52,820] but it will also be proportional to something else.
+- [00:09:53,060 - 00:09:53,460] What is it?
+- [00:09:53,740 - 00:09:55,700] The area of the window.
+- [00:09:56,020 - 00:09:57,860] The bigger the area of the window,
+- [00:09:57,860 - 00:09:59,100] the more charge will go through.
+- [00:09:59,540 - 00:10:00,780] So if we take the
+- [00:10:00,780 - 00:10:02,020] charge that goes through the window,
+- [00:10:02,140 - 00:10:02,360] again,
+- [00:10:02,360 - 00:10:03,100] let's call it q,
+- [00:10:04,240 - 00:10:06,740] and divide it by the area of the window,
+- [00:10:06,840 - 00:10:07,540] let's call it a,
+- [00:10:08,260 - 00:10:10,080] and the little time interval,
+- [00:10:11,199 - 00:10:12,340] what should we call it,
+- [00:10:12,340 - 00:10:12,820] delta t?
+- [00:10:13,420 - 00:10:14,860] The little time interval,
+- [00:10:15,080 - 00:10:18,460] and then take the limit as the window gets small,
+- [00:10:18,760 - 00:10:20,780] and as the time interval gets small,
+- [00:10:22,700 - 00:10:25,380] then we call that object
+- [00:10:25,380 - 00:10:28,060] the local current at that point,
+- [00:10:28,240 - 00:10:30,160] the point at the center of the window there.
+- [00:10:30,800 - 00:10:35,680] But it's a particular component of the current.
+- [00:10:36,000 - 00:10:38,320] The current is not a scalar,
+- [00:10:39,100 - 00:10:40,220] under rotations,
+- [00:10:40,220 - 00:10:42,080] with respect to rotations of space,
+- [00:10:42,220 - 00:10:42,800] not with respect to,
+- [00:10:42,820 - 00:10:43,400] not with respect to spacetime,
+- [00:10:43,580 - 00:10:45,040] but with respect to rotations of space,
+- [00:10:45,580 - 00:10:46,780] the charge is a scalar.
+- [00:10:46,960 - 00:10:48,880] The amount of charge in a little region
+- [00:10:49,460 - 00:10:52,300] doesn't matter which orientation you draw.
+- [00:10:52,620 - 00:10:57,740] But the flow of charge is more like wind velocity.
+- [00:10:58,100 - 00:11:00,460] It has a direction associated with it.
+- [00:11:01,320 - 00:11:02,500] So for example,
+- [00:11:02,740 - 00:11:04,800] if the charge happened to
+- [00:11:04,800 - 00:11:06,860] be flowing along the x-axis here,
+- [00:11:07,060 - 00:11:09,100] and we took our window
+- [00:11:09,100 - 00:11:11,140] to be in the y-z plane,
+- [00:11:11,140 - 00:11:15,080] to be in the window along the blackboard here,
+- [00:11:15,240 - 00:11:16,980] no charge would go through that window.
+- [00:11:17,460 - 00:11:19,580] It's like a wind blowing,
+- [00:11:21,140 - 00:11:21,960] here's a window,
+- [00:11:24,440 - 00:11:26,440] and the wind is blowing in this direction,
+- [00:11:26,660 - 00:11:28,460] no wind goes through the window,
+- [00:11:28,660 - 00:11:30,550] but if you turn the window
+- [00:11:30,550 - 00:11:32,440] so that it's facing into the wind,
+- [00:11:32,900 - 00:11:34,100] then the wind goes through the window.
+- [00:11:36,660 - 00:11:37,680] Charge current,
+- [00:11:37,680 - 00:11:39,280] current is a vector,
+- [00:11:39,460 - 00:11:41,040] a three-dimensional vector.
+- [00:11:41,040 - 00:11:43,160] A vector in the sense of three-dimensional space.
+- [00:11:43,800 - 00:11:47,580] And if we orient our window
+- [00:11:49,940 - 00:11:53,680] so that the perpendicular to it,
+- [00:11:53,800 - 00:11:55,640] let's draw the perpendicular to it,
+- [00:11:55,680 - 00:11:57,020] draw a perpendicular,
+- [00:11:57,780 - 00:12:00,920] let's say the perpendicular then is along the x-axis,
+- [00:12:02,640 - 00:12:05,460] then the amount of charge going through,
+- [00:12:05,520 - 00:12:06,820] we'll call this an x-window,
+- [00:12:06,820 - 00:12:08,360] an x-oriented window,
+- [00:12:09,420 - 00:12:11,200] an x-oriented window,
+- [00:12:11,980 - 00:12:15,000] and remember the x-axis is perpendicular to the window,
+- [00:12:15,160 - 00:12:17,300] an x-oriented window,
+- [00:12:17,900 - 00:12:21,080] and we take the charge through the x-oriented window,
+- [00:12:21,220 - 00:12:21,960] per unit area,
+- [00:12:21,960 - 00:12:22,880] per unit time,
+- [00:12:23,100 - 00:12:28,980] that becomes the x-component of the charge current.
+- [00:12:29,740 - 00:12:31,260] So that's called J,
+- [00:12:31,640 - 00:12:32,320] that's called J,
+- [00:12:32,560 - 00:12:33,020] again,
+- [00:12:33,020 - 00:12:34,300] J for current,
+- [00:12:34,400 - 00:12:36,000] I don't know why J is used.
+- [00:12:36,160 - 00:12:37,880] Is that usually called current density?
+- [00:12:37,880 - 00:12:40,000] Sometimes called current density.
+- [00:12:41,240 - 00:12:41,760] Yeah,
+- [00:12:41,760 - 00:12:42,280] yeah,
+- [00:12:42,280 - 00:12:43,040] yeah,
+- [00:12:43,040 - 00:12:43,680] sometimes called,
+- [00:12:43,680 - 00:12:44,000] yeah,
+- [00:12:44,000 - 00:12:44,460] yeah,
+- [00:12:44,460 - 00:12:45,200] yeah,
+- [00:12:45,200 - 00:12:46,600] right.
+- [00:12:47,240 - 00:12:47,760] Okay,
+- [00:12:47,760 - 00:12:49,780] so in elementary physics,
+- [00:12:50,000 - 00:12:51,760] the current is the current through the wire.
+- [00:12:52,540 - 00:12:53,980] In advanced physics,
+- [00:12:53,980 - 00:12:55,540] it becomes the current density,
+- [00:12:55,600 - 00:12:57,000] and in super advanced physics,
+- [00:12:57,140 - 00:12:58,430] we forget the word density and
+- [00:12:58,430 - 00:12:59,720] we just call it the current again.
+- [00:13:02,860 - 00:13:03,380] Right,
+- [00:13:03,380 - 00:13:03,820] yeah,
+- [00:13:03,820 - 00:13:04,960] right.
+- [00:13:04,960 - 00:13:05,000] Right.
+- [00:13:07,660 - 00:13:08,080] Right.
+- [00:13:09,680 - 00:13:10,100] So,
+- [00:13:10,100 - 00:13:10,960] in fact,
+- [00:13:10,960 - 00:13:13,040] we will even come to a terminology
+- [00:13:13,040 - 00:13:15,060] where we will call the
+- [00:13:15,060 - 00:13:17,080] complex of J together with rho,
+- [00:13:17,300 - 00:13:19,260] we'll just call that the current eventually,
+- [00:13:19,500 - 00:13:20,980] but for the moment,
+- [00:13:20,980 - 00:13:21,100] yeah,
+- [00:13:21,100 - 00:13:21,480] this is,
+- [00:13:21,540 - 00:13:23,800] we would just call this the x-component of current,
+- [00:13:23,980 - 00:13:25,400] and once you hear component,
+- [00:13:25,740 - 00:13:26,980] once you hear that it's a component,
+- [00:13:27,200 - 00:13:28,540] you know it's a vector,
+- [00:13:29,840 - 00:13:32,120] and that's a clue that it's the current density,
+- [00:13:32,360 - 00:13:33,260] that's the current density,
+- [00:13:33,260 - 00:13:33,720] Jx.
+- [00:13:33,720 - 00:13:34,700] Incidentally,
+- [00:13:34,700 - 00:13:37,600] the symbol for the current through a wire is I,
+- [00:13:37,600 - 00:13:38,240] not J.
+- [00:13:39,080 - 00:13:39,640] Okay,
+- [00:13:39,640 - 00:13:41,880] so J is the current density,
+- [00:13:42,720 - 00:13:43,840] and again,
+- [00:13:43,840 - 00:13:45,440] it's a thing that you integrate,
+- [00:13:45,660 - 00:13:47,180] you integrate it over time
+- [00:13:47,580 - 00:13:49,900] and over the little area of the window
+- [00:13:49,900 - 00:13:51,820] to find out how much total
+- [00:13:51,820 - 00:13:53,740] charge flows through at a given time.
+- [00:13:56,560 - 00:13:58,080] I call it small j.
+- [00:14:00,540 - 00:14:01,580] It depends,
+- [00:14:01,580 - 00:14:03,500] it depends.
+- [00:14:03,700 - 00:14:05,840] Sometimes in some books it's capital I,
+- [00:14:05,920 - 00:14:07,040] in some books it's small i,
+- [00:14:07,220 - 00:14:08,120] I've seen both.
+- [00:14:11,460 - 00:14:11,740] Okay,
+- [00:14:11,740 - 00:14:12,560] so that's Jx,
+- [00:14:12,560 - 00:14:14,420] and of course there's Jy and Jz.
+- [00:14:14,700 - 00:14:16,300] What is Jy and Jz?
+- [00:14:16,500 - 00:14:20,400] You take your window oriented along the y-axis,
+- [00:14:20,540 - 00:14:21,160] and you ask,
+- [00:14:21,160 - 00:14:22,560] notice incidentally,
+- [00:14:22,560 - 00:14:27,580] that there's a sense of orientation to this window.
+- [00:14:28,060 - 00:14:30,760] We're talking about the charge that flows
+- [00:14:31,520 - 00:14:33,460] from the left to the right.
+- [00:14:34,119 - 00:14:35,260] In other words,
+- [00:14:35,260 - 00:14:38,120] the charge that flows along the positive x-axis,
+- [00:14:38,320 - 00:14:41,120] from the negative to the positive x-axis.
+- [00:14:41,420 - 00:14:44,420] In the same way we can define Jy and Jz,
+- [00:14:46,420 - 00:14:50,840] Jy would correspond to a window oriented along the y-axis,
+- [00:14:51,080 - 00:14:52,660] and we would be talking about
+- [00:14:52,660 - 00:14:54,240] the amount of charge per unit time
+- [00:14:54,240 - 00:14:56,500] that flows from the negative
+- [00:14:56,500 - 00:14:58,760] y to the positive y regions,
+- [00:14:59,020 - 00:15:01,280] and likewise Jz.
+- [00:15:05,640 - 00:15:06,380] All right,
+- [00:15:06,380 - 00:15:11,980] now what I maintain is that any time current disappears
+- [00:15:11,980 - 00:15:12,920] out of the room,
+- [00:15:12,920 - 00:15:15,760] there will be on the boundary of the room,
+- [00:15:16,340 - 00:15:17,300] what did I say,
+- [00:15:17,300 - 00:15:18,360] when current disappears,
+- [00:15:18,360 - 00:15:19,340] charge disappears.
+- [00:15:19,680 - 00:15:21,680] If charge disappears out of the room,
+- [00:15:21,900 - 00:15:23,600] there will be a current on the boundary.
+- [00:15:24,480 - 00:15:29,000] And the current on the boundary will exactly compensate,
+- [00:15:29,360 - 00:15:32,700] the amount of charge that flows through the boundaries
+- [00:15:32,700 - 00:15:32,920] of the room,
+- [00:15:32,920 - 00:15:34,390] will exactly compensate for the
+- [00:15:34,390 - 00:15:35,860] amount that the charge changes
+- [00:15:35,860 - 00:15:36,900] within the room.
+- [00:15:37,300 - 00:15:38,790] Let's see if we can quantify that
+- [00:15:38,790 - 00:15:40,280] and make an equation out of it.
+- [00:15:41,300 - 00:15:42,600] Let's take a little box.
+- [00:15:48,380 - 00:15:49,980] It has six faces.
+- [00:15:50,340 - 00:15:51,320] It's a little cube.
+- [00:15:51,880 - 00:15:53,280] It has six faces,
+- [00:15:53,280 - 00:15:56,280] and let's take this to be the x-axis over here.
+- [00:15:57,440 - 00:15:59,580] Now let's take a small amount of time,
+- [00:15:59,840 - 00:16:00,580] delta t,
+- [00:16:02,700 - 00:16:03,080] and how much charge,
+- [00:16:03,340 - 00:16:06,720] I think we should probably give this a size,
+- [00:16:07,000 - 00:16:07,380] epsilon,
+- [00:16:07,380 - 00:16:07,880] epsilon,
+- [00:16:07,880 - 00:16:09,280] epsilon in every direction,
+- [00:16:10,439 - 00:16:13,479] how much charge flows into the
+- [00:16:13,479 - 00:16:16,520] box through face number one over here.
+- [00:16:16,600 - 00:16:17,700] Here's face number one.
+- [00:16:17,980 - 00:16:20,560] How much charge flows into the box
+- [00:16:22,720 - 00:16:25,760] in a small interval of time delta t?
+- [00:16:25,880 - 00:16:28,880] Flows into the box through face number one.
+- [00:16:29,700 - 00:16:30,380] Okay.
+- [00:16:30,380 - 00:16:32,700] And the answer is going to be
+- [00:16:33,760 - 00:16:34,360] jx
+- [00:16:34,360 - 00:16:37,200] at this point,
+- [00:16:37,320 - 00:16:39,460] let's call this point number one over here.
+- [00:16:41,080 - 00:16:42,900] It's also face number one.
+- [00:16:44,900 - 00:16:47,580] jx at the center of face number one
+- [00:16:48,380 - 00:16:49,420] times the area,
+- [00:16:50,260 - 00:16:51,340] epsilon squared,
+- [00:16:52,140 - 00:16:53,900] times the amount of time delta t.
+- [00:16:56,080 - 00:16:56,800] All right,
+- [00:16:56,800 - 00:16:59,960] that's how much charge flows into the box
+- [00:17:00,380 - 00:17:01,640] per unit time,
+- [00:17:01,640 - 00:17:05,020] per unit area from the left.
+- [00:17:05,240 - 00:17:05,880] Now,
+- [00:17:05,880 - 00:17:07,140] let's,
+- [00:17:07,140 - 00:17:09,819] through the x face.
+- [00:17:10,300 - 00:17:12,540] Now there's another x face over here.
+- [00:17:14,200 - 00:17:16,619] Charge may be flowing out through there.
+- [00:17:16,780 - 00:17:19,160] So how much charge flows out through here?
+- [00:17:19,819 - 00:17:21,540] It's the same if it's smaller.
+- [00:17:22,660 - 00:17:24,500] It's exactly the same expression.
+- [00:17:24,680 - 00:17:26,220] Let's call this face number two.
+- [00:17:27,339 - 00:17:30,360] And let's call the center point also point two.
+- [00:17:30,360 - 00:17:32,360] What will it be?
+- [00:17:33,140 - 00:17:34,780] Notice that if j is positive,
+- [00:17:34,920 - 00:17:36,000] if j is positive,
+- [00:17:36,120 - 00:17:38,500] that means charge is flowing into the box.
+- [00:17:38,700 - 00:17:39,780] It's flowing this way.
+- [00:17:40,080 - 00:17:41,980] If j is positive over here,
+- [00:17:42,160 - 00:17:44,240] it means charge is flowing out of the box.
+- [00:17:45,120 - 00:17:46,560] So we should subtract
+- [00:17:48,460 - 00:17:50,200] jx at point two.
+- [00:17:50,300 - 00:17:51,600] I hear the right answer.
+- [00:17:52,380 - 00:17:54,200] Times the same factor.
+- [00:17:55,500 - 00:17:56,500] Same area,
+- [00:17:56,500 - 00:17:57,720] same time interval.
+- [00:17:58,360 - 00:18:00,220] So the answer is,
+- [00:18:00,220 - 00:18:01,100] let's write the answer,
+- [00:18:01,200 - 00:18:05,500] jx at one minus jx at two.
+- [00:18:07,860 - 00:18:10,980] That's the change in charge inside the box.
+- [00:18:12,840 - 00:18:13,860] But wait a minute,
+- [00:18:13,860 - 00:18:14,720] that's not all of it.
+- [00:18:14,960 - 00:18:17,000] That's only the stuff that flew in
+- [00:18:17,000 - 00:18:18,840] through the x windows.
+- [00:18:19,460 - 00:18:21,060] What about the y windows?
+- [00:18:23,040 - 00:18:23,600] Well,
+- [00:18:23,600 - 00:18:24,700] same kind of thing.
+- [00:18:25,980 - 00:18:28,320] Y window down here can admit charge
+- [00:18:28,320 - 00:18:29,720] if the current is positive.
+- [00:18:30,220 - 00:18:32,840] If the y component of the current is positive,
+- [00:18:33,060 - 00:18:35,100] charge will flow into the box from the bottom,
+- [00:18:35,200 - 00:18:36,400] and it will flow out
+- [00:18:36,400 - 00:18:37,600] of the box from the top.
+- [00:18:37,760 - 00:18:39,280] And so there's another term.
+- [00:18:40,740 - 00:18:41,560] Let's call,
+- [00:18:42,600 - 00:18:43,220] let's see,
+- [00:18:43,440 - 00:18:46,100] let's call the bottom face here three,
+- [00:18:47,840 - 00:18:50,160] and the top face four,
+- [00:18:51,600 - 00:18:52,120] IV,
+- [00:18:52,120 - 00:18:52,640] four.
+- [00:18:52,840 - 00:18:54,670] And also the centers we'll
+- [00:18:54,670 - 00:18:56,500] call point three and point four.
+- [00:18:57,280 - 00:18:57,800] Okay.
+- [00:18:57,800 - 00:18:59,700] The area of the bottom
+- [00:18:59,700 - 00:19:01,600] and top faces are the same.
+- [00:19:01,900 - 00:19:04,000] The unit of time is the same.
+- [00:19:04,320 - 00:19:05,560] And so what are we going to get?
+- [00:19:05,620 - 00:19:10,620] We're going to get jy of three
+- [00:19:12,100 - 00:19:15,000] minus jy of four.
+- [00:19:17,000 - 00:19:19,120] That's the charge flowing in from three
+- [00:19:19,120 - 00:19:20,440] and out from four.
+- [00:19:21,420 - 00:19:22,840] And then there's a last one.
+- [00:19:23,220 - 00:19:25,020] The one flowing in,
+- [00:19:25,140 - 00:19:25,500] well,
+- [00:19:25,500 - 00:19:27,300] I'm not sure which way the z-axis goes.
+- [00:19:27,300 - 00:19:29,300] The z-axis comes out of the blackboard?
+- [00:19:30,220 - 00:19:30,720] Yeah,
+- [00:19:30,720 - 00:19:31,600] I think so.
+- [00:19:31,880 - 00:19:32,500] All right,
+- [00:19:32,500 - 00:19:33,660] so we add this.
+- [00:19:34,200 - 00:19:37,100] This is the stuff that flows in the x direction.
+- [00:19:37,240 - 00:19:38,780] This is the stuff that flows in the y direction.
+- [00:19:39,400 - 00:19:40,340] And finally,
+- [00:19:40,340 - 00:19:42,480] the last term is,
+- [00:19:42,780 - 00:19:43,620] let's put it over here,
+- [00:19:43,620 - 00:19:44,180] plus,
+- [00:19:48,020 - 00:19:48,520] oh,
+- [00:19:48,520 - 00:19:49,020] yeah.
+- [00:19:51,020 - 00:19:53,740] Delta t times epsilon multiplies everything.
+- [00:19:55,520 - 00:19:57,140] The last term you can guess,
+- [00:19:57,300 - 00:20:00,440] it's going to be jz.
+- [00:20:01,880 - 00:20:02,400] Now,
+- [00:20:02,400 - 00:20:03,760] we have to name the,
+- [00:20:03,900 - 00:20:04,700] well,
+- [00:20:04,700 - 00:20:05,640] it's jz.
+- [00:20:05,700 - 00:20:07,340] It's again the difference of jc,
+- [00:20:07,380 - 00:20:12,300] let's call it at five minus jz at six.
+- [00:20:20,420 - 00:20:21,300] What is that?
+- [00:20:21,380 - 00:20:22,980] That's the change in charge,
+- [00:20:23,040 - 00:20:25,820] that's the amount of charge that flowed into the box.
+- [00:20:26,919 - 00:20:27,360] Now,
+- [00:20:27,360 - 00:20:28,660] imagine the box is small.
+- [00:20:28,840 - 00:20:30,120] We're going to imagine the box is small.
+- [00:20:30,280 - 00:20:31,800] Epsilon is going to be small in a minute.
+- [00:20:33,080 - 00:20:34,360] What is that equal to?
+- [00:20:34,580 - 00:20:35,020] Well,
+- [00:20:35,020 - 00:20:35,660] as I said,
+- [00:20:35,660 - 00:20:38,900] that's equal to the increase in charge.
+- [00:20:39,820 - 00:20:41,660] That's equal to the increase in charge.
+- [00:20:44,180 - 00:20:45,160] So that must,
+- [00:20:45,160 - 00:20:46,020] in fact,
+- [00:20:46,020 - 00:20:47,580] if we divide it by delta t,
+- [00:20:49,220 - 00:20:51,170] it's the time rate of
+- [00:20:51,170 - 00:20:53,120] change of charge in the box.
+- [00:20:53,900 - 00:20:55,800] The time rate of change in the box.
+- [00:20:55,800 - 00:20:57,300] Of charge in the box.
+- [00:20:57,720 - 00:20:59,260] So that's d by dt
+- [00:21:03,560 - 00:21:06,120] of the charge in the box,
+- [00:21:06,120 - 00:21:06,680] q,
+- [00:21:08,600 - 00:21:11,770] equal to time rate of change
+- [00:21:11,770 - 00:21:14,940] of the charge inside the box.
+- [00:21:15,060 - 00:21:16,520] The stuff that flew in
+- [00:21:16,520 - 00:21:17,980] minus the stuff that flew out
+- [00:21:18,560 - 00:21:20,200] gives us the rate of change
+- [00:21:20,200 - 00:21:21,840] of the charge in the box.
+- [00:21:23,080 - 00:21:23,640] Okay,
+- [00:21:23,640 - 00:21:24,120] now,
+- [00:21:24,120 - 00:21:28,100] this j of 1 minus j of 2,
+- [00:21:29,000 - 00:21:31,080] the distance between 1 and 2
+- [00:21:31,080 - 00:21:33,160] is going to be shrunk to 0.
+- [00:21:33,340 - 00:21:34,730] We're going to take this little
+- [00:21:34,730 - 00:21:36,120] box and make it smaller and smaller.
+- [00:21:37,780 - 00:21:40,500] The difference between j at point
+- [00:21:40,500 - 00:21:43,220] 1 and j at point 2
+- [00:21:43,220 - 00:21:45,940] is just going to turn into some kind of derivative.
+- [00:21:47,200 - 00:21:50,440] Just a derivative of j between two neighboring points.
+- [00:21:50,520 - 00:21:54,000] The difference between a quantity at two neighboring points
+- [00:21:54,120 - 00:21:54,180] is going to be a
+- [00:21:54,180 - 00:21:54,240] derivative of j at point 2.
+- [00:21:54,240 - 00:21:55,760] what is it?
+- [00:21:56,220 - 00:21:58,080] Let's write an equation over here.
+- [00:21:58,260 - 00:22:03,320] j of 1 minus jx of 2.
+- [00:22:04,660 - 00:22:09,680] That's equal to the derivative of jx
+- [00:22:09,680 - 00:22:12,140] with respect to x.
+- [00:22:13,580 - 00:22:14,660] Not quite,
+- [00:22:14,660 - 00:22:15,900] there's a minus sign here.
+- [00:22:16,660 - 00:22:18,340] It's j of 1.
+- [00:22:18,340 - 00:22:20,420] 1 is slightly to the left of 2.
+- [00:22:21,080 - 00:22:22,940] j of 1 minus j of 2
+- [00:22:22,940 - 00:22:25,800] would be the derivative of j with respect to x,
+- [00:22:25,900 - 00:22:27,820] but of course we'd want to divide that by epsilon
+- [00:22:27,820 - 00:22:29,580] to make a real derivative out of it.
+- [00:22:30,200 - 00:22:30,680] Okay?
+- [00:22:30,800 - 00:22:32,020] We're going to get epsilon cubed.
+- [00:22:33,140 - 00:22:33,620] Yeah,
+- [00:22:33,620 - 00:22:34,660] we're going to get epsilon cubed.
+- [00:22:34,760 - 00:22:35,020] That's right.
+- [00:22:35,320 - 00:22:35,800] So,
+- [00:22:35,800 - 00:22:37,420] right,
+- [00:22:37,420 - 00:22:37,880] that's right.
+- [00:22:38,000 - 00:22:38,300] So,
+- [00:22:38,300 - 00:22:42,800] this really can be reinterpreted as,
+- [00:22:43,100 - 00:22:44,860] let's just reinterpret it over here,
+- [00:22:45,860 - 00:22:46,740] epsilon squared.
+- [00:22:51,179 - 00:22:51,620] Now,
+- [00:22:51,620 - 00:22:53,420] I'm going to want to put an epsilon downstairs.
+- [00:22:53,720 - 00:22:54,160] So,
+- [00:22:54,160 - 00:22:55,500] let's put an epsilon downstairs,
+- [00:22:55,700 - 00:22:56,940] and just as Michael said,
+- [00:22:58,840 - 00:23:00,480] if we put an epsilon downstairs,
+- [00:23:00,680 - 00:23:03,700] we've got to compensate by an epsilon upstairs.
+- [00:23:04,880 - 00:23:05,320] Well,
+- [00:23:05,320 - 00:23:05,840] that's kind of neat.
+- [00:23:05,960 - 00:23:06,700] This is the volume,
+- [00:23:06,700 - 00:23:07,840] epsilon cubed.
+- [00:23:08,160 - 00:23:09,640] That's going to play a nice role.
+- [00:23:10,300 - 00:23:11,180] Keep in mind,
+- [00:23:11,180 - 00:23:12,260] the volume over here,
+- [00:23:12,360 - 00:23:14,000] and then some derivatives of j.
+- [00:23:14,860 - 00:23:15,880] What's it going to be?
+- [00:23:16,060 - 00:23:17,720] It's going to be epsilon cubed
+- [00:23:17,720 - 00:23:20,880] in three terms.
+- [00:23:21,630 - 00:23:24,600] The derivative of jx with respect to x
+- [00:23:24,600 - 00:23:28,860] plus the derivative of jy with respect to y
+- [00:23:29,540 - 00:23:33,300] plus the derivative of jz with respect to z,
+- [00:23:33,480 - 00:23:35,300] and I think I have an overall minus sign.
+- [00:23:37,340 - 00:23:38,000] Uh...
+- [00:23:39,520 - 00:23:40,500] What is that?
+- [00:23:40,640 - 00:23:42,480] That's the time rate of change,
+- [00:23:43,360 - 00:23:44,020] dq,
+- [00:23:44,020 - 00:23:44,840] by dq,
+- [00:23:44,860 - 00:23:44,960] by dt.
+- [00:23:48,579 - 00:23:49,219] Now,
+- [00:23:49,219 - 00:23:51,180] let's divide by epsilon cubed.
+- [00:23:51,820 - 00:23:54,400] If we divide this by epsilon cubed,
+- [00:23:55,500 - 00:23:57,400] let's divide it by epsilon cubed,
+- [00:23:57,800 - 00:24:00,100] q over epsilon cubed.
+- [00:24:02,740 - 00:24:04,960] q is the charge in the box.
+- [00:24:06,080 - 00:24:07,580] Epsilon is the volume...
+- [00:24:07,580 - 00:24:09,940] Epsilon cubed is the volume of the box.
+- [00:24:10,600 - 00:24:11,740] What is q over epsilon?
+- [00:24:12,000 - 00:24:13,260] q over epsilon cubed?
+- [00:24:14,860 - 00:24:15,480] The charge density,
+- [00:24:15,480 - 00:24:16,060] right?
+- [00:24:16,580 - 00:24:17,180] So...
+- [00:24:18,020 - 00:24:19,580] And this derivative,
+- [00:24:19,580 - 00:24:20,320] of course,
+- [00:24:20,500 - 00:24:23,320] means standing at the same point.
+- [00:24:23,440 - 00:24:24,620] We stay in the same box.
+- [00:24:24,800 - 00:24:26,940] We're not moving around as we're doing this.
+- [00:24:27,140 - 00:24:29,900] So that really means the partial derivative
+- [00:24:29,900 - 00:24:33,040] of the density with respect to time.
+- [00:24:33,540 - 00:24:34,980] Partial derivative because we're
+- [00:24:34,980 - 00:24:36,420] keeping the positions fixed.
+- [00:24:37,040 - 00:24:40,420] So the right-hand side just becomes the partial derivative
+- [00:24:40,420 - 00:24:43,740] with respect to time of the charge density.
+- [00:24:44,860 - 00:24:44,860] So,
+- [00:24:44,860 - 00:24:47,900] yeah,
+- [00:24:47,900 - 00:24:50,620] minus sign is correct.
+- [00:24:53,760 - 00:24:56,000] If I transfer what's in the
+- [00:24:56,000 - 00:24:58,240] bracket over to the right-hand side,
+- [00:24:58,880 - 00:25:00,900] or put everything on the same side,
+- [00:25:01,240 - 00:25:03,740] then I get an equation.
+- [00:25:04,460 - 00:25:06,340] It's called the continuity equation.
+- [00:25:06,940 - 00:25:10,060] And what it says is the time rate of change
+- [00:25:10,630 - 00:25:11,780] of density
+- [00:25:14,760 - 00:25:17,480] plus the divergence of the current.
+- [00:25:17,700 - 00:25:19,540] For those who know what a divergence is,
+- [00:25:19,680 - 00:25:21,260] this is the divergence of the current.
+- [00:25:21,580 - 00:25:23,160] I'll write it out explicitly.
+- [00:25:26,080 - 00:25:26,560] dx,
+- [00:25:26,560 - 00:25:27,040] jx...
+- [00:25:27,780 - 00:25:29,000] Let's call it d by dx.
+- [00:25:29,220 - 00:25:30,500] I said I would write it explicitly,
+- [00:25:30,500 - 00:25:31,240] and I will.
+- [00:25:34,940 - 00:25:35,900] Plus dy,
+- [00:25:35,900 - 00:25:37,520] jy...
+- [00:25:39,220 - 00:25:39,700] No,
+- [00:25:39,700 - 00:25:40,180] explicitly.
+- [00:25:40,600 - 00:25:41,760] It's sometimes written just like that.
+- [00:25:41,760 - 00:25:42,160] Plus j...
+- [00:25:43,459 - 00:25:44,260] Just a second.
+- [00:25:45,240 - 00:25:45,860] Plus dz,
+- [00:25:45,860 - 00:25:50,040] jz equals zero.
+- [00:25:50,360 - 00:25:50,840] Say it again.
+- [00:25:51,620 - 00:25:53,700] Sometimes that's just written just dj,
+- [00:25:53,700 - 00:25:54,020] d,
+- [00:25:54,020 - 00:25:55,060] the divergence of j.
+- [00:25:55,260 - 00:25:55,620] Yeah,
+- [00:25:55,620 - 00:25:55,740] yeah,
+- [00:25:55,740 - 00:25:56,160] del dot j.
+- [00:25:56,160 - 00:25:58,520] Without any subscripts on the current.
+- [00:25:58,720 - 00:25:59,240] Del dot j.
+- [00:25:59,540 - 00:25:59,700] Yeah,
+- [00:25:59,700 - 00:26:00,320] del dot j.
+- [00:26:00,380 - 00:26:00,480] Right.
+- [00:26:01,000 - 00:26:01,400] Well,
+- [00:26:01,400 - 00:26:02,260] we think of this as...
+- [00:26:02,260 - 00:26:02,580] Right.
+- [00:26:03,160 - 00:26:04,300] It's just a component of .
+- [00:26:04,300 - 00:26:04,980] Right.
+- [00:26:05,760 - 00:26:06,700] So we have...
+- [00:26:06,700 - 00:26:08,060] We could write this as...
+- [00:26:08,060 - 00:26:09,880] We could also write it as just a row dot,
+- [00:26:10,000 - 00:26:11,660] if I wanted to save myself some symbols.
+- [00:26:11,660 - 00:26:14,380] Plus del dot j is equal to zero.
+- [00:26:16,620 - 00:26:17,780] What does that express?
+- [00:26:18,420 - 00:26:20,690] That expresses the fact that the only
+- [00:26:20,690 - 00:26:22,960] way that the charge can change in there
+- [00:26:23,560 - 00:26:26,060] is by charge flowing into or out of the system.
+- [00:26:26,280 - 00:26:28,220] It doesn't change by itself.
+- [00:26:28,400 - 00:26:28,800] In other words,
+- [00:26:28,800 - 00:26:30,380] if there's no current through the walls,
+- [00:26:30,640 - 00:26:32,480] the charge doesn't change in here.
+- [00:26:32,820 - 00:26:34,680] It relates the change in charge
+- [00:26:34,680 - 00:26:36,540] to the flow through the boundary.
+- [00:26:37,620 - 00:26:41,360] That's the deep concept of conservation.
+- [00:26:42,660 - 00:26:47,240] Deep and useful concept of conservation that the time...
+- [00:26:47,240 - 00:26:47,380] Oh,
+- [00:26:47,380 - 00:26:47,960] and we can...
+- [00:26:47,960 - 00:26:48,540] Let's see.
+- [00:26:49,480 - 00:26:51,460] Why don't I put everything on the same side?
+- [00:26:52,260 - 00:26:55,640] If I brought all of this to the right-hand side,
+- [00:26:55,780 - 00:26:56,780] it would all be pluses,
+- [00:26:56,780 - 00:26:56,980] right?
+- [00:26:58,020 - 00:27:00,350] So I think we can do that efficiently
+- [00:27:00,350 - 00:27:02,680] by just putting d rho by dt over here
+- [00:27:03,820 - 00:27:06,020] and adding plus over here.
+- [00:27:06,820 - 00:27:09,230] We're getting rid of brackets and
+- [00:27:09,230 - 00:27:11,640] setting the right-hand side equal to zero.
+- [00:27:14,980 - 00:27:15,540] Now,
+- [00:27:15,540 - 00:27:18,720] this has an interesting look to it.
+- [00:27:25,500 - 00:27:28,880] Let me write this in a rather...
+- [00:27:30,340 - 00:27:30,900] No,
+- [00:27:30,900 - 00:27:32,660] no minus sign in this equation.
+- [00:27:33,520 - 00:27:39,120] The minus sign got eaten up by transposing...
+- [00:27:40,600 - 00:27:41,160] Well,
+- [00:27:41,160 - 00:27:41,620] when I was doing this,
+- [00:27:41,620 - 00:27:43,070] when I transposed the d
+- [00:27:43,070 - 00:27:44,520] rho dt to the left-hand side,
+- [00:27:44,700 - 00:27:45,420] it picked up a minus,
+- [00:27:45,560 - 00:27:47,440] and then I multiplied the whole equation by minus.
+- [00:27:48,460 - 00:27:48,900] Okay.
+- [00:27:51,840 - 00:27:53,380] Let's make up a new notation.
+- [00:27:58,500 - 00:27:58,960] What's that?
+- [00:27:59,280 - 00:27:59,980] J sub t?
+- [00:28:00,620 - 00:28:01,060] Yeah.
+- [00:28:02,760 - 00:28:03,200] Well,
+- [00:28:03,200 - 00:28:04,860] except that we're going to change it a little bit.
+- [00:28:04,880 - 00:28:11,500] We're going to call rho j super t.
+- [00:28:11,500 - 00:28:12,320] Not sub t.
+- [00:28:12,860 - 00:28:16,920] Or remember that sometimes we think of t,
+- [00:28:16,920 - 00:28:17,680] x,
+- [00:28:17,680 - 00:28:18,240] y,
+- [00:28:18,240 - 00:28:18,840] and z
+- [00:28:19,500 - 00:28:20,320] as x zero,
+- [00:28:20,320 - 00:28:21,240] x one,
+- [00:28:21,240 - 00:28:22,100] x two,
+- [00:28:22,100 - 00:28:23,080] and x three.
+- [00:28:24,240 - 00:28:25,520] Let's use that notation.
+- [00:28:26,280 - 00:28:28,520] And we combine these all
+- [00:28:28,520 - 00:28:30,760] together and call them x mu.
+- [00:28:31,020 - 00:28:32,580] Now we're talking relativity,
+- [00:28:32,580 - 00:28:36,180] and we're talking about four vectors
+- [00:28:36,180 - 00:28:37,280] and all that kind of stuff.
+- [00:28:38,260 - 00:28:38,680] All right,
+- [00:28:38,680 - 00:28:40,260] so let's call rho...
+- [00:28:40,260 - 00:28:42,240] Let's call it j naught.
+- [00:28:42,600 - 00:28:44,580] It looks like it's got something to do with time.
+- [00:28:44,760 - 00:28:45,300] It does.
+- [00:28:46,960 - 00:28:48,860] Let's call j x,
+- [00:28:48,860 - 00:28:51,100] the thing that I've called j x...
+- [00:28:51,620 - 00:28:53,770] Let's now think of it as
+- [00:28:53,770 - 00:28:55,920] an object with an upper index.
+- [00:28:56,500 - 00:28:58,500] So I'm sorry I defined it this way.
+- [00:28:58,580 - 00:29:00,220] I should have defined it with an upper index.
+- [00:29:01,680 - 00:29:03,160] I would not have had to
+- [00:29:03,160 - 00:29:04,640] switch in the middle of this argument.
+- [00:29:05,440 - 00:29:08,180] Let's just define it everywhere as the same quantity
+- [00:29:09,720 - 00:29:11,120] with the indices.
+- [00:29:12,020 - 00:29:13,480] Now it's just pure notation.
+- [00:29:13,740 - 00:29:14,160] There's nothing,
+- [00:29:14,160 - 00:29:15,300] no content to it.
+- [00:29:15,380 - 00:29:17,000] I've just changed my notation slightly.
+- [00:29:17,940 - 00:29:18,960] Same thing for z.
+- [00:29:21,600 - 00:29:22,580] Same thing for z.
+- [00:29:24,020 - 00:29:27,200] But we already learned through that before
+- [00:29:27,200 - 00:29:29,800] where what we used to think of as lower indices
+- [00:29:29,800 - 00:29:31,010] turned out to be the things
+- [00:29:31,010 - 00:29:32,220] that we want to be upper indices.
+- [00:29:32,420 - 00:29:33,120] Will the sign change?
+- [00:29:35,420 - 00:29:35,880] Uh...
+- [00:29:35,880 - 00:29:38,980] Where we change the sign of the time component.
+- [00:29:39,340 - 00:29:39,640] Yeah.
+- [00:29:40,520 - 00:29:42,500] But now it's just definition.
+- [00:29:42,760 - 00:29:43,680] Now it's just definition.
+- [00:29:44,160 - 00:29:44,900] j x,
+- [00:29:44,900 - 00:29:45,340] j y,
+- [00:29:45,340 - 00:29:46,700] and j z with the upper index
+- [00:29:46,700 - 00:29:48,280] are exactly the things which
+- [00:29:48,280 - 00:29:49,860] I previously should have defined
+- [00:29:49,860 - 00:29:52,840] in the first place as having upper indices.
+- [00:29:53,220 - 00:29:56,540] I didn't realize that while I was preparing my notes,
+- [00:29:56,620 - 00:29:57,100] but I should have.
+- [00:29:57,520 - 00:29:58,020] All right.
+- [00:29:58,620 - 00:30:00,720] So we take these four objects,
+- [00:30:00,720 - 00:30:01,540] rho,
+- [00:30:01,540 - 00:30:02,460] j x,
+- [00:30:02,460 - 00:30:03,100] j y,
+- [00:30:03,100 - 00:30:03,860] and j z,
+- [00:30:03,860 - 00:30:06,580] and we can now write this whole equation
+- [00:30:06,580 - 00:30:08,240] in the compact form
+- [00:30:09,700 - 00:30:11,040] derivative sub mu,
+- [00:30:11,200 - 00:30:13,060] the derivative with respect to x mu
+- [00:30:17,640 - 00:30:21,800] of j super mu equals zero.
+- [00:30:23,900 - 00:30:24,620] All right.
+- [00:30:24,660 - 00:30:27,560] The first term is derivative with respect to x naught.
+- [00:30:27,640 - 00:30:31,500] That means derivative with respect to time of j naught.
+- [00:30:31,980 - 00:30:32,900] That's this one.
+- [00:30:34,100 - 00:30:36,440] And then when mu is one,
+- [00:30:36,640 - 00:30:39,040] we have the derivative of the x component of j
+- [00:30:39,040 - 00:30:40,840] with respect to x and so forth.
+- [00:30:42,240 - 00:30:42,680] This,
+- [00:30:42,680 - 00:30:43,080] of course,
+- [00:30:43,080 - 00:30:43,880] is summed over mu,
+- [00:30:44,060 - 00:30:46,820] but I'm using the Einstein summation convention now.
+- [00:30:47,600 - 00:30:49,220] And it becomes quite clear
+- [00:30:51,159 - 00:30:51,900] that this,
+- [00:30:51,900 - 00:30:54,040] that j mu is a four vector.
+- [00:30:55,040 - 00:30:56,580] j mu is a four vector.
+- [00:30:56,820 - 00:30:57,900] I won't prove that,
+- [00:30:58,020 - 00:30:59,880] but it does transform as a four vector,
+- [00:30:59,920 - 00:31:02,320] and it's pretty darn clear from this equation
+- [00:31:02,320 - 00:31:04,640] that this equation wouldn't make sense
+- [00:31:04,640 - 00:31:05,900] in every frame of reference.
+- [00:31:07,200 - 00:31:09,220] The derivation of the argument
+- [00:31:09,820 - 00:31:11,260] did not depend on what
+- [00:31:11,260 - 00:31:12,700] frame of reference I was in.
+- [00:31:12,820 - 00:31:14,640] It was a very general derivation.
+- [00:31:14,900 - 00:31:16,880] It must be true in every frame of reference.
+- [00:31:17,260 - 00:31:19,340] And the only way that an equation like this
+- [00:31:19,340 - 00:31:20,740] can be true in every frame of reference
+- [00:31:20,740 - 00:31:23,240] is that if j transforms as a four vector,
+- [00:31:23,340 - 00:31:23,760] and it does.
+- [00:31:24,620 - 00:31:27,660] So we have a new version of conservation
+- [00:31:28,260 - 00:31:31,420] in terms of a Lorentz invariant continuity.
+- [00:31:31,420 - 00:31:34,600] This is called the continuity equation.
+- [00:31:36,300 - 00:31:42,320] And it's the powerful principle
+- [00:31:43,440 - 00:31:45,100] that basically tells us
+- [00:31:45,100 - 00:31:47,260] that charge cannot disappear in one place
+- [00:31:47,260 - 00:31:48,220] and reappear in another
+- [00:31:48,220 - 00:31:51,820] without flowing through the boundaries of the region.
+- [00:31:58,360 - 00:32:00,580] So I could also write this
+- [00:32:01,600 - 00:32:05,020] as d mu j mu equals zero.
+- [00:32:07,180 - 00:32:07,680] Incidentally,
+- [00:32:07,680 - 00:32:08,960] it would not change
+- [00:32:08,960 - 00:32:10,760] if I put this index upstairs
+- [00:32:10,760 - 00:32:12,180] and that index downstairs.
+- [00:32:12,320 - 00:32:14,160] You can juggle the indices up and down
+- [00:32:14,160 - 00:32:15,500] as long as you keep them balanced.
+- [00:32:16,240 - 00:32:17,560] And I won't go through that.
+- [00:32:18,620 - 00:32:20,000] But there will be times
+- [00:32:20,780 - 00:32:22,680] when equations might come out
+- [00:32:22,680 - 00:32:23,240] with one,
+- [00:32:23,240 - 00:32:24,660] a little differently,
+- [00:32:24,820 - 00:32:25,720] with this index upstairs,
+- [00:32:25,900 - 00:32:26,780] that index downstairs.
+- [00:32:26,880 - 00:32:27,700] It's the same equation.
+- [00:32:29,440 - 00:32:29,940] Okay,
+- [00:32:29,940 - 00:32:30,440] good.
+- [00:32:31,620 - 00:32:33,060] Now let's go back
+- [00:32:33,060 - 00:32:35,820] to the derivation from Noether's theorem
+- [00:32:37,400 - 00:32:39,220] of the charge density
+- [00:32:39,220 - 00:32:40,740] for a simple field theory
+- [00:32:40,740 - 00:32:41,940] that had a certain symmetry.
+- [00:32:42,280 - 00:32:43,820] I'll just review it for you quickly.
+- [00:32:44,460 - 00:32:46,220] It provided for us a concept
+- [00:32:46,220 - 00:32:47,560] of a conserved quantity,
+- [00:32:47,840 - 00:32:49,000] which I called charge.
+- [00:32:50,360 - 00:32:51,520] And in fact,
+- [00:32:51,520 - 00:32:52,420] that charge was written
+- [00:32:52,420 - 00:32:53,900] as an integral of a space.
+- [00:32:54,340 - 00:32:57,000] So it's clear that the thing that we define
+- [00:32:57,000 - 00:32:58,400] must be the charge density.
+- [00:32:58,760 - 00:32:59,960] The question is,
+- [00:33:00,040 - 00:33:01,400] does that same theorem prove
+- [00:33:01,420 - 00:33:03,540] that something provide us
+- [00:33:03,540 - 00:33:05,440] with a notion of J,
+- [00:33:05,780 - 00:33:07,920] not of this J,
+- [00:33:08,140 - 00:33:09,260] of the space components,
+- [00:33:09,440 - 00:33:10,980] of the other components of the current?
+- [00:33:11,400 - 00:33:14,200] And so let's go back and review.
+- [00:33:27,000 - 00:33:30,380] I wrote down a particular field theory
+- [00:33:30,380 - 00:33:32,580] which involved a field
+- [00:33:32,580 - 00:33:34,510] with complex valued field,
+- [00:33:35,140 - 00:33:36,060] complex valued field.
+- [00:33:36,200 - 00:33:37,100] Complex valued field,
+- [00:33:37,100 - 00:33:37,460] of course,
+- [00:33:37,480 - 00:33:39,100] just means two real fields.
+- [00:33:40,460 - 00:33:42,720] So I wrote phi is equal
+- [00:33:42,720 - 00:33:44,980] to phi one plus i phi two.
+- [00:33:46,520 - 00:33:47,540] Phi one,
+- [00:33:47,540 - 00:33:49,980] phi star is equal to
+- [00:33:49,980 - 00:33:52,420] phi one minus i phi two.
+- [00:33:54,380 - 00:33:56,160] And you can just think if you like,
+- [00:33:56,180 - 00:33:58,600] you needn't use this complex notation.
+- [00:33:58,980 - 00:34:00,360] The complex notation is,
+- [00:34:00,380 - 00:34:01,920] is notationally neat,
+- [00:34:02,120 - 00:34:03,270] but you can just think in
+- [00:34:03,270 - 00:34:04,420] terms of phi one and phi two.
+- [00:34:05,080 - 00:34:07,320] You can imagine an internal space.
+- [00:34:07,580 - 00:34:08,699] This is not real space.
+- [00:34:08,920 - 00:34:10,100] This is an imaginary space
+- [00:34:10,859 - 00:34:13,300] whose axes are phi one and phi two.
+- [00:34:15,420 - 00:34:16,840] And then the value of a
+- [00:34:16,840 - 00:34:18,260] field at any point of space,
+- [00:34:18,420 - 00:34:20,219] or any point of space time for that matter,
+- [00:34:20,320 - 00:34:21,239] is a dot.
+- [00:34:21,460 - 00:34:21,719] Whoops,
+- [00:34:21,719 - 00:34:22,780] that's not a very good dot.
+- [00:34:24,900 - 00:34:28,219] Is a dot on the plane.
+- [00:34:28,440 - 00:34:29,100] Phi one,
+- [00:34:29,100 - 00:34:30,360] phi two.
+- [00:34:30,380 - 00:34:33,000] Thought of as the complex plane
+- [00:34:33,000 - 00:34:36,460] or just the ordinary real plane with two axes.
+- [00:34:37,080 - 00:34:38,060] That's the field.
+- [00:34:38,500 - 00:34:39,659] If this is phi,
+- [00:34:39,659 - 00:34:41,440] then phi star is down here.
+- [00:34:42,380 - 00:34:43,179] All right.
+- [00:34:43,460 - 00:34:46,480] The symmetry that we're going to imagine
+- [00:34:46,480 - 00:34:49,960] is a symmetry under rotating this plane.
+- [00:34:50,580 - 00:34:51,780] In other words,
+- [00:34:51,780 - 00:34:52,960] let's ask the question,
+- [00:34:53,120 - 00:34:55,780] supposing the Lagrangian did not vary,
+- [00:34:56,060 - 00:34:59,500] if we rotated the field in this plane,
+- [00:34:59,500 - 00:35:02,220] we have to do it everywhere in space simultaneously.
+- [00:35:02,820 - 00:35:04,560] So everywhere in space,
+- [00:35:04,920 - 00:35:06,380] simultaneously and in time,
+- [00:35:06,500 - 00:35:10,740] we rotate the axes of phi.
+- [00:35:11,340 - 00:35:13,160] An equivalent thing to do
+- [00:35:13,160 - 00:35:16,380] is to multiply the complex phi
+- [00:35:16,380 - 00:35:17,920] by a phase factor.
+- [00:35:18,360 - 00:35:21,180] One way of describing the rotations of the plane
+- [00:35:21,180 - 00:35:22,320] is just to say that phi
+- [00:35:22,320 - 00:35:27,120] is replaced by phi times e to the i epsilon,
+- [00:35:27,340 - 00:35:29,480] where epsilon could be any real plane.
+- [00:35:29,480 - 00:35:29,700] So if we rotate the axis of phi,
+- [00:35:30,020 - 00:35:30,920] In particular,
+- [00:35:30,920 - 00:35:32,820] we could take a small real number,
+- [00:35:33,000 - 00:35:34,760] and this would just be
+- [00:35:34,760 - 00:35:36,520] a small rotation of the axes.
+- [00:35:37,280 - 00:35:39,020] So this is one way to describe
+- [00:35:40,800 - 00:35:42,320] such a rotation of axes.
+- [00:35:42,820 - 00:35:44,360] Another way to describe it,
+- [00:35:44,380 - 00:35:45,500] in particular for a small,
+- [00:35:45,760 - 00:35:46,940] for epsilon small,
+- [00:35:47,340 - 00:35:48,020] in other words,
+- [00:35:48,020 - 00:35:50,380] just a small angular rotation of the axes,
+- [00:35:50,700 - 00:35:52,010] is just to say what happens
+- [00:35:52,010 - 00:35:53,320] to phi one and phi two.
+- [00:35:54,220 - 00:35:55,040] I'll tell you.
+- [00:35:55,040 - 00:35:57,420] Let's write the delta phi one,
+- [00:35:57,680 - 00:35:59,160] the change in phi one,
+- [00:35:59,839 - 00:36:01,900] if you just change axes by a little bit,
+- [00:36:02,000 - 00:36:04,320] small rotation angle epsilon,
+- [00:36:05,380 - 00:36:07,520] what happens to phi one?
+- [00:36:08,000 - 00:36:10,620] It gets changed by amount delta phi one,
+- [00:36:10,820 - 00:36:12,640] which is proportional,
+- [00:36:12,940 - 00:36:13,720] I'll just write equal,
+- [00:36:13,920 - 00:36:16,340] to phi two times epsilon,
+- [00:36:16,460 - 00:36:17,560] times the small angle.
+- [00:36:17,960 - 00:36:19,800] And what about delta phi two?
+- [00:36:23,600 - 00:36:25,280] It's of course proportional to epsilon,
+- [00:36:25,620 - 00:36:25,980] but,
+- [00:36:28,000 - 00:36:29,040] just phi one?
+- [00:36:30,440 - 00:36:31,280] Minus phi one.
+- [00:36:35,060 - 00:36:35,620] Now,
+- [00:36:35,620 - 00:36:37,460] how do you look at a Lagrangian
+- [00:36:37,460 - 00:36:40,480] and decide whether it's invariant under this operation?
+- [00:36:41,180 - 00:36:41,740] Well,
+- [00:36:41,740 - 00:36:42,920] in particular,
+- [00:36:43,120 - 00:36:44,880] if it's written in complex form.
+- [00:36:45,040 - 00:36:46,360] If it's written in complex form,
+- [00:36:46,500 - 00:36:47,720] it's really easy.
+- [00:36:48,340 - 00:36:49,780] If it contains things,
+- [00:36:49,800 - 00:36:51,740] like phi star phi in it,
+- [00:36:55,260 - 00:36:56,460] that's invariant.
+- [00:36:56,760 - 00:36:58,740] Phi star phi doesn't change
+- [00:36:58,740 - 00:37:01,280] if you multiply phi by a little phase.
+- [00:37:01,780 - 00:37:03,680] The same time phi star
+- [00:37:04,620 - 00:37:06,340] goes to phi star
+- [00:37:06,340 - 00:37:09,140] times e to the minus i epsilon.
+- [00:37:09,560 - 00:37:12,060] And so if you multiply phi by phi star,
+- [00:37:12,240 - 00:37:14,080] the epsilons will just cancel out.
+- [00:37:14,260 - 00:37:15,460] Phi phi star,
+- [00:37:15,520 - 00:37:17,180] which is also incidentally the same as
+- [00:37:17,180 - 00:37:18,880] phi one squared plus phi two squared,
+- [00:37:19,800 - 00:37:21,940] phi star phi is invariant.
+- [00:37:22,000 - 00:37:23,420] So if the Lagrangian,
+- [00:37:23,420 - 00:37:23,960] for example,
+- [00:37:23,960 - 00:37:25,540] contained phi star phi,
+- [00:37:26,340 - 00:37:28,740] it could contain phi star phi squared.
+- [00:37:29,400 - 00:37:30,300] In fact,
+- [00:37:30,300 - 00:37:31,000] it can contain
+- [00:37:31,740 - 00:37:33,860] any function of phi star phi.
+- [00:37:34,300 - 00:37:36,029] This in itself is invariant,
+- [00:37:36,420 - 00:37:37,320] and so that would,
+- [00:37:37,320 - 00:37:38,340] that would ensure,
+- [00:37:38,620 - 00:37:41,280] or this term in a Lagrangian would be invariant.
+- [00:37:41,340 - 00:37:43,300] What if it contained things like
+- [00:37:43,300 - 00:37:44,220] d mu phi
+- [00:37:45,060 - 00:37:46,940] times d mu phi star?
+- [00:37:48,540 - 00:37:49,780] Still invariant,
+- [00:37:49,780 - 00:37:50,460] because
+- [00:37:51,600 - 00:37:54,080] if phi changes by a phase,
+- [00:37:54,380 - 00:37:56,340] the derivative of phi changes by
+- [00:37:56,340 - 00:37:57,580] exactly the same phase.
+- [00:37:58,560 - 00:38:00,580] What about a thing like phi squared?
+- [00:38:03,080 - 00:38:04,560] Is that invariant?
+- [00:38:06,000 - 00:38:06,600] No,
+- [00:38:06,700 - 00:38:08,580] because phi squared,
+- [00:38:08,720 - 00:38:10,080] what will happen to phi squared?
+- [00:38:10,260 - 00:38:12,140] Phi squared will
+- [00:38:14,380 - 00:38:16,880] get e to the two i epsilon
+- [00:38:16,880 - 00:38:18,760] when you multiply phi by
+- [00:38:18,760 - 00:38:19,760] e to the i epsilon.
+- [00:38:19,920 - 00:38:20,600] Phi star phi,
+- [00:38:21,420 - 00:38:23,540] the e to the i epsilons will cancel.
+- [00:38:23,920 - 00:38:24,820] Phi squared,
+- [00:38:25,100 - 00:38:25,920] they will not cancel.
+- [00:38:26,240 - 00:38:27,300] So there are certainly things
+- [00:38:27,300 - 00:38:28,600] which are not invariant.
+- [00:38:31,500 - 00:38:33,160] If you had something like
+- [00:38:33,160 - 00:38:36,540] phi one squared plus three phi two squared,
+- [00:38:36,820 - 00:38:38,260] would that be invariant?
+- [00:38:39,820 - 00:38:40,300] No.
+- [00:38:41,000 - 00:38:43,280] But how about phi one squared plus phi two squared?
+- [00:38:43,740 - 00:38:44,220] Yes.
+- [00:38:45,120 - 00:38:45,820] All right,
+- [00:38:45,820 - 00:38:46,060] so,
+- [00:38:47,620 - 00:38:49,200] it's relatively easy
+- [00:38:49,200 - 00:38:50,880] to look at a Lagrangian
+- [00:38:50,880 - 00:38:53,060] and to see whether it's invariant
+- [00:38:53,060 - 00:38:53,880] under this operation.
+- [00:38:54,260 - 00:38:56,180] If written in terms of complex notations,
+- [00:38:56,660 - 00:38:57,480] then it should involve
+- [00:38:58,060 - 00:39:01,440] products of fields times complex conjugates.
+- [00:39:01,580 - 00:39:03,600] If it's written in terms of the real components,
+- [00:39:04,020 - 00:39:06,320] it should involve sums of squares
+- [00:39:06,320 - 00:39:08,800] of things with index one
+- [00:39:08,800 - 00:39:10,160] and things with index two.
+- [00:39:10,980 - 00:39:12,660] Let's suppose that's the case.
+- [00:39:12,880 - 00:39:15,540] Let's suppose that a Lagrangian is invariant.
+- [00:39:16,680 - 00:39:18,040] Then there's a symmetry.
+- [00:39:19,060 - 00:39:20,180] If there's a symmetry,
+- [00:39:20,380 - 00:39:21,580] there's a conservation law.
+- [00:39:22,460 - 00:39:25,360] Let's remember the form of such conservation laws.
+- [00:39:29,360 - 00:39:30,800] There's a conserved quantity,
+- [00:39:30,940 - 00:39:32,760] which is often called capital Q.
+- [00:39:32,960 - 00:39:34,540] Sometimes it's even called small q,
+- [00:39:34,680 - 00:39:36,660] and the reason it's called capital Q or small q
+- [00:39:36,660 - 00:39:38,440] is because it's going to wind up being
+- [00:39:38,440 - 00:39:39,760] some sort of charge.
+- [00:39:40,600 - 00:39:43,780] So it's related to the thing we've already called charge.
+- [00:39:43,960 - 00:39:44,800] But let's just call it q.
+- [00:39:44,800 - 00:39:46,920] Sometimes called the Noether charge.
+- [00:39:48,660 - 00:39:51,280] What you do is you sum over the whole system
+- [00:39:53,180 - 00:39:54,540] the change.
+- [00:39:55,080 - 00:39:57,700] This q is not the coordinates.
+- [00:39:59,240 - 00:40:00,560] It's capital Q.
+- [00:40:00,560 - 00:40:01,460] It's a charge.
+- [00:40:01,680 - 00:40:03,180] You take the change
+- [00:40:05,480 - 00:40:07,300] in the ith coordinate
+- [00:40:09,400 - 00:40:11,640] and you multiply it
+- [00:40:12,700 - 00:40:14,220] by the ith momentum.
+- [00:40:14,220 - 00:40:16,080] Let's call it p sub i.
+- [00:40:17,780 - 00:40:19,400] This is the canonical momentum
+- [00:40:19,400 - 00:40:21,160] conjugate to q sub i.
+- [00:40:22,960 - 00:40:24,350] Typically delta q sub i
+- [00:40:24,350 - 00:40:25,740] will have an epsilon in it,
+- [00:40:25,740 - 00:40:25,920] right?
+- [00:40:28,240 - 00:40:29,480] Just drop the epsilon.
+- [00:40:30,160 - 00:40:31,820] You can leave the epsilon there
+- [00:40:31,820 - 00:40:34,020] and then throw it away at the end.
+- [00:40:34,340 - 00:40:35,280] We don't need to worry.
+- [00:40:35,420 - 00:40:36,900] It's just a numerical multiple,
+- [00:40:37,080 - 00:40:38,980] a small numerical multiple of a quantity.
+- [00:40:39,340 - 00:40:40,420] We could divide it.
+- [00:40:40,460 - 00:40:41,720] We could divide out the epsilon.
+- [00:40:41,780 - 00:40:43,340] The epsilon is of no importance,
+- [00:40:43,340 - 00:40:43,620] whatever.
+- [00:40:44,220 - 00:40:46,280] This is the quantity which is conserved.
+- [00:40:46,480 - 00:40:48,740] I think the last time I called these delta q's,
+- [00:40:48,780 - 00:40:49,560] I think I called them f.
+- [00:40:49,700 - 00:40:50,940] I think I wrote that delta q
+- [00:40:51,960 - 00:40:54,060] is equal to epsilon times f.
+- [00:40:54,660 - 00:40:55,020] Well,
+- [00:40:55,020 - 00:40:56,100] that's a redundant notation.
+- [00:40:56,200 - 00:40:57,460] Just call it delta q
+- [00:40:57,460 - 00:40:59,780] and forget the epsilon at the end of the story.
+- [00:41:00,460 - 00:41:01,820] That's the conserved quantity,
+- [00:41:01,920 - 00:41:03,760] the sum over all the variables
+- [00:41:04,280 - 00:41:06,140] of the canonical momentum
+- [00:41:07,259 - 00:41:09,820] multiplied by the small shift in the coordinate
+- [00:41:10,880 - 00:41:12,900] when you do the symmetry operation.
+- [00:41:12,900 - 00:41:15,920] So now we can write that down very quickly.
+- [00:41:16,520 - 00:41:17,120] q,
+- [00:41:17,120 - 00:41:18,280] for our case now,
+- [00:41:18,480 - 00:41:19,900] is the integral over space.
+- [00:41:20,820 - 00:41:22,260] That replaces sum.
+- [00:41:23,420 - 00:41:25,320] What about p sub i?
+- [00:41:26,200 - 00:41:29,780] That's the canonical momentum conjugate to phi.
+- [00:41:31,260 - 00:41:32,360] There's two of them,
+- [00:41:32,360 - 00:41:33,580] phi 1 and phi 2.
+- [00:41:34,380 - 00:41:36,680] So we can write pi 1.
+- [00:41:38,260 - 00:41:40,400] That's the canonical momentum conjugate
+- [00:41:40,400 - 00:41:42,400] to the first field.
+- [00:41:43,040 - 00:41:44,020] That's phi 1.
+- [00:41:44,220 - 00:41:45,600] Times delta phi 1.
+- [00:41:45,800 - 00:41:46,860] What is delta phi 1?
+- [00:41:46,980 - 00:41:47,460] It's phi 2.
+- [00:41:51,520 - 00:41:55,440] Plus pi 2 times delta phi 1.
+- [00:41:56,860 - 00:41:59,480] But that's minus phi 1.
+- [00:41:59,660 - 00:42:00,860] Did I say something wrong?
+- [00:42:01,480 - 00:42:02,480] I think I did.
+- [00:42:03,460 - 00:42:08,400] Minus pi 2 times the change here,
+- [00:42:08,500 - 00:42:09,880] which is minus phi 1.
+- [00:42:12,380 - 00:42:14,980] That's what Emmy Noether tells us
+- [00:42:14,980 - 00:42:16,480] would be the conserved quantity,
+- [00:42:17,220 - 00:42:19,080] conserved because of the symmetry.
+- [00:42:23,840 - 00:42:24,520] Now,
+- [00:42:24,520 - 00:42:26,900] let's go back to the original Lagrangian
+- [00:42:26,900 - 00:42:27,980] that we had imagined.
+- [00:42:28,620 - 00:42:30,600] The original Lagrangian that we imagined
+- [00:42:30,600 - 00:42:34,000] involved time derivatives and space derivatives,
+- [00:42:34,440 - 00:42:36,820] but in particular it involved time derivatives.
+- [00:42:37,140 - 00:42:39,060] And the time derivatives were in the form
+- [00:42:40,260 - 00:42:45,600] d phi by dt squared 1 half.
+- [00:42:46,800 - 00:42:48,820] You can forget everything else for the moment.
+- [00:42:49,440 - 00:42:52,780] This was the kinetic term in the Lagrangian.
+- [00:42:54,040 - 00:42:56,240] Remember what the canonical momentum is.
+- [00:42:56,340 - 00:42:58,340] The canonical momentum is the derivative
+- [00:42:58,340 - 00:43:01,060] of the Lagrangian with respect to the velocity.
+- [00:43:02,100 - 00:43:02,740] Well,
+- [00:43:02,740 - 00:43:04,920] that's just the derivative of the Lagrangian
+- [00:43:04,920 - 00:43:06,440] with respect to d phi dt,
+- [00:43:06,440 - 00:43:07,820] and that's just d phi dt.
+- [00:43:08,720 - 00:43:11,200] Pi 1 is d phi 1 by dt.
+- [00:43:12,560 - 00:43:16,100] Pi 2 is d phi 2 by dt.
+- [00:43:18,500 - 00:43:22,200] And so now we have an expression for the charge.
+- [00:43:22,400 - 00:43:23,040] Here it is.
+- [00:43:26,320 - 00:43:28,080] Equals integral over space
+- [00:43:30,640 - 00:43:32,120] times pi 1,
+- [00:43:32,320 - 00:43:33,460] which is,
+- [00:43:33,460 - 00:43:35,700] let's just call it phi 1 dot,
+- [00:43:36,260 - 00:43:37,620] times phi 2,
+- [00:43:39,000 - 00:43:42,840] minus phi 2 dot times phi 1.
+- [00:43:52,520 - 00:43:54,740] This quantity must be conserved.
+- [00:43:54,960 - 00:43:55,700] We've proved it.
+- [00:43:55,740 - 00:43:57,140] We've proved it a dozen times over.
+- [00:43:57,420 - 00:44:00,280] We've proved it by proving a more general theorem.
+- [00:44:00,640 - 00:44:03,020] Here's the more general theorem that this is conserved.
+- [00:44:03,420 - 00:44:04,980] This is the conserved quantity,
+- [00:44:04,980 - 00:44:06,700] and it's an integral over space.
+- [00:44:07,700 - 00:44:08,180] Now,
+- [00:44:08,180 - 00:44:10,640] to get a perspective on what this is,
+- [00:44:11,660 - 00:44:12,940] on the meaning of it,
+- [00:44:13,020 - 00:44:14,520] it's helpful to go back
+- [00:44:14,520 - 00:44:16,020] to the analogy with the string.
+- [00:44:16,160 - 00:44:17,160] I think we talked about this,
+- [00:44:17,160 - 00:44:18,060] but let's do it again.
+- [00:44:20,560 - 00:44:22,140] A string or a rope,
+- [00:44:22,140 - 00:44:22,720] a jump rope,
+- [00:44:22,720 - 00:44:23,600] something like that,
+- [00:44:23,720 - 00:44:25,460] stretched between two points,
+- [00:44:25,940 - 00:44:27,180] free to move around.
+- [00:44:27,320 - 00:44:29,040] Our first version of the string
+- [00:44:29,560 - 00:44:30,990] was that it was free
+- [00:44:30,990 - 00:44:32,420] to move in the vertical plane.
+- [00:44:34,100 - 00:44:36,370] Now I want to have it be
+- [00:44:36,370 - 00:44:38,640] free also to move in the horizontal plane,
+- [00:44:39,420 - 00:44:42,420] not move along the direction of the string,
+- [00:44:43,859 - 00:44:45,800] but transverse to the direction of the string,
+- [00:44:45,860 - 00:44:46,680] in both directions.
+- [00:44:47,380 - 00:44:50,600] Let's call one direction phi 1
+- [00:44:50,600 - 00:44:52,540] and the other direction phi 2.
+- [00:44:53,780 - 00:44:55,620] Think of that thing in a model.
+- [00:44:55,820 - 00:44:57,620] We're making up a model of a field theory now.
+- [00:44:57,700 - 00:44:58,660] I don't want you to
+- [00:44:58,660 - 00:44:59,620] think of a real jump rope.
+- [00:44:59,900 - 00:45:00,520] I mean,
+- [00:45:00,520 - 00:45:01,120] for the moment,
+- [00:45:01,120 - 00:45:02,140] think of a real jump rope.
+- [00:45:02,140 - 00:45:03,260] But ultimately,
+- [00:45:03,260 - 00:45:05,520] we'll be thinking about mathematical fields
+- [00:45:05,520 - 00:45:08,720] describing relativistic field theory and so forth.
+- [00:45:09,460 - 00:45:11,800] But for our purposes right now,
+- [00:45:11,920 - 00:45:14,020] you can actually think of phi 1 and phi 2
+- [00:45:14,020 - 00:45:15,530] as the x and y coordinates
+- [00:45:15,530 - 00:45:17,040] of a point on this string.
+- [00:45:19,160 - 00:45:20,120] Now what is this?
+- [00:45:20,120 - 00:45:21,200] What is phi 1 dot?
+- [00:45:22,620 - 00:45:27,680] Phi 1 dot is the one component of the velocity.
+- [00:45:29,520 - 00:45:32,120] So this is like the one component of the velocity.
+- [00:45:32,120 - 00:45:33,220] This is the one component of the velocity
+- [00:45:33,220 - 00:45:37,620] times the other component of position minus vice versa.
+- [00:45:38,300 - 00:45:40,150] That should be familiar to many
+- [00:45:40,150 - 00:45:42,000] of you as the angular momentum.
+- [00:45:43,220 - 00:45:43,880] All right,
+- [00:45:43,880 - 00:45:50,780] so if we really think about the mechanical analogy,
+- [00:45:51,080 - 00:45:53,580] then the phi dots would be velocities,
+- [00:45:53,620 - 00:45:56,180] and of course velocities are proportional to momenta,
+- [00:45:56,200 - 00:45:57,480] ordinary momenta now,
+- [00:45:57,480 - 00:45:59,120] just ordinary momenta.
+- [00:45:59,400 - 00:46:02,040] And this would be like the x component
+- [00:46:02,120 - 00:46:04,800] of momentum times y minus the y component
+- [00:46:04,800 - 00:46:06,160] of momentum times x.
+- [00:46:07,140 - 00:46:09,320] That would be called the angular momentum.
+- [00:46:09,680 - 00:46:15,040] The angular momentum about an axis along the string.
+- [00:46:15,520 - 00:46:18,880] So think of the jump rope being twirled around.
+- [00:46:19,960 - 00:46:21,580] It has some angular momentum.
+- [00:46:23,660 - 00:46:26,360] You don't really have to have anybody there twirling.
+- [00:46:26,360 - 00:46:28,720] You can just have it anchored to some point,
+- [00:46:28,780 - 00:46:30,080] and you give it a whirl,
+- [00:46:30,080 - 00:46:31,660] and it continues to whirl,
+- [00:46:31,660 - 00:46:33,160] and it doesn't stop unless there's friction,
+- [00:46:33,160 - 00:46:33,580] of course.
+- [00:46:33,640 - 00:46:34,580] Friction will stop it.
+- [00:46:34,780 - 00:46:36,080] But in the absence of friction,
+- [00:46:37,200 - 00:46:39,940] it will just continue to whirl around.
+- [00:46:40,300 - 00:46:42,340] You can whirl it around with a node
+- [00:46:42,340 - 00:46:44,580] so that half of it is over here,
+- [00:46:44,640 - 00:46:45,880] the other half is over here,
+- [00:46:46,040 - 00:46:48,520] and both of them are whirling around like this.
+- [00:46:48,940 - 00:46:50,800] That would be positive angular momentum.
+- [00:46:51,080 - 00:46:53,900] Going in the other way would be negative angular momentum.
+- [00:46:54,240 - 00:46:54,480] Ooh,
+- [00:46:54,480 - 00:46:55,040] I could do that.
+- [00:46:55,200 - 00:46:56,420] I didn't know if I could do that.
+- [00:46:57,780 - 00:46:58,800] I can't do this,
+- [00:46:58,800 - 00:46:58,960] though.
+- [00:47:02,640 - 00:47:03,120] Right,
+- [00:47:03,120 - 00:47:05,380] so that's angular momentum about this axis.
+- [00:47:06,920 - 00:47:07,980] That's the analog.
+- [00:47:08,100 - 00:47:10,620] That's the analogy for charge.
+- [00:47:11,200 - 00:47:12,080] That's the analogy,
+- [00:47:12,080 - 00:47:13,220] the mechanical analogy,
+- [00:47:13,320 - 00:47:14,900] in the jump rope case,
+- [00:47:14,900 - 00:47:15,740] for charge.
+- [00:47:16,480 - 00:47:18,400] But with or without the analogy,
+- [00:47:18,900 - 00:47:20,120] this is the expression.
+- [00:47:20,880 - 00:47:21,360] Now,
+- [00:47:21,360 - 00:47:22,420] this can be written another way,
+- [00:47:22,520 - 00:47:23,780] another compact way.
+- [00:47:23,840 - 00:47:25,500] I'll write it in another compact way.
+- [00:47:25,580 - 00:47:27,760] You can write it in terms of the complex components.
+- [00:47:29,060 - 00:47:31,420] Let me write it in terms of the complex components.
+- [00:47:32,840 - 00:47:35,300] It's also the integral of a space,
+- [00:47:35,300 - 00:47:36,520] dx,
+- [00:47:40,960 - 00:47:41,660] of,
+- [00:47:41,660 - 00:47:43,160] I think there's an i,
+- [00:47:43,940 - 00:47:46,080] and then there is a,
+- [00:47:47,580 - 00:47:49,480] no phi 1 and phi 2,
+- [00:47:49,660 - 00:47:53,500] but phi star dot phi
+- [00:47:56,560 - 00:47:59,780] minus phi star phi dot.
+- [00:48:00,580 - 00:48:03,280] If you work this out in terms of the components,
+- [00:48:03,520 - 00:48:04,680] phi 1 and phi 2,
+- [00:48:05,220 - 00:48:07,000] you get exactly the same thing.
+- [00:48:08,000 - 00:48:09,710] Notice that the two terms
+- [00:48:09,710 - 00:48:11,420] are complex conjugates of each other.
+- [00:48:12,860 - 00:48:13,880] And when you subtract,
+- [00:48:14,180 - 00:48:16,600] what do you get when you subtract two complex conjugates?
+- [00:48:17,420 - 00:48:18,140] Pure imaginary,
+- [00:48:18,140 - 00:48:19,800] but if you multiply it by i,
+- [00:48:19,940 - 00:48:20,920] it becomes pure real.
+- [00:48:22,840 - 00:48:25,140] So you can also write this if you like.
+- [00:48:25,760 - 00:48:27,280] I think there's a factor of 2.
+- [00:48:27,440 - 00:48:28,480] There's a factor of 2,
+- [00:48:28,480 - 00:48:28,960] if I remember.
+- [00:48:28,960 - 00:48:31,100] Which is not terribly important.
+- [00:48:31,440 - 00:48:32,640] If a thing is conserved,
+- [00:48:32,780 - 00:48:34,880] then twice it is also conserved.
+- [00:48:35,160 - 00:48:37,860] But technically I think there's a factor of 2 there.
+- [00:48:38,400 - 00:48:41,080] We can also write this in another form
+- [00:48:41,080 - 00:48:43,020] as just the imaginary part.
+- [00:48:44,140 - 00:48:46,560] The imaginary part of the integral
+- [00:48:47,400 - 00:48:49,960] of phi star dot phi.
+- [00:48:51,700 - 00:48:53,740] If you take two things and you subtract
+- [00:48:53,740 - 00:48:57,040] a thing from its complex conjugate,
+- [00:48:57,040 - 00:49:00,280] it leaves over only the imaginary part.
+- [00:49:00,540 - 00:49:03,240] So it's the imaginary part of phi star phi.
+- [00:49:03,920 - 00:49:05,160] If you work out,
+- [00:49:05,160 - 00:49:06,120] not phi star phi,
+- [00:49:06,260 - 00:49:08,740] phi star dot times phi.
+- [00:49:10,280 - 00:49:11,620] That's a way to write it.
+- [00:49:11,960 - 00:49:12,760] It's a neat,
+- [00:49:12,760 - 00:49:14,000] efficient way to write it.
+- [00:49:14,900 - 00:49:17,320] And then we can just
+- [00:49:17,320 - 00:49:19,740] concentrate on phi dot star phi
+- [00:49:19,740 - 00:49:21,580] and remember at the end that
+- [00:49:21,580 - 00:49:23,420] we should take its imaginary part.
+- [00:49:24,220 - 00:49:26,920] And that defines the charge.
+- [00:49:26,920 - 00:49:27,580] Alright,
+- [00:49:27,580 - 00:49:30,440] it's just a notational device
+- [00:49:30,440 - 00:49:32,830] that allows us to avoid
+- [00:49:32,830 - 00:49:35,220] writing so many indices and things
+- [00:49:35,799 - 00:49:37,199] and just write that the
+- [00:49:37,199 - 00:49:38,600] charge density is the imaginary part
+- [00:49:38,600 - 00:49:41,420] of the time derivative of phi star times phi.
+- [00:49:42,020 - 00:49:45,540] What about the term with phi dot times phi star?
+- [00:49:46,980 - 00:49:48,300] Did I forget to write it?
+- [00:49:51,340 - 00:49:51,900] No.
+- [00:49:52,020 - 00:49:55,120] When you take the imaginary part of something,
+- [00:49:55,120 - 00:49:58,660] you subtract the thing from its complex conjugate.
+- [00:49:59,640 - 00:50:01,060] So they're both there.
+- [00:50:02,940 - 00:50:03,500] Okay,
+- [00:50:03,500 - 00:50:11,200] that's a useful set of notations.
+- [00:50:12,300 - 00:50:12,860] Now,
+- [00:50:12,860 - 00:50:17,780] our goal is,
+- [00:50:17,780 - 00:50:18,360] well,
+- [00:50:18,360 - 00:50:18,960] first of all,
+- [00:50:19,040 - 00:50:21,390] it's quite clear that this imaginary
+- [00:50:21,390 - 00:50:23,740] part of phi star dot phi
+- [00:50:23,740 - 00:50:24,940] is the charge density.
+- [00:50:25,120 - 00:50:27,270] It's the thing that we integrate
+- [00:50:27,270 - 00:50:29,420] over space to get the charge.
+- [00:50:30,020 - 00:50:32,200] If this is indeed some sort of charge.
+- [00:50:32,460 - 00:50:37,180] If indeed I've accurately identified what this object is
+- [00:50:37,180 - 00:50:38,300] and it's some sort of charge,
+- [00:50:38,959 - 00:50:40,900] then this thing in here is the charge density.
+- [00:50:41,180 - 00:50:43,620] Or this thing in here is the charge density.
+- [00:50:44,860 - 00:50:45,380] Rho.
+- [00:50:45,460 - 00:50:46,960] What about the sign there?
+- [00:50:46,960 - 00:50:48,040] Does that matter?
+- [00:50:48,400 - 00:50:48,880] Well,
+- [00:50:48,880 - 00:50:51,900] it doesn't really because you can either define the charge
+- [00:50:51,900 - 00:50:52,940] or negative the charge.
+- [00:50:53,840 - 00:50:54,360] Uh...
+- [00:50:55,300 - 00:50:56,920] Somewhere along the line,
+- [00:50:56,920 - 00:50:59,220] there was a convention,
+- [00:50:59,420 - 00:51:00,940] which I've forgotten right now,
+- [00:51:01,080 - 00:51:03,240] but it's strictly a convention of what you call positive
+- [00:51:03,240 - 00:51:04,220] and what you call negative,
+- [00:51:04,220 - 00:51:05,740] and it really doesn't matter.
+- [00:51:06,300 - 00:51:08,280] I'm thinking that there's a minus sign
+- [00:51:08,280 - 00:51:10,820] from the left-hand side to the imaginary notation.
+- [00:51:11,360 - 00:51:12,760] That could well be.
+- [00:51:13,140 - 00:51:13,160] So,
+- [00:51:13,160 - 00:51:15,000] um...
+- [00:51:15,860 - 00:51:16,340] Let's...
+- [00:51:18,340 - 00:51:19,200] Could well be.
+- [00:51:19,200 - 00:51:20,740] I'm not going to try to track it now.
+- [00:51:20,840 - 00:51:21,440] It'll waste time.
+- [00:51:21,840 - 00:51:23,820] But it's one sign or the other.
+- [00:51:23,820 - 00:51:24,780] And the important point...
+- [00:51:24,780 - 00:51:26,360] The important fact is that it's not important.
+- [00:51:27,120 - 00:51:28,640] It's important to be consistent,
+- [00:51:29,259 - 00:51:32,460] but it's not important when you're making your definition
+- [00:51:32,460 - 00:51:33,980] of what you want to call charge
+- [00:51:33,980 - 00:51:35,500] to fix one sign or the other.
+- [00:51:35,560 - 00:51:37,120] You fix a sign and then you stick with it.
+- [00:51:37,400 - 00:51:38,980] So let's use this,
+- [00:51:38,980 - 00:51:39,380] uh...
+- [00:51:39,380 - 00:51:42,000] Let's use this notation with the minus sign here.
+- [00:51:43,480 - 00:51:46,520] I hate carrying around the minus sign.
+- [00:51:46,960 - 00:51:47,400] Oh,
+- [00:51:47,400 - 00:51:48,140] I know what I can do.
+- [00:51:48,500 - 00:51:50,460] I can get rid of the minus sign...
+- [00:51:52,140 - 00:51:52,580] Yeah.
+- [00:51:52,580 - 00:51:52,660] Yeah,
+- [00:51:52,660 - 00:51:54,700] by putting the star on the other side.
+- [00:51:55,100 - 00:51:55,620] Yeah,
+- [00:51:55,620 - 00:51:56,100] good.
+- [00:51:56,820 - 00:51:57,340] Okay,
+- [00:51:57,340 - 00:51:58,280] so that's,
+- [00:51:58,280 - 00:51:59,080] uh...
+- [00:51:59,760 - 00:52:00,280] That's...
+- [00:52:00,280 - 00:52:01,540] And this object,
+- [00:52:01,540 - 00:52:01,920] then,
+- [00:52:01,920 - 00:52:03,920] the imaginary part of this object,
+- [00:52:04,180 - 00:52:05,140] what is it?
+- [00:52:05,260 - 00:52:06,720] It's the charge density.
+- [00:52:08,300 - 00:52:08,820] Okay,
+- [00:52:08,820 - 00:52:09,860] so let me write down,
+- [00:52:09,860 - 00:52:10,180] then.
+- [00:52:10,240 - 00:52:11,660] We have the following ideas.
+- [00:52:11,780 - 00:52:15,200] We have an idea of what the charge density is,
+- [00:52:15,320 - 00:52:17,380] and we have the idea of
+- [00:52:17,380 - 00:52:19,440] a four vector of charge current.
+- [00:52:20,500 - 00:52:21,980] The integrand you're saying
+- [00:52:22,580 - 00:52:22,920] is the charge density?
+- [00:52:23,240 - 00:52:23,780] That's correct.
+- [00:52:24,020 - 00:52:25,780] The charge density is the thing
+- [00:52:25,780 - 00:52:27,540] that you integrate to find the charge.
+- [00:52:32,120 - 00:52:32,780] All right,
+- [00:52:32,780 - 00:52:33,580] so let's write it down,
+- [00:52:33,580 - 00:52:33,900] then.
+- [00:52:34,500 - 00:52:34,980] Rho...
+- [00:52:34,980 - 00:52:37,020] What if this would be an angular momentum density?
+- [00:52:37,420 - 00:52:39,140] It would be an angular momentum
+- [00:52:39,140 - 00:52:40,860] per unit length along the string.
+- [00:52:41,320 - 00:52:41,800] Yeah.
+- [00:52:43,220 - 00:52:43,700] Right.
+- [00:52:44,340 - 00:52:47,020] Angular momentum per unit length along the string,
+- [00:52:47,020 - 00:52:47,360] exactly.
+- [00:52:50,000 - 00:52:54,560] I think I probably mentioned last time that this,
+- [00:52:54,560 - 00:52:56,740] of course,
+- [00:52:56,860 - 00:53:02,420] has an important concept here that is not important now,
+- [00:53:02,680 - 00:53:04,820] but will become quite important when we
+- [00:53:04,820 - 00:53:06,960] do some quantum mechanics with these ideas.
+- [00:53:08,300 - 00:53:11,010] And identifying the charge as
+- [00:53:11,010 - 00:53:13,720] being similar to an angular momentum,
+- [00:53:13,940 - 00:53:14,620] mathematically,
+- [00:53:14,620 - 00:53:17,340] it has the properties of an angular momentum.
+- [00:53:17,340 - 00:53:19,020] And you will,
+- [00:53:19,020 - 00:53:19,340] of course,
+- [00:53:19,340 - 00:53:20,740] remember that in quantum mechanics,
+- [00:53:20,860 - 00:53:22,480] angular momentum is quantized.
+- [00:53:22,720 - 00:53:26,000] It comes in integer multiples of h-bar,
+- [00:53:26,000 - 00:53:27,680] positive or negative.
+- [00:53:29,980 - 00:53:32,250] That suggests that when we apply
+- [00:53:32,250 - 00:53:34,520] quantum mechanics to fields like this,
+- [00:53:34,660 - 00:53:36,440] that the charge will be quantized.
+- [00:53:36,560 - 00:53:37,260] And indeed it is,
+- [00:53:37,260 - 00:53:39,440] for the same mathematical reasons.
+- [00:53:40,960 - 00:53:43,220] You don't need to know what those mathematical reasons are.
+- [00:53:43,320 - 00:53:44,670] You simply need to know
+- [00:53:44,670 - 00:53:46,020] that there's a mathematical similarity,
+- [00:53:46,020 - 00:53:47,920] or more than a similarity,
+- [00:53:47,920 - 00:53:49,720] an isomorphism,
+- [00:53:50,180 - 00:53:52,900] between the theory of charge in field theory
+- [00:53:52,900 - 00:53:55,210] and the theory of angular momentum
+- [00:53:55,210 - 00:53:57,520] to know that if one is quantized,
+- [00:53:57,640 - 00:53:58,740] the other will be quantized.
+- [00:53:59,580 - 00:54:01,640] And that's the origin of the fact
+- [00:54:01,640 - 00:54:03,700] that charge comes in multiples of something.
+- [00:54:08,240 - 00:54:09,700] And I won't get into quarks,
+- [00:54:09,700 - 00:54:11,540] which carry a third of a unit of charge here.
+- [00:54:11,620 - 00:54:13,000] This is not the place for it right now.
+- [00:54:13,660 - 00:54:14,680] That's a subject.
+- [00:54:16,020 - 00:54:17,300] It's a sophisticated subtlety.
+- [00:54:18,680 - 00:54:19,240] Okay,
+- [00:54:19,240 - 00:54:19,860] so let's see.
+- [00:54:19,900 - 00:54:21,100] So where were we?
+- [00:54:23,580 - 00:54:24,140] Yeah,
+- [00:54:24,140 - 00:54:24,620] currents.
+- [00:54:25,820 - 00:54:26,940] All right,
+- [00:54:26,940 - 00:54:27,720] so let's write rho.
+- [00:54:28,880 - 00:54:31,740] Rho is the imaginary part of something.
+- [00:54:34,640 - 00:54:36,000] And what is that something?
+- [00:54:37,779 - 00:54:41,740] Time derivative of phi times phi star.
+- [00:54:44,420 - 00:54:45,740] Look at it for a minute,
+- [00:54:46,020 - 00:54:49,230] and then try to guess what the
+- [00:54:49,230 - 00:54:52,440] other components of the four vector are.
+- [00:55:00,060 - 00:55:04,960] Now notice that this index here is a lower index.
+- [00:55:05,640 - 00:55:07,820] The derivative defines a...
+- [00:55:07,820 - 00:55:09,180] First of all,
+- [00:55:09,180 - 00:55:10,280] this object,
+- [00:55:10,280 - 00:55:12,400] the derivative with respect to t,
+- [00:55:12,400 - 00:55:13,940] defines...
+- [00:55:13,940 - 00:55:15,280] Is it covariant or contravariant?
+- [00:55:15,280 - 00:55:15,960] I can't remember.
+- [00:55:17,400 - 00:55:19,980] The covariant components of a four vector.
+- [00:55:20,320 - 00:55:22,220] Phi is assumed to be a scalar field,
+- [00:55:22,460 - 00:55:25,620] so this is a covariant component of a four vector.
+- [00:55:26,060 - 00:55:26,900] And of course,
+- [00:55:26,900 - 00:55:28,320] multiplying it by a scalar,
+- [00:55:28,440 - 00:55:30,980] it is still the covariant component of a four vector.
+- [00:55:31,620 - 00:55:34,180] It's pretty obvious what the other components
+- [00:55:34,180 - 00:55:37,680] of the covariant components of the four vector are.
+- [00:55:38,060 - 00:55:42,780] They are just imaginary part of phi star.
+- [00:55:42,780 - 00:55:45,570] Let's call all four components
+- [00:55:45,570 - 00:55:48,360] d by d mu of phi.
+- [00:55:50,140 - 00:55:53,300] That's the completion of the four vector.
+- [00:55:53,560 - 00:55:54,640] For example,
+- [00:55:54,640 - 00:56:00,430] jx is equal to the imaginary
+- [00:56:00,430 - 00:56:06,220] part of phi star dx phi,
+- [00:56:07,280 - 00:56:08,420] and so forth.
+- [00:56:08,600 - 00:56:10,560] What about the upper components?
+- [00:56:11,500 - 00:56:13,720] What about the contravariant components?
+- [00:56:13,960 - 00:56:15,100] What is j super x?
+- [00:56:17,480 - 00:56:18,440] Same thing.
+- [00:56:19,020 - 00:56:20,880] But what about j super t?
+- [00:56:23,060 - 00:56:24,300] A minus sign.
+- [00:56:25,400 - 00:56:26,020] Okay.
+- [00:56:26,160 - 00:56:28,280] We could take all of that into account
+- [00:56:28,280 - 00:56:30,260] by simply inventing a notation
+- [00:56:30,260 - 00:56:32,580] which keeps track of the signs
+- [00:56:32,580 - 00:56:34,780] by putting the indices upstairs.
+- [00:56:35,360 - 00:56:36,700] Now all this means,
+- [00:56:37,430 - 00:56:39,720] a derivative with a superscript there
+- [00:56:39,720 - 00:56:42,660] just means change the sign for the time component.
+- [00:56:43,000 - 00:56:45,220] So that's just a neat
+- [00:56:45,220 - 00:56:47,440] little trick that you can do
+- [00:56:47,440 - 00:56:48,440] to keep track of signs.
+- [00:56:48,720 - 00:56:49,620] It doesn't change anything.
+- [00:56:50,240 - 00:56:58,540] And then we're writing the contravariant components.
+- [00:56:59,960 - 00:57:00,440] Covariant,
+- [00:57:00,440 - 00:57:00,920] contravariant,
+- [00:57:00,920 - 00:57:02,040] they only differ by a sign
+- [00:57:02,940 - 00:57:04,280] in the time component.
+- [00:57:04,560 - 00:57:06,520] Does anyone write the star on the bottom?
+- [00:57:08,180 - 00:57:08,900] Say it again?
+- [00:57:08,900 - 00:57:09,700] Just kidding.
+- [00:57:10,710 - 00:57:12,120] You want to lower the star,
+- [00:57:12,120 - 00:57:12,460] right?
+- [00:57:12,660 - 00:57:13,080] Yeah,
+- [00:57:13,080 - 00:57:13,580] yeah.
+- [00:57:14,730 - 00:57:15,620] We'll lower the stars.
+- [00:57:17,060 - 00:57:19,280] That actually does have a meaning.
+- [00:57:19,560 - 00:57:21,380] We don't want to fool with it.
+- [00:57:23,740 - 00:57:25,140] All right.
+- [00:57:25,180 - 00:57:25,620] Now,
+- [00:57:25,620 - 00:57:26,960] next step.
+- [00:57:27,700 - 00:57:29,580] Can we directly prove
+- [00:57:29,580 - 00:57:32,760] that this four-dimensional vector
+- [00:57:32,760 - 00:57:35,380] satisfies the continuity equation?
+- [00:57:36,500 - 00:57:37,380] All right.
+- [00:57:37,380 - 00:57:39,620] We would like to show that this object
+- [00:57:39,620 - 00:57:42,060] does really satisfy the continuity equation.
+- [00:57:42,260 - 00:57:44,400] That's where we came in with the continuity equation.
+- [00:57:46,060 - 00:57:47,840] And I think we'll take a little break.
+- [00:57:48,280 - 00:57:49,260] But at the end,
+- [00:57:49,260 - 00:57:49,960] after the break,
+- [00:57:50,100 - 00:57:52,360] we will derive the continuity equations
+- [00:57:52,360 - 00:57:53,780] from the field equations.
+- [00:57:53,920 - 00:57:54,820] You can't get them from nowheres.
+- [00:57:54,900 - 00:57:55,940] You got to get them from somewheres.
+- [00:57:56,260 - 00:57:57,140] What do we have?
+- [00:57:57,480 - 00:57:59,380] We know some things about how phi
+- [00:58:00,460 - 00:58:02,040] moves in space and time,
+- [00:58:02,120 - 00:58:03,680] how it varies in space and time.
+- [00:58:04,120 - 00:58:05,180] And if we're lucky,
+- [00:58:05,300 - 00:58:07,360] it will be enough to prove for us that
+- [00:58:07,380 - 00:58:09,580] the continuity equation is satisfied for J.
+- [00:58:09,740 - 00:58:10,740] So that'll be the next step.
+- [00:58:11,000 - 00:58:12,600] Prove the continuity equation.
+- [00:58:16,160 - 00:58:19,120] Notice we really have not proved the continuity equation.
+- [00:58:19,300 - 00:58:21,680] What we proved using Noether's theorem
+- [00:58:22,299 - 00:58:23,640] is the conservation law.
+- [00:58:23,980 - 00:58:26,560] All that really tells us is that the total charge
+- [00:58:26,560 - 00:58:28,540] in the universe doesn't change with time.
+- [00:58:29,200 - 00:58:32,420] We have not really proved the continuity equation.
+- [00:58:32,840 - 00:58:34,620] So that's a separate thing to prove,
+- [00:58:34,880 - 00:58:37,080] but it is true.
+- [00:58:37,380 - 00:58:41,280] So we'll come back to it in about seven minutes.
+- [00:58:43,060 - 00:58:43,540] Okay,
+- [00:58:43,540 - 00:58:46,480] our goal is to check the continuity equation.
+- [00:58:46,740 - 00:58:47,120] Our goal,
+- [00:58:47,120 - 00:58:47,480] I think,
+- [00:58:47,480 - 00:58:48,500] is to wait for the remainder
+- [00:58:49,000 - 00:58:50,200] of the class to come in first.
+- [00:58:51,800 - 00:58:53,900] Is some called isotopic spin?
+- [00:58:54,020 - 00:58:56,500] Does that have anything to do with the...
+- [00:58:56,920 - 00:58:57,460] It does,
+- [00:58:57,460 - 00:59:01,700] but I think not for the electron.
+- [00:59:03,100 - 00:59:03,580] Um...
+- [00:59:06,980 - 00:59:07,380] Yeah.
+- [00:59:09,319 - 00:59:10,400] The answer is yes,
+- [00:59:10,400 - 00:59:11,540] it has something to do with it,
+- [00:59:11,620 - 00:59:11,820] but,
+- [00:59:11,820 - 00:59:13,600] uh...
+- [00:59:14,700 - 00:59:15,100] But...
+- [00:59:16,460 - 00:59:17,880] It is not the same thing.
+- [00:59:19,060 - 00:59:19,860] Something different.
+- [00:59:20,060 - 00:59:20,680] We'll get to it.
+- [00:59:20,780 - 00:59:23,100] I think we'll be able to talk about isotopic spin.
+- [00:59:23,900 - 00:59:24,300] Unfortunately,
+- [00:59:24,300 - 00:59:25,520] we have to talk about spinners,
+- [00:59:25,540 - 00:59:27,720] which is a subtlety,
+- [00:59:27,800 - 00:59:29,900] but we'll try our best.
+- [00:59:36,880 - 00:59:40,850] So we have a guess
+- [00:59:40,850 - 00:59:44,820] for what the four-dimensional four vector
+- [00:59:44,820 - 00:59:46,360] of current flow is.
+- [00:59:47,060 - 00:59:48,580] And the only thing to check,
+- [00:59:48,720 - 00:59:49,800] there's only one thing to check,
+- [00:59:49,980 - 00:59:52,720] and that's to check that it is conserved,
+- [00:59:52,720 - 00:59:55,340] meaning to say that it satisfies continuity equation.
+- [00:59:56,180 - 00:59:57,120] These days,
+- [00:59:57,120 - 01:00:00,040] when a physicist says something is conserved,
+- [01:00:00,240 - 01:00:01,800] he literally means that it's conserved,
+- [01:00:01,800 - 01:00:02,360] that the current,
+- [01:00:02,360 - 01:00:03,600] number one,
+- [01:00:03,600 - 01:00:07,340] that there is a notion of current and charge density,
+- [01:00:07,340 - 01:00:07,660] or
+- [01:00:07,660 - 01:00:09,260] density of whatever the quantity is,
+- [01:00:09,260 - 01:00:10,180] number one,
+- [01:00:10,180 - 01:00:12,580] and that it satisfies the continuity
+- [01:00:12,580 - 01:00:13,040] equation.
+- [01:00:13,040 - 01:00:14,950] Continuity equation is always central to
+- [01:00:14,950 - 01:00:16,860] what a physicist means by saying something
+- [01:00:16,860 - 01:00:17,560] is conserved.
+- [01:00:17,560 - 01:00:19,560] Okay,
+- [01:00:19,560 - 01:00:22,060] so we ought to then check the continuity equation.
+- [01:00:22,060 - 01:00:23,640] Now,
+- [01:00:23,640 - 01:00:24,540] the continuity
+- [01:00:24,540 - 01:00:27,060] equation has to do with the way the
+- [01:00:27,060 - 01:00:29,580] components of J vary in space and time.
+- [01:00:29,580 - 01:00:30,420] We're going to
+- [01:00:30,420 - 01:00:31,740] differentiate them after all,
+- [01:00:31,740 - 01:00:34,280] and that in turn has to
+- [01:00:34,280 - 01:00:36,820] do with the way phi varies in
+- [01:00:36,820 - 01:00:37,600] space and time.
+- [01:00:37,600 - 01:00:39,310] What is it which controls the way
+- [01:00:39,310 - 01:00:41,020] that it varies with space and time?
+- [01:00:41,440 - 01:00:42,540] The field equations.
+- [01:00:42,540 - 01:00:45,580] So in order to write some field equations,
+- [01:00:45,580 - 01:00:48,740] let's begin with a simple
+- [01:00:48,740 - 01:00:49,400] Lagrangian.
+- [01:00:49,400 - 01:00:51,740] We're not going to do this for every possible Lagrangian,
+- [01:00:51,740 - 01:00:52,400] although we should,
+- [01:00:52,560 - 01:00:54,570] and it would be true for every Lagrangian
+- [01:00:54,570 - 01:00:56,580] of the right form with the right symmetry.
+- [01:00:57,160 - 01:00:59,200] But let's take a particular Lagrangian.
+- [01:00:59,200 - 01:00:59,780] Our favorite,
+- [01:00:59,820 - 01:01:00,140] um,
+- [01:01:00,240 - 01:01:00,400] um,
+- [01:01:00,400 - 01:01:02,900] that we've used over and over again,
+- [01:01:02,900 - 01:01:05,820] Lagrange density equal to,
+- [01:01:05,820 - 01:01:06,840] uh,
+- [01:01:06,840 - 01:01:08,020] phi dot,
+- [01:01:08,020 - 01:01:08,900] let's say phi
+- [01:01:08,900 - 01:01:11,900] dot squared over two minus
+- [01:01:11,900 - 01:01:14,900] the space derivatives of phi squared,
+- [01:01:14,900 - 01:01:16,300] same thing for y and z,
+- [01:01:16,300 - 01:01:18,400] over
+- [01:01:18,400 - 01:01:18,720] two.
+- [01:01:18,720 - 01:01:21,780] And,
+- [01:01:21,780 - 01:01:22,120] uh,
+- [01:01:22,120 - 01:01:24,460] then let's add what I
+- [01:01:24,460 - 01:01:26,800] have been calling a mass term,
+- [01:01:26,800 - 01:01:27,540] just for fun.
+- [01:01:27,540 - 01:01:29,080] This is
+- [01:01:29,080 - 01:01:29,560] phi squared.
+- [01:01:29,560 - 01:01:30,300] I'm sorry.
+- [01:01:30,300 - 01:01:30,460] I,
+- [01:01:30,460 - 01:01:31,600] I withdraw this.
+- [01:01:31,600 - 01:01:35,540] It's phi star dot phi dot,
+- [01:01:35,540 - 01:01:36,220] no two.
+- [01:01:47,200 - 01:01:49,400] Star dx phi star.
+- [01:01:49,400 - 01:01:51,560] Now remember,
+- [01:01:51,560 - 01:01:53,470] you can write this in
+- [01:01:53,470 - 01:01:55,380] terms of usual components phi one
+- [01:01:55,380 - 01:01:56,020] and phi two,
+- [01:01:56,020 - 01:01:57,820] and it's just the two Lagrangians,
+- [01:01:57,820 - 01:01:59,480] one for each component of the field.
+- [01:01:59,480 - 01:02:00,280] And then,
+- [01:02:00,280 - 01:02:02,360] I want to add something just for fun,
+- [01:02:02,360 - 01:02:04,740] or just for a little bit more completeness.
+- [01:02:04,740 - 01:02:05,100] Let's see,
+- [01:02:05,100 - 01:02:06,800] do I want minus or plus minus?
+- [01:02:06,800 - 01:02:10,440] Minus mu squared,
+- [01:02:10,440 - 01:02:12,100] where mu is just a real number,
+- [01:02:12,100 - 01:02:14,120] times phi star phi.
+- [01:02:16,900 - 01:02:17,500] I don't,
+- [01:02:17,500 - 01:02:18,380] in previous lectures,
+- [01:02:18,380 - 01:02:19,500] I might have just called this mu.
+- [01:02:19,500 - 01:02:20,140] I don't remember.
+- [01:02:32,560 - 01:02:33,060] It's not a,
+- [01:02:33,060 - 01:02:34,300] it's just an x and a y and a z,
+- [01:02:34,300 - 01:02:36,680] but we can write the whole thing.
+- [01:02:36,680 - 01:02:38,240] We can write the whole thing
+- [01:02:38,240 - 01:02:39,800] in the form d mu phi,
+- [01:02:39,800 - 01:02:42,980] d mu,
+- [01:02:42,980 - 01:02:44,140] phi star.
+- [01:02:44,140 - 01:02:47,520] That's all it is.
+- [01:02:54,660 - 01:02:57,820] So we have L equals phi star phi
+- [01:02:59,840 - 01:03:00,280] Here?
+- [01:03:02,380 - 01:03:02,820] No,
+- [01:03:02,820 - 01:03:03,040] no,
+- [01:03:03,040 - 01:03:03,540] just the left
+- [01:03:03,540 - 01:03:03,960] First one
+- [01:03:03,960 - 01:03:04,280] Here
+- [01:03:04,280 - 01:03:04,800] What is that?
+- [01:03:04,980 - 01:03:06,000] It's phi star dot
+- [01:03:06,000 - 01:03:06,920] Phi star dot
+- [01:03:06,920 - 01:03:07,760] And then what's
+- [01:03:07,760 - 01:03:08,640] Phi dot
+- [01:03:08,640 - 01:03:09,360] Oh,
+- [01:03:09,360 - 01:03:09,660] okay
+- [01:03:09,660 - 01:03:11,780] You have two stars in the middle term
+- [01:03:12,360 - 01:03:12,800] Oh,
+- [01:03:12,800 - 01:03:14,720] it's two stars in the middle term,
+- [01:03:14,720 - 01:03:14,980] sorry,
+- [01:03:14,980 - 01:03:15,300] good
+- [01:03:16,840 - 01:03:18,020] One star in the middle term
+- [01:03:19,000 - 01:03:19,440] Alright,
+- [01:03:19,440 - 01:03:21,250] I only write it in this
+- [01:03:21,250 - 01:03:23,060] form to just display the obvious symmetry
+- [01:03:23,060 - 01:03:26,820] That it contains things times their complex conjugates
+- [01:03:26,820 - 01:03:28,850] And so it has this
+- [01:03:28,850 - 01:03:30,880] symmetry that we've been talking about
+- [01:03:31,520 - 01:03:32,040] Alright,
+- [01:03:32,040 - 01:03:34,000] the important thing is the
+- [01:03:34,000 - 01:03:35,960] field equations which follow from this
+- [01:03:35,960 - 01:03:36,980] So,
+- [01:03:36,980 - 01:03:37,720] oh,
+- [01:03:37,720 - 01:03:38,800] there should be a two over here
+- [01:03:40,440 - 01:03:40,960] Ah,
+- [01:03:40,960 - 01:03:42,060] the twos are not important
+- [01:03:42,060 - 01:03:42,320] No,
+- [01:03:42,320 - 01:03:42,580] no,
+- [01:03:42,580 - 01:03:43,180] no two there
+- [01:03:44,640 - 01:03:45,160] Okay,
+- [01:03:45,160 - 01:03:46,740] the important thing is the
+- [01:03:46,740 - 01:03:48,320] field equation which follows from this
+- [01:03:48,320 - 01:03:49,940] The field equation is just,
+- [01:03:49,940 - 01:03:50,780] we've written it before
+- [01:03:50,780 - 01:03:52,900] Without the mu squared term
+- [01:03:53,060 - 01:03:54,520] Just let's write it out explicitly
+- [01:03:55,060 - 01:03:57,880] The second derivative with respect to time of phi
+- [01:03:59,120 - 01:04:02,560] Minus the second derivative with respect to x,
+- [01:04:02,560 - 01:04:02,920] y,
+- [01:04:02,920 - 01:04:03,360] and z
+- [01:04:03,940 - 01:04:05,340] I'm just going to include x
+- [01:04:05,980 - 01:04:07,900] But we also have a term for y and z
+- [01:04:09,120 - 01:04:09,600] Phi
+- [01:04:09,600 - 01:04:11,280] And then from here,
+- [01:04:11,280 - 01:04:12,160] let's see,
+- [01:04:12,160 - 01:04:13,900] I think there's either a plus or a minus
+- [01:04:16,580 - 01:04:17,060] Ah,
+- [01:04:17,060 - 01:04:18,240] plus I think
+- [01:04:19,880 - 01:04:22,680] Plus mu squared phi
+- [01:04:23,060 - 01:04:23,720] Equals zero
+- [01:04:26,580 - 01:04:27,180] This,
+- [01:04:27,180 - 01:04:28,280] without the mu squared,
+- [01:04:28,280 - 01:04:30,050] it would just be the usual wave
+- [01:04:30,050 - 01:04:31,820] equation that we've written down many times
+- [01:04:33,200 - 01:04:36,170] We make it into three dimensional wave equation
+- [01:04:36,170 - 01:04:39,140] by putting a y and a z term
+- [01:04:41,500 - 01:04:42,480] Adding them in
+- [01:04:43,060 - 01:04:47,370] And then this mu squared term is just
+- [01:04:47,370 - 01:04:51,680] another term that I'm including for completeness or semi-completeness
+- [01:04:51,680 - 01:04:52,500] Just to have it there
+- [01:04:53,440 - 01:04:54,500] We'll use it later,
+- [01:04:54,500 - 01:04:55,380] we'll study it later
+- [01:04:55,380 - 01:04:57,590] It plays some important role
+- [01:04:57,590 - 01:04:59,800] in the mass of a particle
+- [01:05:00,360 - 01:05:02,930] But for the moment it's just an extra term
+- [01:05:02,930 - 01:05:05,500] I threw in to be a little more complete
+- [01:05:08,400 - 01:05:08,900] Okay,
+- [01:05:08,900 - 01:05:09,980] here's our field equation
+- [01:05:10,680 - 01:05:12,920] Now I can write it in a very compact form
+- [01:05:14,300 - 01:05:15,200] It is
+- [01:05:17,800 - 01:05:21,500] d super mu d sub mu phi
+- [01:05:22,980 - 01:05:24,820] Either plus or minus,
+- [01:05:24,820 - 01:05:25,960] let me get this right
+- [01:05:25,960 - 01:05:26,300] Um
+- [01:05:32,000 - 01:05:37,600] I think minus mu squared phi equals zero
+- [01:05:40,080 - 01:05:42,680] So this is a nice compact form for it
+- [01:05:43,340 - 01:05:46,100] And it stands for the second derivative with respect
+- [01:05:46,100 - 01:05:48,860] to time minus the second derivative with respect to space
+- [01:05:50,600 - 01:05:51,160] Okay
+- [01:05:51,500 - 01:05:53,300] That's our field equation
+- [01:05:53,300 - 01:05:56,230] What we want to derive from this
+- [01:05:56,230 - 01:05:59,160] field equation is the continuity equation for j
+- [01:05:59,160 - 01:06:01,170] So let's write the continuity equation
+- [01:06:01,170 - 01:06:03,180] for j and see if it follows
+- [01:06:06,800 - 01:06:09,780] The continuity equation for j is
+- [01:06:09,780 - 01:06:12,760] d mu j mu equals zero
+- [01:06:13,400 - 01:06:14,800] So let's just do it
+- [01:06:16,500 - 01:06:17,220] This will,
+- [01:06:17,220 - 01:06:17,700] this,
+- [01:06:17,700 - 01:06:18,620] if it's true,
+- [01:06:18,620 - 01:06:19,980] then it means that
+- [01:06:19,980 - 01:06:21,200] This is what it would mean
+- [01:06:21,200 - 01:06:28,870] It means the imaginary part of d mu
+- [01:06:28,870 - 01:06:36,540] on phi star d mu phi equals zero
+- [01:06:37,799 - 01:06:38,700] That's what it would mean
+- [01:06:40,900 - 01:06:41,580] j,
+- [01:06:41,580 - 01:06:42,480] here's j,
+- [01:06:42,480 - 01:06:44,820] the imaginary part anyway
+- [01:06:44,820 - 01:06:47,560] We differentiate it and set it equal to zero
+- [01:06:47,560 - 01:06:48,380] Well,
+- [01:06:48,380 - 01:06:49,660] I'm not saying it's true
+- [01:06:49,980 - 01:06:50,080] I'm saying,
+- [01:06:50,080 - 01:06:50,900] is it true?
+- [01:06:52,680 - 01:06:53,760] Not it is true,
+- [01:06:53,760 - 01:06:54,560] but is it true?
+- [01:06:56,180 - 01:06:56,600] Okay,
+- [01:06:56,600 - 01:06:57,460] let's check it
+- [01:06:57,980 - 01:06:59,420] Let's follow it through a little bit
+- [01:06:59,960 - 01:07:01,360] It's the same thing as,
+- [01:07:01,360 - 01:07:02,480] now I can differentiate
+- [01:07:02,480 - 01:07:04,780] I can write that this is the imaginary part
+- [01:07:05,440 - 01:07:07,700] And the derivative here consists of two terms
+- [01:07:07,700 - 01:07:08,800] In one term,
+- [01:07:08,800 - 01:07:10,560] the d mu hits the phi star
+- [01:07:10,560 - 01:07:11,940] In the other term,
+- [01:07:11,940 - 01:07:14,380] the d mu hits the derivative
+- [01:07:15,140 - 01:07:15,560] Alright,
+- [01:07:15,560 - 01:07:16,120] so what does it got?
+- [01:07:16,120 - 01:07:17,020] We have two terms then
+- [01:07:17,020 - 01:07:19,600] We have d mu phi star
+- [01:07:20,420 - 01:07:21,980] d mu phi
+- [01:07:23,360 - 01:07:25,420] That's when the derivative hits the phi star
+- [01:07:26,120 - 01:07:28,780] Then we have plus phi star
+- [01:07:29,900 - 01:07:33,920] d mu d mu phi
+- [01:07:36,520 - 01:07:38,720] Does this or does this not equal zero?
+- [01:07:40,520 - 01:07:41,560] That's our question
+- [01:07:42,380 - 01:07:43,720] So let's look at it
+- [01:07:56,940 - 01:07:58,160] First thing is,
+- [01:07:58,160 - 01:07:59,260] this is real
+- [01:07:59,939 - 01:08:01,720] It consists of things like
+- [01:08:01,720 - 01:08:03,300] The time derivative of phi star
+- [01:08:03,300 - 01:08:04,880] times the time derivative of phi
+- [01:08:04,880 - 01:08:07,780] Things times their own complex conjugates
+- [01:08:08,440 - 01:08:09,700] With various signs
+- [01:08:09,700 - 01:08:11,720] The signs don't change,
+- [01:08:11,720 - 01:08:13,480] don't turn something real into imaginary
+- [01:08:13,480 - 01:08:15,600] So this is pure real
+- [01:08:15,600 - 01:08:17,740] And it's imaginary part is just zero
+- [01:08:18,960 - 01:08:19,560] Good
+- [01:08:19,979 - 01:08:20,160] That was fast,
+- [01:08:20,160 - 01:08:21,240] we got rid of that fast
+- [01:08:21,979 - 01:08:25,580] This piece here is clearly related to the field equation
+- [01:08:25,580 - 01:08:26,760] Where's the field equation?
+- [01:08:27,180 - 01:08:30,260] The field equation has exactly that same thing in it
+- [01:08:30,260 - 01:08:31,700] d mu d mu phi
+- [01:08:31,700 - 01:08:34,500] And it's equal to mu squared phi
+- [01:08:35,339 - 01:08:37,420] By virtue of the field equations
+- [01:08:37,979 - 01:08:41,540] This becomes equal to the imaginary part of
+- [01:08:42,419 - 01:08:43,399] Phi star
+- [01:08:45,679 - 01:08:47,439] d mu d mu phi
+- [01:08:47,439 - 01:08:49,140] That's mu squared phi
+- [01:08:50,880 - 01:08:51,859] Plus or minus
+- [01:08:54,600 - 01:08:55,720] I don't know,
+- [01:08:55,720 - 01:08:56,340] plus or minus,
+- [01:08:56,340 - 01:08:56,660] whichever
+- [01:08:58,380 - 01:09:00,359] But this is just phi star phi
+- [01:09:00,359 - 01:09:01,399] Mu is real
+- [01:09:01,399 - 01:09:02,960] Phi star phi is real
+- [01:09:02,960 - 01:09:06,580] Am I just confused or are you using mu?
+- [01:09:07,920 - 01:09:08,420] Oh,
+- [01:09:08,420 - 01:09:09,120] I'm sorry
+- [01:09:09,120 - 01:09:09,960] Very good
+- [01:09:11,140 - 01:09:11,640] Yes,
+- [01:09:11,640 - 01:09:13,640] I've used mu for two different things
+- [01:09:14,479 - 01:09:14,979] Index,
+- [01:09:14,979 - 01:09:16,120] and let's call it m
+- [01:09:17,700 - 01:09:18,540] Let's call it m
+- [01:09:18,540 - 01:09:21,080] It is connected with the mass of a particle
+- [01:09:21,080 - 01:09:22,979] But it differs from the mass of a particle
+- [01:09:22,979 - 01:09:25,060] Described as a quantum of the field
+- [01:09:25,060 - 01:09:26,720] By a factor of h bar
+- [01:09:26,720 - 01:09:28,240] That's why I didn't want to call it m
+- [01:09:28,240 - 01:09:29,319] But never mind,
+- [01:09:29,319 - 01:09:29,859] I don't want to
+- [01:09:30,479 - 01:09:31,420] You are right,
+- [01:09:31,420 - 01:09:31,740] we
+- [01:09:33,040 - 01:09:34,279] h bar is equal to one
+- [01:09:35,960 - 01:09:36,600] m squared
+- [01:09:38,560 - 01:09:38,920] Yes,
+- [01:09:38,920 - 01:09:40,600] but of course since we're doing classical physics
+- [01:09:40,600 - 01:09:42,160] That means h bar is equal to zero
+- [01:09:43,819 - 01:09:44,180] So
+- [01:09:44,180 - 01:09:44,500] So
+- [01:09:47,040 - 01:09:49,140] But all the stars are there
+- [01:09:49,140 - 01:09:49,580] Yeah
+- [01:09:51,879 - 01:09:54,840] But phi star phi is also real,
+- [01:09:54,840 - 01:09:55,660] pure real
+- [01:09:55,660 - 01:09:57,600] And so this is also zero
+- [01:09:57,600 - 01:09:59,440] So the whole damn thing is zero
+- [01:10:00,379 - 01:10:01,860] The whole thing is zero
+- [01:10:02,620 - 01:10:05,460] But not as an identity
+- [01:10:05,460 - 01:10:07,460] But by virtue of the field equations
+- [01:10:07,460 - 01:10:10,620] By virtue of setting this thing equal to this thing
+- [01:10:10,620 - 01:10:11,900] That's the field equations
+- [01:10:12,500 - 01:10:13,260] In other words,
+- [01:10:13,260 - 01:10:14,240] for any solution
+- [01:10:14,500 - 01:10:15,480] Of the equations of motion
+- [01:10:16,599 - 01:10:19,020] Not for any old phi that you can write down
+- [01:10:19,020 - 01:10:21,120] But for any phi which satisfies
+- [01:10:21,120 - 01:10:22,660] The equations of motion
+- [01:10:24,379 - 01:10:24,900] This
+- [01:10:27,179 - 01:10:27,700] Derivative
+- [01:10:27,700 - 01:10:29,240] D mu j mu
+- [01:10:31,379 - 01:10:32,460] Is equal to zero
+- [01:10:32,460 - 01:10:34,240] Is equal to zero
+- [01:10:35,259 - 01:10:36,540] Again I'll repeat why
+- [01:10:36,540 - 01:10:37,760] This is real
+- [01:10:37,760 - 01:10:39,800] It's imaginary part is zero
+- [01:10:39,800 - 01:10:42,000] This is not obviously real
+- [01:10:42,559 - 01:10:44,480] But the equations of motion tell us
+- [01:10:44,500 - 01:10:46,840] That it's equal to phi star m squared phi
+- [01:10:47,820 - 01:10:49,620] One phi star comes from here
+- [01:10:49,620 - 01:10:51,940] The other phi comes from the equation of motion
+- [01:10:53,160 - 01:10:56,000] So the continuity equation is indeed satisfied
+- [01:10:59,420 - 01:11:00,380] So that's
+- [01:11:00,380 - 01:11:03,900] That in itself doesn't establish
+- [01:11:04,240 - 01:11:06,680] That this is the electric charge of anything
+- [01:11:07,839 - 01:11:08,880] What it is
+- [01:11:08,880 - 01:11:13,780] Is the electric charge of the assembly of charged particles
+- [01:11:13,780 - 01:11:16,520] That might be the quanta of the phi field
+- [01:11:22,720 - 01:11:26,480] But it doesn't prove that this is charge
+- [01:11:27,140 - 01:11:29,240] What it does is it makes this a candidate
+- [01:11:29,240 - 01:11:30,700] It's a conserved quantity
+- [01:11:30,700 - 01:11:33,240] A quantity which satisfies a continuity equation
+- [01:11:33,780 - 01:11:35,660] And it makes it a possible candidate
+- [01:11:35,660 - 01:11:38,020] For a mathematical description of charge
+- [01:11:38,020 - 01:11:40,070] And we're not going to go
+- [01:11:40,070 - 01:11:42,120] more deeply into that right now
+- [01:11:42,120 - 01:11:43,760] Well isn't that enough to say that
+- [01:11:43,760 - 01:11:45,840] It's a sum quantity or something
+- [01:11:46,840 - 01:11:47,380] It's,
+- [01:11:47,380 - 01:11:47,740] yes
+- [01:11:48,680 - 01:11:49,220] Yes,
+- [01:11:49,220 - 01:11:50,620] if we knew a little more
+- [01:11:50,620 - 01:11:51,960] I would make a more complete argument
+- [01:11:51,960 - 01:11:53,390] But for the moment it
+- [01:11:53,390 - 01:11:54,820] just establishes it as a candidate
+- [01:11:54,820 - 01:11:56,020] For an interesting quantity
+- [01:11:56,680 - 01:11:57,760] That's conserved
+- [01:11:57,760 - 01:11:59,860] That satisfies a continuity equation
+- [01:12:00,720 - 01:12:02,800] And among such quantities in physics
+- [01:12:02,800 - 01:12:03,800] Are electric charge
+- [01:12:05,620 - 01:12:06,160] Now
+- [01:12:07,540 - 01:12:09,140] We'll come back to this
+- [01:12:09,720 - 01:12:11,660] You asked me about isotopic spin
+- [01:12:11,660 - 01:12:12,700] I'll tell you very quickly
+- [01:12:12,700 - 01:12:14,980] Isotopic spin of course has to do with nuclear physics
+- [01:12:14,980 - 01:12:17,460] And it's connected with all of this
+- [01:12:17,460 - 01:12:18,540] But I'll just tell you very quickly
+- [01:12:18,540 - 01:12:20,580] We imagine the theory here
+- [01:12:20,580 - 01:12:23,580] In which the field had two components
+- [01:12:23,580 - 01:12:24,860] Phi one and phi two
+- [01:12:25,419 - 01:12:28,100] And the symmetry was an invariance
+- [01:12:28,100 - 01:12:29,920] With respect to rotation in the plane
+- [01:12:31,320 - 01:12:33,040] In the theory of isotopic spin
+- [01:12:33,040 - 01:12:34,960] Which is not a theory of electric charge
+- [01:12:34,960 - 01:12:36,860] Well it can be partly a theory
+- [01:12:36,860 - 01:12:38,560] But the theory of isotopic spin
+- [01:12:39,480 - 01:12:42,680] Is just basically a theory with three
+- [01:12:42,680 - 01:12:44,320] With three components
+- [01:12:44,320 - 01:12:47,660] In which there are three axes to the fields
+- [01:12:47,660 - 01:12:50,240] Which are rotationally invariant in three dimensions
+- [01:12:50,240 - 01:12:51,780] Internal dimensions,
+- [01:12:51,780 - 01:12:52,800] not real dimensions
+- [01:12:52,800 - 01:12:53,960] But internal dimensions
+- [01:12:54,680 - 01:12:58,040] And otherwise is extremely similar to this
+- [01:12:59,320 - 01:13:01,760] So the pattern would be the same
+- [01:13:05,580 - 01:13:09,420] What happens to angular momentum in three dimensional world?
+- [01:13:10,640 - 01:13:11,900] Angular momentum
+- [01:13:12,680 - 01:13:13,920] If there's only two axes
+- [01:13:13,920 - 01:13:15,760] Is either plus or minus
+- [01:13:15,760 - 01:13:17,240] Goes this way or goes this way
+- [01:13:17,240 - 01:13:18,860] What about angular momentum when
+- [01:13:18,860 - 01:13:20,480] you're in a three dimensional world?
+- [01:13:21,820 - 01:13:22,860] It becomes a vector
+- [01:13:22,860 - 01:13:23,820] It becomes a vector
+- [01:13:23,820 - 01:13:25,400] Which means that that's three components
+- [01:13:26,360 - 01:13:26,840] Right
+- [01:13:26,840 - 01:13:27,500] Right,
+- [01:13:27,500 - 01:13:28,560] three distinct components
+- [01:13:29,340 - 01:13:31,380] Any one of which could be positive or negative
+- [01:13:31,380 - 01:13:33,270] And the isotopic spin is a
+- [01:13:33,270 - 01:13:35,160] thing which has three distinct components
+- [01:13:36,440 - 01:13:39,600] And so in a certain sense it describes three charges
+- [01:13:39,600 - 01:13:40,660] Not just one charge
+- [01:13:40,660 - 01:13:41,380] But let's not
+- [01:13:42,860 - 01:13:43,620] All right,
+- [01:13:43,620 - 01:13:45,030] I want to talk a
+- [01:13:45,030 - 01:13:46,440] little more about energy and momentum
+- [01:13:46,440 - 01:13:47,660] In relativity
+- [01:13:49,299 - 01:13:52,640] And its connection in particular with mass
+- [01:13:52,640 - 01:13:54,740] And its connection with this guy over here
+- [01:13:55,500 - 01:13:58,020] I don't think we'll get to the full story tonight
+- [01:13:58,680 - 01:14:00,060] We'll continue it next time
+- [01:14:00,500 - 01:14:01,980] But I want to get to the story
+- [01:14:01,980 - 01:14:04,520] I want to go back to ordinary special relativity
+- [01:14:04,520 - 01:14:06,220] Let's forget field theory
+- [01:14:06,220 - 01:14:08,720] And let's talk about the motion of particles
+- [01:14:08,720 - 01:14:11,000] In ordinary relativity theory
+- [01:14:11,000 - 01:14:14,600] And identify in ordinary relativity theory
+- [01:14:14,600 - 01:14:16,960] The energy and momentum of a particle
+- [01:14:24,740 - 01:14:25,280] Oh,
+- [01:14:25,280 - 01:14:26,120] I know how we can do this
+- [01:14:26,120 - 01:14:28,180] We can do this by the method of Lagrangians
+- [01:14:30,940 - 01:14:31,480] However,
+- [01:14:31,480 - 01:14:32,040] we won't
+- [01:14:33,840 - 01:14:35,000] Maybe next time
+- [01:14:38,780 - 01:14:40,500] On further reflection
+- [01:14:40,500 - 01:14:43,060] I think I won't
+- [01:14:43,900 - 01:14:44,720] All right
+- [01:14:45,920 - 01:14:48,660] There's a concept of momentum in non-relativistic physics
+- [01:14:48,660 - 01:14:49,660] It's mass times velocity
+- [01:14:49,660 - 01:14:53,360] The concept of momentum in relativistic physics
+- [01:14:53,360 - 01:14:54,800] Is also mass times velocity
+- [01:14:54,800 - 01:14:57,700] Those of you who have taken my class previously
+- [01:14:57,700 - 01:14:59,420] In relativity and things
+- [01:15:00,240 - 01:15:03,940] Would know that it's not mass times ordinary velocity
+- [01:15:03,940 - 01:15:06,100] But it's mass times four velocity
+- [01:15:06,919 - 01:15:10,460] The ordinary velocity is the components of a three vector
+- [01:15:10,460 - 01:15:11,160] Mass times
+- [01:15:12,219 - 01:15:13,760] What am I saying?
+- [01:15:13,880 - 01:15:16,800] Ordinary momentum is a component of a three vector
+- [01:15:16,800 - 01:15:20,820] And that three vector involves the three vector of velocity
+- [01:15:20,820 - 01:15:24,420] The three vector of velocity is
+- [01:15:24,640 - 01:15:27,100] The three components of spatial position
+- [01:15:27,940 - 01:15:31,380] Their derivative with respect to time
+- [01:15:31,380 - 01:15:32,460] In other words,
+- [01:15:32,460 - 01:15:32,680] dx,
+- [01:15:32,680 - 01:15:33,220] dt,
+- [01:15:33,220 - 01:15:33,740] dy,
+- [01:15:33,740 - 01:15:33,920] etc.
+- [01:15:35,400 - 01:15:36,560] Let's just write dx,
+- [01:15:36,560 - 01:15:37,940] dt as one of them
+- [01:15:39,280 - 01:15:42,120] The four vector of velocity
+- [01:15:43,360 - 01:15:44,680] Is a four vector
+- [01:15:47,660 - 01:15:51,380] And it's the derivative not with respect to ordinary time
+- [01:15:51,380 - 01:15:53,620] But with respect to proper time
+- [01:15:54,580 - 01:15:55,740] Let's call it tau
+- [01:15:55,740 - 01:15:59,560] It has four components including a time component
+- [01:15:59,560 - 01:16:03,260] So there's a notion of the time component of velocity
+- [01:16:03,260 - 01:16:03,900] That's the time component of velocity
+- [01:16:03,920 - 01:16:05,640] And the velocity forms a four vector
+- [01:16:05,640 - 01:16:07,200] Now this is obviously a four vector
+- [01:16:07,759 - 01:16:09,180] Tau is proper time
+- [01:16:09,700 - 01:16:10,600] It's invariant,
+- [01:16:10,600 - 01:16:11,220] it's a scalar
+- [01:16:11,920 - 01:16:14,280] X is a vector or dx is a vector
+- [01:16:14,280 - 01:16:15,680] And so this is a four vector
+- [01:16:15,680 - 01:16:17,300] But before we go on,
+- [01:16:17,300 - 01:16:19,060] let me remind you what d tau is
+- [01:16:20,320 - 01:16:22,560] d tau is a thing whose square
+- [01:16:23,780 - 01:16:27,340] Is dt squared minus dx squared
+- [01:16:31,900 - 01:16:34,180] Minus dy squared minus dy squared
+- [01:16:34,180 - 01:16:37,160] I need a notion for the square of three vectors
+- [01:16:37,160 - 01:16:39,640] I need a notation for the square of three vectors
+- [01:16:40,540 - 01:16:43,860] Let's just call it dx vector squared
+- [01:16:44,940 - 01:16:45,600] Like that
+- [01:16:45,600 - 01:16:46,700] It stands for dx squared,
+- [01:16:46,700 - 01:16:47,260] dy squared,
+- [01:16:47,260 - 01:16:48,080] and dz squared
+- [01:16:49,160 - 01:16:50,140] That's d tau squared
+- [01:16:50,140 - 01:16:51,400] Now there's some speeds of light in there
+- [01:16:51,400 - 01:16:52,460] Where do the speeds of light go?
+- [01:16:56,160 - 01:16:57,320] I think usually it's d tau squared
+- [01:16:57,340 - 01:16:58,120] I really like to put them here
+- [01:17:00,140 - 01:17:01,380] Some people like to put it
+- [01:17:01,380 - 01:17:02,620] in front of the dt squared
+- [01:17:03,240 - 01:17:04,450] But then d tau doesn't
+- [01:17:04,450 - 01:17:05,660] have the same units as dt
+- [01:17:06,200 - 01:17:07,480] And so proper time and
+- [01:17:07,480 - 01:17:08,760] time don't have the same units
+- [01:17:08,760 - 01:17:09,740] I want proper time and
+- [01:17:09,740 - 01:17:10,720] time to have the same units
+- [01:17:10,720 - 01:17:12,060] So I put the c squared down here
+- [01:17:12,900 - 01:17:14,850] And then since c is one
+- [01:17:14,850 - 01:17:16,800] and one is zero and uh
+- [01:17:17,520 - 01:17:17,920] No
+- [01:17:21,600 - 01:17:22,220] Let's just
+- [01:17:23,040 - 01:17:24,920] I'll tell you where the c's go when
+- [01:17:24,920 - 01:17:26,800] it's important to know where the c's go
+- [01:17:26,800 - 01:17:27,320] But for the moment
+- [01:17:27,340 - 01:17:28,440] c is equal to one
+- [01:17:29,140 - 01:17:29,420] Alright,
+- [01:17:29,420 - 01:17:30,480] this is d tau squared
+- [01:17:30,480 - 01:17:33,610] d tau is of course square
+- [01:17:33,610 - 01:17:36,740] root of dt squared minus dx squared
+- [01:17:37,340 - 01:17:39,880] But now let's divide and multiply
+- [01:17:42,159 - 01:17:43,280] By dt
+- [01:17:43,280 - 01:17:46,540] Let's put a dt here and a dt here
+- [01:17:47,340 - 01:17:48,240] Now I've done nothing
+- [01:17:48,240 - 01:17:50,810] But now I want to bring
+- [01:17:50,810 - 01:17:53,380] the denominator dt into the square root
+- [01:17:54,740 - 01:17:56,640] To do so I have to square it
+- [01:18:02,140 - 01:18:02,800] So I'm going to do this
+- [01:18:02,800 - 01:18:02,800] Okay,
+- [01:18:02,800 - 01:18:04,460] dt squared over t squared
+- [01:18:04,460 - 01:18:05,080] What is that?
+- [01:18:05,440 - 01:18:07,140] dt squared over dt squared
+- [01:18:07,140 - 01:18:07,640] That's one
+- [01:18:09,360 - 01:18:10,020] One
+- [01:18:10,020 - 01:18:14,200] Now what is dx squared or dx vector squared
+- [01:18:15,840 - 01:18:17,260] Divided by dt squared
+- [01:18:17,260 - 01:18:21,300] Three dimensional square or the three dimensional velocity
+- [01:18:22,580 - 01:18:25,060] Minus v vector squared
+- [01:18:25,060 - 01:18:27,220] One minus v squared
+- [01:18:28,680 - 01:18:30,050] Since I'm squaring it I don't
+- [01:18:30,050 - 01:18:31,420] even have to put the uh
+- [01:18:31,420 - 01:18:34,300] It just means by definition the sums of the squares
+- [01:18:35,080 - 01:18:35,560] Good
+- [01:18:35,560 - 01:18:36,900] Now where would the speed
+- [01:18:36,900 - 01:18:38,240] of light go in this formula?
+- [01:18:39,280 - 01:18:40,120] Under the v
+- [01:18:40,980 - 01:18:42,460] v squared over c squared
+- [01:18:43,400 - 01:18:45,340] That means for ordinary velocities
+- [01:18:45,920 - 01:18:47,000] Let's put it in for the moment
+- [01:18:47,000 - 01:18:48,690] For ordinary velocities small by
+- [01:18:48,690 - 01:18:50,380] comparison with the speed of light
+- [01:18:51,000 - 01:18:53,760] d tau and dt are almost the same thing
+- [01:19:00,000 - 01:19:01,930] They're almost the same thing to
+- [01:19:01,930 - 01:19:03,860] within a very very small correction
+- [01:19:03,860 - 01:19:05,520] But for velocities up near the
+- [01:19:05,520 - 01:19:07,180] speed of light it's pretty important
+- [01:19:07,879 - 01:19:09,320] Let's write this one other way
+- [01:19:09,320 - 01:19:11,240] d tau divided by dt
+- [01:19:11,919 - 01:19:12,960] Or better yet
+- [01:19:12,960 - 01:19:15,160] dt divided by d tau
+- [01:19:17,879 - 01:19:20,479] Is equal to one divided by the square
+- [01:19:20,479 - 01:19:23,080] root of one minus v squared over c squared
+- [01:19:23,080 - 01:19:24,280] And let's just
+- [01:19:24,840 - 01:19:26,220] We'll put back the c when
+- [01:19:26,220 - 01:19:27,600] we need it for various purposes
+- [01:19:27,600 - 01:19:28,760] Don't you have a
+- [01:19:28,760 - 01:19:31,460] Isn't it dtc on the outside?
+- [01:19:32,780 - 01:19:33,240] No
+- [01:19:33,240 - 01:19:34,040] No
+- [01:19:35,720 - 01:19:36,180] No
+- [01:19:36,820 - 01:19:38,150] To put the c inside you
+- [01:19:38,150 - 01:19:39,480] have to put the c outside
+- [01:19:40,120 - 01:19:42,460] No no no I'm not
+- [01:19:43,940 - 01:19:44,860] No no that's right
+- [01:19:44,860 - 01:19:45,580] That's right
+- [01:19:46,500 - 01:19:48,750] To restore the units I realized that
+- [01:19:48,750 - 01:19:51,000] tau and t have exactly the same units
+- [01:19:51,940 - 01:19:53,100] So I can't put a c
+- [01:19:53,100 - 01:19:54,260] out here that would change the formula
+- [01:19:54,280 - 01:19:55,250] So I can't put a c out here that would change
+- [01:19:55,250 - 01:19:56,220] the units of the left hand side and the right hand side
+- [01:19:57,760 - 01:20:01,040] But v by itself
+- [01:20:01,040 - 01:20:02,520] One has no units
+- [01:20:02,520 - 01:20:03,620] One is dimensionless
+- [01:20:04,219 - 01:20:05,649] And so v squared over
+- [01:20:05,649 - 01:20:07,080] c squared has to be dimensionless
+- [01:20:08,220 - 01:20:09,430] So that means it's got the
+- [01:20:09,430 - 01:20:10,640] it's the ratio of v to c
+- [01:20:10,640 - 01:20:10,920] It's right
+- [01:20:12,300 - 01:20:12,740] Okay
+- [01:20:13,680 - 01:20:14,120] Yeah
+- [01:20:14,560 - 01:20:15,000] Good
+- [01:20:17,100 - 01:20:19,680] Now let's compute the various
+- [01:20:19,680 - 01:20:22,260] components of the four velocity
+- [01:20:22,260 - 01:20:25,140] The first component of the four velocity
+- [01:20:25,140 - 01:20:26,880] Or the zeroth component
+- [01:20:26,880 - 01:20:29,060] Is dt by d tau
+- [01:20:29,060 - 01:20:31,000] And here it is
+- [01:20:32,000 - 01:20:34,310] One over the square root of
+- [01:20:34,310 - 01:20:36,620] one minus v squared over c squared
+- [01:20:36,620 - 01:20:37,340] But I'll leave that
+- [01:20:37,340 - 01:20:39,120] Now what about the x component
+- [01:20:39,120 - 01:20:42,580] The x component is dx by d tau
+- [01:20:43,839 - 01:20:46,620] But let's write that as dx by dt
+- [01:20:49,980 - 01:20:52,240] Times dt by d tau
+- [01:20:53,900 - 01:20:55,600] But what is dt by d tau
+- [01:20:55,600 - 01:20:56,940] It's one over the square
+- [01:20:56,940 - 01:20:58,280] root of one minus v squared
+- [01:20:59,419 - 01:21:00,480] So that means
+- [01:21:00,480 - 01:21:01,960] Let's write the equation
+- [01:21:01,960 - 01:21:03,260] Let's write the equation properly
+- [01:21:04,059 - 01:21:05,700] dx by d tau
+- [01:21:07,119 - 01:21:09,500] Is equal to dx by dt
+- [01:21:12,200 - 01:21:13,920] Times dt by d tau
+- [01:21:13,920 - 01:21:15,750] Which is the same one over
+- [01:21:15,750 - 01:21:17,580] square root of one minus v squared
+- [01:21:18,959 - 01:21:20,500] But what is dx by dt
+- [01:21:20,500 - 01:21:22,060] Times dt by dt
+- [01:21:22,060 - 01:21:24,480] That's just the x component of the velocity
+- [01:21:27,020 - 01:21:27,460] vx
+- [01:21:29,580 - 01:21:30,020] Alright,
+- [01:21:30,020 - 01:21:31,260] let's put back the c squares
+- [01:21:31,260 - 01:21:33,620] The only place there's a c squared is over here
+- [01:21:35,040 - 01:21:36,770] One minus v squared over c
+- [01:21:36,770 - 01:21:38,500] squared is where the c's go
+- [01:21:39,860 - 01:21:40,780] Also over here
+- [01:21:42,560 - 01:21:45,000] These are now the components of a four vector
+- [01:21:49,300 - 01:21:50,480] Well these are the four vectors
+- [01:21:50,480 - 01:21:51,980] So the first two components of a four vector
+- [01:21:51,980 - 01:21:55,500] The other components would involve a vy and a vz
+- [01:21:56,860 - 01:21:58,340] So here's our four vector
+- [01:21:58,340 - 01:21:58,460] Yeah
+- [01:21:59,298 - 01:21:59,958] 算了
+- [01:22:07,810 - 01:22:13,560] x mu by d tau consists of 1 over the square
+- [01:22:13,560 - 01:22:19,310] root of 1 minus v squared and v over the square
+- [01:22:19,310 - 01:22:20,550] root of 1 minus v squared.
+- [01:22:23,230 - 01:22:24,370] That's our four vector.
+- [01:22:24,750 - 01:22:26,440] One component over here and
+- [01:22:26,440 - 01:22:28,130] then three more components over here.
+- [01:22:29,870 - 01:22:31,690] Now let's move on to momentum.
+- [01:22:33,510 - 01:22:35,300] Momentum in non-relativistic physics
+- [01:22:35,300 - 01:22:37,090] is just mass times velocity.
+- [01:22:38,930 - 01:22:41,990] Velocity means ordinarily dx by dt.
+- [01:22:42,710 - 01:22:44,770] It's not a very good quantity from
+- [01:22:44,770 - 01:22:46,830] the point of view of relativistic physics.
+- [01:22:46,990 - 01:22:49,090] It doesn't have a distinct transformation property.
+- [01:22:49,190 - 01:22:50,710] It's dx by d tau
+- [01:22:50,710 - 01:22:52,230] that has the good transformation property.
+- [01:22:52,970 - 01:22:54,650] So it was Einstein's guess,
+- [01:22:54,650 - 01:22:56,210] and then he confirmed that
+- [01:22:56,210 - 01:22:57,770] guess by various Godonkin experiments,
+- [01:22:58,450 - 01:23:01,010] that when you go from Newton...
+- [01:23:01,010 - 01:23:02,530] to special relativity,
+- [01:23:02,530 - 01:23:04,790] you should replace mv,
+- [01:23:04,790 - 01:23:07,290] or m dx by dt,
+- [01:23:07,290 - 01:23:10,530] by m dx by d tau.
+- [01:23:16,130 - 01:23:19,350] And that would wind up being the momentum,
+- [01:23:19,350 - 01:23:22,810] the x component of momentum of a particle.
+- [01:23:26,269 - 01:23:29,430] Just the usual three components of momentum.
+- [01:23:29,430 - 01:23:31,070] All right,
+- [01:23:31,070 - 01:23:31,890] so what does that mean now?
+- [01:23:32,050 - 01:23:34,310] Here is dx by d tau,
+- [01:23:34,310 - 01:23:37,030] and what it says then is that
+- [01:23:37,030 - 01:23:39,750] this is equal to the mass times the
+- [01:23:39,750 - 01:23:40,570] velocity...
+- [01:23:40,570 - 01:23:42,470] Here's the three components...
+- [01:23:43,030 - 01:23:45,210] Divided by square root of 1 minus v squared.
+- [01:23:46,870 - 01:23:47,430] Now,
+- [01:23:47,430 - 01:23:48,690] as Einstein made the guess,
+- [01:23:48,690 - 01:23:53,810] based on his rule that everything should have distinct
+- [01:23:53,810 - 01:23:55,890] and good transformation
+- [01:23:55,890 - 01:23:57,970] properties under Lorentz transformations...
+- [01:23:57,970 - 01:24:00,780] That the momentum of ordinary non-relativistic
+- [01:24:00,780 - 01:24:03,590] physics would get corrected by a factor
+- [01:24:03,590 - 01:24:04,790] of square root of 1
+- [01:24:04,790 - 01:24:05,990] minus v squared in the denominator.
+- [01:24:06,830 - 01:24:09,130] A very small correction when v is small,
+- [01:24:09,130 - 01:24:12,410] especially when v over c is small,
+- [01:24:12,410 - 01:24:14,450] a very small correction,
+- [01:24:15,130 - 01:24:17,360] not worth very much when the
+- [01:24:17,360 - 01:24:19,590] velocity of an object is small.
+- [01:24:20,030 - 01:24:21,450] It gets a little bit sick when
+- [01:24:21,450 - 01:24:22,870] you get up near the speed of light.
+- [01:24:23,350 - 01:24:25,470] When v gets up near the speed of light,
+- [01:24:25,470 - 01:24:26,530] you get a denominator,
+- [01:24:26,530 - 01:24:27,890] which gets closer and closer
+- [01:24:27,890 - 01:24:28,230] to zero,
+- [01:24:28,230 - 01:24:30,070] so the momentum gets very much
+- [01:24:30,070 - 01:24:31,910] bigger than just mass times velocity.
+- [01:24:34,010 - 01:24:35,050] But that's okay.
+- [01:24:35,210 - 01:24:36,250] This was his formula,
+- [01:24:36,250 - 01:24:37,630] and it is the correct formula.
+- [01:24:38,250 - 01:24:39,350] Now the question is,
+- [01:24:39,350 - 01:24:40,330] what is the fourth component?
+- [01:24:41,230 - 01:24:43,730] The fourth component here was something new.
+- [01:24:46,150 - 01:24:48,760] The fourth component would be
+- [01:24:48,760 - 01:24:51,370] m times dt by d tau.
+- [01:24:54,230 - 01:24:56,570] And that's just the mass.
+- [01:24:57,310 - 01:24:57,870] Okay?
+- [01:24:59,450 - 01:25:00,090] So,
+- [01:25:00,090 - 01:25:01,390] let's call it p0,
+- [01:25:01,390 - 01:25:05,110] the time component of the momentum,
+- [01:25:05,110 - 01:25:06,230] whatever that means.
+- [01:25:06,730 - 01:25:10,090] And that will wind up being just the mass
+- [01:25:10,090 - 01:25:13,450] divided by the square root of 1 minus v squared
+- [01:25:13,450 - 01:25:14,690] over c squared.
+- [01:25:20,710 - 01:25:24,490] That's just multiplying the mass by dt by d tau.
+- [01:25:25,370 - 01:25:26,590] So Einstein said,
+- [01:25:26,590 - 01:25:27,370] what is this thing?
+- [01:25:29,530 - 01:25:30,130] It's a constant.
+- [01:25:30,130 - 01:25:31,970] And he realized very quickly that it
+- [01:25:31,970 - 01:25:33,810] was just the kinetic energy of the particle.
+- [01:25:34,050 - 01:25:35,590] It was the kinetic energy,
+- [01:25:35,590 - 01:25:37,130] and that indeed,
+- [01:25:37,130 - 01:25:39,370] just as with Newtonian physics,
+- [01:25:39,370 - 01:25:40,770] a free particle
+- [01:25:40,770 - 01:25:43,510] would have four conservation laws,
+- [01:25:43,510 - 01:25:45,570] three of momentum and one of energy.
+- [01:25:47,290 - 01:25:47,890] Now,
+- [01:25:47,890 - 01:25:51,250] if it's not quite right,
+- [01:25:51,250 - 01:25:52,630] the factors of c aren't quite
+- [01:25:52,630 - 01:25:54,010] in the right place to define
+- [01:25:55,070 - 01:25:56,870] conventional units of energy.
+- [01:25:57,130 - 01:25:57,870] What do I do?
+- [01:25:57,890 - 01:25:58,920] What do I have to do to
+- [01:25:58,920 - 01:25:59,950] get conventional units of energy in there?
+- [01:26:04,610 - 01:26:06,350] Two powers of c in the numerator.
+- [01:26:11,530 - 01:26:12,010] So,
+- [01:26:12,010 - 01:26:12,450] let's,
+- [01:26:12,450 - 01:26:13,690] if I call it p0,
+- [01:26:13,690 - 01:26:14,670] this is correct.
+- [01:26:14,970 - 01:26:17,050] But if I want to identify that with energy,
+- [01:26:17,050 - 01:26:20,090] I have to write that there's another factor
+- [01:26:20,090 - 01:26:20,770] of c squared,
+- [01:26:20,770 - 01:26:23,820] mc squared divided by square root of
+- [01:26:23,820 - 01:26:26,870] 1 minus v squared over c squared.
+- [01:26:28,190 - 01:26:28,870] All right.
+- [01:26:28,889 - 01:26:30,030] So for particle at rest,
+- [01:26:30,030 - 01:26:30,750] v equals 0.
+- [01:26:30,890 - 01:26:32,090] Its energy is mc squared.
+- [01:26:33,590 - 01:26:35,690] And the fact that it's c squared here,
+- [01:26:35,690 - 01:26:36,370] that's a convention,
+- [01:26:36,370 - 01:26:38,010] or it just makes it consistent
+- [01:26:38,010 - 01:26:40,450] with non-relativistic units.
+- [01:26:40,570 - 01:26:41,570] But let's leave it there.
+- [01:26:42,130 - 01:26:44,070] E is equal to mc squared over the square
+- [01:26:44,070 - 01:26:46,010] root of 1 minus v squared over c squared.
+- [01:26:46,150 - 01:26:47,030] But basically,
+- [01:26:47,030 - 01:26:50,540] what it is is the time component of
+- [01:26:50,540 - 01:26:54,050] a four vector which is composed out of
+- [01:26:54,050 - 01:26:56,010] the mass times the four velocity.
+- [01:26:56,750 - 01:26:58,310] That's energy and momentum.
+- [01:27:01,710 - 01:27:04,530] Shall we work out that what this,
+- [01:27:04,530 - 01:27:06,410] let's work out a little further.
+- [01:27:09,230 - 01:27:11,010] Let's calculate what this is when
+- [01:27:11,010 - 01:27:12,790] v over c is very small.
+- [01:27:14,030 - 01:27:15,270] When v over c,
+- [01:27:15,270 - 01:27:16,670] we use the binomial theorem,
+- [01:27:16,670 - 01:27:19,550] the thing that's in the denominator is 1 minus
+- [01:27:19,550 - 01:27:21,710] v squared over c squared
+- [01:27:21,710 - 01:27:23,870] to the minus 1 half power.
+- [01:27:23,870 - 01:27:26,970] All times mc squared.
+- [01:27:29,730 - 01:27:31,770] Now anybody remember the binomial theorem
+- [01:27:31,770 - 01:27:33,810] well enough to expand this out?
+- [01:27:38,390 - 01:27:40,950] One plus 1 half v squared over c squared.
+- [01:27:42,190 - 01:27:43,650] Plus higher orders.
+- [01:27:44,590 - 01:27:47,370] This is equal to 1 plus
+- [01:27:47,370 - 01:27:50,150] v squared over 2 c squared.
+- [01:27:50,990 - 01:27:53,390] All times mc squared.
+- [01:27:58,010 - 01:27:59,490] That's the expansion of this.
+- [01:27:59,670 - 01:28:01,650] Remember that v over c is very small.
+- [01:28:01,810 - 01:28:03,490] v squared over c squared is very small.
+- [01:28:04,090 - 01:28:06,010] And if you expand it in
+- [01:28:06,010 - 01:28:07,930] powers of v squared over c squared,
+- [01:28:07,930 - 01:28:09,810] the first correction to 1
+- [01:28:09,810 - 01:28:10,870] starts with 1,
+- [01:28:10,870 - 01:28:13,170] then v squared over 2 c squared,
+- [01:28:13,170 - 01:28:15,610] and then things which are truly incredibly
+- [01:28:15,610 - 01:28:16,250] small,
+- [01:28:16,250 - 01:28:19,070] v to the fourth over c to the fourth,
+- [01:28:19,070 - 01:28:19,930] those are really,
+- [01:28:19,930 - 01:28:20,550] really small.
+- [01:28:21,110 - 01:28:22,870] Much smaller than this.
+- [01:28:23,270 - 01:28:23,750] Now,
+- [01:28:23,750 - 01:28:23,850] let's look at the next one.
+- [01:28:23,870 - 01:28:23,950] Now,
+- [01:28:23,950 - 01:28:25,030] what does this give us?
+- [01:28:25,110 - 01:28:26,490] This gives us mc squared.
+- [01:28:27,950 - 01:28:28,990] That's good old,
+- [01:28:28,990 - 01:28:32,050] famous Einstein mc squared.
+- [01:28:32,650 - 01:28:43,830] Plus the mass times v squared over 2,
+- [01:28:43,830 - 01:28:46,190] and the c squares cancel.
+- [01:28:46,550 - 01:28:47,870] C squared in the denominator
+- [01:28:47,870 - 01:28:49,190] and c squared in the numerator.
+- [01:28:49,950 - 01:28:50,550] Okay,
+- [01:28:50,550 - 01:28:51,230] so what do we get?
+- [01:28:51,350 - 01:28:53,370] We get mc squared.
+- [01:28:53,390 - 01:28:53,850] The rest of the square.
+- [01:28:53,870 - 01:28:55,680] The rest energy of a
+- [01:28:55,680 - 01:28:57,490] particle plus the ordinary kinetic energy.
+- [01:28:57,830 - 01:28:58,850] And of course,
+- [01:28:58,850 - 01:29:01,980] this was the first indication of
+- [01:29:01,980 - 01:29:05,110] Einstein's idea of e equals mc squared
+- [01:29:07,050 - 01:29:08,590] for an object at rest.
+- [01:29:08,730 - 01:29:09,690] For an object at rest,
+- [01:29:09,690 - 01:29:11,610] e equals mc squared.
+- [01:29:11,870 - 01:29:15,350] And then the first correction is mv squared over 2.
+- [01:29:15,650 - 01:29:18,090] And the higher corrections involve much,
+- [01:29:18,090 - 01:29:20,190] notice that the c's cancel out of here.
+- [01:29:20,490 - 01:29:22,870] The next corrections would truly be small.
+- [01:29:22,870 - 01:29:24,300] The first correction would be small by
+- [01:29:24,300 - 01:29:25,730] diminishing factors of 1 over c squared.
+- [01:29:27,230 - 01:29:27,790] Okay,
+- [01:29:27,790 - 01:29:32,390] I just wanted to make sure that we understood.
+- [01:29:32,850 - 01:29:37,310] The first m is not the proper mass,
+- [01:29:37,310 - 01:29:37,730] I guess.
+- [01:29:38,010 - 01:29:39,350] It is the proper mass.
+- [01:29:39,630 - 01:29:40,990] It's the rest mass.
+- [01:29:43,970 - 01:29:44,710] This m?
+- [01:29:45,010 - 01:29:45,310] Yeah.
+- [01:29:45,450 - 01:29:45,910] Yeah.
+- [01:29:46,470 - 01:29:47,030] Look,
+- [01:29:47,030 - 01:29:50,190] physicists don't even use the term rest mass anymore.
+- [01:29:50,530 - 01:29:50,770] Okay.
+- [01:29:50,770 - 01:29:53,270] But the term rest mass
+- [01:29:53,270 - 01:29:55,770] hasn't been used for 75 years.
+- [01:29:56,610 - 01:29:59,140] Only in elementary physics classes are
+- [01:29:59,140 - 01:30:01,670] the only place where the term,
+- [01:30:01,670 - 01:30:02,370] and even there
+- [01:30:02,370 - 01:30:03,010] I don't think of it.
+- [01:30:03,030 - 01:30:04,450] Or is there a goal to mislead you?
+- [01:30:05,490 - 01:30:06,010] Right.
+- [01:30:06,570 - 01:30:09,230] The mass of the particle is a property
+- [01:30:09,230 - 01:30:11,890] of the particle which doesn't care whether the
+- [01:30:11,890 - 01:30:13,310] particle is moving or not.
+- [01:30:14,370 - 01:30:14,890] Uh.
+- [01:30:16,750 - 01:30:19,690] And it is the energy of the particle when.
+- [01:30:19,830 - 01:30:20,010] Or.
+- [01:30:20,770 - 01:30:21,110] When an object,
+- [01:30:21,110 - 01:30:22,410] when the center of mass
+- [01:30:22,410 - 01:30:23,710] of that object is at rest.
+- [01:30:24,410 - 01:30:25,950] That's the definition of a mass.
+- [01:30:26,290 - 01:30:27,210] Take an object,
+- [01:30:27,210 - 01:30:28,490] it could be a pot of hot water,
+- [01:30:28,490 - 01:30:29,350] it could be,
+- [01:30:29,350 - 01:30:29,710] um,
+- [01:30:29,710 - 01:30:33,590] whatever it happens to be.
+- [01:30:34,470 - 01:30:35,590] Put it at rest,
+- [01:30:35,590 - 01:30:37,090] which means make sure that its
+- [01:30:37,090 - 01:30:38,590] total momentum is equal to zero.
+- [01:30:39,010 - 01:30:40,410] Whatever its energy is,
+- [01:30:40,410 - 01:30:41,330] is called its mass,
+- [01:30:41,330 - 01:30:43,469] within a factor of c squared.
+- [01:30:44,250 - 01:30:44,729] Okay.
+- [01:30:44,810 - 01:30:46,450] So m means rest mass.
+- [01:30:46,830 - 01:30:48,480] I will never ever talk
+- [01:30:48,480 - 01:30:50,130] about rest mass or moving mass.
+- [01:30:50,130 - 01:30:52,030] We'll just talk about mass and it means
+- [01:30:52,030 - 01:30:53,930] what used to be called 10,000 years ago,
+- [01:30:53,930 - 01:30:54,910] uh,
+- [01:30:54,910 - 01:30:55,550] used
+- [01:30:55,550 - 01:30:56,630] to be called the rest mass.
+- [01:30:57,670 - 01:30:58,190] Uh.
+- [01:30:59,710 - 01:31:00,230] Right.
+- [01:31:03,230 - 01:31:03,750] Anyway,
+- [01:31:03,750 - 01:31:05,990] this is energy and momentum.
+- [01:31:06,910 - 01:31:08,650] Now it's kind of interesting,
+- [01:31:08,650 - 01:31:11,220] you get into some very peculiar
+- [01:31:11,220 - 01:31:13,790] mess when you try to think
+- [01:31:13,790 - 01:31:15,710] about particles whose mass is zero.
+- [01:31:15,990 - 01:31:17,410] Looks like their energy is zero.
+- [01:31:17,850 - 01:31:19,330] But the problem is.
+- [01:31:19,330 - 01:31:21,710] When a particle has zero mass,
+- [01:31:21,710 - 01:31:23,380] it also moves at the speed
+- [01:31:23,380 - 01:31:25,050] of light and so the denominator
+- [01:31:25,050 - 01:31:26,210] is also zero.
+- [01:31:26,570 - 01:31:28,170] You get into a nasty,
+- [01:31:28,170 - 01:31:29,010] um,
+- [01:31:29,010 - 01:31:31,310] zero over zero situation.
+- [01:31:31,970 - 01:31:32,510] Uh.
+- [01:31:35,790 - 01:31:37,250] You can see that most
+- [01:31:37,250 - 01:31:38,710] clearly in fact from the momentum.
+- [01:31:39,510 - 01:31:40,050] Well.
+- [01:31:40,650 - 01:31:41,190] Let's,
+- [01:31:41,190 - 01:31:42,310] let's concentrate on the energy.
+- [01:31:42,670 - 01:31:45,200] Both the energy and the momentum have
+- [01:31:45,200 - 01:31:47,730] peculiar things that happen when the velocity goes
+- [01:31:47,730 - 01:31:48,690] to the speed of light.
+- [01:31:49,750 - 01:31:50,270] Okay.
+- [01:31:50,450 - 01:31:52,510] When the velocity goes to the speed of light,
+- [01:31:52,510 - 01:31:56,430] the denominator goes to zero and we don't
+- [01:31:56,430 - 01:31:58,510] like denominators which are equal to zero.
+- [01:32:02,130 - 01:32:05,770] So it's not a good idea to try to
+- [01:32:05,770 - 01:32:09,410] study the limit of massless particles with these equations.
+- [01:32:10,110 - 01:32:11,870] But there's another thing we can do.
+- [01:32:12,230 - 01:32:15,130] Instead of looking at the relationship between
+- [01:32:15,130 - 01:32:18,030] energy and velocity and mass and velocity,
+- [01:32:18,610 - 01:32:19,310] get the idea.
+- [01:32:19,330 - 01:32:21,620] Get the velocity out of it all together
+- [01:32:21,620 - 01:32:23,910] and just look at the relationship between momentum
+- [01:32:23,910 - 01:32:24,930] and energy.
+- [01:32:26,050 - 01:32:27,210] This is where we're going.
+- [01:32:27,470 - 01:32:31,060] I want for future purposes to have the relationship
+- [01:32:31,060 - 01:32:34,650] of the energy to the momentum for a particle
+- [01:32:34,650 - 01:32:34,910] of,
+- [01:32:34,910 - 01:32:36,290] for a particle of mass m.
+- [01:32:36,930 - 01:32:39,970] Without having to worry about what its velocity is.
+- [01:32:40,890 - 01:32:41,370] Alright.
+- [01:32:41,450 - 01:32:42,370] So all we have to do.
+- [01:32:42,470 - 01:32:42,830] Let's see.
+- [01:32:42,950 - 01:32:43,710] Where are we?
+- [01:32:43,770 - 01:32:45,420] Let's write them down over here
+- [01:32:45,420 - 01:32:47,070] and find the relationship between them.
+- [01:32:47,370 - 01:32:47,850] Incidentally.
+- [01:32:47,850 - 01:32:47,970] Incidentally,
+- [01:32:47,970 - 01:32:50,340] that relationship for non-relativistic
+- [01:32:50,340 - 01:32:52,710] physics would just be energy,
+- [01:32:52,710 - 01:32:53,870] kinetic energy
+- [01:32:53,870 - 01:32:54,450] in particular,
+- [01:32:54,450 - 01:32:57,610] is momentum squared divided by twice the mass.
+- [01:32:59,490 - 01:33:01,470] We might also throw in mc squared,
+- [01:33:01,470 - 01:33:02,830] but this would be,
+- [01:33:02,830 - 01:33:04,070] this is the analog of what we're
+- [01:33:04,070 - 01:33:04,510] looking for.
+- [01:33:05,070 - 01:33:06,970] Relation between energy and momentum.
+- [01:33:07,810 - 01:33:09,990] What does that look like in the theory of relativity?
+- [01:33:11,410 - 01:33:11,890] Okay.
+- [01:33:11,930 - 01:33:12,730] So here we have it.
+- [01:33:12,770 - 01:33:17,290] We have energy equals m.
+- [01:33:17,850 - 01:33:20,210] Divided by square root of one minus v squared.
+- [01:33:22,570 - 01:33:23,790] I'll put the c's back.
+- [01:33:24,050 - 01:33:25,430] I don't like carrying them around.
+- [01:33:25,550 - 01:33:26,130] I get confused.
+- [01:33:26,490 - 01:33:29,870] And p is equal to mv over
+- [01:33:29,870 - 01:33:33,250] square root of one minus v squared.
+- [01:33:34,430 - 01:33:34,870] Okay.
+- [01:33:35,130 - 01:33:37,550] The square roots in the denominator are a nuisance.
+- [01:33:38,150 - 01:33:39,370] So to get rid of them,
+- [01:33:39,370 - 01:33:41,280] let's figure out what e squared
+- [01:33:41,280 - 01:33:43,190] is in terms of p squared.
+- [01:33:44,090 - 01:33:46,090] Instead of figuring out e in terms of p,
+- [01:33:46,090 - 01:33:47,830] let's get e squared in terms of p squared.
+- [01:33:47,830 - 01:33:49,690] That'll get rid of the square roots in the denominator.
+- [01:33:50,110 - 01:33:53,630] So e squared is m
+- [01:33:53,630 - 01:33:57,150] squared over one minus v squared.
+- [01:33:57,850 - 01:34:01,660] And p squared is m squared v squared
+- [01:34:01,660 - 01:34:05,470] over square root of one minus v squared.
+- [01:34:05,870 - 01:34:06,430] No.
+- [01:34:06,550 - 01:34:07,230] No square root.
+- [01:34:07,730 - 01:34:09,010] One minus v squared.
+- [01:34:13,930 - 01:34:15,850] Well I could solve for v.
+- [01:34:16,470 - 01:34:17,530] What I could do.
+- [01:34:17,530 - 01:34:18,550] I could do something complicated.
+- [01:34:18,730 - 01:34:20,650] I could solve for v squared from
+- [01:34:20,650 - 01:34:22,570] this equation and then plug it into here.
+- [01:34:23,170 - 01:34:25,010] And that would give me the energy in terms
+- [01:34:25,010 - 01:34:26,850] of the momentum or the momentum in terms of
+- [01:34:26,850 - 01:34:27,150] the energy.
+- [01:34:27,270 - 01:34:28,490] But it's easier to do than that.
+- [01:34:28,910 - 01:34:30,060] All we have to do is
+- [01:34:30,060 - 01:34:31,210] take the difference of these two.
+- [01:34:31,770 - 01:34:33,310] Let's take the difference of these two.
+- [01:34:33,390 - 01:34:34,950] E squared minus p squared.
+- [01:34:37,750 - 01:34:38,630] Let's see what we get.
+- [01:34:39,490 - 01:34:40,430] In the denominator,
+- [01:34:40,430 - 01:34:42,230] we're going to get one minus v squared.
+- [01:34:44,750 - 01:34:46,770] Because both terms have the same denominator.
+- [01:34:47,530 - 01:34:49,430] Both terms also have m squared.
+- [01:34:52,170 - 01:34:54,920] And then this term has one
+- [01:34:54,920 - 01:34:57,670] and this term has minus v squared.
+- [01:34:58,870 - 01:35:01,090] So one minus v squared.
+- [01:35:01,830 - 01:35:02,950] Well that's lucky.
+- [01:35:05,130 - 01:35:08,070] Just e squared minus p squared equals m squared.
+- [01:35:09,230 - 01:35:09,910] Okay.
+- [01:35:09,910 - 01:35:10,570] Okay.
+- [01:35:11,910 - 01:35:12,590] Okay.
+- [01:35:16,830 - 01:35:17,510] Okay.
+- [01:35:19,030 - 01:35:20,670] Now that's not so surprising.
+- [01:35:21,090 - 01:35:24,870] E and p are components of a four vector.
+- [01:35:26,389 - 01:35:29,269] The invariant that you make out of a
+- [01:35:29,269 - 01:35:32,150] four vector is the difference of the squares of
+- [01:35:32,150 - 01:35:34,170] the time components and the space components.
+- [01:35:37,530 - 01:35:38,570] Here's what we have.
+- [01:35:38,710 - 01:35:40,880] We found the difference of the squares
+- [01:35:40,880 - 01:35:43,050] of the time components and the space components
+- [01:35:43,050 - 01:35:44,590] are the square of the mass.
+- [01:35:45,010 - 01:35:46,110] In other words.
+- [01:35:46,110 - 01:35:49,280] The mass is simply the invariant that you
+- [01:35:49,280 - 01:35:52,450] make from the four vector of energy and momentum.
+- [01:35:53,210 - 01:35:54,930] That's another way to think about it.
+- [01:35:55,050 - 01:35:57,010] You have a four vector of energy and momentum.
+- [01:35:59,610 - 01:36:02,200] Then the invariant length of
+- [01:36:02,200 - 01:36:04,790] that four vector is the mass.
+- [01:36:06,170 - 01:36:07,430] Another way to say it.
+- [01:36:07,550 - 01:36:09,570] If the momentum happens to be zero,
+- [01:36:09,570 - 01:36:11,750] then e and m are the same thing.
+- [01:36:12,330 - 01:36:12,810] Okay.
+- [01:36:13,170 - 01:36:13,650] Now,
+- [01:36:13,650 - 01:36:14,640] let's see if we can
+- [01:36:14,640 - 01:36:15,630] figure out where the c's go.
+- [01:36:15,630 - 01:36:17,690] This is pure dimensional analysis.
+- [01:36:24,850 - 01:36:26,030] Where do you want to put it?
+- [01:36:27,050 - 01:36:27,730] Put it here?
+- [01:36:29,670 - 01:36:30,330] Numerator or denominator?
+- [01:36:32,370 - 01:36:32,730] Numerator.
+- [01:36:32,910 - 01:36:34,770] C squared here.
+- [01:36:36,530 - 01:36:37,910] I'll tell you how I know in a minute.
+- [01:36:38,950 - 01:36:41,070] C squared here and c to the fourth here.
+- [01:36:42,050 - 01:36:42,410] Now,
+- [01:36:42,410 - 01:36:43,050] how do we know that?
+- [01:36:43,390 - 01:36:44,090] First of all,
+- [01:36:44,090 - 01:36:44,950] let's forget this term.
+- [01:36:45,250 - 01:36:45,610] Okay.
+- [01:36:45,630 - 01:36:46,870] E squared,
+- [01:36:46,870 - 01:36:48,750] if E equals MC squared,
+- [01:36:48,750 - 01:36:51,970] E squared must be M squared C to the fourth.
+- [01:36:53,150 - 01:36:54,130] So that makes sense.
+- [01:36:55,390 - 01:36:55,790] Now,
+- [01:36:55,790 - 01:36:58,970] energy is typically momentum times velocity.
+- [01:37:00,290 - 01:37:02,130] Even in Newtonian physics,
+- [01:37:02,130 - 01:37:04,410] MV squared,
+- [01:37:04,410 - 01:37:05,510] which is twice,
+- [01:37:05,510 - 01:37:06,810] sorry,
+- [01:37:06,810 - 01:37:09,770] MV squared is velocity times momentum.
+- [01:37:10,529 - 01:37:12,210] So in energy,
+- [01:37:12,210 - 01:37:14,450] this is just unit-wise,
+- [01:37:14,450 - 01:37:16,890] MV squared has units of energy,
+- [01:37:16,890 - 01:37:19,470] velocity times momentum.
+- [01:37:20,429 - 01:37:24,470] So energy has units of momentum times velocity.
+- [01:37:26,250 - 01:37:28,390] That's the basic connection between energy
+- [01:37:28,390 - 01:37:30,530] and momentum for a relativistic system,
+- [01:37:30,530 - 01:37:31,790] for a relativistic particle.
+- [01:37:32,390 - 01:37:37,030] Let's write it just in terms of energy.
+- [01:37:37,170 - 01:37:39,690] It says that energy is equal to the square root.
+- [01:37:41,009 - 01:37:44,729] of momentum squared times C squared plus
+- [01:37:44,729 - 01:37:48,450] mass squared times C to the fourth.
+- [01:37:49,510 - 01:37:51,430] That's a generalization of,
+- [01:37:51,430 - 01:37:53,310] certainly Einstein knew it,
+- [01:37:53,310 - 01:37:57,130] but it's a generalization of Einstein's E equals MC squared.
+- [01:37:58,210 - 01:37:59,910] E equals square root of
+- [01:37:59,910 - 01:38:01,610] M squared C to the fourth,
+- [01:38:01,610 - 01:38:03,350] and then if the object is moving,
+- [01:38:03,350 - 01:38:04,730] it has momentum,
+- [01:38:04,730 - 01:38:06,790] you add P squared C squared to it.
+- [01:38:08,249 - 01:38:09,750] So this is...
+- [01:38:09,770 - 01:38:13,450] This is our basic energy-momentum relation.
+- [01:38:13,810 - 01:38:14,590] And notice,
+- [01:38:14,590 - 01:38:16,110] once we've gone this far,
+- [01:38:16,110 - 01:38:17,990] we can now smoothly,
+- [01:38:17,990 - 01:38:19,310] with no big problem,
+- [01:38:19,310 - 01:38:21,930] take the limit that the mass goes to zero.
+- [01:38:22,330 - 01:38:23,650] And in that case,
+- [01:38:23,650 - 01:38:26,300] energy is just equal to the
+- [01:38:26,300 - 01:38:28,950] square root of P squared C squared,
+- [01:38:28,950 - 01:38:35,370] or just the magnitude of the momentum times C.
+- [01:38:38,210 - 01:38:42,650] You might have thought that the answer ought to be,
+- [01:38:42,650 - 01:38:43,110] well,
+- [01:38:43,110 - 01:38:43,470] let's see,
+- [01:38:43,470 - 01:38:44,510] non-relativistically.
+- [01:38:44,650 - 01:38:46,090] What's the answer non-relativistically?
+- [01:38:48,170 - 01:38:48,690] Energy,
+- [01:38:48,690 - 01:38:50,910] which is one-half MV squared,
+- [01:38:50,910 - 01:38:54,350] is equal to velocity times,
+- [01:38:54,350 - 01:38:55,890] sorry,
+- [01:38:55,890 - 01:39:00,950] is equal to momentum times velocity over two.
+- [01:39:02,170 - 01:39:04,250] You might have taken this equation and said,
+- [01:39:04,250 - 01:39:04,570] okay,
+- [01:39:04,570 - 01:39:05,350] just plug in...
+- [01:39:05,350 - 01:39:07,130] Velocity equals the speed of light,
+- [01:39:07,130 - 01:39:09,330] and you get C times P over two.
+- [01:39:09,650 - 01:39:10,130] Well,
+- [01:39:10,130 - 01:39:10,790] you'd be wrong.
+- [01:39:10,850 - 01:39:12,270] You'd be wrong by a factor of two.
+- [01:39:13,570 - 01:39:15,570] That's the whole effect of relativity
+- [01:39:15,570 - 01:39:17,570] on the formula for a massless particle,
+- [01:39:17,570 - 01:39:22,190] or for a particle moving with the speed of light,
+- [01:39:22,850 - 01:39:24,989] is that the energy is twice what you
+- [01:39:24,989 - 01:39:27,129] might have gotten by just using Newton's equation.
+- [01:39:27,230 - 01:39:27,350] Of course,
+- [01:39:27,350 - 01:39:29,210] it wouldn't make any sense to use Newton's equations.
+- [01:39:30,929 - 01:39:33,330] But PV over two is the relation,
+- [01:39:33,330 - 01:39:35,230] non-relativistically.
+- [01:39:35,870 - 01:39:38,730] PC is the relationship in relativity.
+- [01:39:40,370 - 01:39:40,870] All right.
+- [01:39:41,590 - 01:39:43,390] I'm not going to use this now.
+- [01:39:43,450 - 01:39:45,550] We're going to use it next time
+- [01:39:45,550 - 01:39:47,650] to explore the connection between waves and particles
+- [01:39:48,530 - 01:39:51,530] and the relationship between the energy of a wave,
+- [01:39:51,530 - 01:39:53,110] the momentum of the wave,
+- [01:39:53,790 - 01:39:55,450] and the properties of waves,
+- [01:39:55,450 - 01:39:58,710] and how those properties of waves are similar to,
+- [01:39:58,710 - 01:39:59,650] in fact,
+- [01:39:59,650 - 01:40:00,630] identical to,
+- [01:40:00,630 - 01:40:02,770] these relationships here.
+- [01:40:03,550 - 01:40:05,250] Something noticed partly by...
+- [01:40:05,350 - 01:40:05,590] Einstein,
+- [01:40:05,590 - 01:40:06,210] something...
+- [01:40:06,210 - 01:40:07,870] Einstein and de Broglie,
+- [01:40:07,870 - 01:40:09,110] Schrodinger,
+- [01:40:09,110 - 01:40:09,990] and so forth.
+- [01:40:11,250 - 01:40:13,330] That's not because we're getting into quantum mechanics now.
+- [01:40:13,430 - 01:40:15,810] We're simply exploring wave motion and the
+- [01:40:15,810 - 01:40:18,190] kinematics and the dynamics of moving waves.
+- [01:40:18,630 - 01:40:22,660] But there is a strong sense in which a strong flavor of
+- [01:40:22,660 - 01:40:26,690] the relationship between energy and momentum of particles on the one hand,
+- [01:40:26,690 - 01:40:28,770] and frequency and wave number
+- [01:40:28,770 - 01:40:30,850] of waves on the other hand.
+- [01:40:31,810 - 01:40:33,290] So that's where we're going next time.
+- [01:40:33,810 - 01:40:34,290] Good.
+- [01:40:39,630 - 01:40:41,070] Thank you.
