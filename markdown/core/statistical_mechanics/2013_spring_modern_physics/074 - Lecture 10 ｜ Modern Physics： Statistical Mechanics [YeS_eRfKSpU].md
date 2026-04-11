@@ -1,0 +1,3052 @@
+# Transcript
+
+Source: core/statistical_mechanics/2013_spring_modern_physics/074 - Lecture 10 ｜ Modern Physics： Statistical Mechanics [YeS_eRfKSpU].mkv
+
+- [00:00:04,600 - 00:00:06,120] Stanford University.
+- [00:00:08,020 - 00:00:10,540] You asked me about reheating,
+- [00:00:10,540 - 00:00:11,100] heating.
+- [00:00:11,880 - 00:00:14,620] This is the subject of cosmology,
+- [00:00:14,620 - 00:00:15,060] of course,
+- [00:00:15,060 - 00:00:15,980] early cosmology.
+- [00:00:23,140 - 00:00:24,060] So,
+- [00:00:24,060 - 00:00:26,920] the original and especially inflation,
+- [00:00:28,439 - 00:00:31,020] reheating is what takes place at the end of inflation.
+- [00:00:32,220 - 00:00:35,800] Inflation is the exponential expansion of the universe and
+- [00:00:35,800 - 00:00:37,460] it's driven by,
+- [00:00:37,460 - 00:00:41,280] depending on your taste,
+- [00:00:41,280 - 00:00:43,620] what is sometimes called dark energy,
+- [00:00:43,800 - 00:00:46,200] what is sometimes called the cosmological constant,
+- [00:00:46,200 - 00:00:47,840] or vacuum energy,
+- [00:00:49,590 - 00:00:50,280] whatever you like.
+- [00:00:51,879 - 00:00:53,040] But really,
+- [00:00:53,040 - 00:00:56,000] what it's got to do with is the energy
+- [00:00:56,000 - 00:00:59,600] stored in a scalar field of some kind,
+- [00:00:59,600 - 00:01:02,460] a potential energy that's a function of a field.
+- [00:01:02,920 - 00:01:03,600] So,
+- [00:01:03,600 - 00:01:07,440] imagine a field,
+- [00:01:07,440 - 00:01:08,660] phi.
+- [00:01:10,500 - 00:01:12,080] This is not space-time,
+- [00:01:12,080 - 00:01:14,780] this is just a plot of
+- [00:01:14,780 - 00:01:17,480] potential energy versus the field phi.
+- [00:01:17,820 - 00:01:21,020] And phi is called the inflaton field.
+- [00:01:21,960 - 00:01:23,820] Phi has a potential energy.
+- [00:01:24,040 - 00:01:24,340] Of course,
+- [00:01:24,340 - 00:01:25,740] it has a kinetic energy.
+- [00:01:25,740 - 00:01:28,660] The kinetic energy of a field is just the
+- [00:01:28,660 - 00:01:31,580] energy that's stored in the time derivatives of the field.
+- [00:01:32,300 - 00:01:34,180] It also has a form of energy,
+- [00:01:34,180 - 00:01:38,420] which is usually counted as kinetic energy in our lingo.
+- [00:01:39,200 - 00:01:41,500] It's not got to do with time derivatives.
+- [00:01:41,640 - 00:01:44,440] It has to do with
+- [00:01:44,440 - 00:01:47,240] space derivatives of a field phi.
+- [00:01:47,580 - 00:01:48,100] So,
+- [00:01:48,100 - 00:01:50,000] a phi has a gradient from place to place.
+- [00:01:50,120 - 00:01:51,460] There's an energy stored in that.
+- [00:01:52,380 - 00:01:53,600] And while it's not,
+- [00:01:53,600 - 00:01:55,080] strictly speaking,
+- [00:01:55,080 - 00:01:55,720] kinetic energy,
+- [00:01:55,720 - 00:01:55,720] it's not just energy.
+- [00:01:55,740 - 00:01:57,000] It's kinetic energy because kinetic energy
+- [00:01:57,000 - 00:01:58,260] has to do with time derivatives.
+- [00:01:58,780 - 00:02:00,880] Because of the similarity of
+- [00:02:00,880 - 00:02:02,980] space and time in relativistic physics,
+- [00:02:03,620 - 00:02:06,210] any energy that has to do with the variation
+- [00:02:06,210 - 00:02:08,800] of a field from point to point in space-time
+- [00:02:09,579 - 00:02:11,700] is often called kinetic energy.
+- [00:02:12,200 - 00:02:12,760] So,
+- [00:02:12,760 - 00:02:13,900] that's a form of energy.
+- [00:02:14,220 - 00:02:15,700] But then there may also be
+- [00:02:15,700 - 00:02:17,180] a potential energy to the field.
+- [00:02:17,280 - 00:02:19,380] A potential energy is just an energy
+- [00:02:19,380 - 00:02:21,480] which doesn't depend on gradients of the field.
+- [00:02:21,580 - 00:02:23,720] It doesn't depend on time derivatives.
+- [00:02:23,980 - 00:02:25,720] It just depends on the field.
+- [00:02:25,740 - 00:02:26,180] It's not just a field itself.
+- [00:02:28,420 - 00:02:29,740] It's an energy density.
+- [00:02:31,040 - 00:02:34,280] And you're free to make up your own favorite model.
+- [00:02:34,600 - 00:02:38,660] This field phi has never been discovered in the laboratory.
+- [00:02:41,320 - 00:02:42,280] It's quanta.
+- [00:02:42,320 - 00:02:44,220] It certainly has quanta if it exists.
+- [00:02:44,520 - 00:02:46,240] Have never been seen as particles.
+- [00:02:47,380 - 00:02:48,980] And that's bad because it
+- [00:02:48,980 - 00:02:50,580] doesn't tell you what to do.
+- [00:02:50,780 - 00:02:51,520] On the other hand,
+- [00:02:51,520 - 00:02:52,060] it's also good.
+- [00:02:52,160 - 00:02:53,600] It says you can do anything you want to do.
+- [00:02:54,420 - 00:02:55,040] All right.
+- [00:02:55,040 - 00:02:57,040] So let's make up a potential.
+- [00:02:57,160 - 00:03:01,170] I'll first draw you the kind of
+- [00:03:01,170 - 00:03:05,180] potential that physicists or that were thinking about
+- [00:03:05,180 - 00:03:07,660] when this idea of inflation started.
+- [00:03:08,520 - 00:03:12,880] They had in mind a potential energy
+- [00:03:12,880 - 00:03:17,240] which the historical reasons why this particular
+- [00:03:17,240 - 00:03:20,710] form was imagined had to
+- [00:03:20,710 - 00:03:24,180] do basically with the Higgs particle.
+- [00:03:25,040 - 00:03:25,920] But we don't have to go
+- [00:03:25,920 - 00:03:26,800] back to the history of it.
+- [00:03:26,880 - 00:03:28,860] I'll just show you what was
+- [00:03:28,860 - 00:03:30,840] originally discussed and what's wrong with it.
+- [00:03:34,440 - 00:03:38,680] So a potential energy which looks like this.
+- [00:03:44,640 - 00:03:46,540] This potential energy over here when
+- [00:03:46,540 - 00:03:48,440] the field was right at the center,
+- [00:03:48,440 - 00:03:49,300] when the field was
+- [00:03:49,300 - 00:03:49,920] equal to zero,
+- [00:03:49,920 - 00:03:52,340] was imagined to be very large.
+- [00:03:53,700 - 00:03:55,020] Potential energy way below zero.
+- [00:03:55,020 - 00:03:56,440] It's an energy density,
+- [00:03:56,440 - 00:03:57,420] but it's way,
+- [00:03:57,420 - 00:03:59,840] way beyond anything experienced in the laboratory.
+- [00:04:00,620 - 00:04:03,000] A huge amount of potential energy at the center.
+- [00:04:03,340 - 00:04:06,760] Even more as you move away from the center.
+- [00:04:07,440 - 00:04:09,130] But then as you go
+- [00:04:09,130 - 00:04:10,820] over the top of a hill,
+- [00:04:10,820 - 00:04:14,800] you can imagine if this were a particle moving
+- [00:04:14,800 - 00:04:15,540] in a potential,
+- [00:04:15,540 - 00:04:17,640] if you managed to get over the hill,
+- [00:04:17,640 - 00:04:21,000] you would just zip down to the bottom
+- [00:04:21,000 - 00:04:21,360] of the hill.
+- [00:04:23,180 - 00:04:23,660] Okay.
+- [00:04:24,140 - 00:04:24,620] So.
+- [00:04:25,020 - 00:04:27,660] So the idea was that originally,
+- [00:04:27,660 - 00:04:29,340] for reasons unknown,
+- [00:04:29,340 - 00:04:32,540] the universe started with the field
+- [00:04:32,540 - 00:04:33,320] equal to zero.
+- [00:04:37,620 - 00:04:38,920] That's a stable position.
+- [00:04:40,670 - 00:04:42,120] A stable value of the field.
+- [00:04:42,300 - 00:04:44,580] It cost energy to displace this.
+- [00:04:45,020 - 00:04:47,000] So the field started out as zero.
+- [00:04:47,120 - 00:04:48,060] It would just stay that way.
+- [00:04:48,720 - 00:04:51,000] It would be like a ball rolling at the center.
+- [00:04:51,160 - 00:04:52,060] Not rolling.
+- [00:04:52,120 - 00:04:53,840] Just sitting at the bottom of a hill.
+- [00:04:55,020 - 00:04:55,980] It's not going to do anything.
+- [00:04:56,480 - 00:04:58,980] But lots of potential energy.
+- [00:04:59,600 - 00:05:02,060] Potential energy counts as vacuum energy.
+- [00:05:02,340 - 00:05:06,440] It counts as dark energy.
+- [00:05:06,980 - 00:05:11,620] It causes the universe to exponentially inflate.
+- [00:05:12,160 - 00:05:14,190] And the inflation rate is determined
+- [00:05:14,190 - 00:05:16,220] by the amount of energy there.
+- [00:05:18,580 - 00:05:19,500] That's fine.
+- [00:05:19,640 - 00:05:21,480] The universe exponentially inflates.
+- [00:05:21,600 - 00:05:22,220] That's good.
+- [00:05:22,700 - 00:05:23,360] Because.
+- [00:05:23,360 - 00:05:27,240] It flattens the universe.
+- [00:05:28,780 - 00:05:31,340] It irons it out and makes it smooth.
+- [00:05:31,720 - 00:05:34,000] And it's consistent with what we
+- [00:05:34,000 - 00:05:36,280] know about the origin of the universe.
+- [00:05:36,520 - 00:05:38,840] That the universe was very
+- [00:05:38,840 - 00:05:41,160] smooth and flat to begin with.
+- [00:05:41,660 - 00:05:44,180] And so this very large amount of inflation,
+- [00:05:44,180 - 00:05:45,880] which may have taken place here,
+- [00:05:45,880 - 00:05:47,500] is a good
+- [00:05:47,500 - 00:05:47,740] thing.
+- [00:05:47,920 - 00:05:50,490] It brings the universe into
+- [00:05:50,490 - 00:05:53,060] conformity with flatness and homogeneity.
+- [00:05:53,060 - 00:05:54,040] Isotropy.
+- [00:05:54,920 - 00:05:55,440] Uniformness.
+- [00:05:56,020 - 00:05:58,300] Just by the inflation and the stretching.
+- [00:05:59,300 - 00:06:00,760] But then it just leaves you here.
+- [00:06:01,020 - 00:06:02,100] So what happens next?
+- [00:06:02,800 - 00:06:03,320] Well,
+- [00:06:03,320 - 00:06:05,160] the idea was what happens next
+- [00:06:05,160 - 00:06:07,000] is if you wait long enough,
+- [00:06:07,000 - 00:06:08,160] what happens if you
+- [00:06:08,160 - 00:06:11,290] have a particle or an object stuck in the
+- [00:06:11,290 - 00:06:14,420] bottom of a hill like that in quantum mechanics?
+- [00:06:16,160 - 00:06:16,680] Tunneling.
+- [00:06:16,720 - 00:06:17,240] Tunneling.
+- [00:06:17,620 - 00:06:18,560] Sooner or later,
+- [00:06:18,560 - 00:06:20,940] just by quantum fluctuation,
+- [00:06:20,940 - 00:06:23,040] something happens that would never happen.
+- [00:06:23,040 - 00:06:24,860] And that would never happen in classical physics.
+- [00:06:25,320 - 00:06:26,700] In classical physics,
+- [00:06:26,700 - 00:06:28,240] there's no way to get over the
+- [00:06:28,240 - 00:06:29,780] top of this hill unless you're provided
+- [00:06:29,780 - 00:06:31,040] with enough kinetic energy to get
+- [00:06:31,040 - 00:06:32,300] over the top of the hill.
+- [00:06:32,800 - 00:06:34,080] But in quantum mechanics,
+- [00:06:34,080 - 00:06:37,620] everything that can happen does happen.
+- [00:06:38,680 - 00:06:40,640] And the point,
+- [00:06:40,640 - 00:06:41,020] of course,
+- [00:06:41,020 - 00:06:43,650] is that the wave function of
+- [00:06:43,650 - 00:06:46,280] a particle is not really concentrated
+- [00:06:46,280 - 00:06:47,380] at the very center.
+- [00:06:47,640 - 00:06:49,800] It has an exponential tail,
+- [00:06:49,800 - 00:06:52,780] which leaks out into the region.
+- [00:06:52,780 - 00:06:52,920] And that's the reason why it's called the
+- [00:06:52,920 - 00:06:53,480] It's a very small region on the outside.
+- [00:06:54,240 - 00:06:55,800] And that means with a very,
+- [00:06:55,800 - 00:06:56,780] very small probability,
+- [00:06:56,780 - 00:06:58,460] if you wait long enough,
+- [00:06:58,460 - 00:07:00,380] the particle or whatever
+- [00:07:00,380 - 00:07:02,980] it happens to be will suddenly find itself
+- [00:07:02,980 - 00:07:05,580] on the outside and then roll down the hill.
+- [00:07:06,140 - 00:07:07,260] This is classic,
+- [00:07:07,260 - 00:07:08,420] not classical,
+- [00:07:08,420 - 00:07:10,820] but classic quantum tunneling.
+- [00:07:11,360 - 00:07:13,700] Does that mean it does it everywhere in the universe?
+- [00:07:13,840 - 00:07:13,980] Well,
+- [00:07:13,980 - 00:07:14,400] OK.
+- [00:07:16,320 - 00:07:17,480] That's exactly the point.
+- [00:07:19,360 - 00:07:22,760] The original idea was the hope that it didn't happen.
+- [00:07:22,760 - 00:07:23,960] But it did it everywhere simultaneously.
+- [00:07:24,800 - 00:07:31,580] This great big inflating universe just dumped its energy,
+- [00:07:31,580 - 00:07:36,380] dumped its vacuum energy into
+- [00:07:36,380 - 00:07:38,460] kinetic energy of rolling down the hill.
+- [00:07:38,720 - 00:07:40,200] And that kinetic energy,
+- [00:07:40,200 - 00:07:41,780] like any good kinetic energy,
+- [00:07:41,780 - 00:07:43,760] will eventually get converted to heat
+- [00:07:44,240 - 00:07:45,320] by some way or another,
+- [00:07:45,320 - 00:07:47,340] whatever the mechanism is.
+- [00:07:47,580 - 00:07:49,000] And that heat was the heat
+- [00:07:49,000 - 00:07:50,420] that originally heated up the universe.
+- [00:07:51,840 - 00:07:52,640] But then,
+- [00:07:52,640 - 00:07:53,720] as was just asked,
+- [00:07:53,720 - 00:07:56,100] and it should have been asked from day one,
+- [00:07:56,100 - 00:07:57,620] is it really
+- [00:07:57,620 - 00:07:59,640] reasonable to suppose that this universe,
+- [00:07:59,640 - 00:08:02,940] which is inflated to exponentially large sizes,
+- [00:08:03,160 - 00:08:06,180] will everywhere simultaneously undergo
+- [00:08:06,180 - 00:08:09,200] this process of tunneling?
+- [00:08:09,560 - 00:08:10,800] And the answer was no.
+- [00:08:11,040 - 00:08:12,740] It didn't make any sense at all.
+- [00:08:13,340 - 00:08:16,640] The way quantum tunneling of this type takes place,
+- [00:08:16,640 - 00:08:19,240] the universe expands to something very
+- [00:08:19,240 - 00:08:19,440] large.
+- [00:08:21,159 - 00:08:23,180] This blackboard now is the universe.
+- [00:08:24,660 - 00:08:26,800] It's e to the e to the e
+- [00:08:26,800 - 00:08:28,940] times bigger than anything you want to think about.
+- [00:08:30,240 - 00:08:32,539] And the value of the field
+- [00:08:32,539 - 00:08:34,840] everywheres is at the minimum here,
+- [00:08:34,840 - 00:08:35,559] at the minimum of the
+- [00:08:35,559 - 00:08:35,880] potential.
+- [00:08:36,900 - 00:08:37,780] What can happen?
+- [00:08:38,460 - 00:08:42,070] The probability of it simultaneously everywheres going zip
+- [00:08:42,070 - 00:08:45,680] over the top of this hill and coming
+- [00:08:45,680 - 00:08:48,980] down here is extremely negligible.
+- [00:08:49,560 - 00:08:50,560] What is much,
+- [00:08:50,560 - 00:08:52,640] much more likely is that
+- [00:08:52,640 - 00:08:54,720] a little bubble will open up.
+- [00:08:55,240 - 00:08:57,620] A little bubble inside this bubble,
+- [00:08:57,620 - 00:08:59,380] outside the bubble,
+- [00:08:59,380 - 00:09:03,460] the field takes on the value at
+- [00:09:03,460 - 00:09:04,140] the center here.
+- [00:09:04,700 - 00:09:05,620] Phi equals zero,
+- [00:09:05,620 - 00:09:06,120] let's say.
+- [00:09:07,940 - 00:09:10,260] Inside a little hole opened up
+- [00:09:10,260 - 00:09:12,580] where the field is equal to,
+- [00:09:12,580 - 00:09:13,740] let's put it over here,
+- [00:09:13,740 - 00:09:15,040] phi a,
+- [00:09:15,140 - 00:09:15,940] let's call it.
+- [00:09:17,820 - 00:09:18,780] Phi a.
+- [00:09:18,840 - 00:09:18,960] Okay.
+- [00:09:19,520 - 00:09:21,460] Now these things are constantly
+- [00:09:21,460 - 00:09:23,400] happening in the quantum mechanical vacuum.
+- [00:09:24,460 - 00:09:26,460] Fluctuations are constantly taking place.
+- [00:09:27,720 - 00:09:29,080] But for the most part,
+- [00:09:29,080 - 00:09:32,560] those little bubbles that form,
+- [00:09:32,560 - 00:09:33,680] they're little bubbles and they're
+- [00:09:33,680 - 00:09:33,820] very,
+- [00:09:33,820 - 00:09:35,670] very similar to what happens if
+- [00:09:35,670 - 00:09:37,520] you have a pot of boiling water.
+- [00:09:37,640 - 00:09:38,440] Little bubble forms.
+- [00:09:39,860 - 00:09:40,740] And in fact,
+- [00:09:40,740 - 00:09:42,440] those bubbles will form even in the pot
+- [00:09:42,440 - 00:09:44,140] of water if the pot of water is
+- [00:09:44,140 - 00:09:45,280] below the boiling temperature.
+- [00:09:45,980 - 00:09:47,640] You'll get little bubbles nucleating.
+- [00:09:47,640 - 00:09:50,340] But the little bubbles,
+- [00:09:50,340 - 00:09:51,260] if they're too small,
+- [00:09:51,260 - 00:09:55,040] will be squeezed out and just driven back
+- [00:09:55,040 - 00:09:58,480] into the phi equals zero phase.
+- [00:10:00,180 - 00:10:03,880] So unless the bubble achieves a sufficiently big size,
+- [00:10:03,880 - 00:10:05,500] and the same is true of bubbles
+- [00:10:05,500 - 00:10:06,900] of steam in particular,
+- [00:10:06,900 - 00:10:11,110] a good example from ordinary physics
+- [00:10:11,110 - 00:10:15,320] is what happens if you cool
+- [00:10:15,320 - 00:10:16,360] a liquid.
+- [00:10:16,360 - 00:10:16,540] If you cool a liquid,
+- [00:10:16,540 - 00:10:17,020] for example,
+- [00:10:17,020 - 00:10:19,100] below its freezing temperature.
+- [00:10:19,340 - 00:10:21,480] If you cool a liquid below its freezing temperature,
+- [00:10:21,480 - 00:10:22,560] but you cool it very,
+- [00:10:22,560 - 00:10:23,580] very carefully,
+- [00:10:23,580 - 00:10:24,600] it can
+- [00:10:24,600 - 00:10:25,120] stay liquid.
+- [00:10:26,299 - 00:10:29,220] But if you put in a tiny chip of ice,
+- [00:10:29,220 - 00:10:30,140] take the case of water,
+- [00:10:30,140 - 00:10:31,260] you put in a tiny chip
+- [00:10:31,260 - 00:10:31,700] of ice,
+- [00:10:31,700 - 00:10:34,540] the chip of ice will form a seed.
+- [00:10:34,860 - 00:10:37,290] And that seed will start nucleating
+- [00:10:37,290 - 00:10:39,720] around it more and more crystal.
+- [00:10:39,920 - 00:10:42,760] And that crystal will grow and will grow very,
+- [00:10:42,760 - 00:10:45,240] very rapidly and fill up the whole sample.
+- [00:10:45,900 - 00:10:46,340] Okay.
+- [00:10:46,360 - 00:10:46,940] So a bubble,
+- [00:10:46,940 - 00:10:47,420] if it's,
+- [00:10:47,420 - 00:10:49,260] that's if the bubble or the
+- [00:10:49,260 - 00:10:51,100] little seed is big enough to begin
+- [00:10:51,100 - 00:10:51,340] with.
+- [00:10:51,740 - 00:10:53,660] If the seed is too small,
+- [00:10:53,660 - 00:10:56,580] then what happens is a kind
+- [00:10:56,580 - 00:10:59,500] of competition and what wins is
+- [00:10:59,900 - 00:11:02,160] that the water around it will cause the
+- [00:11:02,160 - 00:11:04,420] little crystal to melt back into the water.
+- [00:11:04,980 - 00:11:06,760] So a tiny little crystal of ice,
+- [00:11:06,760 - 00:11:07,920] if it's too small,
+- [00:11:07,920 - 00:11:10,220] will not start the process off.
+- [00:11:10,480 - 00:11:12,100] But if it's bigger than a few,
+- [00:11:12,100 - 00:11:12,760] you know,
+- [00:11:12,760 - 00:11:15,260] a few dozen molecules on the side,
+- [00:11:15,260 - 00:11:16,340] it would,
+- [00:11:16,360 - 00:11:19,180] will begin to grow and
+- [00:11:19,180 - 00:11:22,000] simply eat up the whole thing.
+- [00:11:22,940 - 00:11:23,300] Now,
+- [00:11:23,300 - 00:11:23,700] of course,
+- [00:11:23,700 - 00:11:29,840] because of either thermal fluctuations
+- [00:11:29,840 - 00:11:32,240] or quantum mechanical fluctuations,
+- [00:11:32,600 - 00:11:35,280] you don't really need to put a chip of ice
+- [00:11:35,280 - 00:11:36,520] in there to get this thing going.
+- [00:11:37,000 - 00:11:40,180] All you need is to wait until accidentally,
+- [00:11:40,180 - 00:11:41,120] just purely
+- [00:11:41,120 - 00:11:41,800] accidentally,
+- [00:11:41,800 - 00:11:45,540] a significant number of molecules
+- [00:11:45,540 - 00:11:49,000] happens to orient themselves in a form that
+- [00:11:49,000 - 00:11:50,500] looks like a crystal,
+- [00:11:50,500 - 00:11:52,340] that looks like a little chip of ice.
+- [00:11:52,720 - 00:11:54,040] From time to time,
+- [00:11:54,040 - 00:11:55,520] that will happen just spontaneously,
+- [00:11:56,320 - 00:11:59,260] just by the statistics of a few molecules.
+- [00:11:59,400 - 00:12:01,720] Doesn't take many of them to start the process going.
+- [00:12:02,200 - 00:12:03,420] Just by accident,
+- [00:12:03,420 - 00:12:06,520] if a large enough number of them
+- [00:12:06,520 - 00:12:08,600] happens to form a little
+- [00:12:08,600 - 00:12:10,680] piece of crystal by pure fluctuation,
+- [00:12:11,380 - 00:12:13,660] then this process will happen by itself.
+- [00:12:14,200 - 00:12:15,460] So if you wait long enough,
+- [00:12:15,460 - 00:12:15,520] you'll
+- [00:12:15,520 - 00:12:15,680] see that the crystal will start to form.
+- [00:12:15,680 - 00:12:15,680] And if you wait long enough,
+- [00:12:15,680 - 00:12:16,440] yes,
+- [00:12:16,440 - 00:12:18,840] a little lump,
+- [00:12:19,060 - 00:12:22,540] a little bubble of ice
+- [00:12:22,540 - 00:12:26,020] will form in the metastable water.
+- [00:12:27,540 - 00:12:28,120] Of course,
+- [00:12:28,120 - 00:12:29,780] if your sample is big enough,
+- [00:12:31,900 - 00:12:33,100] then simultaneously,
+- [00:12:33,100 - 00:12:36,000] a bubble may form over here.
+- [00:12:36,640 - 00:12:38,220] A bubble may form over here.
+- [00:12:39,040 - 00:12:40,340] And what will happen?
+- [00:12:40,880 - 00:12:42,340] They'll come crashing together.
+- [00:12:42,560 - 00:12:43,700] They'll start expanding.
+- [00:12:43,700 - 00:12:46,140] And after a while,
+- [00:12:46,140 - 00:12:47,360] they will have expanded.
+- [00:12:47,540 - 00:12:48,880] And they'll come crashing together.
+- [00:12:49,500 - 00:12:52,660] And the result will be the entire sample,
+- [00:12:52,860 - 00:12:54,980] the entire collection of fluid,
+- [00:12:54,980 - 00:12:57,000] will undergo this transition
+- [00:12:58,800 - 00:13:01,460] from liquid to solid,
+- [00:13:01,460 - 00:13:02,080] for example.
+- [00:13:02,280 - 00:13:04,160] Or it could be from gas to liquid.
+- [00:13:04,620 - 00:13:07,900] That's the nature of a metastable bubble nucleating
+- [00:13:09,040 - 00:13:09,600] fluid.
+- [00:13:11,060 - 00:13:11,340] Well,
+- [00:13:11,340 - 00:13:13,400] that's about what would happen here.
+- [00:13:14,020 - 00:13:15,740] If you wait long enough,
+- [00:13:15,740 - 00:13:18,180] a small bubble will form.
+- [00:13:18,300 - 00:13:19,940] If the bubble is too small,
+- [00:13:19,940 - 00:13:22,160] it'll simply get squeezed back
+- [00:13:22,160 - 00:13:23,380] into the original vacuum.
+- [00:13:24,140 - 00:13:26,060] I call this the vacuum over here.
+- [00:13:26,660 - 00:13:27,700] But if it's large enough,
+- [00:13:27,700 - 00:13:29,360] it'll start to grow.
+- [00:13:29,520 - 00:13:31,070] It'll start to grow and grow
+- [00:13:31,070 - 00:13:32,620] and grow and simply gobble up
+- [00:13:32,620 - 00:13:33,380] more and more space.
+- [00:13:39,300 - 00:13:39,820] Now,
+- [00:13:39,820 - 00:13:40,840] what happens?
+- [00:13:40,920 - 00:13:41,420] You say,
+- [00:13:41,420 - 00:13:41,700] OK,
+- [00:13:41,700 - 00:13:42,040] good.
+- [00:13:42,180 - 00:13:42,780] That's fine.
+- [00:13:42,780 - 00:13:42,940] That's fine.
+- [00:13:42,980 - 00:13:44,560] Another bubble forms over there.
+- [00:13:44,620 - 00:13:45,800] Another bubble forms up there.
+- [00:13:46,040 - 00:13:46,740] And soon,
+- [00:13:46,740 - 00:13:47,880] they come crashing together.
+- [00:13:48,220 - 00:13:51,160] And the result is the entire universe
+- [00:13:51,760 - 00:13:53,980] has made a transition and goes.
+- [00:13:54,080 - 00:13:57,200] And just like the ocean,
+- [00:13:57,200 - 00:13:59,420] if it were metastable
+- [00:13:59,420 - 00:14:01,580] and you ticked off a little bit of ice,
+- [00:14:01,740 - 00:14:02,520] the same thing would happen.
+- [00:14:03,060 - 00:14:05,240] But that's not what happens in cosmology.
+- [00:14:05,640 - 00:14:09,600] And the reason is that the regions in between
+- [00:14:09,600 - 00:14:11,320] are expanding rapidly.
+- [00:14:11,320 - 00:14:14,780] The regions in between are here.
+- [00:14:14,960 - 00:14:16,260] They have this value of the field,
+- [00:14:16,440 - 00:14:18,540] where the vacuum energy is large.
+- [00:14:18,860 - 00:14:22,060] And large vacuum energy means rapid inflation.
+- [00:14:22,560 - 00:14:26,580] So the region between these bubbles is growing.
+- [00:14:26,720 - 00:14:29,560] And it's growing even faster than the bubbles themselves
+- [00:14:29,560 - 00:14:30,160] are growing.
+- [00:14:30,920 - 00:14:31,560] Actually,
+- [00:14:31,560 - 00:14:32,540] there are two possibilities.
+- [00:14:33,240 - 00:14:39,560] It depends on details whether the bubbles grow faster,
+- [00:14:40,400 - 00:14:41,300] nucleate faster,
+- [00:14:41,300 - 00:14:41,300] or not.
+- [00:14:41,300 - 00:14:41,500] And the first is,
+- [00:14:41,500 - 00:14:42,500] do they grow faster and grow faster
+- [00:14:42,500 - 00:14:44,660] and outrun the expansion?
+- [00:14:45,680 - 00:14:52,060] Or do they separate from each other
+- [00:14:52,060 - 00:14:55,360] so rapidly because of the inflation
+- [00:14:55,360 - 00:14:58,060] that they never hit each other and they never
+- [00:14:58,060 - 00:14:59,560] complete the transition?
+- [00:15:00,300 - 00:15:01,020] Well,
+- [00:15:01,020 - 00:15:03,100] with all of the numbers being
+- [00:15:03,100 - 00:15:06,180] put in there for a sensible theory of inflation,
+- [00:15:06,180 - 00:15:08,140] what wins,
+- [00:15:08,140 - 00:15:10,520] in this type of model,
+- [00:15:10,520 - 00:15:13,820] is the inflation is much,
+- [00:15:13,880 - 00:15:16,960] much more rapid than the nucleation rate.
+- [00:15:17,340 - 00:15:20,220] And so what happens is these bubbles never
+- [00:15:20,220 - 00:15:21,320] catch up with each other.
+- [00:15:21,440 - 00:15:22,900] They never catch up with each other
+- [00:15:22,900 - 00:15:24,200] because they're being driven apart
+- [00:15:24,959 - 00:15:28,400] by the repulsive effects of this vacuum energy.
+- [00:15:29,170 - 00:15:30,680] And so the phase transition,
+- [00:15:30,680 - 00:15:31,340] the words
+- [00:15:31,340 - 00:15:33,790] are the phase transition or
+- [00:15:33,790 - 00:15:36,240] the transition from here to here,
+- [00:15:36,360 - 00:15:38,120] is never completed over time.
+- [00:15:38,120 - 00:15:38,760] It's not a phase transition over the whole universe.
+- [00:15:38,880 - 00:15:40,340] It's just a collection of bubbles.
+- [00:15:40,940 - 00:15:42,880] And a collection of growing bubbles
+- [00:15:42,880 - 00:15:45,800] is not the kind of homogeneous universe
+- [00:15:45,800 - 00:15:48,720] that inflation was intended to create.
+- [00:15:51,220 - 00:15:53,260] This is a first order phase transition.
+- [00:15:53,440 - 00:15:55,120] A first order phase transition is
+- [00:15:55,120 - 00:16:00,200] what happens when you have a barrier to,
+- [00:16:01,060 - 00:16:02,420] when you have two phases,
+- [00:16:02,420 - 00:16:05,260] a phase here and a phase here,
+- [00:16:06,120 - 00:16:08,100] with an obstruction.
+- [00:16:08,100 - 00:16:08,940] And the obstruction in between,
+- [00:16:08,940 - 00:16:10,820] and that obstruction
+- [00:16:10,820 - 00:16:12,200] is called a domain wall.
+- [00:16:13,220 - 00:16:15,700] An obstruction from going from one to the other
+- [00:16:15,700 - 00:16:16,640] is called a domain wall.
+- [00:16:16,900 - 00:16:18,980] The boundary of this region over
+- [00:16:18,980 - 00:16:21,060] here is called a domain wall.
+- [00:16:21,320 - 00:16:22,990] And it's the place where the
+- [00:16:22,990 - 00:16:24,660] field goes from here to here.
+- [00:16:25,100 - 00:16:26,740] To get from here to here,
+- [00:16:26,740 - 00:16:28,460] from inside to outside,
+- [00:16:29,120 - 00:16:30,630] it has to go through
+- [00:16:30,630 - 00:16:32,140] a region with a much larger
+- [00:16:32,140 - 00:16:32,980] potential energy.
+- [00:16:33,220 - 00:16:34,440] And that's costly in energy.
+- [00:16:34,940 - 00:16:36,510] So the result is that
+- [00:16:36,510 - 00:16:38,080] the phase transition doesn't go through.
+- [00:16:38,080 - 00:16:38,820] It doesn't happen.
+- [00:16:39,160 - 00:16:41,130] The entire universe doesn't reheat in
+- [00:16:41,130 - 00:16:43,100] this kind of first order system.
+- [00:16:43,880 - 00:16:47,400] And it wasn't the right idea for reheating.
+- [00:16:47,460 - 00:16:49,660] It was just this idea that
+- [00:16:49,660 - 00:16:51,860] the entire universe goes plop over
+- [00:16:51,860 - 00:16:54,200] into the other phase and creates a lot of heat.
+- [00:16:55,760 - 00:16:58,140] That doesn't happen in this kind of theory.
+- [00:16:58,880 - 00:17:03,310] All you really had to do was
+- [00:17:03,310 - 00:17:07,740] remove this bump here and draw it
+- [00:17:08,079 - 00:17:08,599] like this.
+- [00:17:09,960 - 00:17:10,400] Whoops.
+- [00:17:12,300 - 00:17:13,599] And for whatever reason,
+- [00:17:13,599 - 00:17:15,339] start the universe up here
+- [00:17:15,819 - 00:17:20,800] and just have it gradually roll down and all simultaneously.
+- [00:17:21,440 - 00:17:22,880] That is what does work.
+- [00:17:24,300 - 00:17:27,380] But that's not the kind of first order phase transition
+- [00:17:27,380 - 00:17:28,740] that was originally envisioned.
+- [00:17:29,980 - 00:17:30,300] All right.
+- [00:17:30,360 - 00:17:34,140] I answered that because I brought it up.
+- [00:17:34,140 - 00:17:34,840] Somebody brought it up.
+- [00:17:34,860 - 00:17:35,440] I didn't bring it up.
+- [00:17:35,480 - 00:17:36,020] Who brought it up?
+- [00:17:36,600 - 00:17:37,040] You brought it up.
+- [00:17:37,040 - 00:17:37,420] You brought it up.
+- [00:17:37,500 - 00:17:37,600] OK.
+- [00:17:38,300 - 00:17:39,080] Answer the question?
+- [00:17:39,320 - 00:17:39,660] Yeah.
+- [00:17:39,840 - 00:17:40,340] It's better.
+- [00:17:40,560 - 00:17:40,960] OK.
+- [00:17:41,500 - 00:17:41,900] Yeah.
+- [00:17:42,700 - 00:17:43,300] All right.
+- [00:17:43,320 - 00:17:49,680] So let's come to this question that I've
+- [00:17:49,680 - 00:17:52,100] been avoiding for a couple of weeks.
+- [00:17:52,260 - 00:17:53,580] It was a very good question.
+- [00:17:56,740 - 00:17:58,200] I sort of gave you the answer,
+- [00:17:58,200 - 00:18:00,860] but let me quantify it a little bit more.
+- [00:18:01,600 - 00:18:04,960] It had to do with adiabatically varying parameters,
+- [00:18:04,960 - 00:18:06,340] such as volume.
+- [00:18:06,440 - 00:18:07,400] But it doesn't have to be volume.
+- [00:18:07,400 - 00:18:09,460] Any parameter that you can vary.
+- [00:18:10,600 - 00:18:17,000] It is true that the entropy defined in terms
+- [00:18:17,000 - 00:18:19,520] of the probability distribution stays constant
+- [00:18:20,320 - 00:18:24,540] during an adiabatic change of parameters of a system.
+- [00:18:25,800 - 00:18:26,540] But in general,
+- [00:18:26,540 - 00:18:28,560] the system will not stay in thermal equilibrium.
+- [00:18:30,220 - 00:18:32,020] And I mentioned the reason.
+- [00:18:32,420 - 00:18:35,040] The reason is that the probability distribution,
+- [00:18:35,040 - 00:18:36,540] which
+- [00:18:36,540 - 00:18:37,380] was e to the power of 2,
+- [00:18:37,380 - 00:18:37,380] will not stay in thermal equilibrium.
+- [00:18:37,380 - 00:18:40,700] to the minus beta,
+- [00:18:40,700 - 00:18:42,800] let's call it e sub i,
+- [00:18:43,080 - 00:18:46,040] where i is the i-th energy level of the system.
+- [00:18:46,400 - 00:18:48,020] That's the probability distribution.
+- [00:18:48,120 - 00:18:50,160] We have to divide it by the partition function,
+- [00:18:50,940 - 00:18:52,860] but we can do that.
+- [00:18:54,180 - 00:18:58,020] That probability distribution is maintained with time
+- [00:18:58,020 - 00:18:59,780] as we change the parameters.
+- [00:19:00,140 - 00:19:01,760] But as we change the parameters,
+- [00:19:01,760 - 00:19:03,320] the energy levels change.
+- [00:19:03,320 - 00:19:06,200] And what started out as e to
+- [00:19:06,200 - 00:19:09,080] the minus beta e sub i will not,
+- [00:19:09,080 - 00:19:09,680] let's say,
+- [00:19:09,680 - 00:19:13,580] each e sub i goes and becomes,
+- [00:19:13,580 - 00:19:14,400] let's call it,
+- [00:19:14,420 - 00:19:15,620] e prime sub i.
+- [00:19:20,580 - 00:19:22,480] This probability distribution,
+- [00:19:22,480 - 00:19:24,040] which is what we started with,
+- [00:19:24,690 - 00:19:29,220] will not become e to the minus beta,
+- [00:19:29,890 - 00:19:32,000] even with a different beta in general,
+- [00:19:32,590 - 00:19:33,300] even let's call it e to the minus beta.
+- [00:19:33,320 - 00:19:34,000] Let's call it beta prime,
+- [00:19:34,000 - 00:19:35,520] e sub i prime.
+- [00:19:37,840 - 00:19:39,980] Somebody sent me an email with an example,
+- [00:19:39,980 - 00:19:42,920] almost any example
+- [00:19:42,920 - 00:19:43,580] you think of,
+- [00:19:43,580 - 00:19:49,300] that will lead you to a probability distribution
+- [00:19:50,040 - 00:19:52,940] that cannot be equivalent to thermal equilibrium
+- [00:19:52,940 - 00:19:54,480] for any value of the temperature.
+- [00:19:54,820 - 00:19:59,680] It's just not the way these things work.
+- [00:19:59,820 - 00:20:01,820] Somebody sent an example with two spins.
+- [00:20:03,320 - 00:20:03,460] It's a very,
+- [00:20:03,460 - 00:20:04,060] very general.
+- [00:20:05,840 - 00:20:06,460] Now,
+- [00:20:06,460 - 00:20:09,320] there is a very special case.
+- [00:20:09,460 - 00:20:12,050] There's a very special case
+- [00:20:12,050 - 00:20:14,640] where you can say the system
+- [00:20:14,640 - 00:20:15,900] stays in thermal equilibrium.
+- [00:20:17,000 - 00:20:18,240] It's very,
+- [00:20:18,240 - 00:20:19,300] very non-generic.
+- [00:20:19,810 - 00:20:22,405] But let's suppose that e prime
+- [00:20:22,405 - 00:20:25,000] i is a linear function of ei.
+- [00:20:25,940 - 00:20:27,000] In other words,
+- [00:20:27,000 - 00:20:29,160] let's suppose that the final energy,
+- [00:20:30,030 - 00:20:32,660] after the adiabatic change of parameters,
+- [00:20:32,660 - 00:20:33,180] which,
+- [00:20:33,180 - 00:20:33,300] I guess,
+- [00:20:33,300 - 00:20:33,300] is e to the minus beta,
+- [00:20:33,300 - 00:20:37,240] is a function of ei,
+- [00:20:37,240 - 00:20:39,720] or if you know ei,
+- [00:20:39,720 - 00:20:41,400] then you know ei prime,
+- [00:20:41,620 - 00:20:43,860] assuming you know how the energy levels change.
+- [00:20:45,600 - 00:20:49,180] If these are related by a linear relation,
+- [00:20:49,560 - 00:20:53,990] a linear relation means e prime i
+- [00:20:53,990 - 00:20:58,420] is equal to some a plus b ei,
+- [00:20:59,720 - 00:21:01,980] where a and b are fixed numbers.
+- [00:21:03,040 - 00:21:05,880] Then this probability distribution,
+- [00:21:06,720 - 00:21:08,100] let's do it the other way.
+- [00:21:08,220 - 00:21:11,400] If something's a linear function of another thing,
+- [00:21:11,440 - 00:21:12,570] then the other thing is a
+- [00:21:12,570 - 00:21:13,700] linear function of the original thing.
+- [00:21:13,780 - 00:21:14,500] Let's do it that way.
+- [00:21:15,040 - 00:21:18,000] Then the original probability distribution is also
+- [00:21:18,000 - 00:21:20,960] equal to e to the minus beta.
+- [00:21:21,860 - 00:21:23,320] Then let's write ei,
+- [00:21:23,320 - 00:21:26,300] a plus b ei prime.
+- [00:21:28,580 - 00:21:30,380] e to the minus beta a,
+- [00:21:30,380 - 00:21:31,540] that's just a number.
+- [00:21:31,980 - 00:21:33,610] That doesn't even depend on
+- [00:21:33,610 - 00:21:35,240] which energy level we're talking about.
+- [00:21:35,440 - 00:21:36,900] That will eventually get
+- [00:21:36,900 - 00:21:38,360] absorbed into the partition function.
+- [00:21:38,540 - 00:21:42,110] The important part of this is the part which
+- [00:21:42,110 - 00:21:45,680] is just e to the minus beta b ei prime.
+- [00:21:48,320 - 00:21:50,400] If this were the case in general,
+- [00:21:50,400 - 00:21:53,720] then all that would happen is we would say
+- [00:21:53,720 - 00:21:56,690] the original thermal equilibrium becomes a
+- [00:21:56,690 - 00:21:59,660] new thermal equilibrium with beta prime,
+- [00:22:03,259 - 00:22:05,880] equaling beta times b.
+- [00:22:08,080 - 00:22:10,540] That's the one special case where the
+- [00:22:10,540 - 00:22:13,000] energies are linear functions of each other.
+- [00:22:13,180 - 00:22:15,300] We don't have to worry about it.
+- [00:22:15,580 - 00:22:17,820] Thermal equilibrium stays thermal equilibrium.
+- [00:22:18,600 - 00:22:19,800] As I said,
+- [00:22:19,800 - 00:22:21,840] this is not very generic.
+- [00:22:22,120 - 00:22:23,000] What's going on?
+- [00:22:23,779 - 00:22:25,529] Let me point out one
+- [00:22:25,529 - 00:22:27,280] more thing before we go on.
+- [00:22:28,500 - 00:22:31,720] The answer has to do with the system being large.
+- [00:22:32,380 - 00:22:34,640] It's quite true that if you take a
+- [00:22:34,640 - 00:22:36,900] small system with a few degrees of freedom,
+- [00:22:37,780 - 00:22:39,680] and it's in thermal equilibrium,
+- [00:22:39,680 - 00:22:42,900] you then isolate it and insulate it,
+- [00:22:43,000 - 00:22:44,760] change the parameters,
+- [00:22:44,760 - 00:22:46,520] it will not stay in thermal equilibrium.
+- [00:22:46,700 - 00:22:47,640] It just simply will not.
+- [00:22:48,840 - 00:22:51,100] But if you have a big enough system,
+- [00:22:51,100 - 00:22:52,340] a large system,
+- [00:22:52,620 - 00:22:54,260] then you'll find to a very,
+- [00:22:54,260 - 00:22:55,850] very high degree of approximation
+- [00:22:55,850 - 00:22:57,440] it stays in thermal equilibrium.
+- [00:22:57,660 - 00:22:58,380] Why is that?
+- [00:22:59,480 - 00:23:00,000] Okay.
+- [00:23:00,120 - 00:23:00,360] Okay.
+- [00:23:02,200 - 00:23:04,540] The energy of a large system,
+- [00:23:04,760 - 00:23:06,480] and I mean a system with large volume,
+- [00:23:06,780 - 00:23:09,480] the energy of a large system can of course
+- [00:23:09,480 - 00:23:12,180] always be written in terms of the energy density.
+- [00:23:12,260 - 00:23:16,440] Let's call the energy density epsilon times the volume.
+- [00:23:18,380 - 00:23:21,360] Now that's not particularly helpful in this context
+- [00:23:23,440 - 00:23:25,730] because there's no more likelihood that
+- [00:23:25,730 - 00:23:28,020] the energy is a linear function,
+- [00:23:29,960 - 00:23:30,520] well,
+- [00:23:31,980 - 00:23:32,220] yeah,
+- [00:23:32,220 - 00:23:33,440] let's go back.
+- [00:23:34,640 - 00:23:37,200] The energy of the system both before
+- [00:23:37,200 - 00:23:39,760] the adiabatic change and after the adiabatic change
+- [00:23:39,760 - 00:23:41,420] is proportional to the volume.
+- [00:23:41,940 - 00:23:44,630] So that means both E and E prime
+- [00:23:44,630 - 00:23:47,320] can be written in terms of energy densities.
+- [00:23:47,660 - 00:23:50,310] It's the energy density you can think of as
+- [00:23:50,310 - 00:23:52,960] changing when you change the parameters of the system.
+- [00:23:53,260 - 00:23:56,480] Let the energy density be the thing we'll follow.
+- [00:23:57,140 - 00:23:57,780] Now,
+- [00:23:57,780 - 00:24:01,060] there's no more reason to think that epsilon,
+- [00:24:01,980 - 00:24:03,220] the energy density,
+- [00:24:03,820 - 00:24:06,120] are linear functions of each other
+- [00:24:06,580 - 00:24:08,240] than there is to think that E
+- [00:24:08,240 - 00:24:09,900] is a linear function of E prime.
+- [00:24:11,020 - 00:24:12,340] So this hasn't helped.
+- [00:24:12,940 - 00:24:16,200] Knowing that the energy is proportional to the volume
+- [00:24:16,800 - 00:24:19,040] doesn't help you understand in what
+- [00:24:19,040 - 00:24:21,280] sense the energy is a linear,
+- [00:24:21,380 - 00:24:23,460] the two energies are linear functions of each other,
+- [00:24:24,620 - 00:24:25,900] but it does tell you something.
+- [00:24:26,980 - 00:24:28,280] So let's see what it says.
+- [00:24:29,780 - 00:24:31,340] It will be useful.
+- [00:24:33,460 - 00:24:33,980] Okay.
+- [00:24:37,180 - 00:24:38,960] When a system is very big,
+- [00:24:39,000 - 00:24:40,980] the energy levels are very dense.
+- [00:24:41,340 - 00:24:42,620] Not dense in space,
+- [00:24:42,840 - 00:24:43,440] they're just many,
+- [00:24:43,440 - 00:24:46,020] many energy levels per unit energy.
+- [00:24:46,660 - 00:24:47,180] Many,
+- [00:24:47,180 - 00:24:48,660] many energy levels per unit density,
+- [00:24:48,820 - 00:24:49,540] per unit energy.
+- [00:24:50,240 - 00:24:52,600] You can write the partition
+- [00:24:52,600 - 00:24:54,960] function as an integral over energies
+- [00:24:55,300 - 00:24:56,820] just because the energy levels
+- [00:24:56,820 - 00:24:58,340] are so fine-grained like this.
+- [00:24:58,440 - 00:24:59,620] Fine-grained not in space,
+- [00:24:59,800 - 00:25:01,240] just in terms of energy.
+- [00:25:01,240 - 00:25:02,060] Energy vertically,
+- [00:25:02,760 - 00:25:03,740] levels plotted,
+- [00:25:04,120 - 00:25:04,460] many,
+- [00:25:04,460 - 00:25:05,020] many,
+- [00:25:05,020 - 00:25:05,280] many,
+- [00:25:05,280 - 00:25:05,940] many of them,
+- [00:25:06,060 - 00:25:07,620] and they're extremely dense.
+- [00:25:08,060 - 00:25:09,300] And what's more,
+- [00:25:09,380 - 00:25:10,040] in other words,
+- [00:25:10,060 - 00:25:13,460] the number of energy levels per unit energy gets very,
+- [00:25:13,460 - 00:25:14,020] very dense
+- [00:25:14,020 - 00:25:15,220] when a system gets large.
+- [00:25:16,400 - 00:25:16,780] All right?
+- [00:25:20,040 - 00:25:20,600] Moreover,
+- [00:25:21,440 - 00:25:23,680] the density of these energy
+- [00:25:23,680 - 00:25:25,920] levels grows very rapidly with energy.
+- [00:25:26,860 - 00:25:29,240] If you look at the ground state of a system,
+- [00:25:29,440 - 00:25:31,220] there aren't too many energy levels.
+- [00:25:31,220 - 00:25:32,040] There are only a few energy levels nearby.
+- [00:25:33,400 - 00:25:35,980] If you increase the energy,
+- [00:25:36,260 - 00:25:38,660] there are so many ways of
+- [00:25:38,660 - 00:25:41,060] creating a large amount of energy.
+- [00:25:42,160 - 00:25:45,320] There's only one way of having the ground state.
+- [00:25:45,780 - 00:25:47,610] There's only one way of exciting
+- [00:25:47,610 - 00:25:49,440] it to the first excited state.
+- [00:25:49,740 - 00:25:51,980] But if you excite it up here
+- [00:25:51,980 - 00:25:54,220] to some relatively large amount of energy,
+- [00:25:54,380 - 00:25:55,340] then there will be many,
+- [00:25:55,340 - 00:25:56,340] many levels in there,
+- [00:25:56,520 - 00:25:58,020] and that's a typical situation.
+- [00:25:58,640 - 00:26:00,040] So the number of levels,
+- [00:26:00,040 - 00:26:01,200] the number of energy states,
+- [00:26:01,220 - 00:26:03,840] per unit energy is a very
+- [00:26:03,840 - 00:26:06,460] rapidly rising function of the energy.
+- [00:26:07,320 - 00:26:08,320] That's the key.
+- [00:26:08,860 - 00:26:12,080] Let's call it the number of energy,
+- [00:26:12,320 - 00:26:14,440] the number of levels per unit energy.
+- [00:26:16,020 - 00:26:18,560] That's a very rapidly rising function
+- [00:26:18,560 - 00:26:21,100] of energy for almost all systems.
+- [00:26:21,280 - 00:26:21,580] In fact,
+- [00:26:21,580 - 00:26:22,780] for all large systems,
+- [00:26:22,920 - 00:26:25,640] meaning systems containing lots of molecules
+- [00:26:26,180 - 00:26:27,580] or lots of degrees of freedom.
+- [00:26:28,040 - 00:26:29,600] Very rapidly rising.
+- [00:26:30,000 - 00:26:30,640] Now,
+- [00:26:31,580 - 00:26:32,910] what do we have to
+- [00:26:32,910 - 00:26:34,240] do to compute the partition function?
+- [00:26:34,970 - 00:26:36,500] To compute the partition function,
+- [00:26:36,720 - 00:26:38,820] we want to sum e to
+- [00:26:38,820 - 00:26:40,920] the minus beta e sub i.
+- [00:26:41,120 - 00:26:43,440] We want to sum it over all states.
+- [00:26:44,620 - 00:26:45,740] In this limit,
+- [00:26:45,860 - 00:26:48,060] when the density of levels is very,
+- [00:26:48,060 - 00:26:48,740] very large,
+- [00:26:49,500 - 00:26:52,340] we can replace this by an integral.
+- [00:26:53,760 - 00:26:56,120] e to the minus beta e,
+- [00:26:57,140 - 00:26:58,160] d e,
+- [00:26:59,400 - 00:27:01,200] but that's not the end of the equation.
+- [00:27:01,200 - 00:27:01,560] That's the end of the story.
+- [00:27:02,440 - 00:27:04,060] We have to include in here
+- [00:27:04,060 - 00:27:07,640] the number of energy levels per unit energy.
+- [00:27:07,860 - 00:27:10,620] What we're doing is we're counting the energy levels,
+- [00:27:10,780 - 00:27:12,770] putting in each one with an
+- [00:27:12,770 - 00:27:14,760] e to the minus beta e i,
+- [00:27:15,860 - 00:27:17,420] but we have to ask
+- [00:27:17,420 - 00:27:18,980] how many energy levels are there
+- [00:27:20,939 - 00:27:22,140] per d e.
+- [00:27:23,000 - 00:27:23,400] Now,
+- [00:27:23,400 - 00:27:24,200] let's give that a name.
+- [00:27:24,360 - 00:27:25,500] I'm not sure what to call it.
+- [00:27:26,060 - 00:27:26,500] Oh,
+- [00:27:26,500 - 00:27:27,920] we can call it d n by d e.
+- [00:27:31,200 - 00:27:31,200] So,
+- [00:27:31,200 - 00:27:32,720] it's the number of levels per unit energy,
+- [00:27:34,100 - 00:27:36,240] and it's only if we put this factor in
+- [00:27:36,240 - 00:27:37,890] that we will be calculating the
+- [00:27:37,890 - 00:27:39,540] same thing as the sum here,
+- [00:27:39,700 - 00:27:41,360] or even approximating it.
+- [00:27:42,720 - 00:27:43,160] So,
+- [00:27:43,160 - 00:27:45,500] it's the integral of e to the minus beta e,
+- [00:27:45,720 - 00:27:46,940] d n by d e,
+- [00:27:47,020 - 00:27:49,680] where d n by d e is
+- [00:27:49,680 - 00:27:52,340] a very rapidly rising function of e.
+- [00:27:53,120 - 00:27:54,120] On the other hand,
+- [00:27:54,140 - 00:27:55,560] e to the minus beta e
+- [00:27:55,560 - 00:27:58,520] is a rapidly falling function of the energy.
+- [00:27:59,439 - 00:28:00,080] So,
+- [00:28:00,080 - 00:28:02,640] we have the product of two things,
+- [00:28:02,900 - 00:28:04,980] one which is rapidly rising,
+- [00:28:05,300 - 00:28:07,240] the other which is rapidly falling.
+- [00:28:08,060 - 00:28:09,500] And the result is
+- [00:28:09,500 - 00:28:11,840] that the product of these two things
+- [00:28:12,639 - 00:28:16,560] is typically concentrated in a fairly narrow,
+- [00:28:16,760 - 00:28:17,720] very narrow,
+- [00:28:17,720 - 00:28:18,280] in fact,
+- [00:28:18,300 - 00:28:20,120] range of energies.
+- [00:28:20,800 - 00:28:22,260] Let's call it delta e.
+- [00:28:25,080 - 00:28:25,820] All right.
+- [00:28:26,360 - 00:28:28,160] All that's really important
+- [00:28:29,440 - 00:28:31,220] to this argument over here
+- [00:28:31,220 - 00:28:34,740] was that within the range of energies,
+- [00:28:36,060 - 00:28:37,380] at a given temperature,
+- [00:28:37,380 - 00:28:38,080] of course,
+- [00:28:38,700 - 00:28:40,860] this range of energies is narrow,
+- [00:28:41,060 - 00:28:41,520] but it,
+- [00:28:41,520 - 00:28:41,820] of course,
+- [00:28:41,820 - 00:28:43,420] depends on what the temperature is.
+- [00:28:44,060 - 00:28:45,060] This function will move,
+- [00:28:45,120 - 00:28:47,360] the peak in this function will move around
+- [00:28:47,360 - 00:28:48,460] as we change the temperature.
+- [00:28:48,580 - 00:28:49,400] As we change the temperature,
+- [00:28:51,280 - 00:28:53,340] the falling function changes.
+- [00:28:53,560 - 00:28:55,200] The falling function changes
+- [00:28:55,200 - 00:28:56,820] as we raise the temperature,
+- [00:28:56,820 - 00:28:57,580] for example,
+- [00:28:57,580 - 00:29:00,020] and that will move the central peak around.
+- [00:29:00,280 - 00:29:01,600] It will also move the
+- [00:29:01,600 - 00:29:02,920] width of the central peak around.
+- [00:29:04,120 - 00:29:06,160] But for any given temperature,
+- [00:29:06,420 - 00:29:07,400] there's a central peak
+- [00:29:08,320 - 00:29:11,080] and a little bit of fluctuation around it.
+- [00:29:11,540 - 00:29:13,020] All that's really important
+- [00:29:13,520 - 00:29:15,160] is that over the range
+- [00:29:15,160 - 00:29:17,380] of energies,
+- [00:29:17,480 - 00:29:21,320] which are important under this distribution here,
+- [00:29:21,560 - 00:29:22,720] that under that,
+- [00:29:23,400 - 00:29:24,880] that within that range,
+- [00:29:24,880 - 00:29:27,420] that this function be linear.
+- [00:29:28,280 - 00:29:31,800] Things outside here are terribly unimportant.
+- [00:29:32,880 - 00:29:35,320] Only things inside this peak are important.
+- [00:29:35,720 - 00:29:36,160] And so,
+- [00:29:36,160 - 00:29:36,540] as I say,
+- [00:29:36,600 - 00:29:38,220] the important thing is that the energy,
+- [00:29:38,380 - 00:29:40,880] that the relationship between energies
+- [00:29:41,520 - 00:29:43,220] before you vary the parameters
+- [00:29:43,220 - 00:29:45,000] and after you vary the parameters
+- [00:29:45,000 - 00:29:50,340] is linear over the range of energies
+- [00:29:50,340 - 00:29:53,100] which are important under the integral sign here.
+- [00:29:53,660 - 00:29:54,440] All right.
+- [00:29:54,440 - 00:29:54,860] So let's end this.
+- [00:29:54,880 - 00:29:54,980] Now,
+- [00:29:54,980 - 00:29:54,980] I want to ask,
+- [00:29:55,680 - 00:29:57,840] is that likely to be the case?
+- [00:29:59,650 - 00:30:01,460] Let's go back to the energy density.
+- [00:30:01,820 - 00:30:02,840] The energy density,
+- [00:30:02,840 - 00:30:03,260] again,
+- [00:30:03,460 - 00:30:05,480] will have no reason to be a linear function.
+- [00:30:06,300 - 00:30:08,400] The only thing we can expect of it
+- [00:30:08,400 - 00:30:10,020] is that it's a smooth function.
+- [00:30:10,840 - 00:30:13,840] The energy density is likely to be a smooth function.
+- [00:30:14,280 - 00:30:15,400] We'll assume that.
+- [00:30:16,100 - 00:30:17,440] A smooth function,
+- [00:30:17,620 - 00:30:21,300] the energy density before and after,
+- [00:30:21,460 - 00:30:23,080] epsilon and epsilon prime,
+- [00:30:23,880 - 00:30:26,440] assume that they are smooth functions of each other.
+- [00:30:27,240 - 00:30:27,700] In other words,
+- [00:30:27,720 - 00:30:28,900] if you know the energy density
+- [00:30:28,900 - 00:30:31,360] before you do the adiabatic transformation,
+- [00:30:31,520 - 00:30:33,540] the adiabatic change on things,
+- [00:30:33,980 - 00:30:36,460] then that should tell you the energy density afterwards.
+- [00:30:36,940 - 00:30:40,980] So that means that epsilon is a smooth function,
+- [00:30:41,100 - 00:30:44,420] let's just call it F of epsilon prime,
+- [00:30:45,080 - 00:30:46,340] or vice versa.
+- [00:30:48,960 - 00:30:50,580] That's all we really need
+- [00:30:50,580 - 00:30:52,820] in order to make the argument.
+- [00:30:52,820 - 00:30:53,660] Okay.
+- [00:30:54,600 - 00:30:57,960] Let's talk about the width of the distribution
+- [00:30:57,960 - 00:30:59,440] of epsilon prime,
+- [00:30:59,440 - 00:31:00,100] of epsilon.
+- [00:31:00,420 - 00:31:01,320] Not E,
+- [00:31:01,320 - 00:31:02,200] but epsilon.
+- [00:31:02,880 - 00:31:04,180] They're only related,
+- [00:31:04,300 - 00:31:05,700] they're very closely related.
+- [00:31:05,940 - 00:31:07,880] They're simply energy and energy density.
+- [00:31:08,440 - 00:31:12,960] E is equal to V times epsilon.
+- [00:31:14,140 - 00:31:16,080] But let's see if we can estimate
+- [00:31:16,800 - 00:31:18,880] the width of this distribution.
+- [00:31:18,960 - 00:31:21,440] Let's begin with the width of the distribution.
+- [00:31:21,780 - 00:31:21,840] Oh,
+- [00:31:21,840 - 00:31:22,580] first of all,
+- [00:31:22,820 - 00:31:23,360] let's draw a curve.
+- [00:31:23,700 - 00:31:25,240] Here's epsilon prime,
+- [00:31:25,560 - 00:31:26,540] here's epsilon,
+- [00:31:26,860 - 00:31:28,640] and assume it's a smooth function.
+- [00:31:28,900 - 00:31:30,240] The energy densities
+- [00:31:30,820 - 00:31:35,120] before and after the adiabatic change.
+- [00:31:35,780 - 00:31:36,360] Okay.
+- [00:31:36,860 - 00:31:37,580] Now,
+- [00:31:37,580 - 00:31:40,220] energy is V times epsilon.
+- [00:31:41,000 - 00:31:43,760] What about the width
+- [00:31:44,480 - 00:31:46,400] of the uncertainty,
+- [00:31:47,440 - 00:31:49,520] or the width of the distribution,
+- [00:31:49,600 - 00:31:51,400] the width of that profile of that function,
+- [00:31:51,400 - 00:31:52,080] delta E?
+- [00:31:53,760 - 00:31:55,620] How big do we expect the fluctuations
+- [00:31:55,620 - 00:31:56,900] in energy to be?
+- [00:31:57,240 - 00:31:58,240] Anybody got an idea?
+- [00:32:00,600 - 00:32:01,040] Well,
+- [00:32:01,040 - 00:32:04,400] there is a heat capacity formula.
+- [00:32:04,640 - 00:32:04,960] Now,
+- [00:32:04,960 - 00:32:06,700] don't go back to the heat capacity formula.
+- [00:32:06,920 - 00:32:07,100] It's not,
+- [00:32:07,100 - 00:32:08,500] it'll get you there.
+- [00:32:08,700 - 00:32:09,500] It will get you there.
+- [00:32:09,920 - 00:32:11,600] But just doing statistics,
+- [00:32:11,880 - 00:32:12,620] what would you expect?
+- [00:32:12,780 - 00:32:13,100] You have a,
+- [00:32:13,100 - 00:32:14,840] energy is a large number,
+- [00:32:14,940 - 00:32:17,120] energy is proportional to the number of particles.
+- [00:32:17,380 - 00:32:17,700] Okay?
+- [00:32:19,560 - 00:32:20,000] Right.
+- [00:32:20,000 - 00:32:21,460] You expect that the fluctuations
+- [00:32:21,460 - 00:32:23,140] be of order the square root.
+- [00:32:23,620 - 00:32:24,280] All right?
+- [00:32:24,500 - 00:32:25,580] Square root of volume.
+- [00:32:27,280 - 00:32:29,680] Volume being proportional to the number of particles,
+- [00:32:29,860 - 00:32:30,720] a fixed density.
+- [00:32:31,260 - 00:32:31,940] All right?
+- [00:32:31,960 - 00:32:33,020] So we take the square root,
+- [00:32:33,100 - 00:32:35,440] but the fluctuation in energy should be of order
+- [00:32:36,360 - 00:32:38,100] the square root of the volume.
+- [00:32:39,640 - 00:32:40,360] Times something,
+- [00:32:40,360 - 00:32:41,180] doesn't matter what,
+- [00:32:41,300 - 00:32:42,540] but order the square root
+- [00:32:42,540 - 00:32:43,780] of the volume of the system.
+- [00:32:45,180 - 00:32:47,140] And now let's think about the fluctuations
+- [00:32:47,140 - 00:32:48,480] in the energy density.
+- [00:32:48,480 - 00:32:51,080] To get to the fluctuations of the uncertainty
+- [00:32:51,080 - 00:32:52,000] in the energy density,
+- [00:32:52,240 - 00:32:54,780] we divide energy by volume.
+- [00:32:55,140 - 00:32:56,720] So we just divide by volume.
+- [00:32:56,820 - 00:32:59,340] The uncertainty in energy divided by the volume
+- [00:33:00,060 - 00:33:04,160] is equal to one over the square root of V.
+- [00:33:05,280 - 00:33:09,700] So this means that we're only interested
+- [00:33:10,540 - 00:33:12,600] in a range of energy densities
+- [00:33:13,420 - 00:33:14,720] which are of order one over
+- [00:33:14,720 - 00:33:16,020] the square root of the volume.
+- [00:33:16,460 - 00:33:18,400] As the volume gets bigger and bigger,
+- [00:33:18,400 - 00:33:20,300] and the energy densities don't,
+- [00:33:20,300 - 00:33:22,420] the energy density is an intensive quantity.
+- [00:33:22,680 - 00:33:23,790] It doesn't vary as you
+- [00:33:23,790 - 00:33:24,900] make a system bigger and bigger
+- [00:33:24,900 - 00:33:25,660] at fixed temperature,
+- [00:33:25,660 - 00:33:26,260] for example.
+- [00:33:26,980 - 00:33:29,340] So as you make the system bigger and bigger
+- [00:33:29,340 - 00:33:30,240] at fixed temperature,
+- [00:33:30,460 - 00:33:31,920] make the system large,
+- [00:33:32,020 - 00:33:32,220] many,
+- [00:33:32,220 - 00:33:33,140] many degrees of freedom,
+- [00:33:33,840 - 00:33:36,560] then the range of energy densities
+- [00:33:36,560 - 00:33:39,700] that are important under this curve
+- [00:33:39,700 - 00:33:42,080] becomes narrower and narrower
+- [00:33:42,080 - 00:33:43,900] and gets squeezed down by amount
+- [00:33:43,900 - 00:33:45,720] one over square root of V.
+- [00:33:46,680 - 00:33:48,300] Under those circumstances,
+- [00:33:49,880 - 00:33:55,740] as long as the energy after adiabatic transformation
+- [00:33:56,400 - 00:33:59,560] is a smooth function of the original energy density,
+- [00:34:00,180 - 00:34:02,560] then you can approximate it by being linear.
+- [00:34:04,160 - 00:34:07,180] Because there's such a narrow range of energy densities
+- [00:34:07,180 - 00:34:09,620] that you can always approximate it
+- [00:34:09,620 - 00:34:11,500] when the system becomes large enough
+- [00:34:11,500 - 00:34:12,900] by a linear function.
+- [00:34:13,900 - 00:34:16,620] Once you've approximated it over the relevant range
+- [00:34:16,620 - 00:34:17,840] by a linear function,
+- [00:34:18,400 - 00:34:21,440] then this argument here works.
+- [00:34:22,739 - 00:34:25,480] So the key to it is that
+- [00:34:26,940 - 00:34:30,520] we must be dealing with large systems.
+- [00:34:31,080 - 00:34:31,659] Now,
+- [00:34:31,659 - 00:34:35,820] what about small systems?
+- [00:34:36,080 - 00:34:37,719] What about small systems?
+- [00:34:38,060 - 00:34:41,380] If the small system is part of the large system,
+- [00:34:42,120 - 00:34:43,440] first of all,
+- [00:34:43,440 - 00:34:45,440] if you take a small system,
+- [00:34:46,760 - 00:34:49,040] a handful of degrees of freedom,
+- [00:34:49,219 - 00:34:51,719] you isolate it or insulate it,
+- [00:34:51,840 - 00:34:55,199] and then make an adiabatic change of some sort,
+- [00:34:55,420 - 00:34:57,420] it will not stay in thermal equilibrium.
+- [00:34:58,420 - 00:35:01,740] The probability distribution for the small subsystem
+- [00:35:01,740 - 00:35:03,420] will not be in thermal equilibrium,
+- [00:35:03,420 - 00:35:03,880] period.
+- [00:35:04,180 - 00:35:06,720] Let me ask a very naive question.
+- [00:35:07,680 - 00:35:09,430] So what's the significance
+- [00:35:09,430 - 00:35:11,180] of staying in thermal equilibrium?
+- [00:35:12,200 - 00:35:12,800] Well,
+- [00:35:12,800 - 00:35:14,200] that's an assumption in thermodynamics,
+- [00:35:14,200 - 00:35:16,200] that if you vary a system slowly,
+- [00:35:16,340 - 00:35:17,500] it stays in thermal equilibrium.
+- [00:35:17,700 - 00:35:18,940] We've used that over and over
+- [00:35:19,540 - 00:35:27,800] with the idea that varying the parameters of a system
+- [00:35:27,800 - 00:35:29,180] leaves it in thermal equilibrium.
+- [00:35:29,320 - 00:35:29,620] Otherwise,
+- [00:35:29,620 - 00:35:30,860] we couldn't use thermodynamics
+- [00:35:30,860 - 00:35:35,340] to study it after we have made
+- [00:35:35,340 - 00:35:37,520] an adiabatic change in the system.
+- [00:35:40,420 - 00:35:41,460] For example,
+- [00:35:41,460 - 00:35:44,180] we defined pressure
+- [00:35:44,200 - 00:35:49,740] to be the derivative of the energy
+- [00:35:50,560 - 00:35:52,060] with respect to volume
+- [00:35:53,840 - 00:35:56,420] in an adiabatic change on the system.
+- [00:35:57,000 - 00:35:58,820] Adiabatic change on the system means
+- [00:35:58,820 - 00:36:00,080] now you just vary parameters.
+- [00:36:00,930 - 00:36:03,000] But we also assumed that the system
+- [00:36:03,000 - 00:36:04,200] stayed in thermal equilibrium
+- [00:36:04,200 - 00:36:08,080] so that we could relate it
+- [00:36:08,080 - 00:36:09,820] to the derivative of the free energy
+- [00:36:09,820 - 00:36:13,080] with respect to the volume at fixed temperature.
+- [00:36:14,120 - 00:36:15,660] In that derivation,
+- [00:36:15,660 - 00:36:16,780] it was definitely assumed
+- [00:36:16,780 - 00:36:18,580] that the system stays in thermal equilibrium
+- [00:36:18,580 - 00:36:20,260] and that all that happens to it,
+- [00:36:20,280 - 00:36:21,740] it stays in thermal equilibrium
+- [00:36:21,740 - 00:36:24,280] and the entropy stays the same.
+- [00:36:24,780 - 00:36:25,300] Well,
+- [00:36:25,300 - 00:36:26,980] we know the entropy stays the same,
+- [00:36:27,080 - 00:36:29,320] but we don't know that it stays in thermal equilibrium
+- [00:36:29,320 - 00:36:30,460] until we make an argument.
+- [00:36:31,280 - 00:36:32,100] So it's...
+- [00:36:33,200 - 00:36:36,080] All the thermodynamics would go down the tube
+- [00:36:36,680 - 00:36:38,480] if systems didn't stay in equilibrium
+- [00:36:38,480 - 00:36:40,760] when you make gradual changes,
+- [00:36:40,980 - 00:36:41,460] for example,
+- [00:36:41,460 - 00:36:42,000] in the volume.
+- [00:36:43,080 - 00:36:43,400] So,
+- [00:36:43,400 - 00:36:44,740] our classical thermodynamics,
+- [00:36:45,360 - 00:36:46,360] those tools,
+- [00:36:46,360 - 00:36:46,740] kind of,
+- [00:36:46,740 - 00:36:48,080] we push them aside.
+- [00:36:48,380 - 00:36:50,200] But then there must be these interesting cases
+- [00:36:50,200 - 00:36:52,060] where it doesn't stay in thermal equilibrium
+- [00:36:52,060 - 00:36:53,160] in these small systems.
+- [00:36:53,300 - 00:36:53,520] Well,
+- [00:36:53,520 - 00:36:55,360] I can't visualize what that means.
+- [00:36:57,460 - 00:36:59,600] It means that the probability distribution
+- [00:37:00,380 - 00:37:00,880] afterwards,
+- [00:37:00,880 - 00:37:03,020] when you make the change...
+- [00:37:03,020 - 00:37:05,080] So here's the Goduncan experiment.
+- [00:37:05,360 - 00:37:06,380] Let's imagine an experiment.
+- [00:37:06,720 - 00:37:08,780] This is not something we're going to go around doing
+- [00:37:08,780 - 00:37:10,040] easily in the laboratory,
+- [00:37:10,040 - 00:37:10,680] but you can.
+- [00:37:10,680 - 00:37:11,540] Yeah,
+- [00:37:11,540 - 00:37:11,980] you can.
+- [00:37:12,700 - 00:37:13,260] Yeah,
+- [00:37:13,260 - 00:37:13,500] okay,
+- [00:37:13,500 - 00:37:14,680] let's take an example.
+- [00:37:14,840 - 00:37:15,940] You have a single atom,
+- [00:37:16,680 - 00:37:18,800] and the single atom has many energy levels.
+- [00:37:19,720 - 00:37:20,480] All right?
+- [00:37:21,060 - 00:37:23,580] It's in equilibrium with its environment.
+- [00:37:23,740 - 00:37:26,240] It's being kicked around in whatever it's doing.
+- [00:37:26,480 - 00:37:28,560] And if you ask what the probability
+- [00:37:28,560 - 00:37:30,820] that that atom has a particular level,
+- [00:37:31,720 - 00:37:34,080] what's the probability for different energy levels,
+- [00:37:34,420 - 00:37:36,840] it will be the Boltzmann distribution.
+- [00:37:37,000 - 00:37:38,440] It will be the Boltzmann distribution
+- [00:37:38,440 - 00:37:40,320] because a small atom,
+- [00:37:40,680 - 00:37:42,920] is an example of a small subsystem
+- [00:37:42,920 - 00:37:44,960] in thermal equilibrium with its environment.
+- [00:37:45,860 - 00:37:47,940] So its probability distribution
+- [00:37:47,940 - 00:37:49,540] for the different energy levels
+- [00:37:49,540 - 00:37:52,440] will be e to the minus beta e.
+- [00:37:54,060 - 00:37:54,880] E sub i.
+- [00:37:56,240 - 00:37:58,000] If you measure the energy now,
+- [00:37:58,220 - 00:37:59,560] that's exactly what you...
+- [00:37:59,560 - 00:38:00,100] Of course,
+- [00:38:00,100 - 00:38:00,960] you might imagine many,
+- [00:38:00,960 - 00:38:01,560] many atoms.
+- [00:38:01,700 - 00:38:03,880] You can't do an experiment on one atom.
+- [00:38:03,940 - 00:38:05,360] You do an experiment on many atoms,
+- [00:38:05,520 - 00:38:08,140] and you see how many of them have each energy.
+- [00:38:08,980 - 00:38:10,540] And it will conform to this.
+- [00:38:11,220 - 00:38:11,620] Okay,
+- [00:38:11,620 - 00:38:12,300] but now,
+- [00:38:12,300 - 00:38:13,680] before you...
+- [00:38:15,620 - 00:38:17,360] Now you take the atom,
+- [00:38:17,460 - 00:38:20,120] and you take it out of contact with its environment.
+- [00:38:20,880 - 00:38:21,930] It's not so hard to
+- [00:38:21,930 - 00:38:22,980] imagine how you might do that.
+- [00:38:23,020 - 00:38:24,980] You simply move the atom out of the container
+- [00:38:24,980 - 00:38:26,260] of material that it's in,
+- [00:38:26,980 - 00:38:28,240] interacting with other things.
+- [00:38:28,480 - 00:38:29,640] You isolate it.
+- [00:38:29,660 - 00:38:31,060] You don't look at its energy level.
+- [00:38:31,100 - 00:38:31,520] So far,
+- [00:38:31,520 - 00:38:32,860] you don't know what its energy is,
+- [00:38:33,360 - 00:38:36,000] but you take it out of contact with its environment,
+- [00:38:37,180 - 00:38:38,640] and then you look at its energy.
+- [00:38:39,040 - 00:38:39,440] Well,
+- [00:38:39,440 - 00:38:40,660] it'll be exactly the same.
+- [00:38:40,680 - 00:38:42,240] You haven't done anything to its energy,
+- [00:38:42,420 - 00:38:43,640] its internal energy.
+- [00:38:43,860 - 00:38:45,960] It'll still be e to the minus beta e,
+- [00:38:46,640 - 00:38:48,420] because you haven't done anything to it.
+- [00:38:49,480 - 00:38:49,960] Okay,
+- [00:38:49,960 - 00:38:51,640] but now we're going to do something to it.
+- [00:38:51,820 - 00:38:53,200] Don't look at the atom yet,
+- [00:38:53,360 - 00:38:55,300] but put it in a magnetic field.
+- [00:38:55,520 - 00:38:57,160] It's an isolated atom.
+- [00:38:57,400 - 00:38:59,820] It's not in thermal contact with anything.
+- [00:39:00,240 - 00:39:02,700] It's insulated for all practical purposes,
+- [00:39:02,860 - 00:39:04,500] because there's only vacuum around it.
+- [00:39:04,760 - 00:39:07,060] And now you put it in a magnetic field,
+- [00:39:07,220 - 00:39:09,120] and you vary the magnetic field.
+- [00:39:09,360 - 00:39:10,660] The effect of varying the magnetic field
+- [00:39:13,880 - 00:39:16,320] is to vary the energy levels.
+- [00:39:16,380 - 00:39:18,720] It's an example of an adiabatic change.
+- [00:39:18,980 - 00:39:21,380] You slowly ramp up the magnetic field,
+- [00:39:21,520 - 00:39:24,880] and each atom's energy level change.
+- [00:39:25,320 - 00:39:26,820] All the energy levels change.
+- [00:39:28,660 - 00:39:29,300] Then,
+- [00:39:29,300 - 00:39:31,720] after you've ramped it up like this,
+- [00:39:32,440 - 00:39:34,700] being very careful not to allow it
+- [00:39:34,700 - 00:39:36,020] to interact with its environment,
+- [00:39:36,460 - 00:39:39,160] you then measure the energy
+- [00:39:39,160 - 00:39:40,520] of each one of these atoms.
+- [00:39:40,560 - 00:39:40,660] And then you measure the energy
+- [00:39:40,960 - 00:39:43,540] And you will find out that the probability distribution
+- [00:39:43,540 - 00:39:45,800] is exactly what it started with,
+- [00:39:46,490 - 00:39:48,220] but in terms of the original energy,
+- [00:39:48,360 - 00:39:49,380] not the final energy.
+- [00:39:50,980 - 00:39:54,260] So the implication is that that atom
+- [00:39:54,260 - 00:39:56,040] will not be in thermal equilibrium.
+- [00:39:56,240 - 00:39:57,340] It will not have a temperature.
+- [00:39:57,820 - 00:39:59,680] It will be out of thermal equilibrium,
+- [00:40:00,460 - 00:40:02,980] and it will have a different entropy
+- [00:40:03,660 - 00:40:04,900] than you would have expected
+- [00:40:05,570 - 00:40:07,700] had it stayed in thermal equilibrium.
+- [00:40:09,220 - 00:40:10,640] You can track what happens
+- [00:40:10,660 - 00:40:11,060] with what its energy,
+- [00:40:11,280 - 00:40:12,720] what its average energy is,
+- [00:40:12,900 - 00:40:17,520] but its average energy and its entropy,
+- [00:40:17,700 - 00:40:20,240] the relation between the average energy and entropy,
+- [00:40:20,400 - 00:40:21,960] will not be that of thermal equilibrium.
+- [00:40:22,340 - 00:40:23,860] So that's a Gedanken experiment.
+- [00:40:24,540 - 00:40:26,340] The question here is not
+- [00:40:26,340 - 00:40:29,340] what happens when that occurs.
+- [00:40:29,760 - 00:40:30,820] That you can follow.
+- [00:40:31,220 - 00:40:32,360] The question is,
+- [00:40:32,420 - 00:40:36,640] why do any systems remain in thermal equilibrium?
+- [00:40:37,740 - 00:40:40,420] Why do any systems remain in thermal equilibrium?
+- [00:40:40,660 - 00:40:42,880] Now the example of the atoms was a little,
+- [00:40:42,920 - 00:40:43,900] well it wasn't artificial,
+- [00:40:44,180 - 00:40:44,880] it was a good example,
+- [00:40:45,080 - 00:40:47,940] but I've imagined the atoms didn't interact with each other.
+- [00:40:48,100 - 00:40:49,440] After I took them out,
+- [00:40:49,540 - 00:40:50,540] the whole bunch of them,
+- [00:40:51,080 - 00:40:53,520] I imagine they didn't interact with each other,
+- [00:40:53,560 - 00:40:55,300] so they didn't provide their own heat bath.
+- [00:40:56,600 - 00:40:58,240] Let's suppose we took a system,
+- [00:40:58,400 - 00:41:01,460] we isolated it in the same way,
+- [00:41:02,100 - 00:41:04,340] ramped up some magnetic field or whatever,
+- [00:41:04,580 - 00:41:07,980] but allowing the subsystems to interact with each other.
+- [00:41:08,780 - 00:41:09,860] Then what happens?
+- [00:41:12,100 - 00:41:15,060] Then they largely stay in thermal equilibrium.
+- [00:41:15,280 - 00:41:17,480] It becomes a single big system.
+- [00:41:17,580 - 00:41:19,200] For a single big system,
+- [00:41:20,580 - 00:41:22,060] for a single big system,
+- [00:41:22,140 - 00:41:24,020] even though the energy,
+- [00:41:24,940 - 00:41:27,440] the energies may not be linear,
+- [00:41:27,700 - 00:41:30,540] as long as there's a good notion of energy density,
+- [00:41:30,780 - 00:41:32,700] as long as there's a good notion of energy density,
+- [00:41:33,380 - 00:41:35,320] and the energy density is
+- [00:41:35,320 - 00:41:37,260] a smooth function before and after,
+- [00:41:37,860 - 00:41:38,380] then,
+- [00:41:38,380 - 00:41:42,600] the fluctuations in energy density are small enough
+- [00:41:42,600 - 00:41:45,340] that you can pretend that this relationship is linear.
+- [00:41:45,860 - 00:41:48,460] That is the bottom line.
+- [00:41:48,680 - 00:41:50,180] Systems stay in thermal equilibrium
+- [00:41:50,180 - 00:41:52,880] if they have lots and lots of degrees of freedom,
+- [00:41:54,260 - 00:41:57,460] so that the energy fluctuations are very small
+- [00:41:57,460 - 00:41:59,240] by comparison with the energy itself.
+- [00:42:00,520 - 00:42:01,620] In other words,
+- [00:42:01,740 - 00:42:04,940] they stay in equilibrium if this peak is narrow enough.
+- [00:42:05,260 - 00:42:07,060] If the peak is narrow enough,
+- [00:42:07,060 - 00:42:09,740] then over the range of the peak here,
+- [00:42:09,880 - 00:42:14,080] you can assume that the final output energy
+- [00:42:14,080 - 00:42:16,160] and the input energy are linearly related.
+- [00:42:16,860 - 00:42:17,440] Okay,
+- [00:42:17,440 - 00:42:20,100] that's just the dull,
+- [00:42:20,200 - 00:42:23,060] rather dull answer to the story.
+- [00:42:25,280 - 00:42:25,860] Yeah?
+- [00:42:26,560 - 00:42:28,920] I was looking at Feynman's book on,
+- [00:42:29,660 - 00:42:32,360] in the chapter on thermodynamics,
+- [00:42:32,440 - 00:42:35,060] he discusses Carnot cycles and things of that sort,
+- [00:42:35,220 - 00:42:37,040] and he uses,
+- [00:42:37,060 - 00:42:42,400] he talked about the adiabatic phase of the Carnot cycle,
+- [00:42:42,700 - 00:42:45,080] and used the term temperature.
+- [00:42:45,420 - 00:42:47,160] He said the temperature falls
+- [00:42:47,160 - 00:42:51,160] as you pull the piston out of the thing.
+- [00:42:51,460 - 00:42:53,420] So this would have to be
+- [00:42:53,420 - 00:42:55,380] a case of this sort here
+- [00:42:55,380 - 00:42:56,760] in order to work.
+- [00:42:56,960 - 00:42:57,320] Sure.
+- [00:42:58,380 - 00:42:58,960] Yeah.
+- [00:42:59,900 - 00:43:01,420] Clearly it does work,
+- [00:43:01,440 - 00:43:01,660] I mean,
+- [00:43:01,700 - 00:43:03,160] because the whole theory is...
+- [00:43:05,020 - 00:43:05,600] Right,
+- [00:43:05,600 - 00:43:06,840] but it's dependent on the gas
+- [00:43:07,060 - 00:43:07,880] and the gas is having a lot of molecules.
+- [00:43:09,980 - 00:43:13,240] And people speak about the thermodynamic limit.
+- [00:43:13,580 - 00:43:16,060] The definition of a thermodynamic limit
+- [00:43:16,060 - 00:43:18,280] is that the system is big enough
+- [00:43:18,960 - 00:43:22,580] so that the fluctuations in the various quantities
+- [00:43:22,580 - 00:43:24,020] are small by their own,
+- [00:43:24,080 - 00:43:25,840] by comparison with their values.
+- [00:43:26,380 - 00:43:27,200] All right?
+- [00:43:27,799 - 00:43:29,300] So it's only in that limit
+- [00:43:29,879 - 00:43:31,880] that the system stays in thermal equilibrium.
+- [00:43:34,700 - 00:43:35,860] It's a dull answer.
+- [00:43:35,860 - 00:43:37,120] It's not terribly interesting.
+- [00:43:40,380 - 00:43:42,100] I don't know if you want another example
+- [00:43:42,100 - 00:43:45,720] of something that could get out of equilibrium,
+- [00:43:46,060 - 00:43:48,430] but if you had a gas
+- [00:43:48,430 - 00:43:50,800] in some kind of a chamber
+- [00:43:51,980 - 00:43:53,540] that's trapped in one side
+- [00:43:53,540 - 00:43:59,040] and then somehow or another opened the gate
+- [00:43:59,040 - 00:44:00,850] so that the gas was no
+- [00:44:00,850 - 00:44:02,660] longer confined to half the chamber,
+- [00:44:04,260 - 00:44:05,840] then you clearly have a problem
+- [00:44:05,860 - 00:44:06,680] because you clearly wouldn't be in equilibrium
+- [00:44:07,260 - 00:44:08,940] because you wouldn't have the pressures
+- [00:44:08,940 - 00:44:11,780] on the end walls of the container with...
+- [00:44:11,780 - 00:44:12,780] That's a different system.
+- [00:44:12,920 - 00:44:13,800] That's a different situation.
+- [00:44:15,080 - 00:44:19,060] That's a situation when you make a sudden change.
+- [00:44:19,260 - 00:44:19,600] Right.
+- [00:44:19,760 - 00:44:20,280] Right.
+- [00:44:20,680 - 00:44:21,980] Making a sudden change
+- [00:44:21,980 - 00:44:24,020] certainly kicks systems out of equilibrium.
+- [00:44:24,940 - 00:44:26,760] But they will return to equilibrium
+- [00:44:26,760 - 00:44:28,160] but at a different temperature.
+- [00:44:28,660 - 00:44:30,940] Now we're talking about making a very,
+- [00:44:30,940 - 00:44:32,200] very gradual change.
+- [00:44:33,220 - 00:44:33,740] Okay?
+- [00:44:33,740 - 00:44:34,820] A very,
+- [00:44:34,820 - 00:44:37,100] very gradual change at every instant
+- [00:44:37,100 - 00:44:38,600] the system will stay in equilibrium
+- [00:44:38,600 - 00:44:40,380] in the approximation
+- [00:44:40,380 - 00:44:43,000] that the fluctuations can be
+- [00:44:43,000 - 00:44:43,680] are much,
+- [00:44:43,680 - 00:44:45,060] much smaller than the energy itself.
+- [00:44:45,700 - 00:44:46,400] In other words,
+- [00:44:46,400 - 00:44:48,580] when this distribution is narrow enough,
+- [00:44:49,380 - 00:44:51,840] then over the range of interest
+- [00:44:51,840 - 00:44:53,780] any function is linear.
+- [00:44:54,200 - 00:44:55,960] The question then arises,
+- [00:44:56,080 - 00:44:57,080] what's sudden,
+- [00:44:57,080 - 00:44:57,840] what's gradual?
+- [00:44:59,340 - 00:44:59,980] Right.
+- [00:45:00,620 - 00:45:03,720] Sudden means it's large enough
+- [00:45:03,720 - 00:45:04,720] to be large compared to the...
+- [00:45:06,720 - 00:45:10,080] Basically the speed of the process.
+- [00:45:10,420 - 00:45:10,440] Speed of sound.
+- [00:45:10,920 - 00:45:12,480] If you're talking about a gas,
+- [00:45:12,640 - 00:45:16,180] we're talking about the piston has to move slow
+- [00:45:16,180 - 00:45:17,760] relative to the speed of the molecule.
+- [00:45:18,020 - 00:45:18,460] Well,
+- [00:45:18,460 - 00:45:19,360] it's the speed of sound.
+- [00:45:19,540 - 00:45:19,780] Yeah.
+- [00:45:19,880 - 00:45:21,010] Speed of molecules and speed
+- [00:45:21,010 - 00:45:22,140] of sound is about the same.
+- [00:45:22,280 - 00:45:22,660] That's right.
+- [00:45:23,840 - 00:45:24,280] Yeah.
+- [00:45:25,600 - 00:45:26,480] For example...
+- [00:45:28,960 - 00:45:29,400] Sure.
+- [00:45:30,280 - 00:45:31,700] If you move the piston
+- [00:45:32,360 - 00:45:35,060] with a velocity faster than the speed of sound
+- [00:45:35,060 - 00:45:36,500] or faster than the speed of molecules,
+- [00:45:36,880 - 00:45:37,580] then,
+- [00:45:37,580 - 00:45:38,100] for example,
+- [00:45:38,100 - 00:45:38,760] you could...
+- [00:45:39,660 - 00:45:40,620] Here's the piston.
+- [00:45:40,840 - 00:45:41,780] Here's the molecules.
+- [00:45:42,440 - 00:45:44,880] You suddenly jerk the piston out,
+- [00:45:45,560 - 00:45:48,500] and you certainly create something out of equilibrium.
+- [00:45:48,880 - 00:45:50,780] The molecules don't follow it
+- [00:45:50,780 - 00:45:51,960] because they don't move that fast,
+- [00:45:52,160 - 00:45:54,000] and you just create a region
+- [00:45:55,320 - 00:45:56,480] which is empty,
+- [00:45:57,200 - 00:45:58,920] and all the molecules are in here.
+- [00:45:59,000 - 00:46:00,180] That's not equilibrium.
+- [00:46:01,020 - 00:46:02,020] Far from it.
+- [00:46:02,180 - 00:46:03,740] But if you wait a while...
+- [00:46:06,220 - 00:46:09,320] Even if it's isolated,
+- [00:46:09,740 - 00:46:11,240] if you wait a while...
+- [00:46:11,240 - 00:46:13,000] Even if it's isolated,
+- [00:46:13,140 - 00:46:15,800] what will happen if it's isolated?
+- [00:46:20,800 - 00:46:23,820] Now you get the parts which are in equilibrium
+- [00:46:23,820 - 00:46:26,210] with whatever energy happens to be
+- [00:46:26,210 - 00:46:28,600] in the thing at the time...
+- [00:46:28,600 - 00:46:28,880] That's right.
+- [00:46:28,920 - 00:46:30,020] ...then becomes the energy
+- [00:46:30,020 - 00:46:30,160] of the molecule.
+- [00:46:30,180 - 00:46:32,680] The energy which is the driving energy
+- [00:46:32,680 - 00:46:34,000] and which defines the...
+- [00:46:34,000 - 00:46:34,600] The equilibrium.
+- [00:46:34,900 - 00:46:35,340] The equilibrium.
+- [00:46:35,640 - 00:46:35,760] Yeah.
+- [00:46:35,820 - 00:46:37,220] So the temperature will change
+- [00:46:37,220 - 00:46:39,400] to adjust to the new volume
+- [00:46:40,220 - 00:46:41,400] with the energy...
+- [00:46:41,400 - 00:46:42,600] In this particular example,
+- [00:46:42,780 - 00:46:44,120] where you pull a piston out suddenly,
+- [00:46:44,400 - 00:46:46,480] you do no work on the molecules,
+- [00:46:47,050 - 00:46:49,080] and so it's the energy which doesn't change,
+- [00:46:49,140 - 00:46:51,100] the kinetic energy in that particular example.
+- [00:46:52,060 - 00:46:52,760] All right?
+- [00:46:52,800 - 00:46:54,440] But it's kicked way out of equilibrium.
+- [00:46:56,640 - 00:46:58,040] It's got a larger volume,
+- [00:46:58,040 - 00:46:59,760] same energy.
+- [00:47:00,080 - 00:47:02,440] It's not supposed to have the same...
+- [00:47:03,720 - 00:47:04,800] an equilibrium.
+- [00:47:05,160 - 00:47:07,620] It would have a different temperature.
+- [00:47:08,440 - 00:47:10,600] But the kinetic energy of the molecules
+- [00:47:10,600 - 00:47:11,580] is whatever it was,
+- [00:47:11,740 - 00:47:12,560] but it will readjust.
+- [00:47:13,820 - 00:47:14,420] So...
+- [00:47:15,360 - 00:47:18,500] If you just had a pure gas,
+- [00:47:18,620 - 00:47:19,600] pure ideal gas,
+- [00:47:19,800 - 00:47:21,340] then it's not even an approximation.
+- [00:47:21,700 - 00:47:25,540] It's exactly EI is equal to B times EI prime.
+- [00:47:25,760 - 00:47:26,080] Right.
+- [00:47:26,160 - 00:47:26,720] Of course,
+- [00:47:26,720 - 00:47:27,740] an ideal gas,
+- [00:47:27,740 - 00:47:29,920] a real idealized ideal gas,
+- [00:47:30,160 - 00:47:31,780] would not come to thermal equilibrium.
+- [00:47:34,680 - 00:47:37,120] It's always assumed...
+- [00:47:37,120 - 00:47:37,120] Well,
+- [00:47:37,120 - 00:47:37,720] a real...
+- [00:47:37,720 - 00:47:38,820] What will happen...
+- [00:47:39,680 - 00:47:40,240] No,
+- [00:47:40,240 - 00:47:42,620] a real ideal gas will not come to thermal...
+- [00:47:42,620 - 00:47:44,560] You need interactions between the particles
+- [00:47:44,560 - 00:47:46,680] to redistribute the energy among them.
+- [00:47:48,460 - 00:47:50,250] So when one says that
+- [00:47:50,250 - 00:47:52,040] a system like an ideal gas
+- [00:47:52,040 - 00:47:52,860] comes to equilibrium,
+- [00:47:53,140 - 00:47:53,960] there's always an assumption
+- [00:47:53,960 - 00:47:56,400] that the parts of the system interact with each other.
+- [00:47:56,400 - 00:47:58,460] If they don't interact with each other,
+- [00:47:58,560 - 00:48:01,700] then it takes an infinite amount of time
+- [00:48:01,700 - 00:48:03,380] for it to equilibrate.
+- [00:48:03,700 - 00:48:04,220] Yeah.
+- [00:48:04,320 - 00:48:05,300] In fact,
+- [00:48:05,300 - 00:48:05,960] you'd have...
+- [00:48:05,960 - 00:48:08,420] What you have is the equivalent of a pendulum,
+- [00:48:09,180 - 00:48:11,620] because the molecules would
+- [00:48:12,400 - 00:48:13,940] slosh back and forth forever.
+- [00:48:14,240 - 00:48:14,460] Right.
+- [00:48:14,600 - 00:48:16,180] They just slosh back and forth forever.
+- [00:48:16,700 - 00:48:17,220] Right.
+- [00:48:18,000 - 00:48:18,520] So...
+- [00:48:19,560 - 00:48:21,740] You need interaction between the molecules,
+- [00:48:21,840 - 00:48:22,720] but you don't need much.
+- [00:48:23,480 - 00:48:25,920] You don't need a lot of interaction between them,
+- [00:48:25,920 - 00:48:28,060] just as long as they have small cross-sections.
+- [00:48:28,420 - 00:48:29,960] It'll slosh a few times,
+- [00:48:30,100 - 00:48:30,880] and then it'll...
+- [00:48:30,880 - 00:48:32,440] And then it will equilibrate.
+- [00:48:32,760 - 00:48:33,280] The...
+- [00:48:33,920 - 00:48:37,440] The energy level for an ideal gas...
+- [00:48:37,440 - 00:48:38,800] We had a paper here,
+- [00:48:38,880 - 00:48:42,120] and it looks like it's inverse L squared.
+- [00:48:42,240 - 00:48:42,520] L,
+- [00:48:42,520 - 00:48:42,960] I guess,
+- [00:48:42,960 - 00:48:44,680] is the length.
+- [00:48:45,240 - 00:48:45,760] The...
+- [00:48:45,760 - 00:48:46,380] For...
+- [00:48:46,380 - 00:48:47,000] In a...
+- [00:48:47,000 - 00:48:49,260] I guess he has it
+- [00:48:49,260 - 00:48:51,520] in a well of length L.
+- [00:48:51,640 - 00:48:54,100] And it's essentially...
+- [00:48:54,100 - 00:48:54,780] That's the ground state.
+- [00:48:54,780 - 00:48:54,960] Well,
+- [00:48:54,960 - 00:48:56,840] any given energy level is inverse L.
+- [00:48:57,080 - 00:48:58,420] L squared over L squared.
+- [00:48:58,620 - 00:48:58,980] Mm-hmm.
+- [00:48:59,260 - 00:48:59,820] Mm-hmm.
+- [00:49:00,060 - 00:49:01,020] That's one particle.
+- [00:49:03,700 - 00:49:04,580] That's for...
+- [00:49:04,580 - 00:49:04,660] Yeah,
+- [00:49:04,660 - 00:49:05,120] let's see.
+- [00:49:05,220 - 00:49:05,740] The energy...
+- [00:49:05,740 - 00:49:07,780] That's the energy level of a single particle.
+- [00:49:08,460 - 00:49:08,900] Okay.
+- [00:49:09,000 - 00:49:09,440] Oh,
+- [00:49:09,440 - 00:49:09,760] I see.
+- [00:49:09,820 - 00:49:11,440] And you're gonna be talking about the energy level
+- [00:49:11,440 - 00:49:12,180] of the entire...
+- [00:49:12,180 - 00:49:12,720] Yeah.
+- [00:49:12,720 - 00:49:13,320] ...entire gas.
+- [00:49:13,560 - 00:49:13,800] Yeah.
+- [00:49:13,860 - 00:49:15,240] So that would not necessarily...
+- [00:49:15,240 - 00:49:15,540] Okay.
+- [00:49:17,260 - 00:49:18,920] It's the large systems of many,
+- [00:49:18,920 - 00:49:19,840] many degrees of freedom
+- [00:49:19,840 - 00:49:20,700] in which the...
+- [00:49:20,700 - 00:49:21,300] First of all,
+- [00:49:21,300 - 00:49:21,820] in which...
+- [00:49:21,820 - 00:49:23,020] A single particle would be...
+- [00:49:23,020 - 00:49:24,040] What are we talking about?
+- [00:49:24,040 - 00:49:25,000] Would or would not?
+- [00:49:25,200 - 00:49:25,500] Would.
+- [00:49:25,700 - 00:49:27,040] Would under what circumstances?
+- [00:49:29,260 - 00:49:31,720] It would satisfy that equation right there
+- [00:49:31,720 - 00:49:34,560] with A equals zero and B equals to,
+- [00:49:34,560 - 00:49:37,320] I guess,
+- [00:49:37,400 - 00:49:38,780] the ratio of L squares,
+- [00:49:38,780 - 00:49:39,920] for and after,
+- [00:49:40,000 - 00:49:41,720] if L is your control ground.
+- [00:49:42,060 - 00:49:43,120] As a matter of fact,
+- [00:49:43,120 - 00:49:43,940] it would if...
+- [00:49:43,940 - 00:49:45,260] But that's a rather special case.
+- [00:49:45,340 - 00:49:45,640] That's right.
+- [00:49:46,120 - 00:49:48,340] If the particles have any interactions with...
+- [00:49:48,340 - 00:49:48,940] Between...
+- [00:49:48,940 - 00:49:51,460] The potential energies will not be governed
+- [00:49:51,460 - 00:49:52,440] by that same...
+- [00:49:53,280 - 00:49:54,020] So that's kind of the question.
+- [00:49:54,040 - 00:49:55,980] That's kind of special to free particles,
+- [00:49:55,980 - 00:49:56,400] right?
+- [00:49:56,500 - 00:49:56,520] Yeah.
+- [00:49:56,520 - 00:49:57,360] I think you said also
+- [00:49:57,360 - 00:49:58,200] the photon gas would be that...
+- [00:49:58,200 - 00:49:58,400] Yeah.
+- [00:49:58,420 - 00:49:59,720] The photon gas and...
+- [00:49:59,720 - 00:50:01,080] So some simple systems,
+- [00:50:01,080 - 00:50:03,760] it's just true in a trivial kind of way.
+- [00:50:04,520 - 00:50:06,340] But for any kind of interacting system,
+- [00:50:06,340 - 00:50:09,660] the potential energies won't do that.
+- [00:50:11,100 - 00:50:13,180] And just a general comment.
+- [00:50:13,400 - 00:50:14,620] In this example here,
+- [00:50:14,620 - 00:50:17,260] you said if there's a large
+- [00:50:17,260 - 00:50:19,900] number of particles and it's very
+- [00:50:20,560 - 00:50:22,380] idiomatic and if this and if that,
+- [00:50:22,380 - 00:50:23,900] it seems that with...
+- [00:50:24,040 - 00:50:26,340] This example and a lot of other examples,
+- [00:50:26,340 - 00:50:29,780] there's so many constraints placed upon the
+- [00:50:29,780 - 00:50:32,030] system in order to
+- [00:50:32,030 - 00:50:34,280] make the classical statistical mechanics...
+- [00:50:34,280 - 00:50:34,400] No,
+- [00:50:34,400 - 00:50:34,500] no,
+- [00:50:34,500 - 00:50:34,780] no,
+- [00:50:34,780 - 00:50:35,020] no,
+- [00:50:35,020 - 00:50:35,280] no,
+- [00:50:35,280 - 00:50:35,440] no,
+- [00:50:35,440 - 00:50:35,540] no,
+- [00:50:35,540 - 00:50:35,620] no,
+- [00:50:35,620 - 00:50:35,660] no.
+- [00:50:35,680 - 00:50:37,700] There's almost no constraints in
+- [00:50:37,700 - 00:50:39,720] order that statistical mechanics works.
+- [00:50:39,820 - 00:50:40,540] As long as you work,
+- [00:50:40,540 - 00:50:41,660] as long as you use it right.
+- [00:50:42,340 - 00:50:44,500] If you're trying to argue about
+- [00:50:44,500 - 00:50:46,660] an adiabatic change in a system,
+- [00:50:46,660 - 00:50:47,740] then there are a lot of
+- [00:50:47,740 - 00:50:48,140] constraints.
+- [00:50:48,740 - 00:50:50,320] By what you mean by adiabatic.
+- [00:50:51,560 - 00:50:52,940] Adiabatic means a very,
+- [00:50:52,940 - 00:50:53,960] very special thing.
+- [00:50:55,840 - 00:50:56,960] And look,
+- [00:50:56,960 - 00:51:00,060] the first constraint is always that
+- [00:51:00,060 - 00:51:03,160] the systems we're talking about have large
+- [00:51:03,160 - 00:51:04,540] numbers of degrees of freedom.
+- [00:51:04,800 - 00:51:06,530] Now that doesn't mean we can't
+- [00:51:06,530 - 00:51:08,260] isolate and look at a small subsystem.
+- [00:51:08,600 - 00:51:11,240] We can look at a single molecule if we like.
+- [00:51:11,800 - 00:51:14,320] But the things which come to thermal equilibrium
+- [00:51:14,320 - 00:51:16,840] and which we apply the ideas of thermal equilibrium
+- [00:51:16,840 - 00:51:18,300] to are large systems.
+- [00:51:19,400 - 00:51:22,740] Large systems embedded in even larger systems.
+- [00:51:23,920 - 00:51:24,440] Usually.
+- [00:51:24,880 - 00:51:26,860] Large systems which are embedded in even
+- [00:51:26,860 - 00:51:28,840] larger systems to keep them in equilibrium.
+- [00:51:29,340 - 00:51:31,810] But sometimes we might just want to look
+- [00:51:31,810 - 00:51:34,280] at a single isolated system as parameters change.
+- [00:51:38,260 - 00:51:38,780] Yeah,
+- [00:51:38,780 - 00:51:39,780] there are...
+- [00:51:41,380 - 00:51:41,900] Well,
+- [00:51:41,900 - 00:51:43,220] there are constraints,
+- [00:51:43,220 - 00:51:44,810] but those constraints have to
+- [00:51:44,810 - 00:51:46,400] do with what we're talking about.
+- [00:51:46,520 - 00:51:47,840] If we're going to talk about adiabatic,
+- [00:51:47,840 - 00:51:49,120] we have to talk about adiabatic.
+- [00:51:49,320 - 00:51:51,020] You're talking about systems that
+- [00:51:51,020 - 00:51:52,720] are large systems that are adiabatic.
+- [00:51:52,720 - 00:51:53,660] They have...
+- [00:51:53,660 - 00:51:55,060] And it's correct,
+- [00:51:55,060 - 00:51:57,780] but there seems to be a
+- [00:51:57,780 - 00:52:00,500] tautological kind of thing here where you're
+- [00:52:00,500 - 00:52:01,960] defining a certain kind,
+- [00:52:01,960 - 00:52:03,640] which has a lot of value and not...
+- [00:52:03,640 - 00:52:04,180] No,
+- [00:52:04,180 - 00:52:04,760] it's...
+- [00:52:04,760 - 00:52:05,060] Well,
+- [00:52:05,060 - 00:52:05,780] is it tautological?
+- [00:52:06,120 - 00:52:06,300] No,
+- [00:52:06,300 - 00:52:07,340] it's not really tautological.
+- [00:52:07,420 - 00:52:07,900] For example,
+- [00:52:07,900 - 00:52:12,200] when one says that the pressure is
+- [00:52:12,200 - 00:52:16,500] the derivative of the energy with respect
+- [00:52:16,500 - 00:52:19,900] to a volume in an adiabatic process.
+- [00:52:20,200 - 00:52:21,800] And that's the main way we used it.
+- [00:52:21,800 - 00:52:23,120] That's really all...
+- [00:52:23,460 - 00:52:25,190] That's the only way we
+- [00:52:25,190 - 00:52:26,920] used adiabatic processes in this course.
+- [00:52:27,500 - 00:52:30,490] We talked about things like pressure being the
+- [00:52:30,490 - 00:52:33,480] response to a change in volume at fixed
+- [00:52:33,480 - 00:52:33,960] entropy.
+- [00:52:34,940 - 00:52:35,740] All right.
+- [00:52:35,780 - 00:52:39,380] Why is the pressure the derivative of the
+- [00:52:39,380 - 00:52:42,980] energy with respect to the volume at fixed
+- [00:52:43,800 - 00:52:45,120] value of the entropy?
+- [00:52:45,420 - 00:52:47,780] It's because fixed value of the
+- [00:52:47,780 - 00:52:50,140] entropy corresponds to an isolated system.
+- [00:52:51,740 - 00:52:52,400] And that's the only way we can do that.
+- [00:52:52,400 - 00:52:54,650] And we're talking about a system whose energy
+- [00:52:54,650 - 00:52:56,900] levels just are governed by F equals MA,
+- [00:52:56,900 - 00:52:57,440] basically.
+- [00:52:57,460 - 00:52:59,520] The change in the energy of a system.
+- [00:52:59,680 - 00:53:00,000] Right.
+- [00:53:00,180 - 00:53:03,890] And that there's no contaminating
+- [00:53:03,890 - 00:53:07,600] things going on with the environment.
+- [00:53:08,780 - 00:53:09,440] So,
+- [00:53:09,440 - 00:53:13,030] we used the idea that adiabatic systems
+- [00:53:13,030 - 00:53:16,620] stay in thermal equilibrium only for that
+- [00:53:16,620 - 00:53:16,980] purpose.
+- [00:53:16,980 - 00:53:18,840] That's the only place we used it in this class.
+- [00:53:19,280 - 00:53:20,820] But you're allowed to ask,
+- [00:53:20,820 - 00:53:22,440] why does a system under
+- [00:53:22,440 - 00:53:24,060] an adiabatic change stay in thermal
+- [00:53:24,060 - 00:53:24,440] equilibrium?
+- [00:53:24,640 - 00:53:25,660] Why do you assign it a temperature?
+- [00:53:25,900 - 00:53:29,420] Why do you assign it a partition function?
+- [00:53:29,720 - 00:53:32,450] Why do you assign it a
+- [00:53:32,450 - 00:53:35,180] probability distribution governed by the Boltzmann distribution?
+- [00:53:36,680 - 00:53:37,960] And that's the answer.
+- [00:53:38,180 - 00:53:39,220] That makes total sense.
+- [00:53:39,460 - 00:53:39,560] Right.
+- [00:53:39,560 - 00:53:39,560] But,
+- [00:53:39,560 - 00:53:40,940] for example,
+- [00:53:40,940 - 00:53:43,020] like you take a balloon full of
+- [00:53:43,020 - 00:53:45,100] gas that has a certain entropy and
+- [00:53:45,100 - 00:53:46,960] you gradually shrink it down.
+- [00:53:46,960 - 00:53:48,200] And you shrink it down to halve its size,
+- [00:53:48,200 - 00:53:49,520] it has the same amount of entropy.
+- [00:53:50,040 - 00:53:50,480] Yes.
+- [00:53:50,600 - 00:53:50,920] Okay.
+- [00:53:51,140 - 00:53:53,280] And I know my example is going to,
+- [00:53:53,280 - 00:53:54,800] I know it's incorrect for a lot of reasons.
+- [00:53:55,000 - 00:53:57,260] But if you keep shrinking it down small enough,
+- [00:53:57,260 - 00:53:58,420] very slowly,
+- [00:53:58,420 - 00:54:01,140] it'll get to a critical mass
+- [00:54:01,140 - 00:54:03,340] where it becomes a black hole,
+- [00:54:03,340 - 00:54:05,060] which has a different amount of entropy.
+- [00:54:05,160 - 00:54:06,460] And there's lots of reasons why it's not true.
+- [00:54:06,680 - 00:54:10,000] I'm making an absurd example how if you,
+- [00:54:10,000 - 00:54:10,840] it only,
+- [00:54:10,840 - 00:54:13,320] this stuff only works in an environment
+- [00:54:13,320 - 00:54:15,960] that's sort of something that it's mesoscales.
+- [00:54:16,620 - 00:54:16,940] Right.
+- [00:54:16,960 - 00:54:18,160] That's comfortable for us.
+- [00:54:18,340 - 00:54:18,940] And it,
+- [00:54:18,940 - 00:54:20,680] any other scale,
+- [00:54:20,680 - 00:54:22,320] it doesn't seem to work very well.
+- [00:54:22,740 - 00:54:24,120] So my question is,
+- [00:54:24,120 - 00:54:24,640] are there,
+- [00:54:24,640 - 00:54:26,210] is there something equivalent to
+- [00:54:26,210 - 00:54:27,780] this that works at very small
+- [00:54:27,780 - 00:54:28,820] or very large scales?
+- [00:54:29,640 - 00:54:30,120] That.
+- [00:54:30,340 - 00:54:30,480] Well,
+- [00:54:30,480 - 00:54:33,450] it works at every scale as long as
+- [00:54:33,450 - 00:54:36,420] the conditions for an adiabatic change make sense.
+- [00:54:36,820 - 00:54:37,300] Now,
+- [00:54:37,300 - 00:54:39,180] what happens is you actually squeeze something.
+- [00:54:39,360 - 00:54:39,420] Now,
+- [00:54:39,420 - 00:54:39,820] first of all,
+- [00:54:39,820 - 00:54:43,380] gravity has its all kinds of problems in thermodynamics.
+- [00:54:45,560 - 00:54:48,300] Even just Newtonian gravity.
+- [00:54:49,220 - 00:54:53,240] Newtonian gravity does not have a good thermal equilibrium.
+- [00:54:53,820 - 00:54:56,040] The mutual long range
+- [00:54:56,040 - 00:54:58,260] attractions destroy the thermal equilibrium.
+- [00:54:58,480 - 00:54:59,660] They make everything want to collapse.
+- [00:55:00,240 - 00:55:03,460] So gravity itself is a disastrous
+- [00:55:03,460 - 00:55:06,680] thing when you're thinking about thermal equilibrium.
+- [00:55:07,260 - 00:55:10,400] It leads to the concept of negative specific heat.
+- [00:55:10,660 - 00:55:11,220] Negative,
+- [00:55:11,220 - 00:55:12,480] all right,
+- [00:55:12,480 - 00:55:13,360] let's come back to negative specific heat.
+- [00:55:13,360 - 00:55:14,620] Negative specific heat in a minute.
+- [00:55:14,700 - 00:55:14,960] But yeah.
+- [00:55:15,560 - 00:55:16,040] Well,
+- [00:55:16,040 - 00:55:18,980] I was going to suggest that it seems to
+- [00:55:18,980 - 00:55:21,920] me that the stars in the galaxy are not
+- [00:55:21,920 - 00:55:23,400] behaving as a gas.
+- [00:55:23,680 - 00:55:26,140] And what you just said about
+- [00:55:26,140 - 00:55:28,600] gravity is how you would explain it.
+- [00:55:30,100 - 00:55:30,580] Well,
+- [00:55:30,580 - 00:55:32,440] to some extent the stars in
+- [00:55:32,440 - 00:55:34,300] the galaxy are behaving as a gas.
+- [00:55:34,400 - 00:55:36,210] If you look at the probability
+- [00:55:36,210 - 00:55:38,020] distribution for the velocity of stars,
+- [00:55:38,020 - 00:55:39,200] it is more or less
+- [00:55:39,200 - 00:55:40,460] a Boltzmann distribution.
+- [00:55:41,280 - 00:55:42,340] But in general.
+- [00:55:42,340 - 00:55:42,920] The structure,
+- [00:55:42,920 - 00:55:44,600] the barge structure.
+- [00:55:45,020 - 00:55:45,440] Yeah,
+- [00:55:45,440 - 00:55:46,440] it's not,
+- [00:55:46,440 - 00:55:46,740] no,
+- [00:55:46,740 - 00:55:48,700] it's not in thermal equilibrium.
+- [00:55:49,020 - 00:55:50,020] It's certainly not.
+- [00:55:50,160 - 00:55:51,280] It's gravity which keeps it
+- [00:55:51,280 - 00:55:52,400] from being in thermal equilibrium.
+- [00:55:53,140 - 00:55:55,480] Gravity has an odd,
+- [00:55:55,480 - 00:56:00,140] systems under the influence of gravity have an odd behavior.
+- [00:56:05,840 - 00:56:08,140] They have negative specific heat.
+- [00:56:08,740 - 00:56:10,660] Negative specific heat is a very,
+- [00:56:10,660 - 00:56:11,680] very peculiar thing.
+- [00:56:11,680 - 00:56:13,770] A system can't really have negative
+- [00:56:13,770 - 00:56:15,860] specific heat and yet gravitational systems do.
+- [00:56:16,359 - 00:56:18,820] Let me tell you why they do have.
+- [00:56:20,880 - 00:56:23,940] Supposing you have a object
+- [00:56:23,940 - 00:56:27,000] and something orbiting around it.
+- [00:56:27,720 - 00:56:29,540] It has some kinetic energy.
+- [00:56:30,920 - 00:56:32,580] Supposing it loses energy.
+- [00:56:32,960 - 00:56:34,380] What happens to it?
+- [00:56:34,440 - 00:56:34,840] Supposing,
+- [00:56:34,840 - 00:56:35,280] for example,
+- [00:56:35,280 - 00:56:36,880] it radiates away some energy.
+- [00:56:37,460 - 00:56:39,960] What happens to the object orbiting around?
+- [00:56:39,960 - 00:56:41,920] Does it move in or does it move out?
+- [00:56:44,440 - 00:56:45,280] It moves in.
+- [00:56:45,500 - 00:56:45,600] It moves in.
+- [00:56:46,060 - 00:56:46,500] Right.
+- [00:56:46,720 - 00:56:47,580] And in fact,
+- [00:56:47,580 - 00:56:48,820] if it were to radiate away,
+- [00:56:48,820 - 00:56:49,640] for example,
+- [00:56:49,640 - 00:56:51,300] gravitational radiation or any
+- [00:56:51,300 - 00:56:53,600] other kind of radiation and lose energy,
+- [00:56:53,600 - 00:56:58,760] it would spiral in and eventually hit the center,
+- [00:56:58,820 - 00:56:59,620] central object.
+- [00:57:00,100 - 00:57:02,240] But I'm not interested in it hitting the central object.
+- [00:57:02,380 - 00:57:04,820] I'm just pointing out that it moves inward.
+- [00:57:05,220 - 00:57:06,660] Now what happens when it moves in,
+- [00:57:06,660 - 00:57:06,940] inward?
+- [00:57:07,240 - 00:57:08,590] Does it increase its kinetic
+- [00:57:08,590 - 00:57:09,940] energy or decrease its kinetic energy?
+- [00:57:09,940 - 00:57:10,680] Increase.
+- [00:57:10,680 - 00:57:11,220] Increase.
+- [00:57:11,420 - 00:57:11,660] Increase.
+- [00:57:11,980 - 00:57:13,420] How many people think increase?
+- [00:57:13,580 - 00:57:16,140] How many people think decrease?
+- [00:57:17,320 - 00:57:17,920] Okay.
+- [00:57:18,120 - 00:57:18,720] It increases.
+- [00:57:18,900 - 00:57:21,080] Either answer is a possible answer.
+- [00:57:21,220 - 00:57:22,480] It's not obvious which it does.
+- [00:57:23,020 - 00:57:23,620] Okay.
+- [00:57:23,920 - 00:57:26,040] It loses energy,
+- [00:57:26,040 - 00:57:27,320] all right?
+- [00:57:27,340 - 00:57:28,560] But there are two kinds of energy.
+- [00:57:28,860 - 00:57:32,580] There's the negative gravitational potential energy.
+- [00:57:33,640 - 00:57:34,380] All right.
+- [00:57:34,400 - 00:57:37,040] And it certainly gets
+- [00:57:37,040 - 00:57:39,680] some increased negative gravitational potential.
+- [00:57:39,680 - 00:57:41,060] energy when it falls in.
+- [00:57:41,060 - 00:57:44,440] So its gravitational potential energy
+- [00:57:44,440 - 00:57:48,440] decreases in the sense that it becomes more negative.
+- [00:57:48,440 - 00:57:51,800] So how do you know
+- [00:57:51,800 - 00:57:53,920] offhand what happens to the potential energy?
+- [00:57:53,920 - 00:57:55,200] All you know is that the total
+- [00:57:55,200 - 00:57:56,180] energy decreases.
+- [00:57:56,180 - 00:57:59,680] Total energy decreases because it lost some energy.
+- [00:57:59,680 - 00:58:01,340] Total energy
+- [00:58:01,340 - 00:58:01,900] decreases.
+- [00:58:01,900 - 00:58:03,560] Does it,
+- [00:58:03,560 - 00:58:07,280] there's a change in kinetic and there's a change in
+- [00:58:07,280 - 00:58:07,500] potential.
+- [00:58:07,500 - 00:58:10,180] If the change in the potential energy,
+- [00:58:10,180 - 00:58:11,240] the negative change in
+- [00:58:11,240 - 00:58:12,770] the potential energy outweighs the
+- [00:58:12,770 - 00:58:14,300] change in the kinetic energy,
+- [00:58:14,300 - 00:58:15,060] then the
+- [00:58:15,060 - 00:58:16,930] kinetic energy might even increase
+- [00:58:16,930 - 00:58:18,800] even though the total energy decreases.
+- [00:58:18,800 - 00:58:20,260] Okay?
+- [00:58:20,540 - 00:58:22,730] Anybody know the relationship between the
+- [00:58:22,730 - 00:58:24,920] change in potential energy and the
+- [00:58:24,920 - 00:58:25,880] change in kinetic energy?
+- [00:58:25,880 - 00:58:32,000] The negative change in potential energy is twice the
+- [00:58:32,000 - 00:58:35,640] change in kinetic energy in absolute value.
+- [00:58:35,640 - 00:58:37,160] That's called the virial
+- [00:58:37,160 - 00:58:37,260] value.
+- [00:58:37,280 - 00:58:39,320] So the potential energy changes
+- [00:58:39,320 - 00:58:41,360] more than the kinetic energy.
+- [00:58:41,360 - 00:58:43,060] So what happens
+- [00:58:43,060 - 00:58:45,440] is when you lose a certain amount of energy,
+- [00:58:45,440 - 00:58:49,320] you lose twice as much potential
+- [00:58:49,320 - 00:58:49,840] energy,
+- [00:58:49,840 - 00:58:53,500] but you gain that amount of kinetic energy.
+- [00:58:53,500 - 00:58:54,780] So if you lose an amount
+- [00:58:54,780 - 00:58:55,280] of energy,
+- [00:58:55,280 - 00:58:55,880] delta E,
+- [00:58:55,880 - 00:58:59,520] you lose that much energy,
+- [00:58:59,520 - 00:59:02,120] then the potential energy changes
+- [00:59:02,120 - 00:59:07,180] by minus twice delta E and the kinetic energy increases
+- [00:59:07,180 - 00:59:09,640] by amount plus delta E.
+- [00:59:09,640 - 00:59:13,360] So when something spirals inward,
+- [00:59:13,360 - 00:59:14,140] when it loses
+- [00:59:14,140 - 00:59:15,300] energy in this way,
+- [00:59:15,300 - 00:59:17,680] its kinetic energy increases.
+- [00:59:17,680 - 00:59:19,620] Now supposing you had,
+- [00:59:19,620 - 00:59:20,100] and it
+- [00:59:20,100 - 00:59:22,300] doesn't have to be a circular orbit incidentally,
+- [00:59:22,300 - 00:59:23,600] this is true even if it's an
+- [00:59:23,600 - 00:59:25,360] elliptical orbit or any other kind of orbit.
+- [00:59:25,360 - 00:59:27,640] Now imagine you have a whole bunch
+- [00:59:27,640 - 00:59:34,100] of particles moving in the orbit of this central object.
+- [00:59:34,100 - 00:59:37,080] They all do the same
+- [00:59:37,080 - 00:59:37,280] thing.
+- [00:59:37,280 - 00:59:39,280] They lose energy by whatever means.
+- [00:59:39,280 - 00:59:41,660] They lose energy by whatever means,
+- [00:59:41,660 - 00:59:42,800] and the
+- [00:59:42,800 - 00:59:44,040] same thing happens to them.
+- [00:59:44,040 - 00:59:45,380] They start to spiral inward,
+- [00:59:45,380 - 00:59:46,480] and guess what?
+- [00:59:46,480 - 00:59:48,660] Their kinetic
+- [00:59:48,660 - 00:59:50,020] energy increases.
+- [00:59:50,020 - 00:59:51,820] The potential energy decreases.
+- [00:59:51,820 - 00:59:54,440] Now this is even true if there is no central
+- [00:59:54,440 - 00:59:54,900] object,
+- [00:59:54,900 - 00:59:57,540] if they're just moving under their own gravity,
+- [00:59:57,540 - 01:00:00,200] that as they lose energy,
+- [01:00:00,200 - 01:00:01,520] radiate
+- [01:00:01,520 - 01:00:02,300] away the energy.
+- [01:00:02,300 - 01:00:02,880] For example,
+- [01:00:02,880 - 01:00:04,520] a star radiating away its energy.
+- [01:00:04,520 - 01:00:06,660] The kinetic energy of things
+- [01:00:06,660 - 01:00:07,020] increases.
+- [01:00:07,020 - 01:00:08,380] What does that mean about the temperature?
+- [01:00:08,380 - 01:00:11,560] That means the temperature goes
+- [01:00:11,560 - 01:00:11,860] up.
+- [01:00:11,860 - 01:00:14,160] So for gravitating systems,
+- [01:00:14,160 - 01:00:16,040] as they lose energy,
+- [01:00:16,040 - 01:00:17,880] their temperature goes up.
+- [01:00:17,880 - 01:00:19,760] That means
+- [01:00:19,760 - 01:00:22,540] the derivative of the energy
+- [01:00:22,540 - 01:00:25,320] with respect to temperature is negative.
+- [01:00:25,320 - 01:00:26,980] All right?
+- [01:00:26,980 - 01:00:27,660] Derivative
+- [01:00:27,660 - 01:00:29,960] of energy with respect to temperature is negative.
+- [01:00:29,960 - 01:00:33,320] Now can a system really have that property?
+- [01:00:33,480 - 01:00:33,960] First of all,
+- [01:00:33,960 - 01:00:36,240] let me point out that that's
+- [01:00:36,240 - 01:00:36,640] energy.
+- [01:00:36,640 - 01:00:39,190] Any system with negative specific heat
+- [01:00:39,190 - 01:00:41,740] or negative heat capacity is unstable.
+- [01:00:41,740 - 01:00:44,120] It's unstable,
+- [01:00:44,220 - 01:00:47,060] and it cannot correspond to a genuine equilibrium situation.
+- [01:00:47,060 - 01:00:50,680] Let's imagine any system with negative
+- [01:00:50,680 - 01:00:51,480] specific heat.
+- [01:00:51,480 - 01:00:55,020] Negative specific heat means if you take
+- [01:00:55,020 - 01:00:58,560] a little bit of energy away from
+- [01:00:58,560 - 01:00:58,860] it,
+- [01:00:58,860 - 01:01:00,920] it heats up.
+- [01:01:00,920 - 01:01:02,450] If you add an extra
+- [01:01:02,450 - 01:01:03,980] little bit of energy to it,
+- [01:01:03,980 - 01:01:04,980] it cools down.
+- [01:01:04,980 - 01:01:06,000] That's
+- [01:01:06,000 - 01:01:06,620] what negative specific heat means.
+- [01:01:06,620 - 01:01:11,740] Now let's suppose we have a system with
+- [01:01:11,740 - 01:01:16,860] negative specific heat minus specific heat minus heat
+- [01:01:16,860 - 01:01:17,360] capacity.
+- [01:01:17,360 - 01:01:19,140] C is negative.
+- [01:01:19,140 - 01:01:20,720] The heat capacity is negative.
+- [01:01:20,720 - 01:01:26,040] C equals minus heat capacity.
+- [01:01:26,320 - 01:01:26,460] All right?
+- [01:01:26,460 - 01:01:30,520] Imagine now that it's in equilibrium with its environment.
+- [01:01:30,520 - 01:01:34,100] It's in equilibrium with its
+- [01:01:34,100 - 01:01:34,540] environment,
+- [01:01:34,540 - 01:01:36,600] and it can exchange energy with its environment.
+- [01:01:36,600 - 01:01:36,600] It can exchange energy with its
+- [01:01:36,600 - 01:01:38,400] environment like any good thermodynamical system.
+- [01:01:38,400 - 01:01:39,780] What happens?
+- [01:01:39,780 - 01:01:40,760] Well,
+- [01:01:40,760 - 01:01:41,540] there are fluctuations.
+- [01:01:42,060 - 01:01:42,860] Every once in a while,
+- [01:01:42,860 - 01:01:45,160] it'll give a little extra energy to the environment.
+- [01:01:45,160 - 01:01:45,880] Every once
+- [01:01:45,880 - 01:01:46,280] in a while,
+- [01:01:46,280 - 01:01:48,460] the environment will give it a little extra energy,
+- [01:01:48,460 - 01:01:49,400] and the energy will be
+- [01:01:49,400 - 01:01:50,740] transferred back and forth,
+- [01:01:50,740 - 01:01:53,580] and that's what leads to thermodynamic equilibrium.
+- [01:01:53,580 - 01:01:55,000] But now
+- [01:01:55,000 - 01:01:57,790] imagine the system with negative specific heat gives
+- [01:01:57,790 - 01:02:00,580] a little bit of energy to its environment
+- [01:02:01,120 - 01:02:01,620] accidentally,
+- [01:02:01,620 - 01:02:02,780] by fluctuation.
+- [01:02:02,780 - 01:02:04,840] What happens to its temperature?
+- [01:02:05,560 - 01:02:06,580] It goes up.
+- [01:02:07,500 - 01:02:10,400] That means it becomes hotter than its environment.
+- [01:02:10,400 - 01:02:13,080] Its energy goes up.
+- [01:02:13,080 - 01:02:14,240] It becomes a little bit
+- [01:02:14,240 - 01:02:15,260] hotter than its environment.
+- [01:02:15,260 - 01:02:16,460] Which way does the heat flow?
+- [01:02:16,460 - 01:02:19,580] It always flows from hotter
+- [01:02:19,580 - 01:02:20,140] to colder.
+- [01:02:20,140 - 01:02:25,040] So when this system gives off a little energy,
+- [01:02:25,040 - 01:02:26,180] it becomes hotter,
+- [01:02:26,180 - 01:02:26,960] and it will
+- [01:02:26,960 - 01:02:27,920] give off more energy,
+- [01:02:27,920 - 01:02:28,860] and it's a runaway.
+- [01:02:28,860 - 01:02:30,480] It's a kind of runaway situation.
+- [01:02:30,480 - 01:02:31,720] When it
+- [01:02:31,720 - 01:02:34,340] fluctuates by giving off a little bit of energy,
+- [01:02:34,340 - 01:02:36,500] the conditions are set up for it to,
+- [01:02:36,500 - 01:02:36,560] you know,
+- [01:02:36,560 - 01:02:37,840] give off even more energy,
+- [01:02:37,840 - 01:02:39,920] and it's unstable.
+- [01:02:39,920 - 01:02:43,060] What happens if it takes a little bit of extra
+- [01:02:43,060 - 01:02:43,480] energy?
+- [01:02:44,920 - 01:02:46,020] It cools down.
+- [01:02:46,300 - 01:02:46,860] It cools down,
+- [01:02:46,860 - 01:02:48,980] meaning in the sense that its temperature goes down.
+- [01:02:48,980 - 01:02:50,260] Now which way does
+- [01:02:50,260 - 01:02:51,040] the heat flow?
+- [01:02:51,920 - 01:02:52,840] Into it.
+- [01:02:53,040 - 01:02:53,480] Into it.
+- [01:02:53,480 - 01:02:54,780] And again,
+- [01:02:54,780 - 01:02:56,660] it's an unstable situation.
+- [01:02:56,660 - 01:02:59,220] If it fluctuates,
+- [01:02:59,220 - 01:03:00,780] the fluctuation will tend
+- [01:03:00,780 - 01:03:01,420] to build up.
+- [01:03:01,420 - 01:03:03,300] On the other hand,
+- [01:03:03,300 - 01:03:06,280] exactly the opposite happens for a system with positive
+- [01:03:06,280 - 01:03:07,140] specific heat.
+- [01:03:07,140 - 01:03:10,740] If it absorbs a little bit of energy,
+- [01:03:10,740 - 01:03:11,360] it gets hotter,
+- [01:03:11,360 - 01:03:12,420] and then energy
+- [01:03:12,420 - 01:03:13,480] wants to flow out of it.
+- [01:03:13,480 - 01:03:14,440] So that's good.
+- [01:03:14,440 - 01:03:18,720] Thermal equilibrium makes sense for systems with positive
+- [01:03:18,720 - 01:03:19,540] specific heat.
+- [01:03:19,540 - 01:03:20,900] It doesn't make sense for
+- [01:03:20,900 - 01:03:22,260] systems with negative specific heat.
+- [01:03:22,260 - 01:03:22,860] They can't be
+- [01:03:22,860 - 01:03:24,240] in equilibrium with their environment.
+- [01:03:24,240 - 01:03:31,200] So all of thermodynamics breaks down eventually.
+- [01:03:32,840 - 01:03:33,960] Eventually for...
+- [01:03:34,780 - 01:03:35,340] For...
+- [01:03:37,420 - 01:03:38,660] Systems with gravity.
+- [01:03:38,660 - 01:03:40,840] They're not good thermodynamic systems.
+- [01:03:40,840 - 01:03:41,180] Yeah.
+- [01:03:41,180 - 01:03:42,440] In particular,
+- [01:03:42,440 - 01:03:45,080] a system forming
+- [01:03:45,080 - 01:03:45,760] a black hole,
+- [01:03:45,760 - 01:03:47,540] when it collapses into a black hole,
+- [01:03:47,540 - 01:03:48,720] it's way out of equilibrium.
+- [01:03:50,700 - 01:03:52,720] How do you describe a temperature to
+- [01:03:52,720 - 01:03:54,740] something like the surface of the sun?
+- [01:03:55,000 - 01:03:55,100] Well,
+- [01:03:55,100 - 01:03:55,320] okay,
+- [01:03:55,320 - 01:03:55,640] yeah.
+- [01:03:55,640 - 01:03:56,000] I mean,
+- [01:03:56,000 - 01:03:57,140] there are different time scales.
+- [01:03:57,140 - 01:03:58,900] It's a question of time scales.
+- [01:03:59,480 - 01:04:03,280] The time scale for this instability is fairly long.
+- [01:04:03,280 - 01:04:04,140] It's rather long.
+- [01:04:04,140 - 01:04:04,380] Now,
+- [01:04:04,380 - 01:04:04,820] really,
+- [01:04:04,820 - 01:04:05,320] what
+- [01:04:05,320 - 01:04:05,640] the...
+- [01:04:06,280 - 01:04:07,020] First of all,
+- [01:04:07,020 - 01:04:08,260] the sun is certainly not
+- [01:04:08,260 - 01:04:09,500] in equilibrium with its environment.
+- [01:04:09,500 - 01:04:10,880] Its environment
+- [01:04:10,880 - 01:04:12,100] is at three degrees.
+- [01:04:12,100 - 01:04:13,780] Okay?
+- [01:04:13,780 - 01:04:16,560] A star out in outer space,
+- [01:04:16,560 - 01:04:18,300] far from anything else.
+- [01:04:18,300 - 01:04:19,820] The environment
+- [01:04:19,820 - 01:04:20,860] is at three degrees.
+- [01:04:20,860 - 01:04:23,940] It's not in equilibrium with its environment,
+- [01:04:23,940 - 01:04:25,260] and it's radiating into
+- [01:04:25,260 - 01:04:25,900] its environment.
+- [01:04:25,900 - 01:04:28,280] So if you wait a while,
+- [01:04:28,280 - 01:04:31,080] the star will burn out.
+- [01:04:31,080 - 01:04:32,400] It's not in thermal liquid.
+- [01:04:32,480 - 01:04:34,220] It's not being kept in equilibrium by anything.
+- [01:04:34,460 - 01:04:35,520] But we're still talking about temperature.
+- [01:04:35,520 - 01:04:36,100] Yeah.
+- [01:04:36,280 - 01:04:37,380] We talk about temperature because
+- [01:04:37,380 - 01:04:38,480] there are different time scales.
+- [01:04:38,480 - 01:04:39,960] The time scale for
+- [01:04:39,960 - 01:04:42,340] the star to run out of fuel,
+- [01:04:42,340 - 01:04:42,880] you know,
+- [01:04:42,880 - 01:04:43,860] for its temperature,
+- [01:04:43,860 - 01:04:47,320] for this instability,
+- [01:04:47,320 - 01:04:47,720] the
+- [01:04:47,720 - 01:04:49,280] time constant for this instability,
+- [01:04:49,280 - 01:04:50,760] is rather long.
+- [01:04:50,760 - 01:04:52,440] On the other hand,
+- [01:04:52,440 - 01:04:53,020] there are processes
+- [01:04:53,020 - 01:04:54,700] taking place inside the star
+- [01:04:54,700 - 01:04:56,380] whose time scales are very rapid.
+- [01:04:57,480 - 01:04:58,840] For those processes,
+- [01:04:58,840 - 01:05:02,820] you can simply think of gravity as creating a box,
+- [01:05:02,820 - 01:05:04,680] a spherical
+- [01:05:04,680 - 01:05:06,200] box in the case of a star.
+- [01:05:06,200 - 01:05:08,500] Gravity holding things in,
+- [01:05:08,500 - 01:05:10,520] and those things are
+- [01:05:10,520 - 01:05:12,540] undergoing the usual microscopic processes.
+- [01:05:13,520 - 01:05:15,380] Ignore gravity and just think
+- [01:05:15,380 - 01:05:17,240] of the system as a box.
+- [01:05:17,240 - 01:05:18,960] Take gravity into account in some
+- [01:05:18,960 - 01:05:19,660] small ways,
+- [01:05:19,660 - 01:05:22,050] but it's just a box of gas
+- [01:05:22,050 - 01:05:24,440] being held together by its own gravity.
+- [01:05:24,440 - 01:05:29,260] So there
+- [01:05:29,260 - 01:05:30,120] are different time scales.
+- [01:05:30,120 - 01:05:33,280] The microscopic time scales for particles to interact with
+- [01:05:33,280 - 01:05:33,620] each other,
+- [01:05:33,620 - 01:05:34,480] which are very rapid,
+- [01:05:34,480 - 01:05:36,180] allow you to...
+- [01:05:36,180 - 01:05:38,700] In order to define a thermal equilibrium in
+- [01:05:38,700 - 01:05:41,220] the star which lasts a period of time,
+- [01:05:41,220 - 01:05:41,500] which
+- [01:05:41,500 - 01:05:41,700] is,
+- [01:05:41,700 - 01:05:41,940] you know,
+- [01:05:41,940 - 01:05:42,800] billions of years,
+- [01:05:42,800 - 01:05:45,100] the time scale for a star to
+- [01:05:45,100 - 01:05:47,400] run out of fuel is a long,
+- [01:05:47,440 - 01:05:47,940] long time.
+- [01:05:48,260 - 01:05:49,340] What part of...
+- [01:05:49,340 - 01:05:52,850] And the surface of the star
+- [01:05:52,850 - 01:05:56,360] is in equilibrium with some region nearby
+- [01:05:56,360 - 01:05:57,020] where...
+- [01:05:57,020 - 01:05:58,420] It's pretty much in equilibrium with itself,
+- [01:05:58,420 - 01:06:02,380] but the star is not really in equilibrium.
+- [01:06:02,620 - 01:06:03,860] The temperature is not uniform.
+- [01:06:03,860 - 01:06:04,280] Remember,
+- [01:06:04,280 - 01:06:06,020] thermal equilibrium means the temperature
+- [01:06:06,180 - 01:06:07,780] is uniform throughout it.
+- [01:06:07,780 - 01:06:09,760] If the temperature is not uniform,
+- [01:06:09,760 - 01:06:10,460] what happens?
+- [01:06:10,460 - 01:06:12,040] Heat flows.
+- [01:06:12,400 - 01:06:13,120] That's why I said the surface.
+- [01:06:13,240 - 01:06:13,580] Yeah.
+- [01:06:14,280 - 01:06:16,040] Because they're talking about that part of it.
+- [01:06:16,240 - 01:06:16,500] Yeah.
+- [01:06:16,500 - 01:06:16,860] So,
+- [01:06:16,860 - 01:06:17,120] I mean,
+- [01:06:17,120 - 01:06:17,820] that's right.
+- [01:06:17,820 - 01:06:20,230] The surface of the star
+- [01:06:20,230 - 01:06:22,640] is pretty much in thermal equilibrium
+- [01:06:22,640 - 01:06:23,280] with itself,
+- [01:06:23,280 - 01:06:23,980] so to speak.
+- [01:06:23,980 - 01:06:27,080] But the fact that it's not in thermal equilibrium,
+- [01:06:27,080 - 01:06:27,540] the fact
+- [01:06:27,540 - 01:06:29,660] that the temperature varies from one place to another,
+- [01:06:29,660 - 01:06:31,500] that tells you that heat flows
+- [01:06:31,500 - 01:06:31,980] out.
+- [01:06:32,120 - 01:06:32,360] Right.
+- [01:06:32,480 - 01:06:32,880] Right.
+- [01:06:33,660 - 01:06:34,060] So,
+- [01:06:34,060 - 01:06:34,820] strictly speaking,
+- [01:06:34,820 - 01:06:36,160] a system is not in thermal equilibrium.
+- [01:06:36,180 - 01:06:37,590] It's not in thermal equilibrium
+- [01:06:37,590 - 01:06:39,000] unless the temperature gradients are zero.
+- [01:06:39,360 - 01:06:41,960] Can't you use black body radiation as a...
+- [01:06:41,960 - 01:06:42,500] Sure.
+- [01:06:42,500 - 01:06:43,700] Sure.
+- [01:06:43,700 - 01:06:44,040] I mean,
+- [01:06:44,040 - 01:06:44,280] you know,
+- [01:06:44,280 - 01:06:47,600] this is not an obstruction to using thermodynamics for
+- [01:06:47,600 - 01:06:48,620] the interior of a star.
+- [01:06:48,620 - 01:06:49,400] Far from it.
+- [01:06:49,400 - 01:06:50,240] But,
+- [01:06:50,240 - 01:06:50,560] you know,
+- [01:06:50,560 - 01:06:51,260] strictly speaking,
+- [01:06:51,260 - 01:06:51,940] technically,
+- [01:06:52,260 - 01:06:52,900] and you know,
+- [01:06:52,900 - 01:06:55,480] all sorts of situations you can
+- [01:06:55,480 - 01:06:58,060] imagine where this becomes an important
+- [01:06:58,060 - 01:06:58,520] thing,
+- [01:06:58,520 - 01:07:02,140] namely the collapse of a star into a black hole.
+- [01:07:02,140 - 01:07:03,860] That's very far from an equilibrium
+- [01:07:03,860 - 01:07:04,420] process.
+- [01:07:04,940 - 01:07:07,200] But the event horizon isn't in equilibrium.
+- [01:07:07,560 - 01:07:09,140] After the black hole forms.
+- [01:07:09,400 - 01:07:09,580] So,
+- [01:07:09,580 - 01:07:10,960] it goes from this chaotic thing in...
+- [01:07:10,960 - 01:07:11,740] Right.
+- [01:07:11,740 - 01:07:13,900] When it goes it's way out of equilibrium.
+- [01:07:14,300 - 01:07:16,220] And then it's in equilibrium at that point.
+- [01:07:16,280 - 01:07:17,740] And then it's in equilibrium again,
+- [01:07:17,740 - 01:07:19,880] but during the course of
+- [01:07:19,880 - 01:07:22,020] its collapse it's very far out
+- [01:07:22,020 - 01:07:22,480] of equilibrium.
+- [01:07:22,480 - 01:07:23,540] And,
+- [01:07:23,540 - 01:07:26,500] the consequence is that the entropy changes a lot.
+- [01:07:26,500 - 01:07:27,560] It's very,
+- [01:07:27,560 - 01:07:27,740] very
+- [01:07:27,740 - 01:07:29,300] far from an adiabatic process.
+- [01:07:29,300 - 01:07:30,200] It just collapses.
+- [01:07:30,200 - 01:07:31,300] It's much,
+- [01:07:31,300 - 01:07:33,920] much more like the situation where
+- [01:07:33,920 - 01:07:35,230] where you take a plunger
+- [01:07:35,230 - 01:07:36,540] and suddenly pull the plunger out.
+- [01:07:37,220 - 01:07:39,260] That's very far from an adiabatic process,
+- [01:07:39,420 - 01:07:40,320] the actual collapse.
+- [01:07:41,259 - 01:07:42,860] But then after it's collapsed,
+- [01:07:42,860 - 01:07:44,080] again,
+- [01:07:44,740 - 01:07:45,760] there's this long,
+- [01:07:45,760 - 01:07:49,720] long time constant for it to be unstable.
+- [01:07:50,840 - 01:07:52,930] And so it can be
+- [01:07:52,930 - 01:07:55,020] approximated as being in thermal equilibrium
+- [01:07:55,660 - 01:07:56,280] with itself.
+- [01:07:56,480 - 01:07:58,510] All black holes with the
+- [01:07:58,510 - 01:08:00,540] same mass have the same entropy?
+- [01:08:00,540 - 01:08:01,420] Well,
+- [01:08:01,420 - 01:08:02,420] no.
+- [01:08:03,340 - 01:08:05,620] But so they're not spinning or?
+- [01:08:05,880 - 01:08:06,580] They're not spinning,
+- [01:08:06,580 - 01:08:06,900] yes.
+- [01:08:07,140 - 01:08:08,420] Or not charged.
+- [01:08:08,700 - 01:08:09,220] Right.
+- [01:08:11,100 - 01:08:11,620] OK,
+- [01:08:11,620 - 01:08:13,000] I wasn't going to get into that,
+- [01:08:13,100 - 01:08:16,560] but we've covered some territory.
+- [01:08:21,580 - 01:08:22,600] Any other questions?
+- [01:08:23,000 - 01:08:23,120] Yeah,
+- [01:08:23,120 - 01:08:24,439] but one follow-up question.
+- [01:08:25,139 - 01:08:26,819] You did describe,
+- [01:08:26,819 - 01:08:27,260] you said,
+- [01:08:27,260 - 01:08:29,060] a black hole somehow
+- [01:08:29,899 - 01:08:30,420] mimics.
+- [01:08:30,540 - 01:08:32,819] The characteristics of the matter
+- [01:08:32,819 - 01:08:35,129] and falling to it that
+- [01:08:35,129 - 01:08:37,439] are somehow encoded on the event
+- [01:08:37,439 - 01:08:37,840] horizon.
+- [01:08:38,020 - 01:08:38,700] You didn't say how.
+- [01:08:38,859 - 01:08:39,240] Somehow.
+- [01:08:39,760 - 01:08:41,920] So if it is encoded,
+- [01:08:41,920 - 01:08:45,100] would it mean that the event horizon must
+- [01:08:45,100 - 01:08:48,399] have some non-uniformity to it?
+- [01:08:48,479 - 01:08:51,020] And then if it has some non-uniformity to it,
+- [01:08:51,740 - 01:08:54,380] two different black holes might have different entropy
+- [01:08:54,380 - 01:08:54,819] because?
+- [01:08:55,560 - 01:08:56,040] Well,
+- [01:08:56,040 - 01:08:56,460] OK.
+- [01:08:57,040 - 01:08:57,920] That make sense?
+- [01:08:58,279 - 01:08:58,540] Yeah,
+- [01:08:58,540 - 01:08:59,520] it does.
+- [01:08:59,620 - 01:09:00,460] But let me answer it.
+- [01:09:00,460 - 01:09:01,600] Let me answer it by analogy.
+- [01:09:04,500 - 01:09:06,620] People say black holes have no hair.
+- [01:09:07,840 - 01:09:08,660] Black my head.
+- [01:09:08,779 - 01:09:09,100] Right.
+- [01:09:09,899 - 01:09:11,640] Except a lot smoother than your head.
+- [01:09:14,420 - 01:09:15,939] Black holes have no hair.
+- [01:09:16,020 - 01:09:18,080] And the meaning of that is that black holes,
+- [01:09:18,140 - 01:09:20,760] the surface of a black hole is exceedingly smooth
+- [01:09:20,760 - 01:09:22,279] with no irregularities.
+- [01:09:23,200 - 01:09:25,060] If there are no irregularities,
+- [01:09:25,060 - 01:09:27,540] then how do you
+- [01:09:27,540 - 01:09:28,939] tell one black hole from another?
+- [01:09:29,660 - 01:09:30,439] You can't.
+- [01:09:30,460 - 01:09:32,479] As long as its mass is the same.
+- [01:09:32,880 - 01:09:34,380] And if there are no distinctions,
+- [01:09:34,380 - 01:09:36,359] then there's
+- [01:09:36,359 - 01:09:38,089] no entropy because entropy
+- [01:09:38,089 - 01:09:39,819] is describing hidden distinctions.
+- [01:09:40,600 - 01:09:41,600] That's what entropy is.
+- [01:09:41,680 - 01:09:44,520] It's the hidden information contained in a system.
+- [01:09:46,120 - 01:09:46,660] All right.
+- [01:09:46,680 - 01:09:48,160] So you could say exactly the same thing
+- [01:09:48,160 - 01:09:49,859] about bathtubs full of hot water.
+- [01:09:49,960 - 01:09:51,819] Bathtubs full of hot water have no hair.
+- [01:09:52,500 - 01:09:52,880] Actually,
+- [01:09:52,880 - 01:09:54,069] my wife tells me my
+- [01:09:54,069 - 01:09:55,260] bathtub is always full of hair.
+- [01:09:56,020 - 01:09:56,400] Actually,
+- [01:09:56,400 - 01:09:56,880] it used to be.
+- [01:09:56,920 - 01:09:57,360] Used to be.
+- [01:09:58,139 - 01:09:59,400] We won't get into this.
+- [01:09:59,440 - 01:10:00,060] Let's get off this.
+- [01:10:00,460 - 01:10:00,540] We're going to get into this.
+- [01:10:00,540 - 01:10:01,920] There's no flow of molecules.
+- [01:10:02,460 - 01:10:02,960] Yeah.
+- [01:10:03,040 - 01:10:03,740] All right.
+- [01:10:03,780 - 01:10:05,660] Bathtubs full of hot water have no hair.
+- [01:10:05,740 - 01:10:07,800] And the meaning of that is a bathtub in equilibrium.
+- [01:10:08,800 - 01:10:10,930] That means enough time has
+- [01:10:10,930 - 01:10:13,060] gone that the temperature is uniform.
+- [01:10:13,840 - 01:10:15,620] The surface of the bathtub,
+- [01:10:15,620 - 01:10:17,260] the surface of the water
+- [01:10:17,260 - 01:10:18,700] is completely flat.
+- [01:10:19,480 - 01:10:21,420] You look at that bathtub full of water,
+- [01:10:21,420 - 01:10:22,720] it has no hair.
+- [01:10:22,920 - 01:10:24,500] There's no ripples on it.
+- [01:10:24,500 - 01:10:24,840] There's no
+- [01:10:24,840 - 01:10:26,080] It's in absolute equilibrium,
+- [01:10:26,080 - 01:10:28,080] completely quiescent,
+- [01:10:28,180 - 01:10:29,100] completely flat.
+- [01:10:30,180 - 01:10:32,880] And from the macroscopic external point of view,
+- [01:10:32,880 - 01:10:34,820] it has no hair.
+- [01:10:34,900 - 01:10:36,080] It has no structure at all.
+- [01:10:36,220 - 01:10:36,600] Zero.
+- [01:10:36,820 - 01:10:40,540] It's completely described by a small number of parameters.
+- [01:10:40,540 - 01:10:41,540] How many parameters?
+- [01:10:42,360 - 01:10:42,800] Well,
+- [01:10:42,800 - 01:10:44,220] the shape of the bathtub,
+- [01:10:44,220 - 01:10:44,760] of course,
+- [01:10:44,760 - 01:10:45,560] and all those things.
+- [01:10:45,680 - 01:10:47,450] Imagine they're given the volume
+- [01:10:47,450 - 01:10:49,220] of water and the temperature.
+- [01:10:49,840 - 01:10:50,340] That's it.
+- [01:10:50,420 - 01:10:51,200] Or the energy.
+- [01:10:52,460 - 01:10:52,900] Energy,
+- [01:10:52,900 - 01:10:53,340] energy,
+- [01:10:53,340 - 01:10:54,000] let's say energy.
+- [01:10:54,140 - 01:10:55,020] The energy in the water,
+- [01:10:55,020 - 01:10:56,320] the thermal energy in the water,
+- [01:10:56,360 - 01:10:57,840] and the volume of water.
+- [01:10:58,000 - 01:10:59,320] And that's about it.
+- [01:11:00,340 - 01:11:01,580] So in that sense,
+- [01:11:01,580 - 01:11:03,840] bathtubs full of hot water have no hair.
+- [01:11:04,400 - 01:11:05,880] But we know what the hair is,
+- [01:11:05,880 - 01:11:09,520] the hair that distinguishes between two
+- [01:11:09,520 - 01:11:10,520] different microspheres.
+- [01:11:10,520 - 01:11:11,460] And so the fact that we have microscopic configurations,
+- [01:11:11,960 - 01:11:16,320] the information which is there but hidden
+- [01:11:16,320 - 01:11:21,160] is the individual molecular degrees of freedom.
+- [01:11:21,500 - 01:11:22,240] OK?
+- [01:11:22,540 - 01:11:25,900] What the entropy of a black hole is telling you
+- [01:11:27,100 - 01:11:33,240] is that there are microscopic degrees of freedom which
+- [01:11:33,240 - 01:11:34,480] are too numerous,
+- [01:11:34,480 - 01:11:37,200] too small to see.
+- [01:11:37,200 - 01:11:39,980] And that in the coarse green sense,
+- [01:11:39,980 - 01:11:40,960] in the same sense
+- [01:11:40,960 - 01:11:42,460] that the bathtub has no hair,
+- [01:11:42,460 - 01:11:43,760] the black hole has no hair,
+- [01:11:44,599 - 01:11:47,600] but in the same sense that the bathtub has
+- [01:11:47,600 - 01:11:51,840] a microscopic huge number of degrees of freedom that
+- [01:11:51,840 - 01:11:53,300] account for its huge entropy,
+- [01:11:53,300 - 01:11:54,820] the black hole
+- [01:11:54,820 - 01:11:56,830] must have such a collection
+- [01:11:56,830 - 01:11:58,840] of microscopic degrees of freedom.
+- [01:11:59,060 - 01:12:00,220] The only question is,
+- [01:12:00,220 - 01:12:00,760] what are they?
+- [01:12:01,300 - 01:12:02,700] We know how many there are,
+- [01:12:02,700 - 01:12:04,480] just the entropy of the black hole.
+- [01:12:04,960 - 01:12:06,500] We know how many there are.
+- [01:12:06,560 - 01:12:07,180] We know how many there are.
+- [01:12:07,180 - 01:12:10,820] We don't necessarily know precisely what they are.
+- [01:12:12,720 - 01:12:15,760] But if you take two bathtubs with the same characteristics,
+- [01:12:20,540 - 01:12:22,960] the gross entropy will be the same.
+- [01:12:23,060 - 01:12:25,680] But if you dig down deep enough,
+- [01:12:25,680 - 01:12:26,720] you'll find it's a bunch of
+- [01:12:26,720 - 01:12:26,740] Yeah,
+- [01:12:26,740 - 01:12:27,180] right.
+- [01:12:28,020 - 01:12:31,200] So it's like you're taking big averages.
+- [01:12:31,300 - 01:12:32,680] And if you average everything out,
+- [01:12:32,840 - 01:12:35,260] you can generalize almost anything you want.
+- [01:12:37,180 - 01:12:38,510] So if I want to look
+- [01:12:38,510 - 01:12:39,840] at it in a blurred vision,
+- [01:12:40,020 - 01:12:40,520] I can say,
+- [01:12:40,520 - 01:12:40,760] yeah,
+- [01:12:40,760 - 01:12:41,760] there's no,
+- [01:12:41,760 - 01:12:46,020] but if you look at it in more detail.
+- [01:12:46,140 - 01:12:47,460] You can ask a rather precise question.
+- [01:12:48,720 - 01:12:50,590] Given the energy and the
+- [01:12:50,590 - 01:12:52,460] volume of water in that bathtub,
+- [01:12:52,540 - 01:12:56,150] how many precise quantum states
+- [01:12:56,150 - 01:12:59,760] are there of the many molecule
+- [01:12:59,760 - 01:13:05,440] system which conform to your prescription,
+- [01:13:05,440 - 01:13:06,720] namely the energy,
+- [01:13:06,720 - 01:13:08,320] between some tolerances,
+- [01:13:08,320 - 01:13:09,840] whatever that energy happens to be,
+- [01:13:10,000 - 01:13:12,060] and the volume given what it is.
+- [01:13:12,140 - 01:13:13,440] How many quantum states are there?
+- [01:13:13,720 - 01:13:14,020] Zillions.
+- [01:13:14,360 - 01:13:14,620] No,
+- [01:13:14,620 - 01:13:15,300] of course there's zillions.
+- [01:13:15,440 - 01:13:17,420] But that's exactly what the entropy is measuring.
+- [01:13:17,740 - 01:13:20,600] Number of quantum states subject to some criteria.
+- [01:13:21,140 - 01:13:23,070] The criteria in the case
+- [01:13:23,070 - 01:13:25,000] of bathtub is volume and energy.
+- [01:13:26,000 - 01:13:27,340] In case of black holes,
+- [01:13:27,340 - 01:13:29,260] it's just the mass and the angular,
+- [01:13:29,260 - 01:13:29,580] well,
+- [01:13:29,680 - 01:13:30,120] you could also,
+- [01:13:30,120 - 01:13:32,300] and the angular momentum and the charge.
+- [01:13:32,620 - 01:13:34,820] But if we forget angular momentum and charge,
+- [01:13:34,820 - 01:13:36,000] it's just the mass.
+- [01:13:36,080 - 01:13:36,420] That's all.
+- [01:13:38,160 - 01:13:40,870] So all black holes are the
+- [01:13:40,870 - 01:13:43,580] same from this coarse green squinty-eyed
+- [01:13:43,580 - 01:13:45,600] viewpoint where you don't look carefully.
+- [01:13:45,960 - 01:13:47,000] They're all the same,
+- [01:13:47,000 - 01:13:50,460] but they're distinguished by different microscopic content.
+- [01:13:50,880 - 01:13:51,580] So if you look deeply,
+- [01:13:51,580 - 01:13:52,300] they're all different.
+- [01:13:52,500 - 01:13:53,160] They're all different.
+- [01:13:53,440 - 01:13:53,780] Okay.
+- [01:13:54,100 - 01:13:55,040] I have a question.
+- [01:13:55,340 - 01:13:56,740] In your black hole class,
+- [01:13:56,740 - 01:13:58,420] you said that when a black hole evaporates,
+- [01:13:58,420 - 01:14:00,000] when it loses half of its mass,
+- [01:14:00,000 - 01:14:02,320] if you take account of all the photons,
+- [01:14:02,560 - 01:14:06,660] then you can start reconstructing the information in there.
+- [01:14:06,660 - 01:14:07,640] Is that correct?
+- [01:14:07,800 - 01:14:07,860] Well,
+- [01:14:07,860 - 01:14:09,880] that's a subtle information theoretic issue,
+- [01:14:09,880 - 01:14:10,120] yeah.
+- [01:14:10,500 - 01:14:11,180] And so,
+- [01:14:11,180 - 01:14:11,940] so at that point,
+- [01:14:11,940 - 01:14:12,800] if they would,
+- [01:14:12,800 - 01:14:14,140] you could determine one from another,
+- [01:14:14,260 - 01:14:16,160] or if you accumulated all that data,
+- [01:14:16,160 - 01:14:18,040] then you could determine one from another.
+- [01:14:18,280 - 01:14:18,960] Is that correct?
+- [01:14:19,460 - 01:14:19,860] Well,
+- [01:14:19,860 - 01:14:20,800] in order to do so,
+- [01:14:20,800 - 01:14:22,620] you would have to know far
+- [01:14:22,620 - 01:14:24,440] more than is humanly possible to know.
+- [01:14:25,120 - 01:14:26,780] You'd have to know the precise,
+- [01:14:26,780 - 01:14:29,920] exact dynamics of the system.
+- [01:14:30,080 - 01:14:31,870] You'd have to be able to track it
+- [01:14:31,870 - 01:14:33,660] and follow it and do all sorts of things,
+- [01:14:33,720 - 01:14:35,360] which in practice you really can't do.
+- [01:14:36,140 - 01:14:36,540] But
+- [01:14:36,660 - 01:14:37,160] So in principle,
+- [01:14:37,160 - 01:14:40,580] with infinite computing ability and
+- [01:14:40,580 - 01:14:44,000] infinite knowledge of the laws,
+- [01:14:44,000 - 01:14:45,680] you could do.
+- [01:14:45,820 - 01:14:47,620] Same thing as to have a bathtub full of water.
+- [01:14:48,020 - 01:14:48,960] Exactly the same thing.
+- [01:14:50,740 - 01:14:52,740] But that would be a difference between black holes,
+- [01:14:52,740 - 01:14:53,280] if you could do it.
+- [01:14:54,540 - 01:14:54,900] Theoretically.
+- [01:14:55,060 - 01:14:57,440] That would be a difference between black holes and what?
+- [01:14:57,900 - 01:14:58,780] One from another.
+- [01:14:58,960 - 01:14:59,080] Oh,
+- [01:14:59,080 - 01:14:59,540] one from another,
+- [01:14:59,540 - 01:14:59,780] yeah.
+- [01:15:00,480 - 01:15:02,040] So then you could say,
+- [01:15:02,040 - 01:15:02,180] well,
+- [01:15:02,180 - 01:15:03,200] this one is different from that one.
+- [01:15:03,460 - 01:15:03,480] Yeah.
+- [01:15:03,640 - 01:15:05,140] But the kind of experiments you would have
+- [01:15:05,140 - 01:15:06,640] to do are so out of the ballpark,
+- [01:15:06,640 - 01:15:06,640] that you'd have to do it.
+- [01:15:08,099 - 01:15:10,539] It just seems odd to
+- [01:15:10,539 - 01:15:12,980] say that if you squint enough,
+- [01:15:12,980 - 01:15:14,560] everything looks the same.
+- [01:15:14,580 - 01:15:18,220] That seems to be not quite right somehow.
+- [01:15:19,760 - 01:15:20,540] I didn't say that.
+- [01:15:20,580 - 01:15:21,020] You said it.
+- [01:15:21,899 - 01:15:24,339] I said if you fix the
+- [01:15:24,339 - 01:15:26,780] energy and you fix the volume,
+- [01:15:26,780 - 01:15:28,840] count the number of quantum states.
+- [01:15:29,020 - 01:15:29,140] Now,
+- [01:15:29,140 - 01:15:30,620] you may interpret that if you like,
+- [01:15:30,620 - 01:15:33,270] if you squint so squinty that you can't
+- [01:15:33,270 - 01:15:35,920] see anything except the energy and the volume.
+- [01:15:36,880 - 01:15:37,740] And it's the same.
+- [01:15:37,940 - 01:15:39,920] But if I want to look deeply into it,
+- [01:15:39,920 - 01:15:42,040] each bathtub will be different.
+- [01:15:42,200 - 01:15:42,440] Yeah.
+- [01:15:43,240 - 01:15:44,440] And doesn't that mean each,
+- [01:15:44,440 - 01:15:46,440] if you don't want to
+- [01:15:46,440 - 01:15:48,440] take averages and smooth things out,
+- [01:15:48,440 - 01:15:50,840] you want to look at the actual state of it,
+- [01:15:50,840 - 01:15:51,680] they're all different.
+- [01:15:51,780 - 01:15:52,020] Now,
+- [01:15:52,020 - 01:15:57,120] the entropy means that the differences are,
+- [01:15:57,120 - 01:15:58,480] on a macro scale,
+- [01:15:58,480 - 01:15:59,460] are somewhat small.
+- [01:15:59,680 - 01:15:59,980] But,
+- [01:15:59,980 - 01:16:00,540] you know,
+- [01:16:00,540 - 01:16:01,380] if you look at coins.
+- [01:16:01,420 - 01:16:03,940] There's a man who has clearly never taken a bath.
+- [01:16:04,360 - 01:16:05,360] I take showers.
+- [01:16:05,740 - 01:16:06,320] Which is fine.
+- [01:16:06,660 - 01:16:07,300] Which is different.
+- [01:16:07,420 - 01:16:07,680] I just,
+- [01:16:07,680 - 01:16:09,760] discrete clouds of water coming down.
+- [01:16:09,900 - 01:16:10,620] Or quantized.
+- [01:16:10,620 - 01:16:11,780] It gets quantized.
+- [01:16:12,820 - 01:16:14,660] You mean that you can see
+- [01:16:14,660 - 01:16:16,500] the molecules if you don't squint?
+- [01:16:18,360 - 01:16:18,920] No.
+- [01:16:18,960 - 01:16:20,220] I can't see the molecules.
+- [01:16:20,340 - 01:16:20,740] No.
+- [01:16:21,020 - 01:16:22,840] But that's because I'm taking a shower.
+- [01:16:22,960 - 01:16:26,160] I'm not studying the actualities of the shower.
+- [01:16:26,340 - 01:16:29,900] Let's move on before we get into big trouble.
+- [01:16:30,000 - 01:16:30,340] You got some long leg,
+- [01:16:30,340 - 01:16:30,500] huh?
+- [01:16:30,940 - 01:16:31,220] Yeah.
+- [01:16:32,040 - 01:16:32,600] Please.
+- [01:16:32,660 - 01:16:34,440] Are you going to talk about negative temperature,
+- [01:16:34,440 - 01:16:34,940] perhaps?
+- [01:16:35,320 - 01:16:35,700] Yeah.
+- [01:16:35,720 - 01:16:36,640] We can talk about negative temperature.
+- [01:16:36,640 - 01:16:37,620] We can talk about negative temperature a little bit.
+- [01:16:39,100 - 01:16:39,740] All right.
+- [01:16:39,740 - 01:16:41,840] We have a few minutes to talk about negative temperature.
+- [01:16:41,900 - 01:16:43,440] We've talked about negative specific heat.
+- [01:16:43,500 - 01:16:45,760] An entirely different subject is negative temperature.
+- [01:16:48,840 - 01:16:50,930] Let me point out two other things that
+- [01:16:50,930 - 01:16:53,020] you had mentioned that we might talk about tonight.
+- [01:16:53,320 - 01:16:54,880] Bose-Einstein condensation.
+- [01:16:55,220 - 01:16:57,280] I think that's...
+- [01:16:57,280 - 01:16:57,600] Okay.
+- [01:16:57,660 - 01:17:00,250] And the connection between particle
+- [01:17:00,250 - 01:17:02,840] physics and the physical mechanics.
+- [01:17:03,500 - 01:17:03,980] Yeah.
+- [01:17:04,040 - 01:17:04,300] Well,
+- [01:17:04,300 - 01:17:05,780] I think we've run out of time.
+- [01:17:05,880 - 01:17:06,200] But...
+- [01:17:06,860 - 01:17:07,090] I think we're going to get
+- [01:17:07,090 - 01:17:07,320] to the end of the talk.
+- [01:17:07,320 - 01:17:08,500] What was I just asked about now?
+- [01:17:08,900 - 01:17:09,720] Negative temperature.
+- [01:17:10,020 - 01:17:10,380] Yeah.
+- [01:17:10,620 - 01:17:13,340] That's a self-contained thing that's...
+- [01:17:14,160 - 01:17:15,400] We didn't talk about this?
+- [01:17:15,780 - 01:17:16,060] No.
+- [01:17:16,140 - 01:17:16,720] All right.
+- [01:17:16,760 - 01:17:17,960] Let's talk about negative temperature.
+- [01:17:19,740 - 01:17:21,220] Let's talk about negative temperature.
+- [01:17:25,480 - 01:17:25,940] Well,
+- [01:17:25,940 - 01:17:26,300] I think we're done.
+- [01:17:26,920 - 01:17:27,380] All right.
+- [01:17:27,380 - 01:17:27,420] Bye-bye.
+- [01:17:28,240 - 01:17:28,700] Bye-bye.
+- [01:17:28,700 - 01:17:28,780] Bye-bye.
+- [01:17:28,780 - 01:17:28,820] Bye-bye.
+- [01:17:28,820 - 01:17:28,920] Bye-bye.
+- [01:17:28,920 - 01:17:30,500] Bye-bye.
+- [01:17:30,500 - 01:17:31,220] Bye-bye.
+- [01:17:31,220 - 01:17:35,040] Bye-bye.
+- [01:17:35,240 - 01:17:37,020] Bye-bye.
+- [01:17:37,020 - 01:17:37,740] Bye-bye.
+- [01:17:38,000 - 01:17:38,680] Okay.
+- [01:17:39,600 - 01:17:42,670] Let's start with a conventional system and
+- [01:17:42,670 - 01:17:45,740] ask why the temperature cannot be negative.
+- [01:17:46,540 - 01:17:49,040] The temperature ordinarily cannot be
+- [01:17:49,040 - 01:17:51,540] negative because the partition function.
+- [01:17:51,820 - 01:17:52,460] What is the temperature?
+- [01:17:52,660 - 01:17:54,870] One definition of the temperature is
+- [01:17:54,870 - 01:17:57,080] that it's the inverse of the beta,
+- [01:17:57,080 - 01:17:58,340] which goes into
+- [01:17:58,340 - 01:17:59,520] the probability distribution,
+- [01:17:59,520 - 01:18:02,960] e to the minus beta e.
+- [01:18:02,960 - 01:18:03,060] E.
+- [01:18:03,060 - 01:18:05,740] And then what do we do with that?
+- [01:18:05,920 - 01:18:07,660] We sum it over all
+- [01:18:07,660 - 01:18:09,400] of the states of the system
+- [01:18:09,400 - 01:18:11,660] to calculate the partition function.
+- [01:18:11,880 - 01:18:14,340] The partition function is the starting point
+- [01:18:15,059 - 01:18:17,980] of all thermodynamics or all statistical mechanics.
+- [01:18:18,840 - 01:18:20,600] And it's assumed that it exists.
+- [01:18:21,900 - 01:18:23,160] Why does it exist?
+- [01:18:23,360 - 01:18:24,620] Why does this converge?
+- [01:18:26,540 - 01:18:30,760] It converges because in a usual situation,
+- [01:18:30,760 - 01:18:33,860] the number of energy levels does
+- [01:18:33,860 - 01:18:36,960] not grow so fast with energy
+- [01:18:36,960 - 01:18:40,860] that it overwhelms this e to the minus beta e.
+- [01:18:41,160 - 01:18:42,280] In fact,
+- [01:18:42,280 - 01:18:45,370] we said that the number
+- [01:18:45,370 - 01:18:48,460] of energy levels per unit energy
+- [01:18:48,460 - 01:18:52,780] increases and the Boltzmann factor decreases.
+- [01:18:53,880 - 01:18:55,740] But at high energy,
+- [01:18:55,740 - 01:18:58,760] the Boltzmann factor usually wins,
+- [01:18:59,000 - 01:19:00,740] meaning to say it basically
+- [01:19:00,740 - 01:19:00,820] increases the energy level.
+- [01:19:00,820 - 01:19:00,820] So if you have a very,
+- [01:19:00,820 - 01:19:01,940] very large energy,
+- [01:19:02,220 - 01:19:05,910] the integrand or the sum
+- [01:19:05,910 - 01:19:09,600] end here is nice and convergent.
+- [01:19:09,660 - 01:19:12,400] There aren't so many states of increasing energy
+- [01:19:12,400 - 01:19:15,360] that the sum fails to converge.
+- [01:19:15,680 - 01:19:17,920] Is that the thing that
+- [01:19:17,920 - 01:19:20,160] failed in the black body situation,
+- [01:19:20,560 - 01:19:22,100] the classical black body?
+- [01:19:22,380 - 01:19:24,820] It is what failed in the classical black body.
+- [01:19:25,000 - 01:19:25,160] Yeah.
+- [01:19:25,320 - 01:19:25,840] Yeah.
+- [01:19:26,000 - 01:19:26,520] Yeah.
+- [01:19:26,520 - 01:19:26,620] Yeah.
+- [01:19:26,640 - 01:19:29,700] The number of states just grew too fast with energy.
+- [01:19:29,860 - 01:19:29,960] Yeah.
+- [01:19:30,040 - 01:19:30,600] That's correct.
+- [01:19:32,600 - 01:19:34,200] So when doing the sum,
+- [01:19:34,200 - 01:19:36,060] we always assume that it converges.
+- [01:19:37,538 - 01:19:37,618] うん
+- [01:19:39,458 - 01:19:40,378] If it converges,
+- [01:19:40,378 - 01:19:44,898] if the number of states increases with energy,
+- [01:19:45,098 - 01:19:45,258] yeah,
+- [01:19:45,258 - 01:19:45,438] okay,
+- [01:19:45,438 - 01:19:46,658] how can we get into trouble?
+- [01:19:47,178 - 01:19:48,898] Supposing we made this beta negative,
+- [01:19:48,898 - 01:19:50,198] what would happen then?
+- [01:19:50,298 - 01:19:51,278] Then we'd be summing,
+- [01:19:51,278 - 01:19:52,038] sum on i,
+- [01:19:52,038 - 01:19:56,338] e to the plus absolute value of beta times e.
+- [01:19:57,038 - 01:20:00,178] That would mean that the Boltzmann factor would grow.
+- [01:20:01,518 - 01:20:03,418] The Boltzmann factor would grow.
+- [01:20:03,558 - 01:20:07,038] If the Boltzmann factor grows and the density of states,
+- [01:20:07,038 - 01:20:09,778] the number of states increases rapidly with energy,
+- [01:20:10,018 - 01:20:12,658] then we have no hope that this thing will converge.
+- [01:20:13,998 - 01:20:16,308] So the idea of making the temperature
+- [01:20:16,308 - 01:20:18,618] negative will just lead to something that's,
+- [01:20:18,618 - 01:20:19,458] you know,
+- [01:20:19,978 - 01:20:21,058] doesn't make any sense.
+- [01:20:21,358 - 01:20:22,638] It doesn't make any sense,
+- [01:20:22,638 - 01:20:24,208] can't be in thermal equilibrium for
+- [01:20:24,208 - 01:20:25,778] the simple reason that the probability,
+- [01:20:26,058 - 01:20:28,438] another way to say it is
+- [01:20:28,438 - 01:20:30,818] the probability distribution is completely unnormalized.
+- [01:20:30,858 - 01:20:31,738] It can't be normalized.
+- [01:20:32,278 - 01:20:35,098] The sums of the probabilities can't add up to one.
+- [01:20:35,198 - 01:20:36,518] There's no way they can add up to one.
+- [01:20:37,038 - 01:20:40,348] If the probability function is
+- [01:20:40,348 - 01:20:43,658] increasing exponentially at high energies.
+- [01:20:44,178 - 01:20:44,837] Okay,
+- [01:20:44,837 - 01:20:46,338] is there a way around this?
+- [01:20:46,518 - 01:20:48,458] Is there any kind of...
+- [01:20:48,458 - 01:20:49,178] Energy set off?
+- [01:20:49,478 - 01:20:49,898] Yeah.
+- [01:20:50,738 - 01:20:51,398] If,
+- [01:20:51,398 - 01:20:52,738] for some reason or another,
+- [01:20:52,738 - 01:20:57,258] the energies of the system are bounded from above,
+- [01:20:57,538 - 01:20:59,938] imagine they're literally bounded from above,
+- [01:21:00,808 - 01:21:03,658] that the energy cannot be bigger than a certain amount,
+- [01:21:04,628 - 01:21:06,128] then this sum...
+- [01:21:07,038 - 01:21:08,158] Will not diverge.
+- [01:21:08,178 - 01:21:09,838] It will just be whatever it is.
+- [01:21:12,758 - 01:21:14,058] And in that case,
+- [01:21:14,058 - 01:21:14,518] formally,
+- [01:21:14,518 - 01:21:17,838] in the sense of just mathematically,
+- [01:21:18,558 - 01:21:22,098] this partition function will exist and make sense,
+- [01:21:22,798 - 01:21:24,388] as long as for some reason
+- [01:21:24,388 - 01:21:25,978] there's an upper bound to the energy.
+- [01:21:26,538 - 01:21:26,738] Okay,
+- [01:21:26,738 - 01:21:27,908] so what kind of systems have
+- [01:21:27,908 - 01:21:29,078] an upper bound to their energy?
+- [01:21:29,298 - 01:21:30,918] No real system in nature,
+- [01:21:30,918 - 01:21:31,598] incidentally.
+- [01:21:31,958 - 01:21:33,878] Some approximate systems,
+- [01:21:33,878 - 01:21:35,778] and definitely many,
+- [01:21:35,778 - 01:21:37,018] many mathematical systems,
+- [01:21:37,038 - 01:21:39,278] have an upper bound to their energy,
+- [01:21:39,278 - 01:21:40,578] so let me point one out.
+- [01:21:41,138 - 01:21:43,098] We talked about magnetic systems.
+- [01:21:48,238 - 01:21:49,968] The simple example of a
+- [01:21:49,968 - 01:21:51,698] magnetic system was an Ising magnet,
+- [01:21:51,958 - 01:21:54,098] or even simpler kinds of magnets,
+- [01:21:54,338 - 01:21:59,158] which involve simple degrees of freedom sigma,
+- [01:21:59,318 - 01:22:00,898] which can be plus or minus one.
+- [01:22:02,018 - 01:22:05,578] And the energy is simply a function of these sigmas.
+- [01:22:05,578 - 01:22:06,118] For example,
+- [01:22:06,118 - 01:22:06,938] the Ising model,
+- [01:22:06,938 - 01:22:11,998] the energy is some number with a minus sign,
+- [01:22:11,998 - 01:22:12,558] typically,
+- [01:22:13,238 - 01:22:16,298] times the product of the sigmas at neighboring points,
+- [01:22:19,178 - 01:22:19,738] whatever,
+- [01:22:19,738 - 01:22:20,878] a sum,
+- [01:22:20,878 - 01:22:23,238] some sort of structure like this.
+- [01:22:24,278 - 01:22:26,968] Each one of these individual spins
+- [01:22:26,968 - 01:22:29,658] is bounded from above and below,
+- [01:22:29,858 - 01:22:31,138] cannot be bigger than one,
+- [01:22:31,138 - 01:22:33,958] cannot be smaller than minus one,
+- [01:22:34,098 - 01:22:36,818] and so the energy in each pair is bounded,
+- [01:22:36,818 - 01:22:38,678] and in fact,
+- [01:22:38,678 - 01:22:41,438] assuming there's a finite number of pairs,
+- [01:22:41,598 - 01:22:42,938] imagine a finite number of pairs,
+- [01:22:43,058 - 01:22:44,558] the energy is bounded from above.
+- [01:22:45,098 - 01:22:46,298] In that case,
+- [01:22:46,298 - 01:22:48,998] the temperature can be negative.
+- [01:22:54,018 - 01:22:54,618] Now,
+- [01:22:54,618 - 01:22:57,438] temperature being negative has another implication.
+- [01:22:57,738 - 01:22:58,778] Another implication.
+- [01:23:00,758 - 01:23:02,358] Let's take a very simple example.
+- [01:23:02,638 - 01:23:03,438] I'll take the very,
+- [01:23:03,438 - 01:23:04,358] very simplest example,
+- [01:23:04,558 - 01:23:05,978] that the energy,
+- [01:23:05,978 - 01:23:06,798] the energy is bound from above,
+- [01:23:06,798 - 01:23:06,798] and the energy is bound from below.
+- [01:23:06,798 - 01:23:07,798] The energy is simply a sum,
+- [01:23:07,798 - 01:23:09,958] some number,
+- [01:23:09,958 - 01:23:10,238] sum,
+- [01:23:10,238 - 01:23:11,898] of sigma itself.
+- [01:23:12,238 - 01:23:14,598] Not sigma times its neighboring value of sigma,
+- [01:23:15,098 - 01:23:17,458] but each sigma has an energy.
+- [01:23:18,678 - 01:23:19,478] That's the energy,
+- [01:23:19,478 - 01:23:20,338] if a spin is up,
+- [01:23:20,338 - 01:23:21,058] it has one energy,
+- [01:23:21,198 - 01:23:22,198] if a spin is down,
+- [01:23:22,198 - 01:23:23,418] it has another energy.
+- [01:23:24,458 - 01:23:25,658] If a spin is down,
+- [01:23:25,658 - 01:23:26,618] it has a negative energy,
+- [01:23:26,618 - 01:23:27,138] that's lower.
+- [01:23:27,338 - 01:23:28,178] If a spin is up,
+- [01:23:28,178 - 01:23:29,138] it has a positive energy,
+- [01:23:29,138 - 01:23:30,238] the spin is higher.
+- [01:23:36,798 - 01:23:38,478] Let's think about the entropy.
+- [01:23:38,678 - 01:23:40,318] There's a probability distribution.
+- [01:23:41,258 - 01:23:43,338] The probability distribution,
+- [01:23:46,158 - 01:23:46,898] let's see,
+- [01:23:46,898 - 01:23:49,898] what is the probability distribution for ups and downs?
+- [01:23:51,398 - 01:23:52,638] Whatever the probability,
+- [01:23:52,738 - 01:23:54,718] let's imagine now a large number of spins.
+- [01:23:57,537 - 01:23:58,958] We take out one spin,
+- [01:23:58,958 - 01:24:00,917] just study one of them for simplicity,
+- [01:24:01,557 - 01:24:03,507] and let's look at its probability
+- [01:24:03,507 - 01:24:05,458] distribution to be either up or down.
+- [01:24:05,598 - 01:24:06,118] Okay?
+- [01:24:06,118 - 01:24:07,438] As a function of,
+- [01:24:07,438 - 01:24:08,578] what do we want to do?
+- [01:24:09,418 - 01:24:11,158] As a function of,
+- [01:24:17,758 - 01:24:23,358] as a function of the total energy of the system,
+- [01:24:23,458 - 01:24:24,098] what do I want to do?
+- [01:24:36,598 - 01:24:37,038] Okay,
+- [01:24:37,038 - 01:24:37,218] well,
+- [01:24:37,218 - 01:24:38,958] let's just look at the partition function.
+- [01:24:39,698 - 01:24:41,358] Let's examine the partition function.
+- [01:24:41,538 - 01:24:43,438] The partition function is the sum,
+- [01:24:43,478 - 01:24:44,998] there are two states for each system,
+- [01:24:45,958 - 01:24:48,058] e to the minus beta,
+- [01:24:48,938 - 01:24:51,178] let's suppose if the spin is down,
+- [01:24:51,298 - 01:24:53,258] let's say the energy is minus one,
+- [01:24:53,438 - 01:24:54,598] if the spin is up,
+- [01:24:54,598 - 01:24:55,678] let's say it's plus one.
+- [01:24:56,058 - 01:24:58,198] Then we're going to get e to the minus beta,
+- [01:24:58,338 - 01:25:00,278] I think plus e to the plus beta,
+- [01:25:00,478 - 01:25:01,878] that's the partition function,
+- [01:25:01,878 - 01:25:02,398] z.
+- [01:25:04,958 - 01:25:06,098] This is equal to,
+- [01:25:06,118 - 01:25:10,278] hyperbolic cosine of beta,
+- [01:25:10,458 - 01:25:12,578] or twice the hyperbolic cosine of beta.
+- [01:25:18,058 - 01:25:18,658] Okay.
+- [01:25:18,878 - 01:25:19,938] First of all,
+- [01:25:19,938 - 01:25:21,368] this is just as good for
+- [01:25:21,368 - 01:25:22,798] positive beta as for negative beta.
+- [01:25:24,118 - 01:25:27,458] Nothing better about positive beta or negative beta.
+- [01:25:28,918 - 01:25:30,378] Makes just as good a sense.
+- [01:25:30,498 - 01:25:30,818] In fact,
+- [01:25:30,818 - 01:25:34,558] it's symmetric about beta equals plus and beta equals minus.
+- [01:25:36,358 - 01:25:36,998] So,
+- [01:25:36,998 - 01:25:38,858] here's an example where negative
+- [01:25:38,858 - 01:25:40,718] temperature makes perfectly good sense.
+- [01:25:40,918 - 01:25:42,718] The partition function is fine,
+- [01:25:42,798 - 01:25:45,938] exists for either positive or negative beta.
+- [01:25:47,998 - 01:25:48,638] Yeah,
+- [01:25:48,638 - 01:25:48,958] okay,
+- [01:25:48,958 - 01:25:49,498] I know what to,
+- [01:25:49,498 - 01:25:49,918] I know what to,
+- [01:25:49,918 - 01:25:50,978] how to explain this.
+- [01:25:51,298 - 01:25:58,198] If you plot the entropy versus the energy,
+- [01:25:59,838 - 01:26:02,638] the entropy versus the energy,
+- [01:26:06,018 - 01:26:07,298] the entropy is zero.
+- [01:26:07,298 - 01:26:10,558] The lowest energy state is the state with all spins,
+- [01:26:10,778 - 01:26:11,258] let's say,
+- [01:26:11,258 - 01:26:11,638] down.
+- [01:26:11,898 - 01:26:13,578] That's the lowest energy state,
+- [01:26:13,818 - 01:26:15,698] and there's only one such state.
+- [01:26:16,318 - 01:26:16,958] So,
+- [01:26:16,958 - 01:26:17,898] at the very,
+- [01:26:17,898 - 01:26:18,818] very lowest energy,
+- [01:26:19,098 - 01:26:20,038] what is the entropy?
+- [01:26:21,498 - 01:26:22,138] Zero.
+- [01:26:24,338 - 01:26:26,658] What about the very highest energy state?
+- [01:26:27,518 - 01:26:29,038] All spins up.
+- [01:26:29,298 - 01:26:29,738] Again,
+- [01:26:29,738 - 01:26:31,058] the entropy is zero.
+- [01:26:32,958 - 01:26:35,278] What does the entropy look like in between?
+- [01:26:35,818 - 01:26:36,398] Well,
+- [01:26:36,398 - 01:26:37,458] whatever it looks like,
+- [01:26:37,458 - 01:26:38,278] it has some shape.
+- [01:26:39,678 - 01:26:40,258] Okay.
+- [01:26:41,078 - 01:26:44,298] Notice that there is a region in here
+- [01:26:45,078 - 01:26:47,258] where the derivative of the entropy
+- [01:26:48,438 - 01:26:52,238] with respect to the energy is negative.
+- [01:26:53,958 - 01:26:55,178] There's a region here
+- [01:26:56,038 - 01:26:57,938] where the derivative of the entropy
+- [01:26:57,938 - 01:26:59,838] with respect to the energy is positive.
+- [01:27:00,458 - 01:27:01,038] And the energy is negative.
+- [01:27:01,038 - 01:27:02,738] And another region where it's negative.
+- [01:27:03,038 - 01:27:03,598] Incidentally,
+- [01:27:04,658 - 01:27:06,278] we can write that the other way.
+- [01:27:07,198 - 01:27:09,098] The derivative of the energy
+- [01:27:09,738 - 01:27:12,438] with respect to the entropy is negative here,
+- [01:27:12,618 - 01:27:14,018] and it's positive here.
+- [01:27:14,938 - 01:27:16,358] dE by dS
+- [01:27:17,318 - 01:27:18,378] greater than zero.
+- [01:27:19,118 - 01:27:19,678] Now,
+- [01:27:19,678 - 01:27:21,538] remember what the definition of the temperature is.
+- [01:27:22,378 - 01:27:23,538] dE by dS.
+- [01:27:23,898 - 01:27:24,618] All right?
+- [01:27:24,678 - 01:27:25,158] So,
+- [01:27:25,158 - 01:27:26,218] there's a region over here
+- [01:27:27,338 - 01:27:29,598] where the temperature is positive,
+- [01:27:29,678 - 01:27:31,018] and there's a region over here
+- [01:27:31,038 - 01:27:32,278] where the temperature is negative.
+- [01:27:32,758 - 01:27:35,278] It's exactly the same as this,
+- [01:27:35,978 - 01:27:38,138] as making the temperature negative in here.
+- [01:27:38,618 - 01:27:39,938] But there's a region over here
+- [01:27:39,938 - 01:27:41,058] where the entropy increases,
+- [01:27:41,218 - 01:27:42,418] and there's a region over here
+- [01:27:42,418 - 01:27:43,858] where the entropy decreases
+- [01:27:44,418 - 01:27:45,738] as a function of energy.
+- [01:27:45,978 - 01:27:47,518] And those are the
+- [01:27:47,518 - 01:27:49,058] positive and negative temperature branches.
+- [01:27:49,738 - 01:27:50,098] So,
+- [01:27:50,098 - 01:27:51,058] the temperature would go,
+- [01:27:51,198 - 01:27:54,178] the temperature would first start off positive,
+- [01:27:54,298 - 01:27:55,738] go to a plus infinity,
+- [01:27:56,238 - 01:27:57,758] and then go to minus infinity.
+- [01:27:57,798 - 01:27:58,118] That's right.
+- [01:27:58,198 - 01:27:58,878] That's correct.
+- [01:27:59,038 - 01:27:59,358] Okay.
+- [01:28:01,098 - 01:28:01,578] So,
+- [01:28:01,578 - 01:28:02,778] right up on the top here,
+- [01:28:03,918 - 01:28:06,138] that's where the energy is maximum.
+- [01:28:06,858 - 01:28:07,338] Sorry,
+- [01:28:07,338 - 01:28:09,258] that's where the entropy is maximum.
+- [01:28:09,778 - 01:28:12,377] The entropy is maximum at the top here,
+- [01:28:13,978 - 01:28:16,978] and dE by dS is infinite up here.
+- [01:28:17,137 - 01:28:18,678] dE by dS is infinite.
+- [01:28:18,818 - 01:28:19,958] dS by dE is zero,
+- [01:28:20,117 - 01:28:21,658] so dE by dS is infinite.
+- [01:28:22,158 - 01:28:23,517] And right up on the top,
+- [01:28:23,558 - 01:28:24,998] the temperature is infinite up here.
+- [01:28:26,638 - 01:28:27,278] All right.
+- [01:28:27,298 - 01:28:29,118] Another way to say it is,
+- [01:28:29,318 - 01:28:31,018] suppose you go to infinity here,
+- [01:28:31,018 - 01:28:31,298] infinite temperature.
+- [01:28:31,978 - 01:28:35,238] You usually assume that if you go to infinite temperature
+- [01:28:35,238 - 01:28:39,238] that the system has the maximum possible energy.
+- [01:28:40,358 - 01:28:40,998] Right?
+- [01:28:41,158 - 01:28:42,358] But why isn't that true here?
+- [01:28:42,678 - 01:28:43,098] All right.
+- [01:28:43,098 - 01:28:44,058] The reason it's not true
+- [01:28:44,058 - 01:28:46,598] is because really what infinite temperature means
+- [01:28:46,598 - 01:28:48,478] is it's maximum disorder.
+- [01:28:49,758 - 01:28:51,058] Just maximum disorder,
+- [01:28:51,238 - 01:28:53,498] just statistical complete randomness.
+- [01:28:53,818 - 01:28:55,658] What happens to this magnet
+- [01:28:56,738 - 01:28:59,858] when you have complete statistical randomness,
+- [01:28:59,858 - 01:29:01,618] half the magnets are up
+- [01:29:01,618 - 01:29:03,078] and half the magnets are down.
+- [01:29:03,558 - 01:29:05,478] That's not the state of maximum energy.
+- [01:29:05,738 - 01:29:08,178] The state of maximum energy is when they're all up.
+- [01:29:08,318 - 01:29:10,598] The state of minimum energy is when they're all down.
+- [01:29:10,978 - 01:29:12,778] And the state of infinite temperature
+- [01:29:12,778 - 01:29:15,238] where everything is completely disordered
+- [01:29:15,758 - 01:29:17,278] is a state which basically
+- [01:29:17,278 - 01:29:18,798] has half up and half down.
+- [01:29:19,478 - 01:29:22,058] So the infinite temperature is sort of midway
+- [01:29:22,058 - 01:29:24,678] between minimum energy and maximum energy.
+- [01:29:25,438 - 01:29:26,918] To get from here to here,
+- [01:29:27,698 - 01:29:28,678] you have to go through
+- [01:29:28,678 - 01:29:29,738] two temperatures equals infinity.
+- [01:29:29,918 - 01:29:31,278] You don't get the negative temperature
+- [01:29:31,278 - 01:29:32,498] by cooling a system.
+- [01:29:32,938 - 01:29:34,558] You get the negative temperature
+- [01:29:34,558 - 01:29:37,178] by heating it up past temperature infinity.
+- [01:29:38,238 - 01:29:38,818] Okay?
+- [01:29:38,918 - 01:29:41,538] Now what it means for this kind of magnet system
+- [01:29:41,538 - 01:29:45,258] is simply that more than half the spins are up.
+- [01:29:46,538 - 01:29:47,258] All right?
+- [01:29:47,298 - 01:29:50,278] You're beyond the point of complete randomness
+- [01:29:50,278 - 01:29:51,858] where half are up and half are down.
+- [01:29:52,358 - 01:29:54,438] More than half the spins are up.
+- [01:29:55,498 - 01:29:56,078] Okay?
+- [01:29:57,118 - 01:29:57,718] So you have to go through
+- [01:29:57,718 - 01:29:59,078] It's called population inversion
+- [01:30:00,218 - 01:30:04,618] where the higher energy states of the system
+- [01:30:04,618 - 01:30:06,978] or if you have an example,
+- [01:30:07,138 - 01:30:10,338] a real example from the real world
+- [01:30:10,338 - 01:30:13,678] is the population inversion of atoms in a laser.
+- [01:30:13,878 - 01:30:14,578] You have a laser.
+- [01:30:14,718 - 01:30:15,858] You have atoms in the laser.
+- [01:30:16,038 - 01:30:18,118] And each atom has two levels,
+- [01:30:18,478 - 01:30:20,138] an up level and a down level,
+- [01:30:20,298 - 01:30:21,458] a more energetic level
+- [01:30:21,458 - 01:30:22,618] and a less energetic level.
+- [01:30:23,478 - 01:30:25,718] If you start the system cold,
+- [01:30:26,518 - 01:30:28,538] all the atoms will be down.
+- [01:30:28,698 - 01:30:29,738] Or in other words,
+- [01:30:29,758 - 01:30:32,018] all the atoms will be in the lower energy state,
+- [01:30:32,078 - 01:30:32,678] in the ground state.
+- [01:30:32,998 - 01:30:34,258] You start heating it,
+- [01:30:34,338 - 01:30:35,758] a handful of molecules,
+- [01:30:35,938 - 01:30:37,418] a handful of atoms get excited.
+- [01:30:37,738 - 01:30:38,958] You keep heating it.
+- [01:30:39,018 - 01:30:40,178] You keep raising the temperature
+- [01:30:40,178 - 01:30:41,258] and raising the temperature.
+- [01:30:43,978 - 01:30:44,778] Of course,
+- [01:30:44,778 - 01:30:46,438] we're making an approximation now.
+- [01:30:46,558 - 01:30:48,158] The approximation is only that those,
+- [01:30:48,198 - 01:30:49,998] only those two levels are important,
+- [01:30:49,998 - 01:30:51,578] which is a fiction.
+- [01:30:51,838 - 01:30:53,438] But an approximation that only
+- [01:30:53,438 - 01:30:55,038] those two levels are important,
+- [01:30:55,858 - 01:30:57,698] you get to infinite temperature
+- [01:30:57,698 - 01:31:00,338] at the point where there's equal population
+- [01:31:00,338 - 01:31:04,018] of excited atoms and unexcited atoms,
+- [01:31:04,118 - 01:31:05,898] same as this two level system here.
+- [01:31:06,858 - 01:31:08,338] Once you arrange somehow
+- [01:31:08,338 - 01:31:11,178] to get more atoms into the excited state
+- [01:31:11,178 - 01:31:13,278] than into the unexcited state,
+- [01:31:13,458 - 01:31:15,058] that's when the temperature is negative.
+- [01:31:15,758 - 01:31:16,358] Now,
+- [01:31:16,358 - 01:31:16,678] as I said,
+- [01:31:16,678 - 01:31:17,438] it's an approximation.
+- [01:31:17,718 - 01:31:19,978] No real thermodynamic system in truth.
+- [01:31:19,978 - 01:31:21,638] No true equilibrium with its environment
+- [01:31:21,638 - 01:31:23,098] ever has a negative temperature.
+- [01:31:23,718 - 01:31:26,938] But in the approximation that you can isolate the atoms
+- [01:31:26,938 - 01:31:30,298] and pretend that the atoms don't radiate
+- [01:31:30,298 - 01:31:32,338] in the approximation where they don't interact
+- [01:31:32,338 - 01:31:33,298] with anything else,
+- [01:31:33,558 - 01:31:36,978] then once you establish a population inversion,
+- [01:31:37,677 - 01:31:39,958] you say that it's negative temperature.
+- [01:31:40,478 - 01:31:41,638] It's not stable.
+- [01:31:41,798 - 01:31:42,398] What does it do?
+- [01:31:44,498 - 01:31:45,538] It lazes.
+- [01:31:45,998 - 01:31:48,198] It starts radiating and it lazes.
+- [01:31:48,198 - 01:31:49,518] So it's not really stable.
+- [01:31:49,658 - 01:31:50,578] It's far from stable.
+- [01:31:51,058 - 01:31:53,658] But if you could switch off the interaction
+- [01:31:53,658 - 01:31:54,998] with the radiation field,
+- [01:31:55,318 - 01:31:57,938] if you could somehow prevent it from interacting
+- [01:31:57,938 - 01:32:01,558] with the electromagnetic radiation and radiating,
+- [01:32:01,658 - 01:32:03,818] and if you could also prevent atoms
+- [01:32:03,818 - 01:32:05,618] from bumping into each other
+- [01:32:05,618 - 01:32:07,458] and doing all the things that atoms really do do,
+- [01:32:08,118 - 01:32:10,078] then you could talk about the negative temperature.
+- [01:32:13,698 - 01:32:15,898] And that's all that negative temperature means.
+- [01:32:16,098 - 01:32:17,878] It means more of the atoms are excited,
+- [01:32:18,198 - 01:32:18,858] than unexcited.
+- [01:32:19,138 - 01:32:21,398] But a temperature implies equilibrium.
+- [01:32:21,958 - 01:32:22,498] What's that?
+- [01:32:22,718 - 01:32:24,458] A temperature implies that there's equilibrium.
+- [01:32:24,658 - 01:32:24,838] Yeah.
+- [01:32:24,878 - 01:32:26,038] And in this case,
+- [01:32:26,038 - 01:32:28,038] it's really not an equilibrium.
+- [01:32:29,278 - 01:32:30,378] If all down,
+- [01:32:30,378 - 01:32:32,798] that's very much not an equilibrium.
+- [01:32:32,978 - 01:32:34,238] If all the spins are down,
+- [01:32:34,238 - 01:32:36,098] that's an unstable...
+- [01:32:36,098 - 01:32:36,238] No,
+- [01:32:36,238 - 01:32:36,278] no.
+- [01:32:36,338 - 01:32:37,598] If all the spins are down,
+- [01:32:37,598 - 01:32:38,358] it means...
+- [01:32:38,358 - 01:32:38,718] Down,
+- [01:32:38,718 - 01:32:38,918] well,
+- [01:32:38,918 - 01:32:39,298] negative,
+- [01:32:39,298 - 01:32:39,758] whatever.
+- [01:32:40,898 - 01:32:42,238] That's the lower energy state.
+- [01:32:42,358 - 01:32:43,438] The lower or the upper,
+- [01:32:43,438 - 01:32:44,278] but both...
+- [01:32:44,278 - 01:32:45,778] The lower energy state is quite stable.
+- [01:32:45,838 - 01:32:46,738] It's just a ground state.
+- [01:32:48,258 - 01:32:49,258] It's not gonna do anything.
+- [01:32:49,418 - 01:32:50,018] It's stable,
+- [01:32:50,018 - 01:32:50,818] but this distribution
+- [01:32:50,818 - 01:32:52,758] is not in equilibrium.
+- [01:32:53,118 - 01:32:53,318] Well,
+- [01:32:53,318 - 01:32:53,458] yeah,
+- [01:32:53,458 - 01:32:54,238] I see what you're saying.
+- [01:32:54,338 - 01:32:54,758] No,
+- [01:32:54,758 - 01:32:57,638] if you expose the system
+- [01:32:57,638 - 01:32:59,418] and let it interact with a thermal bath,
+- [01:32:59,678 - 01:33:02,098] a conventional thermal bath of positive temperature,
+- [01:33:02,878 - 01:33:05,898] then it'll come to equilibrium eventually with that bath.
+- [01:33:06,058 - 01:33:06,398] For example,
+- [01:33:06,398 - 01:33:07,558] it could be blackbody radiation.
+- [01:33:08,338 - 01:33:10,458] These things will absorb and emit radiation.
+- [01:33:10,778 - 01:33:12,138] Every time they absorb a photon,
+- [01:33:12,138 - 01:33:12,958] they'll jump up.
+- [01:33:13,018 - 01:33:14,258] Every time they emit a photon,
+- [01:33:14,258 - 01:33:15,098] they'll jump down,
+- [01:33:15,218 - 01:33:18,178] and they'll establish some sort of thermal equilibrium.
+- [01:33:18,178 - 01:33:19,758] And if you're in equilibrium with a radiation bath,
+- [01:33:20,078 - 01:33:23,018] the radiation bath certainly is a positive temperature,
+- [01:33:23,298 - 01:33:26,238] and you'll always be on this side of the curve.
+- [01:33:28,218 - 01:33:29,588] The only way to get
+- [01:33:29,588 - 01:33:30,958] on this side of the curve
+- [01:33:30,958 - 01:33:33,338] is to somehow artificially pump the system
+- [01:33:33,338 - 01:33:36,058] into a state of exceptional excitation.
+- [01:33:36,938 - 01:33:38,938] Except it could tunnel through randomly.
+- [01:33:39,198 - 01:33:40,138] Tunnel to a tunnel?
+- [01:33:40,538 - 01:33:41,418] You've got an odd situation where,
+- [01:33:41,518 - 01:33:44,258] for no particular external reason,
+- [01:33:44,338 - 01:33:46,518] all the states are at their upper end.
+- [01:33:48,178 - 01:33:48,918] It could happen.
+- [01:33:48,918 - 01:33:49,578] It's very unlikely.
+- [01:33:50,098 - 01:33:50,798] It could happen.
+- [01:33:50,798 - 01:33:51,718] It could happen accidentally.
+- [01:33:52,138 - 01:33:52,358] Yeah.
+- [01:33:52,358 - 01:33:52,978] Yeah.
+- [01:33:52,978 - 01:33:54,018] Right.
+- [01:33:55,278 - 01:33:56,318] But it'll only stay there.
+- [01:33:56,318 - 01:33:58,158] If it's an interaction with something else,
+- [01:33:58,198 - 01:34:00,038] it'll only stay that way for a very brief time.
+- [01:34:00,118 - 01:34:00,298] Yeah.
+- [01:34:00,298 - 01:34:00,698] It'll stay that way.
+- [01:34:01,238 - 01:34:03,218] So what kind of bothers me about this,
+- [01:34:03,258 - 01:34:04,138] I understand what you're saying,
+- [01:34:04,178 - 01:34:06,678] is that I guess in the kinetic theory of gases,
+- [01:34:06,798 - 01:34:08,318] you always think of temperatures being associated
+- [01:34:08,318 - 01:34:09,738] with the kinetic energy of particles.
+- [01:34:10,438 - 01:34:11,378] That's not a very,
+- [01:34:11,378 - 01:34:12,358] very general idea.
+- [01:34:12,358 - 01:34:12,678] But that's just not true.
+- [01:34:12,938 - 01:34:15,338] Temperature has a much other...
+- [01:34:15,338 - 01:34:15,618] Yeah,
+- [01:34:15,618 - 01:34:16,678] it's a much broader...
+- [01:34:16,678 - 01:34:16,798] Yeah.
+- [01:34:16,798 - 01:34:17,358] I mean,
+- [01:34:17,358 - 01:34:17,638] that's...
+- [01:34:17,638 - 01:34:17,858] Look,
+- [01:34:17,858 - 01:34:20,938] one of the important things
+- [01:34:20,938 - 01:34:22,778] that you should have taken away from this class
+- [01:34:22,778 - 01:34:24,818] is that temperature really isn't just
+- [01:34:24,818 - 01:34:26,138] the kinetic energy of particles.
+- [01:34:26,518 - 01:34:27,878] It's got a statistical,
+- [01:34:27,878 - 01:34:28,358] mechanical,
+- [01:34:29,518 - 01:34:32,358] probabilistic definition in terms of entropy.
+- [01:34:32,678 - 01:34:35,998] And entropy is a statistical idea
+- [01:34:35,998 - 01:34:37,938] or a probabilistic idea of counting
+- [01:34:37,938 - 01:34:39,818] the number of states of a system,
+- [01:34:39,978 - 01:34:41,518] counting probabilities.
+- [01:34:42,358 - 01:34:42,918] So,
+- [01:34:42,918 - 01:34:43,078] no,
+- [01:34:43,078 - 01:34:43,418] I mean,
+- [01:34:43,418 - 01:34:45,398] there's nothing very general
+- [01:34:45,398 - 01:34:46,718] about the idea that temperature
+- [01:34:47,638 - 01:34:49,438] is the kinetic energy of particles.
+- [01:34:50,318 - 01:34:55,318] It happens to be true for a class of conventional,
+- [01:34:55,658 - 01:34:56,598] ordinary,
+- [01:34:56,598 - 01:34:59,598] non-relativistic gases.
+- [01:35:00,138 - 01:35:01,578] It is not true,
+- [01:35:01,578 - 01:35:02,538] for example,
+- [01:35:02,698 - 01:35:05,158] if the particles are moving fast enough
+- [01:35:05,158 - 01:35:08,278] that relativity is important.
+- [01:35:08,878 - 01:35:11,018] And it's certainly not true in general
+- [01:35:11,018 - 01:35:14,978] for gas of photons.
+- [01:35:15,418 - 01:35:17,198] The temperature is not exactly equal
+- [01:35:17,198 - 01:35:20,098] to the kinetic energy.
+- [01:35:20,858 - 01:35:22,558] But they have the same units,
+- [01:35:22,698 - 01:35:23,838] energy and temperature.
+- [01:35:24,378 - 01:35:28,198] So it's not too unusual to expect
+- [01:35:28,198 - 01:35:30,958] that the temperature and the energy
+- [01:35:30,958 - 01:35:32,938] of a particle will be somehow related.
+- [01:35:33,138 - 01:35:34,278] They have the same units,
+- [01:35:35,078 - 01:35:36,218] but the exact equality,
+- [01:35:36,218 - 01:35:37,618] 3 halves kT
+- [01:35:37,618 - 01:35:38,718] or something like that,
+- [01:35:38,718 - 01:35:40,398] is not a general idea.
+- [01:35:47,198 - 01:35:50,018] The very general fact is that the energy
+- [01:35:50,018 - 01:35:53,098] of a system is minus the derivative
+- [01:35:53,098 - 01:35:55,678] of the partition function with respect to beta.
+- [01:35:55,898 - 01:35:56,998] That's the general fact.
+- [01:35:57,897 - 01:35:59,878] In the case of a system of particles,
+- [01:36:00,118 - 01:36:02,518] even if they're interacting with potential energies,
+- [01:36:02,878 - 01:36:05,388] then this often comes out
+- [01:36:05,388 - 01:36:07,898] to just be 3 halves T.
+- [01:36:08,298 - 01:36:11,458] But it's a rather special thing.
+- [01:36:18,278 - 01:36:19,538] And in particular,
+- [01:36:19,538 - 01:36:20,518] the kinetic energy
+- [01:36:20,518 - 01:36:21,998] of particles cannot be negative.
+- [01:36:22,918 - 01:36:23,598] So,
+- [01:36:23,598 - 01:36:24,738] all right.
+- [01:36:27,198 - 01:36:27,878] Okay.
+- [01:36:28,958 - 01:36:31,318] Now I must say that in this idea
+- [01:36:31,318 - 01:36:32,238] of negative temperature,
+- [01:36:32,578 - 01:36:35,118] you're making all sorts of assumptions
+- [01:36:35,118 - 01:36:36,518] about what you can ignore.
+- [01:36:36,918 - 01:36:39,958] The atoms have kinetic energy.
+- [01:36:40,078 - 01:36:41,278] They have vibrational energy
+- [01:36:41,278 - 01:36:42,978] inside a lattice and so forth.
+- [01:36:43,178 - 01:36:46,057] You're assuming that the energy
+- [01:36:46,057 - 01:36:47,178] of the particles,
+- [01:36:47,798 - 01:36:49,118] excitation of the atoms,
+- [01:36:49,718 - 01:36:52,638] cannot be easily transferred back and forth
+- [01:36:52,638 - 01:36:54,118] between the other forms of energy,
+- [01:36:54,317 - 01:36:56,698] that the atomic levels,
+- [01:36:56,797 - 01:36:57,658] the two level systems,
+- [01:36:57,958 - 01:37:00,718] form a closed system which doesn't interact
+- [01:37:00,718 - 01:37:02,958] very readily with the other degrees of freedom.
+- [01:37:04,038 - 01:37:06,238] And that may or may not be true
+- [01:37:06,238 - 01:37:07,178] in a real situation.
+- [01:37:07,458 - 01:37:08,398] If it's true,
+- [01:37:08,398 - 01:37:09,838] it won't be true for very long.
+- [01:37:11,178 - 01:37:13,218] There tend to be unstable systems.
+- [01:37:16,218 - 01:37:16,778] Uh...
+- [01:37:19,198 - 01:37:19,898] Let's see.
+- [01:37:23,898 - 01:37:24,478] Let's see.
+- [01:37:24,498 - 01:37:26,698] If you're in this negative energy region here,
+- [01:37:28,838 - 01:37:31,198] the negative temperature...
+- [01:37:32,318 - 01:37:32,818] No,
+- [01:37:32,818 - 01:37:34,558] I was going to say the specific heat is negative,
+- [01:37:34,638 - 01:37:35,218] but it's not.
+- [01:37:35,558 - 01:37:36,278] It's not.
+- [01:37:36,678 - 01:37:37,338] It's not.
+- [01:37:38,138 - 01:37:40,018] If you have the constraint here
+- [01:37:40,018 - 01:37:43,358] that the ground state is the most probable,
+- [01:37:43,618 - 01:37:45,438] what that does to that distribution
+- [01:37:45,438 - 01:37:47,178] just shifts it closer to the ground state.
+- [01:37:47,178 - 01:37:48,638] It goes to the y-axis.
+- [01:37:48,878 - 01:37:49,398] It's still...
+- [01:37:49,398 - 01:37:49,518] Look,
+- [01:37:49,518 - 01:37:51,678] negative temperature is exactly the situation
+- [01:37:51,678 - 01:37:54,398] where the ground state is not the most likely.
+- [01:37:54,658 - 01:37:54,758] Right.
+- [01:37:55,018 - 01:37:55,418] Right.
+- [01:37:55,858 - 01:37:57,038] But as I said,
+- [01:37:57,038 - 01:37:58,078] in order to create it,
+- [01:37:58,098 - 01:37:59,078] you don't create it
+- [01:37:59,078 - 01:38:04,358] by having a system equilibrate with some heat bath.
+- [01:38:04,978 - 01:38:07,418] All real heat baths have positive temperature.
+- [01:38:08,278 - 01:38:11,138] You create it by pumping some energy
+- [01:38:11,138 - 01:38:14,298] in a very non-equilibrium way into the laser
+- [01:38:15,937 - 01:38:17,837] by special techniques which
+- [01:38:17,837 - 01:38:19,738] are far from equilibrium techniques.
+- [01:38:20,238 - 01:38:22,338] And really all it means
+- [01:38:22,338 - 01:38:24,438] is that more of the atoms
+- [01:38:24,438 - 01:38:26,278] are in the excited state
+- [01:38:26,278 - 01:38:28,118] than are in the unexcited state.
+- [01:38:28,378 - 01:38:29,558] That's all it really means.
+- [01:38:30,158 - 01:38:32,638] Wouldn't that be a good example of
+- [01:38:33,238 - 01:38:35,938] if you had a tool like a generalized temperature
+- [01:38:35,938 - 01:38:38,898] that was a function of the entropy
+- [01:38:38,898 - 01:38:42,478] as well as the energy that would...
+- [01:38:42,478 - 01:38:43,578] In other words,
+- [01:38:43,578 - 01:38:44,478] the temperature,
+- [01:38:45,838 - 01:38:47,998] it's related to the energy
+- [01:38:47,998 - 01:38:50,158] given that it's in thermal equilibrium,
+- [01:38:50,478 - 01:38:53,558] which means the entropy is mass-alized.
+- [01:38:53,798 - 01:38:54,138] Mm-hmm.
+- [01:38:54,158 - 01:38:54,438] Okay.
+- [01:38:55,638 - 01:38:57,098] In this situation,
+- [01:38:57,098 - 01:38:58,698] when you're not at that high point,
+- [01:38:58,858 - 01:39:03,918] the system is not in thermal equilibrium.
+- [01:39:04,478 - 01:39:04,838] Well,
+- [01:39:04,838 - 01:39:06,538] it's technically in thermal equilibrium
+- [01:39:06,538 - 01:39:07,418] when it's over here.
+- [01:39:07,878 - 01:39:09,018] Why would it be that?
+- [01:39:09,238 - 01:39:10,718] Because the entropy is mass-alized.
+- [01:39:11,338 - 01:39:11,878] Yeah.
+- [01:39:12,478 - 01:39:14,838] The entropy is maximized for a given amount of energy,
+- [01:39:15,038 - 01:39:17,318] but now the energy is greater than...
+- [01:39:18,598 - 01:39:20,978] than the energy would be at infinite temperature.
+- [01:39:23,518 - 01:39:24,038] Yeah.
+- [01:39:24,258 - 01:39:25,038] I mean,
+- [01:39:25,038 - 01:39:27,458] it's still governed by the Boltzmann distribution,
+- [01:39:27,858 - 01:39:30,298] but a Boltzmann distribution with a negative temperature.
+- [01:39:31,298 - 01:39:31,818] So,
+- [01:39:31,818 - 01:39:32,558] as I said,
+- [01:39:32,558 - 01:39:33,318] the only obstruction
+- [01:39:33,318 - 01:39:36,638] to writing down mathematically negative temperatures
+- [01:39:37,358 - 01:39:39,318] is that as a general rule,
+- [01:39:39,518 - 01:39:41,338] if you put a negative temperature over here,
+- [01:39:41,338 - 01:39:43,678] the partition function would just be infinite,
+- [01:39:43,898 - 01:39:45,998] just because the series wouldn't converge.
+- [01:39:46,678 - 01:39:47,278] If,
+- [01:39:47,278 - 01:39:48,098] for some reason,
+- [01:39:48,098 - 01:39:50,298] there's an upper bound on the energy,
+- [01:39:50,498 - 01:39:52,818] then negative temperature makes mathematical sense,
+- [01:39:53,438 - 01:39:57,038] but it still may not make the same physical sense
+- [01:39:57,038 - 01:39:58,578] that it would for negative...
+- [01:39:58,578 - 01:39:59,438] for positive temperatures.
+- [01:39:59,858 - 01:40:00,898] It wouldn't be very cold.
+- [01:40:01,318 - 01:40:02,998] It wouldn't be very cold.
+- [01:40:03,078 - 01:40:04,398] It's hotter than infinity.
+- [01:40:05,038 - 01:40:05,638] Right.
+- [01:40:06,018 - 01:40:06,758] You know,
+- [01:40:06,758 - 01:40:07,858] consider a...
+- [01:40:07,858 - 01:40:10,838] consider a following situation where you have a laser gain,
+- [01:40:11,398 - 01:40:12,698] a helium-magnet laser,
+- [01:40:12,798 - 01:40:13,958] and you've got...
+- [01:40:13,958 - 01:40:16,138] maybe you're exciting it optically,
+- [01:40:16,258 - 01:40:18,088] and so you've got a
+- [01:40:18,088 - 01:40:19,918] constant bath of photons coming in
+- [01:40:19,918 - 01:40:21,258] and exciting the states in the...
+- [01:40:21,258 - 01:40:21,818] in the mass.
+- [01:40:22,038 - 01:40:22,218] Right.
+- [01:40:22,338 - 01:40:23,958] A little bit of energy going off the side.
+- [01:40:25,238 - 01:40:26,778] If you were to take that gas
+- [01:40:26,778 - 01:40:28,398] and divide it into smaller volumes,
+- [01:40:29,357 - 01:40:31,338] wouldn't all those volumes have the same statistics?
+- [01:40:31,498 - 01:40:32,098] And in that sense,
+- [01:40:32,158 - 01:40:33,538] wouldn't that be that it's an equilibrium?
+- [01:40:34,658 - 01:40:35,498] Equilibrium with itself,
+- [01:40:35,598 - 01:40:38,198] but not equilibrium with the environment of the laser.
+- [01:40:38,638 - 01:40:39,838] Because we're putting energy in?
+- [01:40:39,958 - 01:40:40,498] Is that the...?
+- [01:40:40,838 - 01:40:41,018] Well,
+- [01:40:41,018 - 01:40:41,258] yeah.
+- [01:40:41,418 - 01:40:41,578] I mean,
+- [01:40:41,578 - 01:40:41,778] we...
+- [01:40:41,778 - 01:40:44,718] My only point is that you couldn't get the system
+- [01:40:44,718 - 01:40:45,798] to be at negative temperature
+- [01:40:45,798 - 01:40:49,378] by placing it in a bathtub of water
+- [01:40:49,378 - 01:40:50,718] at negative temperature.
+- [01:40:51,818 - 01:40:52,798] You wouldn't...
+- [01:40:54,458 - 01:40:57,398] The way that you get systems at negative temperature
+- [01:40:57,398 - 01:40:59,678] is not to let them equilibrate
+- [01:40:59,678 - 01:41:01,298] with systems in thermal equilibrium,
+- [01:41:01,458 - 01:41:03,818] but it's to do something very far from thermal equilibrium.
+- [01:41:06,138 - 01:41:06,998] And then,
+- [01:41:06,998 - 01:41:07,358] yes,
+- [01:41:07,438 - 01:41:08,978] if you manage to get
+- [01:41:08,978 - 01:41:10,518] the system into this population inversion,
+- [01:41:10,518 - 01:41:11,078] configuration,
+- [01:41:12,357 - 01:41:16,298] I presume that the molecules will exchange some energy
+- [01:41:16,298 - 01:41:19,298] and do some things which will get it into...
+- [01:41:19,298 - 01:41:21,138] which will get the pieces of it
+- [01:41:21,138 - 01:41:23,998] into thermal equilibrium at the negative temperature.
+- [01:41:24,278 - 01:41:26,118] But they won't be in thermal equilibrium
+- [01:41:26,118 - 01:41:27,998] with an external heat bath.
+- [01:41:28,318 - 01:41:29,318] That's all I mean.
+- [01:41:29,458 - 01:41:29,558] Yeah.
+- [01:41:30,298 - 01:41:31,638] They may define...
+- [01:41:32,518 - 01:41:36,678] The extent to which they define in any sense,
+- [01:41:36,858 - 01:41:38,098] in any useful sense,
+- [01:41:38,098 - 01:41:41,858] a heat bath at negative temperature.
+- [01:41:42,918 - 01:41:44,398] That's a peculiar question.
+- [01:41:44,598 - 01:41:44,778] I mean,
+- [01:41:44,778 - 01:41:46,718] I'm not sure if you took some...
+- [01:41:48,118 - 01:41:48,678] Maybe.
+- [01:41:48,978 - 01:41:49,718] I have to...
+- [01:41:49,718 - 01:41:51,018] We'd have to invent a case
+- [01:41:51,018 - 01:41:52,318] and see what it would mean.
+- [01:41:52,718 - 01:41:55,598] Can we bring another laser to thermal equilibrium
+- [01:41:55,598 - 01:41:56,658] at negative temperature
+- [01:41:56,658 - 01:41:59,898] by putting it in contact with a laser at negative...?
+- [01:41:59,898 - 01:42:00,498] Maybe.
+- [01:42:00,498 - 01:42:01,178] I'm not sure.
+- [01:42:02,978 - 01:42:04,098] Interesting question.
+- [01:42:06,418 - 01:42:07,378] Or better yet,
+- [01:42:07,418 - 01:42:08,078] can we just put a system in a bathtub
+- [01:42:08,098 - 01:42:08,778] and put a single atom
+- [01:42:09,618 - 01:42:12,238] into thermal equilibrium with the laser
+- [01:42:12,238 - 01:42:13,968] in such a way that that
+- [01:42:13,968 - 01:42:15,698] atom would have a larger probability
+- [01:42:15,698 - 01:42:18,658] of being in its excited state than its ground state?
+- [01:42:18,798 - 01:42:19,318] I think yes.
+- [01:42:19,578 - 01:42:20,418] I think yes,
+- [01:42:20,598 - 01:42:22,018] that you can think of
+- [01:42:22,018 - 01:42:23,438] the laser as a heat bath
+- [01:42:24,118 - 01:42:25,578] at negative temperature.
+- [01:42:26,778 - 01:42:27,638] But that...
+- [01:42:27,638 - 01:42:30,818] Could you pass the infinite temperature
+- [01:42:30,818 - 01:42:34,898] by exposing a set of molecules
+- [01:42:34,898 - 01:42:37,138] in positive temperature
+- [01:42:37,138 - 01:42:40,138] to a larger degree of negative temperature heat bath?
+- [01:42:40,938 - 01:42:41,378] Wait,
+- [01:42:41,378 - 01:42:41,718] say it again?
+- [01:42:42,437 - 01:42:43,318] By equilibrium,
+- [01:42:43,578 - 01:42:44,878] if you had a heat bath
+- [01:42:44,878 - 01:42:47,178] that was way on the far end
+- [01:42:47,178 - 01:42:48,738] of the negative temperature scale
+- [01:42:48,738 - 01:42:52,638] and bringing a few atoms into that heat bath,
+- [01:42:52,858 - 01:42:54,878] would you be able to bypass the limit
+- [01:42:54,878 - 01:42:56,018] of the infinite temperature?
+- [01:42:56,338 - 01:42:56,538] Yeah,
+- [01:42:56,538 - 01:42:56,938] I think so.
+- [01:42:57,238 - 01:42:58,038] I think so.
+- [01:42:58,578 - 01:42:59,018] Yeah,
+- [01:42:59,018 - 01:42:59,938] I think you can...
+- [01:42:59,938 - 01:43:01,418] You could take those extra few atoms
+- [01:43:01,418 - 01:43:03,078] and think of them as being in a heat bath
+- [01:43:03,078 - 01:43:05,078] in a negative temperature environment.
+- [01:43:05,298 - 01:43:05,978] I think that's right.
+- [01:43:05,978 - 01:43:06,138] Right.
+- [01:43:09,878 - 01:43:10,478] No,
+- [01:43:10,478 - 01:43:12,558] my only point was that you can't...
+- [01:43:12,558 - 01:43:14,978] that there's no way to make the laser laze
+- [01:43:14,978 - 01:43:18,118] by putting it into some ordinary substance
+- [01:43:18,118 - 01:43:19,178] at negative temperature.
+- [01:43:19,718 - 01:43:20,218] Won't work.
+- [01:43:24,698 - 01:43:24,998] Okay.
+- [01:43:28,658 - 01:43:29,738] Have a good summer.
+- [01:43:30,138 - 01:43:30,458] Okay.
+- [01:43:33,758 - 01:43:34,658] For more,
+- [01:43:34,878 - 01:43:35,818] please visit us
+- [01:43:35,978 - 01:43:37,138] at stanford.edu.
