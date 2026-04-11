@@ -1,0 +1,2475 @@
+# Transcript
+
+Source: core/statistical_mechanics/2013_spring_modern_physics/068 - Lecture 4 ｜ Modern Physics： Statistical Mechanics [jny9W7NtlK4].mkv
+
+- [00:00:05,280 - 00:00:06,160] Stanford University
+- [00:00:08,920 - 00:00:11,120] We did not talk about Helmholtz free energy,
+- [00:00:11,120 - 00:00:11,560] did we?
+- [00:00:12,700 - 00:00:13,440] We did?
+- [00:00:18,420 - 00:00:20,540] What did I say about Helmholtz free energy?
+- [00:00:21,760 - 00:00:22,620] Just the definition,
+- [00:00:22,620 - 00:00:25,200] that it's related to the logarithm of the partition?
+- [00:00:25,200 - 00:00:25,640] That's all?
+- [00:00:25,640 - 00:00:26,380] Yeah.
+- [00:00:26,580 - 00:00:27,020] Okay,
+- [00:00:27,020 - 00:00:27,420] good.
+- [00:00:27,520 - 00:00:28,980] I believe the last time was next time,
+- [00:00:28,980 - 00:00:30,500] ideal gas.
+- [00:00:31,400 - 00:00:31,880] Oh,
+- [00:00:31,880 - 00:00:33,360] we never got to the ideal gas at all?
+- [00:00:33,560 - 00:00:33,740] No,
+- [00:00:33,740 - 00:00:34,100] we didn't.
+- [00:00:34,180 - 00:00:36,080] My problem is I'm teaching this
+- [00:00:36,080 - 00:00:37,980] course both in graduate school and here,
+- [00:00:37,980 - 00:00:39,080] and I'm completely far.
+- [00:00:39,480 - 00:00:43,680] Did we prove the following identity?
+- [00:00:47,200 - 00:00:49,760] You were going to do yt equal one over theta.
+- [00:00:50,340 - 00:00:51,380] We didn't do that either?
+- [00:00:51,620 - 00:00:51,980] That's right.
+- [00:00:52,020 - 00:00:52,320] Okay.
+- [00:00:55,640 - 00:00:56,780] Let's assume that for now.
+- [00:01:05,019 - 00:01:05,459] Oh,
+- [00:01:05,459 - 00:01:06,720] I thought we had done the ideal gas.
+- [00:01:07,460 - 00:01:07,900] Okay,
+- [00:01:07,900 - 00:01:09,360] before we do the ideal gas,
+- [00:01:09,360 - 00:01:13,410] I want to get to the
+- [00:01:13,410 - 00:01:17,460] ideas of volume and free energy.
+- [00:01:17,560 - 00:01:18,100] We'll need it.
+- [00:01:19,140 - 00:01:19,580] So,
+- [00:01:19,580 - 00:01:21,200] let's define a concept.
+- [00:01:21,460 - 00:01:23,120] I think I told you last time
+- [00:01:23,120 - 00:01:24,780] that the logarithm of the partition function
+- [00:01:26,320 - 00:01:27,800] or is there a minus sign?
+- [00:01:27,960 - 00:01:28,860] I think there's a minus sign.
+- [00:01:29,300 - 00:01:31,870] T times the logarithm of the partition
+- [00:01:31,870 - 00:01:34,440] function is called the Helmholtz free energy,
+- [00:01:34,440 - 00:01:34,760] A.
+- [00:01:35,580 - 00:01:36,000] Okay.
+- [00:01:36,300 - 00:01:39,400] The Helmholtz free energy has an important meaning,
+- [00:01:39,400 - 00:01:45,040] but before we get into its important usefulness,
+- [00:01:45,180 - 00:01:46,660] before we get into it,
+- [00:01:46,660 - 00:01:48,620] did we count,
+- [00:01:48,620 - 00:01:50,320] did we prove,
+- [00:01:50,320 - 00:01:50,780] all right,
+- [00:01:50,780 - 00:01:51,920] you're going to have to help me out.
+- [00:01:52,320 - 00:01:53,020] Did we?
+- [00:01:54,520 - 00:01:56,640] Did we prove the relationship between energy,
+- [00:01:56,640 - 00:01:58,500] free energy and entropy?
+- [00:01:58,900 - 00:01:59,180] We did.
+- [00:01:59,340 - 00:01:59,800] We did.
+- [00:02:00,080 - 00:02:00,480] Oh,
+- [00:02:00,480 - 00:02:00,700] good.
+- [00:02:00,780 - 00:02:00,940] So,
+- [00:02:00,940 - 00:02:01,660] we don't have to do that.
+- [00:02:03,120 - 00:02:03,580] Okay.
+- [00:02:06,300 - 00:02:07,140] In particular,
+- [00:02:07,140 - 00:02:12,050] temperature times entropy minus the energy
+- [00:02:12,050 - 00:02:16,960] is equal to the free energy?
+- [00:02:17,240 - 00:02:17,680] Yes.
+- [00:02:17,760 - 00:02:18,220] Okay.
+- [00:02:18,320 - 00:02:18,700] We did that.
+- [00:02:18,780 - 00:02:18,940] Good.
+- [00:02:18,940 - 00:02:21,220] I'm all bollocked up because of
+- [00:02:21,220 - 00:02:23,500] my confusions about what I'm teaching where.
+- [00:02:24,440 - 00:02:24,920] Okay.
+- [00:02:25,020 - 00:02:25,200] So,
+- [00:02:25,200 - 00:02:26,220] we don't have to do that.
+- [00:02:28,460 - 00:02:30,860] Did we talk about control parameters at all?
+- [00:02:32,620 - 00:02:33,760] We did fluctuations.
+- [00:02:34,280 - 00:02:34,760] Oh,
+- [00:02:34,760 - 00:02:35,380] we did fluctuations,
+- [00:02:35,380 - 00:02:37,120] but we did not do control.
+- [00:02:37,280 - 00:02:39,940] We did fluctuations in ideal gas.
+- [00:02:40,400 - 00:02:40,880] Okay.
+- [00:02:41,000 - 00:02:42,580] Before we do the ideal gas,
+- [00:02:42,580 - 00:02:44,820] I would like to introduce
+- [00:02:44,820 - 00:02:47,060] the concept of pressure and how
+- [00:02:47,060 - 00:02:48,920] you calculate the pressure in a system.
+- [00:02:48,920 - 00:02:52,800] This is still more theory and less application,
+- [00:02:52,800 - 00:02:53,720] but still,
+- [00:02:53,720 - 00:02:55,120] if we want to do the ideal gas,
+- [00:02:55,380 - 00:02:57,320] I think we'd better know what pressure is.
+- [00:02:57,880 - 00:02:58,440] Okay.
+- [00:03:01,620 - 00:03:04,080] The definition of pressure is,
+- [00:03:04,080 - 00:03:04,480] of course,
+- [00:03:04,480 - 00:03:06,480] through the definition of force on the walls.
+- [00:03:06,920 - 00:03:08,720] We could imagine,
+- [00:03:08,720 - 00:03:10,620] if you like,
+- [00:03:10,620 - 00:03:14,480] a cylinder with a piston,
+- [00:03:14,480 - 00:03:18,700] and we could measure the force
+- [00:03:18,920 - 00:03:21,280] on this piston due to the
+- [00:03:21,280 - 00:03:23,640] collisions of the molecules with the piston,
+- [00:03:23,640 - 00:03:27,100] and that would
+- [00:03:27,100 - 00:03:27,880] define the pressure.
+- [00:03:28,060 - 00:03:30,470] The pressure is the force divided
+- [00:03:30,470 - 00:03:32,880] by the area of the piston,
+- [00:03:32,880 - 00:03:34,900] force divided by area.
+- [00:03:35,280 - 00:03:37,380] I don't even think I'll bother writing that down.
+- [00:03:37,460 - 00:03:38,020] We all know that.
+- [00:03:39,160 - 00:03:40,240] So the question is,
+- [00:03:40,240 - 00:03:42,800] how do we calculate the force on a system?
+- [00:03:44,260 - 00:03:44,780] Well,
+- [00:03:44,780 - 00:03:47,940] we could try to calculate the collision with the molecules.
+- [00:03:47,940 - 00:03:49,940] Every time a molecule bounces off,
+- [00:03:49,940 - 00:03:52,420] it makes a sudden force on here,
+- [00:03:52,420 - 00:03:54,640] an impulsive sudden
+- [00:03:54,640 - 00:03:55,040] force.
+- [00:03:55,700 - 00:03:59,300] We could average the force over enough time
+- [00:03:59,300 - 00:04:02,900] so that the actual force is a very,
+- [00:04:02,900 - 00:04:03,540] very wiggly
+- [00:04:03,540 - 00:04:05,460] function that jumps around a lot.
+- [00:04:05,640 - 00:04:07,550] We could average it over time
+- [00:04:07,550 - 00:04:09,460] and define a pressure in that way.
+- [00:04:09,640 - 00:04:11,940] That is not a particularly
+- [00:04:11,940 - 00:04:14,240] convenient way to define pressure,
+- [00:04:14,240 - 00:04:15,260] nor is it a very general
+- [00:04:15,260 - 00:04:15,580] way.
+- [00:04:20,140 - 00:04:20,779] So,
+- [00:04:20,779 - 00:04:22,879] molecules hitting walls are not the
+- [00:04:22,879 - 00:04:24,980] only way that you can get pressure.
+- [00:04:25,520 - 00:04:26,440] Another way,
+- [00:04:26,440 - 00:04:27,000] for example,
+- [00:04:27,000 - 00:04:30,180] you could get pressure is there might be direct forces,
+- [00:04:30,180 - 00:04:32,200] not just
+- [00:04:32,200 - 00:04:33,320] collisional forces,
+- [00:04:33,320 - 00:04:38,660] not just contact forces of the molecules with the walls,
+- [00:04:38,660 - 00:04:39,620] but there
+- [00:04:39,620 - 00:04:40,960] might be a potential energy,
+- [00:04:40,960 - 00:04:42,900] a long-range force of some kind,
+- [00:04:42,900 - 00:04:44,080] maybe not long-range,
+- [00:04:44,660 - 00:04:47,520] but semi-long-range force.
+- [00:04:47,940 - 00:04:48,120] So,
+- [00:04:48,120 - 00:04:49,100] you could get a lot of
+- [00:04:49,100 - 00:04:50,080] energy between the molecules and the piston,
+- [00:04:50,080 - 00:04:51,060] and they might
+- [00:04:51,060 - 00:04:52,400] push or pull on the piston.
+- [00:04:52,880 - 00:04:56,160] And that would not have to do with direct collisions.
+- [00:04:56,500 - 00:04:58,620] So we need a more general definition,
+- [00:04:58,620 - 00:05:02,500] both of force in general,
+- [00:05:02,500 - 00:05:04,580] but in particular force
+- [00:05:04,580 - 00:05:07,120] on the piston in this particular setup.
+- [00:05:08,740 - 00:05:09,380] Now,
+- [00:05:09,380 - 00:05:11,250] let me remind you what the
+- [00:05:11,250 - 00:05:13,120] definition of force is in mechanics.
+- [00:05:13,860 - 00:05:17,920] The definition of force in mechanics is the two things.
+- [00:05:17,940 - 00:05:20,690] The definition of force is the change in
+- [00:05:20,690 - 00:05:23,440] the potential energy of a system with respect
+- [00:05:23,440 - 00:05:24,340] to position,
+- [00:05:24,340 - 00:05:27,090] or the change in potential
+- [00:05:27,090 - 00:05:29,840] energy with respect to some coordinate.
+- [00:05:30,580 - 00:05:32,940] Let's write down the formula just to remind you.
+- [00:05:33,120 - 00:05:36,940] The change in the potential energy,
+- [00:05:36,940 - 00:05:38,240] let's write potential energy,
+- [00:05:38,240 - 00:05:39,120] let me call it U,
+- [00:05:39,920 - 00:05:46,820] with respect to a coordinate actually is minus the force.
+- [00:05:48,160 - 00:05:48,920] Okay.
+- [00:05:49,540 - 00:05:50,300] Now,
+- [00:05:50,300 - 00:05:55,110] that suggests that we define the pressure
+- [00:05:55,110 - 00:05:59,920] or the force on the cylinder here,
+- [00:05:59,920 - 00:06:00,760] on the
+- [00:06:00,760 - 00:06:01,060] piston,
+- [00:06:01,060 - 00:06:06,000] as the change in energy of the
+- [00:06:06,000 - 00:06:10,940] system with respect to motion of the piston.
+- [00:06:11,820 - 00:06:15,980] We can either think of the change...
+- [00:06:15,980 - 00:06:16,100] Yeah.
+- [00:06:16,100 - 00:06:17,800] That's a good way to think about it.
+- [00:06:18,160 - 00:06:20,700] The change in the energy of the system,
+- [00:06:20,700 - 00:06:24,500] how much does the energy of the system change
+- [00:06:24,920 - 00:06:26,580] when we move the piston a little bit?
+- [00:06:27,400 - 00:06:32,530] Another way to think about it is the
+- [00:06:32,530 - 00:06:37,660] work done on the piston per unit position change.
+- [00:06:38,240 - 00:06:39,340] The work done.
+- [00:06:39,660 - 00:06:42,200] So if we can calculate the change in energy,
+- [00:06:42,200 - 00:06:43,140] now what will that be?
+- [00:06:43,440 - 00:06:45,760] That will be the change in energy minus.
+- [00:06:45,760 - 00:06:48,100] The change in energy of the gas
+- [00:06:48,100 - 00:06:50,440] in here as we change the volume.
+- [00:06:50,860 - 00:06:53,680] We change the volume a little bit,
+- [00:06:53,680 - 00:06:58,160] the energy in there will change,
+- [00:06:58,160 - 00:07:00,960] and that is the work
+- [00:07:00,960 - 00:07:02,200] done on the piston.
+- [00:07:02,440 - 00:07:04,590] It's also minus the work done
+- [00:07:04,590 - 00:07:06,740] by the piston on the gas.
+- [00:07:07,040 - 00:07:09,620] Energy conservation tells us that the work done
+- [00:07:09,620 - 00:07:12,200] on the piston by the gas is the same
+- [00:07:12,200 - 00:07:13,320] as the work done on the...
+- [00:07:13,320 - 00:07:13,600] Oh,
+- [00:07:13,600 - 00:07:14,420] the minus sign.
+- [00:07:14,680 - 00:07:15,740] The work done on the piston by the gas.
+- [00:07:15,740 - 00:07:16,510] We'll have a little definition of the
+- [00:07:16,510 - 00:07:17,280] work done by the gas on the piston.
+- [00:07:18,000 - 00:07:18,600] So...
+- [00:07:18,600 - 00:07:21,660] And we'll focus on the work
+- [00:07:21,660 - 00:07:24,720] done by the piston on the gas.
+- [00:07:25,220 - 00:07:28,320] So we could imagine squeezing the gas a little bit,
+- [00:07:28,320 - 00:07:32,900] changing the volume,
+- [00:07:32,900 - 00:07:34,180] or changing the
+- [00:07:34,180 - 00:07:35,240] coordinate of the piston,
+- [00:07:35,240 - 00:07:38,720] and the work done on the gas,
+- [00:07:38,720 - 00:07:40,840] or the change in energy of the
+- [00:07:40,840 - 00:07:43,280] gas with respect to a small motion
+- [00:07:43,280 - 00:07:45,720] of the piston is a force of gravity.
+- [00:07:45,740 - 00:07:47,760] course called the force on the piston.
+- [00:07:47,760 - 00:07:49,500] Is that clear?
+- [00:07:49,500 - 00:07:50,800] Alright,
+- [00:07:50,800 - 00:07:51,620] so that's a
+- [00:07:51,620 - 00:07:52,220] definition.
+- [00:07:52,220 - 00:07:54,640] The change in energy,
+- [00:07:54,640 - 00:07:59,640] called delta E divided by delta X,
+- [00:07:59,640 - 00:08:00,600] where X could
+- [00:08:00,600 - 00:08:05,980] be the position of the piston,
+- [00:08:05,980 - 00:08:07,620] X.
+- [00:08:07,620 - 00:08:10,720] That's the force on the piston.
+- [00:08:10,720 - 00:08:12,920] It's
+- [00:08:12,920 - 00:08:16,960] important in this context that we move the piston slowly.
+- [00:08:16,960 - 00:08:18,600] Why?
+- [00:08:18,600 - 00:08:19,520] Let me give you a
+- [00:08:19,520 - 00:08:20,300] crazy example.
+- [00:08:20,300 - 00:08:22,420] Supposing,
+- [00:08:22,420 - 00:08:23,940] let's move the piston outward.
+- [00:08:24,360 - 00:08:24,640] Okay?
+- [00:08:24,640 - 00:08:28,100] The formula is still true,
+- [00:08:28,100 - 00:08:31,460] the change in energy of the gas with respect
+- [00:08:31,460 - 00:08:33,080] to the location of the
+- [00:08:33,080 - 00:08:34,700] piston is related to the force.
+- [00:08:34,700 - 00:08:36,840] Supposing we change
+- [00:08:37,240 - 00:08:39,539] the position of the piston really fast.
+- [00:08:39,539 - 00:08:41,600] So fast
+- [00:08:41,600 - 00:08:42,700] that
+- [00:08:42,700 - 00:08:42,900] the
+- [00:08:42,900 - 00:08:44,790] we were moving the piston faster
+- [00:08:44,790 - 00:08:46,680] than the velocity of the molecules.
+- [00:08:47,740 - 00:08:50,250] What would be the force on the piston
+- [00:08:50,250 - 00:08:52,760] when it receded very quickly away from the molecules?
+- [00:08:53,959 - 00:08:54,560] Zero.
+- [00:08:54,560 - 00:08:55,680] Why?
+- [00:08:55,680 - 00:08:58,000] Because no molecule would bang into the
+- [00:08:58,000 - 00:09:00,320] piston and so there would be no force.
+- [00:09:00,460 - 00:09:03,620] So it's important that we move the piston slowly.
+- [00:09:04,440 - 00:09:07,440] Slowly so that some average of
+- [00:09:07,440 - 00:09:10,440] the collisions can be averaged over.
+- [00:09:11,000 - 00:09:13,000] So we move the piston slowly,
+- [00:09:13,000 - 00:09:15,180] adiabatically is the word,
+- [00:09:15,180 - 00:09:17,280] we move the piston adiabatically,
+- [00:09:18,220 - 00:09:19,880] and we calculate the change
+- [00:09:19,880 - 00:09:21,540] in energy with respect to position.
+- [00:09:21,980 - 00:09:24,140] Now if we multiply this
+- [00:09:24,140 - 00:09:26,300] by the area of the piston,
+- [00:09:26,300 - 00:09:27,590] I shouldn't call it A because
+- [00:09:27,590 - 00:09:28,880] that's going to be free energy,
+- [00:09:29,100 - 00:09:30,500] let's call it little a,
+- [00:09:30,500 - 00:09:34,620] this becomes the force divided by little a,
+- [00:09:34,620 - 00:09:35,980] the area of the piston,
+- [00:09:36,840 - 00:09:39,300] and what's little a times delta x?
+- [00:09:39,900 - 00:09:40,420] Delta x.
+- [00:09:40,440 - 00:09:42,680] That's the change in volume.
+- [00:09:43,740 - 00:09:46,570] The area of the piston times the change in
+- [00:09:46,570 - 00:09:49,400] position of the piston is the change in volume.
+- [00:09:49,740 - 00:09:56,040] So we could write that the change in energy divided
+- [00:09:56,040 - 00:10:02,340] by the volume is the force divided by the area.
+- [00:10:04,560 - 00:10:06,320] What's the force divided by the area?
+- [00:10:06,320 - 00:10:07,420] The pressure.
+- [00:10:09,460 - 00:10:11,120] Now I have a feeling I have
+- [00:10:11,120 - 00:10:12,780] the sign wrong and I'll tell you why.
+- [00:10:13,280 - 00:10:16,480] It's just a question of keeping clear in your head whether
+- [00:10:16,480 - 00:10:19,680] we're talking about the change in the energy of the gas
+- [00:10:19,680 - 00:10:21,640] or the change in the energy of
+- [00:10:21,640 - 00:10:23,600] the position of the piston when it's pushed.
+- [00:10:23,920 - 00:10:24,560] All right.
+- [00:10:25,360 - 00:10:28,040] If I squeeze the gas,
+- [00:10:28,040 - 00:10:30,590] do I increase or decrease
+- [00:10:30,590 - 00:10:33,140] the energy of the molecules inside?
+- [00:10:33,880 - 00:10:35,020] You increase it.
+- [00:10:35,080 - 00:10:37,400] So just to check which the right sign is.
+- [00:10:37,420 - 00:10:39,210] I'm thinking of E now
+- [00:10:39,210 - 00:10:41,000] as the energy of the gas,
+- [00:10:41,000 - 00:10:42,480] not the energy of the piston.
+- [00:10:42,880 - 00:10:43,620] All right.
+- [00:10:43,760 - 00:10:45,520] If I move the piston inward,
+- [00:10:45,520 - 00:10:47,600] I decrease the volume.
+- [00:10:47,760 - 00:10:48,240] Is that correct?
+- [00:10:49,040 - 00:10:49,760] All right.
+- [00:10:50,040 - 00:10:51,680] But the pressure is positive.
+- [00:10:52,120 - 00:10:52,840] All right.
+- [00:10:53,020 - 00:10:54,400] Delta E is positive.
+- [00:10:54,660 - 00:10:56,080] Delta V is negative.
+- [00:10:56,720 - 00:10:59,420] So delta E divided by delta V would be
+- [00:10:59,420 - 00:11:02,120] negative if I squeeze the gas a little bit,
+- [00:11:02,200 - 00:11:04,780] but that must correspond to positive pressure,
+- [00:11:04,780 - 00:11:07,000] so there must be a minus sign here.
+- [00:11:07,080 - 00:11:07,400] All right.
+- [00:11:07,420 - 00:11:08,200] And there is.
+- [00:11:08,800 - 00:11:09,420] All right.
+- [00:11:09,700 - 00:11:12,040] So the change in energy per
+- [00:11:12,040 - 00:11:14,380] unit volume is minus the pressure.
+- [00:11:16,020 - 00:11:19,480] That minus sign always seems a little peculiar to me,
+- [00:11:19,480 - 00:11:19,900] but it's right.
+- [00:11:20,680 - 00:11:21,560] And as I said,
+- [00:11:21,560 - 00:11:22,640] that's the way to think about it.
+- [00:11:23,100 - 00:11:24,740] Squeezing the gas decreases the
+- [00:11:24,740 - 00:11:26,380] volume but increases the pressure.
+- [00:11:28,520 - 00:11:29,000] Okay.
+- [00:11:29,180 - 00:11:29,660] Now,
+- [00:11:29,660 - 00:11:30,420] again,
+- [00:11:30,420 - 00:11:32,080] we must do it slowly.
+- [00:11:32,580 - 00:11:33,060] Otherwise,
+- [00:11:33,060 - 00:11:35,230] the point is that pressure is
+- [00:11:35,230 - 00:11:37,400] a concept that is a good idea.
+- [00:11:37,400 - 00:11:37,560] Again,
+- [00:11:37,560 - 00:11:39,540] an average concept,
+- [00:11:39,540 - 00:11:41,140] averaged over some time.
+- [00:11:41,460 - 00:11:44,180] So you can't do it instantly fast.
+- [00:11:44,340 - 00:11:45,180] You better do it slowly.
+- [00:11:45,480 - 00:11:46,640] And what's more,
+- [00:11:46,640 - 00:11:49,920] what's also important is that in
+- [00:11:49,920 - 00:11:53,200] this formula that the only changes
+- [00:11:53,200 - 00:11:56,420] in energy are due to the motion of the piston.
+- [00:11:56,600 - 00:11:58,240] I can imagine other changes.
+- [00:11:58,320 - 00:12:01,060] I can imagine that while I
+- [00:12:01,060 - 00:12:03,800] move the piston a little bit slowly,
+- [00:12:03,800 - 00:12:06,020] I could heat the gas
+- [00:12:06,020 - 00:12:07,760] by putting a flame under it.
+- [00:12:08,480 - 00:12:09,000] Okay.
+- [00:12:09,900 - 00:12:10,500] Let's see.
+- [00:12:10,580 - 00:12:10,740] What?
+- [00:12:10,780 - 00:12:11,520] Or cool it.
+- [00:12:11,620 - 00:12:12,980] Or take energy out of it.
+- [00:12:13,740 - 00:12:15,780] Then this formula would not be right.
+- [00:12:16,040 - 00:12:17,100] For example,
+- [00:12:17,100 - 00:12:23,160] I could squeeze the gas a little bit,
+- [00:12:23,160 - 00:12:25,460] which would tend to increase the energy,
+- [00:12:25,660 - 00:12:29,120] but at the same time remove heat from the gas,
+- [00:12:29,120 - 00:12:30,620] all right,
+- [00:12:30,620 - 00:12:32,320] by connecting it to a refrigerator.
+- [00:12:32,740 - 00:12:33,340] All right.
+- [00:12:33,420 - 00:12:35,800] I could decrease the energy.
+- [00:12:36,020 - 00:12:38,180] By removing heat,
+- [00:12:38,180 - 00:12:40,760] but squeeze the gas,
+- [00:12:40,760 - 00:12:42,780] which would tend to increase the energy.
+- [00:12:42,900 - 00:12:43,960] The net effect being,
+- [00:12:43,960 - 00:12:45,700] if I tuned it correctly,
+- [00:12:45,700 - 00:12:47,900] to not change the energy at all.
+- [00:12:48,520 - 00:12:50,630] Then I would have a change
+- [00:12:50,630 - 00:12:52,740] in energy and a change in volume,
+- [00:12:52,740 - 00:12:59,240] but it wouldn't give me
+- [00:12:59,240 - 00:13:00,380] the right answer for the pressure.
+- [00:13:02,640 - 00:13:03,420] In fact,
+- [00:13:03,420 - 00:13:06,000] it wouldn't necessarily need any pressure.
+- [00:13:06,020 - 00:13:07,040] To do that.
+- [00:13:07,400 - 00:13:08,000] Okay.
+- [00:13:08,120 - 00:13:09,700] You just change the volume,
+- [00:13:09,700 - 00:13:11,280] remove heat.
+- [00:13:11,480 - 00:13:13,320] You don't need any pressure to do that.
+- [00:13:13,480 - 00:13:14,120] In fact,
+- [00:13:14,120 - 00:13:14,900] if you remove heat,
+- [00:13:14,900 - 00:13:17,100] the volume will naturally change by itself.
+- [00:13:17,380 - 00:13:20,870] So it's important also that you not have
+- [00:13:20,870 - 00:13:24,360] any other sources of energy coming into and
+- [00:13:24,360 - 00:13:27,170] out of the system other than
+- [00:13:27,170 - 00:13:29,980] the work done by moving the piston.
+- [00:13:30,820 - 00:13:31,420] Okay.
+- [00:13:32,340 - 00:13:32,940] Okay.
+- [00:13:33,040 - 00:13:34,960] No heat allowed in and out.
+- [00:13:36,199 - 00:13:37,740] You move the piston slowly.
+- [00:13:38,160 - 00:13:39,640] What is such a process called?
+- [00:13:40,600 - 00:13:41,040] Adiabatic.
+- [00:13:41,220 - 00:13:41,660] Adiabatic.
+- [00:13:44,000 - 00:13:45,940] Could you also just say that,
+- [00:13:45,940 - 00:13:46,140] well,
+- [00:13:46,140 - 00:13:48,200] there's a pressure term and then there's another term?
+- [00:13:49,580 - 00:13:50,020] Sure.
+- [00:13:50,100 - 00:13:50,600] We'll do that.
+- [00:13:50,940 - 00:13:53,500] But we want to first define pressure.
+- [00:13:53,640 - 00:13:54,890] Before we write that there's
+- [00:13:54,890 - 00:13:56,140] a pressure term and another term,
+- [00:13:56,140 - 00:13:57,060] we've got to define pressure.
+- [00:13:57,840 - 00:13:58,280] Okay.
+- [00:13:58,700 - 00:13:59,140] Now,
+- [00:13:59,140 - 00:14:02,820] adiabatic also means a constant entropy.
+- [00:14:03,000 - 00:14:04,180] Have we discussed that or not?
+- [00:14:04,240 - 00:14:04,700] I don't remember.
+- [00:14:04,960 - 00:14:06,280] We haven't.
+- [00:14:06,280 - 00:14:06,440] All right.
+- [00:14:06,440 - 00:14:10,080] So let me explain to you why an adiabatic process,
+- [00:14:10,080 - 00:14:13,360] that means one done slowly,
+- [00:14:13,360 - 00:14:15,120] why that
+- [00:14:15,120 - 00:14:19,100] is a process at constant entropy.
+- [00:14:20,680 - 00:14:25,080] This really ultimately comes from quantum mechanics.
+- [00:14:25,280 - 00:14:27,260] It can be phrased in terms of classical mechanics,
+- [00:14:27,260 - 00:14:30,300] but it's easier to phrase it in terms of,
+- [00:14:30,960 - 00:14:31,440] well,
+- [00:14:31,440 - 00:14:32,880] we don't even need quantum mechanics.
+- [00:14:33,040 - 00:14:33,900] We don't need quantum mechanics.
+- [00:14:33,900 - 00:14:37,100] All we need is the idea that there are
+- [00:14:37,100 - 00:14:40,300] energy levels and that the energy levels are discrete.
+- [00:14:44,780 - 00:14:45,420] Now,
+- [00:14:45,420 - 00:14:47,560] this is the energy levels of a system,
+- [00:14:47,560 - 00:14:54,800] but let's plot horizontally the volume of
+- [00:14:54,800 - 00:14:55,260] the system.
+- [00:14:56,360 - 00:14:57,000] So,
+- [00:14:57,000 - 00:14:57,500] here we are.
+- [00:14:58,240 - 00:14:59,340] There's a system.
+- [00:14:59,400 - 00:15:01,400] It has a collection of possible energies.
+- [00:15:02,319 - 00:15:04,069] The energies just being the sums of
+- [00:15:04,069 - 00:15:05,820] the energies of all the particles in there.
+- [00:15:06,420 - 00:15:08,160] If we were doing quantum mechanics,
+- [00:15:08,160 - 00:15:10,300] the energies would be discrete.
+- [00:15:11,340 - 00:15:13,320] If we're not doing quantum mechanics,
+- [00:15:13,320 - 00:15:16,420] then we have to be a little more careful,
+- [00:15:16,420 - 00:15:16,920] but in
+- [00:15:16,920 - 00:15:17,760] quantum mechanics,
+- [00:15:17,760 - 00:15:19,860] we have discrete energy levels and
+- [00:15:19,860 - 00:15:21,960] we can label the i-th energy level.
+- [00:15:23,500 - 00:15:23,980] Horizontally,
+- [00:15:23,980 - 00:15:25,500] we have the volume of the system.
+- [00:15:25,980 - 00:15:28,060] The energy levels are not independent
+- [00:15:28,060 - 00:15:30,140] of the volume of the system.
+- [00:15:31,040 - 00:15:34,140] If we change the system by changing the volume,
+- [00:15:34,140 - 00:15:36,500] the energy levels will change.
+- [00:15:37,100 - 00:15:38,080] For example,
+- [00:15:38,080 - 00:15:41,060] if you slowly change the volume of the system,
+- [00:15:41,060 - 00:15:44,060] then the values of,
+- [00:15:44,060 - 00:15:44,300] I don't
+- [00:15:44,300 - 00:15:45,560] mean the energy itself,
+- [00:15:45,560 - 00:15:47,030] I mean the values of
+- [00:15:47,030 - 00:15:48,500] the possible values of the energy,
+- [00:15:48,500 - 00:15:49,340] the
+- [00:15:49,340 - 00:15:50,940] energy levels of the system,
+- [00:15:50,940 - 00:15:52,560] the possible values of the energy,
+- [00:15:52,560 - 00:15:54,260] they will also change.
+- [00:15:55,740 - 00:15:56,740] For example,
+- [00:15:56,740 - 00:15:59,040] if you have a box of a certain size,
+- [00:15:59,040 - 00:16:00,120] if the size of the box is a certain
+- [00:16:00,140 - 00:16:00,340] size,
+- [00:16:00,340 - 00:16:01,100] if the size is very small,
+- [00:16:01,100 - 00:16:03,980] the energy levels are very,
+- [00:16:03,980 - 00:16:05,200] very well separated.
+- [00:16:05,900 - 00:16:07,600] This is a quantum mechanics fact.
+- [00:16:07,860 - 00:16:09,020] A small box,
+- [00:16:09,020 - 00:16:10,950] it takes a lot of energy
+- [00:16:10,950 - 00:16:12,880] to jump to the next level,
+- [00:16:12,880 - 00:16:14,060] the next energy level.
+- [00:16:14,240 - 00:16:15,660] A large box,
+- [00:16:15,660 - 00:16:17,420] it only takes a small energy
+- [00:16:17,420 - 00:16:19,180] to jump to the next energy level.
+- [00:16:19,580 - 00:16:21,960] So as the volume changes,
+- [00:16:21,960 - 00:16:24,460] the energy levels themselves,
+- [00:16:24,460 - 00:16:26,100] the individual values of the
+- [00:16:26,100 - 00:16:27,580] energies of both a single
+- [00:16:27,580 - 00:16:29,060] particle or just a whole system,
+- [00:16:29,060 - 00:16:30,020] they also change.
+- [00:16:30,140 - 00:16:34,300] So let's imagine plotting them as they change.
+- [00:16:36,360 - 00:16:38,520] The energy levels evolve.
+- [00:16:42,140 - 00:16:42,800] Typically,
+- [00:16:42,800 - 00:16:44,100] as you make the system bigger,
+- [00:16:44,100 - 00:16:45,860] the energy levels decrease,
+- [00:16:45,860 - 00:16:47,200] so I've indicated
+- [00:16:47,200 - 00:16:48,700] them by a decreasing function.
+- [00:16:54,300 - 00:16:55,400] And so forth.
+- [00:17:01,800 - 00:17:02,360] No,
+- [00:17:02,360 - 00:17:03,520] not particularly.
+- [00:17:03,760 - 00:17:05,420] No reason for that.
+- [00:17:06,960 - 00:17:09,319] On certain situations it might be,
+- [00:17:09,319 - 00:17:09,980] but in general,
+- [00:17:09,980 - 00:17:11,940] it's typically,
+- [00:17:11,940 - 00:17:12,839] again,
+- [00:17:12,839 - 00:17:13,280] it doesn't
+- [00:17:13,280 - 00:17:16,780] have to be any particular kind of function or volume.
+- [00:17:17,020 - 00:17:20,359] But there are two important properties.
+- [00:17:20,640 - 00:17:22,910] They are connected to the
+- [00:17:22,910 - 00:17:25,180] issue of conservation of information.
+- [00:17:26,480 - 00:17:28,800] You can think of the changing of the volume,
+- [00:17:28,800 - 00:17:30,120] the slow changing of the volume,
+- [00:17:30,120 - 00:17:30,120] as if you
+- [00:17:30,140 - 00:17:30,340] were to change the volume,
+- [00:17:30,340 - 00:17:32,860] as the time evolution of a system.
+- [00:17:33,860 - 00:17:36,390] What do we know about the time evolution
+- [00:17:36,390 - 00:17:38,920] of systems in both classical mechanics and quantum
+- [00:17:38,920 - 00:17:39,360] mechanics?
+- [00:17:39,700 - 00:17:40,760] Number one,
+- [00:17:40,760 - 00:17:41,960] the levels,
+- [00:17:41,960 - 00:17:43,440] no level disappears.
+- [00:17:44,740 - 00:17:47,640] The energy levels just evolve
+- [00:17:47,640 - 00:17:50,540] and they don't disappear or reappear.
+- [00:17:50,720 - 00:17:54,260] No new energy levels appear as you
+- [00:17:54,260 - 00:17:57,800] change the volume or any other control parameter.
+- [00:17:57,800 - 00:17:59,400] A control parameter means the
+- [00:17:59,400 - 00:18:01,000] thing that you can dial slowly.
+- [00:18:01,860 - 00:18:04,400] As you slowly dial a control parameter,
+- [00:18:04,400 - 00:18:07,020] I'll give you other examples of control parameters,
+- [00:18:07,140 - 00:18:08,740] but the volume is the most familiar one,
+- [00:18:08,740 - 00:18:11,280] the energy levels don't disappear,
+- [00:18:11,280 - 00:18:12,160] and number
+- [00:18:12,160 - 00:18:12,440] two,
+- [00:18:12,440 - 00:18:14,160] they don't cross each other.
+- [00:18:14,980 - 00:18:17,000] They don't cross and they don't disappear.
+- [00:18:17,080 - 00:18:18,480] They stay in the same order.
+- [00:18:19,100 - 00:18:21,500] So the lowest energy level stays lowest,
+- [00:18:21,500 - 00:18:23,480] the next one stays second lowest,
+- [00:18:23,480 - 00:18:24,160] and so forth.
+- [00:18:24,640 - 00:18:26,210] That is a property of
+- [00:18:26,210 - 00:18:27,780] both quantum mechanics and quantum mechanics.
+- [00:18:27,780 - 00:18:30,400] And there's an analog of it in classical mechanics.
+- [00:18:31,919 - 00:18:32,600] Now,
+- [00:18:32,600 - 00:18:36,500] supposing we start our system at a given
+- [00:18:36,500 - 00:18:40,400] energy level and we slowly vary the control
+- [00:18:40,400 - 00:18:40,840] parameter.
+- [00:18:41,260 - 00:18:42,060] What happens?
+- [00:18:42,480 - 00:18:44,320] There's a theorem about this,
+- [00:18:44,320 - 00:18:47,580] and the theorem is called the adiabatic theorem.
+- [00:18:47,920 - 00:18:49,380] It's a quantum mechanics theorem.
+- [00:18:49,640 - 00:18:51,260] There's an analog of it,
+- [00:18:51,260 - 00:18:51,740] as I said,
+- [00:18:51,740 - 00:18:52,800] for classical mechanics.
+- [00:18:53,580 - 00:18:55,670] The quantum mechanics theorem says that the
+- [00:18:55,670 - 00:18:57,760] system is a system of quantum mechanics.
+- [00:18:57,780 - 00:18:58,100] The system,
+- [00:18:58,100 - 00:18:59,900] as you change very slowly,
+- [00:18:59,900 - 00:19:01,300] change the control parameter,
+- [00:19:01,300 - 00:19:04,280] the system will remain
+- [00:19:04,280 - 00:19:06,640] in a state of definite energy,
+- [00:19:06,640 - 00:19:09,980] and it will just track along these lines.
+- [00:19:10,600 - 00:19:12,620] So if you start the system over
+- [00:19:12,620 - 00:19:14,640] here with this precise value of the energy,
+- [00:19:14,640 - 00:19:16,160] and if you
+- [00:19:16,160 - 00:19:18,140] know the shape of these curves,
+- [00:19:18,140 - 00:19:20,360] you vary the volume slowly,
+- [00:19:20,360 - 00:19:22,220] you know that you'll wind up
+- [00:19:22,220 - 00:19:22,720] over here,
+- [00:19:22,720 - 00:19:24,000] again,
+- [00:19:24,000 - 00:19:26,120] in a precise energy level.
+- [00:19:28,420 - 00:19:31,220] What happens if we know,
+- [00:19:31,220 - 00:19:32,980] let's suppose our state of
+- [00:19:32,980 - 00:19:34,740] knowledge in the initial state is
+- [00:19:34,740 - 00:19:38,730] such that all we know is that
+- [00:19:38,730 - 00:19:42,720] we start in one of these three levels.
+- [00:19:44,550 - 00:19:45,620] One of these three levels.
+- [00:19:45,680 - 00:19:46,480] That's all we know.
+- [00:19:47,920 - 00:19:48,500] Then,
+- [00:19:48,500 - 00:19:49,580] after a period,
+- [00:19:49,580 - 00:19:51,330] we know that we're still
+- [00:19:51,330 - 00:19:53,080] in one of these three levels.
+- [00:19:54,060 - 00:19:55,060] That's all we know.
+- [00:19:56,420 - 00:19:57,000] Okay?
+- [00:19:59,280 - 00:20:02,350] What happens if we know that the probability
+- [00:20:02,350 - 00:20:05,420] for being in one of these three levels is
+- [00:20:06,540 - 00:20:07,300] one half,
+- [00:20:07,300 - 00:20:08,120] one quarter,
+- [00:20:08,120 - 00:20:08,900] and one quarter?
+- [00:20:10,440 - 00:20:11,160] One half,
+- [00:20:11,160 - 00:20:11,740] one quarter,
+- [00:20:11,740 - 00:20:12,000] and one quarter.
+- [00:20:12,000 - 00:20:12,740] That does sum to one,
+- [00:20:12,740 - 00:20:13,180] doesn't it?
+- [00:20:13,520 - 00:20:13,900] Yeah.
+- [00:20:14,280 - 00:20:15,000] One half,
+- [00:20:15,000 - 00:20:15,540] one quarter,
+- [00:20:15,540 - 00:20:16,180] and one quarter.
+- [00:20:17,300 - 00:20:18,800] What will the probabilities for being
+- [00:20:18,800 - 00:20:20,300] in the different levels over here be?
+- [00:20:21,280 - 00:20:22,000] One half,
+- [00:20:22,000 - 00:20:22,780] one quarter,
+- [00:20:22,780 - 00:20:23,320] one quarter.
+- [00:20:24,800 - 00:20:26,520] What happens to the entropy?
+- [00:20:26,520 - 00:20:28,640] If we start with a given entropy here?
+- [00:20:30,840 - 00:20:32,340] It does not change.
+- [00:20:32,700 - 00:20:33,040] Why?
+- [00:20:33,340 - 00:20:36,260] Because the probability distribution doesn't change.
+- [00:20:36,840 - 00:20:40,620] The probability of being in the ith level doesn't change.
+- [00:20:40,900 - 00:20:44,650] So we can say that P
+- [00:20:44,650 - 00:20:48,400] of I is an adiabatic invariant.
+- [00:20:48,400 - 00:20:49,860] That's the terminology.
+- [00:20:50,260 - 00:20:53,760] An adiabatic invariant means a very slow change.
+- [00:20:54,120 - 00:20:55,310] The probability of being in
+- [00:20:55,310 - 00:20:56,500] the ith state is one half.
+- [00:20:56,520 - 00:20:56,600] Okay.
+- [00:20:56,600 - 00:20:58,960] Even though the energy of the ith state may change,
+- [00:20:58,960 - 00:21:01,660] the energy of each of these states
+- [00:21:01,660 - 00:21:01,980] change,
+- [00:21:01,980 - 00:21:04,520] how can that be consistent with energy conservation?
+- [00:21:06,880 - 00:21:09,340] Because we do some work by changing the parameters.
+- [00:21:09,520 - 00:21:09,980] Exactly.
+- [00:21:10,620 - 00:21:12,680] We do some work by changing the parameters.
+- [00:21:13,280 - 00:21:15,120] So the levels change,
+- [00:21:15,120 - 00:21:17,300] meaning to say the energy levels change,
+- [00:21:17,300 - 00:21:18,500] the energy that they have,
+- [00:21:18,700 - 00:21:20,590] but the probability of being
+- [00:21:20,590 - 00:21:22,480] in the ith level doesn't change,
+- [00:21:22,480 - 00:21:25,760] and that assures that the
+- [00:21:25,760 - 00:21:25,920] entropy,
+- [00:21:25,920 - 00:21:28,030] which is after all just a summation
+- [00:21:28,030 - 00:21:30,140] of P of I log P of I,
+- [00:21:30,140 - 00:21:32,440] you know what I mean,
+- [00:21:32,540 - 00:21:32,980] P of I,
+- [00:21:32,980 - 00:21:35,240] but that doesn't change.
+- [00:21:35,700 - 00:21:39,520] So the entropy is an adiabatic invariant.
+- [00:21:42,540 - 00:21:43,660] Let's come back now.
+- [00:21:43,800 - 00:21:49,820] Now this is really central that energy is an adiabatic,
+- [00:21:49,820 - 00:21:50,080] sorry,
+- [00:21:50,080 - 00:21:51,660] entropy is an adiabatic,
+- [00:21:51,660 - 00:21:53,820] energy is not an adiabatic invariant.
+- [00:21:54,240 - 00:21:55,740] Entropy is an adiabatic invariant.
+- [00:21:55,740 - 00:22:02,620] And the ultimate reason for it is information conservation.
+- [00:22:03,720 - 00:22:04,780] Without it,
+- [00:22:04,780 - 00:22:07,140] we could have energy levels running into
+- [00:22:07,140 - 00:22:09,500] each other and all sorts of funny things
+- [00:22:09,500 - 00:22:09,880] happening,
+- [00:22:09,880 - 00:22:12,590] and the probability distribution would
+- [00:22:12,590 - 00:22:15,300] not be an adiabatic invariant.
+- [00:22:15,760 - 00:22:16,400] Okay,
+- [00:22:16,400 - 00:22:17,460] let's come over to here now.
+- [00:22:17,820 - 00:22:21,220] We said that the pressure was the rate
+- [00:22:21,220 - 00:22:24,620] of change of energy with respect to volume with
+- [00:22:24,620 - 00:22:25,280] a minus sign.
+- [00:22:26,080 - 00:22:28,140] In an adiabatic process.
+- [00:22:29,320 - 00:22:34,580] We now know that that means at fixed entropy,
+- [00:22:34,580 - 00:22:37,100] at fixed entropy,
+- [00:22:37,100 - 00:22:39,520] so the definition of pressure,
+- [00:22:39,740 - 00:22:41,840] let's write it as a calculus equation,
+- [00:22:41,840 - 00:22:45,820] minus the pressure is the derivative of the energy
+- [00:22:46,600 - 00:22:52,340] with respect to the volume keeping fixed the entropy.
+- [00:22:55,740 - 00:22:57,480] Now keeping fixed the,
+- [00:22:57,480 - 00:22:59,380] not keeping fixed the temperature,
+- [00:22:59,380 - 00:23:01,500] certainly not keeping fixed
+- [00:23:01,500 - 00:23:02,020] the energy,
+- [00:23:02,020 - 00:23:03,400] the derivative of the energy with
+- [00:23:03,400 - 00:23:04,780] respect to the energy is what?
+- [00:23:05,240 - 00:23:05,840] One.
+- [00:23:07,260 - 00:23:08,820] It's certainly not the derivative
+- [00:23:08,820 - 00:23:10,380] of energy with respect to energy.
+- [00:23:11,280 - 00:23:11,880] Sorry,
+- [00:23:11,880 - 00:23:12,400] sorry,
+- [00:23:12,400 - 00:23:14,040] I forget what I said.
+- [00:23:14,240 - 00:23:16,960] The derivative of energy with respect to
+- [00:23:16,960 - 00:23:19,680] volume at fixed something defines the pressure.
+- [00:23:19,780 - 00:23:21,300] The something is the entropy.
+- [00:23:22,780 - 00:23:23,380] Okay.
+- [00:23:23,380 - 00:23:26,840] Think of fixed entropy as first of all,
+- [00:23:26,840 - 00:23:27,260] again,
+- [00:23:27,260 - 00:23:31,220] meaning do it slowly so that you have time
+- [00:23:31,220 - 00:23:32,240] for things to average,
+- [00:23:32,240 - 00:23:35,100] but also without adding other forms
+- [00:23:35,100 - 00:23:37,960] of energy to the system that you
+- [00:23:37,960 - 00:23:38,940] haven't accounted for,
+- [00:23:38,940 - 00:23:43,300] then that's not having to do with this pressure,
+- [00:23:43,300 - 00:23:44,560] then this is the
+- [00:23:44,560 - 00:23:45,000] definition,
+- [00:23:45,000 - 00:23:47,340] and that is the definition of pressure.
+- [00:23:49,640 - 00:23:51,400] There's a more general concept,
+- [00:23:51,400 - 00:23:52,800] which I might as well tell you.
+- [00:23:52,800 - 00:23:56,340] There are other kinds of control parameters besides volume.
+- [00:23:57,020 - 00:23:58,420] Let me give you an example.
+- [00:23:58,580 - 00:24:00,220] External magnetic field.
+- [00:24:00,420 - 00:24:00,880] Again,
+- [00:24:00,880 - 00:24:03,610] you could imagine a dial that
+- [00:24:03,610 - 00:24:06,340] ramps up current or external electric field,
+- [00:24:06,340 - 00:24:06,820] which
+- [00:24:07,320 - 00:24:09,640] is a dial that ramps up the
+- [00:24:09,640 - 00:24:11,960] charge and capacitor plates or anything like that.
+- [00:24:12,100 - 00:24:14,240] Those are also control parameters.
+- [00:24:14,780 - 00:24:17,280] And those control parameters also,
+- [00:24:17,280 - 00:24:18,740] when you change them,
+- [00:24:18,740 - 00:24:20,480] do work on a system.
+- [00:24:21,399 - 00:24:23,200] Same kind of formula,
+- [00:24:23,200 - 00:24:25,360] and you could write it more generally.
+- [00:24:28,780 - 00:24:30,500] Instead of volume,
+- [00:24:30,500 - 00:24:34,100] we could introduce a control parameter x.
+- [00:24:36,139 - 00:24:36,820] Volume,
+- [00:24:36,820 - 00:24:38,240] replace it by x,
+- [00:24:38,240 - 00:24:39,060] whatever x is,
+- [00:24:39,060 - 00:24:40,580] magnetic field or anything else.
+- [00:24:41,280 - 00:24:42,680] Instead of pressure,
+- [00:24:42,680 - 00:24:49,920] let's define the variable y that goes with x.
+- [00:24:50,040 - 00:24:50,460] Okay.
+- [00:24:50,480 - 00:24:54,630] The definition of y is simply minus y
+- [00:24:54,630 - 00:24:58,780] is equal to the derivative of energy with respect
+- [00:24:58,780 - 00:24:59,320] to x,
+- [00:24:59,320 - 00:25:00,440] whatever x is,
+- [00:25:00,440 - 00:25:01,780] at constant entropy.
+- [00:25:02,080 - 00:25:03,960] So there are lots of things like this.
+- [00:25:04,080 - 00:25:05,320] The most familiar,
+- [00:25:05,320 - 00:25:06,960] and we'll mostly work with this,
+- [00:25:06,960 - 00:25:10,160] the most familiar being volume and pressure.
+- [00:25:10,660 - 00:25:12,740] These variables come in pairs.
+- [00:25:13,260 - 00:25:14,720] They come in pairs.
+- [00:25:16,439 - 00:25:17,080] y,
+- [00:25:17,080 - 00:25:20,460] which is the general force of the current,
+- [00:25:20,460 - 00:25:20,460] is the force of the current.
+- [00:25:20,460 - 00:25:20,560] The force,
+- [00:25:20,560 - 00:25:20,980] if you like,
+- [00:25:20,980 - 00:25:22,960] the derivative of energy with respect to x,
+- [00:25:22,960 - 00:25:23,500] and x.
+- [00:25:23,760 - 00:25:26,460] They're called conjugate thermodynamic variables.
+- [00:25:26,980 - 00:25:28,240] The most familiar,
+- [00:25:28,240 - 00:25:28,520] again,
+- [00:25:28,520 - 00:25:30,100] pressure and volume.
+- [00:25:32,320 - 00:25:33,380] The question is,
+- [00:25:33,380 - 00:25:35,200] how do we calculate the pressure?
+- [00:25:35,840 - 00:25:36,360] Well,
+- [00:25:36,360 - 00:25:37,280] that's not so hard.
+- [00:25:37,500 - 00:25:41,310] All we have to do is figure out
+- [00:25:41,310 - 00:25:45,120] the energy as a function of the entropy.
+- [00:25:46,680 - 00:25:47,640] And the volume.
+- [00:25:47,640 - 00:25:49,760] And energy as a function of energy,
+- [00:25:49,760 - 00:25:51,220] of volume and entropy.
+- [00:25:51,540 - 00:25:54,300] And then we can differentiate keeping the entropy fixed.
+- [00:25:54,620 - 00:25:56,540] But calculating the entropy of
+- [00:25:56,540 - 00:25:58,460] a general system is usually difficult.
+- [00:25:59,020 - 00:26:00,760] It's usually a pain in the neck,
+- [00:26:00,760 - 00:26:01,160] frankly.
+- [00:26:01,300 - 00:26:02,260] You can do it.
+- [00:26:03,000 - 00:26:06,060] But there's a simpler formula for the pressure.
+- [00:26:06,760 - 00:26:11,140] And the simple formula involves not the rate of
+- [00:26:11,140 - 00:26:15,520] change of energy with respect to volume at fixed entropy,
+- [00:26:16,360 - 00:26:17,600] but something else.
+- [00:26:17,960 - 00:26:23,060] This is also equal to the rate of change
+- [00:26:23,060 - 00:26:28,160] of something else with respect to volume at fixed temperature.
+- [00:26:29,260 - 00:26:30,920] Why is it easier to be
+- [00:26:30,920 - 00:26:32,580] able to deal with fixed temperature?
+- [00:26:33,040 - 00:26:34,850] The reason it's easier to be able
+- [00:26:34,850 - 00:26:36,660] to deal with fixed temperature is very simple.
+- [00:26:36,760 - 00:26:38,440] When you write the partition function,
+- [00:26:38,440 - 00:26:40,660] everything goes back to the partition function.
+- [00:26:41,640 - 00:26:43,740] You calculate the partition function.
+- [00:26:43,920 - 00:26:45,380] It's handed to you.
+- [00:26:45,380 - 00:26:46,740] It's a function of temperature.
+- [00:26:47,560 - 00:26:49,240] That's the natural variable.
+- [00:26:49,700 - 00:26:52,480] That's the variable that the partition function is
+- [00:26:52,480 - 00:26:55,260] directly presented to you as a function of.
+- [00:26:55,460 - 00:26:59,260] And if you can differentiate the appropriate
+- [00:26:59,260 - 00:27:03,060] thing with respect to volume at fixed temperature,
+- [00:27:03,440 - 00:27:05,770] it's usually much easier than
+- [00:27:05,770 - 00:27:08,100] first having to calculate the entropy
+- [00:27:08,100 - 00:27:10,600] and then trying to differentiate
+- [00:27:10,600 - 00:27:13,100] something keeping the entropy fixed.
+- [00:27:13,440 - 00:27:15,160] It's usually much more difficult.
+- [00:27:16,379 - 00:27:17,380] This is easier.
+- [00:27:17,500 - 00:27:18,800] What is the thing that you differentiate?
+- [00:27:22,620 - 00:27:24,060] The Helmholtz free energy.
+- [00:27:26,740 - 00:27:28,240] And the Helmholtz free energy?
+- [00:27:28,780 - 00:27:29,820] That's not so hard.
+- [00:27:29,980 - 00:27:32,480] Once you know the partition function and its logarithm,
+- [00:27:33,180 - 00:27:34,620] you multiply it by the temperature,
+- [00:27:35,139 - 00:27:38,559] and then you differentiate the Helmholtz
+- [00:27:38,559 - 00:27:41,980] free energy with respect to the volume.
+- [00:27:42,580 - 00:27:43,060] Now,
+- [00:27:43,060 - 00:27:44,460] I haven't told you why that's true.
+- [00:27:46,680 - 00:27:47,280] So,
+- [00:27:47,280 - 00:27:49,460] since I don't like leaving loose ends,
+- [00:27:50,420 - 00:27:53,640] we should prove the theorem that says,
+- [00:27:53,940 - 00:27:55,380] let's see what it says.
+- [00:27:59,140 - 00:28:00,620] It's a little mathematics theorem,
+- [00:28:00,620 - 00:28:01,380] not very hard.
+- [00:28:07,720 - 00:28:08,320] Well,
+- [00:28:08,320 - 00:28:10,690] it says that the derivative
+- [00:28:10,690 - 00:28:13,060] of energy with respect to volume
+- [00:28:14,260 - 00:28:17,000] at fixed entropy is the same
+- [00:28:17,000 - 00:28:19,740] as the derivative of the free energy
+- [00:28:20,560 - 00:28:21,000] Sorry,
+- [00:28:21,000 - 00:28:21,740] there should be a minus.
+- [00:28:21,900 - 00:28:22,020] Yeah,
+- [00:28:22,020 - 00:28:22,440] same thing.
+- [00:28:22,440 - 00:28:22,620] No,
+- [00:28:22,620 - 00:28:22,860] sorry.
+- [00:28:22,980 - 00:28:25,680] It's the derivative of the free energy
+- [00:28:25,680 - 00:28:28,380] with respect to the volume at fixed temperature.
+- [00:28:31,480 - 00:28:32,080] All right.
+- [00:28:32,280 - 00:28:33,640] In order to prove this,
+- [00:28:33,640 - 00:28:35,100] we need a little bit of a theorem.
+- [00:28:36,100 - 00:28:37,120] It's a small theorem.
+- [00:28:37,120 - 00:28:38,060] It's a calculus theorem.
+- [00:28:38,140 - 00:28:39,200] It's practically not a theorem.
+- [00:28:39,200 - 00:28:41,200] It's just a simple identity.
+- [00:28:49,060 - 00:28:50,880] And let's see what the theorem is.
+- [00:28:58,080 - 00:29:02,460] Let's plot two independent...
+- [00:29:02,460 - 00:29:02,960] Any questions?
+- [00:29:04,840 - 00:29:05,720] No questions.
+- [00:29:05,720 - 00:29:06,000] All right.
+- [00:29:06,020 - 00:29:06,120] So,
+- [00:29:06,120 - 00:29:09,480] let's plot horizontally the volume...
+- [00:29:12,080 - 00:29:14,280] or it could be any other control parameter.
+- [00:29:14,800 - 00:29:16,300] The theorem I'm going to teach you,
+- [00:29:16,300 - 00:29:17,120] which is in the notes,
+- [00:29:17,700 - 00:29:20,920] you can apply to any control parameter at all.
+- [00:29:21,320 - 00:29:23,740] But let's take the volume as our special case.
+- [00:29:23,980 - 00:29:25,140] And vertically,
+- [00:29:25,140 - 00:29:26,160] let's see,
+- [00:29:26,160 - 00:29:27,340] what did I plot vertically?
+- [00:29:29,180 - 00:29:30,420] I think the temperature.
+- [00:29:31,540 - 00:29:32,020] Yeah,
+- [00:29:32,020 - 00:29:32,460] the temperature.
+- [00:29:36,200 - 00:29:36,680] Now,
+- [00:29:36,680 - 00:29:39,420] let's imagine drawing the line...
+- [00:29:39,480 - 00:29:40,060] Let's see,
+- [00:29:40,060 - 00:29:40,760] we need the lines.
+- [00:29:40,760 - 00:29:41,860] Let me see what lines we need.
+- [00:29:42,440 - 00:29:42,780] Well,
+- [00:29:42,780 - 00:29:44,200] let's first start with a point.
+- [00:29:47,060 - 00:29:47,580] All right.
+- [00:29:47,580 - 00:29:48,020] Now,
+- [00:29:48,020 - 00:29:48,560] this point,
+- [00:29:48,560 - 00:29:49,220] at every point,
+- [00:29:49,380 - 00:29:53,380] is a value of energy and also of entropy.
+- [00:29:54,720 - 00:29:55,400] The temperature,
+- [00:29:55,400 - 00:29:57,280] if you know the temperature and you know the volume,
+- [00:29:57,400 - 00:29:58,840] you know everything about the system,
+- [00:29:59,260 - 00:30:02,140] and you can compute the energy and the entropy.
+- [00:30:03,080 - 00:30:03,540] Let's see.
+- [00:30:03,540 - 00:30:05,390] I want to make sure my diagram
+- [00:30:05,390 - 00:30:07,240] looks consistent with the one in my notes.
+- [00:30:07,740 - 00:30:08,080] So...
+- [00:30:10,179 - 00:30:10,620] Uh...
+- [00:30:19,560 - 00:30:20,000] Yeah.
+- [00:30:21,700 - 00:30:22,340] All right.
+- [00:30:23,640 - 00:30:28,040] We can also draw lines of constant entropy and energy.
+- [00:30:29,020 - 00:30:30,060] What do they look like?
+- [00:30:30,060 - 00:30:30,980] I don't know what they look like,
+- [00:30:31,040 - 00:30:32,840] but let's draw in just some arbitrary lines.
+- [00:30:33,380 - 00:30:35,080] Here's a line of constant energy.
+- [00:30:36,320 - 00:30:38,580] And let's put in a line of constant entropy.
+- [00:30:40,540 - 00:30:41,840] Right through that point.
+- [00:30:42,260 - 00:30:42,920] Okay?
+- [00:30:43,020 - 00:30:45,980] So the entropy along this line is constant,
+- [00:30:46,240 - 00:30:49,300] and the energy along this line is constant.
+- [00:30:49,720 - 00:30:50,900] S equals constant.
+- [00:30:51,900 - 00:30:53,340] S equals constant.
+- [00:30:55,560 - 00:30:57,060] Energy equals constant.
+- [00:30:59,760 - 00:31:00,420] Now,
+- [00:31:00,420 - 00:31:01,420] what do I want to compute?
+- [00:31:01,940 - 00:31:03,820] I want to compute...
+- [00:31:05,080 - 00:31:07,080] the rate of change of energy
+- [00:31:07,620 - 00:31:09,100] with respect to volume
+- [00:31:11,460 - 00:31:12,940] at fixed entropy.
+- [00:31:13,200 - 00:31:14,080] That's the pressure.
+- [00:31:14,080 - 00:31:15,040] That is the pressure.
+- [00:31:15,080 - 00:31:15,840] Minus the pressure.
+- [00:31:16,320 - 00:31:17,040] All right?
+- [00:31:17,040 - 00:31:18,620] But I would like to compute it
+- [00:31:18,620 - 00:31:21,560] in terms of derivatives with respect to temperature.
+- [00:31:21,900 - 00:31:23,820] I want to compute it in a different way.
+- [00:31:24,480 - 00:31:25,200] All right.
+- [00:31:25,200 - 00:31:26,380] So what are we computing here?
+- [00:31:26,880 - 00:31:29,900] Let's take a differential change in volume.
+- [00:31:30,380 - 00:31:32,360] Here's a differential change in volume,
+- [00:31:32,360 - 00:31:33,100] dv.
+- [00:31:34,340 - 00:31:35,820] This is the change in energy
+- [00:31:35,820 - 00:31:37,860] when I change the volume a little bit,
+- [00:31:37,940 - 00:31:40,040] keeping the entropy fixed.
+- [00:31:40,960 - 00:31:43,920] So it's the difference between the entropy at the energy
+- [00:31:43,920 - 00:31:45,840] at this point and this point.
+- [00:31:46,100 - 00:31:46,620] Is that clear?
+- [00:31:46,920 - 00:31:48,100] If that's not clear,
+- [00:31:48,100 - 00:31:49,460] we might as well not go any further.
+- [00:31:49,960 - 00:31:53,340] The rate of change of energy
+- [00:31:54,600 - 00:31:56,660] when we change the volume a little bit
+- [00:31:57,700 - 00:31:59,690] is the difference between the
+- [00:31:59,690 - 00:32:01,680] energy here and the energy here,
+- [00:32:01,740 - 00:32:02,620] divided by dv,
+- [00:32:02,620 - 00:32:03,200] of course.
+- [00:32:03,940 - 00:32:04,980] Divided by dv.
+- [00:32:07,460 - 00:32:09,080] Here's how I'm going to calculate it.
+- [00:32:09,140 - 00:32:11,340] I'm going to calculate the change in the energy
+- [00:32:11,900 - 00:32:13,000] when I go horizontally.
+- [00:32:14,180 - 00:32:15,460] That's at fixed temperature.
+- [00:32:15,900 - 00:32:18,940] And then when I drop down vertically.
+- [00:32:19,880 - 00:32:21,240] So the change in energy
+- [00:32:21,240 - 00:32:22,600] in going from here to here
+- [00:32:22,600 - 00:32:23,680] is the sum of two terms.
+- [00:32:24,180 - 00:32:27,960] The first is the change in energy at fixed temperature.
+- [00:32:29,240 - 00:32:29,800] Okay?
+- [00:32:34,980 - 00:32:35,540] This is the change.
+- [00:32:37,100 - 00:32:38,840] This should be partial derivative.
+- [00:32:39,960 - 00:32:41,840] Partial derivative of energy
+- [00:32:42,879 - 00:32:45,620] with respect to volume
+- [00:32:46,680 - 00:32:48,400] at fixed temperature.
+- [00:32:51,719 - 00:32:53,000] That's this change here.
+- [00:32:54,699 - 00:32:56,380] And then there's the vertical change.
+- [00:32:57,160 - 00:32:57,660] Okay?
+- [00:32:57,800 - 00:32:59,400] What is the vertical change?
+- [00:32:59,960 - 00:33:00,720] Well,
+- [00:33:00,720 - 00:33:04,380] in going from here to here,
+- [00:33:05,140 - 00:33:06,760] the entropy changes.
+- [00:33:09,800 - 00:33:11,300] Why does the entropy change?
+- [00:33:11,420 - 00:33:13,220] Because the entropy is different over here
+- [00:33:13,220 - 00:33:14,400] than it is over here.
+- [00:33:14,480 - 00:33:16,280] The entropy was constant along here.
+- [00:33:16,520 - 00:33:18,140] It has a different value.
+- [00:33:18,320 - 00:33:19,300] Let me use a different color.
+- [00:33:21,060 - 00:33:23,900] The entropy has a different value over here.
+- [00:33:28,740 - 00:33:30,200] And so we can compute
+- [00:33:30,980 - 00:33:33,500] the change in the energy going from here to here
+- [00:33:33,500 - 00:33:34,960] as the change
+- [00:33:39,700 - 00:33:44,040] in the energy with respect to the entropy.
+- [00:33:44,280 - 00:33:46,360] We're changing the entropy a little bit.
+- [00:33:47,600 - 00:33:50,620] Times the change in the entropy
+- [00:33:53,400 - 00:33:55,400] when we go from here to here.
+- [00:33:56,180 - 00:33:59,300] The change in the energy with respect to the entropy
+- [00:33:59,300 - 00:34:01,380] times the change in the entropy
+- [00:34:01,380 - 00:34:03,480] will give us the change in the entropy.
+- [00:34:04,080 - 00:34:05,900] So we have to multiply this
+- [00:34:05,900 - 00:34:07,800] by the change in the entropy
+- [00:34:11,320 - 00:34:13,040] when we change what?
+- [00:34:14,760 - 00:34:17,400] When we go from this curve to this curve.
+- [00:34:18,960 - 00:34:20,319] It doesn't matter whether we go
+- [00:34:20,319 - 00:34:21,679] from this curve to this curve
+- [00:34:21,679 - 00:34:22,639] from here to here
+- [00:34:22,639 - 00:34:24,219] or from here to here.
+- [00:34:25,560 - 00:34:26,120] Why?
+- [00:34:26,420 - 00:34:29,080] Because the entropy is constant along these lines.
+- [00:34:30,659 - 00:34:32,360] So the change in the entropy,
+- [00:34:32,360 - 00:34:34,040] The entropy is a
+- [00:34:34,040 - 00:34:48,480] times the change in the entropy
+- [00:34:48,480 - 00:34:50,380] in dropping down vertically.
+- [00:34:50,980 - 00:34:52,560] What's the change in the entropy
+- [00:34:52,560 - 00:34:53,719] in dropping down vertically?
+- [00:34:56,360 - 00:34:59,040] It's the change in the entropy dropping down vertically.
+- [00:34:59,040 - 00:35:01,600] Change in the entropy
+- [00:35:01,600 - 00:35:05,860] with respect to the temperature at fixed volume.
+- [00:35:05,860 - 00:35:07,920] Fixed volume is vertical.
+- [00:35:13,680 - 00:35:14,200] What's that?
+- [00:35:22,340 - 00:35:23,980] The s by the...
+- [00:35:26,860 - 00:35:28,780] We're not changing the volume going down.
+- [00:35:29,880 - 00:35:31,330] You said that it's the same whether
+- [00:35:31,330 - 00:35:32,780] we go down or we go left.
+- [00:35:36,180 - 00:35:36,620] Yeah.
+- [00:35:36,620 - 00:35:37,260] It's the same whether we
+- [00:35:37,260 - 00:35:37,900] go down or we go up.
+- [00:35:37,920 - 00:35:38,380] We go down or we go left.
+- [00:35:40,940 - 00:35:42,160] What's the question?
+- [00:35:42,520 - 00:35:43,280] The question was,
+- [00:35:43,280 - 00:35:46,320] then both of them would have fixed the temperature.
+- [00:35:47,260 - 00:35:48,540] You could use either one.
+- [00:35:48,540 - 00:35:50,240] We can use either one.
+- [00:35:50,900 - 00:35:51,440] Okay.
+- [00:35:53,540 - 00:35:54,080] No,
+- [00:35:54,080 - 00:35:55,500] okay,
+- [00:35:55,500 - 00:35:55,880] good.
+- [00:35:55,880 - 00:35:57,280] What is this?
+- [00:35:57,280 - 00:36:00,660] This is dE by dS at fixed something.
+- [00:36:01,880 - 00:36:04,300] dE by dS at fixed x.
+- [00:36:07,920 - 00:36:08,100] Sorry,
+- [00:36:08,100 - 00:36:09,000] at fixed volume.
+- [00:36:09,300 - 00:36:09,600] Oh,
+- [00:36:09,600 - 00:36:09,880] okay.
+- [00:36:09,920 - 00:36:10,400] Yeah,
+- [00:36:10,400 - 00:36:12,060] at fixed volume.
+- [00:36:12,640 - 00:36:16,070] The e by dS at fixed volume
+- [00:36:16,070 - 00:36:19,500] times the s by dt at fixed...
+- [00:36:20,160 - 00:36:20,760] No,
+- [00:36:20,760 - 00:36:20,860] no,
+- [00:36:20,860 - 00:36:21,660] I've got something wrong here.
+- [00:36:23,840 - 00:36:26,440] The s by dx at fixed temperature.
+- [00:36:28,720 - 00:36:29,820] The s...
+- [00:36:33,660 - 00:36:34,840] The s by...
+- [00:36:34,840 - 00:36:36,960] The temperature's going down.
+- [00:36:37,600 - 00:36:38,240] Oh,
+- [00:36:38,240 - 00:36:39,180] yeah.
+- [00:36:40,510 - 00:36:43,080] The e by dS at fixed volume,
+- [00:36:43,080 - 00:36:45,980] dS by the volume.
+- [00:36:46,340 - 00:36:47,200] I'm sorry.
+- [00:36:47,420 - 00:36:49,560] The s by...
+- [00:36:56,160 - 00:36:56,980] dE...
+- [00:36:57,790 - 00:36:59,400] You can only fix one of them.
+- [00:36:59,960 - 00:37:00,780] Wait,
+- [00:37:00,780 - 00:37:01,540] dE...
+- [00:37:04,840 - 00:37:05,960] I just think...
+- [00:37:07,480 - 00:37:11,720] dE by dS at fixed volume times the
+- [00:37:11,720 - 00:37:15,960] change in s in going from here to here.
+- [00:37:16,980 - 00:37:21,500] The change in s from going from here to
+- [00:37:21,500 - 00:37:26,020] here is the s by d volume at fixed t.
+- [00:37:26,560 - 00:37:28,660] I have too many variables in my formulas.
+- [00:37:29,160 - 00:37:29,880] All right.
+- [00:37:29,880 - 00:37:34,840] The change in going from here to here in the entropy
+- [00:37:34,840 - 00:37:39,800] is the change in entropy with respect to volume at fixed temperature.
+- [00:37:41,020 - 00:37:42,700] That's the formula that we want,
+- [00:37:42,700 - 00:37:44,220] I think.
+- [00:37:44,340 - 00:37:44,900] Yeah,
+- [00:37:44,900 - 00:37:46,580] that's the formula that we want.
+- [00:37:47,580 - 00:37:48,180] Okay.
+- [00:37:48,860 - 00:37:49,160] Now...
+- [00:37:49,560 - 00:37:51,180] Would you make that clearer again?
+- [00:37:51,600 - 00:37:51,920] Yeah.
+- [00:37:51,920 - 00:37:52,220] Yeah.
+- [00:37:52,400 - 00:37:53,200] I will.
+- [00:37:53,360 - 00:37:54,660] All right.
+- [00:37:54,740 - 00:37:55,900] The substrates are...
+- [00:37:55,900 - 00:37:56,860] Yeah.
+- [00:37:56,860 - 00:37:57,900] We have this,
+- [00:37:57,900 - 00:38:00,660] which is dE by d volume at fixed temperature.
+- [00:38:03,880 - 00:38:04,400] Okay?
+- [00:38:06,680 - 00:38:07,200] Well,
+- [00:38:07,200 - 00:38:07,560] better yet,
+- [00:38:07,560 - 00:38:09,280] let's just write dE.
+- [00:38:09,460 - 00:38:11,080] Let's not even write dE dV.
+- [00:38:11,540 - 00:38:18,090] The change in energy in going from here to here is the derivative of energy with
+- [00:38:18,090 - 00:38:24,640] respect to volume at fixed temperature times the change in volume in going from here to here.
+- [00:38:24,780 - 00:38:25,040] Right?
+- [00:38:25,800 - 00:38:26,940] That's one term.
+- [00:38:27,660 - 00:38:29,160] That's in going from here to here.
+- [00:38:29,440 - 00:38:36,120] And then vertically going downward is minus the derivative
+- [00:38:36,120 - 00:38:42,800] of energy with respect to a change in the entropy.
+- [00:38:42,920 - 00:38:45,460] The entropy here and the entropy here is different.
+- [00:38:50,320 - 00:38:52,260] At fixed volume...
+- [00:38:52,260 - 00:38:54,240] That's because I've dropped vertically.
+- [00:38:54,420 - 00:38:55,020] I've dropped vertically.
+- [00:38:55,820 - 00:38:58,880] At fixed volume is minus the
+- [00:38:58,880 - 00:39:01,940] times the change in the song p.
+- [00:39:02,240 - 00:39:03,640] And that goes along to A.
+- [00:39:04,960 - 00:39:05,600] It's
+- [00:39:05,600 - 00:39:06,880] All right.
+- [00:39:07,540 - 00:39:08,260] It's stuff.
+- [00:39:08,260 - 00:39:08,260] Okay,
+- [00:39:08,260 - 00:39:08,340] you just finished this.
+- [00:39:08,340 - 00:39:08,520] For some reason,
+- [00:39:08,520 - 00:39:08,780] if we look at our first Vegetations here,
+- [00:39:08,780 - 00:39:09,440] you can see that we
+- [00:39:09,440 - 00:39:10,100] now have thisAS SOLV in here.
+- [00:39:10,260 - 00:39:11,160] And then pancakes for thisSX whose patron
+- [00:39:11,160 - 00:39:12,060] value in go from A to A.
+- [00:39:12,060 - 00:39:13,040] Sort of the same thing.
+- [00:39:13,040 - 00:39:13,040] Well,
+- [00:39:13,040 - 00:39:14,700] that's when the same thing
+- [00:39:14,700 - 00:39:16,360] is going to change in volume.
+- [00:39:16,720 - 00:39:17,040] Yeah.
+- [00:39:18,220 - 00:39:21,780] You know what?
+- [00:39:21,780 - 00:39:24,740] of energy with respect to volume keeping temperature fixed,
+- [00:39:24,740 - 00:39:25,640] that's horizontal,
+- [00:39:25,640 - 00:39:26,680] then
+- [00:39:26,680 - 00:39:30,180] derivative of energy with respect to
+- [00:39:30,180 - 00:39:33,680] entropy at fixed volume times the change
+- [00:39:33,680 - 00:39:35,900] in entropy in going from here to here.
+- [00:39:39,560 - 00:39:43,210] In this formula you can think of
+- [00:39:43,210 - 00:39:46,860] the energy as a function of volume and
+- [00:39:46,860 - 00:39:47,080] entropy.
+- [00:39:47,080 - 00:39:48,940] Yeah,
+- [00:39:48,940 - 00:39:52,640] yeah,
+- [00:39:52,640 - 00:39:55,980] yeah,
+- [00:39:55,980 - 00:39:57,690] but whatever it is it's the
+- [00:39:57,690 - 00:39:59,400] change in energy with respect to
+- [00:39:59,400 - 00:40:00,820] volume keeping the temperature fixed.
+- [00:40:00,820 - 00:40:02,980] That's the coefficient that goes with
+- [00:40:02,980 - 00:40:05,650] volume and the other one is derivative
+- [00:40:05,650 - 00:40:08,320] with respect to entropy times the change
+- [00:40:08,320 - 00:40:08,740] in entropy.
+- [00:40:08,740 - 00:40:11,580] Why?
+- [00:40:11,580 - 00:40:16,040] Because you're going from here back to here rather than
+- [00:40:16,040 - 00:40:16,780] from here to here.
+- [00:40:20,380 - 00:40:23,540] You're going from here down to
+- [00:40:23,540 - 00:40:26,700] here and so the sign is negative.
+- [00:40:26,700 - 00:40:27,340] Sign is negative.
+- [00:40:27,500 - 00:40:29,040] You just spend some time with it
+- [00:40:29,040 - 00:40:30,580] and you'll see why the time is negative.
+- [00:40:31,859 - 00:40:32,299] Okay,
+- [00:40:32,299 - 00:40:33,839] now what is the change in
+- [00:40:33,839 - 00:40:35,380] entropy in going from here to here?
+- [00:40:36,920 - 00:40:37,900] That's this over here.
+- [00:40:37,900 - 00:40:41,280] The change in entropy in
+- [00:40:41,280 - 00:40:44,660] going from here to here is
+- [00:40:44,660 - 00:40:45,750] also the change in entropy of
+- [00:40:45,750 - 00:40:46,840] the energy with respect to volume.
+- [00:40:46,840 - 00:40:47,020] Now that's the same thing as I say.
+- [00:40:47,020 - 00:40:47,020] Oh God.
+- [00:40:47,020 - 00:40:47,020] But if you look at the logic,
+- [00:40:47,020 - 00:40:47,840] you're going from here to here.
+- [00:40:50,180 - 00:40:51,120] I want you here.
+- [00:40:53,540 - 00:40:54,800] Which is the same as the change
+- [00:40:54,800 - 00:40:56,060] in entropy in going from here to
+- [00:40:56,060 - 00:40:56,460] here.
+- [00:40:59,900 - 00:41:01,060] This if you want to get the right
+- [00:41:01,060 - 00:41:01,200] answer,
+- [00:41:01,200 - 00:41:01,200] I just have to make it clear to you.
+- [00:41:01,400 - 00:41:01,420] It's the same.
+- [00:41:01,420 - 00:41:01,420] See,
+- [00:41:01,420 - 00:41:02,240] there's an segurism is right and theاهhi.
+- [00:41:14,140 - 00:41:14,620] Yeah.
+- [00:41:15,180 - 00:41:15,720] It's the same thing.
+- [00:41:15,720 - 00:41:15,740] The?!?
+- [00:41:16,220 - 00:41:16,820] just not here.
+- [00:41:16,840 - 00:41:18,150] is the change in entropy and
+- [00:41:18,150 - 00:41:19,460] going from this point to that point
+- [00:41:20,700 - 00:41:22,490] which is minus the change in entropy
+- [00:41:22,490 - 00:41:24,280] of going from that point to that point
+- [00:41:24,860 - 00:41:26,010] okay what's the change in entropy
+- [00:41:26,010 - 00:41:27,160] of going from here to here?
+- [00:41:28,860 - 00:41:29,820] it's the derivative
+- [00:41:29,820 - 00:41:30,920] of the entropy
+- [00:41:32,480 - 00:41:34,220] with respect to the volume
+- [00:41:35,200 - 00:41:36,480] at fixed temperature
+- [00:41:37,759 - 00:41:40,080] that's the change in entropy going from here to here
+- [00:41:45,060 - 00:41:46,240] at fixed temperature,
+- [00:41:46,240 - 00:41:46,760] yeah
+- [00:41:47,560 - 00:41:48,600] times dv
+- [00:41:55,840 - 00:41:56,360] no,
+- [00:41:56,360 - 00:41:59,180] it's not equal to zero
+- [00:41:59,860 - 00:42:02,580] it's the change in energy going from here to here
+- [00:42:03,940 - 00:42:04,840] that's what it is
+- [00:42:04,840 - 00:42:07,360] now if I divide it by the volume
+- [00:42:08,380 - 00:42:09,280] then I get
+- [00:42:09,280 - 00:42:09,670] the derivative of the entropy
+- [00:42:09,670 - 00:42:10,060] of going from here to here
+- [00:42:10,060 - 00:42:10,500] and I get the derivative of energy
+- [00:42:11,359 - 00:42:12,660] with respect to volume
+- [00:42:13,379 - 00:42:14,900] along this line
+- [00:42:15,660 - 00:42:17,120] which is constant entropy
+- [00:42:18,440 - 00:42:19,020] that's equal
+- [00:42:19,020 - 00:42:21,620] derivative of energy with respect to volume
+- [00:42:22,680 - 00:42:23,840] at fixed temperature
+- [00:42:24,640 - 00:42:25,000] dv
+- [00:42:26,940 - 00:42:29,020] minus the derivative of energy
+- [00:42:29,600 - 00:42:30,980] with respect to entropy
+- [00:42:31,500 - 00:42:32,580] at fixed volume
+- [00:42:36,740 - 00:42:37,460] say it again
+- [00:42:38,080 - 00:42:38,600] dv goes
+- [00:42:38,600 - 00:42:40,040] dv after d divided by dv
+- [00:42:40,060 - 00:42:40,840] minus the volume
+- [00:42:40,840 - 00:42:41,280] yeah,
+- [00:42:41,280 - 00:42:41,560] yeah
+- [00:42:41,560 - 00:42:42,540] take the dv out
+- [00:42:45,960 - 00:42:48,280] I have a certain threshold
+- [00:42:48,280 - 00:42:50,220] when the symbols just get too many
+- [00:42:50,220 - 00:42:51,960] I just really lose them
+- [00:42:52,720 - 00:42:54,260] the edv at fixed temperature
+- [00:42:54,260 - 00:42:57,020] minus the e ds at fixed volume
+- [00:42:57,820 - 00:43:01,300] ds by dv at fixed temperature
+- [00:43:01,820 - 00:43:03,200] that's your first line
+- [00:43:03,820 - 00:43:04,980] that's my first line,
+- [00:43:04,980 - 00:43:05,300] yeah
+- [00:43:05,740 - 00:43:06,660] I just rewrote it
+- [00:43:07,380 - 00:43:09,000] okay now why is it interesting?
+- [00:43:09,000 - 00:43:10,500] this is the thing
+- [00:43:10,500 - 00:43:12,680] oh incidentally this is a calculus theorem here
+- [00:43:12,680 - 00:43:13,400] I haven't done it
+- [00:43:13,400 - 00:43:16,160] I haven't used the interpretation of these variables yet
+- [00:43:16,160 - 00:43:18,740] this is a calculus theorem about
+- [00:43:19,760 - 00:43:21,660] relationships between derivatives with
+- [00:43:21,660 - 00:43:23,560] respect to two different variables
+- [00:43:23,560 - 00:43:30,000] so it's not a deep theory
+- [00:43:30,520 - 00:43:33,440] theorem about energy and entropy or anything else
+- [00:43:33,440 - 00:43:35,300] it's just the calculus theorem
+- [00:43:35,300 - 00:43:36,980] okay now
+- [00:43:36,980 - 00:43:38,940] now let's apply it
+- [00:43:38,940 - 00:43:38,980] okay now let's apply it
+- [00:43:39,000 - 00:43:39,740] to the real thing
+- [00:43:41,260 - 00:43:44,480] what is the derivative of the energy
+- [00:43:44,480 - 00:43:47,700] with respect to the entropy at fixed volume?
+- [00:43:48,040 - 00:43:52,100] now at fixed volume we're talking about a system
+- [00:43:53,560 - 00:43:56,220] with no change in the control parameter
+- [00:43:57,000 - 00:43:59,450] it's just the same kind of system we
+- [00:43:59,450 - 00:44:01,900] studied before we even talked about control parameters
+- [00:44:01,900 - 00:44:04,260] do you remember before we introduced control
+- [00:44:04,260 - 00:44:06,620] parameters to do work on the system
+- [00:44:06,620 - 00:44:08,980] do you remember what the e by ds was?
+- [00:44:10,300 - 00:44:10,900] temperature
+- [00:44:10,900 - 00:44:11,460] temperature
+- [00:44:11,960 - 00:44:13,780] so now we use some physics
+- [00:44:13,780 - 00:44:15,460] now we're going beyond calculus
+- [00:44:15,980 - 00:44:17,880] and we can write that
+- [00:44:17,880 - 00:44:21,420] dE by dV at fixed s
+- [00:44:21,420 - 00:44:22,360] which is the pressure
+- [00:44:22,360 - 00:44:23,820] which is minus the pressure
+- [00:44:25,140 - 00:44:26,740] that's the thing we're trying to calculate
+- [00:44:27,420 - 00:44:32,940] that's equal to dE by dV at fixed temperature
+- [00:44:33,900 - 00:44:36,110] well it's a lot easier to calculate things
+- [00:44:36,110 - 00:44:38,320] at fixed temperature than it is at fixed energy
+- [00:44:38,320 - 00:44:39,540] so that's a good sign
+- [00:44:43,500 - 00:44:45,840] I just rewrote this over here
+- [00:44:47,080 - 00:44:48,380] and then minus
+- [00:44:49,520 - 00:44:51,180] but this is just the temperature
+- [00:44:51,180 - 00:44:53,200] dE by dS at fixed volume
+- [00:44:53,880 - 00:44:54,560] temperature
+- [00:44:55,240 - 00:44:57,460] times dS by dV
+- [00:44:58,320 - 00:44:59,540] at fixed temperature
+- [00:45:00,320 - 00:45:01,480] all I'm doing
+- [00:45:01,480 - 00:45:05,400] is using a little bit of physics
+- [00:45:05,400 - 00:45:06,850] the physics wasn't saying that
+- [00:45:06,850 - 00:45:08,300] dE by dS at fixed volume
+- [00:45:08,320 - 00:45:09,500] was temperature
+- [00:45:10,580 - 00:45:12,260] and a little bit of calculus
+- [00:45:12,260 - 00:45:14,260] to write down this theorem
+- [00:45:14,960 - 00:45:17,220] and I have succeeded
+- [00:45:17,220 - 00:45:19,400] in writing the pressure in terms
+- [00:45:19,400 - 00:45:21,580] of derivatives with respect to temperature
+- [00:45:21,580 - 00:45:22,820] instead of with respect
+- [00:45:22,820 - 00:45:23,220] sorry
+- [00:45:23,220 - 00:45:25,540] derivatives at fixed temperature
+- [00:45:25,540 - 00:45:27,800] instead of at fixed entropy
+- [00:45:28,880 - 00:45:29,480] that
+- [00:45:30,320 - 00:45:31,300] is an advantage
+- [00:45:32,000 - 00:45:33,370] because it means you don't have
+- [00:45:33,370 - 00:45:34,740] to go and calculate the entropy
+- [00:45:34,740 - 00:45:37,140] and keep it constant while you're varying the volume
+- [00:45:38,320 - 00:45:39,980] alright but this is even simpler
+- [00:45:41,060 - 00:45:42,400] this over here
+- [00:45:43,780 - 00:45:45,540] is the same as
+- [00:45:45,540 - 00:45:48,060] the derivative of Ts
+- [00:45:48,060 - 00:45:50,440] with respect to the volume
+- [00:45:50,440 - 00:45:51,980] at fixed T
+- [00:45:51,980 - 00:45:53,360] why is that?
+- [00:45:55,420 - 00:45:58,500] because the derivative of T with respect to T
+- [00:45:58,500 - 00:45:58,840] uh
+- [00:46:01,820 - 00:46:02,500] yeah
+- [00:46:03,400 - 00:46:04,080] yeah
+- [00:46:06,620 - 00:46:07,300] okay
+- [00:46:07,300 - 00:46:08,300] so I can pull this out
+- [00:46:08,320 - 00:46:10,600] I can pull the T inside the derivative
+- [00:46:11,020 - 00:46:13,640] and this is just the derivative of Ts
+- [00:46:13,640 - 00:46:16,200] with respect to volume at fixed temperature
+- [00:46:16,200 - 00:46:17,460] and this
+- [00:46:17,460 - 00:46:19,420] is the derivative of energy
+- [00:46:20,140 - 00:46:22,420] with respect to volume at fixed temperature
+- [00:46:24,060 - 00:46:25,480] the result is
+- [00:46:27,040 - 00:46:29,240] that this is equal to the derivative
+- [00:46:29,240 - 00:46:31,160] with respect to the volume
+- [00:46:31,160 - 00:46:32,920] at fixed temperature
+- [00:46:32,920 - 00:46:36,420] of E minus Ts
+- [00:46:38,320 - 00:46:39,880] E minus Ts
+- [00:46:39,880 - 00:46:40,680] and that's the
+- [00:46:40,680 - 00:46:42,700] and that's minus the pressure
+- [00:46:45,180 - 00:46:45,820] okay
+- [00:46:46,480 - 00:46:48,620] these two terms combine together
+- [00:46:48,620 - 00:46:49,820] to just say
+- [00:46:49,820 - 00:46:50,860] derivative with respect
+- [00:46:50,860 - 00:46:52,150] they're both derivatives with respect
+- [00:46:52,150 - 00:46:53,440] to volume at fixed temperature
+- [00:46:53,440 - 00:46:55,530] and the result is derivative of
+- [00:46:55,530 - 00:46:57,620] E minus Ts at fixed volume
+- [00:46:58,259 - 00:46:59,740] well what is E minus Ts?
+- [00:47:00,720 - 00:47:01,500] it's A
+- [00:47:01,500 - 00:47:02,940] the Helmholtz free energy
+- [00:47:04,140 - 00:47:05,820] the Helmholtz free energy
+- [00:47:05,820 - 00:47:07,320] so we now have
+- [00:47:07,320 - 00:47:08,240] a lovely theorem
+- [00:47:09,620 - 00:47:11,260] that says that pressure
+- [00:47:12,120 - 00:47:13,720] is equal to
+- [00:47:14,320 - 00:47:15,480] let's rewrite it
+- [00:47:15,480 - 00:47:15,800] pressure
+- [00:47:17,010 - 00:47:18,120] is equal to minus
+- [00:47:18,120 - 00:47:20,460] not the derivative of the ordinary energy
+- [00:47:21,290 - 00:47:23,980] but the derivative of the Helmholtz free energy
+- [00:47:23,980 - 00:47:24,540] no,
+- [00:47:24,540 - 00:47:26,480] isn't that minus the Helmholtz free energy?
+- [00:47:27,260 - 00:47:27,920] hmm?
+- [00:47:28,540 - 00:47:30,020] this is the Helmholtz
+- [00:47:30,020 - 00:47:31,240] it's minus
+- [00:47:31,240 - 00:47:31,760] no,
+- [00:47:31,760 - 00:47:32,560] that is
+- [00:47:32,560 - 00:47:33,840] you got the minus on that
+- [00:47:33,840 - 00:47:35,220] that's the volume that's in it
+- [00:47:36,200 - 00:47:37,820] it is minus the derivative
+- [00:47:37,820 - 00:47:38,910] it should be minus the
+- [00:47:38,910 - 00:47:40,000] derivative of the Helmholtz free energy
+- [00:47:40,000 - 00:47:41,940] with respect to the volume at fixed T
+- [00:47:41,940 - 00:47:43,040] I think I've got it right
+- [00:47:43,040 - 00:47:43,940] yeah
+- [00:47:44,780 - 00:47:45,300] okay
+- [00:47:47,220 - 00:47:49,380] and that's an enormous simplification
+- [00:47:49,920 - 00:47:51,720] because the Helmholtz free energy
+- [00:47:51,720 - 00:47:53,380] is just simply related
+- [00:47:53,380 - 00:47:55,920] to the logarithm of the partition function
+- [00:47:55,920 - 00:47:58,480] you don't even have to differentiate it
+- [00:47:58,480 - 00:47:59,700] to get the energy
+- [00:47:59,700 - 00:48:01,800] you have to differentiate the partition function
+- [00:48:01,800 - 00:48:03,780] and to keep the entropy fixed
+- [00:48:03,780 - 00:48:05,200] you have to calculate the entropy
+- [00:48:06,520 - 00:48:09,740] so you have to do two procedures
+- [00:48:09,740 - 00:48:12,060] one of which can be rather complicated
+- [00:48:13,120 - 00:48:13,860] you have to
+- [00:48:13,860 - 00:48:15,940] if you wanted to use energy and entropy
+- [00:48:15,940 - 00:48:17,480] you have to differentiate
+- [00:48:18,040 - 00:48:19,340] to get the energy
+- [00:48:20,440 - 00:48:23,100] and then you would have to keep the entropy fixed
+- [00:48:23,100 - 00:48:24,340] and believe me,
+- [00:48:24,340 - 00:48:24,940] that's a nuisance
+- [00:48:24,940 - 00:48:26,500] on the other hand,
+- [00:48:26,500 - 00:48:28,120] the Hall theorem simply tells you
+- [00:48:28,120 - 00:48:29,680] to calculate the pressure
+- [00:48:30,340 - 00:48:32,080] all you have to do is differentiate
+- [00:48:32,080 - 00:48:34,440] the logarithm of the partition function
+- [00:48:35,280 - 00:48:36,540] at fixed temperature
+- [00:48:38,540 - 00:48:40,220] with respect to the volume
+- [00:48:40,220 - 00:48:43,120] so if you can calculate the partition function
+- [00:48:43,120 - 00:48:45,680] as a function of temperature and volume
+- [00:48:46,200 - 00:48:46,920] you're home,
+- [00:48:46,920 - 00:48:47,840] you have the pressure
+- [00:48:49,260 - 00:48:50,500] so that's what we're going to do
+- [00:48:51,680 - 00:48:53,600] we're going to do that now for the free gas
+- [00:48:56,380 - 00:48:57,980] should we take a five minute break?
+- [00:48:59,260 - 00:49:00,980] this is our fundamental equation
+- [00:49:01,640 - 00:49:03,640] there's a more general version of it
+- [00:49:03,640 - 00:49:04,080] but
+- [00:49:05,160 - 00:49:07,040] there's a more general version of it
+- [00:49:07,040 - 00:49:09,040] where things like pressure
+- [00:49:09,040 - 00:49:11,200] are derivatives of the Helmholtz free energy
+- [00:49:11,200 - 00:49:13,060] with respect to other control parameters
+- [00:49:13,060 - 00:49:15,860] but this is the basic one we're going to use
+- [00:49:15,860 - 00:49:16,760] at least for today
+- [00:49:17,520 - 00:49:19,560] what we're going to calculate is the pressure
+- [00:49:19,560 - 00:49:20,260] energy,
+- [00:49:20,260 - 00:49:21,900] and all the various properties
+- [00:49:21,900 - 00:49:22,980] of the ideal gas
+- [00:49:22,980 - 00:49:25,140] we now know enough to do that
+- [00:49:25,700 - 00:49:28,320] and we can apply it to a simple
+- [00:49:29,320 - 00:49:30,860] statistical mechanical system
+- [00:49:30,860 - 00:49:31,780] we'll take five minutes
+- [00:49:31,780 - 00:49:32,240] alright,
+- [00:49:32,240 - 00:49:34,380] we want to apply our tools
+- [00:49:34,440 - 00:49:35,780] now we have a lot of tools
+- [00:49:38,480 - 00:49:39,620] partition function,
+- [00:49:39,620 - 00:49:40,700] free energy
+- [00:49:41,360 - 00:49:42,380] real energy
+- [00:49:43,860 - 00:49:44,500] entropy
+- [00:49:46,260 - 00:49:47,660] we have all these tools
+- [00:49:49,060 - 00:49:50,560] theorems of various kinds
+- [00:49:51,700 - 00:49:53,260] we'd like to apply it to
+- [00:49:53,260 - 00:49:55,060] a simple system
+- [00:49:59,520 - 00:50:02,440] the simplest interesting system
+- [00:50:03,300 - 00:50:03,940] well
+- [00:50:04,440 - 00:50:06,920] an interesting simple system
+- [00:50:07,440 - 00:50:08,700] is the ideal gas
+- [00:50:08,700 - 00:50:11,580] the ideal gas is a system of point particles
+- [00:50:12,440 - 00:50:13,980] which are non-interacting
+- [00:50:15,520 - 00:50:17,880] no structure to the particles
+- [00:50:17,880 - 00:50:19,460] we can modify that later
+- [00:50:19,460 - 00:50:20,580] we can allow them
+- [00:50:21,160 - 00:50:22,780] to have some internal structure
+- [00:50:23,359 - 00:50:25,100] but without any internal structure
+- [00:50:26,900 - 00:50:28,160] point particles
+- [00:50:29,260 - 00:50:31,220] filling a volume V
+- [00:50:33,120 - 00:50:34,160] the object
+- [00:50:35,360 - 00:50:38,620] is to calculate all the thermodynamic properties of it
+- [00:50:41,500 - 00:50:43,580] by computing the partition function
+- [00:50:43,580 - 00:50:45,980] and then applying the various tools that we have
+- [00:50:47,280 - 00:50:47,880] alright,
+- [00:50:47,880 - 00:50:48,360] now
+- [00:50:48,360 - 00:50:49,480] we have to
+- [00:50:49,480 - 00:50:51,140] in order to do the partition function
+- [00:50:51,760 - 00:50:53,580] we have to sum over states
+- [00:50:55,140 - 00:50:56,700] sum over states
+- [00:50:56,700 - 00:50:57,680] of a system
+- [00:50:57,680 - 00:50:58,640] here's our system
+- [00:51:00,940 - 00:51:03,560] the states of a classical mechanical system
+- [00:51:03,560 - 00:51:04,140] are the same as the states of a system
+- [00:51:04,160 - 00:51:06,520] are not discrete things like that
+- [00:51:06,520 - 00:51:07,260] they're continuous
+- [00:51:07,260 - 00:51:10,100] they're characterized by positions and momenta
+- [00:51:11,420 - 00:51:13,860] that means that the sum over states
+- [00:51:13,860 - 00:51:16,140] is going to be replaced
+- [00:51:17,380 - 00:51:18,600] by an integral
+- [00:51:19,500 - 00:51:21,240] I'm not going to spend a
+- [00:51:21,240 - 00:51:22,980] lot of time explaining that procedure
+- [00:51:24,980 - 00:51:25,640] but
+- [00:51:25,640 - 00:51:27,680] what are we going to be integrating over
+- [00:51:27,680 - 00:51:29,590] all of the things that
+- [00:51:29,590 - 00:51:31,500] characterize the state of the system
+- [00:51:31,500 - 00:51:32,160] so
+- [00:51:32,160 - 00:51:34,880] if the system has n particles
+- [00:51:34,880 - 00:51:36,580] capital N particles
+- [00:51:37,160 - 00:51:37,880] then
+- [00:51:37,880 - 00:51:41,880] its state is described by 3n coordinates
+- [00:51:41,880 - 00:51:44,500] namely the 3n positions
+- [00:51:45,160 - 00:51:46,200] of the molecules
+- [00:51:46,779 - 00:51:50,360] and the 3n components of momenta
+- [00:51:51,160 - 00:51:53,480] that means that the sum over
+- [00:51:53,480 - 00:51:55,800] states will be replaced by an integral
+- [00:51:57,420 - 00:51:59,000] integrals and sums are of course
+- [00:51:59,000 - 00:52:00,580] the same thing in some limit
+- [00:52:02,160 - 00:52:04,740] in quantum mechanics it would literally be the sum
+- [00:52:04,740 - 00:52:06,640] in classical mechanics we have to
+- [00:52:06,640 - 00:52:08,540] bend our definitions a little bit
+- [00:52:08,540 - 00:52:10,820] to include the possibility of continuous sums
+- [00:52:10,820 - 00:52:13,900] and to characterize the state of the system
+- [00:52:14,580 - 00:52:16,020] momenta and position
+- [00:52:17,360 - 00:52:19,520] alright so what do I replace the sum by
+- [00:52:19,520 - 00:52:22,760] an integral over the position of every particle
+- [00:52:22,760 - 00:52:25,940] that means d3nx
+- [00:52:27,820 - 00:52:30,700] 3n x integrations for each particle
+- [00:52:30,700 - 00:52:32,140] sorry 3n x integrations for each particle
+- [00:52:32,160 - 00:52:34,540] integration for each particle
+- [00:52:34,540 - 00:52:36,840] the 3 coordinates of space x y and z
+- [00:52:36,840 - 00:52:39,260] and the 3
+- [00:52:41,480 - 00:52:43,140] components of momentum
+- [00:52:43,140 - 00:52:44,660] I'll just indicate it that way
+- [00:52:45,540 - 00:52:46,360] those are
+- [00:52:46,360 - 00:52:48,320] that replaces the sum
+- [00:52:49,160 - 00:52:50,360] now what do I sum
+- [00:52:50,360 - 00:52:54,160] normally I sum e to the minus beta
+- [00:52:54,899 - 00:52:57,520] times the energy of the ith level
+- [00:52:58,899 - 00:52:59,200] instead
+- [00:52:59,200 - 00:53:01,600] we're going to have e to the minus
+- [00:53:02,360 - 00:53:03,480] the energy
+- [00:53:04,780 - 00:53:07,020] but not the energy of the ith level
+- [00:53:07,020 - 00:53:09,340] but the energy of a state
+- [00:53:10,010 - 00:53:13,600] with particles at position x in momentum p
+- [00:53:14,520 - 00:53:15,900] so what do we write here
+- [00:53:15,900 - 00:53:16,820] we write
+- [00:53:16,820 - 00:53:18,240] the energy
+- [00:53:19,340 - 00:53:22,560] is the sum over all the particles in the system
+- [00:53:23,280 - 00:53:26,000] is a contribution to the energy from every particle
+- [00:53:27,320 - 00:53:29,280] let's write it sum over little n
+- [00:53:29,280 - 00:53:31,080] to indicate the particles
+- [00:53:31,080 - 00:53:32,880] and what's the energy
+- [00:53:32,880 - 00:53:36,500] if there are no forces between the particles
+- [00:53:37,200 - 00:53:41,000] and let's also assume that there's no gravitational field
+- [00:53:41,000 - 00:53:41,980] or anything like that
+- [00:53:41,980 - 00:53:43,260] it's just particles in a box
+- [00:53:43,990 - 00:53:45,415] then the only energy is
+- [00:53:45,415 - 00:53:46,840] the kinetic energy of the particles
+- [00:53:47,600 - 00:53:49,340] so it's the sum over n
+- [00:53:50,050 - 00:53:51,600] of p sub n
+- [00:53:51,600 - 00:53:52,900] that means the nth particle
+- [00:53:52,900 - 00:53:53,740] squared
+- [00:53:54,280 - 00:53:56,200] divided by twice the mass
+- [00:53:57,300 - 00:53:58,320] and that's it
+- [00:53:59,060 - 00:54:01,860] let me write that all on one line
+- [00:54:02,960 - 00:54:04,960] not two to the m but
+- [00:54:06,040 - 00:54:09,060] momentum of the nth particle squared
+- [00:54:09,060 - 00:54:11,500] and that of course means px
+- [00:54:11,500 - 00:54:13,940] squared plus py squared plus pz squared
+- [00:54:15,140 - 00:54:18,520] so this is the sum over all the squared momenta
+- [00:54:18,520 - 00:54:19,820] all three n of them
+- [00:54:19,820 - 00:54:23,600] divided by twice the mass
+- [00:54:24,460 - 00:54:26,250] and I'm assuming all of
+- [00:54:26,250 - 00:54:28,040] the particles have the same mass
+- [00:54:31,320 - 00:54:32,820] now that's it almost
+- [00:54:33,520 - 00:54:34,870] there's one other thing that
+- [00:54:34,870 - 00:54:36,220] needs to be taken into account
+- [00:54:36,780 - 00:54:38,080] that's the following idea
+- [00:54:38,680 - 00:54:39,180] here's a
+- [00:54:40,260 - 00:54:41,900] we're going to assume that
+- [00:54:41,900 - 00:54:43,540] all of the particles are identical
+- [00:54:44,580 - 00:54:46,320] you can't tell them apart
+- [00:54:47,860 - 00:54:50,280] so let's imagine we have a state
+- [00:54:50,280 - 00:54:52,160] I'm going to draw the particles as little discs
+- [00:54:53,500 - 00:54:55,040] they're really point particles
+- [00:54:55,040 - 00:54:56,220] but you won't be able to see
+- [00:54:56,220 - 00:54:57,400] them if I draw them as points
+- [00:54:59,340 - 00:55:00,760] little discs are particles
+- [00:55:01,259 - 00:55:05,300] now supposing I interchange these two particles
+- [00:55:07,460 - 00:55:09,140] is that the same state
+- [00:55:09,140 - 00:55:10,820] or is it a different state
+- [00:55:12,800 - 00:55:15,000] well now it's a matter of interpretation
+- [00:55:15,000 - 00:55:16,860] not interpretation
+- [00:55:16,860 - 00:55:22,000] in fact it actually doesn't matter in the end
+- [00:55:22,000 - 00:55:25,300] but if they're really identical particles
+- [00:55:25,300 - 00:55:27,760] and there's no difference between them
+- [00:55:27,760 - 00:55:29,980] then interchanging two of them
+- [00:55:29,980 - 00:55:32,920] is the same state as before
+- [00:55:34,080 - 00:55:36,140] so supposing there's only two particles
+- [00:55:38,160 - 00:55:42,280] and I integrate over all possible states
+- [00:55:42,840 - 00:55:43,940] I'm double counting
+- [00:55:44,600 - 00:55:46,270] I'm double counting because
+- [00:55:46,270 - 00:55:47,940] I'm counting each configuration twice
+- [00:55:47,940 - 00:55:49,550] if I call this the
+- [00:55:49,550 - 00:55:51,160] first particle and the second particle
+- [00:55:51,160 - 00:55:52,920] this is the same configuration
+- [00:55:52,920 - 00:55:55,380] this is not a q this is just a particle
+- [00:55:55,380 - 00:55:57,740] this is the same as particle two over here
+- [00:55:57,740 - 00:55:58,980] and particle one over here
+- [00:56:00,020 - 00:56:02,020] so that means I would have to divide by two
+- [00:56:02,020 - 00:56:03,720] what if there are three particles
+- [00:56:03,720 - 00:56:04,720] what do I divide by
+- [00:56:06,060 - 00:56:07,540] if there are n particles
+- [00:56:07,540 - 00:56:09,640] n factorial
+- [00:56:11,480 - 00:56:13,800] so to keep track of the fact
+- [00:56:13,800 - 00:56:18,440] that the particles are all physically identical
+- [00:56:18,440 - 00:56:21,060] that an interchange of two of them
+- [00:56:21,800 - 00:56:25,300] is a trivial non-change of the state
+- [00:56:29,300 - 00:56:31,380] we put a one over n factorial
+- [00:56:33,380 - 00:56:34,740] in front of it
+- [00:56:35,960 - 00:56:37,620] this is what we want to calculate
+- [00:56:40,620 - 00:56:41,980] that's the partition function
+- [00:56:42,530 - 00:56:44,300] and it's z of beta
+- [00:56:45,340 - 00:56:47,460] but it's also a function of the volume
+- [00:56:48,020 - 00:56:50,080] where does the volume come into this
+- [00:56:50,630 - 00:56:52,780] well the x integrations
+- [00:56:52,780 - 00:56:54,820] are done over some range
+- [00:56:54,820 - 00:56:57,640] and the range of the x integrations
+- [00:56:57,740 - 00:57:01,000] is the interior of the box of gas
+- [00:57:02,800 - 00:57:03,960] so implicitly
+- [00:57:03,960 - 00:57:05,540] there's also a dependence
+- [00:57:05,540 - 00:57:06,830] in fact I mean in
+- [00:57:06,830 - 00:57:08,120] principle there could be a dependence
+- [00:57:08,120 - 00:57:09,320] not just on the volume
+- [00:57:09,320 - 00:57:11,160] but the shape of the box
+- [00:57:12,200 - 00:57:13,900] however in this particular case
+- [00:57:13,900 - 00:57:15,840] it's really only the volume that comes in
+- [00:57:15,840 - 00:57:18,140] the temperature and the volume
+- [00:57:19,960 - 00:57:22,160] now the integrand here does
+- [00:57:22,160 - 00:57:24,360] not depend on x at all
+- [00:57:25,200 - 00:57:27,720] so that means I can do the x integrations
+- [00:57:27,740 - 00:57:28,400] immediately
+- [00:57:29,600 - 00:57:33,420] and what does each x integration
+- [00:57:33,420 - 00:57:35,820] supposing I focus on a particular particle
+- [00:57:36,670 - 00:57:37,940] let's say the first particle
+- [00:57:40,540 - 00:57:43,060] dx1 this is d3x1
+- [00:57:43,740 - 00:57:45,140] what is that integral
+- [00:57:46,040 - 00:57:47,180] it's just the volume
+- [00:57:49,180 - 00:57:51,820] I have n such integrals
+- [00:57:51,820 - 00:57:53,700] and so I get a factor
+- [00:57:53,700 - 00:57:55,580] which is volume to the nth
+- [00:58:02,339 - 00:58:03,860] volume to the nth
+- [00:58:05,380 - 00:58:06,980] divided by n factorial
+- [00:58:11,160 - 00:58:13,180] incidentally volume to the nth over n factorial
+- [00:58:13,180 - 00:58:14,640] can be re-expressed
+- [00:58:15,600 - 00:58:16,760] in a neat way
+- [00:58:17,880 - 00:58:19,520] I'll write it out here for you
+- [00:58:19,520 - 00:58:21,250] but for the moment I'm going to
+- [00:58:21,250 - 00:58:22,980] leave it in the form that it is
+- [00:58:22,980 - 00:58:25,500] but let me just re-express it for you
+- [00:58:26,340 - 00:58:27,460] volume to the nth
+- [00:58:27,460 - 00:58:29,340] without the n factorial you couldn't do this
+- [00:58:29,340 - 00:58:31,480] volume to the nth over n factorial
+- [00:58:31,480 - 00:58:33,880] now what's sterling's approximation to n factorial
+- [00:58:34,720 - 00:58:35,720] for large n
+- [00:58:35,720 - 00:58:37,820] n to the n
+- [00:58:41,500 - 00:58:43,300] not the large n to the n
+- [00:58:43,300 - 00:58:44,960] e to the minus n right
+- [00:58:44,960 - 00:58:47,800] the other way
+- [00:58:48,259 - 00:58:48,540] no
+- [00:58:49,700 - 00:58:51,140] which is equal
+- [00:58:51,720 - 00:58:53,280] to e to the n
+- [00:58:53,280 - 00:58:55,480] v to the n over n
+- [00:58:55,500 - 00:58:56,180] to the n
+- [00:58:57,040 - 00:58:58,320] which in turn
+- [00:58:59,700 - 00:59:01,700] e to the n that's just
+- [00:59:02,370 - 00:59:03,240] it's there but
+- [00:59:04,100 - 00:59:04,680] it's
+- [00:59:05,470 - 00:59:07,640] e times the volume
+- [00:59:08,430 - 00:59:09,060] over n
+- [00:59:10,020 - 00:59:11,140] to the nth
+- [00:59:13,230 - 00:59:13,520] now
+- [00:59:14,250 - 00:59:15,400] what is v over n
+- [00:59:16,640 - 00:59:17,920] or n over v
+- [00:59:20,020 - 00:59:20,600] density
+- [00:59:20,600 - 00:59:20,840] density
+- [00:59:21,290 - 00:59:22,520] n over v is the density
+- [00:59:22,520 - 00:59:24,060] so in fact
+- [00:59:24,060 - 00:59:25,580] this is
+- [00:59:26,660 - 00:59:29,320] e divided by the density
+- [00:59:29,320 - 00:59:30,260] rho
+- [00:59:30,260 - 00:59:32,020] to the power n
+- [00:59:32,020 - 00:59:33,400] in other words
+- [00:59:33,400 - 00:59:35,300] for each particle in the system
+- [00:59:35,960 - 00:59:38,180] there is a factor
+- [00:59:38,180 - 00:59:40,200] of one over density
+- [00:59:40,200 - 00:59:41,840] in the partition function
+- [00:59:41,840 - 00:59:43,740] we'll use that another time
+- [00:59:43,740 - 00:59:45,040] I'm not going to use that today
+- [00:59:45,040 - 00:59:46,980] but it's interesting to notice
+- [00:59:46,980 - 00:59:49,620] that this thing combines itself in together
+- [00:59:49,620 - 00:59:51,500] in such a way as to give
+- [00:59:51,500 - 00:59:53,380] a factor of one over the density
+- [00:59:53,380 - 00:59:54,380] for each particle
+- [00:59:55,299 - 00:59:55,700] alright
+- [00:59:56,260 - 00:59:58,200] that's a useful fact
+- [00:59:58,200 - 00:59:59,280] that'll come up another time
+- [00:59:59,779 - 01:00:00,800] but for the time being
+- [01:00:00,800 - 01:00:02,100] let's just leave it this way
+- [01:00:02,520 - 01:00:03,580] the reason I want to leave
+- [01:00:03,580 - 01:00:04,640] it in terms of the volume
+- [01:00:04,640 - 01:00:06,300] because later on I want to differentiate
+- [01:00:06,300 - 01:00:07,660] with respect to the volume
+- [01:00:07,660 - 01:00:08,720] to calculate the pressure
+- [01:00:09,339 - 01:00:09,740] okay
+- [01:00:10,339 - 01:00:12,520] here's the entire dependence on the volume
+- [01:00:12,520 - 01:00:14,360] there is no other dependence on the volume
+- [01:00:15,160 - 01:00:16,300] and the rest of it
+- [01:00:16,300 - 01:00:18,540] is just this p integration
+- [01:00:19,080 - 01:00:20,240] so we have to figure out
+- [01:00:20,240 - 01:00:21,400] how to do the p integration
+- [01:00:22,380 - 01:00:23,360] and the p integration is just this p integration
+- [01:00:23,380 - 01:00:24,980] so the integration is actually easy
+- [01:00:27,300 - 01:00:30,660] there are three n identical integrals
+- [01:00:31,380 - 01:00:32,320] in other words
+- [01:00:32,320 - 01:00:34,220] it's the three nth power
+- [01:00:34,220 - 01:00:36,220] of a basic integral
+- [01:00:36,220 - 01:00:39,300] the basic integral is a one dimensional integral
+- [01:00:39,300 - 01:00:41,720] e to the minus p squared
+- [01:00:41,720 - 01:00:42,440] now p squared
+- [01:00:43,120 - 01:00:44,630] does not mean px squared
+- [01:00:44,630 - 01:00:46,140] plus py squared plus pz squared
+- [01:00:46,140 - 01:00:47,880] it just means a one dimensional variable
+- [01:00:47,880 - 01:00:53,100] e to the minus p squared beta over 2m
+- [01:00:54,980 - 01:00:56,380] and the integral is just this
+- [01:00:56,380 - 01:00:58,500] integrated dp
+- [01:01:00,960 - 01:01:01,520] alright
+- [01:01:02,100 - 01:01:04,120] I don't remember if we discussed
+- [01:01:04,120 - 01:01:05,880] did we discuss Gaussian integrals?
+- [01:01:09,340 - 01:01:10,320] we did not
+- [01:01:10,320 - 01:01:11,560] not this quarter
+- [01:01:12,420 - 01:01:14,420] alright let's discuss Gaussian integrals
+- [01:01:14,420 - 01:01:14,820] quickly
+- [01:01:14,820 - 01:01:15,760] we'll do it quickly
+- [01:01:18,920 - 01:01:19,780] this integral
+- [01:01:20,620 - 01:01:21,840] let's not call it p
+- [01:01:21,840 - 01:01:22,720] let's just call it l
+- [01:01:22,720 - 01:01:23,360] e to the minus p squared beta over 2m
+- [01:01:23,380 - 01:01:23,660] or y
+- [01:01:24,190 - 01:01:26,000] e to the minus y squared dy
+- [01:01:29,660 - 01:01:31,340] from where to where?
+- [01:01:31,540 - 01:01:33,600] from minus infinity to infinity
+- [01:01:34,300 - 01:01:36,240] these momentum integrations go
+- [01:01:36,240 - 01:01:38,180] from minus infinity to infinity
+- [01:01:38,180 - 01:01:39,400] can momentum be negative?
+- [01:01:39,660 - 01:01:39,920] yes
+- [01:01:39,920 - 01:01:41,940] it just means going in the negative direction
+- [01:01:43,560 - 01:01:45,440] this integral is just a number
+- [01:01:45,440 - 01:01:47,140] it's a convergent integral
+- [01:01:47,720 - 01:01:49,280] and it's just a number
+- [01:01:50,380 - 01:01:52,180] anybody know what the number is?
+- [01:01:54,379 - 01:01:56,160] it's just square root of pi period
+- [01:01:57,580 - 01:01:58,320] square root of pi
+- [01:01:58,979 - 01:01:59,920] square root of pi
+- [01:02:01,319 - 01:02:02,699] how the hell do you get a
+- [01:02:02,699 - 01:02:04,080] square root of pi in a formula?
+- [01:02:07,860 - 01:02:09,500] well since the answer is square root of pi
+- [01:02:10,080 - 01:02:11,740] if you want to do the integral
+- [01:02:11,740 - 01:02:13,700] it's smart to do the square root of the integral
+- [01:02:13,700 - 01:02:15,580] the square root of the integral will be pi
+- [01:02:17,180 - 01:02:18,240] I'm not kidding that's right
+- [01:02:18,240 - 01:02:19,180] that's the way you do the integral
+- [01:02:19,720 - 01:02:20,380] square it
+- [01:02:20,380 - 01:02:22,380] then you can do the integral
+- [01:02:22,380 - 01:02:23,680] you can't do the integral the way it is
+- [01:02:23,680 - 01:02:24,680] you can do it if you square it
+- [01:02:28,220 - 01:02:29,560] alright some other time I
+- [01:02:29,560 - 01:02:30,900] will do the integral for you
+- [01:02:31,779 - 01:02:32,580] but not today
+- [01:02:33,759 - 01:02:35,820] ok so to do this integral here
+- [01:02:36,580 - 01:02:38,160] it's sort of of this form
+- [01:02:38,160 - 01:02:39,880] but there's an extra coefficient
+- [01:02:39,880 - 01:02:41,600] in front of the y squared
+- [01:02:41,600 - 01:02:43,060] namely beta over 2m
+- [01:02:43,600 - 01:02:45,620] all I have to do is change variables
+- [01:02:46,140 - 01:02:48,240] let me change variables so that
+- [01:02:48,240 - 01:02:50,360] p squared times beta over 2m
+- [01:02:50,380 - 01:02:53,340] is y squared
+- [01:02:54,759 - 01:02:56,400] that just means
+- [01:02:56,400 - 01:02:58,480] you've changed variables
+- [01:03:00,460 - 01:03:01,660] that p
+- [01:03:02,439 - 01:03:06,900] is equal to the square root of 2m over beta
+- [01:03:06,900 - 01:03:08,780] times y
+- [01:03:11,259 - 01:03:12,160] that's all
+- [01:03:12,160 - 01:03:13,580] then p squared will be
+- [01:03:13,580 - 01:03:16,140] 2m over beta times y squared
+- [01:03:16,140 - 01:03:19,920] and what's in the exponent here
+- [01:03:19,920 - 01:03:20,360] will be 2m over beta times y squared
+- [01:03:20,380 - 01:03:21,160] it will just be simple
+- [01:03:21,160 - 01:03:21,880] it will be what
+- [01:03:23,920 - 01:03:25,620] e to the minus y squared
+- [01:03:26,600 - 01:03:28,040] but what happens to dp
+- [01:03:30,000 - 01:03:31,320] dp is not dy
+- [01:03:32,920 - 01:03:34,280] but rather dy
+- [01:03:36,640 - 01:03:37,680] times 2m
+- [01:03:37,680 - 01:03:38,880] let me put it on the outside
+- [01:03:39,720 - 01:03:41,180] 2m over beta
+- [01:03:41,180 - 01:03:43,100] to the power one half
+- [01:03:46,660 - 01:03:48,220] and now I've done the integral
+- [01:03:48,220 - 01:03:49,290] the integral is the square root of
+- [01:03:49,290 - 01:03:50,360] 2m over beta to the power one half
+- [01:03:50,380 - 01:03:51,060] and I've got the square root of pi
+- [01:03:51,600 - 01:03:52,340] that's this
+- [01:03:52,340 - 01:03:54,240] times this factor here
+- [01:03:55,260 - 01:03:56,260] oh yeah
+- [01:03:56,260 - 01:03:56,560] y
+- [01:03:58,520 - 01:03:59,020] y?
+- [01:03:59,560 - 01:04:00,680] isn't that a y-thumb?
+- [01:04:01,900 - 01:04:02,400] where?
+- [01:04:05,680 - 01:04:06,700] where is your y?
+- [01:04:07,340 - 01:04:08,040] p is
+- [01:04:08,040 - 01:04:10,220] did I do this right?
+- [01:04:10,480 - 01:04:10,980] yeah
+- [01:04:12,140 - 01:04:14,480] I replaced dp by dy times
+- [01:04:14,480 - 01:04:16,820] the square root of 2m over beta
+- [01:04:20,380 - 01:04:21,610] which is the same as 2m
+- [01:04:21,610 - 01:04:22,840] over beta to the one half power
+- [01:04:23,360 - 01:04:24,630] and now the integral is
+- [01:04:24,630 - 01:04:25,900] just the square root of pi
+- [01:04:26,500 - 01:04:29,200] and so this all together is 2m
+- [01:04:30,320 - 01:04:31,660] pi over beta
+- [01:04:32,800 - 01:04:34,320] to the one half power
+- [01:04:37,000 - 01:04:39,040] that's it we've done the basic integral
+- [01:04:40,140 - 01:04:41,540] how many such powers
+- [01:04:41,540 - 01:04:43,580] how many powers of that integral are there?
+- [01:04:44,860 - 01:04:45,340] 3n
+- [01:04:45,340 - 01:04:47,880] one for each component of the momentum
+- [01:04:47,880 - 01:04:51,840] so the whole partition function has now been done
+- [01:04:51,840 - 01:04:54,840] it is 2m pi
+- [01:04:58,500 - 01:05:00,260] divided by beta
+- [01:05:03,140 - 01:05:05,380] to the power n
+- [01:05:05,380 - 01:05:08,660] twice n divided by 3
+- [01:05:08,660 - 01:05:10,560] no just
+- [01:05:10,560 - 01:05:13,340] sorry 3n divided by 2
+- [01:05:14,400 - 01:05:16,120] 3n divided by 2
+- [01:05:16,120 - 01:05:16,140] 3n divided by 2
+- [01:05:18,680 - 01:05:20,520] I can't think without my pants
+- [01:05:31,740 - 01:05:34,240] notice the whole thing is something
+- [01:05:34,759 - 01:05:36,300] yeah even the n factorial
+- [01:05:36,880 - 01:05:39,960] is approximately the nth power of something simple
+- [01:05:40,660 - 01:05:42,460] if we were to have plugged back
+- [01:05:42,460 - 01:05:44,260] in the density and all that stuff
+- [01:05:44,660 - 01:05:46,720] this is just the nth power of something
+- [01:05:46,720 - 01:05:48,940] In other words,
+- [01:05:48,940 - 01:05:51,060] there's a factor for each particle.
+- [01:05:51,760 - 01:05:54,000] We could have done it for one particle
+- [01:05:54,000 - 01:05:56,240] and then just taken the nth power of it.
+- [01:05:57,300 - 01:06:00,180] And that would pretty much give us the right answer.
+- [01:06:00,500 - 01:06:00,980] Okay,
+- [01:06:00,980 - 01:06:03,000] so this is the partition function z.
+- [01:06:04,160 - 01:06:05,740] It depends on the volume,
+- [01:06:05,740 - 01:06:07,480] and for fixed volume,
+- [01:06:07,480 - 01:06:09,720] it depends only on the temperature.
+- [01:06:10,400 - 01:06:12,180] Volume is a control factor,
+- [01:06:12,180 - 01:06:15,660] and beta is the temperature.
+- [01:06:18,300 - 01:06:18,820] Now,
+- [01:06:18,820 - 01:06:19,740] first of all,
+- [01:06:19,740 - 01:06:21,760] let's calculate the energy per particle.
+- [01:06:22,020 - 01:06:22,440] Oh,
+- [01:06:22,440 - 01:06:23,220] before we do that,
+- [01:06:23,220 - 01:06:25,220] let's take the logarithm of it.
+- [01:06:25,540 - 01:06:27,240] I want logarithm of z.
+- [01:06:36,940 - 01:06:38,620] The logarithm of z...
+- [01:06:39,720 - 01:06:41,820] is equal to...
+- [01:06:42,720 - 01:06:43,300] well,
+- [01:06:43,300 - 01:06:46,640] it's minus logarithm of n factorial...
+- [01:06:48,650 - 01:06:49,440] over here.
+- [01:06:50,510 - 01:06:54,020] Then there's plus log n log v.
+- [01:06:55,330 - 01:06:56,800] n log of the volume.
+- [01:06:57,660 - 01:06:59,060] That's from here.
+- [01:06:59,420 - 01:07:00,920] And then...
+- [01:07:02,470 - 01:07:07,920] there is minus 3n over 2...
+- [01:07:08,530 - 01:07:09,700] log beta...
+- [01:07:10,760 - 01:07:12,280] that comes from here.
+- [01:07:13,000 - 01:07:15,640] It's minus because the beta was in the denominator.
+- [01:07:16,520 - 01:07:19,380] And then there's plus 3n over 2...
+- [01:07:21,540 - 01:07:23,280] log of what?
+- [01:07:24,400 - 01:07:25,200] 2m pi?
+- [01:07:31,120 - 01:07:31,840] That's it.
+- [01:07:36,000 - 01:07:37,380] We could write this...
+- [01:07:37,380 - 01:07:39,380] I'll leave this as an assignment to you...
+- [01:07:39,380 - 01:07:41,140] to rewrite this in terms of the
+- [01:07:41,140 - 01:07:42,900] density instead of the volume in n.
+- [01:07:45,180 - 01:07:47,250] You'll find that it's basically
+- [01:07:47,250 - 01:07:49,320] n times logarithm of the density.
+- [01:07:50,700 - 01:07:52,830] The n factorial and the v combined
+- [01:07:52,830 - 01:07:54,960] together to give you logarithm of the density,
+- [01:07:55,140 - 01:07:56,080] but I'm not going to do that now.
+- [01:07:57,160 - 01:07:57,680] Okay.
+- [01:07:57,960 - 01:07:58,600] That's it.
+- [01:07:58,660 - 01:07:59,900] That's log of the partition function.
+- [01:08:00,660 - 01:08:03,500] Let's first calculate the energy per particle.
+- [01:08:04,820 - 01:08:05,480] All right.
+- [01:08:05,500 - 01:08:08,400] Let's calculate the energy before the energy per particle.
+- [01:08:08,400 - 01:08:11,820] Notice that all the interesting terms...
+- [01:08:11,820 - 01:08:11,940] Well,
+- [01:08:11,940 - 01:08:13,500] we'll see what's interesting in a minute.
+- [01:08:13,680 - 01:08:15,560] Let's calculate the energy per particle.
+- [01:08:15,720 - 01:08:17,060] What's the formula for the energy?
+- [01:08:18,259 - 01:08:19,380] General formula...
+- [01:08:19,380 - 01:08:22,160] doesn't depend on the fact that it's a free gas...
+- [01:08:22,160 - 01:08:23,700] just very general formula...
+- [01:08:23,700 - 01:08:26,140] minus the derivative of log
+- [01:08:26,140 - 01:08:28,580] of z with respect to beta.
+- [01:08:29,620 - 01:08:30,180] Energy...
+- [01:08:30,839 - 01:08:34,260] is equal to minus the derivative of log z...
+- [01:08:34,260 - 01:08:35,979] with respect to beta.
+- [01:08:36,200 - 01:08:36,540] Well,
+- [01:08:36,540 - 01:08:37,800] it's all laid out for us.
+- [01:08:37,800 - 01:08:39,319] That's equal...
+- [01:08:40,180 - 01:08:41,700] to plus 3n.
+- [01:08:41,779 - 01:08:43,800] The minuses here and here cancel.
+- [01:08:44,120 - 01:08:49,979] And we get plus 3n over 2.
+- [01:08:50,220 - 01:08:53,479] And the derivative of log beta with respect to beta...
+- [01:08:53,479 - 01:08:55,020] is just 1 over beta.
+- [01:08:56,819 - 01:08:57,960] What's 1 over beta?
+- [01:08:58,840 - 01:08:59,500] Temperature.
+- [01:09:02,960 - 01:09:03,620] So,
+- [01:09:03,620 - 01:09:06,020] the total energy of the gas is...
+- [01:09:06,020 - 01:09:07,779] 3 halves T...
+- [01:09:07,800 - 01:09:09,279] times the number of particles.
+- [01:09:09,640 - 01:09:12,000] And the energy per particle...
+- [01:09:12,800 - 01:09:14,920] energy per particle...
+- [01:09:14,920 - 01:09:16,380] is just...
+- [01:09:16,380 - 01:09:19,180] 3 halves the temperature.
+- [01:09:20,640 - 01:09:23,279] If I were to change units...
+- [01:09:23,279 - 01:09:27,200] and use the standard textbook unit convention...
+- [01:09:27,200 - 01:09:29,460] I would replace capital T...
+- [01:09:29,460 - 01:09:30,939] by kT...
+- [01:09:30,939 - 01:09:33,640] by Boltzmann's constant times...
+- [01:09:33,640 - 01:09:35,740] let's say Boltzmann's constant times little t.
+- [01:09:36,359 - 01:09:37,779] 3 halves kT...
+- [01:09:40,140 - 01:09:41,399] I won't do that.
+- [01:09:41,420 - 01:09:42,899] I'm not going to follow that convention.
+- [01:09:43,340 - 01:09:44,979] But I just wanted to point out...
+- [01:09:44,979 - 01:09:46,200] 3 halves kT...
+- [01:09:46,200 - 01:09:48,140] is the textbook answer.
+- [01:09:51,300 - 01:09:52,240] Where did the...
+- [01:09:52,240 - 01:09:52,899] first of all,
+- [01:09:52,899 - 01:09:54,800] where did the 1 half come from in the formula?
+- [01:09:55,300 - 01:09:57,100] The 1 half came from the
+- [01:09:57,100 - 01:09:58,900] square roots in the Gaussian integral.
+- [01:10:00,100 - 01:10:00,540] Right?
+- [01:10:00,780 - 01:10:02,900] It came from the square roots in the Gaussian integral.
+- [01:10:03,140 - 01:10:04,280] Or it came from the...
+- [01:10:04,280 - 01:10:05,680] from the Gaussian integral.
+- [01:10:05,860 - 01:10:07,260] Where did the 3 come from?
+- [01:10:08,519 - 01:10:10,160] The 3 dimensions of space.
+- [01:10:10,540 - 01:10:11,200] The 3 dimensions of space.
+- [01:10:11,200 - 01:10:11,620] So basically,
+- [01:10:11,620 - 01:10:15,200] there's a kinetic energy per direction per particle...
+- [01:10:15,200 - 01:10:16,920] which is 1 half T.
+- [01:10:17,940 - 01:10:18,620] Right?
+- [01:10:18,720 - 01:10:20,420] Per direction per particle.
+- [01:10:20,700 - 01:10:22,300] The 3 directions of space...
+- [01:10:22,300 - 01:10:25,100] If there was 26 dimensions of space...
+- [01:10:25,100 - 01:10:26,700] then it would be 26 over 2.
+- [01:10:26,700 - 01:10:27,900] I picked 26 at random.
+- [01:10:28,020 - 01:10:29,380] It had nothing to do with string theory.
+- [01:10:30,060 - 01:10:31,240] I just...
+- [01:10:32,080 - 01:10:32,760] Huh?
+- [01:10:33,460 - 01:10:34,720] We believe you.
+- [01:10:34,800 - 01:10:35,180] Yeah.
+- [01:10:35,180 - 01:10:35,360] No.
+- [01:10:36,860 - 01:10:38,540] 26 is the letters of the alphabet.
+- [01:10:42,080 - 01:10:42,560] Okay,
+- [01:10:42,560 - 01:10:43,880] so E over N...
+- [01:10:43,880 - 01:10:46,120] is 3 halves the temperature.
+- [01:10:46,420 - 01:10:47,660] Or 3 halves kT,
+- [01:10:47,660 - 01:10:48,260] if you like.
+- [01:10:48,440 - 01:10:50,400] If you wanted to plug in numbers...
+- [01:10:50,400 - 01:10:53,120] and use 300 degrees at room temperature...
+- [01:10:53,120 - 01:10:54,300] you'd want to plug in...
+- [01:10:55,180 - 01:10:56,380] the Boltzmann constant...
+- [01:10:56,740 - 01:10:58,820] which is 10 to the minus 23 or something.
+- [01:10:59,460 - 01:11:01,100] And you would find the energy per
+- [01:11:01,100 - 01:11:02,740] particle is 10 to the minus what?
+- [01:11:02,820 - 01:11:04,660] 21 or something like that in joules.
+- [01:11:05,180 - 01:11:06,480] So it's pretty small.
+- [01:11:07,700 - 01:11:08,460] Okay,
+- [01:11:08,460 - 01:11:10,040] so that's the first step...
+- [01:11:10,040 - 01:11:12,660] or the first little thing we can calculate.
+- [01:11:13,140 - 01:11:13,900] Next,
+- [01:11:13,900 - 01:11:15,840] let's calculate the pressure.
+- [01:11:16,520 - 01:11:18,800] That's an interesting thing to calculate.
+- [01:11:19,760 - 01:11:21,720] To calculate the pressure...
+- [01:11:21,720 - 01:11:23,520] we first calculate...
+- [01:11:23,920 - 01:11:26,460] we want to calculate the derivative...
+- [01:11:26,900 - 01:11:31,380] of the energy with respect to volume...
+- [01:11:31,380 - 01:11:33,000] at fixed entropy...
+- [01:11:33,000 - 01:11:34,400] but that's too hard.
+- [01:11:34,400 - 01:11:36,700] So let's calculate the derivative...
+- [01:11:36,700 - 01:11:38,580] of the free energy...
+- [01:11:38,580 - 01:11:42,360] with respect to the volume...
+- [01:11:42,360 - 01:11:44,720] at fixed temperature.
+- [01:11:45,540 - 01:11:46,780] That's a lot easier.
+- [01:11:47,260 - 01:11:47,980] Okay,
+- [01:11:47,980 - 01:11:48,660] so let's do that.
+- [01:11:49,800 - 01:11:52,100] First we need the free energy...
+- [01:11:53,340 - 01:11:54,060] A.
+- [01:11:55,040 - 01:11:59,240] A is equal to minus T log Z.
+- [01:12:01,740 - 01:12:03,140] And we want to...
+- [01:12:04,440 - 01:12:07,200] and we want to differentiate A...
+- [01:12:08,099 - 01:12:10,080] with respect to volume...
+- [01:12:10,980 - 01:12:12,940] minus it is pressure.
+- [01:12:14,380 - 01:12:15,020] Okay,
+- [01:12:15,020 - 01:12:18,400] the only term which is going to contribute...
+- [01:12:18,400 - 01:12:21,860] only the terms which depend on the volume...
+- [01:12:21,860 - 01:12:23,820] are going to contribute to this derivative.
+- [01:12:24,220 - 01:12:26,900] We might as well throw away everything else.
+- [01:12:27,740 - 01:12:29,600] Nothing else will give us
+- [01:12:29,600 - 01:12:31,460] a derivative with respect to volume.
+- [01:12:32,879 - 01:12:35,000] Remember we're doing this at fixed temperature.
+- [01:12:36,340 - 01:12:38,100] This is at fixed temperature.
+- [01:12:39,220 - 01:12:40,980] So at fixed temperature...
+- [01:12:40,980 - 01:12:43,020] this is just a constant...
+- [01:12:43,020 - 01:12:44,640] when I'm differentiating.
+- [01:12:44,800 - 01:12:45,860] This is a constant.
+- [01:12:46,120 - 01:12:48,440] The only thing which depends on the volume...
+- [01:12:48,440 - 01:12:49,960] at fixed temperature...
+- [01:12:49,960 - 01:12:51,580] is this volume term.
+- [01:12:51,880 - 01:12:52,460] That's it.
+- [01:12:52,460 - 01:12:53,360] That's how easy it is.
+- [01:12:53,960 - 01:12:54,480] Okay,
+- [01:12:54,480 - 01:12:55,240] let's see what we get.
+- [01:12:56,060 - 01:12:58,720] The derivative of T...
+- [01:12:58,720 - 01:13:00,320] this is minus...
+- [01:13:01,740 - 01:13:02,300] T...
+- [01:13:03,980 - 01:13:07,280] times the derivative of log V...
+- [01:13:07,280 - 01:13:08,820] with respect to V.
+- [01:13:09,060 - 01:13:09,360] Now,
+- [01:13:09,360 - 01:13:11,300] do I have a...
+- [01:13:12,660 - 01:13:13,220] Yeah,
+- [01:13:13,220 - 01:13:14,120] N log V.
+- [01:13:16,400 - 01:13:19,140] And that's just...
+- [01:13:19,720 - 01:13:20,840] So what am I writing?
+- [01:13:21,000 - 01:13:23,300] I want to write the derivative of the free energy.
+- [01:13:23,860 - 01:13:25,580] That should be on the next line here.
+- [01:13:26,140 - 01:13:27,540] On the next line...
+- [01:13:30,300 - 01:13:32,260] This is equal to...
+- [01:13:33,800 - 01:13:34,300] N...
+- [01:13:37,320 - 01:13:38,320] over V...
+- [01:13:40,580 - 01:13:41,080] period?
+- [01:13:41,080 - 01:13:41,760] I think that's it.
+- [01:13:43,420 - 01:13:43,920] No.
+- [01:13:44,680 - 01:13:45,360] Times T.
+- [01:13:45,360 - 01:13:45,880] Times T.
+- [01:13:46,040 - 01:13:46,880] The T over here.
+- [01:13:48,620 - 01:13:50,260] No minus sign...
+- [01:13:52,380 - 01:13:52,880] because...
+- [01:13:52,880 - 01:13:54,300] there are two minus signs.
+- [01:13:54,420 - 01:13:56,580] Can everybody see this minus sign over here?
+- [01:13:57,020 - 01:13:57,340] Yeah.
+- [01:13:57,340 - 01:13:59,700] There's a minus sign right where my finger is.
+- [01:14:00,120 - 01:14:01,580] Minus the ADV is P.
+- [01:14:02,160 - 01:14:04,140] But A is minus T log Z.
+- [01:14:04,440 - 01:14:06,300] So the two minus signs go away.
+- [01:14:06,560 - 01:14:07,860] And when I differentiate,
+- [01:14:08,140 - 01:14:10,440] I just get N over V...
+- [01:14:11,120 - 01:14:12,480] times the factor T.
+- [01:14:13,660 - 01:14:15,660] There we have the ideal gas law.
+- [01:14:15,940 - 01:14:17,720] The ideal gas law P...
+- [01:14:18,419 - 01:14:21,080] is PV equals NT.
+- [01:14:23,980 - 01:14:25,560] Pressure times volume...
+- [01:14:25,560 - 01:14:27,420] is the number of particles...
+- [01:14:27,420 - 01:14:29,420] times the temperature.
+- [01:14:29,660 - 01:14:31,220] That's the standard ideal gas law.
+- [01:14:32,480 - 01:14:33,480] Of course,
+- [01:14:33,480 - 01:14:35,160] in textbook notation,
+- [01:14:35,440 - 01:14:36,700] this would be PV...
+- [01:14:39,000 - 01:14:40,160] equals NKT.
+- [01:14:42,520 - 01:14:44,140] And then we could write that,
+- [01:14:44,140 - 01:14:44,840] if we like,
+- [01:14:45,800 - 01:14:46,960] as pressure...
+- [01:14:47,920 - 01:14:49,500] we divide by volume,
+- [01:14:49,500 - 01:14:50,400] if we like,
+- [01:14:50,600 - 01:14:52,380] and we can write that...
+- [01:14:52,380 - 01:14:55,700] N over V is the density of particles...
+- [01:14:55,700 - 01:14:56,260] rho...
+- [01:14:56,260 - 01:14:58,660] rho KT.
+- [01:14:58,880 - 01:15:01,160] So it tells us that pressure...
+- [01:15:01,160 - 01:15:03,580] is proportional to density...
+- [01:15:03,580 - 01:15:04,640] times temperature.
+- [01:15:05,480 - 01:15:06,400] Okay,
+- [01:15:06,400 - 01:15:07,300] forget the K.
+- [01:15:11,780 - 01:15:12,700] And...
+- [01:15:13,380 - 01:15:15,340] my units...
+- [01:15:16,380 - 01:15:19,020] in which temperature has units of energy...
+- [01:15:19,020 - 01:15:21,760] its pressure is equal to density...
+- [01:15:21,760 - 01:15:22,440] times...
+- [01:15:23,519 - 01:15:24,080] temperature.
+- [01:15:24,480 - 01:15:26,120] That's the ideal gas law.
+- [01:15:28,360 - 01:15:29,780] That's the particle density.
+- [01:15:29,960 - 01:15:31,160] That's the particle density.
+- [01:15:31,440 - 01:15:32,800] Not the mass density,
+- [01:15:32,800 - 01:15:33,960] but the particle density.
+- [01:15:34,280 - 01:15:34,660] Right.
+- [01:15:40,020 - 01:15:40,580] So...
+- [01:15:43,000 - 01:15:44,040] And as you see,
+- [01:15:44,040 - 01:15:45,180] we don't need...
+- [01:15:45,180 - 01:15:45,800] any...
+- [01:15:45,800 - 01:15:48,040] we don't need to think about the molecules,
+- [01:15:48,300 - 01:15:49,510] we don't have to think
+- [01:15:49,510 - 01:15:50,720] about the collisions with the walls,
+- [01:15:50,720 - 01:15:52,420] we don't have to...
+- [01:15:53,940 - 01:15:56,100] we just mechanically...
+- [01:15:56,100 - 01:15:58,840] we mechanically carry out...
+- [01:15:58,840 - 01:16:02,400] the statistical mechanical definition of pressure,
+- [01:16:02,580 - 01:16:06,680] the statistical mechanical definition of energy,
+- [01:16:06,920 - 01:16:09,080] all in terms of the...
+- [01:16:09,080 - 01:16:10,960] the most fundamental variable,
+- [01:16:11,180 - 01:16:12,460] which is the...
+- [01:16:13,800 - 01:16:15,020] partition function.
+- [01:16:17,780 - 01:16:18,520] Yeah?
+- [01:16:18,720 - 01:16:19,920] How do we get rid of the mass?
+- [01:16:20,820 - 01:16:21,640] Good question.
+- [01:16:21,760 - 01:16:22,940] How did we get rid of the mass?
+- [01:16:23,060 - 01:16:23,680] The mass...
+- [01:16:23,680 - 01:16:25,260] Where was the mass in the partition function?
+- [01:16:25,760 - 01:16:26,580] It's over here.
+- [01:16:29,120 - 01:16:29,720] Differentiating it,
+- [01:16:29,720 - 01:16:30,480] it's just a constant.
+- [01:16:31,100 - 01:16:31,540] Right,
+- [01:16:31,540 - 01:16:33,120] you just have an overall constant there.
+- [01:16:33,200 - 01:16:33,380] Yeah.
+- [01:16:33,840 - 01:16:34,820] Isn't that remarkable?
+- [01:16:35,360 - 01:16:38,140] That the pressure doesn't depend on the mass.
+- [01:16:39,800 - 01:16:40,640] It is remarkable.
+- [01:16:41,280 - 01:16:43,360] Neither does the average kinetic energy.
+- [01:16:44,700 - 01:16:46,760] The average kinetic energy is gotten
+- [01:16:46,760 - 01:16:48,820] by differentiating with respect to beta.
+- [01:16:50,720 - 01:16:52,300] So if you put a...
+- [01:16:55,720 - 01:16:58,840] bowling ball in a gas,
+- [01:17:02,120 - 01:17:04,190] the kinetic energy of the bowling
+- [01:17:04,190 - 01:17:06,260] ball will be exactly the same
+- [01:17:06,260 - 01:17:08,480] as the kinetic energy of the...
+- [01:17:10,220 - 01:17:12,060] of a single molecule,
+- [01:17:12,060 - 01:17:13,400] of any single...
+- [01:17:13,400 - 01:17:13,940] or if you make...
+- [01:17:13,940 - 01:17:14,060] Yeah.
+- [01:17:14,920 - 01:17:17,320] The bowling ball will have the same kinetic energy
+- [01:17:17,320 - 01:17:19,560] as the energy of any other molecule.
+- [01:17:20,720 - 01:17:22,660] It will have a much smaller velocity.
+- [01:17:24,720 - 01:17:25,300] Right.
+- [01:17:27,220 - 01:17:27,800] So...
+- [01:17:28,940 - 01:17:29,520] Yeah,
+- [01:17:29,520 - 01:17:30,740] so that's a good point,
+- [01:17:30,820 - 01:17:31,960] that the energy...
+- [01:17:31,960 - 01:17:34,140] that the mass cancels out of these formulas,
+- [01:17:34,140 - 01:17:34,660] oddly.
+- [01:17:39,020 - 01:17:41,860] What else is interesting about this formula?
+- [01:17:43,000 - 01:17:44,320] In your notes,
+- [01:17:44,320 - 01:17:47,020] you carry on an H-bar.
+- [01:17:47,360 - 01:17:47,940] Oh,
+- [01:17:47,940 - 01:17:48,260] oh.
+- [01:17:49,160 - 01:17:49,740] Right.
+- [01:17:49,740 - 01:17:50,160] Right.
+- [01:17:50,980 - 01:17:53,000] The H-bar is just a convention.
+- [01:17:53,900 - 01:17:54,740] It's a convention.
+- [01:17:54,960 - 01:17:56,280] I'll tell you what the convention...
+- [01:17:56,280 - 01:17:56,900] why there's a convention.
+- [01:17:57,680 - 01:18:00,940] The original definition of the partition function as a sum
+- [01:18:01,440 - 01:18:03,120] was a dimensionless...
+- [01:18:03,980 - 01:18:04,840] was a dimensionless...
+- [01:18:05,280 - 01:18:06,320] Let's talk about that a little bit.
+- [01:18:06,420 - 01:18:07,880] Was a dimensionless quantity.
+- [01:18:08,640 - 01:18:09,680] In the exponent,
+- [01:18:09,680 - 01:18:12,160] the thing in the exponent was dimensionless.
+- [01:18:12,240 - 01:18:13,960] E to the minus beta...
+- [01:18:13,960 - 01:18:15,840] beta has units of one over energy,
+- [01:18:15,840 - 01:18:17,280] times energy.
+- [01:18:17,360 - 01:18:19,200] This is dimensionless and it's just a sum.
+- [01:18:19,200 - 01:18:20,220] So,
+- [01:18:20,220 - 01:18:23,200] the usual definition of the partition function...
+- [01:18:26,360 - 01:18:29,120] the partition function is dimensionless.
+- [01:18:29,300 - 01:18:30,360] On the other hand,
+- [01:18:30,360 - 01:18:31,560] with this definition here,
+- [01:18:31,800 - 01:18:34,420] the partition function has the dimensions
+- [01:18:34,420 - 01:18:41,020] of whatever x times momentum to the 3n power are.
+- [01:18:41,320 - 01:18:42,080] Now,
+- [01:18:42,080 - 01:18:45,300] x times momentum is not dimensionless.
+- [01:18:46,140 - 01:18:48,780] It has units of what is called action.
+- [01:18:49,679 - 01:18:50,460] All right?
+- [01:18:51,400 - 01:18:52,960] It is not dimensionless.
+- [01:18:53,140 - 01:18:55,080] To make it dimensionless,
+- [01:18:55,080 - 01:18:56,480] what we do is...
+- [01:18:56,480 - 01:18:58,160] and it won't change any answers.
+- [01:18:58,240 - 01:18:59,340] I'll show you why in a minute.
+- [01:18:59,720 - 01:19:02,120] But to make it dimensionless,
+- [01:19:02,340 - 01:19:04,820] what we just do is divide each
+- [01:19:04,820 - 01:19:07,300] factor of an x times a p
+- [01:19:08,000 - 01:19:09,620] by a physical quantity,
+- [01:19:09,620 - 01:19:12,440] by a constant of nature
+- [01:19:13,379 - 01:19:15,840] with the dimensions of x times p.
+- [01:19:16,020 - 01:19:18,400] It doesn't matter what constant...
+- [01:19:18,400 - 01:19:20,200] it doesn't matter what we divide it by,
+- [01:19:20,200 - 01:19:20,680] in fact.
+- [01:19:21,060 - 01:19:23,160] But just to give it the right dimensions,
+- [01:19:23,320 - 01:19:25,460] we divide by Planck's constant.
+- [01:19:25,860 - 01:19:28,040] Every time we see an x by a times p,
+- [01:19:28,180 - 01:19:29,580] we divide by Planck's constant.
+- [01:19:30,140 - 01:19:32,520] And that gives us some factors of Planck's constant.
+- [01:19:32,640 - 01:19:34,980] What will it do in the partition function here?
+- [01:19:36,260 - 01:19:39,940] It will give us another
+- [01:19:39,940 - 01:19:43,620] minus n logarithm of Planck's constant.
+- [01:19:45,560 - 01:19:46,100] Okay.
+- [01:19:46,100 - 01:19:48,300] It doesn't make any difference to anything
+- [01:19:48,300 - 01:19:51,320] because we're always differentiating the partition function.
+- [01:19:51,800 - 01:19:53,760] It makes no difference to anything.
+- [01:19:56,300 - 01:19:58,010] Differentiating the partition function
+- [01:19:58,010 - 01:19:59,720] to calculate various quantities
+- [01:19:59,720 - 01:20:02,800] or differentiating a logarithm of the partition function,
+- [01:20:03,100 - 01:20:05,760] this just doesn't contribute.
+- [01:20:06,220 - 01:20:08,280] So it's a convention.
+- [01:20:08,780 - 01:20:12,120] There's only two terms that are important for the...
+- [01:20:12,120 - 01:20:12,660] That's right.
+- [01:20:12,840 - 01:20:15,800] There's only two terms in this expression here.
+- [01:20:16,380 - 01:20:18,340] Which are being differentiated.
+- [01:20:19,220 - 01:20:19,700] Right.
+- [01:20:22,380 - 01:20:23,180] Say it again.
+- [01:20:25,740 - 01:20:26,220] No,
+- [01:20:26,220 - 01:20:26,820] I think it's .
+- [01:20:27,340 - 01:20:27,820] No,
+- [01:20:27,820 - 01:20:28,600] there's a .
+- [01:20:28,600 - 01:20:28,920] Yes,
+- [01:20:28,920 - 01:20:29,420] thank you.
+- [01:20:29,500 - 01:20:30,080] It's .
+- [01:20:32,940 - 01:20:33,420] Okay.
+- [01:20:41,680 - 01:20:42,560] In fact,
+- [01:20:42,560 - 01:20:43,440] it's kind of interesting.
+- [01:20:43,600 - 01:20:45,320] If we really did do quantum mechanics
+- [01:20:45,660 - 01:20:46,080] and we did...
+- [01:20:46,100 - 01:20:48,020] If we did the quantum mechanics of the free gas,
+- [01:20:49,000 - 01:20:50,700] the free ideal gas,
+- [01:20:51,060 - 01:20:54,000] this term would actually appear there naturally
+- [01:20:54,000 - 01:20:55,940] just by summing over states.
+- [01:20:56,180 - 01:20:57,140] We would discover it.
+- [01:20:57,920 - 01:20:57,960] Yeah.
+- [01:20:58,100 - 01:21:04,100] So this is a quick and dirty and shorthand way
+- [01:21:04,100 - 01:21:07,440] of calculating the effects of quantum mechanics.
+- [01:21:07,660 - 01:21:09,200] Does it come into anything?
+- [01:21:09,600 - 01:21:10,480] Not really.
+- [01:21:10,760 - 01:21:11,980] Nothing interesting.
+- [01:21:12,600 - 01:21:14,340] So at least not until
+- [01:21:14,340 - 01:21:16,080] we start to think about it.
+- [01:21:16,080 - 01:21:17,360] We start exploring quantum mechanics.
+- [01:21:17,820 - 01:21:20,280] Then it does have an interesting consequence
+- [01:21:20,880 - 01:21:23,360] or an interesting point about it.
+- [01:21:25,700 - 01:21:27,460] What does it do to the entropy,
+- [01:21:27,460 - 01:21:28,300] incidentally?
+- [01:21:29,900 - 01:21:31,880] It does contribute to the entropy.
+- [01:21:32,100 - 01:21:34,500] If we go back to the connection between...
+- [01:21:35,120 - 01:21:35,640] Remember,
+- [01:21:35,640 - 01:21:38,600] there's a connection between beta times the energy,
+- [01:21:39,980 - 01:21:41,100] the free energy.
+- [01:21:41,940 - 01:21:42,460] Well,
+- [01:21:42,460 - 01:21:44,380] it would add a constant to the entropy.
+- [01:21:44,380 - 01:21:45,440] But again,
+- [01:21:45,440 - 01:21:47,140] adding constants to the entropy
+- [01:21:47,140 - 01:21:48,200] doesn't change anything.
+- [01:21:49,980 - 01:21:50,620] Okay.
+- [01:21:51,360 - 01:21:54,980] That is the ideal gas,
+- [01:21:54,980 - 01:21:56,300] the ideal gas law.
+- [01:21:57,220 - 01:22:00,440] It is interesting to calculate the entropy.
+- [01:22:00,900 - 01:22:02,800] How would we calculate the entropy?
+- [01:22:05,000 - 01:22:07,620] It's interesting to calculate it for no other reason
+- [01:22:07,620 - 01:22:09,160] than to see that it's fairly complicated
+- [01:22:09,160 - 01:22:12,140] and that you would not want to try to calculate
+- [01:22:12,140 - 01:22:14,360] derivatives of anything to the entropy.
+- [01:22:14,380 - 01:22:14,420] So,
+- [01:22:14,420 - 01:22:15,640] let's start by keeping the entropy fixed.
+- [01:22:17,080 - 01:22:18,520] Let's just look at the entropy.
+- [01:22:19,980 - 01:22:20,540] Let's see.
+- [01:22:20,600 - 01:22:23,780] There's a formula for the entropy in terms of...
+- [01:22:25,360 - 01:22:27,800] I think it's A minus E,
+- [01:22:30,000 - 01:22:31,680] and then there must be a beta.
+- [01:22:33,200 - 01:22:34,540] I think that's right,
+- [01:22:34,540 - 01:22:34,740] huh?
+- [01:22:35,320 - 01:22:35,920] All right.
+- [01:22:35,940 - 01:22:37,850] So let's calculate that and see
+- [01:22:37,850 - 01:22:39,760] what kind of nasty thing we get.
+- [01:22:40,220 - 01:22:41,220] First of all,
+- [01:22:41,220 - 01:22:47,920] A is 1 over beta log Z.
+- [01:22:50,260 - 01:22:52,680] That's easy if I know the partition function.
+- [01:22:53,040 - 01:22:53,920] In other words,
+- [01:22:53,920 - 01:22:56,040] beta times A just gives me log Z.
+- [01:22:58,980 - 01:22:59,540] Minus...
+- [01:23:00,220 - 01:23:00,620] Now,
+- [01:23:00,620 - 01:23:02,120] what's E in terms of log Z?
+- [01:23:04,660 - 01:23:06,740] The derivative of log Z.
+- [01:23:15,400 - 01:23:16,980] All I think times beta,
+- [01:23:16,980 - 01:23:17,300] right?
+- [01:23:18,220 - 01:23:20,020] I think it's E minus A.
+- [01:23:20,740 - 01:23:22,560] Is it E minus A or A minus E?
+- [01:23:22,900 - 01:23:23,540] E minus A.
+- [01:23:23,860 - 01:23:24,660] E minus A?
+- [01:23:25,000 - 01:23:25,240] Yeah.
+- [01:23:30,040 - 01:23:31,460] I can never remember.
+- [01:23:33,140 - 01:23:33,580] Okay.
+- [01:23:35,440 - 01:23:36,020] All right.
+- [01:23:36,040 - 01:23:37,240] So it's the sum of two terms.
+- [01:23:37,360 - 01:23:39,400] The sum of the two terms,
+- [01:23:39,400 - 01:23:39,840] S.
+- [01:23:39,840 - 01:23:43,280] S is first of all equal to minus log Z.
+- [01:23:45,240 - 01:23:46,740] That's not too hard to calculate.
+- [01:23:50,040 - 01:23:51,000] Plus beta...
+- [01:23:51,000 - 01:23:52,100] Or minus,
+- [01:23:52,100 - 01:23:52,580] I guess.
+- [01:23:52,720 - 01:23:53,020] No,
+- [01:23:53,020 - 01:23:53,660] minus or plus.
+- [01:23:53,860 - 01:23:58,620] Plus beta d log Z by d beta.
+- [01:23:59,800 - 01:24:00,280] Okay.
+- [01:24:00,340 - 01:24:00,480] Now,
+- [01:24:00,480 - 01:24:01,120] that's not so bad.
+- [01:24:01,380 - 01:24:04,300] But if we actually go and calculate it,
+- [01:24:04,380 - 01:24:05,480] we're going to find out
+- [01:24:05,480 - 01:24:06,580] that it's kind of a mess.
+- [01:24:07,300 - 01:24:08,600] Not too bad a mess.
+- [01:24:08,600 - 01:24:10,780] But just for the free gas alone,
+- [01:24:11,040 - 01:24:12,040] for the free gas alone,
+- [01:24:12,520 - 01:24:15,840] it has logarithms in it.
+- [01:24:15,960 - 01:24:18,160] And logarithms are sort of hateful.
+- [01:24:22,700 - 01:24:24,540] It has things which are logarithms
+- [01:24:24,540 - 01:24:26,100] and things which are not logarithms.
+- [01:24:26,560 - 01:24:27,620] So let's see what it has.
+- [01:24:27,720 - 01:24:28,980] It has logarithms of Z,
+- [01:24:29,180 - 01:24:30,220] which is all this stuff.
+- [01:24:30,320 - 01:24:30,960] In particular,
+- [01:24:30,960 - 01:24:32,260] the important pieces of it
+- [01:24:32,260 - 01:24:38,220] are N log V minus 3N over 2.
+- [01:24:38,220 - 01:24:43,680] Log beta plus this constant stuff over here,
+- [01:24:43,780 - 01:24:45,920] which is not important when we differentiate it.
+- [01:24:46,960 - 01:24:53,240] And then beta d log Z by d beta.
+- [01:24:53,460 - 01:24:55,220] But this is just the energy.
+- [01:24:55,420 - 01:24:57,540] D log Z by d beta is minus the energy.
+- [01:24:57,920 - 01:25:00,520] So this is minus beta.
+- [01:25:00,680 - 01:25:03,460] I think it's minus beta times the energy.
+- [01:25:03,720 - 01:25:04,600] And what was the energy?
+- [01:25:04,720 - 01:25:06,760] The energy was 3 halves.
+- [01:25:07,660 - 01:25:08,200] 3 halves.
+- [01:25:11,119 - 01:25:13,660] N times T over beta.
+- [01:25:13,880 - 01:25:14,520] Sorry.
+- [01:25:14,680 - 01:25:15,580] The betas cancel,
+- [01:25:15,580 - 01:25:16,180] I think.
+- [01:25:16,400 - 01:25:17,360] Did the betas cancel?
+- [01:25:19,000 - 01:25:20,260] I think the betas cancel.
+- [01:25:24,400 - 01:25:26,400] Why did the betas cancel?
+- [01:25:29,980 - 01:25:30,300] Yeah,
+- [01:25:30,300 - 01:25:31,040] the betas cancel.
+- [01:25:31,420 - 01:25:32,920] So this is the entropy.
+- [01:25:34,140 - 01:25:36,900] And the entropy involves logarithm of,
+- [01:25:38,220 - 01:25:38,960] logarithm of beta.
+- [01:25:39,800 - 01:25:41,640] And so if I try to calculate,
+- [01:25:41,960 - 01:25:42,620] well,
+- [01:25:42,620 - 01:25:43,920] it's just a little bit complicated.
+- [01:25:44,040 - 01:25:44,960] In this particular case,
+- [01:25:45,140 - 01:25:48,460] if I try to calculate the pressure
+- [01:25:49,080 - 01:25:50,780] as the derivative of the energy
+- [01:25:50,780 - 01:25:57,060] with respect to volume keeping entropy fixed,
+- [01:25:57,480 - 01:26:01,980] I would have to remember to keep log beta fixed.
+- [01:26:03,080 - 01:26:04,600] That's a little bit of a nuisance.
+- [01:26:04,800 - 01:26:07,660] It's more complicated than just differentiating
+- [01:26:07,660 - 01:26:10,060] the free energy with respect to the volume,
+- [01:26:10,280 - 01:26:12,000] keeping beta fixed.
+- [01:26:12,560 - 01:26:15,000] Keeping the energy fixed,
+- [01:26:15,400 - 01:26:16,000] sorry,
+- [01:26:16,000 - 01:26:17,560] keep differentiating the energy,
+- [01:26:17,720 - 01:26:21,060] keeping the entropy fixed is a more complicated process
+- [01:26:21,060 - 01:26:23,060] and we have to remember to keep this fixed
+- [01:26:23,650 - 01:26:26,360] as you differentiate the energy with respect to the volume.
+- [01:26:27,060 - 01:26:28,960] This is the tip of the iceberg
+- [01:26:28,960 - 01:26:31,100] because this is an extremely simple system,
+- [01:26:31,880 - 01:26:32,960] the free gas.
+- [01:26:33,220 - 01:26:35,560] Normally the entropy is a rather complicated
+- [01:26:35,560 - 01:26:36,900] and nasty function.
+- [01:26:37,660 - 01:26:40,480] And keeping it fixed while you differentiate the energy
+- [01:26:40,480 - 01:26:41,540] can be very hard.
+- [01:26:41,760 - 01:26:42,720] On the other hand,
+- [01:26:42,720 - 01:26:44,640] if you can calculate the partition function,
+- [01:26:45,040 - 01:26:47,560] all you have to do is differentiate the volume,
+- [01:26:47,820 - 01:26:49,300] keeping the free energy,
+- [01:26:49,420 - 01:26:50,700] keeping log z fixed,
+- [01:26:50,960 - 01:26:51,940] and that's your,
+- [01:26:52,200 - 01:26:53,500] that's the,
+- [01:26:54,339 - 01:26:55,300] fewer steps.
+- [01:26:58,219 - 01:26:58,740] So,
+- [01:26:58,740 - 01:27:00,440] Helmholtz free energy is a good thing.
+- [01:27:02,960 - 01:27:04,580] It has all sorts of applications
+- [01:27:04,580 - 01:27:06,420] and its main advantage
+- [01:27:06,420 - 01:27:08,400] is that the things that you calculate
+- [01:27:08,400 - 01:27:10,620] are generally at fixed temperature.
+- [01:27:12,220 - 01:27:13,040] Any questions?
+- [01:27:14,360 - 01:27:14,840] Yeah?
+- [01:27:14,980 - 01:27:16,640] Why is it called a partition function?
+- [01:27:16,880 - 01:27:17,240] I don't know.
+- [01:27:18,860 - 01:27:20,100] I really don't know.
+- [01:27:20,200 - 01:27:20,720] I think it has,
+- [01:27:20,800 - 01:27:22,520] I suspect it has to do with,
+- [01:27:23,200 - 01:27:23,680] well,
+- [01:27:23,680 - 01:27:25,100] there is a thing in mathematics
+- [01:27:25,100 - 01:27:26,280] called a partition function,
+- [01:27:26,540 - 01:27:30,420] which is the number of ways of summing up a,
+- [01:27:32,200 - 01:27:33,880] I don't know the origin of it,
+- [01:27:33,980 - 01:27:35,620] but it probably has to do with
+- [01:27:36,240 - 01:27:39,240] partitioning the energy into these bins there,
+- [01:27:39,360 - 01:27:41,500] how many ways are there of partitioning the energy,
+- [01:27:41,900 - 01:27:43,180] but I don't know for sure.
+- [01:27:44,300 - 01:27:45,580] Why is it free energy?
+- [01:27:45,700 - 01:27:46,500] What's free about it?
+- [01:27:46,720 - 01:27:47,200] Don't know.
+- [01:27:47,500 - 01:27:47,860] Again,
+- [01:27:47,860 - 01:27:48,500] I don't know.
+- [01:27:48,820 - 01:27:50,480] This terminology is historical
+- [01:27:50,480 - 01:27:52,780] and I do not know what's free about it.
+- [01:27:52,820 - 01:27:53,200] I don't know.
+- [01:27:53,260 - 01:27:53,520] Nothing.
+- [01:27:57,080 - 01:27:57,880] I don't know.
+- [01:27:58,680 - 01:28:00,560] And it's not the only kind of free energy.
+- [01:28:00,700 - 01:28:01,960] It's the Helmholtz free energy.
+- [01:28:02,160 - 01:28:03,380] What does it have to do with Helmholtz?
+- [01:28:03,380 - 01:28:03,560] Again,
+- [01:28:03,560 - 01:28:04,140] I don't know.
+- [01:28:06,420 - 01:28:08,020] There's also a Gibbs free energy.
+- [01:28:09,860 - 01:28:10,260] Question,
+- [01:28:10,260 - 01:28:10,920] the free energy,
+- [01:28:11,080 - 01:28:11,980] Helmholtz free energy,
+- [01:28:12,140 - 01:28:12,940] since tip here is in there,
+- [01:28:13,020 - 01:28:14,340] does that imply it's an equilibrium,
+- [01:28:14,900 - 01:28:17,520] it only pertains to an equilibrium state?
+- [01:28:17,920 - 01:28:18,120] Yeah.
+- [01:28:19,620 - 01:28:21,660] Because it has the temperature in its definition.
+- [01:28:22,680 - 01:28:23,080] Well,
+- [01:28:23,080 - 01:28:24,780] the whole idea of a partition function,
+- [01:28:26,860 - 01:28:27,660] now again,
+- [01:28:27,660 - 01:28:28,500] it's one of these things,
+- [01:28:28,540 - 01:28:30,040] if there are very slow variations,
+- [01:28:31,220 - 01:28:33,540] you can ascribe a free energy
+- [01:28:33,540 - 01:28:35,140] to small volumes,
+- [01:28:36,360 - 01:28:38,360] as long as things are varying slowly
+- [01:28:38,360 - 01:28:39,720] over distance and time.
+- [01:28:40,640 - 01:28:40,720] So,
+- [01:28:45,400 - 01:28:46,300] another example,
+- [01:28:47,380 - 01:28:48,880] or another general way
+- [01:28:48,880 - 01:28:50,800] in which free energy is important,
+- [01:28:51,820 - 01:28:53,040] if you have a,
+- [01:28:55,640 - 01:28:56,040] well,
+- [01:28:56,040 - 01:28:56,960] let's first take the,
+- [01:29:05,360 - 01:29:08,760] Supposing you have a movable partition,
+- [01:29:09,440 - 01:29:10,780] this is just an example,
+- [01:29:11,480 - 01:29:12,500] movable partition
+- [01:29:13,900 - 01:29:15,640] with gas on both sides,
+- [01:29:15,840 - 01:29:17,580] and the partition is,
+- [01:29:21,059 - 01:29:23,960] is free to transmit energy
+- [01:29:23,960 - 01:29:25,620] between the two parts of the system,
+- [01:29:26,259 - 01:29:27,020] then .
+- [01:29:27,020 - 01:29:28,060] .
+- [01:29:28,060 - 01:29:28,060] .
+- [01:29:29,620 - 01:29:31,980] it will have pressure on it from both sides
+- [01:29:33,860 - 01:29:36,460] what is the equilibrium configuration?
+- [01:29:37,100 - 01:29:39,200] the equilibrium configuration of this partition
+- [01:29:39,980 - 01:29:41,880] is when the pressure from both sides are equal
+- [01:29:42,639 - 01:29:44,369] in other words when the net force
+- [01:29:44,369 - 01:29:46,100] on the partition is equal to zero
+- [01:29:47,079 - 01:29:49,449] that means that the derivative of
+- [01:29:49,449 - 01:29:51,820] the free energy of the left side
+- [01:29:54,740 - 01:29:56,020] with respect to
+- [01:29:56,020 - 01:29:59,040] the volume of the left side
+- [01:30:00,599 - 01:30:01,600] must equal
+- [01:30:02,480 - 01:30:04,920] the derivative of the free energy
+- [01:30:04,920 - 01:30:06,800] of the right side
+- [01:30:06,800 - 01:30:09,540] with respect to the volume of the right side
+- [01:30:10,759 - 01:30:12,309] but a small change in
+- [01:30:12,309 - 01:30:13,860] the volume of the left side
+- [01:30:14,639 - 01:30:17,239] will give you the negative of the small
+- [01:30:17,239 - 01:30:19,840] change of the volume on the right side
+- [01:30:20,559 - 01:30:22,239] so if we referred everything
+- [01:30:22,239 - 01:30:23,920] let's say to the left side
+- [01:30:23,920 - 01:30:25,460] this would become
+- [01:30:25,460 - 01:30:26,000] much more
+- [01:30:26,000 - 01:30:26,340] minus
+- [01:30:26,340 - 01:30:29,500] the derivative of the right side of free energy
+- [01:30:30,360 - 01:30:32,540] with respect to the volume of the left side
+- [01:30:33,660 - 01:30:34,880] in other words
+- [01:30:35,320 - 01:30:38,120] we would write that the derivative of the free energy
+- [01:30:38,840 - 01:30:40,120] left plus right
+- [01:30:41,320 - 01:30:42,900] just transpose to the other side
+- [01:30:43,679 - 01:30:44,740] left plus right
+- [01:30:45,460 - 01:30:48,100] with respect to the position of the partition
+- [01:30:48,820 - 01:30:49,760] is equal to zero
+- [01:30:50,660 - 01:30:52,720] okay we just put this on the other side
+- [01:30:59,680 - 01:31:02,320] let me walk through a few boxes
+- [01:31:02,320 - 01:31:03,360] we were we see a lot of no surface pode
+- [01:31:03,360 - 01:31:11,880] so i don't think that's practical
+- [01:31:11,880 - 01:31:12,360] again i want to say that
+- [01:31:12,360 - 01:31:12,840] the repetition of less than and minus
+- [01:31:12,840 - 01:31:13,080] nothing else
+- [01:31:13,080 - 01:31:13,200] you need to be born
+- [01:31:13,200 - 01:31:14,760] don't forget you do
+- [01:31:21,980 - 01:31:22,700] denim
+- [01:31:22,700 - 01:31:23,980] is in a heat bath,
+- [01:31:23,980 - 01:31:26,670] if the whole system is in a
+- [01:31:26,670 - 01:31:29,360] heat bath which keeps it at constant
+- [01:31:29,360 - 01:31:29,900] temperature,
+- [01:31:29,900 - 01:31:31,420] as the changes happen,
+- [01:31:31,420 - 01:31:33,200] the heat bath is enormous.
+- [01:31:33,200 - 01:31:35,540] So as changes happen,
+- [01:31:35,540 - 01:31:36,260] assume
+- [01:31:36,260 - 01:31:38,600] the temperature of the heat bath doesn't change.
+- [01:31:38,600 - 01:31:41,660] If the system is in a gigantic heat bath,
+- [01:31:42,660 - 01:31:44,970] and we want to find out
+- [01:31:44,970 - 01:31:47,280] the equilibrium position of this partition,
+- [01:31:47,280 - 01:31:49,880] it's where the free energy
+- [01:31:49,880 - 01:31:50,840] is stationary,
+- [01:31:50,840 - 01:31:55,460] not where the original ordinary energy is stationary.
+- [01:31:55,460 - 01:31:58,200] So equilibrium,
+- [01:31:58,200 - 01:31:59,580] in a
+- [01:31:59,580 - 01:32:02,040] situation where the temperature is held constant,
+- [01:32:02,040 - 01:32:04,800] temperature typically is held constant by
+- [01:32:04,800 - 01:32:05,900] being in a big heat bath,
+- [01:32:05,900 - 01:32:08,960] if the temperature is being held constant,
+- [01:32:08,960 - 01:32:11,420] then the mechanical
+- [01:32:12,300 - 01:32:16,460] equilibrium happens not where the energy is minimum,
+- [01:32:16,460 - 01:32:19,660] but where the free energy is minimum.
+- [01:32:22,259 - 01:32:23,520] That's a bit of a surprise.
+- [01:32:23,520 - 01:32:24,930] You might have expected where
+- [01:32:24,930 - 01:32:26,340] it's where the energy is minimum.
+- [01:32:26,500 - 01:32:26,980] It is not.
+- [01:32:26,980 - 01:32:28,440] It's where the free energy is minimum.
+- [01:32:28,440 - 01:32:30,020] Now of course,
+- [01:32:30,020 - 01:32:32,180] in saying that you're in a
+- [01:32:32,180 - 01:32:32,620] heat bath,
+- [01:32:32,620 - 01:32:35,140] it's assumed that energy can flow
+- [01:32:35,140 - 01:32:37,660] back and forth into the system here.
+- [01:32:37,660 - 01:32:42,060] So that's
+- [01:32:42,060 - 01:32:45,120] a big advantage of free energy,
+- [01:32:45,120 - 01:32:47,490] that it establishes where equilibrium
+- [01:32:47,490 - 01:32:49,860] is in a system where there's
+- [01:32:58,639 - 01:33:00,160] no energy,
+- [01:33:00,160 - 01:33:01,140] and we can't go back and forth
+- [01:33:01,140 - 01:33:02,120] between temperature and what's in the system.
+- [01:33:02,120 - 01:33:04,860] What we derived under those circumstances,
+- [01:33:04,860 - 01:33:06,700] under the adiabatic circumstances,
+- [01:33:06,700 - 01:33:07,860] is that
+- [01:33:07,860 - 01:33:10,840] you do use the ordinary energy.
+- [01:33:10,840 - 01:33:18,200] We've swapped ordinary energy for free energy,
+- [01:33:18,200 - 01:33:19,860] and you use
+- [01:33:19,880 - 01:33:21,940] it in an adiabatic for isothermal.
+- [01:33:21,940 - 01:33:27,180] Adiabatic is harder as a general rule than isothermal.
+- [01:33:27,420 - 01:33:28,820] Isothermal means fixed temperature.
+- [01:33:28,820 - 01:33:31,600] So actually,
+- [01:33:31,600 - 01:33:37,120] you would get a different equilibrium position
+- [01:33:37,960 - 01:33:40,400] if you had adiabatic walls,
+- [01:33:40,400 - 01:33:43,260] which didn't allow energy into and out of the system.
+- [01:33:43,260 - 01:33:45,440] Then the
+- [01:33:45,440 - 01:33:47,650] temperature would not be kept constant
+- [01:33:47,650 - 01:33:49,860] and the partition model would move on.
+- [01:33:49,860 - 01:33:49,860] Because it won't let the water into the system.
+- [01:33:49,860 - 01:33:49,860] I don't get it,
+- [01:33:49,860 - 01:33:49,860] but I'ming in with that.
+- [01:33:49,860 - 01:33:49,860] If you healed up energy eventually and you can't
+- [01:33:49,860 - 01:33:52,320] nothing to do with partition function,
+- [01:33:52,320 - 01:33:55,580] the partition here would move in a way
+- [01:33:55,580 - 01:33:57,200] which would minimize the energy.
+- [01:33:57,200 - 01:34:01,540] But if you're keeping it at constant temperature
+- [01:34:01,540 - 01:34:03,880] with energy flowing into and out of the system,
+- [01:34:03,880 - 01:34:06,320] then the equilibrium is when the
+- [01:34:06,320 - 01:34:07,880] free energy is minimized.
+- [01:34:07,880 - 01:34:14,840] So that's an important distinction and sometimes it's
+- [01:34:14,840 - 01:34:17,940] really important for some problems.
+- [01:34:17,940 - 01:34:19,660] Because free energy,
+- [01:34:19,660 - 01:34:20,460] you get a different answer.
+- [01:34:20,580 - 01:34:22,480] You get the wrong answer if you minimize the energy.
+- [01:34:28,780 - 01:34:29,740] Any other questions?
+- [01:34:38,180 - 01:34:38,580] Okay,
+- [01:34:38,580 - 01:34:39,820] mostly what I wanted,
+- [01:34:39,820 - 01:34:41,440] well I wanted to impress on many of you,
+- [01:34:41,440 - 01:34:42,220] many things.
+- [01:34:42,920 - 01:34:43,680] First of all,
+- [01:34:43,680 - 01:34:44,800] the ideal gas is a
+- [01:34:44,800 - 01:34:46,220] interesting system by itself,
+- [01:34:46,220 - 01:34:47,720] but the main thing I
+- [01:34:47,720 - 01:34:49,220] wanted to impress on you is
+- [01:34:49,220 - 01:34:52,340] the power of knowing the partition function.
+- [01:34:52,340 - 01:34:54,840] The power of knowing the
+- [01:34:54,840 - 01:34:55,640] partition function,
+- [01:34:55,640 - 01:34:59,780] once the partition function is calculated,
+- [01:34:59,780 - 01:35:01,180] a series of
+- [01:35:01,180 - 01:35:05,480] almost mechanical steps will derive for you energy,
+- [01:35:05,480 - 01:35:06,740] pressure,
+- [01:35:06,740 - 01:35:08,260] entropy,
+- [01:35:08,260 - 01:35:09,940] fluctuations.
+- [01:35:10,580 - 01:35:13,080] We haven't talked about fluctuations in pressure,
+- [01:35:13,080 - 01:35:14,620] but that's an interesting thing
+- [01:35:14,620 - 01:35:14,780] in a sense.
+- [01:35:14,800 - 01:35:15,810] The power of knowing the partition
+- [01:35:15,810 - 01:35:16,820] function itself has the pressure fluctuate,
+- [01:35:16,820 - 01:35:19,560] and just about every
+- [01:35:19,560 - 01:35:21,900] thermodynamic relationship,
+- [01:35:21,900 - 01:35:24,040] every thermodynamic quantity can
+- [01:35:24,040 - 01:35:26,180] be computed from the partition
+- [01:35:26,180 - 01:35:29,490] function by a relatively simple thing
+- [01:35:29,490 - 01:35:32,800] of usually differentiating the partition function.
+- [01:35:34,190 - 01:35:35,640] So it's a powerful tool.
+- [01:35:40,309 - 01:35:40,700] Okay.
+- [01:35:42,530 - 01:35:43,220] For more,
+- [01:35:43,220 - 01:35:44,560] please visit us at
+- [01:35:44,560 - 01:35:45,680] stanford.edu.
