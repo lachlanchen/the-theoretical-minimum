@@ -1,0 +1,2599 @@
+# Transcript
+
+Source: core/statistical_mechanics/2013_spring_modern_physics/072 - Lecture 8 ｜ Modern Physics： Statistical Mechanics [830_4EVNu5M].mkv
+
+- [00:00:05,199 - 00:00:06,160] Stanford University.
+- [00:00:08,440 - 00:00:09,100] All right,
+- [00:00:09,100 - 00:00:11,000] I want to come to a new class of systems.
+- [00:00:11,800 - 00:00:13,800] It was a very interesting class of systems.
+- [00:00:13,900 - 00:00:14,900] They're usually called magnets,
+- [00:00:14,900 - 00:00:15,720] magnetic systems.
+- [00:00:16,560 - 00:00:18,150] But they may or may not
+- [00:00:18,150 - 00:00:19,740] have anything to do with genuine magnets.
+- [00:00:22,439 - 00:00:23,800] What is a magnet?
+- [00:00:24,320 - 00:00:27,020] A magnet is a collection of little magnets.
+- [00:00:27,020 - 00:00:32,540] And little magnets have the property that they point along,
+- [00:00:32,900 - 00:00:35,880] they tend to align themselves along magnetic field.
+- [00:00:36,600 - 00:00:38,480] But the important thing about them
+- [00:00:38,480 - 00:00:40,360] is that they're little systems which can
+- [00:00:40,360 - 00:00:41,420] point in any direction.
+- [00:00:43,280 - 00:00:44,000] Furthermore,
+- [00:00:44,000 - 00:00:45,180] whatever they are,
+- [00:00:45,180 - 00:00:51,000] whether they're little magnetic grains,
+- [00:00:51,240 - 00:00:54,240] or are they iron atoms,
+- [00:00:54,240 - 00:00:55,480] or something else.
+- [00:00:55,480 - 00:00:58,440] They are themselves little magnets.
+- [00:00:58,660 - 00:00:59,900] And it means they're like,
+- [00:00:59,900 - 00:01:01,480] what do you call those things
+- [00:01:01,480 - 00:01:03,060] that mariners use to figure out
+- [00:01:03,060 - 00:01:03,680] which way they're going?
+- [00:01:03,840 - 00:01:04,220] Compasses,
+- [00:01:04,220 - 00:01:04,660] yes.
+- [00:01:05,440 - 00:01:06,880] They're little compasses,
+- [00:01:06,880 - 00:01:09,080] except they can point in three dimensional space.
+- [00:01:10,040 - 00:01:12,820] They have interactions between them.
+- [00:01:13,120 - 00:01:21,180] And the interactions tend to favor parallel neighbors.
+- [00:01:22,580 - 00:01:25,460] The interactions between them are fairly similar.
+- [00:01:25,460 - 00:01:26,420] They're fairly short range,
+- [00:01:26,420 - 00:01:29,160] which means that roughly speaking,
+- [00:01:29,160 - 00:01:30,920] each magnet affects
+- [00:01:30,920 - 00:01:33,280] its nearest neighbors and tends to make
+- [00:01:33,280 - 00:01:35,640] it want to align in the same direction.
+- [00:01:35,900 - 00:01:38,290] That's the energy function will tend to
+- [00:01:38,290 - 00:01:40,680] be lowest when the magnets are aligned,
+- [00:01:40,680 - 00:01:42,020] biggest
+- [00:01:42,020 - 00:01:43,380] when they're anti-aligned.
+- [00:01:43,900 - 00:01:45,960] You can have the opposite incidentally.
+- [00:01:45,960 - 00:01:48,270] You can have the situation
+- [00:01:48,270 - 00:01:50,580] where the little magnets are favor,
+- [00:01:50,580 - 00:01:52,440] the energy favors anti-alignment.
+- [00:01:52,940 - 00:01:53,580] Then,
+- [00:01:53,580 - 00:01:55,440] it's not called a parallel magnet.
+- [00:01:55,440 - 00:01:58,300] A ferromagnet is a situation where they align.
+- [00:01:58,540 - 00:02:00,300] It's called an anti-ferromagnet,
+- [00:02:00,300 - 00:02:01,800] and it tends to make anti-alignment.
+- [00:02:01,920 - 00:02:02,720] But real magnets,
+- [00:02:02,720 - 00:02:04,240] ferromagnets,
+- [00:02:04,240 - 00:02:04,920] iron magnets,
+- [00:02:04,920 - 00:02:08,100] are systems where the little magnets tend
+- [00:02:08,100 - 00:02:09,139] to align each other.
+- [00:02:10,780 - 00:02:12,860] But they only align their nearest neighbors.
+- [00:02:15,060 - 00:02:15,620] Nevertheless,
+- [00:02:15,620 - 00:02:18,980] even though they only align their nearest neighbors,
+- [00:02:18,980 - 00:02:21,140] at sufficiently low
+- [00:02:21,140 - 00:02:21,620] temperature,
+- [00:02:21,620 - 00:02:23,410] it may be the case
+- [00:02:23,410 - 00:02:25,200] that the fluctuations are weak enough.
+- [00:02:25,440 - 00:02:26,820] At very high temperatures,
+- [00:02:26,820 - 00:02:28,100] they fluctuate like mad.
+- [00:02:28,520 - 00:02:30,260] At very,
+- [00:02:30,260 - 00:02:31,200] very low temperatures,
+- [00:02:31,200 - 00:02:35,160] only the lowest energy states are important.
+- [00:02:35,580 - 00:02:38,010] And the lowest energy states all have
+- [00:02:38,010 - 00:02:40,440] the magnets aligned along the same direction.
+- [00:02:41,120 - 00:02:42,320] Which direction?
+- [00:02:42,540 - 00:02:42,900] Well,
+- [00:02:42,900 - 00:02:43,640] any direction,
+- [00:02:43,640 - 00:02:46,320] but along the same direction.
+- [00:02:46,900 - 00:02:49,790] So a ferromagnet is a
+- [00:02:49,790 - 00:02:52,680] system certainly which at zero temperature,
+- [00:02:52,680 - 00:02:54,460] when there are no fluctuations,
+- [00:02:55,440 - 00:02:56,320] tends to align.
+- [00:02:56,740 - 00:02:58,500] And it aligns by the
+- [00:02:58,500 - 00:03:00,260] first one aligning the second one,
+- [00:03:00,260 - 00:03:01,940] second one aligning your third
+- [00:03:01,940 - 00:03:02,180] one,
+- [00:03:02,180 - 00:03:03,760] third one aligning the fourth one,
+- [00:03:03,760 - 00:03:05,760] and so forth.
+- [00:03:06,060 - 00:03:07,220] Or really,
+- [00:03:07,220 - 00:03:08,960] we're not thinking about a line of them.
+- [00:03:09,040 - 00:03:11,260] We may be thinking about a three-dimensional block of them,
+- [00:03:11,260 - 00:03:13,340] each one aligning its neighbors,
+- [00:03:13,860 - 00:03:17,000] and the whole thing in some collective way,
+- [00:03:17,000 - 00:03:18,660] all pointing in the same direction.
+- [00:03:20,060 - 00:03:20,880] As I said,
+- [00:03:20,880 - 00:03:21,580] at high temperatures,
+- [00:03:21,580 - 00:03:23,120] they tend to fluctuate wildly.
+- [00:03:23,120 - 00:03:26,380] And so it's not likely that at high temperatures,
+- [00:03:26,380 - 00:03:29,000] this phenomena of alignment will persist.
+- [00:03:30,500 - 00:03:31,860] We make models.
+- [00:03:32,160 - 00:03:35,800] We make various kinds of models of magnets,
+- [00:03:35,800 - 00:03:37,520] mathematical models.
+- [00:03:37,640 - 00:03:38,560] The real thing,
+- [00:03:38,560 - 00:03:39,980] the real genuine thing,
+- [00:03:39,980 - 00:03:45,000] a bunch of interacting iron atoms,
+- [00:03:45,000 - 00:03:46,620] is much too
+- [00:03:46,620 - 00:03:47,420] hard to solve.
+- [00:03:47,540 - 00:03:53,060] If for no other reason than the interactions are not...
+- [00:03:53,060 - 00:03:53,890] If for no other reason than the
+- [00:03:53,890 - 00:03:54,720] interactions are not between just nearest neighbors,
+- [00:03:54,720 - 00:03:55,720] there's
+- [00:03:55,720 - 00:03:57,510] a tendency for the interaction to
+- [00:03:57,510 - 00:03:59,300] slop over to second nearest neighbors,
+- [00:03:59,300 - 00:03:59,820] third nearest
+- [00:03:59,820 - 00:04:00,420] neighbors.
+- [00:04:00,620 - 00:04:03,380] And this makes a nightmare of a mathematical system,
+- [00:04:03,380 - 00:04:05,980] too complicated to solve in detail.
+- [00:04:06,340 - 00:04:08,800] So we make simplified models.
+- [00:04:09,540 - 00:04:13,400] The first kind of simplified model is called an...
+- [00:04:13,400 - 00:04:13,840] Well,
+- [00:04:13,840 - 00:04:16,519] the first kind of simplified model is
+- [00:04:16,519 - 00:04:19,200] even so simplified that it doesn't have any
+- [00:04:19,200 - 00:04:20,740] interaction between its neighbors.
+- [00:04:21,620 - 00:04:22,380] All right.
+- [00:04:22,380 - 00:04:23,960] The first kind of magnet we're going
+- [00:04:23,960 - 00:04:25,540] to study is not even really a magnet.
+- [00:04:25,780 - 00:04:27,900] It has no interaction between its neighbors.
+- [00:04:28,420 - 00:04:31,780] But the special simplifying feature of it
+- [00:04:31,780 - 00:04:35,140] is this is a magnet whose little individual
+- [00:04:35,140 - 00:04:38,260] magnets can only point in one of two directions,
+- [00:04:38,260 - 00:04:41,180] either up or down.
+- [00:04:42,780 - 00:04:44,600] It's called a Z2 magnet.
+- [00:04:44,920 - 00:04:45,900] Why Z2?
+- [00:04:45,980 - 00:04:49,060] Z2 is the group of two elements,
+- [00:04:49,060 - 00:04:50,080] up and down,
+- [00:04:50,080 - 00:04:50,520] basically.
+- [00:04:50,640 - 00:04:51,980] But that's not important to us.
+- [00:04:52,100 - 00:04:52,360] All right.
+- [00:04:52,380 - 00:04:52,600] So we're going to study a Z2 magnet.
+- [00:04:52,600 - 00:04:53,620] It's called a Z2 magnet.
+- [00:04:53,760 - 00:04:54,840] And most studies,
+- [00:04:54,840 - 00:04:56,760] or most of the early studies of magnets,
+- [00:04:56,760 - 00:04:58,840] were about Z2 magnets.
+- [00:04:59,140 - 00:04:59,780] All right.
+- [00:04:59,800 - 00:05:02,200] So that means we're building our magnet out
+- [00:05:02,200 - 00:05:04,600] of little elements which have only two possible
+- [00:05:04,600 - 00:05:05,100] states.
+- [00:05:05,680 - 00:05:08,040] Either they're up or they're down.
+- [00:05:09,080 - 00:05:11,000] And we're making an array of them.
+- [00:05:11,520 - 00:05:13,660] We might study different kinds of models.
+- [00:05:13,820 - 00:05:16,380] We might study models in which it's a one-dimensional array.
+- [00:05:16,960 - 00:05:19,600] We might study two-dimensional arrays of them,
+- [00:05:19,600 - 00:05:21,020] and so forth and so on.
+- [00:05:22,380 - 00:05:24,860] We might even study very high-dimensional arrays.
+- [00:05:25,160 - 00:05:28,120] Not because anybody can build a high-dimensional magnet.
+- [00:05:29,860 - 00:05:32,070] It's because the mathematics of high-dimensional
+- [00:05:32,070 - 00:05:34,280] magnets turns out to be especially simple,
+- [00:05:34,480 - 00:05:35,680] for reasons I'll tell you later.
+- [00:05:36,520 - 00:05:36,900] All right.
+- [00:05:36,920 - 00:05:39,490] So we have these systems which are
+- [00:05:39,490 - 00:05:42,060] composed of these elementary magnets which are very
+- [00:05:42,060 - 00:05:42,440] simple.
+- [00:05:42,600 - 00:05:45,440] They either point up or they point down.
+- [00:05:46,379 - 00:05:49,059] And in the examples that we're
+- [00:05:49,059 - 00:05:51,740] ultimately going to want to study,
+- [00:05:51,740 - 00:05:52,360] we're going to want
+- [00:05:52,380 - 00:05:52,720] to look at the energy state of these magnets.
+- [00:05:52,720 - 00:05:52,720] And in the example that we're looking at,
+- [00:05:52,720 - 00:05:54,900] there's an energy function which,
+- [00:05:54,900 - 00:05:55,440] let us
+- [00:05:55,440 - 00:05:55,640] say,
+- [00:05:55,640 - 00:05:59,360] favors neighbors being in the same direction.
+- [00:05:59,700 - 00:06:00,400] All right.
+- [00:06:00,440 - 00:06:04,520] So a high-energy state would
+- [00:06:04,520 - 00:06:08,600] be neighboring magnets in opposite directions.
+- [00:06:08,680 - 00:06:10,510] A low-energy state would be
+- [00:06:10,510 - 00:06:12,340] neighboring magnets in the same direction.
+- [00:06:13,620 - 00:06:15,340] And so at zero temperature,
+- [00:06:15,340 - 00:06:18,640] which will pick out the lowest energy state,
+- [00:06:18,640 - 00:06:19,880] there are only
+- [00:06:19,880 - 00:06:20,740] two of them.
+- [00:06:20,740 - 00:06:25,140] Either all magnets pointing up or all magnets pointing down.
+- [00:06:25,260 - 00:06:27,080] All the little elementary magnets
+- [00:06:27,080 - 00:06:28,900] pointing up or all pointing down.
+- [00:06:29,640 - 00:06:31,980] I'll assume for the moment that the system
+- [00:06:31,980 - 00:06:34,320] is symmetric with respect to up and down.
+- [00:06:35,260 - 00:06:37,740] If it's symmetric with respect to up and down,
+- [00:06:37,740 - 00:06:39,360] then the energy function,
+- [00:06:39,360 - 00:06:40,460] whatever it is,
+- [00:06:40,979 - 00:06:42,440] between two neighboring magnets,
+- [00:06:42,440 - 00:06:46,980] will be one thing if the two are parallel.
+- [00:06:47,140 - 00:06:47,820] In other words,
+- [00:06:47,820 - 00:06:49,020] the same energy if they're
+- [00:06:49,020 - 00:06:50,220] both up or they're both down.
+- [00:06:50,320 - 00:06:50,720] All right.
+- [00:06:52,400 - 00:06:52,840] So if the two are parallel,
+- [00:06:52,840 - 00:06:52,840] then the energy function is one
+- [00:06:52,840 - 00:06:52,840] thing if they're both up or
+- [00:06:52,840 - 00:06:54,690] And a higher energy if one
+- [00:06:54,690 - 00:06:56,540] is up and one is down,
+- [00:06:56,540 - 00:06:58,960] or one is down and one is up.
+- [00:07:00,640 - 00:07:03,800] That's a simple system that we can try to study.
+- [00:07:06,100 - 00:07:07,240] An array of them,
+- [00:07:07,240 - 00:07:08,700] one-dimensional array,
+- [00:07:08,700 - 00:07:09,660] two-dimensional array,
+- [00:07:09,660 - 00:07:10,520] three-dimensional array.
+- [00:07:10,620 - 00:07:10,780] In fact,
+- [00:07:10,780 - 00:07:13,220] we could just study two atoms like this.
+- [00:07:13,740 - 00:07:14,740] We'll call them spins.
+- [00:07:15,240 - 00:07:16,480] What they have to do with spins,
+- [00:07:16,480 - 00:07:17,280] nothing is spinning.
+- [00:07:17,840 - 00:07:19,380] It's just a name for them,
+- [00:07:19,380 - 00:07:20,620] spins and spins.
+- [00:07:20,620 - 00:07:20,700] And the spin is the same thing.
+- [00:07:20,720 - 00:07:21,900] The spin is either up or down,
+- [00:07:21,900 - 00:07:24,820] and the energy favors having them parallel.
+- [00:07:26,470 - 00:07:27,480] So at zero temperature,
+- [00:07:27,480 - 00:07:28,780] they will all line up,
+- [00:07:28,780 - 00:07:30,260] either up or down.
+- [00:07:30,980 - 00:07:32,260] Which is it going to be?
+- [00:07:32,320 - 00:07:33,050] Is it going to be up
+- [00:07:33,050 - 00:07:33,780] or is it going to be down?
+- [00:07:36,080 - 00:07:38,940] The answer is both are low-energy states.
+- [00:07:39,320 - 00:07:41,720] So we can say they're,
+- [00:07:41,720 - 00:07:42,600] well,
+- [00:07:42,600 - 00:07:45,540] technically we would say the ground state is degenerate.
+- [00:07:45,760 - 00:07:47,790] Two possible equal-energy ground
+- [00:07:47,790 - 00:07:49,820] states are lowest-energy states.
+- [00:07:50,720 - 00:07:53,160] But that means whether it's up or
+- [00:07:53,160 - 00:07:55,600] down is going to depend on minute effects,
+- [00:07:56,480 - 00:07:57,080] such as,
+- [00:07:57,080 - 00:07:57,760] for example,
+- [00:07:57,760 - 00:07:58,960] a tiny,
+- [00:07:58,960 - 00:08:00,800] tiny stray magnetic field.
+- [00:08:01,740 - 00:08:02,720] A tiny,
+- [00:08:02,720 - 00:08:03,940] tiny stray by a tiny,
+- [00:08:03,940 - 00:08:05,260] tiny stray magnetic field,
+- [00:08:05,360 - 00:08:08,580] I mean some almost infinitesimally small magnetic field,
+- [00:08:08,580 - 00:08:10,060] extremely small,
+- [00:08:10,400 - 00:08:12,660] which might even be too small to measure,
+- [00:08:12,660 - 00:08:18,200] but still might favor one direction or the other.
+- [00:08:18,280 - 00:08:20,080] There are so many of these little magnets.
+- [00:08:20,720 - 00:08:22,870] And they're all in
+- [00:08:22,870 - 00:08:25,020] this infinitesimally small magnetic field.
+- [00:08:26,020 - 00:08:28,300] And so they all line up in that direction.
+- [00:08:28,660 - 00:08:31,190] If we changed this infinitesimally small
+- [00:08:31,190 - 00:08:33,720] magnetic field from up to down,
+- [00:08:33,919 - 00:08:36,080] all the spins would want to be down.
+- [00:08:36,720 - 00:08:39,679] No matter how small that magnetic field is,
+- [00:08:39,679 - 00:08:41,699] the ground state will either
+- [00:08:41,699 - 00:08:43,720] be all up or all down.
+- [00:08:45,000 - 00:08:47,840] And if we imagine a limit in
+- [00:08:47,840 - 00:08:50,680] which that background magnetic field gets smaller,
+- [00:08:50,720 - 00:08:51,220] and smaller,
+- [00:08:51,220 - 00:08:51,720] and smaller,
+- [00:08:51,720 - 00:08:53,600] the magnetization,
+- [00:08:53,800 - 00:08:56,640] the magnetization means the tendency for all the spins
+- [00:08:56,640 - 00:08:59,480] to be up or all the spins to be down,
+- [00:08:59,560 - 00:09:00,260] it doesn't go away.
+- [00:09:00,700 - 00:09:03,350] It just stays there until
+- [00:09:03,350 - 00:09:06,000] the external magnetic field reverses sign,
+- [00:09:06,280 - 00:09:09,000] and then they might all simultaneously reverse sign.
+- [00:09:09,740 - 00:09:13,200] This is called spontaneous symmetry breaking.
+- [00:09:13,660 - 00:09:15,580] The system has a symmetry.
+- [00:09:15,940 - 00:09:16,960] What is a symmetry?
+- [00:09:17,380 - 00:09:20,180] You take all the spins and you flip them.
+- [00:09:20,720 - 00:09:22,900] You turn all ups to downs.
+- [00:09:23,340 - 00:09:25,840] If you turn all ups to downs,
+- [00:09:25,840 - 00:09:27,980] the energy stays exactly the same,
+- [00:09:28,680 - 00:09:30,280] ignoring this little stray field.
+- [00:09:31,340 - 00:09:32,520] All ups have,
+- [00:09:32,520 - 00:09:33,160] I mean,
+- [00:09:33,160 - 00:09:34,460] they don't have to all be up.
+- [00:09:34,600 - 00:09:36,400] Whatever the configuration is,
+- [00:09:36,400 - 00:09:38,980] it might be one up and one down.
+- [00:09:39,120 - 00:09:40,480] If you turn them both over,
+- [00:09:40,480 - 00:09:41,980] you get one down and one up,
+- [00:09:41,980 - 00:09:42,700] same energy.
+- [00:09:43,000 - 00:09:44,620] So this system has a symmetry.
+- [00:09:45,140 - 00:09:46,420] The symmetry being,
+- [00:09:46,420 - 00:09:49,660] let's give these degrees of freedom a name.
+- [00:09:50,720 - 00:09:52,020] Let's call them sigma.
+- [00:09:53,100 - 00:09:54,380] Sigma of I,
+- [00:09:54,380 - 00:09:56,240] the ith spin.
+- [00:09:57,820 - 00:10:00,080] And it's either plus or minus one.
+- [00:10:02,720 - 00:10:04,360] Plus one if it's up,
+- [00:10:04,360 - 00:10:05,900] minus one if it's down.
+- [00:10:06,440 - 00:10:07,480] That's our system,
+- [00:10:07,480 - 00:10:09,840] a collection of these simple degrees of freedom.
+- [00:10:10,460 - 00:10:11,460] The symmetry,
+- [00:10:11,460 - 00:10:12,540] here's the symmetry.
+- [00:10:16,900 - 00:10:18,180] All sigmas,
+- [00:10:18,180 - 00:10:20,560] sigma of I for all I,
+- [00:10:21,900 - 00:10:24,320] goes to minus sigma of I.
+- [00:10:24,960 - 00:10:26,440] All spins flip.
+- [00:10:26,840 - 00:10:29,420] Everything about the system is exactly the same.
+- [00:10:33,719 - 00:10:34,319] But,
+- [00:10:34,319 - 00:10:37,080] if you put on the tiniest magnetic field,
+- [00:10:37,340 - 00:10:39,600] it will tend to line it up in that direction.
+- [00:10:39,940 - 00:10:41,680] And that direction is not symmetric.
+- [00:10:42,200 - 00:10:43,300] It's all up.
+- [00:10:43,880 - 00:10:47,100] So that's called spontaneous symmetry breaking.
+- [00:10:47,340 - 00:10:50,700] Spontaneous means that it doesn't,
+- [00:10:50,700 - 00:10:54,380] it doesn't go away as you shrink the bias.
+- [00:10:54,640 - 00:10:55,920] We can think of the
+- [00:10:55,920 - 00:10:57,200] bias being the tiny magnetic field,
+- [00:10:57,320 - 00:10:58,800] which might bias it in one direction.
+- [00:10:59,380 - 00:11:01,140] We let that magnetic field get,
+- [00:11:01,180 - 00:11:03,680] external magnetic field get smaller and smaller and smaller.
+- [00:11:03,980 - 00:11:04,860] And eventually,
+- [00:11:04,860 - 00:11:06,440] we take it away altogether,
+- [00:11:06,820 - 00:11:08,520] and the spins are left all up.
+- [00:11:08,820 - 00:11:10,290] If we started with the
+- [00:11:10,290 - 00:11:11,760] magnetic field in the opposite direction,
+- [00:11:12,000 - 00:11:14,180] the external magnetic field in the opposite direction,
+- [00:11:14,500 - 00:11:16,420] and then gradually removed it,
+- [00:11:16,560 - 00:11:17,960] all the spins would be down.
+- [00:11:17,960 - 00:11:19,660] So there would be two possibilities,
+- [00:11:20,020 - 00:11:23,440] but either of them would break the symmetry.
+- [00:11:23,700 - 00:11:25,900] Breaking the symmetry means that the configuration
+- [00:11:25,900 - 00:11:29,480] would not have the symmetry of up goes to down,
+- [00:11:29,660 - 00:11:31,700] but would be biased in one direction or another.
+- [00:11:33,140 - 00:11:34,860] That's the phenomenon we want to study.
+- [00:11:35,340 - 00:11:35,900] Now,
+- [00:11:35,900 - 00:11:37,600] another reason for studying it,
+- [00:11:37,660 - 00:11:39,280] magnets are kind of interesting,
+- [00:11:39,280 - 00:11:39,920] of course,
+- [00:11:40,020 - 00:11:42,460] they're lovely little toys to play with,
+- [00:11:42,680 - 00:11:47,440] but another reason for studying these kinds of systems
+- [00:11:47,440 - 00:11:51,200] is because you can model an enormous number
+- [00:11:51,200 - 00:11:54,440] of statistical mechanical systems as magnets.
+- [00:11:55,420 - 00:11:56,680] Let me give you an example.
+- [00:11:57,580 - 00:11:58,720] A gas,
+- [00:11:58,720 - 00:12:00,340] a fluid.
+- [00:12:00,500 - 00:12:02,760] A fluid is a collection of molecules.
+- [00:12:04,100 - 00:12:04,860] Okay?
+- [00:12:05,020 - 00:12:08,240] But I can try to represent that collection of molecules
+- [00:12:08,240 - 00:12:09,260] in the following way.
+- [00:12:09,340 - 00:12:13,100] Break up the container that contains them
+- [00:12:13,100 - 00:12:16,100] into cells,
+- [00:12:17,140 - 00:12:20,640] where the cells are about as big as a molecule.
+- [00:12:21,120 - 00:12:23,960] Let's suppose these molecules have hard cores
+- [00:12:23,960 - 00:12:26,180] and that we can't stick
+- [00:12:26,180 - 00:12:28,400] them on top of each other.
+- [00:12:28,700 - 00:12:30,480] Then if the cells are
+- [00:12:30,480 - 00:12:32,260] about as big as a molecule,
+- [00:12:32,580 - 00:12:34,930] then we can't get two particles
+- [00:12:34,930 - 00:12:37,280] or two molecules into a box.
+- [00:12:37,640 - 00:12:39,960] And so either a box is empty,
+- [00:12:40,080 - 00:12:42,060] or it has a molecule in it.
+- [00:12:42,460 - 00:12:43,100] Again,
+- [00:12:43,100 - 00:12:46,080] two possible states for each molecule.
+- [00:12:46,080 - 00:12:46,280] Each box.
+- [00:12:46,700 - 00:12:47,920] It's either got a molecule,
+- [00:12:48,080 - 00:12:49,320] or it don't got a molecule.
+- [00:12:49,660 - 00:12:52,500] We could call having a molecule up.
+- [00:12:52,680 - 00:12:55,140] We could call not having a molecule down.
+- [00:12:55,900 - 00:13:00,720] And then this system of molecules moving around,
+- [00:13:00,920 - 00:13:03,820] let's just put molecules in various boxes.
+- [00:13:08,040 - 00:13:11,480] This would correspond to a spin up,
+- [00:13:11,640 - 00:13:12,360] a spin down,
+- [00:13:12,360 - 00:13:12,720] down,
+- [00:13:12,720 - 00:13:13,180] down,
+- [00:13:13,180 - 00:13:13,540] down,
+- [00:13:13,540 - 00:13:13,780] down,
+- [00:13:13,900 - 00:13:14,780] up over here,
+- [00:13:14,780 - 00:13:15,840] down everywhere else.
+- [00:13:16,180 - 00:13:18,640] And we map the mathematical problem
+- [00:13:18,640 - 00:13:21,400] of the gas of molecules
+- [00:13:22,340 - 00:13:24,640] into the mathematical problem
+- [00:13:24,640 - 00:13:27,840] of the magnet.
+- [00:13:28,700 - 00:13:29,740] That's a very,
+- [00:13:29,740 - 00:13:32,880] very fruitful avenue of exploration.
+- [00:13:33,180 - 00:13:35,080] It has been a fruitful avenue of explanation.
+- [00:13:35,780 - 00:13:37,020] And for example,
+- [00:13:37,160 - 00:13:38,200] let's pursue it.
+- [00:13:38,240 - 00:13:39,590] Let's pursue it before we actually
+- [00:13:39,590 - 00:13:40,940] get into the mathematics of it.
+- [00:13:41,460 - 00:13:42,080] Let's,
+- [00:13:43,720 - 00:13:45,340] let's think about it a little bit.
+- [00:13:46,880 - 00:13:49,060] What would correspond to the configuration
+- [00:13:49,060 - 00:13:50,900] in which all the molecules were up?
+- [00:13:52,060 - 00:13:52,680] Full.
+- [00:13:54,020 - 00:13:57,720] We absolutely chock-full this system.
+- [00:13:58,060 - 00:13:59,960] We make the gas extremely,
+- [00:14:00,260 - 00:14:00,840] the gas,
+- [00:14:00,980 - 00:14:02,700] we make the system extremely dense.
+- [00:14:03,300 - 00:14:06,840] What corresponds to all the spins being down?
+- [00:14:08,800 - 00:14:09,420] Empty.
+- [00:14:10,140 - 00:14:10,760] So,
+- [00:14:10,760 - 00:14:13,640] the configuration with all molecules up
+- [00:14:13,640 - 00:14:15,800] is the high density limit.
+- [00:14:16,380 - 00:14:21,600] The configuration with all molecules all spins down,
+- [00:14:21,820 - 00:14:23,660] that's the low density limit,
+- [00:14:23,780 - 00:14:25,020] or the vacuum to be specific.
+- [00:14:25,280 - 00:14:27,420] But let's just call it the low density limit.
+- [00:14:27,780 - 00:14:28,380] Okay?
+- [00:14:28,720 - 00:14:31,800] What corresponds to a configuration
+- [00:14:32,800 - 00:14:36,020] where there are equal numbers of ups and downs?
+- [00:14:36,640 - 00:14:37,820] For the magnet,
+- [00:14:38,000 - 00:14:39,760] we would call that unmagnetized.
+- [00:14:40,760 - 00:14:42,400] We would call it unmagnetized
+- [00:14:42,400 - 00:14:43,700] because on the average,
+- [00:14:43,800 - 00:14:46,380] every spin is equally likely to be up and down.
+- [00:14:46,620 - 00:14:48,520] So it's perhaps the situation
+- [00:14:48,520 - 00:14:51,200] where there's enough fluctuation to,
+- [00:14:51,260 - 00:14:52,040] to,
+- [00:14:52,200 - 00:14:56,240] to make on the average every spin be zero.
+- [00:14:56,460 - 00:14:57,980] What would that correspond to,
+- [00:14:58,020 - 00:14:58,500] to this,
+- [00:14:58,500 - 00:14:59,660] to this system here?
+- [00:15:01,800 - 00:15:02,660] Half full.
+- [00:15:02,940 - 00:15:06,440] It would correspond to the density half full.
+- [00:15:07,500 - 00:15:07,780] Okay?
+- [00:15:07,780 - 00:15:08,420] Now,
+- [00:15:09,079 - 00:15:09,680] let's,
+- [00:15:09,680 - 00:15:11,560] let's think about what happens
+- [00:15:11,560 - 00:15:12,960] to the magnet
+- [00:15:15,359 - 00:15:18,580] when we have a little bit of a magnetic field.
+- [00:15:19,160 - 00:15:21,240] We have a little bit of a magnetic field,
+- [00:15:21,440 - 00:15:24,900] and let's suppose it's at some finite temperature.
+- [00:15:25,680 - 00:15:27,360] It's at some finite temperature,
+- [00:15:27,660 - 00:15:29,780] and we put a little magnetic field
+- [00:15:29,780 - 00:15:31,580] which tends to make it point down.
+- [00:15:32,720 - 00:15:33,320] Okay?
+- [00:15:33,820 - 00:15:34,640] All right.
+- [00:15:34,780 - 00:15:36,420] If it's at some finite temperature,
+- [00:15:36,420 - 00:15:38,040] there will be some fluctuation.
+- [00:15:38,140 - 00:15:40,940] All the molecules will not literally point down.
+- [00:15:41,080 - 00:15:42,660] There will be some fluctuation,
+- [00:15:42,800 - 00:15:44,240] but on the average,
+- [00:15:45,420 - 00:15:47,900] they'll point in the direction of the magnetic field,
+- [00:15:48,000 - 00:15:49,560] but maybe with only a weak bias.
+- [00:15:49,720 - 00:15:50,860] As the temperature goes up,
+- [00:15:50,860 - 00:15:51,260] of course,
+- [00:15:51,440 - 00:15:53,260] the bias goes away,
+- [00:15:53,340 - 00:15:55,080] and they tend to fluctuate more.
+- [00:15:55,440 - 00:15:56,640] So at low temperatures,
+- [00:15:56,680 - 00:15:57,840] but not zero temperatures,
+- [00:15:58,440 - 00:16:01,160] what we'll find is that on the average,
+- [00:16:01,340 - 00:16:02,580] the magnets will be down,
+- [00:16:02,640 - 00:16:06,400] but not with a full hundred percent magnetization.
+- [00:16:08,200 - 00:16:10,300] And now we start changing
+- [00:16:10,300 - 00:16:12,400] the magnetic field a little bit,
+- [00:16:12,420 - 00:16:14,040] and we vary it.
+- [00:16:14,760 - 00:16:17,480] It gets smaller and smaller and smaller,
+- [00:16:17,600 - 00:16:19,080] the external magnetic field,
+- [00:16:19,220 - 00:16:21,260] and finally becomes zero,
+- [00:16:21,400 - 00:16:23,740] but then we turn it
+- [00:16:23,740 - 00:16:26,080] on with epsilon amount of it,
+- [00:16:26,100 - 00:16:26,580] tiny amount,
+- [00:16:26,740 - 00:16:27,780] in the opposite direction.
+- [00:16:28,020 - 00:16:28,580] What happens?
+- [00:16:30,520 - 00:16:31,160] Well,
+- [00:16:31,160 - 00:16:35,200] if the magnet had spontaneous magnetization,
+- [00:16:35,420 - 00:16:36,000] in other words,
+- [00:16:36,420 - 00:16:39,900] if this phenomena of
+- [00:16:39,900 - 00:16:43,380] spontaneous symmetry breaking was active,
+- [00:16:44,060 - 00:16:48,040] then there will be a sudden jump in the magnetization,
+- [00:16:48,380 - 00:16:51,120] a sudden jump from more
+- [00:16:51,120 - 00:16:53,860] spins down to more spins up.
+- [00:16:54,080 - 00:16:55,560] What does that mean for the fluid?
+- [00:16:58,260 - 00:16:59,020] Well,
+- [00:16:59,020 - 00:17:00,340] the density.
+- [00:17:00,560 - 00:17:02,760] The density makes a sharp jump.
+- [00:17:03,120 - 00:17:05,099] As we vary some parameter,
+- [00:17:05,099 - 00:17:08,160] let's not worry about now exactly what parameter to vary,
+- [00:17:08,319 - 00:17:10,480] but as we vary some parameter,
+- [00:17:10,700 - 00:17:13,760] whatever the natural analog of the magnetic field is,
+- [00:17:13,819 - 00:17:15,619] we'll find it's the chemical potential in fact,
+- [00:17:15,880 - 00:17:18,280] but as we vary some quantity,
+- [00:17:18,819 - 00:17:22,880] there's a sudden change from a biased situation
+- [00:17:22,880 - 00:17:24,380] where more spins are down,
+- [00:17:24,540 - 00:17:26,079] what does that mean about the density?
+- [00:17:27,180 - 00:17:28,140] Less than half.
+- [00:17:28,800 - 00:17:30,720] To a jump where the
+- [00:17:30,720 - 00:17:32,640] density is more than a half.
+- [00:17:32,860 - 00:17:33,520] What do we call that?
+- [00:17:35,140 - 00:17:36,320] A phase transition.
+- [00:17:36,920 - 00:17:37,020] A phase transition.
+- [00:17:37,020 - 00:17:40,880] And it's a phase transition from a less dense configuration,
+- [00:17:41,380 - 00:17:42,860] we might give a name to that,
+- [00:17:42,920 - 00:17:44,660] we might call it a gas,
+- [00:17:45,340 - 00:17:47,960] to a more dense configuration,
+- [00:17:48,480 - 00:17:50,000] we might give another name to that,
+- [00:17:50,100 - 00:17:50,560] a liquid.
+- [00:17:51,280 - 00:17:51,900] Okay?
+- [00:17:52,220 - 00:17:52,840] So,
+- [00:17:52,840 - 00:17:54,780] just as an example,
+- [00:17:55,040 - 00:17:55,700] many,
+- [00:17:55,700 - 00:17:57,700] many systems can be modeled
+- [00:17:58,880 - 00:18:01,480] as these simple magnetic systems,
+- [00:18:01,740 - 00:18:03,140] we call them magnetic systems,
+- [00:18:03,140 - 00:18:04,560] but they stand for a
+- [00:18:04,560 - 00:18:05,980] lot of different kinds of systems,
+- [00:18:06,960 - 00:18:09,100] and that's why they're so useful.
+- [00:18:09,420 - 00:18:10,640] They're useful for magnets,
+- [00:18:10,760 - 00:18:12,040] but they're also useful for fluids.
+- [00:18:13,160 - 00:18:14,900] The magnetic transition
+- [00:18:16,080 - 00:18:19,040] where sudden spontaneous magnetization happens,
+- [00:18:19,220 - 00:18:21,940] that's also the gas-liquid phase transition.
+- [00:18:22,520 - 00:18:24,140] So that's why we study them.
+- [00:18:24,280 - 00:18:26,220] And we don't just study them because they're magnets,
+- [00:18:26,480 - 00:18:28,220] which are interesting in their own right,
+- [00:18:28,420 - 00:18:32,360] but because they are a broad brush description
+- [00:18:32,360 - 00:18:33,220] of many,
+- [00:18:33,220 - 00:18:35,920] many different kinds of statistical mechanical systems.
+- [00:18:36,300 - 00:18:37,420] I've given you two.
+- [00:18:37,540 - 00:18:38,900] The magnet on the one hand,
+- [00:18:39,020 - 00:18:41,960] and what's called the lattice gas on the other hand.
+- [00:18:42,500 - 00:18:44,700] The lattice gas is incidentally a,
+- [00:18:46,180 - 00:18:47,760] not always a gas,
+- [00:18:47,860 - 00:18:49,040] it can be a liquid or a gas,
+- [00:18:49,180 - 00:18:50,480] depending on which phase it's in.
+- [00:18:51,780 - 00:18:52,340] Let's,
+- [00:18:52,340 - 00:18:52,880] let's,
+- [00:18:52,880 - 00:18:55,320] before we actually study such systems,
+- [00:18:55,460 - 00:18:58,220] let's talk about them broadly first.
+- [00:18:59,000 - 00:19:00,120] Let's make a plot.
+- [00:19:01,500 - 00:19:02,840] And on this plot,
+- [00:19:03,020 - 00:19:06,460] let's plot temperature on the horizontal axis.
+- [00:19:07,520 - 00:19:08,660] Low temperature,
+- [00:19:08,960 - 00:19:11,700] everything fluctuates a minimum amount.
+- [00:19:12,000 - 00:19:13,220] At zero temperature,
+- [00:19:13,500 - 00:19:15,240] it just picks out the ground state.
+- [00:19:15,680 - 00:19:17,100] At high temperatures,
+- [00:19:17,180 - 00:19:18,840] it fluctuates maximally.
+- [00:19:19,140 - 00:19:20,700] And on the vertical axis,
+- [00:19:21,340 - 00:19:24,340] let's imagine an external magnetic field.
+- [00:19:24,880 - 00:19:25,520] Let's see,
+- [00:19:25,520 - 00:19:27,280] we can put the whole thing in a magnetic field.
+- [00:19:27,460 - 00:19:29,340] How can I represent the magnetic field?
+- [00:19:29,420 - 00:19:29,640] Um,
+- [00:19:31,459 - 00:19:33,480] by an arrow with a different color.
+- [00:19:34,060 - 00:19:34,720] Incidentally,
+- [00:19:34,720 - 00:19:36,940] we're restricting ourselves to magnetic fields
+- [00:19:36,940 - 00:19:38,580] which are either up or down.
+- [00:19:39,180 - 00:19:39,840] Not,
+- [00:19:39,840 - 00:19:41,320] not pointing sideways.
+- [00:19:41,860 - 00:19:44,240] So we have an external magnetic field.
+- [00:19:46,900 - 00:19:49,040] Let's call it H.
+- [00:19:49,880 - 00:19:50,740] Little h.
+- [00:19:51,880 - 00:19:52,900] Why H?
+- [00:19:52,900 - 00:19:53,640] I don't know.
+- [00:19:53,680 - 00:19:56,080] It's a traditional name for the magnetic field
+- [00:19:56,080 - 00:19:57,200] in these spin systems.
+- [00:19:57,840 - 00:19:58,500] H.
+- [00:20:00,620 - 00:20:02,080] Let's start at zero temperature.
+- [00:20:02,760 - 00:20:03,640] No fluctuations.
+- [00:20:05,820 - 00:20:09,220] What happens if H is pointing up?
+- [00:20:10,140 - 00:20:10,580] Well,
+- [00:20:10,580 - 00:20:11,860] H will point up.
+- [00:20:11,920 - 00:20:13,540] It will bias all of these spins.
+- [00:20:13,980 - 00:20:16,500] And it will say they're not fluctuating.
+- [00:20:17,000 - 00:20:18,920] So push them into their ground state.
+- [00:20:19,100 - 00:20:20,320] But there are two ground states.
+- [00:20:20,480 - 00:20:21,960] The low temperature will make them,
+- [00:20:21,980 - 00:20:23,340] make sure they're in their ground state.
+- [00:20:24,160 - 00:20:25,500] But there are two ground states.
+- [00:20:25,600 - 00:20:26,820] All up or all down.
+- [00:20:27,220 - 00:20:28,820] Which one is going to be favored?
+- [00:20:29,360 - 00:20:29,860] Well,
+- [00:20:29,860 - 00:20:33,120] that will depend on the direction of this magnetic field.
+- [00:20:33,300 - 00:20:35,520] This magnetic field adds a little bit of energy
+- [00:20:35,520 - 00:20:37,660] which is different for an up and a down spin.
+- [00:20:38,380 - 00:20:39,880] And so if they're all up,
+- [00:20:40,020 - 00:20:42,280] that might be the lowest energy.
+- [00:20:42,980 - 00:20:44,660] So when H is positive,
+- [00:20:46,200 - 00:20:46,700] the,
+- [00:20:46,700 - 00:20:48,880] let's call it the average magnetization,
+- [00:20:48,960 - 00:20:50,520] the averages of the spins,
+- [00:20:50,760 - 00:20:51,780] it will be
+- [00:20:54,620 - 00:20:55,620] magnetized upward.
+- [00:20:55,980 - 00:20:56,680] I don't know.
+- [00:20:56,720 - 00:20:58,320] Let's just say the average of sigma,
+- [00:20:58,320 - 00:21:01,620] is greater than zero in this region.
+- [00:21:02,760 - 00:21:03,560] Magnetized up.
+- [00:21:04,120 - 00:21:07,440] And in this region where the magnetic field is down,
+- [00:21:09,120 - 00:21:10,060] oh boy,
+- [00:21:10,060 - 00:21:10,620] I don't have my bag.
+- [00:21:11,520 - 00:21:14,540] Sigma is less than zero.
+- [00:21:16,880 - 00:21:18,540] Now it may or may not be,
+- [00:21:19,320 - 00:21:20,620] but generally it is,
+- [00:21:21,280 - 00:21:23,080] that if the temperature is low enough,
+- [00:21:23,740 - 00:21:26,100] this state of affairs persists
+- [00:21:26,100 - 00:21:27,600] right up to
+- [00:21:28,320 - 00:21:30,380] almost zero magnetic field.
+- [00:21:30,940 - 00:21:33,220] And then across here there's a jump.
+- [00:21:34,040 - 00:21:34,920] A jump,
+- [00:21:34,920 - 00:21:36,400] sigma less than zero here,
+- [00:21:37,240 - 00:21:38,720] and sigma greater than zero here.
+- [00:21:39,180 - 00:21:39,740] So,
+- [00:21:39,740 - 00:21:42,240] there's a phase transition across here.
+- [00:21:42,360 - 00:21:43,200] Let's just put a
+- [00:21:45,300 - 00:21:47,160] bold line there of some kind.
+- [00:21:48,720 - 00:21:51,040] And if we go across here,
+- [00:21:51,140 - 00:21:51,560] in other words,
+- [00:21:51,560 - 00:21:52,600] if we fix the temperature,
+- [00:21:52,820 - 00:21:53,620] low temperature,
+- [00:21:54,180 - 00:21:56,600] and vary the external magnetic field,
+- [00:21:56,740 - 00:21:58,300] there will be a jump of the magnetic field.
+- [00:21:58,320 - 00:21:59,240] And then there's a jump in magnetization across here.
+- [00:21:59,260 - 00:22:00,300] That jump in magnetization,
+- [00:22:00,300 - 00:22:01,120] as I said,
+- [00:22:01,140 - 00:22:04,500] corresponds to a jump in the density of
+- [00:22:05,240 - 00:22:06,780] the analog fluid here.
+- [00:22:08,400 - 00:22:09,080] Now,
+- [00:22:09,080 - 00:22:11,740] this situation typically persists,
+- [00:22:11,740 - 00:22:12,420] as we'll see,
+- [00:22:13,260 - 00:22:14,900] out to some finite temperature.
+- [00:22:16,120 - 00:22:18,100] And then beyond that temperature,
+- [00:22:18,960 - 00:22:21,920] the fluctuations in the system are so strong
+- [00:22:21,920 - 00:22:24,160] that it destroys this tendency
+- [00:22:25,140 - 00:22:27,180] for the spins to align themselves
+- [00:22:28,520 - 00:22:31,760] when the external magnetic field goes to zero.
+- [00:22:33,380 - 00:22:34,960] They'll be aligned down here
+- [00:22:34,960 - 00:22:38,660] only because of the presence of the external magnetic field.
+- [00:22:38,980 - 00:22:40,630] They'll be aligned up here
+- [00:22:40,630 - 00:22:42,280] because of the external magnetic field.
+- [00:22:43,100 - 00:22:45,520] But right on the axis here,
+- [00:22:45,640 - 00:22:47,280] the net magnetization,
+- [00:22:47,280 - 00:22:49,140] the net tendency to be up or down,
+- [00:22:49,220 - 00:22:50,750] the net expectation value of
+- [00:22:50,750 - 00:22:52,280] sigma will be zero along here.
+- [00:22:52,560 - 00:22:55,040] And so this jump will disappear
+- [00:22:55,040 - 00:22:57,420] and everything will be completely consistent,
+- [00:22:57,420 - 00:23:03,820] completely smooth as you go across here.
+- [00:23:05,059 - 00:23:05,699] Again,
+- [00:23:05,699 - 00:23:08,320] this here corresponds to the liquid phase,
+- [00:23:09,000 - 00:23:10,160] high density.
+- [00:23:11,020 - 00:23:13,380] This corresponds to the gas phase,
+- [00:23:13,380 - 00:23:14,880] low density.
+- [00:23:15,260 - 00:23:16,840] If you fix the temperature,
+- [00:23:17,679 - 00:23:18,940] you have a jump.
+- [00:23:19,340 - 00:23:19,840] Now,
+- [00:23:19,840 - 00:23:21,280] I'm going to tell you what this H is.
+- [00:23:21,360 - 00:23:23,700] This H is actually the chemical potential.
+- [00:23:24,560 - 00:23:25,940] Corresponds to the chemical potential.
+- [00:23:25,940 - 00:23:28,880] It's the thing that you use to vary the density.
+- [00:23:29,680 - 00:23:30,880] Of course it's the thing that
+- [00:23:30,880 - 00:23:32,080] you use to vary the density.
+- [00:23:32,280 - 00:23:34,980] The more you vary the external magnetic field,
+- [00:23:35,240 - 00:23:36,960] the more you'll bias it
+- [00:23:36,960 - 00:23:39,180] to either greater or lesser density.
+- [00:23:39,980 - 00:23:42,840] So H is the chemical potential in the analog.
+- [00:23:43,480 - 00:23:45,420] And if you want to vary the density,
+- [00:23:45,420 - 00:23:46,200] you vary H.
+- [00:23:46,640 - 00:23:50,300] But it varies discontinuously at some point,
+- [00:23:50,380 - 00:23:52,040] and that's the gas-liquid phase transition.
+- [00:23:52,560 - 00:23:55,300] So you can go from gas to liquid,
+- [00:23:55,300 - 00:23:57,440] by crossing this boundary,
+- [00:23:58,200 - 00:24:00,940] and having a sudden jump in the density.
+- [00:24:01,520 - 00:24:03,700] That's just the usual thing that happens
+- [00:24:03,700 - 00:24:08,380] when there's a transition from vapor,
+- [00:24:08,540 - 00:24:10,600] which is very low density,
+- [00:24:10,820 - 00:24:14,380] to liquid-water,
+- [00:24:14,380 - 00:24:15,720] which is higher density.
+- [00:24:16,040 - 00:24:17,900] But you can also do something else.
+- [00:24:18,160 - 00:24:20,440] You can go around here,
+- [00:24:21,300 - 00:24:22,960] and go from gas to liquid,
+- [00:24:22,960 - 00:24:26,380] without passing through any transition at all,
+- [00:24:26,540 - 00:24:28,980] without passing through any discontinuity at all.
+- [00:24:29,720 - 00:24:32,000] That's called going around the critical point.
+- [00:24:33,380 - 00:24:35,420] And some of you who are familiar
+- [00:24:35,420 - 00:24:38,180] with the properties of the gas-liquid phase transition
+- [00:24:38,180 - 00:24:41,220] know that you can go from water to steam
+- [00:24:42,000 - 00:24:44,520] without passing through a sudden abrupt change,
+- [00:24:44,660 - 00:24:47,400] by going around the critical point.
+- [00:24:47,540 - 00:24:49,660] So that corresponds to going around the critical point.
+- [00:24:49,760 - 00:24:51,840] I'm pointing these things out just to show you that
+- [00:24:52,420 - 00:24:52,940] there's a lot of different ways to do this.
+- [00:24:54,580 - 00:24:59,020] These lattice systems have a lot of physics in them.
+- [00:24:59,120 - 00:25:00,600] A lot of familiar physics,
+- [00:25:00,700 - 00:25:02,280] and sometimes some unfamiliar physics.
+- [00:25:04,100 - 00:25:04,660] Okay,
+- [00:25:04,660 - 00:25:06,620] we're going to study these lattice systems a little bit.
+- [00:25:06,700 - 00:25:12,060] In the case where you're talking about the magnetic system,
+- [00:25:12,740 - 00:25:16,220] you change that external magnetic field a little bit.
+- [00:25:16,320 - 00:25:17,880] Let's say you're at very low temperature.
+- [00:25:19,040 - 00:25:21,800] Is there kind of a hysteresis effect,
+- [00:25:21,800 - 00:25:24,240] when you're right at zero field?
+- [00:25:26,060 - 00:25:27,500] Is there a hysteresis effect?
+- [00:25:27,500 - 00:25:27,980] If you go around,
+- [00:25:27,980 - 00:25:28,600] then a loop.
+- [00:25:28,920 - 00:25:29,120] Well,
+- [00:25:29,120 - 00:25:29,320] no,
+- [00:25:29,320 - 00:25:30,220] not if you go around,
+- [00:25:30,220 - 00:25:30,500] then a loop.
+- [00:25:30,520 - 00:25:32,320] But if you just keep the temperature
+- [00:25:32,320 - 00:25:34,560] down below the critical point there.
+- [00:25:35,460 - 00:25:36,420] Do you have to,
+- [00:25:36,420 - 00:25:37,920] because you've got some interactions
+- [00:25:37,920 - 00:25:40,160] between all these spins,
+- [00:25:40,500 - 00:25:42,530] do you have to put
+- [00:25:42,530 - 00:25:44,560] a little extra field on there?
+- [00:25:44,620 - 00:25:46,600] You're asking whether there's a metastable phase.
+- [00:25:47,060 - 00:25:49,360] You're asking whether you can have metastability,
+- [00:25:49,380 - 00:25:51,740] the analog of what happens
+- [00:25:51,800 - 00:25:55,040] if you were to lower the temperature of steam
+- [00:25:55,040 - 00:25:59,340] below the temperature of the transition,
+- [00:25:59,580 - 00:26:00,380] and you're very,
+- [00:26:00,380 - 00:26:00,940] very careful,
+- [00:26:00,940 - 00:26:01,940] can you keep it steam?
+- [00:26:02,420 - 00:26:03,700] I think that's what you're asking.
+- [00:26:05,760 - 00:26:06,240] Yeah,
+- [00:26:06,240 - 00:26:09,140] I think that's the issue of metastability.
+- [00:26:10,460 - 00:26:13,980] Can you vary this h and go down to here,
+- [00:26:14,040 - 00:26:15,520] keeping all the spins upward?
+- [00:26:15,940 - 00:26:17,720] And the answer is typically yes,
+- [00:26:17,780 - 00:26:18,720] but if you sit there,
+- [00:26:18,720 - 00:26:20,480] it's not true equilibrium.
+- [00:26:21,900 - 00:26:23,260] It's not true equilibrium.
+- [00:26:23,660 - 00:26:25,220] If you take a system,
+- [00:26:25,220 - 00:26:26,800] let's take these little magnets.
+- [00:26:27,660 - 00:26:28,180] Now,
+- [00:26:28,180 - 00:26:30,660] we've ignored the question of what causes
+- [00:26:30,660 - 00:26:32,420] the magnets to change their direction.
+- [00:26:33,200 - 00:26:35,380] All we've done is talk about their orientation.
+- [00:26:35,840 - 00:26:39,460] We haven't talked about the kinetic energies
+- [00:26:39,460 - 00:26:42,720] which might cause them to actually move.
+- [00:26:43,420 - 00:26:46,140] But let's imagine that there was something in the system
+- [00:26:46,140 - 00:26:47,060] which caused them to move.
+- [00:26:47,560 - 00:26:50,060] So you start with a magnetic field downward.
+- [00:26:50,060 - 00:26:51,360] They point downward.
+- [00:26:51,600 - 00:26:52,320] And then you very,
+- [00:26:52,320 - 00:26:55,020] very carefully increase the magnetic field.
+- [00:26:55,840 - 00:26:57,960] And you will come to a point,
+- [00:26:58,020 - 00:26:58,460] if you're very,
+- [00:26:58,460 - 00:27:00,120] very careful with a magnet,
+- [00:27:00,260 - 00:27:03,060] where the magnet will be pointing in the wrong direction
+- [00:27:03,060 - 00:27:04,640] relative to the field.
+- [00:27:05,320 - 00:27:07,100] That's called a metastable situation.
+- [00:27:07,940 - 00:27:09,190] But if you sit there
+- [00:27:09,190 - 00:27:10,440] and you wait there long enough,
+- [00:27:10,980 - 00:27:12,040] sooner or later,
+- [00:27:12,040 - 00:27:15,300] a fluctuation will happen.
+- [00:27:15,860 - 00:27:17,580] A fluctuation will happen.
+- [00:27:18,640 - 00:27:20,040] One of the spins will return.
+- [00:27:20,060 - 00:27:20,460] And then you realize,
+- [00:27:20,460 - 00:27:21,380] or a group of them,
+- [00:27:21,400 - 00:27:22,960] a small group of them will realize
+- [00:27:22,960 - 00:27:25,180] that they can find lower energy configuration
+- [00:27:25,180 - 00:27:26,840] by flipping themselves over.
+- [00:27:27,140 - 00:27:29,140] And once they flip themselves over,
+- [00:27:29,300 - 00:27:31,340] that thing starts spreading out
+- [00:27:31,920 - 00:27:36,380] and creates a bubble of spins
+- [00:27:37,980 - 00:27:40,060] which all then right themselves
+- [00:27:40,060 - 00:27:42,580] and get themselves oriented in the right direction.
+- [00:27:42,920 - 00:27:44,380] So it's called metastability.
+- [00:27:44,640 - 00:27:45,840] It's not really equilibrium.
+- [00:27:46,200 - 00:27:47,080] It's out of equilibrium.
+- [00:27:47,760 - 00:27:49,340] But it can take a long,
+- [00:27:49,340 - 00:27:50,040] long time
+- [00:27:50,060 - 00:27:51,520] for equilibrium to set in.
+- [00:27:51,920 - 00:27:54,560] And that's the root of metastability.
+- [00:27:56,380 - 00:27:56,940] Yes,
+- [00:27:56,940 - 00:27:59,860] that can happen.
+- [00:28:00,000 - 00:28:02,540] And it's closely connected to the phenomena
+- [00:28:02,540 - 00:28:04,600] of metastability in the gas-liquid system,
+- [00:28:04,880 - 00:28:08,840] where you can cool or otherwise change
+- [00:28:08,840 - 00:28:11,360] the parameters of a gas-liquid phase transition,
+- [00:28:11,480 - 00:28:12,420] gas-liquid system,
+- [00:28:12,680 - 00:28:14,400] where you might be able to,
+- [00:28:15,540 - 00:28:16,860] one way or another,
+- [00:28:17,900 - 00:28:19,020] very carefully,
+- [00:28:20,060 - 00:28:23,200] change the liquid or change the parameters
+- [00:28:23,200 - 00:28:24,710] so that you move into
+- [00:28:24,710 - 00:28:26,220] what should be the gas region,
+- [00:28:26,580 - 00:28:30,560] but nevertheless the system not budge and stay liquid.
+- [00:28:30,880 - 00:28:32,680] But if you sit there and wait a little bit,
+- [00:28:33,220 - 00:28:34,180] sooner or later,
+- [00:28:34,320 - 00:28:36,160] a little bubble of gas will form
+- [00:28:36,160 - 00:28:37,730] and then the bubble of gas
+- [00:28:37,730 - 00:28:39,300] will take over the whole system.
+- [00:28:39,540 - 00:28:41,560] Is that super cooling or super heating?
+- [00:28:41,840 - 00:28:42,080] Yeah.
+- [00:28:43,700 - 00:28:44,960] It's connected with hysteresis.
+- [00:28:45,160 - 00:28:45,820] The question is,
+- [00:28:45,820 - 00:28:46,360] in the case of,
+- [00:28:46,440 - 00:28:47,660] you said this is Z2,
+- [00:28:47,660 - 00:28:50,140] but in the case of these magnets,
+- [00:28:50,320 - 00:28:54,060] would the normal magnet radiate energy
+- [00:28:54,060 - 00:28:58,100] where we are ignoring that aspect?
+- [00:28:58,500 - 00:28:58,780] Yeah,
+- [00:28:58,780 - 00:29:02,920] we're not asking about the kinetics of the system.
+- [00:29:03,340 - 00:29:03,920] Right.
+- [00:29:05,180 - 00:29:06,560] But I'll tell you,
+- [00:29:06,620 - 00:29:07,040] all right,
+- [00:29:07,040 - 00:29:11,120] but you can ask what really does happen for magnets.
+- [00:29:11,540 - 00:29:12,120] Now,
+- [00:29:12,120 - 00:29:14,400] real magnets are of course not these Z2 magnets.
+- [00:29:14,760 - 00:29:15,960] They are...
+- [00:29:16,840 - 00:29:17,360] Right.
+- [00:29:17,860 - 00:29:20,370] So you could imagine trying to
+- [00:29:20,370 - 00:29:22,880] orient the magnets with a magnetic field,
+- [00:29:23,120 - 00:29:26,260] change the magnetic field to get into an unstable situation,
+- [00:29:27,120 - 00:29:29,480] but then typically what will happen is after a while
+- [00:29:29,480 - 00:29:32,140] they'll start to slosh around and,
+- [00:29:32,440 - 00:29:32,860] yeah,
+- [00:29:32,860 - 00:29:34,580] what they'll radiate away is spin waves.
+- [00:29:35,300 - 00:29:38,600] Spin waves are sort of waves of wiggly magnetization.
+- [00:29:38,880 - 00:29:41,200] But there are no spin waves for this situation
+- [00:29:41,200 - 00:29:43,420] because they're either all locked up,
+- [00:29:43,460 - 00:29:43,740] well,
+- [00:29:43,740 - 00:29:45,080] everyone is either up or down
+- [00:29:45,080 - 00:29:45,860] and nowhere is in between.
+- [00:29:45,960 - 00:29:46,300] So,
+- [00:29:46,300 - 00:29:48,640] yeah,
+- [00:29:48,640 - 00:29:49,300] they could flip,
+- [00:29:49,300 - 00:29:49,740] for example,
+- [00:29:49,740 - 00:29:51,680] by emitting sound waves.
+- [00:29:52,060 - 00:29:54,780] They could flip by emitting light waves,
+- [00:29:54,980 - 00:29:57,840] but that would be unusual for a real magnet.
+- [00:29:57,960 - 00:30:00,200] A real magnet doesn't flip itself over.
+- [00:30:00,720 - 00:30:02,920] When a compass changes direction,
+- [00:30:03,320 - 00:30:05,580] it usually doesn't emit a lightning bolt.
+- [00:30:05,680 - 00:30:05,940] I mean,
+- [00:30:05,940 - 00:30:08,240] it might emit a little
+- [00:30:08,240 - 00:30:10,540] tiny bit of sound into the...
+- [00:30:10,540 - 00:30:11,600] Not much.
+- [00:30:12,980 - 00:30:13,580] Well,
+- [00:30:13,580 - 00:30:14,180] very...
+- [00:30:14,180 - 00:30:15,820] Even that would be hard,
+- [00:30:15,840 - 00:30:15,940] so...
+- [00:30:15,960 - 00:30:16,040] Yeah,
+- [00:30:16,040 - 00:30:16,560] since the...
+- [00:30:16,560 - 00:30:17,340] Yeah,
+- [00:30:17,340 - 00:30:17,760] very,
+- [00:30:17,760 - 00:30:18,260] right.
+- [00:30:18,380 - 00:30:18,860] Very,
+- [00:30:18,860 - 00:30:20,840] very low frequency radio waves.
+- [00:30:21,340 - 00:30:21,820] Right.
+- [00:30:22,220 - 00:30:25,420] More likely just some sound waves or something,
+- [00:30:25,520 - 00:30:26,520] which are easier to...
+- [00:30:26,520 - 00:30:26,940] But...
+- [00:30:28,240 - 00:30:29,500] Or some pressure waves.
+- [00:30:29,560 - 00:30:29,900] Who knows?
+- [00:30:30,120 - 00:30:30,540] I don't know.
+- [00:30:31,460 - 00:30:31,940] Anyway,
+- [00:30:31,940 - 00:30:33,980] this is what we want to study.
+- [00:30:37,640 - 00:30:39,560] I'm not going to study these things
+- [00:30:39,560 - 00:30:41,460] in as much mathematical detail
+- [00:30:42,300 - 00:30:43,670] as I do in the
+- [00:30:43,670 - 00:30:45,040] notes that I've distributed to you.
+- [00:30:51,340 - 00:30:52,100] I'm going to study them in a different way.
+- [00:30:52,100 - 00:30:53,000] I'm trying to decide...
+- [00:30:53,620 - 00:30:54,180] Yeah,
+- [00:30:54,180 - 00:30:55,340] I think what I'll do
+- [00:30:55,960 - 00:30:57,480] is give you an illustration
+- [00:30:59,960 - 00:31:02,000] of the phenomena...
+- [00:31:02,900 - 00:31:05,620] Phenomenon of spontaneous magnetization
+- [00:31:05,620 - 00:31:07,080] in an approximation
+- [00:31:07,080 - 00:31:09,820] which is called the mean field approximation.
+- [00:31:10,700 - 00:31:13,140] This is one of the many approximations...
+- [00:31:13,140 - 00:31:15,020] I'll tell you the various approximations
+- [00:31:15,020 - 00:31:17,340] that we apply to these kinds of magnetic systems.
+- [00:31:18,580 - 00:31:21,100] There are approximations
+- [00:31:21,100 - 00:31:23,420] which are called low temperature expansions,
+- [00:31:23,900 - 00:31:27,480] where you begin with the system at zero temperature
+- [00:31:27,940 - 00:31:29,800] and you expand your way
+- [00:31:29,800 - 00:31:32,460] in powers of something involving the temperature.
+- [00:31:32,780 - 00:31:33,560] All right.
+- [00:31:33,600 - 00:31:35,900] There are high temperature expansions
+- [00:31:35,900 - 00:31:38,580] where you start the system at the infinite temperature
+- [00:31:38,580 - 00:31:40,660] where it fluctuates like mad
+- [00:31:40,660 - 00:31:44,100] and then you expand about one over the temperature.
+- [00:31:44,100 - 00:31:46,180] High temperature expansions.
+- [00:31:46,240 - 00:31:47,400] They're not very hard
+- [00:31:47,400 - 00:31:48,360] and they're not very difficult,
+- [00:31:49,140 - 00:31:50,940] but it's not where we're going to go.
+- [00:31:51,220 - 00:31:52,900] Then there's another kind of method
+- [00:31:52,900 - 00:31:54,580] called renormalization group.
+- [00:31:55,240 - 00:31:57,960] That's a method that I will maybe tell you
+- [00:31:57,960 - 00:31:59,440] a little bit about as we go along,
+- [00:32:00,100 - 00:32:01,120] but not tonight.
+- [00:32:01,680 - 00:32:03,820] And the other method is called
+- [00:32:03,820 - 00:32:05,560] mean field approximation.
+- [00:32:06,460 - 00:32:08,060] And mean field approximation
+- [00:32:08,060 - 00:32:10,620] is a nice physically intuitive picture
+- [00:32:11,220 - 00:32:13,160] of how this phenomena
+- [00:32:13,160 - 00:32:16,240] of spontaneous magnetization takes place.
+- [00:32:16,760 - 00:32:18,240] That's what I want to do tonight,
+- [00:32:18,400 - 00:32:21,000] is show you the mean field description of this.
+- [00:32:22,000 - 00:32:24,460] And mean here doesn't mean nasty.
+- [00:32:24,800 - 00:32:26,400] It doesn't mean cheap.
+- [00:32:26,700 - 00:32:27,980] It means average.
+- [00:32:28,580 - 00:32:29,180] Okay.
+- [00:32:29,260 - 00:32:30,440] Mean field approximation.
+- [00:32:31,600 - 00:32:32,200] Now,
+- [00:32:32,200 - 00:32:33,140] what we're going to imagine
+- [00:32:33,140 - 00:32:35,360] is that we have a lattice.
+- [00:32:43,700 - 00:32:46,680] And it might be a three-dimensional lattice,
+- [00:32:46,840 - 00:32:49,080] which might be the case we're really interested in,
+- [00:32:49,120 - 00:32:50,560] or it might be a two-dimensional lattice.
+- [00:32:51,620 - 00:32:54,520] I don't want to deal with the one-dimensional lattice
+- [00:32:54,520 - 00:32:56,640] for reasons that perhaps we'll discuss.
+- [00:32:56,960 - 00:32:59,500] But let's start with either a two-dimensional lattice
+- [00:32:59,500 - 00:33:00,800] that I can draw on the blackboard
+- [00:33:00,800 - 00:33:02,180] or a three-dimensional lattice,
+- [00:33:02,440 - 00:33:03,760] or better yet,
+- [00:33:04,860 - 00:33:05,980] a D,
+- [00:33:05,980 - 00:33:07,640] D like David,
+- [00:33:07,780 - 00:33:09,420] a D-dimensional lattice.
+- [00:33:10,340 - 00:33:13,140] And the reason I say a D-dimensional lattice
+- [00:33:13,160 - 00:33:16,399] is because this approximation works best
+- [00:33:17,000 - 00:33:18,740] when D is very large,
+- [00:33:19,020 - 00:33:20,460] for reasons that I'll explain.
+- [00:33:21,020 - 00:33:22,540] The reason is very simple.
+- [00:33:22,760 - 00:33:24,640] The reason has to do with the fact
+- [00:33:24,640 - 00:33:26,040] that the higher the dimension,
+- [00:33:26,440 - 00:33:30,920] the more neighbors that any given atom has,
+- [00:33:31,240 - 00:33:32,480] or any given site has.
+- [00:33:32,900 - 00:33:34,080] In one dimension,
+- [00:33:34,360 - 00:33:36,460] each site only has two neighbors.
+- [00:33:37,660 - 00:33:38,260] Okay?
+- [00:33:38,420 - 00:33:39,780] In a thousand dimensions,
+- [00:33:40,080 - 00:33:42,800] how many neighbors does a thousand have?
+- [00:33:42,920 - 00:33:43,140] A thousand.
+- [00:33:43,160 - 00:33:44,200] Two thousand neighbors.
+- [00:33:44,860 - 00:33:45,500] Yeah.
+- [00:33:45,920 - 00:33:48,120] Two thousand neighbors in a thousand dimensions.
+- [00:33:48,540 - 00:33:49,800] In two dimensions,
+- [00:33:49,940 - 00:33:51,260] each one has four neighbors.
+- [00:33:51,720 - 00:33:53,000] In three dimensions,
+- [00:33:53,160 - 00:33:53,560] two more,
+- [00:33:53,560 - 00:33:54,240] six neighbors.
+- [00:33:54,740 - 00:33:55,380] So,
+- [00:33:55,380 - 00:33:57,060] two D neighbors.
+- [00:33:57,860 - 00:33:58,180] Now,
+- [00:33:58,180 - 00:33:59,180] the reason it's good
+- [00:33:59,180 - 00:34:00,900] to have a lot of neighbors
+- [00:34:00,900 - 00:34:03,720] is because you can average over the neighbors.
+- [00:34:04,380 - 00:34:08,699] You can do an average over the neighbors
+- [00:34:08,699 - 00:34:11,580] and say this molecule at the center
+- [00:34:11,580 - 00:34:14,840] sees the effect of a large number of neighbors,
+- [00:34:15,260 - 00:34:16,920] and it doesn't matter much
+- [00:34:16,920 - 00:34:20,179] if one neighbor is a little bit different.
+- [00:34:20,520 - 00:34:22,739] You can average over the neighbors.
+- [00:34:23,100 - 00:34:25,139] You can use the laws of large numbers,
+- [00:34:25,300 - 00:34:25,800] so to speak,
+- [00:34:25,800 - 00:34:26,380] statistics,
+- [00:34:26,560 - 00:34:28,960] to average over the properties
+- [00:34:28,960 - 00:34:30,100] of the nearest neighbors.
+- [00:34:30,520 - 00:34:30,940] So,
+- [00:34:30,940 - 00:34:33,920] it's as if we in this room
+- [00:34:34,940 - 00:34:36,199] form the lattice,
+- [00:34:36,280 - 00:34:38,480] which you do form sitting there in your chairs,
+- [00:34:38,500 - 00:34:40,280] although it's a rather irregular lattice.
+- [00:34:42,260 - 00:34:44,540] And you're interested in the properties
+- [00:34:44,540 - 00:34:45,280] of your neighbors
+- [00:34:45,280 - 00:34:47,639] and what your neighbors are doing to you.
+- [00:34:48,159 - 00:34:48,719] Well,
+- [00:34:48,719 - 00:34:50,940] if there are enough neighbors,
+- [00:34:51,159 - 00:34:53,520] you can average over them and say
+- [00:34:53,520 - 00:34:55,780] the effect of my nearest neighbors on me
+- [00:34:55,780 - 00:34:58,160] is to have this particular effect,
+- [00:34:58,360 - 00:35:01,180] which is the average over large numbers of neighbors.
+- [00:35:01,440 - 00:35:03,320] If there's only one or two neighbors,
+- [00:35:03,640 - 00:35:06,100] then averaging over them
+- [00:35:06,100 - 00:35:08,280] might be a less effective thing to do.
+- [00:35:08,380 - 00:35:10,160] And this is true for this kind of system.
+- [00:35:10,160 - 00:35:10,940] So,
+- [00:35:10,940 - 00:35:13,460] the mean field approximation
+- [00:35:14,500 - 00:35:15,700] becomes accurate,
+- [00:35:15,700 - 00:35:17,840] infinitely accurate
+- [00:35:17,840 - 00:35:18,840] or perfectly accurate,
+- [00:35:19,020 - 00:35:20,680] in the limit of large numbers of dimensions.
+- [00:35:20,980 - 00:35:22,060] But we're not really interested
+- [00:35:22,060 - 00:35:23,520] in the limit of large number of dimensions.
+- [00:35:24,020 - 00:35:24,620] Well,
+- [00:35:24,620 - 00:35:26,200] it turns out numerically
+- [00:35:26,200 - 00:35:31,040] that two is a little bit large
+- [00:35:31,040 - 00:35:32,740] and three is large already.
+- [00:35:33,040 - 00:35:33,620] In other words,
+- [00:35:33,620 - 00:35:34,660] mean field approximation
+- [00:35:34,660 - 00:35:37,180] works pretty well for three dimensions.
+- [00:35:38,100 - 00:35:40,140] But more important than that,
+- [00:35:40,160 - 00:35:41,720] than whether it works numerically well,
+- [00:35:41,880 - 00:35:44,020] is it gives you a picture of what happens
+- [00:35:44,020 - 00:35:46,460] that leads to this magnetization.
+- [00:35:47,160 - 00:35:47,860] All right,
+- [00:35:47,860 - 00:35:48,020] now,
+- [00:35:48,020 - 00:35:49,440] we're going to invent now
+- [00:35:49,440 - 00:35:50,880] an energy function.
+- [00:35:51,640 - 00:35:53,060] An energy function
+- [00:35:58,320 - 00:36:00,600] which is the energy function,
+- [00:36:01,280 - 00:36:01,800] well,
+- [00:36:01,800 - 00:36:04,060] for this system of atoms.
+- [00:36:04,200 - 00:36:05,600] Each one is either up or down.
+- [00:36:05,760 - 00:36:07,980] Let's represent an up by a dot
+- [00:36:07,980 - 00:36:09,660] and a down by a cross.
+- [00:36:11,020 - 00:36:16,900] The energy only depends on the orientation configuration
+- [00:36:16,900 - 00:36:18,400] of nearest neighbors.
+- [00:36:18,920 - 00:36:19,880] All right?
+- [00:36:19,920 - 00:36:22,600] The energy is low when they're parallel
+- [00:36:22,940 - 00:36:25,520] and high when they're anti-parallel.
+- [00:36:26,360 - 00:36:27,120] So,
+- [00:36:27,120 - 00:36:29,320] here's an expression which does that.
+- [00:36:30,720 - 00:36:32,200] Let's take the energy
+- [00:36:33,879 - 00:36:35,200] to just be,
+- [00:36:35,200 - 00:36:38,720] let's call it sigma of i,
+- [00:36:39,360 - 00:36:40,420] sigma of j,
+- [00:36:40,680 - 00:36:42,360] but now i and j represent
+- [00:36:43,120 - 00:36:44,880] neighboring points on the lattice.
+- [00:36:45,600 - 00:36:47,560] As you range over i and j,
+- [00:36:47,700 - 00:36:49,120] I really only want you to imagine
+- [00:36:49,120 - 00:36:51,900] that you're ranging over nearest neighbors.
+- [00:36:52,800 - 00:36:55,600] Nearest neighbors are on the lattice.
+- [00:36:56,340 - 00:36:58,480] And let's put a minus sign in here.
+- [00:36:59,820 - 00:37:00,340] Now,
+- [00:37:00,340 - 00:37:02,800] if sigma i and sigma j are the same,
+- [00:37:03,800 - 00:37:04,680] in other words,
+- [00:37:04,680 - 00:37:06,640] if they're both plus one or minus one,
+- [00:37:07,440 - 00:37:08,560] then sigma i,
+- [00:37:08,560 - 00:37:09,520] sigma j is one,
+- [00:37:09,780 - 00:37:11,220] and the energy is negative.
+- [00:37:11,680 - 00:37:12,740] Negative is low.
+- [00:37:13,560 - 00:37:14,240] All right,
+- [00:37:14,240 - 00:37:16,280] so this favors or lowers the energy
+- [00:37:16,280 - 00:37:17,120] when they're parallel.
+- [00:37:17,240 - 00:37:18,780] What about when they're anti-parallel?
+- [00:37:18,960 - 00:37:20,880] When they're anti-parallel,
+- [00:37:20,880 - 00:37:23,600] then the energy is plus one.
+- [00:37:24,160 - 00:37:26,480] And so there's two units of energy
+- [00:37:27,960 - 00:37:31,220] stored in every bond
+- [00:37:31,840 - 00:37:33,920] if the bond is a broken bond.
+- [00:37:34,240 - 00:37:34,440] Now,
+- [00:37:34,440 - 00:37:35,740] what do I mean by a broken bond?
+- [00:37:35,740 - 00:37:37,940] Let's say an unbroken bond
+- [00:37:38,740 - 00:37:41,860] is a bond where the spins are parallel.
+- [00:37:42,360 - 00:37:44,080] Here's an unbroken bond.
+- [00:37:44,220 - 00:37:47,580] A bond means a nearest neighbor link of the lattice.
+- [00:37:48,320 - 00:37:51,420] Here's another bond which is unbroken.
+- [00:37:51,740 - 00:37:54,140] The spins are parallel at the two ends of it.
+- [00:37:54,420 - 00:37:57,300] A broken bond would be one
+- [00:37:57,300 - 00:37:59,680] like this one over here,
+- [00:37:59,820 - 00:38:01,820] where the spins are anti-parallel.
+- [00:38:02,320 - 00:38:04,380] Broken bonds cost you energy.
+- [00:38:04,380 - 00:38:06,200] How much energy?
+- [00:38:06,360 - 00:38:09,720] Each broken bond costs you two units of energy.
+- [00:38:10,180 - 00:38:11,920] So energetically,
+- [00:38:11,920 - 00:38:13,260] it's profitable
+- [00:38:13,260 - 00:38:16,420] to keep the number of broken bonds to a minimum.
+- [00:38:16,800 - 00:38:18,280] But on the other hand,
+- [00:38:18,280 - 00:38:20,160] as you raise the temperature,
+- [00:38:20,920 - 00:38:23,700] because there are so many possible configurations
+- [00:38:23,700 - 00:38:25,020] with broken bonds,
+- [00:38:25,740 - 00:38:28,000] raising the temperature will tend to create
+- [00:38:28,000 - 00:38:30,020] a population of broken bonds there.
+- [00:38:30,240 - 00:38:30,640] All right,
+- [00:38:30,640 - 00:38:31,540] so that's the picture.
+- [00:38:32,060 - 00:38:32,660] Now,
+- [00:38:32,660 - 00:38:33,640] we're going to do
+- [00:38:33,640 - 00:38:35,600] an interesting approximation,
+- [00:38:35,940 - 00:38:38,420] which really captures some of the interesting physics.
+- [00:38:39,220 - 00:38:41,320] Let's focus on one molecule.
+- [00:38:42,900 - 00:38:45,060] Let's focus on this molecule right over here.
+- [00:38:45,120 - 00:38:48,420] I don't know whether it's up or down,
+- [00:38:48,560 - 00:38:49,680] so I haven't biased it,
+- [00:38:49,800 - 00:38:51,920] but let's focus on this one over here.
+- [00:38:53,620 - 00:38:57,360] And let's write the expression for its energy.
+- [00:38:58,620 - 00:38:59,620] Its energy,
+- [00:38:59,620 - 00:39:03,620] let's call this sigma z.
+- [00:39:03,640 - 00:39:06,120] That's sigma zero right at the center.
+- [00:39:06,360 - 00:39:09,400] The spin that I'm focusing on is called sigma zero.
+- [00:39:09,540 - 00:39:10,940] It's plus one or minus one.
+- [00:39:11,700 - 00:39:14,620] And it interacts with all of its nearest neighbors.
+- [00:39:14,960 - 00:39:16,340] So its energy,
+- [00:39:16,340 - 00:39:18,320] the energy of sigma zero,
+- [00:39:18,380 - 00:39:20,360] let's call it little e.
+- [00:39:20,760 - 00:39:24,220] Little e represents the energy of this spin
+- [00:39:24,960 - 00:39:28,080] in the background of all of its neighbors.
+- [00:39:28,480 - 00:39:29,660] And what is it?
+- [00:39:29,720 - 00:39:32,280] It's minus sigma zero times.
+- [00:39:33,640 - 00:39:35,430] The sum of all the
+- [00:39:35,430 - 00:39:37,220] spins of all the nearest neighbors.
+- [00:39:38,160 - 00:39:42,480] Sum of the nearest neighbors of the nearest neighbor spins.
+- [00:39:42,740 - 00:39:44,160] I'm not going to try to make too much,
+- [00:39:44,180 - 00:39:45,120] that's enough terminology,
+- [00:39:45,120 - 00:39:46,940] enough indexology.
+- [00:39:48,160 - 00:39:48,760] Okay?
+- [00:39:49,940 - 00:39:57,180] Let's suppose that the spins have an average value.
+- [00:39:58,540 - 00:39:59,140] Okay?
+- [00:39:59,200 - 00:40:02,340] An average value that the system has magnetized.
+- [00:40:03,040 - 00:40:03,760] Let's suppose,
+- [00:40:03,760 - 00:40:04,560] it may not be,
+- [00:40:04,560 - 00:40:05,960] we'll find out if it's not.
+- [00:40:06,160 - 00:40:07,140] In other words,
+- [00:40:07,140 - 00:40:09,380] let's suppose that on the average,
+- [00:40:10,380 - 00:40:13,920] each spin has the same value as each other spin.
+- [00:40:14,400 - 00:40:16,580] And let's suppose on the average,
+- [00:40:16,860 - 00:40:21,260] the average of any spin is called s.
+- [00:40:22,060 - 00:40:22,580] Now,
+- [00:40:22,580 - 00:40:25,240] s is a number between minus one and one.
+- [00:40:25,500 - 00:40:27,050] The average of a thing which
+- [00:40:27,050 - 00:40:28,600] can only be one or minus one
+- [00:40:28,600 - 00:40:30,920] must lie between one and minus one.
+- [00:40:30,920 - 00:40:31,840] So,
+- [00:40:31,840 - 00:40:32,980] whatever s is,
+- [00:40:34,280 - 00:40:35,520] the average spin,
+- [00:40:35,720 - 00:40:37,420] is between one and minus one.
+- [00:40:37,640 - 00:40:40,280] s is the thing which is called the mean field.
+- [00:40:40,660 - 00:40:42,060] The average field,
+- [00:40:42,060 - 00:40:44,080] the average value of all of the spins.
+- [00:40:46,880 - 00:40:47,700] And now,
+- [00:40:47,700 - 00:40:50,740] each one of these spins sees around it
+- [00:40:50,740 - 00:40:52,520] a whole bunch of spins.
+- [00:40:52,820 - 00:40:55,520] If the dimensionality of the system is high enough,
+- [00:40:55,780 - 00:40:58,640] it sees loads and loads of spins around it.
+- [00:40:58,640 - 00:41:02,600] And so it has some average energy in the background.
+- [00:41:02,760 - 00:41:04,100] This one has an energy in
+- [00:41:04,100 - 00:41:05,440] the background of all of these.
+- [00:41:06,460 - 00:41:08,460] And what is its energy?
+- [00:41:09,040 - 00:41:11,940] It's just equal to minus sigma naught
+- [00:41:13,480 - 00:41:14,000] times,
+- [00:41:14,000 - 00:41:15,220] now on the average,
+- [00:41:15,280 - 00:41:17,220] each one of these sigmas is equal to s.
+- [00:41:17,800 - 00:41:18,320] So,
+- [00:41:18,320 - 00:41:19,140] that's n,
+- [00:41:19,140 - 00:41:20,800] or sorry,
+- [00:41:20,800 - 00:41:21,860] that's twice d
+- [00:41:23,680 - 00:41:24,520] times s.
+- [00:41:24,820 - 00:41:25,980] Why twice d?
+- [00:41:29,759 - 00:41:31,720] That's because that's the number of nearest neighbors.
+- [00:41:31,980 - 00:41:33,600] Twice d is the number of nearest neighbors.
+- [00:41:34,240 - 00:41:36,860] So I've replaced each one of these by its average.
+- [00:41:37,440 - 00:41:38,840] There are two d of them.
+- [00:41:39,160 - 00:41:41,040] And so that particular spin,
+- [00:41:41,040 - 00:41:41,980] right at the center,
+- [00:41:43,220 - 00:41:46,040] is experiencing a bias
+- [00:41:47,480 - 00:41:49,220] or a effective energy
+- [00:41:49,220 - 00:41:51,920] which is proportional to that spin
+- [00:41:53,520 - 00:41:55,180] with a minus sign,
+- [00:41:55,180 - 00:41:55,820] whatever it is.
+- [00:41:55,940 - 00:41:56,260] Now,
+- [00:41:56,260 - 00:41:57,900] s can either be positive or negative.
+- [00:41:57,900 - 00:42:01,020] We don't know offhand whether s is positive or negative.
+- [00:42:02,320 - 00:42:03,400] They may all be,
+- [00:42:03,400 - 00:42:04,540] they may have a tendency,
+- [00:42:04,900 - 00:42:05,860] maybe zero,
+- [00:42:05,860 - 00:42:08,120] maybe on the average s is equal to zero.
+- [00:42:09,960 - 00:42:10,440] Then,
+- [00:42:10,440 - 00:42:12,220] this would not be magnetized.
+- [00:42:13,279 - 00:42:16,100] It's magnetized if s is not zero.
+- [00:42:17,200 - 00:42:18,720] And s can either be positive,
+- [00:42:18,720 - 00:42:19,720] or it can be negative,
+- [00:42:19,860 - 00:42:20,640] or it can be zero,
+- [00:42:20,640 - 00:42:22,260] and that's what we want to find out.
+- [00:42:22,540 - 00:42:23,020] But,
+- [00:42:23,020 - 00:42:25,980] let's assume that there's some finite value of s.
+- [00:42:26,960 - 00:42:30,760] Now that we know the energy of this particular spin
+- [00:42:31,840 - 00:42:33,940] in the background of all the others,
+- [00:42:34,819 - 00:42:37,600] let's just do some statistical mechanics
+- [00:42:37,600 - 00:42:39,800] for this one spin
+- [00:42:41,380 - 00:42:43,800] in the background of all the others.
+- [00:42:44,740 - 00:42:46,860] We're freezing all the others.
+- [00:42:46,980 - 00:42:47,380] Well,
+- [00:42:47,380 - 00:42:48,280] we're not freezing them,
+- [00:42:48,280 - 00:42:49,800] we're freezing their average value.
+- [00:42:50,120 - 00:42:52,010] And we're going to think of sigma
+- [00:42:52,010 - 00:42:53,900] 0 as a little system all by itself
+- [00:42:53,900 - 00:42:55,880] at temperature T.
+- [00:42:56,800 - 00:42:58,820] And let's see what we can learn about it.
+- [00:43:01,840 - 00:43:04,040] Let me not call it sigma 0 anymore,
+- [00:43:04,040 - 00:43:05,200] let me just call it sigma.
+- [00:43:05,920 - 00:43:08,560] It's just the one spin that I'm focused on now.
+- [00:43:09,400 - 00:43:10,640] And it has an energy,
+- [00:43:10,640 - 00:43:12,100] it's energy,
+- [00:43:12,100 - 00:43:13,500] e stands for energy now,
+- [00:43:13,740 - 00:43:15,000] which is equal,
+- [00:43:15,000 - 00:43:16,480] as I wrote over there,
+- [00:43:17,020 - 00:43:18,900] twice the dimensionality of space,
+- [00:43:18,900 - 00:43:20,360] s,
+- [00:43:21,440 - 00:43:22,500] that's not ds,
+- [00:43:22,500 - 00:43:25,040] that's just d times s,
+- [00:43:25,980 - 00:43:27,680] it doesn't stand for the differential of s,
+- [00:43:28,700 - 00:43:29,580] times sigma.
+- [00:43:30,000 - 00:43:33,700] And let's write the partition function and the stati-
+- [00:43:33,700 - 00:43:34,560] Yes.
+- [00:43:35,700 - 00:43:38,240] Let's write the statistical mechanics for that spin.
+- [00:43:39,040 - 00:43:41,580] The probability function for it
+- [00:43:41,580 - 00:43:44,120] is e to the minus beta
+- [00:43:44,940 - 00:43:46,100] times its energy.
+- [00:43:46,779 - 00:43:48,340] But its energy is just this.
+- [00:43:48,440 - 00:43:54,960] So that gives us a plus 2 ds times sigma.
+- [00:43:55,980 - 00:43:58,780] That's the Boltzmann weighting factor.
+- [00:44:01,180 - 00:44:01,900] Next,
+- [00:44:01,900 - 00:44:04,320] let's calculate the partition function.
+- [00:44:05,840 - 00:44:06,560] Okay?
+- [00:44:06,640 - 00:44:09,880] The partition function is the sum over
+- [00:44:09,880 - 00:44:13,120] the two possible configurations of the spin.
+- [00:44:14,080 - 00:44:17,910] We're just doing the probability
+- [00:44:17,910 - 00:44:21,740] distribution for the single spin
+- [00:44:21,740 - 00:44:23,180] in the field of all the others.
+- [00:44:23,180 - 00:44:25,880] And so let's just write that this is equal,
+- [00:44:25,940 - 00:44:27,220] this is the sum over sigma,
+- [00:44:27,340 - 00:44:29,060] sigma equals plus or minus 1.
+- [00:44:29,620 - 00:44:30,980] And so what do we get?
+- [00:44:31,240 - 00:44:34,930] We get that the partition function is
+- [00:44:34,930 - 00:44:38,620] just equal to e to the twice,
+- [00:44:38,700 - 00:44:39,040] let's,
+- [00:44:39,040 - 00:44:44,290] twice beta ds plus e
+- [00:44:44,290 - 00:44:49,540] to the minus 2 beta ds.
+- [00:44:50,160 - 00:44:52,300] I've just added the two configurations,
+- [00:44:52,300 - 00:44:53,950] and this is the partition
+- [00:44:53,950 - 00:44:55,600] function for this very simple system
+- [00:44:56,299 - 00:44:57,760] in the field of all the others.
+- [00:44:58,560 - 00:44:59,160] Okay?
+- [00:44:59,300 - 00:44:59,740] That's z.
+- [00:45:00,460 - 00:45:04,620] How do I calculate the average energy of this spin?
+- [00:45:06,440 - 00:45:07,040] Well,
+- [00:45:07,040 - 00:45:08,180] we first have to take a logarithm.
+- [00:45:08,460 - 00:45:09,060] Right.
+- [00:45:09,160 - 00:45:09,800] All right.
+- [00:45:09,840 - 00:45:13,790] This is also twice the
+- [00:45:13,790 - 00:45:17,740] hyperbolic cosine of 2 beta ds.
+- [00:45:19,440 - 00:45:20,040] Okay.
+- [00:45:20,220 - 00:45:22,180] That's that step.
+- [00:45:22,300 - 00:45:24,640] Let's take its logarithm.
+- [00:45:29,360 - 00:45:33,540] Log of z is equal to,
+- [00:45:33,540 - 00:45:34,160] first of all,
+- [00:45:34,160 - 00:45:40,760] log of 2 plus log
+- [00:45:40,760 - 00:45:47,360] of cosh of 2 beta ds.
+- [00:45:49,820 - 00:45:52,280] What about the minus 2?
+- [00:45:52,300 - 00:45:52,300] Well,
+- [00:45:52,300 - 00:45:53,380] the minus 2 log of z is,
+- [00:45:53,380 - 00:45:54,020] of course,
+- [00:45:54,020 - 00:45:54,600] just this.
+- [00:45:55,800 - 00:45:56,360] Now,
+- [00:45:56,360 - 00:45:57,060] what is the energy?
+- [00:45:57,240 - 00:45:59,500] The energy is the derivative of
+- [00:45:59,500 - 00:46:01,760] minus log z with respect to beta.
+- [00:46:03,100 - 00:46:04,800] That's the thermodynamic identity
+- [00:46:04,800 - 00:46:06,500] or the statistical mechanics identity
+- [00:46:06,500 - 00:46:07,700] we've used over and over.
+- [00:46:08,820 - 00:46:10,580] So the energy,
+- [00:46:10,580 - 00:46:13,180] but not the energy of the whole system now,
+- [00:46:13,380 - 00:46:15,820] just the energy of this one spin.
+- [00:46:16,620 - 00:46:17,880] I'll just call it,
+- [00:46:17,880 - 00:46:19,040] what shall we call it?
+- [00:46:21,360 - 00:46:21,920] Well,
+- [00:46:21,920 - 00:46:22,280] this is the energy of the whole system.
+- [00:46:22,940 - 00:46:23,520] So basically,
+- [00:46:23,520 - 00:46:25,900] it's the average value of little e here.
+- [00:46:26,060 - 00:46:29,420] The average value of this little spin is,
+- [00:46:29,620 - 00:46:30,980] or it's the average value of
+- [00:46:30,980 - 00:46:32,340] the energy of this one spin.
+- [00:46:32,640 - 00:46:33,820] What is it given by?
+- [00:46:34,100 - 00:46:37,500] It's given by the derivative of minus log z.
+- [00:46:37,640 - 00:46:38,200] Let's see.
+- [00:46:38,260 - 00:46:38,840] So what is that?
+- [00:46:38,880 - 00:46:46,240] That's minus 1 over hyperbolic cosine of 2 beta ds.
+- [00:46:46,960 - 00:46:49,440] And then we have to differentiate
+- [00:46:49,440 - 00:46:51,920] the hyperbolic cosine with respect to beta.
+- [00:46:51,920 - 00:46:54,400] That gives us hyperbolic sine,
+- [00:46:54,400 - 00:46:58,860] 2 beta ds.
+- [00:46:59,200 - 00:47:00,990] And then we have to differentiate
+- [00:47:00,990 - 00:47:02,780] what's in here with respect to beta.
+- [00:47:02,960 - 00:47:08,780] So that gives us another factor of 2d times s.
+- [00:47:11,180 - 00:47:11,860] Okay.
+- [00:47:13,640 - 00:47:15,740] This is the important factor over here.
+- [00:47:16,200 - 00:47:17,600] It has another name.
+- [00:47:17,860 - 00:47:20,540] It's minus the hyperbolic tangent
+- [00:47:21,920 - 00:47:24,500] of 2 beta ds.
+- [00:47:26,180 - 00:47:26,920] Okay.
+- [00:47:27,800 - 00:47:31,380] That's the answer for the average energy.
+- [00:47:31,820 - 00:47:34,760] But what about the average value of the spin itself?
+- [00:47:35,460 - 00:47:38,520] What about the average value of sigma itself?
+- [00:47:40,900 - 00:47:41,640] Well,
+- [00:47:41,640 - 00:47:44,960] the energy of sigma is sigma
+- [00:47:44,960 - 00:47:48,280] minus sigma times 2d times s.
+- [00:47:48,620 - 00:47:50,900] If I wanted the average of sigma,
+- [00:47:50,900 - 00:47:52,960] I would just take the average of the energy
+- [00:47:52,960 - 00:47:55,320] and divide it by 2ds.
+- [00:47:57,000 - 00:47:58,900] Spin and energy just differ
+- [00:47:58,900 - 00:48:00,800] by a factor of minus 2ds.
+- [00:48:01,620 - 00:48:07,100] So if I simply divide the average energy by 2ds,
+- [00:48:07,200 - 00:48:09,140] I will find the average value of the spin.
+- [00:48:09,680 - 00:48:10,520] What is that?
+- [00:48:10,640 - 00:48:11,260] Here's 2d.
+- [00:48:11,380 - 00:48:11,920] Here is,
+- [00:48:11,920 - 00:48:12,360] well,
+- [00:48:12,360 - 00:48:12,760] let's see.
+- [00:48:14,680 - 00:48:16,700] I think I left out something.
+- [00:48:17,000 - 00:48:17,240] Yeah,
+- [00:48:17,240 - 00:48:17,700] here it is,
+- [00:48:17,700 - 00:48:18,140] 2ds.
+- [00:48:19,940 - 00:48:21,200] 2ds times 2ds.
+- [00:48:23,160 - 00:48:25,800] If we just cancel this 2ds,
+- [00:48:28,380 - 00:48:30,960] then we have the average value of the spin.
+- [00:48:31,100 - 00:48:33,020] I think I also want to cancel the minus sign.
+- [00:48:34,280 - 00:48:36,960] That's the average value of that spin
+- [00:48:36,960 - 00:48:40,960] by doing statistical mechanics on that spin.
+- [00:48:43,180 - 00:48:43,780] Hmm.
+- [00:48:48,640 - 00:48:49,320] Incidentally,
+- [00:48:49,320 - 00:48:51,840] if you plot hyperbolic tangent,
+- [00:48:53,300 - 00:48:55,360] the function hyperbolic tangent,
+- [00:48:55,640 - 00:48:58,060] if we plot beta this way
+- [00:48:59,780 - 00:49:01,920] and hyperbolic tangent vertically,
+- [00:49:02,320 - 00:49:04,440] it looks something like this.
+- [00:49:10,460 - 00:49:12,110] It goes to 1 at this
+- [00:49:12,110 - 00:49:13,760] end and minus 1 at this end.
+- [00:49:13,760 - 00:49:16,640] What does this correspond to?
+- [00:49:17,040 - 00:49:21,860] The maximum value that tanh takes on is 1.
+- [00:49:22,140 - 00:49:24,880] The minimum value that it takes on is minus 1.
+- [00:49:25,240 - 00:49:28,720] This just corresponds to the statement that at,
+- [00:49:30,380 - 00:49:32,250] that the maximum value the average
+- [00:49:32,250 - 00:49:34,120] of the spin can take on
+- [00:49:34,120 - 00:49:35,180] is 1 and minus 1.
+- [00:49:35,780 - 00:49:37,100] This end out here,
+- [00:49:37,100 - 00:49:40,400] or both ends actually,
+- [00:49:40,680 - 00:49:42,720] are low temperature.
+- [00:49:42,800 - 00:49:43,740] When beta goes up,
+- [00:49:43,740 - 00:49:43,740] it's 1.
+- [00:49:43,740 - 00:49:44,220] When beta goes to 0,
+- [00:49:44,740 - 00:49:46,080] so when beta goes to 0,
+- [00:49:46,320 - 00:49:46,720] sorry,
+- [00:49:46,720 - 00:49:47,860] when beta goes to infinity,
+- [00:49:48,140 - 00:49:49,480] when beta goes to infinity,
+- [00:49:49,480 - 00:49:50,440] that's low temperature.
+- [00:49:51,580 - 00:49:53,880] And don't ask me about this side over here.
+- [00:49:54,020 - 00:49:55,420] I'm going to come to that side over here.
+- [00:49:55,520 - 00:49:56,000] It's a little weird,
+- [00:49:56,000 - 00:49:56,500] isn't it?
+- [00:49:56,540 - 00:49:57,240] What does that mean?
+- [00:49:58,100 - 00:49:58,760] Negative temperature.
+- [00:49:58,760 - 00:49:59,600] Weird,
+- [00:49:59,600 - 00:49:59,860] huh?
+- [00:50:00,280 - 00:50:00,680] Yeah,
+- [00:50:00,680 - 00:50:00,980] okay.
+- [00:50:01,540 - 00:50:03,160] We'll come to negative temperature,
+- [00:50:03,160 - 00:50:04,540] but let's focus on...
+- [00:50:04,960 - 00:50:07,160] But this is the average value of the spin
+- [00:50:09,360 - 00:50:10,680] as a function of beta.
+- [00:50:12,000 - 00:50:13,400] The spin as a function of beta.
+- [00:50:13,520 - 00:50:13,820] All right.
+- [00:50:15,980 - 00:50:16,420] Yeah.
+- [00:50:16,700 - 00:50:23,600] It's interesting to relabel the x-axis s
+- [00:50:23,600 - 00:50:25,080] and get the same shape.
+- [00:50:25,300 - 00:50:25,440] Yeah,
+- [00:50:25,440 - 00:50:26,280] yeah,
+- [00:50:26,280 - 00:50:26,700] yeah.
+- [00:50:26,740 - 00:50:27,520] We're going to do that in a minute,
+- [00:50:27,520 - 00:50:27,800] right.
+- [00:50:30,180 - 00:50:30,620] Good.
+- [00:50:31,560 - 00:50:32,200] All right,
+- [00:50:32,200 - 00:50:33,620] so this is the average of the spin.
+- [00:50:34,800 - 00:50:35,680] But now,
+- [00:50:35,680 - 00:50:38,040] this only makes sense
+- [00:50:39,060 - 00:50:40,660] if the average value of the spin
+- [00:50:40,680 - 00:50:42,020] over here is the same
+- [00:50:42,020 - 00:50:43,360] as all of the other spins.
+- [00:50:44,060 - 00:50:44,840] After all,
+- [00:50:44,840 - 00:50:45,420] we're assuming
+- [00:50:45,420 - 00:50:47,940] that every spin is like every other spin,
+- [00:50:48,520 - 00:50:51,100] and so we have a consistency requirement.
+- [00:50:51,520 - 00:50:52,940] The consistency requirement
+- [00:50:53,520 - 00:50:56,620] is just that this average value of the spin here
+- [00:50:57,240 - 00:51:00,780] be equal to the average value of the spin,
+- [00:51:00,780 - 00:51:01,940] s.
+- [00:51:02,360 - 00:51:04,160] And this becomes an equation
+- [00:51:06,800 - 00:51:07,320] for,
+- [00:51:07,320 - 00:51:08,100] if you like,
+- [00:51:08,100 - 00:51:09,500] the magnetization.
+- [00:51:09,500 - 00:51:11,680] The magnitude of the magnetization,
+- [00:51:11,680 - 00:51:12,480] s itself.
+- [00:51:12,860 - 00:51:15,160] s is the average of the spin.
+- [00:51:15,300 - 00:51:16,580] It's the amount of magnetization.
+- [00:51:17,000 - 00:51:21,140] And this becomes a self-consistency equation.
+- [00:51:21,840 - 00:51:22,860] Let's just go back.
+- [00:51:22,860 - 00:51:23,560] What did we do?
+- [00:51:23,700 - 00:51:24,380] We said,
+- [00:51:24,380 - 00:51:24,720] look,
+- [00:51:24,720 - 00:51:27,100] in the limit of a large number of nearest neighbors,
+- [00:51:27,500 - 00:51:29,940] we can average over the nearest neighbors.
+- [00:51:30,380 - 00:51:33,360] And just think of an average behavior
+- [00:51:34,280 - 00:51:35,940] of the nearest neighbors.
+- [00:51:36,740 - 00:51:38,860] Assume that the nearest neighbors on the average
+- [00:51:38,860 - 00:51:39,440] have a spin,
+- [00:51:39,440 - 00:51:39,820] s.
+- [00:51:40,280 - 00:51:43,020] Then the energy of our friend at the center here
+- [00:51:43,020 - 00:51:45,380] will be minus sigma times 2 ds.
+- [00:51:45,760 - 00:51:46,980] And now knowing that,
+- [00:51:47,160 - 00:51:49,100] let's use the statistical mechanics
+- [00:51:49,100 - 00:51:51,360] to calculate the average value of s.
+- [00:51:51,560 - 00:51:52,880] And once we've done it,
+- [00:51:53,000 - 00:51:56,020] consistency requires that it just be the same
+- [00:51:56,020 - 00:51:58,220] as the input s in the first place.
+- [00:51:58,840 - 00:51:59,940] So here we are.
+- [00:52:01,540 - 00:52:02,680] What do we have to do?
+- [00:52:02,940 - 00:52:04,920] We have to satisfy this equation.
+- [00:52:06,460 - 00:52:07,480] On the left,
+- [00:52:07,480 - 00:52:08,160] we have s.
+- [00:52:08,860 - 00:52:10,620] Let's draw the graph of just s.
+- [00:52:14,080 - 00:52:15,200] On the right,
+- [00:52:15,200 - 00:52:16,820] we can put s over here.
+- [00:52:21,080 - 00:52:24,220] Tangent to beta s is...
+- [00:52:24,779 - 00:52:26,580] We'll put s on the horizontal axis.
+- [00:52:27,900 - 00:52:29,380] What is the significance,
+- [00:52:29,380 - 00:52:30,760] in terms of this graph,
+- [00:52:31,040 - 00:52:33,060] of changing beta...
+- [00:52:33,060 - 00:52:34,700] Let's say d is fixed.
+- [00:52:34,960 - 00:52:36,280] d is three dimensions now.
+- [00:52:36,580 - 00:52:38,780] What's the significance of changing beta?
+- [00:52:39,980 - 00:52:42,600] It changes the slope at the origin here.
+- [00:52:43,300 - 00:52:43,900] That's all.
+- [00:52:44,000 - 00:52:46,460] It just spreads the curve out or shrinks it together.
+- [00:52:46,860 - 00:52:49,320] What happens when beta is very small?
+- [00:52:51,740 - 00:52:56,020] It spreads it out like this.
+- [00:53:01,820 - 00:53:04,040] So this is beta small.
+- [00:53:05,140 - 00:53:05,700] Well,
+- [00:53:05,700 - 00:53:07,080] that's not the axis.
+- [00:53:07,240 - 00:53:08,660] This just stands for small beta.
+- [00:53:10,860 - 00:53:12,200] What about large beta?
+- [00:53:14,920 - 00:53:16,600] Supposing beta was enormously large?
+- [00:53:16,820 - 00:53:17,200] Yeah.
+- [00:53:17,840 - 00:53:20,160] That means it looks almost like...
+- [00:53:22,100 - 00:53:22,540] this.
+- [00:53:26,100 - 00:53:27,920] But this curve and that
+- [00:53:27,920 - 00:53:29,740] curve are related to each other.
+- [00:53:29,800 - 00:53:32,000] They're just shrinking along one axis.
+- [00:53:33,140 - 00:53:34,000] Squeezing it along...
+- [00:53:34,000 - 00:53:34,060] Well,
+- [00:53:34,060 - 00:53:35,560] I didn't quite do it right.
+- [00:53:35,660 - 00:53:36,760] The height of this should have been
+- [00:53:36,760 - 00:53:37,860] the same as the height of this.
+- [00:53:37,860 - 00:53:40,400] This corresponds to one unit over here.
+- [00:53:40,740 - 00:53:42,240] This is one unit over here.
+- [00:53:42,740 - 00:53:43,340] All right.
+- [00:53:43,360 - 00:53:44,240] So I didn't draw it well,
+- [00:53:44,240 - 00:53:45,520] but that's the picture.
+- [00:53:45,880 - 00:53:49,540] Now let's draw s as a function of s.
+- [00:53:49,680 - 00:53:50,520] On the left-hand side,
+- [00:53:50,520 - 00:53:51,220] we have s.
+- [00:53:51,320 - 00:53:52,060] On the right-hand side,
+- [00:53:52,060 - 00:53:52,920] we have this tanh.
+- [00:53:53,020 - 00:53:53,940] We want to set them equal.
+- [00:53:54,400 - 00:53:57,700] That just means superimposing on this diagram...
+- [00:54:00,160 - 00:54:01,180] a straight line.
+- [00:54:02,820 - 00:54:04,600] At the point where they intersect,
+- [00:54:04,600 - 00:54:07,840] s will be equal to tanh to beta s.
+- [00:54:08,280 - 00:54:09,060] All right.
+- [00:54:09,080 - 00:54:09,680] What about here?
+- [00:54:10,100 - 00:54:11,360] Where do they intersect?
+- [00:54:11,920 - 00:54:13,860] They only intersect at the origin.
+- [00:54:14,080 - 00:54:16,040] That's the only place where they intersect.
+- [00:54:16,260 - 00:54:17,080] It's at the origin.
+- [00:54:17,600 - 00:54:19,590] And the implication of that is
+- [00:54:19,590 - 00:54:21,580] there's only one solution of the equation.
+- [00:54:22,000 - 00:54:24,930] And that one solution of the
+- [00:54:24,930 - 00:54:27,860] equation is magnetization equal to zero.
+- [00:54:28,600 - 00:54:29,200] Okay?
+- [00:54:29,560 - 00:54:32,260] That's what happens at small beta.
+- [00:54:32,520 - 00:54:34,580] And small beta means high-tech.
+- [00:54:34,600 - 00:54:34,920] And that's the temperature.
+- [00:54:35,640 - 00:54:38,220] Now you start lowering the temperature.
+- [00:54:38,560 - 00:54:40,280] And as you lower the temperature,
+- [00:54:40,500 - 00:54:43,320] this curve migrates to this curve.
+- [00:54:43,640 - 00:54:45,180] And what happens over here?
+- [00:54:48,440 - 00:54:50,600] Now there are actually three solutions.
+- [00:54:52,160 - 00:54:53,620] There are three solutions.
+- [00:54:54,320 - 00:54:56,000] And to calculate which solution
+- [00:54:56,000 - 00:54:57,680] is actually the right solution,
+- [00:54:57,960 - 00:54:59,380] you have to calculate the entropy
+- [00:54:59,380 - 00:55:01,860] and see which one corresponds to the highest entropy.
+- [00:55:02,460 - 00:55:03,260] All right.
+- [00:55:04,600 - 00:55:05,920] So these two have the same entropy.
+- [00:55:06,140 - 00:55:08,240] And this one has some higher entropy configuration,
+- [00:55:08,700 - 00:55:10,020] which actually corresponds to
+- [00:55:10,020 - 00:55:11,340] some kind of metastable configuration.
+- [00:55:12,460 - 00:55:16,600] Here is the solution.
+- [00:55:18,440 - 00:55:20,700] Another way you can do it is to
+- [00:55:20,700 - 00:55:22,960] imagine that there is this little weak magnetic field.
+- [00:55:23,340 - 00:55:24,900] If there was a very tiny,
+- [00:55:24,900 - 00:55:26,340] small magnetic field,
+- [00:55:26,640 - 00:55:29,820] it would bias you to one of these two solutions,
+- [00:55:31,000 - 00:55:32,220] depending on which way.
+- [00:55:32,300 - 00:55:32,720] Incidentally,
+- [00:55:32,720 - 00:55:35,380] these two solutions correspond to
+- [00:55:35,380 - 00:55:38,040] the two possibilities for the magnetization,
+- [00:55:38,260 - 00:55:41,140] either on the average up or the average down.
+- [00:55:41,380 - 00:55:43,090] They correspond to S equals
+- [00:55:43,090 - 00:55:44,800] something positive or something negative.
+- [00:55:45,520 - 00:55:46,280] All right.
+- [00:55:46,520 - 00:55:49,170] If you were to bias the system
+- [00:55:49,170 - 00:55:51,820] with a little bit of external magnetic field
+- [00:55:51,820 - 00:55:54,040] and really work it out carefully,
+- [00:55:54,200 - 00:55:57,000] you would find out that only these two solutions persist.
+- [00:55:57,940 - 00:55:59,180] That's all that's there.
+- [00:55:59,300 - 00:56:00,720] And that's what happens.
+- [00:56:00,760 - 00:56:01,640] So what happens now?
+- [00:56:01,640 - 00:56:03,720] You start changing the temperature.
+- [00:56:05,480 - 00:56:07,420] And at some point,
+- [00:56:07,440 - 00:56:09,360] at some point,
+- [00:56:09,440 - 00:56:13,260] the slope of the tanh function here
+- [00:56:13,260 - 00:56:15,110] gets to be equal to the
+- [00:56:15,110 - 00:56:16,960] slope of the straight line here.
+- [00:56:17,180 - 00:56:18,600] And after that,
+- [00:56:18,780 - 00:56:20,500] there's the intersection
+- [00:56:21,320 - 00:56:24,080] that corresponds to the magnetized phase.
+- [00:56:25,600 - 00:56:27,120] Where does that happen?
+- [00:56:27,300 - 00:56:30,480] That happens when the slope of this function
+- [00:56:30,480 - 00:56:32,400] becomes equal to one.
+- [00:56:35,300 - 00:56:39,740] That's just when twice dS,
+- [00:56:41,540 - 00:56:42,460] sorry,
+- [00:56:42,640 - 00:56:43,080] twice,
+- [00:56:44,000 - 00:56:48,860] when twice beta d is equal to one.
+- [00:56:51,260 - 00:56:55,340] When twice beta d is equal to one,
+- [00:56:55,480 - 00:56:58,580] then the tanh curve here
+- [00:56:58,580 - 00:57:00,460] becomes equal to one.
+- [00:57:00,480 - 00:57:01,220] So we have an equivalent slope
+- [00:57:02,360 - 00:57:03,700] to the straight line.
+- [00:57:04,420 - 00:57:05,960] And beyond that,
+- [00:57:06,120 - 00:57:08,840] it has this new intersection over here
+- [00:57:08,840 - 00:57:09,740] and over here.
+- [00:57:10,180 - 00:57:12,220] That's where the magnetization happens.
+- [00:57:12,700 - 00:57:13,380] So,
+- [00:57:13,380 - 00:57:14,760] in effect,
+- [00:57:14,960 - 00:57:16,780] we have found the temperature,
+- [00:57:17,120 - 00:57:18,440] the beta,
+- [00:57:19,520 - 00:57:22,220] at which this phenomena first happens.
+- [00:57:22,540 - 00:57:23,540] It happens,
+- [00:57:23,640 - 00:57:24,180] let's see,
+- [00:57:24,180 - 00:57:24,640] what is it?
+- [00:57:24,720 - 00:57:27,060] It's when beta is bigger.
+- [00:57:27,940 - 00:57:30,360] we have spontaneous magnetization,
+- [00:57:30,360 - 00:57:32,340] this is spontaneous magnetization,
+- [00:57:32,340 - 00:57:34,000] yeah,
+- [00:57:34,000 - 00:57:35,240] when
+- [00:57:35,240 - 00:57:38,610] let's see beta which is 1 over the
+- [00:57:38,610 - 00:57:41,980] temperature times 2d is equal to 1 or
+- [00:57:41,980 - 00:57:46,740] temperature equals twice the dimension of space,
+- [00:57:46,740 - 00:57:50,520] twice that the temperature
+- [00:57:50,520 - 00:57:52,600] equal to twice the dimension of space,
+- [00:57:52,600 - 00:57:56,100] whether in space would be 3 for
+- [00:57:56,100 - 00:57:58,750] three-dimensional systems or the temperature
+- [00:57:58,750 - 00:58:01,400] of six units and six units
+- [00:58:01,400 - 00:58:04,130] in what unit well we would need to
+- [00:58:04,130 - 00:58:06,860] put some units in here by putting a constant
+- [00:58:06,860 - 00:58:08,350] into this formula over here
+- [00:58:08,350 - 00:58:09,840] this is not dimensionally consistent,
+- [00:58:09,840 - 00:58:10,840] sigma is either
+- [00:58:10,840 - 00:58:13,850] plus or minus 1 and energy has units
+- [00:58:13,850 - 00:58:16,860] of energy we have to throw in another
+- [00:58:16,860 - 00:58:19,880] constant over here to give it units
+- [00:58:19,880 - 00:58:22,900] that other constant would appear over here
+- [00:58:23,580 - 00:58:25,340] now let's call that constant J
+- [00:58:26,100 - 00:58:28,510] I always call that constant J then it
+- [00:58:28,510 - 00:58:30,920] would appear over here and has units of
+- [00:58:30,920 - 00:58:31,220] energy
+- [00:58:32,340 - 00:58:34,870] ok the main point is you see what
+- [00:58:34,870 - 00:58:37,400] the pattern is that as you vary the
+- [00:58:37,400 - 00:58:40,400] temperature from high temperature to low
+- [00:58:40,400 - 00:58:43,400] temperature or from low temperature to
+- [00:58:43,400 - 00:58:44,000] high temperature
+- [00:58:45,700 - 00:58:47,720] let's start at the low
+- [00:58:47,720 - 00:58:49,740] temperature situation at the very lowest
+- [00:58:49,740 - 00:58:52,770] temperatures at the very lowest temperatures
+- [00:58:52,770 - 00:58:55,800] this is a sharp jump here
+- [00:58:56,640 - 00:58:58,790] and what does it say it says
+- [00:58:58,790 - 00:59:00,940] the magnetization is either plus 1 or
+- [00:59:00,940 - 00:59:05,090] minus 1 so a temperature equal to 0
+- [00:59:05,090 - 00:59:09,240] it's just temperature equal to 0 T you jump
+- [00:59:10,300 - 00:59:15,900] well you jump as you go across here
+- [00:59:15,900 - 00:59:21,500] from magnetization minus 1 to plus 1 two
+- [00:59:21,500 - 00:59:25,640] possible solutions and then as you increase the temperature
+- [00:59:26,100 - 00:59:27,760] let's see what happens as you
+- [00:59:27,760 - 00:59:29,420] increase the temperature if you increase the
+- [00:59:29,420 - 00:59:32,020] temperature to a high enough point
+- [00:59:32,020 - 00:59:34,620] beyond to a temperature higher than this
+- [00:59:34,620 - 00:59:39,780] there's no more solution other than the solution at 0
+- [00:59:40,820 - 00:59:44,160] ok so that means as you increase
+- [00:59:44,160 - 00:59:47,500] the temperature at some point at some point
+- [00:59:47,500 - 00:59:50,090] the spontaneous magnetization disappears
+- [00:59:50,090 - 00:59:52,680] the spontaneous symmetry breaking
+- [00:59:52,680 - 00:59:55,740] disappears and there's only the solution with
+- [00:59:55,740 - 00:59:59,570] sigma equal to 0 no no magnetization over
+- [00:59:59,570 - 01:00:03,400] here but up to that point there is
+- [01:00:03,400 - 01:00:05,450] magnetization so we have exactly the
+- [01:00:05,450 - 01:00:07,500] situation that I described when we began
+- [01:00:08,080 - 01:00:11,340] and we have a jump jump
+- [01:00:11,340 - 01:00:14,600] in the magnetization are that's associated with
+- [01:00:14,600 - 01:00:17,320] a jump from here to here if we buy
+- [01:00:17,320 - 01:00:20,040] us the system a little bit with a little
+- [01:00:20,040 - 01:00:22,170] bit of external magnetic field one of
+- [01:00:22,170 - 01:00:24,300] the two of these will be the lower
+- [01:00:24,300 - 01:00:25,160] energy configuration
+- [01:00:25,740 - 01:00:28,780] and it will dominate the physics
+- [01:00:29,400 - 01:00:30,000] Alright,
+- [01:00:30,000 - 01:00:34,360] so that's the phenomenon of spontaneous magnetization
+- [01:00:34,360 - 01:00:35,380] One other point,
+- [01:00:35,380 - 01:00:40,000] notice what happens to the intersection over here
+- [01:00:40,760 - 01:00:45,720] as you go to this point over here
+- [01:00:45,720 - 01:00:47,460] As you go to this point over here,
+- [01:00:47,460 - 01:00:48,280] let's track it
+- [01:00:48,280 - 01:00:50,500] So let's start with...
+- [01:00:52,220 - 01:00:52,900] Okay,
+- [01:00:52,900 - 01:00:56,120] so here's very low temperature
+- [01:00:56,120 - 01:01:00,680] and now we raise the temperature
+- [01:01:01,360 - 01:01:05,860] this curve starts to move over to this,
+- [01:01:05,860 - 01:01:06,500] like that
+- [01:01:08,160 - 01:01:10,580] this point moves down
+- [01:01:10,580 - 01:01:12,500] and as we lower the temperature,
+- [01:01:12,500 - 01:01:14,390] we eventually come to this
+- [01:01:14,390 - 01:01:16,280] first point where the crossover is
+- [01:01:16,280 - 01:01:17,780] and the crossover,
+- [01:01:17,780 - 01:01:20,480] the crossing of the temperature
+- [01:01:20,500 - 01:01:22,370] between these two curves migrates
+- [01:01:22,370 - 01:01:24,240] continuously to the origin here
+- [01:01:24,240 - 01:01:26,960] and the meaning of that is
+- [01:01:26,960 - 01:01:29,680] that there's magnetization all along here
+- [01:01:29,680 - 01:01:30,420] in other words,
+- [01:01:30,420 - 01:01:34,340] there's non-zero average of the spin
+- [01:01:34,340 - 01:01:38,300] but as you move toward this point here
+- [01:01:38,300 - 01:01:41,680] the average magnetization goes away
+- [01:01:41,680 - 01:01:44,380] and disappears at that point and then it's gone
+- [01:01:45,220 - 01:01:45,860] Okay,
+- [01:01:45,860 - 01:01:47,020] what's this point called?
+- [01:01:47,020 - 01:01:47,480] Anybody know?
+- [01:01:47,680 - 01:01:49,260] Critical point,
+- [01:01:49,260 - 01:01:49,800] Curie point,
+- [01:01:49,800 - 01:01:49,940] yeah,
+- [01:01:49,940 - 01:01:50,480] critical point
+- [01:01:50,500 - 01:01:52,080] T critical,
+- [01:01:52,080 - 01:01:53,560] right
+- [01:01:53,560 - 01:01:55,980] What would it mean for a fluid?
+- [01:01:56,720 - 01:01:59,340] What does it mean for the gas-liquid phase transition?
+- [01:01:59,820 - 01:02:02,740] It means that as you move to the critical point
+- [01:02:02,740 - 01:02:05,690] the density difference between the gas
+- [01:02:05,690 - 01:02:08,640] and the liquid goes to zero
+- [01:02:08,640 - 01:02:09,900] Over here,
+- [01:02:09,900 - 01:02:11,940] more spins down
+- [01:02:12,500 - 01:02:13,340] Over here,
+- [01:02:13,340 - 01:02:14,380] more spins up
+- [01:02:14,380 - 01:02:15,640] There's a gap,
+- [01:02:15,640 - 01:02:17,780] a separation in the value of the density
+- [01:02:17,780 - 01:02:19,940] as you jump from here to here
+- [01:02:19,940 - 01:02:22,050] but as you go above the critical
+- [01:02:22,050 - 01:02:24,160] point or right to the critical point
+- [01:02:24,160 - 01:02:26,060] right at that point,
+- [01:02:26,060 - 01:02:30,660] the liquid and the gas density are exactly the same
+- [01:02:30,660 - 01:02:32,460] and then beyond that,
+- [01:02:32,460 - 01:02:34,160] there is no liquid-gas distinction
+- [01:02:35,240 - 01:02:37,140] Temperature's higher than the critical temperature
+- [01:02:37,940 - 01:02:42,980] So that's the mean field approximation to
+- [01:02:42,980 - 01:02:48,020] the critical point of the Ising magnet
+- [01:02:48,020 - 01:02:49,920] I didn't tell you this is called the Ising magnet
+- [01:02:49,940 - 01:02:51,740] It's the Ising magnetic system,
+- [01:02:51,740 - 01:02:52,480] Ising,
+- [01:02:52,480 - 01:02:53,420] I-S-I-N-G
+- [01:02:56,500 - 01:02:57,900] Ising didn't invent it
+- [01:02:58,580 - 01:03:01,640] He solved the one-dimensional version of it
+- [01:03:01,640 - 01:03:04,220] which takes about a quarter of a line of paper
+- [01:03:06,480 - 01:03:07,900] It's very trivial
+- [01:03:07,900 - 01:03:11,130] His thesis advisor asked him to study
+- [01:03:11,130 - 01:03:14,360] it as an example of phase transitions
+- [01:03:15,480 - 01:03:16,520] and he did,
+- [01:03:16,520 - 01:03:17,460] and he discovered
+- [01:03:17,460 - 01:03:20,540] that there's no phase transition in one dimension
+- [01:03:20,540 - 01:03:21,160] Now,
+- [01:03:21,160 - 01:03:22,880] that doesn't seem consistent with this
+- [01:03:23,460 - 01:03:24,740] When d equals one,
+- [01:03:24,740 - 01:03:27,080] there still seems to be the same phenomena
+- [01:03:27,080 - 01:03:28,600] but the point is,
+- [01:03:28,600 - 01:03:29,560] in one dimension,
+- [01:03:29,560 - 01:03:30,740] it's a poor approximation
+- [01:03:30,740 - 01:03:33,380] There aren't enough nearest neighbors to average over
+- [01:03:33,380 - 01:03:34,930] He solved it correctly and
+- [01:03:34,930 - 01:03:36,480] found there was no phase transition
+- [01:03:38,280 - 01:03:39,500] and from that,
+- [01:03:39,500 - 01:03:42,300] he concluded that there are no phase transitions,
+- [01:03:42,300 - 01:03:42,820] period
+- [01:03:43,460 - 01:03:44,660] He was quite wrong
+- [01:03:45,920 - 01:03:46,680] but he did get his neighbor to
+- [01:03:46,680 - 01:03:47,440] think that there was no phase transition
+- [01:03:47,460 - 01:03:48,680] He was named to be the
+- [01:03:48,680 - 01:03:49,900] most famous name in statistical mechanics
+- [01:03:50,319 - 01:03:53,189] because his thesis advisor happened
+- [01:03:53,189 - 01:03:56,060] to give him the right problem
+- [01:03:58,940 - 01:03:59,580] Anyway,
+- [01:03:59,580 - 01:04:00,900] the Ising model,
+- [01:04:00,900 - 01:04:02,700] these are called the Ising models
+- [01:04:03,460 - 01:04:06,560] and in dimensions higher than one
+- [01:04:07,200 - 01:04:09,820] the mean field approximation is a good approximation
+- [01:04:10,460 - 01:04:12,240] and says that there's a critical point
+- [01:04:12,240 - 01:04:14,820] magnetization up to that critical point
+- [01:04:14,820 - 01:04:16,520] no magnetization after that
+- [01:04:16,520 - 01:04:19,640] and the magnetization smoothly goes to zero
+- [01:04:19,640 - 01:04:21,340] as you go to the critical point
+- [01:04:22,340 - 01:04:22,860] Alright,
+- [01:04:22,860 - 01:04:23,980] so that's a...
+- [01:04:24,980 - 01:04:25,500] I,
+- [01:04:25,500 - 01:04:25,860] uh,
+- [01:04:25,860 - 01:04:27,840] this took shorter than I expected it to
+- [01:04:27,840 - 01:04:29,880] so let's have some questions
+- [01:04:30,820 - 01:04:33,560] and I don't want to start a new topic now
+- [01:04:33,560 - 01:04:34,480] What was J?
+- [01:04:34,920 - 01:04:35,440] Oh,
+- [01:04:35,440 - 01:04:36,200] J is just a constant
+- [01:04:37,240 - 01:04:38,940] Let's just go back to where it came from
+- [01:04:38,940 - 01:04:41,880] I wrote that the energy of the system
+- [01:04:42,520 - 01:04:44,920] was minus sigma i sigma j
+- [01:04:45,580 - 01:04:46,100] Now,
+- [01:04:46,100 - 01:04:47,800] sigma is a dimensionless variable
+- [01:04:47,800 - 01:04:50,020] It takes on magnitude one and minus one
+- [01:04:50,020 - 01:04:51,280] So it's dimensionless
+- [01:04:51,779 - 01:04:53,320] So this is not dimensionless,
+- [01:04:53,320 - 01:04:54,420] dimensionally consistent
+- [01:04:54,420 - 01:04:56,560] if I wanted to restore some dimensions
+- [01:04:57,220 - 01:04:58,360] So what I would do is
+- [01:04:58,360 - 01:04:59,500] I would put a constant here
+- [01:04:59,500 - 01:05:01,300] with units of an energy
+- [01:05:01,920 - 01:05:02,300] Alright?
+- [01:05:02,300 - 01:05:03,380] J
+- [01:05:03,380 - 01:05:04,820] I suppose J for Joule,
+- [01:05:04,820 - 01:05:05,360] I don't know
+- [01:05:06,980 - 01:05:09,160] And then it would reappear over here
+- [01:05:09,160 - 01:05:13,880] because it always multiplies the dimensionality of space
+- [01:05:13,880 - 01:05:14,560] Right?
+- [01:05:14,920 - 01:05:17,300] Could you go to the logic again
+- [01:05:17,300 - 01:05:20,180] for S equals the tangent hyperbolic to beta dS?
+- [01:05:20,420 - 01:05:20,580] Well,
+- [01:05:20,580 - 01:05:21,500] what we find
+- [01:05:21,500 - 01:05:24,960] when we isolate this one spin
+- [01:05:24,960 - 01:05:26,940] and think of it in
+- [01:05:26,940 - 01:05:28,920] the background of all the others
+- [01:05:29,560 - 01:05:31,940] is that its average in the background
+- [01:05:31,940 - 01:05:34,300] because of thermal fluctuations
+- [01:05:34,300 - 01:05:36,320] will be tan 2 beta dS
+- [01:05:36,920 - 01:05:37,280] Alright?
+- [01:05:37,420 - 01:05:40,280] Now that's just one spin out of all these others
+- [01:05:42,040 - 01:05:43,300] What we've assumed
+- [01:05:43,300 - 01:05:45,120] is that there's an average spin
+- [01:05:45,120 - 01:05:46,940] for every spin on the lattice
+- [01:05:46,940 - 01:05:48,240] which are all the same
+- [01:05:48,240 - 01:05:50,400] Every spin is like every other spin
+- [01:05:50,400 - 01:05:52,100] and we've assumed that the
+- [01:05:52,100 - 01:05:53,800] average spin is equal to S
+- [01:05:53,800 - 01:05:55,720] That was our starting point
+- [01:05:55,720 - 01:05:58,100] We replaced all the nearest neighbors by S
+- [01:05:59,180 - 01:06:00,980] But then this is only consistent
+- [01:06:00,980 - 01:06:02,870] if when we calculate the average
+- [01:06:02,870 - 01:06:04,760] of any one of the spins
+- [01:06:05,300 - 01:06:07,630] it's equal to the average
+- [01:06:07,630 - 01:06:09,960] that we assumed in the beginning
+- [01:06:10,980 - 01:06:12,840] So we assumed an average value
+- [01:06:13,620 - 01:06:15,220] for all the other spins
+- [01:06:15,770 - 01:06:18,220] We then calculated the expectation
+- [01:06:18,220 - 01:06:20,120] or the average value of the
+- [01:06:20,120 - 01:06:22,020] one spin that we treated honestly
+- [01:06:22,660 - 01:06:24,520] All the others we just
+- [01:06:24,520 - 01:06:26,380] treated as something we can average
+- [01:06:26,380 - 01:06:28,500] This one spin we treated honestly
+- [01:06:28,500 - 01:06:30,620] in the background of the others
+- [01:06:30,620 - 01:06:33,060] And we found out that
+- [01:06:33,730 - 01:06:35,900] at a given temperature it has an average
+- [01:06:37,120 - 01:06:38,480] which is equal to this
+- [01:06:39,520 - 01:06:41,080] The only consistency
+- [01:06:41,080 - 01:06:44,120] The only way this can be consistent
+- [01:06:44,880 - 01:06:46,480] since we assumed that the average
+- [01:06:46,480 - 01:06:48,080] of a spin is equal to
+- [01:06:48,080 - 01:06:48,840] We called it S
+- [01:06:48,840 - 01:06:50,660] is for these two to be equal
+- [01:06:54,820 - 01:06:57,380] So it's just the consistency of
+- [01:06:59,320 - 01:07:00,700] the original assumption
+- [01:07:01,220 - 01:07:04,200] that the average of the spin is equal to S
+- [01:07:06,220 - 01:07:07,220] And this is a,
+- [01:07:07,220 - 01:07:07,960] incidentally,
+- [01:07:07,960 - 01:07:09,140] this method of mean field
+- [01:07:09,140 - 01:07:11,140] is a common method in physics
+- [01:07:11,760 - 01:07:14,240] where when you have a lot of degrees of freedom
+- [01:07:15,100 - 01:07:16,760] you focus on one of them
+- [01:07:16,760 - 01:07:20,760] and you assume the average value for all the others
+- [01:07:22,000 - 01:07:22,600] Then,
+- [01:07:22,600 - 01:07:25,060] using the average value for all the others
+- [01:07:25,060 - 01:07:26,680] you study the dynamics of
+- [01:07:26,680 - 01:07:28,300] the one additional degree of freedom
+- [01:07:29,220 - 01:07:30,600] And then in the end
+- [01:07:31,400 - 01:07:33,390] when you've calculated the averages for
+- [01:07:33,390 - 01:07:35,380] that one additional degree of freedom
+- [01:07:35,380 - 01:07:38,460] set them equal to the averages that you assumed
+- [01:07:38,460 - 01:07:39,500] for all the others
+- [01:07:39,500 - 01:07:41,840] That's called the mean field approximation
+- [01:07:43,160 - 01:07:44,440] And as I said,
+- [01:07:44,440 - 01:07:48,880] it's a widely used approximation
+- [01:07:49,760 - 01:07:53,200] And it is most effective in situations
+- [01:07:54,240 - 01:07:57,300] where any one degree of freedom is in direct contact
+- [01:07:57,300 - 01:07:59,340] with a large number of others
+- [01:07:59,340 - 01:08:00,760] that you can average over
+- [01:08:01,359 - 01:08:03,380] In terms of the dimensionality of space
+- [01:08:03,380 - 01:08:04,820] it means that the,
+- [01:08:04,820 - 01:08:07,160] what's called the coordination number
+- [01:08:07,160 - 01:08:09,880] the number of nearest neighbors is large
+- [01:08:10,560 - 01:08:12,000] The way you can get the
+- [01:08:12,000 - 01:08:13,440] number of nearest neighbors to be large
+- [01:08:13,440 - 01:08:14,340] is only one way
+- [01:08:14,340 - 01:08:15,430] and that's to let the
+- [01:08:15,430 - 01:08:16,520] dimension of the lattice get large
+- [01:08:17,399 - 01:08:20,160] So then you have the perfect right to ask
+- [01:08:20,160 - 01:08:21,000] Okay,
+- [01:08:21,000 - 01:08:23,540] you've convinced us about something
+- [01:08:23,540 - 01:08:26,660] in the limit of very large numbers of dimensions
+- [01:08:26,660 - 01:08:28,960] We might believe it for a thousand dimensions
+- [01:08:28,960 - 01:08:31,779] We might even believe it for a hundred dimensions
+- [01:08:32,399 - 01:08:34,520] We might even believe it for ten dimensions
+- [01:08:35,160 - 01:08:37,140] But where should we start to disbelieve?
+- [01:08:37,160 - 01:08:39,479] And the answer is,
+- [01:08:39,479 - 01:08:40,580] you should start
+- [01:08:40,580 - 01:08:42,219] It depends of course on
+- [01:08:42,219 - 01:08:43,859] the degree of accuracy you want
+- [01:08:43,859 - 01:08:47,120] But if you want something like 20% accuracy
+- [01:08:47,120 - 01:08:51,899] or you just want 20% accuracy for the critical temperature
+- [01:08:51,899 - 01:08:52,240] Okay,
+- [01:08:52,240 - 01:08:54,279] d equals 3 is fine
+- [01:08:54,279 - 01:08:56,520] It's a good approximation for d equals 3
+- [01:08:57,160 - 01:09:00,260] It's a so-so approximation for d equals 2
+- [01:09:01,160 - 01:09:02,600] I'll tell you the exact numbers
+- [01:09:03,140 - 01:09:05,380] If you calculate the critical temperature
+- [01:09:05,380 - 01:09:06,600] Here's the critical temperature
+- [01:09:06,600 - 01:09:07,140] Where was it?
+- [01:09:09,179 - 01:09:11,340] Setting j equal to 1
+- [01:09:11,340 - 01:09:12,020] Here it is
+- [01:09:12,020 - 01:09:13,760] Setting j equal to 1
+- [01:09:14,819 - 01:09:15,460] Alright
+- [01:09:16,140 - 01:09:18,399] For two dimensions
+- [01:09:19,100 - 01:09:22,279] t is equal to 4 in some appropriate units
+- [01:09:22,920 - 01:09:26,260] The correct answer if I remember is about 2.7
+- [01:09:27,740 - 01:09:30,560] So it's not good and it's not horrible
+- [01:09:31,160 - 01:09:34,160] For three dimensions I don't remember the exact numbers
+- [01:09:34,160 - 01:09:36,479] Of course I can do 2 times 3
+- [01:09:36,479 - 01:09:37,479] That I'm pretty good at
+- [01:09:37,479 - 01:09:37,939] It's 6
+- [01:09:38,479 - 01:09:40,540] But I don't remember the exact
+- [01:09:40,540 - 01:09:41,120] Let's see
+- [01:09:41,120 - 01:09:44,359] The critical temperature is always lower
+- [01:09:44,359 - 01:09:46,460] The real critical temperature is always lower
+- [01:09:46,460 - 01:09:47,640] Than the mean field approximation
+- [01:09:51,219 - 01:09:53,700] So I don't remember the exact numbers
+- [01:09:53,700 - 01:09:57,740] But it's within 20% or 15% of the right answer
+- [01:09:58,480 - 01:09:59,440] And by d equals
+- [01:09:59,440 - 01:09:59,880] Well,
+- [01:09:59,880 - 01:10:00,600] we're not interested
+- [01:10:00,600 - 01:10:02,300] We're really not interested in 4 dimensions
+- [01:10:02,300 - 01:10:03,880] 5 dimensions or 6 dimensions
+- [01:10:04,480 - 01:10:06,460] It's reasonably accurate for d equals 3
+- [01:10:06,460 - 01:10:10,640] It gives you the right general picture
+- [01:10:10,640 - 01:10:15,420] And is even quantitatively within about 15%
+- [01:10:15,420 - 01:10:16,860] I can't remember the exact number
+- [01:10:17,460 - 01:10:18,660] d equals 1
+- [01:10:18,660 - 01:10:20,700] It completely breaks down
+- [01:10:20,700 - 01:10:21,660] Well,
+- [01:10:21,660 - 01:10:23,160] it completely breaks down
+- [01:10:23,160 - 01:10:25,180] It says t equals 2d
+- [01:10:25,180 - 01:10:27,220] The actual answer is t equals 0
+- [01:10:27,220 - 01:10:30,060] The critical temperature is 0
+- [01:10:30,060 - 01:10:31,560] In other words,
+- [01:10:31,560 - 01:10:33,380] you never even really get started
+- [01:10:33,380 - 01:10:35,500] At temperature 0 it's true
+- [01:10:35,500 - 01:10:38,420] That there's a magnetized phase
+- [01:10:38,420 - 01:10:39,880] Either all up or all down
+- [01:10:40,500 - 01:10:42,540] But the smallest amount of temperature
+- [01:10:42,540 - 01:10:44,000] Will disrupt it
+- [01:10:44,000 - 01:10:45,060] Incidentally,
+- [01:10:45,060 - 01:10:46,980] I can tell you the physical reason for that
+- [01:10:47,500 - 01:10:50,320] There's an interesting simple physical reason
+- [01:10:50,320 - 01:10:56,100] Why you can't have this kind of spontaneous order
+- [01:10:56,100 - 01:10:58,960] In one dimension
+- [01:10:59,700 - 01:11:02,540] And why you can have it in higher dimensions
+- [01:11:05,679 - 01:11:08,360] Let's think about all of the configurations
+- [01:11:09,440 - 01:11:11,820] Of the one-dimensional theory
+- [01:11:12,440 - 01:11:14,400] Let's start with all spins up
+- [01:11:16,460 - 01:11:18,080] So what we're starting with
+- [01:11:18,740 - 01:11:21,000] Is a little bit of bias
+- [01:11:21,000 - 01:11:23,420] Which makes all the spins be up
+- [01:11:24,220 - 01:11:26,780] And now let's look at all the configurations
+- [01:11:26,780 - 01:11:28,680] That we can build on top of that
+- [01:11:28,680 - 01:11:30,000] What can we do?
+- [01:11:30,160 - 01:11:32,100] We can start flipping spins down
+- [01:11:32,100 - 01:11:32,800] What happens?
+- [01:11:32,880 - 01:11:34,500] How much energy is stored
+- [01:11:34,500 - 01:11:36,820] In one spin flipped down?
+- [01:11:36,880 - 01:11:37,920] Can anybody figure that out?
+- [01:11:39,560 - 01:11:39,940] Hmm?
+- [01:11:42,520 - 01:11:42,960] Four
+- [01:11:43,460 - 01:11:43,680] Four
+- [01:11:44,360 - 01:11:45,180] Each bond,
+- [01:11:45,180 - 01:11:46,120] each broken bond
+- [01:11:46,120 - 01:11:47,600] Costs you two units of energy
+- [01:11:47,600 - 01:11:49,200] You have to go from minus one to plus one
+- [01:11:49,200 - 01:11:52,400] So each broken bond costs you two units of energy
+- [01:11:52,400 - 01:11:53,980] This costs four units of energy
+- [01:11:55,360 - 01:11:57,320] How about flipping two spins down?
+- [01:12:00,000 - 01:12:01,220] Are they next to each other?
+- [01:12:01,340 - 01:12:01,700] Very good
+- [01:12:01,700 - 01:12:03,160] Are they next to each other or are they not?
+- [01:12:03,260 - 01:12:04,480] What if they're not next to each other?
+- [01:12:04,500 - 01:12:05,860] Then the answer is eight
+- [01:12:06,200 - 01:12:07,760] But what if they are next to each other?
+- [01:12:10,340 - 01:12:11,320] Four again
+- [01:12:12,379 - 01:12:14,400] What if they're three apart?
+- [01:12:15,560 - 01:12:16,200] Four
+- [01:12:16,200 - 01:12:18,920] There's an infinite number of configurations
+- [01:12:19,719 - 01:12:23,300] Which cost you no more in energy
+- [01:12:23,300 - 01:12:25,220] Than just one flipped spin
+- [01:12:25,220 - 01:12:27,700] Whole big blocks of them
+- [01:12:27,700 - 01:12:28,720] Flipping them over
+- [01:12:28,720 - 01:12:31,540] Cost you no more energy than one of them
+- [01:12:32,519 - 01:12:34,000] That's the main reason
+- [01:12:34,500 - 01:12:37,000] Why the magnetized phase is unstable
+- [01:12:37,000 - 01:12:40,460] When you increase the temperature a little bit
+- [01:12:40,460 - 01:12:42,140] There's just a lot of configurations
+- [01:12:42,140 - 01:12:45,860] Which cost the minimum amount of excess energy
+- [01:12:46,500 - 01:12:48,180] What happens in higher dimensions?
+- [01:12:48,520 - 01:12:49,640] Let's take higher dimensions
+- [01:12:50,660 - 01:12:51,980] Let's take two dimensions
+- [01:12:52,740 - 01:12:53,380] Again,
+- [01:12:53,380 - 01:12:55,200] start with all spins up
+- [01:12:59,300 - 01:13:01,180] And now flip one of them over
+- [01:13:01,180 - 01:13:03,100] How much energy does that cost?
+- [01:13:05,099 - 01:13:06,660] Eight units of energy
+- [01:13:06,660 - 01:13:08,860] How about two units?
+- [01:13:09,560 - 01:13:10,980] How about two spins flipped?
+- [01:13:12,160 - 01:13:13,820] Sixteen if they're far from each other
+- [01:13:13,820 - 01:13:16,020] But how much if they're next to each other?
+- [01:13:21,420 - 01:13:21,940] Twelve
+- [01:13:21,940 - 01:13:22,000] Twelve
+- [01:13:22,540 - 01:13:24,400] Let's see which are the broken bonds
+- [01:13:25,320 - 01:13:26,520] Here's a broken bond
+- [01:13:27,320 - 01:13:29,800] Let's just color green the broken bonds
+- [01:13:31,540 - 01:13:32,060] One
+- [01:13:33,339 - 01:13:33,860] Two
+- [01:13:33,860 - 01:13:34,480] Three
+- [01:13:34,480 - 01:13:35,440] Three
+- [01:13:35,440 - 01:13:36,400] Four
+- [01:13:37,380 - 01:13:37,720] Five
+- [01:13:38,480 - 01:13:38,840] Six
+- [01:13:38,840 - 01:13:40,660] This is not a broken bond over here
+- [01:13:41,400 - 01:13:44,080] So that six times two is twelve units of energy
+- [01:13:44,080 - 01:13:48,660] That's more energy than just one flipped spin
+- [01:13:49,480 - 01:13:49,940] Okay
+- [01:13:50,480 - 01:13:51,940] Here's the way you can count
+- [01:13:52,719 - 01:13:58,000] Draw a perimeter around the islands of flipped spins
+- [01:13:58,000 - 01:13:59,820] Imagine flipping islands of spins
+- [01:14:00,480 - 01:14:03,040] Imagine islands or groups of them adjacent
+- [01:14:03,860 - 01:14:04,560] Flipped
+- [01:14:05,560 - 01:14:06,640] And draw
+- [01:14:09,900 - 01:14:12,020] A boundary around them
+- [01:14:12,020 - 01:14:13,460] Like that
+- [01:14:13,460 - 01:14:17,800] And then count how many bonds this boundary passes through
+- [01:14:19,720 - 01:14:21,120] How many?
+- [01:14:21,280 - 01:14:21,800] Well,
+- [01:14:21,800 - 01:14:23,080] it's proportional to
+- [01:14:23,080 - 01:14:24,900] But the main thing is
+- [01:14:24,900 - 01:14:27,620] There's no way to flip a lot of spins
+- [01:14:27,620 - 01:14:29,740] Without costing a lot of energy
+- [01:14:30,680 - 01:14:32,560] The cheapest you can do
+- [01:14:32,560 - 01:14:33,860] If you want to flip a hundred spins
+- [01:14:34,410 - 01:14:35,660] The cheapest in energy
+- [01:14:35,660 - 01:14:37,700] Is to have them form
+- [01:14:37,700 - 01:14:40,860] A compact group of them
+- [01:14:42,420 - 01:14:43,000] Well,
+- [01:14:43,000 - 01:14:43,940] probably not a square
+- [01:14:43,940 - 01:14:44,240] Probably,
+- [01:14:44,240 - 01:14:44,560] yeah,
+- [01:14:44,560 - 01:14:45,220] maybe a square
+- [01:14:45,220 - 01:14:46,720] Maybe a square
+- [01:14:48,300 - 01:14:49,220] And then
+- [01:14:49,220 - 01:14:52,820] The number of broken bonds is proportional to the surface
+- [01:14:52,820 - 01:14:53,360] Well,
+- [01:14:53,360 - 01:14:55,060] it's proportional to the boundary
+- [01:14:56,260 - 01:14:57,680] It's in one dimension
+- [01:14:58,940 - 01:15:00,660] Boundary is just two points
+- [01:15:01,420 - 01:15:03,640] And so when you flip whole blocks of spins
+- [01:15:03,640 - 01:15:04,840] It just breaks two bonds
+- [01:15:05,460 - 01:15:06,680] But in higher dimensions
+- [01:15:06,680 - 01:15:09,080] Trying to flip large numbers of spins
+- [01:15:09,080 - 01:15:10,160] Becomes costly
+- [01:15:10,760 - 01:15:12,740] Because you'll have to break a lot of bonds
+- [01:15:12,740 - 01:15:14,510] The number of bonds does not grow
+- [01:15:14,510 - 01:15:16,280] as fast as the number of spins
+- [01:15:16,780 - 01:15:18,540] But it does get bigger and bigger
+- [01:15:18,540 - 01:15:20,640] And that's why there's this stability
+- [01:15:20,640 - 01:15:23,020] To the higher dimensions
+- [01:15:23,880 - 01:15:25,860] To the magnetization in higher dimensions
+- [01:15:26,180 - 01:15:27,420] Than there is in two dimensions
+- [01:15:29,380 - 01:15:29,860] Because
+- [01:15:29,860 - 01:15:32,780] Every island of spins is surrounded
+- [01:15:32,780 - 01:15:34,420] By a bunch of neighbors
+- [01:15:34,420 - 01:15:35,980] Which are holding it fixed
+- [01:15:36,840 - 01:15:39,080] And to flip large numbers of them
+- [01:15:39,080 - 01:15:39,900] Becomes costly
+- [01:15:39,900 - 01:15:41,740] Whereas in two dimensions
+- [01:15:42,599 - 01:15:44,940] Big blocks of spins are only held in place
+- [01:15:44,940 - 01:15:45,760] By two bonds
+- [01:15:45,760 - 01:15:47,840] Not a very stable situation
+- [01:15:48,860 - 01:15:50,920] The technical mathematics of it
+- [01:15:50,920 - 01:15:53,140] We can postpone to another time
+- [01:15:53,140 - 01:15:55,100] But that's the intuitive physics
+- [01:15:55,100 - 01:15:56,000] Of what's going on
+- [01:15:57,040 - 01:15:58,260] So in fact
+- [01:15:58,260 - 01:16:00,580] You could conclude from this
+- [01:16:00,580 - 01:16:02,540] That there's no gas-liquid phase transition
+- [01:16:02,780 - 01:16:03,540] In one dimension
+- [01:16:03,540 - 01:16:04,480] And there isn't
+- [01:16:04,480 - 01:16:07,180] There is a gas-liquid phase transition
+- [01:16:07,180 - 01:16:07,700] In two dimensions
+- [01:16:07,700 - 01:16:09,880] Now who's interested in one dimension and two dimensions?
+- [01:16:10,060 - 01:16:10,200] Well
+- [01:16:10,200 - 01:16:13,060] It turns out that there are lots of systems
+- [01:16:13,060 - 01:16:14,860] In solid state mechanics
+- [01:16:14,860 - 01:16:16,740] Solid state physics
+- [01:16:16,740 - 01:16:18,140] And condensed matter physics
+- [01:16:18,140 - 01:16:21,340] Which are approximately in some sense
+- [01:16:21,340 - 01:16:23,620] Either one-dimensional or two-dimensional systems
+- [01:16:23,620 - 01:16:25,900] Systems of
+- [01:16:25,900 - 01:16:27,140] You know
+- [01:16:28,120 - 01:16:30,780] Long chains of molecules
+- [01:16:30,780 - 01:16:33,280] Or planes or flat planes of molecules
+- [01:16:33,280 - 01:16:34,680] And
+- [01:16:34,680 - 01:16:35,740] These
+- [01:16:35,740 - 01:16:38,980] Lower dimensional systems do have a real
+- [01:16:38,980 - 01:16:39,800] Utility,
+- [01:16:39,800 - 01:16:40,500] a real application
+- [01:16:41,140 - 01:16:42,580] But as I said
+- [01:16:42,580 - 01:16:45,240] In one dimension and two dimensions
+- [01:16:45,240 - 01:16:46,980] One dimension there is no
+- [01:16:48,099 - 01:16:50,600] Gas-liquid or magnetic phase transition
+- [01:16:50,920 - 01:16:52,880] In two dimensions and higher there is
+- [01:16:52,880 - 01:16:54,380] And in very high dimensions
+- [01:16:54,380 - 01:16:57,120] Mean field approximation becomes extremely accurate
+- [01:16:58,160 - 01:16:59,540] So this is like
+- [01:16:59,540 - 01:17:01,220] This is only for lattice systems?
+- [01:17:02,020 - 01:17:02,540] Well
+- [01:17:02,540 - 01:17:05,380] The tools that I showed you were for lattice systems
+- [01:17:07,639 - 01:17:10,120] There's more general systems that we could study
+- [01:17:10,679 - 01:17:12,020] Incidentally it's kind of fun
+- [01:17:12,020 - 01:17:14,800] To try to do a better approximation
+- [01:17:14,800 - 01:17:17,000] Than the simple mean field approximation
+- [01:17:17,000 - 01:17:18,060] And here's the game
+- [01:17:18,060 - 01:17:20,020] You again pretend that all
+- [01:17:20,020 - 01:17:21,980] the spins are equal to s
+- [01:17:21,980 - 01:17:24,980] But then you unfreeze two of them
+- [01:17:24,980 - 01:17:26,180] Not just one of them
+- [01:17:26,180 - 01:17:27,120] You unfreeze two of them
+- [01:17:27,140 - 01:17:31,760] And you study the statistical mechanics of pairs of them
+- [01:17:33,059 - 01:17:35,080] Two of them free to fluctuate
+- [01:17:35,080 - 01:17:37,080] Two adjacent ones free to fluctuate
+- [01:17:37,080 - 01:17:40,220] And you calculate in the background of all the others
+- [01:17:40,220 - 01:17:42,400] The average value of any one spin
+- [01:17:42,400 - 01:17:44,100] Of either of the two of these
+- [01:17:44,879 - 01:17:46,160] You do that
+- [01:17:46,160 - 01:17:48,200] And then you set the average value
+- [01:17:48,200 - 01:17:50,080] Of either one,
+- [01:17:50,080 - 01:17:50,820] they'll be the same
+- [01:17:50,820 - 01:17:52,380] Equal to the background spin
+- [01:17:52,380 - 01:17:53,760] And you get a better approximation
+- [01:17:53,760 - 01:17:56,320] You get a better approximation because you've allowed
+- [01:17:56,320 - 01:17:59,600] One nearest neighbor to each one of them to fluctuate
+- [01:17:59,600 - 01:18:01,400] And you get a better approximation
+- [01:18:01,400 - 01:18:02,340] It's an improvement
+- [01:18:03,110 - 01:18:04,140] You can go further
+- [01:18:04,140 - 01:18:06,740] You can study three spins at a time
+- [01:18:06,740 - 01:18:08,500] In the background of all the others
+- [01:18:08,500 - 01:18:10,680] You get an even better approximation
+- [01:18:11,400 - 01:18:11,940] Okay
+- [01:18:11,940 - 01:18:14,640] Eventually you can study all the spins
+- [01:18:14,640 - 01:18:16,180] In the background of no spins
+- [01:18:16,180 - 01:18:17,680] And you get the exact answer
+- [01:18:18,320 - 01:18:19,420] But it is fun
+- [01:18:19,420 - 01:18:21,340] I once worked out the two spin case
+- [01:18:21,340 - 01:18:22,800] In the background of the others
+- [01:18:22,800 - 01:18:26,140] And you do get a numerically quite a good answer
+- [01:18:26,320 - 01:18:27,400] For the three dimensional case
+- [01:18:27,400 - 01:18:27,920] Yeah
+- [01:18:27,920 - 01:18:29,450] I'm wondering if you said
+- [01:18:29,450 - 01:18:30,980] negative temperature is an interesting
+- [01:18:30,980 - 01:18:31,340] Oh,
+- [01:18:31,340 - 01:18:31,860] well,
+- [01:18:31,860 - 01:18:32,280] yeah
+- [01:18:32,280 - 01:18:34,380] Let's come to negative temperature the next time
+- [01:18:34,780 - 01:18:35,180] Yeah
+- [01:18:35,180 - 01:18:36,700] How do they figure out these things?
+- [01:18:36,760 - 01:18:38,760] We didn't have to think of this as negative temperature
+- [01:18:38,760 - 01:18:40,600] We could just think of it as negative s
+- [01:18:41,280 - 01:18:41,680] Okay
+- [01:18:41,680 - 01:18:42,080] Right
+- [01:18:42,080 - 01:18:44,100] That was the right way to think about it
+- [01:18:44,100 - 01:18:46,240] How do they get the exact number?
+- [01:18:46,440 - 01:18:48,060] You said they had an exact number
+- [01:18:48,060 - 01:18:49,620] This is an exactly solvable
+- [01:18:50,300 - 01:18:50,700] Oh,
+- [01:18:50,700 - 01:18:51,100] okay
+- [01:18:51,100 - 01:18:51,720] All right
+- [01:18:52,860 - 01:18:54,720] Comparing high temperature expansions
+- [01:18:54,720 - 01:18:56,280] And low temperature expansions
+- [01:18:56,320 - 01:18:58,800] And discovering that they are very close
+- [01:18:58,800 - 01:18:59,260] Well,
+- [01:18:59,260 - 01:19:01,220] something called lattice duality
+- [01:19:02,100 - 01:19:03,840] Which you will find written up
+- [01:19:03,840 - 01:19:05,580] in the notes that I distributed
+- [01:19:06,400 - 01:19:08,000] On the internet
+- [01:19:08,000 - 01:19:11,040] The lattice duality argument
+- [01:19:11,040 - 01:19:13,040] And it's a very elegant,
+- [01:19:13,040 - 01:19:15,120] beautiful mathematical observation
+- [01:19:15,120 - 01:19:16,280] About these systems
+- [01:19:16,280 - 01:19:20,040] But I didn't want to do it here
+- [01:19:20,040 - 01:19:22,700] But this two dimensional system
+- [01:19:23,460 - 01:19:26,300] The two dimensionalizing model is exactly solvable
+- [01:19:26,320 - 01:19:29,920] It has enough symmetry and enough special structure
+- [01:19:31,020 - 01:19:33,340] That it is exactly solvable
+- [01:19:34,140 - 01:19:39,160] Is there a name for the two free element solution?
+- [01:19:39,680 - 01:19:40,080] This?
+- [01:19:40,240 - 01:19:40,820] No,
+- [01:19:40,820 - 01:19:44,480] you mean the mean field with two spins unfrozen?
+- [01:19:45,600 - 01:19:46,740] Is that what you're asking?
+- [01:19:46,920 - 01:19:47,040] Yes
+- [01:19:47,040 - 01:19:47,980] Not that I know of
+- [01:19:47,980 - 01:19:50,660] There's something called the beta approximation
+- [01:19:50,660 - 01:19:51,060] Which?
+- [01:19:51,620 - 01:19:53,120] The beta approximation
+- [01:19:53,120 - 01:19:53,740] Beta,
+- [01:19:53,740 - 01:19:54,120] beta
+- [01:19:54,120 - 01:19:55,460] Hans beta
+- [01:19:55,460 - 01:19:55,900] No,
+- [01:19:55,900 - 01:19:56,680] that's not
+- [01:19:56,680 - 01:19:58,000] That's got nothing to do with this
+- [01:19:58,000 - 01:19:58,400] That's got
+- [01:19:58,400 - 01:19:59,780] That is one dimensional systems
+- [01:19:59,780 - 01:20:01,320] But not the Ising model
+- [01:20:01,320 - 01:20:02,340] The Ising model is too simple
+- [01:20:02,340 - 01:20:02,760] I mean,
+- [01:20:02,760 - 01:20:04,100] if you apply the beta approximation
+- [01:20:04,100 - 01:20:08,100] It would be like hitting a peanut with a sledgehammer
+- [01:20:09,080 - 01:20:09,520] No,
+- [01:20:09,520 - 01:20:09,900] the
+- [01:20:09,900 - 01:20:11,820] It's for one dimensional systems
+- [01:20:12,420 - 01:20:13,300] And it's for one
+- [01:20:13,300 - 01:20:14,260] The one dimensional systems
+- [01:20:14,260 - 01:20:16,340] With more complicated kinds of interactions
+- [01:20:16,340 - 01:20:17,540] Which cause them to
+- [01:20:18,420 - 01:20:19,960] What are called Heisenberg magnets
+- [01:20:19,960 - 01:20:21,420] Not this Ising magnet
+- [01:20:21,420 - 01:20:23,920] He first worked out
+- [01:20:23,920 - 01:20:24,600] The beta approximation
+- [01:20:24,600 - 01:20:25,340] Not the beta
+- [01:20:25,340 - 01:20:28,100] The beta method of solution
+- [01:20:28,100 - 01:20:32,520] Is applicable to something called Heisenberg ferromagnets
+- [01:20:32,520 - 01:20:34,940] Not to the Ising ferromagnets
+- [01:20:34,940 - 01:20:35,320] So,
+- [01:20:35,320 - 01:20:35,840] um
+- [01:20:36,578 - 01:20:36,698] 要
+- [01:20:37,378 - 01:20:40,338] You described this in terms of gas-liquid phase transition.
+- [01:20:40,338 - 01:20:42,758] Is it equally applicable to liquid-solid phase transition?
+- [01:20:42,758 - 01:20:42,978] No.
+- [01:20:42,978 - 01:20:44,018] No.
+- [01:20:44,018 - 01:20:51,828] The liquid-solid phase transition is a transition from
+- [01:20:51,828 - 01:20:59,638] a homogeneous configuration to one which is crystallized,
+- [01:20:59,638 - 01:21:03,678] where all the molecules line up in a definite lattice.
+- [01:21:03,678 - 01:21:06,958] And it's a sharp transition where the
+- [01:21:06,958 - 01:21:10,238] system goes from a disordered liquid phase
+- [01:21:10,238 - 01:21:13,318] to a sharply ordered lattice configuration.
+- [01:21:13,318 - 01:21:16,358] Now the problem with this system,
+- [01:21:16,358 - 01:21:17,708] and the reason that it can't
+- [01:21:17,708 - 01:21:19,058] exhibit that kind of phase transition,
+- [01:21:19,278 - 01:21:22,038] because it's already biased by having its own lattice,
+- [01:21:22,038 - 01:21:25,718] and there's no sharp transition between
+- [01:21:25,718 - 01:21:29,398] a lattice symmetry and no lattice symmetry,
+- [01:21:29,638 - 01:21:32,958] because it's already got its built-in lattice structure.
+- [01:21:32,958 - 01:21:33,738] So no,
+- [01:21:33,738 - 01:21:38,398] there is no notion of a
+- [01:21:38,398 - 01:21:43,058] solid-liquid phase transition for this system.
+- [01:21:43,338 - 01:21:43,618] Okay.
+- [01:21:43,618 - 01:21:45,938] We've got a related question for gas-liquid.
+- [01:21:45,938 - 01:21:47,158] Does that mean if you put
+- [01:21:47,158 - 01:21:48,378] a liquid through a very small capillary,
+- [01:21:48,538 - 01:21:50,578] you can't tell whether it's a liquid or a gas?
+- [01:21:50,578 - 01:21:53,438] Because that's effectively the one thing.
+- [01:21:53,438 - 01:21:54,298] I would have said if you
+- [01:21:54,298 - 01:21:55,158] put it above the phase transition,
+- [01:21:55,158 - 01:21:56,778] above the critical point,
+- [01:21:56,778 - 01:21:58,458] you can't tell if it's a liquid or a gas.
+- [01:21:59,178 - 01:21:59,618] Okay.
+- [01:22:01,178 - 01:22:01,818] No,
+- [01:22:01,818 - 01:22:02,538] I think,
+- [01:22:02,538 - 01:22:03,518] okay,
+- [01:22:03,518 - 01:22:06,118] I think you're right.
+- [01:22:06,118 - 01:22:07,998] If you take a small enough sample,
+- [01:22:07,998 - 01:22:10,658] you can't tell if it's a liquid or a gas.
+- [01:22:11,398 - 01:22:14,278] Phase transitions are things that
+- [01:22:14,278 - 01:22:17,158] happen in the infinite number of,
+- [01:22:17,158 - 01:22:19,518] in the limit of infinite number of particles.
+- [01:22:20,378 - 01:22:22,618] Phase transitions never happen for
+- [01:22:22,618 - 01:22:24,858] finite number of degrees of freedom.
+- [01:22:25,278 - 01:22:27,538] For finite number of degrees of freedom,
+- [01:22:27,538 - 01:22:29,618] there are never sharp phase transitions.
+- [01:22:29,618 - 01:22:31,478] There are sharp discontinuities.
+- [01:22:31,478 - 01:22:33,938] And the way you can see that is you
+- [01:22:33,938 - 01:22:36,398] can look at the structure of the partition function.
+- [01:22:37,238 - 01:22:39,198] The structure of the partition function,
+- [01:22:39,198 - 01:22:41,698] when you have finite number of degrees of freedom,
+- [01:22:41,838 - 01:22:45,127] the partition function is a
+- [01:22:45,127 - 01:22:48,417] finite sum over finitely many particles,
+- [01:22:48,738 - 01:22:50,418] and if it's a spin system like that,
+- [01:22:50,418 - 01:22:53,188] over finitely many configurations of e
+- [01:22:53,188 - 01:22:55,958] to the minus beta times the energy.
+- [01:22:56,478 - 01:22:59,598] Each contribution from every single state,
+- [01:22:59,598 - 01:22:59,598] from every single state,
+- [01:22:59,598 - 01:22:59,598] is a finite number of degrees of freedom.
+- [01:22:59,598 - 01:22:59,618] So the partition function,
+- [01:22:59,618 - 01:22:59,618] the final state,
+- [01:22:59,618 - 01:23:02,658] is an analytic smooth function of beta.
+- [01:23:02,878 - 01:23:05,338] And when you add up a
+- [01:23:05,338 - 01:23:07,798] finite number of analytic or smooth functions,
+- [01:23:07,798 - 01:23:09,118] you get a smooth function.
+- [01:23:09,718 - 01:23:14,298] Phase transitions are singularities,
+- [01:23:14,298 - 01:23:16,178] places of discontinuity of some
+- [01:23:16,178 - 01:23:18,058] sort as a function of temperature.
+- [01:23:18,778 - 01:23:21,538] So for finite number of degrees of freedom,
+- [01:23:21,538 - 01:23:23,158] you never get phase transitions.
+- [01:23:23,438 - 01:23:24,018] There are never,
+- [01:23:24,018 - 01:23:27,178] the partition function is always completely analytic.
+- [01:23:27,178 - 01:23:30,318] It takes an infinite number of degrees of freedom.
+- [01:23:31,318 - 01:23:31,878] Basically,
+- [01:23:31,878 - 01:23:34,178] these sums have to be infinite sums,
+- [01:23:34,178 - 01:23:36,298] and if the spins only take
+- [01:23:36,298 - 01:23:38,418] on values of one and minus one,
+- [01:23:38,998 - 01:23:39,558] well,
+- [01:23:39,558 - 01:23:41,598] you'll have to have an infinite number of
+- [01:23:41,598 - 01:23:43,638] spins before this can add up to something singular.
+- [01:23:44,178 - 01:23:44,738] So,
+- [01:23:44,738 - 01:23:45,598] right,
+- [01:23:45,598 - 01:23:46,858] so in fact,
+- [01:23:46,858 - 01:23:49,538] you cannot tell the difference between a
+- [01:23:49,538 - 01:23:52,218] gas and a liquid at any temperature,
+- [01:23:52,418 - 01:23:54,118] except maybe zero temperature,
+- [01:23:54,118 - 01:23:54,958] but let's forget that.
+- [01:23:55,578 - 01:23:56,878] At any temperature,
+- [01:23:56,878 - 01:23:57,158] you can't tell the difference.
+- [01:23:57,178 - 01:24:00,858] You can't tell the difference between a gas and a
+- [01:24:00,858 - 01:24:04,538] liquid or any of these things by looking at small samples.
+- [01:24:04,778 - 01:24:07,318] It takes large samples to...
+- [01:24:08,008 - 01:24:09,698] And then even if the sample is very,
+- [01:24:09,698 - 01:24:10,338] very large,
+- [01:24:10,338 - 01:24:15,338] its magnetization is not
+- [01:24:15,338 - 01:24:20,338] infinitely stable unless it's infinitely,
+- [01:24:20,338 - 01:24:22,378] infinitely big.
+- [01:24:22,558 - 01:24:24,658] It just requires an infinite background
+- [01:24:24,658 - 01:24:26,758] to hold the whole thing together.
+- [01:24:27,178 - 01:24:31,918] So there's two different ways,
+- [01:24:31,918 - 01:24:34,388] two different situations where you can't tell
+- [01:24:34,388 - 01:24:36,858] the difference between a gas and a liquid.
+- [01:24:37,098 - 01:24:39,938] One of them is just studying small samples.
+- [01:24:41,518 - 01:24:44,388] The other is when you have a critical point
+- [01:24:44,388 - 01:24:47,258] like this and you go around the critical point.
+- [01:24:47,358 - 01:24:48,598] There's no sharp place where
+- [01:24:48,598 - 01:24:49,838] you go from gas to liquid.
+- [01:24:50,638 - 01:24:52,098] The properties sort of smoothly
+- [01:24:52,098 - 01:24:53,558] go from one to the other.
+- [01:24:57,477 - 01:25:01,657] I wonder if you could remind us
+- [01:25:01,657 - 01:25:05,838] exactly how the thermodynamics of this particle is.
+- [01:25:05,898 - 01:25:06,298] We've got,
+- [01:25:06,298 - 01:25:08,878] going back to like the baths,
+- [01:25:08,878 - 01:25:11,988] each particle is thought of as one
+- [01:25:11,988 - 01:25:15,098] of the baths which is in equilibrium.
+- [01:25:15,838 - 01:25:16,318] Well,
+- [01:25:16,318 - 01:25:17,978] I wouldn't call the rest of these heat baths.
+- [01:25:17,978 - 01:25:19,138] I would just call it the mean field.
+- [01:25:19,438 - 01:25:20,938] The reason I wouldn't call it heat bath...
+- [01:25:20,938 - 01:25:20,958] Well,
+- [01:25:20,958 - 01:25:21,838] I mean field bath,
+- [01:25:21,838 - 01:25:22,838] which still has to...
+- [01:25:22,838 - 01:25:26,098] In order to apply the Boltzmann statistic,
+- [01:25:26,098 - 01:25:28,958] so we have to exchange energy
+- [01:25:28,958 - 01:25:31,818] with the surroundings in some way,
+- [01:25:31,818 - 01:25:32,218] don't we?
+- [01:25:32,738 - 01:25:33,178] Yeah.
+- [01:25:34,618 - 01:25:36,378] So what does that mean exactly?
+- [01:25:36,618 - 01:25:36,878] Okay,
+- [01:25:36,878 - 01:25:39,418] it means that there are other
+- [01:25:39,418 - 01:25:41,958] little terms in the energy which cause,
+- [01:25:42,118 - 01:25:43,528] when you put them into the
+- [01:25:43,528 - 01:25:44,938] equations of motion of the system,
+- [01:25:46,078 - 01:25:48,258] cause transfer of energy back and forth.
+- [01:25:48,358 - 01:25:48,498] Now,
+- [01:25:48,498 - 01:25:49,638] we haven't talked about this,
+- [01:25:49,638 - 01:25:52,378] but I will discuss it for a moment now.
+- [01:25:54,078 - 01:25:56,078] If you have a system whose energy...
+- [01:25:59,258 - 01:26:01,958] Let's use the language of quantum spins now,
+- [01:26:01,958 - 01:26:02,338] okay?
+- [01:26:03,098 - 01:26:04,258] Language of quantum spins.
+- [01:26:04,998 - 01:26:05,518] If...
+- [01:26:06,458 - 01:26:06,978] So,
+- [01:26:06,978 - 01:26:08,798] sigma then has three components.
+- [01:26:09,118 - 01:26:09,718] Sigma 1,
+- [01:26:09,718 - 01:26:10,458] sigma 2,
+- [01:26:10,458 - 01:26:11,258] and sigma 3.
+- [01:26:12,138 - 01:26:13,998] The sigma that we've been talking
+- [01:26:13,998 - 01:26:15,858] about here could be the z component,
+- [01:26:15,858 - 01:26:17,478] the third component of the spin.
+- [01:26:18,198 - 01:26:21,578] And there would be a term in the energy which would just be
+- [01:26:21,578 - 01:26:24,958] proportional to sigma 3 of one particle times sigma 3 of another particle.
+- [01:26:28,178 - 01:26:29,358] What a minus sign.
+- [01:26:29,858 - 01:26:30,378] Alright.
+- [01:26:32,338 - 01:26:34,798] From the point of view of the mechanics,
+- [01:26:34,798 - 01:26:36,738] of the quantum mechanics of the system,
+- [01:26:38,098 - 01:26:40,898] sigma 3 will never change with time.
+- [01:26:41,098 - 01:26:42,158] There's nothing in...
+- [01:26:42,158 - 01:26:43,498] Think of this as a Hamiltonian.
+- [01:26:46,418 - 01:26:48,628] There's nothing in this Hamiltonian
+- [01:26:48,628 - 01:26:50,838] which doesn't commute with sigma 3.
+- [01:26:51,078 - 01:26:51,518] In fact,
+- [01:26:51,518 - 01:26:53,518] the only things in the Hamiltonian are sigma 3.
+- [01:26:54,338 - 01:26:56,018] There's nothing which doesn't commute.
+- [01:26:56,098 - 01:26:56,858] Now,
+- [01:26:56,858 - 01:26:57,638] I'll remind you,
+- [01:26:57,638 - 01:26:59,018] because I know you've studied quantum
+- [01:26:59,018 - 01:27:00,398] mechanics at least a little bit,
+- [01:27:01,218 - 01:27:03,778] that the time derivative of something...
+- [01:27:03,778 - 01:27:05,008] Do you remember the formula for
+- [01:27:05,008 - 01:27:06,238] the time derivative of a quantity?
+- [01:27:09,918 - 01:27:10,358] Yeah,
+- [01:27:10,358 - 01:27:11,518] it's the commutator.
+- [01:27:11,538 - 01:27:13,218] The commutator with the Hamiltonian.
+- [01:27:13,218 - 01:27:13,678] Do you remember that?
+- [01:27:14,378 - 01:27:14,818] Okay.
+- [01:27:15,298 - 01:27:18,278] So the commutator of I times the commutator...
+- [01:27:18,858 - 01:27:20,518] Is it A with H or H with A?
+- [01:27:20,518 - 01:27:21,018] I don't remember.
+- [01:27:21,538 - 01:27:22,518] But that's good enough.
+- [01:27:22,878 - 01:27:24,678] There's nothing in this system here
+- [01:27:24,678 - 01:27:27,278] which does not commute with sigma 3.
+- [01:27:27,518 - 01:27:29,558] So what this means is that this system,
+- [01:27:29,758 - 01:27:31,418] if you were to lay it
+- [01:27:31,418 - 01:27:33,078] down and lay down a given configuration,
+- [01:27:33,598 - 01:27:34,818] it would never change.
+- [01:27:35,278 - 01:27:36,618] It's completely static.
+- [01:27:36,858 - 01:27:38,758] There's nothing in it which would allow it to change.
+- [01:27:38,978 - 01:27:39,538] Of course,
+- [01:27:39,538 - 01:27:41,878] that also means it would never come to thermal equilibrium.
+- [01:27:42,238 - 01:27:44,038] You need a little bit
+- [01:27:44,038 - 01:27:45,838] of interaction of a different kind,
+- [01:27:46,058 - 01:27:47,998] something which doesn't commute with these sigmas.
+- [01:27:48,958 - 01:27:49,438] So,
+- [01:27:49,438 - 01:27:53,058] you could add something like a tiny,
+- [01:27:53,058 - 01:27:54,138] tiny little number,
+- [01:27:54,138 - 01:27:54,918] epsilon,
+- [01:27:54,918 - 01:27:58,398] times the first component of sigma 1,
+- [01:27:58,898 - 01:28:02,458] sigma I times first component,
+- [01:28:02,458 - 01:28:03,178] sorry,
+- [01:28:03,178 - 01:28:04,418] sigma 1,
+- [01:28:05,138 - 01:28:06,718] sigma 1 of J,
+- [01:28:06,718 - 01:28:09,918] and maybe another one with sigma 2 and so forth.
+- [01:28:10,078 - 01:28:12,268] You'd have to add something in
+- [01:28:12,268 - 01:28:14,458] that doesn't commute with the sigma 3s
+- [01:28:14,458 - 01:28:15,538] to give it time dependence.
+- [01:28:16,558 - 01:28:17,658] As it is,
+- [01:28:17,658 - 01:28:19,578] it doesn't have any time dependence,
+- [01:28:19,698 - 01:28:21,878] but you always imagine in the back of your mind
+- [01:28:21,878 - 01:28:24,078] that there are tiny little interactions
+- [01:28:24,138 - 01:28:26,518] between things which can cause them to change.
+- [01:28:26,838 - 01:28:30,438] This system as it stands doesn't have anything in it
+- [01:28:30,438 - 01:28:32,738] which would tell you how things change with time.
+- [01:28:33,378 - 01:28:34,558] You know what it's like?
+- [01:28:34,698 - 01:28:36,598] It's like having an expression
+- [01:28:36,598 - 01:28:38,498] for the energy in classical mechanics
+- [01:28:38,498 - 01:28:40,538] which only had potential energy,
+- [01:28:40,538 - 01:28:43,018] no kinetic energy.
+- [01:28:43,438 - 01:28:46,478] If a system didn't have any kinetic energy,
+- [01:28:46,478 - 01:28:47,558] it wouldn't move.
+- [01:28:47,958 - 01:28:50,718] It would have energy depending on its position,
+- [01:28:50,858 - 01:28:52,838] but it wouldn't have anything,
+- [01:28:52,838 - 01:28:56,178] it would have nothing in its dynamics
+- [01:28:56,178 - 01:28:58,578] which would cause it to move from point to point.
+- [01:28:59,518 - 01:29:02,318] So you can think of this here,
+- [01:29:02,318 - 01:29:04,258] the term that we included,
+- [01:29:04,838 - 01:29:09,238] as the potential energy of this lattice of molecules,
+- [01:29:10,298 - 01:29:13,398] ignoring the kinetic energy which causes things to change.
+- [01:29:13,518 - 01:29:14,198] Somehow or another,
+- [01:29:14,198 - 01:29:16,698] that additional kinetic energy
+- [01:29:16,698 - 01:29:19,067] is going to allow these things
+- [01:29:19,067 - 01:29:21,437] to get into some sort of equilibrium.
+- [01:29:21,638 - 01:29:21,838] Yeah.
+- [01:29:21,838 - 01:29:23,318] It allows them to get into equilibrium,
+- [01:29:23,738 - 01:29:25,618] it allows them to change with time,
+- [01:29:25,738 - 01:29:27,038] to approaching equilibrium,
+- [01:29:27,798 - 01:29:29,318] but interestingly enough,
+- [01:29:29,318 - 01:29:30,898] it has no effect whatever
+- [01:29:30,898 - 01:29:33,198] on the phase diagram,
+- [01:29:33,198 - 01:29:36,218] on the nature of phase transitions.
+- [01:29:36,658 - 01:29:40,338] That's all determined by potential energy.
+- [01:29:42,157 - 01:29:43,558] And surprisingly,
+- [01:29:44,558 - 01:29:46,188] kinetic energy doesn't play any
+- [01:29:46,188 - 01:29:47,818] role in these phase transitions.
+- [01:29:48,418 - 01:29:50,898] The system finds the configuration,
+- [01:29:50,898 - 01:29:51,638] well,
+- [01:29:51,838 - 01:29:55,078] the potential kinetic energy doesn't play any role.
+- [01:29:55,318 - 01:29:55,738] Only,
+- [01:29:55,738 - 01:29:56,678] no,
+- [01:29:56,678 - 01:29:58,958] kinetic energy doesn't play any role.
+- [01:29:59,338 - 01:30:00,878] So in the end,
+- [01:30:00,878 - 01:30:04,338] we find the thing up with the probability
+- [01:30:04,338 - 01:30:07,998] to beta ds and down with the...
+- [01:30:09,078 - 01:30:10,518] But you must always imagine,
+- [01:30:10,518 - 01:30:11,138] as you say,
+- [01:30:11,198 - 01:30:12,578] you must always imagine there's
+- [01:30:12,578 - 01:30:13,958] a little more to the system
+- [01:30:13,958 - 01:30:18,098] which must be very weak in order that the energetics
+- [01:30:18,098 - 01:30:20,518] is mostly dominated by the things you've kept,
+- [01:30:20,518 - 01:30:23,278] but you must always imagine there's a little more
+- [01:30:23,278 - 01:30:25,018] which brings the system to thermal equilibrium.
+- [01:30:25,658 - 01:30:27,898] I guess what I'm wondering about is,
+- [01:30:28,578 - 01:30:30,328] are there some systems that you
+- [01:30:30,328 - 01:30:32,078] might think you could model this way,
+- [01:30:32,218 - 01:30:33,978] but you'd go wrong if you did?
+- [01:30:38,818 - 01:30:40,518] I can't think of any offhand.
+- [01:30:43,818 - 01:30:44,798] In other words,
+- [01:30:44,798 - 01:30:49,038] you're talking about quite a general class of...
+- [01:30:53,217 - 01:30:53,817] Well,
+- [01:30:53,817 - 01:30:56,637] if we tried to use this
+- [01:30:56,637 - 01:30:59,458] to describe how a fluid flows out
+- [01:30:59,458 - 01:31:03,478] of a little hole in a container
+- [01:31:03,478 - 01:31:08,018] and how the fluid goes from inside the container
+- [01:31:08,018 - 01:31:09,398] to outside the container,
+- [01:31:09,398 - 01:31:10,518] it would never do that.
+- [01:31:11,298 - 01:31:12,078] We could never,
+- [01:31:12,078 - 01:31:12,318] yeah,
+- [01:31:12,318 - 01:31:13,438] we could never study
+- [01:31:14,238 - 01:31:15,978] the approach to thermal equilibrium
+- [01:31:15,978 - 01:31:17,718] or the approach to anything.
+- [01:31:17,718 - 01:31:20,518] So we would completely fail to study anything
+- [01:31:20,518 - 01:31:23,938] that involves the time dependence of the system.
+- [01:31:25,298 - 01:31:27,758] All we can study is the equilibrium properties.
+- [01:31:30,378 - 01:31:32,658] But I think you're asking whether there are systems
+- [01:31:32,658 - 01:31:34,648] whose equilibrium properties wouldn't
+- [01:31:34,648 - 01:31:36,638] be correctly described this way.
+- [01:31:36,758 - 01:31:36,838] Well,
+- [01:31:36,838 - 01:31:37,998] I'm sure we can invent them,
+- [01:31:37,998 - 01:31:38,218] yes.
+- [01:31:38,358 - 01:31:39,498] We can certainly invent them.
+- [01:31:40,038 - 01:31:42,198] Any mixing in the Hamiltonian
+- [01:31:42,198 - 01:31:44,358] between kinetic and potential terms,
+- [01:31:44,418 - 01:31:45,978] between position and momentum,
+- [01:31:45,978 - 01:31:46,558] will...
+- [01:31:47,998 - 01:31:49,728] The reason we get away
+- [01:31:49,728 - 01:31:51,458] with this is because the energy
+- [01:31:51,458 - 01:31:52,638] consists of two pieces,
+- [01:31:52,638 - 01:31:54,878] one which is completely potential
+- [01:31:54,878 - 01:31:56,598] and only depends on the positions,
+- [01:31:56,598 - 01:31:58,958] and the other which is completely kinetic
+- [01:31:58,958 - 01:32:00,618] and only depends on the momenta.
+- [01:32:01,098 - 01:32:01,718] Remember,
+- [01:32:01,718 - 01:32:03,678] the partition function is an
+- [01:32:03,678 - 01:32:05,638] integral over positions and momenta.
+- [01:32:09,038 - 01:32:12,358] The potential energy doesn't make...
+- [01:32:12,358 - 01:32:14,698] The integrations over the momenta
+- [01:32:14,698 - 01:32:17,038] don't care about the potential energies.
+- [01:32:17,038 - 01:32:19,238] And they just factor off completely.
+- [01:32:19,878 - 01:32:22,478] They just factor off and they're exactly the same
+- [01:32:22,478 - 01:32:24,898] as if the molecules weren't interacting with each other.
+- [01:32:25,438 - 01:32:27,708] The potential terms are the things
+- [01:32:27,708 - 01:32:29,978] which know about the interaction between molecules.
+- [01:32:30,298 - 01:32:30,878] The other term,
+- [01:32:30,878 - 01:32:32,018] the other factor doesn't.
+- [01:32:32,438 - 01:32:34,548] And so all of the properties
+- [01:32:34,548 - 01:32:36,658] of the gas which are interesting
+- [01:32:36,658 - 01:32:41,298] with respect to the phase transitions and so forth
+- [01:32:41,298 - 01:32:42,918] have to do with potential energy.
+- [01:32:44,698 - 01:32:47,018] Crystallization has nothing to do with potential energy.
+- [01:32:47,018 - 01:32:49,738] All it has to do with
+- [01:32:49,738 - 01:32:52,458] is finding the configurations of molecules
+- [01:32:53,498 - 01:32:55,398] which form crystal lattices,
+- [01:32:55,398 - 01:32:59,138] and that's got entirely to do with potential energy.
+- [01:33:00,798 - 01:33:02,448] Minimizing a certain combination
+- [01:33:02,448 - 01:33:04,098] of potential energy and entropy.
+- [01:33:06,238 - 01:33:06,918] Yeah,
+- [01:33:06,918 - 01:33:08,918] a couple of weeks ago you
+- [01:33:08,918 - 01:33:10,918] were describing coarse and fine-grained entropy.
+- [01:33:11,198 - 01:33:14,778] And I think I remember that you said coarse-grained entropy,
+- [01:33:14,818 - 01:33:15,878] that the...
+- [01:33:17,338 - 01:33:20,318] The Leuville theorem is violated?
+- [01:33:20,998 - 01:33:21,558] No,
+- [01:33:21,558 - 01:33:22,258] I didn't say that.
+- [01:33:22,278 - 01:33:23,858] The Leuville theorem is never violated.
+- [01:33:24,998 - 01:33:25,558] No,
+- [01:33:25,558 - 01:33:26,178] it's a theorem.
+- [01:33:26,178 - 01:33:27,218] Theorems can't be violated.
+- [01:33:27,578 - 01:33:28,958] Theorems are either wrong or right.
+- [01:33:28,958 - 01:33:30,378] The theorems are never violated.
+- [01:33:30,658 - 01:33:31,118] That's why...
+- [01:33:31,118 - 01:33:32,808] What if you say that when
+- [01:33:32,808 - 01:33:34,498] the loose grains get really skinny
+- [01:33:34,798 - 01:33:37,398] and you have a delta-p,
+- [01:33:37,398 - 01:33:39,738] delta-x that's wider than that,
+- [01:33:39,838 - 01:33:42,938] that it doesn't violate the...
+- [01:33:43,758 - 01:33:44,318] No,
+- [01:33:44,318 - 01:33:45,658] because the Leuville theorem
+- [01:33:45,658 - 01:33:46,998] is not about coarse-grained entropy.
+- [01:33:47,938 - 01:33:49,718] It's just not about coarse-graining.
+- [01:33:49,818 - 01:33:50,138] It's just not about coarse-graining.
+- [01:33:50,138 - 01:33:51,378] It's about fine-grained system.
+- [01:33:52,278 - 01:33:56,518] It's just not a theorem about the coarse-grained entropy.
+- [01:33:57,298 - 01:34:00,598] It's strictly a theorem about the fine-grained entropy.
+- [01:34:00,778 - 01:34:02,548] So how could coarse-graining violate
+- [01:34:02,548 - 01:34:04,318] the theorem about fine-grained entropy?
+- [01:34:04,758 - 01:34:06,938] Let's try to understand the relation,
+- [01:34:06,938 - 01:34:08,298] but let's take a look.
+- [01:34:09,718 - 01:34:10,318] Okay.
+- [01:34:10,418 - 01:34:13,938] But you might have imagined a wrong Leuville theorem
+- [01:34:13,938 - 01:34:16,538] which says that the fine-grained entropy doesn't change,
+- [01:34:16,538 - 01:34:17,638] that the volume of...
+- [01:34:17,638 - 01:34:17,878] Sorry,
+- [01:34:17,878 - 01:34:19,678] the coarse-grained entropy doesn't change.
+- [01:34:20,998 - 01:34:22,758] That would not be a theorem.
+- [01:34:22,758 - 01:34:23,538] It's violated,
+- [01:34:23,538 - 01:34:24,778] but it wouldn't be a theorem.
+- [01:34:24,898 - 01:34:26,238] And nobody ever thought it would be a theorem.
+- [01:34:27,938 - 01:34:28,458] Right.
+- [01:34:28,458 - 01:34:29,158] Okay.
+- [01:34:29,158 - 01:34:29,718] But...
+- [01:34:30,518 - 01:34:32,738] So if I announce the new theorem,
+- [01:34:33,478 - 01:34:36,118] this is the Schmeierville theorem or the Leuville theorem,
+- [01:34:36,298 - 01:34:38,038] the Leuville theorem...
+- [01:34:38,038 - 01:34:42,658] The Leuville slugger who invented the Leuville theorem
+- [01:34:43,678 - 01:34:46,518] said that the volume and phase of the...
+- [01:34:46,538 - 01:34:49,898] and coarse-grained phase space is constant with time.
+- [01:34:51,237 - 01:34:51,558] Well,
+- [01:34:51,558 - 01:34:53,218] that would have been violated.
+- [01:34:53,218 - 01:34:53,698] Yeah.
+- [01:34:54,198 - 01:34:57,818] Could you explain what happens when the...
+- [01:34:59,098 - 01:35:00,378] phase space...
+- [01:35:02,178 - 01:35:06,658] the area turns into a very wavy kind of...
+- [01:35:07,338 - 01:35:08,458] you know,
+- [01:35:08,458 - 01:35:09,778] cotton candy kind of thing?
+- [01:35:09,858 - 01:35:11,278] And then you have...
+- [01:35:12,098 - 01:35:14,458] We're talking about coarse-grained...
+- [01:35:14,458 - 01:35:14,778] Well,
+- [01:35:14,778 - 01:35:14,958] okay.
+- [01:35:14,958 - 01:35:15,438] So I say,
+- [01:35:15,438 - 01:35:16,318] take that cotton...
+- [01:35:16,538 - 01:35:17,378] cotton candy...
+- [01:35:18,597 - 01:35:21,338] and look at the volume actually...
+- [01:35:23,197 - 01:35:25,078] occupied by the candy.
+- [01:35:25,378 - 01:35:26,478] It's very tiny.
+- [01:35:27,258 - 01:35:28,138] Very tiny.
+- [01:35:28,538 - 01:35:29,898] But on the other hand,
+- [01:35:29,898 - 01:35:32,018] if you were to take every little...
+- [01:35:33,438 - 01:35:35,378] spot along the fibers
+- [01:35:35,378 - 01:35:37,588] and put on that spot
+- [01:35:37,588 - 01:35:39,798] a little ball about that big...
+- [01:35:40,478 - 01:35:40,858] Of course,
+- [01:35:40,858 - 01:35:42,098] they would crash into each other,
+- [01:35:42,138 - 01:35:43,878] but if they crash into each other,
+- [01:35:43,878 - 01:35:45,098] just let them overlap.
+- [01:35:45,098 - 01:35:48,598] And to take the volume that would be carved out
+- [01:35:48,598 - 01:35:51,438] by this coarse-grained version of the cotton candy
+- [01:35:51,438 - 01:35:54,778] where every point is blurred over a certain size,
+- [01:35:55,118 - 01:35:57,498] it would fill up the area that you...
+- [01:35:57,498 - 01:35:58,858] that you...you know,
+- [01:35:58,858 - 01:35:59,398] the pink...
+- [01:35:59,398 - 01:36:01,998] the pink cloud of...
+- [01:36:03,058 - 01:36:03,698] Right.
+- [01:36:03,898 - 01:36:06,998] So there are two different descriptions of volume.
+- [01:36:07,338 - 01:36:10,398] One of them is the coarse-grained volume where you...
+- [01:36:11,618 - 01:36:12,418] you know,
+- [01:36:12,418 - 01:36:12,898] where you...
+- [01:36:12,898 - 01:36:14,978] I don't know what the right word is.
+- [01:36:14,978 - 01:36:16,318] Coarse-grained is the word.
+- [01:36:16,498 - 01:36:19,938] But where you let each little piece of the cotton
+- [01:36:20,577 - 01:36:22,638] be replaced by a little sphere,
+- [01:36:22,958 - 01:36:24,518] and the spheres...
+- [01:36:24,518 - 01:36:27,038] eventually the cotton will get so close together
+- [01:36:27,038 - 01:36:28,918] that the little spheres will begin to overlap,
+- [01:36:29,778 - 01:36:32,398] and those little spheres will fill up the volume
+- [01:36:32,978 - 01:36:35,128] that visually you would see
+- [01:36:35,128 - 01:36:37,278] in this cloud of cotton candy.
+- [01:36:37,518 - 01:36:38,718] Much bigger volume.
+- [01:36:40,778 - 01:36:43,938] So as the cotton candy is spun out,
+- [01:36:44,978 - 01:36:47,398] it starts as a little glob of sugar that big,
+- [01:36:48,358 - 01:36:49,908] and if you coarse-grain a
+- [01:36:49,908 - 01:36:51,458] little glob of sugar that big,
+- [01:36:51,618 - 01:36:52,378] it's that big.
+- [01:36:52,578 - 01:36:53,498] Not much bigger.
+- [01:36:53,698 - 01:36:55,368] And now it starts to spread
+- [01:36:55,368 - 01:36:57,038] out its tentacles in all directions
+- [01:36:57,038 - 01:36:59,218] and create this cloud of cotton candy.
+- [01:36:59,978 - 01:37:04,038] But now you replace each point along that fibrous structure
+- [01:37:04,038 - 01:37:05,498] with a little sphere,
+- [01:37:05,838 - 01:37:08,318] it'll occupy a volume which is much bigger.
+- [01:37:08,478 - 01:37:10,438] So as you spin out the cotton candy,
+- [01:37:10,438 - 01:37:11,338] it seems to grow,
+- [01:37:11,638 - 01:37:14,098] although the actual volume of sugar
+- [01:37:14,098 - 01:37:15,198] is exactly the same.
+- [01:37:17,198 - 01:37:18,078] That's what happens.
+- [01:37:20,358 - 01:37:21,078] Cotton candy,
+- [01:37:21,078 - 01:37:22,018] that's a good example.
+- [01:37:23,218 - 01:37:23,698] Right.
+- [01:37:23,698 - 01:37:25,018] That's a very good example.
+- [01:37:25,118 - 01:37:26,058] I will use it next time.
+- [01:37:27,038 - 01:37:27,818] For more,
+- [01:37:27,818 - 01:37:30,238] please visit us at stanford.edu.
