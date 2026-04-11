@@ -1,0 +1,2787 @@
+# Transcript
+
+Source: core/statistical_mechanics/2013_spring_theoretical_minimum/175 - Statistical Mechanics Lecture 1 [D1RzvXDXyqA].webm
+
+- [00:00:04,679 - 00:00:06,180] Stanford University.
+- [00:00:09,099 - 00:00:09,540] Okay,
+- [00:00:09,540 - 00:00:10,820] if there aren't any more questions,
+- [00:00:11,739 - 00:00:14,600] tonight we begin the study of statistical mechanics.
+- [00:00:15,419 - 00:00:15,860] Now,
+- [00:00:15,860 - 00:00:21,240] statistical mechanics is not really modern physics.
+- [00:00:23,259 - 00:00:25,760] It's pre-modern physics,
+- [00:00:25,760 - 00:00:28,000] it's modern physics,
+- [00:00:28,000 - 00:00:28,780] and
+- [00:00:28,780 - 00:00:31,160] I assure you it will be post-modern physics.
+- [00:00:34,660 - 00:00:35,400] It's probably,
+- [00:00:39,640 - 00:00:43,070] The second law of thermodynamics
+- [00:00:43,070 - 00:00:46,500] will probably outlast anything that
+- [00:00:46,500 - 00:00:54,020] comes up time and time again.
+- [00:00:54,180 - 00:00:57,700] The second law of thermodynamics has been sort of
+- [00:00:57,700 - 00:00:58,420] our own.
+- [00:00:58,780 - 00:00:59,460] Our guidepost,
+- [00:00:59,460 - 00:01:00,780] our guiding light,
+- [00:01:00,780 - 00:01:01,440] if you like,
+- [00:01:02,680 - 00:01:04,989] to know what we're talking about
+- [00:01:04,989 - 00:01:07,300] and to make sure we're making sense.
+- [00:01:09,120 - 00:01:11,610] Statistical mechanics and thermodynamics may not
+- [00:01:11,610 - 00:01:14,100] be as sexy as the Higgs boson,
+- [00:01:14,740 - 00:01:17,600] but I assure you it is at least as deep.
+- [00:01:22,140 - 00:01:23,500] It's a lot deeper.
+- [00:01:25,040 - 00:01:27,360] My particle physics friends shouldn't,
+- [00:01:27,660 - 00:01:28,760] This is a lot deeper.
+- [00:01:31,300 - 00:01:34,140] It's a lot more general,
+- [00:01:34,140 - 00:01:37,210] and it covers a lot more ground
+- [00:01:37,210 - 00:01:40,280] than explaining the world as we know it.
+- [00:01:42,240 - 00:01:43,500] And in fact,
+- [00:01:43,500 - 00:01:46,620] without statistical mechanics,
+- [00:01:46,620 - 00:01:49,420] we probably would not know about the Higgs boson.
+- [00:01:50,820 - 00:01:51,700] All right,
+- [00:01:51,700 - 00:01:55,700] so with that little starting point,
+- [00:01:55,700 - 00:01:58,440] what is statistical mechanics?
+- [00:01:58,740 - 00:01:59,960] Well,
+- [00:01:59,960 - 00:02:01,840] let's go back a step.
+- [00:02:02,260 - 00:02:03,980] The laws of physics,
+- [00:02:03,980 - 00:02:05,980] the basic laws of physics,
+- [00:02:05,980 - 00:02:07,440] Newton's laws,
+- [00:02:09,320 - 00:02:11,240] principles of classical physics,
+- [00:02:11,240 - 00:02:12,760] classical mechanics,
+- [00:02:12,980 - 00:02:16,680] the things that were in classical mechanics course,
+- [00:02:16,680 - 00:02:18,800] quantum mechanics,
+- [00:02:18,800 - 00:02:19,920] and so forth.
+- [00:02:20,840 - 00:02:23,140] Those things are all about predictability,
+- [00:02:23,140 - 00:02:24,860] perfect predictability.
+- [00:02:25,020 - 00:02:25,600] Now you say well,
+- [00:02:25,600 - 00:02:28,720] in quantum mechanics you can't predict perfectly,
+- [00:02:28,720 - 00:02:28,720] right.
+- [00:02:28,720 - 00:02:30,540] and that's true,
+- [00:02:30,540 - 00:02:34,340] but there are some things you can predict perfectly and
+- [00:02:35,460 - 00:02:36,780] those things
+- [00:02:37,940 - 00:02:41,240] are the predictables of quantum mechanics
+- [00:02:42,890 - 00:02:45,020] Again as in classical mechanics
+- [00:02:46,250 - 00:02:49,480] You can make your predictions with maximal.
+- [00:02:49,480 - 00:02:50,940] Let's call it maximal
+- [00:02:51,670 - 00:02:55,180] precision or maximal whatever it is predictability
+- [00:02:55,180 - 00:02:59,190] if you know two things if you know the
+- [00:02:59,190 - 00:03:03,200] starting point which is what we call initial conditions and
+- [00:03:03,200 - 00:03:06,920] if you know the laws of evolution of a system
+- [00:03:08,340 - 00:03:10,440] If you can measure the or
+- [00:03:10,440 - 00:03:12,540] if you know for whatever reason
+- [00:03:13,140 - 00:03:16,530] the initial starting point of a closed system
+- [00:03:16,530 - 00:03:19,920] a closed system means one which is either
+- [00:03:19,920 - 00:03:22,040] everything or
+- [00:03:22,040 - 00:03:25,160] It is sufficiently isolated from everything else
+- [00:03:25,180 - 00:03:28,820] That the other things in the system don't influence it
+- [00:03:29,700 - 00:03:32,050] If you have a closed system
+- [00:03:32,050 - 00:03:34,400] if you know the initial conditions
+- [00:03:36,440 - 00:03:40,520] Exactly or at least with whatever precision is necessary
+- [00:03:40,520 - 00:03:44,240] And you know the laws of evolution of the system
+- [00:03:44,240 - 00:03:47,960] you have complete predictability and that's all there is to say
+- [00:03:48,680 - 00:03:50,900] Now of course in many cases
+- [00:03:50,900 - 00:03:53,120] that complete predictability would be totally useless
+- [00:03:55,180 - 00:03:58,250] Having a list of the position and velocities of every
+- [00:03:58,250 - 00:04:01,320] particle in this room would not be very useful to us
+- [00:04:01,840 - 00:04:04,200] the list would be too long and
+- [00:04:05,900 - 00:04:08,700] Subject to rather quick change as a matter of fact
+- [00:04:09,500 - 00:04:10,060] so
+- [00:04:10,700 - 00:04:13,660] You know you can see well while the basic
+- [00:04:13,660 - 00:04:16,620] laws of physics are very very powerful in their predictability
+- [00:04:17,279 - 00:04:20,440] They also in many cases can be totally useless
+- [00:04:21,760 - 00:04:24,520] For actually analyzing what's really going on
+- [00:04:25,460 - 00:04:27,180] Statistical mechanics is
+- [00:04:28,960 - 00:04:30,300] What you use
+- [00:04:31,380 - 00:04:33,800] Basically probability theory statistical mechanics.
+- [00:04:33,800 - 00:04:35,740] Let me say first of all
+- [00:04:35,740 - 00:04:37,680] it is just basic probability theory
+- [00:04:39,460 - 00:04:42,720] Statistical Mc as applied to physical systems
+- [00:04:43,340 - 00:04:46,670] But when is it applicable it's applicable when
+- [00:04:46,670 - 00:04:50,000] you don't know the initial conditions with complete perfection
+- [00:04:50,780 - 00:04:52,940] It's applicable when you it
+- [00:04:52,940 - 00:04:55,100] may even be applicable if you
+- [00:04:55,180 - 00:05:00,910] If you don't know the laws of motion with infinite precision and
+- [00:05:00,910 - 00:05:06,640] it's applicable when the system you're investigating is not a closed system
+- [00:05:06,640 - 00:05:08,960] Whether it's interacting with other things on the
+- [00:05:08,960 - 00:05:11,280] outside in other words in just those situations
+- [00:05:11,860 - 00:05:14,970] Where ideal predictability is impossible then what
+- [00:05:14,970 - 00:05:18,080] are you resort to you resort to probabilities?
+- [00:05:19,460 - 00:05:20,100] but
+- [00:05:20,840 - 00:05:22,550] Because the number of molecules
+- [00:05:22,550 - 00:05:24,260] in this room is so large
+- [00:05:25,180 - 00:05:28,840] And probabilities tend to become very very precise
+- [00:05:30,660 - 00:05:31,300] Predictors
+- [00:05:31,980 - 00:05:34,070] When numbers when the laws of when
+- [00:05:34,070 - 00:05:36,160] the laws of large numbers are applicable
+- [00:05:37,220 - 00:05:41,360] Statistical mechanics itself can be highly predictable,
+- [00:05:41,360 - 00:05:43,140] but not for everything
+- [00:05:45,980 - 00:05:47,340] As an illustration
+- [00:05:48,780 - 00:05:50,580] You have a box of gas
+- [00:05:51,140 - 00:05:53,150] the box of gas might even
+- [00:05:53,150 - 00:05:55,160] be an isolated closed box of gas
+- [00:05:55,700 - 00:05:57,700] It has some energy in it
+- [00:05:57,700 - 00:05:59,760] the particles rattle around
+- [00:06:00,599 - 00:06:03,679] If you know some things about that box of gas you
+- [00:06:03,679 - 00:06:06,760] can predict other things with great precision if you know the temperature
+- [00:06:07,380 - 00:06:09,800] You can predict the the energy in the
+- [00:06:09,800 - 00:06:12,220] box of gas you can predict the pressure
+- [00:06:12,840 - 00:06:15,360] These things are highly predictable
+- [00:06:16,040 - 00:06:18,400] But there are some things you can't predict
+- [00:06:18,400 - 00:06:20,760] you can't predict the position of every molecule
+- [00:06:20,760 - 00:06:24,660] You can't predict when there might be a fluctuation
+- [00:06:25,180 - 00:06:25,680] a
+- [00:06:25,680 - 00:06:29,170] Fluctuation which your fluctuations are things which
+- [00:06:29,170 - 00:06:32,660] happen which don't really violate probability theory
+- [00:06:32,660 - 00:06:35,690] They're the sort of tails of the probability
+- [00:06:35,690 - 00:06:38,720] distribution things which are unlikely but not impossible
+- [00:06:39,620 - 00:06:42,560] Fluctuations happen from time to time in the sealed room
+- [00:06:43,300 - 00:06:44,480] every so often
+- [00:06:45,719 - 00:06:48,829] An extra large group of extra large density
+- [00:06:48,829 - 00:06:51,940] of molecules will appear in some small region
+- [00:06:53,000 - 00:06:55,160] bigger than the average some place in the universe
+- [00:06:55,180 - 00:06:59,200] and the molecules will be less dense and
+- [00:06:59,200 - 00:07:02,340] And fluctuations like that are hard to predict
+- [00:07:02,960 - 00:07:05,880] You can predict the probability for a fluctuation,
+- [00:07:05,880 - 00:07:07,470] but you can't predict when
+- [00:07:07,470 - 00:07:09,060] a fluctuation is going to happen
+- [00:07:11,260 - 00:07:15,080] It's exactly the same sort of thing flipping coins flipping coins is
+- [00:07:15,080 - 00:07:18,900] a good example is probably our favorite example for thinking about probabilities
+- [00:07:20,480 - 00:07:22,390] If I flip a coin a
+- [00:07:22,390 - 00:07:24,300] billion times you can bet that
+- [00:07:25,020 - 00:07:27,480] Approximately half of them will come up heads and
+- [00:07:27,480 - 00:07:29,940] half will come up tails within some margin of error
+- [00:07:31,900 - 00:07:35,360] But there will also be fluctuations every now and then if you
+- [00:07:35,360 - 00:07:38,820] do it enough times a thousand heads in a row will come up
+- [00:07:39,580 - 00:07:42,680] Can you predict when a thousand heads will come up?
+- [00:07:42,760 - 00:07:43,120] No,
+- [00:07:43,120 - 00:07:44,900] but can you predict how often
+- [00:07:44,900 - 00:07:46,680] a thousand heads will come up?
+- [00:07:46,680 - 00:07:47,120] Yes,
+- [00:07:47,120 - 00:07:48,160] not very often
+- [00:07:51,300 - 00:07:54,260] So that's what statistical mechanics is for it's
+- [00:07:54,300 - 00:07:57,660] for making statistical probabilistic predictions about
+- [00:07:58,740 - 00:08:00,900] systems which are
+- [00:08:00,900 - 00:08:01,680] either
+- [00:08:02,260 - 00:08:06,260] Too small contain elements which are too small to see
+- [00:08:07,200 - 00:08:10,600] Too numerous to keep track of usually both
+- [00:08:11,260 - 00:08:13,800] Too small to see by see I mean,
+- [00:08:13,800 - 00:08:14,320] you know,
+- [00:08:14,320 - 00:08:15,740] you it's true.
+- [00:08:15,740 - 00:08:17,980] You can see some pretty small things molecules,
+- [00:08:17,980 - 00:08:18,500] but
+- [00:08:20,220 - 00:08:22,080] So then they may not be too small
+- [00:08:22,080 - 00:08:23,940] to see but there were too many of them
+- [00:08:23,940 - 00:08:25,480] There are too many of them to
+- [00:08:25,480 - 00:08:27,020] keep track of and that's when we use
+- [00:08:27,600 - 00:08:28,420] probability Theory
+- [00:08:29,160 - 00:08:30,760] or statistical mechanics
+- [00:08:32,280 - 00:08:34,110] We're going to go through
+- [00:08:34,110 - 00:08:35,940] some of the basic statistical mechanics
+- [00:08:36,880 - 00:08:37,520] applications
+- [00:08:38,320 - 00:08:40,340] not just applications the theory
+- [00:08:41,140 - 00:08:45,020] laws of thermodynamics the laws of statistical mechanics
+- [00:08:45,020 - 00:08:48,900] and then how they apply to gases liquids solids
+- [00:08:49,840 - 00:08:50,180] are
+- [00:08:52,780 - 00:08:56,020] whether we will get to quantum mechanical systems or not,
+- [00:08:56,020 - 00:08:56,660] I don't know,
+- [00:08:56,660 - 00:09:00,960] but just the basic ideas.
+- [00:09:03,440 - 00:09:04,120] Okay,
+- [00:09:04,120 - 00:09:08,120] incidentally another thing which is very striking
+- [00:09:08,120 - 00:09:12,120] is that generally speaking over the history of,
+- [00:09:12,120 - 00:09:14,580] certainly over my history in physics,
+- [00:09:14,580 - 00:09:17,670] and I'm sure this goes back to
+- [00:09:17,670 - 00:09:20,760] the middle of the 19th century sometime,
+- [00:09:21,540 - 00:09:23,340] all great physicists,
+- [00:09:23,340 - 00:09:24,860] all of them,
+- [00:09:24,860 - 00:09:27,440] were masters of statistical mechanics.
+- [00:09:28,100 - 00:09:29,460] It may not have been
+- [00:09:29,460 - 00:09:30,820] the sexiest thing in the world,
+- [00:09:30,820 - 00:09:32,540] but they were all masters of it.
+- [00:09:32,680 - 00:09:33,100] Why?
+- [00:09:33,100 - 00:09:34,900] First of all because it was useful,
+- [00:09:34,900 - 00:09:37,000] but second of all because it is truly beautiful.
+- [00:09:37,240 - 00:09:40,340] It is a truly beautiful subject of physics and mathematics.
+- [00:09:41,540 - 00:09:42,100] And...
+- [00:09:42,880 - 00:09:45,380] it's hard not to get caught up in it.
+- [00:09:46,080 - 00:09:47,700] Hard not to get...
+- [00:09:47,700 - 00:09:49,900] not to fall in love with it.
+- [00:09:50,420 - 00:09:52,500] The reason I teach it is not for you,
+- [00:09:52,500 - 00:09:53,020] it's for me.
+- [00:09:53,020 - 00:09:54,160] I love teaching it.
+- [00:09:54,220 - 00:09:55,080] I love teaching it,
+- [00:09:55,080 - 00:09:57,380] I teach it over and over and over again,
+- [00:09:57,560 - 00:10:01,680] and in a sense my life has consisted of learning and
+- [00:10:01,680 - 00:10:05,800] forgetting and learning and forgetting and learning and forgetting statistical mechanics.
+- [00:10:06,920 - 00:10:09,180] So here's my opportunity to learn it again.
+- [00:10:11,560 - 00:10:12,080] Okay,
+- [00:10:12,080 - 00:10:12,080] so...
+- [00:10:12,100 - 00:10:12,280] Okay,
+- [00:10:12,280 - 00:10:14,880] let's begin with what I
+- [00:10:14,880 - 00:10:17,480] usually call a mathematical interlude.
+- [00:10:17,620 - 00:10:18,980] In this case it's not an interlude,
+- [00:10:18,980 - 00:10:20,040] it's a starting point.
+- [00:10:20,400 - 00:10:22,140] And I'm just going to make some
+- [00:10:22,140 - 00:10:23,880] extremely brief remarks which you all know,
+- [00:10:23,880 - 00:10:25,380] at least I think you all know them,
+- [00:10:25,380 - 00:10:26,720] about probability.
+- [00:10:27,320 - 00:10:28,180] Just to have,
+- [00:10:28,180 - 00:10:28,860] you know,
+- [00:10:28,860 - 00:10:29,860] just to level the ground,
+- [00:10:29,860 - 00:10:30,980] what are we talking about.
+- [00:10:31,920 - 00:10:32,360] And...
+- [00:10:34,440 - 00:10:36,540] What I am not going to explain,
+- [00:10:36,540 - 00:10:38,960] because I don't think anybody can explain it,
+- [00:10:38,960 - 00:10:41,120] is why probability works.
+- [00:10:42,360 - 00:10:43,440] Why does it work?
+- [00:10:43,720 - 00:10:45,320] If you ask why it works,
+- [00:10:45,320 - 00:10:47,600] the first answer will be it doesn't always work.
+- [00:10:48,300 - 00:10:50,880] You may have a probability for something,
+- [00:10:50,880 - 00:10:52,160] and you test it out,
+- [00:10:52,160 - 00:10:54,280] and sometimes it doesn't work.
+- [00:10:54,460 - 00:10:55,440] Those are called the exceptions.
+- [00:10:56,140 - 00:10:57,530] So the answer to the
+- [00:10:57,530 - 00:10:58,920] question is why does it work,
+- [00:10:58,920 - 00:10:59,840] well it doesn't always work.
+- [00:10:59,920 - 00:11:00,600] It mostly works,
+- [00:11:00,600 - 00:11:01,320] except when it doesn't.
+- [00:11:01,780 - 00:11:02,720] When doesn't it?
+- [00:11:02,720 - 00:11:03,500] Rarely.
+- [00:11:03,500 - 00:11:04,120] How rarely?
+- [00:11:04,120 - 00:11:05,820] Every so often.
+- [00:11:09,979 - 00:11:10,579] But,
+- [00:11:10,579 - 00:11:12,580] there is a calculus of probability,
+- [00:11:12,580 - 00:11:14,560] a mathematical theory of probabilities.
+- [00:11:15,760 - 00:11:17,520] And we'll talk about it a little bit.
+- [00:11:18,480 - 00:11:19,080] Okay,
+- [00:11:19,080 - 00:11:21,500] so we'll take probability to be a primitive concept,
+- [00:11:21,500 - 00:11:23,260] basically a primitive concept.
+- [00:11:23,820 - 00:11:25,290] And we'll suppose that there
+- [00:11:25,290 - 00:11:26,760] is a space of some sort,
+- [00:11:26,760 - 00:11:28,040] a space of possibilities.
+- [00:11:28,860 - 00:11:31,090] The space of possibilities could be
+- [00:11:31,090 - 00:11:33,320] the space of outcomes of experiments,
+- [00:11:34,020 - 00:11:36,010] or it could actually be the
+- [00:11:36,010 - 00:11:38,000] space of states of a system.
+- [00:11:38,960 - 00:11:40,300] The state of a system could
+- [00:11:40,300 - 00:11:41,640] be the outcome of an experiment.
+- [00:11:41,740 - 00:11:43,170] If the experiment consists of
+- [00:11:43,170 - 00:11:44,600] determining the state of the system,
+- [00:11:45,100 - 00:11:47,040] then the state of the system is the outcome.
+- [00:11:48,100 - 00:11:49,320] So we have a space,
+- [00:11:49,320 - 00:11:50,660] and let's call that space,
+- [00:11:50,660 - 00:11:52,130] let's label the elements of
+- [00:11:52,130 - 00:11:53,600] that space with a little i.
+- [00:11:56,440 - 00:11:57,380] For example,
+- [00:11:57,380 - 00:11:59,040] if we were flipping coins,
+- [00:11:59,040 - 00:12:01,080] i would be either heads or tails.
+- [00:12:02,060 - 00:12:03,760] If we were flipping dice,
+- [00:12:03,760 - 00:12:04,740] you know,
+- [00:12:04,740 - 00:12:05,240] like dice,
+- [00:12:05,240 - 00:12:06,360] dies of dice,
+- [00:12:06,800 - 00:12:07,040] dice,
+- [00:12:08,400 - 00:12:08,880] dice,
+- [00:12:08,960 - 00:12:10,340] die would run from one to six.
+- [00:12:10,760 - 00:12:11,980] If there were two dies,
+- [00:12:11,980 - 00:12:14,660] then we would have enough indices
+- [00:12:14,660 - 00:12:17,340] to keep track of two dice,
+- [00:12:17,340 - 00:12:17,920] and so forth.
+- [00:12:18,400 - 00:12:22,320] So i is the space of possibilities of outcomes,
+- [00:12:22,920 - 00:12:25,660] or the space of possible states of a system.
+- [00:12:27,220 - 00:12:29,000] And if we are ignorant,
+- [00:12:30,800 - 00:12:32,960] statistics always has to do with ignorance.
+- [00:12:33,740 - 00:12:35,120] You don't know everything,
+- [00:12:35,120 - 00:12:38,080] and so you assign probabilities to outcomes.
+- [00:12:38,080 - 00:12:42,450] And so we assign a probability p of i
+- [00:12:42,450 - 00:12:46,820] to the ith outcome to the answer to our question.
+- [00:12:49,600 - 00:12:51,720] What are the rules for p of i?
+- [00:12:51,920 - 00:12:53,480] What does p of i have to satisfy?
+- [00:12:54,460 - 00:12:55,520] And let's,
+- [00:12:55,520 - 00:12:56,480] for the beginning,
+- [00:12:56,480 - 00:12:57,560] at least in the beginning,
+- [00:12:58,260 - 00:13:02,500] let's imagine that i enumerates some discrete,
+- [00:13:02,500 - 00:13:04,660] finite collection of possibilities.
+- [00:13:05,760 - 00:13:06,880] Later on,
+- [00:13:06,880 - 00:13:08,740] we can have an infinite number of possibilities,
+- [00:13:09,060 - 00:13:12,380] or even a continuously infinite number of possibilities.
+- [00:13:12,460 - 00:13:13,560] But for the time being,
+- [00:13:15,000 - 00:13:17,800] i might run from one to n,
+- [00:13:22,280 - 00:13:23,340] n possibilities.
+- [00:13:24,860 - 00:13:25,980] And the rules are,
+- [00:13:25,980 - 00:13:26,780] first of all,
+- [00:13:26,820 - 00:13:28,720] p of i has to be
+- [00:13:28,720 - 00:13:30,620] greater than or equal to zero.
+- [00:13:30,780 - 00:13:31,920] Negative probabilities,
+- [00:13:31,920 - 00:13:33,960] we don't like them.
+- [00:13:34,720 - 00:13:35,780] Don't know what they mean.
+- [00:13:36,520 - 00:13:37,080] Okay?
+- [00:13:38,020 - 00:13:38,580] Next,
+- [00:13:39,880 - 00:13:41,840] the summation over i
+- [00:13:42,920 - 00:13:44,320] of p sub i,
+- [00:13:44,480 - 00:13:45,640] p of i,
+- [00:13:45,900 - 00:13:46,980] should be one.
+- [00:13:47,620 - 00:13:49,940] That means that the total probability,
+- [00:13:50,260 - 00:13:51,820] when you add everything up,
+- [00:13:51,820 - 00:13:53,360] all possibilities should be one.
+- [00:13:53,660 - 00:13:55,840] You certainly should get some result.
+- [00:13:56,500 - 00:13:57,060] Okay?
+- [00:13:58,440 - 00:13:59,000] Next,
+- [00:13:59,000 - 00:14:00,760] now this is a kind of hypothesis.
+- [00:14:01,020 - 00:14:01,900] This is the law of the universe.
+- [00:14:01,900 - 00:14:03,020] This is the law of large numbers.
+- [00:14:04,560 - 00:14:07,870] That if you either make
+- [00:14:07,870 - 00:14:11,180] many replicas of the same system,
+- [00:14:11,340 - 00:14:15,320] or do the same experiment over and over a very,
+- [00:14:15,320 - 00:14:17,300] very large number of times,
+- [00:14:19,900 - 00:14:23,350] and take all of the outcomes
+- [00:14:23,350 - 00:14:26,800] which gave you all of the experiments,
+- [00:14:26,940 - 00:14:28,840] which gave you the i-th outcome,
+- [00:14:30,040 - 00:14:31,400] that's some number,
+- [00:14:31,400 - 00:14:34,960] let's call it n of i,
+- [00:14:35,760 - 00:14:37,620] that's the number of times
+- [00:14:38,400 - 00:14:42,500] that the experiment turned up the i-th possibility,
+- [00:14:42,920 - 00:14:44,720] and you divide it
+- [00:14:46,579 - 00:14:49,360] by the total number of trials,
+- [00:14:50,439 - 00:14:54,460] total number of trials means the sum over all i,
+- [00:14:54,720 - 00:14:56,580] or just the total number of trials,
+- [00:14:57,400 - 00:14:59,040] that the limit of this,
+- [00:14:59,120 - 00:15:01,380] this is a physical hypothesis,
+- [00:15:02,240 - 00:15:03,680] it's a physical hypothesis,
+- [00:15:04,280 - 00:15:07,420] it can go wrong if n is not large enough,
+- [00:15:08,020 - 00:15:10,340] but in the limit of large n,
+- [00:15:11,440 - 00:15:13,080] n goes to infinity,
+- [00:15:13,940 - 00:15:15,980] in the limit of very,
+- [00:15:15,980 - 00:15:16,240] very,
+- [00:15:16,280 - 00:15:16,620] of course,
+- [00:15:16,620 - 00:15:17,860] n never goes to infinity,
+- [00:15:18,000 - 00:15:20,360] you never get to do an infinite number of experiments,
+- [00:15:21,620 - 00:15:22,440] but nevertheless,
+- [00:15:22,440 - 00:15:23,820] we're kind of idealizing,
+- [00:15:23,960 - 00:15:26,420] we're assuming we can do so many experiments
+- [00:15:26,420 - 00:15:29,400] that the limit n goes to infinity
+- [00:15:30,560 - 00:15:32,760] is effectively been reached,
+- [00:15:33,800 - 00:15:35,780] then that is p of i.
+- [00:15:38,220 - 00:15:40,040] So p of i controls,
+- [00:15:40,040 - 00:15:41,640] by assumption,
+- [00:15:41,880 - 00:15:45,980] the ratio of the n of i's.
+- [00:15:48,400 - 00:15:48,920] Okay,
+- [00:15:48,920 - 00:15:50,020] everybody happy with that?
+- [00:15:51,000 - 00:15:52,420] You use this all the time,
+- [00:15:52,420 - 00:15:52,820] I think.
+- [00:15:53,080 - 00:15:53,600] Well,
+- [00:15:53,600 - 00:15:54,860] sometimes we use it.
+- [00:15:56,220 - 00:15:56,740] Okay.
+- [00:15:57,640 - 00:15:58,160] Now,
+- [00:15:58,160 - 00:15:58,780] let's suppose
+- [00:15:59,579 - 00:16:01,680] that there is a quantity,
+- [00:16:01,940 - 00:16:03,600] let's call it f of i.
+- [00:16:07,280 - 00:16:10,380] It's some quantity
+- [00:16:10,380 - 00:16:12,920] that's associated with the i-th state.
+- [00:16:13,200 - 00:16:14,640] We can assign it,
+- [00:16:14,640 - 00:16:15,540] we can make it up.
+- [00:16:16,130 - 00:16:17,000] For example,
+- [00:16:17,680 - 00:16:20,300] if our system is heads and tails
+- [00:16:20,300 - 00:16:21,720] and nothing but heads and tails,
+- [00:16:22,540 - 00:16:28,000] we could assign f of heads
+- [00:16:28,000 - 00:16:30,360] and call it plus one,
+- [00:16:31,120 - 00:16:32,580] and f of tails
+- [00:16:32,580 - 00:16:35,420] and call it minus one.
+- [00:16:39,560 - 00:16:41,640] If our system has many,
+- [00:16:41,640 - 00:16:42,600] many more states,
+- [00:16:43,260 - 00:16:46,140] we may want to assign a much larger number
+- [00:16:46,140 - 00:16:47,900] of possible f's,
+- [00:16:48,060 - 00:16:51,500] but f is some function of the state.
+- [00:16:51,700 - 00:16:54,300] It's also a thing that we imagine measuring.
+- [00:16:54,640 - 00:16:57,300] It could be the energy of a state,
+- [00:16:57,300 - 00:16:59,640] or it could be the momentum of a state.
+- [00:17:00,280 - 00:17:01,940] Given a state of some system,
+- [00:17:02,020 - 00:17:02,860] it has an energy.
+- [00:17:04,000 - 00:17:05,740] It would be called in that case,
+- [00:17:05,740 - 00:17:06,140] perhaps,
+- [00:17:06,240 - 00:17:07,220] e of i.
+- [00:17:08,760 - 00:17:10,200] Or it could be the momentum.
+- [00:17:10,859 - 00:17:12,319] Or it could be something else.
+- [00:17:12,359 - 00:17:14,009] It could be whatever you
+- [00:17:14,009 - 00:17:15,660] happen to like to think about.
+- [00:17:16,960 - 00:17:17,440] Then,
+- [00:17:17,440 - 00:17:20,920] an important quantity is the average of f of i.
+- [00:17:21,560 - 00:17:23,359] And the average of f of i,
+- [00:17:25,000 - 00:17:27,280] I will use the quantity,
+- [00:17:27,280 - 00:17:29,160] and I will use the quantum mechanical notation for it,
+- [00:17:29,180 - 00:17:31,020] even though we're not doing quantum mechanics.
+- [00:17:31,200 - 00:17:32,080] It's a nice notation.
+- [00:17:32,800 - 00:17:34,760] Physicists tend to use it all over the place.
+- [00:17:35,060 - 00:17:36,040] Mathematicians hate it.
+- [00:17:38,260 - 00:17:40,480] Just put a pair of brackets around it.
+- [00:17:40,540 - 00:17:41,600] It means the average.
+- [00:17:41,720 - 00:17:42,980] The average value
+- [00:17:45,480 - 00:17:47,460] of the quantity
+- [00:17:48,880 - 00:17:51,080] averaged over the probability distribution.
+- [00:17:51,380 - 00:17:52,320] It has a definition.
+- [00:17:53,120 - 00:17:54,160] Its definition
+- [00:17:55,740 - 00:17:57,260] is that it's the sum over the number of states
+- [00:17:58,080 - 00:17:58,740] of f of i
+- [00:17:58,740 - 00:18:01,660] f of i
+- [00:18:02,520 - 00:18:03,180] weighted
+- [00:18:03,180 - 00:18:05,360] with the probability.
+- [00:18:08,140 - 00:18:09,360] For example,
+- [00:18:09,500 - 00:18:10,480] if,
+- [00:18:10,480 - 00:18:12,840] and incidentally,
+- [00:18:12,840 - 00:18:14,320] the average of f of i
+- [00:18:15,090 - 00:18:18,160] does not have to be any of the possible values
+- [00:18:18,160 - 00:18:19,400] that f can take on.
+- [00:18:19,820 - 00:18:20,860] For example,
+- [00:18:20,860 - 00:18:21,620] in this case,
+- [00:18:22,439 - 00:18:24,780] where f of heads is plus one
+- [00:18:24,780 - 00:18:27,260] and f of tails is minus one,
+- [00:18:27,280 - 00:18:29,480] and you flip a million times,
+- [00:18:29,700 - 00:18:32,200] and the probability is a half of heads
+- [00:18:32,200 - 00:18:33,080] and a half of tails,
+- [00:18:33,400 - 00:18:35,640] the average of f will be zero.
+- [00:18:36,200 - 00:18:38,100] Zero is not a possible outcome
+- [00:18:38,100 - 00:18:38,980] to the experiment.
+- [00:18:39,400 - 00:18:40,920] There's no rule why the
+- [00:18:43,280 - 00:18:43,860] average
+- [00:18:45,640 - 00:18:47,120] should be one of the possible
+- [00:18:47,120 - 00:18:48,660] experimental outputs.
+- [00:18:50,180 - 00:18:51,460] But it is the average.
+- [00:18:52,420 - 00:18:53,960] And this is its definition.
+- [00:18:54,400 - 00:18:57,260] Each value of f
+- [00:18:57,260 - 00:18:59,380] is weighted with the probability
+- [00:18:59,380 - 00:19:00,700] for that value of f.
+- [00:19:01,360 - 00:19:03,000] You can write it another way.
+- [00:19:03,280 - 00:19:05,420] You can write it as the sum over i
+- [00:19:06,280 - 00:19:07,600] of f of i
+- [00:19:08,680 - 00:19:10,560] times the number of times
+- [00:19:10,560 - 00:19:12,020] that you measure i
+- [00:19:14,740 - 00:19:17,420] divided by the total number of measurements
+- [00:19:18,000 - 00:19:18,560] divided by the total number of measurements
+- [00:19:18,560 - 00:19:19,620] that's what p of i is
+- [00:19:19,620 - 00:19:21,040] in the limit
+- [00:19:21,040 - 00:19:23,900] that there are a large number of measurements.
+- [00:19:24,640 - 00:19:26,520] So that's defined to be the average.
+- [00:19:26,800 - 00:19:27,240] So that's defined to be the average.
+- [00:19:27,260 - 00:19:28,640] That's our mathematical
+- [00:19:29,159 - 00:19:30,380] preliminary for today.
+- [00:19:30,720 - 00:19:31,580] That's all we,
+- [00:19:31,580 - 00:19:32,460] that's all
+- [00:19:33,179 - 00:19:34,320] I wanted to
+- [00:19:36,100 - 00:19:37,320] level the playing
+- [00:19:37,320 - 00:19:39,120] field by making sure everybody
+- [00:19:39,120 - 00:19:41,040] knows what a probability is and what an
+- [00:19:41,040 - 00:19:41,760] average is.
+- [00:19:42,860 - 00:19:44,960] Because we'll use it over and over.
+- [00:19:51,340 - 00:19:51,800] Okay,
+- [00:19:51,800 - 00:19:53,560] let's start with coin flips.
+- [00:19:53,700 - 00:19:54,600] I always start with coin flips.
+- [00:19:54,600 - 00:19:56,300] I start every single class with coin flips.
+- [00:19:57,260 - 00:19:59,160] Even when I'm teaching about the Higgs boson.
+- [00:20:02,620 - 00:20:03,060] Okay.
+- [00:20:05,060 - 00:20:07,020] If I flip a coin a lot of times
+- [00:20:08,460 - 00:20:10,300] or whether I flip a coin a lot of times
+- [00:20:10,300 - 00:20:10,620] or not
+- [00:20:11,240 - 00:20:12,980] the probability for heads
+- [00:20:12,980 - 00:20:15,400] is usually deemed to be one half
+- [00:20:15,400 - 00:20:17,040] and the probability for tails
+- [00:20:17,040 - 00:20:19,420] is usually also deemed to be one half.
+- [00:20:19,800 - 00:20:20,640] Why do we do that?
+- [00:20:20,720 - 00:20:22,500] Why is it a half and a half?
+- [00:20:22,640 - 00:20:24,080] What's the logic there?
+- [00:20:24,939 - 00:20:26,880] What logic tells us that?
+- [00:20:27,260 - 00:20:28,640] And in this case
+- [00:20:29,080 - 00:20:29,800] it's symmetry.
+- [00:20:30,840 - 00:20:32,820] It's the symmetry of the coin.
+- [00:20:33,140 - 00:20:35,060] Of course no coin is perfectly
+- [00:20:35,060 - 00:20:37,320] symmetric and even making a little mark
+- [00:20:37,320 - 00:20:39,240] on it to distinguish a heads and tails
+- [00:20:40,260 - 00:20:41,760] biases it a little bit.
+- [00:20:42,480 - 00:20:43,080] But
+- [00:20:43,080 - 00:20:45,400] apart from that tiny tiny bias
+- [00:20:45,400 - 00:20:47,160] of marking the coin
+- [00:20:47,160 - 00:20:48,800] with maybe just a tiny little scratch
+- [00:20:48,800 - 00:20:50,580] the coin is symmetric.
+- [00:20:51,600 - 00:20:53,120] Heads and tails
+- [00:20:53,120 - 00:20:55,320] are symmetric with respect to each other
+- [00:20:55,320 - 00:20:56,220] and
+- [00:20:57,260 - 00:20:59,000] therefore there is no reason
+- [00:20:59,000 - 00:21:00,340] no rationale
+- [00:21:01,120 - 00:21:02,540] for when you flip a coin
+- [00:21:02,919 - 00:21:05,220] for it to turn up
+- [00:21:05,220 - 00:21:06,640] heads more often than tails
+- [00:21:07,100 - 00:21:08,500] and so it's symmetry
+- [00:21:08,500 - 00:21:09,720] quite often
+- [00:21:11,080 - 00:21:13,040] I might even say always
+- [00:21:13,040 - 00:21:14,300] in some deeper sense
+- [00:21:14,300 - 00:21:15,300] but at least
+- [00:21:15,300 - 00:21:18,900] at least in many cases
+- [00:21:19,880 - 00:21:20,640] symmetry
+- [00:21:21,080 - 00:21:22,960] is the thing which dictates probabilities
+- [00:21:22,960 - 00:21:24,260] probabilities
+- [00:21:25,260 - 00:21:27,080] are usually taken to be
+- [00:21:27,260 - 00:21:27,860] equal
+- [00:21:27,860 - 00:21:30,900] for configurations which are related
+- [00:21:30,900 - 00:21:32,660] to each other by some symmetry.
+- [00:21:33,600 - 00:21:35,080] Symmetry means if you
+- [00:21:35,080 - 00:21:35,520] you know,
+- [00:21:35,520 - 00:21:36,520] you act with the symmetry
+- [00:21:36,520 - 00:21:37,960] you reflect everything,
+- [00:21:37,960 - 00:21:39,360] you turn everything over
+- [00:21:39,360 - 00:21:40,580] that
+- [00:21:40,580 - 00:21:43,140] the system behaves the same way.
+- [00:21:44,360 - 00:21:45,000] Okay
+- [00:21:45,000 - 00:21:46,200] another example besides
+- [00:21:47,000 - 00:21:48,560] coin flipping would be
+- [00:21:49,000 - 00:21:49,700] dice flipping.
+- [00:21:50,280 - 00:21:52,680] Dice flipping instead of having two states
+- [00:21:52,680 - 00:21:54,200] has six states,
+- [00:21:54,200 - 00:21:54,940] one die
+- [00:21:54,940 - 00:21:56,980] and we can imagine
+- [00:22:12,899 - 00:22:15,280] that the die is
+- [00:22:15,280 - 00:22:15,720] one,
+- [00:22:15,720 - 00:22:17,060] two,
+- [00:22:17,060 - 00:22:17,060] three,
+- [00:22:17,060 - 00:22:17,060] four,
+- [00:22:17,060 - 00:22:17,060] five,
+- [00:22:17,060 - 00:22:17,060] six
+- [00:22:17,060 - 00:22:17,100] So let's say
+- [00:22:17,100 - 00:22:18,120] that we have a die
+- [00:22:18,120 - 00:22:18,740] and we can see
+- [00:22:18,740 - 00:22:19,200] that the die is
+- [00:22:19,200 - 00:22:19,200] two,
+- [00:22:19,200 - 00:22:19,200] three,
+- [00:22:19,200 - 00:22:19,200] four,
+- [00:22:19,200 - 00:22:19,400] five,
+- [00:22:19,400 - 00:22:19,400] six
+- [00:22:19,400 - 00:22:20,120] and so on.
+- [00:22:20,120 - 00:22:20,820] And we can imagine
+- [00:22:20,820 - 00:22:23,940] that the die
+- [00:22:23,940 - 00:22:25,540] is a seven
+- [00:22:25,540 - 00:22:25,960] and so on.
+- [00:22:26,300 - 00:22:27,240] So we can imagine
+- [00:22:27,240 - 00:22:28,480] that the die is
+- [00:22:28,480 - 00:22:28,660] a seven
+- [00:22:28,660 - 00:22:29,040] and so on.
+- [00:22:29,040 - 00:22:31,080] So we can imagine
+- [00:22:31,080 - 00:22:31,780] that the die is
+- [00:22:31,780 - 00:22:33,460] a seven
+- [00:22:33,460 - 00:22:35,080] and so on.
+- [00:22:35,200 - 00:22:36,080] We can imagine
+- [00:22:37,740 - 00:22:39,240] that the die
+- [00:22:41,600 - 00:22:43,000] is a six
+- [00:22:43,000 - 00:22:48,860] and so on.
+- [00:22:49,600 - 00:22:49,840] And this is
+- [00:22:49,840 - 00:22:53,560] another way of
+- [00:22:56,460 - 00:22:57,220] understanding
+- [00:22:57,220 - 00:23:00,160] that are not nice and parallel cubes.
+- [00:23:01,480 - 00:23:02,940] Then what's the answer?
+- [00:23:03,440 - 00:23:05,960] The answer is symmetry won't tell you.
+- [00:23:06,480 - 00:23:11,400] You may be able to use some deeper underlying theory
+- [00:23:12,140 - 00:23:13,990] and to use some concept of
+- [00:23:13,990 - 00:23:15,840] symmetry from the deeper underlying theory,
+- [00:23:16,080 - 00:23:20,360] but in the absence of something else,
+- [00:23:20,360 - 00:23:22,160] there is no answer.
+- [00:23:22,280 - 00:23:23,020] The answer is experiment.
+- [00:23:23,020 - 00:23:25,940] Do this experiment a billion times,
+- [00:23:25,940 - 00:23:28,420] keep track of the numbers,
+- [00:23:30,600 - 00:23:33,340] assume that things have converged,
+- [00:23:34,260 - 00:23:36,600] and that way you measure the probabilities.
+- [00:23:37,980 - 00:23:39,480] You measure the probabilities,
+- [00:23:39,480 - 00:23:41,800] and thereafter you can use them.
+- [00:23:42,340 - 00:23:44,130] You can use them if
+- [00:23:44,130 - 00:23:45,920] you keep a table of them,
+- [00:23:46,000 - 00:23:47,730] and then you can use them
+- [00:23:47,730 - 00:23:49,460] in the next round of experiments.
+- [00:23:50,540 - 00:23:52,360] Or you may have some theory,
+- [00:23:52,440 - 00:23:53,000] some deep underlying theory,
+- [00:23:53,020 - 00:23:54,720] which tells you where,
+- [00:23:54,720 - 00:23:57,000] like quantum mechanics or statistical mechanics.
+- [00:23:57,620 - 00:24:00,540] Statistical mechanics tends to rely mostly on symmetry,
+- [00:24:00,540 - 00:24:01,220] as we'll see.
+- [00:24:01,940 - 00:24:04,200] So if there's no symmetry to guide you,
+- [00:24:04,300 - 00:24:09,480] or to guide your implementation of probabilities,
+- [00:24:09,940 - 00:24:11,220] then it's experiment.
+- [00:24:13,060 - 00:24:13,740] Now,
+- [00:24:13,740 - 00:24:15,020] there's another answer.
+- [00:24:15,140 - 00:24:16,620] There's another possible answer.
+- [00:24:16,780 - 00:24:18,940] This answer is often frequently invoked,
+- [00:24:18,940 - 00:24:21,400] and it's a correct answer under other circumstances.
+- [00:24:21,400 - 00:24:23,050] It can have to do
+- [00:24:23,050 - 00:24:24,700] with the evolution of a system,
+- [00:24:24,780 - 00:24:26,380] the way a system changes with time.
+- [00:24:27,180 - 00:24:29,570] So let me give you some examples
+- [00:24:29,570 - 00:24:31,960] of what it might have to do.
+- [00:24:33,140 - 00:24:36,140] Let's take our six-sided cube,
+- [00:24:37,140 - 00:24:40,600] and assume that our six-sided cube is not symmetric.
+- [00:24:41,680 - 00:24:42,880] It's not symmetric,
+- [00:24:42,880 - 00:24:46,240] but we know a rule.
+- [00:24:46,800 - 00:24:48,260] We know that if we put
+- [00:24:48,260 - 00:24:49,720] that cube down on the table,
+- [00:24:49,880 - 00:24:50,700] it's not a cube.
+- [00:24:50,700 - 00:24:51,910] When we put that die down
+- [00:24:51,910 - 00:24:53,120] on the table and we stand back,
+- [00:24:53,280 - 00:24:57,420] this thing has this habit of jumping to another state,
+- [00:24:57,600 - 00:24:58,920] and jumping to another state,
+- [00:24:58,920 - 00:25:00,080] and jumping to another state.
+- [00:25:00,160 - 00:25:03,720] It's called the law of motion of the system.
+- [00:25:03,960 - 00:25:05,870] The law of motion of the system
+- [00:25:05,870 - 00:25:07,780] is that whatever it is at one instant,
+- [00:25:08,060 - 00:25:09,420] at some next instant,
+- [00:25:09,420 - 00:25:10,860] it will be something else,
+- [00:25:11,020 - 00:25:12,740] according to a definite rule.
+- [00:25:13,060 - 00:25:14,760] The instants could be seconds,
+- [00:25:14,760 - 00:25:16,040] they could be microseconds,
+- [00:25:16,040 - 00:25:16,560] or whatever.
+- [00:25:16,900 - 00:25:19,020] But imagine a discrete sequence.
+- [00:25:19,020 - 00:25:21,340] And let's suppose there's a law,
+- [00:25:21,500 - 00:25:23,320] a genuine law that tells
+- [00:25:23,320 - 00:25:25,140] us how this cube moves around.
+- [00:25:25,440 - 00:25:26,500] For example,
+- [00:25:26,500 - 00:25:28,100] if it's red,
+- [00:25:29,040 - 00:25:30,660] now we've done this over and
+- [00:25:30,660 - 00:25:32,280] over many times in different contexts,
+- [00:25:32,720 - 00:25:35,200] but it is so important that I
+- [00:25:35,200 - 00:25:37,680] feel a need to emphasize it again.
+- [00:25:37,880 - 00:25:40,040] This is what a law of motion is.
+- [00:25:40,240 - 00:25:42,790] It's a rule telling you what
+- [00:25:42,790 - 00:25:45,340] the next configuration will be given.
+- [00:25:45,460 - 00:25:47,020] It's a rule of updating,
+- [00:25:47,020 - 00:25:48,660] of updating configuration.
+- [00:25:49,780 - 00:25:51,040] Red goes to blue,
+- [00:25:52,660 - 00:25:53,880] blue goes to yellow,
+- [00:25:56,180 - 00:25:57,420] yellow goes to green,
+- [00:25:59,440 - 00:26:00,880] green goes to orange,
+- [00:26:02,100 - 00:26:03,360] orange goes to purple,
+- [00:26:03,580 - 00:26:05,560] and purple goes back to red.
+- [00:26:06,900 - 00:26:07,420] Okay.
+- [00:26:09,280 - 00:26:11,900] Given the configuration at any time,
+- [00:26:12,080 - 00:26:13,900] you know what it will be next,
+- [00:26:13,920 - 00:26:15,520] and you know what it will continue to do.
+- [00:26:15,760 - 00:26:16,520] Of course,
+- [00:26:16,520 - 00:26:18,360] you may not know the law,
+- [00:26:19,020 - 00:26:21,330] maybe all you know is that
+- [00:26:21,330 - 00:26:23,640] there is a law of this type.
+- [00:26:24,380 - 00:26:24,820] Alright,
+- [00:26:24,820 - 00:26:26,000] so you know what I'm going to do next.
+- [00:26:26,080 - 00:26:26,740] What am I going to do next?
+- [00:26:27,880 - 00:26:30,400] I'm going to draw this law as a diagram.
+- [00:26:30,720 - 00:26:32,640] You've all seen me do this in other contexts,
+- [00:26:32,840 - 00:26:33,920] so let's do it.
+- [00:26:34,140 - 00:26:35,160] We have red.
+- [00:26:36,820 - 00:26:37,540] Let's not...
+- [00:26:38,860 - 00:26:40,140] Too hard to draw squares.
+- [00:26:42,379 - 00:26:42,820] Red,
+- [00:26:42,820 - 00:26:43,260] blue,
+- [00:26:43,260 - 00:26:44,520] green,
+- [00:26:44,520 - 00:26:46,660] orange,
+- [00:26:46,660 - 00:26:47,560] what happened?
+- [00:26:47,560 - 00:26:48,080] Oh,
+- [00:26:48,080 - 00:26:48,440] yellow.
+- [00:26:50,280 - 00:26:50,800] Yellow,
+- [00:26:50,800 - 00:26:51,320] orange,
+- [00:26:51,320 - 00:26:52,500] purple.
+- [00:26:53,680 - 00:26:54,200] Alright,
+- [00:26:54,200 - 00:26:56,860] so a law like this can be just represented
+- [00:26:57,460 - 00:27:00,320] by a set of lines connecting a set of arrows.
+- [00:27:01,200 - 00:27:02,380] Red goes to blue,
+- [00:27:03,120 - 00:27:04,280] blue goes to green,
+- [00:27:04,520 - 00:27:05,720] green goes to yellow,
+- [00:27:05,920 - 00:27:06,900] yellow goes to orange,
+- [00:27:07,000 - 00:27:07,860] orange goes to purple,
+- [00:27:07,980 - 00:27:09,120] purple goes back to red.
+- [00:27:11,480 - 00:27:12,940] Making the assumption now
+- [00:27:13,560 - 00:27:16,880] that there's a discrete time interval
+- [00:27:17,560 - 00:27:18,520] between such events,
+- [00:27:18,940 - 00:27:21,420] I am not assuming that the cube
+- [00:27:21,420 - 00:27:23,240] has any symmetry to it anymore.
+- [00:27:24,020 - 00:27:26,320] The cube may not be symmetric at all.
+- [00:27:27,480 - 00:27:28,960] It may have points,
+- [00:27:29,000 - 00:27:29,640] you know,
+- [00:27:29,640 - 00:27:30,200] one edge,
+- [00:27:30,200 - 00:27:31,020] one face,
+- [00:27:31,140 - 00:27:31,640] maybe tiny,
+- [00:27:31,640 - 00:27:32,340] another face,
+- [00:27:32,480 - 00:27:33,640] but if this is the rule,
+- [00:27:33,680 - 00:27:36,520] to go from one configuration to another,
+- [00:27:36,720 - 00:27:39,820] and each step takes,
+- [00:27:39,820 - 00:27:40,200] let's say,
+- [00:27:40,200 - 00:27:40,980] a microsecond,
+- [00:27:41,260 - 00:27:42,600] I might know...
+- [00:27:42,600 - 00:27:44,940] I might have no idea where I begin,
+- [00:27:45,740 - 00:27:47,540] but I can still tell you
+- [00:27:47,560 - 00:27:48,720] if I...
+- [00:27:48,720 - 00:27:50,000] Let's say it's a microsecond.
+- [00:27:50,100 - 00:27:50,960] A microsecond,
+- [00:27:50,960 - 00:27:51,960] and my job
+- [00:27:52,520 - 00:27:54,980] is to catch it at a particular instant
+- [00:27:55,959 - 00:27:57,660] and ask what the color is.
+- [00:27:58,020 - 00:27:59,160] I don't know where it started,
+- [00:28:00,580 - 00:28:01,020] okay,
+- [00:28:01,460 - 00:28:03,020] but I can still tell you
+- [00:28:03,020 - 00:28:05,320] the probability for each one of these is one sixth.
+- [00:28:06,120 - 00:28:07,300] Doesn't have to do with symmetry.
+- [00:28:07,580 - 00:28:07,780] Well,
+- [00:28:07,780 - 00:28:09,220] maybe it does have to do with some symmetry,
+- [00:28:09,460 - 00:28:11,140] but in this case,
+- [00:28:11,260 - 00:28:13,070] it wouldn't be the symmetry
+- [00:28:13,070 - 00:28:14,880] of the structure of a die.
+- [00:28:15,240 - 00:28:16,640] It would just be the fact
+- [00:28:16,640 - 00:28:20,740] that as it passes through these sequence of states,
+- [00:28:21,040 - 00:28:23,700] it spends one sixth of its time red,
+- [00:28:23,880 - 00:28:25,620] one sixth of its time blue,
+- [00:28:25,800 - 00:28:27,620] one sixth of its time green,
+- [00:28:27,860 - 00:28:29,900] and if I don't know where it starts,
+- [00:28:30,080 - 00:28:31,840] and I just take a flash,
+- [00:28:32,700 - 00:28:33,540] you know,
+- [00:28:33,540 - 00:28:34,620] a flash shot of it,
+- [00:28:34,780 - 00:28:37,220] my probability will be one sixth.
+- [00:28:39,120 - 00:28:39,720] Now,
+- [00:28:39,720 - 00:28:40,900] that one sixth
+- [00:28:40,900 - 00:28:43,700] did not really depend on knowing
+- [00:28:44,580 - 00:28:45,660] the distance
+- [00:28:45,660 - 00:28:46,760] between the two states.
+- [00:28:46,760 - 00:28:47,320] a detailed law.
+- [00:28:48,380 - 00:28:49,380] For example,
+- [00:28:49,460 - 00:28:50,500] the law could have been different.
+- [00:28:50,960 - 00:28:52,500] Let's make up a new law.
+- [00:28:58,260 - 00:28:59,580] Red goes to green,
+- [00:28:59,820 - 00:29:01,360] green goes to orange,
+- [00:29:01,640 - 00:29:02,880] orange goes to yellow,
+- [00:29:03,140 - 00:29:04,540] yellow goes to purple,
+- [00:29:06,120 - 00:29:07,720] purple goes to blue,
+- [00:29:07,720 - 00:29:09,580] and blue goes back to red.
+- [00:29:11,820 - 00:29:14,320] This shares with the previous law
+- [00:29:14,320 - 00:29:18,220] that there's a closed cycle of events
+- [00:29:18,220 - 00:29:21,360] in which you pass through each color once
+- [00:29:22,220 - 00:29:23,820] before you cycle around.
+- [00:29:24,960 - 00:29:28,060] You may not know which the law of nature is
+- [00:29:28,060 - 00:29:29,040] for this system,
+- [00:29:29,550 - 00:29:30,920] but you can tell me again
+- [00:29:31,610 - 00:29:33,280] that the probability
+- [00:29:33,280 - 00:29:35,880] will be one sixth for each one of them.
+- [00:29:36,460 - 00:29:37,080] So,
+- [00:29:37,080 - 00:29:39,560] this prediction of one sixth
+- [00:29:39,879 - 00:29:41,640] doesn't depend on knowing the starting point,
+- [00:29:42,139 - 00:29:44,620] and doesn't depend on knowing the law of physics.
+- [00:29:44,780 - 00:29:45,860] It's just important to know
+- [00:29:45,860 - 00:29:48,060] that there is a particular kind of law.
+- [00:29:50,780 - 00:29:52,920] Are there possible laws for this system
+- [00:29:52,920 - 00:29:55,100] which will not give you one sixth?
+- [00:29:55,340 - 00:29:55,720] Yes.
+- [00:29:56,620 - 00:29:57,820] Let's write another law.
+- [00:30:09,460 - 00:30:09,820] Red,
+- [00:30:09,820 - 00:30:10,400] blue,
+- [00:30:10,400 - 00:30:11,080] green,
+- [00:30:11,080 - 00:30:13,100] yellow,
+- [00:30:13,100 - 00:30:13,960] orange,
+- [00:30:13,960 - 00:30:14,880] purple.
+- [00:30:17,180 - 00:30:19,780] This rule says that if you start with red,
+- [00:30:19,780 - 00:30:21,220] you go to blue.
+- [00:30:21,320 - 00:30:21,960] If you start with blue,
+- [00:30:21,960 - 00:30:22,500] you go to green.
+- [00:30:23,380 - 00:30:24,280] And if you get to green,
+- [00:30:24,280 - 00:30:25,020] you go back to red.
+- [00:30:26,180 - 00:30:27,480] Or if you start with purple,
+- [00:30:27,480 - 00:30:28,160] you go to yellow.
+- [00:30:28,220 - 00:30:29,100] Yellow to orange,
+- [00:30:29,100 - 00:30:30,080] orange back to purple.
+- [00:30:31,100 - 00:30:32,280] Notice in this case,
+- [00:30:32,280 - 00:30:34,960] if you're on one of these two cycles,
+- [00:30:34,960 - 00:30:36,120] you stay there forever.
+- [00:30:37,940 - 00:30:40,440] If you knew you were on the upper cycle,
+- [00:30:40,440 - 00:30:42,500] if you knew you had started,
+- [00:30:42,500 - 00:30:43,620] it doesn't matter
+- [00:30:43,620 - 00:30:44,360] where you start,
+- [00:30:44,360 - 00:30:46,720] but if you knew that you
+- [00:30:46,720 - 00:30:49,080] started on the upper cycle somewheres,
+- [00:30:49,080 - 00:30:51,040] then
+- [00:30:51,040 - 00:30:52,560] you would know that there was
+- [00:30:52,560 - 00:30:54,080] a one-third probability to be red,
+- [00:30:54,080 - 00:30:54,980] a one-third probability
+- [00:30:54,980 - 00:30:55,820] to be blue,
+- [00:30:55,820 - 00:30:57,480] and a one-third probability to be green,
+- [00:30:57,480 - 00:31:01,260] and zero probability to be red,
+- [00:31:01,320 - 00:31:01,580] yellow,
+- [00:31:01,580 - 00:31:02,220] or orange.
+- [00:31:03,640 - 00:31:04,600] On the other hand,
+- [00:31:04,600 - 00:31:06,100] you could have started with the second cycle.
+- [00:31:06,100 - 00:31:08,000] You could have started with purple.
+- [00:31:08,940 - 00:31:10,860] Might not have known where you started,
+- [00:31:10,860 - 00:31:14,020] but you knew that you started in the lower triangle,
+- [00:31:14,080 - 00:31:15,140] in the lower cycle here,
+- [00:31:15,140 - 00:31:16,790] then you would know the
+- [00:31:16,790 - 00:31:18,440] probabilities of one-third for each of
+- [00:31:18,440 - 00:31:20,400] these and zero for each of these.
+- [00:31:20,760 - 00:31:25,100] Now what about a more general case?
+- [00:31:25,520 - 00:31:29,180] The more general case might be that you
+- [00:31:29,180 - 00:31:32,840] know with some probability that you start on the
+- [00:31:32,840 - 00:31:34,460] upper triangle here and with some
+- [00:31:34,460 - 00:31:36,080] other probability on the lower triangle.
+- [00:31:36,080 - 00:31:37,800] In fact,
+- [00:31:37,800 - 00:31:39,060] let's give these triangles names.
+- [00:31:40,000 - 00:31:43,580] Let's call this triangle the plus one
+- [00:31:43,580 - 00:31:47,160] triangle and this one the minus one triangle.
+- [00:31:49,320 - 00:31:50,760] Just giving them names,
+- [00:31:50,760 - 00:31:52,560] attaching to them a number,
+- [00:31:52,560 - 00:31:53,660] a numerical value.
+- [00:31:54,420 - 00:31:55,260] If you're here,
+- [00:31:55,260 - 00:31:57,380] something or other is called plus one.
+- [00:31:57,520 - 00:31:58,160] If you're here,
+- [00:31:58,160 - 00:31:59,860] something or other is called minus one.
+- [00:32:00,800 - 00:32:02,280] Now you have to append,
+- [00:32:02,280 - 00:32:04,090] you have to start with something
+- [00:32:04,090 - 00:32:05,900] you've got to get from someplace
+- [00:32:06,080 - 00:32:06,360] else.
+- [00:32:06,360 - 00:32:08,470] It doesn't follow from symmetry and it
+- [00:32:08,470 - 00:32:10,580] doesn't follow from cycling through the system,
+- [00:32:10,580 - 00:32:11,540] some
+- [00:32:12,240 - 00:32:14,690] probability that you're either on cycle
+- [00:32:14,690 - 00:32:17,140] plus one or cycle minus one.
+- [00:32:17,340 - 00:32:19,000] Where might that come from?
+- [00:32:19,240 - 00:32:19,740] Well,
+- [00:32:19,740 - 00:32:22,400] flipping somebody else's coin over here,
+- [00:32:22,400 - 00:32:25,120] flipping a coin over here might decide which
+- [00:32:25,120 - 00:32:25,680] of these two.
+- [00:32:26,260 - 00:32:27,860] It might be a biased coin,
+- [00:32:27,860 - 00:32:30,650] so you will have a probability
+- [00:32:30,650 - 00:32:33,440] to be plus one and a probability
+- [00:32:33,440 - 00:32:34,620] to be minus one.
+- [00:32:34,620 - 00:32:36,280] This is a new目前 for these two cross judging skills.
+- [00:32:36,280 - 00:32:42,430] These two cross judging skills
+- [00:32:42,430 - 00:32:48,580] are to become Senator Russell saying,
+- [00:32:48,580 - 00:32:51,340] if you are on cycle
+- [00:32:55,640 - 00:32:57,140] plus one,
+- [00:32:57,140 - 00:32:57,140] then counting up to zero negative for you.
+- [00:32:57,140 - 00:32:58,820] wasted gets equal to minus one.
+- [00:33:01,580 - 00:33:03,600] So Party's s is food.
+- [00:33:03,600 - 00:33:04,600] CONSUMERwegīt malt sixt games.
+- [00:33:04,600 - 00:33:04,660] blue,
+- [00:33:04,660 - 00:33:04,880] red,
+- [00:33:04,880 - 00:33:05,600] or green
+- [00:33:05,600 - 00:33:09,960] is one-third the probability that you're on the first cycle
+- [00:33:09,960 - 00:33:11,360] and likewise
+- [00:33:11,360 - 00:33:14,640] the probability that you're at yellow
+- [00:33:14,640 - 00:33:16,200] will be
+- [00:33:16,980 - 00:33:18,360] this is the probability
+- [00:33:19,800 - 00:33:20,480] for
+- [00:33:20,480 - 00:33:21,780] red,
+- [00:33:21,780 - 00:33:22,360] blue,
+- [00:33:22,360 - 00:33:23,200] or green
+- [00:33:23,200 - 00:33:24,280] in this case
+- [00:33:24,280 - 00:33:25,540] and
+- [00:33:26,919 - 00:33:28,480] this times one-third
+- [00:33:28,480 - 00:33:31,340] will be the probability for purple,
+- [00:33:31,340 - 00:33:31,900] yellow,
+- [00:33:31,900 - 00:33:32,840] or orange
+- [00:33:34,679 - 00:33:36,980] okay so in this case you need to supply
+- [00:33:37,840 - 00:33:38,220] another
+- [00:33:40,840 - 00:33:42,960] probability that you've got to get from somewhere else
+- [00:33:43,900 - 00:33:45,800] this case here
+- [00:33:46,459 - 00:33:49,100] is what we call having a conservation law
+- [00:33:49,920 - 00:33:51,740] in this case
+- [00:33:51,740 - 00:33:53,440] the conservation law
+- [00:33:54,179 - 00:33:56,840] would be just the conservation of this number
+- [00:33:57,820 - 00:33:58,200] for
+- [00:33:58,480 - 00:33:58,640] red,
+- [00:33:58,640 - 00:33:59,160] blue,
+- [00:33:59,160 - 00:34:02,160] and green we've assigned the value plus one
+- [00:34:02,560 - 00:34:04,160] that plus one could be the energy
+- [00:34:04,680 - 00:34:06,470] or it could be something else I tend to
+- [00:34:06,470 - 00:34:08,260] call it the zilch for some reason I call
+- [00:34:08,260 - 00:34:10,120] everything a zilch if there is no name for it
+- [00:34:11,060 - 00:34:11,540] uh...
+- [00:34:12,380 - 00:34:13,500] yeah so anyway
+- [00:34:14,020 - 00:34:15,829] let's think of it as
+- [00:34:15,829 - 00:34:17,639] the energy to keep things uh...
+- [00:34:18,400 - 00:34:18,880] familiar
+- [00:34:19,480 - 00:34:21,889] the energy of these three configurations might
+- [00:34:21,889 - 00:34:24,300] all be plus one and the energy of
+- [00:34:24,300 - 00:34:27,080] these three configurations might all be minus one
+- [00:34:28,399 - 00:34:29,860] and the point is
+- [00:34:29,860 - 00:34:32,269] that because the rule keeps
+- [00:34:32,269 - 00:34:34,679] you always on the same cycle
+- [00:34:35,100 - 00:34:36,020] that quantity
+- [00:34:36,520 - 00:34:36,900] energy
+- [00:34:37,659 - 00:34:39,040] zilch whatever we call it
+- [00:34:39,040 - 00:34:41,100] is conserved it doesn't change
+- [00:34:41,580 - 00:34:44,500] that's what a conservation law is a conservation law
+- [00:34:45,359 - 00:34:49,900] is that the configuration space the space of possibilities
+- [00:34:50,719 - 00:34:52,760] divides up into cycles like this
+- [00:34:52,760 - 00:34:54,409] now the cycles don't have to
+- [00:34:54,409 - 00:34:56,060] have equal size here's another case
+- [00:34:56,060 - 00:34:56,560] or the space of possibilities is divided up into cycles like this
+- [00:34:56,560 - 00:34:57,060] now the cycles don't have to have equal size here's another case
+- [00:34:57,080 - 00:34:58,600] one two three four
+- [00:34:59,480 - 00:35:00,940] you go around this way
+- [00:35:03,080 - 00:35:04,470] and then the two guys
+- [00:35:04,470 - 00:35:05,860] over here go into each other
+- [00:35:08,880 - 00:35:09,400] so
+- [00:35:10,700 - 00:35:11,220] uh...
+- [00:35:11,220 - 00:35:13,580] red goes to blue goes to green goes to purple
+- [00:35:14,200 - 00:35:15,620] that's the upper cycle here
+- [00:35:15,939 - 00:35:17,640] and the lower cycle is uh...
+- [00:35:17,640 - 00:35:19,940] yellow goes to orange goes to yellow goes to orange
+- [00:35:20,620 - 00:35:22,160] still we have a
+- [00:35:23,640 - 00:35:24,160] uh...
+- [00:35:24,160 - 00:35:25,440] conservation law here
+- [00:35:25,440 - 00:35:27,580] it's just the number of states
+- [00:35:27,580 - 00:35:29,720] with one value of the conserved quantity
+- [00:35:29,720 - 00:35:29,890] it's just the number of states
+- [00:35:29,890 - 00:35:30,060] with one value of the conserved quantity
+- [00:35:30,060 - 00:35:31,530] is not the same as
+- [00:35:31,530 - 00:35:33,000] the numbers of the other values
+- [00:35:33,000 - 00:35:34,440] but still its a conservation law
+- [00:35:34,440 - 00:35:35,520] and again
+- [00:35:36,240 - 00:35:38,340] somebody would have to supply for you
+- [00:35:39,580 - 00:35:43,300] some idea of the relative probabilities of these two
+- [00:35:43,300 - 00:35:44,740] where that comes from
+- [00:35:45,900 - 00:35:48,240] is part of the study of statistical mechanics
+- [00:35:48,880 - 00:35:50,360] and on the other part of the study
+- [00:35:51,640 - 00:35:53,060] has to do that saying if
+- [00:35:53,060 - 00:35:54,480] i know i one of the tracks
+- [00:35:54,480 - 00:35:55,420] stretch
+- [00:35:55,420 - 00:36:00,480] How much time do I spend with each particular configuration?
+- [00:36:01,440 - 00:36:03,040] That's what determines
+- [00:36:03,040 - 00:36:04,640] probabilities of statistical mechanics
+- [00:36:05,679 - 00:36:07,240] some a
+- [00:36:07,240 - 00:36:10,580] priority probability from somewheres that tells you the that
+- [00:36:10,580 - 00:36:13,920] tells you the probabilities for different conserved quantities and
+- [00:36:16,259 - 00:36:19,780] Cycling through the system yeah question no no,
+- [00:36:19,780 - 00:36:20,060] okay
+- [00:36:22,760 - 00:36:26,030] So far assuming that within any conservation arena you
+- [00:36:26,030 - 00:36:29,300] will the problem is all the states the same
+- [00:36:29,960 - 00:36:32,260] The time spent in each state is
+- [00:36:32,260 - 00:36:34,560] the same right so it's called this.
+- [00:36:34,560 - 00:36:36,260] It's completely deterministic
+- [00:36:37,760 - 00:36:39,580] Laws are completely deterministic.
+- [00:36:39,580 - 00:36:41,060] This would be classical physics
+- [00:36:41,620 - 00:36:43,940] Laws completely deterministic no real
+- [00:36:43,940 - 00:36:46,260] ambiguity of what the state is
+- [00:36:46,819 - 00:36:49,860] Except you're kind of lazy you didn't determine the initial
+- [00:36:50,060 - 00:36:51,720] condition your
+- [00:36:51,720 - 00:36:55,360] Your timing wasn't very good
+- [00:36:56,000 - 00:36:58,380] Each state only lasts for a microsecond
+- [00:36:58,900 - 00:37:01,970] You're a lazy guy and you and
+- [00:37:01,970 - 00:37:05,040] you only have a resolution of a millisecond
+- [00:37:05,940 - 00:37:08,630] but but you're a nevertheless you're able
+- [00:37:08,630 - 00:37:11,320] to take a very quick flash picture and
+- [00:37:12,260 - 00:37:14,100] And pick out one of the states.
+- [00:37:14,100 - 00:37:17,100] That's that's the circumstance that we're talking about
+- [00:37:18,120 - 00:37:18,800] Yeah
+- [00:37:18,800 - 00:37:22,410] If we take two pictures is it reasonable to then assume
+- [00:37:22,410 - 00:37:26,020] that if the first picture indicated that we are in one cycle
+- [00:37:26,020 - 00:37:28,280] The latter one should indicate the same cycle
+- [00:37:28,280 - 00:37:30,540] since it's going to get out of it.
+- [00:37:30,540 - 00:37:30,900] Yes.
+- [00:37:30,900 - 00:37:31,780] That's a good assumption
+- [00:37:33,300 - 00:37:33,820] Yes
+- [00:37:34,480 - 00:37:35,000] Right.
+- [00:37:35,000 - 00:37:37,200] So once you determine the
+- [00:37:37,200 - 00:37:39,400] value of some conserved quantities,
+- [00:37:39,400 - 00:37:41,450] then you know it and then
+- [00:37:41,450 - 00:37:43,500] you can reset the probabilities for it
+- [00:37:44,540 - 00:37:45,060] Okay
+- [00:37:47,260 - 00:37:48,480] Unless all right
+- [00:37:48,480 - 00:37:50,210] So let's so let's talk about let's
+- [00:37:50,210 - 00:37:51,940] talk about honest energy for a minute
+- [00:37:52,940 - 00:37:53,500] Yes,
+- [00:37:53,500 - 00:37:55,160] if we have a closed system
+- [00:37:59,500 - 00:38:01,600] To represent the closed system,
+- [00:38:01,600 - 00:38:02,740] I will just draw a box
+- [00:38:03,760 - 00:38:06,860] Closed now closed means that it's
+- [00:38:06,860 - 00:38:09,960] not in interaction with anything else and
+- [00:38:09,960 - 00:38:11,390] Therefore can be thought of
+- [00:38:11,390 - 00:38:12,820] as a whole universe unto itself
+- [00:38:13,780 - 00:38:14,340] Okay,
+- [00:38:14,340 - 00:38:15,620] it has an energy
+- [00:38:15,620 - 00:38:18,460] the energy is some function of the state
+- [00:38:18,480 - 00:38:20,360] Of the system whatever determines
+- [00:38:20,360 - 00:38:22,240] the state of the system now,
+- [00:38:22,240 - 00:38:24,260] let's suppose we have another closed system,
+- [00:38:24,260 - 00:38:25,620] which is built out of two
+- [00:38:29,660 - 00:38:32,730] Identical or not the identical versions of the
+- [00:38:32,730 - 00:38:35,800] same thing now if they're both closed systems
+- [00:38:35,800 - 00:38:39,710] There will be two conserved quantities the energy of this system
+- [00:38:39,710 - 00:38:43,620] and the energy of the system and they'll both be separately conserved
+- [00:38:43,620 - 00:38:45,420] Why because they don't talk to each other?
+- [00:38:45,760 - 00:38:47,520] They don't interact with each other
+- [00:38:47,520 - 00:38:49,560] the two energies are conserved and
+- [00:38:50,120 - 00:38:54,180] You could have probabilities for each of those individuals,
+- [00:38:54,180 - 00:38:56,400] but now supposing they're connected
+- [00:38:57,760 - 00:38:59,890] They're connected by a little tiny tube
+- [00:38:59,890 - 00:39:02,020] which allows energy to flow back and forth
+- [00:39:02,020 - 00:39:05,200] Then there's only one conserved quantity the total energy and it's
+- [00:39:05,200 - 00:39:08,380] sort of split between the two of them and you can ask
+- [00:39:09,060 - 00:39:11,040] What's you can then ask?
+- [00:39:12,520 - 00:39:13,900] What is the probability?
+- [00:39:15,660 - 00:39:18,060] Given a total amount of energy
+- [00:39:18,660 - 00:39:22,090] You could ask what's the probability that the energy of
+- [00:39:22,090 - 00:39:25,520] one subsystem is one thing and the energy of the other?
+- [00:39:25,600 - 00:39:28,400] Subsystem is the other if the two boxes are equal,
+- [00:39:28,400 - 00:39:29,160] you would expect
+- [00:39:29,160 - 00:39:32,780] you would expect on the average they have equal energy,
+- [00:39:32,780 - 00:39:35,210] but you can still ask what's the what's
+- [00:39:35,210 - 00:39:37,640] the probability for a given energy in this
+- [00:39:37,640 - 00:39:37,940] box
+- [00:39:37,940 - 00:39:39,060] given
+- [00:39:40,160 - 00:39:40,760] some
+- [00:39:40,760 - 00:39:42,640] overall piece of information
+- [00:39:42,640 - 00:39:43,260] So what's the probability that one
+- [00:39:43,260 - 00:39:43,880] system has two boxes in one place?
+- [00:39:43,880 - 00:39:47,800] So that's a circumstance where it may be
+- [00:39:47,800 - 00:39:51,720] that giving the probability for which cycle you're
+- [00:39:51,720 - 00:39:52,040] on,
+- [00:39:52,040 - 00:39:53,200] now which cycle you're on,
+- [00:39:53,200 - 00:39:54,630] I'm talking about the cycle
+- [00:39:54,630 - 00:39:56,060] of one of these systems here,
+- [00:39:56,680 - 00:39:59,340] may be determined by thinking about the
+- [00:39:59,340 - 00:40:02,000] system as part of a bigger system.
+- [00:40:02,240 - 00:40:03,120] And we're going to do that.
+- [00:40:03,300 - 00:40:03,780] That's important.
+- [00:40:05,140 - 00:40:06,720] But in general,
+- [00:40:06,720 - 00:40:09,740] you need some other ingredient besides
+- [00:40:09,740 - 00:40:12,760] just cycling around through the system
+- [00:40:12,760 - 00:40:14,350] here to tell you the
+- [00:40:14,350 - 00:40:15,940] relative probabilities of conserved quantities.
+- [00:40:18,260 - 00:40:18,780] OK.
+- [00:40:19,680 - 00:40:22,360] So we're off and flying with statistical mechanics.
+- [00:40:23,240 - 00:40:24,400] There are bad laws.
+- [00:40:25,580 - 00:40:26,720] By bad laws,
+- [00:40:26,720 - 00:40:27,600] I don't,
+- [00:40:27,600 - 00:40:30,070] not in the sense of DOMA
+- [00:40:30,070 - 00:40:32,540] or any of those kind of laws,
+- [00:40:32,880 - 00:40:36,610] but in the sense that the
+- [00:40:36,610 - 00:40:40,340] rules of physics don't allow them.
+- [00:40:40,560 - 00:40:41,360] And you all know what they are.
+- [00:40:41,720 - 00:40:42,500] They're laws.
+- [00:40:42,500 - 00:40:44,900] They're laws that violate the conservation of information,
+- [00:40:44,900 - 00:40:49,680] the most primitive and basic
+- [00:40:49,680 - 00:40:51,200] rule of physics,
+- [00:40:51,200 - 00:40:53,520] the conservation of information.
+- [00:40:53,940 - 00:40:56,330] Conservation of information is not
+- [00:40:56,330 - 00:40:58,720] a standard conservation law like this.
+- [00:40:58,880 - 00:41:03,060] It's the rule that you can keep track.
+- [00:41:03,540 - 00:41:06,680] You can keep track both going forward and backward.
+- [00:41:06,920 - 00:41:08,760] So let's just mention that again.
+- [00:41:08,960 - 00:41:09,860] It's all worked.
+- [00:41:10,000 - 00:41:12,480] It's all described in the classical mechanics.
+- [00:41:12,480 - 00:41:12,980] It's all written in the classical mechanics book.
+- [00:41:13,320 - 00:41:14,740] I'm just reviewing it now.
+- [00:41:15,400 - 00:41:16,960] But let's take a bad law.
+- [00:41:18,720 - 00:41:19,960] It's a possible law.
+- [00:41:21,220 - 00:41:22,180] By bad,
+- [00:41:22,180 - 00:41:25,360] I mean 1,
+- [00:41:25,360 - 00:41:25,760] 2,
+- [00:41:25,760 - 00:41:26,060] 3,
+- [00:41:26,060 - 00:41:26,420] 4,
+- [00:41:26,420 - 00:41:27,740] 1,
+- [00:41:27,740 - 00:41:28,120] 2,
+- [00:41:28,120 - 00:41:28,360] 3,
+- [00:41:28,360 - 00:41:28,680] 4,
+- [00:41:28,680 - 00:41:29,040] 5,
+- [00:41:29,040 - 00:41:29,720] 6.
+- [00:41:30,080 - 00:41:32,040] So these are the faces of a die again.
+- [00:41:32,320 - 00:41:34,880] But the rule is wherever you are,
+- [00:41:34,880 - 00:41:36,220] this is red,
+- [00:41:36,220 - 00:41:37,880] wherever you are,
+- [00:41:37,880 - 00:41:38,740] you go to red.
+- [00:41:43,580 - 00:41:44,720] Even if you are red,
+- [00:41:44,720 - 00:41:45,940] you go to red.
+- [00:41:49,340 - 00:41:51,680] We'll discuss in a moment what's wrong with this law.
+- [00:41:52,260 - 00:41:55,010] But this law has one of the
+- [00:41:55,010 - 00:41:57,760] features that it has is it's not reversible.
+- [00:41:58,200 - 00:42:01,820] It's not reversible in the sense that
+- [00:42:01,820 - 00:42:05,440] you can go from blue to red,
+- [00:42:05,440 - 00:42:06,800] but you cannot go
+- [00:42:06,800 - 00:42:07,980] from red back to blue.
+- [00:42:08,580 - 00:42:09,520] So in that sense,
+- [00:42:09,520 - 00:42:10,380] it's not reversible.
+- [00:42:11,980 - 00:42:12,220] And it's not reversible in the sense
+- [00:42:12,220 - 00:42:12,460] that you can go from blue to red,
+- [00:42:12,460 - 00:42:12,460] but you cannot
+- [00:42:12,460 - 00:42:12,620] go from red back to blue.
+- [00:42:12,620 - 00:42:14,920] You can predict the future wherever you are.
+- [00:42:15,100 - 00:42:17,540] The future is very simple for this particular law.
+- [00:42:17,840 - 00:42:18,760] Wherever you are,
+- [00:42:18,760 - 00:42:19,700] you'll next be at red.
+- [00:42:20,500 - 00:42:21,900] You can make it more complicated.
+- [00:42:22,400 - 00:42:23,820] You could make a few,
+- [00:42:23,820 - 00:42:25,300] you can make it more complicated.
+- [00:42:25,560 - 00:42:28,560] But this law always winds up with red.
+- [00:42:31,120 - 00:42:33,370] It's a bad law because it
+- [00:42:33,370 - 00:42:35,620] loses track of where you started.
+- [00:42:36,300 - 00:42:38,900] Whereas these laws don't lose track.
+- [00:42:39,080 - 00:42:41,879] If you know that you've gone through 56,000 years.
+- [00:42:42,960 - 00:42:44,460] 56 and a half cycles.
+- [00:42:45,920 - 00:42:48,020] Then you know that if you started at red,
+- [00:42:48,020 - 00:42:49,740] you'll come back and you can tell exactly
+- [00:42:49,740 - 00:42:50,360] where you'll be.
+- [00:42:50,780 - 00:42:53,000] And you can also tell where you came from.
+- [00:42:53,480 - 00:42:55,140] You can tell not only where you'll
+- [00:42:55,140 - 00:42:56,800] be but exactly where you came from.
+- [00:42:56,960 - 00:42:58,840] With this law you can't say where you came from.
+- [00:42:59,440 - 00:43:01,560] This is a law that loses information,
+- [00:43:01,560 - 00:43:04,580] and it's exactly the kind of thing that classical
+- [00:43:04,580 - 00:43:05,740] physics does not allow.
+- [00:43:05,820 - 00:43:07,750] Quantum physics also doesn't allow
+- [00:43:07,750 - 00:43:09,680] the quantum mechanical version of it.
+- [00:43:11,360 - 00:43:11,800] So.
+- [00:43:11,800 - 00:43:14,800] So the rule that this type of rule,
+- [00:43:14,800 - 00:43:16,880] that this type of law is unallowed,
+- [00:43:16,880 - 00:43:18,120] I give a name to
+- [00:43:18,120 - 00:43:19,980] it as I've said many times.
+- [00:43:20,540 - 00:43:22,650] There is no name for it because
+- [00:43:22,650 - 00:43:24,760] it's just so basically primitive that everybody always
+- [00:43:24,760 - 00:43:25,720] forgets about it.
+- [00:43:26,400 - 00:43:27,400] It's so basic.
+- [00:43:28,100 - 00:43:30,860] I call it the minus first law of physics.
+- [00:43:31,940 - 00:43:33,940] And I wish it would catch on.
+- [00:43:34,040 - 00:43:35,240] People should start using it.
+- [00:43:35,360 - 00:43:35,580] I mean,
+- [00:43:35,580 - 00:43:38,140] it is really the most basic law
+- [00:43:38,140 - 00:43:40,700] of physics that information is never lost,
+- [00:43:40,700 - 00:43:41,120] that
+- [00:43:41,120 - 00:43:43,370] distinctions or differences between
+- [00:43:43,370 - 00:43:45,620] states propagate with time,
+- [00:43:45,620 - 00:43:48,360] and you never lose track
+- [00:43:48,859 - 00:43:50,719] in principle if you have
+- [00:43:50,719 - 00:43:52,580] the capacity to follow the system.
+- [00:43:54,220 - 00:43:56,940] Because you may be too lazy to follow the system.
+- [00:43:57,060 - 00:43:57,780] That's your problem.
+- [00:43:58,060 - 00:43:59,940] But nature doesn't have that problem.
+- [00:44:00,340 - 00:44:03,420] Nature allows in principle that you
+- [00:44:03,420 - 00:44:06,500] can reconstruct where you came from.
+- [00:44:07,420 - 00:44:08,100] Alright,
+- [00:44:08,100 - 00:44:10,160] so that's a bad law.
+- [00:44:10,160 - 00:44:11,550] How do you tell the
+- [00:44:11,550 - 00:44:12,940] good laws from the bad laws?
+- [00:44:13,180 - 00:44:15,060] Just by diagrammatics here,
+- [00:44:15,060 - 00:44:15,820] it's very simple.
+- [00:44:16,260 - 00:44:17,180] Good laws,
+- [00:44:17,180 - 00:44:22,560] every state has one incoming arrow and one outgoing arrow.
+- [00:44:22,800 - 00:44:24,690] An arrow to tell you where you came from
+- [00:44:24,690 - 00:44:26,580] and an arrow to tell you where you're going.
+- [00:44:27,500 - 00:44:28,020] Okay,
+- [00:44:28,020 - 00:44:28,680] so that's,
+- [00:44:28,680 - 00:44:32,040] those are good laws.
+- [00:44:32,460 - 00:44:33,940] In classical mechanics,
+- [00:44:33,940 - 00:44:35,840] continuum classical mechanics,
+- [00:44:35,840 - 00:44:38,920] there is a version of this same
+- [00:44:38,920 - 00:44:39,520] law.
+- [00:44:40,300 - 00:44:42,220] Anybody know the name of that version?
+- [00:44:42,520 - 00:44:43,260] Of that,
+- [00:44:43,260 - 00:44:45,170] of the theorem that goes
+- [00:44:45,170 - 00:44:47,080] with the conservation of information?
+- [00:44:50,820 - 00:44:52,480] It's called Leoville's theorem.
+- [00:44:52,820 - 00:44:54,800] We've studied it in classical mechanics,
+- [00:44:54,800 - 00:44:59,180] but let me give you a counter example to Leoville's
+- [00:44:59,180 - 00:45:00,280] theorem.
+- [00:45:05,500 - 00:45:07,720] Friction is an apparent contradiction.
+- [00:45:09,520 - 00:45:10,560] Wherever you start,
+- [00:45:10,560 - 00:45:11,340] you come to rest.
+- [00:45:11,920 - 00:45:13,940] It's sort of like saying wherever you start,
+- [00:45:13,940 - 00:45:14,700] you come to red.
+- [00:45:15,720 - 00:45:16,700] Wherever you start,
+- [00:45:16,700 - 00:45:17,460] you come to rest.
+- [00:45:17,640 - 00:45:17,760] Well,
+- [00:45:17,760 - 00:45:19,240] you may not know exactly where you are,
+- [00:45:19,240 - 00:45:20,600] but you always come to rest.
+- [00:45:20,980 - 00:45:24,830] That seems like a violation of the laws
+- [00:45:24,830 - 00:45:28,680] that tell you that distinctions have to be preserved.
+- [00:45:29,120 - 00:45:29,880] But of course,
+- [00:45:29,880 - 00:45:30,580] it's not really true.
+- [00:45:30,960 - 00:45:32,990] What's really going on is that
+- [00:45:32,990 - 00:45:35,020] when you run the eraser through here,
+- [00:45:35,020 - 00:45:37,580] it's heating up the
+- [00:45:37,580 - 00:45:38,680] surface here.
+- [00:45:38,680 - 00:45:41,120] And if you could keep track of every molecule,
+- [00:45:41,120 - 00:45:44,220] you would find out that the distinctions between
+- [00:45:44,220 - 00:45:45,860] starting points is recorded.
+- [00:45:46,340 - 00:45:48,760] But let's imagine now that there
+- [00:45:48,760 - 00:45:51,180] was a fundamental law of physics.
+- [00:45:51,600 - 00:45:52,840] By a fundamental law,
+- [00:45:52,840 - 00:45:53,380] I mean,
+- [00:45:53,380 - 00:45:53,680] you know,
+- [00:45:53,680 - 00:45:58,500] a rock bottom fundamental law for a series of
+- [00:45:58,500 - 00:45:58,860] particles,
+- [00:45:58,860 - 00:46:00,160] for a collection of particles.
+- [00:46:00,480 - 00:46:03,800] And the equations of motion for the particles were this.
+- [00:46:04,960 - 00:46:06,560] D second x.
+- [00:46:06,840 - 00:46:08,420] That's the position of the particles.
+- [00:46:08,680 - 00:46:11,960] The way they shoot the fan they leave aactualized space.
+- [00:46:11,960 - 00:46:12,220] Because you have to let go of the particles.
+- [00:46:12,220 - 00:46:12,900] What occurs in this bowl is called육 direction.
+- [00:46:14,920 - 00:46:17,980] Butبamass is played by fentdisformations.
+- [00:46:17,980 - 00:46:19,540] So you have got several states.
+- [00:46:24,460 - 00:46:25,030] Maybe you don't know the Lovelye's Labor
+- [00:46:25,030 - 00:46:25,600] Law which is the paramorphism setup that marriageанием
+- [00:46:25,600 - 00:46:25,600] is fully white.
+- [00:46:25,600 - 00:46:26,080] You
+- [00:46:26,080 - 00:46:28,320] put some little Left
+- [00:46:31,620 - 00:46:35,140] over are investors so that you could
+- [00:46:35,140 - 00:46:38,660] show where or what is going on.
+- [00:46:38,660 - 00:46:38,980] Gamma,
+- [00:46:38,980 - 00:46:41,660] we've seen that number before in another context,
+- [00:46:41,660 - 00:46:44,160] times dxn by dt.
+- [00:46:45,299 - 00:46:48,100] Anybody remember what this formula represents?
+- [00:46:49,520 - 00:46:50,200] Friction.
+- [00:46:51,660 - 00:46:52,560] Viscous drag.
+- [00:46:53,060 - 00:46:53,740] Again,
+- [00:46:53,740 - 00:46:57,080] it has the property that if
+- [00:46:57,080 - 00:47:00,420] you start with a moving particle,
+- [00:47:00,620 - 00:47:03,300] it will very quickly come almost to rest.
+- [00:47:03,520 - 00:47:07,200] It will exponentially come to rest pretty quickly.
+- [00:47:08,800 - 00:47:12,700] And so if all particles in a gas,
+- [00:47:12,700 - 00:47:13,300] for example,
+- [00:47:13,300 - 00:47:14,920] satisfied this law of physics,
+- [00:47:15,080 - 00:47:16,880] it's perfectly deterministic.
+- [00:47:17,060 - 00:47:18,980] It tells you what happens next.
+- [00:47:21,720 - 00:47:24,800] But it has the unfortunate consequence
+- [00:47:24,800 - 00:47:27,880] that every particle just comes to rest.
+- [00:47:31,780 - 00:47:33,020] That sounds odd.
+- [00:47:33,300 - 00:47:34,720] It sounds like no matter
+- [00:47:34,720 - 00:47:36,140] what temperature you start the room,
+- [00:47:36,480 - 00:47:38,480] it will quickly come to zero temperature.
+- [00:47:39,140 - 00:47:40,340] That doesn't happen.
+- [00:47:40,900 - 00:47:44,000] This is a perfectly good differential equation,
+- [00:47:44,440 - 00:47:46,480] but there's something wrong with it from
+- [00:47:46,480 - 00:47:48,520] the point of view of conservation of energy.
+- [00:47:48,820 - 00:47:50,300] There's something wrong with it from
+- [00:47:50,300 - 00:47:51,780] the point of view of thermodynamics.
+- [00:47:52,220 - 00:47:53,880] If you start a closed
+- [00:47:53,880 - 00:47:55,540] system and you start it running,
+- [00:47:55,780 - 00:47:57,920] you start with a lot of kinetic energy,
+- [00:47:57,920 - 00:48:00,100] temperature we usually call it.
+- [00:48:00,180 - 00:48:02,100] It doesn't run to zero temperature.
+- [00:48:02,620 - 00:48:03,800] That's not what happens.
+- [00:48:04,200 - 00:48:05,180] In fact,
+- [00:48:05,920 - 00:48:06,440] um,
+- [00:48:06,740 - 00:48:06,880] um,
+- [00:48:06,880 - 00:48:06,960] um,
+- [00:48:08,120 - 00:48:08,640] um,
+- [00:48:08,660 - 00:48:10,760] this is not only a violation of energy conservation.
+- [00:48:11,160 - 00:48:12,720] It looks like a violation
+- [00:48:12,720 - 00:48:14,280] of the second law of thermodynamics.
+- [00:48:14,600 - 00:48:16,280] It says things get simpler.
+- [00:48:17,020 - 00:48:19,240] You start with a random bunch
+- [00:48:19,240 - 00:48:21,460] of particles moving in random directions,
+- [00:48:22,240 - 00:48:23,460] and you let it run,
+- [00:48:23,460 - 00:48:25,140] and they all come to rest.
+- [00:48:26,299 - 00:48:30,069] What you end up with is simpler and requires
+- [00:48:30,069 - 00:48:33,840] less information to describe than what you started with.
+- [00:48:34,080 - 00:48:35,140] That's very,
+- [00:48:35,140 - 00:48:36,940] very much like,
+- [00:48:37,020 - 00:48:37,480] um,
+- [00:48:38,660 - 00:48:40,040] everything going to red
+- [00:48:41,880 - 00:48:43,740] And among other things it
+- [00:48:43,740 - 00:48:45,600] violates the second law of thermodynamics
+- [00:48:45,600 - 00:48:47,870] Which generally says things get worse
+- [00:48:47,870 - 00:48:50,140] things get more complicated not less complicated
+- [00:48:51,260 - 00:48:51,860] okay,
+- [00:48:51,860 - 00:48:52,260] so
+- [00:48:53,460 - 00:48:54,060] that's
+- [00:48:57,780 - 00:49:01,070] Alright now there's another way to say
+- [00:49:01,070 - 00:49:04,360] another important way to say this rule that
+- [00:49:04,360 - 00:49:07,710] Every state has to have one arrow in
+- [00:49:07,710 - 00:49:11,060] and one arrow out the thing that I called
+- [00:49:11,060 - 00:49:12,620] Either the minus first law
+- [00:49:12,620 - 00:49:14,180] or the conservation of information
+- [00:49:15,680 - 00:49:18,800] Supposing we have a collection of
+- [00:49:18,800 - 00:49:21,920] states and we assign to them probabilities
+- [00:49:24,060 - 00:49:26,380] Probabilities P of state 1 P of state
+- [00:49:26,380 - 00:49:28,700] 2 P of state 3 and so forth
+- [00:49:29,240 - 00:49:31,310] For some subset of the states not
+- [00:49:31,310 - 00:49:33,380] all of them some subset of them
+- [00:49:33,860 - 00:49:36,680] All the others we say have probability zero
+- [00:49:38,100 - 00:49:38,580] Okay.
+- [00:49:38,580 - 00:49:40,160] So for example
+- [00:49:41,180 - 00:49:41,660] Um
+- [00:49:42,160 - 00:49:45,030] We could take our dye and assign
+- [00:49:45,030 - 00:49:47,900] red yellow and blue probability a third and
+- [00:49:48,680 - 00:49:50,700] Green orange and pink or whatever.
+- [00:49:50,700 - 00:49:52,220] It was probability zero
+- [00:49:53,040 - 00:49:54,260] where we got that from
+- [00:49:54,260 - 00:49:56,380] doesn't matter we got it from somewhere's
+- [00:49:56,380 - 00:49:58,820] Somebody secretly told us in our ear.
+- [00:49:58,820 - 00:50:00,070] It's either red yellow or blue and
+- [00:50:00,070 - 00:50:01,320] I'm not going to tell you which
+- [00:50:01,860 - 00:50:02,620] All right,
+- [00:50:02,620 - 00:50:04,580] and now you follow the system.
+- [00:50:04,580 - 00:50:06,700] You follow it as it evolves
+- [00:50:07,680 - 00:50:09,770] Whatever kind of law of physics as
+- [00:50:09,770 - 00:50:11,860] long as it's an allowable law of physics
+- [00:50:13,320 - 00:50:16,040] After a while and you're following it in detail
+- [00:50:16,600 - 00:50:19,960] You're not constrained by your laziness in this case.
+- [00:50:19,960 - 00:50:21,960] You are capable of following in detail
+- [00:50:22,620 - 00:50:24,080] Then what is the probability?
+- [00:50:24,080 - 00:50:26,280] What are the probabilities at a later time?
+- [00:50:27,460 - 00:50:28,020] Well,
+- [00:50:28,020 - 00:50:29,910] if you don't know which the laws
+- [00:50:29,910 - 00:50:31,800] of physics are you can't say of course,
+- [00:50:31,800 - 00:50:33,560] but you can say one thing
+- [00:50:33,560 - 00:50:36,100] you can say there are
+- [00:50:36,100 - 00:50:38,640] three states with probability one-third and
+- [00:50:38,640 - 00:50:40,920] three states with probability zero
+- [00:50:42,380 - 00:50:44,940] They may get reshuffled which ones
+- [00:50:44,940 - 00:50:47,500] were probable and which ones were improbable
+- [00:50:48,800 - 00:50:51,280] But after a certain time there will be
+- [00:50:51,280 - 00:50:53,760] those same three not the same three states,
+- [00:50:53,760 - 00:50:54,700] but
+- [00:50:55,560 - 00:50:56,260] There will be three states
+- [00:50:56,280 - 00:50:58,520] And there will continue to be three states
+- [00:50:58,520 - 00:51:02,360] Which have probability and the rest don't
+- [00:51:02,360 - 00:51:06,200] so in general you could characterize these information
+- [00:51:06,200 - 00:51:07,280] conserving
+- [00:51:07,280 - 00:51:08,460] theories
+- [00:51:08,460 - 00:51:10,900] By saying supposing you assign
+- [00:51:11,820 - 00:51:13,800] some subset of the states
+- [00:51:13,800 - 00:51:16,620] Let's say M out of N states.
+- [00:51:16,620 - 00:51:18,580] Let's say there are N states altogether
+- [00:51:21,000 - 00:51:22,760] That's the total number of states
+- [00:51:26,280 - 00:51:27,630] And now we look at some
+- [00:51:27,630 - 00:51:28,980] M where M is less than N
+- [00:51:29,600 - 00:51:32,540] And we say for those M states
+- [00:51:32,540 - 00:51:35,480] the probability for those M states is
+- [00:51:37,380 - 00:51:39,000] 1 over M
+- [00:51:41,400 - 00:51:44,740] For these states and 0 for all the others
+- [00:51:45,280 - 00:51:47,260] You understand why I say 1 over
+- [00:51:47,260 - 00:51:49,240] M if there are M states equally probable
+- [00:51:49,780 - 00:51:52,550] Then each one has probability 1 over
+- [00:51:52,550 - 00:51:55,320] M and all the remaining have probability 0
+- [00:51:57,259 - 00:51:58,020] Then
+- [00:51:58,020 - 00:52:01,000] The number of states which
+- [00:52:01,000 - 00:52:03,980] have nonzero probability will remain constant
+- [00:52:04,580 - 00:52:07,880] And the probabilities will remain equal to 1 over M.
+- [00:52:07,880 - 00:52:09,000] Is that clear is that obvious?
+- [00:52:09,400 - 00:52:10,840] That should be obvious
+- [00:52:12,620 - 00:52:16,050] The states may reshuffle but that that
+- [00:52:16,050 - 00:52:19,480] the number with nonzero probability will remain fixed
+- [00:52:20,839 - 00:52:24,940] That's a characterization a different characterization of
+- [00:52:24,940 - 00:52:26,360] of the
+- [00:52:26,940 - 00:52:28,440] information conserving laws
+- [00:52:29,140 - 00:52:31,800] For the information non conserving laws
+- [00:52:32,399 - 00:52:34,140] Everybody goes to read a read
+- [00:52:34,640 - 00:52:37,100] You may start with a probability distribution.
+- [00:52:37,100 - 00:52:39,910] That's 1 over 5 for red
+- [00:52:39,910 - 00:52:42,720] green purple orange and yellow and
+- [00:52:43,920 - 00:52:44,900] Then a little bit later.
+- [00:52:44,900 - 00:52:47,390] There's only one state that has
+- [00:52:47,390 - 00:52:49,880] a probability and that's and that's red
+- [00:52:50,940 - 00:52:51,620] okay,
+- [00:52:51,620 - 00:52:53,620] so that's that's
+- [00:52:54,700 - 00:52:57,020] This is another way to describe probably
+- [00:52:57,020 - 00:53:02,480] This is another way to describe probably
+- [00:53:02,480 - 00:53:02,980] information conservation
+- [00:53:03,620 - 00:53:06,500] And we can quantify that
+- [00:53:06,500 - 00:53:11,430] We can quantify that by saying let M be the number of states
+- [00:53:11,430 - 00:53:16,360] which all have equal under the assumption that they all have equal probability
+- [00:53:16,360 - 00:53:18,680] Let M be the number.
+- [00:53:18,680 - 00:53:20,620] Let's give it a name occupied states
+- [00:53:20,620 - 00:53:23,200] States which have nonzero probability
+- [00:53:23,200 - 00:53:23,600] states which have nonzero probability
+- [00:53:23,600 - 00:53:24,920] with equal probability
+- [00:53:26,440 - 00:53:27,080] and
+- [00:53:27,080 - 00:53:28,060] then M
+- [00:53:28,740 - 00:53:30,640] What is M characterizing?
+- [00:53:31,560 - 00:53:34,190] M is characterizing your ignorance the bigger
+- [00:53:34,190 - 00:53:36,820] M is if M is equal to N
+- [00:53:37,600 - 00:53:39,640] That means equal probability for everything
+- [00:53:41,000 - 00:53:42,200] maximal ignorance
+- [00:53:43,520 - 00:53:46,820] If M is equal to 1 half n that
+- [00:53:46,820 - 00:53:50,120] means you know that the system is in one
+- [00:53:50,120 - 00:53:52,420] out of half the states
+- [00:53:52,420 - 00:53:54,200] You're still pretty ignorant,
+- [00:53:54,200 - 00:53:55,260] but you're not that ignorant.
+- [00:53:55,260 - 00:53:56,060] You're less ignorant.
+- [00:53:56,060 - 00:53:57,740] What's the maximal?
+- [00:53:57,740 - 00:54:00,240] What's the minimum amount of ignorance you can have?
+- [00:54:02,900 - 00:54:05,150] That you know precisely what state it's
+- [00:54:05,150 - 00:54:07,400] in in which case M is what?
+- [00:54:09,040 - 00:54:11,480] There was one you know
+- [00:54:11,480 - 00:54:13,920] that it's in one particular state
+- [00:54:14,740 - 00:54:15,260] Okay
+- [00:54:16,280 - 00:54:16,800] Alright,
+- [00:54:16,800 - 00:54:19,180] so M is a measure of your ignorance
+- [00:54:20,660 - 00:54:22,120] really M and
+- [00:54:22,120 - 00:54:25,440] Relation to N is a measure of your ignorance and
+- [00:54:26,740 - 00:54:30,830] Associated with it is a concept is the concept of entropy now we
+- [00:54:30,830 - 00:54:34,920] come to the concept of entropy notice entropy is coming before anything else
+- [00:54:35,640 - 00:54:37,260] Entropy is coming before temperature.
+- [00:54:37,260 - 00:54:38,820] It's even coming before energy
+- [00:54:40,080 - 00:54:41,970] Entropy is more fundamental in a
+- [00:54:41,970 - 00:54:43,860] certain sense than any of them
+- [00:54:44,640 - 00:54:46,020] although in a certain sense,
+- [00:54:46,020 - 00:54:46,440] it's a
+- [00:54:46,440 - 00:54:47,780] we'll discuss
+- [00:54:49,200 - 00:54:50,200] entropy in a minute,
+- [00:54:50,200 - 00:54:51,000] but
+- [00:54:57,460 - 00:54:59,760] Go to point one
+- [00:54:59,760 - 00:54:59,940] in regard to entropy
+- [00:54:59,940 - 00:55:18,080] Consider that because entropy is called an element of Shane
+- [00:55:18,080 - 00:55:20,360] states which are occupied reshuffle,
+- [00:55:20,360 - 00:55:23,500] but there will always be m of them with
+- [00:55:23,500 - 00:55:24,760] probability 1 over m.
+- [00:55:24,760 - 00:55:25,600] Okay,
+- [00:55:25,600 - 00:55:27,040] so that's where we are,
+- [00:55:27,040 - 00:55:28,620] and that's the
+- [00:55:28,620 - 00:55:30,990] conservation of entropy if we
+- [00:55:30,990 - 00:55:33,360] can follow the system in detail.
+- [00:55:33,360 - 00:55:34,980] Now,
+- [00:55:34,980 - 00:55:37,060] of course,
+- [00:55:37,060 - 00:55:37,280] in
+- [00:55:37,280 - 00:55:37,800] reality,
+- [00:55:37,800 - 00:55:40,520] we may be again lazy,
+- [00:55:40,520 - 00:55:42,420] lose track of the system,
+- [00:55:42,420 - 00:55:45,500] and we might have,
+- [00:55:45,500 - 00:55:46,400] after a
+- [00:55:46,400 - 00:55:46,700] point,
+- [00:55:46,700 - 00:55:48,860] lost track of the equations,
+- [00:55:48,860 - 00:55:54,380] and lost track of our timing device,
+- [00:55:54,380 - 00:55:55,420] and so
+- [00:55:55,420 - 00:55:56,260] forth and so on,
+- [00:55:56,260 - 00:55:57,760] and we may wind up,
+- [00:55:57,760 - 00:55:59,240] we may have started with some,
+- [00:55:59,240 - 00:56:00,120] a lot of
+- [00:56:00,120 - 00:56:00,440] knowledge,
+- [00:56:00,440 - 00:56:02,800] and wound up with very little knowledge.
+- [00:56:02,800 - 00:56:03,920] That's because,
+- [00:56:03,920 - 00:56:04,640] again,
+- [00:56:04,640 - 00:56:05,220] not
+- [00:56:05,220 - 00:56:11,460] because the equations cause information to be lost,
+- [00:56:11,460 - 00:56:13,620] but because we just weren't
+- [00:56:13,620 - 00:56:13,940] careful.
+- [00:56:13,940 - 00:56:16,380] Perhaps we can't be careful,
+- [00:56:16,380 - 00:56:17,770] perhaps there are too many degrees
+- [00:56:17,770 - 00:56:19,160] of freedom to keep track of.
+- [00:56:19,160 - 00:56:20,600] So when that
+- [00:56:20,600 - 00:56:21,040] happens,
+- [00:56:21,040 - 00:56:23,660] the entropy increases,
+- [00:56:23,660 - 00:56:26,960] but it simply increases because our ignorance
+- [00:56:26,960 - 00:56:27,820] has gone up,
+- [00:56:27,820 - 00:56:30,070] not because anything has really
+- [00:56:30,070 - 00:56:32,320] happened in the system which has,
+- [00:56:32,580 - 00:56:35,080] if we could follow it,
+- [00:56:35,080 - 00:56:37,200] we would find that the entropy is conserved.
+- [00:56:37,200 - 00:56:42,880] Okay,
+- [00:56:42,880 - 00:56:43,320] that's
+- [00:56:43,320 - 00:56:46,320] that's the concept of entropy in a nutshell.
+- [00:56:46,880 - 00:56:48,600] We're going to expand on it,
+- [00:56:48,600 - 00:56:49,700] we're going to expand on it a lot,
+- [00:56:49,700 - 00:56:50,900] we're going to redefine
+- [00:56:50,900 - 00:56:52,240] it with a more careful definition.
+- [00:56:52,240 - 00:56:55,900] But what does it measure?
+- [00:56:55,900 - 00:56:57,700] It measures approximately
+- [00:56:57,700 - 00:57:01,160] the number of states that have a non-zero probability.
+- [00:57:01,160 - 00:57:02,600] Okay.
+- [00:57:02,600 - 00:57:04,240] The bigger it is,
+- [00:57:04,240 - 00:57:04,520] the less
+- [00:57:04,520 - 00:57:04,820] you know.
+- [00:57:04,820 - 00:57:08,140] What's the maximum value of S?
+- [00:57:14,160 - 00:57:16,200] So it's log S?
+- [00:57:16,240 - 00:57:16,360] Yes.
+- [00:57:16,380 - 00:57:16,800] Log N?
+- [00:57:16,900 - 00:57:17,340] Yes.
+- [00:57:17,640 - 00:57:18,280] Log N.
+- [00:57:18,280 - 00:57:20,320] Now of course,
+- [00:57:20,320 - 00:57:21,160] N could be infinite.
+- [00:57:21,160 - 00:57:23,060] You might have an infinite number of states,
+- [00:57:23,940 - 00:57:25,240] and if you do,
+- [00:57:25,240 - 00:57:27,130] then there's no upper bound to
+- [00:57:27,130 - 00:57:29,020] the amount of ignorance you can have.
+- [00:57:31,240 - 00:57:31,960] But you know,
+- [00:57:31,960 - 00:57:33,220] in a world with only N states,
+- [00:57:33,220 - 00:57:34,460] your ignorance is bounded.
+- [00:57:34,460 - 00:57:38,160] So the notion of
+- [00:57:38,160 - 00:57:39,940] maximum entropy is a measure of
+- [00:57:39,940 - 00:57:41,720] how many states there are altogether.
+- [00:57:41,720 - 00:57:44,420] Now I said that entropy
+- [00:57:44,420 - 00:57:45,500] is deep and fundamental.
+- [00:57:46,380 - 00:57:46,440] It is.
+- [00:57:46,720 - 00:57:52,380] But there's also an aspect to it which makes it,
+- [00:57:52,380 - 00:57:53,140] in a certain sense,
+- [00:57:53,140 - 00:57:53,820] less fundamental.
+- [00:57:54,520 - 00:57:57,560] It's not just a property of a system.
+- [00:57:57,560 - 00:57:59,660] It's a property of a
+- [00:57:59,660 - 00:58:01,760] system and your state of knowledge
+- [00:58:01,760 - 00:58:02,540] of the system.
+- [00:58:02,540 - 00:58:04,620] It depends on two things.
+- [00:58:04,620 - 00:58:06,960] It depends on characteristics of the system,
+- [00:58:07,840 - 00:58:10,200] and it also depends on your
+- [00:58:10,200 - 00:58:12,560] state of knowledge of the system,
+- [00:58:12,560 - 00:58:13,620] or the state of knowledge of
+- [00:58:13,620 - 00:58:14,120] the system.
+- [00:58:15,940 - 00:58:18,580] So keep that in mind.
+- [00:58:19,920 - 00:58:22,940] Now let's talk about continuous mechanics,
+- [00:58:22,940 - 00:58:25,560] mechanics of particles moving around with
+- [00:58:25,560 - 00:58:27,160] continuous positions,
+- [00:58:27,160 - 00:58:29,540] continuous velocities.
+- [00:58:29,540 - 00:58:31,580] How do we describe that?
+- [00:58:31,580 - 00:58:34,400] How do we describe
+- [00:58:34,400 - 00:58:38,060] the space of states of a mechanical system,
+- [00:58:38,060 - 00:58:39,120] you know,
+- [00:58:39,120 - 00:58:40,200] a real mechanical system,
+- [00:58:40,200 - 00:58:40,760] particles,
+- [00:58:41,020 - 00:58:42,340] and so forth?
+- [00:58:42,500 - 00:58:44,100] We describe it as points.
+- [00:58:44,100 - 00:58:45,180] Points in phase space.
+- [00:58:45,180 - 00:58:47,000] We learned about phase space.
+- [00:58:47,000 - 00:58:50,320] Phase space consists of positions and
+- [00:58:50,320 - 00:58:51,000] momenta.
+- [00:58:51,000 - 00:58:52,620] Momenta,
+- [00:58:52,620 - 00:58:54,320] in simple context,
+- [00:58:54,320 - 00:58:56,140] momentum is mass times velocity.
+- [00:58:56,140 - 00:58:57,900] So roughly speaking,
+- [00:58:58,180 - 00:59:00,540] it's the space of positions and velocities.
+- [00:59:02,720 - 00:59:03,480] Let's draw it.
+- [00:59:03,480 - 00:59:07,080] P is momentum.
+- [00:59:07,080 - 00:59:08,200] It goes that way.
+- [00:59:08,200 - 00:59:11,220] And this axis is a stand-in for all of
+- [00:59:11,220 - 00:59:12,680] the momentum degrees of freedom.
+- [00:59:12,680 - 00:59:14,420] If there are 10 to the 23rd particles,
+- [00:59:14,420 - 00:59:16,740] there are 10 to the 23rd Ps,
+- [00:59:16,740 - 00:59:17,840] but I can't draw more
+- [00:59:17,840 - 00:59:18,520] than one of them.
+- [00:59:18,520 - 00:59:19,320] Well,
+- [00:59:19,320 - 00:59:20,140] I could draw two of them,
+- [00:59:20,140 - 00:59:21,400] but then I wouldn't have any room for
+- [00:59:21,400 - 00:59:22,360] the Qs,
+- [00:59:22,360 - 00:59:22,860] for the Xs.
+- [00:59:22,860 - 00:59:24,480] And horizontally,
+- [00:59:24,480 - 00:59:26,220] the positions of the particles,
+- [00:59:26,220 - 00:59:27,820] which we can call
+- [00:59:27,820 - 00:59:28,200] X.
+- [00:59:28,200 - 00:59:29,180] X or P,
+- [00:59:29,180 - 00:59:29,900] doesn't matter.
+- [00:59:31,220 - 00:59:35,060] A point here is a possible state of the system.
+- [00:59:35,060 - 00:59:36,860] If you know a point here,
+- [00:59:36,860 - 00:59:37,560] you know a position
+- [00:59:37,560 - 00:59:38,520] and a velocity,
+- [00:59:38,520 - 00:59:40,400] and you can predict from that,
+- [00:59:40,400 - 00:59:41,880] if you know the forces.
+- [00:59:42,260 - 00:59:42,660] So,
+- [00:59:42,660 - 00:59:42,660] if you know the forces,
+- [00:59:42,660 - 00:59:42,660] you can predict from that.
+- [00:59:42,660 - 00:59:42,660] If you know the forces,
+- [00:59:42,660 - 00:59:42,660] you can
+- [00:59:42,680 - 00:59:43,640] predict from that.
+- [00:59:43,640 - 00:59:43,640] OK,
+- [00:59:43,640 - 00:59:47,940] let's start with the analog of a probability distribution,
+- [00:59:47,940 - 00:59:53,340] which is zero for some set of
+- [00:59:53,340 - 00:59:59,340] states and constant or the same for some other set,
+- [00:59:59,340 - 01:00:00,500] for some smaller set.
+- [01:00:00,500 - 01:00:00,700] Well,
+- [01:00:00,700 - 01:00:01,520] some fraction
+- [01:00:01,520 - 01:00:04,020] of the states all have the same probability,
+- [01:00:04,020 - 01:00:07,900] and the other states have zero probability.
+- [01:00:08,160 - 01:00:11,640] We can represent that by drawing a picture.
+- [01:00:11,940 - 01:00:12,540] OK.
+- [01:00:12,680 - 01:00:12,680] So,
+- [01:00:12,680 - 01:00:13,600] let's say we have a patch in here,
+- [01:00:13,600 - 01:00:16,040] a sub-region in the phase space,
+- [01:00:16,040 - 01:00:17,200] and say,
+- [01:00:17,200 - 01:00:18,700] in that sub-region,
+- [01:00:20,000 - 01:00:23,580] there's equal probability that the system is
+- [01:00:23,580 - 01:00:27,160] at any point in here and zero probability
+- [01:00:27,160 - 01:00:27,780] outside.
+- [01:00:27,780 - 01:00:30,960] That's the sort of situation where you may know something,
+- [01:00:30,960 - 01:00:31,880] where you may know
+- [01:00:31,880 - 01:00:33,720] something about the particles that
+- [01:00:33,720 - 01:00:35,560] they're in some sub-region here.
+- [01:00:35,560 - 01:00:37,960] For example,
+- [01:00:37,960 - 01:00:40,920] you
+- [01:00:40,920 - 01:00:41,790] know that all the particles in
+- [01:00:41,790 - 01:00:42,660] this region are in the same sub-region.
+- [01:00:42,660 - 01:00:42,660] If you know that,
+- [01:00:42,660 - 01:00:43,110] you know that the particles in
+- [01:00:43,110 - 01:00:43,560] this room are in the room.
+- [01:00:43,560 - 01:00:45,100] Right?
+- [01:00:45,100 - 01:00:46,740] So that puts some boundaries
+- [01:00:46,740 - 01:00:47,700] on what x are.
+- [01:00:47,700 - 01:00:50,790] You may know that all the particles
+- [01:00:50,790 - 01:00:53,880] have momentum which are within some range
+- [01:00:56,380 - 01:00:58,480] that confines them to this way.
+- [01:00:58,480 - 01:00:59,520] So,
+- [01:00:59,520 - 01:01:01,550] a typical bit of knowledge
+- [01:01:01,550 - 01:01:03,580] about the room might be represented
+- [01:01:03,580 - 01:01:06,470] at least approximately by saying that the
+- [01:01:06,470 - 01:01:09,360] zero probability to be outside this region
+- [01:01:09,740 - 01:01:11,400] and a probability equal,
+- [01:01:11,400 - 01:01:12,500] I won't say one,
+- [01:01:12,500 - 01:01:12,640] but a probability equal to zero,
+- [01:01:12,640 - 01:01:12,640] that's the
+- [01:01:12,660 - 01:01:12,660] that the particles are in there,
+- [01:01:12,660 - 01:01:12,660] but the probability is not one,
+- [01:01:12,660 - 01:01:14,800] but equal probability to be in
+- [01:01:14,800 - 01:01:15,040] there.
+- [01:01:17,080 - 01:01:17,560] Okay,
+- [01:01:17,560 - 01:01:19,280] now what happens as the system evolves?
+- [01:01:19,280 - 01:01:21,200] As the system evolves,
+- [01:01:21,200 - 01:01:22,720] x and p change.
+- [01:01:22,720 - 01:01:24,460] The
+- [01:01:24,460 - 01:01:26,660] equations of motion say that x and p change.
+- [01:01:26,660 - 01:01:27,620] If you start over here,
+- [01:01:27,620 - 01:01:29,200] you might go to here.
+- [01:01:29,380 - 01:01:30,580] If you start nearby,
+- [01:01:30,580 - 01:01:33,040] you'll go to some nearby point and so forth.
+- [01:01:33,040 - 01:01:35,420] And the motion of the
+- [01:01:35,420 - 01:01:37,890] system with time is almost like
+- [01:01:37,890 - 01:01:40,360] a fluid flowing in the phase space.
+- [01:01:40,360 - 01:01:42,500] If you think of the points
+- [01:01:42,660 - 01:01:44,620] of the phase space as
+- [01:01:44,620 - 01:01:46,580] fluid points and let time go,
+- [01:01:46,580 - 01:01:49,320] the phase space moves like a fluid.
+- [01:01:49,580 - 01:01:50,040] And,
+- [01:01:50,040 - 01:01:50,660] in particular,
+- [01:01:50,660 - 01:01:52,720] this patch over here,
+- [01:01:52,720 - 01:01:54,940] let's call it the occupied patch,
+- [01:01:54,940 - 01:01:57,280] becomes
+- [01:01:57,280 - 01:01:58,580] some other patch.
+- [01:01:58,580 - 01:02:02,120] That other patch,
+- [01:02:02,120 - 01:02:04,480] after a certain amount of time,
+- [01:02:04,480 - 01:02:06,580] the system now is
+- [01:02:06,580 - 01:02:07,760] known to be in here.
+- [01:02:07,760 - 01:02:09,040] After a certain amount of time,
+- [01:02:09,040 - 01:02:12,480] we now know that the system is in
+- [01:02:12,660 - 01:02:12,660] here,
+- [01:02:12,660 - 01:02:13,940] not in here anymore,
+- [01:02:13,940 - 01:02:17,120] and that it has equal,
+- [01:02:17,120 - 01:02:17,900] in some sense,
+- [01:02:17,900 - 01:02:19,080] equal probability to
+- [01:02:19,080 - 01:02:20,120] be anywhere in there.
+- [01:02:20,120 - 01:02:24,060] There's a theorem that goes with this.
+- [01:02:24,060 - 01:02:25,040] The theorem is called
+- [01:02:25,040 - 01:02:25,940] Leaville's theorem,
+- [01:02:25,940 - 01:02:29,560] and what it says is that the volume of phase,
+- [01:02:29,560 - 01:02:31,440] the volume in phase space,
+- [01:02:31,560 - 01:02:34,170] the amount of volume of
+- [01:02:34,170 - 01:02:36,780] this region in the XP space,
+- [01:02:36,780 - 01:02:38,060] and keep in mind,
+- [01:02:38,060 - 01:02:39,220] the XP space may
+- [01:02:39,220 - 01:02:40,020] be high dimensional.
+- [01:02:40,020 - 01:02:42,580] If it were two dimensional,
+- [01:02:42,580 - 01:02:44,060] we would think of it as the area.
+- [01:02:44,060 - 01:02:47,280] Phase space
+- [01:02:47,280 - 01:02:48,500] is never three dimensional.
+- [01:02:48,500 - 01:02:49,920] It's always even dimensional.
+- [01:02:49,920 - 01:02:53,100] It has a p for every x.
+- [01:02:53,100 - 01:02:54,480] So the
+- [01:02:54,480 - 01:02:57,500] next more complicated system would be four dimensional.
+- [01:02:57,500 - 01:03:00,240] When I speak of the volume in
+- [01:03:00,240 - 01:03:00,760] phase space,
+- [01:03:00,760 - 01:03:03,040] I mean the volume in
+- [01:03:03,040 - 01:03:05,320] whatever dimensionality the phase space is.
+- [01:03:05,320 - 01:03:07,200] If you
+- [01:03:07,200 - 01:03:08,740] follow the phase space,
+- [01:03:08,740 - 01:03:09,080] and this
+- [01:03:09,080 - 01:03:09,200] may be a little bit more complicated,
+- [01:03:09,200 - 01:03:09,200] but if you follow the phase space,
+- [01:03:09,200 - 01:03:09,200] and this may
+- [01:03:12,480 - 01:03:14,540] be a little bit more complicated,
+- [01:03:14,540 - 01:03:16,400] but if you follow the phase space,
+- [01:03:16,400 - 01:03:16,400] and this may
+- [01:03:16,400 - 01:03:16,580] be a little bit more complicated,
+- [01:03:16,580 - 01:03:16,580] but if you follow the phase space,
+- [01:03:16,580 - 01:03:16,580] and this may
+- [01:03:16,580 - 01:03:17,620] be a little bit more complicated,
+- [01:03:17,620 - 01:03:19,580] but if you follow the phase space,
+- [01:03:19,580 - 01:03:19,940] and this may
+- [01:03:19,940 - 01:03:19,940] be a little bit more complicated,
+- [01:03:19,940 - 01:03:20,480] but if you follow the phase space,
+- [01:03:20,480 - 01:03:20,700] and this may
+- [01:03:20,700 - 01:03:20,700] The first one is,
+- [01:03:20,700 - 01:03:21,000] when you have a logarithm it tells you,
+- [01:03:21,000 - 01:03:35,680] the ways you PauloP underside
+- [01:03:35,680 - 01:03:38,250] situation where if you start with m states
+- [01:03:38,250 - 01:03:40,820] and you follow the system according to the
+- [01:03:40,820 - 01:03:43,510] equations of motion you will occupy the
+- [01:03:43,510 - 01:03:46,200] same number of states afterwards as you started
+- [01:03:46,200 - 01:03:46,360] with.
+- [01:03:46,360 - 01:03:48,670] There will be different states but you will
+- [01:03:48,670 - 01:03:50,980] preserve the number of them and the probabilities
+- [01:03:50,980 - 01:03:51,920] will remain equal.
+- [01:03:51,920 - 01:03:54,060] So the rule is,
+- [01:03:54,060 - 01:03:54,880] not the rule,
+- [01:03:54,880 - 01:03:58,240] the theorem says that the volume of
+- [01:03:58,240 - 01:04:01,950] this occupied region will stay the same and a
+- [01:04:01,950 - 01:04:05,660] little bit better it says that if you stay
+- [01:04:05,680 - 01:04:08,840] start with a uniform probability distribution in here,
+- [01:04:08,840 - 01:04:11,840] it will be uniform in here.
+- [01:04:11,840 - 01:04:14,000] So there's
+- [01:04:14,000 - 01:04:19,180] a very very close analog between the discrete
+- [01:04:19,180 - 01:04:24,360] case and the continuous case and this is what
+- [01:04:24,360 - 01:04:30,760] prevents this kind of fundamental equation from being,
+- [01:04:30,760 - 01:04:32,160] from this kind of equation,
+- [01:04:32,160 - 01:04:32,960] an
+- [01:04:35,780 - 01:04:36,920] equation that can't happen.
+- [01:04:36,920 - 01:04:37,880] Okay,
+- [01:04:37,880 - 01:04:38,300] why not?
+- [01:04:38,300 - 01:04:39,560] Let's see why it can't happen.
+- [01:04:39,560 - 01:04:39,900] Let's just
+- [01:04:39,900 - 01:04:41,300] look on this blackboard and see why.
+- [01:04:41,300 - 01:04:43,340] Imagine,
+- [01:04:43,340 - 01:04:45,980] yeah,
+- [01:04:45,980 - 01:04:48,700] imagine that no matter where you started,
+- [01:04:49,400 - 01:04:51,960] you ended up with p equals zero.
+- [01:04:51,960 - 01:04:53,970] That would mean every point
+- [01:04:53,970 - 01:04:55,980] on here got mapped to the
+- [01:04:55,980 - 01:04:56,680] x-axis.
+- [01:04:56,680 - 01:05:01,170] It would mean that this entire region
+- [01:05:01,170 - 01:05:05,660] here would get mapped to a one-point region.
+- [01:05:07,320 - 01:05:09,180] This is because we knew that whenımaending,we didn't need .
+- [01:05:09,180 - 01:05:13,840] This means we couldæ
+- [01:05:16,640 - 01:05:17,320] write
+- [01:05:17,320 - 01:05:18,570] developers just don't know that the p is
+- [01:05:18,570 - 01:05:19,820] equal to 0 because they all know that p
+- [01:05:19,820 - 01:05:20,310] Then you can't do those brutal calculations either
+- [01:05:20,310 - 01:05:20,800] by the choice or one-point lasts are still
+- [01:05:20,800 - 01:05:27,880] valid in that minutia.
+- [01:05:27,880 - 01:05:34,740] So all this is projection.
+- [01:05:34,740 - 01:05:35,660] It's just a nice little
+- [01:05:35,660 - 01:05:36,500] else's,
+- [01:05:36,500 - 01:05:39,200] some other components in the phase space,
+- [01:05:39,200 - 01:05:41,260] the probability distribution
+- [01:05:41,260 - 01:05:42,180] is spread out.
+- [01:05:42,180 - 01:05:44,560] What are the other components in this case?
+- [01:05:44,560 - 01:05:48,840] It's the p's and
+- [01:05:48,840 - 01:05:52,460] x's of all the molecules that are in the table.
+- [01:05:52,460 - 01:05:55,960] So for the case of the eraser,
+- [01:05:56,300 - 01:05:59,220] there's really a very high dimensional phase space,
+- [01:05:59,220 - 01:06:04,040] and as the eraser may come
+- [01:06:04,040 - 01:06:04,560] to rest,
+- [01:06:04,560 - 01:06:06,060] almost rest,
+- [01:06:06,060 - 01:06:09,320] so that the phase space squeezes this way,
+- [01:06:09,320 - 01:06:10,860] it spreads out
+- [01:06:10,860 - 01:06:11,900] in the other directions,
+- [01:06:11,900 - 01:06:14,100] the other directions having to do with the other
+- [01:06:15,820 - 01:06:18,140] hidden microscopic degrees of freedom.
+- [01:06:18,140 - 01:06:19,800] Okay,
+- [01:06:19,800 - 01:06:21,700] so there we are with information
+- [01:06:21,700 - 01:06:22,480] conservation,
+- [01:06:22,480 - 01:06:26,240] the minus first law of physics,
+- [01:06:26,240 - 01:06:29,800] and let's pass
+- [01:06:34,660 - 01:06:35,700] on to the next one.
+- [01:06:35,700 - 01:06:37,640] Let's not go to the zeroth law,
+- [01:06:37,640 - 01:06:39,140] let's jump the zeroth law,
+- [01:06:39,360 - 01:06:41,240] we'll come back to the zeroth law.
+- [01:06:41,240 - 01:06:43,800] Anybody know what the zeroth law says?
+- [01:06:46,500 - 01:06:47,020] Well,
+- [01:06:47,020 - 01:06:47,700] I'll tell you what it says.
+- [01:06:47,700 - 01:06:49,480] We haven't defined what thermal equilibrium
+- [01:06:49,480 - 01:06:49,980] is,
+- [01:06:49,980 - 01:06:51,320] okay,
+- [01:06:51,320 - 01:06:54,540] but it says whatever the hell thermal equilibrium is,
+- [01:06:54,540 - 01:06:56,540] if you have
+- [01:06:56,540 - 01:06:58,000] several systems,
+- [01:06:58,000 - 01:07:01,460] and system A is in thermal equilibrium with B,
+- [01:07:01,460 - 01:07:03,300] and B is in thermal
+- [01:07:04,040 - 01:07:04,440] equilibrium with C,
+- [01:07:04,440 - 01:07:07,800] then A is in thermal equilibrium with C.
+- [01:07:07,800 - 01:07:10,120] We will come back to
+- [01:07:10,120 - 01:07:10,320] that.
+- [01:07:10,320 - 01:07:11,340] Just put it out of
+- [01:07:11,340 - 01:07:12,360] your mind for the time being,
+- [01:07:12,360 - 01:07:13,480] because we haven't described
+- [01:07:13,939 - 01:07:15,340] what thermal equilibrium means.
+- [01:07:15,340 - 01:07:20,140] But we can now jump to the first law,
+- [01:07:20,140 - 01:07:22,580] minus one,
+- [01:07:22,580 - 01:07:23,240] zero,
+- [01:07:23,480 - 01:07:24,320] and first law.
+- [01:07:24,320 - 01:07:27,560] And the first law is simply energy conservation.
+- [01:07:27,560 - 01:07:30,340] It is simply energy conservation,
+- [01:07:30,820 - 01:07:31,620] nothing more.
+- [01:07:32,460 - 01:07:34,020] It's really simple to write.
+- [01:07:34,040 - 01:07:34,540] It's really simple to write down.
+- [01:07:39,860 - 01:07:42,480] Its simplicity belies its power.
+- [01:07:45,160 - 01:07:47,400] It is the statement that first of all,
+- [01:07:47,400 - 01:07:49,160] there is a conserved quantity,
+- [01:07:49,160 - 01:07:50,780] and the fact that
+- [01:07:50,780 - 01:07:54,180] we call that conserved quantity energy will play,
+- [01:07:54,180 - 01:07:55,260] for the moment,
+- [01:07:55,260 - 01:07:56,220] not such a big role
+- [01:07:56,220 - 01:07:56,760] right now,
+- [01:07:56,760 - 01:08:03,680] but let's just say there's energy conservation.
+- [01:08:04,040 - 01:08:04,740] All right,
+- [01:08:04,740 - 01:08:05,780] what does that say?
+- [01:08:05,940 - 01:08:07,940] That simply says dE,
+- [01:08:07,940 - 01:08:10,400] whatever the energy is,
+- [01:08:10,400 - 01:08:14,540] dE by dt is equal to zero.
+- [01:08:16,019 - 01:08:18,879] Now this is the law of
+- [01:08:18,879 - 01:08:21,740] energy conservation for a closed system.
+- [01:08:23,200 - 01:08:25,720] If a system consists of more than
+- [01:08:25,720 - 01:08:28,240] one part in interaction with each other,
+- [01:08:28,240 - 01:08:29,380] then of course
+- [01:08:29,380 - 01:08:31,979] any one of the parts can have a changing energy.
+- [01:08:34,040 - 01:08:36,880] But the sum total of all
+- [01:08:36,880 - 01:08:39,720] of the parts will conserve energy.
+- [01:08:40,020 - 01:08:42,340] So if a system is composed,
+- [01:08:42,340 - 01:08:43,380] as I drew before,
+- [01:08:43,380 - 01:08:47,600] of two parts with a link between them,
+- [01:08:47,600 - 01:08:48,180] and
+- [01:08:48,180 - 01:08:49,779] this is called one and this is two,
+- [01:08:49,779 - 01:08:53,849] then this reads that dE1 by
+- [01:08:53,849 - 01:08:57,920] dt is equal to minus dE2
+- [01:08:57,920 - 01:08:58,479] by dt.
+- [01:09:00,580 - 01:09:03,920] I've really written dE1 by dt.
+- [01:09:03,939 - 01:09:04,020] I've really written dE1 by dt.
+- [01:09:04,020 - 01:09:04,140] So I've taken dE1 by dt,
+- [01:09:04,140 - 01:09:06,580] plus dE2 by dt is equal to zero,
+- [01:09:06,580 - 01:09:08,740] but then I transposed one of
+- [01:09:08,740 - 01:09:10,700] them to the right-hand side just to indicate,
+- [01:09:10,700 - 01:09:11,840] just to make graphic,
+- [01:09:11,840 - 01:09:13,380] that if you lose energy
+- [01:09:13,380 - 01:09:14,100] on one side,
+- [01:09:14,100 - 01:09:15,240] you gain it on the other.
+- [01:09:16,160 - 01:09:18,779] So that's the first law of thermodynamics,
+- [01:09:18,779 - 01:09:20,760] and that's all the first law of thermodynamics
+- [01:09:20,760 - 01:09:21,100] says.
+- [01:09:21,260 - 01:09:22,720] It says energy conservation.
+- [01:09:23,220 - 01:09:25,080] Now in this context here,
+- [01:09:25,080 - 01:09:26,640] there's a slightly hidden assumption.
+- [01:09:28,200 - 01:09:30,040] We've assumed that if a
+- [01:09:30,040 - 01:09:31,880] system is composed of two parts,
+- [01:09:31,880 - 01:09:34,000] that the energy is the sum of
+- [01:09:34,020 - 01:09:34,580] the two parts.
+- [01:09:35,560 - 01:09:38,540] That's really not generally true.
+- [01:09:39,359 - 01:09:41,129] If you have two systems
+- [01:09:41,129 - 01:09:42,899] and they interact with each other,
+- [01:09:42,899 - 01:09:43,680] there may be,
+- [01:09:43,680 - 01:09:44,359] for example,
+- [01:09:44,779 - 01:09:46,260] forces between the two parts.
+- [01:09:46,500 - 01:09:48,819] So there might be a potential energy
+- [01:09:48,819 - 01:09:51,140] that's a function of both of the coordinates.
+- [01:09:51,920 - 01:09:52,899] For example,
+- [01:09:52,899 - 01:09:56,820] the energy of the solar system.
+- [01:09:57,020 - 01:09:58,280] I'm being very naive.
+- [01:09:58,420 - 01:10:00,730] I'm thinking of the solar
+- [01:10:00,730 - 01:10:03,040] system as two orbiting Newtonian particles.
+- [01:10:03,480 - 01:10:03,740] I'm thinking of the solar
+- [01:10:03,740 - 01:10:04,000] system as two orbiting Newtonian particles.
+- [01:10:04,020 - 01:10:07,400] The energy consists of the kinetic energy of one particle,
+- [01:10:07,400 - 01:10:08,940] plus the kinetic energy of
+- [01:10:08,940 - 01:10:09,640] the other particle,
+- [01:10:09,640 - 01:10:12,580] plus a term which doesn't belong to either particle.
+- [01:10:12,700 - 01:10:14,420] It belongs to both of them in a sense,
+- [01:10:14,420 - 01:10:17,200] and it's the potential energy of interaction between
+- [01:10:17,200 - 01:10:18,020] them.
+- [01:10:18,460 - 01:10:19,860] In that context,
+- [01:10:19,860 - 01:10:22,480] you really can't say that the energy
+- [01:10:22,480 - 01:10:25,100] is the sum of the energy of one
+- [01:10:25,100 - 01:10:27,080] thing plus the energy of the other thing.
+- [01:10:27,880 - 01:10:29,900] Energy conservation is still true,
+- [01:10:29,900 - 01:10:33,840] but you can't divide the system into two parts.
+- [01:10:33,840 - 01:10:34,180] That's the way.
+- [01:10:34,840 - 01:10:35,760] On the other hand,
+- [01:10:35,760 - 01:10:36,280] there are many,
+- [01:10:36,280 - 01:10:43,280] many contexts where the interaction energies between systems
+- [01:10:43,280 - 01:10:45,390] is negligible compared to the
+- [01:10:45,390 - 01:10:47,500] energy that the systems themselves have.
+- [01:10:49,420 - 01:10:50,930] If we were to divide
+- [01:10:50,930 - 01:10:52,440] this table top up into blocks,
+- [01:10:52,440 - 01:10:56,900] divide the table top up into blocks,
+- [01:10:58,139 - 01:11:00,100] how much energy is in each block?
+- [01:11:00,340 - 01:11:00,460] Well,
+- [01:11:00,460 - 01:11:02,090] the amount of energy that's in each
+- [01:11:02,090 - 01:11:03,720] block is more or less proportional to the
+- [01:11:03,720 - 01:11:04,840] volume of each block.
+- [01:11:05,860 - 01:11:09,180] How much energy of interaction is there between the blocks?
+- [01:11:09,460 - 01:11:11,940] The energy of interaction is a surface effect.
+- [01:11:12,120 - 01:11:14,600] They interact with each other because their surfaces touch,
+- [01:11:14,600 - 01:11:16,740] and typically,
+- [01:11:16,740 - 01:11:18,420] surface area
+- [01:11:19,080 - 01:11:21,540] is small by comparison with volume.
+- [01:11:21,940 - 01:11:22,700] So in many,
+- [01:11:22,700 - 01:11:23,780] many—we'll come back to that,
+- [01:11:23,780 - 01:11:25,020] we'll come back to that—but in many,
+- [01:11:25,020 - 01:11:25,200] many
+- [01:11:25,200 - 01:11:25,720] contexts,
+- [01:11:25,720 - 01:11:29,290] the energy of interaction between two
+- [01:11:29,290 - 01:11:32,860] systems is negligible compared to the
+- [01:11:32,860 - 01:11:33,700] energy of ionization.
+- [01:11:33,720 - 01:11:33,860] They interact with each other,
+- [01:11:33,860 - 01:11:34,060] and so they're not going to
+- [01:11:34,060 - 01:11:34,260] be as good as either of them.
+- [01:11:34,480 - 01:11:35,660] When that happens,
+- [01:11:35,660 - 01:11:37,980] you can say to a good approximation,
+- [01:11:37,980 - 01:11:40,880] the energy can just be represented as the
+- [01:11:40,880 - 01:11:42,100] sum of two energies of
+- [01:11:42,100 - 01:11:43,320] the two parts of the system,
+- [01:11:43,320 - 01:11:45,360] plus a teeny little thing,
+- [01:11:45,360 - 01:11:46,480] which has
+- [01:11:46,480 - 01:11:47,660] to do with their interactions.
+- [01:11:48,120 - 01:11:49,580] Under those circumstances,
+- [01:11:49,580 - 01:11:56,000] the first law of thermodynamics—the top is always true,
+- [01:11:56,000 - 01:11:56,880] the
+- [01:11:56,880 - 01:11:59,520] second has that little caveat.
+- [01:11:59,520 - 01:12:01,770] that we're talking about systems
+- [01:12:01,770 - 01:12:04,020] where energy is strictly additive,
+- [01:12:04,719 - 01:12:06,200] where you add energies.
+- [01:12:06,520 - 01:12:08,310] Does everybody understand why I
+- [01:12:08,310 - 01:12:10,100] say you don't always add energies,
+- [01:12:10,240 - 01:12:11,960] that sometimes energies are not additive?
+- [01:12:14,820 - 01:12:15,500] Yeah,
+- [01:12:15,500 - 01:12:17,130] actually I was thinking that
+- [01:12:17,130 - 01:12:18,760] we have the same possible problem
+- [01:12:19,160 - 01:12:20,040] with the probabilities.
+- [01:12:20,520 - 01:12:23,560] We assume that the outcomes were mutually exclusive.
+- [01:12:24,040 - 01:12:26,000] Otherwise the sum law...
+- [01:12:26,000 - 01:12:26,100] Well,
+- [01:12:26,100 - 01:12:26,360] we did.
+- [01:12:27,380 - 01:12:27,860] Yeah,
+- [01:12:27,860 - 01:12:29,620] otherwise the sum law doesn't work.
+- [01:12:29,820 - 01:12:29,820] Yeah,
+- [01:12:29,820 - 01:12:31,020] okay,
+- [01:12:31,020 - 01:12:33,300] so in all the contexts which we talked about,
+- [01:12:33,780 - 01:12:34,520] the dye,
+- [01:12:34,520 - 01:12:36,100] if it's yellow,
+- [01:12:36,100 - 01:12:36,980] it can't be red.
+- [01:12:38,780 - 01:12:40,100] You say orange,
+- [01:12:40,100 - 01:12:41,300] orange is both yellow and red.
+- [01:12:41,400 - 01:12:41,500] Well,
+- [01:12:41,500 - 01:12:42,380] we don't count that way.
+- [01:12:44,280 - 01:12:44,760] Yeah,
+- [01:12:44,760 - 01:12:45,720] so that's correct.
+- [01:12:45,980 - 01:12:46,400] No,
+- [01:12:46,400 - 01:12:47,680] that's absolutely correct.
+- [01:12:47,960 - 01:12:50,260] We made the assumption that what I call states,
+- [01:12:50,720 - 01:12:52,820] what I call states are mutually exclusive.
+- [01:12:53,900 - 01:12:54,380] Absolutely.
+- [01:12:54,680 - 01:12:55,160] Okay.
+- [01:12:58,759 - 01:12:59,320] Okay,
+- [01:12:59,320 - 01:13:00,720] let's come back to entropy.
+- [01:13:01,320 - 01:13:02,680] We're not finished with entropy.
+- [01:13:02,860 - 01:13:03,540] We've done entropy,
+- [01:13:03,540 - 01:13:04,480] we've done energy.
+- [01:13:04,760 - 01:13:06,440] We haven't gotten to temperature yet.
+- [01:13:07,600 - 01:13:10,240] Notice that temperature comes in behind entropy,
+- [01:13:10,960 - 01:13:13,540] and even energy comes in behind entropy.
+- [01:13:14,980 - 01:13:19,000] But temperature is a highly derived quantity.
+- [01:13:19,919 - 01:13:21,560] By highly derived,
+- [01:13:21,560 - 01:13:22,820] I mean it's a...
+- [01:13:24,080 - 01:13:26,340] Despite the fact that it's the thing you find
+- [01:13:26,340 - 01:13:27,260] that you feel with your body,
+- [01:13:27,360 - 01:13:28,160] so it makes it,
+- [01:13:28,160 - 01:13:28,560] you know,
+- [01:13:28,560 - 01:13:30,620] really feel like it's something intuitive,
+- [01:13:31,680 - 01:13:35,500] it is a mathematically derived concept,
+- [01:13:35,800 - 01:13:37,660] less primitive and less fundamental
+- [01:13:37,660 - 01:13:39,520] than either energy or entropy,
+- [01:13:39,780 - 01:13:40,620] but we'll come to it.
+- [01:13:40,880 - 01:13:42,500] Let's come back to entropy.
+- [01:13:44,500 - 01:13:48,360] We defined entropy,
+- [01:13:49,030 - 01:13:52,220] but only for certain special probability distributions.
+- [01:13:53,759 - 01:13:56,200] Let's lay out on the horizontal axis,
+- [01:13:56,580 - 01:13:58,700] just to be schematic,
+- [01:13:59,060 - 01:14:00,780] on the horizontal axis,
+- [01:14:01,060 - 01:14:04,480] we will put down all the different states.
+- [01:14:05,220 - 01:14:06,540] Here's i equals 1,
+- [01:14:06,540 - 01:14:07,560] here's i equals 2,
+- [01:14:07,560 - 01:14:08,560] here's i equals 3.
+- [01:14:08,780 - 01:14:11,560] This axis just labels the various states,
+- [01:14:12,259 - 01:14:13,500] and of course,
+- [01:14:13,500 - 01:14:14,780] vertically,
+- [01:14:14,780 - 01:14:16,820] let me plot probability.
+- [01:14:17,760 - 01:14:18,400] Okay.
+- [01:14:19,219 - 01:14:19,860] Well,
+- [01:14:19,860 - 01:14:21,000] the probability,
+- [01:14:21,000 - 01:14:21,680] of course,
+- [01:14:21,680 - 01:14:29,660] is only defined on the integers here.
+- [01:14:29,780 - 01:14:30,780] That's not very good.
+- [01:14:30,860 - 01:14:31,480] It's some probability.
+- [01:14:32,060 - 01:14:33,280] But let's...
+- [01:14:33,980 - 01:14:35,530] I don't want to have
+- [01:14:35,530 - 01:14:37,080] to draw such a complicated thing.
+- [01:14:37,240 - 01:14:39,020] Every time I want to draw a probability distribution,
+- [01:14:39,320 - 01:14:40,280] let's just draw a graph.
+- [01:14:40,560 - 01:14:42,040] Some probability distribution
+- [01:14:42,680 - 01:14:46,500] or some probability for each position.
+- [01:14:46,860 - 01:14:47,360] Now,
+- [01:14:47,360 - 01:14:49,240] what we did was we defined entropy
+- [01:14:49,240 - 01:14:50,780] for a very special case.
+- [01:14:52,059 - 01:14:55,060] The special case being where
+- [01:14:56,699 - 01:14:57,820] some subset
+- [01:15:00,239 - 01:15:01,940] have equal probabilities
+- [01:15:02,520 - 01:15:04,360] and the rest have zero probability.
+- [01:15:04,620 - 01:15:05,160] For example,
+- [01:15:05,160 - 01:15:06,940] if our subset consists of
+- [01:15:06,940 - 01:15:08,720] this group over here of m,
+- [01:15:08,960 - 01:15:10,340] the whole group being n,
+- [01:15:10,540 - 01:15:13,800] then all of these have the same probability.
+- [01:15:15,840 - 01:15:18,580] And their probabilities have to add up to 1,
+- [01:15:18,780 - 01:15:21,440] so the probability is 1 over n.
+- [01:15:21,680 - 01:15:27,480] We'll just draw that by drawing a box like that.
+- [01:15:27,580 - 01:15:29,160] Then we define the entropy
+- [01:15:30,660 - 01:15:32,260] to be the logarithm
+- [01:15:33,020 - 01:15:35,920] of the number of states in here.
+- [01:15:37,940 - 01:15:39,080] Generally speaking,
+- [01:15:39,300 - 01:15:41,800] we don't have probability distributions like this.
+- [01:15:41,980 - 01:15:43,060] Generally speaking,
+- [01:15:43,700 - 01:15:46,600] we have probability distributions
+- [01:15:46,600 - 01:15:47,940] which are more complicated.
+- [01:15:48,320 - 01:15:49,120] In fact,
+- [01:15:49,120 - 01:15:50,180] they can be anything
+- [01:15:50,180 - 01:15:51,520] as long as they're positive
+- [01:15:51,520 - 01:15:52,880] and all add up to 1.
+- [01:15:53,840 - 01:15:55,000] So the question is,
+- [01:15:55,060 - 01:15:56,340] how do we define entropy
+- [01:15:56,340 - 01:15:57,920] in a more general context
+- [01:15:57,920 - 01:16:00,940] where the probability distribution looks like this?
+- [01:16:01,640 - 01:16:03,360] I'm going to write down the formula,
+- [01:16:03,980 - 01:16:05,020] and then we're going to check
+- [01:16:05,020 - 01:16:07,600] that it really gives this answer
+- [01:16:08,420 - 01:16:10,580] when it should give this answer.
+- [01:16:16,840 - 01:16:17,800] For today,
+- [01:16:17,800 - 01:16:19,120] I'm just going to write it down
+- [01:16:19,120 - 01:16:20,580] and tell you this is the definition.
+- [01:16:20,940 - 01:16:22,620] You'll get familiar with it,
+- [01:16:22,680 - 01:16:24,860] and you'll start to see why it's a good definition.
+- [01:16:25,220 - 01:16:27,000] It's representing something
+- [01:16:27,000 - 01:16:28,680] about the probability distribution,
+- [01:16:29,120 - 01:16:30,640] and what it's representing
+- [01:16:30,640 - 01:16:33,500] is in some average sense
+- [01:16:34,120 - 01:16:36,380] the average number of states
+- [01:16:37,019 - 01:16:39,680] which are importantly contained
+- [01:16:39,680 - 01:16:41,720] inside the probability distribution.
+- [01:16:42,180 - 01:16:44,240] The narrower the probability distribution,
+- [01:16:44,700 - 01:16:46,820] the smaller the entropy will be.
+- [01:16:46,960 - 01:16:49,040] The broader the probability distribution,
+- [01:16:49,120 - 01:16:51,060] the bigger the entropy will be.
+- [01:16:51,140 - 01:16:52,460] I'll write it down for you now.
+- [01:16:52,580 - 01:16:53,260] We'll write it down
+- [01:16:53,260 - 01:16:55,100] and then explore it just a little bit tonight.
+- [01:16:55,620 - 01:16:56,220] All right.
+- [01:16:56,400 - 01:16:59,220] S for a general probability distribution
+- [01:16:59,920 - 01:17:01,420] is first of all minus.
+- [01:17:01,920 - 01:17:03,540] That's funny because this is positive,
+- [01:17:03,700 - 01:17:04,160] but nevertheless,
+- [01:17:04,340 - 01:17:05,940] the formula begins with minus.
+- [01:17:09,660 - 01:17:10,600] A sum,
+- [01:17:11,620 - 01:17:14,940] and it's a sum over all of the states,
+- [01:17:15,080 - 01:17:16,320] all of the possibilities.
+- [01:17:16,880 - 01:17:18,280] So it's a sum over i.
+- [01:17:18,520 - 01:17:19,100] There's a constant.
+- [01:17:19,120 - 01:17:22,040] There's a contribution for each place here.
+- [01:17:22,860 - 01:17:24,360] The probability of i
+- [01:17:28,400 - 01:17:32,280] times the logarithm of the probability of i.
+- [01:17:38,020 - 01:17:38,980] Do you remember?
+- [01:17:39,240 - 01:17:39,880] All right,
+- [01:17:39,880 - 01:17:41,200] let's write something else down.
+- [01:17:41,320 - 01:17:42,900] Do you remember that the average of f
+- [01:17:43,780 - 01:17:46,120] is equal to the summation over i,
+- [01:17:46,840 - 01:17:48,600] f of i times p of i?
+- [01:17:53,580 - 01:17:56,420] This is actually the average of log p sub i.
+- [01:17:58,280 - 01:18:01,100] It's the average of log p sub i.
+- [01:18:02,500 - 01:18:03,180] All right,
+- [01:18:03,180 - 01:18:04,100] let's work this out.
+- [01:18:04,220 - 01:18:05,320] Let's see what this gives.
+- [01:18:05,760 - 01:18:07,260] In the special case
+- [01:18:07,940 - 01:18:11,300] where the probability distribution is one over m
+- [01:18:13,419 - 01:18:15,220] for m states altogether.
+- [01:18:16,460 - 01:18:17,900] It has with m,
+- [01:18:18,040 - 01:18:19,100] and because of that,
+- [01:18:19,100 - 01:18:19,820] it has with m,
+- [01:18:20,020 - 01:18:21,720] it must have height one over m
+- [01:18:21,720 - 01:18:24,280] because all the probabilities have to add up to one.
+- [01:18:24,980 - 01:18:25,700] All right,
+- [01:18:25,700 - 01:18:27,240] so let's work this out.
+- [01:18:27,880 - 01:18:31,520] Let's take the contribution for all the unoccupied states.
+- [01:18:32,100 - 01:18:34,380] From all the unoccupied states,
+- [01:18:35,080 - 01:18:36,580] p sub i is zero.
+- [01:18:37,700 - 01:18:38,980] So you get nothing.
+- [01:18:39,760 - 01:18:42,200] But log of p of i is minus infinity.
+- [01:18:42,640 - 01:18:42,940] Yeah,
+- [01:18:42,940 - 01:18:44,000] that's right.
+- [01:18:44,160 - 01:18:44,420] Okay,
+- [01:18:44,420 - 01:18:45,420] so now what's the...
+- [01:18:45,420 - 01:18:45,680] All right,
+- [01:18:45,680 - 01:18:45,860] good.
+- [01:18:45,860 - 01:18:53,420] So let's consider the limit of p,
+- [01:18:53,680 - 01:18:54,440] sorry,
+- [01:18:54,440 - 01:18:56,120] of log p over p.
+- [01:18:58,080 - 01:19:00,420] Or let's just say the limit of...
+- [01:19:00,420 - 01:19:00,480] No,
+- [01:19:00,480 - 01:19:01,320] that's not right.
+- [01:19:01,500 - 01:19:04,400] The limit of p log p
+- [01:19:06,040 - 01:19:07,620] as p goes to zero.
+- [01:19:11,040 - 01:19:12,560] You know how to calculate that?
+- [01:19:16,020 - 01:19:16,500] Okay,
+- [01:19:16,500 - 01:19:17,420] I'm going to leave it to you.
+- [01:19:17,480 - 01:19:18,840] It's a little calculus exercise
+- [01:19:19,600 - 01:19:22,940] to calculate the limit as p goes to zero
+- [01:19:22,940 - 01:19:25,480] of p log p at zero.
+- [01:19:26,320 - 01:19:28,380] The point is that p goes to zero
+- [01:19:28,380 - 01:19:30,880] a lot faster than log p goes to infinity.
+- [01:19:31,400 - 01:19:35,380] Log p as p goes to zero is very slow.
+- [01:19:36,040 - 01:19:37,400] p goes to zero fast.
+- [01:19:37,840 - 01:19:38,880] So this goes to zero.
+- [01:19:39,640 - 01:19:40,680] You're absolutely right,
+- [01:19:40,680 - 01:19:40,880] though.
+- [01:19:40,920 - 01:19:42,680] That has to be shown.
+- [01:19:43,500 - 01:19:44,670] But p log p and
+- [01:19:44,670 - 01:19:45,840] the limit that p goes to
+- [01:19:45,860 - 01:19:46,780] zero is zero.
+- [01:19:48,620 - 01:19:51,100] So with that piece of knowledge,
+- [01:19:52,460 - 01:19:55,600] the contribution from states with very,
+- [01:19:55,640 - 01:19:58,300] very small probability will be very,
+- [01:19:58,380 - 01:19:58,880] very small.
+- [01:19:59,220 - 01:20:01,180] And as the probability for those states
+- [01:20:01,180 - 01:20:01,920] goes to zero,
+- [01:20:01,920 - 01:20:03,260] this quantity,
+- [01:20:03,400 - 01:20:05,280] the contribution will go to zero.
+- [01:20:05,640 - 01:20:08,040] But what about the ones here which have
+- [01:20:08,040 - 01:20:09,240] significant probability?
+- [01:20:10,220 - 01:20:12,620] They all have the same p sub i.
+- [01:20:13,000 - 01:20:15,360] And they all have the same log p sub i.
+- [01:20:16,160 - 01:20:24,660] Log p sub i is logarithm of one over m
+- [01:20:25,560 - 01:20:26,640] for all of them.
+- [01:20:27,540 - 01:20:31,720] The p sub i is also one over m.
+- [01:20:31,820 - 01:20:32,940] Not log one over m,
+- [01:20:32,940 - 01:20:33,680] but one over m.
+- [01:20:36,480 - 01:20:39,100] So each contribution is one over m
+- [01:20:39,100 - 01:20:40,220] times log one over m.
+- [01:20:40,240 - 01:20:41,800] How many contributions are there like that?
+- [01:20:43,540 - 01:20:44,200] All right.
+- [01:20:44,200 - 01:20:46,310] So we multiply by m and get
+- [01:20:46,310 - 01:20:48,420] rid of the one over m there.
+- [01:20:50,700 - 01:20:52,020] There's a minus sign here.
+- [01:20:52,120 - 01:20:52,800] I carry it along.
+- [01:20:54,560 - 01:20:58,760] All times m because there are m such terms.
+- [01:20:59,460 - 01:21:01,340] So the one over m cancels,
+- [01:21:01,340 - 01:21:02,240] and we're just left
+- [01:21:02,240 - 01:21:04,060] with log one over m.
+- [01:21:04,200 - 01:21:05,280] What's log one over m?
+- [01:21:07,020 - 01:21:07,840] Minus log m,
+- [01:21:07,840 - 01:21:08,100] right?
+- [01:21:08,300 - 01:21:10,320] So that's why the minus sign was put there
+- [01:21:10,320 - 01:21:10,900] in the first place.
+- [01:21:10,940 - 01:21:11,520] There's no miracle.
+- [01:21:11,660 - 01:21:13,200] The minus sign was put there because
+- [01:21:13,200 - 01:21:15,260] probabilities are less than one.
+- [01:21:15,460 - 01:21:18,160] And so the logarithms of them are always negative.
+- [01:21:19,880 - 01:21:21,290] So you soak up that
+- [01:21:21,290 - 01:21:22,700] negative with an overall negative sign,
+- [01:21:22,940 - 01:21:24,180] and entropy is positive.
+- [01:21:24,680 - 01:21:29,360] But this is exactly the same answer that we are
+- [01:21:30,599 - 01:21:33,140] by the original definition,
+- [01:21:33,140 - 01:21:35,900] just s equals log m.
+- [01:21:36,000 - 01:21:37,520] Logarithm of the number of states.
+- [01:21:37,720 - 01:21:40,180] But this is a definition now that makes sense
+- [01:21:40,959 - 01:21:43,180] even when we're not sure.
+- [01:21:43,180 - 01:21:46,360] You have a more complicated probability distribution.
+- [01:21:47,140 - 01:21:49,460] And it is a good and effective.
+- [01:21:49,800 - 01:21:51,980] It's the average of log p.
+- [01:21:53,400 - 01:21:58,700] For the special case where the probability distribution
+- [01:21:58,700 - 01:22:01,060] is constant like this,
+- [01:22:01,060 - 01:22:05,420] then all of the probabilities
+- [01:22:05,420 - 01:22:06,600] in here are one over m.
+- [01:22:06,860 - 01:22:09,500] And calculating the average of one over m,
+- [01:22:09,640 - 01:22:10,000] well,
+- [01:22:10,000 - 01:22:11,920] it's just log one over m,
+- [01:22:11,920 - 01:22:13,160] just gives you this.
+- [01:22:13,180 - 01:22:14,280] All right.
+- [01:22:14,300 - 01:22:18,220] So this is the general definition of the entropy
+- [01:22:18,220 - 01:22:20,920] that's associated with a probability distribution.
+- [01:22:21,180 - 01:22:21,620] And notice,
+- [01:22:21,620 - 01:22:25,260] entropy is associated with a probability distribution.
+- [01:22:25,920 - 01:22:27,660] It's not a thing like energy,
+- [01:22:27,660 - 01:22:29,280] which is a property of a system.
+- [01:22:29,400 - 01:22:30,420] It's not a thing like momentum.
+- [01:22:31,580 - 01:22:34,250] It's a thing which has to
+- [01:22:34,250 - 01:22:36,920] do with a specific probability distribution.
+- [01:22:37,440 - 01:22:42,220] Probability distribution on the space of possible states.
+- [01:22:44,899 - 01:22:46,689] So that's why it's a little
+- [01:22:46,689 - 01:22:48,480] bit of a more obscure quantity
+- [01:22:49,540 - 01:22:53,340] from the point of view of intuitive definition.
+- [01:22:54,780 - 01:22:55,800] As I said,
+- [01:22:55,800 - 01:22:59,860] its definition has to do with both the system
+- [01:22:59,860 - 01:23:03,640] and your state of knowledge of the system.
+- [01:23:05,820 - 01:23:07,060] Let's do some examples.
+- [01:23:07,220 - 01:23:09,960] Let's calculate some entropy for a couple of simple systems.
+- [01:23:13,180 - 01:23:15,120] Our first system is just going
+- [01:23:15,120 - 01:23:17,060] to be not a single coin,
+- [01:23:17,220 - 01:23:18,700] but a lot of coins.
+- [01:23:32,400 - 01:23:32,880] So,
+- [01:23:32,880 - 01:23:34,740] we have capital N coins,
+- [01:23:34,740 - 01:23:36,360] n of them,
+- [01:23:38,140 - 01:23:40,480] and each one can be heads or tails.
+- [01:23:44,519 - 01:23:46,680] And so on.
+- [01:23:48,700 - 01:23:50,060] As a matter of fact,
+- [01:23:50,060 - 01:23:51,500] we have no idea what
+- [01:23:51,500 - 01:23:52,940] the state of the system is.
+- [01:23:53,080 - 01:23:53,980] We know nothing.
+- [01:23:54,360 - 01:23:56,040] The probability distribution,
+- [01:23:56,040 - 01:23:56,980] in other words,
+- [01:23:56,980 - 01:23:59,520] is the same for all states.
+- [01:23:59,880 - 01:24:00,940] Complete ignorance,
+- [01:24:00,940 - 01:24:02,000] absolute ignorance.
+- [01:24:02,140 - 01:24:05,940] What is the entropy associated with such a configuration?
+- [01:24:06,360 - 01:24:07,600] There are N of these.
+- [01:24:11,160 - 01:24:12,040] All right.
+- [01:24:12,520 - 01:24:13,160] And then we have the probability distribution.
+- [01:24:14,700 - 01:24:16,520] All the probabilities are equal.
+- [01:24:17,840 - 01:24:19,440] Under the circumstance where all
+- [01:24:19,440 - 01:24:21,040] of the probabilities are equal,
+- [01:24:21,380 - 01:24:23,920] we just get to use logarithm
+- [01:24:23,920 - 01:24:26,460] of the number of possible states.
+- [01:24:26,800 - 01:24:28,940] The answer here is the logarithm
+- [01:24:28,940 - 01:24:31,080] of the number of total states.
+- [01:24:31,420 - 01:24:32,920] How many states are there altogether?
+- [01:24:34,679 - 01:24:36,200] Two to the N.
+- [01:24:36,580 - 01:24:37,140] Right.
+- [01:24:37,240 - 01:24:38,260] Two to the N.
+- [01:24:38,540 - 01:24:39,060] Oh,
+- [01:24:39,060 - 01:24:39,400] let's,
+- [01:24:39,400 - 01:24:40,040] I'm sorry,
+- [01:24:40,040 - 01:24:41,900] I'm going to change definitions for a minute
+- [01:24:41,900 - 01:24:43,140] for a reason that you'll see in a minute.
+- [01:24:43,140 - 01:24:44,080] I'm going to call this little n.
+- [01:24:44,380 - 01:24:45,980] Number of coins is little n.
+- [01:24:47,200 - 01:24:48,000] Over here,
+- [01:24:48,000 - 01:24:51,380] big N stood for the total number of states.
+- [01:24:52,500 - 01:24:55,120] So if I match terminologies,
+- [01:24:55,700 - 01:24:56,580] big N,
+- [01:24:56,580 - 01:24:57,880] the total number of states,
+- [01:24:58,120 - 01:24:59,960] is E to the 2N,
+- [01:25:00,720 - 01:25:01,160] no,
+- [01:25:01,160 - 01:25:02,060] 2 to the N,
+- [01:25:02,060 - 01:25:02,600] sorry,
+- [01:25:02,600 - 01:25:03,280] I'm getting tired,
+- [01:25:03,740 - 01:25:04,860] 2 to the N,
+- [01:25:05,640 - 01:25:07,200] 2 to the N states altogether,
+- [01:25:08,780 - 01:25:10,300] two states for the first coin,
+- [01:25:10,300 - 01:25:11,640] two states for the second coin,
+- [01:25:11,640 - 01:25:12,200] and so forth,
+- [01:25:12,340 - 01:25:13,120] two to the N altogether.
+- [01:25:13,140 - 01:25:15,920] And the total number of states is capital N.
+- [01:25:16,500 - 01:25:19,480] What's the entropy given that we know nothing?
+- [01:25:20,540 - 01:25:21,600] 2 log N.
+- [01:25:21,680 - 01:25:22,680] 2 log N.
+- [01:25:22,940 - 01:25:24,000] N log 2.
+- [01:25:24,160 - 01:25:24,340] N log 2.
+- [01:25:24,940 - 01:25:28,060] S is equal to N log 2.
+- [01:25:28,160 - 01:25:30,860] That's the logarithm of 2 to the N.
+- [01:25:31,540 - 01:25:32,180] All right,
+- [01:25:32,180 - 01:25:35,100] so here we see an example of the fact that
+- [01:25:35,100 - 01:25:38,200] entropy is kind of additive over the system.
+- [01:25:38,420 - 01:25:40,290] It's proportional to the number of
+- [01:25:40,290 - 01:25:42,160] degrees of freedom in this case.
+- [01:25:42,160 - 01:25:44,440] N times log 2.
+- [01:25:45,720 - 01:25:48,760] And we also discover a unit of entropy.
+- [01:25:49,100 - 01:25:51,140] The unit of entropy is called a bit.
+- [01:25:51,320 - 01:25:53,760] That's what a bit is in information theory.
+- [01:25:54,000 - 01:25:56,320] It's the basic unit of entropy for
+- [01:25:56,320 - 01:25:58,640] a system which has only two states,
+- [01:25:58,960 - 01:25:59,800] up or down,
+- [01:25:59,800 - 01:26:00,560] heads or tails,
+- [01:26:00,560 - 01:26:01,000] or whatever.
+- [01:26:01,420 - 01:26:05,820] The entropy is proportional to the number of bits,
+- [01:26:05,920 - 01:26:06,740] or in this case,
+- [01:26:06,740 - 01:26:07,740] the number of coins,
+- [01:26:08,519 - 01:26:10,200] times the logarithm of 2.
+- [01:26:10,340 - 01:26:11,240] So log 2,
+- [01:26:11,240 - 01:26:14,220] plays a fundamental role in information
+- [01:26:14,220 - 01:26:17,200] theory as the unit of entropy.
+- [01:26:18,780 - 01:26:21,530] It does not mean that in general that
+- [01:26:21,530 - 01:26:24,280] entropy is an integer multiple of log 2.
+- [01:26:24,440 - 01:26:25,900] We'll see in a second.
+- [01:26:26,000 - 01:26:26,680] It doesn't mean that.
+- [01:26:29,300 - 01:26:29,940] Okay,
+- [01:26:29,940 - 01:26:33,500] so that's this case over here.
+- [01:26:34,220 - 01:26:36,100] Let's try another case.
+- [01:26:36,260 - 01:26:38,980] Let's try another state of knowledge.
+- [01:26:39,300 - 01:26:41,220] Here our state of knowledge was 0.
+- [01:26:41,240 - 01:26:42,020] We knew nothing.
+- [01:26:42,340 - 01:26:44,220] This is the maximum entropy.
+- [01:26:45,120 - 01:26:45,940] Maximum entropy,
+- [01:26:45,940 - 01:26:47,980] logarithm of capital N,
+- [01:26:48,140 - 01:26:50,480] or logarithm of 2 to the little n,
+- [01:26:50,700 - 01:26:52,220] which is n log 2.
+- [01:26:53,140 - 01:26:55,080] One bit of entropy for each coin,
+- [01:26:55,080 - 01:26:55,620] if you like.
+- [01:26:56,480 - 01:26:57,000] Okay,
+- [01:26:57,000 - 01:26:58,220] let's try something else.
+- [01:26:58,920 - 01:27:03,240] Let's try a state in which what we know is...
+- [01:27:04,719 - 01:27:05,240] Oh,
+- [01:27:05,240 - 01:27:06,160] something else.
+- [01:27:08,280 - 01:27:10,880] Supposing we know the state completely.
+- [01:27:11,240 - 01:27:12,660] In other words,
+- [01:27:12,660 - 01:27:16,160] that's the case where m is equal to 1.
+- [01:27:16,920 - 01:27:19,600] That would be the case where we know...
+- [01:27:23,300 - 01:27:27,120] that the probability is only non-zero for one state.
+- [01:27:30,000 - 01:27:31,580] Then m is 1,
+- [01:27:31,580 - 01:27:34,280] and s is 0,
+- [01:27:34,280 - 01:27:36,140] logarithm of 0.
+- [01:27:37,180 - 01:27:39,040] So absolute knowledge,
+- [01:27:39,040 - 01:27:40,220] perfect knowledge,
+- [01:27:40,220 - 01:27:42,720] complete knowledge corresponds to 0 entropy.
+- [01:27:44,160 - 01:27:45,360] The more you know,
+- [01:27:45,360 - 01:27:46,060] the bigger...
+- [01:27:46,060 - 01:27:46,980] the more you know,
+- [01:27:46,980 - 01:27:48,340] the smaller the entropy,
+- [01:27:48,340 - 01:27:49,020] excuse me.
+- [01:27:49,940 - 01:27:50,460] Okay,
+- [01:27:50,460 - 01:27:51,740] let's take a case,
+- [01:27:51,740 - 01:27:52,900] an interesting case.
+- [01:27:53,540 - 01:27:55,620] Let's take our heads and tails again.
+- [01:27:57,080 - 01:27:58,280] And here's what we know.
+- [01:27:58,500 - 01:28:02,200] We know that all of them are heads.
+- [01:28:02,620 - 01:28:03,140] Oh,
+- [01:28:03,140 - 01:28:04,180] let's begin with that.
+- [01:28:04,220 - 01:28:04,940] All of them are heads.
+- [01:28:05,000 - 01:28:05,900] What's the entropy then?
+- [01:28:10,700 - 01:28:12,380] Except for one of them,
+- [01:28:12,380 - 01:28:13,680] which is tails.
+- [01:28:14,040 - 01:28:16,420] Now supposing we know which one is tails.
+- [01:28:16,720 - 01:28:17,580] What's the entropy?
+- [01:28:19,660 - 01:28:22,100] But suppose we don't know which one is tails.
+- [01:28:22,940 - 01:28:26,350] Equal probability for all states which
+- [01:28:26,350 - 01:28:29,760] contain one tail and n-1 heads.
+- [01:28:31,000 - 01:28:31,820] What's the entropy?
+- [01:28:32,720 - 01:28:33,320] Login.
+- [01:28:33,540 - 01:28:34,180] Login.
+- [01:28:34,420 - 01:28:34,940] Okay,
+- [01:28:34,940 - 01:28:35,880] so why is it login?
+- [01:28:36,040 - 01:28:39,380] How many states are there with non-zero probability?
+- [01:28:40,379 - 01:28:43,460] The answer is little n.
+- [01:28:44,640 - 01:28:45,700] It could be this one,
+- [01:28:45,700 - 01:28:46,280] it could be this one,
+- [01:28:46,280 - 01:28:46,920] it could be this one.
+- [01:28:47,120 - 01:28:48,060] In other words,
+- [01:28:48,060 - 01:28:50,360] for this particular situation,
+- [01:28:50,360 - 01:28:53,220] capital M,
+- [01:28:53,220 - 01:28:57,500] the number of states that have non-zero probability,
+- [01:28:57,500 - 01:28:59,160] is just little n.
+- [01:29:01,220 - 01:29:03,160] All the states have the same probability.
+- [01:29:04,440 - 01:29:06,380] So we're in exactly this situation,
+- [01:29:07,459 - 01:29:10,200] except that M is just n.
+- [01:29:10,220 - 01:29:11,020] It's just equal to little n.
+- [01:29:12,280 - 01:29:13,700] n possible states,
+- [01:29:13,700 - 01:29:15,000] this one could be tails,
+- [01:29:15,000 - 01:29:15,880] this one could be tails,
+- [01:29:15,880 - 01:29:16,760] this one could be tails,
+- [01:29:17,559 - 01:29:19,180] they all have equal probability.
+- [01:29:19,860 - 01:29:21,720] So capital M is n,
+- [01:29:21,940 - 01:29:24,660] and the entropy now is for this situation,
+- [01:29:24,880 - 01:29:28,680] the entropy is equal to logarithm of little n.
+- [01:29:29,480 - 01:29:31,300] Notice that that's not an integer
+- [01:29:31,300 - 01:29:33,120] multiple of log 2 in general.
+- [01:29:33,940 - 01:29:34,760] So in general,
+- [01:29:34,760 - 01:29:37,420] entropy is not an integer multiple of log 2.
+- [01:29:37,720 - 01:29:38,240] Nevertheless,
+- [01:29:38,240 - 01:29:40,040] log 2 is a good unit
+- [01:29:42,020 - 01:29:44,220] It's a basic unit of entropy,
+- [01:29:44,220 - 01:29:44,960] it's called a bit.
+- [01:29:46,820 - 01:29:48,860] S in this case is equal to log n.
+- [01:29:55,920 - 01:29:56,320] Yes?
+- [01:29:57,440 - 01:29:59,590] The 2 and the log 2 come from the
+- [01:29:59,590 - 01:30:01,740] fact that you only have a probability of heads or
+- [01:30:01,740 - 01:30:01,980] tails,
+- [01:30:01,980 - 01:30:02,260] right?
+- [01:30:02,580 - 01:30:02,820] Yeah.
+- [01:30:02,820 - 01:30:03,740] So if you had 3,
+- [01:30:03,740 - 01:30:04,420] it'd be log 3.
+- [01:30:04,680 - 01:30:05,080] Absolutely,
+- [01:30:05,080 - 01:30:06,520] absolutely.
+- [01:30:11,959 - 01:30:12,480] Now,
+- [01:30:12,480 - 01:30:13,700] computer scientists,
+- [01:30:13,700 - 01:30:14,280] of course,
+- [01:30:14,340 - 01:30:16,580] like to think in terms of
+- [01:30:16,580 - 01:30:18,820] 2 for a variety of reasons.
+- [01:30:19,000 - 01:30:19,400] First of all,
+- [01:30:19,400 - 01:30:20,680] the mathematics of it is nice,
+- [01:30:20,680 - 01:30:24,420] but 2 is the smallest number,
+- [01:30:24,560 - 01:30:25,260] which is not 1.
+- [01:30:29,040 - 01:30:29,840] Smallest integer.
+- [01:30:30,380 - 01:30:30,900] Yeah,
+- [01:30:30,900 - 01:30:31,860] it's the smallest integer,
+- [01:30:31,860 - 01:30:32,760] not equal to 1.
+- [01:30:34,899 - 01:30:36,500] But it's also true.
+- [01:30:36,500 - 01:30:38,860] It's true that the physics that goes
+- [01:30:38,860 - 01:30:41,220] on inside your computer is connected with
+- [01:30:41,220 - 01:30:41,580] switches,
+- [01:30:41,580 - 01:30:42,940] which are either on or off.
+- [01:30:43,460 - 01:30:48,200] So counting in units of log 2 is very useful.
+- [01:30:48,740 - 01:30:49,460] Excuse me.
+- [01:30:49,560 - 01:30:49,920] Yeah?
+- [01:30:50,340 - 01:30:51,420] It's probably not important,
+- [01:30:51,420 - 01:30:53,340] but what is the base of the logarithm?
+- [01:30:55,040 - 01:30:55,560] Well,
+- [01:30:55,560 - 01:30:55,900] it doesn't,
+- [01:30:55,900 - 01:30:56,900] yeah,
+- [01:30:56,900 - 01:30:57,940] the standard,
+- [01:30:58,100 - 01:30:59,940] this is a definition,
+- [01:30:59,940 - 01:31:01,060] of course.
+- [01:31:01,120 - 01:31:01,700] This is a definition.
+- [01:31:02,180 - 01:31:03,140] The definition,
+- [01:31:03,140 - 01:31:04,120] okay,
+- [01:31:04,120 - 01:31:04,980] good.
+- [01:31:06,500 - 01:31:09,780] It depends on who you are.
+- [01:31:09,920 - 01:31:11,980] If you're an information theorist,
+- [01:31:11,980 - 01:31:15,420] a computer scientist often,
+- [01:31:15,420 - 01:31:17,880] or a disciple of Shannon,
+- [01:31:18,760 - 01:31:21,040] then you like log to the base 2.
+- [01:31:22,120 - 01:31:23,020] In which case,
+- [01:31:23,020 - 01:31:24,120] this is just 1,
+- [01:31:24,120 - 01:31:28,720] and the entropy here is just n,
+- [01:31:28,720 - 01:31:32,240] measured in units of bits.
+- [01:31:33,240 - 01:31:34,220] If you're a physicist,
+- [01:31:37,200 - 01:31:39,520] then you usually work in base e.
+- [01:31:40,720 - 01:31:41,220] Okay?
+- [01:31:41,440 - 01:31:43,980] But the relationship is just a multiplicative,
+- [01:31:43,980 - 01:31:44,900] you know,
+- [01:31:45,760 - 01:31:49,880] log to the base e and log to the base 2
+- [01:31:49,880 - 01:31:54,000] are just related by a numerical factor that's always the same.
+- [01:31:54,820 - 01:31:55,320] Okay,
+- [01:31:55,320 - 01:31:57,640] so when I write log,
+- [01:31:57,640 - 01:31:58,220] l-o-g,
+- [01:31:58,220 - 01:32:00,180] I mean log to the base e,
+- [01:32:00,740 - 01:32:03,200] but very little would change if we
+- [01:32:03,200 - 01:32:05,660] used some other base for the logs.
+- [01:32:05,980 - 01:32:06,480] Okay?
+- [01:32:07,940 - 01:32:08,540] So there we are.
+- [01:32:08,540 - 01:32:08,540] Okay,
+- [01:32:08,540 - 01:32:09,580] so there we are.
+- [01:32:22,600 - 01:32:25,040] Let me just tell you what the
+- [01:32:25,040 - 01:32:27,480] definition is of the entropy in phase space.
+- [01:32:32,940 - 01:32:34,760] If we're not talking about,
+- [01:32:34,760 - 01:32:35,200] um,
+- [01:32:41,360 - 01:32:43,320] If we're not talking about
+- [01:32:43,320 - 01:32:45,280] these finite discrete systems like this,
+- [01:32:46,000 - 01:32:48,680] we're talking about continuously infinite systems,
+- [01:32:48,680 - 01:32:50,140] phase space,
+- [01:32:50,920 - 01:32:52,900] and let's begin supposing the
+- [01:32:52,900 - 01:32:54,880] probability distribution is just some blob
+- [01:32:55,480 - 01:32:57,750] where the probabilities are equal inside
+- [01:32:57,750 - 01:33:00,020] the blob and zero outside the blob.
+- [01:33:00,260 - 01:33:00,800] In other words,
+- [01:33:00,800 - 01:33:01,580] the simple situation.
+- [01:33:02,100 - 01:33:05,380] Then the definition of the entropy is simply,
+- [01:33:05,380 - 01:33:05,700] well,
+- [01:33:05,700 - 01:33:06,420] you could say,
+- [01:33:06,500 - 01:33:08,200] the logarithm of the number of states,
+- [01:33:08,200 - 01:33:10,180] but how many states are there in here?
+- [01:33:10,660 - 01:33:13,360] Clearly a continuous infinity of them.
+- [01:33:13,900 - 01:33:14,820] So instead,
+- [01:33:14,820 - 01:33:18,000] you just say it's the log of the
+- [01:33:18,000 - 01:33:21,180] volume of the probability distribution in phase space.
+- [01:33:21,940 - 01:33:26,210] S for a continuous system is just defined to
+- [01:33:26,210 - 01:33:30,480] be the logarithm of the volume in phase space.
+- [01:33:30,640 - 01:33:30,900] Now,
+- [01:33:30,900 - 01:33:31,820] if I wrote v,
+- [01:33:32,519 - 01:33:34,159] you might get the sense that
+- [01:33:34,159 - 01:33:35,800] I'm talking about volume in space.
+- [01:33:37,339 - 01:33:37,980] No,
+- [01:33:37,980 - 01:33:40,800] I'm talking about the logarithm in phase space,
+- [01:33:40,980 - 01:33:42,760] the volume in the phase space.
+- [01:33:43,220 - 01:33:45,400] The phase space is high dimensional.
+- [01:33:46,140 - 01:33:48,800] Whatever the dimensionality of the phase space is,
+- [01:33:48,960 - 01:33:51,520] the volume is measured in those kind of,
+- [01:33:51,520 - 01:33:52,400] in units of,
+- [01:33:52,400 - 01:33:52,560] uh,
+- [01:33:54,119 - 01:33:54,759] uh,
+- [01:33:54,759 - 01:33:57,319] momentum times velocity to the power of
+- [01:33:57,319 - 01:33:59,880] the number of coordinates in the system.
+- [01:34:00,180 - 01:34:00,780] Alright,
+- [01:34:00,780 - 01:34:02,920] but s is equal to the
+- [01:34:02,920 - 01:34:05,060] logarithm of the phase space volume.
+- [01:34:05,420 - 01:34:06,380] Let's call it p.
+- [01:34:06,500 - 01:34:08,240] v phase space.
+- [01:34:10,600 - 01:34:14,550] That's under the volume of the region which
+- [01:34:14,550 - 01:34:18,500] is occupied and has a non-zero probability distribution.
+- [01:34:19,020 - 01:34:21,100] This is the closest analog that
+- [01:34:21,100 - 01:34:23,180] we can think of to log m,
+- [01:34:23,960 - 01:34:26,800] where m represents the number of
+- [01:34:26,800 - 01:34:29,640] equally probable states of the discrete system.
+- [01:34:30,220 - 01:34:31,440] More generally,
+- [01:34:31,440 - 01:34:32,400] if we want,
+- [01:34:32,400 - 01:34:35,100] if we have some arbitrary probability distribution,
+- [01:34:35,440 - 01:34:35,960] the arbitrary probability distribution is the
+- [01:34:35,960 - 01:34:36,480] number of states in the discrete system.
+- [01:34:36,500 - 01:34:36,680] So,
+- [01:34:36,680 - 01:34:37,760] if we have some arbitrary probability distribution,
+- [01:34:37,760 - 01:34:38,460] p,
+- [01:34:38,700 - 01:34:39,920] what would p probability,
+- [01:34:39,920 - 01:34:41,480] what would it be a function of?
+- [01:34:46,240 - 01:34:48,440] It would be a function of all
+- [01:34:48,440 - 01:34:50,640] of the coordinates and all of the momenta.
+- [01:34:51,980 - 01:34:55,620] That's all of the momenta and all of the coordinates.
+- [01:34:55,920 - 01:34:58,440] P's and Q's or P's and X's,
+- [01:34:58,440 - 01:34:59,300] whichever you like.
+- [01:34:59,780 - 01:35:00,640] All of them.
+- [01:35:01,960 - 01:35:02,480] Probability
+- [01:35:04,099 - 01:35:04,620] for
+- [01:35:04,620 - 01:35:07,210] the system to be located at
+- [01:35:07,210 - 01:35:09,800] point of phase space p and X.
+- [01:35:10,060 - 01:35:10,780] Incidentally,
+- [01:35:10,780 - 01:35:13,420] when you have continuous variables like that,
+- [01:35:13,700 - 01:35:15,660] do you write that the
+- [01:35:15,660 - 01:35:17,620] sum is all equal to one?
+- [01:35:19,800 - 01:35:21,180] That wouldn't make sense.
+- [01:35:21,460 - 01:35:25,760] You can't sum over a continuously infinite set of variables.
+- [01:35:26,700 - 01:35:28,140] It becomes integral.
+- [01:35:33,480 - 01:35:34,600] We'll come back to that in a minute.
+- [01:35:34,600 - 01:35:39,080] But let's just spell it out right now.
+- [01:35:39,760 - 01:35:41,740] That if you have a
+- [01:35:41,740 - 01:35:43,720] probability distribution on a phase space,
+- [01:35:44,100 - 01:35:45,770] the rule is that the integral
+- [01:35:45,770 - 01:35:47,440] of it is equal to one.
+- [01:35:48,820 - 01:35:52,380] P is really a probability density on phase space.
+- [01:35:52,700 - 01:35:56,220] It's a probability per unit cell in phase space.
+- [01:35:56,780 - 01:35:59,000] And what would you expect the entropy to be?
+- [01:36:03,440 - 01:36:04,400] I'll give you a hint.
+- [01:36:04,480 - 01:36:05,460] It starts out with minus.
+- [01:36:11,200 - 01:36:13,600] Where's the formula that we had here before?
+- [01:36:13,660 - 01:36:15,480] Let's rewrite the formula that we had before.
+- [01:36:17,060 - 01:36:20,650] S is equal to minus summation over I
+- [01:36:20,650 - 01:36:24,240] of P sub I log of P sub I.
+- [01:36:27,300 - 01:36:28,880] To go to the continuous,
+- [01:36:28,980 - 01:36:31,980] you simply replace sum by integral.
+- [01:36:33,860 - 01:36:37,340] So there's an integral over the phase space.
+- [01:36:38,860 - 01:36:40,660] That's like the sum over I.
+- [01:36:41,520 - 01:36:45,060] And then probability of P and
+- [01:36:45,060 - 01:36:48,600] Q times the logarithm of the probability.
+- [01:36:54,760 - 01:36:57,040] But in first approximation,
+- [01:36:57,540 - 01:36:58,960] I don't mean first approximation of the number of times,
+- [01:36:58,980 - 01:36:59,520] numerically.
+- [01:36:59,640 - 01:37:01,260] I mean first conceptual approximation.
+- [01:37:02,120 - 01:37:05,820] It's measuring the logarithm of the volume of the blob,
+- [01:37:06,100 - 01:37:08,460] the probability blob in phase space.
+- [01:37:09,200 - 01:37:09,780] OK.
+- [01:37:10,660 - 01:37:12,200] Why did you move from X to Q?
+- [01:37:12,400 - 01:37:12,860] Oh,
+- [01:37:12,860 - 01:37:13,640] I could,
+- [01:37:13,640 - 01:37:14,120] no.
+- [01:37:16,020 - 01:37:16,600] Mistake.
+- [01:37:30,219 - 01:37:31,740] In classical mechanics,
+- [01:37:32,100 - 01:37:36,680] X's and Q's are coordinates and P's are momenta.
+- [01:37:37,740 - 01:37:38,560] But you know that.
+- [01:37:40,160 - 01:37:40,800] OK.
+- [01:37:40,920 - 01:37:45,920] So we've now defined entropy,
+- [01:37:48,320 - 01:37:48,960] which,
+- [01:37:48,960 - 01:37:49,860] as we've seen,
+- [01:37:50,000 - 01:37:51,660] depends on a probability distribution.
+- [01:37:53,260 - 01:37:55,040] I'm going to go one
+- [01:37:55,040 - 01:37:56,820] more step tonight and define temperature.
+- [01:37:56,820 - 01:37:57,360] Well,
+- [01:37:57,360 - 01:37:59,500] we could stop here.
+- [01:38:07,560 - 01:38:09,360] I think that's probably enough for one night.
+- [01:38:09,880 - 01:38:11,320] Next time we'll do temperature
+- [01:38:11,960 - 01:38:16,060] and then discuss the Boltzmann distribution,
+- [01:38:18,019 - 01:38:20,049] which is the probability
+- [01:38:20,049 - 01:38:22,080] distribution for thermal equilibrium.
+- [01:38:22,420 - 01:38:24,900] We haven't quite defined thermal equilibrium yet,
+- [01:38:24,940 - 01:38:25,380] but we will.
+- [01:38:35,480 - 01:38:36,740] You can ask some questions.
+- [01:38:36,820 - 01:38:38,000] I don't mind some questions now.
+- [01:38:38,140 - 01:38:38,360] I just,
+- [01:38:38,360 - 01:38:41,040] I have a feeling that I've probably done enough
+- [01:38:41,040 - 01:38:41,680] for one night.
+- [01:38:43,459 - 01:38:47,220] There seems to be an assumption that the
+- [01:38:47,220 - 01:38:52,000] the other one is this.
+- [01:38:52,200 - 01:38:52,760] Oh.
+- [01:38:53,080 - 01:38:56,800] That if you get any,
+- [01:38:56,800 - 01:38:59,640] if the probability of the next one is ahead,
+- [01:38:59,820 - 01:39:00,700] that this...
+- [01:39:00,700 - 01:39:01,360] Well,
+- [01:39:01,360 - 01:39:02,600] I haven't made any such assumption.
+- [01:39:02,900 - 01:39:04,480] I haven't made any such assumption.
+- [01:39:04,620 - 01:39:08,040] My only assumption in calculating the various entropies
+- [01:39:08,040 - 01:39:10,140] was either that you know nothing,
+- [01:39:10,320 - 01:39:11,740] or I told you what you know.
+- [01:39:12,720 - 01:39:14,220] How you got to know that
+- [01:39:14,220 - 01:39:15,680] and what the reasoning was
+- [01:39:15,680 - 01:39:17,320] and whether it had to do
+- [01:39:17,320 - 01:39:18,960] with knowing something about the dynamics
+- [01:39:18,960 - 01:39:20,640] and the independence and so forth
+- [01:39:24,440 - 01:39:26,640] may come into your calculations.
+- [01:39:26,640 - 01:39:26,900] So,
+- [01:39:26,900 - 01:39:27,820] it's not really a correlation of what P is,
+- [01:39:29,199 - 01:39:31,680] but in saying you know nothing,
+- [01:39:31,900 - 01:39:35,500] the implication was that all states are equally probable.
+- [01:39:38,320 - 01:39:41,520] Without asking how you knew that,
+- [01:39:42,540 - 01:39:45,220] to say that all states are equally probable
+- [01:39:46,940 - 01:39:51,080] is closely related to saying that there are no correlations.
+- [01:39:52,160 - 01:39:55,280] It does say that if you...
+- [01:39:55,280 - 01:39:55,560] All right,
+- [01:39:55,560 - 01:39:56,000] let's...
+- [01:39:56,000 - 01:39:56,260] Good.
+- [01:39:56,520 - 01:39:58,640] Let's talk about correlations for a moment.
+- [01:39:59,060 - 01:40:02,500] To say that you know nothing means you know nothing.
+- [01:40:02,660 - 01:40:03,140] So,
+- [01:40:03,140 - 01:40:03,780] in particular,
+- [01:40:03,780 - 01:40:06,680] if you begin knowing nothing
+- [01:40:06,680 - 01:40:09,020] and you measure one of the coins,
+- [01:40:09,660 - 01:40:11,340] what do you know about the other ones?
+- [01:40:13,100 - 01:40:13,580] Nothing.
+- [01:40:14,940 - 01:40:15,420] Nothing.
+- [01:40:15,460 - 01:40:17,080] You started knowing nothing about them,
+- [01:40:17,160 - 01:40:18,160] you measured one of them,
+- [01:40:18,260 - 01:40:19,940] you still know nothing about the other ones.
+- [01:40:19,940 - 01:40:20,300] Of course,
+- [01:40:20,300 - 01:40:21,920] you know about the one that you measured.
+- [01:40:22,880 - 01:40:23,360] Now,
+- [01:40:23,360 - 01:40:25,480] let's take the other case that we studied.
+- [01:40:25,720 - 01:40:31,240] Supposing we know that all coins are heads
+- [01:40:31,240 - 01:40:32,620] except for one which is tails,
+- [01:40:33,780 - 01:40:37,660] and we now measure one of them
+- [01:40:38,280 - 01:40:40,400] and we find that it's tails.
+- [01:40:40,780 - 01:40:42,720] What can we say about some other one?
+- [01:40:44,140 - 01:40:45,700] It's surely heads.
+- [01:40:47,220 - 01:40:49,920] What if we measure that that one is heads
+- [01:40:49,940 - 01:40:51,960] what do we know about the other ones?
+- [01:40:52,680 - 01:40:54,060] It changes the probability.
+- [01:40:54,080 - 01:40:55,600] It changes the probability.
+- [01:40:55,880 - 01:40:58,050] What's the new probability that one
+- [01:40:58,050 - 01:41:00,220] of the other ones is tails?
+- [01:41:01,980 - 01:41:02,540] Right.
+- [01:41:02,860 - 01:41:06,280] It's 1 over n minus 1 instead of 1 over...
+- [01:41:06,280 - 01:41:06,660] Sorry,
+- [01:41:06,660 - 01:41:07,320] 1 over...
+- [01:41:07,320 - 01:41:07,680] Yeah,
+- [01:41:07,680 - 01:41:08,740] 1 over n minus 1.
+- [01:41:09,339 - 01:41:09,900] So,
+- [01:41:09,900 - 01:41:11,020] that's correlation.
+- [01:41:11,860 - 01:41:15,120] That's correlation where when you measure something
+- [01:41:15,120 - 01:41:17,120] you learn something new
+- [01:41:17,120 - 01:41:19,920] or the probability distribution for the other things.
+- [01:41:19,940 - 01:41:21,980] is modified by measuring something.
+- [01:41:22,640 - 01:41:23,960] That's called correlation.
+- [01:41:25,740 - 01:41:27,300] For the complete ignorance,
+- [01:41:27,300 - 01:41:28,680] there is no correlation.
+- [01:41:29,140 - 01:41:32,460] For any other kind of configuration in general
+- [01:41:32,460 - 01:41:34,620] there's very likely to be some...
+- [01:41:34,620 - 01:41:36,300] not necessarily,
+- [01:41:36,300 - 01:41:38,960] but there's very likely to be some correlation.
+- [01:41:41,240 - 01:41:41,920] Correlation,
+- [01:41:41,920 - 01:41:42,380] as I said,
+- [01:41:42,380 - 01:41:43,440] means you learn something
+- [01:41:43,440 - 01:41:47,040] about the probability distribution of other things
+- [01:41:47,040 - 01:41:48,480] by measuring the first one.
+- [01:41:48,480 - 01:41:51,680] Or you modify the probability distribution.
+- [01:41:52,920 - 01:41:53,360] Good.
+- [01:41:53,360 - 01:41:53,980] Okay.
+- [01:41:55,520 - 01:41:56,440] I don't know if that's
+- [01:41:56,440 - 01:41:57,360] what you asked about or not,
+- [01:41:57,360 - 01:41:57,900] but yeah.
+- [01:41:58,260 - 01:41:58,700] Okay.
+- [01:41:59,580 - 01:42:00,140] All right.
+- [01:42:01,820 - 01:42:02,260] Well,
+- [01:42:02,260 - 01:42:04,040] such as that original system there
+- [01:42:04,040 - 01:42:05,380] where we had two parts.
+- [01:42:05,680 - 01:42:07,120] Once we measured one thing
+- [01:42:07,120 - 01:42:09,800] we had to conserve quantity.
+- [01:42:11,080 - 01:42:11,800] What's that again?
+- [01:42:12,180 - 01:42:14,040] We had to conserve quantity there
+- [01:42:14,040 - 01:42:15,420] that once we did one measurement
+- [01:42:15,420 - 01:42:16,800] we knew which side we were on.
+- [01:42:16,800 - 01:42:17,380] Yeah.
+- [01:42:20,879 - 01:42:21,559] Incidentally,
+- [01:42:21,559 - 01:42:23,260] entropy is additive.
+- [01:42:24,440 - 01:42:25,400] It's additive.
+- [01:42:25,660 - 01:42:28,280] It's the sum of the entropies of all the individuals.
+- [01:42:28,500 - 01:42:30,060] It's proportional to the number of things.
+- [01:42:30,360 - 01:42:33,060] It's additive whenever there is no correlation.
+- [01:42:34,500 - 01:42:35,800] When there's no correlation,
+- [01:42:35,800 - 01:42:36,660] it's additive.
+- [01:42:37,300 - 01:42:37,820] Now,
+- [01:42:37,820 - 01:42:43,580] so uncorrelated systems have additive entropies.
+- [01:42:45,839 - 01:42:46,820] We'll come back.
+- [01:42:46,860 - 01:42:49,580] That's a theme that we'll come back to in...
+- [01:42:55,240 - 01:42:56,600] Here's an interesting question.
+- [01:43:00,000 - 01:43:00,560] Supposing...
+- [01:43:01,440 - 01:43:02,480] Here's what you know.
+- [01:43:03,420 - 01:43:07,680] You know that if you measure a coin up
+- [01:43:08,759 - 01:43:11,200] then with three-quarter probability
+- [01:43:12,500 - 01:43:13,560] it's two-ninths
+- [01:43:13,580 - 01:43:15,080] they're laid out in a row.
+- [01:43:16,040 - 01:43:17,860] If you measure one of them and it's up
+- [01:43:18,520 - 01:43:20,620] then the probability for its neighbors
+- [01:43:20,620 - 01:43:23,020] is three-quarters to be down.
+- [01:43:24,300 - 01:43:25,600] That's what you're given.
+- [01:43:27,120 - 01:43:28,220] That's all you know.
+- [01:43:28,600 - 01:43:29,840] That's all you know is that
+- [01:43:29,840 - 01:43:31,080] if one of them is up
+- [01:43:31,720 - 01:43:33,180] if any one of them is up
+- [01:43:33,180 - 01:43:37,280] its neighbors are three-quarters likely to be down.
+- [01:43:37,480 - 01:43:40,480] It's an interesting thing to try to calculate the entropy
+- [01:43:40,480 - 01:43:41,540] of such a distribution.
+- [01:43:44,000 - 01:43:45,100] That is correlated,
+- [01:43:45,100 - 01:43:45,680] of course.
+- [01:43:45,760 - 01:43:48,400] That is correlated because when you measure one
+- [01:43:49,120 - 01:43:51,400] you immediately know something about its neighbor.
+- [01:43:52,000 - 01:43:52,520] Well,
+- [01:43:52,520 - 01:43:54,520] make up your own example like that.
+- [01:43:54,560 - 01:43:55,880] Make up your own example like that
+- [01:43:55,880 - 01:43:57,420] and compute the entropy.
+- [01:43:58,340 - 01:43:59,700] You'll learn something from it.
+- [01:44:00,240 - 01:44:00,760] Okay,
+- [01:44:00,760 - 01:44:02,380] any other questions before we go home?
+- [01:44:05,239 - 01:44:05,759] Yeah,
+- [01:44:05,759 - 01:44:06,760] one great one.
+- [01:44:08,659 - 01:44:11,440] That information theory in 1949.
+- [01:44:12,100 - 01:44:12,400] Mm-hmm.
+- [01:44:12,400 - 01:44:15,060] Physicists had entropy a long time before that.
+- [01:44:15,120 - 01:44:17,000] Are you discussing the relationship
+- [01:44:17,000 - 01:44:19,120] between the old entropy and the...
+- [01:44:19,120 - 01:44:20,220] Not particularly.
+- [01:44:22,400 - 01:44:27,840] The formula here is due to Boltzmann.
+- [01:44:29,020 - 01:44:29,960] I think,
+- [01:44:29,960 - 01:44:31,540] is this the one that's on Boltzmann's tomb?
+- [01:44:31,700 - 01:44:32,200] I'm not sure.
+- [01:44:33,040 - 01:44:34,380] What's on Boltzmann's tomb?
+- [01:44:36,900 - 01:44:39,380] S equals entropy minus 1w.
+- [01:44:40,060 - 01:44:41,220] Minus 1w.
+- [01:44:41,220 - 01:44:42,200] Minus 1w.
+- [01:44:46,480 - 01:44:47,540] He meant this.
+- [01:44:50,000 - 01:44:50,560] Well,
+- [01:44:50,560 - 01:44:51,700] he did write this.
+- [01:44:51,820 - 01:44:53,400] This is Boltzmann's formula,
+- [01:44:53,400 - 01:44:55,280] final formula for entropy.
+- [01:44:56,540 - 01:44:59,440] And the only difference between the Shannon entropy
+- [01:44:59,440 - 01:45:03,320] and the Boltzmann entropy is that Shannon used log 2.
+- [01:45:03,420 - 01:45:03,860] Now of course,
+- [01:45:03,860 - 01:45:06,160] Shannon discovered this entirely by himself.
+- [01:45:06,460 - 01:45:10,080] He didn't know Boltzmann's work.
+- [01:45:10,780 - 01:45:11,340] And,
+- [01:45:11,340 - 01:45:11,540] uh,
+- [01:45:11,540 - 01:45:12,380] from what I know,
+- [01:45:12,380 - 01:45:14,730] from an entirely different direction from
+- [01:45:14,730 - 01:45:17,080] information theory rather than from thermodynamics
+- [01:45:17,389 - 01:45:19,680] but none of it would have surprised Boltzmann
+- [01:45:20,889 - 01:45:22,774] nor do I think Boltzmann's
+- [01:45:22,774 - 01:45:24,660] definition would have surprised Shannon
+- [01:45:25,389 - 01:45:26,800] so they're really the same thing
+- [01:45:27,230 - 01:45:29,920] there's no real point in comparing them because
+- [01:45:29,920 - 01:45:31,680] comparing them they are the same
+- [01:45:31,680 - 01:45:32,820] there's no real difference
+- [01:45:36,670 - 01:45:37,920] Shannon may have
+- [01:45:37,920 - 01:45:39,680] I don't know whether he did or
+- [01:45:39,680 - 01:45:41,440] not put the minus sign in here
+- [01:45:42,380 - 01:45:43,820] if you don't put the minus
+- [01:45:43,820 - 01:45:45,260] sign in there it's called information
+- [01:45:45,860 - 01:45:47,750] if you put the minus
+- [01:45:47,750 - 01:45:49,640] sign it's called lack of information
+- [01:45:51,580 - 01:45:52,540] or entropy
+- [01:45:55,420 - 01:45:58,140] so I don't know which Shannon wrote down
+- [01:46:00,000 - 01:46:00,960] but anyway
+- [01:46:02,960 - 01:46:04,140] Shannon wrote down entropy
+- [01:46:04,140 - 01:46:05,060] he did?
+- [01:46:07,920 - 01:46:10,520] is there a simple way
+- [01:46:10,520 - 01:46:13,120] to relate to Heisenberg's uncertainty principle
+- [01:46:14,660 - 01:46:17,260] there's no no no this is a separate issue
+- [01:46:17,260 - 01:46:22,040] this doesn't have to do with quantum mechanical uncertainty
+- [01:46:23,660 - 01:46:25,790] it has to do with
+- [01:46:25,790 - 01:46:27,920] the uncertainty implicit in mixed states
+- [01:46:27,920 - 01:46:30,240] not the uncertainty implicit in pure states
+- [01:46:36,019 - 01:46:36,700] okay
+- [01:46:37,920 - 01:46:38,320] I looked it up
+- [01:46:38,920 - 01:46:42,560] entropy equals k log w
+- [01:46:42,560 - 01:46:45,400] oh boy
+- [01:46:45,400 - 01:46:50,100] yeah there's a conversion factor
+- [01:46:50,100 - 01:46:52,060] you know
+- [01:46:52,060 - 01:46:55,420] c equals h bar equals
+- [01:46:55,420 - 01:46:58,780] g equals Boltzmann's constant equals one
+- [01:47:01,340 - 01:47:03,140] very natural
+- [01:47:07,920 - 01:47:10,590] Boltzmann's constant was a conversion factor
+- [01:47:10,590 - 01:47:13,260] from temperature to um to energy
+- [01:47:13,260 - 01:47:17,120] the natural unit for temperature is really energy
+- [01:47:17,780 - 01:47:20,400] but the energy of a molecule for example
+- [01:47:20,660 - 01:47:24,700] is approximately equal to its temperature in certain units
+- [01:47:24,700 - 01:47:28,040] those units contain a conversion factor k Boltzmann
+- [01:47:28,700 - 01:47:31,480] I'll remind me to talk about k Boltzmann
+- [01:47:33,700 - 01:47:36,920] for more please visit us at stanford.edu
+- [01:47:37,920 - 01:47:38,100] thank you
