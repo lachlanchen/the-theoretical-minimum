@@ -1,0 +1,3042 @@
+# Transcript
+
+Source: core/special_relativity/2012_spring_theoretical_minimum/138 - Special Relativity ｜ Lecture 5 [_DtwlC5e8J8].mkv
+
+- [00:00:05,099 - 00:00:06,180] Stanford University
+- [00:00:09,059 - 00:00:10,589] Are there any other questions that
+- [00:00:10,589 - 00:00:12,120] I can answer in five minutes?
+- [00:00:13,940 - 00:00:17,360] You mentioned last week that a person traveling near
+- [00:00:17,360 - 00:00:20,780] the speed of light would measure at a longer wavelength.
+- [00:00:21,660 - 00:00:22,200] Well,
+- [00:00:22,200 - 00:00:24,040] it depends on which way he's going.
+- [00:00:26,180 - 00:00:27,920] If the light wave is going that way,
+- [00:00:27,920 - 00:00:30,600] and you're moving with it,
+- [00:00:30,600 - 00:00:32,439] then the wavelength looks longer
+- [00:00:32,439 - 00:00:34,280] than if you were standing still.
+- [00:00:34,440 - 00:00:35,480] If you're moving the other way,
+- [00:00:35,480 - 00:00:36,240] it looks shorter.
+- [00:00:40,120 - 00:00:41,160] That's the Doppler shift.
+- [00:00:43,540 - 00:00:43,940] And,
+- [00:00:43,940 - 00:00:45,820] alright,
+- [00:00:45,820 - 00:00:47,520] let me tell you how you can work it out.
+- [00:00:47,600 - 00:00:49,300] You can work it out just from geometry,
+- [00:00:49,300 - 00:00:51,560] from the geometry of the Lorentz transformations.
+- [00:00:53,620 - 00:00:54,020] So,
+- [00:00:54,020 - 00:00:54,020] here's the geometry.
+- [00:00:57,620 - 00:00:58,680] Here's what you do.
+- [00:00:59,620 - 00:01:00,180] Alright,
+- [00:01:00,180 - 00:01:01,140] first of all,
+- [00:01:01,140 - 00:01:07,520] let's do the usual drawing of two coordinate frames.
+- [00:01:11,580 - 00:01:13,800] One of them is at rest.
+- [00:01:13,800 - 00:01:14,680] That's your frame.
+- [00:01:15,120 - 00:01:17,380] And my frame is moving to the right.
+- [00:01:18,740 - 00:01:23,920] And so my frame looks like this.
+- [00:01:23,960 - 00:01:24,000] Alright.
+- [00:01:26,360 - 00:01:27,680] Let's draw in one more thing.
+- [00:01:27,740 - 00:01:29,160] Let's draw in the speed of light.
+- [00:01:38,520 - 00:01:39,240] It's like that.
+- [00:01:40,420 - 00:01:40,880] Alright,
+- [00:01:40,880 - 00:01:44,960] now imagine that there was a wave.
+- [00:01:46,420 - 00:01:47,420] And think about,
+- [00:01:47,420 - 00:01:48,520] here's the wave.
+- [00:01:51,020 - 00:01:52,800] And the wave is moving to the right.
+- [00:01:55,100 - 00:01:56,420] As it moves to the right,
+- [00:01:56,420 - 00:02:00,700] we can follow the peaks of the wave,
+- [00:02:00,700 - 00:02:02,180] the high points of the wave.
+- [00:02:04,579 - 00:02:06,300] And I'm going to draw them in in red.
+- [00:02:07,120 - 00:02:09,139] They're also going to move with the speed of light.
+- [00:02:09,919 - 00:02:11,320] So they're going to look like this.
+- [00:02:24,160 - 00:02:26,080] Notice that as you move up,
+- [00:02:26,080 - 00:02:28,080] meaning as time goes forward,
+- [00:02:28,680 - 00:02:30,160] as time goes forward,
+- [00:02:30,160 - 00:02:31,660] the wave moves to the right.
+- [00:02:32,420 - 00:02:34,060] So that's a right moving wave.
+- [00:02:34,380 - 00:02:35,620] And what's the wavelength?
+- [00:02:35,820 - 00:02:38,670] The wavelength in your frame of
+- [00:02:38,670 - 00:02:41,520] reference is this distance over here.
+- [00:02:43,480 - 00:02:48,000] The distance between successive maxima.
+- [00:02:50,400 - 00:02:53,540] What's the wavelength in my frame?
+- [00:02:53,780 - 00:03:01,040] The wavelength in my frame is this distance,
+- [00:03:01,200 - 00:03:04,830] but this distance as measured using
+- [00:03:04,830 - 00:03:08,460] relativity and using the Lorentz transformations.
+- [00:03:09,100 - 00:03:10,580] In other words,
+- [00:03:10,580 - 00:03:17,980] this distance here is the distance between the two maxima,
+- [00:03:17,980 - 00:03:22,060] at what you call an instant of time.
+- [00:03:22,800 - 00:03:26,400] And the wavelength to me is the distance between the
+- [00:03:26,400 - 00:03:30,000] two maxima at what I call an instant of time.
+- [00:03:30,660 - 00:03:31,260] So,
+- [00:03:31,260 - 00:03:33,100] if you work out the Lorentz transformations,
+- [00:03:35,380 - 00:03:38,720] and you look along here and ask,
+- [00:03:38,780 - 00:03:40,830] what's the distance between these
+- [00:03:40,830 - 00:03:42,880] two points in my reference frame,
+- [00:03:43,060 - 00:03:45,500] and compare it with the distance along here,
+- [00:03:45,500 - 00:03:46,420] you'll find they're different.
+- [00:03:47,980 - 00:03:49,540] That would give you the Doppler shift.
+- [00:03:49,900 - 00:03:51,640] You have the tools to do that.
+- [00:03:51,720 - 00:03:52,380] You can do that.
+- [00:03:52,380 - 00:03:53,620] You know the Lorentz transformations.
+- [00:03:54,540 - 00:03:58,060] You can figure out what the core...
+- [00:03:58,060 - 00:03:59,480] Let's say the wave...
+- [00:03:59,480 - 00:03:59,620] Well,
+- [00:03:59,620 - 00:04:00,300] here's some wavelength,
+- [00:04:00,300 - 00:04:01,280] some particular wavelength.
+- [00:04:02,300 - 00:04:04,340] You can figure out what this point is.
+- [00:04:04,480 - 00:04:06,220] You can figure out what this point is.
+- [00:04:06,460 - 00:04:08,430] And you can ask what's
+- [00:04:08,430 - 00:04:10,400] the x prime distance between them.
+- [00:04:11,460 - 00:04:13,540] x prime is my coordinate.
+- [00:04:14,000 - 00:04:15,340] x is your coordinate.
+- [00:04:15,760 - 00:04:17,800] The x distance between these,
+- [00:04:17,980 - 00:04:18,980] is lambda.
+- [00:04:19,480 - 00:04:20,870] And you can figure out
+- [00:04:20,870 - 00:04:22,260] what the x prime distance is.
+- [00:04:22,360 - 00:04:26,440] And that's the way to calculate the Doppler shift.
+- [00:04:27,360 - 00:04:31,370] So I recommend it as an
+- [00:04:31,370 - 00:04:35,380] exercise in working with Lorentz transformations.
+- [00:04:35,760 - 00:04:35,940] Yeah?
+- [00:04:36,840 - 00:04:39,430] Is the next course in the
+- [00:04:39,430 - 00:04:42,020] sequence going to be next fall?
+- [00:04:42,420 - 00:04:42,800] Yeah.
+- [00:04:43,080 - 00:04:44,160] There's nothing this summer?
+- [00:04:44,420 - 00:04:44,660] No.
+- [00:04:44,740 - 00:04:45,140] No,
+- [00:04:45,140 - 00:04:45,240] no,
+- [00:04:45,240 - 00:04:45,360] no,
+- [00:04:45,360 - 00:04:45,460] no.
+- [00:04:47,980 - 00:04:49,380] And what's the other part?
+- [00:04:49,600 - 00:04:50,200] Do you know yet?
+- [00:04:54,160 - 00:04:55,160] Take a vote.
+- [00:04:55,820 - 00:04:56,720] I'm not sure.
+- [00:05:00,659 - 00:05:01,860] I think...
+- [00:05:05,060 - 00:05:06,360] Possibly general relativity.
+- [00:05:09,560 - 00:05:11,080] Possibly more quantum mechanics.
+- [00:05:13,780 - 00:05:17,480] Our coverage of quantum mechanics was reasonably deep
+- [00:05:17,980 - 00:05:19,220] but not very broad.
+- [00:05:20,020 - 00:05:22,240] Having not gotten to the harmonic oscillator,
+- [00:05:22,560 - 00:05:23,420] that's a bad thing.
+- [00:05:24,200 - 00:05:28,100] So I think before we study quantum field theory,
+- [00:05:28,840 - 00:05:31,540] we do have to study more quantum mechanics.
+- [00:05:32,960 - 00:05:35,760] But I'm not sure which way to go next quarter.
+- [00:05:35,880 - 00:05:37,240] And I haven't decided yet.
+- [00:05:37,480 - 00:05:38,780] Can I make a small request?
+- [00:05:39,000 - 00:05:39,100] Yeah.
+- [00:05:39,920 - 00:05:41,920] Whatever it is that you have,
+- [00:05:42,720 - 00:05:47,080] could you cover infrared and ultraviolet connection?
+- [00:05:47,620 - 00:05:48,100] Yeah.
+- [00:05:49,120 - 00:05:49,600] Yeah.
+- [00:05:50,320 - 00:05:52,920] We have to do general relativity first.
+- [00:05:53,480 - 00:05:55,000] That's a gravitational issue.
+- [00:05:55,940 - 00:05:57,200] We haven't studied gravity.
+- [00:05:59,140 - 00:06:00,860] That's an issue of a
+- [00:06:00,860 - 00:06:02,580] combination of quantum mechanics and gravity.
+- [00:06:03,999 - 00:06:06,840] We may know enough about quantum mechanics at this point,
+- [00:06:06,920 - 00:06:07,940] but not enough about gravity.
+- [00:06:10,479 - 00:06:11,819] The scales are not the
+- [00:06:11,819 - 00:06:13,160] same on X and X prime.
+- [00:06:13,320 - 00:06:13,820] Is that correct?
+- [00:06:15,320 - 00:06:17,060] What do you mean the scales are not the same?
+- [00:06:17,060 - 00:06:18,700] You can't just look at the blackboard.
+- [00:06:18,740 - 00:06:18,840] No,
+- [00:06:18,840 - 00:06:19,080] no,
+- [00:06:19,080 - 00:06:19,260] no.
+- [00:06:19,300 - 00:06:20,620] You can't just look at the blackboard.
+- [00:06:20,960 - 00:06:22,820] You have to do the Lorentz transformations.
+- [00:06:23,440 - 00:06:23,800] Right.
+- [00:06:25,040 - 00:06:25,400] Right.
+- [00:06:30,060 - 00:06:30,420] Okay.
+- [00:06:30,420 - 00:06:31,020] How do you do it?
+- [00:06:34,480 - 00:06:37,160] Let's make this wavelength 1 just to simplify.
+- [00:06:38,020 - 00:06:38,960] So this is 0,
+- [00:06:38,960 - 00:06:39,940] this is 1,
+- [00:06:39,940 - 00:06:41,380] this is 2,
+- [00:06:41,380 - 00:06:42,380] and so forth.
+- [00:06:43,320 - 00:06:43,860] All right.
+- [00:06:43,880 - 00:06:46,140] Now I would like to locate what this point is.
+- [00:06:46,140 - 00:06:47,570] It's clearly important for me
+- [00:06:47,570 - 00:06:49,000] to locate where that point is.
+- [00:06:49,440 - 00:06:52,160] This point is X prime equals 0.
+- [00:06:55,800 - 00:06:58,140] That's the same as,
+- [00:06:58,140 - 00:07:00,520] which is it?
+- [00:07:00,660 - 00:07:03,500] T equals VX.
+- [00:07:03,660 - 00:07:04,580] Do you remember that?
+- [00:07:06,200 - 00:07:10,670] That the surface T prime equals 0
+- [00:07:10,670 - 00:07:15,140] is the same as T equals VX.
+- [00:07:15,160 - 00:07:16,020] Let me remind you why.
+- [00:07:16,140 - 00:07:21,330] The Lorentz transformation involves T prime is equal to T
+- [00:07:21,330 - 00:07:26,520] minus VX over square root of 1 minus V squared.
+- [00:07:26,700 - 00:07:26,860] Right?
+- [00:07:27,980 - 00:07:28,640] All right.
+- [00:07:28,660 - 00:07:29,990] Now supposing I want to know
+- [00:07:29,990 - 00:07:31,320] where T prime equals 0 is.
+- [00:07:31,440 - 00:07:32,560] T prime equals 0,
+- [00:07:32,560 - 00:07:35,880] that's what I call an instant.
+- [00:07:36,200 - 00:07:38,380] It happens to be the instant T prime equals 0,
+- [00:07:38,380 - 00:07:40,100] but that's okay.
+- [00:07:40,280 - 00:07:43,280] And that's clearly T equals VX.
+- [00:07:44,100 - 00:07:46,000] So this is T equals VX.
+- [00:07:46,440 - 00:07:48,100] And what is this line over here?
+- [00:07:49,320 - 00:07:49,680] Well,
+- [00:07:49,680 - 00:07:50,080] first of all,
+- [00:07:50,080 - 00:07:50,580] what is this line?
+- [00:08:01,040 - 00:08:01,960] X equals T.
+- [00:08:02,580 - 00:08:03,820] Moving with the speed of light.
+- [00:08:04,320 - 00:08:05,160] C equals 1.
+- [00:08:08,200 - 00:08:09,160] That's X equals T.
+- [00:08:09,220 - 00:08:09,740] What is this one?
+- [00:08:12,360 - 00:08:12,720] Oh,
+- [00:08:12,720 - 00:08:12,940] come on.
+- [00:08:13,080 - 00:08:13,520] It's easy.
+- [00:08:14,160 - 00:08:14,660] All right.
+- [00:08:14,660 - 00:08:15,920] X equals T plus 1,
+- [00:08:15,920 - 00:08:16,140] right?
+- [00:08:23,100 - 00:08:23,580] Okay.
+- [00:08:23,660 - 00:08:26,250] So we're at the intersection of X
+- [00:08:26,250 - 00:08:28,840] equals T plus 1 and T equals VX.
+- [00:08:29,020 - 00:08:29,780] Let's work it out.
+- [00:08:32,320 - 00:08:33,720] Let's see what that point is.
+- [00:08:36,380 - 00:08:38,380] X equals T,
+- [00:08:38,380 - 00:08:39,799] which is VX.
+- [00:08:43,960 - 00:08:44,640] Plus 1.
+- [00:08:44,640 - 00:08:49,220] Or X times 1 minus V equals 1.
+- [00:08:49,680 - 00:08:52,860] Or X is equal to 1 over 1 minus V.
+- [00:08:54,300 - 00:08:55,920] That's the X of this point.
+- [00:08:58,060 - 00:08:59,900] And what about the T of this point?
+- [00:09:01,420 - 00:09:01,900] Well,
+- [00:09:01,900 - 00:09:03,800] if we know the X of this point,
+- [00:09:03,800 - 00:09:04,740] let's say,
+- [00:09:04,740 - 00:09:06,860] if we know the X of this point,
+- [00:09:06,860 - 00:09:08,080] we can read off the T.
+- [00:09:09,000 - 00:09:12,760] T is equal to V.
+- [00:09:12,760 - 00:09:16,120] V over 1 minus V.
+- [00:09:21,280 - 00:09:21,900] All right.
+- [00:09:21,920 - 00:09:26,440] Now we would like to find out what the simplest thing to
+- [00:09:26,440 - 00:09:30,960] do now is to figure out we know T and we know X.
+- [00:09:32,040 - 00:09:33,420] What I'd really like to know,
+- [00:09:33,420 - 00:09:34,400] what would I really like to
+- [00:09:34,400 - 00:09:35,380] know about this point over here?
+- [00:09:37,580 - 00:09:38,980] I'd like to know X prime.
+- [00:09:39,840 - 00:09:42,650] I would like to know the
+- [00:09:42,650 - 00:09:45,460] distance between successive minima in my frame,
+- [00:09:45,460 - 00:09:46,920] the primed frame.
+- [00:09:47,360 - 00:09:49,180] So we go to the primed frame.
+- [00:09:50,200 - 00:09:54,050] X prime is equal to X minus VT
+- [00:09:54,050 - 00:09:57,900] over square root of 1 minus V squared.
+- [00:10:01,740 - 00:10:04,290] And now I just plug in for
+- [00:10:04,290 - 00:10:06,840] X and T what I have here.
+- [00:10:07,840 - 00:10:08,960] Do I really want to do that?
+- [00:10:08,960 - 00:10:09,300] Yes,
+- [00:10:09,300 - 00:10:09,700] I do.
+- [00:10:09,960 - 00:10:15,470] X prime equals X 1 over
+- [00:10:15,470 - 00:10:20,980] 1 minus V minus V times T.
+- [00:10:21,540 - 00:10:24,420] So that's V times T minus
+- [00:10:24,420 - 00:10:27,300] V squared over 1 minus V.
+- [00:10:28,720 - 00:10:36,740] All divided by square root of 1 minus V squared.
+- [00:10:36,940 - 00:10:37,100] Right?
+- [00:10:37,100 - 00:10:38,080] Did I do that right?
+- [00:10:40,460 - 00:10:41,680] I think so.
+- [00:10:42,200 - 00:10:42,800] Okay,
+- [00:10:42,800 - 00:10:44,400] so let's see if we can simplify it now.
+- [00:10:45,840 - 00:10:48,200] We have 1 minus V squared.
+- [00:10:48,540 - 00:10:53,860] 1 minus V squared divided by 1 minus V.
+- [00:10:54,300 - 00:10:56,220] And also in the denominator,
+- [00:10:56,220 - 00:11:00,520] I also have square root of 1 minus V squared.
+- [00:11:02,540 - 00:11:03,140] Okay.
+- [00:11:03,620 - 00:11:04,900] 1 minus V.
+- [00:11:05,140 - 00:11:05,740] Sorry.
+- [00:11:05,740 - 00:11:08,890] 1 minus V squared is the same
+- [00:11:08,890 - 00:11:12,040] as 1 minus V times 1 plus V.
+- [00:11:12,320 - 00:11:12,800] Right?
+- [00:11:14,740 - 00:11:16,640] That's 1 minus V squared is
+- [00:11:16,640 - 00:11:18,540] 1 minus V times 1 plus V.
+- [00:11:18,960 - 00:11:20,620] And so these cancel out.
+- [00:11:24,300 - 00:11:25,780] What else can I do with it?
+- [00:11:26,120 - 00:11:26,600] Well,
+- [00:11:26,600 - 00:11:28,440] I can put this in the square root.
+- [00:11:28,540 - 00:11:30,090] Just by squaring it and then
+- [00:11:30,090 - 00:11:31,640] putting it in the square root.
+- [00:11:32,600 - 00:11:35,400] And the whole thing becomes square root.
+- [00:11:35,740 - 00:11:36,840] So let's put this in the square root.
+- [00:11:36,840 - 00:11:39,800] Square root of 1 plus V times 1 plus V.
+- [00:11:40,720 - 00:11:42,520] That's 1 plus V squared.
+- [00:11:43,240 - 00:11:45,840] Divided by 1 minus V squared.
+- [00:11:45,920 - 00:11:51,520] Which is 1 plus V times 1 minus V.
+- [00:11:54,360 - 00:12:00,960] So the answer is square root of 1 plus V
+- [00:12:00,960 - 00:12:04,080] over 1 minus V.
+- [00:12:06,480 - 00:12:08,760] That's what x prime is over here.
+- [00:12:10,780 - 00:12:13,000] Is it bigger than 1 or smaller than 1?
+- [00:12:16,680 - 00:12:17,680] It's bigger than 1.
+- [00:12:18,140 - 00:12:19,300] It's bigger than 1.
+- [00:12:19,560 - 00:12:22,180] So my reckoning of this distance
+- [00:12:22,180 - 00:12:24,800] gives me something bigger than 1.
+- [00:12:25,520 - 00:12:27,560] You said the wavelength was 1.
+- [00:12:27,560 - 00:12:30,030] I say the wavelength is square root
+- [00:12:30,030 - 00:12:32,500] of 1 plus v over 1 minus v.
+- [00:12:33,760 - 00:12:35,840] So that's the calculation.
+- [00:12:38,480 - 00:12:40,380] Does that answer your question,
+- [00:12:40,380 - 00:12:40,600] Warren?
+- [00:12:41,820 - 00:12:42,440] Good.
+- [00:12:44,660 - 00:12:48,260] So it's all there in these pictures.
+- [00:12:48,860 - 00:12:51,400] Just draw the picture of the thing you're
+- [00:12:51,400 - 00:12:53,940] trying to figure out and then convert it into
+- [00:12:53,940 - 00:12:56,280] some simple equations.
+- [00:12:58,020 - 00:12:58,460] Good.
+- [00:13:05,140 - 00:13:05,580] Now,
+- [00:13:05,580 - 00:13:06,360] let's put this up.
+- [00:13:16,380 - 00:13:19,480] This of course is the relativistic Doppler shift formula,
+- [00:13:19,480 - 00:13:21,440] square root of 1 plus v over
+- [00:13:21,440 - 00:13:22,040] 1 minus v.
+- [00:13:22,599 - 00:13:25,500] And to really be correct about it,
+- [00:13:25,500 - 00:13:27,060] this is v over c.
+- [00:13:27,560 - 00:13:28,160] And this is v over c.
+- [00:13:28,160 - 00:13:28,600] Not correct.
+- [00:13:28,800 - 00:13:29,260] It was correct.
+- [00:13:29,600 - 00:13:31,920] But to put units in,
+- [00:13:31,920 - 00:13:34,850] which is the same as square root
+- [00:13:34,850 - 00:13:37,780] of c plus v over c minus v.
+- [00:13:39,280 - 00:13:40,420] What do you think happens if
+- [00:13:40,420 - 00:13:41,560] you're going in the other direction?
+- [00:13:43,220 - 00:13:44,960] If I was going in the other direction?
+- [00:13:46,660 - 00:13:49,090] You would just change the sign of
+- [00:13:49,090 - 00:13:51,520] the velocity from plus v to minus v.
+- [00:13:51,600 - 00:13:53,240] That's just going in the other direction,
+- [00:13:53,240 - 00:13:53,960] minus v.
+- [00:13:54,320 - 00:13:55,930] And you would get square root of
+- [00:13:55,930 - 00:13:57,540] c plus v over c minus v.
+- [00:14:04,060 - 00:14:06,160] And now this is less than 1.
+- [00:14:07,040 - 00:14:08,600] So if you're shooting against
+- [00:14:08,600 - 00:14:10,160] the direction of the light ray,
+- [00:14:10,160 - 00:14:12,000] you see a shorter wavelength.
+- [00:14:12,480 - 00:14:15,160] If you're moving along the light ray,
+- [00:14:15,160 - 00:14:16,340] you see a longer wavelength.
+- [00:14:17,280 - 00:14:19,030] And what happens if your velocity
+- [00:14:19,030 - 00:14:20,780] gets up near the speed of light?
+- [00:14:22,180 - 00:14:23,640] Let's say this one over here.
+- [00:14:23,740 - 00:14:25,920] If your velocity gets up near the speed of light,
+- [00:14:25,920 - 00:14:27,520] then the wavelength is going to be
+- [00:14:27,520 - 00:14:29,260] bigger and bigger and bigger.
+- [00:14:29,680 - 00:14:30,540] And eventually,
+- [00:14:30,540 - 00:14:32,380] if you're moving with a light ray,
+- [00:14:32,380 - 00:14:33,380] if you could,
+- [00:14:33,380 - 00:14:35,320] the wavelength would look infinite.
+- [00:14:36,060 - 00:14:36,200] OK.
+- [00:14:37,320 - 00:14:38,400] There's another way to...
+- [00:14:38,400 - 00:14:38,640] Yeah,
+- [00:14:38,640 - 00:14:39,320] that's fine.
+- [00:14:39,480 - 00:14:40,240] Let's leave it that way.
+- [00:14:40,420 - 00:14:40,900] OK.
+- [00:14:42,020 - 00:14:42,500] Good.
+- [00:14:44,160 - 00:14:44,820] All right.
+- [00:14:44,840 - 00:14:46,040] If there are no further questions,
+- [00:14:46,040 - 00:14:49,860] we will start tonight's lecture 10 minutes late.
+- [00:14:53,960 - 00:14:55,040] Fields and particles.
+- [00:14:55,660 - 00:14:56,940] Now in quantum mechanics,
+- [00:14:56,940 - 00:14:57,500] fields and particles are just like a circle.
+- [00:14:57,520 - 00:14:58,860] Fields and particles are the same thing.
+- [00:14:59,680 - 00:15:01,500] But we're not doing quantum mechanics.
+- [00:15:02,420 - 00:15:03,400] For us here,
+- [00:15:03,400 - 00:15:06,660] fields are fields and particles are particles.
+- [00:15:07,100 - 00:15:09,100] I won't say never that twain will meet,
+- [00:15:09,100 - 00:15:09,840] because they will meet.
+- [00:15:09,920 - 00:15:10,580] They will meet tonight.
+- [00:15:11,700 - 00:15:13,820] But they are not the same thing.
+- [00:15:15,380 - 00:15:16,340] In particular,
+- [00:15:16,340 - 00:15:20,560] we want to ask the question if a
+- [00:15:20,560 - 00:15:24,780] field affects a particle in a certain way.
+- [00:15:24,940 - 00:15:25,560] For example,
+- [00:15:25,560 - 00:15:27,500] by creating forces in the field.
+- [00:15:27,520 - 00:15:27,680] So,
+- [00:15:27,680 - 00:15:29,380] if there are forces on it that accelerate it,
+- [00:15:29,380 - 00:15:30,060] or whatever they do,
+- [00:15:30,060 - 00:15:32,490] must it not also be the
+- [00:15:32,490 - 00:15:34,920] case that the particle affects the field?
+- [00:15:35,780 - 00:15:36,260] Well,
+- [00:15:36,260 - 00:15:36,960] why do I say that?
+- [00:15:37,020 - 00:15:38,160] Why does it have to be the case?
+- [00:15:38,280 - 00:15:38,500] Why,
+- [00:15:38,500 - 00:15:39,760] if A affects B,
+- [00:15:39,760 - 00:15:42,960] does B necessarily have to affect A?
+- [00:15:44,000 - 00:15:47,420] And that's built into the idea of action.
+- [00:15:47,600 - 00:15:49,660] That's built into the action principle,
+- [00:15:49,660 - 00:15:51,240] or into the Lagrangian principle.
+- [00:15:51,780 - 00:15:53,380] We can see it in a very...
+- [00:15:53,380 - 00:15:54,680] In a simple context.
+- [00:15:54,680 - 00:15:56,840] It's also called action and reaction.
+- [00:15:58,420 - 00:15:59,600] It's a basic idea.
+- [00:15:59,760 - 00:16:00,840] If A affects B,
+- [00:16:00,840 - 00:16:02,180] then B will affect A.
+- [00:16:02,960 - 00:16:03,480] So,
+- [00:16:03,480 - 00:16:06,130] a simple example of it is
+- [00:16:06,130 - 00:16:08,780] to suppose that you had two coordinates.
+- [00:16:09,560 - 00:16:10,080] Now,
+- [00:16:10,080 - 00:16:11,720] you could have any number of coordinates,
+- [00:16:11,720 - 00:16:14,630] but let's just suppose for the
+- [00:16:14,630 - 00:16:17,540] moment two coordinates and an action principle.
+- [00:16:18,120 - 00:16:18,640] So,
+- [00:16:18,640 - 00:16:20,240] let's call the coordinates x and y.
+- [00:16:22,740 - 00:16:23,700] And the Lagrangian is going
+- [00:16:23,700 - 00:16:24,660] to depend on the action principle.
+- [00:16:24,680 - 00:16:24,680] So,
+- [00:16:24,680 - 00:16:25,500] the Lagrangian is going to depend on x and y,
+- [00:16:25,500 - 00:16:26,860] and x dot and y dot.
+- [00:16:27,940 - 00:16:29,640] x and y do not have
+- [00:16:29,640 - 00:16:31,340] to stand for the orthogonal coordinates,
+- [00:16:31,340 - 00:16:33,460] Cartesian coordinates of anything.
+- [00:16:34,060 - 00:16:35,180] They're just two coordinates.
+- [00:16:36,120 - 00:16:38,940] And the Lagrangian depends on all of these.
+- [00:16:40,560 - 00:16:41,040] Now,
+- [00:16:41,040 - 00:16:43,500] one possibility is that the Lagrangian
+- [00:16:43,500 - 00:16:45,960] is simply a sum of two terms.
+- [00:16:46,040 - 00:16:48,800] The Lagrangian for x and x dot,
+- [00:16:48,800 - 00:16:52,800] plus the Lagrangian for y and y dot.
+- [00:16:52,800 - 00:16:54,540] A different Lagrangian.
+- [00:16:54,620 - 00:16:56,320] I'll just continue to call it L.
+- [00:16:56,560 - 00:16:57,600] Might be the same,
+- [00:16:57,600 - 00:16:58,300] might be different.
+- [00:16:59,080 - 00:17:00,580] If this is the case,
+- [00:17:00,580 - 00:17:04,319] and you look at the equation of motion for x.
+- [00:17:04,980 - 00:17:05,920] Let's write it down.
+- [00:17:08,280 - 00:17:08,760] Then,
+- [00:17:08,760 - 00:17:12,750] that equation of motion will involve d by dt of partial of L with
+- [00:17:12,750 - 00:17:16,740] respect to x dot is equal to partial of L with respect to x.
+- [00:17:16,880 - 00:17:18,700] And y won't get into it altogether.
+- [00:17:20,260 - 00:17:20,740] Likewise,
+- [00:17:20,740 - 00:17:22,780] if you write the equation of motion for y.
+- [00:17:22,780 - 00:17:24,200] x doesn't get into it.
+- [00:17:24,640 - 00:17:26,079] And so in this case,
+- [00:17:26,079 - 00:17:27,520] x doesn't affect y.
+- [00:17:27,680 - 00:17:28,840] y doesn't affect x.
+- [00:17:29,020 - 00:17:32,580] What can you say if you
+- [00:17:32,580 - 00:17:36,140] know that y does affect x?
+- [00:17:36,700 - 00:17:40,240] That tells you that the Lagrangian must be more complicated,
+- [00:17:40,240 - 00:17:44,110] and there must be things in it
+- [00:17:44,110 - 00:17:47,980] which somehow affect both x and y.
+- [00:17:48,700 - 00:17:49,860] For example,
+- [00:17:49,860 - 00:17:51,500] here's a Lagrangian.
+- [00:17:55,260 - 00:17:57,100] x dot squared over 2
+- [00:17:57,100 - 00:17:58,940] plus y dot squared over 2.
+- [00:17:59,080 - 00:17:59,540] So far,
+- [00:17:59,540 - 00:18:00,600] they're completely independent.
+- [00:18:01,260 - 00:18:04,520] You could have a potential energy for x,
+- [00:18:04,520 - 00:18:05,520] or minus.
+- [00:18:06,060 - 00:18:08,020] And maybe another potential energy,
+- [00:18:08,020 - 00:18:08,760] v prime,
+- [00:18:08,760 - 00:18:09,620] for y.
+- [00:18:11,080 - 00:18:11,900] So far,
+- [00:18:11,900 - 00:18:13,220] it's just a sum of two terms.
+- [00:18:13,340 - 00:18:15,340] An x term and a y term.
+- [00:18:15,960 - 00:18:17,820] x and y are not going to affect each other.
+- [00:18:18,080 - 00:18:19,880] What do you need to do if
+- [00:18:19,880 - 00:18:21,680] you want to see them affect each other?
+- [00:18:21,680 - 00:18:24,870] Put something in addition to the Lagrangian which involves both
+- [00:18:24,870 - 00:18:28,060] x and y in a way that you can't unravel it.
+- [00:18:28,180 - 00:18:28,980] For example,
+- [00:18:28,980 - 00:18:30,020] just x times y.
+- [00:18:31,840 - 00:18:33,320] If you have x times y,
+- [00:18:33,320 - 00:18:37,580] then the equation of motion for x will involve y.
+- [00:18:38,580 - 00:18:41,380] And the equation of motion for y will involve x.
+- [00:18:42,020 - 00:18:44,680] If you have them both in the Lagrangian in
+- [00:18:44,680 - 00:18:47,340] a way which is coupled together in this way,
+- [00:18:47,480 - 00:18:49,440] there's no way that it's possible
+- [00:18:49,440 - 00:18:51,400] that one can affect the other.
+- [00:18:51,400 - 00:18:54,120] Without the other affecting the one.
+- [00:18:55,340 - 00:18:56,780] So that's as simple as that.
+- [00:18:56,880 - 00:19:00,060] That is why if A affects B,
+- [00:19:00,060 - 00:19:01,000] B affects A.
+- [00:19:01,780 - 00:19:02,300] Okay.
+- [00:19:02,800 - 00:19:04,260] Now let's come to the issue,
+- [00:19:04,260 - 00:19:06,100] let's talk about particles and fields.
+- [00:19:06,820 - 00:19:10,130] We talked a little bit last time about how
+- [00:19:10,130 - 00:19:13,440] a field might affect the motion of a particle.
+- [00:19:14,220 - 00:19:15,880] That was just a simple model,
+- [00:19:15,880 - 00:19:17,420] but we'll go back to it.
+- [00:19:18,240 - 00:19:19,420] Let's go back to it.
+- [00:19:20,320 - 00:19:20,850] Talk about how a field might
+- [00:19:20,850 - 00:19:21,380] affect the motion of a particle.
+- [00:19:21,400 - 00:19:23,260] How the field affects the particle motion.
+- [00:19:23,480 - 00:19:26,320] And then come back and ask how the particle,
+- [00:19:26,320 - 00:19:27,820] the presence of the particle,
+- [00:19:27,820 - 00:19:28,840] affects the field.
+- [00:19:32,220 - 00:19:36,680] This is very much the analog of electric
+- [00:19:36,680 - 00:19:41,140] and magnetic fields affecting the motion of charged particles.
+- [00:19:41,260 - 00:19:44,230] And charged particles creating
+- [00:19:44,230 - 00:19:47,200] and modifying the electromagnetic field.
+- [00:19:47,540 - 00:19:48,560] For example,
+- [00:19:48,560 - 00:19:51,380] just by having a charged particle creates a coolant.
+- [00:19:51,380 - 00:19:52,440] A coolant field and so forth.
+- [00:19:53,100 - 00:19:56,160] And those are not two independent things.
+- [00:19:56,640 - 00:19:59,100] They come from the same Lagrangian.
+- [00:20:00,100 - 00:20:02,300] So let's work out this example.
+- [00:20:02,700 - 00:20:03,440] All right.
+- [00:20:03,480 - 00:20:06,480] So let's begin with,
+- [00:20:06,480 - 00:20:08,440] let's suppose first of all
+- [00:20:08,440 - 00:20:10,400] that there is some field phi.
+- [00:20:11,960 - 00:20:13,820] Phi depends on x and t.
+- [00:20:16,140 - 00:20:18,590] For the moment we forget about how it
+- [00:20:18,590 - 00:20:21,040] got to have the value that it has.
+- [00:20:22,220 - 00:20:24,820] Somebody solved some equations for phi and found
+- [00:20:24,820 - 00:20:27,420] out that phi of x and t has a,
+- [00:20:27,420 - 00:20:29,440] or measured phi of x and t.
+- [00:20:29,860 - 00:20:32,080] And it had some specific form.
+- [00:20:32,460 - 00:20:33,830] Phi of x might be a wave
+- [00:20:33,830 - 00:20:35,200] or it might not be a wave.
+- [00:20:38,120 - 00:20:41,400] How does that affect the motion of a particle?
+- [00:20:41,440 - 00:20:42,120] And for that,
+- [00:20:42,120 - 00:20:43,480] we're not going to ask
+- [00:20:43,480 - 00:20:44,840] about the dynamics of phi now.
+- [00:20:44,920 - 00:20:48,540] We're going to ask for the Lagrangian for the particle.
+- [00:20:49,040 - 00:20:50,880] This is the particle Lagrangian.
+- [00:20:52,620 - 00:20:57,480] So let's remember what it is to begin with.
+- [00:20:57,720 - 00:20:58,800] To begin with,
+- [00:20:58,800 - 00:21:05,360] it contains minus m times the square
+- [00:21:05,360 - 00:21:11,920] root of 1 minus x dot squared.
+- [00:21:12,200 - 00:21:12,800] What was this?
+- [00:21:13,160 - 00:21:15,220] This was the term in the
+- [00:21:15,220 - 00:21:17,280] Lagrangian that corresponded to an action
+- [00:21:17,280 - 00:21:19,320] which just added up all
+- [00:21:19,320 - 00:21:21,360] the proper times along the line.
+- [00:21:21,380 - 00:21:22,940] Along the little segments of a path.
+- [00:21:24,140 - 00:21:25,420] Multiplied by minus m.
+- [00:21:26,400 - 00:21:28,380] The integral of this Lagrangian,
+- [00:21:28,380 - 00:21:28,960] let's write it out.
+- [00:21:29,020 - 00:21:30,320] Let's write the integral dt,
+- [00:21:30,320 - 00:21:31,360] that's the action.
+- [00:21:31,980 - 00:21:34,840] That's the integral dt of this.
+- [00:21:35,240 - 00:21:38,100] And this is the same as minus
+- [00:21:38,100 - 00:21:40,960] m times the integral of the proper times
+- [00:21:40,960 - 00:21:43,140] from one end of the trajectory to another.
+- [00:21:43,400 - 00:21:43,700] Alright,
+- [00:21:43,700 - 00:21:48,160] so that's the ordinary Lagrangian for a particle.
+- [00:21:48,280 - 00:21:49,920] But that doesn't have anything in it
+- [00:21:49,920 - 00:21:54,220] in which the field affects the particle.
+- [00:21:54,600 - 00:21:56,100] So let's put in something for the field.
+- [00:21:56,180 - 00:21:57,000] A simple thing.
+- [00:21:57,060 - 00:21:58,260] The simplest thing we can think of.
+- [00:21:58,320 - 00:21:59,940] The simplest thing I can think of.
+- [00:21:59,980 - 00:22:01,040] Let me move this a little bit.
+- [00:22:01,680 - 00:22:05,580] And let me put minus m plus phi.
+- [00:22:05,940 - 00:22:08,090] Now phi is a function
+- [00:22:08,090 - 00:22:10,240] of position and time in general.
+- [00:22:10,860 - 00:22:12,620] So it's a function of x and t.
+- [00:22:13,460 - 00:22:14,900] But we're imagining for the
+- [00:22:14,900 - 00:22:16,340] moment that it's a known function
+- [00:22:16,340 - 00:22:18,540] of the coordinates of the particle.
+- [00:22:18,540 - 00:22:20,560] Times the same thing again.
+- [00:22:21,000 - 00:22:23,640] One minus x dot squared.
+- [00:22:26,560 - 00:22:28,660] That's the Lagrangian for a particle.
+- [00:22:28,860 - 00:22:31,060] I could work out the Euler Lagrange equations
+- [00:22:31,060 - 00:22:33,360] and find out how phi
+- [00:22:33,360 - 00:22:35,660] affects the motion of the particle.
+- [00:22:36,720 - 00:22:37,820] I'm going to do it,
+- [00:22:37,820 - 00:22:40,220] but I'm going to do it in the simplified approximation
+- [00:22:40,220 - 00:22:42,460] where the particle moves very slowly.
+- [00:22:43,800 - 00:22:45,140] Just as an illustration.
+- [00:22:45,840 - 00:22:47,180] I don't want to futz
+- [00:22:47,180 - 00:22:48,520] around with all the relativistic things.
+- [00:22:48,540 - 00:22:49,770] I want to get rid of the relativistic square
+- [00:22:49,770 - 00:22:51,000] roots of 1 minus v squared and so forth.
+- [00:22:51,360 - 00:22:52,820] This of course is v squared.
+- [00:22:53,140 - 00:22:54,670] And we could be thinking
+- [00:22:54,670 - 00:22:56,200] about a particle on a line.
+- [00:22:56,380 - 00:22:58,640] We don't need y and z in this.
+- [00:22:58,820 - 00:23:01,780] Just x is enough to illustrate the point.
+- [00:23:02,460 - 00:23:03,880] Particle moving in one dimension.
+- [00:23:04,760 - 00:23:07,060] Let me put back the speeds of light.
+- [00:23:08,180 - 00:23:10,340] It's useful to put back the speeds of light
+- [00:23:10,340 - 00:23:13,440] in order to see what the nonrelativistic limit is.
+- [00:23:13,500 - 00:23:16,500] The nonrelativistic limit is basically the limit
+- [00:23:16,500 - 00:23:19,020] in which the speed of light goes to infinity.
+- [00:23:19,580 - 00:23:21,250] When the speed of light is bigger
+- [00:23:21,250 - 00:23:22,920] than any other velocity in the problem,
+- [00:23:23,060 - 00:23:24,660] that's the nonrelativistic limit.
+- [00:23:25,740 - 00:23:26,940] The Newtonian limit.
+- [00:23:28,960 - 00:23:30,560] Lagrangian has units of energy.
+- [00:23:31,600 - 00:23:33,760] Mass does not have units of energy,
+- [00:23:33,900 - 00:23:35,380] unless the speed of light is 1.
+- [00:23:36,280 - 00:23:38,180] But if the speed of light is not 1,
+- [00:23:38,260 - 00:23:42,220] we put in minus mc squared.
+- [00:23:42,560 - 00:23:43,920] Now it has units of energy.
+- [00:23:44,500 - 00:23:46,380] Phi I'm just going to leave that way.
+- [00:23:46,500 - 00:23:47,560] The field is defined.
+- [00:23:48,620 - 00:23:49,060] Oh,
+- [00:23:49,060 - 00:23:50,380] let's put a constant in here.
+- [00:23:50,400 - 00:23:51,380] Let's put a g in here.
+- [00:23:52,699 - 00:23:56,660] This constant is a constant called a coupling constant.
+- [00:23:57,480 - 00:24:01,020] It measures the strength by which the field
+- [00:24:01,020 - 00:24:02,940] affects the motion of the particle.
+- [00:24:03,100 - 00:24:04,380] So let's put a g in here.
+- [00:24:06,140 - 00:24:07,980] g can be anything for the moment.
+- [00:24:08,080 - 00:24:09,000] We don't know what it is.
+- [00:24:09,340 - 00:24:11,020] It might have a c in it.
+- [00:24:11,040 - 00:24:11,920] It might not have a c in it.
+- [00:24:11,940 - 00:24:12,360] Not important.
+- [00:24:12,680 - 00:24:14,860] At the moment it's just g times phi.
+- [00:24:14,860 - 00:24:16,860] And phi depends on x and t.
+- [00:24:19,720 - 00:24:20,240] Now,
+- [00:24:20,240 - 00:24:21,140] let's exp...
+- [00:24:21,140 - 00:24:21,360] Oh,
+- [00:24:21,360 - 00:24:22,420] and of course,
+- [00:24:23,540 - 00:24:26,760] this is square root of 1 minus x dot squared
+- [00:24:26,760 - 00:24:28,380] over c squared.
+- [00:24:30,300 - 00:24:31,780] That's the Lagrangian with all
+- [00:24:31,780 - 00:24:33,260] the speeds of light in place.
+- [00:24:33,940 - 00:24:37,660] And now let's go to the nonrelativistic limit.
+- [00:24:37,760 - 00:24:39,000] The nonrelativistic limit,
+- [00:24:39,160 - 00:24:40,540] when c gets very large,
+- [00:24:40,780 - 00:24:42,780] we expand the square root.
+- [00:24:43,120 - 00:24:44,680] We expand the square root.
+- [00:24:44,680 - 00:24:46,140] Using the binomial expansion,
+- [00:24:47,560 - 00:24:50,860] 1 minus a small number to the minus...
+- [00:24:50,860 - 00:24:51,980] to the one-half power,
+- [00:24:52,320 - 00:24:54,160] that just becomes...
+- [00:24:54,680 - 00:24:55,180] well,
+- [00:24:55,180 - 00:24:56,160] this thing becomes
+- [00:24:56,680 - 00:24:59,600] 1 minus x dot squared
+- [00:25:00,620 - 00:25:03,140] over twice c squared.
+- [00:25:04,440 - 00:25:06,040] The twice comes...
+- [00:25:06,040 - 00:25:06,840] the one-half comes
+- [00:25:07,440 - 00:25:09,900] because this is something to the one-half power.
+- [00:25:10,420 - 00:25:12,980] I'm using that 1 plus epsilon
+- [00:25:12,980 - 00:25:14,220] or 1 minus epsilon
+- [00:25:14,220 - 00:25:15,060] in this case
+- [00:25:15,760 - 00:25:17,820] to the power one-half
+- [00:25:17,820 - 00:25:22,360] is just 1 minus one-half epsilon
+- [00:25:22,980 - 00:25:25,860] plus things which are really very much smaller
+- [00:25:25,860 - 00:25:28,880] because they will involve higher powers
+- [00:25:28,880 - 00:25:30,530] of the ratio of the
+- [00:25:30,530 - 00:25:32,180] velocity to the velocity of light.
+- [00:25:32,820 - 00:25:33,440] So,
+- [00:25:33,440 - 00:25:34,600] this is what we get.
+- [00:25:35,990 - 00:25:36,920] Plus tiny,
+- [00:25:36,920 - 00:25:37,620] tiny things.
+- [00:25:37,720 - 00:25:40,760] Let's erase this and write 1 minus x dot squared.
+- [00:25:45,620 - 00:25:46,980] Over 2c squared.
+- [00:25:49,860 - 00:25:51,060] Now we look at this
+- [00:25:51,060 - 00:25:53,860] and we try to find the biggest pieces,
+- [00:25:54,060 - 00:25:56,040] the pieces which are most important
+- [00:25:56,040 - 00:25:58,720] when the speed of light gets large.
+- [00:25:59,060 - 00:26:01,640] The obvious first piece is mc squared.
+- [00:26:01,840 - 00:26:03,560] Just mc squared times 1.
+- [00:26:05,180 - 00:26:07,740] But mc squared times 1 is just a number.
+- [00:26:08,240 - 00:26:09,580] It doesn't do anything.
+- [00:26:09,760 - 00:26:10,720] When you start different...
+- [00:26:10,720 - 00:26:12,140] It's a Lagrangian we're talking about.
+- [00:26:12,400 - 00:26:14,200] If you start differentiating it,
+- [00:26:14,220 - 00:26:17,720] with respect to position or velocity,
+- [00:26:17,940 - 00:26:18,620] it doesn't do anything.
+- [00:26:18,780 - 00:26:19,380] It's just a number.
+- [00:26:19,900 - 00:26:21,940] So that term is of no interest.
+- [00:26:22,080 - 00:26:23,820] Adding a constant in a Lagrangian
+- [00:26:23,820 - 00:26:26,240] doesn't have any effect on the equation of motion.
+- [00:26:26,820 - 00:26:30,560] So the mc squared times 1 is of no interest.
+- [00:26:31,040 - 00:26:36,660] The next term has the speed of light
+- [00:26:36,660 - 00:26:37,980] canceling altogether.
+- [00:26:39,040 - 00:26:41,080] So it's part of the limit
+- [00:26:41,080 - 00:26:43,560] in which the speed of light goes to infinity.
+- [00:26:43,560 - 00:26:44,740] And it survives.
+- [00:26:45,260 - 00:26:46,560] It survives that limit.
+- [00:26:46,860 - 00:26:51,040] So the next term is the product of mc squared
+- [00:26:51,560 - 00:26:54,060] times x dot squared over 2c squared.
+- [00:26:54,180 - 00:26:54,760] And that's familiar.
+- [00:26:54,920 - 00:26:59,040] That's x dot squared m over 2.
+- [00:26:59,480 - 00:27:01,240] The c squares have cancelled.
+- [00:27:01,680 - 00:27:04,720] And that's just a good old 1 half mv squared,
+- [00:27:04,840 - 00:27:06,520] the nonrelativistic kinetic energy.
+- [00:27:07,980 - 00:27:10,560] And what about this term?
+- [00:27:10,720 - 00:27:12,420] g phi times 1.
+- [00:27:12,420 - 00:27:14,260] That has no speeds of light in it,
+- [00:27:14,360 - 00:27:15,540] so it clearly survives.
+- [00:27:16,740 - 00:27:18,660] So we add minus.
+- [00:27:18,740 - 00:27:19,880] There's a minus sign here.
+- [00:27:20,720 - 00:27:24,660] Minus g phi of x and t.
+- [00:27:25,420 - 00:27:26,820] And that's all that there is
+- [00:27:26,820 - 00:27:28,360] when the particle is moving slowly.
+- [00:27:30,580 - 00:27:33,240] And we just compare that with,
+- [00:27:34,740 - 00:27:35,780] you know,
+- [00:27:35,780 - 00:27:36,840] the old-fashioned
+- [00:27:37,820 - 00:27:38,860] nonrelativistic Lagrangian.
+- [00:27:39,160 - 00:27:41,420] The old-fashioned nonrelativistic Lagrangian
+- [00:27:41,420 - 00:27:46,200] was kinetic energy minus potential energy.
+- [00:27:46,520 - 00:27:48,600] This is clearly kinetic energy.
+- [00:27:49,500 - 00:27:53,300] And that identifies for us g times phi
+- [00:27:53,300 - 00:27:56,480] as the potential energy of the particle.
+- [00:27:56,680 - 00:27:59,680] The potential energy of the particle in a field.
+- [00:28:02,380 - 00:28:04,900] g is just a constant.
+- [00:28:05,740 - 00:28:06,840] But in,
+- [00:28:06,840 - 00:28:07,640] for example,
+- [00:28:07,640 - 00:28:09,180] electromagnetism,
+- [00:28:09,180 - 00:28:11,460] the strength of the coupling
+- [00:28:12,180 - 00:28:14,240] of a field and a particle
+- [00:28:14,240 - 00:28:15,420] is just the electric charge.
+- [00:28:15,880 - 00:28:17,720] The bigger the electric charge,
+- [00:28:17,940 - 00:28:20,360] the bigger the force on a particle
+- [00:28:20,360 - 00:28:21,340] in a given field.
+- [00:28:21,680 - 00:28:25,120] So it's natural that there'd be some constant
+- [00:28:25,120 - 00:28:27,800] multiplying something about the field.
+- [00:28:28,400 - 00:28:29,740] We'll come back to this.
+- [00:28:30,060 - 00:28:31,580] But if you like,
+- [00:28:32,360 - 00:28:33,540] in this limit,
+- [00:28:34,339 - 00:28:35,940] the nonrelativistic limit,
+- [00:28:36,040 - 00:28:38,140] and the only reason I do the nonrelativistic limit
+- [00:28:38,140 - 00:28:40,060] is so we don't have to muck around
+- [00:28:40,060 - 00:28:42,880] with all these square roots of 1 minus v squared,
+- [00:28:44,260 - 00:28:45,720] just to illustrate a point,
+- [00:28:45,980 - 00:28:47,300] this is effect,
+- [00:28:47,580 - 00:28:49,520] or this here represents the effect
+- [00:28:52,740 - 00:28:54,240] of the field
+- [00:28:56,940 - 00:28:59,040] on the particle.
+- [00:29:02,340 - 00:29:02,900] Okay.
+- [00:29:03,840 - 00:29:04,400] Now,
+- [00:29:04,400 - 00:29:06,760] what about the effect of the particle
+- [00:29:06,760 - 00:29:07,840] on the field?
+- [00:29:09,480 - 00:29:11,020] The important thing to understand
+- [00:29:11,620 - 00:29:13,800] is that there's only one action.
+- [00:29:14,100 - 00:29:16,380] The total action altogether.
+- [00:29:17,720 - 00:29:20,280] And the total action includes
+- [00:29:20,280 - 00:29:22,040] an action for the field
+- [00:29:22,600 - 00:29:24,200] and the action for the particle.
+- [00:29:25,380 - 00:29:27,540] The physics problem we're trying to do
+- [00:29:27,540 - 00:29:28,060] could be,
+- [00:29:28,060 - 00:29:29,580] we should draw a picture
+- [00:29:29,580 - 00:29:30,760] of what it is we're trying to do.
+- [00:29:35,860 - 00:29:37,940] We have a region of space and time.
+- [00:29:42,680 - 00:29:43,160] Time,
+- [00:29:43,160 - 00:29:43,640] space,
+- [00:29:45,060 - 00:29:47,360] and we have a field in it.
+- [00:29:48,640 - 00:29:49,810] Let's just draw the field
+- [00:29:49,810 - 00:29:50,980] as a bunch of red mush.
+- [00:29:53,240 - 00:29:54,120] There's the field.
+- [00:29:55,420 - 00:29:56,520] And first of all,
+- [00:29:56,560 - 00:29:58,280] we're trying to find out how the field behaves.
+- [00:29:59,100 - 00:30:00,020] That involves
+- [00:30:00,020 - 00:30:02,460] knowing a Lagrangian for the field
+- [00:30:02,760 - 00:30:05,320] and minimizing a Lagrangian for a field.
+- [00:30:05,980 - 00:30:07,080] And in addition,
+- [00:30:07,080 - 00:30:08,260] the mechanical system
+- [00:30:08,260 - 00:30:09,620] or the system that we're studying
+- [00:30:09,620 - 00:30:12,780] also happens to have a particle moving through it.
+- [00:30:14,020 - 00:30:15,580] So what we're trying to do
+- [00:30:15,580 - 00:30:17,680] is study a combined system
+- [00:30:17,680 - 00:30:21,080] of a field and a particle moving through the field.
+- [00:30:21,920 - 00:30:24,260] And we're trying to minimize the action
+- [00:30:24,940 - 00:30:28,020] not just with respect to the motion of the particle,
+- [00:30:28,200 - 00:30:30,000] but with respect to the motion of the particle
+- [00:30:30,020 - 00:30:33,260] and the motion of the field,
+- [00:30:33,520 - 00:30:35,700] or how the field behaves in there.
+- [00:30:36,320 - 00:30:37,300] For that,
+- [00:30:37,300 - 00:30:38,260] very simple.
+- [00:30:38,440 - 00:30:41,260] We simply explore around
+- [00:30:42,199 - 00:30:43,800] changing the field,
+- [00:30:43,940 - 00:30:45,900] letting it wiggle in different ways,
+- [00:30:46,180 - 00:30:47,840] change the particle trajectory
+- [00:30:47,840 - 00:30:50,380] until we minimize the action.
+- [00:30:50,640 - 00:30:53,280] And that will give us the trajectory and the field
+- [00:30:53,280 - 00:30:55,660] that correspond to the principle of least action.
+- [00:30:56,360 - 00:30:57,000] Okay,
+- [00:30:57,000 - 00:30:58,580] so let's go and write
+- [00:31:00,020 - 00:31:01,360] the whole action,
+- [00:31:01,360 - 00:31:03,860] including the field and the particle.
+- [00:31:05,640 - 00:31:06,120] Well,
+- [00:31:06,120 - 00:31:06,640] first of all,
+- [00:31:06,640 - 00:31:08,080] we need an action for the field.
+- [00:31:08,480 - 00:31:10,100] We discussed this last time.
+- [00:31:10,160 - 00:31:11,330] I'm just going to write down
+- [00:31:11,330 - 00:31:12,500] what we wrote down last time.
+- [00:31:14,320 - 00:31:16,040] A simple case of it.
+- [00:31:17,620 - 00:31:19,220] The Lagrangian for the field
+- [00:31:19,940 - 00:31:20,780] that we wrote...
+- [00:31:20,780 - 00:31:23,260] L sub f stands for Lagrangian for the field
+- [00:31:23,260 - 00:31:26,040] that we wrote down last time are...
+- [00:31:26,040 - 00:31:26,600] well,
+- [00:31:26,600 - 00:31:27,120] the action.
+- [00:31:27,600 - 00:31:28,760] The action itself.
+- [00:31:28,760 - 00:31:30,380] The full action is the integral
+- [00:31:32,820 - 00:31:34,140] times d4x.
+- [00:31:35,160 - 00:31:38,060] d4x means dt and dx.
+- [00:31:38,540 - 00:31:41,460] It's an integral over the whole spacetime region
+- [00:31:42,260 - 00:31:42,920] x,
+- [00:31:42,920 - 00:31:43,380] y,
+- [00:31:43,380 - 00:31:43,760] and z,
+- [00:31:43,760 - 00:31:44,520] and t.
+- [00:31:44,780 - 00:31:46,640] And the thing we wrote down last time
+- [00:31:46,640 - 00:31:48,380] was the integral of
+- [00:31:48,380 - 00:31:49,780] one half
+- [00:31:51,699 - 00:31:54,220] partial of phi with respect to t squared
+- [00:31:55,240 - 00:31:55,900] minus...
+- [00:31:58,179 - 00:32:00,499] minus one half partial of
+- [00:32:00,499 - 00:32:02,820] phi with respect to x squared.
+- [00:32:04,940 - 00:32:07,100] I'm finished with the speeds of light for the moment.
+- [00:32:07,260 - 00:32:08,540] I don't care about them anymore.
+- [00:32:08,620 - 00:32:09,980] I just wanted to keep track of them
+- [00:32:09,980 - 00:32:11,460] in this little exercise over here.
+- [00:32:11,880 - 00:32:12,930] But if we wanted to keep
+- [00:32:12,930 - 00:32:13,980] track of the speed of light,
+- [00:32:14,040 - 00:32:14,920] I think there would be
+- [00:32:14,920 - 00:32:15,800] a 1 over c squared here.
+- [00:32:16,780 - 00:32:17,340] All right.
+- [00:32:17,400 - 00:32:19,160] This is the Lagrangian for the field,
+- [00:32:19,300 - 00:32:21,220] and it doesn't involve a particle at all.
+- [00:32:22,640 - 00:32:23,680] But now we have to...
+- [00:32:23,680 - 00:32:24,520] or the action.
+- [00:32:24,520 - 00:32:26,000] This is the action for the...
+- [00:32:27,740 - 00:32:29,680] for the field.
+- [00:32:29,940 - 00:32:31,840] But now let's also add to that
+- [00:32:31,840 - 00:32:33,280] the action for the particle.
+- [00:32:33,440 - 00:32:34,440] Here it is right over here.
+- [00:32:35,180 - 00:32:37,180] I'm going to take a very special,
+- [00:32:37,180 - 00:32:38,220] simple case.
+- [00:32:39,460 - 00:32:41,780] You can work out the more complicated case,
+- [00:32:41,960 - 00:32:43,580] but I'm going to work out the case
+- [00:32:44,300 - 00:32:45,440] where the particle
+- [00:32:47,000 - 00:32:48,040] is at rest.
+- [00:32:49,540 - 00:32:51,160] Let's put the particle at rest.
+- [00:32:51,260 - 00:32:53,980] Let's assume for the moment
+- [00:32:53,980 - 00:32:56,420] that there is a solution to the equations
+- [00:32:56,420 - 00:32:58,000] where the particle is just at rest.
+- [00:32:58,100 - 00:32:58,560] After all,
+- [00:32:58,560 - 00:32:59,040] there are situations
+- [00:32:59,040 - 00:33:01,200] where an electron might be at rest.
+- [00:33:01,500 - 00:33:01,700] Right?
+- [00:33:03,600 - 00:33:06,740] And ask what the additional term in the action is.
+- [00:33:06,800 - 00:33:08,020] We can make the electron move.
+- [00:33:08,180 - 00:33:08,700] It doesn't...
+- [00:33:10,439 - 00:33:12,220] But for simplicity,
+- [00:33:12,460 - 00:33:14,480] let's just take the electron to be at rest,
+- [00:33:14,540 - 00:33:15,100] not moving.
+- [00:33:15,540 - 00:33:16,480] That's the trajectory.
+- [00:33:16,780 - 00:33:18,500] And what is the action in that case?
+- [00:33:18,900 - 00:33:20,120] Here it is right over here.
+- [00:33:26,100 - 00:33:27,620] X dot is zero.
+- [00:33:28,060 - 00:33:29,180] This is just one.
+- [00:33:30,600 - 00:33:33,200] MC squared by itself is of no interest.
+- [00:33:35,680 - 00:33:38,440] And so the Lagrangian for the particle,
+- [00:33:38,640 - 00:33:41,400] or the contribution to the Lagrangian
+- [00:33:41,400 - 00:33:43,540] from this piece over here,
+- [00:33:43,660 - 00:33:46,220] is just the integral of phi,
+- [00:33:49,100 - 00:33:50,440] phi of x and t,
+- [00:33:50,620 - 00:33:51,860] but an integral along where?
+- [00:33:51,860 - 00:33:54,760] What kind of integral?
+- [00:33:55,600 - 00:33:56,780] It's an integral dt,
+- [00:33:56,780 - 00:33:57,280] right?
+- [00:33:59,160 - 00:34:00,380] This is just a particle.
+- [00:34:00,480 - 00:34:01,080] It's not a field.
+- [00:34:01,180 - 00:34:01,940] It's an integral dt.
+- [00:34:02,520 - 00:34:04,500] And it's an integral along
+- [00:34:04,500 - 00:34:06,480] the world line of the particle.
+- [00:34:07,780 - 00:34:09,600] But it involves phi.
+- [00:34:11,179 - 00:34:12,400] It involves phi.
+- [00:34:12,600 - 00:34:17,179] The reason the particle responded to the field
+- [00:34:17,179 - 00:34:19,940] was because the Lagrangian for the particle involves phi.
+- [00:34:20,440 - 00:34:21,840] The reason the field responded to the particle
+- [00:34:21,860 - 00:34:25,060] is because that same Lagrangian
+- [00:34:26,600 - 00:34:28,860] also has phi and the
+- [00:34:28,860 - 00:34:31,120] positions of the particles in it.
+- [00:34:31,260 - 00:34:32,500] So what do we add?
+- [00:34:32,639 - 00:34:35,100] How can we add this term here?
+- [00:34:36,480 - 00:34:39,659] I want to add it in a way that corresponds
+- [00:34:41,239 - 00:34:44,340] to an integral over space and time.
+- [00:34:45,280 - 00:34:46,949] How can I turn this into
+- [00:34:46,949 - 00:34:48,620] an integral over space and time?
+- [00:34:48,880 - 00:34:49,440] Oh,
+- [00:34:49,440 - 00:34:49,860] sorry.
+- [00:34:50,040 - 00:34:51,199] Let's go back a step.
+- [00:34:51,380 - 00:34:51,840] So,
+- [00:34:51,840 - 00:34:51,840] let's go back a step.
+- [00:34:51,860 - 00:34:53,100] Let's go back a step.
+- [00:34:53,960 - 00:34:55,500] Where should I put this particle?
+- [00:34:56,040 - 00:34:57,760] For convenience and simplicity,
+- [00:34:58,080 - 00:35:00,020] let me just put it at x equals 0.
+- [00:35:01,560 - 00:35:04,280] It's a particle at position x equals 0.
+- [00:35:04,760 - 00:35:06,120] Then what do we put in here?
+- [00:35:06,400 - 00:35:06,640] Well,
+- [00:35:06,640 - 00:35:08,080] we put in the position of the particle,
+- [00:35:09,240 - 00:35:09,700] x,
+- [00:35:11,540 - 00:35:12,320] which is 0.
+- [00:35:18,220 - 00:35:19,820] phi of 0 and t.
+- [00:35:21,000 - 00:35:21,900] Integral dt.
+- [00:35:22,640 - 00:35:23,160] Now,
+- [00:35:23,160 - 00:35:24,540] this term here is just
+- [00:35:24,540 - 00:35:25,920] an integral over the world line.
+- [00:35:26,540 - 00:35:30,620] This term here is an integral over all space-time.
+- [00:35:33,960 - 00:35:34,800] In fact,
+- [00:35:34,800 - 00:35:35,680] the way I wrote it,
+- [00:35:35,720 - 00:35:37,760] space is only one-dimensional,
+- [00:35:37,880 - 00:35:40,580] so this would really be only a two-dimensional integral.
+- [00:35:40,780 - 00:35:41,800] But you know what I mean.
+- [00:35:42,640 - 00:35:43,160] Okay,
+- [00:35:43,160 - 00:35:44,560] how can I write this
+- [00:35:45,440 - 00:35:49,360] so that it looks like an integral over all space-time?
+- [00:35:50,200 - 00:35:52,520] Just to put it into one term.
+- [00:35:52,980 - 00:35:54,240] And the answer is simple.
+- [00:35:54,660 - 00:35:58,100] The answer is you use the Dirac delta function.
+- [00:35:58,920 - 00:36:00,840] You use the Dirac delta function.
+- [00:36:01,100 - 00:36:02,120] Here's the way you do it.
+- [00:36:03,260 - 00:36:04,540] This is what I want to get.
+- [00:36:08,300 - 00:36:10,360] Take phi at 0.
+- [00:36:10,920 - 00:36:12,700] The time is not important here.
+- [00:36:13,040 - 00:36:15,340] And let me write it in the following way.
+- [00:36:21,000 - 00:36:23,440] It's an integral over all space
+- [00:36:27,420 - 00:36:29,180] of phi of x
+- [00:36:30,620 - 00:36:32,920] times the Dirac delta function.
+- [00:36:35,820 - 00:36:38,560] The time dependence is not important here.
+- [00:36:38,620 - 00:36:39,960] It just goes along for the ride.
+- [00:36:40,280 - 00:36:41,520] Do you recognize this?
+- [00:36:41,660 - 00:36:44,200] When you integrate the Dirac delta function,
+- [00:36:44,320 - 00:36:46,230] the Dirac delta function is a
+- [00:36:46,230 - 00:36:48,140] very high spike of a function.
+- [00:36:49,000 - 00:36:50,780] It's a high spike of a function.
+- [00:36:50,880 - 00:36:53,740] It's 0 everywhere except at x equals 0.
+- [00:36:54,840 - 00:36:56,700] And so when you integrate
+- [00:36:56,700 - 00:36:58,560] the field with the delta function,
+- [00:36:58,840 - 00:37:00,940] you just get the field at the origin.
+- [00:37:01,940 - 00:37:03,540] You get the field at the origin
+- [00:37:03,540 - 00:37:06,120] or the field at the place where x,
+- [00:37:06,280 - 00:37:08,740] where the delta function has its big spike.
+- [00:37:09,700 - 00:37:12,860] Where does the dx cubed come from?
+- [00:37:13,000 - 00:37:14,260] That's the integral over the volume.
+- [00:37:19,300 - 00:37:21,380] If this was a one-dimensional axis,
+- [00:37:21,500 - 00:37:22,600] we would just write dx.
+- [00:37:25,680 - 00:37:27,140] Let's take the case of...
+- [00:37:30,980 - 00:37:33,080] I guess I really need to tell you
+- [00:37:33,080 - 00:37:35,220] what that delta function really means.
+- [00:37:35,960 - 00:37:38,040] What I've written is just delta of x.
+- [00:37:39,279 - 00:37:41,600] Let's be a little more precise.
+- [00:37:43,940 - 00:37:45,820] Let's call this delta 3 of x,
+- [00:37:45,820 - 00:37:46,840] d3x.
+- [00:37:48,140 - 00:37:50,860] Delta 3 of x means
+- [00:37:50,860 - 00:37:53,580] the product of three delta functions.
+- [00:37:54,740 - 00:37:55,860] Delta of x,
+- [00:37:55,860 - 00:37:57,420] delta of y,
+- [00:37:57,420 - 00:37:59,180] delta of z.
+- [00:38:01,899 - 00:38:04,540] Where is this function non-zero?
+- [00:38:05,300 - 00:38:07,610] It's non-zero when all three
+- [00:38:07,610 - 00:38:09,920] of these delta functions are non-zero.
+- [00:38:10,860 - 00:38:12,290] There's only one place where
+- [00:38:12,290 - 00:38:13,720] all three of them are non-zero.
+- [00:38:13,960 - 00:38:15,380] It's at x equals 0,
+- [00:38:15,380 - 00:38:16,380] y equals 0,
+- [00:38:16,380 - 00:38:17,240] or z equals 0.
+- [00:38:19,360 - 00:38:20,360] So what is it?
+- [00:38:20,420 - 00:38:22,140] It's a function of three coordinates,
+- [00:38:22,400 - 00:38:23,040] delta x,
+- [00:38:23,040 - 00:38:23,320] y,
+- [00:38:23,320 - 00:38:23,620] and z.
+- [00:38:24,540 - 00:38:26,940] It's a function of the three coordinates of space,
+- [00:38:27,940 - 00:38:29,720] but it only has a
+- [00:38:29,720 - 00:38:31,500] value at one point of space.
+- [00:38:32,580 - 00:38:34,040] And at that point of space,
+- [00:38:34,040 - 00:38:35,200] it's enormously big.
+- [00:38:37,600 - 00:38:40,780] When you integrate the field...
+- [00:38:41,440 - 00:38:42,440] Let's write it out.
+- [00:38:42,480 - 00:38:43,700] Let's write it out in bloody detail.
+- [00:38:44,779 - 00:38:46,860] Integral phi of x,
+- [00:38:46,860 - 00:38:47,300] y,
+- [00:38:47,300 - 00:38:47,780] and z.
+- [00:38:49,140 - 00:38:51,240] I won't bother writing the time dependence.
+- [00:38:52,600 - 00:38:53,780] Delta of x,
+- [00:38:53,780 - 00:38:55,040] delta of y,
+- [00:38:55,040 - 00:38:56,880] delta of z.
+- [00:38:58,560 - 00:38:59,080] dx,
+- [00:38:59,080 - 00:38:59,600] dy,
+- [00:38:59,600 - 00:39:00,060] dz.
+- [00:39:03,320 - 00:39:04,480] That's what I've written here.
+- [00:39:04,560 - 00:39:05,900] That's the meaning of this symbol here.
+- [00:39:07,520 - 00:39:09,260] The triple delta function,
+- [00:39:09,260 - 00:39:12,340] and then integrating over all space.
+- [00:39:13,200 - 00:39:13,720] Alright,
+- [00:39:13,720 - 00:39:14,640] how do you do this integral?
+- [00:39:14,940 - 00:39:16,820] This is not a very hard integral to do.
+- [00:39:17,560 - 00:39:18,160] Remember,
+- [00:39:18,160 - 00:39:22,240] whenever you integrate a function with a delta function,
+- [00:39:22,560 - 00:39:24,060] it gives you the value
+- [00:39:24,060 - 00:39:25,560] of the function at the origin,
+- [00:39:25,740 - 00:39:28,760] or at the place where the delta function is big,
+- [00:39:28,940 - 00:39:29,980] where it has its spike.
+- [00:39:31,400 - 00:39:32,960] We're just using the equation.
+- [00:39:33,960 - 00:39:35,620] Integral f of x,
+- [00:39:35,620 - 00:39:36,680] delta of x,
+- [00:39:36,680 - 00:39:38,480] equals f of 0.
+- [00:39:38,980 - 00:39:41,780] That's the defining property of the delta function.
+- [00:39:42,380 - 00:39:46,420] It picks out for you the value of the function,
+- [00:39:46,420 - 00:39:49,100] at the place where the delta function has its spike.
+- [00:39:49,700 - 00:39:50,140] Alright,
+- [00:39:50,140 - 00:39:52,940] so if I do the integral over x first,
+- [00:39:53,440 - 00:39:55,920] this one tells me to set x equal to 0.
+- [00:39:56,440 - 00:39:58,960] This integral tells me to set y equal to 0.
+- [00:39:59,160 - 00:40:00,240] And this integral tells me
+- [00:40:00,240 - 00:40:01,320] to set z equal to 0.
+- [00:40:01,340 - 00:40:02,860] So the whole thing is just phi of 0.
+- [00:40:07,380 - 00:40:08,460] That's what I've written here.
+- [00:40:14,160 - 00:40:14,840] Notice,
+- [00:40:14,840 - 00:40:15,740] I also,
+- [00:40:15,740 - 00:40:17,540] in order to calculate the action,
+- [00:40:18,440 - 00:40:21,400] I also have to integrate it over time.
+- [00:40:22,120 - 00:40:26,660] The action was the integral of this phi over time.
+- [00:40:27,220 - 00:40:28,580] So in the action,
+- [00:40:28,580 - 00:40:33,160] we have the integral over all coordinates,
+- [00:40:33,340 - 00:40:34,420] d4x,
+- [00:40:34,420 - 00:40:37,380] that means the xdy dzdt,
+- [00:40:39,600 - 00:40:40,920] phi of x and t,
+- [00:40:40,920 - 00:40:45,800] delta cubed of x.
+- [00:40:47,120 - 00:40:49,570] This delta cubed of x is doing
+- [00:40:49,570 - 00:40:52,020] nothing but picking out the value of phi
+- [00:40:52,700 - 00:40:55,240] at the spatial position of the particle.
+- [00:40:55,480 - 00:40:56,460] That's all it's doing.
+- [00:40:56,560 - 00:40:59,500] It's a trick just to write this thing here.
+- [00:40:59,680 - 00:41:02,050] It's a trick for writing the value of
+- [00:41:02,050 - 00:41:04,420] a field at a point as an integral.
+- [00:41:05,520 - 00:41:06,800] Why do I want to do it?
+- [00:41:06,900 - 00:41:07,100] Well,
+- [00:41:07,100 - 00:41:08,100] I just want to do it,
+- [00:41:08,100 - 00:41:17,580] because I would like to add here plus,
+- [00:41:21,220 - 00:41:22,340] I missed something,
+- [00:41:22,340 - 00:41:23,020] I missed a g.
+- [00:41:24,740 - 00:41:26,400] Can we lose a minus sign?
+- [00:41:27,160 - 00:41:27,980] Very likely.
+- [00:41:28,640 - 00:41:29,620] Because of this?
+- [00:41:29,780 - 00:41:30,020] Yeah.
+- [00:41:30,080 - 00:41:30,460] Yeah.
+- [00:41:33,660 - 00:41:34,180] Minus.
+- [00:41:39,800 - 00:41:40,520] G,
+- [00:41:40,520 - 00:41:42,500] delta cubed of x,
+- [00:41:42,500 - 00:41:45,460] phi of x.
+- [00:41:47,460 - 00:41:51,580] And now the whole thing is just one big integral
+- [00:41:51,920 - 00:41:54,100] over all space and all time.
+- [00:41:54,380 - 00:41:55,480] Here it is.
+- [00:42:00,060 - 00:42:03,380] And this thing inside the big square bracket,
+- [00:42:03,380 - 00:42:05,080] is the Lagrangian.
+- [00:42:05,880 - 00:42:08,240] This is this thing inside the big square.
+- [00:42:08,460 - 00:42:10,840] This is the action equals.
+- [00:42:11,420 - 00:42:14,680] The action is now an integral over space and time,
+- [00:42:15,380 - 00:42:17,120] like any good field Lagrangian.
+- [00:42:17,760 - 00:42:21,220] It has the good old field action.
+- [00:42:21,700 - 00:42:25,310] And this term over here represents the
+- [00:42:25,310 - 00:42:28,920] effect of the particle back on the field.
+- [00:42:29,300 - 00:42:31,000] It's just this term over here.
+- [00:42:31,540 - 00:42:33,260] For the special situation where the
+- [00:42:33,260 - 00:42:34,980] particle happens to be at rest.
+- [00:42:36,240 - 00:42:39,160] We could jazz it up so that the particle moves.
+- [00:42:39,340 - 00:42:40,380] This is phi of x and t.
+- [00:42:41,500 - 00:42:43,970] We could do that by making
+- [00:42:43,970 - 00:42:46,440] the delta function move around with time.
+- [00:42:46,580 - 00:42:47,600] That's possible to do,
+- [00:42:47,600 - 00:42:49,240] but it's not important right now.
+- [00:42:50,000 - 00:42:50,520] Okay,
+- [00:42:50,520 - 00:42:52,740] now let's go take this Lagrangian
+- [00:42:52,740 - 00:42:55,720] and work out the equations of motion for it.
+- [00:42:55,820 - 00:42:57,960] The thing inside the bracket is Lagrangian.
+- [00:42:58,140 - 00:43:00,220] And let's work out the equations of motion.
+- [00:43:02,960 - 00:43:04,240] First of all,
+- [00:43:10,180 - 00:43:12,660] we have the derivative of the Lagrangian
+- [00:43:13,220 - 00:43:17,500] with respect to partial of phi with respect to t,
+- [00:43:18,500 - 00:43:19,600] d by dt.
+- [00:43:22,800 - 00:43:23,740] What is that?
+- [00:43:24,520 - 00:43:25,600] That's just equal,
+- [00:43:25,600 - 00:43:28,740] what is dl by d phi dt?
+- [00:43:29,720 - 00:43:30,720] It's just d phi dt,
+- [00:43:30,720 - 00:43:31,080] right?
+- [00:43:32,200 - 00:43:35,680] So this one is going to give us the
+- [00:43:35,680 - 00:43:39,160] second derivative of phi with respect to t squared.
+- [00:43:41,240 - 00:43:42,460] Sort of like an acceleration.
+- [00:43:43,220 - 00:43:45,060] We have a kinetic energy,
+- [00:43:45,060 - 00:43:45,980] phi dot squared.
+- [00:43:46,480 - 00:43:48,360] When we work out the equation of motion,
+- [00:43:48,540 - 00:43:50,820] we have something that looks like an acceleration of phi.
+- [00:43:52,700 - 00:43:53,160] Now,
+- [00:43:53,160 - 00:43:54,810] there are the other terms coming
+- [00:43:54,810 - 00:43:56,460] from d phi by dx squared,
+- [00:43:56,460 - 00:43:58,020] and they're exactly the same.
+- [00:43:58,640 - 00:43:59,820] Same sort of thing.
+- [00:43:59,940 - 00:44:00,600] I'm going to erase this,
+- [00:44:01,340 - 00:44:04,070] and I'm just going to put in
+- [00:44:04,070 - 00:44:06,800] minus d second phi by dx squared.
+- [00:44:10,520 - 00:44:11,920] If that's all there was,
+- [00:44:12,080 - 00:44:13,720] I would set that equal to zero,
+- [00:44:13,820 - 00:44:16,700] and this would be a good old-fashioned wave equation,
+- [00:44:17,020 - 00:44:18,660] one-dimensional in this case.
+- [00:44:19,020 - 00:44:20,860] If we wanted to add more dimensions,
+- [00:44:21,180 - 00:44:24,340] we would add minus d second phi by dy squared
+- [00:44:25,540 - 00:44:26,440] minus d second phi by dx squared.
+- [00:44:26,460 - 00:44:31,460] And we would set that equal to zero.
+- [00:44:32,900 - 00:44:35,460] That would be the wave equation
+- [00:44:35,460 - 00:44:38,020] describing waves of this thing phi.
+- [00:44:38,560 - 00:44:41,400] But now we have more phi dependence here.
+- [00:44:41,980 - 00:44:44,560] The Lagrangian depends on phi in another way.
+- [00:44:45,000 - 00:44:46,790] What happens if we differentiate
+- [00:44:46,790 - 00:44:48,580] the Lagrangian with respect to phi?
+- [00:44:48,720 - 00:44:48,940] Remember,
+- [00:44:48,940 - 00:44:51,180] what we're supposed to put here
+- [00:44:51,180 - 00:44:53,420] on the right-hand side is not zero.
+- [00:44:53,980 - 00:44:56,440] We're supposed to put the derivative of the Lagrangian.
+- [00:45:01,280 - 00:45:03,720] That's the other side of Lagrange's equations,
+- [00:45:03,880 - 00:45:05,820] or the other side of the Euler-Lagrange equations.
+- [00:45:06,260 - 00:45:07,860] And we can see from here,
+- [00:45:09,000 - 00:45:10,810] the derivative of L with respect
+- [00:45:10,810 - 00:45:12,620] to phi at x and t
+- [00:45:12,620 - 00:45:15,000] is just g times the delta function.
+- [00:45:15,920 - 00:45:18,920] It's just g times delta cubed of x.
+- [00:45:20,780 - 00:45:21,380] So,
+- [00:45:21,380 - 00:45:25,520] our equation is just that this is equal to g,
+- [00:45:27,440 - 00:45:29,620] times delta cubed of x.
+- [00:45:32,040 - 00:45:33,910] Do you recognize this as an
+- [00:45:33,910 - 00:45:35,780] equation you may have seen before?
+- [00:45:35,960 - 00:45:36,040] Oh,
+- [00:45:36,040 - 00:45:36,820] there's a minus sign,
+- [00:45:36,820 - 00:45:37,240] I think.
+- [00:45:37,320 - 00:45:38,140] Is there a minus sign?
+- [00:45:39,140 - 00:45:39,660] Yes,
+- [00:45:39,660 - 00:45:40,860] there's a minus sign.
+- [00:45:45,580 - 00:45:46,100] Now,
+- [00:45:46,100 - 00:45:47,080] this is an odd equation.
+- [00:45:48,160 - 00:45:49,360] It's a wave equation,
+- [00:45:49,360 - 00:45:52,440] except on the right-hand side at one point,
+- [00:45:52,660 - 00:45:54,120] and only one point,
+- [00:45:54,380 - 00:45:55,740] there's something different.
+- [00:45:57,060 - 00:45:59,240] Something's going on at that one point,
+- [00:45:59,320 - 00:46:01,960] which is different than the rest of space.
+- [00:46:02,300 - 00:46:03,380] What's going on?
+- [00:46:03,380 - 00:46:04,300] There's a particle there.
+- [00:46:06,420 - 00:46:08,480] It's affecting the equation of motion,
+- [00:46:08,480 - 00:46:10,240] but only at one point.
+- [00:46:11,740 - 00:46:12,300] Let's,
+- [00:46:12,300 - 00:46:15,240] just to try to make it a little bit familiar,
+- [00:46:17,380 - 00:46:18,980] let's suppose that we're looking
+- [00:46:18,980 - 00:46:20,580] for solutions of the equation.
+- [00:46:20,700 - 00:46:20,980] After all,
+- [00:46:20,980 - 00:46:22,460] the particle is standing still,
+- [00:46:23,240 - 00:46:25,000] at least in this example.
+- [00:46:25,000 - 00:46:27,340] If the particle is standing still,
+- [00:46:27,640 - 00:46:29,160] there might be a chance that
+- [00:46:29,160 - 00:46:30,680] there's a solution of the equation
+- [00:46:30,680 - 00:46:33,400] where the field itself doesn't change with time.
+- [00:46:34,280 - 00:46:36,980] Just the effect of the standing still particle
+- [00:46:37,600 - 00:46:39,000] affecting the field
+- [00:46:39,000 - 00:46:40,830] is likely to make a field
+- [00:46:40,830 - 00:46:42,660] which also doesn't vary with time.
+- [00:46:43,120 - 00:46:43,700] So,
+- [00:46:43,700 - 00:46:46,180] we might look then for a solution to this equation
+- [00:46:46,180 - 00:46:48,880] in which phi is time independent.
+- [00:46:49,520 - 00:46:51,080] That means this is not there.
+- [00:46:53,640 - 00:46:54,220] And,
+- [00:46:54,220 - 00:46:54,980] we can see that,
+- [00:46:54,980 - 00:46:56,080] we can change the sign of everything,
+- [00:46:56,859 - 00:46:57,180] plus,
+- [00:46:57,180 - 00:46:58,520] plus,
+- [00:46:58,520 - 00:46:59,020] plus,
+- [00:46:59,020 - 00:46:59,700] plus.
+- [00:47:03,140 - 00:47:05,680] I don't know if you recognize this equation,
+- [00:47:06,840 - 00:47:07,740] Poisson's equation.
+- [00:47:08,080 - 00:47:09,440] This is the Poisson equation,
+- [00:47:10,740 - 00:47:11,540] for example,
+- [00:47:11,540 - 00:47:14,820] for the electrostatic potential energy,
+- [00:47:14,960 - 00:47:16,160] the electrostatic potential.
+- [00:47:16,520 - 00:47:19,360] It would sometimes be written as del squared phi
+- [00:47:20,040 - 00:47:24,020] is equal to a source on the right hand side,
+- [00:47:24,020 - 00:47:25,220] or charge density.
+- [00:47:25,620 - 00:47:26,080] And,
+- [00:47:26,080 - 00:47:26,620] in this case,
+- [00:47:26,620 - 00:47:28,960] the charge density is just a delta function.
+- [00:47:30,640 - 00:47:31,720] In other words,
+- [00:47:31,720 - 00:47:32,460] a high,
+- [00:47:32,460 - 00:47:34,320] sharp spike.
+- [00:47:36,160 - 00:47:36,720] So,
+- [00:47:36,720 - 00:47:37,060] you see,
+- [00:47:37,980 - 00:47:41,240] now we're not really doing electrodynamics at the moment.
+- [00:47:41,600 - 00:47:43,860] We're doing a sort of simplification
+- [00:47:43,860 - 00:47:47,740] involving a scalar field instead of electromagnetic fields.
+- [00:47:48,360 - 00:47:48,920] But,
+- [00:47:48,920 - 00:47:49,760] you see how it works.
+- [00:47:49,880 - 00:47:52,260] The same term in the Lagrangian,
+- [00:47:52,260 - 00:47:55,460] which tells the particle
+- [00:47:55,460 - 00:47:58,840] to move as if there was a potential energy,
+- [00:47:58,840 - 00:47:59,420] g phi,
+- [00:48:00,240 - 00:48:01,140] in other words,
+- [00:48:01,140 - 00:48:02,700] which exerts forces on the particle.
+- [00:48:03,920 - 00:48:04,440] Also,
+- [00:48:04,440 - 00:48:05,700] that same term,
+- [00:48:08,620 - 00:48:10,210] when used for the equation
+- [00:48:10,210 - 00:48:11,800] of motion of the phi field,
+- [00:48:12,000 - 00:48:14,460] tells us that the phi field has a source.
+- [00:48:16,120 - 00:48:18,020] These are not independent things.
+- [00:48:18,140 - 00:48:20,140] The fact that the field affects the particle
+- [00:48:20,840 - 00:48:22,180] tells us that the particle
+- [00:48:22,260 - 00:48:22,980] affects the field.
+- [00:48:23,200 - 00:48:24,380] And with a specific,
+- [00:48:24,380 - 00:48:25,540] simple example,
+- [00:48:25,820 - 00:48:28,080] it even tells us exactly how.
+- [00:48:29,840 - 00:48:31,400] Same parameter g.
+- [00:48:31,900 - 00:48:34,500] The parameter g determines how strong
+- [00:48:34,500 - 00:48:36,720] the effect of the particle on the field is,
+- [00:48:36,860 - 00:48:39,420] and it also tells us how strong
+- [00:48:39,420 - 00:48:42,020] the effect of the field on the particle is.
+- [00:48:43,100 - 00:48:43,700] So,
+- [00:48:43,700 - 00:48:45,520] we have a nice little story there.
+- [00:48:46,580 - 00:48:48,620] Fields and particles affect each other.
+- [00:48:49,820 - 00:48:52,180] Through a common term in the Lagrangian,
+- [00:48:52,260 - 00:48:54,770] parts are qualche unapportwie
+- [00:48:56,100 - 00:48:56,880] and that choreographyarmotas
+- [00:48:58,160 - 00:49:02,060] A graph is
+- [00:49:02,060 - 00:49:03,000] taken of the tree as the graph
+- [00:49:03,000 - 00:49:17,240] for the egg in the antip waren Rudolf Dattel,
+- [00:49:17,240 - 00:49:20,640] which is that
+- [00:49:20,640 - 00:49:21,960] of our choice,
+- [00:49:21,960 - 00:49:22,780] someplace else.
+- [00:49:22,780 - 00:49:24,300] I didn't want to put it at the origin.
+- [00:49:24,300 - 00:49:27,460] I wanted to put it at x
+- [00:49:27,460 - 00:49:28,380] equals a.
+- [00:49:28,380 - 00:49:32,080] What would I do here?
+- [00:49:32,080 - 00:49:32,980] How would I change it?
+- [00:49:32,980 - 00:49:35,180] x minus a?
+- [00:49:35,180 - 00:49:36,580] Delta of x minus a.
+- [00:49:37,400 - 00:49:40,020] Delta of x minus a has its
+- [00:49:40,020 - 00:49:42,640] spike when x is equal to a.
+- [00:49:42,640 - 00:49:45,040] Now supposing the particle
+- [00:49:45,040 - 00:49:45,680] were moving,
+- [00:49:45,680 - 00:49:49,340] that its position were a of t,
+- [00:49:49,340 - 00:49:57,160] all you would do is write delta of x
+- [00:49:57,920 - 00:49:59,880] minus a of t here.
+- [00:49:59,880 - 00:50:01,730] And what this would tell you
+- [00:50:01,730 - 00:50:03,580] is that there's a source of the
+- [00:50:03,580 - 00:50:04,020] field,
+- [00:50:04,020 - 00:50:06,210] but the source of the field is
+- [00:50:06,210 - 00:50:08,400] moving and at any given time it's at
+- [00:50:08,400 - 00:50:09,460] position a of t.
+- [00:50:09,460 - 00:50:12,380] So you see we can't accommodate a moving particle.
+- [00:50:12,380 - 00:50:13,860] We can't
+- [00:50:13,860 - 00:50:15,020] accommodate a moving particle.
+- [00:50:15,040 - 00:50:17,270] The only thing is if
+- [00:50:17,270 - 00:50:19,500] we did have the particle moving,
+- [00:50:19,500 - 00:50:21,920] we wouldn't expect the
+- [00:50:21,920 - 00:50:24,040] field to be time independent.
+- [00:50:24,040 - 00:50:26,660] If the particle is moving around,
+- [00:50:26,660 - 00:50:27,620] obviously the
+- [00:50:27,620 - 00:50:29,840] field will depend on time if the
+- [00:50:29,840 - 00:50:32,060] source of the particle is moving around.
+- [00:50:32,060 - 00:50:32,960] And so
+- [00:50:32,960 - 00:50:35,260] we would have to put back the other term here,
+- [00:50:35,260 - 00:50:38,860] minus d second phi by dt squared.
+- [00:50:41,380 - 00:50:45,020] There's no way we could get a solution with
+- [00:50:45,020 - 00:50:46,380] a time independent phi,
+- [00:50:46,380 - 00:50:49,880] but where the right hand side does depend on time.
+- [00:50:49,880 - 00:50:51,540] The only way
+- [00:50:51,540 - 00:50:53,420] to make it consistent is to
+- [00:50:53,420 - 00:50:55,300] put back the time dependence here.
+- [00:50:55,300 - 00:50:57,980] So a moving particle,
+- [00:50:57,980 - 00:50:58,680] an
+- [00:50:58,680 - 00:51:02,010] accelerating particle or a vibrating
+- [00:51:02,010 - 00:51:05,340] particle will affect the field,
+- [00:51:05,340 - 00:51:06,540] give it a time dependence,
+- [00:51:06,840 - 00:51:07,960] and you know what it'll do.
+- [00:51:07,960 - 00:51:09,080] It'll radiate waves.
+- [00:51:09,080 - 00:51:14,560] But the moment we're not going to solve
+- [00:51:14,560 - 00:51:15,320] wave equations,
+- [00:51:15,320 - 00:51:16,700] we're going to do something else.
+- [00:51:16,700 - 00:51:18,780] We're going to spend a little bit of
+- [00:51:18,780 - 00:51:26,020] time just talking about the notation of relativity.
+- [00:51:26,020 - 00:51:27,240] The notation,
+- [00:51:27,240 - 00:51:28,780] I mean the mathematical notation
+- [00:51:28,780 - 00:51:31,430] that we use to make equations look simple
+- [00:51:31,430 - 00:51:34,080] and pretty and not have to write every damn
+- [00:51:34,080 - 00:51:35,160] time we write an equation,
+- [00:51:35,160 - 00:51:37,900] second derivative with respect to x squared,
+- [00:51:37,900 - 00:51:38,500] second derivative
+- [00:51:38,500 - 00:51:39,160] with respect to y squared,
+- [00:51:39,160 - 00:51:39,840] blah blah blah,
+- [00:51:39,840 - 00:51:42,620] but have a neat notation.
+- [00:51:42,620 - 00:51:44,520] The notation will
+- [00:51:44,560 - 00:51:47,220] make sense.
+- [00:51:47,220 - 00:51:55,220] The question becomes,
+- [00:51:55,220 - 00:51:57,400] but what if we use a whoever idea,
+- [00:51:57,400 - 00:51:57,400] and if I had a new
+- [00:51:57,400 - 00:51:57,880] step veurein,
+- [00:51:57,880 - 00:52:02,240] and if I'm okay with it,
+- [00:52:02,240 - 00:52:02,460] and this became a first step,
+- [00:52:02,460 - 00:52:02,460] what if,
+- [00:52:02,460 - 00:52:04,440] for example,
+- [00:52:04,440 - 00:52:04,600] I did aależline,
+- [00:52:04,600 - 00:52:04,600] because a first step we already
+- [00:52:04,600 - 00:52:04,600] had that goddess We're thinking about
+- [00:52:04,600 - 00:52:04,600] .
+- [00:52:04,600 - 00:52:04,600] .
+- [00:52:04,600 - 00:52:05,300] .元stern V.
+- [00:52:05,300 - 00:52:05,300] .
+- [00:52:05,300 - 00:52:05,760] .
+- [00:52:05,760 - 00:52:07,780] .
+- [00:52:07,780 - 00:52:12,900] 되 advocate
+- [00:52:14,560 - 00:52:15,300] Is that actually not dependent?
+- [00:52:16,640 - 00:52:17,080] Well,
+- [00:52:17,080 - 00:52:20,480] if we really wanted to do real non-relativistic,
+- [00:52:20,600 - 00:52:22,520] we would want to keep the v over c.
+- [00:52:22,840 - 00:52:26,080] We would not want to go to the non-relativistic limit.
+- [00:52:27,280 - 00:52:29,160] But even in a non-relativistic limit,
+- [00:52:29,160 - 00:52:31,060] the right-hand side is time dependent,
+- [00:52:31,600 - 00:52:34,640] and so it will create waves.
+- [00:52:34,820 - 00:52:36,200] But I'm not sure exactly what you're asking.
+- [00:52:36,480 - 00:52:38,360] I guess I would say where is
+- [00:52:38,360 - 00:52:40,240] the relativity if I'm looking at that equation?
+- [00:52:40,340 - 00:52:41,840] I guess it's in the form of v itself.
+- [00:52:41,840 - 00:52:42,420] Is that right?
+- [00:52:42,420 - 00:52:42,660] No.
+- [00:52:42,660 - 00:52:44,550] It's in the form of
+- [00:52:44,550 - 00:52:46,440] the left-hand side of the equation.
+- [00:52:49,780 - 00:52:50,560] c squared.
+- [00:52:51,720 - 00:52:52,200] No.
+- [00:52:52,200 - 00:52:53,500] It's in the form...
+- [00:52:55,420 - 00:52:57,240] From the unit analysis,
+- [00:52:57,240 - 00:53:01,400] g times phi has to be equal to energy?
+- [00:53:03,300 - 00:53:03,780] Yeah.
+- [00:53:03,780 - 00:53:04,260] Yeah.
+- [00:53:04,260 - 00:53:05,880] g times phi has to be equal to energy.
+- [00:53:12,799 - 00:53:13,220] Well,
+- [00:53:13,220 - 00:53:13,760] let's see.
+- [00:53:13,760 - 00:53:15,240] Let's see if we can figure out the units.
+- [00:53:24,300 - 00:53:25,220] I'll leave it to you.
+- [00:53:25,220 - 00:53:26,680] You figure out the units.
+- [00:53:28,760 - 00:53:31,060] The units of phi happen to be units of energy,
+- [00:53:32,020 - 00:53:35,380] and that means the units of g are dimensionless numbers.
+- [00:53:38,220 - 00:53:40,160] It depends on the dimension of space.
+- [00:53:40,160 - 00:53:41,220] That's not always true.
+- [00:53:42,420 - 00:53:42,920] For the moment,
+- [00:53:42,920 - 00:53:45,160] this is not too important for us.
+- [00:53:47,140 - 00:53:47,560] All right.
+- [00:53:47,560 - 00:53:51,100] Now we want to spend a little time just reviewing.
+- [00:53:51,180 - 00:53:51,800] For some of you,
+- [00:53:51,800 - 00:53:52,500] it'll be reviewing.
+- [00:53:52,500 - 00:53:53,220] For some of you,
+- [00:53:53,220 - 00:53:53,740] it'll be learning.
+- [00:53:55,839 - 00:53:59,440] Standard notation for relativistic vectors,
+- [00:53:59,440 - 00:54:00,480] four vectors,
+- [00:54:00,480 - 00:54:01,400] scalars.
+- [00:54:02,159 - 00:54:03,680] We talked about this a little last time,
+- [00:54:03,680 - 00:54:04,580] but I want to come back to it.
+- [00:54:05,220 - 00:54:07,960] How you make scalars out of vectors,
+- [00:54:07,960 - 00:54:09,600] how you make vectors out of scalars,
+- [00:54:09,620 - 00:54:12,300] and how you condense notation so that things are neat.
+- [00:54:14,040 - 00:54:15,480] I'm sure that most of you know this,
+- [00:54:15,480 - 00:54:16,480] but we're going to do it anyway.
+- [00:54:17,340 - 00:54:17,960] All right.
+- [00:54:22,020 - 00:54:22,780] X mu,
+- [00:54:22,780 - 00:54:24,520] of course,
+- [00:54:24,520 - 00:54:26,540] stands for the four coordinates of space,
+- [00:54:26,540 - 00:54:27,420] time,
+- [00:54:27,420 - 00:54:28,400] space-time,
+- [00:54:31,020 - 00:54:32,840] and it's t,
+- [00:54:32,840 - 00:54:33,360] x,
+- [00:54:33,360 - 00:54:33,540] y,
+- [00:54:33,540 - 00:54:33,840] and z.
+- [00:54:43,740 - 00:54:45,220] Usually this is called 1,
+- [00:54:45,220 - 00:54:45,560] 2,
+- [00:54:45,560 - 00:54:46,020] and 3,
+- [00:54:46,020 - 00:54:47,060] and this one is called 0,
+- [00:54:47,220 - 00:54:48,240] but that's not important.
+- [00:54:48,240 - 00:54:49,880] Mu runs over four values.
+- [00:54:50,540 - 00:54:51,140] All right.
+- [00:54:51,140 - 00:54:51,740] Notice now,
+- [00:54:51,740 - 00:54:53,220] I'm going to pay attention now
+- [00:54:53,220 - 00:54:54,700] to where I put this index.
+- [00:54:55,260 - 00:54:57,500] I've put the index up on top,
+- [00:54:57,500 - 00:54:58,880] above.
+- [00:54:59,740 - 00:55:01,560] That's going to mean something to us shortly.
+- [00:55:01,780 - 00:55:02,560] At the moment,
+- [00:55:02,560 - 00:55:03,340] it doesn't mean anything.
+- [00:55:04,020 - 00:55:05,480] But this quantity,
+- [00:55:05,480 - 00:55:08,640] if thought of as a displacement from the origin,
+- [00:55:09,120 - 00:55:10,180] is a four vector.
+- [00:55:12,420 - 00:55:14,120] And I'm going to think about the way it transforms,
+- [00:55:15,100 - 00:55:17,380] how it transforms under Lorentz transformation.
+- [00:55:18,220 - 00:55:20,760] Anything that transforms the same way
+- [00:55:20,760 - 00:55:23,300] under Lorentz transformation as x and t
+- [00:55:23,300 - 00:55:24,400] is called a four vector.
+- [00:55:24,520 - 00:55:25,940] I won't write it down for the moment.
+- [00:55:26,900 - 00:55:28,000] It's a four vector,
+- [00:55:28,000 - 00:55:29,400] has four components.
+- [00:55:32,520 - 00:55:36,080] Saying that three of the components are equal to 0,
+- [00:55:36,080 - 00:55:36,820] for example,
+- [00:55:36,860 - 00:55:37,580] that might be true.
+- [00:55:38,440 - 00:55:42,220] That would mean that it was a displacement
+- [00:55:43,500 - 00:55:45,420] that only involved three of the
+- [00:55:45,420 - 00:55:47,340] coordinates and not the fourth coordinate.
+- [00:55:47,580 - 00:55:49,440] But it's not an invariant statement.
+- [00:55:50,340 - 00:55:51,160] An observer,
+- [00:55:51,160 - 00:55:51,640] one,
+- [00:55:51,640 - 00:55:52,500] you may say
+- [00:55:54,520 - 00:55:56,410] that there was a displacement of
+- [00:55:56,410 - 00:55:58,300] an object which was purely time-like.
+- [00:55:58,460 - 00:55:59,000] In other words,
+- [00:55:59,000 - 00:55:59,940] it didn't move in space.
+- [00:56:00,780 - 00:56:02,540] I will say it did move in space.
+- [00:56:03,080 - 00:56:05,250] So the statement that a four
+- [00:56:05,250 - 00:56:07,420] vector has three components equal to 0
+- [00:56:07,940 - 00:56:10,440] may be true in some frame of reference,
+- [00:56:10,440 - 00:56:12,060] but it's not an invariant
+- [00:56:12,060 - 00:56:13,680] statement that everybody will agree upon.
+- [00:56:14,320 - 00:56:17,340] But the statement that all four components are 0,
+- [00:56:17,540 - 00:56:19,400] that everybody will agree on,
+- [00:56:19,520 - 00:56:21,440] because all it says is that
+- [00:56:21,440 - 00:56:23,360] that vector is the zero vector,
+- [00:56:23,640 - 00:56:25,500] no displacement at all.
+- [00:56:26,240 - 00:56:27,800] And we'll all agree that a
+- [00:56:27,800 - 00:56:29,360] zero vector is a zero vector.
+- [00:56:30,040 - 00:56:30,900] In fact,
+- [00:56:30,900 - 00:56:34,500] zero transforms to itself under a Lorentz transformation.
+- [00:56:35,160 - 00:56:38,120] If all four coordinates are zero before transformation,
+- [00:56:38,440 - 00:56:39,760] there's zero after transformation.
+- [00:56:43,640 - 00:56:45,720] So that's the notion of a four vector.
+- [00:56:45,880 - 00:56:46,800] There are many four vectors.
+- [00:56:47,820 - 00:56:49,860] Differences of four vectors are four vectors.
+- [00:56:50,020 - 00:56:52,640] So differential displacements are four vectors,
+- [00:56:52,640 - 00:56:53,840] and so forth.
+- [00:56:54,240 - 00:56:55,320] Out of a four vector,
+- [00:56:55,320 - 00:56:56,500] we can make a scalar.
+- [00:56:56,580 - 00:57:00,480] A scalar meaning a thing which doesn't transform,
+- [00:57:00,660 - 00:57:01,880] which is the same in every frame.
+- [00:57:01,980 - 00:57:02,060] Now,
+- [00:57:02,060 - 00:57:02,960] I know we've done this before,
+- [00:57:02,960 - 00:57:05,000] and I'm going over old material,
+- [00:57:05,120 - 00:57:05,520] but nevertheless,
+- [00:57:05,520 - 00:57:06,840] let's do it.
+- [00:57:09,480 - 00:57:11,320] Out of a displacement,
+- [00:57:11,320 - 00:57:15,620] we can construct a proper time,
+- [00:57:15,900 - 00:57:16,760] d tau squared,
+- [00:57:16,760 - 00:57:17,940] and you know what that is.
+- [00:57:18,440 - 00:57:20,780] That's dt squared minus dx squared
+- [00:57:20,780 - 00:57:23,120] minus dy squared minus dz squared.
+- [00:57:23,860 - 00:57:25,840] And that has the property that it
+- [00:57:25,840 - 00:57:27,820] is the same in every reference frame.
+- [00:57:28,060 - 00:57:29,660] It doesn't have components.
+- [00:57:29,700 - 00:57:30,900] It only has one component,
+- [00:57:30,900 - 00:57:31,700] one value,
+- [00:57:31,700 - 00:57:33,400] and it's a scalar.
+- [00:57:33,520 - 00:57:34,560] So let's call it a scalar.
+- [00:57:34,680 - 00:57:35,680] This is a four vector.
+- [00:57:39,240 - 00:57:39,640] Scalar.
+- [00:57:41,680 - 00:57:42,080] Now,
+- [00:57:42,080 - 00:57:43,510] if a scalar is equal to
+- [00:57:43,510 - 00:57:44,940] zero in one frame of reference,
+- [00:57:45,620 - 00:57:47,440] it's zero in every frame of reference.
+- [00:57:47,560 - 00:57:47,740] Why?
+- [00:57:47,920 - 00:57:49,680] Because a scalar is the same as a thing
+- [00:57:49,680 - 00:57:51,440] which is the same in every frame of reference.
+- [00:57:52,400 - 00:57:53,920] So if in some frame of reference,
+- [00:57:53,920 - 00:57:54,760] a scalar,
+- [00:57:54,760 - 00:57:55,600] whatever the...
+- [00:57:55,600 - 00:57:57,500] It's practically the definition of a scalar,
+- [00:57:58,000 - 00:57:59,060] the thing which is the
+- [00:57:59,060 - 00:58:00,120] same in every frame of reference.
+- [00:58:00,320 - 00:58:01,520] If it's zero in one frame,
+- [00:58:01,520 - 00:58:02,500] it's zero in any frame.
+- [00:58:03,120 - 00:58:05,040] So it's an invariant statement to say
+- [00:58:05,040 - 00:58:09,580] that a scalar is equal to zero.
+- [00:58:09,700 - 00:58:11,410] And here we have an example of how
+- [00:58:11,410 - 00:58:13,120] you make a scalar out of a four vector.
+- [00:58:13,900 - 00:58:15,000] That's very general.
+- [00:58:15,200 - 00:58:18,440] If you have a four vector of any kind,
+- [00:58:19,060 - 00:58:20,420] let's call it a mu,
+- [00:58:22,080 - 00:58:23,840] to say that it's a four
+- [00:58:23,840 - 00:58:25,600] vector means it transforms the same way
+- [00:58:25,600 - 00:58:26,660] under Lorentz transformations.
+- [00:58:28,040 - 00:58:31,260] Then the difference of the square of the time components
+- [00:58:31,620 - 00:58:34,180] and the space components are a scalar.
+- [00:58:34,180 - 00:58:35,760] I won't bother writing it.
+- [00:58:35,940 - 00:58:39,500] The difference a time squared minus a space squared
+- [00:58:39,500 - 00:58:40,700] are a scalar,
+- [00:58:40,700 - 00:58:41,440] is a scalar,
+- [00:58:41,540 - 00:58:43,760] and it's the same in every reference frame.
+- [00:58:44,340 - 00:58:46,120] We want a nice way to write that.
+- [00:58:46,200 - 00:58:48,190] I don't want to have to write
+- [00:58:48,190 - 00:58:50,180] a time squared minus a x squared
+- [00:58:50,180 - 00:58:52,080] minus a y squared minus a z squared.
+- [00:58:53,120 - 00:58:53,680] Okay.
+- [00:58:53,880 - 00:58:54,800] For that,
+- [00:58:54,800 - 00:58:56,580] we invent a matrix.
+- [00:58:57,640 - 00:59:00,180] The matrix has a name.
+- [00:59:00,760 - 00:59:01,800] It's called the metric.
+- [00:59:01,900 - 00:59:02,380] Okay.
+- [00:59:05,080 - 00:59:06,640] In special relativity,
+- [00:59:06,640 - 00:59:08,180] it's usually denoted eta.
+- [00:59:08,340 - 00:59:13,500] Eta is the Greek letter eta.
+- [00:59:13,760 - 00:59:15,460] E-T-A.
+- [00:59:15,980 - 00:59:17,360] And it looks like that.
+- [00:59:20,580 - 00:59:22,220] Eta is a matrix.
+- [00:59:22,740 - 00:59:24,140] Eta is a Greek letter.
+- [00:59:24,260 - 00:59:25,740] It stands for matrix.
+- [00:59:26,240 - 00:59:29,040] And the matrix has two indices,
+- [00:59:29,040 - 00:59:31,180] mu and nu.
+- [00:59:32,120 - 00:59:34,100] But it's a very simple matrix.
+- [00:59:34,180 - 00:59:37,100] It's practically the identity matrix.
+- [00:59:37,920 - 00:59:39,140] But not quite.
+- [00:59:39,700 - 00:59:41,720] It has three elements which are
+- [00:59:41,720 - 00:59:43,740] equal to one on the diagonal,
+- [00:59:44,060 - 00:59:45,500] just like the unit matrix.
+- [00:59:45,760 - 00:59:47,920] But the fourth element is minus one.
+- [00:59:49,220 - 00:59:51,620] The fourth element corresponds to time.
+- [00:59:54,400 - 00:59:55,280] Minus one,
+- [00:59:55,280 - 00:59:55,780] zero,
+- [00:59:55,780 - 00:59:56,340] zero,
+- [00:59:56,340 - 00:59:56,760] zero.
+- [00:59:57,400 - 00:59:58,860] Zero plus one,
+- [00:59:58,860 - 00:59:59,520] zero,
+- [00:59:59,520 - 01:00:00,060] zero.
+- [01:00:00,540 - 01:00:01,200] Zero,
+- [01:00:01,200 - 01:00:01,800] zero,
+- [01:00:01,800 - 01:00:02,320] one,
+- [01:00:02,320 - 01:00:02,980] zero.
+- [01:00:02,980 - 01:00:03,160] Zero,
+- [01:00:03,160 - 01:00:04,420] zero,
+- [01:00:04,420 - 01:00:04,860] zero,
+- [01:00:04,860 - 01:00:05,520] one.
+- [01:00:05,960 - 01:00:07,820] If I were to make this plus one,
+- [01:00:07,980 - 01:00:10,100] it would just be the good old unit matrix.
+- [01:00:12,220 - 01:00:13,620] But it's not.
+- [01:00:15,000 - 01:00:15,620] Okay.
+- [01:00:16,680 - 01:00:17,300] Now,
+- [01:00:17,300 - 01:00:19,120] let's take this matrix.
+- [01:00:21,320 - 01:00:24,420] We're going to represent four vectors by columns.
+- [01:00:24,820 - 01:00:26,000] The column vector,
+- [01:00:26,000 - 01:00:26,820] for example,
+- [01:00:26,820 - 01:00:27,400] a mu,
+- [01:00:27,640 - 01:00:31,340] will consist of four entries,
+- [01:00:31,340 - 01:00:33,560] the time component,
+- [01:00:36,640 - 01:00:40,000] and the three space components,
+- [01:00:40,000 - 01:00:40,500] x,
+- [01:00:40,500 - 01:00:40,820] y,
+- [01:00:40,820 - 01:00:41,160] and z.
+- [01:00:43,060 - 01:00:44,990] And let's take the matrix
+- [01:00:44,990 - 01:00:46,920] and multiply it by the vector.
+- [01:00:47,840 - 01:00:49,900] We can either do it by matrix multiplication,
+- [01:00:50,020 - 01:00:51,220] or we can say,
+- [01:00:51,220 - 01:00:53,020] let's call this a nu.
+- [01:00:53,240 - 01:00:54,340] Let's use nu here.
+- [01:00:55,440 - 01:00:57,620] Nu runs also from one to four.
+- [01:00:59,380 - 01:01:01,320] Let's multiply the matrix.
+- [01:01:01,340 - 01:01:03,160] We can represent that,
+- [01:01:03,180 - 01:01:04,180] eta mu nu,
+- [01:01:04,180 - 01:01:05,680] a nu,
+- [01:01:07,140 - 01:01:08,180] summed over nu.
+- [01:01:08,840 - 01:01:10,460] That's one way to write it.
+- [01:01:12,100 - 01:01:13,960] That's just this one.
+- [01:01:14,180 - 01:01:15,780] It's just matrix multiplication,
+- [01:01:16,260 - 01:01:19,500] but it can be represented by summing
+- [01:01:20,780 - 01:01:23,240] eta one one times a one,
+- [01:01:23,380 - 01:01:24,340] eta one two,
+- [01:01:24,340 - 01:01:25,640] a two,
+- [01:01:25,640 - 01:01:26,640] and so forth.
+- [01:01:28,500 - 01:01:30,700] And this represents a new object,
+- [01:01:32,220 - 01:01:37,120] which we'll call a with a lower index here.
+- [01:01:37,640 - 01:01:38,780] Let's see what it is.
+- [01:01:38,860 - 01:01:40,280] Let's see if we can figure out what it is,
+- [01:01:40,340 - 01:01:42,200] what this a with a lower index is.
+- [01:01:42,640 - 01:01:44,120] It's not the original a.
+- [01:01:44,820 - 01:01:47,120] If this really were the unit matrix,
+- [01:01:47,740 - 01:01:49,320] and you multiply a vector,
+- [01:01:49,500 - 01:01:51,480] you would get back exactly the same thing.
+- [01:01:52,960 - 01:01:54,300] But not quite.
+- [01:01:55,680 - 01:01:58,040] The minus one here means that
+- [01:01:58,040 - 01:02:00,400] when you multiply eta by a,
+- [01:02:00,400 - 01:02:01,100] what happens?
+- [01:02:02,320 - 01:02:05,820] It changes the sign of the first term here.
+- [01:02:05,860 - 01:02:07,260] It leaves everything else the same.
+- [01:02:07,960 - 01:02:09,860] And so we can write down immediately,
+- [01:02:10,000 - 01:02:11,400] without any further work,
+- [01:02:12,960 - 01:02:17,260] that a mu,
+- [01:02:19,200 - 01:02:19,980] mu or nu,
+- [01:02:19,980 - 01:02:20,640] it doesn't matter,
+- [01:02:22,380 - 01:02:23,660] represents the column,
+- [01:02:23,660 - 01:02:24,620] the vector,
+- [01:02:24,780 - 01:02:25,600] let's call it the vector,
+- [01:02:26,330 - 01:02:28,540] minus at,
+- [01:02:28,540 - 01:02:28,760] at,
+- [01:02:29,700 - 01:02:30,060] at,
+- [01:02:30,200 - 01:02:30,260] at,
+- [01:02:30,920 - 01:02:31,280] at,
+- [01:02:31,420 - 01:02:31,600] at,
+- [01:02:31,600 - 01:02:32,720] y
+- [01:02:32,720 - 01:02:33,540] a z
+- [01:02:37,420 - 01:02:39,140] in other words
+- [01:02:39,140 - 01:02:41,100] when i perform this operation
+- [01:02:41,100 - 01:02:45,000] i simply change the sign of the time component
+- [01:02:45,410 - 01:02:47,240] so that's one piece of
+- [01:02:47,940 - 01:02:48,640] um...
+- [01:02:49,070 - 01:02:51,035] it's notation this is purely a notational
+- [01:02:51,035 - 01:02:53,000] device there's no real content in it
+- [01:02:53,000 - 01:02:55,430] the second notational device which no
+- [01:02:55,430 - 01:02:57,860] doubt you're also somewhat familiar with
+- [01:02:57,860 - 01:03:00,580] is the einstein summation convention
+- [01:03:00,580 - 01:03:03,630] the einstein summation convention says
+- [01:03:03,630 - 01:03:06,680] whenever you see a downstairs index
+- [01:03:07,060 - 01:03:08,420] and upstairs index
+- [01:03:08,420 - 01:03:09,720] the same
+- [01:03:09,720 - 01:03:11,240] in this case new
+- [01:03:12,700 - 01:03:15,840] it's automatically the rule that you sum over it
+- [01:03:16,140 - 01:03:18,700] you don't need to write summation every time
+- [01:03:19,680 - 01:03:21,620] so whenever you see a repeated index
+- [01:03:22,180 - 01:03:23,680] as long as one of them is
+- [01:03:23,680 - 01:03:25,180] upstairs and one of them is downstairs
+- [01:03:25,180 - 01:03:25,460] downstairs
+- [01:03:26,780 - 01:03:29,100] don't bother writing the summation sign
+- [01:03:29,100 - 01:03:32,300] it's implicit implicit in
+- [01:03:32,300 - 01:03:34,620] the conventions in the notation
+- [01:03:37,480 - 01:03:40,280] all right so this operation here
+- [01:03:40,280 - 01:03:43,600] just has the effect of changing the sign
+- [01:03:43,600 - 01:03:45,500] of the time component
+- [01:03:48,220 - 01:03:49,680] now i should warn you
+- [01:03:50,440 - 01:03:53,300] depending on who's writing the equations
+- [01:03:53,300 - 01:03:55,160] it's not just the
+- [01:03:55,160 - 01:03:57,230] this can sometimes be plus one
+- [01:03:57,230 - 01:03:59,300] minus one minus one minus one
+- [01:03:59,300 - 01:04:01,480] or minus one plus one plus
+- [01:04:01,480 - 01:04:03,660] one plus one there are different conventions
+- [01:04:03,660 - 01:04:06,000] i happen to like this one
+- [01:04:06,000 - 01:04:09,560] almost everybody else i know likes the other one
+- [01:04:11,380 - 01:04:12,420] unless they're
+- [01:04:13,800 - 01:04:15,860] relativists relativists who study general
+- [01:04:15,860 - 01:04:17,920] relativity like the convention i use
+- [01:04:18,839 - 01:04:19,160] uh...
+- [01:04:19,160 - 01:04:19,640] so
+- [01:04:20,800 - 01:04:24,680] it's one of these conventions that never quite settled down
+- [01:04:24,680 - 01:04:28,250] and you know it's it's it's it's
+- [01:04:28,250 - 01:04:31,820] like Republicans and Democrats or Jews and
+- [01:04:32,520 - 01:04:34,710] Muslims they hate each other like all
+- [01:04:34,710 - 01:04:36,900] hell and there are those who use one
+- [01:04:36,900 - 01:04:40,370] convention and those who use the other
+- [01:04:40,370 - 01:04:43,840] convention and when I'm with one group
+- [01:04:43,840 - 01:04:45,340] of people I use one when I'm with
+- [01:04:45,340 - 01:04:46,840] the other group of people I use the other
+- [01:04:46,840 - 01:04:51,350] and so far I haven't been killed about
+- [01:04:51,350 - 01:04:55,860] over it okay we'll use this one now
+- [01:04:56,500 - 01:04:58,870] question yeah you don't do you
+- [01:04:58,870 - 01:05:01,240] need the summation of that normal matrix
+- [01:05:01,240 - 01:05:05,860] multiplication just gives you a mu
+- [01:05:05,860 - 01:05:10,480] lower mu matrix multiplication really means
+- [01:05:10,980 - 01:05:13,810] multiply this by this plus this by this
+- [01:05:13,810 - 01:05:16,640] plus this by this plus this by this now
+- [01:05:16,640 - 01:05:16,730] in this case you multiply this by this
+- [01:05:16,730 - 01:05:16,820] and you multiply this by this and you
+- [01:05:16,820 - 01:05:19,430] this case it's just trivial but more
+- [01:05:19,430 - 01:05:22,040] generally if Ada was not the unit matrix
+- [01:05:22,040 - 01:05:25,420] if it was something else if it
+- [01:05:25,420 - 01:05:28,800] was some other matrix okay some general matrix
+- [01:05:28,800 - 01:05:31,160] it would be this times this plus
+- [01:05:31,160 - 01:05:33,520] this times this plus this times this plus
+- [01:05:33,520 - 01:05:38,040] this times that so yeah there would be
+- [01:05:38,040 - 01:05:42,560] a summation but Einstein simply got fed up
+- [01:05:42,560 - 01:05:44,680] writing summation symbols he just
+- [01:05:44,680 - 01:05:46,800] realized every and every equation
+- [01:05:46,800 - 01:05:49,070] he was ever writing down whenever there
+- [01:05:49,070 - 01:05:51,340] was an index one upstairs and one
+- [01:05:51,340 - 01:05:54,160] downstairs he was always summing over it
+- [01:05:54,160 - 01:05:56,980] he cleverly said I will invent the
+- [01:05:56,980 - 01:06:01,070] Einstein summation convention and that's it
+- [01:06:01,070 - 01:06:05,160] all right good incidentally an index
+- [01:06:05,160 - 01:06:07,140] like new here doesn't actually have a
+- [01:06:07,140 - 01:06:09,120] value it's a dummy index it's a thing
+- [01:06:09,120 - 01:06:12,040] you sum over this expression depends on mu
+- [01:06:12,040 - 01:06:14,960] but it doesn't depend on new new is a
+- [01:06:14,960 - 01:06:15,870] summation index a summation index is a value
+- [01:06:15,870 - 01:06:16,780] of mu and mu is a summation of mu
+- [01:06:16,780 - 01:06:16,910] and mu by mu what's amazing about
+- [01:06:16,910 - 01:06:17,040] this theory is that it's only the shiningIV
+- [01:06:17,040 - 01:06:18,120] in joking nanol ganz or something that when you
+- [01:06:18,120 - 01:06:20,040] look at practice expression doesn't depend on
+- [01:06:20,040 - 01:06:21,960] it's just sum over nu over me
+- [01:06:21,960 - 01:06:24,440] upon is used toٌl or New over Now let's
+- [01:06:24,440 - 01:06:29,600] go one step further the
+- [01:06:29,600 - 01:06:34,760] quantity wim k storm big wim
+- [01:06:34,760 - 01:06:35,960] k storm my damage they
+- [01:06:36,920 - 01:06:39,200] soon we get some不多 but not enough altitude would be
+- [01:06:39,200 - 01:06:41,460] limited to this pararimi Kotori of
+- [01:06:41,460 - 01:06:43,580] the extra current can프라리아 that idea is
+- [01:06:43,580 - 01:06:46,760] called a data limit write x shake
+- [01:06:46,760 - 01:06:50,550] upper index is called a contravariant index
+- [01:06:50,550 - 01:06:54,340] and the thing with the lower index
+- [01:06:54,340 - 01:06:56,880] is called a covariant vector index.
+- [01:06:56,880 - 01:06:59,180] Upper it's contravariant,
+- [01:06:59,180 - 01:06:59,780] lower it's
+- [01:06:59,780 - 01:07:00,540] covariant,
+- [01:07:00,540 - 01:07:05,600] but I don't use that terminology because I always forget
+- [01:07:05,600 - 01:07:06,080] which is which.
+- [01:07:06,080 - 01:07:08,000] I just call them upper and lower.
+- [01:07:08,000 - 01:07:08,880] Okay,
+- [01:07:08,880 - 01:07:09,620] it's easier to remember.
+- [01:07:10,180 - 01:07:10,620] Alright,
+- [01:07:10,620 - 01:07:12,710] so A with an upper index and A
+- [01:07:12,710 - 01:07:14,800] with a lower index and you go between
+- [01:07:14,800 - 01:07:17,380] them with this matrix Eta.
+- [01:07:17,380 - 01:07:19,820] You can also go back,
+- [01:07:19,820 - 01:07:21,680] but I'll leave that to you
+- [01:07:21,680 - 01:07:22,820] to figure out how to do that.
+- [01:07:22,820 - 01:07:24,240] In fact,
+- [01:07:24,240 - 01:07:25,060] you do it the same way.
+- [01:07:25,060 - 01:07:26,380] Okay,
+- [01:07:26,380 - 01:07:27,260] now let's take
+- [01:07:27,260 - 01:07:28,440] a mu,
+- [01:07:28,440 - 01:07:29,300] a mu.
+- [01:07:29,300 - 01:07:31,780] This is summed over.
+- [01:07:31,780 - 01:07:32,920] Why is it summed over?
+- [01:07:32,920 - 01:07:34,420] Because by the Einstein
+- [01:07:34,420 - 01:07:35,120] convention,
+- [01:07:35,120 - 01:07:37,140] a repeated index one upper
+- [01:07:37,140 - 01:07:39,160] and one lower is summed over.
+- [01:07:39,160 - 01:07:40,520] So let's see
+- [01:07:40,520 - 01:07:41,100] what this means.
+- [01:07:41,100 - 01:07:44,360] This is equal to
+- [01:07:44,360 - 01:07:44,780] a
+- [01:07:44,780 - 01:07:45,900] t,
+- [01:07:45,900 - 01:07:51,160] a t plus a x,
+- [01:07:51,160 - 01:07:55,420] a x plus the same thing for y and z.
+- [01:07:55,420 - 01:07:56,780] I'll write the y component,
+- [01:07:56,860 - 01:07:58,500] but I won't bother writing the z component.
+- [01:07:58,500 - 01:08:06,380] Now the space components of
+- [01:08:06,380 - 01:08:11,100] the covariant and contravariant vectors are the same.
+- [01:08:11,100 - 01:08:13,580] So this is just a x squared.
+- [01:08:14,160 - 01:08:14,760] So this is a x squared.
+- [01:08:14,760 - 01:08:17,479] This is just a x squared.
+- [01:08:17,479 - 01:08:18,799] And it doesn't matter whether
+- [01:08:18,799 - 01:08:20,120] you put it upstairs or downstairs.
+- [01:08:20,960 - 01:08:21,479] Likewise,
+- [01:08:21,479 - 01:08:23,240] this one is a y squared.
+- [01:08:23,720 - 01:08:25,359] Does it have a minus sign?
+- [01:08:25,740 - 01:08:26,260] Nope.
+- [01:08:26,260 - 01:08:27,520] Nope.
+- [01:08:27,520 - 01:08:30,640] Not yet.
+- [01:08:30,640 - 01:08:34,500] Why doesn't it have a minus sign?
+- [01:08:34,500 - 01:08:38,160] Because when you plug in the
+- [01:08:38,160 - 01:08:40,340] fact that the lower index
+- [01:08:40,340 - 01:08:42,520] here gives you minus a t,
+- [01:08:42,520 - 01:08:44,560] this becomes,
+- [01:08:44,560 - 01:08:44,740] let's say,
+- [01:08:44,740 - 01:08:44,740] a t.
+- [01:08:44,740 - 01:08:44,740] So you
+- [01:08:44,740 - 01:08:45,760] have a s
+- [01:08:46,479 - 01:08:47,140] sworn up.
+- [01:08:47,140 - 01:08:48,380] It will sangat a t squared.
+- [01:08:51,160 - 01:08:52,340] In other words,
+- [01:08:52,340 - 01:08:54,840] this notation here says some,
+- [01:08:54,840 - 01:08:55,700] literally some.
+- [01:08:55,700 - 01:08:56,880] No minus signs in here.
+- [01:08:57,200 - 01:09:00,640] But the minus sign comes in for the simple reason
+- [01:09:00,640 - 01:09:04,080] that when you lower the index it calls lowering the
+- [01:09:04,080 - 01:09:07,199] The origin of lower indexing changes
+- [01:09:07,199 - 01:09:10,319] the sin of the time component.
+- [01:09:11,120 - 01:09:12,920] So a t upper times a
+- [01:09:12,920 - 01:09:14,720] t lower depends a normal time.
+- [01:09:14,720 - 01:09:14,720] If I make mon ergu,
+- [01:09:14,720 - 01:09:14,720] you can put it opposite.
+- [01:09:14,720 - 01:09:16,500] is minus a t squared
+- [01:09:19,659 - 01:09:21,779] So you don't have to
+- [01:09:21,779 - 01:09:23,740] In fact,
+- [01:09:23,740 - 01:09:26,399] you mustn't put any extra minus signs in here
+- [01:09:26,399 - 01:09:28,939] All you have to do is remember what
+- [01:09:28,939 - 01:09:31,479] the meaning of a upper and a lower are
+- [01:09:32,799 - 01:09:34,489] Well this is exactly the quantity
+- [01:09:34,489 - 01:09:36,180] that we think is a scalar
+- [01:09:37,779 - 01:09:40,339] It's the difference of the square of
+- [01:09:40,339 - 01:09:42,899] the time component and the space components
+- [01:09:44,060 - 01:09:45,279] In other words,
+- [01:09:45,279 - 01:09:48,840] it's this quantity here except with an overall minus sign
+- [01:09:48,840 - 01:09:50,149] It starts out with a minus
+- [01:09:50,149 - 01:09:51,460] sign here and a plus sign here
+- [01:09:53,340 - 01:09:54,520] But whatever it is,
+- [01:09:54,520 - 01:09:55,680] it's clearly a scalar
+- [01:09:56,720 - 01:09:57,980] It's clearly a scalar
+- [01:09:57,980 - 01:10:00,970] And so we see an example
+- [01:10:00,970 - 01:10:03,960] of building scalars out of vectors
+- [01:10:03,960 - 01:10:05,620] And how do we do it?
+- [01:10:05,640 - 01:10:08,260] We do it by soaking up all the indexes
+- [01:10:08,260 - 01:10:09,800] It's called contracting the indices
+- [01:10:10,900 - 01:10:12,380] Contracting the indices means
+- [01:10:12,380 - 01:10:12,880] We're going to get a number of vectors
+- [01:10:12,900 - 01:10:13,080] And craving index,
+- [01:10:13,080 - 01:10:13,080] not an index
+- [01:10:13,080 - 01:10:13,600] 2 induction spectra That means when
+- [01:10:13,600 - 01:10:14,820] you see 2 indices which
+- [01:10:14,820 - 01:10:16,040] are the same An upper and
+- [01:10:16,040 - 01:10:17,680] a lower You sum over
+- [01:10:17,680 - 01:10:20,640] them This quantity With
+- [01:10:20,640 - 01:10:21,060] an upper
+- [01:10:21,060 - 01:10:23,180] andd a lower index sum Is a scalar
+- [01:10:26,920 - 01:10:28,000] So why don't
+- [01:10:28,000 - 01:10:41,160] we write as Debbie as a row matrix Take again
+- [01:10:42,200 - 01:10:42,720] You're right,
+- [01:10:42,720 - 01:10:44,040] I think if we wanted to be purists,
+- [01:10:44,040 - 01:10:44,420] we might,
+- [01:10:44,420 - 01:10:46,760] but I think we would.
+- [01:10:47,100 - 01:10:48,920] But this is what it is.
+- [01:10:49,060 - 01:10:50,380] This is what its components are.
+- [01:10:50,540 - 01:10:51,900] This is what its components are.
+- [01:10:53,160 - 01:10:53,520] Okay?
+- [01:10:53,980 - 01:10:55,400] And this thing is a scalar.
+- [01:10:58,740 - 01:10:59,160] What's that?
+- [01:11:02,140 - 01:11:02,640] That's true.
+- [01:11:02,880 - 01:11:03,240] Yeah,
+- [01:11:03,240 - 01:11:03,420] yeah,
+- [01:11:03,420 - 01:11:03,560] yeah,
+- [01:11:03,560 - 01:11:03,860] you're right.
+- [01:11:04,980 - 01:11:05,340] Okay.
+- [01:11:06,420 - 01:11:06,780] Okay.
+- [01:11:06,780 - 01:11:07,080] All right.
+- [01:11:08,620 - 01:11:08,980] Okay,
+- [01:11:08,980 - 01:11:09,900] I'm not going to...
+- [01:11:10,600 - 01:11:11,720] We know what we did.
+- [01:11:12,140 - 01:11:13,240] We know exactly what we did.
+- [01:11:14,320 - 01:11:16,600] We could also write this in another way.
+- [01:11:16,700 - 01:11:17,460] We could write this,
+- [01:11:17,460 - 01:11:19,200] since a lower mu...
+- [01:11:19,780 - 01:11:20,220] Well,
+- [01:11:20,220 - 01:11:22,560] let's change the summation index here.
+- [01:11:22,600 - 01:11:23,420] Let's call it a nu.
+- [01:11:23,720 - 01:11:25,180] I haven't changed the expression.
+- [01:11:25,600 - 01:11:27,600] I've just changed the dummy index there.
+- [01:11:28,100 - 01:11:29,400] But now let's look...
+- [01:11:29,400 - 01:11:29,900] Oh,
+- [01:11:29,900 - 01:11:30,600] no,
+- [01:11:30,600 - 01:11:32,320] I didn't want to change it.
+- [01:11:32,340 - 01:11:33,020] I wanted to leave it.
+- [01:11:33,480 - 01:11:33,920] Mu.
+- [01:11:34,920 - 01:11:35,360] Mu.
+- [01:11:38,240 - 01:11:38,980] But now,
+- [01:11:39,120 - 01:11:39,800] what I want,
+- [01:11:39,900 - 01:11:41,040] what I want to do is use for a mu.
+- [01:11:43,820 - 01:11:46,820] It is eta mu nu a nu.
+- [01:11:48,380 - 01:11:55,080] A mu is equal to eta mu nu a nu.
+- [01:11:56,560 - 01:11:58,180] So here's another way to write it.
+- [01:11:58,860 - 01:12:01,880] You sum over mu and nu with the matrix eta.
+- [01:12:02,080 - 01:12:02,800] It's the same thing.
+- [01:12:03,380 - 01:12:05,330] All it stands for is a
+- [01:12:05,330 - 01:12:07,280] times squared minus a space squared.
+- [01:12:08,380 - 01:12:09,780] That's all it stands for.
+- [01:12:09,780 - 01:12:13,070] But it's a neat way to write it
+- [01:12:13,070 - 01:12:16,360] where we don't have to keep rewriting x squared,
+- [01:12:16,360 - 01:12:16,940] y squared,
+- [01:12:16,940 - 01:12:17,560] z squared,
+- [01:12:17,560 - 01:12:18,220] and so forth.
+- [01:12:19,240 - 01:12:21,460] So that's the first notational device.
+- [01:12:23,160 - 01:12:25,340] So is it true that when you
+- [01:12:25,340 - 01:12:27,520] use the Greek letters for subscript and superscript,
+- [01:12:27,520 - 01:12:29,360] it always refers to the whole...
+- [01:12:29,360 - 01:12:29,460] Yeah.
+- [01:12:29,620 - 01:12:31,220] Whenever you use the Greek index,
+- [01:12:31,220 - 01:12:32,100] mu and nu,
+- [01:12:32,100 - 01:12:34,780] it refers to all four components.
+- [01:12:36,700 - 01:12:39,120] If you want to refer just to the three components,
+- [01:12:40,080 - 01:12:41,900] you usually use Latin indices.
+- [01:12:42,020 - 01:12:43,120] Sometimes i and j,
+- [01:12:43,120 - 01:12:44,320] sometimes m and n,
+- [01:12:44,320 - 01:12:45,860] depending on who's writing.
+- [01:12:47,020 - 01:12:47,500] Yeah.
+- [01:12:48,260 - 01:12:48,740] Right.
+- [01:12:49,300 - 01:12:49,780] Okay.
+- [01:12:49,840 - 01:12:50,720] So this is a scalar.
+- [01:12:51,720 - 01:12:52,200] Now,
+- [01:12:52,200 - 01:12:53,140] what about...
+- [01:12:53,140 - 01:12:54,740] Let's consider something else.
+- [01:12:54,800 - 01:12:55,940] Let's take two four vectors.
+- [01:12:56,240 - 01:12:57,840] Take two four vectors a and b.
+- [01:12:59,220 - 01:13:00,020] A mu,
+- [01:13:00,020 - 01:13:02,160] b mu.
+- [01:13:04,900 - 01:13:06,740] That looks like it might be a scalar.
+- [01:13:07,760 - 01:13:09,060] It's got no indices.
+- [01:13:09,120 - 01:13:09,760] All the indices are in the same place.
+- [01:13:09,760 - 01:13:10,540] The indices are summed over.
+- [01:13:10,880 - 01:13:11,300] Question.
+- [01:13:11,480 - 01:13:12,160] Is it a scalar?
+- [01:13:12,300 - 01:13:12,540] Yes,
+- [01:13:12,540 - 01:13:13,220] it is a scalar.
+- [01:13:13,460 - 01:13:14,640] But let's prove it.
+- [01:13:14,820 - 01:13:15,180] Oh,
+- [01:13:15,180 - 01:13:15,340] well,
+- [01:13:15,340 - 01:13:16,840] we need one thing to prove it.
+- [01:13:17,600 - 01:13:19,020] To prove that it's a scalar,
+- [01:13:19,020 - 01:13:23,470] all we really need is a statement that the sum of
+- [01:13:23,470 - 01:13:27,920] two scalars and the difference of two scalars is also a scalar.
+- [01:13:28,940 - 01:13:30,160] If you have two things,
+- [01:13:30,160 - 01:13:32,830] you and I agree upon what
+- [01:13:32,830 - 01:13:35,500] they are because we're in different frames,
+- [01:13:35,500 - 01:13:36,160] but we agree.
+- [01:13:36,480 - 01:13:38,120] We can add them and subtract them,
+- [01:13:38,120 - 01:13:39,740] and we'll still agree about the values of the two.
+- [01:13:39,740 - 01:13:40,480] The sum and difference.
+- [01:13:40,980 - 01:13:43,460] So sums and differences of scalars are scalars.
+- [01:13:44,360 - 01:13:46,140] Let's prove that this is a scalar.
+- [01:13:46,800 - 01:13:47,560] That's easy.
+- [01:13:47,980 - 01:13:53,760] All you do is you write a
+- [01:13:53,760 - 01:13:59,540] plus b mu times a plus b mu.
+- [01:13:59,880 - 01:14:00,360] Oh,
+- [01:14:00,360 - 01:14:00,680] sorry,
+- [01:14:00,680 - 01:14:01,000] mu.
+- [01:14:02,060 - 01:14:02,540] Now,
+- [01:14:02,540 - 01:14:03,200] this is a scalar.
+- [01:14:03,200 - 01:14:06,140] A plus b is a four vector.
+- [01:14:07,080 - 01:14:09,720] And if you take any four vector and consider it,
+- [01:14:09,720 - 01:14:09,720] you get a four vector.
+- [01:14:09,720 - 01:14:11,020] And if you subtract it with itself,
+- [01:14:11,020 - 01:14:12,600] it's a scalar.
+- [01:14:13,180 - 01:14:14,520] So this is a scalar.
+- [01:14:14,960 - 01:14:16,680] Now subtract from this.
+- [01:14:35,079 - 01:14:36,840] Take a look at what we have.
+- [01:14:37,020 - 01:14:38,280] We have an a mu.
+- [01:14:38,280 - 01:14:40,400] We have the a's.
+- [01:14:40,600 - 01:14:42,620] The a a terms and the b
+- [01:14:42,620 - 01:14:44,640] b terms are the same in both sides.
+- [01:14:45,020 - 01:14:46,860] All that's different is the a b.
+- [01:14:48,220 - 01:14:50,110] So we'll be left over when we
+- [01:14:50,110 - 01:14:52,000] do this with an a mu b mu.
+- [01:14:52,160 - 01:14:52,340] Oh,
+- [01:14:52,340 - 01:14:53,080] incidentally,
+- [01:14:53,080 - 01:14:54,220] here's something to prove.
+- [01:14:54,420 - 01:14:58,140] This is the same thing as a mu b mu.
+- [01:14:59,560 - 01:15:00,660] It doesn't matter.
+- [01:15:00,780 - 01:15:04,320] You can put the ups,
+- [01:15:04,320 - 01:15:04,660] downs,
+- [01:15:04,660 - 01:15:05,460] and the downs up.
+- [01:15:05,480 - 01:15:06,300] You get the same thing.
+- [01:15:07,500 - 01:15:08,260] The difference is that you can put the ups,
+- [01:15:08,260 - 01:15:08,260] downs,
+- [01:15:08,260 - 01:15:08,260] and the downs up.
+- [01:15:08,260 - 01:15:10,750] The difference between these two things is
+- [01:15:10,750 - 01:15:13,240] just four times a mu b mu.
+- [01:15:15,320 - 01:15:17,140] So here's a scalar.
+- [01:15:17,420 - 01:15:18,600] Here's another scalar.
+- [01:15:18,860 - 01:15:22,620] The difference between them is basically just a times b.
+- [01:15:22,980 - 01:15:24,140] A mu b mu.
+- [01:15:24,620 - 01:15:27,080] So if I take any two four
+- [01:15:27,080 - 01:15:29,540] vectors and contract them in this way,
+- [01:15:29,540 - 01:15:30,620] I get another scalar.
+- [01:15:31,240 - 01:15:33,720] So it's a slight generalization of just
+- [01:15:33,720 - 01:15:36,200] saying that a a is a scalar.
+- [01:15:36,800 - 01:15:38,200] Take any four vectors.
+- [01:15:38,200 - 01:15:39,100] With any other four vector,
+- [01:15:39,100 - 01:15:40,040] it's also a scalar.
+- [01:15:40,160 - 01:15:40,960] It's also a scalar.
+- [01:15:44,140 - 01:15:46,020] Is there any analogy one can go
+- [01:15:46,020 - 01:15:47,900] to like the dot product of vectors?
+- [01:15:48,120 - 01:15:48,380] What's that?
+- [01:15:48,580 - 01:15:51,780] The dot product of normal vectors and the cross product.
+- [01:15:51,840 - 01:15:51,980] Yeah,
+- [01:15:51,980 - 01:15:52,200] yeah.
+- [01:15:52,500 - 01:15:53,820] The dot products.
+- [01:15:53,920 - 01:15:54,760] The dot products,
+- [01:15:54,760 - 01:15:56,700] except with a funny minus sign.
+- [01:15:57,800 - 01:15:59,610] It's the Lorentz or the
+- [01:15:59,610 - 01:16:01,420] Minkowski version of the dot product.
+- [01:16:02,420 - 01:16:02,920] Right.
+- [01:16:04,000 - 01:16:08,180] And the eta facilitates the change of sign.
+- [01:16:08,200 - 01:16:09,620] That's all that's going on.
+- [01:16:10,880 - 01:16:11,360] Okay,
+- [01:16:11,360 - 01:16:11,660] now.
+- [01:16:15,760 - 01:16:16,960] Let's take a scalar.
+- [01:16:17,480 - 01:16:18,600] A scalar field.
+- [01:16:18,920 - 01:16:20,000] Let's take a scalar field.
+- [01:16:20,180 - 01:16:20,760] Phi of x.
+- [01:16:21,480 - 01:16:23,440] X now stands for x and t.
+- [01:16:24,040 - 01:16:25,210] If I write a thing like
+- [01:16:25,210 - 01:16:26,380] this and I don't say otherwise,
+- [01:16:26,380 - 01:16:28,940] it really means it's a function of all four coordinates.
+- [01:16:32,540 - 01:16:34,819] And let's consider the difference
+- [01:16:34,819 - 01:16:37,099] of phi at two neighboring points.
+- [01:16:38,740 - 01:16:39,720] If you want to,
+- [01:16:39,720 - 01:16:42,340] if phi is a scalar and we
+- [01:16:42,340 - 01:16:44,960] consider its difference at two neighboring points,
+- [01:16:44,960 - 01:16:47,250] and we agree on the values
+- [01:16:47,250 - 01:16:49,540] of phi at each of those points,
+- [01:16:49,540 - 01:16:51,560] we will agree on the difference between them.
+- [01:16:51,760 - 01:16:52,480] And so,
+- [01:16:52,480 - 01:16:52,880] oh,
+- [01:16:52,880 - 01:16:53,780] I need a theorem.
+- [01:16:53,980 - 01:16:54,800] I need a theorem.
+- [01:16:55,160 - 01:16:56,700] It's a theorem which I won't prove.
+- [01:16:56,860 - 01:16:59,040] I will tell you the statement.
+- [01:16:59,400 - 01:17:01,820] It's something you can easily prove by yourself.
+- [01:17:03,060 - 01:17:03,940] Here's the theorem.
+- [01:17:06,080 - 01:17:07,120] Supposing you have.
+- [01:17:10,120 - 01:17:11,280] Let's see how to say this.
+- [01:17:11,520 - 01:17:12,000] Yeah.
+- [01:17:13,160 - 01:17:15,600] Supposing you have a known four vector.
+- [01:17:16,320 - 01:17:18,160] To say it's a four vector means
+- [01:17:18,160 - 01:17:20,000] that it transforms in a certain way.
+- [01:17:20,040 - 01:17:21,860] It's not just a statement that there are four components.
+- [01:17:22,300 - 01:17:23,670] It means when you
+- [01:17:23,670 - 01:17:25,040] transform it under Lorentz transformations,
+- [01:17:25,040 - 01:17:26,900] it transforms in a certain way.
+- [01:17:28,040 - 01:17:29,740] Supposing you have a four vector.
+- [01:17:31,260 - 01:17:32,040] Number one.
+- [01:17:32,340 - 01:17:33,380] And number two,
+- [01:17:33,380 - 01:17:34,660] another quantity,
+- [01:17:34,660 - 01:17:35,260] b mu.
+- [01:17:38,759 - 01:17:39,660] Such that,
+- [01:17:39,660 - 01:17:41,840] then when you multiply a mu
+- [01:17:41,840 - 01:17:44,020] times b mu and sum over mu,
+- [01:17:44,020 - 01:17:46,500] you get something which is a scalar.
+- [01:17:46,780 - 01:17:47,920] In other words,
+- [01:17:47,920 - 01:17:49,670] you get something which doesn't
+- [01:17:49,670 - 01:17:51,420] depend on the frame of reference.
+- [01:17:51,760 - 01:17:53,490] You know this is a four
+- [01:17:53,490 - 01:17:55,220] vector and you don't know about this.
+- [01:17:56,220 - 01:17:58,730] Then it's possible to prove that if you
+- [01:17:58,730 - 01:18:01,240] know that this product is independent of reference frame,
+- [01:18:01,240 - 01:18:03,840] that b is also a four vector.
+- [01:18:04,000 - 01:18:05,960] That it also transforms as a four vector.
+- [01:18:05,960 - 01:18:07,080] We'll use that in a moment.
+- [01:18:07,900 - 01:18:08,880] It's sort of obvious.
+- [01:18:09,360 - 01:18:10,840] If a is a four vector
+- [01:18:10,840 - 01:18:12,320] and a times b is a scalar,
+- [01:18:12,320 - 01:18:14,800] then b is a four vector.
+- [01:18:15,400 - 01:18:16,540] Not too hard to prove.
+- [01:18:17,540 - 01:18:17,980] Okay,
+- [01:18:17,980 - 01:18:20,050] now let's take the difference
+- [01:18:20,050 - 01:18:22,120] of phi at two neighboring points.
+- [01:18:23,360 - 01:18:25,460] If we agree about the values of phi,
+- [01:18:25,460 - 01:18:29,500] we will agree about the values of their difference.
+- [01:18:29,920 - 01:18:31,860] And so we will say the difference
+- [01:18:31,860 - 01:18:33,800] is something which we will agree about.
+- [01:18:33,940 - 01:18:35,580] We'll call it for the moment a scalar.
+- [01:18:36,559 - 01:18:37,160] Alright,
+- [01:18:37,160 - 01:18:38,870] what is the difference between
+- [01:18:38,870 - 01:18:40,580] phi at two neighboring points,
+- [01:18:40,580 - 01:18:42,660] infinitesimally separated?
+- [01:18:43,300 - 01:18:46,720] The answer is you differentiate phi
+- [01:18:46,720 - 01:18:50,140] with respect to each of the coordinates,
+- [01:18:50,140 - 01:18:52,340] multiply it.
+- [01:18:54,040 - 01:18:59,360] This means derivative of phi with respect to t times dt plus derivative of phi with
+- [01:18:59,360 - 01:19:04,680] respect to x times dx plus derivative of phi with respect to y and so forth.
+- [01:19:04,800 - 01:19:05,940] This is the difference.
+- [01:19:05,940 - 01:19:07,670] So what is the small change in
+- [01:19:07,670 - 01:19:09,400] phi in going from one point to another?
+- [01:19:10,460 - 01:19:10,980] Well,
+- [01:19:10,980 - 01:19:11,680] phi is a scalar.
+- [01:19:12,140 - 01:19:13,680] And so we will agree about
+- [01:19:13,680 - 01:19:15,220] the value of the difference of phi.
+- [01:19:19,459 - 01:19:22,100] dx itself is clearly a four vector.
+- [01:19:22,340 - 01:19:24,940] It was the basic four vector that we started with.
+- [01:19:26,739 - 01:19:27,780] Small differences,
+- [01:19:27,780 - 01:19:29,260] small displacements.
+- [01:19:29,720 - 01:19:31,400] This is a four vector and
+- [01:19:31,400 - 01:19:33,080] the whole thing is a scalar.
+- [01:19:33,360 - 01:19:34,940] What does it tell you about this?
+- [01:19:36,420 - 01:19:38,080] It tells you it's a four vector.
+- [01:19:38,700 - 01:19:42,340] The derivative of phi with respect to coordinate,
+- [01:19:42,340 - 01:19:45,320] it's a complex of four quantities.
+- [01:19:48,500 - 01:19:51,760] It stands for derivative of phi with respect to t,
+- [01:19:51,760 - 01:19:54,460] derivative of phi with respect to x,
+- [01:19:54,460 - 01:19:57,160] and so forth.
+- [01:19:58,720 - 01:20:01,270] So the upper mu in the
+- [01:20:01,270 - 01:20:03,820] denominator is like a lower mu.
+- [01:20:04,180 - 01:20:04,780] Yeah.
+- [01:20:04,780 - 01:20:05,620] Is that the notation?
+- [01:20:06,360 - 01:20:06,900] Yes.
+- [01:20:07,020 - 01:20:09,500] That's what I was going to say.
+- [01:20:09,660 - 01:20:09,880] Right.
+- [01:20:12,780 - 01:20:13,320] Right.
+- [01:20:15,560 - 01:20:19,280] In order for this to make sense as a product,
+- [01:20:19,280 - 01:20:24,400] as a product of this type,
+- [01:20:25,760 - 01:20:26,860] this had better,
+- [01:20:26,860 - 01:20:29,180] the d phi by dx had
+- [01:20:29,180 - 01:20:31,500] better correspond to a covariant vector
+- [01:20:32,100 - 01:20:34,760] if the derivative corresponds to a contravariant vector.
+- [01:20:36,340 - 01:20:38,890] So what we find out is that
+- [01:20:38,890 - 01:20:41,440] derivatives of phi with respect to x,
+- [01:20:41,440 - 01:20:42,500] the complex of them,
+- [01:20:42,520 - 01:20:43,160] the set of them,
+- [01:20:43,160 - 01:20:45,760] form a four vector,
+- [01:20:45,760 - 01:20:49,220] but they form the covariant components of a four vector.
+- [01:20:49,480 - 01:20:52,080] The covariant components like a mu.
+- [01:20:53,620 - 01:20:54,200] All right.
+- [01:20:54,220 - 01:20:55,340] So now we know something else.
+- [01:20:55,740 - 01:20:59,640] We know that derivatives of a
+- [01:20:59,640 - 01:21:03,540] scalar with respect to x mu,
+- [01:21:04,580 - 01:21:06,960] are a covariant vector,
+- [01:21:06,960 - 01:21:11,800] and it's sometimes just written as d sub mu phi.
+- [01:21:15,290 - 01:21:18,035] The index being a lower index here
+- [01:21:18,035 - 01:21:20,780] to indicate that it's a covariant thing.
+- [01:21:21,480 - 01:21:22,640] All right.
+- [01:21:23,580 - 01:21:24,320] Good.
+- [01:21:25,800 - 01:21:29,600] Well now we can use a
+- [01:21:29,600 - 01:21:33,400] notational device to invent d mu phi.
+- [01:21:33,400 - 01:21:35,820] What is d mu phi with the upper index here?
+- [01:21:40,640 - 01:21:44,620] It's actually just exactly the same things here,
+- [01:21:44,620 - 01:21:48,180] except the time component having the opposite sign.
+- [01:21:49,420 - 01:21:50,060] Okay.
+- [01:21:50,160 - 01:21:53,780] So let's write out the meaning of these symbols.
+- [01:22:00,000 - 01:22:03,380] d mu phi stands for the complex of things.
+- [01:22:04,980 - 01:22:06,260] d t phi,
+- [01:22:06,260 - 01:22:11,780] or d phi by d t,
+- [01:22:11,780 - 01:22:15,000] and d phi by d x,
+- [01:22:15,000 - 01:22:16,280] y,
+- [01:22:16,280 - 01:22:16,760] and z.
+- [01:22:20,940 - 01:22:23,160] What about this new symbol,
+- [01:22:23,160 - 01:22:24,520] d mu phi,
+- [01:22:24,520 - 01:22:27,260] with the index upstairs?
+- [01:22:27,620 - 01:22:30,400] It's the same set of things except minus.
+- [01:22:33,360 - 01:22:33,380] Okay.
+- [01:22:33,380 - 01:22:34,520] So it's minus d phi by d t,
+- [01:22:34,520 - 01:22:37,360] and d phi by d x.
+- [01:22:44,600 - 01:22:45,180] All right.
+- [01:22:45,200 - 01:22:45,960] So it's a bunch of notation,
+- [01:22:45,960 - 01:22:49,860] but all it's keeping track of is squares
+- [01:22:49,860 - 01:22:53,760] of time components minus squares of space components.
+- [01:22:53,880 - 01:22:55,270] So squares of space components
+- [01:22:55,270 - 01:22:56,660] minus squares of time components.
+- [01:22:56,800 - 01:22:57,480] That's all it's doing.
+- [01:22:59,340 - 01:23:00,080] But it's neat.
+- [01:23:02,060 - 01:23:02,500] Finally.
+- [01:23:02,500 - 01:23:05,220] We can construct a new scalar.
+- [01:23:05,320 - 01:23:06,240] Phi was a scalar.
+- [01:23:07,420 - 01:23:09,740] The derivatives of phi form a four vector,
+- [01:23:09,740 - 01:23:12,380] but now we can form a new scalar.
+- [01:23:12,920 - 01:23:14,580] The new scalar is composed
+- [01:23:14,580 - 01:23:16,240] out of these two four vectors,
+- [01:23:16,240 - 01:23:17,140] or out of the four vector.
+- [01:23:17,800 - 01:23:18,560] What is it?
+- [01:23:18,660 - 01:23:22,460] We just take d mu phi,
+- [01:23:22,460 - 01:23:24,460] d mu phi.
+- [01:23:27,500 - 01:23:28,620] And sum over mu.
+- [01:23:29,040 - 01:23:30,260] What does it stand for?
+- [01:23:30,260 - 01:23:33,980] It stands for something we wrote down earlier.
+- [01:23:34,720 - 01:23:38,960] d phi by d t squared minus
+- [01:23:38,960 - 01:23:43,200] plus d phi by d x squared.
+- [01:23:44,260 - 01:23:44,740] Sorry.
+- [01:23:47,340 - 01:23:49,280] d phi by d x squared plus
+- [01:23:49,280 - 01:23:51,220] the same thing for y and z.
+- [01:23:53,140 - 01:23:54,100] In other words,
+- [01:23:54,100 - 01:23:56,800] it's the thing we wrote down with a minus sign.
+- [01:23:56,920 - 01:23:58,080] There's an extra minus sign here.
+- [01:23:58,080 - 01:23:59,940] It's the thing that we wrote down
+- [01:23:59,940 - 01:24:01,800] for the Lagrangian for the scalar field.
+- [01:24:03,200 - 01:24:04,360] What is this telling us?
+- [01:24:04,460 - 01:24:06,130] It's telling us that the
+- [01:24:06,130 - 01:24:07,800] scalar field Lagrangian is a scalar.
+- [01:24:08,040 - 01:24:09,320] The Lagrangian itself,
+- [01:24:09,320 - 01:24:10,280] not the scalar field.
+- [01:24:10,420 - 01:24:11,450] The scalar field is a scalar
+- [01:24:11,450 - 01:24:12,480] because we said it was a scalar.
+- [01:24:12,780 - 01:24:14,680] It means it didn't transform when you,
+- [01:24:14,680 - 01:24:15,160] Lorenz,
+- [01:24:15,160 - 01:24:15,900] transformed it.
+- [01:24:16,320 - 01:24:21,610] But this little exercise here in
+- [01:24:21,610 - 01:24:26,900] notation tells us that this quantity here
+- [01:24:26,900 - 01:24:28,740] is also a scalar.
+- [01:24:30,020 - 01:24:31,180] Why is that good?
+- [01:24:31,360 - 01:24:34,480] Why is it good that the Lagrangian is a scalar?
+- [01:24:35,260 - 01:24:36,620] And the reason...
+- [01:24:38,040 - 01:24:40,100] Is that Lagrangian or Laplacian?
+- [01:24:40,460 - 01:24:40,980] No,
+- [01:24:40,980 - 01:24:41,100] no.
+- [01:24:41,100 - 01:24:42,080] This is not the Laplacian.
+- [01:24:42,260 - 01:24:43,580] This is the Lagrangian.
+- [01:24:43,780 - 01:24:46,620] The Laplacian is composed out of second derivatives.
+- [01:24:47,040 - 01:24:49,020] These are squares of first derivatives.
+- [01:24:50,360 - 01:24:51,480] The Lagrangian,
+- [01:24:51,480 - 01:24:51,640] okay,
+- [01:24:51,640 - 01:24:52,400] in this language,
+- [01:24:53,480 - 01:24:55,580] the Lagrangian for the scalar field
+- [01:24:57,940 - 01:25:00,540] is equal to minus one half
+- [01:25:00,540 - 01:25:03,140] d mu phi d mu phi.
+- [01:25:04,920 - 01:25:07,760] And it is just time derivative squared,
+- [01:25:07,760 - 01:25:08,560] one half,
+- [01:25:08,560 - 01:25:09,580] time derivative squared,
+- [01:25:09,940 - 01:25:11,420] minus space derivatives squared.
+- [01:25:15,160 - 01:25:17,740] We could add things to this Lagrangian.
+- [01:25:17,860 - 01:25:18,660] I won't do it now,
+- [01:25:18,660 - 01:25:20,900] but we could add other things to this Lagrangian.
+- [01:25:21,000 - 01:25:24,480] But the rule is the Lagrangian should be a scalar.
+- [01:25:25,180 - 01:25:26,880] What's the value of saying the Lagrangian?
+- [01:25:26,900 - 01:25:27,940] The Lagrangian is a scalar.
+- [01:25:28,740 - 01:25:30,350] It says the action is
+- [01:25:30,350 - 01:25:31,960] the same in every reference frame.
+- [01:25:32,620 - 01:25:33,900] If you have a scalar,
+- [01:25:34,060 - 01:25:37,400] a quantity which doesn't depend on frame of reference,
+- [01:25:37,540 - 01:25:39,720] and you integrate it over all spacetime,
+- [01:25:41,780 - 01:25:45,480] then the result doesn't depend on which frame of reference
+- [01:25:45,480 - 01:25:47,160] it's been evaluated in.
+- [01:25:48,040 - 01:25:49,770] So if your principle of physics
+- [01:25:49,770 - 01:25:51,500] is the principle of least action,
+- [01:25:52,160 - 01:25:53,730] and the action doesn't depend
+- [01:25:53,730 - 01:25:55,300] on which frame it's written in,
+- [01:25:55,300 - 01:25:58,310] then the same action principle
+- [01:25:58,310 - 01:26:01,320] will give you equations of motion
+- [01:26:01,320 - 01:26:02,750] in each frame which have the
+- [01:26:02,750 - 01:26:04,180] same form in every reference frame.
+- [01:26:04,340 - 01:26:04,760] In other words,
+- [01:26:04,760 - 01:26:06,800] it will give you equations which are invariant
+- [01:26:06,800 - 01:26:08,080] under Lorentz transformations.
+- [01:26:09,080 - 01:26:14,080] So much of studying field theory
+- [01:26:15,839 - 01:26:19,560] is really the construction of invariant Lagrangians,
+- [01:26:19,600 - 01:26:21,900] construction of various kinds of fields,
+- [01:26:21,900 - 01:26:22,840] scalars,
+- [01:26:22,840 - 01:26:24,040] vectors,
+- [01:26:25,360 - 01:26:28,600] other kinds of fields which we haven't discussed yet,
+- [01:26:29,480 - 01:26:30,040] tensors,
+- [01:26:30,040 - 01:26:30,600] spinners,
+- [01:26:31,240 - 01:26:33,120] constructing out of these
+- [01:26:33,120 - 01:26:35,000] objects Lagrangians which are scalars.
+- [01:26:36,040 - 01:26:36,600] Why?
+- [01:26:36,880 - 01:26:38,900] Because you want to build equations which
+- [01:26:38,900 - 01:26:40,920] are the same in every reference frame.
+- [01:26:41,100 - 01:26:43,640] You want your equations to be Lorentz invariant.
+- [01:26:44,360 - 01:26:45,340] That's the...
+- [01:26:46,400 - 01:26:47,600] And we'll use that.
+- [01:26:48,060 - 01:26:49,620] We're going to use that over and
+- [01:26:49,620 - 01:26:51,180] over and over again in what follows.
+- [01:26:51,480 - 01:26:55,080] The tricks of index manipulation.
+- [01:26:55,300 - 01:26:57,340] But then when we actually
+- [01:26:57,340 - 01:26:59,380] come to write down real equations
+- [01:26:59,380 - 01:27:00,520] that we have to solve,
+- [01:27:00,800 - 01:27:03,260] we of course have to know what this means.
+- [01:27:04,080 - 01:27:05,980] We have to know that it means
+- [01:27:05,980 - 01:27:07,880] a times squared minus a space squared.
+- [01:27:08,720 - 01:27:09,320] Okay,
+- [01:27:09,320 - 01:27:11,520] that's notation for you.
+- [01:27:14,200 - 01:27:14,800] Yeah?
+- [01:27:16,540 - 01:27:20,760] When you were doing Lagrangians in Newtonian physics before,
+- [01:27:21,060 - 01:27:23,170] would it require the Lagrangian to
+- [01:27:23,170 - 01:27:25,280] be invariant under the first term?
+- [01:27:25,300 - 01:27:26,680] Or would it require the Lagrangian
+- [01:27:26,680 - 01:27:28,060] to be invariant under the second term?
+- [01:27:28,120 - 01:27:28,720] Well,
+- [01:27:28,720 - 01:27:30,220] we didn't talk much about it.
+- [01:27:34,680 - 01:27:35,280] Right,
+- [01:27:35,280 - 01:27:36,160] we didn't.
+- [01:27:36,360 - 01:27:36,960] Now,
+- [01:27:36,960 - 01:27:41,640] we didn't talk about relativity very much,
+- [01:27:41,720 - 01:27:45,140] but there is a non-relativistic version of relativity.
+- [01:27:46,940 - 01:27:47,540] Yes,
+- [01:27:47,540 - 01:27:48,000] there is.
+- [01:27:50,620 - 01:27:53,680] The special theory of relativity entails two things.
+- [01:27:53,860 - 01:27:55,280] It entails the rule of law.
+- [01:27:55,300 - 01:27:55,300] First,
+- [01:27:55,300 - 01:27:57,040] the rule that the laws of physics
+- [01:27:57,040 - 01:27:58,780] are the same in every reference frame.
+- [01:27:59,240 - 01:28:00,880] And second,
+- [01:28:00,880 - 01:28:02,660] that it's a law of physics
+- [01:28:02,660 - 01:28:04,440] that light moves with a certain velocity.
+- [01:28:05,480 - 01:28:06,320] Combine them together,
+- [01:28:06,320 - 01:28:08,660] light moves with the same velocity in every frame.
+- [01:28:09,740 - 01:28:11,800] If you leave out the statement about light,
+- [01:28:12,739 - 01:28:16,200] then ordinary Newtonian or Galilean physics,
+- [01:28:16,560 - 01:28:18,320] F equals m a type physics,
+- [01:28:18,879 - 01:28:22,100] does have a relativity associated with it.
+- [01:28:22,100 - 01:28:25,040] It's not the relativity of Lorentz transformations,
+- [01:28:25,740 - 01:28:29,400] it's the relativity of the limit of Lorentz transformations
+- [01:28:29,400 - 01:28:31,700] when the speed of light goes to infinity.
+- [01:28:31,860 - 01:28:33,120] Let's talk about that for a minute.
+- [01:28:33,260 - 01:28:34,180] We didn't talk about it.
+- [01:28:36,160 - 01:28:40,500] Let's write down Lorentz transformations and take the limit.
+- [01:28:41,780 - 01:28:44,360] X prime is equal to x minus vt
+- [01:28:45,280 - 01:28:47,170] divided by square root of 1
+- [01:28:47,170 - 01:28:49,060] minus v squared over c squared.
+- [01:28:49,680 - 01:28:52,080] T prime is equal to 2.
+- [01:28:52,100 - 01:28:55,230] T minus xv over square root of
+- [01:28:55,230 - 01:28:58,360] 1 minus v squared over c squared.
+- [01:28:58,580 - 01:28:59,780] But I'm not quite right.
+- [01:28:59,860 - 01:29:01,840] I think I have to divide this
+- [01:29:01,840 - 01:29:03,820] by c squared to get the units right.
+- [01:29:04,920 - 01:29:06,060] This is the,
+- [01:29:06,060 - 01:29:07,600] and of course we have two others.
+- [01:29:08,180 - 01:29:10,420] Y prime is equal to y
+- [01:29:10,420 - 01:29:12,660] and z prime is equal to z.
+- [01:29:14,260 - 01:29:17,020] We didn't speak much about this,
+- [01:29:17,140 - 01:29:21,380] but we could take the limit of these transformation rules
+- [01:29:22,100 - 01:29:23,940] as the speed of light gets very,
+- [01:29:23,940 - 01:29:24,500] very big.
+- [01:29:25,060 - 01:29:26,420] What happens to them?
+- [01:29:26,760 - 01:29:27,220] Well,
+- [01:29:27,220 - 01:29:30,140] the square root and the denominator here just becomes 1.
+- [01:29:32,160 - 01:29:33,970] So it's just x prime
+- [01:29:33,970 - 01:29:35,780] is equal to x minus vt.
+- [01:29:40,080 - 01:29:40,640] Well,
+- [01:29:40,640 - 01:29:41,280] that's familiar.
+- [01:29:41,420 - 01:29:44,100] That's just the change of a coordinate.
+- [01:29:45,460 - 01:29:46,890] Before anybody ever heard of
+- [01:29:46,890 - 01:29:48,320] the special theory of relativity,
+- [01:29:48,660 - 01:29:49,920] this is what they would have written down.
+- [01:29:50,500 - 01:29:52,060] What about this one over here?
+- [01:29:53,340 - 01:29:53,880] Again,
+- [01:29:53,880 - 01:29:55,360] taking c to infinity,
+- [01:29:55,360 - 01:29:57,260] this becomes 1.
+- [01:29:59,360 - 01:30:02,840] But now we have x times v over c squared.
+- [01:30:03,920 - 01:30:05,460] When c goes to infinity,
+- [01:30:05,460 - 01:30:07,400] this goes to 0.
+- [01:30:09,100 - 01:30:10,640] That's just t prime equals t.
+- [01:30:12,280 - 01:30:12,820] So,
+- [01:30:12,820 - 01:30:13,300] yes,
+- [01:30:13,300 - 01:30:15,750] there is an invariance
+- [01:30:15,750 - 01:30:18,200] of nonrelativistic Newtonian mechanics.
+- [01:30:18,200 - 01:30:20,840] It's called Galilean invariance.
+- [01:30:21,020 - 01:30:23,760] And it requires the equations
+- [01:30:23,760 - 01:30:26,500] to be invariant under these replacements.
+- [01:30:26,860 - 01:30:28,540] This replacement is trivial.
+- [01:30:28,680 - 01:30:31,580] It just says that all observers,
+- [01:30:31,580 - 01:30:35,460] all frames of reference share the same time.
+- [01:30:36,740 - 01:30:38,580] Simultaneity is the same for everybody.
+- [01:30:38,980 - 01:30:40,220] So that's easy.
+- [01:30:40,400 - 01:30:43,560] And this is just the usual change of reference frame
+- [01:30:43,560 - 01:30:46,200] from one inertial frame to another.
+- [01:30:48,200 - 01:30:51,160] So when people say that the equations of physics
+- [01:30:51,160 - 01:30:53,920] are the same in every inertial reference frame,
+- [01:30:54,160 - 01:30:55,880] it's a statement of relativity.
+- [01:30:56,200 - 01:30:57,520] It is a statement of relativity.
+- [01:30:58,280 - 01:30:59,440] And in fact,
+- [01:30:59,440 - 01:31:01,000] when we write down f equals ma,
+- [01:31:02,699 - 01:31:06,120] typically those equations are invariant under this.
+- [01:31:06,220 - 01:31:07,100] We didn't discuss it,
+- [01:31:07,100 - 01:31:07,540] but they are.
+- [01:31:10,200 - 01:31:11,080] Other questions?
+- [01:31:19,060 - 01:31:21,480] The transformation properties for
+- [01:31:21,480 - 01:31:23,900] a covariant and a contravariant,
+- [01:31:24,580 - 01:31:26,680] the difference is just a change in d?
+- [01:31:27,680 - 01:31:28,820] A sign of d?
+- [01:31:29,000 - 01:31:29,360] No,
+- [01:31:29,360 - 01:31:29,640] no,
+- [01:31:29,640 - 01:31:29,840] no,
+- [01:31:29,840 - 01:31:30,320] not quite.
+- [01:31:31,880 - 01:31:32,560] Let's do it.
+- [01:31:32,820 - 01:31:33,260] Okay.
+- [01:31:39,840 - 01:31:40,280] Almost.
+- [01:31:41,600 - 01:31:42,040] Almost.
+- [01:31:42,160 - 01:31:42,400] Well,
+- [01:31:42,400 - 01:31:42,980] let's work it out.
+- [01:31:50,179 - 01:31:58,320] A prime t is equal to at minus vax squared,
+- [01:31:58,540 - 01:31:59,700] 1 minus v squared,
+- [01:31:59,700 - 01:32:00,200] and so forth.
+- [01:32:00,940 - 01:32:06,520] And a prime x is,
+- [01:32:06,520 - 01:32:07,100] of course,
+- [01:32:07,100 - 01:32:14,360] ax minus v at.
+- [01:32:19,900 - 01:32:20,760] Usual thing.
+- [01:32:22,660 - 01:32:23,280] Okay.
+- [01:32:23,380 - 01:32:27,860] Now we just write that a prime
+- [01:32:27,860 - 01:32:32,340] t is the same as minus at here.
+- [01:32:34,720 - 01:32:38,640] At here is the same as minus at here.
+- [01:32:43,760 - 01:32:45,970] A with an upper index t here is the
+- [01:32:45,970 - 01:32:48,180] same as a with a lower index t here.
+- [01:32:52,279 - 01:32:55,640] What about a superscript x?
+- [01:32:58,360 - 01:33:01,300] That's the same as a lower superscript x,
+- [01:33:02,400 - 01:33:04,260] only the time components change.
+- [01:33:04,920 - 01:33:07,840] And so these just go downstairs.
+- [01:33:11,100 - 01:33:11,620] Okay.
+- [01:33:11,720 - 01:33:12,460] So let's see.
+- [01:33:12,600 - 01:33:13,340] So I think you're right.
+- [01:33:13,460 - 01:33:14,890] I think that it just
+- [01:33:14,890 - 01:33:16,320] seems to just change the sign.
+- [01:33:17,660 - 01:33:18,180] Okay.
+- [01:33:20,519 - 01:33:21,040] Yeah.
+- [01:33:21,140 - 01:33:21,660] Yeah.
+- [01:33:22,700 - 01:33:23,220] Yeah.
+- [01:33:23,540 - 01:33:28,080] I'm a little confused about when a,
+- [01:33:28,080 - 01:33:28,420] a,
+- [01:33:28,420 - 01:33:28,900] a,
+- [01:33:28,900 - 01:33:28,980] a,
+- [01:33:28,980 - 01:33:29,060] a,
+- [01:33:29,060 - 01:33:31,400] what I think of as a scalar value function
+- [01:33:31,400 - 01:33:33,040] with some coordinate system,
+- [01:33:33,040 - 01:33:35,120] when that would not be a scalar.
+- [01:33:35,320 - 01:33:36,160] In other words,
+- [01:33:36,160 - 01:33:38,500] define any function there,
+- [01:33:38,500 - 01:33:40,860] it might have no physical meaning whatsoever,
+- [01:33:41,240 - 01:33:42,160] and you just say,
+- [01:33:42,160 - 01:33:42,380] well,
+- [01:33:42,380 - 01:33:43,980] when you look at it in its other coordinate system,
+- [01:33:43,980 - 01:33:45,100] that,
+- [01:33:45,100 - 01:33:45,480] that
+- [01:33:45,480 - 01:33:47,260] function at this point transformed,
+- [01:33:47,260 - 01:33:48,060] transformed,
+- [01:33:48,060 - 01:33:48,160] transformed.
+- [01:33:48,160 - 01:33:50,880] So what would you say is the energy density?
+- [01:33:51,100 - 01:33:51,320] Oh,
+- [01:33:51,320 - 01:33:52,860] energy density.
+- [01:33:53,100 - 01:33:53,540] Pardon?
+- [01:33:53,740 - 01:33:54,600] Energy density.
+- [01:33:56,500 - 01:33:57,380] Energy density.
+- [01:33:57,740 - 01:33:59,240] Energy density of a,
+- [01:33:59,240 - 01:33:59,520] um,
+- [01:33:59,520 - 01:34:00,360] of a gas.
+- [01:34:01,620 - 01:34:02,780] The energy of a gas,
+- [01:34:02,780 - 01:34:05,190] density of a gas in a frame
+- [01:34:05,190 - 01:34:07,600] of reference in which the gas is in
+- [01:34:07,600 - 01:34:09,480] a box and the box is at rest,
+- [01:34:09,480 - 01:34:11,160] there's a certain energy density.
+- [01:34:11,780 - 01:34:12,900] If you're at rest and
+- [01:34:12,900 - 01:34:14,020] you look at the energy density,
+- [01:34:14,020 - 01:34:15,340] there's a certain energy density.
+- [01:34:15,620 - 01:34:17,300] If you're moving fast,
+- [01:34:17,300 - 01:34:18,140] relatively fast,
+- [01:34:18,140 - 01:34:18,140] you're moving at a certain speed.
+- [01:34:18,140 - 01:34:18,840] So in that relationship to that box,
+- [01:34:18,840 - 01:34:21,440] the energy density in that box is a lot larger.
+- [01:34:22,680 - 01:34:26,580] So energy density is something which we won't agree on.
+- [01:34:27,640 - 01:34:29,360] So I guess what I would say then is that,
+- [01:34:29,360 - 01:34:29,560] um,
+- [01:34:29,560 - 01:34:33,100] what you mean is that a scalar function
+- [01:34:33,100 - 01:34:36,030] is some physical quantity that in
+- [01:34:36,030 - 01:34:38,960] every reference frame is described as something.
+- [01:34:39,280 - 01:34:39,460] Well,
+- [01:34:39,460 - 01:34:39,760] I don't get that.
+- [01:34:39,760 - 01:34:39,820] And,
+- [01:34:39,820 - 01:34:40,960] and that,
+- [01:34:40,960 - 01:34:41,800] that transforms,
+- [01:34:41,800 - 01:34:42,940] I wouldn't do,
+- [01:34:42,940 - 01:34:43,220] okay.
+- [01:34:43,380 - 01:34:43,700] Right.
+- [01:34:43,840 - 01:34:44,120] Right.
+- [01:34:44,340 - 01:34:46,580] When I say we agree about its value,
+- [01:34:46,580 - 01:34:47,920] I mean if we measure it.
+- [01:34:47,920 - 01:34:49,540] We agree about its value.
+- [01:34:49,760 - 01:34:50,200] Right.
+- [01:34:51,340 - 01:34:51,780] Yeah.
+- [01:34:53,060 - 01:34:54,330] I don't just mean we agree
+- [01:34:54,330 - 01:34:55,600] because we're nice to each other.
+- [01:34:55,640 - 01:34:57,010] I mean we agree because we made
+- [01:34:57,010 - 01:34:58,380] the measurement and we compared the measurements.
+- [01:34:59,020 - 01:34:59,460] Right.
+- [01:35:02,420 - 01:35:02,860] Um,
+- [01:35:02,860 - 01:35:04,940] so energy density is a good example.
+- [01:35:05,900 - 01:35:06,340] Uh,
+- [01:35:06,340 - 01:35:07,360] there are lots of them.
+- [01:35:11,720 - 01:35:12,160] Uh,
+- [01:35:12,160 - 01:35:12,600] the,
+- [01:35:12,600 - 01:35:12,980] uh,
+- [01:35:12,980 - 01:35:16,680] components of the four velocity of a,
+- [01:35:16,680 - 01:35:17,120] uh,
+- [01:35:17,120 - 01:35:17,900] of a system.
+- [01:35:19,379 - 01:35:22,159] Time component of a four velocity is
+- [01:35:22,159 - 01:35:24,940] not the same in different reference frames.
+- [01:35:29,059 - 01:35:30,180] Other questions?
+- [01:35:33,040 - 01:35:33,600] Okay.
+- [01:35:33,660 - 01:35:34,000] If not,
+- [01:35:34,000 - 01:35:34,460] we'll,
+- [01:35:34,460 - 01:35:34,540] uh,
+- [01:35:34,540 - 01:35:35,160] we'll,
+- [01:35:35,160 - 01:35:35,600] um,
+- [01:35:35,600 - 01:35:38,320] move on.
+- [01:35:38,420 - 01:35:38,540] This,
+- [01:35:38,540 - 01:35:38,940] this,
+- [01:35:38,940 - 01:35:41,320] this is all very easy stuff.
+- [01:35:42,320 - 01:35:43,480] It's very easy.
+- [01:35:43,540 - 01:35:44,200] It's just notation.
+- [01:35:45,260 - 01:35:45,820] But,
+- [01:35:45,820 - 01:35:46,040] uh,
+- [01:35:46,040 - 01:35:47,820] until you learn it.
+- [01:35:47,860 - 01:35:47,880] Okay.
+- [01:35:48,580 - 01:35:49,660] It's a little bit unfamiliar.
+- [01:35:53,080 - 01:35:54,240] Let's talk about waves.
+- [01:35:54,340 - 01:35:55,420] Let's look at the wave equation.
+- [01:35:57,140 - 01:35:59,220] Let's look at the wave equation and solve it.
+- [01:35:59,280 - 01:36:00,460] Let's solve the wave equation.
+- [01:36:06,420 - 01:36:08,380] Let's imagine we have some wave field.
+- [01:36:10,840 - 01:36:14,780] And it satisfies,
+- [01:36:14,780 - 01:36:15,160] oh,
+- [01:36:15,160 - 01:36:15,520] let's,
+- [01:36:15,520 - 01:36:17,760] let's even begin by writing down a Lagrangian.
+- [01:36:17,760 - 01:36:19,300] Let's write down a Lagrangian.
+- [01:36:19,360 - 01:36:20,840] We've already written down a Lagrangian.
+- [01:36:21,300 - 01:36:24,240] But I want to write a slight extension of it.
+- [01:36:26,260 - 01:36:27,140] Here it is.
+- [01:36:28,440 - 01:36:34,600] The phi by dt squared minus the phi by the,
+- [01:36:34,600 - 01:36:36,840] now I'm going to write it out in detail because,
+- [01:36:40,139 - 01:36:40,559] uh,
+- [01:36:40,559 - 01:36:41,760] also y and z.
+- [01:36:41,860 - 01:36:43,140] I'm not going to write down the y.
+- [01:36:43,220 - 01:36:45,020] Then they come in with the same sign as this.
+- [01:36:46,000 - 01:36:47,740] We always put a one-half in.
+- [01:36:47,740 - 01:36:48,740] So we have a one-half there
+- [01:36:48,740 - 01:36:49,740] in front of the whole thing.
+- [01:36:50,840 - 01:36:51,320] Okay.
+- [01:36:51,560 - 01:36:53,420] And I'm going to add one more term.
+- [01:36:54,380 - 01:36:56,660] The one more term is also a scalar.
+- [01:36:58,020 - 01:36:59,780] It does not involve derivatives.
+- [01:37:00,400 - 01:37:02,280] It's a function of phi.
+- [01:37:02,880 - 01:37:04,400] And the simplest function of
+- [01:37:04,400 - 01:37:05,920] phi that I can think of,
+- [01:37:05,920 - 01:37:06,060] well,
+- [01:37:06,060 - 01:37:06,920] we could just add phi.
+- [01:37:07,800 - 01:37:09,560] That would be a simple function of phi.
+- [01:37:10,360 - 01:37:13,120] But it's going to make a slightly more complicated one.
+- [01:37:13,520 - 01:37:14,400] Phi squared.
+- [01:37:15,060 - 01:37:15,540] Okay.
+- [01:37:15,540 - 01:37:17,680] So including the one-half,
+- [01:37:17,680 - 01:37:19,990] we're going to write with
+- [01:37:19,990 - 01:37:22,300] minus a parameter which I'm going
+- [01:37:22,300 - 01:37:26,940] to call mu squared phi squared over two.
+- [01:37:27,520 - 01:37:28,000] Oh,
+- [01:37:28,000 - 01:37:28,220] no,
+- [01:37:28,220 - 01:37:29,300] it's already got a two in it.
+- [01:37:32,800 - 01:37:34,660] Now this is the field
+- [01:37:34,660 - 01:37:36,520] theory analog of the harmonic oscillator.
+- [01:37:37,000 - 01:37:37,880] That's all this is.
+- [01:37:37,980 - 01:37:40,200] It's the field theory analog of the harmonic oscillator.
+- [01:37:41,260 - 01:37:43,390] If we were talking about a harmonic oscillator
+- [01:37:43,390 - 01:37:45,520] and we called the coordinate of the harmonic,
+- [01:37:45,520 - 01:37:48,420] the coordinate of the oscillator phi,
+- [01:37:48,420 - 01:37:50,740] we call the coordinate of the oscillator phi,
+- [01:37:50,740 - 01:37:55,250] we would write down phi dot squared over two for the
+- [01:37:55,250 - 01:37:59,760] kinetic energy and then for the potential energy minus a spring constant,
+- [01:37:59,760 - 01:38:02,370] which I'm calling mu squared minus
+- [01:38:02,370 - 01:38:04,980] mu squared phi squared over two.
+- [01:38:06,040 - 01:38:08,140] This would be the good old harmonic oscillator.
+- [01:38:08,480 - 01:38:11,740] And the only difference is it now
+- [01:38:11,740 - 01:38:15,000] has some space derivatives in the Lagrangian.
+- [01:38:16,440 - 01:38:18,280] Let's take this Lagrangian,
+- [01:38:18,280 - 01:38:19,460] work out the equations,
+- [01:38:19,460 - 01:38:21,500] and then solve it,
+- [01:38:21,500 - 01:38:22,500] find its solutions.
+- [01:38:25,960 - 01:38:26,480] Well,
+- [01:38:26,480 - 01:38:28,440] it's first of all derivative of
+- [01:38:28,440 - 01:38:30,400] L with respect to time derivative.
+- [01:38:30,960 - 01:38:32,700] That's just d phi by dt.
+- [01:38:34,000 - 01:38:36,160] Then we differentiate it with respect to time.
+- [01:38:36,300 - 01:38:37,910] We get second derivative of
+- [01:38:37,910 - 01:38:39,520] phi with respect to t squared.
+- [01:38:40,080 - 01:38:40,600] This,
+- [01:38:40,600 - 01:38:40,980] of course,
+- [01:38:40,980 - 01:38:43,120] is the analog of the acceleration term.
+- [01:38:43,999 - 01:38:46,380] The acceleration in F equals ma.
+- [01:38:46,820 - 01:38:52,830] But then we get minus d second phi by dx
+- [01:38:52,830 - 01:38:58,840] squared minus same thing with y minus same thing with z.
+- [01:39:02,480 - 01:39:04,070] And that has to be
+- [01:39:04,070 - 01:39:05,660] equal to dl by d phi.
+- [01:39:06,680 - 01:39:12,260] So that's equal to minus mu squared phi.
+- [01:39:13,580 - 01:39:16,560] When you differentiate mu squared phi
+- [01:39:16,560 - 01:39:19,540] squared with a factor of two,
+- [01:39:19,540 - 01:39:21,940] you just get minus mu squared phi.
+- [01:39:23,620 - 01:39:24,580] Or if we want to
+- [01:39:24,580 - 01:39:25,540] put everything on the left side,
+- [01:39:25,540 - 01:39:27,360] let's put everything on the left
+- [01:39:27,360 - 01:39:29,180] side plus mu squared equals zero.
+- [01:39:31,600 - 01:39:33,080] This is a nice simple equation.
+- [01:39:33,160 - 01:39:33,780] It has a name.
+- [01:39:33,860 - 01:39:35,380] Anybody know what the name of this equation is?
+- [01:39:37,840 - 01:39:38,240] No?
+- [01:39:41,320 - 01:39:42,780] The Klein-Gordon equation.
+- [01:39:42,820 - 01:39:43,100] The Klein-Gordon equation.
+- [01:39:43,100 - 01:39:43,160] Yeah.
+- [01:39:43,980 - 01:39:45,580] This is the Klein-Gordon equation.
+- [01:39:53,420 - 01:39:54,380] Klein-Gordon,
+- [01:39:54,380 - 01:39:55,460] Klein and Gordon,
+- [01:39:55,460 - 01:39:57,270] I don't know if they were
+- [01:39:57,270 - 01:39:59,080] connected with each other or not.
+- [01:39:59,780 - 01:40:01,670] But I have a feeling Klein was
+- [01:40:01,670 - 01:40:03,560] a German and Gordon was probably a Brit,
+- [01:40:03,560 - 01:40:05,280] so they probably were not collaborating.
+- [01:40:06,440 - 01:40:08,100] But in any case,
+- [01:40:08,100 - 01:40:09,920] in some combination or another,
+- [01:40:09,920 - 01:40:11,220] they wrote down this equation.
+- [01:40:14,000 - 01:40:18,760] This was their attempt before Schrodinger to write
+- [01:40:18,760 - 01:40:23,520] down the equation for a quantum mechanical particle.
+- [01:40:26,300 - 01:40:30,080] They made the mistake of trying to be relativistic.
+- [01:40:30,740 - 01:40:32,960] Had they not tried to be relativistic,
+- [01:40:32,960 - 01:40:34,380] they would have written down
+- [01:40:34,380 - 01:40:35,800] the Schrodinger equation and been very,
+- [01:40:35,800 - 01:40:36,520] very famous.
+- [01:40:37,020 - 01:40:39,580] They wrote down the relativistic version
+- [01:40:39,580 - 01:40:42,140] of it and became much less famous.
+- [01:40:43,440 - 01:40:44,460] Famous among physicists,
+- [01:40:44,460 - 01:40:46,600] but not famous outside of the physics world.
+- [01:40:46,740 - 01:40:48,100] Only one person here knew
+- [01:40:48,100 - 01:40:49,460] that it was the Klein-Gordon equation.
+- [01:40:53,280 - 01:40:55,380] The Schrodinger equation is somewhat similar,
+- [01:40:55,380 - 01:40:57,190] but it only has a first derivative with respect
+- [01:40:57,190 - 01:40:59,000] to time and it has some i's in it.
+- [01:40:59,100 - 01:41:00,380] But this is called the Klein-Gordon equation.
+- [01:41:01,620 - 01:41:03,220] And its connection with quantum
+- [01:41:03,220 - 01:41:04,820] mechanics is not important right now.
+- [01:41:06,440 - 01:41:08,040] What we want to do is solve it.
+- [01:41:15,320 - 01:41:17,580] There are lots of solutions to it,
+- [01:41:17,580 - 01:41:18,760] zillions of solutions,
+- [01:41:18,760 - 01:41:22,280] but they're all built up out of plane waves.
+- [01:41:22,660 - 01:41:24,800] The solution to this kind of
+- [01:41:24,800 - 01:41:26,940] equations are sums of plane waves.
+- [01:41:27,900 - 01:41:33,100] So let's write down a plane wave in exponential form.
+- [01:41:34,300 - 01:41:37,300] It's useful when thinking about oscillating systems
+- [01:41:37,300 - 01:41:40,300] to pretend that the coordinate is complex.
+- [01:41:40,300 - 01:41:42,200] And at the end,
+- [01:41:42,200 - 01:41:43,760] just take the real part of it.
+- [01:41:44,480 - 01:41:46,400] We do that for the harmonic oscillator,
+- [01:41:46,400 - 01:41:48,560] we do it for all sorts of oscillating systems.
+- [01:41:49,280 - 01:41:52,530] Look for solutions which we allow to be
+- [01:41:52,530 - 01:41:55,780] complex functions and later take the real parts.
+- [01:41:55,860 - 01:41:57,480] I'll give you an example as we go along.
+- [01:41:58,220 - 01:42:00,220] What kind of solutions are we going to look for?
+- [01:42:00,320 - 01:42:01,900] We're going to look for
+- [01:42:01,900 - 01:42:03,480] solutions which first of all oscillate.
+- [01:42:03,740 - 01:42:06,120] I can't remember if I want plus or minus here.
+- [01:42:14,400 - 01:42:16,140] Minus for positive energy solutions.
+- [01:42:17,540 - 01:42:20,980] E to the minus i omega t.
+- [01:42:22,120 - 01:42:25,020] That's an oscillation with time with frequency omega.
+- [01:42:26,420 - 01:42:28,070] And now we're going to look
+- [01:42:28,070 - 01:42:29,720] for solutions which oscillate in space,
+- [01:42:29,720 - 01:42:31,260] which means they're e to
+- [01:42:31,260 - 01:42:32,800] the i kx of some type.
+- [01:42:33,200 - 01:42:35,260] E to the i,
+- [01:42:35,260 - 01:42:37,880] and we can write here kx times x.
+- [01:42:39,140 - 01:42:41,240] Plus ky times y.
+- [01:42:42,320 - 01:42:44,760] Plus kz times z.
+- [01:42:44,960 - 01:42:46,300] Well these are three numbers.
+- [01:42:46,440 - 01:42:49,080] Kx and ky and kz are just three numbers.
+- [01:42:49,220 - 01:42:50,300] They're called the wave numbers.
+- [01:42:50,780 - 01:42:52,040] Or the wave vector.
+- [01:42:53,180 - 01:42:53,660] Kx,
+- [01:42:53,660 - 01:42:53,920] ky,
+- [01:42:53,920 - 01:42:54,680] and kz.
+- [01:42:56,060 - 01:42:59,190] And this is the form of
+- [01:42:59,190 - 01:43:02,320] a solution that we'll look for.
+- [01:43:02,380 - 01:43:02,560] We'll see.
+- [01:43:02,600 - 01:43:04,160] Maybe there is no solution like this.
+- [01:43:04,240 - 01:43:04,540] We'll check.
+- [01:43:05,540 - 01:43:06,020] Alright.
+- [01:43:06,020 - 01:43:07,570] First of all we can rewrite
+- [01:43:07,570 - 01:43:09,120] this in a kind of neat way.
+- [01:43:09,380 - 01:43:13,740] We could rewrite it as e
+- [01:43:13,740 - 01:43:18,100] to the i k mu x mu.
+- [01:43:19,360 - 01:43:20,840] Where does that come from?
+- [01:43:21,700 - 01:43:25,980] Well if I think of k as
+- [01:43:25,980 - 01:43:30,260] a four vector with components minus omega.
+- [01:43:31,220 - 01:43:32,600] Do I want minus omega?
+- [01:43:32,880 - 01:43:33,860] I think so.
+- [01:43:34,220 - 01:43:35,520] And kx,
+- [01:43:35,520 - 01:43:35,800] ky.
+- [01:43:35,800 - 01:43:36,480] And kz.
+- [01:43:40,920 - 01:43:43,950] If we think of the four components
+- [01:43:43,950 - 01:43:46,980] of a complex of things involving omega,
+- [01:43:46,980 - 01:43:48,100] kx,
+- [01:43:48,100 - 01:43:48,440] ky,
+- [01:43:48,440 - 01:43:49,300] and kz.
+- [01:43:49,760 - 01:43:52,260] And I group them together in this form here.
+- [01:43:53,680 - 01:43:54,460] Call them.
+- [01:43:56,100 - 01:43:57,580] Think of them for the moment.
+- [01:43:57,840 - 01:43:59,240] They may not really be.
+- [01:43:59,380 - 01:44:01,480] They are actually a four vector.
+- [01:44:01,780 - 01:44:04,600] But think of them as defining a four vector.
+- [01:44:04,600 - 01:44:07,460] Then what's up in the exponent
+- [01:44:07,460 - 01:44:10,320] here is just k mu x mu.
+- [01:44:10,780 - 01:44:13,140] Time component omega times t.
+- [01:44:13,500 - 01:44:16,140] X component of k times x.
+- [01:44:16,680 - 01:44:18,020] So it's a nice little notation.
+- [01:44:18,300 - 01:44:18,840] But we won't.
+- [01:44:18,860 - 01:44:19,720] I'm not going to use it now.
+- [01:44:19,820 - 01:44:22,300] I'm just going to use it in this form here.
+- [01:44:23,520 - 01:44:24,790] Let's see what happens if
+- [01:44:24,790 - 01:44:26,060] we try to solve this equation.
+- [01:44:27,780 - 01:44:29,360] What is the second derivative of
+- [01:44:29,360 - 01:44:30,940] phi with respect to t squared?
+- [01:44:31,860 - 01:44:32,500] Well,
+- [01:44:32,500 - 01:44:35,380] what happens when you differentiate an e to
+- [01:44:35,380 - 01:44:38,260] the i omega t with respect to time twice?
+- [01:44:40,700 - 01:44:42,660] That will multiply what you
+- [01:44:42,660 - 01:44:44,620] have here by minus omega squared.
+- [01:44:45,900 - 01:44:47,740] So let's call this the.
+- [01:44:47,860 - 01:44:50,580] This is our guess at phi.
+- [01:44:51,839 - 01:44:53,599] What happens if we differentiate
+- [01:44:53,599 - 01:44:55,360] it twice with respect to t?
+- [01:44:55,540 - 01:44:58,620] We get minus omega squared times phi.
+- [01:44:58,620 - 01:45:03,240] What happens if we differentiate with respect to x?
+- [01:45:03,740 - 01:45:08,360] We get kx squared with respect to y twice.
+- [01:45:08,400 - 01:45:09,320] Ky squared.
+- [01:45:09,700 - 01:45:14,640] So altogether we'll get minus omega squared plus
+- [01:45:14,640 - 01:45:19,580] kx squared plus ky squared plus kz squared.
+- [01:45:20,240 - 01:45:21,600] But we're not finished.
+- [01:45:21,680 - 01:45:24,780] We still have plus m squared here.
+- [01:45:26,080 - 01:45:28,600] So there's plus m squared.
+- [01:45:28,620 - 01:45:32,010] And we're going to have
+- [01:45:32,010 - 01:45:35,400] minus omega squared phi equals zero.
+- [01:45:37,120 - 01:45:37,800] Well,
+- [01:45:37,800 - 01:45:40,440] it's very easy now to find the solution.
+- [01:45:40,720 - 01:45:47,380] You simply say omega must equal the square root of
+- [01:45:47,380 - 01:45:54,040] kx squared plus ky squared plus kz squared plus m squared.
+- [01:45:56,860 - 01:45:58,100] In other words,
+- [01:45:58,100 - 01:45:58,600] you just have to find the solution.
+- [01:45:58,600 - 01:45:59,720] You just set what's in
+- [01:45:59,720 - 01:46:00,840] the bracket here equal to zero.
+- [01:46:01,020 - 01:46:02,340] And you have a solution.
+- [01:46:04,600 - 01:46:06,500] This is just telling you what the
+- [01:46:06,500 - 01:46:08,400] frequency is in terms of the wave number.
+- [01:46:10,020 - 01:46:10,500] Frequency,
+- [01:46:10,500 - 01:46:13,380] square root of kx squared plus ky
+- [01:46:13,380 - 01:46:16,260] squared plus kz squared plus m squared.
+- [01:46:17,940 - 01:46:19,900] That's the solution of the Klein-Gordon equation.
+- [01:46:20,980 - 01:46:22,860] There are two possible solutions.
+- [01:46:23,060 - 01:46:25,080] A square root like this can be plus or minus.
+- [01:46:26,259 - 01:46:28,239] It'll solve the equation whether you
+- [01:46:28,239 - 01:46:30,220] put plus omega or minus omega here.
+- [01:46:32,880 - 01:46:33,900] And of course,
+- [01:46:33,900 - 01:46:36,360] for every kx,
+- [01:46:36,360 - 01:46:36,620] ky,
+- [01:46:36,620 - 01:46:37,380] and kz,
+- [01:46:37,380 - 01:46:41,980] there are two solutions with plus omega and minus omega.
+- [01:46:42,100 - 01:46:44,240] Or the plus or minus roots of the square root.
+- [01:46:47,139 - 01:46:49,760] Those are the solutions of the Klein-Gordon equation.
+- [01:46:52,099 - 01:46:54,320] And we're going to come back to it many,
+- [01:46:54,320 - 01:46:55,020] many times.
+- [01:46:55,020 - 01:46:58,910] This is the quantum mechani- or this
+- [01:46:58,910 - 01:47:02,800] is the classical field version of an equation
+- [01:47:02,800 - 01:47:07,620] which describes a quantum mechanical particle with mass m,
+- [01:47:07,620 - 01:47:09,700] energy omega,
+- [01:47:09,700 - 01:47:11,640] and momentum k.
+- [01:47:13,220 - 01:47:15,490] This is e equals square root
+- [01:47:15,490 - 01:47:17,760] of p squared plus m squared.
+- [01:47:18,900 - 01:47:20,710] There's some Planck's constants in there
+- [01:47:20,710 - 01:47:22,520] that I didn't tell you about,
+- [01:47:22,520 - 01:47:23,500] but they're there.
+- [01:47:23,780 - 01:47:24,600] All right.
+- [01:47:25,020 - 01:47:32,860] So these equations aren't hard.
+- [01:47:33,000 - 01:47:33,520] They're simple.
+- [01:47:33,620 - 01:47:34,460] They're linear equations.
+- [01:47:35,100 - 01:47:36,400] You add solutions.
+- [01:47:37,700 - 01:47:38,960] And at the end of the day,
+- [01:47:38,960 - 01:47:43,520] after you've constructed your solution in this way,
+- [01:47:43,720 - 01:47:45,620] you can take the real part of it.
+- [01:47:45,720 - 01:47:47,020] And the real part of it,
+- [01:47:47,020 - 01:47:48,600] if the field is supposed to be real,
+- [01:47:48,760 - 01:47:50,680] then if it's supposed to be a real number,
+- [01:47:50,680 - 01:47:52,060] you just take the real part of it.
+- [01:47:52,440 - 01:47:52,880] Okay,
+- [01:47:52,880 - 01:47:53,440] any questions?
+- [01:47:54,059 - 01:47:54,760] We're getting,
+- [01:47:54,760 - 01:47:55,280] you know,
+- [01:47:55,280 - 01:47:56,580] we're moving along now,
+- [01:47:56,580 - 01:47:58,940] and we're talking about real stuff.
+- [01:47:59,240 - 01:47:59,320] Yeah?
+- [01:47:59,580 - 01:48:02,380] Where did the Klein-Gordon equation come from?
+- [01:48:02,900 - 01:48:03,600] I mean,
+- [01:48:03,600 - 01:48:07,920] did you use something to the Lagrangian to take it?
+- [01:48:09,559 - 01:48:10,680] Here's Lagrangian.
+- [01:48:11,640 - 01:48:13,200] I made up this Lagrangian.
+- [01:48:16,740 - 01:48:17,980] If you look for,
+- [01:48:17,980 - 01:48:18,460] okay,
+- [01:48:18,460 - 01:48:19,140] good.
+- [01:48:21,460 - 01:48:22,020] Okay.
+- [01:48:26,200 - 01:48:29,180] This is pretty much the unique
+- [01:48:29,180 - 01:48:32,160] Lagrangian which would lead to linear equations.
+- [01:48:33,640 - 01:48:34,820] A linear equation.
+- [01:48:37,320 - 01:48:40,280] We'll come back to why we're looking for linear equations,
+- [01:48:40,280 - 01:48:42,740] but for the moment,
+- [01:48:42,800 - 01:48:43,720] this is just an example.
+- [01:48:44,880 - 01:48:45,740] At the moment,
+- [01:48:45,740 - 01:48:46,500] it's an example.
+- [01:48:47,340 - 01:48:49,130] The next step going from
+- [01:48:49,130 - 01:48:50,920] that Lagrangian to the Klein-Gordon equation.
+- [01:48:50,920 - 01:48:53,580] It took the next derivative of
+- [01:48:53,580 - 01:48:56,240] each term with respect to the variable.
+- [01:48:57,800 - 01:48:58,320] Yeah.
+- [01:48:59,960 - 01:49:03,040] Derivative of Lagrangian with respect to d phi dt.
+- [01:49:03,820 - 01:49:05,120] That's just d phi dt.
+- [01:49:06,660 - 01:49:09,240] And then you differentiate that with respect to time.
+- [01:49:09,500 - 01:49:09,780] Right,
+- [01:49:09,780 - 01:49:09,940] right.
+- [01:49:10,100 - 01:49:10,500] Yeah.
+- [01:49:10,920 - 01:49:11,640] Same thing.
+- [01:49:11,720 - 01:49:14,100] And you add the second partial with
+- [01:49:14,100 - 01:49:16,480] respect to x and with respect to y.
+- [01:49:16,480 - 01:49:16,680] Yeah.
+- [01:49:17,000 - 01:49:17,520] Remember,
+- [01:49:17,520 - 01:49:18,840] remember what the rules are.
+- [01:49:18,840 - 01:49:20,040] Okay,
+- [01:49:20,040 - 01:49:24,020] let's write down the Euler-Lagrange equation for a field.
+- [01:49:27,180 - 01:49:31,020] d by dx mu.
+- [01:49:31,650 - 01:49:32,120] All right,
+- [01:49:32,120 - 01:49:33,500] we'll now write them in a neat form.
+- [01:49:33,680 - 01:49:38,670] d by dx mu of partial of L
+- [01:49:38,670 - 01:49:43,660] with respect to d phi by dx mu.
+- [01:49:45,340 - 01:49:47,520] And that means sum over mu.
+- [01:49:51,760 - 01:49:52,520] And then,
+- [01:49:52,520 - 01:49:52,540] let's double-dropping that feature.
+- [01:49:52,540 - 01:49:52,720] Here's the next part if you have any questions.
+- [01:49:52,720 - 01:49:54,370] So atひ above L minus D
+- [01:49:54,370 - 01:49:56,020] plus X defy by dx mu,
+- [01:49:56,020 - 01:49:56,020] observe,
+- [01:49:56,020 - 01:49:56,340] if you have a fraction of L
+- [01:49:56,340 - 01:49:59,760] in terms of pi and pull-through is notihad.
+- [01:50:00,440 - 01:50:09,300] d by dx mod facto is a divine number.
+- [01:50:09,660 - 01:50:12,340] But at check of time,
+- [01:50:12,340 - 01:50:15,580] you can see that dib is zero.
+- [01:50:15,580 - 01:50:16,040] This means that by taking out
+- [01:50:16,040 - 01:50:16,500] zero at 10 to the nthdır,
+- [01:50:16,500 - 01:50:16,780] index,
+- [01:50:16,780 - 01:50:20,330] but this is of the form of
+- [01:50:20,330 - 01:50:23,880] a lower index times an upper index.
+- [01:50:27,320 - 01:50:30,010] And you can see that this
+- [01:50:30,010 - 01:50:32,700] equation has some nice relativistic structure.
+- [01:50:33,580 - 01:50:36,040] Upper indices and lower indices contracted,
+- [01:50:36,040 - 01:50:40,220] and everything is a scalar.
+- [01:50:41,920 - 01:50:44,900] What in nature obeys the Klein-Gordon equation?
+- [01:50:44,900 - 01:50:46,300] Scalar particles,
+- [01:50:46,300 - 01:50:47,340] the Higgs boson.
+- [01:50:50,660 - 01:50:51,700] The Higgs boson.
+- [01:50:52,420 - 01:50:54,360] Let's go back to something else.
+- [01:50:54,380 - 01:51:01,540] Let's go back to the action for a particle.
+- [01:51:03,299 - 01:51:04,800] I made this up,
+- [01:51:04,800 - 01:51:05,140] of course.
+- [01:51:05,220 - 01:51:05,820] I made this up,
+- [01:51:05,820 - 01:51:07,980] but I was using some rules.
+- [01:51:08,280 - 01:51:10,670] The rules are that it should
+- [01:51:10,670 - 01:51:13,060] be relativistically invariant and fairly simple.
+- [01:51:13,420 - 01:51:14,880] So we generalize.
+- [01:51:14,900 - 01:51:16,640] This thing times the square
+- [01:51:16,640 - 01:51:18,380] root of 1 minus v squared.
+- [01:51:18,740 - 01:51:24,700] We generalize and put in minus m plus phi.
+- [01:51:27,400 - 01:51:28,740] That's a guess.
+- [01:51:28,900 - 01:51:29,120] I mean,
+- [01:51:29,120 - 01:51:30,420] that's something you can write down.
+- [01:51:31,500 - 01:51:33,000] Can you think of anything else?
+- [01:51:33,140 - 01:51:33,260] Yeah,
+- [01:51:33,260 - 01:51:34,600] you can think of lots of other things.
+- [01:51:35,040 - 01:51:36,960] But this is one thing you could write down.
+- [01:51:37,240 - 01:51:39,520] Now notice that this has an interesting property.
+- [01:51:40,100 - 01:51:42,120] If for some reason or another,
+- [01:51:44,139 - 01:51:46,280] phi was not equal to 0,
+- [01:51:47,139 - 01:51:48,639] for some reason or another
+- [01:51:48,639 - 01:51:50,140] you had a region of space
+- [01:51:50,140 - 01:51:53,720] in which phi was not equal to 0,
+- [01:51:53,900 - 01:51:56,100] but was equal to some fixed value,
+- [01:51:56,460 - 01:51:57,880] for whatever reason,
+- [01:51:59,440 - 01:52:01,740] then effectively this particle will move
+- [01:52:01,740 - 01:52:04,040] with a mass m plus phi.
+- [01:52:05,880 - 01:52:07,520] For all practical purposes,
+- [01:52:07,520 - 01:52:08,820] if phi is a constant,
+- [01:52:08,940 - 01:52:11,100] it just shifts the mass of the particle.
+- [01:52:11,100 - 01:52:12,040] Well,
+- [01:52:12,040 - 01:52:16,380] it's even possible that you might have a massless particle
+- [01:52:17,759 - 01:52:20,200] with no term at all,
+- [01:52:20,360 - 01:52:28,220] and the entire mass is due to some field
+- [01:52:28,919 - 01:52:32,080] not being equal to 0 in some region of space.
+- [01:52:32,680 - 01:52:34,560] If for some reason there's an environment
+- [01:52:34,560 - 01:52:36,440] in which phi is not equal to 0,
+- [01:52:36,640 - 01:52:38,100] it can not only shift the mass,
+- [01:52:38,320 - 01:52:40,720] it can create a mass for a particle
+- [01:52:40,720 - 01:52:42,260] that didn't even have one to begin with.
+- [01:52:43,440 - 01:52:45,140] That's the nature of the Higgs boson.
+- [01:52:45,360 - 01:52:46,760] It creates mass.
+- [01:52:47,120 - 01:52:48,740] In this sense,
+- [01:52:49,560 - 01:52:50,780] in roughly this sense.
+- [01:52:54,299 - 01:52:54,940] And,
+- [01:52:54,940 - 01:52:57,740] because it creates masses for particles,
+- [01:52:57,880 - 01:53:00,260] such as quarks and other particles,
+- [01:53:00,500 - 01:53:02,480] because it creates masses,
+- [01:53:02,760 - 01:53:05,780] the presence of those particles will,
+- [01:53:06,820 - 01:53:07,820] where are we,
+- [01:53:07,820 - 01:53:11,460] will react back on the field
+- [01:53:11,460 - 01:53:13,200] and create field.
+- [01:53:15,500 - 01:53:16,620] Particles create field.
+- [01:53:18,080 - 01:53:19,580] Field affects particles.
+- [01:53:20,140 - 01:53:21,960] Higgs boson is a particular case.
+- [01:53:29,680 - 01:53:31,020] When you said you take
+- [01:53:31,020 - 01:53:32,360] the real part of the solution,
+- [01:53:32,540 - 01:53:35,500] does that mean the imaginary part adds up to 0?
+- [01:53:35,640 - 01:53:37,800] Does it mean you just throw away the real part?
+- [01:53:37,800 - 01:53:39,770] It just means you write it as the
+- [01:53:39,770 - 01:53:41,740] sum of a real part and imaginary part.
+- [01:53:41,920 - 01:53:42,500] Let's write it.
+- [01:53:43,840 - 01:53:44,940] Let's take a solution.
+- [01:53:46,920 - 01:53:48,460] So where was our solution?
+- [01:53:48,600 - 01:53:49,160] I lost it.
+- [01:53:50,200 - 01:53:50,680] Well,
+- [01:53:50,680 - 01:53:52,510] it was of the form
+- [01:53:52,510 - 01:53:54,340] e to the i omega t
+- [01:53:55,220 - 01:53:56,480] minus k dot,
+- [01:53:56,620 - 01:53:57,260] k mu,
+- [01:53:57,460 - 01:53:58,920] k dot x,
+- [01:53:58,920 - 01:53:59,520] let's call it,
+- [01:53:59,580 - 01:54:01,200] minus k dot x.
+- [01:54:02,260 - 01:54:03,900] The i multiplies everything.
+- [01:54:11,980 - 01:54:12,660] So,
+- [01:54:12,660 - 01:54:12,660] okay,
+- [01:54:12,660 - 01:54:13,280] so,
+- [01:54:13,720 - 01:54:15,420] this is equal to cosine
+- [01:54:16,360 - 01:54:19,460] of omega t minus kx
+- [01:54:20,679 - 01:54:24,020] plus i sine omega t
+- [01:54:24,900 - 01:54:26,260] minus kx.
+- [01:54:28,440 - 01:54:30,900] Both the real and imaginary parts,
+- [01:54:31,020 - 01:54:32,320] if something is equal to 0,
+- [01:54:32,540 - 01:54:33,360] you know,
+- [01:54:33,360 - 01:54:34,400] we went through an exercise,
+- [01:54:34,780 - 01:54:36,700] set all of this equal to 0,
+- [01:54:37,860 - 01:54:39,620] if all of this is equal to 0,
+- [01:54:39,780 - 01:54:41,290] it means both its real and
+- [01:54:41,290 - 01:54:42,800] imaginary part are equal to 0.
+- [01:54:42,960 - 01:54:44,860] So both the real and imaginary part
+- [01:54:45,940 - 01:54:47,880] are solutions of the equations.
+- [01:54:48,480 - 01:54:51,280] A construction like this gives you two solutions,
+- [01:54:51,680 - 01:54:53,000] two real solutions,
+- [01:54:53,240 - 01:54:53,520] cosine,
+- [01:54:53,520 - 01:54:54,280] omega t,
+- [01:54:54,280 - 01:54:55,140] and sine.
+- [01:54:55,500 - 01:54:56,340] Cosine and sine.
+- [01:54:56,700 - 01:54:58,060] You can add them together.
+- [01:54:58,140 - 01:55:00,320] You can add them together with real coefficients too,
+- [01:55:00,400 - 01:55:01,260] and they're still solutions.
+- [01:55:02,820 - 01:55:03,300] But,
+- [01:55:03,300 - 01:55:04,019] you know,
+- [01:55:04,940 - 01:55:07,120] exponentials are a neat trick for facilitating
+- [01:55:07,120 - 01:55:08,040] taking derivatives.
+- [01:55:09,360 - 01:55:11,440] That's the reason we used exponentials,
+- [01:55:11,440 - 01:55:15,120] not because the field is imaginary or complex,
+- [01:55:15,500 - 01:55:17,920] but because it just helps us do the algebra
+- [01:55:17,920 - 01:55:18,880] of taking derivatives.
+- [01:55:21,700 - 01:55:24,360] But once we have a solution like this,
+- [01:55:26,719 - 01:55:28,820] the real and imaginary parts
+- [01:55:28,820 - 01:55:30,400] are both separately solutions.
+- [01:55:30,960 - 01:55:32,300] They're both plane waves.
+- [01:55:32,520 - 01:55:33,320] They're waves in,
+- [01:55:33,320 - 01:55:33,900] in what are they?
+- [01:55:33,940 - 01:55:35,260] They're 90 degrees out of phase.
+- [01:55:35,260 - 01:55:37,020] If this is a wave that
+- [01:55:37,020 - 01:55:38,780] moves down the axis like this,
+- [01:55:39,600 - 01:55:41,840] such that at time t equals 0,
+- [01:55:42,920 - 01:55:43,460] the,
+- [01:55:43,460 - 01:55:44,080] uh,
+- [01:55:46,220 - 01:55:46,760] uh,
+- [01:55:46,760 - 01:55:47,880] the wave is,
+- [01:55:48,480 - 01:55:50,040] peak is located here,
+- [01:55:51,120 - 01:55:52,040] that's the cosine,
+- [01:55:52,420 - 01:55:54,900] then the sine is just another wave
+- [01:55:54,900 - 01:55:55,720] that's displaced
+- [01:55:58,220 - 01:55:59,300] like that.
+- [01:55:59,660 - 01:56:00,880] You can add them together,
+- [01:56:01,080 - 01:56:01,920] you can subtract them,
+- [01:56:02,040 - 01:56:03,580] and they're still solutions.
+- [01:56:06,400 - 01:56:06,960] Okay.
+- [01:56:12,040 - 01:56:13,080] Any other questions?
+- [01:56:13,940 - 01:56:14,500] Yes.
+- [01:56:14,540 - 01:56:16,680] Can you explain the superconductor case?
+- [01:56:18,240 - 01:56:18,800] What?
+- [01:56:21,858 - 01:56:21,998] 哈哈
+- [01:56:22,818 - 01:56:24,578] Where did that come from?
+- [01:56:25,238 - 01:56:28,138] From the giving particles mass,
+- [01:56:28,138 - 01:56:29,738] particles acquire mass
+- [01:56:30,498 - 01:56:34,098] when a field appears
+- [01:56:37,457 - 01:56:39,758] Can I explain?
+- [01:56:39,758 - 01:56:40,118] Yeah,
+- [01:56:40,118 - 01:56:41,538] I can explain superconductor,
+- [01:56:41,538 - 01:56:42,758] but not yet
+- [01:56:42,758 - 01:56:43,918] We haven't done any electricity,
+- [01:56:43,918 - 01:56:44,998] any magnetism
+- [01:56:46,877 - 01:56:49,067] The superconducting case is a situation
+- [01:56:49,067 - 01:56:51,258] where the electromagnetic field gets a mass
+- [01:56:52,477 - 01:56:54,767] And it gets a mass
+- [01:56:54,767 - 01:56:57,058] from a similar thing like this
+- [01:56:57,058 - 01:56:59,378] But not at this point,
+- [01:56:59,378 - 01:56:59,638] no,
+- [01:56:59,638 - 01:57:00,818] I don't think you want me to,
+- [01:57:00,818 - 01:57:01,738] no,
+- [01:57:01,738 - 01:57:02,218] no,
+- [01:57:02,218 - 01:57:02,738] no
+- [01:57:03,358 - 01:57:03,638] Yeah,
+- [01:57:03,638 - 01:57:05,318] it's certainly a connected phenomenon
+- [01:57:06,337 - 01:57:07,818] But we haven't gotten into,
+- [01:57:07,818 - 01:57:09,278] it's,
+- [01:57:09,278 - 01:57:12,058] the answer is that
+- [01:57:12,058 - 01:57:14,218] It is an effect
+- [01:57:14,218 - 01:57:16,178] It is an effect where a scalar field,
+- [01:57:16,178 - 01:57:18,978] where the presence of a scalar,
+- [01:57:18,978 - 01:57:19,318] sorry
+- [01:57:19,318 - 01:57:21,998] Where the presence of a scalar field
+- [01:57:21,998 - 01:57:24,678] affects the photon and gives it a mass
+- [01:57:24,678 - 01:57:27,337] But not yet,
+- [01:57:27,337 - 01:57:27,777] yeah
+- [01:57:31,198 - 01:57:34,718] So what you said about the Higgs boson,
+- [01:57:34,718 - 01:57:36,998] these have been mathematical conclusions
+- [01:57:36,998 - 01:57:39,918] Is there any way that it's possible
+- [01:57:39,918 - 01:57:42,838] to visualize how a Higgs boson creates mass?
+- [01:57:43,178 - 01:57:43,578] Yes
+- [01:57:44,218 - 01:57:44,378] Here it is,
+- [01:57:44,378 - 01:57:44,898] here it is,
+- [01:57:44,898 - 01:57:45,458] here it is
+- [01:57:45,458 - 01:57:46,178] I mean,
+- [01:57:46,178 - 01:57:47,498] a physical way,
+- [01:57:47,498 - 01:57:50,038] do we think of a particle flying through space somewhere
+- [01:57:50,038 - 01:57:52,998] And spitting out masses as it goes along,
+- [01:57:52,998 - 01:57:53,278] or what?
+- [01:57:53,438 - 01:57:53,678] No,
+- [01:57:53,678 - 01:57:53,818] no,
+- [01:57:53,818 - 01:57:57,218] it's just,
+- [01:57:57,218 - 01:57:58,918] this is what phi does to it,
+- [01:57:58,918 - 01:57:59,818] it shifts its mass
+- [01:58:00,818 - 01:58:01,338] That's it,
+- [01:58:01,338 - 01:58:02,378] there's no other,
+- [01:58:02,378 - 01:58:03,138] there is nothing else,
+- [01:58:03,138 - 01:58:03,538] that's it
+- [01:58:04,038 - 01:58:05,058] So different masses,
+- [01:58:05,058 - 01:58:06,598] different couplet bosons?
+- [01:58:08,517 - 01:58:08,918] Yeah,
+- [01:58:08,918 - 01:58:09,458] that's right,
+- [01:58:09,458 - 01:58:10,798] I didn't put the G here,
+- [01:58:10,798 - 01:58:11,218] did I?
+- [01:58:12,478 - 01:58:13,198] So
+- [01:58:19,658 - 01:58:20,378] Right,
+- [01:58:20,378 - 01:58:22,988] so different coupling constants
+- [01:58:22,988 - 01:58:25,598] could lead to different masses,
+- [01:58:25,598 - 01:58:26,278] right
+- [01:58:26,278 - 01:58:27,838] And in fact they do
+- [01:58:27,838 - 01:58:29,758] The strength,
+- [01:58:29,758 - 01:58:30,338] the strength,
+- [01:58:30,338 - 01:58:32,708] the strength with which a
+- [01:58:32,708 - 01:58:35,078] particle couples to the Higgs field
+- [01:58:35,078 - 01:58:37,778] Will determine its mass
+- [01:58:38,618 - 01:58:40,738] When you compute its momentum
+- [01:58:41,218 - 01:58:41,818] Okay
+- [01:58:41,818 - 01:58:42,398] Yeah
+- [01:58:42,978 - 01:58:44,898] Phi is the mass term
+- [01:58:44,898 - 01:58:45,298] Yeah,
+- [01:58:45,298 - 01:58:45,918] that's right
+- [01:58:45,918 - 01:58:49,518] But in every respect it functions as a mass term
+- [01:58:51,038 - 01:58:53,298] And if the Higgs field were zero,
+- [01:58:53,298 - 01:58:55,138] all particles would be massless?
+- [01:58:55,438 - 01:58:56,518] Not all particles,
+- [01:58:56,518 - 01:58:56,918] no,
+- [01:58:56,918 - 01:58:57,778] no,
+- [01:58:57,778 - 01:58:59,138] no
+- [01:59:00,178 - 01:59:01,258] Quarks would be,
+- [01:59:01,258 - 01:59:04,518] Z bosons,
+- [01:59:04,518 - 01:59:06,858] W bosons would be massless
+- [01:59:08,078 - 01:59:10,618] The Higgs boson wouldn't be
+- [01:59:10,618 - 01:59:14,658] And protons and neutrons wouldn't be massless
+- [01:59:14,658 - 01:59:16,688] Protons and neutrons do not get
+- [01:59:16,688 - 01:59:18,718] their mass from the Higgs phenomenon
+- [01:59:19,738 - 01:59:20,458] And
+- [01:59:24,318 - 01:59:25,038] Electrons,
+- [01:59:25,038 - 01:59:26,338] neutrinos would be massless
+- [01:59:26,338 - 01:59:28,578] Electrons and neutrinos would be massless
+- [01:59:30,538 - 01:59:31,798] Protons and neutrons,
+- [01:59:31,798 - 01:59:32,278] not
+- [01:59:32,278 - 01:59:33,178] Quarks,
+- [01:59:33,178 - 01:59:34,918] in some sense,
+- [01:59:34,918 - 01:59:35,138] yes
+- [01:59:35,138 - 01:59:37,478] But protons and neutrons not
+- [01:59:38,877 - 01:59:41,658] If the Higgs field went away one day
+- [01:59:43,158 - 01:59:44,878] Electrons would become massless
+- [01:59:44,878 - 01:59:46,878] That would be a disaster for atoms
+- [01:59:46,878 - 01:59:50,338] Because the size of an atom is governed
+- [01:59:50,338 - 01:59:53,798] by the inverse of the mass of the electron
+- [01:59:54,677 - 01:59:55,967] And if the mass of the
+- [01:59:55,967 - 01:59:57,258] electron were to go to zero
+- [01:59:57,258 - 01:59:59,238] The atom would become infinitely big
+- [01:59:59,238 - 02:00:00,878] And that would not be good for you
+- [02:00:04,418 - 02:00:04,768] But if the mass of the
+- [02:00:04,768 - 02:00:05,118] electron were to go to zero
+- [02:00:05,118 - 02:00:09,198] With protons and neutrons would be virtually unaffected
+- [02:00:09,198 - 02:00:09,438] Very,
+- [02:00:09,438 - 02:00:10,618] very weakly affected,
+- [02:00:10,618 - 02:00:11,658] not very much
+- [02:00:12,218 - 02:00:12,758] Um,
+- [02:00:12,758 - 02:00:15,878] right
+- [02:00:18,738 - 02:00:19,278] Yeah
+- [02:00:20,518 - 02:00:21,058] Well,
+- [02:00:21,058 - 02:00:21,378] I mean,
+- [02:00:21,378 - 02:00:24,338] it is true that a world without a Higgs boson
+- [02:00:24,338 - 02:00:27,158] Would be a bad world for your survival
+- [02:00:27,158 - 02:00:27,978] Many,
+- [02:00:27,978 - 02:00:31,238] many things would go wrong
+- [02:00:31,948 - 02:00:32,218] And,
+- [02:00:32,218 - 02:00:32,618] um,
+- [02:00:32,618 - 02:00:34,298] as I said,
+- [02:00:34,298 - 02:00:35,098] not the least of all
+- [02:00:35,118 - 02:00:37,298] Would be the electron would become massless
+- [02:00:37,298 - 02:00:38,418] And when it did so,
+- [02:00:38,418 - 02:00:38,718] uh,
+- [02:00:38,718 - 02:00:40,558] atoms would just,
+- [02:00:40,558 - 02:00:40,758] uh
+- [02:00:41,998 - 02:00:42,918] Have no,
+- [02:00:42,918 - 02:00:43,358] uh,
+- [02:00:43,358 - 02:00:44,618] no cohe- no,
+- [02:00:44,618 - 02:00:45,158] um
+- [02:00:45,158 - 02:00:49,238] The electron would become completely unlocalized
+- [02:00:52,478 - 02:00:53,038] Okay
+- [02:00:55,218 - 02:00:56,338] For more,
+- [02:00:56,338 - 02:00:58,758] please visit us at stanford.edu
