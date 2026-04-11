@@ -1,0 +1,1384 @@
+# Transcript
+
+Source: core/special_relativity/2012_spring_theoretical_minimum/135 - Special Relativity ｜ Lecture 2 [qfTJP7Soto4].mkv
+
+- [00:00:05,199 - 00:00:06,240] Stanford University.
+- [00:00:09,780 - 00:00:10,460] All right,
+- [00:00:10,460 - 00:00:10,720] we were,
+- [00:00:10,720 - 00:00:13,900] last time we worked out basic Lorentz transformations
+- [00:00:13,900 - 00:00:16,840] relating two frames of reference.
+- [00:00:16,840 - 00:00:20,980] Whether or not I said it,
+- [00:00:20,980 - 00:00:21,660] let me say it now,
+- [00:00:21,920 - 00:00:23,890] we were mainly dealing with problems
+- [00:00:23,890 - 00:00:25,860] in which all of the motion,
+- [00:00:25,860 - 00:00:26,560] and in particular
+- [00:00:26,560 - 00:00:28,820] the relative motion of different observers,
+- [00:00:28,820 - 00:00:31,260] is along one particular axis.
+- [00:00:31,820 - 00:00:35,280] We didn't try to think fully three-dimensionally,
+- [00:00:35,280 - 00:00:36,620] and the picture you could have in your head
+- [00:00:36,620 - 00:00:39,420] is that we have a long railroad track,
+- [00:00:39,420 - 00:00:41,440] one-dimensional.
+- [00:00:42,760 - 00:00:45,740] Some set of observers is sitting still at the station.
+- [00:00:46,920 - 00:00:50,360] We could call those the stationary observers.
+- [00:00:52,240 - 00:00:55,320] And other observers are in the train.
+- [00:00:55,620 - 00:00:56,540] And they're moving around.
+- [00:00:56,560 - 00:00:57,950] They're moving relative to each
+- [00:00:57,950 - 00:00:59,340] other along the one-dimensional axis.
+- [00:00:59,760 - 00:01:01,940] We didn't worry very much about the other axes.
+- [00:01:02,540 - 00:01:05,560] I said one or two things about it.
+- [00:01:05,940 - 00:01:09,830] And we talked about how you relate the
+- [00:01:09,830 - 00:01:13,720] coordinates of one observer relative to the other.
+- [00:01:14,160 - 00:01:14,880] And in particular,
+- [00:01:14,880 - 00:01:17,460] we wrote down Lorentz transformations based
+- [00:01:17,460 - 00:01:20,040] on the basic hypothesis of Einstein
+- [00:01:20,840 - 00:01:23,080] that all reference frames see the
+- [00:01:23,080 - 00:01:25,320] speed of light exactly the same.
+- [00:01:25,320 - 00:01:26,660] In fact,
+- [00:01:26,660 - 00:01:29,420] we said with the units that we used,
+- [00:01:29,420 - 00:01:33,420] all observers see the speed of light being one.
+- [00:01:33,960 - 00:01:36,720] That's of course a choice of units.
+- [00:01:38,960 - 00:01:42,140] We work in years and light years,
+- [00:01:42,140 - 00:01:44,560] or seconds and light seconds,
+- [00:01:44,560 - 00:01:46,660] whatever choice of units.
+- [00:01:46,880 - 00:01:47,880] If we choose them correctly,
+- [00:01:47,880 - 00:01:49,380] we can make the speed of light one.
+- [00:01:50,020 - 00:01:51,520] And that simplifies equations.
+- [00:01:52,120 - 00:01:52,940] Of course,
+- [00:01:52,940 - 00:01:54,120] if we really want to plug
+- [00:01:54,120 - 00:01:55,300] in to the speed of light,
+- [00:01:55,300 - 00:01:58,600] to the real observational physics,
+- [00:01:59,000 - 00:02:01,600] we might want to use the fact
+- [00:02:01,600 - 00:02:04,200] that the speed of light in common units,
+- [00:02:04,460 - 00:02:06,390] in the common units that
+- [00:02:06,390 - 00:02:08,320] an experimental physicist would ordinarily use,
+- [00:02:08,320 - 00:02:09,259] is not one.
+- [00:02:09,520 - 00:02:11,960] It's 3 times 10 to the 8th in some units.
+- [00:02:12,240 - 00:02:14,600] And so we would put back the speed of light.
+- [00:02:14,880 - 00:02:16,760] And there's always a unique way to do that.
+- [00:02:17,120 - 00:02:21,120] The unique way to do it is to make sure,
+- [00:02:21,120 - 00:02:22,220] simply stated,
+- [00:02:22,360 - 00:02:24,240] that you modify the equations
+- [00:02:24,240 - 00:02:26,540] by appropriate factors of the speed of light,
+- [00:02:26,540 - 00:02:26,840] c,
+- [00:02:27,360 - 00:02:29,800] so that the equations are dimensionally consistent.
+- [00:02:31,120 - 00:02:32,780] I will go back and forth.
+- [00:02:33,840 - 00:02:35,100] Mostly I will use the speed
+- [00:02:35,100 - 00:02:36,360] of light set equal to 1,
+- [00:02:36,500 - 00:02:37,380] but every now and then,
+- [00:02:37,380 - 00:02:38,640] just to illustrate a point,
+- [00:02:38,880 - 00:02:40,680] I will stick the speeds of light in,
+- [00:02:41,320 - 00:02:42,670] and you can go through
+- [00:02:42,670 - 00:02:44,020] the equations and do that yourselves.
+- [00:02:45,120 - 00:02:45,560] Okay,
+- [00:02:45,560 - 00:02:45,840] so,
+- [00:02:45,840 - 00:02:47,120] two observers.
+- [00:02:47,660 - 00:02:50,630] One moving down the axis with
+- [00:02:50,630 - 00:02:53,600] a velocity v relative to the stationary,
+- [00:02:54,240 - 00:02:56,340] moving down the tracks with a
+- [00:02:56,340 - 00:02:58,440] velocity v relative to the stationary observer.
+- [00:02:59,560 - 00:03:03,630] The stationary observer sees the moving observer
+- [00:03:03,630 - 00:03:07,700] moving v units of space per unit time,
+- [00:03:07,980 - 00:03:08,900] v being velocity.
+- [00:03:10,540 - 00:03:11,920] And of course,
+- [00:03:11,920 - 00:03:13,060] by symmetry,
+- [00:03:13,060 - 00:03:15,060] just by the symmetry of the problem,
+- [00:03:15,180 - 00:03:18,500] if we believe that all coordinate frames are equally valid,
+- [00:03:20,959 - 00:03:23,260] the same relationships,
+- [00:03:24,240 - 00:03:26,320] the same kind of Lorentz transformations,
+- [00:03:26,800 - 00:03:29,760] will relate the stationary observer's coordinates
+- [00:03:31,030 - 00:03:33,760] to the moving coordinates.
+- [00:03:34,280 - 00:03:35,640] The two-way street,
+- [00:03:36,399 - 00:03:40,240] the stationary observer ascribes stationary coordinates,
+- [00:03:40,340 - 00:03:42,860] the moving observer ascribes moving coordinates,
+- [00:03:42,940 - 00:03:43,960] his coordinates,
+- [00:03:44,200 - 00:03:47,720] and they can each be related to each other reciprocally.
+- [00:03:47,820 - 00:03:50,660] And the reciprocal relation is truly reciprocal,
+- [00:03:50,900 - 00:03:53,160] exactly the same relations,
+- [00:03:54,560 - 00:03:57,560] except that whereas if I were moving to the right,
+- [00:03:57,720 - 00:03:58,620] your right,
+- [00:03:58,800 - 00:04:01,060] if I were moving to your right,
+- [00:04:01,220 - 00:04:04,160] you would say my velocity is positive,
+- [00:04:04,760 - 00:04:06,540] you would be moving to the left,
+- [00:04:06,620 - 00:04:07,800] as far as I was concerned,
+- [00:04:07,920 - 00:04:09,580] I would say your velocity was negative,
+- [00:04:09,880 - 00:04:12,500] and so in relating the two frames of reference,
+- [00:04:12,880 - 00:04:14,620] the only thing we have to remember
+- [00:04:15,180 - 00:04:16,910] is there's a sign change of
+- [00:04:16,910 - 00:04:18,640] velocity when you go back and forth.
+- [00:04:19,859 - 00:04:20,339] Okay,
+- [00:04:20,339 - 00:04:20,820] so,
+- [00:04:20,820 - 00:04:21,680] for example,
+- [00:04:21,680 - 00:04:26,090] if x prime is the
+- [00:04:26,090 - 00:04:30,500] coordinates as seen in the train,
+- [00:04:30,700 - 00:04:31,860] here's the train over here,
+- [00:04:31,940 - 00:04:32,780] let's draw a train,
+- [00:04:47,080 - 00:04:47,940] that's the train,
+- [00:04:48,720 - 00:04:49,240] okay,
+- [00:04:49,240 - 00:04:50,580] there's an observer in the train,
+- [00:04:50,580 - 00:04:52,560] and there's an observer in the tracks,
+- [00:04:52,700 - 00:04:54,680] or an observer in the station,
+- [00:04:54,920 - 00:04:56,520] here's the observer in the station,
+- [00:04:58,680 - 00:05:01,200] here's the observer in the train,
+- [00:05:02,820 - 00:05:04,900] and the observer in the
+- [00:05:04,900 - 00:05:06,980] train is moving with velocity v,
+- [00:05:06,980 - 00:05:08,240] v.
+- [00:05:11,000 - 00:05:13,240] The observer in the train has meter sticks,
+- [00:05:13,820 - 00:05:15,090] and the meter sticks can be
+- [00:05:15,090 - 00:05:16,360] laid out on the floor here,
+- [00:05:16,480 - 00:05:17,780] to form a grid,
+- [00:05:18,480 - 00:05:20,440] the observer also has a timepiece,
+- [00:05:23,180 - 00:05:23,900] a clock,
+- [00:05:25,520 - 00:05:26,000] likewise,
+- [00:05:26,000 - 00:05:27,540] the observer at rest,
+- [00:05:28,400 - 00:05:28,880] well,
+- [00:05:28,880 - 00:05:29,880] at rest with respect to whom?
+- [00:05:30,000 - 00:05:30,140] Well,
+- [00:05:30,140 - 00:05:31,280] at rest with respect to the station,
+- [00:05:31,500 - 00:05:33,760] the observer at rest with respect to the station
+- [00:05:33,760 - 00:05:35,800] also has his meter sticks laid out,
+- [00:05:36,979 - 00:05:38,760] and also has his timepiece.
+- [00:05:41,160 - 00:05:43,240] And they make various comparisons,
+- [00:05:43,500 - 00:05:45,140] you know how all of this works,
+- [00:05:45,640 - 00:05:47,640] an event which takes place,
+- [00:05:47,840 - 00:05:49,380] an event which takes place,
+- [00:05:49,380 - 00:05:51,980] an event means an event
+- [00:05:51,980 - 00:05:54,580] happening at a point of space,
+- [00:05:54,620 - 00:05:55,920] and a point of time,
+- [00:05:55,980 - 00:05:56,500] in other words,
+- [00:05:56,500 - 00:05:57,660] at some point of space-time,
+- [00:05:58,240 - 00:06:00,000] I like to think of it
+- [00:06:00,000 - 00:06:01,760] as a flash bulb exploding someplace,
+- [00:06:02,080 - 00:06:02,860] going off someplace,
+- [00:06:03,520 - 00:06:05,580] it doesn't matter whether it's in the train,
+- [00:06:05,760 - 00:06:07,140] or outside the train,
+- [00:06:07,400 - 00:06:09,300] let's say in the train for convenience,
+- [00:06:09,440 - 00:06:10,960] a flash bulb goes off over here,
+- [00:06:13,340 - 00:06:19,280] at a time that the stationary observer records,
+- [00:06:19,280 - 00:06:21,260] and it seconds to be t,
+- [00:06:21,260 - 00:06:22,100] time t,
+- [00:06:22,300 - 00:06:24,420] at position x,
+- [00:06:24,720 - 00:06:26,220] now position x means
+- [00:06:28,020 - 00:06:32,800] coordinate x in the stationary reference frame,
+- [00:06:34,380 - 00:06:35,820] x right over here,
+- [00:06:36,580 - 00:06:38,280] at a time t,
+- [00:06:39,100 - 00:06:41,900] according to the timepiece of the stationary observer,
+- [00:06:42,220 - 00:06:45,060] so the stationary observer ascribes to it
+- [00:06:45,780 - 00:06:47,460] coordinates x and t,
+- [00:06:47,460 - 00:06:51,180] and the moving observer ascribes to the same event,
+- [00:06:52,640 - 00:06:54,660] coordinates x prime and t prime.
+- [00:06:56,780 - 00:06:58,480] And we worked out the last time,
+- [00:06:58,540 - 00:07:00,600] the relationships that are necessary between
+- [00:07:00,600 - 00:07:00,980] x,
+- [00:07:00,980 - 00:07:01,120] t,
+- [00:07:01,120 - 00:07:02,280] and x prime and t prime,
+- [00:07:02,440 - 00:07:05,500] such that everybody will always agree
+- [00:07:05,500 - 00:07:06,900] that the speed of light is one,
+- [00:07:07,060 - 00:07:08,740] let me write them down quickly,
+- [00:07:09,280 - 00:07:10,160] x prime,
+- [00:07:10,160 - 00:07:11,700] these are the Lorentz transformations,
+- [00:07:11,940 - 00:07:14,280] x prime is equal to x minus vt,
+- [00:07:14,400 - 00:07:16,660] now Newton would recognize that,
+- [00:07:16,660 - 00:07:18,680] but what he wouldn't have recognized
+- [00:07:19,680 - 00:07:22,840] was the square root of one minus v squared downstairs,
+- [00:07:23,580 - 00:07:24,820] and if you want to
+- [00:07:24,820 - 00:07:26,060] put back the speed of light,
+- [00:07:26,260 - 00:07:27,720] it goes right over here,
+- [00:07:27,780 - 00:07:28,670] I'm going to put it
+- [00:07:28,670 - 00:07:29,560] in and then take it out,
+- [00:07:30,680 - 00:07:32,680] v squared over c squared,
+- [00:07:33,500 - 00:07:35,940] and of course if the velocity is small
+- [00:07:35,940 - 00:07:37,720] by comparison with the speed of light,
+- [00:07:37,940 - 00:07:39,860] this is a terribly tiny correction.
+- [00:07:40,780 - 00:07:42,580] Let's just call it one minus v squared,
+- [00:07:43,620 - 00:07:44,920] and t prime,
+- [00:07:46,660 - 00:07:49,820] is equal to t minus vx,
+- [00:07:50,539 - 00:07:52,049] divided by that same square
+- [00:07:52,049 - 00:07:53,560] root of one minus v squared.
+- [00:07:54,320 - 00:07:58,820] If we wanted to add the other two directions,
+- [00:07:59,380 - 00:08:02,860] in particular the directions out of the board and vertical,
+- [00:08:03,040 - 00:08:05,480] in other words the directions perpendicular to the tracks,
+- [00:08:05,760 - 00:08:07,600] we could add them in very simply,
+- [00:08:07,780 - 00:08:11,360] perpendicular directions don't change
+- [00:08:12,120 - 00:08:15,940] under a change of velocity along a given axis,
+- [00:08:16,660 - 00:08:19,360] if the change of the velocities of the two frames,
+- [00:08:19,420 - 00:08:22,680] relative velocities are along the x axis,
+- [00:08:23,020 - 00:08:25,760] then the y and z coordinates are unchanged.
+- [00:08:26,420 - 00:08:27,440] y prime,
+- [00:08:27,440 - 00:08:28,300] sorry,
+- [00:08:28,500 - 00:08:31,660] y prime equals y and z prime equals z.
+- [00:08:33,200 - 00:08:33,799] Let's,
+- [00:08:33,799 - 00:08:34,840] I won't write it,
+- [00:08:35,659 - 00:08:36,820] if we need it,
+- [00:08:36,820 - 00:08:37,760] we'll use it.
+- [00:08:39,360 - 00:08:41,299] We can invert these relations,
+- [00:08:41,780 - 00:08:43,820] this is simply a matter,
+- [00:08:43,940 - 00:08:46,280] there's nothing sophisticated going on here,
+- [00:08:46,660 - 00:08:48,310] this is simply a matter
+- [00:08:48,310 - 00:08:49,960] of solving for x and t,
+- [00:08:50,180 - 00:08:52,120] in terms of x prime and t prime,
+- [00:08:52,420 - 00:08:54,860] let me remind you what the result would be,
+- [00:08:55,080 - 00:09:02,280] it would be x equals x prime plus vt prime,
+- [00:09:05,390 - 00:09:07,520] divided by that same square root,
+- [00:09:08,660 - 00:09:14,700] and t equals t prime plus vx prime,
+- [00:09:14,700 - 00:09:17,460] divided by square root of one minus v squared.
+- [00:09:18,780 - 00:09:20,100] The only difference,
+- [00:09:20,100 - 00:09:21,400] the only asymmetry,
+- [00:09:21,540 - 00:09:23,740] is where you saw a velocity over here,
+- [00:09:23,880 - 00:09:25,760] you change the sign of the velocity,
+- [00:09:25,800 - 00:09:27,959] just to account for the fact that the relative velocities
+- [00:09:28,300 - 00:09:29,500] are in opposite directions.
+- [00:09:30,660 - 00:09:32,720] You can also read off,
+- [00:09:32,800 - 00:09:35,800] if somebody gave you this form
+- [00:09:35,800 - 00:09:38,080] for the relationship between the coordinates,
+- [00:09:38,480 - 00:09:40,680] you could easily read off
+- [00:09:40,680 - 00:09:42,380] what the relative velocity
+- [00:09:42,380 - 00:09:44,400] between the two observers is.
+- [00:09:44,700 - 00:09:46,900] You look at the x equation here,
+- [00:09:47,560 - 00:09:48,260] and you say,
+- [00:09:48,400 - 00:09:51,600] the moving observer's coordinate
+- [00:09:52,699 - 00:09:54,940] is x prime equals zero,
+- [00:09:55,080 - 00:09:58,060] right at the position of the origin of
+- [00:10:00,000 - 00:10:01,660] coordinates inside the train,
+- [00:10:01,840 - 00:10:03,560] x prime is equal to zero,
+- [00:10:03,780 - 00:10:08,260] x prime equals zero corresponds to x equals vt.
+- [00:10:08,700 - 00:10:10,380] You just look at this and you say,
+- [00:10:10,500 - 00:10:11,640] the moving observer,
+- [00:10:11,640 - 00:10:13,100] the prime observer,
+- [00:10:13,240 - 00:10:14,100] let's not call them moving,
+- [00:10:14,700 - 00:10:20,080] the prime observer is at rest,
+- [00:10:20,140 - 00:10:21,480] or the position,
+- [00:10:22,800 - 00:10:24,140] x prime is at rest,
+- [00:10:24,180 - 00:10:25,260] or is equal to zero,
+- [00:10:25,440 - 00:10:25,960] excuse me,
+- [00:10:25,960 - 00:10:27,160] x prime is equal to zero,
+- [00:10:27,240 - 00:10:28,920] the origin of the prime coordinates
+- [00:10:29,580 - 00:10:31,860] corresponds to x equals vt.
+- [00:10:32,360 - 00:10:34,800] You don't have to know about this denominator there,
+- [00:10:34,900 - 00:10:36,540] you just look at x equals vt,
+- [00:10:36,660 - 00:10:38,640] that specifies x prime equals zero,
+- [00:10:38,860 - 00:10:40,620] and that tells you,
+- [00:10:40,660 - 00:10:43,660] x equals vt tells you that the relative velocity
+- [00:10:43,660 - 00:10:44,680] between the two observers is zero,
+- [00:10:44,700 - 00:10:45,860] and the velocity between the two of them is v.
+- [00:10:47,380 - 00:10:47,740] Alright,
+- [00:10:47,740 - 00:10:49,980] now we want to do another exercise.
+- [00:10:50,360 - 00:10:52,660] The other exercise is to assume
+- [00:10:52,660 - 00:10:55,680] there's a third observer.
+- [00:10:56,500 - 00:11:00,660] The third observer is moving relative
+- [00:11:00,660 - 00:11:02,040] to the railroad car,
+- [00:11:02,040 - 00:11:03,240] relative to the train,
+- [00:11:04,140 - 00:11:07,040] he's got a little kiddie car inside the train,
+- [00:11:10,460 - 00:11:14,180] and he's moving relative to the
+- [00:11:14,180 - 00:11:14,960] passenger,
+- [00:11:14,960 - 00:11:16,640] let's call him the passenger,
+- [00:11:16,880 - 00:11:19,080] he's moving relative to the passenger
+- [00:11:19,080 - 00:11:21,040] with velocity u.
+- [00:11:22,380 - 00:11:24,780] The passenger sees the little kiddie car,
+- [00:11:25,020 - 00:11:26,200] the little kid in the kiddie car,
+- [00:11:26,340 - 00:11:31,020] pedaling down the aisle of the train
+- [00:11:31,020 - 00:11:34,120] with velocity u relative to himself.
+- [00:11:36,080 - 00:11:36,720] Question,
+- [00:11:36,720 - 00:11:39,920] what does the stationary observer
+- [00:11:42,140 - 00:11:43,840] ascribe to the car?
+- [00:11:44,180 - 00:11:48,260] What velocity does the stationary observer see?
+- [00:11:48,660 - 00:11:51,200] And the way to solve this is just to use,
+- [00:11:51,280 - 00:11:53,820] I know of no way to guess the answer.
+- [00:11:54,740 - 00:11:56,820] The answer is some velocity.
+- [00:11:57,080 - 00:11:58,340] We can give it a name.
+- [00:11:58,820 - 00:12:01,020] We can call that velocity w.
+- [00:12:01,280 - 00:12:01,640] I don't,
+- [00:12:01,640 - 00:12:03,260] you could use v1,
+- [00:12:03,260 - 00:12:03,840] v2,
+- [00:12:03,840 - 00:12:04,440] and v3,
+- [00:12:04,480 - 00:12:05,720] but I hate subscripts,
+- [00:12:05,780 - 00:12:07,420] and so I prefer to say
+- [00:12:08,060 - 00:12:10,020] the velocity of the train is v
+- [00:12:10,020 - 00:12:11,820] relative to the stationary observer,
+- [00:12:12,060 - 00:12:14,160] the velocity of the car relative to the train,
+- [00:12:14,160 - 00:12:15,180] is u,
+- [00:12:16,000 - 00:12:17,960] and the velocity of the
+- [00:12:17,960 - 00:12:19,920] car relative to the stationary observer
+- [00:12:19,920 - 00:12:20,880] I will call w.
+- [00:12:21,720 - 00:12:22,320] Alright,
+- [00:12:22,320 - 00:12:24,420] so the stationary observer sees the car move
+- [00:12:24,420 - 00:12:25,600] with velocity w.
+- [00:12:26,000 - 00:12:27,120] And the question is,
+- [00:12:27,120 - 00:12:27,660] what is w
+- [00:12:27,660 - 00:12:29,760] in terms of u and v?
+- [00:12:30,960 - 00:12:34,420] The answer is just to use a bit of logic.
+- [00:12:34,620 - 00:12:35,860] The bit of logic is
+- [00:12:37,360 - 00:12:38,660] that the relationship,
+- [00:12:39,080 - 00:12:41,300] first of all we should give the,
+- [00:12:42,240 - 00:12:43,720] there are also coordinates,
+- [00:12:43,720 - 00:12:44,300] excuse me,
+- [00:12:44,320 - 00:12:46,660] there are also coordinates in the car,
+- [00:12:47,900 - 00:12:49,480] moving with the car.
+- [00:12:50,140 - 00:12:51,960] This could be a set of meter sticks
+- [00:12:51,960 - 00:12:54,280] laid out on the floor of the car,
+- [00:12:56,380 - 00:12:58,100] and also a time piece
+- [00:12:59,240 - 00:13:01,220] that the driver of the car has.
+- [00:13:02,580 - 00:13:04,340] So there's three sets of coordinates.
+- [00:13:05,040 - 00:13:06,200] In this case,
+- [00:13:06,200 - 00:13:07,700] x and t are the coordinates
+- [00:13:07,700 - 00:13:09,600] that the stationary observer uses.
+- [00:13:09,860 - 00:13:13,280] x prime and t prime are the passenger's coordinates.
+- [00:13:13,720 - 00:13:16,760] And a third set of coordinates,
+- [00:13:16,960 - 00:13:18,160] which let's give them the name
+- [00:13:18,160 - 00:13:20,560] x double prime and t double prime.
+- [00:13:21,060 - 00:13:23,640] x double prime and t double prime
+- [00:13:24,900 - 00:13:26,180] are the coordinates
+- [00:13:26,720 - 00:13:29,440] that the kid in the kiddie car uses
+- [00:13:29,440 - 00:13:32,640] to describe things relative to the position,
+- [00:13:32,780 - 00:13:34,960] relative to his own frame of reference.
+- [00:13:35,780 - 00:13:36,380] Alright,
+- [00:13:36,380 - 00:13:37,860] so now it just takes a little bit of logic
+- [00:13:37,860 - 00:13:41,120] to say we know what the relationship is
+- [00:13:42,199 - 00:13:43,700] between the double prime and t double prime.
+- [00:13:43,700 - 00:13:44,360] So we can write down the relationship
+- [00:13:44,360 - 00:13:46,000] and the single prime coordinates.
+- [00:13:46,680 - 00:13:49,200] Those are related by velocity u.
+- [00:13:49,720 - 00:13:52,680] u is the velocity of the double prime
+- [00:13:52,680 - 00:13:54,300] relative to the prime coordinates.
+- [00:13:54,680 - 00:13:56,820] So we can write down those relationships
+- [00:13:58,600 - 00:13:59,240] straightforwardly.
+- [00:14:00,420 - 00:14:01,060] Let's,
+- [00:14:01,060 - 00:14:02,200] we don't need this over here.
+- [00:14:03,560 - 00:14:05,040] Let's write them down here.
+- [00:14:05,700 - 00:14:09,480] x double prime is equal,
+- [00:14:09,600 - 00:14:11,480] same exact kind of relationship.
+- [00:14:13,700 - 00:14:14,120] Same exact kind of thing,
+- [00:14:14,200 - 00:14:16,320] except we'll put in primes here.
+- [00:14:16,660 - 00:14:18,320] And instead of v,
+- [00:14:20,240 - 00:14:22,960] we will use the relative velocity u.
+- [00:14:24,510 - 00:14:24,860] Alright,
+- [00:14:24,860 - 00:14:25,740] so this is going to be
+- [00:14:25,740 - 00:14:29,180] x prime minus u,
+- [00:14:30,530 - 00:14:34,000] t prime divided by square root
+- [00:14:34,000 - 00:14:36,020] of one minus u squared.
+- [00:14:37,530 - 00:14:37,880] Alright,
+- [00:14:37,880 - 00:14:39,300] so this is the Lorentz transformation
+- [00:14:39,300 - 00:14:42,200] between the double prime frame,
+- [00:14:43,700 - 00:14:44,460] and the single prime frame.
+- [00:14:44,820 - 00:14:48,160] t prime minus u,
+- [00:14:49,360 - 00:14:55,180] x prime over root of one minus u squared.
+- [00:14:57,460 - 00:14:57,820] Alright,
+- [00:14:57,820 - 00:14:59,840] so now how do we find the connection
+- [00:15:00,520 - 00:15:02,940] between the double primed coordinates
+- [00:15:03,700 - 00:15:04,400] in the car,
+- [00:15:04,660 - 00:15:07,520] and the unprimed coordinates at rest
+- [00:15:07,520 - 00:15:08,660] in the railroad station?
+- [00:15:09,020 - 00:15:10,080] And that's simple.
+- [00:15:10,800 - 00:15:14,760] All we do is,
+- [00:15:16,199 - 00:15:17,900] let's take this equation over here.
+- [00:15:18,000 - 00:15:19,000] Let's focus on this one.
+- [00:15:19,180 - 00:15:22,320] The time equation also works out very nicely.
+- [00:15:22,560 - 00:15:24,700] But let's focus on the space equation here.
+- [00:15:24,920 - 00:15:26,460] We know what x prime is
+- [00:15:26,460 - 00:15:28,000] in terms of x and t,
+- [00:15:28,180 - 00:15:29,490] and we know what t prime
+- [00:15:29,490 - 00:15:30,800] is in terms of x and t.
+- [00:15:31,040 - 00:15:32,800] So all we have to do is to plug in.
+- [00:15:33,100 - 00:15:34,060] And let's do so.
+- [00:15:34,440 - 00:15:34,880] Oh,
+- [00:15:34,880 - 00:15:35,480] good.
+- [00:15:35,840 - 00:15:36,280] Nice,
+- [00:15:36,280 - 00:15:37,520] good pin.
+- [00:15:37,520 - 00:15:37,860] Alright,
+- [00:15:37,860 - 00:15:39,640] so x prime is
+- [00:15:40,880 - 00:15:42,580] x minus vt
+- [00:15:43,520 - 00:15:47,800] divided by square root of one minus v squared.
+- [00:15:48,060 - 00:15:49,740] Now that's just this x prime here.
+- [00:15:49,860 - 00:15:51,180] So far that's just x prime.
+- [00:15:52,200 - 00:15:52,960] Minus u
+- [00:15:57,079 - 00:15:58,060] t prime,
+- [00:15:58,320 - 00:15:59,840] and let's put in t prime.
+- [00:16:00,360 - 00:16:04,840] t prime is t minus vx,
+- [00:16:04,840 - 00:16:07,980] and the whole thing again divided by
+- [00:16:07,980 - 00:16:10,000] another square root of one minus v squared.
+- [00:16:11,640 - 00:16:12,920] Now so far,
+- [00:16:12,940 - 00:16:14,480] I have only written this and this.
+- [00:16:15,540 - 00:16:17,340] I have to put in the denominator.
+- [00:16:17,740 - 00:16:19,040] To put in the denominator,
+- [00:16:19,400 - 00:16:21,200] I just put in another
+- [00:16:21,200 - 00:16:23,000] factor of one minus u squared,
+- [00:16:23,300 - 00:16:24,900] one minus u squared.
+- [00:16:25,100 - 00:16:26,820] Square root of one minus u squared.
+- [00:16:29,540 - 00:16:32,130] So that is the relationship
+- [00:16:32,130 - 00:16:34,720] between x double prime and x.
+- [00:16:34,720 - 00:16:36,960] We can write this a little more simply.
+- [00:16:37,540 - 00:16:39,220] Let's focus on what the,
+- [00:16:39,220 - 00:16:39,820] let's,
+- [00:16:42,339 - 00:16:43,640] there's some big denominator.
+- [00:16:43,760 - 00:16:45,600] The denominator involves the product
+- [00:16:45,600 - 00:16:47,440] of the two square roots.
+- [00:16:47,980 - 00:16:48,440] Alright,
+- [00:16:48,440 - 00:16:49,100] let's put it in.
+- [00:16:49,840 - 00:16:50,580] Square root,
+- [00:16:50,580 - 00:16:51,100] square root.
+- [00:16:51,260 - 00:16:52,150] I'm not going to write
+- [00:16:52,150 - 00:16:53,040] out what's inside the square root.
+- [00:16:53,300 - 00:16:55,300] It's just the product of these two square roots.
+- [00:16:55,380 - 00:16:56,960] But I'm interested in the numerator really.
+- [00:16:57,720 - 00:16:59,900] The numerator has an x,
+- [00:17:00,780 - 00:17:03,620] and it has a plus uvx.
+- [00:17:04,140 - 00:17:04,599] x,
+- [00:17:04,720 - 00:17:04,920] here,
+- [00:17:05,560 - 00:17:07,119] and plus uvx.
+- [00:17:07,339 - 00:17:08,460] Why is it plus uvx?
+- [00:17:08,560 - 00:17:09,540] Because there's a minus sign
+- [00:17:09,540 - 00:17:10,520] here and a minus sign here.
+- [00:17:11,720 - 00:17:13,619] x times one plus uv.
+- [00:17:15,480 - 00:17:18,839] One plus uvx.
+- [00:17:19,960 - 00:17:21,180] And what about t?
+- [00:17:22,000 - 00:17:23,560] t will multiply
+- [00:17:25,880 - 00:17:26,400] minus
+- [00:17:28,940 - 00:17:29,460] v
+- [00:17:31,480 - 00:17:32,360] plus u
+- [00:17:35,600 - 00:17:36,380] times t.
+- [00:17:39,680 - 00:17:43,700] Minus v and minus u times t.
+- [00:17:44,000 - 00:17:45,600] And this is the answer,
+- [00:17:45,740 - 00:17:47,480] but it's not very transparent what it means.
+- [00:17:47,700 - 00:17:49,410] But all we need to do
+- [00:17:49,410 - 00:17:51,120] to figure out the relative velocity
+- [00:17:53,120 - 00:17:57,120] of the double prime frame relative to the unprime frame
+- [00:17:57,720 - 00:17:59,700] is just to do exactly what we did over here.
+- [00:18:00,520 - 00:18:01,990] If we want to find out
+- [00:18:01,990 - 00:18:03,460] what x prime equals zero means,
+- [00:18:03,460 - 00:18:06,880] just set x minus vt equal to zero.
+- [00:18:07,380 - 00:18:09,580] And that tells you that x is equal to vt.
+- [00:18:10,000 - 00:18:12,300] It tells you how the fellow at rest here,
+- [00:18:12,400 - 00:18:13,700] who is at x prime equals zero,
+- [00:18:14,060 - 00:18:16,460] how he's moving relative to the unprime frame.
+- [00:18:17,000 - 00:18:19,700] So we do exactly the same thing.
+- [00:18:20,900 - 00:18:21,700] We say,
+- [00:18:24,840 - 00:18:27,020] x double prime will be zero.
+- [00:18:27,400 - 00:18:28,640] x double prime,
+- [00:18:28,640 - 00:18:29,100] of course,
+- [00:18:29,100 - 00:18:29,660] being zero,
+- [00:18:29,740 - 00:18:31,130] means the position of the
+- [00:18:31,130 - 00:18:32,520] kid inside the kitty car here.
+- [00:18:33,640 - 00:18:35,540] x double prime equals zero
+- [00:18:35,540 - 00:18:40,920] is the same thing as the numerator here being zero.
+- [00:18:41,040 - 00:18:41,620] Denominator,
+- [00:18:41,620 - 00:18:42,700] who cares about the denominator?
+- [00:18:43,220 - 00:18:44,040] It's there.
+- [00:18:45,340 - 00:18:49,080] But we can set the numerator equal to zero here,
+- [00:18:49,260 - 00:18:51,940] and that will tell us under what circumstances
+- [00:18:51,940 - 00:18:53,800] x double prime is equal to zero.
+- [00:18:53,940 - 00:18:54,780] So what does it say?
+- [00:18:55,300 - 00:18:57,500] It says x double prime is equal to zero
+- [00:18:57,500 - 00:19:00,460] when one plus uv
+- [00:19:00,460 - 00:19:02,500] x double prime is equal to zero.
+- [00:19:02,500 - 00:19:05,360] So we can say that x
+- [00:19:05,360 - 00:19:08,220] is equal to u plus vt.
+- [00:19:11,020 - 00:19:13,160] I've set this equal to this
+- [00:19:14,120 - 00:19:15,780] to make the numerator zero.
+- [00:19:16,100 - 00:19:18,980] Or if I divide by one plus uv,
+- [00:19:19,260 - 00:19:23,660] it tells me x is equal to u plus v
+- [00:19:24,300 - 00:19:27,600] over one plus uv t.
+- [00:19:29,020 - 00:19:31,040] So what is the relative velocity?
+- [00:19:33,080 - 00:19:33,640] Sorry,
+- [00:19:33,640 - 00:19:33,940] yes.
+- [00:19:34,020 - 00:19:35,520] What is the relative velocity?
+- [00:19:35,520 - 00:19:39,480] This tells us the x and t trajectory
+- [00:19:40,520 - 00:19:42,820] of the kid in the kitty car here.
+- [00:19:43,840 - 00:19:46,080] The trajectory of the child
+- [00:19:46,080 - 00:19:47,700] or whoever it is in the kitty car
+- [00:19:48,300 - 00:19:49,920] is x is equal to u
+- [00:19:49,920 - 00:19:51,540] plus v over one plus uv
+- [00:19:52,180 - 00:19:53,000] times t.
+- [00:19:54,260 - 00:19:57,340] That corresponds to x double prime equals zero.
+- [00:19:58,240 - 00:19:58,660] All right,
+- [00:19:58,660 - 00:19:59,760] but another way to say it
+- [00:19:59,760 - 00:20:02,800] is just that the stationary observer
+- [00:20:02,800 - 00:20:05,080] sees the kitty car
+- [00:20:05,080 - 00:20:09,050] moving along with velocity u
+- [00:20:09,050 - 00:20:13,020] plus v over one plus uv.
+- [00:20:14,480 - 00:20:16,380] So we now know what w is.
+- [00:20:16,980 - 00:20:18,900] That's exactly what w is.
+- [00:20:20,700 - 00:20:21,300] w,
+- [00:20:21,300 - 00:20:22,400] we've worked it out.
+- [00:20:22,800 - 00:20:25,220] We can now write it in the form,
+- [00:20:25,320 - 00:20:25,700] well,
+- [00:20:25,700 - 00:20:26,500] let's write it in the form
+- [00:20:26,500 - 00:20:29,240] x double prime is equal to t,
+- [00:20:29,760 - 00:20:32,740] minus wx divided by square
+- [00:20:32,740 - 00:20:35,720] root of one minus w squared,
+- [00:20:35,920 - 00:20:38,800] and t double prime is,
+- [00:20:39,020 - 00:20:40,020] did I write that right?
+- [00:20:40,260 - 00:20:40,700] No,
+- [00:20:40,700 - 00:20:41,760] I didn't.
+- [00:20:42,340 - 00:20:43,840] x minus wt.
+- [00:20:48,939 - 00:20:53,500] And t minus wx over the same square root.
+- [00:20:53,580 - 00:20:54,960] I don't have room for the square root there.
+- [00:20:55,680 - 00:20:56,460] All right,
+- [00:20:56,460 - 00:20:57,960] and what do we find w is?
+- [00:20:58,100 - 00:20:59,740] w is just that.
+- [00:20:59,740 - 00:20:59,760] It's just that.
+- [00:21:01,480 - 00:21:06,380] That's how fast the kitty car is moving
+- [00:21:06,380 - 00:21:09,900] as seen from the stationary frame.
+- [00:21:10,100 - 00:21:10,180] So,
+- [00:21:10,180 - 00:21:11,060] yes?
+- [00:21:11,920 - 00:21:13,500] Why is that dimensionally incorrect?
+- [00:21:14,060 - 00:21:15,580] Because we set c equal to one.
+- [00:21:16,920 - 00:21:17,240] Right.
+- [00:21:17,360 - 00:21:18,100] We're going to put him back.
+- [00:21:18,180 - 00:21:19,020] We're going to put him back in a minute.
+- [00:21:19,120 - 00:21:19,240] Yeah,
+- [00:21:19,240 - 00:21:20,220] we're going to put him back in a minute.
+- [00:21:21,100 - 00:21:21,420] Yeah,
+- [00:21:21,420 - 00:21:24,600] you're a step ahead of me.
+- [00:21:26,140 - 00:21:26,460] Okay,
+- [00:21:26,460 - 00:21:26,920] all right,
+- [00:21:26,920 - 00:21:27,880] so x is equal to,
+- [00:21:27,880 - 00:21:28,320] so w,
+- [00:21:28,320 - 00:21:31,760] the speed w is equal to w,
+- [00:21:31,860 - 00:21:36,120] u plus v divided by one plus uv.
+- [00:21:36,440 - 00:21:39,140] And now if I want to restore the units,
+- [00:21:40,200 - 00:21:42,360] just to answer your question again,
+- [00:21:42,500 - 00:21:44,580] if we set the speed of light equal to one,
+- [00:21:44,680 - 00:21:45,440] of course,
+- [00:21:45,440 - 00:21:47,580] we're working in units
+- [00:21:47,580 - 00:21:49,460] in which velocities are dimensionless.
+- [00:21:49,800 - 00:21:51,580] But if we want to restore the dimensions,
+- [00:21:51,960 - 00:21:53,580] we simply look at this equation,
+- [00:21:53,720 - 00:21:54,000] we say,
+- [00:21:54,000 - 00:21:54,180] look,
+- [00:21:54,180 - 00:21:55,520] w equals u plus v,
+- [00:21:55,620 - 00:21:56,640] that's dimensionally fine.
+- [00:21:56,640 - 00:21:58,740] It's adding one to uv,
+- [00:21:58,740 - 00:21:59,520] which is peculiar,
+- [00:21:59,780 - 00:22:02,200] but we restore the dimensions
+- [00:22:02,200 - 00:22:03,680] by putting in c squared here.
+- [00:22:03,880 - 00:22:06,060] One plus uv over c squared,
+- [00:22:06,780 - 00:22:09,320] uv over c squared is dimensionless.
+- [00:22:10,140 - 00:22:10,940] All right,
+- [00:22:10,940 - 00:22:12,180] so this is the equation
+- [00:22:12,180 - 00:22:14,940] with c being restored.
+- [00:22:16,180 - 00:22:17,980] What is the Newtonian equation?
+- [00:22:18,540 - 00:22:22,160] The corresponding pre-Einsteinian equation?
+- [00:22:22,620 - 00:22:23,260] Well,
+- [00:22:23,260 - 00:22:24,500] stationary,
+- [00:22:24,500 - 00:22:29,640] stationary person sees passenger moving with velocity u,
+- [00:22:30,320 - 00:22:32,880] passenger sees kitty car moving,
+- [00:22:33,100 - 00:22:33,560] sorry,
+- [00:22:33,560 - 00:22:37,960] stationary observer sees passenger moving with velocity v,
+- [00:22:39,640 - 00:22:42,380] passenger sees kitty car moving velocity u,
+- [00:22:43,000 - 00:22:45,760] the answer naively would just be u plus v.
+- [00:22:47,260 - 00:22:48,420] But it's not u plus v,
+- [00:22:48,540 - 00:22:50,900] it's u plus v divided by something
+- [00:22:51,500 - 00:22:53,140] which as long as u and v
+- [00:22:53,140 - 00:22:56,280] are significantly smaller than the speed of light,
+- [00:22:57,840 - 00:23:00,220] uv over c squared will be very small.
+- [00:23:00,540 - 00:23:02,660] We'll put in some numbers in a minute
+- [00:23:02,660 - 00:23:04,200] just to test that out.
+- [00:23:05,340 - 00:23:07,920] But as long as u and v are small
+- [00:23:07,920 - 00:23:09,440] compared with the speed of light,
+- [00:23:10,240 - 00:23:11,660] this will be negligible.
+- [00:23:12,740 - 00:23:15,380] It's the product of two ordinary velocities,
+- [00:23:15,500 - 00:23:16,880] 100 meters per second or whatever
+- [00:23:16,880 - 00:23:18,260] it is you want to put in,
+- [00:23:18,360 - 00:23:20,000] divided by 3 times 10
+- [00:23:20,000 - 00:23:21,640] to the 8th meters per second,
+- [00:23:21,640 - 00:23:22,620] all squared.
+- [00:23:23,220 - 00:23:24,340] This is a very,
+- [00:23:24,340 - 00:23:25,180] very small number
+- [00:23:25,180 - 00:23:26,520] and it's a very small correction.
+- [00:23:27,820 - 00:23:28,800] On the other hand,
+- [00:23:28,840 - 00:23:29,770] when u and v get
+- [00:23:29,770 - 00:23:30,700] up near the speed of light,
+- [00:23:30,880 - 00:23:32,620] it can get very significant.
+- [00:23:32,840 - 00:23:33,700] So let's see what happens.
+- [00:23:34,140 - 00:23:36,260] First let's do the case where u and v are
+- [00:23:37,419 - 00:23:39,480] small velocities compared to the speed of light.
+- [00:23:40,440 - 00:23:41,380] We can leave out,
+- [00:23:42,419 - 00:23:45,500] well remember that u and v mean velocities measured
+- [00:23:45,500 - 00:23:47,140] in units of the speed of light.
+- [00:23:48,159 - 00:23:49,629] So if u and v are measured
+- [00:23:49,629 - 00:23:51,100] in units of the speed of light,
+- [00:23:51,640 - 00:23:52,920] and let's say for example,
+- [00:23:53,160 - 00:23:56,180] supposing u is equal to 0.01,
+- [00:23:56,940 - 00:24:00,100] 1% of the speed of light,
+- [00:24:00,320 - 00:24:03,200] and let's say v is also 0.01,
+- [00:24:03,360 - 00:24:05,020] they're both 1% the speed of light,
+- [00:24:05,400 - 00:24:08,460] then this turns out to be 0.02,
+- [00:24:08,580 - 00:24:10,420] that's what Newton would recognize,
+- [00:24:10,520 - 00:24:13,260] divided by 1 plus,
+- [00:24:13,500 - 00:24:18,500] and now uv is 0.001?
+- [00:24:19,280 - 00:24:20,700] Did I do that right?
+- [00:24:21,960 - 00:24:25,620] And 0.0001 is a very small correction.
+- [00:24:25,900 - 00:24:26,380] Now,
+- [00:24:26,380 - 00:24:28,640] this is a very sizable velocity incidentally,
+- [00:24:29,240 - 00:24:30,490] u being 1% of the
+- [00:24:30,490 - 00:24:31,740] speed of light is damn fast.
+- [00:24:32,440 - 00:24:34,200] It's not 3 times 10 to the 8th,
+- [00:24:34,240 - 00:24:36,200] it's 3 times 10 to the 6th meters per second.
+- [00:24:36,560 - 00:24:37,860] So this is pretty fast,
+- [00:24:38,020 - 00:24:40,220] but the correction is small.
+- [00:24:40,740 - 00:24:42,160] 1 plus something.
+- [00:24:42,680 - 00:24:45,260] Notice the answer is a little bit smaller
+- [00:24:45,960 - 00:24:47,920] than what Newton would have estimated.
+- [00:24:48,300 - 00:24:51,620] This number here is a little bit bigger than that,
+- [00:24:51,920 - 00:24:54,160] and so in the denominator it's a little bit smaller.
+- [00:24:54,480 - 00:24:55,840] Let's go to the other extreme.
+- [00:24:56,200 - 00:24:57,870] Let's suppose u and v are
+- [00:24:57,870 - 00:24:59,540] 90% of the speed of light.
+- [00:25:00,180 - 00:25:01,680] We could do 99%,
+- [00:25:01,680 - 00:25:02,960] but I'm not so good at arithmetic.
+- [00:25:04,380 - 00:25:06,520] u and v are 0.9.
+- [00:25:08,880 - 00:25:10,580] v equals 0.9.
+- [00:25:11,080 - 00:25:12,380] Newton would have said
+- [00:25:12,380 - 00:25:14,050] the kiddie car is moving
+- [00:25:14,050 - 00:25:15,720] faster than the speed of light
+- [00:25:15,720 - 00:25:17,420] relative to the stationary observer.
+- [00:25:17,800 - 00:25:18,580] In fact,
+- [00:25:18,580 - 00:25:19,640] he probably would have said
+- [00:25:19,640 - 00:25:22,160] 1.8 times the speed of light.
+- [00:25:23,660 - 00:25:25,560] He would have added these two numbers,
+- [00:25:25,780 - 00:25:29,300] but Einstein would have put in the denominator here,
+- [00:25:29,460 - 00:25:30,400] so let's see what we get.
+- [00:25:30,560 - 00:25:34,080] We get 0.9 plus 0.9,
+- [00:25:34,080 - 00:25:35,040] that's 1.8,
+- [00:25:35,180 - 00:25:37,580] divided by 0.9 squared.
+- [00:25:38,100 - 00:25:43,040] 0.9 squared is 1.81.
+- [00:25:45,060 - 00:25:47,500] Slightly bigger than 1.8.
+- [00:25:49,000 - 00:25:52,040] The result is that the net
+- [00:25:52,040 - 00:25:55,080] velocity is slightly less than 1.
+- [00:25:55,300 - 00:25:56,380] In other words,
+- [00:25:56,380 - 00:25:58,620] we have not succeeded in making the kiddie car
+- [00:25:58,620 - 00:26:00,320] go faster than the speed of light,
+- [00:26:00,520 - 00:26:01,920] even though blah,
+- [00:26:01,920 - 00:26:02,160] blah,
+- [00:26:02,160 - 00:26:02,320] blah,
+- [00:26:02,440 - 00:26:03,780] you know the rest of the story.
+- [00:26:04,940 - 00:26:08,600] So this is the answer to the question,
+- [00:26:08,740 - 00:26:10,710] what happens if an observer is
+- [00:26:10,710 - 00:26:12,680] moving faster than the speed of light?
+- [00:26:12,840 - 00:26:13,360] Well,
+- [00:26:13,360 - 00:26:15,940] you could ask that question,
+- [00:26:16,020 - 00:26:17,480] but the answer is,
+- [00:26:17,500 - 00:26:20,450] I think we are pretty well protected against
+- [00:26:20,450 - 00:26:23,400] people moving faster than the speed of light
+- [00:26:23,400 - 00:26:26,420] if the way they are made to move
+- [00:26:28,020 - 00:26:31,540] is relative to some previous frame of reference,
+- [00:26:31,840 - 00:26:34,280] moving slower than the speed of light.
+- [00:26:34,620 - 00:26:35,460] In other words,
+- [00:26:35,460 - 00:26:36,960] there's no way by
+- [00:26:38,280 - 00:26:41,960] putting another observer inside the speed of the car here,
+- [00:26:42,040 - 00:26:44,220] making him go 90% of the speed of light,
+- [00:26:44,220 - 00:26:44,720] etc.,
+- [00:26:44,720 - 00:26:45,120] etc.,
+- [00:26:45,120 - 00:26:46,200] we're never going to get
+- [00:26:46,200 - 00:26:47,280] faster than the speed of light.
+- [00:26:48,020 - 00:26:49,520] So it's consistent to,
+- [00:26:50,100 - 00:26:51,820] it's a consistent thing to say,
+- [00:26:52,000 - 00:26:54,940] all observers move slower than the speed of light,
+- [00:26:55,540 - 00:26:57,620] even though they can move arbitrarily
+- [00:26:57,620 - 00:26:59,700] close to the speed of light
+- [00:26:59,700 - 00:27:02,200] relative to each other in any combination,
+- [00:27:02,840 - 00:27:04,240] the net result will still be
+- [00:27:04,240 - 00:27:05,640] slower than the speed of light.
+- [00:27:06,180 - 00:27:08,180] If u and v are c,
+- [00:27:08,180 - 00:27:10,860] then w ends up being 2 over c.
+- [00:27:12,200 - 00:27:13,480] If u and v are c,
+- [00:27:13,480 - 00:27:14,140] that means 1.
+- [00:27:14,860 - 00:27:15,340] Okay.
+- [00:27:15,340 - 00:27:17,560] Let's suppose u and v are 1.
+- [00:27:17,880 - 00:27:19,280] c and 1 are the same thing.
+- [00:27:19,819 - 00:27:21,540] Then u plus v is 2,
+- [00:27:21,540 - 00:27:23,220] and 1 plus uv is 2,
+- [00:27:23,939 - 00:27:26,220] so the net result is the speed of light again.
+- [00:27:27,760 - 00:27:27,800] Okay.
+- [00:27:28,420 - 00:27:29,940] So if you're moving very,
+- [00:27:30,060 - 00:27:31,420] if each one is moving very,
+- [00:27:31,420 - 00:27:32,820] very close to the speed of light,
+- [00:27:33,020 - 00:27:34,120] the net result,
+- [00:27:34,120 - 00:27:35,280] in other words,
+- [00:27:35,280 - 00:27:37,640] if the kiddie car is moving relative to the passenger
+- [00:27:37,640 - 00:27:39,140] very close to the speed of light,
+- [00:27:39,200 - 00:27:41,680] and the passenger is moving relative to the station
+- [00:27:41,680 - 00:27:43,080] very close to the speed of light,
+- [00:27:43,260 - 00:27:45,180] the result will be that the kiddie car
+- [00:27:45,340 - 00:27:46,760] is moving relative to the station,
+- [00:27:46,940 - 00:27:49,040] and even closer to the speed of light,
+- [00:27:49,200 - 00:27:50,660] but not in excess of it.
+- [00:27:52,420 - 00:27:52,980] Okay.
+- [00:27:52,980 - 00:27:53,840] That's the...
+- [00:27:53,840 - 00:27:56,120] You see that through the,
+- [00:27:56,180 - 00:27:57,770] the stationer sees it through
+- [00:27:57,770 - 00:27:59,360] the eyes of the x prime.
+- [00:27:59,700 - 00:28:02,460] What if the train had glass walls
+- [00:28:02,460 - 00:28:04,760] and the stationer was looking at both of them?
+- [00:28:10,960 - 00:28:12,360] If the train,
+- [00:28:12,360 - 00:28:14,380] I assume the train did have glass walls.
+- [00:28:15,340 - 00:28:17,000] I don't see how that makes any...
+- [00:28:18,379 - 00:28:19,580] We're not talking,
+- [00:28:19,580 - 00:28:20,660] we're not talking about
+- [00:28:21,200 - 00:28:23,060] how appearances look.
+- [00:28:23,360 - 00:28:26,960] We're talking about how measurements of phenomena
+- [00:28:28,679 - 00:28:29,360] are,
+- [00:28:29,360 - 00:28:32,880] by meter sticks and by well-designed clocks,
+- [00:28:33,340 - 00:28:35,060] correlate with each other.
+- [00:28:36,080 - 00:28:39,180] What somebody sees is much more complicated
+- [00:28:39,180 - 00:28:42,140] for the simple reason that when an event happens,
+- [00:28:42,300 - 00:28:44,200] light has to come from the event,
+- [00:28:44,200 - 00:28:46,300] and it can be much more complicated
+- [00:28:46,300 - 00:28:47,440] what you visually see.
+- [00:28:47,740 - 00:28:49,700] We're not talking about what you visually see.
+- [00:28:49,780 - 00:28:54,660] We're talking about correlating the locations
+- [00:28:55,020 - 00:28:58,300] and times of events in frames of reference
+- [00:28:58,300 - 00:29:00,520] which are defined by meter sticks
+- [00:29:00,520 - 00:29:02,400] at rest relative to observers,
+- [00:29:02,720 - 00:29:04,420] and time pieces which are
+- [00:29:04,420 - 00:29:06,120] also at rest relative to them.
+- [00:29:06,640 - 00:29:08,490] And it doesn't matter what
+- [00:29:08,490 - 00:29:10,340] kind of walls the car has,
+- [00:29:11,200 - 00:29:13,920] the transformation laws
+- [00:29:14,200 - 00:29:15,580] are universal.
+- [00:29:17,400 - 00:29:18,000] Okay.
+- [00:29:18,820 - 00:29:19,420] Now,
+- [00:29:19,420 - 00:29:22,240] the next thing we talked about last time
+- [00:29:22,240 - 00:29:25,700] was the notion of proper time
+- [00:29:25,700 - 00:29:28,020] or proper distance or proper interval.
+- [00:29:28,940 - 00:29:31,280] Let me just remind you quickly about that,
+- [00:29:31,280 - 00:29:31,880] very quickly.
+- [00:29:37,300 - 00:29:39,740] If we have an event taking
+- [00:29:39,740 - 00:29:42,180] place at point x and t,
+- [00:29:42,180 - 00:29:45,420] we found out last time
+- [00:29:45,420 - 00:29:47,660] that there's an invariant notion
+- [00:29:48,180 - 00:29:49,700] of separation,
+- [00:29:49,700 - 00:29:51,640] space-time difference,
+- [00:29:51,980 - 00:29:54,920] or space-time distance between them,
+- [00:29:55,020 - 00:29:56,240] proper time,
+- [00:29:56,240 - 00:29:58,760] and the proper time or the proper...
+- [00:29:58,760 - 00:30:00,220] Let's put this up higher,
+- [00:30:00,220 - 00:30:01,420] over here.
+- [00:30:02,000 - 00:30:02,760] Xt.
+- [00:30:04,100 - 00:30:07,100] The proper interval between them
+- [00:30:07,100 - 00:30:08,860] is called tau,
+- [00:30:09,120 - 00:30:11,660] and it's defined by tau squared,
+- [00:30:12,180 - 00:30:16,880] is equal to t squared minus x squared.
+- [00:30:17,780 - 00:30:20,060] And the interesting thing about this,
+- [00:30:20,100 - 00:30:21,440] the important thing about it,
+- [00:30:21,540 - 00:30:23,580] is it's the same in every reference frame.
+- [00:30:23,840 - 00:30:25,540] If the reference frame is moving,
+- [00:30:25,780 - 00:30:27,680] then we would use prime coordinates,
+- [00:30:27,860 - 00:30:30,420] but the same quantity here is t prime squared
+- [00:30:31,020 - 00:30:32,400] minus x prime squared.
+- [00:30:32,760 - 00:30:35,200] It's also equal to t double prime squared
+- [00:30:35,200 - 00:30:37,240] minus x double prime squared.
+- [00:30:38,160 - 00:30:39,440] It's an invariant.
+- [00:30:39,440 - 00:30:42,720] All observers agree on the value
+- [00:30:42,720 - 00:30:45,200] of this interval between here and here.
+- [00:30:45,260 - 00:30:47,340] They don't agree about the coordinates themselves,
+- [00:30:47,520 - 00:30:50,460] but they agree about this notion of proper time.
+- [00:30:50,920 - 00:30:55,640] The proper time is also the time read
+- [00:30:55,640 - 00:30:59,640] by a clock moving between these two points.
+- [00:30:59,680 - 00:31:04,360] If the clock is set equal to,
+- [00:31:04,420 - 00:31:04,740] let's say,
+- [00:31:04,740 - 00:31:06,000] 12 noon at this point,
+- [00:31:06,060 - 00:31:08,320] and it moves along this trajectory,
+- [00:31:08,320 - 00:31:10,620] then the time that it reads
+- [00:31:10,620 - 00:31:13,140] at the end of the trajectory is the proper time.
+- [00:31:14,040 - 00:31:17,120] And we worked out the time dilation last time,
+- [00:31:17,280 - 00:31:19,000] but what I did want to say about this,
+- [00:31:19,060 - 00:31:22,060] I want to now put back the other two coordinates,
+- [00:31:22,300 - 00:31:22,920] y and z.
+- [00:31:24,180 - 00:31:25,060] y and z,
+- [00:31:25,200 - 00:31:26,760] and let's put them back
+- [00:31:26,760 - 00:31:28,320] into the game for a moment.
+- [00:31:28,620 - 00:31:30,480] I'll put them back in.
+- [00:31:32,280 - 00:31:35,280] There is another kind of transformation that we can do,
+- [00:31:36,080 - 00:31:37,420] not just a,
+- [00:31:37,420 - 00:31:40,860] a transformation between two moving coordinates
+- [00:31:41,420 - 00:31:45,400] moving along the x-axis,
+- [00:31:45,600 - 00:31:48,500] but we can also consider rotations of coordinates.
+- [00:31:48,720 - 00:31:50,710] Let's for the moment not
+- [00:31:50,710 - 00:31:52,700] even think very much about relativity.
+- [00:31:53,160 - 00:31:56,740] Let's just talk about two different coordinate systems
+- [00:31:57,140 - 00:32:00,380] related by an ordinary rotation with respect to each other.
+- [00:32:00,640 - 00:32:02,300] So the stationary observer might
+- [00:32:02,300 - 00:32:03,960] have two different coordinate systems,
+- [00:32:04,140 - 00:32:06,980] one oriented along the x-y axis,
+- [00:32:06,980 - 00:32:10,280] and another one oriented along some x-y prime axis.
+- [00:32:10,520 - 00:32:11,980] Not the same primes.
+- [00:32:12,100 - 00:32:14,530] Some other set of axes rotated or
+- [00:32:14,530 - 00:32:16,960] at an angle relative to the original ones.
+- [00:32:17,680 - 00:32:18,280] Alright.
+- [00:32:20,860 - 00:32:21,980] What happens,
+- [00:32:23,020 - 00:32:26,060] now we can forget the prime coordinates for the moment.
+- [00:32:26,380 - 00:32:28,420] What about this x squared here?
+- [00:32:28,460 - 00:32:31,960] This x squared is really the distance,
+- [00:32:37,139 - 00:32:41,400] from the place where the clock started
+- [00:32:41,730 - 00:32:43,985] to the place where it
+- [00:32:43,985 - 00:32:46,240] ended up in the unprimed coordinates.
+- [00:32:46,640 - 00:32:50,120] Now supposing we take into account the other directions,
+- [00:32:50,180 - 00:32:51,780] let's call this y for example,
+- [00:32:52,020 - 00:32:54,420] then this becomes a plane here.
+- [00:32:55,480 - 00:33:01,540] This point might not be located directly over the x-axis,
+- [00:33:01,740 - 00:33:04,340] it might be a point in space-time,
+- [00:33:06,980 - 00:33:09,990] which is not at the same
+- [00:33:09,990 - 00:33:13,000] value of x as the origin here.
+- [00:33:13,540 - 00:33:16,380] What then is the interval between here and here?
+- [00:33:16,440 - 00:33:17,880] What is the invariant quantity?
+- [00:33:18,780 - 00:33:20,540] Well this is actually fairly simple.
+- [00:33:20,760 - 00:33:24,520] As long as the event is located on the x-axis,
+- [00:33:24,780 - 00:33:26,500] it's t squared minus x squared.
+- [00:33:27,100 - 00:33:29,400] If it's not located on the x-axis,
+- [00:33:29,440 - 00:33:30,440] when we make a rotation,
+- [00:33:31,199 - 00:33:34,300] then what was originally x squared,
+- [00:33:35,459 - 00:33:38,820] becomes x squared plus y squared plus z squared,
+- [00:33:39,060 - 00:33:41,500] becomes the spatial distance between the
+- [00:33:41,500 - 00:33:43,940] origin and this point over here.
+- [00:33:46,440 - 00:33:48,710] This really becomes minus x squared
+- [00:33:48,710 - 00:33:50,980] minus y squared minus z squared.
+- [00:33:56,740 - 00:33:57,380] Etc.
+- [00:33:59,600 - 00:34:00,240] So,
+- [00:34:00,240 - 00:34:04,280] if we're not working strictly along a one-dimensional axis,
+- [00:34:04,280 - 00:34:10,159] the invariant proper time between a start of a clock
+- [00:34:10,159 - 00:34:12,659] and the place where the clock gets to
+- [00:34:13,060 - 00:34:15,080] is given by t squared minus
+- [00:34:15,080 - 00:34:17,100] the square of the spatial distance,
+- [00:34:17,320 - 00:34:18,060] which is x squared,
+- [00:34:18,060 - 00:34:18,760] this is Pythagoras'
+- [00:34:18,920 - 00:34:19,179] theorem,
+- [00:34:19,340 - 00:34:20,100] it's just Pythagoras'
+- [00:34:20,239 - 00:34:22,120] theorem applied to x,
+- [00:34:22,120 - 00:34:22,300] y,
+- [00:34:22,300 - 00:34:22,659] and z,
+- [00:34:23,199 - 00:34:25,400] and that's the notion of proper interval.
+- [00:34:26,739 - 00:34:28,179] And that's the one we'll work with.
+- [00:34:29,060 - 00:34:33,760] If we make any combination of Lorentz transformations
+- [00:34:33,760 - 00:34:35,480] and rotations of coordinates,
+- [00:34:35,940 - 00:34:39,900] we will always find that any two inertial frames
+- [00:34:39,900 - 00:34:42,440] which agree at this point over here,
+- [00:34:42,679 - 00:34:46,199] we will find out that tau squared is invariant.
+- [00:34:46,199 - 00:34:48,460] It's the same in all inertial reference frames.
+- [00:34:48,860 - 00:34:49,960] And it's very,
+- [00:34:49,960 - 00:34:52,480] very similar to the idea that
+- [00:34:52,480 - 00:34:55,500] in ordinary Euclidean geometry,
+- [00:34:56,439 - 00:35:01,460] different coordinate axes will ascribe different coordinates
+- [00:35:01,460 - 00:35:02,740] to a point in space,
+- [00:35:02,740 - 00:35:05,600] but they will always agree about the
+- [00:35:05,600 - 00:35:08,460] distance of a point from the origin.
+- [00:35:08,720 - 00:35:09,360] Here,
+- [00:35:09,360 - 00:35:11,860] it's this funny kind of distance
+- [00:35:11,860 - 00:35:16,120] with a relative different sign between the space components
+- [00:35:16,120 - 00:35:17,300] and the time components.
+- [00:35:17,800 - 00:35:22,320] And that is probably the most central fact about relativity,
+- [00:35:22,660 - 00:35:26,540] is that this combination is invariant.
+- [00:35:26,560 - 00:35:28,380] That's really what it's all about.
+- [00:35:29,340 - 00:35:30,140] Okay.
+- [00:35:30,560 - 00:35:30,960] So,
+- [00:35:32,740 - 00:35:35,180] let's keep that idea in mind
+- [00:35:36,510 - 00:35:38,580] and introduce a little bit of notation.
+- [00:35:38,860 - 00:35:40,680] We get tired of writing x,
+- [00:35:40,680 - 00:35:41,140] y,
+- [00:35:41,140 - 00:35:41,820] and z,
+- [00:35:42,920 - 00:35:46,020] and we try to condense the notation.
+- [00:35:46,360 - 00:35:48,510] So let's condense the
+- [00:35:48,510 - 00:35:50,660] notation to standard relativistic notation.
+- [00:35:52,400 - 00:35:52,980] Yeah?
+- [00:35:53,400 - 00:35:55,920] Just going back to the train there for a second,
+- [00:35:56,900 - 00:36:00,080] if you assume that the speed v,
+- [00:36:00,240 - 00:36:01,640] let's say it was 0.9,
+- [00:36:01,640 - 00:36:02,280] like you said,
+- [00:36:02,740 - 00:36:03,940] it's very close to the speed of light.
+- [00:36:04,160 - 00:36:05,640] And speed u,
+- [00:36:05,640 - 00:36:07,480] let's say that instead of a car,
+- [00:36:07,800 - 00:36:09,840] that guy has a flashlight in his hand,
+- [00:36:09,940 - 00:36:11,720] so he's actually sending a light beam,
+- [00:36:11,940 - 00:36:12,780] and that's that.
+- [00:36:13,660 - 00:36:14,800] And I'm kind of wondering,
+- [00:36:14,980 - 00:36:17,900] how do these two people measure the speed of light,
+- [00:36:17,980 - 00:36:19,420] and whether they get the same number?
+- [00:36:20,400 - 00:36:21,400] Why don't you try it?
+- [00:36:21,480 - 00:36:22,120] Take one...
+- [00:36:23,060 - 00:36:23,460] Yep.
+- [00:36:26,160 - 00:36:26,820] Here it is.
+- [00:36:26,920 - 00:36:28,760] What if c is the speed of light?
+- [00:36:28,940 - 00:36:29,740] That means it's 1.
+- [00:36:31,840 - 00:36:32,620] V is 1.
+- [00:36:32,620 - 00:36:33,160] Oh,
+- [00:36:33,160 - 00:36:33,620] I don't know,
+- [00:36:33,620 - 00:36:34,500] which one do you want to make 1?
+- [00:36:35,420 - 00:36:36,580] Make u 1.
+- [00:36:36,580 - 00:36:37,320] Make u 1,
+- [00:36:37,320 - 00:36:37,740] okay.
+- [00:36:38,740 - 00:36:39,960] Make u 1.
+- [00:36:41,660 - 00:36:42,780] That's 1 plus v,
+- [00:36:43,840 - 00:36:44,760] divided by,
+- [00:36:44,760 - 00:36:45,720] u is 1,
+- [00:36:45,720 - 00:36:46,520] 1 plus v.
+- [00:36:47,380 - 00:36:48,420] So the answer's 1.
+- [00:36:49,000 - 00:36:50,940] The speed of light is the speed of light.
+- [00:36:51,040 - 00:36:53,200] That light ray moves with the speed of light.
+- [00:36:53,700 - 00:36:54,500] In both frames.
+- [00:36:54,800 - 00:36:55,300] In both frames.
+- [00:36:56,340 - 00:36:58,760] Last week I was confused about something,
+- [00:36:58,840 - 00:37:00,580] and you pointed out that generally
+- [00:37:00,580 - 00:37:02,440] it comes down to simultaneity.
+- [00:37:02,620 - 00:37:04,220] Definitions of simultaneity.
+- [00:37:04,360 - 00:37:06,260] The question I asked a minute ago,
+- [00:37:06,320 - 00:37:08,660] I realized that with the glass walls,
+- [00:37:08,900 - 00:37:10,640] to try and look at both of them,
+- [00:37:10,640 - 00:37:14,000] is trying to reintroduce simultaneity into the...
+- [00:37:14,000 - 00:37:14,520] Okay,
+- [00:37:14,520 - 00:37:15,520] if you understand it,
+- [00:37:15,520 - 00:37:15,660] good.
+- [00:37:25,420 - 00:37:26,760] Let's talk about light rays,
+- [00:37:26,860 - 00:37:27,780] how light rays move.
+- [00:37:29,060 - 00:37:29,840] Light rays,
+- [00:37:29,840 - 00:37:32,440] let's go back to the one dimension.
+- [00:37:32,620 - 00:37:33,440] One dimensional case then.
+- [00:37:33,800 - 00:37:36,060] One space and one time dimension.
+- [00:37:36,580 - 00:37:37,440] Let's go back.
+- [00:37:37,940 - 00:37:39,160] Light rays move,
+- [00:37:39,160 - 00:37:40,240] for example,
+- [00:37:40,240 - 00:37:42,640] along 45 degree axes like this.
+- [00:37:42,940 - 00:37:45,840] That means they will move from the origin
+- [00:37:45,840 - 00:37:47,440] to the point xt,
+- [00:37:48,920 - 00:37:51,200] but only if x is equal to t.
+- [00:37:52,160 - 00:37:54,860] That's just saying the light moves with velocity 1.
+- [00:37:55,400 - 00:37:56,800] In a certain time t,
+- [00:37:56,960 - 00:37:58,960] the distance it moves is equal to that time,
+- [00:37:59,200 - 00:38:01,220] so it moves to the point,
+- [00:38:03,060 - 00:38:03,700] tt,
+- [00:38:03,700 - 00:38:04,740] or the same coordinate.
+- [00:38:04,980 - 00:38:09,040] That means that t squared minus x squared,
+- [00:38:10,080 - 00:38:10,720] sorry,
+- [00:38:10,720 - 00:38:12,760] t squared minus x squared is equal to zero,
+- [00:38:14,440 - 00:38:16,980] or that the space-time interval,
+- [00:38:17,360 - 00:38:18,840] I'll call it space-time interval,
+- [00:38:19,120 - 00:38:19,900] proper time,
+- [00:38:19,900 - 00:38:21,260] any number of different
+- [00:38:21,260 - 00:38:23,180] depth usages,
+- [00:38:23,180 - 00:38:24,460] is zero.
+- [00:38:26,680 - 00:38:29,960] That's different than ordinary Euclidean distance.
+- [00:38:30,640 - 00:38:32,400] Euclidean distance of two points
+- [00:38:32,620 - 00:38:33,520] is the distance between two points.
+- [00:38:33,520 - 00:38:35,140] If two points have genuinely zero distance between them,
+- [00:38:35,220 - 00:38:36,860] they're sitting on top of each other.
+- [00:38:37,140 - 00:38:38,260] In space-time,
+- [00:38:38,260 - 00:38:40,480] if two points have space-time distance,
+- [00:38:40,580 - 00:38:43,480] or proper time equal to zero between them,
+- [00:38:43,620 - 00:38:45,780] that simply means they are related
+- [00:38:45,780 - 00:38:48,460] by the possibility of a light ray
+- [00:38:48,460 - 00:38:49,840] going from one to the other.
+- [00:38:51,280 - 00:38:51,840] Now,
+- [00:38:51,840 - 00:38:53,600] if we introduce the additional coordinates,
+- [00:38:53,800 - 00:38:55,080] y squared and z squared,
+- [00:38:56,020 - 00:38:58,020] then what was originally x squared,
+- [00:38:58,320 - 00:39:01,060] the distance that the light beam
+- [00:39:02,620 - 00:39:02,900] is going to get from the axis,
+- [00:39:02,900 - 00:39:04,760] the square of the distance,
+- [00:39:05,000 - 00:39:06,900] will obviously become x squared
+- [00:39:06,900 - 00:39:08,800] plus y squared plus z squared,
+- [00:39:10,420 - 00:39:11,640] square of the distance,
+- [00:39:12,300 - 00:39:13,540] and that will be equal
+- [00:39:13,540 - 00:39:14,780] to zero for a light ray.
+- [00:39:15,700 - 00:39:16,260] So,
+- [00:39:16,260 - 00:39:17,820] the motion of a light ray
+- [00:39:18,920 - 00:39:20,980] is t squared minus x squared
+- [00:39:20,980 - 00:39:23,040] minus y squared minus z squared
+- [00:39:23,040 - 00:39:23,820] equal to zero,
+- [00:39:23,820 - 00:39:25,280] or again,
+- [00:39:26,900 - 00:39:28,960] tau squared is equal to zero.
+- [00:39:29,640 - 00:39:30,960] Tau squared is...
+- [00:39:32,620 - 00:39:32,840] So,
+- [00:39:32,840 - 00:39:35,160] that's one concept
+- [00:39:36,240 - 00:39:38,200] of how a light ray moves.
+- [00:39:38,660 - 00:39:40,820] It moves along trajectories
+- [00:39:40,820 - 00:39:43,320] such that the proper time along the trajectory
+- [00:39:43,320 - 00:39:44,060] is equal to zero.
+- [00:39:46,660 - 00:39:47,780] Photons move that way.
+- [00:39:48,380 - 00:39:49,940] We could draw a picture for this.
+- [00:39:50,780 - 00:39:52,600] A light ray moving to the right
+- [00:39:52,600 - 00:39:54,940] is a 45 degree axis to the right.
+- [00:39:55,220 - 00:39:57,220] 45 degree line to the right.
+- [00:39:57,560 - 00:39:59,320] A light ray moving to the left
+- [00:40:00,500 - 00:40:00,980] moves...
+- [00:40:02,620 - 00:40:03,640] exactly the same way,
+- [00:40:04,279 - 00:40:06,100] except in the backward direction.
+- [00:40:07,120 - 00:40:09,960] What about a light ray moving outward?
+- [00:40:10,520 - 00:40:11,000] Well,
+- [00:40:11,000 - 00:40:11,920] that moves the same way,
+- [00:40:11,960 - 00:40:13,780] except at a 45 degree angle
+- [00:40:14,440 - 00:40:15,800] in the outward direction.
+- [00:40:16,600 - 00:40:17,560] More generally,
+- [00:40:17,560 - 00:40:19,080] we would draw a kind of cone.
+- [00:40:19,640 - 00:40:20,040] Now,
+- [00:40:20,040 - 00:40:23,420] I can't draw the full three dimensions plus time.
+- [00:40:23,560 - 00:40:24,600] That's too many dimensions for
+- [00:40:24,600 - 00:40:25,640] me to draw on the blackboard.
+- [00:40:26,480 - 00:40:28,800] But if we had only two dimensions,
+- [00:40:29,200 - 00:40:30,540] x squared plus y squared,
+- [00:40:30,540 - 00:40:31,160] instead of,
+- [00:40:31,160 - 00:40:32,560] let's forget the z squared here,
+- [00:40:33,180 - 00:40:36,020] we would find that the motion of light rays
+- [00:40:37,120 - 00:40:39,020] is such that in space-time,
+- [00:40:39,300 - 00:40:41,520] they move along
+- [00:40:45,700 - 00:40:46,860] the cone
+- [00:40:49,120 - 00:40:53,840] created by 45 degree light rays
+- [00:40:54,390 - 00:40:55,760] coming out of the origin there.
+- [00:40:55,960 - 00:40:57,320] That's called a light cone.
+- [00:40:57,320 - 00:41:01,020] A light cone is the set of points
+- [00:41:01,020 - 00:41:04,160] that a light ray can arrive at
+- [00:41:04,160 - 00:41:05,900] if it starts at the origin.
+- [00:41:06,080 - 00:41:07,620] That's the notion of a light cone.
+- [00:41:07,900 - 00:41:10,120] And this would be called the future light cone.
+- [00:41:10,400 - 00:41:13,320] The future light cone is all of the places
+- [00:41:13,320 - 00:41:14,780] that light can get to
+- [00:41:15,320 - 00:41:16,420] starting at the origin.
+- [00:41:16,900 - 00:41:19,520] There's also a thing called the past light cone.
+- [00:41:19,960 - 00:41:21,440] The past light cone
+- [00:41:22,700 - 00:41:25,540] is all of the places that can send
+- [00:41:25,540 - 00:41:27,000] the light ray to the origin.
+- [00:41:27,620 - 00:41:29,080] So the future light cone
+- [00:41:29,080 - 00:41:30,660] is all of the places that the origin
+- [00:41:30,660 - 00:41:31,960] can send the light ray to,
+- [00:41:32,080 - 00:41:33,700] and the past light cone
+- [00:41:33,700 - 00:41:35,380] is all of the places that can send
+- [00:41:35,380 - 00:41:36,500] the light ray to the origin.
+- [00:41:36,820 - 00:41:40,480] But they're just the cone turned over on its nose.
+- [00:41:41,000 - 00:41:43,200] The past light cone and the future light cone.
+- [00:41:43,660 - 00:41:44,880] And this is terminology.
+- [00:41:45,760 - 00:41:47,580] Terminology is often very helpful.
+- [00:41:49,720 - 00:41:50,840] But that's all it is,
+- [00:41:50,840 - 00:41:51,260] is terminology.
+- [00:41:52,160 - 00:41:52,640] Yeah?
+- [00:41:53,480 - 00:41:56,480] You said the fundamental invariance
+- [00:41:56,480 - 00:41:59,280] for these systems is
+- [00:41:59,280 - 00:42:01,020] the calc square equals t
+- [00:42:01,020 - 00:42:02,760] squared minus xy and z squared.
+- [00:42:03,180 - 00:42:04,940] There must be something equivalent
+- [00:42:04,940 - 00:42:06,340] for Newtonian mechanics,
+- [00:42:06,340 - 00:42:07,580] some invariant.
+- [00:42:07,620 - 00:42:08,220] What would that be?
+- [00:42:08,420 - 00:42:09,080] Just t.
+- [00:42:10,400 - 00:42:11,100] Just t.
+- [00:42:11,100 - 00:42:12,160] Everybody agrees
+- [00:42:12,160 - 00:42:15,820] about the time interval between two events.
+- [00:42:16,040 - 00:42:17,840] The time interval is just t.
+- [00:42:18,460 - 00:42:19,020] Right?
+- [00:42:19,020 - 00:42:20,100] That's a good point.
+- [00:42:23,460 - 00:42:24,200] All right,
+- [00:42:24,200 - 00:42:25,380] we're getting close to...
+- [00:42:29,380 - 00:42:32,600] Let's talk about the concept of four vector.
+- [00:42:35,280 - 00:42:36,420] The most primitive,
+- [00:42:36,420 - 00:42:39,780] the most basic example of a vector
+- [00:42:39,780 - 00:42:41,720] in ordinary three-dimensional space,
+- [00:42:41,980 - 00:42:44,640] and I am not talking about the kind of vectors
+- [00:42:44,640 - 00:42:45,980] we talked about last quarter.
+- [00:42:46,040 - 00:42:47,420] We're not talking about state vectors
+- [00:42:47,420 - 00:42:48,220] in quantum mechanics.
+- [00:42:48,640 - 00:42:51,680] We're talking about vectors in space.
+- [00:42:52,180 - 00:42:52,840] All right,
+- [00:42:52,840 - 00:42:54,600] the most basic notion,
+- [00:42:54,800 - 00:42:56,180] the example of a vector,
+- [00:42:56,180 - 00:43:03,740] is the interval between two points in space.
+- [00:43:04,140 - 00:43:05,460] Given two points,
+- [00:43:07,760 - 00:43:10,040] there's a vector which connects them.
+- [00:43:10,420 - 00:43:12,600] That vector could measure the...
+- [00:43:12,600 - 00:43:15,680] could have to do with how far somebody walked,
+- [00:43:15,820 - 00:43:16,740] or whatever.
+- [00:43:17,100 - 00:43:17,900] That's a vector.
+- [00:43:17,900 - 00:43:18,560] It has a direction.
+- [00:43:18,620 - 00:43:19,400] It has a magnitude.
+- [00:43:19,820 - 00:43:21,940] And if we wanted to,
+- [00:43:21,940 - 00:43:22,760] we could think of it
+- [00:43:22,760 - 00:43:25,340] as a vector beginning at the origin
+- [00:43:26,279 - 00:43:28,000] and ending up someplace else.
+- [00:43:28,340 - 00:43:29,840] It doesn't matter where it begins,
+- [00:43:30,899 - 00:43:32,360] but the vector...
+- [00:43:32,360 - 00:43:33,080] This is the vector.
+- [00:43:33,180 - 00:43:33,960] We can move it around.
+- [00:43:34,060 - 00:43:34,820] It's the same vector,
+- [00:43:34,940 - 00:43:36,660] but we can think of it as being a...
+- [00:43:38,799 - 00:43:40,640] an excursion starting at the origin
+- [00:43:40,640 - 00:43:42,660] and ending at some point x.
+- [00:43:43,080 - 00:43:44,300] And it has coordinates,
+- [00:43:44,300 - 00:43:45,000] in this case,
+- [00:43:45,000 - 00:43:45,220] x,
+- [00:43:45,220 - 00:43:45,480] y,
+- [00:43:45,480 - 00:43:45,840] and z,
+- [00:43:46,500 - 00:43:48,360] the location of the final point.
+- [00:43:48,520 - 00:43:50,140] Or we could call them xi,
+- [00:43:51,220 - 00:43:52,200] i being one,
+- [00:43:52,200 - 00:43:52,520] two,
+- [00:43:52,520 - 00:43:52,960] or three,
+- [00:43:52,960 - 00:43:54,600] representing x,
+- [00:43:54,600 - 00:43:54,840] y,
+- [00:43:54,840 - 00:43:55,200] and z.
+- [00:43:55,360 - 00:43:56,220] Three coordinates.
+- [00:43:56,560 - 00:43:59,960] xi would really stand for x,
+- [00:43:59,960 - 00:44:00,140] y,
+- [00:44:00,140 - 00:44:00,460] and z.
+- [00:44:01,400 - 00:44:02,520] Or x1,
+- [00:44:02,520 - 00:44:02,960] x2,
+- [00:44:02,960 - 00:44:03,540] and x3.
+- [00:44:07,900 - 00:44:12,480] Now we have another added component to worry about.
+- [00:44:13,100 - 00:44:14,930] Not only do we want
+- [00:44:14,930 - 00:44:16,760] to know where an event is,
+- [00:44:16,920 - 00:44:18,200] but we want to know
+- [00:44:18,200 - 00:44:19,480] at what time that event is.
+- [00:44:19,580 - 00:44:22,440] Let's suppose that we're measuring space and time
+- [00:44:22,440 - 00:44:23,720] relative to some origin.
+- [00:44:23,960 - 00:44:27,520] That means we have to add in another coordinate,
+- [00:44:27,520 - 00:44:27,840] t.
+- [00:44:30,480 - 00:44:31,680] In other words,
+- [00:44:31,680 - 00:44:34,380] the vector becomes a four-dimensional object
+- [00:44:34,380 - 00:44:37,880] with a time component and space components.
+- [00:44:38,580 - 00:44:40,760] The normal notation for it
+- [00:44:41,720 - 00:44:47,680] is to represent it two different ways.
+- [00:44:47,780 - 00:44:49,020] I'll tell you the two different ways.
+- [00:44:50,380 - 00:44:52,240] We can represent x,
+- [00:44:52,240 - 00:44:52,420] y,
+- [00:44:52,420 - 00:44:52,420] and z.
+- [00:44:52,440 - 00:44:52,460] We can represent x,
+- [00:44:52,460 - 00:44:52,460] y,
+- [00:44:52,460 - 00:44:54,120] and z by calling them x,
+- [00:44:54,120 - 00:44:54,620] mu.
+- [00:44:55,660 - 00:44:58,680] Mu goes over the four possibilities.
+- [00:44:59,540 - 00:45:00,060] Usually,
+- [00:45:00,060 - 00:45:04,500] it's normally one arranges them as t,
+- [00:45:04,500 - 00:45:05,080] x,
+- [00:45:05,080 - 00:45:05,400] y,
+- [00:45:05,400 - 00:45:05,780] and z.
+- [00:45:08,100 - 00:45:08,620] x,
+- [00:45:08,620 - 00:45:08,820] mu.
+- [00:45:09,040 - 00:45:10,760] And what does mu run over?
+- [00:45:11,500 - 00:45:12,760] What are the values of mu?
+- [00:45:14,140 - 00:45:16,000] Why did you say zero?
+- [00:45:16,460 - 00:45:17,800] Because everybody says zero.
+- [00:45:18,500 - 00:45:19,020] Yeah.
+- [00:45:19,500 - 00:45:20,580] Did you hear me say it?
+- [00:45:20,580 - 00:45:21,300] I didn't hear.
+- [00:45:21,360 - 00:45:22,020] I didn't know I said it.
+- [00:45:22,060 - 00:45:22,200] Okay.
+- [00:45:22,660 - 00:45:23,220] Right.
+- [00:45:23,380 - 00:45:24,880] For whatever reason,
+- [00:45:24,880 - 00:45:26,040] historically,
+- [00:45:26,940 - 00:45:29,420] t was not considered the first coordinate.
+- [00:45:29,540 - 00:45:31,520] x was considered the first coordinate.
+- [00:45:31,880 - 00:45:34,420] y was considered the second and z the third.
+- [00:45:34,500 - 00:45:36,640] You might have thought that
+- [00:45:36,640 - 00:45:38,780] time should be the fourth component.
+- [00:45:39,940 - 00:45:41,800] For whatever historical reason,
+- [00:45:41,980 - 00:45:44,400] time was thought of as the zeroth component.
+- [00:45:45,020 - 00:45:48,780] So this stands for x is zero,
+- [00:45:48,780 - 00:45:49,700] which is time.
+- [00:45:50,860 - 00:45:51,380] x1,
+- [00:45:51,380 - 00:45:52,460] which is x.
+- [00:45:53,160 - 00:45:53,680] x2,
+- [00:45:53,680 - 00:45:54,360] which is y.
+- [00:45:54,560 - 00:45:55,340] And x3,
+- [00:45:55,340 - 00:45:57,000] which is z.
+- [00:45:59,540 - 00:46:05,140] What about the space-time distance between these points?
+- [00:46:05,200 - 00:46:06,060] The proper time.
+- [00:46:06,360 - 00:46:08,020] That's t squared minus x squared.
+- [00:46:08,080 - 00:46:08,840] The square of it.
+- [00:46:08,940 - 00:46:09,640] The square of it.
+- [00:46:09,720 - 00:46:12,390] Tau squared is t squared minus x
+- [00:46:12,390 - 00:46:15,060] squared minus y squared minus z squared.
+- [00:46:15,540 - 00:46:18,050] But we can also write it
+- [00:46:18,050 - 00:46:20,560] as x naught squared minus x squared.
+- [00:46:20,560 - 00:46:23,480] x1 squared minus x2 squared and so forth.
+- [00:46:24,580 - 00:46:25,660] x2 squared,
+- [00:46:25,660 - 00:46:26,500] blah,
+- [00:46:26,500 - 00:46:26,700] blah,
+- [00:46:26,700 - 00:46:26,800] blah.
+- [00:46:30,780 - 00:46:32,620] So that's just notation.
+- [00:46:32,840 - 00:46:33,520] It's just a notation.
+- [00:46:33,620 - 00:46:34,540] Whenever you see a mu,
+- [00:46:34,760 - 00:46:37,180] that means the index runs over
+- [00:46:37,180 - 00:46:39,600] the four possibilities of space and time.
+- [00:46:40,100 - 00:46:41,580] Whenever you see an i,
+- [00:46:41,840 - 00:46:44,840] that means the index runs over only space.
+- [00:46:46,280 - 00:46:48,160] i stands for space
+- [00:46:48,160 - 00:46:50,540] and mu stands for space and time.
+- [00:46:53,559 - 00:46:56,549] Just as xi can be thought of
+- [00:46:56,549 - 00:46:59,540] as a very primitive version of a vector,
+- [00:46:59,640 - 00:47:00,200] not primitive,
+- [00:47:00,200 - 00:47:02,860] a very basic version of a vector in space,
+- [00:47:03,340 - 00:47:05,800] x mu with four components becomes
+- [00:47:05,800 - 00:47:08,260] the notion of a four vector.
+- [00:47:09,840 - 00:47:14,780] Just as vectors transform when you rotate coordinates,
+- [00:47:16,080 - 00:47:20,540] four vectors transform when you Lorentz transform them.
+- [00:47:20,540 - 00:47:23,200] When you go from a moving
+- [00:47:23,200 - 00:47:25,860] coordinate system to another moving coordinate system,
+- [00:47:26,380 - 00:47:29,590] then the x's transform exactly the way
+- [00:47:29,590 - 00:47:32,800] the Lorentz transformation tells you they transform.
+- [00:47:33,220 - 00:47:37,290] We could rewrite this as x1
+- [00:47:37,290 - 00:47:41,360] is x1 minus v x naught.
+- [00:47:43,420 - 00:47:44,580] x prime naught,
+- [00:47:44,580 - 00:47:47,080] x naught prime,
+- [00:47:47,420 - 00:47:48,880] is equal to
+- [00:47:50,620 - 00:47:53,000] x naught minus v x1,
+- [00:47:53,200 - 00:47:54,320] and so forth.
+- [00:47:55,060 - 00:47:57,080] There's no content to this,
+- [00:47:57,220 - 00:47:59,300] it's just a way of organizing
+- [00:47:59,300 - 00:48:01,380] the components of a four vector
+- [00:48:03,640 - 00:48:05,880] by calling them all by the same name
+- [00:48:07,560 - 00:48:09,420] and giving them an index mu.
+- [00:48:09,580 - 00:48:10,380] So we'll use that.
+- [00:48:10,480 - 00:48:14,440] We'll use that just to make formulas nice and simple.
+- [00:48:14,620 - 00:48:16,900] So they transform linearly?
+- [00:48:17,520 - 00:48:18,000] Yes,
+- [00:48:18,000 - 00:48:19,060] they transform linearly.
+- [00:48:19,060 - 00:48:20,300] So they could be,
+- [00:48:20,420 - 00:48:22,280] you could set them up
+- [00:48:22,280 - 00:48:24,140] and operate them with a matrix?
+- [00:48:24,340 - 00:48:24,720] Absolutely.
+- [00:48:25,700 - 00:48:26,320] Absolutely.
+- [00:48:26,320 - 00:48:28,000] You can read off from here a matrix.
+- [00:48:28,300 - 00:48:32,680] The matrix would be 1 minus v minus v 1.
+- [00:48:34,060 - 00:48:34,680] Absolutely.
+- [00:48:34,680 - 00:48:35,660] You can think of,
+- [00:48:35,660 - 00:48:38,200] you can think of Lorentz
+- [00:48:38,200 - 00:48:40,740] transformations having associated with them matrices,
+- [00:48:40,820 - 00:48:43,080] and you could write that
+- [00:48:44,180 - 00:48:45,260] x prime
+- [00:48:46,180 - 00:48:48,960] is equal to this times x.
+- [00:48:49,740 - 00:48:51,360] Matrix times column vector.
+- [00:48:51,700 - 00:48:54,080] The components of the column vector
+- [00:48:54,080 - 00:48:56,040] would be x's and t's.
+- [00:48:56,880 - 00:48:57,720] x's and t's.
+- [00:48:57,720 - 00:48:57,900] Yes,
+- [00:48:57,900 - 00:48:59,200] you certainly can use matrices,
+- [00:48:59,320 - 00:49:00,880] and I advise you to do so,
+- [00:49:00,960 - 00:49:02,860] because it's a good thing to do.
+- [00:49:04,940 - 00:49:05,420] Alright,
+- [00:49:05,420 - 00:49:05,700] now,
+- [00:49:05,820 - 00:49:08,960] let's talk about some other examples of four vectors.
+- [00:49:09,020 - 00:49:09,620] In particular,
+- [00:49:13,960 - 00:49:15,560] instead of talking about
+- [00:49:17,700 - 00:49:20,720] the components relative to an origin,
+- [00:49:21,260 - 00:49:22,860] let's just take a little interval.
+- [00:49:22,940 - 00:49:24,100] Let's just take a little
+- [00:49:25,260 - 00:49:25,800] interval.
+- [00:49:25,800 - 00:49:27,660] It could be an interval along a trajectory.
+- [00:49:28,480 - 00:49:30,340] We could have a trajectory.
+- [00:49:35,460 - 00:49:38,320] And we might want to consider along that trajectory
+- [00:49:38,320 - 00:49:40,280] a small interval.
+- [00:49:40,560 - 00:49:41,100] Now,
+- [00:49:41,100 - 00:49:41,760] when you hear small,
+- [00:49:41,760 - 00:49:42,680] think calculus.
+- [00:49:42,960 - 00:49:43,340] Eventually,
+- [00:49:43,340 - 00:49:45,440] we're going to be talking about a little differential.
+- [00:49:45,440 - 00:49:46,170] We're going to be talking about
+- [00:49:46,170 - 00:49:46,900] a little differential displacement along here.
+- [00:49:47,900 - 00:49:48,800] For the moment,
+- [00:49:48,800 - 00:49:50,620] let's just call it delta instead of d.
+- [00:49:51,840 - 00:49:52,360] So,
+- [00:49:52,360 - 00:49:54,220] this differential element here
+- [00:49:54,780 - 00:49:55,820] corresponds to,
+- [00:49:55,820 - 00:49:58,160] or not quite differential yet,
+- [00:49:58,220 - 00:49:59,680] some discrete distance,
+- [00:49:59,920 - 00:50:01,960] corresponds to a dx mu,
+- [00:50:02,220 - 00:50:03,800] or delta x mu.
+- [00:50:04,580 - 00:50:06,260] Delta x mu means
+- [00:50:07,460 - 00:50:09,520] the change in the coordinates,
+- [00:50:09,740 - 00:50:11,320] the change in the four coordinates
+- [00:50:11,320 - 00:50:12,790] in going from the tail of the
+- [00:50:12,790 - 00:50:14,260] vector to the beginning of the vector,
+- [00:50:14,260 - 00:50:18,060] and it's composed out of
+- [00:50:18,060 - 00:50:21,000] delta t and delta x,
+- [00:50:21,140 - 00:50:22,820] delta y and delta z.
+- [00:50:23,660 - 00:50:24,800] Delta x mu.
+- [00:50:26,960 - 00:50:28,780] What I want to do now
+- [00:50:28,780 - 00:50:30,600] is to introduce a notion of
+- [00:50:30,600 - 00:50:31,880] four velocity,
+- [00:50:32,280 - 00:50:34,160] four dimensional velocity,
+- [00:50:34,840 - 00:50:36,840] which is a little different
+- [00:50:36,840 - 00:50:39,700] than the normal notion of velocity.
+- [00:50:40,720 - 00:50:41,400] Velocity,
+- [00:50:41,400 - 00:50:42,200] in this case,
+- [00:50:42,320 - 00:50:44,240] this could be the trajectory of a particle.
+- [00:50:44,260 - 00:50:45,810] Let's take this to be the trajectory
+- [00:50:45,810 - 00:50:47,360] of a particle from here to here.
+- [00:50:48,900 - 00:50:51,540] And I'm interested in a notion
+- [00:50:52,020 - 00:50:56,380] of velocity at a particular instant over here.
+- [00:50:57,740 - 00:50:58,820] What do I do?
+- [00:50:59,080 - 00:51:01,100] If I were doing ordinary velocity,
+- [00:51:01,460 - 00:51:03,060] I would take a little delta x
+- [00:51:03,060 - 00:51:04,860] and divide it by a delta t,
+- [00:51:06,340 - 00:51:07,760] and then take the limit,
+- [00:51:07,960 - 00:51:11,020] and that would define for me ordinary velocity.
+- [00:51:11,840 - 00:51:14,020] That velocity has three components.
+- [00:51:14,260 - 00:51:16,400] The x component of velocity,
+- [00:51:16,680 - 00:51:18,020] the y component of velocity,
+- [00:51:18,080 - 00:51:19,180] and the z component of velocity.
+- [00:51:19,400 - 00:51:22,120] There is no fourth component of that ordinary velocity.
+- [00:51:23,600 - 00:51:25,860] I'm going to introduce now a notion of
+- [00:51:25,860 - 00:51:27,140] four dimensional velocity,
+- [00:51:27,580 - 00:51:28,880] and we're going to do that
+- [00:51:28,880 - 00:51:30,960] by taking the delta x mu,
+- [00:51:32,060 - 00:51:35,580] and instead of dividing it by delta t,
+- [00:51:36,820 - 00:51:39,220] we're going to divide it by
+- [00:51:39,220 - 00:51:43,940] the invariant distance between these two points.
+- [00:51:43,940 - 00:51:45,880] Let's call it delta tau.
+- [00:51:49,880 - 00:51:56,280] Delta tau is defined so that its square
+- [00:51:57,500 - 00:52:00,980] is equal to delta t squared
+- [00:52:03,320 - 00:52:06,580] minus delta xi delta xi,
+- [00:52:06,940 - 00:52:07,640] minus,
+- [00:52:07,640 - 00:52:08,400] you know,
+- [00:52:08,400 - 00:52:09,340] the sums of the squares
+- [00:52:09,810 - 00:52:11,000] of the delta x's.
+- [00:52:14,020 - 00:52:15,120] Delta x squared,
+- [00:52:15,120 - 00:52:16,080] delta y squared,
+- [00:52:16,140 - 00:52:16,980] and delta z squared.
+- [00:52:21,340 - 00:52:22,400] In other words,
+- [00:52:22,400 - 00:52:25,020] it's the invariant space-time distance
+- [00:52:25,020 - 00:52:26,660] between this point and that point.
+- [00:52:26,980 - 00:52:29,000] We take the square root of this,
+- [00:52:29,080 - 00:52:30,460] and it gives us delta tau,
+- [00:52:30,660 - 00:52:34,360] and that is called the four velocity.
+- [00:52:36,200 - 00:52:38,820] It's labeled by a u instead of a v,
+- [00:52:39,020 - 00:52:41,040] and it has an index mu,
+- [00:52:41,220 - 00:52:43,780] so it runs from zero to three.
+- [00:52:43,940 - 00:52:45,940] Four components.
+- [00:52:47,280 - 00:52:47,760] Now,
+- [00:52:47,760 - 00:52:49,420] how does this thing relate
+- [00:52:49,420 - 00:52:50,960] to the ordinary velocity?
+- [00:52:51,300 - 00:52:51,580] We're getting,
+- [00:52:51,580 - 00:52:53,020] we should probably go
+- [00:52:53,020 - 00:52:53,820] if we want to get seats,
+- [00:52:53,820 - 00:52:54,420] but...
+- [00:52:58,840 - 00:53:00,060] We'll continue next time.
+- [00:53:00,100 - 00:53:01,020] I'll tell you where we're going.
+- [00:53:01,500 - 00:53:04,980] We're going toward a theory
+- [00:53:04,980 - 00:53:06,900] of the motion of particles.
+- [00:53:08,600 - 00:53:10,660] To have a theory of the motion of particles,
+- [00:53:10,760 - 00:53:12,600] we have to have notions such as velocity,
+- [00:53:13,240 - 00:53:13,720] position,
+- [00:53:13,720 - 00:53:13,920] and velocity.
+- [00:53:13,940 - 00:53:13,980] And the motion,
+- [00:53:13,980 - 00:53:14,340] of course,
+- [00:53:15,720 - 00:53:16,200] momentum,
+- [00:53:16,200 - 00:53:16,680] energy,
+- [00:53:16,680 - 00:53:17,880] kinetic energy,
+- [00:53:17,880 - 00:53:18,320] whatever,
+- [00:53:18,580 - 00:53:20,020] we're moving toward a,
+- [00:53:20,180 - 00:53:21,220] first of all,
+- [00:53:21,220 - 00:53:22,360] just the motion of particles,
+- [00:53:22,520 - 00:53:24,300] and then toward a dynamics
+- [00:53:24,300 - 00:53:25,840] of how particles move.
+- [00:53:27,279 - 00:53:28,240] A generalization,
+- [00:53:28,240 - 00:53:28,880] if you like,
+- [00:53:28,980 - 00:53:29,740] of F equals ma,
+- [00:53:29,980 - 00:53:31,900] we'll have a notion of acceleration,
+- [00:53:32,440 - 00:53:35,300] all the things that Newton had,
+- [00:53:35,500 - 00:53:38,000] except the relativistic generalizations of them.
+- [00:53:38,180 - 00:53:40,180] And they will be in terms of four vectors.
+- [00:53:41,040 - 00:53:41,520] Okay,
+- [00:53:41,520 - 00:53:42,560] let's see if we can grab a,
+- [00:53:43,040 - 00:53:43,540] let's see,
+- [00:53:43,540 - 00:53:45,040] I have 10 to 8,
+- [00:53:45,120 - 00:53:45,760] so who's right?
+- [00:53:49,320 - 00:53:50,400] That clock's right,
+- [00:53:50,400 - 00:53:50,780] we better,
+- [00:53:51,480 - 00:53:52,860] get yourself a good seat.
+- [00:53:55,200 - 00:53:55,980] For more,
+- [00:53:55,980 - 00:53:57,240] please visit us at
+- [00:53:57,240 - 00:53:58,400] stanford.edu.
