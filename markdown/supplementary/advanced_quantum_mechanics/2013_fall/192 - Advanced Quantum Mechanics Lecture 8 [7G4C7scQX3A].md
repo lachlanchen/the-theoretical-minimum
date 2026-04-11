@@ -1,0 +1,2868 @@
+# Transcript
+
+Source: supplementary/advanced_quantum_mechanics/2013_fall/192 - Advanced Quantum Mechanics Lecture 8 [7G4C7scQX3A].mkv
+
+- [00:00:04,919 - 00:00:06,120] Stanford University.
+- [00:00:09,000 - 00:00:11,200] This goes back to particle physics.
+- [00:00:11,300 - 00:00:14,520] It's a bit off the subject of the class,
+- [00:00:14,520 - 00:00:14,740] but
+- [00:00:14,740 - 00:00:16,840] there's evidence that the neutrinos
+- [00:00:16,840 - 00:00:18,940] have mass and that they mix.
+- [00:00:19,280 - 00:00:19,780] Mm-hm.
+- [00:00:19,820 - 00:00:21,500] In the particle physics class,
+- [00:00:21,500 - 00:00:22,680] we didn't address mixing.
+- [00:00:23,260 - 00:00:28,240] And I wanted to ask if the neutrinos,
+- [00:00:28,240 - 00:00:29,000] if they have mass,
+- [00:00:29,000 - 00:00:30,900] must they have all the same mass?
+- [00:00:32,320 - 00:00:32,920] No,
+- [00:00:32,920 - 00:00:34,080] they don't have all the same mass.
+- [00:00:34,360 - 00:00:37,420] So then the question would be how
+- [00:00:37,420 - 00:00:40,480] on earth can you mix and conserve energy?
+- [00:00:42,080 - 00:00:42,680] Well,
+- [00:00:42,680 - 00:00:43,260] okay,
+- [00:00:43,260 - 00:00:48,760] what it really means is that the mass is energy,
+- [00:00:48,760 - 00:00:49,040] right?
+- [00:00:49,340 - 00:00:49,940] Okay,
+- [00:00:49,940 - 00:00:55,519] the eigenstates of energy are linear superpositions
+- [00:00:56,500 - 00:00:58,980] of the eigenstates of something else.
+- [00:00:59,000 - 00:01:03,300] That something else is called the type of neutrino.
+- [00:01:03,900 - 00:01:10,100] So the eigenstates of energy don't mix.
+- [00:01:10,840 - 00:01:13,780] The eigenstates of energy do not mix with each other.
+- [00:01:17,039 - 00:01:19,599] And it's just that the
+- [00:01:19,599 - 00:01:22,160] eigenstates themselves are mixtures of different,
+- [00:01:22,160 - 00:01:23,840] different states.
+- [00:01:24,240 - 00:01:25,220] There are many,
+- [00:01:25,220 - 00:01:28,980] many examples like this in quantum physics.
+- [00:01:29,000 - 00:01:29,540] Mechanics.
+- [00:01:32,320 - 00:01:35,560] A simple example is if you
+- [00:01:35,560 - 00:01:38,800] have a potential which looks like this.
+- [00:01:40,420 - 00:01:43,940] This is the phenomenon of mixing in a particular context.
+- [00:01:46,180 - 00:01:48,110] Supposing you have a particle that moves
+- [00:01:48,110 - 00:01:50,040] in a potential that looks like this.
+- [00:01:50,860 - 00:01:51,660] All right,
+- [00:01:51,660 - 00:01:54,700] so the particle can be on this side.
+- [00:01:54,960 - 00:01:56,680] And let's suppose for the sake
+- [00:01:56,680 - 00:01:58,400] of argument that the barrier in between
+- [00:01:58,400 - 00:02:01,480] the two minima is pretty large.
+- [00:02:02,360 - 00:02:05,800] Large enough that that's to a good approximation,
+- [00:02:06,620 - 00:02:09,070] we might want to say that the
+- [00:02:09,070 - 00:02:11,520] particle is either trapped on this side or
+- [00:02:11,520 - 00:02:12,680] trapped on this side,
+- [00:02:12,680 - 00:02:13,980] okay?
+- [00:02:14,300 - 00:02:15,840] And can't get through.
+- [00:02:16,720 - 00:02:17,280] Now,
+- [00:02:17,280 - 00:02:17,500] of course,
+- [00:02:17,500 - 00:02:18,440] quantum mechanically,
+- [00:02:20,400 - 00:02:22,180] there's a little bit of
+- [00:02:22,180 - 00:02:23,960] possibility of leaking through the barrier.
+- [00:02:24,100 - 00:02:25,180] It's called tunneling.
+- [00:02:26,260 - 00:02:28,160] But supposing we ignore that.
+- [00:02:28,180 - 00:02:28,380] The barrier.
+- [00:02:28,380 - 00:02:28,820] That's what I begin with.
+- [00:02:29,420 - 00:02:33,320] Then we could just take the left hand side here.
+- [00:02:33,720 - 00:02:36,100] Treat it as though the right hand
+- [00:02:36,100 - 00:02:38,480] side didn't exist as though there was an
+- [00:02:38,480 - 00:02:41,680] infinite barrier preventing the particle from going through.
+- [00:02:42,120 - 00:02:43,880] You could think of this as a brick wall.
+- [00:02:44,920 - 00:02:46,160] This is a brick wall.
+- [00:02:47,280 - 00:02:49,280] And ordinary particles don't go
+- [00:02:49,280 - 00:02:51,280] through brick walls very easily.
+- [00:02:51,560 - 00:02:53,440] So it's a good approximation just
+- [00:02:53,440 - 00:02:55,320] to pretend this is infinitely high.
+- [00:02:55,640 - 00:02:57,200] And in that case you would ask,
+- [00:02:57,200 - 00:02:58,300] what is the ground state?
+- [00:02:59,100 - 00:03:01,640] What is the ground state wave function
+- [00:03:01,640 - 00:03:04,180] and ground state energy of the system?
+- [00:03:04,320 - 00:03:04,720] And you might say,
+- [00:03:04,720 - 00:03:04,860] well,
+- [00:03:04,860 - 00:03:05,200] okay,
+- [00:03:05,200 - 00:03:06,690] let's just forget the fact
+- [00:03:06,690 - 00:03:08,180] that this part is over here.
+- [00:03:08,540 - 00:03:10,460] The ground state looks like that.
+- [00:03:10,480 - 00:03:11,440] It's some wave function.
+- [00:03:11,520 - 00:03:12,500] It has no nodes,
+- [00:03:12,500 - 00:03:14,060] no zeros,
+- [00:03:14,060 - 00:03:15,940] as smooth as possible,
+- [00:03:15,940 - 00:03:17,540] and it has some energy,
+- [00:03:17,540 - 00:03:18,560] E.
+- [00:03:23,800 - 00:03:24,860] But wait a minute.
+- [00:03:25,120 - 00:03:27,340] If this potential is exactly symmetric,
+- [00:03:28,300 - 00:03:30,720] then there must be another ground state on this side.
+- [00:03:32,660 - 00:03:34,460] Another ground state on that side,
+- [00:03:34,460 - 00:03:36,920] which has exactly the same energy.
+- [00:03:37,600 - 00:03:38,540] Same energy,
+- [00:03:38,540 - 00:03:39,940] same profile,
+- [00:03:39,940 - 00:03:42,060] except it's on the other side of the barrier,
+- [00:03:42,220 - 00:03:43,880] and in every way is identical.
+- [00:03:44,380 - 00:03:47,320] These are two distinct states which
+- [00:03:47,320 - 00:03:50,260] apparently have exactly the same energy,
+- [00:03:50,260 - 00:03:51,060] but they don't.
+- [00:03:51,260 - 00:03:52,120] They don't.
+- [00:03:52,120 - 00:03:55,200] And the reason is that these wave
+- [00:03:55,200 - 00:03:58,280] functions are not exactly eigenstates of the earth.
+- [00:03:58,280 - 00:03:58,460] They're not exactly the same energy.
+- [00:03:58,970 - 00:03:59,980] Now here's what we know.
+- [00:04:00,720 - 00:04:03,140] We know that for a potential like this,
+- [00:04:03,140 - 00:04:07,380] the eigenstates of energy are either symmetric
+- [00:04:07,380 - 00:04:09,160] or anti-symmetric functions.
+- [00:04:10,000 - 00:04:12,700] This is a theorem about quantum mechanics.
+- [00:04:13,040 - 00:04:15,280] It's a theorem about differential equations.
+- [00:04:16,519 - 00:04:18,420] If the potential is symmetric,
+- [00:04:18,420 - 00:04:20,320] then the wave functions,
+- [00:04:20,320 - 00:04:23,060] which are the energy eigenstates,
+- [00:04:23,160 - 00:04:25,160] are either symmetric or anti-symmetric.
+- [00:04:25,420 - 00:04:26,940] What does anti-symmetric mean?
+- [00:04:27,220 - 00:04:27,740] It means that the wave
+- [00:04:27,740 - 00:04:28,260] functions are either symmetric or anti-symmetric.
+- [00:04:28,260 - 00:04:30,390] It means that when you cross
+- [00:04:30,390 - 00:04:32,520] over the dividing barrier between here,
+- [00:04:32,520 - 00:04:33,460] it goes from positive
+- [00:04:33,460 - 00:04:33,960] to negative.
+- [00:04:35,020 - 00:04:35,580] Okay,
+- [00:04:35,580 - 00:04:36,950] so let's see if we can
+- [00:04:36,950 - 00:04:38,320] understand better what's really going on.
+- [00:04:40,360 - 00:04:43,020] Each one of these wave functions to
+- [00:04:43,020 - 00:04:45,680] begin with is neither symmetric nor anti-symmetric.
+- [00:04:46,180 - 00:04:47,420] There's one over here,
+- [00:04:47,420 - 00:04:49,200] and there's another one over here,
+- [00:04:49,200 - 00:04:50,600] and it's neither symmetric.
+- [00:04:50,840 - 00:04:51,960] This doesn't look very symmetric.
+- [00:04:52,200 - 00:04:55,220] Symmetric means that it is invariant with
+- [00:04:55,220 - 00:04:58,240] respect to the energy of the earth.
+- [00:04:58,240 - 00:05:00,860] It's not a reflection about the origin here.
+- [00:05:01,720 - 00:05:04,400] Symmetric would mean that if you reflect it,
+- [00:05:04,400 - 00:05:05,520] it stays the same.
+- [00:05:05,700 - 00:05:05,800] Well,
+- [00:05:05,800 - 00:05:07,000] this is certainly not symmetric.
+- [00:05:07,260 - 00:05:08,020] If you reflect it,
+- [00:05:08,020 - 00:05:09,200] you get a wave function over here.
+- [00:05:11,540 - 00:05:14,320] So this is neither symmetric nor anti-symmetric.
+- [00:05:14,460 - 00:05:15,600] Neither is the other one.
+- [00:05:17,500 - 00:05:21,080] But you can make symmetric and anti-symmetric combinations.
+- [00:05:22,200 - 00:05:23,140] For example,
+- [00:05:23,140 - 00:05:26,120] if I take a wave function,
+- [00:05:26,120 - 00:05:28,220] which looks very much almost identical,
+- [00:05:28,220 - 00:05:28,220] and I take
+- [00:05:28,240 - 00:05:29,160] a wave function exactly like that,
+- [00:05:29,160 - 00:05:32,880] gets very small in between where the potential energy
+- [00:05:32,880 - 00:05:33,760] is very large,
+- [00:05:33,760 - 00:05:35,060] can't get into there,
+- [00:05:35,060 - 00:05:35,720] or it can,
+- [00:05:35,720 - 00:05:36,960] but only a tiny little bit,
+- [00:05:36,960 - 00:05:38,040] and then
+- [00:05:38,040 - 00:05:40,040] continue it symmetrically on the other side,
+- [00:05:40,040 - 00:05:41,160] that doesn't look very symmetric,
+- [00:05:41,160 - 00:05:41,760] I apologize.
+- [00:05:43,050 - 00:05:44,680] But it's supposed to be symmetric.
+- [00:05:45,939 - 00:05:51,339] Then this wave function would have a slightly
+- [00:05:51,339 - 00:05:56,740] lower energy than either a wave function restricted
+- [00:05:56,740 - 00:05:58,220] to this side or to this side.
+- [00:05:58,220 - 00:06:01,380] You can lower the energy.
+- [00:06:01,520 - 00:06:03,180] Now how much would lower the energy?
+- [00:06:03,400 - 00:06:04,300] A tiny,
+- [00:06:04,300 - 00:06:04,980] tiny amount,
+- [00:06:04,980 - 00:06:06,640] an exponentially small amount.
+- [00:06:07,040 - 00:06:11,410] But the energy of the symmetric wave function
+- [00:06:11,410 - 00:06:15,780] would be slightly less than the energy of
+- [00:06:15,780 - 00:06:16,800] either one of these.
+- [00:06:19,340 - 00:06:20,560] That's the first state.
+- [00:06:20,860 - 00:06:21,980] The ground state,
+- [00:06:21,980 - 00:06:23,060] the true ground state,
+- [00:06:23,060 - 00:06:26,180] the true energy eigenstate is this combination
+- [00:06:26,180 - 00:06:26,760] here.
+- [00:06:26,760 - 00:06:32,060] The next excited state looks like this.
+- [00:06:33,680 - 00:06:35,980] It looks almost exactly the same.
+- [00:06:36,080 - 00:06:36,160] Oh,
+- [00:06:36,160 - 00:06:36,720] incidentally,
+- [00:06:36,720 - 00:06:39,320] remember that the sine of the
+- [00:06:39,320 - 00:06:41,920] wave function is immaterial to anything.
+- [00:06:42,260 - 00:06:44,090] If you have a wave function
+- [00:06:44,090 - 00:06:45,920] and it's an eigenstate of some operator,
+- [00:06:45,920 - 00:06:48,220] if you change the sine of
+- [00:06:48,220 - 00:06:48,920] the wave function,
+- [00:06:48,920 - 00:06:52,160] it's still an eigenvector of the same quantity.
+- [00:06:52,900 - 00:06:56,740] The sine of the wave function doesn't contain anything.
+- [00:06:56,740 - 00:06:57,420] It doesn't contain any real information.
+- [00:07:00,960 - 00:07:03,460] So what is the first excited state?
+- [00:07:03,780 - 00:07:05,770] The theorem is that the first
+- [00:07:05,770 - 00:07:07,760] excited state always has one node.
+- [00:07:09,319 - 00:07:12,260] Given the symmetry of the problem and so forth,
+- [00:07:12,260 - 00:07:13,160] the only node,
+- [00:07:13,160 - 00:07:14,340] everybody know what a node is?
+- [00:07:15,780 - 00:07:17,660] It means a place where the wave function is zero.
+- [00:07:19,900 - 00:07:21,700] If it's antisymmetric,
+- [00:07:21,700 - 00:07:22,880] it surely has a node.
+- [00:07:23,100 - 00:07:25,160] It can't be antisymmetric and not have a node.
+- [00:07:25,640 - 00:07:26,720] And if...what does I mean?
+- [00:07:26,720 - 00:07:27,580] the wave function look like?
+- [00:07:27,580 - 00:07:31,500] It looks like almost exactly the same thing on
+- [00:07:31,500 - 00:07:32,000] this side,
+- [00:07:32,000 - 00:07:35,440] likewise on this side except that it's negative,
+- [00:07:35,440 - 00:07:41,120] like that.
+- [00:07:41,120 - 00:07:42,340] So over the
+- [00:07:42,340 - 00:07:44,880] region where the wave function is appreciable,
+- [00:07:44,880 - 00:07:47,340] it looks exactly the same on
+- [00:07:47,340 - 00:07:47,840] this side,
+- [00:07:47,840 - 00:07:49,850] and on the right-hand side it
+- [00:07:49,850 - 00:07:51,860] looks exactly the same except that it
+- [00:07:51,860 - 00:07:52,680] that's negative.
+- [00:07:52,680 - 00:07:56,810] This energy is ever so slightly
+- [00:07:56,810 - 00:08:00,940] larger than the energy of just
+- [00:08:00,940 - 00:08:03,490] one of these waves if it
+- [00:08:03,490 - 00:08:06,040] were constrained to live on one side.
+- [00:08:06,040 - 00:08:07,580] So what
+- [00:08:07,580 - 00:08:11,650] happens is originally before we took
+- [00:08:11,650 - 00:08:15,720] into account the fact that the barrier
+- [00:08:15,720 - 00:08:17,300] is not infinitely high,
+- [00:08:17,300 - 00:08:21,600] before we took that into account we basically had
+- [00:08:21,600 - 00:08:21,840] infinite waves.
+- [00:08:21,840 - 00:08:22,740] two energy levels,
+- [00:08:22,740 - 00:08:24,620] let's draw energy here,
+- [00:08:24,900 - 00:08:26,420] two energy levels,
+- [00:08:26,420 - 00:08:27,460] the one on the left
+- [00:08:27,460 - 00:08:28,500] and the one on the right,
+- [00:08:28,720 - 00:08:31,400] and they were at exactly the same energy,
+- [00:08:31,960 - 00:08:32,640] but not quite,
+- [00:08:32,640 - 00:08:33,140] of course.
+- [00:08:35,580 - 00:08:37,240] Now we took into account
+- [00:08:38,559 - 00:08:40,649] the fact that the wave functions can
+- [00:08:40,649 - 00:08:42,740] leak through the barrier a little bit.
+- [00:08:44,080 - 00:08:45,620] That's just the fact that it
+- [00:08:45,620 - 00:08:47,160] doesn't quite go to zero here,
+- [00:08:47,160 - 00:08:48,160] it's almost zero,
+- [00:08:48,260 - 00:08:49,140] very close to zero,
+- [00:08:49,140 - 00:08:49,720] but not quite.
+- [00:08:49,720 - 00:08:52,210] The effect of that is to
+- [00:08:52,210 - 00:08:54,700] split these two energies a little bit.
+- [00:08:56,240 - 00:08:57,880] It splits the two energies,
+- [00:08:57,880 - 00:09:01,000] but gives you wave functions which are not
+- [00:09:02,319 - 00:09:05,260] like the original one-sided wave functions.
+- [00:09:05,660 - 00:09:07,420] The one-sided wave functions,
+- [00:09:07,420 - 00:09:08,820] which would have been
+- [00:09:09,840 - 00:09:11,810] what you would have if you
+- [00:09:11,810 - 00:09:13,780] really had an infinite barrier in between,
+- [00:09:14,120 - 00:09:15,300] get mixed.
+- [00:09:15,660 - 00:09:19,180] They get mixed from left-sided and right-sided
+- [00:09:19,180 - 00:09:21,470] to left-sided plus right-sided
+- [00:09:21,470 - 00:09:23,760] and left-sided minus right-sided.
+- [00:09:25,380 - 00:09:26,940] Basically that's what's going on.
+- [00:09:27,060 - 00:09:28,520] You have two states,
+- [00:09:28,520 - 00:09:31,360] the left side and the right side.
+- [00:09:32,380 - 00:09:35,080] Neither one is exactly an energy eigenstate,
+- [00:09:35,240 - 00:09:37,060] and the real energy eigenstates are
+- [00:09:37,060 - 00:09:38,880] mixtures of the two of them.
+- [00:09:43,600 - 00:09:45,440] The mixtures of the two of them,
+- [00:09:45,440 - 00:09:48,120] with slightly different energy,
+- [00:09:49,300 - 00:09:49,700] are the ones that are not right.
+- [00:09:50,180 - 00:09:54,730] What's the consequence of the fact
+- [00:09:54,730 - 00:09:59,280] that the wave functions are these mixtures?
+- [00:09:59,880 - 00:10:01,600] It's neither left nor right,
+- [00:10:01,600 - 00:10:04,300] but one over the square root of two left
+- [00:10:04,300 - 00:10:06,040] plus one over the square root of two right,
+- [00:10:06,440 - 00:10:08,180] and one over the square root of two left
+- [00:10:08,180 - 00:10:09,920] minus one over the square root of two right.
+- [00:10:10,740 - 00:10:13,420] Those are the two eigenstates of the energy.
+- [00:10:15,640 - 00:10:16,040] Okay.
+- [00:10:16,220 - 00:10:16,620] So.
+- [00:10:16,620 - 00:10:17,360] Now,
+- [00:10:17,360 - 00:10:20,950] let's try to find out
+- [00:10:20,950 - 00:10:24,540] what would happen if we started,
+- [00:10:25,800 - 00:10:27,420] if we put an electron,
+- [00:10:27,420 - 00:10:28,040] an electron,
+- [00:10:28,040 - 00:10:28,460] a particle,
+- [00:10:29,040 - 00:10:30,980] if we put an electron on the right hand,
+- [00:10:30,980 - 00:10:31,960] on the left hand side.
+- [00:10:33,000 - 00:10:35,220] We start with an electron on the left hand side.
+- [00:10:35,400 - 00:10:36,200] What happens?
+- [00:10:36,660 - 00:10:37,680] How does it evolve?
+- [00:10:38,160 - 00:10:39,220] So we can work this out.
+- [00:10:39,340 - 00:10:42,000] Let's say we have two wave functions.
+- [00:10:42,660 - 00:10:46,020] One of them is psi left plus psi right.
+- [00:10:52,520 - 00:10:55,140] And this is an eigenstate
+- [00:10:55,140 - 00:10:57,760] of energy with slightly less energy.
+- [00:10:58,960 - 00:11:02,900] Let's say the energy of this is E1.
+- [00:11:05,300 - 00:11:08,360] E1 is ever so slightly less than the
+- [00:11:08,360 - 00:11:11,420] energy if you couldn't get through the barrier.
+- [00:11:11,840 - 00:11:13,020] And then you have,
+- [00:11:13,020 - 00:11:13,680] that's the,
+- [00:11:13,680 - 00:11:14,060] that's,
+- [00:11:14,060 - 00:11:14,900] that's the,
+- [00:11:14,900 - 00:11:15,320] uh...
+- [00:11:16,620 - 00:11:18,540] Let's call it E1 minus epsilon.
+- [00:11:20,020 - 00:11:21,120] In other words,
+- [00:11:21,120 - 00:11:24,120] when the two wave functions mix,
+- [00:11:24,800 - 00:11:27,460] the energy is lowered for the symmetric state.
+- [00:11:28,120 - 00:11:30,060] And for the anti-symmetric state,
+- [00:11:30,060 - 00:11:31,680] there should be a square root of two here.
+- [00:11:32,860 - 00:11:35,210] And then we have psi left minus
+- [00:11:35,210 - 00:11:37,560] psi right over square root of two.
+- [00:11:38,560 - 00:11:44,620] And that has an energy E1 plus epsilon.
+- [00:11:45,240 - 00:11:46,600] It gets shifted up by one.
+- [00:11:46,620 - 00:11:47,140] It gets shifted up a little bit.
+- [00:11:48,880 - 00:11:49,360] Okay?
+- [00:11:49,660 - 00:11:50,140] Now,
+- [00:11:50,140 - 00:11:53,520] each one of these is an eigenstate of the energy.
+- [00:11:54,060 - 00:11:55,660] That means that if you
+- [00:11:55,660 - 00:11:57,260] were to follow its time dependence,
+- [00:11:57,260 - 00:11:58,940] it would...
+- [00:12:02,100 - 00:12:04,120] If you were to follow its time dependence,
+- [00:12:04,120 - 00:12:06,100] if you were to solve the Schrodinger,
+- [00:12:06,140 - 00:12:07,880] the time-dependent Schrodinger equation,
+- [00:12:07,880 - 00:12:10,420] what would be the time dependence of this one?
+- [00:12:11,960 - 00:12:12,960] E to the i.
+- [00:12:14,200 - 00:12:15,460] E to the i.
+- [00:12:15,560 - 00:12:15,800] E to the i.
+- [00:12:19,540 - 00:12:22,580] E1 minus epsilon t,
+- [00:12:22,580 - 00:12:23,260] right?
+- [00:12:24,060 - 00:12:24,780] Okay.
+- [00:12:25,400 - 00:12:25,760] Now,
+- [00:12:25,760 - 00:12:28,180] what about this one?
+- [00:12:30,160 - 00:12:33,270] This one has E to
+- [00:12:33,270 - 00:12:36,380] the i E1 plus epsilon t.
+- [00:12:41,220 - 00:12:41,940] Okay,
+- [00:12:41,940 - 00:12:45,060] now let's start with psi left.
+- [00:12:45,060 - 00:12:45,520] Well,
+- [00:12:45,520 - 00:12:46,300] let's call this...
+- [00:12:46,300 - 00:12:47,140] Let's give this a name.
+- [00:12:47,260 - 00:12:48,360] Let's call this psi plus,
+- [00:12:48,360 - 00:12:51,300] and let's call this psi minus.
+- [00:12:53,280 - 00:12:55,080] Psi plus and psi minus.
+- [00:12:56,400 - 00:12:57,880] But now I'm interested not
+- [00:12:57,880 - 00:12:59,360] in psi plus plus psi minus.
+- [00:12:59,460 - 00:13:01,560] I know exactly what happens to either of those.
+- [00:13:02,080 - 00:13:04,000] But I'm interested in what happens
+- [00:13:04,000 - 00:13:05,920] if I start with pure psi left.
+- [00:13:06,860 - 00:13:09,350] Somebody just plopped a particle
+- [00:13:09,350 - 00:13:11,840] into the left-hand well here.
+- [00:13:12,520 - 00:13:13,520] How does it evolve?
+- [00:13:13,520 - 00:13:16,460] So that means that at time t equals 0,
+- [00:13:16,460 - 00:13:18,920] we start with just psi left.
+- [00:13:19,160 - 00:13:20,460] At t equals 0,
+- [00:13:20,460 - 00:13:27,580] we start with just psi left.
+- [00:13:27,720 - 00:13:30,500] But psi left is equal...
+- [00:13:30,500 - 00:13:32,100] This is at time t equals 0,
+- [00:13:32,100 - 00:13:33,680] so we can set the t is equal to 0.
+- [00:13:34,240 - 00:13:38,420] That's equal to psi plus plus psi minus
+- [00:13:41,840 - 00:13:43,460] over square root of 2.
+- [00:13:44,760 - 00:13:47,220] We get that just by adding these two.
+- [00:13:47,380 - 00:13:48,500] The psi rights cancel,
+- [00:13:48,500 - 00:13:51,340] and if we're careful about it,
+- [00:13:51,380 - 00:13:52,270] we'll find there's a 1
+- [00:13:52,270 - 00:13:53,160] over square root of 2 there.
+- [00:13:54,760 - 00:13:57,140] So that's the initial state...
+- [00:13:57,140 - 00:13:57,620] Sorry,
+- [00:13:57,620 - 00:13:59,120] psi minus.
+- [00:14:01,540 - 00:14:03,990] Psi plus plus psi minus over
+- [00:14:03,990 - 00:14:06,440] square root of 2 is psi left.
+- [00:14:06,960 - 00:14:08,400] So this is the initial state.
+- [00:14:08,420 - 00:14:10,660] But how does it evolve?
+- [00:14:11,180 - 00:14:12,880] What happens to it with time?
+- [00:14:13,320 - 00:14:14,380] With time,
+- [00:14:14,380 - 00:14:17,060] each one of these picks up its own phase.
+- [00:14:17,720 - 00:14:19,360] So after a time t,
+- [00:14:19,360 - 00:14:22,260] the wave function is no longer just psi left.
+- [00:14:22,540 - 00:14:23,780] Let's write it down what it is.
+- [00:14:23,880 - 00:14:27,730] It's psi plus times e to
+- [00:14:27,730 - 00:14:31,580] the i e1 minus epsilon t.
+- [00:14:32,720 - 00:14:34,400] That's what happens to psi 1.
+- [00:14:35,140 - 00:14:36,920] Or psi plus,
+- [00:14:36,920 - 00:14:37,700] excuse me.
+- [00:14:37,740 - 00:14:38,400] That's what happens to psi 2.
+- [00:14:38,420 - 00:14:38,720] That's what happens to psi plus.
+- [00:14:39,280 - 00:14:41,180] And what happens to psi minus?
+- [00:14:41,480 - 00:14:50,280] That's plus psi minus e to the minus i e1.
+- [00:14:52,180 - 00:14:53,340] I guess it's plus...
+- [00:14:53,340 - 00:14:53,700] No,
+- [00:14:53,700 - 00:14:59,120] it's e to the plus i e1 plus epsilon t.
+- [00:15:01,200 - 00:15:03,440] Did I get the sine of the exponent right?
+- [00:15:04,160 - 00:15:05,180] I did not.
+- [00:15:05,920 - 00:15:07,360] It should be minus.
+- [00:15:08,660 - 00:15:09,940] It doesn't matter.
+- [00:15:10,060 - 00:15:10,800] It doesn't make any difference.
+- [00:15:10,860 - 00:15:11,280] Just leave it.
+- [00:15:11,520 - 00:15:12,800] It doesn't make any difference.
+- [00:15:13,360 - 00:15:13,900] Okay.
+- [00:15:14,160 - 00:15:15,260] So first of all,
+- [00:15:15,260 - 00:15:18,300] we can factor out an overall factor.
+- [00:15:18,480 - 00:15:21,760] e to the i e1 t.
+- [00:15:22,860 - 00:15:24,860] That factors out from both of them.
+- [00:15:25,100 - 00:15:27,980] And then we get psi plus
+- [00:15:27,980 - 00:15:30,860] e to the minus i epsilon t
+- [00:15:32,700 - 00:15:38,180] plus psi minus e to the plus i epsilon t.
+- [00:15:44,740 - 00:15:46,420] Or a square root of 2.
+- [00:15:50,400 - 00:15:51,000] Okay,
+- [00:15:51,000 - 00:15:54,280] what happens to this with time?
+- [00:15:55,620 - 00:15:56,680] With time,
+- [00:15:56,680 - 00:15:59,220] these phases are different.
+- [00:15:59,360 - 00:16:01,100] Notice that one of them goes as
+- [00:16:01,100 - 00:16:02,840] e to the minus i epsilon t.
+- [00:16:02,940 - 00:16:04,280] The other goes as e
+- [00:16:04,280 - 00:16:05,620] to the plus i epsilon t.
+- [00:16:06,859 - 00:16:08,080] What's going to happen?
+- [00:16:08,240 - 00:16:10,620] We started out only with psi left.
+- [00:16:11,660 - 00:16:13,240] We wrote it in terms
+- [00:16:13,240 - 00:16:14,820] of psi plus and psi minus.
+- [00:16:15,540 - 00:16:17,780] And now we let it evolve with time.
+- [00:16:19,540 - 00:16:21,800] After an appropriate amount of time,
+- [00:16:22,040 - 00:16:24,150] the sine of these two
+- [00:16:24,150 - 00:16:26,260] will be opposite to each other.
+- [00:16:26,780 - 00:16:28,100] How long does that take?
+- [00:16:28,840 - 00:16:30,080] How long does it take?
+- [00:16:30,180 - 00:16:31,800] These are two different complex numbers.
+- [00:16:32,500 - 00:16:33,560] How long...
+- [00:16:33,560 - 00:16:34,660] And think about it this way.
+- [00:16:36,420 - 00:16:38,320] They're points on the complex plane,
+- [00:16:38,320 - 00:16:39,640] on the unit circle.
+- [00:16:40,300 - 00:16:43,380] One of them is slowly
+- [00:16:43,380 - 00:16:46,460] drifting up on the unit circle,
+- [00:16:46,660 - 00:16:48,920] e to the plus i epsilon t.
+- [00:16:49,280 - 00:16:51,360] The other one is drifting down.
+- [00:16:51,900 - 00:16:53,780] It takes a certain amount of time
+- [00:16:55,180 - 00:16:57,660] before the first one is up on the top
+- [00:16:57,660 - 00:16:59,880] and the second one is down on the bottom.
+- [00:17:02,440 - 00:17:04,260] Shall we figure out how long that takes?
+- [00:17:04,260 - 00:17:05,819] Let's figure out how long that takes.
+- [00:17:07,819 - 00:17:10,020] We want to know how long does it take
+- [00:17:10,020 - 00:17:11,760] for this to become equal to minus that.
+- [00:17:12,020 - 00:17:13,119] So let's just write it down.
+- [00:17:13,780 - 00:17:15,740] e to the minus i epsilon t
+- [00:17:16,659 - 00:17:19,900] equals minus e to the plus i epsilon t.
+- [00:17:23,099 - 00:17:25,560] Let's just multiply by...
+- [00:17:26,160 - 00:17:26,980] What does it say?
+- [00:17:27,040 - 00:17:31,660] This says that e to the 2i epsilon t
+- [00:17:32,080 - 00:17:32,960] equals minus 1.
+- [00:17:35,240 - 00:17:37,310] I just multiply both sides by
+- [00:17:37,310 - 00:17:39,380] e to the plus i epsilon t.
+- [00:17:39,520 - 00:17:41,520] I get e to the 2i epsilon t here,
+- [00:17:41,680 - 00:17:43,520] and on the left side I get 1,
+- [00:17:43,680 - 00:17:44,660] but there's a minus sign.
+- [00:17:45,700 - 00:17:46,180] Okay,
+- [00:17:46,180 - 00:17:47,160] how long does it take
+- [00:17:48,420 - 00:17:50,600] before this thing is equal to minus 1?
+- [00:17:51,200 - 00:17:51,680] Well,
+- [00:17:51,680 - 00:17:53,740] minus 1 is e to the i pi,
+- [00:17:53,740 - 00:17:54,100] right?
+- [00:17:54,780 - 00:17:55,900] e to the i pi.
+- [00:17:56,300 - 00:17:58,120] So the time must be
+- [00:17:59,379 - 00:18:01,560] twice epsilon t equals pi.
+- [00:18:03,580 - 00:18:04,240] At twice...
+- [00:18:04,260 - 00:18:07,780] twice epsilon t equals pi,
+- [00:18:09,620 - 00:18:11,180] then we're in this situation
+- [00:18:11,180 - 00:18:14,320] where the two phases here have opposite sign.
+- [00:18:15,520 - 00:18:17,140] By the time that happens,
+- [00:18:18,520 - 00:18:21,480] this wave function has become proportional
+- [00:18:21,480 - 00:18:24,000] to the wave function with a minus sign here.
+- [00:18:26,120 - 00:18:26,900] All right,
+- [00:18:26,900 - 00:18:28,080] there is an e to the
+- [00:18:28,080 - 00:18:29,260] 2i epsilon t on the outside,
+- [00:18:29,500 - 00:18:30,340] but that's not interesting.
+- [00:18:30,340 - 00:18:33,400] What was originally a plus sign
+- [00:18:33,400 - 00:18:35,700] evolves into a minus sign
+- [00:18:35,700 - 00:18:37,440] because the two phases are not...
+- [00:18:38,120 - 00:18:40,420] because the energies are slightly different,
+- [00:18:40,480 - 00:18:42,060] the two phases are getting out of phase,
+- [00:18:42,360 - 00:18:44,460] and after a while they become opposite.
+- [00:18:44,820 - 00:18:45,380] Well,
+- [00:18:45,380 - 00:18:46,440] when psi plus...
+- [00:18:47,160 - 00:18:49,640] when it becomes psi plus minus psi minus,
+- [00:18:49,940 - 00:18:51,420] we go back to here.
+- [00:18:52,360 - 00:18:54,960] Psi plus minus psi minus
+- [00:18:55,540 - 00:18:56,720] is psi right.
+- [00:18:59,600 - 00:19:00,320] Let's look at this.
+- [00:19:00,340 - 00:19:03,680] Take the difference psi plus minus psi right...
+- [00:19:04,480 - 00:19:05,660] minus psi minus.
+- [00:19:06,340 - 00:19:07,620] The psi lefts cancel,
+- [00:19:08,220 - 00:19:10,840] and we get just the psi right term.
+- [00:19:11,440 - 00:19:13,960] So that means after this amount of time,
+- [00:19:17,420 - 00:19:17,980] which,
+- [00:19:17,980 - 00:19:19,680] if epsilon is small,
+- [00:19:19,860 - 00:19:21,200] can be a very long time.
+- [00:19:21,480 - 00:19:22,960] If epsilon is small,
+- [00:19:23,240 - 00:19:24,720] then this time is very small.
+- [00:19:25,360 - 00:19:27,100] But after that amount of time,
+- [00:19:27,880 - 00:19:29,060] if you were to look,
+- [00:19:29,060 - 00:19:31,500] the particle would be on the other side.
+- [00:19:32,720 - 00:19:35,540] It would have materialized on the other side,
+- [00:19:35,660 - 00:19:36,660] gone through the barrier,
+- [00:19:36,840 - 00:19:39,180] and materialized on the other side.
+- [00:19:40,840 - 00:19:41,860] That's what this says.
+- [00:19:43,180 - 00:19:43,740] Okay,
+- [00:19:43,740 - 00:19:45,840] so the phenomenon of mixing
+- [00:19:45,840 - 00:19:49,320] goes together with the phenomenon of oscillations.
+- [00:19:50,180 - 00:19:52,440] This will go on and on and on
+- [00:19:55,240 - 00:19:56,360] after when...
+- [00:19:58,060 - 00:19:58,620] Okay,
+- [00:19:58,620 - 00:19:59,040] so...
+- [00:20:00,800 - 00:20:03,540] In another corresponding interval,
+- [00:20:04,640 - 00:20:05,820] it'll swing back,
+- [00:20:05,860 - 00:20:07,880] swing back and forth and back and forth
+- [00:20:07,880 - 00:20:08,660] and oscillate.
+- [00:20:10,360 - 00:20:12,920] So it looks like you're getting oscillations
+- [00:20:12,920 - 00:20:14,840] between one wave function and the other.
+- [00:20:15,760 - 00:20:16,480] That's correct,
+- [00:20:16,480 - 00:20:17,020] you are.
+- [00:20:17,220 - 00:20:17,740] Well,
+- [00:20:17,740 - 00:20:18,740] between the two sides.
+- [00:20:19,340 - 00:20:20,900] It's not violating energy.
+- [00:20:21,040 - 00:20:23,320] The energy eigenstates are
+- [00:20:24,740 - 00:20:26,420] doing what they're supposed to do.
+- [00:20:26,520 - 00:20:27,920] Each one evolves separately.
+- [00:20:29,140 - 00:20:31,100] But if you start with a thing
+- [00:20:31,100 - 00:20:32,840] which is not an energy eigenstate,
+- [00:20:33,040 - 00:20:36,240] it will also do what non-energy eigenstates
+- [00:20:36,240 - 00:20:37,040] are supposed to do.
+- [00:20:37,100 - 00:20:37,720] It will evolve.
+- [00:20:38,160 - 00:20:40,000] And it will evolve back and forth
+- [00:20:40,000 - 00:20:40,840] from one to the other.
+- [00:20:41,680 - 00:20:43,040] Neutrinos behave like that.
+- [00:20:46,340 - 00:20:49,320] The analog of the left wave function
+- [00:20:50,000 - 00:20:53,340] is the neutrino which is made...
+- [00:20:53,340 - 00:20:55,380] It's not made on the left.
+- [00:20:55,680 - 00:20:58,020] It's made by the decay of...
+- [00:20:58,020 - 00:21:01,580] decay involving an electron.
+- [00:21:02,140 - 00:21:06,340] Decay of a particle that involves an electron
+- [00:21:06,340 - 00:21:08,140] and it's called the electron neutrino.
+- [00:21:08,900 - 00:21:11,360] The same precise kind of decay,
+- [00:21:11,660 - 00:21:13,340] if it decayed into,
+- [00:21:13,340 - 00:21:14,520] instead of an electron,
+- [00:21:14,740 - 00:21:15,640] a mu particle,
+- [00:21:15,640 - 00:21:17,280] it would make a...
+- [00:21:19,139 - 00:21:20,980] a mu neutrino.
+- [00:21:22,240 - 00:21:24,720] The real eigenstate of the energy,
+- [00:21:24,720 - 00:21:25,260] of mass,
+- [00:21:25,720 - 00:21:27,100] is kind of a linear...
+- [00:21:27,100 - 00:21:29,300] is a linear combination of the electron
+- [00:21:29,300 - 00:21:30,740] and the muon neutrino,
+- [00:21:30,880 - 00:21:32,680] which is entirely analogous
+- [00:21:33,879 - 00:21:35,840] to the two states,
+- [00:21:36,080 - 00:21:37,920] psi plus and psi minus.
+- [00:21:39,880 - 00:21:41,340] But when an electron...
+- [00:21:41,340 - 00:21:42,600] when a neutrino is made,
+- [00:21:43,000 - 00:21:45,060] it's made either in a decay
+- [00:21:45,060 - 00:21:46,360] involving an electron
+- [00:21:46,360 - 00:21:49,800] or in a decay involving a muon.
+- [00:21:50,140 - 00:21:53,100] If it's made in a decay involving an electron,
+- [00:21:53,360 - 00:21:55,740] it's like plunking the particle
+- [00:21:55,740 - 00:21:57,080] into the left well here.
+- [00:21:57,100 - 00:22:00,680] If it's made in a decay that involves the muon,
+- [00:22:00,860 - 00:22:03,120] it's like plunking the state
+- [00:22:03,680 - 00:22:04,880] into the right well.
+- [00:22:05,400 - 00:22:06,660] But if you wait a while,
+- [00:22:06,840 - 00:22:08,680] it'll just go back and forth between them.
+- [00:22:09,400 - 00:22:10,600] Now that's interesting,
+- [00:22:12,520 - 00:22:14,160] because an electron,
+- [00:22:15,560 - 00:22:18,180] which is created...
+- [00:22:19,660 - 00:22:20,220] sorry,
+- [00:22:20,220 - 00:22:20,980] a neutrino,
+- [00:22:21,140 - 00:22:22,740] which is of the electron type,
+- [00:22:23,820 - 00:22:25,480] can undergo processes
+- [00:22:26,340 - 00:22:28,140] other kinds of processes,
+- [00:22:28,360 - 00:22:29,480] not just these decays,
+- [00:22:29,480 - 00:22:30,740] scattering processes,
+- [00:22:31,140 - 00:22:33,420] in which it produces an electron.
+- [00:22:33,740 - 00:22:35,460] It will not produce a muon.
+- [00:22:36,180 - 00:22:39,120] An electron neutrino will not produce a muon,
+- [00:22:39,140 - 00:22:42,100] and a muon neutrino will not produce an electron.
+- [00:22:42,620 - 00:22:44,140] So here's the experiment.
+- [00:22:44,500 - 00:22:46,320] You start with an electron neutrino.
+- [00:22:46,700 - 00:22:48,260] You wait a while,
+- [00:22:48,440 - 00:22:50,520] half a period like this again,
+- [00:22:50,780 - 00:22:52,880] and it becomes a muon neutrino.
+- [00:22:53,140 - 00:22:55,180] And once it's become a muon neutrino,
+- [00:22:55,180 - 00:22:56,760] you let it interact with something
+- [00:22:56,760 - 00:22:59,220] and see if it produces an electron or a muon.
+- [00:23:00,500 - 00:23:00,900] Okay?
+- [00:23:01,040 - 00:23:04,380] So if you create this electron...
+- [00:23:04,380 - 00:23:04,840] sorry,
+- [00:23:04,840 - 00:23:05,900] this muon...
+- [00:23:07,819 - 00:23:08,620] this neutrino
+- [00:23:09,719 - 00:23:11,200] as an electron neutrino,
+- [00:23:12,240 - 00:23:13,940] and then you just let it go a little bit.
+- [00:23:14,360 - 00:23:14,820] You know,
+- [00:23:14,820 - 00:23:15,920] you don't let it go very far,
+- [00:23:15,940 - 00:23:16,540] very long.
+- [00:23:17,220 - 00:23:17,620] Well,
+- [00:23:17,620 - 00:23:18,780] if it was produced here,
+- [00:23:18,880 - 00:23:19,760] it sort of stays here.
+- [00:23:20,880 - 00:23:22,040] So after a little bit,
+- [00:23:22,140 - 00:23:23,320] you do your experiment,
+- [00:23:23,360 - 00:23:24,500] and you discover the electron,
+- [00:23:25,760 - 00:23:27,520] neutrino only makes electrons,
+- [00:23:28,620 - 00:23:30,960] only interacts in such a way as to make electrons.
+- [00:23:31,320 - 00:23:33,720] The muon neutrino only interacts in ways
+- [00:23:33,720 - 00:23:35,100] such as to make a muon.
+- [00:23:35,500 - 00:23:37,580] But if you have a long baseline
+- [00:23:37,580 - 00:23:39,940] so that the neutrino can go a long ways,
+- [00:23:41,280 - 00:23:44,400] long enough that it undergoes one of these oscillations,
+- [00:23:44,580 - 00:23:47,000] an electron neutrino made somewheres,
+- [00:23:47,180 - 00:23:49,020] if you go down a line far enough,
+- [00:23:49,240 - 00:23:51,480] you'll discover it can make muons.
+- [00:23:52,480 - 00:23:52,960] Likewise,
+- [00:23:52,960 - 00:23:54,100] the muon neutrino.
+- [00:23:54,100 - 00:23:56,000] And in an oscillating way,
+- [00:23:56,060 - 00:23:57,420] if you have a very long baseline,
+- [00:23:57,720 - 00:24:00,120] you would discover that there are oscillations
+- [00:24:02,660 - 00:24:05,380] of the neutrino from one type to the other.
+- [00:24:06,400 - 00:24:06,920] Question.
+- [00:24:06,920 - 00:24:08,820] What determines the size of epsilon?
+- [00:24:09,940 - 00:24:10,460] Oh,
+- [00:24:10,460 - 00:24:10,900] well,
+- [00:24:10,900 - 00:24:13,180] all sorts of details,
+- [00:24:13,260 - 00:24:15,480] such as the mass of the particle,
+- [00:24:15,680 - 00:24:17,180] the height of the potential,
+- [00:24:17,440 - 00:24:19,020] the width of the barrier,
+- [00:24:19,060 - 00:24:20,400] it's extremely sensitive,
+- [00:24:21,640 - 00:24:23,100] exponentially sensitive to,
+- [00:24:23,100 - 00:24:25,620] to the parameters of the barrier.
+- [00:24:26,140 - 00:24:27,820] Has this been observed?
+- [00:24:28,100 - 00:24:28,660] Hmm.
+- [00:24:28,660 - 00:24:30,360] Absolutely.
+- [00:24:30,560 - 00:24:33,900] Both in neutrinos and in tunneling things like this.
+- [00:24:34,480 - 00:24:38,000] How is that connected at all to neutrino mass?
+- [00:24:38,560 - 00:24:41,740] The neutrino masses are the energy levels.
+- [00:24:43,240 - 00:24:43,920] Now,
+- [00:24:43,920 - 00:24:46,560] they start out with very,
+- [00:24:46,560 - 00:24:47,720] very small energies
+- [00:24:47,720 - 00:24:49,180] to begin with,
+- [00:24:50,040 - 00:24:52,640] but then the mixing between them splits the energies
+- [00:24:52,640 - 00:24:53,160] a little bit.
+- [00:24:55,000 - 00:24:55,500] So,
+- [00:24:55,500 - 00:24:57,320] they start out with small energies,
+- [00:24:57,940 - 00:24:59,680] but then even on top of that,
+- [00:24:59,760 - 00:25:00,780] there's a little bit of splitting.
+- [00:25:01,480 - 00:25:01,980] And,
+- [00:25:01,980 - 00:25:02,220] uh,
+- [00:25:02,220 - 00:25:02,780] yeah.
+- [00:25:02,780 - 00:25:06,520] So the prevailing wisdom is that neutrinos have mass?
+- [00:25:06,680 - 00:25:06,760] Oh,
+- [00:25:06,760 - 00:25:07,040] absolutely.
+- [00:25:07,380 - 00:25:08,040] Not wisdom,
+- [00:25:08,040 - 00:25:09,320] it's an experimental fact.
+- [00:25:10,680 - 00:25:11,180] Yeah.
+- [00:25:11,640 - 00:25:13,340] If this were,
+- [00:25:13,340 - 00:25:13,580] say,
+- [00:25:13,580 - 00:25:14,400] an ammonia molecule,
+- [00:25:14,700 - 00:25:16,550] that barrier would be represented
+- [00:25:16,550 - 00:25:18,400] as switching through the plane.
+- [00:25:18,940 - 00:25:21,940] What does that barrier represent when you have a...
+- [00:25:21,940 - 00:25:22,020] Well,
+- [00:25:22,020 - 00:25:22,560] okay,
+- [00:25:22,560 - 00:25:22,840] the,
+- [00:25:22,840 - 00:25:23,320] um...
+- [00:25:23,940 - 00:25:24,540] I can't...
+- [00:25:24,540 - 00:25:25,760] What's an ammonia?
+- [00:25:25,760 - 00:25:26,820] Is that a tetrahedron?
+- [00:25:27,060 - 00:25:27,560] What's...
+- [00:25:27,560 - 00:25:28,540] It's a tetrahedron?
+- [00:25:29,000 - 00:25:29,520] Yeah.
+- [00:25:29,520 - 00:25:29,760] Yeah,
+- [00:25:29,760 - 00:25:29,820] okay.
+- [00:25:30,180 - 00:25:30,480] Yeah,
+- [00:25:30,480 - 00:25:31,720] that's binding to the anaphylact.
+- [00:25:32,060 - 00:25:32,580] Uh,
+- [00:25:32,580 - 00:25:33,560] well,
+- [00:25:33,560 - 00:25:35,700] the only reason I say tetrahedron is because
+- [00:25:35,700 - 00:25:37,140] a tetrahedron is an obvious
+- [00:25:37,140 - 00:25:38,580] one to have a tunneling process.
+- [00:25:39,700 - 00:25:40,540] Tetrahedron has,
+- [00:25:40,540 - 00:25:41,020] um,
+- [00:25:41,020 - 00:25:42,060] four atoms.
+- [00:25:43,060 - 00:25:43,580] One,
+- [00:25:43,580 - 00:25:44,040] two,
+- [00:25:44,040 - 00:25:44,560] three.
+- [00:25:45,460 - 00:25:46,400] What is ammonia?
+- [00:25:47,200 - 00:25:47,900] NH3-1.
+- [00:25:47,980 - 00:25:48,640] What is it?
+- [00:25:49,360 - 00:25:49,880] NH4.
+- [00:25:50,700 - 00:25:51,220] NH4?
+- [00:25:51,220 - 00:25:51,560] Four?
+- [00:25:51,940 - 00:25:53,540] You're telling me it has five atoms?
+- [00:25:54,640 - 00:25:55,220] NH3.
+- [00:25:55,360 - 00:25:55,940] NH3.
+- [00:25:56,340 - 00:25:58,380] So it has three H atoms.
+- [00:25:58,500 - 00:26:00,340] I assume that's what NH3 means.
+- [00:26:00,460 - 00:26:01,460] I'm not a very good chemist.
+- [00:26:01,980 - 00:26:07,220] And then it has a noogie or whatever it's called.
+- [00:26:10,200 - 00:26:11,620] So there's a triangle,
+- [00:26:12,940 - 00:26:18,940] and then up above the triangle is the tetrahedral nitrogen.
+- [00:26:19,440 - 00:26:20,020] Nitrogen?
+- [00:26:20,020 - 00:26:21,200] Must be nitrogen.
+- [00:26:21,580 - 00:26:21,600] Yeah,
+- [00:26:21,600 - 00:26:21,800] right,
+- [00:26:21,800 - 00:26:22,060] right.
+- [00:26:23,040 - 00:26:23,520] Okay.
+- [00:26:23,960 - 00:26:24,440] Now,
+- [00:26:24,440 - 00:26:25,340] the,
+- [00:26:25,340 - 00:26:25,960] uh,
+- [00:26:25,960 - 00:26:26,360] the,
+- [00:26:26,360 - 00:26:26,800] the,
+- [00:26:26,800 - 00:26:31,700] the molecular bonds are such that this,
+- [00:26:31,700 - 00:26:32,560] that this,
+- [00:26:32,620 - 00:26:34,300] I'm going to call it a neutrino.
+- [00:26:34,340 - 00:26:35,140] Please help me.
+- [00:26:37,000 - 00:26:38,400] It's not a neutrino.
+- [00:26:38,400 - 00:26:39,020] It's nitrogen.
+- [00:26:40,139 - 00:26:42,389] This nitrogen likes to sit a certain
+- [00:26:42,389 - 00:26:44,640] height above the base of the triangle there,
+- [00:26:44,820 - 00:26:46,310] meaning to say its energy
+- [00:26:46,310 - 00:26:47,800] is lowest when it's up here.
+- [00:26:48,540 - 00:26:49,480] But of course,
+- [00:26:49,480 - 00:26:50,000] there's another thing.
+- [00:26:50,000 - 00:26:53,240] There's another state which is symmetric where the,
+- [00:26:53,240 - 00:26:53,740] um,
+- [00:26:53,740 - 00:26:56,300] nitrogen is down below here.
+- [00:26:56,860 - 00:26:59,030] And the point is you can tunnel from
+- [00:26:59,030 - 00:27:01,200] one to the other in exactly the same way.
+- [00:27:01,660 - 00:27:03,900] So tunneling from one to the other
+- [00:27:03,900 - 00:27:06,140] is basically the nitrogen tunneling through the,
+- [00:27:06,800 - 00:27:09,520] through the plane of the hydrogen or something like that.
+- [00:27:10,180 - 00:27:10,700] Um.
+- [00:27:10,940 - 00:27:12,100] The question was,
+- [00:27:12,100 - 00:27:14,400] you can see physically what it,
+- [00:27:14,400 - 00:27:16,660] what the barrier is in ammonia,
+- [00:27:16,880 - 00:27:19,980] but what physically is the barrier between it and nitrogen?
+- [00:27:19,980 - 00:27:20,860] Oh,
+- [00:27:20,860 - 00:27:21,380] oh,
+- [00:27:21,380 - 00:27:21,680] oh,
+- [00:27:21,680 - 00:27:21,920] oh,
+- [00:27:21,920 - 00:27:22,140] oh.
+- [00:27:22,620 - 00:27:23,060] No,
+- [00:27:23,060 - 00:27:23,240] no,
+- [00:27:23,240 - 00:27:23,940] that's,
+- [00:27:23,940 - 00:27:24,140] uh,
+- [00:27:24,140 - 00:27:26,240] there's no barrier.
+- [00:27:26,460 - 00:27:27,260] There's just a,
+- [00:27:27,260 - 00:27:27,660] um,
+- [00:27:27,660 - 00:27:29,880] no,
+- [00:27:29,880 - 00:27:30,380] no,
+- [00:27:30,380 - 00:27:30,820] no.
+- [00:27:30,860 - 00:27:31,900] It's more than an analogy.
+- [00:27:32,020 - 00:27:32,220] Um,
+- [00:27:32,220 - 00:27:32,580] the,
+- [00:27:32,580 - 00:27:33,820] uh,
+- [00:27:33,820 - 00:27:38,340] um,
+- [00:27:38,340 - 00:27:45,360] there's coupling in the Hamiltonian,
+- [00:27:45,360 - 00:27:47,700] which for whatever reason,
+- [00:27:47,780 - 00:27:48,480] nobody knows why,
+- [00:27:48,480 - 00:27:49,960] but there's coupling in the Hamiltonian.
+- [00:27:49,960 - 00:27:50,520] Hamiltonian,
+- [00:27:50,520 - 00:27:52,770] which takes an electron neutrino to
+- [00:27:52,770 - 00:27:55,020] a muon neutrino and vice versa.
+- [00:27:55,760 - 00:27:56,240] Uh,
+- [00:27:56,240 - 00:27:57,300] in this case,
+- [00:27:57,300 - 00:27:57,760] there's no,
+- [00:27:57,760 - 00:27:58,620] there's a,
+- [00:27:58,620 - 00:27:59,880] there's a coupling and the coupling
+- [00:27:59,880 - 00:28:01,140] is due to the tunneling process.
+- [00:28:01,460 - 00:28:04,140] This is basically the same mathematics,
+- [00:28:04,140 - 00:28:04,580] but,
+- [00:28:04,580 - 00:28:04,920] um,
+- [00:28:04,920 - 00:28:06,600] I'll tell you where else you've seen this.
+- [00:28:07,480 - 00:28:07,960] Well,
+- [00:28:07,960 - 00:28:08,980] you've seen the same thing.
+- [00:28:10,680 - 00:28:12,300] And it's also a good example.
+- [00:28:12,440 - 00:28:14,040] The mathematics is the same.
+- [00:28:14,420 - 00:28:14,900] Um.
+- [00:28:16,300 - 00:28:18,580] If you take a,
+- [00:28:18,580 - 00:28:19,260] a,
+- [00:28:20,100 - 00:28:20,580] yeah,
+- [00:28:21,460 - 00:28:22,380] take a spin.
+- [00:28:22,720 - 00:28:23,540] Just a spin.
+- [00:28:23,600 - 00:28:24,520] We've done spins,
+- [00:28:24,520 - 00:28:24,760] uh,
+- [00:28:24,760 - 00:28:25,220] little,
+- [00:28:25,220 - 00:28:25,700] you know,
+- [00:28:25,700 - 00:28:26,500] magnetic spin,
+- [00:28:26,500 - 00:28:27,680] electron.
+- [00:28:31,200 - 00:28:32,920] Without any magnetic field,
+- [00:28:32,920 - 00:28:34,620] the two states,
+- [00:28:34,620 - 00:28:36,220] let's call them up and down,
+- [00:28:36,220 - 00:28:37,200] have the same energy.
+- [00:28:37,400 - 00:28:38,520] Up and down have the,
+- [00:28:38,520 - 00:28:38,780] uh,
+- [00:28:38,780 - 00:28:40,300] the same energy.
+- [00:28:45,060 - 00:28:46,260] Has energy E.
+- [00:28:47,320 - 00:28:49,080] And down has energy E.
+- [00:28:53,040 - 00:28:56,480] The energy would be just mc squared for the electron,
+- [00:28:56,480 - 00:28:57,060] let's say.
+- [00:28:57,920 - 00:28:58,400] Alright,
+- [00:28:58,400 - 00:29:00,480] now you put a little magnetic field on.
+- [00:29:02,560 - 00:29:04,780] Let's say the magnetic field is pointing upwards.
+- [00:29:04,960 - 00:29:06,340] A weak magnetic field.
+- [00:29:08,540 - 00:29:10,600] What happens to the energy of these two?
+- [00:29:10,840 - 00:29:12,000] These are little magnets,
+- [00:29:12,000 - 00:29:12,560] if you like.
+- [00:29:12,680 - 00:29:13,440] They're little magnets.
+- [00:29:14,980 - 00:29:16,340] Magnets either up or down.
+- [00:29:16,340 - 00:29:20,040] And depending on the direction of the magnetic field,
+- [00:29:20,040 - 00:29:22,360] the up magnet will have a
+- [00:29:22,360 - 00:29:24,680] slightly different energy than the down magnet.
+- [00:29:25,380 - 00:29:26,680] Takes some work to,
+- [00:29:26,680 - 00:29:26,940] uh,
+- [00:29:26,940 - 00:29:27,500] to turn the,
+- [00:29:27,500 - 00:29:27,680] uh,
+- [00:29:27,680 - 00:29:28,280] the thing over.
+- [00:29:28,580 - 00:29:31,730] So the up electron and the
+- [00:29:31,730 - 00:29:34,880] down electron will have slightly different energy.
+- [00:29:36,420 - 00:29:36,940] Okay.
+- [00:29:38,020 - 00:29:38,540] Um.
+- [00:29:40,220 - 00:29:42,540] The up electron and the down electron,
+- [00:29:42,540 - 00:29:42,840] oh,
+- [00:29:42,840 - 00:29:43,120] no,
+- [00:29:43,120 - 00:29:43,360] no,
+- [00:29:43,360 - 00:29:43,500] no,
+- [00:29:43,500 - 00:29:43,600] no,
+- [00:29:43,600 - 00:29:44,560] let's do something else.
+- [00:29:45,000 - 00:29:45,520] Okay.
+- [00:29:46,880 - 00:29:47,440] Yeah.
+- [00:29:48,320 - 00:29:49,080] Let's put,
+- [00:29:49,080 - 00:29:49,420] let's,
+- [00:29:49,420 - 00:29:50,240] little different.
+- [00:29:50,360 - 00:29:51,720] Let's actually make the,
+- [00:29:51,720 - 00:29:52,100] um,
+- [00:29:52,100 - 00:29:55,700] the magnetic field along the x-axis.
+- [00:29:58,080 - 00:29:58,960] Let's put the,
+- [00:29:58,960 - 00:29:59,260] um,
+- [00:29:59,260 - 00:30:01,560] the magnetic field along the x-axis.
+- [00:30:02,080 - 00:30:04,860] Then what are the eigenstates of energy for the system?
+- [00:30:06,360 - 00:30:07,580] Are they up and down?
+- [00:30:12,360 - 00:30:14,840] They're what we called left and right.
+- [00:30:14,840 - 00:30:16,620] Remember when we studied spins?
+- [00:30:17,340 - 00:30:20,150] They're what we called the electron
+- [00:30:20,150 - 00:30:22,960] pointing along the x-axis or the anti-x-axis.
+- [00:30:23,980 - 00:30:27,950] But the electron pointing along the x-axis is just
+- [00:30:27,950 - 00:30:31,920] a linear combination of the electron being up or down.
+- [00:30:32,360 - 00:30:34,460] Same exact kind of combination.
+- [00:30:35,380 - 00:30:36,640] Let's call it left.
+- [00:30:38,840 - 00:30:39,820] I love this.
+- [00:30:39,920 - 00:30:40,400] I like the red.
+- [00:30:40,460 - 00:30:40,960] Is this,
+- [00:30:40,960 - 00:30:41,660] is this visible?
+- [00:30:42,020 - 00:30:42,260] Yeah,
+- [00:30:42,260 - 00:30:42,440] yeah.
+- [00:30:42,480 - 00:30:42,940] Okay.
+- [00:30:42,940 - 00:30:45,850] Left is equal to one over
+- [00:30:45,850 - 00:30:48,760] square root of two up plus down.
+- [00:30:50,960 - 00:30:51,560] Likewise,
+- [00:30:51,560 - 00:30:53,680] right is of the same sort of thing,
+- [00:30:53,680 - 00:30:55,400] the other equation there.
+- [00:30:55,900 - 00:30:56,500] Now,
+- [00:30:56,500 - 00:30:58,720] when I put a little bit of magnetic field on,
+- [00:30:58,720 - 00:31:06,360] the result is energy eigenstates which are left and right,
+- [00:31:06,360 - 00:31:08,460] but with slightly different energy.
+- [00:31:08,840 - 00:31:10,880] Why is the energy slightly different?
+- [00:31:11,300 - 00:31:11,900] Well,
+- [00:31:11,900 - 00:31:12,920] because there's a little bit of a difference.
+- [00:31:12,920 - 00:31:15,020] Depending on which way the electron is oriented,
+- [00:31:15,020 - 00:31:17,030] it's either oriented along the magnetic
+- [00:31:17,030 - 00:31:19,040] field or opposite to the magnetic field.
+- [00:31:19,500 - 00:31:20,060] So,
+- [00:31:20,060 - 00:31:23,620] we have the same situation where there's
+- [00:31:23,620 - 00:31:27,180] a slight splitting of the energy levels.
+- [00:31:27,680 - 00:31:29,810] What's the result if we
+- [00:31:29,810 - 00:31:31,940] were to start the electron up?
+- [00:31:32,780 - 00:31:34,960] Let's suppose we start the electron up.
+- [00:31:35,480 - 00:31:37,640] Somebody gave us an up electron.
+- [00:31:38,000 - 00:31:38,740] And said,
+- [00:31:38,740 - 00:31:38,920] here,
+- [00:31:38,920 - 00:31:39,960] do with it what you want.
+- [00:31:40,860 - 00:31:43,340] But it's in this very weak magnetic field.
+- [00:31:43,580 - 00:31:44,480] What happens to it?
+- [00:31:44,900 - 00:31:45,720] Do you remember?
+- [00:31:47,220 - 00:31:48,340] It precesses.
+- [00:31:49,380 - 00:31:50,220] It precesses.
+- [00:31:50,500 - 00:31:50,640] So,
+- [00:31:50,640 - 00:31:52,100] after a certain half period,
+- [00:31:52,100 - 00:31:53,460] it becomes a down.
+- [00:31:53,940 - 00:31:55,440] After another half period,
+- [00:31:55,440 - 00:31:56,400] it becomes an up.
+- [00:31:56,640 - 00:31:57,880] Same exact phenomena.
+- [00:31:58,400 - 00:32:01,360] The energy eigenstates are mixtures of up and down.
+- [00:32:01,760 - 00:32:03,040] And because of that,
+- [00:32:03,040 - 00:32:04,040] there are up-down oscillations.
+- [00:32:05,100 - 00:32:07,520] If there was some reason why an electron
+- [00:32:07,520 - 00:32:09,940] liked to be made in a certain way,
+- [00:32:09,940 - 00:32:11,260] and it was not an
+- [00:32:11,260 - 00:32:12,580] experiment pointing along the up direction,
+- [00:32:13,360 - 00:32:15,080] then if you waited a little while,
+- [00:32:15,080 - 00:32:16,500] it would be along the down direction.
+- [00:32:16,820 - 00:32:17,140] So,
+- [00:32:17,140 - 00:32:18,040] it's the same phenomena.
+- [00:32:18,740 - 00:32:20,760] But it doesn't require any tunneling.
+- [00:32:20,780 - 00:32:22,380] It's just a term in the
+- [00:32:22,380 - 00:32:23,980] Hamiltonian which mixes the up and down,
+- [00:32:23,980 - 00:32:25,420] in this case the magnetic field.
+- [00:32:25,880 - 00:32:27,020] What happens to the tau?
+- [00:32:28,020 - 00:32:28,460] Oh,
+- [00:32:28,460 - 00:32:29,520] it also gets mixed in there.
+- [00:32:30,700 - 00:32:32,060] It also gets mixed in.
+- [00:32:32,360 - 00:32:32,800] So,
+- [00:32:32,800 - 00:32:34,630] it's the analog of having three states
+- [00:32:34,630 - 00:32:36,460] which all get mixed with each other.
+- [00:32:36,500 - 00:32:38,860] It's a little more complicated because spin comes into it.
+- [00:32:38,860 - 00:32:40,240] But this is the basic phenomenon.
+- [00:32:42,560 - 00:32:43,180] You know,
+- [00:32:43,180 - 00:32:47,280] if you...
+- [00:32:48,180 - 00:32:51,340] You're probably quite capable of understanding it now.
+- [00:32:51,580 - 00:32:54,060] You know enough to read
+- [00:32:54,060 - 00:32:56,540] a paper or two on it.
+- [00:32:57,020 - 00:32:58,160] I have a quick question.
+- [00:32:58,420 - 00:32:58,700] So,
+- [00:32:58,700 - 00:32:59,360] in this case,
+- [00:32:59,360 - 00:33:01,620] when you mentioned that it precesses,
+- [00:33:01,620 - 00:33:04,020] if we look at it a tiny
+- [00:33:04,020 - 00:33:06,420] time after we put the magnetic field,
+- [00:33:06,500 - 00:33:08,040] we still find it in the up position?
+- [00:33:08,860 - 00:33:09,720] It's a tiny probability of
+- [00:33:09,720 - 00:33:10,580] it being in the down position.
+- [00:33:11,320 - 00:33:13,860] Will it ever be towards us?
+- [00:33:14,360 - 00:33:14,800] Yeah,
+- [00:33:14,800 - 00:33:15,460] it will.
+- [00:33:15,540 - 00:33:15,760] Yeah,
+- [00:33:15,760 - 00:33:15,940] yeah,
+- [00:33:15,940 - 00:33:16,080] it will.
+- [00:33:16,220 - 00:33:17,780] It will precess around here.
+- [00:33:20,520 - 00:33:22,000] Going from up to down.
+- [00:33:23,800 - 00:33:24,240] So,
+- [00:33:24,240 - 00:33:26,080] it will not have just up or down.
+- [00:33:26,180 - 00:33:27,340] It could be in and out.
+- [00:33:27,640 - 00:33:28,660] It could be in and out.
+- [00:33:28,800 - 00:33:29,360] It will never...
+- [00:33:29,360 - 00:33:30,460] If you start it up,
+- [00:33:30,460 - 00:33:32,420] it will not get along the x-axis.
+- [00:33:32,540 - 00:33:34,500] It will stay perpendicular to the x-axis.
+- [00:33:34,900 - 00:33:35,240] So,
+- [00:33:35,240 - 00:33:37,340] it's a continuous on this theta angle.
+- [00:33:37,340 - 00:33:37,340] Yeah,
+- [00:33:37,340 - 00:33:37,980] it's quite continuous.
+- [00:33:37,980 - 00:33:39,940] These phases just evolve continuously.
+- [00:33:42,360 - 00:33:42,880] Right.
+- [00:33:44,480 - 00:33:45,000] But,
+- [00:33:45,000 - 00:33:45,300] of course,
+- [00:33:45,300 - 00:33:46,140] if you look at it,
+- [00:33:46,140 - 00:33:47,520] depending on what you're measuring,
+- [00:33:47,600 - 00:33:49,060] let's say you're measuring up or down,
+- [00:33:49,060 - 00:33:51,120] you'll either find up or down.
+- [00:33:51,260 - 00:33:52,500] You won't find anything in between.
+- [00:33:53,060 - 00:33:54,830] But the interesting thing is if you
+- [00:33:54,830 - 00:33:56,600] make the electron in an up way
+- [00:33:56,600 - 00:34:00,420] and you wait exactly a half period like this,
+- [00:34:00,420 - 00:34:02,100] you'll find it definitely down.
+- [00:34:02,940 - 00:34:03,460] So,
+- [00:34:03,460 - 00:34:05,620] if there's something that a down electron
+- [00:34:05,620 - 00:34:07,780] can do that an up electron can't do,
+- [00:34:08,420 - 00:34:10,730] and let's say something that an up electron
+- [00:34:10,730 - 00:34:13,040] can do and a down electron can't do,
+- [00:34:13,179 - 00:34:16,399] you can do an experiment in which you create
+- [00:34:16,399 - 00:34:19,620] the up electron by doing one kind of interaction
+- [00:34:19,620 - 00:34:22,050] and then at a later time ask
+- [00:34:22,050 - 00:34:24,480] whether it's behaving like the down electron.
+- [00:34:24,880 - 00:34:25,360] And,
+- [00:34:25,360 - 00:34:26,420] of course,
+- [00:34:26,420 - 00:34:27,360] this is easy to do.
+- [00:34:28,100 - 00:34:29,900] Much harder to do for neutrinos.
+- [00:34:30,320 - 00:34:31,989] You said it will never point
+- [00:34:31,989 - 00:34:33,659] to the left or point up,
+- [00:34:33,659 - 00:34:33,920] down,
+- [00:34:33,920 - 00:34:34,620] or in or out.
+- [00:34:34,780 - 00:34:35,219] Well,
+- [00:34:35,219 - 00:34:35,540] yeah.
+- [00:34:35,540 - 00:34:37,380] Is that why you specified a weak point?
+- [00:34:37,380 - 00:34:38,080] Weak field?
+- [00:34:38,500 - 00:34:38,900] No,
+- [00:34:38,900 - 00:34:39,080] no,
+- [00:34:39,080 - 00:34:39,219] no.
+- [00:34:39,260 - 00:34:39,979] It's got nothing to do
+- [00:34:39,979 - 00:34:40,699] with the weakness of the field.
+- [00:34:41,040 - 00:34:43,230] The only reason I say a weak field is
+- [00:34:43,230 - 00:34:45,420] because I don't want it to process very rapidly.
+- [00:34:45,860 - 00:34:46,989] If I want it to
+- [00:34:46,989 - 00:34:48,120] be anything like the neutrino situation,
+- [00:34:49,620 - 00:34:51,580] where the oscillations are very slow,
+- [00:34:51,580 - 00:34:53,139] I will want to make a weak field.
+- [00:34:55,819 - 00:34:58,119] The magnitude of the field only
+- [00:34:58,119 - 00:35:00,420] determines the period of the oscillation.
+- [00:35:03,100 - 00:35:05,100] The analog of the field itself
+- [00:35:05,100 - 00:35:07,330] is the strength of the mixing
+- [00:35:07,330 - 00:35:09,560] between the different kinds of neutrinos.
+- [00:35:09,660 - 00:35:10,600] And that's simply,
+- [00:35:10,600 - 00:35:12,660] and as far as we know now,
+- [00:35:12,660 - 00:35:13,840] it's just a parameter.
+- [00:35:14,940 - 00:35:17,490] It's a parameter in our theory and we
+- [00:35:17,490 - 00:35:20,040] don't know with any confidence where it came from.
+- [00:35:20,140 - 00:35:21,460] It's a very small parameter.
+- [00:35:26,200 - 00:35:29,320] The electron masses are tiny to begin with,
+- [00:35:29,520 - 00:35:32,300] and the splittings between them are obviously
+- [00:35:32,300 - 00:35:35,080] no bigger than the masses of the electron.
+- [00:35:35,100 - 00:35:38,120] The bigger the mass of the neutrino itself.
+- [00:35:39,060 - 00:35:41,140] And so they're tiny numbers,
+- [00:35:41,140 - 00:35:43,940] and what their origin is is uncertain.
+- [00:35:44,839 - 00:35:47,499] What is true is that in
+- [00:35:47,499 - 00:35:50,160] the standard model of elementary particle physics,
+- [00:35:51,060 - 00:35:54,620] there is no room for that parameter.
+- [00:35:55,720 - 00:35:59,580] That parameter is mathematically forbidden
+- [00:36:00,779 - 00:36:04,060] in the absolutely standard theory of particle physics.
+- [00:36:05,100 - 00:36:06,720] Meaning the standard model.
+- [00:36:10,180 - 00:36:10,780] So,
+- [00:36:10,780 - 00:36:13,010] where it comes from is
+- [00:36:13,010 - 00:36:15,240] some violation of the standard model,
+- [00:36:15,420 - 00:36:16,640] but it's very small,
+- [00:36:16,640 - 00:36:18,780] so it could be a very remote phenomena,
+- [00:36:19,140 - 00:36:20,060] remote in energy,
+- [00:36:20,060 - 00:36:21,740] remote in distance scales,
+- [00:36:21,740 - 00:36:22,400] and so forth.
+- [00:36:22,520 - 00:36:23,240] And it probably is.
+- [00:36:25,460 - 00:36:26,060] Okay,
+- [00:36:26,060 - 00:36:27,240] quick question.
+- [00:36:27,540 - 00:36:27,680] Yeah.
+- [00:36:27,820 - 00:36:30,010] Is the only reason that
+- [00:36:30,010 - 00:36:32,200] people think the neutrino has mass
+- [00:36:32,200 - 00:36:33,120] because it just,
+- [00:36:33,120 - 00:36:34,320] it does change?
+- [00:36:34,320 - 00:36:35,460] The oscillation.
+- [00:36:35,540 - 00:36:36,060] The oscillation.
+- [00:36:36,060 - 00:36:36,740] Is that the only reason?
+- [00:36:36,960 - 00:36:37,080] Mm-hmm.
+- [00:36:38,180 - 00:36:39,420] Other than theoretical,
+- [00:36:39,420 - 00:36:40,360] yeah.
+- [00:36:43,500 - 00:36:44,020] Right.
+- [00:36:44,440 - 00:36:45,800] Because of the relativity,
+- [00:36:45,800 - 00:36:50,320] the time dilation couldn't change if it was...
+- [00:36:50,320 - 00:36:50,800] That's right.
+- [00:36:50,800 - 00:36:51,600] That's right.
+- [00:36:51,600 - 00:36:52,320] That's right.
+- [00:36:52,360 - 00:36:53,320] If it was truly massless,
+- [00:36:53,320 - 00:36:53,940] it couldn't change.
+- [00:36:54,380 - 00:36:55,700] Time dilation is right.
+- [00:36:55,700 - 00:36:56,980] Yeah.
+- [00:36:57,480 - 00:36:59,980] You could do experiments where you detect
+- [00:36:59,980 - 00:37:02,480] whether it's in or out of the ground.
+- [00:37:02,560 - 00:37:03,080] Well,
+- [00:37:03,080 - 00:37:03,740] it's up and down.
+- [00:37:03,740 - 00:37:05,340] You can do any experiment you want.
+- [00:37:05,600 - 00:37:07,720] But the...
+- [00:37:09,700 - 00:37:10,180] If...
+- [00:37:10,520 - 00:37:10,760] Yeah,
+- [00:37:10,760 - 00:37:11,120] you...
+- [00:37:12,240 - 00:37:12,720] Right.
+- [00:37:12,940 - 00:37:14,600] The polarization of the electron,
+- [00:37:14,600 - 00:37:15,060] in other words,
+- [00:37:15,060 - 00:37:16,000] the direction of the spin,
+- [00:37:17,560 - 00:37:19,980] doesn't tell you what value you would measure,
+- [00:37:19,980 - 00:37:22,840] except that if it's known to be up
+- [00:37:22,840 - 00:37:24,700] and you measure upness or downness,
+- [00:37:24,700 - 00:37:25,320] you get up.
+- [00:37:26,140 - 00:37:28,290] It does not tell you if you measure
+- [00:37:28,290 - 00:37:30,440] the x component whether you get plus or minus,
+- [00:37:30,540 - 00:37:32,240] and it doesn't tell you whether if you multiply,
+- [00:37:32,240 - 00:37:33,720] you measure the y component.
+- [00:37:33,740 - 00:37:37,710] So the idea is to put it in
+- [00:37:37,710 - 00:37:41,680] a known configuration where if you measured the upness-downness,
+- [00:37:41,800 - 00:37:44,740] you would get up and then wait a half
+- [00:37:44,740 - 00:37:47,680] period until it's pointing down and then measure it again,
+- [00:37:47,860 - 00:37:49,520] and you will definitely get down.
+- [00:37:50,680 - 00:37:51,580] That's the experiment.
+- [00:37:51,780 - 00:37:52,780] And after a quarter period,
+- [00:37:52,780 - 00:37:55,080] you'll definitely get towards your...
+- [00:37:55,080 - 00:37:55,480] Yeah.
+- [00:37:55,480 - 00:37:56,680] Yeah.
+- [00:37:57,140 - 00:37:59,080] If you waited a half period
+- [00:37:59,080 - 00:38:01,020] to do the experiment with the neutrino,
+- [00:38:01,120 - 00:38:02,420] do we get 50% probability
+- [00:38:02,420 - 00:38:03,720] of it acting like a neutrino?
+- [00:38:03,740 - 00:38:06,460] Mu neutrino 50% like an electron,
+- [00:38:06,460 - 00:38:06,840] correct?
+- [00:38:07,260 - 00:38:08,340] That would be a quarter period.
+- [00:38:08,600 - 00:38:09,540] Quarter period.
+- [00:38:09,760 - 00:38:09,820] Yeah.
+- [00:38:12,220 - 00:38:12,820] Um,
+- [00:38:12,820 - 00:38:13,420] it's...
+- [00:38:13,420 - 00:38:14,760] I don't...
+- [00:38:14,760 - 00:38:15,580] The answer's no,
+- [00:38:15,580 - 00:38:18,760] but for reasons that are somewhat incidental,
+- [00:38:18,760 - 00:38:20,680] it is a little more complicated.
+- [00:38:20,900 - 00:38:23,320] The complications of spin get into it,
+- [00:38:23,420 - 00:38:25,680] and the oscillations are not
+- [00:38:25,680 - 00:38:27,940] exactly symmetrical about the two,
+- [00:38:28,520 - 00:38:30,400] but that's a refinement.
+- [00:38:31,120 - 00:38:32,940] The basic physics is this.
+- [00:38:35,020 - 00:38:35,580] So,
+- [00:38:35,580 - 00:38:35,980] um,
+- [00:38:35,980 - 00:38:36,340] yeah.
+- [00:38:36,540 - 00:38:39,020] Since the neutrino masses vary,
+- [00:38:39,160 - 00:38:40,960] and say you were looking at a
+- [00:38:40,960 - 00:38:42,760] neutrino coming from the sun to us,
+- [00:38:42,860 - 00:38:45,200] to preserve or conserve the momentum,
+- [00:38:45,400 - 00:38:48,280] is the velocity changing as it oscillates?
+- [00:38:49,000 - 00:38:49,560] Yeah,
+- [00:38:49,560 - 00:38:50,320] the velocity...
+- [00:38:50,320 - 00:38:50,840] Um...
+- [00:38:52,080 - 00:38:52,640] Yeah.
+- [00:38:53,660 - 00:38:54,280] Let's see,
+- [00:38:54,280 - 00:38:55,320] the velocity must change,
+- [00:38:55,320 - 00:38:55,560] yeah.
+- [00:38:55,680 - 00:38:56,160] Yeah.
+- [00:38:56,160 - 00:38:57,020] Yeah.
+- [00:38:57,100 - 00:38:58,720] The momentum stays the same.
+- [00:38:59,420 - 00:38:59,980] Right.
+- [00:39:00,720 - 00:39:03,400] And if the mass is undergoing oscillations,
+- [00:39:03,740 - 00:39:03,740] Uh,
+- [00:39:03,740 - 00:39:04,300] right.
+- [00:39:06,420 - 00:39:07,020] Incidentally,
+- [00:39:07,020 - 00:39:08,740] this is believed to be the reason
+- [00:39:08,740 - 00:39:12,360] why there was a deficit of solar neutrinos.
+- [00:39:12,620 - 00:39:14,080] For many years,
+- [00:39:14,920 - 00:39:17,860] there was a deficit of solar neutrinos
+- [00:39:17,860 - 00:39:22,100] where not enough solar neutrinos were seen on Earth
+- [00:39:22,100 - 00:39:23,420] to account for the,
+- [00:39:23,420 - 00:39:23,760] um,
+- [00:39:23,760 - 00:39:27,700] for the expected number of neutrino interactions
+- [00:39:27,700 - 00:39:28,860] taking place in the sun.
+- [00:39:30,440 - 00:39:31,040] And,
+- [00:39:31,040 - 00:39:31,300] of course,
+- [00:39:31,300 - 00:39:32,920] the reason was that by the time
+- [00:39:32,920 - 00:39:33,900] the neutrinos get here,
+- [00:39:34,080 - 00:39:36,960] half of them are unavailable to interact with electrons.
+- [00:39:37,340 - 00:39:38,880] Or half of them or something.
+- [00:39:39,260 - 00:39:41,200] They've become muons or whatever.
+- [00:39:41,640 - 00:39:42,680] Muon neutrinos.
+- [00:39:44,020 - 00:39:46,020] Or some other species.
+- [00:39:48,760 - 00:39:49,520] All right.
+- [00:39:49,600 - 00:39:49,800] Well,
+- [00:39:49,800 - 00:39:51,260] since we're talking about,
+- [00:39:51,260 - 00:39:51,620] um,
+- [00:39:53,680 - 00:39:55,040] these kinds of things,
+- [00:39:56,480 - 00:39:57,020] uh,
+- [00:39:57,020 - 00:39:59,500] I did read in the article that somebody sent
+- [00:39:59,500 - 00:40:02,900] through the email that the electrons,
+- [00:40:02,900 - 00:40:03,660] the electron is a sphere.
+- [00:40:04,660 - 00:40:07,160] And I was a little bit surprised to read that.
+- [00:40:09,460 - 00:40:10,220] I didn't,
+- [00:40:10,220 - 00:40:12,780] I didn't think the electron is a sphere,
+- [00:40:12,920 - 00:40:14,880] and I still don't think the electron is a sphere,
+- [00:40:14,980 - 00:40:17,040] even after reading the venerable,
+- [00:40:17,040 - 00:40:17,340] um,
+- [00:40:18,299 - 00:40:19,180] Scientific American.
+- [00:40:24,320 - 00:40:25,620] So I thought I might,
+- [00:40:25,620 - 00:40:25,880] uh,
+- [00:40:25,880 - 00:40:26,160] since,
+- [00:40:26,260 - 00:40:26,800] has,
+- [00:40:26,800 - 00:40:28,060] have people read that article?
+- [00:40:30,340 - 00:40:30,780] Oh,
+- [00:40:30,780 - 00:40:31,760] only one person read it?
+- [00:40:34,040 - 00:40:34,440] Oh.
+- [00:40:34,840 - 00:40:35,240] Hm?
+- [00:40:35,380 - 00:40:35,780] Yeah,
+- [00:40:35,780 - 00:40:36,820] it came in my mail.
+- [00:40:36,880 - 00:40:37,960] I assumed it came through the,
+- [00:40:37,960 - 00:40:38,240] uh,
+- [00:40:38,400 - 00:40:38,840] did it,
+- [00:40:38,840 - 00:40:40,660] did somebody send it?
+- [00:40:41,900 - 00:40:43,360] Maybe they sent it just to you.
+- [00:40:44,380 - 00:40:44,780] Maybe.
+- [00:40:45,440 - 00:40:46,980] Maybe it didn't come from any of you.
+- [00:40:47,040 - 00:40:47,940] Maybe it came from,
+- [00:40:47,940 - 00:40:48,200] uh,
+- [00:40:50,520 - 00:40:50,920] No,
+- [00:40:50,920 - 00:40:52,400] it didn't come from Scientific American.
+- [00:40:52,660 - 00:40:54,500] Maybe they just did this question to change character.
+- [00:40:56,000 - 00:40:56,400] Okay,
+- [00:40:56,400 - 00:40:58,860] so there's an article in the Scientific American,
+- [00:40:58,880 - 00:40:59,720] just for fun,
+- [00:40:59,720 - 00:41:00,600] just for fun,
+- [00:41:00,600 - 00:41:00,960] let's,
+- [00:41:00,960 - 00:41:01,220] uh,
+- [00:41:01,220 - 00:41:01,660] let's,
+- [00:41:01,660 - 00:41:01,860] uh,
+- [00:41:01,860 - 00:41:02,320] I don't,
+- [00:41:02,320 - 00:41:02,520] uh,
+- [00:41:03,160 - 00:41:05,020] I thought we'd take a little bit of a break,
+- [00:41:05,080 - 00:41:06,520] at least for part of the hour tonight,
+- [00:41:07,260 - 00:41:08,020] and talk about,
+- [00:41:08,020 - 00:41:08,500] um,
+- [00:41:08,500 - 00:41:11,380] real physical phenomena.
+- [00:41:12,780 - 00:41:13,620] Not that,
+- [00:41:13,620 - 00:41:13,860] uh,
+- [00:41:13,860 - 00:41:16,500] quantum field theory is not a real physical phenomenon,
+- [00:41:16,560 - 00:41:16,820] but,
+- [00:41:16,820 - 00:41:17,220] you know,
+- [00:41:17,220 - 00:41:20,800] we've been concentrating on the formal mathematics of it.
+- [00:41:22,260 - 00:41:23,640] Is the electron a sphere?
+- [00:41:23,940 - 00:41:25,070] What would it mean for
+- [00:41:25,070 - 00:41:26,200] the electron to be a sphere?
+- [00:41:27,040 - 00:41:29,140] What does it mean for anything to be a sphere,
+- [00:41:29,180 - 00:41:31,480] a particle or an atom or whatever else?
+- [00:41:31,480 - 00:41:32,340] Uh,
+- [00:41:32,340 - 00:41:37,580] and what is it that was or wasn't measured
+- [00:41:38,340 - 00:41:38,900] that,
+- [00:41:38,900 - 00:41:40,820] according to the author of
+- [00:41:40,820 - 00:41:42,740] the Scientific American little blurb there,
+- [00:41:43,640 - 00:41:46,020] indicates that the electron is a sphere?
+- [00:41:48,200 - 00:41:49,940] And what does that say about,
+- [00:41:49,940 - 00:41:50,360] uh,
+- [00:41:50,360 - 00:41:51,540] physics?
+- [00:41:52,500 - 00:41:53,060] Well,
+- [00:41:53,060 - 00:41:53,680] first of all,
+- [00:41:53,680 - 00:41:55,660] what was measured is the
+- [00:41:55,660 - 00:41:57,640] electric dipole moment of the electron.
+- [00:41:58,740 - 00:41:59,300] Okay,
+- [00:41:59,300 - 00:42:01,000] now we'll come to what that means in a moment,
+- [00:42:01,100 - 00:42:01,380] but,
+- [00:42:01,380 - 00:42:01,460] uh,
+- [00:42:01,480 - 00:42:02,670] I think you all know
+- [00:42:02,670 - 00:42:03,860] what an electric dipole moment is,
+- [00:42:03,860 - 00:42:04,100] right?
+- [00:42:04,560 - 00:42:06,060] If you have a little bit of plus
+- [00:42:06,060 - 00:42:07,560] charge and a little bit of minus charge,
+- [00:42:07,660 - 00:42:09,280] and they're separated by distance d,
+- [00:42:10,640 - 00:42:12,800] then the dipole moment is just
+- [00:42:12,800 - 00:42:14,960] the charge times the distance between them,
+- [00:42:15,500 - 00:42:17,450] and it represents a
+- [00:42:17,450 - 00:42:19,400] sort of off-centered charge distribution.
+- [00:42:20,200 - 00:42:22,700] The center of the dumbbell,
+- [00:42:22,700 - 00:42:23,920] let's think of it as a dumbbell,
+- [00:42:24,180 - 00:42:25,560] the center of the dumbbell is
+- [00:42:25,560 - 00:42:26,940] at the center of the dumbbell,
+- [00:42:28,020 - 00:42:30,440] and an electric dipole would indicate
+- [00:42:30,440 - 00:42:32,380] that there was an imbalance on
+- [00:42:32,380 - 00:42:34,320] the two ends of the dipole
+- [00:42:34,320 - 00:42:36,540] of the electric charge distribution.
+- [00:42:36,960 - 00:42:38,600] That's what an electric dipole means.
+- [00:42:40,660 - 00:42:42,400] For a thing not to
+- [00:42:42,400 - 00:42:44,140] have an electric dipole does not,
+- [00:42:44,180 - 00:42:44,780] first of all,
+- [00:42:44,780 - 00:42:45,980] does not say it's a sphere,
+- [00:42:48,280 - 00:42:48,820] um,
+- [00:42:48,820 - 00:42:52,140] a charge distribution can have many,
+- [00:42:52,140 - 00:42:54,080] many different multipole moments,
+- [00:42:54,200 - 00:42:54,460] many,
+- [00:42:54,460 - 00:42:55,960] many different shape parameters.
+- [00:42:57,120 - 00:42:57,660] Okay?
+- [00:42:58,460 - 00:42:59,760] What kind of shape,
+- [00:43:00,760 - 00:43:02,680] corresponds to having a dipole?
+- [00:43:02,800 - 00:43:03,820] A situation,
+- [00:43:03,820 - 00:43:05,080] exactly what I said,
+- [00:43:05,180 - 00:43:07,300] where there's an imbalance of charge on
+- [00:43:07,300 - 00:43:09,420] one side relative to the other side,
+- [00:43:09,560 - 00:43:10,920] relative to some,
+- [00:43:10,920 - 00:43:11,160] uh,
+- [00:43:11,160 - 00:43:12,160] to some center.
+- [00:43:13,180 - 00:43:15,580] What other kinds of charge distributions are there?
+- [00:43:15,680 - 00:43:15,800] Well,
+- [00:43:15,800 - 00:43:17,590] you could have a charge
+- [00:43:17,590 - 00:43:19,380] distribution shaped like an oblate spheroid,
+- [00:43:19,400 - 00:43:19,720] or a,
+- [00:43:19,720 - 00:43:20,020] uh,
+- [00:43:20,020 - 00:43:21,080] or any kind of,
+- [00:43:21,860 - 00:43:23,660] any kind of ellipsoid,
+- [00:43:24,220 - 00:43:25,280] symmetric ellipsoid,
+- [00:43:25,280 - 00:43:26,840] non-symmetric ellipsoid,
+- [00:43:26,900 - 00:43:28,760] any kind of ellipsoid of that type,
+- [00:43:28,920 - 00:43:30,420] would not have any,
+- [00:43:30,440 - 00:43:31,440] a dipole moment.
+- [00:43:32,140 - 00:43:32,620] Now,
+- [00:43:32,620 - 00:43:33,060] why not?
+- [00:43:33,260 - 00:43:34,480] Because the ellipsoid
+- [00:43:37,540 - 00:43:40,280] is symmetric about every axis pass,
+- [00:43:40,400 - 00:43:43,000] about every plane passing through the center.
+- [00:43:43,800 - 00:43:47,340] If the charge was uniformly distributed on the ellipsoid,
+- [00:43:47,520 - 00:43:48,640] there would be as much on
+- [00:43:48,640 - 00:43:49,760] the top as on the bottom,
+- [00:43:50,280 - 00:43:51,500] there would be as much on
+- [00:43:51,500 - 00:43:52,720] the left as on the right,
+- [00:43:53,280 - 00:43:55,120] and there would be no dipole moment.
+- [00:43:56,380 - 00:43:57,800] What would you say about it?
+- [00:43:57,820 - 00:43:58,680] Would you say it was a sphere?
+- [00:43:59,600 - 00:44:00,160] No.
+- [00:44:00,760 - 00:44:02,920] You would say it has a quadrupole moment.
+- [00:44:03,840 - 00:44:07,100] A quadrupole moment is the shape of a squashed sphere,
+- [00:44:07,280 - 00:44:07,940] an ellipsoid.
+- [00:44:08,540 - 00:44:12,820] It could also not even have a quadrupole moment,
+- [00:44:13,040 - 00:44:14,380] it could have an octupole moment,
+- [00:44:14,580 - 00:44:16,220] that's a little bit different kind of thing.
+- [00:44:16,940 - 00:44:17,360] Uh,
+- [00:44:17,360 - 00:44:20,720] an octupole moment would be free of dipole moment,
+- [00:44:20,860 - 00:44:23,780] it would be free of quadrupole moment,
+- [00:44:23,980 - 00:44:24,840] but it's not a sphere.
+- [00:44:26,080 - 00:44:26,640] So,
+- [00:44:26,640 - 00:44:28,660] in measuring the fact that,
+- [00:44:28,660 - 00:44:28,660] uh,
+- [00:44:28,660 - 00:44:30,040] the fact that an object
+- [00:44:30,040 - 00:44:31,420] doesn't have an electric dipole moment
+- [00:44:31,420 - 00:44:32,780] is not the evidence of
+- [00:44:32,780 - 00:44:34,140] any kind that it's a sphere,
+- [00:44:34,320 - 00:44:35,770] it's just an evidence that it
+- [00:44:35,770 - 00:44:37,220] doesn't have an electric dipole moment,
+- [00:44:37,360 - 00:44:38,180] nothing more than that.
+- [00:44:38,760 - 00:44:40,500] But when you start to think about it,
+- [00:44:41,060 - 00:44:43,360] in quantum mechanics there's something funny
+- [00:44:44,160 - 00:44:49,560] about the notion of spherical symmetry and things like that.
+- [00:44:50,000 - 00:44:51,540] Let's suppose we had this dumbbell.
+- [00:44:55,120 - 00:44:56,960] But it's a quantum mechanical dumbbell.
+- [00:44:56,960 - 00:44:59,620] There are quantum mechanical dumbbells.
+- [00:45:02,120 - 00:45:03,120] Some of my,
+- [00:45:03,120 - 00:45:03,280] uh,
+- [00:45:03,280 - 00:45:04,140] some of my,
+- [00:45:04,140 - 00:45:04,380] um,
+- [00:45:04,380 - 00:45:05,600] colleagues are...
+- [00:45:06,940 - 00:45:08,460] I didn't say that.
+- [00:45:15,940 - 00:45:17,540] There's a quantum mechanical dumbbell.
+- [00:45:18,840 - 00:45:20,640] It's a molecule of some kind,
+- [00:45:20,720 - 00:45:23,620] a molecule with a bond that's more or less fixed
+- [00:45:23,620 - 00:45:24,980] with two atoms,
+- [00:45:24,980 - 00:45:25,640] okay,
+- [00:45:25,640 - 00:45:26,740] two atoms on either side.
+- [00:45:30,100 - 00:45:30,580] Um,
+- [00:45:30,580 - 00:45:31,980] let's take the ground stat...
+- [00:45:31,980 - 00:45:32,280] Now,
+- [00:45:32,280 - 00:45:33,920] that doesn't look like a sphere.
+- [00:45:34,140 - 00:45:35,920] It doesn't look anything like a sphere,
+- [00:45:35,920 - 00:45:36,480] right?
+- [00:45:37,440 - 00:45:38,260] In fact,
+- [00:45:38,260 - 00:45:38,420] uh,
+- [00:45:38,420 - 00:45:40,150] let's not worry about where
+- [00:45:40,150 - 00:45:41,880] its charge is for a moment.
+- [00:45:43,880 - 00:45:44,360] Um,
+- [00:45:44,360 - 00:45:44,840] yeah,
+- [00:45:44,840 - 00:45:45,660] we could put some charge.
+- [00:45:46,440 - 00:45:47,880] Let's put some charge over here,
+- [00:45:47,880 - 00:45:48,320] plus,
+- [00:45:48,480 - 00:45:49,540] and charge over here,
+- [00:45:49,540 - 00:45:49,840] minus.
+- [00:45:52,200 - 00:45:52,680] Okay,
+- [00:45:52,680 - 00:45:55,600] now let's take the ground state of that molecule.
+- [00:45:55,600 - 00:46:00,120] There are two particles orbiting each other.
+- [00:46:01,280 - 00:46:03,840] How do you describe a state of the molecule?
+- [00:46:04,140 - 00:46:05,520] You describe the state of
+- [00:46:05,520 - 00:46:06,900] the molecule by its angular momentum.
+- [00:46:07,940 - 00:46:10,020] Angular momentum about the center.
+- [00:46:11,700 - 00:46:14,600] All of the states of this molecule...
+- [00:46:15,240 - 00:46:15,320] Well,
+- [00:46:15,320 - 00:46:15,680] of course,
+- [00:46:15,680 - 00:46:16,560] there are also vibrations,
+- [00:46:16,820 - 00:46:17,760] but let's ignore the,
+- [00:46:17,760 - 00:46:18,260] you know,
+- [00:46:18,260 - 00:46:19,380] radial vibrations.
+- [00:46:19,800 - 00:46:22,180] But let's only talk about the rotational states.
+- [00:46:22,700 - 00:46:25,580] The rotational states are characterized by angular momentum.
+- [00:46:25,580 - 00:46:27,960] In general,
+- [00:46:27,960 - 00:46:30,440] if the molecule is a boson,
+- [00:46:30,460 - 00:46:31,950] that means it has an
+- [00:46:31,950 - 00:46:33,440] even number of fermions in it.
+- [00:46:33,560 - 00:46:34,600] If it's a boson,
+- [00:46:34,600 - 00:46:37,280] if the molecule has integer spin,
+- [00:46:37,620 - 00:46:39,780] then the ground state will have what spin?
+- [00:46:40,140 - 00:46:41,280] What angular momentum?
+- [00:46:42,400 - 00:46:42,960] Zero.
+- [00:46:43,660 - 00:46:44,220] Sure,
+- [00:46:44,220 - 00:46:45,680] the lowest energy will be
+- [00:46:45,680 - 00:46:47,140] when the angular momentum is zero.
+- [00:46:48,160 - 00:46:49,780] But in quantum mechanics,
+- [00:46:49,780 - 00:46:52,900] angular momentum is the generator of rotations.
+- [00:46:53,480 - 00:46:55,560] What it says for a system to have angular momentum
+- [00:46:55,580 - 00:47:00,360] zero is that its wave function is completely symmetric
+- [00:47:00,360 - 00:47:03,020] with respect to all rotations.
+- [00:47:03,540 - 00:47:07,700] Angular momentum zero states are all rotationally symmetric.
+- [00:47:08,120 - 00:47:10,340] So quite independently of what
+- [00:47:10,340 - 00:47:12,560] the charge distribution might look like,
+- [00:47:12,820 - 00:47:17,180] the quantum mechanical state is rotationally symmetric.
+- [00:47:17,700 - 00:47:18,220] Now,
+- [00:47:18,220 - 00:47:18,740] you could say,
+- [00:47:18,740 - 00:47:18,920] well,
+- [00:47:18,920 - 00:47:20,700] that just means it's a dumbbell,
+- [00:47:20,700 - 00:47:21,280] all right,
+- [00:47:21,380 - 00:47:25,100] but it's just a dumbbell in a superposition of states.
+- [00:47:32,300 - 00:47:32,920] So,
+- [00:47:32,920 - 00:47:32,980] you could say,
+- [00:47:32,980 - 00:47:32,980] well,
+- [00:47:32,980 - 00:47:32,980] that's just a
+- [00:47:32,980 - 00:47:33,320] which is,
+- [00:47:33,320 - 00:47:33,760] um,
+- [00:47:33,760 - 00:47:38,220] symmetrized so that the probability distribution
+- [00:47:39,920 - 00:47:41,790] for the electric charge
+- [00:47:41,790 - 00:47:43,660] is completely rotationally symmetric.
+- [00:47:44,300 - 00:47:47,460] Does that have a dipole moment or doesn't it?
+- [00:47:48,160 - 00:47:50,340] You call that having a dipole moment,
+- [00:47:56,000 - 00:47:57,500] let's take a snapshot of it.
+- [00:47:57,580 - 00:47:59,360] Let's not worry about quantum superpositions
+- [00:47:59,360 - 00:48:01,140] and all that sort of stuff.
+- [00:48:01,640 - 00:48:02,160] Let's take,
+- [00:48:02,160 - 00:48:03,820] just take a quick snapshot of it.
+- [00:48:05,100 - 00:48:05,500] Look,
+- [00:48:05,500 - 00:48:07,780] even what I'm saying here would even be true
+- [00:48:07,780 - 00:48:09,230] for the kind of dumbbell that
+- [00:48:09,230 - 00:48:10,680] you would get in the gym.
+- [00:48:11,120 - 00:48:12,740] If you really got it
+- [00:48:12,740 - 00:48:14,360] down to the absolute ground state,
+- [00:48:14,620 - 00:48:15,660] which you can never do,
+- [00:48:15,660 - 00:48:16,140] of course,
+- [00:48:16,600 - 00:48:18,820] the energy levels are so closely spaced,
+- [00:48:19,000 - 00:48:20,300] but if you got it
+- [00:48:20,300 - 00:48:21,600] down to the absolute ground state
+- [00:48:22,580 - 00:48:24,340] in infinitely empty space,
+- [00:48:25,580 - 00:48:27,520] that the wave function of that
+- [00:48:27,520 - 00:48:29,460] dumbbell would be completely rotationally symmetric.
+- [00:48:30,460 - 00:48:30,940] So,
+- [00:48:30,940 - 00:48:31,800] now comes a question.
+- [00:48:31,980 - 00:48:32,140] Do you,
+- [00:48:32,140 - 00:48:34,200] are you willing to call that a sphere,
+- [00:48:34,260 - 00:48:35,580] a spherical charge distribution,
+- [00:48:36,080 - 00:48:38,580] or is it just a lopsided charge distribution
+- [00:48:38,580 - 00:48:41,240] with a probability distribution or a wave function,
+- [00:48:42,259 - 00:48:42,740] uh,
+- [00:48:42,740 - 00:48:44,100] which has symmetrized it?
+- [00:48:45,180 - 00:48:45,660] Okay,
+- [00:48:45,660 - 00:48:46,540] the answer is ambiguous.
+- [00:48:46,880 - 00:48:48,370] The answer is ambiguous depending on
+- [00:48:48,370 - 00:48:49,860] the kind of experiment that you do.
+- [00:48:49,960 - 00:48:52,580] If you took a sudden quick snapshot of it,
+- [00:48:52,620 - 00:48:54,090] you would discover that it
+- [00:48:54,090 - 00:48:55,560] has a lopsided charge distribution.
+- [00:48:55,580 - 00:48:56,300] Right?
+- [00:48:57,380 - 00:48:58,500] But you could ask,
+- [00:48:58,500 - 00:49:00,780] how fast does the camera have to be
+- [00:49:01,379 - 00:49:03,479] in order to detect that
+- [00:49:03,479 - 00:49:05,580] it wasn't smeared over the sphere?
+- [00:49:06,120 - 00:49:07,300] How fast,
+- [00:49:07,300 - 00:49:09,460] what is the time resolution that's necessary?
+- [00:49:09,920 - 00:49:11,160] And the answer is,
+- [00:49:11,160 - 00:49:12,940] it's not too hard to figure out.
+- [00:49:13,220 - 00:49:16,580] Let's suppose you took a quick snapshot of,
+- [00:49:16,620 - 00:49:17,280] this is a measurement,
+- [00:49:17,280 - 00:49:18,920] a snapshot means a measurement,
+- [00:49:19,200 - 00:49:23,040] and basically the snapshot is measuring the angle
+- [00:49:23,040 - 00:49:23,960] of the,
+- [00:49:23,960 - 00:49:24,480] um,
+- [00:49:25,580 - 00:49:27,980] of the molecule or the,
+- [00:49:27,980 - 00:49:28,740] or the dumbbell.
+- [00:49:29,400 - 00:49:32,000] You take a quick snapshot and you measure the angle.
+- [00:49:32,460 - 00:49:33,020] Well,
+- [00:49:33,020 - 00:49:34,960] if you measure the angle,
+- [00:49:35,240 - 00:49:38,600] a measurement of something leaves the system
+- [00:49:38,600 - 00:49:40,440] in an eigenstate of that something.
+- [00:49:41,080 - 00:49:42,440] When you measure something,
+- [00:49:42,440 - 00:49:44,520] you kick it into an eigenstate
+- [00:49:44,520 - 00:49:45,420] of the thing you measured.
+- [00:49:45,920 - 00:49:46,520] So,
+- [00:49:46,520 - 00:49:49,620] it may have started in an eigenstate of angular momentum,
+- [00:49:50,260 - 00:49:51,560] you measure it,
+- [00:49:51,560 - 00:49:53,740] and all of a sudden it's in a state
+- [00:49:53,740 - 00:49:55,140] of definite orientation.
+- [00:49:57,180 - 00:49:58,980] Is a state of definite orientation,
+- [00:49:59,420 - 00:50:00,920] does it have a definite angular momentum?
+- [00:50:04,160 - 00:50:06,120] The analogous question would be,
+- [00:50:06,220 - 00:50:08,900] for a particle which has a definite position,
+- [00:50:09,500 - 00:50:11,160] does it have a definite momentum?
+- [00:50:12,440 - 00:50:13,400] The answer is,
+- [00:50:13,400 - 00:50:13,640] of course,
+- [00:50:13,640 - 00:50:13,780] no.
+- [00:50:13,940 - 00:50:15,060] That's the uncertainty principle.
+- [00:50:15,760 - 00:50:19,020] And the same is true with angular momentum and angle.
+- [00:50:19,800 - 00:50:21,280] If you measure the thing and
+- [00:50:21,280 - 00:50:22,760] you kick it into a state
+- [00:50:22,760 - 00:50:23,760] of a definite orientation,
+- [00:50:24,540 - 00:50:25,560] you must have a definite angular momentum.
+- [00:50:25,580 - 00:50:30,860] You must have given a kick to its angular momentum.
+- [00:50:31,340 - 00:50:33,180] Same kind of Heisenberg story.
+- [00:50:33,420 - 00:50:34,400] If you measure the position,
+- [00:50:34,400 - 00:50:36,380] you give it a knock
+- [00:50:36,380 - 00:50:37,980] and you influence its momentum.
+- [00:50:38,480 - 00:50:42,480] If you measure the orientation of the molecule,
+- [00:50:42,780 - 00:50:44,660] you affect its angular momentum.
+- [00:50:45,339 - 00:50:49,260] But what if the spectrum of energy levels is such
+- [00:50:49,260 - 00:50:52,640] that the first angular momentum excitation
+- [00:50:52,640 - 00:50:55,420] is just more energy than you have available
+- [00:50:55,580 - 00:51:00,320] in your photons that are doing the measuring?
+- [00:51:01,450 - 00:51:06,220] What if the energy to the first excited rotational state
+- [00:51:06,220 - 00:51:08,060] is gigantic for some reason?
+- [00:51:09,300 - 00:51:15,860] Then your apparatus simply cannot resolve the orientation.
+- [00:51:16,800 - 00:51:18,540] So it becomes a question,
+- [00:51:18,540 - 00:51:19,900] given your apparatus,
+- [00:51:20,280 - 00:51:22,480] what is the excitable?
+- [00:51:22,480 - 00:51:24,000] How much energy does it take
+- [00:51:24,000 - 00:51:27,860] to excite the first angular momentum state?
+- [00:51:28,400 - 00:51:28,940] Now,
+- [00:51:28,940 - 00:51:30,500] for a basketball or a dumbbell,
+- [00:51:30,920 - 00:51:32,060] a real dumbbell,
+- [00:51:32,360 - 00:51:35,220] the energy separation between the first state
+- [00:51:35,220 - 00:51:37,160] and the second state is incredibly small.
+- [00:51:37,340 - 00:51:38,540] You can figure it out yourself.
+- [00:51:38,800 - 00:51:39,700] There's moment of inertia.
+- [00:51:40,040 - 00:51:42,080] There's quantization of angular momentum.
+- [00:51:42,280 - 00:51:43,020] You can figure it out.
+- [00:51:43,620 - 00:51:48,120] But the separation of energy levels is incredibly small.
+- [00:51:48,820 - 00:51:52,140] So it's not surprising that with an ordinary light,
+- [00:51:52,140 - 00:51:55,540] you can measure the orientation of the dumbbell.
+- [00:51:56,820 - 00:52:00,200] It doesn't take very much energy
+- [00:52:00,200 - 00:52:04,640] to kick the dumbbell into a state of definite orientation.
+- [00:52:05,560 - 00:52:06,920] But for a molecule,
+- [00:52:07,200 - 00:52:10,140] the energy levels are somewhat spread.
+- [00:52:11,960 - 00:52:13,820] The smaller the molecule,
+- [00:52:14,140 - 00:52:15,680] if we go from molecules,
+- [00:52:15,680 - 00:52:16,440] for example,
+- [00:52:16,440 - 00:52:17,240] to mesons,
+- [00:52:17,240 - 00:52:18,920] mesons are also dumbbells.
+- [00:52:18,920 - 00:52:19,860] They've got two quarks.
+- [00:52:19,860 - 00:52:22,020] They're also dumbbells.
+- [00:52:23,100 - 00:52:25,120] The energy that it would take
+- [00:52:25,570 - 00:52:30,320] to kick a meson into its first excited rotational state
+- [00:52:30,850 - 00:52:33,180] is hundreds of millions of...
+- [00:52:33,860 - 00:52:34,340] Yeah,
+- [00:52:34,340 - 00:52:38,480] hundreds of millions of electron volts,
+- [00:52:38,720 - 00:52:40,420] maybe a billion electron volts.
+- [00:52:41,300 - 00:52:45,180] That's huge by comparison with any optical photon
+- [00:52:45,180 - 00:52:47,340] that you would try to do an experiment with.
+- [00:52:47,540 - 00:52:48,220] So,
+- [00:52:48,220 - 00:52:50,460] if this were a meson,
+- [00:52:51,280 - 00:52:52,900] you simply could not,
+- [00:52:52,900 - 00:52:54,380] with ordinary experiments,
+- [00:52:54,700 - 00:52:58,120] resolve the fact that it's lopsided
+- [00:52:58,120 - 00:53:00,080] or that it's not a sphere.
+- [00:53:00,620 - 00:53:03,960] All you would do is measure over and over again
+- [00:53:03,960 - 00:53:06,360] the fact that on the average it's spherical,
+- [00:53:07,040 - 00:53:08,560] that on the average,
+- [00:53:08,720 - 00:53:12,220] the ground state wave function is spherical.
+- [00:53:12,420 - 00:53:13,310] And you keep measuring it
+- [00:53:13,310 - 00:53:14,200] and measuring it and measuring it,
+- [00:53:14,280 - 00:53:15,110] and you're not going to
+- [00:53:15,110 - 00:53:15,940] find out it's not a sphere
+- [00:53:15,940 - 00:53:18,200] until you probe it with your own eyes.
+- [00:53:18,200 - 00:53:19,760] But you can look at things which have enough energy
+- [00:53:19,760 - 00:53:21,420] to be able to kick
+- [00:53:21,420 - 00:53:23,080] it into a state like this.
+- [00:53:24,600 - 00:53:26,640] So the question of whether a
+- [00:53:26,640 - 00:53:28,680] thing is a sphere or not
+- [00:53:28,680 - 00:53:30,060] is a little bit confusing.
+- [00:53:30,380 - 00:53:34,080] The molecule is composed of two things
+- [00:53:34,080 - 00:53:35,880] with a bridge between them like this.
+- [00:53:35,940 - 00:53:36,760] It doesn't look like a sphere,
+- [00:53:36,940 - 00:53:37,680] but on the other hand,
+- [00:53:37,700 - 00:53:40,580] the quantum mechanical wave function sphericalizes it.
+- [00:53:42,220 - 00:53:42,740] Okay.
+- [00:53:45,480 - 00:53:46,520] Ordinary particles,
+- [00:53:46,520 - 00:53:51,220] if they are bosons in their ground states,
+- [00:53:52,080 - 00:53:54,220] typically have zero angular momentum,
+- [00:53:55,320 - 00:53:58,820] look as spherical as it's possible to be
+- [00:53:58,820 - 00:54:01,320] if they are bosons.
+- [00:54:02,040 - 00:54:03,560] But if they're fermions,
+- [00:54:03,560 - 00:54:05,140] then they have half spin.
+- [00:54:05,260 - 00:54:07,240] They can't have angular momentum zero.
+- [00:54:08,800 - 00:54:10,820] If they don't have angular momentum zero,
+- [00:54:10,960 - 00:54:13,020] it means they're not rotationally symmetric.
+- [00:54:13,020 - 00:54:14,880] This has nothing to do
+- [00:54:14,880 - 00:54:16,740] with how the charge is distributed.
+- [00:54:17,420 - 00:54:19,900] It's just a fact that
+- [00:54:19,900 - 00:54:22,380] half spin particles have an axis.
+- [00:54:22,680 - 00:54:23,600] They have a spin axis.
+- [00:54:24,160 - 00:54:26,420] You can measure their spin along an axis.
+- [00:54:26,780 - 00:54:28,040] They're definitely not spherical.
+- [00:54:28,440 - 00:54:30,320] They definitely have a spin axis.
+- [00:54:32,560 - 00:54:33,240] So,
+- [00:54:33,240 - 00:54:35,740] quite independently of any measurement
+- [00:54:35,740 - 00:54:38,520] that's done about electric dipole moments,
+- [00:54:38,760 - 00:54:40,920] the electron is not a sphere.
+- [00:54:41,220 - 00:54:43,000] The electron has a spin.
+- [00:54:43,020 - 00:54:44,140] Or it's not spherically symmetric.
+- [00:54:44,780 - 00:54:46,100] It has an axis.
+- [00:54:46,800 - 00:54:48,680] The axis is the spin axis.
+- [00:54:50,940 - 00:54:52,280] You have the spin axis.
+- [00:54:54,340 - 00:54:56,540] And about that spin axis,
+- [00:54:57,280 - 00:54:59,200] you can imagine a little current.
+- [00:55:00,800 - 00:55:02,670] There's a little electric current
+- [00:55:02,670 - 00:55:04,540] that goes around the spin axis.
+- [00:55:04,680 - 00:55:06,390] This is a little model for
+- [00:55:06,390 - 00:55:08,100] the magnetic moment of the electron.
+- [00:55:08,580 - 00:55:10,940] You can think of it as having a spin axis,
+- [00:55:10,940 - 00:55:13,040] carrying charge around,
+- [00:55:13,040 - 00:55:15,220] forming a current.
+- [00:55:15,420 - 00:55:17,480] And that current makes it a little electromagnet.
+- [00:55:18,180 - 00:55:18,720] Okay,
+- [00:55:18,720 - 00:55:19,800] so it has a magnetic moment.
+- [00:55:20,500 - 00:55:21,680] Definitely not spherical.
+- [00:55:24,540 - 00:55:26,760] And that should be the end of the story
+- [00:55:26,760 - 00:55:28,920] about whether an electron is a sphere or not.
+- [00:55:29,380 - 00:55:32,160] But what did they measure?
+- [00:55:32,600 - 00:55:33,140] Okay,
+- [00:55:33,140 - 00:55:35,260] so once you know
+- [00:55:36,100 - 00:55:39,180] that the electron has an orientation like that,
+- [00:55:39,180 - 00:55:40,950] and the orientation can be defined
+- [00:55:40,950 - 00:55:42,720] by the direction of its magnetic moment,
+- [00:55:43,700 - 00:55:45,080] then you can ask,
+- [00:55:45,080 - 00:55:46,900] relative to that direction,
+- [00:55:47,780 - 00:55:49,300] relative to that direction,
+- [00:55:50,040 - 00:55:52,500] is there a charge imbalance?
+- [00:55:53,160 - 00:55:55,920] Is there more charge on the,
+- [00:55:55,920 - 00:55:58,480] let's call this the north,
+- [00:55:58,720 - 00:56:00,800] and let's call this the south.
+- [00:56:00,860 - 00:56:01,680] It's a little magnet.
+- [00:56:03,540 - 00:56:05,240] It's also got electric charge.
+- [00:56:05,960 - 00:56:08,600] You can ask what the electric charge distribution
+- [00:56:09,180 - 00:56:11,500] is if the electron is
+- [00:56:11,500 - 00:56:13,820] put into a definite spin state.
+- [00:56:14,100 - 00:56:14,660] For example,
+- [00:56:14,660 - 00:56:14,940] up.
+- [00:56:15,400 - 00:56:15,920] Well,
+- [00:56:15,920 - 00:56:16,660] I didn't draw up.
+- [00:56:16,780 - 00:56:17,680] I did some other one here.
+- [00:56:18,300 - 00:56:19,420] So we could ask,
+- [00:56:19,420 - 00:56:22,300] is there a little bit of excess
+- [00:56:24,040 - 00:56:26,300] positive charge at the north pole
+- [00:56:26,300 - 00:56:28,340] and negative charge at the south pole?
+- [00:56:28,440 - 00:56:28,660] Of course,
+- [00:56:28,660 - 00:56:32,320] the overall electron is not neutral.
+- [00:56:32,640 - 00:56:34,580] It's negatively charged.
+- [00:56:34,980 - 00:56:36,180] But on top of that,
+- [00:56:36,180 - 00:56:38,040] is there a displacement
+- [00:56:38,040 - 00:56:43,920] of the center of charge relative to the axis,
+- [00:56:44,000 - 00:56:49,940] along the axis of the north-south orientation of the magnet?
+- [00:56:50,060 - 00:56:51,580] So what we're talking about is a correlation,
+- [00:56:51,860 - 00:56:56,020] a correlation between the electric charge displacement
+- [00:56:56,660 - 00:56:58,800] and the magnetic direction.
+- [00:56:59,920 - 00:57:02,740] That's the thing that would be called
+- [00:57:02,740 - 00:57:04,680] the electric dipole moment of the electron.
+- [00:57:05,980 - 00:57:10,840] If you orient the magnetic properties of the electron,
+- [00:57:10,960 - 00:57:12,540] the magnetic dipole,
+- [00:57:12,620 - 00:57:14,420] or just the spin along some axis,
+- [00:57:15,000 - 00:57:18,940] then is there an electric dipole moment along that axis?
+- [00:57:19,180 - 00:57:20,020] And that's a good question.
+- [00:57:20,360 - 00:57:21,520] That means something.
+- [00:57:21,660 - 00:57:22,300] That's measurable.
+- [00:57:24,180 - 00:57:24,740] Okay.
+- [00:57:24,860 - 00:57:26,200] Any questions about that?
+- [00:57:26,360 - 00:57:27,400] Are you interested?
+- [00:57:27,620 - 00:57:27,720] I mean,
+- [00:57:27,720 - 00:57:30,080] I'll go on a little more about what the experiment...
+- [00:57:30,080 - 00:57:30,400] Yeah.
+- [00:57:30,520 - 00:57:32,940] So wouldn't that violate charge quantization?
+- [00:57:33,400 - 00:57:33,680] No.
+- [00:57:34,140 - 00:57:35,320] Why charge quantization?
+- [00:57:39,260 - 00:57:41,430] I guess I think of it in terms of
+- [00:57:41,430 - 00:57:43,600] you either have a fixed charge or you don't.
+- [00:57:43,800 - 00:57:46,640] There's no freedom to spread the charge about.
+- [00:57:46,900 - 00:57:48,590] If the charge were just a
+- [00:57:48,590 - 00:57:50,280] little bit displaced toward the north pole,
+- [00:57:50,460 - 00:57:51,560] it would have a dipole moment.
+- [00:57:52,940 - 00:57:53,760] That's all it would take.
+- [00:57:53,840 - 00:57:55,080] Just displace it a little bit.
+- [00:57:55,160 - 00:57:56,420] Whether you smear it or not,
+- [00:57:56,640 - 00:57:58,500] all it would take is a little displacement.
+- [00:58:00,060 - 00:58:03,080] And so aren't electric dipole moments forbidden
+- [00:58:03,080 - 00:58:05,020] by quantum field theory?
+- [00:58:05,360 - 00:58:05,620] No.
+- [00:58:07,280 - 00:58:07,880] No.
+- [00:58:07,960 - 00:58:08,500] If they were,
+- [00:58:08,500 - 00:58:09,700] nobody would be looking for them.
+- [00:58:09,900 - 00:58:11,880] They are forbidden by certain symmetries.
+- [00:58:12,819 - 00:58:13,120] Okay?
+- [00:58:13,260 - 00:58:16,000] So let's talk about the symmetries which forbid...
+- [00:58:16,000 - 00:58:19,020] which would forbid electric dipole moment.
+- [00:58:19,900 - 00:58:20,500] Okay.
+- [00:58:21,160 - 00:58:25,180] The first symmetry that would forbid electric dipole moment
+- [00:58:25,180 - 00:58:27,040] is reflection symmetry.
+- [00:58:27,900 - 00:58:29,120] Reflection in a plane.
+- [00:58:29,660 - 00:58:30,260] Now,
+- [00:58:30,260 - 00:58:31,720] let us suppose for a moment
+- [00:58:31,720 - 00:58:34,220] that the world and the laws of physics
+- [00:58:34,220 - 00:58:37,200] were really reflection invariant.
+- [00:58:37,260 - 00:58:37,780] In other words,
+- [00:58:37,780 - 00:58:39,000] every mirror image
+- [00:58:40,040 - 00:58:45,180] is a possible solution of the equations of a system.
+- [00:58:46,000 - 00:58:48,100] And let's suppose there's only one electron.
+- [00:58:50,240 - 00:58:50,920] Well,
+- [00:58:50,920 - 00:58:53,480] if the mirror image of an electron
+- [00:58:53,480 - 00:58:56,980] has to be another possible solution of the theory,
+- [00:58:58,040 - 00:58:58,720] okay,
+- [00:58:58,840 - 00:59:01,080] and if there's only one electron,
+- [00:59:01,080 - 00:59:03,100] meaning to say one species of electron,
+- [00:59:03,740 - 00:59:06,320] then the mirror image must be exactly the same
+- [00:59:06,320 - 00:59:08,680] as the original electron itself.
+- [00:59:09,040 - 00:59:10,340] There's only one electron,
+- [00:59:10,480 - 00:59:12,500] and it must be its own mirror image.
+- [00:59:13,340 - 00:59:13,900] Okay.
+- [00:59:13,980 - 00:59:16,240] So now let's talk about this thing here.
+- [00:59:18,580 - 00:59:19,900] Let's think about it.
+- [00:59:19,960 - 00:59:21,380] Let's put a mirror over here.
+- [00:59:25,740 - 00:59:27,240] Can you see where the mirror is?
+- [00:59:28,819 - 00:59:29,100] Okay.
+- [00:59:29,100 - 00:59:31,660] We could also think about it.
+- [00:59:31,680 - 00:59:31,760] Yeah,
+- [00:59:31,760 - 00:59:34,100] let's think about the blackboard as the mirror.
+- [00:59:34,320 - 00:59:36,060] And let's look into the blackboard.
+- [00:59:36,760 - 00:59:40,040] The traditional way of drawing a magnetic field
+- [00:59:40,040 - 00:59:41,060] into the blackboard
+- [00:59:41,060 - 00:59:43,240] is to put some tail feathers sticking out.
+- [00:59:43,380 - 00:59:46,240] So that's the tail end of the...
+- [00:59:46,240 - 00:59:48,330] And that means that the
+- [00:59:48,330 - 00:59:50,420] current is going around this way.
+- [00:59:52,560 - 00:59:53,720] And we're asking,
+- [00:59:53,800 - 00:59:55,320] is there an in-out
+- [00:59:56,700 - 00:59:57,460] image of the blackboard?
+- [01:00:00,740 - 01:00:02,660] Okay,то
+- [01:00:04,060 - 01:00:05,360] is a maligghand thing.
+- [01:00:05,360 - 01:00:06,540] But
+- [01:00:06,540 - 01:00:07,600] here we have a very efficient type
+- [01:00:11,040 - 01:00:12,000] of magnetic field.
+- [01:00:12,000 - 01:00:12,120] And
+- [01:00:12,120 - 01:00:13,460] the first right represented is
+- [01:00:13,460 - 01:00:15,860] this blackboard.
+- [01:00:15,860 - 01:00:16,540] And
+- [01:00:25,060 - 01:00:26,600] we're going to put the color,
+- [01:00:26,600 - 01:00:26,980] North Pole.
+- [01:00:26,980 - 01:00:32,080] You think it's here,
+- [01:00:32,080 - 01:00:32,400] don't you?
+- [01:00:36,420 - 01:00:38,760] The mirror image is here again.
+- [01:00:38,760 - 01:00:40,680] Okay,
+- [01:00:40,680 - 01:00:41,420] why is that?
+- [01:00:41,420 - 01:00:44,660] It's because the real thing
+- [01:00:44,660 - 01:00:46,960] that's going on that gives the
+- [01:00:46,960 - 01:00:49,260] North Pole—this is an electromagnet—the real
+- [01:00:49,260 - 01:00:51,670] physical phenomena that's going on
+- [01:00:51,670 - 01:00:54,080] is not oriented along here.
+- [01:00:54,080 - 01:00:54,920] It's the current
+- [01:00:54,920 - 01:00:56,260] going around in the loop.
+- [01:00:56,260 - 01:01:00,360] The current going around in the loop here is the
+- [01:01:00,360 - 01:01:02,740] real thing which is creating the magnetic field.
+- [01:01:02,740 - 01:01:05,180] The real phenomenon of
+- [01:01:05,180 - 01:01:08,600] magnetism is associated with loop-like currents.
+- [01:01:08,600 - 01:01:09,620] Now,
+- [01:01:09,620 - 01:01:10,540] let's suppose we have a
+- [01:01:10,540 - 01:01:13,280] loop-like positive current going around this way.
+- [01:01:13,280 - 01:01:14,960] What's the mirror image of it?
+- [01:01:17,580 - 01:01:19,280] It's a loop-like current going
+- [01:01:19,280 - 01:01:20,980] around in exactly the same way.
+- [01:01:20,980 - 01:01:22,720] So the mirror image
+- [01:01:22,720 - 01:01:24,900] up here has a loop going around the same way.
+- [01:01:24,920 - 01:01:25,720] The same way this does,
+- [01:01:25,720 - 01:01:28,670] and therefore the mirror image
+- [01:01:28,670 - 01:01:31,620] of a magnet is a magnet
+- [01:01:31,620 - 01:01:33,860] pointing in the same direction.
+- [01:01:33,860 - 01:01:35,580] Okay,
+- [01:01:35,580 - 01:01:39,160] now let's also suppose that there was some
+- [01:01:39,160 - 01:01:39,980] charge imbalance,
+- [01:01:39,980 - 01:01:47,120] and let's suppose that the charge imbalance of this electron
+- [01:01:47,120 - 01:01:49,830] over here was displaced up
+- [01:01:49,830 - 01:01:52,540] toward the head of the arrow.
+- [01:01:53,960 - 01:01:54,900] Where would that be?
+- [01:01:54,920 - 01:01:56,620] Where would the charge displacement of this one be?
+- [01:01:58,700 - 01:02:00,440] Now just think mirror image.
+- [01:02:00,440 - 01:02:02,580] Don't think about north-south,
+- [01:02:02,580 - 01:02:03,680] think mirror image.
+- [01:02:03,680 - 01:02:05,080] I have a
+- [01:02:05,080 - 01:02:09,600] thing with a charge displaced toward the mirror.
+- [01:02:09,600 - 01:02:12,260] What's the mirror image going to be?
+- [01:02:12,580 - 01:02:13,760] Toward the mirror.
+- [01:02:13,760 - 01:02:18,740] So the charge displacement is going to be down here.
+- [01:02:19,580 - 01:02:22,110] But now we have an electron
+- [01:02:22,110 - 01:02:24,640] which is different than this one.
+- [01:02:24,920 - 01:02:27,940] Its north-south is correlated in a
+- [01:02:27,940 - 01:02:30,960] different way with its electric dipole moment.
+- [01:02:31,220 - 01:02:35,660] This one has an electric dipole moment that's along...
+- [01:02:35,660 - 01:02:40,320] that's matched in the same direction as the magnetic moment.
+- [01:02:41,140 - 01:02:43,220] This one has an electric
+- [01:02:43,220 - 01:02:45,300] dipole moment in the opposite direction.
+- [01:02:45,680 - 01:02:48,060] If all electrons are the same,
+- [01:02:48,060 - 01:02:49,640] in other words,
+- [01:02:49,640 - 01:02:51,940] if there's only one kind of electron
+- [01:02:51,940 - 01:02:54,240] and if mirror symmetry is a good symmetry,
+- [01:02:54,240 - 01:02:54,900] if it's a good symmetry,
+- [01:02:54,900 - 01:02:54,900] and if it's a mirror symmetry,
+- [01:02:54,900 - 01:02:54,900] then it's a good symmetry.
+- [01:02:54,920 - 01:02:56,340] If the world is really symmetric,
+- [01:02:56,340 - 01:02:57,680] in other words,
+- [01:02:57,680 - 01:03:00,620] if everything which exists its mirror
+- [01:03:00,620 - 01:03:01,960] image can also exist,
+- [01:03:01,960 - 01:03:03,680] but there's only one electron
+- [01:03:03,680 - 01:03:05,400] and there's only one conclusion,
+- [01:03:06,100 - 01:03:09,600] this charge cannot be displaced from the center.
+- [01:03:11,100 - 01:03:13,660] It must be at the center so
+- [01:03:13,660 - 01:03:16,220] that the mirror images have the same property.
+- [01:03:17,960 - 01:03:22,550] That's the only way that the electron charge
+- [01:03:22,550 - 01:03:27,140] can be distributed if you have mirror image
+- [01:03:27,140 - 01:03:27,580] symmetry,
+- [01:03:27,580 - 01:03:28,820] parity symmetry,
+- [01:03:28,820 - 01:03:29,500] it's called,
+- [01:03:29,500 - 01:03:30,400] reflection symmetry,
+- [01:03:30,400 - 01:03:31,380] all the same thing.
+- [01:03:31,620 - 01:03:32,400] In other words,
+- [01:03:32,400 - 01:03:34,640] if the world is such that
+- [01:03:34,640 - 01:03:36,880] the laws of physics don't distinguish between
+- [01:03:36,880 - 01:03:38,120] left hand and right hand.
+- [01:03:39,680 - 01:03:40,200] Okay,
+- [01:03:40,200 - 01:03:41,970] now the laws of physics do
+- [01:03:41,970 - 01:03:43,740] distinguish between left hand and right hand.
+- [01:03:43,820 - 01:03:44,080] We know,
+- [01:03:44,080 - 01:03:44,540] for example,
+- [01:03:44,540 - 01:03:46,200] there are left hand and right hand.
+- [01:03:46,200 - 01:03:46,720] There are neutrinos,
+- [01:03:46,720 - 01:03:49,320] there are only right handed anti-neutrinos.
+- [01:03:49,460 - 01:03:51,180] Left and right are not the same,
+- [01:03:51,180 - 01:03:52,380] they're correlated with,
+- [01:03:52,380 - 01:03:56,960] and reflection symmetry is not a good
+- [01:03:57,500 - 01:03:58,380] symmetry of physics.
+- [01:03:59,140 - 01:04:02,690] So that sounds like it opens up
+- [01:04:02,690 - 01:04:06,240] the possibility of an electron dipole moment.
+- [01:04:06,520 - 01:04:09,050] It sounds like once you admit that the
+- [01:04:09,050 - 01:04:11,580] world is not symmetric with respect to reflection
+- [01:04:11,580 - 01:04:12,160] symmetry,
+- [01:04:12,160 - 01:04:16,180] then there's no reason why the...
+- [01:04:16,180 - 01:04:18,200] The electron may not have a dipole moment.
+- [01:04:18,960 - 01:04:19,560] However,
+- [01:04:19,560 - 01:04:23,200] there's another symmetry which works in a very similar way,
+- [01:04:23,200 - 01:04:26,480] which is a much more
+- [01:04:26,480 - 01:04:27,660] accurate symmetry.
+- [01:04:27,860 - 01:04:30,340] Reflection symmetry in particle physics is bad.
+- [01:04:30,600 - 01:04:33,380] It's not even approximately right in the weak interactions.
+- [01:04:34,419 - 01:04:36,360] It's broken as bad as it could be.
+- [01:04:39,060 - 01:04:41,420] There's another symmetry and it's time reversal.
+- [01:04:42,060 - 01:04:43,990] It's simply the same as the statement
+- [01:04:43,990 - 01:04:45,920] that if you take a movie of a...
+- [01:04:45,920 - 01:04:46,160] Okay.
+- [01:04:46,180 - 01:04:47,860] ...thing and you run it backward,
+- [01:04:47,860 - 01:04:50,820] that that's another solution of the theory.
+- [01:04:51,060 - 01:04:52,400] Now that may or may not be a symmetry.
+- [01:04:52,680 - 01:04:54,020] It may or may not be,
+- [01:04:54,020 - 01:04:55,240] but let's suppose that it is.
+- [01:04:55,740 - 01:04:59,960] Let's suppose that reversing the film is a symmetry.
+- [01:05:00,180 - 01:05:00,960] First question is,
+- [01:05:00,960 - 01:05:07,420] what happens to the...
+- [01:05:08,900 - 01:05:10,940] Now we're not reflecting in a mirror,
+- [01:05:10,940 - 01:05:13,260] we're just reflecting in time.
+- [01:05:14,660 - 01:05:15,920] So let's put another...
+- [01:05:15,920 - 01:05:17,300] Another electron over here.
+- [01:05:20,819 - 01:05:23,609] What happens under time reversal
+- [01:05:23,609 - 01:05:26,400] to the north-south magnetic moment?
+- [01:05:27,640 - 01:05:28,280] Switch.
+- [01:05:28,440 - 01:05:29,080] Switches.
+- [01:05:29,080 - 01:05:29,220] Why?
+- [01:05:29,680 - 01:05:32,220] Because if a positive current is going around
+- [01:05:32,220 - 01:05:34,760] this way and you run the film backward,
+- [01:05:34,760 - 01:05:35,200] the
+- [01:05:35,200 - 01:05:36,860] positive current is going the other way.
+- [01:05:39,000 - 01:05:41,370] What happens to the position of the electric
+- [01:05:41,370 - 01:05:43,740] charge along here if you run it backward?
+- [01:05:43,960 - 01:05:44,420] Nothing.
+- [01:05:45,060 - 01:05:47,480] Running it backward doesn't move the electric charge.
+- [01:05:48,940 - 01:05:51,280] So when you time reverse it,
+- [01:05:51,280 - 01:05:56,360] the north pole gets down here,
+- [01:05:56,360 - 01:05:57,980] the south pole gets up here,
+- [01:05:58,120 - 01:05:59,840] but the electric charge,
+- [01:05:59,840 - 01:06:01,060] if it were displaced,
+- [01:06:01,060 - 01:06:05,000] would be displaced toward the south pole here
+- [01:06:05,000 - 01:06:06,640] and toward the north pole here.
+- [01:06:07,360 - 01:06:08,320] And so again,
+- [01:06:08,320 - 01:06:11,580] you would find out that if time symmetry,
+- [01:06:11,580 - 01:06:13,980] time reversal symmetry were a good symmetry,
+- [01:06:13,980 - 01:06:18,480] you could not have the electron having a dipole moment.
+- [01:06:19,080 - 01:06:21,060] If there was only one electron and it
+- [01:06:21,060 - 01:06:23,040] looks exactly the same as its time reversal,
+- [01:06:24,520 - 01:06:27,560] then the charge has to be right at the
+- [01:06:27,560 - 01:06:30,600] center because the time reversal interchanges north and south.
+- [01:06:30,760 - 01:06:31,160] In other words,
+- [01:06:31,160 - 01:06:32,240] it just turns this thing over,
+- [01:06:32,240 - 01:06:36,740] but it doesn't move the charge.
+- [01:06:37,839 - 01:06:38,120] Yeah.
+- [01:06:38,919 - 01:06:39,720] So like...
+- [01:06:42,080 - 01:06:43,960] Currents and charges have to be...
+- [01:06:43,980 - 01:06:45,140] Reverse?
+- [01:06:45,140 - 01:06:46,000] Have to be what?
+- [01:06:46,460 - 01:06:48,460] Are reversed by time reversing?
+- [01:06:48,580 - 01:06:48,680] No.
+- [01:06:48,920 - 01:06:49,620] Currents are,
+- [01:06:49,620 - 01:06:50,560] not charges.
+- [01:06:52,540 - 01:06:54,160] Charges are reversed by C.
+- [01:07:01,480 - 01:07:04,670] Doesn't nonrelativistic quantum mechanics already not
+- [01:07:04,670 - 01:07:07,860] time reversible because the operator is antiunitary?
+- [01:07:09,660 - 01:07:10,300] Yes,
+- [01:07:10,300 - 01:07:13,560] but it's time reversible because it's antiunitary.
+- [01:07:16,259 - 01:07:17,180] It's time reversible.
+- [01:07:19,940 - 01:07:23,190] Wouldn't all of this whole discussion be based
+- [01:07:23,190 - 01:07:26,440] upon the fact that electrons have a volume,
+- [01:07:26,440 - 01:07:27,300] it's not a point particle?
+- [01:07:27,740 - 01:07:27,960] No,
+- [01:07:27,960 - 01:07:28,080] no.
+- [01:07:28,140 - 01:07:30,040] We're just asking whether...
+- [01:07:30,040 - 01:07:30,420] Okay.
+- [01:07:30,640 - 01:07:31,740] You don't have to...
+- [01:07:31,740 - 01:07:33,700] If you want to know whether
+- [01:07:33,700 - 01:07:35,660] it has an electric dipole moment,
+- [01:07:35,660 - 01:07:38,580] what's the experiment you do?
+- [01:07:38,840 - 01:07:39,920] We now have...
+- [01:07:39,920 - 01:07:40,060] Okay.
+- [01:07:40,120 - 01:07:42,880] We put the electron into a magnetic field.
+- [01:07:44,900 - 01:07:45,380] And...
+- [01:07:50,600 - 01:07:51,080] No,
+- [01:07:51,080 - 01:07:53,020] we don't put the electron in a magnetic field.
+- [01:07:53,080 - 01:07:54,640] We want to know whether the
+- [01:07:54,640 - 01:07:56,200] electron has an electric dipole moment.
+- [01:07:56,520 - 01:07:57,830] How do we find out if
+- [01:07:57,830 - 01:07:59,140] it has a magnetic dipole moment?
+- [01:08:02,620 - 01:08:06,620] You put it in a magnetic field and you see
+- [01:08:06,620 - 01:08:10,620] whether the two orientations of the electron have different energy.
+- [01:08:11,440 - 01:08:11,560] Okay.
+- [01:08:12,420 - 01:08:14,620] You do the same thing with an electric field.
+- [01:08:14,760 - 01:08:18,729] You put the electron in an electric field and you see if the two
+- [01:08:18,729 - 01:08:22,700] orientations of the spin of the electron have different energy because of the electric field.
+- [01:08:23,680 - 01:08:24,240] I mean,
+- [01:08:24,240 - 01:08:26,380] that's a very easy way to do it,
+- [01:08:26,380 - 01:08:29,180] except that's much too hard experimentally.
+- [01:08:29,240 - 01:08:30,340] It's trickier than that.
+- [01:08:30,479 - 01:08:31,920] But that's the basic experiment.
+- [01:08:32,560 - 01:08:33,000] Okay.
+- [01:08:33,100 - 01:08:33,399] So,
+- [01:08:33,399 - 01:08:36,969] time reversal would be enough to tell you
+- [01:08:36,969 - 01:08:40,540] that the electron can't have a dipole moment.
+- [01:08:41,100 - 01:08:41,540] Okay.
+- [01:08:41,560 - 01:08:43,380] But is time reversal a real symmetry of nature?
+- [01:08:43,840 - 01:08:44,920] The answer is no.
+- [01:08:45,120 - 01:08:45,560] Again,
+- [01:08:45,560 - 01:08:46,640] in particle physics,
+- [01:08:46,640 - 01:08:49,580] we know that time reversal is not a good symmetry.
+- [01:08:50,180 - 01:08:51,160] There are processes,
+- [01:08:51,160 - 01:08:53,960] even in the standard model,
+- [01:08:53,960 - 01:08:59,020] which violate time reversal symmetry.
+- [01:08:59,620 - 01:09:05,060] But the magnitude of the effects are very,
+- [01:09:05,060 - 01:09:05,460] very,
+- [01:09:05,460 - 01:09:06,080] very tiny.
+- [01:09:07,359 - 01:09:09,300] The magnitudes of the effect...
+- [01:09:09,300 - 01:09:11,540] We understand where time reversal is.
+- [01:09:11,540 - 01:09:13,520] Time reversal asymmetry comes from the standard model.
+- [01:09:14,580 - 01:09:17,890] You can then do a calculation in the
+- [01:09:17,890 - 01:09:21,200] standard model of the allowable value of the electron
+- [01:09:21,200 - 01:09:22,040] dipole moment.
+- [01:09:22,260 - 01:09:25,979] And it's far too small to be experimentally detected.
+- [01:09:27,740 - 01:09:28,319] So,
+- [01:09:28,319 - 01:09:30,380] it's never been experimentally detected.
+- [01:09:30,680 - 01:09:32,779] And if the standard model is right,
+- [01:09:32,779 - 01:09:35,960] I don't know if it'll ever be detected,
+- [01:09:35,960 - 01:09:36,620] but it'd be
+- [01:09:36,620 - 01:09:37,399] very hard to detect.
+- [01:09:38,399 - 01:09:39,760] They didn't detect it.
+- [01:09:39,760 - 01:09:42,200] They detected no dipole moment.
+- [01:09:43,060 - 01:09:44,779] That's good for the standard model.
+- [01:09:45,080 - 01:09:46,979] The only thing is that most
+- [01:09:46,979 - 01:09:48,880] people don't believe in the standard model.
+- [01:09:49,060 - 01:09:51,200] They think that the standard model
+- [01:09:51,200 - 01:09:53,340] has to be corrected by additional particles,
+- [01:09:53,340 - 01:09:55,200] by supersymmetry,
+- [01:09:55,520 - 01:09:57,200] by new interactions,
+- [01:09:57,200 - 01:10:00,040] by new corrupting influences,
+- [01:10:00,040 - 01:10:03,460] which potentially could break the time reversal
+- [01:10:03,460 - 01:10:04,660] symmetry much worse.
+- [01:10:05,820 - 01:10:06,500] So,
+- [01:10:06,500 - 01:10:08,120] the fact that the electron
+- [01:10:08,120 - 01:10:09,740] is discovered from non-dipole moment,
+- [01:10:09,740 - 01:10:09,740] which is a very,
+- [01:10:09,740 - 01:10:09,740] very
+- [01:10:09,740 - 01:10:13,680] important factor in the electron's life,
+- [01:10:13,680 - 01:10:17,120] is not an indication that it's a sphere.
+- [01:10:18,840 - 01:10:20,190] It's an indication it doesn't
+- [01:10:20,190 - 01:10:21,540] have an electric dipole moment.
+- [01:10:22,540 - 01:10:28,110] And it makes it that much harder
+- [01:10:28,110 - 01:10:33,680] to introduce things that change the standard model.
+- [01:10:34,080 - 01:10:35,790] The standard model at the
+- [01:10:35,790 - 01:10:37,500] moment describes everything we know.
+- [01:10:37,700 - 01:10:38,710] This was an experiment to
+- [01:10:38,710 - 01:10:39,720] try to find the dipole moment.
+- [01:10:39,740 - 01:10:41,280] It was to try to detect an
+- [01:10:41,280 - 01:10:42,820] effect that the standard model would not have,
+- [01:10:42,820 - 01:10:43,780] could not have.
+- [01:10:44,560 - 01:10:45,080] Basically,
+- [01:10:45,080 - 01:10:45,980] it's unallowed.
+- [01:10:46,240 - 01:10:46,940] It's allowed,
+- [01:10:46,940 - 01:10:48,280] but it's at such a level,
+- [01:10:48,280 - 01:10:49,940] at a computable level,
+- [01:10:49,940 - 01:10:50,920] which is much too small.
+- [01:10:51,360 - 01:10:51,880] So,
+- [01:10:51,880 - 01:10:55,490] the result is that this experiment makes it
+- [01:10:55,490 - 01:10:59,100] even harder to believe in this or that
+- [01:11:00,559 - 01:11:02,340] modification of the standard model.
+- [01:11:02,760 - 01:11:05,660] What was the context of the experiment?
+- [01:11:05,880 - 01:11:09,720] Was it a material body or a material object?
+- [01:11:09,720 - 01:11:11,020] Was it a high energy physics experiment?
+- [01:11:11,280 - 01:11:11,360] No,
+- [01:11:11,360 - 01:11:11,460] no,
+- [01:11:11,460 - 01:11:11,580] no.
+- [01:11:11,600 - 01:11:13,840] It's a tabletop experiment involving
+- [01:11:13,840 - 01:11:16,080] electrons and magnetic fields and...
+- [01:11:16,080 - 01:11:17,380] With solid objects.
+- [01:11:20,640 - 01:11:21,040] Yeah.
+- [01:11:21,680 - 01:11:22,920] Electrons and magnetic fields.
+- [01:11:23,020 - 01:11:25,520] I don't know exactly what the experiment is.
+- [01:11:25,720 - 01:11:25,880] I mean,
+- [01:11:25,880 - 01:11:26,440] ordinarily,
+- [01:11:26,440 - 01:11:27,760] you take an electron and you put it
+- [01:11:27,760 - 01:11:29,080] in a field and you let it process
+- [01:11:29,080 - 01:11:29,920] around the field,
+- [01:11:29,920 - 01:11:32,520] but for many,
+- [01:11:32,520 - 01:11:33,840] many processions...
+- [01:11:33,840 - 01:11:35,000] Is it more near the
+- [01:11:35,000 - 01:11:36,160] sensitivity to compare with the number?
+- [01:11:37,240 - 01:11:37,640] No.
+- [01:11:38,380 - 01:11:39,700] But it had enough sensitivity.
+- [01:11:39,700 - 01:11:41,940] It had enough sensitivity to compare with
+- [01:11:41,940 - 01:11:44,180] the modifications of the standard model that
+- [01:11:44,180 - 01:11:45,180] people would like to see.
+- [01:11:46,220 - 01:11:46,860] Right.
+- [01:11:47,000 - 01:11:47,380] So,
+- [01:11:47,380 - 01:11:50,780] it's kind of interesting.
+- [01:11:51,040 - 01:11:54,040] I always love reading the commentary that
+- [01:11:54,040 - 01:11:57,040] people write in and how confused they can
+- [01:11:57,040 - 01:11:59,220] be about what...
+- [01:12:03,639 - 01:12:04,280] Yeah,
+- [01:12:04,280 - 01:12:05,880] somebody wrote in saying,
+- [01:12:05,880 - 01:12:06,500] well,
+- [01:12:06,500 - 01:12:09,640] this really proves that the standard model is garbage.
+- [01:12:09,640 - 01:12:10,820] And we should give it up.
+- [01:12:10,860 - 01:12:11,000] Well,
+- [01:12:11,000 - 01:12:12,100] exactly the opposite.
+- [01:12:12,300 - 01:12:12,740] It's...
+- [01:12:17,299 - 01:12:17,860] Anyway,
+- [01:12:17,860 - 01:12:20,100] I don't know how I got on that.
+- [01:12:21,100 - 01:12:21,660] So,
+- [01:12:21,660 - 01:12:22,860] does that result...
+- [01:12:22,860 - 01:12:23,260] Hmm?
+- [01:12:23,420 - 01:12:26,680] Does that result constrained in an
+- [01:12:26,680 - 01:12:29,940] interesting way which modifications are potentially viable?
+- [01:12:30,360 - 01:12:31,320] I don't know.
+- [01:12:31,960 - 01:12:33,780] I don't know.
+- [01:12:33,940 - 01:12:34,500] You know,
+- [01:12:34,500 - 01:12:37,300] I haven't followed that kind of thing in great detail.
+- [01:12:37,860 - 01:12:39,620] Somebody like Savas Damopoulos,
+- [01:12:39,620 - 01:12:39,620] who wrote a book called The
+- [01:12:39,640 - 01:12:39,640] Paraclassical Model,
+- [01:12:39,640 - 01:12:40,760] could probably tell you,
+- [01:12:40,760 - 01:12:41,020] well,
+- [01:12:41,020 - 01:12:44,040] that cuts the parameter space down
+- [01:12:44,040 - 01:12:46,020] by 72.1%.
+- [01:12:46,020 - 01:12:46,440] And...
+- [01:12:50,599 - 01:12:51,280] But,
+- [01:12:51,280 - 01:12:51,620] you know,
+- [01:12:51,620 - 01:12:55,190] any experiment which insists on
+- [01:12:55,190 - 01:12:58,760] giving results which are consistent with
+- [01:12:58,760 - 01:13:00,930] the standard model to high precision make
+- [01:13:00,930 - 01:13:03,100] it that much harder to modify it.
+- [01:13:04,660 - 01:13:05,340] So...
+- [01:13:07,780 - 01:13:08,460] Right.
+- [01:13:09,640 - 01:13:10,440] I just got a quick question.
+- [01:13:10,600 - 01:13:13,370] Is time reversal symmetry and
+- [01:13:13,370 - 01:13:16,140] conservation of information somewhat related,
+- [01:13:16,140 - 01:13:17,200] or...?
+- [01:13:17,200 - 01:13:18,060] No,
+- [01:13:18,060 - 01:13:19,700] time reversal symmetry...
+- [01:13:20,640 - 01:13:25,900] You always have in physics a symmetry called CPT.
+- [01:13:26,120 - 01:13:30,340] That's the combination of time reversal,
+- [01:13:30,340 - 01:13:32,460] change the charges,
+- [01:13:32,460 - 01:13:33,980] change the sign of the charge,
+- [01:13:34,100 - 01:13:35,200] and reflect in a mirror.
+- [01:13:35,360 - 01:13:39,540] All three of those simultaneously is a symmetry.
+- [01:13:39,640 - 01:13:40,220] Always.
+- [01:13:40,480 - 01:13:41,060] Has to be.
+- [01:13:41,960 - 01:13:44,080] And that's enough to ensure that...
+- [01:13:45,460 - 01:13:46,540] In fact,
+- [01:13:46,540 - 01:13:47,940] you don't even need that
+- [01:13:47,940 - 01:13:49,340] to ensure that information is conserved.
+- [01:13:49,560 - 01:13:49,700] No.
+- [01:13:49,960 - 01:13:50,840] You can...
+- [01:13:50,840 - 01:13:51,640] There are systems,
+- [01:13:51,640 - 01:13:52,600] very familiar systems,
+- [01:13:52,600 - 01:13:54,840] which are not time reversal invariant,
+- [01:13:54,840 - 01:13:55,540] just
+- [01:13:55,540 - 01:13:57,240] an electron in a magnetic field.
+- [01:13:57,660 - 01:14:01,780] An electron in a magnetic field goes in circular orbits,
+- [01:14:01,780 - 01:14:04,480] and those circular orbits go one way
+- [01:14:04,480 - 01:14:05,360] or the other,
+- [01:14:05,360 - 01:14:07,480] depending on the sign of the magnetic field.
+- [01:14:07,480 - 01:14:10,500] So if you stick in a definite magnetic field,
+- [01:14:10,500 - 01:14:13,460] the mathematical structure of the theory
+- [01:14:13,460 - 01:14:15,400] is not time reversal invariant,
+- [01:14:15,400 - 01:14:18,260] but it's a perfectly good quantum mechanical system.
+- [01:14:19,020 - 01:14:21,280] So just a particle in a magnetic field,
+- [01:14:21,280 - 01:14:25,340] the mathematical structure of the Schrodinger equation
+- [01:14:25,340 - 01:14:27,180] is not time reversal invariant.
+- [01:14:27,500 - 01:14:30,280] If you knew what the magnetic field was,
+- [01:14:30,280 - 01:14:37,460] and somebody showed you a movie of the Olympic
+- [01:14:37,460 - 01:14:37,680] Games,
+- [01:14:37,680 - 01:14:38,120] and you saw the electron moving,
+- [01:14:38,120 - 01:14:41,240] you could tell instantly whether it was a movie
+- [01:14:41,240 - 01:14:42,340] or an anti-movie,
+- [01:14:42,340 - 01:14:44,480] meaning to say that it
+- [01:14:44,480 - 01:14:46,620] was going backward rather than forward.
+- [01:14:49,440 - 01:14:50,000] But,
+- [01:14:50,000 - 01:14:50,740] of course,
+- [01:14:50,740 - 01:14:53,860] that's only because you didn't time reverse everything.
+- [01:14:55,200 - 01:14:56,540] What did that experiment...
+- [01:14:56,540 - 01:14:57,700] The experiment I just described,
+- [01:14:57,700 - 01:14:59,520] electron in a magnetic field,
+- [01:14:59,520 - 01:15:01,840] and it goes in one direction.
+- [01:15:02,140 - 01:15:04,860] What did I fail to not time reverse?
+- [01:15:05,180 - 01:15:05,800] The magnetic field.
+- [01:15:05,800 - 01:15:06,580] The magnetic field.
+- [01:15:07,460 - 01:15:12,940] If I was really doing the full-blown time reversal symmetry,
+- [01:15:12,940 - 01:15:14,660] I would also have to change
+- [01:15:14,660 - 01:15:16,040] the sign of a magnetic field.
+- [01:15:17,400 - 01:15:17,860] Yeah.
+- [01:15:20,340 - 01:15:20,800] Okay,
+- [01:15:20,800 - 01:15:21,760] I'm sorry,
+- [01:15:21,760 - 01:15:23,200] I don't know how I got on all of that.
+- [01:15:23,360 - 01:15:25,140] It was not my intention to...
+- [01:15:27,440 - 01:15:28,440] I'm just rambling.
+- [01:15:29,420 - 01:15:31,540] It's called old age.
+- [01:15:36,040 - 01:15:37,260] Let's stop for a few minutes,
+- [01:15:37,260 - 01:15:38,410] and then we'll get back
+- [01:15:38,410 - 01:15:39,560] to second quantization and all that
+- [01:15:39,560 - 01:15:39,860] stuff.
+- [01:15:41,340 - 01:15:42,780] Mostly I wanted a rest
+- [01:15:42,780 - 01:15:44,220] from doing mathematics on the blackboard.
+- [01:15:46,200 - 01:15:46,640] Okay,
+- [01:15:46,640 - 01:15:51,060] we were doing second quantization,
+- [01:15:51,060 - 01:15:59,020] and I thought I would...
+- [01:15:59,020 - 01:15:59,920] I thought I would...
+- [01:16:01,299 - 01:16:03,539] I thought I would tell you a few
+- [01:16:03,539 - 01:16:05,780] things about it that I haven't mentioned so far,
+- [01:16:05,780 - 01:16:06,940] in no
+- [01:16:06,940 - 01:16:07,880] particular order,
+- [01:16:07,880 - 01:16:11,340] but some of the physical consequences of it.
+- [01:16:11,740 - 01:16:12,520] The first...
+- [01:16:15,660 - 01:16:16,620] First thing is,
+- [01:16:16,620 - 01:16:20,120] somebody asked me whether the field operators and so forth,
+- [01:16:20,120 - 01:16:20,540] how they're
+- [01:16:20,540 - 01:16:21,960] connected with Fourier transforms,
+- [01:16:21,960 - 01:16:23,430] so I thought I would tell
+- [01:16:23,430 - 01:16:24,900] you to begin with exactly what
+- [01:16:24,900 - 01:16:26,660] the connection with Fourier transforms is.
+- [01:16:31,540 - 01:16:32,820] It's very simple.
+- [01:16:33,620 - 01:16:34,940] If you remember,
+- [01:16:34,940 - 01:16:37,020] in ordinary quantum mechanics,
+- [01:16:37,020 - 01:16:38,140] you have wave functions,
+- [01:16:38,140 - 01:16:40,220] and the squares of
+- [01:16:40,220 - 01:16:42,810] the wave functions are probabilities
+- [01:16:42,810 - 01:16:45,400] to find particles at different places.
+- [01:16:46,480 - 01:16:49,980] You can Fourier transform the wave function,
+- [01:16:49,980 - 01:16:53,400] and the Fourier transform is the wave function
+- [01:16:53,400 - 01:16:54,660] in the momentum basis.
+- [01:16:55,420 - 01:16:56,640] So while...
+- [01:16:56,640 - 01:16:56,640] So I have a particle,
+- [01:16:56,640 - 01:16:57,840] psi of x...
+- [01:17:09,580 - 01:17:11,080] This is not the field operator,
+- [01:17:11,080 - 01:17:12,060] this is little psi.
+- [01:17:13,560 - 01:17:16,320] Little psi is the wave function for a single particle.
+- [01:17:20,100 - 01:17:21,680] Psi of x is the wave function,
+- [01:17:21,680 - 01:17:23,840] and psi star of psi is the probability.
+- [01:17:26,640 - 01:17:27,480] Probability of what?
+- [01:17:28,200 - 01:17:30,860] Probability to find the particle at position x.
+- [01:17:31,080 - 01:17:31,920] P of x.
+- [01:17:32,120 - 01:17:33,060] Probability of x.
+- [01:17:33,860 - 01:17:34,380] Now,
+- [01:17:34,380 - 01:17:36,340] supposing I want to work in the momentum basis,
+- [01:17:36,340 - 01:17:40,180] the momentum basis tells me what the
+- [01:17:40,180 - 01:17:43,420] amplitude for the momentum to have a certain value,
+- [01:17:43,420 - 01:17:45,420] and if I square it,
+- [01:17:45,420 - 01:17:46,140] it gives me the
+- [01:17:46,140 - 01:17:48,200] probability to have a certain momentum.
+- [01:17:48,920 - 01:17:51,020] So that's a thing that's called...
+- [01:17:51,020 - 01:17:53,720] I think we probably called it psi...
+- [01:17:53,720 - 01:17:54,380] Um...
+- [01:17:56,240 - 01:17:57,780] Did we call it psi twiddle?
+- [01:17:59,280 - 01:17:59,980] We did.
+- [01:18:01,140 - 01:18:02,600] Psi twiddle of p.
+- [01:18:04,780 - 01:18:07,520] The twiddle is just to make another symbol.
+- [01:18:08,400 - 01:18:09,620] Psi twiddle of p,
+- [01:18:09,620 - 01:18:10,640] where p is the momentum,
+- [01:18:10,640 - 01:18:16,180] that's a thing which when you square it,
+- [01:18:16,180 - 01:18:19,820] is
+- [01:18:19,820 - 01:18:20,420] the probability,
+- [01:18:20,420 - 01:18:21,890] but not the probability for the
+- [01:18:21,890 - 01:18:23,360] particle to have a certain position,
+- [01:18:23,360 - 01:18:24,220] but
+- [01:18:24,220 - 01:18:26,500] the probability to have momentum p.
+- [01:18:27,800 - 01:18:29,560] This p and this p are different.
+- [01:18:30,040 - 01:18:31,080] One is probability,
+- [01:18:31,080 - 01:18:32,080] one is momentum.
+- [01:18:32,840 - 01:18:33,380] Okay,
+- [01:18:33,380 - 01:18:35,150] what's the connection between psi of
+- [01:18:35,150 - 01:18:36,920] x and psi twiddle of p?
+- [01:18:37,180 - 01:18:39,180] They're Fourier conjugates of each other,
+- [01:18:39,180 - 01:18:40,880] or Fourier transforms of each other.
+- [01:18:41,420 - 01:18:42,820] So let's write that down.
+- [01:18:43,160 - 01:18:44,380] Let's come over here.
+- [01:18:54,220 - 01:18:58,390] Psi twiddle of p is
+- [01:18:58,390 - 01:19:02,560] equal to the integral over x...
+- [01:19:22,259 - 01:19:24,080] e to the minus i px.
+- [01:19:24,380 - 01:19:26,040] That's the Fourier transform.
+- [01:19:26,740 - 01:19:28,060] It's a function of p,
+- [01:19:28,060 - 01:19:28,880] not x,
+- [01:19:28,880 - 01:19:30,520] because x has been integrated over.
+- [01:19:30,520 - 01:19:32,540] And the marvelous thing is that
+- [01:19:32,540 - 01:19:34,560] you can go back and forth.
+- [01:19:34,840 - 01:19:36,560] If you know what psi p is,
+- [01:19:36,560 - 01:19:39,640] then you can reconstruct what psi of x is.
+- [01:19:39,860 - 01:19:43,980] And so psi of x is equal to
+- [01:19:43,980 - 01:19:48,100] the integral dp over square root of 2 pi.
+- [01:19:51,140 - 01:19:52,920] Psi twiddle of p.
+- [01:19:54,280 - 01:19:55,280] Only difference,
+- [01:19:55,280 - 01:19:57,240] e to the plus i px.
+- [01:19:58,220 - 01:19:59,740] And that's Fourier's theorem.
+- [01:19:59,740 - 01:20:03,830] That's Fourier's theorem relating
+- [01:20:03,830 - 01:20:07,920] functions and their Fourier transforms.
+- [01:20:09,620 - 01:20:11,620] Now it has a physical significance,
+- [01:20:11,620 - 01:20:15,360] and the physical significance is in terms of
+- [01:20:15,360 - 01:20:19,100] probabilities or wave functions for momentum and position.
+- [01:20:20,680 - 01:20:21,320] Okay.
+- [01:20:21,780 - 01:20:22,420] Now,
+- [01:20:22,420 - 01:20:25,660] let's go now to second quantization theory,
+- [01:20:25,660 - 01:20:28,080] where we have not a wave function for a particle,
+- [01:20:28,280 - 01:20:29,720] but a field operation.
+- [01:20:30,260 - 01:20:30,700] So let's go back to the field operator.
+- [01:20:30,700 - 01:20:32,960] Creation and annihilation operators...
+- [01:20:39,000 - 01:20:40,880] I'm not going to prove a lot of stuff tonight.
+- [01:20:41,080 - 01:20:41,980] I'm going to tell you facts,
+- [01:20:41,980 - 01:20:43,760] but they're facts which are pretty darn reasonable,
+- [01:20:43,900 - 01:20:46,940] and you can reconstruct them from what we said.
+- [01:20:48,480 - 01:20:48,920] Okay,
+- [01:20:48,920 - 01:20:51,030] so let's go back to
+- [01:20:51,030 - 01:20:53,140] the definition of the field operator.
+- [01:20:54,260 - 01:20:55,640] Now it's a field operator,
+- [01:20:55,640 - 01:20:57,500] capital Psi of x.
+- [01:20:58,360 - 01:20:59,720] And it was originally here.
+- [01:20:59,720 - 01:21:00,160] Now,
+- [01:21:00,160 - 01:21:00,160] let's look at the definition of the field operator.
+- [01:21:00,160 - 01:21:03,920] So we can write a sum over
+- [01:21:03,920 - 01:21:07,680] all the energy eigenvectors of a system,
+- [01:21:07,800 - 01:21:10,060] of creation operators.
+- [01:21:10,340 - 01:21:11,080] This one would be,
+- [01:21:11,080 - 01:21:12,020] let's see,
+- [01:21:12,020 - 01:21:13,440] this is the annihilation operator.
+- [01:21:13,760 - 01:21:15,220] Let's call it Psi minus.
+- [01:21:16,120 - 01:21:23,400] A minus of i times Psi i of x,
+- [01:21:23,640 - 01:21:25,920] where this Psi i of x over here
+- [01:21:25,920 - 01:21:28,200] is just the ordinary wave function of a particle
+- [01:21:28,780 - 01:21:30,020] with state I.
+- [01:21:30,020 - 01:21:30,720] Okay,
+- [01:21:30,720 - 01:21:32,840] we went through that a couple of times.
+- [01:21:32,840 - 01:21:35,820] Now what if we were dealing with the case
+- [01:21:35,820 - 01:21:39,100] of a free particle on an infinite axis,
+- [01:21:39,100 - 01:21:42,900] or infinite whatever the dimensionality of space is,
+- [01:21:43,700 - 01:21:47,720] a free particle whose energy eigenstates are what?
+- [01:21:47,720 - 01:21:50,360] Just a particle moving in empty space.
+- [01:21:50,620 - 01:21:52,940] What are the energy eigenstates of a free particle?
+- [01:21:52,940 - 01:21:55,020] Well,
+- [01:21:55,020 - 01:21:56,620] you can begin by asking what's
+- [01:21:56,620 - 01:21:57,380] the Hamiltonian,
+- [01:21:57,380 - 01:21:59,460] and the Hamiltonian is p squared over 2m.
+- [01:21:59,460 - 01:22:02,940] So the eigenstates of energy are likely
+- [01:22:02,940 - 01:22:04,380] to be eigenstates of momentum.
+- [01:22:04,380 - 01:22:05,840] If you know the momentum,
+- [01:22:05,840 - 01:22:07,080] then you know the energy.
+- [01:22:07,080 - 01:22:08,300] What are the
+- [01:22:08,300 - 01:22:08,920] eigenstates,
+- [01:22:08,920 - 01:22:10,160] or what are the wave
+- [01:22:10,160 - 01:22:11,400] functions of the eigenstates of momentum?
+- [01:22:11,400 - 01:22:14,720] They're e to the i p x.
+- [01:22:16,319 - 01:22:16,839] Okay,
+- [01:22:16,839 - 01:22:19,559] so if we were to go
+- [01:22:19,559 - 01:22:22,280] to the case of a free particle,
+- [01:22:22,280 - 01:22:25,940] the psi i's of x would be
+- [01:22:27,480 - 01:22:29,180] e to the i p x.
+- [01:22:29,180 - 01:22:31,320] Well,
+- [01:22:31,320 - 01:22:34,800] this i is different than this i.
+- [01:22:34,800 - 01:22:36,380] This i is the square
+- [01:22:36,380 - 01:22:37,960] root of minus 1 over here.
+- [01:22:38,300 - 01:22:39,600] This i is an integer.
+- [01:22:39,600 - 01:22:41,280] What happened to the integer here?
+- [01:22:41,280 - 01:22:45,000] Where's the integer labeling the momentum eigenstates?
+- [01:22:45,120 - 01:22:45,920] There is no integer.
+- [01:22:45,920 - 01:22:47,620] All there is is the momentum.
+- [01:22:47,620 - 01:22:50,640] The momentum states are labeled by momentum.
+- [01:22:51,100 - 01:22:52,460] Momentum is not an integer.
+- [01:22:52,460 - 01:22:54,530] It's a continuous variable that goes from
+- [01:22:54,530 - 01:22:56,600] minus infinity to the i p x.
+- [01:23:00,200 - 01:23:05,330] delta of x is the sum of there and
+- [01:23:05,330 - 01:23:10,460] it's e to the number of re'th's of i's.
+- [01:23:10,460 - 01:23:10,520] independence x.
+- [01:23:10,520 - 01:23:11,360] vérith's is delta of x.
+- [01:23:11,360 - 01:23:11,360] reaction time is b plus times h,
+- [01:23:11,360 - 01:23:11,360] plus of b x plus Mana
+- [01:23:11,360 - 01:23:11,360] precip 보니까.
+- [01:23:11,360 - 01:23:12,500] But now the new solution
+- [01:23:12,500 - 01:23:13,640] comes out as subtraction from infinity.
+- [01:23:13,640 - 01:23:14,280] This'll just say pas Jonas proof to
+- [01:23:14,280 - 01:23:18,880] be P times..
+- [01:23:18,880 - 01:23:20,660] So this,
+- [01:23:20,660 - 01:23:23,060] when minus infinity is proved,
+- [01:23:23,060 - 01:23:23,060] this normalization,
+- [01:23:23,060 - 01:23:24,040] is going to result in
+- [01:23:26,620 - 01:23:27,600] of momentum p.
+- [01:23:27,600 - 01:23:32,700] This object here removes a particle of
+- [01:23:32,700 - 01:23:37,800] momentum p in the same way that
+- [01:23:37,800 - 01:23:41,040] A minus removes a particle in the state I.
+- [01:23:41,040 - 01:23:45,280] So if you have a state with lots of particles
+- [01:23:45,280 - 01:23:45,660] in it,
+- [01:23:45,660 - 01:23:48,280] and there are among other things particles of momentum p,
+- [01:23:48,280 - 01:23:50,320] if you act with A minus,
+- [01:23:50,320 - 01:23:50,980] it
+- [01:23:50,980 - 01:23:52,780] removes one particle of momentum p.
+- [01:23:52,780 - 01:23:55,280] What if there is no particle of momentum p there?
+- [01:23:55,280 - 01:23:55,820] What does it do?
+- [01:23:55,820 - 01:23:59,070] It just annihilates the state in
+- [01:23:59,070 - 01:24:02,320] the same way that annihilation operators
+- [01:24:03,440 - 01:24:05,740] or lowering operators annihilate
+- [01:24:05,740 - 01:24:08,040] states with nothing in them.
+- [01:24:08,040 - 01:24:10,840] So that's psi of x,
+- [01:24:10,840 - 01:24:15,460] the field
+- [01:24:15,460 - 01:24:15,800] operator.
+- [01:24:15,800 - 01:24:18,000] And for good measure,
+- [01:24:18,000 - 01:24:19,920] it's a matter of definition,
+- [01:24:19,920 - 01:24:21,760] we put a square root of 2 pi
+- [01:24:21,760 - 01:24:22,040] there.
+- [01:24:23,020 - 01:24:24,680] Just to make it look like
+- [01:24:24,680 - 01:24:24,900] um
+- [01:24:25,780 - 01:24:27,580] I like this equation here.
+- [01:24:27,580 - 01:24:32,250] So it looks awfully much like
+- [01:24:32,250 - 01:24:36,920] A minus of p in the mathematical
+- [01:24:36,920 - 01:24:40,700] connection here is playing the same
+- [01:24:40,700 - 01:24:44,480] role as psi twiddle of p here.
+- [01:24:45,500 - 01:24:46,220] Okay.
+- [01:24:50,680 - 01:24:54,620] All we've done is replace sums by integrals
+- [01:24:55,280 - 01:24:55,560] with i
+- [01:24:55,560 - 01:24:57,160] i by the momentum of the particle,
+- [01:24:57,160 - 01:24:58,220] and we now
+- [01:24:58,220 - 01:24:59,480] have the notion of a,
+- [01:24:59,480 - 01:25:00,100] um,
+- [01:25:00,100 - 01:25:03,860] of an annihilation operator for a particle of momentum p.
+- [01:25:03,860 - 01:25:05,440] Now
+- [01:25:05,440 - 01:25:07,400] remember what psi of x did itself?
+- [01:25:07,720 - 01:25:08,400] Not what,
+- [01:25:08,400 - 01:25:11,000] not what these creation operators here did,
+- [01:25:11,000 - 01:25:13,440] but what did psi of x do when it
+- [01:25:13,440 - 01:25:14,020] acts on a,
+- [01:25:14,020 - 01:25:14,560] um.
+- [01:25:15,620 - 01:25:16,880] When it acts on a,
+- [01:25:16,880 - 01:25:19,960] um on the vacuum for example?
+- [01:25:23,080 - 01:25:24,080] Sorry.Oh.
+- [01:25:26,059 - 01:25:28,080] I want the creation piece.
+- [01:25:32,180 - 01:25:33,040] It's I plus.
+- [01:25:33,880 - 01:25:34,920] Same thing,
+- [01:25:34,920 - 01:25:36,700] except A plus here.
+- [01:25:38,580 - 01:25:40,500] With E to the minus I PX.
+- [01:25:44,180 - 01:25:45,360] My knee is going.
+- [01:25:46,240 - 01:25:46,800] Okay,
+- [01:25:46,800 - 01:25:49,480] so what does Psi plus do?
+- [01:25:52,280 - 01:25:53,740] It creates a particle.
+- [01:25:54,339 - 01:25:56,380] It's got a bunch of creation operators in it.
+- [01:25:56,440 - 01:25:57,680] And what kind of particle does it create?
+- [01:25:59,360 - 01:26:01,420] A particle at position X.
+- [01:26:02,620 - 01:26:04,760] A particle at position X.
+- [01:26:05,320 - 01:26:07,440] That's what Psi plus of X is.
+- [01:26:08,900 - 01:26:11,900] What do you think that A plus of P does?
+- [01:26:14,420 - 01:26:16,520] It creates a particle with momentum P.
+- [01:26:18,100 - 01:26:22,060] So it's clear that Psi plus and Psi minus...
+- [01:26:23,740 - 01:26:27,060] You can invert this equation.
+- [01:26:27,860 - 01:26:28,640] You can,
+- [01:26:28,640 - 01:26:29,180] for example,
+- [01:26:29,180 - 01:26:30,900] write that A minus of P
+- [01:26:32,660 - 01:26:34,000] is equal to integral
+- [01:26:35,500 - 01:26:36,100] dx
+- [01:26:38,700 - 01:26:40,480] field operator Psi of X
+- [01:26:43,400 - 01:26:46,340] times E to the minus I PX
+- [01:26:47,160 - 01:26:49,500] again over square root of pi to pi.
+- [01:26:50,860 - 01:26:51,880] In other words,
+- [01:26:51,880 - 01:26:53,260] you can do the same manipulation
+- [01:26:55,040 - 01:26:57,240] as you do with Fourier's theorem.
+- [01:26:57,460 - 01:26:58,320] You can prove it.
+- [01:26:58,360 - 01:27:00,120] You can prove one thing follows from the other.
+- [01:27:00,280 - 01:27:02,320] And what it says is
+- [01:27:02,320 - 01:27:04,360] that there's a mathematical correspondence
+- [01:27:04,360 - 01:27:07,060] or similarity between wave functions
+- [01:27:07,060 - 01:27:09,760] in position and momentum space
+- [01:27:09,760 - 01:27:12,090] and creation and annihilation
+- [01:27:12,090 - 01:27:14,420] operators for particles at positions
+- [01:27:14,420 - 01:27:16,940] or particles with given momentum.
+- [01:27:17,880 - 01:27:20,210] The A minus of P
+- [01:27:20,210 - 01:27:22,540] is essentially the Fourier is analogous.
+- [01:27:22,660 - 01:27:23,720] I could have done that.
+- [01:27:23,720 - 01:27:25,620] I could have called this here A of P.
+- [01:27:26,380 - 01:27:28,140] I could have called this A of P.
+- [01:27:29,460 - 01:27:31,460] Just redefine instead of Psi twiddle.
+- [01:27:31,960 - 01:27:34,140] And then these formulas would look very similar.
+- [01:27:34,220 - 01:27:34,940] They would look identical.
+- [01:27:35,960 - 01:27:38,560] But all this is saying is that
+- [01:27:38,560 - 01:27:41,160] the relationship between creation and annihilation operators
+- [01:27:41,160 - 01:27:43,120] for positions and momentums,
+- [01:27:43,760 - 01:27:45,440] creating a particle at a given position,
+- [01:27:46,120 - 01:27:47,520] that's done with Psi of X.
+- [01:27:48,240 - 01:27:49,700] Creating a particle...
+- [01:27:51,480 - 01:27:52,320] Is this right?
+- [01:27:52,320 - 01:27:52,580] Yeah.
+- [01:27:53,920 - 01:27:55,480] Let's do the creation part.
+- [01:27:56,800 - 01:27:57,400] Plus,
+- [01:27:57,400 - 01:27:58,540] I think it's this way.
+- [01:28:01,620 - 01:28:03,930] The creation operators for particles
+- [01:28:03,930 - 01:28:06,240] of given position and given momentum
+- [01:28:07,059 - 01:28:09,260] are Fourier conjugates of each other.
+- [01:28:10,200 - 01:28:12,660] So that's one fact about second quantization.
+- [01:28:12,960 - 01:28:13,460] And keep in mind,
+- [01:28:13,460 - 01:28:14,660] these are not wave functions now.
+- [01:28:14,740 - 01:28:16,280] These are operators that operate
+- [01:28:16,280 - 01:28:17,820] to create and remove particles.
+- [01:28:20,400 - 01:28:22,050] Psi is the field operator
+- [01:28:22,050 - 01:28:23,700] for a particular kind of function.
+- [01:28:23,720 - 01:28:23,940] So if you have a particular kind of particle,
+- [01:28:24,240 - 01:28:25,850] if there are several different
+- [01:28:25,850 - 01:28:27,460] kinds of particles in the system,
+- [01:28:27,600 - 01:28:28,910] then you have to have
+- [01:28:28,910 - 01:28:30,220] several different kinds of field operators.
+- [01:28:30,460 - 01:28:33,020] There's a field operator for each kind of particle.
+- [01:28:34,160 - 01:28:34,720] Okay,
+- [01:28:34,720 - 01:28:35,940] so that's one fact.
+- [01:28:37,400 - 01:28:38,460] That's one fact.
+- [01:28:39,120 - 01:28:40,040] Second fact,
+- [01:28:40,300 - 01:28:43,140] and I'm going to quote some facts now without proof,
+- [01:28:44,360 - 01:28:46,010] but they're all things that
+- [01:28:46,010 - 01:28:47,660] you can prove from the definitions.
+- [01:28:48,200 - 01:28:49,920] And they're straightforward.
+- [01:28:52,460 - 01:28:53,020] And they're straightforward.
+- [01:28:53,140 - 01:28:53,700] And they're straightforward.
+- [01:28:57,580 - 01:28:58,220] Okay,
+- [01:28:58,220 - 01:28:59,400] let's come back to the,
+- [01:28:59,500 - 01:29:01,320] let's use the A plus Is
+- [01:29:01,320 - 01:29:03,840] instead of momentum states.
+- [01:29:07,300 - 01:29:09,180] Here's something that we wrote down
+- [01:29:10,860 - 01:29:13,260] for creation and annihilation operators.
+- [01:29:16,320 - 01:29:16,960] I.
+- [01:29:19,900 - 01:29:21,840] Do you remember what the commutator
+- [01:29:22,660 - 01:29:23,700] of A plus I was?
+- [01:29:23,720 - 01:29:24,940] What A plus with A minus is?
+- [01:29:26,100 - 01:29:27,020] Delta Ij.
+- [01:29:27,200 - 01:29:28,100] Delta Ij.
+- [01:29:32,140 - 01:29:34,260] What about A minus with A minus?
+- [01:29:36,420 - 01:29:37,680] For any i and j?
+- [01:29:38,080 - 01:29:38,560] Zero.
+- [01:29:39,640 - 01:29:41,560] What about A plus with A plus?
+- [01:29:42,900 - 01:29:43,380] Zero.
+- [01:29:44,180 - 01:29:45,940] These are the only commutators
+- [01:29:45,940 - 01:29:48,100] which are non-zero.
+- [01:29:49,100 - 01:29:49,580] Well,
+- [01:29:49,580 - 01:29:51,360] I could ask a different question.
+- [01:29:51,480 - 01:29:52,320] I could ask instead,
+- [01:29:52,320 - 01:29:53,340] what are the
+- [01:29:53,720 - 01:29:56,600] commutators of size of x
+- [01:29:56,600 - 01:29:58,300] at different positions?
+- [01:29:58,480 - 01:29:59,480] Instead of asking
+- [01:29:59,480 - 01:30:02,280] what are the commutation relations
+- [01:30:02,280 - 01:30:03,780] between the creation operators
+- [01:30:03,780 - 01:30:05,140] and annihilation operators
+- [01:30:05,140 - 01:30:06,600] in the basis i and j,
+- [01:30:06,820 - 01:30:08,620] I could ask what is
+- [01:30:08,620 - 01:30:11,860] the commutator of the creation operator
+- [01:30:11,860 - 01:30:14,480] for a particle at point x
+- [01:30:15,440 - 01:30:17,420] with the annihilation operator
+- [01:30:17,420 - 01:30:19,800] at point y?
+- [01:30:21,520 - 01:30:22,820] at point y?
+- [01:30:23,200 - 01:30:23,700] You're right.
+- [01:30:23,720 - 01:30:24,120] That's right.
+- [01:30:24,320 - 01:30:26,520] But how would you prove it?
+- [01:30:26,760 - 01:30:29,600] You would prove it by simply sticking in
+- [01:30:29,600 - 01:30:30,540] the definition
+- [01:30:31,719 - 01:30:33,120] of the size
+- [01:30:33,120 - 01:30:35,760] in terms of the creation and annihilation operators
+- [01:30:35,760 - 01:30:37,340] and then using
+- [01:30:37,340 - 01:30:39,520] the commutation relations of the creation
+- [01:30:39,520 - 01:30:40,720] and annihilation operators.
+- [01:30:41,380 - 01:30:42,680] And what you would find
+- [01:30:42,680 - 01:30:43,980] is exactly what was just said.
+- [01:30:44,060 - 01:30:45,660] It's just delta of x minus y.
+- [01:30:48,560 - 01:30:49,660] In other words,
+- [01:30:49,800 - 01:30:50,560] they commute
+- [01:30:52,160 - 01:30:53,620] when the points are not
+- [01:30:53,720 - 01:30:54,080] the same,
+- [01:30:54,080 - 01:30:55,700] and they don't
+- [01:30:55,700 - 01:30:56,020] commute,
+- [01:30:56,020 - 01:30:57,640] and they're a very big
+- [01:30:57,640 - 01:30:59,560] non-commutator.
+- [01:31:01,080 - 01:31:01,640] Remember,
+- [01:31:01,860 - 01:31:03,560] a delta function has the property that it's
+- [01:31:03,560 - 01:31:05,540] infinite when x is equal to y.
+- [01:31:07,639 - 01:31:08,200] So,
+- [01:31:08,200 - 01:31:09,500] the commutators
+- [01:31:09,500 - 01:31:10,520] of size,
+- [01:31:10,800 - 01:31:12,380] psi plus and psi minus,
+- [01:31:12,380 - 01:31:13,740] have this delta function in them.
+- [01:31:13,800 - 01:31:15,240] What about psi plus with psi plus?
+- [01:31:17,500 - 01:31:19,460] That's just made out of creation operators
+- [01:31:19,460 - 01:31:21,380] and all creation operators commute.
+- [01:31:22,600 - 01:31:23,480] Likewise for
+- [01:31:23,720 - 01:31:24,000] psi minus.
+- [01:31:24,440 - 01:31:26,800] So the only things which don't commute
+- [01:31:27,480 - 01:31:29,420] are psi plus with psi minus.
+- [01:31:30,879 - 01:31:31,480] Now,
+- [01:31:31,480 - 01:31:32,620] we could
+- [01:31:33,480 - 01:31:35,120] we've mentioned
+- [01:31:35,120 - 01:31:35,960] several times,
+- [01:31:35,960 - 01:31:36,500] I think,
+- [01:31:36,500 - 01:31:37,120] that the
+- [01:31:37,120 - 01:31:37,420] size,
+- [01:31:37,420 - 01:31:38,700] because they're complex,
+- [01:31:39,379 - 01:31:40,820] because they're not Hermitian,
+- [01:31:40,820 - 01:31:41,120] they're not
+- [01:31:41,660 - 01:31:41,960] observables.
+- [01:31:42,860 - 01:31:43,840] This is true,
+- [01:31:43,840 - 01:31:45,440] but it's
+- [01:31:45,440 - 01:31:46,960] not a very interesting point,
+- [01:31:46,960 - 01:31:47,500] because
+- [01:31:47,500 - 01:31:49,700] the sum of psi plus
+- [01:31:49,700 - 01:31:51,640] with psi minus is an observable,
+- [01:31:51,760 - 01:31:53,420] and the differences times
+- [01:31:53,720 - 01:31:54,900] i are observables.
+- [01:31:55,320 - 01:31:55,840] So,
+- [01:31:55,840 - 01:31:56,760] let's,
+- [01:31:56,760 - 01:31:57,320] this is
+- [01:31:57,320 - 01:31:58,640] not a particularly interesting
+- [01:31:59,240 - 01:31:59,760] fact.
+- [01:32:02,339 - 01:32:02,860] Uh,
+- [01:32:02,860 - 01:32:03,380] yeah?
+- [01:32:03,980 - 01:32:04,840] I'm just curious,
+- [01:32:05,060 - 01:32:07,420] what does that mean when x equals y?
+- [01:32:07,840 - 01:32:09,580] It means that it's very large.
+- [01:32:10,280 - 01:32:10,800] Everywhere?
+- [01:32:11,140 - 01:32:11,660] No,
+- [01:32:11,660 - 01:32:12,180] yeah,
+- [01:32:12,180 - 01:32:13,200] for any x,
+- [01:32:13,340 - 01:32:14,800] whenever x is equal to y,
+- [01:32:14,800 - 01:32:15,520] it's large.
+- [01:32:16,020 - 01:32:16,540] No,
+- [01:32:16,540 - 01:32:16,660] no,
+- [01:32:16,660 - 01:32:17,640] suppose you put in
+- [01:32:18,259 - 01:32:18,780] Oh,
+- [01:32:18,780 - 01:32:19,160] okay,
+- [01:32:19,160 - 01:32:19,560] I see.
+- [01:32:19,720 - 01:32:19,960] Yeah,
+- [01:32:19,960 - 01:32:20,500] okay.
+- [01:32:21,580 - 01:32:22,100] Now,
+- [01:32:22,100 - 01:32:23,660] let's ignore the fact that
+- [01:32:23,720 - 01:32:25,660] for the moment that these are
+- [01:32:27,160 - 01:32:28,300] not observables.
+- [01:32:28,360 - 01:32:29,720] The real and imaginary parts
+- [01:32:29,720 - 01:32:30,720] are observables,
+- [01:32:30,720 - 01:32:31,500] and
+- [01:32:31,500 - 01:32:33,640] what's true is the commutator of
+- [01:32:33,640 - 01:32:35,360] the real part with the imaginary
+- [01:32:35,360 - 01:32:37,300] part is also a delta function
+- [01:32:37,300 - 01:32:38,160] like this.
+- [01:32:38,800 - 01:32:40,480] The point is the delta function,
+- [01:32:40,480 - 01:32:40,900] and
+- [01:32:41,739 - 01:32:43,600] it's not so interesting
+- [01:32:43,600 - 01:32:45,160] that these things are not Hermitian.
+- [01:32:45,280 - 01:32:47,420] You can always make them Hermitian by adding
+- [01:32:47,420 - 01:32:49,320] real and imaginary parts.
+- [01:32:50,020 - 01:32:50,620] Okay,
+- [01:32:50,620 - 01:32:51,340] so what does this say?
+- [01:32:51,520 - 01:32:53,600] What is the consequence of two
+- [01:32:53,720 - 01:32:54,940] things not commuting?
+- [01:32:55,880 - 01:32:57,380] You know any examples of
+- [01:32:57,380 - 01:32:59,220] operators which don't commute?
+- [01:33:01,060 - 01:33:01,900] X and P,
+- [01:33:01,900 - 01:33:02,240] right?
+- [01:33:03,180 - 01:33:04,360] X and P are the
+- [01:33:04,360 - 01:33:06,080] standard examples of operators
+- [01:33:06,080 - 01:33:07,000] that don't commute.
+- [01:33:07,560 - 01:33:08,440] X and P,
+- [01:33:08,440 - 01:33:10,140] the commutator is I h-bar.
+- [01:33:10,840 - 01:33:11,700] How about
+- [01:33:12,259 - 01:33:12,780] sigma,
+- [01:33:12,780 - 01:33:13,520] you know,
+- [01:33:13,520 - 01:33:13,680] the
+- [01:33:13,680 - 01:33:15,680] x component of a spin and the
+- [01:33:15,680 - 01:33:17,020] y component of a spin?
+- [01:33:17,560 - 01:33:18,780] They don't commute either.
+- [01:33:18,940 - 01:33:21,160] The commutator is the z component of a spin.
+- [01:33:21,860 - 01:33:23,240] What's the physical
+- [01:33:27,200 - 01:33:29,400] significance of not commuting
+- [01:33:29,400 - 01:33:31,780] as far as doing measurements
+- [01:33:31,780 - 01:33:32,480] is concerned?
+- [01:33:35,000 - 01:33:36,160] You can't
+- [01:33:36,160 - 01:33:37,480] do simultaneous
+- [01:33:37,480 - 01:33:39,140] measurements of the same thing.
+- [01:33:39,260 - 01:33:41,220] Or another way of saying it is the measurement
+- [01:33:41,220 - 01:33:43,760] of one of them gives a
+- [01:33:43,760 - 01:33:44,940] kick to the other one.
+- [01:33:45,260 - 01:33:47,720] Trying to measure with precision
+- [01:33:48,280 - 01:33:49,640] the position of a particle
+- [01:33:49,640 - 01:33:51,780] necessarily gives it a hard
+- [01:33:51,780 - 01:33:53,220] kick and
+- [01:33:53,720 - 01:33:54,980] destroys the
+- [01:33:56,240 - 01:33:57,660] measurement of the momentum
+- [01:33:57,660 - 01:33:59,320] or makes the measurement of the momentum
+- [01:33:59,320 - 01:34:00,100] very uncertain.
+- [01:34:00,100 - 01:34:01,700] Measuring a momentum
+- [01:34:01,700 - 01:34:03,800] very precisely spreads the position
+- [01:34:03,800 - 01:34:04,820] all over the place.
+- [01:34:05,560 - 01:34:07,660] But let's just say
+- [01:34:07,660 - 01:34:09,540] that it introduces mutual
+- [01:34:09,540 - 01:34:10,380] uncertainty.
+- [01:34:10,380 - 01:34:11,720] Mutual
+- [01:34:11,720 - 01:34:12,820] uncertainty of the kind,
+- [01:34:12,820 - 01:34:13,780] the Heisenberg
+- [01:34:13,780 - 01:34:14,080] kind,
+- [01:34:14,080 - 01:34:15,680] where measuring one
+- [01:34:15,680 - 01:34:17,860] thing interferes with the measurement
+- [01:34:17,860 - 01:34:18,680] of another thing.
+- [01:34:20,020 - 01:34:20,700] Alright,
+- [01:34:20,700 - 01:34:21,840] now this is a very interesting
+- [01:34:21,840 - 01:34:22,740] fact here.
+- [01:34:22,740 - 01:34:23,700] Let's
+- [01:34:23,720 - 01:34:24,780] forget for the moment
+- [01:34:25,520 - 01:34:27,620] the delta function when x is equal to
+- [01:34:27,620 - 01:34:27,920] y.
+- [01:34:27,920 - 01:34:29,640] Let's talk about when
+- [01:34:29,640 - 01:34:30,700] x does not equal y.
+- [01:34:31,100 - 01:34:32,720] When x does not equal y,
+- [01:34:33,080 - 01:34:34,920] it says that these things commute.
+- [01:34:35,280 - 01:34:36,740] This is very,
+- [01:34:36,740 - 01:34:37,460] very plausible.
+- [01:34:37,780 - 01:34:39,700] It says that the measurement of a field
+- [01:34:39,700 - 01:34:41,400] over here does not interfere
+- [01:34:41,400 - 01:34:43,300] with the measurement of a field over here.
+- [01:34:44,300 - 01:34:45,680] If I measure the
+- [01:34:45,680 - 01:34:46,440] electric field,
+- [01:34:46,440 - 01:34:47,560] this could be
+- [01:34:47,560 - 01:34:49,400] the electromagnetic field.
+- [01:34:49,880 - 01:34:51,640] It's a little bit different and we're going to
+- [01:34:51,640 - 01:34:52,160] come to it,
+- [01:34:52,160 - 01:34:53,180] but if we get time.
+- [01:34:53,720 - 01:34:54,880] But it's a field.
+- [01:34:54,980 - 01:34:57,620] What this says is measuring
+- [01:34:57,620 - 01:34:59,740] the field at one place does not interfere
+- [01:34:59,740 - 01:35:01,760] with measuring the field at another place.
+- [01:35:02,520 - 01:35:03,680] You can measure a
+- [01:35:03,680 - 01:35:05,720] field over here and here simultaneously
+- [01:35:05,720 - 01:35:07,280] and there's no mutual
+- [01:35:07,280 - 01:35:08,360] uncertainty in them.
+- [01:35:10,240 - 01:35:10,820] No.
+- [01:35:11,300 - 01:35:13,280] When you get right on top of each other,
+- [01:35:14,400 - 01:35:14,980] then
+- [01:35:16,520 - 01:35:17,560] measuring the
+- [01:35:17,560 - 01:35:19,320] real and imaginary parts
+- [01:35:20,220 - 01:35:21,800] you can replace
+- [01:35:21,800 - 01:35:23,500] this here commutator by
+- [01:35:24,219 - 01:35:25,820] the real part
+- [01:35:25,820 - 01:35:27,380] and the imaginary part.
+- [01:35:27,640 - 01:35:28,480] Do not commute.
+- [01:35:30,360 - 01:35:31,620] Measuring the real part
+- [01:35:31,620 - 01:35:32,580] and the imaginary part,
+- [01:35:32,580 - 01:35:33,740] these two observables,
+- [01:35:34,839 - 01:35:35,820] you cannot
+- [01:35:35,820 - 01:35:37,200] measure them simultaneously
+- [01:35:37,460 - 01:35:38,400] at the same point.
+- [01:35:40,200 - 01:35:40,800] And
+- [01:35:41,700 - 01:35:43,060] they interfere with each other.
+- [01:35:43,180 - 01:35:45,220] Trying to measure one gives an enormous
+- [01:35:45,220 - 01:35:46,600] wallop to the other one.
+- [01:35:48,679 - 01:35:49,880] And that's
+- [01:35:49,880 - 01:35:50,580] of course interesting.
+- [01:35:50,580 - 01:35:51,680] It's telling us something
+- [01:35:51,680 - 01:35:52,340] important.
+- [01:35:52,340 - 01:35:53,700] But the more
+- [01:35:53,720 - 01:35:55,240] important thing right now
+- [01:35:55,240 - 01:35:57,580] is that you don't have any
+- [01:35:57,580 - 01:35:59,600] interference in measurements if they're
+- [01:35:59,600 - 01:36:00,320] at different places.
+- [01:36:00,320 - 01:36:01,500] And of course
+- [01:36:01,500 - 01:36:02,720] that's very logical.
+- [01:36:02,720 - 01:36:03,480] I mean
+- [01:36:03,480 - 01:36:04,120] that makes sense.
+- [01:36:04,120 - 01:36:04,740] Particularly,
+- [01:36:04,740 - 01:36:05,380] we're not doing
+- [01:36:05,380 - 01:36:06,740] relativity theory now.
+- [01:36:07,560 - 01:36:09,400] We're not doing relativity theory,
+- [01:36:09,540 - 01:36:10,700] but imagine that we were.
+- [01:36:10,700 - 01:36:11,260] The same
+- [01:36:11,260 - 01:36:13,520] basic principle is true in relativity
+- [01:36:13,520 - 01:36:14,020] theory.
+- [01:36:14,020 - 01:36:15,980] Supposing
+- [01:36:15,980 - 01:36:17,600] it were true that making
+- [01:36:17,600 - 01:36:18,780] a measurement over here
+- [01:36:20,000 - 01:36:21,620] interfered with and did something
+- [01:36:21,620 - 01:36:23,560] over here at the same instant of
+- [01:36:23,720 - 01:36:25,340] time to the possibility
+- [01:36:25,340 - 01:36:27,360] of making a measurement at a
+- [01:36:27,360 - 01:36:28,300] distant point.
+- [01:36:28,300 - 01:36:29,640] Supposing
+- [01:36:29,640 - 01:36:31,080] this commutator were not zero.
+- [01:36:31,880 - 01:36:32,580] In fact,
+- [01:36:32,580 - 01:36:33,780] let's suppose the commutator
+- [01:36:33,780 - 01:36:35,020] were big for some reason.
+- [01:36:35,520 - 01:36:37,740] That the commutator of a field
+- [01:36:37,740 - 01:36:38,840] over here and here were big.
+- [01:36:38,840 - 01:36:39,660] What that would
+- [01:36:39,660 - 01:36:41,540] say is trying to measure the field over here
+- [01:36:41,540 - 01:36:43,780] gives the field a kick over here.
+- [01:36:44,380 - 01:36:45,700] Makes it impossible to
+- [01:36:45,700 - 01:36:47,500] measure it because it gives it a kick over here.
+- [01:36:48,180 - 01:36:48,660] Well,
+- [01:36:48,660 - 01:36:49,700] I think that would violate
+- [01:36:49,700 - 01:36:50,900] your sense of
+- [01:36:51,680 - 01:36:53,240] causality or your sense of
+- [01:36:53,720 - 01:36:55,160] mentality that
+- [01:36:55,800 - 01:36:57,220] Einstein tells us
+- [01:36:57,220 - 01:36:59,480] that signals should not
+- [01:36:59,480 - 01:37:01,400] propagate faster than the speed of light.
+- [01:37:01,920 - 01:37:03,560] Somebody over here trying to
+- [01:37:03,560 - 01:37:04,980] measure the field and finding
+- [01:37:05,570 - 01:37:07,500] that he can't do it because it's not commuting
+- [01:37:07,500 - 01:37:08,480] with something over here
+- [01:37:10,300 - 01:37:11,820] violates some notion
+- [01:37:11,820 - 01:37:13,140] of independence
+- [01:37:13,140 - 01:37:15,080] of measurements at different places.
+- [01:37:16,800 - 01:37:17,800] In particular,
+- [01:37:17,920 - 01:37:19,560] if we take two places
+- [01:37:19,560 - 01:37:21,740] in times which are such that
+- [01:37:21,740 - 01:37:23,700] light could not go from one to the other,
+- [01:37:23,720 - 01:37:25,760] they're space-like separated from each other,
+- [01:37:25,860 - 01:37:27,420] then we would
+- [01:37:27,420 - 01:37:29,680] be in a very confusing situation
+- [01:37:29,680 - 01:37:31,860] where measuring a thing over here
+- [01:37:31,860 - 01:37:33,400] and a thing over here wouldn't commute,
+- [01:37:33,540 - 01:37:34,660] would interfere with each other,
+- [01:37:34,660 - 01:37:35,600] and that seems
+- [01:37:35,600 - 01:37:37,260] to violate the spirit of
+- [01:37:38,759 - 01:37:39,280] information
+- [01:37:40,999 - 01:37:42,040] or perturbations
+- [01:37:42,040 - 01:37:42,800] or signals
+- [01:37:43,500 - 01:37:44,020] or
+- [01:37:46,360 - 01:37:46,880] effects
+- [01:37:48,240 - 01:37:49,760] do not propagate faster
+- [01:37:49,760 - 01:37:50,600] than the speed of light.
+- [01:37:50,600 - 01:37:51,080] And that's true.
+- [01:37:51,280 - 01:37:53,540] Isn't that what EPR experiments already
+- [01:37:53,720 - 01:37:54,340] show?
+- [01:37:54,340 - 01:37:55,180] That what?
+- [01:37:55,680 - 01:37:57,640] That the effect of a measurement over
+- [01:37:57,640 - 01:37:58,800] here has a
+- [01:37:59,500 - 01:38:01,480] consequence for a measurement over there.
+- [01:38:01,680 - 01:38:02,080] Oh boy.
+- [01:38:05,240 - 01:38:05,800] No.
+- [01:38:07,680 - 01:38:08,240] What?
+- [01:38:10,920 - 01:38:11,480] No.
+- [01:38:13,279 - 01:38:14,400] The most
+- [01:38:14,400 - 01:38:15,520] fundamental thing about
+- [01:38:15,520 - 01:38:17,740] entanglement is it does not tell you
+- [01:38:17,740 - 01:38:19,300] that making a measurement over here
+- [01:38:19,300 - 01:38:20,660] has an influence over here.
+- [01:38:20,920 - 01:38:21,420] Well,
+- [01:38:21,420 - 01:38:22,460] I didn't say influence,
+- [01:38:22,460 - 01:38:22,860] I said
+- [01:38:23,720 - 01:38:23,960] correlation.
+- [01:38:23,960 - 01:38:24,220] Yeah,
+- [01:38:24,220 - 01:38:24,460] I know,
+- [01:38:24,460 - 01:38:25,540] but we're talking
+- [01:38:25,540 - 01:38:26,080] about influence.
+- [01:38:27,220 - 01:38:29,600] We're talking about making a measurement over here
+- [01:38:29,600 - 01:38:31,740] giving a sudden kick to something over here.
+- [01:38:32,320 - 01:38:33,740] That's exactly what doesn't
+- [01:38:33,740 - 01:38:35,240] happen where,
+- [01:38:35,240 - 01:38:35,660] because
+- [01:38:35,660 - 01:38:36,440] of entanglement.
+- [01:38:36,440 - 01:38:37,760] Measuring
+- [01:38:37,760 - 01:38:39,560] something over here does not give a thing
+- [01:38:39,560 - 01:38:41,200] a kick over here because of entanglement.
+- [01:38:41,940 - 01:38:43,840] It can only give a kick over here
+- [01:38:43,840 - 01:38:44,700] and the reason why
+- [01:38:45,419 - 01:38:47,760] is because things at one place commute
+- [01:38:47,760 - 01:38:49,080] with things at another place.
+- [01:38:50,080 - 01:38:51,600] That's exactly the reason
+- [01:38:51,600 - 01:38:53,700] why entanglement
+- [01:38:53,720 - 01:38:54,660] doesn't
+- [01:38:55,559 - 01:38:57,560] send influence as fast as the speed
+- [01:38:57,560 - 01:38:59,480] of light because all the degrees
+- [01:38:59,480 - 01:39:01,720] of freedom at one point commute
+- [01:39:01,720 - 01:39:03,340] with the degrees of freedom of someplace
+- [01:39:03,340 - 01:39:05,660] else and that means they behave
+- [01:39:05,660 - 01:39:06,240] independently.
+- [01:39:08,300 - 01:39:09,560] Correlation is different than
+- [01:39:09,560 - 01:39:09,820] influence.
+- [01:39:13,140 - 01:39:14,380] So what this says,
+- [01:39:14,380 - 01:39:15,460] this is good,
+- [01:39:15,580 - 01:39:17,340] this says that there's no violation
+- [01:39:18,559 - 01:39:19,600] of your
+- [01:39:19,600 - 01:39:20,500] naive ideas,
+- [01:39:20,500 - 01:39:21,480] or maybe they're not so
+- [01:39:21,480 - 01:39:21,840] naive,
+- [01:39:21,840 - 01:39:23,480] but your straightforward ideas
+- [01:39:23,720 - 01:39:25,560] about the independence
+- [01:39:25,560 - 01:39:27,900] of measurements
+- [01:39:27,900 - 01:39:29,380] at different points of space.
+- [01:39:30,940 - 01:39:31,620] Now,
+- [01:39:31,740 - 01:39:32,740] of course,
+- [01:39:36,440 - 01:39:37,480] we're not doing
+- [01:39:37,480 - 01:39:37,940] relativity,
+- [01:39:37,940 - 01:39:38,800] but nevertheless
+- [01:39:38,800 - 01:39:40,460] it's still a true thing here.
+- [01:39:41,500 - 01:39:43,340] We're going to come next time to
+- [01:39:43,340 - 01:39:43,900] fermions.
+- [01:39:46,000 - 01:39:47,540] Fermions are fields
+- [01:39:47,540 - 01:39:49,100] or fermions are particles
+- [01:39:49,720 - 01:39:51,240] which do not satisfy
+- [01:39:51,240 - 01:39:52,480] any of this.
+- [01:39:53,720 - 01:39:54,460] In fact,
+- [01:39:54,460 - 01:39:55,540] they satisfy a different
+- [01:39:55,540 - 01:39:57,580] algebra with anti-commutators.
+- [01:39:58,040 - 01:39:59,380] We're going to work that out
+- [01:39:59,380 - 01:40:00,460] and why it's true,
+- [01:40:00,460 - 01:40:01,580] but
+- [01:40:01,580 - 01:40:02,860] the one thing it says,
+- [01:40:03,040 - 01:40:05,520] and anti-commutators don't have
+- [01:40:05,520 - 01:40:07,640] to do with independent of
+- [01:40:07,640 - 01:40:07,860] measurements.
+- [01:40:07,860 - 01:40:09,720] It's the commutators.
+- [01:40:09,820 - 01:40:11,560] Commutators tell you that things are
+- [01:40:11,560 - 01:40:13,360] independent and measurements are independent.
+- [01:40:15,020 - 01:40:15,620] Fermions,
+- [01:40:15,720 - 01:40:16,680] the fields,
+- [01:40:17,580 - 01:40:19,600] anti-commute at different
+- [01:40:19,600 - 01:40:20,080] points.
+- [01:40:20,080 - 01:40:21,020] They don't commute.
+- [01:40:21,300 - 01:40:22,560] If they don't commute,
+- [01:40:22,560 - 01:40:23,580] that means you can't
+- [01:40:23,720 - 01:40:25,500] measure them simultaneously at two different
+- [01:40:25,500 - 01:40:25,880] points,
+- [01:40:25,880 - 01:40:27,340] no matter how far away.
+- [01:40:27,820 - 01:40:29,400] A measurement of a
+- [01:40:29,400 - 01:40:31,360] fermion field at one place
+- [01:40:31,360 - 01:40:33,200] gives a sudden kick
+- [01:40:33,680 - 01:40:35,280] to its complex conjugate
+- [01:40:36,400 - 01:40:37,720] arbitrarily far away.
+- [01:40:38,900 - 01:40:39,840] That sounds
+- [01:40:39,840 - 01:40:40,340] crazy.
+- [01:40:42,380 - 01:40:43,020] Or,
+- [01:40:45,160 - 01:40:45,800] fermion
+- [01:40:45,800 - 01:40:47,280] fields are not observables.
+- [01:40:47,840 - 01:40:49,800] There's no way that you can construct
+- [01:40:49,800 - 01:40:50,820] what it's telling you,
+- [01:40:50,820 - 01:40:51,180] really.
+- [01:40:51,380 - 01:40:53,600] There's no way that you can construct it
+- [01:40:53,720 - 01:40:55,580] as a device to measure a fermion field.
+- [01:40:55,920 - 01:40:56,600] Why?
+- [01:40:56,860 - 01:40:58,980] Because that device would have to be spread
+- [01:40:58,980 - 01:41:01,720] all over space and be extremely
+- [01:41:01,720 - 01:41:02,460] non-local.
+- [01:41:03,519 - 01:41:04,880] That's what we're going to take up next time.
+- [01:41:04,980 - 01:41:05,880] Fermion operators
+- [01:41:05,880 - 01:41:09,160] are the operators which create and
+- [01:41:09,160 - 01:41:10,320] annihilate electrons.
+- [01:41:11,880 - 01:41:13,120] Boson operators
+- [01:41:13,120 - 01:41:15,400] are the operators which create and annihilate
+- [01:41:15,400 - 01:41:15,760] photons.
+- [01:41:15,760 - 01:41:17,420] So we'll come next time
+- [01:41:17,420 - 01:41:18,880] to the fermion version
+- [01:41:18,880 - 01:41:20,420] of second quantization.
+- [01:41:22,480 - 01:41:23,160] Okay.
+- [01:41:23,879 - 01:41:25,280] And do that.
+- [01:41:26,080 - 01:41:26,600] Okay,
+- [01:41:26,600 - 01:41:26,780] good.
+- [01:41:26,960 - 01:41:29,700] I'm thankful that nobody forced
+- [01:41:29,700 - 01:41:31,380] me into doing any mathematics tonight.
+- [01:41:31,540 - 01:41:31,700] Well,
+- [01:41:31,700 - 01:41:32,460] we did a little bit.
+- [01:41:34,100 - 01:41:34,880] For more,
+- [01:41:34,880 - 01:41:35,760] please visit
+- [01:41:35,760 - 01:41:37,320] us at stanford.edu.
