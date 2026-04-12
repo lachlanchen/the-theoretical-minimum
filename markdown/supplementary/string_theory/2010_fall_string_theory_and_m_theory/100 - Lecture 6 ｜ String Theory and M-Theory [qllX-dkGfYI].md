@@ -1,0 +1,1879 @@
+# Transcript
+
+Source: supplementary/string_theory/2010_fall_string_theory_and_m_theory/100 - Lecture 6 ｜ String Theory and M-Theory [qllX-dkGfYI].mkv
+
+- [00:00:00,000 - 00:00:07,000] Stanford University.
+- [00:00:07,000 - 00:00:11,000] Okay, so fermionic strings have been a
+- [00:00:11,000 - 00:00:15,000] part of the subject since almost the beginning,
+- [00:00:15,000 - 00:00:18,000] not quite the beginning. And as
+- [00:00:18,000 - 00:00:21,000] I said, they solve two important problems.
+- [00:00:21,000 - 00:00:24,500] I forgot what they are though. Oh, they give
+- [00:00:24,500 - 00:00:28,000] you fermions and they get rid of the tachyons.
+- [00:00:28,000 - 00:00:33,000] They leave you with ten dimensions instead of twenty-six.
+- [00:00:33,000 - 00:00:36,000] So they don't solve that problem. That problem
+- [00:00:36,000 - 00:00:39,000] turned out to be less of a problem
+- [00:00:39,000 - 00:00:43,500] and more of a feature, feature means a
+- [00:00:43,500 - 00:00:48,000] good feature, than people had expected at the time.
+- [00:00:48,000 - 00:00:50,500] But we'll come to it, and
+- [00:00:50,500 - 00:00:53,000] it's a subject known as compactification,
+- [00:00:53,000 - 00:00:55,500] taking the extra dimensions and doing
+- [00:00:55,500 - 00:00:58,000] something with them to make them innocuous.
+- [00:00:58,000 - 00:01:03,000] Or if not innocuous, an interesting feature of the theory.
+- [00:01:03,000 - 00:01:05,000] But we'll come to that not now though.
+- [00:01:05,000 - 00:01:10,000] What I wanted to talk about a little bit
+- [00:01:10,000 - 00:01:15,000] was not really historical, but the scattering of strings.
+- [00:01:15,000 - 00:01:19,000] The subject really began
+- [00:01:19,000 - 00:01:23,000] with studying scattering of particles.
+- [00:01:23,000 - 00:01:25,000] Elemental particle physics was
+- [00:01:25,000 - 00:01:27,000] always about scattering of particles.
+- [00:01:28,000 - 00:01:29,500] Not because it's the most
+- [00:01:29,500 - 00:01:31,000] interesting phenomena that can happen.
+- [00:01:31,000 - 00:01:33,000] It's not. It's rather dull.
+- [00:01:33,000 - 00:01:35,500] You send some particles together and a bunch
+- [00:01:35,500 - 00:01:38,000] of junk comes out in all sorts of directions.
+- [00:01:38,000 - 00:01:39,500] But it's about all we can
+- [00:01:39,500 - 00:01:41,000] do in the way of experiment.
+- [00:01:41,000 - 00:01:44,500] And so we try to unravel from the
+- [00:01:44,500 - 00:01:48,000] scattering data what was going on inside the collision.
+- [00:01:48,000 - 00:01:50,000] And inside the collision, of course, means
+- [00:01:50,000 - 00:01:52,000] the properties of particles and so forth.
+- [00:01:52,000 - 00:01:57,000] So the natural tool of experiment,
+- [00:01:57,000 - 00:02:00,000] the scattering, and the natural thing
+- [00:02:00,000 - 00:02:03,000] that a theorist would ask is,
+- [00:02:03,000 - 00:02:06,000] if I have a theory of particles,
+- [00:02:06,000 - 00:02:09,000] how do you compute the scattering amplitudes?
+- [00:02:09,000 - 00:02:12,000] The scattering amplitudes, what is a scattering amplitude?
+- [00:02:12,000 - 00:02:15,000] A scattering amplitude, you have some incoming
+- [00:02:15,000 - 00:02:18,000] particles that are part of your incoming information.
+- [00:02:18,000 - 00:02:21,000] I'm going to have time running this way tonight.
+- [00:02:21,000 - 00:02:23,000] Horizontally instead of vertically.
+- [00:02:23,000 - 00:02:25,000] I don't know why. Variety.
+- [00:02:25,000 - 00:02:29,000] Particles come in, something happens inside
+- [00:02:29,000 - 00:02:33,000] a black box, and particles go out.
+- [00:02:33,000 - 00:02:37,000] Not necessarily the same number of particles.
+- [00:02:37,000 - 00:02:40,000] The particles come in and they carry momentum.
+- [00:02:40,000 - 00:02:42,000] Of course, they carry other things.
+- [00:02:42,000 - 00:02:44,000] They carry spin, they carry charge,
+- [00:02:44,000 - 00:02:47,500] they carry labels, like for example, is it a
+- [00:02:47,500 - 00:02:51,000] muon or is it a whatever it happens to be.
+- [00:02:51,000 - 00:02:55,000] But let's simplify the story and ignore everything else.
+- [00:02:55,000 - 00:02:58,000] They carry everything except their momentum.
+- [00:02:58,000 - 00:03:02,000] So particles come in and they carry four momentum.
+- [00:03:02,000 - 00:03:06,000] Four momentum means energy and momentum.
+- [00:03:06,000 - 00:03:08,000] Let's write down what a four
+- [00:03:08,000 - 00:03:10,000] vector of energy and momentum is.
+- [00:03:10,000 - 00:03:16,000] The energy and the three components of momentum.
+- [00:03:16,000 - 00:03:18,500] Of course, if we're working in
+- [00:03:18,500 - 00:03:21,000] 26 dimensions, we have 25 components here.
+- [00:03:21,000 - 00:03:23,000] But I'll just write down four of them.
+- [00:03:23,000 - 00:03:26,000] So we have a four vector, relativistic four vector.
+- [00:03:26,000 - 00:03:28,000] Each particle has a momentum.
+- [00:03:28,000 - 00:03:32,000] And we're going to call it K.
+- [00:03:32,000 - 00:03:34,000] K mu.
+- [00:03:34,000 - 00:03:37,000] Where mu goes from one to four.
+- [00:03:37,000 - 00:03:39,000] From zero to four, excuse me.
+- [00:03:39,000 - 00:03:41,000] From zero to three. This is usually
+- [00:03:41,000 - 00:03:43,000] called zero, one, two, three, doesn't matter.
+- [00:03:43,000 - 00:03:46,000] Four components of momentum.
+- [00:03:46,000 - 00:03:49,000] Now, what do we know about
+- [00:03:49,000 - 00:03:52,000] the components, the four components of momentum
+- [00:03:52,000 - 00:03:54,000] in a particle?
+- [00:03:54,000 - 00:03:55,000] They have something to do
+- [00:03:55,000 - 00:03:56,000] with the mass of the particle.
+- [00:03:56,000 - 00:03:59,000] Well, of course, they are the energy and the momentum.
+- [00:03:59,000 - 00:04:01,000] What's the relationship between energy and
+- [00:04:01,000 - 00:04:03,000] momentum and mass for a relativistic particle?
+- [00:04:03,000 - 00:04:05,000] Anybody remember? C is one.
+- [00:04:05,000 - 00:04:10,000] We will take C equals H bar equals one.
+- [00:04:10,000 - 00:04:13,000] What's the connection between the
+- [00:04:13,000 - 00:04:16,000] components of energy, momentum, and mass?
+- [00:04:16,000 - 00:04:19,000] E squared.
+- [00:04:19,000 - 00:04:21,000] E squared.
+- [00:04:21,000 - 00:04:26,000] E squared equals P squared plus M squared.
+- [00:04:26,000 - 00:04:30,000] Or, let's write it the following way.
+- [00:04:30,000 - 00:04:36,000] E squared minus P squared equals M squared.
+- [00:04:36,000 - 00:04:41,500] And just in order to keep my notation
+- [00:04:41,500 - 00:04:47,000] consistent with notations of physicists for many, many years,
+- [00:04:47,000 - 00:04:50,000] I am going to write this as P squared
+- [00:04:50,000 - 00:04:55,000] minus E squared equals minus M squared.
+- [00:04:55,000 - 00:05:00,000] Same formula, I've just taken the negative of it.
+- [00:05:00,000 - 00:05:03,000] Now, that can also be written
+- [00:05:03,000 - 00:05:06,000] in terms of the components of K.
+- [00:05:06,000 - 00:05:07,500] In terms of the components
+- [00:05:07,500 - 00:05:09,000] of K, that's, what is it?
+- [00:05:09,000 - 00:05:13,000] It's K naught squared, sorry, it's
+- [00:05:13,000 - 00:05:17,000] K vector squared minus K naught squared.
+- [00:05:17,000 - 00:05:20,000] Nought standing for the time component, E.
+- [00:05:20,000 - 00:05:22,000] The spatial component squared
+- [00:05:22,000 - 00:05:24,000] minus the time component squared.
+- [00:05:24,000 - 00:05:27,000] And this is often just called K squared.
+- [00:05:27,000 - 00:05:29,000] Just call it K squared.
+- [00:05:29,000 - 00:05:34,000] The left-hand side here is the square by definition.
+- [00:05:34,000 - 00:05:38,000] It's the definition of the relativistic square of a vector.
+- [00:05:38,000 - 00:05:42,000] It's called P mu P mu.
+- [00:05:42,000 - 00:05:48,000] Or, to simplify it, let's just call it K squared.
+- [00:05:48,000 - 00:05:50,000] It's the space component squared
+- [00:05:50,000 - 00:05:52,000] minus the time component squared.
+- [00:05:52,000 - 00:05:54,000] That's called K squared.
+- [00:05:54,000 - 00:05:57,500] And for every particle, K squared
+- [00:05:57,500 - 00:06:01,000] is equal to minus M squared.
+- [00:06:01,000 - 00:06:04,000] You can't vary K squared.
+- [00:06:04,000 - 00:06:06,000] Of course, K squared consists
+- [00:06:06,000 - 00:06:08,000] of the energy and the momentum.
+- [00:06:08,000 - 00:06:10,000] When you say you can't vary K squared,
+- [00:06:10,000 - 00:06:12,000] it doesn't mean you can't vary the momentum.
+- [00:06:12,000 - 00:06:14,000] It means when you vary the momentum,
+- [00:06:14,000 - 00:06:16,000] the energy varies in a certain way.
+- [00:06:16,000 - 00:06:18,000] And the way that it varies
+- [00:06:18,000 - 00:06:20,000] is that E squared minus P squared,
+- [00:06:20,000 - 00:06:22,500] or K times K naught squared minus
+- [00:06:22,500 - 00:06:25,000] K space squared, equals minus M squared.
+- [00:06:25,000 - 00:06:32,000] So that's the first thing about...
+- [00:06:32,000 - 00:06:35,000] It's not even about collisions. It's just about particles.
+- [00:06:35,000 - 00:06:38,000] You characterize them by their four momentum,
+- [00:06:38,000 - 00:06:41,000] three components of which are independent.
+- [00:06:41,000 - 00:06:45,000] The fourth component has to be subject to this constraint.
+- [00:06:46,000 - 00:06:48,000] And then a bunch of momentum.
+- [00:06:48,000 - 00:06:52,000] Let's call this K1 for the first particle.
+- [00:06:52,000 - 00:06:54,000] Is that the way I label them?
+- [00:06:54,000 - 00:06:56,000] I like to keep my notation straight.
+- [00:06:56,000 - 00:07:00,000] Yeah. I think I call this one K1.
+- [00:07:00,000 - 00:07:02,000] This one K2.
+- [00:07:02,000 - 00:07:05,000] And then outgoing over here,
+- [00:07:05,000 - 00:07:08,000] we'll call the incoming momentum K.
+- [00:07:08,000 - 00:07:12,000] I'm going to call the outgoing momentum Q.
+- [00:07:12,000 - 00:07:14,000] These are also four momenta.
+- [00:07:14,000 - 00:07:16,000] I'm going to call it Q3.
+- [00:07:16,000 - 00:07:18,000] Q4, dot dot dot.
+- [00:07:18,000 - 00:07:20,000] Let's take the very simple case
+- [00:07:20,000 - 00:07:23,000] in which two particles go to two particles.
+- [00:07:25,000 - 00:07:27,000] Q4.
+- [00:07:29,000 - 00:07:31,000] These particles come in.
+- [00:07:31,000 - 00:07:33,000] Those particles go out.
+- [00:07:33,000 - 00:07:36,000] How do you represent momentum conservation?
+- [00:07:36,000 - 00:07:38,000] Momentum and energy conservation.
+- [00:07:38,000 - 00:07:41,000] Momentum and energy conservation are simply
+- [00:07:41,000 - 00:07:45,000] that K1 plus K2, thought of as four vectors,
+- [00:07:46,000 - 00:07:48,000] equal to Q3 plus Q4.
+- [00:07:51,000 - 00:07:53,000] All components.
+- [00:07:53,000 - 00:07:56,000] The space components define momentum conservation.
+- [00:07:56,000 - 00:07:59,000] The time components define energy conservation.
+- [00:07:59,000 - 00:08:01,000] Okay.
+- [00:08:01,000 - 00:08:04,000] Now, because of the perversity of physicists,
+- [00:08:04,000 - 00:08:06,000] what physicists like to do
+- [00:08:06,000 - 00:08:10,000] is to redefine the outgoing momentum
+- [00:08:10,000 - 00:08:13,000] and think of them as incoming momentum.
+- [00:08:13,000 - 00:08:15,000] Now, that's crazy.
+- [00:08:15,000 - 00:08:17,000] The incoming momentum and outgoing momentum are outgoing.
+- [00:08:17,000 - 00:08:19,000] The incoming momentum and incoming momentum are incoming.
+- [00:08:19,000 - 00:08:21,000] But to do it, all we really have to do
+- [00:08:21,000 - 00:08:23,000] to make it symmetric
+- [00:08:23,000 - 00:08:26,000] with respect to incoming and outgoing momentum,
+- [00:08:26,000 - 00:08:28,000] just take each Q,
+- [00:08:28,000 - 00:08:30,000] Q4,
+- [00:08:30,000 - 00:08:32,000] change its sign
+- [00:08:32,000 - 00:08:37,000] and call it K.
+- [00:08:37,000 - 00:08:41,000] Minus K3.
+- [00:08:41,000 - 00:08:43,000] That means changing the sign of its energy.
+- [00:08:43,000 - 00:08:45,000] It means changing the sign of all of its momentum.
+- [00:08:45,000 - 00:08:48,500] It's a trick to be able
+- [00:08:48,500 - 00:08:52,000] to write this in a symmetric form.
+- [00:08:52,000 - 00:08:54,000] Instead of writing K1, well, let's see what it is.
+- [00:08:54,000 - 00:08:58,000] Here's what it is.
+- [00:08:58,000 - 00:09:03,000] K1 plus K2 minus Q4 minus Q3 equals zero.
+- [00:09:03,000 - 00:09:07,500] Now becomes K1 plus K2
+- [00:09:07,500 - 00:09:12,000] plus K3 plus K4 equals zero.
+- [00:09:12,000 - 00:09:15,000] You treat all particles as incoming,
+- [00:09:15,000 - 00:09:17,000] but you have to remember
+- [00:09:17,000 - 00:09:20,000] that the label for the outgoing particles
+- [00:09:20,000 - 00:09:22,000] is labeled with minus the
+- [00:09:22,000 - 00:09:24,000] actual momentum of the outgoing particle,
+- [00:09:24,000 - 00:09:26,000] but once you do so,
+- [00:09:26,000 - 00:09:29,000] momentum conservation is completely symmetric
+- [00:09:29,000 - 00:09:32,000] between the four particles.
+- [00:09:32,000 - 00:09:34,000] A useful trick.
+- [00:09:34,000 - 00:09:39,000] It's a useful trick that keeps labeling
+- [00:09:39,000 - 00:09:41,000] especially consistent.
+- [00:09:42,000 - 00:09:45,000] Notice that when you change the sign of the momentum
+- [00:09:45,000 - 00:09:47,000] to redefine the momentum with a minus sign,
+- [00:09:47,000 - 00:09:49,000] it does not change the fact
+- [00:09:49,000 - 00:09:51,000] that the square of the momentum
+- [00:09:51,000 - 00:09:53,000] is equal to minus M squared.
+- [00:09:53,000 - 00:09:55,000] So we have in this particular process,
+- [00:09:55,000 - 00:09:57,000] we have four momenta.
+- [00:09:57,000 - 00:09:59,000] Think of them as all incoming,
+- [00:09:59,000 - 00:10:03,000] although the energies of two of them may be negative,
+- [00:10:03,000 - 00:10:05,000] the outgoing ones.
+- [00:10:05,000 - 00:10:08,000] Each one of them subject to this constraint.
+- [00:10:08,000 - 00:10:11,000] The,
+- [00:10:12,000 - 00:10:17,000] the question that a physicist would ask about this collision
+- [00:10:17,000 - 00:10:19,000] is what is the amplitude?
+- [00:10:19,000 - 00:10:21,000] What is the probability?
+- [00:10:21,000 - 00:10:23,000] The thing, the amplitude is the thing that you square,
+- [00:10:23,000 - 00:10:25,000] the complex number that you square
+- [00:10:25,000 - 00:10:28,000] to find the probability for that collision.
+- [00:10:28,000 - 00:10:30,000] But the collision is a function
+- [00:10:30,000 - 00:10:33,000] of a number of variables.
+- [00:10:33,000 - 00:10:36,000] It's a function, or the probability for the collision
+- [00:10:36,000 - 00:10:40,000] is a function of the momenta of the incoming particles
+- [00:10:40,000 - 00:10:42,000] and a function of the momentum of the outgoing particles.
+- [00:10:42,000 - 00:10:45,000] So it's a function of the k's.
+- [00:10:45,000 - 00:10:48,000] Let's call that amplitude A.
+- [00:10:48,000 - 00:10:50,000] It's the thing that you square.
+- [00:10:50,000 - 00:10:53,000] And it's a function of all of the k's,
+- [00:10:53,000 - 00:10:56,000] k1, k2, k3, k4.
+- [00:11:00,000 - 00:11:02,000] But there's some redundant information here.
+- [00:11:02,000 - 00:11:05,000] First of all, the momenta have to be conserved.
+- [00:11:05,000 - 00:11:07,000] Second of all, the square of
+- [00:11:07,000 - 00:11:09,000] each k has to add up to,
+- [00:11:09,000 - 00:11:11,000] to minus the mass squared.
+- [00:11:11,000 - 00:11:13,000] So there's really too many variables here.
+- [00:11:13,000 - 00:11:14,000] There's too many independent variables.
+- [00:11:14,000 - 00:11:16,000] How many independent variables are there?
+- [00:11:18,000 - 00:11:21,000] Before we impose any constraints,
+- [00:11:21,000 - 00:11:23,000] each momentum has four variables.
+- [00:11:23,000 - 00:11:26,500] This is 4 plus 4 is 8 plus
+- [00:11:26,500 - 00:11:30,000] 4 is 12 plus 4 more is 16.
+- [00:11:30,000 - 00:11:32,000] Okay, that's a lot of
+- [00:11:32,000 - 00:11:34,000] variables for something to depend on.
+- [00:11:34,000 - 00:11:38,000] Fortunately, you really don't depend on that many variables.
+- [00:11:38,000 - 00:11:40,000] Let's think about, physically,
+- [00:11:41,000 - 00:11:44,000] how many variables does a scattering amplitude
+- [00:11:44,000 - 00:11:47,000] or a scattering process depend on?
+- [00:11:47,000 - 00:11:49,000] Well, the first thing you can do is,
+- [00:11:49,000 - 00:11:52,000] whatever the momenta are,
+- [00:11:52,000 - 00:11:55,000] you can use relativity to
+- [00:11:55,000 - 00:11:58,000] go to a frame of reference
+- [00:11:58,000 - 00:12:03,000] where the center of mass is at rest.
+- [00:12:03,000 - 00:12:06,000] In other words, where the two momenta,
+- [00:12:06,000 - 00:12:08,000] the two space components of the momentum,
+- [00:12:08,000 - 00:12:10,000] are equal and opposite.
+- [00:12:10,000 - 00:12:12,000] You can always do that.
+- [00:12:12,000 - 00:12:16,000] If the particles are both moving down the z-axis,
+- [00:12:16,000 - 00:12:17,500] well, you just move fast enough
+- [00:12:17,500 - 00:12:19,000] to be halfway in between them.
+- [00:12:19,000 - 00:12:20,500] If they also happen to
+- [00:12:20,500 - 00:12:22,000] be moving in some other direction,
+- [00:12:22,000 - 00:12:24,000] just move in that direction.
+- [00:12:24,000 - 00:12:26,000] You can always go to a frame of reference
+- [00:12:26,000 - 00:12:29,000] where the particles are equal and opposite,
+- [00:12:29,000 - 00:12:32,000] the space components,
+- [00:12:32,000 - 00:12:34,000] in other words, the spatial momenta.
+- [00:12:34,000 - 00:12:38,000] Next, you can always rotate the momentum,
+- [00:12:38,000 - 00:12:41,000] you can always rotate the system,
+- [00:12:41,000 - 00:12:44,000] so that the momenta are coming in along the x-axis.
+- [00:12:44,000 - 00:12:50,000] What's left over in the initial state,
+- [00:12:50,000 - 00:12:53,500] what does it depend on if you
+- [00:12:53,500 - 00:12:57,000] know that the momenta are equal and opposite?
+- [00:12:57,000 - 00:13:00,000] What does the whole thing depend on?
+- [00:13:00,000 - 00:13:03,000] It only depends, what does the initial state depend on?
+- [00:13:03,000 - 00:13:05,000] The initial state only depends
+- [00:13:05,000 - 00:13:07,000] on the magnitude of the momentum.
+- [00:13:08,000 - 00:13:10,000] Not the magnitude of the square of the momentum,
+- [00:13:10,000 - 00:13:14,000] I mean, sorry, not the magnitude of the four vector.
+- [00:13:14,000 - 00:13:17,000] The four vector has to have magnitude m squared,
+- [00:13:17,000 - 00:13:20,000] but the magnitude of the space momentum.
+- [00:13:20,000 - 00:13:22,000] Or the energy, if you like.
+- [00:13:22,000 - 00:13:24,000] Once you go to the center of mass,
+- [00:13:24,000 - 00:13:26,000] the only thing left over is
+- [00:13:26,000 - 00:13:28,000] the total energy of the collision
+- [00:13:28,000 - 00:13:30,000] in the center of mass frame.
+- [00:13:30,000 - 00:13:33,000] So that's one thing, e center of mass.
+- [00:13:33,000 - 00:13:36,000] Now let's suppose that our particles
+- [00:13:36,000 - 00:13:39,000] are all of the same kind,
+- [00:13:39,000 - 00:13:41,000] for simplicity.
+- [00:13:41,000 - 00:13:43,000] The particles collide,
+- [00:13:43,000 - 00:13:46,000] what can you say about the outgoing momentum?
+- [00:13:46,000 - 00:13:50,000] First thing is they have to be equal and opposite.
+- [00:13:50,000 - 00:13:52,000] Why?
+- [00:13:52,000 - 00:13:54,000] That's momentum conservation.
+- [00:13:54,000 - 00:13:55,500] Momentum conservation says they have
+- [00:13:55,500 - 00:13:57,000] to be equal and opposite.
+- [00:13:57,000 - 00:14:00,000] What about the energy of the outgoing state?
+- [00:14:00,000 - 00:14:01,000] It has to be the same
+- [00:14:01,000 - 00:14:02,000] as the energy of the incoming state.
+- [00:14:02,000 - 00:14:06,500] What is the only thing that can
+- [00:14:06,500 - 00:14:11,000] differ between the incoming and the outgoing particles?
+- [00:14:11,000 - 00:14:12,000] The angle.
+- [00:14:12,000 - 00:14:13,000] That's it.
+- [00:14:13,000 - 00:14:15,000] The angle of scattering.
+- [00:14:15,000 - 00:14:17,000] Think of that.
+- [00:14:17,000 - 00:14:19,500] So the scattering amplitude, although it's
+- [00:14:19,500 - 00:14:22,000] written in terms of 16 variables,
+- [00:14:22,000 - 00:14:25,000] really only depends on two.
+- [00:14:25,000 - 00:14:27,000] Two independent variables.
+- [00:14:27,000 - 00:14:29,500] Those variables should be expressible
+- [00:14:29,500 - 00:14:32,000] in terms of relative momentum.
+- [00:14:32,000 - 00:14:35,000] Relativistically invariant things.
+- [00:14:35,000 - 00:14:37,000] We can think of it in the center of mass,
+- [00:14:37,000 - 00:14:39,500] but we also ought to be able to
+- [00:14:39,500 - 00:14:42,000] think about it in any frame of reference.
+- [00:14:42,000 - 00:14:46,000] We should be able to construct two independent invariants,
+- [00:14:46,000 - 00:14:48,000] relativistic invariants,
+- [00:14:48,000 - 00:14:53,000] which are enough to completely characterize the scattering.
+- [00:14:53,000 - 00:14:55,500] So let's talk about the
+- [00:14:55,500 - 00:14:58,000] invariants describing a scattering process.
+- [00:14:58,000 - 00:15:00,000] Two particles collide.
+- [00:15:00,000 - 00:15:02,000] Two particles collide.
+- [00:15:02,000 - 00:15:04,000] Two particles come in.
+- [00:15:04,000 - 00:15:05,000] Two particles go out.
+- [00:15:05,000 - 00:15:07,000] Let's think of them as all coming in,
+- [00:15:07,000 - 00:15:10,000] changing the sign of the momentum.
+- [00:15:10,000 - 00:15:11,000] What is this?
+- [00:15:11,000 - 00:15:19,000] k1, k2, k3, k4.
+- [00:15:19,000 - 00:15:22,000] What can you do with a four vector?
+- [00:15:22,000 - 00:15:26,000] What can you do with four vectors to construct invariants?
+- [00:15:26,000 - 00:15:29,000] There's only one thing you can do, really.
+- [00:15:29,000 - 00:15:30,000] You can square them.
+- [00:15:30,000 - 00:15:32,000] That's about all you can do.
+- [00:15:32,000 - 00:15:33,500] But you don't have to be
+- [00:15:33,500 - 00:15:35,000] talking about k1 squared or k2 squared.
+- [00:15:35,000 - 00:15:39,000] You could be talking about k1 plus k2 squared, right?
+- [00:15:39,000 - 00:15:41,000] That's a good invariant.
+- [00:15:41,000 - 00:15:43,000] k1 as a four vector.
+- [00:15:43,000 - 00:15:45,000] k1 plus k2...
+- [00:15:45,000 - 00:15:50,000] k1 plus k2 squared.
+- [00:15:50,000 - 00:15:52,000] Now remember what that means.
+- [00:15:52,000 - 00:15:56,000] That means the space components of k, k1 plus k2,
+- [00:15:56,000 - 00:15:58,000] which I'll label with arrows,
+- [00:15:58,000 - 00:16:00,000] squared,
+- [00:16:00,000 - 00:16:02,000] minus the time component,
+- [00:16:02,000 - 00:16:05,000] which means the energies.
+- [00:16:05,000 - 00:16:06,000] Let's label them.
+- [00:16:06,000 - 00:16:09,000] k0, k0 means energy.
+- [00:16:11,000 - 00:16:15,000] k0, 1 and k0, 2 squared.
+- [00:16:15,000 - 00:16:17,000] You sum the momenta, square it.
+- [00:16:17,000 - 00:16:20,000] You sum the energies, square it and subtract.
+- [00:16:20,000 - 00:16:23,000] And that's called k1 plus k2 squared.
+- [00:16:23,000 - 00:16:26,000] Let's see if we can figure out what it is.
+- [00:16:26,000 - 00:16:28,000] It's an invariant quantity.
+- [00:16:28,000 - 00:16:30,000] Let's see if we can figure out what it is
+- [00:16:30,000 - 00:16:33,000] by going to the center of mass frame.
+- [00:16:33,000 - 00:16:35,000] In the center of mass frame,
+- [00:16:35,000 - 00:16:38,000] the momentum of this particle,
+- [00:16:38,000 - 00:16:40,000] what should we call it?
+- [00:16:40,000 - 00:16:42,000] Well, it's k1.
+- [00:16:42,000 - 00:16:44,000] It's the space component k1.
+- [00:16:46,000 - 00:16:49,000] What about the momentum of this particle?
+- [00:16:49,000 - 00:16:52,000] It's equal and opposite.
+- [00:16:52,000 - 00:16:54,000] Hm?
+- [00:16:54,000 - 00:16:57,000] Minus k1, right?
+- [00:16:57,000 - 00:16:59,000] So, the total space component
+- [00:16:59,000 - 00:17:01,500] of the momentum in the
+- [00:17:01,500 - 00:17:04,000] center of mass frame is 0.
+- [00:17:04,000 - 00:17:06,000] We don't have to worry about this one.
+- [00:17:06,000 - 00:17:08,000] What about this one over here?
+- [00:17:11,000 - 00:17:13,000] That's the energies.
+- [00:17:13,000 - 00:17:14,000] We didn't talk about it,
+- [00:17:14,000 - 00:17:16,000] but what about the energies of the two particles
+- [00:17:16,000 - 00:17:18,000] in the center of mass frame?
+- [00:17:18,000 - 00:17:20,000] They're equal and opposite.
+- [00:17:20,000 - 00:17:22,000] They have the same mass.
+- [00:17:22,000 - 00:17:24,000] The energies are equal.
+- [00:17:24,000 - 00:17:27,000] The center of mass frame is one in which
+- [00:17:27,000 - 00:17:29,000] the particles are equal.
+- [00:17:29,000 - 00:17:33,000] They're perceived as moving with exactly the same momentum,
+- [00:17:33,000 - 00:17:35,000] magnitude of the momentum.
+- [00:17:35,000 - 00:17:38,000] And so the two energies are the same.
+- [00:17:38,000 - 00:17:47,000] So this just becomes twice k0 quantity squared.
+- [00:17:51,000 - 00:17:52,000] Very simple.
+- [00:17:52,000 - 00:17:55,000] This is the center of mass energy here.
+- [00:17:55,000 - 00:17:57,000] In the center of mass frame,
+- [00:17:57,000 - 00:17:58,000] you add the two energies.
+- [00:17:58,000 - 00:18:00,000] It's the total energy,
+- [00:18:00,000 - 00:18:02,000] and the square of it is just the square
+- [00:18:02,000 - 00:18:04,000] of the center of mass energy.
+- [00:18:04,000 - 00:18:07,000] So this quantity here,
+- [00:18:07,000 - 00:18:11,000] which is called minus s,
+- [00:18:11,000 - 00:18:14,000] it's just called minus s,
+- [00:18:14,000 - 00:18:15,500] is nothing but the square
+- [00:18:15,500 - 00:18:17,000] of the center of mass energy.
+- [00:18:19,000 - 00:18:20,000] Just look at it.
+- [00:18:20,000 - 00:18:23,000] Or s is the center of mass energy.
+- [00:18:23,000 - 00:18:24,000] Why?
+- [00:18:24,000 - 00:18:26,000] In the center of mass frame,
+- [00:18:26,000 - 00:18:27,000] this is 0.
+- [00:18:28,000 - 00:18:30,000] And this is just the total energy.
+- [00:18:30,000 - 00:18:33,000] So minus s is just the square,
+- [00:18:33,000 - 00:18:36,000] minus the square of the center of mass energy.
+- [00:18:36,000 - 00:18:38,000] Square of the center of mass energy,
+- [00:18:38,000 - 00:18:41,000] we call s.
+- [00:18:41,000 - 00:18:44,000] Now, can you think of any other invariant
+- [00:18:44,000 - 00:18:49,000] that you can build?
+- [00:18:49,000 - 00:18:52,000] How about k3 plus k4 squared?
+- [00:18:52,000 - 00:18:54,000] We took k1 plus k2 squared.
+- [00:18:54,000 - 00:18:56,000] How about k3 plus k4 squared?
+- [00:18:56,000 - 00:18:59,000] It's the same thing.
+- [00:18:59,000 - 00:19:00,000] Why?
+- [00:19:00,000 - 00:19:04,000] Because k1 plus k2 is minus k3 plus k4.
+- [00:19:04,000 - 00:19:05,000] Energy conservation,
+- [00:19:05,000 - 00:19:07,000] so we don't get anything new there.
+- [00:19:07,000 - 00:19:09,500] k1 plus k2 squared is the
+- [00:19:09,500 - 00:19:12,000] same as k3 plus k4 squared.
+- [00:19:12,000 - 00:19:14,000] It's the energy,
+- [00:19:14,000 - 00:19:15,500] and this just says that
+- [00:19:15,500 - 00:19:17,000] the energy in the initial state
+- [00:19:17,000 - 00:19:19,000] is the same as the energy in the final state.
+- [00:19:19,000 - 00:19:20,000] Okay?
+- [00:19:20,000 - 00:19:24,000] What about k1 plus k3 squared?
+- [00:19:24,000 - 00:19:26,000] That could be something new.
+- [00:19:26,000 - 00:19:28,000] So let's see what it is.
+- [00:19:28,000 - 00:19:30,000] Let's see if we can figure
+- [00:19:30,000 - 00:19:32,000] out what k1 plus k3 squared is
+- [00:19:32,000 - 00:19:35,000] by working in the center of mass frame.
+- [00:19:40,000 - 00:19:42,000] In the center of mass frame,
+- [00:19:42,000 - 00:19:45,000] all the particles in and out
+- [00:19:45,000 - 00:19:47,000] have the same total energy,
+- [00:19:47,000 - 00:19:48,000] have the same energy.
+- [00:19:48,000 - 00:19:49,000] Each particle has the same energy.
+- [00:19:49,000 - 00:19:51,000] Particles just get scattered through an angle.
+- [00:19:51,000 - 00:19:53,000] That's all that happens.
+- [00:19:53,000 - 00:19:54,000] So they come in and they
+- [00:19:54,000 - 00:19:55,000] go out with the same energy,
+- [00:19:55,000 - 00:19:57,000] but they scatter through an angle.
+- [00:19:57,000 - 00:19:59,000] Okay.
+- [00:20:03,000 - 00:20:06,000] So let's take k1 plus k3 squared.
+- [00:20:10,000 - 00:20:11,000] Ah, here it is.
+- [00:20:11,000 - 00:20:13,000] k1 plus k3 squared,
+- [00:20:13,000 - 00:20:15,000] k3 squared,
+- [00:20:15,000 - 00:20:17,000] k1, k3 squared.
+- [00:20:19,000 - 00:20:20,000] How about this?
+- [00:20:20,000 - 00:20:22,000] What is this in the center of mass frame?
+- [00:20:25,000 - 00:20:29,000] It's the same as k2 and k4.
+- [00:20:29,000 - 00:20:31,000] It is the same as k2 and k4,
+- [00:20:31,000 - 00:20:32,000] but that doesn't help.
+- [00:20:32,000 - 00:20:33,000] I want to know what it is, though.
+- [00:20:33,000 - 00:20:35,000] How big is it?
+- [00:20:35,000 - 00:20:38,000] All the particles have the same energy,
+- [00:20:38,000 - 00:20:40,000] incoming and outgoing.
+- [00:20:40,000 - 00:20:43,000] All they do is scatter through an angle.
+- [00:20:43,000 - 00:20:44,000] Zero.
+- [00:20:44,000 - 00:20:45,000] Zero.
+- [00:20:45,000 - 00:20:46,000] Why zero?
+- [00:20:46,000 - 00:20:49,000] Why not twice the energy?
+- [00:20:49,000 - 00:20:53,000] Yeah, because k3 and k4,
+- [00:20:53,000 - 00:20:57,000] we flip the sign on them.
+- [00:20:57,000 - 00:20:58,000] All right.
+- [00:20:58,000 - 00:21:00,000] So this isn't there.
+- [00:21:00,000 - 00:21:03,000] And this is just k1 plus k3 squared.
+- [00:21:03,000 - 00:21:06,000] So let's see if we can see what that is.
+- [00:21:06,000 - 00:21:08,000] k1 comes in.
+- [00:21:08,000 - 00:21:10,000] Particle 1 comes in.
+- [00:21:10,000 - 00:21:14,000] And of course, also particle 2.
+- [00:21:14,000 - 00:21:16,000] Particle 3 goes out.
+- [00:21:16,000 - 00:21:17,000] Here's particle 3.
+- [00:21:17,000 - 00:21:18,000] One goes in.
+- [00:21:18,000 - 00:21:21,000] Three goes out.
+- [00:21:21,000 - 00:21:22,000] But,
+- [00:21:22,000 - 00:21:26,000] if we label these particles with the k's,
+- [00:21:26,000 - 00:21:28,000] k1,
+- [00:21:28,000 - 00:21:31,000] and let's call this one now q,
+- [00:21:31,000 - 00:21:32,000] q3.
+- [00:21:32,000 - 00:21:34,000] Let's make it an outgoing particle.
+- [00:21:34,000 - 00:21:36,000] Then really what this is,
+- [00:21:36,000 - 00:21:42,000] is it's k1 minus q3 squared.
+- [00:21:42,000 - 00:21:45,000] It's really the difference of the momentum
+- [00:21:45,000 - 00:21:48,000] of the incident particle and the final particle.
+- [00:21:48,000 - 00:21:51,000] It's called the momentum transfer.
+- [00:21:51,000 - 00:21:54,000] It's the momentum transferred.
+- [00:21:54,000 - 00:21:56,500] If you were to think
+- [00:21:56,500 - 00:21:59,000] of particle 1 and particle 3
+- [00:21:59,000 - 00:22:01,000] as the same species of particle,
+- [00:22:01,000 - 00:22:04,000] then it would just be in the collision,
+- [00:22:04,000 - 00:22:08,000] it's the momentum transferred from 1 to 3.
+- [00:22:08,000 - 00:22:10,000] Bing, bing.
+- [00:22:10,000 - 00:22:12,000] There's a momentum transfer.
+- [00:22:12,000 - 00:22:15,000] And that's the momentum transferred from 1 to 3.
+- [00:22:15,000 - 00:22:17,000] That's what this is.
+- [00:22:17,000 - 00:22:18,000] Momentum transfer.
+- [00:22:18,000 - 00:22:18,500] It can also be expressed in
+- [00:22:18,500 - 00:22:19,000] terms of the angle of scattering.
+- [00:22:19,000 - 00:22:19,500] It can also be expressed in
+- [00:22:19,500 - 00:22:20,000] terms of the angle of scattering.
+- [00:22:20,000 - 00:22:20,500] It can also be expressed in
+- [00:22:20,500 - 00:22:21,000] terms of the angle of scattering.
+- [00:22:21,000 - 00:22:23,000] I will tell you what the formula is.
+- [00:22:23,000 - 00:22:26,000] The formula,
+- [00:22:26,000 - 00:22:31,000] the formula for
+- [00:22:31,000 - 00:22:41,000] k1 plus k3 squared
+- [00:22:41,000 - 00:22:47,000] is, it's just twice
+- [00:22:47,000 - 00:22:48,000] the energy squared minus the mass squared.
+- [00:22:48,000 - 00:22:49,000] the energy squared minus the mass squared.
+- [00:22:49,000 - 00:22:51,000] the energy squared minus the mass squared.
+- [00:22:51,000 - 00:22:52,000] All right, we already have
+- [00:22:52,000 - 00:22:53,000] worked out what the energy is.
+- [00:22:53,000 - 00:22:54,000] The energy is the s variable.
+- [00:22:54,000 - 00:22:57,000] It's twice e squared minus m squared
+- [00:22:57,000 - 00:22:58,000] in the center of mass frame
+- [00:22:58,000 - 00:23:03,000] times one minus the cosine of the angle of scattering.
+- [00:23:03,000 - 00:23:05,000] This is the interesting thing here.
+- [00:23:05,000 - 00:23:06,000] The angle of scattering
+- [00:23:06,000 - 00:23:10,000] is the angle between 1 and 3.
+- [00:23:10,000 - 00:23:11,000] All right.
+- [00:23:11,000 - 00:23:13,000] k1 comes in,
+- [00:23:13,000 - 00:23:15,000] q3 goes out.
+- [00:23:15,000 - 00:23:18,000] The particle gets deflected through an angle
+- [00:23:18,000 - 00:23:21,330] and it's that deflection angle, here it
+- [00:23:21,330 - 00:23:24,660] is, theta, the deflection angle of the
+- [00:23:24,660 - 00:23:27,720] particle between the incoming state and
+- [00:23:27,720 - 00:23:30,780] the outgoing state, and that's what's
+- [00:23:30,780 - 00:23:32,580] here. Why is that interesting? Well
+- [00:23:32,580 - 00:23:34,380] of course that's what's measured in an
+- [00:23:34,380 - 00:23:36,810] experiment. You put detectors in
+- [00:23:36,810 - 00:23:39,240] different places, you scatter particles,
+- [00:23:39,240 - 00:23:41,360] and you find out the probability for
+- [00:23:41,360 - 00:23:43,480] them to get deflected to an angle at
+- [00:23:43,480 - 00:23:46,680] different values of the energy. This variable,
+- [00:23:46,680 - 00:23:49,880] the k1 plus, let's see what did
+- [00:23:49,880 - 00:23:54,330] we do. I'm sorry. The definition of S,
+- [00:23:54,330 - 00:23:58,780] I forgot to erase the S over here.
+- [00:23:58,780 - 00:24:02,310] The definition of S was k1 plus
+- [00:24:02,310 - 00:24:05,840] k2 squared. That was the definition of it.
+- [00:24:05,840 - 00:24:09,560] 1 plus 2 coming in, and it was the
+- [00:24:09,560 - 00:24:13,280] square of the center of mass energy. So S
+- [00:24:13,280 - 00:24:13,400] equals k2 squared.
+- [00:24:13,480 - 00:24:18,480] equals energy center of mass squared.
+- [00:24:18,480 - 00:24:24,480] K1 plus K3 squared, that's called,
+- [00:24:24,480 - 00:24:28,480] anybody think up a name for it?
+- [00:24:28,480 - 00:24:33,480] T. T, good, T.
+- [00:24:33,480 - 00:24:35,980] It is called T. I knew
+- [00:24:35,980 - 00:24:38,480] you were going to get that.
+- [00:24:38,480 - 00:24:42,480] And that is some combination of
+- [00:24:42,480 - 00:24:46,480] the energy and the momentum transfer.
+- [00:24:46,480 - 00:24:48,980] It's the center of mass
+- [00:24:48,980 - 00:24:51,480] energy squared minus the mass squared,
+- [00:24:51,480 - 00:24:52,980] big deal, we already know what
+- [00:24:52,980 - 00:24:54,480] the center of mass energy is,
+- [00:24:54,480 - 00:25:01,480] times one minus cosine of the angle of scattering.
+- [00:25:01,480 - 00:25:04,480] Alright, so we have K1 plus K3 squared.
+- [00:25:04,480 - 00:25:07,480] How about K2 plus K4 squared?
+- [00:25:07,480 - 00:25:08,480] Right.
+- [00:25:08,480 - 00:25:13,480] Is that different?
+- [00:25:13,480 - 00:25:15,480] Well if you go back up to here,
+- [00:25:15,480 - 00:25:20,480] K1 plus K3 is minus K2 plus K4.
+- [00:25:20,480 - 00:25:22,980] So K1 plus K2 squared is
+- [00:25:22,980 - 00:25:25,480] the same as K3 plus K4 squared.
+- [00:25:25,480 - 00:25:27,480] It's also T.
+- [00:25:27,480 - 00:25:34,480] Is there another combination?
+- [00:25:34,480 - 00:25:37,480] We have K1 plus K2, we have K1 plus K3,
+- [00:25:37,480 - 00:25:40,480] K1 plus K4, right?
+- [00:25:40,480 - 00:25:42,480] That's another one.
+- [00:25:42,480 - 00:25:49,480] Alright, so one more quantity is K1 plus K4 squared.
+- [00:25:49,480 - 00:25:52,480] What can that be?
+- [00:25:52,480 - 00:25:54,980] Well, if you were going to give
+- [00:25:54,980 - 00:25:57,480] it a name, what would you call it?
+- [00:25:57,480 - 00:26:02,480] Oh, minus T equals K1 plus K3 squared.
+- [00:26:02,480 - 00:26:05,480] U. U. Minus U.
+- [00:26:05,480 - 00:26:09,480] Minus U equals that.
+- [00:26:09,480 - 00:26:12,480] These are the STU variables.
+- [00:26:12,480 - 00:26:14,480] But what's going on here?
+- [00:26:14,480 - 00:26:16,980] There are only two quantities
+- [00:26:16,980 - 00:26:19,480] that the scattering depends on.
+- [00:26:19,480 - 00:26:23,480] Energy and angle of scattering.
+- [00:26:23,480 - 00:26:25,480] Well, we seem to have three independent things.
+- [00:26:25,480 - 00:26:28,480] Well, the answer is there are not three independent things.
+- [00:26:28,480 - 00:26:31,480] If you use the momentum conservation,
+- [00:26:31,480 - 00:26:32,980] and you use the fact that
+- [00:26:32,980 - 00:26:34,480] each K squared is M squared,
+- [00:26:34,480 - 00:26:36,980] what you'll find is that S plus T
+- [00:26:36,980 - 00:26:39,480] plus U is equal to minus 4 M squared,
+- [00:26:39,480 - 00:26:40,480] or something like that.
+- [00:26:40,480 - 00:26:42,480] There's a constraint among them.
+- [00:26:42,480 - 00:26:45,480] There are not three independent ones, only two.
+- [00:26:45,480 - 00:26:49,480] These are the two interesting quantities.
+- [00:26:49,480 - 00:26:52,480] The third one is dependent on the other two.
+- [00:26:52,480 - 00:26:56,480] And as I said under this demonstration,
+- [00:26:56,480 - 00:26:58,980] we're not going to apply other
+- [00:26:58,980 - 00:27:01,480] than minus 2 to realized weight.
+- [00:27:17,480 - 00:27:18,480] Do you have to consider the
+- [00:27:18,480 - 00:27:19,480] vacuum at all on these collisions?
+- [00:27:19,480 - 00:27:20,480] What does that mean?
+- [00:27:20,480 - 00:27:23,980] Well, maybe the vacuum could just slow
+- [00:27:23,980 - 00:27:27,480] down a particle going through free space.
+- [00:27:27,480 - 00:27:30,480] Well, we know that doesn't happen, don't we?
+- [00:27:30,480 - 00:27:31,480] Oh, okay.
+- [00:27:31,480 - 00:27:32,480] It's momentum conservation.
+- [00:27:32,480 - 00:27:35,480] Okay, well, just a wild idea.
+- [00:27:35,480 - 00:27:37,480] Yeah, it could be.
+- [00:27:37,480 - 00:27:39,480] I mean, it's a possible world.
+- [00:27:39,480 - 00:27:42,480] A vacuum has friction.
+- [00:27:42,480 - 00:27:45,480] It's not our world.
+- [00:27:45,480 - 00:27:48,480] Momentum conservation says that particles
+- [00:27:48,480 - 00:27:51,480] aren't slowed down by the vacuum.
+- [00:27:52,162 - 00:27:53,442] ありがとうございました
+- [00:27:53,442 - 00:27:56,692] At some point I think you said
+- [00:27:56,692 - 00:27:59,942] that Q3 and Q4 have the same energy.
+- [00:27:59,942 - 00:28:01,642] In the center of mass frame.
+- [00:28:01,642 - 00:28:03,002] In the center of mass frame.
+- [00:28:03,002 - 00:28:06,202] Why can't there be a, I mean, K1 and K2,
+- [00:28:06,202 - 00:28:09,402] the center of mass frame is kind of defined that way.
+- [00:28:09,402 - 00:28:10,282] Yeah.
+- [00:28:10,282 - 00:28:11,022] But then...
+- [00:28:11,022 - 00:28:13,392] The center of mass frame is defined as
+- [00:28:13,392 - 00:28:15,762] a frame where the momenta are equal and opposite.
+- [00:28:15,762 - 00:28:17,962] If the momenta are equal and opposite,
+- [00:28:17,962 - 00:28:20,162] the energies of the particles are the same.
+- [00:28:20,162 - 00:28:22,082] If their masses are the same.
+- [00:28:22,082 - 00:28:24,992] Now they scatter, but they have to go
+- [00:28:24,992 - 00:28:27,902] out equal and opposite for momentum conservation reasons.
+- [00:28:27,902 - 00:28:28,902] Yeah.
+- [00:28:28,902 - 00:28:30,362] So that's...
+- [00:28:30,362 - 00:28:33,002] Alright, these variables S, T, and
+- [00:28:33,002 - 00:28:35,642] U, the other one which is there,
+- [00:28:35,642 - 00:28:43,402] those are called Mandelstam variables.
+- [00:28:43,402 - 00:28:45,262] And they're very symmetrically defined.
+- [00:28:45,262 - 00:28:46,482] Mandelstam.
+- [00:28:46,482 - 00:28:48,262] Mandelstam.
+- [00:28:48,262 - 00:28:51,802] Mandelstam.
+- [00:28:51,802 - 00:28:56,752] Mandelstam is a currently active physicist in Berkeley,
+- [00:28:56,752 - 00:29:01,702] but this notation comes from the early 60s.
+- [00:29:01,702 - 00:29:03,402] The very early 60s.
+- [00:29:03,402 - 00:29:05,262] Mandelstam variables.
+- [00:29:05,262 - 00:29:08,522] And notice what they have,
+- [00:29:08,522 - 00:29:11,782] they have this beautiful symmetric structure.
+- [00:29:11,782 - 00:29:13,762] That's what's interesting about them.
+- [00:29:13,762 - 00:29:16,822] Now let's talk about Feynman diagrams for a moment.
+- [00:29:16,822 - 00:29:18,682] And I'll just tell you what
+- [00:29:18,682 - 00:29:20,542] the answer is for certain Feynman diagrams.
+- [00:29:20,542 - 00:29:21,622] Okay.
+- [00:29:21,802 - 00:29:29,902] So let's suppose two particles collide.
+- [00:29:29,902 - 00:29:31,642] This is a Feynman diagram.
+- [00:29:31,642 - 00:29:35,242] Create a third particle of a different mass in here.
+- [00:29:35,242 - 00:29:37,322] Let's call it capital M.
+- [00:29:37,322 - 00:29:41,262] And then those particles go out like this.
+- [00:29:41,262 - 00:29:43,862] Particles come in.
+- [00:29:43,862 - 00:29:45,042] A Feynman diagram.
+- [00:29:45,042 - 00:29:47,002] So they come in together.
+- [00:29:47,002 - 00:29:48,752] They coalesce to form a second
+- [00:29:48,752 - 00:29:50,502] particle or a third particle or whatever.
+- [00:29:50,502 - 00:29:51,602] And then that particle decays.
+- [00:29:51,602 - 00:29:52,442] And it goes out.
+- [00:29:52,442 - 00:29:54,182] That's a Feynman diagram.
+- [00:29:54,182 - 00:29:56,602] That Feynman diagram has a value.
+- [00:29:56,602 - 00:29:58,362] I'm going to tell you what it is.
+- [00:29:58,362 - 00:30:01,942] It's the product of two coupling constants.
+- [00:30:01,942 - 00:30:04,862] There's always coupling constants in Feynman diagrams.
+- [00:30:04,862 - 00:30:08,162] And then there's the propagator of the particle in between.
+- [00:30:08,162 - 00:30:10,301] And that has a very simple form.
+- [00:30:10,301 - 00:30:16,801] 1 divided by S minus capital M squared.
+- [00:30:16,801 - 00:30:18,442] It has a...
+- [00:30:18,442 - 00:30:20,002] Is it...
+- [00:30:20,002 - 00:30:20,301] Yeah.
+- [00:30:20,301 - 00:30:21,442] S min...
+- [00:30:21,442 - 00:30:25,102] S minus capital M squared.
+- [00:30:25,102 - 00:30:28,612] That's the characteristic structure of a
+- [00:30:28,612 - 00:30:32,122] scattering amplitude where two particles come together
+- [00:30:32,122 - 00:30:34,502] and merge and form another particle.
+- [00:30:34,502 - 00:30:37,252] And notice, it's a function of
+- [00:30:37,252 - 00:30:40,002] S, the energy of the process.
+- [00:30:40,002 - 00:30:43,442] It doesn't depend on T. It
+- [00:30:43,442 - 00:30:46,882] doesn't depend on the other variable.
+- [00:30:46,882 - 00:30:49,102] You want one that depends on the
+- [00:30:49,102 - 00:30:51,322] other variable, you draw a similar diagram.
+- [00:30:51,442 - 00:30:53,742] Except in which, instead of
+- [00:30:53,742 - 00:30:56,042] 1 and 2 merging, you have...
+- [00:30:56,042 - 00:30:57,642] I'll draw it over here.
+- [00:30:57,642 - 00:31:01,442] 1 and 3 merging.
+- [00:31:10,102 - 00:31:12,202] It looks like exactly the same
+- [00:31:12,202 - 00:31:14,302] diagram except turned on its side.
+- [00:31:14,302 - 00:31:18,442] But it represents a very different kind of physical process.
+- [00:31:18,442 - 00:31:20,102] 1 and 2 come in.
+- [00:31:20,102 - 00:31:21,102] Exchange a particle.
+- [00:31:21,102 - 00:31:23,702] It's a very different kind of physical process.
+- [00:31:23,702 - 00:31:25,942] And then you have a particle between them.
+- [00:31:25,942 - 00:31:28,242] And then go out as 3 and 4.
+- [00:31:28,242 - 00:31:31,342] What would you guess if you had
+- [00:31:31,342 - 00:31:34,442] to guess the amplitude for this process is?
+- [00:31:34,442 - 00:31:36,222] It's going to have G squared again.
+- [00:31:36,222 - 00:31:38,162] The G's are the vertices.
+- [00:31:38,162 - 00:31:40,162] What else?
+- [00:31:40,162 - 00:31:42,021] 1 over T minus M squared.
+- [00:31:42,021 - 00:31:43,021] Exactly.
+- [00:31:43,021 - 00:31:48,801] 1 over T minus M squared.
+- [00:31:48,801 - 00:31:49,951] Now, you can imagine a third process, which
+- [00:31:49,951 - 00:31:51,102] would be 1 over U minus M squared.
+- [00:31:51,102 - 00:31:53,182] You're going to have to bring in all these particles.
+- [00:31:53,182 - 00:31:56,182] 1 over this.
+- [00:31:56,182 - 00:31:58,602] One.
+- [00:31:58,602 - 00:32:00,262] Let's see.
+- [00:32:00,262 - 00:32:01,422] That's a little hard to draw.
+- [00:32:01,422 - 00:32:02,322] One.
+- [00:32:02,322 - 00:32:05,422] It looks like this.
+- [00:32:05,422 - 00:32:07,702] 1 and 4 merge.
+- [00:32:07,702 - 00:32:09,661] 1 and 4 merge.
+- [00:32:09,661 - 00:32:12,582] You have to switch the lines like that.
+- [00:32:12,582 - 00:32:13,582] Let's ignore it.
+- [00:32:13,582 - 00:32:14,582] It's there.
+- [00:32:14,582 - 00:32:15,582] It's there.
+- [00:32:15,582 - 00:32:16,582] And it's important.
+- [00:32:16,582 - 00:32:17,582] But it's too hard to draw.
+- [00:32:17,582 - 00:32:18,101] I don't like drawing cross.
+- [00:32:18,101 - 00:32:19,101] Are they perpendicular to the other two?
+- [00:32:19,101 - 00:32:20,101] They're not perpendicular.
+- [00:32:20,101 - 00:32:21,101] It's just a question of which way to go first.
+- [00:32:21,102 - 00:32:24,352] which particles came together, and I hate drawing
+- [00:32:24,352 - 00:32:27,602] cross lines on the blackboard so we won't.
+- [00:32:27,602 - 00:32:31,022] But there is, in principle, there can be another one.
+- [00:32:31,022 - 00:32:34,642] This one depends only on the energy.
+- [00:32:34,642 - 00:32:37,582] Doesn't depend on the angle of scattering altogether.
+- [00:32:37,582 - 00:32:40,442] T contains the angle of scattering.
+- [00:32:40,442 - 00:32:42,622] S is only a function of the energy.
+- [00:32:42,622 - 00:32:45,102] That means that when this process happens, to
+- [00:32:45,102 - 00:32:47,582] say that it doesn't depend on the angle
+- [00:32:47,582 - 00:32:49,922] of scattering means that every angle
+- [00:32:49,922 - 00:32:52,262] of scattering is equal, equally probable.
+- [00:32:52,262 - 00:32:54,522] When the particles go in, they have
+- [00:32:54,522 - 00:32:56,782] equal probability of getting deflected through any
+- [00:32:56,782 - 00:32:59,882] angle whatever.
+- [00:32:59,882 - 00:33:01,412] That seems odd, but that
+- [00:33:01,412 - 00:33:02,942] is the property of this process.
+- [00:33:02,942 - 00:33:04,822] And the reason is very simple.
+- [00:33:04,822 - 00:33:07,371] The particles come in from some direction,
+- [00:33:07,371 - 00:33:09,921] they form this compound state, and then when
+- [00:33:09,921 - 00:33:12,341] they decay, they've forgotten which
+- [00:33:12,341 - 00:33:14,762] direction they came in from.
+- [00:33:14,762 - 00:33:17,442] So they come in, they form the composite.
+- [00:33:17,442 - 00:33:17,491] And then when they decay, they've
+- [00:33:17,491 - 00:33:17,541] forgotten which direction they came in from.
+- [00:33:17,541 - 00:33:17,562] So they come in, they form the composite.
+- [00:33:17,562 - 00:33:20,212] And then when the composite decays, it
+- [00:33:20,212 - 00:33:22,862] decays at an arbitrary angle, uncorrelated to the
+- [00:33:22,862 - 00:33:24,702] initial directions.
+- [00:33:24,702 - 00:33:26,982] That's this process here.
+- [00:33:26,982 - 00:33:28,602] This one is different.
+- [00:33:28,602 - 00:33:31,732] It depends on the energy, but
+- [00:33:31,732 - 00:33:34,862] also on the angle of scattering.
+- [00:33:34,862 - 00:33:36,732] This is the one that depends on the angle
+- [00:33:36,732 - 00:33:38,602] of scattering, and if you work it out, it's
+- [00:33:38,602 - 00:33:43,982] easy to see that it favors small angle scattering.
+- [00:33:43,982 - 00:33:46,902] This favors large angles.
+- [00:33:46,902 - 00:33:47,522] So this one.
+- [00:33:47,522 - 00:33:49,882] It depends on angle and this one depends.
+- [00:33:49,882 - 00:33:53,402] But notice how similar the two expressions are.
+- [00:33:53,402 - 00:33:56,202] There's a real symmetry between them.
+- [00:33:56,202 - 00:33:58,651] In fact, if you interchange S
+- [00:33:58,651 - 00:34:01,101] and T, the scattering doesn't change.
+- [00:34:01,101 - 00:34:03,661] This is a property of relativistic scattering
+- [00:34:03,661 - 00:34:06,222] amplitudes that they have this kind of symmetry.
+- [00:34:06,222 - 00:34:08,411] They sort of forget which were the
+- [00:34:08,411 - 00:34:10,601] incoming and which were the outgoing particles, but
+- [00:34:10,601 - 00:34:12,681] only if you express it in
+- [00:34:12,681 - 00:34:14,762] terms of these kind of invariants.
+- [00:34:14,782 - 00:34:16,342] Ok.
+- [00:34:16,342 - 00:34:16,842] Good.
+- [00:34:16,842 - 00:34:17,402] So now we have one.
+- [00:34:17,402 - 00:34:17,481] We have three.
+- [00:34:17,481 - 00:34:17,502] We have two.
+- [00:34:17,502 - 00:34:23,512] have some basic idea of what it
+- [00:34:23,512 - 00:34:29,522] is that a theoretical physicist wants to compute
+- [00:34:29,522 - 00:34:33,112] about a model of particles to compare,
+- [00:34:33,112 - 00:34:36,702] not because he's so interested in it, but
+- [00:34:36,702 - 00:34:38,272] it's the thing that he can give
+- [00:34:38,272 - 00:34:39,842] to the experimentalist and say measure the
+- [00:34:39,842 - 00:34:41,552] probabilities for scattering as a function
+- [00:34:41,552 - 00:34:43,262] of energy and so forth, and
+- [00:34:43,262 - 00:34:47,681] here's my prediction. Okay. Are you saying that
+- [00:34:47,681 - 00:34:52,101] the dependence of ST and U causes this
+- [00:34:52,101 - 00:34:56,251] amplitude to what shift around if you, I
+- [00:34:56,251 - 00:35:00,402] mean you still have three turns but, but
+- [00:35:00,402 - 00:35:04,292] the value shifts around if you... Depends
+- [00:35:04,292 - 00:35:08,182] on the angle of scattering, all right, so
+- [00:35:08,182 - 00:35:12,622] if all that was there was this, this would
+- [00:35:12,622 - 00:35:12,902] favor the value of the value of the
+- [00:35:12,902 - 00:35:13,182] energy. This would favor the value of the energy.
+- [00:35:13,182 - 00:35:13,212] This would favor the value of the energy.
+- [00:35:13,212 - 00:35:13,242] This would favor the value of the energy.
+- [00:35:13,242 - 00:35:13,742] This would favor the value of the energy.
+- [00:35:13,742 - 00:35:14,242] This would favor the value of the energy.
+- [00:35:14,242 - 00:35:18,192] This would favor the value of the energy. This would favor small angle scattering and
+- [00:35:18,192 - 00:35:22,142] be, not forbid, but make it less likely, let's see if we can see why.
+- [00:35:22,142 - 00:35:23,322] I think I, here it is.
+- [00:35:23,322 - 00:35:26,102] I'm just asking, do you have a third term?
+- [00:35:26,102 - 00:35:31,762] The third term is there. What about it?
+- [00:35:31,762 - 00:35:34,702] Oh, well, but you say that you didn't want to write it
+- [00:35:34,702 - 00:35:37,642] up there or that it, you didn't want to write the diagram.
+- [00:35:37,642 - 00:35:40,402] I didn't want to draw the diagram, but if there
+- [00:35:40,402 - 00:35:43,162] was a process in which one and four could come together
+- [00:35:43,162 - 00:35:45,682] and do the same thing, then we would want to
+- [00:35:45,682 - 00:35:48,202] put a g squared, 1 over u minus m squared.
+- [00:35:48,242 - 00:35:50,902] And because the three are not completely independent.
+- [00:35:51,522 - 00:35:52,602] Yeah, they're connected.
+- [00:35:53,362 - 00:35:54,962] Then that has an effect on the...
+- [00:35:54,962 - 00:35:56,962] The 1 over u minus, okay, so what is u?
+- [00:35:57,062 - 00:35:59,982] It's interesting, u is equal to e
+- [00:35:59,982 - 00:36:02,902] center of mass squared minus m squared
+- [00:36:02,902 - 00:36:07,082] times 1 plus cosine theta.
+- [00:36:07,082 - 00:36:12,802] Okay, so both...
+- [00:36:12,802 - 00:36:15,462] So they're clearly related.
+- [00:36:16,601 - 00:36:19,101] If you know s, you know the energy.
+- [00:36:20,342 - 00:36:21,802] Therefore, if you also know t,
+- [00:36:21,802 - 00:36:23,262] you know the angle of scattering.
+- [00:36:24,222 - 00:36:25,741] And this is just a function of
+- [00:36:25,741 - 00:36:27,261] the energy and the angle of scattering.
+- [00:36:27,442 - 00:36:28,782] So they're all connected with each other.
+- [00:36:29,442 - 00:36:30,862] Another way to say it is
+- [00:36:30,862 - 00:36:32,282] if you add s and u,
+- [00:36:33,121 - 00:36:35,142] you'll cancel out the angle altogether,
+- [00:36:35,142 - 00:36:37,062] and you'll get just a function of energy.
+- [00:36:37,082 - 00:36:43,261] Which is clearly dependent only on s.
+- [00:36:44,261 - 00:36:44,282] Right.
+- [00:36:46,062 - 00:36:47,102] But they're all...
+- [00:36:47,102 - 00:36:48,522] But they're separate finding diagrams,
+- [00:36:48,761 - 00:36:50,982] and in general you have to add them all.
+- [00:36:51,502 - 00:36:51,722] Okay.
+- [00:36:52,722 - 00:36:54,922] But I want to focus on this here.
+- [00:36:54,922 - 00:36:54,962] Here.
+- [00:37:04,442 - 00:37:05,922] This does not describe...
+- [00:37:07,082 - 00:37:14,261] The scattering of mesons, for example, very well.
+- [00:37:14,261 - 00:37:18,761] It gives a poor description of the scattering of mesons.
+- [00:37:18,761 - 00:37:20,761] And the reason is simple.
+- [00:37:20,761 - 00:37:25,761] The reason is that there are many, many different particles
+- [00:37:25,761 - 00:37:31,261] that can be produced when two mesons collide.
+- [00:37:31,261 - 00:37:33,861] Whole stacks of them with
+- [00:37:33,861 - 00:37:36,462] different mass and different angular momentum.
+- [00:37:36,462 - 00:37:37,062] Okay.
+- [00:37:37,082 - 00:37:38,702] We haven't described what the
+- [00:37:38,702 - 00:37:40,322] angular momentum would do here.
+- [00:37:40,322 - 00:37:43,322] What the angular momentum would do would be
+- [00:37:43,322 - 00:37:46,322] to change the dependence on the angle of scattering.
+- [00:37:46,322 - 00:37:47,322] Let's not get into it.
+- [00:37:47,322 - 00:37:50,822] Formulas like this are too simple
+- [00:37:50,822 - 00:37:54,322] to describe the realistic scattering of mesons.
+- [00:37:54,322 - 00:37:58,322] It's too easy to excite
+- [00:37:58,322 - 00:38:02,322] higher vibrations of these particles here.
+- [00:38:02,322 - 00:38:06,362] And when two particles collide,
+- [00:38:06,362 - 00:38:07,901] they could make some ground state,
+- [00:38:07,901 - 00:38:09,562] they could make some first excited state,
+- [00:38:09,562 - 00:38:11,242] they could make some next excited state,
+- [00:38:11,242 - 00:38:13,922] they can make a whole raft of
+- [00:38:13,922 - 00:38:16,602] different particles that can go in there.
+- [00:38:16,602 - 00:38:23,362] And people in the 60s,
+- [00:38:23,362 - 00:38:28,002] basically beginning sometime around 1965, 66, 67,
+- [00:38:28,002 - 00:38:34,362] tried to concoct mathematical amplitudes
+- [00:38:34,362 - 00:38:36,362] with interesting mathematical properties.
+- [00:38:36,362 - 00:38:40,362] That would represent all of the
+- [00:38:40,362 - 00:38:44,362] possible particles which could go in here.
+- [00:38:44,362 - 00:38:47,362] This was trial and error.
+- [00:38:47,362 - 00:38:51,362] It was just making up formulas to try to
+- [00:38:51,362 - 00:38:55,362] represent the different particles which could go in here
+- [00:38:55,362 - 00:38:58,362] and different particles which could go in here.
+- [00:38:58,362 - 00:39:02,362] The first attempts tended to be to add particles.
+- [00:39:02,362 - 00:39:05,362] This is called an S-channel process.
+- [00:39:05,362 - 00:39:06,362] Why?
+- [00:39:06,362 - 00:39:09,362] Because it involves 1 over S minus M squared.
+- [00:39:09,362 - 00:39:16,362] Particles coming together, K1, K2.
+- [00:39:16,362 - 00:39:18,362] That defines S.
+- [00:39:18,362 - 00:39:21,362] This is called the T-channel process.
+- [00:39:21,362 - 00:39:23,362] K1 and K3 coming together.
+- [00:39:23,362 - 00:39:25,362] So they began by saying,
+- [00:39:25,362 - 00:39:32,362] let's just add more and more stuff into here, S-channel,
+- [00:39:32,362 - 00:39:35,362] and let's add more and more stuff into here, T-channel,
+- [00:39:35,362 - 00:39:38,362] and then let's add more stuff into here, T-channel.
+- [00:39:38,362 - 00:39:40,362] And so this is basically the same thing.
+- [00:39:40,362 - 00:39:45,362] You add up all the particles that could be scattered.
+- [00:39:45,362 - 00:39:47,362] Well, that lasted for a certain period of time,
+- [00:39:47,362 - 00:39:50,362] adding up the various particles which could go in there.
+- [00:39:50,362 - 00:39:53,362] And then people tried to find more comprehensive formulas.
+- [00:39:53,362 - 00:39:55,362] Just by...
+- [00:39:55,362 - 00:39:57,362] I don't even know what the right word is.
+- [00:39:57,362 - 00:39:59,362] Sort of a kind of curve fitting,
+- [00:39:59,362 - 00:40:02,362] but a very sophisticated kind of curve fitting.
+- [00:40:02,362 - 00:40:04,362] And a rather dramatic formula was discovered,
+- [00:40:04,362 - 00:40:08,282] the physics of all of the particles in the S
+- [00:40:08,282 - 00:40:12,202] channel and all of the particles in the T channel.
+- [00:40:12,202 - 00:40:15,962] Just replaced this combination here
+- [00:40:16,682 - 00:40:19,442] with, but not just one particle, but
+- [00:40:19,442 - 00:40:22,202] many of them, whole towers of them,
+- [00:40:22,202 - 00:40:24,642] with a formula which I'm going to
+- [00:40:24,642 - 00:40:27,082] just, this is of historical interest mainly,
+- [00:40:28,281 - 00:40:31,201] with a formula which I will write down
+- [00:40:31,201 - 00:40:34,122] and you can explore its beauty, its great beauty,
+- [00:40:34,362 - 00:40:42,442] is very, very simple. It's called the Veneziano amplitude.
+- [00:40:50,682 - 00:40:54,921] Veneziano amplitude. A young Italian physicist, he was
+- [00:40:54,921 - 00:40:59,161] young at the time, he's not young anymore,
+- [00:41:00,202 - 00:41:01,161] but he's still Italian.
+- [00:41:03,881 - 00:41:04,281] He just
+- [00:41:04,362 - 00:41:07,842] I don't know how he made this guess. He
+- [00:41:07,842 - 00:41:11,322] just randomly wrote down some things which had some
+- [00:41:11,322 - 00:41:14,442] right properties and which really did look like adding
+- [00:41:14,442 - 00:41:17,562] up things like this. It was a function of
+- [00:41:17,562 - 00:41:23,801] S and T. Everybody know what the gamma function
+- [00:41:23,801 - 00:41:30,041] is? Well the gamma function, you don't need to
+- [00:41:30,041 - 00:41:31,961] know it, but I'm just going to write
+- [00:41:31,961 - 00:41:33,881] down the formula for fun. The gamma function
+- [00:41:33,882 - 00:41:36,922] is a generalization of the factorial function.
+- [00:41:38,682 - 00:41:41,322] But the factorial function is only defined for integers.
+- [00:41:43,162 - 00:41:47,002] The gamma function is defined, interpolated between
+- [00:41:47,002 - 00:41:50,842] integers. The gamma function for the integers
+- [00:41:51,642 - 00:41:54,802] is equal to n minus one factorial, gamma
+- [00:41:54,802 - 00:41:57,962] of n. But it's defined for non-integers too,
+- [00:41:57,962 - 00:42:00,842] and I won't tell you. It's defined by an integral
+- [00:42:00,842 - 00:42:03,722] and it continuously interpolates between the integer, and the non-integer.
+- [00:42:03,882 - 00:42:04,362] And I apologize if I'm paraphrasing here.
+- [00:42:22,482 - 00:42:25,262] But this is it. This is the
+- [00:42:25,262 - 00:42:28,042] Veniziano amplitude multiplied by the coupling constant squared.
+- [00:42:28,682 - 00:42:31,962] If you examine this amplitude, you'll find out,
+- [00:42:33,002 - 00:42:33,122] I'm not going to go there. They're somewhat different Conservatives, Comb plates,
+- [00:42:33,122 - 00:42:33,242] consigliere plinuses, et cetera. I'm not going to go there. But you're bound
+- [00:42:33,242 - 00:42:35,082] I'm not going to go into its mathematics.
+- [00:42:35,082 - 00:42:36,482] Its mathematics is very simple.
+- [00:42:36,482 - 00:42:38,801] All you have to know is about gamma functions.
+- [00:42:38,801 - 00:42:42,242] And if you want to explore it, it's actually
+- [00:42:42,242 - 00:42:44,421] quite a simple construction.
+- [00:42:44,421 - 00:42:46,722] But I'm going to tell you what it looks like.
+- [00:42:46,722 - 00:42:50,941] It looks like an amplitude that
+- [00:42:50,941 - 00:42:55,161] you would make by summing up
+- [00:42:55,161 - 00:42:57,261] large number of particles.
+- [00:42:57,261 - 00:42:59,921] This is representing some composite particle
+- [00:42:59,921 - 00:43:02,002] or some particle that could be in there,
+- [00:43:02,002 - 00:43:04,041] of different masses in the S channel.
+- [00:43:06,962 - 00:43:14,462] But it also looks like, oh, notice that it's symmetric.
+- [00:43:14,462 - 00:43:16,642] It's symmetric with respect to S
+- [00:43:16,642 - 00:43:18,822] and T, exactly like this is.
+- [00:43:18,822 - 00:43:21,122] The peculiar thing about it is you
+- [00:43:21,122 - 00:43:23,432] can represent it as a
+- [00:43:23,432 - 00:43:25,742] kind of sum of Feynman diagrams
+- [00:43:25,742 - 00:43:28,362] with all the particles in
+- [00:43:28,362 - 00:43:30,982] the S channel, diagrams like this.
+- [00:43:30,982 - 00:43:31,982] But because it's symmetric, it's not
+- [00:43:32,002 - 00:43:35,561] symmetric under S and T, you can also represent it.
+- [00:43:35,561 - 00:43:37,102] You don't add.
+- [00:43:37,102 - 00:43:40,121] It is also equal to the
+- [00:43:40,121 - 00:43:43,141] same kind of thing going this way.
+- [00:43:43,141 - 00:43:46,141] Something odd was afoot about this formula.
+- [00:43:46,141 - 00:43:48,581] It had all the important features
+- [00:43:48,581 - 00:43:51,021] that the scattering amplitude should have.
+- [00:43:51,021 - 00:43:54,671] It could be analyzed as if a whole
+- [00:43:54,671 - 00:43:58,322] bunch of particles were produced and then decayed.
+- [00:43:58,322 - 00:44:00,092] But it could also be analyzed as
+- [00:44:00,092 - 00:44:01,862] if a whole bunch of particles were exchanged.
+- [00:44:02,002 - 00:44:04,141] This was something new.
+- [00:44:04,141 - 00:44:06,842] This had not been seen before.
+- [00:44:06,842 - 00:44:09,402] Previous to this, everybody would have
+- [00:44:09,402 - 00:44:11,962] added contributions for S and T.
+- [00:44:11,962 - 00:44:17,061] And this thing replaced this.
+- [00:44:17,061 - 00:44:19,342] The question was, what is this?
+- [00:44:19,342 - 00:44:20,641] Where does this come from?
+- [00:44:20,641 - 00:44:25,541] What kind of physics gives rise to this?
+- [00:44:25,541 - 00:44:27,251] What kind of physics can you
+- [00:44:27,251 - 00:44:28,962] imagine would give rise to this,
+- [00:44:28,962 - 00:44:31,862] to a formula like this?
+- [00:44:32,002 - 00:44:37,561] The answer, of course, turned out to be string theory.
+- [00:44:37,561 - 00:44:40,651] The invention and the discovery of string
+- [00:44:40,651 - 00:44:43,742] theory was just looking for a physical model
+- [00:44:43,742 - 00:44:46,761] which would give this for its answers, for
+- [00:44:46,761 - 00:44:49,781] its answer for scattering of two mesons, or
+- [00:44:49,781 - 00:44:50,781] two particles.
+- [00:44:50,781 - 00:44:53,281] I'm going to go back to the first part
+- [00:44:53,281 - 00:44:55,781] of the lecture, which is the theory of the
+- [00:44:55,781 - 00:44:58,002] mass of particles.
+- [00:44:58,002 - 00:44:59,572] I'm going to go back to the first part
+- [00:44:59,572 - 00:45:01,142] of the lecture, which is the theory of the mass
+- [00:45:01,142 - 00:45:02,142] of particles.
+- [00:45:02,142 - 00:45:09,052] I'm going to tell you, without a lot of
+- [00:45:09,052 - 00:45:15,962] drama, what physical model gives rise to this scattering
+- [00:45:15,962 - 00:45:16,962] amplitude.
+- [00:45:16,962 - 00:45:17,962] And I'll show you a little bit.
+- [00:45:17,962 - 00:45:20,342] I'll show you what the
+- [00:45:20,342 - 00:45:22,722] logic that went into it was.
+- [00:45:22,722 - 00:45:25,452] It wasn't very hard to guess
+- [00:45:25,452 - 00:45:28,182] that this was a theory of strings.
+- [00:45:28,182 - 00:45:29,802] It wasn't too hard.
+- [00:45:29,802 - 00:45:30,802] Just because...
+- [00:45:31,142 - 00:45:33,142] Well, it wasn't too hard.
+- [00:45:33,142 - 00:45:38,142] You said exchange particles versus...
+- [00:45:38,142 - 00:45:47,522] The S-channel and the T-channel exchange...
+- [00:45:47,522 - 00:45:50,742] Direct production and exchange.
+- [00:45:50,742 - 00:45:53,702] Sometimes called the direct channel and the cross channel.
+- [00:45:53,702 - 00:45:56,402] The S-channel is called the direct channel.
+- [00:45:56,402 - 00:45:58,772] Those are the direct particles come
+- [00:45:58,772 - 00:46:01,142] in, coalesce, and then go out.
+- [00:46:01,142 - 00:46:02,142] The cross channel is when the particle
+- [00:46:02,142 - 00:46:03,142] jumps across from one side to another.
+- [00:46:03,142 - 00:46:04,142] All right.
+- [00:46:04,142 - 00:46:17,142] I'll show you what the physics of that formula is.
+- [00:46:17,142 - 00:46:19,142] You begin with two strings.
+- [00:46:19,142 - 00:46:23,242] I'm not going to do a calculation, but
+- [00:46:23,242 - 00:46:27,342] I'll show you everything that went into it.
+- [00:46:27,342 - 00:46:28,142] It's a little bit tedious.
+- [00:46:28,142 - 00:46:29,142] What you have to know about...
+- [00:46:29,142 - 00:46:30,142] You have to know a lot about what you're doing.
+- [00:46:30,142 - 00:46:31,142] You have to know how to do it.
+- [00:46:31,142 - 00:46:31,642] You have to know how to
+- [00:46:31,642 - 00:46:32,142] do it, how to do it.
+- [00:46:32,142 - 00:46:32,642] You have to know how to
+- [00:46:32,642 - 00:46:33,142] do it, how to do it.
+- [00:46:33,142 - 00:46:34,142] You have to know how to do it.
+- [00:46:34,142 - 00:46:35,142] All right?
+- [00:46:35,142 - 00:46:36,142] You have to know how to do it.
+- [00:46:36,142 - 00:46:37,142] You have to know how to do it.
+- [00:46:37,142 - 00:46:37,642] What you have to know
+- [00:46:37,642 - 00:46:38,142] about harmonic oscillators and that's all.
+- [00:46:38,142 - 00:46:39,142] Nothing much more than that.
+- [00:46:39,142 - 00:46:40,142] You start with two strings.
+- [00:46:40,142 - 00:46:41,142] All right, here's a string.
+- [00:46:41,142 - 00:46:43,922] Now, remember, the string has a
+- [00:46:43,922 - 00:46:46,702] coordinate along it, which we call sigma.
+- [00:46:46,702 - 00:46:49,142] Let's draw the sigma axis over
+- [00:46:49,142 - 00:46:51,582] here from sigma from zero to pi.
+- [00:46:51,582 - 00:46:53,442] And here's a string.
+- [00:46:53,442 - 00:46:56,802] But the string propagates in time.
+- [00:46:56,802 - 00:46:59,142] Let's draw time horizontally.
+- [00:46:59,142 - 00:47:00,142] Here's the end of a string.
+- [00:47:01,142 - 00:47:08,342] at sigma equals zero, sigma equals pi.
+- [00:47:08,422 - 00:47:09,602] These are open strings.
+- [00:47:11,122 - 00:47:14,022] Now the string, of course, moves around in spacetime,
+- [00:47:14,282 - 00:47:17,342] but it's always located between zero and pi.
+- [00:47:18,242 - 00:47:20,492] That's not spatial position, that's
+- [00:47:20,492 - 00:47:22,742] just its parameter along the string.
+- [00:47:24,082 - 00:47:27,412] And the material of the string, the
+- [00:47:27,412 - 00:47:30,742] particles that make it up, are in here.
+- [00:47:31,142 - 00:47:35,082] Each point in the history of the string, think
+- [00:47:35,082 - 00:47:39,022] of the string as sweeping along, here it is,
+- [00:47:39,682 - 00:47:44,262] it's sweeping along some spacetime sheet.
+- [00:47:44,262 - 00:47:47,082] It's called a world sheet, instead of a world line.
+- [00:47:47,662 - 00:47:49,462] Each point in that world sheet
+- [00:47:49,462 - 00:47:51,262] is characterized by a point sigma,
+- [00:47:51,822 - 00:47:56,502] and a time which is called tau.
+- [00:47:57,202 - 00:47:59,122] Tau goes this way, it's a time,
+- [00:47:59,802 - 00:48:00,262] and sigma is a...
+- [00:48:01,142 - 00:48:03,142] a coordinate along the string.
+- [00:48:03,142 - 00:48:05,142] Not a real spatial coordinate, just a
+- [00:48:05,142 - 00:48:07,142] label for labeling points along the string.
+- [00:48:07,942 - 00:48:11,222] Tau is this time that we've used previously,
+- [00:48:11,782 - 00:48:15,142] the infinite momentum time, but that's not what's important.
+- [00:48:15,142 - 00:48:18,142] What's important is that the idea of
+- [00:48:18,142 - 00:48:21,142] a world line becomes a world sheet.
+- [00:48:22,342 - 00:48:27,262] And instead of being parameterized by a single variable tau,
+- [00:48:27,262 - 00:48:29,542] it's now parameterized by two variables.
+- [00:48:31,142 - 00:48:35,142] Each point in here has a position
+- [00:48:35,142 - 00:48:39,142] in spacetime, x mu, or just x.
+- [00:48:41,342 - 00:48:43,842] And we've already worked out what
+- [00:48:43,842 - 00:48:46,342] the equations of motion of x are.
+- [00:48:46,342 - 00:48:49,592] They are the wave equations describing
+- [00:48:49,592 - 00:48:52,842] waves moving up and down the string.
+- [00:48:53,442 - 00:48:55,242] The wave equation, let's write it.
+- [00:48:55,942 - 00:48:58,942] It was d second x by d tau squared
+- [00:48:59,542 - 00:49:00,942] minus d second x by...
+- [00:49:01,142 - 00:49:03,942] d sigma squared equals zero.
+- [00:49:04,742 - 00:49:06,742] That's the wave equation that
+- [00:49:06,742 - 00:49:08,742] described the oscillations of the string.
+- [00:49:10,142 - 00:49:11,942] But we don't even have to think about this.
+- [00:49:12,342 - 00:49:14,992] We can just imagine that this string is
+- [00:49:14,992 - 00:49:17,642] a collection of a large number of particles
+- [00:49:20,442 - 00:49:23,442] replaced the world sheet by a bunch of
+- [00:49:23,442 - 00:49:26,442] world lines narrowly spaced with springs between them.
+- [00:49:29,742 - 00:49:31,042] With springs between them.
+- [00:49:31,142 - 00:49:35,142] That's the picture of the evolution of a particle.
+- [00:49:35,142 - 00:49:36,642] Now what we're going to
+- [00:49:36,642 - 00:49:38,142] do is begin with two particles.
+- [00:49:39,142 - 00:49:41,642] We're going to have two
+- [00:49:41,642 - 00:49:44,142] particles coming in from the past.
+- [00:49:44,142 - 00:49:45,642] And we're going to put
+- [00:49:45,642 - 00:49:47,142] them right next to each other.
+- [00:49:47,142 - 00:49:48,642] Let's see, I think we need
+- [00:49:48,642 - 00:49:50,142] another color for the second particle.
+- [00:49:50,142 - 00:49:51,642] We're not going to put them right
+- [00:49:51,642 - 00:49:53,142] next to each other in space necessarily,
+- [00:49:53,142 - 00:49:56,142] but just in the parameter space.
+- [00:49:56,142 - 00:49:58,142] Here this goes from zero to pi.
+- [00:49:58,142 - 00:50:00,142] We need to put another one in going from pi...
+- [00:50:00,142 - 00:50:04,142] also from zero to pi.
+- [00:50:04,142 - 00:50:06,142] Here's the other string.
+- [00:50:11,142 - 00:50:12,642] There's no meaning to the fact that
+- [00:50:12,642 - 00:50:14,142] I've drawn them right next to each other.
+- [00:50:14,142 - 00:50:16,142] I've just drawn them.
+- [00:50:16,142 - 00:50:20,142] Their actual position in space-time might not be adjacent.
+- [00:50:20,142 - 00:50:22,142] So this just parameterizes...
+- [00:50:22,142 - 00:50:24,142] this half parameterizes the world
+- [00:50:24,142 - 00:50:26,142] sheet of the left particle.
+- [00:50:26,142 - 00:50:27,642] This half parameterizes the world
+- [00:50:27,642 - 00:50:29,142] sheet of the right particle.
+- [00:50:30,142 - 00:50:32,142] And they might be far away from each other.
+- [00:50:32,142 - 00:50:34,642] That means the x's over here may
+- [00:50:34,642 - 00:50:37,142] be very different than the x's over here.
+- [00:50:38,142 - 00:50:41,142] But, with any luck at all,
+- [00:50:42,142 - 00:50:44,142] with some probability,
+- [00:50:44,142 - 00:50:46,642] the end of the string might
+- [00:50:46,642 - 00:50:49,142] touch the end of that string.
+- [00:50:49,142 - 00:50:51,142] And when it does,
+- [00:50:53,142 - 00:50:55,142] they can coalesce.
+- [00:50:55,142 - 00:50:57,142] That's an assumption, that they can coalesce.
+- [00:50:57,142 - 00:50:59,142] But that's the basic process of string theory,
+- [00:50:59,142 - 00:51:01,142] that they can coalesce,
+- [00:51:01,142 - 00:51:04,142] and then form a single string.
+- [00:51:04,142 - 00:51:06,142] Now,
+- [00:51:06,142 - 00:51:09,142] they really are connected.
+- [00:51:09,142 - 00:51:12,142] If you like, a new spring developed.
+- [00:51:12,142 - 00:51:16,142] When these touched each other, a spring appeared,
+- [00:51:16,142 - 00:51:18,642] connecting the last particle of this string
+- [00:51:18,642 - 00:51:21,142] with the first particle of that string,
+- [00:51:21,142 - 00:51:24,142] and the whole thing becomes one string.
+- [00:51:26,142 - 00:51:28,142] That condition persists for a while.
+- [00:51:29,142 - 00:51:34,142] It persists for a while until
+- [00:51:34,142 - 00:51:37,142] a quantum mechanical event happens,
+- [00:51:37,142 - 00:51:39,142] and the strings separate again.
+- [00:51:46,142 - 00:51:50,142] Randomly, but you can
+- [00:51:50,142 - 00:51:54,142] transform around, cleverly,
+- [00:51:54,142 - 00:51:55,642] to make it be at
+- [00:51:55,642 - 00:51:57,142] the same place along the string.
+- [00:51:57,142 - 00:51:59,142] So, you have enough symmetry,
+- [00:51:59,142 - 00:52:02,142] enough symmetry of the equations,
+- [00:52:02,142 - 00:52:04,142] that you can
+- [00:52:08,142 - 00:52:10,142] put this point at the same point,
+- [00:52:10,142 - 00:52:12,142] the same horizontal level as this point.
+- [00:52:13,142 - 00:52:15,142] So, what do you have to...
+- [00:52:15,142 - 00:52:17,142] Alright, so what is the nature of this process?
+- [00:52:18,142 - 00:52:20,142] Given this,
+- [00:52:21,142 - 00:52:23,142] it's possible to guess what
+- [00:52:23,142 - 00:52:25,142] the answer is for the O.
+- [00:52:25,142 - 00:52:27,142] The important quantity in here is the amount
+- [00:52:27,142 - 00:52:31,142] of time that the strings,
+- [00:52:31,142 - 00:52:33,142] the spins coalesce.
+- [00:52:33,142 - 00:52:37,142] It's the amount of time that the compound state stays
+- [00:52:37,142 - 00:52:41,142] before it breaks up into its final constituents.
+- [00:52:41,142 - 00:52:42,142] Alright?
+- [00:52:42,142 - 00:52:44,142] And let's just call that tau now.
+- [00:52:44,142 - 00:52:48,142] Let's call that from this time here, tau.
+- [00:52:49,142 - 00:52:50,142] I'll tell you what we
+- [00:52:50,142 - 00:52:51,142] do with it in the end.
+- [00:52:51,142 - 00:52:53,142] In the end, we integrate over it, but...
+- [00:52:53,142 - 00:52:55,142] Let me tell you what you put in.
+- [00:52:57,142 - 00:53:02,142] If you're interested in a quantum mechanical amplitude,
+- [00:53:02,142 - 00:53:05,142] you want to start with an initial state.
+- [00:53:05,142 - 00:53:06,142] The initial state...
+- [00:53:06,142 - 00:53:08,142] Let's start with one particle.
+- [00:53:08,142 - 00:53:09,142] The initial state...
+- [00:53:09,142 - 00:53:12,142] The initial state can be thought of
+- [00:53:12,142 - 00:53:15,142] as the state of a whole bunch of little points,
+- [00:53:15,142 - 00:53:17,142] namely the points that make up the string,
+- [00:53:17,142 - 00:53:18,142] x1 through xn.
+- [00:53:18,142 - 00:53:20,142] Let's start with the first string.
+- [00:53:20,142 - 00:53:22,142] x1 through xn.
+- [00:53:24,142 - 00:53:26,142] It's just a collection of mass points.
+- [00:53:26,142 - 00:53:29,142] x1 dot dot dot through xn.
+- [00:53:29,142 - 00:53:31,142] And the wave function of it
+- [00:53:31,142 - 00:53:35,142] is just a function of x1 through xn.
+- [00:53:38,142 - 00:53:40,142] That's its wave function to begin with,
+- [00:53:40,142 - 00:53:42,142] in the start.
+- [00:53:43,142 - 00:53:46,142] What do we know about the wave function?
+- [00:53:47,142 - 00:53:49,142] Does everybody understand why a wave function
+- [00:53:49,142 - 00:53:53,142] is a function of the n positions of the particles?
+- [00:53:54,142 - 00:53:55,142] That's quantum mechanics.
+- [00:53:56,142 - 00:53:58,142] Quantum mechanics says wave functions,
+- [00:53:58,142 - 00:53:59,142] or state vectors,
+- [00:53:59,142 - 00:54:02,142] are functions of the position of the constituents.
+- [00:54:04,142 - 00:54:06,142] What's the probability to find the particles
+- [00:54:06,142 - 00:54:08,142] at position x1 through xn?
+- [00:54:10,142 - 00:54:11,142] Psi star psi.
+- [00:54:12,142 - 00:54:13,142] So that's what this is.
+- [00:54:13,142 - 00:54:14,142] This is the wave function
+- [00:54:14,142 - 00:54:16,142] of the starting assemblage of particles.
+- [00:54:17,142 - 00:54:21,142] Of course, I'm purposefully not taking the continuum limit
+- [00:54:21,142 - 00:54:23,142] to show you what goes on.
+- [00:54:23,142 - 00:54:25,142] At the end, you have to take the continuum limit,
+- [00:54:25,142 - 00:54:26,142] but let's not do that.
+- [00:54:26,142 - 00:54:28,142] What do we know about this?
+- [00:54:28,142 - 00:54:30,142] Well, the first thing we know about it
+- [00:54:30,142 - 00:54:33,142] is that this particle comes in with momentum k1.
+- [00:54:34,142 - 00:54:36,142] I'll tell you exactly what that says.
+- [00:54:36,142 - 00:54:39,142] That says that this wave function contains a factor,
+- [00:54:41,142 - 00:54:44,142] e to the i k1,
+- [00:54:44,142 - 00:54:47,142] times the center of mass position.
+- [00:54:47,142 - 00:54:49,142] This is the wave function,
+- [00:54:49,142 - 00:54:51,142] e to the i kx,
+- [00:54:51,142 - 00:54:53,142] is the wave function of a particle
+- [00:54:53,142 - 00:54:55,142] with definite momentum.
+- [00:54:55,142 - 00:54:57,142] What momentum do you use?
+- [00:54:57,142 - 00:55:00,142] You use the center of mass momentum.
+- [00:55:00,142 - 00:55:02,142] So what is the center of mass position?
+- [00:55:02,142 - 00:55:04,142] Sorry, the center of mass position.
+- [00:55:04,142 - 00:55:07,142] What's the center of mass position of these points?
+- [00:55:09,142 - 00:55:11,142] It's the average position.
+- [00:55:11,142 - 00:55:15,142] x1, the sum of the x's, divided by n.
+- [00:55:15,142 - 00:55:20,142] So you have x1 plus x2, dot dot dot,
+- [00:55:20,142 - 00:55:24,142] up to xn, divided by n.
+- [00:55:25,142 - 00:55:28,142] That factor, and that factor alone,
+- [00:55:28,142 - 00:55:31,142] tells you that this initial particle here
+- [00:55:31,142 - 00:55:33,142] had momentum k1.
+- [00:55:33,142 - 00:55:36,142] Now, what about the rest of the wave function,
+- [00:55:36,142 - 00:55:40,142] which depends on the relative coordinates,
+- [00:55:40,142 - 00:55:42,142] not the sum of them,
+- [00:55:42,142 - 00:55:45,142] but the distances between the neighboring particles?
+- [00:55:45,142 - 00:55:47,142] That's some wave function
+- [00:55:47,142 - 00:55:50,142] which characterizes the ground state.
+- [00:55:50,142 - 00:55:53,142] It depends on everything
+- [00:55:53,142 - 00:55:55,142] except the sums of the x's,
+- [00:55:55,142 - 00:55:58,142] and the sum of the x's.
+- [00:55:58,142 - 00:56:01,142] It's some wave function.
+- [00:56:01,142 - 00:56:04,142] Let's call it sine naught for ground state.
+- [00:56:04,142 - 00:56:06,142] And it depends on the x's,
+- [00:56:06,142 - 00:56:08,142] same x's,
+- [00:56:08,142 - 00:56:11,142] but it actually doesn't depend on the sum of them.
+- [00:56:11,142 - 00:56:12,142] The sum of them here,
+- [00:56:12,142 - 00:56:15,142] the differences between them here.
+- [00:56:15,142 - 00:56:16,142] Differences of x's here,
+- [00:56:16,142 - 00:56:19,142] neighboring x's and so forth here,
+- [00:56:19,142 - 00:56:20,142] sum of them here.
+- [00:56:20,142 - 00:56:23,142] And this wave function is computable.
+- [00:56:23,142 - 00:56:25,142] It's just the ground state,
+- [00:56:25,142 - 00:56:28,142] including the ground state of all the harmonic oscillators
+- [00:56:28,142 - 00:56:31,142] making up the string.
+- [00:56:31,142 - 00:56:33,142] And you can really work it out.
+- [00:56:33,142 - 00:56:35,142] With enough room on the blackboard,
+- [00:56:35,142 - 00:56:38,142] I could tell you exactly what this function is
+- [00:56:38,142 - 00:56:40,142] as a function of a collection of x's.
+- [00:56:40,142 - 00:56:42,142] It's not very hard.
+- [00:56:42,142 - 00:56:44,142] It's a bunch of exponentials.
+- [00:56:44,142 - 00:56:46,142] It's workable. You can do it.
+- [00:56:46,142 - 00:56:49,142] This is the wave function of the first particle.
+- [00:56:49,142 - 00:56:52,142] What about the wave function of the second particle?
+- [00:56:52,142 - 00:56:54,142] It's exactly the same kind of thing,
+- [00:56:54,142 - 00:56:58,142] except it doesn't depend on these coordinates.
+- [00:56:58,142 - 00:57:01,142] It depends on the coordinates of the red particles here.
+- [00:57:01,142 - 00:57:04,142] So let's write it down.
+- [00:57:04,142 - 00:57:08,142] E to the i k2.
+- [00:57:08,142 - 00:57:10,142] Now, what shall I write?
+- [00:57:10,142 - 00:57:13,142] Shall I write x1 through xn?
+- [00:57:13,142 - 00:57:15,142] No. That's the original particle.
+- [00:57:15,142 - 00:57:18,142] Those are the original constituents of the first string.
+- [00:57:18,142 - 00:57:21,142] I want the constituents of the second string.
+- [00:57:21,142 - 00:57:22,142] So let's write
+- [00:57:22,142 - 00:57:24,142] x
+- [00:57:24,142 - 00:57:26,142] n plus 1
+- [00:57:26,142 - 00:57:28,142] x n plus 2
+- [00:57:28,142 - 00:57:32,142] all the way up to x2n.
+- [00:57:32,142 - 00:57:35,142] The second half of the particles
+- [00:57:35,142 - 00:57:38,142] is grouped together into the second string,
+- [00:57:38,142 - 00:57:42,142] also divided by n,
+- [00:57:42,142 - 00:57:47,142] also times psi nought of
+- [00:57:47,142 - 00:57:49,142] 1 through n.
+- [00:57:49,142 - 00:57:53,142] This is x n plus 1
+- [00:57:53,142 - 00:57:55,142] to the end of the chain.
+- [00:57:55,142 - 00:57:57,142] Can that be read?
+- [00:57:57,142 - 00:57:59,142] It is read.
+- [00:57:59,142 - 00:58:01,142] But can you read it?
+- [00:58:01,142 - 00:58:05,142] Okay, you can read it.
+- [00:58:05,142 - 00:58:08,142] Now, that's the initial state.
+- [00:58:08,142 - 00:58:10,142] But now you say with some probability
+- [00:58:10,142 - 00:58:14,142] the two endpoints merge.
+- [00:58:14,142 - 00:58:18,142] To say that the two endpoints merge
+- [00:58:18,142 - 00:58:21,142] simply says
+- [00:58:21,142 - 00:58:23,142] that you set x1,
+- [00:58:23,142 - 00:58:27,142] sorry, xn equal to xn plus 1.
+- [00:58:27,142 - 00:58:30,142] You look for that piece of the wave function
+- [00:58:30,142 - 00:58:36,142] where the two endpoints are at exactly the same point.
+- [00:58:36,142 - 00:58:39,142] So, you begin with this.
+- [00:58:39,142 - 00:58:41,142] The next step is to say
+- [00:58:41,142 - 00:58:45,142] let the nth particle on the first chain
+- [00:58:45,142 - 00:58:49,142] be at exactly the same place as the n plus,
+- [00:58:49,142 - 00:58:52,142] sorry, as the xn being at
+- [00:58:52,142 - 00:58:55,142] the same place as xn plus 1.
+- [00:58:55,142 - 00:59:00,142] Alright, so we're going to put in here then xn.
+- [00:59:00,142 - 00:59:04,142] All the others left unchanged.
+- [00:59:04,142 - 00:59:06,142] That's now not,
+- [00:59:06,142 - 00:59:09,142] that's the wave function of the state
+- [00:59:09,142 - 00:59:12,142] right at the point
+- [00:59:12,142 - 00:59:15,142] after the two particles have coalesced.
+- [00:59:15,142 - 00:59:16,142] When they coalesce,
+- [00:59:16,142 - 00:59:17,142] at the point where they coalesce,
+- [00:59:17,142 - 00:59:18,142] they come together,
+- [00:59:18,142 - 00:59:21,142] nothing happens to the rest of the chain
+- [00:59:21,142 - 00:59:25,142] but the two particles.
+- [00:59:25,142 - 00:59:26,142] So this is, if you like,
+- [00:59:26,142 - 00:59:29,142] it's the amplitude that the two particles,
+- [00:59:29,142 - 00:59:31,142] the chain touched.
+- [00:59:31,142 - 00:59:33,142] This is the amplitude that the two particles,
+- [00:59:33,142 - 00:59:35,142] the endpoints touched.
+- [00:59:35,142 - 00:59:38,142] Now we have a new starting point
+- [00:59:38,142 - 00:59:43,142] which is a function of x1 through x2n.
+- [00:59:43,142 - 00:59:46,142] It's a state of that many particles.
+- [00:59:46,142 - 00:59:48,142] And what do we do with it?
+- [00:59:48,142 - 00:59:50,142] We have to evolve it.
+- [00:59:50,142 - 00:59:53,142] We have to evolve it using the Hamiltonian.
+- [00:59:53,142 - 00:59:55,142] Remember what a Hamiltonian is.
+- [00:59:55,142 - 00:59:57,142] A Hamiltonian is a thing which updates you
+- [00:59:57,142 - 00:59:59,142] from one instant to the next.
+- [00:59:59,142 - 01:00:02,142] So you take this initial state.
+- [01:00:02,142 - 01:00:05,142] It's a well-defined thing.
+- [01:00:05,142 - 01:00:08,142] And you propagate it forward in time
+- [01:00:08,142 - 01:00:10,142] using the Hamiltonian.
+- [01:00:10,142 - 01:00:12,142] You take it.
+- [01:00:15,142 - 01:00:17,142] What's the right rule for updating a state
+- [01:00:17,142 - 01:00:20,142] from an instant to a later instant?
+- [01:00:20,142 - 01:00:23,142] You multiply the state by something.
+- [01:00:23,142 - 01:00:26,142] e to the i ht.
+- [01:00:26,142 - 01:00:27,142] e to the i.
+- [01:00:27,142 - 01:00:29,142] So you take this wave function
+- [01:00:29,142 - 01:00:30,142] and you evolve it.
+- [01:00:30,142 - 01:00:33,142] You solve the Schrodinger equation for it.
+- [01:00:33,142 - 01:00:35,142] But that's the same as multiplying
+- [01:00:35,142 - 01:00:37,142] it by e to the i,
+- [01:00:37,142 - 01:00:40,142] the total Hamiltonian times tau.
+- [01:00:40,142 - 01:00:42,142] But what is the total Hamiltonian?
+- [01:00:42,142 - 01:00:44,142] The total Hamiltonian is just the collection
+- [01:00:44,142 - 01:00:46,142] of springs and mass points.
+- [01:00:46,142 - 01:00:48,142] A collection of harmonic oscillators.
+- [01:00:48,142 - 01:00:50,142] It's just a collection of harmonic oscillators.
+- [01:00:50,142 - 01:00:52,142] We know how to do this.
+- [01:00:52,142 - 01:00:54,142] And that gives us the state of the system
+- [01:00:54,142 - 01:00:56,142] after time t.
+- [01:00:56,142 - 01:00:58,142] What's the last step?
+- [01:00:58,142 - 01:01:01,142] The last step is to project the final state,
+- [01:01:01,142 - 01:01:03,142] here it is,
+- [01:01:03,142 - 01:01:06,142] onto two separate particles again.
+- [01:01:06,142 - 01:01:09,142] To project it onto a state
+- [01:01:09,142 - 01:01:11,142] with two separated particles
+- [01:01:11,142 - 01:01:13,142] and a state of the final state.
+- [01:01:13,142 - 01:01:15,142] And that's the final state.
+- [01:01:15,142 - 01:01:17,142] So you have two separated particles
+- [01:01:17,142 - 01:01:21,142] of momentum k3 and k4.
+- [01:01:21,142 - 01:01:23,142] It's very, very straightforward,
+- [01:01:23,142 - 01:01:24,142] if tedious.
+- [01:01:24,142 - 01:01:26,142] Slightly tedious.
+- [01:01:26,142 - 01:01:28,142] You take the two initial states
+- [01:01:28,142 - 01:01:30,142] of the two particles.
+- [01:01:30,142 - 01:01:33,142] They're well-defined ground states of the particles.
+- [01:01:33,142 - 01:01:37,142] You insist that the two endpoints
+- [01:01:37,142 - 01:01:39,142] are at the same place.
+- [01:01:39,142 - 01:01:41,142] That constrains the wave function.
+- [01:01:41,142 - 01:01:44,142] You let it evolve as a single string
+- [01:01:44,142 - 01:01:46,142] for a ways.
+- [01:01:46,142 - 01:01:48,142] And then you let it break up again.
+- [01:01:48,142 - 01:01:51,142] And that simply means multiplying it again
+- [01:01:51,142 - 01:01:52,142] by some final state.
+- [01:01:52,142 - 01:01:54,142] I'm not going to write it all out.
+- [01:01:54,142 - 01:01:56,142] It's the same kind of thing.
+- [01:01:59,142 - 01:02:02,141] And that gives you the transition amplitude.
+- [01:02:02,141 - 01:02:04,141] To make a long story short,
+- [01:02:04,141 - 01:02:06,141] you start with the two particles.
+- [01:02:06,141 - 01:02:08,141] You constrain it so that they're at the same place.
+- [01:02:08,141 - 01:02:10,141] You evolve it.
+- [01:02:10,141 - 01:02:12,141] And then you project it onto the final state.
+- [01:02:12,141 - 01:02:14,141] A very, very well-defined thing.
+- [01:02:14,141 - 01:02:17,141] That gives you the amplitude
+- [01:02:17,141 - 01:02:20,141] that the strings coalesced
+- [01:02:20,141 - 01:02:22,141] for an amount of time, tau.
+- [01:02:22,141 - 01:02:26,141] But how should you choose tau?
+- [01:02:26,141 - 01:02:29,141] The things in black and red there
+- [01:02:29,141 - 01:02:31,141] are added together and then you multiply?
+- [01:02:31,141 - 01:02:32,141] Multiply.
+- [01:02:32,141 - 01:02:34,141] Those are multiplied together.
+- [01:02:34,141 - 01:02:35,141] Yeah.
+- [01:02:35,141 - 01:02:37,141] If you have two separate systems,
+- [01:02:37,141 - 01:02:39,141] each having its own wave function,
+- [01:02:39,141 - 01:02:41,141] you multiply to create the wave function
+- [01:02:41,141 - 01:02:42,141] of a composite.
+- [01:02:42,141 - 01:02:44,141] So this is just a wave function.
+- [01:02:44,141 - 01:02:45,641] This is a wave function
+- [01:02:45,641 - 01:02:47,141] of a composite of two particles.
+- [01:02:49,141 - 01:02:50,141] To begin with,
+- [01:02:50,141 - 01:02:52,142] you don't set the first particle
+- [01:02:52,142 - 01:02:54,142] equal to the last particle here.
+- [01:02:55,142 - 01:02:57,142] Then you look for the amplitude.
+- [01:02:57,142 - 01:02:59,142] You look for the piece of the wave function
+- [01:02:59,142 - 01:03:02,142] where those two particles are at the same place.
+- [01:03:02,142 - 01:03:04,142] You say, aha.
+- [01:03:04,142 - 01:03:06,142] Now that they're at the same place,
+- [01:03:06,142 - 01:03:08,142] fuse them together and evolve it
+- [01:03:08,142 - 01:03:10,142] as if it were a single string.
+- [01:03:11,142 - 01:03:13,142] A single collection of mass points
+- [01:03:13,142 - 01:03:15,142] and springs.
+- [01:03:15,142 - 01:03:17,142] For an amount of time, tau.
+- [01:03:17,142 - 01:03:19,142] And then basically you take your scissor
+- [01:03:19,142 - 01:03:21,142] and just cut the spring in the middle
+- [01:03:21,142 - 01:03:23,142] and let it evolve after that.
+- [01:03:23,142 - 01:03:25,142] That calculation is quite doable.
+- [01:03:25,142 - 01:03:27,142] Not even very hard.
+- [01:03:27,142 - 01:03:29,142] It's just too much for the blackboard
+- [01:03:29,142 - 01:03:31,142] for one evening.
+- [01:03:31,142 - 01:03:33,142] But I'm going to tell you what the answer is.
+- [01:03:35,142 - 01:03:37,142] I'm going to write down the answer.
+- [01:03:37,142 - 01:03:39,142] I'm going to write down the answer.
+- [01:03:39,142 - 01:03:41,142] I'm going to write down the answer.
+- [01:03:41,142 - 01:03:42,142] I'm going to write down the answer.
+- [01:03:42,142 - 01:03:44,142] I'm going to write down the answer for you.
+- [01:03:55,142 - 01:03:57,142] Don't try to remember.
+- [01:03:57,142 - 01:03:58,142] This is the answer.
+- [01:03:58,142 - 01:04:00,142] It's an integral over the tau.
+- [01:04:00,142 - 01:04:02,142] Did we say that we integrate over tau?
+- [01:04:02,142 - 01:04:04,142] I think I said we integrate.
+- [01:04:04,142 - 01:04:06,142] Why do we integrate over tau, incidentally?
+- [01:04:06,142 - 01:04:08,142] Why do we add up the amplitudes
+- [01:04:08,142 - 01:04:10,142] for all possible times
+- [01:04:10,142 - 01:04:12,142] that this composite could exist?
+- [01:04:12,142 - 01:04:14,142] that this composite could exist?
+- [01:04:16,142 - 01:04:18,142] This is the Feynman rule
+- [01:04:18,142 - 01:04:20,142] of summing over all possibilities.
+- [01:04:20,142 - 01:04:22,142] The only parameter here
+- [01:04:22,142 - 01:04:24,142] The only parameter here
+- [01:04:24,142 - 01:04:26,142] is the time that it takes for this
+- [01:04:26,142 - 01:04:28,142] to break up again.
+- [01:04:28,142 - 01:04:30,142] And Feynman's rule is
+- [01:04:30,142 - 01:04:32,142] sum over all paths, which in this case
+- [01:04:32,142 - 01:04:34,142] just means integrate over the time
+- [01:04:34,142 - 01:04:36,142] that they spent evolving together.
+- [01:04:36,142 - 01:04:38,142] that they spent evolving together.
+- [01:04:38,142 - 01:04:40,142] And that gives you the amplitude
+- [01:04:40,142 - 01:04:42,142] for the two particles in the initial state
+- [01:04:42,142 - 01:04:44,142] to become the two particles in the final state.
+- [01:04:44,142 - 01:04:46,142] The result is an integral.
+- [01:04:46,142 - 01:04:48,142] It's the integral over the time
+- [01:04:48,142 - 01:04:50,142] that they spend together.
+- [01:04:50,142 - 01:04:52,142] That's it.
+- [01:04:52,142 - 01:04:54,142] I'll tell you what the integrand is
+- [01:04:54,142 - 01:04:56,142] after a certain amount of calculation
+- [01:04:56,142 - 01:04:58,142] which is actually not very hard.
+- [01:04:58,142 - 01:05:00,142] It becomes the integral of
+- [01:05:00,142 - 01:05:02,142] e to the tau
+- [01:05:02,142 - 01:05:04,142] that's the time
+- [01:05:04,142 - 01:05:06,142] times s plus 1.
+- [01:05:06,142 - 01:05:08,142] This s plus 1 is exactly this s.
+- [01:05:08,142 - 01:05:10,142] It's the s variable
+- [01:05:10,142 - 01:05:12,142] or the center of mass
+- [01:05:12,142 - 01:05:14,142] square of the center of mass energy
+- [01:05:14,142 - 01:05:16,142] of the two particles.
+- [01:05:16,142 - 01:05:18,142] You have a factor like that.
+- [01:05:18,142 - 01:05:20,142] You have another factor
+- [01:05:20,142 - 01:05:22,142] which is 1 minus e to the tau
+- [01:05:22,142 - 01:05:24,142] which is 1 minus e to the tau
+- [01:05:24,142 - 01:05:26,142] to the minus t minus 1.
+- [01:05:26,142 - 01:05:28,142] to the minus t minus 1.
+- [01:05:28,142 - 01:05:30,142] t is the momentum change
+- [01:05:30,142 - 01:05:32,142] t is the momentum change
+- [01:05:32,142 - 01:05:34,142] between the initial particle here
+- [01:05:34,142 - 01:05:36,142] and the final particle here.
+- [01:05:36,142 - 01:05:38,142] Remember, those momenta
+- [01:05:38,142 - 01:05:40,142] are coded in this wave function
+- [01:05:40,142 - 01:05:42,142] which I've erased.
+- [01:05:42,142 - 01:05:44,142] They were coded in the wave function
+- [01:05:44,142 - 01:05:46,142] in terms of those exponentials.
+- [01:05:46,142 - 01:05:48,142] The center of mass energy
+- [01:05:48,142 - 01:05:50,142] and here is the momentum transfer
+- [01:05:50,142 - 01:05:52,142] and here is the momentum transfer
+- [01:05:52,142 - 01:05:54,142] it appears in the formula.
+- [01:05:54,142 - 01:05:56,142] And then you have to integrate it
+- [01:05:56,142 - 01:05:58,142] d tau.
+- [01:05:58,142 - 01:06:00,142] There happens to be another factor
+- [01:06:00,142 - 01:06:02,142] I think of e to the minus tau
+- [01:06:02,142 - 01:06:04,142] in the integrand.
+- [01:06:04,142 - 01:06:06,142] You're right.
+- [01:06:06,142 - 01:06:08,142] I have d tau twice.
+- [01:06:09,154 - 01:06:11,154] ありがとうございました
+- [01:06:11,778 - 01:06:14,018] E to the minus tau, yeah.
+- [01:06:15,638 - 01:06:16,298] It's not plus?
+- [01:06:16,938 - 01:06:17,258] Tau.
+- [01:06:18,798 - 01:06:21,438] The first term is tau times S plus 1?
+- [01:06:21,818 - 01:06:22,098] Yeah.
+- [01:06:23,458 - 01:06:24,978] No, yes.
+- [01:06:28,938 - 01:06:30,818] Yeah, that's what you get.
+- [01:06:31,418 - 01:06:33,558] Is that plus E to the minus tau?
+- [01:06:33,938 - 01:06:34,498] What's that?
+- [01:06:35,078 - 01:06:36,698] When you combine the E to
+- [01:06:36,698 - 01:06:38,318] the minus tau hanging out the end,
+- [01:06:38,318 - 01:06:40,138] does that multiply or add it together?
+- [01:06:40,138 - 01:06:41,848] It multiplies this, but I've
+- [01:06:41,848 - 01:06:43,558] left it out here on purpose.
+- [01:06:44,318 - 01:06:46,398] I've left it out here on purpose, the tau.
+- [01:06:49,778 - 01:06:53,418] Now, that doesn't look particularly symmetric
+- [01:06:53,418 - 01:06:57,058] between tau and between T and S.
+- [01:06:58,178 - 01:07:02,228] But after it was computed, it
+- [01:07:02,228 - 01:07:06,278] took about a half hour to realize
+- [01:07:06,278 - 01:07:08,797] that you should change variables in this integral.
+- [01:07:10,138 - 01:07:13,458] Change variables from E to the
+- [01:07:13,458 - 01:07:16,778] tau, from tau to something called Z.
+- [01:07:17,718 - 01:07:19,638] Let E to the tau equals Z.
+- [01:07:20,418 - 01:07:23,618] Okay? Let E to the tau equals Z.
+- [01:07:25,058 - 01:07:26,317] Now rewrite this.
+- [01:07:27,538 - 01:07:29,448] E to the tau is Z,
+- [01:07:29,448 - 01:07:31,358] so this becomes integral of Z.
+- [01:07:33,038 - 01:07:36,278] I'm missing some minus sign.
+- [01:07:36,278 - 01:07:39,578] No, E to the minus tau must be.
+- [01:07:39,578 - 01:07:40,078] Blah, blah, blah.
+- [01:07:40,138 - 01:07:43,378] This must be minus here.
+- [01:07:43,378 - 01:07:43,678] It is.
+- [01:07:43,678 - 01:07:48,518] E to the minus tau there.
+- [01:07:48,518 - 01:07:53,118] This thing just becomes Z
+- [01:07:53,118 - 01:07:57,718] to the minus S plus 1.
+- [01:07:59,718 - 01:08:02,798] E to the minus tau, so this is minus minus.
+- [01:08:04,598 - 01:08:06,848] E to the minus tau is Z
+- [01:08:06,848 - 01:08:09,098] by definition, just a change of variables.
+- [01:08:09,098 - 01:08:09,718] What about Y?
+- [01:08:09,718 - 01:08:11,878] What about 1 minus E to the minus tau?
+- [01:08:11,878 - 01:08:14,768] That becomes 1 minus Z
+- [01:08:14,768 - 01:08:17,658] to the minus tau minus 1.
+- [01:08:19,698 - 01:08:21,777] Oh, incidentally, this integral goes,
+- [01:08:21,777 - 01:08:23,857] I think, from 0 to infinity.
+- [01:08:24,558 - 01:08:25,497] Is that right?
+- [01:08:25,578 - 01:08:29,357] From 0 to infinity.
+- [01:08:29,618 - 01:08:30,218] Yes, it does.
+- [01:08:31,058 - 01:08:32,537] This becomes 1 minus Z
+- [01:08:32,537 - 01:08:34,018] to the minus tau minus 1.
+- [01:08:34,018 - 01:08:36,337] What is D tau times E to the minus tau?
+- [01:08:38,837 - 01:08:38,997] Hmm?
+- [01:08:39,718 - 01:08:40,898] It's just DZ.
+- [01:08:41,618 - 01:08:42,718] It's just DZ.
+- [01:08:46,037 - 01:08:46,978] I think I got it.
+- [01:08:48,357 - 01:08:49,438] It's just DZ.
+- [01:08:50,558 - 01:08:53,738] Did I get that right?
+- [01:08:57,678 - 01:08:58,928] I've lost track of whether
+- [01:08:58,928 - 01:09:00,178] this is plus or minus here.
+- [01:09:00,398 - 01:09:01,258] I don't remember.
+- [01:09:01,537 - 01:09:02,417] But it's just DZ.
+- [01:09:02,877 - 01:09:03,778] This is the formula.
+- [01:09:04,618 - 01:09:05,877] And where does the integral go?
+- [01:09:05,877 - 01:09:08,698] The integral goes from tau equals 0.
+- [01:09:09,718 - 01:09:16,337] Where Z is equal to 1 to, this is minus.
+- [01:09:16,558 - 01:09:17,198] It is minus.
+- [01:09:17,997 - 01:09:18,637] I'm sorry.
+- [01:09:18,837 - 01:09:20,438] I'm making a mess out of it.
+- [01:09:20,957 - 01:09:22,658] E to the minus tau is equal to Z.
+- [01:09:23,337 - 01:09:24,457] To tau equals infinity.
+- [01:09:25,058 - 01:09:27,438] In other words, you have tau equals 0.
+- [01:09:28,158 - 01:09:31,408] That's when it very suddenly
+- [01:09:31,408 - 01:09:34,658] merges and then falls apart instantly.
+- [01:09:35,497 - 01:09:39,457] To tau equals infinity when the separation is infinite here.
+- [01:09:39,718 - 01:09:42,618] And what happens when tau goes to infinity?
+- [01:09:42,618 - 01:09:43,658] Z goes to 0.
+- [01:09:43,658 - 01:09:45,028] So it's an integral from 1
+- [01:09:45,028 - 01:09:46,398] to 0 or 0 to 1.
+- [01:09:46,398 - 01:09:49,398] There's probably some sign in here
+- [01:09:49,398 - 01:09:52,398] of an integral that looks like this.
+- [01:09:52,398 - 01:09:55,288] The amazing thing about this integral, the
+- [01:09:55,288 - 01:09:58,178] whole upshot of it, is that this integral
+- [01:09:58,178 - 01:10:01,198] is completely symmetric between S
+- [01:10:01,198 - 01:10:04,218] and T. Can you see that?
+- [01:10:04,218 - 01:10:05,418] How do you see that
+- [01:10:05,418 - 01:10:06,618] it's symmetric between S and T?
+- [01:10:06,618 - 01:10:07,618] Right.
+- [01:10:07,618 - 01:10:08,618] You just substitute for the integral.
+- [01:10:08,618 - 01:10:09,618] Right.
+- [01:10:09,618 - 01:10:11,118] You substitute for Z, Z minus 1.
+- [01:10:11,118 - 01:10:13,278] You make a change of variables
+- [01:10:13,278 - 01:10:15,438] between Z and Z minus 1.
+- [01:10:15,438 - 01:10:19,258] And you see that this integral is completely symmetric.
+- [01:10:19,258 - 01:10:22,658] So although a completely unsymmetric starting
+- [01:10:22,658 - 01:10:26,058] point between energy and momentum transfer,
+- [01:10:26,058 - 01:10:29,828] somehow it wound up giving a completely
+- [01:10:29,828 - 01:10:33,598] symmetric answer between the two of them.
+- [01:10:33,598 - 01:10:34,598] I lost track of the minus sign.
+- [01:10:34,598 - 01:10:36,598] The minus sign comes from E to
+- [01:10:36,598 - 01:10:38,598] the minus tau D tau going to DZ.
+- [01:10:38,598 - 01:10:39,598] Yeah.
+- [01:10:39,618 - 01:10:40,618] I've lost track of the minus sign.
+- [01:10:40,618 - 01:10:41,618] So you get a minus sign.
+- [01:10:41,618 - 01:10:42,618] That's why you switched to an order.
+- [01:10:42,618 - 01:10:43,618] There's a minus sign somewhere.
+- [01:10:43,618 - 01:10:44,618] I'm saying E to the minus tau D tau.
+- [01:10:44,618 - 01:10:45,618] Yes.
+- [01:10:45,618 - 01:10:46,618] And then you're going to make that just be DZ.
+- [01:10:46,618 - 01:10:47,618] Yes.
+- [01:10:47,618 - 01:10:48,618] So you get a minus sign.
+- [01:10:48,618 - 01:10:49,618] Yeah, there's got to be a minus sign out here.
+- [01:10:49,618 - 01:10:50,618] Right?
+- [01:10:50,618 - 01:10:51,618] Right.
+- [01:10:51,618 - 01:10:58,618] Then you switch the order of integration and
+- [01:10:58,618 - 01:11:05,618] it becomes from 0 to 1 like this.
+- [01:11:05,618 - 01:11:06,618] That's right.
+- [01:11:06,618 - 01:11:07,618] That's correct.
+- [01:11:07,618 - 01:11:08,618] It's symmetric.
+- [01:11:08,618 - 01:11:10,618] It's symmetric whether or not
+- [01:11:10,618 - 01:11:12,618] you switch the order of integration.
+- [01:11:12,618 - 01:11:13,618] Right.
+- [01:11:13,618 - 01:11:16,618] And that's the answer.
+- [01:11:16,618 - 01:11:20,618] It's symmetric between S and T. And what is it?
+- [01:11:20,618 - 01:11:24,618] It's a process in which two particles join, form a
+- [01:11:24,618 - 01:11:28,618] composite which wiggles around for a while, and then breaks up.
+- [01:11:28,618 - 01:11:32,618] In other words, it's the analog of the Feynman
+- [01:11:32,618 - 01:11:36,618] diagram in which a composite is formed and then decays.
+- [01:11:36,618 - 01:11:41,618] Composite is formed and then decays.
+- [01:11:41,618 - 01:11:44,118] But it winds up being
+- [01:11:44,118 - 01:11:46,618] completely symmetric between S and T.
+- [01:11:46,618 - 01:11:51,618] In fact, this function is called the Euler beta function.
+- [01:11:51,618 - 01:11:56,618] It's a function of two variables, S and T.
+- [01:11:56,618 - 01:12:01,618] It's called beta of minus S and minus T.
+- [01:12:01,618 - 01:12:05,618] It's the Euler beta function.
+- [01:12:06,618 - 01:12:11,618] It's a famous function of mathematical physics.
+- [01:12:11,618 - 01:12:13,618] And guess what it's equal to?
+- [01:12:13,618 - 01:12:15,618] It's equal to the Veniziano amplitude.
+- [01:12:15,618 - 01:12:19,618] It's exactly equal to the Veniziano amplitude, namely
+- [01:12:19,618 - 01:12:23,618] this product of gamma functions over another gamma function.
+- [01:12:28,618 - 01:12:31,118] How did it get to be
+- [01:12:31,118 - 01:12:33,618] that it was symmetric between the two?
+- [01:12:33,618 - 01:12:34,618] Now, this is not obvious at all.
+- [01:12:34,618 - 01:12:37,618] It's symmetric between the S channel and the T channel.
+- [01:12:37,618 - 01:12:39,118] Completely symmetric between the S
+- [01:12:39,118 - 01:12:40,618] channel and the T channel.
+- [01:12:40,618 - 01:12:42,618] I'm going to come to that next time.
+- [01:12:42,618 - 01:12:46,118] That has to do with a fundamental, extremely
+- [01:12:46,118 - 01:12:49,618] deep symmetry of string theory called conformal symmetry.
+- [01:12:49,618 - 01:12:54,118] It's a symmetry which allows you to take these world sheets
+- [01:12:54,118 - 01:12:58,618] and deform them in crazy ways as if they were Turkish taffy
+- [01:12:58,618 - 01:13:01,618] and stretch them out in different directions.
+- [01:13:01,618 - 01:13:04,618] And, for example, turn this picture.
+- [01:13:04,618 - 01:13:12,118] Into a picture which looks much more
+- [01:13:12,118 - 01:13:19,618] like two particles coming together and exchanging something.
+- [01:13:19,618 - 01:13:22,618] It's the character of...
+- [01:13:22,618 - 01:13:27,118] So the gamma gamma over gamma function is reminiscent
+- [01:13:27,118 - 01:13:31,618] of the probability function of, I think it's factorial A,
+- [01:13:31,618 - 01:13:33,618] factorial B over factorial AB.
+- [01:13:33,618 - 01:13:34,618] Mm-hmm.
+- [01:13:34,618 - 01:13:35,618] Right.
+- [01:13:35,618 - 01:13:37,618] Combinatoric coefficients.
+- [01:13:37,618 - 01:13:40,618] Yeah, so what's the finding between the two of them?
+- [01:13:40,618 - 01:13:42,618] Or is there anything that just blends them?
+- [01:13:42,618 - 01:13:47,618] It is true that the beta function
+- [01:13:47,618 - 01:13:52,618] evaluated at integers is the combinatoric coefficients,
+- [01:13:52,618 - 01:13:55,618] the inverse of the combinatoric coefficients.
+- [01:13:55,618 - 01:13:56,618] You know what he's talking about.
+- [01:13:56,618 - 01:14:00,118] He's talking about n factorial m
+- [01:14:00,118 - 01:14:03,618] factorial over n plus m factorial.
+- [01:14:03,618 - 01:14:07,618] Which occurs all over the place in combinatorics.
+- [01:14:07,618 - 01:14:09,618] So what's the physical interpretation?
+- [01:14:09,618 - 01:14:13,618] It just happens to be the same function.
+- [01:14:13,618 - 01:14:18,618] No simple connection.
+- [01:14:18,618 - 01:14:22,618] First of all, it's the inverse of it.
+- [01:14:22,618 - 01:14:25,618] The inverse of it is not a combinatoric coefficient.
+- [01:14:25,618 - 01:14:29,618] But it just happens.
+- [01:14:29,618 - 01:14:31,118] It's an integral which defines
+- [01:14:31,118 - 01:14:32,618] the same combination of gamma functions.
+- [01:14:32,618 - 01:14:36,618] There is no simple relationship.
+- [01:14:36,618 - 01:14:39,118] It's not that something combinatoric went on
+- [01:14:39,118 - 01:14:41,618] here, at least not to my knowledge.
+- [01:14:41,618 - 01:14:45,617] And it's certainly not the way Veneziano found it.
+- [01:14:45,617 - 01:14:47,617] I don't know what magic
+- [01:14:47,617 - 01:14:49,617] he pulled up to find it.
+- [01:14:49,617 - 01:14:53,617] So this was, if you like, partly historical.
+- [01:14:53,617 - 01:14:57,617] But part of the important logic of the theory
+- [01:14:57,617 - 01:15:01,617] is that, number one, you can calculate with it.
+- [01:15:01,618 - 01:15:05,618] All it is is harmonic oscillators.
+- [01:15:05,618 - 01:15:10,618] Anything can be done with harmonic oscillators.
+- [01:15:10,618 - 01:15:12,618] It's a bunch of harmonic oscillators.
+- [01:15:12,618 - 01:15:18,618] You break the process up into pieces.
+- [01:15:18,618 - 01:15:20,618] And then you integrate over the time in between.
+- [01:15:20,618 - 01:15:21,618] You can calculate.
+- [01:15:21,618 - 01:15:25,618] You calculate and you find an integral.
+- [01:15:25,618 - 01:15:28,618] The integral by, at this point,
+- [01:15:28,618 - 01:15:31,618] by magic, has the property that it's,
+- [01:15:31,618 - 01:15:34,618] it's symmetric between s and t.
+- [01:15:34,618 - 01:15:42,118] And somehow looks like, not the sum, but
+- [01:15:42,118 - 01:15:49,618] has the features of having processes where particles coalesce.
+- [01:15:49,618 - 01:15:51,618] That's the direct process I drew here.
+- [01:15:51,618 - 01:15:55,618] But somehow buried in it is
+- [01:15:55,618 - 01:15:59,618] also somehow processes where particles are exchanged.
+- [01:15:59,618 - 01:16:00,618] And that was the magic of it.
+- [01:16:00,618 - 01:16:05,618] That was the surprise.
+- [01:16:05,618 - 01:16:09,118] That a whole new logic of
+- [01:16:09,118 - 01:16:12,618] putting processes together to make new processes.
+- [01:16:12,618 - 01:16:13,618] Okay.
+- [01:16:13,618 - 01:16:15,618] Any questions about this?
+- [01:16:15,618 - 01:16:16,618] Yeah.
+- [01:16:16,618 - 01:16:17,618] I think I'm missing something.
+- [01:16:17,618 - 01:16:21,618] In the beginning, you described two strings coalescing.
+- [01:16:21,618 - 01:16:24,618] The string of n oscillators and n oscillators.
+- [01:16:24,618 - 01:16:27,618] They come together and two n.
+- [01:16:27,618 - 01:16:29,618] Because bosons.
+- [01:16:29,618 - 01:16:31,618] But remember, when you're taking the limit, n goes
+- [01:16:31,618 - 01:16:33,618] to infinity, two n is the same as n.
+- [01:16:33,618 - 01:16:34,618] Sure.
+- [01:16:34,618 - 01:16:36,118] But it still has the property
+- [01:16:36,118 - 01:16:37,618] of a boson or a fermion.
+- [01:16:37,618 - 01:16:38,618] Oh, yes.
+- [01:16:38,618 - 01:16:39,618] So far, yeah.
+- [01:16:39,618 - 01:16:40,618] Right.
+- [01:16:40,618 - 01:16:43,118] But the question is, when you wrote down
+- [01:16:43,118 - 01:16:45,618] the wave equation, you had the two points coalescing,
+- [01:16:45,618 - 01:16:47,618] which is two n minus one.
+- [01:16:47,618 - 01:16:49,618] So it changes from positive
+- [01:16:49,618 - 01:16:51,618] to, it seems inconsistent, I'm sure.
+- [01:16:51,618 - 01:16:54,618] You lose two, not one.
+- [01:16:54,618 - 01:16:57,618] Well, n and n plus one becomes one.
+- [01:16:57,618 - 01:17:00,618] No, actually, n and n plus one disappear, basically.
+- [01:17:00,618 - 01:17:01,618] Oh, okay.
+- [01:17:01,618 - 01:17:02,618] If you like.
+- [01:17:02,618 - 01:17:05,118] I mean, I think that's the
+- [01:17:05,118 - 01:17:07,618] right way to think about it.
+- [01:17:07,618 - 01:17:08,618] Yeah.
+- [01:17:08,618 - 01:17:11,618] Yeah, they eat each other.
+- [01:17:11,618 - 01:17:15,618] They eat each other like that.
+- [01:17:15,618 - 01:17:19,618] And you're left with, right?
+- [01:17:19,618 - 01:17:24,618] So, the new spring that forms connects these two.
+- [01:17:24,618 - 01:17:25,618] Right.
+- [01:17:25,618 - 01:17:26,618] So it's two n minus two.
+- [01:17:26,618 - 01:17:27,618] Yeah.
+- [01:17:27,618 - 01:17:28,618] Yeah.
+- [01:17:28,618 - 01:17:29,618] Otherwise, we'd have big trouble.
+- [01:17:29,618 - 01:17:30,618] We would lose one fermion.
+- [01:17:30,618 - 01:17:31,618] Right.
+- [01:17:31,618 - 01:17:32,618] Right.
+- [01:17:32,618 - 01:17:33,618] So that's a good one.
+- [01:17:33,618 - 01:17:39,118] One way to think about it is
+- [01:17:39,118 - 01:17:44,618] that a particle and an antiparticle coalesced.
+- [01:17:44,618 - 01:17:47,618] And if you thought of these as quarks on
+- [01:17:47,618 - 01:17:50,618] ends of strings, you could think of the last one
+- [01:17:50,618 - 01:17:53,118] being a quark, which annihilated with
+- [01:17:53,118 - 01:17:55,618] the first quark of the other string.
+- [01:17:55,618 - 01:17:56,618] So, yeah, you lose two of them.
+- [01:17:56,618 - 01:17:57,618] But who cares about two when there's an infinite number?
+- [01:17:57,618 - 01:17:58,618] Yeah.
+- [01:17:58,618 - 01:17:59,618] Right.
+- [01:17:59,618 - 01:18:00,618] Yeah.
+- [01:18:00,618 - 01:18:01,618] Right.
+- [01:18:01,618 - 01:18:02,618] But you're right.
+- [01:18:02,618 - 01:18:03,118] You have to be careful not
+- [01:18:03,118 - 01:18:03,618] to lose an odd number of fermions.
+- [01:18:03,618 - 01:18:04,618] That's something that shouldn't happen.
+- [01:18:04,618 - 01:18:05,618] Yes.
+- [01:18:05,618 - 01:18:06,118] The next quarter, you continue on with
+- [01:18:06,118 - 01:18:06,618] string theory when you talk about superscripts.
+- [01:18:06,618 - 01:18:07,618] Yes.
+- [01:18:07,618 - 01:18:08,618] Yes.
+- [01:18:08,618 - 01:18:09,618] Yes.
+- [01:18:09,618 - 01:18:10,618] Yes.
+- [01:18:10,618 - 01:18:11,618] Yes.
+- [01:18:11,618 - 01:18:12,618] Yes.
+- [01:18:12,618 - 01:18:13,618] Yes.
+- [01:18:13,618 - 01:18:14,618] Yes.
+- [01:18:14,618 - 01:18:15,618] Yes.
+- [01:18:15,618 - 01:18:16,618] Yes.
+- [01:18:16,618 - 01:18:17,618] Yes.
+- [01:18:17,618 - 01:18:18,618] Yes.
+- [01:18:18,618 - 01:18:19,618] Yes.
+- [01:18:19,618 - 01:18:20,618] Yes.
+- [01:18:20,618 - 01:18:21,618] Yes.
+- [01:18:21,618 - 01:18:22,618] Yes.
+- [01:18:22,618 - 01:18:23,618] Yes.
+- [01:18:23,618 - 01:18:24,618] Yes.
+- [01:18:24,618 - 01:18:25,618] Yes.
+- [01:18:25,618 - 01:18:26,618] Yes.
+- [01:18:26,618 - 01:18:27,618] Yes.
+- [01:18:27,618 - 01:18:28,618] Yes.
+- [01:18:28,618 - 01:18:29,618] Yes.
+- [01:18:29,618 - 01:18:30,618] Yes.
+- [01:18:30,618 - 01:18:31,618] Yes.
+- [01:18:31,618 - 01:18:32,618] Yes.
+- [01:18:32,618 - 01:18:33,118] Well, we're not going to spend a
+- [01:18:33,118 - 01:18:33,618] lot of time on superstrings, although the things
+- [01:18:33,618 - 01:18:37,038] that I will tell you, strictly speaking, apply
+- [01:18:37,038 - 01:18:40,458] to superstrings and not to the bosonic string.
+- [01:18:40,458 - 01:18:44,618] Are we going—no, I am not going
+- [01:18:44,618 - 01:18:48,778] to go—I'm into the heavy mathematics of superstrings.
+- [01:18:48,778 - 01:18:50,618] What I think we're going to do next time
+- [01:18:50,618 - 01:18:52,458] is I'm going to tell you—well, I'll tell you
+- [01:18:52,458 - 01:18:54,618] a little bit more about string theory.
+- [01:18:54,618 - 01:18:58,618] string theory and about the properties of world sheets
+- [01:18:58,618 - 01:19:00,618] and the symmetries that allow you
+- [01:19:00,618 - 01:19:02,618] to stretch this thing like Turkish taffy
+- [01:19:02,618 - 01:19:05,618] and make different kinds of Feynman diagrams out of it.
+- [01:19:05,618 - 01:19:07,618] But then we're going to move
+- [01:19:07,618 - 01:19:09,618] on to another subject called M-theory,
+- [01:19:09,618 - 01:19:11,618] which is another way of deriving
+- [01:19:11,618 - 01:19:13,618] string theory from a totally different van-
+- [01:19:13,618 - 01:19:15,118] well, I think we have to
+- [01:19:15,118 - 01:19:16,618] talk a little bit about compactification,
+- [01:19:16,618 - 01:19:18,118] about what you do with
+- [01:19:18,118 - 01:19:19,618] these extra dimensions, and we will.
+- [01:19:19,618 - 01:19:21,618] Maybe next time.
+- [01:19:21,618 - 01:19:24,618] But then we will move on to
+- [01:19:24,618 - 01:19:27,618] a totally different origin of string theory
+- [01:19:27,618 - 01:19:32,118] that evolved much, much later
+- [01:19:32,118 - 01:19:36,618] in time, sometime around 1995, 1996,
+- [01:19:36,618 - 01:19:39,618] which started with a completely different picture,
+- [01:19:39,618 - 01:19:42,118] and in which a great many of the
+- [01:19:42,118 - 01:19:44,618] features, the more complicated features of string theory,
+- [01:19:44,618 - 01:19:49,618] are completely transparent, and it's called M-theory.
+- [01:19:49,618 - 01:19:51,618] And we'll start.
+- [01:19:51,618 - 01:19:54,618] We'll start a different starting point,
+- [01:19:54,618 - 01:19:57,618] which leads to exactly the same physics.
+- [01:19:57,618 - 01:20:02,618] So, yeah.
+- [01:20:02,618 - 01:20:06,118] So this process that you just described was
+- [01:20:06,118 - 01:20:09,618] based on the clues from two mesons colliding?
+- [01:20:09,618 - 01:20:11,618] Yes, but it's also the way
+- [01:20:11,618 - 01:20:13,618] two photons collide in string theory.
+- [01:20:13,618 - 01:20:15,118] It's the way any two
+- [01:20:15,118 - 01:20:16,618] open strings collide in string theory.
+- [01:20:16,618 - 01:20:21,618] Incidentally, the analog for closed strings is very similar.
+- [01:20:21,618 - 01:20:24,618] You have two closed strings,
+- [01:20:26,618 - 01:20:29,618] and you pick a particle
+- [01:20:29,618 - 01:20:32,618] from here and one from here,
+- [01:20:32,618 - 01:20:36,118] and you require that they be at the same
+- [01:20:36,118 - 01:20:39,618] point, so that they do this kind of thing.
+- [01:20:40,618 - 01:20:42,618] And then you evolve it as a single string.
+- [01:20:42,618 - 01:20:43,618] Same rules.
+- [01:20:43,618 - 01:20:45,618] Same kind of rules.
+- [01:20:45,618 - 01:20:47,618] And that would correspond to
+- [01:20:47,618 - 01:20:49,618] the scattering of two closed strings.
+- [01:20:49,618 - 01:20:53,118] If you scatter two closed strings, the intermediate thing
+- [01:20:53,118 - 01:20:56,618] that you make will again be a closed string.
+- [01:20:56,618 - 01:20:59,118] Does this only apply to
+- [01:20:59,118 - 01:21:01,618] strings where the particles are fermions?
+- [01:21:01,618 - 01:21:03,618] No, no, no, no, no, no, no, no.
+- [01:21:03,618 - 01:21:08,618] This calculation was originally done for the bosonic string.
+- [01:21:08,618 - 01:21:11,118] And of course, it's more complicated when you
+- [01:21:11,118 - 01:21:13,618] have to keep track of the fermions also.
+- [01:21:13,618 - 01:21:15,618] But you get the same...
+- [01:21:15,618 - 01:21:18,618] Extremely similar. Extremely similar.
+- [01:21:18,618 - 01:21:21,118] But there are some slight
+- [01:21:21,118 - 01:21:23,618] differences that are not important.
+- [01:21:23,618 - 01:21:28,118] What I should say about
+- [01:21:28,118 - 01:21:32,618] this is that the scattering amplitudes...
+- [01:21:32,618 - 01:21:35,118] We said that there was a
+- [01:21:35,118 - 01:21:37,618] photon and a graviton in the system.
+- [01:21:37,618 - 01:21:39,118] Alright, it looked like there was a
+- [01:21:39,118 - 01:21:40,618] spin two particle and a spin one particle,
+- [01:21:40,618 - 01:21:42,118] and you could force them
+- [01:21:42,118 - 01:21:43,618] to be massless if you wanted.
+- [01:21:43,618 - 01:21:45,618] You didn't have much choice.
+- [01:21:45,618 - 01:21:47,618] There weren't enough components to make a massive particle.
+- [01:21:47,618 - 01:21:49,618] So you did that.
+- [01:21:49,618 - 01:21:52,618] Well, then you take these particles and you collide them.
+- [01:21:52,618 - 01:21:55,618] And you work out scattering amplitudes.
+- [01:21:55,618 - 01:21:59,118] Scattering amplitudes are very distinctive and
+- [01:21:59,118 - 01:22:02,618] characteristic for emission of photons and gravitons.
+- [01:22:02,618 - 01:22:06,618] They are not just any old scattering amplitudes.
+- [01:22:06,618 - 01:22:10,118] They have very, very definite
+- [01:22:10,118 - 01:22:13,618] properties which make them extremely special.
+- [01:22:13,618 - 01:22:16,618] The emission and absorption...
+- [01:22:17,618 - 01:22:21,118] of photons cannot be mistaken for the emission
+- [01:22:21,118 - 01:22:24,618] and absorption of scalar particles or other things.
+- [01:22:24,618 - 01:22:28,618] They satisfy some very, very important rules.
+- [01:22:28,618 - 01:22:30,618] Those rules originate from
+- [01:22:30,618 - 01:22:32,618] the conservation of electric charge.
+- [01:22:32,618 - 01:22:36,618] Conserved electric charges emitting photons...
+- [01:22:36,618 - 01:22:39,618] There's almost very, very little ambiguity in what
+- [01:22:39,618 - 01:22:42,618] the emission and absorption of photons look like,
+- [01:22:42,618 - 01:22:44,118] or what a scattering of
+- [01:22:44,118 - 01:22:45,618] photons by charged particles look like,
+- [01:22:45,618 - 01:22:49,618] or even the scattering of photons by photons.
+- [01:22:49,618 - 01:22:53,618] And it was at this point, calculating these diagrams,
+- [01:22:53,618 - 01:22:56,618] where it became completely clear that
+- [01:22:56,618 - 01:22:59,618] these things which we were calling photons
+- [01:22:59,618 - 01:23:01,618] were behaving exactly like photons,
+- [01:23:01,618 - 01:23:04,618] and the things that we were
+- [01:23:04,618 - 01:23:07,618] calling gravitons were behaving exactly like gravitons,
+- [01:23:07,618 - 01:23:09,618] that they satisfied all
+- [01:23:09,618 - 01:23:11,618] the rules for graviton-graviton scattering.
+- [01:23:11,618 - 01:23:13,118] Just saying there was a
+- [01:23:13,118 - 01:23:14,618] particle that looked like a graviton
+- [01:23:14,618 - 01:23:16,618] was a very weak thing.
+- [01:23:16,618 - 01:23:19,618] When all of the scatterings were constructed,
+- [01:23:19,618 - 01:23:22,118] and the rigorous tests of
+- [01:23:22,118 - 01:23:24,618] whether it was satisfying the rules
+- [01:23:24,618 - 01:23:27,118] for scattering of gravitons by massive
+- [01:23:27,118 - 01:23:29,618] things, by massless things, and so forth,
+- [01:23:29,618 - 01:23:32,618] fit perfectly, exactly,
+- [01:23:32,618 - 01:23:35,118] then people realized that they really
+- [01:23:35,118 - 01:23:37,618] were dealing with something that looked like
+- [01:23:37,618 - 01:23:40,618] the scattering of gravitons and photons.
+- [01:23:40,618 - 01:23:44,618] So, these scattering amplitudes played a big role
+- [01:23:44,618 - 01:23:48,618] in establishing with precision that
+- [01:23:48,618 - 01:23:52,618] we were dealing with objects
+- [01:23:52,618 - 01:24:01,618] that did behave like photons, gravitons, and...
+- [01:24:01,618 - 01:24:03,618] Okay, I think we're finished. Yes?
+- [01:24:03,618 - 01:24:06,618] Where does charge come from?
+- [01:24:06,618 - 01:24:07,618] Where does what?
+- [01:24:07,618 - 01:24:08,618] Charge.
+- [01:24:08,618 - 01:24:12,618] Oh, yeah. We haven't talked about that, but...
+- [01:24:14,618 - 01:24:16,618] Okay, we'll talk about it
+- [01:24:16,618 - 01:24:18,618] next time. Remind me. Remind me.
+- [01:24:19,618 - 01:24:23,618] For more, please visit us at stanford.edu.
