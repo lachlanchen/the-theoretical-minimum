@@ -1,0 +1,2260 @@
+# Transcript
+
+Source: supplementary/particle_physics_2_standard_model/2010_winter/085 - Lecture 1 ｜ New Revolutions in Particle Physics： Standard Model [Igl8hE3Eac0].mkv
+
+- [00:00:00,000 - 00:00:06,400] Stanford University.
+- [00:00:08,600 - 00:00:09,800] Okay, so we've talked about
+- [00:00:09,800 - 00:00:11,000] a lot of things so far.
+- [00:00:11,000 - 00:00:13,640] Fields, quanta of fields, the
+- [00:00:13,640 - 00:00:16,280] relationship between fields and particles,
+- [00:00:16,280 - 00:00:19,480] that's the relationship between fields and their quanta.
+- [00:00:19,480 - 00:00:20,680] What are the quanta?
+- [00:00:20,680 - 00:00:24,840] The quanta are the discrete indivisible units of energy that
+- [00:00:24,840 - 00:00:29,190] quantum mechanics implies for waves, for
+- [00:00:29,190 - 00:00:33,540] waves, and waves of course are fields.
+- [00:00:33,540 - 00:00:36,640] Fields and waves are more or less the same thing.
+- [00:00:36,640 - 00:00:39,140] We've discussed the properties, not the
+- [00:00:39,140 - 00:00:41,640] properties of individual particles very much,
+- [00:00:41,640 - 00:00:45,290] but we've discussed some general properties,
+- [00:00:45,290 - 00:00:48,940] the properties of having energy, momentum,
+- [00:00:48,940 - 00:00:51,840] the properties of having spin, and the property
+- [00:00:51,840 - 00:00:54,740] of either being a fermion or a boson.
+- [00:00:54,740 - 00:00:58,140] Every particle is either a fermion or a boson.
+- [00:00:58,140 - 00:01:00,690] Fermions are the particles that don't like
+- [00:01:00,690 - 00:01:03,240] to live together in the same state.
+- [00:01:03,240 - 00:01:06,290] Bosons are the particles that do like to
+- [00:01:06,290 - 00:01:09,340] congregate and do condense into the same state.
+- [00:01:09,340 - 00:01:12,240] We've talked about wave equations on occasion, or
+- [00:01:12,240 - 00:01:15,140] the field equations if you like, more generally,
+- [00:01:15,140 - 00:01:17,340] various kinds of field equations.
+- [00:01:17,340 - 00:01:20,590] And we talked about how field equations
+- [00:01:20,590 - 00:01:23,840] can be generated from Lagrangians, from action principles.
+- [00:01:23,840 - 00:01:24,640] The answer is no.
+- [00:01:24,640 - 00:01:29,440] The quantum mechanical version of the Lagrangian is
+- [00:01:29,440 - 00:01:34,240] a kind of tool for codifying, or codifying,
+- [00:01:34,240 - 00:01:36,490] whatever the right word is,
+- [00:01:36,490 - 00:01:38,740] codifying the interactions between particles.
+- [00:01:38,740 - 00:01:43,340] Various terms in the Lagrangian, things like,
+- [00:01:43,340 - 00:01:47,940] for example, products of fields, represent processes,
+- [00:01:47,940 - 00:01:51,240] which we can call vertices, where particles
+- [00:01:51,240 - 00:01:54,540] come in and other particles go out.
+- [00:01:54,640 - 00:01:57,190] That would, for example, be a term in the Lagrangian
+- [00:01:57,190 - 00:01:59,740] which would have four powers of a field in it.
+- [00:01:59,740 - 00:02:02,240] So we've talked about these general things.
+- [00:02:02,240 - 00:02:07,240] We haven't talked very much about specific particles.
+- [00:02:07,240 - 00:02:10,240] Tonight, well, I expected to spend the first
+- [00:02:10,240 - 00:02:13,240] half hour beating around the bush a little bit.
+- [00:02:13,240 - 00:02:14,590] Looks like we're going to spend a
+- [00:02:14,590 - 00:02:15,940] few more minutes beating around the bush.
+- [00:02:15,940 - 00:02:19,840] But then I want to come to really writing down what
+- [00:02:19,840 - 00:02:23,740] the particles are, you know, who are the players in the drama,
+- [00:02:24,640 - 00:02:28,340] and start going through them more or less,
+- [00:02:28,340 - 00:02:32,040] well, not quite one by one, but in groups,
+- [00:02:32,040 - 00:02:34,939] and trying to give them some
+- [00:02:34,939 - 00:02:37,839] personality, give them some names, some properties,
+- [00:02:37,839 - 00:02:42,089] and also what it is they do and
+- [00:02:42,089 - 00:02:46,339] how they come into physics, into ordinary physics.
+- [00:02:46,339 - 00:02:50,039] Okay, but before I do that, there's kind of
+- [00:02:50,039 - 00:02:53,739] a triangle of concepts that we've discussed two legs of,
+- [00:02:53,739 - 00:02:54,440] but not the third leg.
+- [00:02:54,440 - 00:03:04,140] The triangle is particles or field quanta, particles,
+- [00:03:04,140 - 00:03:10,290] fields, and in modern physics,
+- [00:03:10,290 - 00:03:16,440] pretty much for every elementary particle.
+- [00:03:16,440 - 00:03:19,040] Now, we're going to have to think
+- [00:03:19,040 - 00:03:21,640] very hard in the future, not tonight,
+- [00:03:21,640 - 00:03:24,240] what is an elementary particle?
+- [00:03:24,240 - 00:03:26,840] And what is a composite particle?
+- [00:03:26,840 - 00:03:28,640] We will come back to that.
+- [00:03:28,640 - 00:03:30,490] And you might think, I mean,
+- [00:03:30,490 - 00:03:32,340] everybody here probably has some answer,
+- [00:03:32,340 - 00:03:34,840] if I were to ask you, how do
+- [00:03:34,840 - 00:03:37,340] you distinguish a composite particle from an elementary particle?
+- [00:03:37,340 - 00:03:40,340] And you will always be frustrated.
+- [00:03:40,340 - 00:03:42,640] You will always find some slippery
+- [00:03:42,640 - 00:03:44,940] reason that your definition didn't work.
+- [00:03:44,940 - 00:03:47,690] But for the moment, let's nevertheless
+- [00:03:47,690 - 00:03:50,440] imagine that there are elementary particles,
+- [00:03:50,440 - 00:03:52,190] and that the elementary particles
+- [00:03:52,190 - 00:03:53,940] are the quanta of elementary particles.
+- [00:03:54,240 - 00:03:56,890] So these are elementary fields,
+- [00:03:56,890 - 00:03:59,540] fundamental fields in the theory.
+- [00:03:59,540 - 00:04:02,440] And so they're more or less in one-to-one correspondence,
+- [00:04:02,440 - 00:04:05,840] but there's a third leg to this triangle.
+- [00:04:05,840 - 00:04:08,140] Anybody know what it is?
+- [00:04:08,140 - 00:04:09,490] Of course, you don't know what I'm thinking,
+- [00:04:09,490 - 00:04:10,840] so even if you did know what it was,
+- [00:04:10,840 - 00:04:13,340] you still wouldn't know it.
+- [00:04:13,340 - 00:04:16,839] Forces, forces, forces.
+- [00:04:16,839 - 00:04:22,840] And in a certain sense, forces, force, forces, okay?
+- [00:04:22,840 - 00:04:23,340] Okay.
+- [00:04:23,340 - 00:04:27,340] basically for every field there is a particle
+- [00:04:29,099 - 00:04:31,099] for every field there is a force
+- [00:04:32,460 - 00:04:34,700] electric field gives rise to electric forces
+- [00:04:34,700 - 00:04:37,979] gravitational field give rise to gravitational forces
+- [00:04:37,979 - 00:04:40,979] it may be less obvious
+- [00:04:40,979 - 00:04:43,979] to you what the electron field
+- [00:04:44,739 - 00:04:46,739] electron has a field
+- [00:04:47,219 - 00:04:49,019] it also gives rise to forces and
+- [00:04:49,019 - 00:04:50,820] we'll talk about them a little bit
+- [00:04:50,820 - 00:04:54,500] so there's kind of a correspondence that goes this way
+- [00:04:54,500 - 00:04:56,500] there's a correspondence which goes this way
+- [00:04:56,500 - 00:04:59,860] there must also be a correspondence which goes this way
+- [00:04:59,860 - 00:05:02,500] a way of thinking about forces
+- [00:05:02,500 - 00:05:04,500] which is not based on fields
+- [00:05:04,500 - 00:05:06,500] but which is based on particles
+- [00:05:06,500 - 00:05:10,180] if this correspondence or this triangle really makes sense
+- [00:05:10,180 - 00:05:11,620] so I want to talk about that a little bit
+- [00:05:11,620 - 00:05:13,620] many of you know the idea
+- [00:05:13,620 - 00:05:15,620] but let's just discuss it for a moment
+- [00:05:18,020 - 00:05:20,020] let me first discuss it in
+- [00:05:20,020 - 00:05:20,740] the context of the field
+- [00:05:20,740 - 00:05:22,740] in the context of electrodynamics
+- [00:05:23,460 - 00:05:26,500] how forces come out of thinking
+- [00:05:26,500 - 00:05:28,980] now this is classical electrodynamics for the moment
+- [00:05:28,980 - 00:05:30,980] the complete field view of things
+- [00:05:32,660 - 00:05:38,660] supposing I put two charges into space
+- [00:05:39,700 - 00:05:41,700] and I want to know the force between them
+- [00:05:41,700 - 00:05:42,980] how do I calculate it?
+- [00:05:42,980 - 00:05:45,300] well you could know the rule that the
+- [00:05:45,300 - 00:05:47,620] force is equal to the product of the charges
+- [00:05:47,620 - 00:05:50,660] times one over r squared and so forth
+- [00:05:50,740 - 00:05:52,740] or you could try to calculate it a different way
+- [00:05:52,740 - 00:05:55,740] you could try to say what
+- [00:05:55,740 - 00:05:58,740] do these two charges do to space
+- [00:05:58,740 - 00:06:01,780] what they do to space is they create electric fields
+- [00:06:01,780 - 00:06:03,780] essentially that's the thing they do
+- [00:06:03,780 - 00:06:07,780] they create an electric field that fills space
+- [00:06:07,780 - 00:06:09,780] and I don't want to write down
+- [00:06:09,780 - 00:06:11,780] the details of what that electric field is
+- [00:06:11,780 - 00:06:13,780] but let's just say this is the electric field
+- [00:06:13,780 - 00:06:15,780] let's forget the second particle
+- [00:06:15,780 - 00:06:17,820] and just write down the electric
+- [00:06:17,820 - 00:06:19,860] field due to the first particle
+- [00:06:19,860 - 00:06:20,500] whatever you want to call it
+- [00:06:20,500 - 00:06:22,100] whatever it is
+- [00:06:22,100 - 00:06:25,300] the electric field due to the first particle
+- [00:06:25,300 - 00:06:28,020] incidentally it's proportional to the
+- [00:06:28,020 - 00:06:30,740] electric charge of the first particle
+- [00:06:30,740 - 00:06:34,020] so let's explicitly put that in
+- [00:06:34,020 - 00:06:37,300] e of the first particle
+- [00:06:37,300 - 00:06:40,260] times the electric field
+- [00:06:40,260 - 00:06:43,060] uh divided by the electric charge
+- [00:06:43,060 - 00:06:44,700] this electric field here I've
+- [00:06:44,700 - 00:06:46,340] divided out the electric charge
+- [00:06:46,340 - 00:06:48,100] maybe I shouldn't call it e
+- [00:06:48,100 - 00:06:49,100] let's call it e without
+- [00:06:49,100 - 00:06:50,100] the factor of the electric charge
+- [00:06:50,500 - 00:06:52,100] and put a little hat over it
+- [00:06:52,100 - 00:06:54,100] that's this electric charge
+- [00:06:54,100 - 00:06:56,100] and what is the field energy
+- [00:06:56,100 - 00:06:59,060] anybody know what the formula for the field energy is
+- [00:06:59,060 - 00:07:01,060] in an electric field
+- [00:07:01,060 - 00:07:03,060] electric fields have energy
+- [00:07:03,060 - 00:07:05,460] they store their energy as
+- [00:07:05,460 - 00:07:07,860] a distribution of energy in space
+- [00:07:07,860 - 00:07:09,860] and the field energy
+- [00:07:09,860 - 00:07:11,860] the density of field energy
+- [00:07:11,860 - 00:07:13,860] is the square of the electric field
+- [00:07:13,860 - 00:07:15,860] so we square this
+- [00:07:15,860 - 00:07:17,860] and we integrate it over all
+- [00:07:17,860 - 00:07:19,860] the other fields in the field
+- [00:07:20,500 - 00:07:22,100] so we have the space
+- [00:07:22,100 - 00:07:23,540] the volume
+- [00:07:23,540 - 00:07:26,100] and that's the energy stored
+- [00:07:26,100 - 00:07:29,540] in this in the electric field of the particle
+- [00:07:29,540 - 00:07:32,060] now this energy does not depend
+- [00:07:32,060 - 00:07:34,580] on where we put the particle right
+- [00:07:34,580 - 00:07:36,020] the field will move
+- [00:07:36,020 - 00:07:37,660] if we move the particle
+- [00:07:37,660 - 00:07:39,300] the field will move with it
+- [00:07:39,300 - 00:07:43,380] but the field energy will always be the same
+- [00:07:43,380 - 00:07:45,100] the electric field will adjust
+- [00:07:45,100 - 00:07:46,820] to the position of the charge
+- [00:07:46,820 - 00:07:48,620] the field will always give rise
+- [00:07:48,620 - 00:07:50,420] to exactly the same field energy
+- [00:07:50,500 - 00:07:52,500] and this field energy here
+- [00:07:52,500 - 00:07:54,500] remember e equals mc squared
+- [00:07:54,500 - 00:07:57,500] that field energy is part
+- [00:07:57,500 - 00:08:00,500] of the mass of the particle
+- [00:08:00,500 - 00:08:02,500] it contributes
+- [00:08:02,500 - 00:08:04,500] the field contributes to the energy of the particle
+- [00:08:04,500 - 00:08:08,500] and therefore it contributes to the mass of the particle
+- [00:08:08,500 - 00:08:09,500] there's another way of thinking
+- [00:08:09,500 - 00:08:10,500] about a bit of renormalization
+- [00:08:10,500 - 00:08:14,500] that there's some extra mass there
+- [00:08:14,500 - 00:08:18,500] because the field surrounds the particle in this way
+- [00:08:18,500 - 00:08:20,500] okay i don't want to belabor that now
+- [00:08:20,500 - 00:08:22,500] what about the second particle
+- [00:08:22,500 - 00:08:24,500] supposing the first particle wasn't there
+- [00:08:24,500 - 00:08:26,500] but the second particle was there
+- [00:08:26,500 - 00:08:30,500] this of course is the energy e
+- [00:08:30,500 - 00:08:34,500] not the electric field
+- [00:08:34,500 - 00:08:36,500] this is the energy
+- [00:08:36,500 - 00:08:40,500] if there was only particle two
+- [00:08:40,500 - 00:08:42,500] the field energy would be
+- [00:08:42,500 - 00:08:48,500] the integral of e2 times
+- [00:08:50,500 - 00:08:54,500] the electric field
+- [00:08:54,500 - 00:08:56,500] of the second particle squared
+- [00:08:56,500 - 00:08:57,500] now if the two particles
+- [00:08:57,500 - 00:08:58,500] are not at the same place
+- [00:08:58,500 - 00:09:00,500] well let's not worry about the two particles
+- [00:09:00,500 - 00:09:02,500] this one would also be independent
+- [00:09:02,500 - 00:09:04,500] of the position of this particle here
+- [00:09:04,500 - 00:09:08,500] what about the energy if i have both particles
+- [00:09:08,500 - 00:09:10,500] if i have both particles
+- [00:09:10,500 - 00:09:12,500] then i have to add up the field first
+- [00:09:12,500 - 00:09:14,500] before squaring it
+- [00:09:14,500 - 00:09:16,500] so the electric field
+- [00:09:16,500 - 00:09:18,500] if i have two particles
+- [00:09:18,500 - 00:09:20,500] then i have to add up the field first
+- [00:09:20,500 - 00:09:22,500] so the two particles
+- [00:09:26,500 - 00:09:28,500] will be the sum of the two electric fields
+- [00:09:28,500 - 00:09:30,500] electric field not energy
+- [00:09:30,500 - 00:09:32,500] let's call this energy
+- [00:09:32,500 - 00:09:34,500] e n
+- [00:09:34,500 - 00:09:36,500] h
+- [00:09:36,500 - 00:09:38,500] well let's not call it h
+- [00:09:38,500 - 00:09:40,500] energy just e n
+- [00:09:40,500 - 00:09:42,500] the energy
+- [00:09:42,500 - 00:09:44,500] first of all the electric field
+- [00:09:44,500 - 00:09:46,500] the electric field will be the sum
+- [00:09:46,500 - 00:09:48,500] of the two electric fields
+- [00:09:50,500 - 00:09:52,500] the electric field will be
+- [00:09:52,500 - 00:09:58,500] e e1 plus e1 e1 plus e2 e2
+- [00:09:58,500 - 00:10:00,500] where these are the electric fields
+- [00:10:00,500 - 00:10:02,500] of particle one and particle two
+- [00:10:02,500 - 00:10:04,500] this will be the total electric field
+- [00:10:04,500 - 00:10:06,500] incidentally the electric fields are vectors
+- [00:10:06,500 - 00:10:08,500] and so we might put little vector signs above them
+- [00:10:08,500 - 00:10:12,500] the field energy you get by squaring this whole thing
+- [00:10:12,500 - 00:10:14,500] so the field energy
+- [00:10:14,500 - 00:10:16,500] is the integral of the two particles
+- [00:10:16,500 - 00:10:18,500] and you can see
+- [00:10:18,500 - 00:10:23,180] is the integral over space, there are three terms.
+- [00:10:23,180 - 00:10:28,160] The first term is e1 squared, e1 squared.
+- [00:10:28,680 - 00:10:30,180] It's gotten by squaring this.
+- [00:10:31,140 - 00:10:35,920] The second term is plus e2 squared, e2 squared.
+- [00:10:36,860 - 00:10:39,680] And the third term is the interesting one.
+- [00:10:41,120 - 00:10:43,620] It's the product of e1, e2,
+- [00:10:43,620 - 00:10:46,120] twice as a matter of fact,
+- [00:10:46,120 - 00:10:50,600] times e1 dot e2.
+- [00:10:52,860 - 00:10:54,080] Actually, dot product.
+- [00:10:55,260 - 00:10:56,960] All right, what is this first term here?
+- [00:10:58,980 - 00:11:01,580] It's the self-energy of one particle by itself.
+- [00:11:02,020 - 00:11:04,180] It doesn't depend on the position of the particle.
+- [00:11:04,620 - 00:11:05,700] It's just a number.
+- [00:11:06,140 - 00:11:08,240] It's part of the mass of the particle.
+- [00:11:08,740 - 00:11:09,540] Let's forget it.
+- [00:11:09,580 - 00:11:10,700] It's already there as part
+- [00:11:10,700 - 00:11:11,820] of the mass of the particle.
+- [00:11:11,940 - 00:11:12,600] What about this one?
+- [00:11:15,180 - 00:11:15,660] Also.
+- [00:11:16,120 - 00:11:19,100] Part of the self-energy of the second particle.
+- [00:11:21,760 - 00:11:23,460] What about this one here?
+- [00:11:24,180 - 00:11:27,760] This one is not the energy of either particle separately.
+- [00:11:28,420 - 00:11:30,960] It's proportional to the product of the charges,
+- [00:11:31,880 - 00:11:34,600] and it's proportional to the product of the fields.
+- [00:11:34,920 - 00:11:38,420] What if the particles were infinitely far away,
+- [00:11:38,540 - 00:11:41,050] so far away that their
+- [00:11:41,050 - 00:11:43,560] Coulomb fields hardly overlapped at all?
+- [00:11:43,560 - 00:11:45,580] You take one particle so far away,
+- [00:11:46,120 - 00:11:50,740] that the Coulomb fields are hardly overlapping.
+- [00:11:51,180 - 00:11:52,380] Then this is going to be zero,
+- [00:11:52,380 - 00:11:55,280] because wherever e1 is not zero,
+- [00:11:55,500 - 00:11:57,880] e2 will be zero or almost zero.
+- [00:11:58,080 - 00:12:02,740] Wherever e2 is non-zero, e1 will be close to zero.
+- [00:12:03,100 - 00:12:04,910] So this will be very, very
+- [00:12:04,910 - 00:12:06,720] small as you take the particles apart.
+- [00:12:07,160 - 00:12:09,020] But what about when you bring them together?
+- [00:12:09,020 - 00:12:11,110] When you bring them together, the product
+- [00:12:11,110 - 00:12:13,200] of e1 times e2 will not be small.
+- [00:12:14,560 - 00:12:15,520] Nearby,
+- [00:12:15,520 - 00:12:16,000] nearby,
+- [00:12:16,000 - 00:12:18,800] where the particles are, both fields will be appreciable,
+- [00:12:19,240 - 00:12:21,400] and you will get a contribution from this.
+- [00:12:22,760 - 00:12:24,000] What is that contribution?
+- [00:12:24,000 - 00:12:26,560] That contribution as a function of distance,
+- [00:12:26,560 - 00:12:28,020] well, first of all, it's proportional
+- [00:12:28,020 - 00:12:29,480] to the product of the charges.
+- [00:12:30,120 - 00:12:31,480] It depends on the distance.
+- [00:12:31,640 - 00:12:32,760] And of course, if you work
+- [00:12:32,760 - 00:12:33,880] it out, as you might expect,
+- [00:12:33,880 - 00:12:35,640] it's nothing but the Coulomb force,
+- [00:12:36,320 - 00:12:37,400] one over r squared.
+- [00:12:37,880 - 00:12:39,660] But I like to say it this
+- [00:12:39,660 - 00:12:41,440] way because it gives you the following picture,
+- [00:12:42,040 - 00:12:44,000] that putting in both charges,
+- [00:12:44,640 - 00:12:46,000] taking them far apart,
+- [00:12:46,560 - 00:12:47,760] they don't affect,
+- [00:12:49,280 - 00:12:51,760] well, they're simply just independent objects.
+- [00:12:52,240 - 00:12:53,840] As you bring them together,
+- [00:12:54,320 - 00:12:57,280] they deform and distort the field in a
+- [00:12:57,280 - 00:13:00,240] way that depends on the distance between them.
+- [00:13:00,840 - 00:13:03,600] And the distortions of the field in between them,
+- [00:13:03,840 - 00:13:05,200] that field energy,
+- [00:13:05,840 - 00:13:07,000] that field energy,
+- [00:13:07,320 - 00:13:10,280] which is the contribution because both of them are there,
+- [00:13:10,640 - 00:13:11,800] that's the force law.
+- [00:13:12,200 - 00:13:15,880] So that's a purely field point of view of forces.
+- [00:13:16,000 - 00:13:19,520] A purely field point of view of forces.
+- [00:13:19,520 - 00:13:22,880] But if fields are nothing but collections of quanta,
+- [00:13:22,880 - 00:13:24,160] and quanta are particles,
+- [00:13:24,160 - 00:13:26,000] there must also be a way to
+- [00:13:26,000 - 00:13:27,840] think about forces in terms of particles.
+- [00:13:28,560 - 00:13:30,560] So let's talk about that a little bit.
+- [00:13:31,360 - 00:13:34,880] Before discussing electrodynamics in this way,
+- [00:13:35,480 - 00:13:38,960] let's talk about a slightly different setup,
+- [00:13:38,960 - 00:13:40,620] a completely different, well, actually
+- [00:13:40,620 - 00:13:42,280] a very completely different setup.
+- [00:13:43,240 - 00:13:45,040] Let's talk about molecular forces.
+- [00:13:46,000 - 00:13:48,000] What do molecular forces come from?
+- [00:13:49,040 - 00:13:51,920] I'll give you one source of, there are several,
+- [00:13:51,920 - 00:13:54,480] there are several origins of molecular forces.
+- [00:13:54,480 - 00:13:56,480] But here's the setup I want to think about.
+- [00:13:59,480 - 00:14:01,760] Let's begin with a pair
+- [00:14:01,760 - 00:14:04,040] of protons and a single electron.
+- [00:14:05,560 - 00:14:06,360] What is this?
+- [00:14:07,240 - 00:14:08,440] Proton over here,
+- [00:14:10,440 - 00:14:11,880] a proton over here,
+- [00:14:13,920 - 00:14:15,840] and a single electron,
+- [00:14:16,000 - 00:14:17,280] and a single electron.
+- [00:14:17,280 - 00:14:19,520] If this proton were very far away,
+- [00:14:19,520 - 00:14:21,420] then the ground state of the
+- [00:14:21,420 - 00:14:23,320] electron in the presence of the proton
+- [00:14:23,320 - 00:14:26,520] would just be the hydrogen atom ground state.
+- [00:14:26,520 - 00:14:28,520] It would be governed by
+- [00:14:28,520 - 00:14:30,520] some sort of Schrödinger wave function.
+- [00:14:30,520 - 00:14:32,520] Let's draw the Schrödinger wave function.
+- [00:14:32,520 - 00:14:34,520] The ground state would be the
+- [00:14:34,520 - 00:14:36,520] ground state of the hydrogen atom.
+- [00:14:36,520 - 00:14:38,520] And in the ground state, if
+- [00:14:38,520 - 00:14:40,520] this proton weren't there at all,
+- [00:14:40,520 - 00:14:42,520] not there at all,
+- [00:14:42,520 - 00:14:45,880] the electron in its ground state would certainly be found,
+- [00:14:45,880 - 00:14:48,600] in the position nearby this proton.
+- [00:14:50,120 - 00:14:53,000] Now, what if there are two protons over here?
+- [00:14:53,000 - 00:14:55,320] Not one proton over here, another proton over here,
+- [00:14:55,320 - 00:14:57,920] pretty far away, but not infinitely far away.
+- [00:14:58,840 - 00:15:01,760] Then there is another possible state of
+- [00:15:01,760 - 00:15:04,680] the electron with exactly the same energy,
+- [00:15:04,680 - 00:15:08,640] where the electron is not over here,
+- [00:15:08,640 - 00:15:11,380] but it's over here with the
+- [00:15:11,380 - 00:15:14,120] corresponding wave function pushed over to here.
+- [00:15:14,120 - 00:15:15,160] It has exactly the same energy, but it's far away.
+- [00:15:15,880 - 00:15:16,880] Why?
+- [00:15:16,880 - 00:15:20,880] Because the two protons are of the same kind,
+- [00:15:20,880 - 00:15:23,880] and everything is completely symmetric over here.
+- [00:15:23,880 - 00:15:26,880] So if the electron is in orbit,
+- [00:15:26,880 - 00:15:29,880] well, in quantum mechanical orbit around this proton,
+- [00:15:29,880 - 00:15:32,880] or if it's in quantum mechanical orbit around this proton,
+- [00:15:32,880 - 00:15:35,380] the ground state energy will be exactly the
+- [00:15:35,380 - 00:15:37,880] same as if there was only one proton.
+- [00:15:37,880 - 00:15:40,880] But it's not quite true.
+- [00:15:40,880 - 00:15:43,880] Why isn't it exactly true?
+- [00:15:43,880 - 00:15:44,880] Well,
+- [00:15:44,880 - 00:15:48,880] if the protons are not infinitely far away,
+- [00:15:48,880 - 00:15:51,880] there are processes that could happen which could
+- [00:15:51,880 - 00:15:54,880] not happen if they were infinitely far away.
+- [00:15:54,880 - 00:15:56,880] Anybody know what the process is that
+- [00:15:56,880 - 00:15:58,880] can happen to the electron if the two...
+- [00:15:58,880 - 00:16:00,880] Tunneling effect.
+- [00:16:00,880 - 00:16:01,880] Which?
+- [00:16:01,880 - 00:16:02,880] I would guess the tunneling effect.
+- [00:16:02,880 - 00:16:03,880] Tunneling effect.
+- [00:16:03,880 - 00:16:05,880] Yeah, the tunneling effect.
+- [00:16:05,880 - 00:16:09,880] The electron placed over here into its ground state
+- [00:16:09,880 - 00:16:12,880] can, with a small probability,
+- [00:16:12,880 - 00:16:13,880] suddenly appear in this position.
+- [00:16:13,880 - 00:16:16,880] Suddenly appear in this atom over here.
+- [00:16:16,880 - 00:16:19,880] That's called quantum mechanical tunneling.
+- [00:16:19,880 - 00:16:22,380] It has to overcome an
+- [00:16:22,380 - 00:16:24,880] energy barrier in between the two.
+- [00:16:24,880 - 00:16:26,880] It takes some energy to pull
+- [00:16:26,880 - 00:16:28,880] the electron out of this atom.
+- [00:16:28,880 - 00:16:30,380] It'll get that energy back
+- [00:16:30,380 - 00:16:31,880] when it drops into this atom,
+- [00:16:31,880 - 00:16:34,880] but it has to go over this hill.
+- [00:16:34,880 - 00:16:36,880] Can it go over the hill?
+- [00:16:36,880 - 00:16:37,880] Classically, it can't.
+- [00:16:37,880 - 00:16:39,880] But quantum mechanically, it can
+- [00:16:39,880 - 00:16:41,880] tunnel from one place to another.
+- [00:16:41,880 - 00:16:45,880] Don't stand there and try to watch the tunneling.
+- [00:16:45,880 - 00:16:47,880] What happens if you try to watch
+- [00:16:47,880 - 00:16:49,880] for the electron going back and forth?
+- [00:16:49,880 - 00:16:51,880] Like anything else in quantum
+- [00:16:51,880 - 00:16:53,880] mechanics, watching it ruins it.
+- [00:16:53,880 - 00:16:56,880] You can watch over here.
+- [00:16:56,880 - 00:16:58,880] You can say, well, you can stand over here
+- [00:16:58,880 - 00:17:00,880] and wait for the electron to appear over here,
+- [00:17:00,880 - 00:17:02,880] but if you watch it from
+- [00:17:02,880 - 00:17:04,880] in here, you'll ruin the phenomenon.
+- [00:17:04,880 - 00:17:08,880] So the electron can hop back and forth.
+- [00:17:08,880 - 00:17:09,880] Hop back and forth simply means that
+- [00:17:09,880 - 00:17:10,880] it's going to go back and forth.
+- [00:17:11,880 - 00:17:13,380] What happens is that there's
+- [00:17:13,380 - 00:17:14,880] a tunneling transition, a tunneling rate,
+- [00:17:14,880 - 00:17:17,380] or a tunneling probability that if you put
+- [00:17:17,380 - 00:17:19,880] it over here, it can appear over here.
+- [00:17:19,880 - 00:17:22,380] If it appears over here and you wait
+- [00:17:22,380 - 00:17:24,880] a while, it'll reappear over here and so forth.
+- [00:17:24,880 - 00:17:28,880] Okay, this process sets up
+- [00:17:28,880 - 00:17:32,880] a kind of equilibrium, long-term equilibrium,
+- [00:17:32,880 - 00:17:36,380] in which the electron has an equal
+- [00:17:36,380 - 00:17:39,880] probability of being over here and over here
+- [00:17:39,880 - 00:17:41,880] with a wave function.
+- [00:17:41,880 - 00:17:44,880] Which looks like the sum of the two wave functions.
+- [00:17:44,880 - 00:17:47,880] Well, the sum divided by the square root of
+- [00:17:47,880 - 00:17:50,880] two in order for probability to add up to one.
+- [00:17:50,880 - 00:17:53,880] Alright, so it looks like the sum of the
+- [00:17:53,880 - 00:17:56,880] two wave functions, which I didn't draw very well,
+- [00:17:56,880 - 00:18:03,880] but in the middle over here, it's slightly different.
+- [00:18:03,880 - 00:18:06,880] You might draw the exact wave
+- [00:18:06,880 - 00:18:09,880] function of the electron orbiting the tunnel.
+- [00:18:11,880 - 00:18:17,880] And particle one as if particle two were not there.
+- [00:18:17,880 - 00:18:21,880] Same thing for particle two.
+- [00:18:21,880 - 00:18:23,880] And then add them up.
+- [00:18:23,880 - 00:18:26,380] Well, the correct tunneling wave
+- [00:18:26,380 - 00:18:28,880] function, the correct equilibrium wave function,
+- [00:18:28,880 - 00:18:32,880] is not exactly the sum of these two wave functions.
+- [00:18:32,880 - 00:18:34,880] It's a little bit different in here.
+- [00:18:34,880 - 00:18:36,880] A little bit, not much.
+- [00:18:36,880 - 00:18:39,880] But the point is the energy
+- [00:18:39,880 - 00:18:45,880] of the system is not exactly what it would be
+- [00:18:45,880 - 00:18:47,880] if the two protons were
+- [00:18:47,880 - 00:18:49,880] infinitely far away from each other.
+- [00:18:49,880 - 00:18:51,880] If they were infinitely far away from each other,
+- [00:18:51,880 - 00:18:54,880] you could put the proton, the electron over here,
+- [00:18:54,880 - 00:18:55,880] it would have a certain energy,
+- [00:18:55,880 - 00:18:57,880] or over here, and it
+- [00:18:57,880 - 00:18:59,880] would have exactly the same energy.
+- [00:18:59,880 - 00:19:01,880] When you put them closer together,
+- [00:19:01,880 - 00:19:04,880] the energy of the electron is not
+- [00:19:04,880 - 00:19:07,880] exactly the same as it would be
+- [00:19:07,880 - 00:19:08,880] if the,
+- [00:19:08,880 - 00:19:10,880] if they were far apart,
+- [00:19:10,880 - 00:19:12,880] if they were infinitely far apart.
+- [00:19:12,880 - 00:19:15,880] So, if I were to plot the energy,
+- [00:19:18,880 - 00:19:21,880] if I were to plot the energy
+- [00:19:21,880 - 00:19:24,880] as a function of the distance between them,
+- [00:19:24,880 - 00:19:27,880] when they're very, very far apart,
+- [00:19:27,880 - 00:19:30,380] the energy of that electron is
+- [00:19:30,380 - 00:19:32,880] simply the energy of the electron
+- [00:19:32,880 - 00:19:34,880] with only one proton.
+- [00:19:34,880 - 00:19:37,880] And the other one just not there at all.
+- [00:19:38,880 - 00:19:41,380] At large distances, the energy
+- [00:19:41,380 - 00:19:43,880] would just be whatever it was.
+- [00:19:43,880 - 00:19:46,880] But as you bring the protons together,
+- [00:19:46,880 - 00:19:49,880] the energy of that two protons
+- [00:19:49,880 - 00:19:52,880] plus electron is a little bit less.
+- [00:19:52,880 - 00:19:55,880] It turns out to be a little bit less.
+- [00:19:55,880 - 00:19:59,380] And that little bit less is
+- [00:19:59,380 - 00:20:02,880] a function of the distance between them.
+- [00:20:02,880 - 00:20:05,880] So, now we have a situation.
+- [00:20:05,880 - 00:20:07,880] When the system is in equilibrium
+- [00:20:07,880 - 00:20:10,880] with the electron tunneling back and forth
+- [00:20:10,880 - 00:20:12,880] and in equilibrium between the two,
+- [00:20:12,880 - 00:20:17,880] the energy is a function of the distance between them.
+- [00:20:17,880 - 00:20:21,880] What's the relationship between force and energy?
+- [00:20:21,880 - 00:20:24,880] You can think of this as potential energy.
+- [00:20:24,880 - 00:20:26,880] You can think of this as
+- [00:20:26,880 - 00:20:28,880] a potential energy between the two protons.
+- [00:20:28,880 - 00:20:30,880] The derivative of the energy.
+- [00:20:30,880 - 00:20:32,880] The derivative of the energy.
+- [00:20:32,880 - 00:20:35,880] So, the derivative of the energy,
+- [00:20:35,880 - 00:20:38,880] the energy has a gradient in here.
+- [00:20:38,880 - 00:20:41,880] Force always pushes you toward decreased energy.
+- [00:20:41,880 - 00:20:45,380] And so this effectively creates
+- [00:20:45,380 - 00:20:48,880] an attraction between the two protons.
+- [00:20:48,880 - 00:20:53,880] That attraction is a kind of covalent bond.
+- [00:20:53,880 - 00:20:57,880] It's a kind of force between the two of them,
+- [00:20:57,880 - 00:20:59,880] which is due to the sharing of an electron,
+- [00:20:59,880 - 00:21:01,880] or to the fact that the electron
+- [00:21:01,880 - 00:21:03,880] can be in a superposition of quantum states
+- [00:21:03,880 - 00:21:05,880] in the two wells,
+- [00:21:05,880 - 00:21:09,880] in the two potentials of these two things here.
+- [00:21:09,880 - 00:21:13,880] Now, does that mean that a proton and another proton
+- [00:21:13,880 - 00:21:15,880] with an electron between them,
+- [00:21:15,880 - 00:21:18,880] which has this attractive force, will bind together?
+- [00:21:18,880 - 00:21:21,880] Not quite, because there's another force around.
+- [00:21:21,880 - 00:21:23,880] What's the other force around?
+- [00:21:23,880 - 00:21:25,880] The electrostatic force.
+- [00:21:25,880 - 00:21:28,880] The system doesn't have zero charge altogether,
+- [00:21:28,880 - 00:21:30,880] and so there's a repulsion force,
+- [00:21:30,880 - 00:21:33,880] and the repulsion force can overwhelm the attraction force,
+- [00:21:33,880 - 00:21:38,880] but nevertheless, there is a force between two protons,
+- [00:21:38,880 - 00:21:40,880] if there is an electron around,
+- [00:21:40,880 - 00:21:42,880] which is due, in a sense, to
+- [00:21:42,880 - 00:21:44,880] the jumping back and forth of the electron,
+- [00:21:44,880 - 00:21:46,880] or to the diminishing of the energy,
+- [00:21:46,880 - 00:21:50,880] by the wave function sort of adjusting a little bit,
+- [00:21:50,880 - 00:21:53,380] a little bit better than it would if
+- [00:21:53,380 - 00:21:55,880] you just added the two wave functions together.
+- [00:21:55,880 - 00:22:00,880] As I said, that's the origin of covalent bonds,
+- [00:22:00,880 - 00:22:03,880] sharing of electrons,
+- [00:22:03,880 - 00:22:06,880] and in this case, you can think of it,
+- [00:22:06,880 - 00:22:07,880] you can draw a picture.
+- [00:22:07,880 - 00:22:09,880] Now, the picture may or
+- [00:22:09,880 - 00:22:11,880] may not do anything for you.
+- [00:22:11,880 - 00:22:13,380] You have a proton over here,
+- [00:22:13,380 - 00:22:14,880] that's the world line of a proton,
+- [00:22:14,880 - 00:22:17,880] another world line of a proton,
+- [00:22:17,880 - 00:22:20,380] and the electron might start
+- [00:22:20,380 - 00:22:22,880] out being bound to this proton,
+- [00:22:22,880 - 00:22:24,880] hop across to this proton,
+- [00:22:24,880 - 00:22:27,880] hop back across to this proton.
+- [00:22:27,880 - 00:22:29,880] You shouldn't take this too literally,
+- [00:22:29,880 - 00:22:31,880] because if you stood in the middle, as I said,
+- [00:22:31,880 - 00:22:33,880] you would disrupt the process.
+- [00:22:33,880 - 00:22:37,880] But it's a description of the quantum mechanical state
+- [00:22:37,880 - 00:22:40,880] of the electron between the two protons.
+- [00:22:40,880 - 00:22:42,880] What it does, this possibility of
+- [00:22:42,880 - 00:22:44,880] the electron jumping back and forth,
+- [00:22:44,880 - 00:22:47,880] lowers the energy relative to
+- [00:22:47,880 - 00:22:50,880] if you just had one proton
+- [00:22:50,880 - 00:22:54,880] and just one electron in the bound state there.
+- [00:22:54,880 - 00:22:56,880] That means that there is an effective force,
+- [00:22:56,880 - 00:22:58,880] and you know, you can picture it.
+- [00:22:58,880 - 00:23:01,880] This picture is a very,
+- [00:23:01,880 - 00:23:05,880] is like any analogy, it's often very, very misleading.
+- [00:23:05,880 - 00:23:09,380] But the presence of the
+- [00:23:09,380 - 00:23:12,880] electron in between the two protons
+- [00:23:12,880 - 00:23:14,880] creates an attractive force.
+- [00:23:14,880 - 00:23:17,880] It's called particle exchange.
+- [00:23:17,880 - 00:23:21,880] It's called particle exchange, or electron exchange,
+- [00:23:21,880 - 00:23:24,880] between the two protons.
+- [00:23:24,880 - 00:23:26,880] Now, yeah?
+- [00:23:26,880 - 00:23:28,380] Could you think of it as
+- [00:23:28,380 - 00:23:29,880] being the electrons hopping back and forth
+- [00:23:29,880 - 00:23:31,880] as reducing the effect of the electron?
+- [00:23:31,880 - 00:23:34,880] Positive charge, would it?
+- [00:23:34,880 - 00:23:36,380] No, I don't think that
+- [00:23:36,380 - 00:23:37,880] that is quite the right picture.
+- [00:23:37,880 - 00:23:40,880] It doesn't really depend on the electric charges.
+- [00:23:40,880 - 00:23:42,880] It just depends on the fact that you can find,
+- [00:23:42,880 - 00:23:45,880] by adding together two wave functions,
+- [00:23:45,880 - 00:23:47,880] you can find a wave function
+- [00:23:47,880 - 00:23:49,880] with a little bit lower energy
+- [00:23:49,880 - 00:23:51,880] than either one separately.
+- [00:23:51,880 - 00:23:54,880] Is this what Feynman referred to as light, light, light?
+- [00:23:54,880 - 00:23:55,880] As what?
+- [00:23:55,880 - 00:23:58,880] Feynman used to say light, light, light.
+- [00:23:58,880 - 00:24:00,880] Light, light, light, I don't know.
+- [00:24:00,880 - 00:24:01,880] No, no, no, no.
+- [00:24:01,880 - 00:24:04,880] He was probably talking about the Bose statistics
+- [00:24:04,880 - 00:24:08,880] that photons like to be in the same state.
+- [00:24:08,880 - 00:24:10,880] I don't know what he was talking about.
+- [00:24:10,880 - 00:24:12,880] He made the statement that
+- [00:24:12,880 - 00:24:14,880] he said that light likes light.
+- [00:24:14,880 - 00:24:16,880] Electrons like each other, photons...
+- [00:24:16,880 - 00:24:18,880] No, no, electrons hate each other.
+- [00:24:18,880 - 00:24:20,880] They don't like to be in the same state.
+- [00:24:20,880 - 00:24:21,880] Photons like each other.
+- [00:24:21,880 - 00:24:23,880] They love to be in the same state.
+- [00:24:23,880 - 00:24:27,880] I think he was probably talking about the opposite
+- [00:24:27,880 - 00:24:29,880] of the exclusion principle for photons,
+- [00:24:29,880 - 00:24:31,880] the Bose statistics of them.
+- [00:24:31,880 - 00:24:33,880] I don't know because I don't know.
+- [00:24:33,880 - 00:24:35,880] Protons have a tendency to repel.
+- [00:24:35,880 - 00:24:36,880] Protons?
+- [00:24:36,880 - 00:24:37,880] Protons.
+- [00:24:37,880 - 00:24:39,880] Yeah, that's because of their electric charge.
+- [00:24:39,880 - 00:24:40,880] Right.
+- [00:24:40,880 - 00:24:42,880] Now what happens is we put the electron between them.
+- [00:24:42,880 - 00:24:44,880] Is that reducing the repulsion force?
+- [00:24:44,880 - 00:24:47,880] It does a little bit, but not very much.
+- [00:24:47,880 - 00:24:51,380] And in fact, the force due
+- [00:24:51,380 - 00:24:54,880] to the electron jumping back and forth
+- [00:24:54,880 - 00:24:57,380] is a much shorter range
+- [00:24:57,380 - 00:24:59,880] force than the electrostatic attraction.
+- [00:24:59,880 - 00:25:02,880] So this force would only
+- [00:25:02,880 - 00:25:05,880] be important at relatively small distances,
+- [00:25:05,880 - 00:25:08,880] whereas the Coulomb force would fall off much more slowly.
+- [00:25:08,880 - 00:25:12,880] So the Coulomb force would be a longer range force.
+- [00:25:12,880 - 00:25:14,880] But, you know, it is there.
+- [00:25:14,880 - 00:25:15,880] It is there.
+- [00:25:15,880 - 00:25:17,380] The places where it shows up
+- [00:25:17,380 - 00:25:18,880] is if you have a neutral system.
+- [00:25:18,880 - 00:25:20,380] I mean, it shows up better
+- [00:25:20,380 - 00:25:21,880] if you have a neutral system.
+- [00:25:21,880 - 00:25:24,880] If you have two electrons so that
+- [00:25:24,880 - 00:25:27,880] the total charge of the system is zero,
+- [00:25:27,880 - 00:25:28,880] then you have a neutral system.
+- [00:25:28,880 - 00:25:31,880] Then, of course, you have the
+- [00:25:31,880 - 00:25:34,880] possibility one electron orbiting around this proton,
+- [00:25:34,880 - 00:25:39,880] a second electron orbiting around this proton here.
+- [00:25:39,880 - 00:25:41,880] Now the two objects here,
+- [00:25:41,880 - 00:25:43,880] they're called atoms, hydrogen atoms.
+- [00:25:43,880 - 00:25:44,880] They're neutral.
+- [00:25:44,880 - 00:25:47,880] There is no electrostatic force between them.
+- [00:25:47,880 - 00:25:50,880] But you still have this
+- [00:25:50,880 - 00:25:53,880] possibility of electrons jumping across.
+- [00:25:53,880 - 00:25:56,880] Electrons can jump across or tunnel across,
+- [00:25:56,880 - 00:25:58,880] and then it does create a force.
+- [00:25:58,880 - 00:26:02,880] It does create an attractive force which
+- [00:26:02,880 - 00:26:06,880] can bind an atom, bind a molecule.
+- [00:26:06,880 - 00:26:09,880] But even so, it was a mistake
+- [00:26:09,880 - 00:26:12,880] that H2 plus positive charge hydrogen is bound.
+- [00:26:12,880 - 00:26:13,880] Yeah, yeah, yeah, it is bound.
+- [00:26:13,880 - 00:26:15,880] But, hm?
+- [00:26:15,880 - 00:26:17,880] Yeah, at small distances.
+- [00:26:17,880 - 00:26:19,880] At small distances, it is
+- [00:26:19,880 - 00:26:21,880] enough to overcome the Coulomb force.
+- [00:26:21,880 - 00:26:23,880] That's right.
+- [00:26:23,880 - 00:26:24,880] Yeah?
+- [00:26:24,880 - 00:26:26,880] Is there a possibility that between the two protons,
+- [00:26:26,880 - 00:26:28,880] it's creating some kind of tension,
+- [00:26:28,880 - 00:26:31,380] that creates some third force that
+- [00:26:31,380 - 00:26:33,880] the electrons kind of orbit around?
+- [00:26:33,880 - 00:26:35,880] Well, it doesn't create a third force,
+- [00:26:35,880 - 00:26:38,880] but it creates a sort of slightly
+- [00:26:38,880 - 00:26:41,880] nonlinear effect due to the two forces.
+- [00:26:41,880 - 00:26:44,880] But it's just the solution of the Schrodinger equation
+- [00:26:44,880 - 00:26:46,880] in the presence of the two
+- [00:26:46,880 - 00:26:48,880] forces does not have the energy
+- [00:26:48,880 - 00:26:50,880] that it would have if it
+- [00:26:50,880 - 00:26:52,880] was just one of those charges there.
+- [00:26:52,880 - 00:26:55,880] But let's leave it at that.
+- [00:26:56,880 - 00:27:00,880] There is this notion of the energy being lowered
+- [00:27:00,880 - 00:27:03,880] by the possibility of
+- [00:27:03,880 - 00:27:06,880] alternating between two quantum states.
+- [00:27:06,880 - 00:27:12,880] Is this thing at all related to quantum entanglement?
+- [00:27:12,880 - 00:27:15,880] Not so much quantum entanglement.
+- [00:27:15,880 - 00:27:18,880] It's related to what are
+- [00:27:18,880 - 00:27:21,880] called off-diagonal elements in the Hamiltonian,
+- [00:27:21,880 - 00:27:24,380] but it's not too closely
+- [00:27:24,380 - 00:27:26,880] related to entanglement, I would say.
+- [00:27:26,880 - 00:27:30,880] For entanglement, normally you need two electrons.
+- [00:27:30,880 - 00:27:32,880] You only need one electron for this.
+- [00:27:32,880 - 00:27:37,880] For very hot, very, very high temperatures,
+- [00:27:37,880 - 00:27:41,380] does the electron move between
+- [00:27:41,380 - 00:27:44,880] the protons for much higher probability?
+- [00:27:44,880 - 00:27:47,880] Well, at high temperatures,
+- [00:27:47,880 - 00:27:49,880] of course it depends on the temperature,
+- [00:27:49,880 - 00:27:51,880] at very, very high temperatures,
+- [00:27:51,880 - 00:27:53,380] all that will happen is
+- [00:27:53,380 - 00:27:54,880] the electron will get kicked out
+- [00:27:54,880 - 00:27:56,880] and, you know, go to,
+- [00:27:56,880 - 00:27:58,880] uh, Alpha Centauri.
+- [00:27:58,880 - 00:28:00,880] And it won't even remember the
+- [00:28:00,880 - 00:28:02,880] fact that there was a proton around
+- [00:28:02,880 - 00:28:04,380] if it gets hit hard
+- [00:28:04,380 - 00:28:05,880] enough by a very hot photon.
+- [00:28:05,880 - 00:28:09,880] Um, but if the temperature is not that extreme,
+- [00:28:09,880 - 00:28:11,880] what it can do is cause,
+- [00:28:11,880 - 00:28:13,880] even if you only had a single atom,
+- [00:28:13,880 - 00:28:17,880] it could cause the electron to occupy higher levels.
+- [00:28:17,880 - 00:28:20,880] Now, higher levels have bigger wave functions,
+- [00:28:20,880 - 00:28:22,880] so the overlap between the
+- [00:28:22,880 - 00:28:24,880] higher wave functions could be larger,
+- [00:28:24,880 - 00:28:26,880] and it would certainly have some effect on the force.
+- [00:28:26,880 - 00:28:32,880] Uh, but, uh, that's a, uh, kind of special effect.
+- [00:28:32,880 - 00:28:35,880] All right, we have, we have a concept,
+- [00:28:35,880 - 00:28:39,880] uh, that we see in the classical electrodynamics
+- [00:28:39,880 - 00:28:43,880] that the effect of having two charges
+- [00:28:43,880 - 00:28:45,880] changes the energy in between relative
+- [00:28:45,880 - 00:28:47,880] to what it would have been
+- [00:28:47,880 - 00:28:49,880] if you only had one,
+- [00:28:49,880 - 00:28:51,880] and it creates a force.
+- [00:28:51,880 - 00:28:53,880] Similar kind of thing here.
+- [00:28:53,880 - 00:28:55,880] If you have two force centers,
+- [00:28:55,880 - 00:28:58,880] you have the possibility of the, of the, uh, electron
+- [00:28:58,880 - 00:29:00,880] being in a superposition of states.
+- [00:29:00,880 - 00:29:02,880] In other words, of the, um,
+- [00:29:02,880 - 00:29:06,880] of the equilibrium being in a quantum superposition
+- [00:29:06,880 - 00:29:08,880] of the two states, the two
+- [00:29:08,880 - 00:29:10,880] states being over here or over here.
+- [00:29:10,880 - 00:29:14,880] That also lowers the energy and creates a force.
+- [00:29:14,880 - 00:29:18,380] Um, is there a way to
+- [00:29:18,380 - 00:29:21,880] think about the Coulomb force here
+- [00:29:21,880 - 00:29:23,880] in quantum mechanics
+- [00:29:23,880 - 00:29:25,880] where it is in some sense similar
+- [00:29:25,880 - 00:29:28,880] to this jumping back and forth of the electron?
+- [00:29:28,880 - 00:29:30,880] Yeah, there is.
+- [00:29:30,880 - 00:29:32,880] Um,
+- [00:29:32,880 - 00:29:34,880] let's come back
+- [00:29:34,880 - 00:29:36,880] to a single proton.
+- [00:29:36,880 - 00:29:38,880] A single proton
+- [00:29:38,880 - 00:29:41,880] is interacting with the electromagnetic field.
+- [00:29:41,880 - 00:29:43,880] That means it's interacting
+- [00:29:43,880 - 00:29:47,880] with the field whose quanta are photons.
+- [00:29:47,880 - 00:29:50,880] Classically, we might just describe it
+- [00:29:50,880 - 00:29:52,880] by solving the field equations
+- [00:29:52,880 - 00:29:54,880] for the electric field
+- [00:29:54,880 - 00:29:57,880] in the presence of a charged particle.
+- [00:29:57,880 - 00:29:59,880] Quantum mechanically, we think about it differently.
+- [00:29:59,880 - 00:30:01,880] Particularly in quantum field theory,
+- [00:30:01,880 - 00:30:03,880] we think about it as
+- [00:30:03,880 - 00:30:05,880] the emission and absorption of photons.
+- [00:30:05,880 - 00:30:07,880] Alright?
+- [00:30:07,880 - 00:30:09,880] That's what the Lagrangian of qua- of
+- [00:30:09,880 - 00:30:11,880] electrodynamics tells us.
+- [00:30:11,880 - 00:30:13,880] It tells us about the probability for the emitting
+- [00:30:13,880 - 00:30:16,880] and absorbing, absorption of photons.
+- [00:30:16,880 - 00:30:21,880] So, one way of thinking about the electron
+- [00:30:21,880 - 00:30:23,880] is that the actual physical electron,
+- [00:30:23,880 - 00:30:28,880] is a quantum mechanical superposition of states
+- [00:30:28,880 - 00:30:31,880] in which, first of all, there are no photons.
+- [00:30:39,880 - 00:30:43,880] A superposition of a state with no photons,
+- [00:30:43,880 - 00:30:45,880] a superposition of states in
+- [00:30:45,880 - 00:30:47,880] which a photon has been emitted,
+- [00:30:47,880 - 00:30:50,880] and therefore there's a pro- a photon present.
+- [00:30:50,880 - 00:30:52,880] So it's a charged particle
+- [00:30:52,880 - 00:30:54,880] together with a photon around.
+- [00:30:54,880 - 00:30:56,880] Two photons can be emitted,
+- [00:30:56,880 - 00:30:58,880] the photon can be reabsorbed.
+- [00:30:58,880 - 00:31:00,880] The net effect in the end
+- [00:31:00,880 - 00:31:04,880] is some kind of equilibrium distribution,
+- [00:31:04,880 - 00:31:07,880] quantum mechanical equilibrium distribution
+- [00:31:07,880 - 00:31:11,880] of photons surrounding the electron.
+- [00:31:11,880 - 00:31:13,880] And you can measure those photons.
+- [00:31:13,880 - 00:31:15,880] I mean, they're a little bit different
+- [00:31:15,880 - 00:31:17,880] than measuring free photons.
+- [00:31:17,880 - 00:31:20,880] These photons are sort of trapped at the electron.
+- [00:31:20,880 - 00:31:22,880] They're emitted and reabsorbed.
+- [00:31:22,880 - 00:31:26,880] And if I have another electron over here,
+- [00:31:26,880 - 00:31:29,880] it is also emitting and absorbing photons,
+- [00:31:29,880 - 00:31:31,880] so there's an equilibrium.
+- [00:31:31,880 - 00:31:34,880] But every so often,
+- [00:31:34,880 - 00:31:38,380] now this should be thought of
+- [00:31:38,380 - 00:31:41,880] in the language of Feynman diagrams,
+- [00:31:41,880 - 00:31:43,880] every so often,
+- [00:31:43,880 - 00:31:46,880] a photon which is emitted from here
+- [00:31:46,880 - 00:31:48,880] gets absorbed over here.
+- [00:31:48,880 - 00:31:52,880] And I always think about it as two jugglers
+- [00:31:52,880 - 00:31:54,880] each juggling balls.
+- [00:31:54,880 - 00:31:56,880] And every so often,
+- [00:31:56,880 - 00:31:58,880] if they happen to be close enough together,
+- [00:31:58,880 - 00:32:00,880] a mistake will be made
+- [00:32:00,880 - 00:32:07,880] and Joe will grab Moe's juggling objects.
+- [00:32:07,880 - 00:32:09,880] Okay?
+- [00:32:09,880 - 00:32:11,880] Really, what you really want to do
+- [00:32:11,880 - 00:32:14,880] is you really want to calculate the energy
+- [00:32:14,880 - 00:32:17,880] due to the electromagnetic field
+- [00:32:17,880 - 00:32:19,880] or due to the quantum
+- [00:32:19,880 - 00:32:21,880] superposition of photons that are present,
+- [00:32:21,880 - 00:32:24,880] you want to calculate that energy
+- [00:32:24,880 - 00:32:29,880] as a function of the distance between the charged particles.
+- [00:32:29,880 - 00:32:32,880] When they're very far apart,
+- [00:32:32,880 - 00:32:35,880] the two energies just add.
+- [00:32:35,880 - 00:32:38,880] You just get the sum of the energy
+- [00:32:38,880 - 00:32:40,880] of one charged particle and another charged particle.
+- [00:32:40,880 - 00:32:42,880] But as they get closer together,
+- [00:32:42,880 - 00:32:45,880] the charges begin to influence each other,
+- [00:32:45,880 - 00:32:48,880] or in the language of Feynman diagrams,
+- [00:32:48,880 - 00:32:51,880] the emission of one photon by one particle
+- [00:32:51,880 - 00:32:54,880] and the absorption of that same photon by another particle
+- [00:32:54,880 - 00:32:56,880] creates a force,
+- [00:32:56,880 - 00:32:58,880] creates an energy which is not exactly
+- [00:32:58,880 - 00:33:00,880] the sum of the two energies.
+- [00:33:00,880 - 00:33:03,880] And that energy is the Coulomb force
+- [00:33:03,880 - 00:33:07,880] between the charged particles.
+- [00:33:07,880 - 00:33:09,880] So we have two distinct languages.
+- [00:33:09,880 - 00:33:13,880] Well, apart from just writing down the Coulomb force law,
+- [00:33:13,880 - 00:33:16,880] we have two other ways of thinking about forces.
+- [00:33:16,880 - 00:33:19,880] One of them is through classical field theory,
+- [00:33:19,880 - 00:33:23,880] where you calculate the fields of objects and square them.
+- [00:33:23,880 - 00:33:27,880] And the other way is through the exchange of particles.
+- [00:33:27,880 - 00:33:29,880] Feynman diagrams where particles
+- [00:33:29,880 - 00:33:31,880] are exchanged back and forth.
+- [00:33:31,880 - 00:33:36,880] Any particle can be exchanged in some context or another.
+- [00:33:36,880 - 00:33:39,380] So every kind of particle in
+- [00:33:39,380 - 00:33:41,880] one way or another produces a force.
+- [00:33:41,880 - 00:33:44,880] In molecular physics, it's the exchange of electrons
+- [00:33:44,880 - 00:33:47,880] which create forces.
+- [00:33:47,880 - 00:33:49,880] Um...
+- [00:33:49,880 - 00:33:51,880] In electrodynamics, it's the exchange
+- [00:33:51,880 - 00:33:53,880] of photons back and forth
+- [00:33:53,880 - 00:33:55,880] which create forces.
+- [00:33:55,880 - 00:33:58,880] So any particle...
+- [00:33:58,880 - 00:34:03,880] Any particle is also connected with a force
+- [00:34:03,880 - 00:34:05,880] when that particle can be exchanged
+- [00:34:05,880 - 00:34:08,880] or jumped back and forth between two... something else.
+- [00:34:08,880 - 00:34:11,880] We'll describe some more examples,
+- [00:34:11,880 - 00:34:15,880] but I did want, before we move on,
+- [00:34:15,880 - 00:34:17,880] to just discuss the relationship
+- [00:34:17,880 - 00:34:19,880] between particles and forces.
+- [00:34:19,880 - 00:34:23,880] So we more or less have a one-to-one-to-one correspondence.
+- [00:34:23,880 - 00:34:25,880] Particles,
+- [00:34:25,880 - 00:34:29,880] fields for which those particles are the quanta,
+- [00:34:29,880 - 00:34:34,880] and forces which are associated with exchange processes
+- [00:34:34,880 - 00:34:36,880] where that particular kind of particle
+- [00:34:36,880 - 00:34:38,880] can bounce or jump back and forth.
+- [00:34:38,880 - 00:34:41,880] That's an important theme.
+- [00:34:41,880 - 00:34:43,380] So when people say that
+- [00:34:43,380 - 00:34:44,880] there are four forces in nature,
+- [00:34:44,880 - 00:34:48,880] no, there's a force for every possible kind of particle.
+- [00:34:49,880 - 00:34:53,380] And we will discuss some
+- [00:34:53,380 - 00:34:56,880] of them as we go along.
+- [00:34:56,880 - 00:34:59,380] Okay, I think it's time
+- [00:34:59,380 - 00:35:01,880] now to start naming the particles,
+- [00:35:01,880 - 00:35:05,880] listing them, listing their properties,
+- [00:35:05,880 - 00:35:08,880] and discussing what they can do,
+- [00:35:08,880 - 00:35:10,880] what kind of processes they can engage in.
+- [00:35:10,880 - 00:35:13,880] And I could write down a big
+- [00:35:13,880 - 00:35:16,880] long list of all the element particles
+- [00:35:16,880 - 00:35:17,880] and then give you a test next week
+- [00:35:17,880 - 00:35:18,880] to see whether you remember or not,
+- [00:35:18,880 - 00:35:21,880] to see whether you memorized it or not.
+- [00:35:21,880 - 00:35:25,880] That wouldn't be fun at all.
+- [00:35:25,880 - 00:35:28,880] I think it's probably better to
+- [00:35:28,880 - 00:35:31,880] divide them up into small groups.
+- [00:35:31,880 - 00:35:33,880] Groups which are in some
+- [00:35:33,880 - 00:35:35,880] ways simply related to each other.
+- [00:35:35,880 - 00:35:37,380] Get familiar with them a little
+- [00:35:37,380 - 00:35:38,880] bit and what they can do
+- [00:35:38,880 - 00:35:41,880] before we try to write down the
+- [00:35:41,880 - 00:35:44,880] whole damn standard model of particle physics,
+- [00:35:44,880 - 00:35:46,880] which is a monstrosity.
+- [00:35:46,880 - 00:35:49,880] It's not my fault, certainly not my fault,
+- [00:35:49,880 - 00:35:52,880] that the standard model of elementary particle physics
+- [00:35:52,880 - 00:35:54,880] is an ugly, monstrous mess.
+- [00:35:54,880 - 00:35:56,880] It's not Steve Weinberg's fault.
+- [00:35:56,880 - 00:35:57,880] It's nobody's fault.
+- [00:35:57,880 - 00:35:59,880] Or if it is somebody's fault, that person,
+- [00:35:59,880 - 00:36:02,880] well, he may be in the
+- [00:36:02,880 - 00:36:05,880] room, but he's a little bit diffuse.
+- [00:36:05,880 - 00:36:08,880] Frankly, we don't understand why
+- [00:36:08,880 - 00:36:11,880] the particles are what they are.
+- [00:36:11,880 - 00:36:13,880] We don't understand why there
+- [00:36:13,880 - 00:36:15,880] is an electron and no electron,
+- [00:36:15,880 - 00:36:20,880] and no particle whose name slips my mind
+- [00:36:20,880 - 00:36:22,880] because nobody's ever named it because it doesn't exist,
+- [00:36:22,880 - 00:36:25,880] but nevertheless, why some particles exist
+- [00:36:25,880 - 00:36:28,880] and why other kinds of particles don't exist,
+- [00:36:28,880 - 00:36:31,880] we largely, by and large, don't know.
+- [00:36:31,880 - 00:36:35,880] We do understand some relationships between particles.
+- [00:36:35,880 - 00:36:38,880] If this one and that one and that one exist,
+- [00:36:38,880 - 00:36:40,380] then there's got to be another
+- [00:36:40,380 - 00:36:41,880] one to match up with them
+- [00:36:41,880 - 00:36:43,880] in some appropriate way.
+- [00:36:43,880 - 00:36:44,880] But in the end of the day,
+- [00:36:44,880 - 00:36:48,880] there are many more parameters,
+- [00:36:48,880 - 00:36:50,880] many more different types of particles
+- [00:36:50,880 - 00:36:54,880] than there are known relationships between them
+- [00:36:54,880 - 00:36:56,880] which cut down the size of the problem.
+- [00:36:56,880 - 00:36:59,880] Okay, the mathematics and the relationships
+- [00:36:59,880 - 00:37:02,880] cut down the size of the problem somewhat,
+- [00:37:02,880 - 00:37:05,880] factor of two, factor of three, or something like that,
+- [00:37:05,880 - 00:37:07,880] but there are hundreds of particles.
+- [00:37:07,880 - 00:37:10,880] So it is honestly a mess.
+- [00:37:10,880 - 00:37:14,880] If you want to understand what people are holding back,
+- [00:37:14,880 - 00:37:17,880] what they're hoping for in the next round of experiments
+- [00:37:17,880 - 00:37:18,880] and so forth,
+- [00:37:18,880 - 00:37:20,880] you have to understand some of that mess
+- [00:37:20,880 - 00:37:23,880] and what the puzzles are about it.
+- [00:37:23,880 - 00:37:25,880] So let's begin.
+- [00:37:25,880 - 00:37:27,880] Let's name the particles.
+- [00:37:27,880 - 00:37:31,880] We begin with the most obvious ones.
+- [00:37:31,880 - 00:37:34,880] Let's make a table.
+- [00:37:34,880 - 00:37:38,880] Let's see, we need some columns.
+- [00:37:38,880 - 00:37:42,880] We can put the name of the particle over here.
+- [00:37:42,880 - 00:37:45,880] I'll put the symbol for the particle over here.
+- [00:37:45,880 - 00:37:50,880] I'll put the particle type over here.
+- [00:37:50,880 - 00:37:52,880] Now what do I mean by type?
+- [00:37:52,880 - 00:37:54,880] I simply mean whether it's a fermion or boson.
+- [00:37:54,880 - 00:37:59,880] I'll put the electric charge over here.
+- [00:37:59,880 - 00:38:06,880] There's another quantity which characterizes particles.
+- [00:38:06,880 - 00:38:08,880] We'll call it the baryon number.
+- [00:38:08,880 - 00:38:10,880] I'll tell you what it is.
+- [00:38:10,880 - 00:38:11,880] It's a number.
+- [00:38:11,880 - 00:38:14,880] I'll tell you what it is as we go along.
+- [00:38:14,880 - 00:38:16,880] And there are other properties.
+- [00:38:16,880 - 00:38:19,880] At the moment I'm not listing them.
+- [00:38:19,880 - 00:38:26,880] And we'll put the mass over here.
+- [00:38:26,880 - 00:38:28,880] All right.
+- [00:38:28,880 - 00:38:29,880] The first one, of course,
+- [00:38:29,880 - 00:38:32,880] and I'm not listing them in any particular order.
+- [00:38:32,880 - 00:38:34,380] As it happens, I am
+- [00:38:34,380 - 00:38:35,880] writing down the lightest one first.
+- [00:38:35,880 - 00:38:38,880] The lightest one is, of course, the photon.
+- [00:38:38,880 - 00:38:40,880] The standard symbol for a photon is a gamma,
+- [00:38:40,880 - 00:38:43,880] like for a gamma ray.
+- [00:38:43,880 - 00:38:46,880] It has a field associated with it.
+- [00:38:46,880 - 00:38:50,880] The gamma particle is the quantum of a field.
+- [00:38:50,880 - 00:38:53,880] In most cases, or many cases,
+- [00:38:53,880 - 00:38:58,880] the field carries the same symbol as the particle itself.
+- [00:38:58,880 - 00:39:03,880] But for the photon, the field is called A,
+- [00:39:03,880 - 00:39:05,880] and it's really the vector
+- [00:39:05,880 - 00:39:07,880] potential of the electromagnetic field.
+- [00:39:07,880 - 00:39:09,880] You could use electric or magnetic fields,
+- [00:39:09,880 - 00:39:13,880] but you can also use the vector potential,
+- [00:39:13,880 - 00:39:15,880] which is another way
+- [00:39:15,880 - 00:39:17,880] of describing the electromagnetic field.
+- [00:39:17,880 - 00:39:20,880] It has, it's a boson.
+- [00:39:20,880 - 00:39:22,880] I didn't write down the spin,
+- [00:39:22,880 - 00:39:24,880] but the spin is one unit of spin.
+- [00:39:24,880 - 00:39:26,880] The electric charge is zero.
+- [00:39:26,880 - 00:39:29,880] The baryon number, whatever that is, is zero.
+- [00:39:29,880 - 00:39:31,880] And the mass is zero.
+- [00:39:31,880 - 00:39:35,880] So that's the first particle.
+- [00:39:35,880 - 00:39:38,880] Next particle of interest is the electron.
+- [00:39:38,880 - 00:39:43,880] Now, the electron is a particle which has an antiparticle.
+- [00:39:43,880 - 00:39:45,880] It has an electric charge.
+- [00:39:45,880 - 00:39:47,880] If it has an electric charge,
+- [00:39:47,880 - 00:39:50,880] it must have an antiparticle of the opposite charge.
+- [00:39:50,880 - 00:39:52,880] And it is a convention,
+- [00:39:52,880 - 00:39:58,880] whether we think of the particle as the electron
+- [00:39:58,880 - 00:40:02,880] and the antiparticle as the positron,
+- [00:40:02,880 - 00:40:05,880] or whether we think of the positron as the particle
+- [00:40:05,880 - 00:40:07,880] and the electron as the antiparticle.
+- [00:40:07,880 - 00:40:10,880] The relation between them is mutual.
+- [00:40:10,880 - 00:40:12,880] All right, so when I write the electron,
+- [00:40:12,880 - 00:40:15,880] I really mean the electron and positron.
+- [00:40:15,880 - 00:40:20,880] And so we could write E here plus minus.
+- [00:40:20,880 - 00:40:23,880] Standing, E minus is the electron,
+- [00:40:23,880 - 00:40:25,880] E plus is the positron.
+- [00:40:25,880 - 00:40:29,880] The field of the electron is usually psi,
+- [00:40:29,880 - 00:40:32,880] and maybe you could put a little E downstairs
+- [00:40:32,880 - 00:40:34,880] to indicate that it stands for the electron.
+- [00:40:34,880 - 00:40:36,880] It's made up out of creation and annihilation,
+- [00:40:36,880 - 00:40:39,880] and annihilation operators for electrons.
+- [00:40:39,880 - 00:40:42,880] Electrons are fermions.
+- [00:40:42,880 - 00:40:44,880] It's charged, okay?
+- [00:40:44,880 - 00:40:47,880] It's charged in what units now?
+- [00:40:47,880 - 00:40:52,880] Well, the standard particle physics
+- [00:40:52,880 - 00:40:55,880] or quantum mechanical unit for electric charge,
+- [00:40:55,880 - 00:40:56,880] believe it or not,
+- [00:40:56,880 - 00:40:59,880] is the electric charge of an electron.
+- [00:40:59,880 - 00:41:01,880] It's a good unit to work in terms of.
+- [00:41:01,880 - 00:41:03,880] You can go look it up in coulombs.
+- [00:41:03,880 - 00:41:05,880] It's 10 to the minus, what?
+- [00:41:06,880 - 00:41:08,880] 23 coulombs.
+- [00:41:08,880 - 00:41:11,880] 10 to the minus 19th coulombs or, yeah.
+- [00:41:11,880 - 00:41:13,880] It's some very small charge.
+- [00:41:13,880 - 00:41:22,880] But it's not useful to think about it in coulombs.
+- [00:41:22,880 - 00:41:26,880] All particles in nature have electric charges
+- [00:41:26,880 - 00:41:30,880] which are integer multiples of the electron charge.
+- [00:41:30,880 - 00:41:32,880] This is not true of quarks,
+- [00:41:32,880 - 00:41:34,880] but quarks are not observable particles.
+- [00:41:34,880 - 00:41:35,880] All right.
+- [00:41:35,880 - 00:41:37,880] So the charge we'll just write
+- [00:41:37,880 - 00:41:39,880] as minus 1 for the electron
+- [00:41:39,880 - 00:41:43,880] and plus 1 for the positron.
+- [00:41:43,880 - 00:41:45,880] So since we typically think
+- [00:41:45,880 - 00:41:47,880] of the electron as a particle
+- [00:41:47,880 - 00:41:49,880] and the positron as the antiparticle,
+- [00:41:49,880 - 00:41:51,880] let's just call it minus 1
+- [00:41:51,880 - 00:41:55,880] and remember that the positron has the opposite charge.
+- [00:41:55,880 - 00:41:59,880] Baryon number is 0, and it's mass.
+- [00:41:59,880 - 00:42:03,880] Now we have to decide on units for mass.
+- [00:42:03,880 - 00:42:06,880] Units for mass are the same as units for energy.
+- [00:42:06,880 - 00:42:08,880] E equals mc squared.
+- [00:42:08,880 - 00:42:11,380] So we can either describe the
+- [00:42:11,380 - 00:42:13,880] mass as our mass in kilograms
+- [00:42:13,880 - 00:42:15,880] or in energy in joules,
+- [00:42:15,880 - 00:42:20,880] or we can simply invent a new unit
+- [00:42:20,880 - 00:42:23,380] which is more appropriate to
+- [00:42:23,380 - 00:42:25,880] microscopic physics, to atomic physics.
+- [00:42:25,880 - 00:42:28,880] In fact, the unit that we use
+- [00:42:28,880 - 00:42:31,880] comes originally historically out of atomic physics.
+- [00:42:31,880 - 00:42:36,380] It is the unit in which the ionization energy
+- [00:42:36,380 - 00:42:40,880] of an electron in a hydrogen atom is what?
+- [00:42:40,880 - 00:42:44,880] 13.5 electron volts.
+- [00:42:44,880 - 00:42:46,880] An electron volt is how much energy
+- [00:42:46,880 - 00:42:48,880] you get if you pass an electron
+- [00:42:48,880 - 00:42:52,880] across a capacitor plate of one volt.
+- [00:42:52,880 - 00:42:54,880] It's a very, very small amount of
+- [00:42:54,880 - 00:42:56,880] energy, some tiny fraction of a joule.
+- [00:42:56,880 - 00:42:58,880] But one electron volt is the
+- [00:42:58,880 - 00:43:00,880] amount of energy that you get
+- [00:43:00,880 - 00:43:02,380] if you pass an electron across
+- [00:43:02,380 - 00:43:03,880] a capacitor plate of one volt.
+- [00:43:03,880 - 00:43:06,880] So the electron volt is the standard
+- [00:43:06,880 - 00:43:09,880] unit that came historically out of atomic physics,
+- [00:43:09,880 - 00:43:12,880] the theory of electrons and so forth.
+- [00:43:12,880 - 00:43:14,880] It's going to wind up being
+- [00:43:14,880 - 00:43:16,880] too small a unit for us.
+- [00:43:16,880 - 00:43:19,380] Particle physics energies are
+- [00:43:19,380 - 00:43:21,880] larger than atomic physics energies,
+- [00:43:21,880 - 00:43:24,880] but for historical reasons, we have the
+- [00:43:24,880 - 00:43:27,880] electron volt as our unit of energy,
+- [00:43:27,880 - 00:43:30,880] and the mass of an electron measured in electron volts
+- [00:43:30,880 - 00:43:32,880] is one MeV.
+- [00:43:32,880 - 00:43:34,880] In fact, it's a half an electron volt.
+- [00:43:34,880 - 00:43:36,880] Not exactly.
+- [00:43:36,880 - 00:43:40,880] I think it's 0.51 MeV,
+- [00:43:40,880 - 00:43:45,880] and MeV stands for millions of electron volts.
+- [00:43:45,880 - 00:43:47,880] An MeV will be too small
+- [00:43:47,880 - 00:43:49,880] a unit for many other purposes.
+- [00:43:49,880 - 00:43:52,880] As I said, particle physics is a mess,
+- [00:43:52,880 - 00:43:55,880] and the masses of particles extend all over the map,
+- [00:43:55,880 - 00:43:58,880] and so in trying to search for a useful unit,
+- [00:43:58,880 - 00:43:59,880] you're always frustrated.
+- [00:43:59,880 - 00:44:01,380] The useful unit will always
+- [00:44:01,380 - 00:44:02,880] be too small for the next...
+- [00:44:02,880 - 00:44:04,880] Shouldn't it be exactly a half?
+- [00:44:04,880 - 00:44:05,880] No, why?
+- [00:44:09,880 - 00:44:11,880] No, it's exactly 0.51.
+- [00:44:12,880 - 00:44:13,880] No, it's not.
+- [00:44:13,880 - 00:44:16,880] What's that?
+- [00:44:16,880 - 00:44:18,880] I mean pi 3.
+- [00:44:18,880 - 00:44:19,880] Pi 3.
+- [00:44:19,880 - 00:44:21,880] Pi equals 3.
+- [00:44:21,880 - 00:44:22,880] Pi equals 3, right.
+- [00:44:22,880 - 00:44:25,880] Okay, now, we can start...
+- [00:44:25,880 - 00:44:27,880] Quantum electrodynamics is the theory of electrons,
+- [00:44:27,880 - 00:44:29,880] and photons,
+- [00:44:29,880 - 00:44:31,880] and we've talked about it a little bit,
+- [00:44:31,880 - 00:44:33,880] more than a little bit,
+- [00:44:33,880 - 00:44:34,880] and I just...
+- [00:44:34,880 - 00:44:36,880] We could also write down over here
+- [00:44:36,880 - 00:44:38,880] a table of the various...
+- [00:44:38,880 - 00:44:39,880] We won't make it a table.
+- [00:44:39,880 - 00:44:40,880] We'll just make a...
+- [00:44:40,880 - 00:44:42,880] We'll just draw some pictures.
+- [00:44:42,880 - 00:44:46,880] The basic elementary process
+- [00:44:46,880 - 00:44:49,880] that takes place in quantum electrodynamics,
+- [00:44:49,880 - 00:44:51,880] photons and electrons,
+- [00:44:51,880 - 00:44:55,880] is the emission of a photon by an electron.
+- [00:44:55,880 - 00:44:56,880] Okay.
+- [00:44:57,880 - 00:45:00,880] Electron, electron, photon,
+- [00:45:00,880 - 00:45:02,880] and as I've showed you several times,
+- [00:45:02,880 - 00:45:06,880] you can rearrange the legs of this diagram
+- [00:45:06,880 - 00:45:08,880] so that this could represent
+- [00:45:08,880 - 00:45:10,880] not the emission of a photon,
+- [00:45:10,880 - 00:45:12,880] but the absorption of a photon.
+- [00:45:12,880 - 00:45:15,880] A photon comes in from the past,
+- [00:45:15,880 - 00:45:16,880] or...
+- [00:45:16,880 - 00:45:18,880] Whoops, sorry.
+- [00:45:18,880 - 00:45:21,880] You can even flip the electron legs around
+- [00:45:21,880 - 00:45:23,880] so that it looks like this.
+- [00:45:25,880 - 00:45:27,880] Electron going backward in time.
+- [00:45:27,880 - 00:45:29,880] Well, what does that mean?
+- [00:45:29,880 - 00:45:33,880] That really means a positron emitting a photon.
+- [00:45:33,880 - 00:45:35,880] So the basic...
+- [00:45:37,880 - 00:45:41,880] building block for building up processes and interactions
+- [00:45:41,880 - 00:45:44,880] is this vertex with two electrons,
+- [00:45:44,880 - 00:45:47,880] electron, positron, whatever coming...
+- [00:45:47,880 - 00:45:49,880] One going in, one going out,
+- [00:45:49,880 - 00:45:50,880] and a photon coming out of it,
+- [00:45:50,880 - 00:45:52,880] or going into it.
+- [00:45:52,880 - 00:45:53,880] Out of that,
+- [00:45:53,880 - 00:45:55,880] you build up
+- [00:45:55,880 - 00:45:56,880] all of the various processes
+- [00:45:56,880 - 00:45:58,880] of quantum electrodynamics,
+- [00:45:58,880 - 00:45:59,880] but in particular,
+- [00:45:59,880 - 00:46:01,880] the process or the phenomena
+- [00:46:01,880 - 00:46:04,880] that corresponds to the force between charges,
+- [00:46:04,880 - 00:46:07,880] and in the language of particle exchange,
+- [00:46:07,880 - 00:46:10,880] it's the photon bouncing back and forth
+- [00:46:10,880 - 00:46:12,880] between charged particles,
+- [00:46:12,880 - 00:46:15,880] which...
+- [00:46:15,880 - 00:46:18,880] which creates that force.
+- [00:46:18,880 - 00:46:20,880] Yet another way to describe
+- [00:46:20,880 - 00:46:22,880] what's going on here
+- [00:46:22,880 - 00:46:24,880] is in terms of a Lagrangian
+- [00:46:24,880 - 00:46:26,880] or a terminal Lagrangian,
+- [00:46:26,880 - 00:46:29,880] the Lagrangian describing this process here
+- [00:46:29,880 - 00:46:32,880] describes one electron in,
+- [00:46:32,880 - 00:46:33,880] one electron out,
+- [00:46:33,880 - 00:46:35,880] and one photon out,
+- [00:46:35,880 - 00:46:36,880] and so you build that
+- [00:46:36,880 - 00:46:39,880] out of the field operators.
+- [00:46:39,880 - 00:46:43,880] One electron in
+- [00:46:43,880 - 00:46:45,880] is psi electron.
+- [00:46:45,880 - 00:46:46,880] It creates...
+- [00:46:46,880 - 00:46:49,880] It has the creation and annihilation operators in it.
+- [00:46:49,880 - 00:46:51,880] An electron out
+- [00:46:51,880 - 00:46:53,880] is psi dagger
+- [00:46:53,880 - 00:46:54,880] of the electron,
+- [00:46:54,880 - 00:46:55,880] and a photon emitted in it.
+- [00:46:56,880 - 00:46:58,880] And a photon out
+- [00:46:58,880 - 00:47:00,880] is the field operator for the photon.
+- [00:47:00,880 - 00:47:01,880] And if you plug in
+- [00:47:01,880 - 00:47:03,880] all the creation and annihilation operators,
+- [00:47:03,880 - 00:47:04,880] you will find in here,
+- [00:47:04,880 - 00:47:05,880] buried in here,
+- [00:47:05,880 - 00:47:08,880] terms where a photon is emitted,
+- [00:47:08,880 - 00:47:09,880] an electron absorbed,
+- [00:47:09,880 - 00:47:11,880] another electron emitted,
+- [00:47:11,880 - 00:47:12,880] and so forth.
+- [00:47:12,880 - 00:47:14,880] And this codifies,
+- [00:47:14,880 - 00:47:16,880] this describes
+- [00:47:16,880 - 00:47:18,880] all of the various basic processes
+- [00:47:18,880 - 00:47:21,880] that can happen in quantum electrodynamics.
+- [00:47:21,880 - 00:47:24,880] Now, there's a parameter in the Lagrangian
+- [00:47:24,880 - 00:47:25,880] that appears,
+- [00:47:25,880 - 00:47:30,880] appears the electric charge of the electron,
+- [00:47:30,880 - 00:47:32,880] and that, roughly speaking,
+- [00:47:32,880 - 00:47:36,880] is associated with the amplitude
+- [00:47:36,880 - 00:47:40,880] for a electron to emit a photon.
+- [00:47:40,880 - 00:47:41,880] An electron,
+- [00:47:41,880 - 00:47:42,880] let's say you hit the electron,
+- [00:47:42,880 - 00:47:43,880] or whatever,
+- [00:47:43,880 - 00:47:48,880] the electron plows into the side of a x-ray machine.
+- [00:47:48,880 - 00:47:51,880] What's the probability that a photon will be emitted?
+- [00:47:51,880 - 00:47:54,880] Well, the amplitude is the electric charge,
+- [00:47:54,880 - 00:47:56,880] and the probability is proportional
+- [00:47:56,880 - 00:47:58,880] to the square of the electric charge.
+- [00:47:58,880 - 00:48:00,880] So all of this here
+- [00:48:00,880 - 00:48:03,880] is a way of describing
+- [00:48:03,880 - 00:48:06,880] all of these basic processes,
+- [00:48:06,880 - 00:48:08,880] and when they're combined together,
+- [00:48:08,880 - 00:48:09,880] they produce forces,
+- [00:48:09,880 - 00:48:12,880] they produce processes where photons are emitted,
+- [00:48:12,880 - 00:48:15,880] the whole world of quantum electrodynamics
+- [00:48:15,880 - 00:48:16,880] flows out of this,
+- [00:48:16,880 - 00:48:18,880] basically, one expression here.
+- [00:48:18,880 - 00:48:21,880] We won't try to go through that again now.
+- [00:48:24,880 - 00:48:27,380] But let's start adding a
+- [00:48:27,380 - 00:48:29,880] little bit to our particle list.
+- [00:48:29,880 - 00:48:31,880] The next particles of interest,
+- [00:48:31,880 - 00:48:33,880] these are, of course, familiar to you, I'm sure.
+- [00:48:33,880 - 00:48:35,880] Now, if this were 1960,
+- [00:48:35,880 - 00:48:40,880] when I, well, I was,
+- [00:48:40,880 - 00:48:43,880] 1962, when I went to graduate school,
+- [00:48:43,880 - 00:48:45,880] probably the next particles I might write down
+- [00:48:45,880 - 00:48:50,880] would be protons and neutrons.
+- [00:48:50,880 - 00:48:53,880] Protons and neutrons are now subsumed
+- [00:48:53,880 - 00:48:56,880] by quarks.
+- [00:48:56,880 - 00:48:59,880] It is widely believed that in some sense,
+- [00:48:59,880 - 00:49:03,880] protons and neutrons are composites of quarks,
+- [00:49:03,880 - 00:49:06,880] although we will, remind me to come back
+- [00:49:06,880 - 00:49:08,880] to this issue of the difference
+- [00:49:08,880 - 00:49:11,880] or what it means to be composite versus elementary.
+- [00:49:11,880 - 00:49:13,880] It's a very interesting story.
+- [00:49:13,880 - 00:49:17,880] But naively, quarks are smaller than protons and neutrons,
+- [00:49:17,880 - 00:49:20,880] and so protons and neutrons,
+- [00:49:20,880 - 00:49:22,880] which are big fat globs,
+- [00:49:22,880 - 00:49:25,880] are made up out of quarks.
+- [00:49:25,880 - 00:49:28,880] So, next thing are quarks.
+- [00:49:28,880 - 00:49:30,880] There's a lot of quarks.
+- [00:49:30,880 - 00:49:33,880] We won't even get to all of them tonight
+- [00:49:33,880 - 00:49:35,880] or the whole set of distinctions between them.
+- [00:49:35,880 - 00:49:37,880] I don't think we will.
+- [00:49:37,880 - 00:49:41,880] But there's more than one type of quark.
+- [00:49:41,880 - 00:49:45,880] There are six types of quarks,
+- [00:49:45,880 - 00:49:48,880] six distinct particles,
+- [00:49:48,880 - 00:49:50,380] all of which are very similar
+- [00:49:50,380 - 00:49:51,880] to each other in some respects,
+- [00:49:51,880 - 00:49:54,880] very different from each other in other respects.
+- [00:49:54,880 - 00:49:56,880] So let's list them.
+- [00:49:56,880 - 00:49:58,880] There are...
+- [00:49:58,880 - 00:50:00,880] They go under... They have names, all right?
+- [00:50:00,880 - 00:50:02,880] Well, why are they called what they are?
+- [00:50:02,880 - 00:50:05,880] They're called what they are just historically,
+- [00:50:05,880 - 00:50:08,880] randomly people assigned silly names to them,
+- [00:50:08,880 - 00:50:11,880] and there's no logic to what they're called,
+- [00:50:11,880 - 00:50:13,880] no logic at all.
+- [00:50:13,880 - 00:50:16,880] There's first of all the up quark,
+- [00:50:16,880 - 00:50:18,880] and that's called U.
+- [00:50:18,880 - 00:50:20,880] The symbol is U.
+- [00:50:20,880 - 00:50:22,380] Well, let's see. We should
+- [00:50:22,380 - 00:50:23,880] write there are quarks here. Quarks.
+- [00:50:25,880 - 00:50:28,880] And I suppose the symbol for quarks is Q.
+- [00:50:28,880 - 00:50:31,880] All quarks are fermions.
+- [00:50:31,880 - 00:50:33,880] We'll write down their charge later.
+- [00:50:33,880 - 00:50:37,880] They have all baryon number of one-third.
+- [00:50:37,880 - 00:50:39,880] Now, why one-third?
+- [00:50:39,880 - 00:50:41,880] Well, the reason is very simple.
+- [00:50:41,880 - 00:50:44,880] The baryon number is basically the counting
+- [00:50:44,880 - 00:50:47,880] of the number of protons and neutrons.
+- [00:50:47,880 - 00:50:49,880] Each proton is counted
+- [00:50:49,880 - 00:50:52,880] as having one unit of baryon number.
+- [00:50:52,880 - 00:50:55,880] Each neutron is counted as having one unit of baryon.
+- [00:50:55,880 - 00:50:58,880] Baryon is just a word for protons and neutrons
+- [00:50:58,880 - 00:51:02,880] and a somewhat generalization of protons and neutrons.
+- [00:51:02,880 - 00:51:06,880] Nucleon is a word for protons and neutrons.
+- [00:51:06,880 - 00:51:08,880] There are other particles which we'll come to
+- [00:51:08,880 - 00:51:11,880] which are very similar to protons and neutrons.
+- [00:51:11,880 - 00:51:14,880] They're also called baryons.
+- [00:51:14,880 - 00:51:17,880] The prefix bary, I think, means heavy.
+- [00:51:19,880 - 00:51:22,380] And baryons, we'll call baryons because
+- [00:51:22,380 - 00:51:24,880] they're a lot heavier than electrons.
+- [00:51:24,880 - 00:51:28,880] But counting up the number of protons and neutrons,
+- [00:51:28,880 - 00:51:30,880] what do you call the number
+- [00:51:30,880 - 00:51:32,880] of protons plus neutrons in an atom?
+- [00:51:32,880 - 00:51:34,880] The atomic weight.
+- [00:51:34,880 - 00:51:37,880] Yeah, the atomic weight.
+- [00:51:37,880 - 00:51:42,880] The atomic weight is equal, approximately equal,
+- [00:51:42,880 - 00:51:45,880] to the total number of protons and neutrons.
+- [00:51:45,880 - 00:51:47,880] And the total number of protons and neutrons is
+- [00:51:47,880 - 00:51:49,880] equal to the total number of protons and neutrons.
+- [00:51:49,880 - 00:51:51,380] So the number of protons and
+- [00:51:51,380 - 00:51:52,880] neutrons in nuclear physics never changes.
+- [00:51:52,880 - 00:51:54,880] Protons can turn into neutrons.
+- [00:51:54,880 - 00:51:57,880] Neutrons can turn into protons plus other things.
+- [00:51:57,880 - 00:52:02,880] But the number of protons plus neutrons never changes.
+- [00:52:02,880 - 00:52:05,880] You have isotopes.
+- [00:52:05,880 - 00:52:07,880] You do have isotopes.
+- [00:52:07,880 - 00:52:09,880] But still, the number of
+- [00:52:09,880 - 00:52:11,880] protons plus neutrons doesn't change.
+- [00:52:11,880 - 00:52:13,880] The number of protons can change.
+- [00:52:13,880 - 00:52:15,880] How can the number of protons change?
+- [00:52:15,880 - 00:52:17,380] No, no, I'm just saying that
+- [00:52:17,380 - 00:52:18,880] different isotopes have different numbers of neutrons.
+- [00:52:18,880 - 00:52:20,880] Oh, yeah, indeed they do.
+- [00:52:20,880 - 00:52:22,880] But are there processes where the
+- [00:52:22,880 - 00:52:24,880] number of protons and neutrons change?
+- [00:52:24,880 - 00:52:27,380] Protons, not plus neutrons, but
+- [00:52:27,380 - 00:52:29,880] protons and or neutrons change?
+- [00:52:29,880 - 00:52:31,880] Beta decay, radioactivity.
+- [00:52:31,880 - 00:52:34,880] In radioactivity, one form of radioactivity,
+- [00:52:34,880 - 00:52:38,380] a neutron decays into a proton
+- [00:52:38,380 - 00:52:41,880] plus an electron and an antineutrino.
+- [00:52:41,880 - 00:52:43,880] Okay, so in that process, the
+- [00:52:43,880 - 00:52:45,880] number of protons changes by one,
+- [00:52:45,880 - 00:52:47,880] the number of neutrons changes by one,
+- [00:52:47,880 - 00:52:50,880] but the number of protons plus neutrons doesn't change.
+- [00:52:50,880 - 00:52:53,380] There's a generalization of that in
+- [00:52:53,380 - 00:52:55,880] all of nuclear physics and particle physics.
+- [00:52:55,880 - 00:52:58,880] There's a certain quantity
+- [00:52:58,880 - 00:53:01,880] which, for ordinary nuclear physics,
+- [00:53:01,880 - 00:53:03,880] is just the number of protons plus neutrons,
+- [00:53:03,880 - 00:53:08,880] and that number is sometimes called the baryon number.
+- [00:53:08,880 - 00:53:10,880] We'll have to generalize it a
+- [00:53:10,880 - 00:53:12,880] little bit beyond protons and neutrons.
+- [00:53:12,880 - 00:53:14,880] It's the baryon number, and it could have
+- [00:53:14,880 - 00:53:16,880] been defined to be two for the protons,
+- [00:53:16,880 - 00:53:19,880] or seven for the protons, or pi for the protons,
+- [00:53:19,880 - 00:53:21,880] but whatever it is, it has to be
+- [00:53:21,880 - 00:53:23,880] defined as twice as much for two protons,
+- [00:53:23,880 - 00:53:25,880] three times as much for three protons.
+- [00:53:25,880 - 00:53:28,380] So it's a convention that you say
+- [00:53:28,380 - 00:53:30,880] the baryon number of the proton is one.
+- [00:53:30,880 - 00:53:34,880] Incidentally, what's the baryon number of the antiproton?
+- [00:53:34,880 - 00:53:36,880] Minus one.
+- [00:53:36,880 - 00:53:38,880] Minus one.
+- [00:53:38,880 - 00:53:41,380] Proton has baryon number plus
+- [00:53:41,380 - 00:53:43,880] one, antiproton, baryon number minus one.
+- [00:53:43,880 - 00:53:45,880] Neutron, baryon number minus one.
+- [00:53:46,880 - 00:53:49,880] Antineutron, baryon number minus one.
+- [00:53:49,880 - 00:53:52,380] But clearly there's an element of
+- [00:53:52,380 - 00:53:54,880] convention in exactly what you call them.
+- [00:53:54,880 - 00:53:56,880] But once it was fixed that the
+- [00:53:56,880 - 00:53:58,880] baryon number of a proton was one,
+- [00:53:58,880 - 00:54:01,880] then the baryon number of a quark was a third,
+- [00:54:01,880 - 00:54:05,880] because three quarks make a proton.
+- [00:54:05,880 - 00:54:09,380] So it's just a historical glitch that the baryon
+- [00:54:09,380 - 00:54:12,880] number of the most fundamental thing in nuclear physics
+- [00:54:12,880 - 00:54:14,880] is one third and not one.
+- [00:54:14,880 - 00:54:16,880] What about an antiquark?
+- [00:54:16,880 - 00:54:18,880] There are antiquarks.
+- [00:54:18,880 - 00:54:21,880] Baryon number is minus a third.
+- [00:54:21,880 - 00:54:23,880] So I won't write that down separately.
+- [00:54:23,880 - 00:54:27,880] The number of quarks is conserved?
+- [00:54:27,880 - 00:54:30,380] Number of quarks minus the
+- [00:54:30,380 - 00:54:32,880] number of antiquarks is conserved.
+- [00:54:32,880 - 00:54:37,880] Now, whether or not that is an absolute conservation law,
+- [00:54:37,880 - 00:54:41,880] it is not believed to be an absolute conservation law.
+- [00:54:41,880 - 00:54:43,880] What do I mean by absolute conservation law?
+- [00:54:43,880 - 00:54:45,880] Can a proton disappear?
+- [00:54:45,880 - 00:54:47,880] It can't completely disappear.
+- [00:54:47,880 - 00:54:49,880] Its energy has to go someplace.
+- [00:54:49,880 - 00:54:53,880] Are there processes in nature where a proton might disappear
+- [00:54:53,880 - 00:54:55,880] and become something that is
+- [00:54:55,880 - 00:54:57,880] neither a proton nor a neutron
+- [00:54:57,880 - 00:55:00,880] or anything else that you would call a baryon?
+- [00:55:00,880 - 00:55:04,880] For example, without violating charge conservation,
+- [00:55:04,880 - 00:55:09,880] a proton could become a positron and a photon.
+- [00:55:09,880 - 00:55:12,380] So a proton could decay
+- [00:55:12,380 - 00:55:14,880] into a positron and a photon.
+- [00:55:14,880 - 00:55:15,880] Does it?
+- [00:55:15,880 - 00:55:16,880] Well, you can wait.
+- [00:55:16,880 - 00:55:18,380] If you have a single proton
+- [00:55:18,380 - 00:55:19,880] and you sit there and wait,
+- [00:55:19,880 - 00:55:22,380] you will wait a long,
+- [00:55:22,380 - 00:55:24,880] long time before that proton decays.
+- [00:55:24,880 - 00:55:29,380] Its half-life to decay that way is at least
+- [00:55:29,380 - 00:55:33,880] 10 to the 33 or 10 to the 34 years.
+- [00:55:33,880 - 00:55:37,880] So this is not something that happens very regularly.
+- [00:55:37,880 - 00:55:40,880] Does it happen at all?
+- [00:55:40,880 - 00:55:42,880] The thinking is yes, it does,
+- [00:55:42,880 - 00:55:44,880] but this is one of the
+- [00:55:44,880 - 00:55:46,880] very, very interesting questions of particle physics
+- [00:55:46,880 - 00:55:49,880] of whether the proton can decay.
+- [00:55:49,880 - 00:55:50,880] And when you say can it decay,
+- [00:55:50,880 - 00:55:53,880] you mean decay into something that
+- [00:55:53,880 - 00:55:56,880] does not carry a baryon number.
+- [00:55:56,880 - 00:55:59,880] And it is widely believed that the answer is yes,
+- [00:55:59,880 - 00:56:01,880] but it has never been demonstrated.
+- [00:56:01,880 - 00:56:04,380] Incidentally, how do you wait around for 10
+- [00:56:04,380 - 00:56:06,880] to the 34 years for a proton to decay?
+- [00:56:06,880 - 00:56:09,380] You get 10 to the 34 protons
+- [00:56:09,380 - 00:56:11,880] and you wait around for one of them
+- [00:56:11,880 - 00:56:13,880] and you see one.
+- [00:56:13,880 - 00:56:15,880] Now 10 to the 34
+- [00:56:15,880 - 00:56:17,880] protons is a lot of protons.
+- [00:56:17,880 - 00:56:20,880] If you have protons and antiprotons together.
+- [00:56:20,880 - 00:56:22,880] No, that's not that.
+- [00:56:22,880 - 00:56:25,380] That's zero baryon number because
+- [00:56:25,380 - 00:56:27,880] it goes to zero baryon number.
+- [00:56:27,880 - 00:56:29,880] A proton has baryon number one.
+- [00:56:29,880 - 00:56:31,880] An antiproton has baryon number minus one.
+- [00:56:31,880 - 00:56:34,880] So that's not a baryon.
+- [00:56:34,880 - 00:56:37,880] We call them baryon-violating processes,
+- [00:56:37,880 - 00:56:41,880] processes in which the baryon number is not conserved.
+- [00:56:41,880 - 00:56:45,380] Nobody has ever witnessed such a process
+- [00:56:45,380 - 00:56:48,880] in the laboratory or any place else.
+- [00:56:48,880 - 00:56:51,880] Can they happen?
+- [00:56:51,880 - 00:56:53,380] There does not seem to be
+- [00:56:53,380 - 00:56:54,880] any reason why they cannot happen
+- [00:56:54,880 - 00:56:57,880] built into the mathematics of what we know.
+- [00:56:57,880 - 00:56:59,880] So we leave this as an open question,
+- [00:56:59,880 - 00:57:02,380] but empirically and at least
+- [00:57:02,380 - 00:57:04,880] to a very, very high precision,
+- [00:57:04,880 - 00:57:07,880] baryon number is conserved and quarks by
+- [00:57:07,880 - 00:57:10,880] definition have one third of a unit.
+- [00:57:10,880 - 00:57:11,880] One third of a unit.
+- [00:57:11,880 - 00:57:12,880] That's the number one,
+- [00:57:12,880 - 00:57:14,880] minus a third for antiquarks.
+- [00:57:14,880 - 00:57:16,880] But in order to fill in the rest of this,
+- [00:57:16,880 - 00:57:19,880] in particular electric charge and mass,
+- [00:57:19,880 - 00:57:21,380] we have to label which
+- [00:57:21,380 - 00:57:22,880] kind of quark we're talking about.
+- [00:57:22,880 - 00:57:25,880] And there are lots of different kinds of quarks.
+- [00:57:25,880 - 00:57:27,380] So let's put in the
+- [00:57:27,380 - 00:57:28,880] list of different kinds of quarks.
+- [00:57:28,880 - 00:57:31,880] This is not new particles, which are not quarks.
+- [00:57:31,880 - 00:57:33,880] This is just a subheading
+- [00:57:33,880 - 00:57:35,880] here, quarks and then things underneath.
+- [00:57:35,880 - 00:57:38,880] There are up quarks, down quarks.
+- [00:57:38,880 - 00:57:39,880] Why are they up and
+- [00:57:39,880 - 00:57:40,880] down and not up and down?
+- [00:57:40,880 - 00:57:43,880] There's nothing up and down about them.
+- [00:57:43,880 - 00:57:49,880] What direction?
+- [00:57:49,880 - 00:57:50,880] Up and down?
+- [00:57:50,880 - 00:57:52,880] Up and down means in the Earth's gravitational field.
+- [00:57:52,880 - 00:57:55,880] There's nothing upy or downy about them.
+- [00:57:55,880 - 00:57:57,880] Then it gets worse.
+- [00:57:57,880 - 00:58:00,380] There are strange quarks, which
+- [00:58:00,380 - 00:58:02,880] are no stranger than non-strange quarks.
+- [00:58:02,880 - 00:58:04,880] It gets more silly.
+- [00:58:04,880 - 00:58:07,880] There are charm quarks, which are charming, I suppose.
+- [00:58:07,880 - 00:58:09,880] I don't know.
+- [00:58:09,880 - 00:58:12,880] Then there are, now this is, if you don't,
+- [00:58:12,880 - 00:58:17,880] if you're squeamish or very,
+- [00:58:17,880 - 00:58:22,880] bottom quarks, bottom quarks.
+- [00:58:22,880 - 00:58:27,880] Bottom quarks and then top quarks.
+- [00:58:27,880 - 00:58:30,880] The symbols are, of course, exactly the same.
+- [00:58:30,880 - 00:58:32,880] I just didn't feel like writing the words.
+- [00:58:32,880 - 00:58:35,880] Up, down, strange, charm, bottom, top.
+- [00:58:35,880 - 00:58:37,880] Isn't there a beauty and truth?
+- [00:58:37,880 - 00:58:39,880] Same as bottom and top.
+- [00:58:39,880 - 00:58:42,380] I got a little pretentious beauty
+- [00:58:42,380 - 00:58:44,880] and truth, so bottom and top.
+- [00:58:44,880 - 00:58:47,880] Strange and charm.
+- [00:58:47,880 - 00:58:51,880] How and under what circumstances these
+- [00:58:51,880 - 00:58:55,880] things were named is not interesting.
+- [00:58:55,880 - 00:58:56,880] I don't know.
+- [00:58:56,880 - 00:58:59,880] I do know, but never mind.
+- [00:58:59,880 - 00:59:00,880] They're all fermions.
+- [00:59:00,880 - 00:59:03,880] Okay, the symbols are just what I wrote here.
+- [00:59:03,880 - 00:59:04,880] They're all fermions.
+- [00:59:04,880 - 00:59:07,880] What's the field symbol?
+- [00:59:07,880 - 00:59:15,880] Sometimes Q, sometimes Psi Q, sometimes capital Q.
+- [00:59:15,880 - 00:59:17,880] Sometimes, depending if you're talking
+- [00:59:17,880 - 00:59:19,880] about the individual types of them,
+- [00:59:19,880 - 00:59:22,880] you'll just use U, D, S, C, B, or T.
+- [00:59:22,880 - 00:59:24,380] Use the same names for the
+- [00:59:24,380 - 00:59:25,880] fields as you use for the particles.
+- [00:59:29,880 - 00:59:32,380] And there's no completely coherent
+- [00:59:32,380 - 00:59:34,880] convention that everybody sticks to.
+- [00:59:34,880 - 00:59:35,880] All right, they're all fermions.
+- [00:59:35,880 - 00:59:37,880] The whole lot of them are fermions.
+- [00:59:37,880 - 00:59:38,880] As I said.
+- [00:59:38,880 - 00:59:40,880] But now comes the charges.
+- [00:59:40,880 - 00:59:49,880] So it's useful to divide them into groups of two.
+- [00:59:49,880 - 00:59:52,880] These groups of two are
+- [00:59:52,880 - 00:59:55,880] sort of repetitions of each other.
+- [00:59:55,880 - 00:59:57,880] This group of two, in
+- [00:59:57,880 - 00:59:59,880] many ways, is isomorphic, not exactly,
+- [00:59:59,880 - 01:00:01,880] to this group of two, which
+- [01:00:01,880 - 01:00:03,880] is the same as, not the same,
+- [01:00:03,880 - 01:00:05,380] but which follows the same
+- [01:00:05,380 - 01:00:06,880] pattern, the pattern of these two.
+- [01:00:06,880 - 01:00:09,880] It's similar to the pattern of these two.
+- [01:00:09,880 - 01:00:10,880] Similar, oh, I got them upside down.
+- [01:00:10,880 - 01:00:12,880] Excuse me, wait.
+- [01:00:12,880 - 01:00:16,880] If I want to keep the pattern, let me see.
+- [01:00:16,880 - 01:00:19,880] I think I want to put down, up.
+- [01:00:19,880 - 01:00:25,880] Down, up, strange, down, up, strange, charm, bottom, top.
+- [01:00:25,880 - 01:00:28,880] Yeah.
+- [01:00:28,880 - 01:00:29,880] All right.
+- [01:00:29,880 - 01:00:31,880] So the down, up system is
+- [01:00:31,880 - 01:00:33,880] very similar to the strange, charm system,
+- [01:00:33,880 - 01:00:35,880] is very similar to the bottom, top system.
+- [01:00:35,880 - 01:00:38,880] So let's write down what the electric charges are,
+- [01:00:38,880 - 01:00:39,880] and you can see them.
+- [01:00:39,880 - 01:00:41,880] You can see this similarity.
+- [01:00:41,880 - 01:00:45,380] The down, up system has charge
+- [01:00:45,380 - 01:00:48,880] minus a third and two thirds.
+- [01:00:48,880 - 01:00:51,880] That's the first example of
+- [01:00:51,880 - 01:00:54,880] particles in nature which have charges
+- [01:00:54,880 - 01:00:56,880] which are not integer multiples of
+- [01:00:56,880 - 01:00:58,880] the electric charge of the electron.
+- [01:00:58,880 - 01:00:59,880] Okay.
+- [01:00:59,880 - 01:01:05,880] However, quarks by themselves do not exist freely in nature.
+- [01:01:05,880 - 01:01:08,380] They're always bound into other
+- [01:01:08,380 - 01:01:10,880] structures, protons, neutrons, and so forth.
+- [01:01:10,880 - 01:01:14,880] And those particles do have integer charges.
+- [01:01:14,880 - 01:01:15,880] Okay.
+- [01:01:15,880 - 01:01:19,380] The strange and the charm, exactly the
+- [01:01:19,380 - 01:01:22,880] same thing, minus a third and two thirds.
+- [01:01:22,880 - 01:01:25,880] Bottom and top, exactly the same,
+- [01:01:25,880 - 01:01:28,880] minus a third and two thirds.
+- [01:01:28,880 - 01:01:30,880] Can that be read?
+- [01:01:30,880 - 01:01:33,880] They're just repetitions of the same thing.
+- [01:01:33,880 - 01:01:34,880] What about the antiparticles?
+- [01:01:34,880 - 01:01:37,880] If I were to list the antiparticles over here,
+- [01:01:37,880 - 01:01:40,380] they would just have exactly the same
+- [01:01:40,380 - 01:01:42,880] charges as the particles except opposite sign.
+- [01:01:42,880 - 01:01:47,880] So this is simply replication
+- [01:01:47,880 - 01:01:52,880] for some reason that nobody understands.
+- [01:01:52,880 - 01:01:55,880] Nobody even has any idea
+- [01:01:55,880 - 01:01:58,880] why nature replicated itself this way.
+- [01:01:58,880 - 01:02:02,880] Are they still all bearing out a number one third?
+- [01:02:02,880 - 01:02:03,880] Yeah.
+- [01:02:03,880 - 01:02:05,880] They're all bearing out a number one third.
+- [01:02:05,880 - 01:02:06,880] Right.
+- [01:02:06,880 - 01:02:07,880] Okay.
+- [01:02:07,880 - 01:02:09,880] And then the masses.
+- [01:02:09,880 - 01:02:15,880] The masses are not similar to each other.
+- [01:02:15,880 - 01:02:21,880] The masses wildly vary.
+- [01:02:21,880 - 01:02:23,880] I'm going to put down estimates
+- [01:02:23,880 - 01:02:25,880] for them because the precise value,
+- [01:02:25,880 - 01:02:27,880] well, there are precise values of the masses,
+- [01:02:27,880 - 01:02:29,880] but you can go look them
+- [01:02:29,880 - 01:02:31,880] up on Google or wherever you want.
+- [01:02:31,880 - 01:02:38,880] The down quark is about 10 MeV.
+- [01:02:38,880 - 01:02:42,880] So it's 50 times heavier than the electron.
+- [01:02:42,880 - 01:02:44,880] A lot lighter than the proton.
+- [01:02:44,880 - 01:02:46,880] Incidentally, what's the proton mass?
+- [01:02:46,880 - 01:02:53,880] About 1,800 times the electron mass.
+- [01:02:53,880 - 01:02:57,880] In other words, about 940 MeV.
+- [01:02:57,880 - 01:02:59,880] This is a lot lighter than a proton.
+- [01:02:59,880 - 01:03:03,880] The up quark, about 5
+- [01:03:03,880 - 01:03:07,880] MeV, less than the down quark.
+- [01:03:07,880 - 01:03:10,380] And protons are made only out
+- [01:03:10,380 - 01:03:12,880] of up quarks and down quarks.
+- [01:03:12,880 - 01:03:15,380] So it doesn't look like
+- [01:03:15,380 - 01:03:17,880] there's nearly enough mass in quarks
+- [01:03:17,880 - 01:03:21,880] to be the mass of a proton or neutron.
+- [01:03:21,880 - 01:03:23,880] We'll come back to that.
+- [01:03:23,880 - 01:03:26,380] The point is, of course, there's more
+- [01:03:26,380 - 01:03:28,880] in a proton than just its quarks.
+- [01:03:28,880 - 01:03:30,880] Strange and charm.
+- [01:03:30,880 - 01:03:34,880] Strange is roughly order of magnitude 100 MeV.
+- [01:03:34,880 - 01:03:37,880] That's strange.
+- [01:03:37,880 - 01:03:43,880] And charm is a little over about 1,000 MeV.
+- [01:03:43,880 - 01:03:46,880] Now notice that the down quark
+- [01:03:46,880 - 01:03:49,880] is heavier than the up quark.
+- [01:03:49,880 - 01:03:51,880] But the strange quark, which
+- [01:03:51,880 - 01:03:53,880] is analogous to the down quark,
+- [01:03:53,880 - 01:03:55,880] is lighter than the charm quark.
+- [01:03:55,880 - 01:03:57,880] So there's some pattern of inversion here.
+- [01:03:57,880 - 01:03:59,880] Of the masses.
+- [01:03:59,880 - 01:04:03,880] Again, nobody understands at all why that's true.
+- [01:04:03,880 - 01:04:05,880] Charm is about 1,000 MeV.
+- [01:04:05,880 - 01:04:07,880] Yeah, charm is about 1,000 MeV.
+- [01:04:07,880 - 01:04:09,880] 12, a little more than that.
+- [01:04:09,880 - 01:04:11,880] You were about 100 MeV.
+- [01:04:11,880 - 01:04:13,880] The right hand side was about 0.
+- [01:04:13,880 - 01:04:15,880] Oh, sorry. 100. Missed the 0.
+- [01:04:15,880 - 01:04:17,880] Decimal creep.
+- [01:04:17,880 - 01:04:21,880] We come out better on the film that way.
+- [01:04:21,880 - 01:04:24,880] Okay. 1,000 MeV.
+- [01:04:24,880 - 01:04:26,880] And the bottom quark is about 5,000.
+- [01:04:26,880 - 01:04:30,880] Oh, this is called a GeV.
+- [01:04:30,880 - 01:04:33,880] Giga electron volt.
+- [01:04:33,880 - 01:04:37,880] The bottom quark, see we keep changing units.
+- [01:04:37,880 - 01:04:41,880] That's about 5 GeV.
+- [01:04:41,880 - 01:04:46,880] And the top quark is about 170 GeV.
+- [01:04:46,880 - 01:04:50,880] So how much heavier is the
+- [01:04:50,880 - 01:04:54,880] top quark than the up quark?
+- [01:04:54,880 - 01:04:56,880] Can anybody do that calculation?
+- [01:04:56,880 - 01:04:58,880] Oh.
+- [01:04:58,978 - 01:04:59,378] مرحبا
+- [01:05:00,162 - 01:05:04,562] How much? 30,000? A lot. A lot.
+- [01:05:05,562 - 01:05:07,662] So on the one hand, these
+- [01:05:07,662 - 01:05:09,762] particles are extremely similar to each other.
+- [01:05:09,762 - 01:05:13,162] They do the same things, they have the same properties,
+- [01:05:13,162 - 01:05:15,062] and yet they have masses
+- [01:05:15,062 - 01:05:16,962] which wander all over the map.
+- [01:05:16,962 - 01:05:19,762] Does anybody understand why? No.
+- [01:05:20,562 - 01:05:22,462] Are there any ideas? Yes.
+- [01:05:22,462 - 01:05:24,362] Do any of them work? No.
+- [01:05:24,362 - 01:05:30,762] We don't even have a clue about why there's...
+- [01:05:30,762 - 01:05:32,562] First of all, we don't even understand,
+- [01:05:32,562 - 01:05:34,362] of course, why there's even one of them.
+- [01:05:35,162 - 01:05:38,362] One family. These are called families.
+- [01:05:38,362 - 01:05:40,362] Why is there one family? Well, we don't
+- [01:05:40,362 - 01:05:42,362] know, but for sure, if there wasn't one family,
+- [01:05:42,362 - 01:05:43,762] we wouldn't be here because there
+- [01:05:43,762 - 01:05:45,162] would be no protons and neutrons.
+- [01:05:45,162 - 01:05:46,762] But given that there's this one
+- [01:05:46,762 - 01:05:48,362] family of up quarks and down quarks,
+- [01:05:48,362 - 01:05:50,362] why are there strange quarks and charm
+- [01:05:50,362 - 01:05:52,362] quarks, or top quarks and bottom quarks?
+- [01:05:52,362 - 01:05:53,962] Nobody has a clue.
+- [01:05:53,962 - 01:05:56,962] Can I ask you a stupid question? Yeah.
+- [01:05:56,962 - 01:06:00,962] When these quarks were found, the story goes
+- [01:06:00,962 - 01:06:04,962] that they were looking in a certain place
+- [01:06:04,962 - 01:06:07,462] because the math said the
+- [01:06:07,462 - 01:06:09,962] mass should be a certain amount.
+- [01:06:10,962 - 01:06:12,362] You know something about this?
+- [01:06:12,362 - 01:06:14,862] In other words, they said
+- [01:06:14,862 - 01:06:17,362] that they went through the calculations
+- [01:06:17,362 - 01:06:19,162] and they knew that this is
+- [01:06:19,162 - 01:06:20,962] where it was going to be,
+- [01:06:20,962 - 01:06:22,462] that it was going to
+- [01:06:22,462 - 01:06:23,962] be somewhere around so many GeVs,
+- [01:06:23,962 - 01:06:25,962] and they knew that they were going to find it.
+- [01:06:25,962 - 01:06:27,962] Oh, the top quark in particular.
+- [01:06:27,962 - 01:06:29,962] Yeah, and they predicted that it would be
+- [01:06:29,962 - 01:06:31,962] there before they went and looked for it.
+- [01:06:31,962 - 01:06:34,962] Yeah, but not on the basis of abstract theory,
+- [01:06:34,962 - 01:06:40,962] but on the basis of how the top
+- [01:06:40,962 - 01:06:46,962] quark would work its way into other particles, properties.
+- [01:06:46,962 - 01:06:48,462] I was just saying, because
+- [01:06:48,462 - 01:06:49,962] you just said that the numbers,
+- [01:06:49,962 - 01:06:51,962] and nobody knows why, and they're all over the ballpark,
+- [01:06:51,962 - 01:06:52,462] but yet they seem to
+- [01:06:52,462 - 01:06:52,962] know that that's where it is.
+- [01:06:52,962 - 01:07:02,962] Yeah, but not because there was any basic underlying reason
+- [01:07:02,962 - 01:07:05,962] why the top quark had that mass.
+- [01:07:05,962 - 01:07:07,962] What you could do is you could say,
+- [01:07:07,962 - 01:07:09,962] supposing the top quark had a certain mass,
+- [01:07:09,962 - 01:07:12,962] and then calculate various Feynman diagrams
+- [01:07:12,962 - 01:07:15,962] involving the top quark in various ways.
+- [01:07:15,962 - 01:07:18,462] Feynman diagrams involving ordinary
+- [01:07:18,462 - 01:07:20,962] particles, not the top quark,
+- [01:07:20,962 - 01:07:22,962] but which had top quark in the top quark,
+- [01:07:22,962 - 01:07:25,962] and then you could say, well, there's top
+- [01:07:25,962 - 01:07:28,962] quarks running around in the interior of diagrams.
+- [01:07:28,962 - 01:07:31,962] You calculate those diagrams.
+- [01:07:31,962 - 01:07:34,962] Those diagrams have an effect on processes
+- [01:07:34,962 - 01:07:37,962] involving other particles that you know very well,
+- [01:07:37,962 - 01:07:39,962] and then you say, what does the
+- [01:07:39,962 - 01:07:41,962] mass of this top quark have to be
+- [01:07:41,962 - 01:07:44,462] in order that it does the
+- [01:07:44,462 - 01:07:46,962] right thing for these other particles?
+- [01:07:46,962 - 01:07:50,962] So it was not in any sense a deep understanding
+- [01:07:50,962 - 01:07:52,962] of what it was.
+- [01:07:52,962 - 01:07:54,462] It was simply an observation
+- [01:07:54,462 - 01:07:55,962] that you needed that particular value
+- [01:07:55,962 - 01:07:59,462] of the top quark mass in
+- [01:07:59,462 - 01:08:02,962] order that it be consistent with...
+- [01:08:02,962 - 01:08:04,962] Yeah, right.
+- [01:08:04,962 - 01:08:07,962] So you can't observe a quark, but
+- [01:08:07,962 - 01:08:10,962] you can predict how it will disappear.
+- [01:08:10,962 - 01:08:12,962] What will happen if there is one?
+- [01:08:12,962 - 01:08:14,962] What kind of showers and directions
+- [01:08:14,962 - 01:08:16,962] and energies of particles will be included?
+- [01:08:16,962 - 01:08:18,962] Go ahead.
+- [01:08:18,962 - 01:08:19,962] Go ahead.
+- [01:08:19,962 - 01:08:21,962] You're asking or you're saying?
+- [01:08:21,962 - 01:08:24,962] Yeah, if that's how it would detect the quark.
+- [01:08:26,962 - 01:08:29,462] To say that you can't detect
+- [01:08:29,462 - 01:08:31,962] a quark becomes, to a certain extent,
+- [01:08:31,962 - 01:08:34,962] a matter of definition, what
+- [01:08:34,962 - 01:08:37,962] it means to detect a quark.
+- [01:08:37,962 - 01:08:42,962] You can certainly detect evidence of quarks.
+- [01:08:42,962 - 01:08:45,962] What you can't do is create an
+- [01:08:45,962 - 01:08:48,962] isolated quark in isolation from other things
+- [01:08:48,962 - 01:08:50,962] and then examine it.
+- [01:08:50,962 - 01:08:51,962] But we'll come.
+- [01:08:51,962 - 01:08:52,962] We're going to come to the question.
+- [01:08:52,962 - 01:08:54,962] I think you're probably remarking about jets produced...
+- [01:08:54,962 - 01:08:56,962] Well, I don't know what you're talking about.
+- [01:08:56,962 - 01:08:57,962] Yeah, we can talk about jets.
+- [01:08:57,962 - 01:09:00,462] Let's come back to it
+- [01:09:00,462 - 01:09:02,962] after we've talked more about quarks.
+- [01:09:02,962 - 01:09:05,462] Does the fact that some quarks
+- [01:09:05,462 - 01:09:07,962] have twice the charge and absolute values
+- [01:09:07,962 - 01:09:09,962] on Earth, is that from theory
+- [01:09:09,962 - 01:09:11,962] or is that just a bookkeeping concept?
+- [01:09:11,962 - 01:09:12,962] Semi-theory.
+- [01:09:12,962 - 01:09:15,962] Yeah, to some extent that is understood.
+- [01:09:15,962 - 01:09:17,962] I'm not going to explain it.
+- [01:09:17,962 - 01:09:20,462] I'm not going to explain it now,
+- [01:09:20,462 - 01:09:22,962] but now I'm telling you the facts.
+- [01:09:22,962 - 01:09:25,962] We can talk about how much of this
+- [01:09:25,962 - 01:09:28,962] is explained and how much of the pattern is...
+- [01:09:28,962 - 01:09:30,962] The right question is how
+- [01:09:30,962 - 01:09:32,962] much of this pattern is required
+- [01:09:32,962 - 01:09:36,962] for theoretical, mathematical consistency.
+- [01:09:36,962 - 01:09:38,962] But we haven't gotten there yet.
+- [01:09:38,962 - 01:09:40,962] Some of this pattern is required.
+- [01:09:40,962 - 01:09:42,462] Yeah, some of this pattern is
+- [01:09:42,462 - 01:09:43,962] required, but not much of it.
+- [01:09:43,962 - 01:09:46,962] Very little of it is required by mathematical consistency.
+- [01:09:47,962 - 01:09:48,962] Question?
+- [01:09:48,962 - 01:09:49,962] No.
+- [01:09:49,962 - 01:09:53,962] Is the relative abundance of the six kinds of quarks...
+- [01:09:53,962 - 01:09:56,962] Relative abundance in where?
+- [01:09:56,962 - 01:10:00,962] What do you mean by relative abundance?
+- [01:10:00,962 - 01:10:02,962] You mean in the world?
+- [01:10:02,962 - 01:10:05,962] In the universe, yeah.
+- [01:10:05,962 - 01:10:07,962] There are very...
+- [01:10:07,962 - 01:10:10,962] Neutrons are unstable, they decay.
+- [01:10:10,962 - 01:10:13,962] Protons are stable, they exist
+- [01:10:13,962 - 01:10:16,962] in intergalactic space and everything else.
+- [01:10:17,962 - 01:10:18,962] They're all...
+- [01:10:18,962 - 01:10:20,462] Oh yeah, the only thing
+- [01:10:20,462 - 01:10:21,962] that has any appreciable abundance...
+- [01:10:21,962 - 01:10:22,962] All the...
+- [01:10:22,962 - 01:10:25,962] All right, first of all, the only quarks which
+- [01:10:25,962 - 01:10:28,962] have any degree of stability are ups and downs.
+- [01:10:28,962 - 01:10:31,962] The rest of these decay to these.
+- [01:10:31,962 - 01:10:35,462] So the real abundance of real particles
+- [01:10:35,462 - 01:10:38,962] in the universe are all ups and downs.
+- [01:10:38,962 - 01:10:39,962] Okay?
+- [01:10:39,962 - 01:10:42,962] Now, what's the relative abundance of ups and downs?
+- [01:10:42,962 - 01:10:45,462] That's determined by how many quarks of
+- [01:10:45,462 - 01:10:47,962] each type there are in a proton.
+- [01:10:47,962 - 01:10:48,962] There are no neutrons.
+- [01:10:48,962 - 01:10:50,962] Oh, sorry, of course there are neutrons.
+- [01:10:50,962 - 01:10:54,962] There are neutrons in atoms, in nuclei.
+- [01:10:54,962 - 01:10:58,962] So you have to know the relative abundance of
+- [01:10:58,962 - 01:11:02,962] protons and neutrons to know the relative abundance of...
+- [01:11:02,962 - 01:11:04,962] But that's all it is,
+- [01:11:04,962 - 01:11:06,962] relative abundance of protons and neutrons.
+- [01:11:06,962 - 01:11:07,962] Okay, so what do we know?
+- [01:11:07,962 - 01:11:09,962] What is a proton and what
+- [01:11:09,962 - 01:11:11,962] is a neutron in this language?
+- [01:11:11,962 - 01:11:13,962] And let's come over here.
+- [01:11:13,962 - 01:11:16,962] A proton is three quarks.
+- [01:11:16,962 - 01:11:18,962] And a neutron is three quarks.
+- [01:11:22,962 - 01:11:25,462] Now, as I said, I'm now in the
+- [01:11:25,462 - 01:11:27,962] business of telling you facts about these particles,
+- [01:11:27,962 - 01:11:30,962] not at this point trying to
+- [01:11:30,962 - 01:11:33,962] understand why these are the facts.
+- [01:11:33,962 - 01:11:36,962] We can't do everything at once.
+- [01:11:36,962 - 01:11:37,962] A neutron...
+- [01:11:41,962 - 01:11:45,962] is two down quarks and an up quark.
+- [01:11:45,962 - 01:11:47,962] Let's just check that.
+- [01:11:47,962 - 01:11:50,962] An up quark has charge two thirds.
+- [01:11:50,962 - 01:11:53,962] And a down quark has charge minus a third.
+- [01:11:53,962 - 01:11:56,962] So two thirds minus a third minus another third.
+- [01:11:56,962 - 01:11:58,962] This is electrically neutral.
+- [01:11:58,962 - 01:12:00,962] Charge equals zero.
+- [01:12:00,962 - 01:12:01,962] That's good.
+- [01:12:01,962 - 01:12:03,962] Neutron has charge zero.
+- [01:12:03,962 - 01:12:05,962] Proton.
+- [01:12:08,962 - 01:12:11,962] Proton is exactly the same as a neutron,
+- [01:12:11,962 - 01:12:14,962] except with an interchange of up quarks and down quarks.
+- [01:12:15,962 - 01:12:20,962] Two up quarks and a down quark.
+- [01:12:20,962 - 01:12:22,962] Okay.
+- [01:12:22,962 - 01:12:28,962] Now, up quarks and down quarks are a lot alike,
+- [01:12:28,962 - 01:12:30,962] except for their electric charge.
+- [01:12:30,962 - 01:12:32,962] The electric charge has to
+- [01:12:32,962 - 01:12:34,962] do with the interaction with photons.
+- [01:12:34,962 - 01:12:36,962] Let's forget photons.
+- [01:12:36,962 - 01:12:39,962] Let's forget about the existence of photons for the moment
+- [01:12:39,962 - 01:12:44,962] and just talk about quarks and the other particles,
+- [01:12:44,962 - 01:12:49,962] which are important inside the nucleus and so forth.
+- [01:12:49,962 - 01:12:51,962] Then it would almost seem that a
+- [01:12:51,962 - 01:12:53,962] neutron and a proton are the same thing,
+- [01:12:53,962 - 01:12:56,462] except for an interchange of the
+- [01:12:56,462 - 01:12:58,962] up label and the down label.
+- [01:12:58,962 - 01:13:01,962] You might then surmise that they are...
+- [01:13:01,962 - 01:13:04,962] that their properties are almost exact...
+- [01:13:04,962 - 01:13:07,962] are exactly the same,
+- [01:13:07,962 - 01:13:10,962] if for some reason the electric charge is unimportant.
+- [01:13:10,962 - 01:13:12,462] In other words, supposing we don't have
+- [01:13:12,462 - 01:13:13,962] to worry about the interaction with photons.
+- [01:13:13,962 - 01:13:15,962] Just forget photons.
+- [01:13:15,962 - 01:13:17,962] Then it would seem that
+- [01:13:17,962 - 01:13:19,962] protons and neutrons should be identical,
+- [01:13:19,962 - 01:13:21,962] because what's the difference?
+- [01:13:21,962 - 01:13:23,962] You just replaced up quarks by down quarks.
+- [01:13:23,962 - 01:13:25,962] But it's not quite true,
+- [01:13:25,962 - 01:13:27,962] because up quarks and down quarks
+- [01:13:27,962 - 01:13:29,962] don't have exactly the same mass.
+- [01:13:29,962 - 01:13:31,962] They don't have exactly the same mass.
+- [01:13:31,962 - 01:13:34,961] Now, 10 MeV, by comparison with
+- [01:13:34,961 - 01:13:37,961] the mass of a proton, is small.
+- [01:13:37,961 - 01:13:40,961] It's almost negligible.
+- [01:13:40,961 - 01:13:42,961] It is very small,
+- [01:13:42,961 - 01:13:45,962] but it's almost negligible in nuclear physics,
+- [01:13:45,962 - 01:13:48,962] or in particle physics.
+- [01:13:48,962 - 01:13:51,962] And so to some precision,
+- [01:13:51,962 - 01:13:53,962] to the extent that you can
+- [01:13:53,962 - 01:13:55,962] ignore the masses of the quarks,
+- [01:13:55,962 - 01:13:58,462] which are, after all, smaller by far
+- [01:13:58,462 - 01:14:00,962] than the masses of protons and neutrons,
+- [01:14:00,962 - 01:14:04,962] neutrons and protons are a good deal alike.
+- [01:14:04,962 - 01:14:07,462] The only difference is the slight difference in
+- [01:14:07,462 - 01:14:09,962] mass between the up quarks and the down quarks.
+- [01:14:09,962 - 01:14:11,462] Which one is going to be
+- [01:14:11,462 - 01:14:12,962] heavier, the neutron or the proton?
+- [01:14:12,962 - 01:14:14,462] And of course it's going to
+- [01:14:14,462 - 01:14:15,962] be the one with more down quarks,
+- [01:14:15,962 - 01:14:19,962] because down quarks are a bit heavier than up quarks.
+- [01:14:19,962 - 01:14:22,962] Down quarks are a bit heavier than up quarks,
+- [01:14:22,962 - 01:14:24,962] and so it's likely that the neutron
+- [01:14:24,962 - 01:14:26,962] is heavier than the proton, and it is.
+- [01:14:26,962 - 01:14:30,962] Neutron is a little bit heavier than the proton,
+- [01:14:30,962 - 01:14:34,962] and it's largely attributed to the fact
+- [01:14:34,962 - 01:14:38,962] that the neutron has more down quarks.
+- [01:14:38,962 - 01:14:40,462] Now, that's not all there is
+- [01:14:40,462 - 01:14:41,962] to the difference between protons and neutrons.
+- [01:14:42,962 - 01:14:45,962] If the down quarks and the
+- [01:14:45,962 - 01:14:48,962] up quarks had exactly the same mass,
+- [01:14:48,962 - 01:14:51,462] but you accounted for electromagnetism,
+- [01:14:51,462 - 01:14:53,962] in other words, the photon,
+- [01:14:53,962 - 01:14:56,962] you say, okay, the photon is not completely unimportant,
+- [01:14:56,962 - 01:15:01,962] then which would be heavier, the proton or the neutron?
+- [01:15:01,962 - 01:15:03,962] Why?
+- [01:15:03,962 - 01:15:06,462] Yes, because it has some
+- [01:15:06,462 - 01:15:08,962] electrostatic self-energy, because it's charged.
+- [01:15:08,962 - 01:15:09,962] Okay?
+- [01:15:09,962 - 01:15:11,962] So the proton would be a little bit heavier,
+- [01:15:11,962 - 01:15:14,962] because of the electric, the
+- [01:15:14,962 - 01:15:17,962] self-energy of the electromagnetic field,
+- [01:15:17,962 - 01:15:19,962] the electric field, one would expect the
+- [01:15:19,962 - 01:15:21,962] proton to be a little bit heavier.
+- [01:15:21,962 - 01:15:25,962] In fact, the neutron is a little bit heavier,
+- [01:15:25,962 - 01:15:29,962] and the reason is because the down quark
+- [01:15:29,962 - 01:15:33,962] is a little bit heavier than the up quark.
+- [01:15:33,962 - 01:15:35,962] Okay, but other than that...
+- [01:15:35,962 - 01:15:37,962] Can you give us the masses?
+- [01:15:37,962 - 01:15:39,962] Of which?
+- [01:15:39,962 - 01:15:40,962] Neutrons and protons.
+- [01:15:41,962 - 01:15:42,962] Yeah.
+- [01:15:42,962 - 01:15:46,962] Neutron is about, what, 938 MeV,
+- [01:15:46,962 - 01:15:50,962] and proton is about 939 MeV, or...
+- [01:15:50,962 - 01:15:55,962] What is it, about 1.4 MeV difference between them?
+- [01:15:55,962 - 01:15:59,962] Something like about 1.4 MeV difference between them.
+- [01:15:59,962 - 01:16:01,962] There's enough energy between them,
+- [01:16:01,962 - 01:16:03,962] there's enough energy separating them,
+- [01:16:03,962 - 01:16:05,962] that the neutron can afford
+- [01:16:05,962 - 01:16:07,962] a little bit of energy to,
+- [01:16:07,962 - 01:16:10,962] when it decays into a proton,
+- [01:16:11,962 - 01:16:14,962] plus an electron, plus a neutrino.
+- [01:16:14,962 - 01:16:17,462] There's a little bit of excess energy
+- [01:16:17,462 - 01:16:19,962] in the neutrino, which allows it to decay.
+- [01:16:19,962 - 01:16:22,462] And allows it, in particular, to
+- [01:16:22,462 - 01:16:24,962] decay with an electron, through an electron.
+- [01:16:24,962 - 01:16:27,962] Okay, so that's the very, very
+- [01:16:27,962 - 01:16:30,962] rough story of protons and neutrons.
+- [01:16:30,962 - 01:16:32,962] We'll come back to it.
+- [01:16:32,962 - 01:16:36,962] But, now, there are also these strange quarks.
+- [01:16:36,962 - 01:16:39,962] Let's forget charmed quarks for a moment.
+- [01:16:39,962 - 01:16:40,962] There's an interesting question.
+- [01:16:40,962 - 01:16:42,962] Can you replace...
+- [01:16:42,962 - 01:16:46,462] Notice that, in every respect, the down quarks
+- [01:16:46,462 - 01:16:49,962] and the strange quarks are similar to each other,
+- [01:16:49,962 - 01:16:52,962] except for the fact that the mass is different.
+- [01:16:52,962 - 01:16:57,462] So you might ask, can you construct
+- [01:16:57,462 - 01:17:01,962] an analog of the proton and neutron,
+- [01:17:01,962 - 01:17:03,462] where you pull out a down quark
+- [01:17:03,462 - 01:17:04,962] and replace it by a strange quark?
+- [01:17:04,962 - 01:17:07,962] Or, perhaps two strange quarks.
+- [01:17:07,962 - 01:17:08,962] Pull out a down quark and
+- [01:17:08,962 - 01:17:09,962] replace it by a strange quark.
+- [01:17:10,962 - 01:17:12,962] The answer is yes.
+- [01:17:12,962 - 01:17:15,462] Of course you can, because, in every respect, the
+- [01:17:15,462 - 01:17:17,962] up quarks and the down quarks are the same.
+- [01:17:17,962 - 01:17:19,962] It's sort of almost like an isotope.
+- [01:17:19,962 - 01:17:21,962] You pull out a proton and put it in a neutron,
+- [01:17:21,962 - 01:17:23,962] and it sort of sticks together sort of the same way.
+- [01:17:23,962 - 01:17:25,962] But it's even better here.
+- [01:17:25,962 - 01:17:31,962] So you can construct another kind of analog.
+- [01:17:31,962 - 01:17:34,962] These are called strange baryons.
+- [01:17:34,962 - 01:17:36,962] Strange baryons, I forget their names.
+- [01:17:36,962 - 01:17:37,962] Lambdas and Xi's.
+- [01:17:37,962 - 01:17:38,962] They've got all kinds of names.
+- [01:17:38,962 - 01:17:39,962] And...
+- [01:17:39,962 - 01:17:42,962] It's been so long since I worked on
+- [01:17:42,962 - 01:17:45,962] these things that I can't even remember their names.
+- [01:17:45,962 - 01:17:48,462] They have symbols like this associated
+- [01:17:48,462 - 01:17:50,962] with them, like this, and lambdas.
+- [01:17:50,962 - 01:17:52,962] I don't remember which one is which.
+- [01:17:52,962 - 01:17:53,962] Not important.
+- [01:17:53,962 - 01:17:58,962] But, for example, you can create...
+- [01:17:58,962 - 01:18:00,962] I don't know what its name is.
+- [01:18:00,962 - 01:18:03,962] Pull out a down quark and create
+- [01:18:03,962 - 01:18:06,962] a strange and a down and an up.
+- [01:18:06,962 - 01:18:08,962] What's the mass of this one over here?
+- [01:18:08,962 - 01:18:09,962] Sorry, not the mass.
+- [01:18:09,962 - 01:18:11,962] What is the charge of this one?
+- [01:18:11,962 - 01:18:14,462] Well, it's exactly the same as a neutron because
+- [01:18:14,462 - 01:18:16,962] you pulled out a down and put in an S.
+- [01:18:16,962 - 01:18:19,962] And the S and the down have the same charge.
+- [01:18:19,962 - 01:18:20,962] All right.
+- [01:18:20,962 - 01:18:24,962] So this is also electrically neutral, but it has a
+- [01:18:24,962 - 01:18:28,962] strange quark in it, and it's called a strange baryon.
+- [01:18:28,962 - 01:18:29,962] They're not stable.
+- [01:18:29,962 - 01:18:30,962] They can decay.
+- [01:18:30,962 - 01:18:34,962] We're going to discuss the decay processes later.
+- [01:18:34,962 - 01:18:37,962] But they're not completely stable, so they evaporate.
+- [01:18:37,962 - 01:18:40,962] And this one will turn into that one.
+- [01:18:40,962 - 01:18:42,962] But, yes, they do exist.
+- [01:18:42,962 - 01:18:45,962] Likewise, you can put in two
+- [01:18:45,962 - 01:18:48,962] strange quarks and an up quark.
+- [01:18:48,962 - 01:18:49,962] What is the charge of that one?
+- [01:18:49,962 - 01:18:50,962] Same thing.
+- [01:18:50,962 - 01:18:52,962] Charge neutral again.
+- [01:18:52,962 - 01:18:55,962] And likewise, for the proton, you can
+- [01:18:55,962 - 01:18:58,962] replace it by up, up, and strange.
+- [01:18:58,962 - 01:19:02,962] So there are all these strange baryons.
+- [01:19:02,962 - 01:19:06,962] When they decay, when those decay, what kind of...
+- [01:19:06,962 - 01:19:09,962] What kind of what?
+- [01:19:09,962 - 01:19:11,962] Products do you have?
+- [01:19:11,962 - 01:19:14,962] Oh, protons and neutrons.
+- [01:19:14,962 - 01:19:16,962] Only protons and neutrons?
+- [01:19:16,962 - 01:19:17,962] Yeah.
+- [01:19:17,962 - 01:19:18,962] Well, no, no.
+- [01:19:18,962 - 01:19:22,462] You get some baryons and other
+- [01:19:22,462 - 01:19:25,962] things like electrons and other things.
+- [01:19:25,962 - 01:19:27,962] Of course, you can't just get protons.
+- [01:19:27,962 - 01:19:29,962] You have to get some energy out.
+- [01:19:29,962 - 01:19:34,962] And you also only substituted strangers for downs.
+- [01:19:34,962 - 01:19:35,962] Yeah.
+- [01:19:35,962 - 01:19:37,962] And you can't just get them out.
+- [01:19:37,962 - 01:19:38,962] No, you can't.
+- [01:19:38,962 - 01:19:39,962] No.
+- [01:19:39,962 - 01:19:43,962] Well, the rules of what you
+- [01:19:43,962 - 01:19:47,962] can exchange are a little bit complicated.
+- [01:19:47,962 - 01:19:50,962] But at the moment, you can always exchange
+- [01:19:50,962 - 01:19:53,962] one for a similar one of the same charge.
+- [01:19:53,962 - 01:19:54,962] All right?
+- [01:19:54,962 - 01:19:56,962] Now, you can also...
+- [01:19:56,962 - 01:20:00,462] Oh, incidentally, these strange particles are a
+- [01:20:00,462 - 01:20:03,962] little bit heavier than the protons and neutrons
+- [01:20:03,962 - 01:20:07,962] because of this extra 90 MeV of...
+- [01:20:07,962 - 01:20:08,962] Well, no.
+- [01:20:08,962 - 01:20:09,962] Yeah, an extra 90 MeV.
+- [01:20:09,962 - 01:20:11,962] 90 MeV isn't much.
+- [01:20:11,962 - 01:20:12,962] All right?
+- [01:20:12,962 - 01:20:15,462] So they're somewhat heavier than
+- [01:20:15,462 - 01:20:17,962] the ordinary protons and neutrons.
+- [01:20:17,962 - 01:20:19,962] But in every respect, they're similar.
+- [01:20:19,962 - 01:20:23,462] The main difference of importance is because they're
+- [01:20:23,462 - 01:20:26,962] heavier, they can decay to the protons and neutrons.
+- [01:20:26,962 - 01:20:29,462] And so they're not found
+- [01:20:29,462 - 01:20:31,962] in the universe in any abundance.
+- [01:20:31,962 - 01:20:32,962] Oh.
+- [01:20:33,962 - 01:20:36,462] All those that you put up there
+- [01:20:36,462 - 01:20:38,962] so far can be constructed with antiparts also?
+- [01:20:38,962 - 01:20:39,962] Oh, yes.
+- [01:20:39,962 - 01:20:41,962] Yeah, you'll have to take every
+- [01:20:41,962 - 01:20:43,962] particle and replace it by its antiparticle.
+- [01:20:43,962 - 01:20:45,962] Then it becomes the antineutron,
+- [01:20:45,962 - 01:20:47,962] the antiproton, and the anti-question mark.
+- [01:20:47,962 - 01:20:50,962] Excuse me.
+- [01:20:50,962 - 01:20:53,962] You call these strange, Barrett's last name?
+- [01:20:53,962 - 01:20:55,962] The strangeness is just another word
+- [01:20:55,962 - 01:20:57,962] for saying they have a strange core.
+- [01:20:57,962 - 01:20:58,962] Oh.
+- [01:20:58,962 - 01:21:01,962] But what if you put a bottom quark in it?
+- [01:21:01,962 - 01:21:02,962] Okay, then they become bottom.
+- [01:21:02,962 - 01:21:03,962] Then they're bottom quarks.
+- [01:21:03,962 - 01:21:04,962] Then they're bottom baryons.
+- [01:21:04,962 - 01:21:05,962] Then they're bottom baryons.
+- [01:21:05,962 - 01:21:07,962] Strange baryons is if you put an S in it.
+- [01:21:07,962 - 01:21:08,962] Yeah.
+- [01:21:08,962 - 01:21:09,962] Yeah.
+- [01:21:09,962 - 01:21:10,962] Yeah.
+- [01:21:10,962 - 01:21:11,962] Strange.
+- [01:21:11,962 - 01:21:12,962] Are they strange?
+- [01:21:12,962 - 01:21:13,962] Well, I don't know.
+- [01:21:13,962 - 01:21:16,962] They were called strange because people became
+- [01:21:16,962 - 01:21:19,962] familiar with protons and neutrons by the 1950s.
+- [01:21:19,962 - 01:21:21,962] And then when they discovered these
+- [01:21:21,962 - 01:21:23,962] other things, they said, oh, that's strange.
+- [01:21:23,962 - 01:21:25,962] And unexpected things.
+- [01:21:25,962 - 01:21:26,962] Yeah.
+- [01:21:26,962 - 01:21:31,962] Where's the missing mass from the proton and the neutron?
+- [01:21:31,962 - 01:21:32,962] Missing mass?
+- [01:21:32,962 - 01:21:34,962] Well, if you add the mass of the…
+- [01:21:34,962 - 01:21:35,962] Oh, you mean if you just
+- [01:21:35,962 - 01:21:36,962] added up the mass of the quarks.
+- [01:21:36,962 - 01:21:37,962] Right.
+- [01:21:37,962 - 01:21:38,962] Yeah.
+- [01:21:38,962 - 01:21:39,962] That's right.
+- [01:21:39,962 - 01:21:40,962] There's a lot missing.
+- [01:21:40,962 - 01:21:41,962] So there must be something
+- [01:21:41,962 - 01:21:42,962] else in the proton and neutron.
+- [01:21:43,962 - 01:21:44,962] No, no.
+- [01:21:44,962 - 01:21:45,962] They're gluons.
+- [01:21:45,962 - 01:21:46,962] Yeah.
+- [01:21:46,962 - 01:21:47,962] No, no.
+- [01:21:47,962 - 01:21:48,962] No attempt here to be dramatic.
+- [01:21:48,962 - 01:21:49,462] But the gluons don't carry
+- [01:21:49,462 - 01:21:49,962] any interesting charge, baryon number.
+- [01:21:49,962 - 01:21:50,962] Do they carry mass?
+- [01:21:50,962 - 01:21:51,962] Well, they carry energy.
+- [01:21:51,962 - 01:21:52,962] They carry energy.
+- [01:21:52,962 - 01:21:53,962] They carry energy.
+- [01:21:53,962 - 01:21:54,962] They carry energy.
+- [01:21:54,962 - 01:21:55,962] They carry energy.
+- [01:21:55,962 - 01:21:56,962] They carry energy.
+- [01:21:56,962 - 01:21:57,962] They carry energy.
+- [01:21:57,962 - 01:21:58,962] They carry energy.
+- [01:21:58,962 - 01:21:59,962] They carry energy.
+- [01:21:59,962 - 01:22:00,962] They carry energy.
+- [01:22:00,962 - 01:22:01,962] They carry energy.
+- [01:22:01,962 - 01:22:02,962] Well, they carry energy.
+- [01:22:02,962 - 01:22:03,962] So…
+- [01:22:03,962 - 01:22:05,462] Going back to what you
+- [01:22:05,462 - 01:22:06,962] were saying there, it's binding energy.
+- [01:22:06,962 - 01:22:08,962] It's a form of binding energy, yeah.
+- [01:22:08,962 - 01:22:09,962] That's right.
+- [01:22:09,962 - 01:22:10,962] It's binding energy.
+- [01:22:10,962 - 01:22:11,962] Energies don't add.
+- [01:22:11,962 - 01:22:12,962] Not relativistically.
+- [01:22:12,962 - 01:22:13,962] I mean, well, masses don't add.
+- [01:22:13,962 - 01:22:14,462] The mass of an object is
+- [01:22:14,462 - 01:22:14,962] not necessarily the mass of its constituents.
+- [01:22:14,962 - 01:22:15,462] Well, it's what you were saying
+- [01:22:15,462 - 01:22:15,962] about the prevailing bond type thing.
+- [01:22:15,962 - 01:22:16,962] Mm-hmm.
+- [01:22:16,962 - 01:22:17,962] Mm-hmm.
+- [01:22:17,962 - 01:22:18,962] Mm-hmm.
+- [01:22:18,962 - 01:22:19,962] Mm-hmm.
+- [01:22:19,962 - 01:22:20,962] Right.
+- [01:22:20,962 - 01:22:21,962] Here's the…
+- [01:22:21,962 - 01:22:22,962] Here's the…
+- [01:22:22,962 - 01:22:23,962] Here's the…
+- [01:22:23,962 - 01:22:24,962] Here's the…
+- [01:22:24,962 - 01:22:25,962] Here's the…
+- [01:22:25,962 - 01:22:26,962] Here's the…
+- [01:22:26,962 - 01:22:27,962] Here's the…
+- [01:22:27,962 - 01:22:28,962] Here's the…
+- [01:22:28,962 - 01:22:29,962] Here's the…
+- [01:22:29,962 - 01:22:30,962] Here's the…
+- [01:22:30,962 - 01:22:31,962] Here's the…
+- [01:22:31,962 - 01:22:32,962] Here's the…
+- [01:22:32,962 - 01:22:33,962] Here's the…
+- [01:22:33,962 - 01:22:34,962] Here's the…
+- [01:22:34,962 - 01:22:35,962] Here's the…
+- [01:22:35,962 - 01:22:36,962] Here's the…
+- [01:22:36,962 - 01:22:37,962] Here's the…
+- [01:22:37,962 - 01:22:38,962] Here's the…
+- [01:22:38,962 - 01:22:39,962] Here's the…
+- [01:22:39,962 - 01:22:40,962] Here's the…
+- [01:22:40,962 - 01:22:41,962] Here's the…
+- [01:22:41,962 - 01:22:42,962] Here's the…
+- [01:22:42,962 - 01:22:43,962] You know, these…
+- [01:22:43,962 - 01:22:44,962] Yeah…
+- [01:22:44,962 - 01:22:45,962] So…
+- [01:22:45,962 - 01:22:46,462] As I was saying earlier, you're using
+- [01:22:46,462 - 01:22:46,962] the language of particles here to describe these
+- [01:22:46,962 - 01:22:47,962] composite particles.
+- [01:22:47,962 - 01:22:48,962] It seems more complicated to use the language of fields.
+- [01:22:48,962 - 01:22:49,462] Like, how do you combine
+- [01:22:49,462 - 01:22:49,962] a down field and up field?
+- [01:22:49,962 - 01:22:51,462] It seems like you would combine
+- [01:22:51,462 - 01:22:52,962] everywhere and not be a particle.
+- [01:22:52,962 - 01:22:53,962] So do you, I mean I don't think…
+- [01:22:53,962 - 01:22:54,962] A field…
+- [01:22:54,962 - 01:22:55,462] Do you want to know whether you
+- [01:22:55,462 - 01:22:55,962] can construct a field describing a proton?
+- [01:22:55,962 - 01:22:56,462] Yeah, you're using down and
+- [01:22:56,462 - 01:22:56,962] up as if there were two?
+- [01:22:56,962 - 01:22:57,962] Down and up?
+- [01:22:57,962 - 01:22:58,962] Yeah, I mean you're using electron.
+- [01:22:58,962 - 01:23:02,962] You're using down and up as if they're particles.
+- [01:23:02,962 - 01:23:04,462] But if you think of
+- [01:23:04,462 - 01:23:05,962] them as fields, then they're everywhere,
+- [01:23:05,962 - 01:23:08,462] and the modes of the field
+- [01:23:08,462 - 01:23:10,962] are combining to form these composite particles.
+- [01:23:10,962 - 01:23:15,962] Well, in thinking about this particular aspect of things,
+- [01:23:15,962 - 01:23:20,962] it's much easier to think about particles than fields.
+- [01:23:20,962 - 01:23:23,962] We could think about it in
+- [01:23:23,962 - 01:23:26,962] terms of fields, but it's much harder.
+- [01:23:26,962 - 01:23:32,962] Question about the binding energies.
+- [01:23:32,962 - 01:23:34,962] Yeah.
+- [01:23:34,962 - 01:23:39,962] So if this difference between the quark energies
+- [01:23:39,962 - 01:23:44,962] and the proton energy were binding energy,
+- [01:23:44,962 - 01:23:47,962] that's a big positive energy.
+- [01:23:47,962 - 01:23:49,962] No, it's not an integer.
+- [01:23:49,962 - 01:23:50,962] It's not an integer.
+- [01:23:50,962 - 01:23:52,962] No, it's a big positive energy.
+- [01:23:52,962 - 01:23:54,962] Energy! Oh, I thought you said integer, yeah.
+- [01:23:54,962 - 01:23:56,962] And usually when you think of things like that,
+- [01:23:56,962 - 01:23:58,962] it's usually negative.
+- [01:23:58,962 - 01:24:01,962] Right. Not true here.
+- [01:24:01,962 - 01:24:04,962] Well, yeah, I mean, we'll
+- [01:24:04,962 - 01:24:07,962] come to it, but yeah, sure.
+- [01:24:07,962 - 01:24:11,962] Can we talk about the 3Ds or 3Ds?
+- [01:24:11,962 - 01:24:15,962] Yes, yes, there is.
+- [01:24:15,962 - 01:24:19,962] Yes, there is, but not yet.
+- [01:24:19,962 - 01:24:23,962] Let's talk first about mesons.
+- [01:24:23,962 - 01:24:26,962] Mesons are simply quarks.
+- [01:24:26,962 - 01:24:29,962] Now, why, you know, you could raise the question,
+- [01:24:29,962 - 01:24:32,962] why do three quarks bind together to form something?
+- [01:24:32,962 - 01:24:36,962] Why don't two quarks bind together to form something?
+- [01:24:36,962 - 01:24:38,962] In the early days of
+- [01:24:38,962 - 01:24:40,962] quarkology, this was a complete mystery.
+- [01:24:40,962 - 01:24:42,962] Why quarks?
+- [01:24:42,962 - 01:24:43,962] Oh, you could say, oh, it's
+- [01:24:43,962 - 01:24:44,962] in order to make the charge
+- [01:24:44,962 - 01:24:46,962] an integer multiple of the electron.
+- [01:24:46,962 - 01:24:48,962] Well, that's a stupid answer.
+- [01:24:48,962 - 01:24:52,962] And it turned out not to be that stupid,
+- [01:24:52,962 - 01:24:55,962] but at this stage, it's a stupid answer.
+- [01:24:56,962 - 01:24:59,962] But yet, that is the pattern.
+- [01:24:59,962 - 01:25:02,962] That is the pattern that they combine together in forms
+- [01:25:02,962 - 01:25:05,962] in which this is not the only rule,
+- [01:25:05,962 - 01:25:08,962] but this is one of the rules of nature.
+- [01:25:08,962 - 01:25:10,962] We do understand it, and we
+- [01:25:10,962 - 01:25:12,962] do understand where it comes from,
+- [01:25:12,962 - 01:25:14,962] but a rule, a rule
+- [01:25:14,962 - 01:25:16,962] of thumb at the present time
+- [01:25:16,962 - 01:25:20,962] is the way things bind, they always bind into combinations
+- [01:25:20,962 - 01:25:24,962] which have integer multiple of the electron charge.
+- [01:25:24,962 - 01:25:25,962] Okay.
+- [01:25:25,962 - 01:25:27,462] So, we're going to have
+- [01:25:27,462 - 01:25:28,962] to work on the working rule
+- [01:25:28,962 - 01:25:32,962] temporarily until we have a deeper understanding of it.
+- [01:25:32,962 - 01:25:33,962] All right.
+- [01:25:33,962 - 01:25:38,962] Mesons are also particles, composite particles,
+- [01:25:38,962 - 01:25:41,462] which also have the property
+- [01:25:41,462 - 01:25:43,962] that their charge is integer multiple
+- [01:25:43,962 - 01:25:46,962] of the electron charge,
+- [01:25:46,962 - 01:25:48,962] but they have zero baryon number.
+- [01:25:48,962 - 01:25:50,962] They do not have baryon number,
+- [01:25:50,962 - 01:25:52,962] which means that they must be made,
+- [01:25:52,962 - 01:25:53,962] they're combinations of quarks.
+- [01:25:53,962 - 01:25:55,962] They must be made of quarks and anti-quarks.
+- [01:25:55,962 - 01:26:03,962] In fact, they are quarks, a quark and an anti-quark.
+- [01:26:03,962 - 01:26:06,962] They're a quark and an anti-quark,
+- [01:26:06,962 - 01:26:08,962] and so let's write down.
+- [01:26:08,962 - 01:26:10,462] They are first of all
+- [01:26:10,462 - 01:26:11,962] the ones that you can make
+- [01:26:11,962 - 01:26:14,962] only out of ups and down quarks.
+- [01:26:14,962 - 01:26:18,962] Ups and down quarks are special,
+- [01:26:18,962 - 01:26:21,962] not in any deep sense,
+- [01:26:21,962 - 01:26:23,962] but they're special because they're much lighter
+- [01:26:23,962 - 01:26:24,962] than the other particles.
+- [01:26:24,962 - 01:26:26,962] They don't decay,
+- [01:26:26,962 - 01:26:29,962] or they don't decay as rapidly if they do decay.
+- [01:26:29,962 - 01:26:32,962] They're abundant in nature,
+- [01:26:32,962 - 01:26:33,962] and more than that,
+- [01:26:33,962 - 01:26:37,962] it doesn't take much energy and collisions to make them,
+- [01:26:37,962 - 01:26:39,462] so of course they were
+- [01:26:39,462 - 01:26:40,962] the first particles to be discovered,
+- [01:26:40,962 - 01:26:45,962] things made up of only up quarks and down quarks.
+- [01:26:45,962 - 01:26:48,962] The up quarks and down quarks are pretty light,
+- [01:26:48,962 - 01:26:52,962] and the mesons are typically pretty light.
+- [01:26:52,962 - 01:26:53,962] They're an up quark and a down quark,
+- [01:26:53,962 - 01:26:57,962] or a quark and an anti-quark,
+- [01:26:57,962 - 01:27:00,462] and then you can start
+- [01:27:00,462 - 01:27:02,962] thinking about the different combinations.
+- [01:27:02,962 - 01:27:06,962] There's an up bar quark and a down quark.
+- [01:27:06,962 - 01:27:12,962] There's an up quark and a down bar quark.
+- [01:27:12,962 - 01:27:15,962] There's an up bar and an up quark,
+- [01:27:15,962 - 01:27:19,962] and there's a down bar and a down quark.
+- [01:27:19,962 - 01:27:21,962] I think I got them all.
+- [01:27:23,962 - 01:27:27,962] Any quarks have the opposite spin?
+- [01:27:27,962 - 01:27:29,962] No, you can't do that.
+- [01:27:29,962 - 01:27:32,962] Don't they have to be the opposite kind
+- [01:27:32,962 - 01:27:34,962] because it's one-third of two-thirds?
+- [01:27:34,962 - 01:27:36,962] No.
+- [01:27:36,962 - 01:27:41,962] Okay, let's work out what their electric charges are.
+- [01:27:41,962 - 01:27:44,962] The electric charge of an up quark is minus two-thirds,
+- [01:27:44,962 - 01:27:46,962] and this one is minus one-third.
+- [01:27:46,962 - 01:27:51,962] This has charge minus one, right?
+- [01:27:53,962 - 01:27:56,962] Minus a third, minus two-thirds.
+- [01:27:56,962 - 01:27:57,962] That's fine.
+- [01:27:57,962 - 01:28:00,962] Charge minus one is like an electron.
+- [01:28:00,962 - 01:28:02,962] What about this one?
+- [01:28:02,962 - 01:28:04,962] This is the anti-particle of this.
+- [01:28:04,962 - 01:28:06,962] This one's not.
+- [01:28:06,962 - 01:28:09,962] This one is just the anti-particle of this.
+- [01:28:09,962 - 01:28:11,962] Oh, yes, right.
+- [01:28:11,962 - 01:28:14,962] These two are anti-particles of each other
+- [01:28:14,962 - 01:28:17,962] because they are related
+- [01:28:17,962 - 01:28:20,962] by changing particles into anti-particles.
+- [01:28:20,962 - 01:28:23,962] Down bar into down, up bar into up.
+- [01:28:23,962 - 01:28:28,962] And this has charge plus one.
+- [01:28:28,962 - 01:28:31,962] So these are anti-particles of each other.
+- [01:28:31,962 - 01:28:37,962] Up bar up, that's electrically neutral, obviously.
+- [01:28:37,962 - 01:28:40,962] And charge equals zero.
+- [01:28:40,962 - 01:28:46,962] Now, in fact, neither one of these two by themselves
+- [01:28:46,962 - 01:28:49,962] correspond to distinct particles.
+- [01:28:49,962 - 01:28:52,962] Remember, we're doing quantum mechanics.
+- [01:28:52,962 - 01:28:55,462] Each one of these states can
+- [01:28:55,462 - 01:28:57,962] be thought of as a quantum state.
+- [01:28:57,962 - 01:28:59,962] Think of it as a quantum state.
+- [01:28:59,962 - 01:29:02,462] A quantum state consisting of an
+- [01:29:02,462 - 01:29:04,962] anti-up quark and an up quark.
+- [01:29:04,962 - 01:29:07,462] A quantum state consisting of an
+- [01:29:07,462 - 01:29:09,962] anti-down quark and a down quark.
+- [01:29:09,962 - 01:29:12,962] One of the things you can do in quantum mechanics
+- [01:29:12,962 - 01:29:14,962] is to superpose states.
+- [01:29:14,962 - 01:29:17,962] If you have states, you can add them.
+- [01:29:17,962 - 01:29:19,962] You can superpose them.
+- [01:29:19,962 - 01:29:22,962] Superposing them means making combinations
+- [01:29:22,962 - 01:29:25,462] that have a probability for being
+- [01:29:25,462 - 01:29:27,962] either this one or this one.
+- [01:29:27,962 - 01:29:30,962] There are two combinations of these two.
+- [01:29:30,962 - 01:29:32,962] I'll tell you what they are.
+- [01:29:32,962 - 01:29:41,962] They are up bar up plus down bar down.
+- [01:29:41,962 - 01:29:45,462] And what would I put in front of
+- [01:29:45,462 - 01:29:48,962] it to make it have total probability one?
+- [01:29:48,962 - 01:29:51,962] One over square root of two.
+- [01:29:52,962 - 01:29:54,962] This is a quantum state.
+- [01:29:54,962 - 01:29:58,962] And this is the orthogonal quantum state.
+- [01:29:58,962 - 01:30:07,962] Up bar up minus down bar down.
+- [01:30:07,962 - 01:30:08,962] You know what this is?
+- [01:30:08,962 - 01:30:11,962] This is an entangled pair of quarks.
+- [01:30:11,962 - 01:30:14,962] Not entangled through their spin,
+- [01:30:14,962 - 01:30:19,962] but entangled through their upness or downness.
+- [01:30:19,962 - 01:30:21,962] If you thought of upness and downness
+- [01:30:21,962 - 01:30:24,462] as being similar, analogous to
+- [01:30:24,462 - 01:30:26,962] the spin direction of a particle
+- [01:30:26,962 - 01:30:27,962] up or down,
+- [01:30:27,962 - 01:30:30,962] and that's where this terminology came from,
+- [01:30:30,962 - 01:30:35,962] then these would be two entangled states.
+- [01:30:35,962 - 01:30:38,962] Entangled not through their spin,
+- [01:30:38,962 - 01:30:41,962] but through their isospin.
+- [01:30:41,962 - 01:30:43,962] Through their upness and downness.
+- [01:30:43,962 - 01:30:46,962] We haven't used the word isospin.
+- [01:30:46,962 - 01:30:48,962] Maybe I'll tell you what it means,
+- [01:30:48,962 - 01:30:50,962] but not right now.
+- [01:30:50,962 - 01:30:54,962] It is just this analogy between the spin directions
+- [01:30:54,962 - 01:30:57,962] and the upness or downness quantum number.
+- [01:30:57,962 - 01:31:03,962] These two things individually are well-defined particles.
+- [01:31:03,962 - 01:31:09,962] This one over here goes together with these two.
+- [01:31:09,962 - 01:31:15,962] And they are called the pions.
+- [01:31:15,962 - 01:31:19,962] They go together for a good reason,
+- [01:31:19,962 - 01:31:21,962] a good mathematical reason,
+- [01:31:21,962 - 01:31:23,962] but they go together
+- [01:31:23,962 - 01:31:24,962] Do I have the right ones? Yeah.
+- [01:31:24,962 - 01:31:27,462] They go together because their mass
+- [01:31:27,462 - 01:31:29,962] is very close to each other.
+- [01:31:29,962 - 01:31:32,962] It is believed they would be exactly the same mass
+- [01:31:32,962 - 01:31:34,962] if the up quark and down
+- [01:31:34,962 - 01:31:36,962] quark had the same exact mass,
+- [01:31:36,962 - 01:31:38,962] if the masses were the same.
+- [01:31:38,962 - 01:31:43,962] All three of these are virtually indistinguishable
+- [01:31:43,962 - 01:31:46,962] except for a small difference in their mass,
+- [01:31:46,962 - 01:31:48,962] and they have different charges.
+- [01:31:48,962 - 01:31:51,962] So, we have two different kinds of particles,
+- [01:31:51,962 - 01:31:54,962] one called pi-on, plus one and minus one.
+- [01:31:54,962 - 01:31:56,962] This is called the pi-on multiplet,
+- [01:31:56,962 - 01:31:59,962] pi plus, minus and zero.
+- [01:31:59,962 - 01:32:05,962] Three independent kinds of particles called pi-ons.
+- [01:32:05,962 - 01:32:07,962] And as I said,
+- [01:32:07,962 - 01:32:10,462] and we can discuss why
+- [01:32:10,462 - 01:32:12,962] nature chose these particular combinations
+- [01:32:12,962 - 01:32:14,962] to be analogous to each other,
+- [01:32:14,962 - 01:32:17,962] but now I'm telling you facts and not mathematics.
+- [01:32:17,962 - 01:32:20,962] So, pi-on over here,
+- [01:32:20,962 - 01:32:26,962] and this is called the eta.
+- [01:32:26,962 - 01:32:28,962] So, there's the pi plus,
+- [01:32:28,962 - 01:32:32,962] the four states here really define the three pi-ons,
+- [01:32:32,962 - 01:32:35,962] pi plus, minus and zero,
+- [01:32:35,962 - 01:32:37,962] and the eta meson.
+- [01:32:37,962 - 01:32:39,462] The eta meson is similar
+- [01:32:39,462 - 01:32:40,962] to a pi-on in many ways,
+- [01:32:40,962 - 01:32:42,962] but it's heavier.
+- [01:32:42,962 - 01:32:44,962] Why is it heavier?
+- [01:32:44,962 - 01:32:46,962] That is a complicated story.
+- [01:32:46,962 - 01:32:48,962] It's not an elementary story.
+- [01:32:48,962 - 01:32:50,962] It's a complicated story.
+- [01:32:50,962 - 01:32:52,962] Maybe we'll come to it, maybe we won't.
+- [01:32:52,962 - 01:32:55,962] But, as a matter of fact,
+- [01:32:55,962 - 01:32:58,962] its mass, okay, what are the masses of the pi-ons?
+- [01:32:58,962 - 01:33:03,962] The masses of the pi-ons are about 140 MeV.
+- [01:33:03,962 - 01:33:05,962] The mass of a pi-on,
+- [01:33:05,962 - 01:33:07,962] mass of pi-on,
+- [01:33:07,962 - 01:33:09,962] m pi,
+- [01:33:09,962 - 01:33:13,962] is about 140 MeV.
+- [01:33:13,962 - 01:33:15,962] So, in other words, it's not too different,
+- [01:33:16,962 - 01:33:18,962] from,
+- [01:33:18,962 - 01:33:20,962] question?
+- [01:33:20,962 - 01:33:22,962] Yeah, it's about 140 MeV.
+- [01:33:22,962 - 01:33:25,962] So, it's somewhere in this range in here,
+- [01:33:25,962 - 01:33:27,962] not this heavy,
+- [01:33:27,962 - 01:33:29,962] and the mass of the eta
+- [01:33:29,962 - 01:33:32,962] is about three times heavier or something like that.
+- [01:33:32,962 - 01:33:37,962] The mass of the eta is about 500 MeV.
+- [01:33:37,962 - 01:33:39,962] I don't remember the precise number,
+- [01:33:39,962 - 01:33:41,962] but that's about right.
+- [01:33:41,962 - 01:33:43,462] Why that is, why the
+- [01:33:43,462 - 01:33:44,962] eta sticks out as being different,
+- [01:33:44,962 - 01:33:46,962] was a puzzle for a long time.
+- [01:33:46,962 - 01:33:49,962] It's not obvious.
+- [01:33:49,962 - 01:33:50,962] Not obvious.
+- [01:33:50,962 - 01:33:55,962] Even today, it's a rather abstract mathematical fact,
+- [01:33:55,962 - 01:33:57,962] but it is understood.
+- [01:33:59,962 - 01:34:03,962] Isn't it also true that they're relatively long, half-lives?
+- [01:34:03,962 - 01:34:04,962] Not very long.
+- [01:34:04,962 - 01:34:06,962] How do you compare it to most of them?
+- [01:34:06,962 - 01:34:10,962] The numbers of orders of magnitude difference?
+- [01:34:10,962 - 01:34:12,962] Uh,
+- [01:34:12,962 - 01:34:15,962] they don't decay by strong interactions,
+- [01:34:15,962 - 01:34:17,962] they decay by weak and electromagnetic interactions,
+- [01:34:17,962 - 01:34:22,962] so they're longer-lived than many of these other particles.
+- [01:34:22,962 - 01:34:24,962] Yes, that is true.
+- [01:34:24,962 - 01:34:26,962] They are long-lived.
+- [01:34:26,962 - 01:34:29,962] Okay, that, those are the mesons.
+- [01:34:29,962 - 01:34:31,962] Did you give a name to
+- [01:34:31,962 - 01:34:33,962] the up bar, down down bar?
+- [01:34:33,962 - 01:34:37,962] No, they don't have names by themselves.
+- [01:34:37,962 - 01:34:39,962] They're a linear combination,
+- [01:34:39,962 - 01:34:40,962] which are the sum and differences of them,
+- [01:34:40,962 - 01:34:41,962] and have definite values.
+- [01:34:42,962 - 01:34:43,962] Oh, I see.
+- [01:34:43,962 - 01:34:44,962] Yes, those are...
+- [01:34:44,962 - 01:34:46,962] Is that similar to...
+- [01:34:48,962 - 01:34:51,962] Is that something like the neutrino oscillations?
+- [01:34:52,962 - 01:34:54,962] Well, in the sense that it's
+- [01:34:54,962 - 01:34:56,962] related to quantum superpositions of states, yes,
+- [01:34:56,962 - 01:35:00,462] but it's got more to do
+- [01:35:00,462 - 01:35:03,962] with spin combinations of two half-spin particles.
+- [01:35:04,962 - 01:35:07,962] There are two ways that you can entangle...
+- [01:35:07,962 - 01:35:08,962] Well, we'll come to it next time.
+- [01:35:08,962 - 01:35:10,962] The last thing I simply want to tell you
+- [01:35:10,962 - 01:35:12,962] is that you can make strange objects.
+- [01:35:12,962 - 01:35:14,962] You can make strange mesons.
+- [01:35:14,962 - 01:35:17,962] You can take any d-quark and
+- [01:35:17,962 - 01:35:20,962] replace it by a strange quark,
+- [01:35:20,962 - 01:35:23,962] strange bar quark, and so forth.
+- [01:35:23,962 - 01:35:27,962] That makes new mesons, which are called strange mesons,
+- [01:35:27,962 - 01:35:30,962] or what's the other name for them?
+- [01:35:30,962 - 01:35:32,962] K mesons.
+- [01:35:32,962 - 01:35:35,962] K mesons are mesons containing
+- [01:35:35,962 - 01:35:38,962] a strange or an anti-strange quark,
+- [01:35:38,962 - 01:35:40,962] replacing a down quark.
+- [01:35:40,962 - 01:35:42,962] Okay?
+- [01:35:42,962 - 01:35:44,962] There are four of them.
+- [01:35:47,962 - 01:35:50,962] Up bar strange,
+- [01:35:51,962 - 01:35:53,962] up strange bar,
+- [01:35:54,962 - 01:35:56,962] down bar strange,
+- [01:35:56,962 - 01:35:59,962] down strange bar.
+- [01:36:00,962 - 01:36:02,962] These two have charge zero.
+- [01:36:03,962 - 01:36:05,962] Charge zero.
+- [01:36:05,962 - 01:36:08,962] And these have charge plus one and minus one.
+- [01:36:08,962 - 01:36:10,962] These two are called the charged K mesons.
+- [01:36:10,962 - 01:36:12,962] These two are called the neutral mesons.
+- [01:36:12,962 - 01:36:15,962] The neutral K mesons.
+- [01:36:15,962 - 01:36:18,962] So there are three kinds of pions,
+- [01:36:18,962 - 01:36:20,962] one kind of eta,
+- [01:36:20,962 - 01:36:22,962] and four kinds of...
+- [01:36:22,962 - 01:36:23,962] How many does that make altogether?
+- [01:36:23,962 - 01:36:25,962] Let's see.
+- [01:36:28,962 - 01:36:31,962] Three pions,
+- [01:36:31,962 - 01:36:33,962] four K mesons,
+- [01:36:33,962 - 01:36:34,962] and an eta.
+- [01:36:34,962 - 01:36:35,962] Yeah.
+- [01:36:35,962 - 01:36:37,962] Yeah.
+- [01:36:37,962 - 01:36:38,962] There's more.
+- [01:36:38,962 - 01:36:39,962] There's more.
+- [01:36:39,962 - 01:36:40,962] There's more.
+- [01:36:40,962 - 01:36:42,962] Did we leave something out?
+- [01:36:44,962 - 01:36:45,962] Yeah.
+- [01:36:45,962 - 01:36:46,962] We left out one.
+- [01:36:46,962 - 01:36:48,962] We left out some.
+- [01:36:48,962 - 01:36:49,962] Yeah.
+- [01:36:49,962 - 01:36:51,962] We left out s bar s.
+- [01:36:52,962 - 01:36:53,962] Yeah.
+- [01:36:53,962 - 01:36:54,962] There's nine.
+- [01:36:55,962 - 01:36:56,962] Right.
+- [01:36:57,962 - 01:36:58,962] Right.
+- [01:36:58,962 - 01:36:59,962] Nine.
+- [01:36:59,962 - 01:37:00,962] Nine altogether.
+- [01:37:00,962 - 01:37:02,962] The reason it's nine is simple.
+- [01:37:02,962 - 01:37:03,962] There are three kinds of quarks,
+- [01:37:03,962 - 01:37:04,962] three kinds of anti-quarks.
+- [01:37:04,962 - 01:37:06,962] Three times three is nine.
+- [01:37:06,962 - 01:37:07,962] Yeah.
+- [01:37:07,962 - 01:37:08,962] Right.
+- [01:37:08,962 - 01:37:09,962] Okay.
+- [01:37:09,962 - 01:37:13,962] For more, please visit us at stanford.edu.
