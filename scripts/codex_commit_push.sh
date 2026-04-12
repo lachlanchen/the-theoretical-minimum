@@ -11,7 +11,7 @@ commit_message="$2"
 shift 2
 pathspecs=("$@")
 
-model="${CODEX_COMMIT_MODEL:-gpt-5.3-codex-spark}"
+model="${CODEX_COMMIT_MODEL:-gpt-5.4-mini}"
 reasoning_effort="${CODEX_COMMIT_REASONING:-low}"
 session_file="${CODEX_COMMIT_SESSION_FILE:-}"
 session_doc_file="${CODEX_COMMIT_SESSION_DOC_FILE:-}"
@@ -65,6 +65,16 @@ write_session_doc() {
 - model: $model
 - updated at: $(date --iso-8601=seconds)
 EOF
+}
+
+fallback_commit_push() {
+  git -C "$repo_path" add -- "${pathspecs[@]}"
+  if git -C "$repo_path" diff --cached --quiet -- "${pathspecs[@]}"; then
+    echo "No changes to commit for step: $commit_message"
+    return 0
+  fi
+  git -C "$repo_path" commit -m "$commit_message"
+  git -C "$repo_path" push origin main
 }
 
 if [[ -n "$session_file" ]]; then
@@ -139,4 +149,8 @@ if [[ -n "${session_id:-}" ]]; then
 fi
 
 cat "$jsonl_file"
-exit "${status:-0}"
+if [[ "${status:-0}" -ne 0 ]]; then
+  fallback_commit_push
+  exit 0
+fi
+exit 0
