@@ -1,0 +1,2197 @@
+# Transcript
+
+Source: supplementary/particle_physics_2_standard_model/2010_winter/086 - Lecture 2 ｜ New Revolutions in Particle Physics： Standard Model [yy989li6xgY].mkv
+
+- [00:00:00,000 - 00:00:07,000] Stanford University
+- [00:00:07,000 - 00:00:10,000] Before we start, we're going
+- [00:00:10,000 - 00:00:13,000] to talk about quantum chromodynamics today.
+- [00:00:13,000 - 00:00:17,000] Quantum chromodynamics, and we're not going to talk about
+- [00:00:17,000 - 00:00:21,000] the deep mathematics of it and go into it.
+- [00:00:21,000 - 00:00:23,500] We have basically one lecture to do
+- [00:00:23,500 - 00:00:26,000] quantum chromodynamics, which is a huge subject.
+- [00:00:26,000 - 00:00:30,000] It's a subject which easily takes a quarter.
+- [00:00:30,000 - 00:00:34,000] But I'll stick with the highlights and
+- [00:00:34,000 - 00:00:38,000] tell you what the basic intuitive picture is.
+- [00:00:38,000 - 00:00:41,000] Quantum chromodynamics is
+- [00:00:41,000 - 00:00:44,000] similar to quantum electrodynamics.
+- [00:00:44,000 - 00:00:46,000] Quantum electrodynamics is the
+- [00:00:46,000 - 00:00:48,000] theory of electrons and photons.
+- [00:00:48,000 - 00:00:51,000] It's also the theory of the Coulomb force,
+- [00:00:51,000 - 00:00:54,000] the quantum mechanical theory of the Coulomb force.
+- [00:00:54,000 - 00:00:56,000] If applied,
+- [00:00:56,000 - 00:01:00,000] to the problem of atoms in which you do not
+- [00:01:00,000 - 00:01:04,000] worry about the motion or the nature of the nucleus,
+- [00:01:04,000 - 00:01:06,000] the structure of the nucleus,
+- [00:01:06,000 - 00:01:08,500] you simply think of the nucleus as
+- [00:01:08,500 - 00:01:11,000] a fixed point creating an electric field,
+- [00:01:11,000 - 00:01:16,000] then quantum electrodynamics is also the theory of atoms.
+- [00:01:16,000 - 00:01:20,000] In the same sense, quantum chromodynamics
+- [00:01:20,000 - 00:01:24,000] is the theory of quarks and gluons
+- [00:01:24,000 - 00:01:26,000] and the theory, and the things that go with them.
+- [00:01:26,000 - 00:01:28,000] The things that quarks and gluons make.
+- [00:01:28,000 - 00:01:31,000] The things that quarks and gluons make are called hadrons.
+- [00:01:31,000 - 00:01:35,000] H-A-D-R-O-N-S
+- [00:01:35,000 - 00:01:39,000] Hadrons or hadrons.
+- [00:01:39,000 - 00:01:42,500] And they consist of things like
+- [00:01:42,500 - 00:01:46,000] protons and neutrons, which are called baryons,
+- [00:01:46,000 - 00:01:48,000] which have a net quark
+- [00:01:48,000 - 00:01:50,000] number or a net baryon number.
+- [00:01:50,000 - 00:01:53,000] That means an imbalance of quarks and anti-quarks.
+- [00:01:53,000 - 00:01:54,000] Three quarks for the proton,
+- [00:01:54,000 - 00:01:55,000] three quarks for the neutron,
+- [00:01:55,000 - 00:01:58,000] three quarks for the neutron.
+- [00:01:58,000 - 00:02:03,000] And mesons, which are quark-anti-quark pairs.
+- [00:02:03,000 - 00:02:07,000] And all of them are full of gluons.
+- [00:02:07,000 - 00:02:12,000] Gluons are the electrically neutral stuff,
+- [00:02:12,000 - 00:02:15,000] which is the glue and the binding
+- [00:02:15,000 - 00:02:18,000] stuff that holds the quarks and gluons together,
+- [00:02:18,000 - 00:02:20,500] much the same way that
+- [00:02:20,500 - 00:02:23,000] the electromagnetic field or Coulomb field
+- [00:02:23,000 - 00:02:28,000] is the binding agent that holds atoms together.
+- [00:02:28,000 - 00:02:33,000] Atoms, other electrostatically bound objects.
+- [00:02:33,000 - 00:02:35,000] Alright, but before we go into it,
+- [00:02:35,000 - 00:02:38,000] I want to remind you a
+- [00:02:38,000 - 00:02:41,000] little bit about the mathematics of spin.
+- [00:02:41,000 - 00:02:44,000] Because, first of all, that particular
+- [00:02:44,000 - 00:02:47,000] mathematics will come up in another guise,
+- [00:02:47,000 - 00:02:51,000] but also a simply related mathematics to it
+- [00:02:51,000 - 00:02:53,000] will also come up,
+- [00:02:53,000 - 00:02:56,000] in the guise of a quantity called color,
+- [00:02:56,000 - 00:03:01,000] or a concept called color.
+- [00:03:01,000 - 00:03:04,000] We're not going to do group theory in this class.
+- [00:03:04,000 - 00:03:07,000] Alright, we'll try to finesse it.
+- [00:03:07,000 - 00:03:11,000] But the basic mathematics of what
+- [00:03:11,000 - 00:03:15,000] we're talking about is group theory.
+- [00:03:15,000 - 00:03:18,000] As I said, I'm not going to use group theory,
+- [00:03:18,000 - 00:03:20,000] or at least not call it
+- [00:03:20,000 - 00:03:22,000] group theory as we use it.
+- [00:03:22,000 - 00:03:25,500] For spin, the theory of spin
+- [00:03:25,500 - 00:03:29,000] is the theory of a group.
+- [00:03:29,000 - 00:03:31,500] A group, if you don't know
+- [00:03:31,500 - 00:03:34,000] what a group is, just ignore it.
+- [00:03:34,000 - 00:03:36,000] Alright, but the group is
+- [00:03:36,000 - 00:03:38,000] the group of rotations of space.
+- [00:03:38,000 - 00:03:41,500] The theory of spin is also
+- [00:03:41,500 - 00:03:45,000] the theory of the symmetry of physics
+- [00:03:45,000 - 00:03:49,000] with respect to rotations of space.
+- [00:03:49,000 - 00:03:50,000] But, uh,
+- [00:03:50,000 - 00:03:52,500] we finesse that by not
+- [00:03:52,500 - 00:03:55,000] talking about the theory of rotations,
+- [00:03:55,000 - 00:03:59,000] but by talking about the theory of angular momentum.
+- [00:03:59,000 - 00:04:01,000] I'll just remind you very quickly
+- [00:04:01,000 - 00:04:05,000] that we derived everything about angular momentum
+- [00:04:05,000 - 00:04:09,000] from some basic commutation relations,
+- [00:04:09,000 - 00:04:14,000] which were of the form Lx with Ly
+- [00:04:14,000 - 00:04:17,000] equals I times Lz.
+- [00:04:17,000 - 00:04:19,000] I think there's an h-bar in there, but, uh, yeah,
+- [00:04:19,000 - 00:04:23,000] there is an h-bar in there.
+- [00:04:23,000 - 00:04:25,000] Well, those are the components of angular momentum.
+- [00:04:25,000 - 00:04:27,000] We worked that out last quarter,
+- [00:04:27,000 - 00:04:35,000] and we found some rather surprising and interesting things.
+- [00:04:35,000 - 00:04:39,000] Oh, of course, there are three other relations like this,
+- [00:04:39,000 - 00:04:41,000] which are gotten by permuting x to y,
+- [00:04:41,000 - 00:04:43,000] y to z, and z back to x.
+- [00:04:43,000 - 00:04:45,000] I won't write them down.
+- [00:04:45,000 - 00:04:48,000] But when we, um,
+- [00:04:48,000 - 00:04:51,000] worked out the consequences of this,
+- [00:04:51,000 - 00:04:53,000] first of all,
+- [00:04:53,000 - 00:04:55,000] we broke the symmetry.
+- [00:04:55,000 - 00:04:57,000] Now, when I say we broke the symmetry,
+- [00:04:57,000 - 00:04:59,000] I'm not talking about something, uh,
+- [00:04:59,000 - 00:05:01,000] some symmetry breaking in nature.
+- [00:05:01,000 - 00:05:05,000] Just we broke the symmetry in our mathematical description.
+- [00:05:05,000 - 00:05:08,000] The symmetry being the symmetry of rotation,
+- [00:05:08,000 - 00:05:10,000] or the symmetry, uh, which interchanges
+- [00:05:10,000 - 00:05:12,000] x, y, and z, and so forth.
+- [00:05:12,000 - 00:05:14,000] We broke it in our heads,
+- [00:05:14,000 - 00:05:16,000] maybe not in the real physics,
+- [00:05:16,000 - 00:05:20,000] but just by focusing on the z component of spin,
+- [00:05:20,000 - 00:05:22,000] or on the z component of angular momentum.
+- [00:05:22,000 - 00:05:24,000] We basically focused on it.
+- [00:05:24,000 - 00:05:28,000] We cannot measure all three components simultaneously.
+- [00:05:28,000 - 00:05:30,000] They don't commute with each other.
+- [00:05:30,000 - 00:05:32,000] Here they are. They don't commute with each other.
+- [00:05:32,000 - 00:05:34,000] At most, one of them commutes with itself.
+- [00:05:34,000 - 00:05:36,000] Well, of course it commutes with itself.
+- [00:05:36,000 - 00:05:38,000] And no two of them commute.
+- [00:05:38,000 - 00:05:40,000] So at most, you can
+- [00:05:40,000 - 00:05:42,000] talk about one of them, uh,
+- [00:05:42,000 - 00:05:44,000] or measuring one at a time,
+- [00:05:44,000 - 00:05:45,000] and we arbitrarily chose Lz.
+- [00:05:45,000 - 00:05:49,000] When we did that and used these commutation relations,
+- [00:05:49,000 - 00:05:53,000] what we found was, first of all,
+- [00:05:53,000 - 00:05:55,000] that L is quantized.
+- [00:05:55,000 - 00:06:00,000] And the difference between neighboring values of L
+- [00:06:00,000 - 00:06:05,000] was always one unit in units of h-bar.
+- [00:06:05,000 - 00:06:07,000] Number one.
+- [00:06:07,000 - 00:06:11,000] Number two, we focused on spin.
+- [00:06:11,000 - 00:06:15,000] And we described different,
+- [00:06:15,000 - 00:06:18,000] different spin possibilities.
+- [00:06:18,000 - 00:06:20,000] The first set of spin possibilities
+- [00:06:20,000 - 00:06:22,000] were the half-spin objects,
+- [00:06:22,000 - 00:06:24,000] or the things which we call fermions.
+- [00:06:24,000 - 00:06:27,000] Those were the objects whose spin
+- [00:06:27,000 - 00:06:29,000] was centered about zero
+- [00:06:29,000 - 00:06:32,000] in such a way that the first level,
+- [00:06:32,000 - 00:06:36,000] the first z component of spin was a half,
+- [00:06:36,000 - 00:06:38,000] and the first one in the opposite direction
+- [00:06:38,000 - 00:06:40,000] was minus a half.
+- [00:06:40,000 - 00:06:43,000] Three halves, minus three halves, and so forth.
+- [00:06:43,000 - 00:06:45,000] Those were fermions, but right now,
+- [00:06:45,000 - 00:06:50,000] the main point was that the mathematics of spin,
+- [00:06:50,000 - 00:06:52,000] or angular momentum,
+- [00:06:52,000 - 00:06:55,000] gave rise to some multiplets.
+- [00:06:55,000 - 00:06:58,000] There was first the spin half multiplet.
+- [00:06:58,000 - 00:07:03,000] That was the multiplet with a spin minus a half
+- [00:07:03,000 - 00:07:05,000] and a spin plus a half,
+- [00:07:05,000 - 00:07:10,000] like the spin of the electron.
+- [00:07:10,000 - 00:07:14,000] That was associated with half-spin particles and fermions.
+- [00:07:15,000 - 00:07:17,000] Bosons, which for our purposes now,
+- [00:07:17,000 - 00:07:19,000] just think integer spin,
+- [00:07:19,000 - 00:07:22,000] the first one was just spin zero.
+- [00:07:22,000 - 00:07:24,000] There are particles with spin zero,
+- [00:07:24,000 - 00:07:26,000] they have no spin, that's all,
+- [00:07:26,000 - 00:07:28,000] they just have no spin at all.
+- [00:07:28,000 - 00:07:30,000] Then, there are particles with spin one.
+- [00:07:30,000 - 00:07:32,000] The photon is a spin one particle.
+- [00:07:32,000 - 00:07:34,000] There are other spin one particles.
+- [00:07:34,000 - 00:07:37,000] There are nuclei and atoms of spin one.
+- [00:07:37,000 - 00:07:40,000] And they have three states.
+- [00:07:40,000 - 00:07:43,000] Plus one, minus one,
+- [00:07:43,000 - 00:07:44,000] in units of h bar,
+- [00:07:44,000 - 00:07:46,000] and zero.
+- [00:07:46,000 - 00:07:49,000] And then, the next interesting family
+- [00:07:49,000 - 00:07:51,000] has spin three halves.
+- [00:07:51,000 - 00:07:55,000] Spin three halves again goes on the half-spin column here,
+- [00:07:55,000 - 00:07:58,000] and that has one half, minus one half,
+- [00:07:58,000 - 00:08:02,000] three halves, minus three halves.
+- [00:08:02,000 - 00:08:05,000] There are particles with spin three halves.
+- [00:08:05,000 - 00:08:10,000] There are certainly nuclei with spin three halves,
+- [00:08:10,000 - 00:08:13,000] and atoms with spin three halves.
+- [00:08:13,000 - 00:08:15,000] So these things also exist.
+- [00:08:15,000 - 00:08:17,000] Likewise, what comes after spin one?
+- [00:08:17,000 - 00:08:19,000] Spin two.
+- [00:08:19,000 - 00:08:22,000] Spin two, spin zero, spin one,
+- [00:08:22,000 - 00:08:26,000] spin minus one, or the z component of spin one,
+- [00:08:26,000 - 00:08:29,000] minus one, two, and minus two.
+- [00:08:29,000 - 00:08:32,000] These labels here are the z components of the spin.
+- [00:08:32,000 - 00:08:39,000] Now, when you speak about an object of spin L,
+- [00:08:39,000 - 00:08:41,000] L is the notation that
+- [00:08:41,000 - 00:08:43,000] denotes the height of the spin.
+- [00:08:43,000 - 00:08:47,000] The highest value of z component of spin.
+- [00:08:47,000 - 00:08:50,000] So this would be, or M, you can use M.
+- [00:08:50,000 - 00:08:53,000] Ordinarily, it's used M.
+- [00:08:53,000 - 00:08:55,000] M or L, it doesn't matter.
+- [00:08:55,000 - 00:08:57,000] Let's use L.
+- [00:08:57,000 - 00:08:59,000] Let's use L.
+- [00:08:59,000 - 00:09:02,000] L is a little bit different than M.
+- [00:09:02,000 - 00:09:04,000] When you speak of spin L,
+- [00:09:04,000 - 00:09:08,000] you're speaking about an object whose maximum spin
+- [00:09:08,000 - 00:09:11,000] along the z axis is L.
+- [00:09:11,000 - 00:09:13,000] So this would be spin a half,
+- [00:09:13,000 - 00:09:15,000] L equals a half.
+- [00:09:15,000 - 00:09:18,000] This one would be L equals one,
+- [00:09:18,000 - 00:09:20,000] and so forth.
+- [00:09:20,000 - 00:09:22,000] How many states are there?
+- [00:09:22,000 - 00:09:25,000] How many independent states are there
+- [00:09:25,000 - 00:09:29,000] for a spin, a particle with spin L?
+- [00:09:29,000 - 00:09:32,000] 2L plus one.
+- [00:09:32,000 - 00:09:34,000] 2L plus one.
+- [00:09:34,000 - 00:09:36,000] For example, for spin a half,
+- [00:09:36,000 - 00:09:40,000] twice L is one, plus one is two.
+- [00:09:40,000 - 00:09:41,000] Two states.
+- [00:09:41,000 - 00:09:42,000] If L is one,
+- [00:09:42,000 - 00:09:44,000] twice one is two.
+- [00:09:44,000 - 00:09:46,000] Add one more, that's three.
+- [00:09:46,000 - 00:09:48,000] Three states.
+- [00:09:48,000 - 00:09:53,000] And so 2L plus one is the number of states
+- [00:09:58,000 - 00:10:03,000] is the number of independent
+- [00:10:06,000 - 00:10:08,000] spin states
+- [00:10:08,000 - 00:10:10,000] for a given value of,
+- [00:10:10,000 - 00:10:12,000] for a given value
+- [00:10:12,000 - 00:10:15,000] of L.
+- [00:10:15,000 - 00:10:18,000] So that's something I want you to remember.
+- [00:10:22,000 - 00:10:24,000] Now, another thing.
+- [00:10:24,000 - 00:10:27,000] If you have more than one particle,
+- [00:10:27,000 - 00:10:29,000] such as an electron,
+- [00:10:29,000 - 00:10:31,000] then you have two spins.
+- [00:10:31,000 - 00:10:34,000] Spins can be combined.
+- [00:10:34,000 - 00:10:37,000] Let's consider what you can make
+- [00:10:37,000 - 00:10:39,000] in the way of spin
+- [00:10:39,000 - 00:10:42,000] by combining together the spins of two electrons.
+- [00:10:42,000 - 00:10:45,000] Let's forget the fact that electrons
+- [00:10:45,000 - 00:10:47,000] can orbit around each other.
+- [00:10:47,000 - 00:10:49,000] Let's ignore what's usually called
+- [00:10:49,000 - 00:10:51,000] orbital angular momentum
+- [00:10:51,000 - 00:10:54,000] and just concentrate on the spin angular momentum.
+- [00:10:54,000 - 00:10:57,000] What kind of angular momentum can you make
+- [00:10:57,000 - 00:11:02,000] for two half-spin particles?
+- [00:11:02,000 - 00:11:06,000] Well, the maximum value
+- [00:11:06,000 - 00:11:09,000] of the z component of spin
+- [00:11:09,000 - 00:11:10,000] is what?
+- [00:11:10,000 - 00:11:12,000] One.
+- [00:11:12,000 - 00:11:13,000] One.
+- [00:11:13,000 - 00:11:14,000] In units of h-bar.
+- [00:11:14,000 - 00:11:15,000] Let's forget h-bar now.
+- [00:11:15,000 - 00:11:16,000] When I say unit,
+- [00:11:16,000 - 00:11:17,000] in maximum spin,
+- [00:11:17,000 - 00:11:19,000] I mean in units of h-bar.
+- [00:11:19,000 - 00:11:21,000] The maximum spin you can have
+- [00:11:21,000 - 00:11:23,000] along the z-axis is one.
+- [00:11:23,000 - 00:11:25,000] That's when both spins are pointing
+- [00:11:25,000 - 00:11:26,000] along the same,
+- [00:11:26,000 - 00:11:28,000] when both spins are pointing upward
+- [00:11:28,000 - 00:11:30,000] along the z-axis.
+- [00:11:30,000 - 00:11:32,000] That axis is the z-axis.
+- [00:11:32,000 - 00:11:36,000] So you can have angular momentum one.
+- [00:11:36,000 - 00:11:39,000] You can have angular momentum minus one.
+- [00:11:39,000 - 00:11:44,000] And you can also have angular momentum
+- [00:11:44,000 - 00:11:47,000] or z component of angular momentum zero.
+- [00:11:47,000 - 00:11:50,000] But in fact, you can have two states
+- [00:11:50,000 - 00:11:53,000] where the z component of angular momentum is zero.
+- [00:11:53,000 - 00:12:00,000] This one and that one.
+- [00:12:00,000 - 00:12:01,000] This one and that one.
+- [00:12:01,000 - 00:12:03,000] So there are two states,
+- [00:12:03,000 - 00:12:04,000] two independent states,
+- [00:12:04,000 - 00:12:08,000] whose z component of angular momentum is zero.
+- [00:12:08,000 - 00:12:14,000] How many states are there for a spin one object?
+- [00:12:14,000 - 00:12:16,000] Three.
+- [00:12:16,000 - 00:12:19,000] Two L plus one.
+- [00:12:19,000 - 00:12:22,000] Okay.
+- [00:12:22,000 - 00:12:26,000] So there must be a spin one combination
+- [00:12:26,000 - 00:12:30,000] because we can make total spin up equal to one.
+- [00:12:30,000 - 00:12:32,000] That's the maximum.
+- [00:12:32,000 - 00:12:34,000] So there must be somewhere there,
+- [00:12:34,000 - 00:12:38,000] some combination must correspond to spin one.
+- [00:12:38,000 - 00:12:41,000] What does a spin one have?
+- [00:12:41,000 - 00:12:44,000] It has spin one along the axis,
+- [00:12:44,000 - 00:12:46,000] spin minus one along the axis,
+- [00:12:46,000 - 00:12:47,000] and spin zero.
+- [00:12:47,000 - 00:12:49,000] But there are two states with spin zero,
+- [00:12:49,000 - 00:12:52,000] with z component of spin equal to zero.
+- [00:12:52,000 - 00:12:59,000] They can't both be part of the spin one multiplet.
+- [00:12:59,000 - 00:13:05,000] What could the extra one be?
+- [00:13:05,000 - 00:13:06,000] It's got to be,
+- [00:13:06,000 - 00:13:08,000] either spin zero,
+- [00:13:08,000 - 00:13:09,000] spin one,
+- [00:13:09,000 - 00:13:10,000] spin two,
+- [00:13:10,000 - 00:13:11,000] spin three,
+- [00:13:11,000 - 00:13:12,000] spin four,
+- [00:13:12,000 - 00:13:13,000] spin a half,
+- [00:13:13,000 - 00:13:14,000] spin minus,
+- [00:13:14,000 - 00:13:15,000] spin a half,
+- [00:13:15,000 - 00:13:16,000] spin three halves.
+- [00:13:16,000 - 00:13:18,000] So here's what we found.
+- [00:13:18,000 - 00:13:21,000] Let's write them down.
+- [00:13:21,000 - 00:13:23,000] As both spins up,
+- [00:13:23,000 - 00:13:25,000] or both z components of spin,
+- [00:13:25,000 - 00:13:27,000] I'm going to stop saying z components.
+- [00:13:27,000 - 00:13:28,000] Both spins up,
+- [00:13:28,000 - 00:13:32,000] that's got z component equal to one.
+- [00:13:32,000 - 00:13:34,000] Both spins down,
+- [00:13:34,000 - 00:13:35,000] that's got z component equal to one.
+- [00:13:35,000 - 00:13:38,000] That's got z component equal to minus one.
+- [00:13:38,000 - 00:13:41,000] And then there seem to be two
+- [00:13:41,000 - 00:13:47,000] with z component equal to zero.
+- [00:13:47,000 - 00:13:49,000] But if I look at spin one,
+- [00:13:49,000 - 00:13:52,000] all it has is plus,
+- [00:13:52,000 - 00:13:53,000] minus,
+- [00:13:53,000 - 00:13:55,000] and zero.
+- [00:13:55,000 - 00:13:58,000] There are only three of them.
+- [00:13:58,000 - 00:14:01,000] So this cannot be a multiplet.
+- [00:14:01,000 - 00:14:04,000] These four states cannot all correspond
+- [00:14:04,000 - 00:14:09,000] to spin one.
+- [00:14:09,000 - 00:14:14,000] What else could be there besides spin one?
+- [00:14:14,000 - 00:14:16,000] Spin zero.
+- [00:14:16,000 - 00:14:17,000] Can't be spin two,
+- [00:14:17,000 - 00:14:20,000] because spin two has to have five states.
+- [00:14:20,000 - 00:14:22,000] The only other thing is spin zero.
+- [00:14:22,000 - 00:14:26,000] So there must be quantum states here,
+- [00:14:26,000 - 00:14:30,000] three quantum states corresponding to spin one,
+- [00:14:30,000 - 00:14:31,000] and one,
+- [00:14:31,000 - 00:14:32,000] when you put the spins together,
+- [00:14:32,000 - 00:14:34,000] and you ask what kind of angular momentum
+- [00:14:34,000 - 00:14:35,000] you make,
+- [00:14:35,000 - 00:14:38,000] you can make spin one and spin zero.
+- [00:14:38,000 - 00:14:39,000] The only combination,
+- [00:14:39,000 - 00:14:42,000] the only question is what combination,
+- [00:14:42,000 - 00:14:44,000] what quantum mechanical combination
+- [00:14:44,000 - 00:14:48,000] of these two correspond to spin zero,
+- [00:14:48,000 - 00:14:52,000] and what combination correspond to spin one,
+- [00:14:52,000 - 00:14:55,000] to the missing spin one combination.
+- [00:14:55,000 - 00:14:57,000] And I will tell you right now,
+- [00:14:57,000 - 00:15:01,000] the answer is that the symmetric combination
+- [00:15:01,000 - 00:15:03,000] with a plus sign,
+- [00:15:04,000 - 00:15:06,000] is the same as the symmetric combination
+- [00:15:06,000 - 00:15:07,000] with a plus sign.
+- [00:15:07,000 - 00:15:09,000] Incidentally, this state over here is symmetric
+- [00:15:09,000 - 00:15:10,000] between interchange,
+- [00:15:10,000 - 00:15:12,000] you can think of it if you like,
+- [00:15:12,000 - 00:15:13,000] as one spin over here,
+- [00:15:13,000 - 00:15:14,000] one spin over here.
+- [00:15:14,000 - 00:15:15,000] They're labeled.
+- [00:15:15,000 - 00:15:17,000] There's one over here and one over here.
+- [00:15:17,000 - 00:15:19,000] The spin states, if they're both up,
+- [00:15:19,000 - 00:15:20,000] is symmetric.
+- [00:15:20,000 - 00:15:23,000] That means the spin state is the same
+- [00:15:23,000 - 00:15:25,000] if you interchange the two spins.
+- [00:15:25,000 - 00:15:27,000] Obviously, they're both up.
+- [00:15:27,000 - 00:15:29,000] This one is also symmetric.
+- [00:15:29,000 - 00:15:32,000] Up down by itself is not symmetric.
+- [00:15:32,000 - 00:15:34,000] If you interchange spin,
+- [00:15:34,000 - 00:15:35,000] you can change the two of them.
+- [00:15:35,000 - 00:15:37,000] This one goes to this one,
+- [00:15:37,000 - 00:15:39,000] and this one goes to this one.
+- [00:15:39,000 - 00:15:40,000] They swap.
+- [00:15:40,000 - 00:15:42,000] But there's one linear combination,
+- [00:15:42,000 - 00:15:45,000] one quantum mechanical combination,
+- [00:15:45,000 - 00:15:49,000] which is symmetric under the interchange of the two.
+- [00:15:49,000 - 00:15:53,000] Plus minus, plus minus plus.
+- [00:15:53,000 - 00:15:54,000] This is the symmetric state.
+- [00:15:54,000 - 00:15:55,000] What should you do to it
+- [00:15:55,000 - 00:15:58,000] to make it have total probability equal to one?
+- [00:16:01,000 - 00:16:03,000] Divide it by the square root of two.
+- [00:16:04,000 - 00:16:06,000] So you get one over here.
+- [00:16:07,000 - 00:16:08,000] That's one over here.
+- [00:16:08,000 - 00:16:09,000] And so you get one over here.
+- [00:16:09,000 - 00:16:10,000] The other one goes to this one.
+- [00:16:10,000 - 00:16:11,000] This one goes to this one.
+- [00:16:11,000 - 00:16:12,000] The other one goes to this one.
+- [00:16:12,000 - 00:16:13,000] It's called symmetric.
+- [00:16:13,000 - 00:16:14,000] It's symmetric.
+- [00:16:14,000 - 00:16:15,000] And so,
+- [00:16:15,000 - 00:16:16,000] what you do is you have to
+- [00:16:16,000 - 00:16:17,000] divide that by the square root of two.
+- [00:16:17,000 - 00:16:18,000] That's one over here.
+- [00:16:18,000 - 00:16:19,000] And so,
+- [00:16:19,000 - 00:16:20,000] one over here.
+- [00:16:20,000 - 00:16:21,000] That's one over here.
+- [00:16:21,000 - 00:16:22,000] And so,
+- [00:16:22,000 - 00:16:23,000] now we can do this.
+- [00:16:23,000 - 00:16:24,000] What we can do,
+- [00:16:24,000 - 00:16:25,000] and I'm going to do this again,
+- [00:16:25,000 - 00:16:26,000] is we can take all the three states,
+- [00:16:26,000 - 00:16:27,000] which together form zero, one, and minus one.
+- [00:16:27,000 - 00:16:28,000] If you rotate the axes,
+- [00:16:28,000 - 00:16:29,000] they transform into each other.
+- [00:16:29,000 - 00:16:30,000] This is a spin one up.
+- [00:16:30,000 - 00:16:31,000] This is a spin one down.
+- [00:16:31,000 - 00:16:32,000] Where's the ones with spin one
+- [00:16:32,000 - 00:16:34,270] Okay, so this is the spin one
+- [00:16:34,270 - 00:16:36,540] multiplet, and what about the other one?
+- [00:16:36,540 - 00:16:38,060] We're missing a state.
+- [00:16:38,060 - 00:16:40,360] There were four all together.
+- [00:16:40,360 - 00:16:42,300] Here we have three linear combinations.
+- [00:16:42,300 - 00:16:43,800] What's the other linear combination?
+- [00:16:43,800 - 00:16:47,260] The other orthogonal linear combination?
+- [00:16:47,260 - 00:16:48,900] With a minus one.
+- [00:16:48,900 - 00:16:54,370] So there's another one here
+- [00:16:54,370 - 00:16:59,840] with up down minus down up
+- [00:16:59,840 - 00:17:06,640] minus square root of two.
+- [00:17:06,640 - 00:17:09,000] This one, this is, these
+- [00:17:09,000 - 00:17:11,359] three correspond to L equals one.
+- [00:17:11,359 - 00:17:14,200] This one corresponds to L equals zero.
+- [00:17:14,200 - 00:17:18,139] So these are the ways that you can put
+- [00:17:18,139 - 00:17:22,079] two spin halves together to make the two possible
+- [00:17:22,079 - 00:17:23,599] combinations.
+- [00:17:23,599 - 00:17:25,940] This combination L equals zero, what is
+- [00:17:25,940 - 00:17:28,280] it like with respect to its angular momentum?
+- [00:17:28,280 - 00:17:29,840] The answer is it doesn't have any.
+- [00:17:29,840 - 00:17:34,439] It's a thing without angular momentum.
+- [00:17:34,439 - 00:17:37,720] As far as angular momentum goes, it's like a nothing.
+- [00:17:37,720 - 00:17:40,329] I mean, it may have some energy, it
+- [00:17:40,329 - 00:17:42,939] may have other things, charge, whatever, but as far
+- [00:17:42,939 - 00:17:45,899] as angular momentum goes, it's like empty space.
+- [00:17:45,899 - 00:17:49,879] It's got none.
+- [00:17:49,879 - 00:17:53,579] You might ask, can a up spin and
+- [00:17:53,579 - 00:17:57,280] a down spin come together and annihilate and disappear?
+- [00:17:57,280 - 00:17:58,550] Well, there's all kinds of
+- [00:17:58,550 - 00:17:59,820] reasons why electrons can't disappear.
+- [00:17:59,820 - 00:18:03,200] But just for pure angular momentum reasons,
+- [00:18:03,200 - 00:18:06,580] if we're just worried about conservation of
+- [00:18:06,580 - 00:18:10,660] angular momentum and nothing else, then
+- [00:18:10,660 - 00:18:14,740] which of these combinations can just disappear?
+- [00:18:14,740 - 00:18:17,410] As I said, if we're worried about
+- [00:18:17,410 - 00:18:20,080] nothing but angular momentum conservation, can this
+- [00:18:20,080 - 00:18:21,080] disappear?
+- [00:18:21,080 - 00:18:24,740] No, because it has two units of angular momentum up.
+- [00:18:24,740 - 00:18:28,139] How about down?
+- [00:18:28,139 - 00:18:29,620] How about this one?
+- [00:18:29,820 - 00:18:30,820] Yes or no?
+- [00:18:30,820 - 00:18:31,820] Let's take a vote.
+- [00:18:31,820 - 00:18:32,820] How many think yes?
+- [00:18:32,820 - 00:18:33,820] How many think no?
+- [00:18:33,820 - 00:18:37,810] Okay, the no's win, because this
+- [00:18:37,810 - 00:18:41,800] one is not without angular momentum.
+- [00:18:41,800 - 00:18:44,150] It looks like it has no z
+- [00:18:44,150 - 00:18:46,500] component of angular momentum, and it doesn't.
+- [00:18:46,500 - 00:18:49,459] But the angular momentum about the x and
+- [00:18:49,459 - 00:18:52,419] y axis of this is not equal to zero.
+- [00:18:52,419 - 00:18:54,119] It does not have L equals
+- [00:18:54,119 - 00:18:55,820] zero, it has L equals one.
+- [00:18:55,820 - 00:18:57,820] This is the missing thing that allows
+- [00:18:57,820 - 00:18:59,820] you to rotate the angular momentum into other
+- [00:18:59,820 - 00:19:00,820] directions.
+- [00:19:00,820 - 00:19:01,820] What about this one?
+- [00:19:01,820 - 00:19:06,430] Yeah, that one has angular momentum zero,
+- [00:19:06,430 - 00:19:11,040] and if the only consideration was angular
+- [00:19:11,040 - 00:19:13,820] momentum conservation, it could decay.
+- [00:19:13,820 - 00:19:16,040] It could just disappear.
+- [00:19:16,040 - 00:19:19,430] Now one way of thinking about it is
+- [00:19:19,430 - 00:19:22,820] you could say, well, yeah, that's good enough.
+- [00:19:22,820 - 00:19:25,720] That's close enough.
+- [00:19:25,720 - 00:19:27,820] This one here can disappear.
+- [00:19:27,820 - 00:19:28,820] Okay.
+- [00:19:28,820 - 00:19:33,820] So if you were to measure the angular momentum
+- [00:19:33,820 - 00:19:38,820] of the symmetric one with respect to z, you'd
+- [00:19:38,820 - 00:19:41,820] get one or minus one.
+- [00:19:41,820 - 00:19:42,820] Yeah.
+- [00:19:42,820 - 00:19:43,820] But where?
+- [00:19:43,820 - 00:19:44,820] In which case?
+- [00:19:44,820 - 00:19:46,820] In the symmetric case.
+- [00:19:46,820 - 00:19:48,820] No, you get what I, along the z
+- [00:19:48,820 - 00:19:50,820] axis, you would get zero in either case.
+- [00:19:50,820 - 00:19:51,820] Zero.
+- [00:19:51,820 - 00:19:52,820] Yeah, along the z axis.
+- [00:19:52,820 - 00:19:55,820] But if you measure the angular momentum along
+- [00:19:55,820 - 00:19:58,820] some other axis, you would get one or minus
+- [00:19:58,820 - 00:19:59,820] one.
+- [00:19:59,820 - 00:20:07,820] All right, so that's the theory of angular momentum.
+- [00:20:07,820 - 00:20:09,820] Now, why am I bringing that up now?
+- [00:20:09,820 - 00:20:11,820] Or the theory of spin.
+- [00:20:11,820 - 00:20:12,820] In particular, spin a half.
+- [00:20:12,820 - 00:20:14,820] Spin a half and how you
+- [00:20:14,820 - 00:20:16,820] build out of it other spins.
+- [00:20:16,820 - 00:20:22,820] Oh, incidentally, let's try to build spin three halves.
+- [00:20:22,820 - 00:20:26,820] Let's ask what happens if you put together...
+- [00:20:26,820 - 00:20:29,820] Three spins.
+- [00:20:29,820 - 00:20:31,820] Well, if they're all pointing upward in
+- [00:20:31,820 - 00:20:33,820] the same direction, what's the...and that would
+- [00:20:33,820 - 00:20:36,820] be the maximum, what would you get?
+- [00:20:36,820 - 00:20:37,820] Three halves.
+- [00:20:37,820 - 00:20:38,820] Three halves.
+- [00:20:38,820 - 00:20:40,820] How many states are there with spin three halves?
+- [00:20:40,820 - 00:20:44,320] Oh, incidentally, how many states are there
+- [00:20:44,320 - 00:20:47,820] altogether of three spins, each with spin
+- [00:20:47,820 - 00:20:48,820] a half?
+- [00:20:48,820 - 00:20:49,820] Eight.
+- [00:20:49,820 - 00:20:50,820] Eight.
+- [00:20:50,820 - 00:20:51,820] Eight.
+- [00:20:51,820 - 00:20:52,820] Eight.
+- [00:20:52,820 - 00:20:53,820] Eight.
+- [00:20:53,820 - 00:20:54,820] Eight.
+- [00:20:54,820 - 00:20:55,820] Eight.
+- [00:20:55,820 - 00:20:56,820] Eight.
+- [00:20:56,820 - 00:20:57,820] Eight.
+- [00:20:57,820 - 00:20:58,820] Two times two times two.
+- [00:20:58,820 - 00:20:59,820] Okay?
+- [00:20:59,820 - 00:21:05,740] So there are eight states altogether.
+- [00:21:05,740 - 00:21:10,280] How many states are there
+- [00:21:10,280 - 00:21:14,820] for a spin three halves object?
+- [00:21:14,820 - 00:21:15,820] Four.
+- [00:21:15,820 - 00:21:16,820] Four.
+- [00:21:16,820 - 00:21:18,820] So how many are left over?
+- [00:21:18,820 - 00:21:19,820] Four.
+- [00:21:19,820 - 00:21:20,820] Four.
+- [00:21:20,820 - 00:21:21,820] What can those other four be?
+- [00:21:21,820 - 00:21:25,820] Could they be another spin three halves object?
+- [00:21:25,820 - 00:21:27,820] No, why not?
+- [00:21:27,820 - 00:21:34,820] Let's go through it again.
+- [00:21:34,820 - 00:21:39,420] If you have a spin three halves multiplet,
+- [00:21:39,420 - 00:21:44,020] there will be one state which has z component
+- [00:21:44,020 - 00:21:47,300] of spin three halves and one with minus three halves.
+- [00:21:47,300 - 00:21:49,240] We've already used those up.
+- [00:21:49,240 - 00:21:51,530] When we said there were four states
+- [00:21:51,530 - 00:21:53,820] which formed the spin three halves multiplet, we
+- [00:21:53,820 - 00:21:54,820] used them up.
+- [00:21:54,820 - 00:21:58,400] Now all that's left now is spins whose
+- [00:21:58,400 - 00:22:01,980] maximum value is plus or minus a half.
+- [00:22:01,980 - 00:22:04,600] Okay, so what can be there?
+- [00:22:04,600 - 00:22:07,220] What in addition can be there?
+- [00:22:10,100 - 00:22:12,260] Only spin, only spin...
+- [00:22:15,260 - 00:22:17,580] Spin one half. Anything else?
+- [00:22:17,580 - 00:22:21,300] No, there can't be spin zero because making
+- [00:22:21,300 - 00:22:25,020] three spin a halves can never make spin zero.
+- [00:22:26,220 - 00:22:29,620] All it can make is spin three halves and spin
+- [00:22:29,620 - 00:22:33,020] one half. But we seem to have four states left over.
+- [00:22:33,740 - 00:22:36,180] The implication is there are two
+- [00:22:36,180 - 00:22:38,620] distinct ways to make spin one half.
+- [00:22:40,300 - 00:22:43,820] So there are combinations which correspond to the
+- [00:22:43,820 - 00:22:47,340] spin three halves. The easiest ones are all three
+- [00:22:47,340 - 00:22:47,580] spins.
+- [00:22:47,580 - 00:22:52,580] So there are two ways to make spin one
+- [00:22:52,580 - 00:22:57,580] half, which all together adds up to four states.
+- [00:22:58,379 - 00:23:00,019] All right, so when you
+- [00:23:00,019 - 00:23:01,659] take three spins, three half spins,
+- [00:23:02,620 - 00:23:05,180] you get spin three halves and you get spin
+- [00:23:05,180 - 00:23:07,740] one half twice. Two distinct ways of doing it.
+- [00:23:09,980 - 00:23:10,939] Let's keep that in mind.
+- [00:23:14,139 - 00:23:15,819] Okay, now why am I talking about
+- [00:23:15,819 - 00:23:17,500] spin now? What I really want to
+- [00:23:17,580 - 00:23:21,180] talk about is a concept called isospin,
+- [00:23:21,180 - 00:23:24,780] isotopic spin. Isotopic spin was the first
+- [00:23:25,740 - 00:23:29,260] internal symmetry group that, or
+- [00:23:29,260 - 00:23:32,780] the first internal quantum number,
+- [00:23:33,580 - 00:23:36,340] the first analog of a spin which occurred
+- [00:23:36,340 - 00:23:39,100] in particle physics that did not have to do
+- [00:23:39,100 - 00:23:42,259] with the rotation of space, but it had to do
+- [00:23:42,259 - 00:23:45,419] with the rotation of an imaginary space or an internal
+- [00:23:45,419 - 00:23:46,379] space, or if you like, an internal space. So, if
+- [00:23:46,379 - 00:23:47,340] you want to talk about spin, you can do that.
+- [00:23:47,340 - 00:23:47,420] So, if you want to talk
+- [00:23:47,420 - 00:23:47,500] about spin, you can do that.
+- [00:23:47,500 - 00:23:49,900] It just gave rise to
+- [00:23:49,900 - 00:23:52,300] another set of quantum mechanical variables,
+- [00:23:53,020 - 00:23:56,780] which were basically isomorphic, completely similar to
+- [00:23:56,780 - 00:24:00,540] spin, to spin a half, to spin.
+- [00:24:01,340 - 00:24:03,019] But it didn't have to do with spin. It
+- [00:24:03,019 - 00:24:04,699] didn't have to do with the rotation of space.
+- [00:24:05,820 - 00:24:08,099] You could imagine, if you like, that it had
+- [00:24:08,099 - 00:24:10,379] to do with the rotation of some internal directions,
+- [00:24:11,020 - 00:24:13,820] internal directions, imaginary directions
+- [00:24:13,820 - 00:24:16,620] of space, mathematical directions.
+- [00:24:17,340 - 00:24:18,580] Then you could imagine that it
+- [00:24:18,580 - 00:24:19,820] was a complicated kind of sequence,
+- [00:24:19,820 - 00:24:40,699] and that it discovered that motion and
+- [00:24:41,340 - 00:24:44,340] and that can be applied
+- [00:24:44,340 - 00:24:47,340] to a system of Professor Pfeiffer's
+- [00:24:47,340 - 00:24:51,280] The natural mass scale for Hadron physics
+- [00:24:51,280 - 00:24:55,220] is somewhere as is hundreds of MeVs.
+- [00:24:55,220 - 00:24:57,670] The mass of a typical meson
+- [00:24:57,670 - 00:25:00,120] is a couple of hundred MeVs.
+- [00:25:00,120 - 00:25:04,279] The binding energy of particles is MeVs
+- [00:25:04,279 - 00:25:08,439] million, sorry, hundreds of MeVs, not MeVs, hundreds
+- [00:25:08,439 - 00:25:09,899] of MeVs.
+- [00:25:09,899 - 00:25:12,189] What object in nature has binding
+- [00:25:12,189 - 00:25:14,480] energies of order a few MeVs?
+- [00:25:14,480 - 00:25:16,480] Nuclei.
+- [00:25:16,480 - 00:25:17,480] Nuclei.
+- [00:25:17,480 - 00:25:18,480] Nuclei.
+- [00:25:18,480 - 00:25:21,540] Things that hold protons and neutrons together.
+- [00:25:21,540 - 00:25:24,040] But what holds a neutron together as three
+- [00:25:24,040 - 00:25:26,540] quarks has a binding energy of a few hundred
+- [00:25:26,540 - 00:25:27,540] MeVs.
+- [00:25:27,540 - 00:25:30,350] Alright, so the natural energy scale is a
+- [00:25:30,350 - 00:25:33,160] few hundred MeVs, and there were only two
+- [00:25:33,160 - 00:25:36,760] quarks which were very light, or whose
+- [00:25:36,760 - 00:25:40,360] masses were very light by comparison with that.
+- [00:25:40,360 - 00:25:43,580] And they were the up quark and the down quark.
+- [00:25:43,580 - 00:25:46,000] The other quarks are heavy.
+- [00:25:46,000 - 00:25:48,210] And to make particles out of
+- [00:25:48,210 - 00:25:50,420] them, there's a cost in energy.
+- [00:25:50,420 - 00:25:52,960] And so for the lightest objects, the
+- [00:25:52,960 - 00:25:55,500] most stable, typically heavier objects will decay
+- [00:25:55,500 - 00:25:57,160] the lighter ones.
+- [00:25:57,160 - 00:26:00,040] The light objects of nuclear physics, the
+- [00:26:00,040 - 00:26:02,920] lightest objects and the ones which are stable,
+- [00:26:02,920 - 00:26:05,740] are the ones made of up and down quarks.
+- [00:26:05,740 - 00:26:08,960] Now up and down quarks have almost the same mass.
+- [00:26:08,960 - 00:26:10,980] Of course the down quark is about
+- [00:26:10,980 - 00:26:13,000] twice as heavy as the up quark.
+- [00:26:13,000 - 00:26:15,000] But they both have very small mass by comparison.
+- [00:26:15,000 - 00:26:19,750] So if you look at the up quark and the
+- [00:26:19,750 - 00:26:24,500] down quark, you can see that they have no mass
+- [00:26:24,500 - 00:26:28,660] by comparison with the hundreds of MeVs of nuclear physics.
+- [00:26:28,660 - 00:26:32,080] So in some first approximation, you can say
+- [00:26:32,080 - 00:26:35,500] that the up quark and the down quark have
+- [00:26:35,500 - 00:26:37,020] no mass.
+- [00:26:37,020 - 00:26:41,480] More important, their masses are close to being equal.
+- [00:26:41,480 - 00:26:43,860] That's asymmetry.
+- [00:26:43,860 - 00:26:44,800] What does that mean?
+- [00:26:44,800 - 00:26:47,410] down quarks, everything would be pretty similar.
+- [00:26:47,410 - 00:26:50,020] Now of course the up quark is
+- [00:26:50,020 - 00:26:52,089] slightly more massive than the down quark.
+- [00:26:52,089 - 00:26:54,159] No, the down quark is slightly more
+- [00:26:54,159 - 00:26:56,319] massive than the up quark. So typically
+- [00:26:56,319 - 00:26:58,480] things made of down quarks will be a
+- [00:26:58,480 - 00:27:00,480] little more heavy than the things made
+- [00:27:00,480 - 00:27:02,480] of the corresponding up quarks, but the
+- [00:27:02,480 - 00:27:05,880] difference is small. For example, two up
+- [00:27:05,880 - 00:27:09,280] quarks and a down quark make a proton.
+- [00:27:09,280 - 00:27:11,890] Two down quarks and an up quark
+- [00:27:11,890 - 00:27:14,500] make a neutron. The mass difference between a
+- [00:27:14,500 - 00:27:18,790] neutron and a proton is very small.
+- [00:27:18,790 - 00:27:23,080] Okay, so that's an example of the almost
+- [00:27:23,080 - 00:27:26,350] symmetry between up quarks and down
+- [00:27:26,350 - 00:27:29,620] quarks. So in first approximation you just
+- [00:27:29,620 - 00:27:32,610] forget the difference. Up quarks and
+- [00:27:32,610 - 00:27:35,600] down quarks are symmetric with respect to
+- [00:27:35,600 - 00:27:38,310] each other in the same way, or in
+- [00:27:38,310 - 00:27:41,020] the mathematically the same way, that a spin
+- [00:27:41,020 - 00:27:44,260] up and a spin down are symmetric.
+- [00:27:44,500 - 00:27:46,880] In the case of spin it really has
+- [00:27:46,880 - 00:27:49,260] to do with the symmetry of space rotating the
+- [00:27:49,260 - 00:27:53,710] axes. In the case of up quarks
+- [00:27:53,710 - 00:27:58,160] and down quarks, it's just a mathematical
+- [00:27:58,160 - 00:28:00,640] manufactured space that you can imagine where
+- [00:28:00,640 - 00:28:03,120] you take an up quark to a down
+- [00:28:03,120 - 00:28:06,130] quark by flipping some direction in some
+- [00:28:06,130 - 00:28:09,140] imaginary direction in your head, but all
+- [00:28:09,140 - 00:28:11,820] you're doing is interchanging up quarks
+- [00:28:11,820 - 00:28:14,500] and down quarks. Thinking of up quarks
+- [00:28:14,500 - 00:28:17,860] and down quarks as mathematically the
+- [00:28:17,860 - 00:28:21,220] same or mathematically isomorphic to up
+- [00:28:21,220 - 00:28:25,050] spins and down spins, you come to
+- [00:28:25,050 - 00:28:28,880] the concept of isotopic spin. Isotopic spin is
+- [00:28:28,880 - 00:28:33,150] the analog of spin, but not up and
+- [00:28:33,150 - 00:28:37,420] down in the sense of the z-axis and flipping
+- [00:28:37,420 - 00:28:40,090] spin, but up and down in the sense
+- [00:28:40,090 - 00:28:42,760] of up quarks and down quarks, because there's
+- [00:28:42,760 - 00:28:44,260] nothing really up or down about it.
+- [00:28:44,500 - 00:28:47,880] It's just the interchange of two labels,
+- [00:28:47,880 - 00:28:51,260] up quarks and down quarks. And so we
+- [00:28:51,260 - 00:28:55,850] invents the concept of isotopic spin,
+- [00:28:55,850 - 00:29:00,440] and for all mathematical purposes the
+- [00:29:00,440 - 00:29:02,590] replacement of up quarks and down
+- [00:29:02,590 - 00:29:04,740] quarks is very analogous to the replacement
+- [00:29:04,740 - 00:29:06,680] of an up spin by a down spin.
+- [00:29:06,680 - 00:29:14,340] Okay, so for spin we have two states, up
+- [00:29:14,340 - 00:29:14,480] and down.
+- [00:29:14,500 - 00:29:20,740] And that defines spin.
+- [00:29:20,740 - 00:29:23,930] For quarks we have up
+- [00:29:23,930 - 00:29:27,120] and down, and that defines isospin.
+- [00:29:27,120 - 00:29:32,920] Incidentally, what does the iso come from?
+- [00:29:32,920 - 00:29:35,180] Isotope.
+- [00:29:35,180 - 00:29:36,480] Isotope.
+- [00:29:36,480 - 00:29:40,410] We're going to see in a moment that isotopic
+- [00:29:40,410 - 00:29:44,340] spin interchanges, when you interchange up quarks and down quarks,
+- [00:29:44,340 - 00:29:46,580] you interchange proton and neutron.
+- [00:29:46,580 - 00:29:50,619] Of course, if you interchange proton and neutron in
+- [00:29:50,619 - 00:29:54,659] a nucleus, you'll wind up making an isotope of something.
+- [00:29:54,659 - 00:29:58,360] So it comes from the word isotope, isotopic spin.
+- [00:29:58,360 - 00:30:00,600] But what it is, is in nuclear physics in
+- [00:30:00,600 - 00:30:02,840] the old days it was just a replacement of the
+- [00:30:02,840 - 00:30:06,369] interchange of a proton by a neutron, and
+- [00:30:06,369 - 00:30:09,899] thinking of the proton and neutron as a spin
+- [00:30:09,899 - 00:30:13,500] multiplet in a mathematical spin space.
+- [00:30:13,500 - 00:30:15,980] It was traced eventually just to the fact that
+- [00:30:15,980 - 00:30:18,460] there were two quarks, up quarks and down quarks.
+- [00:30:18,460 - 00:30:19,540] That was the origin of it.
+- [00:30:19,540 - 00:30:19,900] Yeah?
+- [00:30:19,900 - 00:30:22,440] Did isotope spin predate quarks?
+- [00:30:22,440 - 00:30:24,080] Oh yeah.
+- [00:30:24,080 - 00:30:26,960] That's due to Heisenberg.
+- [00:30:26,960 - 00:30:27,980] Yeah.
+- [00:30:27,980 - 00:30:31,040] Well, something has to provide the end good charge or...
+- [00:30:31,040 - 00:30:31,720] Yeah.
+- [00:30:31,720 - 00:30:35,950] Okay, so isotopic spin is
+- [00:30:35,950 - 00:30:40,180] not a precise symmetry of nature.
+- [00:30:40,180 - 00:30:41,760] It's not a precise symmetry of
+- [00:30:41,760 - 00:30:43,340] nature, in that first of all,
+- [00:30:43,340 - 00:30:45,340] the up quark and down quark
+- [00:30:45,340 - 00:30:47,340] don't have exactly the same mass.
+- [00:30:47,340 - 00:30:50,460] But even if they did, there would
+- [00:30:50,460 - 00:30:53,580] still be a distinction, a physical distinction, which
+- [00:30:53,580 - 00:30:56,680] would make them different, and
+- [00:30:56,680 - 00:30:59,780] that is their electric charge.
+- [00:30:59,780 - 00:31:03,800] Electric forces within the nucleus, except for
+- [00:31:03,800 - 00:31:07,820] a big nucleus, when a nucleus gets big,
+- [00:31:07,820 - 00:31:10,040] electric forces become strong.
+- [00:31:10,040 - 00:31:10,709] But for small nuclei, and especially for
+- [00:31:10,709 - 00:31:11,379] protons and neutrons and helium, they're not strong.
+- [00:31:11,379 - 00:31:12,379] They're not strong enough to be a force.
+- [00:31:12,379 - 00:31:12,879] They're not strong enough to be a force.
+- [00:31:12,879 - 00:31:12,980] They're not strong enough to be a force.
+- [00:31:12,980 - 00:31:13,300] They're not strong enough to be a force.
+- [00:31:13,300 - 00:31:15,760] But for neutrons and hadrons, electromagnetic
+- [00:31:15,760 - 00:31:18,220] forces are negligible by comparison with the
+- [00:31:18,220 - 00:31:22,399] other forces holding protons and neutrons together.
+- [00:31:22,399 - 00:31:25,200] So an approximation.
+- [00:31:25,200 - 00:31:27,740] Ignore the mass difference between protons
+- [00:31:27,740 - 00:31:30,280] and neutrons, or ignore the mass difference
+- [00:31:30,280 - 00:31:33,959] between up quarks and down quarks, and ignore
+- [00:31:33,959 - 00:31:37,639] the fact that they have electric charge altogether,
+- [00:31:37,639 - 00:31:40,239] and concentrate on the other forces of
+- [00:31:40,239 - 00:31:42,840] nature, in particular the strong interaction forces,
+- [00:31:42,840 - 00:31:44,480] which we'll come to.
+- [00:31:44,480 - 00:31:48,280] And then there is a precise symmetry relating
+- [00:31:48,280 - 00:31:52,080] up quarks to down quarks, and that symmetry
+- [00:31:52,080 - 00:31:55,419] is very much like ordinary spin symmetry.
+- [00:31:55,419 - 00:31:57,800] It is analogous to spin symmetry.
+- [00:31:57,800 - 00:32:01,980] Okay, let's talk about what you can make.
+- [00:32:01,980 - 00:32:06,929] Supposing one quark by itself, we will come
+- [00:32:06,929 - 00:32:11,879] to understand, is not a physical object that
+- [00:32:11,879 - 00:32:12,679] we can examine in the lab.
+- [00:32:12,679 - 00:32:12,720] So what can we do?
+- [00:32:12,720 - 00:32:12,820] We can do a little bit of a study.
+- [00:32:12,840 - 00:32:13,320] We can do a little bit of a study.
+- [00:32:13,320 - 00:32:14,060] We can do a little bit of a study.
+- [00:32:14,060 - 00:32:14,459] We can do a little bit of a study.
+- [00:32:14,459 - 00:32:16,169] The simplest object that we can examine
+- [00:32:16,169 - 00:32:17,879] in the laboratory is three quarks, and that's
+- [00:32:17,879 - 00:32:21,480] a proton or a neutron.
+- [00:32:21,480 - 00:32:23,899] That's like having three spins.
+- [00:32:23,899 - 00:32:27,980] What can you make out of three spins?
+- [00:32:27,980 - 00:32:31,790] What you can make out of three spins is
+- [00:32:31,790 - 00:32:35,600] either spin three halves or spin one half, and you
+- [00:32:35,600 - 00:32:39,020] can make the spin one half in two distinct ways.
+- [00:32:39,020 - 00:32:40,870] But let's forget the two ways, let's just
+- [00:32:40,870 - 00:32:42,720] say we can make spin three halves and spin
+- [00:32:42,720 - 00:32:43,720] one half.
+- [00:32:43,720 - 00:32:47,710] In the same way, taking three quarks, we can
+- [00:32:47,710 - 00:32:51,700] make an object of isotopic spin one half or
+- [00:32:51,700 - 00:32:55,440] an object of isotopic spin three halves.
+- [00:32:55,440 - 00:32:58,560] Let's first concentrate on the
+- [00:32:58,560 - 00:33:01,680] object of isotopic spin one half.
+- [00:33:01,680 - 00:33:03,280] An object of isotopic spin one
+- [00:33:03,280 - 00:33:04,880] half, how many states should it have?
+- [00:33:04,880 - 00:33:08,660] Just by pure mathematical analogy with ordinary spin.
+- [00:33:08,660 - 00:33:10,420] Two.
+- [00:33:10,420 - 00:33:12,600] A spin a half object has two states.
+- [00:33:12,600 - 00:33:19,570] An isospin state of one
+- [00:33:19,570 - 00:33:26,540] half also would have two states.
+- [00:33:26,540 - 00:33:29,679] What are those two states?
+- [00:33:29,679 - 00:33:34,620] Proton and neutron.
+- [00:33:34,620 - 00:33:38,110] So let's write down what the
+- [00:33:38,110 - 00:33:41,600] proton and neutron are in quark language.
+- [00:33:42,600 - 00:34:11,620] Now, let's imagine that we've labeled the quarks.
+- [00:34:11,620 - 00:34:12,580] By labeled the quarks, you get the proton and neutron.
+- [00:34:12,600 - 00:34:15,699] So let's imagine they're really located
+- [00:34:15,699 - 00:34:18,799] at three distinct spots inside the proton.
+- [00:34:18,799 - 00:34:20,549] This of course is not really
+- [00:34:20,549 - 00:34:22,299] true, but I mean they move around,
+- [00:34:22,299 - 00:34:24,949] but let's just simplify the story
+- [00:34:24,949 - 00:34:27,600] and say there are three distinct quarks
+- [00:34:27,600 - 00:34:34,400] and we're going to label them with three distinct labels.
+- [00:34:34,400 - 00:34:37,799] Here's a down quark and here's two up quarks.
+- [00:34:37,800 - 00:34:40,650] Alright, the down quark might
+- [00:34:40,650 - 00:34:43,500] be the quark at position one.
+- [00:34:43,500 - 00:34:47,100] Alright, so let's call it at position one.
+- [00:34:47,100 - 00:34:50,699] The up quark might be at position two,
+- [00:34:50,699 - 00:34:55,900] and the other up quark might be at position three.
+- [00:34:55,900 - 00:35:00,700] Is there anything wrong with this state?
+- [00:35:00,700 - 00:35:04,700] Quarks are fermions, right?
+- [00:35:04,700 - 00:35:06,100] Quarks are fermions.
+- [00:35:06,100 - 00:35:07,700] Because quarks are fermions,
+- [00:35:07,700 - 00:35:13,200] their states should be anti-symmetric.
+- [00:35:13,200 - 00:35:17,100] Their states should be anti-symmetric.
+- [00:35:17,100 - 00:35:20,050] Now, that suggests that maybe the
+- [00:35:20,050 - 00:35:23,000] right combination for the U quarks
+- [00:35:23,000 - 00:35:28,899] is to anti-symmetrize it, and that would be correct.
+- [00:35:28,899 - 00:35:32,600] That's not an important issue for us right now,
+- [00:35:32,600 - 00:35:35,299] but I'm just being very precise.
+- [00:35:35,299 - 00:35:37,600] That down quark and two up quarks,
+- [00:35:37,600 - 00:35:43,100] and an anti-symmetric state is a proton.
+- [00:35:43,100 - 00:35:48,600] An anti-symmetric state of two spins makes spin zero.
+- [00:35:48,600 - 00:35:51,850] So this is an isospin zero
+- [00:35:51,850 - 00:35:55,100] object times an isospin a half object
+- [00:35:55,100 - 00:35:56,600] that has isospin a half.
+- [00:35:56,600 - 00:35:57,600] But never mind.
+- [00:35:57,600 - 00:35:59,100] This is a bit of mathematics.
+- [00:35:59,100 - 00:36:00,100] It's a little too fancy.
+- [00:36:00,100 - 00:36:01,600] We don't need to worry about it.
+- [00:36:01,600 - 00:36:04,600] This is the proton.
+- [00:36:04,600 - 00:36:07,100] It has charge plus one.
+- [00:36:07,600 - 00:36:11,100] Two half, sorry, two thirds
+- [00:36:11,100 - 00:36:14,600] plus two thirds is four thirds,
+- [00:36:14,600 - 00:36:17,100] and minus a third makes charge one.
+- [00:36:17,100 - 00:36:18,600] So that's the proton,
+- [00:36:18,600 - 00:36:23,100] and it is the combination of three quarks,
+- [00:36:23,100 - 00:36:26,100] which makes an isospin a half state.
+- [00:36:26,100 - 00:36:30,600] Same as three spins making a spin a half state.
+- [00:36:30,600 - 00:36:35,100] So the proton is also a member of a spin,
+- [00:36:35,100 - 00:36:37,100] isospin a half object.
+- [00:36:37,600 - 00:36:40,100] And the other one is gotten
+- [00:36:40,100 - 00:36:42,600] by simply interchanging ups and downs.
+- [00:36:42,600 - 00:36:45,100] And that's up, down, down.
+- [00:36:45,100 - 00:36:49,100] Let me not belabor this point about the symmetry here.
+- [00:36:49,100 - 00:36:53,100] And that's the neutron.
+- [00:36:53,100 - 00:36:57,100] The proton and the neutron, in this language,
+- [00:36:57,100 - 00:37:00,600] are symmetric with respect to each other,
+- [00:37:00,600 - 00:37:05,600] and they form an isotopic spin a half doublet.
+- [00:37:05,600 - 00:37:06,600] Okay.
+- [00:37:06,600 - 00:37:07,600] In the same sense,
+- [00:37:07,600 - 00:37:09,100] that you can put three spins
+- [00:37:09,100 - 00:37:10,600] together to make a spin a half.
+- [00:37:10,600 - 00:37:15,600] And there are only two such states.
+- [00:37:15,600 - 00:37:23,600] So isotopic spin invades the theory of protons and neutrons,
+- [00:37:23,600 - 00:37:26,600] and in this language just gives us another,
+- [00:37:26,600 - 00:37:29,600] just like the quark has isotopic spin a half,
+- [00:37:29,600 - 00:37:33,600] so does the neutron and proton.
+- [00:37:33,600 - 00:37:36,600] Okay.
+- [00:37:36,600 - 00:37:38,600] There's another object,
+- [00:37:38,600 - 00:37:40,100] which is very similar to a
+- [00:37:40,100 - 00:37:41,600] proton and neutron in many ways.
+- [00:37:41,600 - 00:37:44,600] It's also made of three quarks.
+- [00:37:44,600 - 00:37:49,600] But it's the combination...
+- [00:37:49,600 - 00:37:51,600] Oh, incidentally,
+- [00:37:51,600 - 00:37:53,600] what is the spin of the proton and neutron?
+- [00:37:53,600 - 00:37:55,600] Actual spin.
+- [00:37:55,600 - 00:37:57,600] One half.
+- [00:37:57,600 - 00:37:59,600] Okay.
+- [00:37:59,600 - 00:38:04,600] So you've taken three quarks with the same spin,
+- [00:38:04,600 - 00:38:06,600] sorry,
+- [00:38:06,600 - 00:38:08,600] three quarks with spin,
+- [00:38:08,600 - 00:38:11,600] and three quarks with isospin,
+- [00:38:11,600 - 00:38:13,600] and you've made a spin a half,
+- [00:38:13,600 - 00:38:16,600] and an isospin a half.
+- [00:38:16,600 - 00:38:17,600] Okay.
+- [00:38:17,600 - 00:38:19,600] Now,
+- [00:38:19,600 - 00:38:21,600] there's another object,
+- [00:38:21,600 - 00:38:23,600] which has three quarks in it,
+- [00:38:23,600 - 00:38:30,600] which has spin three halves,
+- [00:38:30,600 - 00:38:33,600] and isospin three halves.
+- [00:38:33,600 - 00:38:34,600] If you like,
+- [00:38:34,600 - 00:38:38,600] the three ordinary spins are lined up in it,
+- [00:38:38,600 - 00:38:40,600] in the same direction,
+- [00:38:40,600 - 00:38:44,600] and the three isospins are lined up.
+- [00:38:44,600 - 00:38:46,600] So what kind of thing are they?
+- [00:38:46,600 - 00:38:48,600] Well,
+- [00:38:48,600 - 00:38:51,600] if the three isospins are lined up,
+- [00:38:51,600 - 00:38:54,100] that must mean that there
+- [00:38:54,100 - 00:38:56,600] are objects with three up quarks.
+- [00:38:56,600 - 00:38:58,600] Three up quarks,
+- [00:38:58,600 - 00:39:01,600] three down quarks,
+- [00:39:03,600 - 00:39:05,600] also,
+- [00:39:05,600 - 00:39:07,600] the three spins are aligned,
+- [00:39:07,600 - 00:39:09,600] just the ordinary spins.
+- [00:39:09,600 - 00:39:12,600] The three spins are also aligned
+- [00:39:12,600 - 00:39:14,600] to form spin three halves,
+- [00:39:14,600 - 00:39:17,600] or down, or whatever.
+- [00:39:17,600 - 00:39:19,600] Three quarks up,
+- [00:39:19,600 - 00:39:20,600] three quarks,
+- [00:39:20,600 - 00:39:21,600] three up quarks,
+- [00:39:21,600 - 00:39:22,600] or three down quarks.
+- [00:39:22,600 - 00:39:23,600] This is not a neutron.
+- [00:39:23,600 - 00:39:24,600] This doesn't,
+- [00:39:24,600 - 00:39:26,600] this is not a neutron or a proton.
+- [00:39:26,600 - 00:39:28,600] This is a new object,
+- [00:39:28,600 - 00:39:30,600] which is a little bit more
+- [00:39:30,600 - 00:39:32,600] massive than a proton or neutron.
+- [00:39:32,600 - 00:39:33,600] It has a name.
+- [00:39:33,600 - 00:39:37,600] It's called the delta.
+- [00:39:37,600 - 00:39:42,600] It has isospin three halves,
+- [00:39:42,600 - 00:39:45,600] and it has spin three halves.
+- [00:39:45,600 - 00:39:48,600] So it's sometimes called the delta three halves.
+- [00:39:48,600 - 00:39:53,600] It has both isospin and spin three halves.
+- [00:39:53,600 - 00:39:55,600] Let's forget it's spin.
+- [00:39:55,600 - 00:39:57,600] Its spins are just aligned.
+- [00:39:57,600 - 00:39:59,600] If we line them up all along the z-axis,
+- [00:39:59,600 - 00:40:00,600] then they're all aligned.
+- [00:40:00,600 - 00:40:02,600] Let's forget that.
+- [00:40:02,600 - 00:40:03,600] What about this?
+- [00:40:03,600 - 00:40:06,600] Can this be all there is
+- [00:40:06,600 - 00:40:09,600] to an isospin three halves state?
+- [00:40:09,600 - 00:40:14,600] How many states does a spin three halves object have?
+- [00:40:14,600 - 00:40:16,600] Four, right?
+- [00:40:16,600 - 00:40:17,600] So there must be two more,
+- [00:40:17,600 - 00:40:19,600] and there are two more.
+- [00:40:19,600 - 00:40:23,600] There are two more delta three halves states,
+- [00:40:23,600 - 00:40:24,600] two more of them,
+- [00:40:24,600 - 00:40:28,100] and the two more are U
+- [00:40:28,100 - 00:40:31,600] U D and U D D.
+- [00:40:32,600 - 00:40:34,600] Four states,
+- [00:40:34,600 - 00:40:37,600] four objects,
+- [00:40:37,600 - 00:40:39,600] all of which are related by symmetries.
+- [00:40:39,600 - 00:40:42,600] They all have very close to the same mass.
+- [00:40:42,600 - 00:40:45,600] The only thing which distinguishes their mass
+- [00:40:45,600 - 00:40:47,600] is the little small difference between
+- [00:40:47,600 - 00:40:49,600] masses of up and down quarks,
+- [00:40:49,600 - 00:40:51,600] and they're all very similar to each other.
+- [00:40:51,600 - 00:40:53,600] I'm telling you this for a reason.
+- [00:40:53,600 - 00:40:55,600] This played an important historical role
+- [00:40:55,600 - 00:40:57,600] that I'm going to tell you about in a moment.
+- [00:40:57,600 - 00:41:01,600] These four states are called the delta three halves.
+- [00:41:02,600 - 00:41:03,600] What's their charges?
+- [00:41:03,600 - 00:41:05,600] Let's go through their charges.
+- [00:41:05,600 - 00:41:08,600] What's the charge of this one?
+- [00:41:08,600 - 00:41:10,600] Excuse me, what's the difference between
+- [00:41:10,600 - 00:41:12,600] U U D and D U U?
+- [00:41:12,600 - 00:41:14,600] All right, let's work out the charges.
+- [00:41:14,600 - 00:41:15,600] Pardon?
+- [00:41:15,600 - 00:41:17,600] Let's work.
+- [00:41:17,600 - 00:41:19,600] The third one down,
+- [00:41:19,600 - 00:41:21,600] what's the difference between that and a proton?
+- [00:41:21,600 - 00:41:23,600] Ah, the spin.
+- [00:41:23,600 - 00:41:24,600] Spin.
+- [00:41:24,600 - 00:41:25,600] Spin.
+- [00:41:25,600 - 00:41:27,600] That's spin three halves, not spin one half.
+- [00:41:27,600 - 00:41:28,600] Oh, okay.
+- [00:41:28,600 - 00:41:30,600] The isospin is...
+- [00:41:30,600 - 00:41:31,600] The z component...
+- [00:41:31,600 - 00:41:32,600] No, no.
+- [00:41:32,600 - 00:41:34,600] It's part of the multiplet,
+- [00:41:34,600 - 00:41:37,600] which is an isospin three halves object.
+- [00:41:37,600 - 00:41:39,600] Okay, right.
+- [00:41:39,600 - 00:41:41,600] Isospin three halves.
+- [00:41:41,600 - 00:41:44,600] So it's both spin and isospin three halves.
+- [00:41:44,600 - 00:41:47,600] But by looking at these two, you couldn't tell that.
+- [00:41:47,600 - 00:41:50,100] You have to know a bit more
+- [00:41:50,100 - 00:41:52,600] about the nature of the way they're combined.
+- [00:41:52,600 - 00:41:55,100] But the bottom two are
+- [00:41:55,100 - 00:41:57,600] isospin one half, are they not?
+- [00:41:57,600 - 00:41:59,600] No, they have a component of isospin,
+- [00:41:59,600 - 00:42:01,600] just as the analog of the z component
+- [00:42:01,600 - 00:42:03,600] of spin would be one half,
+- [00:42:03,600 - 00:42:07,600] but the full isotopic spin would be three halves.
+- [00:42:07,600 - 00:42:09,600] Yeah.
+- [00:42:09,600 - 00:42:13,600] Remember, every object which has a spin three halves
+- [00:42:13,600 - 00:42:16,600] comes in four states.
+- [00:42:16,600 - 00:42:17,600] Four states.
+- [00:42:17,600 - 00:42:19,600] Here they are.
+- [00:42:19,600 - 00:42:28,600] One half, one half, minus three halves, minus three halves.
+- [00:42:28,600 - 00:42:29,600] Okay.
+- [00:42:29,600 - 00:42:31,600] Same is true for isospin.
+- [00:42:31,600 - 00:42:34,600] Okay, but let's concentrate on spin for a moment.
+- [00:42:34,600 - 00:42:40,600] These two states, they...
+- [00:42:40,600 - 00:42:43,600] That's these two.
+- [00:42:43,600 - 00:42:47,100] And the ones of maximum
+- [00:42:47,100 - 00:42:50,600] and minimum spin, that's these two.
+- [00:42:50,600 - 00:42:52,600] So there's got to be four of them,
+- [00:42:52,600 - 00:42:54,600] but we're going to do it in a minute.
+- [00:42:54,600 - 00:42:55,600] So, let's do it in a minute.
+- [00:42:55,600 - 00:42:57,600] So, let's do it in a minute.
+- [00:42:57,600 - 00:42:59,600] So, there's got to be four of them.
+- [00:42:59,600 - 00:43:02,100] We know that a thing with
+- [00:43:02,100 - 00:43:04,600] spin three halves has four states.
+- [00:43:04,600 - 00:43:08,600] The z component of isospin can
+- [00:43:08,600 - 00:43:12,600] be one half and minus one half.
+- [00:43:12,600 - 00:43:18,600] But, by analogy with ordinary spin,
+- [00:43:18,600 - 00:43:20,600] there will have to be four of them.
+- [00:43:20,600 - 00:43:26,600] Okay, but let's come to the important point.
+- [00:43:27,600 - 00:43:32,600] Let's first of all label their charges.
+- [00:43:32,600 - 00:43:36,600] This one has three charge two-thirds object.
+- [00:43:36,600 - 00:43:40,600] It has charge two.
+- [00:43:40,600 - 00:43:46,600] This one has charge minus one.
+- [00:43:46,600 - 00:43:51,600] And UUD has charge plus one and charge...
+- [00:43:51,600 - 00:43:53,600] What is this one?
+- [00:43:53,600 - 00:43:55,600] Zero.
+- [00:43:55,600 - 00:43:56,600] So, the charges...
+- [00:43:56,600 - 00:43:58,600] The charges are different...
+- [00:43:58,600 - 00:44:01,600] Well, these two do have the same charges...
+- [00:44:01,600 - 00:44:03,600] Sorry, did I get this right?
+- [00:44:03,600 - 00:44:05,600] UUD, no.
+- [00:44:05,600 - 00:44:07,600] Yeah, yeah, yeah.
+- [00:44:07,600 - 00:44:09,600] These two happen to have the
+- [00:44:09,600 - 00:44:11,600] same charge as proton and neutron.
+- [00:44:11,600 - 00:44:13,600] But these are different.
+- [00:44:13,600 - 00:44:15,600] Okay.
+- [00:44:15,600 - 00:44:19,100] All four of these objects have to
+- [00:44:19,100 - 00:44:22,600] within a small discrepancy the same mass.
+- [00:44:22,600 - 00:44:25,600] Just as the proton and neutron have the same mass,
+- [00:44:25,600 - 00:44:27,600] these have the same mass,
+- [00:44:27,600 - 00:44:29,600] but that mass is not the
+- [00:44:29,600 - 00:44:31,600] same as the proton and neutron.
+- [00:44:31,600 - 00:44:33,600] All right.
+- [00:44:33,600 - 00:44:37,600] Proton and neutron, the mass is
+- [00:44:37,600 - 00:44:41,600] about 940 in units of MeVs,
+- [00:44:41,600 - 00:44:43,600] millions of electron volts.
+- [00:44:43,600 - 00:44:47,600] This is the mass of the proton and neutron.
+- [00:44:47,600 - 00:44:51,600] With the neutron being slightly heavier, not by much.
+- [00:44:51,600 - 00:44:53,600] Okay.
+- [00:44:53,600 - 00:45:00,600] The mass of the delta is about 1200 MeV.
+- [00:45:00,600 - 00:45:05,600] The delta can decay.
+- [00:45:05,600 - 00:45:07,600] It can decay into a
+- [00:45:07,600 - 00:45:09,600] proton and neutron and a pion.
+- [00:45:09,600 - 00:45:12,600] Let's just see how that would work.
+- [00:45:12,600 - 00:45:15,600] Let's take the easy ones.
+- [00:45:15,600 - 00:45:18,600] The easy ones have all three quarks the same.
+- [00:45:18,600 - 00:45:20,600] Up, up, up.
+- [00:45:20,600 - 00:45:23,600] So here we have three up quarks moving along.
+- [00:45:23,600 - 00:45:26,600] And how can that decay?
+- [00:45:26,600 - 00:45:28,600] What is it going to decay into?
+- [00:45:28,600 - 00:45:31,600] It's going to decay into a
+- [00:45:31,600 - 00:45:34,600] proton or neutron and a meson.
+- [00:45:34,600 - 00:45:37,600] A meson is a quark-anti-quark pair.
+- [00:45:37,600 - 00:45:40,600] Let me just draw for you how this happens.
+- [00:45:40,600 - 00:45:44,600] This would be up, up, up.
+- [00:45:44,600 - 00:45:48,600] The two up quarks go off.
+- [00:45:48,600 - 00:45:51,600] This up quark also goes off.
+- [00:45:51,600 - 00:45:52,600] But this up quark goes off.
+- [00:45:52,600 - 00:45:56,600] But quarks can't separate like that.
+- [00:45:56,600 - 00:46:00,600] Quark and an anti-quark appear in between.
+- [00:46:00,600 - 00:46:03,600] Like that.
+- [00:46:03,600 - 00:46:06,600] The quark and the anti-quark in between could
+- [00:46:06,600 - 00:46:09,600] either be a down quark or an up quark.
+- [00:46:09,600 - 00:46:13,600] So one possibility is that this is another up quark.
+- [00:46:13,600 - 00:46:15,600] And then this would be an anti-up
+- [00:46:15,600 - 00:46:17,600] quark and this would be an up quark.
+- [00:46:17,600 - 00:46:21,600] An up quark and an anti-up quark have zero charge.
+- [00:46:22,600 - 00:46:26,600] This would be the decay of the delta three halves.
+- [00:46:26,600 - 00:46:28,600] What do we have here?
+- [00:46:28,600 - 00:46:31,600] This one, no, this one can't happen.
+- [00:46:31,600 - 00:46:33,600] This one actually can't decay.
+- [00:46:33,600 - 00:46:34,600] Not possible.
+- [00:46:34,600 - 00:46:39,600] We have to put a down quark here.
+- [00:46:39,600 - 00:46:42,600] There's just not enough energy for it to happen.
+- [00:46:42,600 - 00:46:46,600] This would be an anti-down quark and an up quark.
+- [00:46:46,600 - 00:46:48,600] So what would this thing be?
+- [00:46:48,600 - 00:46:50,600] Up, up, and down.
+- [00:46:50,600 - 00:46:51,600] That would be a proton.
+- [00:46:51,600 - 00:46:53,600] That would be a proton.
+- [00:46:53,600 - 00:46:57,600] The proton is lighter than the delta.
+- [00:46:57,600 - 00:46:59,600] So there's enough left over energy.
+- [00:46:59,600 - 00:47:01,600] How much energy is left over?
+- [00:47:04,600 - 00:47:07,600] Let's see, 260 MeV about, right?
+- [00:47:07,600 - 00:47:10,600] Something like that. 300 MeV roughly.
+- [00:47:10,600 - 00:47:11,600] 300 MeV.
+- [00:47:11,600 - 00:47:13,600] What's the mass of a pion?
+- [00:47:14,600 - 00:47:16,600] About 140.
+- [00:47:17,600 - 00:47:19,600] About 140 MeV.
+- [00:47:19,600 - 00:47:23,100] So there's enough energy for this to happen and still
+- [00:47:23,100 - 00:47:26,600] leave over some kinetic energy for the pion to fly away.
+- [00:47:26,600 - 00:47:29,600] What kind of pion is this?
+- [00:47:29,600 - 00:47:31,600] With an up and a down bar.
+- [00:47:33,600 - 00:47:35,600] What's its charge?
+- [00:47:35,600 - 00:47:39,600] Two thirds and one third.
+- [00:47:39,600 - 00:47:45,600] So this is a pi plus and a proton.
+- [00:47:45,600 - 00:47:47,600] Total charge two.
+- [00:47:47,600 - 00:47:50,600] This is the object with charge two.
+- [00:47:50,600 - 00:47:53,600] So these delta objects are not stable.
+- [00:47:53,600 - 00:47:57,100] They all can decay into a
+- [00:47:57,100 - 00:48:00,600] proton or neutron and a pion.
+- [00:48:00,600 - 00:48:02,600] And they're very short-lived.
+- [00:48:04,600 - 00:48:07,600] Their lifetime, oh, we could work out the numerical,
+- [00:48:07,600 - 00:48:10,600] I'll tell you what their lifetime is, order of magnitude.
+- [00:48:10,600 - 00:48:13,100] Order of magnitude, it's the time that
+- [00:48:13,100 - 00:48:15,600] light would take to cross the proton.
+- [00:48:15,600 - 00:48:18,100] So you can figure out that the proton
+- [00:48:18,100 - 00:48:20,600] is about 10 to the minus 13 centimeters.
+- [00:48:22,600 - 00:48:24,600] What's the speed of light?
+- [00:48:24,600 - 00:48:26,600] 10 to the 10th centimeters per second.
+- [00:48:26,600 - 00:48:29,600] So 10 to the minus 23rd seconds or something.
+- [00:48:29,600 - 00:48:31,600] They don't last long.
+- [00:48:31,600 - 00:48:35,100] But they do last long enough to
+- [00:48:35,100 - 00:48:38,600] be identifiable as distinct objects when they're produced.
+- [00:48:38,600 - 00:48:39,600] These deltas.
+- [00:48:39,600 - 00:48:41,600] These deltas and collisions,
+- [00:48:41,600 - 00:48:43,600] particle collisions, deltas are produced.
+- [00:48:43,600 - 00:48:45,600] And they're real objects.
+- [00:48:45,600 - 00:48:47,600] But they're very, very short-lived.
+- [00:48:47,600 - 00:48:49,600] Excuse me.
+- [00:48:49,600 - 00:48:52,100] As a matter of notation, does it make
+- [00:48:52,100 - 00:48:54,600] any difference which order you put u's and v's?
+- [00:48:54,600 - 00:48:56,600] No, not for purposes here.
+- [00:48:56,600 - 00:48:57,600] No.
+- [00:48:57,600 - 00:48:58,600] No.
+- [00:48:58,600 - 00:49:00,600] Question about fermions.
+- [00:49:00,600 - 00:49:04,100] You have the, where you have the proton, you have
+- [00:49:04,100 - 00:49:07,600] the down quarks, then you have the two up quarks.
+- [00:49:07,600 - 00:49:12,600] You have the up quarks, then the fermions.
+- [00:49:12,600 - 00:49:14,600] They're fermions, but they can't be the same.
+- [00:49:14,600 - 00:49:18,600] Okay, that's exactly what we have to come to now.
+- [00:49:18,600 - 00:49:20,600] Alright, there's something wrong here.
+- [00:49:20,600 - 00:49:23,600] Something's rotten in the state of Denmark.
+- [00:49:25,600 - 00:49:27,600] What is it?
+- [00:49:27,600 - 00:49:31,600] Well, we have three up quarks whose
+- [00:49:31,600 - 00:49:35,600] spins are all in the same direction.
+- [00:49:35,600 - 00:49:38,100] We could put those spins, we could if
+- [00:49:38,100 - 00:49:40,600] we like, choose those spins to be all up
+- [00:49:40,600 - 00:49:42,600] and make a delta three halves with it.
+- [00:49:42,600 - 00:49:47,100] It's spin, ordinary spin up with all three in
+- [00:49:47,100 - 00:49:51,600] the same direction, and they'd all be three up quarks.
+- [00:49:51,600 - 00:49:53,600] You're not allowed to put
+- [00:49:53,600 - 00:49:55,600] two fermions in the same state.
+- [00:49:55,600 - 00:50:01,100] If you could fiddle around with a spin, maybe you could do
+- [00:50:01,100 - 00:50:06,600] something with a spin, but all the three spins are the same.
+- [00:50:06,600 - 00:50:07,600] Why are they the same?
+- [00:50:07,600 - 00:50:10,600] Because it has spin three halves.
+- [00:50:10,600 - 00:50:14,600] Three quarks with spin three halves have the same spin.
+- [00:50:14,600 - 00:50:17,600] They also have the same isospin.
+- [00:50:17,600 - 00:50:19,600] Namely, they're all up quarks.
+- [00:50:19,600 - 00:50:23,600] So, we seem to have found an
+- [00:50:23,600 - 00:50:27,600] object which consists of three identical up quarks.
+- [00:50:27,600 - 00:50:32,100] That's a violation of the principle that you
+- [00:50:32,100 - 00:50:36,600] cannot put two fermions into the same state.
+- [00:50:36,600 - 00:50:39,600] This was the clue that led to the question,
+- [00:50:40,600 - 00:50:45,600] eventually, to what is called quantum chromodynamics.
+- [00:50:45,600 - 00:50:50,600] It was realized that quarks have to have another property.
+- [00:50:50,600 - 00:50:53,600] They must have another property,
+- [00:50:53,600 - 00:50:57,600] so that the three quarks in the delta
+- [00:50:57,600 - 00:51:01,600] three halves can be different from each other.
+- [00:51:01,600 - 00:51:04,600] The fermion statistics, the fermionic property
+- [00:51:04,600 - 00:51:07,600] of them requires that they be different.
+- [00:51:07,600 - 00:51:09,600] So, there must be a label.
+- [00:51:09,600 - 00:51:14,600] Another label that was hidden from view for some reason,
+- [00:51:14,600 - 00:51:23,600] which is there, but not apparent in experiments.
+- [00:51:23,600 - 00:51:26,600] That label is called color.
+- [00:51:26,600 - 00:51:29,600] Color is, again, a highly arbitrary term.
+- [00:51:29,600 - 00:51:32,600] It has nothing whatever to do with ordinary color.
+- [00:51:32,600 - 00:51:35,600] And it was just a label to...
+- [00:51:35,600 - 00:51:37,600] to...
+- [00:51:37,600 - 00:51:38,600] to...
+- [00:51:38,600 - 00:51:40,600] a name.
+- [00:51:40,600 - 00:51:42,600] A name.
+- [00:51:42,600 - 00:51:43,600] Different...
+- [00:51:43,600 - 00:51:46,100] In different places, the three
+- [00:51:46,100 - 00:51:48,600] colors of quarks are different.
+- [00:51:48,600 - 00:51:51,600] In some places, they're red, white, and blue,
+- [00:51:51,600 - 00:51:54,600] mostly in the southern parts of the United States.
+- [00:51:58,600 - 00:52:01,600] Other places are red, green, and blue.
+- [00:52:01,600 - 00:52:05,600] Red, green, and blue being the primary colors of light.
+- [00:52:05,600 - 00:52:07,600] Opt that you see with your eyes.
+- [00:52:08,600 - 00:52:10,600] I will use red, green, and blue.
+- [00:52:10,600 - 00:52:13,100] I haven't heard red, white, and
+- [00:52:13,100 - 00:52:15,600] blue being used for a long time.
+- [00:52:15,600 - 00:52:18,600] Not for the last nine years or so.
+- [00:52:18,600 - 00:52:23,600] But they're just labels.
+- [00:52:23,600 - 00:52:26,100] They're just labels, and in no sense
+- [00:52:26,100 - 00:52:28,600] are they physically different one from another
+- [00:52:28,600 - 00:52:30,600] in any sort of interesting, measurable way.
+- [00:52:30,600 - 00:52:33,600] The fact that there are three distinct ones,
+- [00:52:33,600 - 00:52:36,600] and that they are not the same, is important.
+- [00:52:36,600 - 00:52:39,600] They have exactly the same mass.
+- [00:52:39,600 - 00:52:41,600] They have exactly the same properties.
+- [00:52:41,600 - 00:52:44,600] So, let's now write down what
+- [00:52:44,600 - 00:52:47,600] we know about the labeling of quarks.
+- [00:52:47,600 - 00:52:51,600] All the various quarks we know about.
+- [00:52:51,600 - 00:52:56,600] There are up quarks, down quarks.
+- [00:52:59,600 - 00:53:00,600] That's the lightest one.
+- [00:53:00,600 - 00:53:04,600] Then there are charmed quarks, strange quarks.
+- [00:53:04,600 - 00:53:05,600] And after charm comes topical quarks.
+- [00:53:05,600 - 00:53:06,600] Topical quarks.
+- [00:53:06,600 - 00:53:07,600] Top quarks.
+- [00:53:07,600 - 00:53:08,600] Top quarks.
+- [00:53:08,600 - 00:53:09,600] And bottom quarks.
+- [00:53:09,600 - 00:53:12,600] They're not listed in order of mass.
+- [00:53:12,600 - 00:53:13,600] The up is the lightest.
+- [00:53:13,600 - 00:53:14,600] The down is next.
+- [00:53:14,600 - 00:53:17,100] The charm is much heavier than the strange,
+- [00:53:17,100 - 00:53:19,600] by a factor of about eight, or something like
+- [00:53:19,600 - 00:53:20,600] that.
+- [00:53:20,600 - 00:53:22,600] And the top is vastly heavier than the bottom.
+- [00:53:22,600 - 00:53:24,600] But I've just put them in.
+- [00:53:24,600 - 00:53:27,600] I've been perverse and put up on top of down.
+- [00:53:27,600 - 00:53:32,600] I don't know why.
+- [00:53:32,600 - 00:53:35,600] These are the six distinct types of quarks.
+- [00:53:35,600 - 00:53:39,600] But now, for each type
+- [00:53:39,600 - 00:53:43,600] of quark, there is another label.
+- [00:53:43,600 - 00:53:49,600] So, quarks are labeled by two labels.
+- [00:53:49,600 - 00:53:56,600] And the two labels are red, green, and blue.
+- [00:53:56,600 - 00:53:59,600] As I said, I don't want anybody
+- [00:53:59,600 - 00:54:02,600] to think they're really red, green, and blue.
+- [00:54:02,600 - 00:54:03,600] But that's the label.
+- [00:54:03,600 - 00:54:05,600] And where did that come from?
+- [00:54:05,600 - 00:54:07,600] How did we know it was there?
+- [00:54:07,600 - 00:54:10,100] Well, it's one of these things
+- [00:54:10,100 - 00:54:12,600] where physicists simply followed their noses.
+- [00:54:12,600 - 00:54:14,600] They simply said, look, there's
+- [00:54:14,600 - 00:54:16,600] something wrong with this quark model.
+- [00:54:16,600 - 00:54:20,600] You can't have three quarks all in the same state.
+- [00:54:20,600 - 00:54:24,600] They must differ by something else.
+- [00:54:24,600 - 00:54:26,600] Now, they could differ by position.
+- [00:54:26,600 - 00:54:29,600] But it was known that, for one reason or
+- [00:54:29,600 - 00:54:32,600] another, that it didn't have to do with the quark.
+- [00:54:32,600 - 00:54:36,600] That it didn't have to do with position and momentum.
+- [00:54:36,600 - 00:54:40,100] That was known to be irrelevant
+- [00:54:40,100 - 00:54:43,600] for dynamical reasons, for energetic reasons.
+- [00:54:43,600 - 00:54:45,600] So that was not the issue.
+- [00:54:45,600 - 00:54:48,600] There were three quarks all in the same state.
+- [00:54:48,600 - 00:54:50,600] They must have...
+- [00:54:50,600 - 00:54:53,100] In fact, the situation was actually quite
+- [00:54:53,100 - 00:54:55,600] similar to what happened in atomic physics.
+- [00:54:55,600 - 00:55:00,600] Spin was discovered by Uhlenbeck and Goudsmit
+- [00:55:00,600 - 00:55:01,600] because of the...
+- [00:55:01,600 - 00:55:05,100] Because of atomic spectroscopy, helium had
+- [00:55:05,100 - 00:55:08,600] two electrons in the same state.
+- [00:55:08,600 - 00:55:09,600] No good.
+- [00:55:09,600 - 00:55:11,600] Violates the Pauli principle.
+- [00:55:11,600 - 00:55:13,100] Well, actually, the timing here, I
+- [00:55:13,100 - 00:55:14,600] think, may be a little bit confused.
+- [00:55:14,600 - 00:55:16,600] But it could have worked this way.
+- [00:55:16,600 - 00:55:18,100] They could have said, well, Pauli tells us
+- [00:55:18,100 - 00:55:19,600] that you can't put two things in that.
+- [00:55:19,600 - 00:55:20,600] Maybe it did work that way.
+- [00:55:20,600 - 00:55:21,600] I can't remember now.
+- [00:55:21,600 - 00:55:22,600] I wasn't around.
+- [00:55:22,600 - 00:55:24,600] I don't remember.
+- [00:55:24,600 - 00:55:26,600] But the reason...
+- [00:55:26,600 - 00:55:28,600] Or one of the reasons
+- [00:55:28,600 - 00:55:30,600] that Goudsmit and Uhlenbeck might have,
+- [00:55:30,600 - 00:55:32,600] since I don't know the history in detail,
+- [00:55:32,600 - 00:55:34,600] might have invented spin
+- [00:55:34,600 - 00:55:38,100] was because in the helium atom, there were
+- [00:55:38,100 - 00:55:41,600] two electrons apparently in the same orbital state.
+- [00:55:41,600 - 00:55:44,100] So you've got to attach
+- [00:55:44,100 - 00:55:46,600] to the electron another quantum number,
+- [00:55:46,600 - 00:55:51,600] another label.
+- [00:55:51,600 - 00:55:52,600] And that worked.
+- [00:55:52,600 - 00:55:54,600] That worked just fine.
+- [00:55:54,600 - 00:55:55,600] It worked a second time.
+- [00:55:55,600 - 00:55:57,600] History repeated itself.
+- [00:55:57,600 - 00:55:58,600] And various people...
+- [00:55:58,600 - 00:55:59,600] Nambu.
+- [00:55:59,600 - 00:56:02,600] Nambu was the one who realized this.
+- [00:56:02,600 - 00:56:04,600] Yoichiro Nambu.
+- [00:56:04,600 - 00:56:09,600] Nambu, the Japanese American physicist, Nambu,
+- [00:56:09,600 - 00:56:13,600] realized that this called for another quantum number.
+- [00:56:13,600 - 00:56:15,600] And he said every quark has
+- [00:56:15,600 - 00:56:17,600] to have another degree of freedom.
+- [00:56:17,600 - 00:56:19,600] I don't think he called it color.
+- [00:56:19,600 - 00:56:21,600] I suspect that was Gelman, but I'm not sure.
+- [00:56:21,600 - 00:56:23,600] But a good deal later.
+- [00:56:23,600 - 00:56:25,100] And then what he said is,
+- [00:56:25,100 - 00:56:26,600] look, all that's going on here
+- [00:56:26,600 - 00:56:28,600] is that you put three quarks together,
+- [00:56:28,600 - 00:56:31,600] one red, one green, and one blue.
+- [00:56:31,600 - 00:56:34,600] And now you're in business.
+- [00:56:34,600 - 00:56:37,600] No more violation of the Heisenberg uncertainty principle.
+- [00:56:37,600 - 00:56:40,100] The same trick, incidentally,
+- [00:56:40,100 - 00:56:42,600] works for protons and neutrons.
+- [00:56:42,600 - 00:56:46,100] That you can understand the proton
+- [00:56:46,100 - 00:56:49,600] and neutron also as a red...
+- [00:56:49,600 - 00:56:52,600] What are my colors again? Red, green, and blue.
+- [00:56:52,600 - 00:56:54,600] Those are the primary colors, right?
+- [00:56:54,600 - 00:56:55,600] Yeah.
+- [00:56:55,600 - 00:56:56,600] A question.
+- [00:56:56,600 - 00:56:57,600] So is there a physical property that can be measured,
+- [00:56:57,600 - 00:56:58,600] or...?
+- [00:56:58,600 - 00:56:59,600] No, no.
+- [00:56:59,600 - 00:57:03,600] In every possible way, they are the same,
+- [00:57:03,600 - 00:57:06,600] except we know there are three distinct ones.
+- [00:57:06,600 - 00:57:08,600] So if you had one, you could tell the other...
+- [00:57:08,600 - 00:57:09,600] Why?
+- [00:57:09,600 - 00:57:10,600] I mean, how can you say that?
+- [00:57:10,600 - 00:57:12,600] How can you say that maybe the, you know,
+- [00:57:12,600 - 00:57:14,600] the principle doesn't apply?
+- [00:57:14,600 - 00:57:16,600] Huh?
+- [00:57:16,600 - 00:57:19,600] If you can't detect the difference, right?
+- [00:57:19,600 - 00:57:20,600] You can...
+- [00:57:20,600 - 00:57:22,100] If you have one, you
+- [00:57:22,100 - 00:57:23,600] can tell the other one's different.
+- [00:57:23,600 - 00:57:25,600] How? What are you measuring?
+- [00:57:25,600 - 00:57:27,600] That's a little bit complicated.
+- [00:57:27,600 - 00:57:29,600] And in collisions, you can
+- [00:57:29,600 - 00:57:31,600] tell that if you have one...
+- [00:57:31,600 - 00:57:32,600] If you have two of them, you
+- [00:57:32,600 - 00:57:33,600] can tell that they can't be the same.
+- [00:57:33,600 - 00:57:35,600] That you can tell.
+- [00:57:35,600 - 00:57:38,600] Could you, in...
+- [00:57:38,600 - 00:57:39,600] Aren't they conserved?
+- [00:57:39,600 - 00:57:40,600] And the color conserved?
+- [00:57:40,600 - 00:57:41,600] Yeah.
+- [00:57:41,600 - 00:57:43,600] And in the action, you would have to find
+- [00:57:43,600 - 00:57:45,600] if they're not in a different color or something?
+- [00:57:45,600 - 00:57:47,600] Well, yeah, the color is
+- [00:57:47,600 - 00:57:49,600] conserved, but it's also always zero.
+- [00:57:49,600 - 00:57:52,600] It's not only conserved, but it's always zero.
+- [00:57:52,600 - 00:57:55,600] So it's a little bit funny conservation law.
+- [00:57:55,600 - 00:57:56,600] But look.
+- [00:57:56,600 - 00:57:58,600] You could say the same thing about...
+- [00:57:58,600 - 00:58:01,600] The solution doesn't quite tell you that you
+- [00:58:01,600 - 00:58:04,600] need all three of the colors for a UUV.
+- [00:58:04,600 - 00:58:05,600] Say it again?
+- [00:58:05,600 - 00:58:06,600] UUV.
+- [00:58:06,600 - 00:58:07,600] No.
+- [00:58:07,600 - 00:58:10,600] But you do need something to distinguish the two U's.
+- [00:58:10,600 - 00:58:11,600] Right.
+- [00:58:11,600 - 00:58:12,600] Yeah.
+- [00:58:12,600 - 00:58:13,100] But it gives you more
+- [00:58:13,100 - 00:58:13,600] than you need in that case.
+- [00:58:13,600 - 00:58:14,600] Yeah, it gives you more than you need.
+- [00:58:14,600 - 00:58:15,600] That's why...
+- [00:58:15,600 - 00:58:16,600] Oh.
+- [00:58:16,600 - 00:58:18,600] That's why historically the delta
+- [00:58:18,600 - 00:58:20,600] three halves played an important role.
+- [00:58:20,600 - 00:58:23,600] It was looking at this guy here, which was unambiguous.
+- [00:58:23,600 - 00:58:24,600] Three quarks, parallel spin, parallel...
+- [00:58:24,600 - 00:58:25,600] Yeah.
+- [00:58:25,600 - 00:58:29,600] ...isospin, something's wrong.
+- [00:58:29,600 - 00:58:33,600] It would have been possible to analyze the protons
+- [00:58:33,600 - 00:58:37,600] and neutrons, but it would have been less convincing.
+- [00:58:37,600 - 00:58:43,100] When the delta three halves was interpreted in terms
+- [00:58:43,100 - 00:58:48,600] of quarks, that really hit you over the head.
+- [00:58:48,600 - 00:58:53,600] So the ultimate resolution is...
+- [00:58:53,600 - 00:58:56,100] And we now know, you know, really
+- [00:58:56,100 - 00:58:58,600] experimentally extremely well that the three quarks...
+- [00:58:58,600 - 00:59:03,600] That three different kinds of colors are really there.
+- [00:59:03,600 - 00:59:07,600] You know, even with ordinary spin, what's the difference
+- [00:59:07,600 - 00:59:11,600] between spin up this way and spin that way?
+- [00:59:11,600 - 00:59:12,600] There's no difference.
+- [00:59:12,600 - 00:59:13,600] They have exactly the same property.
+- [00:59:13,600 - 00:59:16,600] All you have to do is turn your head over.
+- [00:59:16,600 - 00:59:18,600] Or spin this way.
+- [00:59:18,600 - 00:59:21,100] Unless you have another one to set
+- [00:59:21,100 - 00:59:23,600] a direction or something to set a direction...
+- [00:59:23,600 - 00:59:29,600] Then you can't tell the difference between them.
+- [00:59:29,600 - 00:59:33,100] On the other hand, if you have some object which picks
+- [00:59:33,100 - 00:59:36,600] out a direction and you bring a spin up to it,
+- [00:59:36,600 - 00:59:39,100] you can tell whether the spin
+- [00:59:39,100 - 00:59:41,600] is along a particular axis or not.
+- [00:59:41,600 - 00:59:45,100] In the same way, if you have a
+- [00:59:45,100 - 00:59:48,600] proton, a proton being different than a neutron,
+- [00:59:48,600 - 00:59:50,600] and a proton and a neutron are
+- [00:59:50,600 - 00:59:52,600] identifiable objects, I mean, in the laboratory,
+- [00:59:52,600 - 00:59:56,100] if you have a proton, it picks
+- [00:59:56,100 - 00:59:59,600] out a direction in this isospin space.
+- [00:59:59,600 - 01:00:03,600] It's up in the isospin direction, not down.
+- [01:00:03,600 - 01:00:09,100] And if you have another quark, you can discover whether that
+- [01:00:09,100 - 01:00:14,600] quark has its isospin parallel to or anti-parallel to the proton.
+- [01:00:14,600 - 01:00:16,600] So yes, you can tell...
+- [01:00:16,600 - 01:00:17,600] Not its isospin.
+- [01:00:17,600 - 01:00:20,600] You can tell whether it's...
+- [01:00:20,600 - 01:00:21,600] I said something wrong.
+- [01:00:22,600 - 01:00:24,600] But close enough.
+- [01:00:24,600 - 01:00:28,100] If you have one object, it can provide a
+- [01:00:28,100 - 01:00:31,600] kind of frame of reference for the other ones
+- [01:00:31,600 - 01:00:33,600] and test whether they're the same or not.
+- [01:00:33,600 - 01:00:40,100] But the mathematics of quantum chromodynamics simply
+- [01:00:40,100 - 01:00:46,600] requires that you have these three different things.
+- [01:00:46,600 - 01:00:48,600] You could say maybe it's
+- [01:00:48,600 - 01:00:50,600] a violation of the Pauli principle.
+- [01:00:50,600 - 01:00:51,600] You could.
+- [01:00:51,600 - 01:00:57,600] There's no known mathematical framework for discussing that.
+- [01:00:57,600 - 01:01:00,600] And there's no quantum field theory
+- [01:01:00,600 - 01:01:03,600] that has anything but fermions and bosons.
+- [01:01:03,600 - 01:01:06,600] So you'd have to invent something new.
+- [01:01:06,600 - 01:01:09,600] Yeah, well, I thought these...
+- [01:01:09,600 - 01:01:14,100] The Heisenberg attorney principle involves observable
+- [01:01:14,100 - 01:01:18,600] and, you know, like, momentum and position.
+- [01:01:18,600 - 01:01:19,600] Mm-hmm.
+- [01:01:19,600 - 01:01:22,100] And you can make a case
+- [01:01:22,100 - 01:01:24,600] that isospin is a kind of observable.
+- [01:01:24,600 - 01:01:25,600] Absolutely.
+- [01:01:25,600 - 01:01:31,600] But what would be the appropriate observable for Pauli?
+- [01:01:31,600 - 01:01:33,600] Much, much more subtle.
+- [01:01:33,600 - 01:01:34,600] Much more subtle.
+- [01:01:34,600 - 01:01:37,600] Much more subtle.
+- [01:01:37,600 - 01:01:39,600] Let's come back to it.
+- [01:01:39,600 - 01:01:41,600] I'll tell you when we get there
+- [01:01:41,600 - 01:01:43,600] after we've talked a little bit about...
+- [01:01:43,600 - 01:01:44,600] I have a question.
+- [01:01:44,600 - 01:01:47,600] It was known that quarks and fermions, mucosa,
+- [01:01:47,600 - 01:01:49,100] they're spin of the proton which
+- [01:01:49,100 - 01:01:50,600] is in the area of the quark.
+- [01:01:50,600 - 01:01:52,600] Is that how they were known to be?
+- [01:01:52,600 - 01:01:53,600] Mm-hmm.
+- [01:01:53,600 - 01:01:54,600] Okay.
+- [01:01:54,600 - 01:01:55,600] Yeah.
+- [01:01:55,600 - 01:01:56,600] I guess I have the
+- [01:01:56,600 - 01:01:57,600] same question in a different form.
+- [01:01:57,600 - 01:02:02,100] If you have a down, up, up, a
+- [01:02:02,100 - 01:02:06,600] proton, one of the three quarks is green.
+- [01:02:06,600 - 01:02:10,100] And since the down, there's only
+- [01:02:10,100 - 01:02:13,600] one of, I mean, the question is,
+- [01:02:13,600 - 01:02:15,100] how can you really associate one
+- [01:02:15,100 - 01:02:16,600] color with one of the quarks?
+- [01:02:17,600 - 01:02:21,600] No, you have to think of quantum superpositions of states.
+- [01:02:21,600 - 01:02:27,600] So you might write...
+- [01:02:27,600 - 01:02:32,600] Let's take the case of the proton up, down, down.
+- [01:02:32,600 - 01:02:37,600] This could be green, red, blue.
+- [01:02:37,600 - 01:02:45,600] But we have to write all possibilities,
+- [01:02:45,600 - 01:02:47,600] all ways of combining them,
+- [01:02:47,600 - 01:02:50,600] and to make a real proton.
+- [01:02:50,600 - 01:02:52,600] So we have to use some quantum mechanics
+- [01:02:52,600 - 01:02:54,600] to symmetrize the wave functions and so forth,
+- [01:02:54,600 - 01:02:58,600] symmetrize and anti-symmetrize them appropriately.
+- [01:02:58,600 - 01:03:01,600] But the big advantage of this delta three
+- [01:03:01,600 - 01:03:04,600] halves is you didn't have to do anything fancy.
+- [01:03:04,600 - 01:03:07,600] Just three all in the same direction.
+- [01:03:07,600 - 01:03:09,600] No.
+- [01:03:09,600 - 01:03:11,600] Okay.
+- [01:03:11,600 - 01:03:13,600] Sure, you could say, well, maybe there was
+- [01:03:13,600 - 01:03:15,600] something wrong with our ideas about quantum field theory.
+- [01:03:15,600 - 01:03:16,600] But by now,
+- [01:03:17,600 - 01:03:19,100] we're going to be able to
+- [01:03:19,100 - 01:03:20,600] do something about quantum field theory.
+- [01:03:20,600 - 01:03:22,100] We're going to be able to
+- [01:03:22,100 - 01:03:23,600] do something about quantum field theory.
+- [01:03:23,600 - 01:03:24,600] So,
+- [01:03:24,600 - 01:03:26,600] the theory of quantum chromodynamics, which is exactly...
+- [01:03:26,600 - 01:03:28,600] Chromo has to do with color.
+- [01:03:28,600 - 01:03:31,600] Color is the important quantity in quantum chromodynamics,
+- [01:03:31,600 - 01:03:34,100] just like charge is
+- [01:03:34,100 - 01:03:36,600] the important quantity in electrodynamics.
+- [01:03:36,600 - 01:03:41,100] This theory is a highly accurate description of
+- [01:03:41,100 - 01:03:45,600] experimental data associated with the collision of hadrons.
+- [01:03:45,600 - 01:03:47,100] And it's, you know, way
+- [01:03:47,100 - 01:03:48,600] beyond what can be questioned now.
+- [01:03:48,600 - 01:03:49,600] So,
+- [01:03:49,600 - 01:03:54,600] the ultimate answer is that it works.
+- [01:03:54,600 - 01:03:56,600] Okay, now let's talk about gluons.
+- [01:03:56,600 - 01:03:58,600] The missing ingredient now,
+- [01:03:58,600 - 01:04:01,600] we have the analog of electrons.
+- [01:04:01,600 - 01:04:03,600] The quarks.
+- [01:04:03,600 - 01:04:06,600] They're fermions.
+- [01:04:06,600 - 01:04:07,600] They have some attributes.
+- [01:04:07,600 - 01:04:09,600] They have some electric charge,
+- [01:04:09,600 - 01:04:11,600] like electrons.
+- [01:04:11,600 - 01:04:13,600] They stick together.
+- [01:04:13,600 - 01:04:14,100] Not quite the way you
+- [01:04:14,100 - 01:04:14,600] would expect them to stick together.
+- [01:04:14,600 - 01:04:15,100] Not quite the way you
+- [01:04:15,100 - 01:04:15,600] would expect them to stick together.
+- [01:04:15,600 - 01:04:19,600] The way the electrons stick to a nucleus,
+- [01:04:19,600 - 01:04:24,600] perhaps a little more the way electrons stick to positrons.
+- [01:04:24,600 - 01:04:26,600] But they stick together somehow.
+- [01:04:26,600 - 01:04:28,600] What's missing
+- [01:04:28,600 - 01:04:30,600] is what sticks them together.
+- [01:04:30,600 - 01:04:36,600] What sticks together atoms
+- [01:04:36,600 - 01:04:39,600] is the electrostatic field.
+- [01:04:39,600 - 01:04:42,600] The electrostatic field is associated with photons.
+- [01:04:42,600 - 01:04:44,600] We can either think of it in field language,
+- [01:04:44,600 - 01:04:45,600] that,
+- [01:04:45,600 - 01:04:48,600] every electron creates a field around it,
+- [01:04:48,600 - 01:04:51,600] or we can think of it in particle language,
+- [01:04:51,600 - 01:04:54,600] that electrons emit and absorb photons.
+- [01:04:54,600 - 01:04:56,100] The exchange of photons back
+- [01:04:56,100 - 01:04:57,600] and forth between charged particles
+- [01:04:57,600 - 01:05:02,600] creates the forces between them.
+- [01:05:02,600 - 01:05:04,600] What about quarks?
+- [01:05:04,600 - 01:05:09,600] What sticks them together?
+- [01:05:09,600 - 01:05:14,600] Particles very, very similar to the photon.
+- [01:05:14,600 - 01:05:16,600] At first it was a speculation.
+- [01:05:16,600 - 01:05:18,600] Maybe such objects exist.
+- [01:05:18,600 - 01:05:20,600] Then a theory was built,
+- [01:05:20,600 - 01:05:21,600] a mathematical theory was built,
+- [01:05:21,600 - 01:05:23,600] with quarks and gluons.
+- [01:05:23,600 - 01:05:25,600] Gluons being the analog of photons.
+- [01:05:25,600 - 01:05:27,600] They're very similar to photons.
+- [01:05:27,600 - 01:05:30,600] They have spin one, just like the photon,
+- [01:05:30,600 - 01:05:34,600] which means they have the same kind of polarization states.
+- [01:05:34,600 - 01:05:38,600] They're massless, like photons.
+- [01:05:38,600 - 01:05:39,600] Very similar,
+- [01:05:39,600 - 01:05:42,600] but with one big difference that we'll come to.
+- [01:05:42,600 - 01:05:45,600] And they jump back and forth.
+- [01:05:45,600 - 01:05:47,600] Well, on the one hand,
+- [01:05:47,600 - 01:05:52,600] a quark is a source of the field
+- [01:05:52,600 - 01:05:54,600] that's associated with gluons,
+- [01:05:54,600 - 01:05:55,600] the gluon field,
+- [01:05:55,600 - 01:05:57,600] in the same sense that the electron is the source
+- [01:05:57,600 - 01:05:59,600] of the electromagnetic field.
+- [01:05:59,600 - 01:06:01,600] On the other hand,
+- [01:06:01,600 - 01:06:04,600] not the other hand, but a similar hand,
+- [01:06:04,600 - 01:06:10,600] the quarks can emit and absorb gluons.
+- [01:06:10,600 - 01:06:11,600] What are gluons like?
+- [01:06:11,600 - 01:06:14,600] What quantities do gluons have?
+- [01:06:14,600 - 01:06:16,600] Photons are pretty,
+- [01:06:16,600 - 01:06:18,600] in a certain sense, uninteresting,
+- [01:06:18,600 - 01:06:20,600] except for the fact that they have a polarization.
+- [01:06:20,600 - 01:06:21,600] They have a spin.
+- [01:06:21,600 - 01:06:23,600] They have a polarization.
+- [01:06:23,600 - 01:06:24,600] They have a momentum,
+- [01:06:24,600 - 01:06:26,600] and they have a polarization.
+- [01:06:26,600 - 01:06:27,600] And that's about all.
+- [01:06:27,600 - 01:06:30,600] They don't have any charge.
+- [01:06:30,600 - 01:06:35,600] By itself, a photon,
+- [01:06:35,600 - 01:06:38,600] if it collides with another photon,
+- [01:06:38,600 - 01:06:40,600] there are no forces.
+- [01:06:40,600 - 01:06:43,600] Now, that's not exactly true.
+- [01:06:43,600 - 01:06:45,600] There are forces between photons,
+- [01:06:45,600 - 01:06:47,600] but they're secondary effects.
+- [01:06:47,600 - 01:06:49,600] They're not electrostatic forces
+- [01:06:49,600 - 01:06:51,600] because the photon is charged.
+- [01:06:51,600 - 01:06:53,600] They're secondary effects,
+- [01:06:53,600 - 01:06:55,600] which come from quantum electrodynamics
+- [01:06:55,600 - 01:06:58,600] and loops of quantum complicated
+- [01:06:58,600 - 01:07:00,600] Feynman diagrams involving electrons.
+- [01:07:00,600 - 01:07:03,600] But the primordial interaction between photons
+- [01:07:03,600 - 01:07:05,600] is there is none.
+- [01:07:05,600 - 01:07:07,600] They move freely past each other.
+- [01:07:07,600 - 01:07:09,100] And that's why a beam
+- [01:07:09,100 - 01:07:10,600] of light moving in one direction
+- [01:07:10,600 - 01:07:12,600] will pass through a beam of light
+- [01:07:12,600 - 01:07:15,600] moving in the other direction with no interaction,
+- [01:07:15,600 - 01:07:18,600] unless you're in some material.
+- [01:07:18,600 - 01:07:22,600] OK, so photons are not very interesting.
+- [01:07:22,600 - 01:07:24,600] And in the sense that
+- [01:07:24,600 - 01:07:26,600] they don't interact with each other,
+- [01:07:26,600 - 01:07:28,600] they are interesting from the point of view
+- [01:07:28,600 - 01:07:30,600] of their interaction with electrons.
+- [01:07:30,600 - 01:07:33,600] And basically, all of quantum electrodynamics
+- [01:07:33,600 - 01:07:36,600] is summarized by one diagram.
+- [01:07:36,600 - 01:07:39,600] And that diagram, which we've drawn several times,
+- [01:07:39,600 - 01:07:43,600] is the emission of a photon from an electron.
+- [01:07:43,600 - 01:07:49,600] Electrons are drawn as having a directionality,
+- [01:07:49,600 - 01:07:52,600] the direction along which the charge is moving.
+- [01:07:52,600 - 01:07:54,600] You can flip lines around,
+- [01:07:54,600 - 01:07:57,600] and every time you see an arrow going downward,
+- [01:07:57,600 - 01:07:59,600] that indicates a positron.
+- [01:07:59,600 - 01:08:04,600] But it's all one basic vertex.
+- [01:08:04,600 - 01:08:05,600] That's it.
+- [01:08:05,600 - 01:08:07,600] And out of that, you can build forces,
+- [01:08:07,600 - 01:08:09,600] you can build collisions, everything else.
+- [01:08:09,600 - 01:08:11,600] All right.
+- [01:08:11,600 - 01:08:16,600] Just for the purposes of bookkeeping,
+- [01:08:16,600 - 01:08:21,600] think of a photon as having the same charge
+- [01:08:21,600 - 01:08:25,600] as an electron and a positron.
+- [01:08:25,600 - 01:08:28,600] In fact, a photon, if it's given a hit
+- [01:08:28,600 - 01:08:30,600] and given a little extra energy,
+- [01:08:30,600 - 01:08:33,600] can decay into an electron and a positron.
+- [01:08:33,600 - 01:08:35,600] It's not that in any sense a photon
+- [01:08:35,600 - 01:08:37,600] is made of an electron and a positron.
+- [01:08:37,600 - 01:08:38,600] That's not the point.
+- [01:08:38,600 - 01:08:41,600] But it happens to have the same properties
+- [01:08:41,600 - 01:08:43,600] as an electron and a positron.
+- [01:08:43,600 - 01:08:45,600] In particular, its electric charge.
+- [01:08:45,600 - 01:08:48,600] It also has an angular momentum.
+- [01:08:48,600 - 01:08:51,600] It has a spin, a spin of one.
+- [01:08:51,600 - 01:08:53,600] And with an electron and positron,
+- [01:08:53,600 - 01:08:55,600] if you line up their spins,
+- [01:08:55,600 - 01:08:57,600] you can also make a spin of one.
+- [01:08:57,600 - 01:09:02,600] So in many ways, a photon is similar
+- [01:09:02,600 - 01:09:04,600] to an electron and a positron.
+- [01:09:04,600 - 01:09:06,600] That's sometimes indicated by drawing,
+- [01:09:06,600 - 01:09:08,600] by thinking of the photon,
+- [01:09:08,600 - 01:09:12,600] as a fictitious composite
+- [01:09:12,600 - 01:09:15,600] of an electron and a positron.
+- [01:09:15,600 - 01:09:17,600] And then this diagram,
+- [01:09:17,600 - 01:09:20,600] this diagram of the emission of a photon,
+- [01:09:20,600 - 01:09:23,600] can be drawn just by saying
+- [01:09:26,600 - 01:09:29,600] the electron comes along,
+- [01:09:29,600 - 01:09:32,600] becomes an electron over here.
+- [01:09:32,600 - 01:09:34,600] The electron over here
+- [01:09:34,600 - 01:09:36,600] was really a positron moving backward,
+- [01:09:36,600 - 01:09:37,600] which turned around.
+- [01:09:37,600 - 01:09:39,600] Now there's no content in this
+- [01:09:39,600 - 01:09:41,600] other than to say
+- [01:09:41,600 - 01:09:44,600] without losing any electric charge,
+- [01:09:44,600 - 01:09:46,600] you can emit a photon
+- [01:09:46,600 - 01:09:48,600] and you can see it directly.
+- [01:09:48,600 - 01:09:50,600] You certainly don't need this
+- [01:09:50,600 - 01:09:53,600] to see that an electron can emit a photon
+- [01:09:53,600 - 01:09:56,600] and that there's no violation of charge conservation.
+- [01:09:56,600 - 01:09:58,600] That's totally obvious
+- [01:09:58,600 - 01:10:01,600] that an electron can emit an electrically neutral thing.
+- [01:10:01,600 - 01:10:04,600] But nevertheless,
+- [01:10:04,600 - 01:10:07,600] let's just draw the emission of a photon,
+- [01:10:07,600 - 01:10:09,600] by thinking of the photon
+- [01:10:09,600 - 01:10:12,600] as a composite of an electron and positron.
+- [01:10:12,600 - 01:10:15,600] It's not useful for electrodynamics.
+- [01:10:15,600 - 01:10:17,600] The analog is quite useful
+- [01:10:17,600 - 01:10:20,600] for quantum chromodynamics.
+- [01:10:20,600 - 01:10:23,600] Okay, now let's come to quarks.
+- [01:10:23,600 - 01:10:27,600] Electrons, we're finished with.
+- [01:10:27,600 - 01:10:30,600] And the important thing in quantum chromodynamics
+- [01:10:30,600 - 01:10:32,600] is the color.
+- [01:10:32,600 - 01:10:34,600] So let's begin with quarks.
+- [01:10:34,600 - 01:10:36,600] Quarks can be red,
+- [01:10:36,600 - 01:10:38,600] green, or blue.
+- [01:10:38,600 - 01:10:41,600] Let's make a column vector out of them
+- [01:10:41,600 - 01:10:44,600] and use the language of quantum mechanics.
+- [01:10:44,600 - 01:10:47,600] A quark can either be in the red state,
+- [01:10:47,600 - 01:10:49,600] the green state, or the blue state.
+- [01:10:49,600 - 01:10:51,600] And make a column out of it.
+- [01:10:51,600 - 01:10:53,600] Okay.
+- [01:10:53,600 - 01:10:55,600] An anti-quark,
+- [01:10:55,600 - 01:10:58,600] let's represent anti-quarks
+- [01:10:58,600 - 01:11:00,600] by red bar,
+- [01:11:00,600 - 01:11:02,600] green bar,
+- [01:11:02,600 - 01:11:04,600] and blue bar.
+- [01:11:04,600 - 01:11:05,600] Okay.
+- [01:11:05,600 - 01:11:07,600] And blue bar.
+- [01:11:10,600 - 01:11:12,600] A gluon,
+- [01:11:12,600 - 01:11:13,600] first of all,
+- [01:11:13,600 - 01:11:15,600] a gluon is an object
+- [01:11:15,600 - 01:11:17,600] that can be emitted by a quark.
+- [01:11:17,600 - 01:11:19,600] If this is a quark,
+- [01:11:19,600 - 01:11:21,600] and a quark goes off,
+- [01:11:21,600 - 01:11:24,600] a gluon can be emitted.
+- [01:11:25,600 - 01:11:27,600] But the interesting thing is,
+- [01:11:27,600 - 01:11:31,600] the gluon behaves in some respects
+- [01:11:31,600 - 01:11:34,600] like a quark and an anti-quark.
+- [01:11:34,600 - 01:11:36,600] It's not a quark and an anti-quark.
+- [01:11:36,600 - 01:11:39,600] I'll tell you precisely in what sense
+- [01:11:39,600 - 01:11:41,600] it behaves like a quark and an anti-quark.
+- [01:11:41,600 - 01:11:44,600] But let's think of the gluon
+- [01:11:44,600 - 01:11:47,600] as a quark and an anti-quark in the same way.
+- [01:11:49,600 - 01:11:51,600] So how do we label,
+- [01:11:51,600 - 01:11:53,600] if we label each quark
+- [01:11:53,600 - 01:11:55,600] by a color,
+- [01:11:55,600 - 01:11:58,600] this now becomes a quark and an anti-quark.
+- [01:11:58,600 - 01:12:01,600] A quark and an anti-quark.
+- [01:12:01,600 - 01:12:03,600] How many different kinds of quarks and anti-quarks
+- [01:12:03,600 - 01:12:05,600] are there?
+- [01:12:05,600 - 01:12:07,600] What?
+- [01:12:07,600 - 01:12:09,600] Did I hear nine?
+- [01:12:09,600 - 01:12:11,600] Yeah.
+- [01:12:11,600 - 01:12:13,600] You're almost right.
+- [01:12:13,600 - 01:12:15,600] Right.
+- [01:12:15,600 - 01:12:17,600] The logic was what I was looking for.
+- [01:12:17,600 - 01:12:19,600] I wanted you to say nine.
+- [01:12:19,600 - 01:12:21,600] There's a subtlety,
+- [01:12:21,600 - 01:12:23,600] there's a subtlety which we'll come to.
+- [01:12:23,600 - 01:12:25,600] There are really only eight.
+- [01:12:25,600 - 01:12:28,600] But let's say nine to begin with.
+- [01:12:28,600 - 01:12:30,600] What are those nine quarks?
+- [01:12:30,600 - 01:12:32,600] Well, sorry, what are those nine gluons?
+- [01:12:33,600 - 01:12:35,600] They're the nine combinations
+- [01:12:35,600 - 01:12:36,600] that you can make
+- [01:12:36,600 - 01:12:39,600] by taking a quark and an anti-quark.
+- [01:12:39,600 - 01:12:42,600] In other words, they make a matrix.
+- [01:12:42,600 - 01:12:44,600] If quarks are like a column,
+- [01:12:44,600 - 01:12:47,600] then, and we might think of,
+- [01:12:47,600 - 01:12:49,600] just for fun, we might think of
+- [01:12:49,600 - 01:12:52,600] anti-quarks as making a row.
+- [01:12:53,600 - 01:12:56,600] Red bar, green bar, blue bar.
+- [01:12:56,600 - 01:12:58,600] Then gluons
+- [01:12:58,600 - 01:13:01,600] would fill out a matrix.
+- [01:13:01,600 - 01:13:02,600] All right?
+- [01:13:02,600 - 01:13:04,600] In other words, to label a gluon,
+- [01:13:04,600 - 01:13:06,600] you would label it with two indices,
+- [01:13:06,600 - 01:13:08,600] two colors, and what would they be?
+- [01:13:08,600 - 01:13:11,600] They would be red, red bar,
+- [01:13:11,600 - 01:13:13,600] red, green bar,
+- [01:13:13,600 - 01:13:17,600] red, blue bar,
+- [01:13:17,600 - 01:13:22,600] green, red bar,
+- [01:13:22,600 - 01:13:25,600] green, green bar,
+- [01:13:25,600 - 01:13:28,600] green, blue bar.
+- [01:13:28,600 - 01:13:30,600] What else?
+- [01:13:30,600 - 01:13:37,600] B, R bar, B, G bar, B, B bar.
+- [01:13:37,600 - 01:13:40,600] So the diagonals are indistinguishable.
+- [01:13:40,600 - 01:13:41,600] Say that again?
+- [01:13:41,600 - 01:13:44,600] The diagonal elements are indistinguishable.
+- [01:13:44,600 - 01:13:46,600] Well, the diagonal elements
+- [01:13:46,600 - 01:13:48,600] are not really indistinguishable,
+- [01:13:48,600 - 01:13:50,600] but the point is that the sum
+- [01:13:50,600 - 01:13:56,600] of the diagonal elements is
+- [01:13:56,600 - 01:13:59,600] is not an independent quantum state.
+- [01:14:00,600 - 01:14:01,600] All right, so it would seem like
+- [01:14:01,600 - 01:14:03,600] there are nine gluons.
+- [01:14:03,600 - 01:14:06,600] Later on, we will talk about
+- [01:14:06,600 - 01:14:08,600] a particular subtlety
+- [01:14:08,600 - 01:14:10,600] which tells us the quantum mechanical
+- [01:14:10,600 - 01:14:13,600] superposition of red, red bar
+- [01:14:13,600 - 01:14:14,600] plus green, green bar
+- [01:14:14,600 - 01:14:15,600] plus blue, blue bar
+- [01:14:15,600 - 01:14:16,600] is a nothing.
+- [01:14:16,600 - 01:14:18,600] It doesn't exist.
+- [01:14:18,600 - 01:14:21,600] But for now, for our purposes right now,
+- [01:14:21,600 - 01:14:22,600] let's neglect that.
+- [01:14:22,600 - 01:14:24,600] There are really only eight gluons,
+- [01:14:24,600 - 01:14:26,600] but it really does look,
+- [01:14:26,600 - 01:14:27,600] from this pattern here,
+- [01:14:27,600 - 01:14:28,600] that there should be nine.
+- [01:14:28,600 - 01:14:29,600] So let's play with it
+- [01:14:29,600 - 01:14:32,600] as if there were nine.
+- [01:14:32,600 - 01:14:35,600] Then what kind of Feynman diagrams
+- [01:14:35,600 - 01:14:36,600] can exist?
+- [01:14:36,600 - 01:14:38,600] Well, a quark can become
+- [01:14:38,600 - 01:14:40,600] another kind of quark
+- [01:14:40,600 - 01:14:42,600] and emit a gluon.
+- [01:14:42,600 - 01:14:43,600] All right, so let's draw
+- [01:14:43,600 - 01:14:45,600] the diagram for that.
+- [01:14:45,600 - 01:14:52,600] Let's take the case of a red quark
+- [01:14:52,600 - 01:14:55,600] becoming a green quark
+- [01:14:55,600 - 01:14:56,600] and emitting a gluon.
+- [01:14:56,600 - 01:14:58,600] What kind of gluon gets emitted?
+- [01:14:59,600 - 01:15:06,600] Red, green bar.
+- [01:15:06,600 - 01:15:10,600] Where's red, green bar here?
+- [01:15:10,600 - 01:15:13,600] Right here.
+- [01:15:13,600 - 01:15:16,600] Red, green bar.
+- [01:15:16,600 - 01:15:17,600] And if you like,
+- [01:15:17,600 - 01:15:18,600] you can draw that
+- [01:15:18,600 - 01:15:20,600] with a neat notation.
+- [01:15:20,600 - 01:15:24,600] The notation is just a bookkeeping device, really.
+- [01:15:24,600 - 01:15:25,600] And here it's useful.
+- [01:15:25,600 - 01:15:27,600] Here it really is useful.
+- [01:15:27,600 - 01:15:28,600] Just think of the red
+- [01:15:28,600 - 01:15:29,600] going through
+- [01:15:29,600 - 01:15:31,600] and the green also is going through,
+- [01:15:31,600 - 01:15:33,600] except when you flip the green line over,
+- [01:15:33,600 - 01:15:38,600] it becomes an anti-green and a red.
+- [01:15:38,600 - 01:15:40,600] So the gluon that's emitted
+- [01:15:40,600 - 01:15:45,600] is as if the red just went through
+- [01:15:45,600 - 01:15:49,600] and the green annihilated a green bar.
+- [01:15:49,600 - 01:15:51,600] That's the basic vertex
+- [01:15:51,600 - 01:15:53,600] of quantum chromodynamics.
+- [01:15:53,600 - 01:15:54,600] There's not just one of them.
+- [01:15:54,600 - 01:15:56,600] There are nine of them,
+- [01:15:56,600 - 01:15:57,600] or actually only eight.
+- [01:15:57,600 - 01:16:01,100] But the pattern is quark
+- [01:16:01,100 - 01:16:04,600] goes to another kind of quark
+- [01:16:04,600 - 01:16:08,600] and a gluon is emitted.
+- [01:16:08,600 - 01:16:11,600] If a red quark goes to a red quark,
+- [01:16:11,600 - 01:16:13,600] then it's a red, red bar.
+- [01:16:13,600 - 01:16:15,600] If a red quark goes to a blue quark,
+- [01:16:15,600 - 01:16:16,600] then it's a red, blue bar,
+- [01:16:16,600 - 01:16:18,600] and so forth and so on.
+- [01:16:18,600 - 01:16:20,600] Okay.
+- [01:16:20,600 - 01:16:24,600] Now, that's, as I said,
+- [01:16:24,600 - 01:16:25,600] the basic,
+- [01:16:25,600 - 01:16:28,600] the basic phenomenon
+- [01:16:28,600 - 01:16:35,600] or the basic primitive building block
+- [01:16:35,600 - 01:16:37,600] of quantum chromodynamics.
+- [01:16:37,600 - 01:16:39,600] You can build all sorts of,
+- [01:16:39,600 - 01:16:41,600] sorry, that's half,
+- [01:16:41,600 - 01:16:43,600] that's one of the building blocks.
+- [01:16:43,600 - 01:16:46,600] There is another building block
+- [01:16:46,600 - 01:16:49,600] that isn't there for quantum electrodynamics.
+- [01:16:49,600 - 01:16:50,600] As I said,
+- [01:16:50,600 - 01:16:53,600] photons don't interact with each other.
+- [01:16:53,600 - 01:16:54,600] In particular,
+- [01:16:54,600 - 01:16:57,600] a photon can't emit a photon
+- [01:16:57,600 - 01:16:59,600] and another photon.
+- [01:16:59,600 - 01:17:00,600] Electron can emit a photon
+- [01:17:00,600 - 01:17:02,600] and stay an electron.
+- [01:17:02,600 - 01:17:05,600] Photons don't emit photons.
+- [01:17:05,600 - 01:17:08,600] So photons don't interact with each other
+- [01:17:08,600 - 01:17:13,600] in any way except in materials.
+- [01:17:13,600 - 01:17:15,600] Yeah.
+- [01:17:15,600 - 01:17:17,600] Gluons are only emitted
+- [01:17:17,600 - 01:17:19,600] with a change of quark.
+- [01:17:19,600 - 01:17:20,600] No, they can,
+- [01:17:20,600 - 01:17:22,600] no, they can have,
+- [01:17:22,600 - 01:17:23,600] they don't have to change the quark.
+- [01:17:23,600 - 01:17:25,600] I mean,
+- [01:17:25,600 - 01:17:27,600] about this process.
+- [01:17:31,600 - 01:17:32,600] Whether it changes
+- [01:17:32,600 - 01:17:33,600] or whether it does not change,
+- [01:17:33,600 - 01:17:34,600] nevertheless,
+- [01:17:34,600 - 01:17:35,600] this is the only method,
+- [01:17:35,600 - 01:17:37,600] the way in which one emits a gluon.
+- [01:17:37,600 - 01:17:38,600] That's right.
+- [01:17:38,600 - 01:17:39,600] This is the only way
+- [01:17:39,600 - 01:17:41,600] in which gluons are emitted.
+- [01:17:41,600 - 01:17:43,600] But there is something new
+- [01:17:43,600 - 01:17:45,600] that makes quantum chromodynamics,
+- [01:17:45,600 - 01:17:46,600] first of all,
+- [01:17:46,600 - 01:17:48,600] far more complicated
+- [01:17:48,600 - 01:17:50,600] and far more interesting
+- [01:17:50,600 - 01:17:52,600] than electrodynamics.
+- [01:17:53,600 - 01:17:56,600] Let's take a gluon moving along.
+- [01:17:56,600 - 01:17:57,600] Here's a gluon.
+- [01:17:57,600 - 01:17:58,600] Let's see.
+- [01:17:58,600 - 01:18:00,600] Let's take that gluon to be a
+- [01:18:00,600 - 01:18:05,600] red-blue bar gluon.
+- [01:18:05,600 - 01:18:09,600] That's a red-blue bar gluon.
+- [01:18:09,600 - 01:18:11,600] Okay.
+- [01:18:11,600 - 01:18:12,600] Now, can this happen?
+- [01:18:12,600 - 01:18:13,600] I'm going to show you something
+- [01:18:13,600 - 01:18:14,600] that, yes,
+- [01:18:14,600 - 01:18:17,600] is really part of quantum chromodynamics.
+- [01:18:17,600 - 01:18:19,600] It's a very simple thing.
+- [01:18:19,600 - 01:18:21,600] It's a very simple thing.
+- [01:18:21,600 - 01:18:22,600] It's a very simple thing.
+- [01:18:22,600 - 01:18:24,600] You can't just draw it.
+- [01:18:24,600 - 01:18:25,600] Maybe it's not too surprising
+- [01:18:25,600 - 01:18:26,600] once I draw it.
+- [01:18:26,600 - 01:18:28,600] This is not really a quark,
+- [01:18:28,600 - 01:18:30,600] but just imagine it's a fictitious quark
+- [01:18:30,600 - 01:18:32,600] making up the gluon.
+- [01:18:32,600 - 01:18:33,600] All right?
+- [01:18:33,600 - 01:18:34,600] Fictitious quark goes off.
+- [01:18:34,600 - 01:18:36,600] Well, if it's a fictitious quark,
+- [01:18:36,600 - 01:18:37,600] it better not really go off,
+- [01:18:37,600 - 01:18:38,600] but we'll see in a moment
+- [01:18:38,600 - 01:18:40,600] what happens to it,
+- [01:18:40,600 - 01:18:42,600] and the blue bar keeps going.
+- [01:18:42,600 - 01:18:44,600] But now,
+- [01:18:44,600 - 01:18:47,600] if these really were quarks,
+- [01:18:47,600 - 01:18:49,600] a quark and an anti-quark could form.
+- [01:18:49,600 - 01:18:50,600] What kind of quark and anti-quark
+- [01:18:50,600 - 01:18:51,600] would you like to put there?
+- [01:18:51,600 - 01:18:56,180] like to put there? Green? Let's put green
+- [01:18:56,180 - 01:19:00,760] there. This would be green going this way,
+- [01:19:00,760 - 01:19:03,870] and this would be anti-green going this way,
+- [01:19:03,870 - 01:19:06,980] and this would be red. So red goes
+- [01:19:06,980 - 01:19:10,550] through, blue bar goes through, and
+- [01:19:10,550 - 01:19:14,120] green becomes anti-green going that way. Well,
+- [01:19:14,120 - 01:19:17,380] what do we have now? Now we have
+- [01:19:17,380 - 01:19:20,640] a basic vertex in which three gluons come
+- [01:19:20,640 - 01:19:24,840] together. Let's draw gluons as wavy lines
+- [01:19:24,840 - 01:19:29,040] similar to the photons. We now have a
+- [01:19:29,040 - 01:19:35,340] vertex in which a red-blue bar becomes
+- [01:19:35,340 - 01:19:41,640] a red-green bar and a green-blue bar. We
+- [01:19:41,640 - 01:19:43,950] don't really have to remember what
+- [01:19:43,950 - 01:19:46,260] combinations are possible. All we have to
+- [01:19:46,260 - 01:19:49,640] do is figure out which diagrams we can draw
+- [01:19:49,640 - 01:19:50,620] one by one.
+- [01:19:50,640 - 01:19:54,410] So, remember the governance of
+- [01:19:54,410 - 01:19:58,180] these elements in terms of uh,
+- [01:19:58,180 - 01:20:00,540] where to
+- [01:20:00,540 - 01:20:04,870] go accurately, to recognize the
+- [01:20:04,870 - 01:20:09,200] identity of these elements and then,
+- [01:20:09,200 - 01:20:20,260] what variance to take to see whether they are南
+- [01:20:20,640 - 01:20:24,010] between them. Gluons can exchange gluons between
+- [01:20:24,010 - 01:20:27,380] them. So now let's come to forces.
+- [01:20:27,380 - 01:20:29,800] The gluon behaves in a way which
+- [01:20:29,800 - 01:20:32,220] is similar to the photon and does something
+- [01:20:32,220 - 01:20:37,210] which is similar to what the photon
+- [01:20:37,210 - 01:20:42,200] does. It can be exchanged. Here's a diagram.
+- [01:20:42,200 - 01:20:45,280] It's easy to draw diagrams where quarks
+- [01:20:45,280 - 01:20:48,360] interact with each other. All right, let's
+- [01:20:48,360 - 01:20:52,630] let's draw a diagram in which
+- [01:20:52,630 - 01:20:56,900] an anti-quark interacts with a quark.
+- [01:20:56,900 - 01:21:03,440] All right, here's a blue bar anti-quark
+- [01:21:03,440 - 01:21:10,869] which emits a blue bar green gluon,
+- [01:21:10,869 - 01:21:18,299] becomes a green gluon, and now the
+- [01:21:18,299 - 01:21:18,309] green gluon is a blue bar. So now if you look at the diagram, you can see that this
+- [01:21:18,309 - 01:21:18,320] is a blue bar green gluon which emits a blue bar green gluon becomes a green gluon and now the
+- [01:21:18,320 - 01:21:18,339] green gluon becomes a green gluon and now the
+- [01:21:18,340 - 01:21:21,270] green gluon, the green, sorry, let's
+- [01:21:21,270 - 01:21:24,200] see, this would be a green bar.
+- [01:21:24,700 - 01:21:27,280] This would be a blue green bar gluon.
+- [01:21:29,280 - 01:21:34,140] His green bar is blue, but let's
+- [01:21:34,140 - 01:21:39,000] say that blue goes right through like that.
+- [01:21:40,180 - 01:21:41,180] And what do we have here?
+- [01:21:41,180 - 01:21:45,290] We have here now an exchange of a gluon between a
+- [01:21:45,290 - 01:21:49,400] blue bar and a blue, making a green bar and a green.
+- [01:21:50,960 - 01:21:54,840] That's a kind of force between quarks.
+- [01:21:56,080 - 01:22:00,990] That creates a force between quarks in very much
+- [01:22:00,990 - 01:22:05,900] the same way that photons exchanged between electrons create forces.
+- [01:22:07,320 - 01:22:08,900] You might want to make a force
+- [01:22:08,900 - 01:22:10,480] between a blue bar and a blue bar.
+- [01:22:10,560 - 01:22:10,900] Supposing we want...
+- [01:22:11,180 - 01:22:14,820] Supposing we wanted a force between a blue bar and
+- [01:22:14,820 - 01:22:18,460] a blue, then we would make this blue bar here.
+- [01:22:21,160 - 01:22:22,460] All right, so we can make
+- [01:22:22,460 - 01:22:23,760] all sorts of forces this way.
+- [01:22:25,020 - 01:22:27,100] But what about forces between gluons?
+- [01:22:27,780 - 01:22:29,550] All we have to do to this
+- [01:22:29,550 - 01:22:31,320] diagram is add an extra two lines.
+- [01:22:31,580 - 01:22:33,160] What did I have this originally?
+- [01:22:36,080 - 01:22:37,460] Blue bar, let's make it blue bar.
+- [01:22:40,560 - 01:22:41,080] Blue bar.
+- [01:22:41,180 - 01:22:43,060] Green bar up here.
+- [01:22:45,020 - 01:22:45,880] Green up here.
+- [01:22:47,180 - 01:22:48,820] Let's put another line in here.
+- [01:22:50,060 - 01:22:51,620] It's not another quark now.
+- [01:22:51,840 - 01:22:54,300] It's really going to be representing a gluon.
+- [01:22:55,120 - 01:22:57,080] And this one, let's take to be red.
+- [01:22:58,900 - 01:23:00,120] Red goes right through.
+- [01:23:02,560 - 01:23:04,180] Let's put another line over here.
+- [01:23:04,940 - 01:23:05,740] I don't know, what did
+- [01:23:05,740 - 01:23:06,540] I take that one to be?
+- [01:23:06,600 - 01:23:08,080] I think I took that one to be blue bar.
+- [01:23:10,080 - 01:23:10,740] Blue bar.
+- [01:23:11,180 - 01:23:11,680] Blue bar.
+- [01:23:11,680 - 01:23:12,180] Blue bar.
+- [01:23:12,180 - 01:23:15,430] This is now a diagram which represents
+- [01:23:15,430 - 01:23:18,680] the exchange of a gluon between two gluons.
+- [01:23:19,180 - 01:23:20,940] This is really something new.
+- [01:23:20,940 - 01:23:24,940] This is something very, very different than electrodynamics.
+- [01:23:24,940 - 01:23:26,180] What does it lead to?
+- [01:23:26,180 - 01:23:28,940] It leads to forces between gluons.
+- [01:23:30,940 - 01:23:34,440] Quarks can bind together because of
+- [01:23:34,440 - 01:23:37,940] the exchange of gluons and make hadrons.
+- [01:23:37,940 - 01:23:40,940] But gluons can bind together and make objects.
+- [01:23:41,180 - 01:23:43,930] There are objects in quantum
+- [01:23:43,930 - 01:23:46,680] chromodynamics which contain no quarks.
+- [01:23:47,380 - 01:23:49,080] There are no bound objects.
+- [01:23:49,220 - 01:23:51,910] There are no bound states, composite objects in
+- [01:23:51,910 - 01:23:54,600] quantum electrodynamics just made up out of photons.
+- [01:23:55,260 - 01:23:56,760] There are objects which are
+- [01:23:56,760 - 01:23:58,260] just made up out of gluons.
+- [01:23:58,380 - 01:23:59,260] And how do they happen?
+- [01:23:59,620 - 01:24:02,440] They happen because gluons can
+- [01:24:02,440 - 01:24:05,260] exchange gluons back and forth.
+- [01:24:05,260 - 01:24:09,480] We could just summarize this by saying,
+- [01:24:09,480 - 01:24:12,980] there's a force due to
+- [01:24:12,980 - 01:24:16,480] the exchange of gluons between gluons.
+- [01:24:16,480 - 01:24:20,980] This would also mean, for example, that if you
+- [01:24:20,980 - 01:24:25,480] had two waves of gluons going past each other,
+- [01:24:25,480 - 01:24:27,480] they would interact with each other.
+- [01:24:27,480 - 01:24:29,480] They would deform each other.
+- [01:24:29,480 - 01:24:31,480] They wouldn't just go through each
+- [01:24:31,480 - 01:24:33,480] other just like two electromagnetic waves.
+- [01:24:33,480 - 01:24:36,079] In fact, even if you had
+- [01:24:36,079 - 01:24:38,679] a single gluon wave moving along,
+- [01:24:38,680 - 01:24:43,680] the different parts of it would exert forces on each other
+- [01:24:43,680 - 01:24:48,680] and cause it to deform or do whatever it might do.
+- [01:24:48,680 - 01:24:53,180] So, the watchword is that
+- [01:24:53,180 - 01:24:57,680] the dynamics of gluons is non-linear.
+- [01:24:57,680 - 01:24:59,680] Yeah?
+- [01:24:59,680 - 01:25:02,180] Do we have to have the same
+- [01:25:02,180 - 01:25:04,680] number of reds, greens, and blues with the...
+- [01:25:04,680 - 01:25:06,180] You just have to make sure
+- [01:25:06,180 - 01:25:07,680] the lines follow through the diagram.
+- [01:25:07,680 - 01:25:08,680] On each side.
+- [01:25:08,680 - 01:25:09,680] Interrupted.
+- [01:25:09,680 - 01:25:11,680] We have to have the conservation of colors.
+- [01:25:11,680 - 01:25:14,680] Well, that's what following the lines means.
+- [01:25:14,680 - 01:25:16,680] Okay, well, we have to...
+- [01:25:16,680 - 01:25:18,680] Where? Did I draw this
+- [01:25:18,680 - 01:25:20,680] wrong? I might have drawn the...
+- [01:25:20,680 - 01:25:22,680] Oh, sorry, this should be green bar.
+- [01:25:22,680 - 01:25:25,680] This should be green bar, green, green bar.
+- [01:25:25,680 - 01:25:27,680] Yeah, sorry.
+- [01:25:27,680 - 01:25:30,680] The rule is, follow the lines.
+- [01:25:30,680 - 01:25:33,180] When a line turns around in time
+- [01:25:33,180 - 01:25:35,680] like that, change it to an antiparticle.
+- [01:25:35,680 - 01:25:36,680] And...
+- [01:25:36,680 - 01:25:41,680] That's basically the only rule of quantum chromodynamics,
+- [01:25:41,680 - 01:25:46,680] that there are interactions between quarks and gluons,
+- [01:25:46,680 - 01:25:50,680] and they satisfy the... let's call
+- [01:25:50,680 - 01:25:54,680] it the follow the line rule.
+- [01:25:54,680 - 01:25:55,680] Alright?
+- [01:25:55,680 - 01:25:58,180] And there are interactions between gluons and
+- [01:25:58,180 - 01:26:00,680] gluons, and they also follow the line rule.
+- [01:26:00,680 - 01:26:05,680] We still have an anti-color problem with Rg.
+- [01:26:05,680 - 01:26:07,680] Let's see where.
+- [01:26:07,680 - 01:26:10,680] Rg bar...
+- [01:26:10,680 - 01:26:12,680] Oh, sorry, Rg.
+- [01:26:12,680 - 01:26:14,680] That's...
+- [01:26:14,680 - 01:26:17,680] Rb bar, this should be b bar.
+- [01:26:17,680 - 01:26:20,680] And that should be g.
+- [01:26:20,680 - 01:26:23,680] No, this should be b bar.
+- [01:26:23,680 - 01:26:25,680] Going this way.
+- [01:26:25,680 - 01:26:28,180] This one should be g, and
+- [01:26:28,180 - 01:26:30,680] this one should be g bar.
+- [01:26:30,680 - 01:26:32,680] Okay, let's draw, let's do it over.
+- [01:26:32,680 - 01:26:33,680] Yeah, yeah.
+- [01:26:33,680 - 01:26:34,680] I messed it up badly enough, but I...
+- [01:26:34,680 - 01:26:35,680] Yeah.
+- [01:26:35,680 - 01:26:36,680] I should do it over.
+- [01:26:36,680 - 01:26:38,680] This is a good chance to do it over.
+- [01:26:40,680 - 01:26:41,680] Okay.
+- [01:26:41,680 - 01:26:43,680] This should be...
+- [01:26:48,680 - 01:26:53,680] Okay, so I think I had blue bar over here.
+- [01:26:53,680 - 01:26:55,680] Red, if I remember.
+- [01:26:55,680 - 01:26:56,680] I don't remember.
+- [01:26:56,680 - 01:27:00,680] Red goes through, so it stays red.
+- [01:27:00,680 - 01:27:03,180] Blue bar goes over here, and then
+- [01:27:03,180 - 01:27:05,680] turns around, so this must be blue.
+- [01:27:05,680 - 01:27:07,680] Okay.
+- [01:27:07,680 - 01:27:10,680] This one was blue bar.
+- [01:27:10,680 - 01:27:13,680] It has to be a quark and an anti-quark.
+- [01:27:13,680 - 01:27:17,680] Blue bar straight through.
+- [01:27:17,680 - 01:27:18,680] Blue bar here.
+- [01:27:18,680 - 01:27:20,180] And now we have our choice
+- [01:27:20,180 - 01:27:21,680] what we want to put over here.
+- [01:27:21,680 - 01:27:25,680] So I think I put green going this way.
+- [01:27:25,680 - 01:27:29,680] Green, green, green bar.
+- [01:27:29,680 - 01:27:32,680] Green goes right through the diagram.
+- [01:27:32,680 - 01:27:34,680] Okay.
+- [01:27:34,680 - 01:27:39,680] I think it makes sense.
+- [01:27:39,680 - 01:27:42,680] Every line just goes straight through.
+- [01:27:42,680 - 01:27:46,680] Red goes straight through that way.
+- [01:27:46,680 - 01:27:49,680] Blue bar goes straight through this way.
+- [01:27:49,680 - 01:27:51,680] Well, we can put the arrow
+- [01:27:51,680 - 01:27:53,680] the other way to indicate anti-particle.
+- [01:27:53,680 - 01:27:58,180] So assuming that the intermediate chain
+- [01:27:58,180 - 01:28:02,680] part would be a quark anti-quark?
+- [01:28:02,680 - 01:28:03,680] Yeah.
+- [01:28:03,680 - 01:28:04,680] Yeah.
+- [01:28:04,680 - 01:28:12,680] Now, gluons always have the properties of quark anti-quarks.
+- [01:28:12,680 - 01:28:14,180] Earlier, by analogy with the photon,
+- [01:28:14,180 - 01:28:15,680] you said the gluons were massless.
+- [01:28:15,680 - 01:28:16,680] Yeah.
+- [01:28:16,680 - 01:28:19,180] Are these diagrams with
+- [01:28:19,180 - 01:28:21,680] all these still convincingly massless?
+- [01:28:21,680 - 01:28:23,680] They are massless.
+- [01:28:23,680 - 01:28:26,680] We're going to come to what the meaning of
+- [01:28:26,680 - 01:28:29,680] the mass of a quark and a gluon are.
+- [01:28:29,680 - 01:28:31,680] All right?
+- [01:28:31,680 - 01:28:37,740] in a technical and special sense.
+- [01:28:38,660 - 01:28:40,780] I'll tell you right now what the special sense is.
+- [01:28:42,480 - 01:28:44,480] We're going to quit in a
+- [01:28:44,480 - 01:28:46,480] minute or two, in fact, right now.
+- [01:28:46,860 - 01:28:48,260] I'll give you an example.
+- [01:28:48,800 - 01:28:50,600] We're going to come, we're going
+- [01:28:50,600 - 01:28:52,400] to study this theory one more week,
+- [01:28:53,120 - 01:28:55,320] and we're going to talk about the confinement of quarks,
+- [01:28:55,440 - 01:28:56,790] and we're going to talk about
+- [01:28:56,790 - 01:28:58,140] the structure of hadrons and so forth.
+- [01:28:58,140 - 01:29:03,030] But let me just tell you in what sense a
+- [01:29:03,030 - 01:29:07,920] quark or a gluon does or does not have a mass,
+- [01:29:08,660 - 01:29:10,550] or does or does not have
+- [01:29:10,550 - 01:29:12,440] the mass that we ascribe to it.
+- [01:29:13,340 - 01:29:16,600] So let me imagine that I have an object
+- [01:29:16,600 - 01:29:19,860] of mass m, a small object of mass m,
+- [01:29:20,520 - 01:29:23,870] and the small object of mass m has attached
+- [01:29:23,870 - 01:29:27,220] to it a, I don't know what it is,
+- [01:29:27,220 - 01:29:27,880] it's whatever.
+- [01:29:28,140 - 01:29:28,860] I don't know what you want it to be.
+- [01:29:28,940 - 01:29:32,590] Some sort of wiggly, soft piece of
+- [01:29:32,590 - 01:29:36,240] chewing gum or something that dangles off it.
+- [01:29:38,520 - 01:29:40,940] Now I want to move this object.
+- [01:29:42,040 - 01:29:45,940] If I move the object with a very small force,
+- [01:29:46,240 - 01:29:50,920] the force being so small that it doesn't deform,
+- [01:29:50,920 - 01:29:54,510] that the acceleration is so slow
+- [01:29:54,510 - 01:29:58,100] that the whole thing moves off together.
+- [01:29:58,140 - 01:30:02,740] What kind of mass does it have?
+- [01:30:03,740 - 01:30:05,480] The answer is it has the
+- [01:30:05,480 - 01:30:07,220] mass of whatever you put here,
+- [01:30:07,360 - 01:30:09,810] plus the mass of the wad of
+- [01:30:09,810 - 01:30:12,260] chewing gum or whatever it happens to be.
+- [01:30:14,180 - 01:30:16,250] We're thinking now purely non-relativistically,
+- [01:30:16,250 - 01:30:18,320] just to give you an analogy.
+- [01:30:18,860 - 01:30:20,670] On the other hand, supposing I shake
+- [01:30:20,670 - 01:30:22,480] this thing with a very high frequency,
+- [01:30:22,480 - 01:30:23,860] and I ask,
+- [01:30:24,860 - 01:30:28,060] what are the properties?
+- [01:30:28,140 - 01:30:30,140] What are the properties of the motion
+- [01:30:30,140 - 01:30:32,140] of the core of it over here,
+- [01:30:32,140 - 01:30:34,640] when it's been subjected to a very,
+- [01:30:34,640 - 01:30:37,140] very high frequency force of some sort?
+- [01:30:37,140 - 01:30:39,140] What kind of mass does it have over here?
+- [01:30:41,140 - 01:30:44,140] Just the mass of this object alone, right?
+- [01:30:44,140 - 01:30:46,640] The rest of it doesn't have
+- [01:30:46,640 - 01:30:49,140] time to adjust to the forces.
+- [01:30:49,140 - 01:30:50,140] It just stands still.
+- [01:30:50,140 - 01:30:52,140] Now maybe this sends out a wave all right,
+- [01:30:52,140 - 01:30:55,140] but the very rapid oscillation here,
+- [01:30:55,140 - 01:30:57,140] the response of this end here,
+- [01:30:57,140 - 01:30:57,640] will be the same as
+- [01:30:57,640 - 01:30:58,140] the response of this end here,
+- [01:30:58,140 - 01:31:01,140] would be the response of an object of mass m.
+- [01:31:01,140 - 01:31:03,140] So what is the mass of it?
+- [01:31:03,140 - 01:31:04,140] Is it the mass of the sum of them,
+- [01:31:04,140 - 01:31:05,140] or is it the mass
+- [01:31:05,140 - 01:31:06,140] of the thing at the end?
+- [01:31:06,140 - 01:31:08,140] The answer is ill-defined.
+- [01:31:08,140 - 01:31:11,640] The answer depends on the frequency of
+- [01:31:11,640 - 01:31:15,140] the force that you exert on it.
+- [01:31:16,140 - 01:31:20,140] Masses of objects are frequency dependent,
+- [01:31:21,140 - 01:31:22,140] or,
+- [01:31:24,140 - 01:31:25,140] well, in this sense,
+- [01:31:25,140 - 01:31:27,140] in this sense,
+- [01:31:27,140 - 01:31:29,140] the mass of this object,
+- [01:31:29,140 - 01:31:33,140] the observed mass of it that it would respond with,
+- [01:31:33,140 - 01:31:36,140] would depend on the frequency of the motion.
+- [01:31:36,140 - 01:31:37,140] In the same sense,
+- [01:31:37,140 - 01:31:42,140] the mass of a quark is frequency dependent.
+- [01:31:42,140 - 01:31:44,140] If you shake,
+- [01:31:44,140 - 01:31:48,140] a quark is some kind of object inside a hadron,
+- [01:31:48,140 - 01:31:49,140] there are three of them,
+- [01:31:49,140 - 01:31:51,140] and there's a bunch of mushy
+- [01:31:51,140 - 01:31:53,140] gluon stuff in there holding them together.
+- [01:31:53,140 - 01:31:55,140] Okay?
+- [01:31:55,140 - 01:31:57,140] If you were to try
+- [01:31:57,140 - 01:31:59,140] to move the quark by itself,
+- [01:31:59,140 - 01:32:02,140] if you were to try to move the quark slowly,
+- [01:32:02,140 - 01:32:04,140] if you grabbed the whole of that quark,
+- [01:32:04,140 - 01:32:05,140] if you could do so,
+- [01:32:05,140 - 01:32:08,140] and you moved it very slowly,
+- [01:32:08,140 - 01:32:11,140] the whole thing would drag along,
+- [01:32:11,140 - 01:32:13,140] and what would be the mass of it?
+- [01:32:13,140 - 01:32:16,140] What would be the mass you would experience?
+- [01:32:16,140 - 01:32:17,140] The mass of the whole thing,
+- [01:32:17,140 - 01:32:18,140] which could be the mass of the proton,
+- [01:32:18,140 - 01:32:22,140] which is 930-something-or-others.
+- [01:32:22,140 - 01:32:24,140] What about if you were to,
+- [01:32:24,140 - 01:32:28,140] to exert a very high frequency force on it?
+- [01:32:28,140 - 01:32:29,140] Well, I'm not going to tell you what,
+- [01:32:29,140 - 01:32:31,140] well, the answer would be
+- [01:32:31,140 - 01:32:34,140] what we normally call the mass of the quark.
+- [01:32:34,140 - 01:32:37,140] That's this 5 or 10 MeV
+- [01:32:37,140 - 01:32:40,140] for an up or down quark.
+- [01:32:40,140 - 01:32:42,140] So the mass of the quark,
+- [01:32:42,140 - 01:32:44,140] when it's subjected to a very, very high frequency,
+- [01:32:44,140 - 01:32:46,140] or when it's hit very hard,
+- [01:32:46,140 - 01:32:48,140] and you try to see how it flies off,
+- [01:32:48,140 - 01:32:51,140] dragging this other stuff behind it,
+- [01:32:51,140 - 01:32:54,140] the initial impulse that it gets,
+- [01:32:54,140 - 01:32:56,140] and the initial velocity that it goes off with,
+- [01:32:56,140 - 01:32:58,140] will be sensitive to the,
+- [01:32:58,140 - 01:33:01,140] to one value of the mass.
+- [01:33:01,140 - 01:33:03,140] On the other hand, if you hit it very slowly
+- [01:33:03,140 - 01:33:07,140] with a very gentle, low frequency force,
+- [01:33:07,140 - 01:33:09,140] the whole thing would move off.
+- [01:33:09,140 - 01:33:10,640] So the concept of what
+- [01:33:10,640 - 01:33:12,140] is the mass of a quark
+- [01:33:12,140 - 01:33:16,140] is somewhat ambiguous,
+- [01:33:16,140 - 01:33:19,140] and to keep the discussion simple,
+- [01:33:19,140 - 01:33:21,140] let's say the mass that we usually ascribe
+- [01:33:21,140 - 01:33:23,140] to the floor, to the quark,
+- [01:33:23,140 - 01:33:26,140] are these high frequency responses,
+- [01:33:26,140 - 01:33:29,140] analogous to the mass at the end
+- [01:33:29,140 - 01:33:32,140] of the wall of chewing gum here.
+- [01:33:32,140 - 01:33:36,140] Isn't that a restatement of delta x delta t?
+- [01:33:36,140 - 01:33:37,140] Not really.
+- [01:33:37,140 - 01:33:38,140] This is a completely,
+- [01:33:38,140 - 01:33:41,140] in this case, this is a completely classical phenomenon
+- [01:33:41,140 - 01:33:48,140] that you have a small little nut
+- [01:33:48,140 - 01:33:52,140] at the end of a wiggly something or other,
+- [01:33:52,140 - 01:33:54,140] you shake it very rapidly,
+- [01:33:54,140 - 01:33:58,140] you see it accelerates with one kind of acceleration,
+- [01:33:58,140 - 01:34:00,140] you accelerate it with a low frequency,
+- [01:34:00,140 - 01:34:01,140] it accelerates differently.
+- [01:34:01,140 - 01:34:02,140] That's a classical phenomenon.
+- [01:34:02,140 - 01:34:04,140] It does not have to do with the...
+- [01:34:04,140 - 01:34:06,140] In the last lecture,
+- [01:34:06,140 - 01:34:08,140] you described the electric charge,
+- [01:34:08,140 - 01:34:09,140] the charge of the electron.
+- [01:34:09,140 - 01:34:10,140] Yeah.
+- [01:34:10,140 - 01:34:11,140] But it's similar.
+- [01:34:11,140 - 01:34:13,140] Yes. Yes. Yes.
+- [01:34:13,140 - 01:34:15,140] Lesson, that's exactly right.
+- [01:34:15,140 - 01:34:17,140] The lesson is the parameters
+- [01:34:17,140 - 01:34:19,140] that we describe particles with
+- [01:34:19,140 - 01:34:22,140] are dependent on the mass.
+- [01:34:22,140 - 01:34:25,140] They're dependent on frequencies and wavelengths
+- [01:34:25,140 - 01:34:28,140] of the interactions that they engage in.
+- [01:34:28,140 - 01:34:30,140] They're called running constants.
+- [01:34:30,140 - 01:34:33,140] So we say the charge of a quark is plus,
+- [01:34:33,140 - 01:34:35,140] you say minus one-third.
+- [01:34:35,140 - 01:34:36,140] Yeah.
+- [01:34:36,140 - 01:34:37,140] Is that,
+- [01:34:37,140 - 01:34:39,140] the same story applies as the case of the electron?
+- [01:34:39,140 - 01:34:40,140] It does. It does.
+- [01:34:40,140 - 01:34:42,140] We have to sort out exactly what we mean
+- [01:34:42,140 - 01:34:43,140] by the charge of a quark,
+- [01:34:43,140 - 01:34:45,140] but let's just put it this way.
+- [01:34:45,140 - 01:34:47,140] It's one-third the charge of a proton,
+- [01:34:47,140 - 01:34:48,140] but yes, you're right.
+- [01:34:48,140 - 01:34:51,140] We do have to define it carefully.
+- [01:34:51,140 - 01:34:53,140] And that's a whole story unto itself.
+- [01:34:53,140 - 01:34:54,140] Yeah.
+- [01:34:54,140 - 01:34:55,140] Yes.
+- [01:34:55,140 - 01:34:59,140] Why do you always have to have a quark
+- [01:34:59,140 - 01:35:01,140] and an antiviral quark?
+- [01:35:01,140 - 01:35:04,140] Why can't two quarks form a part?
+- [01:35:04,140 - 01:35:06,140] That's a good question.
+- [01:35:06,140 - 01:35:07,140] Next.
+- [01:35:07,140 - 01:35:08,140] No, no, no, no.
+- [01:35:08,140 - 01:35:10,140] That's what we're going to talk about.
+- [01:35:10,140 - 01:35:12,140] We're going, that's next.
+- [01:35:14,140 - 01:35:15,140] Right.
+- [01:35:15,140 - 01:35:17,140] Yeah.
+- [01:35:17,140 - 01:35:20,140] Just might be to not have the right time
+- [01:35:20,140 - 01:35:21,140] for this question,
+- [01:35:21,140 - 01:35:22,140] but this,
+- [01:35:22,140 - 01:35:26,140] all this stuff with quarks here,
+- [01:35:26,140 - 01:35:29,140] it's so odd with the fractional charges and color.
+- [01:35:29,140 - 01:35:31,140] And my question is,
+- [01:35:31,140 - 01:35:33,140] and because you can't look at individual quarks,
+- [01:35:33,140 - 01:35:35,140] how do people figure this out?
+- [01:35:35,140 - 01:35:37,140] Well, that took time.
+- [01:35:37,140 - 01:35:42,140] Yeah.
+- [01:35:42,140 - 01:35:44,140] Well, there was a number of clues.
+- [01:35:44,140 - 01:35:46,140] There were a number of clues.
+- [01:35:46,140 - 01:35:48,140] Um,
+- [01:35:50,140 - 01:35:53,140] By the time I came into physics,
+- [01:35:53,140 - 01:36:00,140] the idea of quarks was already established.
+- [01:36:00,140 - 01:36:01,140] I mean, by 19,
+- [01:36:01,140 - 01:36:04,140] I was a graduate student in 1963
+- [01:36:04,140 - 01:36:09,140] when Murray Gilman announced the idea of quarks.
+- [01:36:09,140 - 01:36:12,140] So, and I do know how he came to it,
+- [01:36:12,140 - 01:36:18,140] but the,
+- [01:36:18,140 - 01:36:19,140] there were clues.
+- [01:36:19,140 - 01:36:21,140] There were a lot of clues.
+- [01:36:21,140 - 01:36:23,140] Um,
+- [01:36:23,140 - 01:36:25,140] there were a lot of clues,
+- [01:36:25,140 - 01:36:29,140] but there were also a lot of inconsistencies.
+- [01:36:29,140 - 01:36:31,140] Um,
+- [01:36:31,140 - 01:36:32,140] so,
+- [01:36:32,140 - 01:36:37,140] it was a pattern of suggestive facts
+- [01:36:37,140 - 01:36:39,140] together with apparent inconsistencies,
+- [01:36:39,140 - 01:36:43,140] such as the violation of Fermi statistics.
+- [01:36:43,140 - 01:36:46,140] And there was another fact which was very peculiar.
+- [01:36:46,140 - 01:36:48,140] The other fact we'll come to next time
+- [01:36:48,140 - 01:36:50,140] had to do with the fact that
+- [01:36:50,140 - 01:36:52,140] quarks are never produced in the laboratory,
+- [01:36:52,140 - 01:36:55,140] that they're always permanently
+- [01:36:55,140 - 01:36:58,140] confined inside protons, neutrons, mesons.
+- [01:36:58,140 - 01:37:00,140] That was another fact.
+- [01:37:00,140 - 01:37:02,140] And, uh,
+- [01:37:02,140 - 01:37:05,140] it wasn't one person who put it together.
+- [01:37:05,140 - 01:37:07,640] It was a whole variety of
+- [01:37:07,640 - 01:37:10,140] people who put the whole thing together.
+- [01:37:10,140 - 01:37:13,140] Nambu had the right idea in the early 60s.
+- [01:37:13,140 - 01:37:15,140] He had the right idea.
+- [01:37:15,140 - 01:37:15,640] But the whole thing got put
+- [01:37:15,640 - 01:37:16,140] together and, you know, nailed in place.
+- [01:37:16,140 - 01:37:20,140] And the whole structure was put
+- [01:37:20,140 - 01:37:24,140] together over a period of ten years.
+- [01:37:24,140 - 01:37:29,140] Can you explain why there's only eight gluons?
+- [01:37:29,140 - 01:37:31,140] Yeah, we will talk about that.
+- [01:37:31,140 - 01:37:33,140] Yeah.
+- [01:37:33,140 - 01:37:39,140] From the start, this whole theory is ignoring electrons.
+- [01:37:39,140 - 01:37:42,140] Yes, this theory is ignoring electrons now.
+- [01:37:42,140 - 01:37:45,140] Just like in quantum electrodynamics, we ignore quarks.
+- [01:37:46,140 - 01:37:48,140] Then we have to put them together.
+- [01:37:48,140 - 01:37:50,140] We have to put them together
+- [01:37:50,140 - 01:37:52,140] into some coherent thing in which
+- [01:37:52,140 - 01:37:56,640] quarks and electrons and photons and
+- [01:37:56,640 - 01:38:01,140] all of them form one bigger structure.
+- [01:38:01,140 - 01:38:03,640] Some of which has been done
+- [01:38:03,640 - 01:38:06,140] and some of it has not been.
+- [01:38:06,140 - 01:38:10,140] So, yeah, it is a process of isolating.
+- [01:38:10,140 - 01:38:12,140] I mean, physics always works that way.
+- [01:38:12,140 - 01:38:15,140] You isolate, you divide and conquer.
+- [01:38:16,140 - 01:38:20,140] And then you have to put it all together.
+- [01:38:20,140 - 01:38:22,140] Okay, good.
+- [01:38:22,140 - 01:38:24,140] Let's...
+- [01:38:24,140 - 01:38:28,004] For more, please visit us at stanford.edu.
