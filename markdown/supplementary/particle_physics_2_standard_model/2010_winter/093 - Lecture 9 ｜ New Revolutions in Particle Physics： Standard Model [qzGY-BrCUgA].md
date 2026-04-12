@@ -1,0 +1,2424 @@
+# Transcript
+
+Source: supplementary/particle_physics_2_standard_model/2010_winter/093 - Lecture 9 ｜ New Revolutions in Particle Physics： Standard Model [qzGY-BrCUgA].mkv
+
+- [00:00:00,000 - 00:00:06,400] Stanford University.
+- [00:00:08,520 - 00:00:11,000] I'll go over it again very quickly
+- [00:00:11,000 - 00:00:13,480] and then tell you what the Higgs phenomenon
+- [00:00:13,480 - 00:00:18,560] has to do with masses of quarks and leptons.
+- [00:00:18,560 - 00:00:23,200] So far I've explained to you how the gauge bosons,
+- [00:00:24,720 - 00:00:28,120] not the photon, but the z and the w boson,
+- [00:00:28,120 - 00:00:32,280] how they obtain masses from this shift of
+- [00:00:32,280 - 00:00:36,440] the field away from the most symmetric position.
+- [00:00:36,440 - 00:00:38,280] Which field? The Higgs field.
+- [00:00:38,280 - 00:00:44,240] But I went through it in a very simple context
+- [00:00:44,240 - 00:00:45,900] where I made it look
+- [00:00:45,900 - 00:00:47,560] very much like ordinary electrodynamics.
+- [00:00:47,560 - 00:00:49,440] And I'll continue to do that, but keep
+- [00:00:49,440 - 00:00:51,320] in mind we're not talking about the photon,
+- [00:00:51,320 - 00:00:53,880] we're talking about other gauge particles.
+- [00:00:53,880 - 00:00:56,680] So let's just go back to...
+- [00:00:56,680 - 00:00:57,880] a little bit of time.
+- [00:00:57,880 - 00:00:58,040] Let's go back to the first one.
+- [00:00:58,040 - 00:00:58,080] Let's go back to the first one.
+- [00:00:58,080 - 00:00:58,120] Let's go back to the first one.
+- [00:00:58,120 - 00:01:01,879] Electrodynamics, which we're not really talking about,
+- [00:01:01,879 - 00:01:05,160] but still, the mathematics is the same.
+- [00:01:05,160 - 00:01:09,840] There are these gauge bosons, the analogs of photons.
+- [00:01:09,840 - 00:01:12,200] The mathematics of them may be a little more complicated.
+- [00:01:12,200 - 00:01:13,960] The symmetry group may not be
+- [00:01:13,960 - 00:01:15,720] U1, it may be SU2 or SU3,
+- [00:01:15,720 - 00:01:18,400] but that's not terribly important.
+- [00:01:18,400 - 00:01:24,400] And there is a dynamics that leads to Maxwell's equations.
+- [00:01:24,400 - 00:01:26,219] It's governed, in fact, as the
+- [00:01:26,219 - 00:01:28,039] simplest way to encapsulate it is in
+- [00:01:28,040 - 00:01:30,160] terms of a Lagrangian.
+- [00:01:30,160 - 00:01:36,760] You begin with...
+- [00:01:36,760 - 00:01:44,480] a good pen.
+- [00:01:44,480 - 00:01:45,960] You begin with the field tensor.
+- [00:01:45,960 - 00:01:47,920] Let me just remind you what it is.
+- [00:01:47,920 - 00:01:56,400] It's in terms of...
+- [00:01:56,400 - 00:01:57,520] the vector potential.
+- [00:01:57,520 - 00:01:58,640] You begin with that.
+- [00:01:58,640 - 00:02:00,600] You square it.
+- [00:02:00,600 - 00:02:02,119] Let's just call it F squared.
+- [00:02:02,119 - 00:02:06,280] You make the appropriate Lorentz invariant combination
+- [00:02:06,280 - 00:02:11,400] of squares of components of electric and magnetic field.
+- [00:02:11,400 - 00:02:13,880] And that's the Lagrangian.
+- [00:02:13,880 - 00:02:18,120] And notice it only contains derivatives of A.
+- [00:02:18,120 - 00:02:22,120] And therefore, the photon is massless.
+- [00:02:22,120 - 00:02:24,320] To have a mass, you have to have...
+- [00:02:24,320 - 00:02:25,720] you have to get an energy.
+- [00:02:25,720 - 00:02:27,440] A mass corresponds to an energy.
+- [00:02:27,440 - 00:02:29,640] A mass is a mass of
+- [00:02:29,640 - 00:02:31,840] energy corresponding to shifting a field
+- [00:02:31,840 - 00:02:35,560] homogeneously everywhere with no derivatives.
+- [00:02:35,560 - 00:02:38,740] This has no energy or no energy associated
+- [00:02:38,740 - 00:02:41,920] with a uniform shift of the vector potential
+- [00:02:41,920 - 00:02:44,040] because only the derivatives come in.
+- [00:02:44,040 - 00:02:46,920] And so the photon, by virtue of this, is massless.
+- [00:02:46,920 - 00:02:48,920] It moves at the speed of light.
+- [00:02:48,920 - 00:02:52,680] And this simply leads to Maxwell's equations.
+- [00:02:52,680 - 00:02:54,000] Now you add something else.
+- [00:02:54,000 - 00:02:55,560] You add this Higgs field.
+- [00:02:55,560 - 00:02:56,560] The Higgs field...
+- [00:02:56,560 - 00:03:00,180] The Higgs field is a
+- [00:03:00,180 - 00:03:03,800] field which corresponds to charged particles.
+- [00:03:03,800 - 00:03:05,540] Again, I emphasize we're not
+- [00:03:05,540 - 00:03:07,280] talking about ordinary electric charge.
+- [00:03:07,280 - 00:03:09,040] We're talking about the charges that
+- [00:03:09,040 - 00:03:10,800] couple to the Z and W bosons,
+- [00:03:10,800 - 00:03:12,880] the weak charges.
+- [00:03:12,880 - 00:03:15,400] And we write this phi in the
+- [00:03:15,400 - 00:03:17,920] form rho E to the i alpha.
+- [00:03:17,920 - 00:03:20,680] It's a complex valued field.
+- [00:03:20,680 - 00:03:24,040] Rho times E to the i alpha.
+- [00:03:24,040 - 00:03:26,440] And we write down its Lagrangian.
+- [00:03:26,440 - 00:03:29,140] We write its Lagrangian in terms of
+- [00:03:29,140 - 00:03:31,840] these things that I called covariant derivatives.
+- [00:03:31,840 - 00:03:34,120] d phi
+- [00:03:34,120 - 00:03:37,040] is equal to the derivative of phi
+- [00:03:37,040 - 00:03:41,060] plus, or I can't remember if it's plus or minus
+- [00:03:41,060 - 00:03:44,280] i times vector potential times phi.
+- [00:03:44,300 - 00:03:48,020] We write the Lagrangian in terms of those things.
+- [00:03:48,020 - 00:03:51,930] And all of a sudden we have
+- [00:03:51,930 - 00:03:55,840] an interesting interaction between the electromagnetic field
+- [00:03:55,840 - 00:03:58,500] and the charge field. Here's the
+- [00:03:58,500 - 00:04:01,160] source of the interaction right over here.
+- [00:04:01,160 - 00:04:03,280] That would be,
+- [00:04:03,280 - 00:04:04,960] basically that would be
+- [00:04:04,960 - 00:04:06,640] electrodynamics, ordinary electrodynamics, but now
+- [00:04:06,640 - 00:04:08,600] something new happens.
+- [00:04:08,600 - 00:04:12,220] The something new that happens is the energetics,
+- [00:04:12,220 - 00:04:14,480] the potential energy of phi,
+- [00:04:14,480 - 00:04:17,060] favor something unusual,
+- [00:04:17,060 - 00:04:19,180] namely that phi,
+- [00:04:19,180 - 00:04:21,290] the minimum value of phi, sorry, the
+- [00:04:21,290 - 00:04:23,400] minimum value of the potential energy is
+- [00:04:23,400 - 00:04:25,600] not at phi equals zero,
+- [00:04:25,600 - 00:04:27,040] but
+- [00:04:27,040 - 00:04:28,980] at the bottom of this
+- [00:04:28,980 - 00:04:30,920] Mexican hat potential somewhere, an arbitrary
+- [00:04:30,920 - 00:04:32,820] position along there.
+- [00:04:32,820 - 00:04:36,160] And so we write that phi, let's say
+- [00:04:36,160 - 00:04:39,500] the radius of this circle here is F,
+- [00:04:39,500 - 00:04:41,660] the magnitude of the field, the magnitude of
+- [00:04:41,660 - 00:04:43,820] this, let's call it by its name, the
+- [00:04:43,820 - 00:04:45,960] magnitude of this Higgs field,
+- [00:04:45,960 - 00:04:48,200] is now F,
+- [00:04:48,200 - 00:04:52,840] it's shifted away from the origin by amount F,
+- [00:04:52,840 - 00:04:54,700] and it is also true
+- [00:04:54,700 - 00:04:55,520] that the
+- [00:04:55,520 - 00:04:57,840] curvature at the bottom here is very steep,
+- [00:04:57,840 - 00:04:59,960] and so it costs a lot of energy
+- [00:04:59,960 - 00:05:03,080] to shift the field away from the bottom here.
+- [00:05:03,080 - 00:05:05,120] In some first approximation,
+- [00:05:05,120 - 00:05:07,760] we can just say
+- [00:05:07,760 - 00:05:12,760] that phi is simply equal to F, the numerical number,
+- [00:05:12,760 - 00:05:15,760] times e to the i alpha of
+- [00:05:15,760 - 00:05:18,760] x. Only alpha is allowed to vary,
+- [00:05:18,760 - 00:05:20,760] and F is sort of frozen.
+- [00:05:20,760 - 00:05:22,860] Frozen because it takes too much energy to shift it away
+- [00:05:22,860 - 00:05:24,960] from the middle, and so it's a little bit more difficult.
+- [00:05:25,520 - 00:05:27,919] So we write that phi is the derivative of x,
+- [00:05:27,919 - 00:05:30,620] and that's the minimum,
+- [00:05:30,620 - 00:05:33,979] but alpha, the angular variable, is still there.
+- [00:05:33,979 - 00:05:36,189] We could write, let me tell
+- [00:05:36,189 - 00:05:38,400] you what happens now, we could take
+- [00:05:38,400 - 00:05:40,039] this form
+- [00:05:40,039 - 00:05:42,099] for phi
+- [00:05:42,099 - 00:05:46,919] and figure out what the covariant derivative of phi is,
+- [00:05:46,919 - 00:05:49,799] given that phi has this frozen form
+- [00:05:49,799 - 00:05:51,979] where only alpha varies.
+- [00:05:51,979 - 00:05:53,520] I'll write it for you.
+- [00:05:53,520 - 00:05:54,159] It's just equal, let's see, to
+- [00:05:54,159 - 00:05:54,799] the derivative of phi, which is 0.5.
+- [00:05:55,520 - 00:06:02,520] So we write the derivative of alpha
+- [00:06:02,700 - 00:06:05,719] plus i a.
+- [00:06:05,719 - 00:06:08,659] Now all of that gets multiplied
+- [00:06:08,659 - 00:06:10,060] by F
+- [00:06:10,060 - 00:06:13,859] times e to the i alpha.
+- [00:06:13,859 - 00:06:18,200] That's the covariant derivative of phi.
+- [00:06:18,200 - 00:06:20,359] The derivative of alpha,
+- [00:06:20,359 - 00:06:24,039] sorry, I think it's i, no i here,
+- [00:06:24,040 - 00:06:27,540] plus this, and maybe there's an overall,
+- [00:06:27,540 - 00:06:31,040] yes, I think there's an overall i.
+- [00:06:31,040 - 00:06:33,540] That's what you get when
+- [00:06:33,540 - 00:06:36,040] you calculate the covariant derivative.
+- [00:06:36,040 - 00:06:38,540] Now, next thing we're going to do
+- [00:06:38,540 - 00:06:41,040] is multiply this by its complex conjugate
+- [00:06:41,040 - 00:06:46,040] to compute the action, or the Lagrangian, for what?
+- [00:06:46,040 - 00:06:48,040] For F? No, F is just a number.
+- [00:06:48,040 - 00:06:50,040] We've already assumed that F can't vary very much.
+- [00:06:50,040 - 00:06:52,040] The Lagrangian for alpha.
+- [00:06:52,040 - 00:06:54,040] Let's see what we get.
+- [00:06:54,040 - 00:06:57,540] We're going to get F squared,
+- [00:06:57,540 - 00:07:01,040] the number F squared, that's a number.
+- [00:07:01,040 - 00:07:06,040] And then we're going to get derivative of alpha,
+- [00:07:06,040 - 00:07:08,040] that's the derivative of alpha
+- [00:07:08,040 - 00:07:10,040] with respect to space or time,
+- [00:07:10,040 - 00:07:16,040] plus the vector potential squared.
+- [00:07:16,040 - 00:07:19,040] And e to the i alpha is going to cancel,
+- [00:07:19,040 - 00:07:22,040] because we're multiplying it by its complex conjugate.
+- [00:07:22,040 - 00:07:23,040] This is what you get.
+- [00:07:23,040 - 00:07:24,040] This is what you get.
+- [00:07:24,040 - 00:07:28,040] For the Lagrangian of the Higgs field,
+- [00:07:28,040 - 00:07:30,040] if you make the approximation that it's stuck,
+- [00:07:30,040 - 00:07:32,540] where is it, that it's stuck
+- [00:07:32,540 - 00:07:35,040] and can't move away from the minimum.
+- [00:07:39,040 - 00:07:41,540] I may have blown the sign,
+- [00:07:41,540 - 00:07:44,040] but did I blow the sign?
+- [00:07:44,040 - 00:07:46,040] I don't think so.
+- [00:07:46,040 - 00:07:50,040] No, there was also an i in this term,
+- [00:07:50,040 - 00:07:52,040] because when you differentiate phi,
+- [00:07:52,040 - 00:07:56,040] you get i times the derivative of alpha.
+- [00:07:56,040 - 00:07:57,540] So both of them have an i
+- [00:07:57,540 - 00:07:59,040] and I stuck it out over here.
+- [00:07:59,040 - 00:08:03,040] No, I mean in the dp star.
+- [00:08:03,040 - 00:08:07,040] Oh, oh, oh, oh, yeah, let's see.
+- [00:08:12,040 - 00:08:14,040] Yeah, i times minus i is one.
+- [00:08:14,040 - 00:08:15,040] Okay.
+- [00:08:15,040 - 00:08:16,040] Yeah, i times minus i,
+- [00:08:16,040 - 00:08:17,040] you scared me for a minute.
+- [00:08:17,040 - 00:08:20,040] It's not i squared, it's i times minus i.
+- [00:08:20,040 - 00:08:21,540] It just wasn't written, so I wasn't
+- [00:08:21,540 - 00:08:23,040] quite sure what the complex conjugate was.
+- [00:08:23,040 - 00:08:27,040] Well, the complex conjugate involves minus i.
+- [00:08:27,040 - 00:08:28,040] Right.
+- [00:08:28,040 - 00:08:29,040] Okay.
+- [00:08:29,040 - 00:08:30,040] So what do we get?
+- [00:08:30,040 - 00:08:32,039] We get this expression over here.
+- [00:08:32,039 - 00:08:35,039] Now, do you remember what a gauge transformation looks like?
+- [00:08:35,039 - 00:08:38,039] Gauge transformation, which is a symmetry,
+- [00:08:38,039 - 00:08:43,039] which is supposed to do nothing to the physics.
+- [00:08:43,039 - 00:08:45,040] Take any function.
+- [00:08:45,040 - 00:08:46,040] Let's call it theta, which is
+- [00:08:46,040 - 00:08:47,040] what I called it last time,
+- [00:08:47,040 - 00:08:49,040] but it could be anything.
+- [00:08:49,040 - 00:08:52,040] A gauge transformation is to take a
+- [00:08:52,040 - 00:08:55,040] and shift it by the derivative of theta.
+- [00:08:55,040 - 00:08:58,040] That's a gauge transformation.
+- [00:08:58,040 - 00:08:59,040] Okay.
+- [00:08:59,040 - 00:09:01,040] But look at this.
+- [00:09:01,040 - 00:09:04,040] This is a plus the derivative of something.
+- [00:09:04,040 - 00:09:07,040] This is a gauge transformation.
+- [00:09:07,040 - 00:09:09,540] This is a gauge transformation where what
+- [00:09:09,540 - 00:09:12,040] we have used for the gauge transformation
+- [00:09:12,040 - 00:09:17,040] is not an arbitrary function theta, but this alpha function.
+- [00:09:17,040 - 00:09:18,040] Okay.
+- [00:09:18,040 - 00:09:21,040] This alpha field, this alpha field itself.
+- [00:09:21,040 - 00:09:23,040] Now look what we have.
+- [00:09:23,040 - 00:09:26,040] Let's redefine a plus the derivative of alpha.
+- [00:09:26,040 - 00:09:29,040] It's just a gauge transformation of a.
+- [00:09:29,040 - 00:09:30,040] Let's redefine it.
+- [00:09:30,040 - 00:09:31,040] Let's give it a new name.
+- [00:09:31,040 - 00:09:32,040] Let's call it a prime.
+- [00:09:32,040 - 00:09:33,040] Okay.
+- [00:09:33,040 - 00:09:34,040] Let's call it a prime.
+- [00:09:34,040 - 00:09:41,040] This is f squared times a prime squared.
+- [00:09:41,040 - 00:09:43,040] That's all this is.
+- [00:09:43,040 - 00:09:46,040] What happens to f squared,
+- [00:09:46,040 - 00:09:48,040] which originally involved a,
+- [00:09:48,040 - 00:09:53,540] what happens to f if
+- [00:09:53,540 - 00:09:59,040] we replace a by a prime?
+- [00:09:59,040 - 00:10:04,040] It's completely unchanged because f is gauge invariant.
+- [00:10:04,040 - 00:10:07,040] And so we can also
+- [00:10:07,040 - 00:10:10,040] think of f squared or f.
+- [00:10:10,040 - 00:10:11,040] There's this thing over here.
+- [00:10:11,040 - 00:10:13,040] It doesn't make any difference.
+- [00:10:13,040 - 00:10:14,040] And what do we find?
+- [00:10:14,040 - 00:10:16,040] That the net upshot,
+- [00:10:16,040 - 00:10:18,040] the net upshot of it all,
+- [00:10:18,040 - 00:10:20,540] is to just replace the
+- [00:10:20,540 - 00:10:23,040] original variables by prime variables.
+- [00:10:23,040 - 00:10:25,040] And that's just renaming.
+- [00:10:25,040 - 00:10:27,040] That's just a new name for something.
+- [00:10:27,040 - 00:10:29,040] And to add a term in the Lagrangian
+- [00:10:29,040 - 00:10:33,040] which is proportional to the square of the vector potential.
+- [00:10:33,040 - 00:10:35,040] That was the net effect.
+- [00:10:35,040 - 00:10:39,040] Just add a term for the Lagrangian
+- [00:10:39,040 - 00:10:41,040] for the gauge field,
+- [00:10:41,040 - 00:10:44,040] which is proportional to a squared.
+- [00:10:44,040 - 00:10:46,040] No derivatives in it.
+- [00:10:46,040 - 00:10:47,040] No derivatives in this term here.
+- [00:10:47,040 - 00:10:50,040] It's just a prime squared.
+- [00:10:50,040 - 00:10:53,540] That means that if you were
+- [00:10:53,540 - 00:10:57,040] to shift a prime everywheres simultaneously,
+- [00:10:57,040 - 00:11:01,040] you would get some energy from this term.
+- [00:11:01,040 - 00:11:03,040] This term is a mass for the photon.
+- [00:11:03,040 - 00:11:05,040] It's not the photon, of course.
+- [00:11:05,040 - 00:11:07,040] It's the z and the w boson.
+- [00:11:07,040 - 00:11:09,540] So here's an example of
+- [00:11:09,540 - 00:11:12,040] how this shift of the field
+- [00:11:12,040 - 00:11:15,040] from zero to value f
+- [00:11:15,040 - 00:11:18,040] gives a mass to a particle
+- [00:11:18,040 - 00:11:20,040] which you might have said
+- [00:11:20,040 - 00:11:22,040] is not allowed to have a mass.
+- [00:11:22,040 - 00:11:24,040] How did it happen?
+- [00:11:24,040 - 00:11:29,040] The vacuum shifted to some new spontaneously broken vacuum.
+- [00:11:29,040 - 00:11:32,040] And the excitations of the electromagnetic field
+- [00:11:32,040 - 00:11:35,040] in that shifted vacuum have a mass.
+- [00:11:35,040 - 00:11:38,040] So that's the Higgs phenomena.
+- [00:11:38,040 - 00:11:40,040] And furthermore,
+- [00:11:40,040 - 00:11:42,040] the alpha field is gone.
+- [00:11:42,040 - 00:11:43,040] It's gone.
+- [00:11:43,040 - 00:11:46,040] It's been absorbed into this thing we called A prime.
+- [00:11:46,040 - 00:11:49,040] So there's no massless particle anymore.
+- [00:11:49,040 - 00:11:52,040] The Goldstone boson has disappeared.
+- [00:11:52,040 - 00:11:57,040] It has made a mass for the gauge boson.
+- [00:11:57,040 - 00:11:59,040] And that's it.
+- [00:11:59,040 - 00:12:01,040] Now, not quite it.
+- [00:12:01,040 - 00:12:08,040] There is still this thing that we froze
+- [00:12:08,040 - 00:12:10,040] in an approximation.
+- [00:12:10,040 - 00:12:11,040] In an approximation, we said,
+- [00:12:11,040 - 00:12:13,040] let's ignore the oscillations
+- [00:12:13,040 - 00:12:16,040] of the field back and forth in this other direction.
+- [00:12:16,040 - 00:12:19,040] If we're given the system enough energy,
+- [00:12:19,040 - 00:12:21,040] if we really poke it hard enough,
+- [00:12:21,040 - 00:12:23,040] we can start this Higgs field
+- [00:12:23,040 - 00:12:26,040] oscillating in the radial direction.
+- [00:12:26,040 - 00:12:28,040] Let's call it the radial direction.
+- [00:12:28,040 - 00:12:30,040] It's not a radial direction in space.
+- [00:12:30,040 - 00:12:32,040] It's this radial direction in field space.
+- [00:12:32,040 - 00:12:35,040] Those oscillations also are quanta.
+- [00:12:35,040 - 00:12:37,040] And they're massive quanta.
+- [00:12:37,040 - 00:12:38,040] Why?
+- [00:12:38,040 - 00:12:40,040] They have a lot of energy even at rest.
+- [00:12:40,040 - 00:12:42,040] They oscillate back and forth.
+- [00:12:42,040 - 00:12:45,040] Those are the Higgs bosons.
+- [00:12:45,040 - 00:12:47,040] Those are the Higgs bosons.
+- [00:12:47,040 - 00:12:51,040] So we started with massless photons,
+- [00:12:51,040 - 00:12:56,040] massless Goldstone bosons,
+- [00:12:56,040 - 00:12:59,040] and massive Higgs bosons.
+- [00:12:59,040 - 00:13:02,040] And we ended up with massive Higgs bosons,
+- [00:13:02,040 - 00:13:04,040] no Goldstone boson,
+- [00:13:04,040 - 00:13:06,040] and a massive photon.
+- [00:13:06,040 - 00:13:08,040] That's the Higgs phenomenon.
+- [00:13:08,040 - 00:13:10,040] All right.
+- [00:13:10,040 - 00:13:11,040] Could you say again
+- [00:13:11,040 - 00:13:16,040] why the A prime squared indicates a massive...
+- [00:13:16,040 - 00:13:19,040] Yeah. Whenever you have a...
+- [00:13:19,040 - 00:13:21,040] All right. First of all, what is a mass?
+- [00:13:21,040 - 00:13:23,040] A mass is an energy from
+- [00:13:23,040 - 00:13:25,040] a field theory point of view.
+- [00:13:25,040 - 00:13:28,040] Mass, of course, is inertia of a particle or whatever.
+- [00:13:28,040 - 00:13:29,040] But from a field theory...
+- [00:13:29,040 - 00:13:31,040] Well, we'll go back a step.
+- [00:13:31,040 - 00:13:33,040] A mass in special relativity
+- [00:13:33,040 - 00:13:36,040] is just the energy of a system at rest.
+- [00:13:36,040 - 00:13:38,040] If a system has no momentum,
+- [00:13:38,040 - 00:13:40,040] if it's at rest in its own reference frame,
+- [00:13:40,040 - 00:13:42,040] then it's...
+- [00:13:42,040 - 00:13:45,040] The energy in that reference frame is the mass.
+- [00:13:45,040 - 00:13:47,040] So that's the first step.
+- [00:13:47,040 - 00:13:50,040] Energy at rest is called mass.
+- [00:13:50,040 - 00:13:52,040] Now, what does being at rest mean?
+- [00:13:52,040 - 00:13:56,040] Being at rest means having no momentum.
+- [00:13:56,040 - 00:13:58,040] From a field theory point of view,
+- [00:13:58,040 - 00:14:01,040] from the point of view of fields,
+- [00:14:01,040 - 00:14:04,040] or from the point of view of quantum mechanics,
+- [00:14:04,040 - 00:14:08,040] a particle at rest or a particle with zero momentum
+- [00:14:08,040 - 00:14:10,040] corresponds to the quantum...
+- [00:14:10,040 - 00:14:13,040] of a field of infinite wavelength.
+- [00:14:13,040 - 00:14:16,040] Infinite wavelength means the field doesn't vary at all
+- [00:14:16,040 - 00:14:18,040] from point to point.
+- [00:14:18,040 - 00:14:21,040] And so a mass, what it corresponds to,
+- [00:14:21,040 - 00:14:24,040] is an energy stored in a field
+- [00:14:24,040 - 00:14:27,040] if you shift the field simultaneously everywheres.
+- [00:14:27,040 - 00:14:30,040] With no derivative, no spatial derivative,
+- [00:14:30,040 - 00:14:33,040] just shift the field everywheres simultaneously.
+- [00:14:33,040 - 00:14:35,040] If you get some energy,
+- [00:14:35,040 - 00:14:38,040] that energy is called the mass.
+- [00:14:38,040 - 00:14:39,040] Okay?
+- [00:14:39,040 - 00:14:44,040] Well, we started with a Lagrangian
+- [00:14:44,040 - 00:14:47,040] and also an expression for energy
+- [00:14:47,040 - 00:14:50,040] which only involves derivatives of a field.
+- [00:14:50,040 - 00:14:52,040] If it only involves derivatives of a field,
+- [00:14:52,040 - 00:14:54,040] it means that if we shift the field
+- [00:14:54,040 - 00:14:55,040] everywheres simultaneously,
+- [00:14:55,040 - 00:14:57,040] we won't get any energy.
+- [00:14:57,040 - 00:14:59,040] So in that sense,
+- [00:14:59,040 - 00:15:03,040] if this was all that there was for the photon,
+- [00:15:03,040 - 00:15:07,040] then we would say the photon has no mass.
+- [00:15:07,040 - 00:15:10,040] A uniform shift of the vector potential
+- [00:15:10,040 - 00:15:12,040] would not create any energy.
+- [00:15:12,040 - 00:15:14,040] We say the photon has no mass.
+- [00:15:14,040 - 00:15:18,040] But now, once there's a term in here like this,
+- [00:15:18,040 - 00:15:20,040] which doesn't involve derivatives,
+- [00:15:20,040 - 00:15:23,040] does not involve the derivatives of a,
+- [00:15:23,040 - 00:15:26,040] that means if we shift a simultaneously everywhere,
+- [00:15:26,040 - 00:15:29,040] the response, the energy stored in this term,
+- [00:15:29,040 - 00:15:30,040] is not zero.
+- [00:15:30,040 - 00:15:32,040] We shifted a from zero,
+- [00:15:32,040 - 00:15:33,040] where the energy was zero,
+- [00:15:33,040 - 00:15:34,040] to something else,
+- [00:15:34,040 - 00:15:35,040] and we got some energy.
+- [00:15:35,040 - 00:15:36,040] That...
+- [00:15:37,040 - 00:15:40,040] That energy is called the mass of the photon.
+- [00:15:40,040 - 00:15:43,040] So it's energy stored in...
+- [00:15:43,040 - 00:15:46,040] Does everybody know what I mean by homogeneous?
+- [00:15:46,040 - 00:15:49,040] Homogeneous means everywhere is the same.
+- [00:15:49,040 - 00:15:50,040] All right?
+- [00:15:50,040 - 00:15:52,040] If you shift the photon field,
+- [00:15:52,040 - 00:15:54,040] everywhere is the same,
+- [00:15:54,040 - 00:15:56,040] and you get any energy from it,
+- [00:15:56,040 - 00:15:58,040] that's the mass of the photon.
+- [00:15:58,040 - 00:16:00,040] In fact, in particle physics
+- [00:16:00,040 - 00:16:02,040] or in field theory in general,
+- [00:16:02,040 - 00:16:04,040] you identify the mass of a particle
+- [00:16:04,040 - 00:16:06,040] as an energy stored
+- [00:16:06,040 - 00:16:09,040] in shifting the field simultaneously everywhere.
+- [00:16:09,040 - 00:16:10,040] Okay?
+- [00:16:10,040 - 00:16:12,040] It's not just in particle physics.
+- [00:16:12,040 - 00:16:14,040] In all kinds of contexts.
+- [00:16:14,040 - 00:16:16,040] I think I talked about them last time,
+- [00:16:16,040 - 00:16:19,040] but let me just remember and remind you again.
+- [00:16:19,040 - 00:16:23,040] A sound wave in a crystal.
+- [00:16:23,040 - 00:16:25,040] A sound wave in a crystal
+- [00:16:25,040 - 00:16:30,040] corresponds to a motion of the crystal lattice,
+- [00:16:30,040 - 00:16:33,040] which you could think of as the response
+- [00:16:33,040 - 00:16:35,040] to a shift of the position of the molecule.
+- [00:16:35,040 - 00:16:38,040] If you shift the position of the molecules
+- [00:16:38,040 - 00:16:40,040] in a variable way,
+- [00:16:40,040 - 00:16:42,040] in other words, way down here,
+- [00:16:42,040 - 00:16:44,040] you shift them to the left a centimeter,
+- [00:16:44,040 - 00:16:46,040] and then halfway down there,
+- [00:16:46,040 - 00:16:48,040] you shift them to the left a half a centimeter,
+- [00:16:48,040 - 00:16:50,040] and then over here, you don't shift them at all,
+- [00:16:50,040 - 00:16:51,040] and then over here,
+- [00:16:51,040 - 00:16:53,040] a half a centimeter to the right, and so forth,
+- [00:16:53,040 - 00:16:56,040] you make a long wavelength...
+- [00:16:56,040 - 00:16:58,040] It's called a phonon.
+- [00:16:58,040 - 00:17:00,040] A long wavelength phonon,
+- [00:17:00,040 - 00:17:02,040] but it's a kind of wave in the crystal,
+- [00:17:02,040 - 00:17:04,040] and it's a kind of wave in the crystal.
+- [00:17:05,040 - 00:17:07,040] We're very slowly varying,
+- [00:17:07,040 - 00:17:09,040] and there's energy stored in that.
+- [00:17:09,040 - 00:17:12,040] You've deformed the crystal a little bit.
+- [00:17:12,040 - 00:17:15,040] That energy is called the energy of a phonon.
+- [00:17:15,040 - 00:17:18,040] Now, what happens if you shift the crystal
+- [00:17:18,040 - 00:17:22,040] everywheres simultaneously by exactly the same amount?
+- [00:17:22,040 - 00:17:25,040] We could call that a homogeneous shift.
+- [00:17:25,040 - 00:17:27,040] Do we get any energy from that?
+- [00:17:27,040 - 00:17:28,040] No.
+- [00:17:28,040 - 00:17:30,040] So a homogeneous shift,
+- [00:17:30,040 - 00:17:34,040] where everything is shifted simultaneously altogether,
+- [00:17:34,040 - 00:17:36,040] that gives no energy,
+- [00:17:36,040 - 00:17:39,040] and so you would say phonons are massless.
+- [00:17:39,040 - 00:17:40,040] Phonons have no mass,
+- [00:17:40,040 - 00:17:44,040] which means that a phonon
+- [00:17:44,040 - 00:17:48,040] with zero momentum has no energy.
+- [00:17:48,040 - 00:17:52,040] Phonons, photons, spinons...
+- [00:17:52,040 - 00:17:56,040] Spinons are in magnets.
+- [00:17:56,040 - 00:17:58,040] They have to do with the orientation
+- [00:17:58,040 - 00:18:00,040] of the little fundamental magnets.
+- [00:18:00,040 - 00:18:04,040] If you reorient the magnets in a variable way
+- [00:18:04,040 - 00:18:05,040] from place to place,
+- [00:18:05,040 - 00:18:06,040] you get a little bit of energy.
+- [00:18:06,040 - 00:18:08,040] It's called a spin wave.
+- [00:18:08,040 - 00:18:10,040] If you rotate all the magnets together
+- [00:18:10,040 - 00:18:12,040] simultaneously everywhere,
+- [00:18:12,040 - 00:18:13,040] it costs no energy.
+- [00:18:13,040 - 00:18:15,040] You just rotated the magnet.
+- [00:18:15,040 - 00:18:18,040] So that's another example of waves
+- [00:18:18,040 - 00:18:20,040] which at infinite wavelength,
+- [00:18:20,040 - 00:18:21,040] or homogeneous waves,
+- [00:18:21,040 - 00:18:22,040] have no energy.
+- [00:18:22,040 - 00:18:24,040] They're also massless.
+- [00:18:24,040 - 00:18:26,040] I thought we started out this analysis
+- [00:18:26,040 - 00:18:28,540] with a particle that was
+- [00:18:28,540 - 00:18:31,040] vibrating a little bit in alpha.
+- [00:18:31,040 - 00:18:33,040] Yeah, we did.
+- [00:18:33,040 - 00:18:36,040] And that originally,
+- [00:18:36,040 - 00:18:39,040] before we coupled it to A,
+- [00:18:39,040 - 00:18:41,040] to the vector potential,
+- [00:18:41,040 - 00:18:43,040] its energy was purely
+- [00:18:43,040 - 00:18:45,040] rho squared,
+- [00:18:45,040 - 00:18:46,040] d...
+- [00:18:46,040 - 00:18:49,040] Well, let's call it f squared,
+- [00:18:49,040 - 00:18:51,040] d alpha squared.
+- [00:18:51,040 - 00:18:53,040] That's all there was.
+- [00:18:53,040 - 00:18:55,040] It was just the square of this thing
+- [00:18:55,040 - 00:18:57,040] where the vector potential was
+- [00:18:57,040 - 00:18:59,040] completely absent from the problem.
+- [00:18:59,040 - 00:19:00,040] Okay?
+- [00:19:00,040 - 00:19:03,040] Now, because it only involves derivatives,
+- [00:19:03,040 - 00:19:07,040] if we shift alpha everywheres simultaneously,
+- [00:19:07,040 - 00:19:08,040] in other words,
+- [00:19:08,040 - 00:19:09,040] everywheres in space,
+- [00:19:09,040 - 00:19:12,040] we shift the angle...
+- [00:19:12,040 - 00:19:14,040] instead of saying
+- [00:19:14,040 - 00:19:16,040] the field has the value over here,
+- [00:19:16,040 - 00:19:18,040] we put it over here.
+- [00:19:18,040 - 00:19:20,040] Everywheres in space.
+- [00:19:20,040 - 00:19:21,040] That costs no energy.
+- [00:19:21,040 - 00:19:22,040] It costs no energy
+- [00:19:22,040 - 00:19:25,040] because it didn't make any derivatives.
+- [00:19:25,040 - 00:19:27,040] I'm not sure what the question was,
+- [00:19:27,040 - 00:19:29,040] but does that answer it?
+- [00:19:29,040 - 00:19:31,040] Well, by shifting it,
+- [00:19:31,040 - 00:19:32,040] you're changing alpha.
+- [00:19:32,040 - 00:19:33,040] You're changing alpha.
+- [00:19:33,040 - 00:19:35,040] And that means...
+- [00:19:35,040 - 00:19:37,040] But it's derivatives of alpha
+- [00:19:37,040 - 00:19:39,040] which give you energy.
+- [00:19:39,040 - 00:19:42,040] Oh, because you're not continuously moving it in alpha.
+- [00:19:42,040 - 00:19:43,040] That's right.
+- [00:19:43,040 - 00:19:44,040] You're not moving it,
+- [00:19:44,040 - 00:19:46,040] you're not changing it from place to place.
+- [00:19:46,040 - 00:19:48,040] If you change it from place to place,
+- [00:19:48,040 - 00:19:51,040] that's the energy of the goldstone boson.
+- [00:19:51,040 - 00:19:52,040] All right?
+- [00:19:52,040 - 00:19:55,040] But if you shift it everywheres simultaneously,
+- [00:19:55,040 - 00:19:57,040] then it costs no energy.
+- [00:19:57,040 - 00:19:58,040] Why?
+- [00:19:58,040 - 00:20:01,040] Because the energy only involves gradients.
+- [00:20:01,040 - 00:20:02,040] Okay?
+- [00:20:02,040 - 00:20:04,040] So that's the idea.
+- [00:20:04,040 - 00:20:05,040] So keep that in mind.
+- [00:20:05,040 - 00:20:07,040] That's a buzzword.
+- [00:20:07,040 - 00:20:11,040] That mass stands for energy at rest,
+- [00:20:11,040 - 00:20:13,040] but it also stands for energy
+- [00:20:13,040 - 00:20:18,040] associated with uniform homogeneous shifts of fields.
+- [00:20:18,040 - 00:20:24,040] Fields or whatever it is we're talking about.
+- [00:20:24,040 - 00:20:26,040] There is an interesting example
+- [00:20:26,040 - 00:20:28,540] to see, to get an
+- [00:20:28,540 - 00:20:31,040] idea of how mass can happen.
+- [00:20:31,040 - 00:20:34,040] I explained to you that if you have a crystal
+- [00:20:34,040 - 00:20:36,040] and you move all the molecules simultaneously,
+- [00:20:36,040 - 00:20:38,040] it doesn't cost any energy.
+- [00:20:38,040 - 00:20:41,040] Now, supposing your crystal lattice
+- [00:20:41,040 - 00:20:44,040] was composed of particles
+- [00:20:44,040 - 00:20:47,040] which themselves had both plus,
+- [00:20:47,040 - 00:20:49,040] some plus charges and some minus charges.
+- [00:20:49,040 - 00:20:50,040] Okay?
+- [00:20:50,040 - 00:20:52,040] So these are molecules,
+- [00:20:52,040 - 00:20:55,040] ions, plus ions and minus ions.
+- [00:20:55,040 - 00:20:57,040] Or they could just be atoms.
+- [00:20:57,040 - 00:20:59,040] They could be the protons at the,
+- [00:20:59,040 - 00:21:00,040] the nuclei at the center
+- [00:21:00,040 - 00:21:02,040] and the electrons around them.
+- [00:21:02,040 - 00:21:04,040] And supposing you did the following.
+- [00:21:04,040 - 00:21:09,040] You shifted all of the electrons
+- [00:21:09,040 - 00:21:11,040] to the left uniformly
+- [00:21:11,040 - 00:21:15,040] and all the protons to the right uniformly.
+- [00:21:15,040 - 00:21:17,040] That would be called a homogeneous shift.
+- [00:21:17,040 - 00:21:18,040] Just a little bit.
+- [00:21:18,040 - 00:21:21,040] Just a little separation between the electron cloud
+- [00:21:21,040 - 00:21:23,040] and the nuclei.
+- [00:21:23,040 - 00:21:25,040] Do you think that would cost any energy?
+- [00:21:25,040 - 00:21:27,040] You bet, because you would have pulled the,
+- [00:21:27,040 - 00:21:29,040] the plus charges away from the minus charges.
+- [00:21:29,040 - 00:21:33,040] That would be a homogeneous shift of,
+- [00:21:33,040 - 00:21:36,040] not fields, but locations,
+- [00:21:36,040 - 00:21:38,040] which would cost energy.
+- [00:21:38,040 - 00:21:40,040] What do you think would happen
+- [00:21:40,040 - 00:21:41,040] if you made that shift,
+- [00:21:41,040 - 00:21:43,040] the, the, the plus particles this way,
+- [00:21:43,040 - 00:21:45,040] the minus particles this way?
+- [00:21:45,040 - 00:21:47,040] What'll happen next?
+- [00:21:47,040 - 00:21:51,040] It'll start to vibrate.
+- [00:21:51,040 - 00:21:52,040] Okay?
+- [00:21:52,040 - 00:21:56,040] It will not behave the way it would
+- [00:21:56,040 - 00:21:58,040] if everything was moved simultaneously.
+- [00:21:58,040 - 00:22:01,040] So moving everything simultaneously,
+- [00:22:01,040 - 00:22:04,040] that's a zero momentum phonon.
+- [00:22:04,040 - 00:22:07,040] Moving the plus charges relative to the minus charges,
+- [00:22:07,040 - 00:22:08,040] what is that called?
+- [00:22:08,040 - 00:22:10,040] Anybody know?
+- [00:22:10,040 - 00:22:11,040] A plasmon.
+- [00:22:11,040 - 00:22:12,040] A plasmon.
+- [00:22:12,040 - 00:22:14,040] Plasmons have mass.
+- [00:22:14,040 - 00:22:16,040] Phonons do not.
+- [00:22:16,040 - 00:22:18,040] Okay?
+- [00:22:18,040 - 00:22:22,040] The derivatives there include a time component,
+- [00:22:22,040 - 00:22:23,040] don't they?
+- [00:22:23,040 - 00:22:25,040] The derivatives include what?
+- [00:22:25,040 - 00:22:26,040] A time component.
+- [00:22:26,040 - 00:22:27,040] Oh, yeah, absolutely.
+- [00:22:27,040 - 00:22:28,040] Absolutely.
+- [00:22:28,040 - 00:22:31,040] So when you're talking about shifting things,
+- [00:22:31,040 - 00:22:34,040] is, doesn't the time component...
+- [00:22:34,040 - 00:22:35,040] Yes, yes, yes, yes, yes.
+- [00:22:35,040 - 00:22:37,040] What you're saying is right,
+- [00:22:37,040 - 00:22:39,040] but I'm just imagining spatially shifting everything
+- [00:22:39,040 - 00:22:42,040] and not inducing any time derivatives.
+- [00:22:42,040 - 00:22:44,040] Yeah, but the shift...
+- [00:22:44,040 - 00:22:47,040] Well, all right, we, good.
+- [00:22:47,040 - 00:22:49,040] No, no, it's a good question.
+- [00:22:49,040 - 00:22:50,040] No, no, no.
+- [00:22:50,040 - 00:22:53,040] By shifting, I don't mean an actual process.
+- [00:22:53,040 - 00:22:55,040] I just mean a mathematical change
+- [00:22:55,040 - 00:22:57,040] in what you mean by the vacuum.
+- [00:22:57,040 - 00:22:58,040] Right.
+- [00:22:58,040 - 00:22:59,040] Right.
+- [00:22:59,040 - 00:23:00,040] Or you do it extremely slowly,
+- [00:23:00,040 - 00:23:02,040] very, very slowly,
+- [00:23:02,040 - 00:23:04,040] move it from here to here.
+- [00:23:04,040 - 00:23:06,040] Yes, you're right.
+- [00:23:06,040 - 00:23:11,040] These, the actual energy contains time derivatives also,
+- [00:23:11,040 - 00:23:12,040] but I was simply...
+- [00:23:12,040 - 00:23:15,040] The same is true, incidentally, of the crystal lattice.
+- [00:23:15,040 - 00:23:18,040] What are the time derivatives of the shifts?
+- [00:23:18,040 - 00:23:19,040] Kinetic energy.
+- [00:23:19,040 - 00:23:22,040] The kinetic energy, the velocities of the molecules.
+- [00:23:22,040 - 00:23:26,040] So if you really give the crystal a shift,
+- [00:23:26,040 - 00:23:29,040] which means it's moving off with a velocity,
+- [00:23:29,040 - 00:23:31,040] then, of course, there's kinetic energy.
+- [00:23:31,040 - 00:23:32,040] So when I said a shift,
+- [00:23:32,040 - 00:23:34,040] I meant a shift in your imagination
+- [00:23:34,040 - 00:23:36,040] where you shift everything simultaneously
+- [00:23:36,040 - 00:23:38,040] and start it out at rest
+- [00:23:38,040 - 00:23:42,040] compared to where it originally was also at rest.
+- [00:23:42,040 - 00:23:43,040] Good.
+- [00:23:43,040 - 00:23:46,040] But that's a good point.
+- [00:23:46,040 - 00:23:49,040] Okay, let's talk now about fermions.
+- [00:23:49,040 - 00:23:54,040] This means electrons, muons, and so forth.
+- [00:23:54,040 - 00:23:56,040] And where do they come from?
+- [00:23:56,040 - 00:23:58,040] Where do they get their mass from?
+- [00:23:58,040 - 00:24:03,040] It turns out the real electron, muon, quarks
+- [00:24:03,040 - 00:24:07,040] also get their mass from this Higgs phenomenon,
+- [00:24:07,040 - 00:24:10,040] from this spontaneous symmetry breaking.
+- [00:24:15,040 - 00:24:19,040] And let's discuss what we know about it.
+- [00:24:19,040 - 00:24:21,040] The first thing we go back to
+- [00:24:21,040 - 00:24:23,040] is the basics of the theory...
+- [00:24:23,040 - 00:24:26,040] Not the theory, but actual experimental data
+- [00:24:26,040 - 00:24:28,040] about weak interactions.
+- [00:24:28,040 - 00:24:30,040] This could be beta decay,
+- [00:24:30,040 - 00:24:32,040] the decay of a neutron to a proton,
+- [00:24:32,040 - 00:24:34,040] but...
+- [00:24:34,040 - 00:24:37,040] and an electron and an antineutrino.
+- [00:24:37,040 - 00:24:41,040] Okay, here's what goes back to...
+- [00:24:47,040 - 00:24:49,040] the 50s? The 50s.
+- [00:24:49,040 - 00:24:52,040] No, earlier than the 50s, I think.
+- [00:24:52,040 - 00:24:54,040] I don't remember exactly when.
+- [00:24:54,040 - 00:24:56,040] The following fact was found
+- [00:24:56,040 - 00:24:57,040] in the 1950s.
+- [00:24:57,040 - 00:24:58,040] It was discovered.
+- [00:24:58,040 - 00:25:02,040] First of all, reflection symmetry,
+- [00:25:02,040 - 00:25:04,040] which means reflection of space,
+- [00:25:04,040 - 00:25:06,040] left hand into right hand,
+- [00:25:06,040 - 00:25:09,040] is not a good symmetry of nature.
+- [00:25:09,040 - 00:25:12,040] It's an ancient fact from the 50s
+- [00:25:12,040 - 00:25:15,040] that it was discovered that the reflection,
+- [00:25:15,040 - 00:25:17,040] the mirror reflection of a process,
+- [00:25:17,040 - 00:25:20,040] is not another possible process.
+- [00:25:20,040 - 00:25:22,040] Now, in quantum electrodynamics,
+- [00:25:22,040 - 00:25:24,040] the mirror image of any process
+- [00:25:24,040 - 00:25:26,040] is another possible process.
+- [00:25:26,040 - 00:25:28,040] That itself is a symmetry.
+- [00:25:28,040 - 00:25:30,040] It's not a continuous symmetry.
+- [00:25:30,040 - 00:25:32,040] It's a discrete symmetry.
+- [00:25:32,040 - 00:25:34,040] You take everything and you reflect it.
+- [00:25:34,040 - 00:25:36,040] You don't rotate it. You reflect it.
+- [00:25:36,040 - 00:25:38,040] You take the left hand and the right hand.
+- [00:25:38,040 - 00:25:41,040] There's no hand which is sort of midway...
+- [00:25:41,040 - 00:25:43,040] There's no continuous way to go
+- [00:25:43,040 - 00:25:45,040] from left hand to right hand.
+- [00:25:45,040 - 00:25:48,040] So replacing every left hand by a right hand
+- [00:25:48,040 - 00:25:51,040] or every left screw thread
+- [00:25:51,040 - 00:25:53,040] with a right screw thread and so forth,
+- [00:25:53,040 - 00:25:55,040] that's a symmetry of quantum electrodynamics.
+- [00:25:56,040 - 00:25:59,040] And it's also a symmetry of quantum chromodynamics.
+- [00:25:59,040 - 00:26:02,040] It is not a symmetry of the weak interactions.
+- [00:26:02,040 - 00:26:05,040] Left and right are fundamentally different,
+- [00:26:05,040 - 00:26:07,040] and as different as they can be.
+- [00:26:07,040 - 00:26:10,040] So let me tell you what the experimental fact is,
+- [00:26:10,040 - 00:26:15,040] that the decay of a neutron,
+- [00:26:15,040 - 00:26:19,040] neutron,
+- [00:26:19,040 - 00:26:22,040] which gives a proton
+- [00:26:22,040 - 00:26:25,040] an electron,
+- [00:26:26,040 - 00:26:31,040] and an antineutrino...
+- [00:26:31,040 - 00:26:34,040] Well, let's first talk about the handedness of particles.
+- [00:26:34,040 - 00:26:37,040] Is there any sense in which particles are handed,
+- [00:26:37,040 - 00:26:40,040] have a handedness, like my hands?
+- [00:26:40,040 - 00:26:43,040] Yes, there is. They have a spin.
+- [00:26:43,040 - 00:26:46,040] They also have a direction of motion.
+- [00:26:46,040 - 00:26:51,040] If the spin is along the direction of motion,
+- [00:26:51,040 - 00:26:53,040] in other words, there are two possibilities.
+- [00:26:53,040 - 00:26:56,040] The spin can be oriented along the direction
+- [00:26:56,040 - 00:26:58,040] of motion, or it can be oriented opposite
+- [00:26:58,040 - 00:27:00,040] to the direction of motion.
+- [00:27:00,040 - 00:27:02,040] In quantum mechanics, of course,
+- [00:27:02,040 - 00:27:04,040] if the spin is oriented in some other direction,
+- [00:27:04,040 - 00:27:06,040] you can build it up out of superpositions
+- [00:27:06,040 - 00:27:08,040] of the two states along the direction of motion
+- [00:27:08,040 - 00:27:10,040] and opposite.
+- [00:27:10,040 - 00:27:12,040] So an electron moving along with a high momentum,
+- [00:27:12,040 - 00:27:14,040] for example, can either have its spin
+- [00:27:14,040 - 00:27:16,040] along the direction of motion,
+- [00:27:16,040 - 00:27:20,040] that means it's rotating with a right hand screw thread.
+- [00:27:20,040 - 00:27:25,040] It's rotating or spinning with a right hand screw thread,
+- [00:27:25,040 - 00:27:28,040] that's called a right-handed electron.
+- [00:27:28,040 - 00:27:31,040] And an electron can also be a left-handed electron.
+- [00:27:31,040 - 00:27:35,040] That simply means its spin is going...
+- [00:27:35,040 - 00:27:38,040] is helically going in the opposite direction.
+- [00:27:38,040 - 00:27:40,040] So there are two kinds of electrons,
+- [00:27:40,040 - 00:27:44,040] right-handed and left-handed.
+- [00:27:44,040 - 00:27:49,040] Now, what happens in a beta decay like this?
+- [00:27:49,040 - 00:27:51,040] You might think you could either make
+- [00:27:51,040 - 00:27:54,040] right-handed or left-handed electrons.
+- [00:27:54,040 - 00:27:55,040] Right?
+- [00:27:55,040 - 00:27:57,040] Right-handed and left-handed electrons
+- [00:27:57,040 - 00:27:59,040] are as good as each other in every respect.
+- [00:27:59,040 - 00:28:02,040] In quantum electrodynamics, there are no processes
+- [00:28:02,040 - 00:28:04,040] which are not symmetric.
+- [00:28:04,040 - 00:28:07,040] If you can make a right-handed electron in some process,
+- [00:28:07,040 - 00:28:09,040] then there's a reflected process,
+- [00:28:09,040 - 00:28:11,040] which is also a possible process
+- [00:28:11,040 - 00:28:14,040] where you can make a left-handed electron.
+- [00:28:14,040 - 00:28:17,040] If right is possible, left is possible.
+- [00:28:17,040 - 00:28:22,040] Nevertheless, when the process of beta decay
+- [00:28:22,040 - 00:28:24,040] became something where you could really do
+- [00:28:24,040 - 00:28:27,040] with precision and study the handedness
+- [00:28:27,040 - 00:28:29,040] of the electrons that come out,
+- [00:28:29,040 - 00:28:32,040] they're always left-handed.
+- [00:28:32,040 - 00:28:33,040] There was never a process...
+- [00:28:33,040 - 00:28:36,040] It doesn't matter what orientation
+- [00:28:36,040 - 00:28:38,040] the spin of the neutron has.
+- [00:28:38,040 - 00:28:40,040] No matter what you do,
+- [00:28:40,040 - 00:28:46,040] the electrons which come out are always left-handed.
+- [00:28:46,040 - 00:28:49,040] This goes beyond the theory of beta decay.
+- [00:28:49,040 - 00:28:51,040] Any weak interaction process...
+- [00:28:51,040 - 00:28:53,040] In other words, any process
+- [00:28:53,040 - 00:29:01,040] where a W boson, for example,
+- [00:29:01,040 - 00:29:05,040] where a W boson interacts
+- [00:29:05,040 - 00:29:09,040] and takes an electron into a neutrino,
+- [00:29:09,040 - 00:29:12,040] or where you interchange,
+- [00:29:12,040 - 00:29:14,040] where you flip these lines
+- [00:29:14,040 - 00:29:17,040] to make different processes out of it,
+- [00:29:17,040 - 00:29:20,040] it's always the left-handed electron
+- [00:29:20,040 - 00:29:22,040] which interacts with the W boson.
+- [00:29:22,040 - 00:29:26,040] Never a right-handed electron.
+- [00:29:26,040 - 00:29:29,040] So, for example, you could imagine a process
+- [00:29:29,040 - 00:29:33,040] where an electron scatters off something,
+- [00:29:33,040 - 00:29:35,040] changes into a neutrino,
+- [00:29:35,040 - 00:29:37,040] and there's something over here that it scatters off,
+- [00:29:37,040 - 00:29:40,040] a proton or something else or another electron.
+- [00:29:40,040 - 00:29:43,040] You'll always find that the left-handed electron
+- [00:29:43,040 - 00:29:46,040] scatters and the right-handed electron doesn't.
+- [00:29:46,040 - 00:29:49,040] This is a fact.
+- [00:29:49,040 - 00:29:51,040] And the same thing is true of the neutrino incident.
+- [00:29:51,040 - 00:29:54,040] It's always a left-handed neutrino.
+- [00:29:54,040 - 00:29:55,540] It's questionable whether a
+- [00:29:55,540 - 00:29:57,040] right-handed neutrino exists, incidentally.
+- [00:29:57,040 - 00:30:00,040] This is a question which we've not answered.
+- [00:30:00,040 - 00:30:03,040] We'll come back to it another time.
+- [00:30:03,040 - 00:30:06,040] But there certainly exists both right-handed
+- [00:30:06,040 - 00:30:08,040] and left-handed electrons.
+- [00:30:08,040 - 00:30:10,040] We think there are also probably right-handed
+- [00:30:10,040 - 00:30:12,040] and left-handed neutrinos.
+- [00:30:12,040 - 00:30:14,040] All right, so electrons...
+- [00:30:14,040 - 00:30:16,040] So there's something asymmetric,
+- [00:30:16,040 - 00:30:19,040] left-right asymmetric, about the...
+- [00:30:19,040 - 00:30:22,040] about the weak interactions.
+- [00:30:22,040 - 00:30:24,040] And it is...
+- [00:30:24,040 - 00:30:26,040] What is it?
+- [00:30:26,040 - 00:30:29,040] It is that the left-handed electrons
+- [00:30:29,040 - 00:30:33,040] are charged with respect to the W boson.
+- [00:30:33,040 - 00:30:36,040] In other words, we could imagine a situation
+- [00:30:36,040 - 00:30:39,040] in electrodynamics which would be similar.
+- [00:30:39,040 - 00:30:41,040] It's an untrue situation.
+- [00:30:41,040 - 00:30:43,040] Don't... Let me say it right now.
+- [00:30:43,040 - 00:30:45,040] This is not correct. All right?
+- [00:30:45,040 - 00:30:47,040] But we could imagine a world
+- [00:30:47,040 - 00:30:51,040] where only left-handed electrons
+- [00:30:51,040 - 00:30:53,040] are charged.
+- [00:30:53,040 - 00:30:55,040] Left-handed electrons
+- [00:30:55,040 - 00:30:57,040] could scatter off photons
+- [00:30:57,040 - 00:30:59,040] or could produce photons
+- [00:30:59,040 - 00:31:01,040] and become left-handed electrons
+- [00:31:01,040 - 00:31:04,040] and which right-handed electrons could not.
+- [00:31:04,040 - 00:31:06,040] We could imagine it. It's not true.
+- [00:31:06,040 - 00:31:07,040] Let me say it over
+- [00:31:07,040 - 00:31:08,040] and over. It is not true.
+- [00:31:08,040 - 00:31:10,040] But imagine it.
+- [00:31:10,040 - 00:31:12,040] Then you would say that the left-handed electron
+- [00:31:12,040 - 00:31:14,040] has an electric charge
+- [00:31:14,040 - 00:31:16,040] and the right-handed electron does not.
+- [00:31:16,040 - 00:31:18,040] Now, that's bizarre. I mean, that's...
+- [00:31:18,040 - 00:31:20,040] That's really bizarre. Okay?
+- [00:31:20,040 - 00:31:22,040] And it's not true.
+- [00:31:22,040 - 00:31:24,040] But with respect to the weak interactions,
+- [00:31:24,040 - 00:31:26,040] not the emission of a photon,
+- [00:31:26,040 - 00:31:28,040] but the emission of a W boson,
+- [00:31:28,040 - 00:31:30,040] it is as if
+- [00:31:30,040 - 00:31:32,040] the left-handed particles
+- [00:31:32,040 - 00:31:34,040] carried charge
+- [00:31:34,040 - 00:31:37,040] associated with the emission of a gauge boson
+- [00:31:37,040 - 00:31:40,040] and the right-handed particles did not.
+- [00:31:40,040 - 00:31:42,040] Okay?
+- [00:31:42,040 - 00:31:44,040] That's a very strange fact.
+- [00:31:44,040 - 00:31:46,040] It's, uh...
+- [00:31:46,040 - 00:31:48,040] It's a very typical fact.
+- [00:31:48,040 - 00:31:50,040] But it's also
+- [00:31:50,040 - 00:31:52,040] a kind of quark.
+- [00:31:52,040 - 00:31:54,040] What's that? It's also true of quarks.
+- [00:31:54,040 - 00:31:56,040] It is also true of quarks.
+- [00:31:56,040 - 00:31:58,040] Um...
+- [00:31:58,040 - 00:32:00,040] We have to...
+- [00:32:00,040 - 00:32:02,040] We're gonna modify the statement a little bit,
+- [00:32:02,040 - 00:32:04,040] but at some deep level,
+- [00:32:04,040 - 00:32:06,040] it's exactly true.
+- [00:32:08,040 - 00:32:10,040] Okay, let's talk about
+- [00:32:10,040 - 00:32:12,040] left-handed and right-handed particles,
+- [00:32:12,040 - 00:32:14,040] uh, fermions.
+- [00:32:14,040 - 00:32:16,040] And let's go back to the Dirac equation.
+- [00:32:16,040 - 00:32:18,040] And I will tell you a little bit
+- [00:32:18,040 - 00:32:20,040] about the connection between the Dirac equation
+- [00:32:20,040 - 00:32:22,040] and the handedness of particles.
+- [00:32:22,040 - 00:32:24,040] I'm not going to spend a lot of time.
+- [00:32:24,040 - 00:32:25,040] I'm just gonna give you
+- [00:32:25,040 - 00:32:26,040] the rough outlines of the idea.
+- [00:32:28,040 - 00:32:30,040] Let's go back to the Dirac equation.
+- [00:32:30,040 - 00:32:32,040] The Dirac equation looked something like this.
+- [00:32:34,040 - 00:32:36,040] I d psi by dt.
+- [00:32:38,040 - 00:32:40,040] This is the Dirac field,
+- [00:32:40,040 - 00:32:42,040] which could correspond to the electron.
+- [00:32:42,040 - 00:32:44,040] It could correspond to the muon.
+- [00:32:44,040 - 00:32:46,040] It could be the field of the electron.
+- [00:32:46,040 - 00:32:48,040] It could be the field for quarks.
+- [00:32:48,040 - 00:32:50,040] They all have the same form, the Dirac equations.
+- [00:32:50,040 - 00:32:52,040] The, uh, time derivative of the Dirac field,
+- [00:32:52,040 - 00:32:54,040] and remember what the Dirac field is.
+- [00:32:54,040 - 00:32:56,040] It's a four-component object
+- [00:32:58,040 - 00:33:00,040] where the four components
+- [00:33:02,040 - 00:33:04,040] correspond to,
+- [00:33:04,040 - 00:33:06,040] let's say,
+- [00:33:06,040 - 00:33:08,040] two different subdivisions.
+- [00:33:08,040 - 00:33:10,040] The particles can have spin
+- [00:33:10,040 - 00:33:12,040] along either axis.
+- [00:33:12,040 - 00:33:14,040] That gives you two components,
+- [00:33:14,040 - 00:33:16,040] upspin and downspin.
+- [00:33:16,040 - 00:33:20,040] And the particles can have positive or negative energy.
+- [00:33:20,040 - 00:33:22,040] Remember, Dirac particles can
+- [00:33:22,040 - 00:33:24,040] have positive or negative energy.
+- [00:33:24,040 - 00:33:26,040] Now, we've learned over and over again
+- [00:33:26,040 - 00:33:28,040] that the negative energy particles
+- [00:33:28,040 - 00:33:30,040] should be replaced by
+- [00:33:30,040 - 00:33:32,040] antiparticles of positive energy.
+- [00:33:32,040 - 00:33:34,040] But in the mathematics,
+- [00:33:34,040 - 00:33:36,040] uh, the Dirac field
+- [00:33:36,040 - 00:33:38,040] has four components,
+- [00:33:38,040 - 00:33:40,040] upspin positive energy,
+- [00:33:40,040 - 00:33:42,040] downspin positive energy,
+- [00:33:42,040 - 00:33:44,040] upspin negative energy,
+- [00:33:44,040 - 00:33:46,040] downspin negative energy.
+- [00:33:46,040 - 00:33:48,040] And the positive energy
+- [00:33:48,040 - 00:33:50,040] is the positive energy.
+- [00:33:50,040 - 00:33:52,040] Or you can think of it as
+- [00:33:52,040 - 00:33:54,040] upspin and downspin
+- [00:33:54,040 - 00:33:56,040] of particle and antiparticle.
+- [00:33:56,040 - 00:33:58,040] Okay, so there are four components
+- [00:33:58,040 - 00:34:00,040] to the Dirac field,
+- [00:34:00,040 - 00:34:02,040] and the components,
+- [00:34:02,040 - 00:34:04,040] think of it as a four-component column vector.
+- [00:34:04,040 - 00:34:06,040] There are matrices,
+- [00:34:06,040 - 00:34:08,040] four-by-four matrices
+- [00:34:08,040 - 00:34:10,040] called the Dirac matrices.
+- [00:34:10,040 - 00:34:12,040] Dirac called them alpha.
+- [00:34:12,040 - 00:34:14,040] Three alphas,
+- [00:34:14,040 - 00:34:16,040] sorry, three alphas,
+- [00:34:16,040 - 00:34:18,040] for the three directions of space.
+- [00:34:18,040 - 00:34:20,040] Let's call them alpha i
+- [00:34:20,040 - 00:34:22,040] for the three directions of space
+- [00:34:22,040 - 00:34:24,040] times the derivative of the field
+- [00:34:24,040 - 00:34:26,040] with respect to
+- [00:34:26,040 - 00:34:28,040] x sub i.
+- [00:34:36,040 - 00:34:38,040] This would be the Dirac equation
+- [00:34:38,040 - 00:34:40,040] if
+- [00:34:40,040 - 00:34:42,040] the particle had no mass.
+- [00:34:42,040 - 00:34:44,040] Now, how can you see that?
+- [00:34:44,040 - 00:34:46,040] You can see that because
+- [00:34:46,040 - 00:34:48,040] the equation only involves
+- [00:34:48,040 - 00:34:50,040] derivatives of the field.
+- [00:34:50,040 - 00:34:52,040] If the field,
+- [00:34:54,040 - 00:34:56,040] the whole dynamics
+- [00:34:56,040 - 00:34:58,040] of the field only involves
+- [00:34:58,040 - 00:35:00,040] derivatives of the field.
+- [00:35:00,040 - 00:35:02,040] We've seen in previous situations
+- [00:35:02,040 - 00:35:04,040] that when the dynamics of the field
+- [00:35:04,040 - 00:35:06,040] only involves derivatives,
+- [00:35:06,040 - 00:35:08,040] the field is massless.
+- [00:35:08,040 - 00:35:10,040] There's no restoring force,
+- [00:35:10,040 - 00:35:12,040] no tendency for the field to oscillate
+- [00:35:12,040 - 00:35:14,040] unless it has a gradient.
+- [00:35:14,040 - 00:35:16,040] No time derivative,
+- [00:35:16,040 - 00:35:18,040] unless there's a space derivative.
+- [00:35:18,040 - 00:35:20,040] So if you shift the field
+- [00:35:20,040 - 00:35:22,040] psi everywhere simultaneously,
+- [00:35:22,040 - 00:35:24,040] it does not create an oscillation,
+- [00:35:24,040 - 00:35:26,040] does not create any energy.
+- [00:35:26,040 - 00:35:28,040] What do you put
+- [00:35:28,040 - 00:35:30,040] on the right-hand side if you want to have
+- [00:35:30,040 - 00:35:32,040] a mass for the field?
+- [00:35:32,040 - 00:35:34,040] Well, there was a fourth Dirac matrix
+- [00:35:34,040 - 00:35:36,040] called beta.
+- [00:35:36,040 - 00:35:38,040] You put the mass times
+- [00:35:38,040 - 00:35:40,040] beta times psi.
+- [00:35:40,040 - 00:35:42,040] That's the Dirac equation.
+- [00:35:42,040 - 00:35:44,040] Now,
+- [00:35:44,040 - 00:35:46,040] the electron could be moving along
+- [00:35:46,040 - 00:35:48,040] with a momentum.
+- [00:35:48,040 - 00:35:50,040] A momentum means there's a gradient
+- [00:35:50,040 - 00:35:52,040] of the field psi.
+- [00:35:52,040 - 00:35:54,040] It means a plane wave,
+- [00:35:54,040 - 00:35:56,040] but that's not so important.
+- [00:35:56,040 - 00:35:58,040] And the spin can either be
+- [00:35:58,040 - 00:36:00,040] along the direction of motion
+- [00:36:00,040 - 00:36:02,040] or opposite to the direction of motion.
+- [00:36:02,040 - 00:36:04,040] Those two components,
+- [00:36:04,040 - 00:36:06,040] we can think of that as the left-handed
+- [00:36:06,040 - 00:36:08,040] components of the Dirac field
+- [00:36:08,040 - 00:36:10,040] and the right-handed components.
+- [00:36:10,040 - 00:36:12,040] So let me write these equations for you.
+- [00:36:12,040 - 00:36:14,040] This is four equations,
+- [00:36:14,040 - 00:36:16,040] and they're written for each component.
+- [00:36:16,040 - 00:36:18,040] Let's write them for the left-
+- [00:36:18,040 - 00:36:20,040] and right-handed components separately.
+- [00:36:20,040 - 00:36:22,040] Here's what it looks like.
+- [00:36:22,040 - 00:36:24,040] I times the derivative
+- [00:36:24,040 - 00:36:26,040] of the right-handed
+- [00:36:28,040 - 00:36:30,040] component of the Dirac field
+- [00:36:30,040 - 00:36:32,040] describing right-handed electrons
+- [00:36:32,040 - 00:36:34,040] plus
+- [00:36:34,040 - 00:36:36,040] I alpha I
+- [00:36:36,040 - 00:36:38,040] derivative
+- [00:36:38,040 - 00:36:40,040] of the right-handed field
+- [00:36:42,040 - 00:36:44,040] is equal to
+- [00:36:44,040 - 00:36:46,040] Now, you might think
+- [00:36:46,040 - 00:36:48,040] that the right thing to put here
+- [00:36:48,040 - 00:36:50,040] is something involving the right-handed field.
+- [00:36:50,040 - 00:36:52,040] But it turns out
+- [00:36:52,040 - 00:36:54,040] this matrix beta
+- [00:36:54,040 - 00:36:56,040] interchanges right-hand and left-hand.
+- [00:36:56,040 - 00:36:58,040] So,
+- [00:36:58,040 - 00:37:00,040] a mass term over here
+- [00:37:00,040 - 00:37:02,040] corresponds
+- [00:37:02,040 - 00:37:04,040] to a coupling
+- [00:37:04,040 - 00:37:06,040] between right-handed
+- [00:37:06,040 - 00:37:08,040] and left-handed.
+- [00:37:08,040 - 00:37:10,040] And likewise,
+- [00:37:10,040 - 00:37:12,040] here's the equation for the
+- [00:37:12,040 - 00:37:14,040] left-handed component.
+- [00:37:14,040 - 00:37:16,040] d psi left-handed by dt
+- [00:37:16,040 - 00:37:18,040] turns out
+- [00:37:18,040 - 00:37:20,040] it's minus I
+- [00:37:20,040 - 00:37:22,040] alpha sub I
+- [00:37:22,040 - 00:37:24,040] d psi left-handed
+- [00:37:24,040 - 00:37:26,040] by dxi
+- [00:37:26,040 - 00:37:28,040] is equal
+- [00:37:28,040 - 00:37:30,040] to m
+- [00:37:30,040 - 00:37:32,040] psi right-handed.
+- [00:37:32,040 - 00:37:34,040] In other words,
+- [00:37:34,040 - 00:37:36,040] it's a funny equation
+- [00:37:36,040 - 00:37:38,040] in which the right-handed
+- [00:37:38,040 - 00:37:40,040] and the left-handed components
+- [00:37:40,040 - 00:37:42,040] are completely independent
+- [00:37:42,040 - 00:37:44,040] if the mass is zero
+- [00:37:44,040 - 00:37:46,040] and the left-handed
+- [00:37:46,040 - 00:37:48,040] mixes them up.
+- [00:37:48,040 - 00:37:50,040] Roughly speaking,
+- [00:37:50,040 - 00:37:52,040] you can think of a Dirac electron
+- [00:37:52,040 - 00:37:54,040] as one which, as it moves along,
+- [00:37:54,040 - 00:37:56,040] oscillates between left and right.
+- [00:37:56,040 - 00:37:58,040] And
+- [00:37:58,040 - 00:38:00,040] the oscillation
+- [00:38:00,040 - 00:38:02,040] is the mass term.
+- [00:38:02,040 - 00:38:04,040] But let's not push that too hard.
+- [00:38:04,040 - 00:38:06,040] It's not quite right.
+- [00:38:06,040 - 00:38:08,040] The mass term couples together
+- [00:38:08,040 - 00:38:10,040] the left-handed and right-handed
+- [00:38:10,040 - 00:38:12,040] components.
+- [00:38:12,040 - 00:38:14,040] This is
+- [00:38:14,040 - 00:38:16,040] for a Dirac particle
+- [00:38:16,040 - 00:38:18,040] what a mass term is.
+- [00:38:18,040 - 00:38:20,040] It's a thing which couples together.
+- [00:38:20,040 - 00:38:22,040] It's an energy
+- [00:38:22,040 - 00:38:24,040] which is only there
+- [00:38:24,040 - 00:38:26,040] if both the left-handed
+- [00:38:26,040 - 00:38:28,040] and the right-handed
+- [00:38:28,040 - 00:38:30,040] components are both excited.
+- [00:38:30,040 - 00:38:32,040] Okay, now we can see
+- [00:38:32,040 - 00:38:34,040] some odd things.
+- [00:38:34,040 - 00:38:36,040] Let's suppose
+- [00:38:36,040 - 00:38:38,040] that only the left-handed
+- [00:38:38,040 - 00:38:40,040] Dirac particle had a charge,
+- [00:38:40,040 - 00:38:42,040] which is true
+- [00:38:42,040 - 00:38:44,040] with respect to the weakened
+- [00:38:44,040 - 00:38:46,040] electron,
+- [00:38:46,040 - 00:38:48,040] but not true with respect
+- [00:38:48,040 - 00:38:50,040] to the electromagnetic.
+- [00:38:50,040 - 00:38:52,040] But let's just pretend
+- [00:38:52,040 - 00:38:54,040] only the left-handed
+- [00:38:54,040 - 00:38:56,040] electron has a charge.
+- [00:38:56,040 - 00:38:58,040] The right-handed electron
+- [00:38:58,040 - 00:39:00,040] has no charge.
+- [00:39:00,040 - 00:39:02,040] Okay?
+- [00:39:02,040 - 00:39:04,040] A fictitious world.
+- [00:39:04,040 - 00:39:06,040] Is this equation
+- [00:39:06,040 - 00:39:08,040] allowable then?
+- [00:39:08,040 - 00:39:10,040] Well, it's not.
+- [00:39:10,040 - 00:39:12,040] Because the meaning of this equation
+- [00:39:12,040 - 00:39:14,040] is that
+- [00:39:14,040 - 00:39:16,040] a charge
+- [00:39:16,040 - 00:39:18,040] will turn into a left-handed particle.
+- [00:39:18,040 - 00:39:20,040] I'll explain it another way in a second.
+- [00:39:20,040 - 00:39:22,040] And a left-handed particle moving along
+- [00:39:22,040 - 00:39:24,040] will turn into a right-handed particle.
+- [00:39:24,040 - 00:39:26,040] What does this mean?
+- [00:39:26,040 - 00:39:28,040] It means that charge conservation
+- [00:39:28,040 - 00:39:30,040] would be violated.
+- [00:39:30,040 - 00:39:32,040] A left- or right-handed field
+- [00:39:32,040 - 00:39:34,040] becoming a left-handed field
+- [00:39:34,040 - 00:39:36,040] would violate charge conservation.
+- [00:39:36,040 - 00:39:38,040] Another way to say it
+- [00:39:38,040 - 00:39:40,040] is to remember
+- [00:39:40,040 - 00:39:42,040] that
+- [00:39:42,040 - 00:39:44,040] a charged field
+- [00:39:44,040 - 00:39:46,040] is multiplied by
+- [00:39:46,040 - 00:39:48,040] e to the i theta.
+- [00:39:48,040 - 00:39:50,040] If a field has charge,
+- [00:39:50,040 - 00:39:52,040] it gets multiplied
+- [00:39:52,040 - 00:39:54,040] under a gauge transformation
+- [00:39:54,040 - 00:39:56,040] or under one of these U1 transformations.
+- [00:39:56,040 - 00:39:58,040] It gets multiplied by
+- [00:39:58,040 - 00:40:00,040] e to the i theta.
+- [00:40:00,040 - 00:40:02,040] If it has no charge,
+- [00:40:02,040 - 00:40:04,040] it does not get multiplied
+- [00:40:04,040 - 00:40:06,040] by e to the i theta.
+- [00:40:06,040 - 00:40:08,040] Now we look at this equation.
+- [00:40:08,040 - 00:40:10,040] This equation,
+- [00:40:10,040 - 00:40:12,040] if the right-handed field
+- [00:40:12,040 - 00:40:14,040] is multiplied by e to the i theta,
+- [00:40:14,040 - 00:40:16,040] nothing would happen
+- [00:40:16,040 - 00:40:18,040] to the left-hand side,
+- [00:40:18,040 - 00:40:20,040] but the right-hand side
+- [00:40:20,040 - 00:40:21,040] would pick up a factor
+- [00:40:21,040 - 00:40:22,040] of e to the i theta.
+- [00:40:22,040 - 00:40:24,040] Likewise over here.
+- [00:40:24,040 - 00:40:26,040] The left-hand side
+- [00:40:26,040 - 00:40:27,040] would pick up a factor
+- [00:40:27,040 - 00:40:28,040] of e to the i theta.
+- [00:40:28,040 - 00:40:30,040] The right-hand side would not.
+- [00:40:30,040 - 00:40:32,040] These equations cannot be symmetric
+- [00:40:32,040 - 00:40:34,040] if only
+- [00:40:34,040 - 00:40:36,040] psi left
+- [00:40:38,040 - 00:40:40,040] is multiplied by e to the i theta
+- [00:40:40,040 - 00:40:42,040] That's another way of saying
+- [00:40:42,040 - 00:40:44,040] that charge conservation
+- [00:40:44,040 - 00:40:46,040] would not permit
+- [00:40:46,040 - 00:40:48,040] a mixing of left and right
+- [00:40:48,040 - 00:40:50,040] like this
+- [00:40:50,040 - 00:40:52,040] if only the left-handed electron
+- [00:40:52,040 - 00:40:54,040] were charged.
+- [00:40:54,040 - 00:40:56,040] Both of them are charged
+- [00:40:56,040 - 00:40:58,040] in reality
+- [00:40:58,040 - 00:41:00,040] and because both of them
+- [00:41:00,040 - 00:41:02,040] carry the same charge,
+- [00:41:02,040 - 00:41:04,040] you can go back and forth
+- [00:41:04,040 - 00:41:06,040] from left to right
+- [00:41:06,040 - 00:41:08,040] without violating charge conservation.
+- [00:41:08,040 - 00:41:10,040] Yeah?
+- [00:41:10,040 - 00:41:12,040] Are the charges on the alphas
+- [00:41:12,040 - 00:41:14,040] are consistent?
+- [00:41:14,040 - 00:41:16,040] Probably not.
+- [00:41:16,040 - 00:41:18,040] No, they're probably not.
+- [00:41:18,040 - 00:41:20,040] Oh, no, no, no, no,
+- [00:41:20,040 - 00:41:22,040] I meant that they're, sorry.
+- [00:41:22,040 - 00:41:24,040] No, you're right,
+- [00:41:24,040 - 00:41:26,040] they're not consistent.
+- [00:41:26,040 - 00:41:28,040] I pulled the whole i out on the outside.
+- [00:41:28,040 - 00:41:30,040] You're right.
+- [00:41:30,040 - 00:41:32,040] Yeah.
+- [00:41:32,040 - 00:41:34,040] Okay.
+- [00:41:34,040 - 00:41:36,040] So it's just basic charge conservation
+- [00:41:36,040 - 00:41:38,040] would forbid
+- [00:41:38,040 - 00:41:40,040] the possibility of a mass
+- [00:41:40,040 - 00:41:42,040] if only left-handed electrons
+- [00:41:42,040 - 00:41:44,040] had charge.
+- [00:41:44,040 - 00:41:46,040] Or if only right-handed electrons
+- [00:41:46,040 - 00:41:48,040] had charge.
+- [00:41:48,040 - 00:41:50,040] Fortunately for the real world,
+- [00:41:50,040 - 00:41:52,040] that's not true.
+- [00:41:52,040 - 00:41:54,040] Electrons, both right-handed and electron
+- [00:41:54,040 - 00:41:56,040] and left-handed have charge.
+- [00:41:56,040 - 00:41:58,040] The electron has a mass.
+- [00:41:58,040 - 00:42:00,040] The world would be very different
+- [00:42:00,040 - 00:42:02,040] if the electron didn't have a mass
+- [00:42:02,040 - 00:42:04,040] and
+- [00:42:04,040 - 00:42:06,040] chemistry wouldn't exist.
+- [00:42:06,040 - 00:42:08,040] Yeah.
+- [00:42:08,040 - 00:42:10,040] We wouldn't be in a happy world.
+- [00:42:10,040 - 00:42:12,040] How would the world be different
+- [00:42:12,040 - 00:42:14,040] if right-handed electrons
+- [00:42:14,040 - 00:42:16,040] could be emitted from
+- [00:42:16,040 - 00:42:18,040] weak interactions with both left-handed?
+- [00:42:18,040 - 00:42:20,040] If both right-handed
+- [00:42:20,040 - 00:42:22,040] and left-handed.
+- [00:42:22,040 - 00:42:24,040] We'll come to it.
+- [00:42:24,040 - 00:42:26,040] We'll come to it.
+- [00:42:26,040 - 00:42:28,040] It would be very different,
+- [00:42:28,040 - 00:42:30,040] but
+- [00:42:30,040 - 00:42:32,040] we will come to it.
+- [00:42:32,040 - 00:42:34,040] Okay.
+- [00:42:34,040 - 00:42:36,040] So,
+- [00:42:36,040 - 00:42:38,040] I'm going to
+- [00:42:38,040 - 00:42:42,040] So,
+- [00:42:42,040 - 00:42:44,040] let's come to the weak interactions.
+- [00:42:44,040 - 00:42:46,040] Question. You can
+- [00:42:46,040 - 00:42:48,040] measure the spin of electrons vertically
+- [00:42:48,040 - 00:42:50,040] unless they select the ones that are pointing upward.
+- [00:42:50,040 - 00:42:52,040] And if you accelerate those
+- [00:42:52,040 - 00:42:54,040] in that direction, do you say they have
+- [00:42:54,040 - 00:42:56,040] a spin as the type that you're talking about?
+- [00:42:56,040 - 00:42:58,040] The same thing. Okay.
+- [00:42:58,040 - 00:43:00,040] There's an interesting question.
+- [00:43:00,040 - 00:43:02,040] Is it possible
+- [00:43:02,040 - 00:43:04,040] that there would only be one kind of electron,
+- [00:43:04,040 - 00:43:06,040] namely only left-handed electrons?
+- [00:43:06,040 - 00:43:08,040] Okay.
+- [00:43:08,040 - 00:43:10,040] Yes, it is, but only if
+- [00:43:10,040 - 00:43:12,040] they're massless.
+- [00:43:12,040 - 00:43:14,040] So let me explain why.
+- [00:43:14,040 - 00:43:16,040] Supposing there was only a left-handed electron,
+- [00:43:16,040 - 00:43:18,040] that means it spins only to the left
+- [00:43:18,040 - 00:43:20,040] when it moves,
+- [00:43:20,040 - 00:43:22,040] it has a left-handed
+- [00:43:22,040 - 00:43:24,040] helical kind of motion.
+- [00:43:24,040 - 00:43:26,040] Now,
+- [00:43:26,040 - 00:43:28,040] if the electron has a mass,
+- [00:43:28,040 - 00:43:30,040] you could imagine
+- [00:43:30,040 - 00:43:32,040] slowing it down and bringing it to rest.
+- [00:43:32,040 - 00:43:34,040] Bringing it to rest
+- [00:43:34,040 - 00:43:36,040] in a way that doesn't change its angular momentum.
+- [00:43:36,040 - 00:43:38,040] You could
+- [00:43:38,040 - 00:43:40,040] exert a force on it
+- [00:43:40,040 - 00:43:42,040] which doesn't change its angular momentum.
+- [00:43:42,040 - 00:43:44,040] So, in that case,
+- [00:43:44,040 - 00:43:46,040] you would take this electron,
+- [00:43:46,040 - 00:43:48,040] which is moving along, rotating
+- [00:43:48,040 - 00:43:50,040] to the left with a left-handed motion,
+- [00:43:50,040 - 00:43:52,040] bring it to rest,
+- [00:43:52,040 - 00:43:54,040] and even go past that,
+- [00:43:54,040 - 00:43:56,040] bring it back the other way.
+- [00:43:56,040 - 00:43:58,040] Its rotation, sense of rotation,
+- [00:43:58,040 - 00:44:00,040] hasn't changed.
+- [00:44:00,040 - 00:44:02,040] That's just angular momentum conservation.
+- [00:44:02,040 - 00:44:04,040] But its direction of velocity has changed.
+- [00:44:04,040 - 00:44:06,040] It has turned into a right-handed electron.
+- [00:44:06,040 - 00:44:08,040] So,
+- [00:44:08,040 - 00:44:10,040] if I
+- [00:44:10,040 - 00:44:12,040] I judge by my thumb,
+- [00:44:12,040 - 00:44:14,040] if it's moving in that direction,
+- [00:44:14,040 - 00:44:16,040] then the direction of my fingers is its handedness.
+- [00:44:16,040 - 00:44:18,040] So,
+- [00:44:18,040 - 00:44:20,040] if it's rotating that way
+- [00:44:20,040 - 00:44:22,040] and moving that way,
+- [00:44:22,040 - 00:44:24,040] it's left-handed.
+- [00:44:24,040 - 00:44:26,040] But, if it's rotating that way
+- [00:44:26,040 - 00:44:28,040] and moving that way,
+- [00:44:28,040 - 00:44:30,040] it's right-handed.
+- [00:44:30,040 - 00:44:32,040] So, if the particle has a mass,
+- [00:44:32,040 - 00:44:34,040] you can always bring it to rest
+- [00:44:34,040 - 00:44:36,040] and over-decelerate it
+- [00:44:36,040 - 00:44:38,040] and you're guaranteed then that you've taken
+- [00:44:38,040 - 00:44:40,040] a left-handed electron
+- [00:44:40,040 - 00:44:42,040] and turned it into right-handed.
+- [00:44:42,040 - 00:44:44,040] If it has a mass.
+- [00:44:44,040 - 00:44:46,040] What if it has no mass?
+- [00:44:46,040 - 00:44:48,040] Then you simply can't
+- [00:44:48,040 - 00:44:50,040] bring it to rest.
+- [00:44:50,040 - 00:44:52,040] You simply cannot do this process
+- [00:44:52,040 - 00:44:54,040] of taking it, moving it in that direction,
+- [00:44:54,040 - 00:44:56,040] slowing it down, bring it to rest.
+- [00:44:56,040 - 00:44:58,040] What you can do is
+- [00:44:58,040 - 00:45:00,040] rotate it around,
+- [00:45:00,040 - 00:45:02,040] but that does not change.
+- [00:45:02,040 - 00:45:04,040] I don't change my left hand to my right hand
+- [00:45:04,040 - 00:45:06,040] when I rotate around.
+- [00:45:06,040 - 00:45:08,040] But,
+- [00:45:08,040 - 00:45:10,040] if I can bring it to rest,
+- [00:45:10,040 - 00:45:12,040] then you can be sure that both kinds have to...
+- [00:45:12,040 - 00:45:14,040] If I can bring it to rest,
+- [00:45:14,040 - 00:45:16,040] I can be sure that both kinds
+- [00:45:16,040 - 00:45:18,040] necessarily have to exist.
+- [00:45:18,040 - 00:45:20,040] You can only bring an object to rest
+- [00:45:20,040 - 00:45:22,040] if it has a mass.
+- [00:45:22,040 - 00:45:24,040] So, there's another way of thinking about...
+- [00:45:24,040 - 00:45:26,040] Yeah?
+- [00:45:28,034 - 00:45:29,994] このまま仮面になる
+- [00:45:30,018 - 00:45:32,118] A circularly polarized photon.
+- [00:45:32,538 - 00:45:32,798] Right.
+- [00:45:34,018 - 00:45:35,718] Okay, it changes its polarization.
+- [00:45:36,838 - 00:45:38,048] If it's rotating that way
+- [00:45:38,048 - 00:45:39,258] and it bounces off the mirror,
+- [00:45:39,698 - 00:45:41,048] it will continue to rotate that way,
+- [00:45:41,048 - 00:45:42,398] but it will go in the opposite direction.
+- [00:45:42,838 - 00:45:44,537] That means it's changed
+- [00:45:44,537 - 00:45:46,237] from circular polarization right-handed
+- [00:45:46,237 - 00:45:47,978] to circular polarization left-handed.
+- [00:45:48,518 - 00:45:50,538] So the photon is also...
+- [00:45:50,538 - 00:45:52,418] But it never came to rest, right?
+- [00:45:53,418 - 00:45:54,938] That's right, it never came to rest.
+- [00:45:55,598 - 00:45:55,978] Right.
+- [00:45:55,978 - 00:45:57,598] Right, okay.
+- [00:45:57,598 - 00:45:59,637] If you had a particle
+- [00:45:59,637 - 00:46:01,677] which only could have one helicity,
+- [00:46:02,397 - 00:46:04,278] helicity means this handedness,
+- [00:46:04,458 - 00:46:06,857] then you couldn't have a mirror that reflected it.
+- [00:46:07,757 - 00:46:08,438] That's a good point.
+- [00:46:10,078 - 00:46:11,298] You have an electron B.
+- [00:46:11,598 - 00:46:11,757] Yeah.
+- [00:46:12,018 - 00:46:13,618] Do you have all the electrons
+- [00:46:13,618 - 00:46:15,218] in one stream or both streams?
+- [00:46:15,858 - 00:46:17,018] Generally, you have both.
+- [00:46:18,198 - 00:46:23,257] But because, okay, because real electrons have a mass,
+- [00:46:23,257 - 00:46:26,198] it means the electron, the real electron,
+- [00:46:26,458 - 00:46:27,578] is a mixture of both.
+- [00:46:27,598 - 00:46:28,638] So you have all kinds of handedness.
+- [00:46:29,658 - 00:46:31,318] But then what do you do with the focus?
+- [00:46:32,418 - 00:46:33,798] Why would it be difficult to focus?
+- [00:46:34,178 - 00:46:35,458] Because the spin...
+- [00:46:35,458 - 00:46:39,277] Well, that doesn't make it hard to focus then.
+- [00:46:39,557 - 00:46:41,438] Focusing doesn't have to do with the spin,
+- [00:46:41,538 - 00:46:42,478] it has to do with the position.
+- [00:46:43,398 - 00:46:45,438] Yeah, but the focus is on the place.
+- [00:46:46,798 - 00:46:47,178] Mm-hmm.
+- [00:46:47,318 - 00:46:49,038] So the spin changes.
+- [00:46:51,798 - 00:46:53,038] I'm not sure with the focus.
+- [00:46:53,038 - 00:46:54,998] Okay.
+- [00:47:00,354 - 00:47:03,254] the left-handed and the right-handed. It could happen.
+- [00:47:03,254 - 00:47:09,354] It depends on exactly what's focusing it. Now,
+- [00:47:09,354 - 00:47:11,314] to a good approximation,
+- [00:47:11,314 - 00:47:14,934] left-handed and right-handed
+- [00:47:14,934 - 00:47:16,754] particles in an electric or magnetic field
+- [00:47:16,754 - 00:47:18,574] behave the same way. They have the
+- [00:47:18,574 - 00:47:20,754] same trajectories. Not quite,
+- [00:47:20,754 - 00:47:24,314] because of the difference of the magnetic moment.
+- [00:47:24,314 - 00:47:27,854] So, magnetic moments are small
+- [00:47:27,854 - 00:47:29,814] of an electron.
+- [00:47:29,814 - 00:47:30,714] And,
+- [00:47:30,714 - 00:47:32,874] if you have a gradient of an electric
+- [00:47:32,874 - 00:47:35,034] field or a gradient of a magnetic field,
+- [00:47:35,034 - 00:47:37,014] well,
+- [00:47:37,014 - 00:47:38,994] a magnetic field in general,
+- [00:47:38,994 - 00:47:40,664] I think what you're saying is a
+- [00:47:40,664 - 00:47:42,334] magnetic field will affect the left-handed and the
+- [00:47:42,334 - 00:47:44,194] right-handed electrons differently.
+- [00:47:44,194 - 00:47:46,034] Yeah, this is true.
+- [00:47:46,034 - 00:47:53,034] Yeah, that's right.
+- [00:47:55,114 - 00:47:58,114] That can happen.
+- [00:47:59,814 - 00:48:02,014] Okay.
+- [00:48:02,014 - 00:48:07,014] So, here we are.
+- [00:48:07,014 - 00:48:11,014] We're in a world of...
+- [00:48:11,014 - 00:48:13,014] Does this fact that
+- [00:48:13,014 - 00:48:15,014] left-handed and right-handed are different,
+- [00:48:15,014 - 00:48:18,014] is that just an accident of nature?
+- [00:48:18,014 - 00:48:19,014] Is it what?
+- [00:48:19,014 - 00:48:21,014] Is that just an accident of nature?
+- [00:48:21,014 - 00:48:23,014] Probably not an accident of nature.
+- [00:48:23,014 - 00:48:25,014] It's not an accident of nature.
+- [00:48:25,014 - 00:48:27,014] But, for the moment,
+- [00:48:27,014 - 00:48:29,014] I think that's a good thing.
+- [00:48:29,014 - 00:48:30,364] For the moment, let's treat
+- [00:48:30,364 - 00:48:31,714] it as an accident of nature,
+- [00:48:31,714 - 00:48:34,714] an empirical fact that we know for the moment.
+- [00:48:34,714 - 00:48:36,214] Okay?
+- [00:48:36,214 - 00:48:37,014] All right.
+- [00:48:37,014 - 00:48:41,014] If it's true that the mathematical Dirac equation,
+- [00:48:41,014 - 00:48:43,514] if the left-handed particle and
+- [00:48:43,514 - 00:48:46,014] the right-handed particle have different charge,
+- [00:48:46,014 - 00:48:51,014] then the Dirac equation, or the symmetry of the system,
+- [00:48:51,014 - 00:48:53,014] will not allow us to
+- [00:48:53,014 - 00:48:55,014] mix right-handed and left-handed like that,
+- [00:48:55,014 - 00:48:56,614] then the question is, how
+- [00:48:56,614 - 00:48:58,214] might the electron get a charge?
+- [00:48:58,214 - 00:49:00,214] Or get a mass, excuse me.
+- [00:49:00,214 - 00:49:04,214] How might it get a mass in this fake world
+- [00:49:04,214 - 00:49:06,714] in which left-handed and right-handed
+- [00:49:06,714 - 00:49:09,214] electrons have different electric charge?
+- [00:49:09,214 - 00:49:12,214] I use electric charge just because it's familiar,
+- [00:49:12,214 - 00:49:15,714] and I want to make this about it's
+- [00:49:15,714 - 00:49:19,214] really the weak interaction forces that we're interested in.
+- [00:49:19,214 - 00:49:20,214] All right.
+- [00:49:20,214 - 00:49:22,214] Let's imagine that there's another field.
+- [00:49:22,214 - 00:49:24,214] Let's make it a boson field.
+- [00:49:24,214 - 00:49:27,214] A boson field, phi.
+- [00:49:28,214 - 00:49:36,214] And this boson field, phi, is also charged.
+- [00:49:36,214 - 00:49:38,214] Let's say it has plus charge.
+- [00:49:38,214 - 00:49:43,214] Boson field means it's quanta have positive charge.
+- [00:49:43,214 - 00:49:46,214] Let's write down the rules
+- [00:49:46,214 - 00:49:49,214] of transformation under these U1 symmetries.
+- [00:49:49,214 - 00:49:52,214] First of all, all right, let's write them over here.
+- [00:49:52,214 - 00:49:55,214] Under a U1 transformation, psi left
+- [00:49:55,214 - 00:49:58,214] goes to e to the i theta,
+- [00:49:58,214 - 00:50:00,214] and psi left.
+- [00:50:00,214 - 00:50:01,214] Why?
+- [00:50:01,214 - 00:50:04,214] Because left-handed electrons are charged.
+- [00:50:04,214 - 00:50:06,214] What happens to psi right?
+- [00:50:06,214 - 00:50:08,214] Somebody yell out.
+- [00:50:08,214 - 00:50:11,214] It just goes to psi right.
+- [00:50:11,214 - 00:50:15,214] It doesn't transform at all.
+- [00:50:15,214 - 00:50:23,214] And what happens to phi?
+- [00:50:23,214 - 00:50:25,214] It's charged, right?
+- [00:50:25,214 - 00:50:27,214] It's charged by assumption,
+- [00:50:27,214 - 00:50:29,214] and depending on the sign of the charge,
+- [00:50:29,214 - 00:50:31,214] let's say it goes the same way as this one,
+- [00:50:31,214 - 00:50:36,214] e to the i theta phi.
+- [00:50:36,214 - 00:50:38,714] Okay, now let's come back
+- [00:50:38,714 - 00:50:41,214] to the Dirac equation over here.
+- [00:50:41,214 - 00:50:44,214] Clearly, the equation as it stands
+- [00:50:44,214 - 00:50:47,214] is not invariant under this operation.
+- [00:50:47,214 - 00:50:51,214] The left-hand side of the top equation does not transform.
+- [00:50:51,214 - 00:50:53,214] The right-hand side does transform.
+- [00:50:53,214 - 00:50:56,214] Same thing with the lower equation, except opposite.
+- [00:50:56,214 - 00:50:58,214] But now let's play a trick.
+- [00:50:58,214 - 00:51:01,714] Let's take this mass, throw
+- [00:51:01,714 - 00:51:05,214] the mass out for the moment,
+- [00:51:05,214 - 00:51:11,214] and put in here a constant, some unknown constant,
+- [00:51:11,214 - 00:51:15,214] which we'll fix later, a numerical constant,
+- [00:51:15,214 - 00:51:21,214] times phi, let's see, the left-handed one transforms,
+- [00:51:21,214 - 00:51:24,214] times phi star,
+- [00:51:24,214 - 00:51:28,214] and this one times phi.
+- [00:51:28,214 - 00:51:32,214] Is this legal now?
+- [00:51:32,214 - 00:51:35,214] This one doesn't transform at all, right?
+- [00:51:35,214 - 00:51:40,214] What about this?
+- [00:51:40,214 - 00:51:43,214] Psi left gets a phase,
+- [00:51:43,214 - 00:51:48,214] but phi gets, or phi star gets the opposite phase.
+- [00:51:48,214 - 00:51:53,214] So, we haven't violated the symmetry, the U1 symmetry.
+- [00:51:53,214 - 00:51:55,214] How about this one?
+- [00:51:55,214 - 00:51:57,214] No.
+- [00:51:57,214 - 00:51:58,214] No what?
+- [00:51:58,214 - 00:52:00,214] No, it's good, or no, it's bad?
+- [00:52:00,214 - 00:52:01,214] No, it is good.
+- [00:52:01,214 - 00:52:03,214] Let's see.
+- [00:52:03,214 - 00:52:06,214] Psi right does not transform at all,
+- [00:52:06,214 - 00:52:08,214] and I think psi left and
+- [00:52:08,214 - 00:52:10,214] phi transform the same way, right?
+- [00:52:10,214 - 00:52:13,214] So, phi right doesn't transform at all.
+- [00:52:13,214 - 00:52:15,714] Psi left picks up the factor of e
+- [00:52:15,714 - 00:52:18,214] to the i theta, but so does phi.
+- [00:52:18,214 - 00:52:20,214] So, both of these equations
+- [00:52:20,214 - 00:52:22,214] are now consistent with the symmetry.
+- [00:52:23,214 - 00:52:32,214] This is a perfectly good alteration of the Dirac equation,
+- [00:52:32,214 - 00:52:34,214] which does not violate charge conservation.
+- [00:52:34,214 - 00:52:36,214] There's another way to think about it.
+- [00:52:36,214 - 00:52:39,214] You can think about this picture as saying a right-handed,
+- [00:52:39,214 - 00:52:42,214] the left-hand side represents the
+- [00:52:42,214 - 00:52:45,214] propagation of a right-handed particle,
+- [00:52:45,214 - 00:52:48,214] and the right-hand side represents
+- [00:52:48,214 - 00:52:51,214] the splitting into a left-handed particle,
+- [00:52:51,214 - 00:52:51,714] and the left-hand side represents
+- [00:52:51,714 - 00:52:52,214] the splitting into a left-handed particle,
+- [00:52:52,214 - 00:52:59,214] and I guess it's a phi particle, an anti-phi particle.
+- [00:52:59,214 - 00:53:01,714] So, a neutral particle breaks
+- [00:53:01,714 - 00:53:04,214] up into a left-handed particle,
+- [00:53:04,214 - 00:53:07,214] which has charge, and a right-handed particle,
+- [00:53:07,214 - 00:53:10,214] which has the opposite charge.
+- [00:53:10,214 - 00:53:13,214] That's what this equation means.
+- [00:53:13,214 - 00:53:15,214] Particle propagating along makes
+- [00:53:15,214 - 00:53:17,214] a transition to two particles.
+- [00:53:17,214 - 00:53:18,714] One is left-handed, and one
+- [00:53:18,714 - 00:53:20,214] is of a phi star type.
+- [00:53:20,214 - 00:53:22,214] Conserves charge.
+- [00:53:22,214 - 00:53:23,714] And you can say the
+- [00:53:23,714 - 00:53:25,214] same about this one over here.
+- [00:53:25,214 - 00:53:30,214] A left-handed particle moves along and becomes a phi,
+- [00:53:30,214 - 00:53:33,214] and a right-handed particle.
+- [00:53:33,214 - 00:53:35,214] That also conserves charge.
+- [00:53:35,214 - 00:53:37,214] So, that's the way you can think about this.
+- [00:53:37,214 - 00:53:40,214] It just describes a new kind of process
+- [00:53:40,214 - 00:53:45,214] in which lefts and rights can turn into each other,
+- [00:53:45,214 - 00:53:47,714] but only at the cost of
+- [00:53:47,714 - 00:53:50,214] emitting charged particles to compensate the charge.
+- [00:53:50,214 - 00:53:53,214] What's the probability for emitting such a particle?
+- [00:53:53,214 - 00:53:55,214] What's the strength of this interaction?
+- [00:53:55,214 - 00:53:57,214] It's this constant G.
+- [00:53:57,214 - 00:54:00,214] The G is called a coupling constant.
+- [00:54:00,214 - 00:54:02,214] It's not the electromagnetic charge.
+- [00:54:02,214 - 00:54:06,214] It's none of the coupling constants we've already described.
+- [00:54:06,214 - 00:54:09,214] It's called a Yukawa coupling.
+- [00:54:09,214 - 00:54:11,214] All right, now let's come back to phi.
+- [00:54:11,214 - 00:54:15,214] Let's suppose phi is one of these magical Higgs fields.
+- [00:54:15,214 - 00:54:18,214] Supposing phi is one of these magical Higgs fields.
+- [00:54:18,214 - 00:54:19,214] Remember, the Higgs field, or the...
+- [00:54:20,214 - 00:54:23,214] is also a charge-carrying field,
+- [00:54:23,214 - 00:54:25,214] and let's suppose it has the form
+- [00:54:25,214 - 00:54:30,214] rho e to the i alpha.
+- [00:54:30,214 - 00:54:32,214] In addition,
+- [00:54:32,214 - 00:54:36,214] something which is definitely not true of electrodynamics,
+- [00:54:36,214 - 00:54:39,214] let's suppose this phi field has a spontaneous...
+- [00:54:39,214 - 00:54:42,214] has rise to a spontaneous symmetry breaking,
+- [00:54:42,214 - 00:54:47,214] so that, in fact, it has magnitude F.
+- [00:54:47,214 - 00:54:50,214] Let's forget alpha for the moment.
+- [00:54:50,214 - 00:54:52,214] What happened to alpha?
+- [00:54:52,214 - 00:54:54,214] It got eaten by the Higgs phenomena
+- [00:54:54,214 - 00:54:56,214] and disappeared out of the system,
+- [00:54:56,214 - 00:55:00,214] but rho itself, or phi,
+- [00:55:00,214 - 00:55:03,214] was just proportional to this F quantity.
+- [00:55:03,214 - 00:55:05,214] What was F?
+- [00:55:05,214 - 00:55:07,714] F was just the shift of
+- [00:55:07,714 - 00:55:10,214] the field away from the origin.
+- [00:55:10,214 - 00:55:13,214] Then what happens over here?
+- [00:55:13,214 - 00:55:15,214] Right.
+- [00:55:15,214 - 00:55:18,214] Phi is too rigid to get excited very easily,
+- [00:55:18,214 - 00:55:19,214] and so it's just approximated to...
+- [00:55:20,214 - 00:55:22,214] It's approximated by a constant.
+- [00:55:22,214 - 00:55:25,214] This just becomes approximately
+- [00:55:25,214 - 00:55:29,214] G F psi left.
+- [00:55:29,214 - 00:55:31,214] This becomes approximately
+- [00:55:31,214 - 00:55:36,214] G F psi right.
+- [00:55:36,214 - 00:55:39,214] How do you separate G from F?
+- [00:55:39,214 - 00:55:41,214] G is just a number.
+- [00:55:41,214 - 00:55:42,214] So is F.
+- [00:55:42,214 - 00:55:45,214] So they can't be separated, really?
+- [00:55:45,214 - 00:55:48,214] Well, okay, here's how we separate them.
+- [00:55:48,214 - 00:55:50,214] Remember what happened to the black?
+- [00:55:50,214 - 00:55:54,214] Remember what happened to the photon in this fake world?
+- [00:55:54,214 - 00:55:57,214] It got a mass equal to F.
+- [00:55:57,214 - 00:55:59,214] So we look at the photon,
+- [00:55:59,214 - 00:56:01,214] and we say the photon,
+- [00:56:01,214 - 00:56:02,214] not the real photon,
+- [00:56:02,214 - 00:56:04,214] I really mean the Z and the W.
+- [00:56:04,214 - 00:56:06,214] We look at the Z and the W,
+- [00:56:06,214 - 00:56:08,214] and that tells us what F is.
+- [00:56:08,214 - 00:56:13,214] Then we look at the fermions,
+- [00:56:13,214 - 00:56:15,214] and we see what G is.
+- [00:56:15,214 - 00:56:16,214] All right?
+- [00:56:16,214 - 00:56:17,214] But what is this combination?
+- [00:56:17,214 - 00:56:19,214] This is the mass of the fermion.
+- [00:56:19,214 - 00:56:21,214] The fermion is playing exactly the same role
+- [00:56:21,214 - 00:56:26,214] as the original mass in the Dirac equation.
+- [00:56:26,214 - 00:56:29,214] So another magical example
+- [00:56:29,214 - 00:56:31,214] of how a shift in the Higgs field
+- [00:56:31,214 - 00:56:34,214] gives rise to masses for particles.
+- [00:56:34,214 - 00:56:37,214] The masses for particles simply mean
+- [00:56:37,214 - 00:56:41,214] the coupling between left and right-handed.
+- [00:56:41,214 - 00:56:43,214] Left goes to right-handed.
+- [00:56:43,214 - 00:56:46,214] We identify that as the mass of a fermion,
+- [00:56:46,214 - 00:56:48,214] and that's what happens.
+- [00:56:48,214 - 00:56:49,714] So the mass of a fermion
+- [00:56:49,714 - 00:56:51,214] is the mass of a particle.
+- [00:56:51,214 - 00:56:53,214] It's not the mass of a particle that's broken,
+- [00:56:53,214 - 00:56:56,214] but only if the symmetry is spontaneously broken.
+- [00:56:56,214 - 00:56:59,214] So the Higgs phenomena has another role.
+- [00:56:59,214 - 00:57:02,214] It gives the fermion's mass.
+- [00:57:02,214 - 00:57:05,214] How big is the mass of the fermions?
+- [00:57:05,214 - 00:57:09,214] The mass of a fermion is
+- [00:57:09,214 - 00:57:13,214] equal to some G times F.
+- [00:57:13,214 - 00:57:16,214] Now, there are different fermions in our world.
+- [00:57:16,214 - 00:57:19,214] That only means that there are a collection
+- [00:57:19,214 - 00:57:22,214] of different Gs in the world.
+- [00:57:22,214 - 00:57:25,214] These Gs are called Yukawa couplings,
+- [00:57:25,214 - 00:57:27,214] and there's one for each kind of fermion.
+- [00:57:27,214 - 00:57:30,214] There's an electron Yukawa coupling.
+- [00:57:30,214 - 00:57:32,214] Let's estimate.
+- [00:57:32,214 - 00:57:34,214] How big is the electron Yukawa coupling?
+- [00:57:34,214 - 00:57:36,214] Remember that the mass of the Z boson,
+- [00:57:36,214 - 00:57:40,214] or the W boson, is essentially F.
+- [00:57:40,214 - 00:57:43,214] Anybody know what the mass of a W boson is?
+- [00:57:43,214 - 00:57:45,214] It's about 90.
+- [00:57:45,214 - 00:57:47,214] It's about 900 GeV, right?
+- [00:57:47,214 - 00:57:49,214] Did somebody say?
+- [00:57:49,214 - 00:57:50,214] How much?
+- [00:57:50,214 - 00:57:52,214] Sorry, 90 GeV, not 900.
+- [00:57:52,214 - 00:57:53,214] Thank you.
+- [00:57:53,214 - 00:57:56,214] Roughly 100 GeV.
+- [00:57:56,214 - 00:57:58,214] What's the mass of an electron?
+- [00:57:58,214 - 00:58:01,214] So we could be talking about electrons here.
+- [00:58:01,214 - 00:58:05,214] This would be the Yukawa coupling for the electron.
+- [00:58:05,214 - 00:58:07,214] Half an MeV, right?
+- [00:58:07,214 - 00:58:14,214] So G electron here must be a very small number.
+- [00:58:14,214 - 00:58:16,214] What is it?
+- [00:58:16,214 - 00:58:18,714] It's the ratio of the
+- [00:58:18,714 - 00:58:21,214] electron mass to the Z mass,
+- [00:58:21,214 - 00:58:24,214] and that's 100 GeV versus half an MeV.
+- [00:58:24,214 - 00:58:27,214] That's a big number.
+- [00:58:27,214 - 00:58:28,214] Hundreds of thousands.
+- [00:58:28,214 - 00:58:29,214] How much?
+- [00:58:29,214 - 00:58:31,214] 200 what?
+- [00:58:31,214 - 00:58:40,214] That's 100 GeV versus half an MeV.
+- [00:58:40,214 - 00:58:42,214] The difference between an MeV and a GeV
+- [00:58:42,214 - 00:58:43,214] is a factor of 1,000,
+- [00:58:43,214 - 00:58:45,214] so it's roughly a factor of 10 to...
+- [00:58:45,214 - 00:58:49,214] This number is about 10 to the minus 5.
+- [00:58:49,214 - 00:58:51,214] Very, very small number.
+- [00:58:51,214 - 00:58:53,214] How do we know it?
+- [00:58:53,214 - 00:58:54,714] We know it from knowing both
+- [00:58:54,714 - 00:58:56,214] the mass of the W boson
+- [00:58:56,214 - 00:58:58,214] and the mass of the electron.
+- [00:58:58,214 - 00:59:00,214] Next.
+- [00:59:00,214 - 00:59:01,214] What's the next one?
+- [00:59:01,214 - 00:59:03,214] The next one is the muon, or the up quark,
+- [00:59:03,214 - 00:59:05,214] or the down quark,
+- [00:59:05,214 - 00:59:07,214] and there's a variety of different numbers.
+- [00:59:07,214 - 00:59:10,214] What's the heaviest of the quarks?
+- [00:59:10,214 - 00:59:11,214] The top quark.
+- [00:59:11,214 - 00:59:12,214] The top quark, and what is that?
+- [00:59:12,214 - 00:59:15,214] How much, what's its mass?
+- [00:59:15,214 - 00:59:18,214] It's about a factor of 1 1⁄2 or 2 times,
+- [00:59:18,214 - 00:59:21,214] somewhere between 1 1⁄2 and 2 times
+- [00:59:21,214 - 00:59:24,214] the mass of the W.
+- [00:59:24,214 - 00:59:27,214] So that means for the top quark,
+- [00:59:27,214 - 00:59:30,214] this number here
+- [00:59:30,214 - 00:59:34,214] is a number of order one.
+- [00:59:34,214 - 00:59:36,214] So there's a whole spectrum
+- [00:59:36,214 - 00:59:38,214] of these different Yukawa couplings
+- [00:59:38,214 - 00:59:41,214] that nobody understands.
+- [00:59:41,214 - 00:59:44,214] But one thing that's interesting is you,
+- [00:59:44,214 - 00:59:46,214] and you say, so, okay, so all you've done
+- [00:59:46,214 - 00:59:51,214] is fit a collection of numbers
+- [00:59:51,214 - 00:59:53,214] to the masses of the fermions.
+- [00:59:53,214 - 00:59:56,214] But now you can hope for an experimental
+- [00:59:56,214 - 01:00:00,214] conservation, experimental confirmation
+- [01:00:00,214 - 01:00:02,214] of these numbers.
+- [01:00:02,214 - 01:00:06,214] Let's go back to the coupling
+- [01:00:06,214 - 01:00:10,214] of the right-handed and the left-handed particles here.
+- [01:00:10,214 - 01:00:13,214] And remember that F was simply
+- [01:00:13,214 - 01:00:17,214] the frozen value of the Higgs field.
+- [01:00:17,214 - 01:00:20,214] But the Higgs field is not really frozen.
+- [01:00:20,214 - 01:00:23,214] It really can shift around.
+- [01:00:23,214 - 01:00:25,214] What is the Higgs field?
+- [01:00:25,214 - 01:00:27,214] The Higgs field is the fluctuation
+- [01:00:27,214 - 01:00:29,214] away from this frozen value,
+- [01:00:29,214 - 01:00:31,214] the real Higgs particle.
+- [01:00:31,214 - 01:00:33,214] The real Higgs particle is the fluctuation
+- [01:00:33,214 - 01:00:35,214] away from here.
+- [01:00:35,214 - 01:00:37,214] So in fact, what we should really write,
+- [01:00:37,214 - 01:00:39,214] if we're doing it correctly,
+- [01:00:39,214 - 01:00:44,214] is F plus the Higgs field
+- [01:00:44,214 - 01:00:48,214] times psi left.
+- [01:00:48,214 - 01:00:50,214] What is this telling us?
+- [01:00:50,214 - 01:00:52,214] This is telling us that, sorry,
+- [01:00:52,214 - 01:00:54,214] this is right, this is right, I think.
+- [01:00:54,214 - 01:00:56,214] No, left, yeah, left.
+- [01:00:56,214 - 01:00:58,214] This is telling us that a process
+- [01:00:58,214 - 01:01:02,214] can happen where a right-handed fermion
+- [01:01:02,214 - 01:01:05,214] can turn into a left-handed fermion
+- [01:01:05,214 - 01:01:08,214] and a Higgs particle, a real process.
+- [01:01:09,214 - 01:01:11,214] Right-handed particle can become
+- [01:01:11,214 - 01:01:14,214] a left-handed particle and a Higgs particle.
+- [01:01:14,214 - 01:01:16,214] And what's the amplitude for that?
+- [01:01:16,214 - 01:01:18,214] The same Yukawa coupling.
+- [01:01:18,214 - 01:01:20,214] What is that word before coupling?
+- [01:01:20,214 - 01:01:22,214] Yukawa.
+- [01:01:22,214 - 01:01:24,214] Yukawa was a Japanese physicist.
+- [01:01:24,214 - 01:01:27,214] Sorry. Yukawa.
+- [01:01:27,214 - 01:01:32,214] Yukawa.
+- [01:01:32,214 - 01:01:35,214] Yukawa was a Japanese physicist
+- [01:01:35,214 - 01:01:38,214] in the 40s who,
+- [01:01:38,214 - 01:01:42,214] among other things,
+- [01:01:42,214 - 01:01:44,214] wrote down the mathematics
+- [01:01:44,214 - 01:01:47,214] of the couplings between fermions
+- [01:01:47,214 - 01:01:49,214] and bosons like this.
+- [01:01:49,214 - 01:01:52,214] All right.
+- [01:01:52,214 - 01:01:56,214] Won the Nobel Prize for this in the 1940s
+- [01:01:56,214 - 01:01:58,214] for different physics,
+- [01:01:58,214 - 01:02:00,214] for nuclear physics applications
+- [01:02:00,214 - 01:02:02,214] of these ideas.
+- [01:02:02,214 - 01:02:04,214] But in any case, the point is
+- [01:02:04,214 - 01:02:07,214] that the same coupling constant
+- [01:02:07,214 - 01:02:11,214] which appears in the mass of the fermions
+- [01:02:11,214 - 01:02:14,214] also governs the process of a fermion
+- [01:02:14,214 - 01:02:18,214] becoming a Higgs boson and another fermion.
+- [01:02:18,214 - 01:02:21,214] I should draw these as solid lines.
+- [01:02:21,214 - 01:02:24,214] Fermion left-handed becomes fermion right-handed
+- [01:02:24,214 - 01:02:26,214] and a Higgs boson.
+- [01:02:26,214 - 01:02:29,214] Now, we've not detected the Higgs bosons yet.
+- [01:02:29,214 - 01:02:31,214] We've not detected them yet.
+- [01:02:31,214 - 01:02:33,214] So it becomes a very, very important thing
+- [01:02:33,214 - 01:02:35,214] once the Higgs boson is detected
+- [01:02:35,214 - 01:02:37,214] to study the different processes
+- [01:02:37,214 - 01:02:39,214] in which Higgs bosons are produced
+- [01:02:39,214 - 01:02:42,214] to see that the relative probabilities
+- [01:02:42,214 - 01:02:45,214] of producing a Higgs boson by an electron
+- [01:02:45,214 - 01:02:48,214] and by a top quark or another kind of quark,
+- [01:02:48,214 - 01:02:51,214] that they have the same ratios
+- [01:02:51,214 - 01:02:54,214] as these constants here.
+- [01:02:54,214 - 01:02:56,214] For example, it tells us
+- [01:02:56,214 - 01:02:58,214] that in the decay of the Higgs boson,
+- [01:02:58,214 - 01:02:59,714] this could be read as
+- [01:02:59,714 - 01:03:01,214] the decay of a Higgs boson
+- [01:03:01,214 - 01:03:03,214] into a pair of fermions,
+- [01:03:03,214 - 01:03:05,214] that it prefers to have a fermion
+- [01:03:05,214 - 01:03:09,214] that is supposed to decay into the heaviest fermions
+- [01:03:09,214 - 01:03:12,214] if it has enough energy to do so.
+- [01:03:12,214 - 01:03:15,214] It will preferentially decay to heavier fermions
+- [01:03:15,214 - 01:03:17,214] rather than light fermions,
+- [01:03:17,214 - 01:03:19,214] and that's a consequence of this
+- [01:03:19,214 - 01:03:23,214] because the couplings here are larger.
+- [01:03:23,214 - 01:03:26,214] So that's one of the things that will become important
+- [01:03:26,214 - 01:03:28,214] in the LHC,
+- [01:03:28,214 - 01:03:31,214] is to study the properties of Higgs bosons
+- [01:03:31,214 - 01:03:33,214] and see if we can detect evidence
+- [01:03:33,214 - 01:03:35,214] for these coupling constants.
+- [01:03:35,214 - 01:03:37,214] So basically all the coupling constants,
+- [01:03:37,214 - 01:03:39,214] regardless of where they come in,
+- [01:03:39,214 - 01:03:41,214] are really probability numbers?
+- [01:03:41,214 - 01:03:43,214] They're square roots of probability.
+- [01:03:47,214 - 01:03:49,214] Sometimes they're fourth roots of probabilities.
+- [01:03:49,214 - 01:03:51,214] It depends on how many times you have to square.
+- [01:03:51,214 - 01:03:53,214] But yeah, right.
+- [01:03:53,214 - 01:03:55,214] They're related to probabilities.
+- [01:03:59,214 - 01:04:01,214] So there's an assumption here
+- [01:04:01,214 - 01:04:03,214] that there's only one such Higgs boson
+- [01:04:03,214 - 01:04:04,214] that everything couples?
+- [01:04:04,214 - 01:04:06,214] I have made the assumption
+- [01:04:06,214 - 01:04:08,214] that there's only one type of Higgs bosons.
+- [01:04:08,214 - 01:04:10,214] In various more complicated theories
+- [01:04:10,214 - 01:04:12,214] beyond the standard model,
+- [01:04:12,214 - 01:04:14,214] there are often more than one.
+- [01:04:14,214 - 01:04:16,214] And then much of what I have to say,
+- [01:04:16,214 - 01:04:18,214] for example, there are Higgs bosons,
+- [01:04:18,214 - 01:04:20,214] well, yeah, there are supersymmetric models,
+- [01:04:20,214 - 01:04:22,214] there are usually two Higgs bosons,
+- [01:04:22,214 - 01:04:25,214] but then you just modify it accordingly.
+- [01:04:25,214 - 01:04:27,214] And of course much of what I say
+- [01:04:27,214 - 01:04:29,214] has to be modified
+- [01:04:29,214 - 01:04:32,214] because the weak interactions are SU2, not U1.
+- [01:04:32,214 - 01:04:34,214] So what I'm doing is
+- [01:04:34,214 - 01:04:36,214] giving you a kind of simplified version
+- [01:04:36,214 - 01:04:38,214] of what the Higgs phenomena does.
+- [01:04:38,214 - 01:04:42,214] But thus far, taking into account
+- [01:04:42,214 - 01:04:46,214] all of the various gauge interactions,
+- [01:04:46,214 - 01:04:48,214] here's an interesting fact.
+- [01:04:48,214 - 01:04:52,214] All of the particles that are seen
+- [01:04:52,214 - 01:04:54,214] in the standard model
+- [01:04:54,214 - 01:04:56,214] could not have a mass
+- [01:04:56,214 - 01:04:58,214] if it were not for this shift,
+- [01:04:58,214 - 01:05:01,214] for this shift of the Higgs field.
+- [01:05:01,214 - 01:05:03,214] The gauge bosons,
+- [01:05:03,214 - 01:05:07,214] they normally do not have mass.
+- [01:05:07,214 - 01:05:09,214] And the only way to give them the mass,
+- [01:05:09,214 - 01:05:11,214] the only known way to give them mass,
+- [01:05:11,214 - 01:05:14,214] is this phenomenon of spontaneous symmetry breaking
+- [01:05:14,214 - 01:05:16,214] associated with the Higgs field.
+- [01:05:16,214 - 01:05:18,214] Their mass is typically proportional
+- [01:05:18,214 - 01:05:20,214] just to this F.
+- [01:05:20,214 - 01:05:22,214] So the Z and W boson.
+- [01:05:22,214 - 01:05:24,214] All of the fermions,
+- [01:05:24,214 - 01:05:26,214] because of this peculiar property
+- [01:05:26,214 - 01:05:31,214] that the weak interactions are purely left-handed,
+- [01:05:31,214 - 01:05:33,214] the symmetries,
+- [01:05:33,214 - 01:05:35,214] of the gauge theories,
+- [01:05:35,214 - 01:05:37,214] do not allow you to just write down,
+- [01:05:37,214 - 01:05:39,214] in other words, to postulate
+- [01:05:39,214 - 01:05:42,214] a mathematical mass term for these fermions.
+- [01:05:42,214 - 01:05:44,214] The only way that they get mass
+- [01:05:44,214 - 01:05:47,214] is through this shift of the field.
+- [01:05:47,214 - 01:05:49,214] To say it yet another way,
+- [01:05:49,214 - 01:05:51,214] all of the masses of the known particles
+- [01:05:51,214 - 01:05:54,214] are such that they are proportional
+- [01:05:54,214 - 01:05:58,214] to this symmetry breaking parameter, F,
+- [01:05:58,214 - 01:06:01,214] the shift of the Higgs field.
+- [01:06:01,214 - 01:06:03,214] That's a curiosity which may be deep,
+- [01:06:03,214 - 01:06:05,214] but may be important.
+- [01:06:05,214 - 01:06:07,214] Question, if you have antiparticles
+- [01:06:07,214 - 01:06:09,214] and they decay,
+- [01:06:09,214 - 01:06:11,214] would the direction be the opposite?
+- [01:06:11,214 - 01:06:14,214] Yes. That's a good point.
+- [01:06:14,214 - 01:06:18,214] If an electron is purely left-handed,
+- [01:06:18,214 - 01:06:21,214] then its antiparticle is purely right-handed.
+- [01:06:21,214 - 01:06:24,214] But nevertheless, we continue to call it left-handed.
+- [01:06:24,214 - 01:06:26,214] We call it...
+- [01:06:26,214 - 01:06:29,214] We still say the electron is left-handed.
+- [01:06:29,214 - 01:06:31,214] You say left-handed,
+- [01:06:31,214 - 01:06:34,214] but is it left-handed anti-electron
+- [01:06:34,214 - 01:06:37,214] or positron?
+- [01:06:37,214 - 01:06:39,214] The positron would be right-handed.
+- [01:06:39,214 - 01:06:42,214] The positron which interacts with the Z and W bosons
+- [01:06:42,214 - 01:06:44,214] is right-handed.
+- [01:06:44,214 - 01:06:46,214] So you'd call it biotent?
+- [01:06:46,214 - 01:06:48,214] You'd call it biotent.
+- [01:06:48,214 - 01:06:49,214] Biotent is not right-handed,
+- [01:06:49,214 - 01:06:51,214] so it's antiparticle.
+- [01:06:51,214 - 01:06:54,214] Uh, it's just a pure convention.
+- [01:06:54,214 - 01:06:57,214] We have a lot more experience with electrons
+- [01:06:57,214 - 01:06:59,214] than we do with positrons,
+- [01:06:59,214 - 01:07:01,214] so we tend to name things
+- [01:07:01,214 - 01:07:04,214] by the way we tend to say the electron,
+- [01:07:04,214 - 01:07:06,214] meaning the full complex of objects
+- [01:07:06,214 - 01:07:08,214] that go together with the electron
+- [01:07:08,214 - 01:07:10,214] are called left-handed.
+- [01:07:10,214 - 01:07:13,214] Nevertheless, the positron is right-handed.
+- [01:07:13,214 - 01:07:16,214] So what do you do about the electrons and positrons?
+- [01:07:16,214 - 01:07:19,214] What do you do about their...
+- [01:07:19,214 - 01:07:21,214] Well, an electron and a positron,
+- [01:07:21,214 - 01:07:22,214] if collided together,
+- [01:07:22,214 - 01:07:25,214] can make, for example, a Z boson.
+- [01:07:25,214 - 01:07:28,214] So I guess it would be a left-handed electron
+- [01:07:28,214 - 01:07:31,214] and a right-handed positron,
+- [01:07:31,214 - 01:07:34,214] could make a Z boson.
+- [01:07:34,214 - 01:07:36,214] Right.
+- [01:07:36,214 - 01:07:37,214] Okay.
+- [01:07:37,214 - 01:07:41,214] Are all positrons created by the same thing?
+- [01:07:41,214 - 01:07:42,214] No.
+- [01:07:42,214 - 01:07:43,214] No, no, you can create positrons
+- [01:07:43,214 - 01:07:45,214] in all kinds of ways.
+- [01:07:45,214 - 01:07:49,214] Uh, you hit any particle hard enough with anything,
+- [01:07:49,214 - 01:07:52,214] and it will make, among other things, positrons.
+- [01:07:52,214 - 01:07:54,214] Right.
+- [01:07:54,214 - 01:07:58,214] Certainly not all positrons in nature are made of, uh...
+- [01:07:58,214 - 01:08:01,214] For example, you can make positrons, uh,
+- [01:08:01,214 - 01:08:06,214] by just colliding an electron with a photon.
+- [01:08:06,214 - 01:08:08,214] You hit an electron hard enough with a photon,
+- [01:08:08,214 - 01:08:09,214] and you'll make...
+- [01:08:09,214 - 01:08:10,214] The electron won't disappear,
+- [01:08:10,214 - 01:08:16,214] but out will come an extra electron and a positron.
+- [01:08:16,214 - 01:08:18,214] Okay, for example, let's see if we can work out
+- [01:08:18,214 - 01:08:22,214] the Feynman diagram that describes that.
+- [01:08:22,214 - 01:08:24,214] Okay, so the Feynman diagrams,
+- [01:08:24,214 - 01:08:26,214] the basic Feynman diagram,
+- [01:08:26,214 - 01:08:28,214] or the basic vertex,
+- [01:08:28,214 - 01:08:30,214] is electron, electron, and photon.
+- [01:08:31,214 - 01:08:35,214] But if we flip the lines around,
+- [01:08:35,214 - 01:08:38,214] we can turn this into electron,
+- [01:08:38,214 - 01:08:41,214] let's call this E minus,
+- [01:08:41,214 - 01:08:43,214] E plus, that's positron,
+- [01:08:43,214 - 01:08:45,214] and photon.
+- [01:08:45,214 - 01:08:47,214] Or, better yet, let's see,
+- [01:08:47,214 - 01:08:48,214] so what did I say?
+- [01:08:48,214 - 01:08:51,214] We said electron collides with a photon
+- [01:08:51,214 - 01:08:54,214] and makes an extra electron and positron.
+- [01:08:54,214 - 01:08:56,214] Okay, so here's the, uh,
+- [01:08:56,214 - 01:09:00,214] photon colliding with the electron.
+- [01:09:00,214 - 01:09:03,214] Then another photon emitted,
+- [01:09:03,214 - 01:09:08,214] and that photon turning into an electron and a positron.
+- [01:09:08,214 - 01:09:10,214] All right, so that's a Feynman diagram,
+- [01:09:10,214 - 01:09:12,214] a fairly complicated Feynman diagram,
+- [01:09:12,214 - 01:09:15,214] uh, that would take an electron and a photon
+- [01:09:15,214 - 01:09:18,214] and turn it into an electron,
+- [01:09:18,214 - 01:09:20,214] two electrons and a positron.
+- [01:09:20,214 - 01:09:24,214] So there's all kinds of processes that can make power.
+- [01:09:24,214 - 01:09:27,214] On the linear accelerator,
+- [01:09:27,214 - 01:09:29,214] can you select the speed of the electron?
+- [01:09:29,214 - 01:09:32,214] Sure.
+- [01:09:32,214 - 01:09:34,214] Well, you're asking in practice,
+- [01:09:34,214 - 01:09:37,214] how much can you, uh, not that much.
+- [01:09:37,214 - 01:09:39,214] So, yes, you can, you can, uh,
+- [01:09:39,214 - 01:09:42,214] you can change the energy of the, uh,
+- [01:09:42,214 - 01:09:46,214] varying the magnetic fields and so forth.
+- [01:09:46,214 - 01:09:47,714] I had thought that one
+- [01:09:47,714 - 01:09:49,214] of the last experiments I did
+- [01:09:49,214 - 01:09:51,214] was with polarized electrons.
+- [01:09:51,214 - 01:09:53,214] Polarized electrons, yeah.
+- [01:09:53,214 - 01:09:55,214] It's hard to make polarized electrons,
+- [01:09:55,214 - 01:09:57,214] but once you make them, you can accelerate them.
+- [01:09:57,214 - 01:09:59,214] So the electrons are made in, uh,
+- [01:09:59,214 - 01:10:02,214] slow electrons are made, which are polarized.
+- [01:10:02,214 - 01:10:03,214] Don't ask me how they're polarized.
+- [01:10:03,214 - 01:10:05,214] I don't remember, but, uh,
+- [01:10:05,214 - 01:10:08,214] then they're accelerated as polarized electrons.
+- [01:10:08,214 - 01:10:10,214] I do remember.
+- [01:10:10,214 - 01:10:13,214] It's a very low-energy spin-orbit interaction
+- [01:10:13,214 - 01:10:15,214] that's selected to get...
+- [01:10:15,214 - 01:10:17,214] Yeah, yeah.
+- [01:10:17,214 - 01:10:19,214] Yeah, but the details of how, I can't remember.
+- [01:10:19,214 - 01:10:20,214] It's not easy to do.
+- [01:10:20,214 - 01:10:22,214] You need big magnetic fields,
+- [01:10:22,214 - 01:10:25,214] and it took a while for them to, uh,
+- [01:10:25,214 - 01:10:27,214] to generate the technology to do, uh,
+- [01:10:27,214 - 01:10:28,214] uh, polarized electrons.
+- [01:10:28,214 - 01:10:30,214] Polarized electron beams.
+- [01:10:30,214 - 01:10:33,214] Polarized means all the spins are in the same direction.
+- [01:10:33,214 - 01:10:35,214] Yeah.
+- [01:10:35,214 - 01:10:37,214] Yeah.
+- [01:10:37,214 - 01:10:38,214] Yeah.
+- [01:10:38,214 - 01:10:40,214] So what about neutrinos?
+- [01:10:40,214 - 01:10:42,214] Okay, so neutrinos, all right,
+- [01:10:42,214 - 01:10:44,214] so in the standard model
+- [01:10:44,214 - 01:10:48,214] and in old-time physics of the, uh,
+- [01:10:48,214 - 01:10:50,214] before recent years,
+- [01:10:50,214 - 01:10:53,214] it was not known whether the neutrino...
+- [01:10:53,214 - 01:10:55,214] It was thought that the neutrino was massless.
+- [01:10:55,214 - 01:10:57,214] Now, the mass of the neutrino is very, very small.
+- [01:10:58,214 - 01:11:00,214] Remember, there are several different neutrinos,
+- [01:11:00,214 - 01:11:02,214] electron neutrinos, muon neutrinos.
+- [01:11:02,214 - 01:11:04,214] Very small.
+- [01:11:04,214 - 01:11:06,214] Within experimental error,
+- [01:11:06,214 - 01:11:08,214] they move with the speed of light.
+- [01:11:08,214 - 01:11:11,214] And that means that it's possible for them
+- [01:11:11,214 - 01:11:13,214] to have only a single handedness.
+- [01:11:13,214 - 01:11:15,214] All right?
+- [01:11:15,214 - 01:11:17,214] In the standard model,
+- [01:11:17,214 - 01:11:19,214] neutrinos all are left-handed.
+- [01:11:19,214 - 01:11:22,214] The standard model does not even contain anything
+- [01:11:22,214 - 01:11:25,214] that you could call right-handed neutrinos.
+- [01:11:25,214 - 01:11:28,214] Uh, generalizations of the standard model
+- [01:11:28,214 - 01:11:30,214] have right-handed neutrinos,
+- [01:11:30,214 - 01:11:31,714] but those right-handed neutrinos typically
+- [01:11:31,714 - 01:11:33,214] have a very large mass,
+- [01:11:33,214 - 01:11:36,214] and, uh, it's a complicated story.
+- [01:11:36,214 - 01:11:38,214] Maybe we'll come to it.
+- [01:11:38,214 - 01:11:40,214] But in the simple standard model,
+- [01:11:40,214 - 01:11:42,214] um,
+- [01:11:42,214 - 01:11:44,214] neutrinos are massless.
+- [01:11:44,214 - 01:11:46,214] Now, do we know, are they really massless?
+- [01:11:46,214 - 01:11:48,214] They're not.
+- [01:11:48,214 - 01:11:49,214] We know they're not.
+- [01:11:49,214 - 01:11:51,214] We know they're not because of neutrino oscillations.
+- [01:11:51,214 - 01:11:53,214] So we know they're not,
+- [01:11:53,214 - 01:11:55,214] but their masses are very small,
+- [01:11:55,214 - 01:11:57,214] 10 to the minus 3 electron volts or even smaller.
+- [01:11:57,214 - 01:12:01,214] And, uh, so, uh,
+- [01:12:01,214 - 01:12:04,214] in, um,
+- [01:12:04,214 - 01:12:06,214] approximately, they're very close to massless.
+- [01:12:06,214 - 01:12:08,214] They're not quite.
+- [01:12:08,214 - 01:12:12,214] What actually happens to neutrinos is really curious.
+- [01:12:12,214 - 01:12:14,214] Remember, a mass term is a thing
+- [01:12:14,214 - 01:12:17,214] which turns left-handed to right-handed.
+- [01:12:17,214 - 01:12:18,214] All right?
+- [01:12:18,214 - 01:12:20,214] So it's a process in which left-handed
+- [01:12:20,214 - 01:12:22,214] can make a transition to right-handed.
+- [01:12:22,214 - 01:12:25,214] Now, uh,
+- [01:12:25,214 - 01:12:27,214] what happens with the neutrino?
+- [01:12:27,214 - 01:12:29,214] There are left-handed neutrinos,
+- [01:12:29,214 - 01:12:33,214] and of course they go along with right-handed antineutrinos.
+- [01:12:33,214 - 01:12:35,214] If a neutrino is left-handed,
+- [01:12:35,214 - 01:12:37,214] then the antineutrino is right-handed.
+- [01:12:37,214 - 01:12:40,214] And one way of having a mass for the neutrino
+- [01:12:40,214 - 01:12:44,214] is to have a left-handed neutrino
+- [01:12:44,214 - 01:12:48,214] make transitions to right-handed antineutrinos.
+- [01:12:48,214 - 01:12:50,214] Mass is always, for fermions,
+- [01:12:50,214 - 01:12:53,214] it's always left hand turns into right hand
+- [01:12:53,214 - 01:12:55,214] turns into left hand turns into right hand,
+- [01:12:55,214 - 01:12:57,214] processes which involve that.
+- [01:12:57,214 - 01:13:00,214] For neutrinos, curiously,
+- [01:13:00,214 - 01:13:02,214] the right-handed particle,
+- [01:13:02,214 - 01:13:05,214] which the neutrino can make a transition to,
+- [01:13:05,214 - 01:13:09,214] uh, is the antiparticle of the left-handed neutrino.
+- [01:13:09,214 - 01:13:12,214] So that's an interesting, um, fact.
+- [01:13:12,214 - 01:13:15,214] Why could the electron, the real electron,
+- [01:13:15,214 - 01:13:19,214] why could the real electron not get a mass
+- [01:13:19,214 - 01:13:22,214] by mixing, by the left-handed electron
+- [01:13:22,214 - 01:13:25,214] with the right-handed positron?
+- [01:13:27,214 - 01:13:31,214] You'd be pretty, yeah, you'd be pretty amazed
+- [01:13:31,214 - 01:13:34,214] to see a electron turn into a positron
+- [01:13:34,214 - 01:13:37,214] because it violates charge conservation.
+- [01:13:37,214 - 01:13:40,214] So that's not an option for the electron.
+- [01:13:40,214 - 01:13:43,214] Why is it allowed for the neutrino?
+- [01:13:43,214 - 01:13:47,214] Has no charge. Has no charge. Right.
+- [01:13:47,214 - 01:13:50,214] Uh, the buzzword terminology for a particle
+- [01:13:50,214 - 01:13:54,214] which gets a mass from a Dirac equation,
+- [01:13:54,214 - 01:13:56,214] it's very curious, um,
+- [01:13:57,214 - 01:13:59,214] the thing on the right-hand side here
+- [01:13:59,214 - 01:14:01,214] is the antiparticle of the thing on the left-hand side
+- [01:14:01,214 - 01:14:03,214] for a neutrino.
+- [01:14:03,214 - 01:14:04,714] A particle which gets its
+- [01:14:04,714 - 01:14:06,214] mass by mixing in this way
+- [01:14:06,214 - 01:14:10,214] with its antiparticle is called a Majorana particle.
+- [01:14:10,214 - 01:14:12,214] Majorana.
+- [01:14:12,214 - 01:14:17,214] Was Majorana the, uh,
+- [01:14:17,214 - 01:14:20,214] young Italian physicist?
+- [01:14:20,214 - 01:14:22,214] I'm not even sure what year.
+- [01:14:22,214 - 01:14:24,214] Uh...
+- [01:14:27,214 - 01:14:31,214] Majorana.
+- [01:14:31,214 - 01:14:33,214] Ettore Majorana,
+- [01:14:33,214 - 01:14:35,214] who disappeared shortly after, uh,
+- [01:14:35,214 - 01:14:37,214] inventing the Majorana particle
+- [01:14:37,214 - 01:14:39,214] and never was heard of again.
+- [01:14:39,214 - 01:14:41,214] I don't mean he wasn't academically heard of.
+- [01:14:41,214 - 01:14:43,214] I mean he was never heard of again.
+- [01:14:43,214 - 01:14:45,214] Nobody knows what happened to him.
+- [01:14:45,214 - 01:14:48,214] Mafia doesn't...
+- [01:14:48,214 - 01:14:50,214] Are you gonna be able to tell us
+- [01:14:50,214 - 01:14:52,214] why we think the Higgs particle
+- [01:14:52,214 - 01:14:54,214] is gonna be reached, the mass of it?
+- [01:14:54,214 - 01:14:56,214] Yeah, we can, we can talk about...
+- [01:14:56,214 - 01:14:58,214] Turns out the mass of the Higgs particle
+- [01:14:58,214 - 01:15:00,214] is also generated by the Higgs particle
+- [01:15:00,214 - 01:15:02,214] and is also ordered the same F,
+- [01:15:02,214 - 01:15:04,214] so we more or less expect that the Higgs particle
+- [01:15:04,214 - 01:15:06,214] will have the same order of magnitude mass
+- [01:15:06,214 - 01:15:08,214] as the W and Z boson.
+- [01:15:08,214 - 01:15:11,214] Somewhat heavier, but, uh,
+- [01:15:11,214 - 01:15:13,214] but more or less the same.
+- [01:15:13,214 - 01:15:15,214] But, okay, so let's think about now what we found.
+- [01:15:15,214 - 01:15:17,214] This is somewhat striking.
+- [01:15:17,214 - 01:15:21,214] All masses in the standard model
+- [01:15:21,214 - 01:15:24,214] trace back to this parameter F.
+- [01:15:24,214 - 01:15:26,214] If F were zero,
+- [01:15:26,214 - 01:15:29,214] they would all be massless.
+- [01:15:29,214 - 01:15:32,214] All right, all the particles of the standard model,
+- [01:15:32,214 - 01:15:34,214] with the possible exception of the Higgs boson itself,
+- [01:15:34,214 - 01:15:36,214] but all the particles of the standard model,
+- [01:15:36,214 - 01:15:38,214] all the familiar guys there,
+- [01:15:38,214 - 01:15:41,214] and even many of the unfamiliar ones,
+- [01:15:41,214 - 01:15:43,214] Z and W and so forth,
+- [01:15:43,214 - 01:15:45,214] top quarks, bottom quarks,
+- [01:15:45,214 - 01:15:47,214] the whole works,
+- [01:15:47,214 - 01:15:50,214] uh, all of their masses
+- [01:15:50,214 - 01:15:53,214] are a response to this F.
+- [01:15:53,214 - 01:15:55,214] They're all proportional to F
+- [01:15:55,214 - 01:15:58,214] in the formulas of particle physics.
+- [01:15:58,214 - 01:16:00,214] Why is that?
+- [01:16:00,214 - 01:16:02,214] Why are there no particles in nature
+- [01:16:02,214 - 01:16:05,214] whose masses, um,
+- [01:16:05,214 - 01:16:08,214] might not be much, much larger than F?
+- [01:16:08,214 - 01:16:10,214] Well, maybe there are particles
+- [01:16:10,214 - 01:16:12,214] which masses are much larger than F.
+- [01:16:12,214 - 01:16:14,214] We just haven't discovered them yet.
+- [01:16:14,214 - 01:16:16,214] Why not? Because there are,
+- [01:16:16,214 - 01:16:18,214] the limits of our energies
+- [01:16:18,214 - 01:16:21,214] are roughly at about that level now.
+- [01:16:21,214 - 01:16:23,214] This number F,
+- [01:16:23,214 - 01:16:25,214] in order to agree with the mass of the particle,
+- [01:16:25,214 - 01:16:27,214] the masses of Z and W bosons,
+- [01:16:27,214 - 01:16:30,214] this number F, thought of as a mass,
+- [01:16:30,214 - 01:16:33,214] is about 250 GeV.
+- [01:16:33,214 - 01:16:36,214] If there were particles in nature
+- [01:16:36,214 - 01:16:39,214] whose mass were much larger than 200 GeV or so,
+- [01:16:39,214 - 01:16:42,214] we would not have discovered them.
+- [01:16:42,214 - 01:16:45,214] All right? Supposing there were particles,
+- [01:16:45,214 - 01:16:47,214] let me give you an example
+- [01:16:47,214 - 01:16:49,214] of a particle in this context,
+- [01:16:49,214 - 01:16:52,214] in this, uh, slightly fictitious,
+- [01:16:52,214 - 01:16:54,214] but, uh, but still qualitatively correct,
+- [01:16:55,214 - 01:16:57,214] context,
+- [01:16:57,214 - 01:16:59,214] where a particle could get a mass
+- [01:16:59,214 - 01:17:02,214] that was not due to the Higgs boson.
+- [01:17:02,214 - 01:17:04,214] Suppose we had a particle
+- [01:17:04,214 - 01:17:06,214] in this weak interaction context
+- [01:17:06,214 - 01:17:08,214] where both the left-handed
+- [01:17:08,214 - 01:17:10,214] and the right-handed components
+- [01:17:10,214 - 01:17:13,214] both had the same charge
+- [01:17:13,214 - 01:17:16,214] with respect to these weak interactions.
+- [01:17:16,214 - 01:17:19,214] Suppose such a particle existed.
+- [01:17:19,214 - 01:17:23,214] Then there would be no obstruction
+- [01:17:23,214 - 01:17:25,214] to having a mass
+- [01:17:25,214 - 01:17:30,214] which had nothing whatever to do with F.
+- [01:17:30,214 - 01:17:32,214] It could have a mass
+- [01:17:32,214 - 01:17:35,214] which would be arbitrarily big.
+- [01:17:35,214 - 01:17:38,214] It could be much, much bigger than F.
+- [01:17:38,214 - 01:17:42,214] It could be 10 to the 16th times bigger than,
+- [01:17:42,214 - 01:17:44,214] or even bigger than F.
+- [01:17:44,214 - 01:17:46,214] There would be no obstruction
+- [01:17:46,214 - 01:17:48,214] to it having a mass
+- [01:17:48,214 - 01:17:51,214] having nothing to do with this F.
+- [01:17:51,214 - 01:17:53,214] Uh, there are other kinds of particles
+- [01:17:53,214 - 01:17:55,214] that could have,
+- [01:17:55,214 - 01:17:58,214] uh, masses which are not due to this F.
+- [01:17:58,214 - 01:18:00,214] The thinking now
+- [01:18:00,214 - 01:18:02,214] is that the natural mass scale
+- [01:18:02,214 - 01:18:04,214] of elementary particle physics,
+- [01:18:04,214 - 01:18:06,214] wherever it comes from,
+- [01:18:06,214 - 01:18:08,214] we can talk about where it comes from,
+- [01:18:08,214 - 01:18:11,214] is much, much bigger than F.
+- [01:18:11,214 - 01:18:15,214] Any particle that can have a mass
+- [01:18:15,214 - 01:18:16,214] will have a mass,
+- [01:18:16,214 - 01:18:19,214] and that mass will be much, much bigger than F.
+- [01:18:19,214 - 01:18:21,214] It is only those particles
+- [01:18:21,214 - 01:18:23,214] for which there are symmetries,
+- [01:18:23,214 - 01:18:25,214] which are, there are deep underlying reasons
+- [01:18:25,214 - 01:18:29,214] why in the absence of spontaneous symmetry breaking,
+- [01:18:29,214 - 01:18:31,214] they can't have mass.
+- [01:18:31,214 - 01:18:33,214] The gauge bosons themselves,
+- [01:18:33,214 - 01:18:35,214] the photon is one of them,
+- [01:18:35,214 - 01:18:38,214] uh, these particles which are purely left-handed,
+- [01:18:38,214 - 01:18:40,214] they are forbidden from having mass
+- [01:18:40,214 - 01:18:43,214] unless there's a spontaneous symmetry breaking.
+- [01:18:43,214 - 01:18:45,214] So maybe it's not so surprising
+- [01:18:45,214 - 01:18:47,214] that all the particles
+- [01:18:47,214 - 01:18:50,214] which have low enough energy to have been detected,
+- [01:18:50,214 - 01:18:52,214] all are the ones
+- [01:18:52,214 - 01:18:54,214] whose masses
+- [01:18:54,214 - 01:18:58,214] are coming from the same origin,
+- [01:18:58,214 - 01:19:01,214] namely a small amount
+- [01:19:01,214 - 01:19:03,214] of spontaneous symmetry breaking.
+- [01:19:03,214 - 01:19:05,214] All the other particles
+- [01:19:05,214 - 01:19:07,214] which could have masses
+- [01:19:07,214 - 01:19:09,214] independent of this F
+- [01:19:09,214 - 01:19:11,214] simply apparently have masses
+- [01:19:11,214 - 01:19:13,214] at some scale which is much larger.
+- [01:19:13,214 - 01:19:15,214] That's the thinking.
+- [01:19:15,214 - 01:19:17,214] Uh, so it's not, in that sense,
+- [01:19:17,214 - 01:19:21,214] the particle spectrum as we know it
+- [01:19:21,214 - 01:19:23,214] consists of the particles
+- [01:19:23,214 - 01:19:25,214] which would have been massless
+- [01:19:25,214 - 01:19:28,214] if the symmetry was not spontaneously broken.
+- [01:19:28,214 - 01:19:31,214] They're all responses
+- [01:19:31,214 - 01:19:35,214] to a small amount of spontaneous symmetry breaking.
+- [01:19:35,214 - 01:19:39,214] Uh, that's the thinking in any case.
+- [01:19:39,214 - 01:19:41,214] This may or may not be true.
+- [01:19:41,214 - 01:19:44,214] Does that mean that they don't
+- [01:19:44,214 - 01:19:47,214] play a large role in reality?
+- [01:19:47,214 - 01:19:50,214] Well, um,
+- [01:19:50,214 - 01:19:52,214] it definitely could mean that.
+- [01:19:52,214 - 01:19:53,214] It depends, of course,
+- [01:19:53,214 - 01:19:55,214] on what you mean by reality.
+- [01:20:01,214 - 01:20:04,214] Which ones don't play a big role in reality?
+- [01:20:04,214 - 01:20:06,214] The ones with the finite masses.
+- [01:20:06,214 - 01:20:09,214] Oh, the ones which can have masses, uh...
+- [01:20:09,214 - 01:20:11,214] Right.
+- [01:20:11,214 - 01:20:14,214] They do not play much role in ordinary physics.
+- [01:20:14,214 - 01:20:16,214] Now, one exception
+- [01:20:16,214 - 01:20:18,214] is the possibility of dark matter.
+- [01:20:18,214 - 01:20:21,214] The best guesses about theories of dark matter
+- [01:20:21,214 - 01:20:23,214] is that the masses of them
+- [01:20:23,214 - 01:20:27,214] are much significantly larger than this F,
+- [01:20:27,214 - 01:20:29,214] possibly by a factor of 10,
+- [01:20:29,214 - 01:20:31,214] larger than this F.
+- [01:20:31,214 - 01:20:33,214] For such particles,
+- [01:20:33,214 - 01:20:35,214] it's unreasonable for various reasons
+- [01:20:35,214 - 01:20:38,214] to think that they get their mass in this way.
+- [01:20:38,214 - 01:20:40,214] And so dark matter particles
+- [01:20:40,214 - 01:20:43,214] may be the first indication
+- [01:20:43,214 - 01:20:45,214] of a spectrum of particles
+- [01:20:45,214 - 01:20:48,214] whose masses do not come from spontaneous symmetry breaking.
+- [01:20:48,214 - 01:20:49,214] That's the theory.
+- [01:20:49,214 - 01:20:51,214] Spontaneous symmetry breaking.
+- [01:20:51,214 - 01:20:52,214] That's thinking in general.
+- [01:20:52,214 - 01:20:55,214] At least this particular spontaneous symmetry breaking.
+- [01:20:55,214 - 01:20:57,214] Uh, yeah?
+- [01:20:57,214 - 01:20:59,214] What is the mass of cosmic rays?
+- [01:20:59,214 - 01:21:01,214] Well, it depends.
+- [01:21:01,214 - 01:21:02,214] Cosmic rays can be electrons,
+- [01:21:02,214 - 01:21:03,214] they can be, uh, protons,
+- [01:21:03,214 - 01:21:05,214] they can be photons.
+- [01:21:05,214 - 01:21:08,214] What their mass is is the mass of those particles.
+- [01:21:08,214 - 01:21:10,213] They're very high energy, though.
+- [01:21:10,213 - 01:21:11,213] They're very high energy,
+- [01:21:11,213 - 01:21:14,213] but mass means energy at rest.
+- [01:21:14,213 - 01:21:15,213] Right.
+- [01:21:15,213 - 01:21:16,213] All right, so you could ask me,
+- [01:21:16,213 - 01:21:18,213] what is the energy of cosmic rays?
+- [01:21:18,214 - 01:21:21,214] Well, basically anything up to
+- [01:21:21,214 - 01:21:25,214] about 10 to the 21 electron volts.
+- [01:21:25,214 - 01:21:26,214] So 10 to the 21,
+- [01:21:26,214 - 01:21:28,214] what's 21 minus 9, 12?
+- [01:21:28,214 - 01:21:31,214] Uh, 21 minus 9 is, uh, 12?
+- [01:21:31,214 - 01:21:33,214] 10 to the 12th GeV,
+- [01:21:33,214 - 01:21:35,214] which is very, very high,
+- [01:21:35,214 - 01:21:36,214] higher than any accelerator
+- [01:21:36,214 - 01:21:38,214] that we're gonna build.
+- [01:21:38,214 - 01:21:40,214] Uh, incidentally,
+- [01:21:40,214 - 01:21:43,214] cosmic ray collisions,
+- [01:21:43,214 - 01:21:44,214] in a certain sense,
+- [01:21:44,214 - 01:21:47,214] will not be as high an energy probe
+- [01:21:47,214 - 01:21:48,214] as,
+- [01:21:48,214 - 01:21:50,214] as accelerator probes.
+- [01:21:50,214 - 01:21:52,214] And the reason is because the cosmic ray
+- [01:21:52,214 - 01:21:55,214] is banging into a particle at rest.
+- [01:21:55,214 - 01:21:57,214] The Hadron Collider
+- [01:21:57,214 - 01:21:59,214] will collide together two particles,
+- [01:21:59,214 - 01:22:00,214] and it's, you may think
+- [01:22:00,214 - 01:22:01,214] of it as twice the energy,
+- [01:22:01,214 - 01:22:03,214] but it's much more potent than that.
+- [01:22:03,214 - 01:22:05,214] We can come to why.
+- [01:22:05,214 - 01:22:09,214] Uh, uh, hitting a particle at rest
+- [01:22:09,214 - 01:22:12,214] with a high energy
+- [01:22:12,214 - 01:22:14,214] is not typically as potent
+- [01:22:14,214 - 01:22:17,214] as hitting two particles, uh, head-on
+- [01:22:17,214 - 01:22:20,214] with a good deal lower energy.
+- [01:22:20,214 - 01:22:24,214] So what will be measured in CERN
+- [01:22:24,214 - 01:22:27,214] will be processes and energies,
+- [01:22:27,214 - 01:22:32,214] uh, 10, um, no, still not as high,
+- [01:22:32,214 - 01:22:35,214] still not as high as the highest cosmic rays.
+- [01:22:35,214 - 01:22:38,214] Um,
+- [01:22:38,214 - 01:22:41,214] not quite, no.
+- [01:22:41,214 - 01:22:43,214] What is CERN?
+- [01:22:43,214 - 01:22:44,214] You don't use,
+- [01:22:44,214 - 01:22:46,214] or you're using frequently here,
+- [01:22:46,214 - 01:22:47,214] is it inertia?
+- [01:22:47,214 - 01:22:50,214] Is inertia and mass essentially the same thing?
+- [01:22:50,214 - 01:22:52,214] Yeah, well, yes.
+- [01:22:52,214 - 01:22:54,214] Yes, and now you can ask,
+- [01:22:54,214 - 01:22:59,214] by what magic is it that inertia
+- [01:22:59,214 - 01:23:02,214] and these expressions in, uh,
+- [01:23:02,214 - 01:23:04,214] Dirac equations and so forth
+- [01:23:04,214 - 01:23:06,214] correspond to the same physical idea,
+- [01:23:06,214 - 01:23:08,214] and that's more complicated.
+- [01:23:08,214 - 01:23:10,214] Um,
+- [01:23:10,214 - 01:23:12,214] but you could go back to basic,
+- [01:23:12,214 - 01:23:13,214] basic relativity,
+- [01:23:13,214 - 01:23:14,214] and you could have asked,
+- [01:23:14,214 - 01:23:15,214] special relativity,
+- [01:23:15,214 - 01:23:16,214] and you could have asked
+- [01:23:16,214 - 01:23:18,214] the same question there.
+- [01:23:18,214 - 01:23:21,214] Definition, two different definitions of,
+- [01:23:21,214 - 01:23:22,214] of mass.
+- [01:23:22,214 - 01:23:24,214] One of them is inertia,
+- [01:23:24,214 - 01:23:25,214] all right, how hard it is
+- [01:23:25,214 - 01:23:27,214] to get a thing accelerating,
+- [01:23:27,214 - 01:23:30,214] and the other is energy at rest.
+- [01:23:30,214 - 01:23:32,214] Why is the energy of an object at rest
+- [01:23:32,214 - 01:23:36,214] related to the inertia of how much,
+- [01:23:36,214 - 01:23:38,214] how hard it is to accelerate it?
+- [01:23:38,214 - 01:23:39,214] All right.
+- [01:23:39,214 - 01:23:42,214] That is contained in the rules of special relativity,
+- [01:23:42,214 - 01:23:44,214] but once you know that,
+- [01:23:44,214 - 01:23:47,214] then you might as well focus on the definition
+- [01:23:47,214 - 01:23:50,214] of mass as energy at rest.
+- [01:23:50,214 - 01:23:53,214] All right, so the question does not have to do
+- [01:23:53,214 - 01:23:54,214] with particle physics.
+- [01:23:54,214 - 01:23:55,214] It doesn't have to do it.
+- [01:23:55,214 - 01:23:57,214] It has to do with special relativity.
+- [01:23:57,214 - 01:23:58,214] Yeah.
+- [01:23:58,214 - 01:23:59,214] So, uh,
+- [01:23:59,214 - 01:24:00,214] so once it,
+- [01:24:00,214 - 01:24:01,214] it, it changes mass,
+- [01:24:01,214 - 01:24:04,214] does it start to couple with the gravity field?
+- [01:24:04,214 - 01:24:05,214] Exactly.
+- [01:24:05,214 - 01:24:06,214] Well, it couples,
+- [01:24:06,214 - 01:24:08,214] yeah, yes, this is,
+- [01:24:08,214 - 01:24:09,214] that's right.
+- [01:24:09,214 - 01:24:11,214] Um, good.
+- [01:24:11,214 - 01:24:13,214] So,
+- [01:24:13,214 - 01:24:14,214] that's correct.
+- [01:24:14,214 - 01:24:15,214] Once it gets mass,
+- [01:24:15,214 - 01:24:17,214] it starts to couple to the gravity field.
+- [01:24:17,214 - 01:24:19,214] Now, that's a little bit,
+- [01:24:19,214 - 01:24:20,214] um,
+- [01:24:20,214 - 01:24:22,214] not quite accurate.
+- [01:24:22,214 - 01:24:25,214] Photons don't have mass.
+- [01:24:25,214 - 01:24:28,214] Photons do couple to the gravity field.
+- [01:24:28,214 - 01:24:30,214] What is it about photons that,
+- [01:24:30,214 - 01:24:33,214] what is it that really couples to the gravity field?
+- [01:24:33,214 - 01:24:35,214] It's energy.
+- [01:24:35,214 - 01:24:36,214] Energy.
+- [01:24:36,214 - 01:24:38,214] Energy is the thing which really couples
+- [01:24:38,214 - 01:24:39,214] to the gravitational field.
+- [01:24:39,214 - 01:24:41,214] How do we know that photons couple
+- [01:24:41,214 - 01:24:43,214] to the gravitational field?
+- [01:24:43,214 - 01:24:44,214] They bend,
+- [01:24:44,214 - 01:24:46,214] the trajectories of a photon are deflected
+- [01:24:46,214 - 01:24:49,214] in a gravitational field.
+- [01:24:49,214 - 01:24:50,214] Action equals reaction,
+- [01:24:50,214 - 01:24:53,214] and so that means that the orbit of the sun
+- [01:24:53,214 - 01:24:56,214] is slightly perturbed every time a photon goes past it,
+- [01:24:56,214 - 01:24:58,214] but that's pretty negligible.
+- [01:24:58,214 - 01:24:59,214] But just the fact that,
+- [01:24:59,214 - 01:25:02,214] that photons are deflected when they go around the sun
+- [01:25:02,214 - 01:25:03,214] means that,
+- [01:25:03,214 - 01:25:06,214] that massless particles do couple to gravity.
+- [01:25:06,214 - 01:25:08,214] But, um,
+- [01:25:08,214 - 01:25:09,214] uh,
+- [01:25:09,214 - 01:25:11,214] particles at rest,
+- [01:25:11,214 - 01:25:13,214] their energy is still there.
+- [01:25:13,214 - 01:25:14,214] It's simply their mass.
+- [01:25:14,214 - 01:25:15,214] So if you have two
+- [01:25:15,214 - 01:25:16,214] particles more or less at rest,
+- [01:25:16,214 - 01:25:18,214] the gravitational interaction between them
+- [01:25:18,214 - 01:25:20,214] is related to their mass.
+- [01:25:20,214 - 01:25:24,214] Well, resistance to acceleration is
+- [01:25:24,214 - 01:25:28,214] also related to total mass.
+- [01:25:28,214 - 01:25:29,214] It's related to?
+- [01:25:29,214 - 01:25:30,214] To energy,
+- [01:25:30,214 - 01:25:31,214] to,
+- [01:25:31,214 - 01:25:32,214] not just to energy,
+- [01:25:32,214 - 01:25:33,214] not just to energy.
+- [01:25:33,214 - 01:25:34,214] Indeed it is.
+- [01:25:34,214 - 01:25:35,214] Indeed it is.
+- [01:25:35,214 - 01:25:36,214] That's correct.
+- [01:25:36,214 - 01:25:37,214] Uh,
+- [01:25:37,214 - 01:25:40,214] the resistance to acceleration of a high energy particle
+- [01:25:40,214 - 01:25:41,214] is,
+- [01:25:41,214 - 01:25:42,214] um,
+- [01:25:42,214 - 01:25:44,214] the mass of the particle at rest.
+- [01:25:44,214 - 01:25:45,214] Yeah.
+- [01:25:45,214 - 01:25:46,214] Uh,
+- [01:25:46,214 - 01:25:47,214] the only,
+- [01:25:47,214 - 01:25:48,214] the only subtlety
+- [01:25:48,214 - 01:25:49,214] is that the resist,
+- [01:25:49,214 - 01:25:50,214] let's call it the resistance,
+- [01:25:50,214 - 01:25:52,214] the resistance to acceleration,
+- [01:25:52,214 - 01:25:55,214] if a particle is moving down the z-axis,
+- [01:25:55,214 - 01:25:59,214] then there's a different defective inertia of it
+- [01:25:59,214 - 01:26:02,214] if you make a force along the z-axis
+- [01:26:02,214 - 01:26:05,214] or if you make a force perpendicular to the z-axis.
+- [01:26:05,214 - 01:26:08,214] So there's no universal concept of mass,
+- [01:26:08,214 - 01:26:09,214] unique mass,
+- [01:26:09,214 - 01:26:11,214] for a particle which is moving.
+- [01:26:11,214 - 01:26:13,214] Depends on which way you push it,
+- [01:26:13,214 - 01:26:14,214] what its inertia is.
+- [01:26:14,214 - 01:26:16,214] That's why people stopped talking
+- [01:26:16,214 - 01:26:18,214] about the mass of moving particles,
+- [01:26:18,214 - 01:26:19,214] which mass,
+- [01:26:19,214 - 01:26:20,214] and,
+- [01:26:20,214 - 01:26:21,214] uh,
+- [01:26:21,214 - 01:26:22,214] stopped talking about that
+- [01:26:22,214 - 01:26:24,214] and defined mass to be the
+- [01:26:24,214 - 01:26:26,214] energy of a thing at rest.
+- [01:26:26,214 - 01:26:27,214] But yes,
+- [01:26:27,214 - 01:26:28,214] um,
+- [01:26:28,214 - 01:26:30,214] it is correct that the more energetic an object is,
+- [01:26:30,214 - 01:26:32,214] the harder it is to deflect.
+- [01:26:32,214 - 01:26:35,714] How do you know if an
+- [01:26:35,714 - 01:26:39,214] electronic rest is left-handed or right-handed?
+- [01:26:39,214 - 01:26:40,214] Well,
+- [01:26:40,214 - 01:26:41,214] in a certain sense,
+- [01:26:41,214 - 01:26:43,214] it's not left-handed or right-handed.
+- [01:26:43,214 - 01:26:44,214] Um,
+- [01:26:44,214 - 01:26:45,214] an electron at rest,
+- [01:26:45,214 - 01:26:50,214] the handedness is the relationship between the momentum,
+- [01:26:50,214 - 01:26:54,214] and it's particularly well defined for high momentum.
+- [01:26:54,214 - 01:26:55,214] For high momentum,
+- [01:26:55,214 - 01:26:58,714] the definition of a right-handed particle is
+- [01:26:58,714 - 01:27:02,214] one whose spin is along its momentum,
+- [01:27:02,214 - 01:27:06,214] and a left-handed particle is one whose spin is opposite.
+- [01:27:06,214 - 01:27:08,214] So the answer is that there
+- [01:27:08,214 - 01:27:10,214] is no definition of right-handed and left-handed
+- [01:27:10,214 - 01:27:13,214] for a particle at rest.
+- [01:27:13,214 - 01:27:16,214] It's mostly useful for high-energy particles,
+- [01:27:16,214 - 01:27:18,214] the notion of handedness.
+- [01:27:18,214 - 01:27:21,214] So if an electron is at rest,
+- [01:27:21,214 - 01:27:23,214] can it not interact,
+- [01:27:23,214 - 01:27:25,214] have a weak interaction?
+- [01:27:25,214 - 01:27:26,214] Okay,
+- [01:27:26,214 - 01:27:27,214] this,
+- [01:27:27,214 - 01:27:29,214] this now you've really pushed me to the edge of,
+- [01:27:29,214 - 01:27:30,214] uh,
+- [01:27:30,214 - 01:27:31,214] okay,
+- [01:27:31,214 - 01:27:32,214] so.
+- [01:27:32,214 - 01:27:34,214] Uh,
+- [01:27:34,214 - 01:27:35,214] w-
+- [01:27:35,214 - 01:27:38,214] all right.
+- [01:27:38,214 - 01:27:39,214] There's a subtlety,
+- [01:27:39,214 - 01:27:41,214] which I haven't told you about,
+- [01:27:41,214 - 01:27:43,214] and it's the difference between
+- [01:27:43,214 - 01:27:45,214] what is called chirality and helicity,
+- [01:27:45,214 - 01:27:46,214] and I,
+- [01:27:46,214 - 01:27:48,214] I promised to tell you about it.
+- [01:27:48,214 - 01:27:49,214] Uh,
+- [01:27:49,214 - 01:27:50,214] I've,
+- [01:27:50,214 - 01:27:51,214] I've,
+- [01:27:51,214 - 01:27:52,214] uh,
+- [01:27:52,214 - 01:27:52,714] been a little bit loose
+- [01:27:52,714 - 01:27:53,214] in what I mean by handedness.
+- [01:27:53,214 - 01:27:54,214] So,
+- [01:27:54,214 - 01:27:55,214] let's come back to it.
+- [01:27:55,214 - 01:27:56,214] Uh,
+- [01:27:56,214 - 01:27:59,214] the idea of handedness as I've defined it,
+- [01:27:59,214 - 01:28:03,214] is especially useful for high-energy particles,
+- [01:28:03,214 - 01:28:06,214] particles whose momentum is very large.
+- [01:28:06,214 - 01:28:07,214] When the particle is,
+- [01:28:07,214 - 01:28:09,214] has a very small momentum,
+- [01:28:09,214 - 01:28:11,214] the handedness of it,
+- [01:28:11,214 - 01:28:12,214] uh,
+- [01:28:12,214 - 01:28:13,214] is,
+- [01:28:13,214 - 01:28:14,214] uh,
+- [01:28:14,214 - 01:28:15,214] oh god,
+- [01:28:15,214 - 01:28:16,214] it's,
+- [01:28:16,214 - 01:28:17,214] it's,
+- [01:28:17,214 - 01:28:18,214] I'm,
+- [01:28:18,214 - 01:28:19,214] I'm losing my,
+- [01:28:19,214 - 01:28:20,214] uh,
+- [01:28:20,214 - 01:28:21,214] my,
+- [01:28:21,214 - 01:28:22,214] it's getting too late for this.
+- [01:28:22,214 - 01:28:23,214] We'll come back to it.
+- [01:28:23,214 - 01:28:24,214] Yeah.
+- [01:28:24,214 - 01:28:25,214] I will,
+- [01:28:25,214 - 01:28:26,214] I will explain.
+- [01:28:26,214 - 01:28:27,214] No,
+- [01:28:27,214 - 01:28:28,214] F is of order 250 GeV.
+- [01:28:28,214 - 01:28:29,214] The Higgs particle,
+- [01:28:29,214 - 01:28:30,214] as there's good evidence that it's,
+- [01:28:30,214 - 01:28:31,214] it's,
+- [01:28:31,214 - 01:28:32,214] it's,
+- [01:28:32,214 - 01:28:33,214] it's,
+- [01:28:33,214 - 01:28:34,214] it's,
+- [01:28:34,214 - 01:28:35,214] it's,
+- [01:28:35,214 - 01:28:36,214] it's,
+- [01:28:36,214 - 01:28:37,214] it's,
+- [01:28:37,214 - 01:28:38,214] it's,
+- [01:28:38,214 - 01:28:39,714] there's good evidence that it's
+- [01:28:39,714 - 01:28:41,214] a good deal lighter than that.
+- [01:28:41,214 - 01:28:42,214] Yeah,
+- [01:28:42,214 - 01:28:44,214] but evidence is that,
+- [01:28:44,214 - 01:28:45,214] is the question.
+- [01:28:45,214 - 01:28:46,214] Oh,
+- [01:28:46,214 - 01:28:47,214] um,
+- [01:28:47,214 - 01:28:49,214] high precision,
+- [01:28:49,214 - 01:28:50,214] um,
+- [01:28:50,214 - 01:28:51,214] uh,
+- [01:28:51,214 - 01:28:53,214] experimental and theoretical,
+- [01:28:53,214 - 01:28:54,214] uh,
+- [01:28:54,214 - 01:28:56,214] comparison between,
+- [01:28:56,214 - 01:28:57,214] uh,
+- [01:28:57,214 - 01:28:58,214] the properties,
+- [01:28:58,214 - 01:29:01,214] the masses of the Z and W bosons.
+- [01:29:01,214 - 01:29:02,214] Uh,
+- [01:29:02,214 - 01:29:03,214] they would have a little,
+- [01:29:03,214 - 01:29:05,214] they would respond to changes in the mass
+- [01:29:05,214 - 01:29:07,214] of the Higgs boson in a certain way,
+- [01:29:07,214 - 01:29:10,714] and from experimental knowledge of the
+- [01:29:10,714 - 01:29:14,214] masses of the Z and W boson,
+- [01:29:14,214 - 01:29:15,214] uh,
+- [01:29:15,214 - 01:29:18,714] I would say the bound on the Higgs
+- [01:29:18,714 - 01:29:22,214] mass is probably that it's less than 160 GeV.
+- [01:29:22,214 - 01:29:25,214] So that's less than this 250 GeV,
+- [01:29:25,214 - 01:29:27,214] but not by an order of magnitude.
+- [01:29:27,214 - 01:29:28,214] So,
+- [01:29:28,214 - 01:29:31,714] I want to follow up on a question
+- [01:29:31,714 - 01:29:35,214] I asked earlier about the possibility of multiple
+- [01:29:35,214 - 01:29:36,214] minima.
+- [01:29:36,214 - 01:29:39,714] And it occurs to me that if you
+- [01:29:39,714 - 01:29:43,214] had particles which you didn't see in generations,
+- [01:29:43,214 - 01:29:44,214] then that would,
+- [01:29:44,214 - 01:29:46,714] that would get in the way of
+- [01:29:46,714 - 01:29:49,214] having multiple minima in that potential function that,
+- [01:29:49,214 - 01:29:52,214] so you'd have multiple F values from one potential function.
+- [01:29:52,214 - 01:29:53,214] Yeah.
+- [01:29:53,214 - 01:29:56,214] So if you had a particle that didn't exhibit generations,
+- [01:29:56,214 - 01:29:57,214] then it wouldn't,
+- [01:29:57,214 - 01:29:59,214] wouldn't make sense.
+- [01:29:59,214 - 01:30:00,214] Let's,
+- [01:30:00,214 - 01:30:01,214] let's,
+- [01:30:01,214 - 01:30:02,214] let's come back to it.
+- [01:30:02,214 - 01:30:03,714] We will talk maybe next quarter
+- [01:30:03,714 - 01:30:05,214] a great deal about multiple minima and,
+- [01:30:05,214 - 01:30:07,714] and what kind of different physics
+- [01:30:07,714 - 01:30:10,214] can take place in different minima.
+- [01:30:10,214 - 01:30:12,214] Um,
+- [01:30:12,214 - 01:30:14,214] but,
+- [01:30:14,214 - 01:30:16,214] simply stated,
+- [01:30:16,214 - 01:30:18,214] you can have anything happen,
+- [01:30:18,214 - 01:30:22,214] almost anything happen in another minimum of the potential.
+- [01:30:22,214 - 01:30:23,214] So I,
+- [01:30:23,214 - 01:30:24,214] I didn't want to get into that tonight.
+- [01:30:24,214 - 01:30:26,214] I'm getting tired as you can see.
+- [01:30:26,214 - 01:30:27,214] So ask me some more questions if,
+- [01:30:27,214 - 01:30:28,214] if,
+- [01:30:28,214 - 01:30:29,714] if the energy level that's
+- [01:30:29,714 - 01:30:31,214] required to answer them is low,
+- [01:30:31,214 - 01:30:32,214] I will do it.
+- [01:30:32,214 - 01:30:33,214] But,
+- [01:30:33,214 - 01:30:34,214] but,
+- [01:30:34,214 - 01:30:36,214] what's the next lecture about?
+- [01:30:36,214 - 01:30:38,214] I don't have a class yet.
+- [01:30:38,214 - 01:30:39,214] How about,
+- [01:30:39,214 - 01:30:40,214] we're going to have a class next week.
+- [01:30:40,214 - 01:30:41,214] What's next week?
+- [01:30:41,214 - 01:30:42,214] Next Monday,
+- [01:30:42,214 - 01:30:43,214] I mean,
+- [01:30:43,214 - 01:30:44,214] I'll be at the end of this course
+- [01:30:44,214 - 01:30:45,214] or we're going to have another class next week.
+- [01:30:45,214 - 01:30:46,214] What's the date?
+- [01:30:46,214 - 01:30:47,214] It's the 9th.
+- [01:30:47,214 - 01:30:48,214] 9th.
+- [01:30:48,214 - 01:30:50,214] This is the 9th lecture.
+- [01:30:50,214 - 01:30:53,214] Well then I suppose we have another class.
+- [01:30:53,214 - 01:30:54,714] I know I have to be away at some
+- [01:30:54,714 - 01:30:56,214] point but I don't think that's till the 18th.
+- [01:30:56,214 - 01:30:57,214] Um.
+- [01:30:57,214 - 01:30:58,214] It was the message in the classroom,
+- [01:30:58,214 - 01:30:59,214] it would be at the middle of the day.
+- [01:30:59,214 - 01:31:00,214] Oh,
+- [01:31:00,214 - 01:31:01,214] yeah.
+- [01:31:01,214 - 01:31:02,214] You couldn't be there,
+- [01:31:02,214 - 01:31:03,214] right.
+- [01:31:03,214 - 01:31:04,214] Oh, yeah.
+- [01:31:04,214 - 01:31:05,214] Yeah.
+- [01:31:05,214 - 01:31:06,214] Yeah.
+- [01:31:06,214 - 01:31:07,214] Yeah.
+- [01:31:07,214 - 01:31:08,214] Well, we don't have to have two classes.
+- [01:31:08,214 - 01:31:10,854] And we won't have two classes because
+- [01:31:10,854 - 01:31:13,494] I'll be away for the 11th week.
+- [01:31:13,494 - 01:31:15,494] But for the 10th week, where, which?
+- [01:31:15,494 - 01:31:16,974] Yeah, let's meet.
+- [01:31:16,974 - 01:31:17,974] Why not?
+- [01:31:17,974 - 01:31:18,974] Sure.
+- [01:31:18,974 - 01:31:19,974] Sure.
+- [01:31:19,974 - 01:31:20,974] Okay.
+- [01:31:20,974 - 01:31:21,974] Yeah.
+- [01:31:21,974 - 01:31:27,214] If I recover from tonight.
+- [01:31:27,214 - 01:31:29,214] Yeah.
+- [01:31:29,214 - 01:31:31,214] Yeah.
+- [01:31:31,214 - 01:31:32,334] Yeah.
+- [01:31:32,334 - 01:31:35,974] There are various scenarios for the
+- [01:31:35,974 - 01:31:39,614] value of the Higgs boson mass.
+- [01:31:39,614 - 01:31:42,494] And in some of them, the
+- [01:31:42,494 - 01:31:45,374] range of energies is quite easy.
+- [01:31:45,374 - 01:31:49,034] It's the rate and the things that things decay into.
+- [01:31:49,034 - 01:31:51,254] Sometimes they decay into just invisible things.
+- [01:31:51,254 - 01:31:56,504] So the Higgs boson will not
+- [01:31:56,504 - 01:32:01,754] be the first thing discovered at LHC.
+- [01:32:01,754 - 01:32:02,314] Of course, it may be the first thing.
+- [01:32:02,314 - 01:32:03,514] It's the first thing that's
+- [01:32:03,514 - 01:32:04,714] discovered if nothing else is discovered.
+- [01:32:04,714 - 01:32:08,074] But there's a lot of room for
+- [01:32:08,074 - 01:32:11,434] discovery before the Higgs boson, particularly if there's
+- [01:32:11,434 - 01:32:12,434] super-synchronicity.
+- [01:32:12,434 - 01:32:17,434] The photon and the gluon don't seem to have antiparticles.
+- [01:32:17,434 - 01:32:21,434] Is that because they have zero mass?
+- [01:32:21,434 - 01:32:22,434] No.
+- [01:32:22,434 - 01:32:23,434] No.
+- [01:32:23,434 - 01:32:25,434] It does not have to do with their mass.
+- [01:32:25,434 - 01:32:28,134] It has to do with their absence of
+- [01:32:28,134 - 01:32:30,834] having any kind of charge to distinguish the particle
+- [01:32:30,834 - 01:32:31,834] from the antiparticle.
+- [01:32:31,834 - 01:32:31,874] Yeah.
+- [01:32:32,314 - 01:32:32,874] Yeah.
+- [01:32:32,874 - 01:32:36,074] So the photon is uncharged with respect to
+- [01:32:36,074 - 01:32:39,274] any kind of charge that we know about.
+- [01:32:39,274 - 01:32:42,954] It doesn't participate in weak interactions.
+- [01:32:42,954 - 01:32:46,034] It's not electrically charged.
+- [01:32:46,034 - 01:32:48,034] Neutrons have no charge.
+- [01:32:48,034 - 01:32:49,494] They have antiparticles.
+- [01:32:49,494 - 01:32:50,494] Neutrinos have no charge.
+- [01:32:50,494 - 01:32:51,594] They have antiparticles.
+- [01:32:51,594 - 01:32:54,494] They must have weak charge.
+- [01:32:54,494 - 01:32:56,494] Antineutrino.
+- [01:32:56,514 - 01:32:57,698] 一样
+- [01:32:57,698 - 01:33:00,938] They also don't have any conserved charges.
+- [01:33:00,938 - 01:33:02,658] But there are anti-neutrinos.
+- [01:33:02,658 - 01:33:03,558] There are anti-neutrinos.
+- [01:33:03,558 - 01:33:08,178] Oh, oh, oh, that's, well, are there anti-neutrinos?
+- [01:33:08,178 - 01:33:09,598] You can't have all that.
+- [01:33:09,598 - 01:33:13,478] Well, no, some people would say
+- [01:33:13,478 - 01:33:15,258] there's only one kind of neutrino
+- [01:33:15,258 - 01:33:18,198] and it's both left-handed and right-handed.
+- [01:33:18,198 - 01:33:20,238] Other people would say there are neutrinos
+- [01:33:20,238 - 01:33:21,898] and anti-neutrinos.
+- [01:33:21,898 - 01:33:24,018] The point is the neutrinos can mix together
+- [01:33:24,018 - 01:33:26,058] with the anti-neutrinos and form
+- [01:33:26,058 - 01:33:28,178] a massive Majorana particle,
+- [01:33:28,178 - 01:33:30,378] which is its own anti-particle.
+- [01:33:30,378 - 01:33:31,217] Why?
+- [01:33:31,217 - 01:33:33,138] Because it's a superposition of a particle
+- [01:33:33,138 - 01:33:34,478] and an anti-particle.
+- [01:33:34,478 - 01:33:37,878] So there's some subtle quantum mechanics there.
+- [01:33:37,878 - 01:33:38,717] Make it stop.
+- [01:33:38,717 - 01:33:39,558] Yeah.
+- [01:33:39,558 - 01:33:41,378] Does the standard model,
+- [01:33:41,378 - 01:33:44,638] I'm trying to explain my charges, is quantized?
+- [01:33:44,638 - 01:33:48,077] No, well, yeah, yeah, yeah,
+- [01:33:48,077 - 01:33:49,698] we can talk about that too.
+- [01:33:49,698 - 01:33:51,298] It does.
+- [01:33:51,298 - 01:33:52,858] But only, yeah, it does.
+- [01:33:55,258 - 01:33:56,018] Remember the neutrino?
+- [01:33:56,018 - 01:33:58,918] Neutrinos have weak charges.
+- [01:33:58,918 - 01:34:02,258] They interact under the weak interactions.
+- [01:34:02,258 - 01:34:08,138] And so the weak interactions provide
+- [01:34:08,138 - 01:34:13,298] this collection of charges that we've been discussing.
+- [01:34:13,298 - 01:34:15,278] And the neutrino is not uncharged
+- [01:34:15,278 - 01:34:18,498] with respect to the weak interaction,
+- [01:34:18,498 - 01:34:22,237] with respect to the Z and the W boson.
+- [01:34:22,237 - 01:34:25,218] In particular, the neutrino and the anti-neutrino,
+- [01:34:25,218 - 01:34:29,377] the anti-neutrino interact differently with the Z boson.
+- [01:34:29,377 - 01:34:31,677] So you might say that
+- [01:34:31,677 - 01:34:33,978] with respect to a Z boson,
+- [01:34:33,978 - 01:34:37,078] the neutrino and anti-neutrino have opposite charge.
+- [01:34:37,078 - 01:34:42,078] You can have pair production of an electron.
+- [01:34:42,117 - 01:34:43,478] They also have lepton number,
+- [01:34:43,478 - 01:34:45,377] which is another considered quantity.
+- [01:34:45,377 - 01:34:47,858] Right, but I was going to mention that.
+- [01:34:47,858 - 01:34:50,978] If you can have pair production of electron and neutrino,
+- [01:34:50,978 - 01:34:53,698] and they have to be the same.
+- [01:34:53,698 - 01:34:54,418] Yeah.
+- [01:34:55,218 - 01:34:59,538] I mean, conserved lepton.
+- [01:34:59,538 - 01:35:01,338] Unless the lepton number is not conserved.
+- [01:35:01,338 - 01:35:04,498] But anyway, they have to have opposite weak .
+- [01:35:04,498 - 01:35:05,538] OK, all right.
+- [01:35:05,538 - 01:35:07,488] I'm nodding my head yes, but
+- [01:35:07,488 - 01:35:09,438] I know deep in my heart
+- [01:35:09,438 - 01:35:11,138] that the answer is no.
+- [01:35:11,138 - 01:35:13,918] And the reason is that lepton number is not really
+- [01:35:13,918 - 01:35:16,338] thought to be conserved.
+- [01:35:16,338 - 01:35:17,258] Right.
+- [01:35:17,258 - 01:35:20,098] And it's connected with this Majorana story
+- [01:35:20,098 - 01:35:22,318] and the mass of neutrinos.
+- [01:35:22,318 - 01:35:24,418] Neutrino oscillations can mix neutrino
+- [01:35:24,418 - 01:35:28,738] with anti-neutrino and things like that.
+- [01:35:28,738 - 01:35:33,552] For more, please visit us at stanford.edu.
