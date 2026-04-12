@@ -1,0 +1,2323 @@
+# Transcript
+
+Source: supplementary/particle_physics_3_supersymmetry_and_grand_unification/2010_spring/154 - Supersymmetry & Grand Unification： Lecture 10 [4a6P9g7koq4].mp4
+
+- [00:00:00,000 - 00:00:06,400] Stanford University.
+- [00:00:06,400 - 00:00:11,000] Let's begin with tonight's subject.
+- [00:00:11,000 - 00:00:15,180] Tonight's subject is grand unified
+- [00:00:15,180 - 00:00:19,360] theories, or SU5 in particular.
+- [00:00:19,360 - 00:00:21,820] There are many, many things
+- [00:00:21,820 - 00:00:24,280] that are called grand unified theories,
+- [00:00:24,280 - 00:00:26,000] and we're not going to study all of them.
+- [00:00:26,000 - 00:00:28,760] We're just going to take apart one version of it,
+- [00:00:28,760 - 00:00:32,140] and see if we can see
+- [00:00:32,140 - 00:00:35,520] what it is that makes it tick,
+- [00:00:35,520 - 00:00:38,080] what some of its problems are,
+- [00:00:38,080 - 00:00:40,800] and if I have time
+- [00:00:40,800 - 00:00:43,520] to discuss the connection with supersymmetry,
+- [00:00:43,520 - 00:00:46,820] which does exist, I'll try to fill
+- [00:00:46,820 - 00:00:50,120] you in on what the connection is.
+- [00:00:50,120 - 00:00:53,820] The connection is not some deep
+- [00:00:53,820 - 00:00:57,520] thing that supersymmetry implies grand unification,
+- [00:00:57,520 - 00:00:58,720] or that you can't do anything about it.
+- [00:00:58,720 - 00:00:58,740] It's not something that you can do anything about.
+- [00:00:58,740 - 00:01:00,600] It's not something that
+- [00:01:00,600 - 00:01:02,460] grand unification implies supersymmetry.
+- [00:01:02,460 - 00:01:03,880] No, it's just that if
+- [00:01:03,880 - 00:01:05,300] you put both of them together,
+- [00:01:05,440 - 00:01:07,580] you get a numerically better fit to
+- [00:01:07,580 - 00:01:09,720] certain things than either one by itself.
+- [00:01:10,840 - 00:01:13,090] Okay, so I should begin with
+- [00:01:13,090 - 00:01:15,340] a few words about group theory.
+- [00:01:16,960 - 00:01:19,250] Grand unified theories, whatever they
+- [00:01:19,250 - 00:01:21,540] are, are based on group theory.
+- [00:01:22,540 - 00:01:28,480] The group theory extends the SU3 cross SU2 cross U1,
+- [00:01:28,740 - 00:01:32,600] of the standard model.
+- [00:01:32,759 - 00:01:36,229] And it fits, or that
+- [00:01:36,229 - 00:01:39,699] group, SU3 cross SU2 cross U1,
+- [00:01:39,699 - 00:01:44,360] fits very comfortably into the group SU5.
+- [00:01:44,360 - 00:01:47,320] Special unitary transformations acting
+- [00:01:47,320 - 00:01:50,280] on five complex variables.
+- [00:01:50,679 - 00:01:52,979] But before we do, I think we
+- [00:01:52,979 - 00:01:55,280] should say a few words about group representations.
+- [00:01:56,479 - 00:01:58,280] The particle multiplets form,
+- [00:01:58,740 - 00:02:00,990] group representations that means the
+- [00:02:00,990 - 00:02:03,240] symmetry groups act among them and
+- [00:02:03,240 - 00:02:07,269] scramble them up in various ways and
+- [00:02:07,269 - 00:02:11,299] before you can start to classify the
+- [00:02:11,299 - 00:02:14,319] particle the particle multiplets you
+- [00:02:14,319 - 00:02:17,340] have to classify the representations of
+- [00:02:17,340 - 00:02:20,429] groups okay so the reputation
+- [00:02:20,429 - 00:02:23,519] the representations of groups let's begin
+- [00:02:23,520 - 00:02:27,330] with s let's start with s un
+- [00:02:27,330 - 00:02:31,140] oh incidentally in the case of su2 su2
+- [00:02:31,140 - 00:02:34,290] has to do with spin not the su2 of
+- [00:02:34,290 - 00:02:37,440] the su not the su2 of the weak interactions
+- [00:02:37,440 - 00:02:40,650] but the su2 of the rotations of
+- [00:02:40,650 - 00:02:43,860] space su2 happens to be very closely related
+- [00:02:43,860 - 00:02:46,590] to rotations of three-dimensional space
+- [00:02:46,590 - 00:02:49,320] the simplistic statement that is the
+- [00:02:49,320 - 00:02:51,370] same that they're the same thing
+- [00:02:51,370 - 00:02:53,420] and that's good enough for us
+- [00:02:53,420 - 00:02:53,480] um
+- [00:02:53,480 - 00:02:53,500] um
+- [00:02:53,500 - 00:02:58,190] , su2 classifies the spin representations
+- [00:02:58,190 - 00:03:02,880] of particles the angular momentum of
+- [00:03:02,880 - 00:03:04,890] particles or the angular momentum of
+- [00:03:04,890 - 00:03:06,900] atoms or the angular momentum of
+- [00:03:06,900 - 00:03:10,110] anything an angular momentum comes
+- [00:03:10,110 - 00:03:13,320] in different kinds of multiplets there's
+- [00:03:13,320 - 00:03:15,870] the singlet which is sometimes just
+- [00:03:15,870 - 00:03:18,420] called a scalar because it doesn't
+- [00:03:18,420 - 00:03:20,940] transform on the rotation at all
+- [00:03:20,940 - 00:03:23,460] and that corresponds to spin zero
+- [00:03:23,460 - 00:03:28,380] this is the spindle which is the spin of
+- [00:03:28,380 - 00:03:31,650] the electron half spin that corresponds to
+- [00:03:31,650 - 00:03:34,920] spin a half and there's a rep there
+- [00:03:34,920 - 00:03:38,800] is a yes a group representation of
+- [00:03:38,800 - 00:03:42,680] su2 for every integer and half integer
+- [00:03:42,680 - 00:03:47,090] multiple of for every integer and half
+- [00:03:47,090 - 00:03:51,500] integer spin one spin three halves spin
+- [00:03:51,500 - 00:03:54,360] Spin two, spin five, whatever comes next.
+- [00:03:56,080 - 00:03:57,920] Zero, one half, one.
+- [00:03:59,420 - 00:04:01,100] The next one must be one and a half, huh?
+- [00:04:01,320 - 00:04:02,120] Three halves.
+- [00:04:02,840 - 00:04:03,930] Three halves, four halves, five
+- [00:04:03,930 - 00:04:05,020] halves, six halves, seven halves.
+- [00:04:05,100 - 00:04:05,360] Got it.
+- [00:04:05,500 - 00:04:05,660] Okay.
+- [00:04:06,640 - 00:04:06,880] All right.
+- [00:04:06,960 - 00:04:11,080] There are group representations, and they correspond to sets of
+- [00:04:11,080 - 00:04:15,200] objects that the group acts on and mixes them up.
+- [00:04:16,200 - 00:04:16,640] Okay.
+- [00:04:16,640 - 00:04:19,899] Let me just tell you a little bit
+- [00:04:19,899 - 00:04:23,159] about group representations, all that we'll really need.
+- [00:04:24,260 - 00:04:31,860] For S-U-N, the basic representation is called the defining representation, and it's just columns,
+- [00:04:31,860 - 00:04:39,460] column vectors of N entries, one, two, three, four, up to the Nth entry.
+- [00:04:40,560 - 00:04:42,700] Altogether, N units big.
+- [00:04:44,560 - 00:04:45,800] Complex entries.
+- [00:04:45,800 - 00:04:47,160] Let's give them names.
+- [00:04:47,300 - 00:04:50,430] Let's call them psi one, psi two,
+- [00:04:50,430 - 00:04:53,560] psi three, dot, dot, dot, to psi N.
+- [00:04:56,700 - 00:05:01,450] And the group is described by matrices, special unitary
+- [00:05:01,450 - 00:05:06,200] matrices, which act on these entries and mix them up.
+- [00:05:06,580 - 00:05:07,760] Psi prime, let's call them.
+- [00:05:08,240 - 00:05:10,240] Mix them up, multiply them by constants.
+- [00:05:10,360 - 00:05:10,920] You know what they do.
+- [00:05:11,920 - 00:05:12,240] Okay.
+- [00:05:12,240 - 00:05:14,520] So that's the defining representation.
+- [00:05:15,260 - 00:05:15,760] And how many?
+- [00:05:15,900 - 00:05:16,800] Dimensional is it?
+- [00:05:17,140 - 00:05:18,180] It's N-dimensional.
+- [00:05:19,200 - 00:05:19,500] Okay.
+- [00:05:19,860 - 00:05:25,520] Now, the first and simplest thing that you can do to
+- [00:05:25,520 - 00:05:31,180] the defining representation of S-U-N is to take its complex conjugate.
+- [00:05:32,120 - 00:05:35,860] In other words, take the
+- [00:05:35,860 - 00:05:39,600] collection of entries, psi one, star.
+- [00:05:39,820 - 00:05:40,120] Let's see.
+- [00:05:40,160 - 00:05:42,760] First of all, let's give these things names.
+- [00:05:45,800 - 00:05:48,980] This representation can either be called
+- [00:05:48,980 - 00:05:52,160] the defining representation or just the N.
+- [00:05:54,020 - 00:05:56,410] I cut out the word representation because
+- [00:05:56,410 - 00:05:58,800] we usually just say it's the N.
+- [00:05:59,680 - 00:06:03,460] Or the representation of dimensionality N, which is
+- [00:06:03,460 - 00:06:07,240] acted on by the defining special unitary matrices.
+- [00:06:07,240 - 00:06:10,280] Now you take their complex conjugates.
+- [00:06:11,480 - 00:06:15,560] Psi two, star, dot, dot, dot.
+- [00:06:15,800 - 00:06:16,780] Psi star, N.
+- [00:06:17,940 - 00:06:22,940] The matrices which act, if psi is acted on to
+- [00:06:22,940 - 00:06:27,940] get mixed up by matrices, let's call them U, unitary matrices,
+- [00:06:28,740 - 00:06:32,180] then psi star is acted upon not by
+- [00:06:32,180 - 00:06:35,620] the same matrices, but by the complex conjugate matrices.
+- [00:06:35,620 - 00:06:38,940] So the psi stars actually transform
+- [00:06:38,940 - 00:06:42,260] in a different way than psi itself.
+- [00:06:44,060 - 00:06:44,180] Okay.
+- [00:06:44,820 - 00:06:45,040] Okay.
+- [00:06:45,040 - 00:06:45,060] Okay.
+- [00:06:45,060 - 00:06:45,100] Okay.
+- [00:06:45,100 - 00:06:45,160] Okay.
+- [00:06:45,160 - 00:06:45,260] Okay.
+- [00:06:45,260 - 00:06:45,280] Okay.
+- [00:06:45,280 - 00:06:45,540] Okay.
+- [00:06:45,540 - 00:06:45,560] Okay.
+- [00:06:45,560 - 00:06:45,620] Okay.
+- [00:06:45,800 - 00:06:46,100] Okay.
+- [00:06:46,480 - 00:06:46,540] Okay.
+- [00:06:46,580 - 00:06:46,660] Okay.
+- [00:06:46,660 - 00:06:47,660] Okay.
+- [00:06:47,660 - 00:06:47,720] Okay.
+- [00:06:47,720 - 00:06:47,740] Okay.
+- [00:06:47,740 - 00:06:47,920] Okay.
+- [00:06:47,920 - 00:06:48,180] Okay.
+- [00:06:48,200 - 00:06:48,220] Okay.
+- [00:06:48,220 - 00:06:48,340] Okay.
+- [00:06:49,360 - 00:06:49,380] Okay.
+- [00:06:49,380 - 00:06:49,640] Okay.
+- [00:06:55,100 - 00:06:55,360] Okay.
+- [00:06:55,360 - 00:06:55,420] Okay.
+- [00:06:55,420 - 00:06:55,440] Okay.
+- [00:06:55,440 - 00:06:55,620] Okay.
+- [00:06:55,620 - 00:06:55,640] Okay.
+- [00:06:56,980 - 00:06:57,020] Okay.
+- [00:06:57,300 - 00:06:57,440] Okay.
+- [00:06:57,460 - 00:06:57,620] Okay.
+- [00:06:57,620 - 00:06:57,760] Okay.
+- [00:06:58,100 - 00:06:58,700] Okay.
+- [00:06:58,700 - 00:06:59,480] Okay.
+- [00:06:59,480 - 00:06:59,580] Okay.
+- [00:06:59,580 - 00:06:59,620] Okay.
+- [00:06:59,620 - 00:06:59,760] Okay.
+- [00:06:59,760 - 00:07:00,340] Okay.
+- [00:07:00,780 - 00:07:00,820] Okay.
+- [00:07:00,820 - 00:07:01,180] Okay.
+- [00:07:01,180 - 00:07:01,440] Okay.
+- [00:07:01,440 - 00:07:01,500] Okay.
+- [00:07:01,500 - 00:07:01,560] Okay.
+- [00:07:05,620 - 00:07:06,060] Okay.
+- [00:07:07,460 - 00:07:07,700] Okay.
+- [00:07:07,700 - 00:07:08,200] Okay.
+- [00:07:10,200 - 00:07:10,480] Okay.
+- [00:07:12,480 - 00:07:12,580] Okay.
+- [00:07:13,080 - 00:07:13,540] Okay.
+- [00:07:13,540 - 00:07:13,900] Okay.
+- [00:07:13,900 - 00:07:14,360] Okay.
+- [00:07:14,360 - 00:07:16,860] conjugate representation. So first of all we
+- [00:07:16,860 - 00:07:19,360] have the n representation and we have
+- [00:07:19,360 - 00:07:22,360] let's list some representations over here. There's
+- [00:07:22,360 - 00:07:25,360] the n and there's the n bar
+- [00:07:25,360 - 00:07:29,360] associated if you like with particles and antiparticles.
+- [00:07:29,360 - 00:07:33,360] Okay, next. What else can you do?
+- [00:07:33,360 - 00:07:38,360] Did that terminology use whether n is even or odd?
+- [00:07:38,360 - 00:07:41,360] Yeah, yeah, yeah.
+- [00:07:41,360 - 00:07:45,360] Does n refer to the matrices?
+- [00:07:45,360 - 00:07:48,860] It defen- it depen- yes. It refers to the
+- [00:07:48,860 - 00:07:52,360] size of the matrices, the size of the def- or
+- [00:07:52,360 - 00:07:57,360] to the size of the defining representation.
+- [00:07:57,360 - 00:08:00,860] I mean n is- it also is
+- [00:08:00,860 - 00:08:04,360] a way of referencing the group itself.
+- [00:08:04,360 - 00:08:07,360] Right. And for the defining
+- [00:08:07,360 - 00:08:10,360] representation they're the same. Okay.
+- [00:08:10,360 - 00:08:11,360] So the defining representation is the same.
+- [00:08:11,360 - 00:08:14,860] The defining representation, if the group
+- [00:08:14,860 - 00:08:18,360] is s-u-n, the defining representation is n-dimensional
+- [00:08:18,360 - 00:08:22,360] and the unitary matrices are n by n matrices. Okay.
+- [00:08:22,360 - 00:08:25,360] Now you can construct more complex-
+- [00:08:25,360 - 00:08:28,360] and in that sense, to that degree,
+- [00:08:28,360 - 00:08:31,860] the n and the n bar are both
+- [00:08:31,860 - 00:08:35,360] n-dimensional representations and it's a matter of complete
+- [00:08:35,360 - 00:08:40,360] convention which one of these you think of as defining
+- [00:08:40,360 - 00:08:42,860] and which one of you think of
+- [00:08:42,860 - 00:08:45,360] as the complex conjugate of a defining representation.
+- [00:08:45,360 - 00:08:48,860] Closely connected to it with the
+- [00:08:48,860 - 00:08:52,360] fact that the antiparticle of a particle-
+- [00:08:52,360 - 00:08:54,860] the antiparticle of an antiparticle is a particle,
+- [00:08:54,860 - 00:08:57,360] so it doesn't matter which one you call particle
+- [00:08:57,360 - 00:08:59,360] and which one you call antiparticle.
+- [00:08:59,360 - 00:09:02,360] Once you name it, you stick with it though.
+- [00:09:02,360 - 00:09:05,860] Okay. The next thing you can do,
+- [00:09:05,860 - 00:09:09,360] let's suppose that these columns here represent
+- [00:09:09,360 - 00:09:14,360] the states, the possible states of a single particle.
+- [00:09:14,360 - 00:09:18,360] Again, they could represent the spin states, up or down.
+- [00:09:18,360 - 00:09:21,860] They could represent proton or
+- [00:09:21,860 - 00:09:25,360] neutron in what's called isospin.
+- [00:09:25,360 - 00:09:28,860] They could represent the three
+- [00:09:28,860 - 00:09:32,360] colors of quarks, red, yellow, blue,
+- [00:09:32,360 - 00:09:38,360] or whatever the appropriate degree of the quark is.
+- [00:09:38,360 - 00:09:40,360] The degree of freedom is.
+- [00:09:40,360 - 00:09:44,360] Alright, so here we have a particle over here,
+- [00:09:44,360 - 00:09:50,360] and it can have any one of n states.
+- [00:09:50,360 - 00:09:54,360] Let's put another particle in right next to it.
+- [00:09:54,360 - 00:09:57,360] How many states are there?
+- [00:09:57,360 - 00:10:00,360] And we're only thinking now about the
+- [00:10:00,360 - 00:10:03,360] internal quantum number associated with the group S-U-N.
+- [00:10:03,360 - 00:10:05,860] We're not thinking about its position, its
+- [00:10:05,860 - 00:10:08,360] momentum, or even its spin right now.
+- [00:10:08,360 - 00:10:10,860] If this particle can be
+- [00:10:10,860 - 00:10:13,360] in any one of n states,
+- [00:10:13,360 - 00:10:17,360] how many states can the two particles be in?
+- [00:10:17,360 - 00:10:20,360] That's quite clear. It's n squared.
+- [00:10:20,360 - 00:10:22,360] So there must be an n squared...
+- [00:10:22,360 - 00:10:24,360] Minus one?
+- [00:10:24,360 - 00:10:26,360] No.
+- [00:10:26,360 - 00:10:29,360] No, no, no.
+- [00:10:29,360 - 00:10:35,360] I'm saying that n squared would require superposition.
+- [00:10:35,360 - 00:10:36,360] E?
+- [00:10:36,360 - 00:10:37,360] Would it require superposition?
+- [00:10:37,360 - 00:10:38,360] Superposition.
+- [00:10:38,360 - 00:10:39,360] Superposition of what?
+- [00:10:39,360 - 00:10:42,360] The violation of the exclusion principle.
+- [00:10:42,360 - 00:10:43,360] No, no, wait a second.
+- [00:10:43,360 - 00:10:45,360] This particle is over here,
+- [00:10:45,360 - 00:10:48,360] and this one is definitely over here.
+- [00:10:48,360 - 00:10:51,360] They're in two different locations.
+- [00:10:51,360 - 00:10:53,360] We're just trying to do the
+- [00:10:53,360 - 00:10:55,360] mathematics of group theory, but pictures.
+- [00:10:55,360 - 00:10:56,360] Okay?
+- [00:10:56,360 - 00:10:57,860] So they're definitely at
+- [00:10:57,860 - 00:10:59,360] different locations on the blackboard.
+- [00:10:59,360 - 00:11:01,360] There's no question of them being in the same state,
+- [00:11:01,360 - 00:11:03,360] because one of them is nailed down over here,
+- [00:11:03,360 - 00:11:05,360] and one of them is nailed down over here.
+- [00:11:05,360 - 00:11:07,360] I'm saying if there's a fixed number of states,
+- [00:11:07,360 - 00:11:09,360] and one of them is occupied...
+- [00:11:09,360 - 00:11:17,360] Being in two different places is a change of quantum...
+- [00:11:17,360 - 00:11:19,360] Right. Right.
+- [00:11:19,360 - 00:11:21,360] The Pauli exclusion principle would say
+- [00:11:21,360 - 00:11:24,360] you can't put two particles in the same state,
+- [00:11:24,360 - 00:11:27,360] but being in the same state entails not only
+- [00:11:27,360 - 00:11:29,360] these internal quantum numbers,
+- [00:11:29,360 - 00:11:32,360] but being at the same place.
+- [00:11:32,360 - 00:11:33,360] All right?
+- [00:11:33,360 - 00:11:34,360] Now, I explicitly tell you,
+- [00:11:34,360 - 00:11:36,360] they're not in the same place.
+- [00:11:36,360 - 00:11:39,360] One of them is here,
+- [00:11:39,360 - 00:11:41,360] and one of them is there.
+- [00:11:41,360 - 00:11:42,360] Once you say that,
+- [00:11:42,360 - 00:11:44,360] there are no further constraints
+- [00:11:44,360 - 00:11:46,360] of the Pauli exclusion principle.
+- [00:11:46,360 - 00:11:48,360] They are not in the same place.
+- [00:11:48,360 - 00:11:50,360] They don't exclude each other in any way.
+- [00:11:50,360 - 00:11:52,360] All right.
+- [00:11:52,360 - 00:11:53,360] So this one's over here.
+- [00:11:53,360 - 00:11:58,360] In fact, they could even be different particle types.
+- [00:11:58,360 - 00:12:00,360] These could be one set of particles.
+- [00:12:00,360 - 00:12:01,360] This could be another,
+- [00:12:01,360 - 00:12:04,360] but it just happens that they transform
+- [00:12:04,360 - 00:12:05,360] under the same...
+- [00:12:06,360 - 00:12:09,360] n-dimensional representation.
+- [00:12:09,360 - 00:12:11,360] All right. So how many states then,
+- [00:12:11,360 - 00:12:13,360] just with respect to this SU ,
+- [00:12:13,360 - 00:12:15,360] not with respect to their position,
+- [00:12:15,360 - 00:12:16,360] angular momentum,
+- [00:12:16,360 - 00:12:19,360] or other interesting quantities,
+- [00:12:19,360 - 00:12:22,360] but just with respect to this n-ness,
+- [00:12:22,360 - 00:12:24,360] let's call it the n-ness of the particle,
+- [00:12:24,360 - 00:12:25,360] how many states there are?
+- [00:12:25,360 - 00:12:27,360] It's clear. There are 25.
+- [00:12:27,360 - 00:12:28,360] And that's correct.
+- [00:12:28,360 - 00:12:29,360] 25 such states,
+- [00:12:29,360 - 00:12:33,360] n cross n times n, n squared.
+- [00:12:33,360 - 00:12:34,360] Okay.
+- [00:12:34,360 - 00:12:35,360] Now,
+- [00:12:35,360 - 00:12:37,360] you could label the states,
+- [00:12:37,360 - 00:12:40,360] if you label the states of one particle
+- [00:12:40,360 - 00:12:43,360] as psi i,
+- [00:12:43,360 - 00:12:46,360] you could label the two particles
+- [00:12:46,360 - 00:12:51,360] system as psi ij.
+- [00:12:51,360 - 00:12:53,360] Psi ij.
+- [00:12:53,360 - 00:12:56,360] If psi i runs from 1 to n,
+- [00:12:56,360 - 00:13:00,360] then psi ij runs from 1 to n squared
+- [00:13:00,360 - 00:13:02,360] if you let i and j
+- [00:13:02,360 - 00:13:04,360] run over the n squared possibilities.
+- [00:13:05,360 - 00:13:07,360] So for example,
+- [00:13:07,360 - 00:13:09,360] there would be the state psi ij,
+- [00:13:09,360 - 00:13:13,360] in which both particles are in the one state.
+- [00:13:13,360 - 00:13:15,360] There would be psi ij,
+- [00:13:15,360 - 00:13:19,360] psi ij would be particle,
+- [00:13:19,360 - 00:13:21,360] this particle in state i,
+- [00:13:21,360 - 00:13:23,360] this particle in state ii.
+- [00:13:23,360 - 00:13:25,360] There would be psi ij,
+- [00:13:25,360 - 00:13:27,360] that would be the opposite.
+- [00:13:27,360 - 00:13:29,360] This particle in state i,
+- [00:13:29,360 - 00:13:31,360] this particle in state i.
+- [00:13:31,360 - 00:13:34,360] Again, no exclusion principle is operative here.
+- [00:13:34,360 - 00:13:37,360] And so there are n squared possible entries.
+- [00:13:37,360 - 00:13:41,360] How do you transform these things?
+- [00:13:41,360 - 00:13:44,360] You transform them by thinking of
+- [00:13:44,360 - 00:13:47,360] the i index and the j index
+- [00:13:47,360 - 00:13:50,360] separately rotating under the group.
+- [00:13:50,360 - 00:13:51,360] And in fact,
+- [00:13:51,360 - 00:13:53,360] an even simpler way to think about it
+- [00:13:53,360 - 00:13:56,360] is to think of this as a product.
+- [00:13:56,360 - 00:13:58,360] Psi i,
+- [00:13:58,360 - 00:14:00,360] let's call it phi j.
+- [00:14:00,360 - 00:14:02,360] This particle is described by psi,
+- [00:14:02,360 - 00:14:03,360] this one by phi.
+- [00:14:03,360 - 00:14:06,360] It's got n squared entries.
+- [00:14:06,360 - 00:14:09,360] And how does the group
+- [00:14:09,360 - 00:14:12,360] act on this collection of things?
+- [00:14:12,360 - 00:14:16,360] By acting on psi and phi separately.
+- [00:14:16,360 - 00:14:19,360] Rotating psi and rotating phi.
+- [00:14:19,360 - 00:14:21,360] Alright, so that defines
+- [00:14:21,360 - 00:14:25,360] an n squared dimensional representation of the group.
+- [00:14:25,360 - 00:14:30,360] But that representation is not irreducible.
+- [00:14:30,360 - 00:14:31,360] Now what is irreducible?
+- [00:14:31,360 - 00:14:32,360] That's a new word.
+- [00:14:32,360 - 00:14:33,360] What is irreducible?
+- [00:14:33,360 - 00:14:35,360] What does irreducible mean?
+- [00:14:35,360 - 00:14:39,360] What it means is that there are certain combinations
+- [00:14:39,360 - 00:14:42,360] of psi i, j
+- [00:14:42,360 - 00:14:45,360] which transform among themselves
+- [00:14:45,360 - 00:14:48,360] and don't get mixed up with other combinations.
+- [00:14:48,360 - 00:14:50,360] Certain linear combinations
+- [00:14:50,360 - 00:14:52,360] which transform among themselves
+- [00:14:52,360 - 00:14:55,360] and don't get mixed up with the other linear,
+- [00:14:55,360 - 00:14:57,360] with the other combinations.
+- [00:14:57,360 - 00:15:00,360] They can be pulled aside
+- [00:15:00,360 - 00:15:02,360] and thought of as a rep,
+- [00:15:02,360 - 00:15:03,360] or they can be pulled aside,
+- [00:15:03,360 - 00:15:05,360] but they are not.
+- [00:15:05,360 - 00:15:07,360] We use the same definition
+- [00:15:07,360 - 00:15:09,360] of the same term
+- [00:15:09,360 - 00:15:11,360] for the pressure of the moment in the model.
+- [00:15:11,360 - 00:15:13,360] So for the moment of the moment in the model,
+- [00:15:13,360 - 00:15:16,360] I'm going to give you an example in a moment.
+- [00:15:16,360 - 00:15:17,360] But let's just talk about
+- [00:15:17,360 - 00:15:20,360] what this would mean for ordinary spin.
+- [00:15:20,360 - 00:15:22,360] We have two spin states,
+- [00:15:22,360 - 00:15:26,360] each one labeled by either up or down.
+- [00:15:26,360 - 00:15:28,360] Alright, so we have altogether four states.
+- [00:15:28,360 - 00:15:31,360] Up, down, up, down.
+- [00:15:31,360 - 00:15:35,360] and spins pointing down. Alright, now these
+- [00:15:35,360 - 00:15:39,360] are two half spin particles. If you combine
+- [00:15:39,360 - 00:15:42,390] two half spin particles, there are four
+- [00:15:42,390 - 00:15:45,420] possible states, but the four possible states form
+- [00:15:45,420 - 00:15:48,390] among themselves multiplets. What are the
+- [00:15:48,390 - 00:15:51,360] multiplets that the four states form, you
+- [00:15:51,360 - 00:15:56,300] know? One combination is a singlet, and
+- [00:15:56,300 - 00:16:01,240] the singlet corresponds to zero spin, and the
+- [00:16:01,240 - 00:16:04,070] other combination is a triplet of states, which
+- [00:16:04,070 - 00:16:06,900] forms spin one. A spin a half and a
+- [00:16:06,900 - 00:16:11,140] spin a half can form either spin zero or
+- [00:16:11,140 - 00:16:15,380] spin one. What, how does one understand that from
+- [00:16:15,380 - 00:16:18,360] the point of view of psi ij? That's what
+- [00:16:18,360 - 00:16:21,340] I'll tell you right now. Psi ij, thought of as
+- [00:16:21,340 - 00:16:25,730] a function of two spins, can be either
+- [00:16:25,730 - 00:16:30,120] symmetric under interchange of i and j, or anti-symmetric.
+- [00:16:30,120 - 00:16:31,200] Of course it could also be a linear.
+- [00:16:31,200 - 00:16:37,550] It's only a combination of symmetric and anti-symmetric,
+- [00:16:37,550 - 00:16:43,900] but let's consider all psi ij's which are symmetric,
+- [00:16:43,900 - 00:16:47,340] so that if you interchange i and j,
+- [00:16:47,340 - 00:16:50,780] they become the same thing. How many independent configurations
+- [00:16:50,780 - 00:16:55,430] is that, you know? Three. Three
+- [00:16:55,430 - 00:17:00,080] linearly independent combinations that are anti-symmetric,
+- [00:17:00,080 - 00:17:01,080] that are symmetric.
+- [00:17:01,200 - 00:17:04,300] I'm going to tell you what they correspond
+- [00:17:04,300 - 00:17:07,400] to. They correspond to up, up, that's symmetric,
+- [00:17:07,400 - 00:17:11,160] down, down, and one over square root of two,
+- [00:17:11,160 - 00:17:14,920] up, down, plus down, up. Those are the three
+- [00:17:14,920 - 00:17:18,730] which are symmetric with respect to interchange, and
+- [00:17:18,730 - 00:17:22,540] they have the property that when you act
+- [00:17:22,540 - 00:17:26,369] with the group SU on them, they mix up
+- [00:17:26,369 - 00:17:30,200] among themselves, but do not mix in the last one.
+- [00:17:30,200 - 00:17:30,700] The last one is the last one. The last one
+- [00:17:30,700 - 00:17:31,200] is the last one. The last one is the last
+- [00:17:31,200 - 00:17:32,200] one.
+- [00:17:32,200 - 00:17:37,100] One over square root of two, up
+- [00:17:37,100 - 00:17:42,000] down minus down up. The anti-symmetric combination.
+- [00:17:42,000 - 00:17:45,510] So this is the symmetric combination, and
+- [00:17:45,510 - 00:17:49,020] how many states are there? Linearly independent
+- [00:17:49,020 - 00:17:52,720] ones, three. A spin one multiple.
+- [00:17:52,720 - 00:17:56,340] So when you take two half spins, one way
+- [00:17:56,340 - 00:17:59,960] of combining them can give you spin one, and
+- [00:17:59,960 - 00:18:00,460] the other way is your pi past a. borderline. Is
+- [00:18:00,460 - 00:18:00,960] that a Geeeees a three by two, a three by
+- [00:18:00,960 - 00:18:03,630] unique there's only one anti-symmetric combination
+- [00:18:03,630 - 00:18:06,300] it's up down minus down up
+- [00:18:06,300 - 00:18:09,000] it's a singlet and that means it
+- [00:18:09,000 - 00:18:11,700] just doesn't transform under the group at all
+- [00:18:11,700 - 00:18:13,980] it's a scalar with respect to these
+- [00:18:13,980 - 00:18:16,260] group rotations and that gives you the
+- [00:18:16,260 - 00:18:20,790] zero spin combination so this is
+- [00:18:20,790 - 00:18:25,320] a pattern you can take objects which
+- [00:18:25,320 - 00:18:31,680] transform as not as an N and an N bar
+- [00:18:31,680 - 00:18:38,040] but as two N's well N bar okay we can call
+- [00:18:38,040 - 00:18:42,599] that N cross N psi ij is an object which
+- [00:18:42,599 - 00:18:47,159] lives in the N squared or N cross N the
+- [00:18:47,159 - 00:18:50,579] cross here simply means with combining two
+- [00:18:50,579 - 00:18:54,000] systems the N cross N but we can
+- [00:18:54,000 - 00:18:55,280] take the symmetrical
+- [00:18:55,280 - 00:18:55,300] the symmetrical
+- [00:18:55,300 - 00:18:55,320] the symmetrical
+- [00:18:55,320 - 00:18:57,379] the symmetrical combinations and the anti-symmetric
+- [00:18:57,379 - 00:18:59,819] combinations they do not mix with each
+- [00:18:59,819 - 00:19:02,260] other the group operations do not mix
+- [00:19:02,260 - 00:19:08,849] the anti-symmetric and the symmetric so
+- [00:19:08,849 - 00:19:15,439] there is symmetric and psi ij
+- [00:19:15,439 - 00:19:19,499] anti-symmetric we'll count later how many how
+- [00:19:19,499 - 00:19:23,560] many of them are there of each
+- [00:19:23,560 - 00:19:25,300] kind
+- [00:19:25,300 - 00:19:29,639] of the义总
+- [00:19:45,800 - 00:19:48,060] i left you do the counting not too hard
+- [00:19:48,060 - 00:19:50,320] to count i can't remember offhand this isваensally a smaller我有
+- [00:19:50,320 - 00:19:51,660] representation than this one sigh IJ symmetric and sigh
+- [00:19:51,660 - 00:19:53,000] ij anti-symmetric and mistakeothan популярRockchip-Implemented20xPsy koşت Luci Center size simmetri
+- [00:19:53,000 - 00:19:53,379] and those are two distinct representations Beauty with Rac
+- [00:19:53,379 - 00:19:53,909] in in sine oang Joey destroyexamples andanstro
+- [00:19:53,909 - 00:19:54,440] phoe producto éthirez o' grown inscience taeherexrapeteris
+- [00:19:54,440 - 00:19:55,880] symmetric
+- [00:19:55,880 - 00:19:59,320] and n cross n
+- [00:19:59,320 - 00:20:04,640] anti-symmetric let's call it
+- [00:20:04,640 - 00:20:07,440] we're going to see some examples of this kind of thing we're
+- [00:20:07,440 - 00:20:10,240] going to work it out for SU and see what kind of
+- [00:20:10,240 - 00:20:12,960] representations they have
+- [00:20:12,960 - 00:20:15,820] next
+- [00:20:15,820 - 00:20:19,300] we've already said that you can take
+- [00:20:19,300 - 00:20:23,200] that there's a complex conjugate representation
+- [00:20:23,200 - 00:20:25,880] that could correspond to a particle
+- [00:20:25,880 - 00:20:27,970] and instead of putting two particles down
+- [00:20:27,970 - 00:20:30,060] to study we could put a particle
+- [00:20:30,060 - 00:20:32,690] and an anti-particle let's put a
+- [00:20:32,690 - 00:20:35,320] bar over it a particle and anti-particle
+- [00:20:35,320 - 00:20:38,420] this is different than a particle and a particle
+- [00:20:38,420 - 00:20:41,790] the question is what's the group theory or what's
+- [00:20:41,790 - 00:20:45,160] the representation that describes a particle and an anti-particle
+- [00:20:45,160 - 00:20:49,840] how many states are there
+- [00:20:49,840 - 00:20:53,200] n squared again right exactly n squared
+- [00:20:53,200 - 00:20:56,700] and again there are two ways of combining them well
+- [00:20:56,700 - 00:21:00,200] there may be more than two ways of combining them
+- [00:21:00,200 - 00:21:05,200] but no there are really n squared sorry n squared
+- [00:21:05,200 - 00:21:07,700] you can combine them
+- [00:21:07,700 - 00:21:10,200] again symmetrically or anti-symmetrically
+- [00:21:10,200 - 00:21:12,700] no you can combine them
+- [00:21:12,700 - 00:21:15,200] I'm sorry I take that back
+- [00:21:15,200 - 00:21:21,200] alright
+- [00:21:21,200 - 00:21:22,920] if you take these two things
+- [00:21:23,200 - 00:21:27,700] you and you write a let's give a different label to it because it
+- [00:21:27,700 - 00:21:32,200] doesn't it's not in the n squared it's in the n cross n bar
+- [00:21:32,200 - 00:21:36,200] but there are still n squared independent elements
+- [00:21:36,200 - 00:21:41,200] they again are described by some matrix
+- [00:21:41,200 - 00:21:43,200] m i j this is
+- [00:21:43,200 - 00:21:45,200] also a matrix psi i j
+- [00:21:45,200 - 00:21:48,700] this is a matrix but you discover when
+- [00:21:48,700 - 00:21:52,200] you start thinking about working out the transformation properties
+- [00:21:52,200 - 00:21:52,700] that they're really not the same as the other
+- [00:21:52,700 - 00:21:53,200] ones that we've talked about in the last lecture
+- [00:21:53,200 - 00:21:57,200] there really are only two independent combinations
+- [00:21:57,200 - 00:22:02,200] one of them being the traceless combination
+- [00:22:02,200 - 00:22:05,200] and the other being everything else
+- [00:22:05,200 - 00:22:10,200] we've seen this before we've seen it in SU where I
+- [00:22:10,200 - 00:22:15,200] told you that there's a representation of SU which is eight dimension
+- [00:22:15,200 - 00:22:19,200] of SU which is eight dimensional instead of nine dimensional
+- [00:22:19,200 - 00:22:22,200] a particle a quark and an anti-quark
+- [00:22:22,200 - 00:22:24,200] so you have nine possible states
+- [00:22:24,200 - 00:22:28,200] but those nine possible states can be in a singlet
+- [00:22:28,200 - 00:22:32,200] and the rest of them correspond to trace
+- [00:22:32,200 - 00:22:36,200] equals zero or m trace of this equals zero
+- [00:22:36,200 - 00:22:42,200] and those form what is called the adjoint representation
+- [00:22:42,200 - 00:22:50,200] the adjoint representation has dimension n squared minus one
+- [00:22:52,200 - 00:22:59,200] for SU three n squared minus one is eight
+- [00:22:59,200 - 00:23:04,200] alright we've seen how that corresponds
+- [00:23:04,200 - 00:23:09,200] to the eight gluons of quantum chromodynamics
+- [00:23:09,200 - 00:23:14,200] for what is it for SU two
+- [00:23:14,200 - 00:23:21,200] it's called the adjoint
+- [00:23:21,200 - 00:23:25,200] what is the adjoint representation for SU two
+- [00:23:25,200 - 00:23:30,200] three dimensional and it corresponds to spin one
+- [00:23:30,200 - 00:23:32,200] for SU three it's eight
+- [00:23:32,200 - 00:23:34,200] dimensional it's called the adjoint representation
+- [00:23:34,200 - 00:23:36,700] but that leaves one more
+- [00:23:36,700 - 00:23:39,200] linear combination namely just this one
+- [00:23:39,200 - 00:23:42,200] that's a singlet that's a state which
+- [00:23:42,200 - 00:23:45,200] doesn't transform under the group at all
+- [00:23:45,200 - 00:23:47,700] alright so this is all we
+- [00:23:47,700 - 00:23:50,200] need to know about group representations
+- [00:23:50,200 - 00:23:53,700] that there's the representation n
+- [00:23:53,700 - 00:23:57,200] which is the fundamental defining representation
+- [00:23:57,200 - 00:23:59,700] there's the representation n bar
+- [00:23:59,700 - 00:24:02,200] which is the complex conjugate
+- [00:24:02,200 - 00:24:05,200] and you can multiply them together
+- [00:24:05,200 - 00:24:08,700] which is really just the act of
+- [00:24:08,700 - 00:24:12,200] putting down different numbers of particles and anti-particles
+- [00:24:12,200 - 00:24:14,200] or group theoretically it's that
+- [00:24:14,200 - 00:24:16,200] combining the representations together
+- [00:24:16,200 - 00:24:18,200] and then sorting out and finding
+- [00:24:18,200 - 00:24:20,200] which combinations are the most important
+- [00:24:20,200 - 00:24:24,200] and then the combinations will transform into each other
+- [00:24:24,200 - 00:24:27,200] under the group
+- [00:24:27,200 - 00:24:30,700] separating the transformation
+- [00:24:30,700 - 00:24:34,200] properties into different representations
+- [00:24:34,200 - 00:24:36,200] and that is the process
+- [00:24:36,200 - 00:24:38,200] for example of taking two spins
+- [00:24:38,200 - 00:24:40,200] and discovering that they can
+- [00:24:40,200 - 00:24:42,200] form spin zero or spin one
+- [00:24:42,200 - 00:24:44,700] a three dimensional representation
+- [00:24:44,700 - 00:24:47,200] or a one dimensional representation
+- [00:24:47,200 - 00:24:50,200] spin zero is the one dimensional representation
+- [00:24:50,200 - 00:24:53,200] in SU three similar kinds of things
+- [00:24:53,200 - 00:24:55,200] SU five the same kind of things
+- [00:24:55,200 - 00:24:56,700] now we're going to see
+- [00:24:56,700 - 00:24:58,200] how this works by explicit example
+- [00:24:58,200 - 00:25:05,200] the group that we're interested in is SU five
+- [00:25:05,200 - 00:25:10,200] SU five mixes up five objects
+- [00:25:10,200 - 00:25:12,200] which I don't know what to call them
+- [00:25:12,200 - 00:25:16,200] let's call them just the fermions
+- [00:25:16,200 - 00:25:19,200] which fermions we'll see in a moment
+- [00:25:20,200 - 00:25:28,200] the fermions belonging to a single family
+- [00:25:28,200 - 00:25:33,200] there are three families of fermions that are known
+- [00:25:33,200 - 00:25:36,200] and only three is probably correct
+- [00:25:36,200 - 00:25:40,200] I'll just remind you what the first family consists of
+- [00:25:40,200 - 00:25:44,200] it consists of three quarks
+- [00:25:44,200 - 00:25:46,200] well two quarks up and down
+- [00:25:46,200 - 00:25:49,200] but each up and down quark comes in three
+- [00:25:49,200 - 00:25:52,200] or each quark comes in three colors
+- [00:25:52,200 - 00:25:54,200] so this is red, yellow, blue
+- [00:25:54,200 - 00:25:57,200] red, yellow, blue
+- [00:25:57,200 - 00:25:59,200] also there are the leptons
+- [00:25:59,200 - 00:26:03,200] the electron and its corresponding neutrino
+- [00:26:03,200 - 00:26:08,200] there's a neutrino for each lepton type
+- [00:26:08,200 - 00:26:15,200] and this pattern gets replicated three times
+- [00:26:15,200 - 00:26:18,200] and we'll just refer to one of these families
+- [00:26:18,200 - 00:26:20,200] sometimes called families
+- [00:26:20,200 - 00:26:22,200] sometimes called generations
+- [00:26:22,200 - 00:26:25,200] one of these families at a time
+- [00:26:25,200 - 00:26:29,200] nobody has a unified theory of how to unify together
+- [00:26:29,200 - 00:26:33,200] the different replications of the same pattern
+- [00:26:33,200 - 00:26:35,200] that is completely beyond us
+- [00:26:35,200 - 00:26:37,200] we don't even know what it means
+- [00:26:37,200 - 00:26:39,200] not what it means, we know what it means
+- [00:26:39,200 - 00:26:41,200] but we don't know how to understand why it's so
+- [00:26:41,200 - 00:26:43,700] so let's just focus on
+- [00:26:43,700 - 00:26:46,200] such a combination of particles here
+- [00:26:46,200 - 00:26:47,200] alright, so
+- [00:26:48,200 - 00:26:52,200] what are the five entries
+- [00:26:52,200 - 00:26:54,200] it's easiest just to write
+- [00:26:54,200 - 00:26:56,200] down what the five entries are
+- [00:26:56,200 - 00:26:59,200] for the defining representation
+- [00:26:59,200 - 00:27:04,200] and then explore a little bit about it
+- [00:27:04,200 - 00:27:07,200] just as you would put for SU3
+- [00:27:07,200 - 00:27:11,200] you would put red quark, yellow quark, and blue quark
+- [00:27:11,200 - 00:27:13,200] the three entries
+- [00:27:13,200 - 00:27:15,200] that's what gets mixed up by SU3
+- [00:27:15,200 - 00:27:18,200] then SU5 mixes up
+- [00:27:18,200 - 00:27:22,200] neutrino
+- [00:27:22,200 - 00:27:26,200] electron, which I'll write as E-
+- [00:27:26,200 - 00:27:30,200] to indicate that it's a negatively charged electron
+- [00:27:30,200 - 00:27:34,200] and the three down anti-quarks
+- [00:27:34,200 - 00:27:36,200] which three?
+- [00:27:36,200 - 00:27:38,200] the three of the three colors
+- [00:27:38,200 - 00:27:42,200] now this is a bizarre thing to combine together
+- [00:27:42,200 - 00:27:44,200] but as you see it makes a lot of sense
+- [00:27:44,200 - 00:27:48,200] these are quarks, or anti-quarks to be specific
+- [00:27:48,200 - 00:27:52,200] and only the down anti-quarks
+- [00:27:52,200 - 00:27:56,200] neutrino and electron
+- [00:27:56,200 - 00:28:00,200] they form a multiplet under the group SU5
+- [00:28:00,200 - 00:28:03,200] and what is the group SU5?
+- [00:28:03,200 - 00:28:05,200] it's just the five by five matrices
+- [00:28:05,200 - 00:28:07,200] which mix these things up among themselves
+- [00:28:07,200 - 00:28:08,700] in other words, transformations which
+- [00:28:08,700 - 00:28:10,200] can take neutrino to electron
+- [00:28:10,200 - 00:28:12,200] and electron to neutrino
+- [00:28:12,200 - 00:28:14,200] we've seen those already
+- [00:28:14,200 - 00:28:16,200] those are the SU2
+- [00:28:16,200 - 00:28:18,200] of the weak interactions
+- [00:28:18,200 - 00:28:22,200] the SU2 of the weak interactions
+- [00:28:22,200 - 00:28:25,200] mix neutrino with electron
+- [00:28:25,200 - 00:28:28,200] and what about the things which mix
+- [00:28:28,200 - 00:28:31,200] the anti-dequarks
+- [00:28:31,200 - 00:28:33,200] well that's just a color group
+- [00:28:33,200 - 00:28:36,200] red, yellow, and green
+- [00:28:36,200 - 00:28:38,200] so
+- [00:28:38,200 - 00:28:41,200] the transformations which mix up
+- [00:28:41,200 - 00:28:43,200] these things here
+- [00:28:43,200 - 00:28:45,200] that's just color
+- [00:28:45,200 - 00:28:46,200] quantum chromodynamics
+- [00:28:46,200 - 00:28:47,200] but now we have some new things here
+- [00:28:47,200 - 00:28:49,200] but now we have some new possibilities
+- [00:28:49,200 - 00:28:51,200] and we're going to have to explore those
+- [00:28:51,200 - 00:28:54,200] transformations which take neutrino to down
+- [00:28:54,200 - 00:28:56,200] anti-down quarks
+- [00:28:56,200 - 00:28:58,200] electrons to anti-down quarks
+- [00:28:58,200 - 00:29:00,200] and so forth, something new
+- [00:29:00,200 - 00:29:05,200] now remember that for each
+- [00:29:05,200 - 00:29:10,200] one of these
+- [00:29:10,200 - 00:29:12,200] mixing ups, let's call them
+- [00:29:12,200 - 00:29:15,200] there's typically a gauge boson
+- [00:29:15,200 - 00:29:18,200] which allows transitions between them
+- [00:29:18,200 - 00:29:21,200] the gauge bosons which allow
+- [00:29:21,200 - 00:29:24,200] one d-quark to go to another d-quark
+- [00:29:24,200 - 00:29:26,200] or d-bar quark, what are those gauge bosons?
+- [00:29:26,200 - 00:29:29,200] the gluons
+- [00:29:29,200 - 00:29:31,200] what about the gauge bosons
+- [00:29:31,200 - 00:29:33,200] which take electrons to neutrinos
+- [00:29:33,200 - 00:29:35,200] and back and forth
+- [00:29:35,200 - 00:29:38,200] those are the W's
+- [00:29:38,200 - 00:29:41,200] and so
+- [00:29:41,200 - 00:29:43,200] this is the corner here
+- [00:29:43,200 - 00:29:45,200] that corresponds to weak interactions
+- [00:29:45,200 - 00:29:47,200] and this is the bigger corner
+- [00:29:47,200 - 00:29:49,200] that corresponds
+- [00:29:49,200 - 00:29:51,200] this is SU here
+- [00:29:51,200 - 00:29:53,200] and SU here
+- [00:29:53,200 - 00:29:56,200] where U1 is hiding will come to
+- [00:29:56,200 - 00:29:59,200] I hope will come to it, we'll see
+- [00:29:59,200 - 00:30:01,200] we'll see
+- [00:30:01,200 - 00:30:04,200] alright, so this is the defining representation
+- [00:30:04,200 - 00:30:06,200] it's very strange, there's no up quarks
+- [00:30:06,200 - 00:30:08,200] where's the up quarks?
+- [00:30:08,200 - 00:30:11,200] one other point which I mentioned last time
+- [00:30:11,200 - 00:30:13,200] is we always treat the point of the equation
+- [00:30:13,200 - 00:30:15,200] of particles as left-handed
+- [00:30:15,200 - 00:30:17,200] ok, left-handed particles
+- [00:30:17,200 - 00:30:20,200] now what about the right-handed particles?
+- [00:30:20,200 - 00:30:22,200] the electron
+- [00:30:22,200 - 00:30:24,200] the left-handed electron comes
+- [00:30:24,200 - 00:30:26,200] together with a right-handed electron
+- [00:30:26,200 - 00:30:30,200] well the answer is that if a particle is left-handed
+- [00:30:30,200 - 00:30:32,200] or if a particle is right-handed
+- [00:30:32,200 - 00:30:36,200] its anti-particle is left-handed
+- [00:30:36,200 - 00:30:39,200] so we can always enumerate the particles
+- [00:30:39,200 - 00:30:42,200] by enumerating only left-hand particles
+- [00:30:42,200 - 00:30:45,200] for example if we were enumerating the electrons
+- [00:30:45,200 - 00:30:49,200] we would enumerate not electron and positron
+- [00:30:49,200 - 00:30:51,200] but the left-handed electron
+- [00:30:51,200 - 00:30:53,200] let me just put a little L next to it
+- [00:30:53,200 - 00:30:57,200] and the left-handed positron
+- [00:31:01,200 - 00:31:03,200] the left-handed positron
+- [00:31:03,200 - 00:31:05,200] the anti-particle of the left-handed positron
+- [00:31:05,200 - 00:31:07,200] is the right-handed electron
+- [00:31:07,200 - 00:31:10,200] this is just a notational device
+- [00:31:10,200 - 00:31:11,200] or
+- [00:31:12,200 - 00:31:16,200] a way of enumerating particles
+- [00:31:16,200 - 00:31:18,200] but it's useful because
+- [00:31:18,200 - 00:31:21,200] these groups that we're talking about
+- [00:31:21,200 - 00:31:24,200] do not turn left-handed particles
+- [00:31:24,200 - 00:31:26,200] into right-handed particles and so forth
+- [00:31:26,200 - 00:31:30,200] so we keep track of the particles as left-handed
+- [00:31:30,200 - 00:31:32,200] we don't miss any that way
+- [00:31:32,200 - 00:31:33,700] we just have to remember that
+- [00:31:33,700 - 00:31:35,200] when we're looking for the anti-particle
+- [00:31:35,200 - 00:31:36,200] for example
+- [00:31:36,200 - 00:31:38,200] the d-quark
+- [00:31:38,200 - 00:31:40,200] the anti-d-quark
+- [00:31:40,200 - 00:31:42,200] this is the anti-d-quark
+- [00:31:42,200 - 00:31:43,200] but the left-handed
+- [00:31:43,200 - 00:31:45,200] these are all left-handed
+- [00:31:45,200 - 00:31:51,200] and they form the basic left-handed representation of SU5
+- [00:31:51,200 - 00:31:53,200] now where are all the other particles
+- [00:31:53,200 - 00:31:54,700] in fact we probably ought to
+- [00:31:54,700 - 00:31:56,200] write down what they all are
+- [00:31:56,200 - 00:31:58,200] all the left-handed particles
+- [00:31:58,200 - 00:32:00,200] let's list them
+- [00:32:00,200 - 00:32:02,200] there's the left-handed neutrino
+- [00:32:02,200 - 00:32:04,200] that's the one we see in weak interactions
+- [00:32:04,200 - 00:32:07,200] there's the left-handed E-
+- [00:32:07,200 - 00:32:09,200] there's the d-bars
+- [00:32:09,200 - 00:32:11,200] three of them
+- [00:32:12,200 - 00:32:17,200] then there's the left-handed E-
+- [00:32:17,200 - 00:32:19,200] this is no particular order here
+- [00:32:19,200 - 00:32:21,200] I'm just writing them all down
+- [00:32:21,200 - 00:32:23,200] there's the left-handed positron
+- [00:32:23,200 - 00:32:25,200] what about the left-handed d-quark
+- [00:32:25,200 - 00:32:27,200] d-d-d
+- [00:32:27,200 - 00:32:31,200] three colors of left-handed d-quark
+- [00:32:31,200 - 00:32:32,200] and what am I missing?
+- [00:32:32,200 - 00:32:34,200] I'm missing the up-quarks
+- [00:32:34,200 - 00:32:37,200] the left-handed up-quarks
+- [00:32:37,200 - 00:32:39,200] up-up-up
+- [00:32:39,200 - 00:32:41,200] and also the left-handed anti-quarks
+- [00:32:41,200 - 00:32:43,200] up-bar
+- [00:32:43,200 - 00:32:44,200] up-bar
+- [00:32:44,200 - 00:32:45,200] up-bar
+- [00:32:45,200 - 00:32:47,200] let's see if I have everything
+- [00:32:47,200 - 00:32:49,200] I have electron and positron
+- [00:32:49,200 - 00:32:50,200] that's good
+- [00:32:50,200 - 00:32:51,200] left-handed
+- [00:32:51,200 - 00:32:54,200] I have d-bar quarks and d-quarks
+- [00:32:54,200 - 00:32:56,200] and I have up-quarks and anti-up-quarks
+- [00:32:56,200 - 00:33:00,200] what's missing is an anti-neutrino
+- [00:33:00,200 - 00:33:01,200] okay
+- [00:33:01,200 - 00:33:04,200] we're going to come to the question of anti-neutrinos
+- [00:33:04,200 - 00:33:06,200] but I will tell you this
+- [00:33:06,200 - 00:33:08,200] the standard model
+- [00:33:08,200 - 00:33:10,200] the pure form of the standard model
+- [00:33:10,200 - 00:33:12,200] does not have
+- [00:33:12,200 - 00:33:14,200] an additional
+- [00:33:14,200 - 00:33:18,200] let's call it left-handed anti-neutrino
+- [00:33:18,200 - 00:33:21,200] the left-handed version of
+- [00:33:21,200 - 00:33:22,200] sorry
+- [00:33:22,200 - 00:33:24,200] the right-handed version
+- [00:33:24,200 - 00:33:26,200] of the neutrino
+- [00:33:26,200 - 00:33:28,200] is the anti-particle of the left-handed
+- [00:33:28,200 - 00:33:30,200] there's a left-handed neutrino
+- [00:33:30,200 - 00:33:32,200] and a right-handed anti-neutrino
+- [00:33:32,200 - 00:33:34,200] there is no right-handed neutrino
+- [00:33:34,200 - 00:33:38,200] and whatever the missing one that I didn't say was
+- [00:33:38,200 - 00:33:39,200] yeah okay
+- [00:33:39,200 - 00:33:42,200] this is the collection of fermions
+- [00:33:42,200 - 00:33:45,200] in the first family of the standard model
+- [00:33:45,200 - 00:33:47,200] and that's all there is
+- [00:33:47,200 - 00:33:50,200] okay so let's see which ones we've captured
+- [00:33:50,200 - 00:33:52,200] in the five here
+- [00:33:52,200 - 00:33:55,200] neutrino electron down down down
+- [00:33:55,200 - 00:33:56,200] that's it
+- [00:33:56,200 - 00:33:59,200] okay now why did I group the down quark there
+- [00:33:59,200 - 00:34:00,200] I have a question
+- [00:34:00,200 - 00:34:01,200] yes
+- [00:34:01,200 - 00:34:03,200] you had mentioned that
+- [00:34:03,200 - 00:34:07,200] fermions get their mass from oscillating
+- [00:34:07,200 - 00:34:08,199] changing
+- [00:34:08,199 - 00:34:09,199] left to right yeah
+- [00:34:09,199 - 00:34:15,199] and does that mean it also changes into an anti-particle
+- [00:34:15,199 - 00:34:16,199] while it's
+- [00:34:16,199 - 00:34:19,199] no it changes into the particle of the same
+- [00:34:19,199 - 00:34:20,199] okay
+- [00:34:20,199 - 00:34:22,199] depends on whether we're talking about neutrinos
+- [00:34:22,199 - 00:34:24,199] or the other particles
+- [00:34:24,199 - 00:34:25,199] say electron
+- [00:34:25,199 - 00:34:26,199] electron nope
+- [00:34:26,199 - 00:34:27,199] electron turns into an electron
+- [00:34:27,199 - 00:34:29,199] left-handed electron becomes
+- [00:34:29,199 - 00:34:31,199] left right-handed electron
+- [00:34:31,199 - 00:34:34,199] otherwise it would violate charge conservation
+- [00:34:34,199 - 00:34:37,199] if a left-handed electron
+- [00:34:37,199 - 00:34:38,199] if an electron became a positron
+- [00:34:38,199 - 00:34:40,199] something bad happened
+- [00:34:40,199 - 00:34:41,199] charge disappeared
+- [00:34:41,199 - 00:34:42,699] so but that doesn't seem to
+- [00:34:42,699 - 00:34:44,199] fit into this picture so far
+- [00:34:44,199 - 00:34:46,199] we'll come to it
+- [00:34:46,199 - 00:34:48,199] we'll come to it
+- [00:34:48,199 - 00:34:49,199] right
+- [00:34:49,199 - 00:34:53,199] but the mass is a transition
+- [00:34:53,199 - 00:34:56,199] between left-handed and right-handed particles
+- [00:34:56,199 - 00:34:58,200] of the same charge
+- [00:34:58,200 - 00:35:00,200] okay of the same electric charge
+- [00:35:00,200 - 00:35:02,200] now only the neutrino
+- [00:35:02,200 - 00:35:03,200] only the neutrino
+- [00:35:03,200 - 00:35:04,700] is a transition between
+- [00:35:04,700 - 00:35:06,200] left-handed and right-handed particles
+- [00:35:06,200 - 00:35:07,200] of the same charge
+- [00:35:07,200 - 00:35:10,200] only the neutrino doesn't have an electric charge
+- [00:35:10,200 - 00:35:13,200] so it's the only one
+- [00:35:13,200 - 00:35:16,200] which conceivably could have a transition
+- [00:35:16,200 - 00:35:18,200] from neutrino to anti-neutrino
+- [00:35:18,200 - 00:35:20,200] but we'll come to that
+- [00:35:20,200 - 00:35:22,200] this has to do with neutrino masses
+- [00:35:22,200 - 00:35:23,200] okay
+- [00:35:23,200 - 00:35:25,200] in the standard model incidentally
+- [00:35:25,200 - 00:35:28,200] the neutrino is strictly massless
+- [00:35:28,200 - 00:35:30,200] okay
+- [00:35:30,200 - 00:35:31,200] okay
+- [00:35:31,200 - 00:35:34,200] which is not the experimental fact
+- [00:35:34,200 - 00:35:36,200] the experimental fact is neutrinos have
+- [00:35:36,200 - 00:35:37,200] very very small masses
+- [00:35:37,200 - 00:35:39,200] extremely small
+- [00:35:39,200 - 00:35:40,200] right
+- [00:35:40,200 - 00:35:43,200] measured in fractions of electron volts
+- [00:35:43,200 - 00:35:45,200] so
+- [00:35:45,200 - 00:35:46,200] they're very light
+- [00:35:46,200 - 00:35:47,200] okay
+- [00:35:47,200 - 00:35:49,200] the question now is where
+- [00:35:49,200 - 00:35:50,200] well let's see
+- [00:35:50,200 - 00:35:53,200] do we want to say anything else about this
+- [00:35:53,200 - 00:35:56,200] yeah let's think about
+- [00:35:56,200 - 00:36:01,200] the transitions which can happen between these particles
+- [00:36:01,200 - 00:36:05,200] by virtue of emission and absorption of gauge bosons
+- [00:36:05,200 - 00:36:06,200] now
+- [00:36:06,200 - 00:36:09,200] we're talking about su5
+- [00:36:09,200 - 00:36:13,200] which is bigger than su3 cross su2 cross u1
+- [00:36:13,200 - 00:36:16,200] so there may be new kinds of gauge bosons
+- [00:36:16,200 - 00:36:17,200] first of all
+- [00:36:17,200 - 00:36:19,200] there are the various transitions
+- [00:36:19,200 - 00:36:21,200] or interactions
+- [00:36:21,200 - 00:36:25,200] that take place just among these two
+- [00:36:25,200 - 00:36:29,200] an electron can become an electron for example
+- [00:36:29,200 - 00:36:32,200] if it emits a neutral gauge boson
+- [00:36:32,200 - 00:36:33,700] a neutrino can become a neutrino
+- [00:36:33,700 - 00:36:35,200] if it emits a neutral gauge boson
+- [00:36:35,200 - 00:36:37,200] and an electron can become a
+- [00:36:37,200 - 00:36:39,200] neutrino if it emits a w-
+- [00:36:39,200 - 00:36:41,200] so in here
+- [00:36:41,200 - 00:36:42,200] we have
+- [00:36:42,200 - 00:36:44,200] the weak interactions
+- [00:36:44,200 - 00:36:45,200] the weak interactions
+- [00:36:45,200 - 00:36:46,200] the emission
+- [00:36:46,200 - 00:36:47,200] and absorption
+- [00:36:47,200 - 00:36:48,200] of w
+- [00:36:48,200 - 00:36:49,200] z
+- [00:36:49,200 - 00:36:51,200] and also photons
+- [00:36:51,200 - 00:36:53,200] the electroweak
+- [00:36:53,200 - 00:36:55,200] theory
+- [00:36:55,200 - 00:36:58,200] that's what's occurring in this block in here
+- [00:36:58,200 - 00:37:02,200] and here we have d-bar quarks
+- [00:37:02,200 - 00:37:04,200] and we have a neutral gauge boson
+- [00:37:04,200 - 00:37:07,200] that's emitting d-bar quarks
+- [00:37:07,200 - 00:37:10,200] becoming d-bar quarks
+- [00:37:10,200 - 00:37:12,700] perhaps the third one here makes
+- [00:37:12,700 - 00:37:15,200] a transition to the second one
+- [00:37:15,200 - 00:37:16,200] or whatever
+- [00:37:16,200 - 00:37:23,200] and that means the emission of gluons
+- [00:37:23,200 - 00:37:24,700] which we also learned to think
+- [00:37:24,700 - 00:37:26,200] about in a slightly different way
+- [00:37:26,200 - 00:37:29,200] think of the gluon that's emitted
+- [00:37:29,200 - 00:37:32,200] the d-bar quark goes through
+- [00:37:32,200 - 00:37:33,200] the d-quark here
+- [00:37:33,200 - 00:37:35,200] and turns around in time
+- [00:37:35,200 - 00:37:37,200] I'm using a
+- [00:37:37,200 - 00:37:38,200] you know
+- [00:37:38,200 - 00:37:40,200] a metaphorical language
+- [00:37:40,200 - 00:37:43,200] when it turns around in time it becomes a d-quark
+- [00:37:43,200 - 00:37:48,200] and so the quantum numbers of the gluon here
+- [00:37:48,200 - 00:37:53,200] have the quantum numbers of a d-d-bar system
+- [00:37:53,200 - 00:37:57,200] of a particle and an antiparticle
+- [00:37:57,200 - 00:37:59,200] in other words
+- [00:37:59,200 - 00:38:01,200] they belong to
+- [00:38:01,200 - 00:38:03,200] with respect to s-u-3
+- [00:38:03,200 - 00:38:05,200] where did I write it
+- [00:38:05,200 - 00:38:09,200] n cross n-bar
+- [00:38:09,200 - 00:38:11,200] the adjoint
+- [00:38:11,200 - 00:38:16,200] the n squared minus one
+- [00:38:16,200 - 00:38:18,200] members of the adjoint
+- [00:38:18,200 - 00:38:20,700] the gluon is an object
+- [00:38:20,700 - 00:38:23,200] which lives in the adjoint representation
+- [00:38:23,200 - 00:38:25,200] the quark
+- [00:38:25,200 - 00:38:27,200] or the anti-quark in this case
+- [00:38:27,200 - 00:38:31,200] belongs to the three-dimensional representation of s-u-3
+- [00:38:31,200 - 00:38:32,200] but
+- [00:38:32,200 - 00:38:34,200] there are new things
+- [00:38:34,200 - 00:38:36,200] new kinds of
+- [00:38:36,200 - 00:38:38,200] gauge bosons that have to exist now
+- [00:38:38,200 - 00:38:40,200] if we're going to try to unify
+- [00:38:40,200 - 00:38:43,200] s-u-3 cross s-u-2 cross s-u-1 into s-u-5
+- [00:38:43,200 - 00:38:44,200] namely
+- [00:38:44,200 - 00:38:47,200] transitions which take d
+- [00:38:47,200 - 00:38:48,200] anti-ds
+- [00:38:48,200 - 00:38:49,200] let's draw that
+- [00:38:49,200 - 00:38:51,200] an anti-d
+- [00:38:51,200 - 00:38:52,200] to
+- [00:38:52,200 - 00:38:55,200] an electron let's say
+- [00:38:55,200 - 00:38:57,200] this would be the emission of something
+- [00:38:57,200 - 00:39:00,200] what would the charge of that thing be
+- [00:39:00,200 - 00:39:01,200] one
+- [00:39:01,200 - 00:39:02,200] let's see
+- [00:39:02,200 - 00:39:04,200] d-bar has a charge of a third
+- [00:39:04,200 - 00:39:07,200] this one has charge of minus one
+- [00:39:09,200 - 00:39:11,200] four thirds right
+- [00:39:11,200 - 00:39:13,200] four thirds or minus four thirds
+- [00:39:13,200 - 00:39:14,200] four thirds
+- [00:39:14,200 - 00:39:16,200] four thirds
+- [00:39:16,200 - 00:39:19,200] this would have a charge of four thirds
+- [00:39:19,200 - 00:39:22,200] and I can never remember
+- [00:39:22,200 - 00:39:23,700] whether this one is called
+- [00:39:23,700 - 00:39:25,200] the x or the y boson
+- [00:39:25,200 - 00:39:27,200] it's one or the other
+- [00:39:27,200 - 00:39:29,200] I do not remember which
+- [00:39:29,200 - 00:39:30,200] there are x bosons
+- [00:39:30,200 - 00:39:32,200] I think this one is the x boson
+- [00:39:32,200 - 00:39:34,200] but I cannot remember
+- [00:39:34,200 - 00:39:36,200] there's an x and a y
+- [00:39:36,200 - 00:39:39,200] and the y is the thing that takes
+- [00:39:39,200 - 00:39:41,200] the d-bar
+- [00:39:41,200 - 00:39:45,200] and makes a neutrino out of it
+- [00:39:45,200 - 00:39:46,200] what's its
+- [00:39:46,200 - 00:39:48,200] what is its charge
+- [00:39:48,200 - 00:39:50,200] yeah one third
+- [00:39:50,200 - 00:39:51,200] minus one third
+- [00:39:51,200 - 00:39:58,200] charge one third
+- [00:39:58,200 - 00:39:59,200] I believe that's called
+- [00:39:59,200 - 00:40:01,200] the y
+- [00:40:01,200 - 00:40:02,200] but I may have x and y backward
+- [00:40:02,200 - 00:40:03,200] I don't remember
+- [00:40:03,200 - 00:40:04,200] I meant to look it up before class
+- [00:40:04,200 - 00:40:06,200] but I forgot
+- [00:40:06,200 - 00:40:08,200] so there's the x and the y boson
+- [00:40:08,200 - 00:40:10,200] which are the new gauge bosons
+- [00:40:10,200 - 00:40:12,200] which take
+- [00:40:12,200 - 00:40:13,200] quarks
+- [00:40:13,200 - 00:40:14,200] and make leptons
+- [00:40:14,200 - 00:40:16,200] or leptons and make quarks
+- [00:40:16,200 - 00:40:17,200] there are also
+- [00:40:17,200 - 00:40:20,200] there is also the anti-particle
+- [00:40:20,200 - 00:40:21,200] of the x boson
+- [00:40:21,200 - 00:40:23,200] which has charge minus four thirds
+- [00:40:23,200 - 00:40:25,200] and the anti-particle of the y
+- [00:40:25,200 - 00:40:27,200] which has charge minus four thirds
+- [00:40:27,200 - 00:40:28,200] and the anti-particle of the y
+- [00:40:28,200 - 00:40:31,200] which has charge minus a third
+- [00:40:31,200 - 00:40:33,200] those are the new things
+- [00:40:33,200 - 00:40:35,200] we're going to have to contend with
+- [00:40:35,200 - 00:40:36,200] understand what they do
+- [00:40:36,200 - 00:40:38,200] and understand what the potential
+- [00:40:38,200 - 00:40:40,200] new kinds of interactions are
+- [00:40:40,200 - 00:40:43,200] because of this possibility
+- [00:40:43,200 - 00:40:46,200] new kinds of things in nature
+- [00:40:46,200 - 00:40:48,200] do they disturb everything
+- [00:40:48,200 - 00:40:50,200] we thought we knew about physics
+- [00:40:50,200 - 00:40:52,200] well yes they do
+- [00:40:52,200 - 00:40:54,200] but we'll see
+- [00:40:54,200 - 00:40:56,200] alright so that's the gauge bosons
+- [00:40:56,200 - 00:40:57,200] and the gauge bosons are the things
+- [00:40:57,200 - 00:40:58,200] that are going to be in the future
+- [00:40:58,200 - 00:41:00,200] and the gauge bosons live in the adjoint
+- [00:41:00,200 - 00:41:04,200] which is the n cross n bar
+- [00:41:04,200 - 00:41:06,200] but the piece of it
+- [00:41:06,200 - 00:41:08,200] which has trace equal to zero
+- [00:41:08,200 - 00:41:10,200] in other words the piece of it
+- [00:41:10,200 - 00:41:12,200] which has dimensionality n squared minus one
+- [00:41:12,200 - 00:41:14,200] if you're not comfortable with this
+- [00:41:14,200 - 00:41:16,200] n squared minus one just ignore it
+- [00:41:16,200 - 00:41:18,200] just n squared will do
+- [00:41:18,200 - 00:41:20,200] ok
+- [00:41:20,200 - 00:41:22,200] it's close enough to the truth
+- [00:41:22,200 - 00:41:24,200] it will give you one extra particle
+- [00:41:24,200 - 00:41:26,200] one out of twenty five big deal
+- [00:41:26,200 - 00:41:28,200] are there three x's in the gauge boson?
+- [00:41:28,200 - 00:41:30,200] uh
+- [00:41:30,200 - 00:41:32,200] mhm mhm mhm good
+- [00:41:32,200 - 00:41:34,200] the x bo that's right
+- [00:41:34,200 - 00:41:36,200] the x bosons
+- [00:41:36,200 - 00:41:38,200] and y bosons have color
+- [00:41:38,200 - 00:41:40,200] why?
+- [00:41:40,200 - 00:41:42,200] the d particles the d quarks
+- [00:41:42,200 - 00:41:44,200] or d bar quarks have color
+- [00:41:44,200 - 00:41:46,200] the electrons don't
+- [00:41:46,200 - 00:41:48,200] and so the
+- [00:41:48,200 - 00:41:50,200] the conserved color
+- [00:41:50,200 - 00:41:52,200] the x bosons and the y bosons
+- [00:41:52,200 - 00:41:54,200] must have color
+- [00:41:54,200 - 00:41:56,200] that means that they themselves
+- [00:41:56,200 - 00:41:58,200] can emit and absorb
+- [00:41:58,200 - 00:42:00,200] gluons
+- [00:42:00,200 - 00:42:02,200] they like the quarks
+- [00:42:02,200 - 00:42:04,200] are strongly interacting things
+- [00:42:04,200 - 00:42:06,200] which combine together by gluon
+- [00:42:06,200 - 00:42:08,200] exchange and so forth
+- [00:42:08,200 - 00:42:10,200] so
+- [00:42:10,200 - 00:42:12,200] these particles
+- [00:42:12,200 - 00:42:14,200] are among the particles
+- [00:42:14,200 - 00:42:16,200] which carry color
+- [00:42:16,200 - 00:42:18,200] and like quarks
+- [00:42:18,200 - 00:42:20,200] they are never completely released freely in a reaction
+- [00:42:20,200 - 00:42:22,200] they always
+- [00:42:22,200 - 00:42:24,200] come together
+- [00:42:24,200 - 00:42:26,200] in combinations with quarks
+- [00:42:26,200 - 00:42:28,200] or with other things or with themselves
+- [00:42:28,200 - 00:42:30,200] and so they have integer charge
+- [00:42:30,200 - 00:42:32,200] alright so they're just like quarks in that respect
+- [00:42:32,200 - 00:42:34,200] alright but we're missing
+- [00:42:34,200 - 00:42:36,200] more than half the fermions
+- [00:42:36,200 - 00:42:38,200] where are we going to put them?
+- [00:42:38,200 - 00:42:40,200] well we could put them in another
+- [00:42:40,200 - 00:42:42,200] oh oh one important point
+- [00:42:42,200 - 00:42:44,200] yeah
+- [00:42:44,200 - 00:42:46,200] one important point
+- [00:42:46,200 - 00:42:48,200] electric charge
+- [00:42:48,200 - 00:42:50,200] the quantum numbers of particles
+- [00:42:50,200 - 00:42:52,200] in a theory like this
+- [00:42:52,200 - 00:42:54,200] are related to the generators of the group
+- [00:42:54,200 - 00:42:56,200] so
+- [00:42:56,200 - 00:42:58,200] the generators of the group
+- [00:42:58,200 - 00:43:00,200] the generators of the group
+- [00:43:00,200 - 00:43:02,200] are the traceless
+- [00:43:02,200 - 00:43:04,200] Hermitian matrices
+- [00:43:04,200 - 00:43:06,200] the n by n traceless
+- [00:43:06,200 - 00:43:08,200] Hermitian matrices
+- [00:43:08,200 - 00:43:10,200] which in fact are in one to one correspondence
+- [00:43:10,200 - 00:43:12,200] with the adjoint representation
+- [00:43:12,200 - 00:43:14,200] the
+- [00:43:14,200 - 00:43:16,200] the generators of the group
+- [00:43:16,200 - 00:43:18,200] are traceless Hermitian matrices
+- [00:43:18,200 - 00:43:20,200] how many independent traceless
+- [00:43:20,200 - 00:43:22,200] Hermitian matrices are there
+- [00:43:22,200 - 00:43:24,200] of dimension n
+- [00:43:26,200 - 00:43:28,200] n squared minus one
+- [00:43:28,200 - 00:43:30,200] n squared minus one
+- [00:43:30,200 - 00:43:32,200] so actually the generators of the group
+- [00:43:32,200 - 00:43:34,200] are in one to one correspondence
+- [00:43:34,200 - 00:43:36,200] with the adjoint representation
+- [00:43:36,200 - 00:43:38,200] and in fact the generators of the group
+- [00:43:38,200 - 00:43:40,200] are intimately connected
+- [00:43:40,200 - 00:43:42,200] with gauge boson emission
+- [00:43:42,200 - 00:43:48,200] one of the generators of the group
+- [00:43:48,200 - 00:43:50,200] has to
+- [00:43:50,200 - 00:43:52,200] be associated must be the quantum mechanical
+- [00:43:52,200 - 00:43:54,200] operator which represents
+- [00:43:54,200 - 00:43:56,200] electric charge
+- [00:43:56,200 - 00:43:58,200] electric charge
+- [00:43:58,200 - 00:44:00,200] is one since
+- [00:44:00,200 - 00:44:02,200] photons are included
+- [00:44:02,200 - 00:44:04,200] among the things which can be emitted
+- [00:44:04,200 - 00:44:06,200] here we are
+- [00:44:06,200 - 00:44:08,200] talking about a theory that contains
+- [00:44:08,200 - 00:44:10,200] electric charge among
+- [00:44:10,200 - 00:44:12,200] the generators of the group
+- [00:44:12,200 - 00:44:14,200] or among the quantum
+- [00:44:14,200 - 00:44:16,200] numbers associated with those generators
+- [00:44:16,200 - 00:44:18,200] now there's only
+- [00:44:18,200 - 00:44:20,200] one thing that you need to know to
+- [00:44:20,200 - 00:44:22,200] understand why I put d bar there
+- [00:44:22,200 - 00:44:24,200] instead of something else
+- [00:44:24,200 - 00:44:26,200] and that's that the trace of the generators
+- [00:44:26,200 - 00:44:28,200] is zero
+- [00:44:28,200 - 00:44:30,200] the trace of the generators is always zero
+- [00:44:30,200 - 00:44:32,200] the implication of that
+- [00:44:32,200 - 00:44:34,200] is that the sums of the charge
+- [00:44:34,200 - 00:44:36,200] or the sums of the quantum numbers
+- [00:44:36,200 - 00:44:38,200] within a given representation
+- [00:44:38,200 - 00:44:40,200] always add up to zero
+- [00:44:40,200 - 00:44:42,200] that is a general rule
+- [00:44:42,200 - 00:44:44,200] for special
+- [00:44:44,200 - 00:44:46,200] for S-U-N groups
+- [00:44:46,200 - 00:44:48,200] for groups
+- [00:44:48,200 - 00:44:50,200] which are defined in a way
+- [00:44:50,200 - 00:44:52,200] which
+- [00:44:52,200 - 00:44:54,200] the generators of the group
+- [00:44:54,200 - 00:44:56,200] are in a way
+- [00:44:56,200 - 00:44:58,200] that the generators are traceless
+- [00:44:58,200 - 00:45:00,200] have zero trace
+- [00:45:00,200 - 00:45:02,200] the generators having zero trace
+- [00:45:02,200 - 00:45:03,200] what was that connected to
+- [00:45:03,200 - 00:45:04,200] in terms of the unitary matrices
+- [00:45:06,200 - 00:45:08,200] that was their specialness
+- [00:45:08,200 - 00:45:10,200] specialness means determinant one
+- [00:45:10,200 - 00:45:12,200] for the U's
+- [00:45:12,200 - 00:45:14,200] that means trace equals
+- [00:45:14,200 - 00:45:16,200] zero for the generators
+- [00:45:16,200 - 00:45:18,200] trace equals zero is another way
+- [00:45:18,200 - 00:45:20,200] of saying that
+- [00:45:20,200 - 00:45:22,200] every quantum number that's described
+- [00:45:22,200 - 00:45:24,200] by this group
+- [00:45:24,200 - 00:45:26,200] within a given multiplet must add
+- [00:45:26,200 - 00:45:28,200] up to zero
+- [00:45:28,200 - 00:45:30,200] okay, supposing I had put
+- [00:45:30,200 - 00:45:32,200] the d quark here instead
+- [00:45:32,200 - 00:45:34,200] alright, let's add up
+- [00:45:34,200 - 00:45:36,200] the charges of all the entries
+- [00:45:36,200 - 00:45:38,200] charge zero
+- [00:45:38,200 - 00:45:40,200] minus one
+- [00:45:40,200 - 00:45:42,200] minus two
+- [00:45:42,200 - 00:45:44,200] d bar has charge
+- [00:45:44,200 - 00:45:46,200] minus a third
+- [00:45:46,200 - 00:45:48,200] okay
+- [00:45:48,200 - 00:45:50,200] doesn't work
+- [00:45:50,200 - 00:45:52,200] doesn't work, you could not embed
+- [00:45:52,200 - 00:45:54,200] the electric charge
+- [00:45:54,200 - 00:45:56,200] into the charge
+- [00:45:56,200 - 00:45:58,200] into the generators of SU5
+- [00:45:58,200 - 00:46:00,200] if you tried to put d here
+- [00:46:00,200 - 00:46:02,200] put d bar
+- [00:46:04,200 - 00:46:06,200] electric charge of minus one
+- [00:46:06,200 - 00:46:08,200] and then three times
+- [00:46:08,200 - 00:46:10,200] plus a third
+- [00:46:10,200 - 00:46:12,200] so the charges add up to zero
+- [00:46:12,200 - 00:46:14,200] okay
+- [00:46:14,200 - 00:46:16,200] that's a
+- [00:46:16,200 - 00:46:18,200] that is a mathematical
+- [00:46:18,200 - 00:46:20,200] well
+- [00:46:20,200 - 00:46:22,200] it's the mathematics
+- [00:46:22,200 - 00:46:24,200] of why I put d bar here
+- [00:46:24,200 - 00:46:26,200] in order to get the sums of the charges
+- [00:46:26,200 - 00:46:28,200] add up to zero
+- [00:46:28,200 - 00:46:30,200] okay, now let's talk about
+- [00:46:30,200 - 00:46:32,200] well, okay
+- [00:46:32,200 - 00:46:34,200] let's talk about now the other
+- [00:46:34,200 - 00:46:36,200] fermions which we left out so far
+- [00:46:36,200 - 00:46:38,200] let me show you how to
+- [00:46:38,200 - 00:46:40,200] construct another
+- [00:46:40,200 - 00:46:42,200] representation
+- [00:46:46,200 - 00:46:48,200] this is just
+- [00:46:48,200 - 00:46:50,200] a bit of gymnastics
+- [00:46:50,200 - 00:46:52,200] to do the group theory in a simple way
+- [00:46:52,200 - 00:46:54,200] alright, to do the group theory in a way
+- [00:46:54,200 - 00:46:56,200] that's easy to explain
+- [00:46:56,200 - 00:46:58,200] what you do
+- [00:46:58,200 - 00:47:00,200] you could try to build representations
+- [00:47:00,200 - 00:47:02,200] this is the n
+- [00:47:02,200 - 00:47:04,200] or this is the five dimensional representation
+- [00:47:04,200 - 00:47:06,200] the defining representation
+- [00:47:06,200 - 00:47:08,200] we could start taking things like
+- [00:47:08,200 - 00:47:10,200] five cross five
+- [00:47:10,200 - 00:47:12,200] and see what we get
+- [00:47:12,200 - 00:47:14,200] it would be a good thing to do
+- [00:47:14,200 - 00:47:16,200] but I'm going to do something slightly different
+- [00:47:16,200 - 00:47:18,200] I'm going to begin with the five bar
+- [00:47:18,200 - 00:47:20,200] and multiply it by the five bar
+- [00:47:20,200 - 00:47:22,200] and multiply it by the five bar
+- [00:47:22,200 - 00:47:24,200] alright, so what's the five bar
+- [00:47:24,200 - 00:47:26,200] the five bar
+- [00:47:26,200 - 00:47:28,200] is the collection
+- [00:47:28,200 - 00:47:30,200] is the column vector
+- [00:47:30,200 - 00:47:32,200] describing the anti-particles
+- [00:47:32,200 - 00:47:34,200] of this collection, this is the five
+- [00:47:34,200 - 00:47:36,200] let's write down
+- [00:47:36,200 - 00:47:38,200] what the five bar is
+- [00:47:40,200 - 00:47:42,200] the five bar
+- [00:47:42,200 - 00:47:44,200] is just the anti-particles
+- [00:47:44,200 - 00:47:46,200] anti-neutrino
+- [00:47:46,200 - 00:47:48,200] electron
+- [00:47:48,200 - 00:47:50,200] d d d
+- [00:47:50,200 - 00:47:52,200] let's not worry about the handedness
+- [00:47:52,200 - 00:47:54,200] we're not worrying about now handedness
+- [00:47:54,200 - 00:47:56,200] we're only worried about
+- [00:47:56,200 - 00:47:58,200] we're only thinking about
+- [00:47:58,200 - 00:48:00,200] group theory now
+- [00:48:00,200 - 00:48:02,200] this is a trick for doing
+- [00:48:02,200 - 00:48:04,200] some group theory
+- [00:48:04,200 - 00:48:06,200] alright, now let's consider
+- [00:48:06,200 - 00:48:08,200] five bar cross five bar
+- [00:48:08,200 - 00:48:10,200] E plus
+- [00:48:10,200 - 00:48:12,200] E plus, sorry
+- [00:48:12,200 - 00:48:14,200] E plus
+- [00:48:14,200 - 00:48:16,200] anti-particle
+- [00:48:16,200 - 00:48:18,200] we're just, as I said
+- [00:48:18,200 - 00:48:20,200] we're just doing some mathematics now
+- [00:48:20,200 - 00:48:22,200] to see how group representations combine
+- [00:48:22,200 - 00:48:24,200] let's consider the five bar
+- [00:48:24,200 - 00:48:26,200] cross the five bar
+- [00:48:26,200 - 00:48:28,200] five bar
+- [00:48:28,200 - 00:48:30,200] five bar
+- [00:48:30,200 - 00:48:32,200] cross five bar
+- [00:48:32,200 - 00:48:34,200] to describe it we could make
+- [00:48:34,200 - 00:48:36,200] a matrix
+- [00:48:36,200 - 00:48:38,200] we could make a matrix of entries
+- [00:48:38,200 - 00:48:40,200] I'll show you how to do it
+- [00:48:42,200 - 00:48:44,200] these are going to be five by five matrices
+- [00:48:44,200 - 00:48:46,200] but I kind of want to
+- [00:48:46,200 - 00:48:48,200] separate the fiveness
+- [00:48:48,200 - 00:48:50,200] into two-ness and three-ness
+- [00:48:50,200 - 00:48:52,200] so let's put some
+- [00:48:52,200 - 00:48:54,200] partitions here
+- [00:48:54,200 - 00:48:56,200] these are two by two, this is three by three
+- [00:48:56,200 - 00:48:58,200] this is two by three, this is three by two
+- [00:48:58,200 - 00:49:00,200] okay, just to
+- [00:49:00,200 - 00:49:02,200] guide the eye
+- [00:49:02,200 - 00:49:04,200] and let's
+- [00:49:04,200 - 00:49:06,200] make some labels
+- [00:49:06,200 - 00:49:08,200] this is five bar cross five bar
+- [00:49:08,200 - 00:49:10,200] so we should label
+- [00:49:10,200 - 00:49:12,200] horizontally
+- [00:49:12,200 - 00:49:14,200] across here, I'm going to put exactly
+- [00:49:14,200 - 00:49:16,200] what I see here, neutrino
+- [00:49:16,200 - 00:49:18,200] electron plus
+- [00:49:18,200 - 00:49:20,200] d d d
+- [00:49:20,200 - 00:49:22,200] d d
+- [00:49:22,200 - 00:49:24,200] um
+- [00:49:24,200 - 00:49:26,200] neutrino, electron plus
+- [00:49:26,200 - 00:49:28,200] d d d
+- [00:49:28,200 - 00:49:30,200] d d
+- [00:49:30,200 - 00:49:32,200] five bar cross five bar
+- [00:49:32,200 - 00:49:34,200] and also
+- [00:49:34,200 - 00:49:36,200] I also want to partition these things up
+- [00:49:36,200 - 00:49:38,200] so that I
+- [00:49:48,200 - 00:49:50,200] one two three
+- [00:49:50,200 - 00:49:52,200] four five, one two
+- [00:49:52,200 - 00:49:54,200] three four five
+- [00:49:54,200 - 00:49:56,200] okay, now
+- [00:49:56,200 - 00:49:58,200] I imagine
+- [00:49:58,200 - 00:50:00,200] this is only to be imagined
+- [00:50:00,200 - 00:50:02,200] it has nothing to do with the truth
+- [00:50:02,200 - 00:50:04,200] but let's suppose I made some
+- [00:50:04,200 - 00:50:06,200] composite objects
+- [00:50:06,200 - 00:50:08,200] in each one of these
+- [00:50:08,200 - 00:50:10,200] entries
+- [00:50:10,200 - 00:50:12,200] I will put a composite object
+- [00:50:12,200 - 00:50:14,200] which has the quantum numbers
+- [00:50:14,200 - 00:50:16,200] of the two
+- [00:50:16,200 - 00:50:18,200] of the row and the column
+- [00:50:18,200 - 00:50:20,200] and let's see what
+- [00:50:20,200 - 00:50:22,200] kind of objects you make
+- [00:50:22,200 - 00:50:24,200] oh, sorry, one more thing
+- [00:50:24,200 - 00:50:26,200] one more thing
+- [00:50:26,200 - 00:50:28,200] remember I told you
+- [00:50:28,200 - 00:50:30,200] when you take the n cross n
+- [00:50:30,200 - 00:50:32,200] representation
+- [00:50:32,200 - 00:50:34,200] you can take it symmetrically
+- [00:50:34,200 - 00:50:36,200] or anti-symmetrically
+- [00:50:36,200 - 00:50:38,200] same thing with the n bar
+- [00:50:38,200 - 00:50:40,200] cross n bar
+- [00:50:40,200 - 00:50:42,200] symmetric combinations or anti-symmetric
+- [00:50:42,200 - 00:50:44,200] combinations
+- [00:50:44,200 - 00:50:46,200] we're going to take the five bar
+- [00:50:46,200 - 00:50:48,200] cross five bar
+- [00:50:48,200 - 00:50:50,200] anti-symmetric
+- [00:50:50,200 - 00:50:52,200] anti-symmetric
+- [00:50:52,200 - 00:50:54,200] anti
+- [00:50:54,200 - 00:50:56,200] alright
+- [00:50:56,200 - 00:50:58,200] so the first implication
+- [00:50:58,200 - 00:51:00,200] is that we only put
+- [00:51:00,200 - 00:51:02,200] we put zeros on the diagonals
+- [00:51:02,200 - 00:51:04,200] that means
+- [00:51:04,200 - 00:51:06,200] there will be no particles
+- [00:51:06,200 - 00:51:08,200] in this representation
+- [00:51:08,200 - 00:51:10,200] with quantum
+- [00:51:10,200 - 00:51:12,200] numbers that belong on the diagonal
+- [00:51:12,200 - 00:51:14,200] secondly
+- [00:51:14,200 - 00:51:16,200] the lower half
+- [00:51:16,200 - 00:51:18,200] triangle just replicates
+- [00:51:18,200 - 00:51:20,200] the upper half triangle with a minus sign
+- [00:51:20,200 - 00:51:22,200] so they're not independent objects
+- [00:51:22,200 - 00:51:24,200] they're the same
+- [00:51:24,200 - 00:51:26,200] they're the same things except for the minus sign
+- [00:51:26,200 - 00:51:28,200] they're not new
+- [00:51:28,200 - 00:51:30,200] particle states
+- [00:51:30,200 - 00:51:32,200] alright, the only independent
+- [00:51:32,200 - 00:51:34,200] particle states go here, here, here
+- [00:51:34,200 - 00:51:36,200] here, here, here, here, here, here
+- [00:51:36,200 - 00:51:38,200] and here, and here
+- [00:51:38,200 - 00:51:40,200] let's see what the quantum numbers are
+- [00:51:40,200 - 00:51:42,200] in particular the electric charge
+- [00:51:42,200 - 00:51:44,200] all we need is the electric charge
+- [00:51:44,200 - 00:51:46,200] the electric charge which goes here
+- [00:51:46,200 - 00:51:48,200] will be the electric charge of a neutrino
+- [00:51:48,200 - 00:51:50,200] plus a positron
+- [00:51:50,200 - 00:51:52,200] what particle has the quantum numbers
+- [00:51:52,200 - 00:51:54,200] of a, quantum numbers now
+- [00:51:54,200 - 00:51:56,200] just mean electric charge
+- [00:51:56,200 - 00:51:58,200] what particle in the table
+- [00:51:58,200 - 00:52:00,200] of all of these
+- [00:52:00,200 - 00:52:02,200] have the electric charge
+- [00:52:02,200 - 00:52:04,200] of a neutrino and a positron
+- [00:52:04,200 - 00:52:06,200] a positron
+- [00:52:06,200 - 00:52:08,200] neutrino is neutral
+- [00:52:08,200 - 00:52:10,200] so over here in this place
+- [00:52:10,200 - 00:52:12,200] we put E plus
+- [00:52:12,200 - 00:52:14,200] now
+- [00:52:14,200 - 00:52:16,200] always the left handed particle
+- [00:52:16,200 - 00:52:18,200] this is
+- [00:52:18,200 - 00:52:20,200] this was a trick to construct some group theory
+- [00:52:20,200 - 00:52:22,200] but we will always be talking
+- [00:52:22,200 - 00:52:24,200] about left handed particles
+- [00:52:24,200 - 00:52:26,200] all of this is left handed
+- [00:52:26,200 - 00:52:28,200] ok, what about a neutrino
+- [00:52:28,200 - 00:52:30,200] and a down quark
+- [00:52:30,200 - 00:52:32,200] neutrino is neutral
+- [00:52:32,200 - 00:52:34,200] so let's put here
+- [00:52:34,200 - 00:52:36,200] down quark, down quark
+- [00:52:36,200 - 00:52:38,200] down quark
+- [00:52:38,200 - 00:52:40,200] the three colors
+- [00:52:40,200 - 00:52:42,200] of down quarks
+- [00:52:42,200 - 00:52:44,200] incidentally
+- [00:52:44,200 - 00:52:46,200] this here was just an auxiliary
+- [00:52:46,200 - 00:52:48,200] construction
+- [00:52:48,200 - 00:52:50,200] we're not putting particles
+- [00:52:50,200 - 00:52:52,200] into the five bar
+- [00:52:52,200 - 00:52:54,200] this was just an auxiliary construction
+- [00:52:54,200 - 00:52:56,200] so that I could show you what the five bar
+- [00:52:56,200 - 00:52:58,200] looks like
+- [00:52:58,200 - 00:53:00,200] let's erase this
+- [00:53:00,200 - 00:53:02,200] so we don't get confused
+- [00:53:02,200 - 00:53:04,200] ok, what particle has the
+- [00:53:04,200 - 00:53:06,200] electric charge of a positron
+- [00:53:06,200 - 00:53:08,200] and a d quark
+- [00:53:08,200 - 00:53:10,200] positron
+- [00:53:10,200 - 00:53:12,200] x
+- [00:53:12,200 - 00:53:14,200] an x
+- [00:53:14,200 - 00:53:16,200] no no no no
+- [00:53:16,200 - 00:53:18,200] among the fermions
+- [00:53:18,200 - 00:53:20,200] here we're just talking about the fermions
+- [00:53:22,200 - 00:53:24,200] no no, we're talking about the fermions
+- [00:53:24,200 - 00:53:26,200] what particles have
+- [00:53:26,200 - 00:53:28,200] the quantum numbers of a down quark
+- [00:53:28,200 - 00:53:30,200] among these here, this is all we're talking about
+- [00:53:30,200 - 00:53:32,200] now, we're trying to construct
+- [00:53:32,200 - 00:53:34,200] up bar
+- [00:53:34,200 - 00:53:36,200] is it up bar? no, I think it's up
+- [00:53:36,200 - 00:53:38,200] up
+- [00:53:38,200 - 00:53:40,200] charge
+- [00:53:40,200 - 00:53:42,200] one minus a third
+- [00:53:42,200 - 00:53:44,200] is two thirds
+- [00:53:44,200 - 00:53:46,200] that's the up quark
+- [00:53:50,200 - 00:53:52,200] this is zero
+- [00:53:52,200 - 00:53:54,200] not u
+- [00:53:56,200 - 00:53:58,200] ok, what about a down quark
+- [00:53:58,200 - 00:54:00,200] ah, what about a down quark
+- [00:54:00,200 - 00:54:02,200] and a down quark
+- [00:54:08,200 - 00:54:10,200] that's two thirds
+- [00:54:10,200 - 00:54:12,200] no no
+- [00:54:12,200 - 00:54:14,200] it's minus two thirds
+- [00:54:14,200 - 00:54:16,200] down quark has charge
+- [00:54:16,200 - 00:54:18,200] minus a third
+- [00:54:18,200 - 00:54:20,200] this has charge
+- [00:54:20,200 - 00:54:22,200] minus two thirds
+- [00:54:22,200 - 00:54:24,200] what's it going to be?
+- [00:54:24,200 - 00:54:26,200] anti-up quark
+- [00:54:26,200 - 00:54:28,200] two thirds
+- [00:54:28,200 - 00:54:30,200] what's it going to be?
+- [00:54:30,200 - 00:54:32,200] a down quark
+- [00:54:32,200 - 00:54:34,200] two thirds
+- [00:54:34,200 - 00:54:36,200] power
+- [00:54:36,200 - 00:54:38,200] and a down quark
+- [00:54:38,200 - 00:54:40,200] two thirds
+- [00:54:40,200 - 00:54:42,200] power
+- [00:54:42,200 - 00:54:44,200] and a down quark
+- [00:54:44,200 - 00:54:46,200] power
+- [00:54:46,200 - 00:54:48,200] power
+- [00:54:48,200 - 00:54:50,200] power
+- [00:54:50,200 - 00:54:52,200] power
+- [00:54:52,200 - 00:54:54,200] power
+- [00:54:54,200 - 00:54:56,200] power
+- [00:54:56,200 - 00:55:03,569] So the statement is that this entire collection of particles has the structure,
+- [00:55:03,569 - 00:55:10,939] with respect to its quantum numbers, of a 5 and a 10 bar.
+- [00:55:10,940 - 00:55:18,780] This is actually a rather remarkable fact, that
+- [00:55:18,780 - 00:55:26,620] the particles fit so neatly into representations of SU5.
+- [00:55:26,620 - 00:55:33,350] You may find it a little bit awkward
+- [00:55:33,350 - 00:55:40,080] that half the particles belong to a 10-dimensional representation,
+- [00:55:40,620 - 00:55:40,770] not half, but half of the
+- [00:55:40,770 - 00:55:40,920] particles belong to a 10-dimensional representation.
+- [00:55:40,920 - 00:55:40,930] Not half, but half of the
+- [00:55:40,930 - 00:55:40,940] particles belong to a 10-dimensional representation.
+- [00:55:40,940 - 00:55:40,990] Not half, but half of the
+- [00:55:40,990 - 00:55:41,040] particles belong to a 10-dimensional representation.
+- [00:55:41,040 - 00:55:41,070] Not half, but half of the
+- [00:55:41,070 - 00:55:41,100] particles belong to a 10-dimensional representation.
+- [00:55:41,100 - 00:55:41,200] Not half, but half of the
+- [00:55:41,200 - 00:55:41,300] particles belong to a 10-dimensional representation.
+- [00:55:41,300 - 00:55:41,320] What happens when I multiply, if we have a 5 or
+- [00:55:41,320 - 00:55:41,340] a 10 bar, both 3 and half belong to a 5.
+- [00:55:41,340 - 00:55:41,370] What happens when I multiply, if we have a 5 or
+- [00:55:41,370 - 00:55:41,400] a 10 bar, both 3 and half belong to a 5.
+- [00:55:41,400 - 00:55:41,610] What happens when I multiply, if we have a 5 or
+- [00:55:41,610 - 00:55:41,820] a 10 bar, both 3 and half belong to a 5.
+- [00:55:42,120 - 00:55:44,450] The first toars belong to this 10
+- [00:55:44,450 - 00:55:46,780] bar and the third belongs to this 5.
+- [00:55:46,780 - 00:55:52,120] There is a bigger unification that is possible
+- [00:55:52,120 - 00:55:57,460] into a group bigger than this, but contains SU5.
+- [00:55:57,460 - 00:55:57,530] A group tooar and one more İstanbul Mix-In 010
+- [00:55:57,530 - 00:55:57,600] harvesting donation, but contains 010 collection she had to add.
+- [00:55:57,600 - 00:55:57,810] All the other particles are all
+- [00:55:57,810 - 00:55:58,020] made from the same representation from 10.
+- [00:55:58,020 - 00:56:02,160] called O10. All of these particles are
+- [00:56:02,160 - 00:56:06,300] in one representation of O10, but you have
+- [00:56:06,300 - 00:56:09,279] to add one more particle in O10,
+- [00:56:09,279 - 00:56:12,259] and it's the antiparticle of the neutrino. But
+- [00:56:12,259 - 00:56:14,449] we're not going to, if we get to it,
+- [00:56:14,449 - 00:56:16,640] we'll get to it. But for the moment, this is
+- [00:56:16,640 - 00:56:19,120] what's called SU unification of particles.
+- [00:56:19,120 - 00:56:21,600] Okay, any questions up till now?
+- [00:56:21,600 - 00:56:24,500] Yeah?
+- [00:56:24,500 - 00:56:34,540] In the SU particles are there in the column matrix.
+- [00:56:34,540 - 00:56:36,340] Well this set of particles are there in
+- [00:56:36,340 - 00:56:38,140] the column matrix. This set of particles are in
+- [00:56:38,140 - 00:56:40,140] an anti-symmetric matrix.
+- [00:56:40,140 - 00:56:45,460] In the 10 bar, what's the column matrix?
+- [00:56:45,460 - 00:56:46,460] What's the what?
+- [00:56:46,460 - 00:56:47,460] What is the column matrix?
+- [00:56:47,460 - 00:56:50,620] Oh, just take these in any order that
+- [00:56:50,620 - 00:56:53,780] you like and line them up vertically. It's
+- [00:56:53,780 - 00:56:54,480] better to think of it like this.
+- [00:56:54,480 - 00:56:56,890] Think of it as a matrix. It's better to
+- [00:56:56,890 - 00:56:59,300] think of it a matrix, but there's nothing to prevent
+- [00:56:59,300 - 00:57:03,840] you from taking them and lining them up
+- [00:57:03,840 - 00:57:08,380] into a 10 plat. But the transformation matrices
+- [00:57:08,380 - 00:57:11,920] which act on that 10 plat are not the
+- [00:57:11,920 - 00:57:15,460] full set of SU matrices. It's a smaller set
+- [00:57:15,460 - 00:57:19,210] of matrices than that. But it's better to think
+- [00:57:19,210 - 00:57:22,960] of it as a matrix. When you start combining
+- [00:57:22,960 - 00:57:24,480] representations together..
+- [00:57:24,480 - 00:57:27,460] You can always think of them as columns if you like,
+- [00:57:27,460 - 00:57:30,440] just by taking them and just laying them out in a column.
+- [00:57:30,820 - 00:57:35,280] But it's often much more convenient to think of them as
+- [00:57:35,280 - 00:57:39,740] matrices, the transform as matrices, rather than the transform as column vectors.
+- [00:57:39,740 - 00:57:44,960] All right, so this is the breakdown of the particle
+- [00:57:44,960 - 00:57:50,180] multiplets into a 5 and a 10 bar of SU5.
+- [00:57:51,160 - 00:57:51,800] Now, yeah.
+- [00:57:51,800 - 00:57:54,650] In the third row and the fifth
+- [00:57:54,650 - 00:57:57,500] column, why is that up and up?
+- [00:57:57,500 - 00:58:00,680] Third row. Oh, sorry, up bar.
+- [00:58:01,940 - 00:58:03,340] Yeah, thank you.
+- [00:58:05,300 - 00:58:06,870] You also admitted the colors.
+- [00:58:06,870 - 00:58:08,440] I assume the color is conserved?
+- [00:58:09,220 - 00:58:10,600] Color is conserved.
+- [00:58:11,920 - 00:58:12,500] All right.
+- [00:58:13,760 - 00:58:15,040] Color is conserved.
+- [00:58:15,040 - 00:58:18,350] In particular, where you have the D bar, D bar, D
+- [00:58:18,350 - 00:58:21,660] bar in the columns, is one of them red, green, blue, or?
+- [00:58:21,800 - 00:58:23,460] Yeah, red, green, blue.
+- [00:58:24,380 - 00:58:30,260] This could be the red, green, blue.
+- [00:58:31,920 - 00:58:34,740] Red, green, blue.
+- [00:58:35,600 - 00:58:38,380] Red, green, blue.
+- [00:58:38,720 - 00:58:42,710] Now, what happens if you combine together
+- [00:58:42,710 - 00:58:46,700] a green quark with a blue quark?
+- [00:58:49,340 - 00:58:51,300] You get something anti-red.
+- [00:58:51,300 - 00:58:51,620] Well.
+- [00:58:51,800 - 00:58:56,400] So you would get an anti, yeah.
+- [00:58:57,860 - 00:58:58,900] So, let's see.
+- [00:58:59,000 - 00:59:02,360] So these anti-quarks here are, let's
+- [00:59:02,360 - 00:59:05,720] see, red with green would be blue.
+- [00:59:07,060 - 00:59:09,000] Red with blue would be green.
+- [00:59:09,640 - 00:59:13,100] And the green with blue would be red.
+- [00:59:13,100 - 00:59:13,800] Okay.
+- [00:59:18,260 - 00:59:18,860] Okay.
+- [00:59:18,860 - 00:59:23,740] That's the pattern of SU5.
+- [00:59:26,300 - 00:59:27,540] Any other questions?
+- [00:59:31,480 - 00:59:35,100] Now, this is quite extraordinary when you think about it.
+- [00:59:35,340 - 00:59:40,950] You're putting into one multiplet, one symmetry
+- [00:59:40,950 - 00:59:46,560] multiplet, quarks, left-handed up quarks, and left-handed anti-quarks.
+- [00:59:46,560 - 00:59:46,720] Okay.
+- [00:59:47,120 - 00:59:52,939] Into a single symmetry structure, left-handed
+- [00:59:52,939 - 00:59:58,759] up quarks and left-handed anti-quarks, up quarks.
+- [00:59:59,279 - 01:00:03,559] On the other hand, the d quark, its particle
+- [01:00:03,559 - 01:00:07,839] and anti-particle, left-handed particle and anti-particle, belong in different representations.
+- [01:00:10,319 - 01:00:12,919] Same with a positron and the electron.
+- [01:00:13,660 - 01:00:15,150] The left-handed positron and the
+- [01:00:15,150 - 01:00:16,640] left-handed electron are in different representations.
+- [01:00:16,720 - 01:00:19,519] representations. And there's the neutrino sitting all
+- [01:00:19,519 - 01:00:22,319] by itself in the five with no counterpart
+- [01:00:22,319 - 01:00:27,399] associated with an anti-neutrino. That is the
+- [01:00:27,399 - 01:00:32,480] particle content or the fermion content of the
+- [01:00:32,480 - 01:00:36,480] standard model. Okay, now let's see. Maybe
+- [01:00:36,480 - 01:00:40,480] we should take a five-minute break here. Yeah.
+- [01:00:40,480 - 01:00:43,300] You can transform within each of these, but that
+- [01:00:43,300 - 01:00:46,120] means there's no way to get from the d-bar across.
+- [01:00:47,680 - 01:00:51,440] The Higgs boson does that.
+- [01:00:51,440 - 01:00:55,200] The Higgs boson cuts across here.
+- [01:00:56,000 - 01:00:59,040] Various, the various kinds of Higgs bosons can cut
+- [01:00:59,040 - 01:01:02,080] across here. They can take left to right and
+- [01:01:03,919 - 01:01:05,279] that's sort of what's going on
+- [01:01:05,279 - 01:01:06,640] here. But let's take a five-minute break.
+- [01:01:07,520 - 01:01:11,600] Let's talk about the various gauge bosons.
+- [01:01:11,600 - 01:01:15,680] The various gauge bosons correspond to the transitions
+- [01:01:16,720 - 01:01:23,319] between these five objects. The same
+- [01:01:23,319 - 01:01:29,919] set of gauge bosons, actually they're anti-particles.
+- [01:01:29,919 - 01:01:36,359] Gauge bosons in general have charge. W's have charge.
+- [01:01:36,359 - 01:01:42,799] X's and Y's have charge. So they also have anti-particles.
+- [01:01:46,720 - 01:01:50,920] The gauge bosons mix up these five entries.
+- [01:01:50,920 - 01:01:55,120] For example, between here and here we have the
+- [01:01:59,040 - 01:02:02,399] Z, the W, and the photon, which act
+- [01:02:02,399 - 01:02:05,759] in here. And in here we have the gluons.
+- [01:02:09,919 - 01:02:12,479] The new things that we have now are the
+- [01:02:12,479 - 01:02:15,040] X and Y bosons, and the X and Y bosons
+- [01:02:16,720 - 01:02:21,200] take you this way. That's X. As I said, look
+- [01:02:21,200 - 01:02:25,680] it up. I can't remember which is X and Y.
+- [01:02:28,080 - 01:02:31,959] And Y bosons, according to my present
+- [01:02:31,959 - 01:02:35,839] convention, take you from d-bar quarks to neutrinos.
+- [01:02:37,359 - 01:02:39,959] Those are the transitions which happen
+- [01:02:39,959 - 01:02:42,560] by emission of these particular gauge bosons.
+- [01:02:44,319 - 01:02:46,160] How do those gauge bosons act?
+- [01:02:46,720 - 01:02:51,200] They act among this 10-bar. In other words, when
+- [01:02:51,200 - 01:02:55,680] a gauge boson is emitted by one of these particles,
+- [01:02:55,680 - 01:02:58,519] which one does it become? Now the way to think
+- [01:02:58,519 - 01:03:01,359] about this is that the gauge bosons can be thought
+- [01:03:01,359 - 01:03:04,719] of as shifts. In the case, some of the
+- [01:03:04,719 - 01:03:08,080] gauge bosons don't do anything. The photon, for example, takes
+- [01:03:08,080 - 01:03:10,679] an electron to an electron. So that's a
+- [01:03:10,679 - 01:03:13,279] kind of trivial shift, which doesn't take you anywhere
+- [01:03:13,279 - 01:03:14,879] as in this column. The Y bosons shift you up or
+- [01:03:14,879 - 01:03:16,480] shift you down. And then the Y bosons shift you up.
+- [01:03:16,480 - 01:03:19,280] Or shift you down. And the gluons shift you
+- [01:03:19,280 - 01:03:22,080] among red, yellow, and blue, so forth and so on.
+- [01:03:22,080 - 01:03:23,920] So think of them as kind of
+- [01:03:23,920 - 01:03:25,760] shifts, which shift you around in this space.
+- [01:03:27,200 - 01:03:31,400] Okay. What do those same gauge bosons do
+- [01:03:31,400 - 01:03:35,600] acting in this multiplet? And the answer is
+- [01:03:36,160 - 01:03:41,200] that they either take you horizontally or
+- [01:03:41,200 - 01:03:46,240] vertically according to the same pattern. For example,
+- [01:03:46,880 - 01:03:53,160] the emission of a gluon can take you this
+- [01:03:53,160 - 01:03:59,440] way, or the emission of a gluon, here's a gluon,
+- [01:03:59,440 - 01:04:02,760] gluons are down here. It can take you this way
+- [01:04:02,760 - 01:04:06,080] or it can take you this way. That's the rule
+- [01:04:06,640 - 01:04:10,360] that whatever the various gauge bosons do, the
+- [01:04:10,360 - 01:04:14,080] shifts that they make, the same thing is repeated
+- [01:04:14,080 - 01:04:14,600] here except that it can happen in the same way.
+- [01:04:14,600 - 01:04:15,120] So that's the rule. Now, let's look at the other
+- [01:04:15,120 - 01:04:15,720] things that can happen in the same way. The
+- [01:04:15,720 - 01:04:16,320] same thing is repeated here, except that it can happen
+- [01:04:16,480 - 01:04:19,560] you can either emit a gauge boson
+- [01:04:19,560 - 01:04:22,640] and go horizontally or vertically. Another way to
+- [01:04:22,640 - 01:04:27,960] think about it is to pretend, to pretend
+- [01:04:27,960 - 01:04:33,280] that these entries here really were composites of
+- [01:04:33,280 - 01:04:36,520] pairs of particles or pairs of anti-particles
+- [01:04:36,520 - 01:04:39,760] to be specific. One of the particles or
+- [01:04:39,760 - 01:04:42,480] anti-particles represents the horizontal direction,
+- [01:04:42,480 - 01:04:45,200] the other represents the vertical direction.
+- [01:04:45,200 - 01:04:48,519] And a gauge boson could be emitted from
+- [01:04:48,519 - 01:04:51,839] one or the other. If it's emitted from one,
+- [01:04:52,399 - 01:04:54,879] it takes you horizontally. If it's emitted
+- [01:04:54,879 - 01:04:57,359] from the other, it takes you vertically from
+- [01:04:57,359 - 01:05:01,679] one entry to another. So let's see
+- [01:05:01,679 - 01:05:06,000] what the, what the weak interaction gauge bosons,
+- [01:05:06,799 - 01:05:10,719] the Z and the W, for example, do. Well, they
+- [01:05:10,719 - 01:05:14,640] shift, they shift you in this upper two slots here.
+- [01:05:14,640 - 01:05:14,910] So that means that the z and the w are in the
+- [01:05:14,910 - 01:05:15,180] same place. And the z and the w are in the same place.
+- [01:05:15,180 - 01:05:17,860] So that means, let's think about what
+- [01:05:17,860 - 01:05:20,540] they do horizontally. Horizontally, they take you from
+- [01:05:21,419 - 01:05:23,699] this column to this column. Moving horizontally, they
+- [01:05:23,699 - 01:05:25,980] take you from this column to this column.
+- [01:05:26,540 - 01:05:30,500] Well, that there's not much here to do.
+- [01:05:30,500 - 01:05:34,460] The E plus doesn't do very much. Okay, but
+- [01:05:36,779 - 01:05:40,459] they can also take you vertically from this
+- [01:05:40,459 - 01:05:44,140] neutrino slot to this positron slot, which means
+- [01:05:44,140 - 01:05:44,660] they can take you in this slot. And that means that they can take
+- [01:05:44,660 - 01:05:45,180] you in this slot, and that means they can take you in this slot.
+- [01:05:45,180 - 01:05:48,420] So what's the E plus? Well, that's something
+- [01:05:48,420 - 01:05:51,660] that Z's, that's something that the W boson does.
+- [01:05:52,299 - 01:05:56,379] The W boson does take down to up. The down to
+- [01:05:56,379 - 01:06:00,460] up of the W boson is the source of beta decay.
+- [01:06:01,180 - 01:06:04,060] A down quark becomes an up quark or an up
+- [01:06:04,060 - 01:06:06,940] quark. In fact, yes, a down quark becomes an up quark
+- [01:06:07,819 - 01:06:11,179] inside a nucleon, takes a neutron to a
+- [01:06:11,179 - 01:06:14,540] proton. So the emission of a W boson
+- [01:06:15,180 - 01:06:18,420] can take a down quark to
+- [01:06:18,420 - 01:06:21,660] an up quark. That's going vertically here.
+- [01:06:23,419 - 01:06:27,379] The color group acts among red, green, and blue.
+- [01:06:27,379 - 01:06:31,339] It can act horizontally here, taking a down quark to
+- [01:06:31,339 - 01:06:34,899] another color of down quark, or an up quark to
+- [01:06:34,899 - 01:06:38,460] another color of up quark. But it can also act
+- [01:06:38,460 - 01:06:41,780] vertically here, taking this to this, and that mixes
+- [01:06:41,780 - 01:06:45,100] up the three U bar. It can take green to
+- [01:06:45,100 - 01:06:48,300] red. Suppose you want to take blue to red. How do
+- [01:06:48,300 - 01:06:51,500] you take blue to red? Well, you go over to here.
+- [01:06:51,500 - 01:06:54,340] Let's see, where are we? Remember, this is really
+- [01:06:54,340 - 01:06:57,180] an... I haven't put in the entries over here.
+- [01:06:57,740 - 01:07:02,220] The entries over here are just the negatives of
+- [01:07:02,220 - 01:07:06,700] the entries over here. If I wrote them down here,
+- [01:07:06,700 - 01:07:09,580] we could go from blue to red on this
+- [01:07:09,580 - 01:07:12,460] side directly. But okay, you can go this way,
+- [01:07:12,460 - 01:07:14,940] or you can go this way. And that's good.
+- [01:07:15,100 - 01:07:18,020] So you can see that the color acting on the U
+- [01:07:18,020 - 01:07:20,940] bar quarks, all of this is the same as in the
+- [01:07:20,940 - 01:07:24,220] standard theory. Nothing new here. The new things that I want
+- [01:07:24,220 - 01:07:27,500] to get at is what the Xs and the Ys do.
+- [01:07:28,060 - 01:07:31,060] What do the Xs and the Ys do among this
+- [01:07:31,060 - 01:07:34,060] column here? Okay, we know what they do. They take,
+- [01:07:34,060 - 01:07:37,419] for example, the X boson can take, and
+- [01:07:37,419 - 01:07:40,779] it's antiparticle, take this entry to this entry,
+- [01:07:40,779 - 01:07:42,819] if you like. All right?
+- [01:07:42,819 - 01:07:44,860] That's... What is that? That's taking
+- [01:07:45,100 - 01:07:50,060] this entry to this entry. In other words, the
+- [01:07:50,060 - 01:07:55,020] emission of an X boson can take a D bar.
+- [01:07:56,700 - 01:08:01,340] Here's a D bar coming along, emitting an
+- [01:08:01,340 - 01:08:05,980] X and becoming an electron. That's over here,
+- [01:08:05,980 - 01:08:09,260] the left hand of these particles. But exactly the
+- [01:08:09,260 - 01:08:12,540] same kind of emission can take place, let's see,
+- [01:08:15,100 - 01:08:21,939] between...this is the second to the third. So
+- [01:08:21,939 - 01:08:28,779] it's two to three, namely positron to down quark.
+- [01:08:30,620 - 01:08:33,180] Positron to down quark, which in
+- [01:08:33,180 - 01:08:35,740] terms of this constituent model over here,
+- [01:08:36,380 - 01:08:40,260] just takes this positron to a down quark.
+- [01:08:40,260 - 01:08:44,140] That's the anti-X being emitted. The anti-X being emitted
+- [01:08:44,140 - 01:08:44,540] takes...
+- [01:08:45,100 - 01:08:46,600] Positron to down quark.
+- [01:08:49,380 - 01:08:50,700] What else can happen?
+- [01:08:52,220 - 01:08:53,359] Did I get that right?
+- [01:08:53,460 - 01:08:54,720] Positron to down quark?
+- [01:08:59,359 - 01:09:00,000] Let's see.
+- [01:09:00,060 - 01:09:00,880] What can it do?
+- [01:09:06,080 - 01:09:10,800] Yeah, I guess that's down quark to positron.
+- [01:09:10,800 - 01:09:13,510] Or down quark to positron or
+- [01:09:13,510 - 01:09:16,220] the antiparticle positron to down quark.
+- [01:09:17,100 - 01:09:19,279] And that way you can figure out what
+- [01:09:19,279 - 01:09:21,460] the various emissions of X and Y bosons.
+- [01:09:21,540 - 01:09:22,720] Let's help with the Y boson.
+- [01:09:23,300 - 01:09:25,760] The Y boson takes the
+- [01:09:25,760 - 01:09:28,220] first entry to the third entry.
+- [01:09:28,979 - 01:09:32,340] The first entry, where's the first entry person over here?
+- [01:09:32,979 - 01:09:35,879] First entry over here to third entry
+- [01:09:35,879 - 01:09:38,779] takes a down quark to an anti-up quark.
+- [01:09:39,859 - 01:09:40,779] Down quark.
+- [01:09:40,960 - 01:09:41,939] To an anti-up quark.
+- [01:09:42,080 - 01:09:44,520] Also over here, down quark to anti-up quark.
+- [01:09:46,080 - 01:09:48,460] Sometimes it helps to fill in the
+- [01:09:48,460 - 01:09:50,840] rest of these columns and slots over here.
+- [01:09:51,279 - 01:09:53,180] Takes down quark to anti-up quark.
+- [01:09:53,859 - 01:09:55,180] So just go through it.
+- [01:09:55,540 - 01:09:59,850] Play a little game of figuring out what the X boson,
+- [01:09:59,850 - 01:10:04,160] what kind of transitions the X boson and the Y bosons make.
+- [01:10:04,160 - 01:10:06,890] But they do exactly the same thing among these
+- [01:10:06,890 - 01:10:09,620] columns and rows over here as they do over here.
+- [01:10:10,800 - 01:10:13,840] They take, for example, first entry to third entry.
+- [01:10:14,840 - 01:10:16,720] First entry, where's first entry?
+- [01:10:17,200 - 01:10:17,900] There's nothing here.
+- [01:10:17,980 - 01:10:18,500] Can't go here.
+- [01:10:18,680 - 01:10:20,220] First entry to third entry.
+- [01:10:20,620 - 01:10:22,000] First entry to third entry.
+- [01:10:22,000 - 01:10:26,040] That means there are new kinds of processes.
+- [01:10:27,220 - 01:10:29,790] And one of those new kinds
+- [01:10:29,790 - 01:10:32,360] of processes is very, very surprising.
+- [01:10:32,880 - 01:10:34,610] So let's take a look
+- [01:10:34,610 - 01:10:36,340] at what the new process is.
+- [01:10:36,880 - 01:10:38,600] What about the fourth and fifth entries?
+- [01:10:38,600 - 01:10:43,000] The fourth and fifth entry.
+- [01:10:43,480 - 01:10:45,460] Those are the emission of gluons.
+- [01:10:47,680 - 01:10:49,620] So four to five.
+- [01:10:51,160 - 01:10:52,880] You go from a blue
+- [01:10:52,880 - 01:10:54,600] quark to a green quark by...
+- [01:10:56,700 - 01:11:02,560] First to fourth.
+- [01:11:02,800 - 01:11:05,420] First to fourth.
+- [01:11:05,980 - 01:11:07,100] That would be a Y.
+- [01:11:07,760 - 01:11:08,560] Yeah, that would be a Y.
+- [01:11:08,600 - 01:11:09,100] Right.
+- [01:11:09,100 - 01:11:11,520] That would be a Y boson.
+- [01:11:12,460 - 01:11:13,100] Right.
+- [01:11:13,200 - 01:11:14,870] So a fourth, the Y
+- [01:11:14,870 - 01:11:16,540] boson can take down to anti-up.
+- [01:11:16,900 - 01:11:22,540] The X boson can take up to anti-up, I think.
+- [01:11:23,640 - 01:11:26,240] Can you just fill in just
+- [01:11:26,240 - 01:11:28,840] one box of the anti-symmetric entry?
+- [01:11:29,680 - 01:11:29,960] Yeah.
+- [01:11:31,600 - 01:11:32,920] Minus E plus.
+- [01:11:35,220 - 01:11:36,420] Minus D.
+- [01:11:37,280 - 01:11:38,380] Minus D.
+- [01:11:38,600 - 01:11:39,440] Minus D.
+- [01:11:40,660 - 01:11:41,500] Minus U.
+- [01:11:41,820 - 01:11:42,480] Minus U.
+- [01:11:42,880 - 01:11:43,640] Minus U.
+- [01:11:43,640 - 01:11:43,740] Minus U.
+- [01:11:47,000 - 01:11:48,860] Minus U bar B.
+- [01:11:50,380 - 01:11:52,340] Minus U bar green.
+- [01:11:53,420 - 01:11:56,200] And minus U bar red.
+- [01:12:00,040 - 01:12:03,320] The hell did I do, right?
+- [01:12:06,040 - 01:12:06,760] Where?
+- [01:12:07,300 - 01:12:07,540] Here?
+- [01:12:07,540 - 01:12:07,760] Yeah.
+- [01:12:08,600 - 01:12:09,100] Okay.
+- [01:12:09,100 - 01:12:09,840] Right.
+- [01:12:09,840 - 01:12:13,040] That's the rest of the table.
+- [01:12:15,040 - 01:12:16,340] Now, it's redundant.
+- [01:12:17,820 - 01:12:19,330] If a process can take you
+- [01:12:19,330 - 01:12:20,840] from one place to another here,
+- [01:12:21,540 - 01:12:25,040] it'll do the same thing up here going rows instead.
+- [01:12:25,040 - 01:12:26,720] Just interchange rows and columns.
+- [01:12:27,900 - 01:12:29,650] So it's redundant to keep track of these,
+- [01:12:29,650 - 01:12:31,400] but you can draw it if you like.
+- [01:12:32,860 - 01:12:33,160] Okay.
+- [01:12:33,160 - 01:12:37,960] So let me show you a process which is unusual.
+- [01:12:38,600 - 01:12:41,100] So the force of now is this.
+- [01:12:59,080 - 01:13:03,340] So if let's look at a problem of, let's say,
+- [01:13:03,340 - 01:13:05,600] the moment we have this window,
+- [01:13:05,600 - 01:13:06,360] this is where 5
+- [01:13:06,360 - 01:13:07,380] and h green go away.
+- [01:13:07,380 - 01:13:07,900] Right.
+- [01:13:07,900 - 01:13:10,320] x.
+- [01:13:10,320 - 01:13:12,780] So an x boson is emitted.
+- [01:13:12,780 - 01:13:14,940] And what's the charge of the x boson?
+- [01:13:20,519 - 01:13:22,160] Is it 4 thirds?
+- [01:13:22,160 - 01:13:23,860] Yeah, 4 third.
+- [01:13:23,860 - 01:13:26,000] No, minus 4 thirds.
+- [01:13:26,000 - 01:13:29,099] In this case, it's the x minus 4 thirds,
+- [01:13:29,099 - 01:13:31,440] which is the antiparticle of the x
+- [01:13:31,440 - 01:13:33,960] that we were talking about before.
+- [01:13:33,960 - 01:13:37,639] So we can call it an anti-x.
+- [01:13:37,640 - 01:13:39,880] But the x can also do something else.
+- [01:13:39,880 - 01:13:42,540] Now let's see if I can figure out what.
+- [01:13:42,540 - 01:13:50,960] It takes the first element to the second element
+- [01:13:50,960 - 01:13:54,720] to third element, let's say.
+- [01:13:54,720 - 01:13:56,860] Second element to third element.
+- [01:13:56,860 - 01:14:00,360] So here's a second element in the column.
+- [01:14:00,360 - 01:14:02,740] And here's a third element in the column.
+- [01:14:02,740 - 01:14:04,780] Here's another process it can do.
+- [01:14:04,780 - 01:14:05,780] It can take up.
+- [01:14:07,640 - 01:14:11,640] Yeah, up to anti-up.
+- [01:14:14,820 - 01:14:17,450] It can take up to anti-up
+- [01:14:17,450 - 01:14:20,080] with an x boson over here.
+- [01:14:20,080 - 01:14:21,930] But now is this an x
+- [01:14:21,930 - 01:14:23,780] boson or an anti-x boson coming in?
+- [01:14:23,780 - 01:14:25,720] Oh, it's an anti-x boson coming in.
+- [01:14:25,720 - 01:14:27,260] Let's check that.
+- [01:14:27,260 - 01:14:31,480] This had charge minus 4 thirds.
+- [01:14:31,480 - 01:14:36,940] It went from minus 1 third to plus 1.
+- [01:14:36,940 - 01:14:36,960] This must have had charge.
+- [01:14:36,960 - 01:14:37,020] Yeah.
+- [01:14:37,020 - 01:14:37,080] Yeah.
+- [01:14:37,080 - 01:14:37,120] Yeah.
+- [01:14:37,120 - 01:14:37,160] Yeah.
+- [01:14:37,160 - 01:14:37,200] Yeah.
+- [01:14:37,200 - 01:14:37,240] Yeah.
+- [01:14:37,240 - 01:14:37,280] Yeah.
+- [01:14:37,280 - 01:14:37,340] Yeah.
+- [01:14:37,340 - 01:14:37,400] Yeah.
+- [01:14:37,400 - 01:14:37,460] Yeah.
+- [01:14:37,460 - 01:14:37,500] Yeah.
+- [01:14:37,500 - 01:14:37,560] Yeah.
+- [01:14:37,560 - 01:14:37,600] Yeah.
+- [01:14:37,600 - 01:14:37,620] Yeah.
+- [01:14:37,640 - 01:14:37,680] Okay.
+- [01:14:37,680 - 01:14:54,240] It's
+- [01:14:54,240 - 01:15:02,160] OK.
+- [01:15:02,180 - 01:15:02,280] All right.
+- [01:15:02,300 - 01:15:03,280] So what we've got to do from here,
+- [01:15:03,280 - 01:15:03,440] is you reverse
+- [01:15:03,440 - 01:15:07,580] the freedom function
+- [01:15:07,580 - 01:15:11,130] emits an X, and that X now
+- [01:15:11,130 - 01:15:14,680] grabs a whole of a U quark,
+- [01:15:15,019 - 01:15:17,559] which then becomes an anti-U quark.
+- [01:15:19,220 - 01:15:19,960] Well, that's interesting.
+- [01:15:20,820 - 01:15:23,820] But now let's add one more particle,
+- [01:15:24,380 - 01:15:26,300] which is pretty much just
+- [01:15:26,300 - 01:15:28,220] a spectator in all of this,
+- [01:15:28,840 - 01:15:29,940] another U quark.
+- [01:15:30,620 - 01:15:34,280] A U quark does nothing, just becomes a U quark.
+- [01:15:34,280 - 01:15:37,979] There's a process which takes a
+- [01:15:37,979 - 01:15:41,679] D quark and two U quarks.
+- [01:15:41,960 - 01:15:42,599] What's that called?
+- [01:15:43,719 - 01:15:44,280] Proton.
+- [01:15:44,780 - 01:15:46,080] This is a proton.
+- [01:15:46,759 - 01:15:49,219] It's just proton.
+- [01:15:50,900 - 01:15:53,200] And creates out of it a
+- [01:15:53,200 - 01:15:55,500] positron, same charge as the proton,
+- [01:15:56,179 - 01:15:58,340] and a U anti-U quark.
+- [01:15:58,800 - 01:16:00,199] What kind of particles can you make
+- [01:16:00,199 - 01:16:01,599] out of a U and an anti-
+- [01:16:01,599 - 01:16:03,040] or a quark and an anti-quark?
+- [01:16:04,040 - 01:16:04,120] Mesonauts.
+- [01:16:04,280 - 01:16:04,500] Mesons.
+- [01:16:05,160 - 01:16:07,440] In particular, pi mesons.
+- [01:16:08,580 - 01:16:10,430] This would be a neutral
+- [01:16:10,430 - 01:16:12,280] pi meson coming out of here.
+- [01:16:12,820 - 01:16:14,200] Pi naught.
+- [01:16:15,139 - 01:16:16,519] A neutral pi meson.
+- [01:16:17,519 - 01:16:20,900] So we've discovered, or not discovered,
+- [01:16:21,139 - 01:16:23,740] but we've postulated in doing this,
+- [01:16:24,200 - 01:16:26,040] we've postulated something unusual,
+- [01:16:27,080 - 01:16:28,880] namely a process where a proton,
+- [01:16:29,320 - 01:16:31,639] if we just take a black box view of it,
+- [01:16:31,640 - 01:16:40,640] proton becomes positron and a pi naught.
+- [01:16:40,640 - 01:16:46,640] Another thing that could happen is the U quark
+- [01:16:46,640 - 01:16:49,920] and the anti-U quark could annihilate and make a photon.
+- [01:16:51,520 - 01:16:53,680] This would be a little less likely
+- [01:16:53,680 - 01:16:55,280] because there's an extra factor
+- [01:16:55,280 - 01:16:56,880] of the fine structure constant
+- [01:16:56,880 - 01:16:58,770] in the probability, but that's
+- [01:16:58,770 - 01:17:00,660] another process that can happen.
+- [01:17:01,060 - 01:17:01,640] Proton.
+- [01:17:01,640 - 01:17:03,600] It becomes positron and photon.
+- [01:17:04,960 - 01:17:12,380] Now, this is potentially a very, very dangerous game.
+- [01:17:14,180 - 01:17:18,720] If protons had a habit of
+- [01:17:18,720 - 01:17:23,260] just decaying to become positrons and photons,
+- [01:17:23,460 - 01:17:24,920] or positrons and pi naught,
+- [01:17:25,240 - 01:17:26,740] needless to say, we wouldn't be here.
+- [01:17:27,520 - 01:17:28,900] Our nuclei wouldn't be here.
+- [01:17:28,980 - 01:17:30,200] Hydrogen wouldn't be here.
+- [01:17:30,200 - 01:17:31,600] So this is a rather,
+- [01:17:31,640 - 01:17:32,640] rather dangerous process.
+- [01:17:32,780 - 01:17:33,940] It's called proton decay.
+- [01:17:35,480 - 01:17:38,830] And proton decay is a consequence
+- [01:17:38,830 - 01:17:42,180] of pretty much any kind of attempt
+- [01:17:42,180 - 01:17:47,540] to unify the weak interactions
+- [01:17:47,540 - 01:17:50,020] and the electromagnetic interactions
+- [01:17:50,020 - 01:17:53,000] and the strong interactions into one group.
+- [01:17:55,140 - 01:17:57,740] SU3 costs, SU2 costs, U1 is, of course, one group,
+- [01:17:57,740 - 01:18:00,320] but it's a product of smaller groups.
+- [01:18:00,560 - 01:18:01,620] To unify it,
+- [01:18:01,640 - 01:18:04,280] it's a product of larger groups.
+- [01:18:04,280 - 01:18:06,820] So we can put it into one non-product group,
+- [01:18:06,820 - 01:18:07,620] a bigger group.
+- [01:18:07,620 - 01:18:10,300] Almost any, in fact, every unification that I know of,
+- [01:18:10,300 - 01:18:12,210] which tries to put these
+- [01:18:12,210 - 01:18:14,120] particles together into a single multiplet,
+- [01:18:14,120 - 01:18:16,360] or which tries to put
+- [01:18:16,360 - 01:18:18,600] SU3 cross SU2 cross U1 together
+- [01:18:18,600 - 01:18:20,200] into a bigger symmetry,
+- [01:18:20,200 - 01:18:24,440] always has proton decay as one of its consequences.
+- [01:18:26,240 - 01:18:27,840] This is very dangerous,
+- [01:18:27,840 - 01:18:31,080] not something that we would want to happen to us.
+- [01:18:31,080 - 01:18:34,260] And certainly not something we would want to happen quickly.
+- [01:18:34,260 - 01:18:40,640] The coupling constant for producing X bosons,
+- [01:18:40,640 - 01:18:42,000] is that the same as the
+- [01:18:42,000 - 01:18:43,360] coupling constant for the whole group?
+- [01:18:43,360 - 01:18:43,860] Yep.
+- [01:18:44,880 - 01:18:45,380] Yep.
+- [01:18:46,420 - 01:18:49,620] That is basically just the fine structure constant.
+- [01:18:49,620 - 01:18:52,080] You have the product of two coupling constants,
+- [01:18:52,080 - 01:18:53,600] one over here and one over here.
+- [01:18:56,559 - 01:18:57,720] Not different.
+- [01:18:57,720 - 01:18:58,639] Numerically, it might be a little bit
+- [01:18:58,639 - 01:18:59,559] different from what we have, but, you know,
+- [01:18:59,559 - 01:19:00,059] it's not a problem.
+- [01:19:00,059 - 01:19:00,559] It's a problem.
+- [01:19:00,559 - 01:19:01,059] It's a problem.
+- [01:19:01,080 - 01:19:02,799] There are a number of effects, one
+- [01:19:02,799 - 01:19:04,519] of which we may get to talk about.
+- [01:19:04,519 - 01:19:07,640] But numerically is not the important thing here.
+- [01:19:07,640 - 01:19:10,620] The order of magnitude of these coupling constants
+- [01:19:10,620 - 01:19:13,600] is the same as the usual coupling constants.
+- [01:19:13,600 - 01:19:14,400] Why?
+- [01:19:14,400 - 01:19:18,660] Because they all belong to the same structure.
+- [01:19:18,660 - 01:19:20,559] They belong to the same structure.
+- [01:19:20,559 - 01:19:24,400] And in this SU5 theory, there's only one coupling constant.
+- [01:19:24,400 - 01:19:27,640] The coupling constant for the emission of a gauge boson.
+- [01:19:27,640 - 01:19:28,260] Why?
+- [01:19:28,260 - 01:19:30,559] They wind up being different, uh,
+- [01:19:30,560 - 01:19:33,080] in our laboratories is something we may
+- [01:19:33,080 - 01:19:35,600] or may not have time to discuss tonight.
+- [01:19:35,600 - 01:19:38,830] But, uh, yeah, the order of magnitude of
+- [01:19:38,830 - 01:19:42,060] these coupling constants is just usual coupling constants.
+- [01:19:42,060 - 01:19:44,540] Same coupling constant which governs the
+- [01:19:44,540 - 01:19:47,020] decay of an atom when it de-excites.
+- [01:19:47,020 - 01:19:51,880] The same coupling constants which govern beta decay.
+- [01:19:51,880 - 01:19:55,100] Same coupling constants, uh, that govern
+- [01:19:55,100 - 01:19:58,320] all the ordinary particle physics decays.
+- [01:19:58,320 - 01:19:59,800] So the question then is why this doesn't work.
+- [01:19:59,800 - 01:20:02,550] Why this doesn't happen in the blink of
+- [01:20:02,550 - 01:20:05,300] an eye as fast as other particle decays.
+- [01:20:05,300 - 01:20:06,460] Alright.
+- [01:20:06,460 - 01:20:09,300] Answer or potential answer?
+- [01:20:09,300 - 01:20:12,150] Not, uh, not the answer because we've never detected these
+- [01:20:12,150 - 01:20:15,000] and we don't really know that it's a real process.
+- [01:20:15,000 - 01:20:20,870] Um, but what leeway, what, um, what do we have
+- [01:20:20,870 - 01:20:26,740] available to manipulate to slow down the rate of this?
+- [01:20:26,740 - 01:20:27,640] The mass.
+- [01:20:27,640 - 01:20:28,240] Okay.
+- [01:20:28,240 - 01:20:29,640] The mass of the X boson.
+- [01:20:29,640 - 01:20:29,660] Uh.
+- [01:20:29,660 - 01:20:31,360] The mass of the X boson goes in here.
+- [01:20:31,360 - 01:20:36,599] And it goes in in the form of a propagator.
+- [01:20:36,599 - 01:20:45,460] Propagators always look like one over M squared.
+- [01:20:45,460 - 01:20:48,810] They may have some momentum dependence also where
+- [01:20:48,810 - 01:20:52,160] the momentum dependence would be the recoil momentum.
+- [01:20:52,160 - 01:20:54,320] But that's generally small potatoes.
+- [01:20:54,320 - 01:20:56,910] The important thing in the denominator here
+- [01:20:56,910 - 01:20:59,500] is the mass squared of the X boson.
+- [01:20:59,500 - 01:21:01,640] That would be one of the elements.
+- [01:21:01,640 - 01:21:04,340] And then you would have a product of coupling constants.
+- [01:21:04,340 - 01:21:06,800] Let's say a G times another G.
+- [01:21:06,800 - 01:21:09,040] G for coupling constant.
+- [01:21:09,040 - 01:21:12,440] G squared of some sort
+- [01:21:12,440 - 01:21:15,840] divided by X by MX squared.
+- [01:21:15,840 - 01:21:22,120] Now, if you sat down and calculated the Feynman diagram for this, which is a,
+- [01:21:22,120 - 01:21:28,400] you know, reasonably simple Feynman diagram, this is what you would get times some number.
+- [01:21:28,400 - 01:21:29,340] Okay.
+- [01:21:29,340 - 01:21:31,180] Okay.
+- [01:21:31,180 - 01:21:34,080] The Feynman diagram gives an amplitude.
+- [01:21:34,080 - 01:21:37,640] It gives a quantum mechanical amplitude for a process.
+- [01:21:37,640 - 01:21:41,040] How do you calculate the probability for the process?
+- [01:21:41,040 - 01:21:42,400] You square it.
+- [01:21:42,400 - 01:21:42,680] Okay.
+- [01:21:42,680 - 01:21:46,260] So there will be a G to the fourth
+- [01:21:46,260 - 01:21:49,840] and an MX to the fourth in the decay rate.
+- [01:21:49,840 - 01:21:54,510] The decay rate is the probability per unit
+- [01:21:54,510 - 01:21:59,180] time that the proton decays in the decay rate.
+- [01:21:59,180 - 01:22:05,710] The question is how big do you have to make MX in order that the
+- [01:22:05,710 - 01:22:12,240] decay rate of the proton is slow enough so that it doesn't conflict with experiment?
+- [01:22:12,240 - 01:22:16,680] Question then is what is the half-life of the proton?
+- [01:22:16,680 - 01:22:19,050] This is the decay rate inverse
+- [01:22:19,050 - 01:22:21,420] to the half-life of the proton.
+- [01:22:21,420 - 01:22:23,420] Turn it upside down, it becomes a...
+- [01:22:23,420 - 01:22:25,420] This...
+- [01:22:25,420 - 01:22:27,920] There's other factors in here.
+- [01:22:27,920 - 01:22:29,020] Factors of the mass.
+- [01:22:29,020 - 01:22:31,170] The mass of the proton and so
+- [01:22:31,170 - 01:22:33,320] forth, but this is the important thing.
+- [01:22:33,320 - 01:22:38,770] If we measured everything in units of GeV, the mass of
+- [01:22:38,770 - 01:22:44,220] the proton, this would be the decay rate, approximately, order of magnitude.
+- [01:22:44,220 - 01:22:46,870] So how big do we have to make MX
+- [01:22:46,870 - 01:22:49,520] in order that the decay rate is long enough?
+- [01:22:49,520 - 01:22:51,820] That raises the question, what are the
+- [01:22:51,820 - 01:22:54,120] bounds on the lifetime of the proton?
+- [01:22:54,120 - 01:22:55,680] All right, there's all kinds of bounds.
+- [01:22:55,680 - 01:22:58,760] The proton is clearly longer lived in the universe.
+- [01:22:58,760 - 01:23:01,720] There are still protons around from the Big Bang.
+- [01:23:01,720 - 01:23:05,120] Okay, so the proton, first of all, the proton has to be
+- [01:23:05,120 - 01:23:08,520] longer than the age of a human being, otherwise we wouldn't be here.
+- [01:23:08,520 - 01:23:10,920] It has to be longer than the age of
+- [01:23:10,920 - 01:23:13,320] the universe, otherwise they wouldn't be here to make us.
+- [01:23:13,320 - 01:23:17,470] So 10 to the 10th years, 10 to the 12th,
+- [01:23:17,470 - 01:23:21,620] 10 to the 14th, 10 to the 15th years for sure.
+- [01:23:21,620 - 01:23:24,760] But now there's questions of experimental data.
+- [01:23:24,760 - 01:23:25,760] You can't wait around for 10 to
+- [01:23:25,760 - 01:23:26,760] the 15th years to see a proton.
+- [01:23:26,760 - 01:23:27,260] Yes.
+- [01:23:27,260 - 01:23:27,960] I'm not sure if that's the right way to go.
+- [01:23:27,960 - 01:23:28,010] But what I'm sure you're right about is just that
+- [01:23:28,010 - 01:23:28,060] the proton is going to be around for a long time.
+- [01:23:28,060 - 01:23:30,300] years to see a proton decay.
+- [01:23:30,300 - 01:23:33,340] But you can start with 10 to the 15th protons.
+- [01:23:33,340 - 01:23:35,500] That's not a lot of protons.
+- [01:23:35,500 - 01:23:38,560] It's a small amount, a very small sample of protons.
+- [01:23:38,560 - 01:23:44,100] And see how often a decay takes place.
+- [01:23:44,100 - 01:23:46,230] If the decay rate for a
+- [01:23:46,230 - 01:23:48,360] proton, if the half-life for a proton
+- [01:23:48,360 - 01:23:50,160] was 10 to the 15th years,
+- [01:23:50,160 - 01:23:51,960] then if you start with 10
+- [01:23:51,960 - 01:23:53,910] to the 15th protons, you ought
+- [01:23:53,910 - 01:23:55,860] to see one decay per year,
+- [01:23:55,860 - 01:23:57,400] approximately.
+- [01:23:57,400 - 01:23:59,120] One decay per year.
+- [01:23:59,120 - 01:24:01,860] A proton decaying is something which
+- [01:24:01,860 - 01:24:03,940] can be detected in the laboratory,
+- [01:24:03,940 - 01:24:06,759] even among 10 to the 15th of them.
+- [01:24:06,759 - 01:24:07,660] This is easy.
+- [01:24:07,660 - 01:24:10,960] This is really easy stuff, seeing a proton decay
+- [01:24:10,960 - 01:24:14,139] in a sample of 10 to the 15th protons.
+- [01:24:14,139 - 01:24:18,879] And you don't see any decay.
+- [01:24:18,879 - 01:24:21,559] Lifetime is longer than 10 to the 15th.
+- [01:24:21,559 - 01:24:23,679] If you put everything together that's known,
+- [01:24:23,679 - 01:24:26,839] the lifetime of the proton is longer than 10
+- [01:24:26,839 - 01:24:27,339] to the 35th.
+- [01:24:27,400 - 01:24:30,220] So the proton decay is longer
+- [01:24:30,220 - 01:24:33,040] than 10 to the 33 years.
+- [01:24:33,040 - 01:24:35,839] 10 to the 33 years is the
+- [01:24:35,839 - 01:24:38,639] bound on the half-life of the proton.
+- [01:24:38,639 - 01:24:42,540] Once this theory came out, it was immediately
+- [01:24:42,540 - 01:24:45,339] evident that experimental physicists should
+- [01:24:45,339 - 01:24:47,920] be trying to detect proton decay.
+- [01:24:47,920 - 01:24:49,989] The way to do it is
+- [01:24:49,989 - 01:24:52,059] to take 10 to the 33 protons
+- [01:24:52,059 - 01:24:54,879] and wait for one of them to decay.
+- [01:24:54,879 - 01:24:56,839] 10 to the 33 protons.
+- [01:24:56,840 - 01:24:59,920] What's the mass of 10 to the 33 protons?
+- [01:24:59,920 - 01:25:04,720] 10 to the 23 protons is a mole of hydrogen.
+- [01:25:04,720 - 01:25:07,600] So this is 10 to the 10th moles of hydrogen.
+- [01:25:07,600 - 01:25:12,080] Big vat or big swimming pool.
+- [01:25:12,080 - 01:25:13,280] 5 by 10 to the 8th.
+- [01:25:13,280 - 01:25:14,680] Sorry, what?
+- [01:25:14,680 - 01:25:16,480] You had a g to the 4th.
+- [01:25:16,480 - 01:25:17,900] Doesn't that give you a 10 to the 8th?
+- [01:25:17,900 - 01:25:18,840] It does.
+- [01:25:18,840 - 01:25:19,340] It does.
+- [01:25:19,340 - 01:25:19,840] It does.
+- [01:25:19,840 - 01:25:21,740] But that's right.
+- [01:25:21,740 - 01:25:23,190] g to the 4th is a
+- [01:25:23,190 - 01:25:24,640] small number, but nowhere is near.
+- [01:25:24,640 - 01:25:25,140] Right?
+- [01:25:25,140 - 01:25:25,640] Right.
+- [01:25:25,640 - 01:25:26,140] Right.
+- [01:25:26,140 - 01:25:26,640] Right.
+- [01:25:26,640 - 01:25:26,840] Right.
+- [01:25:26,840 - 01:25:28,520] Remember, we should.
+- [01:25:28,520 - 01:25:31,840] Nowhere is near the required.
+- [01:25:31,840 - 01:25:35,380] I'm saying it's 10 to the 25th or so.
+- [01:25:35,380 - 01:25:37,990] If g is about 1 over 100,
+- [01:25:37,990 - 01:25:40,600] then you get to kind of take it.
+- [01:25:40,600 - 01:25:43,760] Why are you measuring in years?
+- [01:25:43,760 - 01:25:46,020] What should you be measuring in?
+- [01:25:46,020 - 01:25:48,060] Protons.
+- [01:25:48,060 - 01:25:52,280] Yeah, the light transit time across a proton.
+- [01:25:52,280 - 01:25:55,440] So it's got to be a small number.
+- [01:25:55,440 - 01:25:56,140] Right.
+- [01:25:56,140 - 01:25:59,380] The expected lifetime, if everything
+- [01:25:59,380 - 01:26:02,800] was of order 1 in proton units, would
+- [01:26:02,800 - 01:26:07,460] be the light transit time across a proton.
+- [01:26:07,460 - 01:26:10,020] Don't ask me how long that is.
+- [01:26:10,020 - 01:26:12,580] 10 to the minus 15th meters.
+- [01:26:12,580 - 01:26:13,860] 15 and 8 is what?
+- [01:26:17,580 - 01:26:19,820] 10 to the minus 23rd seconds.
+- [01:26:19,820 - 01:26:21,740] Did I get that right?
+- [01:26:21,740 - 01:26:24,740] 10 to the minus 23rd seconds is the benchmark number.
+- [01:26:24,740 - 01:26:25,140] OK.
+- [01:26:25,140 - 01:26:25,640] OK.
+- [01:26:25,640 - 01:26:27,140] OK.
+- [01:26:27,140 - 01:26:31,240] 10 to the 33 years is the observational bound.
+- [01:26:31,240 - 01:26:33,240] Big number in between.
+- [01:26:33,240 - 01:26:36,600] g to the fourth, not important.
+- [01:26:36,600 - 01:26:37,840] Right.
+- [01:26:37,840 - 01:26:38,500] OK.
+- [01:26:38,500 - 01:26:40,440] The only thing it can save
+- [01:26:40,440 - 01:26:42,380] us is m to the fourth,
+- [01:26:42,380 - 01:26:45,300] if m is big enough.
+- [01:26:45,300 - 01:26:47,300] How big does m have to be in order
+- [01:26:47,300 - 01:26:50,420] to be consistent with the 10 to the 33 years?
+- [01:26:50,420 - 01:26:53,800] The answer is about 10 to the 16th GeV.
+- [01:26:53,800 - 01:26:54,640] Mm-hmm.
+- [01:26:54,640 - 01:26:55,440] If this doesn't work, then it's not.
+- [01:26:55,440 - 01:26:57,059] This number is 10 to the 16th.
+- [01:26:57,059 - 01:26:57,559] Let's see.
+- [01:26:57,559 - 01:26:58,059] Is that right?
+- [01:26:58,059 - 01:26:59,440] 10 to the 16th fourth is 10?
+- [01:26:59,440 - 01:26:59,940] Yeah.
+- [01:26:59,940 - 01:27:02,480] That's the right number.
+- [01:27:02,480 - 01:27:13,799] 10 to the 16th GeV is the minimum bound
+- [01:27:13,799 - 01:27:15,619] on the mass of the
+- [01:27:15,619 - 01:27:17,440] x and y bosons in order
+- [01:27:17,440 - 01:27:20,240] that it not conflict with proton decay.
+- [01:27:20,240 - 01:27:22,940] Now, is that a ridiculous number?
+- [01:27:22,940 - 01:27:24,839] No, I don't think it is a ridiculous number.
+- [01:27:24,839 - 01:27:25,240] OK.
+- [01:27:25,240 - 01:27:27,400] First of all, it is, what is it?
+- [01:27:27,400 - 01:27:32,120] It's three orders of magnitude smaller than the Planck mass.
+- [01:27:32,120 - 01:27:36,540] So it's not above the Planck mass.
+- [01:27:36,540 - 01:27:38,000] That's a good thing.
+- [01:27:38,000 - 01:27:40,240] Three orders of magnitude below it.
+- [01:27:40,240 - 01:27:43,000] But there is another factor
+- [01:27:43,000 - 01:27:45,760] that makes this very, very tempting.
+- [01:27:45,760 - 01:27:47,719] We've discussed it before.
+- [01:27:47,719 - 01:27:50,900] It's the running of coupling constants.
+- [01:27:50,900 - 01:27:53,800] The strong.
+- [01:27:53,800 - 01:27:54,300] OK.
+- [01:27:55,240 - 01:27:58,740] Weak and electromagnetic coupling constants
+- [01:27:58,740 - 01:28:01,380] are not numerically the same.
+- [01:28:01,380 - 01:28:09,700] The electromagnetic is somewhat with appropriate adjusted
+- [01:28:09,700 - 01:28:14,620] various factors for the group theory, just for the group
+- [01:28:14,620 - 01:28:15,120] theory.
+- [01:28:15,120 - 01:28:17,280] In order to compare SU5 with
+- [01:28:17,280 - 01:28:19,440] SU3 cross SU2 and so forth,
+- [01:28:19,440 - 01:28:22,540] there are some numerical factors, numbers like 3 eighths,
+- [01:28:22,540 - 01:28:23,960] trivial numbers.
+- [01:28:23,960 - 01:28:24,460] But.
+- [01:28:24,460 - 01:28:24,960] OK.
+- [01:28:24,960 - 01:28:30,720] So, simply stated, with appropriate conventions,
+- [01:28:30,720 - 01:28:33,780] all of the coupling constants in a unified theory
+- [01:28:33,780 - 01:28:35,760] should be the same.
+- [01:28:35,760 - 01:28:40,080] But SU3 cross SU2 cross, sorry,
+- [01:28:40,080 - 01:28:44,400] SU5 is not a symmetry of nature.
+- [01:28:44,400 - 01:28:46,230] It cannot be a true
+- [01:28:46,230 - 01:28:48,060] symmetry or even approximately a symmetry
+- [01:28:48,060 - 01:28:49,200] of nature.
+- [01:28:49,200 - 01:28:50,100] Why?
+- [01:28:50,100 - 01:28:52,080] Because of the enormous
+- [01:28:52,080 - 01:28:54,060] difference between the necessary mass
+- [01:28:54,060 - 01:28:54,840] of the X boson.
+- [01:28:54,840 - 01:28:58,620] The X boson exists in the same
+- [01:28:58,620 - 01:29:02,400] multiplet as the gluons, the W boson,
+- [01:29:02,400 - 01:29:04,380] and the photons.
+- [01:29:04,380 - 01:29:04,880] OK.
+- [01:29:04,880 - 01:29:08,800] It exists in the same multiplet.
+- [01:29:08,800 - 01:29:11,980] And if the symmetry was an ideal unbroken symmetry,
+- [01:29:11,980 - 01:29:15,080] they would all have the same mass.
+- [01:29:15,080 - 01:29:16,620] Well, the photon is a good deal
+- [01:29:16,620 - 01:29:18,160] lighter than either the Z or W
+- [01:29:18,160 - 01:29:19,560] bosons.
+- [01:29:19,560 - 01:29:23,680] The gluons, their mass is zero in the mass.
+- [01:29:23,680 - 01:29:24,180] OK.
+- [01:29:24,180 - 01:29:28,960] And the quantum chromodynamics, so it's like the photon.
+- [01:29:28,960 - 01:29:30,860] And now the X boson
+- [01:29:30,860 - 01:29:32,760] has to have this gigantic mass.
+- [01:29:32,760 - 01:29:37,640] That means the symmetry is broken, spontaneously broken.
+- [01:29:37,640 - 01:29:38,940] What is it when spon-
+- [01:29:38,940 - 01:29:40,640] I guess if it's not
+- [01:29:40,640 - 01:29:42,340] broken, then all of these bosons
+- [01:29:42,340 - 01:29:43,360] are massless.
+- [01:29:43,360 - 01:29:45,140] Then all the bosons are massless.
+- [01:29:45,140 - 01:29:46,140] Right.
+- [01:29:46,140 - 01:29:47,760] You could arrange for them
+- [01:29:47,760 - 01:29:49,380] to all have the same mass
+- [01:29:49,380 - 01:29:53,820] and not be zero, but that's not really right.
+- [01:29:53,820 - 01:29:54,180] OK.
+- [01:29:54,180 - 01:29:55,460] OK.
+- [01:29:55,460 - 01:29:57,120] What is it that gave
+- [01:29:57,120 - 01:29:58,780] the W boson a different mass
+- [01:29:58,780 - 01:30:00,740] than the photon?
+- [01:30:00,740 - 01:30:02,770] It was the spontaneous symmetry
+- [01:30:02,770 - 01:30:04,800] breaking, or the Higgs phenomena,
+- [01:30:04,800 - 01:30:06,860] that created a different mass
+- [01:30:06,860 - 01:30:08,920] for the W than the photon.
+- [01:30:08,920 - 01:30:13,670] And at the same time, it
+- [01:30:13,670 - 01:30:18,420] broke the SU2 cross U1 symmetry.
+- [01:30:18,420 - 01:30:22,860] What's necessary is a Higgs type phenomena, a different one,
+- [01:30:22,860 - 01:30:23,520] a different one.
+- [01:30:23,520 - 01:30:26,060] And what's necessary is a Higgs type phenomena,
+- [01:30:26,060 - 01:30:29,880] a different one, that splits this from this.
+- [01:30:29,880 - 01:30:33,460] That splits this from this, breaks the symmetry
+- [01:30:33,460 - 01:30:40,240] drastically between this block and that block.
+- [01:30:40,240 - 01:30:45,020] And it is that symmetry breaking which
+- [01:30:45,020 - 01:30:48,020] would account for the big mass difference
+- [01:30:48,020 - 01:30:50,230] between the X and Y bosons
+- [01:30:50,230 - 01:30:52,440] on the one hand, and the gluons,
+- [01:30:52,440 - 01:30:53,160] or the Z.
+- [01:30:53,160 - 01:30:56,639] All these particles are massless.
+- [01:30:56,639 - 01:31:00,320] They have the biggest mass here is only 100 GeV.
+- [01:31:00,320 - 01:31:03,639] We're comparing things with 10 to the 16th GeV.
+- [01:31:03,639 - 01:31:07,860] So the first approximation in this kind of theory,
+- [01:31:07,860 - 01:31:09,440] these are all massless.
+- [01:31:09,440 - 01:31:12,780] In fact, everything on the blackboard is massless.
+- [01:31:12,780 - 01:31:16,080] And the X and Y bosons have this large mass.
+- [01:31:16,080 - 01:31:16,960] That's the theory.
+- [01:31:16,960 - 01:31:18,400] I'm not saying it's true.
+- [01:31:18,400 - 01:31:19,660] This is to be tested.
+- [01:31:23,160 - 01:31:26,920] So with a mass of 10
+- [01:31:26,920 - 01:31:30,680] to the 16th GeV, you're fine.
+- [01:31:30,680 - 01:31:32,519] It's OK.
+- [01:31:32,519 - 01:31:36,780] Now what other evidence do we have for a scale
+- [01:31:36,780 - 01:31:39,440] of 10 to the 16th GeV?
+- [01:31:39,440 - 01:31:42,540] We have a couple of other pieces of evidence
+- [01:31:42,540 - 01:31:45,680] that the scale of 10 to the 16th GeV
+- [01:31:45,680 - 01:31:48,360] is the scale of unification.
+- [01:31:48,360 - 01:31:50,840] What does it mean, the scale of unification?
+- [01:31:50,840 - 01:31:51,989] It means energies which are high in
+- [01:31:51,989 - 01:31:53,139] the scale of 10 to the 16th
+- [01:31:53,140 - 01:31:53,640] GeV.
+- [01:31:53,640 - 01:31:55,860] And they're high enough that even
+- [01:31:55,860 - 01:31:58,080] the mass of the X and Y
+- [01:31:58,080 - 01:32:02,380] bosons can be considered to be 0.
+- [01:32:02,380 - 01:32:04,030] In other words, if the mass
+- [01:32:04,030 - 01:32:05,680] of the X or Y boson
+- [01:32:05,680 - 01:32:07,600] is 10 to the 16th
+- [01:32:07,600 - 01:32:09,520] GeV, or 10 to the 15th,
+- [01:32:09,520 - 01:32:11,020] somewhere between 10 to the
+- [01:32:11,020 - 01:32:12,520] 15th and 10 to the 16th,
+- [01:32:12,520 - 01:32:14,860] then well above that energy, let's
+- [01:32:14,860 - 01:32:17,200] say 10 to the 18th GeV,
+- [01:32:17,200 - 01:32:19,850] processes are insensitive to the mass
+- [01:32:19,850 - 01:32:22,500] of the X and Y bosons.
+- [01:32:22,500 - 01:32:24,880] They're massless in that limit.
+- [01:32:24,880 - 01:32:29,200] In that limit, the difference between the X, Y bosons
+- [01:32:29,200 - 01:32:31,300] and the Z and W
+- [01:32:31,300 - 01:32:33,400] and so forth is not important.
+- [01:32:33,400 - 01:32:35,140] In other words, above those energies,
+- [01:32:35,140 - 01:32:38,000] the symmetry is a good symmetry.
+- [01:32:38,000 - 01:32:39,380] It's a good symmetry.
+- [01:32:39,380 - 01:32:41,270] So the question is, at
+- [01:32:41,270 - 01:32:43,160] what point does, at what energy
+- [01:32:43,160 - 01:32:49,580] scales, does the world appear to be SU5 invariant?
+- [01:32:49,580 - 01:32:50,960] There's some answer to that.
+- [01:32:50,960 - 01:32:52,160] And the answer goes as follows.
+- [01:32:52,500 - 01:32:57,100] I've told you several times that coupling constants
+- [01:32:57,100 - 01:32:58,780] are not constant.
+- [01:32:58,780 - 01:33:01,280] They depend on energy scales.
+- [01:33:01,280 - 01:33:03,320] The coupling constant that
+- [01:33:03,320 - 01:33:05,360] you see in quantum electrodynamics,
+- [01:33:05,360 - 01:33:08,000] the fine structure constant, actually depends
+- [01:33:08,000 - 01:33:09,900] on the energy of a process.
+- [01:33:09,900 - 01:33:11,220] It runs.
+- [01:33:11,220 - 01:33:12,580] That's the terminology.
+- [01:33:12,580 - 01:33:14,040] Coupling constants run.
+- [01:33:14,040 - 01:33:15,420] They vary.
+- [01:33:15,420 - 01:33:22,120] If you plot, it's traditional for, well, not just
+- [01:33:22,120 - 01:33:22,500] traditional.
+- [01:33:22,500 - 01:33:23,000] Useful.
+- [01:33:23,000 - 01:33:25,260] Instead of plotting the coupling constant,
+- [01:33:25,260 - 01:33:28,860] plotting one over the coupling constants.
+- [01:33:28,860 - 01:33:31,600] And you plot them at laboratory energies.
+- [01:33:31,600 - 01:33:34,940] In this direction, you have energy.
+- [01:33:34,940 - 01:33:37,240] And you plot the measured
+- [01:33:37,240 - 01:33:39,540] value of them at laboratory energies.
+- [01:33:39,540 - 01:33:41,740] This is really logarithm of the energy here.
+- [01:33:45,460 - 01:33:48,360] If you plot the value of the three coupling constants,
+- [01:33:48,360 - 01:33:49,380] which three?
+- [01:33:49,380 - 01:33:51,180] SU3 cross SU2.
+- [01:33:52,500 - 01:33:53,340] And U1.
+- [01:33:53,340 - 01:33:58,260] The three coupling constants, they are three numbers.
+- [01:33:58,260 - 01:34:00,180] The biggest value of 1 over
+- [01:34:00,180 - 01:34:02,100] G squared would be for the U1.
+- [01:34:02,100 - 01:34:03,880] In other words, the weakest of the interactions,
+- [01:34:03,880 - 01:34:05,340] the electromagnetic.
+- [01:34:05,340 - 01:34:07,420] Next, the SU2.
+- [01:34:07,420 - 01:34:11,020] And next, the SU3.
+- [01:34:11,020 - 01:34:12,240] OK.
+- [01:34:12,240 - 01:34:14,840] Now you plot how they run with energy.
+- [01:34:14,840 - 01:34:17,220] Now, run with energy, how do you plot it?
+- [01:34:17,220 - 01:34:18,780] You don't measure it.
+- [01:34:18,780 - 01:34:21,000] They run logarithmically very slowly.
+- [01:34:21,000 - 01:34:21,940] You calculate it.
+- [01:34:21,940 - 01:34:24,639] You calculate it from the theory.
+- [01:34:24,639 - 01:34:26,540] You have the particle content.
+- [01:34:26,540 - 01:34:29,160] You have the Feynman diagrams.
+- [01:34:29,160 - 01:34:31,660] Particular Feynman diagrams go into the running
+- [01:34:31,660 - 01:34:32,820] of these coupling constants.
+- [01:34:32,820 - 01:34:34,179] And you plot them.
+- [01:34:34,179 - 01:34:35,360] And what do you find?
+- [01:34:35,360 - 01:34:39,099] You find that they do something like this.
+- [01:34:39,099 - 01:34:45,299] Now, that's approximately what they do.
+- [01:34:45,299 - 01:34:49,040] They more or less come together, look
+- [01:34:49,040 - 01:34:51,160] as though they're going to cross.
+- [01:34:51,940 - 01:34:53,940] And what you'd like is that
+- [01:34:53,940 - 01:34:55,940] they all cross at the same place.
+- [01:34:55,940 - 01:34:58,059] What you'd like is that there
+- [01:34:58,059 - 01:35:00,179] is one place where they all
+- [01:35:00,179 - 01:35:01,780] come together.
+- [01:35:01,780 - 01:35:04,480] And at that point, you would say, that's the unification
+- [01:35:04,480 - 01:35:05,400] energy.
+- [01:35:05,400 - 01:35:08,700] That's the energy where you've gotten high enough
+- [01:35:08,700 - 01:35:11,919] that beyond that energy, all three coupling constants
+- [01:35:11,919 - 01:35:13,200] are the same.
+- [01:35:13,200 - 01:35:15,700] Now, why do they run differently?
+- [01:35:15,700 - 01:35:16,940] Why do they run differently?
+- [01:35:16,940 - 01:35:18,249] If there's a symmetry
+- [01:35:18,249 - 01:35:19,559] between these three coupling constants,
+- [01:35:19,559 - 01:35:20,820] why do they run differently?
+- [01:35:20,820 - 01:35:21,780] And the answer is, they run differently.
+- [01:35:21,780 - 01:35:21,820] They run differently.
+- [01:35:21,820 - 01:35:21,919] They run differently.
+- [01:35:21,940 - 01:35:23,139] That's probably why they're all—
+- [01:35:23,139 - 01:35:25,280] see the unification energy is that the temperature
+- [01:35:25,280 - 01:35:27,000] teraz that below this symmetry—
+- [01:35:27,000 - 01:35:30,440] sorry, below this energy the symmetry is broken.
+- [01:35:30,440 - 01:35:34,780] Above that energy, the symmetry is restored.
+- [01:35:34,780 - 01:35:36,879] So that's the picture that you would like.
+- [01:35:36,879 - 01:35:38,440] And you would like them to all
+- [01:35:38,799 - 01:35:41,379] coalesce simultaneously.
+- [01:35:41,379 - 01:35:42,679] They don't quite.
+- [01:35:42,679 - 01:35:46,839] In fact, they miss each other by a fair amount,
+- [01:35:47,360 - 01:35:51,719] but the tendency is certainly for them to come together.
+- [01:35:51,720 - 01:35:54,280] here doesn't matter they do miss
+- [01:35:54,280 - 01:35:56,840] each other by an appreciable amount
+- [01:35:56,840 - 01:36:00,490] nevertheless you take them aim them do
+- [01:36:00,490 - 01:36:04,140] the calculation and you find out that
+- [01:36:04,140 - 01:36:08,100] there's if you allow 15% error you
+- [01:36:08,100 - 01:36:12,060] will find that these things cross at an
+- [01:36:12,060 - 01:36:16,510] energy of guess where the same energy 10 to
+- [01:36:16,510 - 01:36:20,960] the 16th or 10 to the 15 GeV so
+- [01:36:20,960 - 01:36:23,390] the implication is that if you
+- [01:36:23,390 - 01:36:25,820] believe this theory the unification scale
+- [01:36:25,820 - 01:36:28,880] really should be 10 to the 16 GeV and
+- [01:36:28,880 - 01:36:31,940] then the mass of the X and Y boson would
+- [01:36:31,940 - 01:36:40,480] be about that this is the reason yeah
+- [01:36:40,480 - 01:36:43,980] if in this diagram for proton decay you replace the free
+- [01:36:43,980 - 01:36:47,480] U with a free D then you're looking at neutron decay
+- [01:36:47,480 - 01:36:49,210] but neutron decay decays by beta
+- [01:36:49,210 - 01:36:50,940] decay so fast it doesn't matter
+- [01:36:50,940 - 01:36:53,519] so if you look at the product of
+- [01:36:53,519 - 01:36:56,099] that the X boson get involved at all
+- [01:36:56,099 - 01:36:56,799] say that again?
+- [01:36:56,799 - 01:36:58,799] replace the U on the right with a D
+- [01:36:58,799 - 01:36:59,960] yeah
+- [01:36:59,960 - 01:37:01,299] then you get neutron decay
+- [01:37:01,299 - 01:37:03,559] yes but there's another mechanism
+- [01:37:03,559 - 01:37:05,820] for you right so you would
+- [01:37:05,820 - 01:37:08,280] that happens the free neutron will decay
+- [01:37:08,280 - 01:37:11,220] yeah but not by this mechanism it doesn't decay
+- [01:37:11,220 - 01:37:14,160] to a to a let's see this would be
+- [01:37:14,160 - 01:37:17,430] it doesn't decay to a pi meson and a positron
+- [01:37:17,430 - 01:37:20,700] that would have been noticed it decays to a proton
+- [01:37:20,940 - 01:37:23,809] neutrino and an electron okay so
+- [01:37:23,809 - 01:37:26,679] a completely different process yes but
+- [01:37:26,679 - 01:37:29,989] you're right you could imagine a world
+- [01:37:29,989 - 01:37:33,299] in which the neutron was stable with
+- [01:37:33,299 - 01:37:35,689] respect to beta decay if the neutron
+- [01:37:35,689 - 01:37:38,080] was a little bit lighter than the proton
+- [01:37:38,080 - 01:37:39,950] imagine that the neutron was a this
+- [01:37:39,950 - 01:37:41,820] would be a disastrous world you wouldn't
+- [01:37:41,820 - 01:37:44,720] like it the neutron would be stable
+- [01:37:44,720 - 01:37:47,620] the proton would beta decay into the neutron
+- [01:37:47,620 - 01:37:51,069] but now take the neutron the neutron
+- [01:37:51,069 - 01:37:54,519] would decay by this process but again
+- [01:37:54,519 - 01:37:57,129] the lifetime could be very long right
+- [01:37:57,129 - 01:37:59,740] so just by juggling the masses of the
+- [01:37:59,740 - 01:38:03,149] proton and neutron you could imagine a
+- [01:38:03,149 - 01:38:06,559] world in which this long lifetime would
+- [01:38:06,559 - 01:38:09,709] apply to the neutron not to the
+- [01:38:09,709 - 01:38:12,860] proton all right that's uh that's pretty much
+- [01:38:12,860 - 01:38:17,400] it we're about out of time that's pretty much it
+- [01:38:17,400 - 01:38:17,599] for what we have for now. Thank you.
+- [01:38:17,620 - 01:38:19,930] So that's pretty much it for what a grand unified theory is
+- [01:38:19,930 - 01:38:22,240] the only last thing I promise to tell you is what the
+- [01:38:22,240 - 01:38:25,419] relationship between grand unified theories
+- [01:38:25,419 - 01:38:28,599] and supersymmetry is not a lot
+- [01:38:28,599 - 01:38:31,949] I mean no tight relationship one doesn't imply
+- [01:38:31,949 - 01:38:35,300] the other but what is true is that
+- [01:38:35,300 - 01:38:38,080] if you add all of the super
+- [01:38:38,080 - 01:38:40,860] particles into the calculations for the running of
+- [01:38:40,860 - 01:38:45,800] the coupling constants then you do much much better
+- [01:38:45,800 - 01:38:51,530] within within about one percent these do
+- [01:38:51,530 - 01:38:57,260] cross at the same place is this an
+- [01:38:57,260 - 01:39:02,090] accident is it a one percent accident who
+- [01:39:02,090 - 01:39:06,920] knows in any case this is why there
+- [01:39:06,920 - 01:39:09,560] is excitement about supersymmetry
+- [01:39:09,560 - 01:39:12,200] and about grand unification grand
+- [01:39:12,200 - 01:39:13,890] unification is a quite beautiful idea of
+- [01:39:13,890 - 01:39:15,580] fitting all of the particles into a
+- [01:39:15,580 - 01:39:18,920] single multiplet like this into a
+- [01:39:18,920 - 01:39:22,260] single group structure like this in a
+- [01:39:22,260 - 01:39:25,040] slight extension of this theory incidentally
+- [01:39:25,040 - 01:39:27,820] in the theory based on the
+- [01:39:27,820 - 01:39:31,840] group O10 which is a little bit bigger than
+- [01:39:31,840 - 01:39:35,860] su5 su5 fits into O10 in O10 all of
+- [01:39:35,860 - 01:39:38,050] these particles exist in a
+- [01:39:38,050 - 01:39:40,240] single multiplet the 16 dimensional
+- [01:39:40,240 - 01:39:42,640] representation of O10 along with one
+- [01:39:42,640 - 01:39:45,040] other particle the anti an anti-neutrality particle.
+- [01:39:45,580 - 01:39:49,400] neutrino or the right-handed neutrino as
+- [01:39:49,400 - 01:39:53,220] it's usually called and but that's a
+- [01:39:53,220 - 01:39:54,340] separate story
+- [01:39:54,340 - 01:39:56,520] ok that's the idea of grand
+- [01:39:56,520 - 01:39:58,700] unification its connection with supersymmetry which
+- [01:39:58,700 - 01:40:02,790] is not theoretically terribly strong but
+- [01:40:02,790 - 01:40:06,880] empirically there's some reason to find
+- [01:40:06,880 - 01:40:11,219] it attractive proton decay experiments
+- [01:40:11,219 - 01:40:15,559] are ongoing the lifetime is getting
+- [01:40:15,560 - 01:40:17,730] every year the lifetime gets a year
+- [01:40:17,730 - 01:40:19,900] long no that's not right no that's actually
+- [01:40:19,900 - 01:40:25,070] not right at all is it but
+- [01:40:25,070 - 01:40:30,240] every year the bound goes up in supersymmetric
+- [01:40:30,240 - 01:40:33,220] theories the lifetime calculations different and
+- [01:40:33,220 - 01:40:36,200] can vary all over the map
+- [01:40:36,200 - 01:40:38,540] but it never gets any bigger than about
+- [01:40:38,540 - 01:40:40,880] 10 to the 35 years or something like
+- [01:40:40,880 - 01:40:43,070] that it's difficult to make it bigger than
+- [01:40:43,070 - 01:40:45,260] 10 to the 35 and the standard model
+- [01:40:45,560 - 01:40:48,230] you can't make it short with with
+- [01:40:48,230 - 01:40:50,900] this kind of number for the unification scale
+- [01:40:50,900 - 01:40:53,660] you really can't make it shorter than about
+- [01:40:53,660 - 01:40:56,420] 10 to 32 years nothing you can do
+- [01:40:56,420 - 01:40:58,400] can make it shorter than that
+- [01:40:58,400 - 01:41:00,380] and supersymmetric theories it could go from
+- [01:41:00,380 - 01:41:04,880] a fraction of a second to 10 to
+- [01:41:04,880 - 01:41:09,380] the 36 years and with with various assumptions
+- [01:41:09,380 - 01:41:11,660] about things so there is no
+- [01:41:11,660 - 01:41:13,940] real prediction in supersymmetric theory for
+- [01:41:13,940 - 01:41:15,200] the lifetime of the proton.
+- [01:41:15,560 - 01:41:19,750] Alright may all your protons be stable
+- [01:41:19,750 - 01:41:23,940] until the until the autumn quarter and I
+- [01:41:23,940 - 01:41:35,560] wish you a fine summer with sunshine shine and rain.
+- [01:41:35,560 - 01:41:38,660] For more please visit us at stanford.edu
