@@ -1,0 +1,3501 @@
+# Transcript
+
+Source: supplementary/quantum_entanglement/2006_fall_part_3/063 - Lecture 8 ｜ Quantum Entanglements, Part 3 (Stanford) [6gRhmeTjadw].mp4
+
+- [00:00:00,000 - 00:00:10,480] This program is brought to you by Stanford University.
+- [00:00:10,480 - 00:00:13,200] Please visit us at stanford.edu.
+- [00:00:13,200 - 00:00:16,480] What are we going to do today?
+- [00:00:16,480 - 00:00:18,760] I thought I would perhaps teach
+- [00:00:18,760 - 00:00:21,040] you a little bit about cosmology.
+- [00:00:22,160 - 00:00:24,360] And the extension, well, just a
+- [00:00:24,360 - 00:00:26,560] tiny bit about the extension from
+- [00:00:26,560 - 00:00:28,919] general, from special relativity to
+- [00:00:28,919 - 00:00:31,279] general relativity, just a little bit.
+- [00:00:31,279 - 00:00:34,480] And then how general relativity is applied in cosmology.
+- [00:00:35,760 - 00:00:40,560] What real space time is like, as opposed
+- [00:00:40,560 - 00:00:45,360] to the flat, featureless, boring space time of
+- [00:00:45,360 - 00:00:48,920] special relativity, the space time of general
+- [00:00:48,920 - 00:00:52,480] relativity is active, it's curved, it responds
+- [00:00:52,480 - 00:00:53,120] to things.
+- [00:00:54,320 - 00:00:54,820] And
+- [00:00:56,560 - 00:00:59,120] allows all kinds of wonderful things to happen,
+- [00:00:59,120 - 00:01:01,680] such as the evolution of the universe, the
+- [00:01:01,680 - 00:01:02,880] Big Bang and so forth.
+- [00:01:03,520 - 00:01:07,480] So I thought we would just discuss that
+- [00:01:07,480 - 00:01:11,440] a little bit, spend a couple of hours seeing
+- [00:01:11,440 - 00:01:14,480] if we can encapsulate and
+- [00:01:14,480 - 00:01:17,520] summarize basic, very, very basic cosmology.
+- [00:01:19,360 - 00:01:21,400] If there are no objections to that, and
+- [00:01:21,400 - 00:01:23,440] there are no questions about previous things, I'll
+- [00:01:23,440 - 00:01:23,940] begin.
+- [00:01:23,940 - 00:01:24,440] Yeah.
+- [00:01:24,440 - 00:01:25,760] I have a quick, I hope, question.
+- [00:01:26,560 - 00:01:28,560] Last time we derived Maxwell's equation, I
+- [00:01:28,560 - 00:01:30,560] wanted to be sure I understand the constraints
+- [00:01:30,560 - 00:01:31,440] and conditions.
+- [00:01:31,440 - 00:01:34,400] All we assumed was that there are some
+- [00:01:34,400 - 00:01:37,360] attributes for electric and magnetic fields that are
+- [00:01:37,360 - 00:01:38,400] Lorentz invariant.
+- [00:01:38,400 - 00:01:39,600] Is that correct?
+- [00:01:39,600 - 00:01:40,960] Yeah, pretty much.
+- [00:01:40,960 - 00:01:41,460] Yep.
+- [00:01:42,080 - 00:01:45,360] Well, no, there's much that we assumed.
+- [00:01:46,240 - 00:01:47,520] Yes, we assumed there were
+- [00:01:47,520 - 00:01:48,800] some electric and magnetic fields.
+- [00:01:49,600 - 00:01:52,000] We assumed that the equations for
+- [00:01:52,000 - 00:01:54,400] electric and magnetic fields are Lorentz invariant,
+- [00:01:54,400 - 00:01:54,880] of course.
+- [00:01:54,880 - 00:01:55,680] And that had a...
+- [00:01:55,680 - 00:01:56,180] Yes.
+- [00:01:56,560 - 00:01:59,560] went a long way to deriving the
+- [00:01:59,560 - 00:02:02,560] structure of Maxwell's equations, but we also assumed
+- [00:02:02,560 - 00:02:06,360] that the equations were linear. In other
+- [00:02:06,360 - 00:02:10,160] words, every single term in the equations involves
+- [00:02:10,160 - 00:02:14,160] at most one power of the electric and
+- [00:02:14,160 - 00:02:18,160] magnetic fields, that there were no terms with electric
+- [00:02:18,160 - 00:02:20,600] field times derivative of the magnetic field and
+- [00:02:20,600 - 00:02:23,040] so forth. That would be said, we would
+- [00:02:23,040 - 00:02:26,380] say that that means that the field theory
+- [00:02:26,380 - 00:02:29,720] is linear. I'll tell you what that means in
+- [00:02:29,720 - 00:02:32,550] a moment more specifically. Well, it means what
+- [00:02:32,550 - 00:02:35,380] I said, that the fields come in only
+- [00:02:35,380 - 00:02:39,530] to the first power. We also assumed
+- [00:02:39,530 - 00:02:43,680] that Maxwell's equations did not have higher derivatives
+- [00:02:43,680 - 00:02:46,580] in them, that there were no terms in
+- [00:02:46,580 - 00:02:49,480] the Maxwell's equations with sixteenth derivative of the
+- [00:02:49,480 - 00:02:52,799] electric field or something.
+- [00:02:53,040 - 00:02:56,540] . Those were assumptions. But with
+- [00:02:56,540 - 00:03:00,040] those assumptions, Lorentz invariance and the assumption
+- [00:03:01,160 - 00:03:04,339] that the electric and magnetic field fit
+- [00:03:04,339 - 00:03:07,519] into a single entity that transforms coherently
+- [00:03:07,519 - 00:03:11,019] is enough to prove Maxwell's equations. The
+- [00:03:11,019 - 00:03:14,519] statement that a theory is linear, what that
+- [00:03:17,920 - 00:03:20,460] means is, let's suppose it's a theory
+- [00:03:20,460 - 00:03:23,000] for some field or some coordinate, and that's
+- [00:03:23,000 - 00:03:26,360] some degree of freedom. Let's just call it phi.
+- [00:03:26,360 - 00:03:29,720] It could be a field, it could just be
+- [00:03:29,720 - 00:03:32,440] the position of a harmonic oscillator,
+- [00:03:32,440 - 00:03:35,160] any quantity which does something interesting.
+- [00:03:35,160 - 00:03:38,030] You have some equations for it, and there
+- [00:03:38,030 - 00:03:40,900] are solutions. And the solutions will be of
+- [00:03:40,900 - 00:03:44,400] the form phi of x and t. Well, if it's a field,
+- [00:03:44,400 - 00:03:47,900] it'll be a phi of x and t, which is some definite
+- [00:03:47,900 - 00:03:51,400] function. I don't know what to call it, except let's
+- [00:03:51,400 - 00:03:54,900] call it a of x and t. That's a solution.
+- [00:03:54,900 - 00:03:58,400] If the equations for a theory are linear,
+- [00:03:58,400 - 00:04:01,900] then among other things, that means that if
+- [00:04:07,060 - 00:04:10,560] you multiply a solution by any number, it's also
+- [00:04:10,560 - 00:04:14,060] a solution. So if you have a wave, you
+- [00:04:15,140 - 00:04:16,500] can multiply that wave by 125 or you can
+- [00:04:16,500 - 00:04:17,860] multiply that wave by a number, and that's a solution.
+- [00:04:17,860 - 00:04:18,870] If you apply a techn� or you can apply
+- [00:04:18,870 - 00:04:19,880] a vue or a wave discard, with the question
+- [00:04:19,880 - 00:04:21,470] of other numbers, that's a solution. But
+- [00:04:21,470 - 00:04:23,060] in case of this answer, you know probably
+- [00:04:23,060 - 00:04:25,950] you can't answer the hundredths or the
+- [00:04:25,950 - 00:04:28,840] ten-t's, can you? Cause neither of them even
+- [00:04:28,840 - 00:04:31,250] fit, and the answer is no, it's not even.
+- [00:04:31,250 - 00:04:33,660] You can do мира form refuter, it's a ,
+- [00:04:33,660 - 00:04:36,560] l, pur, per, refugees,inasolес...
+- [00:04:36,560 - 00:04:38,710] .. tard. So, besides that, if you
+- [00:04:38,710 - 00:04:40,860] multiply the amplitude of, let's say, the' возм梱
+- [00:04:40,860 - 00:04:42,860] or the amplitude of a freelance thirds with
+- [00:04:42,860 - 00:04:44,860] the value of the machine from which it's
+- [00:04:44,860 - 00:04:45,880] generated, in that furthest hand, if you
+- [00:04:45,880 - 00:04:46,900] can differentiate it between the mass and the
+- [00:04:46,900 - 00:04:47,350] freedom of the particle itself the scales of area,
+- [00:04:47,350 - 00:04:47,800] then you've got to find out, not never do a
+- [00:04:47,860 - 00:04:49,560] The more interesting statement is
+- [00:04:49,560 - 00:04:51,260] that if you have two solutions,
+- [00:04:52,020 - 00:04:53,590] A of X and another
+- [00:04:53,590 - 00:04:55,160] solution, B of X and T,
+- [00:04:57,020 - 00:04:59,020] then the sum of the two
+- [00:04:59,020 - 00:05:01,020] of them is also a solution.
+- [00:05:03,540 - 00:05:05,870] So what that means is that if
+- [00:05:05,870 - 00:05:08,200] you have two different waveforms, for example,
+- [00:05:11,200 - 00:05:14,640] let's say a waveform of, looks like this,
+- [00:05:14,640 - 00:05:16,470] another one which, oh, I
+- [00:05:16,470 - 00:05:18,300] don't know, has a higher frequency,
+- [00:05:18,599 - 00:05:20,320] smaller wavelength, looks like this.
+- [00:05:20,880 - 00:05:23,190] If you add them up, you'll
+- [00:05:23,190 - 00:05:25,500] get a wave which looks like,
+- [00:05:25,640 - 00:05:28,280] a little hard to draw, but let's draw it.
+- [00:05:30,039 - 00:05:33,620] One wave superimposed on the other, just add them,
+- [00:05:34,060 - 00:05:35,380] and that's also a solution.
+- [00:05:35,820 - 00:05:37,240] So you can add waves.
+- [00:05:37,800 - 00:05:39,870] One implication of that, for example, is
+- [00:05:39,870 - 00:05:41,940] if you have a wave moving along,
+- [00:05:41,940 - 00:05:43,440] it's coming in from the left,
+- [00:05:43,440 - 00:05:46,000] and another one coming in from the right,
+- [00:05:49,060 - 00:05:50,860] if you didn't have the left wave,
+- [00:05:51,500 - 00:05:54,700] the right wave would simply move to the,
+- [00:05:54,700 - 00:05:56,940] the right wave would move to the left,
+- [00:05:56,940 - 00:05:58,940] and eventually just move off.
+- [00:05:59,560 - 00:06:01,560] The left wave would move to the right,
+- [00:06:01,560 - 00:06:03,560] and also just move off.
+- [00:06:04,560 - 00:06:08,060] The sum of the solutions, after a long time,
+- [00:06:08,520 - 00:06:11,440] would just be two waves moving past each other.
+- [00:06:11,440 - 00:06:13,440] Linear equations have that feature.
+- [00:06:13,440 - 00:06:15,440] That waves which are propagating,
+- [00:06:15,440 - 00:06:17,440] let's say, toward each other,
+- [00:06:17,440 - 00:06:20,440] will just pass through each other without scattering,
+- [00:06:20,440 - 00:06:24,440] without getting stuck, without anything happening.
+- [00:06:24,440 - 00:06:27,440] They're completely transparent to each other.
+- [00:06:27,440 - 00:06:29,440] They don't affect each other,
+- [00:06:29,440 - 00:06:32,440] because the sum of the solutions is still a solution.
+- [00:06:33,440 - 00:06:36,940] So, that's the character, that's one
+- [00:06:36,940 - 00:06:40,440] of the features of Maxwell's equations.
+- [00:06:40,440 - 00:06:43,440] Linearity, as I said,
+- [00:06:43,440 - 00:06:46,440] what that says is that two electromagnetic waves
+- [00:06:46,440 - 00:06:48,440] will just pass through each
+- [00:06:48,440 - 00:06:50,440] other without doing anything at all.
+- [00:06:51,440 - 00:06:53,440] Now, electromagnetic waves can talk
+- [00:06:53,440 - 00:06:55,440] to each other, so to speak.
+- [00:06:55,440 - 00:06:57,440] They can interact with each other,
+- [00:06:57,440 - 00:06:59,940] but they interact with each other
+- [00:06:59,940 - 00:07:02,440] by virtue of interacting with electric charges.
+- [00:07:03,440 - 00:07:08,440] And, electric charge, which happens to be present,
+- [00:07:08,440 - 00:07:11,440] maybe a whole bunch of electric charges,
+- [00:07:11,440 - 00:07:13,440] the whole bunch of electric charges,
+- [00:07:13,440 - 00:07:16,440] will be excited and vibrated and
+- [00:07:16,440 - 00:07:19,440] tend to have forces on them
+- [00:07:19,440 - 00:07:22,440] because of the electromagnetic fields moving through.
+- [00:07:22,440 - 00:07:23,940] And so a field moving
+- [00:07:23,940 - 00:07:25,440] through a bunch of electric charges
+- [00:07:25,440 - 00:07:29,440] will start them oscillating and create new waves.
+- [00:07:29,440 - 00:07:32,440] Those new waves, which were not
+- [00:07:32,440 - 00:07:35,440] present in the absence of the charges,
+- [00:07:35,440 - 00:07:37,940] cannot be thought of as in any
+- [00:07:37,940 - 00:07:40,440] sense the sum of the original two waves.
+- [00:07:40,440 - 00:07:42,440] It's just newly created waves.
+- [00:07:42,440 - 00:07:48,440] And so there are nonlinear effects in electrodynamics,
+- [00:07:48,440 - 00:07:53,440] but only because electromagnetic waves can affect charges,
+- [00:07:53,440 - 00:07:56,440] and charges can affect electromagnetic waves,
+- [00:07:56,440 - 00:07:59,940] and the net effect can sometimes be for
+- [00:07:59,940 - 00:08:03,440] one electric wave to affect another electric wave.
+- [00:08:03,440 - 00:08:08,440] That's the classical theory of electromagnetism.
+- [00:08:08,440 - 00:08:11,440] No direct effect of one electromagnetic wave on another.
+- [00:08:12,440 - 00:08:14,440] Now you could imagine,
+- [00:08:14,440 - 00:08:18,440] let's write down some linear equation,
+- [00:08:18,440 - 00:08:21,440] a harmonic oscillator.
+- [00:08:21,440 - 00:08:23,940] The harmonic oscillator of the equation
+- [00:08:23,940 - 00:08:26,440] is d second x by dt squared,
+- [00:08:26,440 - 00:08:28,440] this is the acceleration,
+- [00:08:28,440 - 00:08:29,440] times the mass,
+- [00:08:29,440 - 00:08:31,440] is equal to the force,
+- [00:08:31,440 - 00:08:34,440] which is minus some spring constant times x.
+- [00:08:34,440 - 00:08:38,440] Suppose I have a solution of this equation.
+- [00:08:38,440 - 00:08:41,440] And now I take another solution of the equation,
+- [00:08:41,440 - 00:08:43,440] I'll just write it down again,
+- [00:08:43,440 - 00:08:45,440] instead of calling it, I'll call
+- [00:08:45,440 - 00:08:47,440] this x one and x one.
+- [00:08:47,440 - 00:08:50,440] Another solution, the x two by dt squared,
+- [00:08:50,440 - 00:08:53,440] equals minus k x two.
+- [00:08:53,440 - 00:08:55,440] These correspond to two different
+- [00:08:55,440 - 00:08:57,440] solutions of the same equation.
+- [00:08:57,440 - 00:08:59,440] If I add the two equations,
+- [00:08:59,440 - 00:09:02,940] I just get that m times the
+- [00:09:02,940 - 00:09:06,440] second derivative of x one plus x two
+- [00:09:06,440 - 00:09:07,940] is just equal to minus k
+- [00:09:07,940 - 00:09:09,440] times x one plus x two.
+- [00:09:09,440 - 00:09:12,440] And you see directly from the form of the equation
+- [00:09:12,440 - 00:09:15,440] that the sum of two solutions is another solution.
+- [00:09:15,440 - 00:09:18,440] But suppose I change the equation.
+- [00:09:18,440 - 00:09:21,440] Suppose I put here another term,
+- [00:09:21,440 - 00:09:23,440] let's call it p,
+- [00:09:23,440 - 00:09:28,440] times x one squared plus something else,
+- [00:09:28,440 - 00:09:34,440] q, oh sorry, plus p x two squared.
+- [00:09:34,440 - 00:09:39,440] These are both solutions of the same equation,
+- [00:09:39,440 - 00:09:41,440] but the equation is now nonlinear.
+- [00:09:41,440 - 00:09:45,440] Nonlinear means it has quadratic things in the fields.
+- [00:09:45,440 - 00:09:46,440] x squared.
+- [00:09:46,440 - 00:09:50,440] If you add these equations,
+- [00:09:50,440 - 00:09:54,440] what you'll get,
+- [00:09:54,440 - 00:09:58,440] m times d second x one
+- [00:09:58,440 - 00:10:02,440] plus x two by dt squared,
+- [00:10:02,440 - 00:10:08,440] equals minus k times x one plus x two,
+- [00:10:09,440 - 00:10:13,440] equals minus k times x one plus x two squared.
+- [00:10:13,440 - 00:10:15,440] So, the last term here,
+- [00:10:15,440 - 00:10:19,440] p, is not x one plus x two squared.
+- [00:10:19,440 - 00:10:20,940] It is not x one, I've
+- [00:10:20,940 - 00:10:22,440] written it, but it's not true.
+- [00:10:22,440 - 00:10:24,440] p x one squared plus
+- [00:10:24,440 - 00:10:26,440] p x two squared is not
+- [00:10:26,440 - 00:10:28,440] p times the sum of
+- [00:10:28,440 - 00:10:30,440] x one and x two squared.
+- [00:10:30,440 - 00:10:34,440] So x one plus x two is not a solution
+- [00:10:34,440 - 00:10:38,440] of the equation when you have something quadratic there.
+- [00:10:38,440 - 00:10:41,440] So, what does the next two do?
+- [00:10:41,440 - 00:10:44,440] There's no doubt that you could have added things
+- [00:10:44,440 - 00:10:46,440] to Maxwell's equations which are nonlinear.
+- [00:10:46,440 - 00:10:49,440] Nonlinear means that it would contain
+- [00:10:49,440 - 00:10:51,440] on the right hand side of the equations
+- [00:10:51,440 - 00:10:53,440] things quadratic in the electric field,
+- [00:10:53,440 - 00:10:56,440] things quadratic in the magnetic field,
+- [00:10:56,440 - 00:10:59,440] analogs of this here,
+- [00:10:59,440 - 00:11:01,440] which would,
+- [00:11:01,440 - 00:11:04,440] which if they existed in Maxwell's equations,
+- [00:11:04,440 - 00:11:06,440] would cause electromagnetic waves
+- [00:11:06,440 - 00:11:08,440] not to pass through each other,
+- [00:11:08,440 - 00:11:10,440] not to be apparent to each other,
+- [00:11:10,440 - 00:11:13,440] but one electromagnetic wave would affect the other
+- [00:11:13,440 - 00:11:15,940] and cause it to scatter,
+- [00:11:15,940 - 00:11:18,440] cause it to do other things.
+- [00:11:18,440 - 00:11:21,440] So you asked me whether you can derive
+- [00:11:21,440 - 00:11:24,440] Maxwell's equations from the principle of relativity alone.
+- [00:11:24,440 - 00:11:26,440] I think that's roughly what you asked.
+- [00:11:26,440 - 00:11:28,440] The answer is no.
+- [00:11:28,440 - 00:11:33,440] No, there's much more in it,
+- [00:11:33,440 - 00:11:35,440] some of it coming from experimental physics,
+- [00:11:35,440 - 00:11:37,440] such as the fact that electromagnetic waves
+- [00:11:37,440 - 00:11:41,440] do freely pass through each other,
+- [00:11:41,440 - 00:11:45,440] but you add together a few assumptions,
+- [00:11:45,440 - 00:11:49,440] linear, not too many derivatives in the equations,
+- [00:11:49,440 - 00:11:52,440] and that's enough.
+- [00:11:52,440 - 00:11:54,440] But no, you can't derive,
+- [00:11:54,440 - 00:11:58,440] I don't know any basic law of physics
+- [00:11:58,440 - 00:12:02,440] that you can derive just from relativity alone
+- [00:12:02,440 - 00:12:05,440] without some input of a physical,
+- [00:12:05,440 - 00:12:07,440] of a experiment.
+- [00:12:07,440 - 00:12:11,440] So you can't derive a fundamental type.
+- [00:12:11,440 - 00:12:14,440] Symmetries constrain theories,
+- [00:12:14,440 - 00:12:17,440] but they don't determine them as a rule.
+- [00:12:17,440 - 00:12:19,440] Okay, any other questions?
+- [00:12:19,440 - 00:12:20,440] Good.
+- [00:12:20,440 - 00:12:23,440] All right, so let's move on to,
+- [00:12:23,440 - 00:12:26,440] first of all, a little, little, little bit
+- [00:12:26,440 - 00:12:30,440] about general relativity, very little,
+- [00:12:30,440 - 00:12:32,440] but then on to cosmology,
+- [00:12:32,440 - 00:12:35,440] what real space-time is really like.
+- [00:12:35,440 - 00:12:37,440] Expanding space-time,
+- [00:12:37,440 - 00:12:41,440] inflating space-time,
+- [00:12:41,440 - 00:12:43,440] which cannot be described by
+- [00:12:43,440 - 00:12:46,440] special theory of relativity.
+- [00:12:46,440 - 00:12:49,440] It requires a more general structure
+- [00:12:49,440 - 00:12:51,440] called the general theory.
+- [00:12:51,440 - 00:12:54,440] All right, the special theory of relativity
+- [00:12:54,440 - 00:12:58,440] can be summarized by
+- [00:12:58,440 - 00:13:01,440] a very simple idea
+- [00:13:01,440 - 00:13:04,440] that there's a geometry
+- [00:13:04,440 - 00:13:07,440] of space-time
+- [00:13:07,440 - 00:13:10,440] and that geometry is determined
+- [00:13:10,440 - 00:13:12,440] by knowing the distance between
+- [00:13:12,440 - 00:13:16,440] every pair of neighboring space-time points.
+- [00:13:16,440 - 00:13:18,440] This is a fact about geometry in general,
+- [00:13:18,440 - 00:13:21,440] about Riemannian geometry in general,
+- [00:13:21,440 - 00:13:23,440] that if you know the distance between
+- [00:13:23,440 - 00:13:26,440] every pair of neighboring space-time points,
+- [00:13:26,440 - 00:13:28,440] that in principle you can reconstruct
+- [00:13:28,440 - 00:13:31,440] the entire geometry of space.
+- [00:13:31,440 - 00:13:36,440] I'll give you an example in a few minutes.
+- [00:13:37,440 - 00:13:40,440] But of a non-trivial geometry.
+- [00:13:40,440 - 00:13:43,440] But you represent then
+- [00:13:43,440 - 00:13:48,440] the small interval between two points
+- [00:13:48,440 - 00:13:51,440] by a coordinate, a set of coordinates,
+- [00:13:51,440 - 00:13:52,440] we can call them x mu,
+- [00:13:52,440 - 00:13:55,440] where as usual, mu runs from 0 to 3,
+- [00:13:55,440 - 00:14:00,440] and another point, x mu plus dx mu,
+- [00:14:00,440 - 00:14:03,440] where this little interval is called dx mu.
+- [00:14:03,440 - 00:14:06,440] What's the distance between those two points?
+- [00:14:06,440 - 00:14:09,440] The distance between those two points,
+- [00:14:09,440 - 00:14:11,440] of course, it is whatever it is,
+- [00:14:11,440 - 00:14:14,440] it's a certain space-time interval there,
+- [00:14:14,440 - 00:14:16,440] but how do you represent it
+- [00:14:16,440 - 00:14:19,440] in terms of the coordinates of those points?
+- [00:14:19,440 - 00:14:21,440] In general relativity, we wrote that
+- [00:14:21,440 - 00:14:24,440] the distance between those two points, ds squared,
+- [00:14:24,440 - 00:14:29,440] is equal to dt squared minus dx squared
+- [00:14:29,440 - 00:14:33,440] minus dy squared minus dz squared,
+- [00:14:33,440 - 00:14:35,440] which we can also write as
+- [00:14:35,440 - 00:14:39,440] dx mu dx mu.
+- [00:14:39,440 - 00:14:41,440] And another way that we wrote it
+- [00:14:41,440 - 00:14:45,440] was eta mu nu,
+- [00:14:45,440 - 00:14:49,440] dx mu dx nu,
+- [00:14:49,440 - 00:14:52,440] where eta was just a matrix,
+- [00:14:52,440 - 00:14:54,440] a very simple matrix,
+- [00:14:54,440 - 00:14:57,440] oh, did we call this tau, proper time?
+- [00:14:57,440 - 00:15:00,440] Maybe we called it tau, proper time.
+- [00:15:00,440 - 00:15:04,440] Where eta,
+- [00:15:04,440 - 00:15:06,440] eta was just a matrix,
+- [00:15:06,440 - 00:15:11,440] 1, minus 1, minus 1, minus 1, 0s everywhere else.
+- [00:15:11,440 - 00:15:13,440] Those are three ways that we wrote
+- [00:15:13,440 - 00:15:17,440] the space-time interval between neighboring points.
+- [00:15:17,440 - 00:15:22,440] Now, one statement of the general theory,
+- [00:15:22,440 - 00:15:24,440] of the special theory of relativity,
+- [00:15:24,440 - 00:15:26,440] excuse me, the special theory of relativity,
+- [00:15:26,440 - 00:15:29,440] is that the tau squared
+- [00:15:29,440 - 00:15:32,440] should be taken to be an invariant of the geometry,
+- [00:15:32,440 - 00:15:34,440] in other words,
+- [00:15:34,440 - 00:15:36,440] that all observers,
+- [00:15:36,440 - 00:15:39,440] generally they will not agree
+- [00:15:39,440 - 00:15:41,440] on what dx is.
+- [00:15:41,440 - 00:15:43,440] If we rotate coordinates,
+- [00:15:43,440 - 00:15:45,440] or Lorentz transform coordinates,
+- [00:15:45,440 - 00:15:49,440] they'll disagree about the components of dx,
+- [00:15:49,440 - 00:15:51,440] but what they will agree about
+- [00:15:51,440 - 00:15:55,440] is the proper time between the two points.
+- [00:15:55,440 - 00:15:58,440] So the proper time is an invariant.
+- [00:15:58,440 - 00:16:04,440] That's one initial starting point
+- [00:16:04,440 - 00:16:06,440] for a sort of axiomatic description
+- [00:16:06,440 - 00:16:09,440] of special theory of relativity.
+- [00:16:09,440 - 00:16:11,440] The second statement,
+- [00:16:11,440 - 00:16:14,440] which is not an axiom, it's a theorem,
+- [00:16:14,440 - 00:16:18,440] is that the transformations
+- [00:16:18,440 - 00:16:22,440] that you can do on x, y, z, and t,
+- [00:16:22,440 - 00:16:27,440] which preserve the form of the interval,
+- [00:16:27,440 - 00:16:30,440] are Lorentz transformations.
+- [00:16:30,440 - 00:16:32,440] If we look at Lorentz transformations,
+- [00:16:32,440 - 00:16:33,440] and rotations, and so forth,
+- [00:16:33,440 - 00:16:36,440] the interval in terms of primed coordinates
+- [00:16:36,440 - 00:16:38,440] has exactly the same form as the interval
+- [00:16:38,440 - 00:16:41,440] in terms of the unprimed coordinates.
+- [00:16:41,440 - 00:16:44,440] So that's a statement of symmetry
+- [00:16:44,440 - 00:16:46,440] that the basic proper time
+- [00:16:46,440 - 00:16:49,440] can be expressed
+- [00:16:49,440 - 00:16:52,440] in all Lorentz frames
+- [00:16:52,440 - 00:16:54,440] by the same basic formula.
+- [00:16:54,440 - 00:16:56,440] And then the final statement is
+- [00:16:56,440 - 00:16:59,440] that having found what the symmetry
+- [00:16:59,440 - 00:17:01,440] of the interval is,
+- [00:17:01,440 - 00:17:02,440] having found out
+- [00:17:02,440 - 00:17:04,440] what the symmetry of the,
+- [00:17:04,440 - 00:17:07,440] what family of coordinates
+- [00:17:07,440 - 00:17:09,440] always gives the same answer here
+- [00:17:09,440 - 00:17:11,440] for the interval,
+- [00:17:11,440 - 00:17:13,440] then the rule is
+- [00:17:13,440 - 00:17:15,440] all laws of physics
+- [00:17:15,440 - 00:17:17,440] are identical
+- [00:17:17,440 - 00:17:19,440] in those different frames of reference
+- [00:17:19,440 - 00:17:22,440] which are related by Lorentz transformations.
+- [00:17:22,440 - 00:17:25,440] Now, of course, it is not true
+- [00:17:25,440 - 00:17:27,440] that every set of coordinates
+- [00:17:27,440 - 00:17:29,440] that you could think of,
+- [00:17:29,440 - 00:17:31,440] the interval is expressed in the same way.
+- [00:17:31,440 - 00:17:33,440] Let me give you an example
+- [00:17:33,440 - 00:17:35,440] just from ordinary space.
+- [00:17:35,440 - 00:17:38,440] Not space-time, but space.
+- [00:17:38,440 - 00:17:41,440] If I take coordinates x and y,
+- [00:17:41,440 - 00:17:44,440] which are the usual kind of,
+- [00:17:44,440 - 00:17:46,440] sorry, x and y,
+- [00:17:46,440 - 00:17:49,440] the usual kind of Cartesian coordinates,
+- [00:17:49,440 - 00:17:52,440] then yes, the separation between two points
+- [00:17:52,440 - 00:17:55,440] is just the x squared plus the y squared.
+- [00:17:55,440 - 00:17:58,440] If I rotate the coordinates
+- [00:17:58,440 - 00:18:00,440] to x prime and y prime,
+- [00:18:00,440 - 00:18:04,440] by a standard rotation of coordinates,
+- [00:18:04,440 - 00:18:06,440] then the same interval
+- [00:18:06,440 - 00:18:10,440] is dx prime squared plus dy prime squared.
+- [00:18:10,440 - 00:18:12,440] But what if I do something dumb?
+- [00:18:12,440 - 00:18:15,440] Like, use coordinates,
+- [00:18:15,440 - 00:18:18,440] use a coordinate mesh,
+- [00:18:18,440 - 00:18:20,440] where x and y
+- [00:18:20,440 - 00:18:23,440] are not measured in the same units.
+- [00:18:23,440 - 00:18:25,440] x is measured in inches,
+- [00:18:25,440 - 00:18:29,440] and y is measured in meters.
+- [00:18:29,440 - 00:18:32,440] I have a point x, y,
+- [00:18:32,440 - 00:18:35,440] and a point x plus dx,
+- [00:18:35,440 - 00:18:37,440] and y plus dy.
+- [00:18:37,440 - 00:18:39,440] What is the distance between those two points?
+- [00:18:39,440 - 00:18:42,440] It is not dx squared plus dy squared.
+- [00:18:42,440 - 00:18:44,440] Why not?
+- [00:18:44,440 - 00:18:46,440] Because you're measuring the interval
+- [00:18:46,440 - 00:18:49,440] in different units.
+- [00:18:49,440 - 00:18:51,440] In particular, supposing I wanted
+- [00:18:51,440 - 00:18:53,440] the distance in inches.
+- [00:18:53,440 - 00:18:57,440] Let's see, let me use centimeters here.
+- [00:18:57,440 - 00:19:00,440] Centimeters and meters.
+- [00:19:00,440 - 00:19:03,440] Centimeters and meters.
+- [00:19:03,440 - 00:19:05,440] I don't like factors of 12
+- [00:19:05,440 - 00:19:07,440] and factors of 144,
+- [00:19:07,440 - 00:19:09,440] factors of 10 are easier.
+- [00:19:09,440 - 00:19:12,440] Supposing I want the distance
+- [00:19:12,440 - 00:19:14,440] between neighboring points,
+- [00:19:14,440 - 00:19:16,440] but I want to measure it in centimeters.
+- [00:19:16,440 - 00:19:18,440] In centimeters.
+- [00:19:18,440 - 00:19:20,440] This is x, and this is y.
+- [00:19:20,440 - 00:19:22,440] What is the distance between two points?
+- [00:19:22,440 - 00:19:26,440] It is not dx squared plus dy squared.
+- [00:19:26,440 - 00:19:30,940] But it is dx squared
+- [00:19:30,940 - 00:19:35,440] plus dy divided by 100 squared.
+- [00:19:35,440 - 00:19:37,440] Why over 100?
+- [00:19:37,440 - 00:19:38,940] Well, it is obvious that
+- [00:19:38,940 - 00:19:40,440] if you use the same unit
+- [00:19:40,440 - 00:19:42,440] for y as for x,
+- [00:19:42,440 - 00:19:44,440] and you're measuring things in centimeters,
+- [00:19:44,440 - 00:19:47,440] then it would be dx squared plus dy squared.
+- [00:19:47,440 - 00:19:51,440] But if I use meters for the vertical axis here,
+- [00:19:51,440 - 00:19:53,440] and I want to get back to centimeters,
+- [00:19:53,440 - 00:19:55,440] I'd better divide
+- [00:19:55,440 - 00:19:58,440] the y component of vectors by 100.
+- [00:19:58,440 - 00:20:00,440] So we can rewrite this then.
+- [00:20:00,440 - 00:20:02,440] It's dx squared
+- [00:20:02,440 - 00:20:04,440] plus
+- [00:20:04,440 - 00:20:06,440] 1 over 100 squared.
+- [00:20:06,440 - 00:20:08,440] 1 over 10,000
+- [00:20:08,440 - 00:20:10,440] dy squared.
+- [00:20:10,440 - 00:20:12,440] So if I do something stupid,
+- [00:20:12,440 - 00:20:14,440] like use awkward coordinates
+- [00:20:14,440 - 00:20:16,440] in where x and y are not measured
+- [00:20:16,440 - 00:20:18,440] in the same units,
+- [00:20:18,440 - 00:20:20,440] then my expression for distance
+- [00:20:20,440 - 00:20:22,440] is going to have a form
+- [00:20:22,440 - 00:20:24,440] which will contain
+- [00:20:24,440 - 00:20:26,440] some funny numbers in it,
+- [00:20:26,440 - 00:20:27,440] like 1 over 100,
+- [00:20:27,440 - 00:20:29,440] 10,000 here.
+- [00:20:29,440 - 00:20:31,440] In particular, it won't be the nice symmetric
+- [00:20:31,440 - 00:20:33,440] dx squared plus dy squared.
+- [00:20:33,440 - 00:20:35,440] I go a little further.
+- [00:20:35,440 - 00:20:37,440] Supposing I don't use
+- [00:20:37,440 - 00:20:39,440] orthogonal coordinates.
+- [00:20:39,440 - 00:20:41,440] Supposing I decide to choose
+- [00:20:41,440 - 00:20:43,440] coordinates in the following way.
+- [00:20:43,440 - 00:20:46,440] I choose coordinate axes which look like that.
+- [00:20:46,440 - 00:20:49,440] And now my rule is going to be
+- [00:20:49,440 - 00:20:52,440] the coordinates of a point are gotten
+- [00:20:52,440 - 00:20:54,440] by moving along the x-axis
+- [00:20:54,440 - 00:20:57,440] not to the point where you drop a perpendicular,
+- [00:20:57,440 - 00:20:59,440] but where you draw a line
+- [00:20:59,440 - 00:21:01,440] parallel to the y-axis.
+- [00:21:01,440 - 00:21:03,440] Likewise, the y-coordinate,
+- [00:21:03,440 - 00:21:05,440] so this would be the x-coordinate
+- [00:21:05,440 - 00:21:07,440] and this would be the y-coordinate.
+- [00:21:07,440 - 00:21:09,440] Then,
+- [00:21:09,440 - 00:21:11,440] the distance between two points,
+- [00:21:11,440 - 00:21:13,440] you don't have the standard
+- [00:21:13,440 - 00:21:15,440] Pythagorean theorem anymore.
+- [00:21:15,440 - 00:21:17,440] We have triangles, we have triangles now.
+- [00:21:17,440 - 00:21:19,440] Here's x,
+- [00:21:19,440 - 00:21:21,440] here's y.
+- [00:21:21,440 - 00:21:23,440] This is not a right triangle.
+- [00:21:23,440 - 00:21:25,440] So, the hypotenuse is not a hypotenuse.
+- [00:21:25,440 - 00:21:27,440] It's just a third side of a triangle.
+- [00:21:27,440 - 00:21:29,440] The length of this is definitely not
+- [00:21:29,440 - 00:21:31,440] the x squared plus the y squared.
+- [00:21:31,440 - 00:21:33,440] Even if we use the same units
+- [00:21:33,440 - 00:21:35,440] on the x and y-axis,
+- [00:21:35,440 - 00:21:37,440] it's just not true.
+- [00:21:37,440 - 00:21:39,440] What is it?
+- [00:21:39,440 - 00:21:41,440] Well, I won't write down
+- [00:21:41,440 - 00:21:43,440] precisely what the formula is.
+- [00:21:43,440 - 00:21:45,440] But it will always be of the form
+- [00:21:45,440 - 00:21:47,440] of some kind of a triangle.
+- [00:21:47,440 - 00:21:49,440] And that's what I'm going to do.
+- [00:21:49,440 - 00:21:51,440] I'm going to write down
+- [00:21:51,440 - 00:21:53,440] the length of the triangle.
+- [00:21:53,440 - 00:21:55,440] The length of the triangle
+- [00:21:55,440 - 00:21:57,440] is one coefficient of the x squared
+- [00:21:57,440 - 00:21:59,440] plus another coefficient of the y squared.
+- [00:21:59,440 - 00:22:01,440] Let me not call it d.
+- [00:22:01,440 - 00:22:03,440] Let's call it a, b, and c.
+- [00:22:03,440 - 00:22:05,440] a
+- [00:22:05,440 - 00:22:07,440] some number b
+- [00:22:07,440 - 00:22:09,440] the y squared
+- [00:22:09,440 - 00:22:11,440] but then
+- [00:22:11,440 - 00:22:13,440] what's new about
+- [00:22:13,440 - 00:22:15,440] coordinate systems which have
+- [00:22:15,440 - 00:22:17,440] angles in them like this
+- [00:22:17,440 - 00:22:19,440] which are not rectangular
+- [00:22:19,440 - 00:22:21,440] which are not perpendicular
+- [00:22:21,440 - 00:22:23,440] is that there are additional terms
+- [00:22:23,440 - 00:22:25,440] c times dxdy
+- [00:22:25,440 - 00:22:27,440] products
+- [00:22:27,440 - 00:22:29,440] of different
+- [00:22:29,440 - 00:22:31,440] coordinates
+- [00:22:31,440 - 00:22:33,440] that's what happens
+- [00:22:33,440 - 00:22:35,440] if you have
+- [00:22:35,440 - 00:22:37,440] coordinate systems
+- [00:22:37,440 - 00:22:39,440] which are not orthogonal
+- [00:22:39,440 - 00:22:41,440] which are not orthogonal coordinates
+- [00:22:41,440 - 00:22:43,440] off diagonal elements like that
+- [00:22:43,440 - 00:22:45,440] you can also write this
+- [00:22:45,440 - 00:22:47,440] in another way
+- [00:22:47,440 - 00:22:49,440] you can write it c over 2 times dxdy
+- [00:22:49,440 - 00:22:51,440] plus c over 2
+- [00:22:51,440 - 00:22:53,440] times dy dx.
+- [00:22:53,440 - 00:22:57,440] And so you have a whole bunch of
+- [00:22:57,440 - 00:22:59,440] coefficients.
+- [00:22:59,440 - 00:23:01,440] We could give these coefficients names
+- [00:23:01,440 - 00:23:03,440] we could call this
+- [00:23:05,440 - 00:23:07,440] for the fact that it multiplies dx squared
+- [00:23:07,440 - 00:23:09,440] we could call this 2, 2
+- [00:23:09,440 - 00:23:11,440] well let's not
+- [00:23:11,440 - 00:23:13,440] why are we giving them different names
+- [00:23:13,440 - 00:23:15,440] we could just call it a, 2, 2
+- [00:23:15,440 - 00:23:17,440] or a, y, y
+- [00:23:17,440 - 00:23:19,440] this one
+- [00:23:19,440 - 00:23:21,440] we could call a, x, y
+- [00:23:21,440 - 00:23:23,440] and this one
+- [00:23:23,440 - 00:23:25,440] we could call a, y, x
+- [00:23:27,440 - 00:23:29,440] notice that a, x, y
+- [00:23:29,440 - 00:23:31,440] and a, y, x are exactly the same thing
+- [00:23:31,440 - 00:23:33,440] I simply took the coefficient
+- [00:23:33,440 - 00:23:35,440] of dxdy and split it
+- [00:23:35,440 - 00:23:37,440] between two terms
+- [00:23:37,440 - 00:23:39,440] one which is dxdy and the other
+- [00:23:39,440 - 00:23:41,440] which is dy dx just to symmetrize it
+- [00:23:41,440 - 00:23:43,440] just to make it nice and symmetric
+- [00:23:43,440 - 00:23:45,440] finally
+- [00:23:45,440 - 00:23:47,440] I could display these coefficients
+- [00:23:47,440 - 00:23:49,440] a as a matrix
+- [00:23:49,440 - 00:23:51,440] a, 1, 1
+- [00:23:51,440 - 00:23:53,440] a, 1, well
+- [00:23:53,440 - 00:23:55,440] x, y, 1, 2
+- [00:23:57,440 - 00:23:59,440] a, 1, 2
+- [00:23:59,440 - 00:24:01,440] a, 2, 1
+- [00:24:01,440 - 00:24:03,440] a, 2, 2
+- [00:24:03,440 - 00:24:05,440] just display them as a metric
+- [00:24:05,440 - 00:24:07,440] as a matrix
+- [00:24:07,440 - 00:24:09,440] in fact the matrix is called a metric
+- [00:24:09,440 - 00:24:11,440] and
+- [00:24:11,440 - 00:24:13,440] this metric
+- [00:24:13,440 - 00:24:15,440] completely encapsulates
+- [00:24:15,440 - 00:24:17,440] what the
+- [00:24:17,440 - 00:24:19,440] distance between neighboring pairs
+- [00:24:19,440 - 00:24:21,440] of points is
+- [00:24:21,440 - 00:24:23,440] and what the coefficients are
+- [00:24:23,440 - 00:24:25,440] in terms of four coefficients
+- [00:24:25,440 - 00:24:27,440] laid out as a matrix
+- [00:24:27,440 - 00:24:29,440] this matrix is called the metric
+- [00:24:29,440 - 00:24:31,440] now
+- [00:24:31,440 - 00:24:33,440] if we're dealing with ordinary
+- [00:24:33,440 - 00:24:35,440] space of the blackboard
+- [00:24:35,440 - 00:24:37,440] flat space, uniform space
+- [00:24:37,440 - 00:24:39,440] everywhere the same
+- [00:24:39,440 - 00:24:41,440] and
+- [00:24:41,440 - 00:24:43,440] we choose our coordinates
+- [00:24:43,440 - 00:24:45,440] let's say at an angle
+- [00:24:45,440 - 00:24:47,440] but we choose them
+- [00:24:47,440 - 00:24:49,440] by marking off distances
+- [00:24:49,440 - 00:24:51,440] by
+- [00:24:51,440 - 00:24:53,440] marking off distances
+- [00:24:53,440 - 00:24:55,440] which are equal
+- [00:24:55,440 - 00:24:57,440] along the x-axis
+- [00:24:57,440 - 00:24:59,440] distances
+- [00:24:59,440 - 00:25:01,440] which are equal all along the y-axis
+- [00:25:01,440 - 00:25:03,440] which are equal all along the y-axis
+- [00:25:03,440 - 00:25:05,440] then
+- [00:25:05,440 - 00:25:07,440] these coefficients will just be
+- [00:25:07,440 - 00:25:09,440] constants
+- [00:25:09,440 - 00:25:11,440] they'll be constants
+- [00:25:11,440 - 00:25:13,440] because
+- [00:25:13,440 - 00:25:15,440] they'll be constants
+- [00:25:15,440 - 00:25:17,440] all over the plane here
+- [00:25:17,440 - 00:25:19,440] again, if we did something foolish
+- [00:25:19,440 - 00:25:21,440] like decide to use coefficients
+- [00:25:21,440 - 00:25:23,440] which lump up over here
+- [00:25:23,440 - 00:25:25,440] and have a very
+- [00:25:25,440 - 00:25:27,440] different spacing
+- [00:25:27,440 - 00:25:29,440] in other words, where the coordinate spacing
+- [00:25:29,440 - 00:25:31,440] by one, the horizontal axis
+- [00:25:31,440 - 00:25:33,440] here is x
+- [00:25:33,440 - 00:25:35,440] this is x equals one, this is x equals two
+- [00:25:35,440 - 00:25:37,440] this is x equals three, four, five
+- [00:25:37,440 - 00:25:39,440] six, we've made
+- [00:25:39,440 - 00:25:41,440] the coordinate mesh very
+- [00:25:41,440 - 00:25:43,440] non-uniform
+- [00:25:43,440 - 00:25:45,440] then it's completely obvious
+- [00:25:45,440 - 00:25:47,440] that these a's
+- [00:25:47,440 - 00:25:49,440] will not be constants
+- [00:25:49,440 - 00:25:51,440] because depending on where you are
+- [00:25:51,440 - 00:25:53,440] the coordinate mesh
+- [00:25:53,440 - 00:25:55,440] might be
+- [00:25:55,440 - 00:25:57,440] finer or coarser
+- [00:25:57,440 - 00:25:59,440] and so forth
+- [00:25:59,440 - 00:26:01,440] and the result of that
+- [00:26:01,440 - 00:26:03,440] will be that in general
+- [00:26:03,440 - 00:26:05,440] if you use arbitrary coordinates
+- [00:26:05,440 - 00:26:07,440] crazy coordinates which are
+- [00:26:07,440 - 00:26:09,440] curved in all kinds of complexity
+- [00:26:09,440 - 00:26:11,440] where the spacing between
+- [00:26:11,440 - 00:26:13,440] coordinates is non-uniform
+- [00:26:13,440 - 00:26:15,440] then the general rule
+- [00:26:15,440 - 00:26:17,440] will be these coefficients will be functions
+- [00:26:17,440 - 00:26:19,440] of position
+- [00:26:21,440 - 00:26:23,440] what functions of position?
+- [00:26:23,440 - 00:26:25,440] not any functions of position
+- [00:26:25,440 - 00:26:27,440] if we're talking about the flat plane
+- [00:26:27,440 - 00:26:29,440] but a fairly
+- [00:26:29,440 - 00:26:31,440] a fairly wide class of functions
+- [00:26:31,440 - 00:26:33,440] can describe
+- [00:26:33,440 - 00:26:35,440] the interval between two points
+- [00:26:35,440 - 00:26:37,440] in what I could call
+- [00:26:37,440 - 00:26:39,440] crazy coordinates
+- [00:26:39,440 - 00:26:41,440] coordinates which have curved axes
+- [00:26:41,440 - 00:26:43,440] and which are non-uniform
+- [00:26:43,440 - 00:26:45,440] but nevertheless
+- [00:26:45,440 - 00:26:47,440] the basic
+- [00:26:47,440 - 00:26:49,440] the basic
+- [00:26:49,440 - 00:26:51,440] the basic
+- [00:26:51,440 - 00:26:53,440] geometry of the blackboard
+- [00:26:53,440 - 00:26:55,440] is determined
+- [00:26:55,440 - 00:26:57,440] by knowing the distance
+- [00:26:57,440 - 00:26:59,440] between every pair of neighboring points
+- [00:26:59,440 - 00:27:01,440] where the points could be
+- [00:27:01,440 - 00:27:03,440] described by
+- [00:27:03,440 - 00:27:05,440] coordinates x and y
+- [00:27:05,440 - 00:27:07,440] the same thing is true
+- [00:27:07,440 - 00:27:09,440] in special relativity
+- [00:27:09,440 - 00:27:11,440] that
+- [00:27:11,440 - 00:27:13,440] if you use
+- [00:27:13,440 - 00:27:15,440] the right kind of coordinates
+- [00:27:15,440 - 00:27:17,440] that means coordinates obtained
+- [00:27:17,440 - 00:27:19,440] by Lorentz transformation
+- [00:27:19,440 - 00:27:21,440] from each other
+- [00:27:21,440 - 00:27:23,440] then the space-time interval
+- [00:27:23,440 - 00:27:25,440] between two points is always
+- [00:27:25,440 - 00:27:27,440] of the same type
+- [00:27:27,440 - 00:27:29,440] always of the same form
+- [00:27:29,440 - 00:27:31,440] if you use some cattywampus coordinates
+- [00:27:31,440 - 00:27:33,440] which are curved
+- [00:27:33,440 - 00:27:35,440] which nobody can prevent you from doing
+- [00:27:35,440 - 00:27:37,440] I mean we can always use any coordinates we like
+- [00:27:37,440 - 00:27:39,440] then the general formula
+- [00:27:39,440 - 00:27:41,440] will be very very similar
+- [00:27:41,440 - 00:27:43,440] to what we've written here
+- [00:27:43,440 - 00:27:45,440] and I'm going to write it down
+- [00:27:45,440 - 00:27:47,440] the general formula in any coordinates
+- [00:27:47,440 - 00:27:49,440] of exactly the same quantity
+- [00:27:49,440 - 00:27:51,440] is some set of coefficients
+- [00:27:51,440 - 00:27:53,440] and they're usually called
+- [00:27:53,440 - 00:27:55,440] g mu nu
+- [00:27:55,440 - 00:27:57,440] of position
+- [00:27:57,440 - 00:27:59,440] all the
+- [00:27:59,440 - 00:28:01,440] there'll generally be functions
+- [00:28:01,440 - 00:28:03,440] of position
+- [00:28:03,440 - 00:28:05,440] and then you'll have
+- [00:28:05,440 - 00:28:07,440] the x mu
+- [00:28:07,440 - 00:28:09,440] the x nu
+- [00:28:09,440 - 00:28:11,440] just in case it was not obvious
+- [00:28:11,440 - 00:28:13,440] this can also be written
+- [00:28:13,440 - 00:28:15,440] as a i j
+- [00:28:15,440 - 00:28:17,440] the x i
+- [00:28:17,440 - 00:28:19,440] the x j
+- [00:28:19,440 - 00:28:21,440] summed over i and j
+- [00:28:21,440 - 00:28:23,440] so
+- [00:28:23,440 - 00:28:25,440] this is a very very general way
+- [00:28:25,440 - 00:28:27,440] of writing
+- [00:28:27,440 - 00:28:29,440] the space-time interval
+- [00:28:29,440 - 00:28:31,440] between an arbitrary pair of points
+- [00:28:31,440 - 00:28:33,440] and if you know what g mu nu is
+- [00:28:33,440 - 00:28:35,440] then you know
+- [00:28:35,440 - 00:28:37,440] the space-time geometry completely
+- [00:28:37,440 - 00:28:39,440] if you know
+- [00:28:39,440 - 00:28:41,440] the space-time geometry completely
+- [00:28:41,440 - 00:28:43,440] that does not
+- [00:28:43,440 - 00:28:45,440] determine what g mu nu is
+- [00:28:45,440 - 00:28:47,440] why not
+- [00:28:47,440 - 00:28:49,440] because you could always go and change
+- [00:28:49,440 - 00:28:51,440] the coordinates in space-time
+- [00:28:51,440 - 00:28:53,440] in some peculiar way
+- [00:28:53,440 - 00:28:55,440] and change what g mu nu is
+- [00:28:55,440 - 00:28:57,440] so g mu nu
+- [00:28:57,440 - 00:28:59,440] determines the space-time
+- [00:28:59,440 - 00:29:01,440] but the space
+- [00:29:01,440 - 00:29:03,440] the geometric properties of it
+- [00:29:03,440 - 00:29:05,440] the distance between neighboring points
+- [00:29:05,440 - 00:29:07,440] and so forth
+- [00:29:07,440 - 00:29:09,440] but not the other way
+- [00:29:09,440 - 00:29:11,440] the geometry doesn't completely determine
+- [00:29:11,440 - 00:29:13,440] what g mu nu is
+- [00:29:13,440 - 00:29:15,440] ok any questions about
+- [00:29:15,440 - 00:29:17,440] the symbols on the blackboard thus far
+- [00:29:17,440 - 00:29:19,440] this is just a moral
+- [00:29:19,440 - 00:29:21,440] more general way
+- [00:29:21,440 - 00:29:23,440] of writing the spatial
+- [00:29:23,440 - 00:29:25,440] and temporal relationship
+- [00:29:25,440 - 00:29:27,440] between points
+- [00:29:27,440 - 00:29:29,440] and of course there are many possibilities
+- [00:29:29,440 - 00:29:31,440] for the choice
+- [00:29:31,440 - 00:29:33,440] of the functions g mu nu of x
+- [00:29:33,440 - 00:29:35,440] ok
+- [00:29:35,440 - 00:29:37,440] now
+- [00:29:37,440 - 00:29:39,440] let's go back to ordinary space
+- [00:29:39,440 - 00:29:41,440] but imagine
+- [00:29:41,440 - 00:29:43,440] a space which is not as flat
+- [00:29:43,440 - 00:29:45,440] as the blackboard
+- [00:29:45,440 - 00:29:47,440] which is curved
+- [00:29:49,440 - 00:29:51,440] let me first tell you what curved doesn't mean
+- [00:29:51,440 - 00:29:53,440] if I take this piece of paper here
+- [00:29:53,440 - 00:29:55,440] and stretch it out nice and flat
+- [00:29:55,440 - 00:29:57,440] on the surface here
+- [00:29:57,440 - 00:29:59,440] we'll all agree
+- [00:29:59,440 - 00:30:01,440] that that piece of paper is flat
+- [00:30:01,440 - 00:30:03,440] relations between points
+- [00:30:03,440 - 00:30:05,440] for example
+- [00:30:05,440 - 00:30:07,440] the fact that
+- [00:30:07,440 - 00:30:09,440] triangles
+- [00:30:09,440 - 00:30:11,440] have angles
+- [00:30:11,440 - 00:30:13,440] which add up to 180 degrees
+- [00:30:13,440 - 00:30:15,440] and so forth
+- [00:30:15,440 - 00:30:17,440] that's all determined
+- [00:30:17,440 - 00:30:19,440] by the fact that
+- [00:30:19,440 - 00:30:21,440] the distance between the two
+- [00:30:21,440 - 00:30:23,440] is determined by knowing
+- [00:30:23,440 - 00:30:25,440] the relationship between
+- [00:30:25,440 - 00:30:27,440] distances of neighboring points
+- [00:30:27,440 - 00:30:29,440] now I take this piece of paper
+- [00:30:29,440 - 00:30:31,440] and I bend it
+- [00:30:31,440 - 00:30:33,440] nice and gently
+- [00:30:33,440 - 00:30:35,440] into a cylinder
+- [00:30:35,440 - 00:30:37,440] or let's not close it up
+- [00:30:37,440 - 00:30:39,440] let's just bend it in some way like that
+- [00:30:39,440 - 00:30:41,440] I haven't stretched it
+- [00:30:41,440 - 00:30:43,440] I have not stretched it
+- [00:30:43,440 - 00:30:45,440] I've only bent it
+- [00:30:45,440 - 00:30:47,440] that is not what's called curved
+- [00:30:47,440 - 00:30:49,440] in fact most explicitly
+- [00:30:49,440 - 00:30:51,440] if you have a piece of paper
+- [00:30:51,440 - 00:30:53,440] anywhere stretching it
+- [00:30:53,440 - 00:30:55,440] you don't change the distance
+- [00:30:55,440 - 00:30:57,440] between any pair of neighboring points
+- [00:30:57,440 - 00:30:59,440] the distance along the piece of paper
+- [00:30:59,440 - 00:31:01,440] the distance being calculated
+- [00:31:01,440 - 00:31:03,440] moving by a little tiny
+- [00:31:03,440 - 00:31:05,440] insect
+- [00:31:05,440 - 00:31:07,440] moving along the piece of paper
+- [00:31:07,440 - 00:31:09,440] would not change
+- [00:31:09,440 - 00:31:11,440] why not?
+- [00:31:11,440 - 00:31:13,440] because I haven't stretched anything
+- [00:31:13,440 - 00:31:14,440] in fact a creature that
+- [00:31:14,440 - 00:31:15,440] lives on this piece of paper
+- [00:31:15,440 - 00:31:17,440] that can't look off the paper
+- [00:31:17,440 - 00:31:19,440] can't look on one side
+- [00:31:19,440 - 00:31:21,440] can't look on the other side
+- [00:31:21,440 - 00:31:23,440] only is aware of
+- [00:31:23,440 - 00:31:25,440] motion within the piece of paper
+- [00:31:25,440 - 00:31:27,440] would not detect
+- [00:31:27,440 - 00:31:29,440] the fact that we bent the piece of paper
+- [00:31:29,440 - 00:31:31,440] every pair of
+- [00:31:31,440 - 00:31:33,440] points would have exactly the same
+- [00:31:33,440 - 00:31:35,440] distance as it had before
+- [00:31:35,440 - 00:31:37,440] and
+- [00:31:37,440 - 00:31:39,440] mathematicians
+- [00:31:39,440 - 00:31:41,440] do not refer to this process
+- [00:31:41,440 - 00:31:43,440] as curving of space
+- [00:31:43,440 - 00:31:45,440] curving of a space
+- [00:31:45,440 - 00:31:47,440] is what happens
+- [00:31:47,440 - 00:31:49,440] when
+- [00:31:49,440 - 00:31:51,440] you
+- [00:31:51,440 - 00:31:53,440] you cannot flatten it out
+- [00:31:53,440 - 00:31:55,440] on the surface here
+- [00:31:55,440 - 00:31:57,440] without deforming it
+- [00:31:57,440 - 00:31:59,440] without stretching it
+- [00:31:59,440 - 00:32:01,440] without changing the distance
+- [00:32:01,440 - 00:32:03,440] between neighboring points
+- [00:32:03,440 - 00:32:05,440] so for example if I took a hemisphere of rubber
+- [00:32:05,440 - 00:32:07,440] not a solid hemisphere of rubber
+- [00:32:07,440 - 00:32:09,440] a surface
+- [00:32:09,440 - 00:32:11,440] like the surface of a balloon
+- [00:32:11,440 - 00:32:13,440] and I tried to
+- [00:32:13,440 - 00:32:15,440] let's cut the balloon in half
+- [00:32:15,440 - 00:32:17,440] so it's only a hemisphere
+- [00:32:17,440 - 00:32:18,440] and I tried to put
+- [00:32:18,440 - 00:32:19,440] it down on the table here
+- [00:32:19,440 - 00:32:21,440] obviously I can't do it
+- [00:32:21,440 - 00:32:23,440] I would have to take the boundary of the
+- [00:32:23,440 - 00:32:25,440] circular boundary
+- [00:32:25,440 - 00:32:27,440] of the piece of the balloon
+- [00:32:27,440 - 00:32:29,440] that I captured
+- [00:32:29,440 - 00:32:31,440] and I'd have to stretch it
+- [00:32:31,440 - 00:32:33,440] I'd probably have to squeeze the center of it
+- [00:32:33,440 - 00:32:35,440] to push it down onto the plane
+- [00:32:35,440 - 00:32:37,440] and
+- [00:32:37,440 - 00:32:39,440] that
+- [00:32:39,440 - 00:32:41,440] distinction
+- [00:32:41,440 - 00:32:43,440] between
+- [00:32:43,440 - 00:32:45,440] bending we'll call it
+- [00:32:45,440 - 00:32:47,440] and curvature
+- [00:32:47,440 - 00:32:49,440] curvature is
+- [00:32:49,440 - 00:32:51,440] that which is there when you
+- [00:32:51,440 - 00:32:53,440] cannot deform something to make it flat
+- [00:32:53,440 - 00:32:55,440] without stretching it
+- [00:32:55,440 - 00:32:57,440] that's called curvature
+- [00:32:57,440 - 00:32:59,440] alright, again
+- [00:32:59,440 - 00:33:01,440] if I take some curved
+- [00:33:01,440 - 00:33:03,440] let me give you an example
+- [00:33:03,440 - 00:33:05,440] a sphere is a very good example
+- [00:33:05,440 - 00:33:06,440] the surface of a sphere is a
+- [00:33:06,440 - 00:33:07,440] very good example of a curved space
+- [00:33:07,440 - 00:33:09,440] you cannot flatten a sphere onto a plane
+- [00:33:09,440 - 00:33:11,440] without stretching or deforming it
+- [00:33:11,440 - 00:33:13,440] and that's of course
+- [00:33:13,440 - 00:33:15,440] known to you all
+- [00:33:15,440 - 00:33:17,440] that's the reason that you can't draw
+- [00:33:17,440 - 00:33:19,440] maps
+- [00:33:19,440 - 00:33:21,440] that
+- [00:33:21,440 - 00:33:23,440] that don't stretch Greenland
+- [00:33:23,440 - 00:33:25,440] and make it huge
+- [00:33:25,440 - 00:33:27,440] and
+- [00:33:27,440 - 00:33:29,440] Greenland on a Mercator projection
+- [00:33:29,440 - 00:33:31,440] looks as big as Africa
+- [00:33:31,440 - 00:33:33,440] it's only about one tenth the size
+- [00:33:33,440 - 00:33:35,440] in area
+- [00:33:35,440 - 00:33:37,440] and it's because
+- [00:33:37,440 - 00:33:39,440] the sphere is curved, it's fundamentally curved
+- [00:33:39,440 - 00:33:41,440] now
+- [00:33:41,440 - 00:33:43,440] the space time
+- [00:33:43,440 - 00:33:45,440] or the spatial distances
+- [00:33:45,440 - 00:33:47,440] let's go back to space distances
+- [00:33:47,440 - 00:33:49,440] of a sphere
+- [00:33:49,440 - 00:33:51,440] let's take a sphere
+- [00:33:51,440 - 00:33:53,440] we can coordinate, we can put coordinates
+- [00:33:53,440 - 00:33:55,440] on a sphere such as
+- [00:33:55,440 - 00:33:57,440] the coordinates on the surface of the earth
+- [00:33:57,440 - 00:33:59,440] longitude and latitude
+- [00:33:59,440 - 00:34:01,440] their angles
+- [00:34:01,440 - 00:34:03,440] one can be called theta
+- [00:34:03,440 - 00:34:05,440] the other can be called phi
+- [00:34:05,440 - 00:34:07,440] polar and
+- [00:34:07,440 - 00:34:09,440] azimuthal angles
+- [00:34:09,440 - 00:34:11,440] you can also express
+- [00:34:11,440 - 00:34:13,440] the distance between neighboring points on the sphere
+- [00:34:13,440 - 00:34:15,440] in terms of
+- [00:34:15,440 - 00:34:17,440] in terms of
+- [00:34:17,440 - 00:34:19,440] little differential expressions like this
+- [00:34:19,440 - 00:34:21,440] the main difference
+- [00:34:21,440 - 00:34:23,440] or
+- [00:34:23,440 - 00:34:25,440] the
+- [00:34:25,440 - 00:34:27,440] the fact is
+- [00:34:27,440 - 00:34:29,440] no way of
+- [00:34:29,440 - 00:34:31,440] coordinate the sphere
+- [00:34:31,440 - 00:34:33,440] will allow the components
+- [00:34:33,440 - 00:34:35,440] of the metric to be constant
+- [00:34:35,440 - 00:34:37,440] in space
+- [00:34:37,440 - 00:34:39,440] they will necessarily be
+- [00:34:39,440 - 00:34:41,440] vary
+- [00:34:41,440 - 00:34:43,440] from point to point in space
+- [00:34:43,440 - 00:34:45,440] that's the test, it's not an easy test
+- [00:34:45,440 - 00:34:47,440] to implement in general
+- [00:34:47,440 - 00:34:49,440] it's a better test, but the right test
+- [00:34:49,440 - 00:34:51,440] for whether a surface is curved or not
+- [00:34:51,440 - 00:34:53,440] is whether you can find
+- [00:34:53,440 - 00:34:55,440] coordinates in it
+- [00:34:55,440 - 00:34:57,440] which make the coefficients
+- [00:34:57,440 - 00:34:59,440] of the metric constant in space
+- [00:34:59,440 - 00:35:01,440] if they're constant
+- [00:35:01,440 - 00:35:03,440] in space
+- [00:35:03,440 - 00:35:05,440] it means at worst
+- [00:35:05,440 - 00:35:07,440] your coordinate axes
+- [00:35:07,440 - 00:35:09,440] are tilted relative to each other
+- [00:35:09,440 - 00:35:11,440] but nevertheless the space is flat
+- [00:35:11,440 - 00:35:13,440] if it's impossible to find
+- [00:35:13,440 - 00:35:15,440] coordinates where you can
+- [00:35:15,440 - 00:35:17,440] flatten out, where you can
+- [00:35:17,440 - 00:35:19,440] represent the metric as being constant
+- [00:35:19,440 - 00:35:21,440] then you have a fundamentally
+- [00:35:21,440 - 00:35:23,440] curved surface that you cannot
+- [00:35:23,440 - 00:35:25,440] flatten out
+- [00:35:25,440 - 00:35:27,440] so curvature is an obstruction
+- [00:35:27,440 - 00:35:29,440] to flattening out a surface
+- [00:35:29,440 - 00:35:31,440] and
+- [00:35:31,440 - 00:35:33,440] and
+- [00:35:33,440 - 00:35:35,440] making the metric
+- [00:35:35,440 - 00:35:37,440] a constant matrix
+- [00:35:37,440 - 00:35:39,440] that's the notion
+- [00:35:39,440 - 00:35:41,440] of curvature
+- [00:35:41,440 - 00:35:42,440] in practice the examples we're
+- [00:35:42,440 - 00:35:43,440] going to do are very simple
+- [00:35:43,440 - 00:35:45,440] let me give you a nice example
+- [00:35:45,440 - 00:35:47,440] of
+- [00:35:47,440 - 00:35:49,440] a
+- [00:35:49,440 - 00:35:51,440] funny set of coordinates that you can use
+- [00:35:51,440 - 00:35:53,440] on the plane
+- [00:35:53,440 - 00:35:55,440] polar coordinates
+- [00:35:55,440 - 00:35:57,440] you all know what polar coordinates are, I hope
+- [00:35:57,440 - 00:35:59,440] you represent points
+- [00:35:59,440 - 00:36:01,440] by angles theta
+- [00:36:01,440 - 00:36:03,440] and radial distance r
+- [00:36:03,440 - 00:36:05,440] okay
+- [00:36:05,440 - 00:36:07,440] supposing
+- [00:36:07,440 - 00:36:09,440] I want to talk about the
+- [00:36:09,440 - 00:36:11,440] distance of
+- [00:36:11,440 - 00:36:13,440] um
+- [00:36:13,440 - 00:36:15,440] well let's see
+- [00:36:15,440 - 00:36:17,440] yeah
+- [00:36:17,440 - 00:36:21,440] yeah
+- [00:36:21,440 - 00:36:23,440] let's take
+- [00:36:23,440 - 00:36:25,440] a
+- [00:36:25,440 - 00:36:27,440] interval here
+- [00:36:27,440 - 00:36:29,440] this is some dr
+- [00:36:29,440 - 00:36:31,440] and some d theta
+- [00:36:31,440 - 00:36:33,440] what is the distance
+- [00:36:33,440 - 00:36:35,440] between this point and this point
+- [00:36:35,440 - 00:36:36,440] I'm going to write it down, I'm
+- [00:36:36,440 - 00:36:37,440] going to write down the answer for you
+- [00:36:37,440 - 00:36:39,440] you can check it yourself
+- [00:36:39,440 - 00:36:41,440] the answer is very simple
+- [00:36:41,440 - 00:36:43,440] it's dr squared
+- [00:36:43,440 - 00:36:45,440] plus r squared
+- [00:36:45,440 - 00:36:47,440] d theta squared
+- [00:36:47,440 - 00:36:49,440] why is it
+- [00:36:49,440 - 00:36:51,440] r squared d theta squared
+- [00:36:51,440 - 00:36:53,440] d theta now is just the
+- [00:36:53,440 - 00:36:55,440] change in angle between
+- [00:36:55,440 - 00:36:57,440] these two points
+- [00:36:57,440 - 00:36:59,440] alright, you draw yourself
+- [00:36:59,440 - 00:37:01,440] a little right triangle here
+- [00:37:01,440 - 00:37:03,440] one side of which
+- [00:37:03,440 - 00:37:05,440] is dr
+- [00:37:05,440 - 00:37:07,440] but the other side is not d theta
+- [00:37:07,440 - 00:37:09,440] for a given d theta
+- [00:37:09,440 - 00:37:11,440] the further out you move
+- [00:37:11,440 - 00:37:13,440] the bigger
+- [00:37:13,440 - 00:37:15,440] the side of that triangle
+- [00:37:15,440 - 00:37:17,440] the side of this triangle here is not d theta
+- [00:37:17,440 - 00:37:19,440] it's r d theta
+- [00:37:19,440 - 00:37:21,440] so Pythagoras'
+- [00:37:21,440 - 00:37:23,440] theorem tells you that this is
+- [00:37:23,440 - 00:37:25,440] dr squared plus r squared
+- [00:37:25,440 - 00:37:27,440] d theta squared
+- [00:37:27,440 - 00:37:29,440] here's an example where the coefficients
+- [00:37:29,440 - 00:37:31,440] of the metric are not constant
+- [00:37:31,440 - 00:37:33,440] isn't it r
+- [00:37:33,440 - 00:37:35,440] sine d theta
+- [00:37:35,440 - 00:37:37,440] no, it's r squared d theta squared
+- [00:37:37,440 - 00:37:39,440] you're thinking about a sphere
+- [00:37:39,440 - 00:37:41,440] theta and radians
+- [00:37:41,440 - 00:37:43,440] theta is in radians
+- [00:37:43,440 - 00:37:45,440] yeah
+- [00:37:45,440 - 00:37:47,440] ok, theta is in radians
+- [00:37:47,440 - 00:37:49,440] no, there's no sine
+- [00:37:49,440 - 00:37:51,440] is that what you're asking
+- [00:37:51,440 - 00:37:53,440] if it's a sine?
+- [00:37:53,440 - 00:37:55,440] it seems like for small things
+- [00:37:55,440 - 00:37:57,440] it would
+- [00:37:57,440 - 00:37:59,440] reduce the d theta but for
+- [00:37:59,440 - 00:38:01,440] no, no, no
+- [00:38:01,440 - 00:38:03,440] no matter how small d theta is
+- [00:38:03,440 - 00:38:05,440] no matter how small d theta is
+- [00:38:05,440 - 00:38:07,440] if you go far away
+- [00:38:07,440 - 00:38:09,440] the distance grows
+- [00:38:09,440 - 00:38:11,440] so the distance along
+- [00:38:11,440 - 00:38:13,440] the d theta side here
+- [00:38:13,440 - 00:38:15,440] is proportional to r
+- [00:38:15,440 - 00:38:17,440] yeah
+- [00:38:17,440 - 00:38:19,440] that's right
+- [00:38:19,440 - 00:38:21,440] arc length is always r d theta
+- [00:38:21,440 - 00:38:23,440] and so now we have a metric
+- [00:38:23,440 - 00:38:25,440] which we can
+- [00:38:25,440 - 00:38:27,440] display in the matrix form
+- [00:38:27,440 - 00:38:29,440] one over here, the r squared
+- [00:38:29,440 - 00:38:31,440] r squared over here
+- [00:38:31,440 - 00:38:33,440] multiplying d theta squared
+- [00:38:33,440 - 00:38:35,440] zero zero
+- [00:38:35,440 - 00:38:37,440] so here's a simple example
+- [00:38:37,440 - 00:38:39,440] of a coordinate system
+- [00:38:39,440 - 00:38:41,440] with a flat blackboard
+- [00:38:41,440 - 00:38:43,440] is displayed with a metric
+- [00:38:43,440 - 00:38:45,440] which is not constant everywhere
+- [00:38:45,440 - 00:38:47,440] ok
+- [00:38:47,440 - 00:38:49,440] but
+- [00:38:49,440 - 00:38:51,440] what I can do
+- [00:38:51,440 - 00:38:53,440] is revert back
+- [00:38:53,440 - 00:38:55,440] to x and y coordinates
+- [00:38:55,440 - 00:38:57,440] x
+- [00:38:57,440 - 00:38:59,440] equals r cosine theta
+- [00:38:59,440 - 00:39:01,440] y equals r sine theta
+- [00:39:01,440 - 00:39:03,440] rewrite this expression
+- [00:39:03,440 - 00:39:05,440] and lo and behold
+- [00:39:05,440 - 00:39:07,440] it just becomes
+- [00:39:07,440 - 00:39:09,440] dx squared plus dy squared
+- [00:39:11,440 - 00:39:13,440] in which case
+- [00:39:13,440 - 00:39:15,440] the metric in these coordinates
+- [00:39:15,440 - 00:39:17,440] is just good old
+- [00:39:17,440 - 00:39:19,440] zero
+- [00:39:19,440 - 00:39:21,440] so the flat plane
+- [00:39:21,440 - 00:39:23,440] or
+- [00:39:23,440 - 00:39:25,440] the fact that this
+- [00:39:25,440 - 00:39:27,440] is a flat plane may not be so obvious
+- [00:39:27,440 - 00:39:29,440] when it's displayed in this
+- [00:39:29,440 - 00:39:31,440] peculiar way here
+- [00:39:31,440 - 00:39:33,440] not the x squared plus dy squared
+- [00:39:33,440 - 00:39:35,440] but r squared d theta squared
+- [00:39:35,440 - 00:39:37,440] um
+- [00:39:37,440 - 00:39:39,440] but nevertheless
+- [00:39:39,440 - 00:39:41,440] the fact that you can find coordinates
+- [00:39:41,440 - 00:39:43,440] to flatten it out
+- [00:39:43,440 - 00:39:45,440] means that the blackboard is flat
+- [00:39:45,440 - 00:39:47,440] even though you've displayed it in some curvy linear
+- [00:39:47,440 - 00:39:49,440] coordinate frame
+- [00:39:49,440 - 00:39:51,440] on the other hand if you take a sphere
+- [00:39:55,440 - 00:39:57,440] if you were to take a sphere
+- [00:39:59,440 - 00:40:01,440] let's work out
+- [00:40:01,440 - 00:40:03,440] the metric on a sphere
+- [00:40:05,440 - 00:40:07,440] alright we have one coordinate
+- [00:40:07,440 - 00:40:09,440] which I guess is called polar angle
+- [00:40:09,440 - 00:40:11,440] and it's the angular
+- [00:40:11,440 - 00:40:13,440] distance along the sphere
+- [00:40:13,440 - 00:40:15,440] let's take some arbitrary point
+- [00:40:15,440 - 00:40:17,440] over here
+- [00:40:17,440 - 00:40:19,440] you go
+- [00:40:19,440 - 00:40:21,440] what's the
+- [00:40:21,440 - 00:40:23,440] latitude right
+- [00:40:23,440 - 00:40:25,440] latitude is the angle from the equator
+- [00:40:25,440 - 00:40:26,440] I'm going to take it to
+- [00:40:26,440 - 00:40:27,440] be the angle from the north pole
+- [00:40:27,440 - 00:40:29,440] latitude yeah
+- [00:40:29,440 - 00:40:31,440] latitude is the angle from the equator
+- [00:40:31,440 - 00:40:33,440] I'm going to just allow it to be angle
+- [00:40:33,440 - 00:40:35,440] from the north pole
+- [00:40:35,440 - 00:40:37,440] for simplicity
+- [00:40:37,440 - 00:40:39,440] they differ by 90 degrees
+- [00:40:39,440 - 00:40:41,440] and the other
+- [00:40:41,440 - 00:40:43,440] variable is
+- [00:40:43,440 - 00:40:45,440] azimuthal angle
+- [00:40:45,440 - 00:40:47,440] and the other variable is
+- [00:40:47,440 - 00:40:49,440] which is
+- [00:40:49,440 - 00:40:51,440] let's call this one
+- [00:40:51,440 - 00:40:53,440] d theta
+- [00:40:53,440 - 00:40:55,440] and the other one d phi
+- [00:40:55,440 - 00:40:57,440] supposing I take
+- [00:40:57,440 - 00:40:59,440] two neighboring points on the sphere
+- [00:40:59,440 - 00:41:01,440] characterized
+- [00:41:01,440 - 00:41:03,440] by a d theta
+- [00:41:03,440 - 00:41:05,440] or the interval
+- [00:41:05,440 - 00:41:07,440] being characterized by d theta
+- [00:41:07,440 - 00:41:09,440] and d phi there it is
+- [00:41:09,440 - 00:41:11,440] d theta is this much
+- [00:41:11,440 - 00:41:13,440] is this side of a right triangle
+- [00:41:13,440 - 00:41:15,440] and d phi
+- [00:41:15,440 - 00:41:17,440] characterizes this side of a right triangle
+- [00:41:17,440 - 00:41:19,440] of a triangle
+- [00:41:19,440 - 00:41:21,440] now
+- [00:41:21,440 - 00:41:23,440] let's suppose for simplicity
+- [00:41:23,440 - 00:41:25,440] that this is a unit sphere
+- [00:41:25,440 - 00:41:27,440] that means a sphere of radius one
+- [00:41:27,440 - 00:41:29,440] just for simplicity
+- [00:41:29,440 - 00:41:31,440] if it's a sphere of radius one
+- [00:41:31,440 - 00:41:33,440] how far
+- [00:41:33,440 - 00:41:35,440] is it
+- [00:41:35,440 - 00:41:37,440] then theta simply measures
+- [00:41:37,440 - 00:41:39,440] distance along the sphere
+- [00:41:39,440 - 00:41:41,440] if I tell you to walk
+- [00:41:41,440 - 00:41:43,440] along a line of
+- [00:41:43,440 - 00:41:45,440] constant latitude
+- [00:41:45,440 - 00:41:47,440] a line of constant latitude
+- [00:41:47,440 - 00:41:49,440] from
+- [00:41:49,440 - 00:41:51,440] no a line of constant longitude
+- [00:41:51,440 - 00:41:53,440] excuse me a line of constant longitude
+- [00:41:53,440 - 00:41:55,440] and I tell you to walk
+- [00:41:55,440 - 00:41:57,440] a certain number of degrees
+- [00:41:57,440 - 00:41:59,440] or a certain number of radians
+- [00:41:59,440 - 00:42:01,440] then the distance that you walk
+- [00:42:01,440 - 00:42:03,440] is absolutely proportional
+- [00:42:03,440 - 00:42:05,440] to the angle
+- [00:42:05,440 - 00:42:07,440] to the number of radians
+- [00:42:07,440 - 00:42:09,440] and it doesn't matter where you are
+- [00:42:09,440 - 00:42:11,440] the same number of radians
+- [00:42:11,440 - 00:42:13,440] corresponds to the same distance
+- [00:42:13,440 - 00:42:15,440] so for the unit sphere
+- [00:42:15,440 - 00:42:17,440] the arc is
+- [00:42:17,440 - 00:42:19,440] the arc distance
+- [00:42:19,440 - 00:42:21,440] along the
+- [00:42:21,440 - 00:42:23,440] along the d theta direction
+- [00:42:23,440 - 00:42:25,440] is just
+- [00:42:25,440 - 00:42:27,440] d theta
+- [00:42:27,440 - 00:42:29,440] that's the distance along
+- [00:42:29,440 - 00:42:31,440] d theta
+- [00:42:31,440 - 00:42:33,440] and so we're going to use Pythagoras' theorem
+- [00:42:33,440 - 00:42:35,440] and tells us that the distance
+- [00:42:35,440 - 00:42:37,440] along the s squared
+- [00:42:37,440 - 00:42:39,440] is d theta squared
+- [00:42:39,440 - 00:42:41,440] but what about d phi squared
+- [00:42:41,440 - 00:42:43,440] is d phi
+- [00:42:43,440 - 00:42:45,440] the actual distance along
+- [00:42:45,440 - 00:42:47,440] the other leg of the triangle
+- [00:42:47,440 - 00:42:49,440] here? No.
+- [00:42:49,440 - 00:42:51,440] d phi up near the north pole
+- [00:42:51,440 - 00:42:53,440] a given d phi up near the north pole
+- [00:42:53,440 - 00:42:55,440] corresponds to a small
+- [00:42:55,440 - 00:42:57,440] interval. Down near the equator
+- [00:42:57,440 - 00:42:59,440] the same phi
+- [00:42:59,440 - 00:43:01,440] the same phi interval
+- [00:43:01,440 - 00:43:03,440] is a larger distance
+- [00:43:03,440 - 00:43:04,440] as we go all the
+- [00:43:04,440 - 00:43:05,440] way down to the south pole
+- [00:43:05,440 - 00:43:07,440] it gets small again
+- [00:43:07,440 - 00:43:09,440] in fact
+- [00:43:09,440 - 00:43:11,440] the
+- [00:43:11,440 - 00:43:13,440] horizontal size
+- [00:43:13,440 - 00:43:15,440] of the
+- [00:43:15,440 - 00:43:17,440] triangle
+- [00:43:17,440 - 00:43:19,440] is
+- [00:43:19,440 - 00:43:21,440] d phi
+- [00:43:21,440 - 00:43:23,440] times sine of theta
+- [00:43:23,440 - 00:43:25,440] when
+- [00:43:25,440 - 00:43:27,440] you're up at the north pole
+- [00:43:27,440 - 00:43:29,440] the sine of theta is very small
+- [00:43:29,440 - 00:43:31,440] theta is equal to zero up at the north pole
+- [00:43:31,440 - 00:43:33,440] it's also equal to zero down near the south pole
+- [00:43:33,440 - 00:43:35,440] sine
+- [00:43:35,440 - 00:43:37,440] theta isn't
+- [00:43:37,440 - 00:43:39,440] sine of theta is zero down near the south pole
+- [00:43:39,440 - 00:43:41,440] this is actually the distance
+- [00:43:41,440 - 00:43:43,440] sine of theta times d phi
+- [00:43:43,440 - 00:43:45,440] is the distance along
+- [00:43:45,440 - 00:43:47,440] the north pole
+- [00:43:47,440 - 00:43:49,440] the horizontal segment here
+- [00:43:49,440 - 00:43:51,440] then using Pythagoras'
+- [00:43:51,440 - 00:43:53,440] theorem we would discover that the
+- [00:43:53,440 - 00:43:55,440] distance between neighboring points is
+- [00:43:55,440 - 00:43:57,440] d theta squared plus
+- [00:43:57,440 - 00:43:59,440] sine theta
+- [00:43:59,440 - 00:44:01,440] squared d phi
+- [00:44:01,440 - 00:44:03,440] squared
+- [00:44:03,440 - 00:44:05,440] this is the metric of a sphere
+- [00:44:05,440 - 00:44:07,440] or a two dimensional sphere
+- [00:44:07,440 - 00:44:09,440] d theta squared plus sine squared
+- [00:44:09,440 - 00:44:11,440] d phi squared
+- [00:44:11,440 - 00:44:13,440] it's the metric in the usual
+- [00:44:13,440 - 00:44:15,440] azimuthal and polar
+- [00:44:15,440 - 00:44:17,440] coordinates of the longitude and latitude
+- [00:44:17,440 - 00:44:19,440] what if this were not a sphere
+- [00:44:19,440 - 00:44:21,440] of radius one
+- [00:44:21,440 - 00:44:23,440] what about if it was a
+- [00:44:23,440 - 00:44:25,440] sphere of radius r
+- [00:44:25,440 - 00:44:27,440] then the only
+- [00:44:27,440 - 00:44:29,440] difference would be we would multiply
+- [00:44:29,440 - 00:44:31,440] the whole thing by r
+- [00:44:31,440 - 00:44:33,440] squared
+- [00:44:33,440 - 00:44:35,440] since this is the square of a distance
+- [00:44:35,440 - 00:44:37,440] it ought to
+- [00:44:37,440 - 00:44:39,440] be quadratic in the radius
+- [00:44:39,440 - 00:44:41,440] of the sphere so if we double
+- [00:44:41,440 - 00:44:43,440] the size of the sphere
+- [00:44:43,440 - 00:44:45,440] we double every length and that
+- [00:44:45,440 - 00:44:47,440] means the square of this length we get
+- [00:44:47,440 - 00:44:49,440] multiplied by four
+- [00:44:49,440 - 00:44:51,440] so for a sphere
+- [00:44:51,440 - 00:44:53,440] of radius r we've now worked out
+- [00:44:53,440 - 00:44:55,440] what the metric tensor is and the metric
+- [00:44:55,440 - 00:44:57,440] tensor would be r squared
+- [00:44:57,440 - 00:44:59,440] r squared
+- [00:44:59,440 - 00:45:01,440] sine theta
+- [00:45:01,440 - 00:45:03,440] squared
+- [00:45:03,440 - 00:45:05,440] sine theta squared
+- [00:45:05,440 - 00:45:07,440] zero
+- [00:45:07,440 - 00:45:09,440] zero
+- [00:45:09,440 - 00:45:11,440] so again
+- [00:45:11,440 - 00:45:13,440] this is not so different
+- [00:45:13,440 - 00:45:15,440] from the polar coordinates
+- [00:45:15,440 - 00:45:17,440] let me just remind you for the polar coordinates
+- [00:45:17,440 - 00:45:19,440] we had
+- [00:45:19,440 - 00:45:21,440] dr squared plus r squared
+- [00:45:21,440 - 00:45:23,440] d theta squared
+- [00:45:23,440 - 00:45:25,440] notice this is sort of similar
+- [00:45:25,440 - 00:45:27,440] there's a
+- [00:45:27,440 - 00:45:29,440] there's
+- [00:45:29,440 - 00:45:31,440] a term
+- [00:45:31,440 - 00:45:33,440] which is a constant
+- [00:45:33,440 - 00:45:35,440] and then there's a term down here
+- [00:45:35,440 - 00:45:37,440] which depends on sine of theta
+- [00:45:37,440 - 00:45:39,440] somewhat similar
+- [00:45:39,440 - 00:45:41,440] ok
+- [00:45:41,440 - 00:45:43,440] this metric
+- [00:45:43,440 - 00:45:45,440] can never be flattened out
+- [00:45:45,440 - 00:45:47,440] so we're going to do this
+- [00:45:47,440 - 00:45:49,440] there is no set of coordinates
+- [00:45:49,440 - 00:45:51,440] that you can find to coordinate
+- [00:45:51,440 - 00:45:53,440] the sphere so that you
+- [00:45:53,440 - 00:45:55,440] make the coefficients of the metric
+- [00:45:55,440 - 00:45:57,440] tensor constant impossible to
+- [00:45:57,440 - 00:45:59,440] do that's simply because
+- [00:45:59,440 - 00:46:01,440] you cannot flatten the sphere onto a plane
+- [00:46:01,440 - 00:46:03,440] without stretching it
+- [00:46:03,440 - 00:46:05,440] if you
+- [00:46:05,440 - 00:46:09,440] and so this
+- [00:46:09,440 - 00:46:11,440] is a fundamentally curved surface
+- [00:46:11,440 - 00:46:13,440] the fact that it's a curved surface
+- [00:46:13,440 - 00:46:15,440] could be detected
+- [00:46:15,440 - 00:46:17,440] by creatures moving around on the surface
+- [00:46:17,440 - 00:46:19,440] without ever leaving the surface
+- [00:46:19,440 - 00:46:21,440] or without ever looking along the surface
+- [00:46:21,440 - 00:46:23,440] for example
+- [00:46:23,440 - 00:46:25,440] they would discover that triangles
+- [00:46:25,440 - 00:46:27,440] on the surface
+- [00:46:29,440 - 00:46:31,440] have the sum of their angles
+- [00:46:31,440 - 00:46:33,440] larger than
+- [00:46:33,440 - 00:46:35,440] 180 degrees and that's because the triangles
+- [00:46:35,440 - 00:46:37,440] sort of bow out
+- [00:46:37,440 - 00:46:39,440] bow out
+- [00:46:39,440 - 00:46:41,440] making the sum of the
+- [00:46:41,440 - 00:46:43,440] angles larger so
+- [00:46:43,440 - 00:46:45,440] a creature would walk as straight as he
+- [00:46:45,440 - 00:46:47,440] could along a line
+- [00:46:47,440 - 00:46:49,440] make a
+- [00:46:49,440 - 00:46:51,440] angular turn over here
+- [00:46:51,440 - 00:46:53,440] make another angular turn
+- [00:46:53,440 - 00:46:55,440] come back to the same point
+- [00:46:55,440 - 00:46:57,440] and discover that the sum of the
+- [00:46:57,440 - 00:46:59,440] angles of his
+- [00:46:59,440 - 00:47:01,440] closed triangle would not be 180 degrees
+- [00:47:01,440 - 00:47:03,440] ok so
+- [00:47:03,440 - 00:47:05,440] that and therefore would
+- [00:47:05,440 - 00:47:07,440] discover that he lived on a
+- [00:47:07,440 - 00:47:09,440] curved surface
+- [00:47:09,440 - 00:47:11,440] without ever leaving the surface
+- [00:47:11,440 - 00:47:13,440] without ever getting off it
+- [00:47:13,440 - 00:47:15,440] and seeing that it was bent in some higher
+- [00:47:15,440 - 00:47:17,440] dimensional sense
+- [00:47:17,440 - 00:47:19,440] that's the notion
+- [00:47:19,440 - 00:47:21,440] of a metric tensor
+- [00:47:21,440 - 00:47:23,440] that's the notion of distance
+- [00:47:23,440 - 00:47:25,440] or between neighboring
+- [00:47:25,440 - 00:47:27,440] points and it's the notion of curvature
+- [00:47:27,440 - 00:47:29,440] which I'm not going to work out
+- [00:47:29,440 - 00:47:31,440] a mathematical expression for curvature
+- [00:47:31,440 - 00:47:33,440] sufficient for our purposes
+- [00:47:33,440 - 00:47:35,440] just to say if a space is curved
+- [00:47:35,440 - 00:47:37,440] you cannot get
+- [00:47:37,440 - 00:47:39,440] rid of the
+- [00:47:39,440 - 00:47:41,440] variation
+- [00:47:41,440 - 00:47:43,440] the variation from point to point
+- [00:47:43,440 - 00:47:45,440] in the coefficient of the metric tensor
+- [00:47:45,440 - 00:47:47,440] ok
+- [00:47:47,440 - 00:47:49,440] um
+- [00:47:49,440 - 00:47:51,440] same thing is true
+- [00:47:51,440 - 00:47:53,440] in space time
+- [00:47:53,440 - 00:47:55,440] and that was
+- [00:47:55,440 - 00:47:57,440] the new ingredient
+- [00:47:57,440 - 00:47:59,440] that Einstein introduced
+- [00:47:59,440 - 00:48:01,440] into the general theory of relativity
+- [00:48:01,440 - 00:48:03,440] the idea that the proper time
+- [00:48:03,440 - 00:48:05,440] between points
+- [00:48:05,440 - 00:48:07,440] first of all
+- [00:48:07,440 - 00:48:09,440] can be represented
+- [00:48:09,440 - 00:48:11,440] by a metric tensor
+- [00:48:11,440 - 00:48:13,440] a metric tensor which varies in space
+- [00:48:13,440 - 00:48:15,440] now that in itself
+- [00:48:15,440 - 00:48:17,440] is nothing new
+- [00:48:17,440 - 00:48:19,440] why?
+- [00:48:19,440 - 00:48:21,440] because even if you took ordinary flat space time
+- [00:48:21,440 - 00:48:23,440] and expressed it in funny coordinates
+- [00:48:23,440 - 00:48:25,440] you could make
+- [00:48:25,440 - 00:48:27,440] the metric tensor vary from point to point
+- [00:48:27,440 - 00:48:29,440] but the new ingredient
+- [00:48:29,440 - 00:48:31,440] was that space time
+- [00:48:31,440 - 00:48:33,440] can be curved
+- [00:48:33,440 - 00:48:35,440] curved means that there is no way
+- [00:48:35,440 - 00:48:37,440] to undo, no better choice of coordinates
+- [00:48:37,440 - 00:48:39,440] where you can undo
+- [00:48:39,440 - 00:48:41,440] the fact that the metric of space time
+- [00:48:41,440 - 00:48:43,440] varies from point to point
+- [00:48:43,440 - 00:48:45,440] uh
+- [00:48:45,440 - 00:48:47,440] uh
+- [00:48:47,440 - 00:48:49,440] I'm not going to take you
+- [00:48:49,440 - 00:48:51,440] deeply into the general theory of relativity
+- [00:48:51,440 - 00:48:53,440] what we're going to do is explore
+- [00:48:53,440 - 00:48:55,440] one or two simple
+- [00:48:55,440 - 00:48:57,440] geometric situations
+- [00:48:57,440 - 00:48:59,440] that come up in cosmology
+- [00:48:59,440 - 00:49:01,440] and
+- [00:49:01,440 - 00:49:03,440] I'm not even going to
+- [00:49:03,440 - 00:49:05,440] derive
+- [00:49:05,440 - 00:49:07,440] I'm gonna simply state
+- [00:49:07,440 - 00:49:09,440] what the geometry of various kinds of cosmologies are
+- [00:49:09,440 - 00:49:11,440] and then explore
+- [00:49:11,440 - 00:49:13,440] them a little bit and see what kind of
+- [00:49:13,440 - 00:49:15,440] world
+- [00:49:15,440 - 00:49:17,440] we live in
+- [00:49:17,440 - 00:49:19,440] now we're talking about space time
+- [00:49:19,440 - 00:49:21,440] we're not just talking about space
+- [00:49:21,440 - 00:49:23,440] but space time
+- [00:49:23,440 - 00:49:25,440] the kind of cosmologies
+- [00:49:25,440 - 00:49:27,440] that I'm going to be interested in
+- [00:49:27,440 - 00:49:29,440] are cosmologies which are time dependent
+- [00:49:29,440 - 00:49:31,440] which don't vary from point to point
+- [00:49:31,440 - 00:49:33,440] in space
+- [00:49:33,440 - 00:49:35,440] in other words
+- [00:49:35,440 - 00:49:37,440] where every point in space
+- [00:49:37,440 - 00:49:39,440] is exactly the same
+- [00:49:39,440 - 00:49:41,440] as every other point
+- [00:49:41,440 - 00:49:43,440] so we're going to look at
+- [00:49:43,440 - 00:49:45,440] the cosmologies
+- [00:49:45,440 - 00:49:47,440] that are time dependent
+- [00:49:47,440 - 00:49:49,440] that's of course not true
+- [00:49:49,440 - 00:49:51,440] if you're in the middle of a star
+- [00:49:51,440 - 00:49:53,440] it's quite different than being
+- [00:49:53,440 - 00:49:55,440] in somewheres in interstellar space
+- [00:49:55,440 - 00:49:57,440] but on the whole
+- [00:49:57,440 - 00:49:59,440] the universe is homogeneous
+- [00:49:59,440 - 00:50:01,440] which means the same
+- [00:50:01,440 - 00:50:03,440] from point to point
+- [00:50:03,440 - 00:50:05,440] some facts, let's write down some facts about the universe
+- [00:50:05,440 - 00:50:07,440] on the whole
+- [00:50:07,440 - 00:50:09,440] the universe is homogeneous
+- [00:50:13,440 - 00:50:15,440] homogeneous does not mean flat
+- [00:50:15,440 - 00:50:17,440] as
+- [00:50:17,440 - 00:50:19,440] an example of a geometry
+- [00:50:19,440 - 00:50:21,440] which is homogeneous
+- [00:50:21,440 - 00:50:23,440] we have the sphere
+- [00:50:23,440 - 00:50:25,440] the sphere at every point is the same
+- [00:50:25,440 - 00:50:27,440] as at every other point
+- [00:50:27,440 - 00:50:29,440] so it's a homogeneous geometry
+- [00:50:29,440 - 00:50:31,440] but it's not a flat geometry
+- [00:50:31,440 - 00:50:33,440] homogeneous means homogeneous in space
+- [00:50:33,440 - 00:50:35,440] from point to point in space
+- [00:50:35,440 - 00:50:37,440] not in space time
+- [00:50:37,440 - 00:50:39,440] things change with time
+- [00:50:39,440 - 00:50:41,440] the universe grows
+- [00:50:41,440 - 00:50:43,440] so homogeneous in space
+- [00:50:45,440 - 00:50:47,440] it seems like some points
+- [00:50:47,440 - 00:50:49,440] matter and other points are fractured
+- [00:50:49,440 - 00:50:51,440] yeah yeah but on the whole
+- [00:50:51,440 - 00:50:53,440] meaning on scales larger than the
+- [00:50:53,440 - 00:50:55,440] intergalactic separation
+- [00:50:55,440 - 00:50:57,440] things are pretty homogeneous
+- [00:50:57,440 - 00:50:59,440] so can I pursue that just a little bit
+- [00:50:59,440 - 00:51:01,440] what's that?
+- [00:51:01,440 - 00:51:03,440] can I pursue that just a little bit
+- [00:51:03,440 - 00:51:05,440] because this has puzzled me
+- [00:51:05,440 - 00:51:07,440] I know about this
+- [00:51:07,440 - 00:51:09,440] assumption
+- [00:51:09,440 - 00:51:11,440] but then we'll see
+- [00:51:11,440 - 00:51:13,440] let's say a scientific narrative
+- [00:51:13,440 - 00:51:15,440] we'll see some picture that says
+- [00:51:15,440 - 00:51:17,440] that the galaxies are strung out
+- [00:51:17,440 - 00:51:19,440] into tiny structures
+- [00:51:19,440 - 00:51:21,440] yes yes yes
+- [00:51:21,440 - 00:51:23,440] that's still small scale structure
+- [00:51:23,440 - 00:51:25,440] that's still small scale structure
+- [00:51:25,440 - 00:51:27,440] yeah yeah
+- [00:51:27,440 - 00:51:29,440] yeah yeah
+- [00:51:29,440 - 00:51:31,440] so we can talk about size scales
+- [00:51:31,440 - 00:51:33,440] on scales of a couple hundred million light years
+- [00:51:33,440 - 00:51:35,440] and remember
+- [00:51:35,440 - 00:51:37,440] the universe is 10 billion light years
+- [00:51:37,440 - 00:51:39,440] the portion of it that can be seen
+- [00:51:39,440 - 00:51:41,440] so on a scale of
+- [00:51:41,440 - 00:51:43,440] oh
+- [00:51:43,440 - 00:51:45,440] 100 million light years
+- [00:51:45,440 - 00:51:47,440] it's a lot
+- [00:51:47,440 - 00:51:49,440] maybe a few hundred million light years
+- [00:51:49,440 - 00:51:51,440] things flatten out
+- [00:51:51,440 - 00:51:53,440] so that's a tenth
+- [00:51:53,440 - 00:51:55,440] so that's a hundredth the size
+- [00:51:55,440 - 00:51:56,440] on a scale of a hundredth
+- [00:51:56,440 - 00:51:57,440] of the size of the observable universe
+- [00:51:57,440 - 00:51:59,440] everything becomes
+- [00:51:59,440 - 00:52:01,440] rather homogeneous
+- [00:52:01,440 - 00:52:03,440] now we look through telescopes
+- [00:52:03,440 - 00:52:05,440] and we can see that the universe
+- [00:52:05,440 - 00:52:07,440] various all kinds of telescopes
+- [00:52:07,440 - 00:52:09,440] the universe does not seem
+- [00:52:09,440 - 00:52:11,440] to come to an end anywhere
+- [00:52:11,440 - 00:52:13,440] it just seems to go on and on
+- [00:52:13,440 - 00:52:15,440] so as far as we know it's a lot bigger
+- [00:52:15,440 - 00:52:16,440] not as far as we know
+- [00:52:16,440 - 00:52:17,440] we know that it's a lot bigger
+- [00:52:17,440 - 00:52:19,440] than the portion we can see
+- [00:52:19,440 - 00:52:21,440] and so
+- [00:52:21,440 - 00:52:23,440] on some sufficiently large scale
+- [00:52:23,440 - 00:52:25,440] it appears to be homogeneous
+- [00:52:25,440 - 00:52:27,440] or largely homogeneous
+- [00:52:27,440 - 00:52:29,440] now that could change
+- [00:52:29,440 - 00:52:31,440] that could change
+- [00:52:31,440 - 00:52:33,440] some astronomical observation might discover
+- [00:52:33,440 - 00:52:35,440] particularly in the microwave background
+- [00:52:35,440 - 00:52:37,440] on the biggest scales in the sky
+- [00:52:37,440 - 00:52:39,440] it might be discovered
+- [00:52:39,440 - 00:52:41,440] that there is a little bit of variation
+- [00:52:41,440 - 00:52:43,440] across the left hemisphere might look a little different
+- [00:52:43,440 - 00:52:45,440] than the right hemisphere
+- [00:52:45,440 - 00:52:47,440] that could happen this is not a
+- [00:52:47,440 - 00:52:49,440] principle of
+- [00:52:49,440 - 00:52:51,440] despite the fact that it's called the cosmological principle
+- [00:52:51,440 - 00:52:53,440] it doesn't mean
+- [00:52:53,440 - 00:52:55,440] it's a principle of thought that has to be true
+- [00:52:55,440 - 00:52:57,440] it could change
+- [00:52:57,440 - 00:52:59,440] but at the moment
+- [00:52:59,440 - 00:53:01,440] as far as we can tell
+- [00:53:01,440 - 00:53:03,440] the universe is pretty homogeneous
+- [00:53:03,440 - 00:53:05,440] on large enough scales
+- [00:53:05,440 - 00:53:07,440] and we're going to deal with it on large scales
+- [00:53:07,440 - 00:53:09,440] the second fact
+- [00:53:09,440 - 00:53:11,440] is that space
+- [00:53:11,440 - 00:53:13,440] not space-time
+- [00:53:13,440 - 00:53:15,440] let's distinguish space and space-time
+- [00:53:15,440 - 00:53:17,440] space at any given instant
+- [00:53:17,440 - 00:53:19,440] on large enough scales
+- [00:53:19,440 - 00:53:21,440] is flat
+- [00:53:21,440 - 00:53:23,440] what that means
+- [00:53:23,440 - 00:53:25,440] is if you take
+- [00:53:25,440 - 00:53:27,440] at an instant of time
+- [00:53:27,440 - 00:53:29,440] in the expanding universe
+- [00:53:29,440 - 00:53:31,440] you take a triangle
+- [00:53:31,440 - 00:53:33,440] any triangle
+- [00:53:33,440 - 00:53:35,440] composed out of the straightest lines that you can make
+- [00:53:35,440 - 00:53:37,440] straight lines in fact
+- [00:53:37,440 - 00:53:39,440] that the sum of the angles of the triangle
+- [00:53:39,440 - 00:53:41,440] add up to 180 degrees
+- [00:53:41,440 - 00:53:43,440] that all the spatial relations
+- [00:53:43,440 - 00:53:45,440] at an instant of time
+- [00:53:45,440 - 00:53:47,440] are consistent with spatial relations
+- [00:53:47,440 - 00:53:49,440] space being flat
+- [00:53:49,440 - 00:53:51,440] now that, yes
+- [00:53:51,440 - 00:53:53,440] can you actually talk about
+- [00:53:53,440 - 00:53:55,440] large areas of space
+- [00:53:55,440 - 00:53:57,440] and all at the same time
+- [00:53:57,440 - 00:53:59,440] that doesn't make sense
+- [00:53:59,440 - 00:54:01,440] well
+- [00:54:01,440 - 00:54:03,440] you can talk about small areas of space
+- [00:54:03,440 - 00:54:05,440] and it makes sense
+- [00:54:05,440 - 00:54:07,440] well, we've been talking about
+- [00:54:07,440 - 00:54:09,440] I know what you're saying
+- [00:54:09,440 - 00:54:11,440] you can collect
+- [00:54:11,440 - 00:54:13,440] you cannot at an instant of time
+- [00:54:13,440 - 00:54:15,440] know
+- [00:54:15,440 - 00:54:17,440] anything about three points
+- [00:54:17,440 - 00:54:19,440] separated by a large distance
+- [00:54:19,440 - 00:54:21,440] but
+- [00:54:21,440 - 00:54:23,440] you can
+- [00:54:23,440 - 00:54:25,440] let's draw space-time
+- [00:54:25,440 - 00:54:27,440] space-time, time is vertical
+- [00:54:27,440 - 00:54:29,440] space is horizontal
+- [00:54:29,440 - 00:54:31,440] so here's three points in space
+- [00:54:31,440 - 00:54:33,440] at the same instant of time
+- [00:54:33,440 - 00:54:35,440] one, two, and the third one forms
+- [00:54:35,440 - 00:54:37,440] some triangle back over here
+- [00:54:37,440 - 00:54:39,440] so if we happen to look at the world
+- [00:54:39,440 - 00:54:41,440] at the same instant of time
+- [00:54:41,440 - 00:54:42,440] there is no way that
+- [00:54:42,440 - 00:54:43,440] we can see all three points
+- [00:54:43,440 - 00:54:45,440] but we can collect data
+- [00:54:45,440 - 00:54:47,440] later
+- [00:54:47,440 - 00:54:49,440] from those three points
+- [00:54:49,440 - 00:54:51,440] and by collecting data from the three points
+- [00:54:51,440 - 00:54:55,440] we can correlate information
+- [00:54:55,440 - 00:54:57,440] about the triangle
+- [00:54:57,440 - 00:54:59,440] and moreover
+- [00:54:59,440 - 00:55:01,440] we can collect it from different perspectives
+- [00:55:01,440 - 00:55:03,440] and then
+- [00:55:03,440 - 00:55:05,440] bring our signals together
+- [00:55:05,440 - 00:55:07,440] and learn a great deal
+- [00:55:07,440 - 00:55:09,440] by looking back at this triangle
+- [00:55:09,440 - 00:55:11,440] learn a great deal
+- [00:55:11,440 - 00:55:13,440] about what we
+- [00:55:13,440 - 00:55:15,440] what the shape of that triangle was
+- [00:55:15,440 - 00:55:17,440] at that instant of time
+- [00:55:17,440 - 00:55:19,440] so it's correct, you cannot
+- [00:55:19,440 - 00:55:21,440] you cannot know anything
+- [00:55:21,440 - 00:55:23,440] basically you can't know about anything
+- [00:55:23,440 - 00:55:25,440] except right now, here and now
+- [00:55:25,440 - 00:55:27,440] but you can collect signals
+- [00:55:27,440 - 00:55:29,440] and in fact I can't know anything
+- [00:55:29,440 - 00:55:31,440] about you right at this instant of time
+- [00:55:31,440 - 00:55:33,440] I can only know about you
+- [00:55:33,440 - 00:55:35,440] at an instant of time over which light has been
+- [00:55:35,440 - 00:55:37,440] able to signal, same thing true here
+- [00:55:37,440 - 00:55:39,440] so we can look back
+- [00:55:39,440 - 00:55:41,440] and correlate data
+- [00:55:41,440 - 00:55:43,440] and that of course is what we do
+- [00:55:43,440 - 00:55:45,440] when we look out into the sky
+- [00:55:45,440 - 00:55:47,440] and make measurements of gas
+- [00:55:47,440 - 00:55:49,440] and galaxies and this, they're all a little bit indirect
+- [00:55:49,440 - 00:55:51,440] but when we make geometric statements
+- [00:55:51,440 - 00:55:53,440] we're making statements
+- [00:55:53,440 - 00:55:55,440] about looking back in the sky
+- [00:55:55,440 - 00:55:57,440] and deducing what the
+- [00:55:57,440 - 00:55:59,440] geometry of space must have been
+- [00:55:59,440 - 00:56:01,440] so the second statement
+- [00:56:01,440 - 00:56:03,440] it's homogeneous everywhere the same
+- [00:56:05,440 - 00:56:07,440] but more than that
+- [00:56:07,440 - 00:56:09,440] space, space is flat
+- [00:56:11,440 - 00:56:13,440] that's not the same
+- [00:56:13,440 - 00:56:15,440] as space-time
+- [00:56:15,440 - 00:56:17,440] space
+- [00:56:17,440 - 00:56:19,440] flat is space
+- [00:56:21,440 - 00:56:23,440] flat is space, subtle is the lord
+- [00:56:25,440 - 00:56:27,440] let's write it backwards
+- [00:56:27,440 - 00:56:29,440] let's write it backwards
+- [00:56:29,440 - 00:56:31,440] flat is space
+- [00:56:31,440 - 00:56:33,440] look at it in the mirror
+- [00:56:35,440 - 00:56:37,440] well
+- [00:56:37,440 - 00:56:39,440] it's time dependent
+- [00:56:39,440 - 00:56:41,440] as time goes on
+- [00:56:41,440 - 00:56:43,440] if you follow
+- [00:56:43,440 - 00:56:45,440] two points, what does it mean to follow two points
+- [00:56:45,440 - 00:56:47,440] follow two points
+- [00:56:47,440 - 00:56:49,440] two galaxies for example
+- [00:56:49,440 - 00:56:51,440] as time goes on
+- [00:56:51,440 - 00:56:53,440] the distance between those galaxies
+- [00:56:53,440 - 00:56:55,440] increases with time
+- [00:56:55,440 - 00:56:57,440] okay
+- [00:56:57,440 - 00:56:59,440] there's a standard description
+- [00:56:59,440 - 00:57:01,440] of such a space-time
+- [00:57:01,440 - 00:57:03,440] one which is expanding
+- [00:57:03,440 - 00:57:05,440] as time goes on
+- [00:57:05,440 - 00:57:07,440] but which is homogeneous
+- [00:57:07,440 - 00:57:09,440] and which is flat
+- [00:57:09,440 - 00:57:11,440] and it's rather simple, it's easy to understand
+- [00:57:11,440 - 00:57:13,440] at least I hope it's easy to understand
+- [00:57:13,440 - 00:57:15,440] it's described
+- [00:57:15,440 - 00:57:17,440] in terms of a space-time metric
+- [00:57:17,440 - 00:57:19,440] a proper time
+- [00:57:19,440 - 00:57:21,440] first of all it's described
+- [00:57:21,440 - 00:57:23,440] in terms of coordinates
+- [00:57:23,440 - 00:57:25,440] so we take the usual coordinates
+- [00:57:25,440 - 00:57:27,440] x, y, and z
+- [00:57:27,440 - 00:57:29,440] and add to it t
+- [00:57:29,440 - 00:57:31,440] x, y, and z, and t
+- [00:57:31,440 - 00:57:33,440] it's just like special relativity
+- [00:57:33,440 - 00:57:35,440] space-time
+- [00:57:35,440 - 00:57:37,440] except the metric tensor
+- [00:57:37,440 - 00:57:39,440] is more complicated
+- [00:57:39,440 - 00:57:41,440] in fact
+- [00:57:41,440 - 00:57:43,440] let's see what we can deduce
+- [00:57:43,440 - 00:57:45,440] from the fact that space is every single
+- [00:57:45,440 - 00:57:47,440] and that it's flat
+- [00:57:47,440 - 00:57:49,440] we can deduce that at any
+- [00:57:49,440 - 00:57:51,440] given instant of time
+- [00:57:51,440 - 00:57:53,440] we can find coordinates
+- [00:57:53,440 - 00:57:55,440] which just
+- [00:57:55,440 - 00:57:57,440] allow it to be represented
+- [00:57:57,440 - 00:57:59,440] in terms of Cartesian
+- [00:57:59,440 - 00:58:01,440] coordinates
+- [00:58:01,440 - 00:58:03,440] so that means
+- [00:58:03,440 - 00:58:05,440] that we can
+- [00:58:05,440 - 00:58:07,440] expect that it be of the form
+- [00:58:07,440 - 00:58:09,440] dx squared
+- [00:58:09,440 - 00:58:11,440] plus dy squared plus dz squared
+- [00:58:11,440 - 00:58:13,440] the distance between two points
+- [00:58:13,440 - 00:58:15,440] or
+- [00:58:15,440 - 00:58:17,440] but we should account for the fact
+- [00:58:17,440 - 00:58:19,440] remember incidentally
+- [00:58:19,440 - 00:58:21,440] that in the special theory of relativity
+- [00:58:21,440 - 00:58:23,440] space comes in with a negative sign
+- [00:58:23,440 - 00:58:25,440] so we should really put in here minuses
+- [00:58:25,440 - 00:58:27,440] just like in special theory of relativity
+- [00:58:27,440 - 00:58:29,440] but we should possibly take into account
+- [00:58:29,440 - 00:58:31,440] a question of units
+- [00:58:31,440 - 00:58:33,440] if you were to
+- [00:58:33,440 - 00:58:35,440] measure space
+- [00:58:35,440 - 00:58:37,440] in terms of
+- [00:58:37,440 - 00:58:39,440] the distance between two points
+- [00:58:39,440 - 00:58:41,440] and you were to
+- [00:58:41,440 - 00:58:43,440] measure space
+- [00:58:43,440 - 00:58:45,440] in terms of the distance
+- [00:58:45,440 - 00:58:47,440] in centimeters
+- [00:58:47,440 - 00:58:49,440] but ask for the distance
+- [00:58:49,440 - 00:58:51,440] between points in meters
+- [00:58:51,440 - 00:58:53,440] or kilometers or miles
+- [00:58:53,440 - 00:58:55,440] the only difference
+- [00:58:55,440 - 00:58:57,440] would be that you would multiply
+- [00:58:57,440 - 00:58:59,440] this by some conversion
+- [00:58:59,440 - 00:59:01,440] factor and let's call that conversion factor
+- [00:59:01,440 - 00:59:03,440] a
+- [00:59:03,440 - 00:59:05,440] squared
+- [00:59:07,440 - 00:59:09,440] in other words if we were
+- [00:59:09,440 - 00:59:11,440] measuring
+- [00:59:11,440 - 00:59:13,440] let's measure the distance between
+- [00:59:13,440 - 00:59:15,440] points
+- [00:59:15,440 - 00:59:17,440] by
+- [00:59:17,440 - 00:59:19,440] the number of galaxies
+- [00:59:19,440 - 00:59:21,440] along a more or less straight line
+- [00:59:21,440 - 00:59:23,440] between two points
+- [00:59:23,440 - 00:59:25,440] here we have two points in the universe
+- [00:59:25,440 - 00:59:27,440] far from each other
+- [00:59:27,440 - 00:59:29,440] there are many galaxies in between
+- [00:59:29,440 - 00:59:31,440] and
+- [00:59:31,440 - 00:59:33,440] roughly speaking
+- [00:59:33,440 - 00:59:35,440] the distance between galaxies
+- [00:59:35,440 - 00:59:37,440] is all the same
+- [00:59:37,440 - 00:59:39,440] about
+- [00:59:39,440 - 00:59:41,440] two million light years
+- [00:59:41,440 - 00:59:43,440] between neighboring galaxies
+- [00:59:43,440 - 00:59:45,440] and the distance between galaxies is all the same
+- [00:59:45,440 - 00:59:47,440] about two million light years
+- [00:59:47,440 - 00:59:49,440] between neighboring galaxies
+- [00:59:49,440 - 00:59:51,440] and we simply
+- [00:59:51,440 - 00:59:53,440] represent the coordinates of these
+- [00:59:53,440 - 00:59:55,440] particles by
+- [00:59:55,440 - 00:59:57,440] asking how many galaxies
+- [00:59:57,440 - 00:59:59,440] are there
+- [00:59:59,440 - 01:00:01,440] galactic spacings are there between them
+- [01:00:01,440 - 01:00:03,440] well since the
+- [01:00:03,440 - 01:00:05,440] galaxies separate with time
+- [01:00:05,440 - 01:00:07,440] at different times
+- [01:00:07,440 - 01:00:09,440] this measure of
+- [01:00:09,440 - 01:00:11,440] distance will correspond to actual
+- [01:00:11,440 - 01:00:13,440] different measures in meters
+- [01:00:13,440 - 01:00:15,440] and for that reason
+- [01:00:15,440 - 01:00:17,440] we have to keep track
+- [01:00:17,440 - 01:00:19,440] of the fact that our coordinates
+- [01:00:19,440 - 01:00:21,440] may be
+- [01:00:21,440 - 01:00:23,440] we may be working in units
+- [01:00:23,440 - 01:00:25,440] at a given time
+- [01:00:25,440 - 01:00:27,440] which are not meters
+- [01:00:27,440 - 01:00:29,440] which are not centimeters
+- [01:00:29,440 - 01:00:31,440] but which correspond
+- [01:00:31,440 - 01:00:33,440] to a measure
+- [01:00:33,440 - 01:00:35,440] corresponding to some
+- [01:00:35,440 - 01:00:37,440] number of galaxies between
+- [01:00:37,440 - 01:00:39,440] points or whatever
+- [01:00:39,440 - 01:00:41,440] so we throw in a factor
+- [01:00:41,440 - 01:00:43,440] it's simply a conversion factor
+- [01:00:43,440 - 01:00:45,440] a unit conversion factor
+- [01:00:45,440 - 01:00:47,440] of units of x, y, and z are
+- [01:00:47,440 - 01:00:49,440] to actual physical distances
+- [01:00:49,440 - 01:00:51,440] let's say in meters
+- [01:00:51,440 - 01:00:53,440] this a here
+- [01:00:53,440 - 01:00:55,440] is constant in space
+- [01:00:55,440 - 01:00:57,440] it doesn't vary
+- [01:00:57,440 - 01:00:59,440] from point to point in space
+- [01:00:59,440 - 01:01:01,440] it may vary in time
+- [01:01:01,440 - 01:01:03,440] it might vary in time
+- [01:01:03,440 - 01:01:05,440] for example
+- [01:01:05,440 - 01:01:07,440] if the galaxies are separating
+- [01:01:07,440 - 01:01:09,440] let's call this point x equals one
+- [01:01:09,440 - 01:01:11,440] let's call this point x equals two
+- [01:01:11,440 - 01:01:13,440] it's just the name of the points
+- [01:01:13,440 - 01:01:15,440] this point out here
+- [01:01:15,440 - 01:01:17,440] a little further out
+- [01:01:17,440 - 01:01:19,440] that's x equals minus one
+- [01:01:19,440 - 01:01:21,440] and we actually make a
+- [01:01:21,440 - 01:01:23,440] three dimensional array
+- [01:01:23,440 - 01:01:25,440] a coordinate patch in space
+- [01:01:25,440 - 01:01:27,440] which expands with the galactic expansion
+- [01:01:27,440 - 01:01:29,440] which expands with the galactic expansion
+- [01:01:29,440 - 01:01:31,440] which expands with the galactic expansion
+- [01:01:31,440 - 01:01:33,440] in other words
+- [01:01:33,440 - 01:01:35,440] we look out
+- [01:01:35,440 - 01:01:37,440] we discover that the galaxies
+- [01:01:37,440 - 01:01:39,440] are separating from each other
+- [01:01:39,440 - 01:01:41,440] we imagine some coordinates
+- [01:01:41,440 - 01:01:43,440] which are rectangular
+- [01:01:43,440 - 01:01:45,440] Cartesian coordinates
+- [01:01:45,440 - 01:01:47,440] the coordinates
+- [01:01:47,440 - 01:01:49,440] are spreading together
+- [01:01:49,440 - 01:01:51,440] with the flow of the galaxies
+- [01:01:51,440 - 01:01:53,440] as the galaxies expand
+- [01:01:53,440 - 01:01:55,440] or as space expands
+- [01:01:55,440 - 01:01:57,440] the distance between neighboring points
+- [01:01:57,440 - 01:01:59,440] in this grid is growing
+- [01:01:59,440 - 01:02:01,440] that's this a here
+- [01:02:01,440 - 01:02:03,440] and this a does not depend
+- [01:02:03,440 - 01:02:05,440] on where you are in space
+- [01:02:05,440 - 01:02:07,440] that's the statement
+- [01:02:07,440 - 01:02:09,440] that space is flat
+- [01:02:09,440 - 01:02:11,440] in fact that space is flat
+- [01:02:11,440 - 01:02:13,440] means that space can always be represented
+- [01:02:13,440 - 01:02:15,440] by a constant
+- [01:02:15,440 - 01:02:17,440] set of coefficients
+- [01:02:17,440 - 01:02:19,440] and in fact those constant set of coefficients
+- [01:02:19,440 - 01:02:21,440] can be taken to be of the
+- [01:02:21,440 - 01:02:23,440] of the ordinary
+- [01:02:23,440 - 01:02:25,440] Cartesian kind
+- [01:02:25,440 - 01:02:27,440] that's space
+- [01:02:27,440 - 01:02:29,440] what about time
+- [01:02:29,440 - 01:02:31,440] time is exactly as it is
+- [01:02:31,440 - 01:02:33,440] in special theory of relativity
+- [01:02:33,440 - 01:02:35,440] dt squared
+- [01:02:35,440 - 01:02:37,440] dt squared
+- [01:02:37,440 - 01:02:39,440] let's write it this way
+- [01:02:39,440 - 01:02:41,440] let me rewrite it
+- [01:02:41,440 - 01:02:43,440] d tau squared
+- [01:02:43,440 - 01:02:45,440] d tau squared
+- [01:02:45,440 - 01:02:47,440] is equal to dt squared
+- [01:02:47,440 - 01:02:49,440] same as in special relativity
+- [01:02:49,440 - 01:02:51,440] plus or minus
+- [01:02:51,440 - 01:02:53,440] some
+- [01:02:53,440 - 01:02:55,440] function of time
+- [01:02:55,440 - 01:02:57,440] which represents the expansion
+- [01:02:57,440 - 01:02:59,440] of the universe
+- [01:02:59,440 - 01:03:01,440] it increases with time
+- [01:03:01,440 - 01:03:03,440] times the usual
+- [01:03:03,440 - 01:03:05,440] dx squared plus dy squared
+- [01:03:05,440 - 01:03:07,440] plus dz squared
+- [01:03:07,440 - 01:03:09,440] so this
+- [01:03:09,440 - 01:03:11,440] kind of metric
+- [01:03:11,440 - 01:03:13,440] represents
+- [01:03:13,440 - 01:03:15,440] here you can see
+- [01:03:15,440 - 01:03:17,440] here's the galaxies
+- [01:03:17,440 - 01:03:19,440] okay
+- [01:03:19,440 - 01:03:21,440] and we imagine
+- [01:03:21,440 - 01:03:23,440] a mesh of coordinates
+- [01:03:23,440 - 01:03:25,440] embedded with the galaxies
+- [01:03:25,440 - 01:03:27,440] but as the galaxies expand
+- [01:03:27,440 - 01:03:29,440] the coordinate mesh
+- [01:03:29,440 - 01:03:31,440] expands with them
+- [01:03:31,440 - 01:03:33,440] that means that the coordinates
+- [01:03:33,440 - 01:03:35,440] that we assign to the galaxies
+- [01:03:35,440 - 01:03:37,440] don't change with time
+- [01:03:37,440 - 01:03:39,440] the fact that this is the galaxy
+- [01:03:39,440 - 01:03:41,440] at point x equals one
+- [01:03:41,440 - 01:03:43,440] x equals zero and y equals one
+- [01:03:43,440 - 01:03:45,440] this is the galaxy at x equals five
+- [01:03:45,440 - 01:03:47,440] that is preserved with time
+- [01:03:47,440 - 01:03:49,440] because the coordinate mesh
+- [01:03:49,440 - 01:03:51,440] increases with the universe
+- [01:03:51,440 - 01:03:53,440] but we have to account for this expansion
+- [01:03:53,440 - 01:03:55,440] we have to account for the fact
+- [01:03:55,440 - 01:03:57,440] that the distance is actually expanding
+- [01:03:57,440 - 01:03:59,440] with time
+- [01:03:59,440 - 01:04:01,440] and that's done by
+- [01:04:01,440 - 01:04:03,440] a time dependence
+- [01:04:03,440 - 01:04:05,440] in the coefficient here
+- [01:04:05,440 - 01:04:07,440] anybody know what this thing is called?
+- [01:04:07,440 - 01:04:09,440] a of t?
+- [01:04:09,440 - 01:04:11,440] no, it's not a constant
+- [01:04:11,440 - 01:04:13,440] it's called the scale factor
+- [01:04:13,440 - 01:04:15,440] it's called the scale factor
+- [01:04:15,440 - 01:04:17,440] and it's a thing which does not
+- [01:04:17,440 - 01:04:19,440] as I said, depend on space
+- [01:04:19,440 - 01:04:21,440] but it does depend on time
+- [01:04:21,440 - 01:04:23,440] and it represents the fact
+- [01:04:23,440 - 01:04:25,440] that any two fixed points in space
+- [01:04:25,440 - 01:04:27,440] fixed meaning to say
+- [01:04:27,440 - 01:04:29,440] that they have fixed coordinates
+- [01:04:29,440 - 01:04:31,440] that the distance between them
+- [01:04:31,440 - 01:04:33,440] increases in time
+- [01:04:33,440 - 01:04:35,440] this is the basic
+- [01:04:35,440 - 01:04:37,440] setup
+- [01:04:37,440 - 01:04:39,440] for essentially
+- [01:04:39,440 - 01:04:41,440] all of observational cosmology
+- [01:04:41,440 - 01:04:43,440] that the universe
+- [01:04:43,440 - 01:04:45,440] is based on
+- [01:04:45,440 - 01:04:47,440] and the universe is described
+- [01:04:47,440 - 01:04:49,440] by a metric which looks like this
+- [01:04:49,440 - 01:04:51,440] alright, so let me first
+- [01:04:51,440 - 01:04:53,440] tell you a couple of things about
+- [01:04:53,440 - 01:04:55,440] can I ask a question here?
+- [01:04:55,440 - 01:04:56,440] I don't know if this
+- [01:04:56,440 - 01:04:57,440] is the best time for it
+- [01:04:57,440 - 01:04:59,440] but it's always bothering me
+- [01:04:59,440 - 01:05:01,440] what you talked about is we have two galaxies
+- [01:05:01,440 - 01:05:03,440] well, lots of galaxies
+- [01:05:03,440 - 01:05:05,440] and their metric remains the same
+- [01:05:05,440 - 01:05:07,440] well
+- [01:05:07,440 - 01:05:09,440] their position in space remains the same
+- [01:05:09,440 - 01:05:11,440] because the distance between them
+- [01:05:11,440 - 01:05:13,440] between two points changes
+- [01:05:13,440 - 01:05:15,440] but they're
+- [01:05:15,440 - 01:05:17,440] they're not the same
+- [01:05:17,440 - 01:05:19,440] the way they change is
+- [01:05:19,440 - 01:05:21,440] but the other is not
+- [01:05:21,440 - 01:05:23,440] their position is labeled the same
+- [01:05:23,440 - 01:05:25,440] think of X as just labels
+- [01:05:25,440 - 01:05:27,440] labeling the points
+- [01:05:27,440 - 01:05:29,440] but if this is true of galaxies
+- [01:05:29,440 - 01:05:31,440] it's also then true of the meter stick
+- [01:05:31,440 - 01:05:33,440] no, the meter stick does not expand
+- [01:05:33,440 - 01:05:35,440] with the expansion
+- [01:05:35,440 - 01:05:37,440] what's the difference between two galaxies
+- [01:05:37,440 - 01:05:39,440] and the end of a meter stick?
+- [01:05:39,440 - 01:05:41,440] the meter stick is held together by molecular bonds
+- [01:05:41,440 - 01:05:43,440] the meter stick is held together by electromagnetic bonds
+- [01:05:43,440 - 01:05:45,440] which are strong enough
+- [01:05:45,440 - 01:05:47,440] to cause the expansion of the universe
+- [01:05:47,440 - 01:05:49,440] very good question
+- [01:05:49,440 - 01:05:51,440] galaxies expand with time?
+- [01:05:51,440 - 01:05:53,440] galaxies are not expanding
+- [01:05:53,440 - 01:05:55,440] galaxies are small enough
+- [01:05:55,440 - 01:05:57,440] and concentrated enough
+- [01:05:57,440 - 01:05:59,440] that their own gravity
+- [01:05:59,440 - 01:06:01,440] holds them together
+- [01:06:01,440 - 01:06:03,440] and in fact
+- [01:06:03,440 - 01:06:05,440] even causes them to shrink with time
+- [01:06:05,440 - 01:06:07,440] a little bit
+- [01:06:07,440 - 01:06:09,440] a star shrinks with time
+- [01:06:09,440 - 01:06:11,440] the distance between galaxies
+- [01:06:11,440 - 01:06:13,440] on the average
+- [01:06:13,440 - 01:06:15,440] is large enough
+- [01:06:15,440 - 01:06:17,440] that the gravitational interactions
+- [01:06:17,440 - 01:06:19,440] between them
+- [01:06:19,440 - 01:06:21,440] are fairly negligible
+- [01:06:21,440 - 01:06:23,440] and so they sort of
+- [01:06:23,440 - 01:06:25,440] they expand with the
+- [01:06:25,440 - 01:06:27,440] ambient background expansion
+- [01:06:27,440 - 01:06:29,440] but the individual galaxies
+- [01:06:29,440 - 01:06:31,440] are small enough that gravity is pulling them together
+- [01:06:31,440 - 01:06:33,440] ok so
+- [01:06:33,440 - 01:06:35,440] it's an awkward situation
+- [01:06:35,440 - 01:06:37,440] where some
+- [01:06:37,440 - 01:06:39,440] scales of mass and distance
+- [01:06:39,440 - 01:06:41,440] are such
+- [01:06:41,440 - 01:06:43,440] that things are being pulled together
+- [01:06:43,440 - 01:06:45,440] and other scales of distance
+- [01:06:45,440 - 01:06:47,440] and mass
+- [01:06:47,440 - 01:06:49,440] are such that
+- [01:06:49,440 - 01:06:51,440] that things
+- [01:06:51,440 - 01:06:53,440] are basically
+- [01:06:53,440 - 01:06:55,440] just flowing with the flow
+- [01:06:55,440 - 01:06:57,440] so has that worked out?
+- [01:06:57,440 - 01:06:59,440] I mean in detail?
+- [01:06:59,440 - 01:07:01,440] not by me
+- [01:07:01,440 - 01:07:03,440] but I mean
+- [01:07:03,440 - 01:07:05,440] that these forces are counterbalancing those
+- [01:07:05,440 - 01:07:07,440] absolutely
+- [01:07:07,440 - 01:07:09,440] in great detail
+- [01:07:09,440 - 01:07:11,440] so I mean
+- [01:07:11,440 - 01:07:13,440] people could just say
+- [01:07:13,440 - 01:07:15,440] well the strength of this is not
+- [01:07:15,440 - 01:07:17,440] the interaction with this
+- [01:07:17,440 - 01:07:19,440] and the gravitational
+- [01:07:19,440 - 01:07:21,440] but in the process of doing that
+- [01:07:21,440 - 01:07:23,440] a discovery was made
+- [01:07:23,440 - 01:07:25,440] that things weren't the way people thought
+- [01:07:25,440 - 01:07:27,440] they discovered that there has to be
+- [01:07:27,440 - 01:07:29,440] more mass in a galaxy
+- [01:07:29,440 - 01:07:31,440] holding it together
+- [01:07:31,440 - 01:07:33,440] than the apparent mass that you see
+- [01:07:33,440 - 01:07:35,440] through telescopes in the sky
+- [01:07:35,440 - 01:07:37,440] by looking at optical light
+- [01:07:37,440 - 01:07:39,440] and that of course was the discovery of dark matter
+- [01:07:39,440 - 01:07:41,440] not dark energy but dark matter
+- [01:07:41,440 - 01:07:43,440] but once that's accounted for
+- [01:07:43,440 - 01:07:45,440] once you do it once in one galaxy
+- [01:07:45,440 - 01:07:47,440] and do it another time in another galaxy
+- [01:07:47,440 - 01:07:49,440] and you do a whole bunch of
+- [01:07:49,440 - 01:07:51,440] cross correlations
+- [01:07:51,440 - 01:07:53,440] and checks and so forth
+- [01:07:53,440 - 01:07:55,440] once you've done that
+- [01:07:55,440 - 01:07:57,440] you know that gravity is strong enough
+- [01:07:57,440 - 01:07:59,440] within a galaxy to hold it together
+- [01:07:59,440 - 01:08:01,440] not strong enough within
+- [01:08:01,440 - 01:08:03,440] neighboring galaxies to keep them from
+- [01:08:03,440 - 01:08:05,440] now that of course
+- [01:08:05,440 - 01:08:07,440] there are some exceptions
+- [01:08:07,440 - 01:08:09,440] our neighboring galaxy
+- [01:08:09,440 - 01:08:11,440] the Andromeda
+- [01:08:11,440 - 01:08:13,440] just happens to be close enough
+- [01:08:13,440 - 01:08:15,440] and heavy enough and we're heavy enough
+- [01:08:15,440 - 01:08:17,439] that the force of attraction of gravity
+- [01:08:17,439 - 01:08:19,439] happens to be pulling them
+- [01:08:19,439 - 01:08:21,439] that happens to be causing them to
+- [01:08:21,439 - 01:08:23,439] fall toward each other
+- [01:08:23,439 - 01:08:25,439] just happens that those are two
+- [01:08:25,439 - 01:08:27,439] unusually massive galaxies
+- [01:08:27,439 - 01:08:29,439] at not too large a distance
+- [01:08:29,439 - 01:08:31,439] and so there's sort of an exception
+- [01:08:31,439 - 01:08:33,439] in galaxies that are coming together
+- [01:08:33,439 - 01:08:35,439] but on the average
+- [01:08:35,439 - 01:08:37,439] the galaxies are moving apart
+- [01:08:37,439 - 01:08:39,439] and on a scale large enough
+- [01:08:39,439 - 01:08:41,439] that gravity is weak enough
+- [01:08:41,439 - 01:08:43,439] they're just all separating
+- [01:08:43,439 - 01:08:45,439] from each other
+- [01:08:45,439 - 01:08:47,439] there are in fact a number of
+- [01:08:47,439 - 01:08:49,439] colliding galaxies
+- [01:08:49,439 - 01:08:51,439] neighboring galaxies
+- [01:08:51,439 - 01:08:53,439] it's certainly not an isolated example
+- [01:08:53,439 - 01:08:55,439] but on the average
+- [01:08:55,439 - 01:08:57,439] even neighboring galaxies
+- [01:08:57,439 - 01:08:59,439] tend to be moving apart from each other
+- [01:08:59,439 - 01:09:01,439] why don't you consider it a force?
+- [01:09:01,439 - 01:09:03,439] a what?
+- [01:09:03,439 - 01:09:05,439] why don't you consider it a force?
+- [01:09:05,439 - 01:09:07,439] a what?
+- [01:09:07,439 - 01:09:09,439] a force
+- [01:09:09,439 - 01:09:11,439] because it seems that it
+- [01:09:11,439 - 01:09:13,439] kind of behaves like a force
+- [01:09:13,439 - 01:09:15,439] what does?
+- [01:09:15,439 - 01:09:17,439] the scale factor
+- [01:09:17,439 - 01:09:19,439] well you
+- [01:09:19,439 - 01:09:21,439] um
+- [01:09:21,439 - 01:09:23,439] well let's be precise
+- [01:09:23,439 - 01:09:25,439] let's be precise
+- [01:09:25,439 - 01:09:27,439] a scale factor
+- [01:09:27,439 - 01:09:29,439] is not a force
+- [01:09:29,439 - 01:09:31,439] a scale factor is a scale factor
+- [01:09:31,439 - 01:09:33,439] it has units of a length
+- [01:09:33,439 - 01:09:35,439] it doesn't have units of force
+- [01:09:35,439 - 01:09:36,439] I'm not sure what you mean
+- [01:09:36,439 - 01:09:37,439] by say call it a force
+- [01:09:37,439 - 01:09:39,439] you mean could it be due to some force
+- [01:09:39,439 - 01:09:41,439] that's causing things to
+- [01:09:41,439 - 01:09:43,439] uh
+- [01:09:43,439 - 01:09:45,439] it seems that
+- [01:09:45,439 - 01:09:47,439] let's
+- [01:09:47,439 - 01:09:49,439] ok so let's
+- [01:09:49,439 - 01:09:51,439] let's not
+- [01:09:51,439 - 01:09:53,439] let's not worry about force for the moment
+- [01:09:53,439 - 01:09:55,440] later on we'll come to the effect of gravitational force
+- [01:09:55,440 - 01:09:57,440] and how it affects things
+- [01:09:57,440 - 01:09:59,440] but it is
+- [01:09:59,440 - 01:10:01,440] it is due to gravity
+- [01:10:01,440 - 01:10:03,440] I mean it's just a solution
+- [01:10:03,440 - 01:10:05,440] so it's
+- [01:10:05,440 - 01:10:07,440] it's the thing
+- [01:10:07,440 - 01:10:09,440] well ok let's put it this way
+- [01:10:09,440 - 01:10:11,440] you see a
+- [01:10:11,440 - 01:10:13,440] you shoot an object from the surface of the earth
+- [01:10:13,440 - 01:10:15,440] a cannon
+- [01:10:15,440 - 01:10:17,440] a ball
+- [01:10:17,440 - 01:10:19,440] except very very fast
+- [01:10:19,440 - 01:10:21,440] 50,000 miles an hour or whatever
+- [01:10:21,440 - 01:10:23,440] is that fast enough?
+- [01:10:23,440 - 01:10:25,440] greater than the escape velocity
+- [01:10:25,440 - 01:10:27,440] greater than the escape velocity
+- [01:10:27,440 - 01:10:28,440] and you see it moving out
+- [01:10:28,440 - 01:10:29,440] moving out moving out moving out
+- [01:10:29,440 - 01:10:31,440] is gravity the thing that's causing it to move out?
+- [01:10:31,440 - 01:10:33,440] no
+- [01:10:33,440 - 01:10:35,440] well not really
+- [01:10:35,440 - 01:10:37,440] it's inertia that's causing it to move out
+- [01:10:37,440 - 01:10:39,440] in a sense
+- [01:10:39,440 - 01:10:41,440] now the original shot that shot it out
+- [01:10:41,440 - 01:10:43,440] that's not
+- [01:10:43,440 - 01:10:45,440] that is not the statement of inertia
+- [01:10:45,440 - 01:10:46,440] but once it's been shot out
+- [01:10:46,440 - 01:10:47,440] by whatever mechanism shot it out
+- [01:10:47,440 - 01:10:49,440] the fact that the earth
+- [01:10:49,440 - 01:10:51,440] and the cannon ball are receding from each other
+- [01:10:51,440 - 01:10:53,440] is not due to any force
+- [01:10:53,440 - 01:10:55,440] is not due to any force
+- [01:10:55,440 - 01:10:57,440] I mean it's a mistake Aristotle made
+- [01:10:57,440 - 01:10:59,440] to think that motion is due to force
+- [01:10:59,440 - 01:11:01,440] it's due to inertia
+- [01:11:01,440 - 01:11:03,440] it's due to inertia
+- [01:11:03,440 - 01:11:05,440] on the other hand
+- [01:11:05,440 - 01:11:07,440] really there's a second thing that's going on
+- [01:11:07,440 - 01:11:09,440] as the cannon ball moves out
+- [01:11:09,440 - 01:11:11,440] it decelerates
+- [01:11:11,440 - 01:11:13,440] the force of gravity decelerates it
+- [01:11:13,440 - 01:11:15,440] it may be an inertia
+- [01:11:15,440 - 01:11:16,440] it may be enough to decelerate
+- [01:11:16,440 - 01:11:17,440] it and make it fall back
+- [01:11:17,440 - 01:11:19,440] or it may not be enough to decelerate it
+- [01:11:19,440 - 01:11:21,440] and cause it to fall back
+- [01:11:21,440 - 01:11:23,440] depending but in either case it decelerates it
+- [01:11:23,440 - 01:11:25,440] the force of gravity
+- [01:11:25,440 - 01:11:27,440] causes the velocity to change with time
+- [01:11:27,440 - 01:11:29,440] of course asymptotically
+- [01:11:29,440 - 01:11:31,440] if it really does escape
+- [01:11:31,440 - 01:11:33,440] then it keeps going with a uniform velocity approximately
+- [01:11:33,440 - 01:11:35,440] but as it's moving apart
+- [01:11:35,440 - 01:11:37,440] it decelerates
+- [01:11:37,440 - 01:11:39,440] the universe is just like that
+- [01:11:39,440 - 01:11:41,440] there's an expansion
+- [01:11:41,440 - 01:11:43,440] okay
+- [01:11:43,440 - 01:11:45,440] and until
+- [01:11:45,440 - 01:11:47,440] recently it was thought
+- [01:11:47,440 - 01:11:49,440] that that expansion is decelerating
+- [01:11:49,440 - 01:11:51,440] the expansion is like shooting
+- [01:11:51,440 - 01:11:53,440] an explosion out of a cannon
+- [01:11:53,440 - 01:11:55,440] what keeps it going is not a force
+- [01:11:55,440 - 01:11:57,440] what keeps it going is just inertia
+- [01:11:57,440 - 01:11:59,440] but it was
+- [01:11:59,440 - 01:12:01,440] expected that
+- [01:12:01,440 - 01:12:03,440] that inertia would be
+- [01:12:03,440 - 01:12:05,440] fought by the gravitational
+- [01:12:05,440 - 01:12:07,440] attraction between things
+- [01:12:07,440 - 01:12:09,440] not necessarily
+- [01:12:09,440 - 01:12:11,440] that it meant that things would fall
+- [01:12:11,440 - 01:12:13,440] back in but that they would be
+- [01:12:13,440 - 01:12:15,440] slowly decelerating
+- [01:12:15,440 - 01:12:17,440] that turned out not to be true
+- [01:12:17,440 - 01:12:19,440] but let's
+- [01:12:19,440 - 01:12:21,440] say what we can say on the basis
+- [01:12:21,440 - 01:12:23,440] of these things
+- [01:12:23,440 - 01:12:25,440] alright let's talk about
+- [01:12:25,440 - 01:12:27,440] the expansion and the distance
+- [01:12:27,440 - 01:12:29,440] the time dependence
+- [01:12:29,440 - 01:12:31,440] let's take a pair of galaxies
+- [01:12:35,440 - 01:12:37,440] that are separated
+- [01:12:37,440 - 01:12:39,440] by a certain distance
+- [01:12:39,440 - 01:12:41,440] let's take them to be along the x-axis
+- [01:12:41,440 - 01:12:43,440] for simplicity
+- [01:12:43,440 - 01:12:45,440] two galaxies along the x-axis
+- [01:12:45,440 - 01:12:47,440] they don't have to be along the x-axis
+- [01:12:47,440 - 01:12:49,440] I'm just taking it for simplicity
+- [01:12:49,440 - 01:12:51,440] along the x-axis
+- [01:12:51,440 - 01:12:53,440] and let's take the
+- [01:12:53,440 - 01:12:55,440] separation between them
+- [01:12:55,440 - 01:12:57,440] the coordinate separation
+- [01:12:57,440 - 01:12:59,440] not the actual distance
+- [01:12:59,440 - 01:13:01,440] but the coordinate separation
+- [01:13:01,440 - 01:13:03,440] and call it delta x
+- [01:13:03,440 - 01:13:05,440] delta x does not
+- [01:13:05,440 - 01:13:07,440] change with time
+- [01:13:07,440 - 01:13:09,440] delta x
+- [01:13:09,440 - 01:13:11,440] remember the coordinates are embedded
+- [01:13:11,440 - 01:13:13,440] and expanding
+- [01:13:13,440 - 01:13:15,440] so if this is x equals one
+- [01:13:15,440 - 01:13:17,440] this is x equals five
+- [01:13:17,440 - 01:13:19,440] forever and ever eternally
+- [01:13:19,440 - 01:13:21,440] from now on this galaxy is at
+- [01:13:21,440 - 01:13:23,440] x equals one
+- [01:13:23,440 - 01:13:25,440] this galaxy is at x equals five
+- [01:13:25,440 - 01:13:27,440] delta x is four
+- [01:13:27,440 - 01:13:29,440] and it will stay that way forever
+- [01:13:29,440 - 01:13:31,440] but let's not specify it
+- [01:13:31,440 - 01:13:33,440] let's just call it delta x
+- [01:13:33,440 - 01:13:35,440] what's the distance
+- [01:13:35,440 - 01:13:37,440] the actual numerical distance
+- [01:13:37,440 - 01:13:39,440] in meters for example
+- [01:13:39,440 - 01:13:41,440] or whatever units we use
+- [01:13:41,440 - 01:13:43,440] between x equals
+- [01:13:43,440 - 01:13:45,440] between those two points
+- [01:13:45,440 - 01:13:47,440] delta a
+- [01:13:47,440 - 01:13:49,440] a is the conversion factor
+- [01:13:49,440 - 01:13:51,440] from these labels
+- [01:13:51,440 - 01:13:53,440] which are simply labels
+- [01:13:53,440 - 01:13:55,440] to actual metrical distances measured in
+- [01:13:55,440 - 01:13:57,440] whatever units
+- [01:13:57,440 - 01:13:59,440] whatever physical units we like
+- [01:13:59,440 - 01:14:01,440] I'll talk about meters
+- [01:14:01,440 - 01:14:03,440] I'll use the units of meters
+- [01:14:03,440 - 01:14:05,440] alright so the actual distance
+- [01:14:05,440 - 01:14:07,440] is a times delta x
+- [01:14:07,440 - 01:14:09,440] and let's call that d
+- [01:14:09,440 - 01:14:11,440] d for distance
+- [01:14:11,440 - 01:14:13,440] that's the actual
+- [01:14:13,440 - 01:14:15,440] and a is a function of time
+- [01:14:15,440 - 01:14:17,440] ok
+- [01:14:17,440 - 01:14:19,440] what's the velocity of recession
+- [01:14:19,440 - 01:14:21,440] between those two
+- [01:14:21,440 - 01:14:23,440] how fast are they separating from each other
+- [01:14:23,440 - 01:14:25,440] in meters per second
+- [01:14:25,440 - 01:14:27,440] the answer to that
+- [01:14:27,440 - 01:14:29,440] is simple
+- [01:14:29,440 - 01:14:31,440] we just differentiate d with respect
+- [01:14:31,440 - 01:14:33,440] to time, d is the distance
+- [01:14:33,440 - 01:14:35,440] if we differentiate it with respect
+- [01:14:35,440 - 01:14:37,440] to time for these two points
+- [01:14:37,440 - 01:14:39,440] then that will give us the velocity
+- [01:14:39,440 - 01:14:41,440] between them
+- [01:14:41,440 - 01:14:43,440] now delta, that's fixed
+- [01:14:43,440 - 01:14:45,440] delta is just
+- [01:14:45,440 - 01:14:47,440] four units in the case of
+- [01:14:47,440 - 01:14:49,440] x equals one and x equals five
+- [01:14:49,440 - 01:14:51,440] it never changes
+- [01:14:51,440 - 01:14:53,440] so when we differentiate with respect to time
+- [01:14:53,440 - 01:14:55,440] the only thing that changes is a
+- [01:14:55,440 - 01:14:57,440] a, the expansion factor
+- [01:14:57,440 - 01:14:59,440] is increasing
+- [01:14:59,440 - 01:15:01,440] it has a derivative
+- [01:15:01,440 - 01:15:03,440] and so we can say that
+- [01:15:03,440 - 01:15:05,440] the velocity, which is the time derivative
+- [01:15:05,440 - 01:15:07,440] or the speed, the speed of expansion
+- [01:15:07,440 - 01:15:09,440] between two points
+- [01:15:09,440 - 01:15:11,440] is just equal
+- [01:15:11,440 - 01:15:13,440] to the time derivative of a
+- [01:15:13,440 - 01:15:15,440] I'm just going to
+- [01:15:15,440 - 01:15:17,440] use the notation
+- [01:15:17,440 - 01:15:19,440] that time derivative is just putting a dot
+- [01:15:19,440 - 01:15:21,440] on top of a thing
+- [01:15:21,440 - 01:15:23,440] time derivative
+- [01:15:23,440 - 01:15:25,440] is often, I think we've probably
+- [01:15:25,440 - 01:15:27,440] used that before, I hope we have
+- [01:15:27,440 - 01:15:29,440] but if not
+- [01:15:29,440 - 01:15:31,440] dot
+- [01:15:31,440 - 01:15:33,440] means d by dt
+- [01:15:35,440 - 01:15:37,440] so this is the time derivative of a
+- [01:15:37,440 - 01:15:39,440] times delta x
+- [01:15:39,440 - 01:15:41,440] that's the velocity
+- [01:15:45,440 - 01:15:47,440] well, let me do a little trick with this
+- [01:15:47,440 - 01:15:49,440] let me multiply it and divide it
+- [01:15:49,440 - 01:15:51,440] by a
+- [01:15:51,440 - 01:15:53,440] what is delta x times a?
+- [01:15:53,440 - 01:15:55,440] that's d
+- [01:15:55,440 - 01:15:57,440] the distance
+- [01:15:57,440 - 01:15:59,440] so I've derived
+- [01:15:59,440 - 01:16:01,440] very simply
+- [01:16:01,440 - 01:16:03,440] a very simple rule
+- [01:16:03,440 - 01:16:05,440] that the velocity of separation
+- [01:16:05,440 - 01:16:07,440] the velocity of recession
+- [01:16:07,440 - 01:16:09,440] between two points
+- [01:16:09,440 - 01:16:11,440] is equal to
+- [01:16:11,440 - 01:16:13,440] the time derivative of a
+- [01:16:13,440 - 01:16:15,440] so the velocity of recession
+- [01:16:15,440 - 01:16:17,440] between two objects
+- [01:16:17,440 - 01:16:19,440] is proportional to the distance between them
+- [01:16:19,440 - 01:16:21,440] times
+- [01:16:21,440 - 01:16:23,440] something which doesn't
+- [01:16:23,440 - 01:16:25,440] depend on where you are
+- [01:16:25,440 - 01:16:27,440] it depends on when you are
+- [01:16:27,440 - 01:16:29,440] but not where you are
+- [01:16:29,440 - 01:16:31,440] a dot over a
+- [01:16:31,440 - 01:16:33,440] remember a does not depend on position in space
+- [01:16:33,440 - 01:16:35,440] it does depend on time
+- [01:16:35,440 - 01:16:37,440] a dot
+- [01:16:37,440 - 01:16:39,440] divided by a
+- [01:16:39,440 - 01:16:41,440] a dot
+- [01:16:41,440 - 01:16:43,440] divided by a
+- [01:16:43,440 - 01:16:45,440] is a coefficient
+- [01:16:45,440 - 01:16:47,440] relating velocity to distance
+- [01:16:47,440 - 01:16:49,440] another name for a dot over a?
+- [01:16:49,440 - 01:16:51,440] hubble
+- [01:16:51,440 - 01:16:53,440] the hubble expansion
+- [01:16:53,440 - 01:16:57,440] usually sometimes called the hubble constant
+- [01:16:57,440 - 01:16:59,440] but it's quite obvious
+- [01:16:59,440 - 01:17:01,440] that in general
+- [01:17:01,440 - 01:17:03,440] a dot over a is not a constant in general
+- [01:17:03,440 - 01:17:05,440] it depends on time
+- [01:17:05,440 - 01:17:09,440] a and a dot in general both depend on time
+- [01:17:09,440 - 01:17:11,440] and so the hubble expansion rate
+- [01:17:11,440 - 01:17:13,440] the thing that's usually called
+- [01:17:13,440 - 01:17:15,440] the hubble expansion rate
+- [01:17:15,440 - 01:17:17,440] is the time derivative
+- [01:17:17,440 - 01:17:19,440] is the time derivative
+- [01:17:19,440 - 01:17:21,440] of a to a itself
+- [01:17:21,440 - 01:17:23,440] that's the point
+- [01:17:23,440 - 01:17:25,440] the time derivative of a
+- [01:17:25,440 - 01:17:27,440] is the time derivative of a
+- [01:17:27,440 - 01:17:29,440] of a itself
+- [01:17:29,440 - 01:17:31,440] the most important fact about it
+- [01:17:31,440 - 01:17:33,440] is that it doesn't depend on where you are
+- [01:17:33,440 - 01:17:35,440] it doesn't depend on which pair of galaxies
+- [01:17:35,440 - 01:17:37,440] you're talking about
+- [01:17:37,440 - 01:17:39,440] every pair of galaxies
+- [01:17:39,440 - 01:17:41,440] at a particular instant of time
+- [01:17:41,440 - 01:17:43,440] will recess from each other
+- [01:17:43,440 - 01:17:45,440] will have a recession
+- [01:17:45,440 - 01:17:47,440] or a velocity of separation
+- [01:17:47,440 - 01:17:49,440] which is proportional to their distance
+- [01:17:49,440 - 01:17:51,440] which is proportional to their distance
+- [01:17:51,440 - 01:17:53,440] and multiplied
+- [01:17:53,440 - 01:17:55,440] by the hubble constant
+- [01:17:55,440 - 01:17:57,440] or the hubble parameter
+- [01:17:57,440 - 01:17:59,440] A is dependent upon T
+- [01:17:59,440 - 01:18:01,440] if you have very wide
+- [01:18:01,440 - 01:18:03,440] if you have very wide
+- [01:18:03,440 - 01:18:05,440] separated galaxies
+- [01:18:05,440 - 01:18:07,440] can you use the same key?
+- [01:18:07,440 - 01:18:09,440] at a given instant of time, yes
+- [01:18:09,440 - 01:18:11,440] at a given instant of time, yes
+- [01:18:11,440 - 01:18:13,440] right
+- [01:18:13,440 - 01:18:15,440] what you're asking
+- [01:18:15,440 - 01:18:17,440] I think is the right question
+- [01:18:17,440 - 01:18:19,440] if you look back and you see a galaxy
+- [01:18:19,440 - 01:18:21,440] far enough away
+- [01:18:21,440 - 01:18:23,440] far enough away
+- [01:18:23,440 - 01:18:25,440] and you measure
+- [01:18:25,440 - 01:18:27,440] its expansion
+- [01:18:27,440 - 01:18:29,440] should you use A dot over A today
+- [01:18:29,440 - 01:18:31,440] or should you use it then?
+- [01:18:31,440 - 01:18:33,440] the answer is then
+- [01:18:33,440 - 01:18:35,440] but
+- [01:18:35,440 - 01:18:37,440] typically A dot over A
+- [01:18:37,440 - 01:18:39,440] is changing relatively slowly
+- [01:18:39,440 - 01:18:41,440] in time
+- [01:18:41,440 - 01:18:43,440] so that
+- [01:18:43,440 - 01:18:45,440] large, large pieces of the universe
+- [01:18:45,440 - 01:18:47,440] the hubble constant doesn't change very much with time
+- [01:18:47,440 - 01:18:49,440] but that is taken into account
+- [01:18:49,440 - 01:18:51,440] when people look at the recessional velocities
+- [01:18:51,440 - 01:18:53,440] that the recessional velocities
+- [01:18:53,440 - 01:18:55,440] have to be slightly modified
+- [01:18:55,440 - 01:18:57,440] from this formula
+- [01:18:57,440 - 01:18:59,440] to account for the difference of time
+- [01:18:59,440 - 01:19:01,440] that you're actually looking at things
+- [01:19:01,440 - 01:19:03,440] so that's a good point
+- [01:19:03,440 - 01:19:05,440] one more question
+- [01:19:05,440 - 01:19:07,440] question of dimensions in this detail
+- [01:19:07,440 - 01:19:09,440] A has the dimensions of the length
+- [01:19:09,440 - 01:19:11,440] let's use C
+- [01:19:11,440 - 01:19:13,440] C equals one
+- [01:19:13,440 - 01:19:15,440] let's use C equals one first of all
+- [01:19:15,440 - 01:19:17,440] so that time and space have the same dimensions
+- [01:19:17,440 - 01:19:19,440] yeah
+- [01:19:19,440 - 01:19:21,440] yeah
+- [01:19:21,440 - 01:19:23,440] no no no
+- [01:19:23,440 - 01:19:25,440] think of X's as not having any dimensions at all
+- [01:19:25,440 - 01:19:27,440] they're just labels, they're names
+- [01:19:27,440 - 01:19:29,440] Fred, Charlie, and so forth
+- [01:19:29,440 - 01:19:31,440] X equals one, X equals two, X equals three
+- [01:19:31,440 - 01:19:33,440] carried, completely dimensionless
+- [01:19:33,440 - 01:19:35,440] of course there is
+- [01:19:35,440 - 01:19:37,440] that's somewhat ambiguous
+- [01:19:37,440 - 01:19:39,440] you could choose A to be dimensionless
+- [01:19:39,440 - 01:19:41,440] and let X have units of length
+- [01:19:41,440 - 01:19:43,440] somewhat arbitrary
+- [01:19:43,440 - 01:19:45,440] I like to think of it as just saying
+- [01:19:45,440 - 01:19:47,440] the X's label the points
+- [01:19:47,440 - 01:19:49,440] and don't carry any dimensions
+- [01:19:49,440 - 01:19:51,440] and the dimensions of distance are in A
+- [01:19:51,440 - 01:19:53,440] so that's again
+- [01:19:53,440 - 01:19:55,440] another good point
+- [01:19:55,440 - 01:19:57,440] okay, this is the Hubble law
+- [01:19:57,440 - 01:19:59,440] velocity at any given instant of time
+- [01:19:59,440 - 01:20:01,440] is proportional
+- [01:20:01,440 - 01:20:03,440] to distance
+- [01:20:03,440 - 01:20:05,440] with the Hubble constant itself
+- [01:20:05,440 - 01:20:07,440] with the Hubble constant itself
+- [01:20:07,440 - 01:20:09,440] is it surprising?
+- [01:20:09,440 - 01:20:11,440] no
+- [01:20:11,440 - 01:20:13,440] what it says is the faster you move
+- [01:20:13,440 - 01:20:15,440] the further you get
+- [01:20:15,440 - 01:20:17,440] really that's all it says
+- [01:20:17,440 - 01:20:19,440] the faster you move the further you get
+- [01:20:19,440 - 01:20:21,440] so as things
+- [01:20:21,440 - 01:20:23,440] if things are moving fast
+- [01:20:23,440 - 01:20:25,440] they'll get further apart
+- [01:20:25,440 - 01:20:27,440] but there's a detailed form
+- [01:20:27,440 - 01:20:29,440] that
+- [01:20:29,440 - 01:20:31,440] it's called the Hubble law
+- [01:20:31,440 - 01:20:33,440] when you think about it
+- [01:20:33,440 - 01:20:35,440] it really could hardly be any other way
+- [01:20:35,440 - 01:20:37,440] well
+- [01:20:37,440 - 01:20:39,440] actually I guess you could
+- [01:20:39,440 - 01:20:41,440] contrive
+- [01:20:41,440 - 01:20:43,440] but not with these set of assumptions here
+- [01:20:43,440 - 01:20:45,440] the Hubble law
+- [01:20:45,440 - 01:20:47,440] is just very general
+- [01:20:47,440 - 01:20:49,440] in special relativity
+- [01:20:49,440 - 01:20:51,440] light
+- [01:20:53,440 - 01:20:55,440] satisfies
+- [01:20:55,440 - 01:20:57,440] d tau equals zero
+- [01:20:57,440 - 01:20:59,440] along a light ray
+- [01:20:59,440 - 01:21:01,440] along the interval of a light ray
+- [01:21:01,440 - 01:21:03,440] d x, d y, d z, d t
+- [01:21:03,440 - 01:21:05,440] and so forth
+- [01:21:05,440 - 01:21:07,440] the proper time is zero
+- [01:21:07,440 - 01:21:09,440] why is it zero?
+- [01:21:09,440 - 01:21:11,440] let's move along the interval
+- [01:21:11,440 - 01:21:13,440] along the x-axis
+- [01:21:13,440 - 01:21:15,440] in units in which the speed of light is one
+- [01:21:15,440 - 01:21:17,440] then
+- [01:21:17,440 - 01:21:19,440] d x will equal d t
+- [01:21:19,440 - 01:21:21,440] if the speed of light
+- [01:21:21,440 - 01:21:23,440] of course if the speed of light is c
+- [01:21:23,440 - 01:21:25,440] then it's d x equals c d t
+- [01:21:25,440 - 01:21:27,440] but if c is set equal to one
+- [01:21:27,440 - 01:21:29,440] as they are in all my equations
+- [01:21:29,440 - 01:21:31,440] then d x equals d t
+- [01:21:31,440 - 01:21:33,440] and d t squared
+- [01:21:33,440 - 01:21:35,440] minus d x squared equals zero
+- [01:21:35,440 - 01:21:37,440] so
+- [01:21:37,440 - 01:21:39,440] a light ray is a peculiar path
+- [01:21:39,440 - 01:21:41,440] through space time
+- [01:21:41,440 - 01:21:43,440] where the proper time along the path
+- [01:21:43,440 - 01:21:45,440] of the light ray is zero
+- [01:21:45,440 - 01:21:47,440] that characterizes
+- [01:21:47,440 - 01:21:49,440] the motion of a light ray
+- [01:21:49,440 - 01:21:51,440] that the proper distance
+- [01:21:51,440 - 01:21:53,440] along the light ray
+- [01:21:53,440 - 01:21:55,440] or the proper time along the light ray
+- [01:21:55,440 - 01:21:57,440] is zero
+- [01:21:57,440 - 01:21:59,440] knowing that
+- [01:21:59,440 - 01:22:01,440] and assuming that it's true
+- [01:22:01,440 - 01:22:03,440] in the general theory of relativity
+- [01:22:03,440 - 01:22:05,440] which it is
+- [01:22:05,440 - 01:22:07,440] we can read off from this
+- [01:22:07,440 - 01:22:09,440] let's suppose there's a light ray moving along the x-axis
+- [01:22:09,440 - 01:22:11,440] forget y and z
+- [01:22:11,440 - 01:22:13,440] then what is the equation of the light ray
+- [01:22:13,440 - 01:22:15,440] the equation of the light ray
+- [01:22:15,440 - 01:22:17,440] is just that d tau equals zero
+- [01:22:17,440 - 01:22:19,440] or that d t
+- [01:22:19,440 - 01:22:21,440] equals
+- [01:22:21,440 - 01:22:23,440] a of t
+- [01:22:23,440 - 01:22:25,440] times d x
+- [01:22:27,440 - 01:22:29,440] we could write that another way
+- [01:22:29,440 - 01:22:31,440] we could divide by a if we liked
+- [01:22:41,440 - 01:22:43,440] did I do that right?
+- [01:22:43,440 - 01:22:45,440] yes
+- [01:22:45,440 - 01:22:47,440] alright so a light ray
+- [01:22:47,440 - 01:22:49,440] moves with a d x
+- [01:22:49,440 - 01:22:51,440] that's not just given by d t
+- [01:22:51,440 - 01:22:53,440] but d t
+- [01:22:53,440 - 01:22:55,440] divided by a of t
+- [01:22:55,440 - 01:22:57,440] this makes it look
+- [01:22:57,440 - 01:22:59,440] in the coordinates
+- [01:22:59,440 - 01:23:01,440] that we're using
+- [01:23:01,440 - 01:23:03,440] as though a light ray slows down with time
+- [01:23:03,440 - 01:23:05,440] why? a gets bigger and bigger
+- [01:23:05,440 - 01:23:07,440] this says
+- [01:23:07,440 - 01:23:09,440] that the velocity
+- [01:23:09,440 - 01:23:11,440] of the light ray
+- [01:23:11,440 - 01:23:13,440] the x by d t
+- [01:23:13,440 - 01:23:15,440] shrinks with time
+- [01:23:15,440 - 01:23:17,440] now
+- [01:23:17,440 - 01:23:19,440] what's really going on
+- [01:23:19,440 - 01:23:21,440] is not that the light ray is slowing down
+- [01:23:21,440 - 01:23:23,440] is that if you go far enough away
+- [01:23:23,440 - 01:23:25,440] things are moving out faster and faster
+- [01:23:25,440 - 01:23:27,440] and so
+- [01:23:27,440 - 01:23:29,440] from your perspective
+- [01:23:29,440 - 01:23:31,440] but this is what a light ray does
+- [01:23:31,440 - 01:23:33,440] this is
+- [01:23:33,440 - 01:23:35,440] the motion
+- [01:23:35,440 - 01:23:37,440] of a light ray
+- [01:23:37,440 - 01:23:39,440] in these coordinates
+- [01:23:39,440 - 01:23:41,440] which remember these coordinates are not measured in meters
+- [01:23:41,440 - 01:23:43,440] in these coordinates
+- [01:23:43,440 - 01:23:45,440] x
+- [01:23:45,440 - 01:23:47,440] simply dimensionless
+- [01:23:47,440 - 01:23:49,440] and the light ray
+- [01:23:49,440 - 01:23:51,440] moves an amount of distance
+- [01:23:51,440 - 01:23:53,440] d x
+- [01:23:53,440 - 01:23:55,440] in a given amount of time
+- [01:23:55,440 - 01:23:57,440] it moves a distance
+- [01:23:57,440 - 01:23:59,440] which depends on the scale factor
+- [01:23:59,440 - 01:24:01,440] so you keep track of things
+- [01:24:01,440 - 01:24:03,440] in cosmology
+- [01:24:03,440 - 01:24:05,440] by remembering
+- [01:24:05,440 - 01:24:07,440] that light rays
+- [01:24:07,440 - 01:24:09,440] move on what are called null lines
+- [01:24:09,440 - 01:24:11,440] null lines mean they have zero properties
+- [01:24:11,440 - 01:24:13,440] and so
+- [01:24:13,440 - 01:24:15,440] you can calculate
+- [01:24:15,440 - 01:24:17,440] how a light ray would move
+- [01:24:17,440 - 01:24:19,440] through the space
+- [01:24:19,440 - 01:24:21,440] by knowing that its
+- [01:24:21,440 - 01:24:23,440] d x is always equal to d t
+- [01:24:23,440 - 01:24:25,440] divided by the
+- [01:24:25,440 - 01:24:27,440] scale factor
+- [01:24:27,440 - 01:24:29,440] and the only reason the scale factor is there
+- [01:24:29,440 - 01:24:31,440] is because as time goes on
+- [01:24:31,440 - 01:24:33,440] a given d x corresponds to a larger
+- [01:24:33,440 - 01:24:35,440] and larger separation
+- [01:24:35,440 - 01:24:37,440] it would be crazy if the light ray
+- [01:24:37,440 - 01:24:39,440] always moved
+- [01:24:39,440 - 01:24:41,440] with the same
+- [01:24:41,440 - 01:24:43,440] d x for a given d t
+- [01:24:43,440 - 01:24:45,440] because at late times
+- [01:24:45,440 - 01:24:47,440] a given d x is a huge huge distance
+- [01:24:47,440 - 01:24:49,440] so
+- [01:24:49,440 - 01:24:51,440] that's taken care of
+- [01:24:51,440 - 01:24:53,440] by putting a of t down squares here
+- [01:24:53,440 - 01:24:55,440] so that's the motion of a light ray
+- [01:24:55,440 - 01:24:57,440] and we could calculate
+- [01:24:57,440 - 01:24:59,440] if we knew what a of t is
+- [01:24:59,440 - 01:25:01,440] for a particular situation
+- [01:25:01,440 - 01:25:03,440] we could calculate the motion
+- [01:25:03,440 - 01:25:05,440] of a light ray
+- [01:25:09,440 - 01:25:11,440] so this is the space time gene
+- [01:25:11,440 - 01:25:13,440] geometry
+- [01:25:13,440 - 01:25:15,440] a of t
+- [01:25:15,440 - 01:25:17,440] of certainly not the general
+- [01:25:17,440 - 01:25:19,440] space time geometry
+- [01:25:19,440 - 01:25:21,440] of general relativity
+- [01:25:21,440 - 01:25:23,440] but it is
+- [01:25:23,440 - 01:25:25,440] on the whole
+- [01:25:25,440 - 01:25:27,440] the fairly general description
+- [01:25:27,440 - 01:25:29,440] of almost all
+- [01:25:29,440 - 01:25:31,440] versions that I know of
+- [01:25:31,440 - 01:25:33,440] of
+- [01:25:33,440 - 01:25:35,440] large scale cosmology
+- [01:25:35,440 - 01:25:37,440] cosmology on a scale
+- [01:25:37,440 - 01:25:39,440] large enough
+- [01:25:39,440 - 01:25:41,440] that you can ignore the variations
+- [01:25:41,440 - 01:25:43,440] in the way of
+- [01:25:43,440 - 01:25:57,440] the
+- [01:25:57,440 - 01:25:59,440] the
+- [01:25:59,440 - 01:26:01,440] the
+- [01:26:01,440 - 01:26:03,440] the
+- [01:26:03,440 - 01:26:05,440] the
+- [01:26:05,440 - 01:26:07,440] the
+- [01:26:07,440 - 01:26:09,440] the
+- [01:26:09,440 - 01:26:11,440] the
+- [01:26:11,440 - 01:26:13,440] the
+- [01:26:13,440 - 01:26:15,440] of
+- [01:26:15,440 - 01:26:17,440] the
+- [01:26:17,440 - 01:26:19,440] the
+- [01:26:19,440 - 01:26:21,440] the
+- [01:26:21,440 - 01:26:23,440] the
+- [01:26:23,440 - 01:26:25,440] of
+- [01:26:25,440 - 01:26:27,440] the
+- [01:26:27,440 - 01:26:29,440] of
+- [01:26:29,440 - 01:26:31,440] is
+- [01:26:31,440 - 01:26:33,440] is
+- [01:26:33,440 - 01:26:35,440] in
+- [01:26:35,440 - 01:26:37,440] the
+- [01:26:37,440 - 01:26:39,440] the
+- [01:26:39,440 - 01:26:41,960] is determined by gravitational
+- [01:26:41,960 - 01:26:44,480] force and gravitational dynamics.
+- [01:26:46,320 - 01:26:48,700] It's roughly the same question,
+- [01:26:48,700 - 01:26:51,080] or a version of the question,
+- [01:26:51,900 - 01:26:54,480] of if you see a missile moving away from you,
+- [01:26:54,820 - 01:26:56,839] how does it move away from you with time?
+- [01:26:57,299 - 01:26:59,820] That depends on its equations of motion,
+- [01:26:59,960 - 01:27:01,580] it depends on gravitational dynamics,
+- [01:27:01,740 - 01:27:03,980] it depends on F equals MA and all that stuff.
+- [01:27:05,099 - 01:27:06,700] So that becomes the next question.
+- [01:27:06,799 - 01:27:08,900] How does A of T vary with time?
+- [01:27:09,440 - 01:27:11,700] I'm going to work that out for one example.
+- [01:27:12,759 - 01:27:14,119] Well, I think maybe we'll
+- [01:27:14,119 - 01:27:15,480] work it out for two examples.
+- [01:27:18,839 - 01:27:21,679] Why is that question any more important than
+- [01:27:21,679 - 01:27:24,839] is the charge of electron varying with time?
+- [01:27:26,980 - 01:27:28,900] It's not more important than the question
+- [01:27:28,900 - 01:27:30,879] of whether the charge of electron varies with time.
+- [01:27:31,000 - 01:27:32,480] We seem to focus on that question.
+- [01:27:32,879 - 01:27:34,309] We seem to focus on whether
+- [01:27:34,309 - 01:27:35,740] A of T varies with time.
+- [01:27:36,980 - 01:27:38,110] That's because we know that
+- [01:27:38,110 - 01:27:39,240] A of T varies with time
+- [01:27:39,240 - 01:27:39,419] and we know that A of T varies with time.
+- [01:27:39,419 - 01:27:39,440] We know that A of T varies with time.
+- [01:27:39,440 - 01:27:40,760] We also are pretty damn sure
+- [01:27:40,760 - 01:27:42,080] the charge of the electron doesn't.
+- [01:27:42,280 - 01:27:44,620] If the charge of the electron started varying with time
+- [01:27:44,620 - 01:27:48,160] and we noticed it, we would consider that awfully important.
+- [01:27:50,240 - 01:27:50,679] Right.
+- [01:27:51,280 - 01:27:53,219] But from a geometric point of view,
+- [01:27:53,280 - 01:27:55,500] from the point of view of the geometry of space-time,
+- [01:27:56,679 - 01:28:00,200] not the only question, but a central question
+- [01:28:00,200 - 01:28:02,120] would be how A of T varies with time.
+- [01:28:02,700 - 01:28:04,780] If A of T didn't vary with time,
+- [01:28:05,120 - 01:28:07,480] we would have just plain old flat space-time.
+- [01:28:07,480 - 01:28:09,400] We could get rid of this A by changing
+- [01:28:09,400 - 01:28:11,400] the units of x.
+- [01:28:12,040 - 01:28:13,169] By changing the units of x,
+- [01:28:13,169 - 01:28:14,299] we could get rid of this A
+- [01:28:14,299 - 01:28:16,299] if it didn't vary with time.
+- [01:28:16,299 - 01:28:18,299] Only because it varies with time
+- [01:28:19,599 - 01:28:25,099] does the space-time have a non-trivial geometry.
+- [01:28:25,900 - 01:28:27,799] It would just be plain old flat space-time
+- [01:28:27,799 - 01:28:29,799] if A was constant with time.
+- [01:28:31,280 - 01:28:32,719] All right.
+- [01:28:32,719 - 01:28:34,919] I did not mean to imply
+- [01:28:34,919 - 01:28:37,120] that the variation of A with time
+- [01:28:37,120 - 01:28:39,200] is necessarily the most important,
+- [01:28:39,200 - 01:28:40,500] the question of cosmology.
+- [01:28:41,800 - 01:28:42,980] But let me tell you,
+- [01:28:43,160 - 01:28:45,440] if we discovered A didn't vary with time,
+- [01:28:46,139 - 01:28:48,660] we might not change atomic physics very much,
+- [01:28:48,679 - 01:28:50,980] and we might not change particle physics very much,
+- [01:28:51,280 - 01:28:54,639] but we would sure as hell change cosmology
+- [01:28:54,639 - 01:28:57,559] to be something totally unrecognizable
+- [01:28:57,559 - 01:28:59,480] from the present perspective.
+- [01:29:09,200 - 01:29:11,669] I'm not going to talk about
+- [01:29:11,669 - 01:29:14,139] the way that you experimentally detect
+- [01:29:14,139 - 01:29:16,599] the recession of velocities and so forth.
+- [01:29:16,599 - 01:29:20,599] That's a different topic.
+- [01:29:20,599 - 01:29:24,599] It seems like that always gets rushed over,
+- [01:29:24,599 - 01:29:27,599] and that depends on the set of the variable stars,
+- [01:29:27,599 - 01:29:30,599] and that depends on all sorts of physics.
+- [01:29:30,599 - 01:29:31,599] All sorts of stuff.
+- [01:29:31,599 - 01:29:32,599] Right.
+- [01:29:32,599 - 01:29:33,599] Okay.
+- [01:29:33,599 - 01:29:34,599] It's just too complicated.
+- [01:29:34,599 - 01:29:35,599] Yeah.
+- [01:29:35,599 - 01:29:36,599] But before you, yeah.
+- [01:29:36,599 - 01:29:37,199] But you see, before you can start
+- [01:29:37,199 - 01:29:37,800] thinking about actually how you do it,
+- [01:29:37,800 - 01:29:38,800] you can start thinking about actually how you do it.
+- [01:29:38,800 - 01:29:39,800] you can start thinking about actually how you do it.
+- [01:29:39,800 - 01:29:40,800] how you really do measure it.
+- [01:29:40,800 - 01:29:41,800] how you really do measure it.
+- [01:29:41,800 - 01:29:45,800] You really have to have some theory behind you
+- [01:29:45,800 - 01:29:47,800] to know what it is you're measuring.
+- [01:29:47,800 - 01:29:51,300] It's true, you can measure the local
+- [01:29:51,300 - 01:29:54,800] velocity of nearby galaxies and so forth
+- [01:29:54,800 - 01:29:56,800] without being too sophisticated.
+- [01:29:56,800 - 01:29:58,300] But if you want to
+- [01:29:58,300 - 01:29:59,800] measure the very, very distant galaxies,
+- [01:29:59,800 - 01:30:01,800] then you have to worry, for example,
+- [01:30:01,800 - 01:30:03,800] that the Hubble parameter changes with time,
+- [01:30:03,800 - 01:30:04,800] as you pointed out.
+- [01:30:04,800 - 01:30:07,800] So you better have some basic theoretical structure
+- [01:30:07,800 - 01:30:08,800] to begin with
+- [01:30:08,800 - 01:30:11,800] before you can even ask the questions,
+- [01:30:11,800 - 01:30:14,800] or basic geometric setup.
+- [01:30:14,800 - 01:30:16,800] We're talking about the geometric setup
+- [01:30:16,800 - 01:30:24,800] and not the way of measuring space-time distances
+- [01:30:24,800 - 01:30:28,800] and so forth on astronomical scales.
+- [01:30:28,800 - 01:30:30,800] Besides, I suspect most of you have some idea
+- [01:30:30,800 - 01:30:33,800] of how astronomy measures
+- [01:30:33,800 - 01:30:36,800] distances, velocities, and so forth.
+- [01:30:36,800 - 01:30:37,800] Distance, very easy way to measure distance.
+- [01:30:37,800 - 01:30:43,800] The easiest way to measure distances to a distant galaxy
+- [01:30:43,800 - 01:30:46,800] is just to look at its luminosity in your telescope.
+- [01:30:46,800 - 01:30:47,800] If it's dim, it's far.
+- [01:30:47,800 - 01:30:49,800] If it's bright, it's near.
+- [01:30:49,800 - 01:30:55,800] And you use a simple law that the luminosity,
+- [01:30:55,800 - 01:30:56,800] the apparent luminosity,
+- [01:30:56,800 - 01:30:58,800] is like one over the square of the distance
+- [01:30:58,800 - 01:31:01,800] because light spreads out in a certain way.
+- [01:31:01,800 - 01:31:03,800] That's the dumbest and stupidest
+- [01:31:03,800 - 01:31:06,800] and probably not the best way to measure distances,
+- [01:31:06,800 - 01:31:08,800] distance stars.
+- [01:31:08,800 - 01:31:10,800] But roughly speaking,
+- [01:31:10,800 - 01:31:12,800] that gives you a pretty good idea
+- [01:31:12,800 - 01:31:14,800] of how far distant galaxies are.
+- [01:31:14,800 - 01:31:16,800] How do you measure their velocity?
+- [01:31:16,800 - 01:31:18,800] You measure their velocity by the redshift
+- [01:31:18,800 - 01:31:21,800] of their atomic transitions,
+- [01:31:21,800 - 01:31:23,800] by the Doppler shift.
+- [01:31:23,800 - 01:31:27,800] And those two together tell you the Hubble law.
+- [01:31:27,800 - 01:31:29,800] That's what Hubble did.
+- [01:31:29,800 - 01:31:31,800] He didn't get it right numerically.
+- [01:31:31,800 - 01:31:33,800] He was off by a factor of 10
+- [01:31:33,800 - 01:31:35,800] or something on his own constant.
+- [01:31:35,800 - 01:31:38,800] Incidentally, there's an interesting...
+- [01:31:38,800 - 01:31:42,800] Supposing the Hubble constant were constant with time.
+- [01:31:42,800 - 01:31:45,800] Suppose it really were constant
+- [01:31:45,800 - 01:31:50,800] and that distances were related
+- [01:31:50,800 - 01:31:54,800] by a fixed number h to velocities.
+- [01:31:54,800 - 01:31:57,800] Then you could ask the following question.
+- [01:31:57,800 - 01:31:59,800] Run it backward.
+- [01:31:59,800 - 01:32:04,800] We take two galaxies a certain distance apart
+- [01:32:04,800 - 01:32:07,800] run it backward, they come together.
+- [01:32:07,800 - 01:32:10,800] How long does it take for them to come together?
+- [01:32:10,800 - 01:32:12,800] Well, that's easy.
+- [01:32:12,800 - 01:32:13,800] You take...
+- [01:32:13,800 - 01:32:14,800] Let's see, what do you do?
+- [01:32:14,800 - 01:32:15,800] You divide distance...
+- [01:32:15,800 - 01:32:16,800] How long does it take?
+- [01:32:16,800 - 01:32:17,800] Distance...
+- [01:32:17,800 - 01:32:20,800] I always have to work this out.
+- [01:32:20,800 - 01:32:22,800] Distance equals velocity times time.
+- [01:32:22,800 - 01:32:23,800] Yeah.
+- [01:32:23,800 - 01:32:25,800] So how long would it take
+- [01:32:25,800 - 01:32:28,800] for those two galaxies to collide with each other
+- [01:32:28,800 - 01:32:30,800] if you ran it backward?
+- [01:32:30,800 - 01:32:33,800] Well, the answer is the distance between them
+- [01:32:33,800 - 01:32:35,800] divided by their velocity.
+- [01:32:35,800 - 01:32:37,800] If the velocity were uniform,
+- [01:32:37,800 - 01:32:39,800] in other words, if the
+- [01:32:39,800 - 01:32:41,800] Hubble constant were actually constant...
+- [01:32:41,800 - 01:32:46,800] Sorry, not if the Hubble constant were constant.
+- [01:32:46,800 - 01:32:49,800] If the velocities were constant,
+- [01:32:49,800 - 01:32:51,800] if the velocity of a given...
+- [01:32:51,800 - 01:32:53,800] of this star out here
+- [01:32:53,800 - 01:32:55,800] was constant with time
+- [01:32:55,800 - 01:32:57,800] and we ran it backward,
+- [01:32:57,800 - 01:33:00,800] we could ask how far in time
+- [01:33:00,800 - 01:33:02,800] does it take before they collide with each other.
+- [01:33:03,800 - 01:33:06,800] I shouldn't have said if the Hubble constant is constant.
+- [01:33:06,800 - 01:33:07,800] That was wrong.
+- [01:33:07,800 - 01:33:10,800] If the velocity was constant.
+- [01:33:10,800 - 01:33:13,800] In other words, if every galaxy was receding
+- [01:33:13,800 - 01:33:16,800] with a uniform velocity that didn't change with time,
+- [01:33:16,800 - 01:33:18,800] then how long would it take
+- [01:33:18,800 - 01:33:20,800] for two galaxies to be on top of each other?
+- [01:33:20,800 - 01:33:22,800] The answer would be the distance between them
+- [01:33:22,800 - 01:33:24,800] divided by the velocity.
+- [01:33:24,800 - 01:33:27,800] But if the velocity is equal to the distance
+- [01:33:27,800 - 01:33:29,800] times the Hubble expansion parameter,
+- [01:33:29,800 - 01:33:32,800] this reads distance divided...
+- [01:33:33,800 - 01:33:36,800] by h times distance.
+- [01:33:36,800 - 01:33:39,800] Or just 1 over h.
+- [01:33:42,800 - 01:33:46,800] The inverse of the Hubble expansion parameter
+- [01:33:46,800 - 01:33:48,800] is the time that it would take
+- [01:33:48,800 - 01:33:52,800] if you ran the galaxies backward
+- [01:33:52,800 - 01:33:55,800] for two neighboring or two distant galaxies
+- [01:33:55,800 - 01:33:57,800] to be on top of each other.
+- [01:33:57,800 - 01:33:59,800] Notice that that time doesn't depend on
+- [01:33:59,800 - 01:34:01,800] which galaxies we're talking about.
+- [01:34:01,800 - 01:34:03,800] It doesn't depend on how far apart
+- [01:34:03,800 - 01:34:05,800] they are right now,
+- [01:34:05,800 - 01:34:07,800] because that cancels out.
+- [01:34:07,800 - 01:34:09,800] What remains is that the time
+- [01:34:09,800 - 01:34:11,800] is equal to 1 over the...
+- [01:34:11,800 - 01:34:13,800] So the bigger the Hubble constant,
+- [01:34:13,800 - 01:34:15,800] the less time it would take
+- [01:34:15,800 - 01:34:17,800] for two...
+- [01:34:17,800 - 01:34:18,800] if we ran it backwards,
+- [01:34:18,800 - 01:34:20,800] for two galaxies to collide with each other.
+- [01:34:20,800 - 01:34:23,800] And it doesn't matter which galaxies you take.
+- [01:34:23,800 - 01:34:25,800] Take any pair of galaxies,
+- [01:34:25,800 - 01:34:27,800] they'll be sitting on top of each other
+- [01:34:27,800 - 01:34:29,800] in a time of order
+- [01:34:29,800 - 01:34:31,800] 1 over the Hubble expansion.
+- [01:34:33,800 - 01:34:36,800] So you're thinking of only two galaxies
+- [01:34:36,800 - 01:34:38,800] and not the other folks coming in...
+- [01:34:38,800 - 01:34:39,800] Well, of course,
+- [01:34:39,800 - 01:34:40,800] if any two of them
+- [01:34:40,800 - 01:34:41,800] are on top of each other,
+- [01:34:41,800 - 01:34:43,800] they'll all be on top of each other.
+- [01:34:43,800 - 01:34:44,800] So that tomorrow might...
+- [01:34:44,800 - 01:34:45,800] Sure.
+- [01:34:45,800 - 01:34:47,800] Might crash.
+- [01:34:47,800 - 01:34:48,800] Yeah.
+- [01:34:48,800 - 01:34:50,800] But this does give you some estimate
+- [01:34:50,800 - 01:34:53,800] of how far back in time before it crashes.
+- [01:34:53,800 - 01:34:55,800] Before it has to crash.
+- [01:34:55,800 - 01:34:58,800] This incidentally is no different really
+- [01:34:58,800 - 01:34:59,800] than saying if I look out
+- [01:34:59,800 - 01:35:01,800] and I see something moving away from me
+- [01:35:01,800 - 01:35:02,800] with a certain velocity,
+- [01:35:02,800 - 01:35:04,800] and I know its distance,
+- [01:35:04,800 - 01:35:06,800] I can roughly estimate how long
+- [01:35:06,800 - 01:35:09,800] in the past it must have been ejected.
+- [01:35:09,800 - 01:35:11,800] If I see it moving with a certain velocity,
+- [01:35:11,800 - 01:35:13,800] and I know it's a certain distance,
+- [01:35:13,800 - 01:35:15,800] I can make a good guess
+- [01:35:15,800 - 01:35:17,800] about how long ago
+- [01:35:17,800 - 01:35:19,800] it was sitting in my lap on the Earth.
+- [01:35:19,800 - 01:35:22,800] So it's really no different than that.
+- [01:35:22,800 - 01:35:24,800] It's a crude and rough estimate
+- [01:35:24,800 - 01:35:27,800] of how long ago the Big Bang was
+- [01:35:27,800 - 01:35:30,800] by measuring the velocity
+- [01:35:30,800 - 01:35:32,800] of distant galaxies
+- [01:35:32,800 - 01:35:34,800] measuring their distance,
+- [01:35:34,800 - 01:35:36,800] we get the Hubble parameter,
+- [01:35:36,800 - 01:35:39,800] the inverse of the Hubble parameter is...
+- [01:35:39,800 - 01:35:42,800] We can call it the age of the universe.
+- [01:35:42,800 - 01:35:44,800] It's one measure of the age of the universe.
+- [01:35:44,800 - 01:35:47,800] Nobody knows when the universe began
+- [01:35:47,800 - 01:35:49,800] and how it began,
+- [01:35:49,800 - 01:35:52,800] but this inverse h
+- [01:35:52,800 - 01:35:55,800] is of order the time to the Big Bang.
+- [01:35:55,800 - 01:35:58,800] Would you incidentally expect...
+- [01:35:58,800 - 01:36:00,800] What would you expect?
+- [01:36:00,800 - 01:36:01,800] Would you expect the real time
+- [01:36:01,800 - 01:36:04,800] was shorter than that or longer than that?
+- [01:36:04,800 - 01:36:06,800] Longer.
+- [01:36:06,800 - 01:36:08,800] Why?
+- [01:36:08,800 - 01:36:13,800] Because there might be other forces.
+- [01:36:13,800 - 01:36:16,800] Well, we haven't even mentioned forces here.
+- [01:36:16,800 - 01:36:17,800] This is what would happen
+- [01:36:17,800 - 01:36:20,800] if the velocity was absolutely uniform.
+- [01:36:20,800 - 01:36:22,800] So, okay, so think about that object
+- [01:36:22,800 - 01:36:24,800] that's moving away from us.
+- [01:36:24,800 - 01:36:27,800] We measure its velocity sometime in the future.
+- [01:36:27,800 - 01:36:28,800] We see it's moving away
+- [01:36:28,800 - 01:36:29,800] from us with a certain speed,
+- [01:36:29,800 - 01:36:30,800] and we want to know
+- [01:36:30,800 - 01:36:35,800] how long ago it left the Earth.
+- [01:36:35,800 - 01:36:36,800] Well, we can answer that question
+- [01:36:36,800 - 01:36:38,800] by running it backward.
+- [01:36:38,800 - 01:36:40,800] Take that same object,
+- [01:36:40,800 - 01:36:41,800] reverse its velocity,
+- [01:36:41,800 - 01:36:43,300] and ask how long it
+- [01:36:43,300 - 01:36:44,800] takes to fall into the Earth.
+- [01:36:44,800 - 01:36:46,800] The answer is less time
+- [01:36:46,800 - 01:36:49,800] than if it were moving with uniform velocity
+- [01:36:49,800 - 01:36:51,800] because the Earth attracts it
+- [01:36:51,800 - 01:36:54,800] and causes it to accelerate toward the Earth.
+- [01:36:54,800 - 01:36:55,800] It takes less time.
+- [01:36:55,800 - 01:36:59,800] So this, in the standard old-fashioned kind of cosmology,
+- [01:36:59,800 - 01:37:04,800] this estimate of the age of the universe
+- [01:37:04,800 - 01:37:06,800] was a little bit too long.
+- [01:37:06,800 - 01:37:09,800] The universe would have to be less old than that.
+- [01:37:13,800 - 01:37:14,800] But not by a lot.
+- [01:37:14,800 - 01:37:16,800] Not by a lot.
+- [01:37:16,800 - 01:37:20,800] Did you tell us that within our own galaxy
+- [01:37:20,800 - 01:37:22,800] there's no expansion going on?
+- [01:37:22,800 - 01:37:23,800] Right.
+- [01:37:23,800 - 01:37:25,800] So when you get to galaxy links...
+- [01:37:25,800 - 01:37:27,800] Well, no, right.
+- [01:37:27,800 - 01:37:29,800] At some point this theory has to crash.
+- [01:37:29,800 - 01:37:32,800] Crash means exactly what?
+- [01:37:32,800 - 01:37:35,800] As you run backward,
+- [01:37:35,800 - 01:37:38,800] or really the backwards of what happened
+- [01:37:38,800 - 01:37:39,800] as you went forward,
+- [01:37:39,800 - 01:37:41,800] the galaxy sort of materialized
+- [01:37:41,800 - 01:37:43,800] out of fluctuations
+- [01:37:43,800 - 01:37:46,800] and a relative degree of almost complete homogeneity
+- [01:37:46,800 - 01:37:47,800] by attracting the matter,
+- [01:37:47,800 - 01:37:50,800] attracting and clumping and so forth.
+- [01:37:50,800 - 01:37:53,800] And I don't think you would...
+- [01:37:53,800 - 01:37:54,800] That is not what you would see
+- [01:37:54,800 - 01:37:56,800] if you literally ran it backwards.
+- [01:37:56,800 - 01:37:58,800] If you run a real event,
+- [01:37:58,800 - 01:38:01,800] a real event backward,
+- [01:38:01,800 - 01:38:04,800] you don't get to see
+- [01:38:04,800 - 01:38:08,800] the backwards of the forward motion.
+- [01:38:08,800 - 01:38:10,800] If you...
+- [01:38:10,800 - 01:38:11,800] If it's an explosion,
+- [01:38:11,800 - 01:38:12,800] it puts itself back in the middle.
+- [01:38:12,800 - 01:38:14,800] Yeah, yeah, yeah, yeah.
+- [01:38:14,800 - 01:38:15,800] Right.
+- [01:38:15,800 - 01:38:17,800] I mean, there's various ways to describe it.
+- [01:38:17,800 - 01:38:20,800] Sometimes it's called the second law of thermodynamics.
+- [01:38:20,800 - 01:38:22,800] Sometimes it's called the increase of entropy.
+- [01:38:22,800 - 01:38:24,800] Sometimes it's just called shit happens.
+- [01:38:24,800 - 01:38:26,800] Right.
+- [01:38:26,800 - 01:38:30,800] When we measure the distance to galaxies,
+- [01:38:30,800 - 01:38:35,800] we are measuring in terms of some standard
+- [01:38:35,800 - 01:38:37,800] that we have here on Earth.
+- [01:38:37,800 - 01:38:39,800] So we compare that distance.
+- [01:38:39,800 - 01:38:41,800] Yes, yes.
+- [01:38:41,800 - 01:38:44,800] So is there a physical experiment
+- [01:38:44,800 - 01:38:49,800] that allows us to distinguish whether
+- [01:38:49,800 - 01:38:53,800] these galaxies are expanding or not?
+- [01:38:53,800 - 01:38:55,800] Whether the galaxies themselves are expanding?
+- [01:38:55,800 - 01:38:56,800] No, no, no.
+- [01:38:56,800 - 01:38:58,800] Whether the A and B is growing.
+- [01:38:58,800 - 01:38:59,800] Yeah.
+- [01:38:59,800 - 01:39:00,800] I mean, say,
+- [01:39:00,800 - 01:39:03,800] or whether my ruler is shrinking.
+- [01:39:03,800 - 01:39:05,800] No, there's no way to tell the difference.
+- [01:39:05,800 - 01:39:09,800] So there's a sort of equivalence principle of scale.
+- [01:39:09,800 - 01:39:12,800] Only ratios, only ratios of lengths
+- [01:39:12,800 - 01:39:14,800] are really important in physics.
+- [01:39:14,800 - 01:39:17,800] Only ratios of dimensional quantities.
+- [01:39:17,800 - 01:39:20,800] So what you can say is that the...
+- [01:39:20,800 - 01:39:21,800] I mean, I think that
+- [01:39:21,800 - 01:39:22,800] that is a very good point,
+- [01:39:22,800 - 01:39:24,800] and we should talk about that.
+- [01:39:24,800 - 01:39:27,800] The distance between galaxies
+- [01:39:27,800 - 01:39:31,800] divided by the length of a meter stick is increasing.
+- [01:39:31,800 - 01:39:33,800] And that's really all you can say.
+- [01:39:33,800 - 01:39:36,800] Or equivalently, the meter stick is decreasing.
+- [01:39:36,800 - 01:39:39,800] Or equivalently, the meter stick is decreasing.
+- [01:39:39,800 - 01:39:41,800] Yeah.
+- [01:39:41,800 - 01:39:43,800] And you take your choice.
+- [01:39:43,800 - 01:39:45,800] But it's standard.
+- [01:39:45,800 - 01:39:48,800] I mean, it's a matter of convention.
+- [01:39:48,800 - 01:39:50,800] But we like to think
+- [01:39:50,800 - 01:39:52,800] that the parameters of atomic physics
+- [01:39:52,800 - 01:39:53,800] and molecular physics,
+- [01:39:53,800 - 01:39:56,800] and all these things which hold meter sticks together,
+- [01:39:56,800 - 01:39:57,800] is fixed.
+- [01:39:57,800 - 01:39:59,300] We like to imagine that the
+- [01:39:59,300 - 01:40:00,800] mass of the electron is fixed,
+- [01:40:00,800 - 01:40:03,800] and all these fundamental parameters are fixed numbers.
+- [01:40:03,800 - 01:40:05,800] The speed of light.
+- [01:40:05,800 - 01:40:07,800] The speed of light,
+- [01:40:07,800 - 01:40:10,800] but in particular, dimensional numbers.
+- [01:40:10,800 - 01:40:12,800] I would not like...
+- [01:40:12,800 - 01:40:13,800] I can do it.
+- [01:40:13,800 - 01:40:16,300] I can say the radius
+- [01:40:16,300 - 01:40:18,800] of a proton decreases with time,
+- [01:40:18,800 - 01:40:21,800] instead of saying the universe expands.
+- [01:40:21,800 - 01:40:23,800] It is a matter of taste
+- [01:40:23,800 - 01:40:24,800] more than anything else,
+- [01:40:24,800 - 01:40:26,800] and a matter of historical preference,
+- [01:40:26,800 - 01:40:30,800] a matter of historical convention,
+- [01:40:30,800 - 01:40:36,800] that we tend to think of the microscopic atomic distances
+- [01:40:36,800 - 01:40:39,800] as fixed things.
+- [01:40:39,800 - 01:40:42,800] And they, of course, determine...
+- [01:40:42,800 - 01:40:44,800] What is a meter stick, incidentally?
+- [01:40:44,800 - 01:40:46,800] Why is a meter stick a meter long?
+- [01:40:46,800 - 01:40:47,800] Well, what is a meter?
+- [01:40:47,800 - 01:40:49,300] A meter is a distance
+- [01:40:49,300 - 01:40:50,800] from your nose to your arm.
+- [01:40:50,800 - 01:40:52,800] Why is it so big in atomic units?
+- [01:40:52,800 - 01:40:54,300] Because it takes a lot
+- [01:40:54,300 - 01:40:55,800] of atoms to make an arm.
+- [01:40:55,800 - 01:40:56,800] Okay?
+- [01:40:56,800 - 01:40:58,800] So it's a matter of biology.
+- [01:40:58,800 - 01:41:01,800] But that biology, we like to imagine,
+- [01:41:01,800 - 01:41:03,800] doesn't change with time,
+- [01:41:03,800 - 01:41:05,800] and so we use conventions
+- [01:41:05,800 - 01:41:08,800] which say that the size of an atom,
+- [01:41:08,800 - 01:41:10,800] the size of a proton, and so forth,
+- [01:41:10,800 - 01:41:14,800] is determined by a fixed set of parameters
+- [01:41:14,800 - 01:41:18,800] that are enshrined in the...
+- [01:41:18,800 - 01:41:19,800] in some ways in Paris.
+- [01:41:19,800 - 01:41:20,800] I don't know where they
+- [01:41:20,800 - 01:41:21,800] keep the meter stick these days.
+- [01:41:22,800 - 01:41:24,800] And finished.
+- [01:41:24,800 - 01:41:27,800] We use those units.
+- [01:41:27,800 - 01:41:31,800] With that convention, the universe is expanding.
+- [01:41:31,800 - 01:41:36,800] If somebody big enough who looks at the universe
+- [01:41:36,800 - 01:41:38,800] from a large distance perspective
+- [01:41:38,800 - 01:41:41,800] and likes to use the distance between galaxies
+- [01:41:41,800 - 01:41:43,800] as a basic unit,
+- [01:41:43,800 - 01:41:46,800] that observer will see everything shrinking and shrinking
+- [01:41:46,800 - 01:41:48,800] and will say atoms get smaller.
+- [01:41:48,800 - 01:41:50,800] So it is a matter of fixed.
+- [01:41:50,800 - 01:41:51,800] And...
+- [01:41:52,800 - 01:41:53,800] Another question is,
+- [01:41:53,800 - 01:41:55,800] is that the only form of the metric
+- [01:41:55,800 - 01:41:58,800] that follows from that and the genius?
+- [01:41:58,800 - 01:42:00,800] Apart from...
+- [01:42:00,800 - 01:42:02,800] apart from coordinate transformations.
+- [01:42:02,800 - 01:42:04,300] Now this is the metric
+- [01:42:04,300 - 01:42:05,800] in some specific set of coordinates.
+- [01:42:05,800 - 01:42:07,800] In other words, the right statement
+- [01:42:07,800 - 01:42:09,800] is that the metric, given these two things,
+- [01:42:09,800 - 01:42:11,800] the metric can be brought to this form
+- [01:42:11,800 - 01:42:14,800] by an appropriate choice of coordinates.
+- [01:42:14,800 - 01:42:15,800] Yeah.
+- [01:42:15,800 - 01:42:16,800] Yeah.
+- [01:42:16,800 - 01:42:19,800] So that's in a sense a derivation
+- [01:42:19,800 - 01:42:20,800] that I didn't do,
+- [01:42:20,800 - 01:42:22,800] but it's not terribly important.
+- [01:42:22,800 - 01:42:23,800] Yeah.
+- [01:42:23,800 - 01:42:26,800] Since we were talking about running the tape backwards,
+- [01:42:26,800 - 01:42:29,800] if distance between two points was zero,
+- [01:42:29,800 - 01:42:31,800] then the velocity would also be zero.
+- [01:42:31,800 - 01:42:32,800] Which means they would not be...
+- [01:42:32,800 - 01:42:34,800] No, I'm saying, supposedly...
+- [01:42:34,800 - 01:42:37,800] No, I'm saying, supposedly we look at everything today.
+- [01:42:37,800 - 01:42:41,800] We calculate, we measure what the Hubble constant is today.
+- [01:42:41,800 - 01:42:43,800] Okay?
+- [01:42:43,800 - 01:42:46,800] Today, and then we run it backward.
+- [01:42:46,800 - 01:42:49,800] If we run it backward with today's parameters,
+- [01:42:49,800 - 01:42:50,800] that will tell us how long it takes
+- [01:42:50,800 - 01:42:51,800] for the universe to call its own.
+- [01:42:51,800 - 01:42:54,800] For the universe to collapse into something much smaller.
+- [01:42:54,800 - 01:42:57,800] The Hubble constant, of course, varies with time.
+- [01:42:57,800 - 01:42:59,800] It varies with time,
+- [01:42:59,800 - 01:43:02,800] and in fact it tends to increase
+- [01:43:02,800 - 01:43:05,800] as you go back toward the Big Bang.
+- [01:43:05,800 - 01:43:07,800] The Hubble constant was much larger
+- [01:43:07,800 - 01:43:09,800] at the earlier times than it is today.
+- [01:43:09,800 - 01:43:13,800] So, and the velocities were much larger.
+- [01:43:13,800 - 01:43:18,800] So even though the distance between two galaxies
+- [01:43:18,800 - 01:43:20,800] may have been much smaller,
+- [01:43:21,800 - 01:43:24,800] the velocities of ejection of those same galaxies
+- [01:43:24,800 - 01:43:26,800] were larger in the past.
+- [01:43:26,800 - 01:43:27,800] That means that the Hubble parameter
+- [01:43:27,800 - 01:43:30,800] must have been much larger in the past.
+- [01:43:30,800 - 01:43:31,800] But what I'm saying is,
+- [01:43:31,800 - 01:43:33,800] supposedly we look at things today,
+- [01:43:33,800 - 01:43:35,800] we look at things through our telescopes,
+- [01:43:35,800 - 01:43:37,800] we measure today's Hubble constant,
+- [01:43:37,800 - 01:43:38,800] we know what it is,
+- [01:43:38,800 - 01:43:40,800] that tells us today what the
+- [01:43:40,800 - 01:43:42,800] ratio of distance to velocity is,
+- [01:43:42,800 - 01:43:46,800] and then using, assuming that the velocity is uniform
+- [01:43:46,800 - 01:43:48,800] and it doesn't change with time,
+- [01:43:48,800 - 01:43:49,800] we can ask how long it
+- [01:43:49,800 - 01:43:50,800] would have taken for a collision.
+- [01:43:51,800 - 01:43:54,300] Then we add to that a
+- [01:43:54,300 - 01:43:56,800] little bit of information from gravity
+- [01:43:56,800 - 01:43:59,800] that if we did run it backward,
+- [01:43:59,800 - 01:44:05,800] then we would be over, under, no, overestimating the time
+- [01:44:05,800 - 01:44:08,800] because the gravitational attraction
+- [01:44:08,800 - 01:44:10,800] would cause things to speed up.
+- [01:44:10,800 - 01:44:16,800] So, and one can do this with great precision,
+- [01:44:16,800 - 01:44:18,800] so we know what the age of the universe,
+- [01:44:18,800 - 01:44:20,800] the age of the universe meaning,
+- [01:44:20,800 - 01:44:22,800] the time until, let's say,
+- [01:44:22,800 - 01:44:25,800] galaxies would have been sitting on top of each other,
+- [01:44:25,800 - 01:44:28,800] it's 13.5 billion years.
+- [01:44:30,800 - 01:44:34,800] Let's proceed a little bit.
+- [01:44:35,800 - 01:44:37,800] How do we find out
+- [01:44:37,800 - 01:44:39,800] what A is doing with time?
+- [01:44:39,800 - 01:44:42,800] Well, one way, of course, is to measure it.
+- [01:44:42,800 - 01:44:44,800] And you can look back through telescopes
+- [01:44:44,800 - 01:44:47,800] into the very, very distant past.
+- [01:44:47,800 - 01:44:49,800] You can look at, in principle,
+- [01:44:49,800 - 01:44:51,800] you can look at two galaxies,
+- [01:44:51,800 - 01:44:53,800] you could, in principle, try to,
+- [01:44:53,800 - 01:44:55,800] in fact, you don't do it this way,
+- [01:44:55,800 - 01:44:57,800] but you could look at them carefully enough
+- [01:44:57,800 - 01:44:58,800] to see that they're receding
+- [01:44:58,800 - 01:44:59,800] from each other a little bit.
+- [01:44:59,800 - 01:45:01,800] This was long, long in the past.
+- [01:45:01,800 - 01:45:04,800] And so in that way, you could measure the relationship
+- [01:45:04,800 - 01:45:07,800] between their velocity and their distance,
+- [01:45:07,800 - 01:45:09,800] long in the past,
+- [01:45:09,800 - 01:45:14,800] and determine how the Hubble parameter changes with time.
+- [01:45:14,800 - 01:45:16,800] And if you know that, you can also figure out
+- [01:45:16,800 - 01:45:17,800] how the scale factor changes with time.
+- [01:45:17,800 - 01:45:20,800] Of course, that's not the way it's done.
+- [01:45:20,800 - 01:45:22,800] The way that it's actually done,
+- [01:45:22,800 - 01:45:24,800] well, is more sophisticated than that.
+- [01:45:24,800 - 01:45:27,800] But the first thing is, what should you expect?
+- [01:45:27,800 - 01:45:29,800] What should you expect on the basis
+- [01:45:29,800 - 01:45:35,800] of basic Newtonian physics of gravity?
+- [01:45:35,800 - 01:45:38,800] The answer is roughly analogous
+- [01:45:38,800 - 01:45:40,800] to the same question that you would ask
+- [01:45:40,800 - 01:45:43,800] about the outgoing cannonball.
+- [01:45:43,800 - 01:45:47,800] How does the distance of the cannonball,
+- [01:45:47,800 - 01:45:48,800] remember what A is now,
+- [01:45:48,800 - 01:45:50,800] A is just the distance
+- [01:45:50,800 - 01:45:52,800] between a pair of nearby galaxies,
+- [01:45:52,800 - 01:45:54,800] how does it vary with time?
+- [01:45:54,800 - 01:45:56,300] It varies with time in
+- [01:45:56,300 - 01:45:57,800] a manner which is entirely analogous
+- [01:45:57,800 - 01:45:59,800] to the way the bowling ball, not the bowling ball,
+- [01:45:59,800 - 01:46:04,800] the cannonball distance would recede from the Earth.
+- [01:46:04,800 - 01:46:06,800] What governs that?
+- [01:46:06,800 - 01:46:10,800] Newton's equations governing forces and acceleration
+- [01:46:10,800 - 01:46:14,800] determine how the cannonball would recede from the Earth.
+- [01:46:14,800 - 01:46:16,800] And so the exercise of figuring out
+- [01:46:16,800 - 01:46:21,800] how A varies with time is a simple exercise
+- [01:46:21,800 - 01:46:23,800] in Newtonian physics,
+- [01:46:23,800 - 01:46:26,800] in Newtonian F equals M A type physics.
+- [01:46:26,800 - 01:46:32,800] And I'm going to show you how it works.
+- [01:46:32,800 - 01:46:37,800] In a simple example.
+- [01:46:37,800 - 01:46:39,800] Let's draw all the galaxies.
+- [01:46:39,800 - 01:46:41,800] Here they are.
+- [01:46:41,800 - 01:46:43,800] Well, that's not all of them.
+- [01:46:43,800 - 01:46:45,800] Are in an approximate,
+- [01:46:45,800 - 01:46:48,800] an approximation where the universe is very big
+- [01:46:48,800 - 01:46:50,800] and the distance between galaxies is small
+- [01:46:50,800 - 01:46:53,800] and everything is homogeneous and uniform.
+- [01:46:53,800 - 01:46:55,300] We can think of the
+- [01:46:55,300 - 01:46:56,800] galaxies as sort of being smeared
+- [01:46:56,800 - 01:47:00,800] over space in a very homogeneous gas,
+- [01:47:00,800 - 01:47:03,800] a sort of gas of particles.
+- [01:47:03,800 - 01:47:06,800] The gas of particles are more or less standing still,
+- [01:47:06,800 - 01:47:08,800] they're not standing still relative to each other,
+- [01:47:08,800 - 01:47:10,800] but they're flowing with the flow
+- [01:47:10,800 - 01:47:13,800] and the gas of particles is expanding.
+- [01:47:13,800 - 01:47:15,800] Let's say this is us alone.
+- [01:47:15,800 - 01:47:17,800] Over here.
+- [01:47:17,800 - 01:47:19,300] Now there's no reason why
+- [01:47:19,300 - 01:47:20,800] we should be concentrating on us,
+- [01:47:20,800 - 01:47:22,300] and we'll discover in the
+- [01:47:22,300 - 01:47:23,800] end that the equations don't depend
+- [01:47:23,800 - 01:47:26,800] on who us is.
+- [01:47:26,800 - 01:47:28,800] Whether it's us over here,
+- [01:47:28,800 - 01:47:32,800] or somebody five billion light years away.
+- [01:47:32,800 - 01:47:34,800] The equations for how the universe expands
+- [01:47:34,800 - 01:47:36,800] should not depend on who we choose to be us,
+- [01:47:36,800 - 01:47:38,800] but let's choose us anyway.
+- [01:47:38,800 - 01:47:40,800] Here's us over here.
+- [01:47:40,800 - 01:47:43,800] And now let's take some galaxy
+- [01:47:43,800 - 01:47:45,800] at point x.
+- [01:47:45,800 - 01:47:47,800] Let's put it on the x-axis.
+- [01:47:47,800 - 01:47:49,800] Let's put it on the x-axis.
+- [01:47:49,800 - 01:47:53,800] We are at x equals zero by definition.
+- [01:47:53,800 - 01:47:56,800] Here's a galaxy at point x.
+- [01:47:56,800 - 01:47:58,800] X is its label.
+- [01:47:58,800 - 01:48:02,800] Its distance is a times x.
+- [01:48:02,800 - 01:48:05,800] So its distance,
+- [01:48:05,800 - 01:48:07,800] the distance here,
+- [01:48:07,800 - 01:48:12,800] the actual distance in meters is a times x.
+- [01:48:12,800 - 01:48:14,800] Here we are over here.
+- [01:48:14,800 - 01:48:18,800] And let's solve Newton's equations
+- [01:48:18,800 - 01:48:21,800] for how this galaxy moves.
+- [01:48:21,800 - 01:48:24,800] What are the forces on the galaxy,
+- [01:48:24,800 - 01:48:27,800] on this galaxy, this red galaxy over here?
+- [01:48:27,800 - 01:48:29,800] Well, there is of course the
+- [01:48:29,800 - 01:48:31,800] force of attraction to our galaxy,
+- [01:48:31,800 - 01:48:33,800] but that's not all.
+- [01:48:33,800 - 01:48:36,800] There's a lot of other galaxies here.
+- [01:48:36,800 - 01:48:38,800] In between.
+- [01:48:38,800 - 01:48:41,800] This is forming
+- [01:48:41,800 - 01:48:43,800] a gas.
+- [01:48:43,800 - 01:48:45,800] All of these galaxies,
+- [01:48:45,800 - 01:48:47,800] and there's also galaxies way out here.
+- [01:48:51,800 - 01:48:54,800] All of these galaxies
+- [01:48:54,800 - 01:48:56,800] gravitationally attract
+- [01:48:56,800 - 01:48:59,800] the galaxy that I've called x.
+- [01:48:59,800 - 01:49:03,800] So it sounds like a very, very hard problem
+- [01:49:03,800 - 01:49:05,800] to calculate the motion of x.
+- [01:49:05,800 - 01:49:08,800] But Newton would not have found it a hard problem.
+- [01:49:08,800 - 01:49:10,300] I don't know, I don't think
+- [01:49:10,300 - 01:49:11,800] he set up this exact problem
+- [01:49:11,800 - 01:49:14,800] but he would not have found it hard.
+- [01:49:14,800 - 01:49:16,800] He would have used a fact
+- [01:49:16,800 - 01:49:19,800] that he discovered about gravitational forces.
+- [01:49:19,800 - 01:49:22,800] It's basically a fact about inverse square forces.
+- [01:49:22,800 - 01:49:24,800] Here's the statement.
+- [01:49:24,800 - 01:49:26,800] If you have a
+- [01:49:26,800 - 01:49:30,800] spherically symmetric distribution of matter,
+- [01:49:30,800 - 01:49:34,800] spherically symmetric about the origin here,
+- [01:49:34,800 - 01:49:36,800] and the uniform distribution
+- [01:49:36,800 - 01:49:38,800] of galaxies is spherically symmetric,
+- [01:49:38,800 - 01:49:40,800] means it's the same in every direction,
+- [01:49:40,800 - 01:49:44,800] then the net force
+- [01:49:44,800 - 01:49:46,800] on an object
+- [01:49:46,800 - 01:49:50,800] is the force due to all of the
+- [01:49:50,800 - 01:49:53,800] matter inside
+- [01:49:53,800 - 01:49:56,800] the sphere about the center.
+- [01:49:56,800 - 01:49:59,800] In other words, the net force pulling this galaxy
+- [01:49:59,800 - 01:50:01,800] toward the center of coordinates,
+- [01:50:01,800 - 01:50:03,800] us,
+- [01:50:03,800 - 01:50:06,800] is due to all of the matter inside the sphere,
+- [01:50:06,800 - 01:50:09,800] and all of the matter outside the sphere
+- [01:50:09,800 - 01:50:12,800] that doesn't contribute anything.
+- [01:50:12,800 - 01:50:15,800] That's one statement.
+- [01:50:15,800 - 01:50:18,800] So, in calculating how x moves,
+- [01:50:18,800 - 01:50:22,800] you can forget all the material on the outside.
+- [01:50:22,800 - 01:50:25,800] It just doesn't make any difference.
+- [01:50:25,800 - 01:50:27,800] On the other hand,
+- [01:50:27,800 - 01:50:29,800] Newton also discovered something else.
+- [01:50:29,800 - 01:50:32,300] He discovered that if you have a
+- [01:50:32,300 - 01:50:34,800] spherically symmetric distribution of mass like this,
+- [01:50:34,800 - 01:50:36,800] then the force on an object,
+- [01:50:36,800 - 01:50:38,800] due to the spherically symmetric mass distribution
+- [01:50:38,800 - 01:50:40,800] on the inside of the sphere,
+- [01:50:40,800 - 01:50:42,800] is exactly the same
+- [01:50:42,800 - 01:50:44,800] as if all the mass
+- [01:50:44,800 - 01:50:46,800] were concentrated right at the center.
+- [01:50:48,800 - 01:50:50,800] So this means all we have to do
+- [01:50:50,800 - 01:50:55,800] to find out how a galaxy at distance x moves,
+- [01:50:55,800 - 01:50:57,800] how it moves,
+- [01:50:57,800 - 01:50:59,800] is to study its motion
+- [01:50:59,800 - 01:51:02,800] in a fictitious problem
+- [01:51:02,800 - 01:51:04,800] where all of the material
+- [01:51:04,800 - 01:51:06,800] within a sphere
+- [01:51:06,800 - 01:51:08,800] bounded by x,
+- [01:51:08,800 - 01:51:10,800] all of the things closer than x,
+- [01:51:10,800 - 01:51:13,800] are all concentrated right at us.
+- [01:51:13,800 - 01:51:16,800] And then just pretend there was a problem
+- [01:51:16,800 - 01:51:20,800] in which a cannonball was ejected from the Earth.
+- [01:51:20,800 - 01:51:24,800] And that will give us the exact correct answer.
+- [01:51:24,800 - 01:51:27,800] That's the thing that Newton would have known,
+- [01:51:27,800 - 01:51:30,800] and I'm sure if he didn't solve that problem,
+- [01:51:30,800 - 01:51:33,800] he would have solved that problem very easily.
+- [01:51:33,800 - 01:51:35,800] So let's work it out.
+- [01:51:35,800 - 01:51:37,800] Well, I don't know, maybe we should quit now.
+- [01:51:37,800 - 01:51:39,800] I think we'll work it out next time.
+- [01:51:39,800 - 01:51:41,800] We'll work out in detail
+- [01:51:41,800 - 01:51:43,800] the equation of motion
+- [01:51:43,800 - 01:51:46,800] for how a increases with time,
+- [01:51:46,800 - 01:51:48,800] and work out the simplest cosmology,
+- [01:51:48,800 - 01:51:50,800] what's called matter-dominated cosmology,
+- [01:51:50,800 - 01:51:52,800] find out how a increases,
+- [01:51:52,800 - 01:52:02,800] and discover one of the basic laws of cosmology
+- [01:52:02,800 - 01:52:05,800] that we'll talk about next time.
+- [01:52:05,800 - 01:52:06,800] Are there questions now?
+- [01:52:06,800 - 01:52:09,800] Because we'll do one more class,
+- [01:52:09,800 - 01:52:10,800] we'll finish this up,
+- [01:52:10,800 - 01:52:12,800] and that'll be it for the summer.
+- [01:52:14,800 - 01:52:15,800] No questions? Yeah.
+- [01:52:15,800 - 01:52:18,800] Probably too much to answer in a couple of minutes,
+- [01:52:18,800 - 01:52:20,800] but I'll be at least asking.
+- [01:52:20,800 - 01:52:23,800] We look way out into the universe,
+- [01:52:23,800 - 01:52:25,800] and we see life as it
+- [01:52:25,800 - 01:52:27,800] was 12, 13 billion years ago.
+- [01:52:27,800 - 01:52:29,800] But over 13 billion years ago,
+- [01:52:29,800 - 01:52:31,800] the universe was very small.
+- [01:52:31,800 - 01:52:34,800] So why aren't we seeing that very close to us
+- [01:52:34,800 - 01:52:36,800] instead of very far away?
+- [01:52:36,800 - 01:52:43,800] The universe...
+- [01:52:43,800 - 01:52:45,800] Things were much closer to us.
+- [01:52:45,800 - 01:52:49,800] It's this equation for the light ray here.
+- [01:52:58,800 - 01:52:59,800] Let's see.
+- [01:52:59,800 - 01:53:01,800] What are you asking me?
+- [01:53:01,800 - 01:53:04,800] The light that we see,
+- [01:53:04,800 - 01:53:07,800] the light that we see...
+- [01:53:07,800 - 01:53:11,800] I'm not sure how to describe this.
+- [01:53:11,800 - 01:53:13,800] The second part of the question will come up.
+- [01:53:13,800 - 01:53:15,800] Say it again?
+- [01:53:15,800 - 01:53:17,800] The second part of the question will come up.
+- [01:53:17,800 - 01:53:18,800] We look way out into the universe,
+- [01:53:18,800 - 01:53:20,300] and we see light that was
+- [01:53:20,300 - 01:53:21,800] emitted 12, 13 billion years ago.
+- [01:53:21,800 - 01:53:24,300] And it's been coming at us
+- [01:53:24,300 - 01:53:26,800] for 12 or 13 billion years.
+- [01:53:26,800 - 01:53:28,300] No, it's been coming at us
+- [01:53:28,300 - 01:53:29,800] for 12 or 13 billion years.
+- [01:53:29,800 - 01:53:31,800] But 12 or 13 billion years ago,
+- [01:53:31,800 - 01:53:33,800] the universe was much smaller.
+- [01:53:33,800 - 01:53:35,800] So how can this light appear
+- [01:53:35,800 - 01:53:37,800] to be from so far away?
+- [01:53:37,800 - 01:53:39,300] Well, okay, so we have to
+- [01:53:39,300 - 01:53:40,800] work out how a light ray moves.
+- [01:53:40,800 - 01:53:41,800] I'll do that next time.
+- [01:53:41,800 - 01:53:42,800] I'm tired now.
+- [01:53:42,800 - 01:53:44,800] I'm reaching my exhaustion point.
+- [01:53:44,800 - 01:53:46,800] Let's work out next time exactly how that works.
+- [01:53:46,800 - 01:53:48,800] And maybe the same question,
+- [01:53:48,800 - 01:53:50,800] but observable universe.
+- [01:53:50,800 - 01:53:53,800] If the universe started from a big bag
+- [01:53:53,800 - 01:53:55,800] and expanded,
+- [01:53:55,800 - 01:53:57,800] if in the early days it was
+- [01:53:57,800 - 01:53:59,800] expanding much slower than the speed of light,
+- [01:53:59,800 - 01:54:01,800] how is it that anything in
+- [01:54:01,800 - 01:54:03,800] the universe is not observable to us?
+- [01:54:03,800 - 01:54:07,800] If it was already compact and not expanding fast?
+- [01:54:07,800 - 01:54:09,800] Okay, so let's...
+- [01:54:09,800 - 01:54:13,800] Yeah, it is the same question.
+- [01:54:13,800 - 01:54:18,800] Let's plot some light rays.
+- [01:54:18,800 - 01:54:21,800] Here's T.
+- [01:54:21,800 - 01:54:26,800] Here's X.
+- [01:54:26,800 - 01:54:28,300] Now, what happens to the
+- [01:54:28,300 - 01:54:29,800] scale factor very early in time
+- [01:54:29,800 - 01:54:31,800] is that it gets very small.
+- [01:54:31,800 - 01:54:33,800] In fact, let's just assume it goes to zero.
+- [01:54:33,800 - 01:54:35,800] In some simple way.
+- [01:54:35,800 - 01:54:37,800] Okay?
+- [01:54:37,800 - 01:54:41,800] And let's plot what a light ray looks like.
+- [01:54:41,800 - 01:54:45,800] When A is very, very small,
+- [01:54:45,800 - 01:54:51,800] the dx by dt is very, very large.
+- [01:54:51,800 - 01:54:53,800] So the light ray,
+- [01:54:53,800 - 01:54:54,800] let's say the light ray
+- [01:54:54,800 - 01:54:55,800] starting from this point over here,
+- [01:54:55,800 - 01:54:57,800] this is T equals zero.
+- [01:54:57,800 - 01:54:59,800] And at T equals zero,
+- [01:54:59,800 - 01:55:02,800] A is also very, very small.
+- [01:55:02,800 - 01:55:04,800] Essentially zero.
+- [01:55:04,800 - 01:55:07,800] Okay, so the light ray starts out very fast,
+- [01:55:07,800 - 01:55:09,800] measured in X,
+- [01:55:09,800 - 01:55:12,800] because A is very small.
+- [01:55:12,800 - 01:55:13,800] And if A is small,
+- [01:55:13,800 - 01:55:15,800] then the distance that it goes in
+- [01:55:15,800 - 01:55:17,800] a given interval of time is very large.
+- [01:55:17,800 - 01:55:20,800] So, it starts moving very fast.
+- [01:55:20,800 - 01:55:22,800] Let's see, that means...
+- [01:55:22,800 - 01:55:25,800] Fast means almost horizontal.
+- [01:55:25,800 - 01:55:29,800] An infinite speed would mean completely horizontal.
+- [01:55:29,800 - 01:55:30,800] Alright?
+- [01:55:30,800 - 01:55:32,800] Then, as A starts to grow,
+- [01:55:32,800 - 01:55:34,800] the...
+- [01:55:34,800 - 01:55:36,800] I'll call this the coordinate velocity.
+- [01:55:36,800 - 01:55:38,800] It's not the ordinary velocity,
+- [01:55:38,800 - 01:55:40,800] but the coordinate velocity of the light
+- [01:55:40,800 - 01:55:42,800] begins to slow down.
+- [01:55:42,800 - 01:55:44,800] And the light...
+- [01:55:44,800 - 01:55:46,800] The light slows down,
+- [01:55:46,800 - 01:55:48,800] according to some law
+- [01:55:48,800 - 01:55:50,800] that depends on how A varies with time.
+- [01:55:50,800 - 01:55:52,800] Okay?
+- [01:55:52,800 - 01:55:54,800] Now, here we are, right over here.
+- [01:55:58,800 - 01:56:00,800] Here we are.
+- [01:56:00,800 - 01:56:01,800] And here's today.
+- [01:56:01,800 - 01:56:07,800] Space is flat, goes on and on forever and ever.
+- [01:56:07,800 - 01:56:11,800] No matter what this curve is shaped like,
+- [01:56:11,800 - 01:56:13,800] if we...
+- [01:56:13,800 - 01:56:15,800] displace it over to here,
+- [01:56:15,800 - 01:56:17,800] and run it backward,
+- [01:56:17,800 - 01:56:19,800] we will come to some point.
+- [01:56:19,800 - 01:56:21,800] We'll come to some point.
+- [01:56:21,800 - 01:56:23,800] That's the point which sends light
+- [01:56:23,800 - 01:56:25,800] to us from T equals zero
+- [01:56:25,800 - 01:56:27,800] that gets to us now.
+- [01:56:27,800 - 01:56:29,800] That's it. The light that we see
+- [01:56:29,800 - 01:56:31,800] came from this point.
+- [01:56:31,800 - 01:56:33,800] There's a...
+- [01:56:33,800 - 01:56:35,800] I don't know what else to say about it,
+- [01:56:35,800 - 01:56:37,800] except that we run this curve backward.
+- [01:56:37,800 - 01:56:39,800] Remember, it's apparently slowing down,
+- [01:56:39,800 - 01:56:41,800] slowing down, slowing down.
+- [01:56:41,800 - 01:56:43,800] And so, wherever we start,
+- [01:56:43,800 - 01:56:45,800] we can run it backward,
+- [01:56:45,800 - 01:56:47,800] and it will eventually intersect
+- [01:56:47,800 - 01:56:49,800] T equals zero.
+- [01:56:49,800 - 01:56:51,800] I don't know what else to say.
+- [01:56:51,800 - 01:56:53,800] Except to work out some examples
+- [01:56:53,800 - 01:56:55,800] of how light propagates.
+- [01:56:55,800 - 01:56:57,800] So there will be some place
+- [01:56:57,800 - 01:56:59,800] that...
+- [01:56:59,800 - 01:57:01,800] that...
+- [01:57:01,800 - 01:57:03,800] that the light originated at.
+- [01:57:03,800 - 01:57:05,800] If you...
+- [01:57:05,800 - 01:57:07,800] We'll work out...
+- [01:57:07,800 - 01:57:08,800] We'll work out an example
+- [01:57:08,800 - 01:57:09,800] with a specific A of T.
+- [01:57:09,800 - 01:57:11,800] And we'll try to calculate
+- [01:57:11,800 - 01:57:13,800] how far away
+- [01:57:13,800 - 01:57:15,800] that light originated from,
+- [01:57:15,800 - 01:57:17,800] and
+- [01:57:17,800 - 01:57:19,800] how long it took to get to us.
+- [01:57:19,800 - 01:57:21,800] I'm running out of steam,
+- [01:57:21,800 - 01:57:23,800] so I don't want to try to do it now.
+- [01:57:23,800 - 01:57:25,800] But we can do it.
+- [01:57:25,800 - 01:57:27,800] So when this big bang event happened,
+- [01:57:27,800 - 01:57:29,800] and...
+- [01:57:29,800 - 01:57:31,800] how come?
+- [01:57:31,800 - 01:57:33,800] Why didn't all the things that matter
+- [01:57:33,800 - 01:57:35,800] didn't all expand
+- [01:57:35,800 - 01:57:37,800] at the same, like, rate
+- [01:57:37,800 - 01:57:39,800] so that everything could be organized
+- [01:57:39,800 - 01:57:41,800] in, like, a ring?
+- [01:57:41,800 - 01:57:43,800] No, it didn't blow up from a point.
+- [01:57:43,800 - 01:57:45,800] Everything
+- [01:57:45,800 - 01:57:47,800] started out completely homogeneous.
+- [01:57:47,800 - 01:57:49,800] It started out
+- [01:57:49,800 - 01:57:51,800] completely uniform,
+- [01:57:51,800 - 01:57:53,800] but extremely dense.
+- [01:57:53,800 - 01:57:55,800] The table top here went on
+- [01:57:55,800 - 01:57:57,800] and on forever.
+- [01:57:57,800 - 01:57:59,800] Now, that's probably not really true,
+- [01:57:59,800 - 01:58:01,800] but just imagine it.
+- [01:58:01,800 - 01:58:03,800] Extremely big, but extremely dense.
+- [01:58:03,800 - 01:58:05,800] So that molecules...
+- [01:58:05,800 - 01:58:07,800] or molecules...
+- [01:58:07,800 - 01:58:09,800] Let's think of them as molecules.
+- [01:58:09,800 - 01:58:11,800] But molecules that we see today
+- [01:58:11,800 - 01:58:13,800] as being 10 billion light years
+- [01:58:13,800 - 01:58:15,800] away from us
+- [01:58:15,800 - 01:58:17,800] are really
+- [01:58:17,800 - 01:58:19,800] 10 to the minus 10th centimeters
+- [01:58:19,800 - 01:58:21,800] close to us.
+- [01:58:21,800 - 01:58:23,800] Everything that's in today's
+- [01:58:23,800 - 01:58:25,800] observable universe
+- [01:58:25,800 - 01:58:27,800] was all in a tiny, tiny patch here.
+- [01:58:27,800 - 01:58:29,800] And that's
+- [01:58:29,800 - 01:58:31,800] what we're looking at.
+- [01:58:31,800 - 01:58:33,800] And then the whole
+- [01:58:33,800 - 01:58:35,800] table top started to expand.
+- [01:58:37,800 - 01:58:39,800] No shell. There's no shell that formed.
+- [01:58:39,800 - 01:58:41,800] There's no sense in which some matter
+- [01:58:41,800 - 01:58:43,800] was ejected from a point and then went out
+- [01:58:43,800 - 01:58:45,800] and formed a shell.
+- [01:58:45,800 - 01:58:47,800] Just everything started to uniformly expand.
+- [01:58:49,800 - 01:58:51,800] And so it continued to form
+- [01:58:51,800 - 01:58:53,800] a completely homogeneous
+- [01:58:53,800 - 01:58:55,800] space, but the separation
+- [01:58:55,800 - 01:58:57,800] between points just got bigger and bigger.
+- [01:58:57,800 - 01:58:59,800] Think of a balloon.
+- [01:58:59,800 - 01:59:01,800] Think of a balloon expanding.
+- [01:59:01,800 - 01:59:03,800] You start with a balloon. The balloon is small
+- [01:59:03,800 - 01:59:05,800] and it's got a lot of dots in it.
+- [01:59:05,800 - 01:59:07,800] And then it expands.
+- [01:59:07,800 - 01:59:09,800] The same dots are further apart.
+- [01:59:11,800 - 01:59:13,800] But the balloon is uniformly filled
+- [01:59:13,800 - 01:59:15,800] with dots. It's not
+- [01:59:15,800 - 01:59:17,800] that if this is our dot over here
+- [01:59:17,800 - 01:59:19,800] we see dots on some shell
+- [01:59:19,800 - 01:59:21,800] far away. The entire balloon is uniformly filled.
+- [01:59:21,800 - 01:59:23,800] That's the nature of
+- [01:59:23,800 - 01:59:25,800] the geometry we're talking about.
+- [01:59:25,800 - 01:59:27,800] Homogeneous, everywhere the same,
+- [01:59:27,800 - 01:59:29,800] but uniformly expanding.
+- [01:59:29,800 - 01:59:31,800] There's a dot...
+- [01:59:31,800 - 01:59:33,800] There's no assumption in that
+- [01:59:33,800 - 01:59:35,800] that the universe is finite at that time.
+- [01:59:35,800 - 01:59:37,800] No.
+- [01:59:37,800 - 01:59:39,800] The universe is finite.
+- [01:59:39,800 - 01:59:41,800] It's not necessarily a point
+- [01:59:41,800 - 01:59:43,800] blowing up.
+- [01:59:43,800 - 01:59:45,800] If it expands, you could have
+- [01:59:45,800 - 01:59:47,800] infinite spans at that point,
+- [01:59:47,800 - 01:59:49,800] at that time.
+- [01:59:49,800 - 01:59:51,800] That all goes boom.
+- [01:59:51,800 - 01:59:53,800] But some things were not effective
+- [01:59:53,800 - 01:59:55,800] because the fact that
+- [01:59:55,800 - 01:59:57,800] you're keeping
+- [01:59:57,800 - 01:59:59,800] that you can actually measure
+- [01:59:59,800 - 02:00:01,800] the fact that
+- [02:00:01,800 - 02:00:03,800] you can see that
+- [02:00:03,800 - 02:00:05,800] there's this scale factor
+- [02:00:05,800 - 02:00:07,800] and things increasing
+- [02:00:07,800 - 02:00:09,800] means you're assuming that your ruler
+- [02:00:09,800 - 02:00:11,800] isn't changing.
+- [02:00:11,800 - 02:00:13,800] Obviously there's something
+- [02:00:13,800 - 02:00:15,800] that's not
+- [02:00:15,800 - 02:00:17,800] varying or varying
+- [02:00:17,800 - 02:00:19,800] at the same rate.
+- [02:00:19,800 - 02:00:21,800] So what?
+- [02:00:21,800 - 02:00:23,800] As the
+- [02:00:23,800 - 02:00:25,800] expansion of the universe.
+- [02:00:31,800 - 02:00:35,800] How come the gravitational attraction,
+- [02:00:35,800 - 02:00:37,800] that force,
+- [02:00:37,800 - 02:00:39,800] wasn't affected by
+- [02:00:39,800 - 02:00:41,800] this expansion event?
+- [02:00:41,800 - 02:00:43,800] Or I guess that's just the way...
+- [02:00:43,800 - 02:00:45,800] Why the force wasn't...
+- [02:00:45,800 - 02:00:47,800] Well, the force...
+- [02:00:47,800 - 02:00:49,800] The force...
+- [02:00:49,800 - 02:00:51,800] From...
+- [02:00:51,800 - 02:00:53,800] The force between a galaxy
+- [02:00:53,800 - 02:00:55,800] and our galaxy is affected
+- [02:00:55,800 - 02:00:57,800] by the expansion.
+- [02:00:57,800 - 02:00:59,800] The closer it is, the stronger the force.
+- [02:00:59,800 - 02:01:01,800] But we want to work out the consequences of that.
+- [02:01:01,800 - 02:01:03,800] When this sphere
+- [02:01:03,800 - 02:01:05,800] was much smaller...
+- [02:01:05,800 - 02:01:07,800] Remember now,
+- [02:01:07,800 - 02:01:09,800] only the things within the sphere
+- [02:01:09,800 - 02:01:11,800] affect the motion of this X
+- [02:01:11,800 - 02:01:13,800] relative to us.
+- [02:01:13,800 - 02:01:15,800] When all of this was much smaller,
+- [02:01:15,800 - 02:01:17,800] so that
+- [02:01:17,800 - 02:01:19,800] that same galaxy was right over here,
+- [02:01:19,800 - 02:01:21,800] there was a much larger force on it.
+- [02:01:21,800 - 02:01:23,800] But you would consider
+- [02:01:23,800 - 02:01:25,800] gravity or
+- [02:01:25,800 - 02:01:27,800] the other forces to actually
+- [02:01:27,800 - 02:01:29,800] have the same
+- [02:01:29,800 - 02:01:31,800] strength?
+- [02:01:31,800 - 02:01:33,800] During...
+- [02:01:33,800 - 02:01:35,800] When everything was closer together,
+- [02:01:35,800 - 02:01:36,800] the universal gravitational constant did
+- [02:01:36,800 - 02:01:37,800] not change at the time.
+- [02:01:37,800 - 02:01:39,800] The universal gravitational constant
+- [02:01:39,800 - 02:01:41,800] did not change, but the distance
+- [02:01:41,800 - 02:01:43,800] between us and other things
+- [02:01:43,800 - 02:01:45,800] did change, and so the force
+- [02:01:45,800 - 02:01:47,800] depends on constant
+- [02:01:47,800 - 02:01:49,800] and also distance.
+- [02:01:49,800 - 02:01:51,800] Is the universe...
+- [02:01:51,800 - 02:01:53,800] Is expansion...
+- [02:01:53,800 - 02:01:55,800] Well, say it again.
+- [02:01:55,800 - 02:01:57,800] Is the universe
+- [02:01:57,800 - 02:01:59,800] expansion...
+- [02:01:59,800 - 02:02:01,800] Encourager?
+- [02:02:01,800 - 02:02:03,800] Expansion?
+- [02:02:03,800 - 02:02:05,800] Or is it just flat, flat space?
+- [02:02:05,800 - 02:02:07,800] Okay, the...
+- [02:02:07,800 - 02:02:09,800] The observational evidence...
+- [02:02:09,800 - 02:02:11,800] Okay, let's begin with the Earth.
+- [02:02:11,800 - 02:02:13,800] Is the Earth curved
+- [02:02:13,800 - 02:02:15,800] or is the Earth flat?
+- [02:02:15,800 - 02:02:17,800] If you go out on a large
+- [02:02:17,800 - 02:02:19,800] plane, you know,
+- [02:02:19,800 - 02:02:21,800] the schoolyard, and you try
+- [02:02:21,800 - 02:02:23,800] to look around, you can't tell
+- [02:02:23,800 - 02:02:25,800] if the Earth is curved or flat.
+- [02:02:25,800 - 02:02:27,800] Why? Because you're not
+- [02:02:27,800 - 02:02:29,800] sampling a large enough portion of it
+- [02:02:29,800 - 02:02:31,800] to tell.
+- [02:02:31,800 - 02:02:33,800] Yeah, yeah, that's right.
+- [02:02:33,800 - 02:02:35,800] Your triangles will not be able...
+- [02:02:35,800 - 02:02:37,800] You will not be able to tell.
+- [02:02:37,800 - 02:02:38,800] The only way you can tell
+- [02:02:38,800 - 02:02:39,800] is to sample a large enough
+- [02:02:39,800 - 02:02:41,800] portion of the Earth so that you can actually
+- [02:02:41,800 - 02:02:43,800] see its curvature.
+- [02:02:43,800 - 02:02:47,800] The same is true with the universe.
+- [02:02:47,800 - 02:02:49,800] If you only get to sample
+- [02:02:49,800 - 02:02:51,800] a portion small
+- [02:02:51,800 - 02:02:53,800] by comparison with the radius of curvature,
+- [02:02:53,800 - 02:02:55,800] the operating term here is the radius
+- [02:02:55,800 - 02:02:57,800] of curvature, and for the Earth
+- [02:02:57,800 - 02:02:59,800] the radius of curvature is just its radius.
+- [02:02:59,800 - 02:03:01,800] Unless you consider
+- [02:03:01,800 - 02:03:03,800] a sample of part of the Earth that's comparable
+- [02:03:03,800 - 02:03:05,800] to the radius of the Earth,
+- [02:03:05,800 - 02:03:07,800] you will not see that it's
+- [02:03:07,800 - 02:03:09,800] curved, particularly
+- [02:03:09,800 - 02:03:11,800] if you're a little bug moving around on the surface
+- [02:03:11,800 - 02:03:13,800] of the Earth.
+- [02:03:13,800 - 02:03:15,800] You have to explore
+- [02:03:15,800 - 02:03:17,800] a region which
+- [02:03:17,800 - 02:03:19,800] is more or less
+- [02:03:19,800 - 02:03:21,800] of some finite fraction of the
+- [02:03:21,800 - 02:03:23,800] entire radius of the Earth
+- [02:03:23,800 - 02:03:25,800] in order to observe
+- [02:03:25,800 - 02:03:27,800] the fact that it's curved.
+- [02:03:29,800 - 02:03:31,800] The same is true of the universe. You have to
+- [02:03:31,800 - 02:03:33,800] explore a portion of the universe
+- [02:03:33,800 - 02:03:35,800] which is comparable,
+- [02:03:35,800 - 02:03:37,800] not necessarily comparable to,
+- [02:03:37,800 - 02:03:39,800] but at least some reasonably large
+- [02:03:39,800 - 02:03:41,800] fraction of the radius
+- [02:03:41,800 - 02:03:43,800] of curvature
+- [02:03:43,800 - 02:03:45,800] of space. Space may
+- [02:03:45,800 - 02:03:47,800] also be curved.
+- [02:03:47,800 - 02:03:49,800] If you explore too small a fraction of it,
+- [02:03:49,800 - 02:03:51,800] you can't detect the curvature.
+- [02:03:51,800 - 02:03:53,800] Alright, so the statement is today
+- [02:03:53,800 - 02:03:55,800] what you might
+- [02:03:55,800 - 02:03:57,800] be able to do, for example, is you could
+- [02:03:57,800 - 02:03:59,800] put, come back to the Earth,
+- [02:03:59,800 - 02:04:01,800] you might be able to put limits
+- [02:04:01,800 - 02:04:03,800] on how big the Earth is
+- [02:04:03,800 - 02:04:05,800] by exploring some triangles
+- [02:04:05,800 - 02:04:07,800] out on the football field,
+- [02:04:07,800 - 02:04:09,800] assuming the football
+- [02:04:09,800 - 02:04:11,800] field was nice and flat.
+- [02:04:11,800 - 02:04:13,800] You could
+- [02:04:13,800 - 02:04:15,800] put some bounds on how big the Earth is.
+- [02:04:15,800 - 02:04:17,800] You could, by
+- [02:04:17,800 - 02:04:19,800] measuring the angles of triangles and so forth,
+- [02:04:19,800 - 02:04:21,800] you would find that it's very close to being
+- [02:04:21,800 - 02:04:23,800] flat, and you would say
+- [02:04:23,800 - 02:04:25,800] well, the deviation from 180
+- [02:04:25,800 - 02:04:27,800] degrees is less than .0001
+- [02:04:27,800 - 02:04:29,800] radians,
+- [02:04:29,800 - 02:04:31,800] and therefore the Earth has to be
+- [02:04:31,800 - 02:04:33,800] bigger than a certain size.
+- [02:04:33,800 - 02:04:35,800] Otherwise you would have seen
+- [02:04:35,800 - 02:04:37,800] the funniness of triangles.
+- [02:04:37,800 - 02:04:39,800] Same thing you
+- [02:04:39,800 - 02:04:41,800] can do by exploring a
+- [02:04:41,800 - 02:04:43,800] region of space of
+- [02:04:43,800 - 02:04:45,800] size billions of years.
+- [02:04:45,800 - 02:04:47,800] Measure triangles
+- [02:04:47,800 - 02:04:49,800] various astronomical ways,
+- [02:04:49,800 - 02:04:51,800] measure very, very large triangles,
+- [02:04:51,800 - 02:04:53,800] compute the
+- [02:04:53,800 - 02:04:55,800] angles and so
+- [02:04:55,800 - 02:04:57,800] forth, and ask whether on
+- [02:04:57,800 - 02:04:59,800] the scale that you're measuring
+- [02:04:59,800 - 02:05:01,800] there's any visible curvature.
+- [02:05:01,800 - 02:05:03,800] The answer is
+- [02:05:03,800 - 02:05:05,800] no. On the scale that we've measured
+- [02:05:05,800 - 02:05:07,800] up till now, we cannot
+- [02:05:07,800 - 02:05:09,800] detect the presence of
+- [02:05:09,800 - 02:05:11,800] curvature of the universe. It appears
+- [02:05:11,800 - 02:05:13,800] to be flat
+- [02:05:13,800 - 02:05:15,800] on a scale of 10, 20
+- [02:05:15,800 - 02:05:17,800] billion light years. The meaning
+- [02:05:17,800 - 02:05:18,800] of that is the same
+- [02:05:18,800 - 02:05:19,800] as it is for the Earth.
+- [02:05:19,800 - 02:05:21,800] It means that if the universe
+- [02:05:21,800 - 02:05:23,800] is curved, its radius of
+- [02:05:23,800 - 02:05:25,800] curvature is much bigger than
+- [02:05:25,800 - 02:05:27,800] the visible portion.
+- [02:05:27,800 - 02:05:29,800] How much is much
+- [02:05:29,800 - 02:05:31,800] bigger? Ten times bigger.
+- [02:05:31,800 - 02:05:33,800] At least, at minimum.
+- [02:05:33,800 - 02:05:35,800] Maybe much more than that, but at absolute
+- [02:05:35,800 - 02:05:37,800] minimum, the
+- [02:05:37,800 - 02:05:39,800] universe is
+- [02:05:39,800 - 02:05:41,800] ten times larger in radius
+- [02:05:41,800 - 02:05:43,800] than the portion
+- [02:05:43,800 - 02:05:45,800] that we can see. And so that
+- [02:05:45,800 - 02:05:47,800] means that we can't really detect the curvature
+- [02:05:47,800 - 02:05:49,800] very easily.
+- [02:05:49,800 - 02:05:51,800] Is it really curved? It might be.
+- [02:05:51,800 - 02:05:53,800] Now what happens if it is curved?
+- [02:05:53,800 - 02:05:55,800] It starts out very curved, so the
+- [02:05:55,800 - 02:05:57,800] curvature is large if it's curved.
+- [02:05:57,800 - 02:05:59,800] A small sphere
+- [02:05:59,800 - 02:06:01,800] is highly curved.
+- [02:06:01,800 - 02:06:03,800] As the sphere expands,
+- [02:06:03,800 - 02:06:05,800] the curvature gets smaller and smaller.
+- [02:06:05,800 - 02:06:07,800] Until when the
+- [02:06:07,800 - 02:06:09,800] sphere is as big as the Earth, we can barely
+- [02:06:09,800 - 02:06:11,800] see the curvature.
+- [02:06:11,800 - 02:06:13,800] So the numerical measure of curvature
+- [02:06:13,800 - 02:06:15,800] on the surface of the Earth
+- [02:06:15,800 - 02:06:17,800] decreases
+- [02:06:17,800 - 02:06:18,800] as the Earth gets bigger and
+- [02:06:18,800 - 02:06:19,800] bigger. The same thing is true
+- [02:06:19,800 - 02:06:21,800] with the universe. The
+- [02:06:21,800 - 02:06:23,800] curvature of the universe decreases
+- [02:06:23,800 - 02:06:25,800] as the universe expands.
+- [02:06:25,800 - 02:06:27,800] And apparently the
+- [02:06:27,800 - 02:06:29,800] universe is expanded so much that
+- [02:06:29,800 - 02:06:31,800] even if it were a curved
+- [02:06:31,800 - 02:06:33,800] ball to begin with,
+- [02:06:33,800 - 02:06:35,800] it's expanded to the point where we can
+- [02:06:35,800 - 02:06:37,800] no longer detect its curvature.
+- [02:06:39,800 - 02:06:41,800] The reason I ask you that question is
+- [02:06:41,800 - 02:06:43,800] if it has curvature,
+- [02:06:43,800 - 02:06:45,800] then curvature should
+- [02:06:45,800 - 02:06:47,800] have two components. One is expanding,
+- [02:06:47,800 - 02:06:49,800] the other is contracting, right?
+- [02:06:49,800 - 02:06:51,800] By its nature, by its geometric
+- [02:06:51,800 - 02:06:53,800] nature. So the universe
+- [02:06:53,800 - 02:06:55,800] in the meantime must be contracting.
+- [02:06:55,800 - 02:06:57,800] Sorry, no, wait, wait, wait,
+- [02:06:57,800 - 02:06:59,800] wait, wait. The universe is known
+- [02:06:59,800 - 02:07:01,800] to be expanding. Expanding, yeah.
+- [02:07:01,800 - 02:07:03,800] But if it has curvature,
+- [02:07:03,800 - 02:07:05,800] then there is a component
+- [02:07:05,800 - 02:07:07,800] to it that's contracting also.
+- [02:07:07,800 - 02:07:09,800] No, no, no, no.
+- [02:07:09,800 - 02:07:11,800] The
+- [02:07:11,800 - 02:07:13,800] expansion
+- [02:07:13,800 - 02:07:15,800] or contraction of the universe
+- [02:07:15,800 - 02:07:17,800] is controlled by this
+- [02:07:17,800 - 02:07:19,800] A .
+- [02:07:19,800 - 02:07:21,800] The universe could be
+- [02:07:21,800 - 02:07:23,800] flat, it could be positively
+- [02:07:23,800 - 02:07:25,800] curved, it could be negatively curved.
+- [02:07:25,800 - 02:07:27,800] Whether it's expanding or contracting
+- [02:07:27,800 - 02:07:29,800] is not determined by that,
+- [02:07:29,800 - 02:07:31,800] it's determined by how A
+- [02:07:31,800 - 02:07:33,800] evolves. If A continues
+- [02:07:33,800 - 02:07:35,800] to grow, it's expanding.
+- [02:07:35,800 - 02:07:37,800] If it grows and
+- [02:07:37,800 - 02:07:39,800] recontracts, then it recontracts
+- [02:07:39,800 - 02:07:41,800] after a while. If it's contracting,
+- [02:07:41,800 - 02:07:43,800] then the universe is shrinking.
+- [02:07:45,800 - 02:07:47,800] There is a connection
+- [02:07:47,800 - 02:07:49,800] which is no longer
+- [02:07:49,800 - 02:07:51,800] apparently believed to be true,
+- [02:07:51,800 - 02:07:53,800] but there was
+- [02:07:53,800 - 02:07:55,800] an old connection between the curvature
+- [02:07:55,800 - 02:07:57,800] of the universe and whether it's going to
+- [02:07:57,800 - 02:07:59,800] re-collapse again.
+- [02:07:59,800 - 02:08:01,800] That has
+- [02:08:01,800 - 02:08:03,800] changed, and I will tell you about it next time.
+- [02:08:03,800 - 02:08:05,800] But,
+- [02:08:05,800 - 02:08:07,800] I don't know. Expanding is expanding,
+- [02:08:07,800 - 02:08:09,800] contracting is contracting. I wouldn't say
+- [02:08:09,800 - 02:08:11,800] there's a component which is contracting,
+- [02:08:11,800 - 02:08:13,800] and that's
+- [02:08:13,800 - 02:08:15,800] not the way I think about it.
+- [02:08:15,800 - 02:08:17,800] I don't know how to think about it so that
+- [02:08:17,800 - 02:08:19,800] expansion and contraction coexist.
+- [02:08:19,800 - 02:08:21,800] Contraction
+- [02:08:21,800 - 02:08:23,800] could follow expansion
+- [02:08:25,800 - 02:08:26,800] in the same way that
+- [02:08:26,800 - 02:08:27,800] a ball thrown into the air
+- [02:08:27,800 - 02:08:29,800] which is receding could fall back down.
+- [02:08:29,800 - 02:08:31,800] That's
+- [02:08:31,800 - 02:08:33,800] essentially the question.
+- [02:08:33,800 - 02:08:35,800] Is this particle here
+- [02:08:35,800 - 02:08:37,800] moving away fast enough
+- [02:08:37,800 - 02:08:39,800] that all of the mass
+- [02:08:39,800 - 02:08:41,800] within this sphere
+- [02:08:41,800 - 02:08:43,800] is insufficient
+- [02:08:43,800 - 02:08:45,800] to pull it back down,
+- [02:08:45,800 - 02:08:47,800] in which case it will escape?
+- [02:08:47,800 - 02:08:49,800] Or is it moving slow enough
+- [02:08:49,800 - 02:08:51,800] so that the mass within here
+- [02:08:51,800 - 02:08:53,800] will pull it back down, in which case the
+- [02:08:53,800 - 02:08:55,800] universe will crash?
+- [02:08:55,800 - 02:08:57,800] Okay.
+- [02:08:57,800 - 02:08:59,800] Or is it just
+- [02:08:59,800 - 02:09:01,800] in between on the knife edge? It appears
+- [02:09:01,800 - 02:09:03,800] to be just in between on the knife edge.
+- [02:09:03,800 - 02:09:05,800] Between,
+- [02:09:05,800 - 02:09:07,800] basically right at the escape velocity.
+- [02:09:07,800 - 02:09:09,800] Okay, let's...
+- [02:09:17,800 - 02:09:19,800] The preceding program is copyrighted by
+- [02:09:19,800 - 02:09:21,800] Stanford University. Please visit us
+- [02:09:21,800 - 02:09:23,800] at stanford.edu.
