@@ -1,0 +1,2372 @@
+# Transcript
+
+Source: supplementary/quantum_entanglement/2006_fall_part_1/055 - Lecture 8 ｜ Quantum Entanglements, Part 1 (Stanford) [C1erB9p5414].mp4
+
+- [00:00:00,000 - 00:00:10,480] This program is brought to you by Stanford University.
+- [00:00:10,480 - 00:00:13,200] Please visit us at stanford.edu.
+- [00:00:13,200 - 00:00:16,320] What I want to talk, what
+- [00:00:16,320 - 00:00:19,440] we were talking about last time,
+- [00:00:19,440 - 00:00:23,480] was the density matrix description of probabilities.
+- [00:00:23,480 - 00:00:29,100] Now the density matrix is another
+- [00:00:29,100 - 00:00:34,720] way of speaking about the probability postulate,
+- [00:00:34,720 - 00:00:38,480] and it's a situation which is more general
+- [00:00:38,480 - 00:00:42,240] than knowing the state vector of a system.
+- [00:00:42,240 - 00:00:46,880] It's roughly speaking when a system has been prepared,
+- [00:00:46,880 - 00:00:49,840] but you don't know how it's been prepared,
+- [00:00:49,840 - 00:00:53,440] and so it may very well have been prepared
+- [00:00:53,440 - 00:00:53,450] for a situation where it's been prepared, but you don't know how
+- [00:00:53,450 - 00:00:53,460] it's been prepared, and so it may very well have been prepared,
+- [00:00:53,460 - 00:00:56,700] in a very definite state of some sort.
+- [00:00:56,700 - 00:00:59,020] I gave you an example last time,
+- [00:00:59,020 - 00:01:01,660] where an electron spin
+- [00:01:01,660 - 00:01:04,950] might be prepared along a direction by
+- [00:01:04,950 - 00:01:08,240] placing the electron in a strong magnetic field,
+- [00:01:08,240 - 00:01:11,360] but somebody else did the preparing and didn't
+- [00:01:11,360 - 00:01:14,480] tell you what direction the magnetic field was in.
+- [00:01:14,480 - 00:01:17,130] Perhaps they gave you a probability distribution
+- [00:01:17,130 - 00:01:19,780] for different directions of the magnetic field.
+- [00:01:19,780 - 00:01:21,600] Thank you for the coffee tonight, I
+- [00:01:21,600 - 00:01:23,420] really need it. I hope this is coffee.
+- [00:01:23,420 - 00:01:28,980] So it's a situation where the system has been prepared,
+- [00:01:28,980 - 00:01:32,460] but you simply don't know how it was prepared.
+- [00:01:32,460 - 00:01:34,240] Then how do you describe it?
+- [00:01:34,240 - 00:01:38,460] There has to be some description.
+- [00:01:38,460 - 00:01:40,350] You may have some degree of
+- [00:01:40,350 - 00:01:42,240] knowledge about how it was prepared.
+- [00:01:42,240 - 00:01:43,960] You may have none.
+- [00:01:43,960 - 00:01:46,090] Incidentally, if you have none, if
+- [00:01:46,090 - 00:01:48,220] you have no knowledge at all,
+- [00:01:48,220 - 00:01:50,660] then the density matrix has all equal eigenvalues,
+- [00:01:50,660 - 00:01:53,380] then the density matrix has all equal eigenvalues,
+- [00:01:53,380 - 00:01:56,000] it's proportional to the unit matrix,
+- [00:01:56,000 - 00:01:58,750] and each eigenvalue is 1 over n,
+- [00:01:58,750 - 00:02:01,500] where n is the total number of states,
+- [00:02:01,500 - 00:02:06,240] and that just means complete random information.
+- [00:02:06,240 - 00:02:07,800] You simply don't know.
+- [00:02:07,800 - 00:02:12,100] All the possibilities are equally weighted.
+- [00:02:12,100 - 00:02:14,080] But let's just go back
+- [00:02:14,080 - 00:02:16,060] and discuss a little bit more,
+- [00:02:16,060 - 00:02:19,539] well, not to review, to review
+- [00:02:19,539 - 00:02:23,019] the basic equations and the basic concepts
+- [00:02:23,020 - 00:02:25,840] that go with the density matrix.
+- [00:02:25,840 - 00:02:29,680] The density matrix is the analog of
+- [00:02:29,680 - 00:02:33,520] knowing the probability distribution for classical states.
+- [00:02:33,520 - 00:02:36,520] Classical states have some probability distribution.
+- [00:02:36,520 - 00:02:40,520] In many contexts, you would call it a probability density,
+- [00:02:40,520 - 00:02:44,520] density in phase space or density in coordinate space,
+- [00:02:44,520 - 00:02:46,520] a density of probability.
+- [00:02:46,520 - 00:02:49,520] That's where the word density matrix came from,
+- [00:02:49,520 - 00:02:52,680] and it's basically a quantum analog,
+- [00:02:52,680 - 00:02:55,680] a quantum analog of the notion of
+- [00:02:55,680 - 00:02:58,680] a probability density or a probability distribution.
+- [00:02:58,680 - 00:03:01,680] The condition that the sum
+- [00:03:01,680 - 00:03:04,680] of probabilities adds up to 1
+- [00:03:04,680 - 00:03:08,680] is denoted by saying the trace of
+- [00:03:08,680 - 00:03:12,680] the density matrix is equal to 1.
+- [00:03:12,680 - 00:03:16,680] Remember, the trace is the sum of the eigenvalues.
+- [00:03:16,680 - 00:03:19,180] The eigenvalues themselves of the
+- [00:03:19,180 - 00:03:21,680] density matrix can be thought of
+- [00:03:21,680 - 00:03:22,680] as the probability matrix.
+- [00:03:22,680 - 00:03:27,680] So what are the probabilities for different states?
+- [00:03:27,680 - 00:03:30,680] So, first of all, the trace of
+- [00:03:30,680 - 00:03:33,680] the density matrix is equal to 1.
+- [00:03:33,680 - 00:03:37,680] The density matrix itself is a Hermitian operator.
+- [00:03:37,680 - 00:03:39,680] That's basically just the condition
+- [00:03:39,680 - 00:03:41,680] that the probabilities are real.
+- [00:03:41,680 - 00:03:44,680] Probabilities are real, so in classical physics,
+- [00:03:44,680 - 00:03:46,680] you would assign real probabilities.
+- [00:03:46,680 - 00:03:49,180] Only somebody with a very bad
+- [00:03:49,180 - 00:03:51,680] disorder would assign them complex probabilities.
+- [00:03:51,680 - 00:03:53,680] Wouldn't make any sense.
+- [00:03:53,680 - 00:03:56,180] The analog of that for quantum mechanics
+- [00:03:56,180 - 00:03:58,680] is that the eigenvalues of the density matrix
+- [00:03:58,680 - 00:03:59,680] are equal to 1.
+- [00:03:59,680 - 00:04:02,680] Sorry, the eigenvalues of the density matrix are real.
+- [00:04:02,680 - 00:04:06,680] Let's label them lambda i,
+- [00:04:06,680 - 00:04:10,180] where i is equal to i equals
+- [00:04:10,180 - 00:04:13,680] 1, 2, dot, dot, dot, up to n,
+- [00:04:13,680 - 00:04:15,180] where n is the number
+- [00:04:15,180 - 00:04:16,680] of dimensions of the vector space.
+- [00:04:21,680 - 00:04:23,680] And they're all positive. Good.
+- [00:04:23,680 - 00:04:26,680] And they're all positive.
+- [00:04:26,680 - 00:04:27,680] Right.
+- [00:04:27,680 - 00:04:32,680] Each eigenvalue goes with some eigenstate.
+- [00:04:32,680 - 00:04:40,680] And in some basis, some particular basis of,
+- [00:04:40,680 - 00:04:46,680] in the space of states, some orthonormal basis of states,
+- [00:04:46,680 - 00:04:48,680] corresponds to the eigenvectors.
+- [00:04:48,680 - 00:04:50,680] Incidentally, remember that the eigenvectors
+- [00:04:50,680 - 00:04:54,680] of a Hermitian operator are all orthogonal to each other.
+- [00:04:54,680 - 00:04:56,680] So they form a basis.
+- [00:04:56,680 - 00:04:58,680] So there's some basis in the space of states,
+- [00:04:58,680 - 00:05:03,680] which is just n mutually orthogonal vectors,
+- [00:05:03,680 - 00:05:05,680] each one of them being an eigenvector,
+- [00:05:05,680 - 00:05:08,680] and each one having an eigenvalue lambda sub i.
+- [00:05:08,680 - 00:05:11,680] You can simply think of the lambda sub i's
+- [00:05:11,680 - 00:05:15,680] as the probabilities that the system was prepared
+- [00:05:15,680 - 00:05:20,680] in the i-th eigenvector of the density matrix.
+- [00:05:20,680 - 00:05:25,680] If all the eigenvalues are equal,
+- [00:05:25,680 - 00:05:28,680] it effectively means you know nothing.
+- [00:05:28,680 - 00:05:31,680] You don't know what state the system is in.
+- [00:05:31,680 - 00:05:36,680] The density matrix then is proportional to the unit matrix,
+- [00:05:36,680 - 00:05:41,680] all the same eigenvalues, each eigenvalue being 1 over n.
+- [00:05:41,680 - 00:05:43,680] That's one limit.
+- [00:05:43,680 - 00:05:45,680] That's the limit of complete ignorance.
+- [00:05:45,680 - 00:05:48,680] The limit of maximal knowledge is,
+- [00:05:48,680 - 00:05:51,680] is a pure state.
+- [00:05:51,680 - 00:05:53,680] That means that you know what state
+- [00:05:53,680 - 00:05:56,680] the system has been created in.
+- [00:05:56,680 - 00:05:59,680] In that case, we can say
+- [00:05:59,680 - 00:06:02,680] the system is described by some pure state.
+- [00:06:02,680 - 00:06:03,680] I won't tell you which one,
+- [00:06:03,680 - 00:06:05,680] but let's assume we know which one.
+- [00:06:05,680 - 00:06:08,680] Some pure state psi.
+- [00:06:08,680 - 00:06:13,680] And when the system is described by a pure state,
+- [00:06:13,680 - 00:06:15,680] there's still a density matrix.
+- [00:06:15,680 - 00:06:17,680] You can still introduce a density matrix.
+- [00:06:17,680 - 00:06:20,680] And the density matrix is simply the projection
+- [00:06:20,680 - 00:06:22,680] onto that pure state.
+- [00:06:22,680 - 00:06:27,680] The projection operator that projects onto that pure state.
+- [00:06:27,680 - 00:06:33,680] It's written this way.
+- [00:06:33,680 - 00:06:35,680] So if there's only one state,
+- [00:06:35,680 - 00:06:37,680] and you know which it is,
+- [00:06:37,680 - 00:06:40,680] and it has probability 1 for being in that state,
+- [00:06:40,680 - 00:06:43,680] then the density matrix is just psi sine.
+- [00:06:45,570 - 00:06:47,030] 好
+- [00:06:47,042 - 00:06:51,472] How do I express that the state could be this one with half
+- [00:06:51,472 - 00:06:55,902] of a 30 and the other half being some state 45 degrees to it?
+- [00:06:56,082 - 00:06:58,122] Oh, no, no, no, no,
+- [00:06:58,122 - 00:07:00,162] no, that's not a good concept.
+- [00:07:00,882 - 00:07:03,502] The density matrix being a Hermitian operator
+- [00:07:03,502 - 00:07:06,122] has a set of mutually orthogonal eigenvectors.
+- [00:07:06,742 - 00:07:09,872] And it only makes sense to discuss the
+- [00:07:09,872 - 00:07:13,002] probability for which state it's in in that basis.
+- [00:07:13,002 - 00:07:14,892] In that basis, and so it would
+- [00:07:14,892 - 00:07:16,782] be the only situation you would talk about.
+- [00:07:17,462 - 00:07:21,762] Now, we can answer the question, let me come back
+- [00:07:21,762 - 00:07:26,062] to it, where you don't know how the system was prepared.
+- [00:07:26,842 - 00:07:29,722] Somebody may have prepared, put the magnetic field this
+- [00:07:29,722 - 00:07:32,602] way, or may have put it at 45 degrees.
+- [00:07:33,061 - 00:07:34,821] We can figure that out. We'll figure
+- [00:07:34,821 - 00:07:36,582] that out later. I'll come back to it.
+- [00:07:36,782 - 00:07:39,752] But still, it will be the case that
+- [00:07:39,752 - 00:07:42,722] the density matrix always has mutually orthogonal eigenvalues,
+- [00:07:42,882 - 00:07:42,982] sometimes.
+- [00:07:43,002 - 00:07:45,272] So I will take up that case
+- [00:07:45,272 - 00:07:47,542] either now or, yeah, or next time.
+- [00:07:47,722 - 00:07:49,672] You mentioned pure state. Do you
+- [00:07:49,672 - 00:07:51,622] differentiate pure state from mixed state?
+- [00:07:51,861 - 00:07:54,521] A mixed state means a density matrix
+- [00:07:54,521 - 00:07:57,182] which simply has more than one non-zero eigenvalue.
+- [00:07:58,122 - 00:08:01,722] Yeah. And, yeah, that's what it means.
+- [00:08:03,462 - 00:08:05,642] Okay, in German it's called a gemisch.
+- [00:08:05,642 - 00:08:05,762] Gemisch.
+- [00:08:10,062 - 00:08:11,202] It's the word I learned
+- [00:08:11,202 - 00:08:12,342] when I was a young student.
+- [00:08:13,002 - 00:08:15,841] Because German was still one
+- [00:08:15,841 - 00:08:18,681] of the important languages of physics.
+- [00:08:19,221 - 00:08:20,762] Now it's just called a mixed state.
+- [00:08:21,322 - 00:08:22,562] I think even by Germans.
+- [00:08:24,362 - 00:08:24,842] And Germans?
+- [00:08:29,842 - 00:08:32,071] I'm just curious whether in Germany they
+- [00:08:32,071 - 00:08:34,301] call a mixed state a mixed state.
+- [00:08:35,161 - 00:08:36,261] I actually don't know.
+- [00:08:37,621 - 00:08:39,351] Gemisch was the word that was
+- [00:08:39,351 - 00:08:41,081] invented by the fathers of quantum mechanics.
+- [00:08:43,001 - 00:08:44,321] It's a good German word.
+- [00:08:44,482 - 00:08:44,982] What's that?
+- [00:08:45,161 - 00:08:46,682] It's a good German word, gemisch.
+- [00:08:46,822 - 00:08:47,101] Gemisch.
+- [00:08:47,101 - 00:08:47,362] Here.
+- [00:08:51,721 - 00:08:52,441] Okay.
+- [00:08:53,422 - 00:08:56,762] Now, yes, let's just point out one thing.
+- [00:08:58,262 - 00:08:59,682] Take this matrix here.
+- [00:09:00,182 - 00:09:01,162] Well, take this operator.
+- [00:09:01,662 - 00:09:07,462] It obviously has a single eigenvector with eigenvalue 1.
+- [00:09:07,802 - 00:09:11,082] What is the eigenvector of this matrix with eigenvalue 1?
+- [00:09:11,862 - 00:09:12,722] It's just psi.
+- [00:09:12,722 - 00:09:12,841] Okay.
+- [00:09:13,002 - 00:09:13,802] The same vector.
+- [00:09:14,222 - 00:09:16,792] If I take this and operate on
+- [00:09:16,792 - 00:09:19,362] it, let's assume that now psi is normalized.
+- [00:09:20,002 - 00:09:21,222] I assume that it's normalized.
+- [00:09:22,002 - 00:09:23,982] If I apply this to psi,
+- [00:09:23,982 - 00:09:25,962] then psi psi is equal to 1.
+- [00:09:26,042 - 00:09:27,202] It just gives me back psi.
+- [00:09:27,962 - 00:09:31,042] So, in fact, psi is an eigenvector with eigenvalue 1.
+- [00:09:34,262 - 00:09:38,142] Any other state orthogonal to psi, let's take
+- [00:09:38,142 - 00:09:42,022] some other state which is orthogonal to psi.
+- [00:09:43,002 - 00:09:45,002] Let me call it phi.
+- [00:09:46,322 - 00:09:50,322] If it's orthogonal to psi, then you get 0.
+- [00:09:50,322 - 00:09:54,142] So, if the density matrix is a simple
+- [00:09:54,142 - 00:09:57,962] projection operator onto one particular state, then it
+- [00:09:57,962 - 00:10:01,882] has one non-zero eigenvalue.
+- [00:10:01,882 - 00:10:04,862] The density matrix is representing a pure
+- [00:10:04,862 - 00:10:07,842] state, and the pure state is just psi.
+- [00:10:07,842 - 00:10:09,422] Now, whether or not the state is pure or gemixed,
+- [00:10:09,422 - 00:10:11,002] the rule for the state of a pure state is
+- [00:10:11,002 - 00:10:12,002] that it's just psi.
+- [00:10:12,002 - 00:10:13,002] It's just a state.
+- [00:10:13,002 - 00:10:13,602] That's obvious.
+- [00:10:13,602 - 00:10:15,312] Which is a standard state for distinguishing between
+- [00:10:15,312 - 00:10:17,022] Chi and A chaque times king or neighbour.
+- [00:10:17,022 - 00:10:18,532] The Fried loop argument is not the base
+- [00:10:18,532 - 00:10:20,042] one, and acceptably that's the answer to that.
+- [00:10:20,042 - 00:10:21,042] students are understanding this.
+- [00:10:21,042 - 00:10:22,102] So, they're not giving us an animal equation.
+- [00:10:22,102 - 00:10:23,122] They're giving an analysis.
+- [00:10:23,122 - 00:10:26,252] The EPA yo Av likelihood is
+- [00:10:26,252 - 00:10:29,382] that there's a factor in the
+- [00:10:29,382 - 00:10:30,782] garliceles-tiencia labor of s connective-circle
+- [00:10:30,782 - 00:10:32,182] of thesein world and he doesn't.
+- [00:10:32,182 - 00:10:33,262] So, the S and 86 that condition
+- [00:10:33,262 - 00:10:34,342] of the key denominator may be that,
+- [00:10:34,342 - 00:10:36,012] the seeds code is also
+- [00:10:36,012 - 00:10:37,682] something I could make moreствие about.
+- [00:10:37,682 - 00:10:40,122] So, there are four Tomatoes intensities.
+- [00:10:40,122 - 00:10:41,462] Let's chose the Vehic slave別, we
+- [00:10:41,462 - 00:10:42,802] call it range regional, which this się
+- [00:10:42,802 - 00:10:46,772] times m. And incidentally, it's not hard to prove
+- [00:10:46,772 - 00:10:50,742] that a trace of a product of two matrices,
+- [00:10:51,022 - 00:10:57,581] whether or not the matrices commute, whether or not
+- [00:10:57,581 - 00:11:04,141] the trace doesn't matter which order you put the operators.
+- [00:11:04,862 - 00:11:06,832] So you can also write trace of m
+- [00:11:06,832 - 00:11:08,802] times rho, and it will make no difference.
+- [00:11:08,802 - 00:11:14,202] That's the average. And definition of the trace, let me
+- [00:11:14,202 - 00:11:19,602] remind you of the definition of the trace of a matrix.
+- [00:11:20,462 - 00:11:27,902] You take any basis, excuse me, you take any basis whatever, the trace
+- [00:11:27,902 - 00:11:35,342] has the property that it doesn't matter which basis you calculate it in.
+- [00:11:35,342 - 00:11:36,842] It's an invariant on the
+- [00:11:36,842 - 00:11:38,342] changes of basis of the matrix.
+- [00:11:38,802 - 00:11:40,802] It's an invariant on the vector space.
+- [00:11:40,802 - 00:11:43,802] All right, but in any case, we take some basis.
+- [00:11:43,802 - 00:11:45,302] It doesn't have to be the
+- [00:11:45,302 - 00:11:46,802] basis in which rho is diagonal.
+- [00:11:46,802 - 00:11:48,302] It can be the basis
+- [00:11:48,302 - 00:11:49,802] in which the rho is diagonal.
+- [00:11:49,802 - 00:11:54,302] But even if it's not diagonal in this basis,
+- [00:11:54,302 - 00:11:58,802] nevertheless, the trace is defined as i rho m,
+- [00:11:58,802 - 00:12:01,302] whatever the matrix in question
+- [00:12:01,302 - 00:12:03,802] is, times i summed over i.
+- [00:12:04,802 - 00:12:06,302] Okay, in other words, you just
+- [00:12:06,302 - 00:12:07,802] take the i i-th matrix element.
+- [00:12:08,802 - 00:12:11,302] You take the i-th matrix element of the operator
+- [00:12:11,302 - 00:12:13,802] in question, and you sum it over all i.
+- [00:12:13,802 - 00:12:16,802] That's the definition of the trace.
+- [00:12:16,802 - 00:12:20,302] And let's work it out just for the very
+- [00:12:20,302 - 00:12:23,802] simple case in which rho is a projection operator.
+- [00:12:24,802 - 00:12:30,802] In that case, m is equal trace.
+- [00:12:30,802 - 00:12:32,802] I'll write the trace in a moment.
+- [00:12:32,802 - 00:12:37,802] Psi, psi m.
+- [00:12:38,802 - 00:12:43,302] And now we take a complete basis, whether or not, as I said, it
+- [00:12:43,302 - 00:12:47,802] does not matter whether the basis is the basis in which rho is diagonal.
+- [00:12:47,802 - 00:12:53,802] i, i.
+- [00:12:53,802 - 00:12:55,302] All right, so now we have
+- [00:12:55,302 - 00:12:56,802] to do a little bit of gymnastics.
+- [00:12:56,802 - 00:13:00,802] Oh, this is summed over i.
+- [00:13:00,802 - 00:13:03,802] If I forget to write sum over i, remind me.
+- [00:13:03,802 - 00:13:05,302] It's almost always the case that when
+- [00:13:05,302 - 00:13:06,802] you have, in this case, a matrix,
+- [00:13:06,802 - 00:13:11,302] when you have an index like i repeated twice,
+- [00:13:11,302 - 00:13:15,802] almost in every equation I will ever write down,
+- [00:13:15,802 - 00:13:18,802] it's implicit, or maybe I'll try to make it explicit.
+- [00:13:18,802 - 00:13:20,802] If I forget, remind me.
+- [00:13:20,802 - 00:13:22,302] But it's almost always the case
+- [00:13:22,302 - 00:13:23,802] that it will be summed over,
+- [00:13:23,802 - 00:13:27,802] so that i is really just a summation index.
+- [00:13:27,802 - 00:13:30,802] It's, you can call it j if you like.
+- [00:13:30,802 - 00:13:31,802] It doesn't matter.
+- [00:13:31,802 - 00:13:32,802] All right, let's check this out.
+- [00:13:32,802 - 00:13:34,802] Let's see if this makes sense.
+- [00:13:36,802 - 00:13:39,302] So I can rewrite this by just
+- [00:13:39,302 - 00:13:41,802] shifting this factor over to this side.
+- [00:13:41,802 - 00:13:44,802] Let me do it.
+- [00:13:44,802 - 00:13:45,802] Now let's rewrite it.
+- [00:13:45,802 - 00:13:55,802] i, psi m i, i psi.
+- [00:13:55,802 - 00:13:57,802] Now you have to remember the rule.
+- [00:13:57,802 - 00:14:00,302] Whenever you see i and i
+- [00:14:00,302 - 00:14:02,802] back to back like this, summed over,
+- [00:14:02,802 - 00:14:04,802] that's the unit matrix.
+- [00:14:04,802 - 00:14:06,802] That's the unit operator.
+- [00:14:06,802 - 00:14:11,802] The sum of i, i is the unit matrix.
+- [00:14:11,802 - 00:14:13,802] It can always be canceled out.
+- [00:14:13,802 - 00:14:15,802] It's just the unit matrix.
+- [00:14:15,802 - 00:14:16,802] It makes no difference.
+- [00:14:16,802 - 00:14:19,802] You can just remove it, and the
+- [00:14:19,802 - 00:14:22,802] result is that it's psi m psi.
+- [00:14:22,802 - 00:14:24,802] Well, that's not too surprising.
+- [00:14:24,802 - 00:14:28,302] The average of m is the expectation value
+- [00:14:28,302 - 00:14:31,802] of m, if you have a pure state.
+- [00:14:31,802 - 00:14:35,802] Now, supposing you don't have a pure state.
+- [00:14:35,802 - 00:14:37,802] Let's suppose we don't have a pure.
+- [00:14:37,802 - 00:14:38,802] Question?
+- [00:14:38,802 - 00:14:39,802] Should that be m bar?
+- [00:14:39,802 - 00:14:41,802] Yeah, this.
+- [00:14:41,802 - 00:14:43,802] No, sorry.
+- [00:14:43,802 - 00:14:44,802] m bar up here, yes.
+- [00:14:44,802 - 00:14:45,802] Thank you.
+- [00:14:45,802 - 00:14:48,802] Very good.
+- [00:14:48,802 - 00:14:52,802] Yep.
+- [00:14:52,802 - 00:14:55,802] OK, let's take a more general case
+- [00:14:55,802 - 00:14:58,802] when we don't have a pure state.
+- [00:14:58,802 - 00:15:02,802] And we'll see what we get.
+- [00:15:02,802 - 00:15:04,802] But let's evaluate it.
+- [00:15:04,802 - 00:15:08,802] Let's see.
+- [00:15:08,802 - 00:15:12,802] Yeah.
+- [00:15:12,802 - 00:15:14,802] OK, so again, we have
+- [00:15:14,802 - 00:15:16,802] to take trace of rho m.
+- [00:15:16,802 - 00:15:19,802] But let's do the calculation in
+- [00:15:19,802 - 00:15:22,802] the basis in which rho is diagonal.
+- [00:15:22,802 - 00:15:23,802] All right?
+- [00:15:23,802 - 00:15:27,302] So to calculate the trace, we put
+- [00:15:27,302 - 00:15:30,802] i rho m i summed over i.
+- [00:15:30,802 - 00:15:32,802] I'm not going to write a summation sign.
+- [00:15:32,802 - 00:15:34,802] OK.
+- [00:15:34,802 - 00:15:36,802] I'm going to suppress the summation sign for now.
+- [00:15:36,802 - 00:15:38,802] Just summed over i.
+- [00:15:38,802 - 00:15:41,802] But now we can insert a complete
+- [00:15:41,802 - 00:15:44,802] set of states between rho and m.
+- [00:15:44,802 - 00:15:48,802] This is a trick we constantly keep doing.
+- [00:15:48,802 - 00:15:51,802] In order to reduce the calculation to something
+- [00:15:51,802 - 00:15:54,802] involving matrix elements of both rho and m,
+- [00:15:54,802 - 00:15:58,802] we stick in between there a complete set of states.
+- [00:15:58,802 - 00:16:00,802] And we write it in the form i.
+- [00:16:00,802 - 00:16:02,802] Maybe, I guess I'll put the sum.
+- [00:16:02,802 - 00:16:04,802] Sum on i.
+- [00:16:04,802 - 00:16:10,802] i i rho m.
+- [00:16:10,802 - 00:16:13,302] But I'm going to insert
+- [00:16:13,302 - 00:16:15,802] in here a sum over j.
+- [00:16:15,802 - 00:16:20,802] And now it's a sum over both i and j.
+- [00:16:20,802 - 00:16:23,802] Now, if I'm working in the
+- [00:16:23,802 - 00:16:26,802] basis in which rho is diagonal,
+- [00:16:26,802 - 00:16:28,802] then I know what the
+- [00:16:28,802 - 00:16:30,802] matrix element i rho j is.
+- [00:16:30,802 - 00:16:34,802] This is just these i rho j.
+- [00:16:34,802 - 00:16:35,802] What is that?
+- [00:16:35,802 - 00:16:37,802] That's just the matrix.
+- [00:16:37,802 - 00:16:39,802] It has an i index and a j index.
+- [00:16:39,802 - 00:16:41,802] The row or the column,
+- [00:16:41,802 - 00:16:43,802] let's see, which one is which?
+- [00:16:43,802 - 00:16:47,802] This one is...
+- [00:16:47,802 - 00:16:49,802] i is the row.
+- [00:16:49,802 - 00:16:50,802] And it says here the
+- [00:16:50,802 - 00:16:51,802] row and j is the column?
+- [00:16:51,802 - 00:16:52,802] Whichever.
+- [00:16:52,802 - 00:16:53,802] Yeah.
+- [00:16:53,802 - 00:16:56,802] j would be the column.
+- [00:16:56,802 - 00:16:57,802] j is the column, I think.
+- [00:16:57,802 - 00:16:58,802] Yeah.
+- [00:16:58,802 - 00:16:59,802] Right.
+- [00:16:59,802 - 00:17:00,802] OK.
+- [00:17:00,802 - 00:17:04,301] But since rho is diagonal, this object here only
+- [00:17:04,301 - 00:17:07,801] has a matrix element if i is equal to j.
+- [00:17:07,801 - 00:17:10,801] And then the matrix element is just lambda.
+- [00:17:10,801 - 00:17:12,801] Lambda j.
+- [00:17:12,801 - 00:17:14,801] The eigenvalue.
+- [00:17:14,801 - 00:17:15,801] If...
+- [00:17:15,801 - 00:17:18,801] So the sum over i and j
+- [00:17:18,801 - 00:17:21,801] becomes a sum only over one of them.
+- [00:17:21,801 - 00:17:24,801] And let's take it to be j because
+- [00:17:24,801 - 00:17:27,801] i has to equal j because rho is diagonal.
+- [00:17:27,801 - 00:17:28,802] And then we have...
+- [00:17:28,802 - 00:17:32,802] j m j.
+- [00:17:32,802 - 00:17:34,802] I've put j here because i
+- [00:17:34,802 - 00:17:36,802] has to equal j in the sum.
+- [00:17:36,802 - 00:17:37,802] Well, what is this?
+- [00:17:37,802 - 00:17:39,802] This is just the expectation value
+- [00:17:39,802 - 00:17:41,802] of m in the j-th state.
+- [00:17:41,802 - 00:17:45,802] This is just the probability of the j-th state.
+- [00:17:45,802 - 00:17:48,802] So this reads exactly what you might expect.
+- [00:17:48,802 - 00:17:53,302] It's the average of m in the j-th state weighed
+- [00:17:53,302 - 00:17:57,802] with the probability, which is the probability of the j-th state.
+- [00:17:57,802 - 00:18:04,802] So you can think of the eigenvalues of rho as the probabilities to be
+- [00:18:04,802 - 00:18:11,802] in the j-th state, but only in the basis in which rho is diagonal.
+- [00:18:11,802 - 00:18:12,802] Yeah.
+- [00:18:12,802 - 00:18:13,802] Is that really j and j
+- [00:18:13,802 - 00:18:14,802] instead of j and i there?
+- [00:18:14,802 - 00:18:16,802] Yes, because i has to be equal to j.
+- [00:18:16,802 - 00:18:18,802] Otherwise, you don't get anything.
+- [00:18:18,802 - 00:18:20,802] Right.
+- [00:18:20,802 - 00:18:22,802] So for trivial reasons, it is.
+- [00:18:27,802 - 00:18:30,802] You're still summing over i, right?
+- [00:18:30,802 - 00:18:33,802] You're still summing over j here.
+- [00:18:33,802 - 00:18:38,802] Over j.
+- [00:18:38,802 - 00:18:40,802] Right.
+- [00:18:40,802 - 00:18:41,802] Yeah.
+- [00:18:41,802 - 00:18:42,802] Here I really broke my own rule.
+- [00:18:42,802 - 00:18:45,802] This thing is repeated three times.
+- [00:18:45,802 - 00:18:47,802] Right.
+- [00:18:47,802 - 00:18:48,802] Okay.
+- [00:18:48,802 - 00:18:53,802] Those are the rules about density matrices.
+- [00:18:53,802 - 00:18:56,802] Let me remind you of one more definition.
+- [00:18:56,802 - 00:19:01,802] If you're given a probability distribution, probabilities, let's
+- [00:19:01,802 - 00:19:06,802] say p sub i, this is classical probabilities now,
+- [00:19:06,802 - 00:19:13,302] p sub i, the i-th probability for the i-th
+- [00:19:13,302 - 00:19:19,802] possibility, then the entropy is defined S, S for entropy.
+- [00:19:19,802 - 00:19:21,802] I don't know why they chose S.
+- [00:19:21,802 - 00:19:22,802] Why it's not E?
+- [00:19:22,802 - 00:19:25,802] Probably E because you're confused with energy.
+- [00:19:26,802 - 00:19:32,802] S for entropy is equal by definition.
+- [00:19:32,802 - 00:19:34,802] This is the definition of it.
+- [00:19:34,802 - 00:19:36,802] But we can say what it means roughly.
+- [00:19:36,802 - 00:19:43,802] It's again the sum over all of the possible configurations or all of
+- [00:19:43,802 - 00:19:50,802] the possible possibilities of minus p sub i times logarithm of p sub i.
+- [00:19:50,802 - 00:19:54,802] That's its definition.
+- [00:19:54,802 - 00:19:55,802] Again.
+- [00:19:55,802 - 00:19:58,802] If only one of the p's is
+- [00:19:58,802 - 00:20:01,802] non-zero, then it's got to be one.
+- [00:20:01,802 - 00:20:03,802] All right.
+- [00:20:03,802 - 00:20:05,802] Logarithm of one is zero.
+- [00:20:05,802 - 00:20:09,802] On the other hand, all the other p's are zero.
+- [00:20:09,802 - 00:20:13,802] So in that case, if you have
+- [00:20:13,802 - 00:20:17,802] complete knowledge, then the entropy is zero.
+- [00:20:17,802 - 00:20:20,802] So zero entropy means complete knowledge.
+- [00:20:20,802 - 00:20:22,802] You know precisely that the probability
+- [00:20:22,802 - 00:20:24,802] distribution is peaked at one particular point.
+- [00:20:24,802 - 00:20:26,802] Zero everywhere else.
+- [00:20:26,802 - 00:20:32,802] The other extreme is when you have complete ignorance.
+- [00:20:32,802 - 00:20:35,302] And in that case, each p
+- [00:20:35,302 - 00:20:37,802] sub i is one over n.
+- [00:20:37,802 - 00:20:39,802] Let's take it to be the same n here.
+- [00:20:39,802 - 00:20:43,802] Each p sub i is one over n.
+- [00:20:43,802 - 00:20:47,802] And then you get S is equal to, before you
+- [00:20:47,802 - 00:20:51,802] do the sum, one over n log one over n.
+- [00:20:51,802 - 00:20:52,802] But it's minus log one over n.
+- [00:20:52,802 - 00:20:53,802] So that's actually one over n.
+- [00:20:53,802 - 00:20:57,802] So that's actually the same as log of n.
+- [00:20:57,802 - 00:21:00,802] But then you have n terms in the sum.
+- [00:21:00,802 - 00:21:03,802] So you have to multiply this by n.
+- [00:21:03,802 - 00:21:06,802] And the answer is that the entropy
+- [00:21:06,802 - 00:21:09,802] is logarithm of the number of states.
+- [00:21:09,802 - 00:21:12,302] The entropy is, roughly speaking, the
+- [00:21:12,302 - 00:21:14,802] logarithm of the number of states
+- [00:21:14,802 - 00:21:20,802] which are important in the probability distribution.
+- [00:21:20,802 - 00:21:21,802] That's as close as I can get
+- [00:21:21,802 - 00:21:22,802] to give you a definition in words.
+- [00:21:22,802 - 00:21:26,802] But you don't need a definition in words.
+- [00:21:26,802 - 00:21:29,802] This is precisely what it is.
+- [00:21:29,802 - 00:21:31,802] But nevertheless, it is true that
+- [00:21:31,802 - 00:21:33,802] if you have a probability distribution
+- [00:21:33,802 - 00:21:37,802] which has fairly large over some set of states
+- [00:21:37,802 - 00:21:40,802] and then pretty damn small everywhere else,
+- [00:21:40,802 - 00:21:43,302] that the answer for the entropy will
+- [00:21:43,302 - 00:21:45,802] essentially be logarithm of the number of states
+- [00:21:45,802 - 00:21:49,802] for which the probability distribution is significant.
+- [00:21:49,802 - 00:21:50,802] So it's a measure of the degree of probability distribution.
+- [00:21:50,802 - 00:21:53,802] It's a measure of the degree of ignorance.
+- [00:21:53,802 - 00:21:56,802] The more ignorance, in other words, the more
+- [00:21:56,802 - 00:21:59,802] states that the probability distribution is spread out over,
+- [00:21:59,802 - 00:22:02,802] the less you know about the system.
+- [00:22:02,802 - 00:22:05,802] The more you know about the system, the
+- [00:22:05,802 - 00:22:08,802] fewer the states, and the smaller the entropy.
+- [00:22:08,802 - 00:22:12,802] So it's a measure of ignorance.
+- [00:22:12,802 - 00:22:16,802] Or a measure of, well, yeah.
+- [00:22:16,802 - 00:22:19,802] Now we want to come to entanglement.
+- [00:22:20,802 - 00:22:25,802] Entanglement happens when we have more than one system.
+- [00:22:25,802 - 00:22:28,302] So let's suppose we have
+- [00:22:28,302 - 00:22:30,802] a system composed of two parts.
+- [00:22:34,802 - 00:22:38,802] And let's suppose we have some basis.
+- [00:22:38,802 - 00:22:42,802] And the basis is labeled
+- [00:22:42,802 - 00:22:46,802] by a state or an observable,
+- [00:22:46,802 - 00:22:48,802] A for one of the
+- [00:22:48,802 - 00:22:50,802] subsystems and B for the other.
+- [00:22:50,802 - 00:22:53,302] Now for the case of two spins,
+- [00:22:53,302 - 00:22:55,802] A and B could be up and,
+- [00:22:55,802 - 00:22:57,802] A and B would both be up and down.
+- [00:22:57,802 - 00:22:59,302] We could have up, up,
+- [00:22:59,302 - 00:23:00,802] up, down, down, up, down, down.
+- [00:23:00,802 - 00:23:06,802] Other possibilities, we could have a spin with two states
+- [00:23:06,802 - 00:23:10,802] and an atom with four states or three states.
+- [00:23:10,802 - 00:23:12,802] In that case, A would go from
+- [00:23:12,802 - 00:23:14,802] one to two or up and down.
+- [00:23:14,802 - 00:23:16,802] B would run over one
+- [00:23:16,802 - 00:23:18,802] to three or one to four.
+- [00:23:18,802 - 00:23:22,802] And so altogether, the total number of states
+- [00:23:22,802 - 00:23:26,802] would be the product of the number of configurations
+- [00:23:26,802 - 00:23:30,802] of the subsystem A times the number of subsystem B.
+- [00:23:30,802 - 00:23:32,802] So if we had a spin which
+- [00:23:32,802 - 00:23:34,802] could be in one of two directions,
+- [00:23:34,802 - 00:23:37,802] and we were putting it together with an atom
+- [00:23:37,802 - 00:23:39,802] which could be in three possible states,
+- [00:23:39,802 - 00:23:41,802] the total number of states would be six,
+- [00:23:41,802 - 00:23:43,802] but it would just be three times two.
+- [00:23:43,802 - 00:23:44,802] Okay.
+- [00:23:44,802 - 00:23:47,802] Let's, let's say that A, little a,
+- [00:23:48,802 - 00:23:52,802] runs from one to capital N,
+- [00:23:52,802 - 00:23:55,802] and little b runs from one to little n.
+- [00:23:55,802 - 00:23:57,802] They don't have to be the same.
+- [00:23:57,802 - 00:24:00,802] They could be two quite different systems.
+- [00:24:00,802 - 00:24:02,802] Okay.
+- [00:24:02,802 - 00:24:05,802] Then the most general state of the combined system
+- [00:24:05,802 - 00:24:10,802] that we can write is a sum.
+- [00:24:10,802 - 00:24:14,802] And we're going to sum over A and B
+- [00:24:14,802 - 00:24:18,802] of some set of coefficients,
+- [00:24:18,802 - 00:24:20,802] called a wave function,
+- [00:24:20,802 - 00:24:23,802] of A and B, function of A and B.
+- [00:24:23,802 - 00:24:25,802] Now A and B are discrete,
+- [00:24:25,802 - 00:24:27,802] or at least for us now,
+- [00:24:27,802 - 00:24:31,802] A and B are discrete variables.
+- [00:24:31,802 - 00:24:33,802] In a more general context,
+- [00:24:33,802 - 00:24:35,802] A and B could, might even be continuous,
+- [00:24:35,802 - 00:24:37,802] but for our studies here,
+- [00:24:37,802 - 00:24:42,802] where we're studying qubits and discrete systems,
+- [00:24:42,802 - 00:24:44,802] A and B run over integers.
+- [00:24:44,802 - 00:24:47,802] They're integer valued variables,
+- [00:24:47,802 - 00:24:50,802] but we can still write psi of A and B,
+- [00:24:50,802 - 00:24:52,802] sticking in any pair of integers,
+- [00:24:52,802 - 00:24:54,802] that gives us a complex number,
+- [00:24:54,802 - 00:24:57,802] multiplied by the state vector A, B,
+- [00:24:57,802 - 00:24:58,802] summed over A and B.
+- [00:24:58,802 - 00:25:01,802] That's the most general state we can write down.
+- [00:25:01,802 - 00:25:03,802] If we want to normalize it,
+- [00:25:03,802 - 00:25:04,802] which I do,
+- [00:25:04,802 - 00:25:07,802] then we want the sum over A and B
+- [00:25:07,802 - 00:25:10,802] of psi star psi to add up to one.
+- [00:25:10,802 - 00:25:11,802] Okay.
+- [00:25:11,802 - 00:25:13,802] So I won't write that down.
+- [00:25:13,802 - 00:25:15,802] The sum over A and
+- [00:25:15,802 - 00:25:17,802] B of psi star times psi
+- [00:25:17,802 - 00:25:19,802] should be equal to one.
+- [00:25:19,802 - 00:25:22,802] And that's our normalization condition.
+- [00:25:23,802 - 00:25:24,802] Okay.
+- [00:25:24,802 - 00:25:27,802] Let's now suppose that we're doing an experiment
+- [00:25:27,802 - 00:25:30,802] which does not involve B.
+- [00:25:30,802 - 00:25:31,802] It could be because the two systems
+- [00:25:31,802 - 00:25:34,802] are separated from each other,
+- [00:25:34,802 - 00:25:37,802] and Bob is down at that end of the room.
+- [00:25:37,802 - 00:25:40,802] He doesn't even bother looking at his system at all.
+- [00:25:40,802 - 00:25:42,802] Alice is up at this end,
+- [00:25:42,802 - 00:25:43,802] and Alice is going to do an experiment,
+- [00:25:43,802 - 00:25:45,802] and the experiment is going to involve
+- [00:25:45,802 - 00:25:47,802] only the A degrees of A.
+- [00:25:47,802 - 00:25:50,802] So the A degrees of freedom.
+- [00:25:50,802 - 00:25:52,802] Okay.
+- [00:25:52,802 - 00:25:54,802] The observable that she's going to measure,
+- [00:25:54,802 - 00:25:57,802] let's call it M.
+- [00:25:57,802 - 00:26:06,802] M is an observable
+- [00:26:06,802 - 00:26:14,802] for subsystem A.
+- [00:26:14,802 - 00:26:15,802] That means mathematically,
+- [00:26:15,802 - 00:26:16,802] that when we're doing an experiment,
+- [00:26:16,802 - 00:26:22,802] that when M acts on a state vector AB,
+- [00:26:22,802 - 00:26:25,802] it may act on the A coordinate,
+- [00:26:25,802 - 00:26:27,802] but it will just leave the B coordinate alone.
+- [00:26:27,802 - 00:26:28,802] We've done this before.
+- [00:26:28,802 - 00:26:30,802] We've done this with spins.
+- [00:26:30,802 - 00:26:35,802] So M effectively is only a matrix.
+- [00:26:35,802 - 00:26:37,802] In the A system here,
+- [00:26:37,802 - 00:26:39,802] it acts on the A degree of freedom
+- [00:26:39,802 - 00:26:41,802] and leaves B alone.
+- [00:26:41,802 - 00:26:43,802] It doesn't touch B.
+- [00:26:43,802 - 00:26:45,802] So whatever it does to a state vector,
+- [00:26:45,802 - 00:26:48,802] B is completely passive and doesn't change.
+- [00:26:48,802 - 00:26:51,802] The matrix may act on the A coordinate,
+- [00:26:51,802 - 00:26:53,802] and that's all.
+- [00:26:53,802 - 00:26:55,802] So that's a degree,
+- [00:26:55,802 - 00:26:57,802] or a variable, sorry,
+- [00:26:57,802 - 00:27:01,802] an observable that's associated with the A subsystem.
+- [00:27:01,802 - 00:27:06,802] And let's calculate the expectation value of it
+- [00:27:06,802 - 00:27:09,802] in the state for the combined system.
+- [00:27:09,802 - 00:27:11,802] So what do we have to do?
+- [00:27:11,802 - 00:27:13,802] We have to calculate the expectation value of it.
+- [00:27:13,802 - 00:27:15,802] So what do we have to do?
+- [00:27:15,802 - 00:27:17,802] We have to take, first of all,
+- [00:27:17,802 - 00:27:19,802] we have to take the bra vector associated with this.
+- [00:27:19,802 - 00:27:22,802] Let's construct or rewrite it as the bra vector.
+- [00:27:22,802 - 00:27:25,802] Sum over A and B.
+- [00:27:25,802 - 00:27:27,802] Psi star, well, let's see,
+- [00:27:27,802 - 00:27:29,802] we're going to need two sets of variables.
+- [00:27:29,802 - 00:27:31,802] We're going to need primed variables
+- [00:27:31,802 - 00:27:33,802] and unprimed variables.
+- [00:27:33,802 - 00:27:35,802] So let's see how I did this.
+- [00:27:35,802 - 00:27:36,802] Yeah.
+- [00:27:36,802 - 00:27:40,802] Psi star of A prime and B prime.
+- [00:27:40,802 - 00:27:42,802] A prime, B prime.
+- [00:27:43,802 - 00:27:45,802] Summed over A prime and B prime.
+- [00:27:45,802 - 00:27:47,802] This is the bra vector.
+- [00:27:47,802 - 00:27:50,802] Now we're going to multiply that by M.
+- [00:27:50,802 - 00:27:52,802] And now the ket vector,
+- [00:27:52,802 - 00:27:54,802] which looks exactly the same,
+- [00:27:54,802 - 00:27:56,802] well, it looks exactly the same,
+- [00:27:56,802 - 00:27:59,802] except we won't have a complex conjugate.
+- [00:27:59,802 - 00:28:01,802] Psi of A and B.
+- [00:28:04,802 - 00:28:06,802] AB.
+- [00:28:11,802 - 00:28:12,802] I'll tell you what.
+- [00:28:12,802 - 00:28:14,802] Let's take the psi and
+- [00:28:14,802 - 00:28:16,802] stick it on the outside here.
+- [00:28:27,802 - 00:28:29,302] Now we separately have to sum
+- [00:28:29,302 - 00:28:30,802] over A prime and B prime
+- [00:28:30,802 - 00:28:32,802] to define the bra vector.
+- [00:28:32,802 - 00:28:34,302] And A and B, we also
+- [00:28:34,302 - 00:28:35,802] have to sum over A and B
+- [00:28:35,802 - 00:28:39,802] to define the ket vector.
+- [00:28:39,802 - 00:28:42,802] And that's the expectation value that we're interested in.
+- [00:28:42,802 - 00:28:45,802] But now let's look at this matrix M.
+- [00:28:45,802 - 00:28:48,802] M does nothing to B.
+- [00:28:48,802 - 00:28:52,802] But it's a matrix as far as A goes.
+- [00:28:52,802 - 00:28:53,802] What does that mean?
+- [00:28:53,802 - 00:28:56,802] That means that B prime has to equal B.
+- [00:28:56,802 - 00:28:57,802] Okay.
+- [00:28:57,802 - 00:28:59,802] B prime and B,
+- [00:28:59,802 - 00:29:02,802] the operator M does nothing to B.
+- [00:29:02,802 - 00:29:04,802] It leaves it alone.
+- [00:29:04,802 - 00:29:06,802] And if it leaves it alone,
+- [00:29:06,802 - 00:29:09,802] then B prime and B must be the same.
+- [00:29:09,802 - 00:29:10,802] Okay.
+- [00:29:10,802 - 00:29:11,802] Because...
+- [00:29:12,802 - 00:29:14,802] Can I ask you a question?
+- [00:29:14,802 - 00:29:15,802] Yeah.
+- [00:29:15,802 - 00:29:17,802] What are the primes on some of these variables?
+- [00:29:17,802 - 00:29:20,802] I mean, above you didn't use I prime and I.
+- [00:29:20,802 - 00:29:22,802] It's always been...
+- [00:29:22,802 - 00:29:24,802] There I used I and J.
+- [00:29:24,802 - 00:29:28,802] No, but for the expectation of rho M,
+- [00:29:28,802 - 00:29:31,802] it's I rho M I.
+- [00:29:31,802 - 00:29:33,802] No, okay.
+- [00:29:33,802 - 00:29:36,802] Well, we're not dealing at the moment with density matrices.
+- [00:29:36,802 - 00:29:38,802] We're dealing with state vectors.
+- [00:29:38,802 - 00:29:40,802] So let's go back and write an expectation value
+- [00:29:40,802 - 00:29:41,802] for a state vector.
+- [00:29:42,802 - 00:29:43,802] Okay.
+- [00:29:43,802 - 00:29:45,802] Supposing we have a wave function
+- [00:29:45,802 - 00:29:48,802] psi of A times A.
+- [00:29:48,802 - 00:29:50,802] Single system.
+- [00:29:50,802 - 00:29:52,802] And now we want to calculate the expectation.
+- [00:29:52,802 - 00:29:58,802] And this is, of course, sum over A.
+- [00:29:58,802 - 00:30:01,802] Then the expectation value is M.
+- [00:30:01,802 - 00:30:03,802] And now we have to write the bra vector.
+- [00:30:03,802 - 00:30:09,802] That's sum over A prime of psi of A prime.
+- [00:30:09,802 - 00:30:10,802] I know you do.
+- [00:30:10,802 - 00:30:11,802] A prime.
+- [00:30:11,802 - 00:30:12,802] Okay.
+- [00:30:12,802 - 00:30:17,802] So in calculating the expectation value,
+- [00:30:17,802 - 00:30:21,802] if the vectors on either side are expressed as sums,
+- [00:30:21,802 - 00:30:24,802] you have a double sum to do in this case.
+- [00:30:24,802 - 00:30:26,302] And I've called the left
+- [00:30:26,302 - 00:30:27,802] part of the double sum prime
+- [00:30:27,802 - 00:30:29,802] and the right part unprimed.
+- [00:30:29,802 - 00:30:30,802] Okay.
+- [00:30:30,802 - 00:30:32,302] So it's the same thing
+- [00:30:32,302 - 00:30:33,802] except we have two labels here.
+- [00:30:33,802 - 00:30:36,302] But now, the definition of the
+- [00:30:36,302 - 00:30:38,802] idea that M is an operator
+- [00:30:38,802 - 00:30:40,802] that acts on the A subsystem,
+- [00:30:40,802 - 00:30:43,802] and which is passive for the B subsystem,
+- [00:30:43,802 - 00:30:46,802] is simply the statement that the
+- [00:30:46,802 - 00:30:49,802] matrix is diagonal in the Bs.
+- [00:30:49,802 - 00:30:51,302] That B on this side and
+- [00:30:51,302 - 00:30:52,802] B prime have to be the same.
+- [00:30:52,802 - 00:30:55,802] Otherwise, the matrix vanishes.
+- [00:30:55,802 - 00:30:59,802] In that case, this sum over B and B prime
+- [00:30:59,802 - 00:31:03,802] becomes a sum only over one of them.
+- [00:31:03,802 - 00:31:04,802] All right.
+- [00:31:04,802 - 00:31:06,302] So let me show you
+- [00:31:06,302 - 00:31:07,802] what the right idea is now.
+- [00:31:07,802 - 00:31:10,802] B and B prime have to be the same.
+- [00:31:10,802 - 00:31:13,302] And M is really just
+- [00:31:13,302 - 00:31:15,802] a matrix in the A space.
+- [00:31:15,802 - 00:31:21,802] It's a matrix with matrix elements A and A prime.
+- [00:31:21,802 - 00:31:22,802] Do I want to...
+- [00:31:22,802 - 00:31:24,802] I think I want to write them this way.
+- [00:31:29,802 - 00:31:30,802] All right.
+- [00:31:30,802 - 00:31:32,802] This is a matrix involving
+- [00:31:32,802 - 00:31:34,802] two variables, A and A prime.
+- [00:31:34,802 - 00:31:37,802] But B has to equal B prime.
+- [00:31:37,802 - 00:31:39,802] And there's no dependence on B whatever.
+- [00:31:40,802 - 00:31:42,802] No dependence on B.
+- [00:31:42,802 - 00:31:44,802] And B has to equal B prime.
+- [00:31:44,802 - 00:31:45,802] Okay.
+- [00:31:45,802 - 00:31:47,802] So that's this matrix here.
+- [00:31:47,802 - 00:31:49,802] And all we have to do is remember the instruction
+- [00:31:49,802 - 00:31:51,802] in the rest of the expression here
+- [00:31:51,802 - 00:31:53,802] that B has to equal B prime.
+- [00:31:53,802 - 00:31:54,802] So let's do that.
+- [00:31:54,802 - 00:31:58,802] Psi star of A prime B,
+- [00:31:58,802 - 00:32:03,802] psi of AB.
+- [00:32:03,802 - 00:32:04,802] All right.
+- [00:32:04,802 - 00:32:06,802] Notice on the left, we
+- [00:32:06,802 - 00:32:08,802] have psi star of A prime,
+- [00:32:08,802 - 00:32:09,802] psi of A.
+- [00:32:10,802 - 00:32:14,802] But as far as B goes, B...
+- [00:32:14,802 - 00:32:20,802] Whoops.
+- [00:32:20,802 - 00:32:22,802] B hasn't changed.
+- [00:32:22,802 - 00:32:25,802] B is just passive.
+- [00:32:25,802 - 00:32:26,802] This is the...
+- [00:32:26,802 - 00:32:27,802] Now, let's go a little step further.
+- [00:32:27,802 - 00:32:29,802] This is still summed over B.
+- [00:32:29,802 - 00:32:31,802] It's also summed over A prime and A.
+- [00:32:31,802 - 00:32:33,802] But I want to ignore for the
+- [00:32:33,802 - 00:32:35,802] moment the sum over A prime and A
+- [00:32:35,802 - 00:32:38,802] and realize that this is a sum over B.
+- [00:32:38,802 - 00:32:40,802] It's also a sum over A prime and A.
+- [00:32:40,802 - 00:32:42,802] So let's do that later.
+- [00:32:42,802 - 00:32:43,802] All right.
+- [00:32:43,802 - 00:32:44,802] All right.
+- [00:32:44,802 - 00:32:46,802] Now let me group the
+- [00:32:46,802 - 00:32:48,802] two things that depend on B.
+- [00:32:48,802 - 00:32:49,802] Let me group them together.
+- [00:32:49,802 - 00:32:50,802] So what I'm going to
+- [00:32:50,802 - 00:32:51,802] do is erase this over here,
+- [00:32:51,802 - 00:32:54,802] and I'm going to put it back right back here.
+- [00:32:54,802 - 00:33:03,802] Psi star of A prime and B.
+- [00:33:03,802 - 00:33:04,802] All right.
+- [00:33:04,802 - 00:33:06,802] Now imagine holding A and A prime fixed
+- [00:33:06,802 - 00:33:08,802] and just summing over B.
+- [00:33:08,802 - 00:33:10,802] That gives you some expression here.
+- [00:33:10,802 - 00:33:12,802] That expression no longer involves B
+- [00:33:12,802 - 00:33:14,802] because B has been summed over.
+- [00:33:14,802 - 00:33:17,802] Once B is summed over, it doesn't depend on B.
+- [00:33:17,802 - 00:33:20,802] Let's give this a name.
+- [00:33:20,802 - 00:33:22,802] What should I call this?
+- [00:33:22,802 - 00:33:23,802] Psi of A B and
+- [00:33:23,802 - 00:33:24,802] psi star of A prime B.
+- [00:33:24,802 - 00:33:27,802] It's a function only of A and A prime.
+- [00:33:27,802 - 00:33:30,802] A name for it?
+- [00:33:30,802 - 00:33:31,802] Pi of A.
+- [00:33:31,802 - 00:33:32,802] No.
+- [00:33:32,802 - 00:33:34,802] Pi of A A prime.
+- [00:33:34,802 - 00:33:36,802] No.
+- [00:33:36,802 - 00:33:37,802] Try again.
+- [00:33:37,802 - 00:33:39,302] It's not the A and the
+- [00:33:39,302 - 00:33:40,802] A prime that I don't like.
+- [00:33:40,802 - 00:33:42,802] It's the phi.
+- [00:33:42,802 - 00:33:43,802] Come on.
+- [00:33:43,802 - 00:33:44,802] Give me the right letter.
+- [00:33:44,802 - 00:33:45,802] Rho.
+- [00:33:45,802 - 00:33:46,802] Rho.
+- [00:33:46,802 - 00:33:47,802] Rho.
+- [00:33:58,802 - 00:34:03,802] This expression is in components,
+- [00:34:03,802 - 00:34:06,802] written in components, written in terms of matrix elements.
+- [00:34:07,802 - 00:34:12,802] It's the trace of the product of M times rho.
+- [00:34:12,802 - 00:34:13,802] All right.
+- [00:34:13,802 - 00:34:15,802] Why is it the trace?
+- [00:34:15,802 - 00:34:18,802] It's the trace because I'm summing over A prime,
+- [00:34:18,802 - 00:34:21,802] but it's the product because I'm summing over A.
+- [00:34:21,802 - 00:34:24,802] This is the formula if I had arbitrary things here,
+- [00:34:24,802 - 00:34:26,802] let's say A double prime,
+- [00:34:26,802 - 00:34:29,302] then this would correspond to the
+- [00:34:29,302 - 00:34:31,802] A double prime A prime matrix element
+- [00:34:31,802 - 00:34:33,802] of M times rho.
+- [00:34:33,802 - 00:34:35,802] This is the way you multiply matrices
+- [00:34:35,802 - 00:34:36,802] in terms of components.
+- [00:34:37,802 - 00:34:44,802] This expression is the trace of M times rho.
+- [00:34:44,802 - 00:34:45,802] Let's check that.
+- [00:34:45,802 - 00:34:48,802] Let's do it by longhand calculation.
+- [00:34:48,802 - 00:34:50,802] That really is the trace.
+- [00:34:50,802 - 00:34:52,802] Now we're talking about a system.
+- [00:34:52,802 - 00:34:55,802] We're only talking about the A system now.
+- [00:34:55,802 - 00:34:58,802] We've eliminated the B system.
+- [00:34:58,802 - 00:34:59,802] We've summed over it.
+- [00:34:59,802 - 00:35:02,802] It's no longer even in this expression.
+- [00:35:02,802 - 00:35:04,802] This might have been something that made sense
+- [00:35:04,802 - 00:35:06,802] for just the pure A system
+- [00:35:06,802 - 00:35:09,802] without any reference to B at all.
+- [00:35:09,802 - 00:35:11,802] What would it correspond to?
+- [00:35:11,802 - 00:35:13,802] Let's forget B.
+- [00:35:13,802 - 00:35:14,802] It's passive.
+- [00:35:14,802 - 00:35:15,802] It's gone.
+- [00:35:15,802 - 00:35:16,802] We finished with it.
+- [00:35:16,802 - 00:35:18,802] This is some expression only
+- [00:35:18,802 - 00:35:20,802] involving the A degrees of freedom.
+- [00:35:20,802 - 00:35:24,802] I assert that it's the trace of the matrix M.
+- [00:35:24,802 - 00:35:26,802] Now remember, M really only
+- [00:35:26,802 - 00:35:28,802] depends on A and A prime.
+- [00:35:28,802 - 00:35:30,802] B is completely passive.
+- [00:35:30,802 - 00:35:32,802] B prime has to equal B,
+- [00:35:32,802 - 00:35:34,802] and otherwise it just doesn't depend on B.
+- [00:35:34,802 - 00:35:36,802] So let's look at this.
+- [00:35:36,802 - 00:35:39,802] M is the identity on B.
+- [00:35:39,802 - 00:35:41,802] M is the identity on B.
+- [00:35:41,802 - 00:35:42,802] Yeah.
+- [00:35:42,802 - 00:35:43,802] Yeah.
+- [00:35:43,802 - 00:35:44,802] Right.
+- [00:35:44,802 - 00:35:46,802] Acting on B, it does nothing.
+- [00:35:46,802 - 00:35:48,802] Right.
+- [00:35:48,802 - 00:35:49,802] Okay.
+- [00:35:49,802 - 00:35:52,802] So let's just calculate trace of M.
+- [00:35:52,802 - 00:35:55,802] We can write it as
+- [00:35:55,802 - 00:35:58,802] A prime M rho A prime,
+- [00:35:58,802 - 00:36:00,802] summed over A prime.
+- [00:36:00,802 - 00:36:02,802] All of this is summed over A and A prime.
+- [00:36:02,802 - 00:36:04,802] A and A prime.
+- [00:36:04,802 - 00:36:05,802] Okay.
+- [00:36:05,802 - 00:36:06,802] Back to the question.
+- [00:36:06,802 - 00:36:07,802] We have to sum it.
+- [00:36:07,802 - 00:36:08,802] All right.
+- [00:36:08,802 - 00:36:09,802] This is the trace.
+- [00:36:09,802 - 00:36:11,802] This is the definition of the trace.
+- [00:36:11,802 - 00:36:13,802] But now if I insert a
+- [00:36:13,802 - 00:36:15,802] complete set of states in here,
+- [00:36:15,802 - 00:36:19,802] it becomes sum over A and
+- [00:36:19,802 - 00:36:23,802] A prime of A prime M A,
+- [00:36:23,802 - 00:36:27,802] A rho A prime.
+- [00:36:27,802 - 00:36:28,802] That's just this.
+- [00:36:28,802 - 00:36:31,802] M A A prime A.
+- [00:36:31,802 - 00:36:32,802] That's this.
+- [00:36:32,802 - 00:36:35,802] And rho A A prime.
+- [00:36:35,802 - 00:36:37,802] That's this.
+- [00:36:37,802 - 00:36:39,802] All right.
+- [00:36:39,802 - 00:36:41,802] So look what we found.
+- [00:36:41,802 - 00:36:47,802] We found that by ignoring B, just ignoring it,
+- [00:36:47,802 - 00:36:50,802] and asking what are the rules
+- [00:36:50,802 - 00:36:53,802] when a system is a combined system
+- [00:36:53,802 - 00:36:56,302] with a unique state vector,
+- [00:36:56,302 - 00:36:58,802] a pure vector, a pure state.
+- [00:36:58,802 - 00:37:01,802] It's a pure state for the combined system.
+- [00:37:01,802 - 00:37:04,802] Nevertheless, we have to find out
+- [00:37:05,802 - 00:37:08,802] when you focus only on the A subsystem,
+- [00:37:08,802 - 00:37:13,802] it's described by a density matrix.
+- [00:37:13,802 - 00:37:16,802] That density matrix, how do you get the density matrix?
+- [00:37:16,802 - 00:37:19,802] You get the density matrix
+- [00:37:19,802 - 00:37:22,802] by taking the full wave function,
+- [00:37:22,802 - 00:37:25,802] letting A and A prime run freely,
+- [00:37:25,802 - 00:37:29,802] not summing over them, but summing over B.
+- [00:37:29,802 - 00:37:31,802] That eliminates B out of the expression,
+- [00:37:31,802 - 00:37:33,802] and it just becomes a
+- [00:37:33,802 - 00:37:35,802] matrix between A and A prime.
+- [00:37:35,802 - 00:37:39,802] So when you have a combined composite system,
+- [00:37:39,802 - 00:37:43,802] Schrodinger's cat and the gun,
+- [00:37:43,802 - 00:37:46,802] the Schrodinger's cat and the gun
+- [00:37:46,802 - 00:37:51,802] may themselves be described by a single state vector
+- [00:37:51,802 - 00:37:54,802] in which they're entangled,
+- [00:37:54,802 - 00:37:57,802] but if we just look at the cat alone,
+- [00:37:57,802 - 00:38:00,802] the cat is described by a density matrix.
+- [00:38:00,802 - 00:38:02,802] It's described by a density matrix,
+- [00:38:02,802 - 00:38:04,802] and in general, that density matrix
+- [00:38:04,802 - 00:38:06,802] will be a density matrix
+- [00:38:06,802 - 00:38:08,802] of a mixed state in general.
+- [00:38:08,802 - 00:38:10,802] There's a very special circumstance
+- [00:38:10,802 - 00:38:12,802] under which it will be a pure state
+- [00:38:12,802 - 00:38:14,802] that will describe the A system,
+- [00:38:14,802 - 00:38:17,802] and I'll tell you in a moment what it is.
+- [00:38:17,802 - 00:38:22,802] In fact, I suppose I should tell you right now.
+- [00:38:22,802 - 00:38:24,802] Any questions up till now?
+- [00:38:24,802 - 00:38:25,802] Yeah?
+- [00:38:25,802 - 00:38:28,802] Isn't tracing rho just trace of n?
+- [00:38:28,802 - 00:38:30,802] All right.
+- [00:38:30,802 - 00:38:32,302] Trace of n rho is trace
+- [00:38:32,302 - 00:38:33,802] of n times trace of rho,
+- [00:38:33,802 - 00:38:34,802] and trace of rho is...
+- [00:38:34,802 - 00:38:35,802] Wait, wait.
+- [00:38:35,802 - 00:38:36,802] Trace of...
+- [00:38:36,802 - 00:38:37,802] No, sorry.
+- [00:38:37,802 - 00:38:38,802] Trace of product is not the product of traces.
+- [00:38:38,802 - 00:38:39,802] No.
+- [00:38:39,802 - 00:38:40,802] No.
+- [00:38:40,802 - 00:38:41,802] It can be nice if it were.
+- [00:38:41,802 - 00:38:46,802] It would make things easy, but it's not true.
+- [00:38:46,802 - 00:38:48,302] Trace of a product is not
+- [00:38:48,302 - 00:38:49,802] the product of the traces, yeah.
+- [00:38:49,802 - 00:38:52,802] You said you started with a pure state,
+- [00:38:52,802 - 00:38:55,802] which was just AB.
+- [00:38:55,802 - 00:38:56,802] No, no, no, no.
+- [00:38:56,802 - 00:38:57,802] Psi...
+- [00:38:57,802 - 00:38:58,802] No, no, not AB,
+- [00:38:58,802 - 00:39:02,802] but sum over AB of psi.
+- [00:39:02,802 - 00:39:03,802] Okay.
+- [00:39:03,802 - 00:39:05,302] I'm not feeling that this is
+- [00:39:05,302 - 00:39:06,802] the most general case that you can...
+- [00:39:06,802 - 00:39:08,302] This is the most general
+- [00:39:08,302 - 00:39:09,802] pure state of the combined system.
+- [00:39:09,802 - 00:39:11,802] Okay, so let me say it again.
+- [00:39:11,802 - 00:39:13,802] You have a combined system.
+- [00:39:13,802 - 00:39:15,802] It's in the purest possible state.
+- [00:39:15,802 - 00:39:17,802] Psi.
+- [00:39:17,802 - 00:39:19,802] When you look at a subsystem,
+- [00:39:19,802 - 00:39:22,802] the subsystem will be in a mixed state,
+- [00:39:22,802 - 00:39:24,802] in a statistical state.
+- [00:39:24,802 - 00:39:27,802] Now, there's no analog of this for a classical system.
+- [00:39:27,802 - 00:39:30,302] If I have what would correspond to
+- [00:39:30,302 - 00:39:32,802] a pure state for a classical system,
+- [00:39:32,802 - 00:39:35,302] the idea of a pure
+- [00:39:35,302 - 00:39:37,802] state would be a probability distribution
+- [00:39:37,802 - 00:39:40,802] which has only one point that it's non-zero.
+- [00:39:40,802 - 00:39:42,802] In other words, a definite piece
+- [00:39:42,802 - 00:39:44,802] of information about which state you're in.
+- [00:39:44,802 - 00:39:47,802] That's the analog of the pure state.
+- [00:39:47,802 - 00:39:49,802] In other words, complete knowledge.
+- [00:39:49,802 - 00:39:52,802] If you have complete knowledge about the combined system,
+- [00:39:52,802 - 00:39:54,802] you have complete knowledge about either
+- [00:39:54,802 - 00:39:56,802] of the subsystems in classical physics.
+- [00:39:56,802 - 00:40:00,802] So in classical physics,
+- [00:40:00,802 - 00:40:05,802] complete knowledge about a combined system is equal...
+- [00:40:05,802 - 00:40:08,302] It's not equal to, but it implies
+- [00:40:08,302 - 00:40:10,802] complete knowledge about either of the subsystems.
+- [00:40:10,802 - 00:40:13,802] That's different in quantum mechanics.
+- [00:40:13,802 - 00:40:15,802] In quantum mechanics, you may have
+- [00:40:15,802 - 00:40:17,802] complete knowledge about the combined system,
+- [00:40:17,802 - 00:40:21,302] and yet the subsystem by itself
+- [00:40:21,302 - 00:40:24,802] must be described by a density matrix.
+- [00:40:24,802 - 00:40:27,802] Now, you say, might it be
+- [00:40:27,802 - 00:40:30,802] that that density matrix is special?
+- [00:40:30,802 - 00:40:34,802] And that it corresponds to a pure state?
+- [00:40:34,802 - 00:40:37,802] Not in general, and I'll show you some examples.
+- [00:40:37,802 - 00:40:39,302] I'll show you some examples
+- [00:40:39,302 - 00:40:40,802] that you're already familiar with.
+- [00:40:40,802 - 00:40:44,802] We'll work out the density matrix for some familiar example.
+- [00:40:44,802 - 00:40:46,802] But let me just say...
+- [00:40:46,802 - 00:40:49,802] How different is this from classical mechanics
+- [00:40:49,802 - 00:40:52,802] where you have velocity distribution functions
+- [00:40:52,802 - 00:40:56,802] which you integrate over to get densities?
+- [00:40:56,802 - 00:40:58,302] So in a way, you
+- [00:40:58,302 - 00:40:59,802] integrate it over the B state.
+- [00:40:59,802 - 00:41:03,802] To get a density matrix, right?
+- [00:41:03,802 - 00:41:07,802] So I can think of a velocity distribution function
+- [00:41:07,802 - 00:41:11,802] if you integrate it over, you get the density.
+- [00:41:11,802 - 00:41:16,802] How do I get a density by integrating over?
+- [00:41:16,802 - 00:41:18,802] Oh, you mean if you
+- [00:41:18,802 - 00:41:20,802] have a combined velocity and position?
+- [00:41:20,802 - 00:41:22,802] In a classical property
+- [00:41:22,802 - 00:41:24,802] distribution function like the Boltzmann.
+- [00:41:24,802 - 00:41:28,802] You have a combined velocity and position distribution,
+- [00:41:28,802 - 00:41:30,802] and you integrate...
+- [00:41:30,802 - 00:41:32,802] It's similar.
+- [00:41:32,802 - 00:41:36,802] But the difference is that if you had complete knowledge...
+- [00:41:36,802 - 00:41:39,802] In that case, the velocity and the position
+- [00:41:39,802 - 00:41:41,802] would just correspond to two subsystems.
+- [00:41:41,802 - 00:41:43,802] They're not really two subsystems,
+- [00:41:43,802 - 00:41:45,802] but you could think of them as two different systems,
+- [00:41:45,802 - 00:41:47,802] two different coordinates that...
+- [00:41:47,802 - 00:41:48,802] Okay.
+- [00:41:48,802 - 00:41:50,302] In that case, if you
+- [00:41:50,302 - 00:41:51,802] had complete knowledge about the system,
+- [00:41:51,802 - 00:41:53,302] it would mean you knew
+- [00:41:53,302 - 00:41:54,802] both the velocity and the position.
+- [00:41:54,802 - 00:41:56,302] And there's no problem with
+- [00:41:56,302 - 00:41:57,802] knowing the velocity and the position.
+- [00:41:58,802 - 00:42:00,802] And so not only would the
+- [00:42:00,802 - 00:42:02,802] combined system be in a pure state,
+- [00:42:02,802 - 00:42:04,802] but if you just looked at positions,
+- [00:42:04,802 - 00:42:06,802] you would have definite knowledge of position
+- [00:42:06,802 - 00:42:08,802] and definite knowledge of...
+- [00:42:08,802 - 00:42:10,802] What's that other thing called?
+- [00:42:10,802 - 00:42:11,802] Velocity.
+- [00:42:11,802 - 00:42:12,802] Yeah.
+- [00:42:12,802 - 00:42:14,802] Okay, so that's the difference.
+- [00:42:14,802 - 00:42:17,802] That there are pure states of the combined system
+- [00:42:17,802 - 00:42:20,302] which cannot be thought of
+- [00:42:20,302 - 00:42:22,802] as pure states of the subsystems.
+- [00:42:22,802 - 00:42:25,802] Okay, let me just tell you what is the condition.
+- [00:42:25,802 - 00:42:27,802] All right, so here's an interesting condition.
+- [00:42:27,802 - 00:42:30,802] What is the condition on psi of A and B
+- [00:42:30,802 - 00:42:35,802] that the individual subsystems actually are in pure states?
+- [00:42:35,802 - 00:42:38,802] Is there a situation or a
+- [00:42:38,802 - 00:42:41,802] wave function psi of A and B
+- [00:42:41,802 - 00:42:43,802] in which the two individual
+- [00:42:43,802 - 00:42:45,802] subsystems are in a pure state?
+- [00:42:45,802 - 00:42:47,802] The answer is yes.
+- [00:42:47,802 - 00:42:50,802] Any time that the wave function
+- [00:42:50,802 - 00:42:53,802] factorizes into a product of A,
+- [00:42:53,802 - 00:42:55,802] a product of a function of A,
+- [00:42:55,802 - 00:42:57,802] and a product of a function of B,
+- [00:42:57,802 - 00:43:02,802] let's just analyze that situation a little bit
+- [00:43:02,802 - 00:43:04,802] and see what it says.
+- [00:43:04,802 - 00:43:06,802] That's a special case.
+- [00:43:06,802 - 00:43:09,802] Not all functions of two variables are products
+- [00:43:09,802 - 00:43:12,302] of functions of one variable
+- [00:43:12,302 - 00:43:14,802] times a function of another variable,
+- [00:43:14,802 - 00:43:18,802] but it's only when the wave function is a product
+- [00:43:18,802 - 00:43:22,802] that each individual subsystem is itself in a pure state.
+- [00:43:22,802 - 00:43:25,802] Okay, let's look at that a little more carefully.
+- [00:43:27,802 - 00:43:39,802] Let's suppose that psi of A and B
+- [00:43:39,802 - 00:43:41,802] happen to be equal to a
+- [00:43:41,802 - 00:43:43,802] product of a function of A
+- [00:43:43,802 - 00:43:45,802] and another function of B,
+- [00:43:45,802 - 00:43:47,302] and I'm going to call
+- [00:43:47,302 - 00:43:48,802] the other function chi of B.
+- [00:43:48,802 - 00:43:54,802] Really all this is saying is that the combined system
+- [00:43:54,802 - 00:43:56,802] is a pure state phi,
+- [00:43:56,802 - 00:43:58,802] for the A subsystem,
+- [00:43:58,802 - 00:44:01,802] and a pure state chi for the B subsystem.
+- [00:44:01,802 - 00:44:04,802] We'll assume that phi and chi are normalized
+- [00:44:04,802 - 00:44:07,802] so that chi star chi when summed over B
+- [00:44:07,802 - 00:44:09,802] is equal to one,
+- [00:44:09,802 - 00:44:11,302] phi star phi when summed
+- [00:44:11,302 - 00:44:12,802] over A is equal to one.
+- [00:44:12,802 - 00:44:15,302] Those conditions are equivalent to
+- [00:44:15,302 - 00:44:17,802] the normalization of psi itself.
+- [00:44:17,802 - 00:44:21,802] So phi is phi of A
+- [00:44:21,802 - 00:44:25,802] that's proposed only of the A chest.
+- [00:44:25,802 - 00:44:28,802] Well, functions aren't composed of cats,
+- [00:44:28,802 - 00:44:30,802] but yes, that's right.
+- [00:44:30,802 - 00:44:31,802] Yeah, I know what you're...
+- [00:44:31,802 - 00:44:34,802] The state itself is a linear
+- [00:44:34,802 - 00:44:37,802] combination of all of the A chest.
+- [00:44:37,802 - 00:44:39,802] Yeah, that's right.
+- [00:44:39,802 - 00:44:40,802] It's a product state.
+- [00:44:40,802 - 00:44:42,802] It's a product state, right.
+- [00:44:42,802 - 00:44:44,802] Right, it's a product state.
+- [00:44:44,802 - 00:44:50,802] Okay, so if phi happens to factorize like that,
+- [00:44:50,802 - 00:44:53,802] then let's calculate the density matrix itself.
+- [00:44:53,802 - 00:44:57,802] The density matrix for the A subsystem, right?
+- [00:44:57,802 - 00:44:59,802] For the A subsystem, we have to multiply
+- [00:44:59,802 - 00:45:06,802] psi of A and B times psi star...
+- [00:45:06,802 - 00:45:09,802] You know something?
+- [00:45:09,802 - 00:45:12,802] I think I actually have something backward.
+- [00:45:12,802 - 00:45:16,802] No, that's all right.
+- [00:45:16,802 - 00:45:20,802] Okay.
+- [00:45:20,802 - 00:45:22,302] So we have to take psi of A
+- [00:45:22,302 - 00:45:23,802] and B times psi star of A and B.
+- [00:45:23,802 - 00:45:29,802] That's phi of A chi of
+- [00:45:29,802 - 00:45:35,802] B times phi star of A prime.
+- [00:45:35,802 - 00:45:38,302] We have A and A
+- [00:45:38,302 - 00:45:40,802] prime, but B goes with B,
+- [00:45:40,802 - 00:45:46,302] times chi of B, chi
+- [00:45:46,302 - 00:45:51,802] star of B, summed over B.
+- [00:45:51,802 - 00:45:53,802] That's the density matrix.
+- [00:45:53,802 - 00:45:58,802] That's rho A A prime.
+- [00:45:58,802 - 00:46:01,802] All right, same formula, except
+- [00:46:01,802 - 00:46:04,802] I've substituted for psi the product.
+- [00:46:04,802 - 00:46:07,802] All right, now this is very easy.
+- [00:46:07,802 - 00:46:10,802] The only thing that's summed over is chi.
+- [00:46:10,802 - 00:46:12,802] A isn't even in the sum.
+- [00:46:12,802 - 00:46:15,802] You can pull the phi outside the summation,
+- [00:46:15,802 - 00:46:18,802] since the summation doesn't involve A altogether,
+- [00:46:18,802 - 00:46:21,802] and it just becomes equal to phi of A,
+- [00:46:21,802 - 00:46:23,802] phi star of A,
+- [00:46:23,802 - 00:46:27,802] times sum on B of chi
+- [00:46:27,802 - 00:46:31,802] of B times chi star of B.
+- [00:46:31,802 - 00:46:33,802] But what is that?
+- [00:46:33,802 - 00:46:36,802] Sum on B chi chi star, that's just one.
+- [00:46:36,802 - 00:46:39,802] That's the normalization of chi of B.
+- [00:46:39,802 - 00:46:42,802] So this is all just one.
+- [00:46:42,802 - 00:46:46,802] So the density matrix for a product is very simple.
+- [00:46:46,802 - 00:46:51,802] It's just the product of wave functions,
+- [00:46:51,802 - 00:46:57,802] phi of A times phi star of A.
+- [00:46:57,802 - 00:47:01,802] Let's calculate now, in this case,
+- [00:47:01,802 - 00:47:07,802] the expectation value of M.
+- [00:47:07,802 - 00:47:09,802] It's just equal, where is it?
+- [00:47:09,802 - 00:47:12,802] M of A prime in A.
+- [00:47:12,802 - 00:47:15,802] Sorry, I missed a prime here somewheres.
+- [00:47:15,802 - 00:47:16,802] I'm sorry.
+- [00:47:16,802 - 00:47:17,802] Right.
+- [00:47:17,802 - 00:47:19,802] Right.
+- [00:47:19,802 - 00:47:26,082] m of a prime and a, phi of a, and
+- [00:47:26,082 - 00:47:32,362] let me put phi star of a prime over here.
+- [00:47:32,362 - 00:47:36,902] Well, this is nothing but written in components.
+- [00:47:36,902 - 00:47:44,262] This is nothing but phi m phi.
+- [00:47:44,262 - 00:47:46,172] In other words, the expectation value
+- [00:47:46,172 - 00:47:48,082] of m, and not just m,
+- [00:47:48,082 - 00:47:52,082] but any observable that involves only a,
+- [00:47:52,082 - 00:47:54,532] is exactly the same as if
+- [00:47:54,532 - 00:47:56,982] the state vector were just phi.
+- [00:47:56,982 - 00:48:01,082] The a degrees of freedom are completely and entirely
+- [00:48:01,082 - 00:48:04,542] described by the pure state phi.
+- [00:48:04,542 - 00:48:06,332] So when the wave function
+- [00:48:06,332 - 00:48:08,122] is a product of two factors,
+- [00:48:08,122 - 00:48:11,782] each subsystem is itself in a pure state,
+- [00:48:11,782 - 00:48:14,272] and the pure state is just either
+- [00:48:14,272 - 00:48:16,762] phi of a or chi of b.
+- [00:48:16,762 - 00:48:18,022] That's the special case.
+- [00:48:18,022 - 00:48:21,522] When the combined system is in a pure state,
+- [00:48:21,522 - 00:48:23,962] and each subsystem is in a pure state.
+- [00:48:23,962 - 00:48:25,942] But that's hardly general.
+- [00:48:25,942 - 00:48:27,022] Not at all general.
+- [00:48:27,022 - 00:48:28,702] Not every function of two variables
+- [00:48:28,702 - 00:48:34,402] is a product of functions of one variable.
+- [00:48:34,402 - 00:48:35,102] OK.
+- [00:48:35,102 - 00:48:40,062] Incidentally, in this case, the density matrix,
+- [00:48:40,062 - 00:48:42,762] well, here is the density matrix.
+- [00:48:42,762 - 00:48:44,892] The density matrix has one
+- [00:48:44,892 - 00:48:47,022] and only one non-zero eigenvector.
+- [00:48:47,022 - 00:48:48,022] It's phi at z.
+- [00:48:48,022 - 00:48:49,022] It's a one-zero eigenvector.
+- [00:48:49,022 - 00:48:51,682] But in the case of the wave function itself,
+- [00:48:51,682 - 00:48:55,042] all the other eigenvalues are equal to zero.
+- [00:48:55,042 - 00:48:58,782] And the entropy is equal to zero.
+- [00:48:58,782 - 00:49:02,842] Only eigenvalues are one, and all the others are zero.
+- [00:49:02,842 - 00:49:04,602] So that's the case.
+- [00:49:04,602 - 00:49:07,712] That's one way of diagnosing
+- [00:49:07,712 - 00:49:10,822] how pure a state vector is,
+- [00:49:10,822 - 00:49:15,442] or how well the wave function resembles a product,
+- [00:49:15,442 - 00:49:17,362] is to calculate the entropy...
+- [00:49:17,362 - 00:49:22,022] it means you're near the situation of a product.
+- [00:49:23,282 - 00:49:25,602] If the entropy is large,
+- [00:49:25,922 - 00:49:28,522] somewhere near the maximum logarithm of n,
+- [00:49:28,922 - 00:49:30,902] that means you're deeply entangled.
+- [00:49:31,662 - 00:49:34,962] And deeply entangled means you're far from a product.
+- [00:49:35,922 - 00:49:38,982] Far from a product, wave function just doesn't factorize.
+- [00:49:39,722 - 00:49:43,262] Let's work out one particular example.
+- [00:49:43,262 - 00:49:45,502] Maybe we can work out
+- [00:49:45,502 - 00:49:47,742] some more than one particular example.
+- [00:49:48,282 - 00:49:50,082] But let's do at least one example,
+- [00:49:50,782 - 00:49:53,001] a familiar thing that we've already studied.
+- [00:49:53,782 - 00:50:02,102] Calculate the density matrix and calculate the entropy.
+- [00:50:03,381 - 00:50:04,202] We should do two.
+- [00:50:04,282 - 00:50:05,441] We should make one be a...
+- [00:50:05,441 - 00:50:07,022] Yeah, we're going to do two different examples.
+- [00:50:07,662 - 00:50:09,452] The first example is not
+- [00:50:09,452 - 00:50:11,242] going to be a pure state.
+- [00:50:11,242 - 00:50:13,122] The first example is going to be
+- [00:50:13,122 - 00:50:13,242] our...
+- [00:50:13,262 - 00:50:14,801] Our friend, the singlet state,
+- [00:50:15,321 - 00:50:18,102] the highly entangled singlet state of two electrons.
+- [00:50:18,961 - 00:50:19,082] Okay.
+- [00:50:19,481 - 00:50:20,282] So what is it?
+- [00:50:20,421 - 00:50:22,421] It's by definition up, up...
+- [00:50:22,421 - 00:50:25,441] No, sorry, up, down, minus down, up,
+- [00:50:26,082 - 00:50:27,881] divided by square root of two.
+- [00:50:28,522 - 00:50:28,762] All right?
+- [00:50:29,262 - 00:50:31,601] But let's write that in terms
+- [00:50:31,601 - 00:50:33,941] of a wave function of two variables.
+- [00:50:35,282 - 00:50:35,441] All right?
+- [00:50:36,142 - 00:50:38,182] Psi has two entries.
+- [00:50:38,682 - 00:50:40,981] The first entry represents spin number one.
+- [00:50:40,981 - 00:50:43,242] The second entry represents spin number two.
+- [00:50:43,262 - 00:50:45,262] And here are the values that psi has.
+- [00:50:45,262 - 00:50:49,262] Psi up, up is equal to zero.
+- [00:50:49,262 - 00:50:51,262] I don't see up, up here.
+- [00:50:51,262 - 00:50:51,762] Do you?
+- [00:50:51,762 - 00:50:52,262] No.
+- [00:50:52,262 - 00:50:53,262] Okay.
+- [00:50:53,262 - 00:50:55,262] What about psi up, down?
+- [00:50:55,262 - 00:51:01,262] That's the coefficient of this one.
+- [00:51:01,262 - 00:51:05,262] It's equal to one over square root of two.
+- [00:51:05,262 - 00:51:07,262] How about psi down, up?
+- [00:51:07,262 - 00:51:11,262] Minus one over square root of two.
+- [00:51:11,262 - 00:51:13,122] And then we have the other two.
+- [00:51:13,122 - 00:51:16,122] And psi down, down is zero.
+- [00:51:16,122 - 00:51:17,122] Okay.
+- [00:51:17,122 - 00:51:24,122] Let's calculate the density matrix for the A system,
+- [00:51:24,122 - 00:51:27,122] the A system now being spin number one.
+- [00:51:27,122 - 00:51:29,122] So what do we have to do?
+- [00:51:29,122 - 00:51:30,122] We have to write down...
+- [00:51:30,122 - 00:51:31,122] Where is it?
+- [00:51:31,122 - 00:51:34,122] This is the density matrix right here.
+- [00:51:34,122 - 00:51:35,122] Can I write it somewhere?
+- [00:51:35,122 - 00:51:38,122] Yeah, it's over here.
+- [00:51:41,122 - 00:51:42,122] This is the density matrix.
+- [00:51:42,122 - 00:51:44,122] Summed over B.
+- [00:51:44,122 - 00:51:46,122] Summed over B.
+- [00:51:46,122 - 00:51:47,122] All right.
+- [00:51:47,122 - 00:51:48,622] So we begin by writing down
+- [00:51:48,622 - 00:51:50,122] a psi next to a psi star.
+- [00:51:50,122 - 00:51:52,122] Let's work it out.
+- [00:51:52,122 - 00:51:54,122] Let's do the elements.
+- [00:51:54,122 - 00:51:57,122] Row, up, up.
+- [00:51:57,122 - 00:51:59,622] Remember, row is a matrix, but it's a
+- [00:51:59,622 - 00:52:02,122] matrix just in the space of one spin.
+- [00:52:02,122 - 00:52:05,122] So let's calculate its up, up matrix element.
+- [00:52:05,122 - 00:52:07,122] This up, up matrix element
+- [00:52:07,122 - 00:52:09,122] we get by writing psi up.
+- [00:52:09,122 - 00:52:10,122] Let's write it again.
+- [00:52:10,122 - 00:52:11,122] Psi up.
+- [00:52:12,122 - 00:52:14,122] Plus...
+- [00:52:14,122 - 00:52:15,122] This doesn't make sense yet.
+- [00:52:15,122 - 00:52:18,122] It will in a moment.
+- [00:52:18,122 - 00:52:19,122] Okay.
+- [00:52:19,122 - 00:52:20,122] All right.
+- [00:52:20,122 - 00:52:24,122] Now, remember, we sum over the B coordinate.
+- [00:52:24,122 - 00:52:28,122] So let's put up, up, down.
+- [00:52:28,122 - 00:52:29,122] No, no.
+- [00:52:29,122 - 00:52:30,122] This is...
+- [00:52:30,122 - 00:52:34,122] Up, up, up, up.
+- [00:52:34,122 - 00:52:37,122] We're calculating the up, up matrix element.
+- [00:52:37,122 - 00:52:38,122] All right.
+- [00:52:38,122 - 00:52:40,122] Come back to here.
+- [00:52:40,122 - 00:52:43,122] We're calculating the A, A prime matrix element.
+- [00:52:43,122 - 00:52:44,622] So in one place we
+- [00:52:44,622 - 00:52:46,122] put a psi with an A.
+- [00:52:46,122 - 00:52:47,622] In the other place we put
+- [00:52:47,622 - 00:52:49,122] a psi star with an A prime.
+- [00:52:49,122 - 00:52:51,122] This should be star.
+- [00:52:51,122 - 00:52:55,122] Star.
+- [00:52:55,122 - 00:52:58,122] In this case, both A and A prime are up.
+- [00:52:58,122 - 00:53:01,622] So we have a psi of A and a psi star
+- [00:53:01,622 - 00:53:05,122] of A, a psi of A and a psi star of A.
+- [00:53:05,122 - 00:53:07,122] But we have to sum over B.
+- [00:53:07,122 - 00:53:08,122] So B is up, up.
+- [00:53:08,122 - 00:53:11,122] And down, down.
+- [00:53:11,122 - 00:53:12,122] That's the instruction.
+- [00:53:12,122 - 00:53:16,622] It's psi star psi with the A's being
+- [00:53:16,622 - 00:53:21,122] evaluated as matrix elements of the density matrix and
+- [00:53:21,122 - 00:53:24,122] the B's being summed over.
+- [00:53:24,122 - 00:53:27,122] Up, up plus down, down.
+- [00:53:27,122 - 00:53:28,122] Okay.
+- [00:53:28,122 - 00:53:30,122] That's the up, up matrix element.
+- [00:53:30,122 - 00:53:32,122] Let's see what it is.
+- [00:53:32,122 - 00:53:34,122] Psi up, up is 0.
+- [00:53:34,122 - 00:53:36,122] So this is the up, up matrix element.
+- [00:53:36,122 - 00:53:37,122] And this is the Psi star.
+- [00:53:37,122 - 00:53:39,122] So this is 0.
+- [00:53:39,122 - 00:53:41,622] But Psi up, down is
+- [00:53:41,622 - 00:53:44,122] 1 over square root of 2.
+- [00:53:44,122 - 00:53:50,122] So this is just 1 half.
+- [00:53:50,122 - 00:53:51,122] All right.
+- [00:53:51,122 - 00:53:53,122] What about rho down, down?
+- [00:53:53,122 - 00:53:56,122] For rho down, down, you do exactly the same thing.
+- [00:53:56,122 - 00:54:01,122] Psi down, Psi star down plus same thing.
+- [00:54:01,122 - 00:54:04,122] Psi down, Psi star down.
+- [00:54:04,122 - 00:54:05,122] Sorry.
+- [00:54:05,122 - 00:54:06,122] Psi star down.
+- [00:54:07,122 - 00:54:14,122] But then you fill in up, up, down, down.
+- [00:54:14,122 - 00:54:16,122] Do I have this right?
+- [00:54:16,122 - 00:54:18,122] Yeah.
+- [00:54:18,122 - 00:54:19,122] Okay.
+- [00:54:19,122 - 00:54:24,122] What is Psi down, up?
+- [00:54:24,122 - 00:54:27,122] That's minus 1 over square root of 2.
+- [00:54:27,122 - 00:54:28,122] It's squared.
+- [00:54:28,122 - 00:54:30,122] So again, we get 1 half.
+- [00:54:30,122 - 00:54:32,122] And down, down is 0.
+- [00:54:32,122 - 00:54:34,122] And down, down is 0.
+- [00:54:34,122 - 00:54:35,122] So this is again a half.
+- [00:54:35,122 - 00:54:36,122] Neat.
+- [00:54:37,122 - 00:54:40,122] What about Psi up, rho up, down?
+- [00:54:40,122 - 00:54:42,622] The matrix element of a density
+- [00:54:42,622 - 00:54:45,122] matrix, the up, down matrix element.
+- [00:54:45,122 - 00:54:46,122] Do the same thing.
+- [00:54:46,122 - 00:54:51,122] Psi up, Psi star down.
+- [00:54:51,122 - 00:54:53,122] Up, down.
+- [00:54:53,122 - 00:54:54,122] Up, down.
+- [00:54:54,122 - 00:55:01,122] Plus, write it again, Psi up, Psi star down.
+- [00:55:01,122 - 00:55:04,122] But then fill in up, up.
+- [00:55:04,122 - 00:55:06,122] And down, down.
+- [00:55:06,122 - 00:55:10,122] Psi star down.
+- [00:55:10,122 - 00:55:11,122] Okay.
+- [00:55:11,122 - 00:55:13,122] What's that?
+- [00:55:14,122 - 00:55:16,122] Psi up, up is 0.
+- [00:55:16,122 - 00:55:18,122] And Psi down, down is equal to 0.
+- [00:55:18,122 - 00:55:20,122] So that's 0.
+- [00:55:20,122 - 00:55:22,122] And of course, the other one is also 0.
+- [00:55:22,122 - 00:55:26,122] Rho down, up is also equal to 0.
+- [00:55:26,122 - 00:55:30,122] So in this case, the density matrix is just
+- [00:55:30,122 - 00:55:34,122] equal to rho is equal to a half, a half.
+- [00:55:36,122 - 00:55:40,122] It's proportional to the unit matrix.
+- [00:55:40,122 - 00:55:42,122] It has equal entries.
+- [00:55:42,122 - 00:55:44,122] Those entries can be thought
+- [00:55:44,122 - 00:55:46,122] of as probabilities if you like.
+- [00:55:46,122 - 00:55:50,122] But its trace is 1.
+- [00:55:50,122 - 00:55:51,622] If you add up the
+- [00:55:51,622 - 00:55:53,122] eigenvalues, it adds up to 1.
+- [00:55:53,122 - 00:55:58,122] And what's the entropy?
+- [00:55:58,122 - 00:56:00,122] No.
+- [00:56:01,122 - 00:56:02,122] Log 2.
+- [00:56:02,122 - 00:56:03,122] Log 2.
+- [00:56:03,122 - 00:56:04,122] Log 2.
+- [00:56:04,122 - 00:56:05,122] Log 2.
+- [00:56:05,122 - 00:56:07,122] Log 2.
+- [00:56:07,122 - 00:56:10,122] It's 1 half log of 1 half
+- [00:56:10,122 - 00:56:13,122] plus 1 half log of 1 half.
+- [00:56:13,122 - 00:56:15,122] Altogether, it adds up to log of 1 half.
+- [00:56:15,122 - 00:56:17,122] Log of 1 half is minus the log of 2.
+- [00:56:17,122 - 00:56:18,622] But we have a minus sign
+- [00:56:18,622 - 00:56:20,122] in the definition of the entropy.
+- [00:56:20,122 - 00:56:22,122] So it's log 2.
+- [00:56:22,122 - 00:56:24,122] That's the maximum that the entropy can be.
+- [00:56:24,122 - 00:56:29,122] I haven't stressed this, but it's an easy theorem.
+- [00:56:29,122 - 00:56:31,122] You might try to work that out.
+- [00:56:31,122 - 00:56:34,122] That the maximum the entropy ever can be
+- [00:56:34,122 - 00:56:35,622] is when all the elements
+- [00:56:35,622 - 00:56:37,122] of the density matrix are equal,
+- [00:56:37,122 - 00:56:39,122] maximum amount of ignorance.
+- [00:56:39,122 - 00:56:41,622] And so in this case here, we
+- [00:56:41,622 - 00:56:44,122] have a pure state for the combined system
+- [00:56:44,122 - 00:56:51,122] and complete ignorance for either of the components.
+- [00:56:51,122 - 00:56:53,122] Sorry, for either of the spins.
+- [00:56:53,122 - 00:56:57,122] I concentrated on the left spin here, spin number 1.
+- [00:56:57,122 - 00:56:59,622] And what we found is that
+- [00:56:59,622 - 00:57:02,122] the density matrix described complete ignorance.
+- [00:57:02,122 - 00:57:05,622] In this case, what is the expectation
+- [00:57:05,622 - 00:57:09,122] value of the components of the spin?
+- [00:57:09,122 - 00:57:12,122] In particular, spin number 1.
+- [00:57:12,122 - 00:57:14,622] We could calculate them by
+- [00:57:14,622 - 00:57:17,122] using the full wave function here.
+- [00:57:17,122 - 00:57:21,122] Or we can calculate them using the density matrix.
+- [00:57:21,122 - 00:57:25,122] The density matrix for spin number 1, rho,
+- [00:57:25,122 - 00:57:29,122] is equal to 1 half times the unit matrix.
+- [00:57:29,122 - 00:57:30,122] We can just call it 1 half.
+- [00:57:30,122 - 00:57:31,122] It's just 1 half times the unit matrix.
+- [00:57:32,122 - 00:57:38,122] The expectation value of any component of spin,
+- [00:57:38,122 - 00:57:40,122] spin along any axis,
+- [00:57:40,122 - 00:57:42,122] spin along any axis,
+- [00:57:42,122 - 00:57:48,122] is equal to the trace of rho times,
+- [00:57:48,122 - 00:57:50,122] sorry, just sigma dot n.
+- [00:57:50,122 - 00:57:52,122] Sigma dot n.
+- [00:57:52,122 - 00:57:54,122] Trace of rho.
+- [00:57:54,122 - 00:57:57,122] Sigma dot n.
+- [00:57:57,122 - 00:58:00,122] That's the average,
+- [00:58:00,122 - 00:58:03,122] the average of sigma dot n.
+- [00:58:03,122 - 00:58:06,122] Trace of rho times the observable.
+- [00:58:06,122 - 00:58:09,122] That is not trace of rho,
+- [00:58:09,122 - 00:58:11,122] not the observable times trace of rho,
+- [00:58:11,122 - 00:58:14,122] but trace of the product of rho times the observable.
+- [00:58:14,122 - 00:58:17,122] That's the average of the observable.
+- [00:58:17,122 - 00:58:22,122] Well, rho is proportional to the unit matrix.
+- [00:58:22,122 - 00:58:24,122] You can take that out.
+- [00:58:24,122 - 00:58:26,122] Unit matrix doesn't do anything.
+- [00:58:26,122 - 00:58:29,122] It just gives you a half, factor of a half.
+- [00:58:30,122 - 00:58:32,622] This gives you a half times
+- [00:58:32,622 - 00:58:35,122] the trace of sigma dot n.
+- [00:58:35,122 - 00:58:37,122] What's the trace of sigma dot n?
+- [00:58:37,122 - 00:58:38,122] Anybody know?
+- [00:58:38,122 - 00:58:39,122] Zero.
+- [00:58:39,122 - 00:58:40,122] Zero.
+- [00:58:40,122 - 00:58:41,122] The trace of every one
+- [00:58:41,122 - 00:58:42,122] of the sigma matrices is zero.
+- [00:58:42,122 - 00:58:44,122] Let's just check that.
+- [00:58:44,122 - 00:58:47,122] Trace of sigma 3.
+- [00:58:47,122 - 00:58:50,122] Sigma 3 is 1 minus 1.
+- [00:58:50,122 - 00:58:53,122] This trace is zero.
+- [00:58:53,122 - 00:58:56,122] The others are all off diagonal.
+- [00:58:56,122 - 00:58:58,122] They also have no trace.
+- [00:58:58,122 - 00:59:00,122] So what have we learned?
+- [00:59:00,122 - 00:59:04,122] We've learned that in the singlet state,
+- [00:59:04,122 - 00:59:05,622] something we already knew because
+- [00:59:05,622 - 00:59:07,122] we'd already worked it out,
+- [00:59:07,122 - 00:59:09,122] that in the singlet state,
+- [00:59:09,122 - 00:59:11,122] the trace of every component of
+- [00:59:11,122 - 00:59:13,122] spin in any direction is zero,
+- [00:59:13,122 - 00:59:16,122] which means in any direction whatever,
+- [00:59:16,122 - 00:59:20,122] the spin is equally likely to be along that direction
+- [00:59:20,122 - 00:59:23,122] or opposite to that direction.
+- [00:59:23,122 - 00:59:25,122] We already knew this,
+- [00:59:25,122 - 00:59:28,122] and this was an example of a highly intelligent,
+- [00:59:28,122 - 00:59:30,122] highly entangled state.
+- [00:59:30,122 - 00:59:31,622] We also know that for no
+- [00:59:31,622 - 00:59:33,122] pure state of a single spin,
+- [00:59:33,122 - 00:59:35,122] is the average of the spin
+- [00:59:35,122 - 00:59:37,122] equal to zero in every direction.
+- [00:59:37,122 - 00:59:39,622] So this is another way of seeing
+- [00:59:39,622 - 00:59:42,122] that this cannot be a pure state.
+- [00:59:42,122 - 00:59:43,622] But the easy way to see
+- [00:59:43,622 - 00:59:45,122] that it's not a pure state
+- [00:59:45,122 - 00:59:49,122] is that the two eigenvalues here are both non-zero.
+- [00:59:49,122 - 00:59:52,122] So it has to be a mixed state.
+- [00:59:52,122 - 00:59:55,122] So the singlet state is a maximally mixed state.
+- [00:59:55,122 - 00:59:57,122] Let me take another one.
+- [00:59:58,122 - 01:00:04,122] Let's try the following.
+- [01:00:04,122 - 01:00:06,122] Let's see.
+- [01:00:17,122 - 01:00:18,122] I think I want one over
+- [01:00:18,122 - 01:00:19,122] the square root of 2 here.
+- [01:00:19,122 - 01:00:21,122] Let me just...
+- [01:00:23,122 - 01:00:25,122] Or do I want one half? Wait.
+- [01:00:28,122 - 01:00:30,122] I think I want one half.
+- [01:00:33,122 - 01:00:34,122] Yeah.
+- [01:00:38,122 - 01:00:40,122] Yeah, sure I do.
+- [01:00:40,122 - 01:00:42,122] One half and one half.
+- [01:00:46,122 - 01:00:48,122] Yeah, now it's normalized, right?
+- [01:00:48,122 - 01:00:50,122] I have 4 psi star psi.
+- [01:00:50,122 - 01:00:51,122] We give a quarter.
+- [01:00:51,122 - 01:00:52,122] A quarter plus a quarter
+- [01:00:52,122 - 01:00:53,122] plus a quarter plus a quarter.
+- [01:00:53,122 - 01:00:55,122] No minus. Plus.
+- [01:00:55,122 - 01:00:56,122] We give 1.
+- [01:00:56,122 - 01:00:58,622] So this is a normalized state
+- [01:00:58,622 - 01:01:01,122] with all entries equal to a half.
+- [01:01:01,122 - 01:01:03,622] Let's recalculate what we would get
+- [01:01:03,622 - 01:01:06,122] here if we had this situation.
+- [01:01:06,122 - 01:01:08,122] This is not the singlet state.
+- [01:01:08,122 - 01:01:10,122] All right, so now what do we have?
+- [01:01:10,122 - 01:01:12,122] We have up, up equals a half.
+- [01:01:12,122 - 01:01:14,122] So this is a quarter, right?
+- [01:01:20,122 - 01:01:21,122] Is that right?
+- [01:01:21,122 - 01:01:22,122] Right.
+- [01:01:22,122 - 01:01:24,122] And this is also a quarter.
+- [01:01:24,122 - 01:01:26,122] Quarter plus a quarter is again a half.
+- [01:01:26,122 - 01:01:28,122] No difference.
+- [01:01:28,122 - 01:01:30,122] All right, so this is still a half.
+- [01:01:30,122 - 01:01:32,122] This one is still a half.
+- [01:01:32,122 - 01:01:34,122] But so is this one.
+- [01:01:34,122 - 01:01:36,122] All the matrix elements are equal to a half.
+- [01:01:36,122 - 01:01:37,122] So it's a half times a
+- [01:01:37,122 - 01:01:38,122] half plus a half times a half.
+- [01:01:38,122 - 01:01:40,122] They're all equal to a half this time.
+- [01:01:42,122 - 01:01:43,122] And in fact, this one
+- [01:01:43,122 - 01:01:44,122] is also equal to a half.
+- [01:01:46,122 - 01:01:48,122] Now, this is the density matrix.
+- [01:01:48,122 - 01:01:50,122] So this is the density matrix.
+- [01:01:50,122 - 01:01:52,122] And this is the density matrix.
+- [01:01:52,122 - 01:01:54,122] So this is the density matrix.
+- [01:01:54,122 - 01:01:56,122] And this is the density matrix.
+- [01:01:58,122 - 01:02:00,122] Its trace is still equal to one.
+- [01:02:00,122 - 01:02:02,122] Its trace is still equal to one.
+- [01:02:02,122 - 01:02:04,122] That's good.
+- [01:02:04,122 - 01:02:06,122] Sums of the probabilities are equal to one.
+- [01:02:06,122 - 01:02:08,122] But what are the two eigenvalues of this matrix?
+- [01:02:08,122 - 01:02:10,122] But what are the two eigenvalues of this matrix?
+- [01:02:10,122 - 01:02:12,122] Are they equal?
+- [01:02:12,122 - 01:02:14,122] No, actually they're not.
+- [01:02:14,122 - 01:02:16,122] Let me show you what the two eigenvalues are.
+- [01:02:16,122 - 01:02:18,122] Let's calculate the two eigenvalues.
+- [01:02:22,122 - 01:02:23,122] Incidentally, do you know the theorem that
+- [01:02:23,122 - 01:02:24,122] says that the two eigenvalues are equal?
+- [01:02:24,122 - 01:02:24,622] Does the theorem say that the two eigenvalues are equal?
+- [01:02:24,622 - 01:02:25,122] Does the theorem say that the two eigenvalues are equal?
+- [01:02:25,122 - 01:02:25,622] Does it say that the sum
+- [01:02:25,622 - 01:02:26,122] of the two eigenvalues of this matrix
+- [01:02:26,122 - 01:02:28,122] is equal to its determinant?
+- [01:02:28,122 - 01:02:28,872] Is it distinct given its mates are
+- [01:02:28,872 - 01:02:29,622] equal every date or in a particular day.
+- [01:02:29,622 - 01:02:29,872] Is it distinct given its mates are
+- [01:02:29,872 - 01:02:30,122] equal every date or in a particular day.
+- [01:02:30,122 - 01:02:31,122] Is it distinct given its mates are equal?
+- [01:02:31,122 - 01:02:32,122] Is it apparent darker to find every entrant abut asists
+- [01:02:32,122 - 01:02:34,122] is equal and distinct in HEY e?
+- [01:02:34,122 - 01:02:36,622] Is it
+- [01:02:36,622 - 01:02:51,082] ển
+- [01:02:51,082 - 01:02:52,642] is equal and set to 1.
+- [01:02:52,642 - 01:02:53,242] is equal and set to 1.
+- [01:02:53,242 - 01:02:53,942] is equal and set to 1.
+- [01:02:54,122 - 01:02:55,301] That's good.
+- [01:02:55,301 - 01:02:57,341] The sum of the eigenvalues is equal to 1.
+- [01:02:57,341 - 01:03:00,662] What about the determinant of rho?
+- [01:03:00,662 - 01:03:01,622] Right.
+- [01:03:01,622 - 01:03:03,282] It's 1 half times 1 half
+- [01:03:03,282 - 01:03:04,942] minus 1 half times 1 half.
+- [01:03:04,942 - 01:03:10,022] So the product of the eigenvalues is 0.
+- [01:03:10,022 - 01:03:12,502] That means one of the eigenvalues is 0,
+- [01:03:12,502 - 01:03:14,462] and one of the eigenvalues is 1.
+- [01:03:18,142 - 01:03:20,162] What's that?
+- [01:03:20,162 - 01:03:22,162] Yeah, this is a product state.
+- [01:03:22,162 - 01:03:23,361] This is a product state.
+- [01:03:23,362 - 01:03:25,942] Can anybody guess what it corresponds to?
+- [01:03:28,382 - 01:03:29,942] Two unentangled electrons?
+- [01:03:29,942 - 01:03:30,442] It's what?
+- [01:03:30,442 - 01:03:33,402] Two unentangled electrons?
+- [01:03:33,402 - 01:03:35,642] It's two unentangled electrons, but what are the individual
+- [01:03:35,642 - 01:03:36,442] electrons doing?
+- [01:03:42,482 - 01:03:44,562] Yeah, they happen to be measured the same way,
+- [01:03:44,562 - 01:03:47,742] but which direction?
+- [01:03:47,742 - 01:03:48,442] In what direction?
+- [01:03:48,442 - 01:03:49,702] Along what axis?
+- [01:03:49,702 - 01:03:51,082] Z-up.
+- [01:03:51,082 - 01:03:52,402] X.
+- [01:03:52,402 - 01:03:53,062] OK.
+- [01:03:53,062 - 01:04:01,301] Let's calculate the expectation value of sigma z.
+- [01:04:01,301 - 01:04:03,622] Let's start with sigma 3.
+- [01:04:03,622 - 01:04:07,092] So for that, we take the
+- [01:04:07,092 - 01:04:10,562] trace of rho times sigma 3.
+- [01:04:10,562 - 01:04:12,342] Let's see what we get.
+- [01:04:12,342 - 01:04:15,582] Sigma 3, and it doesn't matter which order.
+- [01:04:15,582 - 01:04:18,662] Sigma 3 is 1 minus 1 0
+- [01:04:18,662 - 01:04:21,742] 0, and rho is 1 half 1 half.
+- [01:04:23,062 - 01:04:26,301] 1 half 1 half.
+- [01:04:26,301 - 01:04:28,402] OK, let's see what the product is.
+- [01:04:28,402 - 01:04:31,002] 1 times 1 half plus 0 times this.
+- [01:04:31,002 - 01:04:33,662] This is equal to 1 1.
+- [01:04:33,662 - 01:04:38,272] 1 times 1 half is 1 half,
+- [01:04:38,272 - 01:04:42,882] 0 times 1 half is 1 half.
+- [01:04:42,882 - 01:04:47,122] And now, minus 1 half minus 1 half.
+- [01:04:50,002 - 01:04:51,542] Now I have to take the trace of it.
+- [01:04:53,062 - 01:04:54,142] Trace is 0.
+- [01:04:54,142 - 01:04:58,222] So the expectation value of sigma 3 is, again, 0.
+- [01:04:58,222 - 01:05:00,301] The same will be true of sigma 2,
+- [01:05:00,301 - 01:05:02,181] but let's calculate the trace of
+- [01:05:02,181 - 01:05:04,062] the product row times sigma 1
+- [01:05:04,062 - 01:05:05,282] now.
+- [01:05:05,282 - 01:05:10,002] Let's put sigma 1 there and see what we get.
+- [01:05:10,002 - 01:05:16,042] Sigma 1 was the matrix 1, 1, 0, 0.
+- [01:05:16,042 - 01:05:18,832] OK, so on the top row times
+- [01:05:18,832 - 01:05:21,622] the first column, we get 1 half.
+- [01:05:21,622 - 01:05:24,722] Same thing over here.
+- [01:05:24,722 - 01:05:27,382] Looks like we get a half here also.
+- [01:05:27,382 - 01:05:31,702] Now we get the same thing.
+- [01:05:31,702 - 01:05:35,242] Everybody's a half, right?
+- [01:05:35,242 - 01:05:37,582] And the trace is equal to 1.
+- [01:05:37,582 - 01:05:42,022] So the expectation value of sigma 1 is 1.
+- [01:05:42,022 - 01:05:45,522] The expectation value of the other sigmas is 0.
+- [01:05:45,522 - 01:05:48,942] This is a pair of spins that happen
+- [01:05:48,942 - 01:05:51,442] to both be lying along the x-axis.
+- [01:05:51,622 - 01:05:53,622] It's a product.
+- [01:05:53,622 - 01:05:57,382] Its entropy is 0 because it has one 0 eigenvalue
+- [01:05:57,382 - 01:06:00,382] and one eigenvalue equal to 1.
+- [01:06:00,382 - 01:06:00,882] All right?
+- [01:06:00,882 - 01:06:03,132] So if somebody gave you
+- [01:06:03,132 - 01:06:05,382] this density matrix here and said,
+- [01:06:05,382 - 01:06:07,382] tell me, is it a pure state?
+- [01:06:07,382 - 01:06:10,382] All you have to do is calculate its eigenvalues
+- [01:06:10,382 - 01:06:13,122] and calculate its entropy.
+- [01:06:13,122 - 01:06:14,861] Or if they asked you, how pure is it?
+- [01:06:14,861 - 01:06:17,002] You could characterize it by its entropy.
+- [01:06:17,002 - 01:06:20,702] In this case, the entropy is 0.
+- [01:06:20,702 - 01:06:21,402] OK.
+- [01:06:21,402 - 01:06:23,382] So if you change these
+- [01:06:23,382 - 01:06:25,362] numbers a little bit, for example,
+- [01:06:25,362 - 01:06:30,802] make this instead of 1 half, make it 0.4,
+- [01:06:30,802 - 01:06:34,922] and make this one 0.4 or something like that,
+- [01:06:34,922 - 01:06:37,402] you'll change things a little bit.
+- [01:06:37,402 - 01:06:44,342] And instead of finding a 0 entropy density matrix,
+- [01:06:44,342 - 01:06:46,902] it will have a small amount of entropy.
+- [01:06:46,902 - 01:06:49,402] In other words, there'll be a small degree of entanglement.
+- [01:06:49,402 - 01:06:49,902] OK.
+- [01:06:51,402 - 01:06:57,062] So entropy, entanglement go together.
+- [01:07:01,022 - 01:07:05,082] And it's sometimes called the entropy
+- [01:07:05,082 - 01:07:08,322] that one gets this way because systems are entangled
+- [01:07:08,322 - 01:07:11,282] is called entanglement entropy.
+- [01:07:11,282 - 01:07:13,462] OK, let's take a little break.
+- [01:07:13,462 - 01:07:16,222] First of all, in the cases which we've been doing,
+- [01:07:16,222 - 01:07:18,412] we've assumed that the combined
+- [01:07:18,412 - 01:07:20,602] system is in a pure state.
+- [01:07:20,602 - 01:07:26,762] The combined composite system has a definite wave function.
+- [01:07:26,762 - 01:07:29,821] That means the combined system should be thought
+- [01:07:29,821 - 01:07:32,902] of as having a pure state.
+- [01:07:32,902 - 01:07:35,442] As far as the combined system goes,
+- [01:07:35,442 - 01:07:37,602] that means that its entropy is 0.
+- [01:07:37,602 - 01:07:39,682] There's no uncertainty in the wave function
+- [01:07:39,682 - 01:07:42,222] or in the state vector of a combined system.
+- [01:07:42,222 - 01:07:43,801] It has 0 entropy.
+- [01:07:43,801 - 01:07:45,642] The entropy that we're talking about now
+- [01:07:45,642 - 01:07:48,062] is the entropy of the
+- [01:07:48,062 - 01:07:50,482] subsystem, the subsystem now, which we'll
+- [01:07:50,482 - 01:07:53,102] be looking at, which is subsystem A.
+- [01:07:53,102 - 01:07:57,322] By virtue of the fact that it's entangled with B,
+- [01:07:57,322 - 01:07:59,342] A has an entropy.
+- [01:07:59,342 - 01:08:03,022] If you didn't look at B, A has an entropy.
+- [01:08:03,022 - 01:08:07,762] Notice one thing, and this is a general property
+- [01:08:07,762 - 01:08:09,792] of this kind of entanglement
+- [01:08:09,792 - 01:08:11,822] entropy or this kind of entropy.
+- [01:08:11,822 - 01:08:13,542] It doesn't add.
+- [01:08:13,542 - 01:08:16,002] The combined system has 0 entropy.
+- [01:08:16,002 - 01:08:19,102] The two subsystems each have, as a matter of fact,
+- [01:08:19,102 - 01:08:20,381] would have entropy of logger.
+- [01:08:20,381 - 01:08:21,761] And this is another killed this PROC
+- [01:08:21,761 - 01:08:23,192] so transfer of entropy is
+- [01:08:23,192 - 01:08:24,622] sometime after Rong in less than
+- [01:08:24,622 - 01:08:26,442] a notion ofeurial flow over a mean interval.
+- [01:08:26,442 - 01:08:27,282] So this is ezortunism.
+- [01:08:27,282 - 01:08:29,242] But this iszagging, and this is a very prefix
+- [01:08:29,242 - 01:08:30,902] chain, which results in a kind ofSTEAM thing
+- [01:08:30,902 - 01:08:31,921] in relation to the system.
+- [01:08:31,921 - 01:08:35,182] There is certain entropy, which isительization.
+- [01:08:35,182 - 01:08:38,002] It doesn't completely match what debug euphemisms
+- [01:08:38,002 - 01:08:40,782] invertix is all sort ofZon.
+- [01:08:40,782 - 01:08:45,242] That's anything you get in a Doyle system.
+- [01:08:45,242 - 01:08:47,381] I'm sorry, rearrangement.
+- [01:08:47,381 - 01:08:49,002] And the situation becomes a straight foe.
+- [01:08:49,002 - 01:08:49,902] So for this reason I'm ochint.
+- [01:08:49,902 - 01:08:50,242] Can I only use on 分?
+- [01:08:50,242 - 01:08:53,742] OK.
+- [01:08:53,742 - 01:08:56,142] So we have to distinguish between the entropy
+- [01:08:56,142 - 01:08:59,682] of the subsystem and the entropy of a composite system.
+- [01:08:59,682 - 01:09:01,712] And as I said, I'll say
+- [01:09:01,712 - 01:09:03,742] it once more, it is not additive.
+- [01:09:03,742 - 01:09:06,961] In the first statement, you
+- [01:09:06,961 - 01:09:09,002] mentioned entanglement entropy.
+- [01:09:09,002 - 01:09:10,622] But all the interpenetries you
+- [01:09:10,622 - 01:09:12,242] would find on quantum mechanics
+- [01:09:12,242 - 01:09:14,202] is all entanglement entropy?
+- [01:09:14,202 - 01:09:15,622] I think it's probably fair
+- [01:09:15,622 - 01:09:17,042] to say it really is always
+- [01:09:17,042 - 01:09:18,261] entanglement entropy.
+- [01:09:18,261 - 01:09:19,941] But sometimes it's a little bit obscure
+- [01:09:19,942 - 01:09:21,562] what's entangled with what.
+- [01:09:25,902 - 01:09:29,982] But if you count the magnets and the people who
+- [01:09:29,982 - 01:09:33,322] prepared the system and so forth,
+- [01:09:33,322 - 01:09:36,042] then the only reason there would
+- [01:09:36,042 - 01:09:38,761] be for not knowing which way
+- [01:09:38,761 - 01:09:43,702] a spin was prepared would be that the preparation was
+- [01:09:43,702 - 01:09:47,622] entangled with the thoughts of the preparer or something.
+- [01:09:47,622 - 01:09:49,902] But if we want to keep the observer
+- [01:09:49,902 - 01:09:52,921] out of it, we would just say that there's
+- [01:09:52,921 - 01:09:55,342] different probabilities.
+- [01:09:55,342 - 01:10:01,722] That's one origin of a density matrix.
+- [01:10:01,722 - 01:10:03,562] But the other origin is entanglement.
+- [01:10:03,562 - 01:10:06,722] I suspect probably entanglement covers them all.
+- [01:10:06,722 - 01:10:08,182] But then you would have
+- [01:10:08,182 - 01:10:09,642] to think about entanglement with what.
+- [01:10:09,642 - 01:10:13,082] And it can get complicated.
+- [01:10:13,082 - 01:10:14,982] All right, I want to leave the subject
+- [01:10:14,982 - 01:10:16,422] of entanglement for a while.
+- [01:10:16,422 - 01:10:17,862] I'm pretty sure we'll come back to it.
+- [01:10:17,862 - 01:10:19,862] But there's one thing we have in mind.
+- [01:10:19,902 - 01:10:22,902] And I haven't talked about it all.
+- [01:10:22,902 - 01:10:26,282] It's how states change with time.
+- [01:10:26,282 - 01:10:35,742] In classical physics, in classical logic,
+- [01:10:35,742 - 01:10:39,322] if we're dealing with a discrete system,
+- [01:10:39,322 - 01:10:42,442] if we're dealing with a
+- [01:10:42,442 - 01:10:45,562] discrete system with the configuration
+- [01:10:45,562 - 01:10:47,642] space being a system of points,
+- [01:10:47,642 - 01:10:49,722] could be just two points, heads
+- [01:10:49,722 - 01:10:51,042] or tails.
+- [01:10:51,042 - 01:10:53,202] The only kind of evolution that makes sense
+- [01:10:53,202 - 01:10:58,062] is discrete evolution, where time occurs in steps.
+- [01:10:58,062 - 01:11:00,362] And at each step, the
+- [01:11:00,362 - 01:11:02,662] system moves from one state vector
+- [01:11:02,662 - 01:11:06,102] to another state vector, from one configuration
+- [01:11:06,102 - 01:11:08,222] to another configuration.
+- [01:11:08,222 - 01:11:11,482] And you could simply represent
+- [01:11:11,482 - 01:11:14,742] the evolution by a permutation.
+- [01:11:14,742 - 01:11:17,282] If you start in this vector, sorry, keep saying vector.
+- [01:11:17,282 - 01:11:19,722] If you start with this state, you go to here.
+- [01:11:19,722 - 01:11:20,722] You might go to here.
+- [01:11:20,722 - 01:11:21,722] You go to here.
+- [01:11:21,722 - 01:11:22,722] You go to here.
+- [01:11:22,722 - 01:11:23,722] Here.
+- [01:11:23,722 - 01:11:24,722] Here.
+- [01:11:24,722 - 01:11:25,722] Here.
+- [01:11:25,722 - 01:11:26,722] Here.
+- [01:11:26,722 - 01:11:27,722] Here.
+- [01:11:27,722 - 01:11:30,722] And perhaps back to here.
+- [01:11:30,722 - 01:11:33,752] That would define the evolution of a
+- [01:11:33,752 - 01:11:36,782] system, just a permutation which tells you where
+- [01:11:36,782 - 01:11:39,782] every state goes.
+- [01:11:39,782 - 01:11:41,522] It doesn't have to be all connected like this.
+- [01:11:41,522 - 01:11:43,202] You could have four states.
+- [01:11:43,202 - 01:11:44,182] And the rule could be
+- [01:11:44,182 - 01:11:45,162] this one goes to this one.
+- [01:11:45,162 - 01:11:46,502] This one goes to this one.
+- [01:11:46,502 - 01:11:47,502] This one goes to this one.
+- [01:11:47,502 - 01:11:48,502] This one goes to this one.
+- [01:11:48,502 - 01:11:49,502] That's also a rule.
+- [01:11:49,722 - 01:11:50,722] OK.
+- [01:11:50,722 - 01:11:51,722] Excuse me.
+- [01:11:51,722 - 01:11:52,722] Why do it has to be discrete time?
+- [01:11:52,722 - 01:11:55,222] Well, because how are you going to go
+- [01:11:55,222 - 01:11:57,722] from one discrete state to another discrete state
+- [01:11:57,722 - 01:12:00,722] continuously?
+- [01:12:00,722 - 01:12:02,722] How are you going to go from heads to tails?
+- [01:12:02,722 - 01:12:04,722] Well, you could turn it over slowly.
+- [01:12:04,722 - 01:12:05,722] But no, no.
+- [01:12:05,722 - 01:12:07,722] But that would mean
+- [01:12:07,722 - 01:12:09,722] that there were intermediate configurations.
+- [01:12:09,722 - 01:12:12,722] That wouldn't really be a two configuration system.
+- [01:12:12,722 - 01:12:14,722] You're talking about discrete configurations.
+- [01:12:14,722 - 01:12:17,222] If there are discrete configurations, then I think
+- [01:12:17,222 - 01:12:19,722] you would have to say that you have
+- [01:12:19,722 - 01:12:20,722] to be able to do that.
+- [01:12:20,722 - 01:12:21,222] You're talking about that evolution
+- [01:12:21,222 - 01:12:21,722] would occur in discrete steps.
+- [01:12:21,722 - 01:12:25,862] In quantum mechanics, in some sense, you
+- [01:12:25,862 - 01:12:30,002] can have, well, we certainly have systems which
+- [01:12:30,002 - 01:12:36,722] are discrete, a finite number of orthonormal states.
+- [01:12:36,722 - 01:12:41,722] But the evolution of a system can be continuous.
+- [01:12:41,722 - 01:12:42,722] Now, why is that?
+- [01:12:42,722 - 01:12:43,722] You can have, well, why is that?
+- [01:12:43,722 - 01:12:44,722] You can continuously go from up to down.
+- [01:12:44,722 - 01:12:45,222] And that's the reason why we
+- [01:12:45,222 - 01:12:45,722] have this idea of the quantum system.
+- [01:12:45,722 - 01:12:46,722] It's a system that's not just a system.
+- [01:12:46,722 - 01:12:47,722] It's a system that's a system.
+- [01:12:47,722 - 01:12:48,722] It's a system that's a system.
+- [01:12:48,722 - 01:12:51,591] If you move the electron to down, up
+- [01:12:51,591 - 01:12:54,461] means a magnetic field pointing along the up axis
+- [01:12:54,461 - 01:12:57,341] has locked the electron into place.
+- [01:12:57,341 - 01:12:59,381] Down means the electron has been
+- [01:12:59,381 - 01:13:01,421] locked into place by a down magnet.
+- [01:13:01,421 - 01:13:04,421] And, of course, you have an
+- [01:13:04,421 - 01:13:07,421] infinite continuous number of possibilities in between.
+- [01:13:07,421 - 01:13:10,791] So although there's only two measurable possibilities for
+- [01:13:10,791 - 01:13:14,162] the up spin, so in that sense, the system
+- [01:13:14,162 - 01:13:15,421] is discrete.
+- [01:13:15,421 - 01:13:18,722] Nevertheless, you can continuously interpolate between them.
+- [01:13:18,722 - 01:13:22,502] and so that allows the possibility then
+- [01:13:22,502 - 01:13:26,881] that state vectors can vary continuously with time
+- [01:13:26,881 - 01:13:31,162] even for a system which is discrete
+- [01:13:31,162 - 01:13:33,392] in the sense that the dimension
+- [01:13:33,392 - 01:13:35,622] of the vector space is finite.
+- [01:13:36,782 - 01:13:41,682] Let's talk about how state vectors change with time.
+- [01:13:43,441 - 01:13:44,642] Now, there's an assumption,
+- [01:13:45,421 - 01:13:47,361] and the assumption, the basic assumption,
+- [01:13:47,362 - 01:13:51,502] is that the logical relationships between states
+- [01:13:51,502 - 01:13:53,742] doesn't change with time.
+- [01:13:54,162 - 01:13:56,282] For example, if you start with
+- [01:13:56,282 - 01:13:58,402] two states which are the same state
+- [01:13:58,402 - 01:14:02,242] and allow the system to evolve,
+- [01:14:03,302 - 01:14:04,792] of course, the two states
+- [01:14:04,792 - 01:14:06,282] will evolve into the same state.
+- [01:14:06,442 - 01:14:07,342] That's trivial.
+- [01:14:07,602 - 01:14:10,812] You start with a particular
+- [01:14:10,812 - 01:14:14,022] state and you let it evolve.
+- [01:14:14,022 - 01:14:15,742] It evolves into some definite state.
+- [01:14:17,122 - 01:14:17,182] Well,
+- [01:14:17,362 - 01:14:19,482] what about if there are two states of the system
+- [01:14:19,482 - 01:14:21,222] which are orthogonal to each other,
+- [01:14:22,222 - 01:14:24,222] spin up and spin down?
+- [01:14:24,962 - 01:14:28,482] Well, the assumption is that two orthogonal states
+- [01:14:28,482 - 01:14:31,142] of the same system, if you allow them to evolve,
+- [01:14:31,582 - 01:14:34,522] would evolve into two orthogonal states,
+- [01:14:35,042 - 01:14:36,862] that the distinctions, the
+- [01:14:36,862 - 01:14:38,682] fact that they're measurably different,
+- [01:14:39,122 - 01:14:40,742] will be preserved with time.
+- [01:14:41,962 - 01:14:43,722] You could imagine, incidentally,
+- [01:14:43,722 - 01:14:47,342] that's also true in the classical description,
+- [01:14:47,362 - 01:14:51,362] that you don't have the situation
+- [01:14:51,362 - 01:14:55,702] where two different states could evolve to the same state.
+- [01:14:55,862 - 01:14:58,082] That never happens in classical physics.
+- [01:14:58,582 - 01:15:00,422] You would lose memory then,
+- [01:15:02,202 - 01:15:03,482] and then maybe you go to here.
+- [01:15:06,202 - 01:15:07,682] Starting here, you could go to here,
+- [01:15:07,821 - 01:15:09,482] and maybe from here you go back to here.
+- [01:15:11,321 - 01:15:13,162] Well, then you would lose memory
+- [01:15:13,162 - 01:15:15,321] of whether you started here or here,
+- [01:15:15,321 - 01:15:16,962] because whether you start here or here,
+- [01:15:16,962 - 01:15:17,742] you wind up here.
+- [01:15:19,782 - 01:15:21,882] That doesn't happen in classical physics.
+- [01:15:23,242 - 01:15:25,622] There's never a loss of memory of whether...
+- [01:15:25,622 - 01:15:25,682] Yeah.
+- [01:15:26,262 - 01:15:30,142] So I was thinking bifurcation of nonlinear analysis,
+- [01:15:30,462 - 01:15:33,602] essentially you do have multiple steady states.
+- [01:15:34,582 - 01:15:36,321] Not at the microscopic level.
+- [01:15:36,861 - 01:15:38,742] Not at the microscopic level.
+- [01:15:40,262 - 01:15:40,821] Right.
+- [01:15:42,821 - 01:15:45,882] This is a principle of physics in classical physics.
+- [01:15:45,882 - 01:15:46,882] It's called concentration.
+- [01:15:46,962 - 01:15:49,782] It's a function of the conservation of phase-based volume.
+- [01:15:49,782 - 01:15:52,342] That the phase-based volume stays the same,
+- [01:15:52,342 - 01:15:54,382] never contracts or expands.
+- [01:15:54,382 - 01:16:00,382] But in quantum mechanics, it has another name.
+- [01:16:00,382 - 01:16:02,382] The other name is unitarity.
+- [01:16:02,382 - 01:16:04,882] But what it says is that
+- [01:16:04,882 - 01:16:07,382] the inner products between two states
+- [01:16:07,382 - 01:16:09,382] stay the same with time.
+- [01:16:09,382 - 01:16:12,382] If two things are orthogonal, they will remain orthogonal.
+- [01:16:12,382 - 01:16:14,382] Each state will change in its own way,
+- [01:16:14,382 - 01:16:16,821] but if state number one and state number two,
+- [01:16:16,821 - 01:16:18,821] are allowed to evolve with time,
+- [01:16:18,821 - 01:16:20,821] they will remain orthogonal.
+- [01:16:20,821 - 01:16:24,821] So for example, if you start with a spin up,
+- [01:16:24,821 - 01:16:27,821] and you put it into some magnetic field
+- [01:16:27,821 - 01:16:30,821] that could be doing complicated things,
+- [01:16:30,821 - 01:16:33,821] after a while the state will change with time.
+- [01:16:33,821 - 01:16:36,821] If you started with a state down,
+- [01:16:36,821 - 01:16:38,321] after a while it will
+- [01:16:38,321 - 01:16:39,821] change and become some other state.
+- [01:16:39,821 - 01:16:41,821] But the two final states
+- [01:16:41,821 - 01:16:43,822] will remain orthogonal to each other.
+- [01:16:43,822 - 01:16:45,502] So if you start with a spin up,
+- [01:16:45,502 - 01:16:46,702] and you put it into some magnetic field,
+- [01:16:46,702 - 01:16:48,702] it will continue to be orthogonal.
+- [01:16:48,702 - 01:16:50,702] All right, so the principle...
+- [01:16:50,702 - 01:16:54,702] Is that only if they're under exactly the same influence?
+- [01:16:54,702 - 01:16:55,702] Yeah, yeah, yeah.
+- [01:16:55,702 - 01:16:57,702] Under the same influence, right.
+- [01:16:57,702 - 01:16:58,702] Right.
+- [01:16:58,702 - 01:16:59,702] Yes, absolutely.
+- [01:16:59,702 - 01:17:00,702] Yeah?
+- [01:17:00,702 - 01:17:02,202] So if one spins up,
+- [01:17:02,202 - 01:17:03,702] one spins down along the z-axis,
+- [01:17:03,702 - 01:17:05,702] and you put it into
+- [01:17:05,702 - 01:17:07,702] a magnetic field along the x-axis,
+- [01:17:07,702 - 01:17:10,702] it would continue to be orthogonal?
+- [01:17:10,702 - 01:17:11,702] Yeah.
+- [01:17:11,702 - 01:17:13,202] What'll happen is if you
+- [01:17:13,202 - 01:17:14,702] put it into a magnetic field
+- [01:17:14,702 - 01:17:16,702] along the x-axis,
+- [01:17:16,702 - 01:17:19,702] and you start with either a spin up or down,
+- [01:17:19,702 - 01:17:22,702] they will begin to process, they will rotate.
+- [01:17:22,702 - 01:17:23,702] All right?
+- [01:17:23,702 - 01:17:25,702] So they might rotate after half a period or something
+- [01:17:25,702 - 01:17:27,702] to one being along this axis,
+- [01:17:27,702 - 01:17:29,702] the other being along this axis.
+- [01:17:29,702 - 01:17:32,702] But those are orthogonal to each other.
+- [01:17:32,702 - 01:17:33,702] Okay?
+- [01:17:33,702 - 01:17:36,702] So orthogonality is maintained with time.
+- [01:17:36,702 - 01:17:38,702] Even stronger...
+- [01:17:41,702 - 01:17:44,702] inner product is...
+- [01:17:44,702 - 01:17:48,702] inner product between two vectors is time independent.
+- [01:17:48,702 - 01:17:50,702] So let's...
+- [01:17:55,702 - 01:17:58,702] Actually, I should say that's the second principle
+- [01:17:58,702 - 01:18:00,702] of time evolution.
+- [01:18:00,702 - 01:18:04,702] The first principle of time evolution
+- [01:18:04,702 - 01:18:09,702] is that it's governed by a linear operator.
+- [01:18:09,702 - 01:18:12,702] Let's start with the first principle first.
+- [01:18:12,702 - 01:18:14,702] Start with any state psi.
+- [01:18:14,702 - 01:18:17,702] It could be any state of the system.
+- [01:18:17,702 - 01:18:21,702] And let's imagine it at time zero.
+- [01:18:21,702 - 01:18:23,702] Okay?
+- [01:18:24,702 - 01:18:26,702] After a certain amount of time,
+- [01:18:26,702 - 01:18:28,702] it evolves to a new state,
+- [01:18:28,702 - 01:18:31,702] which is the state at time t.
+- [01:18:36,702 - 01:18:39,702] The principle of quantum mechanics
+- [01:18:39,702 - 01:18:41,702] that I'm going to say now
+- [01:18:41,702 - 01:18:43,702] is first of all that the evolution is linear.
+- [01:18:43,702 - 01:18:46,702] This can be summarized very easily
+- [01:18:46,702 - 01:18:49,702] by saying that psi of t
+- [01:18:49,702 - 01:18:52,702] is always equal to some linear operator.
+- [01:18:52,702 - 01:18:54,702] I'm going to call it u,
+- [01:18:54,702 - 01:18:57,702] which is a function of time,
+- [01:18:57,702 - 01:18:59,702] times psi of zero.
+- [01:19:01,702 - 01:19:03,702] What is u of time t equals zero?
+- [01:19:03,702 - 01:19:05,702] What is u of zero?
+- [01:19:07,702 - 01:19:09,702] One.
+- [01:19:09,702 - 01:19:11,702] The state psi at time zero
+- [01:19:11,702 - 01:19:13,702] is just equal to the state at psi...
+- [01:19:13,702 - 01:19:15,702] at time equal to zero.
+- [01:19:15,702 - 01:19:16,702] So whatever u is,
+- [01:19:16,702 - 01:19:19,702] it's equal to one when t is equal to zero.
+- [01:19:20,702 - 01:19:22,702] But at some later time,
+- [01:19:22,702 - 01:19:24,702] the state vector is changed,
+- [01:19:24,702 - 01:19:26,702] and the assumption...
+- [01:19:26,702 - 01:19:28,702] Now, this is, again,
+- [01:19:28,702 - 01:19:30,702] one of these things which is justified
+- [01:19:30,702 - 01:19:32,702] by its empirical success.
+- [01:19:33,702 - 01:19:34,702] Right?
+- [01:19:34,702 - 01:19:36,702] It's justified by its empirical success.
+- [01:19:36,702 - 01:19:38,702] But you will see as we go along
+- [01:19:38,702 - 01:19:41,702] how this connects to other things in physics,
+- [01:19:41,702 - 01:19:42,702] and why...
+- [01:19:43,702 - 01:19:45,702] why it might be...
+- [01:19:45,702 - 01:19:47,702] how we know this is true.
+- [01:19:47,702 - 01:19:49,702] But let's just take it as an assumption
+- [01:19:49,702 - 01:19:51,702] that there exists a linear operator
+- [01:19:51,702 - 01:19:53,702] which is dependent on time.
+- [01:19:53,702 - 01:19:55,702] It's not just a fixed linear operator.
+- [01:19:55,702 - 01:19:57,702] It evolves with time,
+- [01:19:57,702 - 01:19:59,702] and whatever the state is at time zero,
+- [01:19:59,702 - 01:20:01,702] you'll hit it with u of t
+- [01:20:01,702 - 01:20:04,702] to find out what it's doing at a later time.
+- [01:20:04,702 - 01:20:07,702] That's the first principle of time evolution.
+- [01:20:07,702 - 01:20:10,702] The second principle of time evolution
+- [01:20:10,702 - 01:20:12,702] is that if we have two vectors,
+- [01:20:12,702 - 01:20:14,702] and now I'm writing a bra and a ket,
+- [01:20:14,702 - 01:20:16,702] and we allow them to evolve with time,
+- [01:20:16,702 - 01:20:18,702] both of them,
+- [01:20:20,702 - 01:20:22,702] that the inner product between them
+- [01:20:22,702 - 01:20:25,702] is unchanged with time.
+- [01:20:25,702 - 01:20:26,702] In other words,
+- [01:20:26,702 - 01:20:29,702] that it's equal to phi of zero
+- [01:20:29,702 - 01:20:31,702] times psi of zero
+- [01:20:31,702 - 01:20:34,702] for any value of the time.
+- [01:20:34,702 - 01:20:36,702] This is the statement that distinctions
+- [01:20:36,702 - 01:20:38,702] between states
+- [01:20:38,702 - 01:20:40,702] are maintained with time
+- [01:20:40,702 - 01:20:41,702] if they're orthogonal.
+- [01:20:41,702 - 01:20:42,702] That's enough actually just to know
+- [01:20:42,702 - 01:20:45,702] that orthogonal states go to orthogonal states.
+- [01:20:45,702 - 01:20:46,702] From that you can prove
+- [01:20:46,702 - 01:20:51,702] that inner products remain invariant.
+- [01:20:51,702 - 01:20:54,702] But in particular, for example,
+- [01:20:54,702 - 01:20:57,702] if phi and psi are the same,
+- [01:20:57,702 - 01:20:59,702] then this is just a normalization.
+- [01:20:59,702 - 01:21:02,702] Phi phi is just a normalization
+- [01:21:02,702 - 01:21:05,702] which we normally set equal to one.
+- [01:21:05,702 - 01:21:07,702] This is just a statement then,
+- [01:21:07,702 - 01:21:09,702] if phi is equal to psi,
+- [01:21:09,702 - 01:21:11,702] it's just a statement that the,
+- [01:21:11,702 - 01:21:14,702] the total probability doesn't change with time.
+- [01:21:14,702 - 01:21:16,702] That the normalization of the state
+- [01:21:16,702 - 01:21:18,702] doesn't change with time.
+- [01:21:18,702 - 01:21:19,702] On the other hand,
+- [01:21:19,702 - 01:21:22,702] if phi is orthogonal to psi,
+- [01:21:22,702 - 01:21:23,702] then what it says is that
+- [01:21:23,702 - 01:21:26,702] psi and phi are measurably different.
+- [01:21:26,702 - 01:21:29,702] There's an experiment that you can do
+- [01:21:29,702 - 01:21:31,702] to distinguish them uniquely,
+- [01:21:31,702 - 01:21:33,702] and that will be true either at time,
+- [01:21:33,702 - 01:21:35,702] if it's true at time t equals zero,
+- [01:21:35,702 - 01:21:37,702] it will continue to be true at a later time.
+- [01:21:37,702 - 01:21:40,702] So the logical relations between states
+- [01:21:40,702 - 01:21:42,702] stay invariant with time.
+- [01:21:42,702 - 01:21:44,702] That's an assumption, of course,
+- [01:21:44,702 - 01:21:48,702] but it is true.
+- [01:21:48,702 - 01:21:52,702] Alright, let's see what this condition here,
+- [01:21:52,702 - 01:21:54,702] and this is true for any pair of vectors,
+- [01:21:54,702 - 01:21:56,702] psi and phi.
+- [01:21:59,702 - 01:22:01,702] Let's see what it says about u.
+- [01:22:01,702 - 01:22:02,702] Okay.
+- [01:22:02,702 - 01:22:05,702] Psi is equal to u of t times psi,
+- [01:22:05,702 - 01:22:07,702] but let's look at the bra vector.
+- [01:22:07,702 - 01:22:09,702] What about the bra vector?
+- [01:22:10,702 - 01:22:12,702] What about the bra vector?
+- [01:22:12,702 - 01:22:13,702] It's a few.
+- [01:22:13,702 - 01:22:14,702] It's a few.
+- [01:22:14,702 - 01:22:15,702] It's a few, yeah.
+- [01:22:15,702 - 01:22:16,702] So, that's a few.
+- [01:22:16,702 - 01:22:17,702] It's a few, yeah.
+- [01:22:17,702 - 01:22:19,702] So, I write u here?
+- [01:22:19,702 - 01:22:22,702] You dagger,
+- [01:22:22,702 - 01:22:25,702] the Hermitian conjugate.
+- [01:22:25,702 - 01:22:27,702] Remember when you,
+- [01:22:27,702 - 01:22:29,702] when you Hermitian conjugate
+- [01:22:29,702 - 01:22:31,702] or when you complex conjugate
+- [01:22:31,702 - 01:22:33,702] an expression,
+- [01:22:33,702 - 01:22:35,702] you have to put in
+- [01:22:35,702 - 01:22:37,702] the Hermitian conjugate here.
+- [01:22:37,702 - 01:22:39,702] Alright, now let's see what happens to
+- [01:22:39,702 - 01:22:41,762] happens to phi times psi?
+- [01:22:41,762 - 01:22:47,512] This is equal, well, it's equal on
+- [01:22:47,512 - 01:22:53,262] the one hand to phi of 0 u
+- [01:22:53,262 - 01:23:04,242] dagger u times psi of 0.
+- [01:23:04,242 - 01:23:06,171] But it's also equal to just
+- [01:23:06,171 - 01:23:08,101] phi of 0 psi of 0.
+- [01:23:14,242 - 01:23:18,022] And this is presumed to be true for every vector,
+- [01:23:18,022 - 01:23:19,862] every pair of vectors psi
+- [01:23:19,862 - 01:23:21,702] of 0 and phi of 0.
+- [01:23:21,702 - 01:23:25,542] Well, if an equation, I won't prove this.
+- [01:23:25,542 - 01:23:28,061] This is more or less obvious.
+- [01:23:28,061 - 01:23:32,282] If an equation like this is true for every vector,
+- [01:23:32,282 - 01:23:34,242] every pair of vectors in the vector space,
+- [01:23:34,242 - 01:23:36,942] there's only one conclusion.
+- [01:23:36,942 - 01:23:40,022] And that conclusion is that u dagger u
+- [01:23:40,022 - 01:23:41,622] must be the unit operator.
+- [01:23:44,802 - 01:23:47,582] That's something easy to prove, very easy to prove.
+- [01:23:47,582 - 01:23:50,902] I'll leave it to you to prove that if there's
+- [01:23:50,902 - 01:23:58,802] an operator whose matrix element between any pair of states
+- [01:23:58,802 - 01:24:00,582] is the same as just
+- [01:24:00,582 - 01:24:02,362] the inner product between those states,
+- [01:24:02,362 - 01:24:04,242] it follows that operator.
+- [01:24:04,242 - 01:24:06,061] But is there any solution for this problem?
+- [01:24:06,061 - 01:24:08,762] Let's try to do what Hart said.
+- [01:24:09,061 - 01:24:11,622] Let's say if this is a specific matrix
+- [01:24:11,622 - 01:24:15,362] that would have to be joined pole matrix,
+- [01:24:15,362 - 01:24:19,402] or polar sporad creep, to add this piece,
+- [01:24:19,422 - 01:24:22,101] then there must be not only asanth Fruit,
+- [01:24:22,122 - 01:24:24,042] but aıs.
+- [01:24:24,042 - 01:24:26,962] But there must also be an operator
+- [01:24:26,982 - 01:24:29,442] that is the unit matrix.
+- [01:24:29,442 - 01:24:30,742] We're going to show how to
+- [01:24:30,742 - 01:24:32,042] let's take the matrix using this.
+- [01:24:32,742 - 01:24:33,181] Oppower.
+- [01:24:33,181 - 01:24:33,762] Down, esto.
+- [01:24:33,762 - 01:24:34,061] Out.
+- [01:24:34,062 - 01:24:36,122] conjugate is 1, what does that say about the number?
+- [01:24:40,682 - 01:24:41,622] It's a phase.
+- [01:24:41,902 - 01:24:44,222] It's a pure phase. It's an e to the i
+- [01:24:44,222 - 01:24:45,522] theta of some sort.
+- [01:24:45,942 - 01:24:47,942] On the complex plane, it says that
+- [01:24:47,942 - 01:24:50,262] it's on the unit circle.
+- [01:24:51,662 - 01:24:52,482] It's unit
+- [01:24:52,482 - 01:24:53,262] in length.
+- [01:24:55,322 - 01:24:56,422] If u dagger u
+- [01:24:56,422 - 01:24:58,262] is equal to 1, if it were a number.
+- [01:25:00,242 - 01:25:00,562] Matrices
+- [01:25:00,562 - 01:25:02,402] with this property are called unitary.
+- [01:25:04,062 - 01:25:04,582] So
+- [01:25:04,582 - 01:25:07,042] one would say that the time evolution
+- [01:25:07,042 - 01:25:08,282] of quantum systems
+- [01:25:08,282 - 01:25:11,202] is governed by unitary operators
+- [01:25:11,202 - 01:25:12,562] which depend on time.
+- [01:25:19,022 - 01:25:20,962] Let's imagine a very
+- [01:25:20,962 - 01:25:22,362] small time interval.
+- [01:25:22,942 - 01:25:25,142] A time interval of magnitude epsilon
+- [01:25:25,142 - 01:25:27,262] where epsilon is a very small number.
+- [01:25:27,602 - 01:25:29,202] So small that we can ignore
+- [01:25:29,202 - 01:25:30,362] the square of epsilon.
+- [01:25:34,062 - 01:25:36,502] In other words, in our equations,
+- [01:25:36,662 - 01:25:38,782] we're going to retain things just to first order
+- [01:25:38,782 - 01:25:39,202] in epsilon.
+- [01:25:40,622 - 01:25:42,062] And let's see what it says
+- [01:25:42,062 - 01:25:45,242] for a matrix to be
+- [01:25:45,242 - 01:25:47,742] unitary.
+- [01:25:48,742 - 01:25:50,762] First of all, if t
+- [01:25:50,762 - 01:25:51,982] is equal to 0,
+- [01:25:52,782 - 01:25:57,022] in other words, if epsilon is equal to 0,
+- [01:25:57,362 - 01:25:59,042] epsilon is a little interval of time.
+- [01:25:59,762 - 01:26:00,802] If epsilon is
+- [01:26:00,802 - 01:26:01,482] equal to 0,
+- [01:26:02,482 - 01:26:03,922] then u is equal
+- [01:26:03,922 - 01:26:05,602] to 1. So let's write down
+- [01:26:05,602 - 01:26:06,642] u of epsilon
+- [01:26:06,642 - 01:26:13,302] epsilon is a small interval of time.
+- [01:26:13,942 - 01:26:15,382] Starts out being 1
+- [01:26:15,382 - 01:26:17,922] and then there's some small correction to it
+- [01:26:17,922 - 01:26:19,942] and that correction is of order
+- [01:26:19,942 - 01:26:22,182] epsilon. Let's assume it's of order epsilon
+- [01:26:22,182 - 01:26:27,742] times some operator, which is
+- [01:26:27,742 - 01:26:28,922] the first order correction.
+- [01:26:30,102 - 01:26:31,682] Alright, now I am going to
+- [01:26:33,922 - 01:26:37,722] just to avoid changing definitions in midstream,
+- [01:26:38,842 - 01:26:40,702] I'm gonna put a minus sign here.
+- [01:26:41,262 - 01:26:42,922] But that's purely a definition.
+- [01:26:43,982 - 01:26:46,322] I'm gonna call the operator here h.
+- [01:26:50,282 - 01:26:52,182] And I'm also gonna put an i here.
+- [01:26:52,602 - 01:26:56,262] This i so far has no special meaning.
+- [01:26:56,882 - 01:26:58,802] It's arbitrary.
+- [01:26:59,042 - 01:27:01,502] I could absorb it into the h if I like.
+- [01:27:01,502 - 01:27:03,802] And I could also absorb the minus sign in.
+- [01:27:03,922 - 01:27:06,662] And I could have just written 1 minus epsilon h.
+- [01:27:07,162 - 01:27:09,332] But for later purposes, I know that
+- [01:27:09,332 - 01:27:11,502] I'm going to want to define h
+- [01:27:11,502 - 01:27:13,882] so that there's an i here and a minus sign.
+- [01:27:14,502 - 01:27:16,442] The minus sign is completely arbitrary.
+- [01:27:17,222 - 01:27:21,602] The i is a nice definition, as we'll see.
+- [01:27:23,682 - 01:27:26,732] So let's see what the condition on
+- [01:27:26,732 - 01:27:29,782] h is for u to be unitary.
+- [01:27:30,762 - 01:27:31,842] Let's write it down.
+- [01:27:31,842 - 01:27:34,082] u dagger u, or what is u dagger?
+- [01:27:34,782 - 01:27:37,532] u dagger of epsilon is
+- [01:27:37,532 - 01:27:40,282] equal to 1 plus i epsilon.
+- [01:27:40,522 - 01:27:42,272] Remember, we have to complex conjugate
+- [01:27:42,272 - 01:27:44,022] everything when we take a mission conjugate.
+- [01:27:44,542 - 01:27:46,372] And then we have to
+- [01:27:46,372 - 01:27:48,202] write the Hermitian conjugate of h.
+- [01:27:49,722 - 01:27:51,902] The Hermitian conjugate of 1 is just 1.
+- [01:27:53,282 - 01:27:55,732] The Hermitian, the complex conjugate of
+- [01:27:55,732 - 01:27:58,182] i epsilon is minus i epsilon.
+- [01:27:58,182 - 01:28:01,502] So the sign changes here, and we substitute for h.
+- [01:28:01,502 - 01:28:02,782] We substitute h dagger.
+- [01:28:03,482 - 01:28:05,662] And now we multiply the two of them
+- [01:28:05,662 - 01:28:08,512] and eventually use the approximation
+- [01:28:08,512 - 01:28:11,362] that we can ignore epsilon squared
+- [01:28:11,362 - 01:28:13,102] and only keep things to order epsilon.
+- [01:28:14,462 - 01:28:16,602] All right, so the product is
+- [01:28:16,602 - 01:28:18,742] 1 plus i epsilon h dagger
+- [01:28:18,742 - 01:28:23,242] times 1 minus i epsilon h.
+- [01:28:25,182 - 01:28:26,762] What does that have to equal?
+- [01:28:26,762 - 01:28:31,482] Well, if u is unitary, that has to equal 1.
+- [01:28:31,502 - 01:28:34,402] So let's expand it out.
+- [01:28:35,542 - 01:28:39,442] 1, now we have 1 times minus i epsilon h,
+- [01:28:39,582 - 01:28:41,162] minus i epsilon h,
+- [01:28:41,662 - 01:28:47,062] and then we have plus i epsilon h dagger,
+- [01:28:47,922 - 01:28:51,122] and then we have something of order epsilon squared.
+- [01:28:53,242 - 01:28:55,242] All of that has to equal 1,
+- [01:28:55,302 - 01:28:57,982] and we're going to ignore epsilon squared.
+- [01:28:58,882 - 01:29:00,302] Epsilon is so small,
+- [01:29:00,582 - 01:29:01,482] that we're going to have to ignore epsilon squared.
+- [01:29:01,482 - 01:29:02,301] And we can ignore it.
+- [01:29:04,622 - 01:29:06,582] We don't want to ignore epsilon,
+- [01:29:07,082 - 01:29:10,101] the reason being that the 1s cancel on both sides.
+- [01:29:11,881 - 01:29:14,141] The 1s cancel on both sides,
+- [01:29:14,261 - 01:29:18,141] and so the leading term is proportional to epsilon.
+- [01:29:18,801 - 01:29:19,522] And what do we get?
+- [01:29:19,582 - 01:29:23,461] We get i epsilon h dagger
+- [01:29:23,461 - 01:29:27,341] minus h should be equal to 0.
+- [01:29:29,442 - 01:29:30,702] Or in other words,
+- [01:29:30,702 - 01:29:35,641] the leading order in epsilon h dagger,
+- [01:29:35,862 - 01:29:38,422] the conclusion is that h dagger equals h.
+- [01:29:42,422 - 01:29:44,242] In other words, h is her mission.
+- [01:29:50,762 - 01:29:51,942] h has a name.
+- [01:29:53,302 - 01:29:54,822] It's called the Hamiltonian.
+- [01:29:55,702 - 01:29:58,061] It's her mission, so it's an observable.
+- [01:29:58,061 - 01:30:00,561] And the observable that it corresponds to,
+- [01:30:00,702 - 01:30:02,202] is the energy of a system.
+- [01:30:03,942 - 01:30:06,262] The eigenvalues of the matrix h
+- [01:30:06,262 - 01:30:08,582] are the energy levels of a system.
+- [01:30:11,302 - 01:30:12,601] But this was the main point,
+- [01:30:13,061 - 01:30:15,762] that defined in this way with the i here,
+- [01:30:16,362 - 01:30:18,082] h should be her mission.
+- [01:30:22,322 - 01:30:23,762] We can write this another way.
+- [01:30:23,762 - 01:30:25,862] Let's write it another way, the following way.
+- [01:30:27,482 - 01:30:30,262] Let's write psi of epsilon,
+- [01:30:30,702 - 01:30:35,862] minus psi of 0.
+- [01:30:36,101 - 01:30:36,782] What is that?
+- [01:30:38,782 - 01:30:39,442] All right.
+- [01:30:41,782 - 01:30:45,262] Psi of epsilon is 1 minus
+- [01:30:45,262 - 01:30:48,742] i epsilon h times psi of 0,
+- [01:30:49,802 - 01:30:53,822] minus psi of 0.
+- [01:30:55,742 - 01:30:57,542] Well, that just means the 1s cancel.
+- [01:30:58,542 - 01:31:00,681] Psi of epsilon minus psi of 0,
+- [01:31:00,702 - 01:31:06,202] is just equal to minus i epsilon h psi.
+- [01:31:09,942 - 01:31:11,782] It's just the difference between them,
+- [01:31:11,782 - 01:31:14,782] the extra little piece in u that comes from here.
+- [01:31:21,302 - 01:31:23,022] This is a difference, but let
+- [01:31:23,022 - 01:31:24,742] me divide it now by epsilon.
+- [01:31:25,622 - 01:31:28,422] Divide everything, both sides of the equation by epsilon.
+- [01:31:30,702 - 01:31:36,902] Well, this looks like the derivative of psi.
+- [01:31:37,082 - 01:31:38,742] We'll now let epsilon be very small.
+- [01:31:39,122 - 01:31:41,322] Take the limit that epsilon is very small now.
+- [01:31:41,922 - 01:31:43,392] This is the difference of
+- [01:31:43,392 - 01:31:44,862] something at epsilon and at 0,
+- [01:31:44,942 - 01:31:46,022] divided by epsilon.
+- [01:31:46,722 - 01:31:49,641] This is the derivative of psi,
+- [01:31:51,302 - 01:31:52,802] with respect to epsilon.
+- [01:31:53,582 - 01:31:54,922] Or with respect to t.
+- [01:31:55,882 - 01:31:58,422] Epsilon is just a small interval of time.
+- [01:32:00,202 - 01:32:00,262] All right.
+- [01:32:00,702 - 01:32:02,852] So the change in epsilon divided
+- [01:32:02,852 - 01:32:05,002] by a small interval of time,
+- [01:32:05,422 - 01:32:07,301] that's the derivative of the
+- [01:32:07,301 - 01:32:09,181] state vector with respect to time,
+- [01:32:09,662 - 01:32:14,402] is equal to minus i h on psi.
+- [01:32:15,181 - 01:32:18,742] This tells you how the wave function of a system,
+- [01:32:18,902 - 01:32:19,981] or how the state vector
+- [01:32:19,981 - 01:32:21,061] of a system, I should say,
+- [01:32:21,422 - 01:32:23,202] how it changes with time.
+- [01:32:24,662 - 01:32:30,162] h being her mission guarantees that u is unitary.
+- [01:32:30,702 - 01:32:34,042] If it's unitary, it guarantees that the logical relations
+- [01:32:34,122 - 01:32:36,402] between states are maintained with time.
+- [01:32:37,542 - 01:32:42,942] And this is the equation which governs the evolution
+- [01:32:43,002 - 01:32:44,942] of every quantum system.
+- [01:32:45,622 - 01:32:48,262] Of course, you may get to pick what h is.
+- [01:32:48,322 - 01:32:50,022] I haven't told you what h is.
+- [01:32:50,582 - 01:32:52,742] h may depend on a particular setup.
+- [01:32:54,181 - 01:32:56,071] For example, h may depend on
+- [01:32:56,071 - 01:32:57,962] the magnitude of a magnetic field.
+- [01:32:58,582 - 01:33:00,382] It could depend on all kinds of things.
+- [01:33:00,702 - 01:33:03,462] The only thing we learn from general principles
+- [01:33:04,002 - 01:33:06,822] is that the Hamiltonian should be a her mission operator.
+- [01:33:07,922 - 01:33:12,002] A her mission operator has eigenvalues and eigenvectors,
+- [01:33:12,462 - 01:33:16,702] and the eigenvalues are called the energy levels.
+- [01:33:18,462 - 01:33:20,142] So this is the way
+- [01:33:20,142 - 01:33:21,822] a state vector changes with time.
+- [01:33:23,822 - 01:33:26,462] In principle, h can be a function of time.
+- [01:33:28,462 - 01:33:30,202] For example, if you have an electron
+- [01:33:30,202 - 01:33:32,962] in a magnetic field and you change the magnetic field.
+- [01:33:34,702 - 01:33:38,702] But if you have a situation where nothing is changing,
+- [01:33:39,122 - 01:33:40,722] magnetic field or whatever it
+- [01:33:40,722 - 01:33:42,322] happens that's governing the system
+- [01:33:42,782 - 01:33:44,502] happens to be time independent,
+- [01:33:44,862 - 01:33:47,822] under that circumstance, h is
+- [01:33:47,822 - 01:33:50,782] simply a fixed definite matrix,
+- [01:33:50,862 - 01:33:55,202] a fixed definite operator that is called the Hamiltonian.
+- [01:34:00,202 - 01:34:06,181] A that contains space, Wash would say自由.
+- [01:34:06,282 - 01:34:08,622] So, that's trzy Schulz's question.
+- [01:34:08,702 - 01:34:14,782] And if you want to think aboutode
+- [01:34:14,882 - 01:34:25,641] or say, if you compare J
+- [01:34:25,722 - 01:34:27,482] by P 영화,
+- [01:34:27,582 - 01:34:29,141] what would J comes back to?
+- [01:34:29,242 - 01:34:29,502] It's that.
+- [01:34:29,561 - 01:34:30,002] It's that.
+- [01:34:30,002 - 01:34:30,181] It's that.
+- [01:34:30,202 - 01:34:33,802] No, the only thing you can conclude
+- [01:34:33,802 - 01:34:37,402] is if you have two different state vectors,
+- [01:34:37,542 - 01:34:40,082] the inner product of them remains invariant with time.
+- [01:34:40,662 - 01:34:45,141] Now that doesn't tell you that entanglement...
+- [01:34:45,141 - 01:34:51,181] No, that is not correct, the two things.
+- [01:34:51,181 - 01:34:53,621] If it were correct, you would not
+- [01:34:53,621 - 01:34:56,061] be able to entangle one thing with another.
+- [01:34:56,742 - 01:34:58,982] If they were unentangled, they would remain unentangled.
+- [01:34:58,982 - 01:35:01,002] And measurements could not be done.
+- [01:35:02,282 - 01:35:03,982] So no, that does not follow.
+- [01:35:08,002 - 01:35:12,721] Do we have a unit for entanglement somewhere?
+- [01:35:12,982 - 01:35:13,742] Yeah, the entropy.
+- [01:35:14,881 - 01:35:17,261] That's the unit of entanglement.
+- [01:35:17,421 - 01:35:18,141] And that's Jules.
+- [01:35:19,002 - 01:35:19,542] It is what?
+- [01:35:20,061 - 01:35:20,482] Jules.
+- [01:35:20,742 - 01:35:22,181] Oh, no, no, no, no.
+- [01:35:22,341 - 01:35:27,322] Entropy is a pure number.
+- [01:35:28,522 - 01:35:28,961] Yeah.
+- [01:35:28,982 - 01:35:30,301] It's a state description.
+- [01:35:30,961 - 01:35:32,841] It describes the set relationships.
+- [01:35:33,461 - 01:35:34,242] And it has no...
+- [01:35:34,242 - 01:35:34,801] No dimensions.
+- [01:35:35,301 - 01:35:35,862] No dimensions.
+- [01:35:36,322 - 01:35:37,282] It's measured in bits.
+- [01:35:38,002 - 01:35:39,912] It's measured in bits, but bits are
+- [01:35:39,912 - 01:35:41,822] measured in units of log 2 or something.
+- [01:35:43,362 - 01:35:43,841] Right.
+- [01:35:44,282 - 01:35:45,022] No, no, no, okay.
+- [01:35:46,881 - 01:35:48,442] Yeah, yeah, yeah, yeah.
+- [01:35:49,381 - 01:35:52,381] No, all right, so let's go through units.
+- [01:35:53,261 - 01:35:54,991] The standard thermodynamic
+- [01:35:54,991 - 01:35:56,721] units, the standard thermodynamics,
+- [01:35:56,721 - 01:35:58,742] let's write a thermodynamic equation.
+- [01:35:58,982 - 01:36:00,742] Here's a thermodynamic equation.
+- [01:36:01,561 - 01:36:03,201] The differential change in the energy
+- [01:36:03,201 - 01:36:04,841] and the heat of a system
+- [01:36:04,841 - 01:36:10,301] is the temperature times ds, but let's see,
+- [01:36:10,381 - 01:36:12,162] we usually put a k in there or not.
+- [01:36:12,862 - 01:36:14,101] No, no k in there, right?
+- [01:36:14,801 - 01:36:15,502] Ah, no.
+- [01:36:16,101 - 01:36:17,801] Now, what are the units of temperature?
+- [01:36:21,381 - 01:36:23,031] Well, okay, degrees usually,
+- [01:36:23,031 - 01:36:24,681] but let's write another equation.
+- [01:36:25,221 - 01:36:27,071] Another equation would be the fact
+- [01:36:27,071 - 01:36:28,921] that the kinetic energy of a particle
+- [01:36:28,921 - 01:36:28,961] is the temperature of a particle.
+- [01:36:28,961 - 01:36:28,982] Okay.
+- [01:36:28,982 - 01:36:32,742] So, our kinetic energy of a particle
+- [01:36:32,742 - 01:36:36,502] in a gas is three halves k,
+- [01:36:36,681 - 01:36:38,942] which is Boltzmann's constant, times the temperature.
+- [01:36:40,141 - 01:36:43,261] So, the temperature always has units of energy.
+- [01:36:43,442 - 01:36:45,982] Temperature has units of
+- [01:36:45,982 - 01:36:48,522] energy divided by Boltzmann's constant,
+- [01:36:48,681 - 01:36:50,702] whatever the units of Boltzmann's constant are.
+- [01:36:51,122 - 01:36:52,682] I mean, the units of Boltzmann's
+- [01:36:52,682 - 01:36:54,242] constant are energy divided by temperature.
+- [01:36:55,461 - 01:36:56,322] All right, all right.
+- [01:36:56,322 - 01:36:57,322] But all...
+- [01:36:57,322 - 01:36:58,961] All right.
+- [01:36:58,962 - 01:37:01,552] But, you know, the only reason that
+- [01:37:01,552 - 01:37:04,142] there was this stupid Boltzmann constant in physics
+- [01:37:04,142 - 01:37:07,142] is because people measured temperature
+- [01:37:07,142 - 01:37:09,612] with a stupid thermometer that
+- [01:37:09,612 - 01:37:12,082] they bought in a hardware store.
+- [01:37:12,882 - 01:37:12,962] Okay.
+- [01:37:14,102 - 01:37:19,202] The natural real units for temperature are energy.
+- [01:37:20,002 - 01:37:21,602] Get rid of the Boltzmann constant.
+- [01:37:22,402 - 01:37:25,422] It's just a conversion factor from units of energy
+- [01:37:25,422 - 01:37:28,422] to units of Celsius or whatever.
+- [01:37:28,962 - 01:37:32,762] Once you make...
+- [01:37:32,762 - 01:37:35,662] Once you just get rid of the Boltzmann constant
+- [01:37:35,662 - 01:37:40,262] and say temperature is measured in units of energy,
+- [01:37:41,262 - 01:37:44,502] then energy, energy, dimensionless.
+- [01:37:45,702 - 01:37:49,062] Entropy becomes dimensionless and entropy...
+- [01:37:49,062 - 01:37:50,162] Why is it dimensionless?
+- [01:37:50,222 - 01:37:51,782] It's the logarithm of an integer.
+- [01:37:52,162 - 01:37:53,162] How could it have dimensions?
+- [01:37:53,842 - 01:37:56,382] Of course, you assign it the dimensions of bits,
+- [01:37:56,382 - 01:37:58,922] but a bit is just a meaning, you know,
+- [01:37:58,922 - 01:37:58,942] a number of things.
+- [01:37:58,942 - 01:38:00,761] A unit, a dimensionless unit.
+- [01:38:01,902 - 01:38:06,702] So, entropy is dimensionless
+- [01:38:06,702 - 01:38:10,462] unless you want to put back the Boltzmann constant
+- [01:38:10,462 - 01:38:12,082] and then...
+- [01:38:12,082 - 01:38:13,402] And then where does it go?
+- [01:38:13,542 - 01:38:14,822] I can't figure out where it goes.
+- [01:38:15,982 - 01:38:17,662] It's energy for temperature.
+- [01:38:18,881 - 01:38:21,181] It's energy divided by temperature in either case,
+- [01:38:21,862 - 01:38:23,002] but...
+- [01:38:23,002 - 01:38:25,601] Yeah, yeah.
+- [01:38:25,601 - 01:38:28,622] But for all purposes, we want to define entropy,
+- [01:38:28,942 - 01:38:30,902] in an information-theoretic way,
+- [01:38:31,942 - 01:38:35,122] and all information theorists would call entropy
+- [01:38:35,122 - 01:38:36,601] absolutely dimensionless.
+- [01:38:38,921 - 01:38:41,502] It's only when they want to connect to thermodynamics
+- [01:38:41,502 - 01:38:44,881] and then use for the unit of temperature a thermometer
+- [01:38:44,881 - 01:38:48,641] that Boltzmann's constant enters into the story.
+- [01:38:51,322 - 01:38:51,881] Good.
+- [01:38:54,341 - 01:38:56,061] You know, I don't think Boltzmann ever knew
+- [01:38:56,061 - 01:38:57,601] his own constant, incidentally.
+- [01:38:58,942 - 01:39:03,301] It wasn't until Einstein in 1905
+- [01:39:03,301 - 01:39:06,902] that Boltzmann's constant was actually measured.
+- [01:39:07,341 - 01:39:10,662] Einstein figured it out, how to measure it.
+- [01:39:11,761 - 01:39:14,662] And Boltzmann committed suicide the year before
+- [01:39:14,662 - 01:39:16,742] because he was very discouraged
+- [01:39:16,742 - 01:39:18,761] because nobody knew what his constant was.
+- [01:39:23,761 - 01:39:26,681] It's one of the real sad stories of physics.
+- [01:39:28,942 - 01:39:30,942] I shouldn't make fun of Boltzmann.
+- [01:39:30,942 - 01:39:32,942] He was a very great physicist.
+- [01:39:32,942 - 01:39:38,942] Where are we?
+- [01:39:38,942 - 01:39:44,942] Yeah, I'll tell you what, I'm going to jump.
+- [01:39:44,942 - 01:39:47,942] I was going to talk about the eigenvalues of H,
+- [01:39:47,942 - 01:39:49,942] but I'll do that next time.
+- [01:39:49,942 - 01:39:51,942] And they are, of course, just called the energies,
+- [01:39:51,942 - 01:39:53,942] the energy levels.
+- [01:39:54,942 - 01:39:55,942] Will you tell us why the
+- [01:39:55,942 - 01:39:56,942] relationship between them is so important?
+- [01:39:56,942 - 01:39:57,942] I don't know.
+- [01:39:57,942 - 01:40:00,942] The relationship between H is related to energy?
+- [01:40:00,942 - 01:40:02,942] Let's just call that.
+- [01:40:02,942 - 01:40:03,942] Why?
+- [01:40:03,942 - 01:40:06,942] Because it's conserved.
+- [01:40:06,942 - 01:40:12,942] OK, let's, it goes back to Einstein.
+- [01:40:12,942 - 01:40:14,942] Well, everything goes back to Einstein.
+- [01:40:14,942 - 01:40:16,942] That doesn't say anything.
+- [01:40:16,942 - 01:40:19,942] OK.
+- [01:40:19,942 - 01:40:21,942] You know that the way
+- [01:40:21,942 - 01:40:23,942] the wave function varies with time
+- [01:40:23,942 - 01:40:26,942] is with an exponential phase that depends on energies?
+- [01:40:27,942 - 01:40:28,942] Yes.
+- [01:40:28,942 - 01:40:30,942] And that's E equals H nu, right?
+- [01:40:30,942 - 01:40:33,942] Oh, there should be a Planck's constant in here
+- [01:40:33,942 - 01:40:38,942] if I really want to keep track of,
+- [01:40:38,942 - 01:40:41,942] where does the Planck's constant go, here?
+- [01:40:43,942 - 01:40:45,942] I think the .
+- [01:40:47,942 - 01:40:48,942] Right?
+- [01:40:50,942 - 01:40:51,942] Yeah.
+- [01:40:51,942 - 01:40:52,942] There's a Planck's constant over here,
+- [01:40:52,942 - 01:40:54,942] so let's put the Planck's constant there.
+- [01:40:56,942 - 01:41:00,942] No, there's no 2 pi in there.
+- [01:41:00,942 - 01:41:02,942] The 2 pi is depending on
+- [01:41:02,942 - 01:41:04,942] whether you use H or H bar,
+- [01:41:04,942 - 01:41:06,942] and with H bar...
+- [01:41:12,942 - 01:41:13,942] What's that?
+- [01:41:17,942 - 01:41:22,942] Wait, let me see.
+- [01:41:27,942 - 01:41:28,942] Yeah.
+- [01:41:31,942 - 01:41:32,942] Ah, yes.
+- [01:41:32,942 - 01:41:34,942] It's over, sorry.
+- [01:41:34,942 - 01:41:40,942] D by Dt, yeah, it's over H bar.
+- [01:41:40,942 - 01:41:44,942] Over H bar, yeah.
+- [01:41:44,942 - 01:41:47,442] Yeah, energy levels are very
+- [01:41:47,442 - 01:41:49,942] small things in quantum mechanics,
+- [01:41:49,942 - 01:41:52,942] and you divide by H bar
+- [01:41:52,942 - 01:41:54,942] and you can't use the time.
+- [01:41:54,942 - 01:41:56,942] Okay, good.
+- [01:41:56,942 - 01:42:07,942] Let's suppose that psi is an eigenvector of H.
+- [01:42:07,942 - 01:42:10,942] H on psi is equal,
+- [01:42:10,942 - 01:42:13,942] well, let me call it omega.
+- [01:42:13,942 - 01:42:15,442] If it comes out to really
+- [01:42:15,442 - 01:42:16,942] be omega, I'll be very happy.
+- [01:42:16,942 - 01:42:19,942] Let's call it omega on psi.
+- [01:42:19,942 - 01:42:21,942] Omega being...
+- [01:42:21,942 - 01:42:26,942] Now, energy, E, energy, E for energy.
+- [01:42:26,942 - 01:42:29,942] E is a number.
+- [01:42:29,942 - 01:42:33,942] Psi is an eigenvector of H with eigenvalue E.
+- [01:42:33,942 - 01:42:34,942] Okay?
+- [01:42:34,942 - 01:42:36,942] Just assume.
+- [01:42:36,942 - 01:42:38,942] That means...
+- [01:42:48,942 - 01:42:49,942] I'm getting tired.
+- [01:42:49,942 - 01:42:50,942] I'm beginning to fade.
+- [01:42:50,942 - 01:42:55,942] Okay.
+- [01:42:55,942 - 01:42:58,942] If psi is initially an eigenvector of energy,
+- [01:42:58,942 - 01:43:03,942] it will remain an eigenvector of energy for all time.
+- [01:43:03,942 - 01:43:06,942] Let's see if we can solve this equation.
+- [01:43:06,942 - 01:43:08,942] Let's see if we can solve this equation
+- [01:43:08,942 - 01:43:11,942] assuming that psi remains an eigenvector
+- [01:43:11,942 - 01:43:14,942] of the energy for all time.
+- [01:43:14,942 - 01:43:15,942] Okay.
+- [01:43:15,942 - 01:43:16,942] Now, if it remains an eigenvector
+- [01:43:16,942 - 01:43:17,942] of the energy for all time,
+- [01:43:17,942 - 01:43:18,942] you say, wait a minute, wait a minute.
+- [01:43:18,942 - 01:43:20,942] That means it doesn't change.
+- [01:43:20,942 - 01:43:23,942] If it doesn't change, this is nonsense.
+- [01:43:23,942 - 01:43:26,942] Now, psi is an eigenvector,
+- [01:43:26,942 - 01:43:28,942] but remember that you can
+- [01:43:28,942 - 01:43:30,942] multiply an eigenvector by a number,
+- [01:43:30,942 - 01:43:32,942] in particular a complex number,
+- [01:43:32,942 - 01:43:34,942] and it still remains an eigenvector.
+- [01:43:34,942 - 01:43:39,942] So let's write that psi of t
+- [01:43:39,942 - 01:43:46,942] is equal to a function of time,
+- [01:43:46,942 - 01:43:49,942] times psi of zero,
+- [01:43:50,942 - 01:43:55,942] if psi of zero is an eigenvector of the energy,
+- [01:43:55,942 - 01:43:57,942] so will f of t times
+- [01:43:57,942 - 01:43:59,942] psi be an eigenvector of energy,
+- [01:43:59,942 - 01:44:01,942] and therefore so will the left-hand side.
+- [01:44:01,942 - 01:44:03,942] It'll be the eigenvector with the same eigenvalue.
+- [01:44:03,942 - 01:44:04,942] It'll just be multiplied.
+- [01:44:04,942 - 01:44:06,942] And let's see if we can solve this
+- [01:44:06,942 - 01:44:09,942] by seeing if we can find an f of t
+- [01:44:09,942 - 01:44:11,942] which will allow this to be solved.
+- [01:44:11,942 - 01:44:13,942] Okay. So what does this say?
+- [01:44:13,942 - 01:44:15,942] We just factor out psi of zero,
+- [01:44:15,942 - 01:44:18,942] and what it says is that the f of t
+- [01:44:18,942 - 01:44:21,942] is equal to minus i.
+- [01:44:21,942 - 01:44:26,942] Now, h on psi gives e times psi.
+- [01:44:26,942 - 01:44:28,942] So that gives an e
+- [01:44:28,942 - 01:44:32,942] divided by h-bar times f,
+- [01:44:32,942 - 01:44:35,942] all multiplying the vector psi.
+- [01:44:35,942 - 01:44:36,942] But we can divide.
+- [01:44:36,942 - 01:44:39,942] We can just get rid of the vector psi
+- [01:44:39,942 - 01:44:41,942] at time t equals zero.
+- [01:44:41,942 - 01:44:43,942] This equation just becomes an equation
+- [01:44:43,942 - 01:44:45,942] for the function f of t.
+- [01:44:45,942 - 01:44:47,442] The f by dt is minus
+- [01:44:47,442 - 01:44:48,942] i e over f of t.
+- [01:44:48,942 - 01:44:50,942] So that's e times psi e to
+- [01:44:50,942 - 01:44:52,942] the minus i e over h-bar f.
+- [01:44:52,942 - 01:44:55,942] All I've done is substitute for psi of t
+- [01:44:55,942 - 01:44:58,942] f of t times psi of zero,
+- [01:44:58,942 - 01:45:01,942] and then use that h on psi over here
+- [01:45:01,942 - 01:45:04,942] is e times psi.
+- [01:45:04,942 - 01:45:07,942] You know how to solve this?
+- [01:45:07,942 - 01:45:10,942] The solution of an equation like this
+- [01:45:10,942 - 01:45:14,442] is just that f goes like e
+- [01:45:14,442 - 01:45:17,942] to the minus i e over h-bar t
+- [01:45:17,942 - 01:45:21,942] times psi of zero.
+- [01:45:21,942 - 01:45:24,942] So what it says is if you start
+- [01:45:24,942 - 01:45:26,942] with an eigenvector of the energy
+- [01:45:26,942 - 01:45:28,942] or eigenvector of the Hamiltonian,
+- [01:45:28,942 - 01:45:31,942] then it evolves with time
+- [01:45:31,942 - 01:45:36,942] just by multiplying by a time-dependent phase.
+- [01:45:36,942 - 01:45:38,942] That's all that happens.
+- [01:45:38,942 - 01:45:40,942] What do you call a coefficient
+- [01:45:40,942 - 01:45:43,942] in an e to the i something t?
+- [01:45:43,942 - 01:45:45,942] What do you call a coefficient of t?
+- [01:45:45,942 - 01:45:47,942] Time coefficient.
+- [01:45:47,942 - 01:45:51,942] No, it's usually called a time constant if it's real.
+- [01:45:51,942 - 01:45:53,942] Then it would be the decay constant.
+- [01:45:53,942 - 01:45:55,942] You call it the frequency.
+- [01:45:55,942 - 01:46:00,942] Not the frequency, but the angular frequency, omega.
+- [01:46:00,942 - 01:46:04,942] So we have that the wave function evolves
+- [01:46:04,942 - 01:46:07,942] with a frequency, with an angular frequency, omega,
+- [01:46:07,942 - 01:46:10,942] which is equal to the energy over h-bar,
+- [01:46:10,942 - 01:46:14,942] or better yet, energy is h-bar times omega.
+- [01:46:17,942 - 01:46:20,942] That should be a familiar equation.
+- [01:46:20,942 - 01:46:23,942] It also can be written energy is ordinary frequency
+- [01:46:23,942 - 01:46:30,942] times Planck's original constant,
+- [01:46:30,942 - 01:46:34,942] differs by a factor of 2 pi.
+- [01:46:34,942 - 01:46:36,442] I'm getting tired, and my
+- [01:46:36,442 - 01:46:37,942] cold is getting worse and worse,
+- [01:46:37,942 - 01:46:39,942] so we're going to quit now.
+- [01:46:39,942 - 01:46:41,942] But I thought I would just show you this,
+- [01:46:41,942 - 01:46:43,942] and we'll come back to it.
+- [01:46:43,942 - 01:46:47,942] But the phases and the fact that,
+- [01:46:47,942 - 01:46:50,942] frequency is related to energy,
+- [01:46:50,942 - 01:46:52,942] is equivalent to this equation,
+- [01:46:52,942 - 01:46:55,942] which tells you how states change with time.
+- [01:46:55,942 - 01:46:57,942] This equation also has a name.
+- [01:46:57,942 - 01:46:59,942] The name is the Schrodinger equation.
+- [01:46:59,942 - 01:47:01,942] This is the Schrodinger equation.
+- [01:47:01,942 - 01:47:04,942] It's not the particular Schrodinger equation
+- [01:47:04,942 - 01:47:07,942] that Schrodinger wrote down for a particular free particle.
+- [01:47:07,942 - 01:47:09,942] That was a particle in a potential.
+- [01:47:09,942 - 01:47:11,942] That was a special case of this.
+- [01:47:11,942 - 01:47:13,942] This is the generalized Schrodinger equation
+- [01:47:13,942 - 01:47:15,942] for any system.
+- [01:47:15,942 - 01:47:17,942] But you have to pick a Hamiltonian.
+- [01:47:17,942 - 01:47:19,942] We'll do some of that next time.
+- [01:47:19,942 - 01:47:21,942] We'll pick out some examples.
+- [01:47:21,942 - 01:47:23,942] Again, particle in a magnetic field,
+- [01:47:23,942 - 01:47:26,942] or other examples like that.
+- [01:47:33,942 - 01:47:37,942] The preceding program is copyrighted by Stanford University.
+- [01:47:37,942 - 01:47:40,942] Please visit us at stanford.edu.
