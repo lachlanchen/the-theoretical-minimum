@@ -21,6 +21,7 @@ VIDEO_EXTS = (".mkv", ".mp4", ".webm")
 SEGMENT_RE = re.compile(
     r"^- \[(?P<start>\d\d:\d\d:\d\d,\d{3}) - (?P<end>\d\d:\d\d:\d\d,\d{3})\] (?P<text>.*)$"
 )
+SRT_TIMESTAMP_RE = re.compile(r"(?P<start>\d\d:\d\d:\d\d,\d{3})\s*-->\s*(?P<end>\d\d:\d\d:\d\d,\d{3})")
 LECTURE_NUMBER_RE = re.compile(r"\bLecture\s+(\d+)\b", re.IGNORECASE)
 PREFIX_NUMBER_RE = re.compile(r"^(\d+)\s*-\s*")
 TEXTTT_RE = re.compile(r"\\texttt\{([^{}]*)\}")
@@ -109,6 +110,26 @@ class FrameSelection:
     source_candidate: str
     recommended_use: str
     rationale: str
+    subtitle_excerpt: str
+    segment_start_seconds: float
+    segment_end_seconds: float
+    caption_hint: str
+
+
+@dataclass
+class SubtitleWindow:
+    start_seconds: float
+    end_seconds: float
+    text: str
+
+
+@dataclass
+class FrameCandidate:
+    path: Path
+    timestamp_seconds: float
+    window_start_seconds: float
+    window_end_seconds: float
+    subtitle_excerpt: str
 
 
 def humanize_slug(value: str) -> str:
@@ -311,6 +332,60 @@ def transcript_segments(md_text: str) -> list[tuple[float, str]]:
     return segments
 
 
+def subtitle_segments_from_srt(path: Path) -> list[SubtitleWindow]:
+    if not path.exists():
+        return []
+
+    blocks = re.split(r"\n\s*\n", path.read_text(encoding="utf-8", errors="replace").strip())
+    segments: list[SubtitleWindow] = []
+    for block in blocks:
+        lines = [line.strip("\ufeff").strip() for line in block.splitlines() if line.strip()]
+        if len(lines) < 2:
+            continue
+        timestamp_line = lines[1] if lines[0].isdigit() and len(lines) > 1 else lines[0]
+        match = SRT_TIMESTAMP_RE.match(timestamp_line)
+        if not match:
+            continue
+        text_lines = lines[2:] if lines[0].isdigit() and len(lines) > 2 else lines[1:]
+        text = re.sub(r"\s+", " ", " ".join(text_lines)).strip()
+        if not text:
+            continue
+        start_seconds = parse_ts(match.group("start"))
+        end_seconds = parse_ts(match.group("end"))
+        if end_seconds <= start_seconds:
+            end_seconds = start_seconds + 0.5
+        segments.append(
+            SubtitleWindow(
+                start_seconds=start_seconds,
+                end_seconds=end_seconds,
+                text=text,
+            )
+        )
+    return segments
+
+
+def subtitle_windows_for_lecture(lecture: LectureInfo, md_text: str) -> list[SubtitleWindow]:
+    srt_segments = subtitle_segments_from_srt(lecture.subtitle_path)
+    if srt_segments:
+        return srt_segments
+
+    transcript = transcript_segments(md_text)
+    if not transcript:
+        return []
+    windows: list[SubtitleWindow] = []
+    for index, (start_seconds, text) in enumerate(transcript):
+        next_start = transcript[index + 1][0] if index + 1 < len(transcript) else start_seconds + 4.0
+        end_seconds = max(start_seconds + 0.5, next_start)
+        windows.append(
+            SubtitleWindow(
+                start_seconds=start_seconds,
+                end_seconds=end_seconds,
+                text=text,
+            )
+        )
+    return windows
+
+
 def query_terms(lecture: LectureInfo, md_text: str) -> list[str]:
     title_tokens = re.findall(r"[A-Za-z]{4,}", strip_stem_label(lecture.lecture_title).lower())
     transcript_tokens = [
@@ -426,41 +501,59 @@ def keyword_score(text: str) -> int:
     return score
 
 
-def choose_frame_times(md_text: str, max_frames: int) -> list[float]:
-    segments = transcript_segments(md_text)
-    if not segments:
-        return [0.0]
+def trim_excerpt(text: str, limit: int = 220) -> str:
+    compact = re.sub(r"\s+", " ", text).strip()
+    if len(compact) <= limit:
+        return compact
+    head = compact[: limit - 3].rsplit(" ", 1)[0].strip()
+    return f"{head or compact[: limit - 3]}..."
 
+
+def window_midpoint(window: SubtitleWindow) -> float:
+    return (window.start_seconds + window.end_seconds) / 2.0
+
+
+def choose_figure_windows(windows: list[SubtitleWindow], max_frames: int) -> list[SubtitleWindow]:
+    if not windows:
+        return [SubtitleWindow(start_seconds=0.0, end_seconds=4.0, text="Opening lecture context.")]
+
+    min_gap = 90.0
     ranked = sorted(
-        ((keyword_score(text), start, text) for start, text in segments),
-        key=lambda item: (item[0], item[1]),
+        enumerate(windows),
+        key=lambda item: (keyword_score(item[1].text), len(item[1].text), -item[0]),
         reverse=True,
     )
 
-    chosen: list[float] = []
-    min_gap = 180.0
-    for score, start, _text in ranked:
-        if score <= 0:
-            continue
-        if all(abs(start - existing) >= min_gap for existing in chosen):
-            chosen.append(start)
-        if len(chosen) >= max_frames:
+    selected_indices: list[int] = []
+    for index, window in ranked:
+        midpoint = window_midpoint(window)
+        if all(abs(midpoint - window_midpoint(windows[existing])) >= min_gap for existing in selected_indices):
+            selected_indices.append(index)
+        if len(selected_indices) >= max_frames:
             break
 
-    if len(chosen) < max_frames:
-        duration = segments[-1][0]
-        guide_points = [0.05, 0.2, 0.4, 0.6, 0.8, 0.95]
+    if len(selected_indices) < max_frames:
+        duration = max(window.end_seconds for window in windows)
+        guide_points = [0.05, 0.18, 0.32, 0.48, 0.64, 0.8, 0.93]
         for fraction in guide_points:
-            candidate = max(0.0, duration * fraction)
-            if all(abs(candidate - existing) >= min_gap for existing in chosen):
-                chosen.append(candidate)
-            if len(chosen) >= max_frames:
+            target = duration * fraction
+            nearest_index = min(
+                range(len(windows)),
+                key=lambda idx: abs(window_midpoint(windows[idx]) - target),
+            )
+            midpoint = window_midpoint(windows[nearest_index])
+            if nearest_index in selected_indices:
+                continue
+            if all(abs(midpoint - window_midpoint(windows[existing])) >= min_gap for existing in selected_indices):
+                selected_indices.append(nearest_index)
+            if len(selected_indices) >= max_frames:
                 break
 
-    if 0.0 not in chosen:
-        chosen.insert(0, min(segments[0][0], 30.0))
+    if 0 not in selected_indices:
+        selected_indices.insert(0, 0)
 
-    return sorted(chosen[:max_frames])
+    ordered = sorted(set(selected_indices), key=lambda idx: windows[idx].start_seconds)
+    return [windows[index] for index in ordered[:max_frames]]
 
 
 def format_seconds(seconds: float) -> str:
@@ -471,28 +564,25 @@ def format_seconds(seconds: float) -> str:
     return f"{hh:02d}:{mm:02d}:{ss:02d}.{ms:03d}"
 
 
-def transcript_excerpt_around(md_text: str, timestamp: float, window: float = 45.0) -> str:
-    segments = transcript_segments(md_text)
-    nearby = [text for start, text in segments if abs(start - timestamp) <= window]
-    excerpt = " ".join(nearby[:6]).strip()
-    return re.sub(r"\s+", " ", excerpt)[:900] or "No nearby transcript excerpt."
+def candidate_timestamps_for_window(window: SubtitleWindow) -> list[float]:
+    duration = max(0.6, window.end_seconds - window.start_seconds)
+    midpoint = window_midpoint(window)
+    if duration <= 1.5:
+        raw = [midpoint - 0.35, midpoint - 0.1, midpoint + 0.1, midpoint + 0.35]
+    else:
+        raw = [
+            window.start_seconds + min(duration * 0.12, 0.8),
+            window.start_seconds + min(duration * 0.38, max(duration - 0.3, 0.0)),
+            window.start_seconds + min(duration * 0.65, max(duration - 0.15, 0.0)),
+            window.end_seconds - min(duration * 0.12, 0.6),
+        ]
 
-
-def choose_candidate_frame_times(md_text: str, max_frames: int) -> list[float]:
-    anchors = choose_frame_times(md_text, max_frames)
-    segments = transcript_segments(md_text)
-    max_time = segments[-1][0] if segments else 0.0
-    offsets = (-12.0, 0.0, 12.0)
-    candidate_cap = max(max_frames + 4, max_frames * 2)
-    candidates: list[float] = []
-    for anchor in anchors:
-        for offset in offsets:
-            candidate = max(0.0, min(max_time, anchor + offset))
-            if all(abs(candidate - existing) >= 3.0 for existing in candidates):
-                candidates.append(candidate)
-            if len(candidates) >= candidate_cap:
-                return sorted(candidates[:candidate_cap])
-    return sorted(candidates[:candidate_cap])
+    deduped: list[float] = []
+    for timestamp in raw:
+        clamped = min(max(window.start_seconds, timestamp), window.end_seconds)
+        if all(abs(clamped - existing) >= 0.15 for existing in deduped):
+            deduped.append(clamped)
+    return deduped or [midpoint]
 
 
 def run_command(
@@ -526,21 +616,22 @@ def run_command(
     return completed
 
 
-def extract_candidate_frames(
+def extract_window_candidate_frames(
     lecture: LectureInfo,
     runtime_dir: Path,
-    candidate_times: list[float],
+    window_index: int,
+    window: SubtitleWindow,
     force: bool,
-) -> list[tuple[Path, float]]:
-    candidates_dir = runtime_dir / "candidate_frames"
+) -> list[FrameCandidate]:
+    candidates_dir = runtime_dir / "frame_probe_candidates"
     candidates_dir.mkdir(parents=True, exist_ok=True)
     ffmpeg_dir = runtime_dir / "ffmpeg_candidates"
     ffmpeg_dir.mkdir(parents=True, exist_ok=True)
 
-    extracted: list[tuple[Path, float]] = []
-    for index, timestamp in enumerate(candidate_times, start=1):
+    extracted: list[FrameCandidate] = []
+    for candidate_index, timestamp in enumerate(candidate_timestamps_for_window(window), start=1):
         stamp = format_seconds(timestamp).replace(":", "").replace(".", "")
-        basename = f"{lecture.lecture_slug}_candidate_{index:02d}_{stamp}.png"
+        basename = f"{lecture.lecture_slug}_window_{window_index:02d}_candidate_{candidate_index:02d}_{stamp}.png"
         out_path = candidates_dir / basename
         if force or not out_path.exists():
             ffmpeg_stdout = ffmpeg_dir / f"{basename}.stdout.log"
@@ -559,7 +650,15 @@ def extract_candidate_frames(
                 str(out_path),
             ]
             run_command(cmd, stdout_path=ffmpeg_stdout, stderr_path=ffmpeg_stderr)
-        extracted.append((out_path, timestamp))
+        extracted.append(
+            FrameCandidate(
+                path=out_path,
+                timestamp_seconds=timestamp,
+                window_start_seconds=window.start_seconds,
+                window_end_seconds=window.end_seconds,
+                subtitle_excerpt=trim_excerpt(window.text, limit=320),
+            )
+        )
     return extracted
 
 
@@ -575,6 +674,89 @@ def parse_json_payload(text: str) -> dict:
         raise
 
 
+def build_asset_list_text(selections: list[FrameSelection]) -> str:
+    lines = []
+    for selection in selections:
+        lines.append(
+            " | ".join(
+                [
+                    f"- {selection.asset_path.name}",
+                    f"frame {format_seconds(selection.timestamp_seconds)}",
+                    f"subtitle {format_seconds(selection.segment_start_seconds)}-{format_seconds(selection.segment_end_seconds)}",
+                    selection.recommended_use,
+                    f"caption hint: {selection.caption_hint or 'none'}",
+                    f"subtitle excerpt: {selection.subtitle_excerpt or 'none'}",
+                    f"rationale: {selection.rationale or 'none'}",
+                ]
+            )
+        )
+    return "\n".join(lines) or "- none"
+
+
+def cleanup_existing_lecture_figures(figures_dir: Path, lecture_slug: str) -> None:
+    for pattern in (f"{lecture_slug}_figure_*.png", f"{lecture_slug}_frame_*.png"):
+        for path in figures_dir.glob(pattern):
+            if path.is_file():
+                path.unlink()
+
+
+def validate_selected_frames_with_codex(
+    repo_root: Path,
+    lecture: LectureInfo,
+    runtime_dir: Path,
+    model: str,
+    reasoning: str,
+    md_text: str,
+    selections: list[FrameSelection],
+) -> list[FrameSelection]:
+    if not selections:
+        return []
+
+    prompt_text = read_template(repo_root / "scripts" / "prompts" / "lecture_notes" / "figure_validation_prompt.txt").substitute(
+        task_context=build_task_context(lecture),
+        course_title=lecture.course_title,
+        course_descriptor=lecture.course_descriptor,
+        lecture_title=lecture.lecture_title,
+        transcript_rel=lecture.transcript_rel,
+        video_rel=lecture.video_rel,
+        asset_list=build_asset_list_text(selections),
+        transcript_text=md_text,
+    )
+    validation_path = runtime_dir / "figure_validation.json"
+    run_codex_prompt(
+        repo_root=repo_root,
+        prompt_text=prompt_text,
+        output_path=validation_path,
+        runtime_dir=runtime_dir,
+        log_prefix="figure_validation",
+        model=model,
+        reasoning=reasoning,
+        images=[selection.asset_path for selection in selections],
+    )
+
+    try:
+        payload = parse_json_payload(validation_path.read_text(encoding="utf-8"))
+        decisions = payload.get("decisions", [])
+    except Exception:
+        return selections
+
+    decision_map = {
+        str(item.get("asset", "")).strip(): item
+        for item in decisions
+        if str(item.get("asset", "")).strip()
+    }
+    filtered: list[FrameSelection] = []
+    for selection in selections:
+        verdict = str(decision_map.get(selection.asset_path.name, {}).get("verdict", "accept")).strip().lower()
+        if verdict in {"accept", "keep", "use", "pass"}:
+            filtered.append(selection)
+            continue
+        if selection.asset_path.exists():
+            selection.asset_path.unlink()
+
+    return filtered
+
+
 def select_frames_with_codex(
     repo_root: Path,
     lecture: LectureInfo,
@@ -588,78 +770,110 @@ def select_frames_with_codex(
 ) -> list[FrameSelection]:
     figures_dir = course_root / "figures"
     figures_dir.mkdir(parents=True, exist_ok=True)
+    cleanup_existing_lecture_figures(figures_dir, lecture.lecture_slug)
 
-    candidate_times = choose_candidate_frame_times(md_text, max_frames=max_frames)
-    candidates = extract_candidate_frames(lecture, runtime_dir, candidate_times, force=force)
-    candidate_lines = []
-    for path, timestamp in candidates:
-        candidate_lines.append(
-            f"- {path.name} | {format_seconds(timestamp)} | {transcript_excerpt_around(md_text, timestamp)}"
+    windows = choose_figure_windows(subtitle_windows_for_lecture(lecture, md_text), max_frames=max_frames)
+    selected: list[FrameSelection] = []
+    for window_index, window in enumerate(windows, start=1):
+        candidates = extract_window_candidate_frames(
+            lecture=lecture,
+            runtime_dir=runtime_dir,
+            window_index=window_index,
+            window=window,
+            force=force,
+        )
+        candidate_map = {candidate.path.name: candidate for candidate in candidates}
+        candidate_lines = "\n".join(
+            f"- {candidate.path.name} | {format_seconds(candidate.timestamp_seconds)} | subtitle: {candidate.subtitle_excerpt}"
+            for candidate in candidates
+        )
+        selection_path = runtime_dir / f"figure_probe_{window_index:02d}.json"
+        prompt_text = read_template(repo_root / "scripts" / "prompts" / "lecture_notes" / "frame_probe_prompt.txt").substitute(
+            task_context=build_task_context(lecture),
+            course_title=lecture.course_title,
+            course_descriptor=lecture.course_descriptor,
+            lecture_title=lecture.lecture_title,
+            transcript_rel=lecture.transcript_rel,
+            video_rel=lecture.video_rel,
+            window_index=window_index,
+            subtitle_start=format_seconds(window.start_seconds),
+            subtitle_end=format_seconds(window.end_seconds),
+            subtitle_excerpt=trim_excerpt(window.text, limit=480),
+            candidate_list=candidate_lines,
+        )
+        run_codex_prompt(
+            repo_root=repo_root,
+            prompt_text=prompt_text,
+            output_path=selection_path,
+            runtime_dir=runtime_dir,
+            log_prefix=f"frame_probe_{window_index:02d}",
+            model=model,
+            reasoning=reasoning,
+            images=[candidate.path for candidate in candidates],
         )
 
-    prompt_text = read_template(repo_root / "scripts" / "prompts" / "lecture_notes" / "frame_review_prompt.txt").substitute(
-        task_context=build_task_context(lecture),
-        course_title=lecture.course_title,
-        course_descriptor=lecture.course_descriptor,
-        lecture_title=lecture.lecture_title,
-        transcript_rel=lecture.transcript_rel,
-        video_rel=lecture.video_rel,
-        max_frames=max_frames,
-        candidate_list="\n".join(candidate_lines),
-    )
-    selection_path = runtime_dir / "frame_selection.json"
-    run_codex_prompt(
-        repo_root=repo_root,
-        prompt_text=prompt_text,
-        output_path=selection_path,
-        runtime_dir=runtime_dir,
-        log_prefix="frame_review",
-        model=model,
-        reasoning=reasoning,
-        images=[path for path, _timestamp in candidates],
-    )
+        try:
+            payload = parse_json_payload(selection_path.read_text(encoding="utf-8"))
+        except Exception:
+            payload = {}
 
-    candidate_map = {path.name: (path, timestamp) for path, timestamp in candidates}
-    try:
-        payload = parse_json_payload(selection_path.read_text(encoding="utf-8"))
-        raw_selected = payload.get("selected", [])
-    except Exception:
-        raw_selected = []
-
-    selected: list[FrameSelection] = []
-    used_candidates: set[str] = set()
-    for index, item in enumerate(raw_selected, start=1):
-        candidate_name = str(item.get("candidate", "")).strip()
-        if candidate_name not in candidate_map or candidate_name in used_candidates:
+        keep = bool(payload.get("keep", True))
+        candidate_name = str(payload.get("chosen_candidate", "")).strip()
+        if not keep and selected:
             continue
-        candidate_path, timestamp = candidate_map[candidate_name]
-        asset_path = figures_dir / f"{lecture.lecture_slug}_frame_{index:02d}.png"
-        shutil.copyfile(candidate_path, asset_path)
+        if candidate_name not in candidate_map:
+            fallback_index = min(len(candidates) // 2, len(candidates) - 1)
+            candidate_choice = candidates[fallback_index]
+        else:
+            candidate_choice = candidate_map[candidate_name]
+        timestamp_raw = payload.get("timestamp_seconds")
+        try:
+            timestamp_seconds = float(timestamp_raw) if timestamp_raw is not None else candidate_choice.timestamp_seconds
+        except (TypeError, ValueError):
+            timestamp_seconds = candidate_choice.timestamp_seconds
+
+        asset_path = figures_dir / f"{lecture.lecture_slug}_figure_{len(selected) + 1:02d}.png"
+        shutil.copyfile(candidate_choice.path, asset_path)
         selected.append(
             FrameSelection(
                 asset_path=asset_path,
-                timestamp_seconds=float(item.get("timestamp_seconds", timestamp)),
-                source_candidate=candidate_name,
-                recommended_use=str(item.get("recommended_use", "figure")).strip() or "figure",
-                rationale=str(item.get("reason", "")).strip(),
+                timestamp_seconds=timestamp_seconds,
+                source_candidate=candidate_choice.path.name,
+                recommended_use=str(payload.get("recommended_use", "screenshot_plus_equation")).strip() or "screenshot_plus_equation",
+                rationale=str(payload.get("reason", "")).strip() or str(payload.get("visible_content", "")).strip(),
+                subtitle_excerpt=trim_excerpt(window.text, limit=320),
+                segment_start_seconds=window.start_seconds,
+                segment_end_seconds=window.end_seconds,
+                caption_hint=trim_excerpt(str(payload.get("caption_hint", "")).strip() or window.text, limit=140),
             )
         )
-        used_candidates.add(candidate_name)
         if len(selected) >= max_frames:
             break
 
     if not selected:
-        fallback_candidates = candidates[:max_frames]
-        for index, (candidate_path, timestamp) in enumerate(fallback_candidates, start=1):
-            asset_path = figures_dir / f"{lecture.lecture_slug}_frame_{index:02d}.png"
-            shutil.copyfile(candidate_path, asset_path)
+        fallback_window = windows[0]
+        fallback_candidates = extract_window_candidate_frames(
+            lecture=lecture,
+            runtime_dir=runtime_dir,
+            window_index=1,
+            window=fallback_window,
+            force=force,
+        )
+        if fallback_candidates:
+            fallback_choice = fallback_candidates[min(len(fallback_candidates) // 2, len(fallback_candidates) - 1)]
+            asset_path = figures_dir / f"{lecture.lecture_slug}_figure_01.png"
+            shutil.copyfile(fallback_choice.path, asset_path)
             selected.append(
                 FrameSelection(
                     asset_path=asset_path,
-                    timestamp_seconds=timestamp,
-                    source_candidate=candidate_path.name,
-                    recommended_use="figure",
-                    rationale="Fallback selection without successful image-review parse.",
+                    timestamp_seconds=fallback_choice.timestamp_seconds,
+                    source_candidate=fallback_choice.path.name,
+                    recommended_use="screenshot_plus_equation",
+                    rationale="Fallback selection without successful figure-probe parse.",
+                    subtitle_excerpt=fallback_choice.subtitle_excerpt,
+                    segment_start_seconds=fallback_choice.window_start_seconds,
+                    segment_end_seconds=fallback_choice.window_end_seconds,
+                    caption_hint=trim_excerpt(fallback_choice.subtitle_excerpt, limit=140),
                 )
             )
 
@@ -858,6 +1072,12 @@ def write_metadata(lecture: LectureInfo, lecture_dir: Path, selections: list[Fra
                 "source_candidate": selection.source_candidate,
                 "recommended_use": selection.recommended_use,
                 "rationale": selection.rationale,
+                "subtitle_excerpt": selection.subtitle_excerpt,
+                "segment_start_seconds": selection.segment_start_seconds,
+                "segment_start_hhmmss": format_seconds(selection.segment_start_seconds),
+                "segment_end_seconds": selection.segment_end_seconds,
+                "segment_end_hhmmss": format_seconds(selection.segment_end_seconds),
+                "caption_hint": selection.caption_hint,
             }
             for selection in selections
         ],
@@ -1017,6 +1237,15 @@ def generate_one_lecture(
         max_frames=max_frames,
         force=force,
     )
+    selections = validate_selected_frames_with_codex(
+        repo_root=repo_root,
+        lecture=lecture,
+        runtime_dir=course_runtime,
+        model=model,
+        reasoning=reasoning,
+        md_text=md_text,
+        selections=selections,
+    )
     assets = [selection.asset_path for selection in selections]
     write_metadata(lecture, lecture_dir, selections)
     print(f"Step complete: extracted frames and metadata for {lecture_key}; committing and pushing.")
@@ -1025,14 +1254,64 @@ def generate_one_lecture(
         runtime_dir=course_runtime,
         log_prefix="commit_assets",
         commit_message=f"Add note assets for {lecture_key}",
-        paths=[course_root / "common_preamble.tex", lecture_dir / "metadata.json", *assets],
+        paths=[course_root / "common_preamble.tex", course_root / "figures", lecture_dir / "metadata.json"],
     )
     book_reference_text = collect_reference_excerpt(lecture, md_text, reference_pdf_dir, runtime_root)
 
-    asset_list_text = "\n".join(
-        f"- {selection.asset_path.name} | {format_seconds(selection.timestamp_seconds)} | {selection.recommended_use} | {selection.rationale or 'No rationale provided.'}"
-        for selection in selections
-    ) or "- none"
+    asset_list_text = build_asset_list_text(selections)
+
+    figures_markdown_path = lecture_dir / "figures_markdown.md"
+    if assets:
+        figures_prompt = read_template(prompt_root / "figures_markdown_prompt.txt").substitute(
+            task_context=build_task_context(lecture),
+            course_title=lecture.course_title,
+            course_descriptor=lecture.course_descriptor,
+            lecture_title=lecture.lecture_title,
+            transcript_rel=lecture.transcript_rel,
+            video_rel=lecture.video_rel,
+            asset_list=asset_list_text,
+            transcript_text=md_text,
+        )
+        run_codex_prompt(
+            repo_root=repo_root,
+            prompt_text=figures_prompt,
+            output_path=figures_markdown_path,
+            runtime_dir=course_runtime,
+            log_prefix="figures_markdown",
+            model=model,
+            reasoning=reasoning,
+            images=assets,
+        )
+    else:
+        figures_markdown_path.write_text(
+            "\n".join(
+                [
+                    "# Figure Notes",
+                    "## Image Inventory",
+                    "No validated mathematical screenshots were kept for this lecture.",
+                    "## Blackboard Equations",
+                    "No validated blackboard equations were extracted from screenshots.",
+                    "## Diagram And Layout Reading",
+                    "No validated diagram screenshots were kept.",
+                    "## TeX Reconstruction Plan",
+                    "Rely on the transcript and cautious standard reconstruction for this lecture.",
+                    "## Caption Drafts",
+                    "No screenshot captions are needed because no validated screenshots remain.",
+                    "## Uncertainties",
+                    "The validator rejected the available candidate screenshots as not sufficiently aligned with the lecture content.",
+                    "",
+                ]
+            ),
+            encoding="utf-8",
+        )
+    print(f"Step complete: wrote figure markdown for {lecture_key}; committing and pushing.")
+    commit_generated_step(
+        repo_root=repo_root,
+        runtime_dir=course_runtime,
+        log_prefix="commit_figures_markdown",
+        commit_message=f"Add figure markdown for {lecture_key}",
+        paths=[figures_markdown_path],
+    )
 
     analysis_prompt = read_template(prompt_root / "analysis_prompt.txt").substitute(
         task_context=build_task_context(lecture),
@@ -1043,6 +1322,7 @@ def generate_one_lecture(
         video_rel=lecture.video_rel,
         asset_list=asset_list_text,
         book_reference_text=book_reference_text,
+        figures_markdown_text=figures_markdown_path.read_text(encoding="utf-8"),
         transcript_text=md_text,
     )
     analysis_path = lecture_dir / "analysis.md"
@@ -1073,6 +1353,7 @@ def generate_one_lecture(
         transcript_rel=lecture.transcript_rel,
         video_rel=lecture.video_rel,
         asset_list=asset_list_text,
+        figures_markdown_text=figures_markdown_path.read_text(encoding="utf-8"),
         transcript_text=md_text,
     )
     visual_notes_path = lecture_dir / "visual_notes.md"
@@ -1132,6 +1413,7 @@ def generate_one_lecture(
         transcript_rel=lecture.transcript_rel,
         video_rel=lecture.video_rel,
         analysis_text=analysis_path.read_text(encoding="utf-8"),
+        figures_markdown_text=figures_markdown_path.read_text(encoding="utf-8"),
         visual_notes_text=visual_notes_path.read_text(encoding="utf-8"),
         transcript_text=md_text,
     )
@@ -1166,6 +1448,7 @@ def generate_one_lecture(
         asset_list=asset_list_text,
         book_reference_text=book_reference_text,
         analysis_text=analysis_path.read_text(encoding="utf-8"),
+        figures_markdown_text=figures_markdown_path.read_text(encoding="utf-8"),
         visual_notes_text=visual_notes_path.read_text(encoding="utf-8"),
         narrative_map_text=narrative_map_path.read_text(encoding="utf-8"),
         math_bank_text=math_bank_path.read_text(encoding="utf-8"),
@@ -1201,6 +1484,7 @@ def generate_one_lecture(
         video_rel=lecture.video_rel,
         asset_list=asset_list_text,
         analysis_text=analysis_path.read_text(encoding="utf-8"),
+        figures_markdown_text=figures_markdown_path.read_text(encoding="utf-8"),
         visual_notes_text=visual_notes_path.read_text(encoding="utf-8"),
         narrative_map_text=narrative_map_path.read_text(encoding="utf-8"),
         math_bank_text=math_bank_path.read_text(encoding="utf-8"),

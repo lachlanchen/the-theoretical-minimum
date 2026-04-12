@@ -21,6 +21,7 @@ generated_course_notes/
     figures/
     chapters/
       lecture_01/
+        figures_markdown.md
         analysis.md
         visual_notes.md
         narrative_map.md
@@ -47,10 +48,11 @@ Defaults:
 - reasoning: `xhigh`
 - generation order: fully transcribed supplementary courses first, then core courses
 - when available, prompts also use local Susskind-authored PDFs from `susskind-books-and-lecture-notes/` as a style and notation reference
-- each lecture now runs through explicit stages: frame review, plan, visual equation/diagram extraction, narrative map, math bank, LaTeX draft, refinement, compile, and course-book rebuild
+- each lecture now runs through explicit stages: subtitle-window figure probing, figure validation, figure markdown, plan, visual equation/diagram extraction, narrative map, math bank, LaTeX draft, refinement, compile, and course-book rebuild
 - after each material edit stage, the loop triggers a codex-driven commit/push step so progress is preserved incrementally
 - every prompt stage receives the corresponding lecture transcript path and the full transcript text for that lecture
-- selected lecture screenshots are stored under the course-level `figures/` folder and should remain visible in the generated notes alongside interpreted diagrams or equation reconstructions
+- selected lecture screenshots are chosen from subtitle-aligned video windows, stored under the course-level `figures/` folder, and should remain visible in the generated notes alongside interpreted diagrams or equation reconstructions
+- `chapters/<lecture>/figures_markdown.md` is the direct image-reading brief for the selected screenshots and feeds the downstream math and chapter-writing prompts
 - the writer loop can reuse one shared non-interactive Codex session id from `.lecture-notes-work/codex_sessions/susskind-notes.session_id`; the launch scripts expose a `--session-scope global|course|lecture` option, and the current default is `global`
 - the current shared session is documented at `.lecture-notes-work/codex_sessions/susskind-notes.session.md`, including the tmux session name and the live Codex session id
 

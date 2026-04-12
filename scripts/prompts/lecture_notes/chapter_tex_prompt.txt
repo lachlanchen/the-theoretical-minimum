@@ -21,6 +21,10 @@ Reference book excerpts:
 
 $book_reference_text
 
+Figure reading notes:
+
+$figures_markdown_text
+
 Writing rules:
 - output raw LaTeX only
 - no markdown
@@ -43,6 +47,9 @@ Writing rules:
 - do not mention being an AI, attached images, or prompt instructions
 - prefer slightly too much mathematical structure over a thin conceptual outline; the next pass will refine style and flow
 - read the transcript as a narrated lecture, not just a bag of facts; preserve the speaker's progression, setup, and payoff
+- for every selected asset in the list, include the original screenshot in the chapter with `\includegraphics`
+- when the screenshot shows an equation or diagram worth reconstructing, keep the screenshot and place the cleaned LaTeX equation or TikZ redraw nearby rather than replacing the screenshot
+- center figure environments, screenshots, TikZ diagrams, and standalone visual reconstructions unless there is a specific local reason not to
 
 Content requirements:
 - open with a short overview paragraph after the chapter heading
@@ -58,6 +65,10 @@ Content requirements:
 Chapter plan:
 
 $analysis_text
+
+Figure reading notes:
+
+$figures_markdown_text
 
 Visual extraction notes:
 

@@ -24,6 +24,10 @@ Reference book excerpts:
 
 $book_reference_text
 
+Figure reading notes:
+
+$figures_markdown_text
+
 Required output:
 - markdown only
 - no code fences

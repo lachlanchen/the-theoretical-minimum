@@ -37,6 +37,10 @@ Chapter plan:
 
 $analysis_text
 
+Figure reading notes:
+
+$figures_markdown_text
+
 Visual extraction notes:
 
 $visual_notes_text

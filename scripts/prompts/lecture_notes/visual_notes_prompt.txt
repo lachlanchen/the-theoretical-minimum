@@ -38,6 +38,10 @@ Rules:
 - In `Uncertainties`, call out symbols, indices, or steps that are not reliably legible.
 - Prefer faithful reconstruction over aggressive invention.
 
+Figure reading notes:
+
+$figures_markdown_text
+
 Transcript:
 
 $transcript_text

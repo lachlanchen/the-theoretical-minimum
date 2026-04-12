@@ -40,10 +40,17 @@ Required improvements:
 - keep the tone serious, smooth, and mathematically engaging
 - end with a short summary section
 - make the reader feel the lecture unfolding step by step, not a disconnected set of polished subsections
+- keep every selected screenshot asset visible in the refined chapter, not just the redrawn interpretation
+- when a screenshot carries a board equation or diagram, pair it with the cleaned LaTeX equation or TikZ redraw nearby
+- keep figures, TikZ diagrams, and standalone reconstructed equations centered unless an asymmetric layout is genuinely better
 
 Chapter plan:
 
 $analysis_text
+
+Figure reading notes:
+
+$figures_markdown_text
 
 Visual extraction notes:
 
