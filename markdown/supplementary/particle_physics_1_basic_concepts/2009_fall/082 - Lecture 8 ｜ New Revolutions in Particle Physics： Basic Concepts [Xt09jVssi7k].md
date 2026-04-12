@@ -1,0 +1,2330 @@
+# Transcript
+
+Source: supplementary/particle_physics_1_basic_concepts/2009_fall/082 - Lecture 8 ｜ New Revolutions in Particle Physics： Basic Concepts [Xt09jVssi7k].mkv
+
+- [00:00:00,000 - 00:00:07,000] Stanford University
+- [00:00:07,000 - 00:00:15,000] Okay, the question arose about the paradox of
+- [00:00:15,000 - 00:00:24,000] if two particles, both fermions, make up a boson,
+- [00:00:24,000 - 00:00:29,000] can we have a boson, two bosons,
+- [00:00:29,000 - 00:00:34,000] which are, let's say, in the same state?
+- [00:00:34,000 - 00:00:37,000] Perhaps a more general question.
+- [00:00:37,000 - 00:00:43,000] The wave function of bosons is supposed to be symmetric
+- [00:00:43,000 - 00:00:45,000] on the interchange of the two bosons.
+- [00:00:45,000 - 00:00:48,000] That means, for example, if you had two bosons
+- [00:00:48,000 - 00:00:50,500] and the wave function describing them was
+- [00:00:50,500 - 00:00:53,000] a function of, let's say, x and y,
+- [00:00:53,000 - 00:00:54,000] this doesn't mean the two bosons are the same.
+- [00:00:54,000 - 00:00:56,500] This means that if you're using two coordinates,
+- [00:00:56,500 - 00:00:59,000] x and y, in the x and y direction,
+- [00:00:59,000 - 00:01:01,500] x and y are simply now standing
+- [00:01:01,500 - 00:01:04,000] for particle number 1 and particle number 2.
+- [00:01:04,000 - 00:01:08,000] If they're bosons, then the rule is that
+- [00:01:08,000 - 00:01:12,000] that must equal psi of y and x.
+- [00:01:12,000 - 00:01:14,000] That's another way of saying you
+- [00:01:14,000 - 00:01:16,000] can't distinguish between the two particles.
+- [00:01:16,000 - 00:01:19,500] There's no difference between saying
+- [00:01:19,500 - 00:01:23,000] you have a two boson system
+- [00:01:23,000 - 00:01:23,500] in the state psi of x and y,
+- [00:01:23,500 - 00:01:24,000] and saying you can distinguish between the two bosons.
+- [00:01:24,000 - 00:01:25,500] You have two bosons in the
+- [00:01:25,500 - 00:01:27,000] state psi of y and x.
+- [00:01:27,000 - 00:01:32,000] It's interchange symmetric between them.
+- [00:01:32,000 - 00:01:34,000] And in that case, you can certainly
+- [00:01:34,000 - 00:01:36,000] have two particles in the same state.
+- [00:01:36,000 - 00:01:39,000] For example, a special case of this
+- [00:01:39,000 - 00:01:42,000] would be that psi is a product function.
+- [00:01:42,000 - 00:01:44,500] Psi of x and y is a product of,
+- [00:01:44,500 - 00:01:47,000] I don't want to use the label psi again,
+- [00:01:47,000 - 00:01:51,000] because I've used psi to label two particle wave functions,
+- [00:01:51,000 - 00:01:52,000] but let's invent another thing
+- [00:01:52,000 - 00:01:53,000] to describe one particle wave function.
+- [00:01:53,000 - 00:01:56,000] Let's just call it phi.
+- [00:01:56,000 - 00:01:58,500] And psi of x and y could
+- [00:01:58,500 - 00:02:01,000] be phi of x times phi of y.
+- [00:02:01,000 - 00:02:05,500] This would correspond to a boson
+- [00:02:05,500 - 00:02:10,000] with two bosons with wave function phi,
+- [00:02:10,000 - 00:02:12,000] with the same wave function.
+- [00:02:12,000 - 00:02:14,000] In other words, in the same quantum state.
+- [00:02:14,000 - 00:02:17,000] That's what this would mean, a two particle state,
+- [00:02:17,000 - 00:02:22,000] and each particle is in the state phi.
+- [00:02:22,000 - 00:02:25,000] So, the cross is obviously symmetric.
+- [00:02:25,000 - 00:02:29,000] It is the same as phi of y and
+- [00:02:29,000 - 00:02:33,000] x, sorry, phi of y times phi of x.
+- [00:02:33,000 - 00:02:35,000] Wave functions are not operators.
+- [00:02:35,000 - 00:02:36,000] They commute.
+- [00:02:36,000 - 00:02:38,000] Wave functions are just ordinary numbers.
+- [00:02:38,000 - 00:02:40,000] They're not matrices.
+- [00:02:40,000 - 00:02:42,000] They're just functions of x,
+- [00:02:42,000 - 00:02:44,500] and they satisfy all of the
+- [00:02:44,500 - 00:02:47,000] algebraic properties of perfectly ordinary functions.
+- [00:02:47,000 - 00:02:49,000] And so, what did I write?
+- [00:02:49,000 - 00:02:51,000] Yeah, I wrote the right thing.
+- [00:02:52,000 - 00:02:55,000] Yes, two bosons can be in the same state,
+- [00:02:55,000 - 00:02:57,000] and the wave function be symmetric.
+- [00:02:57,000 - 00:02:59,000] What about two fermions?
+- [00:02:59,000 - 00:03:01,500] The rule for two fermions, if we
+- [00:03:01,500 - 00:03:04,000] put them, if we have two fermions,
+- [00:03:04,000 - 00:03:07,000] is that the wave function has to change sign.
+- [00:03:07,000 - 00:03:13,000] Now, that's a very odd thing, but nevertheless,
+- [00:03:13,000 - 00:03:15,500] that is the mathematical rule,
+- [00:03:15,500 - 00:03:18,000] the abstract mathematical rule for fermions.
+- [00:03:18,000 - 00:03:20,000] When you interchange them, the
+- [00:03:20,000 - 00:03:22,000] sign of the wave function changes.
+- [00:03:22,000 - 00:03:26,000] Now, okay, so that's the difference between them.
+- [00:03:26,000 - 00:03:30,000] Then, can you have two fermions in the same state?
+- [00:03:30,000 - 00:03:32,500] No, because phi of x and y is
+- [00:03:32,500 - 00:03:35,000] not equal to minus phi of y and y.
+- [00:03:35,000 - 00:03:36,000] You see what I mean.
+- [00:03:36,000 - 00:03:41,000] Phi of x times phi of y is not equal to
+- [00:03:41,000 - 00:03:46,000] phi of y and phi of x with a minus sign.
+- [00:03:46,000 - 00:03:51,000] All right, now, supposing I have a wave function
+- [00:03:51,000 - 00:03:53,000] for two particles.
+- [00:03:53,000 - 00:03:55,500] Can I make, and it's
+- [00:03:55,500 - 00:03:58,000] not symmetric and it's not anti-symmetric,
+- [00:03:58,000 - 00:04:02,000] can I make something out of it which is symmetric
+- [00:04:02,000 - 00:04:05,000] or something which is anti-symmetric?
+- [00:04:05,000 - 00:04:07,000] So let me show you how you do that.
+- [00:04:07,000 - 00:04:09,500] Supposing I had some wave function
+- [00:04:09,500 - 00:04:12,000] which was neither symmetric nor anti-symmetric.
+- [00:04:12,000 - 00:04:16,000] Let's just call it phi of x and y.
+- [00:04:16,000 - 00:04:20,000] When you interchange x and y, it neither changes sign,
+- [00:04:21,000 - 00:04:23,000] nor does it stay the same.
+- [00:04:23,000 - 00:04:26,000] So it's neither symmetric nor anti-symmetric.
+- [00:04:26,000 - 00:04:29,000] All right, if you want to make something symmetric,
+- [00:04:29,000 - 00:04:33,000] which is an appropriate wave function for two bosons,
+- [00:04:33,000 - 00:04:35,000] you just add
+- [00:04:35,000 - 00:04:38,000] phi of y and x.
+- [00:04:38,000 - 00:04:41,000] Now this is obviously symmetric.
+- [00:04:41,000 - 00:04:43,000] If you interchange x and y,
+- [00:04:43,000 - 00:04:47,000] this one becomes this one, this one becomes this one,
+- [00:04:47,000 - 00:04:49,000] and nothing happens to that.
+- [00:04:49,000 - 00:04:51,000] Now this is a symmetric wave function.
+- [00:04:51,000 - 00:04:54,000] This is a possible wave function for
+- [00:04:54,000 - 00:04:57,000] bosons for any psi of x and y.
+- [00:04:57,000 - 00:05:00,000] And if we're talking about fermions,
+- [00:05:00,000 - 00:05:03,000] we can do the same thing,
+- [00:05:03,000 - 00:05:06,000] except that we put a minus sign there.
+- [00:05:06,000 - 00:05:09,000] Now what happens if we interchange x and y?
+- [00:05:09,000 - 00:05:10,500] This one goes to this one,
+- [00:05:10,500 - 00:05:12,000] this one goes to this one,
+- [00:05:12,000 - 00:05:15,000] but the whole thing will change sign.
+- [00:05:15,000 - 00:05:17,000] The whole thing will change sign
+- [00:05:17,000 - 00:05:19,000] if we interchange x and y.
+- [00:05:19,000 - 00:05:20,000] Okay.
+- [00:05:20,000 - 00:05:23,000] So this is a wave function for fermions.
+- [00:05:23,000 - 00:05:27,000] Symmetrized is called symmetrizing and anti-symmetrizing,
+- [00:05:27,000 - 00:05:30,000] a wave function for two particles.
+- [00:05:30,000 - 00:05:33,000] Okay, now let's suppose we have four particles altogether.
+- [00:05:33,000 - 00:05:36,000] Four fermions.
+- [00:05:36,000 - 00:05:40,000] Four fermions, what are the rules for four fermions?
+- [00:05:40,000 - 00:05:42,000] And for simplicity, let's suppose there
+- [00:05:42,000 - 00:05:44,000] are two different kinds of fermions.
+- [00:05:44,000 - 00:05:48,000] Let's say there is electrons and protons,
+- [00:05:48,000 - 00:05:51,000] but we're talking about hydrogen atoms.
+- [00:05:51,000 - 00:05:52,500] Now, the rule, okay, so
+- [00:05:52,500 - 00:05:54,000] let's see what is the rule.
+- [00:05:54,000 - 00:05:58,000] We have a four-body wave function.
+- [00:05:58,000 - 00:06:01,000] Let's now let electrons be called
+- [00:06:01,000 - 00:06:04,000] x and protons be called y.
+- [00:06:04,000 - 00:06:07,000] So the wave function is a function of two x's,
+- [00:06:07,000 - 00:06:16,000] let's call them x1 and x2, y1 and y2.
+- [00:06:16,000 - 00:06:19,000] So a function of four variables.
+- [00:06:19,000 - 00:06:26,000] What are the rules?
+- [00:06:26,000 - 00:06:28,000] The rules are, first of all, that
+- [00:06:28,000 - 00:06:30,000] the wave function has to change sign
+- [00:06:30,000 - 00:06:33,000] if you interchange x1 and x2.
+- [00:06:33,000 - 00:06:37,000] That's the fact that the electrons are fermions.
+- [00:06:37,000 - 00:06:40,500] It must also change sign
+- [00:06:40,500 - 00:06:44,000] when you interchange y1 and y2.
+- [00:06:44,000 - 00:06:46,000] Incidentally, let's see.
+- [00:06:46,000 - 00:06:52,000] Let's do this right.
+- [00:06:52,000 - 00:06:54,000] It must also change sign
+- [00:06:54,000 - 00:06:56,000] when you interchange y1 and y2.
+- [00:06:56,000 - 00:07:03,000] Yeah, that's the rule.
+- [00:07:03,000 - 00:07:05,000] Those are the only rules.
+- [00:07:05,000 - 00:07:07,000] Sign change when you interchange x1 and x2,
+- [00:07:07,000 - 00:07:09,000] that's because electrons are fermions,
+- [00:07:09,000 - 00:07:13,000] and a sign change when you interchange y1 and y2
+- [00:07:13,000 - 00:07:15,000] because protons are fermions.
+- [00:07:15,000 - 00:07:17,000] So let's see what kind
+- [00:07:17,000 - 00:07:19,000] of wave functions we can build.
+- [00:07:19,000 - 00:07:28,000] Let's start with a hydrogen atom.
+- [00:07:28,000 - 00:07:34,000] A hydrogen atom located at the origin.
+- [00:07:34,000 - 00:07:36,000] A hydrogen atom located at
+- [00:07:36,000 - 00:07:38,000] the origin has a wave function,
+- [00:07:38,000 - 00:07:43,000] which is a function of its electron and its proton.
+- [00:07:45,000 - 00:07:47,000] So one now picks out
+- [00:07:47,000 - 00:07:49,000] one of the two hydrogen atoms.
+- [00:07:49,000 - 00:07:52,000] One now stands for one of the two hydrogen atoms.
+- [00:07:52,000 - 00:07:54,500] And this might be some wave
+- [00:07:54,500 - 00:07:57,000] function governing one of the hydrogen atoms,
+- [00:07:57,000 - 00:07:59,000] over here.
+- [00:07:59,000 - 00:08:03,000] But supposing I want to shift its location.
+- [00:08:03,000 - 00:08:08,000] How would I shift its location?
+- [00:08:08,000 - 00:08:11,000] Well, it's easy to shift its location.
+- [00:08:11,000 - 00:08:13,000] You just shift the origin of both x1 and x2.
+- [00:08:13,000 - 00:08:16,000] I guess I don't really have to do it.
+- [00:08:16,000 - 00:08:17,000] Okay.
+- [00:08:17,000 - 00:08:19,000] I don't need to shift its origin.
+- [00:08:19,000 - 00:08:22,000] And then we have another pair.
+- [00:08:22,000 - 00:08:25,500] And the other pair is describing
+- [00:08:25,500 - 00:08:29,000] a hydrogen atom at some other location.
+- [00:08:29,000 - 00:08:31,000] All right.
+- [00:08:31,000 - 00:08:34,000] Since it's a hydrogen atom at another location,
+- [00:08:34,000 - 00:08:37,000] it has a different wave function.
+- [00:08:37,000 - 00:08:39,000] The wave function may be the
+- [00:08:39,000 - 00:08:41,000] same except that it's been translated,
+- [00:08:41,000 - 00:08:42,000] but it's not.
+- [00:08:42,000 - 00:08:45,000] It's been translated, but it is different.
+- [00:08:45,000 - 00:08:51,000] Phi of x2 and y2.
+- [00:08:51,000 - 00:08:54,000] Now, in general, this is neither
+- [00:08:54,000 - 00:08:57,000] symmetric with respect to the x's
+- [00:08:57,000 - 00:09:00,000] or anti-symmetric with respect to the x's
+- [00:09:00,000 - 00:09:03,000] or, for that matter, with respect to the y's.
+- [00:09:03,000 - 00:09:06,000] So it's not a good wave function for fermions.
+- [00:09:06,000 - 00:09:08,500] Supposing I want to make it
+- [00:09:08,500 - 00:09:11,000] anti-symmetric on the interchange of the electrons.
+- [00:09:12,000 - 00:09:14,000] That's very easy.
+- [00:09:14,000 - 00:09:17,000] We just subtract off here
+- [00:09:17,000 - 00:09:18,000] psi of...
+- [00:09:18,000 - 00:09:22,000] I just interchange x1 and x2,
+- [00:09:22,000 - 00:09:25,000] leaving y1 and y2 alone.
+- [00:09:25,000 - 00:09:26,000] All right.
+- [00:09:26,000 - 00:09:28,000] So let's do that first.
+- [00:09:28,000 - 00:09:36,000] Minus psi of x2y1
+- [00:09:38,000 - 00:09:41,000] phi of x1y2.
+- [00:09:42,000 - 00:09:48,000] It is now anti-symmetric with respect to the x's.
+- [00:09:48,000 - 00:09:49,500] If I interchange the two
+- [00:09:49,500 - 00:09:51,000] x's, the whole thing changes sign.
+- [00:09:51,000 - 00:09:54,000] But it's not anti-symmetric with respect to the y's.
+- [00:09:54,000 - 00:09:55,000] Okay.
+- [00:09:55,000 - 00:09:56,500] How do I make it
+- [00:09:56,500 - 00:09:58,000] anti-symmetric with respect to the y's?
+- [00:09:58,000 - 00:09:59,500] The answer is take the
+- [00:09:59,500 - 00:10:01,000] whole thing that I have here,
+- [00:10:01,000 - 00:10:05,000] interchange the two y's, and put a minus sign in.
+- [00:10:05,000 - 00:10:06,000] All right.
+- [00:10:06,000 - 00:10:08,000] So we put in minus
+- [00:10:08,000 - 00:10:11,000] psi of x1 and y2.
+- [00:10:12,000 - 00:10:17,000] phi of x2y2.
+- [00:10:17,000 - 00:10:19,000] That's exactly this with...
+- [00:10:19,000 - 00:10:21,000] Sorry, y1.
+- [00:10:21,000 - 00:10:23,000] This and this are the same, except
+- [00:10:23,000 - 00:10:25,000] that y2 and y1 have been interchanged.
+- [00:10:25,000 - 00:10:27,000] And I put a minus sign in.
+- [00:10:27,000 - 00:10:30,000] And then I want to anti-symmetrize this one
+- [00:10:30,000 - 00:10:33,000] with respect to the exchange of the y's.
+- [00:10:33,000 - 00:10:35,000] So that becomes plus...
+- [00:10:35,000 - 00:10:37,000] I have to change the sign.
+- [00:10:37,000 - 00:10:40,000] psi of x2y2.
+- [00:10:40,000 - 00:10:45,000] phi of x1y1.
+- [00:10:45,000 - 00:10:50,000] Okay.
+- [00:10:50,000 - 00:10:53,000] So this is now anti-symmetric with respect
+- [00:10:53,000 - 00:10:56,000] to both the x's and the y's.
+- [00:10:56,000 - 00:11:00,000] If you interchange in this expression, x1 and x2,
+- [00:11:00,000 - 00:11:02,000] it'll go to this one and change sign.
+- [00:11:02,000 - 00:11:05,000] If you interchange x1 and x2 here,
+- [00:11:05,000 - 00:11:07,000] this one, and so forth.
+- [00:11:07,000 - 00:11:09,000] The whole thing is fully anti-symmetric.
+- [00:11:09,000 - 00:11:11,000] Fully anti-symmetric, yeah.
+- [00:11:11,000 - 00:11:15,000] My problem is if you take those two hydrogen's atoms
+- [00:11:15,000 - 00:11:17,000] and put them closer and closer,
+- [00:11:17,000 - 00:11:18,500] there's nothing preventing you from doing
+- [00:11:18,500 - 00:11:20,000] that because there are bosons, right?
+- [00:11:20,000 - 00:11:23,000] There may be forces between them.
+- [00:11:23,000 - 00:11:25,000] There may be...
+- [00:11:25,000 - 00:11:28,000] The Pauli principle does create a
+- [00:11:28,000 - 00:11:31,000] kind of force between the atoms.
+- [00:11:31,000 - 00:11:35,000] It will make it very, very...
+- [00:11:35,000 - 00:11:37,000] It'll make it essentially impossible
+- [00:11:37,000 - 00:11:40,000] to put two atoms right on top of each other.
+- [00:11:40,000 - 00:11:42,000] But you'll simply attribute that to a force.
+- [00:11:42,000 - 00:11:44,000] But will you be able to put
+- [00:11:44,000 - 00:11:46,000] two atoms into the same momentum state?
+- [00:11:46,000 - 00:11:49,000] Momentum states are spread out all over the place.
+- [00:11:49,000 - 00:11:51,000] They are spread out in space.
+- [00:11:51,000 - 00:11:53,000] So when you put two
+- [00:11:53,000 - 00:11:55,000] atoms into the same momentum state,
+- [00:11:55,000 - 00:11:57,000] you're not ramming them in on top of each other,
+- [00:11:57,000 - 00:12:00,000] and it doesn't cost a lot of energy.
+- [00:12:00,000 - 00:12:02,000] So, yeah, the question of whether you can
+- [00:12:02,000 - 00:12:04,000] stick two things on top of each other
+- [00:12:04,000 - 00:12:05,500] is a different question than
+- [00:12:05,500 - 00:12:07,000] whether they're fermions and bosons.
+- [00:12:07,000 - 00:12:11,000] It can even happen that, you know,
+- [00:12:11,000 - 00:12:14,000] billiard balls can be bosons.
+- [00:12:14,000 - 00:12:16,000] You can't stick them on top of each other.
+- [00:12:16,000 - 00:12:18,000] They have hard cores.
+- [00:12:18,000 - 00:12:20,000] Nevertheless, they can be bosons.
+- [00:12:20,000 - 00:12:22,000] You can put them...
+- [00:12:22,000 - 00:12:24,000] You can't put them at the same point.
+- [00:12:24,000 - 00:12:26,000] It just costs too much energy,
+- [00:12:26,000 - 00:12:28,000] but you can put them into the same momentum.
+- [00:12:28,000 - 00:12:33,000] But if your wave functions are eigenvalue...
+- [00:12:33,000 - 00:12:35,000] Eigenfunctions of momentum,
+- [00:12:35,000 - 00:12:36,000] then couldn't you...
+- [00:12:36,000 - 00:12:39,000] Couldn't you have the two hydrogen atoms
+- [00:12:39,000 - 00:12:41,000] in this same eigenstate of momentum,
+- [00:12:41,000 - 00:12:43,500] and then you would have
+- [00:12:43,500 - 00:12:46,000] two fermions in the same state?
+- [00:12:46,000 - 00:12:50,000] No. No, no, no, no, no.
+- [00:12:50,000 - 00:12:53,000] Just take any wave function like this.
+- [00:12:53,000 - 00:12:54,000] Is this...
+- [00:12:54,000 - 00:12:57,000] It's anti-symmetric with exchanges to x.
+- [00:12:57,000 - 00:13:00,000] It's anti-symmetric with respect to exchanges of y.
+- [00:13:00,000 - 00:13:04,000] What about if I interchange one and two?
+- [00:13:04,000 - 00:13:06,000] One and two is interchanging the two atoms.
+- [00:13:06,000 - 00:13:08,000] Right?
+- [00:13:08,000 - 00:13:10,000] What happens then?
+- [00:13:10,000 - 00:13:12,000] It's symmetric.
+- [00:13:12,000 - 00:13:14,000] It's symmetric.
+- [00:13:14,000 - 00:13:16,000] Yeah.
+- [00:13:16,000 - 00:13:18,000] So it's symmetric with respect to
+- [00:13:18,000 - 00:13:20,000] the interchange of the two atoms.
+- [00:13:20,000 - 00:13:21,000] And why?
+- [00:13:21,000 - 00:13:23,000] Because when you interchange the x's,
+- [00:13:23,000 - 00:13:24,000] you get a minus sign.
+- [00:13:24,000 - 00:13:25,000] When you interchange the y's,
+- [00:13:25,000 - 00:13:26,000] you get a minus sign.
+- [00:13:26,000 - 00:13:29,000] Minus times minus is plus.
+- [00:13:29,000 - 00:13:31,000] So let's say...
+- [00:13:31,000 - 00:13:32,000] Yeah.
+- [00:13:32,000 - 00:13:34,000] If I interchange one and two,
+- [00:13:34,000 - 00:13:35,000] x one,
+- [00:13:35,000 - 00:13:36,000] y one,
+- [00:13:36,000 - 00:13:38,000] will become x two, y two,
+- [00:13:38,000 - 00:13:41,000] with the same sign.
+- [00:13:41,000 - 00:13:42,000] x two, y two,
+- [00:13:42,000 - 00:13:44,000] will become x one, y one,
+- [00:13:44,000 - 00:13:46,000] again with the same sign.
+- [00:13:46,000 - 00:13:50,000] So this one will...
+- [00:13:50,000 - 00:13:53,000] These two will transform into each other
+- [00:13:53,000 - 00:13:56,000] by simultaneous changes
+- [00:13:56,000 - 00:13:58,000] of everything with a one or everything with a two.
+- [00:13:58,000 - 00:14:00,000] And that's exchanging the two atoms.
+- [00:14:00,000 - 00:14:01,000] Likewise,
+- [00:14:01,000 - 00:14:04,000] let's see, we have psi of x two, y one,
+- [00:14:04,000 - 00:14:07,000] but here we have psi of x one, y two.
+- [00:14:07,000 - 00:14:09,000] Both of them have minus signs,
+- [00:14:09,000 - 00:14:12,000] so these will go into each other.
+- [00:14:12,000 - 00:14:14,000] So the whole thing is symmetric
+- [00:14:14,000 - 00:14:16,500] with respect to the interchange
+- [00:14:16,500 - 00:14:19,000] of atom one and atom two.
+- [00:14:21,000 - 00:14:24,000] That doesn't mean that it doesn't...
+- [00:14:24,000 - 00:14:25,000] This is quite...
+- [00:14:25,000 - 00:14:27,000] This whole story here is independent
+- [00:14:27,000 - 00:14:30,000] of the question of energies.
+- [00:14:30,000 - 00:14:32,000] It may be impossible for other reasons
+- [00:14:32,000 - 00:14:34,000] to put two things on top of each other,
+- [00:14:34,000 - 00:14:35,000] in space.
+- [00:14:35,000 - 00:14:37,000] The reasons being that it may be
+- [00:14:37,000 - 00:14:40,000] very strong repulsive forces.
+- [00:14:40,000 - 00:14:42,000] But a good example...
+- [00:14:42,000 - 00:14:45,000] Can I ask what we do physically?
+- [00:14:45,000 - 00:14:47,000] Physically?
+- [00:14:47,000 - 00:14:48,000] We just wrote down a wave,
+- [00:14:48,000 - 00:14:50,000] an appropriate wave function for two atoms,
+- [00:14:50,000 - 00:14:52,000] for two bosonic atoms.
+- [00:14:52,000 - 00:14:54,000] In momentum space?
+- [00:14:54,000 - 00:14:56,000] No, these may or may not be in momentum space.
+- [00:14:56,000 - 00:14:59,000] They may be anything.
+- [00:14:59,000 - 00:15:00,000] They may be anything.
+- [00:15:00,000 - 00:15:02,000] Well, I mean, what is...
+- [00:15:02,000 - 00:15:03,000] Are we saying that...
+- [00:15:03,000 - 00:15:05,000] If we have two bosonic atoms,
+- [00:15:05,000 - 00:15:08,000] that that's what their state will be?
+- [00:15:08,000 - 00:15:09,000] Yes.
+- [00:15:09,000 - 00:15:10,000] Okay.
+- [00:15:10,000 - 00:15:11,000] Yes.
+- [00:15:11,000 - 00:15:12,000] If we have a bosonic...
+- [00:15:12,000 - 00:15:14,000] If we have an atom with a wave function
+- [00:15:14,000 - 00:15:17,000] psi of x1 and y1,
+- [00:15:17,000 - 00:15:19,000] and another atom...
+- [00:15:19,000 - 00:15:22,000] If we didn't know anything about this atom over here,
+- [00:15:22,000 - 00:15:24,000] we might write down a wave function
+- [00:15:24,000 - 00:15:27,000] for the electron and proton in the other atom.
+- [00:15:27,000 - 00:15:29,000] And now we want to write down a wave function
+- [00:15:29,000 - 00:15:32,000] which is appropriate for the two-atom system.
+- [00:15:32,000 - 00:15:33,000] Okay.
+- [00:15:33,000 - 00:15:34,000] All right?
+- [00:15:34,000 - 00:15:36,000] The wave function for the two-atom system
+- [00:15:36,000 - 00:15:39,000] has to be antisymmetric when you interchange any x's,
+- [00:15:39,000 - 00:15:42,000] antisymmetric when you change any y.
+- [00:15:42,000 - 00:15:44,000] And so I just basically use this rule,
+- [00:15:44,000 - 00:15:46,000] except I use it twice.
+- [00:15:46,000 - 00:15:49,000] Once to exchange the x's,
+- [00:15:49,000 - 00:15:50,000] and that gives me the top,
+- [00:15:50,000 - 00:15:52,000] and then take the whole thing
+- [00:15:52,000 - 00:15:56,000] and interchange the y's and change the sign.
+- [00:15:56,000 - 00:15:58,000] The result is, quite clearly,
+- [00:15:58,000 - 00:16:00,000] if you look at it carefully,
+- [00:16:00,000 - 00:16:02,000] interchange symmetric,
+- [00:16:02,000 - 00:16:04,000] under the exchange of the two atoms,
+- [00:16:04,000 - 00:16:05,000] one and two,
+- [00:16:05,000 - 00:16:07,000] atom one and atom two.
+- [00:16:07,000 - 00:16:10,000] So...
+- [00:16:10,000 - 00:16:13,000] And that, at the end of the day,
+- [00:16:13,000 - 00:16:15,000] at the end of the day,
+- [00:16:15,000 - 00:16:17,000] that is the rule
+- [00:16:17,000 - 00:16:20,000] that a bosonic atom and another bosonic atom,
+- [00:16:20,000 - 00:16:22,000] when you interchange them,
+- [00:16:22,000 - 00:16:25,000] the wave function has to have the same sign.
+- [00:16:25,000 - 00:16:30,000] Okay, now what kind of states can you put two...
+- [00:16:30,000 - 00:16:31,000] Yeah, momentum states,
+- [00:16:31,000 - 00:16:34,000] you can put two atoms into...
+- [00:16:34,000 - 00:16:36,000] in the same wave function.
+- [00:16:36,000 - 00:16:38,000] That doesn't cost a great deal of energy
+- [00:16:38,000 - 00:16:42,000] because they're hardly ever on top of each other.
+- [00:16:42,000 - 00:16:43,500] But it is true that if
+- [00:16:43,500 - 00:16:45,000] you try to stick two atoms
+- [00:16:45,000 - 00:16:47,000] on top of each other,
+- [00:16:47,000 - 00:16:49,000] it's very hard to do
+- [00:16:49,000 - 00:16:53,000] because it costs very, very costly in energy.
+- [00:16:58,000 - 00:16:59,000] Let's see.
+- [00:16:59,000 - 00:17:00,000] What would happen...
+- [00:17:01,000 - 00:17:03,000] In fact, what would happen...
+- [00:17:03,000 - 00:17:06,000] Okay, let's see what would happen
+- [00:17:06,000 - 00:17:10,000] if we made both atoms with the same wave function.
+- [00:17:10,000 - 00:17:12,000] Not one atom with wave function phi
+- [00:17:12,000 - 00:17:15,000] and one atom with wave function psi,
+- [00:17:15,000 - 00:17:18,000] but two with the same...
+- [00:17:18,000 - 00:17:20,000] What happens then?
+- [00:17:20,000 - 00:17:24,000] Let's see.
+- [00:17:24,000 - 00:17:26,000] Okay, so let's...
+- [00:17:31,000 - 00:17:33,500] Okay, so there are two
+- [00:17:33,500 - 00:17:36,000] atoms with the same wave function.
+- [00:17:36,000 - 00:17:39,000] We have to subtract...
+- [00:17:39,000 - 00:17:41,000] All right, so this is this.
+- [00:17:44,000 - 00:17:47,000] Psi of x1, y2,
+- [00:17:47,000 - 00:17:49,000] psi,
+- [00:17:49,000 - 00:17:52,000] psi.
+- [00:17:52,000 - 00:17:54,000] Is that zero or not?
+- [00:17:54,000 - 00:17:56,000] I don't think so.
+- [00:17:59,000 - 00:18:00,000] It's not zero, is it?
+- [00:18:01,000 - 00:18:03,000] Oh, I don't know.
+- [00:18:03,000 - 00:18:04,000] It's a diagonal, isn't it?
+- [00:18:04,000 - 00:18:05,000] Sure it is.
+- [00:18:05,000 - 00:18:06,000] Is it zero?
+- [00:18:06,000 - 00:18:07,000] Yeah.
+- [00:18:07,000 - 00:18:09,000] x1, y1.
+- [00:18:09,000 - 00:18:10,000] Where else do you see it?
+- [00:18:10,000 - 00:18:11,000] Yeah, yeah, yeah.
+- [00:18:11,000 - 00:18:12,000] No, no, no.
+- [00:18:12,000 - 00:18:13,000] It's not zero.
+- [00:18:13,000 - 00:18:14,000] No.
+- [00:18:14,000 - 00:18:17,000] This one and this one are the same.
+- [00:18:17,000 - 00:18:18,000] Okay?
+- [00:18:18,000 - 00:18:20,000] So it's just twice this.
+- [00:18:20,000 - 00:18:21,000] Two doesn't...
+- [00:18:21,000 - 00:18:23,000] Two is irrelevant.
+- [00:18:23,000 - 00:18:26,000] We don't care about a factor of two.
+- [00:18:26,000 - 00:18:28,000] And twice this.
+- [00:18:28,000 - 00:18:29,000] This is it.
+- [00:18:29,000 - 00:18:30,000] And this is not zero.
+- [00:18:31,000 - 00:18:32,000] Okay?
+- [00:18:32,000 - 00:18:34,000] This is two atoms in the same state.
+- [00:18:34,000 - 00:18:35,000] It's not zero.
+- [00:18:35,000 - 00:18:36,000] Okay?
+- [00:18:36,000 - 00:18:37,000] Some magic is going on here.
+- [00:18:37,000 - 00:18:40,500] You can't put two electrons in the same state, meaning
+- [00:18:40,500 - 00:18:44,000] to say the electron wave function has to be anti-symmetric.
+- [00:18:44,000 - 00:18:47,000] The proton wave function has to be anti-symmetric.
+- [00:18:47,000 - 00:18:49,000] Both are true here.
+- [00:18:49,000 - 00:18:52,000] But yet the two atoms are in the same state.
+- [00:18:52,000 - 00:18:53,000] So ponder that a little bit.
+- [00:18:53,000 - 00:18:56,000] Write down that wave function and look at it and...
+- [00:18:56,000 - 00:18:57,000] And...
+- [00:18:57,000 - 00:18:59,000] And...
+- [00:18:59,000 - 00:19:00,000] And...
+- [00:19:00,000 - 00:19:04,500] Of course, the point is, among other things, that in
+- [00:19:04,500 - 00:19:09,000] the atom, the electron is not in a well-defined position.
+- [00:19:09,000 - 00:19:10,500] It has a probability of
+- [00:19:10,500 - 00:19:12,000] being many places in the atom.
+- [00:19:12,000 - 00:19:15,500] You put two atoms in the same place, it's quite
+- [00:19:15,500 - 00:19:19,000] true the two electrons can't be in the same place.
+- [00:19:19,000 - 00:19:20,000] That's true.
+- [00:19:20,000 - 00:19:25,000] Two electrons cannot be in the same place.
+- [00:19:25,000 - 00:19:26,000] Let's see.
+- [00:19:26,000 - 00:19:27,000] What would happen?
+- [00:19:27,000 - 00:19:28,000] All right.
+- [00:19:28,000 - 00:19:29,000] Here's our wave function for the two atoms.
+- [00:19:29,000 - 00:19:31,000] Anti-symmetric and so forth.
+- [00:19:31,000 - 00:19:33,500] Now supposing we try to stick
+- [00:19:33,500 - 00:19:36,000] the two electrons into the same place.
+- [00:19:36,000 - 00:19:40,000] That would mean setting x1 equal to x2.
+- [00:19:40,000 - 00:19:42,000] Then it would be zero.
+- [00:19:42,000 - 00:19:43,000] All right.
+- [00:19:43,000 - 00:19:47,500] So although the two atoms are in the same state, it's still true that
+- [00:19:47,500 - 00:19:52,000] in that state, if you try to find the two electrons in the same place...
+- [00:19:52,000 - 00:19:53,000] Let's just see.
+- [00:19:53,000 - 00:19:54,000] What would that be?
+- [00:19:54,000 - 00:19:55,500] The two electrons in the same place
+- [00:19:55,500 - 00:19:57,000] would be psi of x1, y1, and...
+- [00:19:57,000 - 00:19:58,000] And...
+- [00:19:58,000 - 00:20:03,000] Y1 psi of x1, y2.
+- [00:20:03,000 - 00:20:06,000] I've just set the two x's equal to each other.
+- [00:20:06,000 - 00:20:18,000] Minus psi of x1, y1, psi of x1, y2.
+- [00:20:18,000 - 00:20:20,000] So I forced the two electrons to
+- [00:20:20,000 - 00:20:22,000] be in the same place, and guess what?
+- [00:20:22,000 - 00:20:23,000] I think they cancel.
+- [00:20:23,000 - 00:20:24,000] Yes, they do.
+- [00:20:24,000 - 00:20:25,000] Okay?
+- [00:20:25,000 - 00:20:26,000] So...
+- [00:20:28,000 - 00:20:30,500] So as I said, ponder it a
+- [00:20:30,500 - 00:20:33,000] little bit, and you'll get familiar with it.
+- [00:20:33,000 - 00:20:35,500] And you'll see how it can possibly
+- [00:20:35,500 - 00:20:38,000] be that two fermions can be a boson.
+- [00:20:41,000 - 00:20:45,500] Does that finally mean that whereas you can exchange
+- [00:20:45,500 - 00:20:50,000] two atoms, two hydrogen atoms in different states, you can't...
+- [00:20:50,000 - 00:20:51,000] So this...
+- [00:20:51,000 - 00:20:54,000] Before I said x1 equal to x2 here,
+- [00:20:54,000 - 00:20:57,000] these two atoms were in the same state.
+- [00:20:57,000 - 00:20:59,500] The atoms were in the same state, but the
+- [00:20:59,500 - 00:21:02,000] electrons and the protons were never in the same state.
+- [00:21:02,000 - 00:21:03,000] Okay.
+- [00:21:03,000 - 00:21:05,000] The atoms are with the protons,
+- [00:21:05,000 - 00:21:07,000] the electrons are with the protons.
+- [00:21:07,000 - 00:21:09,500] Whereas if they're both electrons and
+- [00:21:09,500 - 00:21:12,000] protons, you can't have a second case.
+- [00:21:12,000 - 00:21:19,000] When you did this operation of anti-symmetrizing, you basically projected out the pieces of the wave function
+- [00:21:19,000 - 00:21:26,000] where the electrons were at the same point and where the protons were at the same point.
+- [00:21:26,000 - 00:21:27,000] Yeah.
+- [00:21:27,000 - 00:21:29,500] So nothing was left of
+- [00:21:29,500 - 00:21:32,000] that piece of the wave function.
+- [00:21:32,000 - 00:21:36,000] It's still zero if you go back to feet.
+- [00:21:36,000 - 00:21:38,000] If we go back to what?
+- [00:21:38,000 - 00:21:39,000] To, I think, feet.
+- [00:21:39,000 - 00:21:40,000] Feet.
+- [00:21:40,000 - 00:21:42,000] In other words, the atoms are in different states,
+- [00:21:42,000 - 00:21:44,000] but you put the electrons in the same space.
+- [00:21:44,000 - 00:21:45,000] Yeah.
+- [00:21:45,000 - 00:21:46,000] Yeah.
+- [00:21:46,000 - 00:21:49,000] Just any time you try to put electrons in the same
+- [00:21:49,000 - 00:21:52,000] place or in the same momentum, it's going to be zero.
+- [00:21:52,000 - 00:21:53,000] Right.
+- [00:21:53,000 - 00:21:54,000] Okay.
+- [00:21:54,000 - 00:21:55,000] Okay.
+- [00:21:56,000 - 00:21:58,000] Let's come back to spin a little bit.
+- [00:21:58,000 - 00:22:03,000] Spin is more fun than we've dealt with so far.
+- [00:22:03,000 - 00:22:10,500] The reason I'm spending time with spin is because the mathematics of spin is what you really have to know to know
+- [00:22:10,500 - 00:22:18,000] such things as the mathematics of isospin and the mathematics of color and the mathematics of all of the symmetries of particle physics.
+- [00:22:18,000 - 00:22:20,000] The mathematics is the same.
+- [00:22:20,000 - 00:22:23,000] The physics, as was pointed out here.
+- [00:22:23,000 - 00:22:26,500] The analogies between these different kinds
+- [00:22:26,500 - 00:22:30,000] of conserved quantities are formal mathematical analogies.
+- [00:22:30,000 - 00:22:32,500] But nevertheless, let's study the
+- [00:22:32,500 - 00:22:35,000] mathematics of spin a little more.
+- [00:22:35,000 - 00:22:37,000] A little bit more about
+- [00:22:37,000 - 00:22:39,000] the Dirac equation, just a bit.
+- [00:22:39,000 - 00:22:45,000] And then I want to introduce the concept of isotopic spin or
+- [00:22:45,000 - 00:22:51,000] isospin, which is a concept which I think dates back to the 30s.
+- [00:22:53,000 - 00:23:00,000] Okay.
+- [00:23:00,000 - 00:23:04,000] So let's start with half spin.
+- [00:23:04,000 - 00:23:08,000] The half spin, the electron is a half spin particle.
+- [00:23:08,000 - 00:23:10,000] So I'll call a particle an electron.
+- [00:23:10,000 - 00:23:12,000] I could call it a proton.
+- [00:23:12,000 - 00:23:13,000] I could call it a muon.
+- [00:23:13,000 - 00:23:15,000] Any one of the half spin particles,
+- [00:23:15,000 - 00:23:17,000] but let's just call it an electron.
+- [00:23:17,000 - 00:23:19,000] It has two possible states.
+- [00:23:19,000 - 00:23:20,500] If two possible values for the
+- [00:23:20,500 - 00:23:22,000] angular momentum along the angular momentum.
+- [00:23:22,000 - 00:23:24,000] Along the z-axis.
+- [00:23:24,000 - 00:23:28,000] Along the z-axis, we've called L sub z.
+- [00:23:28,000 - 00:23:31,000] We've called that M.
+- [00:23:31,000 - 00:23:33,000] Not quite.
+- [00:23:33,000 - 00:23:34,000] Not quite.
+- [00:23:34,000 - 00:23:36,000] Not quite.
+- [00:23:36,000 - 00:23:38,000] Not quite.
+- [00:23:38,000 - 00:23:41,000] There's an h-bar in there, right?
+- [00:23:41,000 - 00:23:43,500] But from now on, we'll set
+- [00:23:43,500 - 00:23:46,000] the h-bar equal to you know what.
+- [00:23:46,000 - 00:23:47,000] Okay.
+- [00:23:47,000 - 00:23:49,000] So for the electron, this is not
+- [00:23:49,000 - 00:23:51,000] the full angular momentum, incidentally, of the electron.
+- [00:23:51,000 - 00:23:56,000] In fact, I'm using a really weird notation.
+- [00:23:56,000 - 00:23:58,500] Usually L is used for orbital angular
+- [00:23:58,500 - 00:24:01,000] momentum and S is used for spin.
+- [00:24:01,000 - 00:24:03,000] So let's revert to that.
+- [00:24:03,000 - 00:24:06,000] S for spin.
+- [00:24:06,000 - 00:24:09,000] S for spin, but the mathematics of it is
+- [00:24:09,000 - 00:24:12,000] exactly the same as the mathematics of the Ls.
+- [00:24:12,000 - 00:24:14,000] In fact, we could write it down over here.
+- [00:24:14,000 - 00:24:16,000] Let's write it down over here.
+- [00:24:16,000 - 00:24:20,000] The mathematics of angular momentum, but not of the Ls.
+- [00:24:21,000 - 00:24:23,500] And now I'm calling it
+- [00:24:23,500 - 00:24:26,000] S for spin instead of L.
+- [00:24:26,000 - 00:24:27,000] I don't know what L stands for.
+- [00:24:27,000 - 00:24:30,000] It stands for angular momentum.
+- [00:24:30,000 - 00:24:31,000] All right.
+- [00:24:31,000 - 00:24:34,000] So what was the commutation relations we wrote down
+- [00:24:34,000 - 00:24:37,000] last time where Lx with Ly equals I h-bar Lz.
+- [00:24:37,000 - 00:24:41,500] Now it becomes Sx with Sy is equal to
+- [00:24:41,500 - 00:24:46,000] I h-bar, but I'll set h-bar equal to 1.
+- [00:24:46,000 - 00:24:49,000] Isz.
+- [00:24:49,000 - 00:24:50,000] And cycle down.
+- [00:24:51,000 - 00:24:56,000] You know what to do next.
+- [00:24:56,000 - 00:24:59,000] Sy is z equals Isx and so forth.
+- [00:24:59,000 - 00:25:00,000] All right.
+- [00:25:00,000 - 00:25:02,000] Cyclic permutations.
+- [00:25:02,000 - 00:25:05,000] Oh, one other thing.
+- [00:25:05,000 - 00:25:08,000] We have S plus and minus.
+- [00:25:08,000 - 00:25:13,500] Just to remind you, S plus and
+- [00:25:13,500 - 00:25:19,000] minus is just Sx plus minus Isy.
+- [00:25:19,000 - 00:25:20,000] All right.
+- [00:25:20,000 - 00:25:22,000] So what is the form of linear momentum?
+- [00:25:22,000 - 00:25:25,500] The form of linear momentum is that the operators raise the value of the
+- [00:25:25,500 - 00:25:29,000] z component or lower it depending on whether there's a plus sign or minus sign.
+- [00:25:29,000 - 00:25:31,000] And so they're raising and
+- [00:25:31,000 - 00:25:33,000] lowering operators for spin angular momentum.
+- [00:25:33,000 - 00:25:38,000] All I've done is change notation from L to S.
+- [00:25:38,000 - 00:25:39,000] Intrinsic spin.
+- [00:25:39,000 - 00:25:40,000] Intrinsic spin.
+- [00:25:40,000 - 00:25:41,000] It doesn't.
+- [00:25:41,000 - 00:25:42,000] It could be any spin.
+- [00:25:42,000 - 00:25:44,500] I mean, it could be a spin, which is
+- [00:25:44,500 - 00:25:47,000] due to, due to, you know, the rotating basketball.
+- [00:25:47,000 - 00:25:48,000] But.
+- [00:25:48,000 - 00:25:49,000] But.
+- [00:25:49,000 - 00:25:51,200] Let's say intrinsic spin.
+- [00:25:51,200 - 00:25:53,000] Intrinsic spin, yeah.
+- [00:25:53,000 - 00:25:56,500] Okay, let's focus on half spin.
+- [00:25:56,500 - 00:26:02,180] Half spin is the case where Sz or M can
+- [00:26:02,180 - 00:26:07,860] take on the value minus a half and plus a half,
+- [00:26:07,860 - 00:26:10,760] and that's all.
+- [00:26:10,760 - 00:26:12,500] That's a two-state system.
+- [00:26:12,500 - 00:26:15,510] Incidentally, I'm also forgetting completely
+- [00:26:15,510 - 00:26:18,520] everything else about the electron.
+- [00:26:18,520 - 00:26:20,770] We're forgetting, for example, about where the
+- [00:26:20,770 - 00:26:23,020] electron is, what its momentum is, and
+- [00:26:23,020 - 00:26:24,020] all that sort of stuff.
+- [00:26:24,020 - 00:26:26,710] Just forget it for the moment,
+- [00:26:26,710 - 00:26:29,400] and we're just concentrating on the spin.
+- [00:26:29,400 - 00:26:33,030] All right, so concentrating on the spin,
+- [00:26:33,030 - 00:26:36,660] the quantum mechanics is the quantum mechanics
+- [00:26:36,660 - 00:26:39,649] of a system with two orthogonal
+- [00:26:39,649 - 00:26:42,639] states and only two orthogonal states.
+- [00:26:42,639 - 00:26:44,139] It doesn't matter where it came from.
+- [00:26:44,139 - 00:26:46,319] In quantum mechanics, the space of
+- [00:26:46,319 - 00:26:48,500] states is just the space of states.
+- [00:26:48,500 - 00:26:51,550] It's just the space of states of a
+- [00:26:51,550 - 00:26:54,600] two-component or a two-state system, and you can always
+- [00:26:54,600 - 00:26:58,760] write it as a column vector.
+- [00:26:58,760 - 00:27:02,860] Let's call it alpha and beta, where alpha
+- [00:27:02,860 - 00:27:06,960] is the amplitude that the spin along the z-axis
+- [00:27:06,960 - 00:27:12,920] is up, and beta is the amplitude that it's down.
+- [00:27:12,920 - 00:27:15,450] So you can always write the
+- [00:27:15,450 - 00:27:17,980] state of the system, the ket vector.
+- [00:27:18,500 - 00:27:23,760] Let's call it the psi, which is
+- [00:27:23,760 - 00:27:29,020] alpha up plus beta down along the z-axis.
+- [00:27:29,020 - 00:27:31,570] You can just symbolically represent it by
+- [00:27:31,570 - 00:27:34,120] constructing a little column vector and putting
+- [00:27:34,120 - 00:27:36,400] an alpha there and a beta there.
+- [00:27:36,400 - 00:27:37,860] Alpha star alpha is the
+- [00:27:37,860 - 00:27:39,320] probability that the electron is up.
+- [00:27:39,320 - 00:27:41,140] Beta star beta is the probability
+- [00:27:41,140 - 00:27:42,960] that it's down, and that's it.
+- [00:27:42,960 - 00:27:46,600] In the same notation, operators become matrices.
+- [00:27:46,600 - 00:27:47,600] Okay?
+- [00:27:47,600 - 00:27:49,080] So operators become matrices.
+- [00:27:49,080 - 00:27:53,620] Let's see what we can learn about the matrices.
+- [00:27:53,620 - 00:27:58,139] These components of the spin have to be two-by-two matrices.
+- [00:27:58,139 - 00:27:59,360] Why two-by-two?
+- [00:27:59,360 - 00:28:01,840] Because the space of states is two-dimensional.
+- [00:28:01,840 - 00:28:04,670] So they have to be two-by-two matrices,
+- [00:28:04,670 - 00:28:07,500] and they have to satisfy this algebra.
+- [00:28:07,500 - 00:28:08,659] That's it.
+- [00:28:08,659 - 00:28:10,439] If you can find two-by-two
+- [00:28:10,439 - 00:28:12,219] matrices which satisfy this algebra...
+- [00:28:12,219 - 00:28:13,780] Oh, one other thing.
+- [00:28:13,780 - 00:28:16,719] We might want Sz to be diagonal.
+- [00:28:16,719 - 00:28:16,760] Okay?
+- [00:28:17,600 - 00:28:18,600] So, yeah?
+- [00:28:18,600 - 00:28:19,759] Did you just say the
+- [00:28:19,759 - 00:28:20,919] dimensions of space are two-dimensional?
+- [00:28:20,919 - 00:28:23,439] No, no, no, not the dimensions of space.
+- [00:28:23,439 - 00:28:24,439] The dimen...
+- [00:28:24,439 - 00:28:25,439] No, no, no, no, no.
+- [00:28:25,439 - 00:28:27,939] The dimensions of spin space.
+- [00:28:27,939 - 00:28:28,939] Spin space.
+- [00:28:28,939 - 00:28:29,939] Spin space.
+- [00:28:29,939 - 00:28:30,939] Yeah.
+- [00:28:30,939 - 00:28:31,939] Not the dimensions of space.
+- [00:28:31,939 - 00:28:33,259] No, what I said to
+- [00:28:33,259 - 00:28:34,580] do is to forget about space.
+- [00:28:34,580 - 00:28:37,840] Forget for the moment the position of the electron.
+- [00:28:37,840 - 00:28:39,360] Forget its momentum.
+- [00:28:39,360 - 00:28:42,379] We're thinking now of an electron that somebody has
+- [00:28:42,379 - 00:28:45,399] nailed down to the wall so that it can't
+- [00:28:45,399 - 00:28:46,879] move around.
+- [00:28:46,880 - 00:28:50,320] And all you can do is measure its spin.
+- [00:28:50,320 - 00:28:52,760] It has two distinct states if you
+- [00:28:52,760 - 00:28:55,200] measure the Sz component of its spin.
+- [00:28:55,200 - 00:28:56,200] That's it.
+- [00:28:56,200 - 00:28:57,660] Only two states.
+- [00:28:57,660 - 00:29:03,120] And so let's label them up and down.
+- [00:29:03,120 - 00:29:06,350] Any quantum state of the spin is
+- [00:29:06,350 - 00:29:09,580] a linear superposition of them with complex coefficients.
+- [00:29:09,580 - 00:29:11,780] And the probabilities are...
+- [00:29:11,780 - 00:29:14,680] The probability for up is alpha star alpha.
+- [00:29:14,680 - 00:29:16,880] The probability for down is beta star beta.
+- [00:29:16,880 - 00:29:20,990] It's just a change of notation, a
+- [00:29:20,990 - 00:29:25,100] common change of notation, to replace this clumsy
+- [00:29:25,100 - 00:29:29,290] thing here by just writing a little
+- [00:29:29,290 - 00:29:33,480] column with an alpha and a beta.
+- [00:29:33,480 - 00:29:36,080] And remembering that the lower component stands
+- [00:29:36,080 - 00:29:38,680] for down, the upper component stands for up.
+- [00:29:38,680 - 00:29:44,240] In the same way, operators become 2x2 matrices.
+- [00:29:44,240 - 00:29:46,280] And 2x2 matrices just act on these 2x2 matrices.
+- [00:29:46,280 - 00:29:46,780] Yeah.
+- [00:29:46,780 - 00:29:48,780] two component vectors.
+- [00:29:48,780 - 00:29:51,280] What did you say? Did you
+- [00:29:51,280 - 00:29:53,780] say you wanted SZ to be diagonal?
+- [00:29:53,780 - 00:29:58,280] No, I said I would choose SZ to be
+- [00:29:58,280 - 00:30:02,780] diagonal. SZ. It doesn't matter. You just search around
+- [00:30:02,780 - 00:30:05,780] and see if you can find matrices,
+- [00:30:05,780 - 00:30:08,780] two by two matrices, which satisfy this rule.
+- [00:30:08,780 - 00:30:12,780] Is SZ a matrix?
+- [00:30:12,780 - 00:30:15,780] Yes, it's an operator. It's
+- [00:30:15,780 - 00:30:18,780] the angular momentum. It's an observable.
+- [00:30:18,780 - 00:30:20,780] It is an observable, it's an
+- [00:30:20,780 - 00:30:22,780] operator, and it becomes a matrix.
+- [00:30:22,780 - 00:30:25,780] All operators become matrices that act
+- [00:30:25,780 - 00:30:28,780] on vectors to give other vectors.
+- [00:30:28,780 - 00:30:32,780] Okay? Same thing we've done over in the past.
+- [00:30:32,780 - 00:30:36,280] Okay? Alright, so let's see if we can find, well,
+- [00:30:36,280 - 00:30:39,780] of course we can, otherwise we wouldn't be doing this.
+- [00:30:39,780 - 00:30:41,780] Alright.
+- [00:30:41,780 - 00:30:42,780] Thank you.
+- [00:30:42,780 - 00:30:47,780] Three matrices which satisfy these commutation relations.
+- [00:30:57,780 - 00:30:59,780] XYZ.
+- [00:31:04,780 - 00:31:07,780] Alright, so two by two matrices, two by two matrices.
+- [00:31:07,780 - 00:31:09,780] Alright, they are not unique.
+- [00:31:09,780 - 00:31:11,780] They are not unique.
+- [00:31:11,780 - 00:31:13,780] They are not the same.
+- [00:31:13,780 - 00:31:15,780] They are not the same.
+- [00:31:15,780 - 00:31:19,280] And the choice, the choice of them really
+- [00:31:19,280 - 00:31:22,780] corresponds to a choice of orientation of axes.
+- [00:31:22,780 - 00:31:24,780] But there is a choice of
+- [00:31:24,780 - 00:31:26,780] them which is particularly useful for us.
+- [00:31:26,780 - 00:31:28,780] They're all equivalent, incidentally, as I say.
+- [00:31:28,780 - 00:31:31,280] They're related just by rotation of
+- [00:31:31,280 - 00:31:33,780] the spatial axes, spatial, real space axes.
+- [00:31:33,780 - 00:31:38,780] And it is not important what choice you use.
+- [00:31:38,780 - 00:31:41,780] I'm not going to give you the
+- [00:31:41,780 - 00:31:44,780] answers, but I will choose the following choice.
+- [00:31:44,780 - 00:31:49,280] And you can check that these matrices satisfy
+- [00:31:49,280 - 00:31:53,780] SX is equal to 0, 1, 1, 0.
+- [00:31:53,780 - 00:31:59,780] SY is equal to minus I, I, 0, 0.
+- [00:31:59,780 - 00:32:05,780] SZ is equal to 1, 0, 0, minus 1.
+- [00:32:05,780 - 00:32:09,280] You'll never find three matrices which have these
+- [00:32:09,280 - 00:32:12,780] rules, which, no, sorry, one half of this.
+- [00:32:12,780 - 00:32:15,780] One half of that.
+- [00:32:15,780 - 00:32:17,780] One half of that.
+- [00:32:17,780 - 00:32:18,780] Okay?
+- [00:32:18,780 - 00:32:19,780] Check it.
+- [00:32:19,780 - 00:32:20,780] Just go through it.
+- [00:32:20,780 - 00:32:22,780] I will not do it on the blackboard.
+- [00:32:22,780 - 00:32:24,780] It takes two minutes to do.
+- [00:32:24,780 - 00:32:25,780] Well, maybe three.
+- [00:32:25,780 - 00:32:27,780] Three minutes to do.
+- [00:32:27,780 - 00:32:30,280] And you'll find that these matrices
+- [00:32:30,280 - 00:32:32,780] do satisfy these commutation relations here.
+- [00:32:32,780 - 00:32:33,780] Okay?
+- [00:32:33,780 - 00:32:35,780] They are the Pauli-Skyz.
+- [00:32:35,780 - 00:32:38,780] And the Pauli-Skyz are the spin matrices.
+- [00:32:38,780 - 00:32:41,280] The Pauli matrices are these things without
+- [00:32:41,280 - 00:32:43,780] the one half in front of them.
+- [00:32:43,780 - 00:32:44,780] Okay?
+- [00:32:44,780 - 00:32:47,780] But the real angular momentum matrices which
+- [00:32:47,780 - 00:32:50,780] satisfy these rules here are half of them.
+- [00:32:50,780 - 00:32:53,780] Without the half, they're called Pauli matrices.
+- [00:32:53,780 - 00:32:55,780] With the half, they're just called spin matrices.
+- [00:32:55,780 - 00:32:59,780] I think they're properly called spin matrices with the half.
+- [00:32:59,780 - 00:33:02,780] Okay?
+- [00:33:02,780 - 00:33:04,780] So this is a...
+- [00:33:05,780 - 00:33:06,780] representation.
+- [00:33:06,780 - 00:33:11,780] I would say this is a representation of the angular
+- [00:33:11,780 - 00:33:16,780] momentum matrices, a particular two-component representation of the angular momentum...
+- [00:33:16,780 - 00:33:22,780] of the half-spin angular momentum matrices.
+- [00:33:22,780 - 00:33:23,780] Okay.
+- [00:33:23,780 - 00:33:30,780] Let's now see if we can find the states.
+- [00:33:30,780 - 00:33:34,780] That means the states means the column vectors,
+- [00:33:34,780 - 00:33:40,780] which correspond to sigma-z being up and sigma-z being down.
+- [00:33:40,780 - 00:33:41,780] All right?
+- [00:33:41,780 - 00:33:43,780] Or s-z being up and s-z being down.
+- [00:33:43,780 - 00:33:48,280] Those are the two possible
+- [00:33:48,280 - 00:33:52,780] orthogonal states, eigenstates of s-z.
+- [00:33:52,780 - 00:33:53,780] All right?
+- [00:33:53,780 - 00:33:55,780] This is very easy.
+- [00:33:55,780 - 00:33:56,780] We just say...
+- [00:33:56,780 - 00:33:59,280] What does it mean to say a
+- [00:33:59,280 - 00:34:01,780] state whose s-z is plus or minus?
+- [00:34:01,780 - 00:34:05,279] It means an eigenvector of s-z
+- [00:34:05,279 - 00:34:08,779] with eigenvalue plus one or minus one.
+- [00:34:08,779 - 00:34:11,779] We expect, incidentally, that the components of
+- [00:34:11,779 - 00:34:14,779] spin have value plus and minus a half.
+- [00:34:14,779 - 00:34:15,779] All right?
+- [00:34:15,779 - 00:34:16,779] Plus and minus a half.
+- [00:34:16,779 - 00:34:18,779] But that means that the s's should
+- [00:34:18,779 - 00:34:20,779] have value plus one and minus one.
+- [00:34:20,779 - 00:34:22,779] Of course, that's true.
+- [00:34:22,779 - 00:34:27,779] These diagonal elements here are the eigenvalues of s.
+- [00:34:27,779 - 00:34:29,779] So let's just be very pedantic.
+- [00:34:29,779 - 00:34:30,779] Being very pedantic.
+- [00:34:30,780 - 00:34:36,780] We're looking for vectors, let's call them alpha-beta,
+- [00:34:36,780 - 00:34:41,780] which have the property minus one.
+- [00:34:41,780 - 00:34:44,780] That this is either equal to plus
+- [00:34:44,780 - 00:34:47,780] or minus, let's say plus first, alpha-beta.
+- [00:34:47,780 - 00:34:50,780] This would be an eigenvalue
+- [00:34:50,780 - 00:34:53,780] in which sigma-z equals plus one.
+- [00:34:53,780 - 00:34:57,780] What about sigma-z equals minus one?
+- [00:34:57,780 - 00:35:00,780] That would be one-zero-zero minus one.
+- [00:35:00,780 - 00:35:04,280] That would be one-zero-zero minus
+- [00:35:04,280 - 00:35:07,780] one alpha-beta equals minus alpha-beta.
+- [00:35:07,780 - 00:35:11,780] That's the meaning of an eigenvalue and an eigenvector.
+- [00:35:11,780 - 00:35:15,780] If we find solutions of these, the solutions will correspond to the
+- [00:35:15,780 - 00:35:19,780] states in which the spin is up and the spin is down.
+- [00:35:19,780 - 00:35:20,780] Let's just check.
+- [00:35:20,780 - 00:35:21,780] Let's check that out.
+- [00:35:21,780 - 00:35:26,780] Okay, so it's completely obvious.
+- [00:35:26,780 - 00:35:28,780] Well, let's just work it out.
+- [00:35:28,780 - 00:35:32,280] The top entry here by matrix multiplication
+- [00:35:32,280 - 00:35:35,780] is one times alpha plus zero times beta.
+- [00:35:35,780 - 00:35:40,280] So just multiplying out the matrices, this is going to
+- [00:35:40,280 - 00:35:44,780] be one times alpha plus zero times beta in the top,
+- [00:35:44,780 - 00:35:50,780] and zero times alpha and minus beta in the bottom.
+- [00:35:50,780 - 00:35:53,780] Well, obviously this is not equal to this unless what?
+- [00:35:53,780 - 00:35:55,780] Unless beta is zero.
+- [00:35:55,780 - 00:35:57,780] If beta is zero,
+- [00:35:58,780 - 00:36:02,780] then we've found a solution to
+- [00:36:02,780 - 00:36:06,780] the eigenvalue or the eigenvector problem,
+- [00:36:06,780 - 00:36:10,780] which corresponds to an eigenvalue plus one,
+- [00:36:10,780 - 00:36:14,280] and surprise, surprise, it corresponds to a vector
+- [00:36:14,280 - 00:36:17,780] which only has an entry in the upper place.
+- [00:36:17,780 - 00:36:21,780] The upper place stood for spin up.
+- [00:36:21,780 - 00:36:24,780] What shall I choose alpha to be?
+- [00:36:24,780 - 00:36:27,780] I can choose it to be one.
+- [00:36:28,780 - 00:36:29,780] Why one?
+- [00:36:29,780 - 00:36:31,280] Because I want the sums
+- [00:36:31,280 - 00:36:32,780] of the probabilities to be one.
+- [00:36:32,780 - 00:36:34,780] So alpha star alpha plus
+- [00:36:34,780 - 00:36:36,780] beta star beta should be one,
+- [00:36:36,780 - 00:36:40,780] and a convenient choice is just
+- [00:36:40,780 - 00:36:44,780] to choose alpha equal to one.
+- [00:36:44,780 - 00:36:46,780] Now what if I, let's put back what I erased.
+- [00:36:46,780 - 00:36:50,780] What I erased is that this thing
+- [00:36:50,780 - 00:36:54,780] times alpha beta was alpha minus beta.
+- [00:36:54,780 - 00:36:55,780] Supposing I want to get a
+- [00:36:55,780 - 00:36:56,780] minus sign, then what do I do?
+- [00:36:56,780 - 00:37:00,780] Choose alpha equal to zero.
+- [00:37:00,780 - 00:37:06,780] If alpha is equal to zero,
+- [00:37:06,780 - 00:37:09,780] this is true.
+- [00:37:09,780 - 00:37:16,780] And that corresponds to the vector zero one.
+- [00:37:16,780 - 00:37:20,280] Again, no big surprise, it corresponds to the
+- [00:37:20,280 - 00:37:23,780] state in which the electron is definitely down
+- [00:37:23,780 - 00:37:25,780] and has no probability of being up.
+- [00:37:26,780 - 00:37:29,780] Okay, let's go a little bit farther.
+- [00:37:29,780 - 00:37:32,280] What about, we've done this many
+- [00:37:32,280 - 00:37:34,780] times in these series of classes,
+- [00:37:34,780 - 00:37:36,280] but just to spend a
+- [00:37:36,280 - 00:37:37,780] minute or two doing it again.
+- [00:37:37,780 - 00:37:40,280] What about wave functions, state vectors,
+- [00:37:40,280 - 00:37:42,780] whatever we want to call them,
+- [00:37:42,780 - 00:37:46,780] ket vectors, corresponding to the possibility
+- [00:37:46,780 - 00:37:50,780] that the x component of spin,
+- [00:37:50,780 - 00:37:52,780] we're now going to do a different experiment.
+- [00:37:52,780 - 00:37:54,280] We're going to measure instead of
+- [00:37:54,280 - 00:37:55,780] the z component of the spin,
+- [00:37:55,780 - 00:37:58,780] we're going to measure the x component of the spin.
+- [00:37:58,780 - 00:38:01,280] Again, the two possibilities are plus
+- [00:38:01,280 - 00:38:03,780] a half and minus a half.
+- [00:38:03,780 - 00:38:07,780] What are the eigenvectors which correspond to
+- [00:38:07,780 - 00:38:11,780] the two possible measurements for that case?
+- [00:38:11,780 - 00:38:13,780] We're measuring sigma x and not
+- [00:38:13,780 - 00:38:15,780] the, or sx and not the, alright.
+- [00:38:15,780 - 00:38:20,780] In that case, we want to ask zero
+- [00:38:20,780 - 00:38:25,780] one one zero alpha beta equals alpha beta.
+- [00:38:25,780 - 00:38:31,780] That's the eigenvector with eigenvalue plus one,
+- [00:38:31,780 - 00:38:34,780] and the eigenvector with eigenvalue minus
+- [00:38:34,780 - 00:38:37,780] one will have to satisfy one one,
+- [00:38:37,780 - 00:38:45,780] if such things exist, alpha beta equal minus alpha beta.
+- [00:38:45,780 - 00:38:49,780] These are the eigenvalue equations for plus and minus.
+- [00:38:49,780 - 00:38:52,280] Here I've put in sigma x
+- [00:38:52,280 - 00:38:54,780] instead of sigma z, alright, sigma x.
+- [00:38:55,780 - 00:38:57,780] Okay, so what is the top equation?
+- [00:38:57,780 - 00:38:59,780] Let's do the top one first.
+- [00:38:59,780 - 00:39:02,780] What does the top equation say?
+- [00:39:02,780 - 00:39:04,780] Alpha equals beta.
+- [00:39:04,780 - 00:39:07,780] Alpha equals beta, right.
+- [00:39:07,780 - 00:39:10,780] Let's be pedantic again.
+- [00:39:10,780 - 00:39:13,780] Zero times alpha, one times beta.
+- [00:39:13,780 - 00:39:16,280] So, working out the matrix product
+- [00:39:16,280 - 00:39:18,780] here, or the matrix times vector,
+- [00:39:18,780 - 00:39:21,780] it gives us beta alpha.
+- [00:39:21,780 - 00:39:24,780] This matrix just interchanges top and bottom.
+- [00:39:25,780 - 00:39:29,780] One times alpha, sorry, zero times alpha, one times beta.
+- [00:39:29,780 - 00:39:32,780] Same thing on the bottom row.
+- [00:39:32,780 - 00:39:38,780] And so, is there a solution of this equation?
+- [00:39:38,780 - 00:39:39,780] Well, yes.
+- [00:39:39,780 - 00:39:41,780] All it says is beta equals alpha.
+- [00:39:41,780 - 00:39:43,780] In fact, the bottom equation says alpha equals beta,
+- [00:39:43,780 - 00:39:45,780] which is the same as beta equals alpha.
+- [00:39:45,780 - 00:39:47,780] So, we solve the equation
+- [00:39:47,780 - 00:39:49,780] by setting alpha equal to beta.
+- [00:39:49,780 - 00:39:52,780] A convenient choice,
+- [00:39:52,780 - 00:39:55,780] a convenient choice,
+- [00:39:55,780 - 00:39:57,780] they're all equivalent to each other,
+- [00:39:57,780 - 00:40:00,780] but a convenient choice is that
+- [00:40:00,780 - 00:40:04,780] we choose one over square root of two,
+- [00:40:04,780 - 00:40:07,780] one over square root of two,
+- [00:40:07,780 - 00:40:10,780] and why one over square root of two?
+- [00:40:10,780 - 00:40:12,280] So again, so that the
+- [00:40:12,280 - 00:40:13,780] total probability adds up to one.
+- [00:40:13,780 - 00:40:16,280] If we had the one-halves over here,
+- [00:40:16,280 - 00:40:18,780] would we be looking for eigenvalue one-half?
+- [00:40:18,780 - 00:40:21,780] Yes, yes, yes, yes.
+- [00:40:21,780 - 00:40:23,280] Yes, if we had included the one-half,
+- [00:40:23,280 - 00:40:24,780] we would be looking for eigenvalue one-half.
+- [00:40:25,780 - 00:40:28,780] So, to look for eigenvalues of Sx, we
+- [00:40:28,780 - 00:40:31,780] just look for twice the eigenvalue for sigma.
+- [00:40:31,780 - 00:40:32,780] Good point.
+- [00:40:32,780 - 00:40:33,780] Okay.
+- [00:40:33,780 - 00:40:37,780] All right, let's see what the other possibility is.
+- [00:40:37,780 - 00:40:43,780] The other possibility is alpha beta,
+- [00:40:43,780 - 00:40:46,780] which happens to be beta alpha.
+- [00:40:46,780 - 00:40:48,780] That's by multiplication here.
+- [00:40:48,780 - 00:40:52,780] That should now equal minus alpha beta.
+- [00:40:52,780 - 00:40:54,780] That's the other eigenvalue.
+- [00:40:55,780 - 00:40:57,780] Take this away for a minute,
+- [00:40:57,780 - 00:40:59,780] the thing in the middle here.
+- [00:40:59,780 - 00:41:01,280] This just becomes the eigenvalue
+- [00:41:01,280 - 00:41:02,780] equation or the eigenvector equation
+- [00:41:02,780 - 00:41:06,780] for an eigenvector with eigenvalue minus one.
+- [00:41:06,780 - 00:41:07,780] All right.
+- [00:41:07,780 - 00:41:09,780] And what does that require?
+- [00:41:09,780 - 00:41:11,780] That says beta equals minus alpha, and
+- [00:41:11,780 - 00:41:13,780] it also says alpha equals minus beta.
+- [00:41:13,780 - 00:41:17,780] If beta equals minus alpha, then alpha equals minus beta.
+- [00:41:17,780 - 00:41:20,280] And so all we have to
+- [00:41:20,280 - 00:41:22,780] do is put into the entries here,
+- [00:41:22,780 - 00:41:24,780] sorry, not this, but,
+- [00:41:24,780 - 00:41:28,280] alpha beta here is equal to
+- [00:41:28,280 - 00:41:31,780] one over square root of two
+- [00:41:31,780 - 00:41:34,780] minus one over square root of two.
+- [00:41:34,780 - 00:41:37,780] All right, so what does this say?
+- [00:41:37,780 - 00:41:40,280] It says that if we
+- [00:41:40,280 - 00:41:42,780] take a linear superposition of states
+- [00:41:42,780 - 00:41:45,780] where the electron is up along
+- [00:41:45,780 - 00:41:48,780] the z-axis and down along the z-axis,
+- [00:41:48,780 - 00:41:50,780] we superpose those states
+- [00:41:50,780 - 00:41:52,780] in the quantum linear superposition,
+- [00:41:52,780 - 00:41:54,780] we make an electron,
+- [00:41:54,780 - 00:41:56,780] which is, let's use the right word,
+- [00:41:56,780 - 00:42:00,780] which is polarized along the positive x-axis.
+- [00:42:00,780 - 00:42:03,280] If we make the same kind
+- [00:42:03,280 - 00:42:05,780] of linear combination with a minus sign,
+- [00:42:05,780 - 00:42:07,780] then we get one which
+- [00:42:07,780 - 00:42:09,780] is polarized along the minus x-axis.
+- [00:42:09,780 - 00:42:12,780] All right, so we've now accounted for electrons
+- [00:42:12,780 - 00:42:18,780] which are up along the z-axis, down along the z-axis,
+- [00:42:18,780 - 00:42:22,780] up along the x-axis, down along the x-axis,
+- [00:42:22,780 - 00:42:23,780] and finally,
+- [00:42:23,780 - 00:42:27,780] there's the issue of the y,
+- [00:42:27,780 - 00:42:30,780] electrons polarized along the y-axis.
+- [00:42:30,780 - 00:42:33,780] I'm not going to work it out.
+- [00:42:33,780 - 00:42:38,780] We can just, just minus i, sorry,
+- [00:42:38,780 - 00:42:41,780] minus i, i, alpha beta,
+- [00:42:41,780 - 00:42:44,780] you have to solve this one,
+- [00:42:44,780 - 00:42:47,780] and this one,
+- [00:42:47,780 - 00:42:50,780] equals minus.
+- [00:42:50,780 - 00:42:53,780] And the two solutions are easy, very easy to do.
+- [00:42:53,780 - 00:43:00,780] The two solutions are alpha beta equals one i,
+- [00:43:00,780 - 00:43:02,780] that's for the plus sign,
+- [00:43:02,780 - 00:43:04,780] I think that's for the plus sign, let's see,
+- [00:43:04,780 - 00:43:09,780] I think that's for the plus sign,
+- [00:43:09,780 - 00:43:12,780] and the other one is one minus i,
+- [00:43:12,780 - 00:43:19,780] one minus i.
+- [00:43:19,780 - 00:43:21,780] Yeah, sorry, excuse me,
+- [00:43:21,780 - 00:43:22,780] one over square root of two again.
+- [00:43:23,780 - 00:43:26,780] Notice that there's more information
+- [00:43:26,780 - 00:43:28,780] in these complex coefficients
+- [00:43:28,780 - 00:43:31,780] than just the fact that the probability
+- [00:43:31,780 - 00:43:33,780] of the z components of
+- [00:43:33,780 - 00:43:35,780] spin is a half a half.
+- [00:43:35,780 - 00:43:38,780] Both,
+- [00:43:38,780 - 00:43:41,780] this has probability of half a half,
+- [00:43:41,780 - 00:43:43,780] so did the previous case where the electron
+- [00:43:43,780 - 00:43:45,780] was along the x-axis.
+- [00:43:45,780 - 00:43:48,780] The fact that there's an i here is something new.
+- [00:43:48,780 - 00:43:52,780] It tells us that the electron is along the y-axis.
+- [00:43:52,780 - 00:43:54,780] All right, so this way.
+- [00:43:54,780 - 00:43:56,780] So now we've accounted for electrons
+- [00:43:56,780 - 00:44:00,780] which are polarized along all six directions.
+- [00:44:00,780 - 00:44:02,780] What about a general direction?
+- [00:44:02,780 - 00:44:05,780] An electron which is, whose spin is pointing along
+- [00:44:05,780 - 00:44:09,780] a definite, along another axis.
+- [00:44:09,780 - 00:44:11,780] Well, for that, you have,
+- [00:44:11,780 - 00:44:13,780] I'm not going to go through it now.
+- [00:44:13,780 - 00:44:15,780] You take linear combinations of these,
+- [00:44:15,780 - 00:44:17,780] we won't do it now, we'll do it another time.
+- [00:44:17,780 - 00:44:21,780] It's not something I intended to do this evening.
+- [00:44:22,780 - 00:44:25,780] All right, so that's quantum mechanics of a...
+- [00:44:25,780 - 00:44:26,780] I'm guessing that the minus sign
+- [00:44:26,780 - 00:44:28,780] goes on the other eigenvalue.
+- [00:44:28,780 - 00:44:31,780] I may have the sign wrong. Do I?
+- [00:44:31,780 - 00:44:33,780] Well, I'm thinking that the minus
+- [00:44:33,780 - 00:44:35,780] i over square root of 2
+- [00:44:35,780 - 00:44:37,280] goes with the first one because
+- [00:44:37,280 - 00:44:38,780] of the minus i in the...
+- [00:44:38,780 - 00:44:40,780] You may be right.
+- [00:44:40,780 - 00:44:42,780] I think you're probably right.
+- [00:44:42,780 - 00:44:43,780] So let's see.
+- [00:44:43,780 - 00:44:44,780] So this one should be minus then,
+- [00:44:44,780 - 00:44:46,780] and this one should be plus.
+- [00:44:46,780 - 00:44:49,780] I think that may be right.
+- [00:44:49,780 - 00:44:51,780] Do I have it in my notes?
+- [00:44:52,780 - 00:44:55,780] Well, I don't have it in my notes.
+- [00:44:55,780 - 00:44:57,780] All right, that's spin 1⁄2.
+- [00:44:57,780 - 00:45:00,780] That's the whole theory of spin 1⁄2.
+- [00:45:00,780 - 00:45:06,780] All wave functions are all state vectors
+- [00:45:06,780 - 00:45:11,780] corresponding to all possible directions of spin
+- [00:45:11,780 - 00:45:14,780] are linear combinations of the two states
+- [00:45:14,780 - 00:45:16,780] in which the spin is up along the z-axis
+- [00:45:16,780 - 00:45:19,780] or down along the z-axis.
+- [00:45:19,780 - 00:45:20,780] I take it back.
+- [00:45:20,780 - 00:45:21,780] Do you take it back?
+- [00:45:21,780 - 00:45:23,780] Yeah, b equals i a.
+- [00:45:23,780 - 00:45:24,780] Okay.
+- [00:45:24,780 - 00:45:25,780] That's plus, huh?
+- [00:45:25,780 - 00:45:27,780] Minus.
+- [00:45:27,780 - 00:45:29,780] I never remember.
+- [00:45:32,780 - 00:45:33,780] What about spin 1?
+- [00:45:33,780 - 00:45:34,780] We've done this before.
+- [00:45:34,780 - 00:45:36,780] I mean, we've done this a lot of times before,
+- [00:45:36,780 - 00:45:38,780] and so I've made fast work of it.
+- [00:45:38,780 - 00:45:40,780] But now let's do spin 1.
+- [00:45:40,780 - 00:45:42,780] Spin 1 is also interesting.
+- [00:45:46,780 - 00:45:50,780] Again, there are many, many choices of the matrices,
+- [00:45:50,780 - 00:45:54,780] and they're all equivalent, physically equivalent,
+- [00:45:54,780 - 00:45:56,780] representing the angular momentum.
+- [00:45:56,780 - 00:45:58,780] But I'm going to show you one.
+- [00:45:58,780 - 00:46:01,780] All right, spin 1,
+- [00:46:01,780 - 00:46:05,780] the z component of angular momentum has three states.
+- [00:46:05,780 - 00:46:09,780] Spin 1 is the integer angular momentum.
+- [00:46:09,780 - 00:46:11,780] It corresponds to bosons,
+- [00:46:11,780 - 00:46:15,280] and it's the case where
+- [00:46:15,280 - 00:46:18,780] the angular momentum can be 0.
+- [00:46:18,780 - 00:46:22,780] The z component can be 0, 1, or minus 1.
+- [00:46:22,780 - 00:46:25,780] So there's three possibilities.
+- [00:46:25,780 - 00:46:29,780] Evidently, the space of states is three-dimensional now,
+- [00:46:29,780 - 00:46:33,780] not two-dimensional, three-dimensional.
+- [00:46:33,780 - 00:46:37,780] Again, we want to find spin matrices,
+- [00:46:37,780 - 00:46:39,780] which satisfy, 3 by 3 matrices,
+- [00:46:39,780 - 00:46:42,780] which satisfy exactly the same algebra.
+- [00:46:42,780 - 00:46:46,780] The algebra means the set of commutation relations,
+- [00:46:46,780 - 00:46:47,780] Sx with Sy,
+- [00:46:47,780 - 00:46:48,780] and then the set of commutation relations,
+- [00:46:48,780 - 00:46:53,780] Y equals Isz, and so forth.
+- [00:46:53,780 - 00:46:57,780] Do there exist, I've left out the H bar
+- [00:46:57,780 - 00:46:59,780] because I've set H bar equal to 1.
+- [00:46:59,780 - 00:47:03,780] Do there exist 3 by 3 matrices which satisfy this?
+- [00:47:03,780 - 00:47:06,780] They're better because we sort of worked out,
+- [00:47:06,780 - 00:47:14,780] we worked out the existence of a three-state system
+- [00:47:14,780 - 00:47:17,780] by assuming these commutation relations.
+- [00:47:17,780 - 00:47:18,780] Yes?
+- [00:47:18,780 - 00:47:22,780] I will just show you a representation,
+- [00:47:22,780 - 00:47:25,780] and you can work it out and
+- [00:47:25,780 - 00:47:28,780] see if you can prove the commutation relations.
+- [00:47:28,780 - 00:47:33,780] They're 3 by 3 matrices.
+- [00:47:33,780 - 00:47:37,780] Let's see, I think it's S,
+- [00:47:37,780 - 00:47:41,780] sorry, Sz, not Z, but Sz.
+- [00:47:41,780 - 00:47:45,780] Or S.
+- [00:47:45,780 - 00:47:49,280] Spin along the Z direction is
+- [00:47:49,280 - 00:47:52,780] equal to I times 0, 1, 0,
+- [00:47:52,780 - 00:48:00,780] minus 1, 0, 0, 0, 0, 0.
+- [00:48:00,780 - 00:48:04,780] It sort of looks sort of familiar but not familiar.
+- [00:48:04,780 - 00:48:06,780] It's 3 by 3, but it
+- [00:48:06,780 - 00:48:08,780] kind of looks like Sy over there,
+- [00:48:08,780 - 00:48:11,780] but it doesn't have the factor of 2.
+- [00:48:11,780 - 00:48:13,780] It's different.
+- [00:48:13,780 - 00:48:14,780] S, let's see what's next.
+- [00:48:14,780 - 00:48:23,280] Sy is equal to I, 0, 0,
+- [00:48:23,280 - 00:48:31,780] 1, 0, 0, 0, minus 1, 0, 0.
+- [00:48:31,780 - 00:48:35,780] Notice that this one has zeros in
+- [00:48:35,780 - 00:48:39,780] the third row and the third column.
+- [00:48:39,780 - 00:48:41,780] This one has zeros in the
+- [00:48:41,780 - 00:48:43,780] second row and the second column.
+- [00:48:43,780 - 00:48:46,780] And Sx has zeros in the
+- [00:48:46,780 - 00:48:49,780] first row and the first column,
+- [00:48:49,780 - 00:48:54,780] and it's 0, 0, 0, let's see,
+- [00:48:54,780 - 00:48:59,780] Sx, 0, 0, 1, 0, minus 1, 0.
+- [00:48:59,780 - 00:49:01,780] There's a real symmetry between them.
+- [00:49:01,780 - 00:49:03,780] Each one has a 1 and a minus 1.
+- [00:49:03,780 - 00:49:06,780] They're all anti-symmetric.
+- [00:49:06,780 - 00:49:08,780] They're all anti-symmetric.
+- [00:49:08,780 - 00:49:11,780] Each one has a 1 and a minus 1,
+- [00:49:11,780 - 00:49:14,780] and it has zeros all along the
+- [00:49:14,780 - 00:49:17,780] row and diagonal that match the letter here.
+- [00:49:17,780 - 00:49:20,280] If Z stands for 3, then the
+- [00:49:20,280 - 00:49:22,780] third row and third column are 0.
+- [00:49:22,780 - 00:49:24,780] If Y stands for 2, the second row
+- [00:49:24,780 - 00:49:26,780] and second column are 0 and so forth.
+- [00:49:26,780 - 00:49:28,780] So they're easy to remember.
+- [00:49:28,780 - 00:49:32,780] The only trouble I ever have is remembering the signs.
+- [00:49:32,780 - 00:49:35,280] And again, you check those
+- [00:49:35,280 - 00:49:37,780] by checking the commutation relations.
+- [00:49:37,780 - 00:49:39,780] And they're not completely unique,
+- [00:49:41,780 - 00:49:43,780] but they're all very similar.
+- [00:49:43,780 - 00:49:48,780] Let's see if we can find the eigenstates of Sz.
+- [00:49:48,780 - 00:49:52,780] This time Sz is not diagonal.
+- [00:49:52,780 - 00:49:55,780] I have not chosen Sz to be diagonal.
+- [00:49:55,780 - 00:49:57,780] But nevertheless, we can certainly
+- [00:49:57,780 - 00:49:59,780] work out what the eigenstates are.
+- [00:49:59,780 - 00:50:02,780] They're not too hard to guess.
+- [00:50:02,780 - 00:50:09,780] So we want to solve Sz on...
+- [00:50:09,780 - 00:50:12,780] Well, we want to take this matrix
+- [00:50:12,780 - 00:50:15,780] and now multiply it not by alpha and beta,
+- [00:50:15,780 - 00:50:18,780] but by alpha, beta, and gamma.
+- [00:50:20,780 - 00:50:23,780] How many... what should the eigenvalues be?
+- [00:50:26,780 - 00:50:29,780] 1, 0, and minus 1.
+- [00:50:29,780 - 00:50:32,780] Those are the three states of Z component.
+- [00:50:34,780 - 00:50:37,780] Let's try for 1 first.
+- [00:50:39,780 - 00:50:41,780] I hope I have them written down.
+- [00:50:45,780 - 00:50:47,780] Yeah, good news, I do.
+- [00:50:47,780 - 00:50:49,780] No.
+- [00:50:49,780 - 00:50:51,780] Um, yeah.
+- [00:50:55,780 - 00:50:57,780] Yup, it's just...
+- [00:50:57,780 - 00:51:01,780] Incidentally, this corner of it over here
+- [00:51:01,780 - 00:51:05,780] is very similar to Sy over here.
+- [00:51:06,780 - 00:51:08,780] So it's going to be similar.
+- [00:51:08,780 - 00:51:12,780] I think it's 1, minus i, and 0.
+- [00:51:22,780 - 00:51:24,780] So here's an eigenvector.
+- [00:51:24,780 - 00:51:26,780] I think this is a true relationship.
+- [00:51:26,780 - 00:51:28,780] You can check it later.
+- [00:51:28,780 - 00:51:33,780] Here is an eigenvector with eigenvalue plus 1.
+- [00:51:33,780 - 00:51:36,780] It corresponds to the state where Sz...
+- [00:51:36,780 - 00:51:40,780] where M is equal to plus 1.
+- [00:51:44,780 - 00:51:46,280] I didn't give it to you,
+- [00:51:46,280 - 00:51:47,780] Sz, in the simplest possible form.
+- [00:51:47,780 - 00:51:50,780] I gave it to you in a very symmetric form
+- [00:51:50,780 - 00:51:52,780] where X and Y and Z
+- [00:51:52,780 - 00:51:54,780] look very similar to each other.
+- [00:51:55,780 - 00:51:58,780] But nevertheless, the right way to find the state
+- [00:51:58,780 - 00:52:01,780] which corresponds to M equals plus 1
+- [00:52:01,780 - 00:52:05,780] is just to find the eigenvector with eigenvalue plus 1.
+- [00:52:06,780 - 00:52:10,780] What about the eigenvalue minus 1?
+- [00:52:10,780 - 00:52:13,780] That turns out to be this one.
+- [00:52:15,780 - 00:52:17,780] Minus.
+- [00:52:19,780 - 00:52:22,780] And what about the eigenvalue 0?
+- [00:52:24,780 - 00:52:25,780] Oh, incidentally, you should put a
+- [00:52:25,780 - 00:52:26,780] 1 over square root of 2
+- [00:52:26,780 - 00:52:28,780] if you want them to add up to...
+- [00:52:30,780 - 00:52:32,780] Okay, what about the eigenvalue 0?
+- [00:52:32,780 - 00:52:35,780] Anybody see what the eigenvector with eigenvalue 0 is?
+- [00:52:46,780 - 00:52:48,780] This one is obvious.
+- [00:52:48,780 - 00:52:51,780] Take the top row, multiply it this, you get 0
+- [00:52:51,780 - 00:52:53,780] because there's nothing to match this 1.
+- [00:52:53,780 - 00:52:55,780] Likewise here.
+- [00:52:55,780 - 00:52:57,780] This is just plain 0.
+- [00:52:59,780 - 00:53:01,780] Big fat 0.
+- [00:53:01,780 - 00:53:03,780] Okay, what do these things mean?
+- [00:53:03,780 - 00:53:05,780] These mean that the three states,
+- [00:53:05,780 - 00:53:07,780] M equals to plus 1,
+- [00:53:07,780 - 00:53:09,780] M equals to minus 1,
+- [00:53:09,780 - 00:53:11,780] and M equals to 0,
+- [00:53:11,780 - 00:53:14,780] correspond to the vectors
+- [00:53:14,780 - 00:53:17,780] 1, minus i, 0,
+- [00:53:17,780 - 00:53:21,780] 1, i, 0,
+- [00:53:25,780 - 00:53:27,280] These you might want to put a
+- [00:53:27,280 - 00:53:28,780] square root of 2 if you like
+- [00:53:28,780 - 00:53:32,780] to make the probability add up to 1.
+- [00:53:35,780 - 00:53:38,780] All right, so again, we really do find,
+- [00:53:38,780 - 00:53:40,780] and you'll find there were no other eigenvectors,
+- [00:53:40,780 - 00:53:42,780] no other eigenvalues, that's it.
+- [00:53:42,780 - 00:53:46,780] And these are the mathematical representations
+- [00:53:46,780 - 00:53:49,780] of the very abstract things we did last time.
+- [00:53:50,780 - 00:53:52,280] One of the marvelous things is
+- [00:53:52,280 - 00:53:53,780] that these square roots of 2
+- [00:53:53,780 - 00:53:56,780] really do turn up in experimental predictions,
+- [00:53:56,780 - 00:53:58,780] and we're going to do a couple of them,
+- [00:53:58,780 - 00:54:01,780] but not with ordinary spin, but with isotopic spin.
+- [00:54:01,780 - 00:54:02,780] I'm going to show you
+- [00:54:02,780 - 00:54:03,780] how those square roots of 2
+- [00:54:03,780 - 00:54:05,780] turn up in various experiments,
+- [00:54:05,780 - 00:54:08,780] in various experimental quantities,
+- [00:54:08,780 - 00:54:10,780] but not now.
+- [00:54:10,780 - 00:54:14,780] Can you read the second column?
+- [00:54:14,780 - 00:54:16,780] Those are both 1 over the square root of 2?
+- [00:54:16,780 - 00:54:18,780] No, i over the square root of 2.
+- [00:54:18,780 - 00:54:20,780] That's i over the square root of 2,
+- [00:54:20,780 - 00:54:21,780] and the first one is 1 and
+- [00:54:21,780 - 00:54:22,780] i over the square root of 2.
+- [00:54:22,780 - 00:54:25,780] And minus i over the square root of 2.
+- [00:54:25,780 - 00:54:27,780] 1 over the square root of 2,
+- [00:54:27,780 - 00:54:29,780] minus i over the square root of 2 and 0,
+- [00:54:29,780 - 00:54:31,780] 1 over root 2,
+- [00:54:31,780 - 00:54:33,780] i over root 2 and 0.
+- [00:54:33,780 - 00:54:35,780] This is, I think, M equals 1,
+- [00:54:35,780 - 00:54:37,780] this is M equals minus 1,
+- [00:54:37,780 - 00:54:39,780] and this is M equals 0.
+- [00:54:44,780 - 00:54:47,780] Now as I said, there are other representations,
+- [00:54:47,780 - 00:54:50,780] there are other triplets of matrices
+- [00:54:50,780 - 00:54:53,780] which satisfy the same algebra,
+- [00:54:53,780 - 00:54:57,780] but they are in fact physically completely equivalent.
+- [00:54:57,780 - 00:54:59,780] And I'm not going to go
+- [00:54:59,780 - 00:55:01,780] into the reasons for that now.
+- [00:55:01,780 - 00:55:03,780] These are a good set of matrices to work with.
+- [00:55:03,780 - 00:55:04,780] They're...
+- [00:55:05,780 - 00:55:07,780] fairly elegant and...
+- [00:55:07,780 - 00:55:09,780] we'll use them.
+- [00:55:09,780 - 00:55:11,780] We'll use them more than once.
+- [00:55:11,780 - 00:55:14,780] Okay, um...
+- [00:55:14,780 - 00:55:17,780] Another question...
+- [00:55:17,780 - 00:55:20,780] Yeah.
+- [00:55:24,780 - 00:55:27,780] Supposing we now return
+- [00:55:27,780 - 00:55:30,780] to the real electron which can move around in space.
+- [00:55:30,780 - 00:55:32,780] It can move around in space
+- [00:55:32,780 - 00:55:34,780] so it has a position,
+- [00:55:34,780 - 00:55:36,780] or a momentum,
+- [00:55:36,780 - 00:55:38,780] and a spin.
+- [00:55:38,780 - 00:55:41,780] Incidentally, spin and position
+- [00:55:41,780 - 00:55:43,780] are things which can simultaneously be measured.
+- [00:55:43,780 - 00:55:46,280] Spin and momentum are things
+- [00:55:46,280 - 00:55:48,780] which can simultaneously be measured.
+- [00:55:48,780 - 00:55:51,780] What are the things which can't simultaneously be measured?
+- [00:55:51,780 - 00:55:53,780] Well, position and momentum,
+- [00:55:53,780 - 00:55:56,780] but also the different components of the spin.
+- [00:55:56,780 - 00:55:58,780] They don't commute with each other.
+- [00:55:58,780 - 00:56:01,780] But spin and momentum do commute with each other.
+- [00:56:01,780 - 00:56:03,780] All right, how do we represent
+- [00:56:03,780 - 00:56:06,780] the wave function or the state vector
+- [00:56:06,780 - 00:56:08,780] of an electron
+- [00:56:08,780 - 00:56:11,780] given the fact that it also has a position?
+- [00:56:11,780 - 00:56:14,780] It has a position and a spin.
+- [00:56:14,780 - 00:56:15,780] And the answer is,
+- [00:56:15,780 - 00:56:19,780] we turn these two-component...
+- [00:56:19,780 - 00:56:21,780] They're called spinners.
+- [00:56:21,780 - 00:56:22,780] They're called spinners.
+- [00:56:22,780 - 00:56:23,780] This is what a spinner is.
+- [00:56:23,780 - 00:56:24,780] The right-hand side,
+- [00:56:24,780 - 00:56:27,780] a two-component object like this,
+- [00:56:27,780 - 00:56:29,780] which just represents up-spin and down-spin,
+- [00:56:29,780 - 00:56:31,780] is called a spinner.
+- [00:56:31,780 - 00:56:32,780] All right?
+- [00:56:32,780 - 00:56:35,780] We just turn the spinner components
+- [00:56:35,780 - 00:56:38,780] into functions of position.
+- [00:56:38,780 - 00:56:39,780] All right?
+- [00:56:39,780 - 00:56:42,780] So, let's imagine that now.
+- [00:56:42,780 - 00:56:45,780] The electron is free to move around.
+- [00:56:45,780 - 00:56:49,780] The full state of the electron
+- [00:56:49,780 - 00:56:54,780] is described not just by a simple function of x,
+- [00:56:54,780 - 00:56:56,780] but by two functions of x.
+- [00:56:56,780 - 00:57:00,780] Let's call it psi up and psi down of x.
+- [00:57:00,780 - 00:57:01,780] And if we like,
+- [00:57:01,780 - 00:57:03,780] we can just make a symbolic notation
+- [00:57:03,780 - 00:57:05,780] where we put them in a column.
+- [00:57:05,780 - 00:57:07,780] What's the meaning of this?
+- [00:57:07,780 - 00:57:10,780] The meaning of this is the following,
+- [00:57:10,780 - 00:57:13,780] that you don't just ask,
+- [00:57:13,780 - 00:57:16,780] what's the probability that the electron is up
+- [00:57:16,780 - 00:57:18,780] or the electron is down?
+- [00:57:18,780 - 00:57:20,780] You ask a more refined question.
+- [00:57:20,780 - 00:57:22,780] The more refined question is,
+- [00:57:22,780 - 00:57:26,780] if the electron is found at position x,
+- [00:57:26,780 - 00:57:29,780] what is the probability that it's up?
+- [00:57:29,780 - 00:57:30,780] That may depend on x.
+- [00:57:30,780 - 00:57:34,780] So the probability that the electron is up
+- [00:57:34,780 - 00:57:37,780] might depend on where you look.
+- [00:57:37,780 - 00:57:39,780] All right?
+- [00:57:39,780 - 00:57:42,780] Another way of saying it is classically,
+- [00:57:42,780 - 00:57:44,780] just corresponds to the classical statement,
+- [00:57:44,780 - 00:57:46,780] that the spin of the electron
+- [00:57:46,780 - 00:57:48,780] could vary from place to place.
+- [00:57:48,780 - 00:57:49,780] Quantum mechanically,
+- [00:57:49,780 - 00:57:51,780] what varies is the probability to find it up,
+- [00:57:51,780 - 00:57:54,780] the probability to find it down.
+- [00:57:54,780 - 00:57:57,780] And so at every point in space,
+- [00:57:57,780 - 00:57:59,780] each point in space,
+- [00:57:59,780 - 00:58:01,780] you have a spinner.
+- [00:58:01,780 - 00:58:02,780] And the spinner tells you,
+- [00:58:02,780 - 00:58:04,780] at that point in space,
+- [00:58:04,780 - 00:58:06,780] what's the probability the electron is up?
+- [00:58:06,780 - 00:58:11,780] Well, it's psi star psi,
+- [00:58:11,780 - 00:58:12,780] up,
+- [00:58:12,780 - 00:58:14,780] psi up of x.
+- [00:58:14,780 - 00:58:17,780] That's the probability that if you look at point x
+- [00:58:17,780 - 00:58:19,780] and discover an electron there,
+- [00:58:19,780 - 00:58:21,780] and then measure the z compo-
+- [00:58:21,780 - 00:58:23,780] and then measure the spin,
+- [00:58:23,780 - 00:58:24,780] the z component of the spin,
+- [00:58:24,780 - 00:58:26,780] this is the probability it will be up.
+- [00:58:26,780 - 00:58:28,780] And psi star,
+- [00:58:28,780 - 00:58:32,780] psi star down of x,
+- [00:58:32,780 - 00:58:34,780] psi down of x,
+- [00:58:34,780 - 00:58:36,780] is the probability that it's down.
+- [00:58:36,780 - 00:58:38,780] But at each point x,
+- [00:58:38,780 - 00:58:41,780] you have all of this apparatus here
+- [00:58:41,780 - 00:58:43,780] in exactly this form.
+- [00:58:43,780 - 00:58:46,780] And that's the whole story of what an electron is.
+- [00:58:46,780 - 00:58:49,780] An electron is a particle
+- [00:58:49,780 - 00:58:51,780] described by a wave function
+- [00:58:51,780 - 00:58:54,780] which has two components.
+- [00:58:54,780 - 00:58:56,780] The two components being
+- [00:58:56,780 - 00:58:58,780] the amplitude that the electron is at,
+- [00:58:58,780 - 00:59:01,780] and the amplitude that the electron is up or down.
+- [00:59:01,780 - 00:59:04,780] Okay?
+- [00:59:04,780 - 00:59:07,780] What about a spin one particle?
+- [00:59:07,780 - 00:59:09,780] Exactly the same.
+- [00:59:09,780 - 00:59:10,780] A spin one-
+- [00:59:10,780 - 00:59:11,780] well, not exactly the same,
+- [00:59:11,780 - 00:59:13,780] almost exactly the same.
+- [00:59:13,780 - 00:59:15,780] But the spin one particle,
+- [00:59:15,780 - 00:59:17,780] and I'm not going to call it psi,
+- [00:59:17,780 - 00:59:19,780] let's just give it another name, phi.
+- [00:59:19,780 - 00:59:22,780] Phi is a more common name for bosons.
+- [00:59:22,780 - 00:59:25,780] And spin one particles are always bosons.
+- [00:59:25,780 - 00:59:26,780] So,
+- [00:59:26,780 - 00:59:28,780] it becomes
+- [00:59:28,780 - 00:59:30,780] phi one of x,
+- [00:59:30,780 - 00:59:33,780] phi two of x,
+- [00:59:33,780 - 00:59:36,780] phi three of x.
+- [00:59:36,780 - 00:59:39,780] Where at each point of space,
+- [00:59:39,780 - 00:59:42,780] at each point of space,
+- [00:59:42,780 - 00:59:44,780] this phi one, phi two, and phi three
+- [00:59:44,780 - 00:59:48,780] replace alpha, beta, and gamma from before.
+- [00:59:51,780 - 00:59:52,780] Psi three of x,
+- [00:59:52,780 - 00:59:55,780] yeah, okay, you understand.
+- [00:59:55,780 - 00:59:56,780] Um,
+- [00:59:58,780 - 01:00:00,780] so it's just reproducing exactly the same structure
+- [01:00:00,780 - 01:00:02,780] over and over in space.
+- [01:00:02,780 - 01:00:05,780] And, um,
+- [01:00:05,780 - 01:00:07,780] that's,
+- [01:00:07,780 - 01:00:09,780] that's what spinners are.
+- [01:00:09,780 - 01:00:10,780] Yeah?
+- [01:00:10,780 - 01:00:11,780] I'm not sure,
+- [01:00:11,780 - 01:00:14,780] is psi one the probability that it's spin one?
+- [01:00:14,780 - 01:00:17,780] No, no, no.
+- [01:00:17,780 - 01:00:19,780] Okay, so let's go back.
+- [01:00:19,780 - 01:00:20,780] Let's go back.
+- [01:00:20,780 - 01:00:21,780] Good, that's a good question.
+- [01:00:21,780 - 01:00:22,780] All right, let's find out,
+- [01:00:22,780 - 01:00:24,780] let's ask, what is the probability,
+- [01:00:24,780 - 01:00:25,780] here's our wave function,
+- [01:00:25,780 - 01:00:27,780] what is the probability that the electron,
+- [01:00:27,780 - 01:00:29,780] that the electron has,
+- [01:00:29,780 - 01:00:33,780] uh, spin plus along the z-axis
+- [01:00:33,780 - 01:00:35,780] and spin minus along the z-axis
+- [01:00:35,780 - 01:00:36,780] and spin zero?
+- [01:00:36,780 - 01:00:38,780] Okay, let's work it out.
+- [01:00:38,780 - 01:00:40,780] Here's what we have to do.
+- [01:00:42,780 - 01:00:44,780] Remember those eigenvectors,
+- [01:00:44,780 - 01:00:46,780] the eigenvectors of spin.
+- [01:00:46,780 - 01:00:48,780] For the spin one,
+- [01:00:48,780 - 01:00:49,780] not for the spin, uh, zero.
+- [01:00:49,780 - 01:00:51,780] Where are they?
+- [01:00:54,780 - 01:00:55,780] Hmm?
+- [01:00:57,780 - 01:01:02,780] Okay, for m equals one,
+- [01:01:02,780 - 01:01:04,780] that's spin up along the z-axis,
+- [01:01:04,780 - 01:01:08,780] the eigenvector was one over square root of two
+- [01:01:08,780 - 01:01:12,780] minus i over square root of two
+- [01:01:12,780 - 01:01:15,780] and zero.
+- [01:01:15,780 - 01:01:18,780] This is the eigenvector for m equals one.
+- [01:01:18,780 - 01:01:22,780] Now, I'll remind you what the rule is
+- [01:01:22,780 - 01:01:24,780] for calculating the probability
+- [01:01:24,780 - 01:01:26,780] for this condition,
+- [01:01:26,780 - 01:01:30,780] given this wave function.
+- [01:01:30,780 - 01:01:33,780] The rule is take the inner product
+- [01:01:33,780 - 01:01:35,780] of this
+- [01:01:35,780 - 01:01:39,780] with the complex conjugate of this,
+- [01:01:39,780 - 01:01:42,780] we take the inner product of this
+- [01:01:42,780 - 01:01:46,780] with the bra vector corresponding to this ket vector,
+- [01:01:46,780 - 01:01:48,780] which is its complex conjugate,
+- [01:01:48,780 - 01:01:49,780] and then square it,
+- [01:01:49,780 - 01:01:51,780] take it, it times its complex conjugate.
+- [01:01:51,780 - 01:01:54,780] So what we do, here's the rule,
+- [01:01:54,780 - 01:01:55,780] standard quantum mechanics,
+- [01:01:55,780 - 01:01:57,780] standard quantum mechanical rule,
+- [01:01:57,780 - 01:01:58,780] we take the inner product,
+- [01:01:58,780 - 01:02:01,780] we'll call this state here phi,
+- [01:02:01,780 - 01:02:04,780] and let's call this m equals one.
+- [01:02:06,780 - 01:02:07,780] We take that inner product
+- [01:02:07,780 - 01:02:09,780] and then square it.
+- [01:02:10,780 - 01:02:12,780] We'll take its absolute value squared.
+- [01:02:12,780 - 01:02:15,780] It times its complex conjugate.
+- [01:02:15,780 - 01:02:16,780] All right?
+- [01:02:16,780 - 01:02:18,780] How about this bra vector
+- [01:02:18,780 - 01:02:20,780] that I've called m equals one?
+- [01:02:20,780 - 01:02:23,780] Bra vectors are always complex conjugates
+- [01:02:23,780 - 01:02:24,780] of ket vectors.
+- [01:02:24,780 - 01:02:25,780] Okay?
+- [01:02:25,780 - 01:02:26,780] So that means the bra vector
+- [01:02:26,780 - 01:02:29,780] can be thought of as a row vector,
+- [01:02:29,780 - 01:02:31,780] that's just a convention,
+- [01:02:31,780 - 01:02:33,780] one over square root of two
+- [01:02:33,780 - 01:02:37,780] plus i over the square root of two and zero,
+- [01:02:37,780 - 01:02:39,780] plus i because it's the complex conjugate
+- [01:02:39,780 - 01:02:41,780] in the second place here,
+- [01:02:41,780 - 01:02:43,780] i over square root of two.
+- [01:02:43,780 - 01:02:45,780] We take the inner product of that
+- [01:02:45,780 - 01:02:47,780] with
+- [01:02:51,780 - 01:02:53,780] phi one, phi two, phi three,
+- [01:02:54,780 - 01:02:57,780] what is that?
+- [01:03:00,780 - 01:03:03,780] i over the square root of two phi one,
+- [01:03:05,780 - 01:03:08,780] no, one over square root of two phi one, right?
+- [01:03:09,780 - 01:03:12,780] Phi one over square root of two
+- [01:03:13,780 - 01:03:18,780] plus i phi two over square root of two,
+- [01:03:19,780 - 01:03:20,780] and that's it.
+- [01:03:22,780 - 01:03:24,780] One over square root of two phi one,
+- [01:03:24,780 - 01:03:27,780] phi two over square root of two times i.
+- [01:03:27,780 - 01:03:30,780] And then we multiply this by its complex conjugate.
+- [01:03:30,780 - 01:03:32,780] All right?
+- [01:03:32,780 - 01:03:33,780] So what do we get?
+- [01:03:33,780 - 01:03:34,780] What's the complex conjugate,
+- [01:03:34,780 - 01:03:37,780] what does this times its complex conjugate give?
+- [01:03:37,780 - 01:03:40,780] I think it's just phi one squared
+- [01:03:40,780 - 01:03:42,780] plus phi two squared over two.
+- [01:03:42,780 - 01:03:46,780] All right.
+- [01:03:46,780 - 01:03:50,780] This times its complex conjugate
+- [01:03:50,780 - 01:03:52,780] will give phi one squared
+- [01:03:52,780 - 01:03:54,780] plus phi two squared over two.
+- [01:03:54,780 - 01:03:59,780] So the probability that the electron
+- [01:03:59,780 - 01:04:01,780] is up along the z-axis
+- [01:04:01,780 - 01:04:03,780] appears to be phi one squared
+- [01:04:03,780 - 01:04:05,780] plus phi two squared over two.
+- [01:04:05,780 - 01:04:09,780] What about the probability that it's down along the z-axis?
+- [01:04:09,780 - 01:04:12,780] I think it's the same.
+- [01:04:12,780 - 01:04:17,780] phi one squared minus phi two squared over two?
+- [01:04:17,780 - 01:04:18,780] I don't think so.
+- [01:04:18,780 - 01:04:20,780] Is it, um, hmm?
+- [01:04:20,780 - 01:04:21,780] No, I don't think so.
+- [01:04:21,780 - 01:04:22,780] It can't be negative.
+- [01:04:22,780 - 01:04:27,780] All right, I think it's the same.
+- [01:04:27,780 - 01:04:30,780] For this, uh,
+- [01:04:30,780 - 01:04:32,780] for this state it's the same.
+- [01:04:32,780 - 01:04:34,780] Uh, what about, um,
+- [01:04:34,780 - 01:04:37,280] what about the probability that
+- [01:04:37,280 - 01:04:39,780] the z-component of spin is zero?
+- [01:04:39,780 - 01:04:41,780] That's phi three squared.
+- [01:04:41,780 - 01:04:42,780] In that case,
+- [01:04:42,780 - 01:04:45,780] the m equals zero state
+- [01:04:45,780 - 01:04:49,780] is one one zero.
+- [01:04:49,780 - 01:04:51,780] And the inner product
+- [01:04:51,780 - 01:04:56,780] is just phi three.
+- [01:04:56,780 - 01:04:58,780] Ah, sorry, zero zero one.
+- [01:04:58,780 - 01:04:59,780] My mistake.
+- [01:04:59,780 - 01:05:01,780] Zero zero one.
+- [01:05:01,780 - 01:05:04,780] And the inner product is just phi three.
+- [01:05:04,780 - 01:05:06,780] So the probability that the electron
+- [01:05:06,780 - 01:05:10,780] is, uh, in the zero angular momentum state
+- [01:05:10,780 - 01:05:13,780] is, um, phi three squared.
+- [01:05:13,780 - 01:05:14,780] Okay?
+- [01:05:14,780 - 01:05:16,780] So here are the probabilities.
+- [01:05:16,780 - 01:05:18,780] Looks like it's phi one squared
+- [01:05:18,780 - 01:05:19,780] over two plus phi two,
+- [01:05:19,780 - 01:05:21,780] phi one squared plus phi two squared.
+- [01:05:21,780 - 01:05:23,780] Over two.
+- [01:05:23,780 - 01:05:24,780] Same thing.
+- [01:05:24,780 - 01:05:26,780] Phi one squared
+- [01:05:26,780 - 01:05:28,780] plus phi two squared
+- [01:05:28,780 - 01:05:30,780] over two.
+- [01:05:30,780 - 01:05:35,780] And phi three squared.
+- [01:05:35,780 - 01:05:36,780] Comma, comma.
+- [01:05:36,780 - 01:05:38,780] Those are the three probabilities.
+- [01:05:38,780 - 01:05:40,780] They add up to one.
+- [01:05:40,780 - 01:05:42,780] Phi one squared plus phi two squared
+- [01:05:42,780 - 01:05:44,780] plus phi three squared.
+- [01:05:44,780 - 01:05:46,780] Okay.
+- [01:05:46,780 - 01:05:49,780] Uh, sorry, this, this should really be...
+- [01:05:49,780 - 01:05:51,780] No, no, no, no, no, no.
+- [01:05:51,780 - 01:05:56,780] Phi one squared means phi one times phi one star.
+- [01:05:56,780 - 01:05:58,780] No, yes, it does.
+- [01:05:58,780 - 01:05:59,780] It does.
+- [01:05:59,780 - 01:06:00,780] It does.
+- [01:06:00,780 - 01:06:02,780] I think I, uh, I'll leave this here
+- [01:06:02,780 - 01:06:04,780] for you to work out in detail.
+- [01:06:04,780 - 01:06:06,780] I don't, um,
+- [01:06:06,780 - 01:06:08,780] I hate doing things on the blackboard
+- [01:06:08,780 - 01:06:10,780] when I don't have them in my notes.
+- [01:06:10,780 - 01:06:12,780] I tend to make mistakes,
+- [01:06:12,780 - 01:06:14,780] and I probably have made a mistake.
+- [01:06:14,780 - 01:06:16,780] But you get the principle.
+- [01:06:16,780 - 01:06:18,780] The principle is take the inner product
+- [01:06:18,780 - 01:06:20,780] of these things with...
+- [01:06:20,780 - 01:06:22,780] Oh, I know what I did.
+- [01:06:22,780 - 01:06:23,780] Yeah.
+- [01:06:23,780 - 01:06:24,780] The reason I got these two to be equal
+- [01:06:24,780 - 01:06:26,280] is because I assumed that
+- [01:06:26,280 - 01:06:27,780] phi one, phi two were real.
+- [01:06:27,780 - 01:06:29,780] They don't have to be real.
+- [01:06:29,780 - 01:06:31,780] If they're not real,
+- [01:06:31,780 - 01:06:33,780] you'll get different answers for these two.
+- [01:06:33,780 - 01:06:34,780] Check it out.
+- [01:06:34,780 - 01:06:36,780] Try it out and see what you get.
+- [01:06:36,780 - 01:06:38,780] Okay.
+- [01:06:38,780 - 01:06:40,780] But the principle is always the same.
+- [01:06:40,780 - 01:06:41,780] Take the eigenvector,
+- [01:06:41,780 - 01:06:43,780] take its inner product,
+- [01:06:43,780 - 01:06:46,780] uh, with the actual wave function,
+- [01:06:46,780 - 01:06:47,780] and take its square,
+- [01:06:47,780 - 01:06:48,780] its comp...
+- [01:06:48,780 - 01:06:49,780] times its complex conjugate.
+- [01:06:49,780 - 01:06:51,780] And then you get the final result.
+- [01:06:51,780 - 01:06:53,780] So you get a lot of probability.
+- [01:06:53,780 - 01:06:55,780] And notice, most important in this case
+- [01:06:55,780 - 01:06:57,780] is that it's a function of position.
+- [01:06:57,780 - 01:06:59,780] These phi's are functions of position.
+- [01:06:59,780 - 01:07:01,780] Can vary from place to place.
+- [01:07:01,780 - 01:07:04,780] So that's the basic idea of spin.
+- [01:07:04,780 - 01:07:08,780] It's an exercise to work it out for spin two
+- [01:07:08,780 - 01:07:10,780] or for spin three halves.
+- [01:07:10,780 - 01:07:12,780] And, uh,
+- [01:07:12,780 - 01:07:15,780] it's significantly more complicated,
+- [01:07:15,780 - 01:07:17,780] but not in principle.
+- [01:07:17,780 - 01:07:18,780] Not in principle.
+- [01:07:18,780 - 01:07:19,780] Uh,
+- [01:07:19,780 - 01:07:21,780] it's not hard to find the, uh,
+- [01:07:21,780 - 01:07:22,780] the matrices,
+- [01:07:22,780 - 01:07:24,780] but a little harder.
+- [01:07:24,780 - 01:07:25,780] All right.
+- [01:07:25,780 - 01:07:27,780] Um, I very, very quickly want to come back
+- [01:07:27,780 - 01:07:29,780] to the Dirac equation.
+- [01:07:29,780 - 01:07:30,780] Let's see how we...
+- [01:07:30,780 - 01:07:31,780] Yeah.
+- [01:07:31,780 - 01:07:32,780] For three halves,
+- [01:07:32,780 - 01:07:33,780] then what...
+- [01:07:33,780 - 01:07:35,780] what does the matrix...
+- [01:07:35,780 - 01:07:37,780] Uh, three halves should be, uh, four.
+- [01:07:37,780 - 01:07:38,780] Yeah.
+- [01:07:38,780 - 01:07:39,780] Let's see.
+- [01:07:39,780 - 01:07:40,780] Three halves...
+- [01:07:40,780 - 01:07:42,780] Three halves is the case
+- [01:07:42,780 - 01:07:44,780] plus a half,
+- [01:07:44,780 - 01:07:45,780] minus a half,
+- [01:07:45,780 - 01:07:47,780] three halves,
+- [01:07:47,780 - 01:07:48,780] minus three halves.
+- [01:07:48,780 - 01:07:50,780] So the four states.
+- [01:07:50,780 - 01:07:51,780] Spin, uh,
+- [01:07:51,780 - 01:07:53,780] spin two is five states.
+- [01:07:53,780 - 01:07:54,780] Another question?
+- [01:07:54,780 - 01:07:55,780] Yeah.
+- [01:07:55,780 - 01:07:57,780] None of this discussion seems to be symmetrical
+- [01:07:57,780 - 01:07:58,780] with respect to time.
+- [01:07:58,780 - 01:07:59,780] It's x, y, and z, but no t.
+- [01:07:59,780 - 01:08:00,780] Oh, that's true.
+- [01:08:00,780 - 01:08:01,780] Yeah.
+- [01:08:01,780 - 01:08:02,780] So is all this non-melting this thing?
+- [01:08:02,780 - 01:08:03,780] Um...
+- [01:08:03,780 - 01:08:04,780] Spin is something like mass,
+- [01:08:04,780 - 01:08:05,780] best defined in the rest frame.
+- [01:08:05,780 - 01:08:06,780] So,
+- [01:08:06,780 - 01:08:07,780] uh,
+- [01:08:07,780 - 01:08:08,780] it's a constant.
+- [01:08:08,780 - 01:08:09,780] It's a constant.
+- [01:08:09,780 - 01:08:10,780] It's a constant.
+- [01:08:10,780 - 01:08:11,780] It's a constant.
+- [01:08:11,780 - 01:08:12,780] It's a constant.
+- [01:08:12,780 - 01:08:13,780] It's a constant.
+- [01:08:13,780 - 01:08:14,780] It's a constant.
+- [01:08:14,780 - 01:08:15,780] It's a constant.
+- [01:08:15,780 - 01:08:16,779] It's a constant.
+- [01:08:16,779 - 01:08:17,779] It's a constant.
+- [01:08:17,779 - 01:08:18,779] It's a constant.
+- [01:08:18,779 - 01:08:19,779] It's a constant.
+- [01:08:19,779 - 01:08:20,779] It's a constant.
+- [01:08:20,779 - 01:08:21,779] It's a constant.
+- [01:08:21,779 - 01:08:22,779] It's a constant.
+- [01:08:22,779 - 01:08:23,779] It's a constant.
+- [01:08:23,779 - 01:08:24,779] Uh,
+- [01:08:24,779 - 01:08:25,779] So,
+- [01:08:25,779 - 01:08:26,779] in that sense,
+- [01:08:26,779 - 01:08:27,779] uh,
+- [01:08:27,779 - 01:08:28,779] what you do
+- [01:08:28,779 - 01:08:29,779] is you study it in the rest frame
+- [01:08:29,779 - 01:08:30,779] and then you find
+- [01:08:30,779 - 01:08:31,779] the right way to Lorentz transform it
+- [01:08:31,779 - 01:08:32,779] to some other frame,
+- [01:08:32,779 - 01:08:34,779] but we won't do that now,
+- [01:08:34,779 - 01:08:35,779] but
+- [01:08:35,779 - 01:08:36,779] uh...
+- [01:08:36,779 - 01:08:37,779] uh...
+- [01:08:37,779 - 01:08:38,779] it really doesn't change very much
+- [01:08:38,779 - 01:08:39,779] when you go to relativity.
+- [01:08:39,779 - 01:08:40,779] And that's because
+- [01:08:40,779 - 01:08:41,779] the definition of spin
+- [01:08:41,779 - 01:08:42,779] is
+- [01:08:42,779 - 01:08:43,779] pretty much
+- [01:08:43,779 - 01:08:44,779] what you would get
+- [01:08:44,779 - 01:08:45,779] if you did all this
+- [01:08:45,779 - 01:08:46,779] in the rest frame
+- [01:08:46,779 - 01:08:51,279] particle. But yeah, we can simplify the story,
+- [01:08:51,279 - 01:08:55,779] just say so far this is pretty non-relativistic.
+- [01:08:55,779 - 01:08:59,779] It won't change much in relativity, with
+- [01:08:59,779 - 01:09:03,779] one exception, which we won't do now.
+- [01:09:03,779 - 01:09:07,489] Let me come back to the Dirac equation and
+- [01:09:07,489 - 01:09:11,200] see what the Dirac equation has to do with
+- [01:09:11,200 - 01:09:16,700] spin. Again, spin is best defined
+- [01:09:16,700 - 01:09:22,200] in the rest frame, but let's...
+- [01:09:34,200 - 01:09:37,700] Okay, here's the Dirac equation. It had
+- [01:09:37,700 - 01:09:41,200] matrices, 4x4 matrices, and it looked like this.
+- [01:09:41,200 - 01:09:46,200] I dpsi by dt. Now, the psi's
+- [01:09:46,200 - 01:09:51,200] were four component objects, psi1, psi2, psi3, psi4.
+- [01:09:51,200 - 01:09:53,200] Where did that come from? All right, I'll tell
+- [01:09:53,200 - 01:09:55,200] you in a moment where it came from, but
+- [01:09:55,200 - 01:09:59,200] let's write the equation. The equation is that
+- [01:09:59,200 - 01:10:03,200] this is equal to minus i alpha sub m,
+- [01:10:03,200 - 01:10:06,200] m runs from 1 to 3, the three directions
+- [01:10:06,200 - 01:10:09,200] of space, x, y, and z, times the derivative of
+- [01:10:09,200 - 01:10:11,200] psi with respect to psi.
+- [01:10:11,200 - 01:10:15,700] So, we have, in respect to x, m, sum over
+- [01:10:15,700 - 01:10:20,200] m, so this is alpha1 dpsi by dx, plus alpha2
+- [01:10:20,200 - 01:10:26,700] dpsi by dy, plus alpha3 dpsi by dz, plus
+- [01:10:26,700 - 01:10:33,200] beta times the mass of the particle times psi.
+- [01:10:33,200 - 01:10:36,200] That was the Dirac equation that we wrote
+- [01:10:36,200 - 01:10:39,200] down a couple of lectures ago. And let me
+- [01:10:39,200 - 01:10:39,700] remind you what the conditions on
+- [01:10:39,700 - 01:10:40,200] the left side of the graph are.
+- [01:10:40,200 - 01:10:40,700] And I'll show you what the conditions
+- [01:10:40,700 - 01:10:41,200] on the right side of the graph are.
+- [01:10:41,200 - 01:10:43,700] So, what the conditions on the matrices alpha
+- [01:10:43,700 - 01:10:46,200] and beta were in order, what was the condition?
+- [01:10:46,200 - 01:10:49,200] The condition was that the frequency, let me
+- [01:10:49,200 - 01:10:52,200] write this in a different way, this is
+- [01:10:52,200 - 01:10:56,700] frequency is equal to momentum alpha dot k, we
+- [01:10:56,700 - 01:11:01,200] can write it this way, or just alpha m,
+- [01:11:01,200 - 01:11:05,700] km. This is the same as alpha1 k1, or alpha
+- [01:11:05,700 - 01:11:10,200] x kx, plus alpha 2 kx, plus alpha 3 kx, plus
+- [01:11:10,200 - 01:11:17,200] alpha 2 k2, plus alpha 3 k3, which is the same
+- [01:11:17,200 - 01:11:24,200] as alpha x kx, alpha y ky, alpha z kz, plus
+- [01:11:24,200 - 01:11:28,200] beta m. This is shorthand. This is shorthand.
+- [01:11:28,200 - 01:11:32,200] Do I have a, am I missing an i?
+- [01:11:32,200 - 01:11:34,200] Are those m's different?
+- [01:11:34,200 - 01:11:36,700] Yeah, these m's are an index, this is the
+- [01:11:36,700 - 01:11:39,200] mass of the particle. Okay, let's not use m here.
+- [01:11:40,200 - 01:11:44,200] I, I.
+- [01:11:46,200 - 01:11:48,200] Good, thank you.
+- [01:11:48,200 - 01:11:54,200] Yeah, sorry. And this means sum over i.
+- [01:11:54,200 - 01:11:57,200] Usual summation convention.
+- [01:11:57,200 - 01:11:59,700] Okay, when an index is repeated twice,
+- [01:11:59,700 - 01:12:02,200] it always means you sum over it.
+- [01:12:05,200 - 01:12:07,200] And we're required that omega
+- [01:12:07,200 - 01:12:09,200] squared is equal to k squared,
+- [01:12:09,200 - 01:12:13,200] plus m squared. Remember what we did.
+- [01:12:13,200 - 01:12:17,200] We took omega squared by squaring this out,
+- [01:12:17,200 - 01:12:20,200] and require that we got k squared plus
+- [01:12:20,200 - 01:12:23,200] m squared. What were the conditions for that?
+- [01:12:23,200 - 01:12:26,700] The conditions were conditions on the matrices alpha
+- [01:12:26,700 - 01:12:30,200] and beta. I'll just remind you what they were.
+- [01:12:30,200 - 01:12:34,200] They required every alpha, uh,
+- [01:12:34,200 - 01:12:38,200] squared to be 2, I believe.
+- [01:12:39,200 - 01:12:41,200] Is it 2? I think
+- [01:12:41,200 - 01:12:43,200] it's 2. Uh, no. No, 1.
+- [01:12:45,200 - 01:12:50,200] 1. Every alpha squared i, for each i, alpha
+- [01:12:50,200 - 01:12:55,200] x squared equals alpha y squared equals alpha z squared.
+- [01:13:01,200 - 01:13:03,200] Is beta different for each of
+- [01:13:03,200 - 01:13:05,200] the, uh, psi 1, 2, 3, 4?
+- [01:13:05,200 - 01:13:07,200] No, no, beta is one matrix.
+- [01:13:07,200 - 01:13:10,200] Oh, beta is a matrix.
+- [01:13:10,200 - 01:13:13,200] Beta is a matrix. It requires
+- [01:13:13,200 - 01:13:16,200] beta squared to be equal to 1.
+- [01:13:16,200 - 01:13:18,200] These things are just there so that
+- [01:13:18,200 - 01:13:20,200] you get the k squared plus m squared.
+- [01:13:21,200 - 01:13:23,200] Okay. But then, in order
+- [01:13:23,200 - 01:13:25,200] that you don't get cross terms,
+- [01:13:25,200 - 01:13:27,200] in order that you don't get things like
+- [01:13:27,200 - 01:13:29,200] k times m when you square it out,
+- [01:13:29,200 - 01:13:32,200] or k 1 times k 2 and so
+- [01:13:32,200 - 01:13:35,200] forth, we require things like alpha x, alpha y,
+- [01:13:35,200 - 01:13:37,200] plus alpha y squared.
+- [01:13:37,200 - 01:13:42,010] alpha x equals zero. That would be, for
+- [01:13:42,010 - 01:13:46,820] example, the cross term between kx and ky.
+- [01:13:46,820 - 01:13:51,959] All right, so same thing for alpha x
+- [01:13:51,959 - 01:13:57,099] alpha z. We can write this in a
+- [01:13:57,099 - 01:14:00,149] needle notation. Anti-commutator of alpha x
+- [01:14:00,149 - 01:14:03,200] alpha y equals zero, anti-commutator of
+- [01:14:03,200 - 01:14:06,950] alpha x alpha z equals zero, an
+- [01:14:06,950 - 01:14:10,700] anti-commutator of alpha z with alpha y
+- [01:14:10,700 - 01:14:13,840] equals zero. What about
+- [01:14:13,840 - 01:14:17,670] anti-commutator of alpha x with alpha x?
+- [01:14:17,670 - 01:14:21,500] Oh, sorry, and one more. Any alpha with
+- [01:14:21,500 - 01:14:26,080] beta should be also equal to zero.
+- [01:14:26,080 - 01:14:29,530] What's the anti-commutator of beta with
+- [01:14:29,530 - 01:14:32,980] itself? Two. Because it's beta times beta
+- [01:14:32,980 - 01:14:33,160] equals zero.
+- [01:14:33,160 - 01:14:33,179] It's beta times beta.
+- [01:14:33,180 - 01:14:36,930] plus beta times beta. Okay? Right.
+- [01:14:36,930 - 01:14:40,680] So we can summarize these commutation relations
+- [01:14:40,680 - 01:14:43,740] just by saying that everybody's
+- [01:14:43,740 - 01:14:46,800] anti-commutator with himself is 2,
+- [01:14:46,800 - 01:14:49,680] everybody's anti-commutator with somebody
+- [01:14:49,680 - 01:14:52,560] else is 0. Okay? Simple
+- [01:14:52,560 - 01:14:54,370] anti-commutator. Alright, it's a theorem. It's not
+- [01:14:54,370 - 01:14:56,180] hard to prove, but I'm not going
+- [01:14:56,180 - 01:14:59,440] to prove it. That the smallest
+- [01:14:59,440 - 01:15:02,700] dimension, the smallest number of components, the
+- [01:15:02,700 - 01:15:07,700] smallest matrices which can solve this are
+- [01:15:07,700 - 01:15:12,700] 4x4. If you didn't have the betas here,
+- [01:15:12,700 - 01:15:15,620] then you can find 2x2 matrices
+- [01:15:15,620 - 01:15:18,540] which satisfy it. In fact, the sigma
+- [01:15:18,540 - 01:15:21,690] matrices, the Pauli matrices, satisfy
+- [01:15:21,690 - 01:15:24,840] it. The Pauli matrices anti-commute with
+- [01:15:24,840 - 01:15:27,610] each other. That's something you can check.
+- [01:15:27,610 - 01:15:30,380] And their square is equal to 1. So
+- [01:15:30,380 - 01:15:32,700] if you didn't have the extra beta matrices,
+- [01:15:32,700 - 01:15:34,439] if you didn't have the extra beta
+- [01:15:34,439 - 01:15:36,179] matrices, then you can't solve these equations.
+- [01:15:36,179 - 01:15:38,899] Now, if you had the 2x2 matrix
+- [01:15:38,899 - 01:15:41,620] here, the Pauli matrices would solve these
+- [01:15:41,620 - 01:15:45,140] equations. But in 2x2 matrices there
+- [01:15:45,140 - 01:15:48,660] are only three matrices which anti-commute
+- [01:15:48,660 - 01:15:50,820] among themselves that way. And if you look
+- [01:15:50,820 - 01:15:52,980] for a fourth one, there just won't be
+- [01:15:52,980 - 01:15:56,840] one. You have to go to larger
+- [01:15:56,840 - 01:16:00,700] dimensional matrices. You try 3x3 matrices, there
+- [01:16:00,700 - 01:16:01,700] aren't.
+- [01:16:02,700 - 01:16:07,620] of this anti-commutation algebra here
+- [01:16:07,620 - 01:16:09,540] I think I wrote down a representation,
+- [01:16:09,540 - 01:16:11,460] I'm going to write down another one tonight
+- [01:16:11,460 - 01:16:13,960] which is a little different,
+- [01:16:13,960 - 01:16:16,460] but it's basically, again, it's equivalent
+- [01:16:23,679 - 01:16:26,779] So I'll give you an example of
+- [01:16:26,779 - 01:16:29,880] four matrices which satisfy exactly this algebra
+- [01:16:29,880 - 01:16:36,880] Now, 4x4 matrices, these are 4x4 matrices
+- [01:16:43,880 - 01:16:46,880] But you can write them in block form
+- [01:16:46,880 - 01:16:51,880] Writing them in block form means that
+- [01:16:51,880 - 01:16:56,880] you divide this up into 2x2 blocks
+- [01:16:57,880 - 01:16:59,880] You have 2x2 blocks
+- [01:16:59,880 - 01:17:03,880] Each one of which is a 2x2 matrix
+- [01:17:03,880 - 01:17:07,880] That's just a simple way to write them down
+- [01:17:07,880 - 01:17:11,380] And then for the alphas, for each
+- [01:17:11,380 - 01:17:14,880] alpha, alpha 1 to alpha 2, alpha 3
+- [01:17:14,880 - 01:17:19,380] Put in this 2x2 box over
+- [01:17:19,380 - 01:17:23,880] here, the corresponding Pauli matrix, sigma i
+- [01:17:23,880 - 01:17:25,880] It's a 2x2 matrix, so
+- [01:17:25,880 - 01:17:27,880] it fills up four entries here
+- [01:17:27,880 - 01:17:30,880] Down here, put the same Pauli
+- [01:17:30,880 - 01:17:33,880] matrix except with a minus sign
+- [01:17:36,880 - 01:17:38,880] And zero is here
+- [01:17:39,880 - 01:17:41,880] That's pretty easy
+- [01:17:41,880 - 01:17:44,880] Isn't it the other way around?
+- [01:17:44,880 - 01:17:48,880] I know, I told you, I
+- [01:17:48,880 - 01:17:52,880] used a different representation last time
+- [01:17:52,880 - 01:17:54,880] They are equivalent
+- [01:17:54,880 - 01:17:55,880] I think I put last time,
+- [01:17:55,880 - 01:17:56,880] I put the sigmas off there
+- [01:17:56,880 - 01:17:58,880] I put the sigmas off diagonal, did I?
+- [01:17:58,880 - 01:17:59,880] Yeah
+- [01:17:59,880 - 01:18:01,880] Yeah, they are equivalent
+- [01:18:02,880 - 01:18:04,880] They're mathematically equivalent and
+- [01:18:04,880 - 01:18:06,880] there are similarity relations
+- [01:18:06,880 - 01:18:08,880] Similarity transforms which relate them
+- [01:18:08,880 - 01:18:10,880] But I like this one better,
+- [01:18:10,880 - 01:18:12,880] I decided I like this one better
+- [01:18:12,880 - 01:18:13,880] And what about beta?
+- [01:18:13,880 - 01:18:17,880] Beta is just in the
+- [01:18:17,880 - 01:18:21,880] same notation, same 2x2 block notation
+- [01:18:26,880 - 01:18:30,880] It's just 1, now what's 1?
+- [01:18:30,880 - 01:18:35,880] 1 is the 2x2 matrix 1 0 0 1
+- [01:18:35,880 - 01:18:38,380] It really is 1, the unit
+- [01:18:38,380 - 01:18:40,880] matrix and the unit matrix down here
+- [01:18:41,880 - 01:18:46,880] And that's it, those matrices have the desired property
+- [01:18:46,880 - 01:18:51,880] Incidentally, when you multiply 4x4 matrices in this form
+- [01:18:51,880 - 01:18:55,380] You can do it by tricks where
+- [01:18:55,380 - 01:18:58,880] really you multiply in the blocks 2x2 matrices
+- [01:18:58,880 - 01:19:01,880] So it's an easy way to do this
+- [01:19:01,880 - 01:19:04,880] and it's no harder than working with 2x2 matrices
+- [01:19:04,880 - 01:19:07,880] But I'll leave that to your devices to check
+- [01:19:07,880 - 01:19:11,880] These are the Dirac matrices, the alphas and the betas
+- [01:19:11,880 - 01:19:15,880] Or one particular realization of the alphas and the betas
+- [01:19:15,880 - 01:19:18,380] Excuse me, I think last time we had
+- [01:19:18,380 - 01:19:20,880] beta with the bottom of the minus sign
+- [01:19:21,880 - 01:19:22,880] Minus sign here?
+- [01:19:22,880 - 01:19:24,880] No, that was last time
+- [01:19:27,880 - 01:19:30,880] What's that? This is a different representation
+- [01:19:30,880 - 01:19:33,380] The last time I had these off diagonal and
+- [01:19:33,380 - 01:19:35,880] I don't remember what I had for this one
+- [01:19:35,880 - 01:19:36,880] I can't remember
+- [01:19:36,880 - 01:19:38,880] I thought I had beta diagonal last time
+- [01:19:40,880 - 01:19:43,880] I thought I had beta diagonal, I can't remember
+- [01:19:43,880 - 01:19:44,880] Yeah, yeah
+- [01:19:45,880 - 01:19:47,880] Okay, this is a little bit different
+- [01:19:47,880 - 01:19:49,880] And you get your choice, the physics
+- [01:19:49,880 - 01:19:51,880] of it will be exactly the same
+- [01:19:51,880 - 01:19:55,380] They just correspond to choosing linear
+- [01:19:55,380 - 01:19:58,880] combinations of the four entries in the
+- [01:19:58,880 - 01:20:01,880] And there's no real difference
+- [01:20:01,880 - 01:20:05,880] It's as physically interesting as rotating coordinates
+- [01:20:05,880 - 01:20:07,880] What you're doing is rotating
+- [01:20:07,880 - 01:20:09,880] coordinates in this four dimensional space
+- [01:20:09,880 - 01:20:12,880] Which is not four dimensional space-time
+- [01:20:12,880 - 01:20:14,880] These four entries here do not
+- [01:20:14,880 - 01:20:16,880] have to do with the four
+- [01:20:16,880 - 01:20:18,880] They're not direct the same
+- [01:20:18,880 - 01:20:20,880] as the four dimensions of space-time
+- [01:20:21,880 - 01:20:24,880] They're just the smallest
+- [01:20:24,880 - 01:20:27,880] representation of this algebraic structure
+- [01:20:27,880 - 01:20:34,880] Okay, that's what the Dirac equation is
+- [01:20:34,880 - 01:20:39,880] Here it is, the Dirac equation
+- [01:20:39,880 - 01:20:42,880] It can be summarized in a form like this
+- [01:20:42,880 - 01:20:44,880] Where this really means just this
+- [01:20:44,880 - 01:20:48,880] And here are the matrices
+- [01:20:48,880 - 01:20:50,380] What I want to do, the only
+- [01:20:50,380 - 01:20:51,880] thing I want to point out is that
+- [01:20:51,880 - 01:20:54,880] I'm going to talk a lot about it tonight
+- [01:20:54,880 - 01:20:57,880] Is that there are two kinds
+- [01:20:57,880 - 01:21:00,880] of two by two-ness to this
+- [01:21:00,880 - 01:21:02,880] One is these blocks
+- [01:21:02,880 - 01:21:05,880] And the other is within each block
+- [01:21:05,880 - 01:21:10,880] This, by, what shall I call it
+- [01:21:10,880 - 01:21:12,880] This doubling of the two by two-ness
+- [01:21:12,880 - 01:21:14,880] Corresponds to a doubling of
+- [01:21:14,880 - 01:21:16,880] the two by two-ness in physics
+- [01:21:16,880 - 01:21:19,380] One of the two by
+- [01:21:19,380 - 01:21:21,880] two-nesses is positive and negative energy
+- [01:21:21,880 - 01:21:24,880] The other is spin
+- [01:21:24,880 - 01:21:28,880] Alright, so there are particles of positive energy
+- [01:21:28,880 - 01:21:30,880] With all possible spins
+- [01:21:30,880 - 01:21:32,880] There are positive particles with negative energy
+- [01:21:32,880 - 01:21:35,880] With all possible spins
+- [01:21:35,880 - 01:21:37,880] Alright, we can see this
+- [01:21:37,880 - 01:21:39,880] And that's why there are four
+- [01:21:39,880 - 01:21:41,880] by four matrices if you like
+- [01:21:41,880 - 01:21:44,880] Roughly speaking, there's an entry
+- [01:21:44,880 - 01:21:47,880] for positive energy with positive spin
+- [01:21:47,880 - 01:21:49,880] Positive energy with negative spin
+- [01:21:49,880 - 01:21:51,880] Negative energy with positive spin
+- [01:21:51,880 - 01:21:54,880] Negative energy with negative spin
+- [01:21:54,880 - 01:21:56,880] Those are the four possibilities
+- [01:21:56,880 - 01:21:59,880] That's why, when I say positive spin and negative spin
+- [01:21:59,880 - 01:22:01,880] I mean spin along the z-axis
+- [01:22:01,880 - 01:22:03,880] Half spin along the z-axis
+- [01:22:03,880 - 01:22:07,880] That's why there are four components to the Dirac equation
+- [01:22:07,880 - 01:22:09,880] Positive and negative energy
+- [01:22:09,880 - 01:22:13,880] Exactly as in the one-dimensional example that we described
+- [01:22:13,880 - 01:22:15,880] And spin
+- [01:22:15,880 - 01:22:18,880] Up spin and down spin if you like
+- [01:22:18,880 - 01:22:21,880] That's why there are four entries in the Dirac spinner
+- [01:22:21,880 - 01:22:24,880] In the Dirac equation
+- [01:22:24,880 - 01:22:29,880] And perhaps the easiest way to see what's going on
+- [01:22:29,880 - 01:22:34,880] Is to look at a Dirac particle with zero momentum
+- [01:22:34,880 - 01:22:36,880] Just take a particle with zero momentum
+- [01:22:36,880 - 01:22:40,880] That means k is equal to zero
+- [01:22:40,880 - 01:22:43,380] In that case, we can
+- [01:22:43,380 - 01:22:45,880] just throw away the alphas altogether
+- [01:22:45,880 - 01:22:49,880] And we get a very simple equation
+- [01:22:49,880 - 01:22:53,880] When the momentum is zero
+- [01:22:53,880 - 01:22:57,880] That means that psi is constant in space
+- [01:22:57,880 - 01:22:58,880] Is what it means
+- [01:22:58,880 - 01:23:01,880] It has no derivatives with respect to space
+- [01:23:01,880 - 01:23:03,880] k is absolutely zero
+- [01:23:03,880 - 01:23:07,880] In that case, the whole Dirac equation just becomes
+- [01:23:07,880 - 01:23:09,880] Uh
+- [01:23:15,880 - 01:23:17,880] I
+- [01:23:17,880 - 01:23:21,880] D psi by dt
+- [01:23:21,880 - 01:23:26,880] Is equal to im beta
+- [01:23:26,880 - 01:23:28,880] D psi by, uh, psi
+- [01:23:28,880 - 01:23:30,880] That's it
+- [01:23:30,880 - 01:23:34,880] That's the Dirac equation
+- [01:23:34,880 - 01:23:36,880] For a particle at rest
+- [01:23:36,880 - 01:23:40,880] Particle with momentum equals zero means a particle at rest
+- [01:23:40,880 - 01:23:43,380] If it's at rest, the
+- [01:23:43,380 - 01:23:45,880] wave function has no space dependence
+- [01:23:45,880 - 01:23:47,880] It's just completely constant
+- [01:23:47,880 - 01:23:49,880] With respect to space
+- [01:23:49,880 - 01:23:51,880] And this is the whole thing
+- [01:23:51,880 - 01:23:55,880] And it tells you what the possible frequencies are
+- [01:23:55,880 - 01:23:57,880] We can write it a different way
+- [01:23:57,880 - 01:23:59,880] We can write it
+- [01:24:01,880 - 01:24:03,880] Uh, maybe
+- [01:24:03,880 - 01:24:05,880] Yeah
+- [01:24:05,880 - 01:24:07,880] No i here
+- [01:24:07,880 - 01:24:09,880] No i there
+- [01:24:11,880 - 01:24:13,880] Let's see what it says
+- [01:24:15,880 - 01:24:17,880] Okay, so
+- [01:24:17,880 - 01:24:19,880] Here's the way we'll think about it
+- [01:24:19,880 - 01:24:21,880] We'll take these
+- [01:24:21,880 - 01:24:22,880] Psi's
+- [01:24:22,880 - 01:24:23,880] Psi one
+- [01:24:23,880 - 01:24:24,880] There are four entries
+- [01:24:24,880 - 01:24:25,880] One, two, three, four
+- [01:24:25,880 - 01:24:27,880] And we'll divide it
+- [01:24:27,880 - 01:24:33,880] Same kind of division into blocks
+- [01:24:33,880 - 01:24:35,880] And each half of it
+- [01:24:35,880 - 01:24:37,880] The upper half and the lower half
+- [01:24:37,880 - 01:24:39,880] I'll put a two
+- [01:24:39,880 - 01:24:41,880] A thing with two entries
+- [01:24:41,880 - 01:24:43,880] We'll call it psi plus
+- [01:24:43,880 - 01:24:45,880] And psi minus
+- [01:24:45,880 - 01:24:46,880] Let's set up plus and minus
+- [01:24:46,880 - 01:24:47,880] Minus and minus
+- [01:24:47,880 - 01:24:49,880] Does that mean positive and negative?
+- [01:24:49,880 - 01:24:50,880] No, they don't
+- [01:24:50,880 - 01:24:51,880] They don't mean anything right now
+- [01:24:51,880 - 01:24:52,880] Just plus and minus
+- [01:24:52,880 - 01:24:54,880] Nothing special
+- [01:24:54,880 - 01:24:55,880] But each psi plus
+- [01:24:55,880 - 01:24:56,880] What is psi plus?
+- [01:24:56,880 - 01:24:57,880] This is equal
+- [01:24:57,880 - 01:25:01,880] Psi plus is psi upside down
+- [01:25:01,880 - 01:25:04,880] And the bottom one here I think is
+- [01:25:04,880 - 01:25:05,880] Something else
+- [01:25:05,880 - 01:25:07,880] Two others
+- [01:25:07,880 - 01:25:10,880] This corresponds to an electron
+- [01:25:10,880 - 01:25:12,880] What's
+- [01:25:12,880 - 01:25:15,880] What is that column
+- [01:25:15,880 - 01:25:16,880] The last column that you're trying to do?
+- [01:25:16,880 - 01:25:18,880] Okay
+- [01:25:18,880 - 01:25:20,880] We're just writing the column vector
+- [01:25:20,880 - 01:25:23,880] In a notation which is similar to the way I
+- [01:25:23,880 - 01:25:26,880] Divided up matrices
+- [01:25:26,880 - 01:25:29,880] Divided up matrices by just drawing some red lines
+- [01:25:29,880 - 01:25:32,880] And doing two by two matrices in here
+- [01:25:32,880 - 01:25:34,880] We'll divide up
+- [01:25:34,880 - 01:25:36,880] The spinners
+- [01:25:36,880 - 01:25:37,880] The column vectors
+- [01:25:37,880 - 01:25:39,880] By just dividing them in half
+- [01:25:39,880 - 01:25:42,880] And in each place put a two component object
+- [01:25:42,880 - 01:25:43,880] Okay
+- [01:25:43,880 - 01:25:45,880] So psi plus and psi minus are themselves two components
+- [01:25:45,880 - 01:25:47,880] Two two component objects make a four component object
+- [01:25:47,880 - 01:25:52,880] It's just a pretty way to organize the Dirac indices
+- [01:25:52,880 - 01:25:55,880] The Dirac structures here
+- [01:25:55,880 - 01:25:56,880] Okay
+- [01:25:56,880 - 01:25:58,880] Then we can write this equation very nicely
+- [01:25:58,880 - 01:26:00,880] This equation is pretty simple
+- [01:26:00,880 - 01:26:03,880] What does it say?
+- [01:26:03,880 - 01:26:05,880] It says that
+- [01:26:05,880 - 01:26:07,880] The spinners are two components
+- [01:26:07,880 - 01:26:09,880] And the two components are two components
+- [01:26:09,880 - 01:26:11,880] And the two components are two components
+- [01:26:11,880 - 01:26:13,880] And the two components are two components
+- [01:26:13,880 - 01:26:14,880] And the two components are two components
+- [01:26:14,880 - 01:26:17,880] Data
+- [01:26:17,880 - 01:26:19,880] is the matrix
+- [01:26:19,880 - 01:26:22,880] zero, one, one, zero
+- [01:26:22,880 - 01:26:24,880] What does this matrix do
+- [01:26:24,880 - 01:26:27,880] When it hits a two component object?
+- [01:26:27,880 - 01:26:31,880] Psi plus, psi minus
+- [01:26:31,880 - 01:26:33,880] What it does is it swaps
+- [01:26:33,880 - 01:26:35,880] the upper and lower one
+- [01:26:35,880 - 01:26:38,880] When this matrix hits a vector like this
+- [01:26:38,880 - 01:26:42,880] It just interchanges psi plus and psi minus
+- [01:26:42,880 - 01:26:43,880] All right
+- [01:26:43,880 - 01:26:46,930] as a two-component object, psi plus, really
+- [01:26:46,930 - 01:26:49,980] a four-component object, but two two-component objects.
+- [01:26:49,980 - 01:26:57,240] And now we can see what the equation says. What the
+- [01:26:57,240 - 01:27:04,500] equation says is that I d by dt of psi plus
+- [01:27:04,500 - 01:27:12,310] equals m psi minus, and I d by
+- [01:27:12,310 - 01:27:20,120] dt of psi minus equals m psi plus.
+- [01:27:24,080 - 01:27:27,850] That's the whole upshot of the
+- [01:27:27,850 - 01:27:31,620] Dirac equation for particles at rest.
+- [01:27:34,500 - 01:27:39,720] It's even simpler than that. You can, the next step...
+- [01:27:48,720 - 01:27:50,220] Anybody got a good idea what
+- [01:27:50,220 - 01:27:51,720] to do with this to simplify it?
+- [01:27:51,720 - 01:27:54,720] Take another derivative and respect the time.
+- [01:27:54,720 - 01:27:56,720] That's one thing you could do.
+- [01:27:56,720 - 01:28:00,720] Add them and subtract them. Add them and subtract them.
+- [01:28:00,720 - 01:28:02,720] So what happens if you add them?
+- [01:28:04,500 - 01:28:12,720] I d by dt of psi plus plus psi minus
+- [01:28:16,720 - 01:28:22,720] equals m psi plus plus psi minus.
+- [01:28:24,720 - 01:28:26,720] Right?
+- [01:28:26,720 - 01:28:30,720] That's adding them and subtracting them.
+- [01:28:30,720 - 01:28:32,720] I d by dt of psi plus plus psi minus.
+- [01:28:34,500 - 01:28:36,500] Right?
+- [01:28:36,500 - 01:28:45,990] So we can see that now, what
+- [01:28:45,990 - 01:28:55,480] you're doing is the inverse serve of mme
+- [01:28:55,480 - 01:28:58,400] plus m psi plus minus psi minus.
+- [01:28:58,400 - 01:29:00,400] Right?
+- [01:29:00,400 - 01:29:01,920] So I've sorted that out for you.
+- [01:29:01,920 - 01:29:02,720] I've solved it.
+- [01:29:02,720 - 01:29:05,720] They satisfy equations which are
+- [01:29:05,720 - 01:29:08,720] completely independent of each other.
+- [01:29:08,720 - 01:29:12,720] How about the frequencies of this one?
+- [01:29:12,720 - 01:29:14,720] What can you say about the frequency of this one?
+- [01:29:14,720 - 01:29:17,720] ID by DT is just omega, right?
+- [01:29:17,720 - 01:29:22,220] If the wave function has a definite frequency,
+- [01:29:22,220 - 01:29:26,720] then ID by DT just gives you its frequency.
+- [01:29:26,720 - 01:29:31,220] So this object here has a frequency, this one
+- [01:29:31,220 - 01:29:35,720] has a frequency omega, which is just equal to m.
+- [01:29:35,720 - 01:29:40,220] This one has a frequency omega equal to
+- [01:29:40,220 - 01:29:44,720] minus m, because of the minus sign here.
+- [01:29:44,720 - 01:29:46,720] What does it say about
+- [01:29:46,720 - 01:29:48,720] the energies of these two solutions?
+- [01:29:48,720 - 01:29:52,220] One of them is a positive energy solution,
+- [01:29:52,220 - 01:29:55,720] and one of them is a negative energy solution.
+- [01:29:55,720 - 01:29:56,720] All right.
+- [01:29:56,720 - 01:29:58,720] So just exactly the same
+- [01:29:58,720 - 01:30:00,720] as the one-dimensional example we gave,
+- [01:30:00,720 - 01:30:03,220] there are positive energy
+- [01:30:03,220 - 01:30:05,720] electrons and negative energy electrons.
+- [01:30:05,720 - 01:30:09,220] I don't expect you to remember all of this, and to be
+- [01:30:09,220 - 01:30:12,720] able to deal with all of this from one sitting with it.
+- [01:30:12,720 - 01:30:16,220] It's worth going back now, finding a little
+- [01:30:16,220 - 01:30:19,720] book on the Dirac equation, and going through it.
+- [01:30:19,720 - 01:30:22,720] But basically, the two-by-two blockiness here has
+- [01:30:22,720 - 01:30:25,720] to do with positive and negative energy.
+- [01:30:25,720 - 01:30:32,720] Psi plus plus psi minus are positive energy things.
+- [01:30:32,720 - 01:30:35,720] Psi plus minus psi minus are negative energy things.
+- [01:30:35,720 - 01:30:39,220] But that still leaves the
+- [01:30:39,220 - 01:30:42,720] two-by-two-ness of the individual entries here.
+- [01:30:42,720 - 01:30:45,720] Each one of these is a two-by-two entry.
+- [01:30:45,720 - 01:30:48,720] So let's forget psi plus and psi minus.
+- [01:30:48,720 - 01:30:50,220] We've taken care of that
+- [01:30:50,220 - 01:30:51,720] by adding them and subtracting them.
+- [01:30:51,720 - 01:30:53,220] But now let's look at
+- [01:30:53,220 - 01:30:54,720] the entry of the two-by-two block.
+- [01:30:54,720 - 01:30:58,720] This is the entry of just one of them.
+- [01:30:58,720 - 01:31:01,720] It also is a two-by-two thing.
+- [01:31:01,720 - 01:31:02,720] What is that two-by-two thing?
+- [01:31:02,720 - 01:31:04,720] It's the spin.
+- [01:31:04,720 - 01:31:08,220] It's the spin which is
+- [01:31:08,220 - 01:31:11,720] described by these Pauli matrices here.
+- [01:31:11,720 - 01:31:14,720] If we completely forgot about the two-by-two-ness
+- [01:31:14,720 - 01:31:17,720] associated with the upper and lower pieces here,
+- [01:31:17,720 - 01:31:23,720] and just worried about the two-by-two-ness within here,
+- [01:31:23,720 - 01:31:27,220] that's the same as the
+- [01:31:27,220 - 01:31:30,720] two-by-two-ness within the two-by-two matrices here.
+- [01:31:30,720 - 01:31:32,720] That's the spin.
+- [01:31:32,720 - 01:31:36,720] So the Dirac equation predicts that positive
+- [01:31:36,720 - 01:31:40,720] energy electrons come in two different kinds.
+- [01:31:40,720 - 01:31:42,720] The two different kinds have to
+- [01:31:42,720 - 01:31:44,720] do with the upper and lower components,
+- [01:31:44,720 - 01:31:46,720] or the up and down
+- [01:31:46,720 - 01:31:48,720] components within a psi plus here.
+- [01:31:48,720 - 01:31:50,720] And that's the spin.
+- [01:31:50,720 - 01:31:52,720] It also predicts that there's a positive energy,
+- [01:31:52,720 - 01:31:55,720] a positive and negative energy-ness to it.
+- [01:31:55,720 - 01:31:58,720] That comes from here.
+- [01:31:58,720 - 01:32:01,720] That has to do with the existence of positrons.
+- [01:32:01,720 - 01:32:02,720] Okay?
+- [01:32:02,720 - 01:32:05,720] Holes in the negative energy C are positrons.
+- [01:32:05,720 - 01:32:08,720] That's what the four-by-four is about.
+- [01:32:08,720 - 01:32:11,220] You can either think about it as positive
+- [01:32:11,220 - 01:32:13,720] and negative energy spin up and spin down,
+- [01:32:13,720 - 01:32:17,720] or you can think about it as electrons and positrons,
+- [01:32:17,720 - 01:32:20,720] each of which are half-spin particles.
+- [01:32:20,720 - 01:32:21,720] So...
+- [01:32:21,720 - 01:32:23,720] So, yeah.
+- [01:32:23,720 - 01:32:27,720] Can you portray it the opposite way around,
+- [01:32:27,720 - 01:32:29,720] where the big ones are spin
+- [01:32:29,720 - 01:32:31,720] and the small ones are energy?
+- [01:32:31,720 - 01:32:32,720] Yep.
+- [01:32:32,720 - 01:32:34,720] You're asking whether you can...
+- [01:32:34,720 - 01:32:35,720] Yeah, absolutely.
+- [01:32:35,720 - 01:32:37,720] You can.
+- [01:32:37,720 - 01:32:40,220] Yep, you can put the positive
+- [01:32:40,220 - 01:32:42,720] and negative energy-ness into the smaller matrices
+- [01:32:42,720 - 01:32:46,720] and the spin into the bigger matrices.
+- [01:32:46,720 - 01:32:47,720] Yes, you can.
+- [01:32:47,720 - 01:32:49,720] Either way.
+- [01:32:49,720 - 01:32:51,720] They're kind of equivalent to each other,
+- [01:32:51,720 - 01:32:54,720] and they just correspond to reshuffling of the indices.
+- [01:32:54,720 - 01:32:57,720] Could you go through that one
+- [01:32:57,720 - 01:33:00,720] more time on the positron explanation?
+- [01:33:00,720 - 01:33:01,720] Yeah.
+- [01:33:01,720 - 01:33:04,720] You can see from here that there
+- [01:33:04,720 - 01:33:07,720] are both positive frequency and negative frequency solutions.
+- [01:33:07,720 - 01:33:09,720] The things which have positive frequency
+- [01:33:09,720 - 01:33:11,720] are the sums of these two,
+- [01:33:11,720 - 01:33:13,220] and the things which have negative
+- [01:33:13,220 - 01:33:14,720] frequency are the difference between the two.
+- [01:33:14,720 - 01:33:17,720] Negative frequency means negative energy.
+- [01:33:17,720 - 01:33:20,720] Positive frequency means positive energy.
+- [01:33:20,720 - 01:33:22,720] So, if there are positive energy
+- [01:33:22,720 - 01:33:24,720] solutions, that means positive energy electrons.
+- [01:33:24,720 - 01:33:26,720] If there are negative energy
+- [01:33:26,720 - 01:33:28,720] solutions, that means negative energy electrons.
+- [01:33:28,720 - 01:33:32,720] What do you do with a negative energy electron?
+- [01:33:32,720 - 01:33:34,720] You fill it up.
+- [01:33:34,720 - 01:33:37,220] You fill up the Dirac C
+- [01:33:37,220 - 01:33:39,720] with all states of negative energy.
+- [01:33:39,720 - 01:33:42,220] You always lower the energy by
+- [01:33:42,220 - 01:33:44,720] putting in a particle of negative energy.
+- [01:33:44,720 - 01:33:46,220] If you want to lower the
+- [01:33:46,220 - 01:33:47,720] energy down to the absolute minimum,
+- [01:33:47,720 - 01:33:50,720] you fill every negative energy state.
+- [01:33:50,720 - 01:33:52,720] Among others, you fill in negative
+- [01:33:52,720 - 01:33:54,720] energy states which have no momentum.
+- [01:33:54,720 - 01:33:57,720] I just worked that out for zero momentum.
+- [01:33:57,720 - 01:34:01,220] But you fill all the negative
+- [01:34:01,220 - 01:34:04,720] energy states, and that's the vacuum.
+- [01:34:04,720 - 01:34:06,720] You take a negative energy electron and
+- [01:34:06,720 - 01:34:08,720] stick it into a positive energy state,
+- [01:34:08,720 - 01:34:11,720] you've made an electron and a
+- [01:34:11,720 - 01:34:14,720] hole, or an electron and a positron.
+- [01:34:14,720 - 01:34:16,220] So, in exactly the same way
+- [01:34:16,220 - 01:34:17,720] as for the positive energy state,
+- [01:34:17,720 - 01:34:19,720] for the one-dimensional example,
+- [01:34:19,720 - 01:34:22,220] the positive and negative energy
+- [01:34:22,220 - 01:34:24,720] electrons become electrons and positrons.
+- [01:34:24,720 - 01:34:28,720] The other doubling becomes the spin.
+- [01:34:28,720 - 01:34:31,720] So, they're half-spin particles
+- [01:34:31,720 - 01:34:34,720] which come in particle-antiparticle pairs.
+- [01:34:34,720 - 01:34:38,720] And that was the prediction of the Dirac equation.
+- [01:34:38,720 - 01:34:42,220] It's one of these marvelous examples
+- [01:34:42,220 - 01:34:45,720] of just fiddling with abstract mathematics.
+- [01:34:45,720 - 01:34:46,720] Diddle, diddle, diddle, diddle.
+- [01:34:46,720 - 01:34:49,220] And then out comes this
+- [01:34:49,220 - 01:34:51,720] very, very dramatic, incredible prediction,
+- [01:34:51,720 - 01:34:55,720] positive and negative energy particles with spin.
+- [01:34:55,720 - 01:34:58,220] And remember that spin had only been
+- [01:34:58,220 - 01:35:00,720] discovered as in a sort of empirical fact
+- [01:35:00,720 - 01:35:03,720] from that chart up there a couple of years before.
+- [01:35:03,720 - 01:35:07,220] I mean, just a few years before
+- [01:35:07,220 - 01:35:10,720] Dirac did this, a very short time before.
+- [01:35:10,720 - 01:35:14,720] And so, yeah, it was a very dramatic event.
+- [01:35:14,720 - 01:35:16,720] Are you saying that negative energy,
+- [01:35:16,720 - 01:35:18,720] electrons or positrons?
+- [01:35:18,720 - 01:35:20,720] No, I'm saying the absence of
+- [01:35:20,720 - 01:35:22,720] a negative energy electron or positron.
+- [01:35:22,720 - 01:35:24,720] We went through this before.
+- [01:35:24,720 - 01:35:27,220] You fill up all the negative energy
+- [01:35:27,220 - 01:35:29,720] particles and you call out the vacuum.
+- [01:35:29,720 - 01:35:30,720] Okay?
+- [01:35:30,720 - 01:35:32,720] You can't put more than one
+- [01:35:32,720 - 01:35:34,720] negative energy particle in a state.
+- [01:35:34,720 - 01:35:38,720] So, the vacuum takes all the negative energy,
+- [01:35:38,720 - 01:35:42,720] E less than zero, E greater than zero,
+- [01:35:42,720 - 01:35:44,720] and fills them up.
+- [01:35:44,720 - 01:35:48,720] You put an electron into every one of those states.
+- [01:35:48,720 - 01:35:52,220] That has the lowest energy because
+- [01:35:52,220 - 01:35:55,720] all the negative energies are filled.
+- [01:35:55,720 - 01:35:56,720] That's the vacuum.
+- [01:35:56,720 - 01:35:58,720] That's empty space.
+- [01:35:58,720 - 01:36:01,220] Now you remove an electron from
+- [01:36:01,220 - 01:36:03,720] here and put it over here,
+- [01:36:03,720 - 01:36:07,720] not necessarily at the same place up here.
+- [01:36:07,720 - 01:36:08,720] What is that?
+- [01:36:08,720 - 01:36:11,220] Well, now there's a positive energy electron
+- [01:36:11,220 - 01:36:13,720] and the absence of a negative energy electron.
+- [01:36:14,720 - 01:36:18,220] The absence of a negative energy
+- [01:36:18,220 - 01:36:21,720] electron is a positive energy positron.
+- [01:36:21,720 - 01:36:22,720] Okay?
+- [01:36:22,720 - 01:36:24,720] It's exactly the same as in
+- [01:36:24,720 - 01:36:26,720] the one-dimensional example that we did,
+- [01:36:26,720 - 01:36:29,720] where the absence of a negative energy electron,
+- [01:36:29,720 - 01:36:34,720] a hole in the Dirac C becomes
+- [01:36:34,720 - 01:36:39,720] a particle of opposite charge and, yeah.
+- [01:36:39,720 - 01:36:41,720] Why don't the higher energy
+- [01:36:41,720 - 01:36:43,720] negative electrons above that fall down?
+- [01:36:43,720 - 01:36:44,720] Into here?
+- [01:36:44,720 - 01:36:45,720] Into there.
+- [01:36:45,720 - 01:36:46,720] They won't fall down to here.
+- [01:36:46,720 - 01:36:47,720] Right.
+- [01:36:47,720 - 01:36:48,220] Why don't they fall and fill
+- [01:36:48,220 - 01:36:48,720] that little gap you just said?
+- [01:36:48,720 - 01:36:49,720] They do.
+- [01:36:49,720 - 01:36:51,720] And that's called positron-electron annihilation.
+- [01:36:51,720 - 01:36:52,720] And it creates photons.
+- [01:36:52,720 - 01:36:55,220] Well, the first thing it
+- [01:36:55,220 - 01:36:57,720] has to do is conserve energy.
+- [01:36:57,720 - 01:36:59,720] Now, how much energy does
+- [01:36:59,720 - 01:37:01,720] an electron and a positron have?
+- [01:37:01,720 - 01:37:04,720] Both the positron and the electron have positive energy.
+- [01:37:04,720 - 01:37:07,720] Why does a positron have positive energy?
+- [01:37:07,720 - 01:37:10,720] Because it's the absence of a negative energy.
+- [01:37:10,720 - 01:37:11,720] Okay?
+- [01:37:11,720 - 01:37:12,720] It's the absence of a negative energy,
+- [01:37:12,720 - 01:37:13,720] so it has negative energy.
+- [01:37:13,720 - 01:37:16,580] has positive energy. All it is is a
+- [01:37:16,580 - 01:37:19,440] positive charge and a negative charge. When the positive
+- [01:37:19,440 - 01:37:21,630] charge and the negative charge come together,
+- [01:37:21,630 - 01:37:23,820] you can either describe it as the annihilation
+- [01:37:23,820 - 01:37:26,420] of the positive charge with a negative charge,
+- [01:37:26,420 - 01:37:29,020] but energy has to be conserved, so photons
+- [01:37:29,020 - 01:37:33,400] have to go off. The other way to think about
+- [01:37:33,400 - 01:37:37,780] it is as an atom, you know, where an electron,
+- [01:37:37,780 - 01:37:40,780] an excited electron dropping down to a
+- [01:37:40,780 - 01:37:43,780] lower state. What happens then? Photons go off.
+- [01:37:43,780 - 01:37:44,780] Right. Yeah.
+- [01:37:44,780 - 01:37:47,780] Just a question on the mathematics. So
+- [01:37:47,780 - 01:37:50,780] we hear you very clearly, cleanly show how
+- [01:37:50,780 - 01:37:53,280] in a zero-elemental state with this particular
+- [01:37:53,280 - 01:37:55,780] representation of beta, you get the positive
+- [01:37:55,780 - 01:37:59,280] and negative interpretations of the psi. To
+- [01:37:59,280 - 01:38:02,780] get the spin representations in a zero-elemental
+- [01:38:02,780 - 01:38:06,780] state, would you take the different alpha, beta, and beta?
+- [01:38:06,780 - 01:38:07,780] Yeah.
+- [01:38:07,780 - 01:38:10,280] I have a hard time seeing how you
+- [01:38:10,280 - 01:38:12,780] get that cleanly because there's three alpha matrices.
+- [01:38:12,780 - 01:38:13,780] Say it again.
+- [01:38:13,780 - 01:38:14,780] There's three alpha matrices. There's more...
+- [01:38:14,780 - 01:38:15,280] Oh, and those three alpha
+- [01:38:15,280 - 01:38:15,780] matrices become the three spin matrices.
+- [01:38:15,780 - 01:38:16,280] But in a zero-momentum state, you don't see
+- [01:38:16,280 - 01:38:16,780] them. So to look at spin in a zero-momentum
+- [01:38:16,780 - 01:38:17,780] state, how does the mathematics show that simply?
+- [01:38:17,780 - 01:38:27,280] Well, the zero-momentum positive energy
+- [01:38:27,280 - 01:38:36,780] state, let's say. A zero-energy positive
+- [01:38:36,780 - 01:38:40,280] energy state, that would correspond to a spinner
+- [01:38:40,280 - 01:38:43,780] of the form, let's call it psi plus,
+- [01:38:43,780 - 01:38:47,280] with the same psi plus here. We want to
+- [01:38:47,280 - 01:38:50,780] set psi minus equal to zero because we don't want
+- [01:38:50,780 - 01:38:53,280] any negative energy part of the solution. So
+- [01:38:53,280 - 01:38:55,780] that means psi plus, psi plus. All right.
+- [01:38:55,780 - 01:38:58,280] Well, alpha, for example, alpha is not quite...
+- [01:38:58,280 - 01:39:00,780] Alpha is not really... Are you asking me how
+- [01:39:00,780 - 01:39:03,280] you make the spin operators
+- [01:39:03,280 - 01:39:05,780] from the direction of the spin?
+- [01:39:05,780 - 01:39:09,280] No, not really. I'm just asking how... If
+- [01:39:09,280 - 01:39:12,780] there's a way, simply as you've shown, negative
+- [01:39:12,780 - 01:39:16,280] energy states, you show how
+- [01:39:16,280 - 01:39:19,780] you discover spin from this point.
+- [01:39:19,780 - 01:39:23,780] Well, you've discovered that the positive energy
+- [01:39:23,780 - 01:39:27,780] particles come in a pair, one which
+- [01:39:27,780 - 01:39:29,780] you can call up and one which you couldn't
+- [01:39:29,780 - 01:39:31,780] call down. Now you want to see that that pair
+- [01:39:31,780 - 01:39:33,780] really has angular momentum.
+- [01:39:35,780 - 01:39:37,280] Yeah, that it really has the same. Now
+- [01:39:37,280 - 01:39:38,780] you can see that these Pauli matrices do come
+- [01:39:38,780 - 01:39:39,780] into it.
+- [01:39:39,780 - 01:39:40,780] Right.
+- [01:39:40,780 - 01:39:43,280] Okay. But to see that it really corresponds
+- [01:39:43,280 - 01:39:45,780] to angular momentum, you have two ways of
+- [01:39:45,780 - 01:39:49,780] going about it. One is through the
+- [01:39:49,780 - 01:39:53,780] connection between angular momentum and rotation symmetry,
+- [01:39:53,780 - 01:39:56,780] and the other is through the fact that
+- [01:39:56,780 - 01:39:59,780] angular momentum is conserved. Okay. So what you would
+- [01:39:59,780 - 01:40:02,280] want to show, let's use the conservation definition. What
+- [01:40:02,280 - 01:40:04,780] you would want to show is that in any
+- [01:40:04,780 - 01:40:09,280] kind of collision where an electron comes
+- [01:40:09,280 - 01:40:13,780] in and scatters off something else, that if
+- [01:40:13,780 - 01:40:18,780] you assign the electron an angular momentum
+- [01:40:18,780 - 01:40:23,780] whose description is in terms of this twofoldness
+- [01:40:23,780 - 01:40:25,780] within here, that that angular momentum together
+- [01:40:25,780 - 01:40:27,780] with all the other angular momentum in the
+- [01:40:27,780 - 01:40:30,280] problem would be conserved. All right. This is a
+- [01:40:30,280 - 01:40:32,780] little too much for us to do tonight anymore.
+- [01:40:33,780 - 01:40:35,990] So we've already worked on this. What we
+- [01:40:35,990 - 01:40:38,200] can do more easily is show the connection
+- [01:40:38,200 - 01:40:41,810] with rotation symmetry, but I don't want to
+- [01:40:41,810 - 01:40:45,420] do this. I'm, uh, I think we've all reached
+- [01:40:45,420 - 01:40:46,420] a certain limit by now.
+- [01:40:46,420 - 01:40:49,100] So there happens to be another electron around.
+- [01:40:49,100 - 01:40:51,780] It can annihilate with the positron even if
+- [01:40:51,780 - 01:40:53,500] it doesn't have the same energy.
+- [01:40:53,500 - 01:40:54,500] Yes. Yes.
+- [01:40:55,500 - 01:40:57,559] And then you just get a different number of photons.
+- [01:40:57,559 - 01:41:00,229] Or photons coming out with... I'll
+- [01:41:00,229 - 01:41:02,900] tell you what happens. Okay, supposing you
+- [01:41:02,900 - 01:41:07,080] Then you have two electrons with the same energy.
+- [01:41:07,080 - 01:41:08,990] Two electrons coming in in the
+- [01:41:08,990 - 01:41:10,900] center of mass frame, let's say.
+- [01:41:10,900 - 01:41:13,240] Well, I'm assuming that you had the
+- [01:41:13,240 - 01:41:15,580] particle pair, and then another half electron happens
+- [01:41:15,580 - 01:41:16,580] to be around.
+- [01:41:16,580 - 01:41:18,139] Oh, it doesn't matter which electrons annihilate.
+- [01:41:18,139 - 01:41:20,580] I mean, the electrons don't remember which one…
+- [01:41:20,580 - 01:41:22,299] Except that one may have a certain energy
+- [01:41:22,299 - 01:41:24,019] and the other may have a different energy.
+- [01:41:24,019 - 01:41:26,679] Yeah, but when you kick this electron out of
+- [01:41:26,679 - 01:41:29,339] here, you can kick it up to any energy.
+- [01:41:29,340 - 01:41:32,840] It doesn't necessarily have the same energy as the positron.
+- [01:41:32,840 - 01:41:36,010] Yeah, when you hit that electron, you don't
+- [01:41:36,010 - 01:41:39,180] necessarily kick it up to the same energy.
+- [01:41:39,180 - 01:41:40,180] You just hit it.
+- [01:41:40,180 - 01:41:41,870] You hit it and it
+- [01:41:41,870 - 01:41:43,560] goes somewhere to some other energy.
+- [01:41:43,560 - 01:41:45,460] And then there's no memory of which…
+- [01:41:45,460 - 01:41:50,780] Let's suppose there was another electron around.
+- [01:41:50,780 - 01:41:55,820] Their axi is filled, and now a positron…
+- [01:41:55,820 - 01:41:56,820] Not a positron…
+- [01:41:56,820 - 01:41:59,320] Yes, a positron is formed and another electron.
+- [01:41:59,320 - 01:42:03,570] Then this electron can fall into the hole,
+- [01:42:03,570 - 01:42:07,820] or this electron can fall into the hole.
+- [01:42:07,820 - 01:42:10,080] In either case, you'll get photons out.
+- [01:42:10,080 - 01:42:12,080] I'm feeling unclear.
+- [01:42:12,080 - 01:42:13,559] So if you have…
+- [01:42:13,559 - 01:42:16,559] Let's say that the positron was the
+- [01:42:16,559 - 01:42:19,559] eighth level or whatever, negative eight, right?
+- [01:42:19,559 - 01:42:23,860] Why wouldn't negative seven and negative six drop into that?
+- [01:42:23,860 - 01:42:25,820] And why would it have to be an electron?
+- [01:42:25,820 - 01:42:26,820] Oh, no, that can happen.
+- [01:42:26,820 - 01:42:27,820] That's what I'm saying.
+- [01:42:27,820 - 01:42:28,820] It's a process.
+- [01:42:28,820 - 01:42:31,440] It's a perfectly good thing to happen.
+- [01:42:31,440 - 01:42:32,440] But photons…
+- [01:42:32,440 - 01:42:33,440] All right, so let's see.
+- [01:42:33,440 - 01:42:34,440] We start…
+- [01:42:34,440 - 01:42:35,780] Let's see what that says.
+- [01:42:35,780 - 01:42:40,599] We start with negative seven over here, a hole.
+- [01:42:40,599 - 01:42:45,549] That means a positron, one positron,
+- [01:42:45,549 - 01:42:50,500] one E plus, a positive charged electron.
+- [01:42:50,500 - 01:42:52,900] Notation for a positron is E plus.
+- [01:42:52,900 - 01:42:55,320] Notation for an electron is E minus.
+- [01:42:55,320 - 01:42:58,259] All right, so we have one E plus.
+- [01:42:58,260 - 01:42:59,600] Let's see what it does.
+- [01:42:59,600 - 01:43:01,320] So let's see.
+- [01:43:01,320 - 01:43:02,520] So I start this process.
+- [01:43:02,520 - 01:43:07,660] I have antezium and that is this Isaac.
+- [01:43:07,660 - 01:43:10,680] I have two citriol in here.
+- [01:43:10,680 - 01:43:18,080] So I'll just plant a been death electron in there.
+- [01:43:18,080 - 01:43:19,480] I broke it.
+- [01:43:19,480 - 01:43:22,330] I've got two likely الا and that's
+- [01:43:22,330 - 01:43:25,180] only one electron because we've detected that
+- [01:43:25,180 - 01:43:26,180] blocked.
+- [01:43:26,180 - 01:43:27,180] Why is that?
+- [01:43:27,180 - 01:43:28,180] Because…
+- [01:43:28,180 - 01:43:32,680] Why can't one of these fall down to here?
+- [01:43:32,680 - 01:43:34,260] What would that mean?
+- [01:43:34,260 - 01:43:36,420] You would start with a positron
+- [01:43:36,420 - 01:43:38,040] and you would end with a positron
+- [01:43:38,040 - 01:43:40,640] but you would end with
+- [01:43:40,640 - 01:43:43,240] a positron of a different energy
+- [01:43:43,240 - 01:43:45,200] This hole was a positron
+- [01:43:45,200 - 01:43:46,890] Now an electron from here
+- [01:43:46,890 - 01:43:48,580] comes and falls into this hole
+- [01:43:48,580 - 01:43:52,040] There's a negative energy electron falls into this hole
+- [01:43:52,040 - 01:43:54,400] That's what you're asking
+- [01:43:54,400 - 01:43:56,360] So you started with a positron
+- [01:43:56,360 - 01:43:57,360] Here it was
+- [01:43:57,360 - 01:43:58,679] the hole
+- [01:43:58,679 - 01:44:00,820] and you ended with a positron
+- [01:44:00,820 - 01:44:04,080] It's just a positron of a different energy
+- [01:44:04,080 - 01:44:06,759] So a positron has changed its energy
+- [01:44:06,759 - 01:44:08,899] When a positron changes its energy, it
+- [01:44:08,899 - 01:44:11,040] can only do so by emitting photons
+- [01:44:11,040 - 01:44:15,639] Right
+- [01:44:15,639 - 01:44:17,960] How do you make an electron change its energy?
+- [01:44:17,960 - 01:44:18,960] By emitting photons
+- [01:44:18,960 - 01:44:23,639] Slamming it into something and having it emit
+- [01:44:23,639 - 01:44:27,200] So a positron from here, under the right conditions
+- [01:44:27,200 - 01:44:33,240] Sorry, an electron from here can fall down to here
+- [01:44:33,240 - 01:44:35,879] That's just another way of saying the positron
+- [01:44:35,879 - 01:44:38,519] scattered from one state to another and radiated
+- [01:44:38,519 - 01:44:39,519] some photons
+- [01:44:39,519 - 01:44:42,519] Okay, so wouldn't they just always, you
+- [01:44:42,519 - 01:44:45,519] know, because there's always higher energy electrons
+- [01:44:45,519 - 01:44:47,429] Wouldn't they all fall down and the only
+- [01:44:47,429 - 01:44:49,340] thing you'd be left with is a positron?
+- [01:44:49,340 - 01:44:50,929] The reason it doesn't happen, so
+- [01:44:50,929 - 01:44:52,519] you're saying why is the positron stable?
+- [01:44:52,519 - 01:44:53,519] Why doesn't that?
+- [01:44:53,519 - 01:44:55,219] No, the answer is because you
+- [01:44:55,219 - 01:44:56,920] have to conserve both energy and momentum
+- [01:44:56,920 - 01:45:00,920] And the conservation of energy and
+- [01:45:00,920 - 01:45:04,920] momentum doesn't allow it to happen
+- [01:45:04,920 - 01:45:08,080] Okay, so we can work that out, but again
+- [01:45:08,080 - 01:45:09,600] Alright, so why don't you ask me
+- [01:45:09,600 - 01:45:11,120] that at the beginning of next week
+- [01:45:11,120 - 01:45:14,340] And I'll show you why the...
+- [01:45:14,340 - 01:45:16,340] Look, you could have asked exactly
+- [01:45:16,340 - 01:45:18,340] the same thing about the original electron
+- [01:45:18,340 - 01:45:21,780] Why can't an electron always
+- [01:45:21,780 - 01:45:25,220] lower its energy and radiate photons?
+- [01:45:25,220 - 01:45:26,220] Why can't an energy...
+- [01:45:26,220 - 01:45:26,920] An electron just...
+- [01:45:26,920 - 01:45:29,160] An electron just drop down in
+- [01:45:29,160 - 01:45:31,400] energy till it's the lowest energy electron
+- [01:45:31,400 - 01:45:34,480] And the answer is because it can't
+- [01:45:34,480 - 01:45:37,560] simultaneously conserve energy and momentum and emit photons
+- [01:45:37,560 - 01:45:41,460] Just so it just doesn't happen
+- [01:45:41,460 - 01:45:44,670] So I will get in touch with
+- [01:45:44,670 - 01:45:47,880] you and give you the exact schedule
+- [01:45:47,880 - 01:45:51,200] We will definitely meet ten times this quarter
+- [01:45:51,200 - 01:45:56,000] Next quarter I have less obligations
+- [01:45:56,000 - 01:45:56,220] So I won't be...
+- [01:45:56,220 - 01:46:00,980] I won't be disappearing on you next quarter
+- [01:46:00,980 - 01:46:03,100] Thank you
+- [01:46:03,100 - 01:46:06,820] Thank you for your patience
+- [01:46:06,820 - 01:46:10,820] For more, please visit us at stanford.edu
