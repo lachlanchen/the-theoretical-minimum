@@ -1,0 +1,9688 @@
+1
+00:00:00,000 --> 00:00:06,480
+Stanford University.
+
+2
+00:00:06,480 --> 00:00:09,500
+Do we want to get
+
+3
+00:00:09,500 --> 00:00:12,520
+back into our favorite subject, supersymmetry?
+
+4
+00:00:12,520 --> 00:00:17,380
+Well, I started it and I'm going to
+
+5
+00:00:17,380 --> 00:00:22,240
+finish today by really showing you the mathematical
+
+6
+00:00:22,240 --> 00:00:26,000
+structure of supersymmetry in four space-time dimensions.
+
+7
+00:00:26,000 --> 00:00:29,760
+We did it a little bit with just
+
+8
+00:00:29,760 --> 00:00:33,600
+time, and then I'm going to show you
+
+9
+00:00:33,600 --> 00:00:37,440
+how quantum field theories are constructed, just give
+
+10
+00:00:37,440 --> 00:00:40,630
+you an example of the construction of a
+
+11
+00:00:40,630 --> 00:00:43,820
+supersymmetric quantum field theory, and show you what the
+
+12
+00:00:43,820 --> 00:00:47,340
+supersymmetry gives for the Feynman diagrams and
+
+13
+00:00:47,340 --> 00:00:50,860
+how the Feynman diagrams work a little
+
+14
+00:00:50,860 --> 00:00:54,070
+bit. This is for a simple model supersymmetric
+
+15
+00:00:54,070 --> 00:00:57,280
+field theory. It is not the most general supersymmetric
+
+16
+00:00:57,280 --> 00:00:58,640
+field theory. It's an example.
+
+17
+00:00:59,760 --> 00:01:05,980
+More general examples sort of follow a
+
+18
+00:01:05,980 --> 00:01:12,200
+very similar pattern. Okay. The simple example
+
+19
+00:01:12,200 --> 00:01:16,000
+that I showed you only had one direction
+
+20
+00:01:16,000 --> 00:01:19,800
+of space-time, and it was just time. I completely
+
+21
+00:01:19,800 --> 00:01:23,950
+ignored space, and for example, we
+
+22
+00:01:23,950 --> 00:01:28,100
+wrote down relationships between the super generators,
+
+23
+00:01:28,100 --> 00:01:28,880
+the Q's, and the Hamlet's.
+
+24
+00:01:28,880 --> 00:01:29,380
+Okay.
+
+25
+00:01:29,760 --> 00:01:32,550
+And the Hamiltonian, the energy. But
+
+26
+00:01:32,550 --> 00:01:35,340
+the energy belongs together with the momentum
+
+27
+00:01:35,340 --> 00:01:37,990
+in a single four vector. How can it
+
+28
+00:01:37,990 --> 00:01:40,640
+be that there is only a relationship which involves
+
+29
+00:01:40,640 --> 00:01:43,210
+the energy or the time component of the
+
+30
+00:01:43,210 --> 00:01:45,780
+momentum on the right-hand side? Mustn't there be some
+
+31
+00:01:45,780 --> 00:01:49,040
+generalization of that with more Lorentz invariance
+
+32
+00:01:49,040 --> 00:01:52,300
+where what's on the right-hand side of the
+
+33
+00:01:52,300 --> 00:01:55,430
+anticommutation relations involves not only energy
+
+34
+00:01:55,430 --> 00:01:58,560
+but also momentum? And the answer is
+
+35
+00:01:58,560 --> 00:01:59,560
+yes, it must be.
+
+36
+00:01:59,760 --> 00:02:00,760
+Okay.
+
+37
+00:02:00,760 --> 00:02:02,900
+The equations have to transform in
+
+38
+00:02:02,900 --> 00:02:05,040
+a sensible way on the Lorentz transformations.
+
+39
+00:02:05,040 --> 00:02:09,160
+All right. To get a bit of a feel
+
+40
+00:02:09,160 --> 00:02:13,280
+for it, although not in great detail, it's good to
+
+41
+00:02:13,280 --> 00:02:18,720
+go back to the Dirac equation. But
+
+42
+00:02:18,720 --> 00:02:24,160
+the Dirac equation in a particularly simple situation,
+
+43
+00:02:24,160 --> 00:02:26,460
+if the Dirac particle were massless, it
+
+44
+00:02:26,460 --> 00:02:28,760
+would have two components which would be unbalanced.
+
+45
+00:02:28,760 --> 00:02:29,760
+Okay.
+
+46
+00:02:29,760 --> 00:02:33,579
+And they would be uncoupled, namely the left
+
+47
+00:02:33,579 --> 00:02:37,399
+moving, the left, the left and the right spinning
+
+48
+00:02:37,399 --> 00:02:41,719
+fermion. Left and right spinning means relative
+
+49
+00:02:41,719 --> 00:02:46,040
+to the direction of motion. Okay. My right-hand
+
+50
+00:02:46,040 --> 00:02:48,540
+screw and left-hand screw. There would be
+
+51
+00:02:48,540 --> 00:02:51,040
+two of them, and the electron, of course,
+
+52
+00:02:51,040 --> 00:02:54,540
+does have two components like, two, a left-hand
+
+53
+00:02:54,540 --> 00:02:58,040
+and a right-hand partner. But if the particles
+
+54
+00:02:58,040 --> 00:02:58,760
+are massless, you could have two components.
+
+55
+00:02:58,760 --> 00:03:01,029
+If the particles are massless, you could
+
+56
+00:03:01,029 --> 00:03:03,299
+have a purely left-handed particle that did
+
+57
+00:03:03,299 --> 00:03:05,879
+not have to have a right-handed particle
+
+58
+00:03:05,879 --> 00:03:08,459
+associated with it. Do you know why that's
+
+59
+00:03:08,459 --> 00:03:12,019
+true? There's an interesting reason why massless
+
+60
+00:03:12,019 --> 00:03:15,579
+particles can have the property of only spinning
+
+61
+00:03:15,579 --> 00:03:18,719
+in one direction, but a massive particle has to
+
+62
+00:03:18,719 --> 00:03:21,859
+be able to have two spin states. And the
+
+63
+00:03:21,859 --> 00:03:25,309
+reason is kind of simple. Let's suppose we
+
+64
+00:03:25,309 --> 00:03:28,760
+had a massive particle, which could only spin
+
+65
+00:03:28,760 --> 00:03:32,260
+to the right. Now, to the right means
+
+66
+00:03:32,260 --> 00:03:35,760
+right-hand rule. So it has momentum, angular momentum
+
+67
+00:03:35,760 --> 00:03:38,760
+twisting around to the right. All right.
+
+68
+00:03:38,760 --> 00:03:41,760
+It's moving, it's moving along, but now I
+
+69
+00:03:41,760 --> 00:03:45,260
+decide to move faster than it. It's spinning
+
+70
+00:03:45,260 --> 00:03:48,760
+this way, but it's moving that way. The original
+
+71
+00:03:48,760 --> 00:03:52,760
+one was spinning right-hand and moving along my
+
+72
+00:03:52,760 --> 00:03:56,760
+thumb. If I'm going to be moving faster
+
+73
+00:03:56,760 --> 00:03:57,760
+than it, it's now still moving.
+
+74
+00:03:57,760 --> 00:03:58,760
+Okay.
+
+75
+00:03:58,760 --> 00:04:03,150
+It's still spinning the same way. It's
+
+76
+00:04:03,150 --> 00:04:07,540
+left-handed. It's left-handed. So a massive particle, because
+
+77
+00:04:07,540 --> 00:04:10,930
+it moves slower than the speed of light, you
+
+78
+00:04:10,930 --> 00:04:14,320
+can always outrun it and look at it, and a
+
+79
+00:04:14,320 --> 00:04:17,220
+left-hand particle will become a right-hand particle.
+
+80
+00:04:17,220 --> 00:04:20,120
+So you've got to have both. You
+
+81
+00:04:20,120 --> 00:04:23,940
+can't just have left-handed particles. But if
+
+82
+00:04:23,940 --> 00:04:27,760
+a particle is massless and truly moves
+
+83
+00:04:27,760 --> 00:04:30,950
+with the speed of light, then there's no
+
+84
+00:04:30,950 --> 00:04:34,140
+way to turn a right-handed twisting one into
+
+85
+00:04:34,140 --> 00:04:36,920
+a left-handed twisting one. You can try
+
+86
+00:04:36,920 --> 00:04:39,700
+a Lorentz star rotation, which rotates it all
+
+87
+00:04:39,700 --> 00:04:42,850
+the ways around, but that takes a right-handed one.
+
+88
+00:04:42,850 --> 00:04:46,000
+If I, just by virtue of rotating my arm
+
+89
+00:04:46,000 --> 00:04:48,920
+around, it doesn't change my right hand to
+
+90
+00:04:48,920 --> 00:04:51,840
+my left hand. Okay. So particles which move
+
+91
+00:04:51,840 --> 00:04:54,300
+with the speed of light can be monodexterous.
+
+92
+00:04:54,300 --> 00:04:56,760
+I don't know what the right word means. Yeah.
+
+93
+00:04:56,760 --> 00:04:57,260
+Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah.
+
+94
+00:04:57,260 --> 00:04:57,760
+Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah.
+
+95
+00:04:57,760 --> 00:04:59,410
+Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Actually,
+
+96
+00:04:59,410 --> 00:05:01,060
+I do know what the right word is.
+
+97
+00:05:01,060 --> 00:05:08,620
+The right word is chiral. Chiral means spins
+
+98
+00:05:08,620 --> 00:05:16,180
+only in one direction. The word chiral, C-H-I-R-A-L,
+
+99
+00:05:16,180 --> 00:05:20,350
+refers to having a handedness. And I think,
+
+100
+00:05:20,350 --> 00:05:24,520
+what's the Greek word for hand? Chiron? Well,
+
+101
+00:05:24,520 --> 00:05:25,710
+it comes from the Greek word for
+
+102
+00:05:25,710 --> 00:05:26,900
+hand, which is chiral, chirus, or hand.
+
+103
+00:05:26,900 --> 00:05:27,440
+Okay.
+
+104
+00:05:27,760 --> 00:05:29,760
+Chiron or...
+
+105
+00:05:30,980 --> 00:05:32,980
+Yeah
+
+106
+00:05:32,980 --> 00:05:36,980
+Closely related to helicity. It is helicity for a
+
+107
+00:05:36,980 --> 00:05:40,980
+massless particle. It's not quite helicity for a massive particle
+
+108
+00:05:40,980 --> 00:05:42,700
+Actually, I think it is
+
+109
+00:05:42,700 --> 00:05:44,420
+helicity for what you just described
+
+110
+00:05:45,380 --> 00:05:47,320
+It's chirality
+
+111
+00:05:47,320 --> 00:05:50,159
+Well, I think chirality is the thing
+
+112
+00:05:51,219 --> 00:05:53,099
+Depends on who you read, but it's
+
+113
+00:05:53,099 --> 00:05:54,980
+the thing that's associated with the gamma matrix
+
+114
+00:05:57,760 --> 00:05:59,460
+Yeah
+
+115
+00:05:59,460 --> 00:06:01,880
+Helicity and chirality are a little bit different
+
+116
+00:06:03,860 --> 00:06:05,860
+Chirality has to do with gamma 5
+
+117
+00:06:07,680 --> 00:06:09,940
+Helicity has to do with sigma dot P
+
+118
+00:06:10,580 --> 00:06:12,000
+I'm going to explain what sigma
+
+119
+00:06:12,000 --> 00:06:13,420
+dot P is in a minute
+
+120
+00:06:13,940 --> 00:06:16,040
+And it's only for massless particles that
+
+121
+00:06:16,040 --> 00:06:18,140
+gamma 5 is equal to sigma dot P
+
+122
+00:06:18,700 --> 00:06:20,700
+so they're not quite the same thing but
+
+123
+00:06:22,180 --> 00:06:23,690
+But in the case of
+
+124
+00:06:23,690 --> 00:06:25,200
+a massless particle they are. Okay
+
+125
+00:06:26,080 --> 00:06:27,760
+So a massless particle
+
+126
+00:06:27,760 --> 00:06:31,260
+Has half as many states
+
+127
+00:06:32,780 --> 00:06:36,560
+Spin states as a massive particle
+
+128
+00:06:37,940 --> 00:06:39,900
+the Dirac
+
+129
+00:06:39,900 --> 00:06:40,980
+particle
+
+130
+00:06:40,980 --> 00:06:44,030
+Describes the massive electron for example
+
+131
+00:06:44,030 --> 00:06:47,080
+and the Dirac field has four components
+
+132
+00:06:48,860 --> 00:06:51,670
+The massless particle the massless
+
+133
+00:06:51,670 --> 00:06:54,480
+chiral particle, let's say left-handed it's
+
+134
+00:06:55,740 --> 00:06:57,560
+standard to
+
+135
+00:06:57,560 --> 00:06:59,560
+Think about left-handed particles
+
+136
+00:07:01,880 --> 00:07:06,160
+Those particles or the fields the wave fields for those the
+
+137
+00:07:06,160 --> 00:07:10,440
+Dirac type fields have only two components and they're called psi 1
+
+138
+00:07:10,940 --> 00:07:12,940
+two components spinner
+
+139
+00:07:13,000 --> 00:07:14,420
+psi 1
+
+140
+00:07:14,420 --> 00:07:15,660
+psi 2
+
+141
+00:07:15,660 --> 00:07:18,120
+Which we can also write psi alpha
+
+142
+00:07:18,660 --> 00:07:22,550
+And they satisfy a Dirac type equation the Dirac. I'll write down
+
+143
+00:07:22,550 --> 00:07:26,440
+the Dirac type equation. It can also be called a Pauli equation
+
+144
+00:07:27,560 --> 00:07:29,560
+It has no mass in it and
+
+145
+00:07:31,320 --> 00:07:33,320
+It looks like I
+
+146
+00:07:34,520 --> 00:07:36,360
+Decide the T. Oh, well,
+
+147
+00:07:36,360 --> 00:07:38,200
+let's let's start up here first
+
+148
+00:07:38,800 --> 00:07:41,710
+There's a Hamiltonian for the particle and the
+
+149
+00:07:41,710 --> 00:07:44,620
+Hamiltonian is Sigma dot P. What does that mean?
+
+150
+00:07:45,800 --> 00:07:48,720
+It means that if it's spinning
+
+151
+00:07:48,720 --> 00:07:51,640
+in the same direction as its momentum
+
+152
+00:07:52,520 --> 00:07:54,520
+Then its energy is positive
+
+153
+00:07:55,340 --> 00:07:57,340
+if it's spinning in the opposite direction
+
+154
+00:07:57,560 --> 00:08:00,720
+Of its momentum its energy is negative, but
+
+155
+00:08:00,720 --> 00:08:03,880
+there are no negative part of negative energy particles
+
+156
+00:08:05,720 --> 00:08:09,040
+There are no negative energy particles we can replace them by holes
+
+157
+00:08:09,040 --> 00:08:12,360
+and fill up the sea of negative energy particles all that stuff so
+
+158
+00:08:16,400 --> 00:08:20,820
+Left-handed particles have Sigma dot P being positive
+
+159
+00:08:21,680 --> 00:08:23,680
+Okay now
+
+160
+00:08:24,240 --> 00:08:26,680
+You can convert this into a wave equation
+
+161
+00:08:27,560 --> 00:08:30,540
+H is of course ID by DT
+
+162
+00:08:33,980 --> 00:08:37,059
+P is minus ID by DX
+
+163
+00:08:38,960 --> 00:08:40,890
+There are three X's but I'll
+
+164
+00:08:40,890 --> 00:08:42,820
+simplify it minus ID by DX
+
+165
+00:08:45,780 --> 00:08:47,780
+Equals put an equal sign here and
+
+166
+00:08:49,700 --> 00:08:51,770
+There are three components to X here,
+
+167
+00:08:51,770 --> 00:08:53,840
+so this is X Y and Z and
+
+168
+00:08:54,880 --> 00:08:57,200
+Sigma are a set of three matrices
+
+169
+00:08:57,959 --> 00:08:59,619
+The three Pauli matrices so we
+
+170
+00:08:59,619 --> 00:09:01,280
+can put them in here minus I
+
+171
+00:09:02,239 --> 00:09:03,880
+Sigma and
+
+172
+00:09:03,880 --> 00:09:06,710
+this really means Sigma X D by DX plus
+
+173
+00:09:06,710 --> 00:09:09,540
+Sigma Y D by D Y plus Sigma Z
+
+174
+00:09:09,540 --> 00:09:11,939
+by DZ, we can even write it
+
+175
+00:09:11,939 --> 00:09:14,339
+as just Sigma dot D by DX and
+
+176
+00:09:15,060 --> 00:09:16,459
+all of this
+
+177
+00:09:16,459 --> 00:09:19,939
+acts on
+
+178
+00:09:20,500 --> 00:09:21,839
+SI a
+
+179
+00:09:21,839 --> 00:09:25,560
+and that's the analog or the simple version of the
+
+180
+00:09:25,560 --> 00:09:26,920
+Dirac equation
+
+181
+00:09:26,920 --> 00:09:30,340
+We can shift this to the other
+
+182
+00:09:30,340 --> 00:09:33,760
+side and write that I d psi dt.
+
+183
+00:09:34,979 --> 00:09:38,169
+And now let's call T x0,
+
+184
+00:09:38,169 --> 00:09:41,360
+the time component of a four vector,
+
+185
+00:09:42,160 --> 00:09:48,049
+d psi by dx0 plus
+
+186
+00:09:48,049 --> 00:09:53,939
+sigma dot d psi by dx.
+
+187
+00:09:53,940 --> 00:09:57,320
+x now means x1, x2, x3.
+
+188
+00:09:58,160 --> 00:09:59,660
+Sigma has three components.
+
+189
+00:10:00,400 --> 00:10:02,420
+This x over here has three components.
+
+190
+00:10:03,220 --> 00:10:04,780
+That is equal to zero.
+
+191
+00:10:07,020 --> 00:10:09,360
+And now we can even
+
+192
+00:10:09,360 --> 00:10:11,700
+make it a little bit simpler
+
+193
+00:10:11,700 --> 00:10:16,580
+by defining a fourth Pauli matrix.
+
+194
+00:10:16,940 --> 00:10:19,760
+The ordinary three Pauli matrices,
+
+195
+00:10:20,500 --> 00:10:23,840
+they are 1 minus 1.
+
+196
+00:10:32,000 --> 00:10:34,080
+This one's the z component.
+
+197
+00:10:34,240 --> 00:10:35,460
+This one's the x component.
+
+198
+00:10:35,640 --> 00:10:39,180
+And the last one is 0 minus ii.
+
+199
+00:10:39,600 --> 00:10:43,040
+That's the y component of Pauli matrix.
+
+200
+00:10:43,800 --> 00:10:45,320
+Let's add one more.
+
+201
+00:10:45,320 --> 00:10:48,240
+The time component of the Pauli matrix.
+
+202
+00:10:49,080 --> 00:10:51,840
+The time component is really simple.
+
+203
+00:10:52,380 --> 00:10:53,560
+It's just 1, 1.
+
+204
+00:10:53,940 --> 00:10:55,060
+The unit matrix.
+
+205
+00:10:56,320 --> 00:10:57,460
+There are four of them.
+
+206
+00:10:58,080 --> 00:11:01,520
+These are enough matrices to write any matrix
+
+207
+00:11:01,520 --> 00:11:03,300
+as a linear expansion in them.
+
+208
+00:11:04,020 --> 00:11:05,920
+Now there's a 1 multiplying this.
+
+209
+00:11:06,340 --> 00:11:09,000
+This is just 1 multiplying beside the x.
+
+210
+00:11:09,520 --> 00:11:12,140
+So I could put here the fourth.
+
+211
+00:11:12,920 --> 00:11:16,340
+This is x0, the time component.
+
+212
+00:11:16,340 --> 00:11:20,940
+I could put here sigma 0.
+
+213
+00:11:22,220 --> 00:11:23,340
+And this whole thing becomes...
+
+214
+00:11:23,940 --> 00:11:27,340
+just i.
+
+215
+00:11:28,340 --> 00:11:31,030
+Sigma mu, where there are
+
+216
+00:11:31,030 --> 00:11:33,720
+now four vectors worth of sigmas,
+
+217
+00:11:33,720 --> 00:11:38,120
+times d psi by dx mu.
+
+218
+00:11:39,700 --> 00:11:41,060
+Equals 0.
+
+219
+00:11:42,060 --> 00:11:47,620
+That's the chiral Dirac equation.
+
+220
+00:11:50,380 --> 00:11:52,320
+And it's perfectly Lorentz invariant.
+
+221
+00:11:52,320 --> 00:11:53,380
+It takes a little bit of working.
+
+222
+00:11:53,380 --> 00:11:55,080
+It takes a little bit of work
+
+223
+00:11:55,080 --> 00:11:56,780
+to truly prove that it's Lorentz invariant.
+
+224
+00:11:56,780 --> 00:11:59,780
+But it really is Lorentz invariant.
+
+225
+00:11:59,780 --> 00:12:02,780
+And these psi's transform.
+
+226
+00:12:02,780 --> 00:12:05,780
+The psi's here transform in
+
+227
+00:12:05,780 --> 00:12:08,780
+a particular way under Lorentz transformations.
+
+228
+00:12:08,780 --> 00:12:10,780
+We don't need to write it down.
+
+229
+00:12:10,780 --> 00:12:13,280
+All we need to do is to
+
+230
+00:12:13,280 --> 00:12:15,780
+know that two component spinners like this
+
+231
+00:12:15,780 --> 00:12:18,780
+have a distinct and simple
+
+232
+00:12:18,780 --> 00:12:21,780
+transformation property under Lorentz transformation.
+
+233
+00:12:21,780 --> 00:12:22,780
+All right.
+
+234
+00:12:22,780 --> 00:12:24,780
+So this is the Lorentz transformation.
+
+235
+00:12:24,780 --> 00:12:26,780
+And it suggests, and it gives the right suggestion,
+
+236
+00:12:26,780 --> 00:12:30,780
+that the Grassman parameters,
+
+237
+00:12:30,780 --> 00:12:32,780
+the Grassman parameters,
+
+238
+00:12:32,780 --> 00:12:34,780
+which are also...
+
+239
+00:12:34,780 --> 00:12:36,780
+The psi's, first of all, are anti-commuting objects.
+
+240
+00:12:36,780 --> 00:12:38,780
+Did I leave something out here?
+
+241
+00:12:38,780 --> 00:12:40,780
+Psi d by d, I don't know what this was.
+
+242
+00:12:52,780 --> 00:12:55,780
+Psi is a quantum version of
+
+243
+00:12:55,780 --> 00:12:58,780
+a Grassman number, an anti-commuting field.
+
+244
+00:12:58,780 --> 00:13:02,780
+It suggests that the Grassman algebra
+
+245
+00:13:02,780 --> 00:13:06,780
+consists not just of a theta,
+
+246
+00:13:06,780 --> 00:13:10,780
+but a theta alpha.
+
+247
+00:13:10,780 --> 00:13:14,780
+Just like psi.
+
+248
+00:13:14,780 --> 00:13:18,780
+Also, the complex conjugate.
+
+249
+00:13:18,780 --> 00:13:19,780
+Theta bar alpha,
+
+250
+00:13:20,480 --> 00:13:23,860
+which is theta bar one, theta bar two.
+
+251
+00:13:25,240 --> 00:13:28,000
+How many independent components
+
+252
+00:13:28,000 --> 00:13:30,760
+are there altogether of these?
+
+253
+00:13:31,080 --> 00:13:31,760
+There are four.
+
+254
+00:13:32,840 --> 00:13:36,440
+We can either think of
+
+255
+00:13:36,440 --> 00:13:40,040
+two real and two imaginary components,
+
+256
+00:13:40,480 --> 00:13:42,230
+or we can just think of the
+
+257
+00:13:42,230 --> 00:13:43,980
+thetas and the theta bars as separate objects.
+
+258
+00:13:43,980 --> 00:13:45,610
+That's okay. It's legal to just
+
+259
+00:13:45,610 --> 00:13:47,240
+think of them as separate objects.
+
+260
+00:13:47,240 --> 00:13:51,400
+But if you want to be a little more precise,
+
+261
+00:13:51,840 --> 00:13:54,040
+you can think of the four
+
+262
+00:13:54,040 --> 00:13:56,240
+real components of theta as being...
+
+263
+00:13:58,300 --> 00:13:59,120
+Right.
+
+264
+00:13:59,800 --> 00:14:02,680
+So, there are four components of theta.
+
+265
+00:14:03,580 --> 00:14:06,560
+Now, supposing we have a general function of theta,
+
+266
+00:14:06,900 --> 00:14:08,380
+for example, a superfield.
+
+267
+00:14:08,920 --> 00:14:13,280
+A superfield which depends on the coordinates of space
+
+268
+00:14:13,280 --> 00:14:15,880
+as well as these new anticommuting coordinates.
+
+269
+00:14:15,880 --> 00:14:16,880
+We can...
+
+270
+00:14:17,240 --> 00:14:21,420
+We can again expand it in powers of the thetas.
+
+271
+00:14:22,080 --> 00:14:23,480
+It will start out...
+
+272
+00:14:23,480 --> 00:14:25,670
+For example, if it were just
+
+273
+00:14:25,670 --> 00:14:27,860
+a bosonic object, an ordinary number,
+
+274
+00:14:28,720 --> 00:14:30,690
+it would start out with some ordinary
+
+275
+00:14:30,690 --> 00:14:32,660
+thing which was independent of the thetas,
+
+276
+00:14:32,920 --> 00:14:34,520
+might depend on the x's,
+
+277
+00:14:35,520 --> 00:14:38,280
+and then there would be something proportional to theta.
+
+278
+00:14:38,800 --> 00:14:41,100
+For example, we might call it psi bar theta.
+
+279
+00:14:41,740 --> 00:14:44,560
+There might be something with a theta bar in it,
+
+280
+00:14:44,560 --> 00:14:46,760
+plus theta bar psi,
+
+281
+00:14:47,240 --> 00:14:48,880
+plus theta bar psi.
+
+282
+00:14:48,880 --> 00:14:50,880
+How far would it keep going?
+
+283
+00:14:52,880 --> 00:14:56,600
+Previously, we ended it at the next term.
+
+284
+00:14:56,600 --> 00:14:58,600
+Why? Because there were only two thetas.
+
+285
+00:14:58,600 --> 00:15:00,600
+But now there's going to be more,
+
+286
+00:15:00,600 --> 00:15:02,600
+and it's going to go all
+
+287
+00:15:02,600 --> 00:15:04,600
+the ways to the fourth power.
+
+288
+00:15:04,600 --> 00:15:06,600
+Why? Because there are four thetas.
+
+289
+00:15:06,600 --> 00:15:08,600
+Right?
+
+290
+00:15:08,600 --> 00:15:10,600
+After the four thetas, they'll start repeating,
+
+291
+00:15:10,600 --> 00:15:12,600
+and that'll be the end of it.
+
+292
+00:15:12,600 --> 00:15:14,600
+So, we can go to what I'll call...
+
+293
+00:15:14,600 --> 00:15:16,600
+Either I can call it something else,
+
+294
+00:15:16,600 --> 00:15:18,600
+I can call it sometimes psi bar squared,
+
+295
+00:15:18,600 --> 00:15:20,600
+psi squared,
+
+296
+00:15:20,600 --> 00:15:23,600
+sorry, theta bar squared, theta squared,
+
+297
+00:15:23,600 --> 00:15:25,600
+times some coefficient here,
+
+298
+00:15:25,600 --> 00:15:28,600
+often called the d term,
+
+299
+00:15:30,600 --> 00:15:32,600
+or I can just call it theta
+
+300
+00:15:32,600 --> 00:15:34,600
+to the fourth and make it simpler.
+
+301
+00:15:34,600 --> 00:15:36,600
+But theta to the fourth doesn't
+
+302
+00:15:36,600 --> 00:15:38,600
+mean the fourth power of anything.
+
+303
+00:15:38,600 --> 00:15:42,600
+It means the product of the four distinct thetas.
+
+304
+00:15:42,600 --> 00:15:44,600
+Okay?
+
+305
+00:15:44,600 --> 00:15:46,600
+So I'm going to use simplified notation,
+
+306
+00:15:46,600 --> 00:15:48,600
+and in many cases tonight,
+
+307
+00:15:48,600 --> 00:15:50,600
+I'm going to use simplified notation
+
+308
+00:15:50,600 --> 00:15:54,600
+because the indexology gets awful.
+
+309
+00:15:54,600 --> 00:15:56,600
+So I don't want to do it tonight.
+
+310
+00:15:56,600 --> 00:15:58,600
+I want to simplify it.
+
+311
+00:15:58,600 --> 00:16:00,600
+Okay, so now we can ask,
+
+312
+00:16:00,600 --> 00:16:02,600
+what is the superalgebra?
+
+313
+00:16:02,600 --> 00:16:09,600
+What is the analog of the anticommutation relations
+
+314
+00:16:09,600 --> 00:16:11,600
+and the commutation relations
+
+315
+00:16:11,600 --> 00:16:16,600
+of the q's with other, with themselves,
+
+316
+00:16:16,600 --> 00:16:18,600
+and with other things?
+
+317
+00:16:18,600 --> 00:16:20,600
+I will write them down for you now.
+
+318
+00:16:20,600 --> 00:16:22,600
+You've seen things like it before,
+
+319
+00:16:22,600 --> 00:16:24,600
+but now there's the new added kick
+
+320
+00:16:24,600 --> 00:16:27,600
+that things have indices alpha.
+
+321
+00:16:29,600 --> 00:16:32,600
+All right, so there's going to be a q alpha.
+
+322
+00:16:34,600 --> 00:16:36,600
+q is also a spinner.
+
+323
+00:16:36,600 --> 00:16:41,600
+It belongs to the same family of objects as theta.
+
+324
+00:16:41,600 --> 00:16:45,600
+And it begins with d by d theta,
+
+325
+00:16:46,600 --> 00:16:48,600
+which is the commutation relation.
+
+326
+00:16:48,600 --> 00:16:50,600
+So I'm going to write it down for you now.
+
+327
+00:16:50,600 --> 00:16:52,600
+Oh, I don't want to do that.
+
+328
+00:16:52,600 --> 00:16:54,600
+I'll do that later.
+
+329
+00:16:54,600 --> 00:16:56,600
+I'll do that later.
+
+330
+00:16:56,600 --> 00:16:58,600
+Let's cut that for a minute.
+
+331
+00:16:58,600 --> 00:17:00,100
+q is an object which belongs in
+
+332
+00:17:00,100 --> 00:17:01,600
+the same class of things as theta.
+
+333
+00:17:01,600 --> 00:17:03,600
+Let's just think of it that way.
+
+334
+00:17:03,600 --> 00:17:05,099
+And let me write down
+
+335
+00:17:05,099 --> 00:17:06,599
+now what the commutation relations are.
+
+336
+00:17:06,599 --> 00:17:09,599
+I want to write the anticommutation relations.
+
+337
+00:17:09,599 --> 00:17:13,599
+Anticommutator of q dagger alpha with q beta.
+
+338
+00:17:13,599 --> 00:17:15,599
+Beta and alpha don't have to be the same.
+
+339
+00:17:15,599 --> 00:17:18,599
+Let's try to figure out what that is,
+
+340
+00:17:18,599 --> 00:17:20,599
+what that could be, what it possibly could be.
+
+341
+00:17:20,599 --> 00:17:22,599
+Remember in the previous case,
+
+342
+00:17:22,599 --> 00:17:24,599
+what did I have on the right-hand side?
+
+343
+00:17:24,599 --> 00:17:26,599
+Remember?
+
+344
+00:17:26,599 --> 00:17:29,600
+Twice the Hamiltonian, right?
+
+345
+00:17:29,600 --> 00:17:30,600
+All right.
+
+346
+00:17:30,600 --> 00:17:33,600
+So whatever goes on the right-hand side
+
+347
+00:17:33,600 --> 00:17:35,600
+is something like a Hamiltonian.
+
+348
+00:17:35,600 --> 00:17:37,600
+Hamiltonian means energy.
+
+349
+00:17:37,600 --> 00:17:41,600
+And energy is a component of a four vector.
+
+350
+00:17:43,600 --> 00:17:45,600
+There is a two there that's a four vector.
+
+351
+00:17:45,600 --> 00:17:47,600
+The two is a purely conventional,
+
+352
+00:17:47,600 --> 00:17:49,600
+there's no significance to it.
+
+353
+00:17:49,600 --> 00:17:52,600
+You could normalize it differently.
+
+354
+00:17:52,600 --> 00:17:55,600
+On the right-hand side, we should expect
+
+355
+00:17:55,600 --> 00:17:59,600
+that there is a p mu.
+
+356
+00:17:59,600 --> 00:18:02,600
+In the previous case, p mu just meant
+
+357
+00:18:02,600 --> 00:18:05,600
+p naught, the energy.
+
+358
+00:18:05,600 --> 00:18:08,600
+But you can't have a Lorentz invariant theory
+
+359
+00:18:08,600 --> 00:18:11,600
+where you have some structure here
+
+360
+00:18:11,600 --> 00:18:13,600
+with just a time component.
+
+361
+00:18:13,600 --> 00:18:15,600
+If you do a Lorentz transformation,
+
+362
+00:18:15,600 --> 00:18:18,600
+that time component will turn into space components.
+
+363
+00:18:18,600 --> 00:18:20,600
+So you better account from the beginning
+
+364
+00:18:20,600 --> 00:18:22,600
+for a p mu here.
+
+365
+00:18:22,600 --> 00:18:23,600
+But that doesn't look good.
+
+366
+00:18:23,600 --> 00:18:25,600
+There's no mu on this side.
+
+367
+00:18:25,600 --> 00:18:27,600
+There's an alpha and a beta on this side.
+
+368
+00:18:27,600 --> 00:18:29,100
+There's a mu on this
+
+369
+00:18:29,100 --> 00:18:30,600
+side and no alpha and beta.
+
+370
+00:18:30,600 --> 00:18:33,600
+So it means we haven't written a sensible expression.
+
+371
+00:18:33,600 --> 00:18:35,600
+We need something else in here.
+
+372
+00:18:35,600 --> 00:18:39,600
+We need something to soak up this index alpha
+
+373
+00:18:39,600 --> 00:18:42,600
+and give us an index alpha and beta.
+
+374
+00:18:43,600 --> 00:18:47,600
+What could that be?
+
+375
+00:18:47,600 --> 00:18:52,600
+Sigma mu alpha beta.
+
+376
+00:18:52,600 --> 00:18:57,600
+Sigmas are matrices, but they also have an index mu.
+
+377
+00:18:57,600 --> 00:19:01,600
+So we can make a nice formula out of this.
+
+378
+00:19:01,600 --> 00:19:05,600
+Sigma mu alpha beta.
+
+379
+00:19:05,600 --> 00:19:08,600
+Now both sides match in all their indices.
+
+380
+00:19:08,600 --> 00:19:11,600
+Mu, of course, this means sum over mu.
+
+381
+00:19:11,600 --> 00:19:13,600
+Einstein convention.
+
+382
+00:19:13,600 --> 00:19:19,600
+So we now have a potential possible Lorentz invariant
+
+383
+00:19:19,600 --> 00:19:24,600
+anti-commutation relation for two supercharges,
+
+384
+00:19:24,600 --> 00:19:26,600
+q dagger and q.
+
+385
+00:19:26,600 --> 00:19:30,600
+We can also write this as, let's see,
+
+386
+00:19:30,600 --> 00:19:37,600
+2i sigma mu alpha beta d by dx mu.
+
+387
+00:19:37,600 --> 00:19:41,600
+I'm using the connection between components of momentum
+
+388
+00:19:41,600 --> 00:19:42,600
+and...
+
+389
+00:19:43,600 --> 00:19:46,600
+derivatives, derivative operators.
+
+390
+00:19:46,600 --> 00:19:48,600
+Both of these are correct.
+
+391
+00:19:48,600 --> 00:19:55,600
+Next, the anti-commutators of q dagger with q dagger.
+
+392
+00:19:55,600 --> 00:19:58,600
+Any two components.
+
+393
+00:19:58,600 --> 00:20:00,600
+In the previous case, it was 0.
+
+394
+00:20:00,600 --> 00:20:04,600
+It remains 0.
+
+395
+00:20:04,600 --> 00:20:10,600
+Same as q q.
+
+396
+00:20:10,600 --> 00:20:11,600
+And the other thing that we have,
+
+397
+00:20:11,600 --> 00:20:12,600
+I'm going to write 0 in a minute,
+
+398
+00:20:12,600 --> 00:20:14,600
+0 equals...
+
+399
+00:20:14,600 --> 00:20:20,600
+For any alpha and beta.
+
+400
+00:20:20,600 --> 00:20:24,100
+We had that the super
+
+401
+00:20:24,100 --> 00:20:27,600
+generators commuted with the Hamiltonian.
+
+402
+00:20:27,600 --> 00:20:29,600
+That made them time independent.
+
+403
+00:20:29,600 --> 00:20:31,600
+That made them conserved quantities.
+
+404
+00:20:31,600 --> 00:20:35,600
+Here the generalization is they commute
+
+405
+00:20:35,600 --> 00:20:38,600
+with all four components of the momentum.
+
+406
+00:20:38,600 --> 00:20:40,100
+I'll just write p and
+
+407
+00:20:40,100 --> 00:20:41,600
+I won't bother writing which component.
+
+408
+00:20:41,600 --> 00:20:44,600
+Any q with any p.
+
+409
+00:20:44,600 --> 00:20:49,600
+And it's also any q dagger with any p.
+
+410
+00:20:49,600 --> 00:20:50,600
+All of those...
+
+411
+00:20:50,600 --> 00:20:53,600
+Oh, sorry.
+
+412
+00:20:53,600 --> 00:20:56,600
+When you have a Grassman variable
+
+413
+00:20:56,600 --> 00:20:58,600
+and an ordinary thing,
+
+414
+00:20:58,600 --> 00:21:00,600
+you use commutator.
+
+415
+00:21:00,600 --> 00:21:06,600
+Commutator.
+
+416
+00:21:06,600 --> 00:21:09,600
+Commutator.
+
+417
+00:21:09,600 --> 00:21:12,600
+And what about the commutation relations
+
+418
+00:21:12,600 --> 00:21:17,600
+between different components of momentum?
+
+419
+00:21:17,600 --> 00:21:19,600
+They commute.
+
+420
+00:21:19,600 --> 00:21:20,600
+Why do they commute?
+
+421
+00:21:20,600 --> 00:21:23,600
+Because they're represented by derivative operators.
+
+422
+00:21:23,600 --> 00:21:24,600
+Derivative with respect to x,
+
+423
+00:21:24,600 --> 00:21:26,600
+derivative with respect to y.
+
+424
+00:21:26,600 --> 00:21:29,600
+Their order of differentiation doesn't matter.
+
+425
+00:21:29,600 --> 00:21:31,600
+So all components of momentum commute
+
+426
+00:21:31,600 --> 00:21:34,600
+with all components of momentum,
+
+427
+00:21:34,600 --> 00:21:38,600
+including the time components.
+
+428
+00:21:38,600 --> 00:21:41,600
+This is the thing which generalizes
+
+429
+00:21:41,600 --> 00:21:43,600
+to a Lorentz invariant theory
+
+430
+00:21:43,600 --> 00:21:48,600
+the thing that we called the superalgebra last time.
+
+431
+00:21:48,600 --> 00:21:50,600
+Okay.
+
+432
+00:21:50,600 --> 00:21:58,600
+Any questions?
+
+433
+00:21:58,600 --> 00:22:01,600
+Is that the alpha, beta on that sigma,
+
+434
+00:22:01,600 --> 00:22:03,600
+is that the matrix index?
+
+435
+00:22:03,600 --> 00:22:04,600
+Yeah.
+
+436
+00:22:04,600 --> 00:22:05,600
+Okay.
+
+437
+00:22:05,600 --> 00:22:07,600
+Alpha and beta are the matrix index,
+
+438
+00:22:07,600 --> 00:22:11,600
+and mu is the space-time index.
+
+439
+00:22:11,600 --> 00:22:13,600
+And you see we needed it in the formula
+
+440
+00:22:13,600 --> 00:22:16,600
+because we had to soak up the index mu somehow,
+
+441
+00:22:16,600 --> 00:22:19,100
+and we had to put back
+
+442
+00:22:19,100 --> 00:22:21,600
+in an index alpha and beta.
+
+443
+00:22:21,600 --> 00:22:25,600
+Now there's a concept again of superfields.
+
+444
+00:22:25,600 --> 00:22:27,100
+I'm not going to write
+
+445
+00:22:27,100 --> 00:22:28,600
+out the components of the superfield,
+
+446
+00:22:28,600 --> 00:22:32,600
+but the superfield is a function of coordinates,
+
+447
+00:22:32,600 --> 00:22:35,600
+thetas, and theta bars.
+
+448
+00:22:37,600 --> 00:22:41,100
+And it's the role of
+
+449
+00:22:41,100 --> 00:22:44,600
+the q's and also the p's
+
+450
+00:22:44,600 --> 00:22:48,600
+to differentiate phi to shift it,
+
+451
+00:22:48,600 --> 00:22:52,600
+to make little shifts of phi with respect to x
+
+452
+00:22:52,600 --> 00:22:54,600
+and with respect to theta.
+
+453
+00:22:54,600 --> 00:22:59,600
+For example, the action of p on phi
+
+454
+00:22:59,600 --> 00:23:02,600
+is to multiply it by i times the derivative
+
+455
+00:23:02,600 --> 00:23:05,600
+with respect to x.
+
+456
+00:23:05,600 --> 00:23:07,600
+The action of q,
+
+457
+00:23:07,600 --> 00:23:17,600
+in the same way that p is,
+
+458
+00:23:17,600 --> 00:23:22,600
+depends on which upper or lower components,
+
+459
+00:23:22,600 --> 00:23:25,600
+but let's just write it as i d by dx,
+
+460
+00:23:25,600 --> 00:23:27,100
+in the same sense that
+
+461
+00:23:27,100 --> 00:23:28,600
+p is i d by dx,
+
+462
+00:23:28,600 --> 00:23:35,600
+q, q alpha, is almost just d,
+
+463
+00:23:35,600 --> 00:23:36,600
+well, it's not almost,
+
+464
+00:23:36,600 --> 00:23:39,600
+d by d theta alpha.
+
+465
+00:23:39,600 --> 00:23:42,600
+So q is like a component of momentum
+
+466
+00:23:42,600 --> 00:23:44,600
+in the theta direction.
+
+467
+00:23:44,600 --> 00:23:47,100
+Now the theta direction
+
+468
+00:23:47,100 --> 00:23:49,600
+is this infinitesimally small direction.
+
+469
+00:23:49,600 --> 00:23:51,600
+What it means to have a momentum in that direction
+
+470
+00:23:51,600 --> 00:23:53,600
+is not something you can conceive of,
+
+471
+00:23:53,600 --> 00:23:55,600
+but we're not quite finished.
+
+472
+00:23:55,600 --> 00:23:57,600
+It's the same deal as last time,
+
+473
+00:23:57,600 --> 00:24:00,600
+add plus i,
+
+474
+00:24:00,600 --> 00:24:02,600
+remember what we had last time,
+
+475
+00:24:02,600 --> 00:24:04,600
+theta bar d by dt is what we had,
+
+476
+00:24:04,600 --> 00:24:06,600
+or theta bar d by dt,
+
+477
+00:24:06,600 --> 00:24:09,600
+now it becomes theta bar beta,
+
+478
+00:24:09,600 --> 00:24:12,600
+I'm going to put all the indices in,
+
+479
+00:24:12,600 --> 00:24:15,600
+but after that I'm going to simplify,
+
+480
+00:24:15,600 --> 00:24:20,600
+d by dx mu,
+
+481
+00:24:20,600 --> 00:24:28,600
+theta bar,
+
+482
+00:24:28,600 --> 00:24:31,600
+theta bar d by dx mu,
+
+483
+00:24:31,600 --> 00:24:32,600
+this is the analog of
+
+484
+00:24:32,600 --> 00:24:33,600
+theta bar times d by dx,
+
+485
+00:24:33,600 --> 00:24:36,600
+but this doesn't look so good.
+
+486
+00:24:36,600 --> 00:24:38,600
+There's an alpha on this side,
+
+487
+00:24:38,600 --> 00:24:40,600
+there's a beta on this side,
+
+488
+00:24:40,600 --> 00:24:41,600
+that doesn't look good,
+
+489
+00:24:41,600 --> 00:24:42,600
+then there's a mu here
+
+490
+00:24:42,600 --> 00:24:43,600
+with nobody to soak it up,
+
+491
+00:24:43,600 --> 00:24:45,600
+we need a sigma.
+
+492
+00:24:45,600 --> 00:24:54,600
+Alright, so the sigma will be sigma mu beta alpha.
+
+493
+00:24:54,600 --> 00:24:57,600
+That's q.
+
+494
+00:24:57,600 --> 00:24:59,600
+And I'm going to rewrite that,
+
+495
+00:24:59,600 --> 00:25:01,100
+I'm going to simplify it and just
+
+496
+00:25:01,100 --> 00:25:02,600
+write it as d by d theta,
+
+497
+00:25:03,600 --> 00:25:11,600
+plus i theta bar sigma d mu.
+
+498
+00:25:11,600 --> 00:25:14,100
+Just to save myself writing
+
+499
+00:25:14,100 --> 00:25:16,600
+these indices over and over again.
+
+500
+00:25:16,600 --> 00:25:19,100
+Okay, the sigma is here to give
+
+501
+00:25:19,100 --> 00:25:21,600
+the thing the right alpha beta structure,
+
+502
+00:25:21,600 --> 00:25:24,100
+but also to soak up,
+
+503
+00:25:24,100 --> 00:25:26,600
+there should be a mu here.
+
+504
+00:25:26,600 --> 00:25:28,600
+But I'm going to simplify it,
+
+505
+00:25:28,600 --> 00:25:30,600
+I'm going to get rid
+
+506
+00:25:30,600 --> 00:25:32,600
+of all indices in the expression.
+
+507
+00:25:32,600 --> 00:25:34,600
+d means derivative with respect to x,
+
+508
+00:25:34,600 --> 00:25:40,600
+this curly d means partial derivative with respect to x.
+
+509
+00:25:40,600 --> 00:25:42,600
+Which x?
+
+510
+00:25:42,600 --> 00:25:45,600
+The one that matches the component of sigma here.
+
+511
+00:25:45,600 --> 00:25:47,600
+Okay, so that's just,
+
+512
+00:25:47,600 --> 00:25:50,600
+this is just written in shorthand.
+
+513
+00:25:50,600 --> 00:25:56,600
+q bar alpha is equal to d,
+
+514
+00:25:56,600 --> 00:25:58,100
+I guess I'm going to write
+
+515
+00:25:58,100 --> 00:25:59,600
+q bar beta just for variety,
+
+516
+00:25:59,600 --> 00:26:01,600
+d by d theta bar beta,
+
+517
+00:26:02,600 --> 00:26:09,600
+plus again i sigma mu beta
+
+518
+00:26:09,600 --> 00:26:16,600
+alpha theta alpha d by dx mu.
+
+519
+00:26:16,600 --> 00:26:23,600
+Again, hm?
+
+520
+00:26:23,600 --> 00:26:26,600
+No, no, this one's theta.
+
+521
+00:26:26,600 --> 00:26:28,600
+If this one is theta, this one's theta bar,
+
+522
+00:26:28,600 --> 00:26:30,600
+if this one's theta bar, this one's theta.
+
+523
+00:26:30,600 --> 00:26:32,600
+They're conjugates of each other.
+
+524
+00:26:32,600 --> 00:26:36,600
+Or more simply,
+
+525
+00:26:36,600 --> 00:26:44,600
+d by d theta bar plus i sigma theta d.
+
+526
+00:26:44,600 --> 00:26:48,600
+Alright, for shorthand.
+
+527
+00:26:48,600 --> 00:26:50,600
+Those are the q's.
+
+528
+00:26:50,600 --> 00:26:52,600
+Now what do the q's do?
+
+529
+00:26:52,600 --> 00:26:55,600
+The q's operate on super fields,
+
+530
+00:26:55,600 --> 00:26:58,600
+and they give you the small change
+
+531
+00:26:58,600 --> 00:27:00,600
+in the super field,
+
+532
+00:27:00,600 --> 00:27:02,600
+under a supersymmetric transformation.
+
+533
+00:27:02,600 --> 00:27:04,600
+In other words, the variation of phi.
+
+534
+00:27:04,600 --> 00:27:06,600
+Is sigma symmetric or?
+
+535
+00:27:06,600 --> 00:27:08,600
+It's Hermitian.
+
+536
+00:27:08,600 --> 00:27:10,600
+Here they are.
+
+537
+00:27:10,600 --> 00:27:12,600
+They're all symmetric except for this one.
+
+538
+00:27:12,600 --> 00:27:14,600
+Well, I just wondered if they should be alpha beta.
+
+539
+00:27:14,600 --> 00:27:16,600
+I think I wrote it right.
+
+540
+00:27:16,600 --> 00:27:18,600
+Beta on the left,
+
+541
+00:27:18,600 --> 00:27:20,600
+and beta on the right.
+
+542
+00:27:20,600 --> 00:27:22,600
+So, this is the same thing.
+
+543
+00:27:22,600 --> 00:27:24,600
+So, this is the same thing.
+
+544
+00:27:24,600 --> 00:27:26,600
+So, this is the same thing.
+
+545
+00:27:26,600 --> 00:27:28,600
+So, this is the same thing.
+
+546
+00:27:28,600 --> 00:27:30,600
+I think I wrote it right.
+
+547
+00:27:30,600 --> 00:27:31,600
+Beta on the left.
+
+548
+00:27:31,600 --> 00:27:32,600
+I think I have it right.
+
+549
+00:27:32,600 --> 00:27:34,600
+I'm saying if the sigma mu
+
+550
+00:27:34,600 --> 00:27:36,600
+is the second equation,
+
+551
+00:27:36,600 --> 00:27:38,600
+is that beta alpha or is it alpha beta?
+
+552
+00:27:38,600 --> 00:27:40,600
+I believe it's beta alpha.
+
+553
+00:27:40,600 --> 00:27:42,600
+So, do you have an alpha?
+
+554
+00:27:42,600 --> 00:27:44,600
+It's beta over here.
+
+555
+00:27:44,600 --> 00:27:45,600
+Yeah.
+
+556
+00:27:45,600 --> 00:27:47,600
+Beta over here.
+
+557
+00:27:47,600 --> 00:27:49,600
+Alpha alpha mu.
+
+558
+00:27:55,600 --> 00:27:56,600
+I think I have it right.
+
+559
+00:27:56,600 --> 00:27:57,600
+Okay.
+
+560
+00:27:58,600 --> 00:28:00,600
+Okay.
+
+561
+00:28:02,600 --> 00:28:04,600
+A supersymmetry transformation
+
+562
+00:28:04,600 --> 00:28:06,600
+really just means
+
+563
+00:28:06,600 --> 00:28:08,600
+a small change
+
+564
+00:28:08,600 --> 00:28:10,600
+in the superfield
+
+565
+00:28:10,600 --> 00:28:12,600
+which is given by
+
+566
+00:28:12,600 --> 00:28:14,600
+either Q
+
+567
+00:28:14,600 --> 00:28:16,600
+times the superfield.
+
+568
+00:28:16,600 --> 00:28:18,600
+Now, what does Q times the superfield mean?
+
+569
+00:28:18,600 --> 00:28:20,600
+It simply means you hit the superfield
+
+570
+00:28:20,600 --> 00:28:22,600
+with these various derivatives.
+
+571
+00:28:22,600 --> 00:28:24,600
+Or,
+
+572
+00:28:24,600 --> 00:28:26,600
+Q bar
+
+573
+00:28:26,600 --> 00:28:28,600
+times the superfield.
+
+574
+00:28:28,600 --> 00:28:30,600
+That's a comma here.
+
+575
+00:28:30,600 --> 00:28:32,600
+You can do supersymmetry transformations with Q.
+
+576
+00:28:32,600 --> 00:28:34,600
+You can do it with Q bar.
+
+577
+00:28:34,600 --> 00:28:36,600
+Think of Q on phi
+
+578
+00:28:36,600 --> 00:28:38,600
+as a small change in phi.
+
+579
+00:28:38,600 --> 00:28:40,600
+That's the role of what the...
+
+580
+00:28:40,600 --> 00:28:42,600
+Now, we could go through.
+
+581
+00:28:42,600 --> 00:28:44,600
+We could take a superfield
+
+582
+00:28:44,600 --> 00:28:46,600
+and expand it out into components.
+
+583
+00:28:46,600 --> 00:28:48,600
+Components simply mean
+
+584
+00:28:48,600 --> 00:28:50,600
+the coefficients of the various powers of theta.
+
+585
+00:28:50,600 --> 00:28:52,600
+When people speak about that
+
+586
+00:28:52,600 --> 00:28:54,600
+they're not just saying
+
+587
+00:28:54,600 --> 00:28:56,600
+that the superfield is a superfield.
+
+588
+00:28:56,600 --> 00:28:58,600
+It's a superfield.
+
+589
+00:28:58,600 --> 00:29:00,600
+They're talking about the components of a superfield.
+
+590
+00:29:00,600 --> 00:29:02,600
+They're talking about the coefficients
+
+591
+00:29:02,600 --> 00:29:04,600
+of the various powers of the thetas.
+
+592
+00:29:04,600 --> 00:29:06,600
+We could work out
+
+593
+00:29:06,600 --> 00:29:08,600
+what the changes are in each component.
+
+594
+00:29:08,600 --> 00:29:10,600
+But I don't want to do that.
+
+595
+00:29:10,600 --> 00:29:12,600
+That's not useful right now.
+
+596
+00:29:12,600 --> 00:29:14,600
+Right now, I just want to follow the bookkeeping
+
+597
+00:29:16,600 --> 00:29:18,600
+and show you
+
+598
+00:29:18,600 --> 00:29:20,600
+how the manipulations work.
+
+599
+00:29:20,600 --> 00:29:22,600
+Okay.
+
+600
+00:29:22,600 --> 00:29:24,600
+So that's...
+
+601
+00:29:24,600 --> 00:29:26,600
+Good.
+
+602
+00:29:26,600 --> 00:29:28,600
+Alright.
+
+603
+00:29:28,600 --> 00:29:30,600
+What is the simplest superfield?
+
+604
+00:29:32,600 --> 00:29:34,600
+The simplest superfield, you might think,
+
+605
+00:29:34,600 --> 00:29:36,600
+is a general function
+
+606
+00:29:36,600 --> 00:29:38,600
+of the x's
+
+607
+00:29:38,600 --> 00:29:40,600
+and thetas
+
+608
+00:29:40,600 --> 00:29:42,600
+and theta bars, all of them.
+
+609
+00:29:42,600 --> 00:29:44,600
+But might there be something
+
+610
+00:29:44,600 --> 00:29:46,600
+simpler which depends on
+
+611
+00:29:46,600 --> 00:29:48,600
+fewer variables
+
+612
+00:29:48,600 --> 00:29:50,600
+which is still a
+
+613
+00:29:50,600 --> 00:29:52,600
+good
+
+614
+00:29:52,600 --> 00:29:54,600
+superfield in a sense?
+
+615
+00:29:54,600 --> 00:29:56,600
+Could there be some constraint?
+
+616
+00:29:56,600 --> 00:29:58,600
+Could there be a possible constraint
+
+617
+00:29:58,600 --> 00:30:00,600
+that you can impose
+
+618
+00:30:00,600 --> 00:30:02,600
+on the way that
+
+619
+00:30:02,600 --> 00:30:04,600
+phi depends on its arguments
+
+620
+00:30:04,600 --> 00:30:06,600
+which simplifies, which gives a
+
+621
+00:30:06,600 --> 00:30:08,600
+simplified superfield
+
+622
+00:30:08,600 --> 00:30:10,600
+which still has good
+
+623
+00:30:10,600 --> 00:30:12,600
+supersymmetry transformation properties.
+
+624
+00:30:12,600 --> 00:30:14,600
+So let me give you some examples.
+
+625
+00:30:14,600 --> 00:30:16,600
+Supposing we're talking about
+
+626
+00:30:16,600 --> 00:30:18,600
+rotation invariance.
+
+627
+00:30:18,600 --> 00:30:20,600
+Here's a
+
+628
+00:30:20,600 --> 00:30:22,600
+bad idea.
+
+629
+00:30:22,600 --> 00:30:24,600
+Take a vector field and say
+
+630
+00:30:24,600 --> 00:30:26,600
+I'm interested only in
+
+631
+00:30:26,600 --> 00:30:28,600
+vector fields which
+
+632
+00:30:28,600 --> 00:30:30,600
+satisfy vx
+
+633
+00:30:30,600 --> 00:30:32,600
+equals zero.
+
+634
+00:30:34,600 --> 00:30:36,600
+That's not invariant under rotation.
+
+635
+00:30:36,600 --> 00:30:38,600
+And I would discover it by making
+
+636
+00:30:38,600 --> 00:30:40,600
+a rotation of the vector
+
+637
+00:30:40,600 --> 00:30:42,600
+and discovering that after rotation
+
+638
+00:30:42,600 --> 00:30:44,600
+what's the change,
+
+639
+00:30:44,600 --> 00:30:46,600
+just two dimensions,
+
+640
+00:30:46,600 --> 00:30:48,600
+what's the change in the x component of a vector
+
+641
+00:30:48,600 --> 00:30:50,600
+under a rotation?
+
+642
+00:30:50,600 --> 00:30:52,600
+It's proportional
+
+643
+00:30:52,600 --> 00:30:54,600
+to the y component.
+
+644
+00:30:54,600 --> 00:30:56,600
+So, and if the y component is
+
+645
+00:30:56,600 --> 00:30:58,600
+not equal to zero to begin with
+
+646
+00:30:58,600 --> 00:31:00,600
+then after the transformation
+
+647
+00:31:00,600 --> 00:31:02,600
+the x component won't be
+
+648
+00:31:02,600 --> 00:31:04,600
+equal to zero anymore.
+
+649
+00:31:04,600 --> 00:31:06,600
+So in a rotationally invariant
+
+650
+00:31:06,600 --> 00:31:08,600
+theory you don't want to impose
+
+651
+00:31:08,600 --> 00:31:10,600
+a constraint like
+
+652
+00:31:10,600 --> 00:31:12,600
+vx equal to zero.
+
+653
+00:31:12,600 --> 00:31:14,600
+Bad idea.
+
+654
+00:31:14,600 --> 00:31:16,600
+Okay, how about the constraint
+
+655
+00:31:16,600 --> 00:31:18,600
+v squared
+
+656
+00:31:18,600 --> 00:31:20,600
+equals zero.
+
+657
+00:31:20,600 --> 00:31:22,600
+This means vx squared
+
+658
+00:31:22,600 --> 00:31:24,600
+plus vy squared.
+
+659
+00:31:24,600 --> 00:31:26,600
+Well that's a
+
+660
+00:31:26,600 --> 00:31:28,600
+very, very strong constraint, isn't it?
+
+661
+00:31:28,600 --> 00:31:30,600
+That just says v is equal to zero.
+
+662
+00:31:30,600 --> 00:31:32,600
+Let's make it
+
+663
+00:31:32,600 --> 00:31:34,600
+v squared equals one.
+
+664
+00:31:36,600 --> 00:31:38,600
+Is that a consistent
+
+665
+00:31:38,600 --> 00:31:40,600
+constraint in a rotationally
+
+666
+00:31:40,600 --> 00:31:42,600
+invariant theory? Yes.
+
+667
+00:31:42,600 --> 00:31:44,600
+It's just a length of v
+
+668
+00:31:44,600 --> 00:31:46,600
+and you've set it equal to one.
+
+669
+00:31:46,600 --> 00:31:48,600
+Now it may not be a useful thing to do
+
+670
+00:31:48,600 --> 00:31:50,600
+in any realistic field theory
+
+671
+00:31:50,600 --> 00:31:52,600
+but it's perfectly invariant
+
+672
+00:31:52,600 --> 00:31:54,600
+under rotations.
+
+673
+00:31:54,600 --> 00:31:56,600
+How do you check that it's invariant
+
+674
+00:31:56,600 --> 00:31:58,600
+under rotations?
+
+675
+00:31:58,600 --> 00:32:00,600
+You do a small transformation
+
+676
+00:32:00,600 --> 00:32:02,600
+under rotation
+
+677
+00:32:02,600 --> 00:32:04,600
+and then you see
+
+678
+00:32:04,600 --> 00:32:06,600
+if the resulting
+
+679
+00:32:06,600 --> 00:32:08,600
+components of v
+
+680
+00:32:08,600 --> 00:32:10,600
+satisfy the same relationship.
+
+681
+00:32:10,600 --> 00:32:12,600
+If they do, you've done something
+
+682
+00:32:12,600 --> 00:32:14,600
+that's consistent with the symmetry.
+
+683
+00:32:14,600 --> 00:32:16,600
+Okay.
+
+684
+00:32:16,600 --> 00:32:18,600
+Let's ask
+
+685
+00:32:18,600 --> 00:32:20,600
+whether there's an interesting constraint
+
+686
+00:32:20,600 --> 00:32:22,600
+that you can apply
+
+687
+00:32:22,600 --> 00:32:24,600
+to a super field
+
+688
+00:32:24,600 --> 00:32:26,600
+to
+
+689
+00:32:26,600 --> 00:32:28,600
+decrease
+
+690
+00:32:28,600 --> 00:32:30,600
+the complexity of a super field.
+
+691
+00:32:30,600 --> 00:32:32,600
+Not to decrease the complexity
+
+692
+00:32:32,600 --> 00:32:34,600
+of an already complicated one
+
+693
+00:32:34,600 --> 00:32:36,600
+but some constraint which would give you
+
+694
+00:32:36,600 --> 00:32:38,600
+a subset of things which might be simpler
+
+695
+00:32:38,600 --> 00:32:40,600
+than the most general thing.
+
+696
+00:32:40,600 --> 00:32:42,600
+This is simpler in the sense
+
+697
+00:32:42,600 --> 00:32:44,600
+that it is less
+
+698
+00:32:44,600 --> 00:32:46,600
+instead of having
+
+699
+00:32:46,600 --> 00:32:48,600
+two independent components, it only has
+
+700
+00:32:48,600 --> 00:32:50,600
+one independent component
+
+701
+00:32:50,600 --> 00:32:52,600
+in two dimensions.
+
+702
+00:32:52,600 --> 00:32:54,600
+So if v squared is equal to one
+
+703
+00:32:54,600 --> 00:32:56,600
+it has only one independent component.
+
+704
+00:32:56,600 --> 00:32:58,600
+Alright.
+
+705
+00:32:58,600 --> 00:33:02,600
+I'm going to guess
+
+706
+00:33:02,600 --> 00:33:04,600
+Question?
+
+707
+00:33:04,600 --> 00:33:06,600
+I'm going to make the guess
+
+708
+00:33:06,600 --> 00:33:08,600
+now of course it's not a guess
+
+709
+00:33:08,600 --> 00:33:10,600
+I know the answer
+
+710
+00:33:10,600 --> 00:33:12,600
+I didn't work this out
+
+711
+00:33:12,600 --> 00:33:14,600
+somebody else worked it out
+
+712
+00:33:14,600 --> 00:33:16,600
+that there is a constraint
+
+713
+00:33:16,600 --> 00:33:18,600
+that you can impose
+
+714
+00:33:18,600 --> 00:33:20,600
+that you may impose on a super field
+
+715
+00:33:20,600 --> 00:33:22,600
+which has a form of some differential operator
+
+716
+00:33:22,600 --> 00:33:24,600
+which I'm going to call d bar
+
+717
+00:33:24,600 --> 00:33:26,600
+times phi
+
+718
+00:33:26,600 --> 00:33:28,600
+times phi
+
+719
+00:33:28,600 --> 00:33:30,600
+is equal to zero
+
+720
+00:33:30,600 --> 00:33:32,600
+d bar
+
+721
+00:33:32,600 --> 00:33:34,600
+is a differential constraint
+
+722
+00:33:34,600 --> 00:33:36,600
+a set of derivatives
+
+723
+00:33:36,600 --> 00:33:38,600
+and a set of differential operators
+
+724
+00:33:38,600 --> 00:33:40,600
+on the super space
+
+725
+00:33:40,600 --> 00:33:42,600
+what is the condition
+
+726
+00:33:42,600 --> 00:33:44,600
+that this be a consistent thing
+
+727
+00:33:44,600 --> 00:33:46,600
+to do
+
+728
+00:33:46,600 --> 00:33:48,600
+which commutes
+
+729
+00:33:48,600 --> 00:33:50,600
+or which is consistent
+
+730
+00:33:50,600 --> 00:33:52,600
+with the supersymmetry
+
+731
+00:33:52,600 --> 00:33:54,600
+suppose I impose
+
+732
+00:33:54,600 --> 00:33:56,600
+such a constraint
+
+733
+00:33:56,600 --> 00:33:58,600
+that I have a constant
+
+734
+00:33:58,600 --> 00:34:00,600
+I haven't told you what d bar is yet
+
+735
+00:34:00,600 --> 00:34:02,600
+I'm going to tell you what d bar is
+
+736
+00:34:02,600 --> 00:34:04,600
+but supposing there was a constraint like this
+
+737
+00:34:04,600 --> 00:34:06,600
+then
+
+738
+00:34:06,600 --> 00:34:08,600
+it must be true
+
+739
+00:34:08,600 --> 00:34:10,600
+that if you do
+
+740
+00:34:10,600 --> 00:34:12,600
+if you make a small variation of phi
+
+741
+00:34:12,600 --> 00:34:14,600
+by hitting it with a q
+
+742
+00:34:14,600 --> 00:34:16,600
+it must be true
+
+743
+00:34:16,600 --> 00:34:18,600
+afterwards also
+
+744
+00:34:18,600 --> 00:34:20,600
+in other words
+
+745
+00:34:20,600 --> 00:34:22,600
+it must be true
+
+746
+00:34:22,600 --> 00:34:24,600
+that d bar
+
+747
+00:34:24,600 --> 00:34:26,600
+on phi
+
+748
+00:34:26,600 --> 00:34:28,600
+plus the small variation
+
+749
+00:34:28,600 --> 00:34:30,600
+of phi
+
+750
+00:34:30,600 --> 00:34:32,600
+which is proportional to q times phi
+
+751
+00:34:32,600 --> 00:34:34,600
+must still be equal to zero
+
+752
+00:34:34,600 --> 00:34:36,600
+otherwise
+
+753
+00:34:36,600 --> 00:34:38,600
+it wouldn't be a consistent thing to do
+
+754
+00:34:38,600 --> 00:34:40,600
+consistent with the supersymmetry
+
+755
+00:34:40,600 --> 00:34:42,600
+well
+
+756
+00:34:42,600 --> 00:34:44,600
+I'm thinking of d as a linear operator
+
+757
+00:34:44,600 --> 00:34:46,600
+of some sort
+
+758
+00:34:46,600 --> 00:34:48,600
+so d phi we already know is equal to zero
+
+759
+00:34:48,600 --> 00:34:50,600
+we're assuming d phi is equal to zero
+
+760
+00:34:50,600 --> 00:34:52,600
+and the question is
+
+761
+00:34:52,600 --> 00:34:54,600
+if d phi is equal to zero
+
+762
+00:34:54,600 --> 00:34:56,600
+will d bar
+
+763
+00:34:56,600 --> 00:34:58,600
+if d bar of phi
+
+764
+00:34:58,600 --> 00:35:00,600
+is equal to zero
+
+765
+00:35:00,600 --> 00:35:02,600
+will d bar of q times phi equal to zero
+
+766
+00:35:02,600 --> 00:35:04,600
+I haven't told you what d bar is
+
+767
+00:35:04,600 --> 00:35:06,600
+this is an abstract general question
+
+768
+00:35:06,600 --> 00:35:08,600
+about
+
+769
+00:35:08,600 --> 00:35:10,600
+what kinds of constraints
+
+770
+00:35:10,600 --> 00:35:12,600
+can be consistent
+
+771
+00:35:12,600 --> 00:35:14,600
+with a particular symmetry
+
+772
+00:35:14,600 --> 00:35:16,600
+alright now this says
+
+773
+00:35:16,600 --> 00:35:18,600
+d bar on q is equal to phi
+
+774
+00:35:18,600 --> 00:35:20,600
+suppose it were true
+
+775
+00:35:20,600 --> 00:35:22,600
+that q
+
+776
+00:35:22,600 --> 00:35:24,600
+which is after all
+
+777
+00:35:24,600 --> 00:35:26,600
+which is a grassman number type variable
+
+778
+00:35:26,600 --> 00:35:28,600
+supposing q
+
+779
+00:35:28,600 --> 00:35:30,600
+is either commuted with
+
+780
+00:35:30,600 --> 00:35:32,600
+or anti-commuted with d bar
+
+781
+00:35:32,600 --> 00:35:34,600
+in either case
+
+782
+00:35:34,600 --> 00:35:36,600
+we could write this
+
+783
+00:35:36,600 --> 00:35:38,600
+as plus or minus
+
+784
+00:35:38,600 --> 00:35:40,600
+q
+
+785
+00:35:40,600 --> 00:35:42,600
+d bar
+
+786
+00:35:42,600 --> 00:35:44,600
+times phi
+
+787
+00:35:44,600 --> 00:35:46,600
+but we've already agreed
+
+788
+00:35:46,600 --> 00:35:48,600
+that d bar of phi
+
+789
+00:35:48,600 --> 00:35:50,600
+is equal to zero
+
+790
+00:35:50,600 --> 00:35:52,600
+so therefore
+
+791
+00:35:52,600 --> 00:35:54,600
+this would also be equal to zero
+
+792
+00:35:54,600 --> 00:35:56,600
+so it's a sufficient
+
+793
+00:35:56,600 --> 00:35:58,600
+assumption
+
+794
+00:35:58,600 --> 00:36:00,600
+that there is a sufficient condition
+
+795
+00:36:00,600 --> 00:36:02,600
+for a constraint to be supersymmetric
+
+796
+00:36:02,600 --> 00:36:04,600
+that the constraint operator
+
+797
+00:36:04,600 --> 00:36:06,600
+the differential operator
+
+798
+00:36:06,600 --> 00:36:08,600
+of constraint
+
+799
+00:36:08,600 --> 00:36:10,600
+either commutes or anti-commutes
+
+800
+00:36:10,600 --> 00:36:12,600
+with the symmetry generator
+
+801
+00:36:12,600 --> 00:36:14,600
+that we're talking about
+
+802
+00:36:14,600 --> 00:36:16,600
+in this case q
+
+803
+00:36:16,600 --> 00:36:18,600
+so what does that raise
+
+804
+00:36:18,600 --> 00:36:20,600
+it raises the question
+
+805
+00:36:20,600 --> 00:36:22,600
+are there any differential operators
+
+806
+00:36:22,600 --> 00:36:24,600
+which commute with both q and q bar
+
+807
+00:36:24,600 --> 00:36:26,600
+if there is such an operator
+
+808
+00:36:26,600 --> 00:36:28,600
+then
+
+809
+00:36:28,600 --> 00:36:30,600
+we can impose a constraint
+
+810
+00:36:30,600 --> 00:36:32,600
+and possibly make
+
+811
+00:36:32,600 --> 00:36:34,600
+the superfield
+
+812
+00:36:34,600 --> 00:36:36,600
+simpler
+
+813
+00:36:36,600 --> 00:36:38,600
+a constraint like this would say
+
+814
+00:36:38,600 --> 00:36:40,600
+that the superfield depends
+
+815
+00:36:40,600 --> 00:36:42,600
+on its variables in a particularly
+
+816
+00:36:42,600 --> 00:36:44,600
+special way
+
+817
+00:36:44,600 --> 00:36:46,600
+and it may have fewer dependent variables
+
+818
+00:36:46,600 --> 00:36:48,600
+than you expect
+
+819
+00:36:48,600 --> 00:36:50,600
+now this is really not that complicated
+
+820
+00:36:50,600 --> 00:36:52,600
+I'll tell you what d bar is
+
+821
+00:36:52,600 --> 00:36:54,600
+and you can check
+
+822
+00:36:54,600 --> 00:36:56,600
+question
+
+823
+00:36:56,600 --> 00:36:58,600
+after the q
+
+824
+00:36:58,600 --> 00:37:00,600
+the very last
+
+825
+00:37:00,600 --> 00:37:02,600
+q d bar
+
+826
+00:37:02,600 --> 00:37:04,600
+q d bar
+
+827
+00:37:04,600 --> 00:37:06,600
+phi
+
+828
+00:37:06,600 --> 00:37:08,600
+I just switched the order
+
+829
+00:37:08,600 --> 00:37:10,600
+of q and d bar
+
+830
+00:37:10,600 --> 00:37:12,600
+under the assumption
+
+831
+00:37:12,600 --> 00:37:14,600
+that q and d bar
+
+832
+00:37:14,600 --> 00:37:16,600
+either commute or anti-commute
+
+833
+00:37:16,600 --> 00:37:18,600
+if they commute or anti-commute
+
+834
+00:37:18,600 --> 00:37:20,600
+you can switch the order
+
+835
+00:37:20,600 --> 00:37:22,600
+and then use the original constraint
+
+836
+00:37:22,600 --> 00:37:24,600
+on phi to say it would be
+
+837
+00:37:24,600 --> 00:37:26,600
+true both before
+
+838
+00:37:26,600 --> 00:37:28,600
+variation and after variation
+
+839
+00:37:28,600 --> 00:37:30,600
+alright there's a very simple answer
+
+840
+00:37:30,600 --> 00:37:32,600
+for a d bar
+
+841
+00:37:32,600 --> 00:37:34,600
+and a d
+
+842
+00:37:34,600 --> 00:37:36,600
+which both
+
+843
+00:37:36,600 --> 00:37:38,600
+anti-commute with both q's
+
+844
+00:37:38,600 --> 00:37:40,600
+I'll show you what it is
+
+845
+00:37:40,600 --> 00:37:42,600
+and you can check
+
+846
+00:37:42,600 --> 00:37:44,600
+we'll do a little bit
+
+847
+00:37:44,600 --> 00:37:46,600
+but I'll show you what it is
+
+848
+00:37:46,600 --> 00:37:48,600
+d bar alpha
+
+849
+00:37:48,600 --> 00:37:50,600
+or let's
+
+850
+00:37:50,600 --> 00:37:52,600
+d bar beta excuse me
+
+851
+00:37:52,600 --> 00:37:54,600
+is exactly the same as q bar
+
+852
+00:37:54,600 --> 00:37:56,600
+with one exception
+
+853
+00:37:56,600 --> 00:37:58,600
+anybody care to
+
+854
+00:37:58,600 --> 00:38:00,600
+guess
+
+855
+00:38:00,600 --> 00:38:02,600
+hmm
+
+856
+00:38:02,600 --> 00:38:04,600
+the sign
+
+857
+00:38:04,600 --> 00:38:06,600
+minus i
+
+858
+00:38:06,600 --> 00:38:08,600
+sigma mu beta alpha
+
+859
+00:38:08,600 --> 00:38:10,600
+well let's just
+
+860
+00:38:10,600 --> 00:38:12,600
+simplify it
+
+861
+00:38:12,600 --> 00:38:14,600
+minus i sigma theta
+
+862
+00:38:14,600 --> 00:38:16,600
+times derivative
+
+863
+00:38:16,600 --> 00:38:18,600
+same
+
+864
+00:38:18,600 --> 00:38:20,600
+exact expression that I have here
+
+865
+00:38:20,600 --> 00:38:22,600
+except with the i
+
+866
+00:38:22,600 --> 00:38:24,600
+changing the sign
+
+867
+00:38:24,600 --> 00:38:26,600
+if you go through it and check whether it
+
+868
+00:38:26,600 --> 00:38:28,600
+lets see whether it anti-commute
+
+869
+00:38:28,600 --> 00:38:30,600
+or not with
+
+870
+00:38:30,600 --> 00:38:32,600
+these things
+
+871
+00:38:32,600 --> 00:38:34,600
+d by d theta bar
+
+872
+00:38:34,600 --> 00:38:36,600
+anti-commute
+
+873
+00:38:36,600 --> 00:38:38,600
+with theta bar to give basically a
+
+874
+00:38:38,600 --> 00:38:40,600
+one
+
+875
+00:38:40,600 --> 00:38:42,600
+so when I anti-commute this with this
+
+876
+00:38:42,600 --> 00:38:44,600
+I'll get this piece of junk over here
+
+877
+00:38:44,600 --> 00:38:46,600
+on the other hand when I anti-commute
+
+878
+00:38:46,600 --> 00:38:48,600
+theta with d by d theta
+
+879
+00:38:48,600 --> 00:38:50,600
+over here I'll get the same thing
+
+880
+00:38:50,600 --> 00:38:52,600
+the minus sign here
+
+881
+00:38:52,600 --> 00:38:54,600
+will cancel it out believe me
+
+882
+00:38:54,600 --> 00:38:56,600
+you can check it in fact
+
+883
+00:38:56,600 --> 00:38:58,600
+Michael
+
+884
+00:38:58,600 --> 00:38:59,600
+you've already checked this sort
+
+885
+00:38:59,600 --> 00:39:00,600
+of thing in the simpler case
+
+886
+00:39:00,600 --> 00:39:02,600
+right
+
+887
+00:39:02,600 --> 00:39:04,600
+exactly the same thing
+
+888
+00:39:04,600 --> 00:39:06,600
+this object anti-commutes
+
+889
+00:39:06,600 --> 00:39:08,600
+with both q and q bar
+
+890
+00:39:08,600 --> 00:39:10,600
+the same
+
+891
+00:39:10,600 --> 00:39:12,600
+happens to be true also
+
+892
+00:39:12,600 --> 00:39:14,600
+of d alpha
+
+893
+00:39:14,600 --> 00:39:16,600
+which is d by d theta
+
+894
+00:39:16,600 --> 00:39:18,600
+minus i
+
+895
+00:39:18,600 --> 00:39:20,600
+theta bar sigma
+
+896
+00:39:20,600 --> 00:39:22,600
+derivative
+
+897
+00:39:22,600 --> 00:39:24,600
+but I'm only going to be interested
+
+898
+00:39:24,600 --> 00:39:26,600
+for today
+
+899
+00:39:26,600 --> 00:39:28,600
+in one of them
+
+900
+00:39:28,600 --> 00:39:30,600
+in one of them
+
+901
+00:39:30,600 --> 00:39:32,600
+and I'm going to say
+
+902
+00:39:32,600 --> 00:39:34,600
+what kind of constraint
+
+903
+00:39:34,600 --> 00:39:36,600
+what sort of simplifications
+
+904
+00:39:36,600 --> 00:39:38,600
+will be made on my
+
+905
+00:39:38,600 --> 00:39:40,600
+super field
+
+906
+00:39:40,600 --> 00:39:42,600
+if I insist that I have a very special
+
+907
+00:39:42,600 --> 00:39:44,600
+property namely
+
+908
+00:39:44,600 --> 00:39:46,600
+d bar
+
+909
+00:39:46,600 --> 00:39:48,600
+on phi is equal
+
+910
+00:39:48,600 --> 00:39:50,600
+to zero
+
+911
+00:39:56,600 --> 00:39:58,600
+you can't both do d bar and d bar
+
+912
+00:39:58,600 --> 00:40:00,600
+if you did d bar and d
+
+913
+00:40:00,600 --> 00:40:02,600
+that would say that
+
+914
+00:40:02,600 --> 00:40:04,600
+phi was equal to zero
+
+915
+00:40:04,600 --> 00:40:06,600
+but let's just take d bar on phi equals zero
+
+916
+00:40:06,600 --> 00:40:08,600
+I'm going to tell you
+
+917
+00:40:08,600 --> 00:40:10,600
+what the answer is
+
+918
+00:40:10,600 --> 00:40:12,600
+well first of all
+
+919
+00:40:12,600 --> 00:40:14,600
+this would be a constraint
+
+920
+00:40:14,600 --> 00:40:16,600
+on the components of the super field
+
+921
+00:40:16,600 --> 00:40:18,600
+it might eliminate components
+
+922
+00:40:18,600 --> 00:40:20,600
+of the super field
+
+923
+00:40:20,600 --> 00:40:22,600
+it might simplify the super field
+
+924
+00:40:22,600 --> 00:40:24,600
+okay
+
+925
+00:40:24,600 --> 00:40:26,600
+I'm going to give you the general
+
+926
+00:40:26,600 --> 00:40:28,600
+solution of this equation
+
+927
+00:40:28,600 --> 00:40:30,600
+the general solution of this equation
+
+928
+00:40:30,600 --> 00:40:32,600
+is that phi
+
+929
+00:40:32,600 --> 00:40:34,600
+phi of course depends
+
+930
+00:40:34,600 --> 00:40:36,600
+what does it depend on?
+
+931
+00:40:36,600 --> 00:40:38,600
+it depends on x and theta and theta bar
+
+932
+00:40:40,600 --> 00:40:42,600
+but the answer is
+
+933
+00:40:42,600 --> 00:40:44,600
+that it depends on
+
+934
+00:40:44,600 --> 00:40:46,600
+let's see
+
+935
+00:40:46,600 --> 00:40:48,600
+let's see what q bar is
+
+936
+00:40:48,600 --> 00:40:50,600
+you know
+
+937
+00:40:50,600 --> 00:40:52,600
+let me do something simpler first
+
+938
+00:40:52,600 --> 00:40:54,600
+supposing that d bar was just
+
+939
+00:40:54,600 --> 00:40:56,600
+d by d theta bar without this over here
+
+940
+00:40:56,600 --> 00:40:58,600
+what would
+
+941
+00:40:58,600 --> 00:41:00,600
+it say to say that
+
+942
+00:41:00,600 --> 00:41:02,600
+d by d theta bar on this
+
+943
+00:41:02,600 --> 00:41:04,600
+gives zero
+
+944
+00:41:04,600 --> 00:41:06,600
+it would just say that phi doesn't
+
+945
+00:41:06,600 --> 00:41:08,600
+depend on theta bar
+
+946
+00:41:08,600 --> 00:41:10,600
+that's all it would just say
+
+947
+00:41:10,600 --> 00:41:12,600
+phi is a function of x and theta
+
+948
+00:41:12,600 --> 00:41:14,600
+but it's more complicated
+
+949
+00:41:14,600 --> 00:41:16,600
+this condition
+
+950
+00:41:16,600 --> 00:41:18,600
+that d bar on phi equals zero
+
+951
+00:41:18,600 --> 00:41:20,600
+means that phi
+
+952
+00:41:20,600 --> 00:41:22,600
+depends on theta bar
+
+953
+00:41:22,600 --> 00:41:24,600
+in a special way
+
+954
+00:41:24,600 --> 00:41:26,600
+in a particularly simple special way
+
+955
+00:41:26,600 --> 00:41:28,600
+and I'll tell you what it is
+
+956
+00:41:28,600 --> 00:41:30,600
+phi is a function of
+
+957
+00:41:30,600 --> 00:41:32,600
+x mu
+
+958
+00:41:32,600 --> 00:41:34,600
+and theta
+
+959
+00:41:34,600 --> 00:41:36,600
+in other words
+
+960
+00:41:36,600 --> 00:41:38,600
+it only depends on the peculiar
+
+961
+00:41:38,600 --> 00:41:40,600
+combination
+
+962
+00:41:40,600 --> 00:41:42,600
+x plus i theta bar
+
+963
+00:41:42,600 --> 00:41:44,600
+sigma theta
+
+964
+00:41:44,600 --> 00:41:46,600
+it depends on
+
+965
+00:41:46,600 --> 00:41:48,600
+the combination
+
+966
+00:41:48,600 --> 00:41:50,600
+x plus i theta bar
+
+967
+00:41:50,600 --> 00:41:52,600
+sigma theta
+
+968
+00:41:52,600 --> 00:41:54,600
+it depends on
+
+969
+00:41:54,600 --> 00:41:56,600
+the combination
+
+970
+00:41:56,600 --> 00:41:58,600
+of x plus i theta bar
+
+971
+00:41:58,600 --> 00:42:00,600
+it doesn't depend independently
+
+972
+00:42:00,600 --> 00:42:02,600
+it doesn't have an independent
+
+973
+00:42:02,600 --> 00:42:04,600
+variation
+
+974
+00:42:04,600 --> 00:42:06,600
+with respect to theta bar
+
+975
+00:42:06,600 --> 00:42:08,600
+the only way it depends on theta bar
+
+976
+00:42:08,600 --> 00:42:10,600
+is through this combination
+
+977
+00:42:10,600 --> 00:42:12,600
+that's what
+
+978
+00:42:12,600 --> 00:42:14,600
+this equation says
+
+979
+00:42:14,600 --> 00:42:16,600
+let's check it
+
+980
+00:42:16,600 --> 00:42:18,600
+let's see if we can check it
+
+981
+00:42:20,600 --> 00:42:22,600
+it doesn't quite
+
+982
+00:42:22,600 --> 00:42:24,600
+say that phi only depends on theta
+
+983
+00:42:24,600 --> 00:42:26,600
+it says it depends on
+
+984
+00:42:26,600 --> 00:42:28,600
+theta bar in a particular
+
+985
+00:42:28,600 --> 00:42:30,600
+way that comes in together with x
+
+986
+00:42:30,600 --> 00:42:32,600
+well let's just check it
+
+987
+00:42:32,600 --> 00:42:34,600
+I'm not here
+
+988
+00:42:34,600 --> 00:42:36,600
+alright
+
+989
+00:42:36,600 --> 00:42:38,600
+um
+
+990
+00:42:38,600 --> 00:42:40,600
+let's differentiate this
+
+991
+00:42:40,600 --> 00:42:42,600
+with first
+
+992
+00:42:42,600 --> 00:42:44,600
+with respect to
+
+993
+00:42:44,600 --> 00:42:46,600
+theta bar
+
+994
+00:42:46,600 --> 00:42:48,600
+what happens when you differentiate
+
+995
+00:42:48,600 --> 00:42:50,600
+this with respect to theta bar
+
+996
+00:42:50,600 --> 00:42:52,600
+you get a derivative
+
+997
+00:42:52,600 --> 00:42:54,600
+with respect to this argument here
+
+998
+00:42:54,600 --> 00:42:56,600
+and you get a derivative
+
+999
+00:42:56,600 --> 00:42:58,600
+with respect to this argument here
+
+1000
+00:42:58,600 --> 00:43:00,600
+in other words a derivative with respect to x
+
+1001
+00:43:00,600 --> 00:43:02,600
+times
+
+1002
+00:43:02,600 --> 00:43:04,600
+i sigma theta
+
+1003
+00:43:04,600 --> 00:43:06,600
+is that clear
+
+1004
+00:43:06,600 --> 00:43:08,600
+that the derivative with respect to theta bar
+
+1005
+00:43:08,600 --> 00:43:10,600
+of this
+
+1006
+00:43:16,600 --> 00:43:18,600
+is equal to the derivative of phi
+
+1007
+00:43:18,600 --> 00:43:20,600
+with respect to x
+
+1008
+00:43:20,600 --> 00:43:22,600
+I'm simplifying it now
+
+1009
+00:43:22,600 --> 00:43:24,600
+times the derivative of this variable
+
+1010
+00:43:24,600 --> 00:43:26,600
+with respect to
+
+1011
+00:43:26,600 --> 00:43:28,600
+I'm sorry
+
+1012
+00:43:28,600 --> 00:43:30,600
+the derivative with respect to theta bar
+
+1013
+00:43:30,600 --> 00:43:32,600
+is derivative with respect to x
+
+1014
+00:43:32,600 --> 00:43:34,600
+times
+
+1015
+00:43:34,600 --> 00:43:36,600
+i sigma mu theta
+
+1016
+00:43:36,600 --> 00:43:38,600
+I've just done
+
+1017
+00:43:38,600 --> 00:43:40,600
+standard calculus operation
+
+1018
+00:43:40,600 --> 00:43:42,600
+of differentiating with respect to this
+
+1019
+00:43:42,600 --> 00:43:44,600
+variable here
+
+1020
+00:43:44,600 --> 00:43:46,600
+by differentiating with respect to the whole thing
+
+1021
+00:43:46,600 --> 00:43:48,600
+and then
+
+1022
+00:43:48,600 --> 00:43:50,600
+finding the derivative
+
+1023
+00:43:50,600 --> 00:43:52,600
+of this whole thing
+
+1024
+00:43:52,600 --> 00:43:54,600
+with respect to theta bar
+
+1025
+00:43:54,600 --> 00:43:56,600
+alright
+
+1026
+00:43:56,600 --> 00:43:58,600
+and that's that
+
+1027
+00:43:58,600 --> 00:44:00,600
+on the other hand the other thing which comes in
+
+1028
+00:44:00,600 --> 00:44:02,600
+is minus i
+
+1029
+00:44:02,600 --> 00:44:04,600
+sigma
+
+1030
+00:44:04,600 --> 00:44:06,600
+theta
+
+1031
+00:44:06,600 --> 00:44:08,600
+derivative with respect to x
+
+1032
+00:44:16,600 --> 00:44:18,600
+but that exactly
+
+1033
+00:44:18,600 --> 00:44:20,600
+cancels this
+
+1034
+00:44:20,600 --> 00:44:22,600
+so you see
+
+1035
+00:44:22,600 --> 00:44:24,600
+any function of the
+
+1036
+00:44:24,600 --> 00:44:26,600
+special form phi of x
+
+1037
+00:44:26,600 --> 00:44:28,600
+plus i theta bar sigma theta
+
+1038
+00:44:28,600 --> 00:44:30,600
+and theta
+
+1039
+00:44:30,600 --> 00:44:32,600
+is automatically
+
+1040
+00:44:32,600 --> 00:44:34,600
+annihilated by d bar
+
+1041
+00:44:34,600 --> 00:44:36,600
+that's all this d bar says
+
+1042
+00:44:36,600 --> 00:44:38,600
+d bar
+
+1043
+00:44:38,600 --> 00:44:40,600
+or d bar equals zero says
+
+1044
+00:44:40,600 --> 00:44:42,600
+it says that this is a particularly
+
+1045
+00:44:42,600 --> 00:44:44,600
+simple form
+
+1046
+00:44:44,600 --> 00:44:46,600
+another way to say it
+
+1047
+00:44:50,600 --> 00:44:52,600
+is to call this whole variable here
+
+1048
+00:44:52,600 --> 00:44:54,600
+y mu
+
+1049
+00:44:54,600 --> 00:44:56,600
+everything under here
+
+1050
+00:44:56,600 --> 00:44:58,600
+and then it says that phi
+
+1051
+00:44:58,600 --> 00:45:00,600
+only depends on phi
+
+1052
+00:45:00,600 --> 00:45:02,600
+of y
+
+1053
+00:45:02,600 --> 00:45:04,600
+and theta bar
+
+1054
+00:45:04,600 --> 00:45:06,600
+so theta
+
+1055
+00:45:06,600 --> 00:45:08,600
+no independent
+
+1056
+00:45:08,600 --> 00:45:10,600
+dependence
+
+1057
+00:45:10,600 --> 00:45:12,600
+no independent
+
+1058
+00:45:12,600 --> 00:45:14,600
+dependence
+
+1059
+00:45:14,600 --> 00:45:16,600
+on theta bar only through
+
+1060
+00:45:16,600 --> 00:45:18,600
+y that's the meaning of this
+
+1061
+00:45:18,600 --> 00:45:20,600
+and the meaning of the whole
+
+1062
+00:45:20,600 --> 00:45:22,600
+set of ideas here
+
+1063
+00:45:22,600 --> 00:45:24,600
+is that you can have a super field
+
+1064
+00:45:24,600 --> 00:45:26,600
+which has this simpler definition
+
+1065
+00:45:26,600 --> 00:45:28,600
+of dependence and it still
+
+1066
+00:45:28,600 --> 00:45:30,600
+is a representation of
+
+1067
+00:45:30,600 --> 00:45:32,600
+the supersymmetry algebra
+
+1068
+00:45:32,600 --> 00:45:34,600
+it still transforms
+
+1069
+00:45:34,600 --> 00:45:36,600
+in a coherent way
+
+1070
+00:45:36,600 --> 00:45:38,600
+under the supersymmetry algebra
+
+1071
+00:45:42,600 --> 00:45:44,600
+a field like this which has
+
+1072
+00:45:44,600 --> 00:45:46,600
+only this dependence
+
+1073
+00:45:46,600 --> 00:45:48,600
+is called a chiral super field
+
+1074
+00:45:48,600 --> 00:45:50,600
+it's called
+
+1075
+00:45:50,600 --> 00:45:52,600
+a chiral super field
+
+1076
+00:45:54,600 --> 00:45:56,600
+incidentally chiral super field
+
+1077
+00:45:56,600 --> 00:45:58,600
+are always complex
+
+1078
+00:45:58,600 --> 00:46:00,600
+they're not real things
+
+1079
+00:46:00,600 --> 00:46:02,600
+they are generally complex
+
+1080
+00:46:02,600 --> 00:46:04,600
+and the way you can show that
+
+1081
+00:46:04,600 --> 00:46:06,600
+is you can see that a small
+
+1082
+00:46:06,600 --> 00:46:08,600
+variation of the chiral super field
+
+1083
+00:46:08,600 --> 00:46:10,600
+by hitting it with a q
+
+1084
+00:46:10,600 --> 00:46:12,600
+gives it an imaginary part
+
+1085
+00:46:12,600 --> 00:46:14,600
+if it didn't have an already
+
+1086
+00:46:14,600 --> 00:46:16,600
+imaginary part
+
+1087
+00:46:16,600 --> 00:46:18,600
+so a chiral super field
+
+1088
+00:46:18,600 --> 00:46:20,600
+is also a complex super field
+
+1089
+00:46:20,600 --> 00:46:22,600
+complex in the sense of complex
+
+1090
+00:46:22,600 --> 00:46:24,600
+numbers
+
+1091
+00:46:24,600 --> 00:46:26,600
+it's a complex thing
+
+1092
+00:46:26,600 --> 00:46:28,600
+but that makes it a little more complicated
+
+1093
+00:46:28,600 --> 00:46:30,600
+but it only depends on theta bar
+
+1094
+00:46:30,600 --> 00:46:32,600
+in a particularly simple way
+
+1095
+00:46:34,600 --> 00:46:36,600
+now
+
+1096
+00:46:36,600 --> 00:46:38,600
+you know
+
+1097
+00:46:38,600 --> 00:46:40,600
+this is a
+
+1098
+00:46:40,600 --> 00:46:42,600
+sort of unending
+
+1099
+00:46:42,600 --> 00:46:44,600
+story of
+
+1100
+00:46:44,600 --> 00:46:46,600
+formal manipulation
+
+1101
+00:46:46,600 --> 00:46:48,600
+but after a while
+
+1102
+00:46:48,600 --> 00:46:50,600
+it gets kind of fun to do the formal manipulations
+
+1103
+00:46:50,600 --> 00:46:52,600
+and to see how they work
+
+1104
+00:46:52,600 --> 00:46:54,600
+so
+
+1105
+00:46:54,600 --> 00:46:56,600
+let's do the next formal manipulation
+
+1106
+00:46:56,600 --> 00:46:58,600
+which is to start
+
+1107
+00:46:58,600 --> 00:47:00,600
+calculating a Lagrangian
+
+1108
+00:47:00,600 --> 00:47:02,600
+for phi
+
+1109
+00:47:02,600 --> 00:47:04,600
+for the super field capital phi
+
+1110
+00:47:04,600 --> 00:47:06,600
+oh before we do
+
+1111
+00:47:06,600 --> 00:47:08,600
+let's just see
+
+1112
+00:47:08,600 --> 00:47:10,600
+what this says
+
+1113
+00:47:10,600 --> 00:47:12,600
+this says that
+
+1114
+00:47:12,600 --> 00:47:14,600
+let's expand phi
+
+1115
+00:47:14,600 --> 00:47:16,600
+phi
+
+1116
+00:47:16,600 --> 00:47:18,600
+might be some scalar
+
+1117
+00:47:18,600 --> 00:47:20,600
+ordinary
+
+1118
+00:47:20,600 --> 00:47:22,600
+number object
+
+1119
+00:47:22,600 --> 00:47:24,600
+which depends on y
+
+1120
+00:47:24,600 --> 00:47:26,600
+and what comes next
+
+1121
+00:47:26,600 --> 00:47:28,600
+next comes
+
+1122
+00:47:28,600 --> 00:47:30,600
+plus
+
+1123
+00:47:30,600 --> 00:47:32,600
+psi bar
+
+1124
+00:47:32,600 --> 00:47:34,600
+times theta
+
+1125
+00:47:34,600 --> 00:47:36,600
+psi bar can depend
+
+1126
+00:47:36,600 --> 00:47:38,600
+on y
+
+1127
+00:47:38,600 --> 00:47:40,600
+and theta
+
+1128
+00:47:40,600 --> 00:47:42,600
+have I left anything out?
+
+1129
+00:47:50,600 --> 00:47:52,600
+how many components of theta are there?
+
+1130
+00:47:52,600 --> 00:47:54,600
+two right?
+
+1131
+00:47:54,600 --> 00:47:56,600
+remember it's a series of things
+
+1132
+00:47:56,600 --> 00:47:58,600
+a spinor
+
+1133
+00:47:58,600 --> 00:48:00,600
+an upper and a lower component
+
+1134
+00:48:00,600 --> 00:48:02,600
+that means you can have theta squared
+
+1135
+00:48:02,600 --> 00:48:04,600
+which really means theta one times theta two
+
+1136
+00:48:04,600 --> 00:48:06,600
+so you can have plus
+
+1137
+00:48:06,600 --> 00:48:08,600
+a thing which is always called
+
+1138
+00:48:08,600 --> 00:48:10,600
+f times y
+
+1139
+00:48:10,600 --> 00:48:12,600
+I'll call it theta squared
+
+1140
+00:48:12,600 --> 00:48:14,600
+but it really means theta one times theta two
+
+1141
+00:48:16,600 --> 00:48:18,600
+I could start adding things with theta bar
+
+1142
+00:48:18,600 --> 00:48:20,600
+but this says no
+
+1143
+00:48:20,600 --> 00:48:22,600
+no theta bars
+
+1144
+00:48:22,600 --> 00:48:24,600
+theta bar dependence is all in y
+
+1145
+00:48:24,600 --> 00:48:26,600
+no theta bar
+
+1146
+00:48:26,600 --> 00:48:28,600
+theta bar dependence except what's in y
+
+1147
+00:48:28,600 --> 00:48:30,600
+so
+
+1148
+00:48:30,600 --> 00:48:32,600
+the super field the chiral super field
+
+1149
+00:48:32,600 --> 00:48:34,600
+has a limited
+
+1150
+00:48:34,600 --> 00:48:36,600
+much smaller number of components
+
+1151
+00:48:36,600 --> 00:48:38,600
+than the general super field
+
+1152
+00:48:38,600 --> 00:48:40,600
+it makes it simpler
+
+1153
+00:48:40,600 --> 00:48:42,600
+it's the simplest example of a super field
+
+1154
+00:48:42,600 --> 00:48:44,600
+and it only has
+
+1155
+00:48:44,600 --> 00:48:46,600
+three independent components
+
+1156
+00:48:46,600 --> 00:48:48,600
+phi
+
+1157
+00:48:48,600 --> 00:48:50,600
+a fermionic component
+
+1158
+00:48:50,600 --> 00:48:52,600
+in other words
+
+1159
+00:48:52,600 --> 00:48:54,600
+a fermion field
+
+1160
+00:48:54,600 --> 00:48:56,600
+a boson field
+
+1161
+00:48:56,600 --> 00:48:58,600
+a fermion field
+
+1162
+00:48:58,600 --> 00:49:00,600
+and then what looks like another boson field
+
+1163
+00:49:00,600 --> 00:49:02,600
+we're going to find that f is not
+
+1164
+00:49:02,600 --> 00:49:04,600
+really an independent boson field
+
+1165
+00:49:04,600 --> 00:49:06,600
+but let's keep going
+
+1166
+00:49:06,600 --> 00:49:08,600
+yeah
+
+1167
+00:49:08,600 --> 00:49:10,600
+you have x in that
+
+1168
+00:49:10,600 --> 00:49:12,600
+longer equation
+
+1169
+00:49:12,600 --> 00:49:13,600
+and then you wind up with
+
+1170
+00:49:13,600 --> 00:49:14,600
+y which is orthogonal to f
+
+1171
+00:49:14,600 --> 00:49:16,600
+no no
+
+1172
+00:49:16,600 --> 00:49:18,600
+y is
+
+1173
+00:49:18,600 --> 00:49:20,600
+ok why is that
+
+1174
+00:49:20,600 --> 00:49:22,600
+x mu plus i theta bar
+
+1175
+00:49:22,600 --> 00:49:24,600
+sigma mu theta
+
+1176
+00:49:24,600 --> 00:49:26,600
+definition
+
+1177
+00:49:26,600 --> 00:49:28,600
+it's not x and y
+
+1178
+00:49:28,600 --> 00:49:30,600
+it's uh yeah right
+
+1179
+00:49:30,600 --> 00:49:32,600
+just y i've just used the term y
+
+1180
+00:49:32,600 --> 00:49:34,600
+to denote this particular
+
+1181
+00:49:34,600 --> 00:49:36,600
+combination
+
+1182
+00:49:36,600 --> 00:49:38,600
+and once i work with y
+
+1183
+00:49:38,600 --> 00:49:40,600
+the super field just terminates after the second term
+
+1184
+00:49:40,600 --> 00:49:42,600
+that's a good thing it makes it simpler
+
+1185
+00:49:42,600 --> 00:49:44,600
+however
+
+1186
+00:49:44,600 --> 00:49:46,600
+y is not x
+
+1187
+00:49:46,600 --> 00:49:48,600
+and after all
+
+1188
+00:49:48,600 --> 00:49:50,600
+what we're really interested in is
+
+1189
+00:49:50,600 --> 00:49:52,600
+how things vary with x
+
+1190
+00:49:52,600 --> 00:49:54,600
+so at some point we're going to have to translate
+
+1191
+00:49:54,600 --> 00:49:56,600
+back to x
+
+1192
+00:49:56,600 --> 00:49:58,600
+ok
+
+1193
+00:49:58,600 --> 00:50:00,600
+let's talk about
+
+1194
+00:50:00,600 --> 00:50:02,600
+Lagrangians
+
+1195
+00:50:06,600 --> 00:50:08,600
+Lagrangians begin
+
+1196
+00:50:08,600 --> 00:50:10,600
+with super Lagrangians
+
+1197
+00:50:12,600 --> 00:50:14,600
+which i think
+
+1198
+00:50:14,600 --> 00:50:16,600
+the last time i called lambda
+
+1199
+00:50:16,600 --> 00:50:18,600
+ordinary
+
+1200
+00:50:18,600 --> 00:50:20,600
+Lagrangian i'll use the term L
+
+1201
+00:50:20,600 --> 00:50:22,600
+and these Lagrangians
+
+1202
+00:50:22,600 --> 00:50:24,600
+depend
+
+1203
+00:50:24,600 --> 00:50:26,600
+on theta
+
+1204
+00:50:26,600 --> 00:50:28,600
+theta bar
+
+1205
+00:50:28,600 --> 00:50:30,600
+and the x's
+
+1206
+00:50:30,600 --> 00:50:32,600
+an ordinary Lagrangian would only depend
+
+1207
+00:50:32,600 --> 00:50:34,600
+on the x's
+
+1208
+00:50:34,600 --> 00:50:36,600
+and what do we do with it we compute an
+
+1209
+00:50:36,600 --> 00:50:38,600
+action
+
+1210
+00:50:38,600 --> 00:50:40,600
+ordinarily
+
+1211
+00:50:40,600 --> 00:50:42,600
+the action is an integral
+
+1212
+00:50:42,600 --> 00:50:44,600
+of the Lagrange density
+
+1213
+00:50:44,600 --> 00:50:46,600
+the Lagrange density over
+
+1214
+00:50:46,600 --> 00:50:48,600
+the four directions of space
+
+1215
+00:50:48,600 --> 00:50:50,600
+so we do have that
+
+1216
+00:50:50,600 --> 00:50:52,600
+d4 x
+
+1217
+00:50:52,600 --> 00:50:54,600
+but
+
+1218
+00:50:54,600 --> 00:50:56,600
+also now
+
+1219
+00:50:56,600 --> 00:50:58,600
+we have the integral
+
+1220
+00:50:58,600 --> 00:51:00,600
+d theta d theta bar
+
+1221
+00:51:00,600 --> 00:51:02,600
+now
+
+1222
+00:51:02,600 --> 00:51:04,600
+how many components of theta are there
+
+1223
+00:51:04,600 --> 00:51:06,600
+two components of theta
+
+1224
+00:51:06,600 --> 00:51:08,600
+so this can really be read
+
+1225
+00:51:08,600 --> 00:51:10,600
+d2 theta which means
+
+1226
+00:51:10,600 --> 00:51:12,600
+d theta 1 d theta 2
+
+1227
+00:51:12,600 --> 00:51:14,600
+and d2 theta bar
+
+1228
+00:51:14,600 --> 00:51:16,600
+a four dimensional integral
+
+1229
+00:51:16,600 --> 00:51:18,600
+over the four components
+
+1230
+00:51:18,600 --> 00:51:20,600
+of theta that's the action
+
+1231
+00:51:20,600 --> 00:51:22,600
+if we do the
+
+1232
+00:51:22,600 --> 00:51:24,600
+integral over theta first
+
+1233
+00:51:24,600 --> 00:51:26,600
+then we get left with
+
+1234
+00:51:26,600 --> 00:51:28,600
+something which doesn't depend on the
+
+1235
+00:51:28,600 --> 00:51:30,600
+thetas anymore and is just
+
+1236
+00:51:30,600 --> 00:51:32,600
+the ordinary
+
+1237
+00:51:32,600 --> 00:51:34,600
+the ordinary Lagrangian
+
+1238
+00:51:34,600 --> 00:51:36,600
+so that's our goal is to
+
+1239
+00:51:36,600 --> 00:51:38,600
+construct super Lagrangians
+
+1240
+00:51:38,600 --> 00:51:40,600
+which have super
+
+1241
+00:51:40,600 --> 00:51:42,600
+symmetry and then
+
+1242
+00:51:42,600 --> 00:51:44,600
+to do these integrals and find out
+
+1243
+00:51:44,600 --> 00:51:46,600
+what kind of ordinary field
+
+1244
+00:51:46,600 --> 00:51:48,600
+theory we're talking about
+
+1245
+00:51:48,600 --> 00:51:50,600
+ok it turns out
+
+1246
+00:51:50,600 --> 00:51:52,600
+that the Lagrangian
+
+1247
+00:51:52,600 --> 00:51:54,600
+is
+
+1248
+00:51:54,600 --> 00:51:56,600
+is a Lagrangian
+
+1249
+00:51:56,600 --> 00:51:58,600
+the construction of Lagrangians
+
+1250
+00:51:58,600 --> 00:52:00,600
+in this context is
+
+1251
+00:52:00,600 --> 00:52:02,600
+really quite simple
+
+1252
+00:52:04,600 --> 00:52:06,600
+simpler even
+
+1253
+00:52:06,600 --> 00:52:08,600
+than the things that we talked about last time
+
+1254
+00:52:08,600 --> 00:52:10,600
+this is even
+
+1255
+00:52:10,600 --> 00:52:12,600
+simpler and I'm going to give you
+
+1256
+00:52:12,600 --> 00:52:14,600
+some examples of some Lagrangians
+
+1257
+00:52:14,600 --> 00:52:16,600
+and then show you how they lead to
+
+1258
+00:52:16,600 --> 00:52:18,600
+Feynman diagrams
+
+1259
+00:52:18,600 --> 00:52:24,600
+as I said the degree of abstraction
+
+1260
+00:52:24,600 --> 00:52:26,600
+is really unusual
+
+1261
+00:52:26,600 --> 00:52:28,600
+you just have to follow your nose
+
+1262
+00:52:28,600 --> 00:52:30,600
+follow the equations
+
+1263
+00:52:30,600 --> 00:52:32,600
+and in the end
+
+1264
+00:52:32,600 --> 00:52:34,600
+will pop out something
+
+1265
+00:52:34,600 --> 00:52:36,600
+fairly recognizable
+
+1266
+00:52:36,600 --> 00:52:38,600
+the end of all of this will be
+
+1267
+00:52:38,600 --> 00:52:40,600
+a fairly recognizable structure
+
+1268
+00:52:40,600 --> 00:52:42,600
+a Lagrangian for a fermion
+
+1269
+00:52:42,600 --> 00:52:44,600
+and a boson some interactions
+
+1270
+00:52:44,600 --> 00:52:46,600
+some Feynman diagrams
+
+1271
+00:52:46,600 --> 00:52:48,600
+but it will be guaranteed
+
+1272
+00:52:48,600 --> 00:52:50,600
+to do certain things
+
+1273
+00:52:50,600 --> 00:52:52,600
+that only supersymmetric Lagrangians do
+
+1274
+00:52:52,600 --> 00:52:54,600
+and we'll talk about those things
+
+1275
+00:52:54,600 --> 00:52:56,600
+ok
+
+1276
+00:52:56,600 --> 00:52:58,600
+so
+
+1277
+00:52:58,600 --> 00:53:00,600
+let's take
+
+1278
+00:53:00,600 --> 00:53:02,600
+the Lagrange density
+
+1279
+00:53:02,600 --> 00:53:04,600
+big lambda
+
+1280
+00:53:04,600 --> 00:53:06,600
+and expand it out
+
+1281
+00:53:06,600 --> 00:53:08,600
+in a power series in theta
+
+1282
+00:53:08,600 --> 00:53:10,600
+and theta bar
+
+1283
+00:53:10,600 --> 00:53:12,600
+it will have many terms
+
+1284
+00:53:12,600 --> 00:53:14,600
+the last of which
+
+1285
+00:53:14,600 --> 00:53:16,600
+will be proportional to theta
+
+1286
+00:53:16,600 --> 00:53:18,600
+theta squared theta bar squared
+
+1287
+00:53:18,600 --> 00:53:20,600
+theta one theta two theta three theta four
+
+1288
+00:53:20,600 --> 00:53:22,600
+theta one theta two theta bar one theta two
+
+1289
+00:53:22,600 --> 00:53:24,600
+theta bar two
+
+1290
+00:53:24,600 --> 00:53:26,600
+product of all four independent thetas
+
+1291
+00:53:26,600 --> 00:53:28,600
+when I do the integral
+
+1292
+00:53:28,600 --> 00:53:30,600
+of all the components of theta
+
+1293
+00:53:30,600 --> 00:53:32,600
+it will simply pick out
+
+1294
+00:53:32,600 --> 00:53:34,600
+only that last term
+
+1295
+00:53:34,600 --> 00:53:36,600
+so the rule
+
+1296
+00:53:36,600 --> 00:53:38,600
+is very simple
+
+1297
+00:53:38,600 --> 00:53:40,600
+you construct Lagrangians
+
+1298
+00:53:40,600 --> 00:53:42,600
+with all this crap
+
+1299
+00:53:42,600 --> 00:53:44,600
+and all sorts of higher powers of theta
+
+1300
+00:53:44,600 --> 00:53:46,600
+but in the end you pick out
+
+1301
+00:53:46,600 --> 00:53:48,600
+the last term
+
+1302
+00:53:48,600 --> 00:53:50,600
+it sort of sounds stupid
+
+1303
+00:53:50,600 --> 00:53:52,600
+but it's very efficient
+
+1304
+00:53:52,600 --> 00:53:54,600
+and very clever
+
+1305
+00:53:54,600 --> 00:53:56,600
+the way that it works
+
+1306
+00:53:56,600 --> 00:53:58,600
+so let's do a simple example
+
+1307
+00:53:58,600 --> 00:54:00,600
+I'm going to take a very simple example
+
+1308
+00:54:00,600 --> 00:54:02,600
+it seems too
+
+1309
+00:54:02,600 --> 00:54:04,600
+it seems too simple to be interesting
+
+1310
+00:54:04,600 --> 00:54:06,600
+but let's take it anyway
+
+1311
+00:54:06,600 --> 00:54:08,600
+let's take for lambda
+
+1312
+00:54:08,600 --> 00:54:10,600
+not theta
+
+1313
+00:54:10,600 --> 00:54:12,600
+sorry
+
+1314
+00:54:12,600 --> 00:54:14,600
+the super field
+
+1315
+00:54:14,600 --> 00:54:16,600
+the chiral super field phi
+
+1316
+00:54:16,600 --> 00:54:20,600
+times its own complex conjugate
+
+1317
+00:54:20,600 --> 00:54:22,600
+now that really seems
+
+1318
+00:54:22,600 --> 00:54:24,600
+much too simple
+
+1319
+00:54:24,600 --> 00:54:26,600
+incidentally let's write down
+
+1320
+00:54:26,600 --> 00:54:28,600
+what the complex conjugate is
+
+1321
+00:54:28,600 --> 00:54:30,600
+the
+
+1322
+00:54:30,600 --> 00:54:32,600
+ok
+
+1323
+00:54:38,600 --> 00:54:40,600
+I'm going to erase this
+
+1324
+00:54:44,600 --> 00:54:46,600
+but I'm going to write down
+
+1325
+00:54:46,600 --> 00:54:48,600
+what the complex conjugate is
+
+1326
+00:54:48,600 --> 00:54:50,600
+the complex conjugate
+
+1327
+00:54:52,600 --> 00:54:54,600
+of the same thing
+
+1328
+00:54:54,600 --> 00:54:56,600
+is the complex conjugate
+
+1329
+00:54:56,600 --> 00:54:58,600
+super field
+
+1330
+00:54:58,600 --> 00:55:00,600
+but it depends on
+
+1331
+00:55:00,600 --> 00:55:02,600
+the complex conjugate variable
+
+1332
+00:55:02,600 --> 00:55:04,600
+x minus i
+
+1333
+00:55:04,600 --> 00:55:06,600
+theta bar sigma mu
+
+1334
+00:55:06,600 --> 00:55:08,600
+theta
+
+1335
+00:55:08,600 --> 00:55:10,600
+and theta bar
+
+1336
+00:55:12,600 --> 00:55:14,600
+just complex conjugate
+
+1337
+00:55:14,600 --> 00:55:16,600
+everything everywheres
+
+1338
+00:55:16,600 --> 00:55:18,600
+complex conjugate phi
+
+1339
+00:55:18,600 --> 00:55:20,600
+complex conjugate the
+
+1340
+00:55:20,600 --> 00:55:22,600
+coordinate that it depends on
+
+1341
+00:55:22,600 --> 00:55:24,600
+depends on this peculiar
+
+1342
+00:55:24,600 --> 00:55:26,600
+complex coordinate here
+
+1343
+00:55:26,600 --> 00:55:28,600
+and instead of depending on theta
+
+1344
+00:55:28,600 --> 00:55:30,600
+it depends on theta bar
+
+1345
+00:55:30,600 --> 00:55:32,600
+that's the complex conjugate
+
+1346
+00:55:32,600 --> 00:55:34,600
+let's multiply those two together
+
+1347
+00:55:34,600 --> 00:55:36,600
+and then see if we can
+
+1348
+00:55:36,600 --> 00:55:38,600
+what kind of Lagrangian it gets
+
+1349
+00:55:38,600 --> 00:55:40,600
+ok
+
+1350
+00:55:40,600 --> 00:55:42,600
+so
+
+1351
+00:55:42,600 --> 00:55:44,600
+ok
+
+1352
+00:55:44,600 --> 00:55:46,600
+so
+
+1353
+00:55:46,600 --> 00:55:48,600
+what does phi depend on
+
+1354
+00:55:48,600 --> 00:55:50,600
+phi depends on
+
+1355
+00:55:50,600 --> 00:55:52,600
+x minus
+
+1356
+00:55:52,600 --> 00:55:54,600
+theta bar
+
+1357
+00:55:54,600 --> 00:55:56,600
+sigma theta
+
+1358
+00:55:56,600 --> 00:55:58,600
+i theta bar sigma theta
+
+1359
+00:55:58,600 --> 00:56:00,600
+and theta bar
+
+1360
+00:56:00,600 --> 00:56:02,600
+that's phi star
+
+1361
+00:56:02,600 --> 00:56:04,600
+and we're
+
+1362
+00:56:04,600 --> 00:56:06,600
+multiplying that by phi
+
+1363
+00:56:06,600 --> 00:56:08,600
+which is phi
+
+1364
+00:56:08,600 --> 00:56:10,600
+of
+
+1365
+00:56:10,600 --> 00:56:12,600
+x plus
+
+1366
+00:56:12,600 --> 00:56:14,600
+i theta bar
+
+1367
+00:56:14,600 --> 00:56:16,600
+sigma theta
+
+1368
+00:56:16,600 --> 00:56:18,600
+which is plane over theta
+
+1369
+00:56:18,600 --> 00:56:20,600
+and what are we going to do with it
+
+1370
+00:56:20,600 --> 00:56:22,600
+we're going to integrate it
+
+1371
+00:56:22,600 --> 00:56:24,600
+over the thetas
+
+1372
+00:56:26,600 --> 00:56:28,600
+and also over the x's
+
+1373
+00:56:34,600 --> 00:56:36,600
+d four theta
+
+1374
+00:56:36,600 --> 00:56:38,600
+all components of theta
+
+1375
+00:56:38,600 --> 00:56:40,600
+well before i do any
+
+1376
+00:56:40,600 --> 00:56:42,600
+integration this is the action
+
+1377
+00:56:42,600 --> 00:56:44,600
+this is the action
+
+1378
+00:56:46,600 --> 00:56:48,600
+before i do any integrations
+
+1379
+00:56:48,600 --> 00:56:50,600
+i want to shift the x coordinate
+
+1380
+00:56:50,600 --> 00:56:52,600
+i just
+
+1381
+00:56:52,600 --> 00:56:54,600
+what happens in an integral
+
+1382
+00:56:54,600 --> 00:56:56,600
+is an integral of a function
+
+1383
+00:56:56,600 --> 00:56:58,600
+what you're doing is calculating
+
+1384
+00:56:58,600 --> 00:57:00,600
+the area of the function
+
+1385
+00:57:00,600 --> 00:57:02,600
+what happens if i just shift the function
+
+1386
+00:57:02,600 --> 00:57:04,600
+if i shift
+
+1387
+00:57:04,600 --> 00:57:06,600
+this is a function
+
+1388
+00:57:06,600 --> 00:57:08,600
+this could be a function of x
+
+1389
+00:57:08,600 --> 00:57:10,600
+but i shift the function
+
+1390
+00:57:10,600 --> 00:57:12,600
+f of x plus
+
+1391
+00:57:12,600 --> 00:57:14,600
+and i shift the function
+
+1392
+00:57:14,600 --> 00:57:16,600
+f of x plus
+
+1393
+00:57:16,600 --> 00:57:18,600
+anything plus a
+
+1394
+00:57:18,600 --> 00:57:20,600
+does the integral change
+
+1395
+00:57:20,600 --> 00:57:22,600
+no
+
+1396
+00:57:22,600 --> 00:57:23,600
+so you can shift the
+
+1397
+00:57:23,600 --> 00:57:24,600
+argument of a function of x
+
+1398
+00:57:24,600 --> 00:57:26,600
+without changing
+
+1399
+00:57:26,600 --> 00:57:28,600
+the integral
+
+1400
+00:57:28,600 --> 00:57:30,600
+but i must consistently
+
+1401
+00:57:30,600 --> 00:57:32,600
+shift the argument
+
+1402
+00:57:32,600 --> 00:57:34,600
+x if i shift it here i must
+
+1403
+00:57:34,600 --> 00:57:36,600
+shift it the same way here
+
+1404
+00:57:36,600 --> 00:57:38,600
+i can't possibly
+
+1405
+00:57:38,600 --> 00:57:40,600
+shift away both
+
+1406
+00:57:40,600 --> 00:57:42,600
+this thing
+
+1407
+00:57:42,600 --> 00:57:44,600
+and this thing because one of them
+
+1408
+00:57:44,600 --> 00:57:46,600
+appears with a minus sign
+
+1409
+00:57:46,600 --> 00:57:48,600
+and one of them appears with a plus sign
+
+1410
+00:57:48,600 --> 00:57:50,600
+but i can shift away one of them
+
+1411
+00:57:50,600 --> 00:57:52,600
+at the expense
+
+1412
+00:57:52,600 --> 00:57:54,600
+of the other one
+
+1413
+00:57:54,600 --> 00:57:56,600
+so supposing i shift the x coordinate
+
+1414
+00:57:56,600 --> 00:57:58,600
+by shifting
+
+1415
+00:57:58,600 --> 00:58:00,600
+away the dependence over here
+
+1416
+00:58:00,600 --> 00:58:02,600
+what happens to it over here
+
+1417
+00:58:02,600 --> 00:58:04,600
+it doubles
+
+1418
+00:58:04,600 --> 00:58:06,600
+it doubles
+
+1419
+00:58:06,600 --> 00:58:07,600
+we're going to let x
+
+1420
+00:58:07,600 --> 00:58:08,600
+get shifted by this amount here
+
+1421
+00:58:08,600 --> 00:58:10,600
+and when you do so
+
+1422
+00:58:10,600 --> 00:58:12,600
+this will get doubled
+
+1423
+00:58:12,600 --> 00:58:14,600
+let's see
+
+1424
+00:58:14,600 --> 00:58:16,600
+plus two
+
+1425
+00:58:16,600 --> 00:58:18,600
+and now we can get rid of it over here
+
+1426
+00:58:18,600 --> 00:58:20,600
+you don't have to do this
+
+1427
+00:58:20,600 --> 00:58:22,600
+but it's simple
+
+1428
+00:58:22,600 --> 00:58:24,600
+this is a trick
+
+1429
+00:58:24,600 --> 00:58:26,600
+this is a trick
+
+1430
+00:58:26,600 --> 00:58:28,600
+which is unnecessary
+
+1431
+00:58:28,600 --> 00:58:30,600
+but simplifies the calculation
+
+1432
+00:58:30,600 --> 00:58:32,600
+a good deal
+
+1433
+00:58:32,600 --> 00:58:34,600
+okay
+
+1434
+00:58:34,600 --> 00:58:36,600
+now let's plug in
+
+1435
+00:58:36,600 --> 00:58:38,600
+now we have to do some work
+
+1436
+00:58:38,600 --> 00:58:39,600
+all of this up till
+
+1437
+00:58:39,600 --> 00:58:40,600
+now has been just formal manipulation
+
+1438
+00:58:40,600 --> 00:58:42,600
+it's still formal manipulation
+
+1439
+00:58:42,600 --> 00:58:44,600
+but now we're going to do some work
+
+1440
+00:58:44,600 --> 00:58:46,600
+we're going to write
+
+1441
+00:58:46,600 --> 00:58:48,600
+not a lot of hard work
+
+1442
+00:58:48,600 --> 00:58:50,600
+we're going to write that phi
+
+1443
+00:58:54,600 --> 00:58:56,600
+is equal to a boson field
+
+1444
+00:58:56,600 --> 00:58:58,600
+plus
+
+1445
+00:58:58,600 --> 00:59:00,600
+plus
+
+1446
+00:59:00,600 --> 00:59:02,600
+plus
+
+1447
+00:59:02,600 --> 00:59:04,600
+psi bar theta
+
+1448
+00:59:04,600 --> 00:59:06,600
+psi bar theta
+
+1449
+00:59:06,600 --> 00:59:08,600
+plus f theta squared
+
+1450
+00:59:08,600 --> 00:59:10,600
+plus f theta squared
+
+1451
+00:59:10,600 --> 00:59:12,600
+plus f theta squared
+
+1452
+00:59:12,600 --> 00:59:14,600
+plus f theta squared
+
+1453
+00:59:14,600 --> 00:59:16,600
+but that's as a function of y
+
+1454
+00:59:16,600 --> 00:59:17,600
+in other words as a function
+
+1455
+00:59:17,600 --> 00:59:18,600
+of x plus this thing here
+
+1456
+00:59:18,600 --> 00:59:20,600
+I want to write it as a function of x
+
+1457
+00:59:20,600 --> 00:59:22,600
+so let's see what I have to do
+
+1458
+00:59:22,600 --> 00:59:24,600
+I have to Taylor series expand
+
+1459
+00:59:24,600 --> 00:59:26,600
+in powers of the thetas here
+
+1460
+00:59:26,600 --> 00:59:28,600
+to exhibit precisely how the thing depends on theta
+
+1461
+00:59:28,600 --> 00:59:30,600
+so let's do that
+
+1462
+00:59:30,600 --> 00:59:32,600
+let's start with this phi here
+
+1463
+00:59:32,600 --> 00:59:34,600
+which is a function of this variable
+
+1464
+00:59:34,600 --> 00:59:36,600
+we can write it as phi
+
+1465
+00:59:36,600 --> 00:59:38,600
+phi of x
+
+1466
+00:59:38,600 --> 00:59:40,600
+this is phi of x
+
+1467
+00:59:40,600 --> 00:59:42,600
+this is phi of x
+
+1468
+00:59:42,600 --> 00:59:44,600
+this is phi of x
+
+1469
+00:59:44,600 --> 00:59:46,600
+this is phi of y
+
+1470
+00:59:46,600 --> 00:59:48,600
+everything depends on y
+
+1471
+00:59:48,600 --> 00:59:50,600
+and y
+
+1472
+00:59:50,600 --> 00:59:52,600
+but y
+
+1473
+00:59:52,600 --> 00:59:54,600
+oh no
+
+1474
+00:59:54,600 --> 00:59:56,600
+what am I doing wrong
+
+1475
+00:59:56,600 --> 00:59:58,600
+it's not y
+
+1476
+01:00:00,600 --> 01:00:02,600
+it's just whatever this thing is
+
+1477
+01:00:02,600 --> 01:00:04,600
+y was just x plus i theta bar sigma theta
+
+1478
+01:00:04,600 --> 01:00:06,600
+this is x plus 2i theta bar sigma theta
+
+1479
+01:00:06,600 --> 01:00:08,600
+this is x plus 2i theta bar sigma theta
+
+1480
+01:00:08,600 --> 01:00:10,600
+let's not call it y
+
+1481
+01:00:10,600 --> 01:00:12,600
+let's not call it y
+
+1482
+01:00:12,600 --> 01:00:14,600
+let's call it y prime
+
+1483
+01:00:14,600 --> 01:00:16,600
+I could call it y prime but I won't
+
+1484
+01:00:16,600 --> 01:00:18,600
+alright
+
+1485
+01:00:18,600 --> 01:00:20,600
+so this is
+
+1486
+01:00:20,600 --> 01:00:22,600
+this begins with phi of x
+
+1487
+01:00:22,600 --> 01:00:24,600
+this begins with phi of x
+
+1488
+01:00:24,600 --> 01:00:26,600
+that's just a bosonic piece of phi
+
+1489
+01:00:26,600 --> 01:00:28,600
+that's just a bosonic piece of phi
+
+1490
+01:00:28,600 --> 01:00:30,600
+next
+
+1491
+01:00:30,600 --> 01:00:32,600
+we have to differentiate with respect to x
+
+1492
+01:00:32,600 --> 01:00:34,600
+we have to differentiate with respect to x
+
+1493
+01:00:34,600 --> 01:00:36,600
+d phi by dx
+
+1494
+01:00:36,600 --> 01:00:38,600
+this is just a bosonic piece here
+
+1495
+01:00:38,600 --> 01:00:40,600
+d phi by dx
+
+1496
+01:00:40,600 --> 01:00:42,600
+times the amount that I've shifted x
+
+1497
+01:00:42,600 --> 01:00:44,600
+which is
+
+1498
+01:00:44,600 --> 01:00:46,600
+2i theta bar sigma theta
+
+1499
+01:00:46,600 --> 01:00:48,600
+2i theta bar sigma theta
+
+1500
+01:00:48,600 --> 01:00:50,600
+then there's another term
+
+1501
+01:00:50,600 --> 01:00:52,600
+which is the second derivative with respect to x
+
+1502
+01:00:52,600 --> 01:00:54,600
+I'm going to simplify notation
+
+1503
+01:00:54,600 --> 01:00:56,600
+and just call this the second derivative
+
+1504
+01:00:56,600 --> 01:00:58,600
+and just call this the second derivative
+
+1505
+01:00:58,600 --> 01:01:00,600
+with respect to x squared
+
+1506
+01:01:00,600 --> 01:01:02,600
+of phi
+
+1507
+01:01:02,600 --> 01:01:04,600
+times this thing squared
+
+1508
+01:01:04,600 --> 01:01:06,600
+times this thing squared
+
+1509
+01:01:06,600 --> 01:01:08,600
+I'm not going to bother writing out that thing squared
+
+1510
+01:01:08,600 --> 01:01:10,600
+I'm just going to notice that it contains
+
+1511
+01:01:10,600 --> 01:01:12,600
+two powers of theta
+
+1512
+01:01:12,600 --> 01:01:14,600
+and two powers
+
+1513
+01:01:14,600 --> 01:01:16,600
+of theta
+
+1514
+01:01:16,600 --> 01:01:18,600
+and two powers of theta bar
+
+1515
+01:01:18,600 --> 01:01:20,600
+there's only one expression
+
+1516
+01:01:20,600 --> 01:01:22,600
+that contains two powers of theta
+
+1517
+01:01:22,600 --> 01:01:24,600
+and two powers of theta bar
+
+1518
+01:01:24,600 --> 01:01:26,600
+it's the product of all
+
+1519
+01:01:26,600 --> 01:01:28,600
+four components of theta
+
+1520
+01:01:28,600 --> 01:01:30,600
+anything else will have
+
+1521
+01:01:30,600 --> 01:01:32,600
+redundancies
+
+1522
+01:01:32,600 --> 01:01:34,600
+so let's just call this
+
+1523
+01:01:34,600 --> 01:01:36,600
+theta to the fourth
+
+1524
+01:01:36,600 --> 01:01:38,600
+and I'm not going to bother keeping track
+
+1525
+01:01:38,600 --> 01:01:40,600
+of the numerical coefficients
+
+1526
+01:01:40,600 --> 01:01:42,600
+the next term
+
+1527
+01:01:42,600 --> 01:01:44,600
+in the power series expansion
+
+1528
+01:01:44,600 --> 01:01:46,600
+of little phi here
+
+1529
+01:01:46,600 --> 01:01:48,600
+little phi is the bosonic piece of big phi
+
+1530
+01:01:48,600 --> 01:01:50,600
+will contain higher powers
+
+1531
+01:01:50,600 --> 01:01:52,600
+and will contain more powers of theta
+
+1532
+01:01:52,600 --> 01:01:54,600
+and therefore will be zero
+
+1533
+01:01:54,600 --> 01:01:56,600
+so that's the end
+
+1534
+01:01:56,600 --> 01:01:58,600
+of the expansion
+
+1535
+01:01:58,600 --> 01:02:00,600
+of the first term in the super field
+
+1536
+01:02:00,600 --> 01:02:02,600
+the next term in the super field
+
+1537
+01:02:02,600 --> 01:02:04,600
+involves
+
+1538
+01:02:04,600 --> 01:02:06,600
+psi bar
+
+1539
+01:02:06,600 --> 01:02:08,600
+of x
+
+1540
+01:02:08,600 --> 01:02:10,600
+times theta
+
+1541
+01:02:12,600 --> 01:02:14,600
+but I have to add to that
+
+1542
+01:02:14,600 --> 01:02:16,600
+the derivative of psi bar
+
+1543
+01:02:16,600 --> 01:02:18,600
+with respect to x
+
+1544
+01:02:18,600 --> 01:02:20,600
+times the shift here
+
+1545
+01:02:20,600 --> 01:02:22,600
+which is this
+
+1546
+01:02:22,600 --> 01:02:24,600
+again this
+
+1547
+01:02:24,600 --> 01:02:26,600
+2i theta bar sigma
+
+1548
+01:02:26,600 --> 01:02:28,600
+theta times theta
+
+1549
+01:02:28,600 --> 01:02:30,600
+we have psi bar of x
+
+1550
+01:02:30,600 --> 01:02:32,600
+times theta
+
+1551
+01:02:32,600 --> 01:02:34,600
+then we differentiated
+
+1552
+01:02:34,600 --> 01:02:36,600
+psi bar with respect to x
+
+1553
+01:02:36,600 --> 01:02:38,600
+and multiplied by this
+
+1554
+01:02:38,600 --> 01:02:40,600
+let me simplify
+
+1555
+01:02:40,600 --> 01:02:42,600
+and just write this as theta theta theta bar
+
+1556
+01:02:42,600 --> 01:02:44,600
+it has
+
+1557
+01:02:44,600 --> 01:02:46,600
+two powers of theta
+
+1558
+01:02:46,600 --> 01:02:48,600
+and one power of theta bar
+
+1559
+01:02:48,600 --> 01:02:50,600
+let's just get rid of all the crap
+
+1560
+01:02:50,600 --> 01:02:52,600
+and just write it as two powers of theta
+
+1561
+01:02:52,600 --> 01:02:54,600
+and one power of theta bar
+
+1562
+01:02:54,600 --> 01:02:56,600
+just to be schematic
+
+1563
+01:02:56,600 --> 01:02:58,600
+I'm being schematic now
+
+1564
+01:02:58,600 --> 01:03:00,600
+where does that second line come from
+
+1565
+01:03:00,600 --> 01:03:02,600
+oh
+
+1566
+01:03:02,600 --> 01:03:04,600
+didn't we write that down
+
+1567
+01:03:04,600 --> 01:03:05,600
+well we did some place
+
+1568
+01:03:05,600 --> 01:03:06,600
+but I guess I erased it
+
+1569
+01:03:06,600 --> 01:03:08,600
+I wrote down that phi of
+
+1570
+01:03:08,600 --> 01:03:10,600
+y
+
+1571
+01:03:10,600 --> 01:03:12,600
+is equal to little phi of y
+
+1572
+01:03:12,600 --> 01:03:14,600
+plus
+
+1573
+01:03:14,600 --> 01:03:16,600
+psi bar
+
+1574
+01:03:18,600 --> 01:03:20,600
+theta of y
+
+1575
+01:03:20,600 --> 01:03:22,600
+plus
+
+1576
+01:03:22,600 --> 01:03:24,600
+f theta theta
+
+1577
+01:03:24,600 --> 01:03:26,600
+alright
+
+1578
+01:03:26,600 --> 01:03:28,600
+now I'm shifting the argument
+
+1579
+01:03:28,600 --> 01:03:30,600
+of I'm writing that y
+
+1580
+01:03:30,600 --> 01:03:32,600
+not this y I'm writing that this object
+
+1581
+01:03:32,600 --> 01:03:34,600
+over here
+
+1582
+01:03:34,600 --> 01:03:36,600
+alright
+
+1583
+01:03:36,600 --> 01:03:38,600
+is x plus
+
+1584
+01:03:38,600 --> 01:03:40,600
+this amount
+
+1585
+01:03:40,600 --> 01:03:42,600
+so that means I have to shift the phi
+
+1586
+01:03:42,600 --> 01:03:43,600
+and I shift the phi
+
+1587
+01:03:43,600 --> 01:03:44,600
+by doing a Taylor series expansion
+
+1588
+01:03:44,600 --> 01:03:46,600
+alright
+
+1589
+01:03:46,600 --> 01:03:48,600
+this one ends at theta theta theta bar
+
+1590
+01:03:48,600 --> 01:03:50,600
+if I try to add
+
+1591
+01:03:50,600 --> 01:03:52,600
+another derivative I will have
+
+1592
+01:03:52,600 --> 01:03:54,600
+too many thetas and it will kill it
+
+1593
+01:03:54,600 --> 01:03:56,600
+ok I'll have three powers
+
+1594
+01:03:56,600 --> 01:03:58,600
+of theta or something at least three powers
+
+1595
+01:03:58,600 --> 01:04:00,600
+of theta so nothing after that
+
+1596
+01:04:00,600 --> 01:04:02,600
+and then there's f
+
+1597
+01:04:02,600 --> 01:04:04,600
+plus
+
+1598
+01:04:04,600 --> 01:04:06,600
+f
+
+1599
+01:04:06,600 --> 01:04:08,600
+theta squared
+
+1600
+01:04:08,600 --> 01:04:10,600
+do I have to start
+
+1601
+01:04:10,600 --> 01:04:12,600
+Taylor series expanding this
+
+1602
+01:04:12,600 --> 01:04:14,600
+or
+
+1603
+01:04:14,600 --> 01:04:16,600
+if I Taylor series expand this
+
+1604
+01:04:16,600 --> 01:04:18,600
+it will give me a derivative of f
+
+1605
+01:04:18,600 --> 01:04:20,600
+times
+
+1606
+01:04:20,600 --> 01:04:22,600
+theta sigma theta
+
+1607
+01:04:22,600 --> 01:04:24,600
+that's too many powers of theta
+
+1608
+01:04:24,600 --> 01:04:26,600
+so I don't have to do anything with this
+
+1609
+01:04:26,600 --> 01:04:28,600
+this is just f of x
+
+1610
+01:04:28,600 --> 01:04:30,600
+now everything depends on x
+
+1611
+01:04:34,600 --> 01:04:36,600
+we have
+
+1612
+01:04:36,600 --> 01:04:38,600
+one two three
+
+1613
+01:04:38,600 --> 01:04:40,600
+four five six terms
+
+1614
+01:04:40,600 --> 01:04:42,600
+coming from expanding
+
+1615
+01:04:42,600 --> 01:04:44,600
+out
+
+1616
+01:04:44,600 --> 01:04:46,600
+and the Taylor series expansion
+
+1617
+01:04:46,600 --> 01:04:48,600
+the x dependence
+
+1618
+01:04:48,600 --> 01:04:49,600
+but truncating it when I
+
+1619
+01:04:49,600 --> 01:04:50,600
+get two higher powers of theta
+
+1620
+01:04:50,600 --> 01:04:52,600
+so this is
+
+1621
+01:04:52,600 --> 01:04:54,600
+theta squared over the n
+
+1622
+01:04:54,600 --> 01:04:56,600
+which one
+
+1623
+01:04:56,600 --> 01:04:58,600
+oh sorry
+
+1624
+01:04:58,600 --> 01:05:00,600
+yes theta squared thank you
+
+1625
+01:05:00,600 --> 01:05:02,600
+you're sharp
+
+1626
+01:05:02,600 --> 01:05:04,600
+over here
+
+1627
+01:05:04,600 --> 01:05:06,600
+I don't have to do very much
+
+1628
+01:05:06,600 --> 01:05:08,600
+that's this on the
+
+1629
+01:05:08,600 --> 01:05:10,600
+in one bracket
+
+1630
+01:05:10,600 --> 01:05:12,600
+and in the other bracket
+
+1631
+01:05:12,600 --> 01:05:14,600
+not so hard
+
+1632
+01:05:14,600 --> 01:05:16,600
+so I'm just
+
+1633
+01:05:16,600 --> 01:05:18,600
+phi star
+
+1634
+01:05:18,600 --> 01:05:20,600
+little phi star
+
+1635
+01:05:20,600 --> 01:05:22,600
+the bosonic part of x
+
+1636
+01:05:22,600 --> 01:05:24,600
+plus
+
+1637
+01:05:24,600 --> 01:05:26,600
+ah
+
+1638
+01:05:26,600 --> 01:05:28,600
+theta bar
+
+1639
+01:05:28,600 --> 01:05:30,600
+psi
+
+1640
+01:05:30,600 --> 01:05:32,600
+theta bar
+
+1641
+01:05:32,600 --> 01:05:34,600
+psi I think
+
+1642
+01:05:34,600 --> 01:05:36,600
+theta bar
+
+1643
+01:05:36,600 --> 01:05:38,600
+psi of x
+
+1644
+01:05:38,600 --> 01:05:40,600
+plus
+
+1645
+01:05:40,600 --> 01:05:42,600
+f star
+
+1646
+01:05:42,600 --> 01:05:44,600
+plus
+
+1647
+01:05:44,600 --> 01:05:46,600
+theta bar theta bar
+
+1648
+01:05:46,600 --> 01:05:48,600
+I don't have to do any shifting in this one
+
+1649
+01:05:48,600 --> 01:05:50,600
+because it's only a function of x
+
+1650
+01:05:50,600 --> 01:05:52,600
+I've undone the shift in here by
+
+1651
+01:05:52,600 --> 01:05:54,600
+you know and stuck it into here
+
+1652
+01:05:54,600 --> 01:05:56,600
+ok
+
+1653
+01:05:56,600 --> 01:05:58,600
+now the trick is
+
+1654
+01:05:58,600 --> 01:06:00,600
+to multiply
+
+1655
+01:06:00,600 --> 01:06:02,600
+it's very complicated looking
+
+1656
+01:06:02,600 --> 01:06:04,600
+but remember all we want out of it
+
+1657
+01:06:04,600 --> 01:06:06,600
+is the last term
+
+1658
+01:06:06,600 --> 01:06:08,600
+in the expansion
+
+1659
+01:06:08,600 --> 01:06:10,600
+the theta to the fourth
+
+1660
+01:06:10,600 --> 01:06:12,600
+so let's see what's going on
+
+1661
+01:06:12,600 --> 01:06:14,600
+in the next term
+
+1662
+01:06:14,600 --> 01:06:16,600
+so what's there to order theta to the fourth
+
+1663
+01:06:16,600 --> 01:06:18,600
+let's start with
+
+1664
+01:06:18,600 --> 01:06:20,600
+phi star here
+
+1665
+01:06:20,600 --> 01:06:22,600
+well phi star has no
+
+1666
+01:06:22,600 --> 01:06:24,600
+thetas so I have to find something with
+
+1667
+01:06:24,600 --> 01:06:26,600
+theta to the fourth in it to multiply it by
+
+1668
+01:06:26,600 --> 01:06:28,600
+here's the only thing with
+
+1669
+01:06:28,600 --> 01:06:30,600
+theta to the fourth in it
+
+1670
+01:06:30,600 --> 01:06:32,600
+so there's going to be one term
+
+1671
+01:06:32,600 --> 01:06:34,600
+which is phi star of
+
+1672
+01:06:34,600 --> 01:06:36,600
+x times a second
+
+1673
+01:06:36,600 --> 01:06:38,600
+derivative of some sort
+
+1674
+01:06:38,600 --> 01:06:40,600
+x squared
+
+1675
+01:06:40,600 --> 01:06:42,600
+phi
+
+1676
+01:06:42,600 --> 01:06:44,600
+now
+
+1677
+01:06:44,600 --> 01:06:45,600
+later on we're going to have
+
+1678
+01:06:45,600 --> 01:06:46,600
+to integrate this with respect to x
+
+1679
+01:06:46,600 --> 01:06:48,600
+does this look familiar
+
+1680
+01:06:48,600 --> 01:06:50,600
+it's the Lagrangian for a scalar field
+
+1681
+01:06:50,600 --> 01:06:52,600
+it's the Lagrangian for a scalar field
+
+1682
+01:06:52,600 --> 01:06:54,600
+ordinary Lagrangian for a massless scalar field
+
+1683
+01:06:54,600 --> 01:06:56,600
+ok
+
+1684
+01:06:56,600 --> 01:06:58,600
+so
+
+1685
+01:06:58,600 --> 01:07:00,600
+we went through an enormous amount of effort
+
+1686
+01:07:00,600 --> 01:07:02,600
+to get the Lagrangian for a scalar field
+
+1687
+01:07:02,600 --> 01:07:04,600
+now let's see what else is here
+
+1688
+01:07:04,600 --> 01:07:06,600
+let's take this one here
+
+1689
+01:07:06,600 --> 01:07:08,600
+and we're going to get
+
+1690
+01:07:08,600 --> 01:07:10,600
+this one here
+
+1691
+01:07:10,600 --> 01:07:12,600
+and we're going to get
+
+1692
+01:07:12,600 --> 01:07:14,600
+this one here
+
+1693
+01:07:14,600 --> 01:07:16,600
+that has to multiply two thetas and a theta bar
+
+1694
+01:07:16,600 --> 01:07:18,600
+right over here
+
+1695
+01:07:18,600 --> 01:07:20,600
+so
+
+1696
+01:07:20,600 --> 01:07:22,600
+that gives us something with
+
+1697
+01:07:22,600 --> 01:07:24,600
+two thetas and a theta bar
+
+1698
+01:07:24,600 --> 01:07:26,600
+that gives us
+
+1699
+01:07:26,600 --> 01:07:28,600
+plus something like the
+
+1700
+01:07:28,600 --> 01:07:30,600
+psi bar with respect to
+
+1701
+01:07:30,600 --> 01:07:32,600
+x times
+
+1702
+01:07:32,600 --> 01:07:34,600
+psi
+
+1703
+01:07:34,600 --> 01:07:36,600
+now this isn't quite sensible
+
+1704
+01:07:36,600 --> 01:07:38,600
+there's an index alpha
+
+1705
+01:07:38,600 --> 01:07:40,600
+and an index beta
+
+1706
+01:07:40,600 --> 01:07:42,600
+and an index mu
+
+1707
+01:07:42,600 --> 01:07:44,600
+so what really has to go here
+
+1708
+01:07:44,600 --> 01:07:46,600
+had I kept all the indices
+
+1709
+01:07:46,600 --> 01:07:48,600
+sigma matrix
+
+1710
+01:07:48,600 --> 01:07:50,600
+sigma mu alpha beta
+
+1711
+01:07:52,600 --> 01:07:54,600
+guess what this is the Lagrangian of
+
+1712
+01:07:54,600 --> 01:07:56,600
+it's just a fermion Lagrangian
+
+1713
+01:07:56,600 --> 01:07:58,600
+that gives the Dirac equation
+
+1714
+01:07:58,600 --> 01:08:00,600
+when you work out
+
+1715
+01:08:00,600 --> 01:08:02,600
+the Euler Lagrange equations for it
+
+1716
+01:08:02,600 --> 01:08:04,600
+this one gives the Klein-Gordon equation
+
+1717
+01:08:04,600 --> 01:08:06,600
+when you work out the variation of it
+
+1718
+01:08:06,600 --> 01:08:08,600
+and I'm not keeping track
+
+1719
+01:08:08,600 --> 01:08:10,600
+of numerical constants
+
+1720
+01:08:10,600 --> 01:08:12,600
+because I've long
+
+1721
+01:08:12,600 --> 01:08:14,600
+ago learned
+
+1722
+01:08:14,600 --> 01:08:16,600
+not to do that on the blackboard
+
+1723
+01:08:16,600 --> 01:08:18,600
+and one last thing is here
+
+1724
+01:08:18,600 --> 01:08:20,600
+is f star f
+
+1725
+01:08:22,600 --> 01:08:24,600
+of x f of x
+
+1726
+01:08:26,600 --> 01:08:28,600
+now
+
+1727
+01:08:28,600 --> 01:08:30,600
+boson
+
+1728
+01:08:30,600 --> 01:08:32,600
+scalar boson
+
+1729
+01:08:32,600 --> 01:08:34,600
+Dirac like fermion
+
+1730
+01:08:34,600 --> 01:08:36,600
+and something
+
+1731
+01:08:36,600 --> 01:08:38,600
+trivial this thing is extremely
+
+1732
+01:08:38,600 --> 01:08:40,600
+trivial it has
+
+1733
+01:08:40,600 --> 01:08:42,600
+no derivatives in it
+
+1734
+01:08:42,600 --> 01:08:44,600
+in fact what would it's equation
+
+1735
+01:08:44,600 --> 01:08:46,600
+of motion be
+
+1736
+01:08:46,600 --> 01:08:48,600
+it would be partial derivative
+
+1737
+01:08:48,600 --> 01:08:50,600
+of the this is the Lagrangian now
+
+1738
+01:08:50,600 --> 01:08:52,600
+this whole thing here
+
+1739
+01:08:52,600 --> 01:08:54,600
+is the ordinary Lagrangian
+
+1740
+01:08:56,600 --> 01:08:58,600
+or the integral of the ordinary Lagrangian
+
+1741
+01:09:00,600 --> 01:09:02,600
+if I have a thing with no derivatives
+
+1742
+01:09:02,600 --> 01:09:04,600
+just like this
+
+1743
+01:09:04,600 --> 01:09:06,600
+what's the equation of motion for it
+
+1744
+01:09:08,600 --> 01:09:10,600
+it's just the derivative of Lagrangian
+
+1745
+01:09:10,600 --> 01:09:12,600
+with respect to f equals zero
+
+1746
+01:09:12,600 --> 01:09:14,600
+there's no derivative of Lagrangian
+
+1747
+01:09:14,600 --> 01:09:16,600
+with respect to the derivatives of f
+
+1748
+01:09:16,600 --> 01:09:18,600
+there's just dl by the f equals zero
+
+1749
+01:09:18,600 --> 01:09:20,600
+or f star is equal to zero
+
+1750
+01:09:20,600 --> 01:09:22,600
+f star is equal to zero
+
+1751
+01:09:22,600 --> 01:09:24,600
+f star and f are complex conjugates
+
+1752
+01:09:24,600 --> 01:09:26,600
+f is trivial
+
+1753
+01:09:26,600 --> 01:09:28,600
+it doesn't do anything
+
+1754
+01:09:28,600 --> 01:09:30,600
+it has no interesting equation of motion
+
+1755
+01:09:30,600 --> 01:09:32,600
+there's another way of thinking about it
+
+1756
+01:09:32,600 --> 01:09:34,600
+we can think about it
+
+1757
+01:09:34,600 --> 01:09:36,600
+in terms of propagators
+
+1758
+01:09:36,600 --> 01:09:38,600
+and in terms of
+
+1759
+01:09:38,600 --> 01:09:40,600
+the
+
+1760
+01:09:40,600 --> 01:09:42,600
+Lagrangians of course lead to
+
+1761
+01:09:42,600 --> 01:09:44,600
+Feynman diagrams
+
+1762
+01:09:44,600 --> 01:09:46,600
+the kinetic terms in Lagrangians
+
+1763
+01:09:46,600 --> 01:09:48,600
+like this
+
+1764
+01:09:48,600 --> 01:09:50,600
+just lead to the propagators
+
+1765
+01:09:50,600 --> 01:09:52,600
+this guy over here
+
+1766
+01:09:52,600 --> 01:09:54,600
+is going to give us a perfectly
+
+1767
+01:09:54,600 --> 01:09:56,600
+conventional propagator
+
+1768
+01:09:56,600 --> 01:09:58,600
+for phi
+
+1769
+01:09:58,600 --> 01:10:00,600
+nothing going to be unusual there
+
+1770
+01:10:00,600 --> 01:10:02,600
+phi is going to have a propagator
+
+1771
+01:10:02,600 --> 01:10:04,600
+which propagates from one point
+
+1772
+01:10:04,600 --> 01:10:06,600
+whatever the ordinary scalar field
+
+1773
+01:10:06,600 --> 01:10:08,600
+propagator is
+
+1774
+01:10:08,600 --> 01:10:10,600
+this is what we'll give it
+
+1775
+01:10:10,600 --> 01:10:12,600
+this is going to be a perfectly
+
+1776
+01:10:12,600 --> 01:10:14,600
+conventional fermion
+
+1777
+01:10:14,600 --> 01:10:16,600
+and we'll also
+
+1778
+01:10:16,600 --> 01:10:18,600
+have a
+
+1779
+01:10:18,600 --> 01:10:20,600
+conventional
+
+1780
+01:10:20,600 --> 01:10:22,600
+propagator
+
+1781
+01:10:22,600 --> 01:10:24,600
+but what about
+
+1782
+01:10:24,600 --> 01:10:26,600
+this over here
+
+1783
+01:10:26,600 --> 01:10:28,600
+this is a little bit trivial
+
+1784
+01:10:28,600 --> 01:10:30,600
+more than a little bit trivial
+
+1785
+01:10:30,600 --> 01:10:32,600
+there's no derivatives in it
+
+1786
+01:10:32,600 --> 01:10:34,600
+there's no derivatives in it
+
+1787
+01:10:34,600 --> 01:10:36,600
+and that means
+
+1788
+01:10:36,600 --> 01:10:38,600
+that if there were a particle
+
+1789
+01:10:38,600 --> 01:10:40,600
+associated with this
+
+1790
+01:10:40,600 --> 01:10:42,600
+that particle would not move
+
+1791
+01:10:42,600 --> 01:10:44,600
+from one point to another
+
+1792
+01:10:44,600 --> 01:10:46,600
+there's no term in it which couples
+
+1793
+01:10:46,600 --> 01:10:48,600
+neighboring points of space
+
+1794
+01:10:48,600 --> 01:10:50,600
+it would give a propagator
+
+1795
+01:10:50,600 --> 01:10:52,600
+that propagator would be totally trivial
+
+1796
+01:10:52,600 --> 01:10:54,600
+I'm going to draw a picture for it
+
+1797
+01:10:54,600 --> 01:10:56,600
+I'll tell you what it
+
+1798
+01:10:56,600 --> 01:10:58,600
+the propagator would not be
+
+1799
+01:10:58,600 --> 01:11:00,600
+zero quite, it would be something
+
+1800
+01:11:00,600 --> 01:11:02,600
+a little less trivial than zero
+
+1801
+01:11:02,600 --> 01:11:04,600
+let's draw it like that
+
+1802
+01:11:04,600 --> 01:11:06,600
+a little squiggly
+
+1803
+01:11:06,600 --> 01:11:08,600
+line from one point to another
+
+1804
+01:11:08,600 --> 01:11:10,600
+but does it really
+
+1805
+01:11:10,600 --> 01:11:12,600
+propagate from one point to another
+
+1806
+01:11:12,600 --> 01:11:14,600
+no, so you care to guess what it might be
+
+1807
+01:11:16,600 --> 01:11:18,600
+it's a delta function
+
+1808
+01:11:18,600 --> 01:11:20,600
+the particle
+
+1809
+01:11:20,600 --> 01:11:22,600
+which is not really a particle
+
+1810
+01:11:22,600 --> 01:11:24,600
+comes in and goes out
+
+1811
+01:11:24,600 --> 01:11:26,600
+at exactly the same point, it doesn't get anywhere
+
+1812
+01:11:26,600 --> 01:11:28,600
+so the propagator
+
+1813
+01:11:28,600 --> 01:11:30,600
+for this very very
+
+1814
+01:11:30,600 --> 01:11:32,600
+simple Lagrangian with no derivatives
+
+1815
+01:11:32,600 --> 01:11:34,600
+in it is just a delta function
+
+1816
+01:11:34,600 --> 01:11:36,600
+the
+
+1817
+01:11:36,600 --> 01:11:38,600
+propagator begins and ends
+
+1818
+01:11:38,600 --> 01:11:40,600
+at the same point
+
+1819
+01:11:40,600 --> 01:11:42,600
+and the particle can't get anywhere
+
+1820
+01:11:42,600 --> 01:11:44,600
+that's the structure
+
+1821
+01:11:44,600 --> 01:11:46,600
+of the Feynman propagators
+
+1822
+01:11:46,600 --> 01:11:48,600
+that come out of this term
+
+1823
+01:11:48,600 --> 01:11:50,600
+in the Lagrangian
+
+1824
+01:11:50,600 --> 01:11:52,600
+now, this in itself is not
+
+1825
+01:11:52,600 --> 01:11:54,600
+an interesting Lagrangian
+
+1826
+01:11:54,600 --> 01:11:56,600
+I mean it's mildly interesting
+
+1827
+01:11:56,600 --> 01:11:58,600
+it has a boson and a fermion
+
+1828
+01:11:58,600 --> 01:12:00,600
+exactly as we expect for a supersymmetric theory
+
+1829
+01:12:00,600 --> 01:12:02,600
+they're both
+
+1830
+01:12:02,600 --> 01:12:04,600
+massless
+
+1831
+01:12:04,600 --> 01:12:06,600
+the particles have no mass
+
+1832
+01:12:06,600 --> 01:12:08,600
+and they have no interactions
+
+1833
+01:12:08,600 --> 01:12:10,600
+no interactions
+
+1834
+01:12:10,600 --> 01:12:12,600
+so let's go on to interactions
+
+1835
+01:12:16,600 --> 01:12:18,600
+let's go on to interactions
+
+1836
+01:12:18,600 --> 01:12:20,600
+and see if we can find some interesting
+
+1837
+01:12:20,600 --> 01:12:22,600
+Feynman diagrams out of this
+
+1838
+01:12:32,600 --> 01:12:34,600
+we took
+
+1839
+01:12:34,600 --> 01:12:36,600
+phi star times
+
+1840
+01:12:36,600 --> 01:12:38,600
+notice something very interesting here
+
+1841
+01:12:38,600 --> 01:12:40,600
+the super Lagrangian didn't even have
+
+1842
+01:12:40,600 --> 01:12:42,600
+any derivatives in it
+
+1843
+01:12:42,600 --> 01:12:44,600
+the super Lagrangian itself
+
+1844
+01:12:44,600 --> 01:12:46,600
+was just phi star phi
+
+1845
+01:12:46,600 --> 01:12:48,600
+it
+
+1846
+01:12:48,600 --> 01:12:50,600
+was extremely simple
+
+1847
+01:12:50,600 --> 01:12:52,600
+and didn't have any derivatives
+
+1848
+01:12:52,600 --> 01:12:54,600
+of the super field
+
+1849
+01:12:54,600 --> 01:12:56,600
+where did it get its derivatives from?
+
+1850
+01:12:56,600 --> 01:12:58,600
+it came from the fact that we had
+
+1851
+01:12:58,600 --> 01:13:00,600
+to shift the argument of the
+
+1852
+01:13:00,600 --> 01:13:02,600
+super field
+
+1853
+01:13:02,600 --> 01:13:04,600
+if it wasn't for that shift
+
+1854
+01:13:04,600 --> 01:13:06,600
+we never would have generated any interesting
+
+1855
+01:13:06,600 --> 01:13:08,600
+motion of the particle from one point to another
+
+1856
+01:13:08,600 --> 01:13:10,600
+so super Lagrangian
+
+1857
+01:13:10,600 --> 01:13:12,600
+does something interesting
+
+1858
+01:13:12,600 --> 01:13:14,600
+it takes an extremely simple Lagrangian
+
+1859
+01:13:14,600 --> 01:13:16,600
+or super Lagrangian
+
+1860
+01:13:16,600 --> 01:13:18,600
+which seems to have no structure
+
+1861
+01:13:18,600 --> 01:13:20,600
+to it
+
+1862
+01:13:20,600 --> 01:13:22,600
+propagation from one point to another
+
+1863
+01:13:22,600 --> 01:13:24,600
+but because of the shift of the argument
+
+1864
+01:13:24,600 --> 01:13:26,600
+the shift of the argument of
+
+1865
+01:13:26,600 --> 01:13:28,600
+x there
+
+1866
+01:13:28,600 --> 01:13:30,600
+it really does shift particles from one point
+
+1867
+01:13:30,600 --> 01:13:32,600
+to another in space
+
+1868
+01:13:32,600 --> 01:13:34,600
+ok let's
+
+1869
+01:13:34,600 --> 01:13:36,600
+add something else
+
+1870
+01:13:36,600 --> 01:13:38,600
+simple
+
+1871
+01:13:38,600 --> 01:13:40,600
+instead of phi star phi
+
+1872
+01:13:40,600 --> 01:13:42,600
+let's add in just phi
+
+1873
+01:13:42,600 --> 01:13:44,600
+squared
+
+1874
+01:13:44,600 --> 01:13:46,600
+and while I'm doing that
+
+1875
+01:13:46,600 --> 01:13:48,600
+I'll also add in phi star squared
+
+1876
+01:13:48,600 --> 01:13:50,600
+but that's just the complex
+
+1877
+01:13:50,600 --> 01:13:52,600
+conjugate of phi squared
+
+1878
+01:13:52,600 --> 01:13:54,600
+so if I figure out what phi squared does
+
+1879
+01:13:54,600 --> 01:13:56,600
+I will also have figured out what phi star
+
+1880
+01:13:56,600 --> 01:13:58,600
+just the complex conjugate will be
+
+1881
+01:13:58,600 --> 01:14:00,600
+this one here so let's concentrate on this
+
+1882
+01:14:00,600 --> 01:14:02,600
+just plain phi squared
+
+1883
+01:14:02,600 --> 01:14:04,600
+what does it do?
+
+1884
+01:14:04,600 --> 01:14:06,600
+all we need to do
+
+1885
+01:14:06,600 --> 01:14:08,600
+is
+
+1886
+01:14:08,600 --> 01:14:10,600
+to square phi, let's square phi
+
+1887
+01:14:10,600 --> 01:14:12,600
+but before we do
+
+1888
+01:14:12,600 --> 01:14:13,600
+remember what we're going to
+
+1889
+01:14:13,600 --> 01:14:14,600
+do, we're going to integrate this
+
+1890
+01:14:14,600 --> 01:14:16,600
+d for x
+
+1891
+01:14:16,600 --> 01:14:18,600
+and also we're going to integrate it
+
+1892
+01:14:18,600 --> 01:14:20,600
+with respect to theta
+
+1893
+01:14:20,600 --> 01:14:22,600
+ok but something
+
+1894
+01:14:22,600 --> 01:14:24,600
+interesting or
+
+1895
+01:14:24,600 --> 01:14:26,600
+simplified happens here
+
+1896
+01:14:26,600 --> 01:14:28,600
+simplified compared to here
+
+1897
+01:14:28,600 --> 01:14:30,600
+this is
+
+1898
+01:14:30,600 --> 01:14:32,600
+this is capital phi
+
+1899
+01:14:32,600 --> 01:14:34,600
+the super field
+
+1900
+01:14:34,600 --> 01:14:36,600
+capital stands for super field
+
+1901
+01:14:36,600 --> 01:14:38,600
+alright let's remember what we have
+
+1902
+01:14:38,600 --> 01:14:40,600
+we have capital phi
+
+1903
+01:14:40,600 --> 01:14:42,600
+of
+
+1904
+01:14:42,600 --> 01:14:44,600
+x plus i
+
+1905
+01:14:44,600 --> 01:14:46,600
+theta bar
+
+1906
+01:14:46,600 --> 01:14:48,600
+sigma theta
+
+1907
+01:14:48,600 --> 01:14:50,600
+and theta
+
+1908
+01:14:50,600 --> 01:14:52,600
+times another phi
+
+1909
+01:14:52,600 --> 01:14:54,600
+of exactly the same kind
+
+1910
+01:15:02,600 --> 01:15:04,600
+remember what I did over here
+
+1911
+01:15:04,600 --> 01:15:06,600
+I started with phi
+
+1912
+01:15:06,600 --> 01:15:08,600
+star times phi
+
+1913
+01:15:08,600 --> 01:15:10,600
+I knew that I was going to get
+
+1914
+01:15:10,600 --> 01:15:11,600
+I knew that I was going
+
+1915
+01:15:11,600 --> 01:15:12,600
+to integrate it with respect to x
+
+1916
+01:15:12,600 --> 01:15:14,600
+so I shifted the x integration
+
+1917
+01:15:14,600 --> 01:15:16,600
+I shifted x
+
+1918
+01:15:16,600 --> 01:15:18,600
+I shifted
+
+1919
+01:15:18,600 --> 01:15:20,600
+x to get rid of
+
+1920
+01:15:20,600 --> 01:15:22,600
+the theta dependence here
+
+1921
+01:15:22,600 --> 01:15:24,600
+but what did it do with here
+
+1922
+01:15:24,600 --> 01:15:26,600
+it doubled it over here
+
+1923
+01:15:26,600 --> 01:15:28,600
+how about in this case
+
+1924
+01:15:28,600 --> 01:15:30,600
+what happens if I
+
+1925
+01:15:30,600 --> 01:15:32,600
+shift the argument x
+
+1926
+01:15:32,600 --> 01:15:34,600
+to shift away theta bar sigma theta over here
+
+1927
+01:15:34,600 --> 01:15:36,600
+it does it in both places
+
+1928
+01:15:36,600 --> 01:15:38,600
+but what happens if I
+
+1929
+01:15:38,600 --> 01:15:39,600
+shift the argument x to shift
+
+1930
+01:15:39,600 --> 01:15:40,600
+away theta bar sigma theta over here
+
+1931
+01:15:40,600 --> 01:15:42,600
+in fact if this were any power of phi
+
+1932
+01:15:42,600 --> 01:15:44,600
+not without any phi stars
+
+1933
+01:15:44,600 --> 01:15:46,600
+if it was any power of phi
+
+1934
+01:15:46,600 --> 01:15:48,600
+with no phi stars
+
+1935
+01:15:48,600 --> 01:15:50,600
+it would just shift it away
+
+1936
+01:15:50,600 --> 01:15:52,600
+everywheres
+
+1937
+01:15:52,600 --> 01:15:54,600
+this one's pretty simple
+
+1938
+01:15:54,600 --> 01:15:56,600
+let's write it out
+
+1939
+01:15:56,600 --> 01:15:58,600
+oh
+
+1940
+01:15:58,600 --> 01:16:00,600
+oh
+
+1941
+01:16:00,600 --> 01:16:02,600
+oh
+
+1942
+01:16:02,600 --> 01:16:04,600
+but now we have a problem
+
+1943
+01:16:04,600 --> 01:16:06,600
+we have a problem with the theta integrations
+
+1944
+01:16:06,600 --> 01:16:08,600
+d2 theta
+
+1945
+01:16:08,600 --> 01:16:10,600
+d2 theta bar
+
+1946
+01:16:10,600 --> 01:16:12,600
+there's no theta bar dependence here
+
+1947
+01:16:12,600 --> 01:16:14,600
+there's no theta bar dependence here
+
+1948
+01:16:14,600 --> 01:16:16,600
+what happens if I integrate d theta bar
+
+1949
+01:16:16,600 --> 01:16:18,600
+against something with no theta bar dependence
+
+1950
+01:16:18,600 --> 01:16:20,600
+against something with no theta bar dependence
+
+1951
+01:16:20,600 --> 01:16:22,600
+you get zero
+
+1952
+01:16:22,600 --> 01:16:24,600
+you get zero
+
+1953
+01:16:24,600 --> 01:16:26,600
+so on the face of it
+
+1954
+01:16:26,600 --> 01:16:28,600
+this looks like zero
+
+1955
+01:16:28,600 --> 01:16:30,600
+but the fix for it is very simple
+
+1956
+01:16:30,600 --> 01:16:32,600
+it turns out to be
+
+1957
+01:16:32,600 --> 01:16:34,600
+a completely supersymmetric thing to do
+
+1958
+01:16:34,600 --> 01:16:36,600
+when there's no theta
+
+1959
+01:16:36,600 --> 01:16:38,600
+dependence at all
+
+1960
+01:16:38,600 --> 01:16:40,600
+is to just integrate over theta
+
+1961
+01:16:40,600 --> 01:16:42,600
+that needs to be justified
+
+1962
+01:16:42,600 --> 01:16:44,600
+that needs to be justified
+
+1963
+01:16:44,600 --> 01:16:46,600
+that needs to be justified
+
+1964
+01:16:46,600 --> 01:16:48,600
+that when you have a Lagrangian
+
+1965
+01:16:48,600 --> 01:16:50,600
+or a function
+
+1966
+01:16:50,600 --> 01:16:52,600
+which doesn't depend on theta bar at all
+
+1967
+01:16:52,600 --> 01:16:54,600
+just integrate over theta
+
+1968
+01:16:54,600 --> 01:16:56,600
+and you still maintain the supersymmetry
+
+1969
+01:16:56,600 --> 01:16:58,600
+as I say that needs to be justified
+
+1970
+01:16:58,600 --> 01:17:00,600
+but let's assume it's justified
+
+1971
+01:17:00,600 --> 01:17:02,600
+this is the thing that you do
+
+1972
+01:17:02,600 --> 01:17:04,600
+when there's no theta bar dependence at all
+
+1973
+01:17:04,600 --> 01:17:06,600
+let's
+
+1974
+01:17:06,600 --> 01:17:08,600
+what that means
+
+1975
+01:17:08,600 --> 01:17:10,600
+is that we should expect
+
+1976
+01:17:10,600 --> 01:17:12,600
+to expand things out
+
+1977
+01:17:12,600 --> 01:17:14,600
+to power theta squared
+
+1978
+01:17:14,600 --> 01:17:16,600
+and it's the theta squared term
+
+1979
+01:17:16,600 --> 01:17:18,600
+which will give us the answer
+
+1980
+01:17:18,600 --> 01:17:20,600
+the Lagrangian
+
+1981
+01:17:20,600 --> 01:17:22,600
+alright, and let's put an m here
+
+1982
+01:17:22,600 --> 01:17:24,600
+let's put an m over here
+
+1983
+01:17:24,600 --> 01:17:26,600
+m theta squared integral d four x
+
+1984
+01:17:26,600 --> 01:17:28,600
+let's see what we have here
+
+1985
+01:17:28,600 --> 01:17:30,600
+phi
+
+1986
+01:17:30,600 --> 01:17:32,600
+m phi squared, excuse me
+
+1987
+01:17:32,600 --> 01:17:34,600
+phi of x
+
+1988
+01:17:34,600 --> 01:17:36,600
+that's small phi of x
+
+1989
+01:17:36,600 --> 01:17:38,600
+plus
+
+1990
+01:17:38,600 --> 01:17:40,600
+psi bar
+
+1991
+01:17:40,600 --> 01:17:42,600
+theta
+
+1992
+01:17:42,600 --> 01:17:44,600
+plus f
+
+1993
+01:17:44,600 --> 01:17:46,600
+theta squared
+
+1994
+01:17:46,600 --> 01:17:48,600
+and we're going to square that
+
+1995
+01:17:48,600 --> 01:17:50,600
+let's just write them side by side
+
+1996
+01:17:50,600 --> 01:17:51,600
+the only way I can square things
+
+1997
+01:17:51,600 --> 01:17:52,600
+is to write them side by side
+
+1998
+01:17:52,600 --> 01:17:54,600
+plus psi bar theta
+
+1999
+01:17:54,600 --> 01:17:56,600
+plus f theta squared
+
+2000
+01:18:00,600 --> 01:18:02,600
+and
+
+2001
+01:18:02,600 --> 01:18:04,600
+what we want to compute
+
+2002
+01:18:04,600 --> 01:18:06,600
+is the term in this
+
+2003
+01:18:06,600 --> 01:18:08,600
+which is proportional to theta squared
+
+2004
+01:18:08,600 --> 01:18:10,600
+ok
+
+2005
+01:18:10,600 --> 01:18:12,600
+what do we get?
+
+2006
+01:18:12,600 --> 01:18:14,600
+well first of all we get
+
+2007
+01:18:14,600 --> 01:18:16,600
+phi times f
+
+2008
+01:18:16,600 --> 01:18:18,600
+twice
+
+2009
+01:18:18,600 --> 01:18:20,600
+phi times f over here
+
+2010
+01:18:20,600 --> 01:18:22,600
+and f times phi over here
+
+2011
+01:18:22,600 --> 01:18:24,600
+so
+
+2012
+01:18:24,600 --> 01:18:26,600
+there's a term
+
+2013
+01:18:26,600 --> 01:18:28,600
+without keeping track of the constants
+
+2014
+01:18:28,600 --> 01:18:30,600
+which will look like
+
+2015
+01:18:30,600 --> 01:18:32,600
+f times phi
+
+2016
+01:18:34,600 --> 01:18:36,600
+there will also be the complex conjugate
+
+2017
+01:18:36,600 --> 01:18:38,600
+because we're supposed to add the complex conjugate
+
+2018
+01:18:38,600 --> 01:18:40,600
+but just it'll be
+
+2019
+01:18:40,600 --> 01:18:42,600
+that's one thing
+
+2020
+01:18:42,600 --> 01:18:44,600
+and there's only one other term
+
+2021
+01:18:44,600 --> 01:18:46,600
+can you spot it?
+
+2022
+01:18:46,600 --> 01:18:48,600
+psi squared
+
+2023
+01:18:52,600 --> 01:18:54,600
+psi bar squared
+
+2024
+01:18:54,600 --> 01:18:56,600
+psi bar, psi bar
+
+2025
+01:18:56,600 --> 01:18:58,600
+psi bar
+
+2026
+01:18:58,600 --> 01:19:00,600
+psi bar
+
+2027
+01:19:04,600 --> 01:19:06,600
+oh sorry
+
+2028
+01:19:06,600 --> 01:19:08,600
+that's it I think
+
+2029
+01:19:08,600 --> 01:19:10,600
+yeah that's it
+
+2030
+01:19:10,600 --> 01:19:12,600
+that's it
+
+2031
+01:19:12,600 --> 01:19:14,600
+that's all there is from this term
+
+2032
+01:19:14,600 --> 01:19:16,600
+in Lagrangian is
+
+2033
+01:19:16,600 --> 01:19:18,600
+f times phi plus
+
+2034
+01:19:18,600 --> 01:19:20,600
+psi bar psi bar
+
+2035
+01:19:20,600 --> 01:19:21,600
+ok first of all let's look
+
+2036
+01:19:21,600 --> 01:19:22,600
+at the Dirac part of it
+
+2037
+01:19:22,600 --> 01:19:24,600
+it's m
+
+2038
+01:19:24,600 --> 01:19:26,600
+psi bar psi bar
+
+2039
+01:19:26,600 --> 01:19:28,600
+that's a mass term for the Dirac particle
+
+2040
+01:19:28,600 --> 01:19:30,600
+a mass times a product of two
+
+2041
+01:19:30,600 --> 01:19:32,600
+with no derivatives
+
+2042
+01:19:32,600 --> 01:19:34,600
+is a mass term
+
+2043
+01:19:34,600 --> 01:19:36,600
+it's called a Majorana mass term
+
+2044
+01:19:36,600 --> 01:19:38,600
+it's a rather
+
+2045
+01:19:38,600 --> 01:19:40,600
+different
+
+2046
+01:19:40,600 --> 01:19:42,600
+slightly different mass term
+
+2047
+01:19:42,600 --> 01:19:44,600
+than the kind we thought about in the past
+
+2048
+01:19:44,600 --> 01:19:46,600
+but it is
+
+2049
+01:19:46,600 --> 01:19:48,600
+it's a psi comes in
+
+2050
+01:19:48,600 --> 01:19:50,600
+and a psi goes out
+
+2051
+01:19:50,600 --> 01:19:52,600
+and there's a coefficient m
+
+2052
+01:19:52,600 --> 01:19:54,600
+it is when combined
+
+2053
+01:19:54,600 --> 01:19:56,600
+with the
+
+2054
+01:19:56,600 --> 01:19:58,600
+with the conventional piece of the Dirac Lagrangian
+
+2055
+01:19:58,600 --> 01:20:00,600
+here it gives rise to
+
+2056
+01:20:00,600 --> 01:20:02,600
+a wave equation which has a mass
+
+2057
+01:20:02,600 --> 01:20:04,600
+so this is
+
+2058
+01:20:04,600 --> 01:20:06,600
+a mass for the Dirac particle
+
+2059
+01:20:06,600 --> 01:20:08,600
+for the fermion
+
+2060
+01:20:08,600 --> 01:20:10,600
+but this m f
+
+2061
+01:20:10,600 --> 01:20:12,600
+phi looks a little peculiar
+
+2062
+01:20:12,600 --> 01:20:14,600
+it's not like anything we've seen before
+
+2063
+01:20:14,600 --> 01:20:16,600
+but
+
+2064
+01:20:16,600 --> 01:20:18,600
+if we think about it for a minute
+
+2065
+01:20:18,600 --> 01:20:20,600
+it will make a
+
+2066
+01:20:20,600 --> 01:20:22,600
+Feynman diagram
+
+2067
+01:20:22,600 --> 01:20:24,600
+in which a phi particle
+
+2068
+01:20:24,600 --> 01:20:26,600
+the dotted line
+
+2069
+01:20:26,600 --> 01:20:28,600
+becomes an f
+
+2070
+01:20:28,600 --> 01:20:30,600
+now an f
+
+2071
+01:20:30,600 --> 01:20:32,600
+let's just draw that f with that
+
+2072
+01:20:32,600 --> 01:20:34,600
+little f propagator there
+
+2073
+01:20:38,600 --> 01:20:40,600
+well that's a phi becomes an f
+
+2074
+01:20:40,600 --> 01:20:42,600
+an f is a nothing
+
+2075
+01:20:42,600 --> 01:20:44,600
+it doesn't do anything
+
+2076
+01:20:44,600 --> 01:20:46,600
+it just sits there
+
+2077
+01:20:46,600 --> 01:20:48,600
+but you can have a Feynman diagram
+
+2078
+01:20:48,600 --> 01:20:50,600
+to second order
+
+2079
+01:20:50,600 --> 01:20:52,600
+where the f becomes a phi again
+
+2080
+01:20:52,600 --> 01:20:54,600
+that will involve
+
+2081
+01:20:54,600 --> 01:20:56,600
+m squared
+
+2082
+01:20:58,600 --> 01:21:00,600
+this term in the Lagrangian
+
+2083
+01:21:00,600 --> 01:21:02,600
+f phi gives you a transition
+
+2084
+01:21:02,600 --> 01:21:04,600
+from a phi to an f
+
+2085
+01:21:04,600 --> 01:21:06,600
+but an f is not a real particle
+
+2086
+01:21:06,600 --> 01:21:08,600
+it doesn't go anywhere
+
+2087
+01:21:08,600 --> 01:21:10,600
+so you better get back to phi
+
+2088
+01:21:10,600 --> 01:21:12,600
+that will involve two powers of this interaction
+
+2089
+01:21:12,600 --> 01:21:14,600
+an m squared
+
+2090
+01:21:14,600 --> 01:21:16,600
+and it will give us a phi in
+
+2091
+01:21:16,600 --> 01:21:18,600
+and a phi out
+
+2092
+01:21:18,600 --> 01:21:20,600
+in other words it's completely
+
+2093
+01:21:20,600 --> 01:21:22,600
+indistinguishable from having
+
+2094
+01:21:22,600 --> 01:21:24,600
+m squared
+
+2095
+01:21:24,600 --> 01:21:26,600
+phi squared in the Lagrangian
+
+2096
+01:21:28,600 --> 01:21:30,600
+m squared phi squared
+
+2097
+01:21:30,600 --> 01:21:32,600
+is just a mass term for the boson
+
+2098
+01:21:32,600 --> 01:21:34,600
+we can do this another way
+
+2099
+01:21:34,600 --> 01:21:36,600
+we can do it in a more
+
+2100
+01:21:36,600 --> 01:21:38,600
+sophisticated technical way
+
+2101
+01:21:38,600 --> 01:21:40,600
+without diagrams
+
+2102
+01:21:40,600 --> 01:21:44,600
+let's look at everything in this Lagrangian
+
+2103
+01:21:44,600 --> 01:21:46,600
+which depends on the f's
+
+2104
+01:21:48,600 --> 01:21:50,600
+first of all we have
+
+2105
+01:21:50,600 --> 01:21:52,600
+f star f
+
+2106
+01:21:52,600 --> 01:21:54,600
+and then
+
+2107
+01:21:54,600 --> 01:21:56,600
+we have
+
+2108
+01:21:56,600 --> 01:21:58,600
+plus m f
+
+2109
+01:21:58,600 --> 01:22:00,600
+phi
+
+2110
+01:22:00,600 --> 01:22:02,600
+and also the complex
+
+2111
+01:22:02,600 --> 01:22:04,600
+conjugate
+
+2112
+01:22:04,600 --> 01:22:06,600
+m f star
+
+2113
+01:22:06,600 --> 01:22:08,600
+phi star
+
+2114
+01:22:08,600 --> 01:22:10,600
+or
+
+2115
+01:22:10,600 --> 01:22:12,600
+well as I said
+
+2116
+01:22:12,600 --> 01:22:14,600
+f occurs in this awfully trivial way
+
+2117
+01:22:14,600 --> 01:22:16,600
+in this Lagrangian
+
+2118
+01:22:16,600 --> 01:22:18,600
+its equation of motion
+
+2119
+01:22:18,600 --> 01:22:20,600
+is just gotten by
+
+2120
+01:22:20,600 --> 01:22:22,600
+differentiating this with respect to f
+
+2121
+01:22:22,600 --> 01:22:24,600
+and setting it equal to zero
+
+2122
+01:22:24,600 --> 01:22:26,600
+there's no derivatives
+
+2123
+01:22:26,600 --> 01:22:28,600
+so the equation of motion for f
+
+2124
+01:22:28,600 --> 01:22:30,600
+is just f star
+
+2125
+01:22:30,600 --> 01:22:32,600
+plus m
+
+2126
+01:22:32,600 --> 01:22:34,600
+phi
+
+2127
+01:22:34,600 --> 01:22:36,600
+equals zero
+
+2128
+01:22:36,600 --> 01:22:38,600
+and
+
+2129
+01:22:38,600 --> 01:22:40,600
+that's the equation of motion
+
+2130
+01:22:40,600 --> 01:22:42,600
+for it
+
+2131
+01:22:42,600 --> 01:22:44,600
+okay
+
+2132
+01:22:44,600 --> 01:22:46,600
+let's solve this equation of motion
+
+2133
+01:22:46,600 --> 01:22:48,600
+for f
+
+2134
+01:22:48,600 --> 01:22:50,600
+f star
+
+2135
+01:22:50,600 --> 01:22:52,600
+equals minus
+
+2136
+01:22:52,600 --> 01:22:54,600
+m phi
+
+2137
+01:22:54,600 --> 01:22:56,600
+and then plug it back
+
+2138
+01:22:56,600 --> 01:22:58,600
+into the Lagrangian
+
+2139
+01:22:58,600 --> 01:23:00,600
+and see what we get
+
+2140
+01:23:00,600 --> 01:23:02,600
+well what's f star f
+
+2141
+01:23:02,600 --> 01:23:04,600
+going to give
+
+2142
+01:23:04,600 --> 01:23:06,600
+f star f
+
+2143
+01:23:06,600 --> 01:23:08,600
+oh f star what is f
+
+2144
+01:23:08,600 --> 01:23:10,600
+f is equal to minus m
+
+2145
+01:23:10,600 --> 01:23:12,600
+phi star
+
+2146
+01:23:12,600 --> 01:23:14,600
+f star f is going to give m squared
+
+2147
+01:23:14,600 --> 01:23:16,600
+phi star phi
+
+2148
+01:23:16,600 --> 01:23:18,600
+alright m squared phi star phi
+
+2149
+01:23:18,600 --> 01:23:20,600
+what about m phi f
+
+2150
+01:23:22,600 --> 01:23:24,600
+that's going to give
+
+2151
+01:23:24,600 --> 01:23:26,600
+minus
+
+2152
+01:23:26,600 --> 01:23:28,600
+m squared phi star phi
+
+2153
+01:23:28,600 --> 01:23:30,600
+they cancel
+
+2154
+01:23:30,600 --> 01:23:32,600
+but there's one more
+
+2155
+01:23:32,600 --> 01:23:34,600
+left over here
+
+2156
+01:23:34,600 --> 01:23:36,600
+and that one is also m squared
+
+2157
+01:23:36,600 --> 01:23:38,600
+phi star phi
+
+2158
+01:23:38,600 --> 01:23:40,600
+so that's
+
+2159
+01:23:40,600 --> 01:23:42,600
+another way you can either think
+
+2160
+01:23:42,600 --> 01:23:44,600
+diagrammatically that what
+
+2161
+01:23:44,600 --> 01:23:46,600
+this f thing here
+
+2162
+01:23:46,600 --> 01:23:48,600
+does
+
+2163
+01:23:48,600 --> 01:23:50,600
+in a Feynman diagram
+
+2164
+01:23:50,600 --> 01:23:52,600
+is give something which is indistinguishable
+
+2165
+01:23:52,600 --> 01:23:54,600
+from m squared phi squared
+
+2166
+01:23:54,600 --> 01:23:56,600
+or you can
+
+2167
+01:23:56,600 --> 01:23:58,600
+solve for f plug it back
+
+2168
+01:23:58,600 --> 01:24:00,600
+in and you see that the effect
+
+2169
+01:24:00,600 --> 01:24:02,600
+on the Lagrangian is just m
+
+2170
+01:24:02,600 --> 01:24:04,600
+phi star phi it is also
+
+2171
+01:24:04,600 --> 01:24:06,600
+a mass term for the boson
+
+2172
+01:24:06,600 --> 01:24:08,600
+and in fact
+
+2173
+01:24:08,600 --> 01:24:10,600
+the mass of the boson
+
+2174
+01:24:10,600 --> 01:24:12,600
+is exactly the same as the mass of the fermion
+
+2175
+01:24:12,600 --> 01:24:14,600
+remember in boson
+
+2176
+01:24:14,600 --> 01:24:16,600
+equations you write m squared
+
+2177
+01:24:16,600 --> 01:24:18,600
+in fermion equations you write m
+
+2178
+01:24:18,600 --> 01:24:20,600
+ah
+
+2179
+01:24:20,600 --> 01:24:22,600
+so
+
+2180
+01:24:22,600 --> 01:24:24,600
+the fermion and the boson
+
+2181
+01:24:24,600 --> 01:24:26,600
+both get a mass
+
+2182
+01:24:26,600 --> 01:24:28,600
+and in both cases that mass
+
+2183
+01:24:28,600 --> 01:24:30,600
+is just m
+
+2184
+01:24:30,600 --> 01:24:32,600
+again we see
+
+2185
+01:24:32,600 --> 01:24:34,600
+this power of this symmetry
+
+2186
+01:24:34,600 --> 01:24:36,600
+taking place making sure
+
+2187
+01:24:36,600 --> 01:24:38,600
+that the boson and the fermion have
+
+2188
+01:24:38,600 --> 01:24:40,600
+exactly the same mass
+
+2189
+01:24:40,600 --> 01:24:42,600
+the power
+
+2190
+01:24:42,600 --> 01:24:44,600
+of this really
+
+2191
+01:24:44,600 --> 01:24:46,600
+becomes significant
+
+2192
+01:24:46,600 --> 01:24:48,600
+we could have just done this by taking
+
+2193
+01:24:48,600 --> 01:24:50,600
+a boson field a fermion field
+
+2194
+01:24:50,600 --> 01:24:52,600
+and giving them the same mass
+
+2195
+01:24:52,600 --> 01:24:54,600
+and they would be free field theories
+
+2196
+01:24:54,600 --> 01:24:56,600
+no interactions
+
+2197
+01:24:56,600 --> 01:24:58,600
+their masses would never change
+
+2198
+01:24:58,600 --> 01:25:00,600
+there would be nothing very interesting
+
+2199
+01:25:00,600 --> 01:25:02,600
+it would be supersymmetric the power of it
+
+2200
+01:25:02,600 --> 01:25:04,600
+though is when particles interact
+
+2201
+01:25:04,600 --> 01:25:06,600
+so let's go one
+
+2202
+01:25:06,600 --> 01:25:08,600
+step further
+
+2203
+01:25:08,600 --> 01:25:10,600
+and add a third
+
+2204
+01:25:10,600 --> 01:25:12,600
+another term in the Lagrangian
+
+2205
+01:25:12,600 --> 01:25:14,600
+g times
+
+2206
+01:25:14,600 --> 01:25:16,600
+phi cubed
+
+2207
+01:25:16,600 --> 01:25:18,600
+now phi cubed is more
+
+2208
+01:25:18,600 --> 01:25:20,600
+interesting
+
+2209
+01:25:22,600 --> 01:25:24,600
+d2 theta
+
+2210
+01:25:24,600 --> 01:25:26,600
+same game but we have to
+
+2211
+01:25:26,600 --> 01:25:28,600
+put one more
+
+2212
+01:25:28,600 --> 01:25:30,600
+phi plus
+
+2213
+01:25:30,600 --> 01:25:32,600
+psi bar theta
+
+2214
+01:25:32,600 --> 01:25:34,600
+plus f
+
+2215
+01:25:34,600 --> 01:25:36,600
+theta squared and let's see what kind of
+
+2216
+01:25:36,600 --> 01:25:38,600
+things we get from here
+
+2217
+01:25:40,600 --> 01:25:42,600
+remember we're looking for the coefficient of theta squared
+
+2218
+01:25:42,600 --> 01:25:44,600
+that's all that counts in the Lagrangian
+
+2219
+01:25:44,600 --> 01:25:46,600
+is the theta squared term
+
+2220
+01:25:46,600 --> 01:25:48,600
+so let's see what we can find
+
+2221
+01:25:48,600 --> 01:25:50,600
+we can find a phi
+
+2222
+01:25:50,600 --> 01:25:52,600
+a
+
+2223
+01:25:52,600 --> 01:25:54,600
+let's see we can find
+
+2224
+01:25:54,600 --> 01:25:56,600
+a phi times a phi times an f
+
+2225
+01:25:56,600 --> 01:25:58,600
+so this phi times a phi
+
+2226
+01:25:58,600 --> 01:26:00,600
+is a
+
+2227
+01:26:00,600 --> 01:26:02,600
+so this is a
+
+2228
+01:26:02,600 --> 01:26:04,600
+a
+
+2229
+01:26:04,600 --> 01:26:06,600
+a
+
+2230
+01:26:06,600 --> 01:26:08,600
+a
+
+2231
+01:26:38,600 --> 01:26:40,600
+so that's phi times
+
+2232
+01:26:40,600 --> 01:26:42,600
+psi bar times psi bar
+
+2233
+01:26:42,600 --> 01:26:44,600
+how many terms like that
+
+2234
+01:26:44,600 --> 01:26:46,600
+I think there's also three is that right
+
+2235
+01:26:48,600 --> 01:26:50,600
+I think there's also three
+
+2236
+01:26:54,600 --> 01:26:56,600
+now first of all
+
+2237
+01:26:56,600 --> 01:26:58,600
+all times g
+
+2238
+01:26:58,600 --> 01:27:00,600
+all times the coupling constant g
+
+2239
+01:27:00,600 --> 01:27:02,600
+g is a coupling constant
+
+2240
+01:27:02,600 --> 01:27:04,600
+what is this term
+
+2241
+01:27:04,600 --> 01:27:06,600
+phi psi bar psi bar
+
+2242
+01:27:06,600 --> 01:27:08,600
+it's an interaction
+
+2243
+01:27:08,600 --> 01:27:10,600
+in which two fermions come in
+
+2244
+01:27:10,600 --> 01:27:12,600
+and one boson goes off
+
+2245
+01:27:12,600 --> 01:27:14,600
+or a fermion comes in
+
+2246
+01:27:14,600 --> 01:27:16,600
+and a boson goes off
+
+2247
+01:27:16,600 --> 01:27:18,600
+in other words it corresponds to a diagram
+
+2248
+01:27:18,600 --> 01:27:20,600
+with two fermions
+
+2249
+01:27:20,600 --> 01:27:22,600
+and a boson
+
+2250
+01:27:22,600 --> 01:27:24,600
+and it has a coefficient g
+
+2251
+01:27:30,600 --> 01:27:32,600
+it's an interaction
+
+2252
+01:27:32,600 --> 01:27:34,600
+it's going to create a lot of complicated Feynman diagrams
+
+2253
+01:27:34,600 --> 01:27:36,600
+these Feynman diagrams
+
+2254
+01:27:36,600 --> 01:27:38,600
+will become endlessly complicated
+
+2255
+01:27:38,600 --> 01:27:40,600
+what about this one over here
+
+2256
+01:27:40,600 --> 01:27:42,600
+three phi squared f
+
+2257
+01:27:42,600 --> 01:27:44,600
+okay three phi squared f
+
+2258
+01:27:44,600 --> 01:27:46,600
+let's forget the three
+
+2259
+01:27:46,600 --> 01:27:48,600
+the three is not the interesting thing here
+
+2260
+01:27:48,600 --> 01:27:50,600
+it gives us a g
+
+2261
+01:27:50,600 --> 01:27:52,600
+with two phi's
+
+2262
+01:27:52,600 --> 01:27:54,600
+and one of these
+
+2263
+01:27:54,600 --> 01:27:56,600
+f
+
+2264
+01:27:56,600 --> 01:27:58,600
+propagators here
+
+2265
+01:27:58,600 --> 01:28:00,600
+you're not allowed to have an f
+
+2266
+01:28:00,600 --> 01:28:02,600
+ending on nothing
+
+2267
+01:28:02,600 --> 01:28:04,600
+there's just no particle associated with it
+
+2268
+01:28:04,600 --> 01:28:06,600
+you've got to connect it up to something else
+
+2269
+01:28:06,600 --> 01:28:08,600
+the only other thing to connect it up to
+
+2270
+01:28:08,600 --> 01:28:10,600
+is another version of the same thing
+
+2271
+01:28:10,600 --> 01:28:12,600
+there's a vertex
+
+2272
+01:28:12,600 --> 01:28:14,600
+where two phi's become an f
+
+2273
+01:28:14,600 --> 01:28:16,600
+and there's a vertex
+
+2274
+01:28:16,600 --> 01:28:18,600
+where an f becomes two phi's
+
+2275
+01:28:18,600 --> 01:28:20,600
+what is this
+
+2276
+01:28:20,600 --> 01:28:22,600
+what kind of thing is this
+
+2277
+01:28:22,600 --> 01:28:24,600
+remember the f doesn't go anywhere
+
+2278
+01:28:24,600 --> 01:28:26,600
+it just really just corresponds
+
+2279
+01:28:26,600 --> 01:28:28,600
+to a local vertex
+
+2280
+01:28:28,600 --> 01:28:30,600
+where two phi's come in
+
+2281
+01:28:30,600 --> 01:28:32,600
+two phi's go out from the same place
+
+2282
+01:28:32,600 --> 01:28:34,600
+in other words
+
+2283
+01:28:34,600 --> 01:28:36,600
+it looks like phi to the fourth
+
+2284
+01:28:36,600 --> 01:28:38,600
+or really it's phi squared times phi star squared
+
+2285
+01:28:38,600 --> 01:28:42,600
+it's a Feynman diagram
+
+2286
+01:28:42,600 --> 01:28:44,600
+with four bosons coming in
+
+2287
+01:28:44,600 --> 01:28:46,600
+at a vertex
+
+2288
+01:28:46,600 --> 01:28:48,600
+and it has a g squared
+
+2289
+01:28:48,600 --> 01:28:50,600
+where did the g squared come from
+
+2290
+01:28:52,600 --> 01:28:54,600
+because there were two vertices
+
+2291
+01:28:54,600 --> 01:28:56,600
+one where the two phi's became an f
+
+2292
+01:28:56,600 --> 01:28:58,600
+and one where the f became two phi's
+
+2293
+01:28:58,600 --> 01:29:00,600
+alright so this thing got
+
+2294
+01:29:00,600 --> 01:29:02,600
+repeated twice
+
+2295
+01:29:02,600 --> 01:29:04,600
+and it's got a coefficient
+
+2296
+01:29:04,600 --> 01:29:06,600
+g squared
+
+2297
+01:29:06,600 --> 01:29:08,600
+notice the really the interesting thing
+
+2298
+01:29:08,600 --> 01:29:10,600
+here is
+
+2299
+01:29:10,600 --> 01:29:12,600
+we could have written down
+
+2300
+01:29:12,600 --> 01:29:14,600
+exactly these kind of things
+
+2301
+01:29:14,600 --> 01:29:16,600
+what has the supersymmetry done
+
+2302
+01:29:16,600 --> 01:29:18,600
+it has made the particles
+
+2303
+01:29:18,600 --> 01:29:20,600
+have exactly the same mass
+
+2304
+01:29:20,600 --> 01:29:22,600
+and it has related numerically
+
+2305
+01:29:22,600 --> 01:29:24,600
+the value of
+
+2306
+01:29:24,600 --> 01:29:26,600
+a
+
+2307
+01:29:26,600 --> 01:29:28,600
+one kind of coupling constant
+
+2308
+01:29:28,600 --> 01:29:30,600
+two fermions and a boson
+
+2309
+01:29:30,600 --> 01:29:32,600
+with another coupling constant
+
+2310
+01:29:32,600 --> 01:29:34,600
+which is four bosons
+
+2311
+01:29:34,600 --> 01:29:36,600
+and in fact it's told us that this vertex
+
+2312
+01:29:36,600 --> 01:29:38,600
+and this vertex
+
+2313
+01:29:38,600 --> 01:29:40,600
+is the square
+
+2314
+01:29:40,600 --> 01:29:42,600
+the coupling constant is the square of this one
+
+2315
+01:29:42,600 --> 01:29:44,600
+that's a tight constraint
+
+2316
+01:29:44,600 --> 01:29:46,600
+if you could do experiments
+
+2317
+01:29:46,600 --> 01:29:48,600
+with these particles
+
+2318
+01:29:48,600 --> 01:29:50,600
+you could check
+
+2319
+01:29:50,600 --> 01:29:52,600
+by scattering
+
+2320
+01:29:52,600 --> 01:29:54,600
+by decays and so forth
+
+2321
+01:29:54,600 --> 01:29:56,600
+whether the Feynman diagram
+
+2322
+01:29:56,600 --> 01:29:58,600
+for two bosons coming in
+
+2323
+01:29:58,600 --> 01:30:00,600
+and scattering
+
+2324
+01:30:00,600 --> 01:30:02,600
+is the same as the Feynman diagram
+
+2325
+01:30:02,600 --> 01:30:04,600
+for two fermions to come in
+
+2326
+01:30:04,600 --> 01:30:06,600
+and produce a boson
+
+2327
+01:30:06,600 --> 01:30:08,600
+that's the kind of thing that supersymmetry
+
+2328
+01:30:08,600 --> 01:30:10,600
+always does
+
+2329
+01:30:10,600 --> 01:30:12,600
+gives you equality of masses
+
+2330
+01:30:12,600 --> 01:30:14,600
+and relationships between
+
+2331
+01:30:14,600 --> 01:30:16,600
+different coupling constants
+
+2332
+01:30:16,600 --> 01:30:18,600
+now just before I finish
+
+2333
+01:30:18,600 --> 01:30:20,600
+let me just show you simply
+
+2334
+01:30:20,600 --> 01:30:22,600
+without actually doing any calculation
+
+2335
+01:30:22,600 --> 01:30:24,600
+but just
+
+2336
+01:30:24,600 --> 01:30:26,600
+what the implications
+
+2337
+01:30:26,600 --> 01:30:28,600
+of relationships
+
+2338
+01:30:28,600 --> 01:30:30,600
+between coupling constants like this are
+
+2339
+01:30:30,600 --> 01:30:32,600
+we've talked about it before
+
+2340
+01:30:32,600 --> 01:30:34,600
+but let's go through it carefully
+
+2341
+01:30:34,600 --> 01:30:36,600
+let's think about the self-energy diagram
+
+2342
+01:30:36,600 --> 01:30:38,600
+of the boson
+
+2343
+01:30:38,600 --> 01:30:40,600
+here's one self-energy diagram
+
+2344
+01:30:40,600 --> 01:30:42,600
+sort of the lowest order
+
+2345
+01:30:42,600 --> 01:30:44,600
+and another one
+
+2346
+01:30:44,600 --> 01:30:46,600
+is
+
+2347
+01:30:46,600 --> 01:30:48,600
+boson becomes a pair of fermions
+
+2348
+01:30:48,600 --> 01:30:50,600
+which become the boson again
+
+2349
+01:30:50,600 --> 01:30:52,600
+this is what you can make
+
+2350
+01:30:52,600 --> 01:30:54,600
+out of these vertices here
+
+2351
+01:30:54,600 --> 01:30:56,600
+the five-fourth vertex
+
+2352
+01:30:56,600 --> 01:30:58,600
+that's over here
+
+2353
+01:30:58,600 --> 01:31:00,600
+four phi's at a vertex
+
+2354
+01:31:00,600 --> 01:31:02,600
+and here's phi
+
+2355
+01:31:02,600 --> 01:31:04,600
+psi times psi
+
+2356
+01:31:04,600 --> 01:31:06,600
+what's the numerical coefficient
+
+2357
+01:31:06,600 --> 01:31:08,600
+that goes with this one
+
+2358
+01:31:08,600 --> 01:31:10,600
+g squared
+
+2359
+01:31:10,600 --> 01:31:12,600
+what's the numerical coefficient
+
+2360
+01:31:12,600 --> 01:31:14,600
+that goes with this one
+
+2361
+01:31:14,600 --> 01:31:16,600
+also g squared
+
+2362
+01:31:16,600 --> 01:31:18,600
+a g from here and a g from here
+
+2363
+01:31:18,600 --> 01:31:20,600
+now the rest of the calculation
+
+2364
+01:31:20,600 --> 01:31:22,600
+of course involves some calculation
+
+2365
+01:31:22,600 --> 01:31:24,600
+of the integrals for Feynman diagrams
+
+2366
+01:31:24,600 --> 01:31:26,600
+and so forth
+
+2367
+01:31:26,600 --> 01:31:28,600
+but
+
+2368
+01:31:28,600 --> 01:31:30,600
+you can imagine
+
+2369
+01:31:30,600 --> 01:31:32,600
+now that we carried that out
+
+2370
+01:31:32,600 --> 01:31:34,600
+I'm just showing you
+
+2371
+01:31:34,600 --> 01:31:36,600
+that the coefficients
+
+2372
+01:31:36,600 --> 01:31:38,600
+are the same
+
+2373
+01:31:38,600 --> 01:31:40,600
+the integrals are also the same
+
+2374
+01:31:40,600 --> 01:31:42,600
+the integrals are also the same
+
+2375
+01:31:42,600 --> 01:31:44,600
+and this persists to all orders
+
+2376
+01:31:44,600 --> 01:31:46,600
+every Feynman diagram
+
+2377
+01:31:46,600 --> 01:31:48,600
+no matter how complicated
+
+2378
+01:31:48,600 --> 01:31:50,600
+which may also have fermions in here
+
+2379
+01:31:50,600 --> 01:31:52,600
+there's always a collection
+
+2380
+01:31:52,600 --> 01:31:54,600
+of other Feynman diagrams
+
+2381
+01:31:54,600 --> 01:31:56,600
+which have exactly the same value
+
+2382
+01:31:56,600 --> 01:31:58,600
+except for the opposite sign
+
+2383
+01:31:58,600 --> 01:32:00,600
+and which cancel out
+
+2384
+01:32:00,600 --> 01:32:02,600
+the opposite sign
+
+2385
+01:32:02,600 --> 01:32:04,600
+you'll remember
+
+2386
+01:32:04,600 --> 01:32:06,600
+that fermion loops
+
+2387
+01:32:06,600 --> 01:32:08,600
+and boson loops
+
+2388
+01:32:08,600 --> 01:32:10,600
+have the opposite sign
+
+2389
+01:32:10,600 --> 01:32:12,600
+so this kind of construction
+
+2390
+01:32:12,600 --> 01:32:14,600
+while it's rather tedious
+
+2391
+01:32:14,600 --> 01:32:16,600
+long-winded
+
+2392
+01:32:16,600 --> 01:32:18,600
+and
+
+2393
+01:32:18,600 --> 01:32:20,600
+you know
+
+2394
+01:32:20,600 --> 01:32:22,600
+just takes forever to explain
+
+2395
+01:32:22,600 --> 01:32:24,600
+has a tremendous amount of power
+
+2396
+01:32:24,600 --> 01:32:26,600
+has a tremendous amount of power
+
+2397
+01:32:26,600 --> 01:32:28,600
+if your goal
+
+2398
+01:32:28,600 --> 01:32:30,600
+is to write down theories
+
+2399
+01:32:30,600 --> 01:32:32,600
+which have exact supersymmetry
+
+2400
+01:32:32,600 --> 01:32:34,600
+supersymmetry meaning
+
+2401
+01:32:34,600 --> 01:32:36,600
+a boson fermion exact symmetry
+
+2402
+01:32:36,600 --> 01:32:38,600
+now if you look at the
+
+2403
+01:32:38,600 --> 01:32:55,600
+the
+
+2404
+01:32:55,600 --> 01:32:57,600
+to tie up
+
+2405
+01:32:57,600 --> 01:32:59,600
+one of them is the breaking of supersymmetry
+
+2406
+01:32:59,600 --> 01:33:01,600
+supersymmetry is not a real symmetry of nature
+
+2407
+01:33:01,600 --> 01:33:03,600
+supersymmetry is not a real symmetry of nature
+
+2408
+01:33:03,600 --> 01:33:05,600
+and how that may happen
+
+2409
+01:33:05,600 --> 01:33:07,600
+what it does
+
+2410
+01:33:07,600 --> 01:33:08,600
+is that we have
+
+2411
+01:33:08,600 --> 01:33:10,600
+nothing to do with supersymmetry
+
+2412
+01:33:10,600 --> 01:33:24,600
+we have nothing to do with the
+
+2413
+01:33:24,600 --> 01:33:27,600
+the
+
+2414
+01:33:27,600 --> 01:33:29,600
+the
+
+2415
+01:33:29,600 --> 01:33:31,600
+the
+
+2416
+01:33:31,600 --> 01:33:33,600
+the
+
+2417
+01:33:33,600 --> 01:33:36,600
+the
+
+2418
+01:33:36,600 --> 01:33:38,930
+And then we'll talk a little
+
+2419
+01:33:38,930 --> 01:33:41,260
+bit about the unification of forces,
+
+2420
+01:33:41,900 --> 01:33:47,080
+SU3 cross SU2 cross U1, the standard model, becomes SU5,
+
+2421
+01:33:47,460 --> 01:33:51,160
+and how it is influenced by the supersymmetry.
+
+2422
+01:33:52,460 --> 01:33:55,960
+For more, please visit us at stanford.edu.
+
