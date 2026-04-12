@@ -1,0 +1,2431 @@
+# Transcript
+
+Source: supplementary/quantum_entanglement/2006_fall_part_3/061 - Lecture 6 ｜ Quantum Entanglements, Part 3 (Stanford) [YTGvPL2qbFI].mp4
+
+- [00:00:00,000 - 00:00:10,520] This program is brought to you by Stanford University.
+- [00:00:10,520 - 00:00:13,240] Please visit us at stanford.edu.
+- [00:00:16,200 - 00:00:17,720] All right, so we want to talk a
+- [00:00:17,720 - 00:00:19,240] little bit about the laws of nature and
+- [00:00:19,240 - 00:00:21,040] the form that the laws of nature take.
+- [00:00:22,560 - 00:00:26,280] Now, let me give you an
+- [00:00:26,280 - 00:00:30,000] example of a possible law of nature.
+- [00:00:30,000 - 00:00:34,080] Which is not a law of
+- [00:00:34,080 - 00:00:38,160] nature, but discuss what's wrong with it.
+- [00:00:40,160 - 00:00:41,200] So here's a law of nature.
+- [00:00:42,300 - 00:00:43,320] Particles collide.
+- [00:00:47,640 - 00:00:50,800] Here's my axes, x and y,
+- [00:00:50,800 - 00:00:53,960] fixed and permanent on the blackboard,
+- [00:00:53,960 - 00:00:55,720] or fixed and permanent in space.
+- [00:00:56,780 - 00:00:59,860] And the rule is particles will collide and
+- [00:00:59,860 - 00:00:59,980] go away, and then they'll go away.
+- [00:00:59,980 - 00:01:00,000] And then they'll go away.
+- [00:01:00,000 - 00:01:03,690] And then they'll go off in weird
+- [00:01:03,690 - 00:01:07,380] directions whenever their x coordinate is the same.
+- [00:01:08,120 - 00:01:10,130] Whenever the two particles, whenever
+- [00:01:10,130 - 00:01:12,140] their x coordinates become the same,
+- [00:01:12,480 - 00:01:13,940] they suddenly turn around or
+- [00:01:13,940 - 00:01:15,400] go off in some other direction.
+- [00:01:16,220 - 00:01:18,960] So, for example, if this particle is moving
+- [00:01:18,960 - 00:01:21,700] this way, and this one is moving this way,
+- [00:01:22,180 - 00:01:24,590] when they get to the same value
+- [00:01:24,590 - 00:01:27,000] of x, the rule is something happens.
+- [00:01:27,200 - 00:01:29,980] We needn't specify precisely what happens.
+- [00:01:29,980 - 00:01:32,010] Maybe they get turned around, or maybe
+- [00:01:32,010 - 00:01:34,040] they go off in some other direction.
+- [00:01:34,040 - 00:01:42,200] If they're moving like these two other particles,
+- [00:01:42,200 - 00:01:46,080] they're moving in some other direction,
+- [00:01:46,080 - 00:01:49,960] not horizontally, but they're moving this way.
+- [00:01:49,960 - 00:01:51,440] That one's moving this way,
+- [00:01:51,440 - 00:01:52,920] and this one's moving this way.
+- [00:01:52,920 - 00:01:54,980] Again, the rule is whenever
+- [00:01:54,980 - 00:01:57,040] their x coordinates become the same,
+- [00:01:57,040 - 00:01:59,100] they collide more and more.
+- [00:01:59,100 - 00:01:59,960] And then they're moving in different directions.
+- [00:01:59,960 - 00:02:01,960] They can go off and do something else.
+- [00:02:01,960 - 00:02:03,960] Well, that's a possible law of nature.
+- [00:02:03,960 - 00:02:05,960] It could have been like that.
+- [00:02:05,960 - 00:02:09,959] There's nothing mathematically inconsistent with it.
+- [00:02:09,959 - 00:02:11,959] But it just doesn't seem right.
+- [00:02:11,959 - 00:02:15,959] It seems to violate something that's deeply ingrained,
+- [00:02:15,959 - 00:02:17,959] both in physics and the laws
+- [00:02:17,959 - 00:02:19,959] of physics, and in our own intuition.
+- [00:02:19,959 - 00:02:21,959] What is it?
+- [00:02:21,959 - 00:02:23,959] What's the rule that's being violated?
+- [00:02:25,959 - 00:02:26,959] What?
+- [00:02:26,959 - 00:02:27,959] Homogeneity.
+- [00:02:27,959 - 00:02:29,940] Not homogeneity. No.
+- [00:02:29,940 - 00:02:30,940] Okay, good.
+- [00:02:30,940 - 00:02:32,940] It's not homogeneity.
+- [00:02:32,940 - 00:02:35,940] Homogeneity says that you can translate
+- [00:02:35,940 - 00:02:38,940] things, and they'll stay the same.
+- [00:02:38,940 - 00:02:41,940] That the laws of nature are independent of
+- [00:02:41,940 - 00:02:44,940] where you put the center of your coordinates.
+- [00:02:44,940 - 00:02:47,440] And this is independent of where
+- [00:02:47,440 - 00:02:49,940] you put the center of your coordinates.
+- [00:02:49,940 - 00:02:51,940] You didn't specify the x.
+- [00:02:51,940 - 00:02:53,940] Because you didn't specify the x.
+- [00:02:53,940 - 00:02:55,940] Yes, I didn't specify the x.
+- [00:02:55,940 - 00:02:57,940] I just told you whenever x becomes equal,
+- [00:02:57,940 - 00:02:59,940] they collide.
+- [00:02:59,940 - 00:03:01,940] So we could say it this way.
+- [00:03:01,940 - 00:03:03,940] If we have two particles,
+- [00:03:03,940 - 00:03:06,940] and they have coordinates, one called x1,
+- [00:03:06,940 - 00:03:09,940] and this is not the component of the coordinate,
+- [00:03:09,940 - 00:03:12,940] this is just labels which particle we're talking about.
+- [00:03:12,940 - 00:03:17,940] When x1 minus x of 2 become equal to 0,
+- [00:03:17,940 - 00:03:18,940] they collide.
+- [00:03:18,940 - 00:03:19,940] That's our rule.
+- [00:03:19,940 - 00:03:21,440] When the difference between the
+- [00:03:21,440 - 00:03:22,940] two x's are equal to 0,
+- [00:03:22,940 - 00:03:23,940] they collide.
+- [00:03:23,940 - 00:03:26,940] Well, that doesn't specify what particular value of x.
+- [00:03:26,940 - 00:03:28,440] It could be x way out here,
+- [00:03:28,440 - 00:03:29,940] it could be x way over there.
+- [00:03:29,940 - 00:03:32,940] They'll collide if we lift everything up vertically,
+- [00:03:32,940 - 00:03:35,940] they'll collide if we lift everything down vertically.
+- [00:03:35,940 - 00:03:39,940] So, in fact, it doesn't violate homogeneity of space.
+- [00:03:39,940 - 00:03:41,940] Space is everywhere is the same in this rule.
+- [00:03:41,940 - 00:03:42,940] Yeah?
+- [00:03:42,940 - 00:03:45,940] That means you can always find some coordinate where
+- [00:03:45,940 - 00:03:48,940] you can make them collide at any time you want.
+- [00:03:48,940 - 00:03:53,940] No, but the rule here is they always collide,
+- [00:03:53,940 - 00:03:56,940] and if and only if their x's are equal.
+- [00:03:56,940 - 00:03:57,940] Right.
+- [00:03:57,940 - 00:04:00,940] This violates the isotropy of space.
+- [00:04:00,940 - 00:04:06,940] It violates the idea that when you rotate coordinates,
+- [00:04:06,940 - 00:04:08,940] the laws of physics stay the same.
+- [00:04:08,940 - 00:04:11,940] That the laws of physics are the same
+- [00:04:11,940 - 00:04:14,940] and independent of the orientation of your axes.
+- [00:04:14,940 - 00:04:17,940] Not the place where you put your origin,
+- [00:04:17,940 - 00:04:19,940] but the orientation of your axes.
+- [00:04:19,940 - 00:04:22,940] So, for example, if I reoriented my axes,
+- [00:04:26,940 - 00:04:28,940] so that they look like,
+- [00:04:28,940 - 00:04:32,440] well, I'm going to reorient them
+- [00:04:32,440 - 00:04:35,940] so that this becomes the y coordinate.
+- [00:04:35,940 - 00:04:37,940] Let's see, the y coordinate now is over here,
+- [00:04:37,940 - 00:04:39,940] and the x coordinate is over here.
+- [00:04:39,940 - 00:04:41,940] I'm simply relabeling.
+- [00:04:41,940 - 00:04:43,940] It is a rotation of my
+- [00:04:43,940 - 00:04:45,940] coordinates, a rotation by 90 degrees.
+- [00:04:45,940 - 00:04:49,940] Then exactly the same physics will require us to
+- [00:04:49,940 - 00:04:53,940] say that particles collide when the y's are equal.
+- [00:04:53,940 - 00:04:55,940] Different law.
+- [00:04:55,940 - 00:04:59,940] Different form.
+- [00:04:59,940 - 00:05:02,940] If we oriented the axes
+- [00:05:02,940 - 00:05:05,940] in some awkward and arbitrary direction,
+- [00:05:05,940 - 00:05:08,940] then the law would become much more complicated.
+- [00:05:08,940 - 00:05:10,940] Some combination, they would only
+- [00:05:10,940 - 00:05:12,940] interact or they would only collide
+- [00:05:12,940 - 00:05:16,940] when some combination of the x's and y's were equal.
+- [00:05:16,940 - 00:05:20,940] So, what would be violated here is the law
+- [00:05:20,940 - 00:05:24,940] that says the laws of physics are the same
+- [00:05:24,940 - 00:05:30,940] in every coordinate system independent of the angles,
+- [00:05:30,940 - 00:05:33,940] or independent of the angle of the x axis.
+- [00:05:33,940 - 00:05:37,940] However, we do have to ensure that
+- [00:05:37,940 - 00:05:41,940] the coordinates are perpendicular to each other.
+- [00:05:41,940 - 00:05:44,940] There are things in the rules of physics which
+- [00:05:44,940 - 00:05:47,940] require us to use perpendicular coordinates to express the law.
+- [00:05:47,940 - 00:05:49,440] We can express the laws of
+- [00:05:49,440 - 00:05:50,940] physics in any coordinates we like,
+- [00:05:50,940 - 00:05:52,940] but they take a special and simple form.
+- [00:05:52,940 - 00:05:55,940] In coordinates for which the
+- [00:05:55,940 - 00:05:58,940] axes are perpendicular to each other.
+- [00:05:58,940 - 00:06:01,440] But the rule that says that it
+- [00:06:01,440 - 00:06:03,940] doesn't matter which way we orient our coordinates,
+- [00:06:03,940 - 00:06:05,440] it doesn't matter if I look at you this
+- [00:06:05,440 - 00:06:06,940] way or this way or this way or this way,
+- [00:06:06,940 - 00:06:09,940] the laws of physics should be the same,
+- [00:06:09,940 - 00:06:12,940] that's violated here.
+- [00:06:12,940 - 00:06:14,940] Let me give you an example of
+- [00:06:14,940 - 00:06:16,940] a law of physics which is not violated,
+- [00:06:16,940 - 00:06:20,940] which does not violate the rule that
+- [00:06:20,940 - 00:06:25,940] laws of physics should be the same.
+- [00:06:25,940 - 00:06:28,940] Rotational invariance. This is called rotational invariance.
+- [00:06:28,940 - 00:06:31,940] Invariance under rotation of axes.
+- [00:06:31,940 - 00:06:35,940] Let's require that particles only interact
+- [00:06:35,940 - 00:06:39,940] if both the x coordinates of the two particles
+- [00:06:39,940 - 00:06:45,940] and the y coordinates of the two particles are equal.
+- [00:06:45,940 - 00:06:47,940] In other words, if x1 equals
+- [00:06:47,940 - 00:06:49,940] x2 and if y1 equals y2,
+- [00:06:50,940 - 00:06:52,940] what does that say?
+- [00:06:52,940 - 00:06:55,940] That says that the particles collide with each other,
+- [00:06:55,940 - 00:06:57,940] whatever it is they do, maybe they turn around,
+- [00:06:57,940 - 00:07:01,940] I'm not going to specify exactly what they do,
+- [00:07:01,940 - 00:07:09,940] but the rule now would be they can only collide
+- [00:07:09,940 - 00:07:11,940] if they hit the same point.
+- [00:07:11,940 - 00:07:13,940] In other words, if both the x
+- [00:07:13,940 - 00:07:15,940] coordinate and the y coordinates are equal,
+- [00:07:15,940 - 00:07:16,940] then they collide.
+- [00:07:16,940 - 00:07:18,440] In fact, they don't even have
+- [00:07:18,440 - 00:07:19,940] to be moving along the same line.
+- [00:07:19,940 - 00:07:21,940] If a particle comes in along this axis
+- [00:07:21,940 - 00:07:23,940] and a particle comes in along this axis,
+- [00:07:23,940 - 00:07:26,940] and they find themselves at exactly the same point,
+- [00:07:26,940 - 00:07:28,940] then they collide.
+- [00:07:28,940 - 00:07:30,940] That would be a law of
+- [00:07:30,940 - 00:07:32,940] nature that would be the same,
+- [00:07:32,940 - 00:07:35,940] no matter how we orient our axes.
+- [00:07:35,940 - 00:07:37,940] If they collide when they come to the same point,
+- [00:07:37,940 - 00:07:41,940] then it doesn't matter whether we use this axis,
+- [00:07:41,940 - 00:07:43,940] whether we use this axis.
+- [00:07:43,940 - 00:07:48,940] And so this law of physics would be one
+- [00:07:48,940 - 00:07:51,940] which was invariant under rotations,
+- [00:07:51,940 - 00:07:53,940] would be the same no matter
+- [00:07:53,940 - 00:07:55,940] what orientation we chose for our axes.
+- [00:07:55,940 - 00:08:00,940] I am not, for the moment I'm just ignoring time.
+- [00:08:00,940 - 00:08:02,940] For the moment, yeah, of course we do,
+- [00:08:02,940 - 00:08:04,940] but I was about to come to that.
+- [00:08:04,940 - 00:08:05,940] Okay.
+- [00:08:07,940 - 00:08:09,940] If there's a z coordinate, yes.
+- [00:08:09,940 - 00:08:11,940] If there's a z coordinate, yes.
+- [00:08:11,940 - 00:08:14,940] Right, so, exactly so.
+- [00:08:14,940 - 00:08:17,940] And if space is three dimensional,
+- [00:08:17,940 - 00:08:20,940] if z of one is equal to z of two,
+- [00:08:20,940 - 00:08:23,940] if and only if these conditions are satisfied,
+- [00:08:23,940 - 00:08:26,940] then two particles will close.
+- [00:08:26,940 - 00:08:28,940] Come to time in a minute.
+- [00:08:28,940 - 00:08:31,440] All right, we can re-express this
+- [00:08:31,440 - 00:08:33,940] in a single equation using vectors.
+- [00:08:33,940 - 00:08:36,440] We think of the position
+- [00:08:36,440 - 00:08:38,940] of a particle as a vector.
+- [00:08:38,940 - 00:08:41,940] Let's call that position r.
+- [00:08:41,940 - 00:08:43,440] I put a little arrow
+- [00:08:43,440 - 00:08:44,940] on top to indicate a vector,
+- [00:08:44,940 - 00:08:46,940] but now I mean a three dimensional vector
+- [00:08:46,940 - 00:08:48,940] in ordinary space.
+- [00:08:48,940 - 00:08:50,940] No time for the moment.
+- [00:08:50,940 - 00:08:52,940] We'll come back to time in a minute.
+- [00:08:52,940 - 00:08:55,940] All right, we can write this as one equation.
+- [00:08:55,940 - 00:09:00,940] We can write it that the particle collides only
+- [00:09:00,940 - 00:09:03,940] if r one is equal to r two,
+- [00:09:03,940 - 00:09:06,940] or r one minus r
+- [00:09:06,940 - 00:09:09,940] of two is equal to zero.
+- [00:09:09,940 - 00:09:12,940] And this equation implies all components
+- [00:09:12,940 - 00:09:15,940] of r should be equal to zero.
+- [00:09:15,940 - 00:09:17,940] It's a vector equation.
+- [00:09:17,940 - 00:09:18,940] It's a vector equation.
+- [00:09:18,940 - 00:09:21,940] It has three components,
+- [00:09:21,940 - 00:09:24,940] and it's rotationally invariant.
+- [00:09:24,940 - 00:09:25,940] Okay.
+- [00:09:25,940 - 00:09:27,940] Here's a fact.
+- [00:09:27,940 - 00:09:29,940] If a vector is zero,
+- [00:09:29,940 - 00:09:30,940] and this vector is zero,
+- [00:09:30,940 - 00:09:32,940] this is the rule.
+- [00:09:32,940 - 00:09:34,940] Particles collide when a certain vector is zero.
+- [00:09:34,940 - 00:09:36,940] If a vector is zero,
+- [00:09:36,940 - 00:09:39,940] it's zero in every coordinate system.
+- [00:09:39,940 - 00:09:42,940] In other words, if all components,
+- [00:09:42,940 - 00:09:44,940] a vector being zero means all of its components
+- [00:09:44,940 - 00:09:46,940] are equal to zero.
+- [00:09:46,940 - 00:09:48,440] If all of the components of
+- [00:09:48,440 - 00:09:49,940] a vector are equal to zero,
+- [00:09:49,940 - 00:09:52,940] that's true in every coordinate system.
+- [00:09:52,940 - 00:09:55,440] If one or two components of
+- [00:09:55,440 - 00:09:57,940] the vector is equal to zero,
+- [00:09:57,940 - 00:09:59,940] and the other one is not,
+- [00:09:59,940 - 00:10:01,940] then that is not something which
+- [00:10:01,940 - 00:10:03,940] is true in every coordinate system.
+- [00:10:03,940 - 00:10:05,940] For example,
+- [00:10:05,940 - 00:10:09,940] here's a vector whose x component is equal to zero.
+- [00:10:09,940 - 00:10:11,940] Right?
+- [00:10:11,940 - 00:10:13,940] In some other coordinate system,
+- [00:10:13,940 - 00:10:16,440] the x component of that
+- [00:10:16,440 - 00:10:18,940] vector is not equal to zero.
+- [00:10:18,940 - 00:10:20,940] So a law,
+- [00:10:20,940 - 00:10:21,940] or a rule,
+- [00:10:21,940 - 00:10:23,940] that would say this or that happens
+- [00:10:23,940 - 00:10:25,940] when a certain x component of
+- [00:10:25,940 - 00:10:27,940] a vector is equal to zero,
+- [00:10:27,940 - 00:10:31,940] that law will not in general be rotationally invariant.
+- [00:10:31,940 - 00:10:32,940] On the other hand,
+- [00:10:32,940 - 00:10:34,940] if we have a vector which is equal to zero,
+- [00:10:34,940 - 00:10:37,940] that means that it has no length at all,
+- [00:10:37,940 - 00:10:42,940] or that it's just a vector of zero length,
+- [00:10:42,940 - 00:10:44,940] just the origin,
+- [00:10:44,940 - 00:10:48,940] then that vector is zero in every coordinate system,
+- [00:10:48,940 - 00:10:50,940] no matter how we rotate it.
+- [00:10:52,940 - 00:10:54,940] That's why we express laws
+- [00:10:54,940 - 00:10:56,940] of nature in terms of vectors.
+- [00:10:56,940 - 00:10:58,440] That's why we choose to
+- [00:10:58,440 - 00:10:59,940] express them in terms of vectors.
+- [00:10:59,940 - 00:11:03,940] And the advantage of a vector description,
+- [00:11:03,940 - 00:11:06,940] vectors transform in a certain way.
+- [00:11:06,940 - 00:11:09,940] They transform when you rotate coordinates,
+- [00:11:09,940 - 00:11:11,940] the components of vectors change,
+- [00:11:11,940 - 00:11:13,940] they transform,
+- [00:11:13,940 - 00:11:18,940] but all vectors transform the same way when you rotate.
+- [00:11:18,940 - 00:11:20,440] So if a vector is
+- [00:11:20,440 - 00:11:21,940] equal to zero in one frame,
+- [00:11:21,940 - 00:11:24,940] it's equal to zero in another frame.
+- [00:11:24,940 - 00:11:27,940] If two vectors are equal in one frame,
+- [00:11:27,940 - 00:11:29,940] they are equal in any frame.
+- [00:11:29,940 - 00:11:31,940] And that's why we express,
+- [00:11:31,940 - 00:11:33,940] that is the reason that we
+- [00:11:33,940 - 00:11:35,940] express physics in terms of vectors,
+- [00:11:35,940 - 00:11:37,940] because we know that when we
+- [00:11:37,940 - 00:11:39,940] express it properly in terms of vectors,
+- [00:11:39,940 - 00:11:41,940] then the rules are in place.
+- [00:11:41,940 - 00:11:45,440] And that's why we keep our variables
+- [00:11:45,440 - 00:11:48,940] independent of the orientation of our axes.
+- [00:11:48,940 - 00:11:49,940] Now let's come to time.
+- [00:11:49,940 - 00:11:51,940] What about time?
+- [00:11:51,940 - 00:11:53,940] We could,
+- [00:11:53,940 - 00:11:57,940] let's let the horizontal axis be x again,
+- [00:11:57,940 - 00:12:01,940] but now let the vertical axis be time,
+- [00:12:01,940 - 00:12:03,940] x and t.
+- [00:12:03,940 - 00:12:05,940] Now,
+- [00:12:05,940 - 00:12:06,940] again,
+- [00:12:06,940 - 00:12:07,940] I could have a rule which says,
+- [00:12:07,940 - 00:12:09,940] particles collide
+- [00:12:09,940 - 00:12:11,940] when
+- [00:12:11,940 - 00:12:18,120] Well, let's see.
+- [00:12:18,120 - 00:12:21,770] Particle collisions take place only when the
+- [00:12:21,770 - 00:12:25,420] time of the two particles is the same.
+- [00:12:25,420 - 00:12:26,780] What would that mean?
+- [00:12:26,780 - 00:12:29,430] That would mean that it's
+- [00:12:29,430 - 00:12:32,080] possible for two particles to collide.
+- [00:12:32,080 - 00:12:34,170] This indicates a particle going forward and
+- [00:12:34,170 - 00:12:36,260] then going backward, so it's moving along
+- [00:12:36,260 - 00:12:40,480] the x-axis, it's moving along, moving back along the x-axis.
+- [00:12:40,480 - 00:12:43,860] It's possible for particles to collide like
+- [00:12:43,860 - 00:12:47,240] that when the two times are equal.
+- [00:12:47,240 - 00:12:51,360] It's possible for them to collide at a later
+- [00:12:51,360 - 00:12:55,480] time, as long as the two times are equal.
+- [00:12:55,480 - 00:12:57,630] Collide means both of
+- [00:12:57,630 - 00:12:59,780] their velocities simultaneously change.
+- [00:12:59,780 - 00:13:01,910] That's what I mean by collide,
+- [00:13:01,910 - 00:13:04,040] that their velocities simultaneously change, but always
+- [00:13:04,040 - 00:13:08,540] at the same time.
+- [00:13:08,540 - 00:13:10,460] That's a perfectly good law of physics.
+- [00:13:10,460 - 00:13:13,160] It's a true law of physics in Newtonian physics.
+- [00:13:13,160 - 00:13:15,430] And in fact, it is even a
+- [00:13:15,430 - 00:13:17,700] true law of physics in Newtonian physics.
+- [00:13:17,700 - 00:13:19,810] Well, it is a true,
+- [00:13:19,810 - 00:13:21,920] it's a possible law of physics.
+- [00:13:21,920 - 00:13:26,560] Particles collide only, their velocities change
+- [00:13:26,560 - 00:13:31,200] simultaneously if they change at all.
+- [00:13:31,200 - 00:13:33,360] It's not a possible law in the special
+- [00:13:33,360 - 00:13:35,520] theory of relativity, and the reason is because of
+- [00:13:35,520 - 00:13:39,460] the idea of simultaneity, it is not invariant.
+- [00:13:39,460 - 00:13:39,960] So if I had a law of Newtonian
+- [00:13:39,960 - 00:13:40,460] physics, I would have a law of relativity.
+- [00:13:40,460 - 00:13:42,080] I would have a law of relativity that
+- [00:13:42,080 - 00:13:43,700] said that two particles collide in one particular
+- [00:13:43,700 - 00:13:49,340] frame, in your frame, only when the times are equal.
+- [00:13:49,340 - 00:13:53,050] Then in some other frame of reference, this
+- [00:13:53,050 - 00:13:56,760] frame of reference here, the times of collision
+- [00:13:56,760 - 00:13:58,950] would not be the same, and we would
+- [00:13:58,950 - 00:14:01,140] come to the conclusion that the relativity principle
+- [00:14:01,140 - 00:14:03,270] was not correct, that the laws of physics
+- [00:14:03,270 - 00:14:05,400] are not the same in all reference frames.
+- [00:14:05,400 - 00:14:07,800] There's one particular reference frame
+- [00:14:07,800 - 00:14:10,200] in which particle collisions take place.
+- [00:14:10,460 - 00:14:14,700] At equal times.
+- [00:14:14,700 - 00:14:17,280] And in other frames of reference, it's
+- [00:14:17,280 - 00:14:19,860] a more complicated story in which some combination
+- [00:14:19,860 - 00:14:21,700] of x and t's have to be equal.
+- [00:14:21,700 - 00:14:24,460] All right, that's not the way physics works.
+- [00:14:24,460 - 00:14:27,800] The way physics works is Lorentz invariant.
+- [00:14:27,800 - 00:14:30,900] Lorentz invariant means, again, that the laws of
+- [00:14:30,900 - 00:14:34,000] physics are the same in all reference frames
+- [00:14:34,000 - 00:14:36,880] moving one with respect to the other.
+- [00:14:36,880 - 00:14:39,460] What does that entail about simple particle collisions?
+- [00:14:39,460 - 00:14:40,460] Very simple.
+- [00:14:40,460 - 00:14:42,460] What do you mean by simple particle collisions?
+- [00:14:42,460 - 00:14:44,710] Well, for very simple particle collision,
+- [00:14:44,710 - 00:14:46,960] the simplest kind of particle collision, particles
+- [00:14:46,960 - 00:14:49,270] collide, they don't produce any other particles,
+- [00:14:49,270 - 00:14:51,580] not very much happens, they just bang into
+- [00:14:51,580 - 00:14:53,580] each other and they go off.
+- [00:14:53,580 - 00:14:57,450] That implies that collisions can only take
+- [00:14:57,450 - 00:15:01,320] place when the two particles find themselves
+- [00:15:01,320 - 00:15:04,660] at the same spacetime point.
+- [00:15:04,660 - 00:15:07,060] In other words, not only when their
+- [00:15:07,060 - 00:15:09,460] times are equal, but when they're persistent.
+- [00:15:09,460 - 00:15:12,460] But when their positions are also equal.
+- [00:15:12,460 - 00:15:15,810] If two particles only collide when they're at
+- [00:15:15,810 - 00:15:19,160] the same event, the same point of spacetime,
+- [00:15:19,160 - 00:15:24,520] then it doesn't matter which coordinates you use.
+- [00:15:24,520 - 00:15:30,060] Being at the same spacetime point is an invariant concept.
+- [00:15:30,060 - 00:15:31,840] So that's a good law of physics from
+- [00:15:31,840 - 00:15:33,620] the point of view of relativity theory, that particles
+- [00:15:33,620 - 00:15:35,040] collide not just when they're at the same
+- [00:15:35,040 - 00:15:36,460] position in space, but also only when they're
+- [00:15:36,460 - 00:15:37,460] at the same point in space.
+- [00:15:37,460 - 00:15:38,460] So it's a good law of physics.
+- [00:15:38,460 - 00:15:43,280] But also only at the same time.
+- [00:15:43,280 - 00:15:45,480] That also can be expressed
+- [00:15:45,480 - 00:15:47,680] in a kind of vector notation.
+- [00:15:47,680 - 00:15:52,610] If we represent the location of a particle,
+- [00:15:52,610 - 00:15:57,540] or a location of a point along a particle
+- [00:15:57,540 - 00:16:02,230] trajectory by a four vector, the four vector now
+- [00:16:02,230 - 00:16:06,920] has not only components x, y, and z, but
+- [00:16:06,920 - 00:16:08,260] it also has a component t.
+- [00:16:08,460 - 00:16:12,410] Then we would add in one more equation
+- [00:16:12,410 - 00:16:16,360] here, that the particles can only collide at an
+- [00:16:16,360 - 00:16:20,320] event, and that event has to have
+- [00:16:20,320 - 00:16:24,280] the same location in space and in time.
+- [00:16:24,280 - 00:16:27,180] Now you can say very much the same
+- [00:16:27,180 - 00:16:30,080] words about spacetime that I just said about space.
+- [00:16:30,080 - 00:16:33,680] If a vector in spacetime, if a vector in spacetime,
+- [00:16:33,680 - 00:16:37,280] if a vector in spacetime, if a vector in spacetime,
+- [00:16:38,460 - 00:16:42,180] has one or two or three components which
+- [00:16:42,180 - 00:16:45,900] are equal, sorry, which are equal to zero,
+- [00:16:45,900 - 00:16:48,890] if a vector has space component equal
+- [00:16:48,890 - 00:16:51,880] to zero, that doesn't mean it's zero.
+- [00:16:51,880 - 00:16:53,420] It can have a time component.
+- [00:16:53,420 - 00:16:55,660] Here's a vector which has a
+- [00:16:55,660 - 00:16:57,900] time component but no space component.
+- [00:16:57,900 - 00:17:00,790] If I have some law of physics that
+- [00:17:00,790 - 00:17:03,680] says nothing more than something or other happens when
+- [00:17:03,680 - 00:17:06,020] the space components of a vector are
+- [00:17:06,020 - 00:17:08,359] equal to zero, that's not Lorentz invariant.
+- [00:17:08,460 - 00:17:13,019] And the reason is because in some other
+- [00:17:13,019 - 00:17:17,579] frame of reference, the x's of these two points
+- [00:17:17,579 - 00:17:19,440] are not the same.
+- [00:17:19,440 - 00:17:22,660] The x's of these two points are not the
+- [00:17:22,660 - 00:17:25,880] same in some other frame of reference, and so saying
+- [00:17:25,880 - 00:17:28,180] that something special happens when the x components
+- [00:17:28,180 - 00:17:30,480] or the y components or the z components
+- [00:17:30,480 - 00:17:32,420] of a vector are equal to
+- [00:17:32,420 - 00:17:34,360] zero, that can't be Lorentz invariant.
+- [00:17:34,360 - 00:17:38,180] The only Lorentz invariant statement that you can make,
+- [00:17:38,180 - 00:17:41,060] concerning a rule about a vector, is that all
+- [00:17:41,060 - 00:17:43,940] of its components have to be equal to zero.
+- [00:17:43,940 - 00:17:46,870] If in some frame of reference, if the
+- [00:17:46,870 - 00:17:49,800] law of nature is that some components equal zero,
+- [00:17:49,800 - 00:17:52,060] then it had better be all of them.
+- [00:17:52,060 - 00:17:53,460] Why?
+- [00:17:53,460 - 00:17:57,530] Because if you rotate or Lorentz transform
+- [00:17:57,530 - 00:18:01,600] your coordinates, you will find an inconsistency
+- [00:18:01,600 - 00:18:03,660] unless you require all of the
+- [00:18:03,660 - 00:18:05,720] components to be equal to zero.
+- [00:18:05,720 - 00:18:06,820] So as I said,
+- [00:18:06,820 - 00:18:08,160] a law of physics could be,
+- [00:18:08,160 - 00:18:14,220] that all four components of the location of two events,
+- [00:18:14,220 - 00:18:15,620] what are the two events?
+- [00:18:15,620 - 00:18:17,780] The two events are the
+- [00:18:17,780 - 00:18:19,940] sudden turning around of one particle,
+- [00:18:19,940 - 00:18:22,880] and the sudden turning around of another particle.
+- [00:18:22,880 - 00:18:26,240] Those are both events.
+- [00:18:26,240 - 00:18:28,980] This law of physics would tell us that
+- [00:18:28,980 - 00:18:31,720] this event, the two events, could only happen if
+- [00:18:31,720 - 00:18:35,340] they were at the same spacetime point.
+- [00:18:35,340 - 00:18:38,160] So we express laws of physics in terms of,
+- [00:18:38,160 - 00:18:40,840] four vectors,
+- [00:18:40,840 - 00:18:48,040] or objects which transform in a particular coherent way.
+- [00:18:48,040 - 00:18:50,140] Four vectors transform,
+- [00:18:50,140 - 00:18:52,900] the components transform into each other.
+- [00:18:52,900 - 00:18:56,000] We've seen for example that under Lorentz transformations,
+- [00:18:56,000 - 00:18:58,450] x and t for example
+- [00:18:58,450 - 00:19:00,900] get mixed up with each other,
+- [00:19:00,900 - 00:19:02,580] but they get mixed up with
+- [00:19:02,580 - 00:19:04,260] each other in such a way,
+- [00:19:04,260 - 00:19:05,710] that if all the components are
+- [00:19:05,710 - 00:19:07,160] equal to zero in one frame,
+- [00:19:08,160 - 00:19:10,720] they get mixed up with zero in another frame.
+- [00:19:10,720 - 00:19:13,800] So we express laws of physics
+- [00:19:13,800 - 00:19:16,880] in terms of objects which transform,
+- [00:19:16,880 - 00:19:18,380] and we always require,
+- [00:19:18,380 - 00:19:22,540] either we transpose everything to the left hand side,
+- [00:19:22,540 - 00:19:26,580] and say that its components are a four vector,
+- [00:19:26,580 - 00:19:28,720] transform is a four vector,
+- [00:19:28,720 - 00:19:30,320] and must be equal to zero,
+- [00:19:30,320 - 00:19:34,100] or sometimes we might express the laws of physics as an
+- [00:19:34,100 - 00:19:37,880] equation with the left hand side and the right hand side,
+- [00:19:37,880 - 00:19:40,360] and we do that by saying that,
+- [00:19:40,360 - 00:19:42,720] x of two,
+- [00:19:42,720 - 00:19:44,280] y of two,
+- [00:19:44,280 - 00:19:46,440] z of two,
+- [00:19:46,440 - 00:19:49,060] t of two,
+- [00:19:49,060 - 00:19:51,460] we express this particular form
+- [00:19:51,460 - 00:19:53,860] as expressing a certain rule,
+- [00:19:53,860 - 00:19:55,530] by saying that two four
+- [00:19:55,530 - 00:19:57,200] vectors are equal to each other.
+- [00:19:57,200 - 00:19:59,460] Not that some four vector is equal to zero,
+- [00:19:59,460 - 00:20:02,400] but a certain four vector associated with one event,
+- [00:20:02,400 - 00:20:04,070] is equal to a four
+- [00:20:04,070 - 00:20:05,740] vector associated with the other event.
+- [00:20:05,740 - 00:20:07,500] So sometimes we express them by setting something to zero,
+- [00:20:07,500 - 00:20:10,220] sometimes we express something by expressing a
+- [00:20:10,220 - 00:20:12,940] left hand side equals a right hand side,
+- [00:20:12,940 - 00:20:16,700] but the equations only make sense,
+- [00:20:16,700 - 00:20:18,820] in this particular kind of case,
+- [00:20:18,820 - 00:20:22,240] if they're whole expressions for entire four vectors,
+- [00:20:22,240 - 00:20:26,120] not just for pieces of a four vector.
+- [00:20:26,120 - 00:20:28,570] Four vectors are of course
+- [00:20:28,570 - 00:20:31,020] things which transform under Lorentz transformations,
+- [00:20:31,020 - 00:20:34,660] the same way that x, y, z, and t do.
+- [00:20:34,660 - 00:20:37,020] So let's define a four vector.
+- [00:20:37,500 - 00:20:44,500] It's an object with four components,
+- [00:20:44,500 - 00:20:50,040] one for each direction of space,
+- [00:20:50,040 - 00:20:51,040] and one for time,
+- [00:20:51,040 - 00:20:53,040] and it transforms,
+- [00:20:53,040 - 00:20:54,780] what does it mean to transform?
+- [00:20:54,780 - 00:20:56,760] It means its value as
+- [00:20:56,760 - 00:20:58,740] measured in different reference frames,
+- [00:20:58,740 - 00:20:59,740] transforms,
+- [00:20:59,740 - 00:21:02,880] so that if I know it in one reference frame,
+- [00:21:02,880 - 00:21:04,950] I can give you the rule
+- [00:21:04,950 - 00:21:07,020] for computing it in another reference frame.
+- [00:21:07,500 - 00:21:11,820] For example, position, velocity, and so forth,
+- [00:21:11,820 - 00:21:14,580] transform from one Lorentz frame to another.
+- [00:21:14,580 - 00:21:18,320] Position, we know how that transforms.
+- [00:21:18,320 - 00:21:23,680] Let's take the case of first a Lorentz transformation,
+- [00:21:23,680 - 00:21:26,700] where x equals x minus v,t,
+- [00:21:26,700 - 00:21:30,880] y, this is x prime, equals x minus v,t,
+- [00:21:30,880 - 00:21:33,080] over square root of one minus v squared.
+- [00:21:33,080 - 00:21:34,730] Incidentally, the notation, I keep writing square
+- [00:21:34,730 - 00:21:36,380] root of one minus v,t, but it's okay,
+- [00:21:36,380 - 00:21:36,870] it's not even a second
+- [00:21:36,870 - 00:21:37,360] equation, it's a fundamental solution.
+- [00:21:37,500 - 00:21:40,880] squared in the denominator here. There's a
+- [00:21:40,880 - 00:21:44,260] standard notation, gamma is equal to 1
+- [00:21:44,260 - 00:21:48,000] over the square root of 1 minus v
+- [00:21:48,000 - 00:21:51,740] squared, gamma of v, gamma of v. It saves
+- [00:21:51,740 - 00:21:54,520] writing. There's nothing deep about it,
+- [00:21:54,520 - 00:21:57,300] it's just a way of rewriting, so
+- [00:21:57,300 - 00:22:02,120] another way to write this is that it's
+- [00:22:02,120 - 00:22:06,940] gamma times x minus vt. Okay, what else?
+- [00:22:06,940 - 00:22:11,200] y prime, say it again? Yeah, yeah, yeah, c is
+- [00:22:11,200 - 00:22:15,460] equal to 1. If we want to put c back
+- [00:22:15,460 - 00:22:20,410] into the formulas, we put it down here.
+- [00:22:20,410 - 00:22:25,360] Alright, c is equal to 1. y prime is
+- [00:22:25,360 - 00:22:30,770] equal to y, z prime is equal to z, and
+- [00:22:30,770 - 00:22:36,180] t prime is equal to t minus vx divided by
+- [00:22:36,180 - 00:22:36,680] y.
+- [00:22:36,940 - 00:22:40,910] So we have root 1 minus v squared,
+- [00:22:40,910 - 00:22:44,880] or gamma times t minus vx. This is the
+- [00:22:44,880 - 00:22:49,210] transformation properties of coordinates
+- [00:22:49,210 - 00:22:53,540] of an event. Other transformation
+- [00:22:53,540 - 00:22:55,930] properties involve rotations of space.
+- [00:22:55,930 - 00:22:58,320] Let me write down the transformations
+- [00:22:58,320 - 00:23:00,250] associated rotations of space. Rotations of
+- [00:23:00,250 - 00:23:02,180] space are given, here's an example.
+- [00:23:02,180 - 00:23:04,560] There are many, many axes that you
+- [00:23:04,560 - 00:23:06,940] can rotate about, but if I just rotate
+- [00:23:06,940 - 00:23:10,440] about the z axis, vertically is the z
+- [00:23:10,440 - 00:23:13,940] axis, I rotate my coordinates, x and y get
+- [00:23:13,940 - 00:23:17,280] mixed up with each other. Z does not
+- [00:23:17,280 - 00:23:20,620] get mixed into it, and neither does time. If
+- [00:23:20,620 - 00:23:23,620] all I do is rotate my, my
+- [00:23:23,620 - 00:23:26,620] coordinate axes, then the equations would look not,
+- [00:23:26,620 - 00:23:30,190] not totally dissimilar to this. Well, not
+- [00:23:30,190 - 00:23:33,760] so, not totally similar either, but they
+- [00:23:33,760 - 00:23:34,340] would look like this. X prime is equal to, z is equal to two, and t is equal to z, and t is
+- [00:23:34,340 - 00:23:34,920] equal to t. over and over, times t, and t is equal to t, and t is equal to t. over and over.
+- [00:23:36,940 - 00:23:41,230] equal to x times cosine of an angle plus
+- [00:23:41,230 - 00:23:45,520] y times sine of an angle. Let's put in
+- [00:23:45,520 - 00:23:49,290] here plus 0 times z plus 0 times t,
+- [00:23:49,290 - 00:23:53,060] just to remember that z and t are also
+- [00:23:53,060 - 00:23:59,070] part of the game. y prime is equal to
+- [00:23:59,070 - 00:24:05,080] minus y, minus x, sorry, minus x cosine theta,
+- [00:24:05,080 - 00:24:12,910] no, minus x sine theta, minus x sine theta,
+- [00:24:12,910 - 00:24:20,740] plus y cosine theta, plus 0 z plus 0 t.
+- [00:24:20,740 - 00:24:24,309] z prime is equal to z. I'm stacking
+- [00:24:24,309 - 00:24:27,879] things equal to z. I'm stacking things up so
+- [00:24:27,879 - 00:24:30,429] that x always appears in the same place,
+- [00:24:30,429 - 00:24:32,980] y always appears in the same place, z
+- [00:24:32,980 - 00:24:34,780] always appears in the same place.
+- [00:24:34,780 - 00:24:35,060] We would have to do that again.
+- [00:24:35,080 - 00:24:39,020] We would write 0x plus 0y plus z plus
+- [00:24:39,020 - 00:24:42,960] 0t. I'm being pedantic by putting in all these
+- [00:24:42,960 - 00:24:50,240] zeros here. And finally, t prime is equal to
+- [00:24:50,240 - 00:24:57,520] t, with all the others being 0, and so
+- [00:24:57,520 - 00:25:01,150] forth. This tells me how things
+- [00:25:01,150 - 00:25:04,780] transform under a rotation about the z-axis.
+- [00:25:04,780 - 00:25:07,050] This tells me how they
+- [00:25:07,050 - 00:25:09,320] transform under a Lorentz transformation.
+- [00:25:10,200 - 00:25:10,460] There are similar kinds of equations. In
+- [00:25:10,460 - 00:25:10,720] each case, they're linear equations of a form,
+- [00:25:10,720 - 00:25:16,030] of a particular form. A matrix is involved.
+- [00:25:16,030 - 00:25:21,340] So I wanted to write this in matrix form.
+- [00:25:21,340 - 00:25:24,080] I think I wrote that last time in
+- [00:25:24,080 - 00:25:26,820] matrix form. In each case, they're linear equations which
+- [00:25:26,820 - 00:25:28,270] have the form x prime mu. Now, mu
+- [00:25:28,270 - 00:25:29,720] goes from they were from the inflammation by example,
+- [00:25:29,720 - 00:25:30,960] x-prime mu theseражions we have formed X prime mu
+- [00:25:30,960 - 00:25:32,200] now mu goes from t here. Qu County means
+- [00:25:32,200 - 00:25:32,410] T problem. We already know what T is. So without
+- [00:25:32,410 - 00:25:32,620] that I know what t is. So that's just the realization
+- [00:25:32,620 - 00:25:33,370] we have of the equation. But because big rechtization is
+- [00:25:33,370 - 00:25:34,120] work and process, this is what WOODHER gets better and
+- [00:25:34,120 - 00:25:40,240] 1, 2, 3, and 0. 1, 2, 3, and 0. 1
+- [00:25:40,240 - 00:25:46,360] means X, 2 means Y, 3 means Z, and 0 means time.
+- [00:25:46,360 - 00:25:52,730] Thereof the form X prime is equal to
+- [00:25:52,730 - 00:25:59,100] some matrix mu nu times X nu. For example,
+- [00:25:59,100 - 00:26:02,509] let me write down the matrix
+- [00:26:02,509 - 00:26:05,919] governing the Lorentz transformation. In that case,
+- [00:26:05,919 - 00:26:08,569] the matrix... Let's make some
+- [00:26:08,569 - 00:26:11,219] notation. The first column will
+- [00:26:11,219 - 00:26:14,049] stand for X, the second column will stand
+- [00:26:14,049 - 00:26:16,879] for Y, the third column for Z, and the
+- [00:26:16,879 - 00:26:19,709] fourth column for T, or the zeroth column.
+- [00:26:19,709 - 00:26:22,540] And same with rows X, Y, Z. I'm just
+- [00:26:22,540 - 00:26:25,729] labeling now the entries. Okay, what are
+- [00:26:25,729 - 00:26:28,919] the entries here? Well, from here you can
+- [00:26:28,919 - 00:26:29,060] see...
+- [00:26:29,100 - 00:26:36,350] that x prime is equal to gamma x, so
+- [00:26:36,350 - 00:26:43,600] there's a gamma over here, there's a minus v gamma
+- [00:26:43,600 - 00:26:46,300] over here, and a zero zero.
+- [00:26:47,360 - 00:26:51,129] That indicates that y and z don't come into
+- [00:26:51,129 - 00:26:54,899] this equation, but there's a gamma x and a
+- [00:26:54,900 - 00:26:59,140] gamma v t with a minus sign, and so on.
+- [00:26:59,140 - 00:27:02,480] Let's see, y prime, that's equal to zero times
+- [00:27:02,480 - 00:27:05,820] x plus one times y plus zero times z plus
+- [00:27:05,820 - 00:27:06,800] zero times t.
+- [00:27:07,340 - 00:27:10,360] Same with z, one zero.
+- [00:27:11,080 - 00:27:15,800] And t prime, that's equal, that has a
+- [00:27:15,800 - 00:27:20,520] minus v gamma here, zero zero and gamma.
+- [00:27:23,520 - 00:27:24,840] That's the matrix.
+- [00:27:24,900 - 00:27:26,620] The matrix which governs
+- [00:27:26,620 - 00:27:28,340] the simple Lorentz transformation here.
+- [00:27:29,000 - 00:27:32,810] The matrix which would govern a rotation of
+- [00:27:32,810 - 00:27:36,620] space would also be a matrix with four by
+- [00:27:36,620 - 00:27:39,220] four structure, but here I can just read
+- [00:27:39,220 - 00:27:41,820] it right off here, the corresponding matrix for
+- [00:27:41,820 - 00:27:43,660] a rotation about the z-axis.
+- [00:27:43,660 - 00:27:49,160] A rotation about the z-axis would look
+- [00:27:49,160 - 00:27:54,660] like cosine theta, sine theta, zero zero.
+- [00:27:54,900 - 00:28:02,200] Minus sine theta, cosine theta, zero zero,
+- [00:28:02,200 - 00:28:09,500] zero zero one zero, zero zero zero one.
+- [00:28:15,500 - 00:28:19,600] That would be the matrix which represents a rotation.
+- [00:28:19,600 - 00:28:21,330] Now you can combine these transformations together in
+- [00:28:21,330 - 00:28:23,060] a wide variety of ways by making them
+- [00:28:23,060 - 00:28:24,060] a little bit more complicated.
+- [00:28:24,060 - 00:28:24,760] So let's start with the first one.
+- [00:28:24,760 - 00:28:26,670] Let's start by mixing
+- [00:28:26,670 - 00:28:28,580] up rotations and Lorentz transformations.
+- [00:28:28,580 - 00:28:31,400] For example, if I wanted to do a Lorentz
+- [00:28:31,400 - 00:28:34,220] transformation along some different angle, let's say an angle
+- [00:28:34,220 - 00:28:37,430] in the xy plane, then first I
+- [00:28:37,430 - 00:28:40,640] would make a coordinate transformation that turned the
+- [00:28:40,640 - 00:28:44,240] x-axis into the new x-axis.
+- [00:28:44,240 - 00:28:48,520] I would use the rotation matrix here to
+- [00:28:48,520 - 00:28:52,800] find new coordinates along which the new x-axis
+- [00:28:52,800 - 00:28:53,610] is along the direction that
+- [00:28:53,610 - 00:28:54,420] I want to do the later.
+- [00:28:54,420 - 00:28:54,440] So I would do the rotation.
+- [00:28:54,440 - 00:28:54,560] I would do the new x-axis.
+- [00:28:54,560 - 00:28:54,660] I would do the rotation.
+- [00:28:54,660 - 00:28:54,720] I would do the rotation.
+- [00:28:54,720 - 00:28:54,740] I would do the rotation.
+- [00:28:54,740 - 00:28:54,760] I would do the rotation.
+- [00:28:54,760 - 00:28:56,420] I would do the Lorentz transformation.
+- [00:28:56,420 - 00:28:59,310] Then after having done that, I would do
+- [00:28:59,310 - 00:29:02,200] a second transformation, which would be a Lorentz
+- [00:29:02,200 - 00:29:09,040] transformation between time and the new x-axis.
+- [00:29:09,040 - 00:29:11,220] That would entail multiplying
+- [00:29:11,220 - 00:29:13,400] these two matrices together, basically.
+- [00:29:13,400 - 00:29:16,600] That's what the matrix for the full rotation would
+- [00:29:16,600 - 00:29:19,800] be, is it would be the product of the
+- [00:29:19,800 - 00:29:22,260] full Lorentz transformation, or
+- [00:29:22,260 - 00:29:24,720] the full combination of rotations.
+- [00:29:24,720 - 00:29:26,950] So the Lorentz transformation and rotation
+- [00:29:26,950 - 00:29:29,180] would involve the product of these.
+- [00:29:29,180 - 00:29:32,650] But really, it's enough to know that physics
+- [00:29:32,650 - 00:29:36,120] is invariant under rotations and know how to
+- [00:29:36,120 - 00:29:38,440] write the rotation matrices and
+- [00:29:38,440 - 00:29:40,760] invariant under Lorentz boosts along.
+- [00:29:40,760 - 00:29:42,400] This is called a Lorentz boost.
+- [00:29:42,400 - 00:29:45,280] Boost means you speed up the velocity.
+- [00:29:45,280 - 00:29:48,120] It's enough to know those two forms here and
+- [00:29:48,120 - 00:29:50,960] know that you mix them up in all kinds of
+- [00:29:50,960 - 00:29:54,400] ways to do more generalization.
+- [00:29:54,400 - 00:29:56,780] More general Lorentz transformations.
+- [00:29:56,780 - 00:29:57,780] More general transformations.
+- [00:29:57,780 - 00:30:02,160] Can you do the order, rotate first and then...
+- [00:30:02,160 - 00:30:04,160] Well, you get different answers.
+- [00:30:04,160 - 00:30:05,580] You get different answers.
+- [00:30:05,580 - 00:30:06,580] Yep.
+- [00:30:06,580 - 00:30:11,060] If you first Lorentz transform, let me show you why.
+- [00:30:11,060 - 00:30:13,620] Imagine you first Lorentz transform.
+- [00:30:13,620 - 00:30:17,210] So that brings you to a new coordinate frame
+- [00:30:17,210 - 00:30:20,800] in which this is the new space axis here.
+- [00:30:20,800 - 00:30:22,820] And then you do your rotation.
+- [00:30:22,820 - 00:30:24,360] Your rotation is a rotation.
+- [00:30:24,360 - 00:30:27,240] You do your rotation about
+- [00:30:27,240 - 00:30:30,120] this plane here, not this plane.
+- [00:30:30,120 - 00:30:31,860] So it depends on the order.
+- [00:30:31,860 - 00:30:35,029] If you first Lorentz transformed and then
+- [00:30:35,029 - 00:30:38,199] rotated, you would be rotating about a different
+- [00:30:38,199 - 00:30:39,199] surface.
+- [00:30:39,199 - 00:30:41,779] You'd be rotating a different surface than
+- [00:30:41,779 - 00:30:44,360] if you first rotated and then Lorentz transformed.
+- [00:30:44,360 - 00:30:47,600] So the order of action does matter.
+- [00:30:47,600 - 00:30:50,570] But it's enough to know these two and how
+- [00:30:50,570 - 00:30:53,540] to combine them to know how to do more generalization.
+- [00:30:53,540 - 00:30:54,360] OK.
+- [00:30:54,360 - 00:30:57,779] So we can do any transformation
+- [00:30:57,779 - 00:31:01,199] of the kind that applies to vectors.
+- [00:31:01,199 - 00:31:02,199] All right.
+- [00:31:02,199 - 00:31:04,899] So the more general statement is
+- [00:31:04,899 - 00:31:07,600] that there's a matrix of some sort.
+- [00:31:07,600 - 00:31:09,199] The matrix has to satisfy some rules.
+- [00:31:09,199 - 00:31:10,199] All right.
+- [00:31:10,199 - 00:31:13,779] But basically the rules are that it's
+- [00:31:13,779 - 00:31:17,360] various kinds of products of these matrices.
+- [00:31:17,360 - 00:31:20,710] And we just write it in a more
+- [00:31:20,710 - 00:31:24,060] general form that the primed coordinates are some matrix
+- [00:31:24,060 - 00:31:27,820] times primed coordinates.
+- [00:31:27,820 - 00:31:30,710] And for each specific situation where we
+- [00:31:30,710 - 00:31:33,600] want to transform from one coordinate system to
+- [00:31:33,600 - 00:31:36,860] another, we have to know what the matrix is.
+- [00:31:36,860 - 00:31:40,060] But usually we can figure that out.
+- [00:31:40,060 - 00:31:44,099] We can also write this in the form a
+- [00:31:44,099 - 00:31:48,139] column vector x prime is equal to a matrix.
+- [00:31:48,139 - 00:31:50,039] Now let's just think of that as
+- [00:31:50,039 - 00:31:51,940] a matrix now times a column vector x.
+- [00:31:51,940 - 00:31:52,940] OK.
+- [00:31:52,940 - 00:31:53,940] All right.
+- [00:31:53,940 - 00:31:57,890] Just think of it as
+- [00:31:57,890 - 00:32:01,840] matrix multiplication or manipulation of indices.
+- [00:32:01,840 - 00:32:04,110] Remember, I want to remind you
+- [00:32:04,110 - 00:32:06,380] one thing, when you have repeated four-dimensional
+- [00:32:06,380 - 00:32:09,080] indices like this, particularly when one of
+- [00:32:09,080 - 00:32:11,780] them is exhibited as an upper index
+- [00:32:11,780 - 00:32:14,270] and one of them is exhibited as
+- [00:32:14,270 - 00:32:16,760] a lower index, repeating the indices means sum
+- [00:32:16,760 - 00:32:19,100] over the indices. It's the same
+- [00:32:19,100 - 00:32:21,440] summation that you would do if
+- [00:32:21,440 - 00:32:28,740] you multiplied the matrix, or let's
+- [00:32:28,740 - 00:32:36,040] put it x1, x2, x3, x0.
+- [00:32:36,040 - 00:32:38,490] Alright? When you work out the components
+- [00:32:38,490 - 00:32:40,940] of the product, you have to sum gamma
+- [00:32:40,940 - 00:32:43,850] times x prime plus 0 times x, I'm sorry,
+- [00:32:43,850 - 00:32:46,760] gamma times x1 plus 0 times x2 plus 0
+- [00:32:46,760 - 00:32:49,100] times x3 and so forth. That's
+- [00:32:49,100 - 00:32:51,440] the same sum that's implicit here
+- [00:32:51,440 - 00:32:54,160] and summing over the repeated index.
+- [00:32:54,160 - 00:32:56,880] Alright, so this is just a notational
+- [00:32:56,880 - 00:32:59,500] device for writing out generally, what
+- [00:32:59,500 - 00:33:02,120] a Lorentz transformation does. It's a
+- [00:33:02,120 - 00:33:05,920] linear operation like that. That's a special
+- [00:33:05,920 - 00:33:09,720] case. This is a special case of
+- [00:33:09,720 - 00:33:12,340] the transformation of vectors with a vector,
+- [00:33:12,340 - 00:33:14,960] in this case happens to be the
+- [00:33:14,960 - 00:33:18,140] space-time position of a point. There are
+- [00:33:18,140 - 00:33:21,320] other four vectors. There are other four
+- [00:33:21,320 - 00:33:24,629] vectors which are interesting. For example,
+- [00:33:24,629 - 00:33:27,939] the four vector associated with velocity.
+- [00:33:27,939 - 00:33:30,299] We'll come back to it. The four
+- [00:33:30,299 - 00:33:32,659] vector associated with proper velocity. Remember what proper
+- [00:33:32,659 - 00:33:40,379] velocity is. Proper velocity is not dx by dx by
+- [00:33:40,379 - 00:33:48,100] dt, but it's dx mu by d tau. Tau is
+- [00:33:48,100 - 00:33:50,920] proper time. First of all, before we even
+- [00:33:50,920 - 00:33:53,740] go ahead, even before we talk about four vectors,
+- [00:33:53,740 - 00:33:56,040] we should talk about scalars. Scalars are
+- [00:33:56,040 - 00:33:58,340] things which are the same in every reference
+- [00:33:58,340 - 00:34:01,769] frame. For example, if we're talking about
+- [00:34:01,769 - 00:34:05,199] only rotations, let's forget for the moment
+- [00:34:05,199 - 00:34:08,429] Lorentz transformations, just rotations. The temperature
+- [00:34:08,429 - 00:34:11,659] at this point right over here
+- [00:34:11,659 - 00:34:14,539] is the same no matter which way we
+- [00:34:14,539 - 00:34:17,420] orient our axes. So temperature is a thing which
+- [00:34:17,420 - 00:34:18,080] doesn't transform.
+- [00:34:18,100 - 00:34:22,040] Temperature is a scalar. It's a scalar
+- [00:34:22,040 - 00:34:25,980] quantity which means it doesn't have components, it's
+- [00:34:25,980 - 00:34:28,879] just one number characterizing it. And the
+- [00:34:28,879 - 00:34:31,779] temperature of a point in space doesn't depend
+- [00:34:31,779 - 00:34:38,060] on what axes are used to describe it.
+- [00:34:38,060 - 00:34:40,330] How about the distance between two points?
+- [00:34:40,330 - 00:34:42,600] The distance between two points. Now I'm not
+- [00:34:42,600 - 00:34:44,949] thinking about spacetime, I'm thinking only
+- [00:34:44,949 - 00:34:47,299] about space. The distance between two points,
+- [00:34:47,299 - 00:34:47,549] it doesn't matter which way you orient your
+- [00:34:47,549 - 00:34:47,799] axes, it's just the distance between the two points.
+- [00:34:48,100 - 00:34:51,810] The number of inches between these two points is
+- [00:34:51,810 - 00:34:55,520] the same no matter which way I orient my
+- [00:34:55,520 - 00:34:59,750] axes. So distance is also a scalar
+- [00:34:59,750 - 00:35:03,980] quantity. Components of vectors are not scalar quantities.
+- [00:35:03,980 - 00:35:06,080] They change from one reference frame to another,
+- [00:35:06,080 - 00:35:08,180] but the distance between two points is a scalar
+- [00:35:08,180 - 00:35:12,180] quantity. I might have a, not a law of
+- [00:35:12,180 - 00:35:16,180] nature so much, but a simple claim. I might tell
+- [00:35:16,180 - 00:35:16,800] you, for example, that the distance between two
+- [00:35:16,800 - 00:35:17,420] points is a scalar quantity. I might tell
+- [00:35:17,420 - 00:35:21,340] that the distance between two points measured in meters happens
+- [00:35:21,340 - 00:35:25,260] to be the same as the temperature measured in Fahrenheit.
+- [00:35:25,260 - 00:35:26,990] Right, it's a stupid thing, but it
+- [00:35:26,990 - 00:35:28,720] might be, I mean, it might be.
+- [00:35:28,720 - 00:35:30,450] What is the temperature in
+- [00:35:30,450 - 00:35:32,180] Fahrenheit in here, about 70 degrees?
+- [00:35:32,180 - 00:35:33,480] Yeah.
+- [00:35:33,480 - 00:35:35,780] Alright, so I can imagine
+- [00:35:35,780 - 00:35:38,080] two points separated by 70 centimeters.
+- [00:35:38,080 - 00:35:40,870] And then I would tell you, it just
+- [00:35:40,870 - 00:35:43,660] so happens that the distance between my fists
+- [00:35:43,660 - 00:35:46,350] measured in centimeters happens to be the
+- [00:35:46,350 - 00:35:49,040] same as the temperature in the room.
+- [00:35:49,040 - 00:35:51,500] Does that depend on which axes I use?
+- [00:35:51,500 - 00:35:53,399] No, because the distance between the
+- [00:35:53,399 - 00:35:55,299] points doesn't depend on the axes.
+- [00:35:55,299 - 00:35:57,319] The temperature doesn't depend on
+- [00:35:57,319 - 00:35:59,339] the axes, they're both scalar quantities.
+- [00:35:59,339 - 00:36:01,809] And so the statement that
+- [00:36:01,809 - 00:36:04,279] the temperature equals the distance,
+- [00:36:04,279 - 00:36:08,339] that's a rotationally invariant statement.
+- [00:36:08,339 - 00:36:09,859] And if it's true in one frame,
+- [00:36:09,859 - 00:36:11,379] it will be true in every frame.
+- [00:36:11,379 - 00:36:13,640] In this case, it's a statement about scalar quantities.
+- [00:36:13,640 - 00:36:15,580] I should have talked about
+- [00:36:15,580 - 00:36:17,520] scalars even before I mentioned vectors.
+- [00:36:17,520 - 00:36:19,779] Vectors are more complicated.
+- [00:36:19,779 - 00:36:23,149] For vectors, if a thing is true, it
+- [00:36:23,149 - 00:36:26,520] better be true for all components of the vector.
+- [00:36:26,520 - 00:36:29,259] Thing is true in every frame of reference.
+- [00:36:29,259 - 00:36:34,580] Alright now, this is a four vector.
+- [00:36:34,580 - 00:36:37,100] And the meaning of saying it's a four
+- [00:36:37,100 - 00:36:39,620] vector is first of all it has four components,
+- [00:36:39,620 - 00:36:43,120] but let's call it, well let's just call it,
+- [00:36:43,120 - 00:36:43,620] well let's just call it, well let's just call it,
+- [00:36:43,620 - 00:36:46,689] the general four vector, not this
+- [00:36:46,689 - 00:36:49,759] specific one, but the general four vector,
+- [00:36:49,759 - 00:36:53,400] let's call it for the moment a mu.
+- [00:36:53,400 - 00:36:57,880] This one is usually called u mu.
+- [00:36:57,880 - 00:37:00,130] But let's just generalize and think about
+- [00:37:00,130 - 00:37:02,380] the general notion of a four vector,
+- [00:37:02,380 - 00:37:07,060] and let's call it a mu.
+- [00:37:07,060 - 00:37:13,100] Its components are equal to a1,
+- [00:37:13,100 - 00:37:15,100] a2,
+- [00:37:15,100 - 00:37:17,100] a3,
+- [00:37:17,100 - 00:37:19,100] and a4.
+- [00:37:19,100 - 00:37:21,100] Or a naught, sorry.
+- [00:37:25,100 - 00:37:27,600] The definition of a four vector, and
+- [00:37:27,600 - 00:37:30,100] it does apply to the four velocity,
+- [00:37:30,100 - 00:37:32,100] or the proper velocity,
+- [00:37:32,100 - 00:37:34,100] the definition of a four vector
+- [00:37:34,100 - 00:37:36,100] is it's a thing which transforms,
+- [00:37:36,100 - 00:37:37,600] again, transforms means that if
+- [00:37:37,600 - 00:37:39,100] you know it in one frame,
+- [00:37:39,100 - 00:37:41,100] you can determine it in another frame.
+- [00:37:41,100 - 00:37:43,100] The definition is,
+- [00:37:43,100 - 00:37:48,100] that it transforms exactly the same way as x,
+- [00:37:48,100 - 00:37:51,100] as the components of x.
+- [00:37:51,100 - 00:37:53,100] So, if I know a in one frame,
+- [00:37:53,100 - 00:37:56,100] in another frame, in the primed frame,
+- [00:37:56,100 - 00:37:59,100] the components a prime mu
+- [00:37:59,100 - 00:38:02,100] are equal to l mu nu
+- [00:38:02,100 - 00:38:06,100] times their values in the first frame.
+- [00:38:06,100 - 00:38:08,100] Exactly the same as x.
+- [00:38:08,100 - 00:38:11,100] For example, the four components of a,
+- [00:38:11,100 - 00:38:13,100] if I just did a ordinary equation,
+- [00:38:13,100 - 00:38:14,100] the Lorentz transform,
+- [00:38:14,100 - 00:38:16,100] or transformation,
+- [00:38:16,100 - 00:38:18,600] would vary in exactly the same
+- [00:38:18,600 - 00:38:21,100] way as x, y, z, and t.
+- [00:38:21,100 - 00:38:24,100] I won't bother writing it down.
+- [00:38:24,100 - 00:38:28,100] The transformation properties of a four vector are the same
+- [00:38:28,100 - 00:38:31,100] as x, y, z, and t.
+- [00:38:31,100 - 00:38:34,100] That's the definition of a four vector.
+- [00:38:34,100 - 00:38:37,100] If a four vector is zero,
+- [00:38:37,100 - 00:38:40,100] in one frame of reference,
+- [00:38:40,100 - 00:38:42,100] if this is zero in one frame of reference,
+- [00:38:42,100 - 00:38:45,100] it's obviously zero in every frame of reference.
+- [00:38:45,100 - 00:38:47,100] Just that every component is zero here,
+- [00:38:47,100 - 00:38:50,100] then every component will be zero here.
+- [00:38:50,100 - 00:38:54,100] If two vectors are equal in one frame of reference,
+- [00:38:54,100 - 00:38:57,100] then they will be equal in every frame of reference,
+- [00:38:57,100 - 00:39:00,100] assuming all four components are equal.
+- [00:39:00,100 - 00:39:03,100] So, that's the value of
+- [00:39:03,100 - 00:39:06,100] thinking in terms of four vectors.
+- [00:39:06,100 - 00:39:07,100] The things which are true,
+- [00:39:07,100 - 00:39:10,100] are true in every frame of reference.
+- [00:39:10,100 - 00:39:12,100] This makes them useful for describing
+- [00:39:12,100 - 00:39:15,100] the laws of physics,
+- [00:39:15,100 - 00:39:17,100] which are supposed to be
+- [00:39:17,100 - 00:39:19,100] true in every frame of reference.
+- [00:39:19,100 - 00:39:23,100] Now,
+- [00:39:23,100 - 00:39:28,100] representing a vector in this form here
+- [00:39:28,100 - 00:39:31,100] is called the contravariant form of the vector.
+- [00:39:31,100 - 00:39:35,100] There is another form for the same vector,
+- [00:39:35,100 - 00:39:38,100] which is called the covariant form,
+- [00:39:38,100 - 00:39:40,100] or the covariant components.
+- [00:39:40,100 - 00:39:42,100] It's really imagined to be the same gene
+- [00:39:42,100 - 00:39:44,100] as the geometric object,
+- [00:39:44,100 - 00:39:46,100] just described in a different way.
+- [00:39:46,100 - 00:39:48,100] And to describe it,
+- [00:39:48,100 - 00:39:50,100] we put the mu downstairs.
+- [00:39:50,100 - 00:39:52,100] It's upstairs, downstairs.
+- [00:39:52,100 - 00:39:53,100] And what it is,
+- [00:39:53,100 - 00:39:55,100] is it's the same collection of components,
+- [00:39:55,100 - 00:39:57,100] exactly the same,
+- [00:39:57,100 - 00:39:59,100] except the space components,
+- [00:39:59,100 - 00:40:01,100] one, two, and three,
+- [00:40:01,100 - 00:40:03,100] are changed in sign.
+- [00:40:03,100 - 00:40:09,100] A1, A2, A3,
+- [00:40:09,100 - 00:40:11,100] minus, minus, A naught.
+- [00:40:12,100 - 00:40:15,100] Why on earth would I want to do that?
+- [00:40:15,100 - 00:40:17,100] Well, first, before why I want to do it,
+- [00:40:17,100 - 00:40:19,100] let me just describe it mathematically
+- [00:40:19,100 - 00:40:21,100] a little bit differently.
+- [00:40:21,100 - 00:40:25,100] Here's the mathematical connection between the two.
+- [00:40:25,100 - 00:40:31,100] A mu is equal to a certain matrix,
+- [00:40:31,100 - 00:40:34,100] I'll write down that matrix in a moment,
+- [00:40:34,100 - 00:40:41,100] mu nu times A nu.
+- [00:40:42,100 - 00:40:44,100] Now, before we do anything else,
+- [00:40:44,100 - 00:40:47,100] let's look at this equation.
+- [00:40:47,100 - 00:40:50,100] Before I even say what it means.
+- [00:40:50,100 - 00:40:53,100] It has the nice feature that
+- [00:40:53,100 - 00:40:55,100] it's first of all summed over,
+- [00:40:55,100 - 00:40:57,100] the nu index.
+- [00:40:57,100 - 00:41:00,100] Always, when you sum over a nu, an index,
+- [00:41:00,100 - 00:41:03,100] it had better be one downstairs with one upstairs.
+- [00:41:03,100 - 00:41:06,100] Otherwise, you're writing something that doesn't make sense.
+- [00:41:06,100 - 00:41:07,100] Now, you can't, so far I
+- [00:41:07,100 - 00:41:08,100] haven't even told you what this means,
+- [00:41:08,100 - 00:41:10,100] so whether it makes sense or not,
+- [00:41:10,100 - 00:41:12,100] I'm just telling you now.
+- [00:41:12,100 - 00:41:14,100] For future purposes,
+- [00:41:14,100 - 00:41:16,100] if you're writing out some equations like this
+- [00:41:16,100 - 00:41:19,100] and you discover that you're summing over indices,
+- [00:41:19,100 - 00:41:21,100] both of which are upstairs,
+- [00:41:21,100 - 00:41:22,100] or both of which are downstairs,
+- [00:41:22,100 - 00:41:24,100] you made some mistake.
+- [00:41:24,100 - 00:41:27,100] This is the nice form that
+- [00:41:27,100 - 00:41:30,100] Lorentz invariant equations should take.
+- [00:41:30,100 - 00:41:31,600] Summing over indices should always
+- [00:41:31,600 - 00:41:33,100] be one up and one down.
+- [00:41:33,100 - 00:41:37,100] But you'll understand why in due time.
+- [00:41:37,100 - 00:41:39,100] But let's see what this means.
+- [00:41:39,100 - 00:41:41,100] Let's see exactly what this means.
+- [00:41:41,100 - 00:41:43,100] So what is eta?
+- [00:41:43,100 - 00:41:45,100] Eta is a matrix.
+- [00:41:45,100 - 00:41:48,100] And it's the matrix
+- [00:41:48,100 - 00:41:52,100] minus one, zero, zero, zero,
+- [00:41:52,100 - 00:41:55,100] zero, minus one, zero, zero,
+- [00:41:55,100 - 00:41:58,100] zero, zero, minus one, zero,
+- [00:41:58,100 - 00:42:04,100] zero, zero, zero, plus one.
+- [00:42:04,100 - 00:42:08,100] What does it do when it multiplies a column?
+- [00:42:08,100 - 00:42:10,100] Here's a column.
+- [00:42:10,100 - 00:42:12,100] So let's put the column there.
+- [00:42:12,100 - 00:42:15,100] Let's multiply eta by mu, by a.
+- [00:42:15,100 - 00:42:17,100] Eta times a,
+- [00:42:17,100 - 00:42:19,100] thought of as a matrix,
+- [00:42:19,100 - 00:42:21,100] times a column vector a.
+- [00:42:21,100 - 00:42:24,100] That we just get by writing down
+- [00:42:24,100 - 00:42:31,100] a1, a2, a3, and a4.
+- [00:42:31,100 - 00:42:32,100] And let's see what we get.
+- [00:42:32,100 - 00:42:33,100] Forget the left-hand side here.
+- [00:42:33,100 - 00:42:35,100] Just let's look at the product.
+- [00:42:35,100 - 00:42:38,100] It gives us minus a1
+- [00:42:38,100 - 00:42:40,100] in the first entry,
+- [00:42:40,100 - 00:42:46,100] minus a1, minus a2, minus a3,
+- [00:42:46,100 - 00:42:49,100] plus a naught.
+- [00:42:49,100 - 00:42:51,100] This should be naught.
+- [00:42:51,100 - 00:42:55,100] Minus one times a1, plus a bunch of zeros.
+- [00:42:55,100 - 00:42:57,100] Minus one times a2,
+- [00:42:57,100 - 00:43:00,100] a bunch of zeros, and so forth.
+- [00:43:00,100 - 00:43:04,100] So you go between the covariant form
+- [00:43:04,100 - 00:43:06,100] and the contravariant form
+- [00:43:06,100 - 00:43:09,100] by multiplying by this matrix eta.
+- [00:43:09,100 - 00:43:13,100] It's a convenient notational device.
+- [00:43:13,100 - 00:43:14,100] Why do we do it?
+- [00:43:14,100 - 00:43:15,100] Yeah?
+- [00:43:15,100 - 00:43:16,100] In your last column vector,
+- [00:43:16,100 - 00:43:18,100] that should be a negative 2 upstairs
+- [00:43:18,100 - 00:43:20,100] when you're getting confused.
+- [00:43:20,100 - 00:43:21,100] Yeah, yeah.
+- [00:43:21,100 - 00:43:24,100] Good. Thank you.
+- [00:43:24,100 - 00:43:26,100] In the equation above it,
+- [00:43:26,100 - 00:43:28,100] a lower than mu,
+- [00:43:28,100 - 00:43:30,100] the indices on the component
+- [00:43:30,100 - 00:43:31,100] should be upstairs.
+- [00:43:31,100 - 00:43:33,100] Absolutely right.
+- [00:43:33,100 - 00:43:35,100] Yeah.
+- [00:43:35,100 - 00:43:37,100] And in fact,
+- [00:43:37,100 - 00:43:48,100] we could identify this with a1, a2, a3, and a0,
+- [00:43:48,100 - 00:43:50,100] where these are lower indices.
+- [00:43:50,100 - 00:43:52,100] You're absolutely right.
+- [00:43:52,100 - 00:43:55,100] That was not consistent.
+- [00:43:55,100 - 00:43:59,100] Thank you.
+- [00:43:59,100 - 00:44:02,100] Okay, why would we want to do this?
+- [00:44:02,100 - 00:44:05,100] We want to do this because it's a useful trick
+- [00:44:05,100 - 00:44:07,100] in forming scalars,
+- [00:44:07,100 - 00:44:09,100] and it's a very simple thing.
+- [00:44:09,100 - 00:44:10,100] We want to do it because we want to
+- [00:44:10,100 - 00:44:11,100] have a variance,
+- [00:44:11,100 - 00:44:12,100] things which don't change
+- [00:44:12,100 - 00:44:13,100] under coordinate transformation.
+- [00:44:13,100 - 00:44:14,100] For example,
+- [00:44:14,100 - 00:44:18,100] supposing I take a mu,
+- [00:44:18,100 - 00:44:22,100] and I multiply it by a mu downstairs.
+- [00:44:22,100 - 00:44:26,100] Again, summed over indices which are repeated.
+- [00:44:26,100 - 00:44:28,100] What does this mean?
+- [00:44:28,100 - 00:44:31,100] This means we can read it directly off here.
+- [00:44:31,100 - 00:44:35,100] It's a1 upstairs times minus a1 upstairs,
+- [00:44:35,100 - 00:44:38,100] a1 squared plus,
+- [00:44:38,100 - 00:44:42,100] no, minus a1 squared minus a2 squared,
+- [00:44:42,100 - 00:44:49,100] minus a3 squared plus a4 squared.
+- [00:44:49,100 - 00:44:54,100] Well, this is very much like taking the x vector
+- [00:44:54,100 - 00:44:57,100] and computing the proper length
+- [00:44:57,100 - 00:45:01,100] or the proper time associated with the x vector.
+- [00:45:01,100 - 00:45:03,100] If we go back to the x vector here,
+- [00:45:03,100 - 00:45:05,100] we remember that
+- [00:45:05,100 - 00:45:09,100] the difference of the time squared components
+- [00:45:09,100 - 00:45:11,100] and the space squared components
+- [00:45:11,100 - 00:45:13,100] are what we called tau,
+- [00:45:13,100 - 00:45:14,100] tau squared.
+- [00:45:14,100 - 00:45:17,100] Tau squared was the difference of these components,
+- [00:45:17,100 - 00:45:19,100] and the main feature of it
+- [00:45:19,100 - 00:45:20,100] was that it didn't change
+- [00:45:20,100 - 00:45:22,100] from reference frame to reference frame.
+- [00:45:22,100 - 00:45:24,100] It was invariant.
+- [00:45:24,100 - 00:45:26,100] Well, since the a's,
+- [00:45:26,100 - 00:45:30,100] by definition, transform exactly the same way as x's,
+- [00:45:30,100 - 00:45:34,100] it follows that this quantity
+- [00:45:34,100 - 00:45:38,100] does not change under Lorentz transformation
+- [00:45:38,100 - 00:45:41,100] or rotation or any other kind of transformation
+- [00:45:41,100 - 00:45:43,100] of the kind we're dealing with.
+- [00:45:43,100 - 00:45:46,100] This is an invariant or a scalar.
+- [00:45:46,100 - 00:45:49,100] So, just as a notational trick
+- [00:45:49,100 - 00:45:52,100] to write in a compact way
+- [00:45:52,100 - 00:45:54,100] a1 squared,
+- [00:45:54,100 - 00:45:56,100] well, minus a1 squared,
+- [00:45:56,100 - 00:45:57,100] minus a2 squared,
+- [00:45:57,100 - 00:45:58,100] minus a3 squared,
+- [00:45:58,100 - 00:46:00,100] plus a4 squared,
+- [00:46:00,100 - 00:46:01,100] we invent the notation
+- [00:46:01,100 - 00:46:03,100] with a lower index and an upper index.
+- [00:46:04,100 - 00:46:06,100] Where the lower index
+- [00:46:06,100 - 00:46:09,100] changes the sign of all three space components
+- [00:46:09,100 - 00:46:11,100] and leaves the time component.
+- [00:46:11,100 - 00:46:13,100] I keep writing a4, but I mean a0.
+- [00:46:16,100 - 00:46:17,100] So that's just a trick
+- [00:46:17,100 - 00:46:20,100] to keep track of this minus sign
+- [00:46:20,100 - 00:46:23,100] in multiplying vectors
+- [00:46:26,100 - 00:46:29,100] to form Lorentz invariant scalars.
+- [00:46:31,100 - 00:46:33,100] For example, in this language,
+- [00:46:33,100 - 00:46:35,100] we would just write
+- [00:46:35,100 - 00:46:38,100] that the proper length of a vector x
+- [00:46:38,100 - 00:46:41,100] is x mu, x mu.
+- [00:46:41,100 - 00:46:43,100] And this would stand for t squared
+- [00:46:43,100 - 00:46:45,100] minus x squared, minus y squared,
+- [00:46:45,100 - 00:46:47,100] minus z squared.
+- [00:46:47,100 - 00:46:50,100] So that's the notational trick
+- [00:46:50,100 - 00:46:52,100] to keep track of minus signs.
+- [00:46:52,100 - 00:46:54,100] And this eta matrix here
+- [00:46:54,100 - 00:46:56,100] is part of that notational trick.
+- [00:46:56,100 - 00:46:59,100] It's just another compact way
+- [00:46:59,100 - 00:47:02,100] of writing that the thing with the lower components
+- [00:47:02,100 - 00:47:04,100] is the thing with the upper components
+- [00:47:04,100 - 00:47:07,100] with the appropriate sign changes made.
+- [00:47:07,100 - 00:47:09,100] Yeah?
+- [00:47:09,100 - 00:47:11,100] That might look like it was a column vector
+- [00:47:11,100 - 00:47:12,100] times a row vector,
+- [00:47:12,100 - 00:47:14,100] but we're looking at this more
+- [00:47:14,100 - 00:47:15,100] as just a neural product,
+- [00:47:15,100 - 00:47:17,100] so you don't worry about that.
+- [00:47:17,100 - 00:47:20,100] Would that upper mu first?
+- [00:47:20,100 - 00:47:23,100] Say it again.
+- [00:47:23,100 - 00:47:24,100] Oh.
+- [00:47:24,100 - 00:47:25,100] It looks like column vector
+- [00:47:25,100 - 00:47:26,100] times row vector
+- [00:47:26,100 - 00:47:27,100] instead of row vector
+- [00:47:27,100 - 00:47:28,100] times column vector.
+- [00:47:28,100 - 00:47:30,100] Am I writing it wrong?
+- [00:47:30,100 - 00:47:31,100] Uh...
+- [00:47:32,100 - 00:47:37,100] I always think of this as column.
+- [00:47:37,100 - 00:47:39,100] This is matrix.
+- [00:47:39,394 - 00:47:41,154] 還是肉薯烤
+- [00:47:41,154 - 00:47:44,024] It's also a column, yeah. Both
+- [00:47:44,024 - 00:47:46,894] should be thought of as columns, yeah.
+- [00:47:46,894 - 00:47:49,584] This is not going from columns to rows. Well,
+- [00:47:49,584 - 00:47:52,274] in some sense you can think of it that way,
+- [00:47:52,274 - 00:47:57,634] but I wouldn't. Not now. Just think
+- [00:47:57,634 - 00:48:02,994] of them as rows. Sorry, as columns.
+- [00:48:02,994 - 00:48:11,214] Another way to write A mu A mu, which is the
+- [00:48:11,214 - 00:48:19,434] invariant, is to write eta mu nu A mu A nu.
+- [00:48:19,434 - 00:48:23,834] Why is that? Because if I multiply eta mu
+- [00:48:23,834 - 00:48:28,234] nu by A mu, well, let's change to nu, nu,
+- [00:48:28,234 - 00:48:30,234] nu. When you sum over an index,
+- [00:48:30,234 - 00:48:32,234] it doesn't matter what you call it.
+- [00:48:32,234 - 00:48:32,734] Okay.
+- [00:48:32,994 - 00:48:38,874] All right. So this lowered the index of
+- [00:48:38,874 - 00:48:44,754] A and then multiplied it by the contravariant, A.
+- [00:48:44,754 - 00:48:47,204] All right, so we have various
+- [00:48:47,204 - 00:48:49,654] ways to write the same thing.
+- [00:48:49,654 - 00:48:51,454] The order doesn't matter.
+- [00:48:51,454 - 00:48:54,954] No, the order doesn't matter. No. The order doesn't matter.
+- [00:48:54,954 - 00:48:59,354] It's diagonal.
+- [00:48:59,354 - 00:49:02,354] It's diagonal. First of all, it's symmetric.
+- [00:49:02,994 - 00:49:05,194] Yeah. The order doesn't matter. Even if
+- [00:49:05,194 - 00:49:07,394] it wasn't symmetric, the order wouldn't matter.
+- [00:49:07,394 - 00:49:10,524] No. The order does not matter. Not
+- [00:49:10,524 - 00:49:13,654] until we start doing quantum mechanics anyway,
+- [00:49:13,654 - 00:49:20,294] which we're not going to do. Okay. Let me
+- [00:49:20,294 - 00:49:26,934] prove something else. Suppose you have two four vectors.
+- [00:49:26,934 - 00:49:28,754] Let's call them A and B.
+- [00:49:28,754 - 00:49:29,154] Okay.
+- [00:49:29,154 - 00:49:29,654] Okay.
+- [00:49:29,654 - 00:49:30,054] Okay.
+- [00:49:30,054 - 00:49:30,354] Okay.
+- [00:49:30,354 - 00:49:30,694] Okay.
+- [00:49:30,694 - 00:49:30,954] Okay.
+- [00:49:30,954 - 00:49:31,054] Okay.
+- [00:49:31,054 - 00:49:31,254] Okay.
+- [00:49:31,254 - 00:49:31,454] Okay.
+- [00:49:31,454 - 00:49:31,694] Okay.
+- [00:49:31,694 - 00:49:32,054] Okay.
+- [00:49:32,054 - 00:49:32,154] Okay.
+- [00:49:32,154 - 00:49:32,354] Okay.
+- [00:49:32,354 - 00:49:32,454] Okay.
+- [00:49:32,454 - 00:49:32,634] Okay.
+- [00:49:32,634 - 00:49:32,754] Okay.
+- [00:49:32,754 - 00:49:32,934] Okay.
+- [00:49:32,994 - 00:49:33,434] Okay.
+- [00:49:33,434 - 00:49:33,794] Okay.
+- [00:49:33,794 - 00:49:33,954] Okay.
+- [00:49:35,354 - 00:49:42,454] Am is of course exactly the same thing, incidentally,
+- [00:49:42,454 - 00:49:43,764] as ab nước đó là
+- [00:49:43,764 - 00:49:45,074] tất nhiên lgent trumps được lengui.
+- [00:49:45,074 - 00:49:47,434] The b is the separating measure.
+- [00:49:47,434 - 00:49:48,894] Why is that?
+- [00:49:48,894 - 00:49:52,314] Well, both of them are just
+- [00:49:52,314 - 00:49:55,734] hoc 10-A b final f ,
+- [00:49:55,734 - 00:50:02,634] minus A 1B1 minus A 2B2,
+- [00:50:02,634 - 00:50:04,634] minus the same thing for 3.
+- [00:50:07,434 - 00:50:10,913] It doesn't matter if you put the upper index
+- [00:50:10,913 - 00:50:14,393] on A and the lower index on B or
+- [00:50:15,134 - 00:50:18,354] swap them. Lower index on A, upper index
+- [00:50:18,354 - 00:50:21,574] on B. Same thing. You get the same thing.
+- [00:50:21,814 - 00:50:25,174] So basically the product, we could just think of this
+- [00:50:25,174 - 00:50:28,534] as a new kind of product of A times B
+- [00:50:28,974 - 00:50:30,974] for two 4-vectors.
+- [00:50:31,733 - 00:50:34,603] It's not the product of two numbers. It's the
+- [00:50:34,603 - 00:50:37,474] product of two 4-vectors and the product of two 4-vectors,
+- [00:50:38,474 - 00:50:41,224] the only thing new about it is that
+- [00:50:41,224 - 00:50:43,974] this eta is in there, this funny sign business.
+- [00:50:44,374 - 00:50:46,064] Otherwise, it would be very much
+- [00:50:46,064 - 00:50:47,754] like the dot product of ordinary vectors.
+- [00:50:50,634 - 00:50:52,513] Now,
+- [00:50:52,513 - 00:50:56,393] what about this object here? Is this object invariant when you
+- [00:50:56,393 - 00:51:00,274] have two different vectors? If you just have one vector, A, and
+- [00:51:00,274 - 00:51:03,434] it transforms on the Lorentz transformations,
+- [00:51:03,834 - 00:51:06,054] then this particular combination doesn't change
+- [00:51:06,054 - 00:51:08,274] as you go from frame to frame.
+- [00:51:08,974 - 00:51:11,914] What about if you have two vectors, A times B?
+- [00:51:12,614 - 00:51:14,614] That also is invariant.
+- [00:51:15,354 - 00:51:17,354] There's a simple way to prove it.
+- [00:51:17,914 - 00:51:21,834] If A is a 4-vector and B is a 4-vector,
+- [00:51:21,834 - 00:51:25,754] then A plus B and A minus B are both 4-vectors.
+- [00:51:26,234 - 00:51:28,234] That means that
+- [00:51:28,434 - 00:51:30,034] A plus B, and B plus B, are both 4-vectors.
+- [00:51:30,034 - 00:51:32,034] A plus B times A plus B,
+- [00:51:35,274 - 00:51:38,734] these are both 4-vectors, A and B are 4-vectors, A
+- [00:51:38,734 - 00:51:42,194] plus B is a 4-vector, and now when I write product,
+- [00:51:42,194 - 00:51:45,174] I mean product in this sense, one upper and one lower, but
+- [00:51:45,174 - 00:51:48,154] it doesn't matter which one is upper and which one is lower.
+- [00:51:48,594 - 00:51:51,644] This must be invariant because if A and B are
+- [00:51:51,644 - 00:51:54,694] 4-vectors, so is A plus B, so this is invariant.
+- [00:51:57,553 - 00:51:59,553] What about the difference?
+- [00:52:00,034 - 00:52:02,034] A minus B
+- [00:52:02,433 - 00:52:04,434] times A minus B,
+- [00:52:05,014 - 00:52:07,934] that's also invariant because if you have two or
+- [00:52:07,934 - 00:52:10,854] four vectors, the difference between them is another 4-vector.
+- [00:52:11,554 - 00:52:13,814] Well, this is A squared, this is
+- [00:52:13,814 - 00:52:16,074] A times A plus B times B
+- [00:52:16,534 - 00:52:20,064] plus twice A times B. This is A times
+- [00:52:20,064 - 00:52:23,594] A plus B times B minus twice A times B.
+- [00:52:24,194 - 00:52:27,014] If both of these are invariant, then
+- [00:52:27,014 - 00:52:29,834] it had better be that A times B
+- [00:52:30,034 - 00:52:31,634] is also invariant.
+- [00:52:31,634 - 00:52:35,694] Why? Because if you subtract these, if you subtract these,
+- [00:52:35,974 - 00:52:38,474] the A squares will cancel, the B squares would
+- [00:52:38,474 - 00:52:40,974] cancel, and you'll just get twice A times B.
+- [00:52:41,774 - 00:52:45,204] Twice A times B is also invariant. So anything
+- [00:52:45,204 - 00:52:48,634] with one upper index like this and one lower index,
+- [00:52:50,813 - 00:52:53,593] combine them together, you form an invariant quantity,
+- [00:52:53,593 - 00:52:56,373] which is the same in every reference frame.
+- [00:52:56,834 - 00:52:58,334] Now, of course, it's good to find things
+- [00:52:58,334 - 00:52:59,834] which are the same in every reference frame,
+- [00:53:00,034 - 00:53:02,154] because a law of nature is supposed
+- [00:53:02,154 - 00:53:04,274] to be the same in every reference frame.
+- [00:53:05,354 - 00:53:08,613] Or a measurement. A measurement of a, you know,
+- [00:53:08,613 - 00:53:11,873] distinct quantity should be the same in every frame.
+- [00:53:12,214 - 00:53:14,514] Temperature, distance between particles, whatever.
+- [00:53:16,414 - 00:53:20,574] All right, let's go on to consider some
+- [00:53:21,934 - 00:53:24,434] specific 4-vector, the velocity 4-vector,
+- [00:53:24,434 - 00:53:26,934] which we did last time.
+- [00:53:26,934 - 00:53:30,434] But now armed with some
+- [00:53:30,434 - 00:53:33,934] powerful notation, let's define some things.
+- [00:53:38,674 - 00:53:41,313] If we have a world line of a particle
+- [00:53:41,313 - 00:53:43,953] and we have two neighboring points, then the separation
+- [00:53:43,953 - 00:53:47,453] between them is a little infinitesimally small 4-vector,
+- [00:53:47,453 - 00:53:50,953] and we can write it as dx mu.
+- [00:53:52,453 - 00:53:55,253] It has, let's just write what its components are.
+- [00:53:55,253 - 00:53:55,753] Its components are d, which is the distance between particles,
+- [00:53:55,753 - 00:53:56,253] and its components are d, which is the distance between particles.
+- [00:53:56,253 - 00:53:56,553] So it's a little bit of a difference,
+- [00:53:56,553 - 00:53:56,854] but it's a little bit of a difference.
+- [00:53:56,854 - 00:53:56,884] So it's a little bit of a difference,
+- [00:53:56,884 - 00:53:56,914] but it's a little bit of a difference.
+- [00:53:56,914 - 00:54:01,004] So it's dxdydz and dt, or
+- [00:54:01,004 - 00:54:05,094] equivalently dx1, dx2, dx3, and dx0.
+- [00:54:07,154 - 00:54:08,954] That's a component, that's a 4-vector.
+- [00:54:10,054 - 00:54:11,634] It's infinitesimally small.
+- [00:54:12,274 - 00:54:14,724] If we divide that by d tau,
+- [00:54:14,724 - 00:54:17,174] and let's work out what d tau is.
+- [00:54:17,914 - 00:54:22,374] D tau squared, the square of d
+- [00:54:22,374 - 00:54:26,834] tau is dT squared minus dx squared.
+- [00:54:26,834 - 00:54:26,873] So that's the 4-vector.
+- [00:54:26,873 - 00:54:26,883] And if we divide that by d
+- [00:54:26,883 - 00:54:26,894] tau, then it's dT squared minus dx squared.
+- [00:54:26,894 - 00:54:31,514] square minus dy squared minus dz squared.
+- [00:54:31,514 - 00:54:36,134] But that's just dx mu dx mu.
+- [00:54:36,134 - 00:54:41,384] dt squared minus dx squared minus dy
+- [00:54:41,384 - 00:54:46,634] squared minus dz squared is d tau,
+- [00:54:46,634 - 00:54:51,734] is d tau squared, or d tau is just
+- [00:54:51,734 - 00:54:56,834] the square root of this. The x mu divided
+- [00:54:56,834 - 00:55:01,154] by d tau. Okay, so this is the rate
+- [00:55:01,154 - 00:55:05,474] of change of the x, of the x coordinate, of
+- [00:55:05,474 - 00:55:07,724] the x mu coordinate of the particle,
+- [00:55:07,724 - 00:55:09,974] but not rate of change with ordinary time,
+- [00:55:09,974 - 00:55:13,454] but rate of change with proper time.
+- [00:55:13,454 - 00:55:16,934] The rate at which the coordinates of the
+- [00:55:16,934 - 00:55:19,814] particle are changing, but is measured by
+- [00:55:19,814 - 00:55:22,694] a clock moving with the particle. That's
+- [00:55:22,694 - 00:55:24,614] the x mu d tau and
+- [00:55:24,614 - 00:55:26,534] that is called the proper four velocity.
+- [00:55:26,534 - 00:55:26,794] Okay.
+- [00:55:26,794 - 00:55:26,834] Okay.
+- [00:55:26,834 - 00:55:33,594] U mu. What are its components? Well, let's,
+- [00:55:33,594 - 00:55:40,354] we can, before I talk about the components
+- [00:55:40,354 - 00:55:46,464] of it, yeah, this is the four velocity.
+- [00:55:46,464 - 00:55:52,574] Notice it has four components. That's weird. You
+- [00:55:52,574 - 00:55:54,684] would think that if you know the three
+- [00:55:54,684 - 00:55:56,794] components of velocity, that you know everything about
+- [00:55:56,794 - 00:55:59,273] how the particle is moving, and that's
+- [00:55:59,273 - 00:56:01,753] true. The reason is because the fourth component
+- [00:56:01,753 - 00:56:04,803] of the velocity is determined in terms of
+- [00:56:04,803 - 00:56:07,854] the first three components. Why is that? That's
+- [00:56:07,854 - 00:56:11,103] because this velocity here satisfies a
+- [00:56:11,103 - 00:56:14,353] constraint, satisfies a relationship which allows you
+- [00:56:14,353 - 00:56:17,693] to compute the fourth component from the
+- [00:56:17,693 - 00:56:21,034] first three. Let's see what that constraint is.
+- [00:56:21,034 - 00:56:23,894] I maintain that this object here is a
+- [00:56:23,894 - 00:56:26,754] unit vector. What does a unit vector mean? Well,
+- [00:56:26,754 - 00:56:33,874] it means that it's in a product with itself or
+- [00:56:33,874 - 00:56:40,994] that u mu, u mu is equal to one. It's kind
+- [00:56:40,994 - 00:56:44,364] of like a unit vector in ordinary space. If
+- [00:56:44,364 - 00:56:47,734] you have a unit vector in ordinary space and
+- [00:56:47,734 - 00:56:50,064] you know its x component, then you also know
+- [00:56:50,064 - 00:56:52,394] its y component, up to a sign. There's an
+- [00:56:52,394 - 00:56:54,554] ambiguous sign. All right. Why? Because the sums
+- [00:56:54,554 - 00:56:56,714] of the squares of the component are the
+- [00:56:56,714 - 00:56:58,413] same. So the sum of the squares of the
+- [00:56:58,413 - 00:57:00,113] component must be equal to one. Well, the four velocity
+- [00:57:00,113 - 00:57:02,553] is a unit vector. How do we see that?
+- [00:57:02,553 - 00:57:04,993] Let's just check that. Let's just check that. All
+- [00:57:04,993 - 00:57:12,113] we have to do is work it out. dx mu, this is
+- [00:57:12,113 - 00:57:19,233] equal to dx mu by d tau, dx mu by d tau.
+- [00:57:19,233 - 00:57:22,143] Upper component, lower component. But look here. d
+- [00:57:22,143 - 00:57:25,054] tau squared is just dx mu dx mu. That's
+- [00:57:25,054 - 00:57:26,714] what we have in the numerator.
+- [00:57:26,714 - 00:57:29,394] So the numerator and the denominator are the same
+- [00:57:29,394 - 00:57:32,074] thing. The x mu dx mu is d tau squared
+- [00:57:32,074 - 00:57:35,004] and the denominator, you also have d tau
+- [00:57:35,004 - 00:57:37,934] squared. And so the four velocity is a kind
+- [00:57:37,934 - 00:57:42,984] of unit four vector. The four components
+- [00:57:42,984 - 00:57:48,034] of the four velocity are not independent. The
+- [00:57:48,034 - 00:57:50,624] fourth component, apart from an ambiguous
+- [00:57:50,624 - 00:57:53,214] sign, is completely determined in terms of
+- [00:57:53,214 - 00:57:54,214] the other three components.
+- [00:57:56,714 - 00:58:00,593] For speeds much less than c, does the
+- [00:58:00,593 - 00:58:04,473] four velocity become similar to the regular velocity?
+- [00:58:04,473 - 00:58:07,983] Yes, let's do that right now. We did it
+- [00:58:07,983 - 00:58:11,493] last time, but I'll remind you. That was exactly
+- [00:58:11,493 - 00:58:15,383] what I was about to do. So let's do it. Let's
+- [00:58:15,383 - 00:58:19,273] do u1, u2, and u3. All right? Just the x and
+- [00:58:19,273 - 00:58:22,993] y and z components. Let's just call it ux.
+- [00:58:22,993 - 00:58:26,714] When I'm talking about u1, u2, and u3, I'm
+- [00:58:26,714 - 00:58:28,684] thinking about space. For some reason, I rather
+- [00:58:28,684 - 00:58:30,654] think about x, y, and z than 1, 2,
+- [00:58:30,654 - 00:58:34,974] and 3. But let's say u sub x, or u super
+- [00:58:34,974 - 00:58:39,294] x, is equal to dx by d tau. But that's the
+- [00:58:39,294 - 00:58:43,833] same as dx by dt times dt by d tau.
+- [00:58:43,833 - 00:58:48,373] So we need to know, what is this, of course? This
+- [00:58:48,373 - 00:58:51,563] is just ordinary velocity. We can do the same
+- [00:58:51,563 - 00:58:54,753] thing for the y component. This is equal to
+- [00:58:54,753 - 00:58:56,473] dy by dt.
+- [00:58:56,714 - 00:59:03,644] dt by d tau. Same thing for uz. This is equal
+- [00:59:03,644 - 00:59:10,574] to dz by dt, dt by d tau. So for the space
+- [00:59:10,574 - 00:59:13,353] components here, we can just write a simple
+- [00:59:13,353 - 00:59:16,133] equation. We can write one equation. We can
+- [00:59:16,133 - 00:59:20,813] write that u, thought of as an ordinary
+- [00:59:20,813 - 00:59:25,493] three-dimensional vector, is equal to ordinary velocity. Let's
+- [00:59:25,493 - 00:59:26,694] just call this ordinary velocity.
+- [00:59:26,714 - 00:59:27,714] That's the same as u sub x. So we
+- [00:59:27,714 - 00:59:28,714] can just write a simple equation. We can write one
+- [00:59:28,714 - 00:59:29,834] equation. We can write that u sub x is
+- [00:59:29,834 - 00:59:30,954] equal to the velocity times dt by d tau. That's
+- [00:59:30,954 - 00:59:33,593] true for all three components. We'll worry
+- [00:59:33,593 - 00:59:36,233] about the fourth component in a minute. We'll
+- [00:59:36,233 - 00:59:39,583] come to the fourth component of u in a
+- [00:59:39,583 - 00:59:42,934] minute. But let's just take the first three components.
+- [00:59:42,934 - 00:59:45,804] The relation between the ordinary velocity and
+- [00:59:45,804 - 00:59:48,674] the proper velocity is a simple factor,
+- [00:59:48,674 - 00:59:52,523] dt by d tau. Let's work out what that is.
+- [00:59:52,523 - 00:59:56,373] Let's work out what dt by d tau is. d tau
+- [00:59:56,714 - 01:00:01,194] is equal, now I'm going to write it out
+- [01:00:01,194 - 01:00:05,674] explicitly, dt squared minus dx squared minus dy squared
+- [01:00:05,674 - 01:00:10,614] minus dz squared. d tau squared, sorry, that's
+- [01:00:10,614 - 01:00:15,554] d tau squared, so it's the square root of
+- [01:00:15,554 - 01:00:20,564] this. Let's leave it this way, d tau squared. Now
+- [01:00:20,564 - 01:00:25,574] what we want is dt by d tau. The ratio
+- [01:00:25,574 - 01:00:26,534] of dt and d tau.
+- [01:00:26,714 - 01:00:30,714] Let me divide this by dt squared.
+- [01:00:30,714 - 01:00:40,714] dt squared, dt squared, dt squared, dt squared.
+- [01:00:40,714 - 01:00:44,714] Well this is easy. This
+- [01:00:44,714 - 01:00:48,714] is just 1 minus v squared.
+- [01:00:48,714 - 01:00:53,714] This is equal to 1 minus the velocity squared.
+- [01:00:53,714 - 01:00:56,714] The velocity of the particle. Now we're not
+- [01:00:56,714 - 01:00:59,714] talking about velocities of two frames of reference necessarily.
+- [01:00:59,714 - 01:01:02,714] We're really just talking about the velocity of a particle.
+- [01:01:02,714 - 01:01:05,214] And to indicate that it's
+- [01:01:05,214 - 01:01:07,714] a three-dimensional velocity, ordinary velocity,
+- [01:01:07,714 - 01:01:09,714] I'll put a little arrow on
+- [01:01:09,714 - 01:01:11,714] top of it to indicate ordinary vector.
+- [01:01:11,714 - 01:01:16,714] 1 minus velocity squared is dt by d tau squared.
+- [01:01:16,714 - 01:01:20,714] Sorry, d tau by dt.
+- [01:01:20,714 - 01:01:22,214] So all I have to
+- [01:01:22,214 - 01:01:23,714] do in order to compute this,
+- [01:01:23,714 - 01:01:27,214] to compute dt by d tau, is turn
+- [01:01:27,214 - 01:01:30,714] it upside down and take its square root.
+- [01:01:30,714 - 01:01:36,214] So dt by d tau, that's equal to 1
+- [01:01:36,214 - 01:01:41,714] divided by the square root of 1 minus v squared.
+- [01:01:41,714 - 01:01:45,714] That's what we called gamma up there.
+- [01:01:45,714 - 01:01:48,714] It's just gamma of v.
+- [01:01:48,714 - 01:01:50,714] It's the same gamma.
+- [01:01:50,714 - 01:01:52,714] But now it's associated with the velocity of a particle.
+- [01:01:52,714 - 01:01:53,714] And it's the fourth.
+- [01:01:53,714 - 01:01:56,214] So it's the whole velocity,
+- [01:01:56,214 - 01:01:58,714] all three components of it squared.
+- [01:01:58,714 - 01:02:04,714] So now we know the relationship between the four velocities,
+- [01:02:04,714 - 01:02:07,714] or these are the three components of space
+- [01:02:07,714 - 01:02:10,714] of the four velocity and the ordinary velocity.
+- [01:02:10,714 - 01:02:12,714] Let's just write down what it is.
+- [01:02:12,714 - 01:02:15,714] There's a 1 divided by square
+- [01:02:15,714 - 01:02:18,714] root of 1 minus v squared.
+- [01:02:18,714 - 01:02:20,714] And let's put in c squared now.
+- [01:02:20,714 - 01:02:22,714] C squared would go over here.
+- [01:02:22,714 - 01:02:26,714] And then we have the...
+- [01:02:26,714 - 01:02:27,714] Question.
+- [01:02:27,714 - 01:02:31,214] Yeah, that second part there,
+- [01:02:31,214 - 01:02:34,714] the dx square of dt squared.
+- [01:02:34,714 - 01:02:36,714] This is not second derivative.
+- [01:02:36,714 - 01:02:39,714] This is the square of the first derivative.
+- [01:02:39,714 - 01:02:41,714] OK, because when I do velocity squared,
+- [01:02:41,714 - 01:02:43,714] I get all sorts of cross terms.
+- [01:02:43,714 - 01:02:46,714] You do velocity squared.
+- [01:02:46,714 - 01:02:48,714] No, no, no, no, no, no.
+- [01:02:48,714 - 01:02:50,714] Wait.
+- [01:02:50,714 - 01:02:54,714] What are we doing?
+- [01:02:54,714 - 01:02:55,714] What are we doing?
+- [01:02:55,714 - 01:02:56,714] We calculated...
+- [01:02:56,714 - 01:02:57,714] No, no.
+- [01:02:57,714 - 01:02:58,714] No, no.
+- [01:02:58,714 - 01:03:00,714] Let's do it again.
+- [01:03:00,714 - 01:03:01,714] This is definition.
+- [01:03:01,714 - 01:03:02,714] d tau squared.
+- [01:03:02,714 - 01:03:08,714] Definition of d tau squared is d t squared
+- [01:03:08,714 - 01:03:14,714] minus dx squared minus dy squared minus dz squared.
+- [01:03:14,714 - 01:03:17,714] That's definition of d tau squared.
+- [01:03:17,714 - 01:03:18,714] OK.
+- [01:03:18,714 - 01:03:19,714] Now we're just dividing it.
+- [01:03:19,714 - 01:03:20,714] It's a square of something.
+- [01:03:20,714 - 01:03:21,714] It's not the second derivative of anything.
+- [01:03:21,714 - 01:03:23,714] It's just a square of d tau squared.
+- [01:03:23,714 - 01:03:26,714] We divide that by dt squared.
+- [01:03:26,714 - 01:03:32,714] dt squared by dt squared is just 1.
+- [01:03:32,714 - 01:03:36,714] dx squared by dt squared is
+- [01:03:36,714 - 01:03:40,714] the x component of velocity squared.
+- [01:03:40,714 - 01:03:47,714] So this is minus vx squared.
+- [01:03:47,714 - 01:03:48,714] OK.
+- [01:03:48,714 - 01:03:50,714] So you're saying that when you use
+- [01:03:50,714 - 01:03:52,714] a vector, you mean dot product of it.
+- [01:03:52,714 - 01:03:54,714] Well, that was definition.
+- [01:03:54,714 - 01:03:55,714] Actually, I didn't even...
+- [01:03:55,714 - 01:03:56,714] Yes.
+- [01:03:56,714 - 01:03:57,714] But I didn't even really use it.
+- [01:03:57,714 - 01:03:59,214] I just used the definition of
+- [01:03:59,214 - 01:04:00,714] what I meant by d tau squared.
+- [01:04:00,714 - 01:04:03,214] But it just was, as
+- [01:04:03,214 - 01:04:05,714] you said, the dot product squared.
+- [01:04:05,714 - 01:04:06,714] Yeah.
+- [01:04:06,714 - 01:04:07,714] Yeah.
+- [01:04:07,714 - 01:04:08,714] OK.
+- [01:04:08,714 - 01:04:09,714] So there we are.
+- [01:04:09,714 - 01:04:10,714] We have...
+- [01:04:10,714 - 01:04:14,714] This is the space components of the four velocity.
+- [01:04:14,714 - 01:04:17,714] And all you do is multiply the ordinary velocity,
+- [01:04:17,714 - 01:04:19,714] which by a number which
+- [01:04:19,714 - 01:04:21,714] is very, very close to 1,
+- [01:04:21,714 - 01:04:25,714] if the velocity is much smaller than c.
+- [01:04:25,714 - 01:04:29,714] So I'm a little confused at this point.
+- [01:04:29,714 - 01:04:31,714] Yeah.
+- [01:04:31,714 - 01:04:36,714] Because I was not thinking of that v
+- [01:04:36,714 - 01:04:42,714] as the relative velocity between two coordinates.
+- [01:04:42,714 - 01:04:43,714] It's not now.
+- [01:04:43,714 - 01:04:45,214] It's just the velocity of
+- [01:04:45,214 - 01:04:46,714] a particle in some particular frame.
+- [01:04:46,714 - 01:04:49,714] So it kind of looks...
+- [01:04:49,714 - 01:04:50,714] It's the same...
+- [01:04:50,714 - 01:04:52,714] It's a similar mathematical expression.
+- [01:04:52,714 - 01:04:53,714] But...
+- [01:04:53,714 - 01:04:54,714] Yeah.
+- [01:04:54,714 - 01:04:55,714] Yeah.
+- [01:04:55,714 - 01:04:57,714] I tried to steer you out of that
+- [01:04:57,714 - 01:04:59,714] by saying it's not the velocity of another frame.
+- [01:04:59,714 - 01:05:00,714] Yeah.
+- [01:05:00,714 - 01:05:01,714] Right.
+- [01:05:01,714 - 01:05:02,714] Right.
+- [01:05:02,714 - 01:05:03,714] But no, let's...
+- [01:05:03,714 - 01:05:04,714] OK.
+- [01:05:04,714 - 01:05:05,714] Let's say it even again.
+- [01:05:05,714 - 01:05:06,714] Right.
+- [01:05:06,714 - 01:05:11,214] This gamma of v here is a
+- [01:05:11,214 - 01:05:15,714] particular function of the magnitude of a velocity,
+- [01:05:15,714 - 01:05:17,714] any velocity.
+- [01:05:17,714 - 01:05:20,714] If it happens to be the velocity of a particle,
+- [01:05:20,714 - 01:05:22,714] it's velocity of a particle.
+- [01:05:22,714 - 01:05:24,714] If it's the velocity of a moving frame,
+- [01:05:24,714 - 01:05:26,714] it's the velocity of a moving frame.
+- [01:05:26,714 - 01:05:29,714] But its definition is 1 divided by
+- [01:05:29,714 - 01:05:32,714] the square root of 1 minus v squared.
+- [01:05:32,714 - 01:05:34,714] That's its definition.
+- [01:05:34,714 - 01:05:37,214] Where v squared here means the
+- [01:05:37,214 - 01:05:39,714] square of the magnitude of the velocity.
+- [01:05:39,714 - 01:05:41,714] Ordinary velocity squared.
+- [01:05:41,714 - 01:05:43,214] The same velocity that if you
+- [01:05:43,214 - 01:05:44,714] were to write the kinetic energy,
+- [01:05:44,714 - 01:05:46,714] it would be 1 half mv squared.
+- [01:05:46,714 - 01:05:48,714] Same velocity squared here.
+- [01:05:48,714 - 01:05:49,714] OK.
+- [01:05:49,714 - 01:05:53,714] So if it's a particle, we put in its velocity.
+- [01:05:53,714 - 01:05:56,714] All three components, we sum them and square them.
+- [01:05:56,714 - 01:05:59,714] And that defines this quantity here.
+- [01:05:59,714 - 01:06:02,714] It also happens to be the same mathematical expression
+- [01:06:02,714 - 01:06:05,714] that goes into the Lorentz transformation.
+- [01:06:05,714 - 01:06:06,714] That...
+- [01:06:06,714 - 01:06:08,714] It's not completely accidental,
+- [01:06:08,714 - 01:06:11,214] but at this point it's just
+- [01:06:11,214 - 01:06:13,714] a notation for a particular function.
+- [01:06:13,714 - 01:06:14,714] OK.
+- [01:06:14,714 - 01:06:18,714] So this is the first three components of u.
+- [01:06:18,714 - 01:06:20,714] What about the fourth component of u?
+- [01:06:20,714 - 01:06:23,214] The fourth component of u is
+- [01:06:23,214 - 01:06:25,714] by definition dt by d tau.
+- [01:06:25,714 - 01:06:31,714] Well, it's dx naught by d tau,
+- [01:06:31,714 - 01:06:37,714] which is the same as dt by d tau.
+- [01:06:37,714 - 01:06:40,714] And that is just 1 divided by square
+- [01:06:40,714 - 01:06:43,714] root of 1 minus v squared over c squared.
+- [01:06:43,714 - 01:06:46,714] That's what dt by d tau was.
+- [01:06:46,714 - 01:06:47,714] All right.
+- [01:06:47,714 - 01:06:49,714] So we now know what
+- [01:06:49,714 - 01:06:51,714] the four components of u are
+- [01:06:51,714 - 01:06:55,714] in terms of the ordinary velocities.
+- [01:06:55,714 - 01:06:56,714] OK.
+- [01:06:56,714 - 01:07:00,714] First of all, they're bigger than the ordinary velocities.
+- [01:07:00,714 - 01:07:02,214] 1 minus v squared over c
+- [01:07:02,214 - 01:07:03,714] squared is always less than 1.
+- [01:07:03,714 - 01:07:06,714] 1 over it is greater than 1 and so forth.
+- [01:07:06,714 - 01:07:10,714] So the space components of the velocity are always bigger
+- [01:07:10,714 - 01:07:12,714] than the component of ordinary velocity.
+- [01:07:12,714 - 01:07:15,714] Notice something very strange happens
+- [01:07:15,714 - 01:07:17,214] when the velocity gets to be
+- [01:07:17,214 - 01:07:18,714] up near the speed of light,
+- [01:07:18,714 - 01:07:20,714] ordinary velocity.
+- [01:07:20,714 - 01:07:23,714] When ordinary velocity approaches the speed of light,
+- [01:07:23,714 - 01:07:26,714] u grows enormous.
+- [01:07:26,714 - 01:07:31,714] So, 4-velocity gets hugely big
+- [01:07:31,714 - 01:07:34,214] when the ordinary three-dimensional velocity
+- [01:07:34,214 - 01:07:36,714] gets near the speed of light.
+- [01:07:36,714 - 01:07:41,714] What about the fourth component?
+- [01:07:41,714 - 01:07:44,714] The fourth component, if the velocity is small,
+- [01:07:44,714 - 01:07:46,714] is essentially 1.
+- [01:07:46,714 - 01:07:49,714] The fourth component is just the number 1
+- [01:07:49,714 - 01:07:52,714] in the limit that the velocity is small.
+- [01:07:52,714 - 01:07:54,714] When the velocity gets big,
+- [01:07:54,714 - 01:07:56,714] or gets up near the speed of light,
+- [01:07:56,714 - 01:07:59,714] then u-naught also gets big.
+- [01:07:59,714 - 01:08:02,714] Doesn't u-naught mean the units of velocity?
+- [01:08:02,714 - 01:08:03,714] What's that?
+- [01:08:03,714 - 01:08:05,714] Doesn't u-naught mean the units of velocity?
+- [01:08:05,714 - 01:08:07,214] Well, don't forget that we set
+- [01:08:07,214 - 01:08:08,714] the speed of light equal to 1.
+- [01:08:08,714 - 01:08:09,714] So,
+- [01:08:09,714 - 01:08:14,714] we've lost that particular fact.
+- [01:08:14,714 - 01:08:17,714] We could multiply it by velocity,
+- [01:08:17,714 - 01:08:18,714] the speed of light,
+- [01:08:18,714 - 01:08:21,714] and give it components of the velocity.
+- [01:08:21,714 - 01:08:26,714] If we wanted it to have units of velocity,
+- [01:08:26,714 - 01:08:28,714] when the speed of light was not equal to 1,
+- [01:08:28,714 - 01:08:32,714] we would multiply it by c.
+- [01:08:32,714 - 01:08:36,714] And that's fine, you can do that if you like.
+- [01:08:36,714 - 01:08:39,714] You just have to remember what you're talking about.
+- [01:08:39,714 - 01:08:41,214] It's more usual to think of
+- [01:08:41,214 - 01:08:42,714] the fourth component of the velocity
+- [01:08:42,714 - 01:08:45,714] as something near 1.
+- [01:08:45,714 - 01:08:49,714] But you can think of it as being near c.
+- [01:08:49,714 - 01:08:54,714] Now, that brings us to the four components of momentum.
+- [01:09:06,714 - 01:09:08,714] Let's talk about particle.
+- [01:09:08,714 - 01:09:12,714] Any object that has a certain rest mass,
+- [01:09:12,714 - 01:09:17,714] we call the rest mass m,
+- [01:09:17,714 - 01:09:21,714] then it has four components.
+- [01:09:21,714 - 01:09:23,714] It's also a four vector.
+- [01:09:23,714 - 01:09:26,214] Momentum is, standard notation for
+- [01:09:26,214 - 01:09:28,714] it is to call it p.
+- [01:09:28,714 - 01:09:31,714] That's true in Newtonian mechanics,
+- [01:09:31,714 - 01:09:33,714] it's true in relativistic mechanics.
+- [01:09:33,714 - 01:09:36,714] Momentum, the symbol is p.
+- [01:09:36,714 - 01:09:37,714] Now, in non-relativistic physics,
+- [01:09:37,714 - 01:09:40,714] it's just m times v.
+- [01:09:40,714 - 01:09:42,714] Mass times velocity.
+- [01:09:42,714 - 01:09:44,714] But that's not a very good four vector.
+- [01:09:44,714 - 01:09:47,714] Mass times ordinary velocity, it's not a four vector.
+- [01:09:47,714 - 01:09:48,714] If we want to make
+- [01:09:48,714 - 01:09:49,714] a four vector out of it,
+- [01:09:49,714 - 01:09:52,714] because we're going to want to write equations
+- [01:09:52,714 - 01:09:55,714] which make sense in every reference frame,
+- [01:09:55,714 - 01:10:00,214] then we want to take it
+- [01:10:00,214 - 01:10:04,714] to be mass times u mu.
+- [01:10:04,714 - 01:10:06,714] That's, of course, mass,
+- [01:10:06,714 - 01:10:09,714] times v mu,
+- [01:10:09,714 - 01:10:11,714] divided by square root of one minus v squared,
+- [01:10:11,714 - 01:10:12,714] over c squared,
+- [01:10:12,714 - 01:10:15,714] but I won't bother writing the c squared now.
+- [01:10:15,714 - 01:10:18,714] So, that's a definition, if you like.
+- [01:10:18,714 - 01:10:21,714] This is the definition of the momentum of an object
+- [01:10:21,714 - 01:10:23,714] of mass m,
+- [01:10:23,714 - 01:10:25,714] moving with velocity u,
+- [01:10:25,714 - 01:10:28,714] moving with four velocity u.
+- [01:10:28,714 - 01:10:30,714] And it has four components.
+- [01:10:30,714 - 01:10:34,714] The first three components are very close
+- [01:10:34,714 - 01:10:36,714] to the ordinary momentum.
+- [01:10:36,714 - 01:10:39,714] When the velocity is small.
+- [01:10:39,714 - 01:10:42,714] The last component is the energy.
+- [01:10:42,714 - 01:10:43,714] I showed you that last time.
+- [01:10:43,714 - 01:10:46,714] It's essentially m c squared
+- [01:10:46,714 - 01:10:49,714] plus one half m v squared.
+- [01:10:49,714 - 01:10:51,714] And I'll come back to that.
+- [01:10:56,714 - 01:10:59,714] We'll come back to that.
+- [01:10:59,714 - 01:11:02,714] But, um,
+- [01:11:02,714 - 01:11:05,714] let's just note that this is the definition
+- [01:11:05,714 - 01:11:09,714] of the four components of velocity,
+- [01:11:09,714 - 01:11:11,714] uh, momentum.
+- [01:11:14,714 - 01:11:17,714] Alright, the law of physics that we're going to study,
+- [01:11:17,714 - 01:11:20,714] I think we may actually get to it tonight.
+- [01:11:20,714 - 01:11:22,714] In fact, I think we might actually be there.
+- [01:11:22,714 - 01:11:25,714] About to start it anyway.
+- [01:11:25,714 - 01:11:27,714] Um...
+- [01:11:30,714 - 01:11:32,714] No, v is not a four vector.
+- [01:11:32,714 - 01:11:33,714] Right.
+- [01:11:34,714 - 01:11:36,714] I did.
+- [01:11:36,714 - 01:11:37,714] It does have four components though,
+- [01:11:37,714 - 01:11:39,714] one of which is just one.
+- [01:11:39,714 - 01:11:41,714] Uh, let's just get rid
+- [01:11:41,714 - 01:11:43,714] of this side of the equation.
+- [01:11:43,714 - 01:11:45,714] Not get ourselves confused.
+- [01:12:03,714 - 01:12:05,714] Alright, what we're gonna do now
+- [01:12:05,714 - 01:12:07,714] is we're gonna take a
+- [01:12:07,714 - 01:12:09,714] bit of a vacation from relativity,
+- [01:12:09,714 - 01:12:11,714] and we're gonna write law of motion,
+- [01:12:11,714 - 01:12:14,714] the ordinary laws of motion,
+- [01:12:14,714 - 01:12:16,714] even before relativity.
+- [01:12:59,714 - 01:13:04,714] Think about it from the point of view pre-Einstein,
+- [01:13:04,714 - 01:13:10,714] and then try to figure out how we would um,
+- [01:13:10,714 - 01:13:12,754] redesign it.
+- [01:13:12,754 - 01:13:14,714] Change it, modify it,
+- [01:13:14,714 - 01:13:18,714] so that it would become a relativistically invariant
+- [01:13:18,714 - 01:13:20,714] law of motion.
+- [01:13:20,714 - 01:13:24,714] It's a law of motion of charged particles
+- [01:13:24,714 - 01:13:27,714] in electric and magnetic fields.
+- [01:13:28,714 - 01:13:32,594] Now I'll tell you right now, the decomposition
+- [01:13:32,594 - 01:13:36,474] into electric and magnetic is not an invariant decomposition.
+- [01:13:36,474 - 01:13:40,934] What in one frame of reference is a magnetic field may become
+- [01:13:40,934 - 01:13:45,394] a combination of electric and magnetic in another frame and vice versa.
+- [01:13:45,394 - 01:13:49,914] So I want to write down first
+- [01:13:49,914 - 01:13:54,434] the pre-Einstein law of motion of a particle,
+- [01:13:54,434 - 01:13:58,554] a charged particle, in an electromagnetic field, and then
+- [01:13:58,554 - 01:14:02,674] we can try to think how do we modify this
+- [01:14:02,674 - 01:14:06,853] in order to make it a legitimate relativistic equation
+- [01:14:06,853 - 01:14:11,033] that will be the same in every reference frame.
+- [01:14:11,033 - 01:14:13,573] As I write it, it will not
+- [01:14:13,573 - 01:14:16,114] be the same in every reference frame,
+- [01:14:16,114 - 01:14:23,994] because it will be based on pre-Einstein physics.
+- [01:14:23,994 - 01:14:24,194] And the fact is that the pre-Einstein law of
+- [01:14:24,194 - 01:14:24,394] motion is not the same in every reference frame.
+- [01:14:24,394 - 01:14:24,404] And the fact is that the pre-Einstein law of
+- [01:14:24,404 - 01:14:24,414] motion is not the same in every reference frame.
+- [01:14:24,414 - 01:14:25,684] And the fact is that the pre-Einstein law of
+- [01:14:25,684 - 01:14:26,954] motion is not the same in every reference frame.
+- [01:14:26,954 - 01:14:30,844] is one of the things that really led
+- [01:14:30,844 - 01:14:34,734] Einstein to say something's wrong with ordinary kinematics,
+- [01:14:34,734 - 01:14:39,533] with ordinary space, time, and motion.
+- [01:14:39,533 - 01:14:43,374] All right.
+- [01:14:43,374 - 01:14:45,954] Here's our law.
+- [01:14:45,954 - 01:14:48,574] First of all, F equals mA.
+- [01:14:48,574 - 01:14:50,274] Force is mass times acceleration.
+- [01:14:50,274 - 01:14:54,374] Now we haven't even talked about acceleration, but
+- [01:14:54,374 - 01:14:57,754] I think we can guess the
+- [01:14:57,754 - 01:15:01,134] rule for what relativistic acceleration is.
+- [01:15:01,134 - 01:15:04,014] If ordinary acceleration is the
+- [01:15:04,014 - 01:15:06,894] time rate of change of velocity,
+- [01:15:06,894 - 01:15:09,294] then I don't think it would surprise you very
+- [01:15:09,294 - 01:15:11,694] much at this point if I told you that the
+- [01:15:11,694 - 01:15:16,194] four-dimensional acceleration is the proper time
+- [01:15:16,194 - 01:15:20,694] rate of change of the four-dimensional acceleration.
+- [01:15:20,694 - 01:15:22,514] is the proper time rate
+- [01:15:22,514 - 01:15:24,334] of change of the four-dimensional acceleration.
+- [01:15:24,334 - 01:15:27,714] So you can see that the three components
+- [01:15:27,714 - 01:15:31,094] of u are very close to the ordinary velocity.
+- [01:15:31,094 - 01:15:34,094] And tau is very close to
+- [01:15:34,094 - 01:15:37,094] the ordinary time for slowly moving objects.
+- [01:15:37,094 - 01:15:40,094] So for slowly moving objects, the first
+- [01:15:40,094 - 01:15:43,094] three components are very close to the acceleration,
+- [01:15:43,094 - 01:15:45,094] ordinary acceleration.
+- [01:15:45,094 - 01:15:47,094] But we'll come back to this.
+- [01:15:47,094 - 01:15:49,094] For the time rate of change of velocity,
+- [01:15:49,094 - 01:15:51,094] we're going to have to do
+- [01:15:51,094 - 01:15:53,094] something called the four-dimensional velocity vector.
+- [01:15:53,094 - 01:15:54,094] Okay?
+- [01:15:54,094 - 01:15:56,594] So for the time being,
+- [01:15:56,594 - 01:15:59,094] let's just think about ordinary acceleration,
+- [01:15:59,094 - 01:16:01,094] the old-fashioned kind.
+- [01:16:01,094 - 01:16:03,274] F equals mA.
+- [01:16:03,274 - 01:16:05,964] All we need to know in order to write
+- [01:16:05,964 - 01:16:08,654] down Newton's equations for the motion of a particle
+- [01:16:08,654 - 01:16:10,714] is what the force on it is.
+- [01:16:10,714 - 01:16:12,704] The force of an electric
+- [01:16:12,704 - 01:16:14,694] particle, of an electrically charged particle,
+- [01:16:14,694 - 01:16:17,174] the force on an electrically charged particle,
+- [01:16:17,174 - 01:16:21,434] is made up out of the electric field,
+- [01:16:21,434 - 01:16:23,554] which is a three vector,
+- [01:16:23,554 - 01:16:24,814] which we were going to
+- [01:16:24,814 - 01:16:26,074] get ourselves in 4-dimensional acceleration.
+- [01:16:26,074 - 01:16:27,274] Okay?
+- [01:16:27,274 - 01:16:28,914] The force in a magnetic field
+- [01:16:28,914 - 01:16:30,554] on something that's aqueous to F.
+- [01:16:30,554 - 01:16:32,554] That's the cost of an electric poison,
+- [01:16:32,554 - 01:16:34,554] of a back-aremission,
+- [01:16:34,554 - 01:16:36,554] which is a big request even to me
+- [01:16:36,554 - 01:16:38,554] if my students have got an sentence that says
+- [01:16:38,554 - 01:16:40,554] that would be easy to Seung for the next class,
+- [01:16:40,554 - 01:16:41,334] of course,
+- [01:16:41,334 - 01:16:50,994] but really
+- [01:16:50,994 - 01:16:51,554] that's another section of the decentralization cycle.
+- [01:16:51,554 - 01:16:52,054] Okay?
+- [01:16:52,054 - 01:16:52,554] Okay it did work,
+- [01:16:52,554 - 01:16:53,094] it did work.
+- [01:16:53,094 - 01:16:55,654] the relation between electric and magnetic fields. But
+- [01:16:55,654 - 01:16:58,214] for the time being, let's just write down
+- [01:16:58,214 - 01:17:01,614] the force law, and here it is.
+- [01:17:01,614 - 01:17:05,014] This is Lorentz's force law, discovered by
+- [01:17:05,014 - 01:17:08,174] Lorentz sometime around, I don't know, 1895. Of
+- [01:17:08,174 - 01:17:11,334] course, it was always known that it was
+- [01:17:11,334 - 01:17:19,174] proportional to the electric charge. It was known that
+- [01:17:19,174 - 01:17:21,214] this is acceleration. Everything is
+- [01:17:21,214 - 01:17:23,254] an ordinary three-dimensional vector here.
+- [01:17:23,894 - 01:17:26,614] There was charge times electric field. That goes back
+- [01:17:26,614 - 01:17:29,334] to who? Who was the first one who wrote down
+- [01:17:29,334 - 01:17:32,774] charge times electric field? Faraday. Faraday first had
+- [01:17:32,774 - 01:17:36,214] the idea of electric fields. If you put charges
+- [01:17:36,214 - 01:17:41,454] into electric fields, forces are exerted on them.
+- [01:17:41,454 - 01:17:46,694] And then plus, also charge, times the velocity
+- [01:17:47,974 - 01:17:49,094] cross the magnetic field.
+- [01:17:49,174 - 01:17:53,094] Okay, now I have to tell you what the cross
+- [01:17:53,094 - 01:17:57,014] product is. Anybody not know what the cross product is?
+- [01:18:05,814 - 01:18:09,974] In a moment, anyway. This piece of the force
+- [01:18:11,894 - 01:18:14,854] is called velocity independent. There's no velocity
+- [01:18:14,854 - 01:18:17,814] in here. There is a velocity in here.
+- [01:18:19,894 - 01:18:22,774] But remember velocity, what in one frame
+- [01:18:22,774 - 01:18:25,654] of reference a particle may have. Let's suppose
+- [01:18:25,654 - 01:18:28,814] there was no electric field altogether, okay? But
+- [01:18:28,814 - 01:18:31,974] because the particle is moving with a velocity
+- [01:18:32,533 - 01:18:35,973] in a magnetic field, there's a force on
+- [01:18:35,973 - 01:18:39,414] it. That's interesting because in some other frame of
+- [01:18:39,414 - 01:18:41,454] reference, the velocity may be zero. If the velocity is
+- [01:18:41,454 - 01:18:43,494] zero, then there would be no contribution to the force.
+- [01:18:43,494 - 01:18:44,293] Okay?
+- [01:18:44,293 - 01:18:45,974] And then you have the idea of velocity independent.
+- [01:18:45,974 - 01:18:46,374] So, let's just write down velocity independent.
+- [01:18:46,374 - 01:18:46,774] In a moment, anyway.
+- [01:18:46,774 - 01:18:47,094] Okay.
+- [01:18:47,094 - 01:18:47,494] Let's just write down the force on the particle.
+- [01:18:47,494 - 01:18:47,654] Okay?
+- [01:18:47,654 - 01:18:47,894] That's interesting.
+- [01:18:47,894 - 01:18:47,974] Okay.
+- [01:18:47,974 - 01:18:48,294] If the velocity is zero, then there
+- [01:18:48,294 - 01:18:48,614] would be no contribution to the force.
+- [01:18:48,614 - 01:18:48,854] Okay?
+- [01:18:48,854 - 01:18:51,444] to the force from here, but there's a force
+- [01:18:51,444 - 01:18:54,034] on it. We've just seen there's a force on it.
+- [01:18:54,034 - 01:18:56,964] The force on it makes it accelerate. If it
+- [01:18:56,964 - 01:18:59,894] accelerates in one frame, it accelerates in every frame.
+- [01:18:59,894 - 01:19:02,754] Or another way to say it is if it doesn't
+- [01:19:02,754 - 01:19:05,614] accelerate in one frame, it doesn't accelerate in another frame.
+- [01:19:05,614 - 01:19:08,514] And so something's funny here. If
+- [01:19:08,514 - 01:19:11,414] there was only a magnetic field,
+- [01:19:11,414 - 01:19:14,324] if there was only a magnetic field,
+- [01:19:14,324 - 01:19:17,234] then in some other frame of reference
+- [01:19:17,234 - 01:19:20,864] there would have to be an electric field. In a frame
+- [01:19:20,864 - 01:19:24,494] of reference in which the velocity of the particle was zero,
+- [01:19:24,494 - 01:19:27,023] a frame moving with a particle, that
+- [01:19:27,023 - 01:19:29,553] force could only come from the electric field.
+- [01:19:29,553 - 01:19:32,163] So that immediately tells us that electric and
+- [01:19:32,163 - 01:19:34,774] magnetic fields have to mix up with each other
+- [01:19:34,774 - 01:19:38,403] when you do Lorentz transformations. What is
+- [01:19:38,403 - 01:19:42,033] the connection between electric and magnetic fields?
+- [01:19:42,033 - 01:19:44,393] And the connection is that the two of
+- [01:19:44,393 - 01:19:46,754] them together form a new kind of object,
+- [01:19:46,754 - 01:19:46,974] which we have here, and
+- [01:19:46,974 - 01:19:47,194] that's called the Lorentz transformation.
+- [01:19:47,194 - 01:19:47,204] And the connection is that the two of
+- [01:19:47,204 - 01:19:47,214] them together form a new kind of object,
+- [01:19:47,214 - 01:19:47,434] which we have here, and
+- [01:19:47,434 - 01:19:47,654] that's called the Lorentz transformation.
+- [01:19:47,654 - 01:19:49,034] which we have here, and
+- [01:19:49,034 - 01:19:50,414] that's called the Lorentz transformation.
+- [01:19:50,414 - 01:19:55,214] Here's an object which has six components all together.
+- [01:19:55,214 - 01:19:57,393] It's surely not a scalar. It's
+- [01:19:57,393 - 01:19:59,573] got components x, y, and z.
+- [01:19:59,573 - 01:20:04,774] b also has components x, y, and z.
+- [01:20:04,774 - 01:20:07,043] It doesn't have four components.
+- [01:20:07,043 - 01:20:09,313] It has six components all together.
+- [01:20:09,313 - 01:20:13,654] So it's not a four vector. It's something new.
+- [01:20:13,654 - 01:20:17,174] It's got to be something new, and moreover,
+- [01:20:17,174 - 01:20:19,603] These things transform into each other
+- [01:20:19,603 - 01:20:22,033] under various kinds of Lorentz transformations.
+- [01:20:22,033 - 01:20:24,033] That's what we know.
+- [01:20:24,033 - 01:20:27,413] So the next question is, what kind of
+- [01:20:27,413 - 01:20:30,793] other objects are there that we can define besides
+- [01:20:30,793 - 01:20:33,154] scalars and vectors?
+- [01:20:33,154 - 01:20:37,474] And the next class of objects is called tensors.
+- [01:20:37,474 - 01:20:40,274] In order to write down what the electromagnetic
+- [01:20:40,274 - 01:20:43,074] field is, from the point of view of relativity,
+- [01:20:43,074 - 01:20:46,314] we have to understand tensors.
+- [01:20:46,314 - 01:20:48,214] Tensors are the new ingredient.
+- [01:20:48,214 - 01:20:51,734] Well, let me tell you, first of all,
+- [01:20:51,734 - 01:20:55,254] the simplest way to think about a tensor.
+- [01:20:55,254 - 01:21:00,174] I'm going to call tensors T.
+- [01:21:00,174 - 01:21:05,094] Capital T. A scalar is a tensor.
+- [01:21:05,094 - 01:21:07,014] It's called a tensor of zero rank.
+- [01:21:07,014 - 01:21:08,074] It has no indices.
+- [01:21:08,074 - 01:21:09,854] Why does it have no indices?
+- [01:21:09,854 - 01:21:11,274] Because a scalar has no indices.
+- [01:21:11,274 - 01:21:13,874] A scalar doesn't have any components.
+- [01:21:13,874 - 01:21:16,274] So a scalar is the simplest kind of tensor.
+- [01:21:16,274 - 01:21:19,774] A vector, a four vector, a
+- [01:21:19,774 - 01:21:23,274] four vector is also a tensor.
+- [01:21:23,274 - 01:21:24,274] Okay?
+- [01:21:24,274 - 01:21:27,073] But it's a tensor of rank one, which
+- [01:21:27,073 - 01:21:29,873] means it's an object which has only, well, let's
+- [01:21:29,873 - 01:21:37,274] call it A. A mu.
+- [01:21:37,274 - 01:21:39,194] It has only one index.
+- [01:21:39,194 - 01:21:43,154] It has four components, but it has only one index.
+- [01:21:43,154 - 01:21:46,174] That index can run over four different values.
+- [01:21:46,274 - 01:21:50,174] A tensor is a thing which has two indices.
+- [01:21:50,174 - 01:21:53,274] The simplest tensor is to take two vectors.
+- [01:21:53,274 - 01:21:55,774] Let's call them A and B, and B
+- [01:21:55,774 - 01:21:58,274] does not stand for the magnetic field now.
+- [01:21:58,274 - 01:21:59,274] Okay?
+- [01:21:59,274 - 01:22:01,274] Maybe I should call it C. I'll call it B.
+- [01:22:01,274 - 01:22:02,274] All right?
+- [01:22:02,274 - 01:22:03,774] Take another four vector and
+- [01:22:03,774 - 01:22:05,274] put them next to each other.
+- [01:22:05,274 - 01:22:07,274] There's an object.
+- [01:22:07,274 - 01:22:13,274] It's an object which has how many components altogether?
+- [01:22:13,274 - 01:22:15,274] It's got 16 components altogether, right?
+- [01:22:15,274 - 01:22:16,274] Okay?
+- [01:22:16,274 - 01:22:19,774] So it's got 16 components because A
+- [01:22:19,774 - 01:22:23,274] has four components, B has four components.
+- [01:22:23,274 - 01:22:27,274] Mu and nu, each can be anything from
+- [01:22:27,274 - 01:22:31,274] one to four or from zero to three.
+- [01:22:31,274 - 01:22:33,274] And so altogether, there are 16 components.
+- [01:22:33,274 - 01:22:37,774] We could display these 16 components as
+- [01:22:37,774 - 01:22:42,274] a matrix, as a four by four matrix.
+- [01:22:42,274 - 01:22:45,274] In the first place, we would put A zero.
+- [01:22:45,274 - 01:22:48,274] Let's say A1B1.
+- [01:22:48,274 - 01:22:53,774] Then I think it's A1B2, A1B3,
+- [01:22:53,774 - 01:22:59,274] A1B0, and then A2B1, and so forth.
+- [01:22:59,274 - 01:23:04,274] We could display them, all 16 components, just lay them
+- [01:23:04,274 - 01:23:09,274] out on a grid and draw a matrix for them.
+- [01:23:09,274 - 01:23:12,274] That's the simplest form of tensor.
+- [01:23:12,274 - 01:23:14,274] Just take two vectors.
+- [01:23:15,274 - 01:23:18,274] And juxtapose them together.
+- [01:23:18,274 - 01:23:21,274] Take all 16 components.
+- [01:23:21,274 - 01:23:24,274] And those 16 components form an
+- [01:23:24,274 - 01:23:27,274] object which is called a second-rank tensor.
+- [01:23:27,274 - 01:23:29,274] You could take three vectors.
+- [01:23:29,274 - 01:23:31,274] Take a third vector.
+- [01:23:34,274 - 01:23:35,774] Now we would have to
+- [01:23:35,774 - 01:23:37,274] make a cube to represent it.
+- [01:23:37,274 - 01:23:39,274] Let's take a...
+- [01:23:39,274 - 01:23:43,274] First of all, this is a second-rank vector.
+- [01:23:43,274 - 01:23:44,274] Sorry.
+- [01:23:44,274 - 01:23:47,274] This is a second-rank tensor.
+- [01:23:47,274 - 01:23:49,274] Don't worry about why it's called a tensor.
+- [01:23:49,274 - 01:23:52,274] I mean, is it nervous?
+- [01:23:52,274 - 01:23:54,274] It's not nervous.
+- [01:23:54,274 - 01:23:56,774] Actually, it does come from
+- [01:23:56,774 - 01:23:59,274] the word tense, but not the...
+- [01:23:59,274 - 01:24:00,274] It's not nervous.
+- [01:24:00,274 - 01:24:02,274] It just has two indices.
+- [01:24:02,274 - 01:24:04,274] Second-rank tensor.
+- [01:24:04,274 - 01:24:07,274] Of course, we can construct third-rank tensors.
+- [01:24:07,274 - 01:24:12,274] A third-rank tensor would be made out of three vectors.
+- [01:24:12,274 - 01:24:16,274] Mu, nu, sigma, let's say.
+- [01:24:16,274 - 01:24:18,274] Okay?
+- [01:24:18,274 - 01:24:20,274] That would be a third-rank tensor.
+- [01:24:20,274 - 01:24:22,274] How many components does it have?
+- [01:24:22,274 - 01:24:24,274] Four times four is 16.
+- [01:24:24,274 - 01:24:25,274] 64 components.
+- [01:24:25,274 - 01:24:27,774] And if we wanted to display them, we
+- [01:24:27,774 - 01:24:30,274] might display them as cells in a cube.
+- [01:24:30,274 - 01:24:32,274] And thus it goes.
+- [01:24:32,274 - 01:24:35,274] We could have fourth-rank tensors, fifth-rank tensors.
+- [01:24:35,274 - 01:24:37,274] Now what is it that characterizes a tensor?
+- [01:24:37,274 - 01:24:40,274] Is it just a product of two vectors?
+- [01:24:40,274 - 01:24:41,274] No.
+- [01:24:41,274 - 01:24:44,774] It's any object which transforms the same
+- [01:24:44,774 - 01:24:48,274] way as a product of two vectors.
+- [01:24:48,274 - 01:24:53,274] So let's ask how a product of two vectors transforms.
+- [01:24:53,274 - 01:24:58,274] The product, all 16 components.
+- [01:24:58,274 - 01:25:04,274] Supposing we know the components of A,
+- [01:25:04,274 - 01:25:07,274] then the components of A
+- [01:25:07,274 - 01:25:10,274] prime, in another frame of reference,
+- [01:25:10,274 - 01:25:14,274] are L mu, nu.
+- [01:25:14,274 - 01:25:16,274] A, nu.
+- [01:25:16,274 - 01:25:19,274] That's the transformation property of A.
+- [01:25:19,274 - 01:25:24,274] It's also the transformation property of B.
+- [01:25:24,274 - 01:25:28,274] B prime, mu.
+- [01:25:28,274 - 01:25:30,274] Let's use a different variable.
+- [01:25:30,274 - 01:25:38,274] Sigma is equal to L sigma tau A tau.
+- [01:25:38,274 - 01:25:39,274] All right?
+- [01:25:39,274 - 01:25:41,774] Remember, it doesn't matter what
+- [01:25:41,774 - 01:25:44,274] you call the summation index.
+- [01:25:44,274 - 01:25:45,774] I call this one nu
+- [01:25:45,774 - 01:25:47,274] and I call this one tau.
+- [01:25:47,274 - 01:25:49,274] But on the left-hand side,
+- [01:25:49,274 - 01:25:51,274] I have an open sigma index,
+- [01:25:51,274 - 01:25:53,274] which means this really does
+- [01:25:53,274 - 01:25:55,274] correspond to some particular component.
+- [01:25:55,274 - 01:25:58,274] And we have a sigma on this side.
+- [01:25:58,274 - 01:25:59,274] All right.
+- [01:25:59,274 - 01:26:08,274] What's the transformation property of A prime mu,
+- [01:26:08,274 - 01:26:11,274] B prime sigma?
+- [01:26:11,274 - 01:26:14,774] That's the primed component, the mu
+- [01:26:14,774 - 01:26:18,274] sigma component of the primed tensor.
+- [01:26:18,274 - 01:26:22,274] Prime means its components in the primed reference frame.
+- [01:26:22,274 - 01:26:24,274] Well, it's very easy.
+- [01:26:24,274 - 01:26:28,274] Just L mu, nu.
+- [01:26:28,274 - 01:26:29,274] L?
+- [01:26:29,274 - 01:26:32,274] A tau mu mu mu mu tau.
+- [01:26:32,274 - 01:26:33,274] Yes.
+- [01:26:33,274 - 01:26:34,274] A nu.
+- [01:26:34,274 - 01:26:35,274] A nu.
+- [01:26:35,274 - 01:26:36,274] A nu.
+- [01:26:36,274 - 01:26:37,274] A nu.
+- [01:26:37,274 - 01:26:43,274] B tau.
+- [01:26:43,274 - 01:26:44,274] All right.
+- [01:26:44,274 - 01:26:47,274] So whatever a tensor is,
+- [01:26:47,274 - 01:26:49,774] it transforms with an object
+- [01:26:49,774 - 01:26:52,274] which has two L's in it.
+- [01:26:52,274 - 01:26:55,274] One for each index.
+- [01:26:55,274 - 01:26:57,274] Here's the mu index.
+- [01:26:57,274 - 01:27:00,274] Here's the sigma index.
+- [01:27:00,274 - 01:27:02,774] Notice that the lower component
+- [01:27:02,774 - 01:27:05,274] of this L goes with A.
+- [01:27:05,274 - 01:27:07,274] The upper component of this L also goes with A.
+- [01:27:07,274 - 01:27:12,274] The lower component tau goes with B.
+- [01:27:12,274 - 01:27:15,274] The upper component sigma also goes with B.
+- [01:27:15,274 - 01:27:17,274] B prime in this case.
+- [01:27:17,274 - 01:27:20,274] Now I can tell you what the
+- [01:27:20,274 - 01:27:23,274] general law of a second-rank tensor transformation is.
+- [01:27:23,274 - 01:27:28,274] The general law is take a
+- [01:27:28,274 - 01:27:33,274] tensor in the primed reference frame,
+- [01:27:33,274 - 01:27:34,274] is given by exactly the
+- [01:27:34,274 - 01:27:35,274] same kind of structure, L mu.
+- [01:27:35,274 - 01:27:38,274] L sigma tau.
+- [01:27:38,274 - 01:27:41,274] T nu tau.
+- [01:27:41,274 - 01:27:43,274] Okay, so here's the rule.
+- [01:27:43,274 - 01:27:45,774] If you know the components of
+- [01:27:45,774 - 01:27:48,274] T in one frame, the unprimed frame,
+- [01:27:48,274 - 01:27:52,274] then you take the L's, the Lorentz transformation matrices,
+- [01:27:52,274 - 01:27:55,274] and you simply apply them.
+- [01:27:55,274 - 01:27:59,274] The nu index transforms into the mu index.
+- [01:27:59,274 - 01:28:01,274] And you simply apply them.
+- [01:28:01,274 - 01:28:03,274] The mu index transforms into the mu index.
+- [01:28:03,274 - 01:28:08,274] By the mu nu matrix.
+- [01:28:08,274 - 01:28:12,274] The sigma, the tau index becomes
+- [01:28:12,274 - 01:28:16,274] the sigma index by L sigma tau.
+- [01:28:16,274 - 01:28:18,274] So you see the pattern.
+- [01:28:18,274 - 01:28:20,274] This pattern repeats itself.
+- [01:28:20,274 - 01:28:22,774] If there's a third-rank tensor,
+- [01:28:22,774 - 01:28:25,274] then there's just one more L,
+- [01:28:25,274 - 01:28:27,274] making it transform just as if
+- [01:28:27,274 - 01:28:29,274] it were the product of three vectors.
+- [01:28:29,274 - 01:28:32,274] This is what is called the tensor.
+- [01:28:32,274 - 01:28:37,274] You can't ask me why that's called a tensor,
+- [01:28:37,274 - 01:28:39,274] and you can't ask me why I wrote it down.
+- [01:28:39,274 - 01:28:41,274] Or you can say, is it useful?
+- [01:28:41,274 - 01:28:43,274] Is it useful to define it?
+- [01:28:43,274 - 01:28:45,274] It is very useful to define it.
+- [01:28:45,274 - 01:28:47,274] But here's its definition.
+- [01:28:47,274 - 01:28:50,274] It's a thing which transforms as
+- [01:28:50,274 - 01:28:53,274] if it were the 16 components
+- [01:28:53,274 - 01:28:55,274] of the product of two vectors.
+- [01:28:55,274 - 01:28:57,274] Now, there are other things.
+- [01:28:57,274 - 01:28:59,274] It doesn't have to be the product of two vectors.
+- [01:28:59,274 - 01:29:01,274] For example, here's something.
+- [01:29:01,274 - 01:29:04,274] Take a mu b sigma.
+- [01:29:04,274 - 01:29:11,274] That's not the same as a sigma b mu.
+- [01:29:11,274 - 01:29:16,274] It's not the same thing.
+- [01:29:16,274 - 01:29:19,274] If, for example, I take the 1, 3 matrix element,
+- [01:29:19,274 - 01:29:21,774] the 1, 3 matrix element
+- [01:29:21,774 - 01:29:24,274] of this will be a1 b3.
+- [01:29:24,274 - 01:29:26,774] The 1, 3 matrix element of this,
+- [01:29:26,774 - 01:29:29,274] or the 1, 3 component of this,
+- [01:29:29,274 - 01:29:30,274] will be a1 b3.
+- [01:29:30,274 - 01:29:32,274] So it's not the same thing.
+- [01:29:32,274 - 01:29:34,274] So it's not the same thing.
+- [01:29:34,274 - 01:29:38,274] a mu b sigma and a sigma b mu.
+- [01:29:38,274 - 01:29:42,274] But both of them transform as tensors.
+- [01:29:42,274 - 01:29:45,274] You could add them.
+- [01:29:45,274 - 01:29:47,274] The result is still a tensor,
+- [01:29:47,274 - 01:29:49,774] but it is not an object which
+- [01:29:49,774 - 01:29:52,274] is just the product of two vectors.
+- [01:29:52,274 - 01:29:54,274] You could do other things.
+- [01:29:54,274 - 01:29:56,274] You could take some third vector,
+- [01:29:56,274 - 01:29:58,274] and you could add some third and fourth vector,
+- [01:29:58,274 - 01:29:59,274] and add it.
+- [01:29:59,274 - 01:30:03,274] c mu d sigma.
+- [01:30:03,274 - 01:30:06,274] c mu d sigma is a tensor.
+- [01:30:06,274 - 01:30:08,274] If you add it to some previous tensor,
+- [01:30:08,274 - 01:30:09,274] it is still a tensor.
+- [01:30:09,274 - 01:30:11,274] It still transforms the same way.
+- [01:30:11,274 - 01:30:12,774] So not every tensor is
+- [01:30:12,774 - 01:30:14,274] just a product of two vectors,
+- [01:30:14,274 - 01:30:17,274] but every tensor transforms the same way
+- [01:30:17,274 - 01:30:25,274] as a product of two vectors.
+- [01:30:25,274 - 01:30:27,274] Now, there are two special
+- [01:30:27,274 - 01:30:29,274] kinds of tensors of rank 2.
+- [01:30:29,274 - 01:30:31,274] Rank 2.
+- [01:30:31,274 - 01:30:33,774] The two special kinds
+- [01:30:33,774 - 01:30:36,274] are called antisymmetric and symmetric.
+- [01:30:36,274 - 01:30:41,274] An antisymmetric tensor is one that has the property
+- [01:30:41,274 - 01:30:45,274] t mu nu equals t nu mu.
+- [01:30:45,274 - 01:30:47,274] This is symmetric, sorry.
+- [01:30:47,274 - 01:30:49,274] That's symmetric.
+- [01:30:49,274 - 01:30:53,274] That says that t1 2 equals t2 1.
+- [01:30:53,274 - 01:30:56,274] Symmetric, it doesn't, in this case,
+- [01:30:56,274 - 01:30:59,274] it doesn't matter which order you put the index.
+- [01:30:59,274 - 01:31:02,274] That's called a symmetric tensor of rank 2.
+- [01:31:02,274 - 01:31:06,274] An antisymmetric tensor of rank 2
+- [01:31:06,274 - 01:31:09,274] is one which changes sign when you change,
+- [01:31:09,274 - 01:31:11,274] when you flip it.
+- [01:31:11,274 - 01:31:14,274] In terms of matrices,
+- [01:31:14,274 - 01:31:20,274] they correspond to symmetric and antisymmetric matrices.
+- [01:31:20,274 - 01:31:26,274] So if we take a symmetric tensor,
+- [01:31:26,274 - 01:31:29,274] and we display its all 16 components,
+- [01:31:29,274 - 01:31:32,274] then it will have the property
+- [01:31:32,274 - 01:31:34,274] that it will be symmetric.
+- [01:31:34,274 - 01:31:36,274] The 1 2 element over here
+- [01:31:36,274 - 01:31:38,274] will be the same as the t,
+- [01:31:38,274 - 01:31:40,274] the 2 1 element over here.
+- [01:31:40,274 - 01:31:43,274] The 1 1 element will be whatever it is.
+- [01:31:43,274 - 01:31:46,274] The 2 2 element will be whatever it is.
+- [01:31:46,274 - 01:31:51,274] But then t1 3 will equal t3 1.
+- [01:31:51,274 - 01:31:53,274] t1 3 will be the same.
+- [01:31:53,274 - 01:31:56,274] So the matrix will have a symmetry.
+- [01:31:56,274 - 01:31:58,274] It'll be a symmetric matrix,
+- [01:31:58,274 - 01:32:02,274] which means that the components off the diagonal
+- [01:32:02,274 - 01:32:04,274] will reflect into each other.
+- [01:32:04,274 - 01:32:06,274] That's a symmetric matrix.
+- [01:32:06,274 - 01:32:09,274] But more interesting for us
+- [01:32:09,274 - 01:32:11,274] today and the next time
+- [01:32:11,274 - 01:32:14,274] is going to be the antisymmetric matrix.
+- [01:32:14,274 - 01:32:17,274] What about the antisymmetric matrix?
+- [01:32:17,274 - 01:32:19,274] That has the property,
+- [01:32:19,274 - 01:32:22,274] when you reflect it, it changes sign.
+- [01:32:22,274 - 01:32:25,274] t1 3 is minus t3 1.
+- [01:32:25,274 - 01:32:27,274] What about t1 1?
+- [01:32:27,274 - 01:32:30,274] It's got to be minus t1 1.
+- [01:32:30,274 - 01:32:34,274] t1 1 must be minus t1 1.
+- [01:32:34,274 - 01:32:36,274] Well, if t1 1 is minus t1 1,
+- [01:32:36,274 - 01:32:39,274] then the antisymmetric matrix
+- [01:32:39,274 - 01:32:42,274] must have zeros on the diagonal.
+- [01:32:42,274 - 01:32:45,274] Zeros on the diagonal.
+- [01:32:52,274 - 01:32:55,274] And then off diagonal it has t1 2,
+- [01:32:55,274 - 01:32:57,274] t1 3,
+- [01:32:57,274 - 01:33:00,274] t1 0.
+- [01:33:00,274 - 01:33:03,274] Let's do it nicely.
+- [01:33:03,274 - 01:33:06,274] I'm going to make a nice big matrix.
+- [01:33:06,274 - 01:33:09,274] And I'm going to subdivide it into 4.
+- [01:33:09,274 - 01:33:12,274] And I'm going to subdivide it into 4.
+- [01:33:12,274 - 01:33:14,274] And then put its components.
+- [01:33:14,274 - 01:33:16,274] This is an antisymmetric tensor.
+- [01:33:16,274 - 01:33:21,274] Its diagonal elements all have to be 0.
+- [01:33:21,274 - 01:33:24,274] That's because t1 1 must equal minus t1 1.
+- [01:33:24,274 - 01:33:26,274] On the other hand,
+- [01:33:26,274 - 01:33:31,274] t2 has to equal minus t2 1.
+- [01:33:31,274 - 01:33:33,274] So t1 2 up here
+- [01:33:33,274 - 01:33:35,274] and minus t1 2 over here.
+- [01:33:35,274 - 01:33:37,274] This is minus this.
+- [01:33:37,274 - 01:33:43,274] t1 3 minus t1 3.
+- [01:33:43,274 - 01:33:49,274] And finally t1 0 minus t1 0.
+- [01:33:49,274 - 01:33:50,274] What about over here?
+- [01:33:50,274 - 01:33:54,274] Here we have t2 1.
+- [01:33:54,274 - 01:33:57,274] And over here it must be minus t2 1.
+- [01:33:57,274 - 01:34:03,274] Here's t2 0.
+- [01:34:03,274 - 01:34:08,274] This is minus t2 0.
+- [01:34:08,274 - 01:34:11,274] And finally down here, what do we have?
+- [01:34:11,274 - 01:34:17,274] t3 0 minus t3 0.
+- [01:34:17,274 - 01:34:21,274] So it's antisymmetric,
+- [01:34:21,274 - 01:34:23,274] which means that when you reflect it about the diagonal,
+- [01:34:23,274 - 01:34:28,274] it changes sign.
+- [01:34:28,274 - 01:34:31,274] And antisymmetric also means that it changes sign
+- [01:34:31,274 - 01:34:38,274] when you interchange the two indices.
+- [01:34:38,274 - 01:34:46,274] Those are called symmetric and antisymmetric tensors.
+- [01:34:46,274 - 01:34:50,274] How many interesting components
+- [01:34:50,274 - 01:34:52,274] does a symmetric tensor have?
+- [01:34:52,274 - 01:34:54,274] Let's count them.
+- [01:34:54,274 - 01:35:01,274] A symmetric tensor has four diagonal components.
+- [01:35:04,274 - 01:35:07,274] And then how many off-diagonal components?
+- [01:35:07,274 - 01:35:11,274] Let's...
+- [01:35:11,274 - 01:35:14,274] There are of course 16 components altogether.
+- [01:35:14,274 - 01:35:17,274] But the component over here
+- [01:35:17,274 - 01:35:20,274] is not independent of the component over here.
+- [01:35:20,274 - 01:35:22,274] So really the independent components,
+- [01:35:22,274 - 01:35:24,274] the number of numbers that you need to know,
+- [01:35:24,274 - 01:35:30,274] is 1, 2, 3, 4, 5, 6, 7, 8, 9.
+- [01:35:30,274 - 01:35:33,274] 9? No. 10.
+- [01:35:39,274 - 01:35:46,274] Ten independent components determine a symmetric tensor.
+- [01:35:46,274 - 01:35:47,274] Okay?
+- [01:35:47,274 - 01:35:49,274] So what? So nothing.
+- [01:35:49,274 - 01:35:52,274] But how many an antisymmetric tensor?
+- [01:35:52,274 - 01:35:55,274] Well, for an antisymmetric tensor,
+- [01:35:55,274 - 01:35:57,274] there are zeros on the diagonal.
+- [01:35:57,274 - 01:36:00,274] So we can subtract four of them.
+- [01:36:00,274 - 01:36:04,274] Only this, this, this.
+- [01:36:04,274 - 01:36:07,274] This, this, and this.
+- [01:36:07,274 - 01:36:10,274] Zeros on the diagonal.
+- [01:36:10,274 - 01:36:13,774] And the other ones off on
+- [01:36:13,774 - 01:36:17,274] the other half of the matrix here
+- [01:36:17,274 - 01:36:19,274] are determined in terms of these.
+- [01:36:19,274 - 01:36:20,274] How many is that?
+- [01:36:20,274 - 01:36:21,274] Six.
+- [01:36:22,274 - 01:36:24,274] Six.
+- [01:36:24,274 - 01:36:26,274] That's the number of components
+- [01:36:26,274 - 01:36:28,274] of the electric and magnetic field.
+- [01:36:28,274 - 01:36:30,274] Okay?
+- [01:36:30,274 - 01:36:32,274] That's the number of components
+- [01:36:32,274 - 01:36:34,274] of electric and magnetic fields.
+- [01:36:34,274 - 01:36:38,274] This is the only object that you can construct.
+- [01:36:38,274 - 01:36:42,274] The antisymmetric tensor is in fact the only object
+- [01:36:42,274 - 01:36:46,274] that has six components and which transforms,
+- [01:36:46,274 - 01:36:48,274] well, you could take six scalars.
+- [01:36:48,274 - 01:36:51,274] Six scalars or a four vector and two scalars,
+- [01:36:51,274 - 01:36:55,274] would also have six components.
+- [01:36:55,274 - 01:36:57,274] But none of those correspond
+- [01:36:57,274 - 01:36:59,274] to the electric and magnetic field.
+- [01:36:59,274 - 01:37:01,774] The electric and magnetic
+- [01:37:01,774 - 01:37:04,274] field form an antisymmetric tensor.
+- [01:37:04,274 - 01:37:07,274] They form an antisymmetric tensor.
+- [01:37:07,274 - 01:37:10,274] And out of that antisymmetric tensor,
+- [01:37:10,274 - 01:37:14,274] we want to understand this equation here
+- [01:37:14,274 - 01:37:19,274] and how it transforms under Lorentz transformation.
+- [01:37:19,274 - 01:37:20,274] Now,
+- [01:37:20,274 - 01:37:26,274] it does transform in a complicated way.
+- [01:37:26,274 - 01:37:28,274] And that means that the electric and magnetic fields
+- [01:37:28,274 - 01:37:30,274] are going to transform into each other.
+- [01:37:30,274 - 01:37:32,274] I'm going to write down, we're going to finish now,
+- [01:37:32,274 - 01:37:35,274] I'm going to write down for next time,
+- [01:37:35,274 - 01:37:38,274] I'm going to write down the precise relationship,
+- [01:37:38,274 - 01:37:40,274] but we're going to derive this.
+- [01:37:40,274 - 01:37:41,774] We're going to derive this,
+- [01:37:41,774 - 01:37:43,274] but I'm going to write down
+- [01:37:43,274 - 01:37:46,274] the precise relationship between the antisymmetric tensor
+- [01:37:46,274 - 01:37:49,274] and the components of the electric and magnetic field.
+- [01:37:50,274 - 01:37:54,274] How do the components of the electric and magnetic field
+- [01:37:54,274 - 01:37:58,274] combine themselves together to make an antisymmetric tensor?
+- [01:37:58,274 - 01:38:00,274] So,
+- [01:38:00,274 - 01:38:04,274] we take our
+- [01:38:04,274 - 01:38:07,274] four by four matrix,
+- [01:38:07,274 - 01:38:10,774] which I'll draw some guidelines so
+- [01:38:10,774 - 01:38:14,274] that I know where the elements are.
+- [01:38:14,274 - 01:38:17,274] The zeros on the diagonal,
+- [01:38:17,274 - 01:38:18,274] the off diagonal,
+- [01:38:18,274 - 01:38:20,274] the off diagonal,
+- [01:38:20,274 - 01:38:23,274] I don't need to specify both above and below.
+- [01:38:23,274 - 01:38:25,274] Once I specify above,
+- [01:38:25,274 - 01:38:26,774] you can read off what's
+- [01:38:26,774 - 01:38:28,274] below just by changing the sign.
+- [01:38:28,274 - 01:38:31,274] And here I'm going to tell you what they are.
+- [01:38:31,274 - 01:38:39,274] This is one, two, three, zero.
+- [01:38:39,274 - 01:38:42,274] One, two, three, zero.
+- [01:38:42,274 - 01:38:44,274] X, Y, Z, T.
+- [01:38:44,274 - 01:38:46,274] This is the one, two component.
+- [01:38:46,274 - 01:38:49,274] In the one, two component,
+- [01:38:49,274 - 01:38:51,774] we put minus the third
+- [01:38:51,774 - 01:38:54,274] component of the magnetic field, BZ.
+- [01:38:54,274 - 01:38:56,274] Let's see.
+- [01:38:56,274 - 01:38:57,274] Did I?
+- [01:38:57,274 - 01:38:59,274] We put the third component of the magnet.
+- [01:38:59,274 - 01:39:00,274] In the one, two place,
+- [01:39:00,274 - 01:39:02,274] we put the third component of the magnetic field.
+- [01:39:02,274 - 01:39:04,274] In the one, three place,
+- [01:39:04,274 - 01:39:07,274] we put the second component of the magnetic field,
+- [01:39:07,274 - 01:39:10,274] the Y component of the magnetic field.
+- [01:39:10,274 - 01:39:13,274] And you get a whole inventory of that.
+- [01:39:13,274 - 01:39:14,274] What is it?
+- [01:39:14,274 - 01:39:17,654] magnetic field. And guess what goes down here?
+- [01:39:17,654 - 01:39:21,034] Down here goes minus the first component of
+- [01:39:21,034 - 01:39:24,134] the magnetic field. So if we didn't have time,
+- [01:39:24,134 - 01:39:27,234] suppose we didn't have time, we only had one,
+- [01:39:27,234 - 01:39:30,404] two, and three, then the anti-symmetric tensor
+- [01:39:30,404 - 01:39:33,574] would only have three components. And those
+- [01:39:33,574 - 01:39:36,714] three components would be identified with
+- [01:39:36,714 - 01:39:39,854] the three components of the magnetic field.
+- [01:39:39,854 - 01:39:43,354] We're going to discuss this further, but for
+- [01:39:43,354 - 01:39:46,854] the time being, this is the setup for the
+- [01:39:46,854 - 01:39:49,354] way that the magnetic field
+- [01:39:49,354 - 01:39:51,854] enters into an anti-symmetric tensor. Now...
+- [01:39:51,854 - 01:39:53,854] Are those all minuses?
+- [01:39:53,854 - 01:39:57,854] No. Minus, plus, minus. We'll see why.
+- [01:39:57,854 - 01:40:00,354] Are those supposed to be thought
+- [01:40:00,354 - 01:40:02,854] of as coordinates? Like x, y, z?
+- [01:40:02,854 - 01:40:06,354] Yeah. This could be the z component, this
+- [01:40:06,354 - 01:40:09,854] could be the y component, or would be.
+- [01:40:09,854 - 01:40:12,854] This would be the x component. And then
+- [01:40:12,854 - 01:40:15,854] we would write x, y, z, time. Okay?
+- [01:40:15,854 - 01:40:17,854] Is that what you meant?
+- [01:40:17,854 - 01:40:18,854] Yeah.
+- [01:40:18,854 - 01:40:21,354] Yeah. Okay. All right. Now we have
+- [01:40:21,354 - 01:40:23,854] three entries over here, three more entries. Obviously
+- [01:40:23,854 - 01:40:26,354] those three entries must have something to do
+- [01:40:26,354 - 01:40:28,854] with the electric field, and of course they do.
+- [01:40:28,854 - 01:40:33,854] Ex, ey, ez. Do I have the sign right? Yeah. Let's
+- [01:40:33,854 - 01:40:38,854] just put in what goes down here just to fill it out.
+- [01:40:39,854 - 01:40:51,354] We have plus bz here, minus by here, minus ex
+- [01:40:51,354 - 01:41:02,854] here, plus bx here, let's see, minus ey, and minus ez.
+- [01:41:02,854 - 01:41:05,854] So it's now got six independent components,
+- [01:41:05,854 - 01:41:08,854] and it fills out a four by four
+- [01:41:08,854 - 01:41:09,854] component.
+- [01:41:09,854 - 01:41:14,854] So we have a four by four matrix, anti-symmetric four
+- [01:41:14,854 - 01:41:19,854] by four matrix, with electric fields in the time slot here,
+- [01:41:19,854 - 01:41:22,854] and magnetic fields in the space-space slots.
+- [01:41:22,854 - 01:41:25,354] The space-space components are magnetic fields,
+- [01:41:25,354 - 01:41:27,854] the space-time components are electric fields.
+- [01:41:27,854 - 01:41:30,354] Now why is this? How did I
+- [01:41:30,354 - 01:41:32,854] know this? How did anybody know it?
+- [01:41:32,854 - 01:41:35,854] We'll come to that next time.
+- [01:41:35,854 - 01:41:38,854] They know it by fiddling around
+- [01:41:38,854 - 01:41:42,854] trying to find a sensible
+- [01:41:42,854 - 01:41:46,854] relativistic generalization of this formula here.
+- [01:41:46,854 - 01:41:49,854] So the next time we'll work that out. We'll work out
+- [01:41:49,854 - 01:41:52,854] f equals ma for a particle in an electric and magnetic field
+- [01:41:52,854 - 01:41:54,854] except in relativistic notation.
+- [01:41:54,854 - 01:41:59,354] Incidentally, this four by four matrix here is not
+- [01:41:59,354 - 01:42:03,854] usually called t mu nu, it's called f mu nu.
+- [01:42:03,854 - 01:42:05,854] I don't know the history of
+- [01:42:05,854 - 01:42:07,854] what f, why f is called f.
+- [01:42:08,854 - 01:42:11,854] But I suspect it's faraday.
+- [01:42:11,854 - 01:42:15,854] I suspect f stood for the faraday tensor.
+- [01:42:15,854 - 01:42:19,854] And it's anti-symmetric, and it's composed
+- [01:42:19,854 - 01:42:23,854] of the magnetic and electric fields.
+- [01:42:23,854 - 01:42:27,854] So each of those elements is
+- [01:42:27,854 - 01:42:31,854] the strength of the field, the xy?
+- [01:42:31,854 - 01:42:33,854] It's the components of the field.
+- [01:42:33,854 - 01:42:35,854] The components of the field.
+- [01:42:35,854 - 01:42:36,854] Yeah.
+- [01:42:36,854 - 01:42:40,354] So, here, let's just concentrate on
+- [01:42:40,354 - 01:42:43,854] the magnetic part of it here.
+- [01:42:43,854 - 01:42:48,354] Let's put a little fence around the time
+- [01:42:48,354 - 01:42:52,854] stuff and get rid of it for a moment.
+- [01:42:52,854 - 01:42:56,354] This now just constitutes
+- [01:42:56,354 - 01:42:59,854] a three-dimensional tensor, anti-symmetric tensor.
+- [01:42:59,854 - 01:43:03,854] And let's write down the equation.
+- [01:43:03,854 - 01:43:12,354] This equation says that f is
+- [01:43:12,354 - 01:43:20,854] equal to minus bz, or minus b3.
+- [01:43:20,854 - 01:43:23,854] Three is z.
+- [01:43:23,854 - 01:43:30,854] Next, f is equal to plus by.
+- [01:43:30,854 - 01:43:31,854] And finally, f is equal to minus bz.
+- [01:43:31,854 - 01:43:32,854] And finally, f is equal to minus bz.
+- [01:43:32,854 - 01:43:33,854] And finally, f is equal to minus bz.
+- [01:43:33,854 - 01:43:37,854] And finally, f, what's the last one down here?
+- [01:43:37,854 - 01:43:39,854] The last one is 2, 3.
+- [01:43:39,854 - 01:43:47,854] f2, 3 is equal to bx.
+- [01:43:47,854 - 01:43:51,854] In fact, 3, this is 3.
+- [01:43:51,854 - 01:43:52,854] Minus b8.
+- [01:43:52,854 - 01:43:54,854] Yes, minus.
+- [01:43:54,854 - 01:44:00,854] Minus b1, b2.
+- [01:44:00,854 - 01:44:02,854] Okay, now I can write this in a nicer form.
+- [01:44:02,854 - 01:44:04,854] in a nicer form where you'll see the pattern.
+- [01:44:04,854 - 01:44:08,854] Let's write this one not as f
+- [01:44:08,854 - 01:44:12,854] , but rather as minus f .
+- [01:44:12,854 - 01:44:20,354] If I write this as minus f , then I
+- [01:44:20,354 - 01:44:27,854] have that f is b2, and f is minus b1.
+- [01:44:27,854 - 01:44:29,354] What do I see in that
+- [01:44:29,354 - 01:44:30,854] form that I like about it?
+- [01:44:30,854 - 01:44:33,854] Let me show you how it works.
+- [01:44:33,854 - 01:44:41,854] Let's start with the equation f equals minus b3.
+- [01:44:41,854 - 01:44:44,854] And let's cycle from 1 to
+- [01:44:44,854 - 01:44:47,854] 2 to 3 in each spot.
+- [01:44:47,854 - 01:44:50,854] In each spot, the next equation, you go
+- [01:44:50,854 - 01:44:53,854] 1 to 2, 2 to 3, 3 to 1.
+- [01:44:53,854 - 01:44:55,354] Make a clock, a clock
+- [01:44:55,354 - 01:44:56,854] that goes around in a circle.
+- [01:44:58,854 - 01:45:00,854] And let's proceed.
+- [01:45:00,854 - 01:45:02,854] Clockwise.
+- [01:45:02,854 - 01:45:06,854] The next equation down, everything would cycle forward.
+- [01:45:06,854 - 01:45:08,854] So what would happen to the 1?
+- [01:45:08,854 - 01:45:10,854] Become 2.
+- [01:45:10,854 - 01:45:12,854] What would happen to the 2?
+- [01:45:13,854 - 01:45:15,854] What would happen to the 3?
+- [01:45:15,854 - 01:45:17,854] Minus b1.
+- [01:45:17,854 - 01:45:19,854] What's the next one?
+- [01:45:19,854 - 01:45:21,854] 1, 2, the next one would be 3.
+- [01:45:21,854 - 01:45:29,854] f , 2, 3, 1 equals minus 3, 1, 2.
+- [01:45:30,854 - 01:45:33,354] Well, with any luck at all, that
+- [01:45:33,354 - 01:45:35,854] would be exactly what we wrote here.
+- [01:45:35,854 - 01:45:37,854] Let's see, f is minus b3.
+- [01:45:37,854 - 01:45:40,854] f is minus b2.
+- [01:45:40,854 - 01:45:42,854] Don't worry about whether they're upstairs or downstairs.
+- [01:45:42,854 - 01:45:43,854] Forget that.
+- [01:45:43,854 - 01:45:46,854] f is minus b1.
+- [01:45:46,854 - 01:45:54,854] So this has a very nice structure to it.
+- [01:45:54,854 - 01:45:57,354] The 1, 2 component of the tensor
+- [01:45:57,354 - 01:45:59,854] is the third component of the magnetic field.
+- [01:45:59,854 - 01:46:02,354] The 2, 3 component of the tensor
+- [01:46:02,354 - 01:46:04,854] is the 1 component, and it cycles.
+- [01:46:09,854 - 01:46:11,854] So you can always remember, all you
+- [01:46:11,854 - 01:46:13,854] have to remember is one of them,
+- [01:46:13,854 - 01:46:16,854] and the others will follow just by cycling
+- [01:46:16,854 - 01:46:19,854] the numbers from 1 to 2 to 3.
+- [01:46:19,854 - 01:46:21,854] Now, the electric field is different.
+- [01:46:21,854 - 01:46:27,854] The electric fields,
+- [01:46:27,854 - 01:46:34,854] e1 is equal to f10.
+- [01:46:34,854 - 01:46:40,854] e2 is f20, and e3 is f30.
+- [01:46:40,854 - 01:46:44,854] So the electric fields are vectors where
+- [01:46:44,854 - 01:46:48,854] you just ignore the time component here.
+- [01:46:48,854 - 01:46:51,854] And you see what the index structure is.
+- [01:46:51,854 - 01:46:55,854] e1 is f10, e2 is f20, e3 is f30.
+- [01:46:55,854 - 01:47:00,854] The magnetic field, a little more complicated.
+- [01:47:00,854 - 01:47:02,854] There's something you might notice.
+- [01:47:02,854 - 01:47:06,854] The magnetic field seems to have two identities.
+- [01:47:06,854 - 01:47:09,854] It has an identity as an
+- [01:47:09,854 - 01:47:12,854] anti-symmetric tensor whose components are called f,
+- [01:47:12,854 - 01:47:15,354] and it has another identity as
+- [01:47:15,354 - 01:47:17,854] a kind of vector, ordinary three-dimensional vectors.
+- [01:47:17,854 - 01:47:19,354] When I speak of vectors
+- [01:47:19,354 - 01:47:20,854] now, I'm speaking of three-dimensional vectors.
+- [01:47:20,854 - 01:47:24,854] It has an identity as an anti-symmetric tensor,
+- [01:47:25,854 - 01:47:27,854] in three dimensions,
+- [01:47:27,854 - 01:47:31,854] minus b, b, b, minus sign here.
+- [01:47:31,854 - 01:47:34,854] And it has a second identity as a vector.
+- [01:47:34,854 - 01:47:38,354] That connection between anti-symmetric tensors and
+- [01:47:38,354 - 01:47:41,854] vectors is only true in three dimensions.
+- [01:47:41,854 - 01:47:44,854] It is not something which is true in other dimensions.
+- [01:47:44,854 - 01:47:46,854] It's just an accident.
+- [01:47:46,854 - 01:47:48,854] Well, it's not exactly an accident,
+- [01:47:48,854 - 01:47:52,854] but think of it as roughly accidental.
+- [01:47:52,854 - 01:47:54,854] That if you take a 3 by 3 anti-symmetric matrix,
+- [01:47:54,854 - 01:47:58,854] it happens to have three independent components.
+- [01:47:58,854 - 01:48:02,354] Those three independent components also happen
+- [01:48:02,354 - 01:48:05,854] to form an ordinary three-dimensional vector.
+- [01:48:05,854 - 01:48:10,854] But if you have a 4 by 4 matrix, anti-symmetric,
+- [01:48:10,854 - 01:48:13,854] it cannot be identified with a 4 vector.
+- [01:48:13,854 - 01:48:16,354] So, we see that the magnetic
+- [01:48:16,354 - 01:48:18,854] field sort of has two identities.
+- [01:48:18,854 - 01:48:21,854] In one identity, it has two indices,
+- [01:48:21,854 - 01:48:23,854] and in the other identity, it has only one index.
+- [01:48:24,854 - 01:48:30,854] So, we're going to build, next time,
+- [01:48:30,854 - 01:48:34,854] out of this anti-symmetric tensor,
+- [01:48:34,854 - 01:48:38,854] and four velocities and four accelerations,
+- [01:48:38,854 - 01:48:40,854] four-dimensional accelerations,
+- [01:48:40,854 - 01:48:42,854] we're going to build an equation
+- [01:48:42,854 - 01:48:46,854] which we'll recognize as having transformation properties
+- [01:48:46,854 - 01:48:48,854] that make certain that it's
+- [01:48:48,854 - 01:48:50,854] the same in every reference frame.
+- [01:48:50,854 - 01:48:52,854] That's our goal, to rewrite this
+- [01:48:52,854 - 01:48:54,854] so that it's the same in every reference frame.
+- [01:48:54,854 - 01:48:56,854] We'll have to modify it a bit.
+- [01:48:56,854 - 01:48:58,854] This is not quite right as it is.
+- [01:48:58,854 - 01:49:00,854] And when we modify it,
+- [01:49:00,854 - 01:49:02,854] it will form an equation
+- [01:49:02,854 - 01:49:04,854] which is the same in every reference frame.
+- [01:49:04,854 - 01:49:05,854] Yeah?
+- [01:49:05,854 - 01:49:08,854] So, was Einstein looking for this,
+- [01:49:08,854 - 01:49:12,854] the Lorentz invariant formulation of work from minuses
+- [01:49:12,854 - 01:49:15,854] on conceptual grounds, or did he have any other questions?
+- [01:49:15,854 - 01:49:17,854] Was he doing that just on conceptual grounds?
+- [01:49:17,854 - 01:49:18,854] Yeah.
+- [01:49:18,854 - 01:49:19,854] Yeah.
+- [01:49:19,854 - 01:49:21,854] He had a suspicion that the laws of nature
+- [01:49:21,854 - 01:49:23,854] ought to be the same in every reference frame.
+- [01:49:23,854 - 01:49:29,854] This was a matter of intuition to him,
+- [01:49:29,854 - 01:49:31,854] or a matter of conviction.
+- [01:49:31,854 - 01:49:33,854] It, of course, also had
+- [01:49:33,854 - 01:49:35,854] a good deal of experimental support,
+- [01:49:35,854 - 01:49:37,854] the fact that the speed of light was the same
+- [01:49:37,854 - 01:49:39,854] in every reference frame, as far as we measured,
+- [01:49:39,854 - 01:49:42,854] that nobody could detect using light
+- [01:49:42,854 - 01:49:46,854] the motion of the Earth through space.
+- [01:49:46,854 - 01:49:52,854] But I don't even know if that's true.
+- [01:49:53,854 - 01:49:54,854] I don't even think he knew that.
+- [01:49:54,854 - 01:49:55,854] I don't know if he knew it.
+- [01:49:55,854 - 01:49:56,854] He said he didn't know it.
+- [01:49:56,854 - 01:49:59,854] I don't know if he knew it or not.
+- [01:49:59,854 - 01:50:04,854] But he himself, according to his own description,
+- [01:50:04,854 - 01:50:10,854] was more influenced by the principle of relativity,
+- [01:50:10,854 - 01:50:14,854] and he could not make these equations
+- [01:50:14,854 - 01:50:16,854] be the same in every reference frame,
+- [01:50:16,854 - 01:50:20,854] not without doing something to mix E and B up,
+- [01:50:20,854 - 01:50:22,854] and even that wasn't enough.
+- [01:50:22,854 - 01:50:25,854] He had to mix up the components of the velocity.
+- [01:50:25,854 - 01:50:28,854] Eventually, he had to figure out special relativity.
+- [01:50:28,854 - 01:50:31,354] He did not actually write
+- [01:50:31,354 - 01:50:33,854] his equations in four-vector notation.
+- [01:50:33,854 - 01:50:38,854] He just put in all the various extra gammas
+- [01:50:38,854 - 01:50:40,854] and functions of velocity,
+- [01:50:40,854 - 01:50:42,854] but what he was doing was basically making sure
+- [01:50:42,854 - 01:50:45,854] that the equations were the same in every reference frame
+- [01:50:45,854 - 01:50:48,854] by making them into four-vector equations.
+- [01:50:48,854 - 01:50:50,854] It was Minkowski who really
+- [01:50:50,854 - 01:50:52,854] put together the four-vector idea,
+- [01:50:52,854 - 01:50:56,854] and rewrote the equations in a four-vector notation.
+- [01:50:56,854 - 01:51:01,854] But Einstein was more or less clumsily, somewhat clumsy,
+- [01:51:01,854 - 01:51:05,854] clumsily going about writing these equations
+- [01:51:05,854 - 01:51:07,354] in a way that they would
+- [01:51:07,354 - 01:51:08,854] go from one frame to the next
+- [01:51:08,854 - 01:51:10,854] by some systematic transformation properties,
+- [01:51:10,854 - 01:51:12,354] and they would always be
+- [01:51:12,354 - 01:51:13,854] the same in all reference frames.
+- [01:51:13,854 - 01:51:16,354] So, yeah, it was essentially
+- [01:51:16,354 - 01:51:18,854] a conceptual guess on his part
+- [01:51:18,854 - 01:51:20,854] that Maxwell's equations, together
+- [01:51:20,854 - 01:51:22,854] with the Lorentz force law,
+- [01:51:22,854 - 01:51:25,854] should be the same in every reference frame.
+- [01:51:25,854 - 01:51:28,854] So you get to learn tensors for general relativity.
+- [01:51:28,854 - 01:51:31,854] Did you feel silly about special relativity then?
+- [01:51:31,854 - 01:51:34,854] No.
+- [01:51:34,854 - 01:51:36,854] Probably not.
+- [01:51:36,854 - 01:51:38,854] At first, I don't know a hell
+- [01:51:38,854 - 01:51:40,854] of a lot about the history of it.
+- [01:51:40,854 - 01:51:42,854] And, you know, history is always
+- [01:51:42,854 - 01:51:44,854] in the eye of the beholder,
+- [01:51:44,854 - 01:51:48,854] and what people say is not always exactly what happened,
+- [01:51:48,854 - 01:51:50,854] so I don't really know.
+- [01:51:50,854 - 01:51:51,854] But...
+- [01:51:51,854 - 01:51:54,854] I think according to his own writings,
+- [01:51:54,854 - 01:51:57,854] he at first did not like Minkowski's ideas.
+- [01:51:57,854 - 01:51:59,854] He didn't like the idea
+- [01:51:59,854 - 01:52:01,854] of four-dimensional geometry at first.
+- [01:52:01,854 - 01:52:03,854] It didn't take him long to catch on,
+- [01:52:03,854 - 01:52:07,854] but at first he simply wrote everything out
+- [01:52:07,854 - 01:52:10,854] in sort of clumsy, brutal form,
+- [01:52:10,854 - 01:52:16,854] and had a hard time adjusting to the Nieder notation.
+- [01:52:16,854 - 01:52:18,854] That's what he said anyway.
+- [01:52:18,854 - 01:52:21,854] Did Minkowski come up with this idea?
+- [01:52:21,854 - 01:52:23,854] I think it was two years.
+- [01:52:23,854 - 01:52:25,854] I think it was 1907, if I remember.
+- [01:52:25,854 - 01:52:27,854] Yeah.
+- [01:52:27,854 - 01:52:30,854] Things move slower at that time than they do now.
+- [01:52:30,854 - 01:52:31,854] That's pretty fast.
+- [01:52:31,854 - 01:52:33,854] That's pretty fast, yeah.
+- [01:52:33,854 - 01:52:34,854] Yeah.
+- [01:52:34,854 - 01:52:36,354] Well, I think if it was
+- [01:52:36,354 - 01:52:37,854] today, it would have happened much faster.
+- [01:52:37,854 - 01:52:40,854] Has Minkowski been a mathematician or a physicist?
+- [01:52:40,854 - 01:52:42,854] Well, I'm not sure that
+- [01:52:42,854 - 01:52:44,854] people necessarily distinguished at that time.
+- [01:52:44,854 - 01:52:47,854] And I don't know that he contributed
+- [01:52:47,854 - 01:52:50,854] much to the theory of the universe.
+- [01:52:50,854 - 01:52:52,854] I don't think he contributed much else to physics.
+- [01:52:52,854 - 01:52:54,854] Not that this wasn't enough.
+- [01:52:54,854 - 01:52:56,854] I mean, this was a huge amount to contribute.
+- [01:52:56,854 - 01:52:58,854] But I don't know what else he did.
+- [01:52:58,854 - 01:53:04,854] There was no long history of famous papers by Minkowski.
+- [01:53:04,854 - 01:53:07,854] This was essentially his...
+- [01:53:07,854 - 01:53:11,854] ...high point.
+- [01:53:11,854 - 01:53:13,854] That's not correct.
+- [01:53:13,854 - 01:53:15,854] That's not correct.
+- [01:53:15,854 - 01:53:17,854] That's not correct.
+- [01:53:20,854 - 01:53:24,854] I don't know.
+- [01:53:24,854 - 01:53:26,854] I don't know.
+- [01:53:26,854 - 01:53:30,854] Was he affected by Lorentz?
+- [01:53:30,854 - 01:53:34,854] Don't know.
+- [01:53:34,854 - 01:53:37,854] I think probably yes.
+- [01:53:37,854 - 01:53:39,854] Was he affected by Fitzgerald?
+- [01:53:39,854 - 01:53:41,854] Who knows?
+- [01:53:41,854 - 01:53:45,854] I don't know.
+- [01:53:45,854 - 01:53:47,854] The one thing I know is you don't
+- [01:53:47,854 - 01:53:49,854] trust people when they give answers to those questions.
+- [01:53:49,854 - 01:53:50,854] They don't remember.
+- [01:53:50,854 - 01:53:55,854] So do you know if the tensor transformation of
+- [01:53:55,854 - 01:54:00,854] E and B was in his first paper in 1907?
+- [01:54:00,854 - 01:54:01,854] No.
+- [01:54:01,854 - 01:54:03,854] It was in Einstein's paper in 1905.
+- [01:54:04,854 - 01:54:05,854] Yeah.
+- [01:54:05,854 - 01:54:09,854] But he just had it written out by hand.
+- [01:54:09,854 - 01:54:12,354] When Maxwell wrote his equations, he wrote
+- [01:54:12,354 - 01:54:14,854] every single equation, the X component, the
+- [01:54:14,854 - 01:54:16,854] Y component, the Z component.
+- [01:54:16,854 - 01:54:18,854] How many of them are there altogether?
+- [01:54:18,854 - 01:54:19,854] Let's see.
+- [01:54:19,854 - 01:54:21,354] The dot, there's one equation
+- [01:54:21,354 - 01:54:22,854] for E dot, that's three equations.
+- [01:54:22,854 - 01:54:24,854] Six equations.
+- [01:54:24,854 - 01:54:25,854] Seven...
+- [01:54:25,854 - 01:54:26,854] Eight equations?
+- [01:54:26,854 - 01:54:30,854] I think eight equations altogether.
+- [01:54:30,854 - 01:54:31,854] No, no, no, no.
+- [01:54:31,854 - 01:54:32,854] There's more than that.
+- [01:54:32,854 - 01:54:34,854] But...
+- [01:54:34,854 - 01:54:35,854] Sorry.
+- [01:54:43,854 - 01:54:45,854] The vectorization is today.
+- [01:54:47,854 - 01:54:53,654] I don't know.
+- [01:54:53,654 - 01:54:59,244] So this was three, six, eight equations, and
+- [01:54:59,244 - 01:55:04,834] I think he wrote down all the x component
+- [01:55:04,834 - 01:55:06,683] of this, the x component of
+- [01:55:06,683 - 01:55:08,533] this, one, two, three, four, five, six.
+- [01:55:08,533 - 01:55:11,873] Yeah, he wrote down all eight equations and
+- [01:55:11,873 - 01:55:15,214] never put them together into some nice symbolic
+- [01:55:15,214 - 01:55:16,214] form.
+- [01:55:16,214 - 01:55:18,454] Well, Einstein was doing essentially
+- [01:55:18,454 - 01:55:20,694] exactly the same thing in space-time.
+- [01:55:20,694 - 01:55:23,844] He was just writing everything out and
+- [01:55:23,844 - 01:55:26,994] sort of doing it by trial and error.
+- [01:55:26,994 - 01:55:28,874] You get the feeling when you read the paper
+- [01:55:28,874 - 01:55:30,754] that he did it by trial and error rather than
+- [01:55:30,754 - 01:55:33,094] anything as systematic as four vectors.
+- [01:55:33,094 - 01:55:37,214] It was Minkowski who understood the four vector idea.
+- [01:55:37,214 - 01:55:40,994] So it was a hit and miss
+- [01:55:40,994 - 01:55:44,774] for Einstein with some good intuition about the...
+- [01:55:44,774 - 01:55:45,774] Yeah.
+- [01:55:45,774 - 01:55:45,814] Yeah.
+- [01:55:45,814 - 01:55:45,933] Yeah.
+- [01:55:45,933 - 01:55:45,974] Yeah.
+- [01:55:45,974 - 01:55:46,074] Yeah.
+- [01:55:46,074 - 01:55:46,174] Yeah.
+- [01:55:46,174 - 01:55:46,194] Yeah.
+- [01:55:46,214 - 01:55:46,654] Yeah.
+- [01:55:46,654 - 01:55:46,714] Yeah.
+- [01:55:46,714 - 01:55:46,774] Yeah.
+- [01:55:46,774 - 01:55:46,874] Yeah.
+- [01:55:46,874 - 01:55:46,894] Yeah.
+- [01:55:46,894 - 01:55:46,953] Yeah.
+- [01:55:46,953 - 01:55:46,974] Yeah.
+- [01:55:46,974 - 01:55:47,574] Yeah.
+- [01:55:47,574 - 01:55:47,674] Yeah.
+- [01:55:47,674 - 01:55:47,994] Yeah.
+- [01:55:47,994 - 01:55:48,014] Yeah.
+- [01:55:48,014 - 01:55:48,114] Yeah.
+- [01:55:48,114 - 01:55:51,064] Next time we'll come back and we will
+- [01:55:51,064 - 01:55:54,014] work out the Lorentz force law as modified by
+- [01:55:54,014 - 01:55:55,274] Einstein and Minkowski.
+- [01:56:03,654 - 01:56:07,274] The preceding program is copyrighted by Stanford University.
+- [01:56:07,673 - 01:56:10,254] Please visit us at stanford.edu.
+- [01:56:10,254 - 01:56:10,394] Thank you.
