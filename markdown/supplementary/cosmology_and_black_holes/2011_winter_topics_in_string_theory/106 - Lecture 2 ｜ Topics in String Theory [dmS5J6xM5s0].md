@@ -1,0 +1,1874 @@
+# Transcript
+
+Source: supplementary/cosmology_and_black_holes/2011_winter_topics_in_string_theory/106 - Lecture 2 ｜ Topics in String Theory [dmS5J6xM5s0].mkv
+
+- [00:00:00,000 - 00:00:07,000] Stanford University
+- [00:00:07,000 - 00:00:21,000] We'll move on and talk about cosmology and what string theory has to offer cosmology.
+- [00:00:21,000 - 00:00:31,000] I suppose I could spend two minutes just telling you what I think the accomplishments and the failures of string theory have been.
+- [00:00:31,000 - 00:00:39,000] I think we'll do that another time. It's getting late and we want to get on with some substance.
+- [00:00:39,000 - 00:00:48,000] Alright, let's go back to the special theory of relativity for a moment and just remember what it's all about.
+- [00:00:48,000 - 00:00:50,000] It's about thinking of...
+- [00:00:50,000 - 00:00:51,000] ...
+- [00:00:51,000 - 00:00:58,000] space and time as a single entity that we call spacetime.
+- [00:00:58,000 - 00:01:01,000] And spacetime has a geometry.
+- [00:01:01,000 - 00:01:04,000] The geometry is described by a metric.
+- [00:01:04,000 - 00:01:06,000] Let me get this...
+- [00:01:06,000 - 00:01:09,000] Ah, I think I better leave it on.
+- [00:01:11,000 - 00:01:15,000] It's described by a metric, a metric tensor.
+- [00:01:15,000 - 00:01:20,000] Special relativity, in special relativity, the metric is especially simple.
+- [00:01:20,000 - 00:01:21,000] ...
+- [00:01:21,000 - 00:01:24,000] And the metric is just...
+- [00:01:24,000 - 00:01:30,000] If we take two points in space and time, two neighboring points in space and time, can you see them?
+- [00:01:30,000 - 00:01:32,000] No.
+- [00:01:32,000 - 00:01:34,000] It doesn't matter.
+- [00:01:34,000 - 00:01:38,000] But let's take two points in space and time, any two points in space and time.
+- [00:01:38,000 - 00:01:43,000] They're separated. Let's call this the x-axis. Let's call this the t-axis.
+- [00:01:43,000 - 00:01:47,000] And there's two more axes coming out of the blackboard.
+- [00:01:47,000 - 00:01:50,000] These are two arbitrary but neighboring points.
+- [00:01:50,000 - 00:02:01,000] And they're separated by some dx, dt, dy, dz.
+- [00:02:01,000 - 00:02:04,000] Separation here.
+- [00:02:04,000 - 00:02:07,000] And we define a new concept.
+- [00:02:07,000 - 00:02:11,000] The new concept is the relativistic distance between them, the proper time.
+- [00:02:11,000 - 00:02:19,000] And the proper time is defined to be dt squared minus one over the speed of light squared.
+- [00:02:19,000 - 00:02:26,000] The x squared plus the y squared plus the z squared.
+- [00:02:26,000 - 00:02:34,000] Different than you might have written down if this were ordinary Euclidean four-dimensional space.
+- [00:02:34,000 - 00:02:38,000] If it were Euclidean four-dimensional space, you probably would have put a plus sign here.
+- [00:02:38,000 - 00:02:40,000] You certainly would have put a plus sign there.
+- [00:02:40,000 - 00:02:43,000] And you might have left out the one over c squared.
+- [00:02:43,000 - 00:02:47,000] Although the one over c squared is just a rather arbitrary factor,
+- [00:02:47,000 - 00:02:48,000] you could always get rid of it by removing the one over c squared.
+- [00:02:48,000 - 00:02:54,000] You could get rid of it by rescaling the space dimensions or the time dimensions appropriately.
+- [00:02:54,000 - 00:03:01,000] In other words, by choosing units for space and time in which the velocity of light is one.
+- [00:03:01,000 - 00:03:03,000] You can always do that.
+- [00:03:03,000 - 00:03:05,000] Let's leave it for a moment.
+- [00:03:05,000 - 00:03:13,000] This is the proper time between two points along a trajectory.
+- [00:03:13,000 - 00:03:17,000] It's a nice concept as long as dt is bigger than the x squared plus the y squared plus the z squared.
+- [00:03:18,000 - 00:03:26,000] The proper time, the square of the proper time in particular, ought to be a positive thing.
+- [00:03:26,000 - 00:03:33,000] But notice that if dx squared plus dy squared plus dz squared is bigger than dt squared,
+- [00:03:33,000 - 00:03:36,000] something bad happens to this expression.
+- [00:03:36,000 - 00:03:39,000] Namely, d tau squared is negative.
+- [00:03:39,000 - 00:03:40,000] But never mind.
+- [00:03:40,000 - 00:03:46,000] Nevertheless, this is the definition of proper time between any two points.
+- [00:03:46,000 - 00:03:47,000] The most important thing for us to understand is that,
+- [00:03:47,000 - 00:03:51,000] the most important thing for us tonight is how light rays move.
+- [00:03:51,000 - 00:03:53,000] How do light rays move?
+- [00:03:53,000 - 00:03:58,000] Let's suppose a light ray passes through those two points.
+- [00:03:58,000 - 00:04:01,000] Then the rule, the rule for a light wave,
+- [00:04:01,000 - 00:04:04,000] let's forget the y squared and the z squared for a moment.
+- [00:04:04,000 - 00:04:07,000] Let's just take the x squared here.
+- [00:04:07,000 - 00:04:13,000] So the light ray is moving along the x axis.
+- [00:04:13,000 - 00:04:15,000] Little infinitesimal separation.
+- [00:04:15,000 - 00:04:16,000] Little infinitesimal separation.
+- [00:04:16,000 - 00:04:17,000] Little infinitesimal separation.
+- [00:04:17,000 - 00:04:21,000] The two directions along the light ray have only a dx and a dt.
+- [00:04:21,000 - 00:04:26,000] The rule about light rays is that along the trajectory of a light ray,
+- [00:04:26,000 - 00:04:29,000] the proper time is zero.
+- [00:04:29,000 - 00:04:33,000] Somebody traveling with a light ray, if you could, which you can't,
+- [00:04:33,000 - 00:04:36,000] would discover that the clock stands still,
+- [00:04:36,000 - 00:04:42,000] which is another way of saying that the proper time along the trajectory of a light wave is zero.
+- [00:04:42,000 - 00:04:46,000] So if you want to know what kind of trajectory,
+- [00:04:46,000 - 00:04:49,000] a light ray consists of,
+- [00:04:49,000 - 00:04:55,000] you simply set the left, the right hand side of this equal to zero.
+- [00:04:55,000 - 00:05:00,000] So this is equal to zero for a, for the trajectory of a light ray.
+- [00:05:00,000 - 00:05:07,000] And another way to say the same thing is that the t squared, well, c squared, this t squared,
+- [00:05:07,000 - 00:05:10,000] is equal to the x squared.
+- [00:05:10,000 - 00:05:15,000] I just multiplied by c squared and that transposed one side to the right.
+- [00:05:16,000 - 00:05:24,000] Or, taking the square root, it says that c dt is equal to dx.
+- [00:05:24,000 - 00:05:29,000] Or, what's the other possibility?
+- [00:05:29,000 - 00:05:35,000] Or, c dt is minus dx.
+- [00:05:35,000 - 00:05:39,000] This is just another way of saying that a light wave moves with the speed of light.
+- [00:05:39,000 - 00:05:44,000] That dx by dt, that's the velocity of the light ray, is equal to c.
+- [00:05:44,000 - 00:05:45,000] Or, dx by dt,
+- [00:05:45,000 - 00:05:47,000] is minus c.
+- [00:05:47,000 - 00:05:51,000] One of the light rays with the plus sign moves to the right,
+- [00:05:51,000 - 00:05:55,000] the other light ray with the minus sign here moves to the left.
+- [00:05:55,000 - 00:06:01,000] Alright, the main point here is just that the way you diagnose a geometry like this
+- [00:06:01,000 - 00:06:05,000] to find out how light rays move is you solve the equation
+- [00:06:05,000 - 00:06:11,000] that says that the proper time along the light trajectory is zero.
+- [00:06:11,000 - 00:06:14,000] Alright, now we're going to come to the more complicated
+- [00:06:15,000 - 00:06:20,000] geometries of general relativity.
+- [00:06:20,000 - 00:06:23,000] In general relativity, the metric is more complicated.
+- [00:06:23,000 - 00:06:25,000] It varies from place to place.
+- [00:06:25,000 - 00:06:28,000] The geometry varies from place to place.
+- [00:06:28,000 - 00:06:35,000] And it's described by a more complicated object,
+- [00:06:35,000 - 00:06:41,000] the metric tensor, which itself can vary from place to place.
+- [00:06:41,000 - 00:06:43,000] And we've done these things before.
+- [00:06:43,000 - 00:06:48,000] So I assume you know a little bit about it.
+- [00:06:48,000 - 00:06:54,000] We have a metric tensor, G i, well let's call it G mu nu.
+- [00:06:54,000 - 00:06:56,000] Just remember our notation.
+- [00:06:56,000 - 00:07:03,000] Mu and nu are variables which run over the four dimensions of space-time.
+- [00:07:03,000 - 00:07:06,000] Usually we take them to go from zero to three.
+- [00:07:06,000 - 00:07:13,000] Zero being time, and x1, x2, x3 being the ordinary components of space.
+- [00:07:13,000 - 00:07:21,000] The s squared is G mu nu times the x mu, the x nu.
+- [00:07:21,000 - 00:07:26,000] x mu and x nu are the four coordinates of space-time.
+- [00:07:26,000 - 00:07:29,000] And as always, in an expression like this,
+- [00:07:29,000 - 00:07:35,000] it is automatic that we sum over the repeated index.
+- [00:07:35,000 - 00:07:38,000] Here there are two repeated indices.
+- [00:07:38,000 - 00:07:42,000] So this stands for things like G naught, naught,
+- [00:07:42,000 - 00:07:46,000] dT squared, x naught is T,
+- [00:07:46,000 - 00:07:51,000] plus G naught, one, dT dx,
+- [00:07:51,000 - 00:07:53,000] blah blah blah blah blah,
+- [00:07:53,000 - 00:07:58,000] all possible combinations with their metric coefficients.
+- [00:07:58,000 - 00:08:02,000] Again, if we want to know how a light ray moves,
+- [00:08:02,000 - 00:08:08,000] we simply, in other words, if we want to find the little infinitesimal gaps
+- [00:08:08,000 - 00:08:11,000] that correspond to a light ray moving from one to the other,
+- [00:08:11,000 - 00:08:13,000] we set this equal to zero.
+- [00:08:13,000 - 00:08:15,000] That's the rule.
+- [00:08:15,000 - 00:08:17,000] Set that equal to zero.
+- [00:08:17,000 - 00:08:24,000] And that gives us constraints on the allowable trajectories of light rays.
+- [00:08:24,000 - 00:08:30,000] That's the content, incidentally, of saying that light rays move with the speed of light.
+- [00:08:30,000 - 00:08:34,000] Whether the speed of light is one or c,
+- [00:08:34,000 - 00:08:39,000] or if you use some other units, something else, d,
+- [00:08:39,000 - 00:08:41,000] that doesn't matter.
+- [00:08:41,000 - 00:08:48,000] The invariant statement is that light rays move on trajectories of zero,
+- [00:08:48,000 - 00:08:53,000] this should be d tau squared, excuse me,
+- [00:08:53,000 - 00:08:58,000] trajectories which correspond to zero proper time.
+- [00:08:58,000 - 00:09:04,000] All right, now what we're going to do is we're going to examine a particular metric.
+- [00:09:04,000 - 00:09:06,000] It's the metric of a black hole.
+- [00:09:06,000 - 00:09:08,000] We're not going to solve Einstein's equations.
+- [00:09:08,000 - 00:09:10,000] We're just going to write down the answer.
+- [00:09:10,000 - 00:09:16,000] And we're going to inspect it for a while and learn about it.
+- [00:09:16,000 - 00:09:21,000] Tonight, I'm going to only spend a few minutes with the metric,
+- [00:09:21,000 - 00:09:26,000] showing you basically one property about the way light rays move in that metric.
+- [00:09:26,000 - 00:09:32,000] But we're going to get right to the point tonight about the quantum mechanics of black holes.
+- [00:09:32,000 - 00:09:35,000] The quantum mechanics of black holes is very strange.
+- [00:09:35,000 - 00:09:39,000] In some ways, it's very strange, and in some ways, it's extremely ordinary.
+- [00:09:39,000 - 00:09:45,000] In fact, it's very strange how ordinary it is,
+- [00:09:45,000 - 00:09:51,000] given how bizarre black holes are as classical non-quantum mechanical entities.
+- [00:09:51,000 - 00:09:56,000] Okay, so let's write down, let's just explicitly write down the metric.
+- [00:09:56,000 - 00:10:00,000] First, let's write down the metric of flat space.
+- [00:10:00,000 - 00:10:05,000] I'm going to set, from here on in, I'm going to set the speed of light equal to one.
+- [00:10:05,000 - 00:10:09,000] In that case, what I would write down for the metric of flat space,
+- [00:10:09,000 - 00:10:19,000] would be
+- [00:10:19,000 - 00:10:28,000] dt squared minus dx squared plus dy squared plus, minus dx squared minus dy squared minus dz squared.
+- [00:10:28,000 - 00:10:32,000] Alright, let's write it. Minus dy squared minus dz squared.
+- [00:10:32,000 - 00:10:35,000] Or this way.
+- [00:10:35,000 - 00:10:38,000] Now this here is nothing but the ordinary,
+- [00:10:39,000 - 00:10:45,000] metric of ordinary flat Euclidean space, here.
+- [00:10:45,000 - 00:10:48,000] And we can write it another way. We can write it in polar coordinates.
+- [00:10:48,000 - 00:10:51,000] Let's think about polar coordinates for a moment.
+- [00:10:51,000 - 00:10:58,000] Polar coordinates are the coordinates that I would use if I'm standing in the center,
+- [00:10:58,000 - 00:11:01,000] which I am, I'm always at the center, I'm very self-centered.
+- [00:11:01,000 - 00:11:03,000] Alright? And I'm always at the center.
+- [00:11:03,000 - 00:11:07,000] And instead of using coordinates x, y, and z,
+- [00:11:07,000 - 00:11:13,000] I'm going to use coordinates which are the distance from me, r, let's call it r,
+- [00:11:13,000 - 00:11:17,000] the distance from me, and two angles
+- [00:11:17,000 - 00:11:23,000] to represent the direction that I might be examining.
+- [00:11:23,000 - 00:11:25,000] So an r and two angles.
+- [00:11:25,000 - 00:11:33,000] In fact, the two angles are often summarized by the symbol capital omega.
+- [00:11:33,000 - 00:11:35,000] That symbol actually stands for the distance from me.
+- [00:11:35,000 - 00:11:39,000] That symbol actually stands for a unit sphere.
+- [00:11:39,000 - 00:11:42,000] A unit sphere. Why a unit sphere?
+- [00:11:42,000 - 00:11:45,000] Because I can think of myself surrounded by a unit sphere,
+- [00:11:45,000 - 00:11:49,000] and then a point on the unit sphere determines the direction.
+- [00:11:49,000 - 00:11:53,000] The symbol omega often stands for a unit sphere.
+- [00:11:53,000 - 00:12:01,000] And the symbol d omega squared stands for the metric on the unit sphere.
+- [00:12:01,000 - 00:12:04,000] Maybe we should write down the metric on a unit sphere
+- [00:12:04,000 - 00:12:06,000] to just be really concrete.
+- [00:12:06,000 - 00:12:09,000] To represent the unit sphere, you need two angles.
+- [00:12:09,000 - 00:12:10,000] What are they called?
+- [00:12:10,000 - 00:12:15,000] Azimuthal and polar angles, or longitude and latitude.
+- [00:12:15,000 - 00:12:18,000] Two angles, theta and phi.
+- [00:12:18,000 - 00:12:25,000] And the metric of the unit sphere is the length element on the unit sphere
+- [00:12:25,000 - 00:12:29,000] is just d theta squared, theta is the polar angle,
+- [00:12:29,000 - 00:12:33,000] plus sine squared theta.
+- [00:12:33,000 - 00:12:39,000] d phi squared, that's the metric on the unit sphere.
+- [00:12:42,000 - 00:12:45,000] Phi is the angle around the pole,
+- [00:12:45,000 - 00:12:49,000] and theta is the distance along an angular distance from,
+- [00:12:49,000 - 00:12:51,000] let's say, from the North Pole.
+- [00:12:51,000 - 00:12:56,000] Or maybe it's a, no, I think this is actually the distance from the equator.
+- [00:12:57,000 - 00:13:02,000] And this is the thing that's usually called, just abbreviated.
+- [00:13:02,000 - 00:13:04,000] It's just an abbreviation.
+- [00:13:04,000 - 00:13:06,000] It's called d omega squared.
+- [00:13:06,000 - 00:13:11,000] And it means the metric of a two-dimensional, ordinary two-dimensional sphere,
+- [00:13:11,000 - 00:13:13,000] but of unit length.
+- [00:13:13,000 - 00:13:16,000] If the sphere had some other unit radius,
+- [00:13:16,000 - 00:13:19,000] if the sphere had some other radius,
+- [00:13:19,000 - 00:13:26,000] then the metric, the metric of it would simply have the square of the radius multiplying the whole thing.
+- [00:13:26,000 - 00:13:29,000] But we're going to be drawing a unit sphere.
+- [00:13:29,000 - 00:13:32,000] Yeah, okay, let alone, let's put in what happens.
+- [00:13:32,000 - 00:13:36,000] What happens if the radius of the sphere is not one?
+- [00:13:36,000 - 00:13:39,000] If the radius of the sphere is not one,
+- [00:13:39,000 - 00:13:43,000] then we would write r squared, where r is the radius of that sphere,
+- [00:13:43,000 - 00:13:48,000] times d omega, t theta squared plus sine squared theta,
+- [00:13:48,000 - 00:13:54,000] d phi squared, or just r squared d omega squared.
+- [00:13:54,000 - 00:14:00,000] Okay, so r squared d omega squared is the metric of a sphere of radius r.
+- [00:14:00,000 - 00:14:01,000] All right.
+- [00:14:01,000 - 00:14:05,000] So I stand at the center, and I look around me,
+- [00:14:05,000 - 00:14:07,000] and I see two points.
+- [00:14:07,000 - 00:14:09,000] They're separated.
+- [00:14:09,000 - 00:14:12,000] You could think of them as separated by a dx and a dy and a z,
+- [00:14:12,000 - 00:14:19,000] but no, I'm going to think of them as separated by a dr, a d theta, and a d phi.
+- [00:14:19,000 - 00:14:20,000] Okay.
+- [00:14:20,000 - 00:14:26,000] Dr, different distance to me, different angle, and so forth.
+- [00:14:26,000 - 00:14:30,000] What's the distance between those two neighboring points?
+- [00:14:30,000 - 00:14:32,000] The distance between those neighboring points,
+- [00:14:32,000 - 00:14:35,000] in ordinary flat conventional space,
+- [00:14:35,000 - 00:14:38,000] in other words, the thing which really replaces this thing,
+- [00:14:38,000 - 00:14:42,000] this piece of it, in polar coordinates,
+- [00:14:42,000 - 00:14:49,000] it is the r squared plus,
+- [00:14:49,000 - 00:14:55,000] that's the difference in radial distance along the radial distance,
+- [00:14:55,000 - 00:14:59,000] and then a contribution coming from the distance r
+- [00:14:59,000 - 00:15:03,000] in angular space, and that's just this,
+- [00:15:03,000 - 00:15:08,000] plus r squared d omega squared.
+- [00:15:08,000 - 00:15:11,000] Schild, S-H-I-L-D.
+- [00:15:11,000 - 00:15:13,000] S, yeah.
+- [00:15:13,000 - 00:15:15,000] S, hmm?
+- [00:15:15,000 - 00:15:19,000] The question was whether there's a t or not, and there is.
+- [00:15:19,000 - 00:15:20,000] No t.
+- [00:15:20,000 - 00:15:22,000] D.
+- [00:15:22,000 - 00:15:24,000] No, no t.
+- [00:15:24,000 - 00:15:25,000] No t.
+- [00:15:25,000 - 00:15:26,000] Okay.
+- [00:15:26,000 - 00:15:28,000] No, no, I mean in the middle of the . . .
+- [00:15:29,000 - 00:15:31,000] Oh, no, I don't think so.
+- [00:15:31,000 - 00:15:32,000] Schwarzschild.
+- [00:15:32,000 - 00:15:33,000] Schwarzschild, yeah.
+- [00:15:33,000 - 00:15:34,000] There isn't.
+- [00:15:34,000 - 00:15:35,000] Okay.
+- [00:15:35,000 - 00:15:41,000] How does this get modified in the presence of a black hole?
+- [00:15:41,000 - 00:15:43,000] Here's a black hole.
+- [00:15:43,000 - 00:15:48,000] Some coordinates, and we're going to describe the metric again in polar coordinates.
+- [00:15:48,000 - 00:15:54,000] It's a nice round object, nice, spherically symmetric object.
+- [00:15:54,000 - 00:15:57,000] Polar coordinates are the same as polar coordinates.
+- [00:15:57,000 - 00:16:01,000] Polar coordinates are the convenient coordinates to write it in terms of.
+- [00:16:01,000 - 00:16:03,000] In fact, that's generally true.
+- [00:16:03,000 - 00:16:06,000] When you have something which has nice spherical symmetry,
+- [00:16:06,000 - 00:16:11,000] then polar coordinates are usually the best coordinates to describe it in.
+- [00:16:11,000 - 00:16:13,000] Okay, so how do we do it?
+- [00:16:13,000 - 00:16:16,000] First of all, if we go very far from the black hole,
+- [00:16:16,000 - 00:16:20,000] the influence of the black hole should be . . .
+- [00:16:20,000 - 00:16:25,000] should go, should fade, should fade as you move away.
+- [00:16:25,000 - 00:16:26,000] That's the first thing.
+- [00:16:26,000 - 00:16:31,000] That means that far from the black hole, this should be pretty good.
+- [00:16:31,000 - 00:16:36,000] All right, I'll write down the answer, and then we'll just check that.
+- [00:16:36,000 - 00:16:38,000] The answer is 1 minus . . .
+- [00:16:38,000 - 00:16:40,000] Now, a black hole has a mass.
+- [00:16:40,000 - 00:16:43,000] Let me just write down over here what variables are interesting.
+- [00:16:43,000 - 00:16:47,000] Is the mass of the black hole m?
+- [00:16:47,000 - 00:16:54,000] There is something that we'll call either the Schwarzschild radius or the radius of the horizon.
+- [00:16:54,000 - 00:16:55,000] All right.
+- [00:16:55,000 - 00:16:57,000] We can call it R sub s.
+- [00:16:57,000 - 00:17:00,000] That's for Schwarzschild, or Schwarzschild.
+- [00:17:00,000 - 00:17:03,000] And that happens to be related to m,
+- [00:17:03,000 - 00:17:06,000] is twice mg.
+- [00:17:06,000 - 00:17:10,000] And just once I will put the speeds of light in.
+- [00:17:10,000 - 00:17:15,000] After that, we'll set the speed of light equal to 1.
+- [00:17:15,000 - 00:17:22,000] I may here and there decide to put the c's back in just for illustrative purposes.
+- [00:17:22,000 - 00:17:25,000] But if I write that R Schwarzschild is 2mg,
+- [00:17:25,000 - 00:17:29,000] you know that I'm setting the speed of light equal to 1.
+- [00:17:29,000 - 00:17:37,000] All right, so it's 2mg over c squared little r.
+- [00:17:37,000 - 00:17:41,000] Now, little r is the radial coordinate.
+- [00:17:41,000 - 00:17:43,000] Little r is the radial coordinate.
+- [00:17:43,000 - 00:17:45,000] We can . . .
+- [00:17:45,000 - 00:17:46,000] In brackets.
+- [00:17:46,000 - 00:17:53,000] We can also write this as 1 minus R Schwarzschild over R.
+- [00:17:53,000 - 00:17:54,000] The ratio of . . .
+- [00:17:55,000 - 00:17:58,000] The distance to the point where . . .
+- [00:17:58,000 - 00:18:03,000] The r, little r here is the point of interest.
+- [00:18:03,000 - 00:18:06,000] R Schwarzschild is the radius of the horizon.
+- [00:18:06,000 - 00:18:10,000] We're interested in points far from the black hole for a moment,
+- [00:18:10,000 - 00:18:13,000] or at least out beyond the horizon of the black hole.
+- [00:18:13,000 - 00:18:18,000] So little r is bigger than big R here.
+- [00:18:18,000 - 00:18:22,000] All right, that gets multiplied by dt squared.
+- [00:18:22,000 - 00:18:24,000] Replacing this.
+- [00:18:24,000 - 00:18:26,000] Now, this looks good.
+- [00:18:26,000 - 00:18:30,000] When little r gets big and we go far from the black hole,
+- [00:18:30,000 - 00:18:31,000] this becomes . . .
+- [00:18:31,000 - 00:18:37,000] This here becomes small, and we just get back our 1, dt squared.
+- [00:18:37,000 - 00:18:39,000] Then there's minus.
+- [00:18:39,000 - 00:18:42,000] The same thing except in the denominator.
+- [00:18:42,000 - 00:18:51,000] 1 minus 2mg over c squared r times the r squared.
+- [00:18:54,000 - 00:19:01,000] Again, when little r gets large, the denominator becomes 1,
+- [00:19:01,000 - 00:19:04,000] and this just becomes the r squared.
+- [00:19:04,000 - 00:19:07,000] And then the last term here, that's easy.
+- [00:19:07,000 - 00:19:11,000] Just plus r squared, the omega squared.
+- [00:19:11,000 - 00:19:15,000] This is the metric of a Schwarzschild black hole.
+- [00:19:15,000 - 00:19:18,000] Memorize it.
+- [00:19:18,000 - 00:19:21,000] It's a great thing for cocktail parties.
+- [00:19:21,000 - 00:19:22,000] . . .
+- [00:19:22,000 - 00:19:23,000] . . .
+- [00:19:23,000 - 00:19:25,000] . . .
+- [00:19:25,000 - 00:19:26,000] . . .
+- [00:19:26,000 - 00:19:27,000] . . .
+- [00:19:27,000 - 00:19:28,000] .
+- [00:19:28,000 - 00:19:29,000] . .
+- [00:19:29,000 - 00:19:30,000] . .
+- [00:19:30,000 - 00:19:31,000] . .
+- [00:19:31,000 - 00:19:32,000] . .
+- [00:19:32,000 - 00:19:33,000] .
+- [00:19:34,000 - 00:19:35,000] .
+- [00:19:35,000 - 00:19:36,000] .
+- [00:19:36,000 - 00:19:37,000] .
+- [00:19:37,000 - 00:19:38,000] .
+- [00:19:38,000 - 00:19:39,000] .
+- [00:19:39,000 - 00:19:40,000] .
+- [00:19:40,000 - 00:19:41,000] .
+- [00:19:41,000 - 00:19:42,000] .
+- [00:19:42,000 - 00:19:43,000] .
+- [00:19:43,000 - 00:19:44,000] ?
+- [00:19:44,000 - 00:19:45,000] .
+- [00:19:45,000 - 00:19:46,000] .
+- [00:19:46,000 - 00:19:47,000] .
+- [00:19:47,000 - 00:19:48,000] .
+- [00:19:48,000 - 00:19:49,000] .
+- [00:19:49,000 - 00:19:50,000] .
+- [00:19:50,000 - 00:19:51,000] .
+- [00:19:51,000 - 00:19:52,000] .
+- [00:19:52,000 - 00:19:53,000] .
+- [00:19:53,000 - 00:20:04,420] something a little bit strange. 1 minus 2mg, if little r is large, this is small, and what's
+- [00:20:04,420 - 00:20:12,080] in here not only is close to 1, but even more important, it's positive. What's here is also
+- [00:20:12,080 - 00:20:16,760] positive, so we haven't done anything really weird like changing signs of coefficients
+- [00:20:16,760 - 00:20:24,540] and so forth. But notice that something unusual does happen at the point where r gets small
+- [00:20:24,540 - 00:20:31,000] enough that this gets bigger than 1. Where does that happen? That happens, you know what,
+- [00:20:31,000 - 00:20:34,260] from here on, I'm going to get rid of the c squares, they're only going to confuse me,
+- [00:20:34,260 - 00:20:40,420] I'm going to forget about them. Just let's get rid of them, set c equal to 1. Where is
+- [00:20:40,420 - 00:20:46,620] the crossover where this gets bigger than this? And that happens when r is equal to
+- [00:20:46,620 - 00:20:46,720] 1.
+- [00:20:46,760 - 00:20:55,420] r is equal to 2mg. Something happens when r, or when 2mg over r is equal to 1, same
+- [00:20:55,420 - 00:21:02,680] thing, when r becomes smaller than this, you're inside the black hole. You're inside the
+- [00:21:02,680 - 00:21:09,900] Schwarzschild radius. At r equals to 2mg, something really weird happens. The coefficient
+- [00:21:09,900 - 00:21:16,120] of dt squared becomes 0. Sounds like no time.
+- [00:21:16,760 - 00:21:23,700] No time. When the coefficient here is 0, the proper time from one value of time to
+- [00:21:23,700 - 00:21:30,740] a neighboring value of time is just 0. And even worse, the coefficient of dr squared
+- [00:21:30,740 - 00:21:36,640] gets infinite. That sounds like something rather dramatic happens at the horizon or
+- [00:21:36,640 - 00:21:43,260] at the Schwarzschild radius of the black hole. And we're going to come back to that. We're
+- [00:21:43,260 - 00:21:46,620] not going to analyze that tonight. Tonight, we're going to come back to that. We're going
+- [00:21:46,620 - 00:21:51,480] to come back to that. We're going to come back to that. We're going to come back to that.
+- [00:21:51,480 - 00:21:55,840] We're just going to take this metric and say, all right, something interesting is happening
+- [00:21:55,840 - 00:22:01,020] at r equals 2mg. But there's another place where something interesting is happening.
+- [00:22:01,020 - 00:22:13,080] I don't know, interesting? Weird. And that's at r equals 0. At r equals 0, not only is
+- [00:22:13,080 - 00:22:16,480] this negative, but it's also infinite.
+- [00:22:16,480 - 00:22:29,580] Likewise, this thing has some nasty behavior in it. So at r equals 0, some kind of singular
+- [00:22:29,580 - 00:22:36,660] behavior happens. And at r equals 2mg, some kind of other kind of singular behavior happens.
+- [00:22:36,660 - 00:22:40,620] They're quite different. They're extremely different. They have very little relationship
+- [00:22:40,620 - 00:22:46,480] to each other. I can tell you right now what the difference is. If you were falling in
+- [00:22:46,480 - 00:22:52,880] to a black hole, well, whenever you're falling into a gravitational object, you experience
+- [00:22:52,880 - 00:22:57,720] tidal forces. Everybody know what tidal forces are? Anybody not know what tidal forces are?
+- [00:22:57,720 - 00:23:05,360] OK. You experience tidal forces. And if you're big enough, the gradient of the gravitational
+- [00:23:05,360 - 00:23:10,460] field pulls on you differently in different parts of your body. Your feet are pulled harder
+- [00:23:10,460 - 00:23:15,800] than your head, so you get stretched. You're also squeezed inward to some extent. Those
+- [00:23:15,800 - 00:23:16,260] are called tidal forces. And you're not going to get any more than that. And you're going
+- [00:23:16,260 - 00:23:16,460] to get a lot of things. And you're going to get a lot of things. And you're going to get
+- [00:23:16,460 - 00:23:16,900] a lot of things.
+- [00:23:16,900 - 00:23:17,220] And you're going to get a lot of things. And you're going to get a lot of things. And you're
+- [00:23:17,220 - 00:23:20,300] going to get a lot of things. And you can feel them. Of course, you wouldn't feel them
+- [00:23:20,300 - 00:23:26,220] jumping off a diving board because you're too small by comparison with the scale over
+- [00:23:26,220 - 00:23:33,220] which the gravitational field of the earth changes. But if you fell into a black hole,
+- [00:23:33,320 - 00:23:40,240] you feel a tidal force. The tidal force at the horizon is finite. And as the black hole
+- [00:23:40,240 - 00:23:46,240] gets bigger and bigger and bigger, the tidal force at the horizon gets less and less and
+- [00:23:46,240 - 00:23:52,600] and less. So nothing dramatic would happen. You wouldn't get squeezed, if it was a
+- [00:23:52,600 - 00:23:56,980] sufficiently big black hole, you don't get squished at the horizon of a black
+- [00:23:56,980 - 00:24:00,460] hole, and we're going to work that out. We're going to see that. You don't get
+- [00:24:00,460 - 00:24:06,100] squeezed like toothpaste into the black hole. Perfectly benign place to
+- [00:24:06,100 - 00:24:12,760] fall into, as we will see, even though the mathematics looks like something fairly
+- [00:24:12,760 - 00:24:19,180] bad happens. On the other hand, at r equals zero, that's where you would
+- [00:24:19,180 - 00:24:26,980] really feel pain. That's where the tidal forces become infinite. That's where all
+- [00:24:26,980 - 00:24:34,960] hell breaks loose, and the nasty place. r equals zero is called the singularity,
+- [00:24:34,960 - 00:24:39,380] r equals 2mg is called the horizon.
+- [00:24:40,840 - 00:24:42,740] Okay, let's talk about light.
+- [00:24:42,740 - 00:24:47,420] Let's talk about light rays now. Let's talk about a light ray moving radially
+- [00:24:47,420 - 00:24:52,520] outward at some angle on the sphere. In other words, maybe along the
+- [00:24:52,520 - 00:24:56,400] north pole of the sphere, or the east pole of the sphere, or the south pole of the
+- [00:24:56,400 - 00:25:01,220] sphere, some pole of the sphere, some direction on the sphere. The light ray is
+- [00:25:01,220 - 00:25:06,560] moving radially outward. That means along the light ray, there is no change
+- [00:25:06,560 - 00:25:11,460] of the angles. The angle, as I shoot the light ray out, the angle is constant that
+- [00:25:11,460 - 00:25:12,660] it's moving in.
+- [00:25:12,740 - 00:25:21,400] And so along the light ray, d omega squared is zero. dt is not zero along the light ray.
+- [00:25:21,400 - 00:25:26,500] As you move from one point on the light ray to the next, time changes a little bit. Not
+- [00:25:26,500 - 00:25:32,920] proper time, but ordinary time. And also the radial distance changes. So you're watching
+- [00:25:32,920 - 00:25:37,380] the light ray. You have your clock. You see a little bit of dt and a little bit of dr.
+- [00:25:37,380 - 00:25:40,820] How does the light ray move? What's the equation? What's the, what's the rule for the light
+- [00:25:40,820 - 00:25:41,820] ray?
+- [00:25:41,820 - 00:25:47,500] The rule for the light ray is that along the light ray, the proper time is zero. So
+- [00:25:47,500 - 00:25:48,500] let's work that out.
+- [00:25:48,500 - 00:25:54,580] That's one minus two mg.
+- [00:25:54,580 - 00:26:04,600] Dt squared must equal. I'm setting, this, we don't need to worry about. I'm
+- [00:26:04,600 - 00:26:07,980] setting the rest of it equal to zero and I'm doing that by setting the dt
+- [00:26:07,980 - 00:26:10,520] squared equal to the dr squared term.
+- [00:26:10,520 - 00:26:10,740] Equals one minus two mg. Myaniu relativity is the square root ofremos and I'm going to theatore, is it, is that double laminaел. delta ug, 저희가, vu, hm,��g÷
+- [00:26:10,740 - 00:26:11,400] Dayt as the square rootman squared. Of力 grounding is theスn tsubu,paragus equides economical部演放 track
+- [00:26:11,400 - 00:26:18,080] 1 divided by 1 minus 2mg over r, the r squared.
+- [00:26:21,560 - 00:26:23,220] That's the motion of a light ray.
+- [00:26:24,320 - 00:26:29,000] We can multiply both sides of the equation by the thing in the denominator here,
+- [00:26:29,060 - 00:26:34,200] and that just squares this and removes this.
+- [00:26:37,960 - 00:26:40,400] And now I can take the square root if I like.
+- [00:26:40,400 - 00:26:45,760] It just says that dr, the distance along the radial direction that it moves,
+- [00:26:46,640 - 00:26:52,120] is equal to 1 minus 2mg over r dt.
+- [00:26:54,320 - 00:26:59,340] If you're far away from the black hole, this is close to 1,
+- [00:26:59,780 - 00:27:01,640] and it just says dr is equal to dt.
+- [00:27:02,500 - 00:27:05,980] Of course, if I put the speed of light back in, there would be a speed of light here,
+- [00:27:06,020 - 00:27:08,540] and it would say that dr is equal to c dt.
+- [00:27:08,540 - 00:27:10,380] But that's just a step.
+- [00:27:10,400 - 00:27:13,120] It's just a statement that the light ray moves with the speed of light.
+- [00:27:13,920 - 00:27:19,020] In fact, the whole statement is really the statement that the light ray moves with the speed of light.
+- [00:27:19,780 - 00:27:23,200] But you can see that as you move in closer to the black hole,
+- [00:27:23,280 - 00:27:28,680] the mathematical description of the motion of the light ray gets modified a little bit.
+- [00:27:30,040 - 00:27:32,540] And in fact, let's divide by dt.
+- [00:27:33,120 - 00:27:34,180] Let's divide by dt.
+- [00:27:37,380 - 00:27:40,280] Oh, incidentally, I did take a square root, didn't I?
+- [00:27:41,360 - 00:27:45,620] Yeah. So that means there are two possible solutions.
+- [00:27:46,000 - 00:27:51,400] One corresponds to an outgoing light ray, and the other corresponds to an infalling light ray.
+- [00:27:51,720 - 00:27:56,720] Those are the two branches of the solution, but let's take the outgoing light ray.
+- [00:27:58,080 - 00:28:00,920] And if you want the ingoing light ray, you just change the sign.
+- [00:28:01,320 - 00:28:01,820] Okay.
+- [00:28:03,240 - 00:28:09,760] This, of course, is the time rate of change of the radial coordinate.
+- [00:28:09,760 - 00:28:10,240] We could call it the radial coordinate.
+- [00:28:10,240 - 00:28:11,460] We could call it the velocity.
+- [00:28:12,280 - 00:28:17,940] We could call it the velocity in the particular coordinates that we're using.
+- [00:28:18,720 - 00:28:22,300] The r dt, that's the rate of change of the radial coordinate with time,
+- [00:28:22,800 - 00:28:25,140] and that's equal to 1 minus 2 mg over r.
+- [00:28:25,560 - 00:28:27,420] As I said, far away, nothing unusual.
+- [00:28:28,480 - 00:28:33,120] But what happens when you get in very, very near the...
+- [00:28:33,120 - 00:28:34,940] Let's not worry about the singularity tonight.
+- [00:28:35,400 - 00:28:37,020] Let's only worry about the horizon.
+- [00:28:37,020 - 00:28:40,020] At the horizon, 1 minus 2 mg...
+- [00:28:40,240 - 00:28:42,240] 2 mg over r goes to 0.
+- [00:28:43,060 - 00:28:47,420] r becomes equal to 2 mg at the horizon, and 1 minus 1 is 0.
+- [00:28:48,100 - 00:28:54,100] So very close to the horizon, the light rays slow down.
+- [00:28:54,840 - 00:28:56,480] They slow down.
+- [00:28:56,480 - 00:29:00,480] The closer you get to the horizon, the slower they move outward.
+- [00:29:01,620 - 00:29:07,020] And right at the horizon, the light rays don't move at all.
+- [00:29:07,280 - 00:29:09,280] They just sit there, static,
+- [00:29:09,280 - 00:29:10,600] and they don't move at all.
+- [00:29:10,720 - 00:29:11,980] So we could draw a picture of this.
+- [00:29:12,660 - 00:29:14,000] Let's draw time.
+- [00:29:14,240 - 00:29:14,880] Here's time.
+- [00:29:16,640 - 00:29:18,520] Let's draw r this way.
+- [00:29:20,200 - 00:29:23,860] And at some value of r, namely r equals 2 mg,
+- [00:29:24,540 - 00:29:25,780] let's put that in over here,
+- [00:29:26,680 - 00:29:28,300] that's the horizon of the black hole.
+- [00:29:30,740 - 00:29:32,460] That's the horizon of the black hole.
+- [00:29:32,980 - 00:29:35,380] And now what happens to...
+- [00:29:35,380 - 00:29:37,060] Let's take outgoing light rays.
+- [00:29:37,640 - 00:29:39,220] When we're far away,
+- [00:29:39,280 - 00:29:41,280] dr by dt is close to 1.
+- [00:29:41,280 - 00:29:45,280] That means the light ray on this diagram moves with...
+- [00:29:45,280 - 00:29:49,280] close to the 45 degree axis here.
+- [00:29:49,280 - 00:29:53,280] But what happens as we get closer to the black hole?
+- [00:29:53,280 - 00:29:55,280] As we get closer to the black hole,
+- [00:29:55,280 - 00:29:58,280] the light rays move much more slowly.
+- [00:29:58,280 - 00:30:02,280] In a given amount of time, they move a smaller distance.
+- [00:30:02,280 - 00:30:07,280] Being upright here means moving slowly.
+- [00:30:07,280 - 00:30:09,280] And as you get very close to the black hole,
+- [00:30:09,280 - 00:30:11,280] very close to the horizon,
+- [00:30:11,280 - 00:30:13,280] the light rays hardly move at all.
+- [00:30:14,280 - 00:30:16,280] And right on the horizon,
+- [00:30:16,280 - 00:30:19,280] the light rays just stand still.
+- [00:30:21,280 - 00:30:23,280] Or the light rays that are trying to get out
+- [00:30:23,280 - 00:30:25,280] just stand still.
+- [00:30:25,280 - 00:30:26,280] Okay?
+- [00:30:26,280 - 00:30:28,280] So they don't get out.
+- [00:30:31,280 - 00:30:34,280] Anything that's inside the horizon,
+- [00:30:34,280 - 00:30:36,280] we haven't analyzed it in detail,
+- [00:30:36,280 - 00:30:38,280] but let me tell you what happens inside the horizon.
+- [00:30:38,280 - 00:30:41,280] Inside the horizon, all light rays,
+- [00:30:41,280 - 00:30:44,280] whether you think they're directed outward or not,
+- [00:30:44,280 - 00:30:46,280] you're falling into the black hole.
+- [00:30:46,280 - 00:30:48,280] You try to send the light ray out,
+- [00:30:48,280 - 00:30:50,280] or you try to send the light ray in,
+- [00:30:50,280 - 00:30:51,280] exactly...
+- [00:30:51,280 - 00:30:53,280] well, not exactly the same thing,
+- [00:30:53,280 - 00:30:55,280] but in either case,
+- [00:30:55,280 - 00:30:57,280] the light rays fall inward.
+- [00:30:59,280 - 00:31:01,280] Right to r equals 0,
+- [00:31:01,280 - 00:31:04,280] where r equals 0 is where the singularity is.
+- [00:31:04,280 - 00:31:07,280] Light rays that originate inside the black hole
+- [00:31:07,280 - 00:31:09,280] simply cannot escape.
+- [00:31:09,280 - 00:31:12,280] Light rays that originate close to the horizon
+- [00:31:12,280 - 00:31:15,280] take a very, very, very long time to escape.
+- [00:31:16,280 - 00:31:19,280] Light rays right on the horizon just sit there,
+- [00:31:19,280 - 00:31:23,280] and light rays far away do what light rays do
+- [00:31:23,280 - 00:31:26,280] if there was no black hole there.
+- [00:31:27,280 - 00:31:31,280] Okay, so that's the basic framework
+- [00:31:33,280 - 00:31:35,280] of the Schwarzschild black hole.
+- [00:31:35,280 - 00:31:37,280] That's really all there is to it.
+- [00:31:37,280 - 00:31:39,280] There's, of course, a lot more to it,
+- [00:31:39,280 - 00:31:42,280] and we're going to do a lot more, but...
+- [00:31:44,280 - 00:31:46,280] Could you clarify the statement
+- [00:31:46,280 - 00:31:48,280] that light slows down,
+- [00:31:48,280 - 00:31:50,280] and what exactly...
+- [00:31:50,280 - 00:31:52,280] Yeah.
+- [00:31:52,280 - 00:31:54,280] Is there more to it than just that statement?
+- [00:31:54,280 - 00:31:57,280] I thought the computer light was invariant.
+- [00:31:57,280 - 00:32:00,280] It's r that's t.
+- [00:32:00,280 - 00:32:02,280] Yeah, I understand that.
+- [00:32:02,280 - 00:32:04,280] Yeah.
+- [00:32:04,280 - 00:32:07,280] The rule that light rays move with a speed of light
+- [00:32:07,280 - 00:32:09,280] is depends on...
+- [00:32:09,280 - 00:32:11,280] What is the speed of light?
+- [00:32:11,280 - 00:32:13,280] Three times ten to the eighth something.
+- [00:32:13,280 - 00:32:15,280] But if I change from centimeters to meters,
+- [00:32:15,280 - 00:32:16,280] or meters to centimeters,
+- [00:32:16,280 - 00:32:18,280] it becomes three times ten to the tenth,
+- [00:32:18,280 - 00:32:20,280] or meters to kilometers,
+- [00:32:20,280 - 00:32:22,280] it becomes three times ten to the fifth.
+- [00:32:22,280 - 00:32:25,280] What's going on here is effectively,
+- [00:32:25,280 - 00:32:28,280] as you move in toward the black hole,
+- [00:32:28,280 - 00:32:31,280] this kind of a moving change of units.
+- [00:32:31,280 - 00:32:34,280] r is being measured in different units.
+- [00:32:34,280 - 00:32:36,280] r is being measured in different units.
+- [00:32:36,280 - 00:32:39,280] r is being measured in different units at different places.
+- [00:32:39,280 - 00:32:41,280] But the real point is,
+- [00:32:41,280 - 00:32:44,280] the real point is there's a universal statement
+- [00:32:44,280 - 00:32:46,280] about the speed of light,
+- [00:32:46,280 - 00:32:49,280] and it's that along a light ray,
+- [00:32:49,280 - 00:32:52,280] the proper time is zero.
+- [00:32:52,280 - 00:32:54,280] That is what replaces the statement
+- [00:32:54,280 - 00:32:57,280] that the speed of light is three times ten to the eighth
+- [00:32:57,280 - 00:33:00,280] meters per second for all speeds of light.
+- [00:33:00,280 - 00:33:04,280] All light rays move the same way.
+- [00:33:04,280 - 00:33:06,280] They move on light.
+- [00:33:06,280 - 00:33:08,280] They move on what we call a null trajectory.
+- [00:33:08,280 - 00:33:11,280] A null trajectory means that the proper time
+- [00:33:11,280 - 00:33:14,280] along the trajectory is exactly zero.
+- [00:33:14,280 - 00:33:18,280] That's the universal statement for all light rays,
+- [00:33:18,280 - 00:33:21,280] which is in special relativity becomes the statement
+- [00:33:21,280 - 00:33:24,280] that they all move at the speed of light.
+- [00:33:24,280 - 00:33:27,280] And that stands true for regardless of the medium
+- [00:33:27,280 - 00:33:28,280] that it's transferred?
+- [00:33:28,280 - 00:33:30,280] No. No. No.
+- [00:33:30,280 - 00:33:32,280] That's in the back.
+- [00:33:32,280 - 00:33:34,280] Could you draw an incoming light ray again
+- [00:33:34,280 - 00:33:35,280] on the right there?
+- [00:33:36,280 - 00:33:37,280] Yeah, okay.
+- [00:33:37,280 - 00:33:39,280] First of all, I drew an outgoing light ray,
+- [00:33:39,280 - 00:33:41,280] and an outgoing light ray just sort of started
+- [00:33:41,280 - 00:33:43,280] very close to the horizon here.
+- [00:33:43,280 - 00:33:44,280] It sticks.
+- [00:33:44,280 - 00:33:46,280] It doesn't want to go anywhere,
+- [00:33:46,280 - 00:33:48,280] and then eventually it goes off.
+- [00:33:48,280 - 00:33:51,280] The incoming light ray does just exactly the opposite.
+- [00:33:51,280 - 00:33:55,280] It starts to fall in and then asymptotically gets closer
+- [00:33:55,280 - 00:33:57,280] and closer to the horizon,
+- [00:33:57,280 - 00:34:00,280] never quite getting there.
+- [00:34:00,280 - 00:34:04,280] So one lesson is that even a light ray
+- [00:34:04,280 - 00:34:06,280] that's shined in toward the horizon
+- [00:34:06,280 - 00:34:11,280] takes an infinite amount of this kind of time here,
+- [00:34:11,280 - 00:34:13,280] what's called coordinate time.
+- [00:34:13,280 - 00:34:16,280] It takes an infinite amount of coordinate time
+- [00:34:16,280 - 00:34:20,280] to get to the horizon because of the slowdown effect.
+- [00:34:20,280 - 00:34:24,280] Okay, so we have now the basic setup.
+- [00:34:24,280 - 00:34:30,280] And I actually want to jump from the geometry of a black hole,
+- [00:34:30,280 - 00:34:32,280] which we're going to come back to.
+- [00:34:32,280 - 00:34:36,280] It's very interesting and many, many things to explore about it.
+- [00:34:36,280 - 00:34:40,280] In particular, the most interesting of which
+- [00:34:40,280 - 00:34:43,280] is to explore the nature of the horizon.
+- [00:34:43,280 - 00:34:45,280] What kind of thing is the horizon?
+- [00:34:45,280 - 00:34:48,280] What kind of funny kind of thing is going on at the horizon?
+- [00:34:48,280 - 00:34:51,280] Is anything funny going on at the horizon?
+- [00:34:51,280 - 00:34:54,280] We are going to explore that.
+- [00:34:54,280 - 00:34:57,280] We're going to explore the question,
+- [00:34:57,280 - 00:34:59,280] how do you make a black hole?
+- [00:34:59,280 - 00:35:01,280] But we'll come back to this later.
+- [00:35:01,280 - 00:35:03,280] What I wanted to really jump into for tonight
+- [00:35:03,280 - 00:35:05,280] and maybe for next time
+- [00:35:05,280 - 00:35:07,280] is the quantum mechanics of black holes.
+- [00:35:07,280 - 00:35:09,280] Black holes are objects.
+- [00:35:09,280 - 00:35:12,280] Now, the question is,
+- [00:35:12,280 - 00:35:15,280] are they objects like any other kind of object?
+- [00:35:15,280 - 00:35:19,280] Or are they something new and special
+- [00:35:19,280 - 00:35:21,280] which violates the laws of physics?
+- [00:35:21,280 - 00:35:26,280] I'll remind you what Professor Hawking said
+- [00:35:26,280 - 00:35:29,280] about black holes.
+- [00:35:29,280 - 00:35:31,280] He made a claim,
+- [00:35:31,280 - 00:35:34,280] and the claim was a very well-reasoned claim,
+- [00:35:34,280 - 00:35:37,280] extremely well-reasoned claim.
+- [00:35:37,280 - 00:35:40,280] He said that anything that falls
+- [00:35:40,280 - 00:35:42,280] onto the surface of a black hole,
+- [00:35:42,280 - 00:35:44,280] he said anything that falls into a black hole,
+- [00:35:44,280 - 00:35:48,280] we will come to the question of whether things do or don't fall into black holes.
+- [00:35:48,280 - 00:35:50,280] It looks from this point of view
+- [00:35:50,280 - 00:35:53,280] that it takes an infinite amount of time to fall into the black hole.
+- [00:35:53,280 - 00:35:55,280] This is a contentious question that,
+- [00:35:55,280 - 00:35:58,280] it's not contentious, it's a subtle question
+- [00:35:58,280 - 00:36:00,280] that we'll come back to.
+- [00:36:00,280 - 00:36:02,280] But for the moment, let's just think about things
+- [00:36:02,280 - 00:36:06,280] which fall onto the horizon of a black hole in this sense here.
+- [00:36:06,280 - 00:36:13,280] They get closer and closer and closer to the horizon,
+- [00:36:13,280 - 00:36:16,280] and they sort of get stuck on the horizon
+- [00:36:16,280 - 00:36:18,280] from the point of view of outside.
+- [00:36:18,280 - 00:36:20,280] They don't get back out.
+- [00:36:20,280 - 00:36:21,280] If they don't get back out,
+- [00:36:21,280 - 00:36:23,280] that means that all the information
+- [00:36:23,280 - 00:36:25,280] that they brought into the black hole
+- [00:36:25,280 - 00:36:29,280] is lost to the outside observer
+- [00:36:29,280 - 00:36:31,280] in the form of either,
+- [00:36:31,280 - 00:36:34,280] depending on, we'll discuss it later,
+- [00:36:34,280 - 00:36:38,280] but depending on whether you envision it as falling into the black hole
+- [00:36:38,280 - 00:36:42,280] or just progressively closer and closer to the horizon of the black hole,
+- [00:36:42,280 - 00:36:45,280] it becomes unavailable to the outside.
+- [00:36:45,280 - 00:36:49,280] All right, that's not such a bad thing.
+- [00:36:49,280 - 00:36:52,280] You just say, well, okay, but the information
+- [00:36:52,280 - 00:36:54,280] of what fell in
+- [00:36:54,280 - 00:36:58,280] is simply getting closer and closer to the horizon.
+- [00:36:58,280 - 00:37:00,280] No big deal.
+- [00:37:00,280 - 00:37:03,280] It hasn't disappeared.
+- [00:37:03,280 - 00:37:04,280] It hasn't gone anywhere.
+- [00:37:04,280 - 00:37:09,280] It's just gotten squeezed tighter and tighter onto the horizon.
+- [00:37:09,280 - 00:37:11,280] The problem is, as we're going to see tonight
+- [00:37:11,280 - 00:37:14,280] or tonight and partly next time,
+- [00:37:14,280 - 00:37:17,280] there's a reason, not a reason,
+- [00:37:17,280 - 00:37:20,280] it's extremely,
+- [00:37:20,280 - 00:37:22,280] there's complete consensus about it.
+- [00:37:22,280 - 00:37:25,280] Black holes in time evaporate.
+- [00:37:25,280 - 00:37:28,280] If black holes in time evaporate,
+- [00:37:28,280 - 00:37:29,280] then the question is,
+- [00:37:29,280 - 00:37:33,280] what happened to all the little itsy-bitsy bits of information
+- [00:37:33,280 - 00:37:36,280] or whatever it is that fell onto the horizon?
+- [00:37:36,280 - 00:37:39,280] Does it just disappear out of this world?
+- [00:37:39,280 - 00:37:44,280] Or is it somehow stored inside a little tiny remnant of the black hole
+- [00:37:44,280 - 00:37:46,280] that refuses to disappear?
+- [00:37:46,280 - 00:37:50,280] Or does it get radiated out with the evaporation products?
+- [00:37:50,280 - 00:37:55,280] Exactly what happens, this was a big puzzle in physics.
+- [00:37:55,280 - 00:37:57,280] But before we can address the puzzle,
+- [00:37:57,280 - 00:38:04,280] and it was string theory in part which largely resolved this,
+- [00:38:04,280 - 00:38:08,280] before we do that, we have to understand why people thought that black holes,
+- [00:38:08,280 - 00:38:11,280] why people think that black holes evaporate.
+- [00:38:11,280 - 00:38:21,280] Now, a black hole is the most dull object in the universe.
+- [00:38:21,280 - 00:38:25,280] If you create the black hole and leave it for a while,
+- [00:38:25,280 - 00:38:27,280] it settles down to a black hole.
+- [00:38:27,280 - 00:38:32,280] It's a perfectly spherical, totally uninteresting object.
+- [00:38:32,280 - 00:38:34,280] Nothing comes out of it.
+- [00:38:34,280 - 00:38:40,280] It's totally black, totally black in the sense that no light comes out of it.
+- [00:38:40,280 - 00:38:45,280] And it's very uninteresting.
+- [00:38:45,280 - 00:38:48,280] You can't get messages out of it or anything else.
+- [00:38:48,280 - 00:38:52,280] But it turns out not to be quite true.
+- [00:38:52,280 - 00:38:55,280] Black holes are not as dead.
+- [00:38:55,280 - 00:38:56,280] Let's call them dead.
+- [00:38:56,280 - 00:38:57,280] Dead in the sense that they're not dead.
+- [00:38:57,280 - 00:39:02,280] In the sense that they are infinitely cold,
+- [00:39:02,280 - 00:39:08,280] infinitely, what should we say?
+- [00:39:08,280 - 00:39:10,280] Infinitely black.
+- [00:39:10,280 - 00:39:12,280] Black has two meanings, incidentally.
+- [00:39:12,280 - 00:39:16,280] Black can either refer to, emits no light at all,
+- [00:39:16,280 - 00:39:20,280] or it can refer to the idea that it emits black body radiation.
+- [00:39:20,280 - 00:39:24,280] Black body radiation is thermal radiation, heat radiation.
+- [00:39:24,280 - 00:39:26,280] So let me just...
+- [00:39:26,280 - 00:39:33,280] So let's say that black holes are black in the sense that they emit heat radiation.
+- [00:39:33,280 - 00:39:39,280] It was thought earlier that black holes were black in the sense that they emitted no radiation.
+- [00:39:39,280 - 00:39:47,280] So we need to come to an understanding of what it was that made Hawking, Bekenstein,
+- [00:39:47,280 - 00:39:52,280] other people think that black holes have some heat in them.
+- [00:39:52,280 - 00:39:53,280] They're not completely dead.
+- [00:39:53,280 - 00:39:55,280] They have some heat.
+- [00:39:55,280 - 00:39:58,280] Because they have some heat, they glow.
+- [00:39:58,280 - 00:40:00,280] Because they glow, they give off light.
+- [00:40:00,280 - 00:40:05,280] Because they give off light or radiation, they give off energy.
+- [00:40:05,280 - 00:40:09,280] That means with time, their energy must decrease.
+- [00:40:09,280 - 00:40:13,280] Well, energy and mass are the same thing, E equals mc squared.
+- [00:40:13,280 - 00:40:19,280] And so with time, the mass should decrease as it gives off this radiation.
+- [00:40:19,280 - 00:40:22,280] And if the mass decreases,
+- [00:40:22,280 - 00:40:26,280] then the Schwarzschild radius, 2mg, decreases.
+- [00:40:26,280 - 00:40:36,280] And one should expect in time, if black holes really do have some active heat in them,
+- [00:40:36,280 - 00:40:42,280] that eventually they will simply disappear because they'll radiate away all their energy.
+- [00:40:42,280 - 00:40:47,280] And if that happens, as I said, there's the puzzle of what happened to everything that fell in, basically.
+- [00:40:47,280 - 00:40:49,280] Okay.
+- [00:40:52,280 - 00:40:58,280] We're not going to do any fancy mathematics of studying quantum field theory
+- [00:40:58,280 - 00:41:00,280] in the background of a black hole.
+- [00:41:00,280 - 00:41:06,280] To really understand the concepts, you don't have to.
+- [00:41:06,280 - 00:41:15,280] And I don't feel up to teaching an advanced course in quantum field theory in curved space tonight.
+- [00:41:15,280 - 00:41:17,280] It would take more than one night.
+- [00:41:17,280 - 00:41:19,280] So we're going to do something simpler.
+- [00:41:19,280 - 00:41:21,280] We're going to go through Bekenstein's arguments
+- [00:41:22,280 - 00:41:25,280] about why black holes have to have entropy.
+- [00:41:25,280 - 00:41:28,280] Now first, before we talk about why black holes have entropy,
+- [00:41:28,280 - 00:41:31,280] let's talk about entropy in general.
+- [00:41:31,280 - 00:41:36,280] What is entropy, and how do you define it?
+- [00:41:36,280 - 00:41:39,280] We can define it either with precision or we can define it qualitatively.
+- [00:41:39,280 - 00:41:43,280] I prefer to define it qualitatively.
+- [00:41:43,280 - 00:41:48,280] To understand what entropy is, you need to understand what information is.
+- [00:41:48,280 - 00:41:51,280] And let me be very, very simplistic
+- [00:41:51,280 - 00:41:54,280] about what information is.
+- [00:41:54,280 - 00:41:56,280] Information you can...
+- [00:41:56,280 - 00:42:00,280] The information about a system.
+- [00:42:00,280 - 00:42:02,280] The information about a system.
+- [00:42:02,280 - 00:42:07,280] Let's not ask about what it is, but how do you quantify it?
+- [00:42:07,280 - 00:42:12,280] How much information is there in a system?
+- [00:42:12,280 - 00:42:19,280] Or better yet, how much information separates one system from another?
+- [00:42:19,280 - 00:42:20,280] What's the...
+- [00:42:20,280 - 00:42:22,280] What's the way that you...
+- [00:42:22,280 - 00:42:26,280] What's the way you explain to somebody the difference between systems?
+- [00:42:26,280 - 00:42:30,280] Well, you ask a bunch of questions about the system.
+- [00:42:30,280 - 00:42:33,280] I'm not even going to try to ask the question...
+- [00:42:33,280 - 00:42:35,280] Well, yeah, we could...
+- [00:42:35,280 - 00:42:36,280] We could...
+- [00:42:36,280 - 00:42:37,280] Here's a system.
+- [00:42:37,280 - 00:42:38,280] Here's a system.
+- [00:42:38,280 - 00:42:40,280] It's a big box.
+- [00:42:40,280 - 00:42:43,280] The box is broken up into little boxes.
+- [00:42:43,280 - 00:42:48,280] Those little boxes are about as big as an atom.
+- [00:42:48,280 - 00:42:50,280] And you can know everything about what's in there.
+- [00:42:50,280 - 00:42:54,280] What's in this box, if I tell you yes or no, whether there's an atom...
+- [00:42:54,280 - 00:42:58,280] I would have to tell you what kind of atom, but let's simplify it.
+- [00:42:58,280 - 00:43:01,280] There would have to be just one kind of atom in the world.
+- [00:43:01,280 - 00:43:04,280] And either a box is empty or a box is full.
+- [00:43:04,280 - 00:43:10,280] If I go through the boxes and tell you whether there's an atom there or not,
+- [00:43:10,280 - 00:43:13,280] I have told you just about everything about that box.
+- [00:43:13,280 - 00:43:16,280] There's an atom here, there's an atom here, there's an atom here, there's an atom here,
+- [00:43:16,280 - 00:43:18,280] there's an atom here, here, here, here.
+- [00:43:18,280 - 00:43:19,280] No other atoms.
+- [00:43:19,280 - 00:43:23,280] Well, then there's a block or a lump of stuff in the middle.
+- [00:43:23,280 - 00:43:24,280] Okay?
+- [00:43:24,280 - 00:43:25,280] Maybe that one's missing.
+- [00:43:25,280 - 00:43:28,280] Now it's a lump of stuff with a funny shape.
+- [00:43:28,280 - 00:43:31,280] So you can go through this thing with a bunch of yes-no questions.
+- [00:43:31,280 - 00:43:36,280] Is there or isn't there an atom in this box, that box, and so forth?
+- [00:43:36,280 - 00:43:40,280] Another way of describing information is to say,
+- [00:43:40,280 - 00:43:47,280] if I want to describe the system, what I need to do is give a code to describe it.
+- [00:43:47,280 - 00:43:49,280] And the code might simply be,
+- [00:43:49,280 - 00:43:52,280] a series of zeros and ones,
+- [00:43:52,280 - 00:43:53,280] where you go through this thing,
+- [00:43:53,280 - 00:43:56,280] 00010110.
+- [00:43:56,280 - 00:44:00,280] In other words, it could be a long binary digit.
+- [00:44:00,280 - 00:44:02,280] How long?
+- [00:44:02,280 - 00:44:06,280] Well, it depends on how many bits of information you're trying to describe.
+- [00:44:06,280 - 00:44:11,280] How many yes-no questions it takes to describe a system completely.
+- [00:44:11,280 - 00:44:13,280] The number of yes-no questions,
+- [00:44:13,280 - 00:44:18,280] or the number of binary digits that you would have to prescribe,
+- [00:44:18,280 - 00:44:22,280] to describe a system, or to distinguish it from other systems,
+- [00:44:22,280 - 00:44:30,280] is called the information in the system.
+- [00:44:30,280 - 00:44:33,280] Information theorists use it all the time.
+- [00:44:33,280 - 00:44:37,280] And as I say, they characterize it in terms of bits.
+- [00:44:37,280 - 00:44:40,280] A bit is a yes-no question.
+- [00:44:40,280 - 00:44:41,280] Okay?
+- [00:44:41,280 - 00:44:45,280] And, okay, so,
+- [00:44:45,280 - 00:44:47,280] the quantity of information is characterized by the number of bits.
+- [00:44:47,280 - 00:44:50,280] In this system here,
+- [00:44:50,280 - 00:44:53,280] the number of bits would just be the number of boxes.
+- [00:44:53,280 - 00:44:58,280] The number of boxes where you might or might not have an atom.
+- [00:44:58,280 - 00:45:00,280] That's pretty clear.
+- [00:45:00,280 - 00:45:02,280] I mean, we could describe everything in this room
+- [00:45:02,280 - 00:45:06,280] by breaking it up into sufficiently small boxes.
+- [00:45:06,280 - 00:45:11,280] If we didn't want to deal with the fact that there were different kinds of elements,
+- [00:45:11,280 - 00:45:15,280] we could break it up into even smaller boxes
+- [00:45:15,280 - 00:45:17,280] and simply ask whether there were,
+- [00:45:17,280 - 00:45:21,280] well, I suppose we would have to distinguish electrons from quarks.
+- [00:45:21,280 - 00:45:26,280] But we could always break it down into yes-no questions.
+- [00:45:26,280 - 00:45:29,280] Is there a quark in this box?
+- [00:45:29,280 - 00:45:31,280] Isn't there a quark in this box?
+- [00:45:31,280 - 00:45:32,280] Is there an electron in this box?
+- [00:45:32,280 - 00:45:34,280] Isn't there an electron in this box?
+- [00:45:34,280 - 00:45:38,280] And eventually, we would learn everything there is to know about this room
+- [00:45:38,280 - 00:45:40,280] by asking that series of questions.
+- [00:45:40,280 - 00:45:43,280] The minimum number that it would take to describe the room
+- [00:45:43,280 - 00:45:45,280] and to distinguish it from every other room
+- [00:45:45,280 - 00:45:49,280] would be the quantity of information that describes that room.
+- [00:45:49,280 - 00:45:52,280] But that's in a static situation?
+- [00:45:52,280 - 00:45:57,280] No, it could be an instantaneous description.
+- [00:45:57,280 - 00:45:59,280] Yeah, yeah, yeah.
+- [00:45:59,280 - 00:46:01,280] At a moment of time.
+- [00:46:01,280 - 00:46:03,280] At a moment of time, right.
+- [00:46:03,280 - 00:46:06,280] Another fact.
+- [00:46:06,280 - 00:46:08,280] Information never disappears.
+- [00:46:08,280 - 00:46:11,280] This is a basic idea in physics.
+- [00:46:11,280 - 00:46:13,280] It's probably more basic than anything else.
+- [00:46:13,280 - 00:46:15,280] And the meaning of that,
+- [00:46:15,280 - 00:46:16,280] is the following.
+- [00:46:16,280 - 00:46:21,280] That if you start with two different configurations,
+- [00:46:21,280 - 00:46:24,280] two different configurations,
+- [00:46:24,280 - 00:46:27,280] let's say here's one,
+- [00:46:27,280 - 00:46:36,280] here's another one,
+- [00:46:36,280 - 00:46:38,280] they're fairly similar as a matter of fact,
+- [00:46:38,280 - 00:46:41,280] they just have a couple of atoms out of place,
+- [00:46:41,280 - 00:46:42,280] but they're different.
+- [00:46:42,280 - 00:46:43,280] They're distinct.
+- [00:46:43,280 - 00:46:44,280] They're distinguishable, distinct,
+- [00:46:44,280 - 00:46:47,280] and you can do an experiment in principle
+- [00:46:47,280 - 00:46:49,280] to tell the difference between them.
+- [00:46:49,280 - 00:46:51,280] Then if you let them run,
+- [00:46:51,280 - 00:46:54,280] run means let them evolve with time,
+- [00:46:54,280 - 00:46:56,280] they will stay different.
+- [00:46:56,280 - 00:46:59,280] Of course, they will change relative to what they started with.
+- [00:46:59,280 - 00:47:00,280] This one might move to here,
+- [00:47:00,280 - 00:47:02,280] this one might move to here, and so forth.
+- [00:47:02,280 - 00:47:06,280] But if you start with two distinctly different configurations,
+- [00:47:06,280 - 00:47:09,280] they stay different.
+- [00:47:09,280 - 00:47:11,280] They don't run into each other.
+- [00:47:11,280 - 00:47:13,280] For example, you never have a situation
+- [00:47:13,280 - 00:47:16,280] where as you run these things,
+- [00:47:16,280 - 00:47:20,280] they will evolve to the same configuration.
+- [00:47:20,280 - 00:47:21,280] That's a very, very big,
+- [00:47:21,280 - 00:47:23,280] that's such a deep rule of physics
+- [00:47:23,280 - 00:47:25,280] that people forget to state it
+- [00:47:25,280 - 00:47:28,280] when they're stating what the laws of physics are.
+- [00:47:28,280 - 00:47:32,280] That the amount of information that it takes
+- [00:47:32,280 - 00:47:36,280] to describe a system is constant in time,
+- [00:47:36,280 - 00:47:42,280] and that the distinctions between systems
+- [00:47:42,280 - 00:47:45,280] never disappear.
+- [00:47:48,280 - 00:47:51,280] Okay, now, sometimes,
+- [00:47:51,280 - 00:47:54,280] it looks like information disappears.
+- [00:47:54,280 - 00:48:00,280] You drop a series of water molecules
+- [00:48:00,280 - 00:48:02,280] into your bathtub,
+- [00:48:02,280 - 00:48:05,280] and you might drip them in
+- [00:48:05,280 - 00:48:08,280] in some very, very specific way.
+- [00:48:08,280 - 00:48:11,280] You might drip the drops of water in
+- [00:48:11,280 - 00:48:13,280] with Morse code messages on them,
+- [00:48:13,280 - 00:48:16,280] two different bathtubs full of water,
+- [00:48:16,280 - 00:48:19,280] and one of the messages,
+- [00:48:19,280 - 00:48:22,280] I don't know,
+- [00:48:22,280 - 00:48:24,280] some great literary masterpiece,
+- [00:48:24,280 - 00:48:25,280] and the other one,
+- [00:48:25,280 - 00:48:27,280] some other great literary masterpiece
+- [00:48:27,280 - 00:48:30,280] being coded in the dripping of the faucet,
+- [00:48:30,280 - 00:48:34,280] and those two bathtubs full of water
+- [00:48:34,280 - 00:48:37,280] started out differently.
+- [00:48:37,280 - 00:48:40,280] They sure look the same after a few minutes.
+- [00:48:41,280 - 00:48:42,280] After a few minutes,
+- [00:48:42,280 - 00:48:44,280] you let that water settle down,
+- [00:48:44,280 - 00:48:46,280] and they sure look the same.
+- [00:48:46,280 - 00:48:48,280] But that's only because
+- [00:48:48,280 - 00:48:50,280] you don't look carefully enough.
+- [00:48:50,280 - 00:48:52,280] If you could look carefully enough
+- [00:48:52,280 - 00:48:55,280] at every single molecule in those bathtubs,
+- [00:48:55,280 - 00:48:57,280] you would find that
+- [00:48:57,280 - 00:49:02,280] the configurations of them stay the same.
+- [00:49:02,280 - 00:49:05,280] One might say that, effectively,
+- [00:49:05,280 - 00:49:07,280] information doesn't disappear,
+- [00:49:07,280 - 00:49:09,280] but it gets hidden.
+- [00:49:09,280 - 00:49:11,280] It gets hidden because,
+- [00:49:11,280 - 00:49:12,280] after,
+- [00:49:12,280 - 00:49:13,280] just because,
+- [00:49:13,280 - 00:49:15,280] it gets hidden by the fact
+- [00:49:15,280 - 00:49:18,280] that there are just so many degrees of freedom,
+- [00:49:18,280 - 00:49:21,280] and they're so small that you can't see them,
+- [00:49:21,280 - 00:49:22,280] that, in effect,
+- [00:49:22,280 - 00:49:25,280] information which is there
+- [00:49:25,280 - 00:49:27,280] is effectively lost
+- [00:49:27,280 - 00:49:29,280] just because it's stored in degrees of freedom
+- [00:49:29,280 - 00:49:31,280] which are too small and too numerous
+- [00:49:31,280 - 00:49:34,280] to keep track of.
+- [00:49:34,280 - 00:49:35,280] So, in practice,
+- [00:49:35,280 - 00:49:38,280] in a sense, information does disappear,
+- [00:49:38,280 - 00:49:40,280] but not in principle.
+- [00:49:41,280 - 00:49:44,280] There's a notion of hidden information,
+- [00:49:44,280 - 00:49:46,280] information that's inaccessible to you
+- [00:49:46,280 - 00:49:48,280] for one reason or another.
+- [00:49:48,280 - 00:49:49,280] Now, of course,
+- [00:49:49,280 - 00:49:51,280] the notion of inaccessible
+- [00:49:51,280 - 00:49:54,280] can depend just on how good your,
+- [00:49:54,280 - 00:49:58,280] your ability to study and manipulate the system is.
+- [00:49:58,280 - 00:50:00,280] It might depend on how good your microscope it is.
+- [00:50:00,280 - 00:50:02,280] It might depend on how quick you are
+- [00:50:02,280 - 00:50:06,280] in your ability to measure molecules and so forth.
+- [00:50:06,280 - 00:50:10,280] But, subject to whatever limitations there are,
+- [00:50:10,280 - 00:50:13,280] there's a notion of inaccessible
+- [00:50:13,280 - 00:50:16,280] or hidden information.
+- [00:50:16,280 - 00:50:18,280] What is entropy?
+- [00:50:18,280 - 00:50:21,280] The simplest statement of entropy
+- [00:50:21,280 - 00:50:24,280] is that it is
+- [00:50:24,280 - 00:50:27,280] the number of hidden bits of information,
+- [00:50:27,280 - 00:50:29,280] the number of things
+- [00:50:29,280 - 00:50:31,280] which in principle are there
+- [00:50:31,280 - 00:50:33,280] to distinguish things,
+- [00:50:33,280 - 00:50:35,280] but which are just unavailable to you
+- [00:50:35,280 - 00:50:37,280] because they're stored
+- [00:50:37,280 - 00:50:38,280] in things which are too small
+- [00:50:38,280 - 00:50:39,280] and too numerous
+- [00:50:39,280 - 00:50:41,280] to keep track of.
+- [00:50:43,280 - 00:50:45,280] So, in the case of this bathtub full of water,
+- [00:50:45,280 - 00:50:47,280] so the only thing I really care about
+- [00:50:47,280 - 00:50:49,280] is how hot the bathtub is.
+- [00:50:49,280 - 00:50:51,280] I don't want to burn myself when I get in.
+- [00:50:51,280 - 00:50:53,280] I want to make sure there's enough water in the bathtub
+- [00:50:53,280 - 00:50:55,280] that I can take a nice bath.
+- [00:50:55,280 - 00:50:57,280] I want to, what else?
+- [00:50:57,280 - 00:50:59,280] I want to make sure it's water,
+- [00:50:59,280 - 00:51:01,280] not hydrochloric acid.
+- [00:51:01,280 - 00:51:04,280] But, you know, there's a handful of things
+- [00:51:04,280 - 00:51:06,280] that I want to know about that water,
+- [00:51:06,280 - 00:51:08,280] and furthermore, there's a handful of things
+- [00:51:08,280 - 00:51:10,280] that I can know about the water.
+- [00:51:10,280 - 00:51:12,280] The amount of energy that's in it,
+- [00:51:12,280 - 00:51:15,280] in the form of its thermal energy,
+- [00:51:15,280 - 00:51:17,280] the fact that it's water,
+- [00:51:17,280 - 00:51:20,280] and a few other things.
+- [00:51:20,280 - 00:51:23,280] And that's a pretty much complete description of the water.
+- [00:51:23,280 - 00:51:26,280] Well, the water might have ripples on it.
+- [00:51:26,280 - 00:51:28,280] I don't care much about the ripples
+- [00:51:28,280 - 00:51:29,280] when I'm taking a bath,
+- [00:51:29,280 - 00:51:31,280] but nevertheless, I could see the ripples,
+- [00:51:31,280 - 00:51:32,280] and I could distinguish the fact
+- [00:51:32,280 - 00:51:34,280] that the bathtub was filled up
+- [00:51:34,280 - 00:51:36,280] five minutes ago than half an hour ago.
+- [00:51:36,280 - 00:51:38,280] But if you wait a while,
+- [00:51:38,280 - 00:51:40,280] even those ripples go away,
+- [00:51:40,280 - 00:51:42,280] and there's not even any ripples on the surface
+- [00:51:42,280 - 00:51:45,280] to tell you any detailed information.
+- [00:51:45,280 - 00:51:50,280] It's all hidden in the microstructure
+- [00:51:50,280 - 00:51:52,280] of the molecules.
+- [00:51:52,280 - 00:51:56,280] So all that information is hidden information,
+- [00:51:56,280 - 00:51:58,280] and it's called the entropy.
+- [00:51:58,280 - 00:52:00,280] That's what entropy is,
+- [00:52:00,280 - 00:52:02,280] the number of bits of information
+- [00:52:02,280 - 00:52:03,280] which are unavailable.
+- [00:52:03,280 - 00:52:06,280] Now, there are more technical definitions,
+- [00:52:06,280 - 00:52:07,280] but for the moment, I think,
+- [00:52:07,280 - 00:52:12,280] that that is good enough for us.
+- [00:52:12,280 - 00:52:16,280] Incidentally,
+- [00:52:16,280 - 00:52:18,280] entropy and energy
+- [00:52:18,280 - 00:52:22,280] are the basis for thermodynamics.
+- [00:52:22,280 - 00:52:26,280] Normally, when you learn thermodynamics
+- [00:52:26,280 - 00:52:28,280] or statistical mechanics,
+- [00:52:28,280 - 00:52:30,280] in particular thermodynamics,
+- [00:52:30,280 - 00:52:32,280] you start with the idea of temperature.
+- [00:52:32,280 - 00:52:36,280] Temperature is a highly derived concept.
+- [00:52:36,280 - 00:52:38,280] Well, you know, it's what you measure
+- [00:52:38,280 - 00:52:39,280] with a thermometer.
+- [00:52:39,280 - 00:52:40,280] Very simple.
+- [00:52:40,280 - 00:52:42,280] Yeah, what you measure with a thermometer
+- [00:52:42,280 - 00:52:47,280] is a very, very highly evolved thing.
+- [00:52:47,280 - 00:52:49,280] It's easy to measure,
+- [00:52:49,280 - 00:52:52,280] but it's very hard to define.
+- [00:52:52,280 - 00:52:53,280] The definition of temperature,
+- [00:52:53,280 - 00:52:55,280] what is the definition of temperature?
+- [00:52:55,280 - 00:52:58,280] Anybody know the definition of temperature?
+- [00:52:58,280 - 00:52:59,280] No, of course you don't,
+- [00:52:59,280 - 00:53:01,280] because the definition of temperature
+- [00:53:01,280 - 00:53:03,280] is a highly contrived thing.
+- [00:53:03,280 - 00:53:04,280] Not so much contrived.
+- [00:53:04,280 - 00:53:05,280] It's a...
+- [00:53:05,280 - 00:53:09,280] What's the right way?
+- [00:53:09,280 - 00:53:10,280] A derived concept,
+- [00:53:10,280 - 00:53:12,280] derived from the ideas
+- [00:53:12,280 - 00:53:15,280] of entropy and temperature.
+- [00:53:15,280 - 00:53:17,280] Okay, so I'm going to tell you now...
+- [00:53:17,280 - 00:53:18,280] All right, we have energy.
+- [00:53:18,280 - 00:53:20,280] I assume we all know what energy is.
+- [00:53:20,280 - 00:53:23,280] And we have entropy.
+- [00:53:23,280 - 00:53:24,280] Now, let me give you an example.
+- [00:53:24,280 - 00:53:26,280] Entropy might be the amount
+- [00:53:26,280 - 00:53:29,280] of hidden information in the atmosphere.
+- [00:53:29,280 - 00:53:31,280] Okay?
+- [00:53:31,280 - 00:53:34,280] I'll tell you right now what temperature is.
+- [00:53:35,280 - 00:53:38,280] I have to write an equation first for myself
+- [00:53:38,280 - 00:53:40,280] just so I get it right.
+- [00:53:40,280 - 00:53:45,280] Okay.
+- [00:53:45,280 - 00:53:49,280] Temperature is the change in entropy of a system
+- [00:53:49,280 - 00:53:53,280] if you add one bit of information to it.
+- [00:53:53,280 - 00:53:54,280] If you change...
+- [00:53:54,280 - 00:53:55,280] Now, here's an example.
+- [00:53:55,280 - 00:53:59,280] I'll give you an example of where this comes up.
+- [00:53:59,280 - 00:54:00,280] You take your computer.
+- [00:54:00,280 - 00:54:03,280] Your computer is full of bits of information.
+- [00:54:03,280 - 00:54:04,280] The bits are stored individually
+- [00:54:04,280 - 00:54:06,280] in the form of...
+- [00:54:06,280 - 00:54:08,280] In the form of what?
+- [00:54:08,280 - 00:54:10,280] Bits.
+- [00:54:10,280 - 00:54:13,280] Yeah, I mean, whatever.
+- [00:54:13,280 - 00:54:16,280] Some little thing inside the computer
+- [00:54:16,280 - 00:54:19,280] is either switched on or switched off,
+- [00:54:19,280 - 00:54:21,280] and that's your yes or no question.
+- [00:54:21,280 - 00:54:25,280] Now, your computer is full of information
+- [00:54:25,280 - 00:54:28,280] that you put in there.
+- [00:54:28,280 - 00:54:30,280] Supposing I want to get rid
+- [00:54:30,280 - 00:54:32,280] of a bit of information.
+- [00:54:32,280 - 00:54:34,280] In other words,
+- [00:54:34,280 - 00:54:37,280] I want to eliminate some...
+- [00:54:37,280 - 00:54:39,280] I'm not going to eliminate the circuit.
+- [00:54:39,280 - 00:54:40,280] I just want to set it back
+- [00:54:40,280 - 00:54:43,280] to its original starting point.
+- [00:54:43,280 - 00:54:45,280] I want to take the computer
+- [00:54:45,280 - 00:54:47,280] and reboot it,
+- [00:54:47,280 - 00:54:48,280] just to get it back
+- [00:54:48,280 - 00:54:50,280] to its original starting configuration.
+- [00:54:50,280 - 00:54:51,280] In that case,
+- [00:54:51,280 - 00:54:53,280] I will lose a lot of information,
+- [00:54:53,280 - 00:54:55,280] all the information that's in the computer.
+- [00:54:55,280 - 00:54:57,280] Well, let's not go that far.
+- [00:54:57,280 - 00:55:00,280] Let's just erase one bit of information.
+- [00:55:00,280 - 00:55:02,280] If you erase one bit of information...
+- [00:55:02,280 - 00:55:03,280] I just told you,
+- [00:55:03,280 - 00:55:06,280] it's impossible to erase bits of information.
+- [00:55:06,280 - 00:55:09,280] That's the basic law of physics.
+- [00:55:09,280 - 00:55:11,280] What really happens
+- [00:55:11,280 - 00:55:13,280] is that bit of information, whatever it is,
+- [00:55:13,280 - 00:55:16,280] is displaced from inside the computer
+- [00:55:16,280 - 00:55:18,280] to out into the atmosphere.
+- [00:55:18,280 - 00:55:20,280] The distinction between
+- [00:55:20,280 - 00:55:23,280] one configuration of the computer
+- [00:55:23,280 - 00:55:25,280] and another configuration,
+- [00:55:25,280 - 00:55:27,280] which differ by one bit,
+- [00:55:27,280 - 00:55:31,280] that distinction gets taken from the computer
+- [00:55:31,280 - 00:55:32,280] into the atmosphere,
+- [00:55:32,280 - 00:55:34,280] so that the atmosphere becomes
+- [00:55:34,280 - 00:55:35,280] a little bit different
+- [00:55:35,280 - 00:55:38,280] by one bit of information
+- [00:55:38,280 - 00:55:43,280] than it was before you erased the bit.
+- [00:55:43,280 - 00:55:46,280] That process of transferring a bit
+- [00:55:46,280 - 00:55:48,280] from the computer into the atmosphere
+- [00:55:48,280 - 00:55:51,280] heats the atmosphere,
+- [00:55:51,280 - 00:55:54,280] adds a little bit of energy to the atmosphere.
+- [00:55:54,280 - 00:55:57,280] It's an inevitable heating
+- [00:55:57,280 - 00:55:59,280] that happens because you erase bits
+- [00:55:59,280 - 00:56:01,280] from your computer.
+- [00:56:01,280 - 00:56:04,280] What is the energy that's transferred
+- [00:56:04,280 - 00:56:08,280] to the atmosphere when you transfer one bit?
+- [00:56:08,280 - 00:56:10,280] The answer is the temperature.
+- [00:56:10,280 - 00:56:12,280] That's the definition of temperature.
+- [00:56:12,280 - 00:56:16,280] The change in the energy of a system
+- [00:56:16,280 - 00:56:19,280] when you add one bit of information
+- [00:56:19,280 - 00:56:23,280] to it is called the temperature.
+- [00:56:23,280 - 00:56:26,280] You could write this another way.
+- [00:56:26,280 - 00:56:29,280] You could write the change in the energy
+- [00:56:29,280 - 00:56:35,280] when you change the number of bits.
+- [00:56:35,280 - 00:56:40,280] By some number is the temperature.
+- [00:56:40,280 - 00:56:46,280] Well, okay, let's slow down.
+- [00:56:46,280 - 00:56:47,280] Notation for entropy.
+- [00:56:47,280 - 00:56:49,280] We need a notation for entropy.
+- [00:56:49,280 - 00:56:50,280] I don't want to say entropy every time,
+- [00:56:50,280 - 00:56:52,280] and I don't want to write the word entropy
+- [00:56:52,280 - 00:56:54,280] on the blackboard in equations.
+- [00:56:54,280 - 00:56:56,280] We need a symbol for entropy.
+- [00:56:56,280 - 00:56:58,280] The standard symbol for entropy is S.
+- [00:56:58,280 - 00:57:01,280] S is entropy.
+- [00:57:01,280 - 00:57:07,280] Okay, now what I told you is that
+- [00:57:07,280 - 00:57:12,280] the change in the energy,
+- [00:57:12,280 - 00:57:14,280] let's call it delta E,
+- [00:57:14,280 - 00:57:16,280] when I add one bit,
+- [00:57:16,280 - 00:57:21,280] that means when delta S is equal to one,
+- [00:57:21,280 - 00:57:24,280] if delta S is one unit,
+- [00:57:24,280 - 00:57:26,280] then the amount of energy that gets added
+- [00:57:26,280 - 00:57:28,280] to the system is called the temperature.
+- [00:57:28,280 - 00:57:32,280] What happens if you add two bits
+- [00:57:32,280 - 00:57:34,280] to the atmosphere?
+- [00:57:34,280 - 00:57:37,280] Then the energy of the atmosphere
+- [00:57:37,280 - 00:57:39,280] changes by twice the temperature.
+- [00:57:39,280 - 00:57:43,280] What happens if you add three bits?
+- [00:57:43,280 - 00:57:45,280] Three times the temperature.
+- [00:57:45,280 - 00:57:48,280] What happens if you add S bits?
+- [00:57:48,280 - 00:57:51,280] Then the change in energy is T
+- [00:57:51,280 - 00:57:54,280] times the change in entropy.
+- [00:57:54,280 - 00:57:57,280] The change in energy
+- [00:57:57,280 - 00:58:00,280] is proportional to the number of bits
+- [00:58:00,280 - 00:58:02,280] that you transfer to the atmosphere
+- [00:58:02,280 - 00:58:04,280] or that you transfer to anything,
+- [00:58:04,280 - 00:58:06,280] a bathtub full of hot water.
+- [00:58:06,280 - 00:58:08,280] In other words, it's the change in the energy
+- [00:58:08,280 - 00:58:11,280] when you hide a certain number of bits
+- [00:58:11,280 - 00:58:12,280] of information,
+- [00:58:12,280 - 00:58:14,280] when you remove them from someplace
+- [00:58:14,280 - 00:58:16,280] and hide them in your,
+- [00:58:16,280 - 00:58:19,280] whatever it is you're hiding them in,
+- [00:58:19,280 - 00:58:23,280] in your heat bath, basically.
+- [00:58:23,280 - 00:58:26,280] This is a basic formula of thermodynamics.
+- [00:58:27,280 - 00:58:29,280] Extremely confusing formula
+- [00:58:29,280 - 00:58:31,280] if you start with temperature
+- [00:58:31,280 - 00:58:33,280] as the basic concept,
+- [00:58:33,280 - 00:58:35,280] but it's a very simple concept
+- [00:58:35,280 - 00:58:37,280] if you start with entropy
+- [00:58:37,280 - 00:58:38,280] as the basic concept.
+- [00:58:38,280 - 00:58:40,280] Then temperature is, as I said,
+- [00:58:40,280 - 00:58:43,280] the energy that you add when you add one bit,
+- [00:58:43,280 - 00:58:46,280] and this is usually written differentially,
+- [00:58:46,280 - 00:58:51,280] dE equals T dS.
+- [00:58:51,280 - 00:58:54,280] This is one of the fundamental laws
+- [00:58:54,280 - 00:58:56,280] of thermodynamics.
+- [00:58:57,280 - 00:59:04,280] The change in energy
+- [00:59:04,280 - 00:59:07,280] is the temperature times the change in entropy.
+- [00:59:07,280 - 00:59:14,280] That's the definition of entropy.
+- [00:59:14,280 - 00:59:15,280] Hidden information,
+- [00:59:15,280 - 00:59:17,280] stuff that you can't easily see.
+- [00:59:17,280 - 00:59:20,280] Can I, I did a calculation
+- [00:59:20,280 - 00:59:21,280] comparing a change in entropy
+- [00:59:21,280 - 00:59:23,280] of a hard drive if you erased it,
+- [00:59:23,280 - 00:59:24,280] 100 gigabytes,
+- [00:59:24,280 - 00:59:26,280] and how much that trip cure would be
+- [00:59:26,280 - 00:59:27,280] for a glass of water,
+- [00:59:27,280 - 00:59:29,280] it's about 10 to minus 15 degrees.
+- [00:59:29,280 - 00:59:31,280] Ooh, is it that big?
+- [00:59:31,280 - 00:59:32,280] That's, that's small,
+- [00:59:32,280 - 00:59:33,280] the change of temperature.
+- [00:59:33,280 - 00:59:34,280] If you erase how much?
+- [00:59:34,280 - 00:59:36,280] About 100 gigabytes of,
+- [00:59:36,280 - 00:59:37,280] of information from a hard drive.
+- [00:59:37,280 - 00:59:39,280] Yeah, it's, it's, it's very small, yeah.
+- [00:59:39,280 - 00:59:42,280] A bit, a bit of information
+- [00:59:42,280 - 00:59:44,280] at an ordinary room temperature,
+- [00:59:44,280 - 00:59:45,280] that's, room temperature is very low
+- [00:59:45,280 - 00:59:46,280] for one thing.
+- [00:59:46,280 - 00:59:47,280] Yeah, it's at room temperature.
+- [00:59:47,280 - 00:59:49,280] Yeah, at room temperature, right.
+- [00:59:49,280 - 00:59:51,280] So room temperature in any kind of
+- [00:59:51,280 - 00:59:54,280] reasonable other units is very small.
+- [00:59:54,280 - 00:59:55,280] And yeah, a bit is, yeah,
+- [00:59:55,280 - 00:59:57,280] a bit is a very, typically,
+- [00:59:57,280 - 00:59:59,280] a very small amount of energy
+- [00:59:59,280 - 01:00:01,280] at the, at the ordinary temperatures.
+- [01:00:01,280 - 01:00:02,280] Right.
+- [01:00:02,280 - 01:00:04,280] Professor, are you using the computer
+- [01:00:04,280 - 01:00:06,280] and hard drive as an analogy,
+- [01:00:06,280 - 01:00:07,280] or are you actually saying...
+- [01:00:07,280 - 01:00:08,280] No, no, no, no,
+- [01:00:08,280 - 01:00:09,280] that's a real fundamental law
+- [01:00:09,280 - 01:00:10,280] of computers.
+- [01:00:10,280 - 01:00:13,280] That's, who's, Landauer's,
+- [01:00:13,280 - 01:00:17,280] Landauer's rule about
+- [01:00:17,280 - 01:00:19,280] erasure of information.
+- [01:00:19,280 - 01:00:20,280] Because when you erase
+- [01:00:20,280 - 01:00:22,280] a bit of information on a hard drive,
+- [01:00:22,280 - 01:00:23,280] you're not actually erasing anything,
+- [01:00:23,280 - 01:00:24,280] it's still there,
+- [01:00:24,280 - 01:00:25,280] you're just setting it
+- [01:00:25,280 - 01:00:26,280] from a higher voltage...
+- [01:00:26,280 - 01:00:28,280] No, no, erasing it means,
+- [01:00:28,280 - 01:00:29,280] what erasing,
+- [01:00:29,280 - 01:00:31,280] you haven't erased the object
+- [01:00:31,280 - 01:00:34,280] which held the bit, alright?
+- [01:00:34,280 - 01:00:35,280] But let's say,
+- [01:00:35,280 - 01:00:38,280] here's what you're going to do.
+- [01:00:38,280 - 01:00:39,280] You're going to,
+- [01:00:39,280 - 01:00:41,280] whatever the configuration
+- [01:00:41,280 - 01:00:42,280] of the computer is,
+- [01:00:42,280 - 01:00:46,280] you're going to turn that bit to off.
+- [01:00:46,280 - 01:00:48,280] So that, so you will have forgotten
+- [01:00:48,280 - 01:00:49,280] what was there
+- [01:00:49,280 - 01:00:52,280] because you turned it off.
+- [01:00:52,280 - 01:00:53,280] In that sense,
+- [01:00:53,280 - 01:00:54,280] you've erased the knowledge
+- [01:00:54,280 - 01:00:58,280] that that little circuit had.
+- [01:00:58,280 - 01:01:03,280] And eventually you could turn off your,
+- [01:01:03,280 - 01:01:07,280] turn off by rebooting the computer
+- [01:01:07,280 - 01:01:08,280] or by starting the computer over
+- [01:01:08,280 - 01:01:10,280] and bringing it back to the configuration
+- [01:01:10,280 - 01:01:12,280] of when you bought it.
+- [01:01:12,280 - 01:01:14,280] There's nothing left in that computer
+- [01:01:14,280 - 01:01:16,280] that remembers what you did to it.
+- [01:01:16,280 - 01:01:18,280] So you've erased it.
+- [01:01:18,280 - 01:01:19,280] Alright, you've erased it
+- [01:01:19,280 - 01:01:22,280] and the number of bits
+- [01:01:22,280 - 01:01:23,280] that you've erased,
+- [01:01:23,280 - 01:01:24,280] in other words,
+- [01:01:24,280 - 01:01:27,280] the number that you brought back to neutral
+- [01:01:27,280 - 01:01:29,280] is the change in the entropy
+- [01:01:29,280 - 01:01:30,280] of the computer.
+- [01:01:30,280 - 01:01:32,280] And that, or if you like,
+- [01:01:32,280 - 01:01:33,280] that's the number of bits
+- [01:01:33,280 - 01:01:36,280] that had to be taken from the computer,
+- [01:01:36,280 - 01:01:38,280] put into the atmosphere,
+- [01:01:38,280 - 01:01:42,280] and that's what you calculated
+- [01:01:42,280 - 01:01:44,280] when you calculated the...
+- [01:01:44,280 - 01:01:46,280] The real thing is much more inefficient,
+- [01:01:46,280 - 01:01:47,280] so it's erased a whole lot more.
+- [01:01:47,280 - 01:01:49,280] Yeah, yeah, yeah, yeah, yeah, yeah.
+- [01:01:49,280 - 01:01:51,280] That's right, that's right.
+- [01:01:51,280 - 01:01:53,280] You do a lot of other stuff
+- [01:01:53,280 - 01:01:55,280] besides erase the bit normally,
+- [01:01:55,280 - 01:01:58,280] like you rub your finger on the keyboard
+- [01:01:58,280 - 01:02:02,280] and all kinds of other useless stuff.
+- [01:02:02,280 - 01:02:07,280] Does that say that at high temperatures
+- [01:02:07,280 - 01:02:10,280] hiding one bit of information...
+- [01:02:10,280 - 01:02:11,280] Costs more energy.
+- [01:02:11,280 - 01:02:12,280] Costs more energy.
+- [01:02:12,280 - 01:02:15,280] Yes, or, right, will heat the system,
+- [01:02:15,280 - 01:02:19,280] will increase the energy
+- [01:02:19,280 - 01:02:21,280] of the heat bath by more.
+- [01:02:21,280 - 01:02:22,280] The higher the temperature,
+- [01:02:22,280 - 01:02:27,280] the more energy you will be putting in
+- [01:02:27,280 - 01:02:29,280] when you hide that bit.
+- [01:02:29,280 - 01:02:32,280] Yeah, that's exactly what it says.
+- [01:02:35,280 - 01:02:36,280] But in a sense,
+- [01:02:36,280 - 01:02:39,280] that's the definition of the temperature.
+- [01:02:39,280 - 01:02:41,280] So it's a question of horse before the cart
+- [01:02:41,280 - 01:02:42,280] or cart before the horse.
+- [01:02:42,280 - 01:02:43,280] Yeah.
+- [01:02:43,280 - 01:02:48,280] If you write on top of a previously existing bit
+- [01:02:48,280 - 01:02:50,280] and you have lost the information
+- [01:02:50,280 - 01:02:51,280] of what that bit was,
+- [01:02:51,280 - 01:02:53,280] that changes the...
+- [01:02:53,280 - 01:02:54,280] Yes.
+- [01:02:54,280 - 01:02:59,280] That changes the amount of information,
+- [01:02:59,280 - 01:03:01,280] decreases the amount of information
+- [01:03:01,280 - 01:03:03,280] in the computer,
+- [01:03:03,280 - 01:03:05,280] but that information cannot disappear
+- [01:03:05,280 - 01:03:07,280] out of this world,
+- [01:03:07,280 - 01:03:09,280] so you wound up putting it into the atmosphere,
+- [01:03:09,280 - 01:03:10,280] but it's hidden in the atmosphere,
+- [01:03:10,280 - 01:03:12,280] and so it's entropy.
+- [01:03:12,280 - 01:03:16,280] Okay, that's the basic idea of entropy.
+- [01:03:16,280 - 01:03:18,280] Why my teacher didn't teach me that
+- [01:03:18,280 - 01:03:20,280] when I studied thermodynamics
+- [01:03:20,280 - 01:03:23,280] in 1959.
+- [01:03:23,280 - 01:03:24,280] I don't know.
+- [01:03:24,280 - 01:03:26,280] Same thing in 1956.
+- [01:03:28,280 - 01:03:30,280] I went around asking my colleagues,
+- [01:03:30,280 - 01:03:32,280] when you teach statistical mechanics,
+- [01:03:32,280 - 01:03:34,280] do you teach that?
+- [01:03:34,280 - 01:03:36,280] And basically what I found out
+- [01:03:36,280 - 01:03:38,280] is none of my colleagues knew it.
+- [01:03:38,280 - 01:03:39,280] Good.
+- [01:03:39,280 - 01:03:41,280] Not good.
+- [01:03:41,280 - 01:03:44,280] Hidden information.
+- [01:03:44,280 - 01:03:45,280] Hmm?
+- [01:03:45,280 - 01:03:46,280] Hidden information.
+- [01:03:46,280 - 01:03:47,280] Hidden information, right.
+- [01:03:47,280 - 01:03:48,280] Yeah.
+- [01:03:48,280 - 01:03:52,280] The computer scientists all know it.
+- [01:03:52,280 - 01:03:55,280] But there were no computers back then.
+- [01:03:55,280 - 01:03:56,280] Right.
+- [01:03:56,280 - 01:03:57,280] Yes, yes, yes.
+- [01:03:57,280 - 01:03:59,280] But these ideas, that's right,
+- [01:03:59,280 - 01:04:01,280] but these ideas go back to Boltzmann.
+- [01:04:01,280 - 01:04:04,280] These ideas are older than computer science.
+- [01:04:04,280 - 01:04:06,280] Actually, there was quite a...
+- [01:04:06,280 - 01:04:07,280] No, all right.
+- [01:04:07,280 - 01:04:10,280] In statistical mechanics and in physics,
+- [01:04:10,280 - 01:04:12,280] they go back to Boltzmann in the 19th century.
+- [01:04:12,280 - 01:04:15,280] In computer science,
+- [01:04:15,280 - 01:04:17,280] they go back to the 40s, Shannon.
+- [01:04:17,280 - 01:04:22,280] Claude Shannon was the one who formulated these ideas.
+- [01:04:22,280 - 01:04:24,280] Okay, enough history.
+- [01:04:24,280 - 01:04:31,280] Okay, so now let's talk about the information
+- [01:04:31,280 - 01:04:34,280] that's hidden in a black hole.
+- [01:04:34,280 - 01:04:36,280] As I said, you can either think of it
+- [01:04:36,280 - 01:04:38,280] as hidden in the black hole,
+- [01:04:38,280 - 01:04:41,280] or you can think about it
+- [01:04:41,280 - 01:04:44,280] as hidden on the surface of the black hole.
+- [01:04:44,280 - 01:04:46,280] You keep throwing stuff into the black hole,
+- [01:04:46,280 - 01:04:49,280] and it accumulates closer and closer to the horizon,
+- [01:04:49,280 - 01:04:51,280] in some sense,
+- [01:04:51,280 - 01:04:53,280] and becomes unavailable,
+- [01:04:53,280 - 01:04:57,280] gets all smushed up onto the horizon.
+- [01:04:57,280 - 01:05:00,280] It takes light forever and ever and ever
+- [01:05:00,280 - 01:05:03,280] to get out of the horizon,
+- [01:05:03,280 - 01:05:06,280] so it's effectively lost.
+- [01:05:06,280 - 01:05:09,280] Why did Bekenstein...
+- [01:05:09,280 - 01:05:12,280] Why did Bekenstein...
+- [01:05:12,280 - 01:05:14,280] Why did he do that?
+- [01:05:14,280 - 01:05:15,280] Why did he do that?
+- [01:05:15,280 - 01:05:22,280] Why did he think that black holes had entropy?
+- [01:05:22,280 - 01:05:24,280] Well, I'm going to tell you
+- [01:05:24,280 - 01:05:26,280] the way I think about it,
+- [01:05:26,280 - 01:05:29,280] but it was also the way Bekenstein thought about it.
+- [01:05:29,280 - 01:05:31,280] But I'm going to tell you why he thought there was entropy
+- [01:05:31,280 - 01:05:34,280] by computing the entropy,
+- [01:05:34,280 - 01:05:38,280] by computing the amount of information
+- [01:05:38,280 - 01:05:41,280] that you can store in a black hole.
+- [01:05:41,280 - 01:05:43,280] What I'm going to do is imagine
+- [01:05:43,280 - 01:05:45,280] building up the black hole,
+- [01:05:45,280 - 01:05:49,280] by throwing bits of information into it,
+- [01:05:49,280 - 01:05:51,280] and I want to know,
+- [01:05:51,280 - 01:05:53,280] after I have thrown in
+- [01:05:53,280 - 01:05:55,280] a certain number of bits of information,
+- [01:05:55,280 - 01:05:57,280] how big is the black hole?
+- [01:05:57,280 - 01:06:01,280] The logic is very, very similar
+- [01:06:01,280 - 01:06:03,280] to asking,
+- [01:06:03,280 - 01:06:05,280] how full will a bathtub be
+- [01:06:05,280 - 01:06:10,280] if I fill it by dropping in atom by atom,
+- [01:06:10,280 - 01:06:13,280] and I tell you after n atoms,
+- [01:06:13,280 - 01:06:14,280] how...
+- [01:06:15,280 - 01:06:16,280] big...
+- [01:06:16,280 - 01:06:18,280] how full will the bathtub be?
+- [01:06:18,280 - 01:06:19,280] Well, the way you figure it out is you say
+- [01:06:19,280 - 01:06:21,280] an atom has a certain volume.
+- [01:06:21,280 - 01:06:23,280] Every time you drop an atom in,
+- [01:06:23,280 - 01:06:26,280] it adds to the volume of the water,
+- [01:06:26,280 - 01:06:27,280] and if you...
+- [01:06:27,280 - 01:06:29,280] and each differential drop
+- [01:06:29,280 - 01:06:33,280] changes the volume by a little bit,
+- [01:06:33,280 - 01:06:35,280] and raises the level of the water
+- [01:06:35,280 - 01:06:36,280] by a certain amount.
+- [01:06:36,280 - 01:06:38,280] So if you want to know how high the water will be
+- [01:06:38,280 - 01:06:40,280] for a given number of drops,
+- [01:06:40,280 - 01:06:41,280] what do you do?
+- [01:06:41,280 - 01:06:42,280] You just count,
+- [01:06:42,280 - 01:06:45,280] how much will the water be raised
+- [01:06:45,280 - 01:06:48,280] by dropping in one drop?
+- [01:06:48,280 - 01:06:50,280] Of course, you don't have to be that dumb.
+- [01:06:50,280 - 01:06:52,280] You could be smarter than that,
+- [01:06:52,280 - 01:06:54,280] but that would be one way to do it.
+- [01:06:54,280 - 01:06:56,280] Just drop by drop by drop,
+- [01:06:56,280 - 01:06:58,280] and discover each drop that you put in
+- [01:06:58,280 - 01:06:59,280] has a certain volume,
+- [01:06:59,280 - 01:07:02,280] therefore it will raise the water a certain amount.
+- [01:07:02,280 - 01:07:03,280] After n drops,
+- [01:07:03,280 - 01:07:05,280] the water has a certain height.
+- [01:07:05,280 - 01:07:07,280] We're going to do the same thing
+- [01:07:07,280 - 01:07:09,280] by dropping in bits of information
+- [01:07:09,280 - 01:07:11,280] to form a black hole.
+- [01:07:11,280 - 01:07:13,280] We can start with a small...
+- [01:07:13,280 - 01:07:14,280] Now,
+- [01:07:14,280 - 01:07:16,280] how does throwing in
+- [01:07:16,280 - 01:07:19,280] photons, electrons, chairs
+- [01:07:19,280 - 01:07:22,280] relate to throwing in information?
+- [01:07:22,280 - 01:07:24,280] Okay, so we're going to come to that,
+- [01:07:24,280 - 01:07:27,280] but basically we're going to
+- [01:07:30,280 - 01:07:31,280] throw something in
+- [01:07:31,280 - 01:07:33,280] which we're pretty sure
+- [01:07:33,280 - 01:07:36,280] has no other information in it
+- [01:07:36,280 - 01:07:39,280] other than the question of whether it's there
+- [01:07:39,280 - 01:07:41,280] in there or not.
+- [01:07:42,280 - 01:07:43,280] In other words,
+- [01:07:43,280 - 01:07:45,280] we're going to fill this black hole up
+- [01:07:45,280 - 01:07:47,280] by a series of processes
+- [01:07:47,280 - 01:07:49,280] for which each one of them
+- [01:07:49,280 - 01:07:53,280] has no other information stored in it
+- [01:07:53,280 - 01:07:55,280] other than
+- [01:07:55,280 - 01:07:58,280] that a photon went into the black hole.
+- [01:07:58,280 - 01:08:00,280] You can simply ask,
+- [01:08:00,280 - 01:08:01,280] did the photon go in,
+- [01:08:01,280 - 01:08:03,280] or didn't the photon go in?
+- [01:08:03,280 - 01:08:05,280] That's a yes or no question,
+- [01:08:05,280 - 01:08:07,280] and, uh, yeah?
+- [01:08:07,280 - 01:08:09,280] You need an accordion of time, right?
+- [01:08:09,280 - 01:08:11,280] So, build an infinite amount of time
+- [01:08:11,280 - 01:08:12,280] for that information to get into the black hole.
+- [01:08:12,280 - 01:08:13,280] But it doesn't take very long
+- [01:08:13,280 - 01:08:15,280] for it to get squashed onto the horizon
+- [01:08:15,280 - 01:08:17,280] where it becomes unavailable.
+- [01:08:17,280 - 01:08:18,280] Yeah.
+- [01:08:18,280 - 01:08:19,280] Right.
+- [01:08:19,280 - 01:08:20,280] Well...
+- [01:08:20,280 - 01:08:22,280] Yeah, that's another example,
+- [01:08:22,280 - 01:08:24,280] or the polarization of the photon.
+- [01:08:24,280 - 01:08:26,280] The polarization of the photon is,
+- [01:08:26,280 - 01:08:29,280] it's either up or down along the x-axis,
+- [01:08:29,280 - 01:08:31,280] so it's one bit of information.
+- [01:08:31,280 - 01:08:33,280] But you have to be careful.
+- [01:08:33,280 - 01:08:35,280] And here's what you have to do.
+- [01:08:35,280 - 01:08:37,280] All right, so we're going to start...
+- [01:08:37,280 - 01:08:39,280] Let's take a black hole.
+- [01:08:39,280 - 01:08:40,280] There's a black hole.
+- [01:08:40,280 - 01:08:42,280] It has mass m,
+- [01:08:42,280 - 01:08:44,280] it has radius r,
+- [01:08:44,280 - 01:08:46,280] or the horizon has radius r,
+- [01:08:46,280 - 01:08:51,280] which is twice mg.
+- [01:08:51,280 - 01:08:53,280] We've already made it.
+- [01:08:53,280 - 01:08:54,280] We've got it there.
+- [01:08:54,280 - 01:08:58,280] Now we want to throw in one more object,
+- [01:08:58,280 - 01:09:02,280] and that should be the simplest possible kind of object
+- [01:09:02,280 - 01:09:04,280] for which we can simply ask,
+- [01:09:04,280 - 01:09:07,280] is it there or is it not there?
+- [01:09:07,280 - 01:09:10,280] One bit of information.
+- [01:09:10,280 - 01:09:12,280] Let's think of a black hole.
+- [01:09:12,280 - 01:09:14,280] Let's think of it as a photon.
+- [01:09:14,280 - 01:09:15,280] All right.
+- [01:09:15,280 - 01:09:16,280] But we have to be careful.
+- [01:09:16,280 - 01:09:19,280] If we throw in a photon from here,
+- [01:09:19,280 - 01:09:24,280] let's suppose this black hole is a kilometer in radius,
+- [01:09:24,280 - 01:09:30,280] and we throw in a photon along a beam of laser light
+- [01:09:30,280 - 01:09:32,280] where the photon has a wavelength
+- [01:09:32,280 - 01:09:35,280] which is, you know, some microscopic wavelength.
+- [01:09:35,280 - 01:09:40,280] Then there's a lot more information in that photon,
+- [01:09:40,280 - 01:09:42,280] in the arrival of that photon,
+- [01:09:42,280 - 01:09:44,280] just whether it got in or not.
+- [01:09:44,280 - 01:09:47,280] For example, did it come in from here?
+- [01:09:47,280 - 01:09:48,280] Did it come in from here?
+- [01:09:48,280 - 01:09:50,280] Did it come in from here?
+- [01:09:50,280 - 01:09:54,280] There's the angle on the horizon where it arrived from.
+- [01:09:54,280 - 01:09:56,280] That's clearly going to...
+- [01:09:56,280 - 01:09:59,280] There may be a lot of bits of information
+- [01:09:59,280 - 01:10:04,280] in describing the angles to various amounts of precision.
+- [01:10:04,280 - 01:10:08,280] So throwing in a photon is not by any means
+- [01:10:08,280 - 01:10:11,280] necessarily the same as throwing in one bit of information.
+- [01:10:12,280 - 01:10:14,280] There's a lot more information.
+- [01:10:14,280 - 01:10:15,280] You know, you could ask...
+- [01:10:15,280 - 01:10:18,280] You could begin a yes-no question as follows.
+- [01:10:18,280 - 01:10:21,280] Is it in the upper hemisphere that it came in?
+- [01:10:21,280 - 01:10:22,280] Yes.
+- [01:10:22,280 - 01:10:23,280] Okay.
+- [01:10:23,280 - 01:10:26,280] Is it in the upper hemisphere to the right?
+- [01:10:26,280 - 01:10:28,280] No.
+- [01:10:28,280 - 01:10:29,280] Okay, it's to the left.
+- [01:10:29,280 - 01:10:34,280] And now imagine dividing up the horizon of the black hole
+- [01:10:34,280 - 01:10:36,280] and asking a series of yes-no questions
+- [01:10:36,280 - 01:10:39,280] until you've localized where that photon came in
+- [01:10:39,280 - 01:10:42,280] to the maximum degree that it can be localized.
+- [01:10:42,280 - 01:10:45,280] It can't be more localized than its wavelength.
+- [01:10:45,280 - 01:10:48,280] It's fuzzy out to its wavelength,
+- [01:10:48,280 - 01:10:52,280] but it's clear that there's a lot more yes-no questions
+- [01:10:52,280 - 01:10:54,280] you can ask about that photon coming in,
+- [01:10:54,280 - 01:10:57,280] and so that photon is not one bit of information.
+- [01:10:57,280 - 01:10:59,280] It's a lot of information.
+- [01:10:59,280 - 01:11:03,280] Unless you do something to that photon
+- [01:11:03,280 - 01:11:05,280] or you deal with a photon
+- [01:11:05,280 - 01:11:10,280] which is so uncertain about where it is
+- [01:11:10,280 - 01:11:12,280] because photons are always uncertain,
+- [01:11:12,280 - 01:11:14,280] they don't have any brain,
+- [01:11:14,280 - 01:11:18,280] but unless in principle there is an uncertainty,
+- [01:11:18,280 - 01:11:21,280] uncertainty in the sense of Heisenberg,
+- [01:11:21,280 - 01:11:25,280] unless there is a maximal amount of uncertainty
+- [01:11:25,280 - 01:11:30,280] about where that photon entered the black hole.
+- [01:11:30,280 - 01:11:34,280] Now, what does that mean in practice?
+- [01:11:34,280 - 01:11:38,280] In practice, that means that the wavelength of the photon,
+- [01:11:38,280 - 01:11:41,280] the wavelength of the photon is a measure
+- [01:11:41,280 - 01:11:46,280] of how delocalized the position of the photon is
+- [01:11:46,280 - 01:11:47,280] in quantum mechanics.
+- [01:11:47,280 - 01:11:50,280] We're talking about quantum mechanics now.
+- [01:11:50,280 - 01:11:56,280] If the wavelength of the photon is as big as the whole black hole,
+- [01:11:56,280 - 01:11:58,280] then when that photon arrives,
+- [01:11:58,280 - 01:12:03,280] it arrives in a way where there's complete uncertainty
+- [01:12:03,280 - 01:12:06,280] about where it entered from.
+- [01:12:06,280 - 01:12:10,280] So the first thing you want to do is you want to work with photons
+- [01:12:10,280 - 01:12:12,280] which have the longest possible wavelength
+- [01:12:12,280 - 01:12:15,280] but can still get into the black hole.
+- [01:12:15,280 - 01:12:21,280] Is there a restriction on not being able to get into the black hole?
+- [01:12:21,280 - 01:12:22,280] Yes.
+- [01:12:22,280 - 01:12:27,280] It's a fact that's been known basically from classical physics
+- [01:12:27,280 - 01:12:31,280] that if you shine light on a black hole
+- [01:12:31,280 - 01:12:35,280] of wavelength longer than the size of the black hole,
+- [01:12:35,280 - 01:12:37,280] it just reflects off.
+- [01:12:37,280 - 01:12:39,280] It will not go in.
+- [01:12:39,280 - 01:12:44,280] Only wavelengths which are no longer than the radius
+- [01:12:44,280 - 01:12:48,280] of the black hole horizon have any chance of penetrating
+- [01:12:48,280 - 01:12:51,280] through to the horizon.
+- [01:12:51,280 - 01:12:53,280] So what's the best you can do?
+- [01:12:53,280 - 01:12:57,280] You can work with photons whose wavelength is comparable
+- [01:12:57,280 - 01:13:00,280] to the radius of the black hole.
+- [01:13:00,280 - 01:13:04,280] They are so uncertain in their location that you can't tell
+- [01:13:04,280 - 01:13:07,280] where they entered the black hole.
+- [01:13:07,280 - 01:13:08,280] On the other hand,
+- [01:13:08,280 - 01:13:12,280] they're short enough wavelength that they can get into the black hole.
+- [01:13:12,280 - 01:13:14,280] So you're working just on the margin, on the edge,
+- [01:13:14,280 - 01:13:16,280] where the photon will go into the black hole,
+- [01:13:16,280 - 01:13:20,280] but where it will provide no other information
+- [01:13:20,280 - 01:13:23,280] other than it either got in or it didn't get in.
+- [01:13:23,280 - 01:13:28,280] Okay, so let's add a photon to this black hole.
+- [01:13:28,280 - 01:13:31,280] Do you ever worry about which direction it's coming?
+- [01:13:31,280 - 01:13:34,280] It seems like that's more information.
+- [01:13:34,280 - 01:13:38,280] Well, it really isn't if the wavelength is short enough.
+- [01:13:38,280 - 01:13:43,280] The wavelength is very long because the wavelength is so long
+- [01:13:43,280 - 01:13:48,280] that the electric field is varying very slowly across the black hole.
+- [01:13:48,280 - 01:13:51,280] And it doesn't matter which direction it comes in from.
+- [01:13:51,280 - 01:13:53,280] But you're right to ask the question,
+- [01:13:53,280 - 01:13:56,280] but I think the answer is no, that if the wavelength is long enough
+- [01:13:56,280 - 01:13:59,280] that it doesn't provide any information.
+- [01:13:59,280 - 01:14:02,280] Okay, good.
+- [01:14:02,280 - 01:14:06,280] So we want to send in a photon of wavelength lambda
+- [01:14:08,280 - 01:14:13,280] equal to 2mg.
+- [01:14:13,280 - 01:14:17,280] Now, first question, what is the energy of such a photon?
+- [01:14:17,280 - 01:14:20,280] We're going to be adding some energy now.
+- [01:14:20,280 - 01:14:27,280] Here's this business that whenever you hide a piece of information,
+- [01:14:27,280 - 01:14:31,280] you wind up adding a little bit of energy to the system
+- [01:14:31,280 - 01:14:33,280] that you're hiding the information in.
+- [01:14:33,280 - 01:14:37,280] So how much energy have you hidden
+- [01:14:37,280 - 01:14:41,280] inside the black hole, or how much energy have you added to the black hole?
+- [01:14:41,280 - 01:14:43,280] The energy of the photon.
+- [01:14:43,280 - 01:14:46,280] So we'll just write down a formula or two about energy as a photon.
+- [01:14:46,280 - 01:14:49,280] I'll write down just to remind you.
+- [01:14:49,280 - 01:14:53,280] The energy of a photon or any light wave
+- [01:14:53,280 - 01:14:57,280] is equal to the speed of light times its momentum.
+- [01:14:57,280 - 01:15:00,280] P is the momentum of the photon.
+- [01:15:00,280 - 01:15:05,280] Now, what's the connection between momentum and wavelength?
+- [01:15:05,280 - 01:15:07,280] Anybody remember?
+- [01:15:07,280 - 01:15:11,280] h-bar over lambda.
+- [01:15:11,280 - 01:15:15,280] h-bar. Planck's famous constant.
+- [01:15:15,280 - 01:15:17,280] Alright.
+- [01:15:17,280 - 01:15:20,280] This is, because we're dealing with photons,
+- [01:15:20,280 - 01:15:26,280] because in quantum mechanics information is quantized into photons,
+- [01:15:26,280 - 01:15:29,280] this is a real quantum problem.
+- [01:15:29,280 - 01:15:31,280] We're going to see where h-bar winds up.
+- [01:15:31,280 - 01:15:34,280] It'll be interesting to see where h-bar winds up in this formula.
+- [01:15:34,280 - 01:15:36,280] Alright, so what's the wavelength?
+- [01:15:36,280 - 01:15:44,280] The wavelength, or the momentum is h-bar over lambda.
+- [01:15:44,280 - 01:15:46,280] Lambda being the wavelength.
+- [01:15:46,280 - 01:15:50,280] The shorter the wavelength, the higher the momentum.
+- [01:15:50,280 - 01:15:54,280] So now we can say that the energy of the photon that we threw in
+- [01:15:54,280 - 01:16:00,280] is the speed of light times Planck's constant divided by lambda.
+- [01:16:00,280 - 01:16:04,280] So is it h-bar over lambda or h-bar over lambda-bar,
+- [01:16:04,280 - 01:16:07,280] which is the same as h over lambda?
+- [01:16:07,280 - 01:16:11,280] Oh, I'm not keeping track of two pi's.
+- [01:16:11,280 - 01:16:13,280] It's h-bar over lambda, isn't it?
+- [01:16:13,280 - 01:16:15,280] Yeah, it's h-bar over lambda.
+- [01:16:15,280 - 01:16:17,280] h over lambda?
+- [01:16:17,280 - 01:16:20,280] That's, uh, the energy is h over lambda?
+- [01:16:20,280 - 01:16:22,280] I can't remember.
+- [01:16:22,280 - 01:16:24,280] It is c times p.
+- [01:16:24,280 - 01:16:26,280] It's not important. I don't care about two pi's.
+- [01:16:26,280 - 01:16:28,280] Let's forget two pi's. Not important.
+- [01:16:28,280 - 01:16:30,280] Order of magnitude.
+- [01:16:30,280 - 01:16:32,280] Energy is c h over lambda.
+- [01:16:32,280 - 01:16:35,280] And, uh,
+- [01:16:37,280 - 01:16:40,280] Yeah, p is, um,
+- [01:16:40,280 - 01:16:43,280] p is h-bar times the wave number,
+- [01:16:43,280 - 01:16:45,280] and there's a two pi. You're right. There's a two pi.
+- [01:16:45,280 - 01:16:48,280] Okay, but there's this h over lambda. Not important.
+- [01:16:48,280 - 01:16:50,280] h over lambda.
+- [01:16:50,280 - 01:16:53,280] Um, the energy is h over lambda.
+- [01:16:53,280 - 01:16:59,280] Now, lambda, we're going to be choosing equal
+- [01:16:59,280 - 01:17:02,280] to the size of the black hole.
+- [01:17:02,280 - 01:17:10,280] So now we can write down that the energy that we've put in,
+- [01:17:10,280 - 01:17:14,280] apart from factors of two, I'm not interested in factors of two here,
+- [01:17:14,280 - 01:17:17,280] we can't, uh, this calculation is not going to be that precise
+- [01:17:17,280 - 01:17:19,280] within a factor of two.
+- [01:17:19,280 - 01:17:22,280] All right, so the energy that we're adding to the black hole
+- [01:17:22,280 - 01:17:25,280] is the speed of light times Planck's constant
+- [01:17:25,280 - 01:17:30,280] divided by m over g, and that adds one
+- [01:17:30,280 - 01:17:31,280] bit of information to the black hole.
+- [01:17:31,280 - 01:17:35,280] Now, I could stop right here.
+- [01:17:35,280 - 01:17:39,280] I have now told you how much information it costs,
+- [01:17:39,280 - 01:17:42,280] how much energy it costs to hide one bit.
+- [01:17:42,280 - 01:17:44,280] What have I told you?
+- [01:17:44,280 - 01:17:46,280] The temperature.
+- [01:17:46,280 - 01:17:48,280] Here's the temperature of the black hole.
+- [01:17:48,280 - 01:17:51,280] c h over mg.
+- [01:17:53,280 - 01:17:54,280] That's the Hawking temperature.
+- [01:17:54,280 - 01:17:57,280] Now, there are some factors of four and pi's and things
+- [01:17:57,280 - 01:18:00,280] that we're not going to get right by this little argument,
+- [01:18:00,280 - 01:18:05,280] but let's go a little bit further.
+- [01:18:05,280 - 01:18:09,280] This is one bit of information that we put in.
+- [01:18:09,280 - 01:18:13,280] Let's see how much bigger it makes the black hole.
+- [01:18:13,280 - 01:18:15,280] Let's see if we can see how much bigger it makes the black hole.
+- [01:18:15,280 - 01:18:18,280] It makes the black hole bigger because when you add energy,
+- [01:18:18,280 - 01:18:20,280] you add mass.
+- [01:18:20,280 - 01:18:22,280] E equals mc squared.
+- [01:18:22,280 - 01:18:25,280] All right, so E equals mc squared.
+- [01:18:25,280 - 01:18:30,280] So this can also be written as the temperature of the black hole.
+- [01:18:30,280 - 01:18:32,280] The change in the mass,
+- [01:18:32,280 - 01:18:37,280] let's call it the change in the mass times c squared.
+- [01:18:37,280 - 01:18:41,280] The energy that I added goes into increasing the mass,
+- [01:18:41,280 - 01:18:46,280] and it changes the mass by this formula here.
+- [01:18:46,280 - 01:18:50,280] Let's clean up the formula a little bit.
+- [01:18:50,280 - 01:18:52,280] Let's divide by c squared,
+- [01:18:52,280 - 01:18:56,280] and that winds up putting the c in the denominator here.
+- [01:18:56,280 - 01:18:58,280] That's the change in the mass.
+- [01:18:58,280 - 01:19:00,280] That's the minimum change in the mass
+- [01:19:00,280 - 01:19:03,280] if we add one bit of information,
+- [01:19:03,280 - 01:19:06,280] is h bar over mg.
+- [01:19:06,280 - 01:19:08,280] Okay, let's go a little further.
+- [01:19:08,280 - 01:19:12,280] Let's calculate the change in the radius of the black hole.
+- [01:19:12,280 - 01:19:14,280] Let's calculate the change in the radius of the black hole.
+- [01:19:14,280 - 01:19:16,280] How do I do that?
+- [01:19:16,280 - 01:19:20,280] I do it because I know that the radius is proportional to m times g.
+- [01:19:20,280 - 01:19:26,280] So I just multiply.
+- [01:19:26,280 - 01:19:29,280] I multiply both sides of this equation.
+- [01:19:29,280 - 01:19:30,280] Let's see.
+- [01:19:30,280 - 01:19:32,280] Am I doing...
+- [01:19:32,280 - 01:19:34,280] Yeah, by g.
+- [01:19:34,280 - 01:19:38,280] Oh, this was the wavelength downstairs.
+- [01:19:38,280 - 01:19:47,280] So we multiply by g.
+- [01:19:47,280 - 01:19:49,280] And this is the change in the radius of the black hole.
+- [01:19:49,280 - 01:19:55,280] Let's see.
+- [01:19:55,280 - 01:19:59,280] Did I do that right?
+- [01:19:59,280 - 01:20:01,280] I did.
+- [01:20:01,280 - 01:20:05,280] The wavelength over the Schwarzschild radius.
+- [01:20:05,280 - 01:20:12,280] hc over the Schwarzschild radius is the change in energy.
+- [01:20:12,280 - 01:20:16,280] That's delta E.
+- [01:20:16,280 - 01:20:19,280] E equals mc squared.
+- [01:20:19,280 - 01:20:20,280] So if I want the change in mass,
+- [01:20:20,280 - 01:20:24,280] I think I want to divide it by c squared.
+- [01:20:24,280 - 01:20:28,280] The change in mass...
+- [01:20:28,280 - 01:20:30,280] is equal to c h...
+- [01:20:30,280 - 01:20:34,280] No, is equal to h over rc.
+- [01:20:34,280 - 01:20:39,280] Agreed?
+- [01:20:39,280 - 01:20:41,280] Have I confused you thoroughly?
+- [01:20:41,280 - 01:20:42,280] No.
+- [01:20:42,280 - 01:20:43,280] Okay, good.
+- [01:20:43,280 - 01:20:45,280] That's the change in mass.
+- [01:20:45,280 - 01:20:47,280] And now if I multiply it by g,
+- [01:20:47,280 - 01:20:51,280] it gives me the change in radius.
+- [01:20:51,280 - 01:20:56,280] This is the change in radius of the black hole.
+- [01:20:56,280 - 01:21:01,280] Okay, so every time I throw in one bit of information,
+- [01:21:01,280 - 01:21:07,280] I change the radius by an amount which is inverse to the radius itself.
+- [01:21:07,280 - 01:21:14,280] With the g h over c.
+- [01:21:14,280 - 01:21:17,280] I really think I've lost some c's, but I'm not sure where.
+- [01:21:17,280 - 01:21:18,280] Well, maybe not.
+- [01:21:18,280 - 01:21:20,280] The part that has a c downstairs should be leading up.
+- [01:21:20,280 - 01:21:21,280] Where?
+- [01:21:21,280 - 01:21:23,280] Oh, oh, oh, you're right.
+- [01:21:23,280 - 01:21:24,280] You're right, you're right.
+- [01:21:24,280 - 01:21:25,280] The Schwarzschild...
+- [01:21:25,280 - 01:21:26,280] Good, good, good.
+- [01:21:26,280 - 01:21:30,280] The Schwarzschild radius is not mg, it's mg over c squared.
+- [01:21:30,280 - 01:21:31,280] That's where it went.
+- [01:21:31,280 - 01:21:33,280] mg over c squared.
+- [01:21:33,280 - 01:21:38,280] So I think this should be by now c cubed, if I'm not mistaken.
+- [01:21:38,280 - 01:21:40,280] What you're saying is r.
+- [01:21:40,280 - 01:21:42,280] Hmm?
+- [01:21:42,280 - 01:21:46,280] That's where you set everything like c equals one.
+- [01:21:46,280 - 01:21:47,280] Yeah, that's...
+- [01:21:47,280 - 01:21:50,280] Don't set it c equals one in part of the thing and not the other part.
+- [01:21:50,280 - 01:21:54,280] Yeah, I think it's g h over rc cubed.
+- [01:21:54,280 - 01:21:56,280] So that's the difference between the two.
+- [01:21:56,280 - 01:21:57,280] Okay, so I think you're right.
+- [01:21:57,280 - 01:22:00,280] So the difference between the two is the change in radius.
+- [01:22:00,280 - 01:22:05,280] Now multiply by the radius.
+- [01:22:05,280 - 01:22:09,280] r times the change in the radius.
+- [01:22:09,280 - 01:22:11,280] What's r times the change in radius?
+- [01:22:11,280 - 01:22:14,280] r dr.
+- [01:22:14,280 - 01:22:16,280] That's dr squared.
+- [01:22:16,280 - 01:22:17,280] Right?
+- [01:22:17,280 - 01:22:22,280] The change in r squared, apart from a factor of two,
+- [01:22:22,280 - 01:22:23,280] is 2r dr.
+- [01:22:23,280 - 01:22:25,280] That's the elementary calculus.
+- [01:22:25,280 - 01:22:33,280] So r times a small change in r is proportional to the change in the square of the radius.
+- [01:22:33,280 - 01:22:38,280] But what's the square of the radius?
+- [01:22:38,280 - 01:22:43,280] The square of the radius of the horizon is the area of the horizon.
+- [01:22:43,280 - 01:22:45,280] So look what this formula says.
+- [01:22:45,280 - 01:22:49,280] It says every time you drop a bit of information in,
+- [01:22:49,280 - 01:22:52,280] you change the area of the horizon
+- [01:22:52,280 - 01:22:55,280] by a universal amount,
+- [01:22:55,280 - 01:22:58,280] which doesn't depend on the mass of the black hole,
+- [01:22:58,280 - 01:23:01,280] it doesn't depend on the radius of the black hole,
+- [01:23:01,280 - 01:23:03,280] at the instant that you did it.
+- [01:23:03,280 - 01:23:09,280] You always wind up changing the area by the same amount.
+- [01:23:09,280 - 01:23:14,280] It's kind of like saying that every time you drop a drop into a bathtub,
+- [01:23:14,280 - 01:23:17,280] assuming the bathtub had nice straight walls,
+- [01:23:17,280 - 01:23:21,280] that you always raise the level of the bathtub by the same amount.
+- [01:23:22,280 - 01:23:25,280] And it doesn't matter how full it is,
+- [01:23:25,280 - 01:23:29,280] you always raise the volume by the same amount.
+- [01:23:29,280 - 01:23:33,280] In this case, you increase the area of the black hole
+- [01:23:33,280 - 01:23:40,280] by one unit, where unit means the area gh over c cubed.
+- [01:23:40,280 - 01:23:42,280] Okay.
+- [01:23:42,280 - 01:23:45,280] This is a very small area.
+- [01:23:45,280 - 01:23:48,280] Every small area is the square of some,
+- [01:23:48,280 - 01:23:51,280] or every area is the square of some length, of course.
+- [01:23:51,280 - 01:23:54,280] So, this is the square of some length.
+- [01:23:54,280 - 01:23:57,280] It's the square of the square root.
+- [01:23:57,280 - 01:24:02,280] This quantity has units of a length.
+- [01:24:02,280 - 01:24:05,280] Let's, uh, it's the Planck length.
+- [01:24:05,280 - 01:24:07,280] It's called the Planck length.
+- [01:24:07,280 - 01:24:09,280] And it's very small. Let's see if we can estimate it.
+- [01:24:13,280 - 01:24:16,280] Okay. G in ordinary units,
+- [01:24:16,280 - 01:24:21,280] units means kilograms, meters, seconds.
+- [01:24:21,280 - 01:24:26,280] G is about seven times ten to the minus eleventh.
+- [01:24:29,280 - 01:24:31,280] How about Planck's constant?
+- [01:24:38,280 - 01:24:40,280] I think, uh, well that's h bar, I think.
+- [01:24:40,280 - 01:24:42,280] Is that h or h bar? Six? I don't remember.
+- [01:24:42,280 - 01:24:43,280] Another seven.
+- [01:24:43,280 - 01:24:45,280] h is six. h bar is one over five-fourths.
+- [01:24:45,280 - 01:24:49,280] Okay. Seven times ten to the minus thirty-four.
+- [01:24:51,280 - 01:24:54,280] That's this.
+- [01:24:54,280 - 01:24:56,280] And c cubed, how about c cubed?
+- [01:24:56,280 - 01:24:58,280] We have to square, we're gonna take the square root in a minute.
+- [01:24:58,280 - 01:25:00,280] Well, what's the square of the speed of light,
+- [01:25:00,280 - 01:25:02,280] the cube of the speed of light?
+- [01:25:02,280 - 01:25:04,280] Cube of the speed of, the speed of,
+- [01:25:04,280 - 01:25:08,280] twenty-seven times ten to the twenty-fourth.
+- [01:25:08,280 - 01:25:09,280] All right.
+- [01:25:09,280 - 01:25:12,280] All right, so we got a,
+- [01:25:12,280 - 01:25:16,280] twenty-seven times ten, what did I say, twenty-fourth?
+- [01:25:16,280 - 01:25:18,280] Twenty-fourth.
+- [01:25:18,280 - 01:25:20,280] Okay, we got a lot of small numbers upstairs,
+- [01:25:20,280 - 01:25:22,280] and a lot of big numbers downstairs.
+- [01:25:22,280 - 01:25:24,280] This is a very small number.
+- [01:25:24,280 - 01:25:30,280] Uh, I think it's about ten to the minus sixty-eighth
+- [01:25:30,280 - 01:25:33,280] or sixty-ninth or something like that.
+- [01:25:33,280 - 01:25:36,280] Ten to the minus sixty-ninth square meters
+- [01:25:36,280 - 01:25:38,280] or something like that, I don't remember exactly.
+- [01:25:38,280 - 01:25:44,280] Okay. I happen to remember it's ten to the minus sixty-six,
+- [01:25:44,280 - 01:25:48,280] sixty-six, somewhere about that, square centimeters.
+- [01:25:48,280 - 01:25:49,280] Minus sixty-eight to the one,
+- [01:25:49,280 - 01:25:54,280] and one over minus sixty-nine.
+- [01:25:54,280 - 01:25:56,280] Okay, the Planck length itself,
+- [01:25:56,280 - 01:26:00,280] the square root of this is about ten to the minus thirty-five centimeters,
+- [01:26:00,280 - 01:26:05,280] so it's smaller than anything that you can access in any way
+- [01:26:05,280 - 01:26:08,280] in experimental physics.
+- [01:26:08,280 - 01:26:13,280] And what it says is every time you drop a bit on,
+- [01:26:13,280 - 01:26:18,280] the bits, I mean, the way to think about it is the bits are impenetrable,
+- [01:26:18,280 - 01:26:25,280] and they stick to the horizon.
+- [01:26:25,280 - 01:26:29,280] In no finite amount of time do they ever get past the horizon.
+- [01:26:29,280 - 01:26:31,280] They stick to the horizon, they have sharp elbows,
+- [01:26:31,280 - 01:26:34,280] and they simply push the other ones out of the way,
+- [01:26:34,280 - 01:26:37,280] each one occupying about a Planck area.
+- [01:26:37,280 - 01:26:39,280] I have a question.
+- [01:26:39,280 - 01:26:42,280] If the first one was sent in and it's approaching the horizon,
+- [01:26:42,280 - 01:26:45,280] now the next one comes in and the horizon moves out.
+- [01:26:45,280 - 01:26:48,280] Well, it pushes the other ones out of the way,
+- [01:26:48,280 - 01:26:50,280] and it makes the area bigger,
+- [01:26:50,280 - 01:26:53,280] and the only way to make the area bigger is to make it bigger.
+- [01:26:53,280 - 01:26:55,280] So it doesn't just increase the radius,
+- [01:26:55,280 - 01:26:57,280] and now the prior one is inside.
+- [01:26:57,280 - 01:26:59,280] Not inside. No, no, no, no.
+- [01:26:59,280 - 01:27:01,280] They never get past the horizon.
+- [01:27:01,280 - 01:27:03,280] Even if you added a huge mass to it,
+- [01:27:03,280 - 01:27:05,280] like two colliding black holes?
+- [01:27:05,280 - 01:27:07,280] Right.
+- [01:27:07,280 - 01:27:09,280] It's hard to believe.
+- [01:27:09,280 - 01:27:12,280] The next one that comes, yeah, yeah.
+- [01:27:12,280 - 01:27:15,280] We'll go through a bit of that.
+- [01:27:15,280 - 01:27:17,280] We have to define what the horizon is
+- [01:27:17,280 - 01:27:20,280] in a careful way.
+- [01:27:20,280 - 01:27:23,280] We have to define the precise concept of a horizon,
+- [01:27:23,280 - 01:27:25,280] which we haven't done yet.
+- [01:27:25,280 - 01:27:27,280] We've only, yeah.
+- [01:27:27,280 - 01:27:30,280] This probably isn't significant,
+- [01:27:30,280 - 01:27:34,280] but on the area,
+- [01:27:34,280 - 01:27:36,280] what you're saying,
+- [01:27:36,280 - 01:27:39,280] the Planck-Leth square is a Planck area
+- [01:27:39,280 - 01:27:41,280] on a flat surface,
+- [01:27:41,280 - 01:27:43,280] but not a surface sphere.
+- [01:27:43,280 - 01:27:45,280] No, it's a spherical surface.
+- [01:27:45,280 - 01:27:47,280] So that's not significant.
+- [01:27:47,280 - 01:27:52,280] So for your eight-kilometer
+- [01:27:52,280 - 01:27:54,280] diameter black hole,
+- [01:27:54,280 - 01:27:57,280] your wavelength that you want for this photon
+- [01:27:57,280 - 01:28:00,280] is eight kilometers.
+- [01:28:00,280 - 01:28:01,280] Right.
+- [01:28:01,280 - 01:28:03,280] Long radio.
+- [01:28:03,280 - 01:28:06,280] Nice long radio wave.
+- [01:28:06,280 - 01:28:09,280] It's like the little barb and fish
+- [01:28:09,280 - 01:28:11,280] where if you took a basketball
+- [01:28:11,280 - 01:28:14,280] and you wrapped a string around it
+- [01:28:14,280 - 01:28:16,280] and you add a length to it,
+- [01:28:16,280 - 01:28:19,280] how far away is the circle of basketball
+- [01:28:19,280 - 01:28:21,280] and you do the same thing with the Earth.
+- [01:28:21,280 - 01:28:22,280] Same distance.
+- [01:28:22,280 - 01:28:24,280] You'd want the same distance radio.
+- [01:28:24,280 - 01:28:27,280] No, that's a similar thing.
+- [01:28:27,280 - 01:28:32,280] Okay, but that was the magic of
+- [01:28:32,280 - 01:28:38,280] that
+- [01:28:38,280 - 01:28:41,280] Jacob Bekenstein argued,
+- [01:28:41,280 - 01:28:45,280] and in this way argued that the
+- [01:28:45,280 - 01:28:49,280] information that you can hide
+- [01:28:49,280 - 01:28:51,280] in a black hole is proportional
+- [01:28:51,280 - 01:28:54,280] to its area in Planck units.
+- [01:28:54,280 - 01:28:56,280] The formula as it was finally,
+- [01:28:56,280 - 01:28:59,280] eventually derived,
+- [01:28:59,280 - 01:29:02,280] and I'm going to write it with C equals one.
+- [01:29:02,280 - 01:29:04,280] Maybe I'll try to put the C's in.
+- [01:29:04,280 - 01:29:05,280] Wait, let's see.
+- [01:29:05,280 - 01:29:07,280] I hesitate to try to put the C's in.
+- [01:29:07,280 - 01:29:09,280] They go in somewheres, but...
+- [01:29:09,280 - 01:29:11,280] The entropy or the hidden information
+- [01:29:11,280 - 01:29:13,280] in the black hole
+- [01:29:13,280 - 01:29:17,280] is equal to the area of the horizon.
+- [01:29:17,280 - 01:29:20,280] Think about building up the black hole
+- [01:29:20,280 - 01:29:21,280] by dropping in bit after bit.
+- [01:29:21,280 - 01:29:25,280] Each time you add one unit of area,
+- [01:29:25,280 - 01:29:28,280] divide by G,
+- [01:29:28,280 - 01:29:30,280] and divide by H bar.
+- [01:29:30,280 - 01:29:32,280] I think there's a C cubed upstairs.
+- [01:29:32,280 - 01:29:35,280] Yeah, C cubed upstairs.
+- [01:29:35,280 - 01:29:37,280] Okay.
+- [01:29:37,280 - 01:29:39,280] This means the entropy of a black hole
+- [01:29:39,280 - 01:29:41,280] is enormous by comparison
+- [01:29:41,280 - 01:29:42,280] with the kinds of entropies
+- [01:29:42,280 - 01:29:45,280] in ordinary systems of the same size.
+- [01:29:45,280 - 01:29:46,280] You have C cubed.
+- [01:29:46,280 - 01:29:47,280] That's a huge number.
+- [01:29:47,280 - 01:29:48,280] You have G and H bar,
+- [01:29:48,280 - 01:29:51,280] which are tiny numbers in the denominator.
+- [01:29:51,280 - 01:29:53,280] The entropy of a black hole
+- [01:29:53,280 - 01:29:54,280] is bigger than the entropy
+- [01:29:54,280 - 01:29:58,280] of anything else of comparable size.
+- [01:29:58,280 - 01:29:59,280] By a lot.
+- [01:29:59,280 - 01:30:00,280] I mean anything else
+- [01:30:00,280 - 01:30:02,280] that you ordinarily would think about.
+- [01:30:02,280 - 01:30:04,280] So huge numbers of bits
+- [01:30:04,280 - 01:30:07,280] get stored on the surface of the black hole
+- [01:30:07,280 - 01:30:10,280] proportional to the area, not the volume.
+- [01:30:10,280 - 01:30:11,280] So the amount of information
+- [01:30:11,280 - 01:30:13,280] you can keep track of in a black hole,
+- [01:30:13,280 - 01:30:15,280] or that needs to be kept track of,
+- [01:30:15,280 - 01:30:17,280] is less than you might have expected.
+- [01:30:17,280 - 01:30:19,280] You might have thought it was the volume
+- [01:30:19,280 - 01:30:20,280] of the black hole,
+- [01:30:20,280 - 01:30:22,280] but it's still huge.
+- [01:30:22,280 - 01:30:23,280] All right.
+- [01:30:23,280 - 01:30:27,280] This is probably one of the most important
+- [01:30:27,280 - 01:30:29,280] principles of physics.
+- [01:30:29,280 - 01:30:30,280] Well, yeah.
+- [01:30:30,280 - 01:30:33,280] The Hawking's formula with S squared
+- [01:30:33,280 - 01:30:35,280] will maintain our original...
+- [01:30:35,280 - 01:30:37,280] No, that's fine.
+- [01:30:37,280 - 01:30:38,280] Sorry, I missed something.
+- [01:30:38,280 - 01:30:39,280] Four.
+- [01:30:39,280 - 01:30:40,280] No.
+- [01:30:40,280 - 01:30:44,280] Yeah.
+- [01:30:44,280 - 01:30:46,280] Bekenstein had this formula
+- [01:30:46,280 - 01:30:48,280] with an unknown coefficient.
+- [01:30:48,280 - 01:30:50,280] He tried to estimate the coefficient,
+- [01:30:50,280 - 01:30:53,280] and he had all sorts of arguments,
+- [01:30:53,280 - 01:30:56,280] but he wound up with peculiar numbers
+- [01:30:56,280 - 01:30:59,280] like logarithms of two and other things
+- [01:30:59,280 - 01:31:01,280] which are not there.
+- [01:31:01,280 - 01:31:02,280] It's just four.
+- [01:31:02,280 - 01:31:04,280] It was Hawking who figured out the four.
+- [01:31:08,280 - 01:31:09,280] Good.
+- [01:31:09,280 - 01:31:10,280] All right.
+- [01:31:10,280 - 01:31:11,280] Let's go back to the...
+- [01:31:19,280 - 01:31:22,280] Oh, there are some interesting...
+- [01:31:22,280 - 01:31:24,280] There's one very interesting thing
+- [01:31:24,280 - 01:31:26,280] about this formula,
+- [01:31:26,280 - 01:31:27,280] and that's that the H bar
+- [01:31:27,280 - 01:31:29,280] is in the denominator.
+- [01:31:29,280 - 01:31:31,280] What's the meaning of that?
+- [01:31:31,280 - 01:31:33,280] Well, you might have thought
+- [01:31:33,280 - 01:31:34,280] that entropy,
+- [01:31:34,280 - 01:31:36,280] the existence of entropy
+- [01:31:36,280 - 01:31:37,280] for a black hole,
+- [01:31:37,280 - 01:31:39,280] is a quantum mechanical effect,
+- [01:31:39,280 - 01:31:40,280] but it has nothing to do
+- [01:31:40,280 - 01:31:41,280] with quantum mechanics.
+- [01:31:41,280 - 01:31:42,280] And so you might think
+- [01:31:42,280 - 01:31:43,280] that the entropy is proportional
+- [01:31:43,280 - 01:31:45,280] to Planck's constant,
+- [01:31:45,280 - 01:31:47,280] because it's Planck's constant
+- [01:31:47,280 - 01:31:48,280] which is the measure
+- [01:31:48,280 - 01:31:51,280] of the quantumness of a system.
+- [01:31:51,280 - 01:31:54,280] But it goes in the denominator.
+- [01:31:54,280 - 01:31:56,280] If Planck's constant were to get
+- [01:31:56,280 - 01:31:57,280] smaller and smaller,
+- [01:31:57,280 - 01:31:59,280] as it does in classical physics,
+- [01:31:59,280 - 01:32:00,280] in classical physics,
+- [01:32:00,280 - 01:32:02,280] Planck's constant is zero.
+- [01:32:02,280 - 01:32:05,280] It says the entropy is infinite.
+- [01:32:05,280 - 01:32:07,280] That's just another way of saying
+- [01:32:07,280 - 01:32:10,280] that in classical physics,
+- [01:32:10,280 - 01:32:11,280] you can hide...
+- [01:32:11,280 - 01:32:14,280] Since information is not quantized,
+- [01:32:14,280 - 01:32:16,280] it doesn't come in photons,
+- [01:32:16,280 - 01:32:19,280] you can put as much information
+- [01:32:19,280 - 01:32:23,280] into as small an energy as you like.
+- [01:32:23,280 - 01:32:26,280] Take an arbitrarily small amount of energy,
+- [01:32:26,280 - 01:32:28,280] you can put as much information
+- [01:32:28,280 - 01:32:30,280] onto that wave,
+- [01:32:30,280 - 01:32:31,280] an electromagnetic wave,
+- [01:32:31,280 - 01:32:32,280] as you like,
+- [01:32:32,280 - 01:32:34,280] but in quantum mechanics,
+- [01:32:34,280 - 01:32:37,280] information comes in discrete quanta.
+- [01:32:37,280 - 01:32:40,280] The information or the entropy
+- [01:32:40,280 - 01:32:42,280] of the black hole is finite
+- [01:32:42,280 - 01:32:44,280] because of quantum mechanics.
+- [01:32:44,280 - 01:32:45,280] It would be infinite
+- [01:32:45,280 - 01:32:47,280] in classical physics.
+- [01:32:47,280 - 01:32:50,280] You could simply throw arbitrary amounts
+- [01:32:50,280 - 01:32:52,280] of information onto that black hole
+- [01:32:52,280 - 01:32:54,280] without increasing its mass
+- [01:32:54,280 - 01:32:56,280] by almost anything.
+- [01:32:56,280 - 01:32:58,280] So this is an interesting fact
+- [01:32:58,280 - 01:33:00,280] that although all of this
+- [01:33:00,280 - 01:33:01,280] is quantum effect,
+- [01:33:01,280 - 01:33:03,280] it's quantum mechanics
+- [01:33:03,280 - 01:33:04,280] which prevents the entropy
+- [01:33:04,280 - 01:33:06,280] from being too big.
+- [01:33:07,280 - 01:33:10,280] Not the other way.
+- [01:33:10,280 - 01:33:12,280] It makes it finite.
+- [01:33:14,280 - 01:33:16,280] What else can we say about this?
+- [01:33:16,280 - 01:33:17,280] Well, we could say a lot more about it,
+- [01:33:17,280 - 01:33:19,280] and we will.
+- [01:33:19,280 - 01:33:21,280] I think I'm getting a little tired,
+- [01:33:21,280 - 01:33:23,280] so we'll quit for tonight.
+- [01:33:23,280 - 01:33:26,280] You could say H bar really
+- [01:33:26,280 - 01:33:28,280] is angular momentum versus
+- [01:33:28,280 - 01:33:30,280] linear momentum, so can you take...
+- [01:33:30,280 - 01:33:32,280] Well, H bar is simply a constant
+- [01:33:32,280 - 01:33:33,280] which has certain units.
+- [01:33:33,280 - 01:33:35,280] It has units of angular momentum,
+- [01:33:35,280 - 01:33:36,280] it's true, but it comes up
+- [01:33:36,280 - 01:33:37,280] in other quantities.
+- [01:33:37,280 - 01:33:39,280] It has units of action.
+- [01:33:39,280 - 01:33:42,280] H over 2 pi
+- [01:33:42,280 - 01:33:44,280] is the regular momentum
+- [01:33:44,280 - 01:33:46,280] of the gradient angle.
+- [01:33:46,280 - 01:33:48,280] No, it's not H over 2 pi
+- [01:33:48,280 - 01:33:49,280] that converts it into...
+- [01:33:49,280 - 01:33:51,280] No, no, no, no, no, no, no.
+- [01:33:51,280 - 01:33:52,280] Angular momentum and momentum
+- [01:33:52,280 - 01:33:55,280] differ by a power of a distance.
+- [01:33:55,280 - 01:33:57,280] Angular momentum is
+- [01:33:57,280 - 01:33:59,280] momentum times distance.
+- [01:34:03,280 - 01:34:05,280] Momentum...
+- [01:34:06,280 - 01:34:08,280] is H over lambda.
+- [01:34:08,280 - 01:34:10,280] Lambda is a distance.
+- [01:34:10,280 - 01:34:13,280] P times lambda...
+- [01:34:13,280 - 01:34:15,280] Momentum times distance
+- [01:34:15,280 - 01:34:17,280] has units of H bar.
+- [01:34:20,280 - 01:34:22,280] And P times lambda also has units
+- [01:34:22,280 - 01:34:25,280] of angular momentum, r cross P.
+- [01:34:25,280 - 01:34:28,280] Distance times momentum.
+- [01:34:28,280 - 01:34:30,280] Okay.
+- [01:34:30,280 - 01:34:32,280] See you next week.
+- [01:34:32,280 - 01:34:34,280] For more, please visit us
+- [01:34:34,280 - 01:34:35,280] at stanford.edu.
+- [01:34:36,280 - 01:34:37,280] Thank you.
