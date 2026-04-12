@@ -1,53 +1,55 @@
 # Visual Evidence
 
 ## Frame Inventory
-- `lecture_03_frame_01.png` (00:00:00): opening board state with opening remarks; likely preamble for angular momentum recap and lecture agenda.
-- `lecture_03_frame_02.png` (00:00:05): likely continues from frame 01 with the first angular-momentum setup in words or board annotations.
-- `lecture_03_frame_03.png` (00:00:14): likely shows the initial 2D/3D angular-momentum context and possibly \(L_z\), \(\phi\), and orbital-plane geometry sketches.
-- `lecture_03_frame_04.png` (00:00:23): likely depicts the angular-momentum/perpendicular-motion geometric picture (radial/azimuthal orbital discussion) before moving into operator algebra.
-- `lecture_03_frame_05.png` (00:35:35): likely shows the \(L\)-multiplet counting/effective-energy-level organization after the \((2L+1)\)-degeneracy discussion.
-- `lecture_03_frame_06.png` (00:35:44): likely continues the same board section with level-structure counting, possibly early harmonic/central-force sketch transition.
+- `lecture_03_frame_01.png`: board summary of an angular-momentum multiplet with magnetic quantum number range, counting states as \(2\ell+1\).
+- `lecture_03_frame_02.png`: board statement that states in a fixed \( \ell \)-multiplet share the same energy, tied to the symmetry relation \([H,L]=0\) (equivalently \([H,\mathbf L^2]=0\)).
+- `lecture_03_frame_03.png`: board sketch of the effective radial potential with a \(1/r^2\)-like centrifugal contribution and a special \( \ell=0 \) case.
+- `lecture_03_frame_04.png`: substitution step showing \(L^2\to \ell(\ell+1)\hbar^2\) in the radial Hamiltonian term.
+- `lecture_03_frame_05.png`: energy-level organization sketch by angular momentum sectors \( \ell=0,1,2,\dots \), showing distinct radial equations and degeneracies \(2\ell+1\).
+- `lecture_03_frame_06.png`: original Schrödinger operator form and momentum decomposition (\(p^2\) split into Cartesian/coordinate pieces before angular separation).
 
 ## Equation Extraction
-- [visible] \(\hat L_z = -i\hbar \frac{\partial}{\partial \theta}\) (spoken in 2D as \(-i\,\partial_\theta\), so \(\hbar\) likely omitted by convention).  
-- [visible] Angular eigenvalue equation: \(-i\hbar \frac{\partial \psi}{\partial \theta}= \ell\hbar\,\psi\), with \(\psi(\theta)\propto e^{i\ell\theta}\).  
-- [visible] Quantization condition: \(\ell\in\mathbb Z\) (for single-valuedness around \(2\pi\)).  
-- [visible] Spherical decomposition: \(\psi(\mathbf r)=R_{n\ell}(r)\,Y_{\ell m}(\theta,\phi)\) (standardized from transcript’s “\(r,\theta,\phi\)” discussion).  
-- [visible] Commutation algebra: \([L_x,L_y]=i\hbar L_z\), and cyclic permutations.  
-- [visible] Ladder operators: \(L_\pm=L_x\pm iL_y\).  
-- [visible] Ladder action: \(L_+|m\rangle \propto |m+1\rangle,\quad L_-|m\rangle \propto |m-1\rangle\).  
-- [partially visible] \(L^2=L_x^2+L_y^2+L_z^2\), \(L_\pm=L_x\pm iL_y\), so \(L^2=L_z^2+L_z+L_-L_+\) or equivalently \(L^2=L_z^2-L_z+L_+L_-\) depending on operator order convention.  
-- [standard completion] Finite multiplet spectrum: \(m=-\ell,\,-\ell+1,\dots,\ell\), total states \(2\ell+1\), with \(\ell=0,\tfrac12,1,\tfrac32,\dots\).  
-- [visible] \(L^2|\,\ell,m\rangle=\hbar^2\ell(\ell+1)|\,\ell,m\rangle\) (stated as \(L(\,L+1)\) in lecture notation).  
-- [visible] Hamiltonian split: \(H=\frac{\mathbf p^2}{2m}+V(r)\), \(\mathbf p^2=p_r^2+p_\theta^2\), \(L=rp_\theta\Rightarrow p_\theta^2=L^2/r^2\).  
-- [visible] Effective radial form: \(H=\frac{p_r^2}{2m}+\frac{L^2}{2mr^2}+V(r)\).  
-- [partially visible] Radial Schrödinger form (with \(\hbar\) restored): \(\left[-\frac{\hbar^2}{2m}\frac{d^2}{dr^2}+V(r)+\frac{\ell(\ell+1)\hbar^2}{2mr^2}\right]u_n(r)=E_nu_n(r)\).  
-- [visible] Central-force degeneracy pattern for a fixed \(\ell\): each \(\ell\)-manifold has \(2\ell+1\) magnetic states.  
-- [visible] Harmonic oscillator Hamiltonian: \(H=\frac{p^2}{2m}+\frac12 m\omega^2 x^2\).  
-- [visible] Canonical commutator: \([x,p]=i\hbar\).  
-- [visible] Shifted factorization with zero-point term: \(H=\hbar\omega\left(A^\dagger A+\frac12\right)\), \([A,A^\dagger]=1\), \(N=A^\dagger A\).  
-- [visible] \([N,A^\dagger]=A^\dagger\), \(N A^\dagger|n\rangle=(n+1)A^\dagger|n\rangle\), \(A|0\rangle=0\), \(E_n=\hbar\omega\left(n+\frac12\right)\).
+- \(\hat L_z = -i\hbar\,\partial_\phi\) [partially visible]
+- \(-i\hbar\,\frac{\partial}{\partial \theta}\psi = \ell\hbar\,\psi,\quad \psi \propto e^{i\ell\theta}\), with \(\ell\in\mathbb Z\) for single-valuedness [partially visible]
+- \(L_\pm = L_x \pm iL_y\) [partially visible]
+- \(L^2 = L_x^2+L_y^2+L_z^2\) [visible]
+- \(L_\pm|\ell,m\rangle \propto |\ell,m\pm1\rangle\), so \(m\) steps in integer increments [standard completion]
+- \(L_+|\ell,\ell\rangle=0,\; L_-|\ell,-\ell\rangle=0\) [standard completion]
+- For top (and bottom) states: \(L^2|\ell,\ell\rangle = \hbar^2\ell(\ell+1)|\ell,\ell\rangle\) [standard completion]
+- \(m\in\{-\ell,-\ell+1,\dots,\ell-1,\ell\}\), hence number of states \(2\ell+1\) [visible, from frame+transcript]
+- \([H,L_i]=0\Rightarrow [H,L^2]=0\) for central potentials; fixed \(\ell\) multiplet is degenerate in \(m\) [partially visible]
+- \(H=\frac{\mathbf p^2}{2m}+V(r)\) [visible]
+- \(p^2=p_x^2+p_y^2+p_z^2\) [visible]
+- \(\mathbf p^2=p_r^2+p_\theta^2+p_\phi^2\) (or reduced radial–angular split) [partially visible]
+- \(L=rp_\theta,\quad L^2=r^2p_\theta^2\) [partially visible]
+- Effective radial Hamiltonian: \(H_{\text{eff}}=\frac{p_r^2}{2m}+\frac{L^2}{2mr^2}+V(r)\) [partially visible]
+- \(V_{\text{eff}}(r)=V(r)+\frac{L^2}{2mr^2}\) [visible as schematic]
+- For eigenvalue \(\ell\): \(\left(-\frac{\hbar^2}{2m}\frac{d^2}{dr^2}+\frac{\hbar^2\ell(\ell+1)}{2mr^2}+V(r)\right)\psi_\ell(r)=E\psi_\ell(r)\) [standard completion]
+- Spherical harmonics: \(Y_\ell^m(\theta,\phi)\), with \(L^2Y_\ell^m=\hbar^2\ell(\ell+1)Y_\ell^m\), \(L_zY_\ell^m=\hbar mY_\ell^m\) [standard completion]
+- Harmonic oscillator Hamiltonian setup: \(H=\frac{p^2}{2m}+\frac12m\omega^2x^2\), \(a_\pm=\frac1{\sqrt{2\hbar m\omega}}( \mp ip + m\omega x)\), \(H=\hbar\omega(a^\dagger a+\tfrac12)\), \(a|0\rangle=0\), \(E_n=\hbar\omega(n+\tfrac12)\) [standard completion; largely outside preserved frame set]
 
 ## Diagram Extraction
-- [fully redraw] \(m\)-ladder diagram for a fixed \(\ell\): equally spaced vertical levels labeled \(-\ell,\dots,\ell\), with upward/downward ladder arrows for \(L_\pm\).  
-- [fully redraw] Orbital geometry sketch: angular momentum vector \(\mathbf L\), orbital plane perpendicular to \(\mathbf L\), radial vector \(\mathbf r\), and momentum decomposition into radial/angular parts.  
-- [fully redraw] Classical central-force reduction figure: orbit in a fixed plane; for general potentials, non-closed/precessing orbits.  
-- [fully redraw] Centrifugal barrier effective potential: \(L^2/(2mr^2)\) and combined \(V_{\rm eff}(r)=V(r)+L^2/(2mr^2)\), including \(r\to0\) and \(r\to\infty\) asymptotics and comparison of \(1/r\) vs \(1/r^2\).  
-- [preserve as image if exact parity is important] Spectral “energy vs state index” tables/ladder showing \(2\ell+1\) degeneracy per \(l\), and later hydrogen-like near-accidental degeneracy across different \(\ell\).  
+- Recreate the \(m\)-ladder diagram for fixed \(\ell\) with labels \(-\ell,\dots,\ell\) in TikZ [partially visible/standard completion].
+- Recreate the degeneracy ladder by \(\ell=0,1,2,\dots\), showing separate radial spectra per \(\ell\) and counts \(1,3,5,7,\dots\) [partially visible].
+- Recreate effective potential sketches: (i) attractive Coulomb-like \(V(r)\), (ii) centrifugal term \( \propto 1/r^2 \), (iii) sum \(V_{\rm eff}(r)\) with \( \ell=0 \) special case [visible].
+- Recreate the Schrödinger-operator decomposition chain:
+  \(H=\mathbf p^2/2m+V(r)\), then \(p^2\) split into radial/angular pieces, then fixed-\(\ell\) radial equation [visible].
+- Preserve the original 2D angular-momentum board identity \(e^{i\ell\theta}\), \(m\in\mathbb Z\), as a compact boxed note or in-line formula block rather than a scan [standard completion from transcript].
 
 ## Reconstruction Guidance
-- Preserve course narrative order: angular momentum algebra \(\to\) ladder logic \(\to\) \(2\ell+1\) multiplets \(\to\) \(\mathbf L^2\) eigenvalue \(\to\) central-force radial reduction \(\to\) effective potential intuition \(\to\) harmonic-oscillator ladder method.
-- Use a consistent operator convention in notes (pick \(\hbar=1\) once, then reinstate \(\hbar\) in a normalization remark) to avoid the deliberate classroom suppressions that appear in speech.
-- Render key operator identities in aligned environments and label “[transcript-verified]” vs “[standard completion]” where constants/signs were omitted in speech.
-- Recreate board diagrams in TikZ for:
-  - \(m\)-ladder chains,
-  - the centrifugal barrier potential,
-  - multiplet degeneracy tables at each \(l\),
-  - oscillator number-state ladder.
-- Add an attribution line in notes: “Based on Leonard Susskind’s Advanced Quantum Mechanics Lecture 3 (2013 Fall), curated by LazyingArt LLC.”
+- Use lecture order: start from 2D angular dependence \(e^{i\ell\theta}\), then 3D ladder/operator construction, then fixed-\(\ell\) multiplets, then central-force reduction to radial ODE, then level ordering/degeneracy, then HO introduction.
+- Keep notation strict and consistent: use \(\ell\) for orbital index, \(m\) for magnetic quantum number, \(\mathbf L^2\) for operator, and \(L\) (or \(\ell\)) for eigenvalue values where needed.
+- Convert each frame block into a compact theorem-style note block:
+  1) multiplet structure, 2) degeneracy argument, 3) centrifugal barrier interpretation, 4) radial equation with \( \ell(\ell+1)\), 5) energy-organizing diagram.
+- Add side comments where Leonard’s verbal reasoning clarifies sign/interpretation, especially:
+  - why \(m\)-spacing by 1,  
+  - why \(2\ell+1\) states are fixed for each \(\ell\),  
+  - why all \(m\) in a multiplet are same-energy when central symmetry holds.
+- For formula gaps, fill with standard completion clearly marked (no ambiguity): include a short “Derivation note” after each such equation indicating it is the standard missing intermediate step.
+- For HO section, reconstruct a separate boxed subsection because it naturally transitions to ladder operator methodology for later atomic applications.
 
 ## Uncertainties
-- Exact board content of all six PNGs is not directly accessible in this environment; frame descriptions are inferred from transcript timing and topic transitions.
-- Exact normalization constants and sign/order conventions for \(L_\pm\) and commutator-derived identities are slightly inconsistent in verbal transcription; several identities are therefore marked as standard completion.
-- Harmonic-oscillator \(a_\pm\) definitions in the transcript are written with temporary \(\hbar=1, m=1\) choices and later restored, so reconstructed formulas should explicitly state convention.
-- Exact node-count drawings (wavefunction shapes) and numeric scale/axis labels on frame sketches are uncertain without image inspection.
+- Exact typography in frame1/4/6 is partially uncertain from the provided assets: sign conventions and whether \(\hbar\) was explicitly written at each step need verification against source images.
+- The board sequence appears to use both \(L\) and \(\ell\) (sometimes \(\mathcal L\)-type script notation); exact convention for each segment is not fully disambiguated in transcript.
+- The full radial reduction is likely simplified in class (no full derivation shown): exact radial wavefunction variable (\(\psi(r)\) vs reduced \(u(r)\)) and whether a first-derivative radial term was omitted in intermediate form should be checked against transcript context or a higher-quality scan.
+- The exact shape and scale labels in the centrifugal-barrier sketch are visual and may need normalization choices when redrawing.
