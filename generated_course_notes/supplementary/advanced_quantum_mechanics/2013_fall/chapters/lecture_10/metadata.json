@@ -1,0 +1,34 @@
+{
+  "course_rel": "supplementary/advanced_quantum_mechanics/2013_fall",
+  "transcript_rel": "supplementary/advanced_quantum_mechanics/2013_fall/194 - Advanced Quantum Mechanics Lecture 10 [DQUJpT_iz8U].md",
+  "video_rel": "supplementary/advanced_quantum_mechanics/2013_fall/194 - Advanced Quantum Mechanics Lecture 10 [DQUJpT_iz8U].mp4",
+  "lecture_number": 10,
+  "lecture_slug": "lecture_10",
+  "lecture_title": "Advanced Quantum Mechanics Lecture 10",
+  "assets": [
+    {
+      "name": "lecture_10_frame_01.png",
+      "timestamp_seconds": 480.0,
+      "timestamp_hhmmss": "00:08:00.000",
+      "source_candidate": "lecture_10_candidate_07_000800000.png",
+      "recommended_use": "tikz_reference",
+      "rationale": "Best readable anticommutator board state; it captures the equal-point fermionic operator algebra central to the exclusion-principle discussion."
+    },
+    {
+      "name": "lecture_10_frame_02.png",
+      "timestamp_seconds": 1086.0,
+      "timestamp_hhmmss": "00:18:06.000",
+      "source_candidate": "lecture_10_candidate_10_001806000.png",
+      "recommended_use": "tikz_reference",
+      "rationale": "Clearest usable review frame for the 1D Dirac/right-moving component equations, including the time-space derivative relation and Hamiltonian form."
+    },
+    {
+      "name": "lecture_10_frame_03.png",
+      "timestamp_seconds": 1677.0,
+      "timestamp_hhmmss": "00:27:57.000",
+      "source_candidate": "lecture_10_candidate_12_002757000.png",
+      "recommended_use": "figure",
+      "rationale": "Stable and legible shot of the Pauli-matrix identifications for the alpha matrices, directly supporting the move to the multidimensional Dirac construction."
+    }
+  ]
+}
