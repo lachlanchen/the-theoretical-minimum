@@ -1,0 +1,2180 @@
+# Transcript
+
+Source: supplementary/quantum_entanglement/2006_fall_part_3/062 - Lecture 7 ｜ Quantum Entanglements, Part 3 (Stanford) [LLzRyBX1wF0].mp4
+
+- [00:00:00,000 - 00:00:10,520] This program is brought to you by Stanford University.
+- [00:00:10,520 - 00:00:13,240] Please visit us at stanford.edu.
+- [00:00:15,240 - 00:00:17,690] Last time we had started to
+- [00:00:17,690 - 00:00:20,140] discuss charged particles moving in electric and
+- [00:00:20,140 - 00:00:23,130] magnetic fields and how relativity impacts
+- [00:00:23,130 - 00:00:26,120] the laws of charged particles in
+- [00:00:26,120 - 00:00:30,420] electric and magnetic fields. How the
+- [00:00:30,420 - 00:00:34,720] Lorenz force law, which is basically the
+- [00:00:34,720 - 00:00:37,410] law of how electric and magnetic
+- [00:00:37,410 - 00:00:40,100] fields influence charged particles, how that law
+- [00:00:40,100 - 00:00:42,160] and if that law is really
+- [00:00:42,160 - 00:00:44,220] consistent with the principles of relativity.
+- [00:00:46,680 - 00:00:48,830] Are the rules the same in every
+- [00:00:48,830 - 00:00:50,980] reference frame? And what are those rules?
+- [00:00:50,980 - 00:00:55,880] How do we have to modify the non-relativistic laws of
+- [00:00:55,880 - 00:00:56,120] relativity?
+- [00:00:56,120 - 00:00:58,120] of motion in order to make
+- [00:00:58,120 - 00:01:00,120] them the same in every reference frame
+- [00:01:00,120 - 00:01:01,830] and we do have to modify
+- [00:01:01,830 - 00:01:03,540] them, there's no question of that
+- [00:01:03,540 - 00:01:05,360] F equals m a
+- [00:01:05,360 - 00:01:08,060] makes good sense
+- [00:01:08,060 - 00:01:10,600] in a world where acceleration
+- [00:01:10,600 - 00:01:12,640] is an invariant
+- [00:01:12,640 - 00:01:15,020] and in Galileo's world or Newton's world
+- [00:01:15,020 - 00:01:18,520] everybody would agree about the acceleration of an object
+- [00:01:18,520 - 00:01:21,620] everybody would agree about the force on an object
+- [00:01:21,620 - 00:01:23,900] everybody would agree about the mass
+- [00:01:23,900 - 00:01:27,130] and so F equals m a was an
+- [00:01:27,130 - 00:01:30,360] invariant equation that all observers would agree on
+- [00:01:30,360 - 00:01:33,270] but there are kinematic changes, what we mean by
+- [00:01:33,270 - 00:01:36,180] velocity, what we mean by acceleration and so forth
+- [00:01:36,180 - 00:01:39,640] and so it's not surprising
+- [00:01:39,640 - 00:01:42,320] that the Newtonian laws of
+- [00:01:42,320 - 00:01:45,000] motion will have to be modified
+- [00:01:45,000 - 00:01:47,760] now in particular
+- [00:01:47,760 - 00:01:50,640] we're going to have to understand the concept of force
+- [00:01:50,640 - 00:01:52,080] and where forces, well not so
+- [00:01:52,080 - 00:01:53,520] much where forces come from but
+- [00:01:53,520 - 00:01:53,900] uh...
+- [00:01:53,900 - 00:01:57,060] but the deeper concept of force
+- [00:01:57,060 - 00:01:59,760] there are many different kinds of forces in nature
+- [00:01:59,760 - 00:02:03,900] and they tend to have different extensions
+- [00:02:03,900 - 00:02:09,660] from non-relativistic to relativistic physics, for example
+- [00:02:09,660 - 00:02:13,240] the laws of motion of charged particles
+- [00:02:13,240 - 00:02:16,800] look off in, if you ignore completely
+- [00:02:16,800 - 00:02:20,460] magnetic effects, magnetic effects incidentally
+- [00:02:20,460 - 00:02:23,520] are themselves relativistic effects
+- [00:02:23,520 - 00:02:26,280] if the speed of light were infinite
+- [00:02:26,280 - 00:02:29,900] there would be no magnetic force on charged particles
+- [00:02:29,900 - 00:02:31,590] that's because the force on charged
+- [00:02:31,590 - 00:02:33,280] particles is proportional to the velocity
+- [00:02:33,280 - 00:02:35,360] and whenever you see a velocity
+- [00:02:35,360 - 00:02:36,840] you'll always know
+- [00:02:36,840 - 00:02:40,840] really it's a velocity divided by the speed of light
+- [00:02:40,840 - 00:02:43,710] uh... there would be no magnetic forces
+- [00:02:43,710 - 00:02:46,580] if the speed of light were infinite
+- [00:02:46,580 - 00:02:48,640] there would only be electric forces
+- [00:02:48,640 - 00:02:50,980] and the force laws
+- [00:02:50,980 - 00:02:52,680] F equals m a together with uh...
+- [00:02:52,680 - 00:02:56,380] the newton law of force, the newton law
+- [00:02:56,380 - 00:03:00,080] of force looks suspiciously like the coulomb law
+- [00:03:00,080 - 00:03:03,300] instead of products of charges we have products of masses
+- [00:03:03,300 - 00:03:05,440] they're both inverse square laws
+- [00:03:05,440 - 00:03:10,740] the laws of motion for gravitation and for uh... electricity
+- [00:03:10,740 - 00:03:15,000] electric uh... forces look very very similar
+- [00:03:15,000 - 00:03:16,340] you might expect
+- [00:03:16,340 - 00:03:18,540] that perhaps the generalization to the special
+- [00:03:18,540 - 00:03:20,740] theory of relativity would also look very
+- [00:03:20,740 - 00:03:21,780] similar
+- [00:03:21,780 - 00:03:22,480] and you'd be wrong
+- [00:03:22,680 - 00:03:25,020] they're very very different
+- [00:03:25,020 - 00:03:27,590] in fact as i'm sure
+- [00:03:27,590 - 00:03:30,160] you know the laws of gravitation
+- [00:03:30,160 - 00:03:33,900] don't naturally lend themselves to a extension
+- [00:03:33,900 - 00:03:36,140] in the special theory of relativity
+- [00:03:36,140 - 00:03:38,090] it was necessary to go
+- [00:03:38,090 - 00:03:40,040] on to a more thorough uh...
+- [00:03:40,040 - 00:03:42,580] modification of space time for
+- [00:03:42,580 - 00:03:43,820] gravitation
+- [00:03:43,820 - 00:03:46,320] but not so for electrical forces
+- [00:03:46,320 - 00:03:50,340] so today we're going to go through the basic
+- [00:03:50,340 - 00:03:51,780] uh... laws of electrical forces
+- [00:03:51,780 - 00:03:54,120] and the equations of motion
+- [00:03:54,120 - 00:03:56,020] let me just write down what they are
+- [00:03:56,020 - 00:03:59,120] what uh... as uh... lorenz would have written them down
+- [00:03:59,120 - 00:04:01,020] just before
+- [00:04:01,020 - 00:04:02,780] a few years before the discovery
+- [00:04:02,780 - 00:04:04,540] of the special theory of relativity
+- [00:04:04,540 - 00:04:07,020] he of course would have used newton's forces
+- [00:04:07,020 - 00:04:09,020] and he would have said mass times acceleration
+- [00:04:09,020 - 00:04:10,770] this is when he wasn't thinking
+- [00:04:10,770 - 00:04:12,520] so hard about the speed of light
+- [00:04:12,520 - 00:04:14,620] when he was trying to
+- [00:04:14,620 - 00:04:16,720] be fairly conventional about electrical forces
+- [00:04:16,720 - 00:04:17,920] and he was trying to be
+- [00:04:17,920 - 00:04:19,120] fairly conventional about the speed of light
+- [00:04:19,120 - 00:04:20,140] and he was trying to
+- [00:04:20,140 - 00:04:21,160] be fairly conventional about electrical forces
+- [00:04:21,160 - 00:04:23,300] without about the electrodynamics
+- [00:04:23,300 - 00:04:26,800] what he said of course
+- [00:04:26,800 - 00:04:30,300] was force equals mass times acceleration
+- [00:04:31,240 - 00:04:34,680] by acceleration he meant exactly what
+- [00:04:34,680 - 00:04:36,660] newton meant by acceleration
+- [00:04:36,660 - 00:04:38,620] the time derivative of velocity by
+- [00:04:38,620 - 00:04:40,580] the velocity he meant the time derivative
+- [00:04:40,580 - 00:04:43,780] of the position
+- [00:04:43,780 - 00:04:47,030] let's uh... let's work on the left-hand
+- [00:04:47,030 - 00:04:50,280] side of this equation just for a moment
+- [00:04:50,280 - 00:04:51,000] mass uh... mass
+- [00:04:51,000 - 00:04:54,500] acceleration is the time derivative of the
+- [00:04:54,500 - 00:04:58,000] velocity. So let's write time derivative of
+- [00:04:58,000 - 00:05:01,500] velocity. Both are vectors, ordinary three-dimensional
+- [00:05:01,500 - 00:05:05,000] vectors. I won't bother indicating that. They're
+- [00:05:05,000 - 00:05:08,000] both three-dimensional vectors. And the mass of
+- [00:05:08,000 - 00:05:11,000] every object is time independent. The mass
+- [00:05:11,000 - 00:05:14,000] is simply a parameter that's identified with an
+- [00:05:14,000 - 00:05:17,000] object once and for all. It doesn't change
+- [00:05:17,000 - 00:05:20,500] with time. In relativity theory, the mass
+- [00:05:20,500 - 00:05:24,000] doesn't change with time because by definition
+- [00:05:24,000 - 00:05:27,500] it's the mass when the object is at
+- [00:05:27,500 - 00:05:31,000] rest. In Newtonian physics, it's a deeper principle
+- [00:05:31,000 - 00:05:33,000] in Newtonian physics that mass doesn't change.
+- [00:05:33,000 - 00:05:35,000] But in any case, mass doesn't change with
+- [00:05:35,000 - 00:05:38,000] time. And so you can bring it inside the
+- [00:05:38,000 - 00:05:41,000] derivative, and you can write the right-hand side here
+- [00:05:41,000 - 00:05:46,000] as the time derivative of the mass times the velocity.
+- [00:05:47,000 - 00:05:51,000] And the mass times velocity is known as momentum.
+- [00:05:51,000 - 00:05:55,000] Always carries the symbol p. It's also a vector.
+- [00:05:55,000 - 00:05:58,000] And so we always write the right-hand side
+- [00:05:58,000 - 00:06:01,000] here as the time rate of change. I'll put
+- [00:06:01,000 - 00:06:07,000] a little vector symbol on it now, dp by
+- [00:06:07,000 - 00:06:13,000] dt. And that's equal to force. That's a fairly
+- [00:06:13,000 - 00:06:16,000] general definition of force.
+- [00:06:16,000 - 00:06:19,000] It actually transcends a little bit simple
+- [00:06:19,000 - 00:06:22,000] Newtonian physics. As we'll see, there's a
+- [00:06:22,000 - 00:06:25,500] version of it in general relativity. Sorry,
+- [00:06:25,500 - 00:06:29,000] in special relativity, even in general relativity,
+- [00:06:29,000 - 00:06:33,000] that the time rate of change is the
+- [00:06:33,000 - 00:06:37,000] force. But there's a slight difference in the definition
+- [00:06:37,000 - 00:06:40,000] or the connection between momentum and velocity
+- [00:06:40,000 - 00:06:43,000] in the special theory of relativity and in
+- [00:06:43,000 - 00:06:44,000] Newtonian physics.
+- [00:06:45,000 - 00:06:49,000] I'll just remind you, in both cases, the momentum is
+- [00:06:49,000 - 00:06:53,000] mass times velocity, but in the special theory of relativity,
+- [00:06:53,000 - 00:06:56,500] it's not ordinary velocity, but the time rate of
+- [00:06:56,500 - 00:07:00,000] change of position with respect to proper time, proper velocity.
+- [00:07:00,000 - 00:07:03,000] We'll come back to that. We'll come back to that. That's
+- [00:07:03,000 - 00:07:06,000] the left-hand side. Actually, it's the right-hand side of this equation.
+- [00:07:06,000 - 00:07:09,500] But now I'm going to put another right-hand side to the
+- [00:07:09,500 - 00:07:13,000] right of this. I'm going to write down the Lorentz force law.
+- [00:07:14,000 - 00:07:17,000] So we're going to work. Here's your homework. Your homework is
+- [00:07:17,000 - 00:07:20,000] to put all the speeds of light back into the equations
+- [00:07:20,000 - 00:07:25,000] by doing dimensional analysis. We are
+- [00:07:25,000 - 00:07:30,000] going to set c equal to one.
+- [00:07:30,000 - 00:07:33,500] The non-relativistic limit, in this case, will not be the
+- [00:07:33,500 - 00:07:37,000] limit in which c goes to infinity. c is just one.
+- [00:07:37,000 - 00:07:39,000] It's the limit in which
+- [00:07:39,000 - 00:07:41,000] the velocity gets very, very small.
+- [00:07:42,000 - 00:07:44,500] So you want to think about what
+- [00:07:44,500 - 00:07:47,000] non-relativistic physics means. It means very small velocity.
+- [00:07:47,000 - 00:07:52,000] All right. What's the right-hand side here? Well, according to
+- [00:07:52,000 - 00:07:57,000] Lorentz, the right-hand side is proportional to the electric charge.
+- [00:07:57,000 - 00:08:01,000] Now, we're talking about electric and magnetic forces.
+- [00:08:01,000 - 00:08:03,500] Proportional to the electric charge, which
+- [00:08:03,500 - 00:08:06,000] I'll call q of an object.
+- [00:08:06,000 - 00:08:10,000] And then there's one term, which is electric field.
+- [00:08:11,000 - 00:08:14,500] The electric field is a vector. In general,
+- [00:08:14,500 - 00:08:18,000] it depends on position as well as time.
+- [00:08:18,000 - 00:08:21,500] It has a set of components. The
+- [00:08:21,500 - 00:08:25,000] components are three-dimensional components, x, y, and z.
+- [00:08:25,000 - 00:08:28,500] And then Lorentz discovered another term.
+- [00:08:28,500 - 00:08:32,000] It was actually implicit in Maxwell's work.
+- [00:08:32,000 - 00:08:34,500] It was implicit in Faraday's work.
+- [00:08:34,500 - 00:08:37,000] But Lorentz really spelled it out.
+- [00:08:37,000 - 00:08:39,000] And it's the velocity. . .
+- [00:08:40,000 - 00:08:44,500] The velocity, the ordinary velocity, cross-product, and I'm going
+- [00:08:44,500 - 00:08:49,000] to explain that in a minute, cross-product with the momentum.
+- [00:08:51,000 - 00:08:56,000] Oh, sorry. Not momentum. B. Thank
+- [00:08:56,000 - 00:09:01,000] you. B. Cross-product with the magnetic field.
+- [00:09:01,000 - 00:09:04,500] The magnetic field also being an object
+- [00:09:04,500 - 00:09:08,000] with components. It's also a vector in space.
+- [00:09:08,000 - 00:09:10,500] Very much like the electric field, but
+- [00:09:10,500 - 00:09:13,000] it influences objects in a different way.
+- [00:09:13,000 - 00:09:19,000] Of also position and time.
+- [00:09:19,000 - 00:09:22,830] fields are time dependent and position
+- [00:09:22,830 - 00:09:26,660] dependent. Now the magnetic field I've
+- [00:09:26,660 - 00:09:28,240] written, I've told you that it's a vector.
+- [00:09:28,240 - 00:09:29,820] First of all I haven't told you what
+- [00:09:29,820 - 00:09:31,340] cross product means. So let's, and most
+- [00:09:31,340 - 00:09:32,860] of course most of you know what cross
+- [00:09:32,860 - 00:09:35,260] product is, but I want to think about
+- [00:09:35,260 - 00:09:37,660] it in a slightly different way than the
+- [00:09:37,660 - 00:09:40,380] usual concept of cross product. The
+- [00:09:40,380 - 00:09:43,100] cross product of two vectors you normally
+- [00:09:43,100 - 00:09:46,000] think of as another vector, and that
+- [00:09:46,000 - 00:09:48,900] other vector is perpendicular to both, to
+- [00:09:48,900 - 00:09:50,970] the vectors which are being multiplied
+- [00:09:50,970 - 00:09:53,040] and proportional to the product of their
+- [00:09:53,040 - 00:09:55,679] magnitudes times the sine of the angle
+- [00:09:55,679 - 00:09:58,319] between them. That's not the way I'm
+- [00:09:58,319 - 00:09:59,959] going to think about the cross product.
+- [00:09:59,959 - 00:10:01,600] I'm going to use a definition of the
+- [00:10:01,600 - 00:10:04,490] cross product in which the cross product
+- [00:10:04,490 - 00:10:07,380] is really a tensor. It's an anti-symmetric
+- [00:10:07,380 - 00:10:10,470] tensor that you make up out of two
+- [00:10:10,470 - 00:10:13,560] vectors. Now it's very easy to make up a
+- [00:10:13,560 - 00:10:15,930] tensor out of two vectors if I have
+- [00:10:15,930 - 00:10:18,300] two vectors a and b, and right now
+- [00:10:18,300 - 00:10:20,340] b is not the magnetic field. I just need
+- [00:10:20,340 - 00:10:22,380] two letters, so I'm going to call them a
+- [00:10:22,380 - 00:10:27,390] and b. If we have two vectors,
+- [00:10:27,390 - 00:10:32,400] I guess I should indicate that they are
+- [00:10:32,400 - 00:10:33,989] three-dimensional vectors by a
+- [00:10:33,989 - 00:10:35,579] little arrow over them, ordinary
+- [00:10:35,579 - 00:10:38,039] three-dimensional vectors. There's a notion
+- [00:10:38,039 - 00:10:40,500] of cross product which itself is
+- [00:10:40,500 - 00:10:44,310] another vector which I can call c.
+- [00:10:44,310 - 00:10:48,120] There's another concept, as I said, of
+- [00:10:48,300 - 00:10:50,910] cross product which makes it
+- [00:10:50,910 - 00:10:53,520] an anti-symmetric tensor. Here's the idea.
+- [00:10:53,520 - 00:10:55,380] You take any two vectors and you can
+- [00:10:55,380 - 00:10:57,240] make a tensor out of it. A tensor is
+- [00:10:57,240 - 00:10:59,849] simply an object with two indices
+- [00:10:59,849 - 00:11:02,459] instead of one. Now I'm thinking now
+- [00:11:02,459 - 00:11:05,669] about three-dimensional space. So a vector
+- [00:11:05,669 - 00:11:08,880] has three components. A tensor in
+- [00:11:08,880 - 00:11:11,669] this case has nine components, three times
+- [00:11:11,669 - 00:11:14,459] three. It's a matrix built up out
+- [00:11:14,459 - 00:11:16,359] of the components of the vector.
+- [00:11:16,359 - 00:11:18,260] So if the vector a has
+- [00:11:18,300 - 00:11:21,150] three components, incidentally I will freely
+- [00:11:21,150 - 00:11:24,000] interchange between 1, 2, and 3
+- [00:11:24,000 - 00:11:28,310] and x, y, and z. So x is 1, y is
+- [00:11:28,310 - 00:11:32,620] 2, z is 3. A has three components, b has three
+- [00:11:32,620 - 00:11:35,710] components. The cross product also has three
+- [00:11:35,710 - 00:11:38,800] components, but as we'll see in a
+- [00:11:38,800 - 00:11:41,090] moment, that leaves a little bit of
+- [00:11:41,090 - 00:11:43,380] an ambiguity. There are two objects in
+- [00:11:43,380 - 00:11:45,590] three dimensions which have three
+- [00:11:45,590 - 00:11:47,800] components. One of them, or three
+- [00:11:47,800 - 00:11:48,040] independent components, is a vector. And the other
+- [00:11:48,040 - 00:11:48,280] is a vector. And the other is a
+- [00:11:48,300 - 00:11:49,949] independent component. One of them is
+- [00:11:49,949 - 00:11:51,599] a vector and the other is an
+- [00:11:51,599 - 00:11:54,509] anti-symmetric tensor. So given two vectors,
+- [00:11:54,509 - 00:11:57,420] we can always make a tensor. For
+- [00:11:57,420 - 00:12:03,559] example, we can make the tensor a, m. m and
+- [00:12:03,559 - 00:12:09,699] n, remember mu and nu, go from 0 to 3,
+- [00:12:09,699 - 00:12:13,439] time and space. That's the notation I
+- [00:12:13,439 - 00:12:17,180] will use, I've been using. Things from the
+- [00:12:17,180 - 00:12:18,260] rear end of the Greek
+- [00:12:18,300 - 00:12:22,199] alphabet represents space-time indices. M's and
+- [00:12:22,199 - 00:12:26,099] N's, Latin letters, just go from
+- [00:12:26,099 - 00:12:30,539] 1 to 3. Ordinary space, ordinary spatial
+- [00:12:30,539 - 00:12:34,979] indices. Alright, so if you like, a 4
+- [00:12:34,979 - 00:12:39,689] vector has an index M, 1, 2, and 3,
+- [00:12:39,689 - 00:12:44,400] and also a fourth index 0. Okay, so AM, we're
+- [00:12:44,400 - 00:12:46,290] working now strictly in three
+- [00:12:46,290 - 00:12:48,180] dimensions, trying to get three-dimensional space
+- [00:12:48,180 - 00:12:52,530] and ordinary vectors right. AM, we can take
+- [00:12:52,530 - 00:12:56,880] AM times BN. That is a matrix whose
+- [00:12:56,880 - 00:12:59,609] components, if we wanted to work out
+- [00:12:59,609 - 00:13:02,339] the components, the 1, 1 component would be
+- [00:13:02,339 - 00:13:07,619] A1B1. The 1, 2 component over here
+- [00:13:07,619 - 00:13:12,900] would be A1B2, and then A1B3. I won't
+- [00:13:12,900 - 00:13:16,979] write them all out, but here would be A2B1,
+- [00:13:16,979 - 00:13:18,079] A2B2,
+- [00:13:18,079 - 00:13:18,160] A2B1,
+- [00:13:18,160 - 00:13:18,180] A2B1,
+- [00:13:18,180 - 00:13:18,560] A2B2,
+- [00:13:18,560 - 00:13:19,380] B2,
+- [00:13:19,380 - 00:13:23,760] and so forth. Nine components altogether,
+- [00:13:23,760 - 00:13:28,140] nine independent components. Now, as it stands,
+- [00:13:28,620 - 00:13:32,120] this is not an anti-symmetric tensor. It's
+- [00:13:32,120 - 00:13:35,620] got no particular symmetry. There's no particular
+- [00:13:35,620 - 00:13:39,529] symmetry. A2B1 is not, there's no particular reason
+- [00:13:39,529 - 00:13:43,439] why A2B1 should be the same as A1B2.
+- [00:13:45,160 - 00:13:48,079] They're two quite different things. But,
+- [00:13:48,080 - 00:13:50,120] if we subtract
+- [00:13:50,120 - 00:13:54,600] ANBM,
+- [00:13:54,600 - 00:13:57,530] in other words, we consider the
+- [00:13:57,530 - 00:14:00,460] tensor made by interchanging A and B.
+- [00:14:00,460 - 00:14:04,460] AM, BN, and ANBM.
+- [00:14:04,460 - 00:14:07,150] If we subtract them, then that
+- [00:14:07,150 - 00:14:09,840] gets rid of all the diagonal elements,
+- [00:14:09,840 - 00:14:13,040] A1B1 minus A1B1,
+- [00:14:13,040 - 00:14:18,060] and it's anti-symmetric because,
+- [00:14:18,060 - 00:14:24,579] it'll contain things like A1B2 minus A2B1.
+- [00:14:24,579 - 00:14:26,069] In the 1, 2 element,
+- [00:14:26,069 - 00:14:27,560] you can see that it's anti-symmetric.
+- [00:14:27,560 - 00:14:29,550] If you interchange N and M,
+- [00:14:29,550 - 00:14:31,540] if you interchange rows and columns,
+- [00:14:31,540 - 00:14:35,500] the two terms will interchange, and so,
+- [00:14:35,500 - 00:14:38,160] what we'll get
+- [00:14:38,160 - 00:14:40,280] is an anti-symmetric tensor.
+- [00:14:40,280 - 00:14:44,719] The anti-symmetric tensor has zeros off the diagonal,
+- [00:14:44,719 - 00:14:46,099] and then,
+- [00:14:46,099 - 00:14:48,020] we'll get,
+- [00:14:48,020 - 00:14:49,020] a 1B2.
+- [00:14:49,020 - 00:14:53,640] It has, for example, in place over here, not A1B2,
+- [00:14:53,640 - 00:14:56,360] but A1B2 minus A2B1.
+- [00:14:56,360 - 00:14:59,360] Let's make it a little bigger.
+- [00:14:59,360 - 00:15:04,900] A1B2 minus A2B1.
+- [00:15:04,900 - 00:15:10,040] And then, A1B3 minus A3B1.
+- [00:15:10,040 - 00:15:11,040] Zero.
+- [00:15:11,040 - 00:15:16,500] We'll come back to that over there.
+- [00:15:16,500 - 00:15:17,500] Then,
+- [00:15:17,500 - 00:15:18,000] down,
+- [00:15:18,000 - 00:15:21,500] down here, let's see, that's
+- [00:15:21,500 - 00:15:25,000] A1, what do we have here?
+- [00:15:25,000 - 00:15:30,000] A2B3 minus A3B2.
+- [00:15:30,000 - 00:15:36,440] And then, zero.
+- [00:15:36,440 - 00:15:40,100] The diagonal elements are zero.
+- [00:15:40,100 - 00:15:42,440] There's off-diagonal elements here.
+- [00:15:42,440 - 00:15:44,900] And what about the elements below the diagonal?
+- [00:15:44,900 - 00:15:47,000] The elements below the diagonal,
+- [00:15:47,000 - 00:15:48,000] are, the same.
+- [00:15:48,000 - 00:15:50,760] Same as the elements above the diagonal,
+- [00:15:50,760 - 00:15:52,320] except opposite in sign.
+- [00:15:52,320 - 00:15:53,640] So over here,
+- [00:15:53,640 - 00:15:58,540] you'll have A2B1 minus A1B2,
+- [00:15:58,540 - 00:16:03,160] which is simply the negative of its reflection
+- [00:16:03,160 - 00:16:06,200] about the diagonal.
+- [00:16:06,200 - 00:16:08,800] That means there are three,
+- [00:16:08,800 - 00:16:11,400] and only three, independent components
+- [00:16:11,400 - 00:16:14,580] of this anti-symmetric tensor.
+- [00:16:14,580 - 00:16:17,000] Well, you can always put three components,
+- [00:16:17,000 - 00:16:19,880] and you can line them up, and
+- [00:16:19,880 - 00:16:22,760] call them the components of a vector.
+- [00:16:22,760 - 00:16:26,760] That doesn't mean that they transform properly as a vector.
+- [00:16:26,760 - 00:16:31,180] But, these three objects do transform properly as a vector,
+- [00:16:31,180 - 00:16:34,000] if we make the right identifications.
+- [00:16:34,000 - 00:16:36,000] In particular,
+- [00:16:36,000 - 00:16:41,000] those who know what a cross product is,
+- [00:16:41,000 - 00:16:43,380] will already see the pattern that these are the
+- [00:16:43,380 - 00:16:45,760] components of the cross product of a cross product.
+- [00:16:45,760 - 00:16:46,260] So, we have a cross product, and we have
+- [00:16:46,260 - 00:16:46,760] a cross product, and we have a cross product.
+- [00:16:46,760 - 00:16:47,820] So, we have a cross product,
+- [00:16:47,820 - 00:16:48,880] and we have a cross product.
+- [00:16:48,880 - 00:16:51,880] But in particular, I'll tell you which components they are.
+- [00:16:51,880 - 00:16:54,720] They are the components
+- [00:16:54,720 - 00:16:57,960] A1B2, that's C3.
+- [00:16:57,960 - 00:16:59,640] Let's write it over here.
+- [00:16:59,640 - 00:17:01,560] No, let's do it over here.
+- [00:17:01,560 - 00:17:03,640] C3.
+- [00:17:03,640 - 00:17:05,760] This one is C3.
+- [00:17:05,760 - 00:17:09,700] One, two, three.
+- [00:17:09,700 - 00:17:10,740] What about this one?
+- [00:17:10,740 - 00:17:14,319] What would you put here?
+- [00:17:14,319 - 00:17:15,760] Temporarily, let's put C2 there.
+- [00:17:15,760 - 00:17:16,760] Okay.
+- [00:17:16,760 - 00:17:21,760] And this one, of course, would be C1.
+- [00:17:21,760 - 00:17:24,260] In other words, these three objects
+- [00:17:24,260 - 00:17:26,760] can be placed in one-to-one correspondence
+- [00:17:26,760 - 00:17:31,760] with the components of this anti-symmetric tensor here.
+- [00:17:31,760 - 00:17:34,760] The anti-symmetric tensor is one form of the cross product,
+- [00:17:34,760 - 00:17:39,760] which in fact generalizes to other dimensions.
+- [00:17:39,760 - 00:17:42,760] In other dimensions, an anti-symmetric tensor
+- [00:17:42,760 - 00:17:44,260] will not have the same
+- [00:17:44,260 - 00:17:45,760] number of components as a vector.
+- [00:17:45,760 - 00:17:48,760] So this is special to three dimensions.
+- [00:17:48,760 - 00:17:51,760] In higher dimensions, there's no such thing
+- [00:17:51,760 - 00:17:55,760] as the cross product of two vectors giving another vector.
+- [00:17:55,760 - 00:17:58,260] But there always is the
+- [00:17:58,260 - 00:18:00,760] cross product giving an anti-symmetric tensor.
+- [00:18:00,760 - 00:18:02,760] So the generalization of the
+- [00:18:02,760 - 00:18:04,760] cross product to other dimensions
+- [00:18:04,760 - 00:18:06,760] is the anti-symmetric tensor.
+- [00:18:06,760 - 00:18:08,760] For three dimensions, it's fine to
+- [00:18:08,760 - 00:18:10,760] think of it as a vector.
+- [00:18:10,760 - 00:18:13,760] Now, it's actually C2 here.
+- [00:18:13,760 - 00:18:14,760] Let's...
+- [00:18:14,760 - 00:18:17,760] Let's write it out here.
+- [00:18:17,760 - 00:18:24,760] C3 is equal to A1B2 minus A2B1.
+- [00:18:24,760 - 00:18:27,760] Now, if we start cycling this equation,
+- [00:18:27,760 - 00:18:30,760] the trick is always to cycle through it,
+- [00:18:30,760 - 00:18:32,260] one to two, two to
+- [00:18:32,260 - 00:18:33,760] three, and three back to one.
+- [00:18:33,760 - 00:18:36,760] C3, the next one, what comes after three?
+- [00:18:36,760 - 00:18:38,760] One.
+- [00:18:38,760 - 00:18:43,760] C1 equals A2B3.
+- [00:18:44,760 - 00:18:47,760] Minus A3B2.
+- [00:18:47,760 - 00:18:50,760] And one, two, one, sorry, three,
+- [00:18:50,760 - 00:18:53,760] the next one is two, of course.
+- [00:18:53,760 - 00:18:55,760] There's only one left.
+- [00:18:55,760 - 00:18:57,260] All right, and this is
+- [00:18:57,260 - 00:18:58,760] one, two, this will be A3,
+- [00:18:58,760 - 00:19:06,760] two, three, B1, minus two, three, A1B3, I think, right?
+- [00:19:06,760 - 00:19:09,760] Okay, now let's check.
+- [00:19:09,760 - 00:19:10,760] All right, what do we have?
+- [00:19:10,760 - 00:19:12,760] We have over here A1B2 minus A2B2.
+- [00:19:12,760 - 00:19:15,760] That's C3, I got that one right.
+- [00:19:15,760 - 00:19:16,760] Okay.
+- [00:19:16,760 - 00:19:21,760] C1 down here, that's A2B3 minus A3B2.
+- [00:19:21,760 - 00:19:28,760] But C2, my temporary, my temporary identification,
+- [00:19:28,760 - 00:19:32,760] C2 as A1B3, that's wrong.
+- [00:19:32,760 - 00:19:35,760] It's minus C2.
+- [00:19:35,760 - 00:19:38,260] Okay, you can see there that
+- [00:19:38,260 - 00:19:40,760] C2 is not A1B3 minus A3B1.
+- [00:19:40,760 - 00:19:41,760] Okay?
+- [00:19:41,760 - 00:19:42,760] It's minus C2.
+- [00:19:42,760 - 00:19:44,760] It's minus C2.
+- [00:19:44,760 - 00:19:48,760] So, in fact, what goes here is minus C2.
+- [00:19:48,760 - 00:19:51,260] So the components of a vector
+- [00:19:51,260 - 00:19:53,760] can always be displayed as an
+- [00:19:53,760 - 00:19:56,260] anti-symmetric tensor, or the
+- [00:19:56,260 - 00:19:58,760] anti-symmetric tensor can always be
+- [00:19:58,760 - 00:20:01,760] displayed as a vector.
+- [00:20:01,760 - 00:20:02,760] Now, what's going on here?
+- [00:20:02,760 - 00:20:04,760] What's the geometry of this?
+- [00:20:04,760 - 00:20:07,760] An anti-symmetric tensor has two indices.
+- [00:20:07,760 - 00:20:11,760] Every component of it is associated with two axes.
+- [00:20:11,760 - 00:20:14,760] An x-axis and a y-axis.
+- [00:20:14,760 - 00:20:15,760] Okay.
+- [00:20:15,760 - 00:20:19,260] Well, the xy-axis, the xy component
+- [00:20:19,260 - 00:20:22,760] of the anti-symmetric tensor is simply
+- [00:20:22,760 - 00:20:26,760] identified with the z component of the vector.
+- [00:20:26,760 - 00:20:29,760] It's clear that it's ambiguous.
+- [00:20:29,760 - 00:20:32,760] Do you describe a vector by
+- [00:20:32,760 - 00:20:35,760] describing the plane that it's perpendicular to,
+- [00:20:35,760 - 00:20:38,260] in which case you're describing it
+- [00:20:38,260 - 00:20:40,760] by a pair of vectors, namely the,
+- [00:20:40,760 - 00:20:42,760] the pair of vectors that defines a
+- [00:20:42,760 - 00:20:44,760] plane, or do you describe it by the
+- [00:20:44,760 - 00:20:47,760] arrow that's sticking out of the plane?
+- [00:20:47,760 - 00:20:50,260] The two ways of describing the vector,
+- [00:20:50,260 - 00:20:52,760] one, by just an arrow sticking out,
+- [00:20:52,760 - 00:20:55,760] is describing it by its vector components.
+- [00:20:55,760 - 00:20:57,760] The other way of describing it is
+- [00:20:57,760 - 00:20:59,760] in terms of the planes that are
+- [00:20:59,760 - 00:21:01,760] perpendicular to those vector components,
+- [00:21:01,760 - 00:21:03,760] and that's the description in
+- [00:21:03,760 - 00:21:05,760] terms of the anti-symmetric tensor.
+- [00:21:05,760 - 00:21:07,760] Now, the difficult thing, it's not
+- [00:21:07,760 - 00:21:09,760] very difficult, it's rather easy, but
+- [00:21:09,760 - 00:21:10,760] it's not very difficult.
+- [00:21:10,760 - 00:21:12,260] The first thing that I want to do
+- [00:21:12,260 - 00:21:13,760] is to prove that the components of the
+- [00:21:13,760 - 00:21:16,760] anti-symmetric tensor transform under rotations
+- [00:21:16,760 - 00:21:19,760] according to the same rule
+- [00:21:19,760 - 00:21:23,760] as the transformation properties of a vector, and they do.
+- [00:21:23,760 - 00:21:24,760] They do.
+- [00:21:24,760 - 00:21:26,760] So these are two different aspects,
+- [00:21:26,760 - 00:21:28,760] or two different ways of thinking about
+- [00:21:28,760 - 00:21:31,760] the three components of a
+- [00:21:31,760 - 00:21:34,760] vector in three, in three dimensions.
+- [00:21:34,760 - 00:21:37,260] The cross product, and for many
+- [00:21:37,260 - 00:21:39,760] reasons, or for many purposes, it's smarter
+- [00:21:39,760 - 00:21:43,260] to think about the cross product as
+- [00:21:43,260 - 00:21:46,760] a tensor rather than a vector, but then
+- [00:21:46,760 - 00:21:48,760] again, in visualizing it and trying to get
+- [00:21:48,760 - 00:21:50,760] a picture of it in your head, you
+- [00:21:50,760 - 00:21:53,760] might want to flip back and
+- [00:21:53,760 - 00:21:56,760] forth between vector and anti-symmetric tensor.
+- [00:21:56,760 - 00:22:01,760] Okay, that's the idea of a cross product.
+- [00:22:01,760 - 00:22:07,760] Now, let me do one more little exercise for you.
+- [00:22:07,760 - 00:22:08,760] Yeah, no, not an exercise yet.
+- [00:22:08,760 - 00:22:10,760] Let's come to the magnetic field.
+- [00:22:10,760 - 00:22:13,760] Now, the magnetic field is a vector,
+- [00:22:13,760 - 00:22:16,760] but it is also an anti-symmetric tensor.
+- [00:22:24,760 - 00:22:30,760] 0, b12, b13, b21, which is minus
+- [00:22:30,760 - 00:22:36,760] b12, of course, 0, I won't bother writing
+- [00:22:36,760 - 00:22:37,760] the things below the diagonal here.
+- [00:22:37,760 - 00:22:40,760] It just gets us confused.
+- [00:22:40,760 - 00:22:47,760] 0, and then b23 over here.
+- [00:22:47,760 - 00:22:52,760] The other ones are simply minus these.
+- [00:22:52,760 - 00:22:57,260] For reasons that are historical,
+- [00:22:57,260 - 00:23:01,760] the components of the anti-symmetric tensor
+- [00:23:01,760 - 00:23:03,760] are related to the vector
+- [00:23:03,760 - 00:23:05,760] components by an extra minus sign.
+- [00:23:05,760 - 00:23:09,260] This is not a cross product,
+- [00:23:09,260 - 00:23:12,760] but it is just a definition.
+- [00:23:12,760 - 00:23:21,760] This is equal to 0, 0, 0.
+- [00:23:21,760 - 00:23:27,760] Instead of b12 being b3, it's minus b3.
+- [00:23:27,760 - 00:23:33,760] Then plus b2 over here and minus b1 over here.
+- [00:23:33,760 - 00:23:40,760] It's just a semi-historical glitch.
+- [00:23:40,760 - 00:23:44,760] There's actually some better reason for it.
+- [00:23:44,760 - 00:23:46,760] But, of course, if a thing is
+- [00:23:46,760 - 00:23:48,760] a vector, so is the minus of it.
+- [00:23:48,760 - 00:23:50,760] And so the connection between the anti-symmetric
+- [00:23:50,760 - 00:23:52,760] tensor and the vector that describes it
+- [00:23:52,760 - 00:23:54,760] is, of course, ambiguous.
+- [00:23:54,760 - 00:23:57,760] Though I described this plane here as
+- [00:23:57,760 - 00:24:00,760] that vector or that vector, there's an ambiguity.
+- [00:24:00,760 - 00:24:01,760] Once I fix that vector, we
+- [00:24:01,760 - 00:24:02,760] usually fix it with a right-hand rule.
+- [00:24:02,760 - 00:24:10,760] a cross b, c by making right-handed coordinates.
+- [00:24:10,760 - 00:24:14,260] But there was always an ambiguity whether
+- [00:24:14,260 - 00:24:17,760] we identify the tensor with the vector components
+- [00:24:17,760 - 00:24:19,760] or with minus the vector components.
+- [00:24:19,760 - 00:24:21,760] And for the magnetic field, as I
+- [00:24:21,760 - 00:24:23,760] said, just as a matter of history,
+- [00:24:23,760 - 00:24:27,260] they were identified with minus
+- [00:24:27,260 - 00:24:30,760] the components of the tensor.
+- [00:24:30,760 - 00:24:31,760] In other words,
+- [00:24:32,760 - 00:24:34,260] they were identified with minus
+- [00:24:34,260 - 00:24:35,760] the components of the tensor.
+- [00:24:35,760 - 00:24:37,760] So that's the magnetic field.
+- [00:24:37,760 - 00:24:40,260] It can be represented either as
+- [00:24:40,260 - 00:24:42,760] a vector or an anti-symmetric tensor.
+- [00:24:42,760 - 00:24:47,760] What I want to show
+- [00:24:47,760 - 00:24:52,760] you is an interesting little theorem.
+- [00:24:52,760 - 00:24:57,760] The force on a charged particle is v cross b.
+- [00:24:57,760 - 00:25:00,760] Now, we can write v cross b.
+- [00:25:00,760 - 00:25:02,760] We can write the components of the cross product,
+- [00:25:02,760 - 00:25:04,760] v cross b,
+- [00:25:04,760 - 00:25:06,760] either by thinking of b
+- [00:25:06,760 - 00:25:08,760] as a vector or a tensor.
+- [00:25:08,760 - 00:25:11,760] Let me show you what happens in the two cases.
+- [00:25:11,760 - 00:25:19,760] Let's work out the components of v cross b.
+- [00:25:19,760 - 00:25:21,760] I'm only going to work
+- [00:25:21,760 - 00:25:23,760] out the x component of it.
+- [00:25:23,760 - 00:25:26,760] What's the x component of v cross...
+- [00:25:26,760 - 00:25:28,760] Let's take the z component.
+- [00:25:28,760 - 00:25:31,760] Let's take the third component of v cross b.
+- [00:25:32,760 - 00:25:37,260] The third component of v cross b
+- [00:25:37,260 - 00:25:41,760] is, by the definition of the cross product,
+- [00:25:41,760 - 00:25:42,760] where is it?
+- [00:25:42,760 - 00:25:45,760] The definition of the cross product, the third component,
+- [00:25:45,760 - 00:25:51,760] is v1 b2 minus v2 b1.
+- [00:25:51,760 - 00:25:58,760] That's the third component.
+- [00:25:58,760 - 00:26:00,760] We could write down the others just by cycling through.
+- [00:26:00,760 - 00:26:01,760] I'm not going to cycle through.
+- [00:26:02,760 - 00:26:06,760] But now, let's use that identification up at
+- [00:26:06,760 - 00:26:10,760] the top of the blackboard to rewrite this.
+- [00:26:10,760 - 00:26:12,760] Notice what b2 is.
+- [00:26:12,760 - 00:26:14,760] It's also b1 3.
+- [00:26:14,760 - 00:26:21,760] So this is also v1 b1 3.
+- [00:26:21,760 - 00:26:23,760] What about...
+- [00:26:23,760 - 00:26:27,760] Now there's minus v2.
+- [00:26:27,760 - 00:26:30,760] And what is b1?
+- [00:26:30,760 - 00:26:35,760] v1 is minus b2 3.
+- [00:26:35,760 - 00:26:39,760] Minus b2 3, so that'll change a sign here,
+- [00:26:39,760 - 00:26:43,760] and it'll multiply it by b2 3.
+- [00:26:43,760 - 00:26:45,760] So the component of v
+- [00:26:45,760 - 00:26:47,760] cross b in the third direction
+- [00:26:47,760 - 00:26:52,760] is v1 b1 3 plus v2 b2 3.
+- [00:26:52,760 - 00:26:56,760] And I'm going to add in another term.
+- [00:26:56,760 - 00:26:58,760] v3 b3 3.
+- [00:27:00,760 - 00:27:05,760] Why am I allowed to add that in?
+- [00:27:05,760 - 00:27:07,760] Because b3 3 is 0.
+- [00:27:07,760 - 00:27:09,760] b3 3 is 0.
+- [00:27:09,760 - 00:27:11,760] It's a diagonal term here.
+- [00:27:11,760 - 00:27:13,760] And now we have another way of expressing,
+- [00:27:13,760 - 00:27:15,760] a very pretty nice way of expressing,
+- [00:27:15,760 - 00:27:17,760] the component,
+- [00:27:17,760 - 00:27:20,760] the components of v cross b.
+- [00:27:20,760 - 00:27:22,760] Alright, we can cycle through it as I said,
+- [00:27:22,760 - 00:27:24,760] but we can also write it in the following way.
+- [00:27:24,760 - 00:27:26,760] v cross b,
+- [00:27:26,760 - 00:27:28,760] the mth component of it,
+- [00:27:28,760 - 00:27:30,760] m is 1, 2, or 3,
+- [00:27:30,760 - 00:27:32,760] notice the 3 here
+- [00:27:32,760 - 00:27:36,760] goes with the second component of b.
+- [00:27:36,760 - 00:27:37,760] In each case here,
+- [00:27:37,760 - 00:27:39,760] look at the structure of it,
+- [00:27:39,760 - 00:27:41,760] in each term you have
+- [00:27:41,760 - 00:27:43,760] the third component of the vector
+- [00:27:43,760 - 00:27:47,760] being identified with the last component of b.
+- [00:27:47,760 - 00:27:50,760] Alright, so that suggests that we should write down here
+- [00:27:50,760 - 00:27:53,760] something b, something m.
+- [00:27:53,760 - 00:27:56,760] We should write a velocity,
+- [00:27:56,760 - 00:27:59,760] but notice that the velocity components
+- [00:27:59,760 - 00:28:04,760] match with the first component of b.
+- [00:28:04,760 - 00:28:07,260] The velocity component matches with
+- [00:28:07,260 - 00:28:09,760] the first component of b,
+- [00:28:09,760 - 00:28:12,760] and so that suggests that the answer is
+- [00:28:12,760 - 00:28:15,760] nm vn.
+- [00:28:15,760 - 00:28:19,760] Now, this means summed over n.
+- [00:28:19,760 - 00:28:24,260] So this means v1 b1m
+- [00:28:24,260 - 00:28:28,760] plus v2 b2m plus v3 b3m.
+- [00:28:28,760 - 00:28:31,760] Repeated indices get summed over.
+- [00:28:34,760 - 00:28:36,760] That's kind of a nice easy
+- [00:28:36,760 - 00:28:38,760] way to write v cross b.
+- [00:28:38,760 - 00:28:40,760] That's what it is.
+- [00:28:42,760 - 00:28:45,760] That's another way of writing
+- [00:28:45,760 - 00:28:47,760] the Lorentz force law here.
+- [00:28:47,760 - 00:28:50,760] If I write it out in terms of components,
+- [00:28:50,760 - 00:28:52,260] then at least let's concentrate
+- [00:28:52,260 - 00:28:53,760] on the magnetic piece of it.
+- [00:28:53,760 - 00:28:56,760] The mth component of the force
+- [00:28:56,760 - 00:28:59,760] evidently then is
+- [00:28:59,760 - 00:29:03,760] electric charge
+- [00:29:03,760 - 00:29:10,760] vn bnm.
+- [00:29:10,760 - 00:29:13,760] Okay.
+- [00:29:13,760 - 00:29:16,760] Keep that in mind.
+- [00:29:16,760 - 00:29:21,760] Let me show you another little mathematical fact
+- [00:29:21,760 - 00:29:24,760] about particles moving in magnetic fields.
+- [00:29:26,760 - 00:29:28,760] Let's forget the electric field.
+- [00:29:28,760 - 00:29:30,760] No electric field for the moment.
+- [00:29:30,760 - 00:29:32,760] Just pure magnetic field.
+- [00:29:32,760 - 00:29:35,760] Then there's a fact about particles moving in magnetic field
+- [00:29:35,760 - 00:29:37,760] that their speed doesn't change.
+- [00:29:37,760 - 00:29:39,760] Speed is the magnitude of the velocity.
+- [00:29:39,760 - 00:29:41,760] Magnitude of velocity doesn't change
+- [00:29:41,760 - 00:29:43,760] in a magnetic field.
+- [00:29:43,760 - 00:29:50,760] That's because the force is perpendicular to the velocity.
+- [00:29:50,760 - 00:29:52,760] Let's see if we can prove that.
+- [00:29:52,760 - 00:29:54,760] Let's see if we can prove that the velocity,
+- [00:29:54,760 - 00:29:55,760] not the velocity,
+- [00:29:55,760 - 00:29:56,760] the speed.
+- [00:29:56,760 - 00:30:00,760] Velocity means direction and magnitude,
+- [00:30:00,760 - 00:30:03,760] but that the magnitude of the velocity doesn't change.
+- [00:30:03,760 - 00:30:06,760] In fact, as a consequence of that...
+- [00:30:06,760 - 00:30:08,760] If the field varies in time...
+- [00:30:08,760 - 00:30:09,760] Oh, if the field varies in
+- [00:30:09,760 - 00:30:10,760] time, yes, yes, yes, yes, yes.
+- [00:30:10,760 - 00:30:12,760] A static magnetic field.
+- [00:30:12,760 - 00:30:14,760] Yes, that's correct.
+- [00:30:14,760 - 00:30:15,760] Yeah.
+- [00:30:15,760 - 00:30:17,760] The m subscript on f over there
+- [00:30:17,760 - 00:30:20,760] corresponds to the m subscript on e, right?
+- [00:30:20,760 - 00:30:22,760] But you also want a second subscript to denote
+- [00:30:22,760 - 00:30:24,760] it's only the magnetic component?
+- [00:30:24,760 - 00:30:26,760] We're talking about this?
+- [00:30:26,760 - 00:30:27,760] Yeah.
+- [00:30:27,760 - 00:30:29,760] Everything is three-dimensional.
+- [00:30:29,760 - 00:30:31,760] There's no electric component in here now,
+- [00:30:31,760 - 00:30:34,760] but I've set the electric field equal to zero.
+- [00:30:34,760 - 00:30:36,760] Yeah.
+- [00:30:36,760 - 00:30:39,760] I've set the electric field equal to zero.
+- [00:30:39,760 - 00:30:41,760] If there's a time-dependent magnetic field,
+- [00:30:41,760 - 00:30:45,760] the reason that the velocity, the speed changes
+- [00:30:45,760 - 00:30:47,760] is because the time-dependent magnetic field
+- [00:30:47,760 - 00:30:50,760] makes an electric field.
+- [00:30:50,760 - 00:30:53,760] But let's just concentrate on a time-dependent
+- [00:30:53,760 - 00:30:55,760] simplest situation,
+- [00:30:55,760 - 00:30:58,760] time-independent magnetic field.
+- [00:30:58,760 - 00:31:00,760] We'll see.
+- [00:31:00,760 - 00:31:01,760] I don't know.
+- [00:31:01,760 - 00:31:02,760] As we go along, we'll
+- [00:31:02,760 - 00:31:03,760] find out if it was important
+- [00:31:03,760 - 00:31:05,760] that it was time-independent.
+- [00:31:05,760 - 00:31:06,760] All right.
+- [00:31:06,760 - 00:31:07,760] So among other things,
+- [00:31:07,760 - 00:31:09,760] that means that the kinetic energy of the particle
+- [00:31:09,760 - 00:31:13,760] doesn't change if it's only in a static magnetic field.
+- [00:31:13,760 - 00:31:17,760] That means that the square of the velocity,
+- [00:31:17,760 - 00:31:20,760] we can write that as vmvm.
+- [00:31:20,760 - 00:31:22,760] The square of the velocity,
+- [00:31:22,760 - 00:31:26,760] this is v1 squared plus v2 squared plus v3 squared,
+- [00:31:26,760 - 00:31:28,260] or better yet, vx squared
+- [00:31:28,260 - 00:31:29,760] plus vy squared plus vz squared.
+- [00:31:29,760 - 00:31:33,760] This is the square of the magnitude of the velocity.
+- [00:31:33,760 - 00:31:36,760] And I'm interested in finding out
+- [00:31:36,760 - 00:31:38,760] whether that changes with time.
+- [00:31:38,760 - 00:31:39,760] So what I want to do,
+- [00:31:39,760 - 00:31:43,760] I want to differentiate it with respect to time.
+- [00:31:43,760 - 00:31:46,760] Remember that I sum over repeated index.
+- [00:31:46,760 - 00:31:48,760] All right. Well, what is this?
+- [00:31:48,760 - 00:31:50,760] This is just twice
+- [00:31:50,760 - 00:31:52,760] the time derivative of v,
+- [00:31:52,760 - 00:31:55,760] vm,
+- [00:31:55,760 - 00:31:57,760] times vm.
+- [00:31:57,760 - 00:31:59,760] This is vm squared.
+- [00:31:59,760 - 00:32:01,760] The time derivative is twice v,
+- [00:32:01,760 - 00:32:05,760] is twice v times the time derivative of v.
+- [00:32:05,760 - 00:32:09,760] All right.
+- [00:32:09,760 - 00:32:11,760] Which is
+- [00:32:11,760 - 00:32:14,760] twice the acceleration.
+- [00:32:18,760 - 00:32:20,760] Twice the acceleration
+- [00:32:22,760 - 00:32:29,760] dotted with the velocity.
+- [00:32:29,760 - 00:32:33,760] Now let's write the fact that the acceleration,
+- [00:32:33,760 - 00:32:35,760] we know what the acceleration is.
+- [00:32:35,760 - 00:32:40,760] The acceleration is just the force divided by the mass.
+- [00:32:40,760 - 00:32:42,760] Let's see, what do we want to do?
+- [00:32:42,760 - 00:32:46,760] Um,
+- [00:32:46,760 - 00:32:47,760] yeah.
+- [00:32:47,760 - 00:32:50,760] We want to substitute for the acceleration.
+- [00:32:50,760 - 00:32:51,760] I want to substitute, um,
+- [00:32:51,760 - 00:32:54,760] the force divided by the mass.
+- [00:32:54,760 - 00:32:56,760] But in particular,
+- [00:32:56,760 - 00:32:58,760] I don't care about the numerical coefficients.
+- [00:32:58,760 - 00:33:00,760] This is going to be proportional to
+- [00:33:00,760 - 00:33:02,760] twice,
+- [00:33:02,760 - 00:33:03,760] now,
+- [00:33:03,760 - 00:33:04,760] velocity
+- [00:33:04,760 - 00:33:07,760] cross b,
+- [00:33:07,760 - 00:33:11,760] the mth component,
+- [00:33:11,760 - 00:33:13,760] times vm.
+- [00:33:13,760 - 00:33:15,760] The acceleration in a magnetic
+- [00:33:15,760 - 00:33:17,760] field is proportional to the velocity
+- [00:33:17,760 - 00:33:19,760] cross the magnetic field,
+- [00:33:19,760 - 00:33:20,760] the mth component of it,
+- [00:33:20,760 - 00:33:23,760] times vm.
+- [00:33:23,760 - 00:33:28,760] But now let's use the formula that we have.
+- [00:33:28,760 - 00:33:30,760] Where is it?
+- [00:33:30,760 - 00:33:34,760] Uh, the formula that we have for v cross b,
+- [00:33:34,760 - 00:33:36,760] did I erase that?
+- [00:33:36,760 - 00:33:38,760] Darn it, I erased it.
+- [00:33:38,760 - 00:33:41,760] Uh,
+- [00:33:41,760 - 00:33:47,760] twice b,
+- [00:33:47,760 - 00:33:48,760] what is it?
+- [00:33:48,760 - 00:33:49,760] b n,
+- [00:33:49,760 - 00:33:53,760] m,
+- [00:33:53,760 - 00:33:55,760] anybody have it written down?
+- [00:33:55,760 - 00:33:57,760] v cross b, the mth component of it.
+- [00:33:57,760 - 00:33:58,760] What is it?
+- [00:33:58,760 - 00:34:01,760] Isn't it, uh, v n b n m?
+- [00:34:01,760 - 00:34:04,760] v n,
+- [00:34:04,760 - 00:34:08,760] b n m, right?
+- [00:34:08,760 - 00:34:11,760] Right, that's v cross b in the m direction,
+- [00:34:11,760 - 00:34:17,760] but now, let's multiply it by vm.
+- [00:34:17,760 - 00:34:18,760] So what do we have?
+- [00:34:18,760 - 00:34:22,760] We have the components of the tensor b
+- [00:34:22,760 - 00:34:25,760] bracketed by the components of
+- [00:34:25,760 - 00:34:28,760] the vector v on both sides.
+- [00:34:28,760 - 00:34:30,760] Now the trick is to realize
+- [00:34:30,760 - 00:34:33,260] that any expression like this is
+- [00:34:33,260 - 00:34:35,760] always zero if b is anti-symmetric.
+- [00:34:35,760 - 00:34:37,260] For example, there's going to
+- [00:34:37,260 - 00:34:38,760] be a term which will be,
+- [00:34:38,760 - 00:34:40,760] well, let's see what terms there are.
+- [00:34:40,760 - 00:34:42,760] There could be a term with
+- [00:34:42,760 - 00:34:44,760] v1 over here and v1 over here.
+- [00:34:44,760 - 00:34:46,760] That will have to multiply b11.
+- [00:34:46,760 - 00:34:47,760] That's zero.
+- [00:34:47,760 - 00:34:50,760] That's zero.
+- [00:34:50,760 - 00:34:52,760] Let's try another term.
+- [00:34:52,760 - 00:34:54,760] There'll be a term v1
+- [00:34:54,760 - 00:34:56,760] over here and v2 over here.
+- [00:34:56,760 - 00:34:59,760] That will multiply b12.
+- [00:34:59,760 - 00:35:01,260] But then there will be a partner,
+- [00:35:01,260 - 00:35:02,760] a twin term that goes with it,
+- [00:35:02,760 - 00:35:04,760] in which this is 2,
+- [00:35:04,760 - 00:35:07,760] in which n is 2 and m is 1.
+- [00:35:07,760 - 00:35:15,760] So that will be plus v2 b21 v1.
+- [00:35:15,760 - 00:35:16,260] And now we use the fact
+- [00:35:16,260 - 00:35:16,760] that b21 and b21 are the same.
+- [00:35:16,760 - 00:35:17,760] So that's b11.
+- [00:35:17,760 - 00:35:20,760] And b12 are opposite in sign,
+- [00:35:20,760 - 00:35:21,760] equal and opposite.
+- [00:35:21,760 - 00:35:23,760] And this is also zero.
+- [00:35:23,760 - 00:35:31,760] So if we take an anti-symmetric tensor
+- [00:35:31,760 - 00:35:35,760] and we multiply it from both sides
+- [00:35:35,760 - 00:35:38,760] on both of its indices by the same vector,
+- [00:35:38,760 - 00:35:40,760] we always get zero.
+- [00:35:40,760 - 00:35:42,760] The consequence is that we've
+- [00:35:42,760 - 00:35:44,760] proved that for a magnetic field,
+- [00:35:44,760 - 00:35:46,760] that d by dt
+- [00:35:46,760 - 00:35:50,760] of the square of the velocity is equal to zero.
+- [00:35:50,760 - 00:35:51,760] In other words,
+- [00:35:51,760 - 00:35:55,760] that the square of the velocity is constant in time.
+- [00:35:55,760 - 00:36:00,760] Anybody want me to go over that again?
+- [00:36:00,760 - 00:36:03,760] Alright, I'll just go over it very briefly again.
+- [00:36:03,760 - 00:36:07,260] The MVM, we differentiated it and we got it
+- [00:36:07,260 - 00:36:10,760] proportional to the product of the acceleration times the velocity.
+- [00:36:10,760 - 00:36:14,760] Then I used for the acceleration the Lorentz force law,
+- [00:36:14,760 - 00:36:16,760] the magnetic piece of it.
+- [00:36:16,760 - 00:36:18,260] Of course, this would not be
+- [00:36:18,260 - 00:36:19,760] true, incidentally, if there was electric field.
+- [00:36:19,760 - 00:36:22,760] Only because if there's only magnetic field,
+- [00:36:22,760 - 00:36:26,760] then the acceleration is proportional to v cross b.
+- [00:36:26,760 - 00:36:29,760] I then used that v cross
+- [00:36:29,760 - 00:36:32,760] b was vnm, vn, bnm, vm.
+- [00:36:32,760 - 00:36:35,760] And then immediately from that it follows.
+- [00:36:35,760 - 00:36:40,760] Immediately the symmetry of vnm is,
+- [00:36:40,760 - 00:36:43,760] combines together with the anti-symmetry of bnm
+- [00:36:43,760 - 00:36:45,760] to give zero.
+- [00:36:45,760 - 00:36:47,760] Now why do I do it this way?
+- [00:36:47,760 - 00:36:49,760] I could use elementary theorems
+- [00:36:49,760 - 00:36:51,760] about cross products and so forth.
+- [00:36:51,760 - 00:36:53,760] I do it this way because we
+- [00:36:53,760 - 00:36:55,760] want to generalize it to four dimensions,
+- [00:36:55,760 - 00:37:00,760] where the simple theorems don't generalize.
+- [00:37:02,760 - 00:37:04,760] Okay.
+- [00:37:11,760 - 00:37:12,760] So now we know some things.
+- [00:37:12,760 - 00:37:13,760] Oh, incidentally,
+- [00:37:13,760 - 00:37:15,760] we have a very interesting problem.
+- [00:37:15,760 - 00:37:18,260] Well, it's just true that of course
+- [00:37:18,260 - 00:37:20,760] that an electric field will violate this.
+- [00:37:20,760 - 00:37:23,760] If a particle is at rest and starts at rest,
+- [00:37:23,760 - 00:37:27,760] the electric field will start to accelerate it.
+- [00:37:27,760 - 00:37:29,760] And of course the velocity will not remain,
+- [00:37:29,760 - 00:37:31,760] the speed won't remain constant.
+- [00:37:31,760 - 00:37:36,760] It's only because the velocity appears in here
+- [00:37:36,760 - 00:37:40,760] in a particular special way that it has this property
+- [00:37:40,760 - 00:37:42,760] that it doesn't change the magnitude of the velocity.
+- [00:37:42,760 - 00:37:45,760] I don't think in any place here that I used
+- [00:37:45,760 - 00:37:48,760] the fact that the magnetic field was constant in time.
+- [00:37:49,760 - 00:37:51,760] I don't think I did.
+- [00:37:51,760 - 00:37:54,760] What is true is a time-dependent
+- [00:37:54,760 - 00:37:57,760] magnetic field will create an electric field,
+- [00:37:57,760 - 00:38:00,760] and the electric field will do some work.
+- [00:38:01,760 - 00:38:04,260] All right, now it's more or
+- [00:38:04,260 - 00:38:06,760] less obvious that the electric field
+- [00:38:06,760 - 00:38:08,760] and the magnetic field will
+- [00:38:08,760 - 00:38:10,760] get mixed up with each other
+- [00:38:10,760 - 00:38:12,760] when you go from frame to frame,
+- [00:38:12,760 - 00:38:15,760] which are moving with relative velocity.
+- [00:38:15,760 - 00:38:17,760] It's fairly easy to see.
+- [00:38:17,760 - 00:38:20,760] This is under the assumption that the laws of physics
+- [00:38:20,760 - 00:38:23,760] are the same in every reference frame.
+- [00:38:24,760 - 00:38:28,260] It's more or less obvious that if you
+- [00:38:28,260 - 00:38:31,760] have a pure magnetic field in one frame,
+- [00:38:31,760 - 00:38:33,760] then in other frames you
+- [00:38:33,760 - 00:38:35,760] will also have an electric field.
+- [00:38:35,760 - 00:38:37,760] In other words, if there's a
+- [00:38:37,760 - 00:38:39,760] pure magnetic field along some axis,
+- [00:38:39,760 - 00:38:42,760] and you're moving in some direction,
+- [00:38:42,760 - 00:38:45,760] depending on the direction you're moving in,
+- [00:38:45,760 - 00:38:48,760] you will see also an electric field.
+- [00:38:48,760 - 00:38:50,760] The way to see that...
+- [00:38:53,760 - 00:38:55,760] Let's take a case.
+- [00:38:55,760 - 00:38:59,760] Let's suppose there's a magnetic field in the up direction
+- [00:39:01,760 - 00:39:05,760] that I have a particle...
+- [00:39:05,760 - 00:39:07,760] Let's see.
+- [00:39:07,760 - 00:39:08,760] Let's...
+- [00:39:09,760 - 00:39:19,760] I have a particle which is moving with velocity v.
+- [00:39:19,760 - 00:39:23,760] We'll call this the y direction, the x direction,
+- [00:39:23,760 - 00:39:26,760] and this is the third direction, the z direction.
+- [00:39:26,760 - 00:39:28,760] One, two, and three.
+- [00:39:28,760 - 00:39:31,760] We have a magnetic field in the y direction.
+- [00:39:34,760 - 00:39:37,760] We have a particle moving along the x direction.
+- [00:39:37,760 - 00:39:40,760] And of course in that case we
+- [00:39:40,760 - 00:39:43,760] will have a force along the z axis.
+- [00:39:43,760 - 00:39:46,760] v cross b will be along the z axis,
+- [00:39:46,760 - 00:39:48,260] and there will be a force
+- [00:39:48,260 - 00:39:49,760] on that particle along the z axis.
+- [00:39:49,760 - 00:39:52,760] Now, let's imagine slow velocities.
+- [00:39:54,760 - 00:39:56,760] Newtonian physics.
+- [00:39:56,760 - 00:39:58,760] We're not interested in relativity yet.
+- [00:39:58,760 - 00:40:00,760] Everything is moving very slowly by
+- [00:40:00,760 - 00:40:02,760] comparison with the speed of light.
+- [00:40:02,760 - 00:40:06,760] Acceleration in Newtonian kinematics is invariant.
+- [00:40:07,760 - 00:40:10,760] So if one observer sees an acceleration,
+- [00:40:10,760 - 00:40:13,760] a second observer will also see an acceleration,
+- [00:40:13,760 - 00:40:15,760] and the acceleration will be identical,
+- [00:40:15,760 - 00:40:18,260] as long as we're talking about observers
+- [00:40:18,260 - 00:40:20,760] who are moving slowly relative to each other.
+- [00:40:20,760 - 00:40:23,760] Alright, now I haven't introduced a second observer yet.
+- [00:40:23,760 - 00:40:26,260] I've only introduced the fact that my
+- [00:40:26,260 - 00:40:28,760] particle is moving along with velocity v.
+- [00:40:28,760 - 00:40:31,760] But now I'm going to introduce a second observer.
+- [00:40:31,760 - 00:40:34,260] The second observer also happens to
+- [00:40:34,260 - 00:40:36,760] be moving along with velocity v,
+- [00:40:36,760 - 00:40:39,760] and therefore sees the particle at rest.
+- [00:40:39,760 - 00:40:43,760] For that observer, the particle has no velocity,
+- [00:40:43,760 - 00:40:46,760] but because acceleration is an
+- [00:40:46,760 - 00:40:49,760] invariant under usual Newtonian physics,
+- [00:40:49,760 - 00:40:52,260] that observer must also see
+- [00:40:52,260 - 00:40:54,760] an acceleration for this particle.
+- [00:40:54,760 - 00:40:57,760] There's no velocity, therefore the
+- [00:40:57,760 - 00:41:00,760] b field cannot create any acceleration.
+- [00:41:00,760 - 00:41:04,760] Momentarily, momentarily at that instant of time,
+- [00:41:04,760 - 00:41:06,760] the acceleration is zero.
+- [00:41:06,760 - 00:41:09,760] It's zero in one frame, it's zero in every frame.
+- [00:41:09,760 - 00:41:12,760] So, as I move along with the particle,
+- [00:41:12,760 - 00:41:15,760] I have to blame the acceleration on something else.
+- [00:41:15,760 - 00:41:18,760] It cannot be blamed on the cross
+- [00:41:18,760 - 00:41:21,760] product of the velocity and the magnetic field.
+- [00:41:21,760 - 00:41:23,760] In fact, we know there's
+- [00:41:23,760 - 00:41:25,760] a force along the z axis.
+- [00:41:25,760 - 00:41:28,760] There's only one place that that could be coming from,
+- [00:41:28,760 - 00:41:31,260] assuming that the Lorentz force law
+- [00:41:31,260 - 00:41:33,760] is the same in every reference frame.
+- [00:41:33,760 - 00:41:35,760] If it's not coming from v cross b,
+- [00:41:35,760 - 00:41:37,760] because in my new frame v is zero,
+- [00:41:37,760 - 00:41:40,760] it must be coming from an electric field,
+- [00:41:40,760 - 00:41:42,760] and so there must be an
+- [00:41:42,760 - 00:41:44,760] electric field sticking out of the blackboard
+- [00:41:44,760 - 00:41:48,760] in the frame of reference moving with the particle,
+- [00:41:48,760 - 00:41:50,760] in this particular case.
+- [00:41:50,760 - 00:41:52,760] So, in the original frame of
+- [00:41:52,760 - 00:41:54,760] reference, I started with no electric field,
+- [00:41:54,760 - 00:41:57,760] but a particle moving with velocity v.
+- [00:41:57,760 - 00:41:59,260] In the second frame of reference,
+- [00:41:59,260 - 00:42:00,760] I have a particle at rest,
+- [00:42:00,760 - 00:42:02,260] I must have an electric
+- [00:42:02,260 - 00:42:03,760] field sticking out of the blackboard.
+- [00:42:03,760 - 00:42:04,760] So the consequence is,
+- [00:42:04,760 - 00:42:06,760] that electric and magnetic fields
+- [00:42:06,760 - 00:42:08,760] must mix up with each other
+- [00:42:08,760 - 00:42:11,760] under velocity transformations.
+- [00:42:11,760 - 00:42:14,760] But, in order to get
+- [00:42:14,760 - 00:42:17,760] the equations really relativistically correct,
+- [00:42:17,760 - 00:42:21,760] we're going to have to work with four vectors.
+- [00:42:21,760 - 00:42:24,760] So, let's remind ourselves about four vectors,
+- [00:42:24,760 - 00:42:27,260] and how the electric and magnetic
+- [00:42:27,260 - 00:42:29,760] fields fit into four vector notation,
+- [00:42:29,760 - 00:42:31,760] and then see if we can
+- [00:42:31,760 - 00:42:33,760] derive a set of equations of motion,
+- [00:42:33,760 - 00:42:37,760] which will be the same in every reference frame.
+- [00:42:37,760 - 00:42:40,760] And as I said,
+- [00:42:40,760 - 00:42:44,760] we will have to mix up electric and magnetic fields,
+- [00:42:44,760 - 00:42:47,760] they will have to transform,
+- [00:42:47,760 - 00:42:50,760] we'll work out some of their transformation properties,
+- [00:42:50,760 - 00:42:52,760] I mean, here we did a little bit of it,
+- [00:42:52,760 - 00:42:54,760] but we'll work it out mathematically,
+- [00:42:54,760 - 00:42:58,760] and see, for example, that this really does happen.
+- [00:42:58,760 - 00:43:02,760] Okay, we have two fields, electric and magnetic,
+- [00:43:02,760 - 00:43:05,760] that's six components all together,
+- [00:43:05,760 - 00:43:08,760] a second object which has six components,
+- [00:43:08,760 - 00:43:11,760] in fact, the only object which has,
+- [00:43:11,760 - 00:43:13,760] I say this all the time,
+- [00:43:13,760 - 00:43:16,260] the only object in four
+- [00:43:16,260 - 00:43:18,760] dimensional space which has six components,
+- [00:43:18,760 - 00:43:20,760] is an anti-symmetric tensor.
+- [00:43:20,760 - 00:43:22,760] Now it's simply false.
+- [00:43:22,760 - 00:43:24,760] You could have six scalars,
+- [00:43:24,760 - 00:43:26,760] you could have a vector and two scalars,
+- [00:43:26,760 - 00:43:27,760] I think that's all,
+- [00:43:27,760 - 00:43:29,760] a vector and two scalars,
+- [00:43:29,760 - 00:43:31,760] six scalars,
+- [00:43:31,760 - 00:43:34,760] but neither of those are interesting.
+- [00:43:34,760 - 00:43:38,760] The other object which has six independent components
+- [00:43:38,760 - 00:43:41,760] is the anti-symmetric tensor.
+- [00:43:41,760 - 00:43:44,760] So it's natural,
+- [00:43:44,760 - 00:43:47,760] it's natural, since electric and magnetic fields
+- [00:43:47,760 - 00:43:49,760] will transform into each other,
+- [00:43:49,760 - 00:43:52,760] to guess that they fill out an anti-symmetric tensor
+- [00:43:52,760 - 00:43:54,760] in four dimensions.
+- [00:43:54,760 - 00:43:58,760] So let's,
+- [00:43:58,760 - 00:44:01,760] here's the matrix associated with it,
+- [00:44:01,760 - 00:44:03,760] let's,
+- [00:44:03,760 - 00:44:04,760] just to guide my eye,
+- [00:44:04,760 - 00:44:13,760] I'm going to divide it into four by four.
+- [00:44:13,760 - 00:44:15,760] And now, my notation,
+- [00:44:15,760 - 00:44:18,760] my notation seems to differ from a lot of books.
+- [00:44:18,760 - 00:44:23,760] My notation is always
+- [00:44:23,760 - 00:44:26,760] zero, one, two, three.
+- [00:44:26,760 - 00:44:29,760] No, one, two, three, zero.
+- [00:44:29,760 - 00:44:30,760] That's because I'm not sure,
+- [00:44:30,760 - 00:44:38,760] that's because I,
+- [00:44:38,760 - 00:44:44,760] in my youth I used to call zero four.
+- [00:44:44,760 - 00:44:46,760] Now it's called zero.
+- [00:44:46,760 - 00:44:48,760] Well, I'm not that old that,
+- [00:44:48,760 - 00:44:50,760] but one, two, three, zero.
+- [00:44:50,760 - 00:44:55,760] So, one, two, three, zero.
+- [00:44:55,760 - 00:44:59,760] One, two, three, zero.
+- [00:44:59,760 - 00:45:03,760] Let's fill it in with electric and magnetic fields.
+- [00:45:03,760 - 00:45:05,760] And some of this, of course, is convention.
+- [00:45:05,760 - 00:45:09,760] Some of this is rather arbitrary convention.
+- [00:45:09,760 - 00:45:11,760] What the invariant fact is,
+- [00:45:11,760 - 00:45:13,760] is that there's an anti-symmetric tensor
+- [00:45:13,760 - 00:45:15,760] that describes all of this.
+- [00:45:15,760 - 00:45:18,760] Exactly how we fill in the components
+- [00:45:18,760 - 00:45:21,760] is a little bit arbitrary, not very, but
+- [00:45:21,760 - 00:45:24,760] we fill in the one, two, three,
+- [00:45:24,760 - 00:45:27,760] the three by three matrix, exactly as we did
+- [00:45:27,760 - 00:45:29,760] with the magnetic field before.
+- [00:45:29,760 - 00:45:33,760] Zero, zero, zero.
+- [00:45:33,760 - 00:45:39,760] Minus b, z, or b three.
+- [00:45:43,760 - 00:45:46,760] I think this is plus b two,
+- [00:45:46,760 - 00:45:49,760] minus b one.
+- [00:45:51,760 - 00:45:54,760] So this part of it, let me block it out.
+- [00:45:57,760 - 00:46:00,760] The three by three part of it, one, two, three,
+- [00:46:00,760 - 00:46:04,760] is exactly just the magnetic field tensor.
+- [00:46:04,760 - 00:46:08,760] On the off-diagonal places over here,
+- [00:46:08,760 - 00:46:10,760] we have the electric field.
+- [00:46:10,760 - 00:46:13,760] We have room for the components of an electric field.
+- [00:46:13,760 - 00:46:21,760] I think it's e one, e two, e three.
+- [00:46:21,760 - 00:46:23,760] The three components of the electric field.
+- [00:46:23,760 - 00:46:26,760] And of course, in the lower spots here,
+- [00:46:26,760 - 00:46:28,760] we simply reverse the sign.
+- [00:46:28,760 - 00:46:30,760] Plus b three, for example,
+- [00:46:30,760 - 00:46:33,760] down here we would have minus e three,
+- [00:46:33,760 - 00:46:35,760] et cetera.
+- [00:46:35,760 - 00:46:39,760] Anti-symmetric tensor, six independent components,
+- [00:46:39,760 - 00:46:45,760] constituting the electromagnetic field tensor.
+- [00:46:45,760 - 00:46:47,760] When do you use superscripts?
+- [00:46:47,760 - 00:46:49,760] Oh, as long as I'm only
+- [00:46:49,760 - 00:46:51,760] interested in components one, two, and three.
+- [00:46:51,760 - 00:46:53,260] As long as I'm labeling
+- [00:46:53,260 - 00:46:54,760] things with one, two, and three,
+- [00:46:54,760 - 00:46:56,760] it doesn't matter if they're all the same.
+- [00:46:56,760 - 00:46:58,760] I'm just going to go with the upper or lower.
+- [00:46:58,760 - 00:47:00,760] Here I simply mean, you're right,
+- [00:47:00,760 - 00:47:03,760] I switch notation up and down.
+- [00:47:03,760 - 00:47:05,760] Pay no attention to it.
+- [00:47:05,760 - 00:47:07,760] Let's see, what would be consistent?
+- [00:47:07,760 - 00:47:09,260] I guess it would be consistent
+- [00:47:09,260 - 00:47:10,760] to leave them as upper components.
+- [00:47:10,760 - 00:47:12,760] But it doesn't matter.
+- [00:47:12,760 - 00:47:14,760] It's the three components of the electric field
+- [00:47:14,760 - 00:47:16,760] and the three components of the magnetic field
+- [00:47:16,760 - 00:47:21,760] exactly as Maxwell and Faraday would have defined them.
+- [00:47:21,760 - 00:47:24,760] That's what goes into those places there.
+- [00:47:24,760 - 00:47:26,760] So we needn't pay much attention
+- [00:47:26,760 - 00:47:29,760] to where the indices are.
+- [00:47:29,760 - 00:47:32,760] This is the object made up
+- [00:47:32,760 - 00:47:34,760] out of exactly the same fields
+- [00:47:34,760 - 00:47:37,760] that Maxwell and Faraday would have defined.
+- [00:47:37,760 - 00:47:42,760] And this whole object is called F mu nu.
+- [00:47:42,760 - 00:47:45,760] It's an anti-symmetric four by four tensor.
+- [00:47:45,760 - 00:47:51,760] Mu and nu run from zero to four to three,
+- [00:47:51,760 - 00:47:53,760] or three to zero.
+- [00:47:53,760 - 00:47:55,760] And it is a four by four tensor.
+- [00:47:55,760 - 00:47:57,760] It's called F.
+- [00:47:57,760 - 00:47:59,760] I'm not sure why it's called F.
+- [00:47:59,760 - 00:48:02,760] I think maybe for Faraday, but I'm not sure.
+- [00:48:02,760 - 00:48:07,760] I don't think it was called F until...
+- [00:48:07,760 - 00:48:10,760] maybe Minkowski, I'm not sure.
+- [00:48:10,760 - 00:48:13,760] Einstein did not have that notation.
+- [00:48:16,760 - 00:48:19,760] He actually didn't think about four by four tensors.
+- [00:48:19,760 - 00:48:22,760] What he simply worked out in detail
+- [00:48:22,760 - 00:48:24,760] was the transformation properties
+- [00:48:24,760 - 00:48:26,760] of the electric and magnetic field.
+- [00:48:26,760 - 00:48:28,760] I think it was Minkowski
+- [00:48:28,760 - 00:48:31,760] who first put them together into a tensor.
+- [00:48:37,760 - 00:48:39,760] All right, let's come now...
+- [00:48:39,760 - 00:48:41,760] That's our object.
+- [00:48:41,760 - 00:48:43,760] That's our electric and magnetic tensor.
+- [00:48:43,760 - 00:48:45,760] It's the thing that has to be responsible
+- [00:48:45,760 - 00:48:48,760] one way or another for the force on charged particles.
+- [00:48:48,760 - 00:48:52,760] Now what we want to do is study possible...
+- [00:48:52,760 - 00:48:54,760] Excuse me.
+- [00:48:54,760 - 00:48:58,760] Possible force laws
+- [00:48:58,760 - 00:49:00,260] that would be appropriate in
+- [00:49:00,260 - 00:49:01,760] the special theory of relativity.
+- [00:49:01,760 - 00:49:06,760] So let's begin with the idea of acceleration.
+- [00:49:07,760 - 00:49:11,760] We've already defined four velocity.
+- [00:49:11,760 - 00:49:14,760] Four velocity, u mu,
+- [00:49:14,760 - 00:49:17,760] is equal to dx mu
+- [00:49:17,760 - 00:49:21,760] by, not by dt, but by d tau.
+- [00:49:24,760 - 00:49:27,760] Okay.
+- [00:49:27,760 - 00:49:29,760] It has four components.
+- [00:49:31,760 - 00:49:33,760] What are those four components?
+- [00:49:33,760 - 00:49:37,760] They are the four components of ordinary velocity
+- [00:49:37,760 - 00:49:38,760] times gamma.
+- [00:49:38,760 - 00:49:42,760] Gamma equals one divided by the square root
+- [00:49:42,760 - 00:49:45,760] of one minus v squared.
+- [00:49:45,760 - 00:49:49,760] vx, vy, and vz
+- [00:49:49,760 - 00:49:51,760] times gamma.
+- [00:49:54,760 - 00:49:59,760] And then the last component is just gamma.
+- [00:50:01,760 - 00:50:04,260] Another way to write them is
+- [00:50:04,260 - 00:50:06,760] dx by dt, dt by d tau.
+- [00:50:06,760 - 00:50:08,760] That's where the gamma comes from.
+- [00:50:08,760 - 00:50:10,760] The gamma is just dt by d tau.
+- [00:50:10,760 - 00:50:14,760] Okay, so those are the four components of four velocity.
+- [00:50:16,760 - 00:50:21,760] The momentum is M times u mu.
+- [00:50:21,760 - 00:50:23,760] That's p mu.
+- [00:50:23,760 - 00:50:27,260] And the first three components
+- [00:50:27,260 - 00:50:30,760] of it are the ordinary momentum.
+- [00:50:30,760 - 00:50:33,760] They are the momentum, but notice that they're
+- [00:50:33,760 - 00:50:36,760] made up out of mass times proper velocity.
+- [00:50:37,760 - 00:50:40,760] That's what goes into
+- [00:50:40,760 - 00:50:43,760] the generalization of Newton's equations.
+- [00:50:43,760 - 00:50:47,260] And it goes in, not in the form
+- [00:50:47,260 - 00:50:50,760] dp by dt, but dp by d tau.
+- [00:50:51,760 - 00:50:52,760] Why?
+- [00:50:52,760 - 00:50:55,760] Because we want to make a four vector.
+- [00:50:55,760 - 00:50:58,260] If x is a four
+- [00:50:58,260 - 00:51:00,760] vector and tau is a scalar,
+- [00:51:00,760 - 00:51:03,760] and tau is a scalar, or an invariant,
+- [00:51:03,760 - 00:51:06,760] then dx by d tau is also a four vector,
+- [00:51:06,760 - 00:51:08,760] p is a four vector, and dp
+- [00:51:08,760 - 00:51:10,760] by d tau is a four vector.
+- [00:51:10,760 - 00:51:12,760] That's the left-hand side.
+- [00:51:12,760 - 00:51:16,760] In other words, it's entirely analogous to
+- [00:51:16,760 - 00:51:20,760] what we place in Newton's equations here,
+- [00:51:20,760 - 00:51:22,760] except that it's d by d
+- [00:51:22,760 - 00:51:24,760] tau instead of d by dt.
+- [00:51:24,760 - 00:51:25,760] Okay?
+- [00:51:25,760 - 00:51:27,760] We can write that if we like.
+- [00:51:27,760 - 00:51:29,760] Well, let's leave it this way for the moment.
+- [00:51:29,760 - 00:51:30,760] Let's leave it this way.
+- [00:51:30,760 - 00:51:34,760] We'll write it slightly different in a little while.
+- [00:51:34,760 - 00:51:37,760] If the left-hand side is a four vector,
+- [00:51:37,760 - 00:51:40,760] the right-hand side must also be a four vector.
+- [00:51:43,760 - 00:51:45,260] It's got to have the
+- [00:51:45,260 - 00:51:46,760] electric charge in front of it.
+- [00:51:46,760 - 00:51:50,260] It is going to have the
+- [00:51:50,260 - 00:51:53,760] electric and magnetic fields in it.
+- [00:51:53,760 - 00:51:57,760] Let's see what kind of thing we can invent.
+- [00:51:57,760 - 00:52:01,760] We can invent something with...
+- [00:52:01,760 - 00:52:04,260] No, let's for the moment
+- [00:52:04,260 - 00:52:06,760] just call the right-hand side f,
+- [00:52:06,760 - 00:52:08,760] script f mu.
+- [00:52:08,760 - 00:52:10,760] f mu.
+- [00:52:10,760 - 00:52:12,760] Okay.
+- [00:52:12,760 - 00:52:15,760] Now let me prove a little theorem.
+- [00:52:15,760 - 00:52:18,760] The theorem is that f mu...
+- [00:52:18,760 - 00:52:20,760] Here's the statement.
+- [00:52:20,760 - 00:52:27,760] f mu u mu is equal to zero.
+- [00:52:27,760 - 00:52:32,760] Now this is analogous, but not identical to.
+- [00:52:32,760 - 00:52:35,760] It's analogous to the statement that
+- [00:52:35,760 - 00:52:37,760] the force due to a magnetic field
+- [00:52:37,760 - 00:52:40,760] is perpendicular to the velocity.
+- [00:52:40,760 - 00:52:42,760] That the force due to the magnetic field
+- [00:52:42,760 - 00:52:44,760] is perpendicular to the velocity.
+- [00:52:45,760 - 00:52:47,760] It's analogous to that.
+- [00:52:47,760 - 00:52:49,760] It's a four-dimensional version of it.
+- [00:52:49,760 - 00:52:51,760] And we're going to see now how it works.
+- [00:52:51,760 - 00:52:54,760] How do we prove this?
+- [00:52:54,760 - 00:52:56,760] We prove it not by
+- [00:52:56,760 - 00:52:58,760] using any special form for f,
+- [00:52:58,760 - 00:53:00,760] but by using the fact,
+- [00:53:00,760 - 00:53:02,760] which I probably mentioned last time.
+- [00:53:02,760 - 00:53:05,760] If I haven't, I'll review it.
+- [00:53:05,760 - 00:53:08,760] Well, I won't review it. I'll do it.
+- [00:53:08,760 - 00:53:12,760] u mu u mu is equal to one.
+- [00:53:12,760 - 00:53:14,760] Did we do that?
+- [00:53:15,760 - 00:53:17,760] I think we did.
+- [00:53:17,760 - 00:53:18,760] It's...
+- [00:53:18,760 - 00:53:19,760] Let me just briefly remind you.
+- [00:53:19,760 - 00:53:25,760] It just says that the x mu by d tau...
+- [00:53:25,760 - 00:53:30,760] The x mu by d tau is equal to one.
+- [00:53:30,760 - 00:53:33,760] And all it really says is that...
+- [00:53:33,760 - 00:53:35,760] Well, this one...one of these should be lower.
+- [00:53:35,760 - 00:53:36,760] The x mu.
+- [00:53:36,760 - 00:53:38,760] All it really says is
+- [00:53:38,760 - 00:53:40,760] that the sum of the squares
+- [00:53:40,760 - 00:53:43,760] of these differentials is just d tau squared.
+- [00:53:43,760 - 00:53:44,760] Okay.
+- [00:53:44,760 - 00:53:45,760] I think we did that.
+- [00:53:45,760 - 00:53:47,760] I think we may have done it twice already.
+- [00:53:47,760 - 00:53:51,260] u mu...u sub mu times mu
+- [00:53:51,260 - 00:53:54,760] super mu is equal to one.
+- [00:53:54,760 - 00:53:57,760] Now let me differentiate that with respect to tau.
+- [00:53:57,760 - 00:54:00,760] If it's equal to one, that means it doesn't change
+- [00:54:00,760 - 00:54:02,760] along the trajectory of the particle.
+- [00:54:02,760 - 00:54:05,760] It's very much or very analogous to the statement
+- [00:54:05,760 - 00:54:09,760] that the speed doesn't change in a magnetic field.
+- [00:54:09,760 - 00:54:12,760] Not the same thing, because there's four components here.
+- [00:54:12,760 - 00:54:16,760] But it's mathematically analogous.
+- [00:54:16,760 - 00:54:21,760] Let's differentiate it with respect to tau.
+- [00:54:21,760 - 00:54:22,760] All right.
+- [00:54:22,760 - 00:54:23,760] We're going to get two terms.
+- [00:54:23,760 - 00:54:27,760] When I differentiate a product, I get one term
+- [00:54:27,760 - 00:54:29,760] from the derivative of the first factor
+- [00:54:29,760 - 00:54:31,760] times the second factor and so forth.
+- [00:54:31,760 - 00:54:34,760] So there will be, for example,
+- [00:54:34,760 - 00:54:37,760] du mu times u super mu.
+- [00:54:37,760 - 00:54:42,760] And there will also be plus u sub mu.
+- [00:54:42,760 - 00:54:45,760] My mu's and u's look the same, don't they?
+- [00:54:45,760 - 00:54:50,760] I don't want them to.
+- [00:54:50,760 - 00:54:55,760] u sub mu times du super
+- [00:54:55,760 - 00:55:00,760] mu by dt, by d tau.
+- [00:55:00,760 - 00:55:01,760] But these are the same thing.
+- [00:55:01,760 - 00:55:03,760] It doesn't matter if you have...
+- [00:55:03,760 - 00:55:06,760] When you put two vectors together like this
+- [00:55:06,760 - 00:55:08,760] and sum over the indices, it doesn't matter
+- [00:55:08,760 - 00:55:10,260] which one has the upper index
+- [00:55:10,260 - 00:55:11,760] and which one has the lower index.
+- [00:55:12,760 - 00:55:15,760] That's entirely...
+- [00:55:15,760 - 00:55:17,760] No content in that.
+- [00:55:17,760 - 00:55:23,760] So this is really just twice this.
+- [00:55:23,760 - 00:55:25,760] What is this object?
+- [00:55:25,760 - 00:55:29,760] This is twice the proper
+- [00:55:29,760 - 00:55:33,760] acceleration times the proper velocity.
+- [00:55:33,760 - 00:55:34,760] Okay.
+- [00:55:34,760 - 00:55:38,760] This is the proper acceleration here.
+- [00:55:38,760 - 00:55:40,760] And this is the proper velocity.
+- [00:55:40,760 - 00:55:42,760] The proper acceleration...
+- [00:55:42,760 - 00:55:45,760] of course, is proportional,
+- [00:55:45,760 - 00:55:47,760] apart from the factor of mass,
+- [00:55:47,760 - 00:55:50,760] it's equal to dp mu by d tau.
+- [00:55:50,760 - 00:55:53,760] So this is just m times the proper acceleration.
+- [00:55:53,760 - 00:55:55,760] Alright?
+- [00:55:55,760 - 00:55:57,760] So what's on the left here,
+- [00:55:57,760 - 00:55:59,760] apart from the factor of m,
+- [00:55:59,760 - 00:56:02,760] is d mu du by d tau.
+- [00:56:02,760 - 00:56:05,260] And if I multiply it by
+- [00:56:05,260 - 00:56:07,760] u mu on the right-hand side,
+- [00:56:07,760 - 00:56:09,760] it must be equal to zero.
+- [00:56:09,760 - 00:56:11,760] So it follows...
+- [00:56:11,760 - 00:56:16,760] It follows that...
+- [00:56:16,760 - 00:56:21,760] f mu times u sub mu must equal zero.
+- [00:56:21,760 - 00:56:24,760] Oh, we didn't finish this.
+- [00:56:24,760 - 00:56:26,760] I should have said this is equal to zero.
+- [00:56:26,760 - 00:56:28,760] It's equal to zero because
+- [00:56:28,760 - 00:56:30,760] the right-hand side is just one,
+- [00:56:30,760 - 00:56:33,760] and when you differentiate one, you just get zero.
+- [00:56:33,760 - 00:56:35,760] The right-hand side is a constant.
+- [00:56:35,760 - 00:56:39,760] When you differentiate a constant, you get zero.
+- [00:56:39,760 - 00:56:41,760] And what is the expression here?
+- [00:56:41,760 - 00:56:45,760] It's just proportional to the force times the velocity,
+- [00:56:45,760 - 00:56:47,760] what I wrote up here.
+- [00:56:47,760 - 00:56:50,260] So you can see that f
+- [00:56:50,260 - 00:56:52,760] mu times u mu must equal zero.
+- [00:56:52,760 - 00:56:54,760] This is a kinematic fact.
+- [00:56:54,760 - 00:56:56,760] This doesn't depend on anything.
+- [00:56:56,760 - 00:56:58,760] It just depends on the definition of four velocity,
+- [00:56:58,760 - 00:57:00,760] four momentum, sorry, four acceleration,
+- [00:57:00,760 - 00:57:03,760] four-dimensional acceleration, and so forth.
+- [00:57:03,760 - 00:57:06,760] And so it tells us that in a four-dimensional sense,
+- [00:57:06,760 - 00:57:07,760] the force on an object
+- [00:57:07,760 - 00:57:08,760] must be plus or minus zero.
+- [00:57:08,760 - 00:57:11,760] The force on an object must be perpendicular or orthogonal
+- [00:57:11,760 - 00:57:14,760] to the four velocity in this sense,
+- [00:57:14,760 - 00:57:16,760] that that has to be equal to zero.
+- [00:57:16,760 - 00:57:18,760] That means we can't just stick
+- [00:57:18,760 - 00:57:20,760] in any old thing for force.
+- [00:57:20,760 - 00:57:23,760] It's got to satisfy this relationship here.
+- [00:57:23,760 - 00:57:25,760] How do we satisfy it?
+- [00:57:25,760 - 00:57:29,760] Well, it's, as I said, quite similar to the fact
+- [00:57:29,760 - 00:57:32,760] that the magnetic force
+- [00:57:32,760 - 00:57:35,760] is perpendicular to ordinary velocity.
+- [00:57:35,760 - 00:57:38,760] We satisfy that
+- [00:57:38,760 - 00:57:40,760] by a trick.
+- [00:57:40,760 - 00:57:43,260] We made the trick of making
+- [00:57:43,260 - 00:57:45,760] the magnetic field into a tensor,
+- [00:57:45,760 - 00:57:49,760] m n,
+- [00:57:49,760 - 00:57:54,760] and multiplying it by v n.
+- [00:57:54,760 - 00:57:56,760] This is v cross b.
+- [00:57:56,760 - 00:57:59,760] Then when I dotted it into v m,
+- [00:57:59,760 - 00:58:02,760] it was automatically zero.
+- [00:58:02,760 - 00:58:04,760] Exactly the same trick.
+- [00:58:04,760 - 00:58:06,760] Exactly the same trick.
+- [00:58:06,760 - 00:58:08,760] We take f mu
+- [00:58:08,760 - 00:58:11,760] to be f mu nu,
+- [00:58:11,760 - 00:58:13,760] the anti-symmetric tensor,
+- [00:58:13,760 - 00:58:15,760] times the four velocity.
+- [00:58:24,760 - 00:58:25,760] Everybody know what I mean
+- [00:58:25,760 - 00:58:28,760] when I put a lower index on the four velocity.
+- [00:58:28,760 - 00:58:30,760] It just means lowering the index
+- [00:58:30,760 - 00:58:34,760] by changing the sign of the space components.
+- [00:58:34,760 - 00:58:36,760] Alright?
+- [00:58:36,760 - 00:58:39,760] So, if I invent
+- [00:58:39,760 - 00:58:43,760] an anti-symmetric tensor to put here,
+- [00:58:43,760 - 00:58:46,760] and I multiply it by u nu,
+- [00:58:46,760 - 00:58:48,760] guess what?
+- [00:58:48,760 - 00:58:50,760] If I now multiply it
+- [00:58:50,760 - 00:58:52,760] by u mu,
+- [00:58:52,760 - 00:58:55,760] the answer will be zero.
+- [00:58:55,760 - 00:58:58,760] Because f is anti-symmetric.
+- [00:58:58,760 - 00:59:03,760] Let's just write it out explicitly.
+- [00:59:03,760 - 00:59:05,760] If I now multiply it by u mu,
+- [00:59:05,760 - 00:59:08,760] if the force is proportional to f mu nu
+- [00:59:08,760 - 00:59:10,760] times u nu,
+- [00:59:10,760 - 00:59:13,760] and I dot it into u mu,
+- [00:59:13,760 - 00:59:15,760] the answer will be zero,
+- [00:59:15,760 - 00:59:17,760] because f is anti-symmetric.
+- [00:59:17,760 - 00:59:21,760] So this is one way,
+- [00:59:21,760 - 00:59:23,760] it's only one way,
+- [00:59:23,760 - 00:59:25,760] of satisfying the criteria
+- [00:59:25,760 - 00:59:27,760] that the force is perpen-
+- [00:59:27,760 - 00:59:29,760] that the force, when multiplied by the velocity,
+- [00:59:29,760 - 00:59:30,760] is equal to zero,
+- [00:59:30,760 - 00:59:33,760] is to build the force out of an anti-symmetric tensor.
+- [00:59:33,760 - 00:59:34,760] In fact, it's the simplest way.
+- [00:59:35,760 - 00:59:39,760] Well, we have an anti-symmetric tensor,
+- [00:59:39,760 - 00:59:41,760] in fact, we even call it f mu nu,
+- [00:59:41,760 - 00:59:43,760] and it's built up out
+- [00:59:43,760 - 00:59:45,760] of the electric and magnetic fields.
+- [00:59:45,760 - 00:59:48,760] So let's see, let's take this apart.
+- [00:59:48,760 - 00:59:50,760] Here is our equation.
+- [00:59:50,760 - 00:59:52,760] Let's get rid of the intermediate step here.
+- [00:59:52,760 - 00:59:55,760] This is q times f mu nu
+- [00:59:55,760 - 00:59:58,760] times u nu.
+- [00:59:58,760 - 01:00:02,760] And let's look at this for slow velocities first.
+- [01:00:02,760 - 01:00:04,760] Let's first look at it for slow velocities.
+- [01:00:04,760 - 01:00:10,760] We can study it for larger velocities later.
+- [01:00:10,760 - 01:00:13,760] But let's check that for low velocities,
+- [01:00:13,760 - 01:00:18,760] this really is the Lorentz force law.
+- [01:00:18,760 - 01:00:21,760] Let's see how it's related to the Lorentz force law.
+- [01:00:21,760 - 01:00:23,760] First of all, q, that just goes for free,
+- [01:00:23,760 - 01:00:25,760] that's just the electric charge.
+- [01:00:25,760 - 01:00:27,760] f mu nu is going to involve two terms,
+- [01:00:27,760 - 01:00:29,760] electric and magnetic,
+- [01:00:29,760 - 01:00:32,760] and u has two kinds of terms,
+- [01:00:32,760 - 01:00:34,760] the time component and the force.
+- [01:00:34,760 - 01:00:36,760] And the space components of u.
+- [01:00:36,760 - 01:00:38,760] So let's work out some examples.
+- [01:00:38,760 - 01:00:41,760] Let's work out dp,
+- [01:00:41,760 - 01:00:43,760] which one did I work out?
+- [01:00:45,760 - 01:00:47,760] Yeah.
+- [01:00:47,760 - 01:00:52,760] Let's work out dpx by d tau.
+- [01:00:53,760 - 01:00:55,260] Now the first thing is,
+- [01:00:55,260 - 01:00:56,760] as long as we're moving slow,
+- [01:00:56,760 - 01:00:58,760] I'm going to come back in a little while
+- [01:00:58,760 - 01:01:00,760] and discuss what happens when we're moving faster.
+- [01:01:00,760 - 01:01:02,760] As long as we're moving slowly,
+- [01:01:04,760 - 01:01:07,760] dp and tau are the same.
+- [01:01:07,760 - 01:01:10,760] For slow motion, dp and d tau are the same.
+- [01:01:10,760 - 01:01:13,760] So in the non-relativistic limit,
+- [01:01:13,760 - 01:01:16,760] we can just take this to be dp by dt.
+- [01:01:16,760 - 01:01:19,760] As I said, we'll do better in a moment.
+- [01:01:19,760 - 01:01:22,760] I just want to make sure that for slow motion,
+- [01:01:22,760 - 01:01:24,760] we have all the right things.
+- [01:01:24,760 - 01:01:26,760] That's equal to q.
+- [01:01:26,760 - 01:01:28,760] Okay, now let's see what we have.
+- [01:01:28,760 - 01:01:32,760] Mu and mu match here and here.
+- [01:01:32,760 - 01:01:34,760] So this has to be fx,
+- [01:01:34,760 - 01:01:37,760] and then mu can be any one of four terms,
+- [01:01:37,760 - 01:01:41,760] any one of four entries there.
+- [01:01:41,760 - 01:01:46,760] There's first of all ffx, xx, ux.
+- [01:01:46,760 - 01:01:50,760] That's not there because fxx is zero.
+- [01:01:50,760 - 01:01:52,760] So this is gone.
+- [01:01:52,760 - 01:01:58,760] Then there's fxy, uy,
+- [01:02:00,760 - 01:02:03,760] plus fx, y,
+- [01:02:04,760 - 01:02:08,760] xz, uz,
+- [01:02:08,760 - 01:02:15,760] plus fx0, or time, u0.
+- [01:02:15,760 - 01:02:19,760] Okay, let's pull them apart.
+- [01:02:19,760 - 01:02:22,760] What is fx0?
+- [01:02:22,760 - 01:02:28,760] fx0 is electric field.
+- [01:02:28,760 - 01:02:30,760] If one of the indices is zero
+- [01:02:30,760 - 01:02:33,760] and the other one is space,
+- [01:02:33,760 - 01:02:36,760] then this is just the electric field.
+- [01:02:36,760 - 01:02:38,760] So this here is,
+- [01:02:38,760 - 01:02:40,760] we first of all have a term which is q
+- [01:02:40,760 - 01:02:42,760] times the electric field.
+- [01:02:42,760 - 01:02:44,760] They're both x components,
+- [01:02:44,760 - 01:02:47,760] so this is the x component of the electric field.
+- [01:02:47,760 - 01:02:49,760] But what are these?
+- [01:02:49,760 - 01:02:52,760] xy and the xz components,
+- [01:02:52,760 - 01:02:54,760] those are magnetic fields.
+- [01:02:54,760 - 01:02:57,760] So let's see what we have.
+- [01:02:57,760 - 01:03:00,760] fxy, that's f12.
+- [01:03:00,760 - 01:03:01,760] What is f12?
+- [01:03:01,760 - 01:03:06,760] f12 is minus b3.
+- [01:03:06,760 - 01:03:08,760] So this will be q
+- [01:03:08,760 - 01:03:14,760] times uy, b3
+- [01:03:14,760 - 01:03:17,760] with a minus sign.
+- [01:03:17,760 - 01:03:19,760] And then from here,
+- [01:03:19,760 - 01:03:21,760] what is fxz?
+- [01:03:21,760 - 01:03:23,760] That's b2.
+- [01:03:23,760 - 01:03:25,760] No, that's, yes, that's b2.
+- [01:03:25,760 - 01:03:27,760] So this will be plus
+- [01:03:27,760 - 01:03:29,760] u,
+- [01:03:31,760 - 01:03:35,760] u3, b2.
+- [01:03:35,760 - 01:03:37,760] You see what we're getting?
+- [01:03:37,760 - 01:03:39,760] We're getting the cross product
+- [01:03:39,760 - 01:03:42,760] of the velocity with the magnetic field.
+- [01:03:42,760 - 01:03:44,760] To the extent that we can say
+- [01:03:44,760 - 01:03:47,760] that u is the same as v,
+- [01:03:47,760 - 01:03:51,760] we've reproduced the force law of Lorentz.
+- [01:03:55,760 - 01:03:58,760] v cross b plus q times e.
+- [01:03:58,760 - 01:04:00,760] You see where they come from.
+- [01:04:01,760 - 01:04:06,760] Let's be a little more careful.
+- [01:04:06,760 - 01:04:09,760] Let's write it more carefully
+- [01:04:09,760 - 01:04:11,760] and not do the nonrelativistic limit.
+- [01:04:11,760 - 01:04:13,760] Let's do it more carefully.
+- [01:04:13,760 - 01:04:15,760] First of all, we have dp mu
+- [01:04:15,760 - 01:04:16,760] by d tau.
+- [01:04:16,760 - 01:04:19,760] That is dp mu by dt
+- [01:04:19,760 - 01:04:22,760] times gamma.
+- [01:04:22,760 - 01:04:24,760] Times dt by d tau.
+- [01:04:24,760 - 01:04:26,260] dt by d tau, let me
+- [01:04:26,260 - 01:04:27,760] just write down what gamma is.
+- [01:04:27,760 - 01:04:29,760] Gamma is
+- [01:04:29,760 - 01:04:32,760] the square root of 1 minus v squared.
+- [01:04:32,760 - 01:04:34,760] Where v is the velocity of the particle.
+- [01:04:34,760 - 01:04:37,760] Ordinary, ordinary velocity.
+- [01:04:37,760 - 01:04:41,760] So this is dp by dt times gamma.
+- [01:04:41,760 - 01:04:43,760] Let's see what's on the right hand side.
+- [01:04:43,760 - 01:04:45,760] On the right hand side, we have things like,
+- [01:04:45,760 - 01:04:47,760] let's take this term here,
+- [01:04:47,760 - 01:04:51,760] q fxy uy.
+- [01:04:51,760 - 01:04:56,760] But uy is the same as vy times gamma.
+- [01:04:56,760 - 01:04:58,760] Likewise,
+- [01:04:59,760 - 01:05:07,760] for all the terms,
+- [01:05:07,760 - 01:05:10,760] uy, uz, and u0,
+- [01:05:10,760 - 01:05:12,760] let's see,
+- [01:05:12,760 - 01:05:21,760] we have q fxy vy.
+- [01:05:21,760 - 01:05:23,760] In other words, this is going to be
+- [01:05:23,760 - 01:05:27,760] v cross b times gamma.
+- [01:05:29,760 - 01:05:31,760] And the last term
+- [01:05:31,760 - 01:05:33,760] is just electric field
+- [01:05:33,760 - 01:05:37,760] times u0,
+- [01:05:37,760 - 01:05:39,760] and u0 is just gamma.
+- [01:05:39,760 - 01:05:46,760] From the u's here.
+- [01:05:46,760 - 01:05:49,760] The u's are v's times gamma.
+- [01:05:49,760 - 01:05:52,760] And the last one here is just gamma.
+- [01:05:52,760 - 01:05:53,760] Alright?
+- [01:05:53,760 - 01:05:55,760] Okay, so the gamma's cancel.
+- [01:05:55,760 - 01:05:57,760] And guess what?
+- [01:05:57,760 - 01:06:01,760] We get exactly what, uh,
+- [01:06:01,760 - 01:06:04,760] what Lorentz had.
+- [01:06:04,760 - 01:06:08,760] Except there's something slightly different.
+- [01:06:08,760 - 01:06:11,760] And that's that p is not m times v,
+- [01:06:11,760 - 01:06:13,760] but it's m times u.
+- [01:06:13,760 - 01:06:16,760] So there is a hidden gamma in here.
+- [01:06:16,760 - 01:06:19,760] The relativity is hidden in the definition of gamma.
+- [01:06:19,760 - 01:06:23,760] We can really write this as d by dt,
+- [01:06:23,760 - 01:06:25,760] not of mv,
+- [01:06:25,760 - 01:06:27,760] but of mv times u0.
+- [01:06:27,760 - 01:06:29,760] So it's m times gamma.
+- [01:06:29,760 - 01:06:32,760] Gamma changes along the trajectory.
+- [01:06:32,760 - 01:06:34,760] And so,
+- [01:06:34,760 - 01:06:36,760] gamma is not a constant.
+- [01:06:36,760 - 01:06:37,760] But,
+- [01:06:37,760 - 01:06:39,760] it is dp by dt.
+- [01:06:39,760 - 01:06:42,760] So it looks exactly like Lorentz,
+- [01:06:42,760 - 01:06:44,760] with the exception that we have to calculate p
+- [01:06:44,760 - 01:06:45,760] in the right way,
+- [01:06:45,760 - 01:06:47,760] as proper, uh,
+- [01:06:47,760 - 01:06:49,760] in terms of proper velocity.
+- [01:06:49,760 - 01:06:51,760] So we've, we've
+- [01:06:51,760 - 01:06:53,760] reproduced...
+- [01:06:53,760 - 01:06:55,760] In the first line,
+- [01:06:55,760 - 01:06:56,760] the bottom board,
+- [01:06:56,760 - 01:06:57,760] the bottom board,
+- [01:06:57,760 - 01:06:59,760] isn't that the q times e?
+- [01:06:59,760 - 01:07:00,760] Yeah.
+- [01:07:00,760 - 01:07:05,760] Good.
+- [01:07:05,760 - 01:07:08,760] Absolutely.
+- [01:07:18,760 - 01:07:20,760] Okay, that's the,
+- [01:07:20,760 - 01:07:22,760] that is the Lorentz force law
+- [01:07:22,760 - 01:07:24,760] as derived by,
+- [01:07:24,760 - 01:07:25,760] and the logic was nice,
+- [01:07:25,760 - 01:07:26,760] the logic was nice.
+- [01:07:26,760 - 01:07:28,760] We first proved
+- [01:07:28,760 - 01:07:29,760] that
+- [01:07:29,760 - 01:07:31,760] the acceleration
+- [01:07:31,760 - 01:07:34,760] and the velocity are orthogonal
+- [01:07:34,760 - 01:07:36,760] in the four-dimensional sense.
+- [01:07:36,760 - 01:07:38,760] That told us that the force
+- [01:07:38,760 - 01:07:41,760] is orthogonal to the velocity.
+- [01:07:43,760 - 01:07:44,760] The only,
+- [01:07:44,760 - 01:07:46,760] the only simple way to do that
+- [01:07:46,760 - 01:07:49,760] is to build the force out of an anti-symmetric tensor
+- [01:07:49,760 - 01:07:51,760] so that when we dot it back into the velocity,
+- [01:07:51,760 - 01:07:52,760] we get zero.
+- [01:07:52,760 - 01:07:54,760] And then, we just worked it out.
+- [01:07:54,760 - 01:07:56,760] We just worked it out,
+- [01:07:56,760 - 01:07:58,760] making the identifications
+- [01:07:58,760 - 01:08:01,760] with an older-fashioned kind of notation.
+- [01:08:01,760 - 01:08:03,760] This is just purely notation.
+- [01:08:03,760 - 01:08:04,760] The definition's here.
+- [01:08:04,760 - 01:08:06,760] This is b, this is e.
+- [01:08:06,760 - 01:08:08,760] When it's all put together,
+- [01:08:08,760 - 01:08:10,760] it simply has the simple form
+- [01:08:10,760 - 01:08:13,760] of a, uh, of a four-vector equation.
+- [01:08:13,760 - 01:08:16,760] Because it's an equation between four vectors
+- [01:08:16,760 - 01:08:18,760] on both sides,
+- [01:08:18,760 - 01:08:21,760] it will be the same in every reference frame.
+- [01:08:21,760 - 01:08:22,760] Okay.
+- [01:08:22,760 - 01:08:23,760] Would you call it,
+- [01:08:23,760 - 01:08:24,760] would you call it,
+- [01:08:24,760 - 01:08:27,760] that derivation math or physics?
+- [01:08:27,760 - 01:08:31,760] Uh, look, once,
+- [01:08:31,760 - 01:08:33,760] that's a bit of a buffer for me.
+- [01:08:33,760 - 01:08:34,760] Is there physics in there,
+- [01:08:34,760 - 01:08:35,760] or is it just...
+- [01:08:35,760 - 01:08:36,760] Yeah, there's, look,
+- [01:08:36,760 - 01:08:37,760] there's, there's, there's,
+- [01:08:37,760 - 01:08:38,760] there's heavyweight physics in there.
+- [01:08:38,760 - 01:08:40,760] The heavyweight physics is that the laws of nature
+- [01:08:40,760 - 01:08:43,760] are the same in every reference frame.
+- [01:08:43,760 - 01:08:45,760] Uh,
+- [01:08:45,760 - 01:08:46,760] that went in,
+- [01:08:46,760 - 01:08:47,760] and the other thing that went in,
+- [01:08:47,760 - 01:08:49,760] I mean, if we're doing it, you know,
+- [01:08:49,760 - 01:08:51,760] we wouldn't really derive it from nothing.
+- [01:08:51,760 - 01:08:52,760] There are other force laws,
+- [01:08:52,760 - 01:08:54,760] other kinds of force laws.
+- [01:08:54,760 - 01:08:55,760] Uh,
+- [01:08:55,760 - 01:08:57,760] we certainly had,
+- [01:08:57,760 - 01:08:59,760] or I certainly had in the back of my mind
+- [01:08:59,760 - 01:09:01,760] that we were talking about things with electric
+- [01:09:01,760 - 01:09:03,760] and magnetic fields,
+- [01:09:03,760 - 01:09:08,760] but, um,
+- [01:09:08,760 - 01:09:10,760] on the other hand,
+- [01:09:10,760 - 01:09:12,760] not very much was used.
+- [01:09:12,760 - 01:09:14,260] We used the idea that if
+- [01:09:14,260 - 01:09:15,760] an equation is a four-vector equation,
+- [01:09:15,760 - 01:09:16,760] it's the same in every reference frame.
+- [01:09:16,760 - 01:09:18,760] That was the most important thing.
+- [01:09:18,760 - 01:09:21,760] Uh, other pieces, other things we used?
+- [01:09:21,760 - 01:09:22,760] We used, for example,
+- [01:09:22,760 - 01:09:23,760] the fact that it's a,
+- [01:09:23,760 - 01:09:25,760] that it's a second-order differential equation.
+- [01:09:25,760 - 01:09:27,760] This is dx by d tau,
+- [01:09:27,760 - 01:09:30,760] so this is d second x by d tau squared.
+- [01:09:30,760 - 01:09:33,760] Why isn't it d third x by d tau squared,
+- [01:09:33,760 - 01:09:34,760] or d fourth x?
+- [01:09:34,760 - 01:09:36,760] Physics goes into that.
+- [01:09:36,760 - 01:09:38,760] Uh, there's plenty of physics that goes into that,
+- [01:09:38,760 - 01:09:40,760] that the equations of motion are second-order,
+- [01:09:40,760 - 01:09:42,760] which is equivalent to the statement,
+- [01:09:42,760 - 01:09:43,760] but it's a physical statement,
+- [01:09:43,760 - 01:09:45,760] it's not a mathematical statement,
+- [01:09:45,760 - 01:09:47,760] that in order to predict the future,
+- [01:09:47,760 - 01:09:49,260] you need to know the
+- [01:09:49,260 - 01:09:50,760] position and velocity of every particle.
+- [01:09:50,760 - 01:09:52,760] You don't need to know the acceleration.
+- [01:09:52,760 - 01:09:54,760] The equation gives you the acceleration.
+- [01:09:54,760 - 01:09:57,760] Uh, the equation could have been
+- [01:09:57,760 - 01:09:59,760] that the derivative of the acceleration
+- [01:09:59,760 - 01:10:01,760] is equal to the force,
+- [01:10:01,760 - 01:10:03,760] and then you would also need to know the acceleration
+- [01:10:03,760 - 01:10:05,760] at the, in the beginning.
+- [01:10:05,760 - 01:10:07,760] But, uh, physics tells you that that's not,
+- [01:10:07,760 - 01:10:09,760] uh, experimental physics tells you that's,
+- [01:10:09,760 - 01:10:11,760] that's not, uh, correct.
+- [01:10:11,760 - 01:10:14,760] So it's a bit of both, I mean, uh...
+- [01:10:14,760 - 01:10:18,760] So, if someone thought of this from scratch,
+- [01:10:18,760 - 01:10:19,760] just by analogy,
+- [01:10:19,760 - 01:10:21,760] potentially they'd have gotten
+- [01:10:21,760 - 01:10:22,760] to check it experimentally,
+- [01:10:22,760 - 01:10:24,760] because it's physics.
+- [01:10:24,760 - 01:10:26,760] Well, you can call it what you want,
+- [01:10:26,760 - 01:10:28,760] I mean, it is what it is.
+- [01:10:28,760 - 01:10:30,760] It is what it is.
+- [01:10:32,760 - 01:10:35,760] Let's talk about the transformation properties
+- [01:10:35,760 - 01:10:37,760] of the electromagnetic field tensor.
+- [01:10:37,760 - 01:10:40,760] How it transforms.
+- [01:10:40,760 - 01:10:43,760] Uh, again, as a homework assignment,
+- [01:10:43,760 - 01:10:45,760] I can assign you to work out
+- [01:10:45,760 - 01:10:47,760] the transformation properties
+- [01:10:47,760 - 01:10:49,760] of all of the components,
+- [01:10:49,760 - 01:10:52,760] of the electric and magnetic fields.
+- [01:10:52,760 - 01:10:56,760] In particular, the transformation properties
+- [01:10:56,760 - 01:10:59,760] when you do a Lorentz transformation
+- [01:10:59,760 - 01:11:01,760] along the x-axis.
+- [01:11:01,760 - 01:11:03,760] When you have two observers moving relative
+- [01:11:03,760 - 01:11:05,760] to each other along the x-axis.
+- [01:11:07,760 - 01:11:09,760] I could have taken the y-axis,
+- [01:11:09,760 - 01:11:11,760] but, uh, it would be no different.
+- [01:11:11,760 - 01:11:13,760] Except that x would become y.
+- [01:11:13,760 - 01:11:15,760] Okay.
+- [01:11:17,760 - 01:11:19,760] The way to think about it,
+- [01:11:19,760 - 01:11:22,760] is to first write down the transformation law
+- [01:11:22,760 - 01:11:24,760] for the product of two vectors.
+- [01:11:24,760 - 01:11:26,760] The simplest tensor,
+- [01:11:26,760 - 01:11:28,760] we want to work out the transformation laws
+- [01:11:28,760 - 01:11:30,760] for a tensor.
+- [01:11:30,760 - 01:11:33,760] All tensors transform the same way.
+- [01:11:33,760 - 01:11:36,760] So if we work out the transformation law
+- [01:11:36,760 - 01:11:38,760] for a simple tensor composed of a product
+- [01:11:38,760 - 01:11:40,760] of two vectors,
+- [01:11:40,760 - 01:11:42,760] you'll see, as I'll show,
+- [01:11:42,760 - 01:11:44,760] that that tells us everything we need to know.
+- [01:11:44,760 - 01:11:46,760] So, for example, supposing we want to know,
+- [01:11:46,760 - 01:11:48,760] in the primed reference frame,
+- [01:11:48,760 - 01:11:51,760] the primed reference frame is the one moving,
+- [01:11:51,760 - 01:11:54,760] let's say, to the right, with velocity v.
+- [01:11:54,760 - 01:11:56,760] I'm prime, you're unprimed.
+- [01:11:56,760 - 01:11:58,760] Okay? And I move to the right.
+- [01:11:58,760 - 01:12:00,760] Uh, let me just write down for you,
+- [01:12:00,760 - 01:12:02,760] to remind you,
+- [01:12:02,760 - 01:12:06,760] the transformation laws of the coordinates.
+- [01:12:06,760 - 01:12:09,760] And let's call them x1,
+- [01:12:11,760 - 01:12:14,760] x1, which is what I usually call,
+- [01:12:14,760 - 01:12:17,760] x prime,
+- [01:12:17,760 - 01:12:19,760] x prime,
+- [01:12:19,760 - 01:12:21,760] is equal to x,
+- [01:12:21,760 - 01:12:23,760] which is x1,
+- [01:12:23,760 - 01:12:25,760] minus vt, which is
+- [01:12:25,760 - 01:12:29,760] minus vx0,
+- [01:12:29,760 - 01:12:33,760] divided by square root of 1 minus v squared,
+- [01:12:33,760 - 01:12:36,760] x0 prime,
+- [01:12:36,760 - 01:12:38,760] this is t prime,
+- [01:12:38,760 - 01:12:40,760] oops,
+- [01:12:40,760 - 01:12:43,760] is equal to v,
+- [01:12:43,760 - 01:12:45,760] no, is equal to 1,
+- [01:12:47,760 - 01:12:51,760] which is equal to x0,
+- [01:12:51,760 - 01:12:54,760] minus vx1,
+- [01:12:54,760 - 01:12:57,760] divided by square root of 1 minus v squared,
+- [01:12:57,760 - 01:13:00,760] and what about x2 and x3?
+- [01:13:00,760 - 01:13:04,760] x2, x2 prime is equal to x2,
+- [01:13:04,760 - 01:13:06,760] is a y and z.
+- [01:13:17,760 - 01:13:21,760] This is the transformation property for all vectors.
+- [01:13:21,760 - 01:13:24,760] All vectors transform the same way.
+- [01:13:24,760 - 01:13:27,260] Alright? So now let's work out
+- [01:13:27,260 - 01:13:29,760] the transformation property of a tensor.
+- [01:13:29,760 - 01:13:32,760] Let's, for example, take two vectors,
+- [01:13:32,760 - 01:13:34,760] let's make a tensor out of two vectors,
+- [01:13:34,760 - 01:13:36,760] a and b.
+- [01:13:36,760 - 01:13:38,760] Alright?
+- [01:13:38,760 - 01:13:40,760] In other words, a mu b nu.
+- [01:13:40,760 - 01:13:43,260] Let's concentrate on the first
+- [01:13:43,260 - 01:13:45,760] component of the electric field,
+- [01:13:45,760 - 01:13:47,760] sorry, the second component of the electric field,
+- [01:13:47,760 - 01:13:49,760] which one do I want?
+- [01:13:55,760 - 01:13:57,760] No.
+- [01:13:57,760 - 01:14:00,760] The first component of the electric field,
+- [01:14:03,760 - 01:14:05,760] in the primed reference frame.
+- [01:14:05,760 - 01:14:07,760] Now, what is ex?
+- [01:14:07,760 - 01:14:15,760] Ex is really f0,1 prime.
+- [01:14:15,760 - 01:14:17,760] I'm trying to find the prime.
+- [01:14:17,760 - 01:14:21,760] I'm trying to find f0,1 prime,
+- [01:14:21,760 - 01:14:25,760] assuming that I know things in the unprimed frame.
+- [01:14:25,760 - 01:14:29,760] Now, f0 prime is like,
+- [01:14:29,760 - 01:14:31,760] I'm going to write not
+- [01:14:31,760 - 01:14:33,760] equal, but is sort of like,
+- [01:14:33,760 - 01:14:36,760] the product of two vectors,
+- [01:14:36,760 - 01:14:38,760] a0, b1.
+- [01:14:38,760 - 01:14:41,760] This would also be a component of a tensor.
+- [01:14:41,760 - 01:14:43,760] In fact, it would be
+- [01:14:43,760 - 01:14:45,760] the 0,1 component of a tensor.
+- [01:14:45,760 - 01:14:48,760] 1 does not mean prime here.
+- [01:14:48,760 - 01:14:54,760] Let's calculate a0, b1 prime.
+- [01:14:54,760 - 01:14:56,760] How do we do that?
+- [01:14:56,760 - 01:14:59,760] Well, we know what a0 prime is.
+- [01:14:59,760 - 01:15:04,760] Here's how the 0 component of a vector changes.
+- [01:15:04,760 - 01:15:06,760] We know what the 1 component
+- [01:15:06,760 - 01:15:08,760] of a vector, how it changes.
+- [01:15:08,760 - 01:15:10,760] So all we have to do is substitute.
+- [01:15:10,760 - 01:15:12,760] Let's substitute.
+- [01:15:12,760 - 01:15:13,760] What is a0 prime?
+- [01:15:13,760 - 01:15:17,760] a0 prime is built out of a0 and a1,
+- [01:15:17,760 - 01:15:20,760] the same way that x0 prime is
+- [01:15:20,760 - 01:15:23,760] built out of the components x0 and x1.
+- [01:15:23,760 - 01:15:25,760] Let's see if we can guess what it is.
+- [01:15:25,760 - 01:15:33,760] a0 prime is going to be a0 minus v a1,
+- [01:15:33,760 - 01:15:35,760] sorry, a, I better put
+- [01:15:35,760 - 01:15:37,760] the indices in the right place,
+- [01:15:37,760 - 01:15:41,760] a0 v a1,
+- [01:15:41,760 - 01:15:45,760] divided by square root of 1 minus v squared.
+- [01:15:47,760 - 01:15:49,760] That's a0 prime.
+- [01:15:49,760 - 01:15:51,760] Now what about b1 prime?
+- [01:15:51,760 - 01:15:54,260] b1 prime, we have to see
+- [01:15:54,260 - 01:15:56,760] how the first components of vectors change.
+- [01:15:56,760 - 01:16:05,760] That's going to be b1 minus v b0,
+- [01:16:05,760 - 01:16:07,760] divided by square root of 1 minus v squared.
+- [01:16:07,760 - 01:16:09,760] Does everybody see what I've done?
+- [01:16:09,760 - 01:16:12,260] I've said that e x
+- [01:16:12,260 - 01:16:14,760] is a component of a tensor,
+- [01:16:14,760 - 01:16:17,760] the 0 1 component of a tensor.
+- [01:16:17,760 - 01:16:20,260] Just as an exercise, I'm going
+- [01:16:20,260 - 01:16:22,760] to calculate how a similar tensor,
+- [01:16:22,760 - 01:16:25,760] namely a mu b nu transforms.
+- [01:16:25,760 - 01:16:28,260] I'm going to see what happens to the
+- [01:16:28,260 - 01:16:30,760] 0 1 component of it in the primed frame.
+- [01:16:30,760 - 01:16:33,760] To do that, all I have to
+- [01:16:33,760 - 01:16:36,760] do is substitute in the 0 component,
+- [01:16:36,760 - 01:16:37,760] the prime 0 component,
+- [01:16:37,760 - 01:16:40,760] that I get from this equation over here.
+- [01:16:40,760 - 01:16:43,760] The 1 component of the primed b,
+- [01:16:43,760 - 01:16:46,760] that I get from this equation over here.
+- [01:16:46,760 - 01:16:48,760] That's these two factors.
+- [01:16:48,760 - 01:16:50,760] Is that clear? Anybody not follow it?
+- [01:16:50,760 - 01:16:51,760] Good.
+- [01:16:51,760 - 01:16:53,260] Alright, now let's multiply them
+- [01:16:53,260 - 01:16:54,760] together and see what we get.
+- [01:16:54,760 - 01:16:57,260] First of all, we're going to get
+- [01:16:57,260 - 01:16:59,760] 1 divided by 1 minus v squared.
+- [01:16:59,760 - 01:17:01,760] That's the easy thing.
+- [01:17:01,760 - 01:17:03,760] Just multiply these two together.
+- [01:17:03,760 - 01:17:06,760] Now, next we get,
+- [01:17:07,760 - 01:17:11,760] a 0 b 1.
+- [01:17:11,760 - 01:17:14,760] That's a component of the corresponding
+- [01:17:14,760 - 01:17:17,760] tensor in the unprimed reference frame.
+- [01:17:17,760 - 01:17:19,760] We'll use that.
+- [01:17:19,760 - 01:17:22,760] Now we get minus v,
+- [01:17:22,760 - 01:17:25,760] a 1 b 1,
+- [01:17:25,760 - 01:17:29,760] minus v, a 0 b 0.
+- [01:17:29,760 - 01:17:33,760] That comes from the a 0 b 0 term here,
+- [01:17:33,760 - 01:17:35,760] and the a 1 b 1 term here.
+- [01:17:35,760 - 01:17:37,760] And finally,
+- [01:17:37,760 - 01:17:39,760] plus v squared,
+- [01:17:39,760 - 01:17:41,760] a 1 b 0.
+- [01:17:50,760 - 01:17:53,760] Now, the only unusual thing
+- [01:17:53,760 - 01:17:56,760] about f is that it's anti-symmetric.
+- [01:17:56,760 - 01:17:59,260] We could guess, we could guess now what
+- [01:17:59,260 - 01:18:01,760] the transformation property of f 0 1 is.
+- [01:18:01,760 - 01:18:03,760] Let's make the guess.
+- [01:18:03,760 - 01:18:07,760] f 0 1 prime,
+- [01:18:07,760 - 01:18:09,760] is equal,
+- [01:18:09,760 - 01:18:11,760] to f 0 1,
+- [01:18:11,760 - 01:18:13,760] that's from here,
+- [01:18:13,760 - 01:18:14,760] from here,
+- [01:18:14,760 - 01:18:16,760] minus v,
+- [01:18:16,760 - 01:18:18,760] f 1 1,
+- [01:18:18,760 - 01:18:20,760] this is f 1 1,
+- [01:18:20,760 - 01:18:23,760] minus v, f 0 0,
+- [01:18:23,760 - 01:18:25,760] plus v squared,
+- [01:18:25,760 - 01:18:27,760] f 1 0.
+- [01:18:27,760 - 01:18:28,760] That's this.
+- [01:18:28,760 - 01:18:30,760] All divided,
+- [01:18:30,760 - 01:18:32,760] by 1 minus v squared.
+- [01:18:32,760 - 01:18:36,760] Okay.
+- [01:18:36,760 - 01:18:37,760] I've said,
+- [01:18:37,760 - 01:18:40,760] a times b transforms as a tensor.
+- [01:18:40,760 - 01:18:43,760] Here's its transformation properties.
+- [01:18:43,760 - 01:18:46,260] I know it just straightforwardly from
+- [01:18:46,260 - 01:18:48,760] the transformation properties of the two vectors.
+- [01:18:48,760 - 01:18:51,760] And now I identify the components of a b,
+- [01:18:51,760 - 01:18:54,760] with the components of a tensor.
+- [01:18:54,760 - 01:18:57,760] This is how a tensor transforms.
+- [01:18:57,760 - 01:19:00,760] But an anti-symmetric tensor is especially simple.
+- [01:19:00,760 - 01:19:03,760] f 1 1 and f 0 0 aren't there.
+- [01:19:03,760 - 01:19:05,760] So we can erase them.
+- [01:19:05,760 - 01:19:09,760] What about f 0 1 and f 1 0?
+- [01:19:09,760 - 01:19:11,760] They're the minus of each other.
+- [01:19:11,760 - 01:19:14,260] So this becomes f 0
+- [01:19:14,260 - 01:19:16,760] 1 times 1 minus v squared.
+- [01:19:16,760 - 01:19:20,760] And the whole thing is just f 0 1.
+- [01:19:20,760 - 01:19:22,760] Oh my goodness,
+- [01:19:22,760 - 01:19:24,760] it looks like f 0 1 prime
+- [01:19:24,760 - 01:19:26,760] is the same as f 0 1.
+- [01:19:26,760 - 01:19:28,760] So this is f 0 1,
+- [01:19:28,760 - 01:19:30,760] and this is f 0 1.
+- [01:19:30,760 - 01:19:32,760] So this is f 0 1,
+- [01:19:32,760 - 01:19:34,760] and this is f 0 1.
+- [01:19:34,760 - 01:19:36,260] So f 0 1 prime is
+- [01:19:36,260 - 01:19:37,760] the same as f 0 1.
+- [01:19:37,760 - 01:19:39,760] And that's correct.
+- [01:19:39,760 - 01:19:41,760] What does that say?
+- [01:19:41,760 - 01:19:43,760] That says that if two
+- [01:19:43,760 - 01:19:45,760] observers are moving down the axis,
+- [01:19:45,760 - 01:19:49,760] and there's an electric field along the axis,
+- [01:19:49,760 - 01:19:51,760] okay,
+- [01:19:51,760 - 01:19:54,760] we're doing a Lorentz transformation along the one axis,
+- [01:19:54,760 - 01:19:57,260] and we're looking at the component
+- [01:19:57,260 - 01:19:59,760] of the field along the one axis.
+- [01:19:59,760 - 01:20:02,760] It says that the component of the field
+- [01:20:02,760 - 01:20:04,760] along the direction
+- [01:20:04,760 - 01:20:06,760] of motion is unchanged.
+- [01:20:06,760 - 01:20:08,760] It's the same.
+- [01:20:08,760 - 01:20:10,760] And that's a true fact.
+- [01:20:10,760 - 01:20:13,760] That the component of the electric field,
+- [01:20:13,760 - 01:20:15,760] and it's also true of the magnetic field,
+- [01:20:15,760 - 01:20:17,760] maybe we'll do it.
+- [01:20:19,760 - 01:20:22,760] It's also true of the magnetic field.
+- [01:20:22,760 - 01:20:24,760] In fact, the electric and magnetic
+- [01:20:24,760 - 01:20:26,760] field transform very similar to each other.
+- [01:20:28,760 - 01:20:31,760] But now let's do a case which is less trivial,
+- [01:20:31,760 - 01:20:33,760] where there is an interesting
+- [01:20:34,760 - 01:20:36,760] transformation law.
+- [01:20:38,760 - 01:20:41,760] Let's work out the transformation property
+- [01:20:41,760 - 01:20:44,260] of a component of the electric
+- [01:20:44,260 - 01:20:46,760] field perpendicular to the direction of motion.
+- [01:20:49,760 - 01:20:52,760] Well, what's the transformation of a 0?
+- [01:20:52,760 - 01:20:54,760] We had it worked out over here.
+- [01:20:54,760 - 01:20:56,760] The transformation of
+- [01:20:56,760 - 01:20:58,760] prime.
+- [01:20:58,760 - 01:21:01,760] The transformation of a 0
+- [01:21:01,760 - 01:21:03,760] is
+- [01:21:04,760 - 01:21:10,760] unprimed a 0 minus v a 1
+- [01:21:10,760 - 01:21:14,760] again, divided by square root of 1 minus v squared.
+- [01:21:14,760 - 01:21:16,760] That's a 0 prime.
+- [01:21:16,760 - 01:21:18,760] And then b 2
+- [01:21:20,760 - 01:21:22,760] This is, incidentally, this b
+- [01:21:22,760 - 01:21:24,760] here is not the magnetic field.
+- [01:21:24,760 - 01:21:26,760] Don't get confused.
+- [01:21:26,760 - 01:21:28,760] This is just two vectors, any two vectors.
+- [01:21:28,760 - 01:21:31,260] What is the transformation property of
+- [01:21:31,260 - 01:21:33,760] the second component of a vector?
+- [01:21:34,760 - 01:21:36,760] The y component in this case,
+- [01:21:36,760 - 01:21:38,760] when I transform along the x-axis.
+- [01:21:38,760 - 01:21:40,760] Nothing changes.
+- [01:21:40,760 - 01:21:42,760] So this is just b 2.
+- [01:21:44,760 - 01:21:45,760] Let's see what we have.
+- [01:21:45,760 - 01:21:47,760] We have a 0 b 2 divided
+- [01:21:47,760 - 01:21:49,760] by square root of 1 minus v squared.
+- [01:21:49,760 - 01:21:52,760] a 0 b 2
+- [01:21:52,760 - 01:21:55,760] over square root of 1 minus v squared.
+- [01:21:55,760 - 01:21:58,760] Well, that suggests that
+- [01:21:58,760 - 01:22:00,760] we replace this
+- [01:22:00,760 - 01:22:02,760] by f 0 2
+- [01:22:02,760 - 01:22:05,760] divided by square root of 1 minus v squared.
+- [01:22:08,760 - 01:22:10,760] That's the first term.
+- [01:22:10,760 - 01:22:12,760] And then minus v
+- [01:22:12,760 - 01:22:14,760] times a 1 b 2.
+- [01:22:14,760 - 01:22:16,760] That's f 1 2.
+- [01:22:16,760 - 01:22:19,760] f 1 2
+- [01:22:19,760 - 01:22:22,760] divided by square root of 1 minus v squared.
+- [01:22:24,760 - 01:22:26,760] Okay, let's see what this says.
+- [01:22:26,760 - 01:22:28,760] This
+- [01:22:28,760 - 01:22:30,760] was the primed component
+- [01:22:30,760 - 01:22:33,760] e 2 prime.
+- [01:22:33,760 - 01:22:35,760] e 2 prime
+- [01:22:35,760 - 01:22:37,760] is equal
+- [01:22:37,760 - 01:22:39,760] this is e 2
+- [01:22:42,760 - 01:22:44,760] minus v
+- [01:22:44,760 - 01:22:46,760] now what is f 1 2?
+- [01:22:49,760 - 01:22:52,760] f 1 2 is plus or minus b 3.
+- [01:22:52,760 - 01:22:54,760] Which is it?
+- [01:22:56,760 - 01:22:58,760] I think it's b 3 minus b 3.
+- [01:22:58,760 - 01:22:59,760] I forgot.
+- [01:22:59,760 - 01:23:02,760] minus b 3
+- [01:23:02,760 - 01:23:04,760] minus b 3
+- [01:23:04,760 - 01:23:07,760] so it must be plus v b 3
+- [01:23:07,760 - 01:23:12,760] divided by square root of 1 minus v squared.
+- [01:23:12,760 - 01:23:17,760] So we see that
+- [01:23:17,760 - 01:23:19,760] this is
+- [01:23:19,760 - 01:23:21,760] e 2
+- [01:23:21,760 - 01:23:23,760] e 2 prime
+- [01:23:23,760 - 01:23:25,760] does change
+- [01:23:25,760 - 01:23:27,760] and it's equal to e 2 plus v b 3.
+- [01:23:27,760 - 01:23:29,760] times gamma.
+- [01:23:29,760 - 01:23:31,760] If the velocity is slow
+- [01:23:31,760 - 01:23:33,760] then gamma is close to 1.
+- [01:23:33,760 - 01:23:35,760] And it just says
+- [01:23:35,760 - 01:23:37,760] that the electric field
+- [01:23:37,760 - 01:23:39,760] mixes in a little bit
+- [01:23:39,760 - 01:23:41,760] the second component of the electric field
+- [01:23:41,760 - 01:23:42,760] mixes in with a little bit of
+- [01:23:42,760 - 01:23:43,760] the third component of the magnetic field.
+- [01:23:43,760 - 01:23:45,760] This was for a transformation along the x axis.
+- [01:23:45,760 - 01:23:47,760] Along the 1 axis.
+- [01:23:47,760 - 01:23:49,760] You can work out in the same way
+- [01:23:49,760 - 01:23:51,760] the details of all of the transformation properties
+- [01:23:51,760 - 01:23:53,760] of all the components of the magnetic field.
+- [01:23:53,760 - 01:23:55,760] So you can see
+- [01:23:55,760 - 01:23:57,760] all of the transformation properties
+- [01:23:57,760 - 01:23:59,760] of all of the components
+- [01:23:59,760 - 01:24:01,760] of the electric and magnetic field
+- [01:24:01,760 - 01:24:03,760] and find out if you know them in one frame
+- [01:24:03,760 - 01:24:05,760] the stationary frame
+- [01:24:05,760 - 01:24:07,760] what they are in the other frame.
+- [01:24:07,760 - 01:24:10,760] In particular you can check
+- [01:24:10,760 - 01:24:12,760] that if you have
+- [01:24:12,760 - 01:24:15,760] only a magnetic field in one frame
+- [01:24:15,760 - 01:24:17,760] that if you move relative to it
+- [01:24:17,760 - 01:24:19,760] you see an electric and a magnetic field.
+- [01:24:22,760 - 01:24:24,760] And you can work out the directions
+- [01:24:24,760 - 01:24:26,760] that the electric and the magnetic field will point in.
+- [01:24:29,760 - 01:24:31,760] And these transformation properties
+- [01:24:31,760 - 01:24:33,760] for the electric and magnetic field
+- [01:24:33,760 - 01:24:35,760] will always be such
+- [01:24:35,760 - 01:24:37,760] that the equations of motion
+- [01:24:37,760 - 01:24:39,760] in any frame of reference
+- [01:24:39,760 - 01:24:41,760] for the charged particle are the same.
+- [01:24:41,760 - 01:24:43,760] Okay.
+- [01:24:43,760 - 01:24:45,760] Okay, any questions about the charged particle
+- [01:24:45,760 - 01:24:47,760] in the electric and magnetic field?
+- [01:24:50,760 - 01:24:53,760] If you have a current flowing through a wire
+- [01:24:53,760 - 01:24:55,760] and you've got a magnetic field
+- [01:24:55,760 - 01:24:58,760] what sort of velocity do you have to go at
+- [01:24:58,760 - 01:25:01,760] in order to make that magnetic field equal to zero?
+- [01:25:05,760 - 01:25:06,760] Sure.
+- [01:25:06,760 - 01:25:08,760] Why?
+- [01:25:08,760 - 01:25:11,760] To go along with that charge?
+- [01:25:11,760 - 01:25:14,760] If you have current in a wire
+- [01:25:14,760 - 01:25:18,760] and you've got Q's going at some V
+- [01:25:18,760 - 01:25:20,760] through the wire
+- [01:25:20,760 - 01:25:23,760] what velocity do you have to go at
+- [01:25:23,760 - 01:25:24,760] in order to make the V feel...
+- [01:25:24,760 - 01:25:27,760] Sounds like you want to keep up with the electrons.
+- [01:25:27,760 - 01:25:29,760] Yeah, but is it...
+- [01:25:29,760 - 01:25:31,760] Is it low velocity or is it fast velocity?
+- [01:25:31,760 - 01:25:34,760] Well, it's not a relativistic velocity.
+- [01:25:34,760 - 01:25:36,760] I mean, it's not...
+- [01:25:36,760 - 01:25:39,760] It's a medium velocity.
+- [01:25:39,760 - 01:25:41,760] Yeah, but we can work it out.
+- [01:25:41,760 - 01:25:43,760] We can work it out, but...
+- [01:25:43,760 - 01:25:45,760] It seems to be very slow.
+- [01:25:45,760 - 01:25:46,760] Very slow?
+- [01:25:46,760 - 01:25:48,760] No, it's not that slow.
+- [01:25:48,760 - 01:25:50,760] To get rid of the magnetic field?
+- [01:25:50,760 - 01:25:51,760] No.
+- [01:25:51,760 - 01:25:55,760] The velocity of electrons in a wire is slow.
+- [01:25:55,760 - 01:25:57,760] Yeah, the current velocity.
+- [01:25:59,760 - 01:26:00,760] What is it?
+- [01:26:00,760 - 01:26:02,760] It's meters per second.
+- [01:26:04,760 - 01:26:05,760] That's not the right velocity.
+- [01:26:05,760 - 01:26:07,760] I'm not sure why, but...
+- [01:26:10,760 - 01:26:11,760] Electrons wouldn't be a wire.
+- [01:26:11,760 - 01:26:13,760] Well, wait, wait, wait, wait.
+- [01:26:13,760 - 01:26:14,760] You've got to be careful.
+- [01:26:14,760 - 01:26:16,760] Because there's positive charges there.
+- [01:26:16,760 - 01:26:18,760] Yeah, yeah, yeah.
+- [01:26:18,760 - 01:26:20,760] Yeah, there's positive charges there too.
+- [01:26:21,760 - 01:26:23,760] It doesn't transform that simply.
+- [01:26:23,760 - 01:26:25,760] No, it doesn't transform that simply.
+- [01:26:25,760 - 01:26:27,760] I think we just have to work
+- [01:26:27,760 - 01:26:29,760] out the magnetic field and do it.
+- [01:26:29,760 - 01:26:33,760] That's something I don't know the answer to offhand.
+- [01:26:33,760 - 01:26:36,260] I suspect it's sort of intermediate,
+- [01:26:36,260 - 01:26:38,760] not too slow, not too fast.
+- [01:26:38,760 - 01:26:40,760] It's not very slow.
+- [01:26:40,760 - 01:26:43,760] Can you ever get rid of the magnetic field?
+- [01:26:43,760 - 01:26:45,760] Uh...
+- [01:26:45,760 - 01:26:49,760] That doesn't sound right.
+- [01:26:49,760 - 01:26:53,760] Yeah, I think you can get...
+- [01:26:53,760 - 01:26:54,760] No.
+- [01:26:54,760 - 01:26:56,760] Not if there's only a magnetic field.
+- [01:26:56,760 - 01:26:58,260] Not if there's only a magnetic
+- [01:26:58,260 - 01:26:59,760] field you can't get rid of it.
+- [01:26:59,760 - 01:27:01,760] Right, that's...
+- [01:27:01,760 - 01:27:03,760] You can't.
+- [01:27:03,760 - 01:27:05,260] But if there's an electric
+- [01:27:05,260 - 01:27:06,760] field and a large electric field,
+- [01:27:06,760 - 01:27:07,760] you might be able to
+- [01:27:07,760 - 01:27:08,760] get rid of the magnetic field.
+- [01:27:08,760 - 01:27:10,260] In other words, the transformation
+- [01:27:10,260 - 01:27:11,760] property of the electric field
+- [01:27:11,760 - 01:27:13,760] will produce a little bit of magnetic field
+- [01:27:13,760 - 01:27:15,760] which could cancel the original magnetic field.
+- [01:27:15,760 - 01:27:17,260] If all you have is a magnetic
+- [01:27:17,260 - 01:27:18,760] field to begin with, no, you can't.
+- [01:27:19,760 - 01:27:21,760] Right.
+- [01:27:21,760 - 01:27:23,260] But for example, I mean, all
+- [01:27:23,260 - 01:27:24,760] right, so what I was thinking,
+- [01:27:24,760 - 01:27:26,760] which was inappropriate for the problem,
+- [01:27:26,760 - 01:27:29,760] but if I had a moving collection of charges,
+- [01:27:29,760 - 01:27:32,760] and the moving collection of charges makes a magnetic field,
+- [01:27:32,760 - 01:27:34,760] it also makes an electric field,
+- [01:27:34,760 - 01:27:36,760] you know, just a lump of charge.
+- [01:27:36,760 - 01:27:38,260] It's moving, it makes an electric
+- [01:27:38,260 - 01:27:39,760] field, and it makes a magnetic field.
+- [01:27:39,760 - 01:27:41,760] Then I can answer very quickly,
+- [01:27:41,760 - 01:27:43,260] what velocity do I have to move
+- [01:27:43,260 - 01:27:44,760] with to get rid of the magnetic field?
+- [01:27:44,760 - 01:27:46,260] I just have to move with
+- [01:27:46,260 - 01:27:47,760] the object and there's no magnetic field.
+- [01:27:47,760 - 01:27:48,760] That, uh...
+- [01:27:48,760 - 01:27:52,760] The current in the wire is trickier.
+- [01:27:52,760 - 01:27:54,760] And the electric field cancels out
+- [01:27:54,760 - 01:27:56,760] from the protons and the electrons
+- [01:27:56,760 - 01:27:58,760] and there's no way to get rid of it.
+- [01:27:58,760 - 01:28:00,760] There's no way to get rid of it.
+- [01:28:00,760 - 01:28:02,760] Um...
+- [01:28:02,760 - 01:28:04,760] Okay.
+- [01:28:04,760 - 01:28:08,260] Does the electric potential and the
+- [01:28:08,260 - 01:28:11,760] vector potential form a four vector?
+- [01:28:11,760 - 01:28:12,760] Yeah.
+- [01:28:12,760 - 01:28:13,760] Very similar to this?
+- [01:28:13,760 - 01:28:15,760] Yeah, form a four vector.
+- [01:28:15,760 - 01:28:16,760] Yeah.
+- [01:28:16,760 - 01:28:17,760] Uh...
+- [01:28:18,760 - 01:28:23,760] We will also study Maxwell's equations,
+- [01:28:23,760 - 01:28:25,760] but before we do,
+- [01:28:25,760 - 01:28:29,760] we want to think a little bit about waves,
+- [01:28:29,760 - 01:28:30,760] scalar waves,
+- [01:28:30,760 - 01:28:33,760] scalar wave equations.
+- [01:28:33,760 - 01:28:37,760] The main point being
+- [01:28:37,760 - 01:28:43,760] that we haven't talked about derivatives of fields.
+- [01:28:48,760 - 01:28:59,760] We've talked about the object dx,
+- [01:28:59,760 - 01:29:03,760] which might be a little displacement along a world line.
+- [01:29:03,760 - 01:29:05,760] Now let's come to an entirely,
+- [01:29:05,760 - 01:29:08,760] what apparently is an entirely different subject,
+- [01:29:08,760 - 01:29:10,760] a theory of fields.
+- [01:29:10,760 - 01:29:12,760] Let's forget now particles,
+- [01:29:12,760 - 01:29:14,760] let's concentrate on fields.
+- [01:29:14,760 - 01:29:17,760] Fields are things which vary in space-time.
+- [01:29:17,760 - 01:29:20,260] So they depend in general
+- [01:29:20,260 - 01:29:22,760] on all four components of position.
+- [01:29:22,760 - 01:29:23,760] Let's call phi.
+- [01:29:23,760 - 01:29:24,760] Phi is a field.
+- [01:29:24,760 - 01:29:26,760] Phi for field.
+- [01:29:26,760 - 01:29:28,760] It's a scalar field,
+- [01:29:28,760 - 01:29:31,760] which means it has only one component.
+- [01:29:31,760 - 01:29:34,760] The simplest possible thing we can make.
+- [01:29:34,760 - 01:29:37,760] And now we can differentiate it.
+- [01:29:37,760 - 01:29:39,760] We can differentiate it
+- [01:29:39,760 - 01:29:42,760] to create d phi
+- [01:29:42,760 - 01:29:44,760] by dx mu.
+- [01:29:44,760 - 01:29:46,760] This consists of
+- [01:29:46,760 - 01:29:48,760] four terms,
+- [01:29:48,760 - 01:29:50,760] or four components,
+- [01:29:50,760 - 01:29:52,760] d phi by dx,
+- [01:29:52,760 - 01:29:54,760] d phi by dy,
+- [01:29:54,760 - 01:30:00,760] d phi by dz,
+- [01:30:00,760 - 01:30:06,760] and finally d phi by dt.
+- [01:30:06,760 - 01:30:08,760] Or d phi by dx1,
+- [01:30:08,760 - 01:30:09,760] d phi by dx2,
+- [01:30:09,760 - 01:30:10,760] d phi by dx3,
+- [01:30:10,760 - 01:30:12,760] and d phi by dx0.
+- [01:30:12,760 - 01:30:14,760] They form a four vector.
+- [01:30:14,760 - 01:30:15,760] But,
+- [01:30:15,760 - 01:30:22,760] they form the covariant components of a four vector.
+- [01:30:22,760 - 01:30:25,760] They transform slightly differently
+- [01:30:25,760 - 01:30:28,760] than the components dx mu.
+- [01:30:33,760 - 01:30:35,760] How do they transform?
+- [01:30:35,760 - 01:30:38,760] They transform the same way,
+- [01:30:38,760 - 01:30:40,760] not as dx mu,
+- [01:30:40,760 - 01:30:43,760] but as dx mu with a lower component.
+- [01:30:43,760 - 01:30:46,760] Let me remind you what the lower component means.
+- [01:30:46,760 - 01:30:48,760] The lower component simply means
+- [01:30:48,760 - 01:30:51,760] you change the sign of the time components.
+- [01:30:51,760 - 01:30:52,760] No,
+- [01:30:52,760 - 01:30:54,760] the sign of the space components.
+- [01:30:57,760 - 01:30:59,760] If d super x mu
+- [01:30:59,760 - 01:31:00,760] is a set of four numbers
+- [01:31:00,760 - 01:31:03,760] which form the contravariant components of a vector,
+- [01:31:03,760 - 01:31:05,760] then this object here
+- [01:31:05,760 - 01:31:07,760] is just minus
+- [01:31:07,760 - 01:31:10,760] dx1 dot dot dot dx3,
+- [01:31:10,760 - 01:31:12,760] minus,
+- [01:31:12,760 - 01:31:16,760] also dx2,
+- [01:31:16,760 - 01:31:18,760] and then dx0.
+- [01:31:18,760 - 01:31:20,760] You change the space components
+- [01:31:20,760 - 01:31:22,760] and those things define
+- [01:31:22,760 - 01:31:24,760] the covariant components of a vector.
+- [01:31:24,760 - 01:31:26,760] It's the same geometric object,
+- [01:31:26,760 - 01:31:28,760] just being described differently.
+- [01:31:28,760 - 01:31:31,760] Just being described in a different notation.
+- [01:31:31,760 - 01:31:33,760] It's useful
+- [01:31:33,760 - 01:31:35,760] because we can make scalars
+- [01:31:35,760 - 01:31:40,760] by contracting lower and upper indices.
+- [01:31:40,760 - 01:31:41,760] Contracting means,
+- [01:31:41,760 - 01:31:43,760] you take a lower index and an upper index,
+- [01:31:43,760 - 01:31:45,760] you identify them in sum,
+- [01:31:45,760 - 01:31:47,760] and that makes
+- [01:31:47,760 - 01:31:49,760] scalars.
+- [01:31:49,760 - 01:31:51,760] So it's a useful device.
+- [01:31:51,760 - 01:31:53,760] It takes into account this extra sign
+- [01:31:53,760 - 01:31:55,760] in things like
+- [01:31:55,760 - 01:31:57,260] t squared minus x squared
+- [01:31:57,260 - 01:31:58,760] minus y squared minus z squared.
+- [01:31:58,760 - 01:32:00,760] Okay.
+- [01:32:01,760 - 01:32:03,760] If you were to work out
+- [01:32:05,760 - 01:32:08,760] the transformation properties of the derivatives,
+- [01:32:08,760 - 01:32:09,760] now how do you do that?
+- [01:32:09,760 - 01:32:12,760] You know how the x's themselves transform.
+- [01:32:12,760 - 01:32:15,760] You know what the coordinate transformations are.
+- [01:32:15,760 - 01:32:20,760] x1 prime is equal to whatever it is,
+- [01:32:20,760 - 01:32:22,760] all that Lorentz transformation stuff.
+- [01:32:22,760 - 01:32:24,760] You know how they transform.
+- [01:32:24,760 - 01:32:27,760] You know what combinations of the old coordinates,
+- [01:32:27,760 - 01:32:28,760] the new coordinates are.
+- [01:32:28,760 - 01:32:30,760] And you can work out,
+- [01:32:30,760 - 01:32:32,760] you can work out
+- [01:32:32,760 - 01:32:35,760] the derivatives of the same field phi
+- [01:32:35,760 - 01:32:38,760] with respect to x prime mu.
+- [01:32:39,760 - 01:32:41,760] I'm not going to do that on the blackboard,
+- [01:32:41,760 - 01:32:43,760] it's a little bit tedious.
+- [01:32:43,760 - 01:32:46,760] We can work it out and see what the connection
+- [01:32:46,760 - 01:32:50,760] between the derivatives with respect to the prime variables,
+- [01:32:50,760 - 01:32:52,760] the moving coordinates,
+- [01:32:52,760 - 01:32:56,760] and the coordinates of the unprimed coordinate frame are.
+- [01:32:56,760 - 01:33:00,760] And the answer is that they transform the same way,
+- [01:33:00,760 - 01:33:03,760] not as the dx mu is here,
+- [01:33:03,760 - 01:33:07,760] but the dx mu is with a lower index.
+- [01:33:09,760 - 01:33:12,760] That's fairly easy to prove.
+- [01:33:12,760 - 01:33:15,760] And so this object is a four vector,
+- [01:33:15,760 - 01:33:21,760] but it forms the covariant components of a four vector.
+- [01:33:21,760 - 01:33:23,760] These are the four co-
+- [01:33:23,760 - 01:33:25,760] the, um,
+- [01:33:25,760 - 01:33:26,760] the co-
+- [01:33:26,760 - 01:33:29,760] the covariant components of a four vector.
+- [01:33:29,760 - 01:33:32,760] Is it clear what that means to everybody?
+- [01:33:32,760 - 01:33:35,760] Just that it transforms in that way.
+- [01:33:35,760 - 01:33:38,760] It forms a complex of four things.
+- [01:33:39,760 - 01:33:42,760] Can we make an object with upper components?
+- [01:33:42,760 - 01:33:45,760] Sure, we can make an object with upper components.
+- [01:33:45,760 - 01:33:48,760] We just change the sign of the space components
+- [01:33:48,760 - 01:33:51,760] and leave the sign of the time component alone.
+- [01:33:51,760 - 01:33:53,760] Alright, so we have two sets of objects.
+- [01:33:53,760 - 01:33:57,760] We have d phi by dx,
+- [01:33:57,760 - 01:34:01,760] let's call it one, two, and three,
+- [01:34:01,760 - 01:34:05,760] together with d phi by dx naught.
+- [01:34:05,760 - 01:34:08,760] And that's what we call d phi by dx mu.
+- [01:34:09,760 - 01:34:13,760] Now, we can also consider,
+- [01:34:13,760 - 01:34:15,760] and this is a definition now,
+- [01:34:21,760 - 01:34:25,760] d phi by dx with an upper index.
+- [01:34:25,760 - 01:34:27,260] Instead of the lower index,
+- [01:34:27,260 - 01:34:28,760] it now has an upper index,
+- [01:34:28,760 - 01:34:30,760] and that's just the same thing here,
+- [01:34:30,760 - 01:34:32,760] let's cross this out,
+- [01:34:32,760 - 01:34:34,760] with a minus sign here.
+- [01:34:34,760 - 01:34:37,760] In other words,
+- [01:34:37,760 - 01:34:39,760] the object with the lower index and the upper index
+- [01:34:39,760 - 01:34:42,760] are related in the same way that all four vectors
+- [01:34:42,760 - 01:34:47,760] with upper and lower components are related.
+- [01:34:47,760 - 01:34:50,760] In fact, every time you differentiate an object,
+- [01:34:50,760 - 01:34:52,760] if you have any tensor,
+- [01:34:52,760 - 01:34:53,760] or any vector,
+- [01:34:53,760 - 01:34:55,760] or any scalar,
+- [01:34:55,760 - 01:35:04,760] and you differentiate it,
+- [01:35:04,760 - 01:35:07,760] let's suppose you take a vector field.
+- [01:35:07,760 - 01:35:08,760] Here's some vector field
+- [01:35:08,760 - 01:35:10,760] that depends on x.
+- [01:35:10,760 - 01:35:13,760] Let's suppose it has an upper index, for simplicity,
+- [01:35:13,760 - 01:35:16,760] and you differentiate it
+- [01:35:16,760 - 01:35:19,760] with respect to x nu.
+- [01:35:19,760 - 01:35:21,760] That makes a tensor,
+- [01:35:21,760 - 01:35:24,760] but it makes a tensor with one upper index
+- [01:35:24,760 - 01:35:27,760] and one lower index.
+- [01:35:27,760 - 01:35:30,760] Every time the derivative operator acts,
+- [01:35:30,760 - 01:35:35,760] it simply puts another index on the object.
+- [01:35:35,760 - 01:35:37,760] So if v is a vector and you differentiate it,
+- [01:35:37,760 - 01:35:39,760] you get a tensor.
+- [01:35:39,760 - 01:35:41,760] If v is a tensor and you differentiate it,
+- [01:35:41,760 - 01:35:43,760] you get an object with yet another index,
+- [01:35:43,760 - 01:35:44,760] and so forth.
+- [01:35:44,760 - 01:35:50,760] The differentiation always puts the index downstairs.
+- [01:35:50,760 - 01:35:53,760] So differentiation is another rule
+- [01:35:53,760 - 01:35:56,760] that allows you to form vectors.
+- [01:35:56,760 - 01:36:02,760] Vectors, tensors, and so forth.
+- [01:36:02,760 - 01:36:04,760] Now what I want to
+- [01:36:04,760 - 01:36:06,760] discuss for the remaining time today
+- [01:36:06,760 - 01:36:08,760] is wave equations
+- [01:36:08,760 - 01:36:11,760] and the invariance of wave equations.
+- [01:36:11,760 - 01:36:14,760] The invariance of wave equations follows
+- [01:36:14,760 - 01:36:16,760] if the wave equation has the form
+- [01:36:16,760 - 01:36:19,760] that some scalar is equal to zero.
+- [01:36:19,760 - 01:36:24,760] Scalars are the same in every reference frame.
+- [01:36:24,760 - 01:36:26,260] And so if we can
+- [01:36:26,260 - 01:36:27,760] write the equation for some wave
+- [01:36:27,760 - 01:36:31,760] in the form a scalar is equal to zero,
+- [01:36:31,760 - 01:36:33,260] then we can be sure it's
+- [01:36:33,260 - 01:36:34,760] the same in every reference frame.
+- [01:36:34,760 - 01:36:35,760] In other words,
+- [01:36:35,760 - 01:36:37,760] we can coordinate transform things.
+- [01:36:37,760 - 01:36:39,760] Let's try to do that.
+- [01:36:39,760 - 01:36:42,760] Wave equations by their very nature, incidentally,
+- [01:36:42,760 - 01:36:44,760] always have two derivatives,
+- [01:36:44,760 - 01:36:45,760] not one derivative.
+- [01:36:45,760 - 01:36:49,760] They correspond to second derivatives acting on fields.
+- [01:36:49,760 - 01:36:51,760] Of course, we could imagine
+- [01:36:51,760 - 01:36:53,760] wave equations with six derivatives,
+- [01:36:53,760 - 01:36:55,760] but the simplest wave equations, Maxwell's equations,
+- [01:36:55,760 - 01:36:57,760] other wave equations,
+- [01:36:57,760 - 01:36:59,760] have second derivatives in them.
+- [01:36:59,760 - 01:37:02,760] That means that we're going to have a derivative
+- [01:37:02,760 - 01:37:05,760] and another derivative acting on some field
+- [01:37:05,760 - 01:37:07,760] that's equal to zero.
+- [01:37:07,760 - 01:37:09,760] This is a typical example of a wave equation.
+- [01:37:09,760 - 01:37:11,760] There are other wave equations,
+- [01:37:11,760 - 01:37:13,760] but let's look for one like that.
+- [01:37:13,760 - 01:37:15,260] We want it to be
+- [01:37:15,260 - 01:37:16,760] the same in every reference frame.
+- [01:37:16,760 - 01:37:18,760] So that means we want it to be
+- [01:37:18,760 - 01:37:21,760] the left-hand side to be a scalar.
+- [01:37:21,760 - 01:37:24,760] Left-hand side to be a scalar would be
+- [01:37:24,760 - 01:37:27,760] one way of going to make a wave equation,
+- [01:37:27,760 - 01:37:29,760] a single wave equation.
+- [01:37:29,760 - 01:37:31,760] There's only one way to do it.
+- [01:37:31,760 - 01:37:33,760] There's really only one way to do it,
+- [01:37:33,760 - 01:37:34,760] and that's to say,
+- [01:37:34,760 - 01:37:36,760] we've got to begin by differentiating,
+- [01:37:36,760 - 01:37:38,760] so let's put mu there.
+- [01:37:38,760 - 01:37:40,760] The only way to make a scalar out of this
+- [01:37:40,760 - 01:37:43,760] is to differentiate again
+- [01:37:43,760 - 01:37:47,760] and to put the index here upstairs.
+- [01:37:47,760 - 01:37:49,760] What does it mean that the index here is upstairs?
+- [01:37:49,760 - 01:37:53,760] It means that the space components of the derivative
+- [01:37:53,760 - 01:37:56,760] are treated with a negative sign.
+- [01:37:56,760 - 01:37:59,760] This is the simplest wave equation.
+- [01:37:59,760 - 01:38:02,760] It's invariant because whenever you contract
+- [01:38:02,760 - 01:38:04,760] a lower index with an upper index,
+- [01:38:04,760 - 01:38:06,760] it automatically gives you something
+- [01:38:06,760 - 01:38:10,760] which is invariant under Lorentz transformations.
+- [01:38:10,760 - 01:38:13,760] So this is the simplest example of a wave equation,
+- [01:38:13,760 - 01:38:16,760] and let's write out what it actually means.
+- [01:38:16,760 - 01:38:19,760] Let's write out what it actually means in detail.
+- [01:38:22,760 - 01:38:25,760] Let's take first the time component.
+- [01:38:25,760 - 01:38:28,760] The time component is just d0 phi,
+- [01:38:28,760 - 01:38:32,760] and now the time components don't change sign
+- [01:38:32,760 - 01:38:34,760] when you raise the index.
+- [01:38:34,760 - 01:38:38,760] So this is just the second derivative,
+- [01:38:38,760 - 01:38:42,760] the second derivative with respect to time.
+- [01:38:42,760 - 01:38:45,760] The first derivatives do change sign
+- [01:38:45,760 - 01:38:47,760] when you raise an index,
+- [01:38:47,760 - 01:38:50,760] and so this is minus d second,
+- [01:38:50,760 - 01:38:56,760] sorry, d second phi by dx squared,
+- [01:38:56,760 - 01:38:58,760] same thing for y squared,
+- [01:39:01,760 - 01:39:03,760] same thing for z squared.
+- [01:39:04,760 - 01:39:10,760] This equation,
+- [01:39:10,760 - 01:39:18,760] well this is d by dt squared.
+- [01:39:18,760 - 01:39:21,760] This equation has the virtue
+- [01:39:21,760 - 01:39:24,760] of being the same in every reference frame.
+- [01:39:24,760 - 01:39:25,760] How do you check it?
+- [01:39:25,760 - 01:39:28,260] You write it in a form
+- [01:39:28,260 - 01:39:30,760] in which it's manifestly just a scalar.
+- [01:39:30,760 - 01:39:33,760] One index upstairs, one index downstairs.
+- [01:39:33,760 - 01:39:36,760] That always gives you a scalar.
+- [01:39:36,760 - 01:39:39,760] That's the simplest wave equation.
+- [01:39:39,760 - 01:39:41,760] The reason I'm writing it down now
+- [01:39:41,760 - 01:39:43,760] is because we want to get to Maxwell's equations.
+- [01:39:43,760 - 01:39:46,760] This is an example of a simple wave equation.
+- [01:39:46,760 - 01:39:49,760] Maxwell's wave equations are more complicated,
+- [01:39:49,760 - 01:39:51,760] but we want to get to Maxwell's equations,
+- [01:39:51,760 - 01:39:53,760] and we want to write them in a form
+- [01:39:53,760 - 01:39:57,760] which is equally manifestly Lorentz invariant.
+- [01:39:57,760 - 01:39:58,760] That's our goal.
+- [01:39:58,760 - 01:39:59,760] We're not going to do that tonight.
+- [01:39:59,760 - 01:40:00,760] I think we're going to quit now.
+- [01:40:00,760 - 01:40:02,760] Next time we'll come back and work out Maxwell's equations.
+- [01:40:03,760 - 01:40:06,760] In a covariant notation,
+- [01:40:06,760 - 01:40:09,760] they're equations which mix up electric and magnetic fields
+- [01:40:09,760 - 01:40:12,760] in a somewhat intricate way,
+- [01:40:12,760 - 01:40:15,760] but they have the virtue of being written,
+- [01:40:15,760 - 01:40:18,760] or the way we'll write them has
+- [01:40:18,760 - 01:40:21,760] the virtue of being explicitly Lorentz invariant.
+- [01:40:21,760 - 01:40:23,760] I'm getting tired, so I think we'll quit.
+- [01:40:23,760 - 01:40:25,760] Any questions?
+- [01:40:25,760 - 01:40:28,760] What's that?
+- [01:40:28,760 - 01:40:31,760] Oh, it could be.
+- [01:40:31,760 - 01:40:32,760] No, it could be a constant.
+- [01:40:32,760 - 01:40:35,760] In fact, it could be any number of things.
+- [01:40:35,760 - 01:40:38,760] It could be any scalar on the right-hand side.
+- [01:40:38,760 - 01:40:41,760] This is one particular example of a wave equation.
+- [01:40:41,760 - 01:40:44,260] Another one which is interesting is
+- [01:40:44,260 - 01:40:46,760] to write a constant here times phi.
+- [01:40:46,760 - 01:40:48,760] What's on the right-hand side?
+- [01:40:48,760 - 01:40:50,760] You could have constant times phi squared.
+- [01:40:50,760 - 01:40:52,760] You could have all kinds of things.
+- [01:40:52,760 - 01:40:55,760] The simplest equation is just to have zero.
+- [01:40:55,760 - 01:40:57,760] And we're going to discuss those equations.
+- [01:40:57,760 - 01:41:00,760] We're going to work them out, study their solutions,
+- [01:41:00,760 - 01:41:02,760] understand how they behave,
+- [01:41:02,760 - 01:41:04,260] but this is just the
+- [01:41:04,260 - 01:41:05,760] simplest example of a wave equation.
+- [01:41:05,760 - 01:41:09,760] And next time, we'll study them in some detail.
+- [01:41:17,760 - 01:41:20,760] The preceding program is copyrighted by Stanford University.
+- [01:41:20,760 - 01:41:24,760] Please visit us at stanford.edu.
