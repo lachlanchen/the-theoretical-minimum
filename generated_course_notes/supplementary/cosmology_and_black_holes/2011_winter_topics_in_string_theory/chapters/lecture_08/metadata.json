@@ -1,0 +1,52 @@
+{
+  "course_rel": "supplementary/cosmology_and_black_holes/2011_winter_topics_in_string_theory",
+  "transcript_rel": "supplementary/cosmology_and_black_holes/2011_winter_topics_in_string_theory/112 - Lecture 8 \uff5c Topics in String Theory [ieHX2bGTMQg].md",
+  "video_rel": "supplementary/cosmology_and_black_holes/2011_winter_topics_in_string_theory/112 - Lecture 8 \uff5c Topics in String Theory [ieHX2bGTMQg].mkv",
+  "lecture_number": 8,
+  "lecture_slug": "lecture_08",
+  "lecture_title": "Lecture 8 : Topics in String Theory",
+  "assets": [
+    {
+      "name": "lecture_08_figure_02.png",
+      "timestamp_seconds": 1318.82,
+      "timestamp_hhmmss": "00:21:58.820",
+      "source_candidate": "lecture_08_window_02_candidate_01_002158820.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "Candidate 01 is the clearest documentary frame in this sparse setup. It preserves both visible pieces of board notation, with the least sense of motion and no gain in mathematical completeness from the later frames. Although the board is mostly empty, the shot is still useful because it anchors the moment when Susskind identifies the geometric side of Einstein's equations and shows the notation being organized on the board.",
+      "subtitle_excerpt": "It's the geometric side of Einstein's equations.",
+      "segment_start_seconds": 1318.46,
+      "segment_start_hhmmss": "00:21:58.460",
+      "segment_end_seconds": 1321.46,
+      "segment_end_hhmmss": "00:22:01.460",
+      "caption_hint": "geometric side of Einstein's equations"
+    },
+    {
+      "name": "lecture_08_figure_03.png",
+      "timestamp_seconds": 1857.98,
+      "timestamp_hhmmss": "00:30:57.980",
+      "source_candidate": "lecture_08_window_04_candidate_02_003057980.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "Candidate 02 is the clearest and most useful frame for notes. It keeps the visible board content together in one shot: the metric notation at the top, the partial line containing the scale-factor term, and the lower density term with the Friedmann prefactor. Candidate 01 is more cropped, while candidates 03 and 04 lose a bit more of the board to Susskind's body and posture.",
+      "subtitle_excerpt": "This equation is also an equation for energy conservation.",
+      "segment_start_seconds": 1856.46,
+      "segment_start_hhmmss": "00:30:56.460",
+      "segment_end_seconds": 1860.46,
+      "segment_end_hhmmss": "00:31:00.460",
+      "caption_hint": "partial Friedmann equation and metric terms"
+    },
+    {
+      "name": "lecture_08_figure_04.png",
+      "timestamp_seconds": 2167.94,
+      "timestamp_hhmmss": "00:36:07.940",
+      "source_candidate": "lecture_08_window_05_candidate_01_003607940.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "Candidate 01 is the strongest frame because it preserves the largest and clearest portion of the relevant board state in one shot: the metric line, the expanding-universe equation below it, and the surrounding notation. The later candidates progressively crop or occlude parts of the equations, especially toward the right-hand side.",
+      "subtitle_excerpt": "It's Einstein's equation for an expanding universe,",
+      "segment_start_seconds": 2167.46,
+      "segment_start_hhmmss": "00:36:07.460",
+      "segment_end_seconds": 2171.46,
+      "segment_end_hhmmss": "00:36:11.460",
+      "caption_hint": "metric and Friedmann equation for expansion"
+    }
+  ]
+}
