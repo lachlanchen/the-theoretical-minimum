@@ -1,0 +1,2156 @@
+# Transcript
+
+Source: supplementary/particle_physics_3_supersymmetry_and_grand_unification/2010_spring/148 - Supersymmetry & Grand Unification： Lecture 4 [o_gafEasmvE].mp4
+
+- [00:00:00,000 - 00:00:06,440] Stanford University.
+- [00:00:08,560 - 00:00:10,700] First we start with symmetries and I'll
+- [00:00:10,700 - 00:00:12,840] remind you of a few things about
+- [00:00:12,840 - 00:00:15,000] symmetries because supersymmetry, if
+- [00:00:15,000 - 00:00:17,160] nothing else, is a symmetry.
+- [00:00:18,600 - 00:00:20,600] Symmetries always relate things.
+- [00:00:20,600 - 00:00:27,640] And what they do is they relate things
+- [00:00:27,640 - 00:00:34,680] which are related by being transformed in some way.
+- [00:00:36,040 - 00:00:38,570] A particular symmetry is left-right symmetry. My
+- [00:00:38,570 - 00:00:41,100] left hand and my right hand are symmetric
+- [00:00:41,100 - 00:00:45,040] and if the world and I
+- [00:00:45,040 - 00:00:48,980] and everything about me has left-right symmetry,
+- [00:00:48,980 - 00:00:50,580] then my right hand and my left hand are symmetric.
+- [00:00:50,580 - 00:00:50,600] And my left hand and my right hand are symmetric.
+- [00:00:50,600 - 00:00:52,920] And my left hand weighs exactly the same thing as my
+- [00:00:52,920 - 00:00:55,240] left hand, would be exactly as strong as my left hand,
+- [00:00:55,340 - 00:00:56,730] and would be in every
+- [00:00:56,730 - 00:00:58,120] respect identical to my left hand.
+- [00:01:01,080 - 00:01:05,459] And in that sense, symmetries relate objects,
+- [00:01:05,459 - 00:01:09,840] objects which may be different but symmetric.
+- [00:01:10,840 - 00:01:14,350] In particular, those objects that are related
+- [00:01:14,350 - 00:01:17,860] by a symmetry generally have the same mass.
+- [00:01:19,520 - 00:01:20,580] So let's talk about symmetries.
+- [00:01:20,580 - 00:01:22,230] So let's talk a little
+- [00:01:22,230 - 00:01:23,880] bit about the mathematics of symmetries.
+- [00:01:24,440 - 00:01:27,559] We've already talked about some symmetries, in
+- [00:01:27,559 - 00:01:30,679] particular things like rotation symmetry in space,
+- [00:01:30,759 - 00:01:33,259] and now I'm thinking about continuous symmetries.
+- [00:01:34,000 - 00:01:37,960] Whether supersymmetry is a continuous symmetry or
+- [00:01:37,960 - 00:01:41,920] not is a question which has no answer.
+- [00:01:42,160 - 00:01:45,140] It has no answer because it doesn't fall into the
+- [00:01:45,140 - 00:01:48,120] category, really, of things where the question actually makes sense.
+- [00:01:48,120 - 00:01:50,560] But let's just review a little bit about...
+- [00:01:50,560 - 00:01:51,260] symmetries.
+- [00:01:53,420 - 00:01:57,630] Symmetries are operations on a system which are
+- [00:01:57,630 - 00:02:01,840] described quantum mechanically by, first of all, operations,
+- [00:02:02,320 - 00:02:05,100] but operations are described by operators.
+- [00:02:06,560 - 00:02:08,460] Operators on state vectors.
+- [00:02:09,020 - 00:02:10,360] We start with a state vector.
+- [00:02:13,040 - 00:02:15,340] Whatever it happens to be, I don't care what kind
+- [00:02:15,340 - 00:02:17,640] of system it is, it's described by a state vector.
+- [00:02:18,380 - 00:02:20,220] And we apply some symmetries.
+- [00:02:20,220 - 00:02:21,420] Symmetry operation.
+- [00:02:21,960 - 00:02:24,010] The most well-known symmetry operation that
+- [00:02:24,010 - 00:02:26,060] I can think of is rotation.
+- [00:02:26,220 - 00:02:28,270] Actually, I can think of an
+- [00:02:28,270 - 00:02:30,320] even simpler one, just translation of space.
+- [00:02:31,160 - 00:02:33,330] Then the operation would simply move
+- [00:02:33,330 - 00:02:35,500] an object from one place to another.
+- [00:02:37,280 - 00:02:40,440] But let's take the case of rotation
+- [00:02:40,440 - 00:02:43,600] as a more representative example for the moment.
+- [00:02:44,920 - 00:02:47,110] What's the mathematical symbol
+- [00:02:47,110 - 00:02:49,300] to represent a transformation?
+- [00:02:49,300 - 00:02:51,300] A unitary operator.
+- [00:02:51,300 - 00:02:53,300] A unitary matrix or unitary operator.
+- [00:02:53,300 - 00:02:56,300] This unitary operator here
+- [00:02:56,300 - 00:02:59,300] could represent rotation in space.
+- [00:02:59,300 - 00:03:02,800] You would have to indicate what the axis was,
+- [00:03:02,800 - 00:03:06,300] and you would have to indicate what the angle was.
+- [00:03:06,300 - 00:03:08,800] But once you did so,
+- [00:03:08,800 - 00:03:11,300] there would be a unitary operator.
+- [00:03:11,300 - 00:03:14,800] That unitary operator acts on any state to give a
+- [00:03:14,800 - 00:03:18,300] new one, which is a rotated version of the same thing.
+- [00:03:18,300 - 00:03:19,060] So, that's the first one.
+- [00:03:19,060 - 00:03:23,060] But it operates on states, not on space.
+- [00:03:23,060 - 00:03:25,060] It's not rotating states.
+- [00:03:25,060 - 00:03:29,060] It's the operation of rotating an object.
+- [00:03:29,060 - 00:03:32,060] It acts on objects.
+- [00:03:32,060 - 00:03:37,060] It acts on states, but states mean collections of objects.
+- [00:03:37,060 - 00:03:41,060] And this is the operation which rotates everything.
+- [00:03:41,060 - 00:03:43,060] It just rotates everything in space.
+- [00:03:45,060 - 00:03:47,060] So, it takes whatever the state is.
+- [00:03:47,060 - 00:03:48,060] I'll give an example.
+- [00:03:48,060 - 00:03:49,060] I'll give an example.
+- [00:03:49,060 - 00:03:53,560] The state might consist of the mathematical representation of
+- [00:03:53,560 - 00:03:58,060] a particle over here and a particle over here.
+- [00:03:58,060 - 00:03:59,060] Alright?
+- [00:03:59,060 - 00:04:01,060] So, this is a state which represents two
+- [00:04:01,060 - 00:04:03,060] particles, one over here and one over here.
+- [00:04:03,060 - 00:04:06,060] A rotation about an axis.
+- [00:04:06,060 - 00:04:09,060] A rotation, incidentally, always takes place about an axis.
+- [00:04:09,060 - 00:04:11,060] Let's say about this axis.
+- [00:04:11,060 - 00:04:13,560] It will simply give you a new state in which this
+- [00:04:13,560 - 00:04:16,060] particle has been rotated to here and this one to here.
+- [00:04:16,060 - 00:04:16,560] And so, it's a new
+- [00:04:16,560 - 00:04:17,060] state with a particle over here.
+- [00:04:17,060 - 00:04:18,560] And so, it's a new state with a
+- [00:04:18,560 - 00:04:20,060] particle over here and a particle over here.
+- [00:04:20,060 - 00:04:21,560] But isn't the state vector
+- [00:04:21,560 - 00:04:23,060] an element of a Hilbert space?
+- [00:04:23,060 - 00:04:24,060] Yes.
+- [00:04:24,060 - 00:04:26,060] So, that's an infinite dimensional vector.
+- [00:04:26,060 - 00:04:27,060] It is.
+- [00:04:27,060 - 00:04:29,060] And are we rotating the Hilbert
+- [00:04:29,060 - 00:04:31,060] space or are we rotating three-dimensional?
+- [00:04:31,060 - 00:04:32,060] Both.
+- [00:04:32,060 - 00:04:34,560] It's the rotation in Hilbert space
+- [00:04:34,560 - 00:04:37,060] that represents the rotation in space.
+- [00:04:37,060 - 00:04:39,060] It's like a next step up.
+- [00:04:39,060 - 00:04:40,060] Yeah.
+- [00:04:40,060 - 00:04:41,060] Right.
+- [00:04:41,060 - 00:04:42,060] That's right.
+- [00:04:42,060 - 00:04:43,060] Right.
+- [00:04:43,060 - 00:04:44,060] Both.
+- [00:04:44,060 - 00:04:45,060] So, it's a new state.
+- [00:04:45,060 - 00:04:47,060] Both.
+- [00:04:47,060 - 00:04:48,060] Right.
+- [00:04:48,060 - 00:04:49,560] But this is the rotation that
+- [00:04:49,560 - 00:04:51,060] we do on the Hilbert space.
+- [00:04:51,060 - 00:04:53,060] Now, it's not strictly a rotation.
+- [00:04:53,060 - 00:04:55,060] It's a unitary transformation, which
+- [00:04:55,060 - 00:04:57,060] is similar to a rotation.
+- [00:04:57,060 - 00:05:00,560] So, it's both a transformation of the Hilbert space
+- [00:05:00,560 - 00:05:04,060] and it represents the act of rotation in space.
+- [00:05:04,060 - 00:05:05,060] Okay.
+- [00:05:05,060 - 00:05:06,060] All right.
+- [00:05:06,060 - 00:05:09,060] Now, as I said, U represents a
+- [00:05:09,060 - 00:05:12,060] rotation about an axis, about a particle.
+- [00:05:12,060 - 00:05:13,060] Right.
+- [00:05:13,060 - 00:05:14,560] So, it's a rotation about
+- [00:05:14,560 - 00:05:16,060] an axis, about a certain angle.
+- [00:05:16,060 - 00:05:19,060] There's particular transformations, which are
+- [00:05:19,060 - 00:05:22,060] especially interesting to us, that the
+- [00:05:22,060 - 00:05:23,060] infinite test...
+- [00:05:23,060 - 00:05:26,060] Oh, well, before that, let's talk about,
+- [00:05:26,060 - 00:05:29,060] very briefly, about the properties that a
+- [00:05:29,060 - 00:05:32,060] symmetry operation has to satisfy.
+- [00:05:32,060 - 00:05:35,060] The most important is that it has to be unitary.
+- [00:05:35,060 - 00:05:37,060] Unitary means...
+- [00:05:37,060 - 00:05:38,060] Let's see.
+- [00:05:38,060 - 00:05:39,060] Unitary means...
+- [00:05:39,060 - 00:05:40,060] Unitary means...
+- [00:05:40,060 - 00:05:41,060] Unitary means...
+- [00:05:41,060 - 00:05:42,060] Unitary means...
+- [00:05:42,060 - 00:05:43,060] It's unitary.
+- [00:05:43,060 - 00:05:44,060] It's unitary.
+- [00:05:44,060 - 00:05:47,060] That it's Hermitian conjugate is its own inverse.
+- [00:05:47,060 - 00:05:50,060] This is the unique property, which
+- [00:05:50,060 - 00:05:53,060] says that state vectors maintain their length.
+- [00:05:53,060 - 00:05:56,060] It's actually just probability, conservation of
+- [00:05:56,060 - 00:05:59,060] probability that this vector should have
+- [00:05:59,060 - 00:06:02,060] the same length in the Hilbert space, the
+- [00:06:02,060 - 00:06:05,060] same norm in the Hilbert space as the original
+- [00:06:05,060 - 00:06:06,060] for every vector.
+- [00:06:06,060 - 00:06:10,060] That's the condition that U be unitary.
+- [00:06:10,060 - 00:06:11,060] It's why it's called unitary.
+- [00:06:11,060 - 00:06:13,520] called unitary. Well, it's called unitary. All
+- [00:06:13,520 - 00:06:15,980] right, now there's a special family of
+- [00:06:15,980 - 00:06:19,480] these which are very small rotations, rotations by
+- [00:06:19,480 - 00:06:22,980] very small angles. Now every place I say
+- [00:06:22,980 - 00:06:26,240] rotation, you could substitute other interesting
+- [00:06:26,240 - 00:06:29,500] group operations, but let's stick for the
+- [00:06:29,500 - 00:06:33,030] moment with just ordinary rotations. The
+- [00:06:33,030 - 00:06:36,560] infinitely small rotations, infinitely small means by
+- [00:06:36,560 - 00:06:40,800] an infinitely small angle, a rotation by no
+- [00:06:40,800 - 00:06:45,040] angle at all, in other words, no rotation,
+- [00:06:45,040 - 00:06:47,570] that's not represented by u equals zero.
+- [00:06:47,570 - 00:06:50,100] U equals zero is not unitary. It's represented
+- [00:06:50,100 - 00:06:56,710] by u equals 1. So an infinitely small rotation
+- [00:06:56,710 - 00:07:03,320] is just u equals 1. Well, supposing you want
+- [00:07:03,320 - 00:07:06,120] to rotate a little bit, not quite 1.
+- [00:07:06,560 - 00:07:08,430] then you have to add something,
+- [00:07:08,430 - 00:07:10,300] and if the angle is very small,
+- [00:07:10,440 - 00:07:12,360] let's say the angle is
+- [00:07:12,360 - 00:07:14,280] epsilon, epsilon is a small number,
+- [00:07:15,100 - 00:07:18,640] then you have to add epsilon times something,
+- [00:07:19,240 - 00:07:22,330] and in order to make it unitary, you
+- [00:07:22,330 - 00:07:25,420] have to add i times a Hermitian operator.
+- [00:07:26,540 - 00:07:27,240] Call it L.
+- [00:07:27,240 - 00:07:33,220] L remembers the angle of rotation is epsilon,
+- [00:07:33,220 - 00:07:35,760] but L has to be
+- [00:07:35,760 - 00:07:38,300] indexed by a direction of space.
+- [00:07:39,180 - 00:07:42,020] So this could be rotation about the x-axis, for example.
+- [00:07:42,400 - 00:07:44,410] It could be rotation about the y-axis,
+- [00:07:44,410 - 00:07:46,420] or it could be rotation about the z-axis.
+- [00:07:47,220 - 00:07:49,440] Or it could be rotation about some other axis.
+- [00:07:50,220 - 00:07:52,880] Or a sum, perhaps, x, y, and z?
+- [00:07:53,580 - 00:07:56,130] Well, if you sum them, you wind
+- [00:07:56,130 - 00:07:58,680] up getting a rotation about some axis,
+- [00:07:59,000 - 00:08:01,480] which, yeah, intermediate axis, that's right.
+- [00:08:01,480 - 00:08:03,200] So there's three basic...
+- [00:08:03,200 - 00:08:04,869] There's three basic ones out of which
+- [00:08:04,869 - 00:08:06,539] you can build all the small rotations.
+- [00:08:07,700 - 00:08:10,690] An arbitrary axis is just a linear
+- [00:08:10,690 - 00:08:13,680] combination of rotation about x, y, and z.
+- [00:08:14,860 - 00:08:16,300] All right, that's the...
+- [00:08:16,300 - 00:08:19,000] And it's easy to check that if
+- [00:08:19,000 - 00:08:21,700] L is Hermitian, then U is unitary,
+- [00:08:22,080 - 00:08:25,219] at least to the leading order in epsilon.
+- [00:08:25,500 - 00:08:26,850] We're going to study things to
+- [00:08:26,850 - 00:08:28,200] orders, to lowest orders in epsilon.
+- [00:08:28,960 - 00:08:32,200] Now, one of the most important things about a group...
+- [00:08:33,200 - 00:08:36,700] a group of symmetries is the commutator algebra.
+- [00:08:36,700 - 00:08:39,200] It's a mathematical concept, the
+- [00:08:39,200 - 00:08:41,700] commutator algebra of the generators.
+- [00:08:42,500 - 00:08:44,000] These are called the generators.
+- [00:08:44,000 - 00:08:44,800] The small...
+- [00:08:44,800 - 00:08:47,800] These are called the infinitesimal generators, the Ls,
+- [00:08:48,400 - 00:08:52,100] and they satisfy a commutator algebra.
+- [00:08:53,200 - 00:08:55,800] I'll tell you first what a commutator algebra is,
+- [00:08:55,800 - 00:08:58,900] and then I'll show you
+- [00:08:58,900 - 00:09:02,000] how it's connected to these transformations.
+- [00:09:02,400 - 00:09:03,100] First of all,
+- [00:09:03,200 - 00:09:06,000] mathematically, what is a commutator algebra?
+- [00:09:07,200 - 00:09:09,800] It's basically you take the independent generators,
+- [00:09:09,800 - 00:09:11,350] in this case, rotation about
+- [00:09:11,350 - 00:09:12,900] the x, y, and z axis.
+- [00:09:12,900 - 00:09:15,200] You call them Lx, Ly, and Lz,
+- [00:09:15,200 - 00:09:17,500] or better yet, just L sub i.
+- [00:09:20,400 - 00:09:23,100] And a commutator algebra is
+- [00:09:23,100 - 00:09:25,800] just a closed set of relations
+- [00:09:26,300 - 00:09:29,150] that if you commute any one of the
+- [00:09:29,150 - 00:09:32,000] Ls with any other one of the Ls,
+- [00:09:33,200 - 00:09:36,200] you get back something proportional to an L again.
+- [00:09:38,000 - 00:09:40,000] There are some constants that appear here.
+- [00:09:41,200 - 00:09:41,700] Alright?
+- [00:09:41,900 - 00:09:44,150] So, for example, let me write down
+- [00:09:44,150 - 00:09:46,400] exactly what you would have for Lx, Ly.
+- [00:09:47,000 - 00:09:49,200] You would have Lz here, but that's not quite right.
+- [00:09:49,200 - 00:09:50,000] What am I missing?
+- [00:09:51,600 - 00:09:52,100] I.
+- [00:09:53,200 - 00:09:53,800] I.
+- [00:09:55,700 - 00:09:57,000] And then cycle it through.
+- [00:09:57,500 - 00:09:59,850] Ly, Lz equals I Lx, and so
+- [00:09:59,850 - 00:10:02,200] forth, but you can summarize them all
+- [00:10:02,200 - 00:10:11,700] by writing I epsilon Ijk Lk Ly Lj.
+- [00:10:13,300 - 00:10:15,750] This just says epsilon Ijk is
+- [00:10:15,750 - 00:10:18,200] just a symbol which is zero
+- [00:10:18,200 - 00:10:19,600] if any of the two of
+- [00:10:19,600 - 00:10:21,000] them are the same, Ij and k,
+- [00:10:21,400 - 00:10:23,900] and it's either plus one or minus one,
+- [00:10:23,900 - 00:10:26,200] depending on whether this is an even
+- [00:10:26,200 - 00:10:28,500] or odd permutation of one, two, and three.
+- [00:10:30,300 - 00:10:32,000] Alright, and all it says is Lx,
+- [00:10:32,200 - 00:10:34,550] Ly, commutator Lx with Ly
+- [00:10:34,550 - 00:10:36,900] is I Lz, and so forth.
+- [00:10:37,900 - 00:10:41,200] Now, what's the meaning, what's the, what's the meaning,
+- [00:10:41,200 - 00:10:45,300] the geometric meaning of these commutator algebras?
+- [00:10:45,700 - 00:10:49,700] What are they saying, and why is
+- [00:10:49,700 - 00:10:53,700] it important that the generators close under commutation?
+- [00:10:54,000 - 00:10:56,100] The right word is they close under commutation,
+- [00:10:56,100 - 00:10:57,350] which means the commutator of any
+- [00:10:57,350 - 00:10:58,600] two of them is another one.
+- [00:10:59,000 - 00:11:00,600] This is called a commutator algebra.
+- [00:11:00,600 - 00:11:01,600] Why is this important?
+- [00:11:02,200 - 00:11:03,700] So what it really has to
+- [00:11:03,700 - 00:11:05,200] do with is the following operation.
+- [00:11:05,700 - 00:11:11,200] You take, you take a rotation represented by a U.
+- [00:11:12,100 - 00:11:14,650] Now you take another rotation about
+- [00:11:14,650 - 00:11:17,200] some other axis by some other angle.
+- [00:11:18,100 - 00:11:20,300] Let's start it out, U, and
+- [00:11:20,300 - 00:11:22,500] then you multiply it by V.
+- [00:11:22,800 - 00:11:23,300] What is that?
+- [00:11:23,300 - 00:11:25,900] That corresponds to a rotation about an
+- [00:11:25,900 - 00:11:28,500] axis followed by another rotation about another axis.
+- [00:11:29,300 - 00:11:31,700] Then you undo the first one.
+- [00:11:32,200 - 00:11:40,200] So what, so far what we've done is rotate, rotate, then rotate back along the,
+- [00:11:40,200 - 00:11:48,200] the original axis by minus the angle that we originally rotated, and then undo V.
+- [00:11:51,200 - 00:11:54,200] Does that give back no rotation at all?
+- [00:11:54,700 - 00:11:56,700] Does it give back no rotation?
+- [00:11:56,700 - 00:11:57,200] No.
+- [00:11:57,200 - 00:11:58,200] The answer is no.
+- [00:11:58,200 - 00:12:00,100] If you rotate about an axis
+- [00:12:00,100 - 00:12:02,000] and then rotate about another axis,
+- [00:12:02,000 - 00:12:03,500] and then undo the first
+- [00:12:03,500 - 00:12:05,000] one, and undo the second one,
+- [00:12:05,500 - 00:12:09,500] it is not the original configuration.
+- [00:12:09,800 - 00:12:12,600] It is not equal to the identity.
+- [00:12:13,200 - 00:12:16,400] It is itself a small, another rotation.
+- [00:12:17,000 - 00:12:18,700] Just, most of you have seen
+- [00:12:18,700 - 00:12:20,400] a demonstration of this sort of thing.
+- [00:12:20,400 - 00:12:23,300] What happens if you rotate a thing about the X
+- [00:12:23,300 - 00:12:26,200] axis, then rotate about the Y, I can't do this.
+- [00:12:26,600 - 00:12:29,200] But you rotate about the X axis, rotate about the
+- [00:12:29,200 - 00:12:31,800] Y axis, now I've forgotten which the X axis is.
+- [00:12:32,000 - 00:12:34,500] And do it again and come back.
+- [00:12:34,500 - 00:12:36,500] You'll come back to some other configuration.
+- [00:12:36,500 - 00:12:38,000] Consider an airplane and roll pitch and yaw.
+- [00:12:38,000 - 00:12:38,500] What's that?
+- [00:12:38,500 - 00:12:40,500] Consider an airplane and roll pitch and yaw.
+- [00:12:40,500 - 00:12:41,500] That makes it easy.
+- [00:12:41,500 - 00:12:42,500] That's true.
+- [00:12:42,500 - 00:12:44,000] I hope that was the idea of
+- [00:12:44,000 - 00:12:45,500] an airplane where I can sense the commutator.
+- [00:12:45,500 - 00:12:51,500] Right.
+- [00:12:51,500 - 00:12:53,000] All right.
+- [00:12:53,000 - 00:12:56,000] Let's check what you get.
+- [00:12:56,000 - 00:12:58,500] In other words, what you get on
+- [00:12:58,500 - 00:13:01,000] the right-hand side is some other rotation.
+- [00:13:01,000 - 00:13:02,000] I won't give it a name.
+- [00:13:02,000 - 00:13:03,000] It's another U.
+- [00:13:03,000 - 00:13:04,000] It's another U.
+- [00:13:04,000 - 00:13:05,500] But let's see what happens if
+- [00:13:05,500 - 00:13:07,000] we do it for small rotations.
+- [00:13:07,000 - 00:13:09,000] Let's check, in fact, exactly
+- [00:13:09,000 - 00:13:11,000] what happens for small rotations.
+- [00:13:11,000 - 00:13:15,250] And let's take the case of a rotation about
+- [00:13:15,250 - 00:13:19,500] X, a rotation about Y, reverse the rotation about X,
+- [00:13:19,500 - 00:13:21,500] and then reverse the one about Y,
+- [00:13:21,500 - 00:13:23,500] but each one of them being small rotations.
+- [00:13:23,500 - 00:13:25,500] And let's see what we get.
+- [00:13:25,500 - 00:13:28,000] You know, I think that there's something that
+- [00:13:28,000 - 00:13:30,500] you know so well that you haven't mentioned.
+- [00:13:31,000 - 00:13:36,000] But when you did the U dagger U equals Y,
+- [00:13:36,000 - 00:13:41,000] that could also be written as U dagger equals U inverse.
+- [00:13:41,000 - 00:13:42,000] It does.
+- [00:13:42,000 - 00:13:44,500] And so when you see something like you
+- [00:13:44,500 - 00:13:47,000] just wrote up there, you're doing inverses of daggers.
+- [00:13:47,000 - 00:13:48,000] Good.
+- [00:13:48,000 - 00:13:49,500] So let me rewrite it
+- [00:13:49,500 - 00:13:51,000] then the way you would like.
+- [00:13:51,000 - 00:13:53,000] We started with U.
+- [00:13:53,000 - 00:13:54,000] Then we did V.
+- [00:13:54,000 - 00:13:56,000] And then we undid U.
+- [00:13:56,000 - 00:13:57,000] I wrote U dagger.
+- [00:13:57,000 - 00:13:59,000] You would like me to write U inverse.
+- [00:13:59,000 - 00:14:01,000] I just like people to be aware of that.
+- [00:14:01,000 - 00:14:02,000] Right.
+- [00:14:02,000 - 00:14:03,000] I know you do.
+- [00:14:03,000 - 00:14:05,000] So do I.
+- [00:14:05,000 - 00:14:08,000] That's the same operation.
+- [00:14:08,000 - 00:14:10,000] Same operation.
+- [00:14:10,000 - 00:14:14,000] And incidentally, if we were just rotating about a
+- [00:14:14,000 - 00:14:18,000] given axis, let's say one axis, the X axis,
+- [00:14:18,000 - 00:14:20,000] we're never going to go from X to Y.
+- [00:14:20,000 - 00:14:21,000] What would happen?
+- [00:14:21,000 - 00:14:23,500] Rotation by X, rotation by another X, then
+- [00:14:23,500 - 00:14:26,000] undo the first one, then undo the second one.
+- [00:14:26,000 - 00:14:27,000] What did we come back to?
+- [00:14:27,000 - 00:14:29,000] No rotation at all.
+- [00:14:29,000 - 00:14:30,000] Okay?
+- [00:14:30,000 - 00:14:32,500] So if we do everything in
+- [00:14:32,500 - 00:14:35,000] one plane, we don't get anything interesting.
+- [00:14:35,000 - 00:14:36,500] It's if we do it in
+- [00:14:36,500 - 00:14:38,000] two planes that we get something.
+- [00:14:38,000 - 00:14:42,000] The only thing you can do with that is you can put one of the
+- [00:14:42,000 - 00:14:46,000] Vs, the second Vs on the other side, and if U inverse Vs, U equals V.
+- [00:14:46,000 - 00:14:48,000] You can do lots of things.
+- [00:14:48,000 - 00:14:50,000] Let's see what happens.
+- [00:14:50,000 - 00:14:51,000] We start with U.
+- [00:14:51,000 - 00:14:55,000] That's 1 plus I epsilon LX.
+- [00:14:55,000 - 00:14:59,000] That's rotation about an angle of epsilon.
+- [00:14:59,000 - 00:15:01,000] Then we're going to rotate about the Y
+- [00:15:01,000 - 00:15:03,000] axis, and I'm going to use a different angle.
+- [00:15:03,000 - 00:15:07,000] I'm going to call the angle delta now.
+- [00:15:07,000 - 00:15:12,000] 1 plus I delta LY.
+- [00:15:12,000 - 00:15:14,000] Then we're going to undo the first one.
+- [00:15:14,000 - 00:15:19,000] That's 1 minus I epsilon LX.
+- [00:15:19,000 - 00:15:23,500] Incidentally, for small rotations, the infinitesimal, the
+- [00:15:23,500 - 00:15:28,000] inverse operator is just 1 minus I.
+- [00:15:28,000 - 00:15:32,000] 1 minus I epsilon instead of 1 plus.
+- [00:15:32,000 - 00:15:36,000] And then finally, we undo the last one.
+- [00:15:36,000 - 00:15:44,000] 1 minus I delta LY.
+- [00:15:44,000 - 00:15:47,000] And let's see if we can
+- [00:15:47,000 - 00:15:50,000] figure out what we're going to get.
+- [00:15:50,000 - 00:15:52,000] There's a lot of terms
+- [00:15:52,000 - 00:15:54,000] when you multiply these all out.
+- [00:15:54,000 - 00:15:57,000] And some of them will get better.
+- [00:15:57,000 - 00:15:59,000] Some of them will get mixed up with others.
+- [00:15:59,000 - 00:16:01,000] Some of them will be order 1.
+- [00:16:01,000 - 00:16:03,000] In fact, they'll only be 1, which is order 1.
+- [00:16:03,000 - 00:16:07,000] It's 1 times 1 times 1 times 1.
+- [00:16:07,000 - 00:16:10,000] The next thing will be order delta.
+- [00:16:10,000 - 00:16:12,000] Let's see what's there to order delta.
+- [00:16:12,000 - 00:16:14,000] Just delta by itself.
+- [00:16:14,000 - 00:16:16,500] Well, there's going to be I delta of
+- [00:16:16,500 - 00:16:19,000] Y times the rest of the 1s, right?
+- [00:16:19,000 - 00:16:21,500] So there'll be a minus I delta
+- [00:16:21,500 - 00:16:24,000] of Y times 1 times 1 times 1.
+- [00:16:24,000 - 00:16:26,000] But then there'll be plus I delta Y.
+- [00:16:26,000 - 00:16:30,000] So there'll be 1 times 1 times 1 times 1.
+- [00:16:30,000 - 00:16:32,000] So they'll cancel.
+- [00:16:32,000 - 00:16:36,000] Same thing of the I epsilon X.
+- [00:16:36,000 - 00:16:38,000] There'll be 1 times minus I
+- [00:16:38,000 - 00:16:40,000] epsilon X times 1 times 1.
+- [00:16:40,000 - 00:16:42,000] But then there'll be the
+- [00:16:42,000 - 00:16:44,000] opposite from this one over here.
+- [00:16:44,000 - 00:16:47,000] So the things to order delta and
+- [00:16:47,000 - 00:16:50,000] the things to order epsilon will cancel.
+- [00:16:50,000 - 00:16:52,000] Nothing left of them.
+- [00:16:52,000 - 00:16:55,000] There are things of order delta squared.
+- [00:16:56,000 - 00:16:59,000] And things of order epsilon squared.
+- [00:16:59,000 - 00:17:01,000] I don't want to keep track of them.
+- [00:17:01,000 - 00:17:03,000] You can keep track of them another day.
+- [00:17:03,000 - 00:17:05,500] What I want to keep track of
+- [00:17:05,500 - 00:17:08,000] is the things of order epsilon times delta.
+- [00:17:08,000 - 00:17:11,000] The things which are sensitive to the
+- [00:17:11,000 - 00:17:14,000] fact that I rotated about two different axes.
+- [00:17:14,000 - 00:17:17,500] One of them, the epsilon kept track
+- [00:17:17,500 - 00:17:21,000] of the rotation about the X axis.
+- [00:17:21,000 - 00:17:22,500] The delta kept track of
+- [00:17:22,500 - 00:17:24,000] the thing about the Y axis.
+- [00:17:24,000 - 00:17:27,500] So let's see what's there, what
+- [00:17:27,500 - 00:17:31,000] remains there to order delta times epsilon.
+- [00:17:31,000 - 00:17:35,500] Here we're going to have delta times epsilon
+- [00:17:35,500 - 00:17:40,000] will always involve L Y times L X.
+- [00:17:40,000 - 00:17:42,000] How many of them are there altogether?
+- [00:17:42,000 - 00:17:45,000] How many delta times epsilons are there?
+- [00:17:45,000 - 00:17:47,000] There's one over here.
+- [00:17:47,000 - 00:17:51,000] There's one over here.
+- [00:17:51,000 - 00:17:53,000] And...
+- [00:17:54,000 - 00:17:57,000] What have I missed?
+- [00:17:57,000 - 00:18:01,000] I have missed this times this, right?
+- [00:18:01,000 - 00:18:07,000] This one times this one?
+- [00:18:07,000 - 00:18:10,000] Third term times the fourth term.
+- [00:18:10,000 - 00:18:14,000] Third term times the fourth term.
+- [00:18:14,000 - 00:18:17,000] Ah, third term times the fourth term.
+- [00:18:17,000 - 00:18:20,000] Yeah, third term times the fourth term.
+- [00:18:24,000 - 00:18:30,000] First term times the fourth term.
+- [00:18:30,000 - 00:18:32,000] First term times the fourth term.
+- [00:18:32,000 - 00:18:33,000] You got that?
+- [00:18:33,000 - 00:18:35,000] Yes, we got it.
+- [00:18:35,000 - 00:18:37,000] We have the first term times the fourth term?
+- [00:18:37,000 - 00:18:41,000] First term times the fourth term.
+- [00:18:41,000 - 00:18:43,000] It's getting too complicated.
+- [00:18:43,000 - 00:18:47,000] I need to clean it up.
+- [00:18:47,000 - 00:18:51,000] Alright.
+- [00:18:51,000 - 00:18:53,000] Ah, there are two terms and two terms.
+- [00:18:53,000 - 00:18:55,000] That's the point.
+- [00:18:55,000 - 00:18:56,000] Yeah.
+- [00:18:56,000 - 00:18:57,000] Right.
+- [00:18:57,000 - 00:18:58,000] Good, good.
+- [00:18:58,000 - 00:18:59,000] Thank you.
+- [00:18:59,000 - 00:19:03,000] Here's a delta times an epsilon with a
+- [00:19:03,000 - 00:19:07,000] sign which is L Y times L X, right?
+- [00:19:07,000 - 00:19:08,000] Right.
+- [00:19:08,000 - 00:19:12,500] L Y times L X times minus I
+- [00:19:12,500 - 00:19:17,000] times minus I I think is minus one, right?
+- [00:19:17,000 - 00:19:18,000] Okay.
+- [00:19:18,000 - 00:19:20,000] And then there is L
+- [00:19:20,000 - 00:19:22,000] Y times L X over here.
+- [00:19:22,000 - 00:19:25,000] And that comes in with what sign?
+- [00:19:25,000 - 00:19:28,000] With the opposite sign.
+- [00:19:28,000 - 00:19:32,000] I don't like that.
+- [00:19:32,000 - 00:19:33,000] Okay.
+- [00:19:33,000 - 00:19:34,000] Let's see what happens.
+- [00:19:34,000 - 00:19:36,000] So that cancels this?
+- [00:19:36,000 - 00:19:39,000] Does it?
+- [00:19:39,000 - 00:19:40,000] Same sign or opposite sign?
+- [00:19:40,000 - 00:19:42,000] Help me, help me.
+- [00:19:42,000 - 00:19:43,000] Same sign.
+- [00:19:43,000 - 00:19:46,000] It's the same order.
+- [00:19:46,000 - 00:19:50,000] No, because I I is a minus, right?
+- [00:19:50,000 - 00:19:51,000] Yeah.
+- [00:19:51,000 - 00:19:58,500] So, minus I minus times minus is plus
+- [00:19:58,500 - 00:20:06,000] and wait, wait, sorry, minus times minus is plus
+- [00:20:06,000 - 00:20:08,000] over here and then we also have
+- [00:20:08,000 - 00:20:10,000] L Y times L X over here.
+- [00:20:10,000 - 00:20:12,000] The minus times the minus is a
+- [00:20:12,000 - 00:20:14,000] plus times the I and a I.
+- [00:20:14,000 - 00:20:15,000] Right.
+- [00:20:15,000 - 00:20:16,000] So it's times two.
+- [00:20:16,000 - 00:20:17,000] So it's a minus.
+- [00:20:17,000 - 00:20:18,000] Yeah.
+- [00:20:18,000 - 00:20:19,000] So it's minus two.
+- [00:20:19,000 - 00:20:20,000] Minus two, right?
+- [00:20:20,000 - 00:20:21,000] Yeah.
+- [00:20:21,000 - 00:20:22,000] So it's minus two.
+- [00:20:22,000 - 00:20:27,000] And now we have, that's L Y times X.
+- [00:20:27,000 - 00:20:31,000] Now we have L X times L Y.
+- [00:20:31,000 - 00:20:34,000] L X to the left, L Y to the right.
+- [00:20:34,000 - 00:20:35,000] What do we have for that?
+- [00:20:35,000 - 00:20:37,000] I hope it's twice plus two.
+- [00:20:47,000 - 00:20:48,500] There are two terms with minus
+- [00:20:48,500 - 00:20:50,000] sign, two terms with plus sign.
+- [00:20:50,000 - 00:20:53,000] The terms with minus sign are L Y times L X
+- [00:20:53,000 - 00:20:56,000] and the term with plus sign are L X times L Y,
+- [00:20:56,000 - 00:20:57,000] I hope.
+- [00:20:57,000 - 00:20:58,000] So let me just check it.
+- [00:20:58,000 - 00:21:03,000] L Y times L X is minus times minus and L
+- [00:21:03,000 - 00:21:08,000] Y and L Y times L X is plus times plus.
+- [00:21:08,000 - 00:21:09,000] Those have the same sign.
+- [00:21:09,000 - 00:21:10,000] Yeah.
+- [00:21:10,000 - 00:21:11,000] All right.
+- [00:21:11,000 - 00:21:14,500] Then there's L Y, then there's L X
+- [00:21:14,500 - 00:21:18,000] times L Y and that has the opposite sign.
+- [00:21:18,000 - 00:21:20,500] So there are two L Y L
+- [00:21:20,500 - 00:21:23,000] Xs and two L X L Ys.
+- [00:21:23,000 - 00:21:26,000] If L X and L
+- [00:21:26,000 - 00:21:29,000] Y commuted, then this would cancel.
+- [00:21:29,000 - 00:21:30,000] Okay.
+- [00:21:30,000 - 00:21:32,000] Then this would cancel.
+- [00:21:32,000 - 00:21:34,500] But the fact that these rotations don't
+- [00:21:34,500 - 00:21:37,000] cancel, the fact that a rotation, another rotation,
+- [00:21:37,000 - 00:21:41,000] followed by them back again, don't cancel, are
+- [00:21:41,000 - 00:21:45,000] an indication that this should not be zero.
+- [00:21:45,000 - 00:21:46,000] In other words, the commutator. . .
+- [00:21:49,000 - 00:21:51,660] The commutator between L X and L Y is
+- [00:21:51,660 - 00:21:54,320] the thing which keeps track of the fact that rotations
+- [00:21:54,320 - 00:21:57,720] in different orders don't cancel out.
+- [00:21:57,720 - 00:21:59,420] That's what the commutator really is.
+- [00:21:59,420 - 00:22:05,850] The commutator is the non-cancellation
+- [00:22:05,850 - 00:22:12,280] of operations which don't cancel.
+- [00:22:12,280 - 00:22:14,080] That's what this is indicating here.
+- [00:22:14,080 - 00:22:15,560] So what does this tell you?
+- [00:22:15,560 - 00:22:16,560] This tells you. . . .
+- [00:22:18,560 - 00:22:19,560] This is the commutator.
+- [00:22:19,560 - 00:22:24,540] This is twice the commutator
+- [00:22:24,540 - 00:22:29,520] of L X with L Y.
+- [00:22:29,520 - 00:22:31,520] Twice the commutator of L X with L Y.
+- [00:22:31,520 - 00:22:32,520] That's what's left here.
+- [00:22:32,520 - 00:22:33,520] Plus one.
+- [00:22:33,520 - 00:22:34,520] There's also the one.
+- [00:22:34,520 - 00:22:35,050] Dr. Michael S. You know, I think that
+- [00:22:35,050 - 00:22:35,580] we're off by a factor of two, because
+- [00:22:35,580 - 00:22:39,540] there are really three terms with L Y L
+- [00:22:39,540 - 00:22:43,500] X and one term with L X L Y.
+- [00:22:43,500 - 00:22:44,500] Oh, no, no.
+- [00:22:44,500 - 00:22:45,440] Dr. Michael S. That's what I get.
+- [00:22:45,440 - 00:22:46,440] Dr. Michael S. Yeah.
+- [00:22:46,440 - 00:22:46,540] Dr. Michael S. Yeah.
+- [00:22:46,540 - 00:22:49,540] Yeah, I think that's right.
+- [00:22:49,780 - 00:22:57,600] That's what I thought.
+- [00:22:59,240 - 00:23:00,960] So what is it? Just one times?
+- [00:23:01,500 - 00:23:03,159] Yeah, that seems right.
+- [00:23:04,159 - 00:23:06,340] There are three with one sign.
+- [00:23:07,159 - 00:23:07,440] No.
+- [00:23:07,440 - 00:23:09,300] Three with one order.
+- [00:23:09,600 - 00:23:10,740] Three with one order.
+- [00:23:11,700 - 00:23:12,899] And one with the other order.
+- [00:23:12,900 - 00:23:15,760] Remind me.
+- [00:23:16,760 - 00:23:18,580] Yeah, three with L, Y, L, X.
+- [00:23:18,940 - 00:23:20,510] It's because all the L, Y's are
+- [00:23:20,510 - 00:23:22,080] on the left of all the L, X's.
+- [00:23:22,360 - 00:23:25,100] So if you go to the L, Y,
+- [00:23:25,320 - 00:23:29,420] you have two L, X's to the right.
+- [00:23:30,560 - 00:23:31,740] If you go to the L,
+- [00:23:32,100 - 00:23:34,040] if you're looking for...
+- [00:23:34,040 - 00:23:37,400] I've done this at home a number of times
+- [00:23:37,400 - 00:23:39,200] just to make sure I was ready for you today.
+- [00:23:39,200 - 00:23:40,980] There's only one way to get L, X, L, Y,
+- [00:23:41,060 - 00:23:41,880] and that's the middle one.
+- [00:23:42,740 - 00:23:42,880] Ah.
+- [00:23:43,180 - 00:23:44,260] L, X, L, Y. Right.
+- [00:23:45,140 - 00:23:46,100] So that's this one.
+- [00:23:47,780 - 00:23:49,840] And then there are three others.
+- [00:23:50,840 - 00:23:53,220] This L, Y has two L, X's to the right.
+- [00:23:53,520 - 00:23:54,630] That L, Y only has
+- [00:23:54,630 - 00:23:55,740] one L, X to the right.
+- [00:23:55,740 - 00:23:59,740] Do you get this?
+- [00:24:00,320 - 00:24:00,460] Yeah.
+- [00:24:01,020 - 00:24:02,320] Okay. Good enough.
+- [00:24:03,120 - 00:24:03,640] Good enough.
+- [00:24:05,360 - 00:24:06,760] I'm blind by now.
+- [00:24:06,760 - 00:24:07,880] I can't do it.
+- [00:24:08,540 - 00:24:10,240] Anyway, this is what you get.
+- [00:24:10,320 - 00:24:12,640] You get something proportional to the commutator here.
+- [00:24:12,900 - 00:24:14,000] So in other words,
+- [00:24:14,160 - 00:24:15,200] the net answer,
+- [00:24:15,560 - 00:24:17,140] there was an epsilon times delta.
+- [00:24:17,320 - 00:24:18,500] Epsilon times delta.
+- [00:24:19,920 - 00:24:20,400] No two.
+- [00:24:21,320 - 00:24:21,720] All right.
+- [00:24:22,740 - 00:24:23,040] All right.
+- [00:24:23,380 - 00:24:25,220] L, X times L, Y,
+- [00:24:25,440 - 00:24:27,740] or the commutator of L, X times L, Y,
+- [00:24:28,240 - 00:24:33,520] this becomes one plus I, epsilon, delta, L, Z.
+- [00:24:35,680 - 00:24:36,820] In other words,
+- [00:24:37,060 - 00:24:40,220] this combination of rotations about X, Y,
+- [00:24:40,220 - 00:24:41,760] then back again along X,
+- [00:24:41,840 - 00:24:42,880] then back again along Y,
+- [00:24:42,960 - 00:24:46,760] give you a small rotation by an angle,
+- [00:24:46,760 - 00:24:50,040] epsilon times delta about the Z axis.
+- [00:24:50,040 - 00:24:51,260] All right.
+- [00:24:51,660 - 00:24:53,380] This is what the commutators tell you.
+- [00:24:54,080 - 00:24:57,560] So whenever you have a group of transformations,
+- [00:24:58,420 - 00:25:01,020] a particular continuous group of transformations,
+- [00:25:01,020 - 00:25:05,180] the whole structure of the group is contained
+- [00:25:05,180 - 00:25:07,160] in these infinitesimal generators,
+- [00:25:07,480 - 00:25:09,880] and especially in their commutator algebra.
+- [00:25:10,580 - 00:25:12,820] The commutator algebra is sort
+- [00:25:12,820 - 00:25:14,860] of the group multiplication table,
+- [00:25:15,460 - 00:25:18,679] but in the form of these infinitesimal generators.
+- [00:25:20,439 - 00:25:20,639] All right.
+- [00:25:20,639 - 00:25:21,240] That's a...
+- [00:25:23,379 - 00:25:26,760] If you switch the U dagger and B dagger,
+- [00:25:26,760 - 00:25:28,939] then it will equal the identity, correct?
+- [00:25:28,939 - 00:25:32,340] Yeah, if you switch the middle.
+- [00:25:32,340 - 00:25:33,939] Yeah, if you switch the middle.
+- [00:25:33,939 - 00:25:34,000] Yeah.
+- [00:25:34,000 - 00:25:39,379] So does this get more complicated
+- [00:25:39,379 - 00:25:41,260] if you have four instead of three?
+- [00:25:41,260 - 00:25:42,100] You have X, Y, and then...
+- [00:25:42,100 - 00:25:42,220] Yeah.
+- [00:25:42,220 - 00:25:42,260] Yeah.
+- [00:25:42,260 - 00:25:42,300] Yeah.
+- [00:25:42,300 - 00:25:42,360] Yeah.
+- [00:25:42,360 - 00:25:42,419] Yeah.
+- [00:25:42,419 - 00:25:42,460] Yeah.
+- [00:25:42,460 - 00:25:42,520] Yeah.
+- [00:25:42,520 - 00:25:42,540] Yeah.
+- [00:25:42,540 - 00:25:42,560] Yeah.
+- [00:25:42,560 - 00:25:42,580] Yeah.
+- [00:25:42,580 - 00:25:42,639] Yeah.
+- [00:25:42,820 - 00:25:43,200] Yeah.
+- [00:25:43,200 - 00:25:44,320] And then there's Z, which is the third.
+- [00:25:44,659 - 00:25:46,460] If you go to four, now it has to be...
+- [00:25:46,460 - 00:25:47,700] It does get more complicated,
+- [00:25:47,960 - 00:25:49,600] but it does get more complicated,
+- [00:25:50,399 - 00:25:53,220] but if you know the commutator algebra here,
+- [00:25:53,320 - 00:25:55,360] you can, in principle, figure out
+- [00:25:55,360 - 00:25:59,720] how to compound together many, many little transformations.
+- [00:26:00,120 - 00:26:01,080] This was just one example.
+- [00:26:01,840 - 00:26:04,480] You can obviously build up any transformation
+- [00:26:04,480 - 00:26:05,980] out of lots of little ones.
+- [00:26:06,860 - 00:26:09,139] So if you know how the little ones combine,
+- [00:26:09,679 - 00:26:12,220] that's very much knowing the properties of the group,
+- [00:26:12,220 - 00:26:12,460] knowing the...
+- [00:26:12,460 - 00:26:14,060] Knowing the algebra,
+- [00:26:14,060 - 00:26:15,700] the whole structure of the group,
+- [00:26:15,700 - 00:26:17,700] and how the parce Keith sана.
+- [00:26:17,700 - 00:26:19,820] We're focused on that.
+- [00:26:19,820 - 00:26:19,900] Right?
+- [00:26:19,900 - 00:26:20,100] But also,
+- [00:26:20,100 - 00:26:21,440] you have to consider,
+- [00:26:21,440 - 00:26:21,900] for example,
+- [00:26:21,900 - 00:26:22,580] know the vibration if you want to view
+- [00:26:22,580 - 00:26:23,520] a lag from a random Pedrigan.
+- [00:26:23,520 - 00:26:24,060] You do that.
+- [00:26:24,060 - 00:26:24,340] It takes something.
+- [00:26:24,340 - 00:26:25,040] You type it in the text.
+- [00:26:25,040 - 00:26:25,700] You print it,
+- [00:26:25,700 - 00:26:27,000] and it goes to a different duration
+- [00:26:27,000 - 00:26:28,260] rather than four,
+- [00:26:28,260 - 00:26:29,440] rather than two,
+- [00:26:29,440 - 00:26:30,680] or you put it in the end.
+- [00:26:30,680 - 00:26:31,320] OK.
+- [00:26:31,320 - 00:26:33,400] So the Hebrew component
+- [00:26:33,400 - 00:26:34,020] is this one,
+- [00:26:34,020 - 00:26:34,760] n,
+- [00:26:34,760 - 00:26:36,260] before you you know,
+- [00:26:36,260 - 00:26:37,660] do a couple more things,
+- [00:26:37,660 - 00:26:37,920] and the birth of
+- [00:26:37,920 - 00:26:39,840] and the fact that English is so foreign is really,
+- [00:26:39,840 - 00:26:41,100] and the fact that the year 8 and 9
+- [00:26:41,100 - 00:26:41,280] is laminated.
+- [00:26:41,280 - 00:26:41,740] Which is incredibly?
+- [00:26:41,740 - 00:26:41,860] And one way,
+- [00:26:41,860 - 00:26:44,519] Incidentally, in the case of rotations, L
+- [00:26:44,519 - 00:26:47,179] is of course just the angular momentum.
+- [00:26:47,179 - 00:26:51,269] I picked it just, there are
+- [00:26:51,269 - 00:26:55,360] other transformations of space besides rotations, incidentally.
+- [00:26:55,360 - 00:26:57,000] There's translations in space.
+- [00:26:57,000 - 00:27:00,020] Let me fill out the rest
+- [00:27:00,020 - 00:27:03,040] of the group of transformations of space.
+- [00:27:03,040 - 00:27:05,450] These are the rotations, and they're
+- [00:27:05,450 - 00:27:07,860] rotations, for example, about the origin.
+- [00:27:07,860 - 00:27:10,580] The other things you can
+- [00:27:10,580 - 00:27:13,300] do with space is to translate.
+- [00:27:13,300 - 00:27:15,560] Translations are generated, again, by their
+- [00:27:15,560 - 00:27:17,820] unitary transformations, but what are the
+- [00:27:17,820 - 00:27:20,249] infinitesimal generators for
+- [00:27:20,249 - 00:27:22,679] translation, for spatial translation?
+- [00:27:22,679 - 00:27:23,679] The momentum.
+- [00:27:23,679 - 00:27:26,080] That's what momentum is.
+- [00:27:26,080 - 00:27:30,910] A translation, let's say about the x-axis,
+- [00:27:30,910 - 00:27:35,740] where you push everything along the x-axis
+- [00:27:35,740 - 00:27:37,740] by an infinitesimal amount.
+- [00:27:37,740 - 00:27:40,240] That's, again, of the form
+- [00:27:40,240 - 00:27:42,740] 1 plus i times a parameter.
+- [00:27:42,740 - 00:27:45,020] The parameter now would correspond to the
+- [00:27:45,020 - 00:27:47,300] distance that you push things, the distance
+- [00:27:47,300 - 00:27:48,300] that you translate.
+- [00:27:48,300 - 00:27:49,300] Again, let's call it epsilon.
+- [00:27:49,300 - 00:27:51,300] It's not an angle now.
+- [00:27:51,300 - 00:27:57,560] It's a distance times the x component of momentum.
+- [00:27:57,560 - 00:28:00,960] This would be a translation along the x-axis,
+- [00:28:00,960 - 00:28:04,360] translation along the y-axis, 1 plus i epsilon
+- [00:28:04,360 - 00:28:07,260] py, and so forth.
+- [00:28:07,740 - 00:28:11,040] This would be the group of translations.
+- [00:28:11,040 - 00:28:15,180] This would be the group of rotations.
+- [00:28:15,180 - 00:28:22,400] What about commutators between rotations and translations?
+- [00:28:22,400 - 00:28:24,740] Would you expect them to commute or not?
+- [00:28:24,740 - 00:28:26,620] I think so.
+- [00:28:26,620 - 00:28:28,850] How about commutation, first
+- [00:28:28,850 - 00:28:31,080] of all, among just translations?
+- [00:28:31,080 - 00:28:33,160] You translate something this way, then you
+- [00:28:33,160 - 00:28:35,240] translate it this way, then you translate
+- [00:28:35,240 - 00:28:35,990] it back this way, and then
+- [00:28:35,990 - 00:28:36,740] you translate it back this way.
+- [00:28:36,740 - 00:28:37,740] That's the commutation.
+- [00:28:37,740 - 00:28:40,150] You translate it this way, translation along
+- [00:28:40,150 - 00:28:42,560] x, y, invert the x, and then back.
+- [00:28:42,560 - 00:28:43,560] What do you get?
+- [00:28:43,560 - 00:28:44,560] The same thing.
+- [00:28:44,560 - 00:28:45,560] The same thing.
+- [00:28:45,560 - 00:28:49,060] Well, when you translate something or when
+- [00:28:49,060 - 00:28:52,560] you rotate something, you first have to apply
+- [00:28:52,560 - 00:28:55,560] a force to move it.
+- [00:28:55,560 - 00:28:58,020] We're not talking about literally moving things.
+- [00:28:58,020 - 00:29:01,600] We're talking about just imaginary transformations.
+- [00:29:01,600 - 00:29:02,600] No force here.
+- [00:29:02,600 - 00:29:05,040] All I'm saying is that you have to do it.
+- [00:29:05,040 - 00:29:06,040] Then you have to undo what you did before.
+- [00:29:06,040 - 00:29:07,040] You have to do it.
+- [00:29:07,040 - 00:29:07,690] You have to do what you
+- [00:29:07,690 - 00:29:08,340] did to make it do it.
+- [00:29:08,340 - 00:29:09,340] You've got actually four actions involved.
+- [00:29:09,340 - 00:29:11,840] You have to start it and stop it, and then
+- [00:29:11,840 - 00:29:14,340] you have to start it and stop it again to
+- [00:29:14,340 - 00:29:15,340] undo it.
+- [00:29:15,340 - 00:29:20,340] These are not actual motions of a system.
+- [00:29:20,340 - 00:29:24,850] They're just asking, what would the state of
+- [00:29:24,850 - 00:29:29,360] a world be like if you displaced everything?
+- [00:29:29,360 - 00:29:31,600] They're not saying, displace it.
+- [00:29:31,600 - 00:29:33,010] They're saying, what would the state
+- [00:29:33,010 - 00:29:34,420] be if you did displace it?
+- [00:29:34,420 - 00:29:35,420] A little bit of a difference.
+- [00:29:35,420 - 00:29:36,420] It's a bit of a dramatic thing.
+- [00:29:36,420 - 00:29:37,420] It's mathematics, not physics.
+- [00:29:37,420 - 00:29:38,420] It's mathematics, not physics.
+- [00:29:38,420 - 00:29:39,420] Yeah.
+- [00:29:39,420 - 00:29:40,420] Just a mathematical description of a displaced thing.
+- [00:29:40,420 - 00:29:41,920] If you displace along an axis, and then
+- [00:29:41,920 - 00:29:43,420] you displace along another axis, and then you
+- [00:29:43,420 - 00:29:47,920] displace back along the first axis, and then
+- [00:29:47,920 - 00:29:52,420] you displace back along the second axis, you
+- [00:29:52,420 - 00:29:57,420] come back to the same place.
+- [00:29:57,420 - 00:30:00,420] That's a property of Euclidean space.
+- [00:30:00,420 - 00:30:03,720] What does that tell you about commutators of momenta?
+- [00:30:03,720 - 00:30:04,720] Zero.
+- [00:30:04,720 - 00:30:05,720] Zero.
+- [00:30:05,720 - 00:30:08,720] Commutators of momenta are zero.
+- [00:30:08,720 - 00:30:09,720] Okay?
+- [00:30:09,720 - 00:30:19,220] Now, let's try to see what would happen
+- [00:30:19,220 - 00:30:28,720] if we take a point, first translate it.
+- [00:30:28,720 - 00:30:32,720] We translate by one unit in this direction.
+- [00:30:32,720 - 00:30:33,720] Now, rotate by an angle.
+- [00:30:33,720 - 00:30:34,720] Okay.
+- [00:30:34,720 - 00:30:37,220] So we rotate by an angle,
+- [00:30:37,220 - 00:30:39,720] let's say by an angle theta.
+- [00:30:39,720 - 00:30:40,720] All right?
+- [00:30:40,720 - 00:30:44,220] So we rotate from here up to,
+- [00:30:44,220 - 00:30:47,720] let's say, over here by this angle theta.
+- [00:30:47,720 - 00:30:49,720] That's the angle theta.
+- [00:30:49,720 - 00:30:55,220] And then we translate back, translate along the
+- [00:30:55,220 - 00:31:00,720] same axis back, and then undo the rotation.
+- [00:31:00,720 - 00:31:01,720] Where do we come to?
+- [00:31:01,720 - 00:31:03,720] Do we come back to the same point?
+- [00:31:03,720 - 00:31:05,720] No.
+- [00:31:05,720 - 00:31:11,720] We come back to about over here someplace.
+- [00:31:11,720 - 00:31:16,720] So it's clear that translations and rotations don't commute.
+- [00:31:16,720 - 00:31:20,720] Translations and rotations don't commute.
+- [00:31:20,720 - 00:31:21,720] And if you work it out,
+- [00:31:21,720 - 00:31:22,720] it's not hard to work out.
+- [00:31:22,720 - 00:31:25,220] You do little translations, little infinitesimal translations,
+- [00:31:25,220 - 00:31:27,720] and you can work out what the
+- [00:31:27,720 - 00:31:30,220] commutation relations are between the
+- [00:31:30,220 - 00:31:32,720] rotation generators and the translation generators.
+- [00:31:32,720 - 00:31:34,720] I'll tell you what they are.
+- [00:31:34,720 - 00:31:39,720] They're just a commutator of LX.
+- [00:31:39,720 - 00:31:49,720] Well, let's just do it in two dimensions.
+- [00:31:49,720 - 00:31:56,720] LI with PJ is I epsilon IJK PK.
+- [00:31:56,720 - 00:31:58,720] That's it.
+- [00:31:58,720 - 00:31:59,720] But this is not important.
+- [00:31:59,720 - 00:32:01,720] This is not important.
+- [00:32:01,720 - 00:32:04,720] What's important is the idea that everything
+- [00:32:04,720 - 00:32:07,720] is kept track of by these commutation relations.
+- [00:32:07,720 - 00:32:08,720] All right.
+- [00:32:08,720 - 00:32:10,720] That's the first thing about groups.
+- [00:32:10,720 - 00:32:15,720] Groups are really commutator algebras
+- [00:32:15,720 - 00:32:20,720] in disguise or vice versa.
+- [00:32:20,720 - 00:32:22,720] Next thing about groups in quantum mechanics.
+- [00:32:22,720 - 00:32:25,720] First of all, they're symmetries, but they tell
+- [00:32:25,720 - 00:32:28,720] you something about the energies of different configurations.
+- [00:32:28,720 - 00:32:30,720] Naively, it's clear.
+- [00:32:30,720 - 00:32:32,720] Naively, it's clear what they say.
+- [00:32:32,720 - 00:32:35,220] They say that if you perform one of
+- [00:32:35,220 - 00:32:37,720] these symmetry operations and you really have a symmetry,
+- [00:32:37,720 - 00:32:39,720] it should not change the energy of a system.
+- [00:32:39,720 - 00:32:42,720] If you have an object, whatever that object is, and
+- [00:32:42,720 - 00:32:45,720] it has a certain energy, and you just rotate it,
+- [00:32:45,720 - 00:32:48,720] it shouldn't change its energy.
+- [00:32:48,720 - 00:32:50,220] Or if you just translate
+- [00:32:50,220 - 00:32:51,720] it, it shouldn't change its energy.
+- [00:32:51,720 - 00:32:57,720] So if you have a legitimate symmetry,
+- [00:32:57,720 - 00:32:59,720] then the conclusion should be,
+- [00:32:59,720 - 00:33:04,720] that when you perform a symmetry operation,
+- [00:33:04,720 - 00:33:07,720] the energy of a state shouldn't change.
+- [00:33:07,720 - 00:33:09,720] Let's see what that says.
+- [00:33:09,720 - 00:33:19,720] See mathematically if we can see what that says.
+- [00:33:19,720 - 00:33:21,720] What the requirement is.
+- [00:33:21,720 - 00:33:24,720] Okay, so let's suppose we have some state, any state,
+- [00:33:24,720 - 00:33:27,720] and it happens to have energy E.
+- [00:33:27,720 - 00:33:29,720] Let's say it has energy E.
+- [00:33:29,720 - 00:33:31,720] It's an eigenvector of the energy.
+- [00:33:31,720 - 00:33:34,720] It has a definite energy, let's call it E.
+- [00:33:34,720 - 00:33:41,720] And now let's apply a small transformation to it.
+- [00:33:41,720 - 00:33:45,720] Let's call it U.
+- [00:33:45,720 - 00:33:48,720] Let's take U.
+- [00:33:48,720 - 00:33:50,720] U is, it doesn't have to be
+- [00:33:50,720 - 00:33:52,720] small, just a transformation of the appropriate kind,
+- [00:33:52,720 - 00:33:55,720] translation, rotation, iso-spin transformation, anything that
+- [00:33:55,720 - 00:33:58,720] corresponds to the symmetry of the system.
+- [00:33:59,720 - 00:34:01,720] And now ask what the
+- [00:34:01,720 - 00:34:03,720] energy of the resulting state is.
+- [00:34:03,720 - 00:34:05,720] We find the energy of the resulting state,
+- [00:34:05,720 - 00:34:07,720] well let's first of all say what this means.
+- [00:34:07,720 - 00:34:11,719] What this means, that it's a state of given energy,
+- [00:34:11,719 - 00:34:14,719] means that it's an eigenvector of the Hamiltonian,
+- [00:34:14,719 - 00:34:16,719] with eigenvalue E.
+- [00:34:16,719 - 00:34:19,719] Right? That's the definition in quantum mechanics
+- [00:34:19,719 - 00:34:22,719] of saying a thing has a definite energy.
+- [00:34:22,719 - 00:34:24,719] That the Hamiltonian acts on it
+- [00:34:24,719 - 00:34:26,719] to just give the eigenvalue back.
+- [00:34:26,719 - 00:34:28,719] It's an eigenvector of energy E.
+- [00:34:29,719 - 00:34:34,719] Okay, now let's ask about this state.
+- [00:34:34,719 - 00:34:38,719] If the original state was an eigenvector of the energy,
+- [00:34:38,719 - 00:34:40,719] and we have a symmetry,
+- [00:34:40,719 - 00:34:42,219] then the resulting state must also
+- [00:34:42,219 - 00:34:43,719] be an eigenvector of the energy, right?
+- [00:34:43,719 - 00:34:47,719] So that must say that
+- [00:34:47,719 - 00:34:51,719] the Hamiltonian on this state
+- [00:34:51,719 - 00:34:57,720] must be equal to the energy times the same state,
+- [00:34:57,720 - 00:34:59,720] U E.
+- [00:34:59,720 - 00:35:04,720] Okay?
+- [00:35:04,720 - 00:35:07,720] But this is also equal
+- [00:35:07,720 - 00:35:13,720] to H U E.
+- [00:35:13,720 - 00:35:15,720] What did I just do?
+- [00:35:15,720 - 00:35:18,720] I just said
+- [00:35:18,720 - 00:35:21,720] that the energy times U times E
+- [00:35:21,720 - 00:35:24,720] can be replaced by,
+- [00:35:24,720 - 00:35:27,720] put the Hamiltonian over here,
+- [00:35:27,720 - 00:35:28,720] why?
+- [00:35:28,720 - 00:35:32,720] Because H on E just gives E times E.
+- [00:35:32,720 - 00:35:35,720] Alright, so now I just subtract.
+- [00:35:35,720 - 00:35:40,720] H U minus U H
+- [00:35:40,720 - 00:35:42,720] on E
+- [00:35:42,720 - 00:35:45,720] equals zero.
+- [00:35:45,720 - 00:35:48,720] That's what the conclusion is
+- [00:35:48,720 - 00:35:52,720] if a symmetry operation doesn't change the energy.
+- [00:35:52,770 - 00:35:54,626] はい
+- [00:35:54,626 - 00:35:55,976] So what was the first
+- [00:35:55,976 - 00:35:57,326] relation that you had up there?
+- [00:35:57,546 - 00:35:58,926] H or U times...
+- [00:35:58,926 - 00:36:00,026] Okay, let's go through it again.
+- [00:36:00,146 - 00:36:00,906] Let me go through it again.
+- [00:36:00,986 - 00:36:01,506] This is tricky.
+- [00:36:08,106 - 00:36:09,526] We start by saying we
+- [00:36:09,526 - 00:36:10,946] have an eigenvector of the energy.
+- [00:36:11,406 - 00:36:16,286] H on E equals E on E.
+- [00:36:17,966 - 00:36:21,266] This says that E, the eigenvector E,
+- [00:36:21,266 - 00:36:24,186] is an eigenvector of the Hamiltonian with energy E.
+- [00:36:24,626 - 00:36:26,066] Okay, step number one.
+- [00:36:27,166 - 00:36:27,366] All right.
+- [00:36:27,786 - 00:36:31,946] Now, I assert that U times
+- [00:36:31,946 - 00:36:36,106] E has exactly the same energy.
+- [00:36:36,486 - 00:36:36,726] Why?
+- [00:36:36,866 - 00:36:38,645] Because U is a symmetry.
+- [00:36:39,286 - 00:36:41,126] It rotates or it does
+- [00:36:41,126 - 00:36:42,966] something that's just really a coordinate.
+- [00:36:43,226 - 00:36:45,326] It translates, it rotates.
+- [00:36:45,446 - 00:36:47,766] It doesn't do anything important to the system.
+- [00:36:48,266 - 00:36:49,626] This must have the same energy,
+- [00:36:49,626 - 00:36:51,556] and so this must also
+- [00:36:51,556 - 00:36:53,486] be an eigenvector of the Hamiltonian.
+- [00:36:53,826 - 00:36:54,606] Let's write that.
+- [00:36:54,626 - 00:37:02,726] H, U, E must equal E, U, E.
+- [00:37:04,986 - 00:37:06,206] Okay, let's just...
+- [00:37:06,206 - 00:37:06,526] Let me draw.
+- [00:37:07,886 - 00:37:09,286] E is just a number,
+- [00:37:09,986 - 00:37:11,906] except if it's in a vector, then it's a vector.
+- [00:37:13,306 - 00:37:13,486] All right?
+- [00:37:15,286 - 00:37:17,926] H times this vector here must
+- [00:37:17,926 - 00:37:20,566] equal E times the same vector.
+- [00:37:21,946 - 00:37:22,586] Okay?
+- [00:37:22,586 - 00:37:24,026] That's the statement,
+- [00:37:24,026 - 00:37:25,696] that U times E is
+- [00:37:25,696 - 00:37:27,366] also an eigenvector of the energy.
+- [00:37:28,466 - 00:37:28,886] Okay.
+- [00:37:29,346 - 00:37:31,546] Now, E is just a number, as Michael said,
+- [00:37:32,026 - 00:37:34,386] so it can be brought inside here.
+- [00:37:34,386 - 00:37:38,426] It doesn't matter which side of U it's on.
+- [00:37:38,746 - 00:37:39,466] It's just a number.
+- [00:37:40,566 - 00:37:44,946] U times E. Fair enough?
+- [00:37:44,946 - 00:37:47,486] I didn't do anything.
+- [00:37:47,486 - 00:37:50,086] I just interchanged the numerical
+- [00:37:50,086 - 00:37:52,686] number E with the operator U.
+- [00:37:54,026 - 00:37:58,026] But now, E times the vector
+- [00:37:58,026 - 00:38:02,026] E is H times the vector E.
+- [00:38:02,026 - 00:38:07,026] So I can say that this is U, H, E.
+- [00:38:07,026 - 00:38:11,266] Equals this one over here.
+- [00:38:11,266 - 00:38:15,766] And now I come to the marvelous conclusion by
+- [00:38:15,766 - 00:38:20,266] transposing that H times U minus U times E,
+- [00:38:20,266 - 00:38:22,466] and then I get the same thing.
+- [00:38:22,466 - 00:38:22,986] Okay?
+- [00:38:22,986 - 00:38:23,466] Okay.
+- [00:38:23,466 - 00:38:31,966] U times H acting on E is equal
+- [00:38:31,966 - 00:38:40,466] to zero for an eigenvector of energy E.
+- [00:38:40,466 - 00:38:43,086] But this has to be true not
+- [00:38:43,086 - 00:38:45,706] for one particular eigenvector of the energy,
+- [00:38:45,706 - 00:38:48,466] but for all eigenvectors of the energy.
+- [00:38:48,466 - 00:38:52,466] For any eigenvector of the energy, this must be true.
+- [00:38:53,466 - 00:38:58,466] If the energy eigenstates are a complete basis of states,
+- [00:38:58,466 - 00:39:01,466] then it follows mathematically that H times U
+- [00:39:01,466 - 00:39:04,466] minus U times H must itself be zero.
+- [00:39:04,466 - 00:39:06,966] If something is true, if
+- [00:39:06,966 - 00:39:09,466] something gives zero on every vector,
+- [00:39:09,466 - 00:39:12,466] or every eigenvector of a particular operator,
+- [00:39:12,466 - 00:39:14,466] then that thing must be zero.
+- [00:39:14,466 - 00:39:17,466] So the conclusion is, if you have a symmetry,
+- [00:39:17,466 - 00:39:19,966] it means that the symmetry
+- [00:39:19,966 - 00:39:22,466] operations commute with the Hamiltonian.
+- [00:39:23,466 - 00:39:24,466] All right?
+- [00:39:24,466 - 00:39:26,466] So that's the signal, or
+- [00:39:26,466 - 00:39:28,466] that's the conclusion, not the conclusion,
+- [00:39:28,466 - 00:39:31,966] that's the criteria for whether a set
+- [00:39:31,966 - 00:39:35,466] of transformations like U are symmetries or not.
+- [00:39:35,466 - 00:39:38,466] They must commute with the Hamiltonian.
+- [00:39:38,466 - 00:39:40,466] All right?
+- [00:39:40,466 - 00:39:45,466] So here is every symmetry, whatever it is,
+- [00:39:45,466 - 00:39:51,466] commutes with the Hamiltonian,
+- [00:39:51,466 - 00:39:52,466] and that's equivalent to,
+- [00:39:52,466 - 00:39:56,466] and that's equivalent to saying that the symmetry operations
+- [00:39:56,466 - 00:40:00,466] do not change the energy of a state.
+- [00:40:00,466 - 00:40:02,466] All right, so as an example,
+- [00:40:02,466 - 00:40:06,466] as an example, the, um,
+- [00:40:06,466 - 00:40:10,466] the, take a, take a state of a spin,
+- [00:40:10,466 - 00:40:13,466] pointing in a certain direction,
+- [00:40:13,466 - 00:40:15,466] rotate it,
+- [00:40:15,466 - 00:40:17,466] what happens to the energy of it?
+- [00:40:17,466 - 00:40:19,466] The answer is nothing.
+- [00:40:19,466 - 00:40:20,466] Why not?
+- [00:40:20,466 - 00:40:23,466] Because rotation is a symmetry.
+- [00:40:23,466 - 00:40:26,466] Put the spin in a magnetic field.
+- [00:40:26,466 - 00:40:28,466] What happens if you rotate
+- [00:40:28,466 - 00:40:30,466] the spin in a magnetic field?
+- [00:40:30,466 - 00:40:32,466] It will change its energy.
+- [00:40:32,466 - 00:40:34,966] But the reason, of course, is because
+- [00:40:34,966 - 00:40:37,466] you're not really doing a symmetry operation.
+- [00:40:37,466 - 00:40:39,466] You're rotating one thing relative to
+- [00:40:39,466 - 00:40:41,466] a thing which you're not rotating.
+- [00:40:41,466 - 00:40:44,466] What would happen if you did a true symmetry operation?
+- [00:40:44,466 - 00:40:46,466] That would mean rotate the spin
+- [00:40:46,466 - 00:40:48,466] and also rotate the magnetic field.
+- [00:40:48,466 - 00:40:50,466] That would not change the energy.
+- [00:40:50,466 - 00:40:51,466] Okay?
+- [00:40:51,466 - 00:40:55,466] Uh, same thing, for example,
+- [00:40:55,466 - 00:40:58,466] you have a particle,
+- [00:40:58,466 - 00:41:00,466] uh, let's say an electron.
+- [00:41:00,466 - 00:41:04,466] Here's an electron in the field of a proton.
+- [00:41:04,466 - 00:41:07,466] What happens if you translate the electron?
+- [00:41:07,466 - 00:41:08,966] Does it, does the energy
+- [00:41:08,966 - 00:41:10,466] of the electron stay the same?
+- [00:41:10,466 - 00:41:11,466] Of course not.
+- [00:41:11,466 - 00:41:12,966] The electron, you have to do
+- [00:41:12,966 - 00:41:14,466] work to move it against the proton.
+- [00:41:14,466 - 00:41:15,966] So you say, oh, translation of
+- [00:41:15,966 - 00:41:17,466] the electron is not a symmetry.
+- [00:41:17,466 - 00:41:19,466] No, translation of an electron
+- [00:41:19,466 - 00:41:21,466] by itself is not a symmetry,
+- [00:41:21,466 - 00:41:25,466] but translation of the whole thing is a symmetry.
+- [00:41:25,466 - 00:41:31,466] Alright, so, um, translation being a symmetry,
+- [00:41:31,466 - 00:41:33,966] rotation being a symmetry says that
+- [00:41:33,966 - 00:41:36,466] those operations commute with the Hamiltonian.
+- [00:41:36,466 - 00:41:41,466] Now, if every U commutes with the Hamiltonian,
+- [00:41:41,466 - 00:41:43,466] let's come back to the generators.
+- [00:41:43,466 - 00:41:46,466] That says that the generators commute with the Hamiltonian.
+- [00:41:46,466 - 00:41:52,466] If every operator of the form 1
+- [00:41:52,466 - 00:41:58,466] plus I epsilon L commutes with the Hamiltonian,
+- [00:41:58,466 - 00:42:03,466] 1 commutes with everything.
+- [00:42:03,466 - 00:42:06,466] The commutator of 1 with anything is 0.
+- [00:42:06,466 - 00:42:09,466] I and epsilon don't matter here.
+- [00:42:09,466 - 00:42:12,966] It says that all of the components of
+- [00:42:12,966 - 00:42:16,466] the generators of a symmetry commute with the Hamiltonian.
+- [00:42:16,466 - 00:42:19,966] What else can you say
+- [00:42:19,966 - 00:42:23,466] that commuting with the Hamiltonian means?
+- [00:42:23,466 - 00:42:27,466] If you go back to your quantum mechanics,
+- [00:42:27,466 - 00:42:30,466] Yeah.
+- [00:42:30,466 - 00:42:32,966] The time derivative of the thing
+- [00:42:32,966 - 00:42:35,466] which commutes with the Hamiltonian is 0.
+- [00:42:35,466 - 00:42:41,466] So, one says that symmetries imply conservation laws,
+- [00:42:41,466 - 00:42:43,466] or conservation laws imply
+- [00:42:43,466 - 00:42:45,466] symmetries, it's not important which.
+- [00:42:46,466 - 00:42:49,466] Alright, so this is, this is, I've
+- [00:42:49,466 - 00:42:52,466] simply repeated everything that we've talked about before
+- [00:42:52,466 - 00:42:56,466] about symmetries, but mostly to remind you of that.
+- [00:42:56,466 - 00:43:02,466] Momentum conservation, angular momentum conservation,
+- [00:43:02,466 - 00:43:04,466] all associated with symmetries.
+- [00:43:04,466 - 00:43:07,466] And of course there are plenty of other symmetries around.
+- [00:43:07,466 - 00:43:09,466] Now,
+- [00:43:09,466 - 00:43:11,466] So it looks like the external
+- [00:43:11,466 - 00:43:13,466] field has to have that symmetry.
+- [00:43:13,466 - 00:43:15,466] Either the external field has the symmetry,
+- [00:43:15,466 - 00:43:18,466] or you have to rotate the external field.
+- [00:43:18,466 - 00:43:19,466] Right, right.
+- [00:43:19,466 - 00:43:20,466] Okay.
+- [00:43:20,466 - 00:43:22,966] But important thing is that
+- [00:43:22,966 - 00:43:25,466] rotation does not change the energy.
+- [00:43:25,466 - 00:43:27,966] Or not just rotation, but
+- [00:43:27,966 - 00:43:30,466] symmetry operations don't change the energy.
+- [00:43:30,466 - 00:43:34,466] That's the reason that the different components,
+- [00:43:34,466 - 00:43:36,466] let's say we have,
+- [00:43:36,466 - 00:43:42,466] uh,
+- [00:43:42,466 - 00:43:44,466] electrons in orbit around a,
+- [00:43:44,466 - 00:43:48,466] in a particular orbit around a nucleus.
+- [00:43:48,466 - 00:43:50,966] Okay, so the orbits are
+- [00:43:50,966 - 00:43:53,466] characterized by a total angular momentum
+- [00:43:53,466 - 00:43:57,466] and the z component of angular momentum.
+- [00:43:57,466 - 00:43:59,966] The different z components of angular
+- [00:43:59,966 - 00:44:02,466] momentum can be rotated into each other.
+- [00:44:02,466 - 00:44:04,466] They get mixed up with each other under rotation.
+- [00:44:04,466 - 00:44:07,466] The total angular momentum, L,
+- [00:44:07,466 - 00:44:09,466] doesn't change under rotation.
+- [00:44:09,466 - 00:44:12,466] It's the total magnitude of the angular momentum.
+- [00:44:12,466 - 00:44:14,466] But the various z components of the angular momentum,
+- [00:44:14,466 - 00:44:16,466] do rotate into each other.
+- [00:44:16,466 - 00:44:19,466] And the symmetry under rotation tells you
+- [00:44:19,466 - 00:44:22,466] that all the different states of an atom
+- [00:44:22,466 - 00:44:24,466] at a given L,
+- [00:44:24,466 - 00:44:25,466] but for different M.
+- [00:44:25,466 - 00:44:27,465] Everybody know what M is for an atom?
+- [00:44:27,465 - 00:44:29,465] M is the magnetic quantum number.
+- [00:44:29,465 - 00:44:30,965] It really corresponds to the
+- [00:44:30,965 - 00:44:32,465] z component of angular momentum.
+- [00:44:32,465 - 00:44:34,465] The different components, z components,
+- [00:44:34,465 - 00:44:35,465] have the same energy.
+- [00:44:35,465 - 00:44:38,465] As a consequence of rotational symmetry.
+- [00:44:38,465 - 00:44:40,465] All right.
+- [00:44:40,465 - 00:44:42,465] All of the symmetries that we've discussed up to now,
+- [00:44:42,466 - 00:44:45,466] have one characteristic in common.
+- [00:44:45,466 - 00:44:49,466] When they act on bosons,
+- [00:44:49,466 - 00:44:51,466] they give back bosons.
+- [00:44:51,466 - 00:44:53,466] When they act on fermions,
+- [00:44:53,466 - 00:44:55,466] they give back fermions.
+- [00:44:55,466 - 00:44:57,466] What happens to a boson,
+- [00:44:57,466 - 00:45:00,466] what happens to an electron if you rotate it?
+- [00:45:00,466 - 00:45:02,466] It stays an electron.
+- [00:45:02,466 - 00:45:05,466] It doesn't turn into a photon.
+- [00:45:05,466 - 00:45:06,466] So,
+- [00:45:06,466 - 00:45:08,466] the electron is a photon.
+- [00:45:08,466 - 00:45:09,466] It's a particle.
+- [00:45:09,466 - 00:45:10,466] It's a particle.
+- [00:45:10,466 - 00:45:11,466] It's a particle.
+- [00:45:11,466 - 00:45:12,466] It's a particle.
+- [00:45:12,466 - 00:45:19,466] Quarks have symmetries under the color transformations.
+- [00:45:19,466 - 00:45:21,466] Remember the color transformations?
+- [00:45:21,466 - 00:45:23,466] Mixes up the three colors of quark.
+- [00:45:23,466 - 00:45:25,466] Takes a quark into a quark.
+- [00:45:25,466 - 00:45:27,466] It doesn't take a quark into a gluon.
+- [00:45:27,466 - 00:45:29,466] A gluon is a boson.
+- [00:45:29,466 - 00:45:31,466] A quark is a fermion.
+- [00:45:31,466 - 00:45:32,466] In fact,
+- [00:45:32,466 - 00:45:35,466] all of the symmetries we talked about up till now,
+- [00:45:35,466 - 00:45:38,466] don't change the spin of a particle.
+- [00:45:38,466 - 00:45:40,466] It would take scalar particles,
+- [00:45:40,466 - 00:45:43,466] scalar particles to scalar particles,
+- [00:45:43,466 - 00:45:47,466] half spin particles to half spin particles.
+- [00:45:47,466 - 00:45:48,466] Generally speaking,
+- [00:45:48,466 - 00:45:50,466] the symmetries we've talked about
+- [00:45:50,466 - 00:45:53,466] don't do anything to the spin,
+- [00:45:53,466 - 00:45:55,466] don't do anything to the type of particle,
+- [00:45:55,466 - 00:45:58,466] don't do anything to the charge of a particle.
+- [00:45:58,466 - 00:46:01,466] Keep the charge of a particle unchanged.
+- [00:46:01,466 - 00:46:03,966] And especially don't do anything
+- [00:46:03,966 - 00:46:06,466] to the mass of a particle.
+- [00:46:06,466 - 00:46:07,466] In some way,
+- [00:46:07,466 - 00:46:09,466] the symmetries tell you that
+- [00:46:09,466 - 00:46:14,466] there are equalities between masses of different states.
+- [00:46:14,466 - 00:46:15,466] For example,
+- [00:46:15,466 - 00:46:17,466] they do tell you that the
+- [00:46:17,466 - 00:46:19,466] various z components of angular momentum
+- [00:46:19,466 - 00:46:22,466] all have the same energy.
+- [00:46:22,466 - 00:46:24,466] Because you can rotate one into the other.
+- [00:46:24,466 - 00:46:27,466] Z components of angular momentum in an atom.
+- [00:46:27,466 - 00:46:28,966] As long as the atom is
+- [00:46:28,966 - 00:46:30,466] not in an external magnetic field.
+- [00:46:30,466 - 00:46:32,466] Or electric field.
+- [00:46:32,466 - 00:46:35,466] Supersymmetry is a new kind of symmetry.
+- [00:46:35,466 - 00:46:37,466] It's a really crazy kind of symmetry.
+- [00:46:37,466 - 00:46:38,466] Which,
+- [00:46:38,466 - 00:46:40,466] when it acts,
+- [00:46:40,466 - 00:46:42,466] it takes a fermion into a boson,
+- [00:46:42,466 - 00:46:44,466] or a boson into a fermion.
+- [00:46:46,466 - 00:46:49,466] Just like rotations
+- [00:46:49,466 - 00:46:52,466] tell you that there have to be these multiplets
+- [00:46:52,466 - 00:46:55,466] with different z components of angular momentum.
+- [00:46:55,466 - 00:46:57,466] That if there's a z component of angular momentum
+- [00:46:57,466 - 00:46:59,466] which is plus a half,
+- [00:46:59,466 - 00:47:00,966] then rotation symmetry tells you there has
+- [00:47:00,966 - 00:47:02,466] to be one of minus a half
+- [00:47:02,466 - 00:47:04,466] with the same energy.
+- [00:47:04,466 - 00:47:06,466] If there's a spin up with one unit,
+- [00:47:06,466 - 00:47:08,466] then it's enough to tell you
+- [00:47:08,466 - 00:47:10,466] there has to be a spin down with one unit.
+- [00:47:10,466 - 00:47:12,466] But if you look carefully at the mathematics,
+- [00:47:12,466 - 00:47:14,466] you'll also find out that there has
+- [00:47:14,466 - 00:47:16,466] to be one of zero in between.
+- [00:47:16,466 - 00:47:18,466] All of exactly the same energy.
+- [00:47:18,466 - 00:47:20,466] That's what the symmetry does for you.
+- [00:47:20,466 - 00:47:25,466] As I said,
+- [00:47:25,466 - 00:47:29,466] supersymmetry is a very strange new construction
+- [00:47:29,466 - 00:47:31,466] which, when it acts,
+- [00:47:31,466 - 00:47:33,466] takes a fermion to a boson.
+- [00:47:33,466 - 00:47:36,466] The mathematics of it is very weird.
+- [00:47:36,466 - 00:47:37,466] Very strange.
+- [00:47:37,466 - 00:47:39,466] Very non-classical.
+- [00:47:39,466 - 00:47:41,466] Extremely non-classical.
+- [00:47:41,466 - 00:47:45,466] And absolutely impossible to visualize in any sense.
+- [00:47:45,466 - 00:47:47,466] So I will tell you a
+- [00:47:47,466 - 00:47:49,466] little bit about the mathematics of it.
+- [00:47:53,466 - 00:47:55,466] Why is it important, incidentally?
+- [00:47:55,466 - 00:47:58,466] It's important because if you have a theory
+- [00:47:58,466 - 00:48:00,466] that enjoys the symmetry,
+- [00:48:00,466 - 00:48:02,466] that has this supersymmetry,
+- [00:48:02,466 - 00:48:05,466] then there will always be for every fermion
+- [00:48:05,466 - 00:48:07,466] a boson, a super symmetry.
+- [00:48:07,466 - 00:48:09,466] And every fermion has exactly the same mass.
+- [00:48:09,466 - 00:48:12,466] And every boson a fermion of exactly the same mass.
+- [00:48:12,466 - 00:48:16,466] That's exactly the situation that we were looking for
+- [00:48:16,466 - 00:48:18,966] where bosons and fermions might
+- [00:48:18,966 - 00:48:21,466] be able to exactly cancel out
+- [00:48:21,466 - 00:48:24,466] the infinities or large, large
+- [00:48:24,466 - 00:48:28,466] renormalization effects
+- [00:48:28,466 - 00:48:32,466] that we discussed for a couple of times already.
+- [00:48:32,466 - 00:48:35,466] This is very, very hard to motivate.
+- [00:48:35,466 - 00:48:37,466] This is hard to motivate.
+- [00:48:37,466 - 00:48:40,466] Because it is so completely unintuitive.
+- [00:48:40,466 - 00:48:42,466] Very unintuitive.
+- [00:48:42,466 - 00:48:43,466] These are symmetries, as I said,
+- [00:48:43,466 - 00:48:45,466] which take fermions into bosons.
+- [00:48:45,466 - 00:48:51,466] The generators of them are called Q.
+- [00:48:51,466 - 00:48:52,466] There's a Q.
+- [00:48:52,466 - 00:48:53,466] There are two.
+- [00:48:53,466 - 00:48:54,466] There are several generators called Q.
+- [00:48:54,466 - 00:48:56,466] We'll just call them Q for the moment.
+- [00:48:56,466 - 00:49:03,466] And they take a boson into a fermion.
+- [00:49:03,466 - 00:49:05,466] Something totally new.
+- [00:49:05,466 - 00:49:09,466] These Q's...
+- [00:49:09,466 - 00:49:10,466] Let's see.
+- [00:49:10,466 - 00:49:13,466] I'm trying to figure out how to say this right.
+- [00:49:17,466 - 00:49:21,466] Okay.
+- [00:49:21,466 - 00:49:22,966] How can we make an operator
+- [00:49:22,966 - 00:49:24,466] which takes a fermion into a boson
+- [00:49:24,466 - 00:49:26,466] or a boson into a fermion?
+- [00:49:26,466 - 00:49:28,466] Let's think about that for a moment.
+- [00:49:28,466 - 00:49:29,966] Q is an operator which can
+- [00:49:29,966 - 00:49:31,466] take a fermion into a boson
+- [00:49:31,466 - 00:49:33,466] and a boson into a fermion.
+- [00:49:33,466 - 00:49:36,466] What kind of operator could do that?
+- [00:49:36,466 - 00:49:38,466] Well, it's very easy, actually.
+- [00:49:38,466 - 00:49:40,466] Operator on the spin.
+- [00:49:40,466 - 00:49:42,466] Just operate on the spin.
+- [00:49:42,466 - 00:49:44,466] In charge.
+- [00:49:44,466 - 00:49:46,466] Well, it has to...
+- [00:49:46,466 - 00:49:47,466] What does it have to do?
+- [00:49:47,466 - 00:49:48,466] If you have a boson,
+- [00:49:48,466 - 00:49:50,466] it has to remove the boson
+- [00:49:50,466 - 00:49:52,466] and put back a fermion.
+- [00:49:52,466 - 00:49:54,466] Right?
+- [00:49:56,466 - 00:49:58,466] If there's a fermion there,
+- [00:49:58,466 - 00:49:59,466] it has to remove the fermion
+- [00:49:59,466 - 00:50:01,466] and put back a boson.
+- [00:50:01,466 - 00:50:02,466] I'll construct for you a Q
+- [00:50:02,466 - 00:50:04,466] that does exactly that.
+- [00:50:04,466 - 00:50:06,466] We have creation and annihilation operators
+- [00:50:06,466 - 00:50:08,466] for fermions and bosons, right?
+- [00:50:08,466 - 00:50:09,466] All right.
+- [00:50:09,466 - 00:50:10,466] Let's...
+- [00:50:10,466 - 00:50:12,466] What do we want?
+- [00:50:12,466 - 00:50:15,466] Q, which takes a boson to a fermion,
+- [00:50:15,466 - 00:50:18,466] it has to annihilate a boson.
+- [00:50:18,466 - 00:50:21,466] So let's put an annihilation operator...
+- [00:50:21,466 - 00:50:22,466] Let's see.
+- [00:50:22,466 - 00:50:23,466] I always forget.
+- [00:50:23,466 - 00:50:24,466] Is A a creation?
+- [00:50:24,466 - 00:50:26,466] A is a...
+- [00:50:26,466 - 00:50:29,466] A dagger is creation, right?
+- [00:50:29,466 - 00:50:31,466] So A is annihilation.
+- [00:50:31,466 - 00:50:34,466] This annihilates a boson.
+- [00:50:34,466 - 00:50:36,466] So just for the simplest thing,
+- [00:50:36,466 - 00:50:38,466] this annihilates a boson,
+- [00:50:38,466 - 00:50:40,466] any annihilation operator,
+- [00:50:40,466 - 00:50:43,466] and then what do we want to follow it by?
+- [00:50:43,466 - 00:50:46,466] A creation operator for a fermion.
+- [00:50:46,466 - 00:50:48,466] What do we call creation operators for fermions?
+- [00:50:48,466 - 00:50:49,466] I can't remember.
+- [00:50:49,466 - 00:50:51,466] C dagger, right?
+- [00:50:51,466 - 00:50:52,466] C dagger.
+- [00:50:52,466 - 00:50:55,466] C dagger.
+- [00:50:55,466 - 00:50:57,466] Here's an operator
+- [00:50:57,466 - 00:50:59,466] which, whenever it acts on a...
+- [00:51:01,466 - 00:51:03,466] boson,
+- [00:51:03,466 - 00:51:06,466] will always give a fermion, right?
+- [00:51:06,466 - 00:51:14,466] What happens if it acts on a fermion?
+- [00:51:14,466 - 00:51:15,466] It gives nothing, right?
+- [00:51:15,466 - 00:51:17,466] It just annihilates the fermion.
+- [00:51:17,466 - 00:51:20,466] So let's add something to it.
+- [00:51:20,466 - 00:51:22,466] Let's add to it
+- [00:51:22,466 - 00:51:25,466] A dagger times C.
+- [00:51:25,466 - 00:51:29,466] This annihilates a fermion
+- [00:51:29,466 - 00:51:30,466] and creates a boson.
+- [00:51:31,466 - 00:51:33,466] So what does this object do to a boson?
+- [00:51:33,466 - 00:51:35,466] Well, this eats the boson
+- [00:51:35,466 - 00:51:37,466] and spits out a fermion.
+- [00:51:37,466 - 00:51:39,466] So it creates a fermion.
+- [00:51:39,466 - 00:51:41,466] What about this piece of it?
+- [00:51:41,466 - 00:51:43,466] This piece of it annihilates a fermion,
+- [00:51:43,466 - 00:51:45,466] but there is no fermion.
+- [00:51:45,466 - 00:51:47,466] So this piece of it is dead.
+- [00:51:47,466 - 00:51:49,466] This relationship is correct.
+- [00:51:49,466 - 00:51:51,466] What happens if the same operator
+- [00:51:51,466 - 00:51:53,466] acts on a boson?
+- [00:51:53,466 - 00:51:55,466] A dagger...
+- [00:51:55,466 - 00:51:57,466] Oh, this is a boson on a fermion.
+- [00:51:57,466 - 00:51:59,466] So this piece of it is dead.
+- [00:51:59,466 - 00:52:01,466] Oh, this is a boson on a fermion.
+- [00:52:01,466 - 00:52:03,466] Plus C dagger A.
+- [00:52:03,466 - 00:52:05,466] What does that do on a fermion?
+- [00:52:05,466 - 00:52:07,466] Well, this one annihilates a boson,
+- [00:52:07,466 - 00:52:09,466] but there is no boson there.
+- [00:52:09,466 - 00:52:11,466] So, nothing.
+- [00:52:11,466 - 00:52:13,466] This one annihilates the fermion
+- [00:52:13,466 - 00:52:15,466] and puts back a boson.
+- [00:52:15,466 - 00:52:17,466] So this one puts in a boson.
+- [00:52:17,466 - 00:52:19,466] So, yes, we can make operators
+- [00:52:19,466 - 00:52:21,466] which do have a boson,
+- [00:52:21,466 - 00:52:23,466] but they don't have a fermion.
+- [00:52:23,466 - 00:52:25,466] So, yes, we can make operators
+- [00:52:25,466 - 00:52:27,466] which do have a boson,
+- [00:52:27,466 - 00:52:29,466] but they do have the property
+- [00:52:29,466 - 00:52:31,466] that they intertwine
+- [00:52:31,466 - 00:52:33,466] between fermions and bosons.
+- [00:52:33,466 - 00:52:35,466] OK?
+- [00:52:37,466 - 00:52:39,466] Superpositions?
+- [00:52:39,466 - 00:52:41,466] Superposition.
+- [00:52:41,466 - 00:52:43,466] Does this imply
+- [00:52:43,466 - 00:52:45,466] you can get a superposition particle
+- [00:52:45,466 - 00:52:47,466] of a fermion and a boson?
+- [00:52:47,466 - 00:52:49,466] Well, if it acts on a superposition,
+- [00:52:49,466 - 00:52:51,466] it will produce a superposition.
+- [00:52:51,466 - 00:52:53,466] But if it acts on a boson,
+- [00:52:53,466 - 00:52:55,466] it makes a fermion.
+- [00:52:55,466 - 00:52:57,466] If it acts on a fermion,
+- [00:52:57,466 - 00:52:59,466] it makes a superposition by itself.
+- [00:52:59,466 - 00:53:01,466] It's not a state that's an operator.
+- [00:53:01,466 - 00:53:03,466] I think what he was
+- [00:53:03,466 - 00:53:05,466] thinking was this is some kind of
+- [00:53:05,466 - 00:53:07,466] a supervision state,
+- [00:53:07,466 - 00:53:09,466] but really it's just an operator.
+- [00:53:09,466 - 00:53:11,466] This is an operator.
+- [00:53:11,466 - 00:53:13,466] This is an operator.
+- [00:53:13,466 - 00:53:15,466] If it acts on a general state,
+- [00:53:15,466 - 00:53:17,466] it will make a superposition.
+- [00:53:17,466 - 00:53:19,466] But if it acts on a boson,
+- [00:53:19,466 - 00:53:21,466] it makes a fermion.
+- [00:53:21,466 - 00:53:23,466] If it acts on a fermion,
+- [00:53:23,466 - 00:53:25,466] it makes a boson.
+- [00:53:25,466 - 00:53:27,466] What happens if it acts on the vacuum?
+- [00:53:27,466 - 00:53:29,466] What does it do if it acts on a vacuum?
+- [00:53:29,466 - 00:53:31,466] What does it do
+- [00:53:31,466 - 00:53:33,466] if it acts on a vacuum?
+- [00:53:33,466 - 00:53:35,466] It gives you the vacuum, doesn't it?
+- [00:53:35,466 - 00:53:37,466] It gives you the vacuum, doesn't it?
+- [00:53:37,466 - 00:53:39,466] Doesn't it?
+- [00:53:39,466 - 00:53:41,466] It doesn't make the vacuum.
+- [00:53:41,466 - 00:53:43,466] It doesn't make the vacuum.
+- [00:53:43,466 - 00:53:45,466] It just makes zero.
+- [00:53:45,466 - 00:53:47,466] Why does it make zero?
+- [00:53:47,466 - 00:53:49,466] Let's try it on a vacuum.
+- [00:53:49,466 - 00:53:51,466] Oh, yeah.
+- [00:53:57,466 - 00:54:06,146] A annihilates a boson, but there is no boson.
+- [00:54:06,146 - 00:54:09,585] C annihilates a fermion, but there is no fermion.
+- [00:54:09,585 - 00:54:10,805] You just get zero.
+- [00:54:10,805 - 00:54:15,585] Not the vacuum, but just zero, the zero vector.
+- [00:54:15,585 - 00:54:18,705] So the one exception to the rule, the rule
+- [00:54:18,705 - 00:54:21,825] being that when it acts on a fermion, it creates
+- [00:54:21,826 - 00:54:24,236] a boson, when it acts on
+- [00:54:24,236 - 00:54:26,646] a boson, it creates a fermion.
+- [00:54:26,646 - 00:54:29,036] The one exception to this rule, I don't know
+- [00:54:29,036 - 00:54:31,426] if it's an exception to the rule, just a funny
+- [00:54:31,426 - 00:54:34,306] exception, is that when it acts
+- [00:54:34,306 - 00:54:37,186] on the vacuum, it just gives zero.
+- [00:54:37,186 - 00:54:42,246] So this is a class of operators
+- [00:54:42,246 - 00:54:47,306] which has the properties of a supersymmetry generator.
+- [00:54:47,306 - 00:54:49,846] Supersymmetry generators are of this form.
+- [00:54:49,846 - 00:54:51,806] They involve fermions.
+- [00:54:51,806 - 00:54:54,746] Bonsons and bosons in a way
+- [00:54:54,746 - 00:54:57,686] that is mixed together like this.
+- [00:54:57,686 - 00:55:02,046] Now the question is, here we can...
+- [00:55:02,046 - 00:55:09,046] The question though about the dimension of that vector.
+- [00:55:09,046 - 00:55:10,926] Dimension of what vector?
+- [00:55:10,926 - 00:55:11,926] The state vector.
+- [00:55:11,926 - 00:55:14,926] For a state vector, which state vector?
+- [00:55:14,926 - 00:55:17,776] The boson state vector is usually
+- [00:55:17,776 - 00:55:20,626] different dimensionality from a fermion state vector.
+- [00:55:20,626 - 00:55:21,626] Okay.
+- [00:55:21,806 - 00:55:24,626] Now what do you mean by dimensionality?
+- [00:55:24,626 - 00:55:28,336] Well, let's say a half
+- [00:55:28,336 - 00:55:32,046] spin particle would have two dimensions.
+- [00:55:32,046 - 00:55:33,046] Two components.
+- [00:55:33,046 - 00:55:34,046] Two components.
+- [00:55:34,046 - 00:55:35,046] Yes.
+- [00:55:35,046 - 00:55:36,046] Yes.
+- [00:55:36,046 - 00:55:37,046] So for example, yes.
+- [00:55:37,046 - 00:55:38,046] So for example, yeah.
+- [00:55:38,046 - 00:55:39,046] Good.
+- [00:55:39,046 - 00:55:40,046] Good.
+- [00:55:40,046 - 00:55:41,046] Good.
+- [00:55:41,046 - 00:55:42,046] Good.
+- [00:55:42,046 - 00:55:45,496] You're now telling me a little more about
+- [00:55:45,496 - 00:55:48,946] this operator Q. So let's suppose it acts
+- [00:55:48,946 - 00:55:51,686] on a boson and the boson is spin zero.
+- [00:55:51,806 - 00:55:55,126] It creates a fermion.
+- [00:55:55,126 - 00:55:56,566] But a fermion has a spin a half.
+- [00:55:56,566 - 00:55:59,926] And a spin a half particle has two components.
+- [00:55:59,926 - 00:56:03,116] So does it create the spin up
+- [00:56:03,116 - 00:56:06,306] or does it create the spin down?
+- [00:56:06,306 - 00:56:08,786] Well the answer must be, if we're going to
+- [00:56:08,786 - 00:56:11,266] make any sense out of this, that there can't
+- [00:56:11,266 - 00:56:13,186] be just a single Q. There
+- [00:56:13,186 - 00:56:15,106] has to be two of them.
+- [00:56:15,106 - 00:56:17,516] One which takes the boson into the up fermion
+- [00:56:17,516 - 00:56:19,926] and one which takes the boson into the down
+- [00:56:19,926 - 00:56:20,926] fermion.
+- [00:56:20,926 - 00:56:24,246] There has to be another index.
+- [00:56:24,246 - 00:56:26,946] Q's always have indices.
+- [00:56:26,946 - 00:56:30,746] And the index is always a half spin index.
+- [00:56:30,746 - 00:56:33,596] It itself is a half spin index because it
+- [00:56:33,596 - 00:56:36,446] has to be able to change the spin by half
+- [00:56:36,446 - 00:56:38,446] a unit.
+- [00:56:38,446 - 00:56:42,326] Now what happens if a Q with
+- [00:56:42,326 - 00:56:46,206] a spin i acts on a fermion?
+- [00:56:46,206 - 00:56:48,866] A fermion also has to have an index.
+- [00:56:48,866 - 00:56:50,246] It's either up or down.
+- [00:56:50,246 - 00:56:53,015] So we ought to put
+- [00:56:53,015 - 00:56:55,785] indices on these fermion vectors here.
+- [00:56:55,785 - 00:57:02,865] What happens if it acts on a Fj?
+- [00:57:02,865 - 00:57:05,105] Well basically the answer is if i is
+- [00:57:05,105 - 00:57:07,345] the same as j it makes the boson.
+- [00:57:07,345 - 00:57:09,455] If i is not the
+- [00:57:09,455 - 00:57:11,565] same as j it makes nothing.
+- [00:57:11,565 - 00:57:14,045] So whatever these operators are here,
+- [00:57:14,045 - 00:57:16,525] whatever these symmetry operators, the generators, these
+- [00:57:16,525 - 00:57:18,285] are the generators of supersymmetry.
+- [00:57:18,285 - 00:57:19,285] They're not the operators.
+- [00:57:19,285 - 00:57:20,206] They're the operators.
+- [00:57:20,246 - 00:57:24,285] The generators of supersymmetry not
+- [00:57:24,285 - 00:57:28,325] only are built, they're fermionic.
+- [00:57:28,325 - 00:57:31,395] They're fermionic in the sense that they have
+- [00:57:31,395 - 00:57:34,466] an odd number of fermion operators in them.
+- [00:57:34,466 - 00:57:38,265] They have an odd number of fermion operators.
+- [00:57:38,265 - 00:57:40,365] Every interesting quantity that we've been experiencing
+- [00:57:40,365 - 00:57:42,466] up till now, things that we measure
+- [00:57:42,466 - 00:57:45,816] and so forth, always have even
+- [00:57:45,816 - 00:57:49,166] number of fermion operators in them.
+- [00:57:49,166 - 00:57:50,166] Super generators have odd number of fermions.
+- [00:57:50,166 - 00:57:51,426] They have odd number of fermion operators
+- [00:57:51,426 - 00:57:52,686] because they've got to change the fermion
+- [00:57:52,686 - 00:57:55,005] number and they also have indices.
+- [00:57:55,005 - 00:58:00,326] The indices are spin indices.
+- [00:58:00,326 - 00:58:04,716] Really understanding supersymmetry and fermions and
+- [00:58:04,716 - 00:58:09,106] fermionic symmetries, why do I call them
+- [00:58:09,106 - 00:58:10,106] fermionic symmetries?
+- [00:58:10,106 - 00:58:13,315] Because the generators themselves have
+- [00:58:13,315 - 00:58:16,525] odd numbers of fermions in them.
+- [00:58:16,525 - 00:58:19,086] They change a fermion into a boson.
+- [00:58:19,086 - 00:58:23,016] Really understanding that the mathematics of
+- [00:58:23,016 - 00:58:26,946] it really does entail a generalization
+- [00:58:26,946 - 00:58:33,586] of arithmetic, of the notion of numbers.
+- [00:58:33,586 - 00:58:36,696] Let's just remind ourselves of one thing about
+- [00:58:36,696 - 00:58:39,806] fermion fields and boson fields or just fermion
+- [00:58:39,806 - 00:58:42,646] operators, creation and annihilation operators.
+- [00:58:42,646 - 00:58:43,646] Good enough.
+- [00:58:43,646 - 00:58:45,106] Fields are made up out
+- [00:58:45,106 - 00:58:46,566] of creation and annihilation operators.
+- [00:58:46,566 - 00:58:48,646] Let's just remind ourselves what we know about fermions.
+- [00:58:48,646 - 00:58:51,146] We know about creation
+- [00:58:51,146 - 00:58:53,646] and annihilation operators for bosons.
+- [00:58:53,646 - 00:58:56,256] Creation and annihilation operators
+- [00:58:56,256 - 00:58:58,866] for bosons have commutation relations.
+- [00:58:58,866 - 00:59:03,446] The commutation relations are commutator of A
+- [00:59:03,446 - 00:59:08,026] with A. This could be any creation operator,
+- [00:59:08,026 - 00:59:09,606] any bosonic creation.
+- [00:59:09,606 - 00:59:13,686] These are annihilation operators, aren't they?
+- [00:59:13,686 - 00:59:16,505] What's the commutation relation of an A with an A?
+- [00:59:16,505 - 00:59:17,505] Zero.
+- [00:59:17,505 - 00:59:18,505] Zero.
+- [00:59:18,506 - 00:59:19,506] Zero.
+- [00:59:19,506 - 00:59:20,506] Zero.
+- [00:59:20,506 - 00:59:23,846] In fact, they could be for different bosons, even so.
+- [00:59:23,846 - 00:59:26,106] They commute with each other.
+- [00:59:26,106 - 00:59:28,406] What about a dagger with a dagger?
+- [00:59:28,406 - 00:59:29,406] Same.
+- [00:59:29,406 - 00:59:30,406] Same.
+- [00:59:30,406 - 00:59:33,876] What about A with a dagger
+- [00:59:33,876 - 00:59:37,346] or is it A dagger with A?
+- [00:59:37,346 - 00:59:38,346] I think it's that way.
+- [00:59:38,346 - 00:59:41,946] What does that give?
+- [00:59:41,946 - 00:59:45,506] One.
+- [00:59:45,506 - 00:59:47,506] That's the algebraic properties of...
+- [00:59:47,506 - 00:59:48,506] One.
+- [00:59:48,506 - 00:59:49,506] That's the algebraic properties of bosonic operators.
+- [00:59:49,506 - 00:59:53,856] In particular, this particular relation over here,
+- [00:59:53,856 - 00:59:58,206] let's take this one over here, this
+- [00:59:58,206 - 01:00:03,106] could actually stand for two different creation operators.
+- [01:00:03,106 - 01:00:05,806] One, let's say, for a particle of one
+- [01:00:05,806 - 01:00:08,506] momentum, one for a particle of another momentum, or
+- [01:00:08,506 - 01:00:10,886] for a particle at one place
+- [01:00:10,886 - 01:00:13,266] and a particle at another place.
+- [01:00:13,266 - 01:00:16,506] Let's take this relationship here.
+- [01:00:16,506 - 01:00:20,956] Let's say that we're going to create a two-particle
+- [01:00:20,956 - 01:00:25,406] state, two bosons, one with label I and one
+- [01:00:25,406 - 01:00:27,706] with label J. As I said, label I
+- [01:00:27,706 - 01:00:30,006] and label J could represent momentum, they could represent
+- [01:00:30,006 - 01:00:33,986] position, they could represent anything you like.
+- [01:00:33,986 - 01:00:35,626] How are we going to create two of them?
+- [01:00:35,626 - 01:00:40,316] We're going to create... by just applying
+- [01:00:40,316 - 01:00:45,006] the creation operators, this is the state
+- [01:00:45,006 - 01:00:46,006] of two bosons.
+- [01:00:46,006 - 01:00:53,366] One of type I and one of type J. How
+- [01:00:53,366 - 01:01:00,726] does this differ from a state with the same exact
+- [01:01:00,726 - 01:01:02,986] particles but in which they've
+- [01:01:02,986 - 01:01:05,246] been introduced in the opposite order?
+- [01:01:05,246 - 01:01:06,246] It doesn't differ.
+- [01:01:06,246 - 01:01:07,986] It's exactly the same thing.
+- [01:01:07,986 - 01:01:10,736] It's exactly the same thing, and mathematically,
+- [01:01:10,736 - 01:01:13,486] the commutation relations here tell you that
+- [01:01:13,486 - 01:01:15,906] A dagger I, A dagger J is the same.
+- [01:01:15,906 - 01:01:18,796] The same is A dagger J,
+- [01:01:18,796 - 01:01:21,686] A, I. They're equal to each other.
+- [01:01:21,686 - 01:01:24,855] This is the symmetry of
+- [01:01:24,855 - 01:01:28,025] wave functions under interchange of bosons.
+- [01:01:28,025 - 01:01:30,905] When you interchange the arguments, the arguments
+- [01:01:30,905 - 01:01:33,786] of the wave function or the labels labeling
+- [01:01:33,786 - 01:01:36,236] the states, here these are related to each
+- [01:01:36,236 - 01:01:38,686] other just by interchanging I and J, it does
+- [01:01:38,686 - 01:01:39,686] nothing.
+- [01:01:39,686 - 01:01:42,306] It multiplies the state by the number one.
+- [01:01:42,306 - 01:01:43,436] That's the character of bosons
+- [01:01:43,436 - 01:01:44,566] and the character of the state.
+- [01:01:44,566 - 01:01:45,566] So, we're going to create a two-particle state.
+- [01:01:45,566 - 01:01:49,696] The character of bosons is indicated by
+- [01:01:49,696 - 01:01:53,826] commutation relations between fields or between things
+- [01:01:53,826 - 01:01:55,666] that make up the fields.
+- [01:01:55,666 - 01:01:58,166] What about Cs?
+- [01:01:58,166 - 01:02:12,326] What about the commutator of two Cs?
+- [01:02:12,326 - 01:02:13,686] Let's go after this one here first.
+- [01:02:13,686 - 01:02:14,686] See.
+- [01:02:14,686 - 01:02:15,566] Okay.
+- [01:02:15,566 - 01:02:24,726] So, we start with Cs dagger.
+- [01:02:24,726 - 01:02:25,806] Cs dagger.
+- [01:02:25,806 - 01:02:27,586] Is that, one?
+- [01:02:27,586 - 01:02:28,586] No.
+- [01:02:28,586 - 01:02:30,286] That's not the way we do things with fermions.
+- [01:02:30,286 - 01:02:32,346] With fermions, it's anti-commutator.
+- [01:02:32,346 - 01:02:38,946] What does anti-commutator mean?
+- [01:02:38,946 - 01:02:43,126] It means Cs dagger plus Cs dagger c.
+- [01:02:43,126 - 01:02:44,566] Cs dagger plus Cs dagger c.
+- [01:02:44,566 - 01:02:45,566] Not minus.
+- [01:02:45,566 - 01:02:51,486] Let's see what that means. In fact, every
+- [01:02:51,486 - 01:02:57,406] place where you saw commutator, replace it by anticommutator.
+- [01:02:59,406 - 01:03:01,326] What does anticommutator mean?
+- [01:03:02,306 - 01:03:04,896] Anticommutator of two things, A
+- [01:03:04,896 - 01:03:07,486] with B, means AB plus BA.
+- [01:03:09,066 - 01:03:10,786] AB plus BA.
+- [01:03:15,566 - 01:03:20,566] Okay, first of all, let's see what this
+- [01:03:20,566 - 01:03:25,566] says. What does this say about two particle states?
+- [01:03:26,206 - 01:03:28,476] First of all, suppose there's only one kind
+- [01:03:28,476 - 01:03:30,746] of fermion, just a C with no label.
+- [01:03:33,706 - 01:03:36,406] Anticommutator of C dagger with C dagger just means
+- [01:03:36,406 - 01:03:39,106] C dagger, C dagger, plus C dagger, C dagger.
+- [01:03:40,326 - 01:03:42,726] It just means twice C dagger, C dagger.
+- [01:03:45,566 - 01:03:47,966] That's equal to zero.
+- [01:03:48,926 - 01:03:51,136] So it just says when you multiply
+- [01:03:51,136 - 01:03:53,346] C dagger by itself, you get zero.
+- [01:03:54,406 - 01:03:56,566] That doesn't mean that C dagger is itself zero.
+- [01:03:57,066 - 01:03:58,426] C dagger creates a fermion.
+- [01:03:59,186 - 01:04:00,686] What does it mean to say that
+- [01:04:00,686 - 01:04:02,186] when you square it, you get zero?
+- [01:04:05,286 - 01:04:07,066] It simply means you can't put
+- [01:04:07,066 - 01:04:08,846] two fermions into the same state.
+- [01:04:09,886 - 01:04:13,066] You simply can't put two fermions into the same state.
+- [01:04:14,366 - 01:04:15,326] That's the Pauli exclusion.
+- [01:04:15,566 - 01:04:19,686] So the Pauli exclusion principle is
+- [01:04:19,686 - 01:04:23,806] simply obtained from the anticommutation relations.
+- [01:04:24,446 - 01:04:26,046] Now, supposing you happen to
+- [01:04:26,046 - 01:04:27,646] have two different kinds of fermions.
+- [01:04:28,286 - 01:04:31,446] They might be the same kind of fermion, an electron, but they
+- [01:04:31,446 - 01:04:34,606] might be electron at one place or an electron at another place,
+- [01:04:34,686 - 01:04:37,556] or electron at one momentum, electron at another momentum, or
+- [01:04:37,556 - 01:04:40,426] they might just be different spin states of the electron.
+- [01:04:40,966 - 01:04:42,586] Let's suppose, again, there were two labels.
+- [01:04:43,166 - 01:04:45,386] Now, let's make them fermions.
+- [01:04:45,566 - 01:04:50,586] Fermions now, C dagger I, C dagger J.
+- [01:04:51,846 - 01:04:57,826] How does that relate to the state C dagger J,
+- [01:04:57,826 - 01:05:03,806] C dagger I, where I've interchanged the I and the J?
+- [01:05:04,666 - 01:05:10,016] Well, the anticommutation relations say that
+- [01:05:10,016 - 01:05:15,366] C dagger I, C dagger J,
+- [01:05:15,566 - 01:05:19,186] plus C dagger J, C dagger I, equals zero.
+- [01:05:19,626 - 01:05:24,066] Another way of saying it is that C dagger I,
+- [01:05:24,066 - 01:05:28,506] C dagger J is minus C dagger J, C dagger I.
+- [01:05:29,126 - 01:05:35,186] This is the anti-symmetry of the wave function of, the anti-symmetry of
+- [01:05:35,186 - 01:05:41,246] fermion states with respect to interchange of the labels of the fermions.
+- [01:05:43,006 - 01:05:45,046] So, the character of fermions,
+- [01:05:45,046 - 01:05:50,026] and the character of bosons is
+- [01:05:50,026 - 01:05:55,006] encoded in these commutation or anti-commutation relations.
+- [01:05:55,006 - 01:05:57,736] Whatever fermions are, or whatever the mathematics
+- [01:05:57,736 - 01:06:00,466] of fermions are, it's related to the mathematics
+- [01:06:00,466 - 01:06:06,696] of bosons by replacing commutator by anti-commutator.
+- [01:06:06,696 - 01:06:12,926] But particularly, the property of the square
+- [01:06:12,926 - 01:06:15,706] of a fermion operator being zero is very,
+- [01:06:15,706 - 01:06:18,486] very different than the square of a boson
+- [01:06:18,486 - 01:06:23,676] operator. Now, boson fields, when you build up
+- [01:06:23,676 - 01:06:28,866] a large number of bosons, behave very classically.
+- [01:06:28,866 - 01:06:31,806] When we have a large number of photons, we
+- [01:06:31,806 - 01:06:34,746] think of the fields as the electric and magnetic
+- [01:06:34,746 - 01:06:37,866] fields, and we think of them as ordinary
+- [01:06:37,866 - 01:06:40,986] numbers. We think of them as ordinary numbers, and
+- [01:06:40,986 - 01:06:42,566] ordinary numbers commute.
+- [01:06:42,566 - 01:06:42,906] Right?
+- [01:06:42,906 - 01:06:46,226] Ordinary numbers commute. What about fermions? Well,
+- [01:06:46,226 - 01:06:49,546] in fermions, you never build up large
+- [01:06:49,546 - 01:06:53,016] numbers of fermions in the same state.
+- [01:06:53,016 - 01:06:56,486] So field operators for fermions never get big.
+- [01:06:56,486 - 01:06:59,546] They never get big because their square is
+- [01:06:59,546 - 01:07:02,606] zero. So how can they ever get big? There's
+- [01:07:02,606 - 01:07:06,646] a whole generalization of arithmetic, which I'll tell
+- [01:07:06,646 - 01:07:10,686] you a little bit about, just a little
+- [01:07:10,686 - 01:07:12,546] bit, in which the numbers commute.
+- [01:07:12,546 - 01:07:17,076] The numbers of arithmetic are replaced
+- [01:07:17,076 - 01:07:21,606] by numbers which anti-commute instead of commute.
+- [01:07:21,606 - 01:07:24,406] And these numbers are extremely useful.
+- [01:07:24,406 - 01:07:27,206] They're really just bookkeeping devices. They're bookkeeping
+- [01:07:27,206 - 01:07:29,846] devices the same way that fermion fields
+- [01:07:29,846 - 01:07:32,486] are bookkeeping devices. They keep track of various
+- [01:07:32,486 - 01:07:34,986] relationships. These are not real numbers. These
+- [01:07:34,986 - 01:07:37,486] are not numbers that you can measure.
+- [01:07:37,486 - 01:07:42,186] They're not numbers that experiments can be answers to.
+- [01:07:42,186 - 01:07:45,686] They're bookkeeping devices. They're called Grassmann
+- [01:07:45,686 - 01:07:49,186] numbers, a whole theory of new kind
+- [01:07:51,946 - 01:07:55,446] of numbers. As I said, it's a generalization
+- [01:07:55,446 - 01:07:58,946] of arithmetic, and I'm just going to tell
+- [01:07:59,086 - 01:08:01,945] you a little bit about it because
+- [01:08:01,945 - 01:08:04,805] fermion fields are really Grassmann numbers. They're
+- [01:08:04,805 - 01:08:08,305] really Grassmann numbers, and the generators
+- [01:08:08,305 - 01:08:11,805] of these fermionic symmetries, these things
+- [01:08:12,186 - 01:08:15,266] which take fermions to bosons, are also
+- [01:08:15,266 - 01:08:18,345] Grassmann numbers. Grassmann numbers have the property
+- [01:08:18,345 - 01:08:21,606] that they anti-commute.
+- [01:08:21,606 - 01:08:23,416] So let me just tell you a little
+- [01:08:23,416 - 01:08:25,225] bit about them. For our purposes now, they're really
+- [01:08:25,225 - 01:08:29,725] just a curiosity, but they really are at
+- [01:08:29,725 - 01:08:34,225] the heart of what supersymmetry is. We have a
+- [01:08:34,225 - 01:08:36,666] collection of ordinary numbers to begin with.
+- [01:08:36,666 - 01:08:39,106] Let's call them ordinary numbers. Let's call
+- [01:08:39,106 - 01:08:39,946] them alpha sub i.
+- [01:08:39,946 - 01:08:40,446] i just lays out a number. It's a number
+- [01:08:40,446 - 01:08:40,946] that's actually a number, but it's also a number
+- [01:08:40,946 - 01:08:41,446] that's a number. It's a number that's a number
+- [01:08:41,446 - 01:08:41,946] that's a number. It's a number of things. It's a
+- [01:08:41,946 - 01:08:42,615] number that we call an ordinary number.
+- [01:08:42,615 - 01:08:43,285] So i just labels which number we're talking
+- [01:08:43,285 - 01:08:46,285] about. I'm just labeling them alpha sub i.
+- [01:08:46,285 - 01:08:49,285] Here's something which is true of any pair
+- [01:08:49,285 - 01:08:52,785] of ordinary numbers. Alpha sub i alpha sub j
+- [01:08:52,785 - 01:08:56,285] is equal to alpha sub j alpha sub i. Three
+- [01:08:56,406 - 01:08:59,626] times five is five times three. Now we're
+- [01:08:59,626 - 01:09:02,845] going to invent these new numbers called Grassmann
+- [01:09:02,845 - 01:09:06,345] numbers. We're going to call them theta instead of
+- [01:09:06,345 - 01:09:09,845] alpha. Theta i. I don't know how many there
+- [01:09:11,946 - 01:09:13,725] There might be only one of them.
+- [01:09:13,946 - 01:09:14,946] There might be two of them.
+- [01:09:15,025 - 01:09:16,106] There might be three of them.
+- [01:09:16,486 - 01:09:17,626] However many there are,
+- [01:09:17,626 - 01:09:20,676] they have the properties that
+- [01:09:20,676 - 01:09:23,725] theta i anticommutes with theta j.
+- [01:09:28,866 - 01:09:32,435] In other words, theta i theta j
+- [01:09:32,435 - 01:09:36,005] is equal to minus theta j theta i.
+- [01:09:36,006 - 01:09:43,845] When you interchange them, they change sign.
+- [01:09:45,086 - 01:09:47,546] That's one of the characters of Grassman numbers.
+- [01:09:48,066 - 01:09:49,336] Now don't ask me what
+- [01:09:49,336 - 01:09:50,606] the value of theta i is.
+- [01:09:50,666 - 01:09:51,225] It's not 7.
+- [01:09:51,326 - 01:09:51,805] It's not 6.
+- [01:09:51,845 - 01:09:52,645] It's just theta i.
+- [01:09:53,685 - 01:09:56,306] It doesn't have any ordinary numerical value.
+- [01:09:58,786 - 01:10:00,626] Another thing you can say about
+- [01:10:00,626 - 01:10:02,466] them is their squares are 0.
+- [01:10:03,606 - 01:10:05,706] Theta squared, which is equal to,
+- [01:10:05,826 - 01:10:05,986] let's say, theta j,
+- [01:10:05,986 - 01:10:07,786] let's say theta 1 squared.
+- [01:10:08,346 - 01:10:11,406] Theta 1 squared is just theta 1 theta 1,
+- [01:10:12,046 - 01:10:15,616] but theta 1 theta 1 is just one half
+- [01:10:15,616 - 01:10:19,186] of theta 1 theta 1 plus theta 1 theta 1.
+- [01:10:20,826 - 01:10:21,986] And theta 1 theta 1
+- [01:10:21,986 - 01:10:23,146] plus theta 1 plus theta 1,
+- [01:10:23,206 - 01:10:26,046] that's just the anticommutator of theta 1 with theta 1.
+- [01:10:27,146 - 01:10:30,246] So theta squared are equal to 0.
+- [01:10:30,246 - 01:10:35,666] So now,
+- [01:10:35,666 - 01:10:38,825] let's suppose for simplicity now,
+- [01:10:39,186 - 01:10:41,506] let's suppose there's only one Grassman number.
+- [01:10:41,926 - 01:10:42,926] Let's just call it theta.
+- [01:10:43,325 - 01:10:44,586] One Grassman number.
+- [01:10:45,146 - 01:10:47,325] It's like just having one number in arithmetic,
+- [01:10:47,566 - 01:10:48,146] the number 7.
+- [01:10:49,265 - 01:10:51,405] Oh, we'll also add an ordinary number.
+- [01:10:51,486 - 01:10:54,905] We can have both ordinary numbers and Grassman numbers
+- [01:10:54,905 - 01:10:56,405] in the same arithmetic.
+- [01:10:57,546 - 01:10:58,546] I should tell you about,
+- [01:10:58,926 - 01:10:59,586] oh, well, I should,
+- [01:10:59,786 - 01:11:00,526] okay, so we should add.
+- [01:11:00,905 - 01:11:02,226] If we take an ordinary number,
+- [01:11:02,446 - 01:11:03,326] a commuting number,
+- [01:11:03,326 - 01:11:04,405] let's call it an alpha,
+- [01:11:05,666 - 01:11:12,046] the rule is ordinary numbers commute with thetas.
+- [01:11:13,946 - 01:11:16,006] They don't anticommute with thetas.
+- [01:11:16,346 - 01:11:18,686] They commute with themselves.
+- [01:11:29,226 - 01:11:31,336] The only thing that anticommutes
+- [01:11:31,336 - 01:11:33,446] is a Grassman number with itself.
+- [01:11:35,666 - 01:11:36,826] known procedures
+- [01:11:37,326 - 01:11:39,766] among the categories and being in contact with it.
+- [01:11:42,526 - 01:11:44,646] Grassman.
+- [01:11:45,006 - 01:11:45,766] Oh,
+- [01:11:45,766 - 01:11:47,806] Grassman.
+- [01:11:48,606 - 01:11:51,546] Got an amazing.
+- [01:11:51,746 - 01:11:52,306] What do you get?
+- [01:11:52,385 - 01:11:55,066] You put in
+- [01:11:55,106 - 01:11:59,766] a large Peter Peters grocery...
+- [01:11:59,946 - 01:12:00,946] on the 나учный Gröbab,
+- [01:12:01,286 - 01:12:01,986] and İYes and Hi grant means.
+- [01:12:02,066 - 01:12:02,586] oberg symptoms,
+- [01:12:02,646 - 01:12:03,046] No,
+- [01:12:03,046 - 01:12:03,746] ground provinces,
+- [01:12:04,206 - 01:12:04,806] Wildlife P Ridge,
+- [01:12:04,806 - 01:12:05,346] Urим surgery,
+- [01:12:05,346 - 01:12:15,465] Grassmann.
+- [01:12:17,025 - 01:12:19,005] Grassmann must have been a mathematician.
+- [01:12:19,606 - 01:12:21,045] A German mathematician.
+- [01:12:21,786 - 01:12:23,485] From the 19th century.
+- [01:12:24,166 - 01:12:27,286] Now he was clearly smoking something when he invented this.
+- [01:12:27,286 - 01:12:30,366] I mean, you know.
+- [01:12:32,266 - 01:12:32,945] What?
+- [01:12:32,946 - 01:12:34,826] So a Grassmann number times an
+- [01:12:34,826 - 01:12:36,706] ordinary number is a Grassmann number?
+- [01:12:36,986 - 01:12:37,806] Ah, good.
+- [01:12:37,886 - 01:12:39,656] A Grassmann number times an
+- [01:12:39,656 - 01:12:41,426] ordinary number is a Grassmann number.
+- [01:12:42,346 - 01:12:42,666] Right.
+- [01:12:43,806 - 01:12:44,026] Right.
+- [01:12:44,326 - 01:12:45,146] This is, that's right.
+- [01:12:45,186 - 01:12:46,426] We can easily prove that.
+- [01:12:46,706 - 01:12:48,356] That Grassmann numbers times
+- [01:12:48,356 - 01:12:50,006] ordinary numbers are ordinary numbers.
+- [01:12:50,406 - 01:12:52,926] What about a Grassmann number times a Grassmann number?
+- [01:12:53,086 - 01:12:55,686] So a Grassmann number times a Grassmann number is ordinary.
+- [01:12:55,686 - 01:12:57,606] What about an ordinary times a Grassmann?
+- [01:12:59,206 - 01:13:00,166] It's a Grassmann.
+- [01:13:00,926 - 01:13:01,086] Right.
+- [01:13:02,246 - 01:13:02,326] Now.
+- [01:13:02,946 - 01:13:05,446] So ordinary times ordinary is ordinary.
+- [01:13:05,946 - 01:13:07,866] Ordinary times Grassman is Grassman.
+- [01:13:08,766 - 01:13:10,846] And Grassman times Grassman is ordinary.
+- [01:13:12,186 - 01:13:14,186] So it's like odd and even numbers.
+- [01:13:15,126 - 01:13:17,066] Odd times odd is even.
+- [01:13:17,326 - 01:13:18,666] Even times even is even.
+- [01:13:18,666 - 01:13:24,206] Odd times even is odd.
+- [01:13:25,346 - 01:13:29,586] So that's the property of Grassman numbers.
+- [01:13:30,906 - 01:13:31,806] What's that?
+- [01:13:32,946 - 01:13:37,206] Okay, so let's think.
+- [01:13:38,126 - 01:13:39,526] A real, well, yes, a real
+- [01:13:39,526 - 01:13:40,926] times a real is a real.
+- [01:13:41,026 - 01:13:42,946] A real times imaginary is imaginary.
+- [01:13:43,186 - 01:13:44,826] And imaginary times imaginary is real.
+- [01:13:44,906 - 01:13:47,306] So yes, it's also true of imaginary and real numbers.
+- [01:13:47,306 - 01:13:49,426] But it's particularly true of these Grassman.
+- [01:13:49,426 - 01:13:51,856] Now, what is unusual is that the
+- [01:13:51,856 - 01:13:54,286] square of any Grassman number is zero.
+- [01:13:55,086 - 01:13:56,946] Because it anti-commutes with itself.
+- [01:14:00,946 - 01:14:01,546] What's that?
+- [01:14:02,946 - 01:14:04,446] No, no.
+- [01:14:04,446 - 01:14:05,946] I mean the cross product
+- [01:14:05,946 - 01:14:07,446] of the same thing is zero.
+- [01:14:07,446 - 01:14:10,146] Okay, yeah, I mean the cross product of a times
+- [01:14:10,146 - 01:14:12,846] b is minus the cross product of b times a.
+- [01:14:12,846 - 01:14:13,346] That's true.
+- [01:14:13,346 - 01:14:13,846] That's true.
+- [01:14:13,846 - 01:14:14,646] That's true.
+- [01:14:15,346 - 01:14:19,746] But, yeah, I don't think the analogy goes too far.
+- [01:14:19,746 - 01:14:21,246] But yes, that's right.
+- [01:14:21,946 - 01:14:22,446] Okay.
+- [01:14:25,246 - 01:14:27,696] Can't you think of this as
+- [01:14:27,696 - 01:14:30,146] a generalization of like imaginary numbers?
+- [01:14:30,146 - 01:14:31,046] Like one plus one.
+- [01:14:31,046 - 01:14:32,926] It's just a generalization of numbers.
+- [01:14:32,946 - 01:14:37,946] It's a generalization of numbers where you replace commuting the, you
+- [01:14:37,946 - 01:14:42,946] know, one of the postulates of arithmetic is that multiplication commutes.
+- [01:14:42,946 - 01:14:46,196] Here, the postulate of
+- [01:14:46,196 - 01:14:49,446] arithmetic is that multiplication anti-commutes.
+- [01:14:49,446 - 01:14:50,946] Okay.
+- [01:14:50,946 - 01:14:55,746] Let's take the case of only one Grassman number.
+- [01:14:55,746 - 01:14:57,246] Okay.
+- [01:14:57,246 - 01:15:00,446] Then the number, and think about functions.
+- [01:15:00,446 - 01:15:02,346] Let's think about functions now.
+- [01:15:02,346 - 01:15:05,195] Of Grassman numbers, we'll have
+- [01:15:05,195 - 01:15:08,045] Grassman numbers and ordinary numbers.
+- [01:15:08,045 - 01:15:09,695] Ordinary numbers are ordinary, but
+- [01:15:09,695 - 01:15:11,346] there's only one Grassman number.
+- [01:15:11,346 - 01:15:13,346] Okay, only one Grassman number.
+- [01:15:13,346 - 01:15:19,146] The functions of Grassman numbers are very limited.
+- [01:15:19,146 - 01:15:20,996] Let's see what kind of functions
+- [01:15:20,996 - 01:15:22,846] we can build of Grassman numbers.
+- [01:15:22,846 - 01:15:27,346] Well, we can start trying to build polynomials.
+- [01:15:27,346 - 01:15:29,746] The polynomial might be an
+- [01:15:29,746 - 01:15:32,146] ordinary number, any ordinary number.
+- [01:15:32,346 - 01:15:33,846] Let's call it alpha.
+- [01:15:33,846 - 01:15:36,346] Plus another ord, you can
+- [01:15:36,346 - 01:15:38,846] multiply Grassman numbers by ordinary numbers.
+- [01:15:38,846 - 01:15:41,096] So, the next thing you can
+- [01:15:41,096 - 01:15:43,346] build is beta times a Grassman number.
+- [01:15:43,346 - 01:15:46,846] There's only one Grassman number now.
+- [01:15:46,846 - 01:15:49,846] Now, let's try to build a quadratic polynomial.
+- [01:15:49,846 - 01:15:53,846] Let's call it plus alpha beta gamma times theta squared.
+- [01:15:53,846 - 01:15:55,846] But theta squared is zero.
+- [01:15:55,846 - 01:15:57,346] So, we've run out.
+- [01:15:57,346 - 01:16:00,346] There are linear polynomials and that's it.
+- [01:16:00,346 - 01:16:02,146] Those are the most general functions.
+- [01:16:02,146 - 01:16:07,146] The space of functions is not very rich.
+- [01:16:07,146 - 01:16:11,896] It consists of basically two functions, a constant
+- [01:16:11,896 - 01:16:16,646] and a linear function of the Grassman number.
+- [01:16:16,646 - 01:16:17,646] No more.
+- [01:16:17,646 - 01:16:19,146] There are no more functions than that.
+- [01:16:19,146 - 01:16:21,646] So, it's a pretty damn simple arithmetic.
+- [01:16:21,646 - 01:16:22,646] Yeah?
+- [01:16:22,646 - 01:16:26,646] Theta cubed is theta times theta squared.
+- [01:16:26,646 - 01:16:29,646] And if theta squared is zero, theta cubed is zero.
+- [01:16:29,646 - 01:16:31,646] So, everything beyond theta.
+- [01:16:31,646 - 01:16:37,646] Theta is zero.
+- [01:16:37,646 - 01:16:38,646] That's it.
+- [01:16:38,646 - 01:16:43,646] There's not much of a space of functions.
+- [01:16:43,646 - 01:16:47,646] Let's suppose that there are two
+- [01:16:47,646 - 01:16:51,646] Grassman variables, theta one and theta two.
+- [01:16:51,646 - 01:16:53,646] Then what kind of functions are there?
+- [01:16:53,646 - 01:16:59,646] Well, again, there's alpha plus beta theta one.
+- [01:16:59,646 - 01:17:01,646] Beta one, theta one, let's call it.
+- [01:17:01,646 - 01:17:04,646] We can then add plus beta two theta two.
+- [01:17:04,646 - 01:17:09,646] Beta one and beta two are just ordinary numbers.
+- [01:17:09,646 - 01:17:13,646] Ordinary numbers could be complex numbers.
+- [01:17:13,646 - 01:17:16,146] It's not important at the moment whether they're complex
+- [01:17:16,146 - 01:17:18,646] numbers or real numbers, whatever they happen to be.
+- [01:17:18,646 - 01:17:22,146] And then we can have
+- [01:17:22,146 - 01:17:25,646] plus gamma theta one theta two.
+- [01:17:25,646 - 01:17:29,646] Theta one times theta two is not zero.
+- [01:17:29,646 - 01:17:32,646] Theta one squared is zero
+- [01:17:32,646 - 01:17:35,646] because it anti-commutes with itself.
+- [01:17:35,646 - 01:17:36,646] Theta...
+- [01:17:36,646 - 01:17:38,646] It's an ordinary number, isn't it?
+- [01:17:38,646 - 01:17:41,146] It's a commuting number, but
+- [01:17:41,146 - 01:17:43,646] it's surely not an ordinary number.
+- [01:17:43,646 - 01:17:45,646] Why isn't it an ordinary number?
+- [01:17:45,646 - 01:17:50,646] Because it is not zero, but its square is zero.
+- [01:17:50,646 - 01:17:52,646] Yeah.
+- [01:17:52,646 - 01:17:57,646] Theta one, theta two, theta one, theta two, that's zero.
+- [01:17:57,646 - 01:18:01,646] So it's surely not an ordinary number.
+- [01:18:01,646 - 01:18:05,646] Okay, it's not zero, but its square is zero.
+- [01:18:05,646 - 01:18:08,146] But it does have the
+- [01:18:08,146 - 01:18:10,646] property that it commutes with this.
+- [01:18:10,646 - 01:18:12,646] All right, so that's it.
+- [01:18:12,646 - 01:18:13,646] That's the last...
+- [01:18:13,646 - 01:18:14,646] That's the biggest function.
+- [01:18:14,646 - 01:18:16,146] That's the most complicated function
+- [01:18:16,146 - 01:18:17,646] you can make of two thetas.
+- [01:18:17,646 - 01:18:22,146] Incidentally, this is not equal to alpha plus
+- [01:18:22,146 - 01:18:26,646] beta one theta one plus beta two theta two
+- [01:18:26,646 - 01:18:30,646] plus gamma theta two theta one.
+- [01:18:30,646 - 01:18:32,646] Why not?
+- [01:18:32,646 - 01:18:35,646] Because they anti-commute, and that means to make them
+- [01:18:35,646 - 01:18:38,646] equal, you would have to put a minus sign here.
+- [01:18:38,646 - 01:18:39,646] Question.
+- [01:18:39,646 - 01:18:40,646] You said you...
+- [01:18:40,646 - 01:18:44,646] An ordinary number times a theta, you get a theta.
+- [01:18:44,646 - 01:18:46,646] So it seems like beta times
+- [01:18:46,646 - 01:18:48,646] theta would give you a third.
+- [01:18:48,646 - 01:18:49,646] A third.
+- [01:18:49,646 - 01:18:52,646] Beta, you multiply beta times theta one, that
+- [01:18:52,646 - 01:18:55,646] seems like that would give you a different theta.
+- [01:18:55,646 - 01:18:57,646] But you're saying there's only two thetas in that equation.
+- [01:18:57,646 - 01:18:58,646] No, no, you can...
+- [01:18:58,646 - 01:18:59,646] Oh, sorry.
+- [01:18:59,646 - 01:19:01,646] You can multiply a theta by a...
+- [01:19:01,646 - 01:19:02,646] By a real number.
+- [01:19:02,646 - 01:19:03,646] By a real number.
+- [01:19:03,646 - 01:19:04,646] Yeah.
+- [01:19:04,646 - 01:19:05,646] You can multiply it by a real number.
+- [01:19:05,646 - 01:19:06,646] Right.
+- [01:19:06,646 - 01:19:07,646] So what should we say?
+- [01:19:07,646 - 01:19:09,646] We should say that thetas, there's
+- [01:19:09,646 - 01:19:11,646] only two of them up to...
+- [01:19:11,646 - 01:19:14,646] They really form a two-dimensional vector space.
+- [01:19:14,646 - 01:19:15,646] Right.
+- [01:19:15,646 - 01:19:18,646] So apart from multiplication by an ordinary
+- [01:19:18,646 - 01:19:21,646] number, there are really only two of them.
+- [01:19:21,646 - 01:19:22,646] Okay.
+- [01:19:22,646 - 01:19:24,646] So the space of functions is very limited.
+- [01:19:24,646 - 01:19:27,646] There's not much structure to it.
+- [01:19:27,646 - 01:19:29,146] If there are three thetas, well,
+- [01:19:29,146 - 01:19:30,646] it gets a little bit longer.
+- [01:19:30,646 - 01:19:32,646] You can go up to beta three, theta three.
+- [01:19:32,646 - 01:19:34,646] Then you can have theta one, theta two,
+- [01:19:34,646 - 01:19:36,646] theta one, theta three, theta two, theta three.
+- [01:19:36,646 - 01:19:39,646] And then finally, theta one, theta two, theta three.
+- [01:19:39,646 - 01:19:40,646] And that's it.
+- [01:19:40,646 - 01:19:41,646] Okay.
+- [01:19:41,646 - 01:19:48,646] So polynomials in this theory are...
+- [01:19:48,646 - 01:19:51,646] Polynomial functions are functions of functions.
+- [01:19:51,646 - 01:19:52,646] Okay.
+- [01:19:52,646 - 01:19:53,646] So...
+- [01:19:53,646 - 01:19:55,646] Polynomial functions of theta.
+- [01:19:55,646 - 01:19:58,646] Polynomial functions of theta are very limited.
+- [01:19:58,646 - 01:20:02,646] And there are no non-polynomial functions.
+- [01:20:02,646 - 01:20:03,646] Okay.
+- [01:20:03,646 - 01:20:06,646] What about exponentials of theta?
+- [01:20:06,646 - 01:20:07,646] That's an interesting question.
+- [01:20:07,646 - 01:20:09,646] Let's see what exponentials do.
+- [01:20:09,646 - 01:20:13,646] Let's see if e to the a...
+- [01:20:13,646 - 01:20:15,646] Let's say there's only one theta.
+- [01:20:15,646 - 01:20:17,646] I think we can do this with just one theta.
+- [01:20:17,646 - 01:20:19,646] e to the a theta
+- [01:20:19,646 - 01:20:21,646] times e to the b theta.
+- [01:20:21,646 - 01:20:22,646] Oh.
+- [01:20:22,646 - 01:20:23,646] Let's...
+- [01:20:23,646 - 01:20:24,646] Let's...
+- [01:20:24,646 - 01:20:25,646] Okay.
+- [01:20:25,646 - 01:20:26,646] Let's do this first.
+- [01:20:26,646 - 01:20:28,146] e to the a theta
+- [01:20:28,146 - 01:20:29,646] times e to the b theta.
+- [01:20:29,646 - 01:20:32,646] Is that equal to e to the a plus b...
+- [01:20:32,646 - 01:20:33,646] e to the a theta...
+- [01:20:33,646 - 01:20:35,646] You know, the things add in the exponent.
+- [01:20:35,646 - 01:20:36,646] All right.
+- [01:20:36,646 - 01:20:37,646] So let's see.
+- [01:20:37,646 - 01:20:42,646] e to the a theta is one plus a
+- [01:20:42,646 - 01:20:47,646] theta plus a squared theta squared over two factorial
+- [01:20:47,646 - 01:20:50,646] plus a cubed theta cubed over three factorial.
+- [01:20:50,646 - 01:20:52,646] But we're dead after theta.
+- [01:20:52,646 - 01:20:55,146] So e to the a theta
+- [01:20:55,146 - 01:20:57,646] is just one plus a theta.
+- [01:20:57,646 - 01:21:02,646] e to the b theta is one plus b theta.
+- [01:21:02,646 - 01:21:07,646] The product of these is one plus a theta plus
+- [01:21:07,646 - 01:21:12,646] b theta plus a b theta squared, but if the
+- [01:21:12,646 - 01:21:14,646] theta squared is zero.
+- [01:21:14,646 - 01:21:19,646] So this is one plus a plus b.
+- [01:21:19,646 - 01:21:24,646] That's a plus b theta, and that is
+- [01:21:24,646 - 01:21:29,646] just e to the a plus b theta.
+- [01:21:29,646 - 01:21:33,146] So, exponentials exist, or the algebra of
+- [01:21:33,146 - 01:21:36,646] exponentials is exactly the same as the algebra
+- [01:21:36,646 - 01:21:39,146] of exponentials of ordinary things, but
+- [01:21:39,146 - 01:21:41,646] exponentials are no more complicated than this.
+- [01:21:41,646 - 01:21:42,646] I'm curious.
+- [01:21:42,646 - 01:21:44,646] Let's see if it works with two thetas.
+- [01:21:44,646 - 01:21:45,646] Hmm?
+- [01:21:45,646 - 01:21:46,646] Two different thetas.
+- [01:21:46,646 - 01:21:47,646] Two different thetas.
+- [01:21:47,646 - 01:21:48,646] Let's try it.
+- [01:21:48,646 - 01:21:53,646] Okay, so we have e to the
+- [01:21:53,646 - 01:21:58,646] theta one, e to the theta two.
+- [01:21:58,646 - 01:21:59,646] Hmm?
+- [01:21:59,646 - 01:22:02,646] Okay, let's see what we get.
+- [01:22:02,646 - 01:22:06,146] We get one plus theta one times one plus
+- [01:22:06,146 - 01:22:09,646] theta two, which is equal to one plus theta one
+- [01:22:09,646 - 01:22:13,646] plus theta two times one plus theta two.
+- [01:22:13,646 - 01:22:15,146] So we get one plus theta
+- [01:22:15,146 - 01:22:16,646] one times one plus theta two.
+- [01:22:16,646 - 01:22:19,646] I think that's right, isn't it?
+- [01:22:19,646 - 01:22:20,646] And that's it.
+- [01:22:20,646 - 01:22:21,646] That's as far as we go.
+- [01:22:21,646 - 01:22:24,146] Okay, let's see if that's equal to e, I hope
+- [01:22:24,146 - 01:22:26,646] it is, e to the theta one plus theta two.
+- [01:22:26,646 - 01:22:30,146] This should be equal to one plus theta one
+- [01:22:30,146 - 01:22:33,646] plus theta two plus theta one plus theta two
+- [01:22:33,646 - 01:22:37,646] plus theta one plus theta two plus
+- [01:22:37,646 - 01:22:41,646] theta two plus theta one plus theta two.
+- [01:22:41,646 - 01:22:42,646] Okay.
+- [01:22:42,646 - 01:22:43,646] Okay.
+- [01:22:43,646 - 01:22:44,646] Okay.
+- [01:22:44,646 - 01:22:48,146] So, if we put this here, we
+- [01:22:48,146 - 01:22:51,646] get theta two squared over two factorial, right?
+- [01:22:51,646 - 01:23:01,646] Over two factorial plus higher.
+- [01:23:01,646 - 01:23:03,146] But the problem with higher is
+- [01:23:03,146 - 01:23:04,646] we're not going to get anything.
+- [01:23:04,646 - 01:23:08,146] The reason we get something from here is
+- [01:23:08,146 - 01:23:11,646] because we have theta one times theta two.
+- [01:23:11,646 - 01:23:12,646] Theta one squared is zero.
+- [01:23:12,646 - 01:23:13,646] Theta two squared is zero.
+- [01:23:13,646 - 01:23:14,646] Theta two squared is zero.
+- [01:23:14,646 - 01:23:17,946] but we do have twice theta1 theta2 over
+- [01:23:17,946 - 01:23:21,246] 2 factorial, which is exactly what appears here.
+- [01:23:21,546 - 01:23:24,726] But now what happens when you
+- [01:23:24,726 - 01:23:27,906] go to theta1 plus theta2 cubed?
+- [01:23:29,446 - 01:23:32,506] That's going to have things like theta1 cubed, that's 0.
+- [01:23:32,906 - 01:23:35,866] It's going to have things like theta2 cubed, that's 0.
+- [01:23:36,766 - 01:23:39,266] It's going to have theta1 squared times
+- [01:23:39,266 - 01:23:41,766] theta2, that's 0 because theta1 squared is 0.
+- [01:23:41,766 - 01:23:43,526] In other words, there's always going to
+- [01:23:43,526 - 01:23:45,286] be some repetition of one of the thetas.
+- [01:23:46,186 - 01:23:48,186] And a repetition means that it's equal to 0.
+- [01:23:48,326 - 01:23:49,546] So this thing is not there.
+- [01:23:50,425 - 01:23:52,485] And yes, it does reproduce this.
+- [01:23:52,666 - 01:23:54,126] Interesting, just an interesting fact.
+- [01:23:55,465 - 01:23:59,106] Exponential functions exist, but they're extremely simple.
+- [01:24:00,445 - 01:24:03,515] Doesn't the square term there give you
+- [01:24:03,515 - 01:24:06,586] theta1 theta2 plus theta2 theta1, which is 0?
+- [01:24:11,766 - 01:24:15,706] No, it doesn't.
+- [01:24:15,706 - 01:24:16,366] It doesn't.
+- [01:24:16,425 - 01:24:17,005] It doesn't.
+- [01:24:18,945 - 01:24:20,246] Let's see why that.
+- [01:24:20,646 - 01:24:21,546] That's a good point.
+- [01:24:21,726 - 01:24:22,566] Why doesn't it?
+- [01:24:24,945 - 01:24:28,706] Theta1 plus theta2 theta1.
+- [01:24:29,186 - 01:24:31,945] You know, you may be right.
+- [01:24:32,066 - 01:24:32,885] That looks right.
+- [01:24:33,026 - 01:24:33,626] Theta1.
+- [01:24:38,385 - 01:24:41,666] Theta1 squared plus theta2 squared plus theta1 theta2.
+- [01:24:41,766 - 01:24:43,366] Plus theta2 plus theta1.
+- [01:24:44,826 - 01:24:45,346] Yeah.
+- [01:24:45,606 - 01:24:47,266] No, that's worrisome.
+- [01:24:49,826 - 01:24:52,346] Does this mean that theta1 plus theta2
+- [01:24:52,346 - 01:24:54,866] give you another theta type of thing?
+- [01:24:55,885 - 01:24:58,425] Is the sum of two Grassman numbers another Grassman number?
+- [01:24:58,826 - 01:24:59,996] Yeah, the sum of two
+- [01:24:59,996 - 01:25:01,166] Grassman numbers is another Grassman number.
+- [01:25:01,306 - 01:25:01,706] So the question.
+- [01:25:01,866 - 01:25:03,346] Yeah, yeah, yeah.
+- [01:25:03,885 - 01:25:04,846] Yeah, yeah.
+- [01:25:06,026 - 01:25:08,925] Looks like the exponentials don't always make sense.
+- [01:25:09,546 - 01:25:10,306] I didn't know that.
+- [01:25:11,766 - 01:25:15,846] It looks like there is a failure of multiplication of.
+- [01:25:15,846 - 01:25:18,566] Am I missing something?
+- [01:25:23,385 - 01:25:24,086] I don't know.
+- [01:25:24,206 - 01:25:25,046] Looks like it doesn't work.
+- [01:25:26,546 - 01:25:27,885] I actually didn't know that.
+- [01:25:28,286 - 01:25:29,826] That's the first time I ever tried that.
+- [01:25:32,425 - 01:25:33,005] What's that?
+- [01:25:38,206 - 01:25:38,646] Hmm?
+- [01:25:38,786 - 01:25:39,385] Yeah.
+- [01:25:39,385 - 01:25:39,866] Yeah.
+- [01:25:39,866 - 01:25:40,086] Yeah.
+- [01:25:40,086 - 01:25:40,746] That third term.
+- [01:25:41,026 - 01:25:41,306] Yeah.
+- [01:25:41,385 - 01:25:41,746] That third term.
+- [01:25:41,766 - 01:25:42,286] That third term is zero.
+- [01:25:45,066 - 01:25:46,445] No, but this is not zero.
+- [01:25:47,806 - 01:25:49,405] Theta1 theta2 is not zero.
+- [01:25:50,945 - 01:25:52,615] Is it possible that if you go
+- [01:25:52,615 - 01:25:54,286] to cube, you might get that term?
+- [01:25:54,566 - 01:25:55,086] What's that?
+- [01:25:55,445 - 01:25:57,315] If you go to the cubic
+- [01:25:57,315 - 01:25:59,186] thing, you might get that term?
+- [01:25:59,925 - 01:26:01,186] If you go to the cubic thing.
+- [01:26:02,885 - 01:26:04,206] I don't think so.
+- [01:26:06,286 - 01:26:06,726] Theta1.
+- [01:26:06,806 - 01:26:07,606] No, I don't think so.
+- [01:26:07,846 - 01:26:08,806] I don't think so.
+- [01:26:09,366 - 01:26:10,526] No, I think it fails.
+- [01:26:10,526 - 01:26:11,746] I think it really does fail.
+- [01:26:12,385 - 01:26:13,005] I'll check it.
+- [01:26:13,005 - 01:26:13,606] I'll, uh...
+- [01:26:15,905 - 01:26:16,405] Hmm?
+- [01:26:16,666 - 01:26:17,606] Just a dumb question.
+- [01:26:17,786 - 01:26:19,646] You have 1 plus theta1.
+- [01:26:20,306 - 01:26:21,086] What does that mean?
+- [01:26:21,445 - 01:26:22,815] Because you have an ordinary
+- [01:26:22,815 - 01:26:24,186] number and that's a crazy number.
+- [01:26:25,186 - 01:26:26,326] Is that an ordinary number?
+- [01:26:27,005 - 01:26:27,505] No.
+- [01:26:27,505 - 01:26:29,306] 1 plus theta1 is not an ordinary number.
+- [01:26:29,646 - 01:26:31,046] So you're allowed to mix them.
+- [01:26:31,166 - 01:26:32,366] Yeah, you're allowed to mix them.
+- [01:26:32,546 - 01:26:33,445] You're allowed to add them.
+- [01:26:34,146 - 01:26:35,106] You're allowed to add them.
+- [01:26:36,046 - 01:26:37,975] You're allowed to add them, but it looks
+- [01:26:37,975 - 01:26:39,905] like you can't exponentiate them and get the...
+- [01:26:40,445 - 01:26:41,385] I got...
+- [01:26:41,386 - 01:26:44,466] I'm confused by it.
+- [01:26:44,626 - 01:26:46,166] I thought you could, but...
+- [01:26:46,166 - 01:26:47,676] They're a little bit like
+- [01:26:47,676 - 01:26:49,186] rotations about different axes, aren't they?
+- [01:26:50,386 - 01:26:51,346] They are what they are.
+- [01:26:52,806 - 01:26:54,906] I don't think they're like anything else.
+- [01:26:55,646 - 01:26:57,606] I don't think like they're like anything else.
+- [01:26:57,686 - 01:26:59,596] They're a bookkeeping device, which is
+- [01:26:59,596 - 01:27:01,506] useful, but they're not like anything else.
+- [01:27:02,386 - 01:27:03,586] They're Grassman numbers.
+- [01:27:05,966 - 01:27:06,686] Grassman...
+- [01:27:06,686 - 01:27:08,986] Functions of Grassman numbers
+- [01:27:08,986 - 01:27:11,286] can be differentiated and integrated.
+- [01:27:11,286 - 01:27:16,626] Which is a useful bookkeeping device.
+- [01:27:17,905 - 01:27:20,715] When I say they can be integrated, I mean
+- [01:27:20,715 - 01:27:23,525] you can define the integrals of a Grassman number
+- [01:27:23,525 - 01:27:27,005] and the derivatives so that it satisfies certain properties.
+- [01:27:29,666 - 01:27:32,286] If you have the derivation...
+- [01:27:32,866 - 01:27:34,816] The derivative of a function
+- [01:27:34,816 - 01:27:36,766] of a Grassman number is straightforward.
+- [01:27:39,166 - 01:27:41,166] The derivative with respect...
+- [01:27:41,286 - 01:27:44,286] With respect to theta of one or any...
+- [01:27:44,806 - 01:27:51,326] One or any alpha is equal to zero.
+- [01:27:53,666 - 01:28:00,086] The derivative of theta with respect to theta is one.
+- [01:28:01,505 - 01:28:02,965] And so, for example, if we
+- [01:28:02,965 - 01:28:04,425] have just one theta in a problem,
+- [01:28:05,025 - 01:28:09,286] we have functions a plus b theta.
+- [01:28:09,286 - 01:28:11,166] The derivative of that...
+- [01:28:11,166 - 01:28:13,926] With respect to theta is very straightforward.
+- [01:28:14,486 - 01:28:15,606] It's just beta.
+- [01:28:17,146 - 01:28:17,846] That's it.
+- [01:28:19,426 - 01:28:21,546] Supposing we have more than one theta.
+- [01:28:21,566 - 01:28:22,146] This is easy.
+- [01:28:22,306 - 01:28:24,586] I mean, this is just ordinary derivative.
+- [01:28:24,726 - 01:28:25,566] And this is definition.
+- [01:28:25,885 - 01:28:26,586] This is definition.
+- [01:28:28,546 - 01:28:32,166] The derivative with respect to theta one...
+- [01:28:33,946 - 01:28:37,166] Of a function alpha...
+- [01:28:38,426 - 01:28:40,426] There are two thetas now, just as an example.
+- [01:28:40,426 - 01:28:41,146] Two thetas.
+- [01:28:41,266 - 01:28:49,096] Alpha plus beta theta one plus beta two
+- [01:28:49,096 - 01:28:56,926] theta two plus finally gamma theta one theta two.
+- [01:28:56,926 - 01:29:01,366] All right.
+- [01:29:01,385 - 01:29:02,625] You go through it just as
+- [01:29:02,625 - 01:29:03,866] if it was an ordinary function.
+- [01:29:04,226 - 01:29:06,286] Derivative with respect to theta
+- [01:29:06,286 - 01:29:08,346] one, you find something from here.
+- [01:29:09,106 - 01:29:09,986] Just beta one.
+- [01:29:11,166 - 01:29:13,166] Nothing from here.
+- [01:29:13,166 - 01:29:15,166] Nothing from here.
+- [01:29:15,166 - 01:29:17,166] And from here, you have gamma theta two.
+- [01:29:17,166 - 01:29:19,166] So this is exactly what you would expect.
+- [01:29:19,166 - 01:29:25,166] The only surprise in the definition is that if
+- [01:29:25,166 - 01:29:31,166] I were to differentiate with respect to theta two.
+- [01:29:31,166 - 01:29:35,166] Nothing from the alpha.
+- [01:29:35,166 - 01:29:37,166] Nothing from here.
+- [01:29:37,166 - 01:29:39,166] Beta two.
+- [01:29:39,166 - 01:29:40,166] Nothing from here.
+- [01:29:40,166 - 01:29:41,166] Nothing from here.
+- [01:29:41,166 - 01:29:42,166] But what about here?
+- [01:29:42,166 - 01:29:47,166] You might expect theta one, right?
+- [01:29:47,166 - 01:29:48,166] Okay.
+- [01:29:48,166 - 01:29:51,166] The rule is that the derivative
+- [01:29:51,166 - 01:29:54,166] operation is also like a Grassman number.
+- [01:29:54,166 - 01:29:56,666] And when you pass it through
+- [01:29:56,666 - 01:29:59,166] another Grassman number, it changes sign.
+- [01:29:59,166 - 01:30:01,666] The rule for Grassman numbers is when you
+- [01:30:01,666 - 01:30:04,166] pass them through each other, they change sign.
+- [01:30:04,166 - 01:30:06,666] The derivative of a Grassman number
+- [01:30:06,666 - 01:30:09,166] is counted as a Grassman number.
+- [01:30:09,166 - 01:30:11,166] With respect to sign.
+- [01:30:11,166 - 01:30:13,666] So that means when you pass
+- [01:30:13,666 - 01:30:16,166] it through theta one, you change sign.
+- [01:30:16,166 - 01:30:19,166] And this will give you minus gamma theta one.
+- [01:30:23,166 - 01:30:25,666] So you treat derivatives the same
+- [01:30:25,666 - 01:30:28,166] way you treat the Grassman numbers themselves.
+- [01:30:28,166 - 01:30:31,166] A derivative with respect to a theta
+- [01:30:31,166 - 01:30:34,166] is also a Grassman kind of variable.
+- [01:30:34,166 - 01:30:36,166] And when it passes through any
+- [01:30:36,166 - 01:30:38,166] other Grassman variable, it changes sign.
+- [01:30:38,166 - 01:30:43,166] That's the only peculiar thing about
+- [01:30:43,166 - 01:30:48,166] differentiation with respect to Grassman numbers.
+- [01:30:48,166 - 01:30:51,666] Incidentally, these rules ensure some
+- [01:30:51,666 - 01:30:55,166] of the rules of ordinary differentiation.
+- [01:30:55,166 - 01:31:00,666] For example, they ensure the rule that the derivative of a product is the first term times
+- [01:31:00,666 - 01:31:06,166] the derivative of the second one plus the second one times the derivative of the first one.
+- [01:31:06,166 - 01:31:07,166] The usual rule.
+- [01:31:07,166 - 01:31:11,166] The usual rule of calculus for products.
+- [01:31:11,166 - 01:31:13,166] If you didn't change the sign
+- [01:31:13,166 - 01:31:15,166] here, you'd get into trouble with that.
+- [01:31:15,166 - 01:31:21,166] So the calculus of Grassman variables is again simple.
+- [01:31:21,166 - 01:31:25,666] You don't do anything unusual except to remember that whenever
+- [01:31:25,666 - 01:31:30,166] a derivative passes through a Grassman variable, the thing changes sign.
+- [01:31:30,166 - 01:31:35,166] We have to do integration of Grassman variables.
+- [01:31:35,166 - 01:31:39,166] And integration of Grassman variables, which is too late
+- [01:31:39,166 - 01:31:43,166] for now, we will be able to write a table.
+- [01:31:43,166 - 01:31:47,666] Since there are so few Grassman functions, the
+- [01:31:47,666 - 01:31:52,166] table of Grassman integrals will be about that long.
+- [01:31:52,166 - 01:31:56,166] So we'll also define Grassman integrals.
+- [01:31:56,166 - 01:31:59,666] Why I'm doing this is just to show you
+- [01:31:59,666 - 01:32:03,166] that there does exist a sort of mathematical algebraic framework
+- [01:32:03,166 - 01:32:05,166] in which you can write a graph.
+- [01:32:05,166 - 01:32:09,166] In which supersymmetry and in which fermion operators
+- [01:32:09,166 - 01:32:13,166] fit in to a new kind of arithmetic.
+- [01:32:13,166 - 01:32:16,166] It is essential to understand all of
+- [01:32:16,166 - 01:32:19,166] this, to understand supersymmetry at its deepest level.
+- [01:32:19,166 - 01:32:21,166] It looks like the product of
+- [01:32:21,166 - 01:32:23,166] any two Grassman numbers is zero.
+- [01:32:23,166 - 01:32:27,166] No, theta one times theta two is not zero.
+- [01:32:27,166 - 01:32:31,166] Add theta one and theta two and square them.
+- [01:32:31,166 - 01:32:33,166] And if that's zero, you'll see the product is zero.
+- [01:32:33,166 - 01:32:43,166] No, it's not true that the square of...
+- [01:32:43,166 - 01:32:50,166] Square that.
+- [01:32:50,166 - 01:32:52,166] That's not zero.
+- [01:32:52,166 - 01:32:55,166] You square it, you get zero, right?
+- [01:32:55,166 - 01:32:57,166] Yes, it is.
+- [01:32:57,166 - 01:32:58,166] And therefore the product of
+- [01:32:58,166 - 01:32:59,166] any two Grassman numbers is zero.
+- [01:32:59,166 - 01:33:01,166] No, no, no.
+- [01:33:01,166 - 01:33:02,166] This, no.
+- [01:33:02,166 - 01:33:07,166] You see this is equal to theta one squared plus theta
+- [01:33:07,166 - 01:33:12,166] two squared plus theta one theta two plus theta two theta one.
+- [01:33:12,166 - 01:33:14,166] Right.
+- [01:33:14,166 - 01:33:16,166] Not quite true.
+- [01:33:16,166 - 01:33:17,166] Right.
+- [01:33:17,166 - 01:33:23,166] This plus this.
+- [01:33:23,166 - 01:33:26,166] Yeah, the result is zero but it doesn't prove that...
+- [01:33:26,166 - 01:33:27,166] Yeah, it doesn't prove theta one
+- [01:33:27,166 - 01:33:28,166] theta two is equal to zero.
+- [01:33:28,166 - 01:33:29,166] It just proves that theta one theta two
+- [01:33:29,166 - 01:33:30,166] plus theta two theta one is equal to zero.
+- [01:33:30,166 - 01:33:32,166] Yeah, that's already a rule.
+- [01:33:32,166 - 01:33:33,166] Right.
+- [01:33:33,166 - 01:33:37,666] So theta one times theta two is equal to minus theta two
+- [01:33:37,666 - 01:33:42,166] theta one but theta one times theta two is not equal to zero.
+- [01:33:42,166 - 01:33:43,166] Good.
+- [01:33:43,166 - 01:33:45,166] But I'm still puzzled about this exponential.
+- [01:33:45,166 - 01:33:47,166] I had always thought that...
+- [01:33:47,166 - 01:33:50,666] I never used it for anything and I don't know
+- [01:33:50,666 - 01:33:54,166] what it's good for but I was hoping that exponentials existed.
+- [01:33:54,166 - 01:33:56,166] Well, the fact...
+- [01:33:56,166 - 01:33:57,166] Any time you have the sum of the two things,
+- [01:33:57,166 - 01:33:58,166] powers of the sum of two things, you can't use it.
+- [01:33:58,166 - 01:34:00,166] Yeah.
+- [01:34:00,166 - 01:34:03,166] But if you multiply e to the theta one times e
+- [01:34:03,166 - 01:34:06,166] to the theta two, it does look like you get left with...
+- [01:34:06,166 - 01:34:07,166] It doesn't look like you have
+- [01:34:07,166 - 01:34:08,166] a source of theta one theta two.
+- [01:34:08,166 - 01:34:10,166] You do have a theta one theta two.
+- [01:34:10,166 - 01:34:13,666] I'm saying that this expansion of the exponential gives you
+- [01:34:13,666 - 01:34:17,166] square terms and higher but square terms are automatically zero.
+- [01:34:17,166 - 01:34:18,166] Yeah.
+- [01:34:18,166 - 01:34:23,166] So that means this is true.
+- [01:34:23,166 - 01:34:24,166] This is true.
+- [01:34:24,166 - 01:34:25,166] This is true.
+- [01:34:25,166 - 01:34:26,166] This is true.
+- [01:34:26,166 - 01:34:27,166] This is true.
+- [01:34:27,166 - 01:34:28,166] This is true.
+- [01:34:28,166 - 01:34:29,166] This is true.
+- [01:34:29,166 - 01:34:30,166] That can't go any further.
+- [01:34:30,166 - 01:34:31,166] No source of theta one theta two.
+- [01:34:31,166 - 01:34:32,166] Right.
+- [01:34:32,166 - 01:34:34,166] But that's not the same as this.
+- [01:34:34,166 - 01:34:36,166] So it's simply not the case
+- [01:34:36,166 - 01:34:38,166] that this is equal to this.
+- [01:34:38,166 - 01:34:39,166] Right.
+- [01:34:39,166 - 01:34:42,166] Simply not the case.
+- [01:34:42,166 - 01:34:44,166] Aren't you assuming that the exponential is valid?
+- [01:34:44,166 - 01:34:48,166] Aren't you assuming that the exponential expansion is valid?
+- [01:34:48,166 - 01:34:49,166] That may not be the case.
+- [01:34:49,166 - 01:34:50,166] Oh, yeah, yeah, yeah.
+- [01:34:50,166 - 01:34:52,166] That was the definition of the exponential.
+- [01:34:52,166 - 01:34:53,166] Yeah.
+- [01:34:53,166 - 01:34:55,166] I think there may be some other...
+- [01:34:55,166 - 01:34:56,166] Can I also start addressing that?
+- [01:34:56,166 - 01:34:57,866] There may be some other definition.
+- [01:34:57,866 - 01:34:58,726] I have to think about it.
+- [01:34:58,726 - 01:34:59,826] There may be another definition.
+- [01:35:06,885 - 01:35:10,786] For more, please visit us at stanford.edu.
