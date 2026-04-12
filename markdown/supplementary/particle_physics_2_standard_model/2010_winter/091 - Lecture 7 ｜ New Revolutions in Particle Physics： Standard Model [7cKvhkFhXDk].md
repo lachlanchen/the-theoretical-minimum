@@ -1,0 +1,2545 @@
+# Transcript
+
+Source: supplementary/particle_physics_2_standard_model/2010_winter/091 - Lecture 7 ｜ New Revolutions in Particle Physics： Standard Model [7cKvhkFhXDk].mkv
+
+- [00:00:00,000 - 00:00:07,000] Stanford University
+- [00:00:09,000 - 00:00:13,000] So the goal of today was to
+- [00:00:13,000 - 00:00:17,000] show you how a particle like the photon,
+- [00:00:17,000 - 00:00:21,500] a particle like the photon can gain a mass,
+- [00:00:21,500 - 00:00:26,000] can get a mass from something called spontaneous symmetry breaking.
+- [00:00:26,000 - 00:00:29,000] How it can gain a mass
+- [00:00:29,000 - 00:00:32,000] from something called the Higgs phenomenon.
+- [00:00:32,000 - 00:00:36,000] Two important ingredients that I haven't
+- [00:00:36,000 - 00:00:40,000] emphasized tonight, both of them technical,
+- [00:00:40,000 - 00:00:44,000] but also one of them more technical than the other.
+- [00:00:44,000 - 00:00:46,500] One of them called spontaneous symmetry
+- [00:00:46,500 - 00:00:49,000] breaking, and the other called gauge invariance.
+- [00:00:49,000 - 00:00:52,000] We have to go through them if we
+- [00:00:52,000 - 00:00:55,000] really want to seriously understand what's going on.
+- [00:00:55,000 - 00:00:56,000] There are two things that we have to do.
+- [00:00:56,000 - 00:01:01,000] Mathematical ideas, and so we
+- [00:01:01,000 - 00:01:06,000] can't avoid mathematics, as usual.
+- [00:01:06,000 - 00:01:08,500] Last time I think I discussed a
+- [00:01:08,500 - 00:01:11,000] little bit an example of spontaneous symmetry breaking,
+- [00:01:11,000 - 00:01:14,500] namely a very simple model of magnets,
+- [00:01:14,500 - 00:01:18,000] where the magnets, little magnets, individual magnets,
+- [00:01:18,000 - 00:01:21,500] can either point up or down, and where the energy
+- [00:01:21,500 - 00:01:25,000] is such that the energy is lower when they're parallel,
+- [00:01:25,000 - 00:01:25,500] and the energy is lower when they're parallel,
+- [00:01:25,500 - 00:01:26,000] and the energy is lower when they're parallel,
+- [00:01:26,000 - 00:01:29,000] either this way or this
+- [00:01:29,000 - 00:01:32,000] way, and larger if they're anti-parallel.
+- [00:01:32,000 - 00:01:39,000] There is no fundamental asymmetry between up and down.
+- [00:01:39,000 - 00:01:42,500] Two neighboring up little magnets have the
+- [00:01:42,500 - 00:01:46,000] same energy as two neighboring down magnets.
+- [00:01:46,000 - 00:01:48,000] One up and one down has the
+- [00:01:48,000 - 00:01:50,000] same energy as one down and one up.
+- [00:01:50,000 - 00:01:52,500] So there's no fundamental difference
+- [00:01:52,500 - 00:01:55,000] between up, up, and down.
+- [00:01:55,000 - 00:02:00,000] But, nevertheless, because the spins are, because
+- [00:02:00,000 - 00:02:05,000] it's energetically favorable for them to be parallel,
+- [00:02:05,000 - 00:02:06,500] then all you have to do
+- [00:02:06,500 - 00:02:08,000] is go very, very far away.
+- [00:02:08,000 - 00:02:10,500] Let's imagine now we're talking about the
+- [00:02:10,500 - 00:02:13,000] ground state, the state of lowest energy.
+- [00:02:13,000 - 00:02:15,000] This magnet has been frozen, all
+- [00:02:15,000 - 00:02:17,000] its energy sucked out of it.
+- [00:02:17,000 - 00:02:19,000] Which state is it in?
+- [00:02:19,000 - 00:02:20,000] You can think of two possibilities.
+- [00:02:20,000 - 00:02:21,500] They could all be up,
+- [00:02:21,500 - 00:02:23,000] or they could all be down.
+- [00:02:23,000 - 00:02:24,000] One up and one down, anyway,
+- [00:02:24,000 - 00:02:26,000] is what costs more energy.
+- [00:02:26,000 - 00:02:27,500] But which is it? Are they
+- [00:02:27,500 - 00:02:29,000] all up, or are they all down?
+- [00:02:29,000 - 00:02:31,500] Well, the answer is determined by
+- [00:02:31,500 - 00:02:34,000] one spin very, very far away.
+- [00:02:34,000 - 00:02:36,500] You go very, very far away,
+- [00:02:36,500 - 00:02:39,000] and you freeze one of them.
+- [00:02:39,000 - 00:02:41,000] Just one spin very, very far away.
+- [00:02:41,000 - 00:02:45,000] The effect will be that its neighbors, in order
+- [00:02:45,000 - 00:02:49,000] to save energy, will want to be parallel to it.
+- [00:02:49,000 - 00:02:51,500] So let's say the four or the six
+- [00:02:51,500 - 00:02:54,000] neighbors around it, depending on the dimension of space,
+- [00:02:54,000 - 00:02:56,500] in three dimensions there are
+- [00:02:56,500 - 00:02:59,000] six neighbors on a cubic lattice.
+- [00:02:59,000 - 00:03:02,000] So it will tell its neighbors,
+- [00:03:02,000 - 00:03:04,000] look, you want to save energy?
+- [00:03:04,000 - 00:03:06,000] Point the same way I point.
+- [00:03:06,000 - 00:03:07,500] But then the six neighbors have
+- [00:03:07,500 - 00:03:09,000] a bunch of neighbors connected to them,
+- [00:03:09,000 - 00:03:11,000] and so forth and so on,
+- [00:03:11,000 - 00:03:15,000] and the effect will be that the entire lattice,
+- [00:03:15,000 - 00:03:17,500] if we really want to be in the
+- [00:03:17,500 - 00:03:20,000] ground state, will all point in one direction.
+- [00:03:20,000 - 00:03:23,000] So there is a symmetry.
+- [00:03:24,000 - 00:03:27,000] But the symmetry is spontaneously broken.
+- [00:03:27,000 - 00:03:30,000] Now let's just distinguish that and compare it
+- [00:03:30,000 - 00:03:33,000] with what I will call explicit symmetry breaking.
+- [00:03:33,000 - 00:03:36,000] Explicit symmetry breaking is different.
+- [00:03:36,000 - 00:03:41,000] Imagine that instead a slightly different system,
+- [00:03:41,000 - 00:03:44,000] perhaps the same system but one added ingredient.
+- [00:03:44,000 - 00:03:50,000] There's a magnetic field, and the magnetic field points up.
+- [00:03:50,000 - 00:03:52,000] In that case,
+- [00:03:52,000 - 00:03:53,000] the,
+- [00:03:53,000 - 00:03:54,000] just an individual point,
+- [00:03:54,000 - 00:03:56,000] an individual spin, one spin at a time,
+- [00:03:56,000 - 00:03:58,000] forget its neighbors,
+- [00:03:58,000 - 00:03:59,000] will
+- [00:03:59,000 - 00:04:03,000] prefer to point along the direction of the magnetic field.
+- [00:04:03,000 - 00:04:05,000] Prefer, what does that mean?
+- [00:04:05,000 - 00:04:07,500] It means the energy will be lower
+- [00:04:07,500 - 00:04:10,000] when it's pointing along the magnetic field.
+- [00:04:10,000 - 00:04:12,000] This is an explicit breaking.
+- [00:04:12,000 - 00:04:15,000] There's something in the system which is
+- [00:04:15,000 - 00:04:18,000] singled down up as different than down.
+- [00:04:18,000 - 00:04:22,000] The expression for the energy is no longer symmetric.
+- [00:04:22,000 - 00:04:24,000] If all I had was one spin,
+- [00:04:24,000 - 00:04:25,500] the energy would be different
+- [00:04:25,500 - 00:04:27,000] if it were up and down.
+- [00:04:27,000 - 00:04:29,000] And in that case,
+- [00:04:29,000 - 00:04:30,500] it really doesn't matter what
+- [00:04:30,500 - 00:04:32,000] you do very, very far away.
+- [00:04:32,000 - 00:04:34,000] It doesn't make much difference.
+- [00:04:34,000 - 00:04:37,500] There's an enormous savings of energy if all
+- [00:04:37,500 - 00:04:41,000] of the spins are pointing along the magnetic field.
+- [00:04:41,000 - 00:04:45,000] If you try to take a substantial number of them,
+- [00:04:45,000 - 00:04:47,000] and flip them in the wrong direction,
+- [00:04:47,000 - 00:04:49,000] the energy cost would be enormous.
+- [00:04:49,000 - 00:04:51,000] It would be proportional to the total
+- [00:04:51,000 - 00:04:53,000] number of spins that you tried to change.
+- [00:04:53,000 - 00:04:55,000] So one spin far away,
+- [00:04:55,000 - 00:04:57,000] holding it in some direction,
+- [00:04:57,000 - 00:05:01,000] is not going to have much influence far away.
+- [00:05:01,000 - 00:05:03,000] Why?
+- [00:05:03,000 - 00:05:05,000] Because if it did have an influence far away,
+- [00:05:05,000 - 00:05:07,000] and lines things up with it,
+- [00:05:07,000 - 00:05:09,000] the cost and energy would be enormous.
+- [00:05:09,000 - 00:05:12,000] So that's explicit symmetry breaking.
+- [00:05:12,000 - 00:05:14,000] Yeah.
+- [00:05:14,000 - 00:05:16,000] Does a particle with no charge,
+- [00:05:16,000 - 00:05:17,000] that spin,
+- [00:05:17,000 - 00:05:19,000] have a preferred orientation in the magnetic field?
+- [00:05:19,000 - 00:05:22,000] It has magnetic moments.
+- [00:05:22,000 - 00:05:25,000] No charge, but magnetic moments.
+- [00:05:25,000 - 00:05:26,000] Right.
+- [00:05:26,000 - 00:05:28,000] So by spontaneity, you mean...
+- [00:05:28,000 - 00:05:29,000] Like the neutron.
+- [00:05:29,000 - 00:05:32,000] Neutron has a magnetic moment, but no charge.
+- [00:05:32,000 - 00:05:33,500] By spontaneity, you mean they would
+- [00:05:33,500 - 00:05:35,000] all flip at the same time,
+- [00:05:35,000 - 00:05:37,000] or would they propagate out?
+- [00:05:37,000 - 00:05:39,000] Well, that's a good question.
+- [00:05:39,000 - 00:05:41,000] I mean, in the real world, they propagate out.
+- [00:05:41,000 - 00:05:43,000] Yeah.
+- [00:05:43,000 - 00:05:45,000] Yeah, if you...
+- [00:05:45,000 - 00:05:46,000] That's a good question.
+- [00:05:46,000 - 00:05:47,500] I mean, if you had all
+- [00:05:47,500 - 00:05:49,000] the spins lined up in one way,
+- [00:05:49,000 - 00:05:50,000] in some way,
+- [00:05:50,000 - 00:05:51,000] and then you...
+- [00:05:51,000 - 00:05:53,000] In a spontaneous case,
+- [00:05:53,000 - 00:05:54,500] and you came and you flipped one
+- [00:05:54,500 - 00:05:56,000] of the spins and held it down,
+- [00:05:56,000 - 00:05:59,000] yes, a wave would go out that...
+- [00:05:59,000 - 00:06:01,000] Just like stacked dominoes, Paul.
+- [00:06:01,000 - 00:06:02,000] Hm?
+- [00:06:02,000 - 00:06:03,000] Just like stacked dominoes, Paul.
+- [00:06:03,000 - 00:06:05,000] Yeah. Yeah.
+- [00:06:05,000 - 00:06:08,000] Except in three dimensions.
+- [00:06:08,000 - 00:06:09,000] So you'd have multiple waves
+- [00:06:09,000 - 00:06:11,000] basically moving through a material,
+- [00:06:11,000 - 00:06:13,000] in a typical case, wouldn't you?
+- [00:06:13,000 - 00:06:14,000] Say that again?
+- [00:06:14,000 - 00:06:15,500] You would have multiple waves
+- [00:06:15,500 - 00:06:17,000] moving through a large material
+- [00:06:17,000 - 00:06:19,000] at any given point,
+- [00:06:19,000 - 00:06:22,000] multiple distant influences affecting different...
+- [00:06:22,000 - 00:06:27,000] We're going to talk about waves of...
+- [00:06:27,000 - 00:06:29,000] You mean waves of reorientation.
+- [00:06:29,000 - 00:06:31,000] Yeah, we're going to talk
+- [00:06:31,000 - 00:06:33,000] extensively about waves of reorientation.
+- [00:06:33,000 - 00:06:36,000] But...
+- [00:06:36,000 - 00:06:39,000] Okay, so, question.
+- [00:06:39,000 - 00:06:41,000] How would you know...
+- [00:06:41,000 - 00:06:44,000] You find one of these magnetic systems,
+- [00:06:44,000 - 00:06:47,000] not a real magnet, it's just a mathematical model,
+- [00:06:47,000 - 00:06:50,000] with spins which can either be up or down.
+- [00:06:50,000 - 00:06:53,000] You find a sample and it's all pointing up.
+- [00:06:53,000 - 00:06:55,000] You want to find out
+- [00:06:55,000 - 00:06:57,000] whether it's spontaneous symmetry breaking
+- [00:06:57,000 - 00:07:00,000] or let's call it explicit symmetry breaking.
+- [00:07:00,000 - 00:07:01,000] What's the difference?
+- [00:07:01,000 - 00:07:04,000] Are there any phenomena which are
+- [00:07:04,000 - 00:07:07,000] characteristic of one versus the other?
+- [00:07:07,000 - 00:07:09,000] The answer is yes.
+- [00:07:09,000 - 00:07:10,500] In the case of the simple magnets
+- [00:07:10,500 - 00:07:12,000] which can either be up or down,
+- [00:07:12,000 - 00:07:14,500] the special phenomenon associated
+- [00:07:14,500 - 00:07:17,000] with the spontaneous symmetry breaking
+- [00:07:17,000 - 00:07:20,000] is the existence of domain walls.
+- [00:07:20,000 - 00:07:21,000] What is a domain wall?
+- [00:07:21,000 - 00:07:25,000] If you had a big sample...
+- [00:07:25,000 - 00:07:29,000] Here's a big sample here.
+- [00:07:29,000 - 00:07:32,000] And...
+- [00:07:32,000 - 00:07:35,000] You...
+- [00:07:35,000 - 00:07:37,000] decided to do an experiment.
+- [00:07:37,000 - 00:07:40,000] This is a finite size sample, but very big.
+- [00:07:40,000 - 00:07:41,500] So you go out to the
+- [00:07:41,500 - 00:07:43,000] boundaries, let's say the left boundary,
+- [00:07:43,000 - 00:07:46,000] and you make all the spins up.
+- [00:07:46,000 - 00:07:49,000] You just freeze them, you hold on to them.
+- [00:07:49,000 - 00:07:51,000] Perhaps by putting the...
+- [00:07:51,000 - 00:07:53,000] the spins on the boundary over here...
+- [00:07:53,000 - 00:07:55,500] Incidentally, this is not time,
+- [00:07:55,500 - 00:07:58,000] two space directions, just for simplicity.
+- [00:07:58,000 - 00:08:02,000] You freeze all of the spins upward over here.
+- [00:08:02,000 - 00:08:04,000] What do you expect to happen?
+- [00:08:04,000 - 00:08:07,000] Well, of course, the system will save energy
+- [00:08:07,000 - 00:08:10,000] by filling itself up with all upspins, parallel spins.
+- [00:08:10,000 - 00:08:12,000] Not because there's anything around
+- [00:08:12,000 - 00:08:14,000] here which is favoring upspins,
+- [00:08:14,000 - 00:08:16,500] but just because each neighbor
+- [00:08:16,500 - 00:08:19,000] influences all its neighbors and says,
+- [00:08:19,000 - 00:08:21,000] you'll save energy if you're up.
+- [00:08:21,000 - 00:08:23,000] Okay.
+- [00:08:23,000 - 00:08:25,000] How do you tell the difference
+- [00:08:25,000 - 00:08:27,000] between that and explicit symmetry breaking,
+- [00:08:27,000 - 00:08:31,000] which is the presence of a magnetic field
+- [00:08:31,000 - 00:08:34,000] in the bulk of this sample here,
+- [00:08:34,000 - 00:08:36,000] orienting the spins up?
+- [00:08:36,000 - 00:08:38,000] Well, one experiment you could do is you
+- [00:08:38,000 - 00:08:40,000] could go over to this side over here
+- [00:08:40,000 - 00:08:43,000] and place all of the spins down.
+- [00:08:44,000 - 00:08:51,000] Then, what do you expect in the two cases?
+- [00:08:51,000 - 00:08:54,000] In the two cases, you expect quite different behavior.
+- [00:08:54,000 - 00:08:56,000] If there really was a
+- [00:08:56,000 - 00:08:58,000] preference, an explicit symmetry breaking,
+- [00:08:58,000 - 00:09:02,000] that said, you'll save energy by being up,
+- [00:09:02,000 - 00:09:04,000] then the effect of what's going on
+- [00:09:04,000 - 00:09:06,000] over here would not be very important.
+- [00:09:06,000 - 00:09:09,000] It might propagate in a little ways,
+- [00:09:09,000 - 00:09:12,000] but it certainly would not flip
+- [00:09:12,000 - 00:09:14,000] a large, macroscopic,
+- [00:09:14,000 - 00:09:16,000] percentage of the spins,
+- [00:09:16,000 - 00:09:19,000] because that just costs energy to turn
+- [00:09:19,000 - 00:09:22,000] them relative to the explicit magnetic field.
+- [00:09:22,000 - 00:09:25,000] So if there was a magnetic field pointing up,
+- [00:09:25,000 - 00:09:27,000] the effect of turning them down here
+- [00:09:27,000 - 00:09:29,000] would only propagate a little ways in,
+- [00:09:29,000 - 00:09:32,500] and would be too costly an energy to
+- [00:09:32,500 - 00:09:36,000] turn over any large, macroscopic fraction of them.
+- [00:09:36,000 - 00:09:38,000] On the other hand, if up
+- [00:09:38,000 - 00:09:40,000] is just as good as down,
+- [00:09:40,000 - 00:09:41,500] in other words, if there
+- [00:09:41,500 - 00:09:43,000] is nothing external to the system,
+- [00:09:43,000 - 00:09:45,000] saying up is preferred,
+- [00:09:45,000 - 00:09:47,000] then the effect is quite different.
+- [00:09:47,000 - 00:09:53,000] Instead, the favorable energy configuration
+- [00:09:53,000 - 00:09:56,500] will be one in which half
+- [00:09:56,500 - 00:10:00,000] the sample on one side is down,
+- [00:10:00,000 - 00:10:04,000] and half the sample on the other side is up.
+- [00:10:04,000 - 00:10:07,000] Now, the split might not be at the center.
+- [00:10:07,000 - 00:10:09,000] That's not so important.
+- [00:10:09,000 - 00:10:12,000] But this would be a perfectly good configuration.
+- [00:10:13,000 - 00:10:15,000] Where half of them would be
+- [00:10:15,000 - 00:10:17,000] up, half of them would be down.
+- [00:10:17,000 - 00:10:20,000] You cannot find a state with lower energy.
+- [00:10:20,000 - 00:10:23,500] There is no state of lower energy
+- [00:10:23,500 - 00:10:27,000] than half being up and half being down.
+- [00:10:27,000 - 00:10:30,000] This would be called the domain wall.
+- [00:10:30,000 - 00:10:33,000] The separation between the two types of
+- [00:10:33,000 - 00:10:36,000] behaviors would be called the domain wall.
+- [00:10:36,000 - 00:10:39,000] So for this simple example,
+- [00:10:39,000 - 00:10:41,000] the phenomenon that would
+- [00:10:41,000 - 00:10:43,000] characterize spontaneous symmetry breaking
+- [00:10:43,000 - 00:10:46,000] would be the existence of domain walls,
+- [00:10:46,000 - 00:10:48,000] where on either side of the domain wall,
+- [00:10:48,000 - 00:10:54,000] there would be basically identical things,
+- [00:10:54,000 - 00:10:58,000] except reflected by 180 degrees.
+- [00:10:58,000 - 00:11:03,000] The existence of domain walls would be the signal,
+- [00:11:03,000 - 00:11:05,000] the signature of spontaneous
+- [00:11:05,000 - 00:11:07,000] symmetry breakdown for this case.
+- [00:11:07,000 - 00:11:12,000] Now, we can think of a...
+- [00:11:13,000 - 00:11:18,000] a field theory which has very similar behaviors.
+- [00:11:18,000 - 00:11:20,000] Here's a field theory.
+- [00:11:20,000 - 00:11:24,000] We have a field, let's just call it phi.
+- [00:11:24,000 - 00:11:26,000] Is green okay?
+- [00:11:26,000 - 00:11:28,000] Does green work alright?
+- [00:11:28,000 - 00:11:31,000] Say it again?
+- [00:11:31,000 - 00:11:32,000] Black is better.
+- [00:11:32,000 - 00:11:34,000] Alright, let's try...
+- [00:11:34,000 - 00:11:36,000] What do they do with the black? Here it is.
+- [00:11:36,000 - 00:11:38,000] Alright.
+- [00:11:43,000 - 00:11:45,000] A field phi. Now for simplicity now,
+- [00:11:45,000 - 00:11:48,000] phi is a real valued field,
+- [00:11:48,000 - 00:11:51,000] only one component,
+- [00:11:51,000 - 00:11:54,000] and it can take on any value, any
+- [00:11:54,000 - 00:11:57,000] real value from plus infinity to minus infinity.
+- [00:11:57,000 - 00:11:59,500] And there's a dynamics to this
+- [00:11:59,500 - 00:12:02,000] field which is controlled by a Lagrangian.
+- [00:12:02,000 - 00:12:04,000] Let's write a Lagrangian for it.
+- [00:12:04,000 - 00:12:06,000] It's a relativistic field,
+- [00:12:06,000 - 00:12:12,000] and the usual expression for the kinetic energy
+- [00:12:12,000 - 00:12:14,000] of a relativistic field
+- [00:12:14,000 - 00:12:19,000] is to differentiate phi with respect to the direction mu,
+- [00:12:19,000 - 00:12:21,000] and square that.
+- [00:12:21,000 - 00:12:23,000] Well, you square it with some...
+- [00:12:23,000 - 00:12:25,500] some signs, plus signs and minus
+- [00:12:25,500 - 00:12:28,000] signs that are characteristic of relativity,
+- [00:12:28,000 - 00:12:31,000] and that we describe by putting upper and lower indices.
+- [00:12:31,000 - 00:12:33,500] But basically this is just
+- [00:12:33,500 - 00:12:36,000] the sums, actually differences of squares
+- [00:12:36,000 - 00:12:38,000] of the time derivative squared...
+- [00:12:38,000 - 00:12:41,000] sorry, the difference between the time derivative squared,
+- [00:12:41,000 - 00:12:44,000] and the space derivative squared.
+- [00:12:44,000 - 00:12:49,000] This thing here is one half phi dot squared,
+- [00:12:49,000 - 00:12:53,000] minus the derivative with respect to x of phi squared,
+- [00:12:53,000 - 00:12:56,000] same thing for y and so forth and z,
+- [00:12:56,000 - 00:12:57,500] and we'll just represent that by
+- [00:12:57,500 - 00:12:59,000] d mu phi, d mu phi.
+- [00:12:59,000 - 00:13:01,000] We could even represent it more simply.
+- [00:13:01,000 - 00:13:05,000] Let's even represent it by an even simpler notation.
+- [00:13:05,000 - 00:13:08,000] Let's just call it one half,
+- [00:13:08,000 - 00:13:10,000] and the one half is completely...
+- [00:13:11,000 - 00:13:14,000] conventional, meaning to say
+- [00:13:14,000 - 00:13:16,000] it's a convention, but you could change it,
+- [00:13:16,000 - 00:13:19,000] it wouldn't make any difference to the physics.
+- [00:13:19,000 - 00:13:21,500] A simpler notation would just
+- [00:13:21,500 - 00:13:24,000] be to write d phi squared,
+- [00:13:24,000 - 00:13:26,000] and it means phi dot
+- [00:13:26,000 - 00:13:28,000] squared minus gradient of phi squared.
+- [00:13:28,000 - 00:13:30,000] And then you can add another
+- [00:13:30,000 - 00:13:32,000] term, which is a potential energy.
+- [00:13:32,000 - 00:13:38,000] A potential energy minus v of phi,
+- [00:13:38,000 - 00:13:41,000] minus a potential which depends on phi,
+- [00:13:41,000 - 00:13:43,000] a potential energy.
+- [00:13:43,000 - 00:13:45,000] It doesn't depend on the gradients of phi,
+- [00:13:45,000 - 00:13:47,000] either time derivative or space derivative,
+- [00:13:47,000 - 00:13:49,000] it just depends on phi itself.
+- [00:13:49,000 - 00:13:54,000] And imagine that v of phi looks something like this.
+- [00:13:54,000 - 00:13:58,000] Completely symmetric, exactly symmetric,
+- [00:13:58,000 - 00:14:01,000] with respect to changing plus to minus.
+- [00:14:01,000 - 00:14:03,000] Alright, so here would be
+- [00:14:03,000 - 00:14:05,000] phi equals zero, right over here.
+- [00:14:05,000 - 00:14:08,000] Let's call this point phi equals f,
+- [00:14:08,000 - 00:14:11,000] and here phi equals minus f.
+- [00:14:11,000 - 00:14:13,000] Plus f and minus f.
+- [00:14:13,000 - 00:14:16,000] And plus f and minus f are completely symmetric.
+- [00:14:16,000 - 00:14:19,000] This function, assume it,
+- [00:14:19,000 - 00:14:21,500] is completely symmetric with respect
+- [00:14:21,500 - 00:14:24,000] to flipping about the vertical axis.
+- [00:14:24,000 - 00:14:26,000] And under that case,
+- [00:14:26,000 - 00:14:29,000] there will once again be
+- [00:14:29,000 - 00:14:32,000] two ground states of the field,
+- [00:14:32,000 - 00:14:34,000] two states of lowest energy.
+- [00:14:34,000 - 00:14:35,500] Incidentally, the energy has a
+- [00:14:35,500 - 00:14:37,000] plus sign for v of phi.
+- [00:14:37,000 - 00:14:38,500] The Lagrangian has a minus,
+- [00:14:38,500 - 00:14:40,000] the energy has a plus sign.
+- [00:14:41,000 - 00:14:43,000] There will be two states.
+- [00:14:43,000 - 00:14:45,000] In one configuration, the field will
+- [00:14:45,000 - 00:14:47,000] sit at this point over here.
+- [00:14:47,000 - 00:14:49,000] Everywhere is in space.
+- [00:14:49,000 - 00:14:53,000] So everywhere in our sample, or in space,
+- [00:14:53,000 - 00:14:57,000] phi could be minus f.
+- [00:14:57,000 - 00:15:00,000] Now why can't it make a jump?
+- [00:15:00,000 - 00:15:02,000] Obviously the energy is lowest
+- [00:15:02,000 - 00:15:06,000] if phi is at this value or this value.
+- [00:15:06,000 - 00:15:08,000] But why can't it jump from here
+- [00:15:08,000 - 00:15:10,000] to here without a big cost in energy?
+- [00:15:11,000 - 00:15:22,000] Well, supposing the field just went,
+- [00:15:22,000 - 00:15:25,000] just a sharp boundary here,
+- [00:15:25,000 - 00:15:29,000] phi equals f, phi equals minus f.
+- [00:15:29,000 - 00:15:31,000] Everywhere in this sample,
+- [00:15:31,000 - 00:15:34,000] phi is equal to either plus or minus f,
+- [00:15:34,000 - 00:15:37,000] and so this potential energy here is minimized.
+- [00:15:37,000 - 00:15:40,000] But what about the derivative energies here?
+- [00:15:41,000 - 00:15:45,000] What about the terms in the energy proportional to,
+- [00:15:45,000 - 00:15:48,000] let's say, the derivative of
+- [00:15:48,000 - 00:15:51,000] phi with respect to x squared?
+- [00:15:51,000 - 00:15:55,000] This direction could be x.
+- [00:15:55,000 - 00:15:58,000] Then there's a huge jump,
+- [00:15:58,000 - 00:15:59,500] or a very sudden jump in
+- [00:15:59,500 - 00:16:01,000] phi going from here to here.
+- [00:16:01,000 - 00:16:06,000] A sudden jump means a large derivative.
+- [00:16:06,000 - 00:16:09,000] In fact, if the jump was sudden,
+- [00:16:09,000 - 00:16:12,000] meaning really concentrated,
+- [00:16:12,000 - 00:16:14,000] the derivative of phi would be very big,
+- [00:16:14,000 - 00:16:17,000] the square of it would be even bigger,
+- [00:16:17,000 - 00:16:20,000] and you would pay a large
+- [00:16:20,000 - 00:16:23,000] price in energy for a sudden jump.
+- [00:16:23,000 - 00:16:26,000] On the other hand, you pay no price
+- [00:16:26,000 - 00:16:29,000] if phi is either equal
+- [00:16:29,000 - 00:16:32,000] to f or minus f everywhere.
+- [00:16:32,000 - 00:16:35,000] This is very much like the magnets lined up.
+- [00:16:35,000 - 00:16:38,000] That, and again,
+- [00:16:38,000 - 00:16:41,000] is a case of spontaneous symmetry breaking.
+- [00:16:41,000 - 00:16:44,000] A different possibility,
+- [00:16:44,000 - 00:16:47,000] where there would be no spontaneous symmetry breaking,
+- [00:16:47,000 - 00:16:52,000] would be if the potential energy instead looked like this.
+- [00:16:54,000 - 00:16:58,000] Then the ground state would just be phi equals zero.
+- [00:17:00,000 - 00:17:02,000] Well, phi equals zero
+- [00:17:02,000 - 00:17:05,000] is the same as phi equals minus zero,
+- [00:17:05,000 - 00:17:08,000] and there would be no bias
+- [00:17:08,000 - 00:17:11,000] or you would not observe anything in here.
+- [00:17:11,000 - 00:17:14,000] You would just have phi equals zero everywhere.
+- [00:17:14,000 - 00:17:19,000] And there would be no breaking of the symmetry
+- [00:17:19,000 - 00:17:21,000] of left to right,
+- [00:17:21,000 - 00:17:24,000] or of plus phi to minus phi.
+- [00:17:24,000 - 00:17:28,000] Okay, so that would be the case of a spontaneous,
+- [00:17:28,000 - 00:17:30,000] this would be the spontaneously broken case.
+- [00:17:30,000 - 00:17:33,000] This would be the unbroken case.
+- [00:17:33,000 - 00:17:34,500] In one case, the ground state
+- [00:17:34,500 - 00:17:36,000] simply has the field equal to zero.
+- [00:17:36,000 - 00:17:39,000] In the other case, there are two ground states,
+- [00:17:39,000 - 00:17:41,000] two identical ground,
+- [00:17:41,000 - 00:17:44,000] well, physically identical ground states.
+- [00:17:44,000 - 00:17:48,000] And again, in this case here,
+- [00:17:48,000 - 00:17:50,500] if you insisted that the field
+- [00:17:50,500 - 00:17:53,000] was plus f on this end,
+- [00:17:53,000 - 00:17:55,000] and minus f on this end,
+- [00:17:55,000 - 00:17:56,500] by, you know, going into
+- [00:17:56,500 - 00:17:58,000] the system and holding it down,
+- [00:17:58,000 - 00:18:01,000] then there would be a transition
+- [00:18:01,000 - 00:18:03,000] somewhere in the middle
+- [00:18:03,000 - 00:18:05,000] from minus f to plus f,
+- [00:18:05,000 - 00:18:07,000] it would be costly in energy
+- [00:18:07,000 - 00:18:09,000] because of these gradient terms,
+- [00:18:09,000 - 00:18:11,000] but still, you have no choice.
+- [00:18:11,000 - 00:18:13,000] You said it's plus on this end,
+- [00:18:13,000 - 00:18:14,000] minus on this end,
+- [00:18:14,000 - 00:18:17,000] and there would be a domain wall down the center.
+- [00:18:17,000 - 00:18:18,000] Yeah?
+- [00:18:18,000 - 00:18:20,000] So are you assuming that there's no influence
+- [00:18:20,000 - 00:18:22,000] from the second nearest neighbors?
+- [00:18:22,000 - 00:18:23,000] Only the nearest neighbors?
+- [00:18:23,000 - 00:18:25,000] No, we're not assuming that.
+- [00:18:25,000 - 00:18:27,000] So why wouldn't everything just be random,
+- [00:18:27,000 - 00:18:29,000] everything up and down, up and down, everywhere?
+- [00:18:29,000 - 00:18:32,000] Because if you look at the secondary nearest neighbors,
+- [00:18:32,000 - 00:18:34,000] they would be in the same place,
+- [00:18:34,000 - 00:18:37,000] they would be in the same orientation as the...
+- [00:18:37,000 - 00:18:40,000] As long as the second nearest neighbor interactions
+- [00:18:40,000 - 00:18:42,000] also preferred parallelness,
+- [00:18:42,000 - 00:18:44,000] it wouldn't make much difference.
+- [00:18:44,000 - 00:18:47,000] If you had a situation where the first nearest neighbors
+- [00:18:47,000 - 00:18:48,000] preferred parallel,
+- [00:18:48,000 - 00:18:51,000] and the second nearest neighbors anti-parallel,
+- [00:18:51,000 - 00:18:54,000] you might get into some kind of competition.
+- [00:18:54,000 - 00:18:55,000] Yeah?
+- [00:18:55,000 - 00:18:57,000] Is that term spontaneous,
+- [00:18:57,000 - 00:19:00,000] does that refer to the large derivative?
+- [00:19:00,000 - 00:19:02,000] No, it refers
+- [00:19:02,000 - 00:19:07,000] to the idea that there's really no fundamental asymmetry.
+- [00:19:07,000 - 00:19:11,000] It's a question of chance, which way it goes,
+- [00:19:11,000 - 00:19:13,000] or if not chance, that
+- [00:19:13,000 - 00:19:15,000] you can set off the difference
+- [00:19:15,000 - 00:19:18,000] by a very, very tiny perturbation.
+- [00:19:18,000 - 00:19:21,000] Very tiny perturbation, just one spin...
+- [00:19:21,000 - 00:19:24,000] It is a kind of instability.
+- [00:19:24,000 - 00:19:27,000] It's a kind of instability that...
+- [00:19:27,000 - 00:19:28,000] What does an instability mean?
+- [00:19:28,000 - 00:19:32,000] An instability means that a very, very small perturbation
+- [00:19:32,000 - 00:19:35,000] on a system will change it a lot.
+- [00:19:35,000 - 00:19:36,000] All right?
+- [00:19:36,000 - 00:19:39,000] So, small in this case may mean
+- [00:19:39,000 - 00:19:43,000] that just one spin far away is being tampered with.
+- [00:19:43,000 - 00:19:44,500] You would ordinarily think that's not
+- [00:19:44,500 - 00:19:46,000] much of a change in a system.
+- [00:19:46,000 - 00:19:47,500] You go far, you have a
+- [00:19:47,500 - 00:19:49,000] system which is a million zillion miles
+- [00:19:49,000 - 00:19:52,000] by a million million zillion miles,
+- [00:19:52,000 - 00:19:54,500] and it's loaded up with
+- [00:19:54,500 - 00:19:57,000] a huge number of these spins,
+- [00:19:57,000 - 00:19:59,000] and somebody off on Alpha
+- [00:19:59,000 - 00:20:01,000] Centauri turns one of them over.
+- [00:20:01,000 - 00:20:03,000] And what's the effect?
+- [00:20:03,000 - 00:20:05,000] The effect would be of a propagating wave,
+- [00:20:05,000 - 00:20:09,000] which would come in and take some time, of course,
+- [00:20:09,000 - 00:20:11,000] but which would cause,
+- [00:20:11,000 - 00:20:14,000] if you sucked all the energy out of the system,
+- [00:20:14,000 - 00:20:17,000] would cause the ground state to realign itself.
+- [00:20:17,000 - 00:20:19,000] Is it starting out in one state
+- [00:20:19,000 - 00:20:21,000] and then it gets flipped to the other?
+- [00:20:21,000 - 00:20:23,000] Or is it starting out in an unknown...
+- [00:20:23,000 - 00:20:27,000] Well, it depends on the particular physical situation.
+- [00:20:27,000 - 00:20:30,000] All right, we'll say a little bit more about it.
+- [00:20:30,000 - 00:20:33,000] At high temperatures, where
+- [00:20:33,000 - 00:20:36,000] there's lots of random fluctuation,
+- [00:20:36,000 - 00:20:39,000] it may be, and it typically would be,
+- [00:20:39,000 - 00:20:41,000] that the random fluctuation would
+- [00:20:41,000 - 00:20:43,000] be such that, on the average,
+- [00:20:43,000 - 00:20:46,000] there would be equal amounts of up and down.
+- [00:20:46,000 - 00:20:48,000] Random fluctuation.
+- [00:20:48,000 - 00:20:50,000] Now you start to cool it.
+- [00:20:50,000 - 00:20:51,500] You cool it and take energy out
+- [00:20:51,500 - 00:20:53,000] of it and take energy out of it.
+- [00:20:53,000 - 00:20:55,000] Which way is it going to go?
+- [00:20:55,000 - 00:20:57,500] Well, the answer is that
+- [00:20:57,500 - 00:21:00,000] it's a sort of random thing,
+- [00:21:00,000 - 00:21:03,000] and it's going to be a kind of a pattern.
+- [00:21:03,000 - 00:21:07,000] A patch might form plus over here, minus over here.
+- [00:21:07,000 - 00:21:10,000] Another, some patchwork might start to form
+- [00:21:10,000 - 00:21:13,000] to lower the energy where they were parallel.
+- [00:21:13,000 - 00:21:16,000] And then the patches would connect themselves together
+- [00:21:16,000 - 00:21:19,000] and the patches would try to align each other.
+- [00:21:19,000 - 00:21:21,000] And eventually it's a matter of random chance
+- [00:21:21,000 - 00:21:24,000] which one will take over the whole system.
+- [00:21:24,000 - 00:21:26,000] Okay, so, and that's
+- [00:21:26,000 - 00:21:28,000] what's called spontaneous symmetry breaking.
+- [00:21:28,000 - 00:21:30,000] Now in this case here,
+- [00:21:30,000 - 00:21:32,000] explicit symmetry breaking.
+- [00:21:32,000 - 00:21:34,000] Anybody guess?
+- [00:21:34,000 - 00:21:36,000] Any enough energy to put it over the hill?
+- [00:21:36,000 - 00:21:38,000] No, no, no, no.
+- [00:21:38,000 - 00:21:39,000] One lower than the other.
+- [00:21:39,000 - 00:21:40,000] Hmm?
+- [00:21:40,000 - 00:21:41,000] One lower than the other.
+- [00:21:41,000 - 00:21:42,000] Yeah.
+- [00:21:42,000 - 00:21:43,000] That's right.
+- [00:21:43,000 - 00:21:44,000] If...
+- [00:21:48,000 - 00:21:52,000] If the potential had an imbalance
+- [00:21:52,000 - 00:21:55,000] so that one was lower than the other,
+- [00:21:55,000 - 00:21:59,000] then this would be an explicit symmetry breaking
+- [00:21:59,000 - 00:22:03,000] and the ground state would sit here.
+- [00:22:03,000 - 00:22:05,000] Okay, so explicit symmetry breaking,
+- [00:22:05,000 - 00:22:08,000] that means it's something asymmetric in,
+- [00:22:08,000 - 00:22:10,000] if you like, in the Lagrangian itself
+- [00:22:10,000 - 00:22:12,000] or in the potential energy.
+- [00:22:12,000 - 00:22:14,500] Just an explicit term in
+- [00:22:14,500 - 00:22:17,000] the fundamental setup to begin with
+- [00:22:17,000 - 00:22:19,000] which favors one side
+- [00:22:19,000 - 00:22:22,000] or favors one configuration instead of the other.
+- [00:22:22,000 - 00:22:24,000] That's explicit symmetry breaking.
+- [00:22:24,000 - 00:22:25,500] In that case, if you
+- [00:22:25,500 - 00:22:27,000] take a very, very big sample,
+- [00:22:27,000 - 00:22:29,000] there will not be domains.
+- [00:22:29,000 - 00:22:31,000] There will not be domain walls.
+- [00:22:31,000 - 00:22:32,500] It would be very energetically
+- [00:22:32,500 - 00:22:34,000] unfavorable to have domain walls.
+- [00:22:34,000 - 00:22:37,000] A domain wall will simply want to minimize
+- [00:22:37,000 - 00:22:40,000] the number of wrong-headed, wrong-directed spins
+- [00:22:40,000 - 00:22:42,000] or wrong-directed fields
+- [00:22:42,000 - 00:22:44,000] and simply move over
+- [00:22:44,000 - 00:22:47,000] and try to wipe out the wrong spins.
+- [00:22:47,000 - 00:22:49,000] It might not be able to completely do it,
+- [00:22:49,000 - 00:22:50,000] but it won't...
+- [00:22:50,000 - 00:22:52,000] The domain wall will not be in the center
+- [00:22:52,000 - 00:22:54,000] because that will require too many spins
+- [00:22:54,000 - 00:22:55,000] to be in the wrong state,
+- [00:22:55,000 - 00:22:57,000] too many degrees of freedom,
+- [00:22:57,000 - 00:22:59,000] too many points of space
+- [00:22:59,000 - 00:23:02,000] to be wrongly aligned.
+- [00:23:02,000 - 00:23:05,000] Okay, so I think we have the basic idea
+- [00:23:05,000 - 00:23:08,000] of what a spontaneous symmetry breaking is.
+- [00:23:08,000 - 00:23:10,000] But now we're going to talk...
+- [00:23:10,000 - 00:23:13,000] And in this case, the two cases that I've discussed,
+- [00:23:13,000 - 00:23:15,000] the symmetry which is broken
+- [00:23:15,000 - 00:23:17,000] is a discrete symmetry.
+- [00:23:17,000 - 00:23:19,000] In the spin case, it was
+- [00:23:19,000 - 00:23:21,000] spin up goes to spin down.
+- [00:23:21,000 - 00:23:25,000] In this case, it's left goes to right.
+- [00:23:25,000 - 00:23:27,000] It's not a continuous symmetry.
+- [00:23:27,000 - 00:23:29,000] A continuous symmetry is one
+- [00:23:29,000 - 00:23:32,000] where you can interpolate in between.
+- [00:23:32,000 - 00:23:35,000] You can interpolate continuously in between
+- [00:23:35,000 - 00:23:38,000] whatever configurations there are.
+- [00:23:38,000 - 00:23:42,000] U1 is a continuous symmetry.
+- [00:23:42,000 - 00:23:44,000] We'll discuss it in a moment,
+- [00:23:44,000 - 00:23:46,000] if I were going to discuss it right now.
+- [00:23:46,000 - 00:23:49,000] SU2, SU3, whatever,
+- [00:23:49,000 - 00:23:51,000] they're all continuous symmetries
+- [00:23:51,000 - 00:23:54,000] where you can interpolate configurations
+- [00:23:54,000 - 00:23:56,000] by using the continuous symmetry.
+- [00:23:56,000 - 00:23:58,000] Using the continuous generators of the group
+- [00:23:58,000 - 00:24:01,000] to go from one configuration to another.
+- [00:24:01,000 - 00:24:05,000] The magnetic case, real magnets,
+- [00:24:05,000 - 00:24:08,000] real magnets often in the real world
+- [00:24:08,000 - 00:24:10,000] have continuous symmetries.
+- [00:24:10,000 - 00:24:12,000] The continuous symmetry would be
+- [00:24:12,000 - 00:24:15,000] not just can you flip a spin,
+- [00:24:15,000 - 00:24:17,000] but you can rotate a spin.
+- [00:24:17,000 - 00:24:19,000] So for example,
+- [00:24:19,000 - 00:24:23,000] some examples of ferromagnets,
+- [00:24:23,000 - 00:24:25,000] real ferromagnets,
+- [00:24:25,000 - 00:24:27,000] have continuous symmetries
+- [00:24:27,000 - 00:24:30,000] where the spins prefer to be aligned all right,
+- [00:24:30,000 - 00:24:32,000] but it's not just up and down,
+- [00:24:32,000 - 00:24:34,000] but anywhere in between.
+- [00:24:34,000 - 00:24:36,000] In that case, the symmetry group
+- [00:24:36,000 - 00:24:38,000] is not just reflection,
+- [00:24:38,000 - 00:24:40,000] but rotations.
+- [00:24:40,000 - 00:24:42,000] And it's a continuous group.
+- [00:24:42,000 - 00:24:44,000] So we will want,
+- [00:24:44,000 - 00:24:46,000] since we're interested in things like
+- [00:24:46,000 - 00:24:48,000] SU2 and SU3 and U1,
+- [00:24:48,000 - 00:24:50,000] we want to understand what it would mean
+- [00:24:50,000 - 00:24:53,000] to spontaneously break a continuous symmetry.
+- [00:24:53,000 - 00:24:55,000] I'm going to do one example
+- [00:24:55,000 - 00:24:58,000] tonight of both the notion
+- [00:24:58,000 - 00:25:00,000] of continuous symmetry breaking,
+- [00:25:00,000 - 00:25:03,000] what the idea of a goldstone boson is,
+- [00:25:03,000 - 00:25:06,000] which replaces domain walls,
+- [00:25:06,000 - 00:25:12,000] and how this can radically change its nature
+- [00:25:12,000 - 00:25:15,000] when the symmetry has to do with gauge bosons,
+- [00:25:15,000 - 00:25:17,000] when it has to do with gauge bosons
+- [00:25:17,000 - 00:25:21,000] and morphs from spontaneous symmetry breaking
+- [00:25:21,000 - 00:25:23,000] into the Higgs phenomenon.
+- [00:25:23,000 - 00:25:24,000] And in particular,
+- [00:25:24,000 - 00:25:26,000] how Higgs phenomena
+- [00:25:26,000 - 00:25:30,000] gives particles like the Z boson masses,
+- [00:25:30,000 - 00:25:32,000] how it provides a mechanism
+- [00:25:32,000 - 00:25:34,000] for them to have masses.
+- [00:25:34,000 - 00:25:39,000] So let's try to go through that mathematics.
+- [00:25:43,000 - 00:25:44,000] All right, first of all,
+- [00:25:44,000 - 00:25:45,000] we're talking, as I said,
+- [00:25:45,000 - 00:25:46,000] about continuous symmetries,
+- [00:25:46,000 - 00:25:48,000] and I don't want to do the general case.
+- [00:25:48,000 - 00:25:50,000] It's not interesting for us at this point
+- [00:25:50,000 - 00:25:51,000] to do the general case.
+- [00:25:51,000 - 00:25:53,000] Let's do a very specific case.
+- [00:25:53,000 - 00:25:57,000] The specific case involves a field,
+- [00:25:57,000 - 00:25:59,000] let's call it phi again,
+- [00:25:59,000 - 00:26:02,000] but phi is now a complex field.
+- [00:26:02,000 - 00:26:05,000] Instead of just existing on the real axis,
+- [00:26:05,000 - 00:26:07,000] instead of having a value on the real axis,
+- [00:26:07,000 - 00:26:10,000] it has a complex value.
+- [00:26:10,000 - 00:26:12,000] Or another way of saying it
+- [00:26:12,000 - 00:26:16,000] is it can take on any value in the plane,
+- [00:26:16,000 - 00:26:18,000] the two-dimensional plane.
+- [00:26:18,000 - 00:26:19,000] What is a plane?
+- [00:26:19,000 - 00:26:22,000] The plane is the plane of a plane.
+- [00:26:22,000 - 00:26:25,000] It is the plane of the real value of phi
+- [00:26:25,000 - 00:26:28,000] and the imaginary value of phi.
+- [00:26:28,000 - 00:26:30,000] And the complex field phi
+- [00:26:30,000 - 00:26:36,000] is phi real plus i times phi imaginary.
+- [00:26:36,000 - 00:26:39,000] And we'll just call it phi.
+- [00:26:39,000 - 00:26:40,000] It's a field.
+- [00:26:40,000 - 00:26:42,000] It depends on position.
+- [00:26:42,000 - 00:26:44,000] But knowledge of that field
+- [00:26:44,000 - 00:26:47,000] involves knowledge of the two independent components.
+- [00:26:47,000 - 00:26:50,000] Now, these components are not components in space.
+- [00:26:50,000 - 00:26:51,000] This is just a field,
+- [00:26:51,000 - 00:26:54,000] which is composed out of two fields
+- [00:26:54,000 - 00:26:56,000] and grouped together to form something called
+- [00:26:56,000 - 00:26:59,000] the complex field phi.
+- [00:26:59,000 - 00:27:00,000] And of course,
+- [00:27:00,000 - 00:27:02,000] there's also a canonical conjugate,
+- [00:27:02,000 - 00:27:04,000] sorry, not a canonical conjugate,
+- [00:27:04,000 - 00:27:06,000] a complex conjugate,
+- [00:27:06,000 - 00:27:08,000] phi star,
+- [00:27:08,000 - 00:27:10,000] which is just equal to phi real
+- [00:27:10,000 - 00:27:14,000] minus i phi imaginary.
+- [00:27:17,000 - 00:27:19,000] Alright, so phi is a thing
+- [00:27:19,000 - 00:27:21,000] which lives in the plane,
+- [00:27:21,000 - 00:27:23,000] meaning to say the values that it takes on
+- [00:27:23,000 - 00:27:25,000] are in the plane.
+- [00:27:25,000 - 00:27:28,000] And let's suppose that the,
+- [00:27:28,000 - 00:27:30,000] alright,
+- [00:27:30,000 - 00:27:31,000] in that case,
+- [00:27:31,000 - 00:27:33,000] we would write the kinetic energy here
+- [00:27:33,000 - 00:27:35,000] not in this form,
+- [00:27:35,000 - 00:27:37,000] but as the product
+- [00:27:37,000 - 00:27:40,000] of the derivative of the conjugate of phi
+- [00:27:40,000 - 00:27:42,000] times phi itself.
+- [00:27:42,000 - 00:27:43,000] This is equivalent
+- [00:27:43,000 - 00:27:45,000] to the sum of two terms,
+- [00:27:45,000 - 00:27:47,000] one involving phi real
+- [00:27:47,000 - 00:27:49,000] and the other involving phi imaginary.
+- [00:27:49,000 - 00:27:50,000] You can rewrite this,
+- [00:27:50,000 - 00:27:52,000] as if you liked,
+- [00:27:52,000 - 00:27:54,000] you could rewrite it as
+- [00:27:54,000 - 00:27:57,000] d mu phi real squared
+- [00:27:57,000 - 00:28:02,000] plus d mu phi imaginary squared.
+- [00:28:02,000 - 00:28:04,000] That's just using the idea that
+- [00:28:04,000 - 00:28:05,000] the square of a complex,
+- [00:28:05,000 - 00:28:07,000] or a complex conjugate,
+- [00:28:07,000 - 00:28:09,000] a complex number
+- [00:28:09,000 - 00:28:11,000] times its own complex conjugate
+- [00:28:11,000 - 00:28:14,000] is just the product of the real components,
+- [00:28:14,000 - 00:28:16,000] or the square of the real components
+- [00:28:16,000 - 00:28:18,000] plus the square of the imaginary components.
+- [00:28:18,000 - 00:28:20,000] Alright, but let's write this down.
+- [00:28:20,000 - 00:28:22,000] Let's write it this way.
+- [00:28:22,000 - 00:28:24,000] And in fact, the half is normally
+- [00:28:24,000 - 00:28:27,000] not put there for complex fields.
+- [00:28:27,000 - 00:28:30,000] Now, this Lagrangian
+- [00:28:30,000 - 00:28:32,000] has a symmetry,
+- [00:28:32,000 - 00:28:34,000] and the symmetry is the U1 symmetry,
+- [00:28:34,000 - 00:28:36,000] let's write it down,
+- [00:28:36,000 - 00:28:38,000] where
+- [00:28:38,000 - 00:28:43,000] you replace everywhere's phi by phi prime,
+- [00:28:43,000 - 00:28:45,000] and phi prime
+- [00:28:45,000 - 00:28:47,000] is equal
+- [00:28:47,000 - 00:28:50,000] to e to the minus i
+- [00:28:50,000 - 00:28:54,000] theta times phi.
+- [00:28:54,000 - 00:28:55,000] In other words,
+- [00:28:55,000 - 00:28:58,000] we multiply the field at every point,
+- [00:28:58,000 - 00:29:00,000] prime does not stand for derivative here,
+- [00:29:00,000 - 00:29:02,000] it's just a redefinition of the field,
+- [00:29:02,000 - 00:29:04,000] where we multiply it by e to the i theta.
+- [00:29:04,000 - 00:29:06,000] Do you know what that
+- [00:29:06,000 - 00:29:08,000] means on the complex plane here?
+- [00:29:08,000 - 00:29:11,000] Yeah, we rotate it by angle theta.
+- [00:29:16,000 - 00:29:19,000] Now, this Lagrangian here
+- [00:29:19,000 - 00:29:21,000] does have that symmetry,
+- [00:29:21,000 - 00:29:22,000] where at the same time,
+- [00:29:22,000 - 00:29:24,000] phi prime star
+- [00:29:24,000 - 00:29:27,000] is equal to e to the minus i theta
+- [00:29:27,000 - 00:29:30,000] times phi prime.
+- [00:29:30,000 - 00:29:33,000] Did I write that? Sorry, phi star.
+- [00:29:33,000 - 00:29:37,000] Theta is a constant in the theory.
+- [00:29:37,000 - 00:29:39,000] Theta is a constant at the moment.
+- [00:29:39,000 - 00:29:43,000] Theta is a constant with respect to space.
+- [00:29:43,000 - 00:29:45,000] It could be any phase,
+- [00:29:45,000 - 00:29:47,000] but it is not allowed to vary
+- [00:29:47,000 - 00:29:49,000] from point to point or
+- [00:29:49,000 - 00:29:51,000] time to time at the moment.
+- [00:29:51,000 - 00:29:55,000] Okay, why is this invariant under that?
+- [00:29:55,000 - 00:30:00,000] Because the e to the i thetas will cancel out.
+- [00:30:00,000 - 00:30:02,000] The derivative, let's write down,
+- [00:30:02,000 - 00:30:04,000] the derivative of phi prime,
+- [00:30:04,000 - 00:30:06,000] I'm not going to write d by d mu,
+- [00:30:06,000 - 00:30:08,000] I'll just write derivative,
+- [00:30:08,000 - 00:30:10,000] abstract derivative,
+- [00:30:10,000 - 00:30:13,000] of phi prime is just e to the i theta
+- [00:30:13,000 - 00:30:15,000] times the derivative of phi.
+- [00:30:15,000 - 00:30:16,000] Why?
+- [00:30:16,000 - 00:30:19,000] Because theta is constant by assumption.
+- [00:30:19,000 - 00:30:24,000] Likewise, the derivative of phi star prime,
+- [00:30:24,000 - 00:30:26,000] phi prime star,
+- [00:30:26,000 - 00:30:28,000] is e to the minus i theta
+- [00:30:28,000 - 00:30:32,000] times the derivative of phi star.
+- [00:30:32,000 - 00:30:35,000] That means the product
+- [00:30:35,000 - 00:30:38,000] of d phi prime with d star phi prime
+- [00:30:38,000 - 00:30:40,000] is exactly the same.
+- [00:30:40,000 - 00:30:42,000] The e to the i thetas cancel out,
+- [00:30:42,000 - 00:30:45,000] and so the Lagrangian is unchanged
+- [00:30:45,000 - 00:30:48,000] by rotating the field by a phase.
+- [00:30:48,000 - 00:30:50,000] That's called a symmetry.
+- [00:30:50,000 - 00:30:51,000] That's what a symmetry means,
+- [00:30:51,000 - 00:30:52,000] operations that you can do
+- [00:30:52,000 - 00:30:54,000] which don't change the Lagrangian.
+- [00:30:54,000 - 00:30:56,000] Of course, I could write other Lagrangians
+- [00:30:56,000 - 00:30:59,000] which don't respect this symmetry,
+- [00:30:59,000 - 00:31:03,000] but what else can we add to the Lagrangian?
+- [00:31:03,000 - 00:31:05,000] Let's get rid of these mu's
+- [00:31:05,000 - 00:31:07,000] and just call it derivative of phi
+- [00:31:07,000 - 00:31:09,000] times derivative of phi star.
+- [00:31:09,000 - 00:31:13,000] You can remember that there's some signs in there.
+- [00:31:13,000 - 00:31:15,000] You can add a potential.
+- [00:31:15,000 - 00:31:17,000] So let's add a potential.
+- [00:31:17,000 - 00:31:20,000] In the Lagrangian, that always means
+- [00:31:20,000 - 00:31:23,000] subtracting v of phi.
+- [00:31:23,000 - 00:31:24,500] But I want v of
+- [00:31:24,500 - 00:31:26,000] phi to have the same symmetry.
+- [00:31:26,000 - 00:31:28,000] In other words, I want it to maintain the symmetry
+- [00:31:28,000 - 00:31:30,000] under these phase rotations.
+- [00:31:30,000 - 00:31:32,000] How do I do that?
+- [00:31:32,000 - 00:31:33,000] And the answer is very simple.
+- [00:31:33,000 - 00:31:35,000] You require that the potential
+- [00:31:35,000 - 00:31:40,000] is a function only of phi star phi.
+- [00:31:40,000 - 00:31:42,000] In other words, it's only a function
+- [00:31:42,000 - 00:31:45,000] of phi real squared plus phi imaginary.
+- [00:31:45,000 - 00:31:49,000] Say that again.
+- [00:31:49,000 - 00:31:52,000] Was there a question?
+- [00:31:52,000 - 00:31:54,000] No.
+- [00:31:54,000 - 00:31:57,000] Now it's clear that this Lagrangian
+- [00:31:57,000 - 00:32:00,000] has the symmetry even with the potential term.
+- [00:32:00,000 - 00:32:02,000] I could break the symmetry.
+- [00:32:02,000 - 00:32:04,000] All sorts of ways of breaking the symmetry.
+- [00:32:04,000 - 00:32:06,000] If I made the potential a function
+- [00:32:06,000 - 00:32:08,000] of some other combination,
+- [00:32:08,000 - 00:32:10,000] let's say just phi real by itself
+- [00:32:10,000 - 00:32:12,000] without phi imaginary,
+- [00:32:12,000 - 00:32:14,000] that would break the symmetry.
+- [00:32:14,000 - 00:32:16,000] So what is the symmetry
+- [00:32:16,000 - 00:32:19,000] from the point of view of this picture over here?
+- [00:32:19,000 - 00:32:23,000] It is the symmetry of rotating the phi plane.
+- [00:32:23,000 - 00:32:26,000] At every point, just take whatever the field is
+- [00:32:26,000 - 00:32:29,000] at any point in space and rotate it here.
+- [00:32:29,000 - 00:32:32,000] Rotate all the fields simultaneously,
+- [00:32:32,000 - 00:32:35,000] and that is the symmetry that we're talking about.
+- [00:32:35,000 - 00:32:39,000] Okay, let's now focus on
+- [00:32:39,000 - 00:32:42,000] two different kinds of potential energies.
+- [00:32:42,000 - 00:32:44,000] One of them spontaneously breaks
+- [00:32:44,000 - 00:32:46,000] the symmetry, the other doesn't.
+- [00:32:46,000 - 00:32:48,000] The situation is very, very similar
+- [00:32:48,000 - 00:32:53,000] to the previous case.
+- [00:32:53,000 - 00:32:55,000] First of all, as a simple example,
+- [00:32:55,000 - 00:32:57,000] let's take a potential,
+- [00:32:57,000 - 00:32:59,000] well, let's draw it.
+- [00:32:59,000 - 00:33:01,000] No, let's write it.
+- [00:33:01,000 - 00:33:04,000] Let's just take the potential phi star phi.
+- [00:33:06,000 - 00:33:09,000] Phi star phi, where is phi star phi minimized?
+- [00:33:10,000 - 00:33:12,000] At zero.
+- [00:33:12,000 - 00:33:14,000] It's always positive,
+- [00:33:14,000 - 00:33:16,000] except when it's zero.
+- [00:33:16,000 - 00:33:19,000] And so the potential is minimum right over here.
+- [00:33:19,000 - 00:33:23,000] That point is obviously a symmetric point
+- [00:33:23,000 - 00:33:25,000] with respect to rotating the plane.
+- [00:33:25,000 - 00:33:27,000] And so a potential like this,
+- [00:33:27,000 - 00:33:29,000] which I'll draw for you in a minute,
+- [00:33:29,000 - 00:33:31,000] I mean, I'll show you,
+- [00:33:31,000 - 00:33:33,000] we'll draw it in a minute.
+- [00:33:33,000 - 00:33:36,000] A potential like that is symmetric,
+- [00:33:36,000 - 00:33:39,000] and there is no either explicit
+- [00:33:39,000 - 00:33:42,000] or spontaneous symmetry breaking associated with it.
+- [00:33:42,000 - 00:33:44,000] The ground state is just phi equals zero.
+- [00:33:44,000 - 00:33:46,000] Completely symmetric.
+- [00:33:46,000 - 00:33:48,000] But now let's write another potential.
+- [00:33:48,000 - 00:33:52,000] Let's write minus A times this
+- [00:33:52,000 - 00:33:58,000] plus B times phi star phi squared.
+- [00:34:00,000 - 00:34:02,000] This potential has the property
+- [00:34:02,000 - 00:34:04,000] that near the origin,
+- [00:34:04,000 - 00:34:06,000] incidentally, near the origin,
+- [00:34:06,000 - 00:34:08,000] this is bigger than this.
+- [00:34:08,000 - 00:34:10,000] When phi is small, phi to the fourth,
+- [00:34:10,000 - 00:34:12,000] this is like phi to the fourth.
+- [00:34:12,000 - 00:34:14,000] Phi to the fourth is much smaller
+- [00:34:14,000 - 00:34:16,000] than phi to the fifth.
+- [00:34:16,000 - 00:34:18,000] So it's like phi to the fourth.
+- [00:34:18,000 - 00:34:20,000] So near the origin,
+- [00:34:20,000 - 00:34:23,000] the potential energy is not minimum at zero,
+- [00:34:23,000 - 00:34:26,000] but it's maximum at zero.
+- [00:34:26,000 - 00:34:28,000] The field doesn't want to be at zero.
+- [00:34:28,000 - 00:34:30,000] The field doesn't want to be zero
+- [00:34:30,000 - 00:34:32,000] because it costs more energy for it to be zero
+- [00:34:32,000 - 00:34:34,000] than to move away from zero.
+- [00:34:34,000 - 00:34:37,000] Potential energy, because of the minus sign here,
+- [00:34:37,000 - 00:34:40,000] favors having phi move away from zero.
+- [00:34:40,000 - 00:34:42,000] On the other hand,
+- [00:34:42,000 - 00:34:44,000] if B is positive,
+- [00:34:44,000 - 00:34:46,000] let's suppose B is positive.
+- [00:34:46,000 - 00:34:48,000] If B is positive,
+- [00:34:48,000 - 00:34:50,000] for large phi, this is bigger than this.
+- [00:34:50,000 - 00:34:52,000] So when this is bigger than this,
+- [00:34:52,000 - 00:34:57,000] you don't want to have too much field
+- [00:34:57,000 - 00:34:59,000] because this will get big
+- [00:34:59,000 - 00:35:01,000] and overwhelm this.
+- [00:35:01,000 - 00:35:03,000] What will happen?
+- [00:35:03,000 - 00:35:05,000] A competition between these two will take place
+- [00:35:05,000 - 00:35:07,000] and there will be a favorable value
+- [00:35:07,000 - 00:35:09,000] of phi star phi at some value.
+- [00:35:09,000 - 00:35:10,000] We can draw a picture.
+- [00:35:10,000 - 00:35:12,000] Let's draw a picture.
+- [00:35:12,000 - 00:35:13,000] Here's the potential.
+- [00:35:13,000 - 00:35:15,000] Here's the phi plane.
+- [00:35:15,000 - 00:35:17,000] I'll make the phi plane horizontal.
+- [00:35:17,000 - 00:35:20,000] And vertically is the potential energy.
+- [00:35:20,000 - 00:35:22,000] In the first case,
+- [00:35:22,000 - 00:35:24,000] the first case was plus,
+- [00:35:24,000 - 00:35:26,000] and I didn't even write this here,
+- [00:35:26,000 - 00:35:28,000] but we could.
+- [00:35:28,000 - 00:35:30,000] What does the potential look like?
+- [00:35:30,000 - 00:35:33,000] It's a function only of phi star phi.
+- [00:35:33,000 - 00:35:36,000] That means it's a function only of
+- [00:35:36,000 - 00:35:38,000] the distance from the origin.
+- [00:35:38,000 - 00:35:41,000] And the potential would look like something like this.
+- [00:35:42,000 - 00:35:45,000] It would be a paraboloid.
+- [00:35:45,000 - 00:35:47,000] It would be a paraboloid
+- [00:35:47,000 - 00:35:50,000] which would have complete rotational symmetry
+- [00:35:50,000 - 00:35:54,000] about phi equals zero.
+- [00:35:54,000 - 00:35:56,000] Here the energy is minimum.
+- [00:35:56,000 - 00:35:58,000] Here the potential energy is minimum.
+- [00:35:58,000 - 00:36:00,000] That's phi equals zero.
+- [00:36:00,000 - 00:36:03,000] And if we move away from phi equals zero,
+- [00:36:03,000 - 00:36:05,000] there's a symmetry which makes sure
+- [00:36:05,000 - 00:36:08,000] that the potential energy doesn't depend on angle.
+- [00:36:08,000 - 00:36:11,000] That's the character of the first case
+- [00:36:11,000 - 00:36:14,000] where we just had plus a phi star phi.
+- [00:36:14,000 - 00:36:17,000] And in fact we could put in another term.
+- [00:36:17,000 - 00:36:18,000] It doesn't matter.
+- [00:36:18,000 - 00:36:21,000] The only specific ingredient here
+- [00:36:21,000 - 00:36:24,000] is that the potential is upward
+- [00:36:24,000 - 00:36:26,000] and continues to go upward
+- [00:36:26,000 - 00:36:28,000] so that the minimum of energy
+- [00:36:28,000 - 00:36:30,000] is right at phi equals zero.
+- [00:36:30,000 - 00:36:31,000] Under those circumstances,
+- [00:36:31,000 - 00:36:33,000] we would say there's no symmetry breaking,
+- [00:36:33,000 - 00:36:35,000] no spontaneous symmetry breaking.
+- [00:36:35,000 - 00:36:36,000] On the other hand,
+- [00:36:36,000 - 00:36:39,000] let's go back to the case with minus here.
+- [00:36:39,000 - 00:36:41,000] Then the potential looks like this.
+- [00:36:41,000 - 00:36:46,000] It starts out at the origin
+- [00:36:46,000 - 00:36:49,000] and goes negative
+- [00:36:49,000 - 00:36:55,000] until the quartic term becomes as large
+- [00:36:55,000 - 00:36:57,000] as the quadratic term.
+- [00:36:57,000 - 00:36:59,000] And then it turns up.
+- [00:36:59,000 - 00:37:03,000] It's still symmetric about rotation.
+- [00:37:03,000 - 00:37:07,000] It's a little bit hard to draw.
+- [00:37:07,000 - 00:37:10,000] It's a surface of revolution.
+- [00:37:11,000 - 00:37:13,000] Meaning to say it's symmetric
+- [00:37:13,000 - 00:37:16,000] with respect to rotation about this axis here.
+- [00:37:16,000 - 00:37:19,000] And the minimum is not a point,
+- [00:37:19,000 - 00:37:22,000] but the minimum lies on a circle.
+- [00:37:22,000 - 00:37:26,000] It lies on a circle in the complex plane.
+- [00:37:26,000 - 00:37:28,000] From this point of view over here,
+- [00:37:28,000 - 00:37:30,000] the minimum energy state
+- [00:37:30,000 - 00:37:36,000] is somewheres along a circle of a radius
+- [00:37:36,000 - 00:37:39,000] which is determined by the parameters here.
+- [00:37:39,000 - 00:37:42,000] You simply minimize this function
+- [00:37:42,000 - 00:37:44,000] as a function of phi star phi,
+- [00:37:44,000 - 00:37:46,000] and you find out where that point is.
+- [00:37:46,000 - 00:37:48,000] Let's call the radius F.
+- [00:37:48,000 - 00:37:51,000] That's a standard notation for it, incidentally.
+- [00:37:51,000 - 00:37:53,000] The minimum of the potential
+- [00:37:53,000 - 00:37:55,000] is not at a point.
+- [00:37:55,000 - 00:37:57,000] It's along a track.
+- [00:37:57,000 - 00:37:59,000] It's sort of along a track like this,
+- [00:37:59,000 - 00:38:02,000] but a track of radius F.
+- [00:38:02,000 - 00:38:04,000] All right, now,
+- [00:38:04,000 - 00:38:07,000] what is the ground state of this system?
+- [00:38:07,000 - 00:38:09,000] There are many ground states.
+- [00:38:09,000 - 00:38:12,000] And they're all of the same energy.
+- [00:38:12,000 - 00:38:15,000] They correspond to the field being
+- [00:38:15,000 - 00:38:19,000] at any point along the circle here.
+- [00:38:19,000 - 00:38:21,000] Everywhere.
+- [00:38:21,000 - 00:38:24,000] A way to think about this is to imagine
+- [00:38:24,000 - 00:38:29,000] that the field is a bunch of little arrows.
+- [00:38:29,000 - 00:38:30,000] Not arrows in space,
+- [00:38:30,000 - 00:38:35,000] arrows in this abstract space.
+- [00:38:35,000 - 00:38:38,000] They want to be aligned along the same direction.
+- [00:38:38,000 - 00:38:39,000] How do I do that?
+- [00:38:39,000 - 00:38:42,000] Because if there's variation in the field
+- [00:38:42,000 - 00:38:44,000] from one point to another,
+- [00:38:44,000 - 00:38:47,000] then this term has a lot of energy in it.
+- [00:38:47,000 - 00:38:50,000] Okay? The gradient term.
+- [00:38:50,000 - 00:38:53,000] So the field wants to stay parallel
+- [00:38:53,000 - 00:38:57,000] in this internal abstract space there.
+- [00:38:57,000 - 00:38:59,000] Everywhere in space,
+- [00:38:59,000 - 00:39:02,000] the field will want to lie at the same angle.
+- [00:39:02,000 - 00:39:07,000] But there's an ambiguity.
+- [00:39:07,000 - 00:39:08,000] Which direction?
+- [00:39:08,000 - 00:39:11,000] The energy is the same along any direction,
+- [00:39:11,000 - 00:39:14,000] as long as the field has magnitude F.
+- [00:39:14,000 - 00:39:15,000] In other words,
+- [00:39:15,000 - 00:39:17,000] as long as it's stuck in this track here,
+- [00:39:17,000 - 00:39:19,000] or equivalently in this track over here.
+- [00:39:19,000 - 00:39:22,000] Then the energy is minimum.
+- [00:39:22,000 - 00:39:24,000] Can you say anything beyond that?
+- [00:39:24,000 - 00:39:25,000] No.
+- [00:39:25,000 - 00:39:26,000] That's it.
+- [00:39:26,000 - 00:39:28,000] The energy will be minimum
+- [00:39:28,000 - 00:39:29,000] somewheres,
+- [00:39:29,000 - 00:39:31,000] everywheres along here.
+- [00:39:31,000 - 00:39:32,000] Okay?
+- [00:39:32,000 - 00:39:34,000] But it will continue to be minimum
+- [00:39:34,000 - 00:39:35,000] in the field.
+- [00:39:35,000 - 00:39:36,000] So,
+- [00:39:36,000 - 00:39:38,000] it will be a constant energy.
+- [00:39:38,000 - 00:39:39,000] Okay?
+- [00:39:39,000 - 00:39:40,000] But,
+- [00:39:40,000 - 00:39:42,000] it will cost energy to cause it to vary
+- [00:39:42,000 - 00:39:43,000] from point to point.
+- [00:39:43,000 - 00:39:45,000] Even if it stays in the track here,
+- [00:39:45,000 - 00:39:47,000] there will be a constant energy
+- [00:39:47,000 - 00:39:49,000] of having it change from point to point.
+- [00:39:49,000 - 00:39:50,000] So that's the ground state.
+- [00:39:50,000 - 00:39:52,000] The ground state is any one of these
+- [00:39:52,000 - 00:39:54,000] possible positions for the field,
+- [00:39:54,000 - 00:39:57,000] but always sort of locked together.
+- [00:39:57,000 - 00:39:58,000] Again,
+- [00:39:58,000 - 00:40:00,000] spontaneous symmetry breaking,
+- [00:40:00,000 - 00:40:02,000] but this time the symmetry
+- [00:40:02,000 - 00:40:05,000] is a symmetry of rotation about here.
+- [00:40:05,000 - 00:40:06,000] Are there domain walls?
+- [00:40:06,000 - 00:40:07,000] Interesting question.
+- [00:40:07,000 - 00:40:08,000] In this case,
+- [00:40:08,000 - 00:40:10,000] are there domain walls?
+- [00:40:10,000 - 00:40:12,000] So let's go back to the Godonkin experiment
+- [00:40:12,000 - 00:40:14,000] that we might imagine to check
+- [00:40:14,000 - 00:40:16,000] whether there are domain walls.
+- [00:40:16,000 - 00:40:18,000] We take
+- [00:40:20,000 - 00:40:22,000] a big sample,
+- [00:40:26,000 - 00:40:27,000] and
+- [00:40:27,000 - 00:40:29,000] one place in the sample
+- [00:40:29,000 - 00:40:31,000] we
+- [00:40:32,000 - 00:40:34,000] put the field at this point over here.
+- [00:40:35,000 - 00:40:37,000] I don't know, let's just call it A.
+- [00:40:37,000 - 00:40:39,000] And at the other end,
+- [00:40:39,000 - 00:40:41,000] we put it at B.
+- [00:40:41,000 - 00:40:43,000] So along here,
+- [00:40:43,000 - 00:40:46,000] the field lies in the A direction,
+- [00:40:46,000 - 00:40:49,000] along here it lies in the B direction.
+- [00:40:51,000 - 00:40:53,000] What do you think the ground state,
+- [00:40:53,000 - 00:40:54,000] the state of lowest energy,
+- [00:40:54,000 - 00:40:56,000] subject to this constraint is?
+- [00:40:56,000 - 00:41:00,000] Is it that the field is uniform
+- [00:41:00,000 - 00:41:02,000] until it gets to some point,
+- [00:41:02,000 - 00:41:04,000] and then makes a rapid transition
+- [00:41:04,000 - 00:41:06,000] to the other value?
+- [00:41:06,000 - 00:41:07,000] The answer is no.
+- [00:41:07,000 - 00:41:10,000] That's not the preferred energy configuration.
+- [00:41:10,000 - 00:41:11,500] And the reason is that
+- [00:41:11,500 - 00:41:13,000] costs a good deal of energy
+- [00:41:13,000 - 00:41:16,000] because making the transition from A to B suddenly
+- [00:41:16,000 - 00:41:19,000] has the effect of making the gradient terms
+- [00:41:19,000 - 00:41:21,000] in the energy large.
+- [00:41:21,000 - 00:41:23,000] A much cheaper thing to do
+- [00:41:23,000 - 00:41:25,000] is to have the field gradually vary
+- [00:41:25,000 - 00:41:27,000] from here to here.
+- [00:41:27,000 - 00:41:29,000] This was not an option
+- [00:41:29,000 - 00:41:30,500] in the case where the
+- [00:41:30,500 - 00:41:32,000] symmetry was just a reflection symmetry.
+- [00:41:32,000 - 00:41:34,000] But now we have the energy
+- [00:41:34,000 - 00:41:37,000] option of going smoothly from A to B.
+- [00:41:37,000 - 00:41:39,000] So the field at one end of space
+- [00:41:39,000 - 00:41:40,000] is at A,
+- [00:41:40,000 - 00:41:43,000] and gradually as we move across space,
+- [00:41:43,000 - 00:41:46,000] it varies staying in the track here.
+- [00:41:46,000 - 00:41:48,000] Staying in the track
+- [00:41:48,000 - 00:41:50,000] so that it never costs us
+- [00:41:50,000 - 00:41:52,000] much potential energy.
+- [00:41:52,000 - 00:41:54,000] And as long...
+- [00:41:54,000 - 00:41:56,000] There is a task that we're writing
+- [00:41:56,000 - 00:41:58,000] in which way you wrap, so...
+- [00:41:58,000 - 00:42:00,000] There are two possible ways to go.
+- [00:42:00,000 - 00:42:02,000] That's right, there are two possible ways.
+- [00:42:02,000 - 00:42:04,000] So let's resolve that by not putting this
+- [00:42:04,000 - 00:42:06,000] ambiguity, let's put it over here.
+- [00:42:06,000 - 00:42:08,000] Let's just resolve that ambiguity.
+- [00:42:08,000 - 00:42:10,000] But you're right, there is an ambiguity
+- [00:42:10,000 - 00:42:12,000] about which way you go from one point to another.
+- [00:42:12,000 - 00:42:16,000] If this point is over here,
+- [00:42:16,000 - 00:42:19,000] not at the extreme diametrically opposite point,
+- [00:42:19,000 - 00:42:21,000] it will pay to go this way
+- [00:42:21,000 - 00:42:23,000] and not go around the long way
+- [00:42:23,000 - 00:42:25,000] because the field gradient will be less.
+- [00:42:25,000 - 00:42:27,000] But then if I move B slowly,
+- [00:42:27,000 - 00:42:30,000] I could get it trapped the other way.
+- [00:42:30,000 - 00:42:32,000] Yeah, if it was over here,
+- [00:42:32,000 - 00:42:33,000] you could get it trapped the other way.
+- [00:42:33,000 - 00:42:35,000] But given a pair of points A and B,
+- [00:42:35,000 - 00:42:37,000] unless you have this very singular situation
+- [00:42:37,000 - 00:42:39,000] where they're exactly diametrically opposed,
+- [00:42:39,000 - 00:42:43,000] there will be a particular best state.
+- [00:42:43,000 - 00:42:47,000] But it will be a state with smooth variation
+- [00:42:47,000 - 00:42:49,000] from one end to the other.
+- [00:42:49,000 - 00:42:54,000] In other words, effectively,
+- [00:42:54,000 - 00:42:59,000] there's a field in the system
+- [00:42:59,000 - 00:43:02,000] for which it does not cost much energy
+- [00:43:02,000 - 00:43:07,000] to vary smoothly from one place to another.
+- [00:43:07,000 - 00:43:10,000] The energy cost in having a gradient,
+- [00:43:10,000 - 00:43:12,000] that's all there is,
+- [00:43:12,000 - 00:43:14,000] only the energy cost in having a gradient
+- [00:43:14,000 - 00:43:16,000] and nothing else.
+- [00:43:16,000 - 00:43:19,000] A field with that character,
+- [00:43:19,000 - 00:43:21,000] not phi itself,
+- [00:43:21,000 - 00:43:23,000] but we'll discuss what field it is,
+- [00:43:23,000 - 00:43:25,000] a field of that character
+- [00:43:25,000 - 00:43:28,000] that with its only gradient energy
+- [00:43:28,000 - 00:43:30,000] is massless.
+- [00:43:30,000 - 00:43:32,000] It corresponds to a massless particle.
+- [00:43:32,000 - 00:43:35,000] So, wouldn't there in fact be other paths
+- [00:43:35,000 - 00:43:37,000] that you could go that might even be
+- [00:43:37,000 - 00:43:40,000] a lower body like,
+- [00:43:40,000 - 00:43:43,000] because by getting a little bit of,
+- [00:43:43,000 - 00:43:45,000] going away from that a little bit,
+- [00:43:45,000 - 00:43:47,500] you might be able to
+- [00:43:47,500 - 00:43:50,000] get B a little bit shorter?
+- [00:43:50,000 - 00:43:53,000] Okay, so it is a theorem.
+- [00:43:53,000 - 00:43:55,000] This you can prove,
+- [00:43:55,000 - 00:43:58,000] that the way to go from A to B
+- [00:43:58,000 - 00:43:59,000] in the minimum energy
+- [00:43:59,000 - 00:44:01,000] is to have this angle very linearly
+- [00:44:01,000 - 00:44:03,000] from one side to another.
+- [00:44:03,000 - 00:44:04,000] That's not hard to prove.
+- [00:44:04,000 - 00:44:06,000] You should not change the,
+- [00:44:06,000 - 00:44:07,000] the ground,
+- [00:44:07,000 - 00:44:08,000] the, the ground,
+- [00:44:08,000 - 00:44:09,000] go away from the ground.
+- [00:44:09,000 - 00:44:10,000] And not going away from the ground,
+- [00:44:10,000 - 00:44:13,000] say, just change the angle linearly.
+- [00:44:13,000 - 00:44:14,000] Yeah, that,
+- [00:44:14,000 - 00:44:16,000] that's a theorem you can prove,
+- [00:44:16,000 - 00:44:18,000] not too hard to prove.
+- [00:44:18,000 - 00:44:21,000] So, that is, that,
+- [00:44:21,000 - 00:44:22,000] and how do you prove it?
+- [00:44:22,000 - 00:44:26,000] You prove it by using
+- [00:44:26,000 - 00:44:30,000] some calculus of variation type minimization.
+- [00:44:30,000 - 00:44:33,000] You prove the answer is linear.
+- [00:44:33,000 - 00:44:37,000] At this point, we don't have any,
+- [00:44:37,000 - 00:44:39,000] it's minimum all the way around.
+- [00:44:39,000 - 00:44:42,000] Yeah, yeah, we have not tilted the potential.
+- [00:44:42,000 - 00:44:46,000] You could imagine an explicit symmetry breaking
+- [00:44:46,000 - 00:44:48,000] which would correspond to tilting the potential
+- [00:44:48,000 - 00:44:50,000] a little bit, right?
+- [00:44:50,000 - 00:44:51,000] If you tilted it,
+- [00:44:51,000 - 00:44:53,000] then one point would be preferred relative to the other,
+- [00:44:53,000 - 00:44:55,000] and it would be the ground state.
+- [00:44:55,000 - 00:44:57,000] Right.
+- [00:44:57,000 - 00:45:00,000] Okay, let's, let's discuss,
+- [00:45:00,000 - 00:45:04,000] from the point of view of wave equations,
+- [00:45:04,000 - 00:45:06,000] I just want to remind you that
+- [00:45:06,000 - 00:45:08,000] from the point of view of wave equations,
+- [00:45:08,000 - 00:45:13,000] a field with only gradient
+- [00:45:13,000 - 00:45:18,000] terms in its energy is massless.
+- [00:45:18,000 - 00:45:20,000] What does it mean that it's massless?
+- [00:45:20,000 - 00:45:29,000] It means that the quanta associated with it are massless,
+- [00:45:29,000 - 00:45:30,000] but it's not massless.
+- [00:45:30,000 - 00:45:31,000] But it also means,
+- [00:45:31,000 - 00:45:33,000] if you imagine a wave,
+- [00:45:33,000 - 00:45:35,000] a wave of wave number k,
+- [00:45:35,000 - 00:45:37,000] in other words, a wave which
+- [00:45:37,000 - 00:45:39,000] looked like e to the i kx,
+- [00:45:39,000 - 00:45:41,000] going from one point to another,
+- [00:45:41,000 - 00:45:43,000] just a single field now,
+- [00:45:43,000 - 00:45:45,000] forget, let's forget this complex field for a minute,
+- [00:45:45,000 - 00:45:46,500] just a field which goes
+- [00:45:46,500 - 00:45:48,000] like e to the i kx,
+- [00:45:48,000 - 00:45:53,000] then we would say that it has a momentum k.
+- [00:45:53,000 - 00:45:55,000] It has a momentum k,
+- [00:45:55,000 - 00:45:57,000] k is related to the wave number,
+- [00:45:57,000 - 00:45:59,000] it has a momentum k,
+- [00:45:59,000 - 00:46:02,500] and if the energy in that field
+- [00:46:02,500 - 00:46:06,000] goes to zero as k goes to zero,
+- [00:46:06,000 - 00:46:08,000] that means that the quanta
+- [00:46:08,000 - 00:46:10,000] of that field have zero energy
+- [00:46:10,000 - 00:46:13,000] when the momentum goes to zero.
+- [00:46:13,000 - 00:46:14,000] Right?
+- [00:46:14,000 - 00:46:16,000] k is like momentum,
+- [00:46:16,000 - 00:46:18,500] if the energy stored in a
+- [00:46:18,500 - 00:46:21,000] field with k equals zero vanishes,
+- [00:46:21,000 - 00:46:24,000] then that says there's no energy for
+- [00:46:24,000 - 00:46:27,000] a particle of very, very low wavelength,
+- [00:46:27,000 - 00:46:28,000] a very, very long wavelength,
+- [00:46:28,000 - 00:46:29,000] excuse me,
+- [00:46:29,000 - 00:46:31,000] a very low wave number.
+- [00:46:31,000 - 00:46:32,000] So,
+- [00:46:32,000 - 00:46:34,000] and that would correspond to saying a
+- [00:46:34,000 - 00:46:36,000] particle at rest would have no energy,
+- [00:46:36,000 - 00:46:38,000] if a particle at rest has no energy,
+- [00:46:38,000 - 00:46:41,000] it's called a massless particle.
+- [00:46:41,000 - 00:46:44,000] So if the energy of
+- [00:46:44,000 - 00:46:47,000] a wave gets lower and lower,
+- [00:46:47,000 - 00:46:51,000] as the wave gets longer and longer wavelength,
+- [00:46:51,000 - 00:46:54,000] in other words, as it varies more and more smoothly,
+- [00:46:54,000 - 00:46:56,000] then you call that a massless particle.
+- [00:46:56,000 - 00:46:57,000] That's the case for k.
+- [00:46:58,000 - 00:47:01,000] That's the case of a massless particle.
+- [00:47:01,000 - 00:47:02,000] Um,
+- [00:47:02,000 - 00:47:06,000] okay,
+- [00:47:06,000 - 00:47:08,000] so let's,
+- [00:47:08,000 - 00:47:10,000] let's look at various potentials.
+- [00:47:10,000 - 00:47:11,500] Let's start first of all with
+- [00:47:11,500 - 00:47:13,000] a potential which looks like this.
+- [00:47:13,000 - 00:47:15,000] m squared over two,
+- [00:47:15,000 - 00:47:18,000] phi squared or phi star phi,
+- [00:47:18,000 - 00:47:20,000] it doesn't matter.
+- [00:47:20,000 - 00:47:21,000] Um,
+- [00:47:21,000 - 00:47:25,000] it's clear that if you
+- [00:47:25,000 - 00:47:27,000] created a wave,
+- [00:47:27,000 - 00:47:30,000] that varied from place to place,
+- [00:47:30,000 - 00:47:33,000] no matter how long that wavelength was,
+- [00:47:33,000 - 00:47:35,500] as long as there was variation in
+- [00:47:35,500 - 00:47:38,000] the field away from phi equals zero,
+- [00:47:38,000 - 00:47:41,000] there's going to be an appreciable cost of energy.
+- [00:47:41,000 - 00:47:42,000] Why?
+- [00:47:42,000 - 00:47:47,000] Because any place where the field is not zero,
+- [00:47:47,000 - 00:47:50,000] in particular if it's a wave like this,
+- [00:47:50,000 - 00:47:51,500] there's going to be a lot
+- [00:47:51,500 - 00:47:53,000] of places where it's not zero,
+- [00:47:53,000 - 00:47:55,000] and those places are going to cost energy.
+- [00:47:55,000 - 00:47:56,000] Right?
+- [00:47:56,000 - 00:48:00,000] That is the case of a massive particle.
+- [00:48:00,000 - 00:48:03,000] That's the case of a particle which has energy
+- [00:48:03,000 - 00:48:06,000] no matter how long the wavelength of the particle is.
+- [00:48:06,000 - 00:48:07,000] Okay?
+- [00:48:07,000 - 00:48:10,000] Um,
+- [00:48:10,000 - 00:48:13,000] if this is absent,
+- [00:48:13,000 - 00:48:17,000] then a very, very long wavelength has very small energy.
+- [00:48:17,000 - 00:48:19,000] The only terms in the
+- [00:48:19,000 - 00:48:21,000] energy come from the gradient terms,
+- [00:48:21,000 - 00:48:25,000] and very, very long wavelengths have small gradients.
+- [00:48:25,000 - 00:48:27,000] The gradients are very, very
+- [00:48:27,000 - 00:48:29,000] small when the wavelength gets small,
+- [00:48:29,000 - 00:48:32,000] and that's the case of a massless particle.
+- [00:48:32,000 - 00:48:34,000] So,
+- [00:48:34,000 - 00:48:36,000] a term like m squared phi
+- [00:48:36,000 - 00:48:38,000] squared is called a mass term,
+- [00:48:38,000 - 00:48:40,000] and it represents the mass of a particle.
+- [00:48:40,000 - 00:48:41,500] We've discussed this before, so I
+- [00:48:41,500 - 00:48:43,000] won't go through it in detail again,
+- [00:48:43,000 - 00:48:45,000] but let me just show you
+- [00:48:45,000 - 00:48:47,000] how you can think about decomposing,
+- [00:48:47,000 - 00:48:49,000] in this case here,
+- [00:48:49,000 - 00:48:52,000] where the field likes to lie on this circle here.
+- [00:48:52,000 - 00:48:54,000] Let's go through a little bit of mathematics,
+- [00:48:54,000 - 00:48:57,000] and see if we can identify
+- [00:48:57,000 - 00:48:58,000] uh,
+- [00:48:58,000 - 00:49:02,000] why there's a massless particle,
+- [00:49:02,000 - 00:49:05,000] and what that massless particle is.
+- [00:49:05,000 - 00:49:07,000] The massless particle, incidentally,
+- [00:49:07,000 - 00:49:10,000] just corresponds to a wave
+- [00:49:10,000 - 00:49:14,000] where the field stays in the lowest energy here.
+- [00:49:14,000 - 00:49:17,000] If it stays in the lowest energy,
+- [00:49:17,000 - 00:49:19,000] then the long wavelength excitations,
+- [00:49:19,000 - 00:49:20,500] that just means the field
+- [00:49:20,500 - 00:49:22,000] varies gradually from place to place,
+- [00:49:22,000 - 00:49:24,000] only in angle,
+- [00:49:24,000 - 00:49:27,000] and never creeps out of this track here.
+- [00:49:27,000 - 00:49:29,000] That will have lowest, very low energy,
+- [00:49:29,000 - 00:49:31,000] and will correspond to something massless.
+- [00:49:31,000 - 00:49:32,500] But let's see if we
+- [00:49:32,500 - 00:49:34,000] can see some mathematics for it.
+- [00:49:34,000 - 00:49:35,000] Um,
+- [00:49:35,000 - 00:49:36,000] How are we doing?
+- [00:49:36,000 - 00:49:38,000] Yeah.
+- [00:49:40,000 - 00:49:44,000] So, let's take the potential to be derivative of,
+- [00:49:44,000 - 00:49:46,000] let's take the Lagrangian,
+- [00:49:46,000 - 00:49:49,000] to be derivative of phi,
+- [00:49:49,000 - 00:49:51,000] times the derivative of phi star,
+- [00:49:51,000 - 00:49:53,000] minus v of,
+- [00:49:54,000 - 00:49:57,000] phi star phi.
+- [00:49:57,000 - 00:50:01,000] And now, let's represent the field in a new way,
+- [00:50:01,000 - 00:50:05,000] not by the real and imaginary part of the field,
+- [00:50:05,000 - 00:50:08,000] but let's write,
+- [00:50:08,000 - 00:50:10,000] phi,
+- [00:50:10,000 - 00:50:12,000] is equal to rho,
+- [00:50:12,000 - 00:50:15,000] times e to the i alpha.
+- [00:50:15,000 - 00:50:16,000] What is alpha?
+- [00:50:16,000 - 00:50:19,000] Alpha is the angle on the complex plane,
+- [00:50:19,000 - 00:50:23,000] rho is the radial value of the field,
+- [00:50:24,000 - 00:50:26,000] in other words, the magnitude of the field,
+- [00:50:26,000 - 00:50:28,000] and alpha is the angle.
+- [00:50:30,000 - 00:50:33,000] Rho and alpha are also fields.
+- [00:50:33,000 - 00:50:36,000] Rho and alpha can vary from place to place,
+- [00:50:36,000 - 00:50:38,000] and let's rewrite the Lagrangian
+- [00:50:38,000 - 00:50:40,000] in terms of rho and alpha.
+- [00:50:40,000 - 00:50:41,000] Now notice,
+- [00:50:41,000 - 00:50:43,000] alpha, this is alpha, not phi.
+- [00:50:43,000 - 00:50:45,000] Notice,
+- [00:50:45,000 - 00:50:47,000] moving around,
+- [00:50:47,000 - 00:50:49,000] on the track here,
+- [00:50:49,000 - 00:50:52,000] corresponds to keeping rho constant,
+- [00:50:52,000 - 00:50:53,000] and varying alpha.
+- [00:50:53,000 - 00:50:56,000] So you can think of alpha as a field,
+- [00:50:56,000 - 00:50:59,000] which, whose value is on this circle here,
+- [00:50:59,000 - 00:51:00,000] if you like,
+- [00:51:00,000 - 00:51:02,000] or at least it has to do with an angle.
+- [00:51:02,000 - 00:51:03,000] Rho,
+- [00:51:03,000 - 00:51:04,000] is a field,
+- [00:51:04,000 - 00:51:06,000] which when you change it,
+- [00:51:06,000 - 00:51:08,000] changes the potential energy,
+- [00:51:08,000 - 00:51:10,000] and pushes you away from the,
+- [00:51:10,000 - 00:51:12,000] from the minimum energy.
+- [00:51:12,000 - 00:51:14,000] Okay, let's try to write down,
+- [00:51:14,000 - 00:51:17,000] what the Lagrangian is in terms of rho and alpha.
+- [00:51:17,000 - 00:51:19,000] Very easy.
+- [00:51:19,000 - 00:51:20,000] The derivative of phi,
+- [00:51:20,000 - 00:51:22,000] with respect to any direction in space,
+- [00:51:22,000 - 00:51:23,000] or in space-time,
+- [00:51:23,000 - 00:51:25,000] the derivative of phi,
+- [00:51:25,000 - 00:51:26,000] is equal,
+- [00:51:26,000 - 00:51:29,000] to the derivative of rho,
+- [00:51:29,000 - 00:51:33,000] times e to the i alpha.
+- [00:51:33,000 - 00:51:35,000] That's differentiating this factor,
+- [00:51:35,000 - 00:51:36,000] leaving this one alone,
+- [00:51:36,000 - 00:51:39,000] and then the other term is,
+- [00:51:39,000 - 00:51:41,000] plus rho,
+- [00:51:41,000 - 00:51:44,000] times the derivative of e to the i alpha.
+- [00:51:44,000 - 00:51:45,000] What's that?
+- [00:51:45,000 - 00:51:46,000] Yes, should be,
+- [00:51:46,000 - 00:51:47,000] Yes.
+- [00:51:47,000 - 00:51:48,000] Hm?
+- [00:51:48,000 - 00:51:50,000] The derivative of rho,
+- [00:51:50,000 - 00:51:51,000] Did I leave out,
+- [00:51:51,000 - 00:51:52,000] sorry,
+- [00:51:52,000 - 00:51:53,000] I should have put rho here,
+- [00:51:53,000 - 00:51:54,000] sorry,
+- [00:51:54,000 - 00:51:55,000] what am I writing?
+- [00:51:55,000 - 00:51:57,000] Derivative of rho.
+- [00:51:57,000 - 00:51:58,000] Thank you.
+- [00:51:58,000 - 00:51:59,000] Derivative of rho,
+- [00:51:59,000 - 00:52:01,000] times e to the i alpha,
+- [00:52:01,000 - 00:52:02,000] plus rho,
+- [00:52:02,000 - 00:52:04,000] times the derivative of e to the i alpha.
+- [00:52:04,000 - 00:52:07,000] And that's i,
+- [00:52:07,000 - 00:52:09,000] rho,
+- [00:52:09,000 - 00:52:13,000] times the derivative of alpha,
+- [00:52:13,000 - 00:52:17,000] all times e to the i alpha.
+- [00:52:17,000 - 00:52:19,000] Let's factor out e to the i alpha,
+- [00:52:19,000 - 00:52:21,000] and put it on the outside.
+- [00:52:22,000 - 00:52:24,000] Okay.
+- [00:52:24,000 - 00:52:25,000] So that's the derivative of phi.
+- [00:52:25,000 - 00:52:27,000] What about the derivative of phi star?
+- [00:52:27,000 - 00:52:28,000] Let's multiply,
+- [00:52:28,000 - 00:52:29,000] let's work that out.
+- [00:52:29,000 - 00:52:31,000] Derivative of phi star,
+- [00:52:31,000 - 00:52:32,000] that's exactly the same thing,
+- [00:52:32,000 - 00:52:37,000] except with a minus sign over here.
+- [00:52:37,000 - 00:52:39,000] Derivative of rho,
+- [00:52:39,000 - 00:52:41,000] minus i rho,
+- [00:52:41,000 - 00:52:44,000] derivative of alpha,
+- [00:52:44,000 - 00:52:48,000] times e to the minus i alpha.
+- [00:52:48,000 - 00:52:51,000] Now what happens when we multiply these two?
+- [00:52:51,000 - 00:52:53,000] The cross term goes away,
+- [00:52:53,000 - 00:52:55,000] and we just get two terms.
+- [00:52:55,000 - 00:52:59,000] One of them is just a derivative of rho squared.
+- [00:52:59,000 - 00:53:01,000] The e to the i alpha cancels
+- [00:53:01,000 - 00:53:03,000] the e to the minus i alpha here.
+- [00:53:03,000 - 00:53:06,000] So that you could just dispense with from the beginning.
+- [00:53:06,000 - 00:53:08,000] e to the i alpha goes away,
+- [00:53:08,000 - 00:53:10,000] and what do we get?
+- [00:53:10,000 - 00:53:16,000] We get the derivative of rho squared,
+- [00:53:16,000 - 00:53:18,000] okay,
+- [00:53:18,000 - 00:53:20,000] and then we get plus,
+- [00:53:20,000 - 00:53:25,000] plus rho squared,
+- [00:53:25,000 - 00:53:32,000] times the derivative of alpha squared.
+- [00:53:32,000 - 00:53:34,000] And then finally,
+- [00:53:34,000 - 00:53:36,000] v of,
+- [00:53:36,000 - 00:53:38,000] what is phi star phi
+- [00:53:38,000 - 00:53:40,000] in terms of rho and alpha?
+- [00:53:40,000 - 00:53:42,000] rho squared.
+- [00:53:42,000 - 00:53:45,000] Notice that the potential only
+- [00:53:45,000 - 00:53:48,000] depends on rho and not alpha.
+- [00:53:48,000 - 00:53:50,000] That's just the symmetry.
+- [00:53:50,000 - 00:53:54,000] Well now let's say that
+- [00:53:54,000 - 00:53:58,000] the very, very low energy excitations,
+- [00:53:58,000 - 00:54:00,000] the very, very low energy excitations,
+- [00:54:00,000 - 00:54:04,000] the very, very long wavelength configurations
+- [00:54:04,000 - 00:54:07,000] where the field varies slowly from point to point,
+- [00:54:07,000 - 00:54:09,000] where it stays down in the track here,
+- [00:54:09,000 - 00:54:11,000] number one,
+- [00:54:11,000 - 00:54:14,000] and number two, where it varies slowly,
+- [00:54:14,000 - 00:54:15,000] if we only have,
+- [00:54:15,000 - 00:54:16,000] we don't have much energy,
+- [00:54:16,000 - 00:54:19,000] we're just trying to make a very low energy excitation,
+- [00:54:19,000 - 00:54:21,500] it's not going to pay
+- [00:54:21,500 - 00:54:24,000] us to change rho very much.
+- [00:54:24,000 - 00:54:28,000] We want to keep rho right on the track here.
+- [00:54:28,000 - 00:54:33,000] So in some approximation where we don't ever excite
+- [00:54:33,000 - 00:54:35,000] any motion up and down
+- [00:54:35,000 - 00:54:37,000] or away from the track here,
+- [00:54:37,000 - 00:54:40,000] we can just think of rho as a constant.
+- [00:54:40,000 - 00:54:43,000] Rho doesn't vary from point to point,
+- [00:54:43,000 - 00:54:45,000] and therefore we can say that rho is,
+- [00:54:45,000 - 00:54:47,000] what do we call rho?
+- [00:54:47,000 - 00:54:50,000] We call it rho at the minimum.
+- [00:54:50,000 - 00:54:51,000] F.
+- [00:54:51,000 - 00:54:55,000] So we can just replace this by F squared,
+- [00:54:55,000 - 00:54:59,000] derivative of alpha squared.
+- [00:54:59,000 - 00:55:00,500] And then the rest of it
+- [00:55:00,500 - 00:55:02,000] has only to do with rho.
+- [00:55:02,000 - 00:55:04,000] It has to do with variations
+- [00:55:04,000 - 00:55:06,000] of rho from place to place,
+- [00:55:06,000 - 00:55:09,000] climbing up and down this well, for example,
+- [00:55:09,000 - 00:55:12,000] and also potential energies that have
+- [00:55:12,000 - 00:55:15,000] to do with the value of rho.
+- [00:55:15,000 - 00:55:17,000] The potential energy is going to say,
+- [00:55:17,000 - 00:55:20,000] we don't get far from this point F,
+- [00:55:20,000 - 00:55:22,000] but still, it's there.
+- [00:55:22,000 - 00:55:25,000] This term, what does that term look like?
+- [00:55:25,000 - 00:55:30,000] That term just looks like the Lagrangian of a field
+- [00:55:30,000 - 00:55:33,000] with no potential at all.
+- [00:55:33,000 - 00:55:34,000] What about this F? What
+- [00:55:34,000 - 00:55:35,000] do we do with this F?
+- [00:55:35,000 - 00:55:36,000] It's just a number, remember,
+- [00:55:36,000 - 00:55:37,000] it's just a number, it's fixed.
+- [00:55:37,000 - 00:55:39,000] It doesn't vary from place to place.
+- [00:55:39,000 - 00:55:44,000] We can absorb it into the redefinition of alpha.
+- [00:55:44,000 - 00:55:45,500] We can say, let F
+- [00:55:45,500 - 00:55:47,000] times alpha be a new field,
+- [00:55:47,000 - 00:55:50,000] what can we call it? We can call it beta.
+- [00:55:50,000 - 00:55:54,000] And this would just become the derivative of beta squared.
+- [00:55:54,000 - 00:55:58,000] That would be characteristic of a field with no mass.
+- [00:55:58,000 - 00:56:01,000] So the F here, that's unimportant.
+- [00:56:01,000 - 00:56:03,000] As I said, it can be absorbed in here
+- [00:56:03,000 - 00:56:05,500] and just change the definition
+- [00:56:05,500 - 00:56:08,000] from alpha to F times alpha,
+- [00:56:08,000 - 00:56:10,000] since it's a constant.
+- [00:56:10,000 - 00:56:14,000] And this just becomes the Lagrangian for a massless field
+- [00:56:14,000 - 00:56:16,000] with no potential energy at all.
+- [00:56:17,000 - 00:56:19,000] What is the meaning of that?
+- [00:56:19,000 - 00:56:21,500] The meaning of that is if all you're
+- [00:56:21,500 - 00:56:24,000] allowed to do is vary the angle here,
+- [00:56:24,000 - 00:56:28,000] then excitations of that type behave like massless fields,
+- [00:56:28,000 - 00:56:32,000] behave like fields whose quanta have no masses.
+- [00:56:32,000 - 00:56:34,000] Now on the other hand, what about rho?
+- [00:56:34,000 - 00:56:37,000] Rho is an independent field.
+- [00:56:37,000 - 00:56:39,000] It's an independent field that has
+- [00:56:39,000 - 00:56:41,000] a Lagrangian derivative of rho squared
+- [00:56:41,000 - 00:56:43,000] and a term V of rho.
+- [00:56:43,000 - 00:56:47,000] Supposing we choose the ground state to be over here,
+- [00:56:47,000 - 00:56:48,000] at this point.
+- [00:56:48,000 - 00:56:49,500] Remember, we could choose the ground
+- [00:56:49,500 - 00:56:51,000] state to be in any direction.
+- [00:56:51,000 - 00:56:54,000] Then we can move in two directions.
+- [00:56:54,000 - 00:56:57,000] We can move around the circle.
+- [00:56:57,000 - 00:56:59,000] That's just exciting alpha.
+- [00:56:59,000 - 00:57:01,000] We've already taken care of that.
+- [00:57:01,000 - 00:57:05,000] That's just a massless excitation that costs no energy,
+- [00:57:05,000 - 00:57:07,000] except for the gradient terms.
+- [00:57:07,000 - 00:57:10,000] But we could also move radially outward.
+- [00:57:10,000 - 00:57:12,000] What would happen if we started the field over here,
+- [00:57:12,000 - 00:57:14,000] radially outward?
+- [00:57:14,000 - 00:57:15,000] Drop down?
+- [00:57:15,000 - 00:57:16,000] Drop down?
+- [00:57:16,000 - 00:57:17,000] And then what?
+- [00:57:17,000 - 00:57:18,000] And then we'd reach it.
+- [00:57:18,000 - 00:57:19,000] Absolutely.
+- [00:57:19,000 - 00:57:20,000] Is it hanging over the middle or not?
+- [00:57:20,000 - 00:57:24,000] No, no, let's not give it any rotation.
+- [00:57:24,000 - 00:57:29,000] Yeah, it would just oscillate about this point.
+- [00:57:29,000 - 00:57:31,000] It would oscillate about this point
+- [00:57:31,000 - 00:57:33,000] in very much the same way
+- [00:57:33,000 - 00:57:35,500] as the field would oscillate about the origin
+- [00:57:35,500 - 00:57:38,000] if there was a five star phi term.
+- [00:57:38,000 - 00:57:40,000] That corresponds to a mass.
+- [00:57:40,000 - 00:57:42,500] Oscillations, if you take the
+- [00:57:42,500 - 00:57:45,000] field everywheres and displace it,
+- [00:57:45,000 - 00:57:47,000] it will just oscillate back and forth.
+- [00:57:47,000 - 00:57:49,000] That corresponds to a mass.
+- [00:57:49,000 - 00:57:51,000] In other words, this V of
+- [00:57:51,000 - 00:57:53,000] rho here, which could contain, for example,
+- [00:57:53,000 - 00:57:56,000] a rho squared, or it could
+- [00:57:56,000 - 00:57:59,000] contain a term which oscillates about here,
+- [00:57:59,000 - 00:58:02,000] that does correspond to a mass.
+- [00:58:02,000 - 00:58:05,000] What a mass is, is it's
+- [00:58:05,000 - 00:58:08,000] an energy that's associated with zero momentum.
+- [00:58:08,000 - 00:58:10,500] Zero momentum means that the field is
+- [00:58:10,500 - 00:58:13,000] homogeneous and doesn't vary from point to point.
+- [00:58:13,000 - 00:58:18,000] Zero momentum means no variation at all.
+- [00:58:18,000 - 00:58:20,000] So if there's energy stored in a
+- [00:58:20,000 - 00:58:22,000] way, not a way, it's hardly a wave,
+- [00:58:22,000 - 00:58:25,000] if there's energy stored in a
+- [00:58:25,000 - 00:58:28,000] configuration where you move everybody simultaneously,
+- [00:58:28,000 - 00:58:31,000] then it would, and it just rocks back and forth,
+- [00:58:31,000 - 00:58:36,000] that frequency, the frequency of its motion, is the mass.
+- [00:58:36,000 - 00:58:38,500] Alright, so if you took the field everywheres and
+- [00:58:38,500 - 00:58:41,000] you displaced it up onto the side of the potential,
+- [00:58:41,000 - 00:58:43,000] it would start to oscillate everywheres,
+- [00:58:43,000 - 00:58:45,000] and it would correspond to a mass.
+- [00:58:45,000 - 00:58:46,500] On the other hand, if you
+- [00:58:46,500 - 00:58:48,000] displaced it along the track here,
+- [00:58:48,000 - 00:58:50,000] nothing much happens.
+- [00:58:50,000 - 00:58:52,000] If you displaced it everywheres along the track,
+- [00:58:52,000 - 00:58:55,000] there would be no restoring force.
+- [00:58:55,000 - 00:58:57,500] The restoring force, which
+- [00:58:57,500 - 00:59:00,000] gives a periodic oscillation motion,
+- [00:59:00,000 - 00:59:04,000] that is what a massive field does.
+- [00:59:04,000 - 00:59:11,000] It oscillates if you excite it homogeneously, and, okay.
+- [00:59:11,000 - 00:59:13,000] Whenever you have a symmetry,
+- [00:59:13,000 - 00:59:15,000] and the symmetry is, whenever
+- [00:59:15,000 - 00:59:17,000] you have a continuous symmetry,
+- [00:59:17,000 - 00:59:19,500] in this case the continuous symmetry
+- [00:59:19,500 - 00:59:22,000] is a rotation symmetry around here,
+- [00:59:22,000 - 00:59:25,000] and that symmetry is spontaneously broken,
+- [00:59:25,000 - 00:59:30,500] there is always the possibility of changing the
+- [00:59:30,500 - 00:59:36,000] orientation of things very gradually from place to place,
+- [00:59:36,000 - 00:59:38,000] if you have a continuous symmetry,
+- [00:59:38,000 - 00:59:40,000] and in that case you
+- [00:59:40,000 - 00:59:42,000] have massless excitations, massless particles.
+- [00:59:42,000 - 00:59:45,000] Those particles are called goldstone bosons.
+- [00:59:45,000 - 00:59:52,000] Goldstone boson is a particle or a field,
+- [00:59:52,000 - 00:59:55,000] a goldstone field is a field which is massless,
+- [00:59:55,000 - 00:59:59,000] which has no restoring force by virtue of a symmetry,
+- [00:59:59,000 - 01:00:01,500] by virtue of the fact that you're moving
+- [01:00:01,500 - 01:00:04,000] the field in a direction that costs no energy.
+- [01:00:04,000 - 01:00:08,000] So whenever you have a spontaneously broken symmetry,
+- [01:00:08,000 - 01:00:10,000] there are goldstone bosons.
+- [01:00:10,000 - 01:00:12,000] There are goldstone bosons, well,
+- [01:00:12,000 - 01:00:15,000] there are goldstone bosons, let's leave it at that.
+- [01:00:15,000 - 01:00:18,000] In this case, the goldstone boson is,
+- [01:00:18,000 - 01:00:22,000] or the quanta of the field alpha,
+- [01:00:22,000 - 01:00:27,000] which is just motion along this track here.
+- [01:00:27,000 - 01:00:29,000] That's a very important concept in physics.
+- [01:00:29,000 - 01:00:36,000] It's very important in particle physics.
+- [01:00:36,000 - 01:00:39,000] It gives rise to massless particles,
+- [01:00:39,000 - 01:00:42,000] which we'll see are really unwanted
+- [01:00:42,000 - 01:00:45,000] in the future, in the future,
+- [01:00:45,000 - 01:00:48,000] but it's also very important in the field of physics.
+- [01:00:48,000 - 01:00:50,000] And it's also a very
+- [01:00:50,000 - 01:00:52,000] important concept in condensed matter physics.
+- [01:00:52,000 - 01:00:54,000] In condensed matter physics, for example,
+- [01:00:54,000 - 01:00:57,000] ferromagnets, which like to line up,
+- [01:00:57,000 - 01:00:59,500] can be a ferromagnet where you
+- [01:00:59,500 - 01:01:02,000] can orient the magnets in any direction,
+- [01:01:02,000 - 01:01:04,000] but there's a symmetry on the rotation.
+- [01:01:04,000 - 01:01:06,000] There are spin waves.
+- [01:01:06,000 - 01:01:10,000] Spin waves are gradual variations of the direction of spin,
+- [01:01:10,000 - 01:01:14,000] and for the same reason that I've described here,
+- [01:01:14,000 - 01:01:16,000] a very gradual variation of the
+- [01:01:16,000 - 01:01:18,000] direction of spin from place to place
+- [01:01:18,000 - 01:01:21,000] is not costly in energy, costs almost no energy,
+- [01:01:21,000 - 01:01:25,000] and those spin waves behave like massless particles.
+- [01:01:25,000 - 01:01:29,000] So the phenomena or the idea of goldstone bosons
+- [01:01:29,000 - 01:01:31,500] is a really important concept in
+- [01:01:31,500 - 01:01:34,000] field theory and condensed matter physics.
+- [01:01:34,000 - 01:01:38,000] Where else does it appear?
+- [01:01:40,000 - 01:01:43,000] All kinds of places.
+- [01:01:43,000 - 01:01:45,000] Is there any physics which isn't
+- [01:01:45,000 - 01:01:47,000] either field theory or condensed matter physics?
+- [01:01:50,000 - 01:01:54,000] In general relativity, it also appears,
+- [01:01:54,000 - 01:01:57,000] but it won't tonight.
+- [01:02:01,000 - 01:02:05,000] A long elastic string is an example,
+- [01:02:05,000 - 01:02:08,000] with the motions, the waves on a long string.
+- [01:02:08,000 - 01:02:09,000] Let's just take it.
+- [01:02:09,000 - 01:02:11,000] Not a string of string theory,
+- [01:02:11,000 - 01:02:13,000] just a long rubber string
+- [01:02:13,000 - 01:02:15,000] from one place to the next.
+- [01:02:15,000 - 01:02:17,500] That's an example of a
+- [01:02:17,500 - 01:02:20,000] goldstone boson or a goldstone field.
+- [01:02:20,000 - 01:02:22,000] What would be the symmetry associated with it?
+- [01:02:22,000 - 01:02:23,000] Can you guess?
+- [01:02:23,000 - 01:02:26,000] I'll set up an example for you.
+- [01:02:29,000 - 01:02:30,000] Forget gravity.
+- [01:02:30,000 - 01:02:32,000] Gravity is not important here.
+- [01:02:32,000 - 01:02:34,000] Let's suppose there's a pole over here,
+- [01:02:34,000 - 01:02:37,000] another pole over here,
+- [01:02:37,000 - 01:02:39,000] a ring around the center,
+- [01:02:39,000 - 01:02:40,500] a ring around this pole
+- [01:02:40,500 - 01:02:42,000] with a string connected to it,
+- [01:02:42,000 - 01:02:43,000] and a ring around here.
+- [01:02:43,000 - 01:02:45,000] The reason I've set it up in this way
+- [01:02:45,000 - 01:02:47,500] is so that you can move the
+- [01:02:47,500 - 01:02:50,000] whole thing up and down like that.
+- [01:02:50,000 - 01:02:52,000] Okay.
+- [01:02:52,000 - 01:02:54,000] We know that if we
+- [01:02:54,000 - 01:02:56,000] make this very, very, very long,
+- [01:02:56,000 - 01:03:00,000] there are massless waves which propagate up and down it.
+- [01:03:00,000 - 01:03:02,500] Massless means they cost very
+- [01:03:02,500 - 01:03:05,000] little energy, only gradient energy.
+- [01:03:05,000 - 01:03:07,000] Can you guess what the symmetry in this case is?
+- [01:03:07,000 - 01:03:10,000] Translation up and down.
+- [01:03:10,000 - 01:03:13,000] Translation up and down. Right.
+- [01:03:13,000 - 01:03:16,000] As I said, imagine no gravitational field.
+- [01:03:16,000 - 01:03:18,500] It costs no energy to move
+- [01:03:18,500 - 01:03:21,000] this whole thing up or down.
+- [01:03:21,000 - 01:03:22,000] So it's a symmetry.
+- [01:03:22,000 - 01:03:24,000] It's translation symmetry, just
+- [01:03:24,000 - 01:03:26,000] translation symmetry up and down.
+- [01:03:26,000 - 01:03:29,000] So first of all, there's a symmetry.
+- [01:03:29,000 - 01:03:34,000] Next, you can imagine changing the orientation,
+- [01:03:34,000 - 01:03:36,000] and not orientation, but position,
+- [01:03:36,000 - 01:03:39,000] gradually as you go from point to point.
+- [01:03:39,000 - 01:03:42,000] This Goldstone-Boson idea where you do,
+- [01:03:42,000 - 01:03:45,000] where you imagine a little symmetry transformation,
+- [01:03:45,000 - 01:03:48,000] but a gradual change from one point to another,
+- [01:03:48,000 - 01:03:50,000] what would that look like?
+- [01:03:50,000 - 01:03:53,000] That would just look like a
+- [01:03:53,000 - 01:03:56,000] very slow variation of the vertical position.
+- [01:03:56,000 - 01:04:00,000] So an overall motion up and down costs no energy,
+- [01:04:00,000 - 01:04:04,000] and a very small variation across here
+- [01:04:04,000 - 01:04:06,000] will also cost very little energy.
+- [01:04:06,000 - 01:04:09,000] And the waves, the long wavelengths,
+- [01:04:09,000 - 01:04:12,000] which propagate up and down a very, very long string,
+- [01:04:12,000 - 01:04:14,000] are also Goldstone Bosons.
+- [01:04:14,000 - 01:04:19,000] They're Goldstone Bosons of the symmetry of translation.
+- [01:04:19,000 - 01:04:25,000] Spin waves are Goldstone Bosons of rotational symmetry.
+- [01:04:25,000 - 01:04:27,000] Okay?
+- [01:04:27,000 - 01:04:31,000] And this field is the
+- [01:04:31,000 - 01:04:35,000] Goldstone Boson of a U1 symmetry.
+- [01:04:36,000 - 01:04:39,000] Of a U1 symmetry here.
+- [01:04:39,000 - 01:04:41,000] Now...
+- [01:04:41,000 - 01:04:43,000] What would that be an example of a pulse?
+- [01:04:43,000 - 01:04:44,500] Would that be an example where
+- [01:04:44,500 - 01:04:46,000] you have energy but no momentum?
+- [01:04:46,000 - 01:04:49,000] Well, if the thing was standing still...
+- [01:04:49,000 - 01:04:50,000] It has no momentum.
+- [01:04:50,000 - 01:04:51,000] It has no momentum.
+- [01:04:51,000 - 01:04:53,000] But it has oscillation energy.
+- [01:04:53,000 - 01:04:54,000] Like it's going up and down
+- [01:04:54,000 - 01:04:55,000] like that, which I thought you...
+- [01:04:55,000 - 01:04:58,000] Oh, you want to give it some oscillation energy?
+- [01:04:58,000 - 01:05:00,000] I thought that was your second drawing,
+- [01:05:00,000 - 01:05:02,000] rather than the third.
+- [01:05:02,000 - 01:05:03,000] Where the curve...
+- [01:05:03,000 - 01:05:04,000] Ah, ah, ah.
+- [01:05:04,000 - 01:05:05,000] Be careful.
+- [01:05:05,000 - 01:05:08,000] Be careful what you mean about momentum.
+- [01:05:08,000 - 01:05:11,000] You're speaking about vertical momentum.
+- [01:05:11,000 - 01:05:12,000] Yeah.
+- [01:05:12,000 - 01:05:13,000] Yeah.
+- [01:05:13,000 - 01:05:15,000] Overall, average.
+- [01:05:15,000 - 01:05:16,000] Vertical.
+- [01:05:16,000 - 01:05:17,500] Yeah, we could certainly make
+- [01:05:17,500 - 01:05:19,000] it have zero vertical momentum.
+- [01:05:19,000 - 01:05:21,000] But what about horizontal momentum?
+- [01:05:21,000 - 01:05:23,000] Yeah.
+- [01:05:23,000 - 01:05:25,000] Well, no, there's waves.
+- [01:05:25,000 - 01:05:27,000] There's waves with wave numbers.
+- [01:05:27,000 - 01:05:29,000] So it's actually, if you had the standing wave,
+- [01:05:29,000 - 01:05:31,000] it would be a linear superposition
+- [01:05:31,000 - 01:05:33,000] of plus momentum and minus momentum.
+- [01:05:33,000 - 01:05:34,000] So...
+- [01:05:34,000 - 01:05:37,000] What I would mean by momentum in this case
+- [01:05:37,000 - 01:05:39,000] would not be the vertical momentum,
+- [01:05:39,000 - 01:05:41,000] but the momentum along the wave,
+- [01:05:41,000 - 01:05:45,000] along the wave axis.
+- [01:05:45,000 - 01:05:49,000] The vertical direction here is just
+- [01:05:49,000 - 01:05:53,000] to stand in for some internal symmetry.
+- [01:05:53,000 - 01:05:55,000] Good.
+- [01:05:55,000 - 01:05:56,000] Another example.
+- [01:05:56,000 - 01:05:57,000] Another example.
+- [01:05:57,000 - 01:06:01,000] A slinky.
+- [01:06:01,000 - 01:06:03,000] Let's say you pin down the slinky at two ends.
+- [01:06:03,000 - 01:06:05,000] Do you know what a slinky is?
+- [01:06:05,000 - 01:06:07,000] Yeah, you know what a slinky is.
+- [01:06:13,000 - 01:06:19,000] You can move the whole slinky horizontally.
+- [01:06:19,000 - 01:06:21,000] It doesn't cost any energy.
+- [01:06:21,000 - 01:06:24,000] So there's a symmetry of horizontal.
+- [01:06:24,000 - 01:06:26,000] Just think of it as being
+- [01:06:26,000 - 01:06:28,000] infinitely long for all practical purposes.
+- [01:06:28,000 - 01:06:32,000] But if you move it horizontally, it costs no energy.
+- [01:06:32,000 - 01:06:33,000] It's symmetry.
+- [01:06:33,000 - 01:06:35,000] In this case, it's horizontal motion.
+- [01:06:35,000 - 01:06:37,500] On the other hand, you can
+- [01:06:37,500 - 01:06:40,000] imagine slowly varying from place to place
+- [01:06:40,000 - 01:06:42,000] how much you translated it.
+- [01:06:42,000 - 01:06:49,000] And in that case, you would make a wave.
+- [01:06:49,000 - 01:06:52,000] Tighter over here, less tight over here.
+- [01:06:52,000 - 01:06:54,000] But if you do it slowly enough,
+- [01:06:54,000 - 01:06:59,000] then the wave will not cost you much energy.
+- [01:06:59,000 - 01:07:02,000] If you do it slowly enough from place to place,
+- [01:07:02,000 - 01:07:03,000] there will be gradients.
+- [01:07:03,000 - 01:07:04,000] It won't cost you much energy.
+- [01:07:04,000 - 01:07:07,000] So in this case, the
+- [01:07:07,000 - 01:07:10,000] symmetry would be translation horizontally.
+- [01:07:10,000 - 01:07:16,000] And the waves on a slinky are also sound waves.
+- [01:07:16,000 - 01:07:18,000] They're also goldstone bosons.
+- [01:07:18,000 - 01:07:23,000] They also correspond to translation of all the molecules.
+- [01:07:23,000 - 01:07:25,000] If you have a sample, a system,
+- [01:07:25,000 - 01:07:27,000] an infinite system with lots of molecules,
+- [01:07:27,000 - 01:07:30,000] and you translate all the molecules,
+- [01:07:30,000 - 01:07:31,000] it costs you no energy.
+- [01:07:31,000 - 01:07:34,000] But if you translate them a little differently over here,
+- [01:07:34,000 - 01:07:36,000] then over here, then over here,
+- [01:07:36,000 - 01:07:38,000] that creates a very long
+- [01:07:38,000 - 01:07:40,000] wavelength pressure wave or density wave.
+- [01:07:40,000 - 01:07:43,000] Those are also goldstone bosons.
+- [01:07:43,000 - 01:07:44,500] And they all have the
+- [01:07:44,500 - 01:07:46,000] character that they cost no energy
+- [01:07:46,000 - 01:07:48,000] when the wavelength goes to infinity
+- [01:07:48,000 - 01:07:50,000] or when the momentum goes to zero.
+- [01:07:50,000 - 01:07:54,000] And we call them massless.
+- [01:07:54,000 - 01:07:58,000] Okay, so we've seen some connections now between symmetries
+- [01:07:58,000 - 01:08:00,000] and massless bosons.
+- [01:08:00,000 - 01:08:01,500] And we've also seen
+- [01:08:01,500 - 01:08:03,000] some connections between goldstone bosons
+- [01:08:03,000 - 01:08:05,000] called gauge bosons.
+- [01:08:05,000 - 01:08:07,000] Goldstone bosons.
+- [01:08:07,000 - 01:08:09,000] Goldstone bosons.
+- [01:08:09,000 - 01:08:15,000] I'm sorry that I was apologizing to my friend Goldstone,
+- [01:08:15,000 - 01:08:18,000] who was a friend of mine.
+- [01:08:18,000 - 01:08:21,000] I called him gauge by mistake.
+- [01:08:21,000 - 01:08:24,000] Sorry, Jeffrey.
+- [01:08:24,000 - 01:08:28,000] Now, anybody instantly fails this course if they say gouage.
+- [01:08:30,000 - 01:08:39,000] Now, let's talk about a totally different subject,
+- [01:08:39,000 - 01:08:42,000] also connected with U1 symmetry like this.
+- [01:08:42,000 - 01:08:46,000] So it's not totally disconnected.
+- [01:08:46,000 - 01:08:48,000] Let's talk about gauge invariance.
+- [01:08:48,000 - 01:08:50,000] I'm not sure we'll put the two concepts together tonight.
+- [01:08:50,000 - 01:08:53,000] It may take until next week.
+- [01:08:53,000 - 01:08:58,000] Another concept called gauge invariance,
+- [01:08:58,000 - 01:09:03,000] also associated with this U1 symmetry.
+- [01:09:03,000 - 01:09:06,000] Remember that U1 symmetry,
+- [01:09:06,000 - 01:09:08,000] symmetry under this kind of operation,
+- [01:09:08,000 - 01:09:12,000] is what we identified earlier in past lectures
+- [01:09:12,000 - 01:09:14,000] with electric charge conservation.
+- [01:09:14,000 - 01:09:17,000] It doesn't have to be electric charge.
+- [01:09:17,000 - 01:09:19,000] But let's think about electric charge.
+- [01:09:19,000 - 01:09:22,000] We're going to wind up with gauge bosons with mass.
+- [01:09:22,000 - 01:09:24,000] Well, the real photon doesn't have a mass.
+- [01:09:24,000 - 01:09:28,000] But we could be thinking about some other gauge boson,
+- [01:09:28,000 - 01:09:31,000] like the Z boson, which does have a mass.
+- [01:09:31,000 - 01:09:33,000] So for the moment, I'll
+- [01:09:33,000 - 01:09:35,000] just call the charge electric charge.
+- [01:09:35,000 - 01:09:37,000] But it might not be electric charge.
+- [01:09:37,000 - 01:09:40,000] It might be something of a different character.
+- [01:09:40,000 - 01:09:42,000] And we're thinking about something
+- [01:09:42,000 - 01:09:44,000] which is not really electric charge.
+- [01:09:44,000 - 01:09:49,000] But we did identify the symmetry of this type
+- [01:09:49,000 - 01:09:52,000] with the conservation of the electric charge
+- [01:09:52,000 - 01:09:56,000] carried by the quanta of the phi field.
+- [01:09:56,000 - 01:09:58,000] Charges of various kinds,
+- [01:09:58,000 - 01:10:03,000] are always carried by fields which are complex.
+- [01:10:03,000 - 01:10:07,000] And the conservation law is associated with the symmetry.
+- [01:10:07,000 - 01:10:12,000] The symmetry is associated with the U1 transformation,
+- [01:10:12,000 - 01:10:15,000] namely multiplication by a phase.
+- [01:10:15,000 - 01:10:18,000] Okay, we've talked about this at length previous time,
+- [01:10:18,000 - 01:10:20,000] so we won't go into it again.
+- [01:10:20,000 - 01:10:27,000] But let's erase this squiggles here.
+- [01:10:28,000 - 01:10:32,000] I'll leave this up because we'll use it again.
+- [01:10:32,000 - 01:10:39,000] And this is the symmetry that we're interested in.
+- [01:10:39,000 - 01:10:42,000] Phi goes to phi prime.
+- [01:10:42,000 - 01:10:45,000] Now, question.
+- [01:10:45,000 - 01:10:47,000] Must we require, in order
+- [01:10:47,000 - 01:10:49,000] for it to be a symmetry,
+- [01:10:49,000 - 01:10:55,000] must we require that theta is constant over space?
+- [01:10:55,000 - 01:10:57,000] Are we allowed to make transformations
+- [01:10:57,000 - 01:11:01,000] where theta can vary from place to place?
+- [01:11:01,000 - 01:11:03,000] Not theta, yeah, theta.
+- [01:11:03,000 - 01:11:06,000] Are we allowed to imagine transformations
+- [01:11:06,000 - 01:11:13,000] where the symmetry parameter theta,
+- [01:11:13,000 - 01:11:15,000] now theta's not a field
+- [01:11:15,000 - 01:11:17,000] now, it's just a symmetry parameter,
+- [01:11:17,000 - 01:11:20,000] where it is allowed to vary from place to place?
+- [01:11:20,000 - 01:11:21,500] In other words, where we rotate
+- [01:11:21,500 - 01:11:23,000] the phase of a field differently
+- [01:11:23,000 - 01:11:26,000] in some places than others.
+- [01:11:26,000 - 01:11:28,000] Is that a symmetry?
+- [01:11:28,000 - 01:11:29,000] So let's find out.
+- [01:11:29,000 - 01:11:31,000] Let's find out by doing such an operation
+- [01:11:31,000 - 01:11:35,000] and seeing whether it changes the Lagrangian or not.
+- [01:11:35,000 - 01:11:36,000] That's the test.
+- [01:11:36,000 - 01:11:39,000] If you think something might be a symmetry,
+- [01:11:39,000 - 01:11:41,000] try it out by applying it to the fields
+- [01:11:41,000 - 01:11:43,000] and then stick them back into the Lagrangian
+- [01:11:43,000 - 01:11:45,000] and see if the Lagrangian changes.
+- [01:11:45,000 - 01:11:48,000] Okay, so here's our transformation.
+- [01:11:48,000 - 01:11:50,000] Phi prime is equal to e
+- [01:11:50,000 - 01:11:52,000] to the i theta of x,
+- [01:11:52,000 - 01:11:54,000] where x could be space or time,
+- [01:11:54,000 - 01:11:56,000] space and time in general, space-time.
+- [01:11:56,000 - 01:11:58,000] Let's write it.
+- [01:12:11,000 - 01:12:13,000] Running out of ink again.
+- [01:12:14,000 - 01:12:16,000] Let's try blue.
+- [01:12:20,000 - 01:12:22,000] Ah, good.
+- [01:12:22,000 - 01:12:24,000] Okay, so here's our symmetry operation.
+- [01:12:24,000 - 01:12:26,000] Let's put it in a different way.
+- [01:12:26,000 - 01:12:29,000] So let's calculate the Lagrangian.
+- [01:12:29,000 - 01:12:33,000] Let's calculate, sorry, let's first calculate,
+- [01:12:33,000 - 01:12:36,000] remember what goes into the Lagrangian.
+- [01:12:36,000 - 01:12:37,500] What goes into the Lagrangian
+- [01:12:37,500 - 01:12:39,000] is the squares of some derivatives
+- [01:12:39,000 - 01:12:41,000] and maybe some potential energy.
+- [01:12:41,000 - 01:12:43,000] So let's start with derivatives.
+- [01:12:43,000 - 01:12:48,000] The derivative, arbitrary direction,
+- [01:12:48,000 - 01:12:49,000] it doesn't matter what direction.
+- [01:12:49,000 - 01:12:51,000] Pick a direction, space or time,
+- [01:12:51,000 - 01:12:54,000] and calculate the derivative of phi prime.
+- [01:12:54,000 - 01:12:55,000] Here's phi prime.
+- [01:12:55,000 - 01:12:58,500] Well, first of all, it will
+- [01:12:58,500 - 01:13:02,000] contain e to the i theta
+- [01:13:02,000 - 01:13:05,000] times the derivative of phi, right?
+- [01:13:05,000 - 01:13:09,000] The unmodified, before the transformation takes place.
+- [01:13:09,000 - 01:13:12,000] And then it will contain a second term,
+- [01:13:12,000 - 01:13:17,000] and that second term will be phi, i phi,
+- [01:13:17,000 - 01:13:22,000] derivative of theta with respect to x,
+- [01:13:22,000 - 01:13:26,000] times e to the i theta.
+- [01:13:26,000 - 01:13:31,000] In fact, let's factor e to the i theta out.
+- [01:13:31,000 - 01:13:35,000] It's an overall multiplicative factor.
+- [01:13:35,000 - 01:13:37,000] Notice there are two terms.
+- [01:13:37,000 - 01:13:40,000] One of them, did I write this correctly?
+- [01:13:40,000 - 01:13:41,000] I think I did.
+- [01:13:41,000 - 01:13:42,000] Yeah.
+- [01:13:42,000 - 01:13:45,000] One of them doesn't care one way or the other
+- [01:13:45,000 - 01:13:48,000] whether theta varied with respect to x or not.
+- [01:13:48,000 - 01:13:50,000] That was this term here.
+- [01:13:50,000 - 01:13:53,000] The other term actually involves the variation
+- [01:13:53,000 - 01:13:55,000] from point to point of theta.
+- [01:13:55,000 - 01:13:58,000] Okay, now let's write the Lagrangian
+- [01:13:58,000 - 01:13:59,500] as we might think of
+- [01:13:59,500 - 01:14:01,000] it in terms of phi prime.
+- [01:14:01,000 - 01:14:04,000] It contains, we know phi prime,
+- [01:14:04,000 - 01:14:08,000] we're interested in derivative of phi prime,
+- [01:14:08,000 - 01:14:13,000] derivative of phi star prime.
+- [01:14:13,000 - 01:14:18,000] Oh, let's write the derivative of the conjugate.
+- [01:14:18,000 - 01:14:20,000] The derivative of phi star prime.
+- [01:14:20,000 - 01:14:24,000] The derivative of phi prime star.
+- [01:14:24,000 - 01:14:27,000] That's just derivative of phi star
+- [01:14:27,000 - 01:14:31,000] minus i phi star,
+- [01:14:31,000 - 01:14:35,000] derivative of theta with respect to x,
+- [01:14:35,000 - 01:14:38,000] times e to the minus i theta.
+- [01:14:38,000 - 01:14:40,000] Now what we're going to do
+- [01:14:40,000 - 01:14:42,000] is we're going to multiply these two
+- [01:14:42,000 - 01:14:45,000] and see if it's the same as just multiplying
+- [01:14:45,000 - 01:14:48,000] the original derivatives of phi and phi star.
+- [01:14:48,000 - 01:14:50,000] Well, obviously the answer is no
+- [01:14:50,000 - 01:14:52,000] because there are some extra terms here,
+- [01:14:52,000 - 01:14:53,000] but let's see what they are.
+- [01:14:53,000 - 01:14:55,000] Let's just check.
+- [01:14:55,000 - 01:14:56,500] First of all, the e to
+- [01:14:56,500 - 01:14:58,000] the i thetas will cancel out.
+- [01:14:58,000 - 01:15:02,000] So, when I multiply the derivative of phi prime
+- [01:15:02,000 - 01:15:05,000] times the derivative of phi prime star,
+- [01:15:05,000 - 01:15:08,000] at least these factors will cancel out.
+- [01:15:08,000 - 01:15:11,000] In other words, the factors will cancel out
+- [01:15:11,000 - 01:15:15,000] if theta doesn't depend on position.
+- [01:15:15,000 - 01:15:17,000] If theta didn't depend on position,
+- [01:15:17,000 - 01:15:19,000] then these would cancel out.
+- [01:15:19,000 - 01:15:21,000] So let's just erase them.
+- [01:15:21,000 - 01:15:23,000] Well, I'm not going to erase them.
+- [01:15:23,000 - 01:15:25,000] I don't want to write the wrong equations,
+- [01:15:25,000 - 01:15:27,000] so I'll leave them up there.
+- [01:15:27,000 - 01:15:29,000] But when I multiply these together,
+- [01:15:29,000 - 01:15:35,000] I'm going to get...
+- [01:15:35,000 - 01:15:37,000] Well, actually this is all I was hoping to get.
+- [01:15:37,000 - 01:15:39,000] I was hoping to get the original Lagrangian back
+- [01:15:39,000 - 01:15:42,000] and show that the Lagrangian is invariant.
+- [01:15:42,000 - 01:15:43,000] But it's not.
+- [01:15:43,000 - 01:15:46,000] There's a couple of extra terms.
+- [01:15:46,000 - 01:15:48,000] First of all is a term i...
+- [01:15:48,000 - 01:15:50,000] Let's see what there is.
+- [01:15:50,000 - 01:15:55,000] i phi d phi star
+- [01:15:55,000 - 01:16:01,000] minus phi star d phi.
+- [01:16:01,000 - 01:16:03,000] This is not zero.
+- [01:16:03,000 - 01:16:05,000] This is phi, the derivative of phi star.
+- [01:16:05,000 - 01:16:07,000] This is phi star times the derivative of phi.
+- [01:16:07,000 - 01:16:09,000] This is not zero.
+- [01:16:09,000 - 01:16:12,000] Times d theta by dx.
+- [01:16:12,000 - 01:16:14,000] That's new. I didn't want that there.
+- [01:16:14,000 - 01:16:16,000] And then finally there's the squared term,
+- [01:16:16,000 - 01:16:18,000] which is phi star d phi.
+- [01:16:18,000 - 01:16:23,000] phi star phi times the derivative of theta
+- [01:16:23,000 - 01:16:26,000] with respect to x squared.
+- [01:16:26,000 - 01:16:28,000] Well, that's a disaster.
+- [01:16:28,000 - 01:16:30,000] I mean, it's a disaster if we were hoping
+- [01:16:30,000 - 01:16:32,000] that this would be a symmetry.
+- [01:16:32,000 - 01:16:34,000] It's not a symmetry.
+- [01:16:34,000 - 01:16:37,000] The new Lagrangian when expressed in terms of...
+- [01:16:37,000 - 01:16:41,000] The Lagrangian when expressed in terms of phi prime
+- [01:16:41,000 - 01:16:43,000] is not the same as the Lagrangian
+- [01:16:43,000 - 01:16:46,000] when expressed in terms of phi.
+- [01:16:46,000 - 01:16:49,000] What about the potential energy?
+- [01:16:49,000 - 01:16:52,000] If the potential energy
+- [01:16:52,000 - 01:16:55,000] is a function only
+- [01:16:55,000 - 01:16:59,000] of phi star phi,
+- [01:16:59,000 - 01:17:02,000] then phi star phi will not change
+- [01:17:02,000 - 01:17:04,000] when we do one of these symmetry transformations,
+- [01:17:04,000 - 01:17:07,000] even if it depends on space.
+- [01:17:07,000 - 01:17:09,000] So v, the potential energy,
+- [01:17:09,000 - 01:17:11,000] that's symmetric.
+- [01:17:11,000 - 01:17:14,000] But the kinetic energy, the derivative terms in the energy,
+- [01:17:14,000 - 01:17:15,000] are not symmetric.
+- [01:17:15,000 - 01:17:17,000] And if we trace it down,
+- [01:17:17,000 - 01:17:19,000] we see what the problem is.
+- [01:17:19,000 - 01:17:21,000] The problem is simply associated
+- [01:17:21,000 - 01:17:24,000] with the fact that the derivative of phi prime
+- [01:17:24,000 - 01:17:27,000] is not the same as the derivative of phi...
+- [01:17:27,000 - 01:17:30,000] Well, let's go to the upper equation.
+- [01:17:30,000 - 01:17:32,000] Even if we ignore the c to the i theta,
+- [01:17:32,000 - 01:17:34,000] that does cancel.
+- [01:17:34,000 - 01:17:35,000] Even if we ignore that,
+- [01:17:35,000 - 01:17:37,000] the derivative of phi prime
+- [01:17:37,000 - 01:17:39,000] contains this extra term.
+- [01:17:39,000 - 01:17:42,000] So we just don't have a symmetry.
+- [01:17:42,000 - 01:17:44,000] Okay?
+- [01:17:45,000 - 01:17:48,000] Well, can we do anything
+- [01:17:48,000 - 01:17:50,000] to restore the symmetry?
+- [01:17:50,000 - 01:17:51,000] Is there anything we can do,
+- [01:17:51,000 - 01:17:52,000] Lagrangian, to re...
+- [01:17:52,000 - 01:17:53,000] Well, yes, of course.
+- [01:17:53,000 - 01:17:55,000] We could just throw away these terms in Lagrangian.
+- [01:17:55,000 - 01:17:57,000] That would not be a very interesting Lagrangian
+- [01:17:57,000 - 01:17:58,000] with just the potential.
+- [01:17:58,000 - 01:18:01,000] It has no interesting dynamics whatsoever.
+- [01:18:01,000 - 01:18:02,000] All right?
+- [01:18:02,000 - 01:18:04,000] The answer is yes,
+- [01:18:04,000 - 01:18:07,000] but to do so, you have to introduce more fields.
+- [01:18:07,000 - 01:18:10,000] And the additional fields are the gauge boson fields.
+- [01:18:10,000 - 01:18:11,500] In this case, if we
+- [01:18:11,500 - 01:18:13,000] were really talking about electromagnetism,
+- [01:18:13,000 - 01:18:15,000] it would be the electromagnetic field.
+- [01:18:15,000 - 01:18:16,000] All right?
+- [01:18:16,000 - 01:18:18,000] So let's introduce the electromagnetic field.
+- [01:18:18,000 - 01:18:21,000] Incidentally, a transformation like this,
+- [01:18:21,000 - 01:18:24,000] which depends on position,
+- [01:18:24,000 - 01:18:26,000] just a symmetry,
+- [01:18:26,000 - 01:18:28,000] a hoped-for symmetry transformation,
+- [01:18:28,000 - 01:18:30,000] which depends on position like this,
+- [01:18:30,000 - 01:18:32,000] is called a gauge symmetry.
+- [01:18:32,000 - 01:18:33,000] I do...
+- [01:18:33,000 - 01:18:35,000] Actually, I do know where the term came from,
+- [01:18:35,000 - 01:18:40,000] but it's a historical...
+- [01:18:40,000 - 01:18:41,000] glitch.
+- [01:18:41,000 - 01:18:44,000] It doesn't have to do with...
+- [01:18:44,000 - 01:18:47,000] tire gauges or anything like that.
+- [01:18:47,000 - 01:18:55,000] It's not important where it came from, the term,
+- [01:18:55,000 - 01:18:57,000] but that's called a gauge symmetry.
+- [01:18:57,000 - 01:19:01,000] Gauge symmetry implies that the symmetry parameter
+- [01:19:01,000 - 01:19:03,000] can be chosen to vary from place to place.
+- [01:19:03,000 - 01:19:06,000] Now, remember, theta is not itself a field.
+- [01:19:06,000 - 01:19:10,000] It's just a generalized symmetry parameter,
+- [01:19:10,000 - 01:19:13,000] which is now allowed to vary from place to place.
+- [01:19:14,000 - 01:19:19,000] What's actually happening here
+- [01:19:19,000 - 01:19:21,000] is when we make the phase of
+- [01:19:21,000 - 01:19:23,000] the field vary from place to place,
+- [01:19:23,000 - 01:19:26,000] we're picking up a little bit of gradient energy.
+- [01:19:26,000 - 01:19:29,000] The gradients are changing a little bit on us.
+- [01:19:29,000 - 01:19:32,000] And so we're picking up some gradient energy
+- [01:19:32,000 - 01:19:33,000] that wasn't there before.
+- [01:19:33,000 - 01:19:34,000] That's all.
+- [01:19:34,000 - 01:19:37,000] Okay, let's...
+- [01:19:37,000 - 01:19:41,000] In the example you had before of the parabola...
+- [01:19:41,000 - 01:19:42,000] Yeah.
+- [01:19:42,000 - 01:19:43,000] Would that be like...
+- [01:19:43,000 - 01:19:44,000] Where you had the circle
+- [01:19:44,000 - 01:19:45,000] that was at a constant altitude,
+- [01:19:45,000 - 01:19:47,000] would that be like there was bumps in that circle?
+- [01:19:47,000 - 01:19:48,000] That went up and down?
+- [01:19:48,000 - 01:19:49,000] No, no, no.
+- [01:19:49,000 - 01:19:50,000] It's just a gradient.
+- [01:19:50,000 - 01:19:53,000] It's just if we make a configuration where the field...
+- [01:19:53,000 - 01:19:54,000] where the phase of the
+- [01:19:54,000 - 01:19:55,000] field varies from place to place,
+- [01:19:55,000 - 01:19:56,000] it costs energy.
+- [01:19:56,000 - 01:19:57,000] That's all.
+- [01:19:57,000 - 01:19:58,000] Yeah, that's all.
+- [01:19:58,000 - 01:19:59,000] That's all that's happening here.
+- [01:19:59,000 - 01:20:02,000] But I've been very explicit about it,
+- [01:20:02,000 - 01:20:04,500] and I've identified this as
+- [01:20:04,500 - 01:20:07,000] the villain in the problem here,
+- [01:20:07,000 - 01:20:08,000] this term here.
+- [01:20:08,000 - 01:20:09,000] Right.
+- [01:20:09,000 - 01:20:10,000] So the question is,
+- [01:20:10,000 - 01:20:11,000] can we find some clever way to cancel that out?
+- [01:20:11,000 - 01:20:12,000] Now, why should we want to do that?
+- [01:20:12,000 - 01:20:19,000] Ultimately, it's an experimental fact
+- [01:20:19,000 - 01:20:23,000] that all of the interactions of nature
+- [01:20:23,000 - 01:20:26,000] are associated with gauge symmetries like this.
+- [01:20:26,000 - 01:20:27,000] Not all the interactions,
+- [01:20:27,000 - 01:20:29,000] but all the gauge symmetries,
+- [01:20:29,000 - 01:20:31,000] all the gauge interactions.
+- [01:20:31,000 - 01:20:33,000] Photons, Z bosons, W bosons,
+- [01:20:33,000 - 01:20:36,000] all are associated with symmetries,
+- [01:20:36,000 - 01:20:39,000] not just of the kind where you can rigidly,
+- [01:20:39,000 - 01:20:41,000] everywheres, do the symmetry transformation,
+- [01:20:41,000 - 01:20:43,000] but symmetries where you gradual...
+- [01:20:43,000 - 01:20:45,000] it doesn't even have to be gradual,
+- [01:20:45,000 - 01:20:46,000] where you...
+- [01:20:46,000 - 01:20:49,000] an arbitrary variation of the symmetry parameters
+- [01:20:49,000 - 01:20:51,000] from place to place.
+- [01:20:51,000 - 01:20:53,000] Okay, so let's say,
+- [01:20:53,000 - 01:20:55,000] what's the ingredient that you have to add?
+- [01:20:55,000 - 01:20:59,000] You have to add a new collection of fields.
+- [01:20:59,000 - 01:21:02,000] In this case, just one new field,
+- [01:21:02,000 - 01:21:04,000] or I should say four new fields,
+- [01:21:04,000 - 01:21:06,000] one for each direction of space.
+- [01:21:06,000 - 01:21:08,000] You must add a four vector of fields,
+- [01:21:08,000 - 01:21:10,000] and that four vector is...
+- [01:21:10,000 - 01:21:13,000] if this were electrodynamics,
+- [01:21:13,000 - 01:21:16,000] would just be the vector potential.
+- [01:21:16,000 - 01:21:24,000] The vector potential, A mu,
+- [01:21:24,000 - 01:21:26,000] four vector potential,
+- [01:21:26,000 - 01:21:30,000] out of which you build the electromagnetic field.
+- [01:21:30,000 - 01:21:33,000] I'll just remind you quickly what the connection is.
+- [01:21:33,000 - 01:21:35,000] The electric field...
+- [01:21:35,000 - 01:21:36,000] well, first of all,
+- [01:21:36,000 - 01:21:38,000] the time component of A
+- [01:21:38,000 - 01:21:40,000] is the electrostatic potential.
+- [01:21:40,000 - 01:21:44,000] Its gradient in space is the electric field.
+- [01:21:44,000 - 01:21:47,000] The space components of A
+- [01:21:47,000 - 01:21:49,000] form a three vector,
+- [01:21:49,000 - 01:21:51,000] and the curl of that three vector
+- [01:21:51,000 - 01:21:53,000] is the magnetic field.
+- [01:21:53,000 - 01:21:54,000] I won't bother writing it down.
+- [01:21:54,000 - 01:21:56,000] This is the standard vector potential
+- [01:21:56,000 - 01:21:58,000] out of which you build
+- [01:21:58,000 - 01:22:00,000] the electromagnetic field tensor,
+- [01:22:00,000 - 01:22:03,000] composed of electric and magnetic fields.
+- [01:22:03,000 - 01:22:05,000] We'll come back to that.
+- [01:22:05,000 - 01:22:09,000] But, let's add in to the symmetry operation.
+- [01:22:09,000 - 01:22:11,000] We now ask, when you add a new field,
+- [01:22:11,000 - 01:22:13,000] and you're interested in the symmetry,
+- [01:22:13,000 - 01:22:16,000] you always have to address the question,
+- [01:22:16,000 - 01:22:20,000] how does this new field transform
+- [01:22:20,000 - 01:22:23,000] when you do the symmetry operation?
+- [01:22:23,000 - 01:22:25,000] In other words, if we do the symmetry operation
+- [01:22:25,000 - 01:22:28,000] that takes us from phi to phi prime,
+- [01:22:28,000 - 01:22:29,500] is there also something that
+- [01:22:29,500 - 01:22:31,000] we have to do to A
+- [01:22:31,000 - 01:22:36,000] to take us from A to A prime?
+- [01:22:36,000 - 01:22:38,000] And the answer is, yes,
+- [01:22:39,000 - 01:22:42,000] because the justification for this
+- [01:22:42,000 - 01:22:44,000] is the result in the end,
+- [01:22:44,000 - 01:22:47,000] that you can keep gauge invariance.
+- [01:22:47,000 - 01:22:49,000] But what you do to A
+- [01:22:49,000 - 01:22:51,000] is you just add to it
+- [01:22:51,000 - 01:22:55,000] the derivative mu of theta.
+- [01:22:55,000 - 01:22:58,000] In other words, the transformation property of A
+- [01:22:58,000 - 01:23:02,000] is not some multiplication by a phase of A,
+- [01:23:02,000 - 01:23:04,000] but just adding to A
+- [01:23:04,000 - 01:23:06,000] the gradient of theta.
+- [01:23:06,000 - 01:23:07,000] A is a four vector.
+- [01:23:07,000 - 01:23:08,000] The derivative of theta
+- [01:23:08,000 - 01:23:10,000] is also a four vector.
+- [01:23:10,000 - 01:23:13,000] That's the operation
+- [01:23:13,000 - 01:23:17,000] that will allow us
+- [01:23:17,000 - 01:23:20,000] to have a symmetry.
+- [01:23:20,000 - 01:23:24,000] Next, we have to change the definition of the Lagrangian.
+- [01:23:24,000 - 01:23:27,000] And the definition of the Lagrangian,
+- [01:23:27,000 - 01:23:29,000] the new definition of the Lagrangian,
+- [01:23:29,000 - 01:23:33,000] will be to replace ordinary derivatives
+- [01:23:33,000 - 01:23:35,000] by a new kind of derivative
+- [01:23:35,000 - 01:23:37,000] that's called the covariant derivative.
+- [01:23:38,000 - 01:23:40,000] It's not the covariant derivative
+- [01:23:40,000 - 01:23:42,000] of general relativity.
+- [01:23:42,000 - 01:23:45,000] It's the covariant derivative of the gauge theory.
+- [01:23:45,000 - 01:23:47,000] Let me define it for you.
+- [01:23:47,000 - 01:23:51,000] Define d mu
+- [01:23:51,000 - 01:23:56,000] on phi.
+- [01:23:56,000 - 01:23:59,000] The covariant derivative
+- [01:23:59,000 - 01:24:02,000] of the charged scalar field
+- [01:24:02,000 - 01:24:05,000] or let's, yes,
+- [01:24:05,000 - 01:24:08,000] the covariant derivative is defined to be,
+- [01:24:08,000 - 01:24:11,000] the ordinary derivative.
+- [01:24:11,000 - 01:24:17,000] We can take away these mu's if we want,
+- [01:24:17,000 - 01:24:19,000] it wouldn't, but that's all right,
+- [01:24:19,000 - 01:24:20,000] leave them.
+- [01:24:20,000 - 01:24:22,000] Plus,
+- [01:24:22,000 - 01:24:25,000] let me get the sign straight,
+- [01:24:25,000 - 01:24:32,000] plus I A mu times phi.
+- [01:24:32,000 - 01:24:35,000] Definition.
+- [01:24:35,000 - 01:24:37,000] That's the definition of the covariant derivative
+- [01:24:37,000 - 01:24:39,000] if you like,
+- [01:24:39,000 - 01:24:41,000] you can just think of it as a replacement
+- [01:24:41,000 - 01:24:44,000] of derivative by derivative plus I times A.
+- [01:24:44,000 - 01:24:46,000] Now that may not mean,
+- [01:24:46,000 - 01:24:48,000] it really doesn't mean anything by itself.
+- [01:24:48,000 - 01:24:51,000] It's something which acts on a charged field.
+- [01:24:51,000 - 01:24:55,000] This is definition of the covariant derivative.
+- [01:24:55,000 - 01:24:58,000] Same thing or the analogous thing
+- [01:24:58,000 - 01:25:01,000] for d mu phi star.
+- [01:25:01,000 - 01:25:02,000] So,
+- [01:25:02,000 - 01:25:05,000] the covariant derivative of the covariant derivative
+- [01:25:05,000 - 01:25:08,000] is d mu phi star.
+- [01:25:08,000 - 01:25:12,000] It's equal to d mu phi star.
+- [01:25:12,000 - 01:25:13,000] Now,
+- [01:25:13,000 - 01:25:15,000] minus,
+- [01:25:15,000 - 01:25:19,000] minus I A mu phi star.
+- [01:25:19,000 - 01:25:20,000] Keep in mind,
+- [01:25:20,000 - 01:25:22,000] this wouldn't make any sense
+- [01:25:22,000 - 01:25:24,000] if phi was a real valued field.
+- [01:25:24,000 - 01:25:25,000] Why not?
+- [01:25:25,000 - 01:25:27,000] Because if phi was a real valued field,
+- [01:25:27,000 - 01:25:30,000] we wouldn't want to add something imaginary.
+- [01:25:30,000 - 01:25:32,000] But phi is itself a complex field,
+- [01:25:32,000 - 01:25:34,000] and so adding something additional complex,
+- [01:25:34,000 - 01:25:35,000] that's fine,
+- [01:25:35,000 - 01:25:36,000] no problem.
+- [01:25:36,000 - 01:25:37,000] Okay,
+- [01:25:37,000 - 01:25:40,000] this is the definition of the covariant derivative.
+- [01:25:40,000 - 01:25:42,000] And the kinetic terms in the Lagrangian,
+- [01:25:42,000 - 01:25:45,000] forget the potential terms for a minute,
+- [01:25:45,000 - 01:25:47,000] the kinetic terms in the Lagrangian
+- [01:25:47,000 - 01:25:50,000] are just replaced by the square
+- [01:25:50,000 - 01:25:55,000] or d mu phi times d mu phi star.
+- [01:25:55,000 - 01:25:58,000] And let me show you why that is gauge invariant.
+- [01:25:58,000 - 01:26:01,000] Why that now has the invariance
+- [01:26:01,000 - 01:26:03,000] that was lost over here.
+- [01:26:04,000 - 01:26:08,000] Now this extra little trick of inventing an extra field,
+- [01:26:08,000 - 01:26:11,000] giving it a transformation property,
+- [01:26:11,000 - 01:26:14,000] now,
+- [01:26:14,000 - 01:26:18,000] takes a Lagrangian which did not have this gauge invariance
+- [01:26:18,000 - 01:26:20,000] and makes it gauge invariant.
+- [01:26:20,000 - 01:26:22,000] We don't even have to work out the Lagrangian.
+- [01:26:22,000 - 01:26:25,000] It's enough just to look at the covariant derivatives.
+- [01:26:25,000 - 01:26:27,000] Let's prove,
+- [01:26:27,000 - 01:26:29,000] let's find the connection.
+- [01:26:29,000 - 01:26:31,000] Here's phi and phi prime.
+- [01:26:31,000 - 01:26:32,000] Where is phi and phi prime?
+- [01:26:32,000 - 01:26:34,000] Here's phi and phi prime.
+- [01:26:34,000 - 01:26:52,000] Let's calculate the covariant derivative of phi prime.
+- [01:26:52,000 - 01:26:55,000] Let's calculate the covariant derivative of phi prime.
+- [01:26:55,000 - 01:26:57,000] And what we want to show
+- [01:26:57,000 - 01:27:00,000] is that the covariant derivative of phi prime
+- [01:27:00,000 - 01:27:03,000] is essentially the same as the covariant derivative of phi.
+- [01:27:04,000 - 01:27:06,000] That would then establish
+- [01:27:06,000 - 01:27:08,000] that the new Lagrangian,
+- [01:27:08,000 - 01:27:10,000] which involved the square of these,
+- [01:27:10,000 - 01:27:11,000] was really invariant.
+- [01:27:11,000 - 01:27:12,000] So let's check that out.
+- [01:27:12,000 - 01:27:14,000] Let's calculate,
+- [01:27:16,000 - 01:27:18,000] let's recalculate
+- [01:27:18,000 - 01:27:21,000] the covariant derivative
+- [01:27:22,000 - 01:27:24,000] of phi prime.
+- [01:27:25,000 - 01:27:27,000] That's equal to,
+- [01:27:28,000 - 01:27:30,000] first of all, the first term is
+- [01:27:30,000 - 01:27:32,000] just the ordinary derivative of phi prime,
+- [01:27:32,000 - 01:27:34,000] and there it is up there.
+- [01:27:34,000 - 01:27:37,000] So,
+- [01:27:37,000 - 01:27:39,000] derivative of phi
+- [01:27:39,000 - 01:27:42,000] plus i phi
+- [01:27:42,000 - 01:27:44,000] derivative of theta
+- [01:27:44,000 - 01:27:46,000] with respect to x.
+- [01:27:46,000 - 01:27:48,000] I wonder if I have the sign wrong someplace.
+- [01:27:48,000 - 01:27:54,000] I may have a sign wrong here.
+- [01:27:54,000 - 01:27:58,000] Let's see, I think we can fix the sign
+- [01:27:58,000 - 01:28:02,000] by changing the sign over here.
+- [01:28:04,000 - 01:28:07,000] I think over here.
+- [01:28:07,000 - 01:28:16,000] If it comes out wrong, we'll change it back again.
+- [01:28:16,000 - 01:28:18,000] Okay.
+- [01:28:18,000 - 01:28:20,000] Now, that's the first term
+- [01:28:20,000 - 01:28:23,000] in the covariant derivative of phi prime,
+- [01:28:23,000 - 01:28:26,000] just the derivative of phi prime.
+- [01:28:26,000 - 01:28:28,000] But then we have to add
+- [01:28:28,000 - 01:28:32,000] plus i
+- [01:28:32,000 - 01:28:35,000] something times phi prime.
+- [01:28:35,000 - 01:28:37,000] What do I want to put over here?
+- [01:28:37,000 - 01:28:38,000] A?
+- [01:28:40,000 - 01:28:42,000] A prime.
+- [01:28:42,000 - 01:28:45,000] A prime, because I'm calculating
+- [01:28:45,000 - 01:28:47,000] the covariant derivative
+- [01:28:47,000 - 01:28:50,000] of the primed fields.
+- [01:28:50,000 - 01:28:53,000] So I want to put there A prime.
+- [01:28:53,000 - 01:28:55,000] Alright, so let's put A prime in.
+- [01:28:55,000 - 01:28:56,000] What is A prime?
+- [01:28:56,000 - 01:28:58,000] A prime is A mu
+- [01:29:00,000 - 01:29:01,000] minus
+- [01:29:02,000 - 01:29:08,000] d mu theta.
+- [01:29:14,000 - 01:29:16,000] d mu theta times,
+- [01:29:16,000 - 01:29:18,000] sorry, this is phi prime
+- [01:29:18,000 - 01:29:22,000] A mu
+- [01:29:22,000 - 01:29:24,000] minus d mu theta
+- [01:29:24,000 - 01:29:26,000] all times
+- [01:29:26,000 - 01:29:28,000] phi prime.
+- [01:29:28,000 - 01:29:30,000] Is that right?
+- [01:29:30,000 - 01:29:32,000] I think that's right.
+- [01:29:32,000 - 01:29:35,000] phi.
+- [01:29:35,000 - 01:29:37,000] phi.
+- [01:29:45,000 - 01:29:49,000] And I must have left out an overall phase.
+- [01:29:52,000 - 01:29:53,000] Yeah.
+- [01:29:53,000 - 01:29:55,000] Both of them have a factor
+- [01:29:55,000 - 01:29:57,000] of e to the i theta.
+- [01:30:02,000 - 01:30:03,000] Now you look at it.
+- [01:30:03,000 - 01:30:05,000] Here was this extra nasty term
+- [01:30:05,000 - 01:30:07,000] which destroyed the invariance
+- [01:30:07,000 - 01:30:09,000] of this expression.
+- [01:30:09,000 - 01:30:10,000] Alright?
+- [01:30:10,000 - 01:30:12,000] But here is exactly the oppo-
+- [01:30:12,000 - 01:30:13,000] exactly the same term
+- [01:30:13,000 - 01:30:15,000] but with an opposite sign.
+- [01:30:15,000 - 01:30:17,000] One term coming
+- [01:30:17,000 - 01:30:20,000] from the transformation of the derivatives of theta
+- [01:30:20,000 - 01:30:21,000] and the other term
+- [01:30:21,000 - 01:30:23,000] coming from the transformation of A.
+- [01:30:23,000 - 01:30:25,000] Notice they're exactly the same, I hope.
+- [01:30:25,000 - 01:30:27,000] i phi,
+- [01:30:27,000 - 01:30:30,000] here we have i phi,
+- [01:30:30,000 - 01:30:31,000] e to the i theta,
+- [01:30:31,000 - 01:30:33,000] and d theta by d x.
+- [01:30:33,000 - 01:30:38,000] That's d theta.
+- [01:30:38,000 - 01:30:41,000] Let's get rid of all the mu's.
+- [01:30:41,000 - 01:30:44,000] So this term and this term,
+- [01:30:44,000 - 01:30:46,000] this derivative of theta,
+- [01:30:46,000 - 01:30:48,000] this term and this term
+- [01:30:48,000 - 01:30:50,000] are exactly the same.
+- [01:30:50,000 - 01:30:52,000] They cancel.
+- [01:30:52,000 - 01:30:55,000] We succeeded in canceling out
+- [01:30:55,000 - 01:30:57,000] or playing off
+- [01:30:57,000 - 01:31:00,000] the transformation properties
+- [01:31:00,000 - 01:31:02,000] of the derivative
+- [01:31:02,000 - 01:31:05,000] with the transformation properties of A
+- [01:31:05,000 - 01:31:08,000] and causing the extra term to cancel.
+- [01:31:08,000 - 01:31:10,000] So what do we find?
+- [01:31:10,000 - 01:31:12,000] We find that derivative
+- [01:31:12,000 - 01:31:15,000] or covariant derivative of phi prime
+- [01:31:15,000 - 01:31:17,000] is exactly the same
+- [01:31:17,000 - 01:31:19,000] as the covariant derivative of phi
+- [01:31:19,000 - 01:31:22,000] except for this factor e to the i theta here.
+- [01:31:22,000 - 01:31:24,000] We have to put that back.
+- [01:31:26,000 - 01:31:28,000] What about the covariant derivative
+- [01:31:28,000 - 01:31:31,000] of the complex conjugate?
+- [01:31:31,000 - 01:31:35,000] Phi prime star.
+- [01:31:35,000 - 01:31:37,000] That's equal to the covariant derivative
+- [01:31:37,000 - 01:31:41,000] of phi star
+- [01:31:41,000 - 01:31:44,000] times e to the minus i theta.
+- [01:31:44,000 - 01:31:45,000] And guess what?
+- [01:31:45,000 - 01:31:47,000] When we multiply this by this,
+- [01:31:47,000 - 01:31:50,000] the e to the i thetas cancel out
+- [01:31:50,000 - 01:31:54,000] and the Lagrangian is gauge invariant.
+- [01:31:54,000 - 01:31:56,000] So this A field here
+- [01:31:56,000 - 01:31:57,000] was an invention,
+- [01:31:57,000 - 01:31:58,000] a device,
+- [01:31:58,000 - 01:32:00,000] an invention
+- [01:32:00,000 - 01:32:02,000] to sort of forcibly
+- [01:32:02,000 - 01:32:04,000] make the Lagrangian be gauge invariant,
+- [01:32:04,000 - 01:32:07,000] but we had to invent
+- [01:32:07,000 - 01:32:09,000] a transformation property
+- [01:32:09,000 - 01:32:11,000] of the gauge field itself,
+- [01:32:11,000 - 01:32:13,000] of the vector potential itself.
+- [01:32:13,000 - 01:32:15,000] Okay.
+- [01:32:15,000 - 01:32:17,000] Now, next.
+- [01:32:20,000 - 01:32:23,000] We're missing something in the Lagrangian.
+- [01:32:23,000 - 01:32:25,000] What are we missing?
+- [01:32:26,000 - 01:32:27,000] Oh yes, of course,
+- [01:32:27,000 - 01:32:28,000] we are missing the potential.
+- [01:32:28,000 - 01:32:30,000] Let's add that in.
+- [01:32:30,000 - 01:32:32,000] We can multiply this by this
+- [01:32:32,000 - 01:32:37,000] and get, yeah,
+- [01:32:37,000 - 01:32:38,000] d mu phi.
+- [01:32:38,000 - 01:32:40,000] Lagrangian is d mu phi,
+- [01:32:40,000 - 01:32:42,000] d mu phi star
+- [01:32:42,000 - 01:32:48,000] minus v of phi star phi.
+- [01:32:48,000 - 01:32:50,000] This was gauge invariant to begin with.
+- [01:32:50,000 - 01:32:51,000] We don't have to modify that.
+- [01:32:51,000 - 01:32:53,000] But we are missing something rather important
+- [01:32:53,000 - 01:32:55,000] in a gauge theory.
+- [01:32:57,000 - 01:32:58,000] No.
+- [01:32:58,000 - 01:32:59,000] Yeah.
+- [01:33:00,000 - 01:33:06,000] This wouldn't be a very interesting gauge theory
+- [01:33:06,000 - 01:33:08,000] without some dynamics
+- [01:33:08,000 - 01:33:11,000] for the vector potential itself.
+- [01:33:11,000 - 01:33:13,000] Now, the vector potential is really
+- [01:33:13,000 - 01:33:14,000] the thing which,
+- [01:33:14,000 - 01:33:15,000] out of which you create
+- [01:33:15,000 - 01:33:19,000] the electric and magnetic fields.
+- [01:33:19,000 - 01:33:20,000] Okay.
+- [01:33:20,000 - 01:33:22,000] Anybody know what the Lagrangian
+- [01:33:22,000 - 01:33:25,000] for the electromagnetic field is?
+- [01:33:26,000 - 01:33:28,000] Anybody know what the energy
+- [01:33:28,000 - 01:33:30,000] for the electromagnetic field is?
+- [01:33:31,000 - 01:33:32,000] E squared plus b squared.
+- [01:33:32,000 - 01:33:34,000] How about the Lagrangian?
+- [01:33:36,000 - 01:33:38,000] It's e squared minus b squared.
+- [01:33:38,000 - 01:33:40,000] E squared minus b squared.
+- [01:33:40,000 - 01:33:41,000] But it can also be represented
+- [01:33:41,000 - 01:33:43,000] in terms of the field tensor.
+- [01:33:43,000 - 01:33:46,000] So let's write it in terms of the field tensor.
+- [01:33:46,000 - 01:33:49,000] The field tensor is called f mu nu,
+- [01:33:49,000 - 01:33:51,000] and I'll just remind you what it is.
+- [01:33:51,000 - 01:33:54,000] f mu nu is an anti-symmetric object.
+- [01:33:54,000 - 01:34:00,000] It's the derivative in the mu-th direction
+- [01:34:00,000 - 01:34:03,000] of a nu minus the derivative
+- [01:34:03,000 - 01:34:06,000] in the nu-th direction of a mu.
+- [01:34:06,000 - 01:34:10,000] So it's a kind of four-dimensional curl.
+- [01:34:10,000 - 01:34:15,000] It's, it, the diagonal components are zero.
+- [01:34:15,000 - 01:34:17,000] f zero zero is zero.
+- [01:34:17,000 - 01:34:18,000] Why is that?
+- [01:34:18,000 - 01:34:19,000] Because it's d zero a
+- [01:34:19,000 - 01:34:20,000] zero times d zero a zero
+- [01:34:20,000 - 01:34:21,000] minus d zero a zero.
+- [01:34:21,000 - 01:34:23,000] That's zero.
+- [01:34:23,000 - 01:34:25,000] All of the diagonal elements are zero.
+- [01:34:25,000 - 01:34:29,000] It's anti-symmetric on the mu nu interchange,
+- [01:34:29,000 - 01:34:35,000] and its components with one space and one time,
+- [01:34:35,000 - 01:34:37,000] what are they?
+- [01:34:39,000 - 01:34:41,000] The component of f mu nu with one space
+- [01:34:41,000 - 01:34:45,000] and one time is the electric field.
+- [01:34:45,000 - 01:34:46,000] All right.
+- [01:34:46,000 - 01:34:48,000] It has one space component,
+- [01:34:48,000 - 01:34:50,000] and that determines the direction
+- [01:34:50,000 - 01:34:52,000] of the electromagnetic field.
+- [01:34:53,000 - 01:34:58,000] What about the terms with space-space components?
+- [01:34:58,000 - 01:35:00,000] The magnetic field.
+- [01:35:00,000 - 01:35:07,000] For example, f x y is equal to b z,
+- [01:35:07,000 - 01:35:09,000] where b is the magnetic field, and so forth,
+- [01:35:09,000 - 01:35:11,000] and cycle it through.
+- [01:35:11,000 - 01:35:14,000] So this is the electromagnetic field tensor,
+- [01:35:14,000 - 01:35:16,000] and the standard dynamics,
+- [01:35:16,000 - 01:35:20,000] the Maxwell, ordinary Maxwell dynamics,
+- [01:35:20,000 - 01:35:22,000] is determined by a Lagrangian,
+- [01:35:22,000 - 01:35:25,000] and the Lagrangian is just f squared.
+- [01:35:25,000 - 01:35:28,000] It's just f mu nu, f mu nu.
+- [01:35:28,000 - 01:35:31,000] Raising the indices is just a couple of sign changes
+- [01:35:31,000 - 01:35:33,000] here and there.
+- [01:35:33,000 - 01:35:35,000] The Lagrangian is e squared minus b squared.
+- [01:35:35,000 - 01:35:38,000] The energy is e squared plus b squared,
+- [01:35:38,000 - 01:35:41,000] but the important thing is that the Lagrangian
+- [01:35:41,000 - 01:35:44,000] for the electromagnetic field is,
+- [01:35:44,000 - 01:35:48,000] involves nothing but f mu nu itself.
+- [01:35:48,000 - 01:35:49,000] How about f mu nu?
+- [01:35:49,000 - 01:35:51,000] Is f mu nu gauge invariant?
+- [01:35:52,000 - 01:35:54,000] Let's check it.
+- [01:35:54,000 - 01:35:57,000] To find out, we have to calculate
+- [01:35:57,000 - 01:36:01,000] f mu nu prime.
+- [01:36:01,000 - 01:36:04,000] Well, that's just equal to d mu,
+- [01:36:04,000 - 01:36:06,000] a prime nu,
+- [01:36:06,000 - 01:36:08,000] minus d nu,
+- [01:36:08,000 - 01:36:10,000] a prime mu.
+- [01:36:10,000 - 01:36:12,000] All right, but now let's remember,
+- [01:36:12,000 - 01:36:14,000] did we erase what a prime is?
+- [01:36:14,000 - 01:36:16,000] We did.
+- [01:36:16,000 - 01:36:19,000] A prime is just equal to a,
+- [01:36:19,000 - 01:36:21,000] I think it was minus,
+- [01:36:21,000 - 01:36:25,000] the derivative of theta.
+- [01:36:25,000 - 01:36:27,000] All right, so let's just plug it in.
+- [01:36:27,000 - 01:36:32,000] This is going to be derivative mu of a nu
+- [01:36:32,000 - 01:36:35,000] minus the derivative of mu
+- [01:36:35,000 - 01:36:38,000] of the derivative of nu of theta.
+- [01:36:38,000 - 01:36:41,000] I've just plugged in for a prime,
+- [01:36:41,000 - 01:36:43,000] a, and then the derivative
+- [01:36:43,000 - 01:36:45,000] with respect to nu of theta.
+- [01:36:45,000 - 01:36:47,000] What's going to happen when I put this term in?
+- [01:36:47,000 - 01:36:51,000] It's going to subtract derivative nu of a mu,
+- [01:36:51,000 - 01:36:54,000] and then it's going to add
+- [01:36:54,000 - 01:37:00,000] plus d nu d mu of theta.
+- [01:37:00,000 - 01:37:01,500] Okay, but d mu d nu theta is
+- [01:37:01,500 - 01:37:03,000] the same as d nu d mu theta.
+- [01:37:03,000 - 01:37:06,000] It doesn't matter which order you differentiate in.
+- [01:37:06,000 - 01:37:09,000] This is just the fact that the order of differentiation,
+- [01:37:09,000 - 01:37:12,000] partial differentiation is immaterial.
+- [01:37:12,000 - 01:37:15,000] And so this cancels.
+- [01:37:15,000 - 01:37:16,000] And what do we find?
+- [01:37:16,000 - 01:37:18,000] We find that f prime is the same as f.
+- [01:37:18,000 - 01:37:19,000] This is f.
+- [01:37:19,000 - 01:37:21,000] So the electron matrix,
+- [01:37:21,000 - 01:37:25,000] the electromagnetic field tensor is gauge invariant.
+- [01:37:25,000 - 01:37:28,500] That means that we can
+- [01:37:28,500 - 01:37:32,000] construct a completely gauge invariant dynamics
+- [01:37:32,000 - 01:37:35,000] of the electromagnetic field
+- [01:37:35,000 - 01:37:40,000] coupled to a field whose quanta are charged particles.
+- [01:37:40,000 - 01:37:44,000] This is the field whose quanta are charged particles.
+- [01:37:44,000 - 01:37:45,000] What is it?
+- [01:37:45,000 - 01:37:46,000] It's d mu.
+- [01:37:46,000 - 01:37:49,000] This is a mistake here.
+- [01:37:49,000 - 01:37:50,000] This is d mu.
+- [01:37:51,000 - 01:37:53,000] Only these covariant derivatives,
+- [01:37:53,000 - 01:37:55,000] not ordinary derivatives,
+- [01:37:55,000 - 01:38:01,000] a potential and add plus f squared.
+- [01:38:01,000 - 01:38:02,000] I'll just call it f squared,
+- [01:38:02,000 - 01:38:03,000] meaning f mu nu,
+- [01:38:03,000 - 01:38:04,000] you know, the appropriate thing,
+- [01:38:04,000 - 01:38:06,000] e squared minus b squared.
+- [01:38:06,000 - 01:38:08,000] There's some numerical factors which are conventional.
+- [01:38:08,000 - 01:38:11,000] There's usually a quarter in front of this,
+- [01:38:11,000 - 01:38:13,000] but that's not important.
+- [01:38:13,000 - 01:38:18,000] The important thing is all terms here are gauge invariant.
+- [01:38:18,000 - 01:38:21,000] So we've discovered the fact that,
+- [01:38:21,000 - 01:38:28,000] that we can promote a symmetry like U1 here
+- [01:38:28,000 - 01:38:30,000] to a local symmetry.
+- [01:38:30,000 - 01:38:31,500] A local symmetry means that
+- [01:38:31,500 - 01:38:33,000] we can locally vary the phase,
+- [01:38:33,000 - 01:38:35,000] or we can locally do the operation,
+- [01:38:35,000 - 01:38:36,000] whatever it is,
+- [01:38:36,000 - 01:38:37,000] from point to point,
+- [01:38:37,000 - 01:38:39,000] and still have the symmetry,
+- [01:38:39,000 - 01:38:42,000] but it's always at the cost of an extra field,
+- [01:38:42,000 - 01:38:45,000] an extra vector potential field.
+- [01:38:45,000 - 01:38:49,000] And that vector potential field can also be assembled
+- [01:38:49,000 - 01:38:55,000] into a Maxwell-Lagrangian
+- [01:38:55,000 - 01:38:58,000] that would determine Maxwell's equations.
+- [01:38:58,000 - 01:39:02,000] Maxwell's equations coupled to charge-carrying matter.
+- [01:39:02,000 - 01:39:04,000] That's what this is.
+- [01:39:04,000 - 01:39:07,000] Okay, what can we not add?
+- [01:39:07,000 - 01:39:09,000] Let me tell you what we can't add,
+- [01:39:09,000 - 01:39:13,000] and still be gauge invariant.
+- [01:39:13,000 - 01:39:15,000] First of all, we can't add potentials,
+- [01:39:15,000 - 01:39:19,000] which are functions other than functions of phi star phi.
+- [01:39:19,000 - 01:39:20,000] If they were functions of
+- [01:39:20,000 - 01:39:21,000] just the real part of phi,
+- [01:39:21,000 - 01:39:23,000] that would kill the symmetry.
+- [01:39:23,000 - 01:39:30,000] But as far as modifying the electromagnetic field,
+- [01:39:30,000 - 01:39:34,000] what we cannot add in is a term like,
+- [01:39:34,000 - 01:39:38,000] let's call it m squared over 2,
+- [01:39:38,000 - 01:39:42,000] times a mu a mu.
+- [01:39:42,000 - 01:39:46,000] Remember the mass term for a boson field
+- [01:39:46,000 - 01:39:48,000] is typically an m squared
+- [01:39:48,000 - 01:39:51,000] times the square of the field.
+- [01:39:51,000 - 01:39:54,000] A mass term for a photon
+- [01:39:54,000 - 01:39:57,000] would be a term like this.
+- [01:39:57,000 - 01:39:59,000] If we added this term
+- [01:39:59,000 - 01:40:02,000] to the Maxwell theory here,
+- [01:40:02,000 - 01:40:04,000] we would be adding a mass to the photon.
+- [01:40:04,000 - 01:40:06,000] However, it's forbidden
+- [01:40:06,000 - 01:40:10,000] if we want the theory to be gauge invariant.
+- [01:40:10,000 - 01:40:12,000] This is not gauge invariant.
+- [01:40:12,000 - 01:40:15,000] This is not the same, not equal,
+- [01:40:15,000 - 01:40:17,000] to m squared over 2,
+- [01:40:17,000 - 01:40:18,000] times a prime mu,
+- [01:40:18,000 - 01:40:20,000] a prime mu.
+- [01:40:20,000 - 01:40:23,000] So this is forbidden by gauge invariance.
+- [01:40:23,000 - 01:40:25,000] There is no way by hand
+- [01:40:25,000 - 01:40:27,000] to give the photon a mass.
+- [01:40:27,000 - 01:40:29,000] That's what this means.
+- [01:40:29,000 - 01:40:33,000] The photon is necessarily massless.
+- [01:40:33,000 - 01:40:36,000] If you believe in gauge invariance,
+- [01:40:36,000 - 01:40:38,000] and every physicist believes in gauge invariance
+- [01:40:38,000 - 01:40:41,000] for a wide variety of reasons,
+- [01:40:41,000 - 01:40:43,000] including mathematical consistency,
+- [01:40:43,000 - 01:40:45,000] the theory really breaks down badly
+- [01:40:45,000 - 01:40:47,000] if you try to do this.
+- [01:40:47,000 - 01:40:50,000] So the photon can't have a mass.
+- [01:40:50,000 - 01:40:52,000] Or can it?
+- [01:40:52,000 - 01:40:54,000] Or can it?
+- [01:40:54,000 - 01:40:58,000] There's been no device here
+- [01:40:58,000 - 01:41:02,000] by which taking this Lagrangian,
+- [01:41:02,000 - 01:41:04,000] just as it is,
+- [01:41:04,000 - 01:41:06,000] is there any trick that we can do
+- [01:41:06,000 - 01:41:08,000] to give the photon a mass?
+- [01:41:08,000 - 01:41:10,000] I'm going to tell you right now what it is,
+- [01:41:10,000 - 01:41:12,000] and we'll do it next week.
+- [01:41:12,000 - 01:41:15,000] If we spontaneously break the U symmetry
+- [01:41:15,000 - 01:41:17,000] by making the potential of the U
+- [01:41:17,000 - 01:41:23,000] have one of these shapes like this,
+- [01:41:23,000 - 01:41:26,000] so that the field likes to sit over here,
+- [01:41:26,000 - 01:41:29,000] that will mean that the U symmetry
+- [01:41:29,000 - 01:41:31,000] is spontaneously broken.
+- [01:41:31,000 - 01:41:33,000] Not explicitly.
+- [01:41:33,000 - 01:41:35,000] Spontaneous symmetry breaking,
+- [01:41:35,000 - 01:41:37,000] that's okay, I mean,
+- [01:41:37,000 - 01:41:40,000] this Lagrangian is gauge invariant.
+- [01:41:40,000 - 01:41:42,000] The spontaneous symmetry breaking
+- [01:41:42,000 - 01:41:45,000] will have the effect of giving the photon a mass,
+- [01:41:45,000 - 01:41:48,000] and it will also miraculously
+- [01:41:48,000 - 01:41:51,000] remove the goldstone boson.
+- [01:41:51,000 - 01:41:54,000] So the effect of spontaneous symmetry breaking
+- [01:41:54,000 - 01:41:55,000] is twofold.
+- [01:41:55,000 - 01:41:57,000] It removes the goldstone boson
+- [01:41:57,000 - 01:42:00,000] that was associated with slow variations of phi
+- [01:42:00,000 - 01:42:01,500] from one point of the phase
+- [01:42:01,500 - 01:42:03,000] of phi on the one hand,
+- [01:42:03,000 - 01:42:06,000] and at the same time gives a mass
+- [01:42:06,000 - 01:42:08,000] to the vector potential,
+- [01:42:08,000 - 01:42:10,000] it gives a mass to the photon.
+- [01:42:10,000 - 01:42:12,000] Now the real photon doesn't have a mass,
+- [01:42:12,000 - 01:42:14,000] but the Z boson does.
+- [01:42:15,000 - 01:42:16,000] This is called,
+- [01:42:16,000 - 01:42:18,000] we're going to work this out next time,
+- [01:42:18,000 - 01:42:20,000] we'll work it through next time,
+- [01:42:20,000 - 01:42:22,000] and just see how spontaneous symmetry breaking
+- [01:42:22,000 - 01:42:25,000] gives rise to a mass for the gauge boson.
+- [01:42:25,000 - 01:42:27,000] That's called the Higgs phenomenon.
+- [01:42:27,000 - 01:42:29,000] And this would be an example
+- [01:42:29,000 - 01:42:31,000] of how the Higgs phenomenon gives mass
+- [01:42:31,000 - 01:42:35,000] to a particle which mathematically
+- [01:42:35,000 - 01:42:36,500] you're not allowed to just
+- [01:42:36,500 - 01:42:38,000] put in a mass by hand.
+- [01:42:38,000 - 01:42:41,000] That's the signature,
+- [01:42:41,000 - 01:42:43,000] or the basic idea of the Higgs phenomenon,
+- [01:42:43,000 - 01:42:45,000] that there may be,
+- [01:42:45,000 - 01:42:47,000] deep mathematical reasons
+- [01:42:47,000 - 01:42:48,500] why you cannot just by
+- [01:42:48,500 - 01:42:50,000] hand give a particle a mass,
+- [01:42:50,000 - 01:42:53,000] but spontaneous symmetry breaking can do it anyway.
+- [01:42:53,000 - 01:42:55,000] Yeah?
+- [01:42:55,000 - 01:42:59,000] The real Lagrangian involves the real derivatives,
+- [01:42:59,000 - 01:43:01,000] not the covariant derivatives.
+- [01:43:01,000 - 01:43:02,000] Say it again.
+- [01:43:02,000 - 01:43:05,000] The Lagrangian that we started with
+- [01:43:05,000 - 01:43:08,000] involves the real derivatives, not these.
+- [01:43:08,000 - 01:43:10,000] Not the covariant derivatives.
+- [01:43:10,000 - 01:43:13,000] So why should we accept
+- [01:43:13,000 - 01:43:15,000] the fact that only for covariant derivatives
+- [01:43:15,000 - 01:43:17,000] is invariant?
+- [01:43:17,000 - 01:43:19,000] What I'm telling you is that
+- [01:43:19,000 - 01:43:21,000] if you have some pre...
+- [01:43:21,000 - 01:43:23,000] No.
+- [01:43:23,000 - 01:43:25,000] First statement,
+- [01:43:25,000 - 01:43:27,000] you can create a Lagrangian
+- [01:43:27,000 - 01:43:29,000] which is
+- [01:43:29,000 - 01:43:31,000] gauge invariant.
+- [01:43:31,000 - 01:43:33,000] Okay?
+- [01:43:33,000 - 01:43:35,000] Second statement,
+- [01:43:35,000 - 01:43:37,000] the coupling between charge carrying fields
+- [01:43:37,000 - 01:43:39,000] and the electromagnetic potential
+- [01:43:39,000 - 01:43:41,000] would become inconsistent if it were in gauge invariant.
+- [01:43:41,000 - 01:43:43,000] I'm not going to try to demonstrate that.
+- [01:43:43,000 - 01:43:45,000] It really does become mathematically
+- [01:43:45,000 - 01:43:47,000] inconsistent unless it's gauge invariant.
+- [01:43:51,000 - 01:43:53,000] So why should you believe...
+- [01:43:53,000 - 01:43:55,000] What is the question?
+- [01:43:55,000 - 01:43:57,000] The question is...
+- [01:43:57,000 - 01:43:59,000] No, the answer is that you can
+- [01:43:59,000 - 01:44:02,000] construct a gauge invariant Lagrangian.
+- [01:44:02,000 - 01:44:05,000] The result is a nice, consistent,
+- [01:44:05,000 - 01:44:07,000] mathematical structure, a gauge theory.
+- [01:44:07,000 - 01:44:09,000] If you try to do anything else,
+- [01:44:09,000 - 01:44:11,000] you will wind up with a theory
+- [01:44:11,000 - 01:44:13,000] which in quantum mechanics,
+- [01:44:13,000 - 01:44:15,000] which will have some terrible
+- [01:44:15,000 - 01:44:17,000] things.
+- [01:44:17,000 - 01:44:19,000] It will have negative probabilities in it,
+- [01:44:19,000 - 01:44:21,000] even worse things.
+- [01:44:21,000 - 01:44:23,000] But I'm not going to go through that.
+- [01:44:23,000 - 01:44:25,000] Gauge invariance is an extremely
+- [01:44:25,000 - 01:44:27,000] fundamental principle
+- [01:44:27,000 - 01:44:29,000] in theoretical physics,
+- [01:44:29,000 - 01:44:31,000] whether you like it or not.
+- [01:44:31,000 - 01:44:33,000] And for our purposes,
+- [01:44:33,000 - 01:44:35,000] I think we just have to accept it.
+- [01:44:35,000 - 01:44:37,000] We can also accept it as an empirical fact.
+- [01:44:37,000 - 01:44:39,000] That all of the particles,
+- [01:44:39,000 - 01:44:41,000] namely photons,
+- [01:44:41,000 - 01:44:43,000] z bosons,
+- [01:44:43,000 - 01:44:45,000] w plus and w minus bosons,
+- [01:44:45,000 - 01:44:47,000] are...
+- [01:44:47,000 - 01:44:49,000] nature seems to have chosen
+- [01:44:49,000 - 01:44:51,000] their Lagrangians to be
+- [01:44:51,000 - 01:44:53,000] exactly gauge invariant.
+- [01:44:53,000 - 01:44:55,000] It's a good thing because we don't want
+- [01:44:55,000 - 01:44:57,000] negative probabilities in a theory.
+- [01:44:57,000 - 01:44:59,000] You justified it by saying
+- [01:44:59,000 - 01:45:01,000] there's an additional field.
+- [01:45:01,000 - 01:45:03,000] You can start with just a plain thing
+- [01:45:03,000 - 01:45:05,000] and keep it that way.
+- [01:45:05,000 - 01:45:07,000] You added this new field
+- [01:45:07,000 - 01:45:09,000] and you can describe it as the...
+- [01:45:09,000 - 01:45:11,000] We had to add a new field
+- [01:45:11,000 - 01:45:13,000] in order to implement the symmetry.
+- [01:45:13,000 - 01:45:15,000] And that's described...
+- [01:45:15,000 - 01:45:17,000] That's the part of the explanation.
+- [01:45:17,000 - 01:45:19,000] So that's why I understand
+- [01:45:19,000 - 01:45:21,000] that it's okay to do that.
+- [01:45:21,000 - 01:45:23,000] With the new field, you can do that.
+- [01:45:23,000 - 01:45:25,000] Yeah, that's right.
+- [01:45:25,000 - 01:45:27,000] But we had to add a new field
+- [01:45:27,000 - 01:45:29,000] to do it. Without the new field,
+- [01:45:29,000 - 01:45:31,000] we could not keep...
+- [01:45:31,000 - 01:45:33,000] There's much deeper mathematics
+- [01:45:33,000 - 01:45:35,000] here that I haven't discussed.
+- [01:45:35,000 - 01:45:37,000] Fiber bundles, all kinds of
+- [01:45:37,000 - 01:45:39,000] interesting mathematics.
+- [01:45:39,000 - 01:45:41,000] A mu is
+- [01:45:41,000 - 01:45:43,000] technically what a mathematician
+- [01:45:43,000 - 01:45:45,000] would call a connection.
+- [01:45:45,000 - 01:45:47,000] And there's all sorts of interesting mathematics
+- [01:45:47,000 - 01:45:49,000] which we are not going to get into.
+- [01:45:49,000 - 01:45:51,000] Yeah?
+- [01:45:51,000 - 01:45:53,000] Alright, so let me see if I
+- [01:45:53,000 - 01:45:55,000] understand you.
+- [01:45:55,000 - 01:45:57,000] I can take it.
+- [01:45:57,000 - 01:45:59,000] The gauge invariance
+- [01:45:59,000 - 01:46:01,000] leads us
+- [01:46:01,000 - 01:46:03,000] to this modification
+- [01:46:03,000 - 01:46:05,000] which gives
+- [01:46:05,000 - 01:46:07,000] rise to
+- [01:46:07,000 - 01:46:09,000] the Goldstone boson.
+- [01:46:09,000 - 01:46:11,000] No, no, no.
+- [01:46:11,000 - 01:46:13,000] The Goldstone boson was a feature of the theory
+- [01:46:13,000 - 01:46:15,000] without
+- [01:46:15,000 - 01:46:17,000] vector potentials
+- [01:46:17,000 - 01:46:19,000] and without
+- [01:46:19,000 - 01:46:21,000] gauge invariance.
+- [01:46:21,000 - 01:46:23,000] What the Goldstone boson was, the energy of the
+- [01:46:23,000 - 01:46:25,000] Goldstone boson, was exactly
+- [01:46:25,000 - 01:46:27,000] the energy of making these
+- [01:46:27,000 - 01:46:29,000] variable phases.
+- [01:46:29,000 - 01:46:31,000] But now we find that there's a way
+- [01:46:31,000 - 01:46:33,000] of making the
+- [01:46:33,000 - 01:46:35,000] variable phases without a cost
+- [01:46:35,000 - 01:46:37,000] in energy.
+- [01:46:37,000 - 01:46:39,000] Why? Because the Lagrangian
+- [01:46:39,000 - 01:46:41,000] is invariant
+- [01:46:41,000 - 01:46:43,000] under those gradual
+- [01:46:43,000 - 01:46:45,000] changes of phase.
+- [01:46:45,000 - 01:46:47,000] What does that mean?
+- [01:46:47,000 - 01:46:49,000] That means there's no cost
+- [01:46:49,000 - 01:46:51,000] in energy in this gradual change of phase.
+- [01:46:51,000 - 01:46:53,000] No Goldstone boson.
+- [01:46:53,000 - 01:46:55,000] But we'll do that next time.
+- [01:46:55,000 - 01:46:57,000] We'll do it next time. We'll see that this Lagrangian
+- [01:46:57,000 - 01:46:59,000] does not have
+- [01:46:59,000 - 01:47:01,000] Goldstone bosons and it does
+- [01:47:01,000 - 01:47:03,000] have a mass for the photon.
+- [01:47:03,000 - 01:47:05,000] Does that have anything to do
+- [01:47:05,000 - 01:47:07,000] with why rivers meander?
+- [01:47:07,000 - 01:47:09,000] Why what meander? Rivers.
+- [01:47:09,000 - 01:47:11,000] I don't think. Not that I...
+- [01:47:13,000 - 01:47:15,000] Why rivers don't flow in a straight
+- [01:47:15,000 - 01:47:17,000] line on a relatively labeled plane,
+- [01:47:17,000 - 01:47:19,000] they...
+- [01:47:19,000 - 01:47:21,000] I don't think so.
+- [01:47:21,000 - 01:47:23,000] And the length of the
+- [01:47:23,000 - 01:47:25,000] increase is equal to pi.
+- [01:47:27,000 - 01:47:29,000] The distance. Yeah.
+- [01:47:29,000 - 01:47:31,000] Not that I know of, but
+- [01:47:31,000 - 01:47:33,000] I would not be at all surprised
+- [01:47:33,000 - 01:47:35,000] if somebody has found the
+- [01:47:35,000 - 01:47:37,000] gauge theory of rivers.
+- [01:47:37,000 - 01:47:39,000] I don't know of any connection.
+- [01:47:41,000 - 01:47:43,000] I do know that there are connections
+- [01:47:43,000 - 01:47:45,000] with the motion and shapes of amoeba.
+- [01:47:45,000 - 01:47:47,000] It also has to do with
+- [01:47:47,000 - 01:47:49,000] the flow of the water
+- [01:47:49,000 - 01:47:51,000] when it forms eddies.
+- [01:47:51,000 - 01:47:53,000] Yeah.
+- [01:47:53,000 - 01:47:55,000] Well, I wouldn't be totally surprised
+- [01:47:55,000 - 01:47:57,000] if there was some connection,
+- [01:47:57,000 - 01:47:59,000] but none that I've thought of.
+- [01:47:59,000 - 01:48:01,000] For more, please visit us at
+- [01:48:01,000 - 01:48:03,000] stanford.edu.
