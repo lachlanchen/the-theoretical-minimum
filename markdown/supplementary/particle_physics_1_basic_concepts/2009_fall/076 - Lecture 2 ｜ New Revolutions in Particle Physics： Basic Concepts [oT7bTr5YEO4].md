@@ -1,0 +1,2754 @@
+# Transcript
+
+Source: supplementary/particle_physics_1_basic_concepts/2009_fall/076 - Lecture 2 ｜ New Revolutions in Particle Physics： Basic Concepts [oT7bTr5YEO4].mkv
+
+- [00:00:00,000 - 00:00:06,400] Stanford University.
+- [00:00:06,400 - 00:00:10,960] All right, as I said, the basic
+- [00:00:10,960 - 00:00:15,520] tool of the trade is quantum field theory.
+- [00:00:15,520 - 00:00:17,720] And that is what we're going to
+- [00:00:17,720 - 00:00:19,920] spend a little bit of time learning.
+- [00:00:19,920 - 00:00:22,020] I'm going to teach you a very
+- [00:00:22,020 - 00:00:24,120] elementary version of what a quantum field is,
+- [00:00:24,120 - 00:00:24,840] I think, tonight.
+- [00:00:24,840 - 00:00:29,230] But I do want to get up
+- [00:00:29,230 - 00:00:33,620] on the blackboard some basic mathematical facts,
+- [00:00:33,620 - 00:00:36,080] just to review and to remind you.
+- [00:00:36,080 - 00:00:39,130] This is too elementary to be a
+- [00:00:39,130 - 00:00:42,180] serious part of this class at this point,
+- [00:00:42,180 - 00:00:44,160] but I do want to get it up there.
+- [00:00:44,160 - 00:00:48,050] The first mathematical set of facts
+- [00:00:48,050 - 00:00:51,940] does have to do with waves.
+- [00:00:51,940 - 00:00:54,640] Waves are, of course, an example of fields.
+- [00:00:54,840 - 00:00:56,960] Field configurations.
+- [00:00:56,960 - 00:00:59,360] Fields are things which vary throughout space.
+- [00:00:59,360 - 00:01:02,620] Waves are particular kind of configurations in which
+- [00:01:02,620 - 00:01:05,880] the fields are moving in a wave-like motion.
+- [00:01:05,880 - 00:01:09,000] And waves and particles are closely
+- [00:01:09,000 - 00:01:12,120] connected through the link of quantum mechanics.
+- [00:01:12,120 - 00:01:14,300] I am not going to teach
+- [00:01:14,300 - 00:01:16,480] a quantum mechanics course this quarter.
+- [00:01:16,480 - 00:01:19,720] So if your quantum mechanics
+- [00:01:19,720 - 00:01:22,960] is fuzzy, uncertain, ha ha ha,
+- [00:01:22,960 - 00:01:24,760] go back to the lectures
+- [00:01:24,760 - 00:01:27,200] on quantum mechanics.
+- [00:01:27,200 - 00:01:31,000] The two sets, there was a class called quantum entanglement,
+- [00:01:31,000 - 00:01:33,300] which we'll get up there hopefully soon,
+- [00:01:33,300 - 00:01:36,320] and another class just called quantum mechanics.
+- [00:01:36,320 - 00:01:39,210] And that is the basic starting
+- [00:01:39,210 - 00:01:42,100] point for what particle physics is.
+- [00:01:42,100 - 00:01:44,180] Also special relativity.
+- [00:01:44,180 - 00:01:46,050] But let's just review very,
+- [00:01:46,050 - 00:01:47,920] very quickly one mathematical fact,
+- [00:01:47,920 - 00:01:49,230] which comes up over and
+- [00:01:49,230 - 00:01:50,540] over and over and over again.
+- [00:01:50,540 - 00:01:52,610] Just what the relation
+- [00:01:52,610 - 00:01:54,680] between sines, cosines, and exponentials.
+- [00:01:54,680 - 00:01:58,640] Everybody, probably most of the people here know this,
+- [00:01:58,640 - 00:01:59,780] but I just want to
+- [00:01:59,780 - 00:02:00,920] get it up on the blackboard.
+- [00:02:00,920 - 00:02:06,500] Um, for future reference.
+- [00:02:06,500 - 00:02:08,180] Okay.
+- [00:02:08,180 - 00:02:10,440] Let's remember what an exponential is.
+- [00:02:10,440 - 00:02:13,020] An exponential is an exponential function.
+- [00:02:13,020 - 00:02:15,700] It has the form e, e is
+- [00:02:15,700 - 00:02:18,380] a certain number, to the alpha x.
+- [00:02:18,380 - 00:02:19,980] X, alpha is a number.
+- [00:02:19,980 - 00:02:23,120] It could be any number, real or complex.
+- [00:02:23,120 - 00:02:24,160] Or pure or nothing.
+- [00:02:24,160 - 00:02:24,520] Okay.
+- [00:02:24,520 - 00:02:25,860] Or imaginary.
+- [00:02:25,860 - 00:02:27,170] And e to the alpha
+- [00:02:27,170 - 00:02:28,480] x is a function of x.
+- [00:02:28,480 - 00:02:31,840] An exponential is a function which grows,
+- [00:02:31,840 - 00:02:35,200] in this case with respect to x,
+- [00:02:35,200 - 00:02:39,360] by an amount, each separate little interval of x,
+- [00:02:39,360 - 00:02:42,800] it grows by an amount proportional to itself.
+- [00:02:42,800 - 00:02:46,900] For example, a population of a petri dish.
+- [00:02:46,900 - 00:02:49,600] The increase in the population
+- [00:02:49,600 - 00:02:52,300] is proportional to the population itself.
+- [00:02:52,300 - 00:02:54,500] And so the hallmark of an exponential,
+- [00:02:54,520 - 00:02:57,900] let's call this f of x,
+- [00:02:57,900 - 00:03:00,050] is that the derivative of f
+- [00:03:00,050 - 00:03:02,200] of x, with respect to x,
+- [00:03:02,200 - 00:03:04,770] is proportional, in this case
+- [00:03:04,770 - 00:03:07,340] with the proportionality factor alpha,
+- [00:03:07,340 - 00:03:09,300] times f itself.
+- [00:03:09,300 - 00:03:12,760] The rate of change is proportional to f itself.
+- [00:03:12,760 - 00:03:15,260] And such a function is called an exponential,
+- [00:03:15,260 - 00:03:17,760] and it's denoted e to the alpha x.
+- [00:03:17,760 - 00:03:19,890] Or something, it can be a
+- [00:03:19,890 - 00:03:22,020] number times e to the alpha x.
+- [00:03:22,020 - 00:03:22,400] Okay.
+- [00:03:22,400 - 00:03:23,860] That's the hallmark of an exponential.
+- [00:03:23,860 - 00:03:26,630] Now, let me remind you of
+- [00:03:26,630 - 00:03:29,400] some facts about sines and cosines,
+- [00:03:29,400 - 00:03:32,540] and then put them together very quickly.
+- [00:03:32,540 - 00:03:35,240] Sines and cosines, you know what they are.
+- [00:03:35,240 - 00:03:38,360] They're functions which oscillate like this.
+- [00:03:38,360 - 00:03:41,430] That's sine of x, and cosine
+- [00:03:41,430 - 00:03:44,500] of x is exactly the same function,
+- [00:03:44,500 - 00:03:46,800] except shifted over by 90
+- [00:03:46,800 - 00:03:49,100] degrees, and it looks like that.
+- [00:03:49,100 - 00:03:50,660] And I'm sure you all know this.
+- [00:03:50,660 - 00:03:53,340] I won't bother going into detail.
+- [00:03:53,340 - 00:03:59,100] But the important thing about sine of, let's say, kx.
+- [00:03:59,100 - 00:04:02,220] Let's call it sine of kx.
+- [00:04:02,220 - 00:04:05,780] Sine of k, where k is a number,
+- [00:04:05,780 - 00:04:09,340] any number, real number in this case, times x.
+- [00:04:09,340 - 00:04:12,580] Could be positive, could be negative.
+- [00:04:12,580 - 00:04:17,339] And the other function of interest is cosine of kx.
+- [00:04:17,339 - 00:04:19,480] All right.
+- [00:04:19,480 - 00:04:21,329] Sine of kx and cosine of
+- [00:04:21,329 - 00:04:23,180] kx can be differentiated, both of them.
+- [00:04:23,180 - 00:04:25,220] And I'll just remind you what the derivative is.
+- [00:04:25,220 - 00:04:26,760] No, you'll remind me.
+- [00:04:26,760 - 00:04:28,970] What's the derivative of sine
+- [00:04:28,970 - 00:04:31,180] of kx with respect to x?
+- [00:04:31,180 - 00:04:37,660] The sine of kx with respect to
+- [00:04:37,660 - 00:04:44,140] x is equal to k times cosine kx.
+- [00:04:44,140 - 00:04:48,540] And the derivative of cosine with
+- [00:04:48,540 - 00:04:52,940] respect to x is minus k sine.
+- [00:04:53,180 - 00:04:55,220] So you get the derivative of sine of kx.
+- [00:04:55,220 - 00:04:57,220] So neither one of these is an exponential.
+- [00:04:57,220 - 00:04:59,220] Neither one has the property that when you differentiate it,
+- [00:04:59,220 - 00:05:03,220] you get something back proportional to itself.
+- [00:05:03,220 - 00:05:05,220] They have the odd property that when you differentiate one,
+- [00:05:05,220 - 00:05:08,220] you get something proportional to the other,
+- [00:05:08,220 - 00:05:11,220] in one case with a minus sign.
+- [00:05:11,220 - 00:05:14,220] In each case, there's a cosine of kx.
+- [00:05:14,220 - 00:05:18,220] Cosine kx, thank you.
+- [00:05:18,220 - 00:05:20,180] Cosine kx.
+- [00:05:20,180 - 00:05:22,180] So you differentiate this one, you get the other one.
+- [00:05:22,180 - 00:05:23,180] You differentiate the other one.
+- [00:05:23,180 - 00:05:25,220] You get minus the first one.
+- [00:05:25,220 - 00:05:26,220] All right.
+- [00:05:26,220 - 00:05:28,720] So out of these two,
+- [00:05:28,720 - 00:05:31,220] you can now build an exponential.
+- [00:05:31,220 - 00:05:34,220] But it's an exponential of an imaginary thing.
+- [00:05:34,220 - 00:05:36,720] So let's just do it
+- [00:05:36,720 - 00:05:39,220] once and be done with it.
+- [00:05:39,220 - 00:05:45,700] If you take the combination, cosine kx plus i
+- [00:05:45,700 - 00:05:52,180] sine kx, i being the square root of minus 1,
+- [00:05:52,180 - 00:05:53,180] and you differentiate it.
+- [00:05:53,180 - 00:05:56,700] If you differentiate it with respect
+- [00:05:56,700 - 00:06:00,220] to x, what do you get?
+- [00:06:00,220 - 00:06:05,720] You get from cosine, you
+- [00:06:05,720 - 00:06:11,220] get minus sine kx plus i.
+- [00:06:11,220 - 00:06:14,220] I'm sorry.
+- [00:06:14,220 - 00:06:18,220] Minus k sine kx plus ik.
+- [00:06:18,220 - 00:06:19,220] Cosine kx.
+- [00:06:19,220 - 00:06:20,220] Cosine kx.
+- [00:06:20,220 - 00:06:21,220] Cosine kx.
+- [00:06:21,220 - 00:06:22,220] Cosine kx.
+- [00:06:22,220 - 00:06:25,260] Did I do it correctly now?
+- [00:06:25,260 - 00:06:27,260] I think I did.
+- [00:06:27,260 - 00:06:32,760] Which is, just spend a couple of minutes doing the
+- [00:06:32,760 - 00:06:38,260] algebra, i times k times the original thing back again.
+- [00:06:38,260 - 00:06:44,260] Cosine kx plus i sine of kx.
+- [00:06:44,260 - 00:06:47,240] In other words, to make a long
+- [00:06:47,240 - 00:06:50,220] story short, cosine kx plus i sine kx.
+- [00:06:50,220 - 00:06:51,220] Cosine kx.
+- [00:06:51,220 - 00:06:52,260] Cosine kx.
+- [00:06:52,260 - 00:06:53,260] Cosine kx.
+- [00:06:53,260 - 00:06:54,260] Cosine kx.
+- [00:06:54,260 - 00:06:55,260] Cosine kx.
+- [00:06:55,260 - 00:06:58,260] Is the function e to the ikx.
+- [00:06:58,260 - 00:07:01,260] When you differentiate it with respect to
+- [00:07:01,260 - 00:07:04,260] x, you get ik times the same thing.
+- [00:07:04,260 - 00:07:05,260] All right.
+- [00:07:05,260 - 00:07:08,260] So that's an important mathematical fact
+- [00:07:08,260 - 00:07:11,260] that comes up over and over again.
+- [00:07:11,260 - 00:07:14,260] Sines and cosines are of course
+- [00:07:14,260 - 00:07:17,260] the functions which describe wave-like oscillations, either
+- [00:07:17,260 - 00:07:19,220] oscillations with respect to space.
+- [00:07:19,220 - 00:07:20,220] If x is a space, then it's a space.
+- [00:07:20,220 - 00:07:22,740] If x is a space coordinate,
+- [00:07:22,740 - 00:07:25,260] there's an oscillation that oscillates with space.
+- [00:07:25,260 - 00:07:28,260] If x happens to be time, it
+- [00:07:28,260 - 00:07:31,260] corresponds to an oscillation with respect to time.
+- [00:07:31,260 - 00:07:32,260] All right.
+- [00:07:32,260 - 00:07:33,260] We'll come.
+- [00:07:33,260 - 00:07:39,260] Now let's consider in a little more detail,
+- [00:07:39,260 - 00:07:45,260] well, not so much detail, but just quick review.
+- [00:07:45,260 - 00:07:47,260] All right.
+- [00:07:47,260 - 00:07:48,260] We have a wave.
+- [00:07:48,260 - 00:07:50,300] The wave is moving past us.
+- [00:07:50,300 - 00:07:51,800] It has a certain frequency,
+- [00:07:51,800 - 00:07:53,300] and it has a certain wavelength.
+- [00:07:53,300 - 00:07:55,300] Let me just remind you of
+- [00:07:55,300 - 00:07:57,300] the connections, because we'll use them.
+- [00:07:57,300 - 00:07:59,300] We can call f the frequency.
+- [00:07:59,300 - 00:08:03,300] It's the number of cycles that pass you every second.
+- [00:08:03,300 - 00:08:04,300] Frequency.
+- [00:08:04,300 - 00:08:05,300] Frequency.
+- [00:08:05,300 - 00:08:10,300] And it's measured in cycles per second.
+- [00:08:10,300 - 00:08:12,300] C stands for cycles per second.
+- [00:08:12,300 - 00:08:16,300] A cycle is one full oscillation of the wave.
+- [00:08:16,300 - 00:08:17,260] Another definition.
+- [00:08:17,260 - 00:08:18,260] Now this is definition.
+- [00:08:18,260 - 00:08:22,300] Omega is another form of the frequency.
+- [00:08:22,300 - 00:08:25,800] It's the angular frequency measured in radians per second,
+- [00:08:25,800 - 00:08:29,300] and it's just equal to 2 pi times f.
+- [00:08:29,300 - 00:08:32,299] So f and omega are the same
+- [00:08:32,299 - 00:08:35,299] thing except for a factor of 2 pi.
+- [00:08:35,299 - 00:08:39,799] And I may go back and forth between them, try to
+- [00:08:39,799 - 00:08:44,300] keep equations as simple as possible with as few factors of pi.
+- [00:08:44,300 - 00:08:46,300] So sometimes I may use omega.
+- [00:08:46,300 - 00:08:47,300] Sometimes I may use f.
+- [00:08:47,300 - 00:08:48,260] All right.
+- [00:08:48,260 - 00:08:49,300] Okay.
+- [00:08:49,300 - 00:08:59,300] Lambda is, of course, the wavelength.
+- [00:08:59,300 - 00:09:01,300] And now for a light wave, a
+- [00:09:01,300 - 00:09:03,300] light wave moves at the speed of light.
+- [00:09:03,300 - 00:09:06,300] Because it's moving past you with the speed
+- [00:09:06,300 - 00:09:09,300] of light, the wavelength and the frequency are related.
+- [00:09:09,300 - 00:09:12,300] And they're related by the formula.
+- [00:09:12,300 - 00:09:16,300] The wavelength is the distance traveled in one full cycle.
+- [00:09:16,300 - 00:09:16,800] And if you move it, it's
+- [00:09:16,800 - 00:09:17,300] the distance traveled in one full cycle.
+- [00:09:17,300 - 00:09:20,319] And if you multiply that by the
+- [00:09:20,319 - 00:09:23,339] frequency, that gives you the speed of light.
+- [00:09:23,339 - 00:09:24,339] That's the velocity.
+- [00:09:24,339 - 00:09:27,339] The frequency is how long, well, the inverse of
+- [00:09:27,339 - 00:09:30,339] the time that it takes to go one full cycle.
+- [00:09:30,339 - 00:09:32,839] So this is a distance divided by the
+- [00:09:32,839 - 00:09:35,339] time that it takes to go one full cycle.
+- [00:09:35,339 - 00:09:38,339] And for a light ray, this is c.
+- [00:09:38,339 - 00:09:40,339] If it's a sound wave, then
+- [00:09:40,339 - 00:09:42,339] you put the speed of sound there.
+- [00:09:42,339 - 00:09:44,339] If it's a water wave, you put the speed
+- [00:09:44,339 - 00:09:46,339] of water waves there, or whatever it happens to be.
+- [00:09:46,340 - 00:09:50,840] But we'll be, of course,
+- [00:09:50,840 - 00:09:55,340] particularly interested in light waves.
+- [00:09:55,340 - 00:09:57,340] Now, that's one set of equations.
+- [00:09:57,340 - 00:10:00,840] The other set of equations that we discussed last
+- [00:10:00,840 - 00:10:04,340] time, just a quick, brief review of last time,
+- [00:10:04,340 - 00:10:08,340] is the equations of quantum mechanics,
+- [00:10:08,340 - 00:10:12,340] which relate wave-like motions to particles.
+- [00:10:12,340 - 00:10:13,860] And we're not going to go
+- [00:10:13,860 - 00:10:15,380] in heavy depth into the explanation.
+- [00:10:16,340 - 00:10:18,340] We're going to go in deep
+- [00:10:18,340 - 00:10:20,340] depth into the explanation of these equations.
+- [00:10:20,340 - 00:10:22,840] For that, you go back and
+- [00:10:22,840 - 00:10:25,340] open up the lectures on quantum mechanics.
+- [00:10:25,340 - 00:10:28,340] But nevertheless, I'll try to be as complete
+- [00:10:28,340 - 00:10:31,340] as possible, or at least as self-contained as possible.
+- [00:10:31,340 - 00:10:33,840] The important thing when going to quantum
+- [00:10:33,840 - 00:10:36,340] mechanics is a new number, Planck's constant.
+- [00:10:36,340 - 00:10:39,840] It comes in two varieties,
+- [00:10:39,840 - 00:10:43,340] not varieties, two separate notations.
+- [00:10:43,340 - 00:10:46,340] There's the old Planck's constant.
+- [00:10:46,340 - 00:10:50,340] Which was Planck's original notation.
+- [00:10:50,340 - 00:10:52,840] And then there's the new Planck's
+- [00:10:52,840 - 00:10:55,340] constant, which is the same as
+- [00:11:05,340 - 00:11:07,840] Which is the same as the old Planck's
+- [00:11:07,840 - 00:11:10,340] constant, except for a factor of 2 pi.
+- [00:11:10,340 - 00:11:13,340] And that 2 pi is put there, so...
+- [00:11:13,340 - 00:11:14,340] To save 2 pi's in somebody else's...
+- [00:11:14,340 - 00:11:15,340] To save 2 pi's in somebody else's...
+- [00:11:15,340 - 00:11:18,340] To save 2 pi's in somebody else's equation.
+- [00:11:18,340 - 00:11:20,340] But they always come up, and
+- [00:11:20,340 - 00:11:22,340] there's just no escape from 2 pi's.
+- [00:11:22,340 - 00:11:24,340] You're always going to have them.
+- [00:11:24,340 - 00:11:27,340] But the other definition is h-bar, and that's
+- [00:11:27,340 - 00:11:30,340] the old Planck, that's the new Planck's constant.
+- [00:11:30,340 - 00:11:34,340] That's the old Planck's constant divided by 2 pi.
+- [00:11:34,340 - 00:11:37,340] I will simply save 2 pi's by
+- [00:11:37,340 - 00:11:40,340] sometimes using h and sometimes using h-bar.
+- [00:11:40,340 - 00:11:43,340] Try to keep the number of 2 pi's...
+- [00:11:43,340 - 00:11:46,340] To a minimum.
+- [00:11:46,340 - 00:11:49,340] Now, lambda times...
+- [00:11:49,340 - 00:11:50,340] Let's see.
+- [00:11:50,340 - 00:11:52,340] Okay.
+- [00:11:52,340 - 00:11:54,340] Yeah.
+- [00:11:54,340 - 00:11:55,340] That was...
+- [00:11:55,340 - 00:11:57,340] That's not an equation, that's just a definition.
+- [00:11:57,340 - 00:11:58,340] And what is h?
+- [00:11:58,340 - 00:11:59,840] h is a number, which
+- [00:11:59,840 - 00:12:01,340] is a tiny, tiny, tiny number.
+- [00:12:01,340 - 00:12:03,340] Anybody remember what it is?
+- [00:12:03,340 - 00:12:05,340] 6 times 10 to the minus something.
+- [00:12:05,340 - 00:12:07,340] 34 or something?
+- [00:12:07,340 - 00:12:08,340] In some units.
+- [00:12:08,340 - 00:12:10,340] In some units or another.
+- [00:12:10,340 - 00:12:12,340] Oh, that was an interesting question.
+- [00:12:12,340 - 00:12:16,340] In my email, it showed up somebody questioning
+- [00:12:16,340 - 00:12:20,340] whether the origin of the unit meter, pointing out...
+- [00:12:20,340 - 00:12:22,340] Let's see, what is the meter?
+- [00:12:22,340 - 00:12:24,840] The meter is 1 40 millionth of
+- [00:12:24,840 - 00:12:27,340] the way of the circumference of the Earth.
+- [00:12:27,340 - 00:12:29,340] And said, no, I was wrong.
+- [00:12:29,340 - 00:12:31,340] It didn't have anything to do with this.
+- [00:12:31,340 - 00:12:33,340] It's 1 40 millionth of the...
+- [00:12:33,340 - 00:12:36,340] Do you think that somebody just came along and said, let's define
+- [00:12:36,340 - 00:12:39,340] a unit which is 1 40 millionth of the circumference of the Earth?
+- [00:12:39,340 - 00:12:41,340] No, of course not.
+- [00:12:41,340 - 00:12:43,340] That unit had been in use...
+- [00:12:43,340 - 00:12:44,340] I don't know whether it
+- [00:12:44,340 - 00:12:45,340] was called a meter or not.
+- [00:12:45,340 - 00:12:47,340] In England, it was called the yard.
+- [00:12:47,340 - 00:12:49,340] But why 1 40 millionth?
+- [00:12:49,340 - 00:12:51,340] Why not 1 40 trillionth or 1 40...
+- [00:12:51,340 - 00:12:53,840] Well, because you wanted some unit that was
+- [00:12:53,840 - 00:12:56,340] easy to deal with for a human being.
+- [00:12:56,340 - 00:12:58,340] Good to measure rope with,
+- [00:12:58,340 - 00:13:00,340] good to measure cloth with, whatever.
+- [00:13:00,340 - 00:13:03,840] And I do believe that the origin of a unit
+- [00:13:03,840 - 00:13:07,340] which is about the length of a human being's arm...
+- [00:13:07,340 - 00:13:08,340] predated knowledge about what the
+- [00:13:08,340 - 00:13:09,340] circumference of the Earth is.
+- [00:13:09,340 - 00:13:12,840] Anyway, which in fact was
+- [00:13:12,840 - 00:13:16,340] known for a long time, but...
+- [00:13:16,340 - 00:13:17,340] Yeah.
+- [00:13:17,340 - 00:13:21,840] In any case, in standard units, meters, seconds,
+- [00:13:21,840 - 00:13:26,340] and kilograms, h bar is a very small number.
+- [00:13:26,340 - 00:13:27,840] Do I have it right, something
+- [00:13:27,840 - 00:13:29,340] like 10 to the minus 34?
+- [00:13:29,340 - 00:13:30,340] Yeah.
+- [00:13:30,340 - 00:13:31,340] 1 point...
+- [00:13:31,340 - 00:13:33,340] That's little less than 1.
+- [00:13:33,340 - 00:13:35,340] That's a little less than 1.
+- [00:13:35,340 - 00:13:37,340] That's a little less than 1.
+- [00:13:37,340 - 00:13:38,340] Yeah.
+- [00:13:38,340 - 00:13:40,340] That's little h bar. That's h bar.
+- [00:13:40,340 - 00:13:42,840] H is 6 times 10
+- [00:13:42,840 - 00:13:45,340] to the minus 34, or whatever.
+- [00:13:45,340 - 00:13:48,340] And c, of course, is 3 times
+- [00:13:48,340 - 00:13:51,340] 10 to the 8th meters per second.
+- [00:13:51,340 - 00:13:55,340] 3 times 10 to the 8th meters per second.
+- [00:13:55,340 - 00:13:59,340] Okay, so this is just a definition of some number,
+- [00:13:59,340 - 00:14:02,340] or the definition between a relation between two numbers.
+- [00:14:02,340 - 00:14:04,840] But the fact is that
+- [00:14:04,840 - 00:14:07,340] the energy of a single photon,
+- [00:14:07,340 - 00:14:12,340] a photon associated with a wave of a given wavelength,
+- [00:14:12,340 - 00:14:15,340] and therefore a given frequency...
+- [00:14:15,340 - 00:14:18,340] Notice this equation here tells you
+- [00:14:18,340 - 00:14:21,340] the relationship between frequency and wavelength.
+- [00:14:21,340 - 00:14:25,340] Frequency and wavelength are inversely related.
+- [00:14:25,340 - 00:14:29,340] The bigger one is, the smaller the other is.
+- [00:14:29,340 - 00:14:32,340] The energy of a single quantum...
+- [00:14:32,340 - 00:14:35,340] Single quantum, yeah, energy...
+- [00:14:37,340 - 00:14:40,340] Now, this is not the energy of an electromagnetic wave.
+- [00:14:40,340 - 00:14:42,840] This is the energy of
+- [00:14:42,840 - 00:14:45,340] one quantum of the electromagnetic wave.
+- [00:14:45,340 - 00:14:50,340] That's equal either to h bar omega,
+- [00:14:50,340 - 00:14:53,340] where omega is the frequency of the wave,
+- [00:14:53,340 - 00:14:56,340] the angular frequency of the wave.
+- [00:14:56,340 - 00:15:01,340] Incidentally, the frequency of an electromagnetic optical...
+- [00:15:01,340 - 00:15:03,840] an optical wave, one that
+- [00:15:03,840 - 00:15:06,340] you can see with your eye,
+- [00:15:06,340 - 00:15:09,340] is very, very rapid, something like about
+- [00:15:09,340 - 00:15:12,340] 10 to the 15th cycles per second.
+- [00:15:12,340 - 00:15:13,840] Did I have that right? About
+- [00:15:13,840 - 00:15:15,340] 10 to the 15th cycles per second?
+- [00:15:15,340 - 00:15:19,340] So, typically, omega is very, very large,
+- [00:15:19,340 - 00:15:21,340] 10 to the 15th, blah, blah, blah, blah, per second.
+- [00:15:21,340 - 00:15:25,340] But h bar is more than small enough to
+- [00:15:25,340 - 00:15:29,340] make the energy of a single quantum very, very small.
+- [00:15:29,340 - 00:15:30,840] If you multiply these two in
+- [00:15:30,840 - 00:15:32,340] the units that we've been using,
+- [00:15:32,340 - 00:15:34,340] you get the energy in joules,
+- [00:15:34,340 - 00:15:36,340] and you find out that the
+- [00:15:36,340 - 00:15:38,340] energy in joules is very small,
+- [00:15:38,340 - 00:15:41,340] 10 to the minus 19th, or something like that.
+- [00:15:41,340 - 00:15:45,340] So it would take a huge number of optical photons
+- [00:15:45,340 - 00:15:47,840] to add up to
+- [00:15:47,840 - 00:15:50,340] any appreciable macroscopic conventional energy.
+- [00:15:50,340 - 00:15:51,340] All right, so the energy...
+- [00:15:51,340 - 00:15:53,340] And this, of course, is also
+- [00:15:53,340 - 00:15:55,340] equal to the other Planck's constant
+- [00:15:55,340 - 00:15:58,340] times the other frequency.
+- [00:15:58,340 - 00:16:03,340] So they're the same thing, just two different notations.
+- [00:16:03,340 - 00:16:05,340] All right, now let's talk about momentum.
+- [00:16:05,340 - 00:16:08,340] Let's remind ourselves about momentum.
+- [00:16:08,340 - 00:16:09,840] Energy, incidentally, and
+- [00:16:09,840 - 00:16:11,340] momentum are especially interesting
+- [00:16:11,340 - 00:16:13,340] because they're conserved quantities.
+- [00:16:13,340 - 00:16:15,340] They're conserved.
+- [00:16:15,340 - 00:16:17,340] Total amount of energy is conserved.
+- [00:16:17,340 - 00:16:19,340] Total amount of momentum is conserved.
+- [00:16:19,340 - 00:16:22,340] And therefore, they're good bookkeeping devices,
+- [00:16:22,340 - 00:16:26,340] good for writing balance equations,
+- [00:16:26,340 - 00:16:32,340] and useful, among other things, besides being deep.
+- [00:16:32,340 - 00:16:35,340] Momentum is a vector.
+- [00:16:35,340 - 00:16:36,340] It points in a direction,
+- [00:16:36,340 - 00:16:41,340] points typically in the direction or motion of an object.
+- [00:16:41,340 - 00:16:47,340] It's defined by being conserved.
+- [00:16:47,340 - 00:16:50,340] But having said that it's defined by being conserved,
+- [00:16:50,340 - 00:16:52,340] by the fact that it's conserved,
+- [00:16:52,340 - 00:16:54,340] we count it and so forth,
+- [00:16:54,340 - 00:16:56,840] we can ask, what is the momentum
+- [00:16:56,840 - 00:16:59,340] of various kinds of objects in nature?
+- [00:16:59,340 - 00:17:01,340] And the first thing we can write down
+- [00:17:01,340 - 00:17:04,339] is the momentum of a non-relativistic object.
+- [00:17:04,339 - 00:17:07,339] Non-relativistic object just means one moving
+- [00:17:07,339 - 00:17:10,339] slower than the speed of light.
+- [00:17:10,339 - 00:17:12,339] Oh, a lot slower.
+- [00:17:12,339 - 00:17:14,339] A lot slower than the speed of light.
+- [00:17:14,339 - 00:17:16,339] A lot slower.
+- [00:17:16,339 - 00:17:18,839] The momentum of such an
+- [00:17:18,839 - 00:17:21,339] object is proportional to its mass,
+- [00:17:21,339 - 00:17:25,339] times its velocity, and its velocity is also a vector.
+- [00:17:25,339 - 00:17:26,339] All right.
+- [00:17:26,339 - 00:17:30,340] If I give you any pulse of radiation,
+- [00:17:31,340 - 00:17:33,340] electromagnetic radiation,
+- [00:17:33,340 - 00:17:37,340] and it's all collimated along a given direction,
+- [00:17:37,340 - 00:17:40,340] not a dispersed wave which is going
+- [00:17:40,340 - 00:17:43,340] out in a variety of different directions,
+- [00:17:43,340 - 00:17:45,840] but in which everything is lined
+- [00:17:45,840 - 00:17:48,340] up and collimated along an axis,
+- [00:17:48,340 - 00:17:54,340] then this is non-relativistic.
+- [00:17:54,340 - 00:17:58,340] The opposite extreme is super-relativistic,
+- [00:17:58,340 - 00:18:00,340] in other words, moving with the speed of light,
+- [00:18:01,340 - 00:18:03,340] and it's not a very good formula.
+- [00:18:03,340 - 00:18:05,340] Now, this formula is not right
+- [00:18:05,340 - 00:18:07,340] for moving with the speed of light.
+- [00:18:07,340 - 00:18:10,340] You could plug in for v, the speed of light,
+- [00:18:10,340 - 00:18:12,340] but what do you plug in for m?
+- [00:18:12,340 - 00:18:14,840] Remember, I told you, m is
+- [00:18:14,840 - 00:18:17,340] always, by definition, the rest mass,
+- [00:18:17,340 - 00:18:19,340] what we used to call a rest mass.
+- [00:18:19,340 - 00:18:22,340] And a photon doesn't have a rest mass.
+- [00:18:22,340 - 00:18:24,340] Okay? Its rest mass is zero.
+- [00:18:24,340 - 00:18:27,340] Try to bring it to rest, it has nothing.
+- [00:18:27,340 - 00:18:31,340] But this is not the right formula.
+- [00:18:31,340 - 00:18:33,840] This formula has a look
+- [00:18:33,840 - 00:18:36,340] which looks a bit like this.
+- [00:18:36,340 - 00:18:38,840] If we were to have
+- [00:18:38,840 - 00:18:41,340] used, inappropriately, e equals mc squared.
+- [00:18:41,340 - 00:18:43,340] Now, mainly I'm using this for
+- [00:18:43,340 - 00:18:45,340] units, in order to get units right.
+- [00:18:45,340 - 00:18:48,340] Energy is mass times velocity squared.
+- [00:18:48,340 - 00:18:51,840] Then, of course, mass would be an
+- [00:18:51,840 - 00:18:55,340] energy divided by the speed of light squared.
+- [00:18:55,340 - 00:19:00,340] All right, now if I, as I said, inappropriately,
+- [00:19:00,340 - 00:19:05,340] ascribed to a photon a mass equal
+- [00:19:05,340 - 00:19:10,340] to its energy divided by c squared,
+- [00:19:10,340 - 00:19:13,340] the energy of the photon divided by c squared,
+- [00:19:13,340 - 00:19:15,340] and then said that the
+- [00:19:15,340 - 00:19:17,340] velocity of the photon was c,
+- [00:19:17,340 - 00:19:21,340] in fact, more or less somewhat accidentally,
+- [00:19:21,340 - 00:19:23,340] I would get the right answer
+- [00:19:23,340 - 00:19:25,340] that the magnitude of the momentum,
+- [00:19:25,340 - 00:19:28,340] this should be read as the magnitude of the momentum,
+- [00:19:28,340 - 00:19:30,340] Or you could just write, like, r hat.
+- [00:19:30,340 - 00:19:32,340] Yeah.
+- [00:19:32,340 - 00:19:34,840] Right. But the magnitude of the
+- [00:19:34,840 - 00:19:37,340] momentum is the energy of the photon,
+- [00:19:37,340 - 00:19:40,340] or the energy of the electromagnetic wave,
+- [00:19:40,340 - 00:19:42,840] for any electromagnetic wave all
+- [00:19:42,840 - 00:19:45,340] moving in a constant direction,
+- [00:19:45,340 - 00:19:47,840] the direction of the momentum is, of
+- [00:19:47,840 - 00:19:50,340] course, the direction of motion of the wave.
+- [00:19:50,340 - 00:19:52,340] That's easy.
+- [00:19:52,340 - 00:19:55,840] But the magnitude of the momentum is the energy
+- [00:19:55,840 - 00:19:59,340] of the wave divided by the speed of light.
+- [00:20:00,340 - 00:20:02,840] From that, we can say, supposing the
+- [00:20:02,840 - 00:20:05,340] wave consisted only of a single photon.
+- [00:20:05,340 - 00:20:08,340] Now, are we using it legitimately?
+- [00:20:08,340 - 00:20:10,340] Yeah, you get the right answer.
+- [00:20:10,340 - 00:20:13,340] What is the momentum of a single photon?
+- [00:20:13,340 - 00:20:16,340] And to get the momentum of a single photon,
+- [00:20:16,340 - 00:20:19,840] you just plug the energy from
+- [00:20:19,840 - 00:20:23,340] here into the formula for the momentum.
+- [00:20:23,340 - 00:20:25,340] So let's do that.
+- [00:20:25,340 - 00:20:28,340] The momentum for a single photon.
+- [00:20:30,340 - 00:20:35,340] Now, let's do it over here.
+- [00:20:35,340 - 00:20:37,340] Momentum of a single photon.
+- [00:20:37,340 - 00:20:39,340] Let's write photon over here.
+- [00:20:39,340 - 00:20:40,340] Can that be read?
+- [00:20:40,340 - 00:20:41,340] Everybody read that?
+- [00:20:41,340 - 00:20:43,340] The momentum of a photon.
+- [00:20:43,340 - 00:20:46,340] And I'm concentrating now on its magnitude.
+- [00:20:46,340 - 00:20:50,340] Incidentally, the double bar here means the magnitude of it.
+- [00:20:50,340 - 00:20:52,340] The direction is along the
+- [00:20:52,340 - 00:20:54,340] direction of the beam of light,
+- [00:20:54,340 - 00:20:56,340] or along the direction of the photon.
+- [00:20:56,340 - 00:20:57,340] Let's plug it in.
+- [00:20:57,340 - 00:20:59,340] The energy.
+- [00:20:59,340 - 00:21:02,340] Let's see, let's use this formula over here.
+- [00:21:02,340 - 00:21:03,340] H times frequency.
+- [00:21:03,340 - 00:21:11,340] Energy is H frequency divided by C.
+- [00:21:11,340 - 00:21:13,340] Right?
+- [00:21:13,340 - 00:21:19,340] What's the frequency divided by C?
+- [00:21:19,340 - 00:21:20,340] Right.
+- [00:21:20,340 - 00:21:23,340] Wavelength or one over the wavelength?
+- [00:21:23,340 - 00:21:27,340] Frequency divided by C.
+- [00:21:27,340 - 00:21:28,340] I've divided by C.
+- [00:21:28,340 - 00:21:30,340] Is equal to one over lambda, right?
+- [00:21:30,340 - 00:21:32,340] Did I get that right?
+- [00:21:32,340 - 00:21:33,340] Yes.
+- [00:21:33,340 - 00:21:36,340] Frequency divided by C is one over lambda.
+- [00:21:36,340 - 00:21:42,340] So, this is just the equation that the photon momentum.
+- [00:21:42,340 - 00:21:48,340] Photon momentum in magnitude is equal to Planck's constant.
+- [00:21:48,340 - 00:21:50,340] That makes it small.
+- [00:21:50,340 - 00:21:53,340] Times the frequency divided by C,
+- [00:21:53,340 - 00:21:56,340] which is divided by the wavelength.
+- [00:21:56,340 - 00:21:58,840] So, the smaller the wavelength, the
+- [00:21:58,840 - 00:22:01,340] larger the momentum of the photon.
+- [00:22:01,340 - 00:22:03,340] That's a pattern, and it's in
+- [00:22:03,340 - 00:22:05,340] some sense the most important fact
+- [00:22:05,340 - 00:22:09,340] coming from quantum mechanics about particle physics.
+- [00:22:09,340 - 00:22:12,340] That if you want short wavelength,
+- [00:22:12,340 - 00:22:17,340] for the purposes of studying very small objects,
+- [00:22:17,340 - 00:22:19,340] the price that you pay is you have
+- [00:22:19,340 - 00:22:21,340] to put a lot of momentum in it.
+- [00:22:21,340 - 00:22:23,340] Thank you.
+- [00:22:23,340 - 00:22:24,340] Question.
+- [00:22:24,340 - 00:22:25,340] Yeah.
+- [00:22:26,340 - 00:22:33,340] The formula E equals H bar omega.
+- [00:22:33,340 - 00:22:34,340] Yeah.
+- [00:22:34,340 - 00:22:37,340] Is that fundamental or is that derived from some symmetry
+- [00:22:37,340 - 00:22:41,340] that we're going to learn later on?
+- [00:22:41,340 - 00:22:45,840] It derives from the quantum
+- [00:22:45,840 - 00:22:50,340] mechanics of a harmonic oscillator.
+- [00:22:50,340 - 00:22:53,340] So, the place to look it up is on lectures,
+- [00:22:53,340 - 00:22:56,340] previous lectures about the harmonic oscillator.
+- [00:22:56,340 - 00:22:58,340] I will make use of those lectures,
+- [00:22:58,340 - 00:23:00,340] but that's where it comes from,
+- [00:23:00,340 - 00:23:03,340] from a deeper point of view.
+- [00:23:03,340 - 00:23:07,340] We'll come to the right statements,
+- [00:23:07,340 - 00:23:09,340] although not the demonstration of them.
+- [00:23:09,340 - 00:23:10,340] Yeah.
+- [00:23:10,340 - 00:23:12,340] Just to touch on that.
+- [00:23:12,340 - 00:23:14,340] Since we have waves,
+- [00:23:14,340 - 00:23:17,340] in a group of photons or electromagnetic wave,
+- [00:23:17,340 - 00:23:18,340] it has an amplitude,
+- [00:23:18,340 - 00:23:20,340] and all waves have amplitudes.
+- [00:23:20,340 - 00:23:22,340] But a photon in itself,
+- [00:23:22,340 - 00:23:24,340] we haven't talked about its amplitude.
+- [00:23:24,340 - 00:23:25,340] Let me answer the question.
+- [00:23:25,340 - 00:23:27,340] Let me answer the question now.
+- [00:23:27,340 - 00:23:29,340] I knew it was there,
+- [00:23:29,340 - 00:23:32,340] and I was waiting to get to the right point,
+- [00:23:32,340 - 00:23:34,340] but why don't I just say it now.
+- [00:23:34,340 - 00:23:37,340] Right.
+- [00:23:37,340 - 00:23:40,340] An electromagnetic wave or any other wave
+- [00:23:40,340 - 00:23:42,340] has several features,
+- [00:23:42,340 - 00:23:45,340] one of which I have not written down here.
+- [00:23:45,340 - 00:23:47,340] It's the amplitude of the wave.
+- [00:23:47,340 - 00:23:49,340] Now, the amplitude of the wave,
+- [00:23:49,340 - 00:23:50,340] well, okay,
+- [00:23:50,340 - 00:23:53,340] here are two waves with the same frequency,
+- [00:23:53,340 - 00:23:55,340] and they're the same,
+- [00:23:55,340 - 00:23:57,340] in every respect the same,
+- [00:23:57,340 - 00:24:00,340] except that there's a,
+- [00:24:00,340 - 00:24:02,340] and here's another one.
+- [00:24:06,340 - 00:24:09,340] One of them is just some small number
+- [00:24:09,340 - 00:24:11,340] times sine kx, for example.
+- [00:24:11,340 - 00:24:13,340] Maybe the small one is just sine kx.
+- [00:24:13,340 - 00:24:15,340] The other one is a great big numerical multiple,
+- [00:24:15,340 - 00:24:19,340] which I'll call A times sine kx.
+- [00:24:19,340 - 00:24:20,340] They're exactly the same,
+- [00:24:20,340 - 00:24:22,340] except one is much stronger than the other.
+- [00:24:23,340 - 00:24:25,340] It's got a larger amplitude.
+- [00:24:25,340 - 00:24:28,340] A is the amplitude of the wave.
+- [00:24:31,340 - 00:24:33,340] And now the question is,
+- [00:24:33,340 - 00:24:35,340] in photon language,
+- [00:24:35,340 - 00:24:37,340] what is the meaning of the amplitude?
+- [00:24:37,340 - 00:24:40,340] Or, another question you could ask is,
+- [00:24:40,340 - 00:24:43,340] what is the amplitude associated with one photon?
+- [00:24:43,340 - 00:24:46,340] Now, the question is a little bit ambiguous,
+- [00:24:46,340 - 00:24:49,340] because quantum mechanics always has uncertainties.
+- [00:24:49,340 - 00:24:52,340] Technically, it has uncertainties,
+- [00:24:52,340 - 00:24:55,340] and you can't measure everything simultaneously.
+- [00:24:55,340 - 00:24:57,340] For example, you can't measure both the amplitude
+- [00:24:57,340 - 00:24:58,340] and the phase of the wave.
+- [00:24:58,340 - 00:25:00,340] The phase of the wave is where it's located,
+- [00:25:00,340 - 00:25:02,340] but never mind that.
+- [00:25:02,340 - 00:25:06,340] Or, there's a sensible order of magnitude question.
+- [00:25:06,340 - 00:25:08,340] Order of magnitude, what is the amplitude
+- [00:25:08,340 - 00:25:13,340] that's associated with a single photon, for example?
+- [00:25:13,340 - 00:25:16,340] Okay, the answer is the following.
+- [00:25:16,340 - 00:25:18,340] The energy of a wave,
+- [00:25:18,340 - 00:25:21,340] now this is a completely classical statement,
+- [00:25:22,340 - 00:25:25,340] the energy of a wave is proportional
+- [00:25:25,340 - 00:25:29,340] to k times the square of the amplitude.
+- [00:25:29,340 - 00:25:33,340] For example, if this was the electromagnetic field,
+- [00:25:33,340 - 00:25:36,340] let's say the electric field or the magnetic field
+- [00:25:36,340 - 00:25:39,340] associated with an electromagnetic wave,
+- [00:25:39,340 - 00:25:43,340] what's the energy of an electromagnetic field?
+- [00:25:43,340 - 00:25:45,340] It's proportional to the
+- [00:25:45,340 - 00:25:47,340] square of the electromagnetic field.
+- [00:25:47,340 - 00:25:48,840] So, the energy of a
+- [00:25:48,840 - 00:25:50,340] wave is proportional to the square
+- [00:25:50,340 - 00:25:52,340] of the electromagnetic field.
+- [00:25:52,340 - 00:25:57,340] So, typically, the energy of a wave
+- [00:25:57,340 - 00:26:01,340] is proportional to the square of the amplitude.
+- [00:26:01,340 - 00:26:03,340] If you take...
+- [00:26:03,340 - 00:26:05,340] Ah, good.
+- [00:26:05,340 - 00:26:08,340] Now, the energy of the wave
+- [00:26:08,340 - 00:26:12,340] is also proportional to the number of photons
+- [00:26:12,340 - 00:26:14,340] in that wave.
+- [00:26:14,340 - 00:26:16,340] So, here I've described for you
+- [00:26:16,340 - 00:26:18,340] some features of a single photon,
+- [00:26:18,340 - 00:26:21,340] but a wave of light consists of a single photon.
+- [00:26:21,340 - 00:26:22,840] So, if the energy of
+- [00:26:22,840 - 00:26:24,340] a light consists of many photons,
+- [00:26:24,340 - 00:26:26,340] let's suppose the number of photons
+- [00:26:26,340 - 00:26:30,340] in some wave of light is n.
+- [00:26:30,340 - 00:26:34,340] Then, the energy is proportional to n.
+- [00:26:34,340 - 00:26:36,340] In fact, the energy will be n,
+- [00:26:36,340 - 00:26:38,340] the number of photons,
+- [00:26:38,340 - 00:26:40,340] times h-bar omega.
+- [00:26:40,340 - 00:26:43,340] So, that means that there's a proportionality
+- [00:26:43,340 - 00:26:47,340] between the square of the amplitude
+- [00:26:47,340 - 00:26:49,340] on the one hand,
+- [00:26:49,340 - 00:26:51,340] and the number of photons in that wave.
+- [00:26:51,340 - 00:26:54,340] Let's just call it little n.
+- [00:26:54,340 - 00:26:57,340] The precise, exact, detailed connection
+- [00:26:57,340 - 00:27:00,340] I'll work out for you another time.
+- [00:27:00,340 - 00:27:03,340] But the square of the amplitude of the wave
+- [00:27:03,340 - 00:27:06,340] is proportional to the number of photons.
+- [00:27:06,340 - 00:27:08,340] Now, there's a factor of h-bar in there
+- [00:27:08,340 - 00:27:11,340] because the square of the amplitude is the energy,
+- [00:27:11,340 - 00:27:14,340] and we should have an h-bar...
+- [00:27:14,340 - 00:27:17,340] h-bar omega
+- [00:27:17,340 - 00:27:19,340] in the energy.
+- [00:27:19,340 - 00:27:22,340] So, the square of the amplitude
+- [00:27:22,340 - 00:27:25,340] is proportional to h-bar in n.
+- [00:27:25,340 - 00:27:27,340] Now, of course, the point is that
+- [00:27:27,340 - 00:27:29,340] h-bar is an extremely small number.
+- [00:27:29,340 - 00:27:31,340] This is the energy of the wave.
+- [00:27:31,340 - 00:27:34,340] Another form, another way of writing the energy
+- [00:27:34,340 - 00:27:38,340] of a wave with many photons.
+- [00:27:38,340 - 00:27:42,340] Not a single photon, but many photons.
+- [00:27:42,340 - 00:27:46,340] And now you say, well, look,
+- [00:27:46,340 - 00:27:48,340] this is a terribly tiny number.
+- [00:27:48,340 - 00:27:51,340] How can you get any appreciable amount of energy
+- [00:27:51,340 - 00:27:53,340] in an electromagnetic wave?
+- [00:27:53,340 - 00:27:56,340] Well, the answer is by having a lot of photons.
+- [00:27:56,340 - 00:27:59,340] So, a typical electromagnetic wave
+- [00:27:59,340 - 00:28:01,340] that carries an appreciable energy
+- [00:28:01,340 - 00:28:03,340] has an enormous number of photons
+- [00:28:03,340 - 00:28:05,340] to overwhelm this factor of h-bar.
+- [00:28:05,340 - 00:28:08,340] But the amplitude, if you like,
+- [00:28:08,340 - 00:28:12,340] a, is proportional to the square root
+- [00:28:12,340 - 00:28:14,340] of the number of photons.
+- [00:28:14,340 - 00:28:17,340] So that's the missing wave category.
+- [00:28:18,340 - 00:28:21,340] This is a characteristic that I didn't write down here.
+- [00:28:21,340 - 00:28:24,340] And as I said, it is proportional to the...
+- [00:28:24,340 - 00:28:25,340] Yeah.
+- [00:28:25,340 - 00:28:28,340] I think that there's a common confusion
+- [00:28:28,340 - 00:28:30,340] about the oscillation
+- [00:28:30,340 - 00:28:31,840] when you see a diagram of
+- [00:28:31,840 - 00:28:33,340] the e and the b fields
+- [00:28:33,340 - 00:28:35,340] that are perpendicular sine waves.
+- [00:28:35,340 - 00:28:39,340] And there's a temptation to think of that
+- [00:28:39,340 - 00:28:42,340] as a spatial...
+- [00:28:42,340 - 00:28:44,340] You know, the height of the sine wave
+- [00:28:44,340 - 00:28:47,340] as being the distance that the photon
+- [00:28:47,340 - 00:28:49,340] is within the space or something.
+- [00:28:49,340 - 00:28:51,340] No, no, right, okay.
+- [00:28:51,340 - 00:28:56,340] Okay, so here's a wave.
+- [00:28:56,340 - 00:29:00,340] It's moving down the x-axis.
+- [00:29:00,340 - 00:29:02,340] What's plotted vertically here
+- [00:29:02,340 - 00:29:04,340] is not the y-axis or the z-axis.
+- [00:29:04,340 - 00:29:06,340] What's plotted vertically?
+- [00:29:06,340 - 00:29:09,340] The electric field.
+- [00:29:09,340 - 00:29:11,340] Right, so this is not a plot.
+- [00:29:11,340 - 00:29:14,340] Only one of the directions here corresponds to space.
+- [00:29:14,340 - 00:29:16,340] The other direction, of course,
+- [00:29:16,340 - 00:29:19,340] corresponds to the electric or the magnetic field.
+- [00:29:19,340 - 00:29:22,340] I think that's what you were asking me to clarify,
+- [00:29:22,340 - 00:29:24,340] and properly so.
+- [00:29:24,340 - 00:29:26,840] Now, of course, the wave
+- [00:29:26,840 - 00:29:29,340] could be oriented in any direction.
+- [00:29:29,340 - 00:29:31,340] That way, that way, that way.
+- [00:29:31,340 - 00:29:33,340] And the momentum carried by the wave
+- [00:29:33,340 - 00:29:37,340] is along the axis that the wave is moving.
+- [00:29:37,340 - 00:29:38,340] I have a question.
+- [00:29:38,340 - 00:29:39,340] Yeah.
+- [00:29:39,340 - 00:29:41,340] You say the number of photons in the wave
+- [00:29:41,340 - 00:29:44,340] being within one period of the wave?
+- [00:29:44,340 - 00:29:45,340] Both.
+- [00:29:45,340 - 00:29:49,340] You mean the number of photons within one period?
+- [00:29:49,340 - 00:29:52,340] Let's say within one period, yeah.
+- [00:29:52,340 - 00:29:56,340] Because A squared is like the power density
+- [00:29:56,340 - 00:29:57,340] rather than energy, right?
+- [00:29:57,340 - 00:29:58,340] That's right.
+- [00:29:58,340 - 00:30:03,340] So that's why it's necessary to say within one wavelength.
+- [00:30:03,340 - 00:30:04,340] That's right.
+- [00:30:04,340 - 00:30:06,340] Well, the proportionality,
+- [00:30:06,340 - 00:30:09,340] I purposefully wrote proportional to here.
+- [00:30:09,340 - 00:30:11,340] We were talking about two wavelengths,
+- [00:30:11,340 - 00:30:13,340] three wavelengths, four wavelengths.
+- [00:30:13,340 - 00:30:14,340] Of course, the answer would be...
+- [00:30:14,340 - 00:30:17,340] Well, yes, you got the right idea.
+- [00:30:17,340 - 00:30:19,840] So does that mean that the
+- [00:30:19,840 - 00:30:22,340] amplitude of a single photon is meaningless?
+- [00:30:22,340 - 00:30:25,340] Well, order of magnitude,
+- [00:30:25,340 - 00:30:30,340] it's given by this formula with n equals 1.
+- [00:30:30,340 - 00:30:33,340] But yes, in some sense it is meaningless.
+- [00:30:33,340 - 00:30:35,340] It's as meaningless...
+- [00:30:35,340 - 00:30:38,340] For an electromagnetic wave,
+- [00:30:38,340 - 00:30:42,340] an electromagnetic wave has both a magnetic field
+- [00:30:42,340 - 00:30:44,340] and an electric field.
+- [00:30:44,340 - 00:30:46,340] Now, the magnetic field and the electric field
+- [00:30:46,340 - 00:30:49,340] are related to each other by a relation
+- [00:30:49,340 - 00:30:52,340] which is similar mathematically
+- [00:30:52,340 - 00:30:55,340] to the relationship between the position of a particle
+- [00:30:55,340 - 00:30:57,340] and the velocity of a particle.
+- [00:30:57,340 - 00:30:59,340] And those are things
+- [00:30:59,340 - 00:31:01,340] which cannot be measured simultaneously.
+- [00:31:01,340 - 00:31:02,340] They are...
+- [00:31:02,340 - 00:31:04,340] The uncertainty principle prevents you
+- [00:31:04,340 - 00:31:06,340] from knowing both of them.
+- [00:31:06,340 - 00:31:08,340] And in the same way,
+- [00:31:08,340 - 00:31:09,840] there's an uncertainty principle between
+- [00:31:09,840 - 00:31:11,340] electric field and magnetic field
+- [00:31:11,340 - 00:31:13,340] that prevents you from knowing both of them.
+- [00:31:13,340 - 00:31:15,340] So yes, there are limitations on
+- [00:31:15,340 - 00:31:17,340] how well you can know the amplitude.
+- [00:31:17,340 - 00:31:20,340] But as an order of magnitude statement, this is correct.
+- [00:31:20,340 - 00:31:23,340] We'll try to do better as we go along.
+- [00:31:23,340 - 00:31:25,340] We're sort of getting into
+- [00:31:25,340 - 00:31:27,340] the subject of quantum field theory,
+- [00:31:27,340 - 00:31:31,340] which is a difficult and abstract subject.
+- [00:31:33,340 - 00:31:35,340] Okay.
+- [00:31:35,340 - 00:31:37,340] I wrote down some equations
+- [00:31:37,340 - 00:31:39,340] here which are true for photons.
+- [00:31:39,340 - 00:31:42,340] Some of them are true for any particle.
+- [00:31:42,340 - 00:31:44,340] Others are not.
+- [00:31:44,340 - 00:31:46,340] All right. The definition of frequency,
+- [00:31:46,340 - 00:31:48,340] that's a general definition.
+- [00:31:48,340 - 00:31:51,340] Omega being 2 pi f, that's perfectly good.
+- [00:31:51,340 - 00:31:55,340] Lambda equals a wavelength, that's a definition.
+- [00:31:55,340 - 00:31:57,340] This is true for waves which
+- [00:31:57,340 - 00:31:59,340] will move with the speed of light.
+- [00:31:59,340 - 00:32:02,340] So it would not be true for a general wave...
+- [00:32:02,340 - 00:32:07,340] Let's put something around those equations
+- [00:32:07,340 - 00:32:11,340] which are not expected to be of great generality.
+- [00:32:11,340 - 00:32:13,840] By great generality, I mean they would be
+- [00:32:13,840 - 00:32:16,340] true for almost any kind of wave or particle,
+- [00:32:16,340 - 00:32:18,340] whether or not it moves with the speed of light.
+- [00:32:18,340 - 00:32:20,340] This is not so general.
+- [00:32:20,340 - 00:32:22,340] This is not so general.
+- [00:32:22,340 - 00:32:23,840] Anything that has a c in
+- [00:32:23,840 - 00:32:25,340] it will not be very general.
+- [00:32:25,340 - 00:32:27,840] When I say not general, it'll be general
+- [00:32:27,840 - 00:32:30,340] for anything which moves with the speed of light.
+- [00:32:30,340 - 00:32:32,340] Okay. This is general.
+- [00:32:32,340 - 00:32:36,340] Now, energy equals h bar omega.
+- [00:32:36,340 - 00:32:39,340] That is also a very general fact.
+- [00:32:39,340 - 00:32:40,340] This clearly...
+- [00:32:40,340 - 00:32:42,340] Neither of these...
+- [00:32:44,340 - 00:32:45,840] This is specific to things which
+- [00:32:45,840 - 00:32:47,340] move with the speed of light.
+- [00:32:47,340 - 00:32:49,840] This is specific to objects which move
+- [00:32:49,840 - 00:32:52,340] with much less than the speed of light.
+- [00:32:52,340 - 00:32:54,340] There's an interpolation in between
+- [00:32:54,340 - 00:32:56,340] which I won't get into now,
+- [00:32:56,340 - 00:32:58,840] which is true for things which move
+- [00:32:58,840 - 00:33:01,340] with some fraction of the speed of light.
+- [00:33:01,340 - 00:33:03,340] Let's see if I can...
+- [00:33:03,340 - 00:33:05,340] Where were we? Yeah, we were...
+- [00:33:05,340 - 00:33:07,840] We were trying to figure out which
+- [00:33:07,840 - 00:33:10,340] equations are of great generality which are not.
+- [00:33:10,340 - 00:33:17,340] This one, hf over c, that contains c in it.
+- [00:33:17,340 - 00:33:19,340] That is not terribly general.
+- [00:33:22,340 - 00:33:24,340] Oops, where's my blue?
+- [00:33:31,340 - 00:33:35,340] Momentum equals h divided by lambda is general.
+- [00:33:35,340 - 00:33:36,340] Okay.
+- [00:33:36,340 - 00:33:37,840] Now, where this comes from, I'm not going
+- [00:33:37,840 - 00:33:39,340] to try to prove these things to you now.
+- [00:33:39,340 - 00:33:41,340] I'm just telling you as facts.
+- [00:33:41,340 - 00:33:43,340] Go back to your quantum mechanics.
+- [00:33:43,340 - 00:33:47,340] Momentum is h over lambda.
+- [00:33:47,340 - 00:33:49,340] That's general.
+- [00:33:49,340 - 00:33:54,340] Okay. Let's use these facts now.
+- [00:33:54,340 - 00:33:59,340] Here's the relationship for a photon between...
+- [00:33:59,340 - 00:34:01,340] What is it?
+- [00:34:01,340 - 00:34:05,340] Between frequency and wavelength.
+- [00:34:05,340 - 00:34:07,340] And as I said, it's not very general.
+- [00:34:07,340 - 00:34:09,840] What about a slowly moving
+- [00:34:09,840 - 00:34:12,340] electron or a slowly moving nucleus,
+- [00:34:12,340 - 00:34:15,340] or for that matter, a slowly moving bowling ball?
+- [00:34:15,340 - 00:34:22,340] What's the relationship between frequency and wavelength?
+- [00:34:22,340 - 00:34:23,340] Can we figure it out?
+- [00:34:23,340 - 00:34:26,340] Is there something on the blackboard or something...
+- [00:34:26,340 - 00:34:28,340] Do we have to add something else?
+- [00:34:28,340 - 00:34:29,340] Question.
+- [00:34:29,340 - 00:34:31,340] For an electron...
+- [00:34:31,340 - 00:34:33,340] I did tell you last time
+- [00:34:33,340 - 00:34:35,340] that electrons are also described by waves.
+- [00:34:35,340 - 00:34:36,340] Did I not?
+- [00:34:36,340 - 00:34:38,340] I told you that you
+- [00:34:38,340 - 00:34:40,340] can do interference experiments with electrons.
+- [00:34:40,340 - 00:34:42,340] So there is an electron wave.
+- [00:34:42,340 - 00:34:44,340] Let's call it psi.
+- [00:34:44,340 - 00:34:46,840] And the question now is what
+- [00:34:46,840 - 00:34:49,340] is the relationship between frequency and wavelength?
+- [00:34:49,340 - 00:34:52,340] Can we figure it out?
+- [00:34:52,340 - 00:34:54,340] Yes, we can, but we need
+- [00:34:54,340 - 00:34:56,340] to know one fact about non-relativistic systems.
+- [00:34:56,340 - 00:34:58,340] It's the analog of knowing...
+- [00:34:58,340 - 00:35:00,340] It is not the analog.
+- [00:35:00,340 - 00:35:04,340] It's knowing the relation between momentum and energy.
+- [00:35:04,340 - 00:35:05,340] Okay.
+- [00:35:05,340 - 00:35:09,340] But for an electron moving slowly,
+- [00:35:09,340 - 00:35:10,840] the momentum is not the energy
+- [00:35:10,840 - 00:35:12,340] divided by the speed of light.
+- [00:35:12,340 - 00:35:13,340] What is it?
+- [00:35:13,340 - 00:35:16,340] C squared.
+- [00:35:16,340 - 00:35:17,340] Okay.
+- [00:35:17,340 - 00:35:21,340] Energy is equal to...
+- [00:35:21,340 - 00:35:24,340] Now we can start at the beginning and write...
+- [00:35:24,340 - 00:35:26,340] I mean kinetic energy.
+- [00:35:26,340 - 00:35:31,340] One half mv squared.
+- [00:35:31,340 - 00:35:33,340] And the momentum?
+- [00:35:33,340 - 00:35:34,340] mv.
+- [00:35:34,340 - 00:35:36,340] p equals mv.
+- [00:35:36,340 - 00:35:40,340] So we can solve for the velocity.
+- [00:35:40,340 - 00:35:41,340] p over m.
+- [00:35:41,340 - 00:35:44,340] Everything is a vector, but that's alright.
+- [00:35:44,340 - 00:35:47,340] And then the energy becomes
+- [00:35:47,340 - 00:35:50,340] one half m times v squared.
+- [00:35:50,340 - 00:35:54,340] And v squared is p squared over m squared.
+- [00:35:54,340 - 00:35:59,340] If you don't know this equation, it's an important equation.
+- [00:35:59,340 - 00:36:01,340] It occurs over and over.
+- [00:36:01,340 - 00:36:03,340] The energy in terms of the momentum...
+- [00:36:03,340 - 00:36:07,340] is one half p squared divided by m.
+- [00:36:07,340 - 00:36:09,340] People get confused.
+- [00:36:09,340 - 00:36:11,340] The m is upstairs when
+- [00:36:11,340 - 00:36:13,340] you multiply by the velocity squared.
+- [00:36:13,340 - 00:36:17,340] It's downstairs when you multiply by the momentum squared.
+- [00:36:17,340 - 00:36:18,340] Okay.
+- [00:36:18,340 - 00:36:22,840] Now we have what we need to
+- [00:36:22,840 - 00:36:27,340] find the relationship between frequency and wavelength.
+- [00:36:27,340 - 00:36:29,340] Energy...
+- [00:36:29,340 - 00:36:30,340] is...
+- [00:36:30,340 - 00:36:31,340] Where is it?
+- [00:36:31,340 - 00:36:32,340] Is h bar omega...
+- [00:36:32,340 - 00:36:33,340] or h times frequency?
+- [00:36:33,340 - 00:36:34,340] Let's use h times frequency.
+- [00:36:34,340 - 00:36:36,340] Of a single electron now.
+- [00:36:36,340 - 00:36:39,340] We're talking about a single electron.
+- [00:36:39,340 - 00:36:41,840] h times the frequency of
+- [00:36:41,840 - 00:36:44,340] the wave describing that electron...
+- [00:36:44,340 - 00:36:46,340] h times frequency.
+- [00:36:46,340 - 00:36:47,340] That's energy.
+- [00:36:47,340 - 00:36:49,340] On the right hand side...
+- [00:36:49,340 - 00:36:51,340] we have one half...
+- [00:36:51,340 - 00:36:53,340] Let's put the m downstairs.
+- [00:36:53,340 - 00:36:56,340] And what about the momentum?
+- [00:36:56,340 - 00:37:00,340] The momentum is h times the frequency of the wave.
+- [00:37:00,340 - 00:37:04,340] The momentum is h divided by lambda.
+- [00:37:04,340 - 00:37:07,340] So that's h squared...
+- [00:37:07,340 - 00:37:11,340] over lambda squared.
+- [00:37:11,340 - 00:37:16,340] And we can divide this equation by h.
+- [00:37:16,340 - 00:37:19,340] And we find that the frequency...
+- [00:37:19,340 - 00:37:22,340] is one over two m...
+- [00:37:22,340 - 00:37:24,340] times Planck's constant...
+- [00:37:24,340 - 00:37:26,340] divided by the square this time...
+- [00:37:26,340 - 00:37:28,340] of the...
+- [00:37:28,340 - 00:37:29,340] wavelength.
+- [00:37:29,340 - 00:37:32,340] Notice how different it is.
+- [00:37:32,340 - 00:37:33,340] Over here...
+- [00:37:33,340 - 00:37:34,340] the frequency...
+- [00:37:34,340 - 00:37:37,340] was proportional to one over the wavelength.
+- [00:37:37,340 - 00:37:41,340] Here it's one over the wavelength squared.
+- [00:37:41,340 - 00:37:43,340] Now you don't have to remember this.
+- [00:37:43,340 - 00:37:44,340] You don't have to memorize this.
+- [00:37:44,340 - 00:37:46,340] You can always re-derive it.
+- [00:37:46,340 - 00:37:49,340] The basic ingredients are the equation for the energy...
+- [00:37:49,340 - 00:37:52,340] and the relationship between...
+- [00:37:52,340 - 00:37:56,340] momentum, wavelength, frequency, and all that kind of stuff.
+- [00:37:56,340 - 00:37:57,340] Alright.
+- [00:37:57,340 - 00:37:59,340] This is just to...
+- [00:37:59,340 - 00:38:01,340] illustrate...
+- [00:38:01,340 - 00:38:04,340] the connections.
+- [00:38:06,340 - 00:38:08,340] So that's a non-relativistic particle...
+- [00:38:08,340 - 00:38:10,340] when moving slowly.
+- [00:38:10,340 - 00:38:12,340] For example, an electron in an atom...
+- [00:38:12,340 - 00:38:15,340] the frequency of its...
+- [00:38:15,340 - 00:38:17,340] Schrödinger wave...
+- [00:38:17,340 - 00:38:18,340] would be one over two m...
+- [00:38:18,340 - 00:38:19,340] times Planck's constant...
+- [00:38:19,340 - 00:38:21,340] divided by the wavelength squared.
+- [00:38:27,340 - 00:38:33,340] Let me slow down now...
+- [00:38:33,340 - 00:38:35,340] and take some questions.
+- [00:38:35,340 - 00:38:37,340] That would be for...
+- [00:38:37,340 - 00:38:39,340] any particle, not just an electron.
+- [00:38:39,340 - 00:38:41,340] That is true for any particle...
+- [00:38:41,340 - 00:38:43,340] as long as it's moving slowly...
+- [00:38:43,340 - 00:38:45,340] compared to the speed of light.
+- [00:38:45,340 - 00:38:47,340] Maybe we should...
+- [00:38:47,340 - 00:38:49,340] Well, we'll come back...
+- [00:38:49,340 - 00:38:51,340] and we'll interpolate between the slow and the fast...
+- [00:38:51,340 - 00:38:53,340] another time.
+- [00:38:53,340 - 00:38:55,340] There is an interpolation.
+- [00:38:55,340 - 00:38:56,340] Wouldn't it work for...
+- [00:38:56,340 - 00:38:58,340] the speed of light?
+- [00:38:58,340 - 00:38:59,340] Neutrino is...
+- [00:38:59,340 - 00:39:02,340] Well, it depends on how fast the neutrino is moving.
+- [00:39:02,340 - 00:39:04,340] Most neutrinos in nature...
+- [00:39:04,340 - 00:39:05,340] are moving very fast...
+- [00:39:05,340 - 00:39:07,340] with close to the speed of light.
+- [00:39:07,340 - 00:39:09,340] Very close to the speed of light.
+- [00:39:09,340 - 00:39:11,340] So for neutrinos...
+- [00:39:11,340 - 00:39:14,340] the speed of light is a good approximation...
+- [00:39:14,340 - 00:39:15,340] for...
+- [00:39:15,340 - 00:39:17,340] But, in principle...
+- [00:39:17,340 - 00:39:19,340] neutrinos can be slowed down...
+- [00:39:19,340 - 00:39:20,840] and if they're moving with very
+- [00:39:20,840 - 00:39:22,340] much less than the speed of light...
+- [00:39:22,340 - 00:39:23,340] it's the other formula.
+- [00:39:23,340 - 00:39:25,340] The non-relativistic formula.
+- [00:39:25,340 - 00:39:26,340] Yeah, question.
+- [00:39:26,340 - 00:39:29,340] In the discussion about...
+- [00:39:29,340 - 00:39:31,340] the abiotic proportion of the prosper...
+- [00:39:31,340 - 00:39:32,340] and so that's where...
+- [00:39:32,340 - 00:39:35,340] the electrons all have the same wavelength?
+- [00:39:35,340 - 00:39:37,340] Yeah.
+- [00:39:37,340 - 00:39:39,340] If they're different wavelengths...
+- [00:39:39,340 - 00:39:41,340] then you can take the 70...
+- [00:39:41,340 - 00:39:43,340] and you don't...
+- [00:39:43,340 - 00:39:46,340] We'll come back to the relation between amplitudes and...
+- [00:39:46,340 - 00:39:49,340] and quanta...
+- [00:39:49,340 - 00:39:50,340] soon enough.
+- [00:39:50,340 - 00:39:52,340] And that's...
+- [00:39:52,340 - 00:39:54,340] that's what the whole story is about.
+- [00:39:54,340 - 00:39:55,340] But we haven't gotten...
+- [00:39:55,340 - 00:39:56,340] to the point where we can...
+- [00:39:56,340 - 00:39:58,340] An electron accelerator...
+- [00:39:58,340 - 00:40:00,340] let's say with 20 keV...
+- [00:40:00,340 - 00:40:03,340] We have an accelerator with 20 keV...
+- [00:40:03,340 - 00:40:04,340] very low energy accelerator.
+- [00:40:04,340 - 00:40:05,340] As an example...
+- [00:40:05,340 - 00:40:07,340] is it slow or fast?
+- [00:40:07,340 - 00:40:08,340] Is it what?
+- [00:40:08,340 - 00:40:11,340] Is to consider slow or fast?
+- [00:40:11,340 - 00:40:12,340] Very...
+- [00:40:12,340 - 00:40:13,340] For an electron...
+- [00:40:13,340 - 00:40:15,340] slow.
+- [00:40:15,340 - 00:40:16,340] Slow.
+- [00:40:16,340 - 00:40:17,340] All right, well you...
+- [00:40:17,340 - 00:40:18,340] All right, good.
+- [00:40:18,340 - 00:40:19,340] All right.
+- [00:40:19,340 - 00:40:20,340] Um...
+- [00:40:20,340 - 00:40:22,340] If you want to know...
+- [00:40:22,340 - 00:40:23,340] Okay.
+- [00:40:23,340 - 00:40:24,340] First of all...
+- [00:40:24,340 - 00:40:26,340] Let's work in units in which...
+- [00:40:26,340 - 00:40:28,340] c is equal to 1.
+- [00:40:28,340 - 00:40:30,340] In such units...
+- [00:40:30,340 - 00:40:32,340] momentum and energy have the same...
+- [00:40:32,340 - 00:40:34,340] exactly the same units.
+- [00:40:34,340 - 00:40:36,340] All right, where do we have it?
+- [00:40:36,340 - 00:40:38,340] Momentum...
+- [00:40:38,340 - 00:40:40,340] and energy have exactly the same units...
+- [00:40:40,340 - 00:40:42,340] of c is equal to 1.
+- [00:40:42,340 - 00:40:44,340] If you want to know if something is relativistic...
+- [00:40:44,340 - 00:40:45,340] or non-relativistic...
+- [00:40:45,340 - 00:40:48,340] you want to compare its momentum to its mass.
+- [00:40:48,340 - 00:40:51,340] If its momentum is large compared to its mass...
+- [00:40:51,340 - 00:40:52,340] its rest mass.
+- [00:40:52,340 - 00:40:53,340] It's not...
+- [00:40:53,340 - 00:40:55,340] It's not mass, it's rest mass.
+- [00:40:55,340 - 00:40:57,340] A photon has no rest mass...
+- [00:40:57,340 - 00:41:00,340] and so its momentum is always much larger than its...
+- [00:41:00,340 - 00:41:02,340] than its mass.
+- [00:41:02,340 - 00:41:04,340] And so it's highly relativistic.
+- [00:41:04,340 - 00:41:07,340] As relativistic as it can be.
+- [00:41:07,340 - 00:41:09,340] The figure of merit...
+- [00:41:09,340 - 00:41:10,340] the thing that you compare...
+- [00:41:10,340 - 00:41:12,340] is the momentum to the rest mass.
+- [00:41:12,340 - 00:41:13,340] So now you have to tell me...
+- [00:41:13,340 - 00:41:16,340] what's the rest mass of an electron...
+- [00:41:16,340 - 00:41:19,340] you gave me in kev.
+- [00:41:19,340 - 00:41:20,340] Okay?
+- [00:41:20,340 - 00:41:21,340] Kev kiloelectron volts...
+- [00:41:21,340 - 00:41:23,340] is a unit of energy.
+- [00:41:23,340 - 00:41:24,340] Alright?
+- [00:41:24,340 - 00:41:25,340] And remember...
+- [00:41:25,340 - 00:41:26,340] energy and momentum have the same units.
+- [00:41:26,340 - 00:41:27,340] Alright?
+- [00:41:27,340 - 00:41:29,340] So what's the mass of an electron?
+- [00:41:29,340 - 00:41:32,340] Half a million electron volts.
+- [00:41:32,340 - 00:41:35,340] So 20 kev is a lot less than 20...
+- [00:41:35,340 - 00:41:36,340] than half a million.
+- [00:41:36,340 - 00:41:38,340] And so that's a slow...
+- [00:41:38,340 - 00:41:40,340] that's a slow electron.
+- [00:41:40,340 - 00:41:41,340] Alright.
+- [00:41:41,340 - 00:41:43,340] Any other...
+- [00:41:43,340 - 00:41:44,340] cookies...
+- [00:41:44,340 - 00:41:46,340] Any other questions?
+- [00:41:46,340 - 00:41:49,340] Frequency and wavelength...
+- [00:41:49,340 - 00:41:51,340] for a real wave...
+- [00:41:51,340 - 00:41:52,340] are related.
+- [00:41:52,340 - 00:41:53,340] Yeah.
+- [00:41:53,340 - 00:41:54,340] So by the speed...
+- [00:41:54,340 - 00:41:55,340] by the velocity of light.
+- [00:41:55,340 - 00:41:56,340] So is that equation...
+- [00:41:56,340 - 00:41:57,340] the last one you had...
+- [00:41:57,340 - 00:41:58,340] can you rewrite it...
+- [00:41:58,340 - 00:41:59,340] based on the speed...
+- [00:41:59,340 - 00:42:00,340] and get the right equation...
+- [00:42:00,340 - 00:42:01,340] all the way up to...
+- [00:42:01,340 - 00:42:02,340] Yeah but electrons...
+- [00:42:02,340 - 00:42:03,340] electron waves...
+- [00:42:03,340 - 00:42:04,340] do not move...
+- [00:42:04,340 - 00:42:05,340] with the speed of light.
+- [00:42:05,340 - 00:42:06,340] So there's no C.
+- [00:42:06,340 - 00:42:07,340] So the question is...
+- [00:42:07,340 - 00:42:08,340] can you derive a velocity...
+- [00:42:08,340 - 00:42:09,340] from this?
+- [00:42:09,340 - 00:42:10,340] Yes.
+- [00:42:10,340 - 00:42:11,340] The answer is yes you can...
+- [00:42:11,340 - 00:42:12,340] but it won't be the velocity...
+- [00:42:12,340 - 00:42:13,340] of the electron.
+- [00:42:13,340 - 00:42:14,340] Oh.
+- [00:42:14,340 - 00:42:15,340] Okay.
+- [00:42:15,340 - 00:42:16,340] It would be the velocity...
+- [00:42:16,340 - 00:42:17,340] of the probability wave...
+- [00:42:17,340 - 00:42:18,340] or whatever.
+- [00:42:18,340 - 00:42:19,340] Well...
+- [00:42:19,340 - 00:42:20,340] Okay.
+- [00:42:20,340 - 00:42:21,340] You can't...
+- [00:42:21,340 - 00:42:22,340] you can't...
+- [00:42:22,340 - 00:42:23,340] Oh.
+- [00:42:23,340 - 00:42:24,340] There are two...
+- [00:42:24,340 - 00:42:25,340] Yeah.
+- [00:42:25,340 - 00:42:26,340] There are two velocities...
+- [00:42:26,340 - 00:42:27,340] that go with waves.
+- [00:42:27,340 - 00:42:28,340] One of them is called...
+- [00:42:28,340 - 00:42:29,340] a group velocity...
+- [00:42:29,340 - 00:42:30,340] one of them is called...
+- [00:42:30,340 - 00:42:31,340] a phase velocity.
+- [00:42:31,340 - 00:42:32,340] All right.
+- [00:42:32,340 - 00:42:33,340] I'll...
+- [00:42:33,340 - 00:42:34,340] I'll be specific.
+- [00:42:34,340 - 00:42:35,340] Since you asked me...
+- [00:42:35,340 - 00:42:36,340] If you take...
+- [00:42:36,340 - 00:42:37,340] a general wave...
+- [00:42:37,340 - 00:42:38,340] the wave...
+- [00:42:38,340 - 00:42:39,340] let's assume...
+- [00:42:39,340 - 00:42:40,340] it's a wave packet.
+- [00:42:40,340 - 00:42:41,340] Now a wave packet...
+- [00:42:41,340 - 00:42:42,340] means that it looks like a wave...
+- [00:42:42,340 - 00:42:43,340] except that it...
+- [00:42:43,340 - 00:42:44,340] it's not...
+- [00:42:44,340 - 00:42:45,340] it's not...
+- [00:42:45,340 - 00:42:46,340] it's not...
+- [00:42:46,340 - 00:42:47,340] it's not...
+- [00:42:47,340 - 00:42:48,340] it's not...
+- [00:42:48,340 - 00:42:49,340] it's not...
+- [00:42:49,340 - 00:42:50,340] it's not...
+- [00:42:50,340 - 00:42:51,340] it's not...
+- [00:42:51,340 - 00:42:52,340] uh...
+- [00:42:52,340 - 00:42:53,340] it's, um...
+- [00:42:53,340 - 00:42:54,340] confined...
+- [00:42:54,340 - 00:42:55,340] to some...
+- [00:42:55,340 - 00:42:56,340] packet-like...
+- [00:42:56,340 - 00:42:57,340] structure...
+- [00:42:57,340 - 00:42:58,340] like that.
+- [00:42:58,340 - 00:42:59,340] So it locally looks like a wave...
+- [00:42:59,340 - 00:43:01,340] meaning to say a plain wave...
+- [00:43:01,340 - 00:43:02,340] a sine or a cosine.
+- [00:43:02,340 - 00:43:03,340] But...
+- [00:43:03,340 - 00:43:04,340] it has an envelope...
+- [00:43:04,340 - 00:43:05,340] that, uh...
+- [00:43:05,340 - 00:43:06,340] that sort of...
+- [00:43:06,340 - 00:43:07,340] confines it...
+- [00:43:07,340 - 00:43:08,340] to some region.
+- [00:43:08,340 - 00:43:09,340] Now in general...
+- [00:43:09,340 - 00:43:10,340] In general...
+- [00:43:10,340 - 00:43:11,340] depending on the specific nature...
+- [00:43:11,340 - 00:43:12,340] of the wave...
+- [00:43:12,340 - 00:43:13,340] you'll see that...
+- [00:43:13,340 - 00:43:14,340] as that wave moves...
+- [00:43:14,340 - 00:43:15,340] there are two different...
+- [00:43:15,340 - 00:43:16,340] waves in the center...
+- [00:43:16,340 - 00:43:17,340] of the center...
+- [00:43:17,340 - 00:43:18,340] and...
+- [00:43:18,340 - 00:43:19,340] the centerINE...
+- [00:43:19,340 - 00:43:20,340] in the center...
+- [00:43:20,340 - 00:43:21,340] is...
+- [00:43:21,340 - 00:43:23,560] There are two separate velocities
+- [00:43:23,560 - 00:43:25,780] associated with it and they're different
+- [00:43:25,780 - 00:43:28,780] One of them is the
+- [00:43:28,780 - 00:43:31,780] overall velocity of the wave packet
+- [00:43:31,780 - 00:43:34,950] The other is the velocity of the
+- [00:43:34,950 - 00:43:38,120] crests and troughs or whatever you call them
+- [00:43:38,120 - 00:43:40,870] And what you would see, if you looked
+- [00:43:40,870 - 00:43:43,620] at this wave, let's say, from some other perspective
+- [00:43:43,620 - 00:43:47,280] where you see waves and troughs moving along
+- [00:43:47,280 - 00:43:50,600] is you would see the packet moving with one velocity
+- [00:43:50,600 - 00:43:53,260] but the waves moving through
+- [00:43:53,260 - 00:43:55,920] the packet with a different velocity
+- [00:43:55,920 - 00:43:58,230] In fact, typically the wave,
+- [00:43:58,230 - 00:44:00,540] one is called the phase velocity
+- [00:44:00,540 - 00:44:04,920] That's the velocity of the troughs and peaks and valleys
+- [00:44:04,920 - 00:44:07,220] And the other is called the group velocity
+- [00:44:07,220 - 00:44:11,120] The group velocity is the velocity of the whole packet
+- [00:44:11,120 - 00:44:14,050] Guess which one you identify with
+- [00:44:14,050 - 00:44:16,980] the non-relativistic velocity of the particle
+- [00:44:16,980 - 00:44:19,319] The group velocity
+- [00:44:19,319 - 00:44:20,540] And the group velocity
+- [00:44:20,540 - 00:44:23,480] The group velocity is usually slower than the phase velocity
+- [00:44:23,480 - 00:44:25,970] The phase velocity has not got to
+- [00:44:25,970 - 00:44:28,460] do with the actual velocity of the particle
+- [00:44:28,460 - 00:44:31,840] Now, there is one special case
+- [00:44:31,840 - 00:44:35,230] The special case is when all waves
+- [00:44:35,230 - 00:44:38,620] of all frequencies move with the same velocity
+- [00:44:38,620 - 00:44:41,000] That would not be true
+- [00:44:41,000 - 00:44:43,380] for a non-relativistic wave like this
+- [00:44:43,380 - 00:44:44,779] Let's see
+- [00:44:44,779 - 00:44:48,800] The velocity is the frequency times the wavelength, right?
+- [00:44:48,800 - 00:44:50,340] So let's look at this
+- [00:44:50,540 - 00:44:52,779] The frequency time the wavelength
+- [00:44:52,779 - 00:44:55,999] The frequency times wavelength is 1
+- [00:44:55,999 - 00:44:59,220] over 2m h bar over lambda
+- [00:44:59,220 - 00:45:06,300] So different lambdas move with different velocities
+- [00:45:07,080 - 00:45:08,560] And when different wavelengths
+- [00:45:08,560 - 00:45:10,040] move with different velocities
+- [00:45:10,040 - 00:45:13,790] you have this situation where group
+- [00:45:13,790 - 00:45:17,540] and phase velocities are not the same
+- [00:45:17,540 - 00:45:18,290] For the special case where all wavelengths move
+- [00:45:18,290 - 00:45:19,040] with different velocities you are in the pressure sunshine
+- [00:45:19,040 - 00:45:19,190] For the special case where all wavelengths move
+- [00:45:19,190 - 00:45:19,340] with different velocities you are in the pressure sunshine
+- [00:45:19,340 - 00:45:19,460] For the special case where all wavelengths move
+- [00:45:19,460 - 00:45:19,580] with different velocities you are in the pressure sunshine
+- [00:45:19,580 - 00:45:23,179] wavelengths move with the same velocity, then
+- [00:45:23,179 - 00:45:26,779] group and phase velocities are the same.
+- [00:45:27,360 - 00:45:29,360] So for a light wave,
+- [00:45:29,720 - 00:45:32,790] all waves move with the same velocity,
+- [00:45:32,790 - 00:45:35,860] the group and the packet velocity, the
+- [00:45:37,259 - 00:45:40,499] the group and the phase velocity are
+- [00:45:40,499 - 00:45:43,740] the same. That's a special and simple case.
+- [00:45:43,740 - 00:45:46,829] All right, but we didn't, I just
+- [00:45:46,829 - 00:45:49,919] wanted to illustrate some of the equations here.
+- [00:45:51,100 - 00:45:53,100] And
+- [00:45:53,919 - 00:45:55,919] incidentally,
+- [00:45:56,080 - 00:45:58,080] this equation over here
+- [00:46:01,339 - 00:46:03,249] is equivalent to another equation of
+- [00:46:03,249 - 00:46:05,160] physics. Anybody know what it is?
+- [00:46:08,959 - 00:46:10,959] The Schrodinger equation.
+- [00:46:11,379 - 00:46:13,560] The Schrodinger equation is an equation
+- [00:46:13,740 - 00:46:15,740] for a wave, and
+- [00:46:16,560 - 00:46:18,469] this tells you the time
+- [00:46:18,469 - 00:46:20,379] dependence of the wave, the frequency.
+- [00:46:20,939 - 00:46:25,099] This tells you the space dependence of the wave. The Schrodinger
+- [00:46:25,099 - 00:46:29,259] equation is exactly an equation for the relationship between the time
+- [00:46:29,399 - 00:46:31,339] dependence of a wave and
+- [00:46:31,339 - 00:46:32,629] the space dependence of the wave.
+- [00:46:32,629 - 00:46:33,919] We will come back to it.
+- [00:46:34,419 - 00:46:37,600] But this is just the Schrodinger equation in a
+- [00:46:38,580 - 00:46:40,580] slightly disguised form.
+- [00:46:41,339 - 00:46:43,339] Or better yet, if you knew the Schrodinger equation,
+- [00:46:43,740 - 00:46:46,039] and you said, supposing I had a wave
+- [00:46:46,039 - 00:46:48,339] of a given frequency that had a given wavelength,
+- [00:46:48,879 - 00:46:51,569] what would the equation tell me about the relation
+- [00:46:51,569 - 00:46:54,259] between wavelength and frequency? And it would be exactly this.
+- [00:46:56,200 - 00:46:58,620] Okay, so that's the Schrodinger equation in a nutshell.
+- [00:47:02,080 - 00:47:04,979] Can the phase velocity go faster than light?
+- [00:47:04,979 - 00:47:06,979] Yes.
+- [00:47:07,859 - 00:47:09,959] But the phase velocity as a
+- [00:47:09,959 - 00:47:12,060] rule carries no information with it.
+- [00:47:13,740 - 00:47:16,939] You can't send information faster than the group velocity.
+- [00:47:17,919 - 00:47:20,919] Phase velocity doesn't really carry any
+- [00:47:22,299 - 00:47:24,220] information with it.
+- [00:47:24,220 - 00:47:25,419] So,
+- [00:47:25,419 - 00:47:28,139] we'll come back to that. It's a technical issue that
+- [00:47:28,139 - 00:47:30,859] we don't need to deal with right at this moment.
+- [00:47:32,419 - 00:47:34,419] Okay.
+- [00:47:34,520 - 00:47:36,520] Let's see.
+- [00:47:37,200 - 00:47:39,259] Let's go on a little bit more with waves.
+- [00:47:39,419 - 00:47:41,359] There are one or two
+- [00:47:41,359 - 00:47:43,299] other concepts about waves that are
+- [00:47:43,740 - 00:47:45,740] necessary.
+- [00:47:49,600 - 00:47:53,729] And, you know, there's a lot of technical detail that I'm getting
+- [00:47:53,729 - 00:47:57,859] into, but every single piece of it is really very central or important.
+- [00:47:58,680 - 00:48:00,200] Okay.
+- [00:48:00,200 - 00:48:03,620] We will be interested in waves moving in infinite space.
+- [00:48:05,000 - 00:48:07,700] But I use the word infinite space,
+- [00:48:08,520 - 00:48:10,520] infinite, infinity.
+- [00:48:11,919 - 00:48:13,680] Computers don't like infinity.
+- [00:48:13,680 - 00:48:15,680] And if
+- [00:48:17,799 - 00:48:20,099] physics is the art of writing
+- [00:48:20,099 - 00:48:22,399] equations that computers can solve in principle,
+- [00:48:22,399 - 00:48:27,909] it is necessary to always remove the infinities and write
+- [00:48:27,909 - 00:48:33,419] the equations for finite systems first, and then take a limit.
+- [00:48:34,480 - 00:48:37,669] All right. So in studying quantum mechanics, waves,
+- [00:48:37,669 - 00:48:40,859] quantum field theory, particle physics, and so forth,
+- [00:48:41,379 - 00:48:43,379] it's necessary in the back of your mind,
+- [00:48:43,680 - 00:48:47,539] to get rid first round of everything that's infinite,
+- [00:48:47,539 - 00:48:51,399] and state the problems as if everything were finite.
+- [00:48:51,399 - 00:48:53,639] And in particular, what I have in
+- [00:48:53,639 - 00:48:55,879] mind now is the extent of space itself.
+- [00:48:57,660 - 00:48:59,660] So one way of...
+- [00:49:00,140 - 00:49:02,130] What I want you to think about
+- [00:49:02,130 - 00:49:04,120] now is a wave moving in one dimension.
+- [00:49:05,500 - 00:49:07,439] Three dimensions is really no different than
+- [00:49:07,439 - 00:49:09,379] one dimension, except there are three of them.
+- [00:49:10,279 - 00:49:13,359] So let's concentrate on one-dimensional wave motion.
+- [00:49:13,680 - 00:49:16,729] It could be a violin string, it could
+- [00:49:16,729 - 00:49:19,779] be a rope being wiggled back and forth,
+- [00:49:19,779 - 00:49:21,439] or it could just be a wave
+- [00:49:21,439 - 00:49:23,100] in a mathematical universe of one dimension.
+- [00:49:24,100 - 00:49:27,110] One way of getting rid of the infinity
+- [00:49:27,110 - 00:49:30,120] of space would be to make the wave
+- [00:49:30,799 - 00:49:33,500] only propagate on a region of
+- [00:49:35,000 - 00:49:37,000] length L.
+- [00:49:37,359 - 00:49:40,509] For example, by holding down the wave at this end, holding
+- [00:49:40,509 - 00:49:43,660] down your string at this end, just like a violin string,
+- [00:49:43,680 - 00:49:45,999] the string is held down, holding it down at
+- [00:49:45,999 - 00:49:48,319] this end, you can have all sorts of waves.
+- [00:49:49,180 - 00:49:52,229] And the waves move, and they bounce off. When
+- [00:49:52,229 - 00:49:55,279] they get to the end, they bounce off and reflect,
+- [00:49:55,480 - 00:49:57,480] and they go back and forth, and back and forth.
+- [00:49:58,419 - 00:50:01,399] That's a perfectly good way to describe things.
+- [00:50:01,940 - 00:50:04,790] The problem with this kind of, let's call
+- [00:50:04,790 - 00:50:07,640] it boundary condition, this is called the boundary condition,
+- [00:50:08,200 - 00:50:10,789] namely, that waves, when they get to the
+- [00:50:10,789 - 00:50:13,379] end, reflect. It's called a reflecting boundary condition.
+- [00:50:13,680 - 00:50:17,279] The problem with it is it violates one of the
+- [00:50:17,279 - 00:50:20,879] important conservation laws of physics. What would that conservation law be?
+- [00:50:23,160 - 00:50:28,500] Momentum. After all, if the momentum of a wave is,
+- [00:50:32,240 - 00:50:34,740] it's a vector quantity, it points in a direction.
+- [00:50:35,919 - 00:50:39,789] If a wave is moving along this, here's a little wave,
+- [00:50:39,789 - 00:50:43,660] it's moving along this axis, its momentum is pointing to the left.
+- [00:50:43,680 - 00:50:45,880] It's pointing to the right. When it gets
+- [00:50:45,880 - 00:50:48,080] to the end, it bounces off and reflects.
+- [00:50:48,759 - 00:50:52,000] So, the momentum has changed sign.
+- [00:50:53,200 - 00:50:56,660] Okay, the momentum has changed sign, the momentum is not conserved.
+- [00:50:56,660 - 00:51:00,120] That's okay. There's nothing wrong with it. You can study it.
+- [00:51:00,919 - 00:51:04,779] But if you want to keep track of things like momentum
+- [00:51:04,779 - 00:51:08,640] conservation, there's a smarter thing you can do. It goes as follows.
+- [00:51:09,799 - 00:51:13,440] Imagine this line is such that we identify
+- [00:51:13,680 - 00:51:17,029] the beginning and the end. Now, we can
+- [00:51:17,029 - 00:51:20,379] do that by replacing the line by a circle.
+- [00:51:20,379 - 00:51:23,140] It doesn't have to be a legitimate geometric circle.
+- [00:51:23,640 - 00:51:24,859] Just
+- [00:51:24,859 - 00:51:27,259] mathematically, we connect the beginning back to
+- [00:51:27,259 - 00:51:29,660] the end. So we go on a cycle.
+- [00:51:30,480 - 00:51:33,520] And so as we move from here to here to
+- [00:51:33,520 - 00:51:36,560] here, we can imagine we start here, move along here, and
+- [00:51:37,440 - 00:51:39,580] in this magic line, when you get to
+- [00:51:39,580 - 00:51:41,720] the other end, you come back to the beginning.
+- [00:51:42,460 - 00:51:43,640] That's a closed,
+- [00:51:43,640 - 00:51:47,009] I don't want to call it a circle because I
+- [00:51:47,009 - 00:51:50,379] don't mean to imply it's a circle in two dimensions.
+- [00:51:50,379 - 00:51:52,379] I just want to imply that it's periodic.
+- [00:51:52,980 - 00:51:54,980] Periodic is the term for this.
+- [00:51:55,080 - 00:51:57,859] Periodic space. Now you can imagine a wave
+- [00:51:59,580 - 00:52:01,580] which is moving along,
+- [00:52:02,160 - 00:52:04,160] moving along here,
+- [00:52:04,839 - 00:52:06,869] and when it comes to the end over
+- [00:52:06,869 - 00:52:08,900] here, what does it do? It just keeps going.
+- [00:52:10,000 - 00:52:11,800] Right? It just keeps going. It doesn't care
+- [00:52:11,800 - 00:52:13,600] about that point. That point is not a square.
+- [00:52:13,640 - 00:52:14,640] It's not a special point anymore.
+- [00:52:14,640 - 00:52:17,749] And so the wave just keeps cycling around,
+- [00:52:17,749 - 00:52:20,859] cycling around, cycling around, and the momentum is conserved.
+- [00:52:21,400 - 00:52:23,660] It doesn't suddenly reflect into the
+- [00:52:23,660 - 00:52:25,920] other direction. In terms of this picture,
+- [00:52:25,920 - 00:52:28,040] you can just imagine when the wave gets
+- [00:52:28,040 - 00:52:30,160] to this end, it reappears at this end.
+- [00:52:30,160 - 00:52:31,920] And it just keeps going to the
+- [00:52:31,920 - 00:52:33,680] right if it were going to the right.
+- [00:52:33,680 - 00:52:35,469] It goes to the left if it were
+- [00:52:35,469 - 00:52:37,259] going to the left, and just keeps going forever.
+- [00:52:37,839 - 00:52:40,669] With this trick, with this mathematical trick
+- [00:52:40,669 - 00:52:43,500] of replacing space by a periodic space,
+- [00:52:43,640 - 00:52:45,989] we can first of all get rid
+- [00:52:45,989 - 00:52:48,339] of the infinity in the size of space,
+- [00:52:49,319 - 00:52:51,319] feed it into a computer,
+- [00:52:51,940 - 00:52:55,000] and we can get rid of
+- [00:52:55,000 - 00:52:58,060] the problem of momentum, of non-momentum conservation.
+- [00:52:59,259 - 00:53:01,259] Momentum is now conserved.
+- [00:53:01,660 - 00:53:03,660] But there is a cost.
+- [00:53:04,080 - 00:53:06,780] I don't know that it's a cost, but it's
+- [00:53:06,780 - 00:53:09,480] a fact. The fact is that in such a world,
+- [00:53:10,660 - 00:53:12,660] momentum is quantized.
+- [00:53:12,660 - 00:53:15,660] Now I don't mean in the sense that,
+- [00:53:17,680 - 00:53:20,969] well, it is that momentum only
+- [00:53:20,969 - 00:53:24,259] comes in discrete multiples of a unit.
+- [00:53:24,259 - 00:53:27,140] And it's useful to work
+- [00:53:28,720 - 00:53:30,809] in understanding quantum fields, their
+- [00:53:30,809 - 00:53:32,899] relation to particles, and so forth.
+- [00:53:32,899 - 00:53:36,089] It's useful to remember that the momentum comes in
+- [00:53:36,089 - 00:53:39,279] discrete multiples of something. So let's see how that works.
+- [00:53:42,660 - 00:53:46,660] Well, first of all, it's obvious that the wavelength,
+- [00:53:48,160 - 00:53:52,480] an integer number of waves, must fit.
+- [00:53:52,480 - 00:53:55,080] Let's give this distance around here a
+- [00:53:55,080 - 00:53:57,680] name. Let's call it L. L for length.
+- [00:53:58,500 - 00:54:00,500] If it were a circle, it would be the circumference.
+- [00:54:00,680 - 00:54:03,620] But let's just call it L. The total distance
+- [00:54:03,620 - 00:54:06,560] around from beginning back to beginning again. Call it L.
+- [00:54:07,160 - 00:54:08,420] All right.
+- [00:54:08,420 - 00:54:10,500] If we're going to put a wave in there, and let's
+- [00:54:10,500 - 00:54:12,580] say now that it's a wave, a sine or a cosine,
+- [00:54:12,580 - 00:54:14,580] wave or whatever,
+- [00:54:15,000 - 00:54:17,490] an integer number of wavelengths
+- [00:54:17,490 - 00:54:19,980] has to fit onto the circle.
+- [00:54:21,000 - 00:54:24,200] That means that the wavelength has to be
+- [00:54:24,200 - 00:54:27,400] equal to the length around divided by an integer.
+- [00:54:28,620 - 00:54:32,799] Okay, divided by an integer. So the wavelength must be
+- [00:54:34,660 - 00:54:36,660] the total distance around
+- [00:54:37,380 - 00:54:39,579] divided by some integer. I don't want
+- [00:54:39,579 - 00:54:41,779] to call the integer n. Let's see.
+- [00:54:41,779 - 00:54:42,279] Um-
+- [00:54:42,280 - 00:54:44,280] I'll call it capital N.
+- [00:54:46,240 - 00:54:47,780] Capital N.
+- [00:54:47,780 - 00:54:50,040] Little n will be reserved for something else.
+- [00:54:52,100 - 00:54:55,170] So the wavelength is necessarily the
+- [00:54:55,170 - 00:54:58,240] total distance around divided by n.
+- [00:54:58,420 - 00:55:00,480] Now that means the
+- [00:55:00,480 - 00:55:02,540] wavelength comes in discrete possibilities.
+- [00:55:03,900 - 00:55:06,650] It can be L. It can be L over 2. It
+- [00:55:06,650 - 00:55:09,400] can be L over 3. It can be L over 4.
+- [00:55:09,400 - 00:55:10,780] But it can't be L
+- [00:55:10,780 - 00:55:12,160] times the square root of 1.
+- [00:55:12,160 - 00:55:13,660] It can't be L times the square root of
+- [00:55:13,660 - 00:55:15,160] 2 or L divided by the square root of 2.
+- [00:55:16,240 - 00:55:18,920] An integer number of waves just won't fit in here.
+- [00:55:18,920 - 00:55:21,270] In other words, if you tried to put a wavelength of
+- [00:55:21,270 - 00:55:23,620] the wrong wavelength in here, by the time you got back,
+- [00:55:24,000 - 00:55:25,960] the wave wouldn't match with what it
+- [00:55:25,960 - 00:55:27,920] was supposed to be at the beginning.
+- [00:55:28,759 - 00:55:32,879] Okay, so that tells you that wavelengths come in discrete
+- [00:55:34,660 - 00:55:37,960] possibilities with the integer appearing in the denominator.
+- [00:55:38,500 - 00:55:40,859] Now we had an equation here somewhere
+- [00:55:40,859 - 00:55:42,000] for momentum.
+- [00:55:42,000 - 00:55:45,200] Momentum in terms of wavelength.
+- [00:55:45,200 - 00:55:46,200] What was it?
+- [00:55:47,200 - 00:55:52,000] Momentum was equal h bar.
+- [00:55:52,000 - 00:55:54,000] h over lambda?
+- [00:55:55,300 - 00:55:57,300] Yes, h over lambda.
+- [00:56:05,000 - 00:56:07,000] P is equal to h over lambda.
+- [00:56:07,000 - 00:56:11,000] So now this is also telling us that momenta come
+- [00:56:11,000 - 00:56:14,000] in discrete possibilities.
+- [00:56:15,000 - 00:56:19,850] The momentum of any quantum must satisfy the
+- [00:56:19,850 - 00:56:24,700] constraint that it's h divided by an allowable wavelength.
+- [00:56:24,700 - 00:56:27,350] So the allowable momenta of
+- [00:56:27,350 - 00:56:30,000] quanta, the allowable momenta of electrons,
+- [00:56:30,000 - 00:56:34,000] the allowable momenta of photons, the allowable
+- [00:56:34,000 - 00:56:38,000] momentum of anything in this one-dimensional world
+- [00:56:38,000 - 00:56:41,500] has to be h divided by, okay, let's
+- [00:56:41,500 - 00:56:45,000] work it out, that's h divided by lambda.
+- [00:56:45,000 - 00:56:49,000] That means n divided by l.
+- [00:56:49,000 - 00:56:53,000] I turned lambda upside down, n over l.
+- [00:56:53,000 - 00:56:54,000] And what does it say?
+- [00:56:54,000 - 00:56:56,500] It says the momenta come in
+- [00:56:56,500 - 00:56:59,000] discrete multiples of a basic unit,
+- [00:56:59,000 - 00:57:02,500] and the basic unit is Planck's
+- [00:57:02,500 - 00:57:06,000] constant divided by the total distance around.
+- [00:57:06,000 - 00:57:07,000] Okay.
+- [00:57:08,000 - 00:57:12,000] There's a neat fact.
+- [00:57:12,000 - 00:57:16,500] If you put a particle on a wire, and the wire
+- [00:57:16,500 - 00:57:21,000] is a circular wire, a bead, a bead on a wire,
+- [00:57:21,000 - 00:57:25,000] that bead can only have momenta which
+- [00:57:25,000 - 00:57:29,000] are discrete multiples of 1 over l.
+- [00:57:29,000 - 00:57:32,000] Not n over l, n is the multiple.
+- [00:57:32,000 - 00:57:33,000] 1 over l.
+- [00:57:33,000 - 00:57:37,000] 1 over the length of the wire.
+- [00:57:37,000 - 00:57:42,000] Now, of course, h is a very small number,
+- [00:57:42,000 - 00:57:47,500] and the l, if l is a
+- [00:57:47,500 - 00:57:53,000] big macroscopic length of wire or something,
+- [00:57:53,000 - 00:57:56,000] 1 over l is a very small number.
+- [00:57:56,000 - 00:58:01,000] And so the quanta, the separation between different values,
+- [00:58:01,000 - 00:58:05,000] different allowed values of the momenta is very small.
+- [00:58:05,000 - 00:58:06,000] You can get, ohm,
+- [00:58:06,000 - 00:58:08,000] if l is large and h is
+- [00:58:08,000 - 00:58:10,000] small, you can get almost any number.
+- [00:58:10,000 - 00:58:12,500] Not almost any number, but you can
+- [00:58:12,500 - 00:58:15,000] get a very dense collection of possible numbers.
+- [00:58:15,000 - 00:58:16,000] All right?
+- [00:58:16,000 - 00:58:19,000] But, okay.
+- [00:58:19,000 - 00:58:23,000] That's the quantization of momentum in
+- [00:58:23,000 - 00:58:27,000] a world in which everything is periodic.
+- [00:58:27,000 - 00:58:28,000] Question.
+- [00:58:28,000 - 00:58:29,000] Yeah.
+- [00:58:29,000 - 00:58:30,000] Are we talking about the total momentum
+- [00:58:30,000 - 00:58:31,000] of the wave or a period of time?
+- [00:58:31,000 - 00:58:32,000] Total momentum, no.
+- [00:58:32,000 - 00:58:35,000] Total momentum of the object.
+- [00:58:35,000 - 00:58:40,000] Total momentum of any quantum.
+- [00:58:40,000 - 00:58:43,500] Now, if every quantum has to have an
+- [00:58:43,500 - 00:58:47,000] integer multiple of this basic unit of momentum,
+- [00:58:47,000 - 00:58:49,500] then any number of quanta also have
+- [00:58:49,500 - 00:58:52,000] to have an integer multiple of it.
+- [00:58:52,000 - 00:58:53,000] All right?
+- [00:58:53,000 - 00:58:57,500] You might have, each quantum is identified
+- [00:58:57,500 - 00:59:02,000] in terms of its value of n.
+- [00:59:02,000 - 00:59:04,000] In terms of its momentum.
+- [00:59:04,000 - 00:59:07,000] But there are allowed momentum and disallowed momentum.
+- [00:59:07,000 - 00:59:13,000] The allowed momentum are discrete multiples of a basic unit.
+- [00:59:13,000 - 00:59:17,000] And any number of photons, electrons, and
+- [00:59:17,000 - 00:59:21,000] so forth necessarily come in these discrete multiples.
+- [00:59:21,000 - 00:59:22,000] This is...
+- [00:59:22,000 - 00:59:25,000] When do we get to have stationary models
+- [00:59:25,000 - 00:59:28,000] when you come back to the same point?
+- [00:59:28,000 - 00:59:30,500] That's the assumption that the
+- [00:59:30,500 - 00:59:33,000] space is really genuinely periodic.
+- [00:59:33,000 - 00:59:36,000] That there's nothing special about any point.
+- [00:59:36,000 - 00:59:40,000] And it is a fair question.
+- [00:59:40,000 - 00:59:42,000] It is a good question.
+- [00:59:42,000 - 00:59:45,500] But it's also the assumption that,
+- [00:59:45,500 - 00:59:49,000] for example, the electromagnetic wave, electric field,
+- [00:59:49,000 - 00:59:51,000] is an observable quantity and it
+- [00:59:51,000 - 00:59:53,000] doesn't have sudden jumps in it.
+- [00:59:53,000 - 00:59:56,000] In fact, a sudden jump, you would have...
+- [00:59:56,000 - 00:59:58,000] If it didn't come back to itself, it would
+- [00:59:58,000 - 01:00:00,000] have to make a sudden jump at this point.
+- [01:00:00,000 - 01:00:02,000] A sudden jump is very
+- [01:00:02,000 - 01:00:04,000] costly in energy and in momentum.
+- [01:00:04,000 - 01:00:06,000] So, sudden jumps in fields...
+- [01:00:06,000 - 01:00:07,000] Fields are continuous things.
+- [01:00:07,000 - 01:00:09,000] They're not allowed to jump like that.
+- [01:00:09,000 - 01:00:11,000] What if you have a packetized wave?
+- [01:00:11,000 - 01:00:12,000] If you have what?
+- [01:00:12,000 - 01:00:14,000] What if you have a packetized wave covering land?
+- [01:00:14,000 - 01:00:15,000] What kind of wave?
+- [01:00:15,000 - 01:00:16,000] Packetized.
+- [01:00:16,000 - 01:00:17,000] Packetized.
+- [01:00:17,000 - 01:00:18,000] Oh, that's all right.
+- [01:00:18,000 - 01:00:19,000] Any packetized...
+- [01:00:19,000 - 01:00:20,000] That's a good word.
+- [01:00:20,000 - 01:00:22,000] Any packetized wave...
+- [01:00:22,000 - 01:00:24,000] That's a packetized wave...
+- [01:00:24,000 - 01:00:29,000] Is a sum of individual plane waves.
+- [01:00:29,000 - 01:00:30,000] Sines and cosines.
+- [01:00:30,000 - 01:00:32,000] That's the Fourier analysis.
+- [01:00:32,000 - 01:00:35,500] The statement, the real statement is, any
+- [01:00:35,500 - 01:00:39,000] allowable wave is a sum of waves,
+- [01:00:39,000 - 01:00:42,000] each of which has this discrete,
+- [01:00:42,000 - 01:00:45,000] this discretized possible values of momentum.
+- [01:00:45,000 - 01:00:47,000] So it's a statement about Fourier transforms,
+- [01:00:47,000 - 01:00:51,000] that the Fourier analysis of any allowable
+- [01:00:51,000 - 01:00:55,000] wave only has these discrete multiples of...
+- [01:00:55,000 - 01:00:58,000] of basic unit of...
+- [01:00:59,000 - 01:01:00,000] P.
+- [01:01:00,000 - 01:01:01,000] Okay.
+- [01:01:01,000 - 01:01:03,500] Is there a problem when
+- [01:01:03,500 - 01:01:06,000] L gets very, very, very small?
+- [01:01:06,000 - 01:01:07,000] Yeah.
+- [01:01:07,000 - 01:01:14,000] As small as momentum gets very, very, very big.
+- [01:01:14,000 - 01:01:19,000] How small is very small?
+- [01:01:20,000 - 01:01:25,000] You don't want to get smaller than that.
+- [01:01:25,000 - 01:01:27,000] You want to get smaller than that.
+- [01:01:27,000 - 01:01:28,000] You want to get smaller than that.
+- [01:01:28,000 - 01:01:29,000] Yeah.
+- [01:01:29,000 - 01:01:30,000] You want to get smaller than the Planck length.
+- [01:01:30,000 - 01:01:33,000] That's a bad thing to do.
+- [01:01:33,000 - 01:01:36,000] Up till that, no, there's no problem.
+- [01:01:36,000 - 01:01:37,000] We could...
+- [01:01:37,000 - 01:01:38,000] Yeah.
+- [01:01:38,000 - 01:01:40,000] Let's pursue this a moment.
+- [01:01:40,000 - 01:01:42,000] Something that's not in my notes, but let's pursue it.
+- [01:01:42,000 - 01:01:46,000] It's important.
+- [01:01:46,000 - 01:01:51,000] Let's really imagine now that we genuinely have
+- [01:01:51,000 - 01:01:56,000] a particle moving on a genuine circular wire.
+- [01:01:56,000 - 01:01:58,000] For fun, let's really now take a bead,
+- [01:01:58,000 - 01:02:01,000] moving on a really circular wire,
+- [01:02:01,000 - 01:02:04,000] and see if we can understand what
+- [01:02:04,000 - 01:02:07,000] this quantization of momentum means in another language.
+- [01:02:07,000 - 01:02:11,000] Let's take the circular wire to have a radius r.
+- [01:02:11,000 - 01:02:16,000] Okay.
+- [01:02:16,000 - 01:02:18,000] Let it have a radius r.
+- [01:02:18,000 - 01:02:22,000] Oh, I erased the important equation.
+- [01:02:22,000 - 01:02:23,000] What was the important equation?
+- [01:02:23,000 - 01:02:27,000] The important equation was the allowable momentum
+- [01:02:27,000 - 01:02:33,000] is equal to an integer times h over lambda?
+- [01:02:33,000 - 01:02:38,000] Sorry, over l?
+- [01:02:38,000 - 01:02:41,000] Over l, right?
+- [01:02:41,000 - 01:02:43,000] Okay.
+- [01:02:43,000 - 01:02:47,000] Now, the radius of the orbit is r,
+- [01:02:47,000 - 01:02:51,500] and that means that p is
+- [01:02:51,500 - 01:02:56,000] n h over 2 pi r, right?
+- [01:02:56,000 - 01:02:58,000] You can see by now that h bar
+- [01:02:58,000 - 01:03:00,000] would have been a better choice in this equation.
+- [01:03:00,000 - 01:03:02,000] Right?
+- [01:03:02,000 - 01:03:03,000] Let's leave it.
+- [01:03:03,000 - 01:03:04,000] Let's leave it.
+- [01:03:04,000 - 01:03:06,000] Later on, we'll put back h bar.
+- [01:03:06,000 - 01:03:08,000] Okay, that's the momentum, and the momentum is quantized.
+- [01:03:08,000 - 01:03:11,000] Every single electron, photon, or anything else
+- [01:03:11,000 - 01:03:14,000] has to have an integer multiple of this.
+- [01:03:14,000 - 01:03:16,000] Now, what about the angular momentum?
+- [01:03:16,000 - 01:03:18,500] What's the relationship between
+- [01:03:18,500 - 01:03:21,000] momentum, radius, and angular momentum?
+- [01:03:21,000 - 01:03:24,000] For a circular orbit, for the simplest possible orbit,
+- [01:03:24,000 - 01:03:26,000] it's 2 pi r.
+- [01:03:26,000 - 01:03:28,000] Omega.
+- [01:03:28,000 - 01:03:30,000] 2 pi r.
+- [01:03:30,000 - 01:03:33,000] Yes, it is mvr.
+- [01:03:33,000 - 01:03:39,000] Well, for a non-relativistic particle, it's mvr.
+- [01:03:39,000 - 01:03:40,000] mvr.
+- [01:03:40,000 - 01:03:42,000] L stands for angular momentum.
+- [01:03:42,000 - 01:03:44,000] mvr.
+- [01:03:44,000 - 01:03:46,000] But what is mv?
+- [01:03:46,000 - 01:03:48,000] p.
+- [01:03:48,000 - 01:03:50,000] So it's p times r.
+- [01:03:50,000 - 01:03:54,000] Now, mvr is not completely general.
+- [01:03:54,000 - 01:03:56,000] For a relativistic particle, the
+- [01:03:56,000 - 01:03:58,000] momentum is not m times v.
+- [01:03:58,000 - 01:04:00,500] But angular momentum is equal to
+- [01:04:00,500 - 01:04:03,000] momentum times distance is very general.
+- [01:04:03,000 - 01:04:06,500] That is, for a particle, that is the definition
+- [01:04:06,500 - 01:04:10,000] of the momentum, at least for a circular orbit.
+- [01:04:10,000 - 01:04:13,500] For other orbits, it's the cross product, r
+- [01:04:13,500 - 01:04:17,000] cross p, but it's always r times p.
+- [01:04:17,000 - 01:04:19,000] And so now look at this.
+- [01:04:19,000 - 01:04:21,000] What this says is that
+- [01:04:21,000 - 01:04:23,000] r times p multiplied by r,
+- [01:04:23,000 - 01:04:26,500] angular momentum is an integer multiple
+- [01:04:26,500 - 01:04:30,000] of h divided by 2 pi,
+- [01:04:30,000 - 01:04:36,000] or an integer multiple of Planck's other constant.
+- [01:04:36,000 - 01:04:40,500] All right, so angular momentum
+- [01:04:40,500 - 01:04:45,000] is a quantity which is quantized,
+- [01:04:45,000 - 01:04:49,000] but always in the same unit, unlike the momentum.
+- [01:04:49,000 - 01:04:51,000] Here the momentum is quantized in a
+- [01:04:51,000 - 01:04:53,000] unit which depends on the angular momentum.
+- [01:04:53,000 - 01:04:54,500] So, on L, whoops, did
+- [01:04:54,500 - 01:04:56,000] I use L for two things?
+- [01:04:56,000 - 01:04:59,000] Excuse me.
+- [01:04:59,000 - 01:05:07,000] What shall I call angular momentum?
+- [01:05:07,000 - 01:05:09,000] Angular momentum.
+- [01:05:09,000 - 01:05:12,000] Am.
+- [01:05:12,000 - 01:05:14,000] We'll eventually change that.
+- [01:05:14,000 - 01:05:16,000] I don't like that.
+- [01:05:16,000 - 01:05:18,500] But for the moment, angular
+- [01:05:18,500 - 01:05:21,000] momentum is n times h bar.
+- [01:05:21,000 - 01:05:23,000] Momentum is quantized in this particular unit.
+- [01:05:23,000 - 01:05:26,500] It's a periodic world, but the unit of
+- [01:05:26,500 - 01:05:30,000] momentum depends on the length around the circuit.
+- [01:05:30,000 - 01:05:31,000] Okay?
+- [01:05:31,000 - 01:05:34,000] The angular momentum is quantized, but
+- [01:05:34,000 - 01:05:37,000] always in units of h bar.
+- [01:05:37,000 - 01:05:40,000] All angular momenta come in units
+- [01:05:40,000 - 01:05:43,000] of h bar, except when they don't.
+- [01:05:43,000 - 01:05:44,500] When they don't is when you
+- [01:05:44,500 - 01:05:46,000] have fermions, but we'll come to that.
+- [01:05:46,000 - 01:05:50,000] That's later, not tonight.
+- [01:05:50,000 - 01:05:52,000] There are exceptions to this rule.
+- [01:05:53,000 - 01:05:58,000] Okay.
+- [01:05:58,000 - 01:06:01,000] Now we want, in the next hour,
+- [01:06:01,000 - 01:06:04,000] to invent the idea of a quantum field.
+- [01:06:04,000 - 01:06:06,000] And what is a quantum field?
+- [01:06:06,000 - 01:06:09,000] In the simplest possible
+- [01:06:09,000 - 01:06:12,000] case, the simplest possible situation,
+- [01:06:12,000 - 01:06:15,000] what exactly is a quantum field?
+- [01:06:15,000 - 01:06:17,500] How is the quantum field related
+- [01:06:17,500 - 01:06:20,000] to particles and to its quanta?
+- [01:06:20,000 - 01:06:22,000] What is the connection between particles and fields
+- [01:06:22,000 - 01:06:24,000] with some precision?
+- [01:06:24,000 - 01:06:26,500] And that's what we'll do next,
+- [01:06:26,500 - 01:06:29,000] but let's take a five-minute break.
+- [01:06:29,000 - 01:06:31,000] All right, now we have to enter into
+- [01:06:31,000 - 01:06:33,000] the real world of quantum mechanics a little bit.
+- [01:06:33,000 - 01:06:45,000] And for that, if you're not knowledgeable about it,
+- [01:06:45,000 - 01:06:49,000] you have various alternatives.
+- [01:06:49,000 - 01:06:51,000] One is to go to sleep.
+- [01:06:51,000 - 01:06:54,500] Another is to listen and try
+- [01:06:54,500 - 01:06:58,000] to get, you know, sort of a,
+- [01:06:58,000 - 01:07:02,000] what's the right word for a very impressionistic,
+- [01:07:02,000 - 01:07:05,000] hmm, a what?
+- [01:07:05,000 - 01:07:08,500] Yeah, you know, get the, oh, there
+- [01:07:08,500 - 01:07:12,000] must be some word for a very impressionistic,
+- [01:07:12,000 - 01:07:16,000] sort of soft, fuzzy feel for things.
+- [01:07:16,000 - 01:07:19,000] And the third is to go back, what, what?
+- [01:07:21,000 - 01:07:23,000] Fox News.
+- [01:07:27,000 - 01:07:30,000] I hope to do better than that, please.
+- [01:07:30,000 - 01:07:32,000] And the third is to go back
+- [01:07:32,000 - 01:07:34,000] and learn a little bit about quantum mechanics.
+- [01:07:34,000 - 01:07:36,500] There will be nothing here that
+- [01:07:36,500 - 01:07:39,000] I haven't discussed in previous lectures
+- [01:07:39,000 - 01:07:42,000] on quantum mechanics.
+- [01:07:42,000 - 01:07:46,000] In particular, the most important thing for our purposes now
+- [01:07:46,000 - 01:07:50,000] is one of the simplest of all quantum systems,
+- [01:07:50,000 - 01:07:52,000] the harmonic oscillator.
+- [01:07:52,000 - 01:07:55,000] Why does the harmonic oscillator come up?
+- [01:07:55,000 - 01:07:56,500] The harmonic oscillator is important
+- [01:07:56,500 - 01:07:58,000] for a great many reasons,
+- [01:07:58,000 - 01:08:01,000] but in our particular context,
+- [01:08:01,000 - 01:08:04,000] it's because waves are oscillations.
+- [01:08:04,000 - 01:08:07,500] If you just see a wave going
+- [01:08:07,500 - 01:08:11,000] past you, obviously the amp, the field,
+- [01:08:11,000 - 01:08:15,000] electric, magnetic, whatever it is, oscillates.
+- [01:08:15,000 - 01:08:16,500] In fact, the fact that it oscillates is
+- [01:08:16,500 - 01:08:18,000] equivalent to the statement that it has a frequency.
+- [01:08:18,000 - 01:08:23,000] A wave may be made up out
+- [01:08:23,000 - 01:08:28,000] of a superposition of many different wavelengths.
+- [01:08:28,000 - 01:08:31,000] For example, light, you can
+- [01:08:31,000 - 01:08:34,000] mix together different colors of light
+- [01:08:34,000 - 01:08:38,000] and create light of mixed different wavelengths.
+- [01:08:38,000 - 01:08:40,500] But you can also separate it,
+- [01:08:40,500 - 01:08:43,000] as did Newton, into its component wavelengths.
+- [01:08:43,000 - 01:08:44,500] And so every light wave can be
+- [01:08:44,500 - 01:08:46,000] thought of as being made up of individual,
+- [01:08:46,000 - 01:08:50,000] components, each with its own frequency,
+- [01:08:50,000 - 01:08:54,000] its own amplitude, and so forth.
+- [01:08:54,000 - 01:08:56,500] Therefore, it can be thought of as being
+- [01:08:56,500 - 01:08:59,000] made up out of a collection of quanta,
+- [01:08:59,000 - 01:09:01,500] and the quanta are not all
+- [01:09:01,500 - 01:09:04,000] of the same energy and momentum,
+- [01:09:04,000 - 01:09:06,500] but still it can be separated
+- [01:09:06,500 - 01:09:09,000] into quanta of different energy and momentum.
+- [01:09:09,000 - 01:09:11,500] And each energy and momentum
+- [01:09:11,500 - 01:09:14,000] is associated with a wavelength.
+- [01:09:14,000 - 01:09:16,000] Each wavelength is associated with a frequency.
+- [01:09:16,000 - 01:09:21,000] And a frequency is by definition an oscillation.
+- [01:09:21,000 - 01:09:24,500] So one can think of a
+- [01:09:24,500 - 01:09:28,000] wave as a collection of harmonic oscillators.
+- [01:09:28,000 - 01:09:32,000] Harmonic oscillators being the simplest
+- [01:09:32,000 - 01:09:36,000] kind of oscillation, sines and cosines.
+- [01:09:36,000 - 01:09:39,000] In order to proceed with what a quantum field is,
+- [01:09:39,000 - 01:09:40,500] we have to go back
+- [01:09:40,500 - 01:09:42,000] to what the harmonic oscillator is.
+- [01:09:42,000 - 01:09:45,000] So let's begin with the harmonic oscillator.
+- [01:09:46,000 - 01:09:53,000] Quantum mechanics is a strange theory.
+- [01:09:53,000 - 01:09:56,000] It has things, numbers in it, which
+- [01:09:56,000 - 01:09:59,000] don't satisfy the usual rules of arithmetic.
+- [01:09:59,000 - 01:10:02,500] Technically, they are operators representing the
+- [01:10:02,500 - 01:10:06,000] observable things that you can measure.
+- [01:10:06,000 - 01:10:09,000] And they have some rules.
+- [01:10:09,000 - 01:10:12,000] You can add them, you can multiply them,
+- [01:10:12,000 - 01:10:15,000] but they don't necessarily commute.
+- [01:10:16,000 - 01:10:17,000] What does that mean?
+- [01:10:17,000 - 01:10:20,000] That means if you have two variables describing
+- [01:10:20,000 - 01:10:23,000] two different attributes or properties of a system,
+- [01:10:23,000 - 01:10:27,000] each of which by itself might be measurable,
+- [01:10:27,000 - 01:10:29,000] might be something you can measure,
+- [01:10:29,000 - 01:10:31,000] let's call them A and B,
+- [01:10:31,000 - 01:10:34,000] just to give them names.
+- [01:10:34,000 - 01:10:37,000] A could stand, for example, for electric field.
+- [01:10:37,000 - 01:10:40,000] B could stand for magnetic field.
+- [01:10:40,000 - 01:10:43,000] Or A could stand for the position of an electron.
+- [01:10:43,000 - 01:10:46,000] B could stand for the electric field.
+- [01:10:46,000 - 01:10:49,000] But any two pair of things,
+- [01:10:49,000 - 01:10:53,000] then ordinarily, in ordinary mathematics, of course,
+- [01:10:53,000 - 01:10:56,000] the product of them,
+- [01:10:56,000 - 01:10:59,000] doesn't matter which order you multiply them,
+- [01:10:59,000 - 01:11:01,000] A times B is equal to B times A.
+- [01:11:01,000 - 01:11:03,000] That's just a property of numbers.
+- [01:11:03,000 - 01:11:07,000] In quantum mechanics, of course, that is not generally true.
+- [01:11:07,000 - 01:11:09,000] It may or may not
+- [01:11:09,000 - 01:11:11,000] be true of two observable quantities.
+- [01:11:11,000 - 01:11:13,000] And when it's not true,
+- [01:11:13,000 - 01:11:15,000] we just write that the difference between these two,
+- [01:11:16,000 - 01:11:18,000] these two A's,
+- [01:11:18,000 - 01:11:20,000] is not equal to zero.
+- [01:11:20,000 - 01:11:21,000] Now what nonsense.
+- [01:11:21,000 - 01:11:22,500] I mean, if I measure the
+- [01:11:22,500 - 01:11:24,000] electric field and it's some number,
+- [01:11:24,000 - 01:11:25,000] and I measure the magnetic
+- [01:11:25,000 - 01:11:26,000] field and it's some other number,
+- [01:11:26,000 - 01:11:28,000] and I multiply them,
+- [01:11:28,000 - 01:11:30,000] how can it possibly be
+- [01:11:30,000 - 01:11:31,500] that it doesn't make sense to
+- [01:11:31,500 - 01:11:33,000] multiply them in the opposite order
+- [01:11:33,000 - 01:11:35,000] and get the same answer?
+- [01:11:35,000 - 01:11:37,000] Generally speaking,
+- [01:11:37,000 - 01:11:44,000] when the answer depends on the order of multiplication,
+- [01:11:44,000 - 01:11:45,000] what it really means,
+- [01:11:45,000 - 01:11:47,000] in other words, when this is not zero,
+- [01:11:47,000 - 01:11:49,500] what it really means is that you
+- [01:11:49,500 - 01:11:52,000] can't measure both of these things simultaneously,
+- [01:11:52,000 - 01:11:54,000] that they interfere with each other.
+- [01:11:54,000 - 01:11:57,000] The experiment that measures one of them
+- [01:11:57,000 - 01:12:02,000] necessarily screws up the measurement of the other one.
+- [01:12:02,000 - 01:12:06,000] And in that sense,
+- [01:12:06,000 - 01:12:09,000] there's no contradiction when this is not zero,
+- [01:12:09,000 - 01:12:12,000] simply means you can't measure both of them together.
+- [01:12:12,000 - 01:12:15,000] When you can measure two things simultaneously,
+- [01:12:15,000 - 01:12:16,000] and you measure them,
+- [01:12:16,000 - 01:12:18,000] you get numbers for them.
+- [01:12:18,000 - 01:12:19,000] When you multiply the numbers,
+- [01:12:19,000 - 01:12:21,000] the numbers have to commute.
+- [01:12:21,000 - 01:12:23,000] It doesn't matter which order you multiply them in.
+- [01:12:23,000 - 01:12:25,000] And so the test for whether you
+- [01:12:25,000 - 01:12:27,000] can measure two things at the same time
+- [01:12:27,000 - 01:12:29,000] is whether this quantity,
+- [01:12:29,000 - 01:12:32,000] which is also called the commutator,
+- [01:12:32,000 - 01:12:34,500] AB minus BA is called
+- [01:12:34,500 - 01:12:37,000] the commutator of A and B.
+- [01:12:37,000 - 01:12:39,000] Commutator, you know, like going back and forth,
+- [01:12:39,000 - 01:12:41,000] going to work and back.
+- [01:12:41,000 - 01:12:43,000] You interchange the order of them.
+- [01:12:43,000 - 01:12:45,000] It's labeled,
+- [01:12:45,000 - 01:12:49,000] by a bracket with a comma,
+- [01:12:49,000 - 01:12:51,000] and A and B,
+- [01:12:51,000 - 01:12:53,000] the order matters.
+- [01:12:53,000 - 01:12:59,000] So typically, this is not equal to zero.
+- [01:12:59,000 - 01:13:01,000] Incidentally,
+- [01:13:01,000 - 01:13:05,000] the commutator of B with A,
+- [01:13:05,000 - 01:13:07,000] that's just exactly the same thing,
+- [01:13:07,000 - 01:13:11,000] except in the opposite order.
+- [01:13:11,000 - 01:13:13,000] And that's just a sign difference.
+- [01:13:13,000 - 01:13:14,000] These two are the same,
+- [01:13:14,000 - 01:13:16,000] except for a sign.
+- [01:13:16,000 - 01:13:19,000] Okay, that's quantum mechanics in a nutshell.
+- [01:13:19,000 - 01:13:21,000] We just did quantum mechanics.
+- [01:13:26,000 - 01:13:28,000] Examples.
+- [01:13:28,000 - 01:13:30,000] Now, I'm not proving this.
+- [01:13:30,000 - 01:13:32,000] I'm just telling you this now.
+- [01:13:32,000 - 01:13:34,000] But nevertheless, it's a fact.
+- [01:13:34,000 - 01:13:36,000] Partly empirical fact,
+- [01:13:36,000 - 01:13:38,000] partly mathematical fact.
+- [01:13:38,000 - 01:13:42,000] A particle has different components of position.
+- [01:13:42,000 - 01:13:44,000] X, Y,
+- [01:13:44,000 - 01:13:46,000] and Z, for example.
+- [01:13:46,000 - 01:13:48,000] You can measure the position of a particle.
+- [01:13:48,000 - 01:13:50,000] So the components of position of a particle
+- [01:13:50,000 - 01:13:52,000] are candidates
+- [01:13:52,000 - 01:13:54,000] for things which are observables.
+- [01:13:54,000 - 01:13:56,000] These things commute with each other.
+- [01:13:56,000 - 01:13:58,000] You can measure
+- [01:13:58,000 - 01:14:00,000] the X and the Y of a particle
+- [01:14:00,000 - 01:14:02,000] at the same time.
+- [01:14:02,000 - 01:14:03,000] You can measure the X, the
+- [01:14:03,000 - 01:14:04,000] Y, and the Z of a particle
+- [01:14:04,000 - 01:14:06,000] all three simultaneously.
+- [01:14:06,000 - 01:14:08,000] What else can you measure
+- [01:14:08,000 - 01:14:10,000] about a particle?
+- [01:14:10,000 - 01:14:12,000] You can measure its velocity,
+- [01:14:12,000 - 01:14:14,000] mass times velocity,
+- [01:14:14,000 - 01:14:16,000] and those things are called,
+- [01:14:16,000 - 01:14:18,000] the components of them are called
+- [01:14:18,000 - 01:14:20,000] PX, PY, and PZ.
+- [01:14:20,000 - 01:14:22,000] They're the components of the
+- [01:14:22,000 - 01:14:24,000] vector momentum.
+- [01:14:24,000 - 01:14:26,000] And they also
+- [01:14:26,000 - 01:14:28,000] commute with each other.
+- [01:14:28,000 - 01:14:30,000] You can measure the three components,
+- [01:14:30,000 - 01:14:32,000] or better yet, the magnitude
+- [01:14:32,000 - 01:14:34,000] and the direction of
+- [01:14:34,000 - 01:14:36,000] the momentum.
+- [01:14:36,000 - 01:14:38,000] But you can measure all three components
+- [01:14:38,000 - 01:14:40,000] simultaneously. There's no obstruction.
+- [01:14:40,000 - 01:14:42,000] They commute with each other.
+- [01:14:42,000 - 01:14:44,000] So, X commutes with Y,
+- [01:14:44,000 - 01:14:46,000] commutes with Z.
+- [01:14:46,000 - 01:14:48,000] PX commutes with PY, commutes with PZ.
+- [01:14:48,000 - 01:14:50,000] But the components
+- [01:14:50,000 - 01:14:52,000] of position do not commute
+- [01:14:52,000 - 01:14:54,000] with the components of momentum.
+- [01:14:54,000 - 01:14:56,000] So, for example,
+- [01:14:58,000 - 01:15:00,000] you cannot measure
+- [01:15:00,000 - 01:15:02,000] the position,
+- [01:15:02,000 - 01:15:04,000] the X component of the position
+- [01:15:04,000 - 01:15:06,000] of a particle,
+- [01:15:06,000 - 01:15:08,000] and the X component of the momentum
+- [01:15:08,000 - 01:15:10,000] every time
+- [01:15:10,000 - 01:15:12,000] you try to measure the X component
+- [01:15:12,000 - 01:15:14,000] of position, you will give
+- [01:15:14,000 - 01:15:16,000] the particle a whack and change
+- [01:15:16,000 - 01:15:18,000] its momentum, and the result
+- [01:15:18,000 - 01:15:20,000] is you can't measure both of them.
+- [01:15:20,000 - 01:15:22,000] This is not equal to zero.
+- [01:15:22,000 - 01:15:24,000] It's equal to I times
+- [01:15:24,000 - 01:15:26,000] Planck's constant.
+- [01:15:26,000 - 01:15:28,000] It's small.
+- [01:15:28,000 - 01:15:30,000] Simply reflecting the fact
+- [01:15:30,000 - 01:15:32,000] that, um,
+- [01:15:34,000 - 01:15:36,000] well, the uncertainties in position
+- [01:15:36,000 - 01:15:38,000] and momenta are small and
+- [01:15:38,000 - 01:15:40,000] of order H bar.
+- [01:15:40,000 - 01:15:42,000] Likewise, for the Y component,
+- [01:15:42,000 - 01:15:44,000] the Y position
+- [01:15:44,000 - 01:15:46,000] and the Y momentum
+- [01:15:46,000 - 01:15:48,000] don't commute with each other.
+- [01:15:48,000 - 01:15:50,000] Same for the Z components.
+- [01:15:50,000 - 01:15:52,000] How about X with the Y component
+- [01:15:52,000 - 01:15:54,000] of momentum?
+- [01:15:54,000 - 01:15:56,000] Can you measure X and the Y
+- [01:15:56,000 - 01:15:58,000] component of momentum simultaneously?
+- [01:15:58,000 - 01:16:00,000] Yes, as a matter of fact, you can.
+- [01:16:00,000 - 01:16:02,000] Uh,
+- [01:16:02,000 - 01:16:04,000] that may not be obvious,
+- [01:16:04,000 - 01:16:06,000] but it is true.
+- [01:16:06,000 - 01:16:08,000] Okay, um,
+- [01:16:08,000 - 01:16:10,000] so that's
+- [01:16:10,000 - 01:16:12,000] another aspect
+- [01:16:12,000 - 01:16:14,000] of quantum mechanics.
+- [01:16:14,000 - 01:16:16,000] And now let's consider the harmonic
+- [01:16:16,000 - 01:16:18,000] oscillator. Now I'm telling you facts
+- [01:16:18,000 - 01:16:20,000] for the most part, but I'll try to put
+- [01:16:20,000 - 01:16:22,000] the mathematical facts into some kind of
+- [01:16:22,000 - 01:16:24,000] context. These are the facts
+- [01:16:24,000 - 01:16:26,000] that we went through previous
+- [01:16:26,000 - 01:16:28,000] quarters, so I'm not going to
+- [01:16:28,000 - 01:16:30,000] derive them.
+- [01:16:30,000 - 01:16:32,000] Just one quick question.
+- [01:16:32,000 - 01:16:34,000] Yeah.
+- [01:16:34,000 - 01:16:36,000] When we go from X to Y,
+- [01:16:36,000 - 01:16:38,000] is it conventional to go
+- [01:16:38,000 - 01:16:40,000] I to J?
+- [01:16:40,000 - 01:16:42,000] No.
+- [01:16:42,000 - 01:16:44,000] What is the square root of minus one?
+- [01:16:44,000 - 01:16:46,000] This is not I, J, and K
+- [01:16:46,000 - 01:16:48,000] which are unit vectors along the three axes.
+- [01:16:48,000 - 01:16:50,000] No.
+- [01:16:50,000 - 01:16:52,000] And they're also not quaternions,
+- [01:16:52,000 - 01:16:54,000] which also have an I, J,
+- [01:16:54,000 - 01:16:56,000] and a K associated with X, Y, and Z.
+- [01:16:56,000 - 01:16:58,000] But, uh,
+- [01:16:58,000 - 01:17:00,000] no, just I. Just the square root of minus one.
+- [01:17:00,000 - 01:17:02,000] Where does the square root of minus one
+- [01:17:02,000 - 01:17:04,000] get into a formula like this?
+- [01:17:04,000 - 01:17:06,000] Don't ask. We're not going to need it.
+- [01:17:06,000 - 01:17:08,000] The fact is we won't
+- [01:17:08,000 - 01:17:10,000] really need it. We just need to know
+- [01:17:10,000 - 01:17:12,000] that algebraic
+- [01:17:12,000 - 01:17:14,000] manipulations in
+- [01:17:14,000 - 01:17:16,000] quantum mechanics are a little bit
+- [01:17:16,000 - 01:17:18,000] funny, and the funniness
+- [01:17:18,000 - 01:17:20,000] is that you can't, as a rule,
+- [01:17:20,000 - 01:17:22,000] interchange the orders of
+- [01:17:22,000 - 01:17:24,000] operations.
+- [01:17:24,000 - 01:17:26,000] Sir?
+- [01:17:26,000 - 01:17:28,000] Yeah.
+- [01:17:28,000 - 01:17:30,000] A,
+- [01:17:30,000 - 01:17:32,000] AB minus BA.
+- [01:17:32,000 - 01:17:34,000] That means first measure A, then...
+- [01:17:34,000 - 01:17:36,000] It doesn't mean measure.
+- [01:17:36,000 - 01:17:38,000] It doesn't mean measure.
+- [01:17:38,000 - 01:17:40,000] Forget measuring.
+- [01:17:40,000 - 01:17:42,000] Uh,
+- [01:17:42,000 - 01:17:44,000] these are simply mathematical
+- [01:17:44,000 - 01:17:46,000] manipulations
+- [01:17:46,000 - 01:17:48,000] which
+- [01:17:48,000 - 01:17:50,000] are...
+- [01:17:50,000 - 01:17:52,000] Yeah. It doesn't mean first measure A
+- [01:17:52,000 - 01:17:54,000] and then measure B.
+- [01:17:54,000 - 01:17:56,000] It's simply a...
+- [01:17:56,000 - 01:17:58,000] Not simply.
+- [01:17:58,000 - 01:18:00,000] It is a mathematical
+- [01:18:00,000 - 01:18:02,000] manipulation that, uh,
+- [01:18:02,000 - 01:18:04,000] uh,
+- [01:18:08,000 - 01:18:10,000] It's matrix multiplication.
+- [01:18:10,000 - 01:18:12,000] Operator multiplication, yes.
+- [01:18:12,000 - 01:18:14,000] But, uh, we're not going to...
+- [01:18:14,000 - 01:18:16,000] We're not going through the principles of quantum
+- [01:18:16,000 - 01:18:18,000] mechanics here. I'm just restating
+- [01:18:18,000 - 01:18:20,000] things that we've learned in the past.
+- [01:18:20,000 - 01:18:22,000] And if, uh,
+- [01:18:22,000 - 01:18:24,000] you, uh,
+- [01:18:24,000 - 01:18:26,000] need
+- [01:18:26,000 - 01:18:28,000] to understand them better, the only way to do it
+- [01:18:28,000 - 01:18:30,000] is to go back to earlier
+- [01:18:30,000 - 01:18:32,000] lectures. Okay.
+- [01:18:32,000 - 01:18:34,000] Question? Yes, sir.
+- [01:18:34,000 - 01:18:36,000] Does that apply to a photon?
+- [01:18:36,000 - 01:18:38,000] Does that apply to a photon?
+- [01:18:38,000 - 01:18:40,000] Not quite.
+- [01:18:40,000 - 01:18:42,000] But close.
+- [01:18:42,000 - 01:18:44,000] There is a... It doesn't really apply to
+- [01:18:44,000 - 01:18:46,000] a photon. It applies, strictly speaking, to
+- [01:18:46,000 - 01:18:48,000] non-relativistic particles.
+- [01:18:48,000 - 01:18:50,000] Um,
+- [01:18:50,000 - 01:18:52,000] the problem is that the position of a
+- [01:18:52,000 - 01:18:54,000] photon is not so well defined.
+- [01:18:56,000 - 01:18:58,000] The position of a photon is harder to define
+- [01:18:58,000 - 01:19:00,000] than the position of a non-relativistic
+- [01:19:00,000 - 01:19:02,000] particle. Uh,
+- [01:19:06,000 - 01:19:08,000] So,
+- [01:19:08,000 - 01:19:10,000] um,
+- [01:19:10,000 - 01:19:12,000] But let's... We can come back to that.
+- [01:19:12,000 - 01:19:14,000] That's a subtlety which is not terribly
+- [01:19:14,000 - 01:19:16,000] important to us now.
+- [01:19:16,000 - 01:19:18,000] Okay, the harmonic oscillator.
+- [01:19:18,000 - 01:19:20,000] The harmonic oscillator
+- [01:19:20,000 - 01:19:22,000] is a system, a classical
+- [01:19:22,000 - 01:19:24,000] system, which has a quantum
+- [01:19:24,000 - 01:19:26,000] mechanical analog.
+- [01:19:26,000 - 01:19:28,000] And it simply means a system which
+- [01:19:28,000 - 01:19:30,000] oscillates a weight
+- [01:19:30,000 - 01:19:32,000] on the end of a spring which
+- [01:19:32,000 - 01:19:34,000] oscillates up and down.
+- [01:19:34,000 - 01:19:36,000] Uh, a sound wave that
+- [01:19:36,000 - 01:19:38,000] oscillates, a light wave
+- [01:19:38,000 - 01:19:40,000] that oscillates, anything that oscillates
+- [01:19:40,000 - 01:19:42,000] like a spring going back and forth.
+- [01:19:42,000 - 01:19:44,000] We can think of thousands of examples,
+- [01:19:44,000 - 01:19:46,000] and the mathematics of them
+- [01:19:46,000 - 01:19:48,000] is always the same.
+- [01:19:50,000 - 01:19:52,000] Every oscillation, or every oscillator,
+- [01:19:52,000 - 01:19:54,000] has a frequency.
+- [01:19:54,000 - 01:19:56,000] It can either be taken
+- [01:19:56,000 - 01:19:58,000] and we can call it an
+- [01:19:58,000 - 01:20:00,000] omega.
+- [01:20:02,000 - 01:20:04,000] The frequency, again, is 2 pi
+- [01:20:04,000 - 01:20:06,000] times the number of cycles
+- [01:20:06,000 - 01:20:08,000] per second.
+- [01:20:08,000 - 01:20:10,000] Alright? Cycle per second for a spring
+- [01:20:10,000 - 01:20:12,000] with a weight on it is
+- [01:20:12,000 - 01:20:14,000] just how long it takes to go
+- [01:20:14,000 - 01:20:16,000] through one full swing and
+- [01:20:16,000 - 01:20:18,000] come back to the same place.
+- [01:20:18,000 - 01:20:20,000] Not just the same place, but the same velocity.
+- [01:20:20,000 - 01:20:22,000] So if you have a weight
+- [01:20:22,000 - 01:20:24,000] on the end of a spring
+- [01:20:24,000 - 01:20:26,000] and it oscillates,
+- [01:20:26,000 - 01:20:28,000] the frequency
+- [01:20:28,000 - 01:20:30,000] is not
+- [01:20:30,000 - 01:20:32,000] how long it takes to come back to the same
+- [01:20:32,000 - 01:20:33,000] place, but how long it takes
+- [01:20:33,000 - 01:20:34,000] to come back to the same
+- [01:20:34,000 - 01:20:36,000] place moving in the same direction.
+- [01:20:36,000 - 01:20:38,000] So one full oscillation
+- [01:20:38,000 - 01:20:40,000] uh
+- [01:20:40,000 - 01:20:42,000] is the period
+- [01:20:42,000 - 01:20:44,000] the number of
+- [01:20:44,000 - 01:20:46,000] cycles, or number of oscillations
+- [01:20:46,000 - 01:20:48,000] per second is the frequency f
+- [01:20:48,000 - 01:20:50,000] and as usual
+- [01:20:50,000 - 01:20:52,000] omega is 2 pi f.
+- [01:20:52,000 - 01:20:54,000] Nothing
+- [01:20:54,000 - 01:20:56,000] unusual. The usual
+- [01:20:56,000 - 01:20:58,000] omega.
+- [01:20:58,000 - 01:21:00,000] Now,
+- [01:21:00,000 - 01:21:02,000] what is unusual about the
+- [01:21:02,000 - 01:21:04,000] quantum mechanical harmonic oscillator
+- [01:21:04,000 - 01:21:06,000] is that energy
+- [01:21:06,000 - 01:21:08,000] is quantized.
+- [01:21:08,000 - 01:21:10,000] Not momentum, not the
+- [01:21:10,000 - 01:21:12,000] uh, but energy
+- [01:21:12,000 - 01:21:14,000] is quantized.
+- [01:21:14,000 - 01:21:16,000] This is something which you
+- [01:21:16,000 - 01:21:18,000] either look up
+- [01:21:18,000 - 01:21:20,000] or accept.
+- [01:21:20,000 - 01:21:22,000] So let's plot vertically
+- [01:21:22,000 - 01:21:24,000] the energy levels of such a
+- [01:21:24,000 - 01:21:26,000] harmonic oscillator.
+- [01:21:26,000 - 01:21:28,000] Classically,
+- [01:21:28,000 - 01:21:30,000] of course, there is a lowest energy
+- [01:21:30,000 - 01:21:32,000] which is zero.
+- [01:21:34,000 - 01:21:36,000] Just the oscillator at rest.
+- [01:21:38,000 - 01:21:40,000] And then you give it a little poke
+- [01:21:40,000 - 01:21:42,000] and it starts to swing back and forth.
+- [01:21:42,000 - 01:21:44,000] You can give it any positive value of energy.
+- [01:21:44,000 - 01:21:46,000] Of course, if you hit it too hard
+- [01:21:46,000 - 01:21:47,000] and try to give it
+- [01:21:47,000 - 01:21:48,000] too much energy, you might melt
+- [01:21:48,000 - 01:21:50,000] the spring or
+- [01:21:50,000 - 01:21:52,000] break the spring.
+- [01:21:52,000 - 01:21:54,000] But in a mathematically idealized
+- [01:21:54,000 - 01:21:56,000] version of the harmonic oscillator,
+- [01:21:56,000 - 01:21:58,000] you can give it any positive
+- [01:21:58,000 - 01:22:00,000] value of energy.
+- [01:22:00,000 - 01:22:02,000] Not so the quantum mechanical oscillator.
+- [01:22:02,000 - 01:22:04,000] The quantum mechanical oscillator
+- [01:22:04,000 - 01:22:06,000] has discrete
+- [01:22:06,000 - 01:22:08,000] integer
+- [01:22:08,000 - 01:22:10,000] units of
+- [01:22:10,000 - 01:22:12,000] energy.
+- [01:22:12,000 - 01:22:14,000] If we call the lowest energy
+- [01:22:14,000 - 01:22:16,000] zero,
+- [01:22:16,000 - 01:22:18,000] sometimes
+- [01:22:18,000 - 01:22:20,000] it's appropriate
+- [01:22:20,000 - 01:22:22,000] to call the lowest energy
+- [01:22:22,000 - 01:22:24,000] not quite zero, but we can define.
+- [01:22:24,000 - 01:22:26,000] We can define the lowest energy
+- [01:22:26,000 - 01:22:28,000] to be zero, then what's the
+- [01:22:28,000 - 01:22:30,000] next energy level?
+- [01:22:30,000 - 01:22:32,000] H bar omega.
+- [01:22:34,000 - 01:22:36,000] The same formula
+- [01:22:36,000 - 01:22:38,000] as the energy of a photon
+- [01:22:38,000 - 01:22:40,000] of frequency omega.
+- [01:22:40,000 - 01:22:42,000] What's the next one?
+- [01:22:42,000 - 01:22:44,000] Two H bar omega.
+- [01:22:44,000 - 01:22:46,000] Two H bar omega.
+- [01:22:48,000 - 01:22:50,000] That could either be
+- [01:22:50,000 - 01:22:52,000] the energy of a single
+- [01:22:52,000 - 01:22:54,000] photon associated
+- [01:22:54,000 - 01:22:56,000] with a frequency twice as big
+- [01:22:56,000 - 01:22:58,000] as the first one,
+- [01:22:58,000 - 01:23:00,000] or it could correspond
+- [01:23:00,000 - 01:23:02,000] to two photons
+- [01:23:02,000 - 01:23:04,000] both associated
+- [01:23:04,000 - 01:23:06,000] with a wave of frequency omega.
+- [01:23:06,000 - 01:23:08,000] It's the second
+- [01:23:08,000 - 01:23:10,000] idea
+- [01:23:10,000 - 01:23:12,000] that I want to dwell on.
+- [01:23:12,000 - 01:23:14,000] That this has the same energy
+- [01:23:14,000 - 01:23:16,000] as two photons.
+- [01:23:16,000 - 01:23:18,000] Now, so far there are no photons.
+- [01:23:18,000 - 01:23:20,000] There's only springs and balls
+- [01:23:20,000 - 01:23:22,000] and oscillations back and forth.
+- [01:23:22,000 - 01:23:24,000] But nevertheless, this does have
+- [01:23:24,000 - 01:23:26,000] the energy of
+- [01:23:26,000 - 01:23:28,000] one photon
+- [01:23:28,000 - 01:23:30,000] associated with a frequency omega.
+- [01:23:30,000 - 01:23:32,000] This has the energy of two photons
+- [01:23:32,000 - 01:23:34,000] of frequency omega
+- [01:23:34,000 - 01:23:36,000] and so forth. Three H
+- [01:23:36,000 - 01:23:38,000] bar omega and so forth.
+- [01:23:38,000 - 01:23:40,000] Those are the
+- [01:23:40,000 - 01:23:42,000] possible energies of the harmonic
+- [01:23:42,000 - 01:23:44,000] oscillator.
+- [01:23:44,000 - 01:23:46,000] Nothing in between.
+- [01:23:46,000 - 01:23:48,000] We can label them
+- [01:23:48,000 - 01:23:50,000] with an integer.
+- [01:23:50,000 - 01:23:52,000] And we can write that the energy
+- [01:23:52,000 - 01:23:54,000] is an integer
+- [01:23:54,000 - 01:23:56,000] times H bar omega.
+- [01:23:56,000 - 01:23:58,000] Where
+- [01:23:58,000 - 01:24:00,000] n is just an integer
+- [01:24:00,000 - 01:24:02,000] which labels which one of these states
+- [01:24:02,000 - 01:24:04,000] the oscillator
+- [01:24:04,000 - 01:24:06,000] is oscillating in.
+- [01:24:06,000 - 01:24:08,000] It's
+- [01:24:08,000 - 01:24:10,000] just a matter of notation.
+- [01:24:10,000 - 01:24:12,000] For us here, it's just a matter
+- [01:24:12,000 - 01:24:14,000] of notation.
+- [01:24:14,000 - 01:24:16,000] Mathematics of it, we don't
+- [01:24:16,000 - 01:24:18,000] need to get into.
+- [01:24:18,000 - 01:24:20,000] We label the various states of the oscillator
+- [01:24:20,000 - 01:24:22,000] by an integer
+- [01:24:22,000 - 01:24:24,000] n.
+- [01:24:24,000 - 01:24:26,000] And it's
+- [01:24:26,000 - 01:24:28,000] conventional to just label
+- [01:24:28,000 - 01:24:30,000] the states of the oscillator by a little
+- [01:24:30,000 - 01:24:32,000] pointy thing like that.
+- [01:24:32,000 - 01:24:34,000] It's called a ket.
+- [01:24:34,000 - 01:24:36,000] It's called a ket because it's the right hand side
+- [01:24:36,000 - 01:24:38,000] of a braket.
+- [01:24:38,000 - 01:24:40,000] But we don't need the bra end of it.
+- [01:24:40,000 - 01:24:42,000] We only need the ket end of it.
+- [01:24:42,000 - 01:24:44,000] And it's
+- [01:24:44,000 - 01:24:46,000] as I said, go back and study quantum mechanics
+- [01:24:46,000 - 01:24:48,000] but all this is, all this
+- [01:24:48,000 - 01:24:50,000] labels, this is a symbol
+- [01:24:50,000 - 01:24:52,000] representing
+- [01:24:52,000 - 01:24:54,000] if you put n equals zero here
+- [01:24:54,000 - 01:24:56,000] it represents the state of the oscillator
+- [01:24:56,000 - 01:24:58,000] where it's in its ground state.
+- [01:24:58,000 - 01:25:00,000] Ground state means the lowest energy state.
+- [01:25:00,000 - 01:25:02,000] If you put a one here
+- [01:25:02,000 - 01:25:04,000] it represents the oscillator
+- [01:25:04,000 - 01:25:06,000] oscillating with one quantum
+- [01:25:06,000 - 01:25:08,000] of energy, one unit of energy.
+- [01:25:08,000 - 01:25:10,000] You put a two here, it represents
+- [01:25:10,000 - 01:25:12,000] the oscillator with two units of energy.
+- [01:25:12,000 - 01:25:14,000] And so forth.
+- [01:25:14,000 - 01:25:16,000] So it's just a notation.
+- [01:25:16,000 - 01:25:18,000] It's just a convenient notation
+- [01:25:18,000 - 01:25:20,000] for labeling the various possible
+- [01:25:20,000 - 01:25:22,000] configurations of the quantum
+- [01:25:22,000 - 01:25:24,000] harmonic oscillator.
+- [01:25:24,000 - 01:25:26,000] Now
+- [01:25:26,000 - 01:25:28,000] let's invent
+- [01:25:28,000 - 01:25:30,000] an operation.
+- [01:25:30,000 - 01:25:32,000] It's actually not only an operation,
+- [01:25:32,000 - 01:25:34,000] it's an operator. There's a difference.
+- [01:25:34,000 - 01:25:36,000] An operator.
+- [01:25:36,000 - 01:25:38,000] And this operator
+- [01:25:38,000 - 01:25:40,000] acts
+- [01:25:40,000 - 01:25:42,000] on a state
+- [01:25:42,000 - 01:25:44,000] to change the state
+- [01:25:44,000 - 01:25:46,000] to a new state.
+- [01:25:46,000 - 01:25:48,000] So a mathematical operation
+- [01:25:48,000 - 01:25:50,000] which
+- [01:25:50,000 - 01:25:52,000] takes you from any state
+- [01:25:52,000 - 01:25:54,000] to the neighboring one
+- [01:25:54,000 - 01:25:56,000] one unit above it.
+- [01:25:56,000 - 01:25:58,000] Acts on this state
+- [01:25:58,000 - 01:26:00,000] to give you this one.
+- [01:26:00,000 - 01:26:02,000] Acts on this state to give you this one.
+- [01:26:02,000 - 01:26:04,000] Acts on this state to give you this one.
+- [01:26:04,000 - 01:26:06,000] Acts on this state to give you this one.
+- [01:26:06,000 - 01:26:08,000] So
+- [01:26:08,000 - 01:26:10,000] we can write down what it does.
+- [01:26:10,000 - 01:26:12,000] Let's call it A+.
+- [01:26:12,000 - 01:26:14,000] And the plus indicates
+- [01:26:14,000 - 01:26:16,000] that it raises the energy of a state.
+- [01:26:16,000 - 01:26:18,000] And it acts
+- [01:26:18,000 - 01:26:20,000] on the nth state
+- [01:26:20,000 - 01:26:22,000] to give what?
+- [01:26:22,000 - 01:26:24,000] n plus one
+- [01:26:24,000 - 01:26:26,000] but with a coefficient in front of it.
+- [01:26:32,000 - 01:26:34,000] Square root of
+- [01:26:34,000 - 01:26:36,000] n plus one.
+- [01:26:36,000 - 01:26:38,000] Now this is
+- [01:26:38,000 - 01:26:40,000] mumbly jumbly unless you know the
+- [01:26:40,000 - 01:26:42,000] bit about the
+- [01:26:42,000 - 01:26:44,000] mathematics of linear operators
+- [01:26:44,000 - 01:26:46,000] and so forth.
+- [01:26:46,000 - 01:26:48,000] So as I said, either you know it
+- [01:26:48,000 - 01:26:50,000] then you can follow it or you don't know it
+- [01:26:50,000 - 01:26:51,000] then you can just get a
+- [01:26:51,000 - 01:26:52,000] hazy impression of what it means.
+- [01:26:52,000 - 01:26:54,000] But this is the mathematical
+- [01:26:54,000 - 01:26:56,000] property
+- [01:26:56,000 - 01:26:58,000] of this operation here.
+- [01:26:58,000 - 01:27:00,000] It multiplies
+- [01:27:00,000 - 01:27:02,000] any state vector
+- [01:27:02,000 - 01:27:04,000] by a square root of n plus one
+- [01:27:04,000 - 01:27:06,000] and raises you to the next level.
+- [01:27:06,000 - 01:27:08,000] But basically, it's a shift.
+- [01:27:08,000 - 01:27:10,000] A thing which shifts you
+- [01:27:10,000 - 01:27:12,000] from one level to the next.
+- [01:27:12,000 - 01:27:14,000] Just an operation which shifts you from one level
+- [01:27:14,000 - 01:27:16,000] to the next.
+- [01:27:16,000 - 01:27:18,000] And we gotta keep track of a numerical coefficient
+- [01:27:18,000 - 01:27:20,000] in front of it.
+- [01:27:20,000 - 01:27:22,000] What about A-? What does it do?
+- [01:27:22,000 - 01:27:24,000] Takes you down
+- [01:27:24,000 - 01:27:26,000] and minus one
+- [01:27:26,000 - 01:27:28,000] and minus one
+- [01:27:28,000 - 01:27:30,000] What's the coefficient?
+- [01:27:30,000 - 01:27:32,000] Square root of n.
+- [01:27:32,000 - 01:27:34,000] Square root of n.
+- [01:27:40,000 - 01:27:42,000] What happens if this one
+- [01:27:42,000 - 01:27:44,000] acts on the bottom state?
+- [01:27:44,000 - 01:27:46,000] Where does it take you?
+- [01:27:50,000 - 01:27:52,000] It doesn't take you anywhere.
+- [01:27:52,000 - 01:27:54,000] It just gives you zero.
+- [01:27:54,000 - 01:27:56,000] That's because if it acts on the bottom state
+- [01:27:56,000 - 01:27:58,000] and is zero, then it just gives you zero.
+- [01:27:58,000 - 01:28:00,000] Nothing. No state there.
+- [01:28:00,000 - 01:28:02,000] Just the non-state.
+- [01:28:02,000 - 01:28:04,000] There's nothing to get to, so it just gives you
+- [01:28:04,000 - 01:28:06,000] zero.
+- [01:28:06,000 - 01:28:08,000] This is the mathematics of creation
+- [01:28:08,000 - 01:28:10,000] and annihilation operators
+- [01:28:10,000 - 01:28:12,000] or raising and lowering operators.
+- [01:28:12,000 - 01:28:14,000] Now we're just gonna
+- [01:28:14,000 - 01:28:16,000] do some little mumbo jumbo
+- [01:28:16,000 - 01:28:18,000] with it.
+- [01:28:18,000 - 01:28:20,000] I'm gonna show you some properties
+- [01:28:20,000 - 01:28:22,000] of these operations.
+- [01:28:22,000 - 01:28:24,000] They're interesting,
+- [01:28:24,000 - 01:28:26,000] they're entertaining, and you can do some
+- [01:28:26,000 - 01:28:28,000] you can have some
+- [01:28:28,000 - 01:28:30,000] fun with them.
+- [01:28:30,000 - 01:28:32,000] Just knowing some
+- [01:28:32,000 - 01:28:34,000] very simple set of rules.
+- [01:28:36,000 - 01:28:38,000] And this is the rules.
+- [01:28:38,000 - 01:28:40,000] Let's
+- [01:28:40,000 - 01:28:42,000] see what
+- [01:28:42,000 - 01:28:44,000] happens if we take
+- [01:28:44,000 - 01:28:46,000] the state n
+- [01:28:46,000 - 01:28:48,000] and multiply
+- [01:28:48,000 - 01:28:50,000] it first
+- [01:28:50,000 - 01:28:52,000] by
+- [01:28:52,000 - 01:28:54,000] a minus and then by a plus.
+- [01:28:54,000 - 01:28:56,000] In other words, let's
+- [01:28:56,000 - 01:28:58,000] hit it with a minus
+- [01:28:58,000 - 01:29:00,000] and then a plus.
+- [01:29:00,000 - 01:29:02,000] What do we get?
+- [01:29:04,000 - 01:29:06,000] All we do is follow the rules.
+- [01:29:06,000 - 01:29:08,000] Alright, so first of all
+- [01:29:10,000 - 01:29:12,000] Oh, one important thing.
+- [01:29:12,000 - 01:29:14,000] Some things
+- [01:29:14,000 - 01:29:16,000] are just numbers.
+- [01:29:16,000 - 01:29:18,000] Not everything is one of these
+- [01:29:18,000 - 01:29:20,000] peculiar things that
+- [01:29:20,000 - 01:29:22,000] where the order of multiplication matters.
+- [01:29:22,000 - 01:29:24,000] Some things are really just numbers.
+- [01:29:24,000 - 01:29:26,000] Things like
+- [01:29:26,000 - 01:29:28,000] n are just numbers.
+- [01:29:28,000 - 01:29:30,000] That means that the order that
+- [01:29:30,000 - 01:29:32,000] you multiply them doesn't matter.
+- [01:29:32,000 - 01:29:34,000] Some things, the order of
+- [01:29:34,000 - 01:29:36,000] multiplication is perfectly
+- [01:29:36,000 - 01:29:38,000] ordinary, and n
+- [01:29:38,000 - 01:29:40,000] is always something
+- [01:29:40,000 - 01:29:42,000] rather ordinary.
+- [01:29:42,000 - 01:29:44,000] Okay, so what happens,
+- [01:29:44,000 - 01:29:46,000] what is this equal to?
+- [01:29:46,000 - 01:29:48,000] Well, let's take it in pieces.
+- [01:29:48,000 - 01:29:50,000] Let's first multiply a minus by n.
+- [01:29:50,000 - 01:29:52,000] What does it give?
+- [01:29:52,000 - 01:29:54,000] a plus and then a minus times n is what?
+- [01:29:54,000 - 01:29:56,000] Square root of n
+- [01:29:56,000 - 01:29:58,000] times n minus one.
+- [01:29:58,000 - 01:30:00,000] So let's take that on the
+- [01:30:00,000 - 01:30:02,000] outside and
+- [01:30:02,000 - 01:30:04,000] n minus one.
+- [01:30:04,000 - 01:30:06,000] Now what happens
+- [01:30:06,000 - 01:30:08,000] if we hit it with a plus?
+- [01:30:08,000 - 01:30:12,000] If we hit any vector
+- [01:30:12,000 - 01:30:14,000] or any, sorry, any state
+- [01:30:14,000 - 01:30:16,000] with a plus,
+- [01:30:16,000 - 01:30:18,000] it raises us back, it raises us
+- [01:30:18,000 - 01:30:20,000] to the next level up, but
+- [01:30:20,000 - 01:30:22,000] multiplies
+- [01:30:22,000 - 01:30:24,000] by
+- [01:30:24,000 - 01:30:26,000] square root of n plus one.
+- [01:30:26,000 - 01:30:27,000] But what does square root
+- [01:30:27,000 - 01:30:28,000] of n plus one here mean?
+- [01:30:32,000 - 01:30:34,000] It just means square root of n.
+- [01:30:34,000 - 01:30:36,000] Since I'm now starting at n minus one,
+- [01:30:36,000 - 01:30:38,000] hitting it with a plus,
+- [01:30:38,000 - 01:30:40,000] will give me square root of n,
+- [01:30:40,000 - 01:30:42,000] another square root of n,
+- [01:30:42,000 - 01:30:44,000] and n.
+- [01:30:44,000 - 01:30:46,000] Square root of n
+- [01:30:46,000 - 01:30:48,000] times square root of n is n.
+- [01:30:48,000 - 01:30:50,000] It just gives me the number n
+- [01:30:50,000 - 01:30:52,000] times n.
+- [01:30:54,000 - 01:30:56,000] That's just a little game
+- [01:30:56,000 - 01:30:57,000] that we're playing. We're playing
+- [01:30:57,000 - 01:30:58,000] a little game with a set
+- [01:30:58,000 - 01:31:00,000] of logical rules here.
+- [01:31:00,000 - 01:31:02,000] And what we find out
+- [01:31:02,000 - 01:31:04,000] is if we multiply by a plus
+- [01:31:04,000 - 01:31:06,000] and a minus with this set of logical
+- [01:31:06,000 - 01:31:08,000] rules, it's equivalent
+- [01:31:08,000 - 01:31:10,000] to multiplying by the numerical
+- [01:31:10,000 - 01:31:12,000] number n.
+- [01:31:12,000 - 01:31:14,000] Whatever state we put here, if we put here
+- [01:31:14,000 - 01:31:16,000] the first, the zero state,
+- [01:31:16,000 - 01:31:18,000] or if we put here the lowest state,
+- [01:31:18,000 - 01:31:20,000] we get zero. If we put here the first state,
+- [01:31:20,000 - 01:31:21,000] we get one. If we
+- [01:31:21,000 - 01:31:22,000] put it in the second state,
+- [01:31:22,000 - 01:31:24,000] we get two, and so forth. So whenever
+- [01:31:24,000 - 01:31:26,000] we do this combined set of operations,
+- [01:31:26,000 - 01:31:28,000] it picks out for us,
+- [01:31:28,000 - 01:31:30,000] it picks out for us
+- [01:31:30,000 - 01:31:32,000] the numerical
+- [01:31:32,000 - 01:31:34,000] level,
+- [01:31:34,000 - 01:31:36,000] and tells us which level we're at.
+- [01:31:36,000 - 01:31:38,000] If we want to find out which level we're
+- [01:31:38,000 - 01:31:40,000] talking about, I may not know
+- [01:31:40,000 - 01:31:42,000] what it is. I may just call it by some
+- [01:31:42,000 - 01:31:44,000] other name.
+- [01:31:44,000 - 01:31:46,000] Blupas. We just put blupas here.
+- [01:31:46,000 - 01:31:48,000] We want to find out what n
+- [01:31:48,000 - 01:31:50,000] blupas corresponds to.
+- [01:31:50,000 - 01:31:52,000] Well, we multiply it by a plus times a minus
+- [01:31:52,000 - 01:31:54,000] and we find out what the numerical coefficient
+- [01:31:54,000 - 01:31:56,000] is. That numerical
+- [01:31:56,000 - 01:31:58,000] coefficient tells us
+- [01:31:58,000 - 01:32:00,000] what
+- [01:32:00,000 - 01:32:02,000] level of the oscillator
+- [01:32:02,000 - 01:32:04,000] we were
+- [01:32:04,000 - 01:32:06,000] playing with.
+- [01:32:06,000 - 01:32:08,000] So we can write this in another way.
+- [01:32:08,000 - 01:32:10,000] We can simply write that multiplication
+- [01:32:10,000 - 01:32:12,000] by a plus times a minus
+- [01:32:12,000 - 01:32:14,000] is the same as
+- [01:32:14,000 - 01:32:16,000] multiplication by n.
+- [01:32:18,000 - 01:32:20,000] But what is n?
+- [01:32:20,000 - 01:32:22,000] n is simply
+- [01:32:22,000 - 01:32:24,000] the energy level. Well, not
+- [01:32:24,000 - 01:32:26,000] quite. The energy level, we need something
+- [01:32:26,000 - 01:32:28,000] else. We need h bar omega.
+- [01:32:28,000 - 01:32:30,000] We need to multiply by
+- [01:32:30,000 - 01:32:32,000] h bar omega.
+- [01:32:32,000 - 01:32:34,000] So we can write n h bar omega
+- [01:32:34,000 - 01:32:36,000] is
+- [01:32:36,000 - 01:32:38,000] h bar omega
+- [01:32:38,000 - 01:32:40,000] times a plus a minus.
+- [01:32:40,000 - 01:32:42,000] And what does that tell us?
+- [01:32:42,000 - 01:32:44,000] That tells us that the energy of the oscillator,
+- [01:32:44,000 - 01:32:46,000] if we didn't know what the energy
+- [01:32:46,000 - 01:32:48,000] of the oscillator was,
+- [01:32:48,000 - 01:32:50,000] we could find out mathematically,
+- [01:32:50,000 - 01:32:52,000] not as a matter of
+- [01:32:52,000 - 01:32:54,000] empirical experiment,
+- [01:32:54,000 - 01:32:56,000] but as a matter of playing
+- [01:32:56,000 - 01:32:58,000] this logical game,
+- [01:32:58,000 - 01:33:00,000] we could determine what level we were
+- [01:33:00,000 - 01:33:02,000] talking about by taking
+- [01:33:02,000 - 01:33:04,000] the state, unknown state, and
+- [01:33:04,000 - 01:33:06,000] multiplying it by a plus a minus
+- [01:33:06,000 - 01:33:08,000] times h bar omega. Now, this is
+- [01:33:08,000 - 01:33:10,000] a little game, as I said,
+- [01:33:10,000 - 01:33:12,000] and doesn't correspond to any actual
+- [01:33:12,000 - 01:33:14,000] experiment, but in fact,
+- [01:33:14,000 - 01:33:16,000] this is the actual
+- [01:33:16,000 - 01:33:18,000] energy of the oscillator.
+- [01:33:18,000 - 01:33:20,000] Okay, so that's a mathematical
+- [01:33:20,000 - 01:33:22,000] bunch of tricks, bunch of trickery.
+- [01:33:22,000 - 01:33:24,000] Let's
+- [01:33:24,000 - 01:33:26,000] multiply them in the opposite order.
+- [01:33:26,000 - 01:33:28,000] Alright, so what did
+- [01:33:28,000 - 01:33:30,000] we find out? We found out that
+- [01:33:30,000 - 01:33:32,000] a plus times a minus is equal to
+- [01:33:32,000 - 01:33:34,000] n,
+- [01:33:34,000 - 01:33:36,000] meaning to say
+- [01:33:36,000 - 01:33:38,000] that if you do this operation on
+- [01:33:38,000 - 01:33:40,000] any state, it just multiplies
+- [01:33:40,000 - 01:33:42,000] by n. What about the opposite
+- [01:33:42,000 - 01:33:44,000] order? Let's try it in the opposite
+- [01:33:44,000 - 01:33:46,000] order, using the same
+- [01:33:46,000 - 01:33:48,000] little logical rules.
+- [01:33:50,000 - 01:33:52,000] A minus times a plus
+- [01:33:52,000 - 01:33:54,000] on n.
+- [01:33:54,000 - 01:33:56,000] What does that give? Did I do that right?
+- [01:33:56,000 - 01:33:58,000] A minus times a plus.
+- [01:33:58,000 - 01:34:00,000] The opposite order. So what
+- [01:34:00,000 - 01:34:02,000] does a plus give?
+- [01:34:04,000 - 01:34:06,000] This gives square
+- [01:34:06,000 - 01:34:08,000] root of n plus one
+- [01:34:08,000 - 01:34:10,000] times n plus one, right?
+- [01:34:10,000 - 01:34:12,000] And now let's multiply
+- [01:34:12,000 - 01:34:14,000] that by a minus.
+- [01:34:14,000 - 01:34:16,000] A minus will bring
+- [01:34:16,000 - 01:34:18,000] you back down to n,
+- [01:34:18,000 - 01:34:20,000] but
+- [01:34:20,000 - 01:34:22,000] it will give you another factor of
+- [01:34:22,000 - 01:34:24,000] square root of n plus one.
+- [01:34:24,000 - 01:34:26,000] Alright, whenever a minus
+- [01:34:26,000 - 01:34:28,000] acts,
+- [01:34:28,000 - 01:34:30,000] it gives you the numerical coefficient,
+- [01:34:30,000 - 01:34:32,000] which is the same as the thing
+- [01:34:32,000 - 01:34:34,000] inside here.
+- [01:34:34,000 - 01:34:36,000] So that gives you
+- [01:34:38,000 - 01:34:40,000] square root of n plus one
+- [01:34:40,000 - 01:34:42,000] times square root of n plus one
+- [01:34:42,000 - 01:34:44,000] again, times n.
+- [01:34:44,000 - 01:34:46,000] Brings you back down,
+- [01:34:46,000 - 01:34:48,000] but gives you the overall
+- [01:34:48,000 - 01:34:50,000] factor of n plus one.
+- [01:34:54,000 - 01:34:56,000] So what did we find? We found
+- [01:34:56,000 - 01:34:58,000] that multiplying in the opposite
+- [01:34:58,000 - 01:35:00,000] order gives us different answers.
+- [01:35:00,000 - 01:35:02,000] Almost the same answer, but not
+- [01:35:02,000 - 01:35:04,000] quite. In one
+- [01:35:04,000 - 01:35:06,000] order,
+- [01:35:06,000 - 01:35:08,000] a plus a minus is n, and the
+- [01:35:08,000 - 01:35:10,000] other order, a minus times a plus
+- [01:35:10,000 - 01:35:12,000] is n plus one.
+- [01:35:12,000 - 01:35:14,000] So with this
+- [01:35:14,000 - 01:35:16,000] little bit of
+- [01:35:16,000 - 01:35:18,000] logical gamesmanship here, or
+- [01:35:18,000 - 01:35:20,000] mathematical
+- [01:35:20,000 - 01:35:22,000] symbology,
+- [01:35:22,000 - 01:35:24,000] we find that the order
+- [01:35:24,000 - 01:35:26,000] of these two operations isn't the same.
+- [01:35:26,000 - 01:35:28,000] Well, what does that mean?
+- [01:35:28,000 - 01:35:30,000] Does that mean that a plus and a minus,
+- [01:35:30,000 - 01:35:32,000] that if we were to measure them
+- [01:35:32,000 - 01:35:34,000] and then take the
+- [01:35:34,000 - 01:35:36,000] values that we measure for them,
+- [01:35:36,000 - 01:35:38,000] the numerical values
+- [01:35:38,000 - 01:35:40,000] whatever they are, whatever they correspond
+- [01:35:40,000 - 01:35:42,000] to, we measure them,
+- [01:35:42,000 - 01:35:44,000] that when we multiply their values
+- [01:35:44,000 - 01:35:46,000] by each other, they don't commute?
+- [01:35:46,000 - 01:35:48,000] Well, that doesn't make sense. Numbers always
+- [01:35:48,000 - 01:35:50,000] commute when we multiply them. What this means
+- [01:35:50,000 - 01:35:52,000] is that whatever a plus and a minus
+- [01:35:52,000 - 01:35:54,000] correspond to,
+- [01:35:54,000 - 01:35:56,000] you can't measure both
+- [01:35:56,000 - 01:35:58,000] of them simultaneously.
+- [01:35:58,000 - 01:36:00,000] Now what they correspond to
+- [01:36:00,000 - 01:36:02,000] is a combination of the
+- [01:36:02,000 - 01:36:04,000] amplitude of this harmonic
+- [01:36:04,000 - 01:36:06,000] oscillator, how big the oscillation
+- [01:36:06,000 - 01:36:08,000] is, and its phase.
+- [01:36:08,000 - 01:36:10,000] Its phase,
+- [01:36:10,000 - 01:36:12,000] does everybody know what the phase of an
+- [01:36:12,000 - 01:36:14,000] oscillation is?
+- [01:36:14,000 - 01:36:16,000] It's basically the time at which the oscillator
+- [01:36:16,000 - 01:36:18,000] passes through the origin.
+- [01:36:18,000 - 01:36:20,000] The oscillator
+- [01:36:20,000 - 01:36:22,000] can oscillate back and forth,
+- [01:36:22,000 - 01:36:23,000] or you can delay it a
+- [01:36:23,000 - 01:36:24,000] little bit so that it goes
+- [01:36:24,000 - 01:36:26,000] through the origin at a later or earlier
+- [01:36:26,000 - 01:36:28,000] time. You can't,
+- [01:36:28,000 - 01:36:30,000] you can't, whatever a
+- [01:36:30,000 - 01:36:32,000] is, you can't measure it,
+- [01:36:32,000 - 01:36:34,000] a plus and a minus simultaneously.
+- [01:36:34,000 - 01:36:36,000] That's what this tells you. That's all
+- [01:36:36,000 - 01:36:38,000] it tells you.
+- [01:36:38,000 - 01:36:40,000] That they don't commute,
+- [01:36:40,000 - 01:36:42,000] and therefore they're not simultaneously
+- [01:36:42,000 - 01:36:44,000] measurable, but they're still
+- [01:36:44,000 - 01:36:46,000] interesting mathematical little
+- [01:36:46,000 - 01:36:48,000] objects. What do
+- [01:36:48,000 - 01:36:50,000] they do? What do they do?
+- [01:36:50,000 - 01:36:52,000] They are mathematical operations
+- [01:36:52,000 - 01:36:54,000] which raise
+- [01:36:54,000 - 01:36:56,000] you up and down this
+- [01:36:56,000 - 01:36:58,000] tower.
+- [01:36:58,000 - 01:37:00,000] What do they do? They add and
+- [01:37:00,000 - 01:37:02,000] subtract quanta of
+- [01:37:02,000 - 01:37:04,000] energy of the oscillator.
+- [01:37:06,000 - 01:37:08,000] Okay. Now if
+- [01:37:08,000 - 01:37:10,000] the oscillator happens to correspond
+- [01:37:10,000 - 01:37:12,000] to an electromagnetic
+- [01:37:12,000 - 01:37:14,000] oscillation, an
+- [01:37:14,000 - 01:37:16,000] oscillation of the electromagnetic
+- [01:37:16,000 - 01:37:18,000] field, then
+- [01:37:18,000 - 01:37:20,000] what these operators
+- [01:37:20,000 - 01:37:22,000] do is they add and
+- [01:37:22,000 - 01:37:24,000] subtract photons.
+- [01:37:24,000 - 01:37:26,000] They add
+- [01:37:26,000 - 01:37:28,000] and subtract photons. They are
+- [01:37:28,000 - 01:37:30,000] what are called creation and annihilation
+- [01:37:30,000 - 01:37:32,000] operators.
+- [01:37:32,000 - 01:37:34,000] Alright, so let's, uh...
+- [01:37:34,000 - 01:37:36,000] Does that correspond to any
+- [01:37:36,000 - 01:37:38,000] physical experiment that we would do?
+- [01:37:38,000 - 01:37:40,000] Or talk about like a...
+- [01:37:40,000 - 01:37:42,000] Well, you can measure the number of
+- [01:37:42,000 - 01:37:44,000] photons, but you
+- [01:37:44,000 - 01:37:46,000] can't measure the a plus and the a minus
+- [01:37:46,000 - 01:37:48,000] separately.
+- [01:37:50,000 - 01:37:52,000] It's an interesting question of whether
+- [01:37:52,000 - 01:37:54,000] you can measure a plus or a minus
+- [01:37:54,000 - 01:37:56,000] individually, and the answer for technical
+- [01:37:56,000 - 01:37:58,000] reasons is no, but, uh...
+- [01:37:58,000 - 01:38:00,000] But, uh...
+- [01:38:00,000 - 01:38:02,000] But this doesn't tell you that.
+- [01:38:02,000 - 01:38:04,000] Okay.
+- [01:38:04,000 - 01:38:06,000] Alright, so we
+- [01:38:06,000 - 01:38:08,000] have the idea now of
+- [01:38:08,000 - 01:38:10,000] operations or mathematical
+- [01:38:10,000 - 01:38:12,000] quantum mechanical operations,
+- [01:38:12,000 - 01:38:14,000] which would make no sense classically at all.
+- [01:38:14,000 - 01:38:16,000] We wouldn't, we wouldn't, uh, multiply
+- [01:38:16,000 - 01:38:18,000] states by operators like this,
+- [01:38:18,000 - 01:38:20,000] but quantum mechanically,
+- [01:38:20,000 - 01:38:22,000] we have the idea
+- [01:38:22,000 - 01:38:24,000] of creation and annihilation operators,
+- [01:38:24,000 - 01:38:26,000] mathematical operations which
+- [01:38:26,000 - 01:38:28,000] add and subtract quanta of
+- [01:38:28,000 - 01:38:30,000] energy for a fixed frequency.
+- [01:38:30,000 - 01:38:32,000] Alright.
+- [01:38:32,000 - 01:38:34,000] Now, when we have a system
+- [01:38:34,000 - 01:38:36,000] which has many oscillators,
+- [01:38:36,000 - 01:38:38,000] you can imagine a
+- [01:38:38,000 - 01:38:40,000] system where we have many springs
+- [01:38:40,000 - 01:38:42,000] with many balls hanging off them
+- [01:38:42,000 - 01:38:44,000] of different frequencies,
+- [01:38:44,000 - 01:38:46,000] or you can imagine
+- [01:38:46,000 - 01:38:48,000] electromagnetic waves in a cavity,
+- [01:38:48,000 - 01:38:50,000] each different wavelength
+- [01:38:50,000 - 01:38:52,000] has a different frequency.
+- [01:38:52,000 - 01:38:54,000] We can excite them independently.
+- [01:38:54,000 - 01:38:56,000] We can excite one wave,
+- [01:38:56,000 - 01:38:58,000] we can excite another wave,
+- [01:38:58,000 - 01:39:00,000] excite them independently.
+- [01:39:00,000 - 01:39:02,000] Then we have a system which contains
+- [01:39:02,000 - 01:39:04,000] many different oscillations
+- [01:39:04,000 - 01:39:06,000] with many
+- [01:39:06,000 - 01:39:08,000] different frequencies.
+- [01:39:08,000 - 01:39:10,000] That means
+- [01:39:10,000 - 01:39:12,000] to describe
+- [01:39:14,000 - 01:39:16,000] this may be a good place
+- [01:39:16,000 - 01:39:18,000] to slow down a little bit,
+- [01:39:18,000 - 01:39:20,000] um, this is,
+- [01:39:20,000 - 01:39:22,000] this of course is a little bit indigestible
+- [01:39:22,000 - 01:39:24,000] unless you've seen it before.
+- [01:39:24,000 - 01:39:26,000] How many people have seen it before?
+- [01:39:26,000 - 01:39:28,000] When?
+- [01:39:28,000 - 01:39:30,000] No, no, of course
+- [01:39:30,000 - 01:39:32,000] I gave a lecture on it in another course.
+- [01:39:32,000 - 01:39:34,000] Yeah, yeah, yeah, right.
+- [01:39:34,000 - 01:39:36,000] I gave many lectures on it probably.
+- [01:39:36,000 - 01:39:38,000] I don't know if you've seen it.
+- [01:39:38,000 - 01:39:40,000] Oh, in this course you gave another lecture.
+- [01:39:40,000 - 01:39:42,000] In this course I have not talked about this yet.
+- [01:39:42,000 - 01:39:44,000] By this course I mean this sequence.
+- [01:39:44,000 - 01:39:46,000] Oh, the sequence of course, yes.
+- [01:39:46,000 - 01:39:48,000] We've talked about it many times, I think.
+- [01:39:48,000 - 01:39:50,000] But, uh,
+- [01:39:50,000 - 01:39:52,000] it certainly is in the lectures
+- [01:39:52,000 - 01:39:54,000] on quantum mechanics.
+- [01:39:54,000 - 01:39:56,000] It may not have been recorded
+- [01:39:56,000 - 01:39:58,000] because we had to move to a different room.
+- [01:39:58,000 - 01:40:00,000] It wasn't recorded?
+- [01:40:00,000 - 01:40:02,000] It may not have been
+- [01:40:02,000 - 01:40:04,000] because we were in a different room
+- [01:40:04,000 - 01:40:05,000] and I don't know if
+- [01:40:05,000 - 01:40:06,000] anybody set it up for that.
+- [01:40:06,000 - 01:40:08,000] We were in the same room.
+- [01:40:08,000 - 01:40:10,000] We were in the same room.
+- [01:40:10,000 - 01:40:12,000] Now, it's okay. Just move on.
+- [01:40:12,000 - 01:40:14,000] Yeah, okay.
+- [01:40:14,000 - 01:40:16,000] The harmonic oscillator
+- [01:40:16,000 - 01:40:18,000] is the most basic quantum mechanical system.
+- [01:40:18,000 - 01:40:20,000] Please learn it if you want to follow these lectures.
+- [01:40:20,000 - 01:40:22,000] And it is, you know,
+- [01:40:22,000 - 01:40:24,000] you can see where it's going.
+- [01:40:24,000 - 01:40:26,000] We describe particles
+- [01:40:26,000 - 01:40:28,000] as oscillations
+- [01:40:28,000 - 01:40:30,000] and we create
+- [01:40:30,000 - 01:40:32,000] and annihilate particles,
+- [01:40:32,000 - 01:40:34,000] put them into the system,
+- [01:40:34,000 - 01:40:36,000] take them out of the system
+- [01:40:36,000 - 01:40:38,000] by mathematical operations
+- [01:40:38,000 - 01:40:40,000] and annihilation operators.
+- [01:40:40,000 - 01:40:42,000] So they're absolutely central
+- [01:40:42,000 - 01:40:44,000] to the understanding of
+- [01:40:46,000 - 01:40:48,000] quantum field theory
+- [01:40:48,000 - 01:40:50,000] and particle physics.
+- [01:40:50,000 - 01:40:52,000] Just completely.
+- [01:40:52,000 - 01:40:54,000] Okay, let's come back
+- [01:40:54,000 - 01:40:56,000] very quickly now
+- [01:40:56,000 - 01:40:58,000] and I think we'll have to discuss this again.
+- [01:41:00,000 - 01:41:02,000] But let's come back
+- [01:41:02,000 - 01:41:04,000] to this little model
+- [01:41:04,000 - 01:41:06,000] of a world on a circle.
+- [01:41:08,000 - 01:41:10,000] Where we made the world finite
+- [01:41:12,000 - 01:41:14,000] by making space to be a circle
+- [01:41:14,000 - 01:41:16,000] instead of an infinite line.
+- [01:41:16,000 - 01:41:18,000] And now it's a very simple world
+- [01:41:18,000 - 01:41:20,000] of only one dimension
+- [01:41:20,000 - 01:41:22,000] but we have this line.
+- [01:41:22,000 - 01:41:24,000] Distance around it is L.
+- [01:41:24,000 - 01:41:26,000] Let's imagine
+- [01:41:26,000 - 01:41:28,000] photons or electromagnetic radiation
+- [01:41:30,000 - 01:41:32,000] or whatever kind of particles
+- [01:41:32,000 - 01:41:34,000] moving on this line.
+- [01:41:34,000 - 01:41:36,000] There are some allowable values
+- [01:41:36,000 - 01:41:38,000] of the wavelength.
+- [01:41:38,000 - 01:41:40,000] So the allowable values
+- [01:41:40,000 - 01:41:42,000] of the wavelength
+- [01:41:42,000 - 01:41:44,000] are L divided by N
+- [01:41:44,000 - 01:41:46,000] where N is any integer.
+- [01:41:46,000 - 01:41:48,000] That means
+- [01:41:48,000 - 01:41:50,000] there are allowable values
+- [01:41:50,000 - 01:41:52,000] of momentum.
+- [01:41:52,000 - 01:41:54,000] There are allowable values
+- [01:41:54,000 - 01:41:56,000] of frequency
+- [01:41:56,000 - 01:41:58,000] and allowable values
+- [01:41:58,000 - 01:42:00,000] of momentum.
+- [01:42:00,000 - 01:42:02,000] Those allowable values
+- [01:42:02,000 - 01:42:04,000] of frequency
+- [01:42:04,000 - 01:42:06,000] we can call
+- [01:42:06,000 - 01:42:08,000] omega N.
+- [01:42:08,000 - 01:42:12,000] N goes from
+- [01:42:12,000 - 01:42:14,000] minus infinity to infinity
+- [01:42:14,000 - 01:42:16,000] whatever it goes over
+- [01:42:16,000 - 01:42:18,000] well N goes
+- [01:42:18,000 - 01:42:20,000] sorry
+- [01:42:20,000 - 01:42:22,000] from zero to infinity
+- [01:42:22,000 - 01:42:24,000] all the possible values
+- [01:42:24,000 - 01:42:26,000] of frequencies.
+- [01:42:26,000 - 01:42:28,000] The waves moving
+- [01:42:28,000 - 01:42:30,000] on this system here
+- [01:42:30,000 - 01:42:32,000] are a collection of harmonic oscillators.
+- [01:42:32,000 - 01:42:34,000] One harmonic oscillator
+- [01:42:34,000 - 01:42:36,000] for each value of N.
+- [01:42:36,000 - 01:42:38,000] For each frequency
+- [01:42:38,000 - 01:42:40,000] of oscillation
+- [01:42:40,000 - 01:42:42,000] you can
+- [01:42:42,000 - 01:42:44,000] add energy
+- [01:42:44,000 - 01:42:46,000] independently
+- [01:42:46,000 - 01:42:48,000] to each frequency.
+- [01:42:48,000 - 01:42:50,000] You can take any given frequency
+- [01:42:50,000 - 01:42:52,000] and add energy to oscillations
+- [01:42:52,000 - 01:42:54,000] in that frequency.
+- [01:42:54,000 - 01:42:56,000] You can then add energy on top of that
+- [01:42:56,000 - 01:42:58,000] with some other frequency.
+- [01:42:58,000 - 01:43:00,000] So a system of waves
+- [01:43:00,000 - 01:43:02,000] moving on a circle like this
+- [01:43:02,000 - 01:43:04,000] or moving in anything for that matter
+- [01:43:04,000 - 01:43:06,000] is really just a collection
+- [01:43:06,000 - 01:43:08,000] of harmonic oscillators
+- [01:43:08,000 - 01:43:10,000] with a certain set of allowable frequencies.
+- [01:43:10,000 - 01:43:12,000] The question is
+- [01:43:12,000 - 01:43:14,000] how do you describe this system
+- [01:43:14,000 - 01:43:16,000] mathematically
+- [01:43:16,000 - 01:43:18,000] in quantum mechanics?
+- [01:43:18,000 - 01:43:20,000] And the answer is
+- [01:43:20,000 - 01:43:22,000] let's begin with the idea of a state.
+- [01:43:22,000 - 01:43:24,000] We're not going to do this in detail now.
+- [01:43:24,000 - 01:43:26,000] We're not actually going to get to our first example
+- [01:43:26,000 - 01:43:28,000] of a quantum field.
+- [01:43:28,000 - 01:43:30,000] We'll get there next time.
+- [01:43:30,000 - 01:43:32,000] But let's
+- [01:43:32,000 - 01:43:34,000] work around it a little bit.
+- [01:43:36,000 - 01:43:38,000] How would we
+- [01:43:38,000 - 01:43:40,000] label
+- [01:43:40,000 - 01:43:42,000] the states of a system
+- [01:43:42,000 - 01:43:44,000] where there are many possible
+- [01:43:44,000 - 01:43:46,000] oscillators around?
+- [01:43:46,000 - 01:43:48,000] You can either think about this as all the oscillations
+- [01:43:48,000 - 01:43:50,000] of a wave on a circle
+- [01:43:50,000 - 01:43:51,000] or you can just think of it
+- [01:43:51,000 - 01:43:52,000] as a bunch of balls and springs
+- [01:43:52,000 - 01:43:54,000] with different frequencies.
+- [01:43:54,000 - 01:43:56,000] How would you label it?
+- [01:43:56,000 - 01:43:58,000] Well, each harmonic oscillator
+- [01:43:58,000 - 01:44:00,000] has a quantized
+- [01:44:00,000 - 01:44:02,000] energy.
+- [01:44:02,000 - 01:44:04,000] The quantized energy for each one of these
+- [01:44:04,000 - 01:44:06,000] oscillators is some integer
+- [01:44:06,000 - 01:44:08,000] times
+- [01:44:08,000 - 01:44:10,000] omega n times h bar.
+- [01:44:10,000 - 01:44:12,000] So what we have
+- [01:44:12,000 - 01:44:14,000] to state then is
+- [01:44:14,000 - 01:44:16,000] the integer
+- [01:44:16,000 - 01:44:18,000] excitations
+- [01:44:18,000 - 01:44:20,000] of each oscillator.
+- [01:44:22,000 - 01:44:24,000] The number of
+- [01:44:24,000 - 01:44:26,000] quanta
+- [01:44:26,000 - 01:44:28,000] with the
+- [01:44:28,000 - 01:44:30,000] lowest frequency
+- [01:44:30,000 - 01:44:32,000] the lowest frequency whatever it is
+- [01:44:32,000 - 01:44:34,000] or n1
+- [01:44:34,000 - 01:44:36,000] the number of quanta
+- [01:44:36,000 - 01:44:38,000] with frequency nb.
+- [01:44:38,000 - 01:44:40,000] The number of quanta
+- [01:44:40,000 - 01:44:42,000] with frequency nb2
+- [01:44:42,000 - 01:44:44,000] or the number of quanta
+- [01:44:44,000 - 01:44:46,000] with the third frequency
+- [01:44:46,000 - 01:44:48,000] and so forth.
+- [01:44:52,000 - 01:44:54,000] And on and on
+- [01:44:54,000 - 01:44:56,000] for infinity forever.
+- [01:44:58,000 - 01:45:00,000] This would correspond
+- [01:45:00,000 - 01:45:02,000] to a state in which
+- [01:45:02,000 - 01:45:04,000] the lowest
+- [01:45:04,000 - 01:45:06,000] wavelength
+- [01:45:06,000 - 01:45:08,000] or the longest wavelength
+- [01:45:08,000 - 01:45:10,000] oscillator
+- [01:45:10,000 - 01:45:12,000] has n1 quanta in it.
+- [01:45:12,000 - 01:45:14,000] The next longest wavelength
+- [01:45:14,000 - 01:45:16,000] oscillation would have n2, n3.
+- [01:45:16,000 - 01:45:18,000] I'm getting a little bit tired and I suspect
+- [01:45:18,000 - 01:45:19,000] you are also, but what
+- [01:45:19,000 - 01:45:20,000] I want you to think about
+- [01:45:20,000 - 01:45:22,000] is the guitar string or the violin
+- [01:45:22,000 - 01:45:24,000] string and how you
+- [01:45:28,000 - 01:45:32,000] how you create harmonics.
+- [01:45:32,000 - 01:45:34,000] What we're talking about is harmonics.
+- [01:45:34,000 - 01:45:36,000] So there's an overall
+- [01:45:36,000 - 01:45:38,000] mode of
+- [01:45:38,000 - 01:45:40,000] oscillation of the string
+- [01:45:40,000 - 01:45:42,000] where it behaves
+- [01:45:42,000 - 01:45:44,000] up and down like that.
+- [01:45:44,000 - 01:45:46,000] If we forgot
+- [01:45:46,000 - 01:45:48,000] everything else and just thought of this
+- [01:45:48,000 - 01:45:50,000] as a simple harmonic oscillator
+- [01:45:50,000 - 01:45:52,000] oscillating back and forth
+- [01:45:52,000 - 01:45:54,000] we could say that the energy level
+- [01:45:54,000 - 01:45:56,000] of the system is just
+- [01:45:56,000 - 01:45:58,000] one, possibly no
+- [01:45:58,000 - 01:46:00,000] excitations, one unit
+- [01:46:00,000 - 01:46:02,000] of excitation, two units of
+- [01:46:02,000 - 01:46:04,000] excitation, three units of excitation
+- [01:46:04,000 - 01:46:06,000] and how much would each unit of excitation cost?
+- [01:46:06,000 - 01:46:08,000] It would cost an energy unit
+- [01:46:08,000 - 01:46:10,000] which was the frequency of
+- [01:46:10,000 - 01:46:12,000] that particular note,
+- [01:46:12,000 - 01:46:14,000] omega, times h-bar
+- [01:46:14,000 - 01:46:16,000] times
+- [01:46:16,000 - 01:46:18,000] the number of oscillations
+- [01:46:18,000 - 01:46:20,000] with that frequency.
+- [01:46:20,000 - 01:46:22,000] Then we could add
+- [01:46:22,000 - 01:46:24,000] additional energy
+- [01:46:24,000 - 01:46:26,000] in the form of the first harmonic.
+- [01:46:30,000 - 01:46:32,000] So if this oscillation
+- [01:46:32,000 - 01:46:34,000] corresponded to middle C
+- [01:46:34,000 - 01:46:36,000] this oscillation would be what?
+- [01:46:36,000 - 01:46:38,000] C one octave above
+- [01:46:38,000 - 01:46:40,000] middle C or whatever.
+- [01:46:40,000 - 01:46:42,000] Add some energy in that.
+- [01:46:42,000 - 01:46:44,000] That has twice the frequency.
+- [01:46:44,000 - 01:46:46,000] Twice the frequency
+- [01:46:46,000 - 01:46:48,000] so we would be then adding
+- [01:46:48,000 - 01:46:50,000] a number of quanta
+- [01:46:50,000 - 01:46:52,000] with the second
+- [01:46:52,000 - 01:46:54,000] frequency.
+- [01:46:54,000 - 01:46:56,000] And then we could add
+- [01:46:56,000 - 01:46:58,000] oscillations on top
+- [01:46:58,000 - 01:47:00,000] of that. I always have trouble
+- [01:47:00,000 - 01:47:02,000] drawing this next one.
+- [01:47:02,000 - 01:47:04,000] I can't draw it, you know what I mean.
+- [01:47:04,000 - 01:47:06,000] Three
+- [01:47:06,000 - 01:47:08,000] with two nodes, yeah,
+- [01:47:08,000 - 01:47:10,000] two nodes, but it would have
+- [01:47:10,000 - 01:47:12,000] three times the frequency, right?
+- [01:47:16,000 - 01:47:18,000] Three waves fit in that has
+- [01:47:18,000 - 01:47:20,000] an oscillation like that has
+- [01:47:20,000 - 01:47:22,000] three times the frequency
+- [01:47:22,000 - 01:47:24,000] and how many oscillators,
+- [01:47:24,000 - 01:47:26,000] how many quanta would we put in?
+- [01:47:26,000 - 01:47:27,000] Well, we could put any
+- [01:47:27,000 - 01:47:28,000] number in, but that would be
+- [01:47:28,000 - 01:47:30,000] n three. And the entire
+- [01:47:30,000 - 01:47:32,000] configuration of this
+- [01:47:32,000 - 01:47:34,000] oscillating string,
+- [01:47:34,000 - 01:47:36,000] quantum mechanically oscillating string
+- [01:47:36,000 - 01:47:38,000] would be characterized by a
+- [01:47:38,000 - 01:47:40,000] collection of integers which tells
+- [01:47:40,000 - 01:47:42,000] us how much quantized energy
+- [01:47:42,000 - 01:47:44,000] there is in each mode of
+- [01:47:44,000 - 01:47:46,000] oscillation.
+- [01:47:46,000 - 01:47:48,000] So basically what we have to do
+- [01:47:48,000 - 01:47:50,000] mathematically is repeat
+- [01:47:50,000 - 01:47:52,000] the mathematics of the harmonic
+- [01:47:52,000 - 01:47:54,000] oscillator infinitely many
+- [01:47:54,000 - 01:47:56,000] times, one for each
+- [01:47:56,000 - 01:47:58,000] mode of oscillation.
+- [01:47:58,000 - 01:48:00,000] The result is a
+- [01:48:00,000 - 01:48:02,000] quantum field. That's what a quantum
+- [01:48:02,000 - 01:48:04,000] field is, is it's a collection
+- [01:48:04,000 - 01:48:06,000] of harmonic oscillators, a
+- [01:48:06,000 - 01:48:08,000] collection of creation and annihilation
+- [01:48:08,000 - 01:48:10,000] operators which add
+- [01:48:10,000 - 01:48:12,000] and subtract energy
+- [01:48:12,000 - 01:48:14,000] in each
+- [01:48:14,000 - 01:48:16,000] mode of oscillation.
+- [01:48:16,000 - 01:48:18,000] And it's the mathematics of that
+- [01:48:18,000 - 01:48:20,000] collection of oscillators which is called
+- [01:48:20,000 - 01:48:22,000] quantum field theory.
+- [01:48:22,000 - 01:48:24,000] So if we want
+- [01:48:24,000 - 01:48:26,000] to carry on with this subject,
+- [01:48:26,000 - 01:48:28,000] we have to get used
+- [01:48:28,000 - 01:48:30,000] to this language.
+- [01:48:30,000 - 01:48:32,000] Okay.
+- [01:48:32,000 - 01:48:34,000] Let's quit here.
+- [01:48:36,000 - 01:48:38,000] Well, let me just say one more thing.
+- [01:48:38,000 - 01:48:40,000] If we're interested in
+- [01:48:40,000 - 01:48:42,000] particle physics experiments,
+- [01:48:42,000 - 01:48:44,000] what happens in particle physics experiments?
+- [01:48:44,000 - 01:48:46,000] Particles with given
+- [01:48:46,000 - 01:48:48,000] energy momentum come in.
+- [01:48:48,000 - 01:48:50,000] They
+- [01:48:50,000 - 01:48:52,000] rearrange particles with
+- [01:48:52,000 - 01:48:54,000] other energy and momentum go
+- [01:48:54,000 - 01:48:56,000] out. So in
+- [01:48:56,000 - 01:48:58,000] other words, we remove particles
+- [01:48:58,000 - 01:49:00,000] with annihilation, we remove
+- [01:49:00,000 - 01:49:02,000] particles from the initial state
+- [01:49:02,000 - 01:49:04,000] and replace them by
+- [01:49:04,000 - 01:49:06,000] particles in the final state.
+- [01:49:06,000 - 01:49:08,000] The mathematical description of
+- [01:49:08,000 - 01:49:10,000] that is to remove
+- [01:49:10,000 - 01:49:12,000] particles with annihilation
+- [01:49:12,000 - 01:49:14,000] operators and replace
+- [01:49:14,000 - 01:49:16,000] them with particles of other
+- [01:49:16,000 - 01:49:18,000] momentum and energy involving
+- [01:49:18,000 - 01:49:20,000] other creation and annihilation
+- [01:49:20,000 - 01:49:22,000] operators. So that's what these operators do.
+- [01:49:22,000 - 01:49:24,000] They remove particles
+- [01:49:24,000 - 01:49:26,000] and put particles in, and the
+- [01:49:26,000 - 01:49:28,000] mathematical description of the creation
+- [01:49:28,000 - 01:49:30,000] and annihilation of particles
+- [01:49:30,000 - 01:49:32,000] is through these kind of
+- [01:49:32,000 - 01:49:34,000] mathematical symbols.
+- [01:49:34,000 - 01:49:36,000] That's why they're so important.
+- [01:49:36,000 - 01:49:38,000] Yeah.
+- [01:49:38,000 - 01:49:40,000] The n
+- [01:49:40,000 - 01:49:42,000] is used to indicate
+- [01:49:42,000 - 01:49:44,000] the energy level, but then it's
+- [01:49:44,000 - 01:49:46,000] also used to indicate the
+- [01:49:46,000 - 01:49:48,000] count of
+- [01:49:48,000 - 01:49:50,000] number of quanta. Is that right?
+- [01:49:50,000 - 01:49:52,000] There are two integers going on here.
+- [01:49:52,000 - 01:49:54,000] One integer
+- [01:49:54,000 - 01:49:56,000] has to do with the number of nodes here,
+- [01:49:56,000 - 01:49:58,000] and the other has to do with the number
+- [01:49:58,000 - 01:50:00,000] of quanta. I'll spell this out again.
+- [01:50:00,000 - 01:50:02,000] There are two distinct
+- [01:50:02,000 - 01:50:04,000] integers.
+- [01:50:04,000 - 01:50:06,000] In this
+- [01:50:06,000 - 01:50:08,000] example,
+- [01:50:08,000 - 01:50:10,000] the number of nodes
+- [01:50:10,000 - 01:50:12,000] would tell you the frequency, and then
+- [01:50:12,000 - 01:50:14,000] the number of quanta
+- [01:50:14,000 - 01:50:16,000] with each frequency.
+- [01:50:16,000 - 01:50:18,000] So there are two integers
+- [01:50:18,000 - 01:50:20,000] floating around.
+- [01:50:20,000 - 01:50:22,000] Yeah.
+- [01:50:22,000 - 01:50:24,000] Right, one of them is associated with the...
+- [01:50:24,000 - 01:50:26,000] This is hard stuff.
+- [01:50:26,000 - 01:50:28,000] This is not easy. It's abstract.
+- [01:50:28,000 - 01:50:30,000] It's too abstract.
+- [01:50:30,000 - 01:50:32,000] For more, please visit us at
+- [01:50:32,000 - 01:50:34,000] stanford.edu.
