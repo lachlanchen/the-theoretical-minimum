@@ -125,11 +125,7 @@ leonardsusskind/
 ├── supplemental_advanced_quantum/
 │   ├── README.md
 │   ├── course.pdf
-│   ├── lecture_01.pdf ... lecture_10.pdf
-│   └── ch1/
-│       ├── main.tex
-│       ├── book_1_template.tex
-│       └── bibliography.bib
+│   └── lecture_01.pdf ... lecture_10.pdf
 ├── supplemental_cosmology_and_black_holes/
 │   └── README.md
 ├── supplemental_higgs_boson/
@@ -229,7 +225,6 @@ Representative local configuration points:
 - `template/tuftle/main.tex`
 - `core_cosmology/cosmology_ch10/cosmology_ch10.tex`
 - `supplemental_particle_physics_1/ch1/main.tex`
-- `supplemental_advanced_quantum/ch1/main.tex`
 
 ## Examples
 ### Example A: Build `template/kaobook`
@@ -265,17 +260,7 @@ pdflatex main.tex
 pdflatex main.tex
 ```
 
-### Example D: Build `supplemental_advanced_quantum/ch1`
-```bash
-cd supplemental_advanced_quantum/ch1
-pdflatex main.tex
-bibtex main
-makeindex main.idx
-pdflatex main.tex
-pdflatex main.tex
-```
-
-### Example E: View output locally
+### Example D: View output locally
 ```bash
 xdg-open supplemental_particle_physics_1/ch1/main.pdf
 ```
