@@ -1,0 +1,2614 @@
+# Transcript
+
+Source: supplementary/quantum_entanglement/2006_fall_part_1/054 - Lecture 7 ｜ Quantum Entanglements, Part 1 (Stanford) [F3viANPhfD0].mp4
+
+- [00:00:00,000 - 00:00:10,480] This program is brought to you by Stanford University.
+- [00:00:10,480 - 00:00:13,200] Please visit us at stanford.edu.
+- [00:00:13,200 - 00:00:17,080] I just want to go very
+- [00:00:17,080 - 00:00:20,960] briefly over the two-slit experiment again.
+- [00:00:20,960 - 00:00:23,080] I don't think we ever quite
+- [00:00:23,080 - 00:00:25,200] finished, so let me finish that discussion.
+- [00:00:25,200 - 00:00:28,700] The two-slit experiment, and we made a
+- [00:00:28,700 - 00:00:32,200] very simple version of the two-slit experiment.
+- [00:00:32,200 - 00:00:36,379] There's a source, and I called it an electron.
+- [00:00:36,379 - 00:00:38,649] It could be a photon, it
+- [00:00:38,649 - 00:00:40,920] could be any kind of particle, whatever.
+- [00:00:40,920 - 00:00:42,490] But let's call it an
+- [00:00:42,490 - 00:00:44,060] electron since I'm used to it.
+- [00:00:44,060 - 00:00:47,019] The electron is emitted from the source.
+- [00:00:47,019 - 00:00:49,949] Now if you like, you can imagine that the
+- [00:00:49,949 - 00:00:52,879] electron can be emitted from any one of several
+- [00:00:52,879 - 00:00:53,879] places.
+- [00:00:53,879 - 00:00:54,879] So, let's do that.
+- [00:00:54,879 - 00:00:55,000] Okay.
+- [00:00:55,200 - 00:00:59,250] So, there is a barrier to
+- [00:00:59,250 - 00:01:03,300] the electron over here with some openings.
+- [00:01:03,300 - 00:01:06,100] Again, the openings could be in any one
+- [00:01:06,100 - 00:01:08,900] of any several places, but for simplicity, let's
+- [00:01:08,900 - 00:01:14,360] just suppose that there are only two openings.
+- [00:01:14,360 - 00:01:17,200] I don't remember what I called them last time.
+- [00:01:17,200 - 00:01:18,700] I think I might have called
+- [00:01:18,700 - 00:01:20,200] them plus one and minus one.
+- [00:01:20,200 - 00:01:21,200] I hate that.
+- [00:01:21,200 - 00:01:23,140] That doesn't sound good.
+- [00:01:23,140 - 00:01:24,880] So let's call them.
+- [00:01:24,880 - 00:01:26,880] Let's call them A and B this time.
+- [00:01:26,880 - 00:01:32,979] A and B. I think I called this point zero.
+- [00:01:32,979 - 00:01:35,029] And the rest, the electron can go through the
+- [00:01:35,029 - 00:01:37,080] little hole at A, it can go through the
+- [00:01:37,080 - 00:01:40,419] little hole at B, and just imagine that the
+- [00:01:40,419 - 00:01:43,759] rest is blocked off so that if an electron
+- [00:01:43,759 - 00:01:46,319] hits any one of the other sites, for
+- [00:01:46,319 - 00:01:48,880] simplicity, you can just pretend that it gets reflected
+- [00:01:48,880 - 00:01:49,880] back.
+- [00:01:49,880 - 00:01:52,300] If it arrives at A,
+- [00:01:52,300 - 00:01:54,720] it can go through the slit.
+- [00:01:54,720 - 00:01:56,500] It could be A0 and cherry and cherry.
+- [00:01:56,500 - 00:01:58,500] What does that mean?
+- [00:01:58,500 - 00:02:00,040] Well, Well, it could be a very
+- [00:02:00,040 - 00:02:01,580] kinds blank spot, and then the other side.
+- [00:02:01,580 - 00:02:05,500] But still, the electron can pass over lot of sala.
+- [00:02:05,500 - 00:02:07,230] So it requires both of these
+- [00:02:07,230 - 00:02:08,960] elements but let's do it again.
+- [00:02:08,960 - 00:02:10,800] One, two, three, I think I did an contact
+- [00:02:10,800 - 00:02:12,640] about here and you can see the what, a dot
+- [00:02:12,640 - 00:02:14,930] over here, and a dot over here, and I think
+- [00:02:14,930 - 00:02:17,220] the first set this time is going to pass back
+- [00:02:17,220 - 00:02:19,520] to the point where I said no.
+- [00:02:19,520 - 00:02:22,540] Take overirty, you can't drive over here.
+- [00:02:22,540 - 00:02:23,620] It's two dashes.
+- [00:02:23,620 - 00:02:24,620] Right?
+- [00:02:24,620 - 00:02:24,660] And two one.
+- [00:02:24,660 - 00:02:24,690] So, what's going to happen is you're going
+- [00:02:24,690 - 00:02:24,720] to have total indicator A of the insgesamt.
+- [00:02:24,720 - 00:02:26,140] but eventually we will.
+- [00:02:27,080 - 00:02:29,280] But the most important thing is
+- [00:02:29,280 - 00:02:31,480] that states change in a linear way.
+- [00:02:31,600 - 00:02:33,230] That means if you start with
+- [00:02:33,230 - 00:02:34,860] a linear superposition of two states
+- [00:02:34,860 - 00:02:37,000] with coefficients,
+- [00:02:37,600 - 00:02:40,820] what it evolves into is the same linear superposition
+- [00:02:40,820 - 00:02:43,840] of whatever any one of them evolved into.
+- [00:02:43,840 - 00:02:45,280] So if, for example,
+- [00:02:46,520 - 00:02:48,300] well, let's start.
+- [00:02:49,660 - 00:02:53,020] We start with an electron in state 0.
+- [00:02:53,020 - 00:02:55,220] Incidentally, for the present purposes,
+- [00:02:55,680 - 00:02:57,460] the electron has no spin.
+- [00:02:58,160 - 00:03:00,440] We don't have to worry about the electron's spin.
+- [00:03:00,840 - 00:03:02,580] That's irrelevant for the moment.
+- [00:03:03,120 - 00:03:05,100] It just is at a place.
+- [00:03:05,780 - 00:03:08,840] And so the states of the electron are simply characterized
+- [00:03:08,840 - 00:03:12,660] by which one of these vertical positions they're at.
+- [00:03:13,700 - 00:03:16,350] So we start the electron right
+- [00:03:16,350 - 00:03:19,000] at the center at point 0.
+- [00:03:21,140 - 00:03:22,540] It evolves.
+- [00:03:23,020 - 00:03:25,800] And it evolves into a linear
+- [00:03:25,800 - 00:03:28,580] superposition of states at A and B.
+- [00:03:29,160 - 00:03:30,950] The electron has no particular preferred reason
+- [00:03:30,950 - 00:03:32,740] to go to either A or B.
+- [00:03:32,840 - 00:03:34,380] And let's suppose it's nice and symmetric.
+- [00:03:34,800 - 00:03:37,840] So it has equal amplitude.
+- [00:03:38,300 - 00:03:40,620] Equal amplitude to get to A or B.
+- [00:03:40,620 - 00:03:46,400] So 0 goes to A plus B.
+- [00:03:48,440 - 00:03:50,360] What does A plus B mean?
+- [00:03:50,560 - 00:03:51,500] It means a state.
+- [00:03:53,020 - 00:03:54,490] So it's a state in which
+- [00:03:54,490 - 00:03:55,960] the electron could be at A.
+- [00:03:55,960 - 00:03:57,060] You could find it with
+- [00:03:57,060 - 00:03:58,160] a probability of half at A.
+- [00:03:58,160 - 00:04:00,210] And you could find it with
+- [00:04:00,210 - 00:04:02,260] a probability of half at B.
+- [00:04:02,260 - 00:04:04,550] And it's just a quantum
+- [00:04:04,550 - 00:04:06,840] superposition of the two configurations.
+- [00:04:06,840 - 00:04:08,840] Now, when it gets to A,
+- [00:04:08,840 - 00:04:11,840] it then, if it gets to A,
+- [00:04:11,840 - 00:04:13,340] it then moves on, and it
+- [00:04:13,340 - 00:04:14,840] moves on to the screen here.
+- [00:04:14,840 - 00:04:21,000] So we can say that A evolves into some superposition,
+- [00:04:21,000 - 00:04:22,720] arbitrary superposition, nothing special.
+- [00:04:22,720 - 00:04:28,860] A sum on N of some coefficients,
+- [00:04:28,860 - 00:04:31,900] which represent the probability amplitudes,
+- [00:04:31,900 - 00:04:33,900] psi sub M,
+- [00:04:33,900 - 00:04:37,900] of the electron now being at the Mth place.
+- [00:04:37,900 - 00:04:41,900] That's what happens if you were to have started.
+- [00:04:41,900 - 00:04:43,900] The way you can think about it is,
+- [00:04:43,900 - 00:04:45,900] forget the whole B altogether.
+- [00:04:45,900 - 00:04:47,900] Start an electron at A,
+- [00:04:47,900 - 00:04:49,900] and wait a while,
+- [00:04:49,900 - 00:04:51,900] and it will arrive at a superposition of states,
+- [00:04:51,900 - 00:04:52,700] which is the same as the superposition of states,
+- [00:04:52,720 - 00:04:54,720] with different amplitudes,
+- [00:04:54,720 - 00:04:56,720] psi sub M, M.
+- [00:04:56,720 - 00:04:58,720] Or, if you started at B,
+- [00:04:58,720 - 00:05:00,720] it will also evolve,
+- [00:05:00,720 - 00:05:04,720] and I think I called the coefficient here,
+- [00:05:04,720 - 00:05:06,720] phi M times M.
+- [00:05:06,720 - 00:05:12,720] Okay, so let's first begin with one hole completely closed.
+- [00:05:12,720 - 00:05:15,720] The electron can only go through A.
+- [00:05:15,720 - 00:05:18,720] If it can't go through B altogether,
+- [00:05:18,720 - 00:05:20,720] we can forget this, we close it up,
+- [00:05:20,720 - 00:05:22,720] and the probability that it's going to go through A,
+- [00:05:22,720 - 00:05:25,720] that the electron arrives at the Mth site here,
+- [00:05:25,720 - 00:05:28,720] is just going to be psi star M, psi M.
+- [00:05:28,720 - 00:05:32,720] And I'm focused on the Mth site.
+- [00:05:32,720 - 00:05:34,720] Don't worry about any of the others.
+- [00:05:34,720 - 00:05:37,720] Just the amplitude that the electron gets to point M,
+- [00:05:37,720 - 00:05:40,720] is psi M, and the probability that it gets there,
+- [00:05:40,720 - 00:05:43,720] we can just call P M,
+- [00:05:43,720 - 00:05:46,720] is psi star M, psi M.
+- [00:05:46,720 - 00:05:50,720] That's assuming it goes through the root A.
+- [00:05:50,720 - 00:05:54,720] In other words, if we have blocked off hole B,
+- [00:05:54,720 - 00:05:56,720] maybe we should give it a name,
+- [00:05:56,720 - 00:05:58,720] maybe I should stick an A over here,
+- [00:05:58,720 - 00:06:02,720] to indicate that it went through the opening A.
+- [00:06:02,720 - 00:06:06,720] Likewise, if I close up the hole A,
+- [00:06:06,720 - 00:06:10,720] and open up the hole B,
+- [00:06:10,720 - 00:06:13,720] then the probability is,
+- [00:06:13,720 - 00:06:17,720] phi star M, phi M.
+- [00:06:17,720 - 00:06:19,720] Now in classical logic,
+- [00:06:19,720 - 00:06:21,720] classical statistics,
+- [00:06:21,720 - 00:06:24,720] classical probability theory,
+- [00:06:24,720 - 00:06:26,720] statistical mechanics,
+- [00:06:26,720 - 00:06:29,720] if you had a beam of particles,
+- [00:06:29,720 - 00:06:33,720] which was not made with enough precision,
+- [00:06:33,720 - 00:06:36,720] so, you know, with some uncertainty in it,
+- [00:06:36,720 - 00:06:38,720] some of the particles might go through A,
+- [00:06:38,720 - 00:06:41,720] some of them may go through B,
+- [00:06:41,720 - 00:06:43,720] but our expectation would be that
+- [00:06:43,720 - 00:06:45,720] the probability to get to M,
+- [00:06:45,720 - 00:06:47,220] would be the sum of
+- [00:06:47,220 - 00:06:48,720] the probabilities of going through A,
+- [00:06:48,720 - 00:06:50,720] or going through B.
+- [00:06:50,720 - 00:06:52,720] We would just add those probabilities.
+- [00:06:52,720 - 00:06:54,720] Not so in quantum mechanics.
+- [00:06:54,720 - 00:06:56,720] In quantum mechanics,
+- [00:06:56,720 - 00:06:58,720] what we have to write,
+- [00:06:58,720 - 00:07:00,220] is that if we start
+- [00:07:00,220 - 00:07:01,720] at A, we get to here,
+- [00:07:01,720 - 00:07:03,720] if we start at B, we get to here,
+- [00:07:03,720 - 00:07:05,720] but if we start at A plus B,
+- [00:07:05,720 - 00:07:08,720] if we start with the state A plus B,
+- [00:07:08,720 - 00:07:13,720] which the electron is sort of equally between these two,
+- [00:07:13,720 - 00:07:16,720] then what we have to get to, A plus B,
+- [00:07:18,720 - 00:07:23,720] we'll go to,
+- [00:07:23,720 - 00:07:26,720] summation of N,
+- [00:07:26,720 - 00:07:29,720] psi sub N times N,
+- [00:07:29,720 - 00:07:33,720] oops, psi sub M times M, I guess,
+- [00:07:33,720 - 00:07:35,720] sum of M,
+- [00:07:35,720 - 00:07:38,720] plus phi sub M times M,
+- [00:07:38,720 - 00:07:40,220] and I can just represent
+- [00:07:40,220 - 00:07:41,720] that by adding psi to phi,
+- [00:07:41,720 - 00:07:44,720] so it just becomes sum of
+- [00:07:44,720 - 00:07:47,720] psi M plus phi M,
+- [00:07:48,720 - 00:07:50,720] times M.
+- [00:07:52,720 - 00:07:54,720] Alright, let's forget for the moment the sum.
+- [00:07:54,720 - 00:07:58,720] Let's just focus on a particular point, M.
+- [00:07:58,720 - 00:08:00,720] Not even interested in the sum here,
+- [00:08:00,720 - 00:08:02,720] just focus on a particular point, M.
+- [00:08:02,720 - 00:08:06,720] What is the probability that the electron gets to M?
+- [00:08:06,720 - 00:08:10,720] And the answer is the square of this amplitude,
+- [00:08:10,720 - 00:08:13,720] or the square, it times its complex conjugate,
+- [00:08:13,720 - 00:08:15,720] and so the answer is,
+- [00:08:15,720 - 00:08:17,720] P M, the probability to get to M,
+- [00:08:18,720 - 00:08:22,720] when both A and B are both open,
+- [00:08:22,720 - 00:08:25,720] is, well, let's just square that out,
+- [00:08:25,720 - 00:08:27,720] which will give four terms,
+- [00:08:27,720 - 00:08:30,720] psi star M, psi M,
+- [00:08:30,720 - 00:08:34,720] plus phi star M, phi M,
+- [00:08:34,720 - 00:08:35,720] plus,
+- [00:08:35,720 - 00:08:38,720] psi star M, phi M,
+- [00:08:38,720 - 00:08:42,720] plus, psi M, phi star M.
+- [00:08:42,720 - 00:08:44,720] Alright, so the answer is,
+- [00:08:44,720 - 00:08:46,720] the sum of the two original probabilities,
+- [00:08:46,720 - 00:08:48,720] plus an extra term,
+- [00:08:48,720 - 00:08:51,720] and the extra term is called the interference term,
+- [00:08:51,720 - 00:08:54,720] the interference between the two trajectories,
+- [00:08:54,720 - 00:08:56,720] one of them going through the upper hole,
+- [00:08:56,720 - 00:08:58,720] and one of them going through the lower hole.
+- [00:08:58,720 - 00:09:02,720] This is no analog in any kind of classical statistics,
+- [00:09:02,720 - 00:09:04,720] this extra term,
+- [00:09:04,720 - 00:09:06,720] and to see how weird it is,
+- [00:09:06,720 - 00:09:08,720] I mean, for example,
+- [00:09:08,720 - 00:09:11,720] if M happened to lie
+- [00:09:11,720 - 00:09:14,720] right on the symmetry point here,
+- [00:09:14,720 - 00:09:16,720] then you'd expect,
+- [00:09:16,720 - 00:09:17,720] you'd expect,
+- [00:09:17,720 - 00:09:21,720] psi and phi to be equal, by symmetry,
+- [00:09:21,720 - 00:09:24,220] and this would give you four times
+- [00:09:24,220 - 00:09:26,720] the probability of going through either hole.
+- [00:09:26,720 - 00:09:29,720] It's not hard to arrange by going off-center here,
+- [00:09:29,720 - 00:09:31,720] you can find, well,
+- [00:09:31,720 - 00:09:33,720] you can either go off-center,
+- [00:09:33,720 - 00:09:35,720] or you can do other little tricks,
+- [00:09:35,720 - 00:09:37,720] in the beam of particles here,
+- [00:09:37,720 - 00:09:41,720] to make psi equal to minus phi,
+- [00:09:41,720 - 00:09:44,720] and then you would just get zero probability.
+- [00:09:44,720 - 00:09:46,720] So despite the fact that the electric field
+- [00:09:46,720 - 00:09:48,720] of the electron can get to M through A,
+- [00:09:48,720 - 00:09:50,720] or through B,
+- [00:09:50,720 - 00:09:54,720] if you open A and B in that particular circumstance,
+- [00:09:54,720 - 00:09:56,720] the electron just won't get there.
+- [00:09:56,720 - 00:09:58,220] As I said, that's as weird
+- [00:09:58,220 - 00:09:59,720] as anything I know in quantum mechanics,
+- [00:09:59,720 - 00:10:01,720] and it's very, very simple.
+- [00:10:01,720 - 00:10:04,720] But now comes the question,
+- [00:10:04,720 - 00:10:06,720] which we started to talk about last time,
+- [00:10:06,720 - 00:10:08,720] I think we may have even finished it,
+- [00:10:08,720 - 00:10:10,720] but I want to review it again.
+- [00:10:10,720 - 00:10:14,720] What happens if somebody actually is present,
+- [00:10:14,720 - 00:10:17,220] and actually watches whether the electron
+- [00:10:17,220 - 00:10:19,720] goes through one hole or the other,
+- [00:10:19,720 - 00:10:21,720] and even records whether it goes
+- [00:10:21,720 - 00:10:23,720] through one hole or the other?
+- [00:10:23,720 - 00:10:24,720] Then what happens?
+- [00:10:24,720 - 00:10:26,720] Surely then, you must know whether
+- [00:10:26,720 - 00:10:28,720] the electron went through A or B.
+- [00:10:28,720 - 00:10:32,720] So we made up a little system,
+- [00:10:32,720 - 00:10:35,720] we added another element here,
+- [00:10:35,720 - 00:10:37,720] we added a spin.
+- [00:10:37,720 - 00:10:40,720] The spin can either be up or down.
+- [00:10:40,720 - 00:10:43,720] It could be the electron's spin itself.
+- [00:10:43,720 - 00:10:46,720] There's no reason why it couldn't be the electron's spin,
+- [00:10:46,720 - 00:10:49,220] but I simply wanted to
+- [00:10:49,220 - 00:10:51,720] think of it as an external
+- [00:10:51,720 - 00:10:54,720] measuring apparatus that could record
+- [00:10:54,720 - 00:10:55,720] the presence of the electron,
+- [00:10:55,720 - 00:10:56,720] so I didn't want to think
+- [00:10:56,720 - 00:10:57,720] of it as part of the electron.
+- [00:10:57,720 - 00:10:59,720] Let's not think of it as part of the electron.
+- [00:10:59,720 - 00:11:02,720] We add another degree of freedom over here,
+- [00:11:02,720 - 00:11:05,720] which is a spin which can be up or down.
+- [00:11:05,720 - 00:11:06,720] Up or down.
+- [00:11:06,720 - 00:11:10,720] And let's not ask exactly how it happens,
+- [00:11:10,720 - 00:11:12,720] but when the electron
+- [00:11:12,720 - 00:11:13,720] pans
+- [00:11:13,720 - 00:11:14,720] through the hole A,
+- [00:11:14,720 - 00:11:16,720] there's no spin at B,
+- [00:11:16,720 - 00:11:19,720] when the electron passes through the hole at A,
+- [00:11:19,720 - 00:11:21,220] whatever it does is it
+- [00:11:21,220 - 00:11:22,720] gives a kick to the spin,
+- [00:11:22,720 - 00:11:23,720] and it flips it.
+- [00:11:23,720 - 00:11:24,720] That's an assumption.
+- [00:11:24,720 - 00:11:27,720] An assumption about the way the spin is located,
+- [00:11:27,720 - 00:11:30,720] how it interacts with the electron.
+- [00:11:30,720 - 00:11:32,720] We measure over and over again
+- [00:11:32,720 - 00:11:35,720] that when the electron does pass by the spin,
+- [00:11:35,720 - 00:11:36,720] it does kick it over.
+- [00:11:36,720 - 00:11:37,720] So we know what happens.
+- [00:11:37,720 - 00:11:40,720] An electron passing by the spin kicks it over,
+- [00:11:40,720 - 00:11:42,720] kicks it from, let's say, from down to up.
+- [00:11:43,720 - 00:11:45,720] And that's what happens.
+- [00:11:45,720 - 00:11:49,720] All right, now let's reanalyze the experiment.
+- [00:11:49,720 - 00:11:51,720] We don't just have an electron.
+- [00:11:51,720 - 00:11:54,720] We have an electron and another spin.
+- [00:11:54,720 - 00:11:56,220] So we have to add
+- [00:11:56,220 - 00:11:57,720] something into the state vector here.
+- [00:11:57,720 - 00:11:59,220] We can't just describe it
+- [00:11:59,220 - 00:12:00,720] as an electron at point zero,
+- [00:12:00,720 - 00:12:02,220] but we have to describe it
+- [00:12:02,220 - 00:12:03,720] as an electron at point zero
+- [00:12:03,720 - 00:12:07,720] with the spin down,
+- [00:12:07,720 - 00:12:10,720] or our apparatus unactivated.
+- [00:12:10,720 - 00:12:12,720] We can think of it as the apparatus being unactivated,
+- [00:12:12,720 - 00:12:19,720] and so that's our initial state.
+- [00:12:19,720 - 00:12:23,720] If the electron goes through the upper hole,
+- [00:12:23,720 - 00:12:26,720] then it becomes state A.
+- [00:12:26,720 - 00:12:29,720] The electron is at point A,
+- [00:12:29,720 - 00:12:32,720] but the spin gets flipped up.
+- [00:12:32,720 - 00:12:35,720] If it goes through hole B,
+- [00:12:35,720 - 00:12:37,720] the spin doesn't see the electron,
+- [00:12:37,720 - 00:12:40,720] and it stays pointing down.
+- [00:12:40,720 - 00:12:42,720] So now we have something like this.
+- [00:12:42,720 - 00:12:44,720] Now we have something new.
+- [00:12:44,720 - 00:12:46,720] The two states A and B
+- [00:12:46,720 - 00:12:50,720] are correlated and entangled with a spin.
+- [00:12:50,720 - 00:12:53,720] They're entangled with a spin
+- [00:12:53,720 - 00:12:56,720] such that by measuring the spin,
+- [00:12:56,720 - 00:12:57,720] you can tell whether the
+- [00:12:57,720 - 00:12:58,720] electron went through the upper hole
+- [00:12:58,720 - 00:13:00,720] or the lower hole.
+- [00:13:00,720 - 00:13:04,720] Well, what happens to A up?
+- [00:13:04,720 - 00:13:07,720] Once A, once the electron departs from here,
+- [00:13:07,720 - 00:13:09,720] it no longer interacts with the spin,
+- [00:13:09,720 - 00:13:11,720] assume,
+- [00:13:11,720 - 00:13:13,220] I assume that it will
+- [00:13:13,220 - 00:13:14,720] not kick the spin over again,
+- [00:13:14,720 - 00:13:17,720] and so all that will happen is A will evolve
+- [00:13:17,720 - 00:13:19,720] exactly as A evolved before,
+- [00:13:19,720 - 00:13:24,720] except the spin will remain up.
+- [00:13:24,720 - 00:13:28,720] This is not a measurement, though.
+- [00:13:28,720 - 00:13:29,720] This is a measurement.
+- [00:13:29,720 - 00:13:31,720] Are we collapsing a wave packet?
+- [00:13:31,720 - 00:13:32,720] Mm-hmm.
+- [00:13:32,720 - 00:13:34,720] Collapsing the wave packet simply
+- [00:13:34,720 - 00:13:36,720] means destroying the interference pattern.
+- [00:13:36,720 - 00:13:38,720] No, I mean at A and B,
+- [00:13:38,720 - 00:13:40,720] when you're changing the spin, possibly.
+- [00:13:41,720 - 00:13:42,720] You're flipping a spin.
+- [00:13:42,720 - 00:13:43,720] Yes.
+- [00:13:43,720 - 00:13:47,720] That constitutes a measurement of the electron,
+- [00:13:47,720 - 00:13:49,720] and it constitutes a collapse of
+- [00:13:49,720 - 00:13:51,720] the wave packet of the electron.
+- [00:13:51,720 - 00:13:53,720] When thought of as the
+- [00:13:53,720 - 00:13:55,720] composite system of electron and spin,
+- [00:13:55,720 - 00:13:57,720] no, it doesn't collapse the wave packet.
+- [00:13:57,720 - 00:13:58,720] The only way to collapse the
+- [00:13:58,720 - 00:13:59,720] wave packet of a combined system
+- [00:13:59,720 - 00:14:01,720] is for something else to look at it.
+- [00:14:06,720 - 00:14:07,720] Forget collapsing the wave packet.
+- [00:14:07,720 - 00:14:08,720] No, no, no.
+- [00:14:08,720 - 00:14:10,720] There are two things in there.
+- [00:14:10,720 - 00:14:14,720] If you had collapsed the wave packet,
+- [00:14:14,720 - 00:14:16,720] you wouldn't have A U plus B D.
+- [00:14:16,720 - 00:14:18,720] You don't have one or the other.
+- [00:14:18,720 - 00:14:19,720] No.
+- [00:14:19,720 - 00:14:20,720] You force it into the spin.
+- [00:14:20,720 - 00:14:21,720] No, no, no, no, no, no, no.
+- [00:14:21,720 - 00:14:24,720] Collapsing the wave packet is a language to use
+- [00:14:24,720 - 00:14:27,220] if you don't want to remember
+- [00:14:27,220 - 00:14:29,720] that there's this other spin there.
+- [00:14:29,720 - 00:14:32,720] Then you forget the other spin,
+- [00:14:32,720 - 00:14:35,720] and you just say the wave packet
+- [00:14:35,720 - 00:14:38,720] got collapsed to either A or B
+- [00:14:38,720 - 00:14:39,720] by the presence of the spin.
+- [00:14:39,720 - 00:14:41,720] By the presence of the spin.
+- [00:14:41,720 - 00:14:44,720] But if you keep the spin present,
+- [00:14:44,720 - 00:14:46,720] if you keep the spin present,
+- [00:14:46,720 - 00:14:48,720] in other words, if you
+- [00:14:48,720 - 00:14:50,720] include the apparatus into the description,
+- [00:14:50,720 - 00:14:53,720] then you don't talk about collapse of the wave packet.
+- [00:14:53,720 - 00:14:56,720] You talk about establishment of entanglement.
+- [00:14:56,720 - 00:14:57,720] Okay, and the apparatus in
+- [00:14:57,720 - 00:14:58,720] this case is simply the spin.
+- [00:14:58,720 - 00:15:00,720] It's just simply the spin.
+- [00:15:00,720 - 00:15:01,720] It could be anything.
+- [00:15:01,720 - 00:15:03,720] It could be a pointer that has two states.
+- [00:15:03,720 - 00:15:06,720] It could be the emission of a photon,
+- [00:15:06,720 - 00:15:08,220] so that up, so that
+- [00:15:08,220 - 00:15:09,720] down could stand for no photon,
+- [00:15:09,720 - 00:15:12,720] and up could stand for a photon being present.
+- [00:15:12,720 - 00:15:15,720] So it could be anything which distinguishes
+- [00:15:15,720 - 00:15:17,720] which of the two holes it went through.
+- [00:15:17,720 - 00:15:20,720] I mean, even if you didn't have the spin,
+- [00:15:20,720 - 00:15:22,720] you better go through the top or the bottom.
+- [00:15:22,720 - 00:15:24,720] It interacted with this metal, this
+- [00:15:24,720 - 00:15:26,720] metal aperture that has two holes.
+- [00:15:26,720 - 00:15:27,720] Yeah.
+- [00:15:27,720 - 00:15:28,720] I mean, there was some momentum.
+- [00:15:28,720 - 00:15:30,720] The question is whether it
+- [00:15:30,720 - 00:15:32,720] left a mark on the metal.
+- [00:15:32,720 - 00:15:33,720] Okay.
+- [00:15:33,720 - 00:15:36,720] Now, the answer is yes, it could leave a mark,
+- [00:15:36,720 - 00:15:38,720] but it could leave a mark,
+- [00:15:39,720 - 00:15:43,720] but that depends on details
+- [00:15:43,720 - 00:15:47,720] of this metal plate that's there,
+- [00:15:47,720 - 00:15:49,220] and in particular, if the
+- [00:15:49,220 - 00:15:50,720] metal plate has an energy gap,
+- [00:15:50,720 - 00:15:52,720] if it takes some energy to excite it,
+- [00:15:52,720 - 00:15:54,720] and the electron is low energy,
+- [00:15:54,720 - 00:16:01,720] it may not have enough energy to excite the,
+- [00:16:01,720 - 00:16:05,720] anything interesting in this system here,
+- [00:16:05,720 - 00:16:08,720] and so it will not leave a mark.
+- [00:16:08,720 - 00:16:09,720] But that's the criteria.
+- [00:16:09,720 - 00:16:10,720] It doesn't leave a mark.
+- [00:16:10,720 - 00:16:11,720] Let me say this.
+- [00:16:11,720 - 00:16:14,720] I was sort of saying, well, it's going through,
+- [00:16:14,720 - 00:16:16,720] and it has some momentum to get to the end,
+- [00:16:16,720 - 00:16:17,720] as opposed to way up high,
+- [00:16:17,720 - 00:16:19,720] but maybe we're up.
+- [00:16:19,720 - 00:16:22,720] But we, yeah, but you don't have a spread.
+- [00:16:22,720 - 00:16:24,220] So you have a spread of
+- [00:16:24,220 - 00:16:25,720] momentum states in A and B,
+- [00:16:25,720 - 00:16:26,720] but it's the same.
+- [00:16:26,720 - 00:16:27,720] Okay.
+- [00:16:27,720 - 00:16:28,720] There's no difference.
+- [00:16:28,720 - 00:16:29,720] Wait.
+- [00:16:29,720 - 00:16:31,720] Are you asking whether,
+- [00:16:31,720 - 00:16:34,220] are you asking whether you can
+- [00:16:34,220 - 00:16:36,720] tell which hole the electron went through
+- [00:16:36,720 - 00:16:37,720] by looking at the red?
+- [00:16:37,720 - 00:16:38,720] Yes.
+- [00:16:38,720 - 00:16:39,720] Okay, good, good.
+- [00:16:39,720 - 00:16:40,720] Let's take that care.
+- [00:16:40,720 - 00:16:41,720] Good.
+- [00:16:41,720 - 00:16:42,720] The electron goes through the upper hole,
+- [00:16:42,720 - 00:16:45,720] and obviously it gives a little kick upward to the,
+- [00:16:45,720 - 00:16:47,720] if it goes through the lower hole,
+- [00:16:47,720 - 00:16:49,720] it gives a little kick downward.
+- [00:16:49,720 - 00:16:50,720] All right?
+- [00:16:50,720 - 00:16:53,720] So it changes the momentum of the screen here.
+- [00:16:53,720 - 00:16:54,720] All right.
+- [00:16:54,720 - 00:16:57,720] Now, we're getting a little bit ahead of ourselves
+- [00:16:57,720 - 00:17:00,720] into a little more complex situation, obviously,
+- [00:17:00,720 - 00:17:02,720] but let me tell you what the answer is.
+- [00:17:02,720 - 00:17:03,720] The answer is that the,
+- [00:17:03,720 - 00:17:05,720] that the electron is going to be,
+- [00:17:05,720 - 00:17:06,720] it's going to be,
+- [00:17:06,720 - 00:17:32,600] it's going to be
+- [00:17:32,600 - 00:17:32,720] our top level incident
+- [00:17:32,720 - 00:17:33,240] and we find that the,
+- [00:17:33,240 - 00:17:33,840] that the,
+- [00:17:33,840 - 00:17:34,780] that the screen here itself
+- [00:17:34,780 - 00:17:35,720] has an uncertainty in its momentum.
+- [00:17:35,720 - 00:17:37,720] and it's pretty well spread, and
+- [00:17:37,720 - 00:17:39,720] the reason it's pretty well spread
+- [00:17:39,720 - 00:17:44,220] is because the location is very, very nicely definite
+- [00:17:44,220 - 00:17:45,720] so it's pretty well spread
+- [00:17:45,720 - 00:17:48,720] then the electron goes through the upper hole
+- [00:17:48,720 - 00:17:49,970] if it goes through the upper
+- [00:17:49,970 - 00:17:51,220] hole it gives a little kick
+- [00:17:51,220 - 00:17:55,220] and it shifts this distribution a little bit
+- [00:17:55,220 - 00:17:57,220] if it went through the lower hole it
+- [00:17:57,220 - 00:17:59,220] was shifted the other way a little bit
+- [00:17:59,220 - 00:18:02,720] but you can't tell uniquely
+- [00:18:02,720 - 00:18:06,720] and in fact as long as the kick is small by
+- [00:18:06,720 - 00:18:10,720] comparison with the spread in the momentum space wave function here
+- [00:18:10,720 - 00:18:14,720] you basically, it almost completely overlaps with it
+- [00:18:14,720 - 00:18:18,220] and you don't get kicked into
+- [00:18:18,220 - 00:18:21,720] an orthogonal state of the motion
+- [00:18:21,720 - 00:18:26,720] so that's a very, very good question
+- [00:18:26,720 - 00:18:28,720] but there is a very, very good answer
+- [00:18:28,720 - 00:18:30,220] so in the last case where
+- [00:18:30,220 - 00:18:31,720] you're not purely in the motion
+- [00:18:31,720 - 00:18:32,720] you're not purely in the motion
+- [00:18:32,720 - 00:18:33,720] you're only in the motion
+- [00:18:33,720 - 00:18:34,720] and up or down
+- [00:18:34,720 - 00:18:36,720] right, right, so that's right
+- [00:18:36,720 - 00:18:38,720] it's exactly the same thing as if instead of saying
+- [00:18:38,720 - 00:18:40,720] when the electron goes through
+- [00:18:40,720 - 00:18:42,720] here it kicks down to up
+- [00:18:42,720 - 00:18:45,720] instead it kicks it to almost
+- [00:18:45,720 - 00:18:48,720] down plus a little bit of up
+- [00:18:48,720 - 00:18:50,720] or the other way, whatever
+- [00:18:50,720 - 00:18:53,720] and that will allow you to have
+- [00:18:53,720 - 00:18:56,720] different degrees of destruction of the interference pattern
+- [00:18:56,720 - 00:18:58,720] but I want to take the extreme example now
+- [00:18:58,720 - 00:19:01,720] where you do a complete measurement
+- [00:19:01,720 - 00:19:02,720] where you do an absolute measurement
+- [00:19:02,720 - 00:19:07,720] which means that you establish a complete correlation
+- [00:19:07,720 - 00:19:09,720] between A and B on the one hand
+- [00:19:09,720 - 00:19:11,720] and up and down on the other hand
+- [00:19:11,720 - 00:19:13,720] so that by looking at the spin
+- [00:19:13,720 - 00:19:16,720] you can determine completely and uniquely
+- [00:19:16,720 - 00:19:18,720] which of the two holes the electron went through
+- [00:19:18,720 - 00:19:24,720] that's the notion, if you like, of an experiment
+- [00:19:24,720 - 00:19:27,720] of a measurement
+- [00:19:27,720 - 00:19:29,720] establishing an entanglement between
+- [00:19:29,720 - 00:19:31,720] a system and an apparatus
+- [00:19:31,720 - 00:19:33,720] just being the spin
+- [00:19:33,720 - 00:19:38,720] okay, so let's just do the
+- [00:19:38,720 - 00:19:42,720] dot all the i's and cross all the t's
+- [00:19:42,720 - 00:19:44,720] and now in this situation
+- [00:19:44,720 - 00:19:48,720] let's see, B, we never finished here
+- [00:19:48,720 - 00:19:50,720] B did not kick the electron up
+- [00:19:50,720 - 00:19:54,720] so B, if the electron goes through B
+- [00:19:54,720 - 00:19:56,720] the spin stays down
+- [00:19:56,720 - 00:19:58,720] and it just continues to stay down
+- [00:19:58,720 - 00:20:00,720] so now we have a state, as I said
+- [00:20:00,720 - 00:20:03,720] with this entanglement
+- [00:20:03,720 - 00:20:06,720] between the wave function of the electron
+- [00:20:06,720 - 00:20:08,720] psi or phi on the one hand
+- [00:20:08,720 - 00:20:10,720] and up and down on the other hand
+- [00:20:10,720 - 00:20:12,720] alright, let's just go through the formal
+- [00:20:12,720 - 00:20:16,720] the very formal motions of calculating the probability
+- [00:20:16,720 - 00:20:20,720] that the electron is found at point M
+- [00:20:20,720 - 00:20:22,720] so, there are two ways that
+- [00:20:22,720 - 00:20:24,720] the electron could be found at M
+- [00:20:24,720 - 00:20:28,720] it could be found with the electron at M
+- [00:20:28,720 - 00:20:29,720] with the spin up
+- [00:20:29,720 - 00:20:33,720] or electron at M with the spin down
+- [00:20:33,720 - 00:20:36,220] so what we have to
+- [00:20:36,220 - 00:20:38,720] do is build the projection operator
+- [00:20:38,720 - 00:20:43,720] onto the state where the electron is at point M
+- [00:20:43,720 - 00:20:45,720] alright, remember what the rule is
+- [00:20:45,720 - 00:20:47,720] if you have some property that you
+- [00:20:47,720 - 00:20:49,720] want to represent by a projection operator
+- [00:20:49,720 - 00:20:53,720] you take the subspace corresponding to that property
+- [00:20:53,720 - 00:20:57,720] you find the basis of orthogonal states in that subspace
+- [00:20:57,720 - 00:21:00,720] then you build the projection operator
+- [00:21:00,720 - 00:21:02,720] as a sum of dyads
+- [00:21:02,720 - 00:21:08,720] sum over all the basis vectors in the subspace
+- [00:21:08,720 - 00:21:13,720] of the dyad composed out of them
+- [00:21:13,720 - 00:21:15,720] alright, what are the states in
+- [00:21:15,720 - 00:21:17,720] which the electron is at M
+- [00:21:17,720 - 00:21:19,720] there are two states
+- [00:21:19,720 - 00:21:22,720] there's M up
+- [00:21:22,720 - 00:21:24,720] M up
+- [00:21:24,720 - 00:21:26,720] and there's M down, M down
+- [00:21:27,720 - 00:21:30,720] that's it, those are the only two states
+- [00:21:30,720 - 00:21:33,720] in which the electron is found at M
+- [00:21:33,720 - 00:21:36,720] so this is the projection operator
+- [00:21:36,720 - 00:21:39,220] onto the state, onto the configuration
+- [00:21:39,220 - 00:21:41,720] where the electron is at M
+- [00:21:41,720 - 00:21:43,720] so now what we have to do
+- [00:21:43,720 - 00:21:45,720] is we have to take the final state
+- [00:21:45,720 - 00:21:46,720] what is the final state?
+- [00:21:46,720 - 00:21:51,720] the final state is the sum of these two
+- [00:21:51,720 - 00:21:53,720] we add these together
+- [00:21:53,720 - 00:21:55,720] now we cannot factor out
+- [00:21:55,720 - 00:21:57,720] M up and M down
+- [00:21:57,720 - 00:22:00,720] and write it in this form here
+- [00:22:00,720 - 00:22:04,720] because each one multiplies a different ket vector
+- [00:22:04,720 - 00:22:06,720] psi M multiplies one ket vector
+- [00:22:06,720 - 00:22:09,720] phi M multiplies another ket vector
+- [00:22:09,720 - 00:22:12,720] alright, let's just do it
+- [00:22:12,720 - 00:22:15,720] let's bite the bullet and do the whole thing
+- [00:22:15,720 - 00:22:16,720] M up
+- [00:22:16,720 - 00:22:17,720] I need more room
+- [00:22:17,720 - 00:22:18,720] M up
+- [00:22:18,720 - 00:22:20,720] plus M down
+- [00:22:20,720 - 00:22:22,720] M down
+- [00:22:22,720 - 00:22:25,720] that's the projection operator
+- [00:22:25,720 - 00:22:27,720] let's see
+- [00:22:27,720 - 00:22:29,720] put something around it
+- [00:22:29,720 - 00:22:30,720] now we take the state vector
+- [00:22:30,720 - 00:22:32,720] the state vector
+- [00:22:32,720 - 00:22:34,720] is
+- [00:22:38,720 - 00:22:40,720] sum on N
+- [00:22:49,720 - 00:22:51,720] that's a summation index there
+- [00:22:51,720 - 00:22:52,720] sum on N
+- [00:22:52,720 - 00:22:54,720] N up
+- [00:22:54,720 - 00:22:56,720] psi N
+- [00:22:56,720 - 00:22:58,720] plus phi N
+- [00:22:58,720 - 00:23:01,720] N down
+- [00:23:01,720 - 00:23:03,720] likewise on this side over here
+- [00:23:03,720 - 00:23:05,720] we have the same thing
+- [00:23:05,720 - 00:23:07,720] psi star N
+- [00:23:11,720 - 00:23:13,720] oops, psi star N
+- [00:23:13,720 - 00:23:15,720] N up
+- [00:23:15,720 - 00:23:17,720] plus phi star N
+- [00:23:17,720 - 00:23:20,720] N down
+- [00:23:22,720 - 00:23:24,720] put some brackets around all these things
+- [00:23:26,720 - 00:23:29,720] alright, now first of all
+- [00:23:29,720 - 00:23:30,720] there are the non-cross terms
+- [00:23:30,720 - 00:23:32,720] the non-interference terms
+- [00:23:32,720 - 00:23:33,720] the terms like psi star psi
+- [00:23:33,720 - 00:23:35,720] let's just look at them
+- [00:23:37,720 - 00:23:40,720] psi N here
+- [00:23:40,720 - 00:23:42,720] this piece here
+- [00:23:42,720 - 00:23:44,720] has an up spin
+- [00:23:44,720 - 00:23:46,720] and it can only combine
+- [00:23:46,720 - 00:23:48,720] with the up spin over here
+- [00:23:48,720 - 00:23:51,720] it's orthogonal to the down spin
+- [00:23:51,720 - 00:23:53,220] and so the inner product of
+- [00:23:53,220 - 00:23:54,720] an up with a down is zero
+- [00:23:54,720 - 00:23:55,220] you only get a contribution
+- [00:23:55,220 - 00:23:55,720] of the up spin over here
+- [00:23:55,720 - 00:23:58,720] you only get a contribution from up with up
+- [00:23:58,720 - 00:24:00,720] and furthermore you only get a contribution
+- [00:24:00,720 - 00:24:03,720] when N is equal to M
+- [00:24:03,720 - 00:24:06,720] the inner product of up N
+- [00:24:06,720 - 00:24:08,720] is only non-zero
+- [00:24:08,720 - 00:24:10,720] with M up when N is equal to N
+- [00:24:10,720 - 00:24:12,720] when M is equal to N
+- [00:24:12,720 - 00:24:14,720] and then the inner product is one
+- [00:24:14,720 - 00:24:16,720] okay, so out of here
+- [00:24:16,720 - 00:24:18,720] you pick out the single term
+- [00:24:18,720 - 00:24:21,720] where M is equal to N
+- [00:24:21,720 - 00:24:24,720] likewise from this side
+- [00:24:24,720 - 00:24:26,720] M has to equal N
+- [00:24:26,720 - 00:24:28,720] and up has to equal up
+- [00:24:28,720 - 00:24:30,720] otherwise you don't get a contribution
+- [00:24:30,720 - 00:24:32,720] so from the direct terms
+- [00:24:32,720 - 00:24:34,720] you get psi star M
+- [00:24:34,720 - 00:24:36,720] psi M
+- [00:24:36,720 - 00:24:38,720] okay
+- [00:24:38,720 - 00:24:40,720] and also similarly
+- [00:24:40,720 - 00:24:42,720] phi star M
+- [00:24:42,720 - 00:24:44,720] phi M
+- [00:24:44,720 - 00:24:46,720] okay, that one comes
+- [00:24:46,720 - 00:24:49,720] from this term in the projection operator
+- [00:24:49,720 - 00:24:52,720] but you get nothing from the cross term
+- [00:24:52,720 - 00:24:54,720] the cross term
+- [00:24:54,720 - 00:24:56,720] is the number of spins
+- [00:24:56,720 - 00:24:58,220] coming when you try to
+- [00:24:58,220 - 00:24:59,720] combine a down with an up
+- [00:24:59,720 - 00:25:01,720] up here can only go with up here
+- [00:25:01,720 - 00:25:03,720] but then the up over here
+- [00:25:03,720 - 00:25:05,720] will kill the down over here
+- [00:25:05,720 - 00:25:09,720] so the projection operator does not allow you
+- [00:25:09,720 - 00:25:12,720] to combine a psi with a phi
+- [00:25:12,720 - 00:25:16,720] because these spins are orthogonal in the various terms
+- [00:25:16,720 - 00:25:18,720] alright, so here's the result
+- [00:25:18,720 - 00:25:21,720] the result is that if you do a measurement
+- [00:25:21,720 - 00:25:24,720] the result is the sums of the probabilities
+- [00:25:24,720 - 00:25:27,720] exactly as you would have imagined in classical physics
+- [00:25:27,720 - 00:25:29,220] so if you don't look at
+- [00:25:29,220 - 00:25:30,720] the root that the electron takes
+- [00:25:30,720 - 00:25:33,720] and if nothing looks, not just you
+- [00:25:33,720 - 00:25:35,720] but if no mark is left
+- [00:25:35,720 - 00:25:37,720] that you can ever, or anybody else
+- [00:25:37,720 - 00:25:39,720] can ever determine afterwards
+- [00:25:39,720 - 00:25:41,720] whether the electron went up or down
+- [00:25:41,720 - 00:25:43,720] or through the upper root or the lower root
+- [00:25:43,720 - 00:25:45,720] then there's an interference pattern
+- [00:25:45,720 - 00:25:46,720] yeah
+- [00:25:46,720 - 00:25:48,720] probably
+- [00:25:48,720 - 00:25:50,720] where, here?
+- [00:25:50,720 - 00:25:52,720] no
+- [00:25:52,720 - 00:25:54,720] above this, probably
+- [00:25:54,720 - 00:25:57,720] probably
+- [00:25:57,720 - 00:25:59,720] yeah, where is it, over here?
+- [00:25:59,720 - 00:26:00,720] yeah
+- [00:26:00,720 - 00:26:01,720] inside the
+- [00:26:01,720 - 00:26:02,720] yeah
+- [00:26:02,720 - 00:26:03,720] yeah
+- [00:26:03,720 - 00:26:04,720] but the main point is
+- [00:26:04,720 - 00:26:07,720] the main point is you've got to match
+- [00:26:07,720 - 00:26:08,720] not just
+- [00:26:08,720 - 00:26:10,720] whoops
+- [00:26:10,720 - 00:26:12,720] sorry
+- [00:26:13,720 - 00:26:15,720] I think he's the one who's sorry
+- [00:26:16,720 - 00:26:19,720] you've got to match not only the ends
+- [00:26:19,720 - 00:26:22,720] but the upy downy-ness of the state vectors
+- [00:26:22,720 - 00:26:24,720] and that will cancel all of the state vectors
+- [00:26:24,720 - 00:26:27,720] and that is the starting point
+- [00:26:27,720 - 00:26:29,720] for what we'd call, super-cars
+- [00:26:29,720 - 00:26:31,720] and what are these different states and then
+- [00:26:31,720 - 00:26:41,720] then you're going to argue is it's a
+- [00:26:41,720 - 00:26:44,170] If you're getting no market left, then
+- [00:26:44,170 - 00:26:46,620] whether it goes to A or B, then...
+- [00:26:46,620 - 00:26:48,420] Then there's an interference pattern.
+- [00:26:48,420 - 00:26:50,170] In other words, that means
+- [00:26:50,170 - 00:26:51,920] that you have to add amplitudes.
+- [00:26:51,920 - 00:26:53,620] If there's A, if there's... yes?
+- [00:26:53,620 - 00:26:55,270] So you can kick the electron
+- [00:26:55,270 - 00:26:56,920] also at B if you look at...
+- [00:26:56,920 - 00:26:58,020] What's that?
+- [00:26:58,020 - 00:26:59,870] Oh, you get exactly... if you... sorry,
+- [00:26:59,870 - 00:27:01,720] if you put the spin at B?
+- [00:27:01,720 - 00:27:03,220] If you kick the electron at
+- [00:27:03,220 - 00:27:04,720] both A and B, then you would...
+- [00:27:04,720 - 00:27:06,320] Kick the electron, kick the spin.
+- [00:27:06,320 - 00:27:07,220] Yeah.
+- [00:27:07,220 - 00:27:07,920] Yeah, good.
+- [00:27:07,920 - 00:27:11,170] Okay, let's suppose... right, let's suppose the
+- [00:27:11,170 - 00:27:14,420] spin is located in some symmetrical situation,
+- [00:27:14,420 - 00:27:17,620] let's say over here, where it gets equally
+- [00:27:17,620 - 00:27:20,820] kicked, whether it goes through A or B.
+- [00:27:20,820 - 00:27:22,620] Then what it'll come out... let's see,
+- [00:27:22,620 - 00:27:24,420] where will it come out? Over here?
+- [00:27:24,420 - 00:27:28,670] Then we'll just have A up plus... let's
+- [00:27:28,670 - 00:27:32,920] see, up, yeah, A up plus B up, right?
+- [00:27:32,920 - 00:27:35,420] And then it'll be exactly as if...
+- [00:27:35,420 - 00:27:37,920] then there will be an interference pattern.
+- [00:27:37,920 - 00:27:41,420] In the end, you will not be able to tell from
+- [00:27:41,420 - 00:27:44,920] the fact that the spin is up which hole it went through.
+- [00:27:44,920 - 00:27:52,420] So if... if... good.
+- [00:27:52,420 - 00:27:55,920] Then we... that would leave us in this situation, right?
+- [00:27:55,920 - 00:27:59,670] The way you're telling how... which hole you went through is
+- [00:27:59,670 - 00:28:03,420] finally measures the spin of the electron at the end, right?
+- [00:28:03,420 - 00:28:04,920] Well, I don't have to do any... I do
+- [00:28:04,920 - 00:28:06,420] not have to measure the spin of the electron.
+- [00:28:06,420 - 00:28:07,420] The electron has measured...
+- [00:28:07,920 - 00:28:11,920] The electron has done the measurement.
+- [00:28:11,920 - 00:28:13,420] The electron has done the
+- [00:28:13,420 - 00:28:14,920] measurement, not of the electron spin.
+- [00:28:14,920 - 00:28:16,920] The electron has done the measurement
+- [00:28:16,920 - 00:28:18,920] of which hole it went through.
+- [00:28:18,920 - 00:28:21,670] I don't have to look at the electron... I...
+- [00:28:21,670 - 00:28:24,420] sorry, I don't have to look at the spin
+- [00:28:24,420 - 00:28:28,420] to know that the interference pattern will be destroyed.
+- [00:28:28,420 - 00:28:30,920] I don't actually have to look at the electron.
+- [00:28:30,920 - 00:28:34,170] Just the fact that the information is recorded
+- [00:28:34,170 - 00:28:37,420] by a system, I could look at it,
+- [00:28:37,920 - 00:28:42,920] but just the fact that it's recorded, and it's
+- [00:28:42,920 - 00:28:47,920] recorded in... in the orthogonality of up and down,
+- [00:28:47,920 - 00:28:49,920] that's enough to destroy the interference pattern.
+- [00:28:49,920 - 00:28:51,920] So I don't ever have to look at the electron.
+- [00:28:51,920 - 00:28:52,920] I just look at the
+- [00:28:52,920 - 00:28:53,920] electron... sorry, I keep saying electron.
+- [00:28:53,920 - 00:28:55,920] I don't ever have to look at the spin.
+- [00:28:55,920 - 00:28:58,920] I just look at the electrons coming through.
+- [00:28:58,920 - 00:29:00,920] I have a beam of electrons coming through.
+- [00:29:00,920 - 00:29:02,920] I do this over and over again.
+- [00:29:02,920 - 00:29:05,920] I send through an electron, do the experiment.
+- [00:29:05,920 - 00:29:06,920] Electron arrives somewheres.
+- [00:29:06,920 - 00:29:09,420] And then I put the
+- [00:29:09,420 - 00:29:11,920] spin back in its original position,
+- [00:29:11,920 - 00:29:13,920] do the whole experiment again.
+- [00:29:13,920 - 00:29:16,920] Put the spin back in its original position,
+- [00:29:16,920 - 00:29:18,920] do the whole experiment again,
+- [00:29:18,920 - 00:29:21,920] and gather statistics of what the probability
+- [00:29:21,920 - 00:29:24,920] is that the electron arrives in different places.
+- [00:29:24,920 - 00:29:27,920] I never actually have to look at the spin.
+- [00:29:27,920 - 00:29:30,420] All I have to do is look at
+- [00:29:30,420 - 00:29:32,920] the electron and see where it came out,
+- [00:29:32,920 - 00:29:34,920] and I will discover that there was no interference pattern.
+- [00:29:36,920 - 00:29:40,920] Well, if the screen has
+- [00:29:40,920 - 00:29:44,920] sufficiently little mass that it recoils,
+- [00:29:44,920 - 00:29:47,920] then that will also destroy the interference?
+- [00:29:47,920 - 00:29:50,920] Yeah, that's right.
+- [00:29:50,920 - 00:29:55,920] If the... or another... yeah.
+- [00:29:55,920 - 00:29:59,420] Basically, if the momentum wave function
+- [00:29:59,420 - 00:30:02,920] of the screen here is narrow enough
+- [00:30:02,920 - 00:30:04,420] so that when the electron goes
+- [00:30:04,420 - 00:30:05,920] through, it gives it a kick,
+- [00:30:05,920 - 00:30:07,920] and kicks it to a configuration
+- [00:30:07,920 - 00:30:09,920] which is orthogonal to the original configuration,
+- [00:30:09,920 - 00:30:11,920] then it will destroy the interference pattern.
+- [00:30:11,920 - 00:30:12,920] Right.
+- [00:30:12,920 - 00:30:14,920] In fact, there's another way
+- [00:30:14,920 - 00:30:16,920] that interference patterns get destroyed.
+- [00:30:16,920 - 00:30:21,920] If the electron... now, this is subtle.
+- [00:30:21,920 - 00:30:22,920] This is very subtle.
+- [00:30:22,920 - 00:30:25,920] But if the electron goes through the upper hole here,
+- [00:30:25,920 - 00:30:30,920] then it may... and it's a slow electron.
+- [00:30:30,920 - 00:30:33,920] Let's say it's a very slow electron, not too fast.
+- [00:30:33,920 - 00:30:34,920] It will emit...
+- [00:30:35,920 - 00:30:36,920] some radiation.
+- [00:30:36,920 - 00:30:38,920] Every time an electron is accelerated,
+- [00:30:38,920 - 00:30:40,420] and it has to be accelerated
+- [00:30:40,420 - 00:30:41,920] to go from here to here,
+- [00:30:41,920 - 00:30:43,920] it will emit a photon.
+- [00:30:43,920 - 00:30:44,920] Right?
+- [00:30:44,920 - 00:30:46,920] So... or it may emit a photon.
+- [00:30:46,920 - 00:30:48,920] It may emit a photon.
+- [00:30:48,920 - 00:30:50,920] Not that it will emit a photon.
+- [00:30:50,920 - 00:30:51,920] It may emit a photon.
+- [00:30:51,920 - 00:30:53,920] If it goes through the lower
+- [00:30:53,920 - 00:30:55,920] hole, it also may emit a photon.
+- [00:30:55,920 - 00:30:57,420] The probability of emitting a photon,
+- [00:30:57,420 - 00:30:58,920] incidentally, by an electron is very low.
+- [00:30:58,920 - 00:31:01,420] It's about one part in
+- [00:31:01,420 - 00:31:03,920] a hundred for a low-energy electron.
+- [00:31:03,920 - 00:31:04,920] So only one part in a hundred...
+- [00:31:04,920 - 00:31:07,920] does it emit an electron.
+- [00:31:07,920 - 00:31:10,420] So it does leave a little
+- [00:31:10,420 - 00:31:12,920] bit of information in the radiation field.
+- [00:31:12,920 - 00:31:15,920] But with only emitting a
+- [00:31:15,920 - 00:31:18,920] photon, one part in a hundred,
+- [00:31:18,920 - 00:31:21,920] you cannot be certain when you look at the system
+- [00:31:21,920 - 00:31:23,920] and discover there was no photon emitted,
+- [00:31:23,920 - 00:31:26,920] you cannot be certain which hole it went through.
+- [00:31:26,920 - 00:31:27,920] But on the other hand,
+- [00:31:27,920 - 00:31:31,920] if you really whip the electron through there fast,
+- [00:31:31,920 - 00:31:33,920] in other words, a high-energy electron,
+- [00:31:33,920 - 00:31:36,420] and you really arranged it so that the
+- [00:31:36,420 - 00:31:38,920] electron went through one hole way up on top
+- [00:31:38,920 - 00:31:41,920] and the other hole way down on bottom,
+- [00:31:41,920 - 00:31:43,920] so that it really had to
+- [00:31:43,920 - 00:31:45,920] whip around and accelerate a lot,
+- [00:31:45,920 - 00:31:49,920] then the likelihood of emitting a photon would be larger
+- [00:31:49,920 - 00:31:52,920] and the interference pattern would be more destroyed.
+- [00:31:52,920 - 00:31:55,420] So just the ability to emit photons
+- [00:31:55,420 - 00:31:57,920] is enough to partially destroy interference patterns.
+- [00:31:57,920 - 00:31:58,920] And it does.
+- [00:31:58,920 - 00:31:59,920] Yeah?
+- [00:31:59,920 - 00:32:01,920] So when you actually do the experiment,
+- [00:32:01,920 - 00:32:03,920] you have to perform something.
+- [00:32:03,920 - 00:32:06,920] You have to do a statistically large number of methods
+- [00:32:06,920 - 00:32:08,920] in order to build up the data set
+- [00:32:08,920 - 00:32:12,920] from which, in fact, you infer the probability distribution.
+- [00:32:12,920 - 00:32:13,920] Yes.
+- [00:32:13,920 - 00:32:14,920] Because you could...
+- [00:32:14,920 - 00:32:15,920] Absolutely.
+- [00:32:15,920 - 00:32:18,920] Your ability to approximate the probability distribution
+- [00:32:18,920 - 00:32:22,920] is a function of how many experiments the electron's around.
+- [00:32:22,920 - 00:32:24,920] So what you're saying is that
+- [00:32:24,920 - 00:32:27,920] in the case of an electron with
+- [00:32:27,920 - 00:32:30,920] a low probability of emitting a photon,
+- [00:32:30,920 - 00:32:32,920] which in principle could be detected,
+- [00:32:32,920 - 00:32:36,920] that is one source of noise in a practical experiment.
+- [00:32:36,920 - 00:32:37,920] Yeah.
+- [00:32:37,920 - 00:32:39,920] Or one source of interference...
+- [00:32:39,920 - 00:32:41,920] one source of destruction of the interference pattern.
+- [00:32:41,920 - 00:32:43,920] You can call it noise if you like.
+- [00:32:43,920 - 00:32:46,920] Well, what you see practically is the experiment,
+- [00:32:46,920 - 00:32:48,920] from a theory point of view, says
+- [00:32:48,920 - 00:32:54,920] those detector statistics will contain dark and light areas.
+- [00:32:54,920 - 00:32:57,920] Areas of the detector where you get particles
+- [00:32:57,920 - 00:32:59,920] and areas where you don't get any particles.
+- [00:32:59,920 - 00:33:00,920] But in fact,
+- [00:33:00,920 - 00:33:01,920] um,
+- [00:33:01,920 - 00:33:03,920] if you can get a thousand and one contrast,
+- [00:33:03,920 - 00:33:05,920] you did really good.
+- [00:33:05,920 - 00:33:08,920] And there's gonna be some residual, um,
+- [00:33:08,920 - 00:33:10,920] number of particles that show up anyway
+- [00:33:10,920 - 00:33:13,920] in the so-called dark or forbidden areas.
+- [00:33:13,920 - 00:33:16,920] So my question is this.
+- [00:33:16,920 - 00:33:20,920] If you have a large number of these things
+- [00:33:20,920 - 00:33:25,920] and you have a system that maybe reads this,
+- [00:33:25,920 - 00:33:26,920] what you're saying is that
+- [00:33:26,920 - 00:33:31,920] if there is any possibility of determining after the fact
+- [00:33:31,920 - 00:33:33,920] which hole the electron went through,
+- [00:33:33,920 - 00:33:35,920] that will destroy the interference?
+- [00:33:35,920 - 00:33:36,920] Yes.
+- [00:33:36,920 - 00:33:37,920] Yes.
+- [00:33:37,920 - 00:33:38,920] But you may also have a situa-
+- [00:33:38,920 - 00:33:39,920] a partial situation
+- [00:33:39,920 - 00:33:40,920] where you,
+- [00:33:40,920 - 00:33:41,920] by looking at something,
+- [00:33:41,920 - 00:33:43,920] you may be able to say it was more probable
+- [00:33:43,920 - 00:33:44,920] that you went through the
+- [00:33:44,920 - 00:33:45,920] upper hole and the lower hole.
+- [00:33:45,920 - 00:33:46,920] That's easy to do.
+- [00:33:46,920 - 00:33:47,920] Yeah, that's easy to do.
+- [00:33:47,920 - 00:33:48,920] For example,
+- [00:33:48,920 - 00:33:49,920] as I said,
+- [00:33:49,920 - 00:33:51,920] when the electron passes through here,
+- [00:33:51,920 - 00:33:54,920] instead of kicking down to up,
+- [00:33:54,920 - 00:33:55,920] it just kicks the,
+- [00:33:55,920 - 00:33:58,920] it just kicks the direction of spin a little bit.
+- [00:33:58,920 - 00:34:00,920] So that it's mostly still down
+- [00:34:00,920 - 00:34:02,920] and just a little bit up.
+- [00:34:02,920 - 00:34:03,920] That will partially,
+- [00:34:03,920 - 00:34:07,920] that will destroy the interference pattern a little bit.
+- [00:34:07,920 - 00:34:09,920] It'll blur it a little bit.
+- [00:34:09,920 - 00:34:10,920] Yeah.
+- [00:34:10,920 - 00:34:11,920] Correct.
+- [00:34:11,920 - 00:34:12,920] Yeah.
+- [00:34:12,920 - 00:34:14,920] Would you say that the one in a hundred times
+- [00:34:14,920 - 00:34:17,920] that the proton does get bitten off
+- [00:34:17,920 - 00:34:22,920] is the one time when that element of interference passed?
+- [00:34:22,920 - 00:34:24,920] That would be one of the cases where-
+- [00:34:24,920 - 00:34:25,920] Yeah.
+- [00:34:25,920 - 00:34:26,920] Yeah.
+- [00:34:26,920 - 00:34:28,920] What you could do is you could collect statistics
+- [00:34:28,920 - 00:34:30,920] only for those events
+- [00:34:30,920 - 00:34:33,920] in which a photon was emitted.
+- [00:34:33,920 - 00:34:34,920] Okay?
+- [00:34:34,920 - 00:34:39,920] And then you would find that the interference pattern worse.
+- [00:34:39,920 - 00:34:40,920] Now,
+- [00:34:40,920 - 00:34:42,920] it's not quite completely clear
+- [00:34:42,920 - 00:34:43,920] because if a photon,
+- [00:34:43,920 - 00:34:45,920] if a photon is emitted from here,
+- [00:34:45,920 - 00:34:47,920] it may not be completely orthogonal
+- [00:34:47,920 - 00:34:50,920] from a photon emitted from here.
+- [00:34:50,920 - 00:34:52,920] The wave function of the photons
+- [00:34:52,920 - 00:34:54,920] may not completely be orthogonal.
+- [00:34:54,920 - 00:34:56,920] So you could still have a little bit of blurry,
+- [00:34:56,920 - 00:34:58,920] blurry situation there.
+- [00:34:58,920 - 00:34:59,920] But you know,
+- [00:34:59,920 - 00:35:00,920] I mean,
+- [00:35:00,920 - 00:35:03,920] you can destroy interference in many, many ways.
+- [00:35:03,920 - 00:35:04,920] Just the atmosphere,
+- [00:35:04,920 - 00:35:05,920] and this is,
+- [00:35:05,920 - 00:35:06,920] this is the,
+- [00:35:06,920 - 00:35:10,920] this is the biggest source of interference destruction.
+- [00:35:10,920 - 00:35:11,920] In particular,
+- [00:35:11,920 - 00:35:13,920] why don't you see me as fuzzy?
+- [00:35:13,920 - 00:35:14,920] Why do you,
+- [00:35:14,920 - 00:35:15,920] well,
+- [00:35:15,920 - 00:35:16,920] I assume you don't see me as fuzzy.
+- [00:35:16,920 - 00:35:17,920] I mean,
+- [00:35:17,920 - 00:35:19,920] I start out here and you don't,
+- [00:35:19,920 - 00:35:20,920] you close your eyes,
+- [00:35:20,920 - 00:35:21,920] close your eyes.
+- [00:35:21,920 - 00:35:22,920] Everybody close your eyes.
+- [00:35:22,920 - 00:35:23,920] Okay?
+- [00:35:23,920 - 00:35:24,920] And now open them.
+- [00:35:24,920 - 00:35:26,920] You'll find me in the same place.
+- [00:35:26,920 - 00:35:27,920] You don't find my wave function
+- [00:35:27,920 - 00:35:28,920] having spread out all over the place.
+- [00:35:28,920 - 00:35:29,920] In fact,
+- [00:35:29,920 - 00:35:31,920] you could wait forever and ever and ever,
+- [00:35:31,920 - 00:35:32,920] and you would not see my,
+- [00:35:32,920 - 00:35:33,920] or the moon,
+- [00:35:33,920 - 00:35:34,920] the moon's wave packet doesn't,
+- [00:35:34,920 - 00:35:35,920] doesn't spread.
+- [00:35:35,920 - 00:35:36,920] Part of the reason is,
+- [00:35:36,920 - 00:35:37,920] part of the reason is the moon is heavy.
+- [00:35:37,920 - 00:35:38,920] But the other reason is that it's constantly bombarded
+- [00:35:38,920 - 00:35:39,920] by atmosphere,
+- [00:35:39,920 - 00:35:40,920] by other things.
+- [00:35:40,920 - 00:35:41,920] And so it's as if it's continuously measured.
+- [00:35:41,920 - 00:35:42,920] And every time it's measured,
+- [00:35:42,920 - 00:35:43,920] if you continuously keep measuring,
+- [00:35:43,920 - 00:35:44,920] you're going to get a lot of things.
+- [00:35:44,920 - 00:35:45,920] And so it's,
+- [00:35:45,920 - 00:35:46,920] it's,
+- [00:35:46,920 - 00:35:47,920] it's,
+- [00:35:47,920 - 00:35:48,920] it's,
+- [00:35:48,920 - 00:35:49,920] it's,
+- [00:35:49,920 - 00:35:50,920] it's,
+- [00:35:50,920 - 00:35:51,920] it's,
+- [00:35:51,920 - 00:35:52,920] it's,
+- [00:35:52,920 - 00:35:53,920] it's,
+- [00:35:53,920 - 00:35:54,920] it's,
+- [00:35:54,920 - 00:35:55,920] it's,
+- [00:35:55,920 - 00:35:56,920] it's,
+- [00:35:56,920 - 00:35:57,920] it's,
+- [00:35:57,920 - 00:35:58,920] it's,
+- [00:35:58,920 - 00:35:59,920] it's,
+- [00:35:59,920 - 00:36:00,920] it's.
+- [00:36:00,920 - 00:36:01,920] So if you continuously keep measuring a thing,
+- [00:36:01,920 - 00:36:02,920] it will not spread at all.
+- [00:36:02,920 - 00:36:07,920] I have a side suggestion here on your course next,
+- [00:36:07,920 - 00:36:08,920] whenever you teach it.
+- [00:36:08,920 - 00:36:09,920] Yeah?
+- [00:36:09,920 - 00:36:10,920] I'm using terms like the Lapsley wave packet.
+- [00:36:10,920 - 00:36:11,920] You're talking about measuring.
+- [00:36:11,920 - 00:36:12,920] You just gave us a theory of measurement.
+- [00:36:12,920 - 00:36:13,920] Yeah.
+- [00:36:13,920 - 00:36:14,920] That's,
+- [00:36:14,920 - 00:36:15,920] that's something that's,
+- [00:36:15,920 - 00:36:16,920] that would be good to teach in a course.
+- [00:36:16,920 - 00:36:17,920] I'm teaching.
+- [00:36:17,920 - 00:36:18,920] Well.
+- [00:36:19,920 - 00:36:20,920] It's a big,
+- [00:36:20,920 - 00:36:21,920] big thing.
+- [00:36:21,920 - 00:36:22,920] Forget.
+- [00:36:22,920 - 00:36:23,920] Hm?
+- [00:36:23,920 - 00:36:24,920] Well,
+- [00:36:24,920 - 00:36:25,420] you're saying that things are
+- [00:36:25,420 - 00:36:25,920] always interacting with one another,
+- [00:36:25,920 - 00:36:26,920] so.
+- [00:36:26,920 - 00:36:27,920] Well,
+- [00:36:27,920 - 00:36:31,420] I'm trying to give you an extremely precise example
+- [00:36:31,420 - 00:36:34,920] I give you an extremely precise example
+- [00:36:34,920 - 00:36:38,180] and now we can extrapolate from that
+- [00:36:38,180 - 00:36:40,500] we could work out some other examples
+- [00:36:40,500 - 00:36:44,180] in which partial experiments are done
+- [00:36:44,180 - 00:36:47,500] I think those are straightforward
+- [00:36:47,500 - 00:36:50,220] but I'm trying to give you a crystal clear example
+- [00:36:50,220 - 00:36:52,920] where there's no ambiguity
+- [00:36:52,920 - 00:36:54,920] so that you can see the mechanism
+- [00:36:54,920 - 00:36:56,920] by which the interference pattern is destroyed
+- [00:36:56,920 - 00:36:59,860] Entanglement forces you to do that
+- [00:36:59,860 - 00:37:02,200] I mean, 30, 40, 50 years ago
+- [00:37:02,200 - 00:37:03,880] you could sort of get away with
+- [00:37:03,880 - 00:37:05,560] loosely not worrying about it too much
+- [00:37:05,560 - 00:37:08,920] except for the final consequence
+- [00:37:08,920 - 00:37:13,100] Collapse of the wave packet
+- [00:37:13,100 - 00:37:15,660] and collapse of the wave packet here means
+- [00:37:15,660 - 00:37:17,740] collapse of this wave packet
+- [00:37:17,740 - 00:37:20,040] which literally means that you
+- [00:37:20,040 - 00:37:22,340] throw away the off-diagonal terms
+- [00:37:22,340 - 00:37:25,660] the mixed terms, the phi-sci terms
+- [00:37:25,660 - 00:37:26,900] that's
+- [00:37:26,920 - 00:37:27,920] the way it's written
+- [00:37:27,920 - 00:37:28,920] and that is
+- [00:37:28,920 - 00:37:29,920] you can describe it that way
+- [00:37:29,920 - 00:37:30,870] you say I did a
+- [00:37:30,870 - 00:37:31,820] measurement, I collapsed the wave packet
+- [00:37:31,820 - 00:37:36,000] but you also ought to be able to describe
+- [00:37:36,000 - 00:37:40,660] the composite system of the electron and the detector
+- [00:37:40,660 - 00:37:44,600] in a way that doesn't involve any
+- [00:37:44,600 - 00:37:47,680] hanky-panky with collapsing wave packets and so forth
+- [00:37:47,680 - 00:37:51,500] The corresponding correct description of a composite system
+- [00:37:51,500 - 00:37:53,240] is entanglement took place
+- [00:37:53,240 - 00:37:55,240] So that's what a
+- [00:37:55,240 - 00:37:56,440] that's the importance of
+- [00:37:56,920 - 00:37:58,920] entanglement
+- [00:37:58,920 - 00:38:00,920] in doing measurements
+- [00:38:00,920 - 00:38:04,920] and obviously it's a very important part of nature
+- [00:38:04,920 - 00:38:06,920] Question
+- [00:38:06,920 - 00:38:08,920] I don't know if this is relevant or not
+- [00:38:08,920 - 00:38:10,920] if it is not relevant just ignore it
+- [00:38:10,920 - 00:38:12,920] but you said that
+- [00:38:12,920 - 00:38:14,920] photon will get emitted
+- [00:38:14,920 - 00:38:17,920] because the path is curved
+- [00:38:17,920 - 00:38:20,920] just in a theoretical case
+- [00:38:20,920 - 00:38:22,920] there was a gravitational field present
+- [00:38:22,920 - 00:38:24,920] so that it's actually a straight line
+- [00:38:24,920 - 00:38:25,920] in the gravitational field presence
+- [00:38:25,920 - 00:38:27,920] how would that change the situation
+- [00:38:27,920 - 00:38:29,920] wait say again?
+- [00:38:29,920 - 00:38:31,920] No, let's see
+- [00:38:31,920 - 00:38:34,420] like the path from zero
+- [00:38:34,420 - 00:38:36,920] to a to m is curved
+- [00:38:36,920 - 00:38:37,920] yeah
+- [00:38:37,920 - 00:38:38,920] so for that reason
+- [00:38:38,920 - 00:38:41,920] Well, I mean there is no well-defined path
+- [00:38:41,920 - 00:38:43,920] but you can more or less see that
+- [00:38:43,920 - 00:38:47,420] that the electron had to accelerate
+- [00:38:47,420 - 00:38:50,920] to go around the corner here
+- [00:38:50,920 - 00:38:51,920] Right
+- [00:38:51,920 - 00:38:52,920] Now, if there is a
+- [00:38:52,920 - 00:38:53,920] mass sitting between a and b
+- [00:38:53,920 - 00:38:54,920] Oh if there's a mass sitting between a and b?
+- [00:38:54,920 - 00:38:55,420] Right. Now if there is a
+- [00:38:55,420 - 00:38:55,920] mass sitting between a and b?
+- [00:38:55,920 - 00:38:59,920] Yeah, so that it's actually a natural path
+- [00:38:59,920 - 00:39:00,920] Yeah
+- [00:39:00,920 - 00:39:02,920] Would it change the situation?
+- [00:39:02,920 - 00:39:04,420] Or you could just have one of
+- [00:39:04,420 - 00:39:05,920] the slits not be a deflection at all
+- [00:39:05,920 - 00:39:07,920] Wouldn't change it
+- [00:39:07,920 - 00:39:08,920] Yep, you could have one
+- [00:39:08,920 - 00:39:09,920] of the slits not be deflected
+- [00:39:09,920 - 00:39:11,920] but then the other one would be
+- [00:39:11,920 - 00:39:13,920] uh
+- [00:39:13,920 - 00:39:15,920] good
+- [00:39:15,920 - 00:39:17,920] Look, we can think of a
+- [00:39:17,920 - 00:39:19,920] thousand million variations on this theme
+- [00:39:19,920 - 00:39:21,920] The end of the story is
+- [00:39:21,920 - 00:39:24,920] if anything tags the
+- [00:39:24,920 - 00:39:26,920] leaves a mark
+- [00:39:26,920 - 00:39:29,920] telling you which way the electron went
+- [00:39:29,920 - 00:39:31,920] that destroys the interference pattern
+- [00:39:31,920 - 00:39:33,920] It'll destroy it partially
+- [00:39:33,920 - 00:39:36,920] if it gives you some probabilistic information
+- [00:39:36,920 - 00:39:38,920] about which way the electron went
+- [00:39:38,920 - 00:39:40,920] not certain information but
+- [00:39:40,920 - 00:39:42,920] biased
+- [00:39:42,920 - 00:39:44,920] toward one direction or the other
+- [00:39:44,920 - 00:39:46,920] I have a question
+- [00:39:46,920 - 00:39:51,920] Does this definition of interference
+- [00:39:51,920 - 00:39:54,920] contradict anything we learned in
+- [00:39:54,920 - 00:39:56,920] continuum electromagnetics?
+- [00:39:56,920 - 00:39:59,920] Multiple photons interacting with each other
+- [00:39:59,920 - 00:40:01,920] in geometries and so forth
+- [00:40:01,920 - 00:40:03,920] Is it the same thing?
+- [00:40:03,920 - 00:40:05,920] Is it another way to look at the same thing?
+- [00:40:05,920 - 00:40:07,920] Or is it radically different?
+- [00:40:07,920 - 00:40:08,920] Um
+- [00:40:08,920 - 00:40:10,920] The interference pattern here
+- [00:40:10,920 - 00:40:12,920] when there are many many electrons
+- [00:40:12,920 - 00:40:14,920] or let's say many photons to make it simpler
+- [00:40:14,920 - 00:40:16,920] when there are many many photons
+- [00:40:16,920 - 00:40:18,920] coming through all at once
+- [00:40:18,920 - 00:40:20,920] the interference pattern is nothing but the
+- [00:40:20,920 - 00:40:22,920] interference pattern of wave motion
+- [00:40:22,920 - 00:40:24,920] of wave uh
+- [00:40:24,920 - 00:40:27,920] of electromagnetic waves
+- [00:40:27,920 - 00:40:28,920] Uh
+- [00:40:28,920 - 00:40:30,920] The fact that it also happens for electrons
+- [00:40:30,920 - 00:40:33,920] tells you that there's some sort of wave
+- [00:40:33,920 - 00:40:35,920] associated with the electron
+- [00:40:35,920 - 00:40:37,920] It's not the electromagnetic waves
+- [00:40:37,920 - 00:40:39,920] It's the electron wave function
+- [00:40:43,920 - 00:40:44,920] Okay let's move
+- [00:40:44,920 - 00:40:45,920] Yeah one more
+- [00:40:45,920 - 00:40:47,920] I just had a question about the
+- [00:40:47,920 - 00:40:49,920] I missed last class so that
+- [00:40:49,920 - 00:40:51,920] the parameters of the beam are that
+- [00:40:51,920 - 00:40:53,920] it has an equal chance of being emitted with a
+- [00:40:53,920 - 00:40:56,920] momentum that would put it between A and B
+- [00:40:56,920 - 00:40:57,920] Well it's
+- [00:40:57,920 - 00:40:59,920] Yeah yeah
+- [00:40:59,920 - 00:41:02,920] Oh which would put it between A and B?
+- [00:41:02,920 - 00:41:04,420] Well the setup is that
+- [00:41:04,420 - 00:41:05,920] it's either fired at A or
+- [00:41:05,920 - 00:41:08,920] Well we're just assuming that
+- [00:41:08,920 - 00:41:10,920] if it arrives anywhere in between
+- [00:41:10,920 - 00:41:11,920] it just bounces off
+- [00:41:11,920 - 00:41:13,920] that this region is closed off
+- [00:41:13,920 - 00:41:14,920] Yeah
+- [00:41:14,920 - 00:41:15,920] So
+- [00:41:15,920 - 00:41:17,920] It's blocked off
+- [00:41:17,920 - 00:41:18,920] Yeah
+- [00:41:18,920 - 00:41:20,920] So wrong with the shorting there's Tad then
+- [00:41:20,920 - 00:41:22,920] The Tad really isn't a super positional I-1
+- [00:41:23,920 - 00:41:24,920] No
+- [00:41:24,920 - 00:41:27,920] No no no the cat is not
+- [00:41:27,920 - 00:41:30,920] in a super position of alive and dead
+- [00:41:30,920 - 00:41:32,920] Okay the cat is not in
+- [00:41:32,920 - 00:41:34,920] a super position of alive and dead
+- [00:41:34,920 - 00:41:36,920] That's exactly what is not true
+- [00:41:36,920 - 00:41:39,920] What is true is the
+- [00:41:39,920 - 00:41:42,920] cat is entangled with another system
+- [00:41:42,920 - 00:41:44,920] What is it entangled with?
+- [00:41:44,920 - 00:41:45,920] Uh
+- [00:41:45,920 - 00:41:49,920] The question of whether the bullet was fired or not
+- [00:41:49,920 - 00:41:51,920] So it's a composite system
+- [00:41:51,920 - 00:41:53,920] Let's say it consists of uh
+- [00:41:53,920 - 00:41:58,920] of uh gun and cat
+- [00:41:58,920 - 00:42:01,920] So it's a composite system gun and cat
+- [00:42:01,920 - 00:42:03,920] And the gun can be in two states
+- [00:42:03,920 - 00:42:07,920] The two states are unfired and fired
+- [00:42:07,920 - 00:42:08,920] Okay
+- [00:42:08,920 - 00:42:11,920] The cat can be in two states dead or alive
+- [00:42:11,920 - 00:42:12,920] Okay
+- [00:42:12,920 - 00:42:16,920] You start with a live cat and an unfired gun
+- [00:42:16,920 - 00:42:18,920] U for unfired
+- [00:42:18,920 - 00:42:21,920] And then something happens and you wait a while
+- [00:42:21,920 - 00:42:23,920] And after a while
+- [00:42:23,920 - 00:42:25,920] The system evolves into
+- [00:42:25,920 - 00:42:28,920] Live cat with some coefficient alpha
+- [00:42:28,920 - 00:42:31,920] Live cat unfired gun
+- [00:42:31,920 - 00:42:33,920] Plus some other coefficient
+- [00:42:33,920 - 00:42:35,920] Dead cat fired gun
+- [00:42:35,920 - 00:42:36,920] Okay
+- [00:42:36,920 - 00:42:38,920] It is not in a super position
+- [00:42:38,920 - 00:42:41,920] Live plus dead
+- [00:42:41,920 - 00:42:45,920] It's in an entangled state with the gun
+- [00:42:45,920 - 00:42:47,920] Alright
+- [00:42:47,920 - 00:42:50,420] So you cannot do any kind
+- [00:42:50,420 - 00:42:52,920] of interference experiment between live and dead
+- [00:42:52,920 - 00:42:54,420] If you were to calculate
+- [00:42:54,420 - 00:42:55,920] the probability of live and dead
+- [00:42:55,920 - 00:42:58,920] You would have no cross terms
+- [00:42:58,920 - 00:42:59,920] Uh
+- [00:42:59,920 - 00:43:00,920] It's
+- [00:43:00,920 - 00:43:02,920] The gun itself
+- [00:43:02,920 - 00:43:04,920] The firing of the gun
+- [00:43:04,920 - 00:43:05,920] Has left a mark
+- [00:43:05,920 - 00:43:07,920] Firing or not firing
+- [00:43:07,920 - 00:43:08,920] You don't
+- [00:43:08,920 - 00:43:10,420] The point is you don't have to look at
+- [00:43:10,420 - 00:43:11,920] the cat to find out if it's alive or dead
+- [00:43:11,920 - 00:43:12,920] You can look at the gun
+- [00:43:12,920 - 00:43:15,920] So that tells you it was entangled
+- [00:43:15,920 - 00:43:16,920] And it is very much
+- [00:43:16,920 - 00:43:20,920] It's basically exactly the same mathematics as this
+- [00:43:20,920 - 00:43:21,920] So no
+- [00:43:21,920 - 00:43:24,420] The cat in Schrodinger's experiment is not
+- [00:43:24,420 - 00:43:26,920] in a super position of alive and dead
+- [00:43:26,920 - 00:43:30,920] The composite system is in a super position of live
+- [00:43:30,920 - 00:43:33,920] Unfired and dead fired
+- [00:43:36,920 - 00:43:38,920] One more
+- [00:43:38,920 - 00:43:40,920] The
+- [00:43:40,920 - 00:43:43,420] I think you're being very careful when
+- [00:43:43,420 - 00:43:45,920] you talk about the structure of the
+- [00:43:45,920 - 00:43:47,920] Interference pattern
+- [00:43:47,920 - 00:43:50,920] As being something different from
+- [00:43:50,920 - 00:43:52,920] A measurement
+- [00:43:52,920 - 00:43:54,920] Which is what goes on at the final
+- [00:43:54,920 - 00:43:56,420] No no I'm saying when a measurement
+- [00:43:56,420 - 00:43:57,920] takes place it destroys the interference pattern
+- [00:43:57,920 - 00:43:58,920] Okay
+- [00:43:58,920 - 00:43:59,920] Well
+- [00:43:59,920 - 00:44:00,920] Exactly
+- [00:44:00,920 - 00:44:01,920] But
+- [00:44:01,920 - 00:44:02,920] Alright
+- [00:44:02,920 - 00:44:03,920] My question is really
+- [00:44:03,920 - 00:44:07,420] What goes on at the final screen that
+- [00:44:07,420 - 00:44:10,920] lets us talk about probabilities rather than states
+- [00:44:10,920 - 00:44:11,920] Say it again
+- [00:44:11,920 - 00:44:12,920] What happens at
+- [00:44:12,920 - 00:44:13,920] What
+- [00:44:13,920 - 00:44:16,420] Why at the final screen can
+- [00:44:16,420 - 00:44:18,920] we reduce this all to probabilities
+- [00:44:18,920 - 00:44:20,920] Rather than having to go to the
+- [00:44:20,920 - 00:44:21,920] The
+- [00:44:21,920 - 00:44:24,920] Entangled states world
+- [00:44:24,920 - 00:44:25,920] Well
+- [00:44:25,920 - 00:44:26,920] I'll look for you
+- [00:44:26,920 - 00:44:31,920] There is a probability postulate in quantum mechanics
+- [00:44:31,920 - 00:44:33,920] And you construct the projection
+- [00:44:33,920 - 00:44:35,920] operator and take its expectation value
+- [00:44:35,920 - 00:44:36,920] And that's the probability
+- [00:44:36,920 - 00:44:38,920] I don't know what to say beyond that
+- [00:44:38,920 - 00:44:41,420] What happens is you get
+- [00:44:41,420 - 00:44:43,920] the interference pattern or you don't
+- [00:44:43,920 - 00:44:44,920] Yeah
+- [00:44:44,920 - 00:44:45,920] And that's
+- [00:44:45,920 - 00:44:46,920] Well
+- [00:44:46,920 - 00:44:48,920] Okay I set up some experiment here
+- [00:44:48,920 - 00:44:49,920] And now
+- [00:44:49,920 - 00:44:51,920] And now why am I
+- [00:44:51,920 - 00:44:52,920] Can I talk about the probability
+- [00:44:52,920 - 00:44:53,920] of the electron being at the screen
+- [00:44:53,920 - 00:44:54,920] I can watch
+- [00:44:54,920 - 00:44:59,920] And not at the middle
+- [00:44:59,920 - 00:45:00,920] Say it again
+- [00:45:00,920 - 00:45:04,420] Why don't I talk about the probability
+- [00:45:04,420 - 00:45:07,920] of the electron being at the screen
+- [00:45:07,920 - 00:45:09,920] And some position
+- [00:45:09,920 - 00:45:12,920] And not talking about it going through A or B
+- [00:45:12,920 - 00:45:13,920] You can talk about it
+- [00:45:13,920 - 00:45:15,920] Well you don't want to talk about it
+- [00:45:15,920 - 00:45:17,920] at A or B unless you measure it
+- [00:45:17,920 - 00:45:18,920] If you measure it
+- [00:45:18,920 - 00:45:21,920] You can then go and ask this spin
+- [00:45:21,920 - 00:45:22,920] Did it go through here
+- [00:45:22,920 - 00:45:23,920] or didn't it go through here
+- [00:45:23,920 - 00:45:25,920] And you will have a probability for it
+- [00:45:25,920 - 00:45:27,920] having gone through here or having gone through here
+- [00:45:27,920 - 00:45:29,920] Now what about at this end
+- [00:45:29,920 - 00:45:31,920] At this end at some point
+- [00:45:31,920 - 00:45:33,920] you have to do a measurement
+- [00:45:33,920 - 00:45:35,920] As to where the electron was
+- [00:45:35,920 - 00:45:36,920] In other words
+- [00:45:36,920 - 00:45:37,920] You
+- [00:45:37,920 - 00:45:40,920] The electron has to do something at this end
+- [00:45:40,920 - 00:45:42,920] To record the fact that it
+- [00:45:42,920 - 00:45:44,920] has arrived at one of these positions
+- [00:45:44,920 - 00:45:45,920] We haven't talked about that
+- [00:45:45,920 - 00:45:46,920] I just said
+- [00:45:46,920 - 00:45:48,920] It either arrives at one of these positions
+- [00:45:48,920 - 00:45:49,920] Or it doesn't
+- [00:45:49,920 - 00:45:52,920] But if it arrives at one of these positions
+- [00:45:52,920 - 00:45:54,920] Another kind of measurement can happen
+- [00:45:54,920 - 00:45:56,420] The other kind of measurement
+- [00:45:56,420 - 00:45:57,920] would be the blackening of a
+- [00:45:57,920 - 00:45:59,920] Or it could be
+- [00:45:59,920 - 00:46:00,920] We could for example
+- [00:46:00,920 - 00:46:06,920] Put a spin at every one of these sites
+- [00:46:06,920 - 00:46:08,420] If the electron arrives at that
+- [00:46:08,420 - 00:46:09,920] point it flips this spin up
+- [00:46:09,920 - 00:46:10,920] If it arrives at this
+- [00:46:10,920 - 00:46:11,920] point it flips this spin up
+- [00:46:11,920 - 00:46:13,920] In other words at the end of the day
+- [00:46:13,920 - 00:46:16,920] I am imagining that we do some experiment over here
+- [00:46:16,920 - 00:46:17,920] To find out where the electron arrives
+- [00:46:17,920 - 00:46:20,920] I have sort of suppressed that part of the experiment
+- [00:46:20,920 - 00:46:23,920] You assume that this thing is
+- [00:46:23,920 - 00:46:26,920] just putting more barriers in between
+- [00:46:26,920 - 00:46:28,920] But if you have a scintillation screen
+- [00:46:28,920 - 00:46:30,920] That will give off a photon
+- [00:46:30,920 - 00:46:32,920] And then the electron can hinge on
+- [00:46:32,920 - 00:46:35,920] You would then have it ricochet in some unknown direction
+- [00:46:35,920 - 00:46:38,920] And you would again have a situation where
+- [00:46:38,920 - 00:46:40,920] Sure
+- [00:46:40,920 - 00:46:42,920] But I mean to complete the experiment
+- [00:46:42,920 - 00:46:44,920] You actually have to measure where the electron is
+- [00:46:44,920 - 00:46:46,920] Measuring where the electron is
+- [00:46:46,920 - 00:46:48,420] Means that some sort of
+- [00:46:48,420 - 00:46:49,920] mark is left on the system
+- [00:46:49,920 - 00:46:51,920] By where the electron arrives over here
+- [00:46:51,920 - 00:46:54,920] It could be because there are spins aligned along here
+- [00:46:54,920 - 00:46:56,920] Or it could just be because
+- [00:46:56,920 - 00:46:58,920] when electrons arrive on photographic plates
+- [00:46:58,920 - 00:47:02,920] They blacken the spot on the plate
+- [00:47:02,920 - 00:47:05,920] And we look at the black spot
+- [00:47:05,920 - 00:47:07,920] We don't actually look at the electron
+- [00:47:07,920 - 00:47:08,920] We look at the black spot
+- [00:47:08,920 - 00:47:11,420] But the black spot becomes entangled with
+- [00:47:11,420 - 00:47:13,920] the position of the electron along here
+- [00:47:13,920 - 00:47:15,420] I think the answer is
+- [00:47:15,420 - 00:47:16,920] that you are using the position
+- [00:47:16,920 - 00:47:18,920] Of the projection operator
+- [00:47:18,920 - 00:47:19,920] Yes
+- [00:47:19,920 - 00:47:22,920] That is the measurement
+- [00:47:22,920 - 00:47:24,920] Yes
+- [00:47:24,920 - 00:47:28,920] But the process of separating a system into
+- [00:47:28,920 - 00:47:31,920] That which is measured and that which measures
+- [00:47:31,920 - 00:47:33,920] Is always ambiguous
+- [00:47:33,920 - 00:47:36,920] You can always say
+- [00:47:36,920 - 00:47:39,420] Alright look the experiment really doesn't
+- [00:47:39,420 - 00:47:41,920] happen until I look at the spin
+- [00:47:41,920 - 00:47:44,920] In that case you would add another element
+- [00:47:44,920 - 00:47:46,920] Or you could either just say
+- [00:47:46,920 - 00:47:51,920] This combined wave function here collapses
+- [00:47:51,920 - 00:47:54,920] Or you could add another ingredient in
+- [00:47:54,920 - 00:47:55,920] Me
+- [00:47:55,920 - 00:47:57,920] And me also has two states
+- [00:47:57,920 - 00:47:59,920] Me having seen spin up and
+- [00:47:59,920 - 00:48:01,920] having recorded it in my brain
+- [00:48:01,920 - 00:48:04,420] And me having seen spin down
+- [00:48:04,420 - 00:48:06,920] and recording that in my brain
+- [00:48:06,920 - 00:48:08,920] So we could say
+- [00:48:08,920 - 00:48:10,920] Once I look at this
+- [00:48:10,920 - 00:48:13,920] It evolves into something even more complicated
+- [00:48:13,920 - 00:48:15,920] A up
+- [00:48:15,920 - 00:48:19,920] And me having seen up
+- [00:48:19,920 - 00:48:23,920] Plus B down and me having seen down
+- [00:48:23,920 - 00:48:26,920] But then you could be watching me
+- [00:48:26,920 - 00:48:28,920] Okay
+- [00:48:28,920 - 00:48:31,920] The point is there's a degree of consistency
+- [00:48:31,920 - 00:48:33,920] There's a degree of consistency
+- [00:48:33,920 - 00:48:37,420] That the probability to find either
+- [00:48:37,420 - 00:48:40,920] A or B with up and down
+- [00:48:40,920 - 00:48:43,920] Is the same as the probability of A up
+- [00:48:43,920 - 00:48:44,920] Me seeing up
+- [00:48:44,920 - 00:48:45,920] B down
+- [00:48:45,920 - 00:48:46,920] Me seeing down
+- [00:48:46,920 - 00:48:49,920] So at some point there's no point in going further
+- [00:48:49,920 - 00:48:52,920] And entangling anybody else in the experiment
+- [00:48:52,920 - 00:48:55,920] But if you did you would still have consistency
+- [00:48:55,920 - 00:48:58,920] In the case of the Schrodinger's cat face
+- [00:48:58,920 - 00:49:01,920] There's more than the gun that's entangled with the cat
+- [00:49:01,920 - 00:49:03,920] There's smoke in the box
+- [00:49:03,920 - 00:49:04,920] Smoke in the box
+- [00:49:04,920 - 00:49:07,920] But then Schrodinger is on the outside of the box
+- [00:49:07,920 - 00:49:08,920] And he's not entangled
+- [00:49:08,920 - 00:49:09,920] But then he looks in
+- [00:49:09,920 - 00:49:11,920] And he sees one or the other
+- [00:49:11,920 - 00:49:13,920] And so Schrodinger himself becomes the cat face
+- [00:49:13,920 - 00:49:17,920] Schrodinger himself becomes entangled with the box
+- [00:49:17,920 - 00:49:18,920] The gun
+- [00:49:18,920 - 00:49:21,920] And the cat
+- [00:49:21,920 - 00:49:22,920] And the process
+- [00:49:22,920 - 00:49:24,920] And then Wigner who's waiting outside
+- [00:49:24,920 - 00:49:26,920] He's going to ask Schrodinger what did you see
+- [00:49:26,920 - 00:49:27,920] He becomes entangled
+- [00:49:27,920 - 00:49:30,920] No, no, the whole world is a highly entangled thing
+- [00:49:30,920 - 00:49:33,920] Because they're all correlated with each other
+- [00:49:33,920 - 00:49:35,920] But they're correlated in a consistent way
+- [00:49:35,920 - 00:49:37,920] Yeah
+- [00:49:37,920 - 00:49:38,920] Yeah, there's no interference
+- [00:49:38,920 - 00:49:40,920] There's no interference if
+- [00:49:40,920 - 00:49:42,920] Unless
+- [00:49:42,920 - 00:49:45,920] Unless there's been nothing to record which thing happened
+- [00:49:45,920 - 00:49:47,920] Yeah, one more, one more
+- [00:49:47,920 - 00:49:48,920] We're going to move on
+- [00:49:48,920 - 00:49:50,920] Doesn't the uncertainty principle figure into this nod
+- [00:49:50,920 - 00:49:54,920] The process of measuring affecting the event being measured
+- [00:49:54,920 - 00:49:55,920] Absolutely
+- [00:49:55,920 - 00:49:56,920] Absolutely
+- [00:50:00,920 - 00:50:05,920] Well, one particular instance of it is the
+- [00:50:05,920 - 00:50:06,920] As was pointed out
+- [00:50:06,920 - 00:50:10,920] You might worry that the recoil of this screen here
+- [00:50:10,920 - 00:50:11,920] Might ruin your measurement
+- [00:50:11,920 - 00:50:13,920] By leaving a mark as to whether you
+- [00:50:13,920 - 00:50:15,920] went through the upper hole or the lower hole
+- [00:50:15,920 - 00:50:17,920] It's the uncertainty principle
+- [00:50:17,920 - 00:50:22,920] And the uncertainty of the momentum of the screen here
+- [00:50:22,920 - 00:50:27,420] Which doesn't allow you to determine
+- [00:50:27,420 - 00:50:31,920] unambiguously which hole the electron went through
+- [00:50:31,920 - 00:50:35,920] So certainly uncertainty principle plays a role here, yeah
+- [00:50:35,920 - 00:50:37,920] The most important thing
+- [00:50:37,920 - 00:50:39,920] Well, not the most important thing necessarily
+- [00:50:39,920 - 00:50:41,920] But what you should keep in your mind
+- [00:50:41,920 - 00:50:45,920] Is that the difference between a classical experiment
+- [00:50:45,920 - 00:50:51,920] And a quantum mechanical experiment
+- [00:50:51,920 - 00:50:54,920] A classical experiment, you always imagine
+- [00:50:54,920 - 00:50:56,920] A classical experiment can be
+- [00:50:56,920 - 00:50:58,920] done in a gentle enough way
+- [00:50:58,920 - 00:51:00,420] That you can find out
+- [00:51:00,420 - 00:51:01,920] what you want to find out
+- [00:51:01,920 - 00:51:03,920] Without disturbing the system
+- [00:51:03,920 - 00:51:04,920] Okay
+- [00:51:04,920 - 00:51:07,920] Without disturbing the state of the system
+- [00:51:07,920 - 00:51:09,920] Here you can see
+- [00:51:09,920 - 00:51:12,920] That we have definitely disturbed the state of the system
+- [00:51:12,920 - 00:51:15,920] The measurement is not done
+- [00:51:15,920 - 00:51:19,920] Until the entanglement has been established
+- [00:51:19,920 - 00:51:21,920] And establishing an entanglement
+- [00:51:21,920 - 00:51:25,920] Is a significant change in the state of a system
+- [00:51:25,920 - 00:51:27,920] And a measurement is not
+- [00:51:27,920 - 00:51:29,920] done until that entanglement is established
+- [00:51:29,920 - 00:51:31,920] Once that entanglement is established
+- [00:51:31,920 - 00:51:33,920] It changes the answers
+- [00:51:33,920 - 00:51:36,420] It changes the answers whether, for example,
+- [00:51:36,420 - 00:51:38,920] there is or there isn't an interference pattern
+- [00:51:38,920 - 00:51:42,920] So classical physics, you always imagine
+- [00:51:42,920 - 00:51:46,920] That you could make your experiment gently enough
+- [00:51:46,920 - 00:51:48,420] That it doesn't influence in any
+- [00:51:48,420 - 00:51:49,920] way the system that you're studying
+- [00:51:49,920 - 00:51:53,420] Or perhaps in an arbitrarily small
+- [00:51:53,420 - 00:51:56,920] amount of change in the system
+- [00:51:56,920 - 00:51:59,920] Whereas quantum mechanically you are forced to
+- [00:51:59,920 - 00:52:02,920] In order to do an experiment to establish an entanglement
+- [00:52:02,920 - 00:52:03,920] And that's a big change
+- [00:52:03,920 - 00:52:05,920] That's a significant change in the system
+- [00:52:05,920 - 00:52:06,920] Yeah
+- [00:52:06,920 - 00:52:09,920] What about the distance between A and B
+- [00:52:09,920 - 00:52:11,920] Let's say it gets arbitrarily large
+- [00:52:11,920 - 00:52:14,920] What effect does that have on the interference pattern?
+- [00:52:14,920 - 00:52:18,920] Well, that depends on your assumptions
+- [00:52:30,920 - 00:52:32,920] Nothing particular, I don't think
+- [00:52:32,920 - 00:52:34,920] I don't think it does anything particular
+- [00:52:36,920 - 00:52:38,920] Of course, what it will do
+- [00:52:38,920 - 00:52:41,420] Is it will make the probability of
+- [00:52:41,420 - 00:52:43,920] going through either of the holes very small
+- [00:52:43,920 - 00:52:45,920] So both the size and the
+- [00:52:45,920 - 00:52:47,920] phi's will be very, very small
+- [00:52:47,920 - 00:52:49,920] If you take the holes to be very far away
+- [00:52:49,920 - 00:52:52,420] The overwhelming probability will be that it
+- [00:52:52,420 - 00:52:54,920] hits the wall and gets bounced back
+- [00:52:54,920 - 00:52:56,920] Chances of it getting out to very
+- [00:52:56,920 - 00:52:58,920] far distances may be very much smaller
+- [00:52:58,920 - 00:53:02,920] So it might, but apart from that
+- [00:53:02,920 - 00:53:04,920] I don't think it has any special effect, yeah
+- [00:53:04,920 - 00:53:05,920] It seems to me that it's not a big deal
+- [00:53:06,920 - 00:53:10,920] But it's really lucky that all this superposition is linear
+- [00:53:10,920 - 00:53:13,920] Well, I don't know if it's lucky, but
+- [00:53:13,920 - 00:53:18,920] Is that really fundamentally true?
+- [00:53:18,920 - 00:53:20,920] Yes, it's fundamentally true
+- [00:53:20,920 - 00:53:24,920] No, no, no, no, no, no, no
+- [00:53:24,920 - 00:53:26,920] Well, that's another question
+- [00:53:26,920 - 00:53:30,920] But we've talked about this over and over again
+- [00:53:30,920 - 00:53:32,920] And I keep telling you I don't know the answer
+- [00:53:32,920 - 00:53:35,920] Except I know from experience how hard it is
+- [00:53:35,920 - 00:53:38,920] To modify things a little bit
+- [00:53:38,920 - 00:53:40,920] So I'm not going to answer that question
+- [00:53:40,920 - 00:53:42,920] Because I honestly don't know the answer
+- [00:53:42,920 - 00:53:44,920] It's an empirical fact
+- [00:53:44,920 - 00:53:46,920] And it's the basis of quantum mechanics
+- [00:53:46,920 - 00:53:50,920] But it's not easy to make a logically coherent story
+- [00:53:50,920 - 00:53:53,920] Of a slight bit of nonlinearity
+- [00:53:53,920 - 00:53:55,920] It becomes a mess
+- [00:53:55,920 - 00:54:00,920] Now, there, well
+- [00:54:00,920 - 00:54:02,420] Really it's the replacement of
+- [00:54:02,420 - 00:54:03,920] one kind of logic by another
+- [00:54:03,920 - 00:54:04,420] It's the replacement of logical
+- [00:54:04,420 - 00:54:04,920] logic by another kind of logic
+- [00:54:05,920 - 00:54:07,920] By the logic of classical sets
+- [00:54:07,920 - 00:54:09,920] By the logic of subspaces
+- [00:54:09,920 - 00:54:14,920] Why the Lord in his infinite wisdom
+- [00:54:14,920 - 00:54:19,920] Decided on subspaces instead of something else
+- [00:54:19,920 - 00:54:22,920] Maybe the Reverend Haggard knows, but I don't
+- [00:54:26,920 - 00:54:28,920] Excuse me
+- [00:54:32,920 - 00:54:33,920] Why?
+- [00:54:35,920 - 00:54:49,920] Because the problem is that the
+- [00:54:49,920 - 00:54:50,920] The target being this
+- [00:54:50,920 - 00:54:51,920] Right
+- [00:54:51,920 - 00:54:52,920] Yeah
+- [00:54:52,920 - 00:54:53,920] Such that we would perhaps be able to determine
+- [00:54:53,920 - 00:54:54,920] Which let it pass through after the event
+- [00:54:54,920 - 00:54:55,920] Whether there was interference or not
+- [00:54:55,920 - 00:54:56,920] Does that change the results of the
+- [00:54:56,920 - 00:54:57,920] Well, I think what we could do is
+- [00:54:57,920 - 00:54:58,920] We could put another set of detectors over here
+- [00:54:58,920 - 00:54:59,920] And ask about interference over here
+- [00:54:59,920 - 00:55:00,920] Is that what you're
+- [00:55:00,920 - 00:55:01,920] Is that the sort of thing you're
+- [00:55:01,920 - 00:55:02,920] So I was at first considering
+- [00:55:02,920 - 00:55:03,920] That the detector was not a set of detectors
+- [00:55:03,920 - 00:55:04,920] But it was a set of detectors over here
+- [00:55:04,920 - 00:55:05,920] So I was at first considering
+- [00:55:05,920 - 00:55:06,920] Would there be some way to
+- [00:55:06,920 - 00:55:08,920] A detector in A
+- [00:55:08,920 - 00:55:11,920] Based on some effect that would happen later in time
+- [00:55:11,920 - 00:55:12,920] Such that
+- [00:55:12,920 - 00:55:13,920] You know, but there's really no way to do that
+- [00:55:13,920 - 00:55:15,920] And that occurred to me that
+- [00:55:15,920 - 00:55:18,920] Is there a way perhaps after
+- [00:55:18,920 - 00:55:20,920] The target where we'll be checking
+- [00:55:20,920 - 00:55:22,920] Which way the electron went through?
+- [00:55:22,920 - 00:55:24,920] Yeah, such that we would determine
+- [00:55:24,920 - 00:55:25,920] Well, all I can say is
+- [00:55:25,920 - 00:55:27,920] If there is something left in the system
+- [00:55:27,920 - 00:55:29,920] That allows you to determine
+- [00:55:29,920 - 00:55:30,920] But typically, no
+- [00:55:30,920 - 00:55:33,920] I mean, if it got passed here
+- [00:55:33,920 - 00:55:36,920] Without leaving any mark on the system
+- [00:55:36,920 - 00:55:38,920] When it gets here
+- [00:55:38,920 - 00:55:41,920] Offhand
+- [00:55:41,920 - 00:55:44,920] Not really, no
+- [00:55:44,920 - 00:55:47,920] But if there is a way to detect
+- [00:55:47,920 - 00:55:48,920] Which way it went through
+- [00:55:48,920 - 00:55:50,920] That will destroy the interference pattern
+- [00:55:50,920 - 00:55:52,920] Even if the detection of them would happen
+- [00:55:52,920 - 00:55:55,920] After the interference
+- [00:55:55,920 - 00:55:57,920] Yeah, yeah, yeah
+- [00:55:57,920 - 00:55:58,920] As I said, you don't
+- [00:55:58,920 - 00:55:59,920] even have to do the detection
+- [00:55:59,920 - 00:56:01,920] As long as the detection is implicitly
+- [00:56:01,920 - 00:56:03,920] I mean, you don't have to do the detection
+- [00:56:03,920 - 00:56:06,920] The order of time is not significant
+- [00:56:06,920 - 00:56:07,920] Right?
+- [00:56:11,920 - 00:56:13,920] Well, you mustn't violate causality
+- [00:56:13,920 - 00:56:15,920] Cause must precede effect
+- [00:56:15,920 - 00:56:17,920] So other than that
+- [00:56:17,920 - 00:56:19,920] Yeah, but our measurement was
+- [00:56:19,920 - 00:56:21,920] Obviously a little bit chosen
+- [00:56:21,920 - 00:56:23,920] For the impact of the target
+- [00:56:23,920 - 00:56:25,920] But if we were able to
+- [00:56:25,920 - 00:56:29,920] Based on monitoring it after it hit that point
+- [00:56:29,920 - 00:56:31,920] Determine which way it went through
+- [00:56:31,920 - 00:56:33,920] Uh, I guess
+- [00:56:33,920 - 00:56:35,920] We would have to set up
+- [00:56:35,920 - 00:56:38,920] A very specific experimental situation
+- [00:56:38,920 - 00:56:40,920] And analyze it
+- [00:56:40,920 - 00:56:42,920] Because I can't analyze in the abstract
+- [00:56:42,920 - 00:56:45,920] Without having a very, very definite concrete
+- [00:56:45,920 - 00:56:47,920] Example in front of me
+- [00:56:47,920 - 00:56:50,920] If you had a bubble chamber on the other side
+- [00:56:50,920 - 00:56:52,920] Well, the bubble chamber on the other side
+- [00:56:52,920 - 00:56:54,420] Wouldn't tell you which hole
+- [00:56:54,420 - 00:56:55,920] it went through on this side
+- [00:56:55,920 - 00:56:56,920] It would
+- [00:56:56,920 - 00:56:58,920] It would not
+- [00:56:58,920 - 00:56:59,920] Not in general, no
+- [00:56:59,920 - 00:57:01,920] I mean
+- [00:57:01,920 - 00:57:03,920] And you wouldn't just see it
+- [00:57:03,920 - 00:57:05,920] Coming out of that hole
+- [00:57:05,920 - 00:57:07,920] Let's say immediately after A and B
+- [00:57:07,920 - 00:57:09,920] You have something like that
+- [00:57:09,920 - 00:57:11,920] Say it again
+- [00:57:11,920 - 00:57:14,920] Let's say immediately following your barrier at A and B
+- [00:57:14,920 - 00:57:17,920] You have some magical, you know, ball chamber
+- [00:57:17,920 - 00:57:19,920] Well, yeah, I think you could project
+- [00:57:19,920 - 00:57:21,920] Oh, you mean if the trajectory remembers
+- [00:57:21,920 - 00:57:24,920] Which way the electron went through
+- [00:57:24,920 - 00:57:25,920] Yeah, but
+- [00:57:25,920 - 00:57:27,920] If you have a bubble chamber over here
+- [00:57:27,920 - 00:57:29,920] Well, let's say
+- [00:57:29,920 - 00:57:31,920] Just immediately following the
+- [00:57:31,920 - 00:57:32,920] Over here?
+- [00:57:32,920 - 00:57:34,920] Yeah, sure
+- [00:57:34,920 - 00:57:35,920] Where?
+- [00:57:35,920 - 00:57:36,920] A big bubble chamber?
+- [00:57:36,920 - 00:57:37,920] A little bubble chamber?
+- [00:57:37,920 - 00:57:39,920] I would say it covers the whole thing
+- [00:57:39,920 - 00:57:41,920] Okay, so big bubble chamber
+- [00:57:41,920 - 00:57:42,920] Yeah
+- [00:57:42,920 - 00:57:43,920] Yeah
+- [00:57:43,920 - 00:57:45,920] Okay, then what?
+- [00:57:45,920 - 00:57:46,920] Well, does it
+- [00:57:46,920 - 00:57:48,920] That way it would destroy the energy?
+- [00:57:48,920 - 00:57:50,920] Oh, absolutely
+- [00:57:50,920 - 00:57:51,920] Absolutely
+- [00:57:51,920 - 00:57:53,920] Absolutely
+- [00:57:53,920 - 00:57:54,920] Certainly
+- [00:57:54,920 - 00:57:56,920] For sure
+- [00:57:56,920 - 00:57:57,920] Yeah, definitely
+- [00:57:57,920 - 00:57:59,920] There's automatically no
+- [00:57:59,920 - 00:58:00,920] Yeah
+- [00:58:00,920 - 00:58:01,920] Interference
+- [00:58:01,920 - 00:58:03,920] But what if the
+- [00:58:03,920 - 00:58:04,920] Well
+- [00:58:04,920 - 00:58:05,920] Then it's constantly giving you
+- [00:58:05,920 - 00:58:07,920] Just to be precise about it
+- [00:58:07,920 - 00:58:11,920] We could put a thin wall of bubble chamber here
+- [00:58:11,920 - 00:58:13,920] And then afterwards
+- [00:58:13,920 - 00:58:15,920] The electron arrives over here
+- [00:58:15,920 - 00:58:16,920] And we look over here and we see
+- [00:58:16,920 - 00:58:17,920] Do we see a track over here
+- [00:58:17,920 - 00:58:19,920] Or do we see a track over here?
+- [00:58:19,920 - 00:58:21,920] The answer is that anything that
+- [00:58:21,920 - 00:58:22,920] Anything that leaves a track
+- [00:58:22,920 - 00:58:24,920] Will certainly destroy the interference pattern
+- [00:58:24,920 - 00:58:25,920] For sure
+- [00:58:25,920 - 00:58:27,420] But you got it on
+- [00:58:27,420 - 00:58:28,920] the opposite side of the target
+- [00:58:28,920 - 00:58:29,920] From what I was saying
+- [00:58:29,920 - 00:58:30,920] So I guess
+- [00:58:30,920 - 00:58:32,920] Maybe the real answer is just
+- [00:58:32,920 - 00:58:34,920] The interference of the target
+- [00:58:34,920 - 00:58:35,920] But
+- [00:58:35,920 - 00:58:37,920] So we keep it in the main
+- [00:58:37,920 - 00:58:38,920] Well, as I said
+- [00:58:38,920 - 00:58:40,920] Each example has to be analyzed separately
+- [00:58:40,920 - 00:58:41,920] But the rule
+- [00:58:41,920 - 00:58:43,920] The rule is very general
+- [00:58:43,920 - 00:58:46,920] If there is a mark left on the system
+- [00:58:46,920 - 00:58:49,920] From which you can deduce
+- [00:58:49,920 - 00:58:52,920] The degree of ambiguity will determine
+- [00:58:52,920 - 00:58:54,920] Will determine the magnitude of the effect
+- [00:58:54,920 - 00:58:55,920] But let's say
+- [00:58:55,920 - 00:58:57,920] Which you can deduce unambiguously
+- [00:58:57,920 - 00:58:59,920] Which of the holes the electron went through
+- [00:58:59,920 - 00:59:01,920] Then there will be no interference pattern
+- [00:59:01,920 - 00:59:04,920] And that's the most general way of saying it
+- [00:59:04,920 - 00:59:07,920] Now you can think of all sorts of examples
+- [00:59:07,920 - 00:59:11,920] And but always trace it back to that
+- [00:59:11,920 - 00:59:13,920] Ask whether there is or there isn't
+- [00:59:13,920 - 00:59:15,920] Anything left on the system which remembers
+- [00:59:15,920 - 00:59:17,920] And always bring it back to this here
+- [00:59:17,920 - 00:59:19,920] When you get out of the situation
+- [00:59:19,920 - 00:59:20,920] Where you have
+- [00:59:20,920 - 00:59:21,920] I'm trying to figure out
+- [00:59:21,920 - 00:59:22,920] How to get out of this situation
+- [00:59:22,920 - 00:59:28,920] What?
+- [00:59:29,920 - 00:59:32,920] Why?
+- [00:59:32,920 - 00:59:35,920] Things are already intangible to each other
+- [00:59:35,920 - 00:59:36,920] Yeah
+- [00:59:36,920 - 00:59:37,920] Okay
+- [00:59:37,920 - 00:59:38,920] So at some point
+- [00:59:38,920 - 00:59:40,920] You are able to perform the experiment
+- [00:59:40,920 - 00:59:42,920] Where you do get interference
+- [00:59:42,920 - 00:59:45,920] What is it that causes you to have that
+- [00:59:45,920 - 00:59:48,920] That degree of uncertainty
+- [00:59:48,920 - 00:59:50,920] Or whatever it is
+- [00:59:50,920 - 00:59:51,920] Is it just
+- [00:59:51,920 - 00:59:53,920] Uncertainty in the
+- [00:59:53,920 - 00:59:54,920] For example
+- [00:59:54,920 - 00:59:57,920] In the momentum of this screen here
+- [00:59:57,920 - 00:59:58,920] Is that
+- [00:59:58,920 - 00:59:59,920] That's what you're talking about
+- [00:59:59,920 - 01:00:00,920] Previous history
+- [01:00:00,920 - 01:00:01,920] Previous history
+- [01:00:01,920 - 01:00:04,920] Suppose I want to get an interference pattern
+- [01:00:04,920 - 01:00:06,920] After running it through the bubble chamber
+- [01:00:06,920 - 01:00:07,920] Oh
+- [01:00:07,920 - 01:00:08,920] Now at some point
+- [01:00:08,920 - 01:00:09,920] I have a definite track
+- [01:00:09,920 - 01:00:11,920] Now what does the apparatus have to produce
+- [01:00:11,920 - 01:00:14,920] In order to get an interference pattern to draw
+- [01:00:14,920 - 01:00:15,920] Well
+- [01:00:15,920 - 01:00:16,920] That is
+- [01:00:16,920 - 01:00:18,920] Where did that come from in the first place
+- [01:00:18,920 - 01:00:19,920] Wait a minute
+- [01:00:19,920 - 01:00:21,920] If everything is intangible already
+- [01:00:21,920 - 01:00:22,920] That's not
+- [01:00:22,920 - 01:00:24,920] No it better not be intangible already
+- [01:00:24,920 - 01:00:25,920] You have to start with
+- [01:00:25,920 - 01:00:26,920] You have to start with some systems
+- [01:00:26,920 - 01:00:28,920] Which are disentangled
+- [01:00:28,920 - 01:00:30,920] Let's move on
+- [01:00:30,920 - 01:00:31,920] Let's move on
+- [01:00:31,920 - 01:00:32,920] And we can
+- [01:00:32,920 - 01:00:33,920] And because
+- [01:00:33,920 - 01:00:34,920] This
+- [01:00:34,920 - 01:00:36,920] I understand
+- [01:00:36,920 - 01:00:38,920] Why
+- [01:00:38,920 - 01:00:40,920] It's difficult to move on
+- [01:00:40,920 - 01:00:42,920] There's a zillion infinite number of questions
+- [01:00:42,920 - 01:00:44,920] But I think it's a good idea
+- [01:00:44,920 - 01:00:46,920] Having learned the rule
+- [01:00:46,920 - 01:00:48,920] Go back
+- [01:00:48,920 - 01:00:50,920] And do the exercises yourself
+- [01:00:50,920 - 01:00:53,920] See if you can figure out yourself
+- [01:00:53,920 - 01:00:55,920] The answer to some of these questions
+- [01:00:55,920 - 01:00:57,920] Because they're good questions
+- [01:00:57,920 - 01:00:58,920] It's not
+- [01:00:58,920 - 01:00:59,920] They're not good questions
+- [01:00:59,920 - 01:01:01,420] But I think we can go on
+- [01:01:01,420 - 01:01:02,920] and on and on forever and ever
+- [01:01:02,920 - 01:01:04,920] I still have a question
+- [01:01:04,920 - 01:01:05,920] Where does disentanglement come from
+- [01:01:05,920 - 01:01:06,920] Because obviously
+- [01:01:06,920 - 01:01:07,920] Everything is going to be entangled
+- [01:01:07,920 - 01:01:08,920] By making a measurement
+- [01:01:08,920 - 01:01:09,920] By making a measurement
+- [01:01:09,920 - 01:01:10,920] You actually do some disentanglement
+- [01:01:10,920 - 01:01:11,920] For example
+- [01:01:11,920 - 01:01:12,920] By making a measurement
+- [01:01:12,920 - 01:01:13,920] Of the electron over here
+- [01:01:13,920 - 01:01:14,920] You
+- [01:01:14,920 - 01:01:15,920] For all possible reasons
+- [01:01:15,920 - 01:01:16,920] You can do some disentanglement
+- [01:01:16,920 - 01:01:17,920] But you can't do it
+- [01:01:17,920 - 01:01:18,920] Because
+- [01:01:18,920 - 01:01:19,920] You can't do it
+- [01:01:19,920 - 01:01:20,920] Because
+- [01:01:20,920 - 01:01:21,920] You can't do it
+- [01:01:21,920 - 01:01:22,920] Because
+- [01:01:22,920 - 01:01:23,920] You can't do it
+- [01:01:23,920 - 01:01:24,920] Because
+- [01:01:24,920 - 01:01:25,920] You can't do it
+- [01:01:25,920 - 01:01:26,920] Because
+- [01:01:26,920 - 01:01:27,920] You
+- [01:01:27,920 - 01:01:28,920] For all practical purposes
+- [01:01:28,920 - 01:01:30,920] You start over again
+- [01:01:30,920 - 01:01:31,920] And you start over again
+- [01:01:31,920 - 01:01:34,920] With the electron definitely over here
+- [01:01:34,920 - 01:01:36,920] That electron is now
+- [01:01:36,920 - 01:01:38,920] From your perspective
+- [01:01:38,920 - 01:01:40,920] You throw away the other possibility
+- [01:01:40,920 - 01:01:42,920] Having seen the electron
+- [01:01:42,920 - 01:01:43,920] Having seen the spin up
+- [01:01:43,920 - 01:01:45,920] You simply forget this one here
+- [01:01:45,920 - 01:01:47,920] You forget it altogether
+- [01:01:47,920 - 01:01:48,920] And you say
+- [01:01:48,920 - 01:01:49,920] Aha
+- [01:01:49,920 - 01:01:50,920] The electron is over here
+- [01:01:50,920 - 01:01:51,920] Let's start over again
+- [01:01:51,920 - 01:01:54,920] And now you can say
+- [01:01:54,920 - 01:01:55,920] This electron
+- [01:01:55,920 - 01:01:56,920] This electron
+- [01:01:56,920 - 01:01:57,920] This electron is over here
+- [01:01:57,920 - 01:01:58,920] And what you start with
+- [01:01:58,920 - 01:01:59,920] Is the state A up
+- [01:01:59,920 - 01:02:00,920] A up is not an entangled state
+- [01:02:00,920 - 01:02:01,920] You just throw this one away
+- [01:02:01,920 - 01:02:02,920] You say
+- [01:02:02,920 - 01:02:03,920] I made a measurement
+- [01:02:03,920 - 01:02:04,920] I looked at it
+- [01:02:04,920 - 01:02:05,920] I saw that this one
+- [01:02:05,920 - 01:02:06,920] That the spin was up
+- [01:02:06,920 - 01:02:07,920] So I know that the initial starting point
+- [01:02:07,920 - 01:02:08,920] Was A up
+- [01:02:08,920 - 01:02:09,920] And I throw away the other
+- [01:02:09,920 - 01:02:10,920] Yeah
+- [01:02:10,920 - 01:02:11,920] That's right
+- [01:02:11,920 - 01:02:12,920] That's right
+- [01:02:12,920 - 01:02:13,920] So we could
+- [01:02:13,920 - 01:02:14,920] That's right
+- [01:02:14,920 - 01:02:15,920] So we could
+- [01:02:15,920 - 01:02:16,920] We could
+- [01:02:16,920 - 01:02:17,920] Make a
+- [01:02:17,920 - 01:02:18,920] Make a
+- [01:02:18,920 - 01:02:19,920] Make a
+- [01:02:19,920 - 01:02:20,920] Make a
+- [01:02:20,920 - 01:02:21,920] Make a
+- [01:02:21,920 - 01:02:22,920] Make a
+- [01:02:22,920 - 01:02:23,920] Make a
+- [01:02:23,920 - 01:02:24,920] Make a
+- [01:02:24,920 - 01:02:25,920] Make a
+- [01:02:25,920 - 01:02:26,920] Make greater
+- [01:02:26,920 - 01:02:27,920] What if A up?
+- [01:02:27,920 - 01:02:50,920] What if With this
+- [01:02:50,920 - 01:02:54,880] And
+- [01:02:54,880 - 01:02:57,350] nested hierarchy of different
+- [01:02:57,350 - 01:02:59,820] levels of discussing the problem
+- [01:02:59,820 - 01:03:02,020] As I said, the division
+- [01:03:02,020 - 01:03:04,340] The division
+- [01:03:04,340 - 01:03:06,720] Here's your system
+- [01:03:06,720 - 01:03:08,860] Here's your detector
+- [01:03:08,860 - 01:03:11,360] Here's somebody looking at it
+- [01:03:11,360 - 01:03:13,430] Here's somebody looking at looking at it, and
+- [01:03:13,430 - 01:03:15,500] so forth and so on and so on
+- [01:03:15,500 - 01:03:17,520] And where you draw the line
+- [01:03:17,520 - 01:03:19,540] between the system and the detection
+- [01:03:19,540 - 01:03:23,200] is ambiguous, but depending on where you draw the line
+- [01:03:23,200 - 01:03:25,830] At some point you will have
+- [01:03:25,830 - 01:03:28,460] to say the wave function collapses
+- [01:03:28,460 - 01:03:31,120] But in observing
+- [01:03:31,120 - 01:03:34,180] this entire system here
+- [01:03:34,180 - 01:03:36,309] you won't say that the electron
+- [01:03:36,309 - 01:03:38,439] wave function collapses, you will say the
+- [01:03:38,439 - 01:03:41,529] combination of wave function of
+- [01:03:41,529 - 01:03:44,620] electron, detector, and Schrodinger, or whoever
+- [01:03:44,620 - 01:03:46,419] is collapsed
+- [01:03:46,419 - 01:03:52,060] by Wigner making an experiment on
+- [01:03:52,060 - 01:03:53,200] This was a cat, I guess
+- [01:03:53,200 - 01:03:55,839] A cat, gun, and Schrodinger
+- [01:03:55,839 - 01:03:57,819] You get the idea
+- [01:03:57,819 - 01:04:02,939] And the only question is whether it's consistent
+- [01:04:02,939 - 01:04:04,779] Whether at the end of the day
+- [01:04:04,779 - 01:04:06,620] when Schrodinger comes to Wigner and says
+- [01:04:06,620 - 01:04:08,680] what did you see me think
+- [01:04:08,680 - 01:04:10,690] And Wigner says, I thought I saw
+- [01:04:10,690 - 01:04:12,700] you think that the cat was dead
+- [01:04:12,700 - 01:04:15,370] And Schrodinger says yes, that's what
+- [01:04:15,370 - 01:04:18,040] I saw, the cat was dead
+- [01:04:18,040 - 01:04:19,720] That's consistent
+- [01:04:19,720 - 01:04:21,400] Quantum mechanics is hooked up in such a
+- [01:04:21,400 - 01:04:23,080] way that you don't know who was killed
+- [01:04:23,080 - 01:04:27,480] don't run into inconsistencies in this manner.
+- [01:04:27,480 - 01:04:28,420] Let's move on.
+- [01:04:28,420 - 01:04:29,100] Let's move on.
+- [01:04:29,100 - 01:04:30,060] Let's move on.
+- [01:04:30,060 - 01:04:32,319] Let's move on.
+- [01:04:32,319 - 01:04:36,040] We've talked about entanglement.
+- [01:04:36,040 - 01:04:37,360] Well, we want to take a break.
+- [01:04:37,360 - 01:04:38,690] We have not gone as far
+- [01:04:38,690 - 01:04:40,020] as I had imagined we would,
+- [01:04:40,020 - 01:04:40,900] but that's fine.
+- [01:04:40,900 - 01:04:41,900] That's not a problem.
+- [01:04:41,900 - 01:04:54,100] Well, let's keep going a little.
+- [01:04:54,100 - 01:04:55,360] Entropy.
+- [01:04:55,360 - 01:04:57,700] I want to discuss entropy.
+- [01:04:57,700 - 01:05:00,660] Really what I want to discuss is how
+- [01:05:00,660 - 01:05:04,700] do you define a measure of the degree of entanglement
+- [01:05:04,700 - 01:05:06,740] between two systems?
+- [01:05:06,740 - 01:05:09,030] If I have two electrons
+- [01:05:09,030 - 01:05:11,320] and both their spins are up,
+- [01:05:11,320 - 01:05:11,820] they're not entangled.
+- [01:05:11,820 - 01:05:11,860] They're not entangled.
+- [01:05:11,860 - 01:05:11,880] They're not entangled.
+- [01:05:11,880 - 01:05:11,900] They're not entangled.
+- [01:05:11,900 - 01:05:13,100] They're not entangled.
+- [01:05:13,100 - 01:05:16,380] You learn nothing about one by looking at the other.
+- [01:05:16,380 - 01:05:18,560] There's no sense of looking at one
+- [01:05:18,560 - 01:05:20,760] and finding out some piece of information you didn't
+- [01:05:20,760 - 01:05:21,600] know about the other.
+- [01:05:25,280 - 01:05:27,960] So that's not an entangled state.
+- [01:05:27,960 - 01:05:31,540] Two spins both up.
+- [01:05:31,540 - 01:05:34,380] Generally, unentangled states are called product states.
+- [01:05:34,380 - 01:05:37,320] And in product states, each of the subsystems by itself
+- [01:05:37,320 - 01:05:41,860] has a very well-defined state that
+- [01:05:41,860 - 01:05:42,760] is entangled.
+- [01:05:42,760 - 01:05:45,800] And you might as well disregard the other one altogether.
+- [01:05:45,800 - 01:05:47,740] But they can get entangled.
+- [01:05:47,740 - 01:05:48,940] They can get entangled.
+- [01:05:48,940 - 01:05:52,090] And the amount of entanglement
+- [01:05:52,090 - 01:05:55,240] is a quantitative measure of it.
+- [01:05:55,240 - 01:05:57,740] There are many quantitative measures of entanglement.
+- [01:05:57,740 - 01:05:59,280] But the one we're going to
+- [01:05:59,280 - 01:06:00,820] talk about, and the usual one,
+- [01:06:00,820 - 01:06:05,500] is called entanglement entropy.
+- [01:06:05,500 - 01:06:09,760] So I want to explain what entanglement entropy is.
+- [01:06:09,760 - 01:06:10,640] It is the thing.
+- [01:06:10,640 - 01:06:11,820] If you want to find out whether it's
+- [01:06:11,820 - 01:06:16,200] entanglement or not, some description of a composite system
+- [01:06:16,200 - 01:06:18,000] involves entanglement.
+- [01:06:18,000 - 01:06:22,620] The test is to calculate the entanglement entropy.
+- [01:06:22,620 - 01:06:25,480] So first of all, let's talk about classical entropy.
+- [01:06:25,480 - 01:06:26,780] What is classical entropy?
+- [01:06:30,520 - 01:06:32,580] Imagine we have some system.
+- [01:06:32,580 - 01:06:34,740] And the system has some collection of states.
+- [01:06:34,740 - 01:06:35,380] Classical.
+- [01:06:35,380 - 01:06:36,800] Now we're doing classical.
+- [01:06:36,800 - 01:06:39,100] So logic is Boolean algebra.
+- [01:06:39,100 - 01:06:41,760] It's just a classical set theory.
+- [01:06:41,760 - 01:06:45,480] There's the space of all possible states of some system.
+- [01:06:45,480 - 01:06:48,300] And let's take the states to be discrete.
+- [01:06:48,300 - 01:06:51,020] So there's some finite number of states.
+- [01:06:51,020 - 01:06:56,040] Let's call number of states capital N. Now,
+- [01:06:56,040 - 01:07:01,080] entropy is not just a property of a system.
+- [01:07:01,080 - 01:07:04,240] It's a property of a system together with your state
+- [01:07:04,240 - 01:07:06,560] of knowledge about the system.
+- [01:07:06,560 - 01:07:07,980] In other words, it's something that
+- [01:07:07,980 - 01:07:09,530] has to do with both you and
+- [01:07:09,530 - 01:07:11,080] your state of knowledge, on the one
+- [01:07:11,080 - 01:07:11,580] hand.
+- [01:07:11,760 - 01:07:14,580] And the system itself.
+- [01:07:14,580 - 01:07:16,290] The less you know about
+- [01:07:16,290 - 01:07:18,000] a system, the more it's entropy.
+- [01:07:18,000 - 01:07:19,880] The more you know about it, the less it's
+- [01:07:19,880 - 01:07:22,560] entropy, according to the definition of entropy
+- [01:07:22,560 - 01:07:24,420] that we're going to talk about.
+- [01:07:24,420 - 01:07:25,800] All right, so let's see.
+- [01:07:25,800 - 01:07:28,820] How can we quantify that?
+- [01:07:28,820 - 01:07:31,140] So there's capital N states.
+- [01:07:31,140 - 01:07:36,330] And let's suppose that what we know is that
+- [01:07:36,330 - 01:07:41,520] the system is in one of little N states.
+- [01:07:41,760 - 01:07:44,580] One of little N states.
+- [01:07:44,580 - 01:07:46,300] Capital N is not going to
+- [01:07:46,300 - 01:07:48,020] play any tremendous role for the moment.
+- [01:07:48,020 - 01:07:50,510] All we know is that the system
+- [01:07:50,510 - 01:07:53,000] is in one of little N states,
+- [01:07:53,000 - 01:07:57,100] with equal probability, with equal probability
+- [01:07:57,100 - 01:08:01,200] for all those little N states.
+- [01:08:01,200 - 01:08:03,800] Then we would say we're ignorant.
+- [01:08:03,800 - 01:08:07,200] And our degree of ignorance is little n.
+- [01:08:07,200 - 01:08:08,880] Little n, it could be
+- [01:08:08,880 - 01:08:10,560] in any of little n states.
+- [01:08:10,560 - 01:08:11,640] The bigger the number of states, the bigger the probability.
+- [01:08:11,640 - 01:08:14,050] The bigger little n is, the
+- [01:08:14,050 - 01:08:16,460] less we know about the system, right?
+- [01:08:16,460 - 01:08:19,229] If we knew that little n was just one,
+- [01:08:19,229 - 01:08:22,000] in other words, that would be the situation where
+- [01:08:22,000 - 01:08:25,600] we know exactly what the state of the system
+- [01:08:25,600 - 01:08:29,200] is, and it's in one of the states, one known
+- [01:08:29,200 - 01:08:31,649] state of the system, then we
+- [01:08:31,649 - 01:08:34,099] would say little n is one.
+- [01:08:34,099 - 01:08:37,019] In that case, you would say the entropy is zero.
+- [01:08:37,019 - 01:08:38,380] We have no ignorance.
+- [01:08:38,380 - 01:08:41,359] We know everything there is to know about the system.
+- [01:08:41,359 - 01:08:45,599] And so there is no ignorance.
+- [01:08:45,599 - 01:08:47,500] What if little n is big N?
+- [01:08:47,500 - 01:08:49,750] If little n is big N, it means we
+- [01:08:49,750 - 01:08:52,000] know nothing about which state the system is in.
+- [01:08:52,000 - 01:08:55,880] That corresponds to the maximum entropy.
+- [01:08:55,880 - 01:08:58,969] So let me give you one definition of
+- [01:08:58,969 - 01:09:02,059] the entropy, which is good for this situation here.
+- [01:09:02,059 - 01:09:05,719] It is simply by definition logarithm, it's called
+- [01:09:05,719 - 01:09:09,380] S, and it's the logarithm of the number
+- [01:09:09,380 - 01:09:10,380] of states.
+- [01:09:10,380 - 01:09:10,859] S. And it's the logarithm of
+- [01:09:10,859 - 01:09:11,339] the number of states in the system.
+- [01:09:11,359 - 01:09:12,359] T is the length...
+- [01:09:12,359 - 01:09:13,359] Yes, you are children!
+- [01:09:17,359 - 01:09:19,359] S. fratern, s&DSo if you do this, then your
+- [01:09:19,359 - 01:09:20,380] state for N is one state.
+- [01:09:20,380 - 01:09:21,859] It means that the entropy is large.
+- [01:09:21,859 - 01:09:28,189] It's higher than Jessie 1200, 3
+- [01:09:28,189 - 01:09:34,519] personally dedicated hypotheses, is a simple number
+- [01:09:34,519 - 01:09:35,599] ofière, and it has the same tables.
+- [01:09:35,599 - 01:09:40,160] S entity SD, yo権
+- [01:09:40,160 - 01:09:41,160] That you, beg my pardon?
+- [01:09:41,160 - 01:09:45,040] of states, you add entropy. That's one way of saying it.
+- [01:09:45,040 - 01:09:48,920] Another way of saying it, let me give you another example.
+- [01:09:48,920 - 01:09:54,120] Supposing my system is again a system of spins,
+- [01:09:54,120 - 01:09:59,320] and I know something about a whole bunch of them,
+- [01:09:59,320 - 01:10:02,800] ups and downs and ups and downs and so
+- [01:10:02,800 - 01:10:06,280] forth, and I know nothing whatever about the system.
+- [01:10:06,280 - 01:10:08,600] I know nothing whatever about the
+- [01:10:08,600 - 01:10:10,920] system. How many possible states are there?
+- [01:10:10,920 - 01:10:14,239] Well, the answer is two to the number, now
+- [01:10:14,239 - 01:10:17,559] another completely different n, two to the number of spins.
+- [01:10:17,559 - 01:10:20,919] How many spins are there? Let's call them m, m
+- [01:10:20,919 - 01:10:24,280] spins. Two to the m is the total number of states.
+- [01:10:24,280 - 01:10:27,080] And what's the logarithm of two to the m?
+- [01:10:27,080 - 01:10:29,880] And if I knew nothing at all about the system,
+- [01:10:29,880 - 01:10:33,080] then n here would just be two to the
+- [01:10:33,080 - 01:10:36,280] m, any one of two to the m states.
+- [01:10:36,280 - 01:10:38,439] The logarithm of the number of
+- [01:10:38,439 - 01:10:40,599] states would just be proportional to m.
+- [01:10:40,599 - 01:10:45,439] So what the logarithm measures is the number
+- [01:10:45,439 - 01:10:50,280] of bits of information, a bit being a spin.
+- [01:10:50,280 - 01:10:52,519] The number of bits, now a
+- [01:10:52,519 - 01:10:54,759] bit basically means a two-level system.
+- [01:10:54,759 - 01:11:00,119] The number of bits is the number of bits, but the
+- [01:11:00,119 - 01:11:05,480] number of bits gets exponentiated to determine the number of states,
+- [01:11:05,480 - 01:11:06,120] and it's just a unit.
+- [01:11:06,120 - 01:11:09,960] It's just a useful definition to go back to the logarithm, which
+- [01:11:09,960 - 01:11:13,800] is basically a measure of the number of little bits of information,
+- [01:11:13,800 - 01:11:18,000] and the number of yes-no, or the number of
+- [01:11:18,000 - 01:11:22,200] up-down decisions that is contained in your degree of ignorance.
+- [01:11:22,200 - 01:11:24,359] Okay, so in any case, that's the definition.
+- [01:11:24,359 - 01:11:26,519] S is equal to the logarithm of n.
+- [01:11:26,519 - 01:11:29,640] Now, what happens if you have a more general situation?
+- [01:11:29,640 - 01:11:35,320] Instead of having, oh incidentally, in this case here,
+- [01:11:35,320 - 01:11:39,240] the probability, let's write down some of the probability.
+- [01:11:39,240 - 01:11:43,799] The probability, let's call these states i.
+- [01:11:43,799 - 01:11:48,679] Alright, let's say the probability for i,
+- [01:11:48,679 - 01:11:51,239] the probability for the i-th
+- [01:11:51,239 - 01:11:53,799] configuration is one over little n,
+- [01:11:53,799 - 01:12:01,719] if i is in the subset n.
+- [01:12:01,719 - 01:12:03,000] This is the subset n.
+- [01:12:03,000 - 01:12:05,160] I've used it to label both the number of elements,
+- [01:12:05,160 - 01:12:07,160] and also the subset itself.
+- [01:12:07,160 - 01:12:09,559] P sub i is just one over little n,
+- [01:12:09,559 - 01:12:12,479] if i is in n,
+- [01:12:12,479 - 01:12:15,400] and P sub i is zero,
+- [01:12:15,400 - 01:12:17,880] if i is not equal, how
+- [01:12:17,880 - 01:12:20,360] do you write that, like that?
+- [01:12:20,360 - 01:12:23,720] Is not equal, is not in n.
+- [01:12:23,720 - 01:12:26,159] That's what it means to say we know the
+- [01:12:26,159 - 01:12:28,599] system is in n, but we don't know anything else.
+- [01:12:28,599 - 01:12:30,039] Alright, now why don't we
+- [01:12:30,039 - 01:12:31,480] have a more interesting probability distribution,
+- [01:12:31,480 - 01:12:34,200] or a more complex probability distribution.
+- [01:12:34,200 - 01:12:34,640] Instead of having, oh, this
+- [01:12:34,640 - 01:12:35,080] is a little bit more complex,
+- [01:12:35,080 - 01:12:41,960] we can imagine a more general situation where
+- [01:12:41,960 - 01:12:48,840] we just have a probability P of i, period.
+- [01:12:48,840 - 01:12:51,000] It might be big in some regions
+- [01:12:51,000 - 01:12:53,160] of the face of the configuration space,
+- [01:12:53,160 - 01:12:55,480] it might be small in other regions,
+- [01:12:55,480 - 01:12:58,680] it might approximately be such that there's
+- [01:12:58,680 - 01:13:01,880] some subset here which all have equal probability,
+- [01:13:01,880 - 01:13:03,480] zero on the outside,
+- [01:13:03,480 - 01:13:04,840] may or may not be.
+- [01:13:05,080 - 01:13:08,440] So we have just some P of i.
+- [01:13:08,440 - 01:13:12,560] I would like some kind of measure of the
+- [01:13:12,560 - 01:13:16,680] number of states that is included in this probability distribution,
+- [01:13:16,680 - 01:13:19,640] and I would like it to be such that it
+- [01:13:19,640 - 01:13:22,600] counts the state only a little bit if it's improbable,
+- [01:13:22,600 - 01:13:26,200] and counts it a great deal if it's probable.
+- [01:13:26,200 - 01:13:27,520] I'm going to give you
+- [01:13:27,520 - 01:13:28,840] now a definition of the entropy,
+- [01:13:28,840 - 01:13:30,360] and I'll show you how it works,
+- [01:13:30,360 - 01:13:33,960] which is true for a general probability distribution.
+- [01:13:33,960 - 01:13:34,920] For a general probability,
+- [01:13:34,920 - 01:13:36,600] I'll show you why you use this in a moment,
+- [01:13:36,600 - 01:13:39,960] but let's just define it first.
+- [01:13:39,960 - 01:13:45,160] The entropy for a general probability distribution
+- [01:13:45,160 - 01:13:50,200] is minus
+- [01:13:50,200 - 01:13:52,840] the sum over all the states
+- [01:13:52,840 - 01:13:55,920] of the probability of the i-th state times
+- [01:13:55,920 - 01:13:59,000] the logarithm of the probability of the i-th state.
+- [01:13:59,000 - 01:13:59,800] Okay.
+- [01:14:04,920 - 01:14:06,600] Let's see how it works.
+- [01:14:06,600 - 01:14:12,920] Let's see how it works.
+- [01:14:12,920 - 01:14:14,920] Let's...
+- [01:14:14,920 - 01:14:17,400] Oh, first of all, do you know why it's minus?
+- [01:14:17,400 - 01:14:20,040] Yeah, because those are all going to be negative logs.
+- [01:14:20,040 - 01:14:20,760] Yeah.
+- [01:14:20,760 - 01:14:23,800] A probability is always less than one,
+- [01:14:23,800 - 01:14:25,360] so the logarithm of something
+- [01:14:25,360 - 01:14:26,920] that's less than one is negative,
+- [01:14:26,920 - 01:14:29,080] so this is really a positive quantity.
+- [01:14:29,080 - 01:14:30,920] This is really a positive quantity.
+- [01:14:30,920 - 01:14:32,920] Log of P sub i is always negative.
+- [01:14:32,920 - 01:14:34,040] Let's do an example.
+- [01:14:34,040 - 01:14:35,080] Let's calculate this.
+- [01:14:35,080 - 01:14:37,240] Let's go back to the first example here.
+- [01:14:37,240 - 01:14:39,000] In the first example,
+- [01:14:39,000 - 01:14:42,120] the probability was zero if you're not an n,
+- [01:14:42,120 - 01:14:43,640] and one over n, one over
+- [01:14:43,640 - 01:14:45,160] little n if you are an n.
+- [01:14:45,160 - 01:14:47,160] So let's calculate then, s.
+- [01:14:47,160 - 01:14:52,760] S is the sum over all the places,
+- [01:14:52,760 - 01:14:56,920] so let's concentrate on a point inside n here.
+- [01:14:56,920 - 01:14:57,720] All right.
+- [01:14:57,720 - 01:14:58,840] What's the probability?
+- [01:14:58,840 - 01:15:00,760] It's one over little n.
+- [01:15:00,760 - 01:15:01,560] Okay.
+- [01:15:01,560 - 01:15:02,920] So, let's do an example.
+- [01:15:02,920 - 01:15:03,960] Let's do an example.
+- [01:15:03,960 - 01:15:05,960] What's the log of the probability?
+- [01:15:05,960 - 01:15:07,960] Logarithm of one over n.
+- [01:15:07,960 - 01:15:11,960] There's a minus sign,
+- [01:15:11,960 - 01:15:13,960] and that's the contribution for any
+- [01:15:13,960 - 01:15:15,960] one of the states in here.
+- [01:15:15,960 - 01:15:17,960] All right.
+- [01:15:17,960 - 01:15:19,960] For any one of them.
+- [01:15:19,960 - 01:15:21,960] What about the states on the outside?
+- [01:15:21,960 - 01:15:23,960] The states on the outside give
+- [01:15:23,960 - 01:15:25,960] zero because their probabilities are zero.
+- [01:15:25,960 - 01:15:27,960] All right.
+- [01:15:27,960 - 01:15:29,960] Zero times logarithm of zero is zero.
+- [01:15:29,960 - 01:15:31,960] All right.
+- [01:15:31,960 - 01:15:35,960] So, the probability is infinite for when p is zero,
+- [01:15:35,960 - 01:15:39,960] but p log p is zero.
+- [01:15:39,960 - 01:15:43,960] So, you get for every configuration in here,
+- [01:15:43,960 - 01:15:47,960] you get one over n log one over n.
+- [01:15:47,960 - 01:15:49,960] Now, what's the log of one over n?
+- [01:15:49,960 - 01:15:51,960] Minus the log of n.
+- [01:15:51,960 - 01:15:53,960] It's minus the log of n,
+- [01:15:53,960 - 01:15:55,960] so we can get rid of this
+- [01:15:55,960 - 01:15:57,960] and make it just log of n.
+- [01:15:57,960 - 01:15:58,960] But this is just the contribution
+- [01:15:58,960 - 01:15:59,960] from one of the points in here.
+- [01:15:59,960 - 01:16:01,960] How many points are there in here?
+- [01:16:01,960 - 01:16:03,960] N.
+- [01:16:03,960 - 01:16:05,960] So, we have to multiply this by n.
+- [01:16:05,960 - 01:16:07,960] Which is just equal to log n.
+- [01:16:07,960 - 01:16:08,960] So, in the case where we have
+- [01:16:08,960 - 01:16:09,960] a probability distribution which is zero or one,
+- [01:16:09,960 - 01:16:10,960] it reproduces the original definition
+- [01:16:10,960 - 01:16:11,960] here of just logarithm of n.
+- [01:16:11,960 - 01:16:13,960] All right.
+- [01:16:13,960 - 01:16:14,960] What about the situation where
+- [01:16:14,960 - 01:16:15,960] there is only one over n?
+- [01:16:15,960 - 01:16:17,960] Well, that's the probability distribution.
+- [01:16:17,960 - 01:16:19,960] So, we have to multiply this by n.
+- [01:16:19,960 - 01:16:21,960] And we have to do that.
+- [01:16:21,960 - 01:16:23,960] So, we have to do that.
+- [01:16:23,960 - 01:16:25,960] So, we have to do that.
+- [01:16:25,960 - 01:16:27,960] So, we have to do that.
+- [01:16:27,960 - 01:16:29,960] So, we have to do that.
+- [01:16:29,960 - 01:16:31,960] Now, let's call this point.
+- [01:16:31,960 - 01:16:32,960] So, we have to figure
+- [01:16:32,960 - 01:16:33,960] out what the n-th division is.
+- [01:16:33,960 - 01:16:35,960] And we have to do this.
+- [01:16:35,960 - 01:16:37,960] And so, we get this point,
+- [01:16:37,960 - 01:16:39,960] which has a non-zero probability.
+- [01:16:39,960 - 01:16:41,960] All the others being zero.
+- [01:16:41,960 - 01:16:43,960] In other words, when you know with certainty
+- [01:16:43,960 - 01:16:45,960] exactly where the system is in the phase space,
+- [01:16:45,960 - 01:16:47,960] exactly where the system is in the phase space,
+- [01:16:47,960 - 01:16:48,960] in that case, only one of
+- [01:16:48,960 - 01:16:49,960] the p-sub-i's is not equal to zero.
+- [01:16:51,960 - 01:16:53,960] All the other p-sub-i's are equal to zero.
+- [01:16:53,960 - 01:16:55,960] All the other p-sub-i's are equal to zero.
+- [01:16:55,960 - 01:16:57,960] Okay.
+- [01:16:57,960 - 01:16:59,960] So, let's go to that one point,
+- [01:16:59,960 - 01:17:02,620] P sub zero log P sub zero.
+- [01:17:02,620 - 01:17:07,840] Distribution is spread out over about n states.
+- [01:17:07,840 - 01:17:09,940] If it makes sense to say
+- [01:17:09,940 - 01:17:12,040] that it's spread out over n states,
+- [01:17:12,040 - 01:17:14,140] then it's just logarithm of n.
+- [01:17:14,140 - 01:17:17,260] Otherwise, a more general definition which
+- [01:17:17,260 - 01:17:20,380] captures the two examples that I gave,
+- [01:17:20,380 - 01:17:22,530] and that's really all it's intended
+- [01:17:22,530 - 01:17:24,680] to capture, is summation over i,
+- [01:17:24,680 - 01:17:26,280] P sub i log P sub i.
+- [01:17:26,280 - 01:17:28,520] That's definition of the entropy.
+- [01:17:28,520 - 01:17:31,770] As I said, the bigger the entropy
+- [01:17:31,770 - 01:17:35,020] is, the less you know about the system.
+- [01:17:35,020 - 01:17:41,840] What's the maximum entropy that this system can have?
+- [01:17:41,840 - 01:17:43,840] One.
+- [01:17:43,840 - 01:17:45,840] Why one?
+- [01:17:45,840 - 01:17:47,840] One?
+- [01:17:47,840 - 01:17:49,840] Logarithm of capital N.
+- [01:17:49,840 - 01:17:53,710] Logarithm of capital N would be the
+- [01:17:53,710 - 01:17:57,580] situation where you know nothing about anything,
+- [01:17:57,580 - 01:17:58,520] and so each one of the n states,
+- [01:17:58,520 - 01:18:01,020] each one of the states
+- [01:18:01,020 - 01:18:03,520] has probability one over big N.
+- [01:18:03,520 - 01:18:06,020] You know nothing, and so
+- [01:18:06,020 - 01:18:08,520] it's just logarithm of capital N.
+- [01:18:08,520 - 01:18:11,180] I don't know the number of
+- [01:18:11,180 - 01:18:13,840] states capital N, so you know that.
+- [01:18:13,840 - 01:18:15,040] Yeah, that's all you know.
+- [01:18:15,040 - 01:18:16,540] You don't know which of those states is it.
+- [01:18:16,540 - 01:18:17,540] That's right.
+- [01:18:17,540 - 01:18:18,540] You don't know which of those states it's in.
+- [01:18:18,540 - 01:18:19,540] Yeah.
+- [01:18:19,540 - 01:18:20,540] Yeah.
+- [01:18:20,540 - 01:18:23,040] You know what the system is, but you don't know
+- [01:18:23,040 - 01:18:25,540] in which of the states of the system it is.
+- [01:18:25,540 - 01:18:26,540] That's what maximizes the entropy.
+- [01:18:26,540 - 01:18:27,040] Incidentally, the difference between the two
+- [01:18:27,040 - 01:18:27,540] is that the entropy is the same.
+- [01:18:27,540 - 01:18:28,520] It's the same.
+- [01:18:28,520 - 01:18:29,520] It's the same.
+- [01:18:29,520 - 01:18:32,020] The difference between maximum entropy
+- [01:18:32,020 - 01:18:34,520] and actual entropy is called information.
+- [01:18:34,520 - 01:18:38,520] So if you happened, if the entropy were
+- [01:18:38,520 - 01:18:42,520] exactly zero, you would have a lot of information.
+- [01:18:42,520 - 01:18:44,020] You have a lot of states,
+- [01:18:44,020 - 01:18:45,520] and you know which one it's in.
+- [01:18:45,520 - 01:18:49,520] So the difference between maximum entropy and entropy
+- [01:18:49,520 - 01:18:53,520] is the amount of information available to you,
+- [01:18:53,520 - 01:18:55,520] or it's defined that way.
+- [01:18:55,520 - 01:18:56,520] Okay.
+- [01:18:56,520 - 01:18:57,520] So in some sense, information
+- [01:18:57,520 - 01:18:58,520] and entropy are opposite sides.
+- [01:18:58,520 - 01:19:02,520] They're both sides of the same coin.
+- [01:19:02,520 - 01:19:05,020] Entropy is the information which is unavailable to
+- [01:19:05,020 - 01:19:07,520] you because either you're too stupid, too lazy,
+- [01:19:07,520 - 01:19:13,520] or whatever it is that the, whatever reason, or the
+- [01:19:13,520 - 01:19:19,520] object is too small to see, or you're, whatever the reason.
+- [01:19:19,520 - 01:19:20,520] Okay.
+- [01:19:20,520 - 01:19:24,020] That's, that is, now what does
+- [01:19:24,020 - 01:19:27,520] entropy have to do with entanglement?
+- [01:19:27,520 - 01:19:28,520] It's a definition of what is intangible.
+- [01:19:28,520 - 01:19:29,020] As you can imagine, what we said
+- [01:19:29,020 - 01:19:29,520] about the degree of entanglement, that will come.
+- [01:19:29,520 - 01:19:30,520] That will come.
+- [01:19:30,520 - 01:19:33,520] It is a measure of
+- [01:19:33,520 - 01:19:36,520] the, of the degree of entanglement.
+- [01:19:36,520 - 01:19:41,520] Before we get on that, we need a definition.
+- [01:19:41,520 - 01:19:42,520] One definition, one mathematical definition.
+- [01:19:42,520 - 01:19:45,520] The mathematical — I'm going to give the mathematical definition,
+- [01:19:45,520 - 01:19:48,520] then we're going to take a break, because I'm getting tired.
+- [01:19:48,520 - 01:19:51,020] We'll take a break, and then we're going to come
+- [01:19:51,020 - 01:19:53,520] back and talk about the density matrix a little bit.
+- [01:19:53,520 - 01:19:54,520] I don't think we'll actually
+- [01:19:54,520 - 01:19:55,520] get to entanglement entropy tonight.
+- [01:19:55,520 - 01:19:56,520] Absolutely.
+- [01:19:56,520 - 01:20:01,300] basic ingredients that go into it.
+- [01:20:01,300 - 01:20:06,080] Basic mathematical operation done on matrices,
+- [01:20:06,080 - 01:20:09,220] and since matrices are linear operators you
+- [01:20:09,220 - 01:20:12,360] can think of it as a operation on
+- [01:20:12,360 - 01:20:16,280] operators. You have some linear operator, let's
+- [01:20:16,280 - 01:20:20,200] just call it M, M stands for
+- [01:20:20,200 - 01:20:23,939] matrix but it can also
+- [01:20:23,939 - 01:20:27,679] stand for abstract operator and let's
+- [01:20:27,679 - 01:20:33,240] suppose we have a basis. I'm going to assume,
+- [01:20:33,240 - 01:20:37,560] well, no, I won't assume. No. Assumption.
+- [01:20:37,560 - 01:20:41,880] Let's take a basis of vectors in the
+- [01:20:41,880 - 01:20:50,080] and take the
+- [01:20:50,080 - 01:20:54,160] I-I matrix, the diagonal matrix element of M.
+- [01:20:56,680 - 01:20:58,980] If M is a matrix,
+- [01:21:01,720 - 01:21:06,260] then this just stands for the I-I diagonal matrix element.
+- [01:21:06,340 - 01:21:09,780] Here's the 1-1 element, the 2-2 element, the 3-3 element,
+- [01:21:10,280 - 01:21:11,559] and add them all together.
+- [01:21:12,300 - 01:21:13,720] That's called the trace.
+- [01:21:14,000 - 01:21:16,740] That's called the trace of M.
+- [01:21:20,080 - 01:21:25,240] Now, you might think that this depends awfully much
+- [01:21:25,240 - 01:21:27,800] on which choice of basis vectors you choose.
+- [01:21:28,840 - 01:21:32,559] There are many choices of basis vectors in a space.
+- [01:21:32,840 - 01:21:35,240] You could choose, if it was three-dimensional space,
+- [01:21:35,300 - 01:21:37,140] you could rotate your axes and so forth.
+- [01:21:37,680 - 01:21:38,720] I'm not going to prove this.
+- [01:21:38,800 - 01:21:40,159] This is something, this is an
+- [01:21:40,159 - 01:21:41,519] exercise you can either do yourself.
+- [01:21:41,600 - 01:21:43,380] It's easy, or you can look it
+- [01:21:43,380 - 01:21:45,160] up in your favorite linear algebra book.
+- [01:21:45,740 - 01:21:49,660] The trace of a matrix is independent of the choice
+- [01:21:49,660 - 01:21:50,059] of the matrix element.
+- [01:21:50,080 - 01:21:52,500] It's independent of basis vectors.
+- [01:21:53,080 - 01:21:54,220] It's an invariant.
+- [01:21:54,400 - 01:21:55,970] It's a quantity which does not
+- [01:21:55,970 - 01:21:57,540] depend on your choice of basis vectors.
+- [01:21:59,059 - 01:22:01,319] And so all choices of basis vectors
+- [01:22:01,319 - 01:22:03,580] give the same value for the trace.
+- [01:22:03,660 - 01:22:05,320] That's an important little theorem,
+- [01:22:06,220 - 01:22:08,580] and it plays an important role in what follows,
+- [01:22:08,740 - 01:22:12,620] but if you look it up or prove it yourself,
+- [01:22:12,660 - 01:22:13,559] it's not hard to prove.
+- [01:22:15,100 - 01:22:17,900] Okay, that's the definition of the trace of M.
+- [01:22:18,300 - 01:22:19,420] We're going to use that.
+- [01:22:19,420 - 01:22:20,420] Over and over.
+- [01:22:20,420 - 01:22:23,920] But supposing the matrix in
+- [01:22:23,920 - 01:22:27,420] some basis happens to be diagonal.
+- [01:22:27,420 - 01:22:30,420] Since it doesn't matter what basis we compute it in,
+- [01:22:30,420 - 01:22:32,420] we can look for a basis
+- [01:22:32,420 - 01:22:34,420] in which the matrix is diagonal.
+- [01:22:37,420 - 01:22:39,420] If M is a Hermitian operator, there will
+- [01:22:39,420 - 01:22:41,420] always be a basis in which it's diagonal.
+- [01:22:42,420 - 01:22:44,420] If M is not Hermitian, there may not be.
+- [01:22:44,420 - 01:22:48,420] But if there is a basis where M is diagonal,
+- [01:22:48,420 - 01:22:49,420] then it's diagonal.
+- [01:22:49,420 - 01:22:51,420] Then the diagonal elements are nothing
+- [01:22:51,420 - 01:22:53,420] but the eigenvalues of the matrix.
+- [01:22:54,360 - 01:22:57,220] Remember, when a matrix is expressed in diagonal form,
+- [01:22:57,300 - 01:22:59,220] if it can be expressed in diagonal form,
+- [01:22:59,900 - 01:23:03,020] the entries are the eigenvalues of the matrix.
+- [01:23:04,020 - 01:23:04,680] Excuse me.
+- [01:23:04,860 - 01:23:05,020] No.
+- [01:23:05,140 - 01:23:06,920] The question of the matrix in diagonal
+- [01:23:06,920 - 01:23:08,700] form means the matrix is an inverse.
+- [01:23:09,320 - 01:23:10,900] It may not have an inverse
+- [01:23:10,900 - 01:23:12,480] because it may not have an inverse.
+- [01:23:12,620 - 01:23:14,160] If any of the entries are
+- [01:23:14,160 - 01:23:15,700] zero, it won't have an inverse.
+- [01:23:16,540 - 01:23:16,980] Yeah.
+- [01:23:18,020 - 01:23:18,240] Yeah.
+- [01:23:18,240 - 01:23:18,300] Yeah.
+- [01:23:18,300 - 01:23:19,800] But as long as the entries are
+- [01:23:19,800 - 01:23:21,300] not zero, it will have an inverse.
+- [01:23:21,300 - 01:23:22,300] Right.
+- [01:23:22,300 - 01:23:23,300] OK.
+- [01:23:23,300 - 01:23:24,300] Good.
+- [01:23:24,300 - 01:23:25,300] No.
+- [01:23:25,300 - 01:23:27,800] Actually, what it means is that it's a
+- [01:23:27,800 - 01:23:30,300] function of a Hermitian operator, is what it means.
+- [01:23:30,300 - 01:23:36,300] But if it's diagonal, it's characterized by its eigenvalues.
+- [01:23:36,300 - 01:23:38,800] And then the trace is nothing
+- [01:23:38,800 - 01:23:41,300] but the sum of the eigenvalues.
+- [01:23:41,300 - 01:23:43,800] That's a way of describing the trace which
+- [01:23:43,800 - 01:23:46,300] doesn't depend on the choice of a basis.
+- [01:23:46,300 - 01:23:47,300] The eigenvalues don't depend on the choice of a basis.
+- [01:23:47,300 - 01:23:48,300] Right.
+- [01:23:48,300 - 01:23:51,800] It's just if you happen to use the right
+- [01:23:51,800 - 01:23:55,300] basis, then the matrix will consist of a diagonal,
+- [01:23:55,300 - 01:23:58,300] where the diagonal entries will be the eigenvalues.
+- [01:23:58,300 - 01:24:00,800] But the concept of an
+- [01:24:00,800 - 01:24:03,300] eigenvalue transcends any particular basis.
+- [01:24:03,300 - 01:24:06,300] So if you know all of the eigenvalues, you
+- [01:24:06,300 - 01:24:09,300] add them up, and that's the trace of a matrix.
+- [01:24:09,300 - 01:24:12,300] The sum of the eigenvalues,
+- [01:24:12,300 - 01:24:15,300] in particular of a Hermitian matrix,
+- [01:24:15,300 - 01:24:17,300] in particular a Hermitian matrix, which always has,
+- [01:24:17,300 - 01:24:21,300] a complete set of eigenvectors and eigenvalues,
+- [01:24:21,300 - 01:24:26,300] the sum of the eigenvalues is the trace.
+- [01:24:26,300 - 01:24:29,300] And as I said, it plays an important role.
+- [01:24:29,300 - 01:24:33,300] Let's take a break now for six or seven minutes.
+- [01:24:33,300 - 01:24:35,300] Let's move on.
+- [01:24:40,300 - 01:24:41,300] Let me tell you what
+- [01:24:41,300 - 01:24:42,300] the role of a trace is,
+- [01:24:42,300 - 01:24:45,300] where, how it,
+- [01:24:47,300 - 01:24:49,300] and how it's used.
+- [01:24:49,300 - 01:24:52,300] Let's go back for a minute to the classical situation.
+- [01:25:03,300 - 01:25:10,300] The classical probability distribution, some p of i.
+- [01:25:10,300 - 01:25:12,300] Let me just remind you that
+- [01:25:12,300 - 01:25:14,300] if you have a p of i,
+- [01:25:14,300 - 01:25:16,300] and you have some observable, classical, ability,
+- [01:25:16,300 - 01:25:18,300] a classical observable now,
+- [01:25:18,300 - 01:25:22,300] a classical observable just means some function
+- [01:25:22,300 - 01:25:26,300] of the points in the configuration space.
+- [01:25:26,300 - 01:25:28,300] Some function which takes on
+- [01:25:28,300 - 01:25:30,300] different values for different states.
+- [01:25:30,300 - 01:25:33,300] So we can call it f of i.
+- [01:25:33,300 - 01:25:38,300] An observable is just a function of the configurations.
+- [01:25:38,300 - 01:25:40,300] It just takes on different values.
+- [01:25:40,300 - 01:25:42,300] When you observe it, you find
+- [01:25:42,300 - 01:25:44,300] out something about which point you're at.
+- [01:25:44,300 - 01:25:47,300] The average of f, given
+- [01:25:47,300 - 01:25:50,300] a probability distribution p sub i,
+- [01:25:50,300 - 01:25:54,300] is of course the sum over i
+- [01:25:54,300 - 01:25:58,300] of p sub i f sub i.
+- [01:25:58,300 - 01:26:00,300] You just weight the different values
+- [01:26:00,300 - 01:26:02,300] of f with the appropriate probability.
+- [01:26:02,300 - 01:26:06,300] Remember that probabilities all add up to one.
+- [01:26:06,300 - 01:26:09,800] And this is the classical
+- [01:26:09,800 - 01:26:13,300] average or expectation value of f.
+- [01:26:14,300 - 01:26:17,300] I'll just call it f.
+- [01:26:17,300 - 01:26:20,300] I won't call it average of f.
+- [01:26:20,300 - 01:26:23,300] That's the definition of average of f.
+- [01:26:23,300 - 01:26:28,300] You could also call it the expectation value,
+- [01:26:28,300 - 01:26:31,300] although it's not necessarily expected.
+- [01:26:31,300 - 01:26:36,300] The trace, first of all, the trace
+- [01:26:36,300 - 01:26:41,300] is the analog of the sum over configurations.
+- [01:26:41,300 - 01:26:43,300] It replaces in quantum mechanics,
+- [01:26:43,300 - 01:26:47,300] summing over all the possibilities.
+- [01:26:47,300 - 01:26:53,300] So trace becomes,
+- [01:26:53,300 - 01:27:01,300] or sum over configurations becomes trace.
+- [01:27:01,300 - 01:27:05,300] You'll see how it works as we go along.
+- [01:27:05,300 - 01:27:08,300] Now, there is a very similar
+- [01:27:08,300 - 01:27:11,300] formula to this in quantum mechanics,
+- [01:27:11,300 - 01:27:12,300] which of course,
+- [01:27:12,300 - 01:27:14,300] involves a trace.
+- [01:27:14,300 - 01:27:16,800] And the trial involves a
+- [01:27:16,800 - 01:27:19,300] trace of the observable times something.
+- [01:27:19,300 - 01:27:22,300] And that something is called the density matrix.
+- [01:27:22,300 - 01:27:26,300] And I'm going to explain it to
+- [01:27:26,300 - 01:27:30,300] you now in a very simple situation first.
+- [01:27:30,300 - 01:27:37,300] Supposing somebody prepares a state of a system,
+- [01:27:37,300 - 01:27:40,300] any one of the states of an orthonormal basis i,
+- [01:27:40,300 - 01:27:43,300] behind your back,
+- [01:27:43,300 - 01:27:49,300] somebody creates a system in some state i,
+- [01:27:49,300 - 01:27:54,300] but doesn't tell you which state they've created it in.
+- [01:27:54,300 - 01:27:56,300] So it's definitely an electron or
+- [01:27:56,300 - 01:27:58,300] a spin or a composite system
+- [01:27:58,300 - 01:28:00,300] or whatever it happens to be.
+- [01:28:00,300 - 01:28:04,300] It's been created by somebody else in a particular state,
+- [01:28:04,300 - 01:28:09,300] but all they have told you is a probability distribution
+- [01:28:09,300 - 01:28:12,300] for what state they created the system in.
+- [01:28:12,300 - 01:28:15,300] In other words, what we can
+- [01:28:15,300 - 01:28:18,300] imagine is somebody creating an electron
+- [01:28:18,300 - 01:28:21,300] by putting it into a magnetic field,
+- [01:28:21,300 - 01:28:24,300] and that magnetic field could be up,
+- [01:28:24,300 - 01:28:26,300] or it could be down.
+- [01:28:26,300 - 01:28:28,300] And they tell you,
+- [01:28:28,300 - 01:28:30,300] here's an electron,
+- [01:28:30,300 - 01:28:31,800] it's either up or down, but
+- [01:28:31,800 - 01:28:33,300] I'm not going to tell you which.
+- [01:28:33,300 - 01:28:35,300] I'll give you a probability though,
+- [01:28:35,300 - 01:28:38,300] 75% likelihood that it's up,
+- [01:28:38,300 - 01:28:41,300] 25% likelihood that it's down.
+- [01:28:41,300 - 01:28:44,300] This is not a situation where
+- [01:28:44,300 - 01:28:47,300] you would write up plus down,
+- [01:28:47,300 - 01:28:50,300] or even three quarters up plus one quarter down.
+- [01:28:50,300 - 01:28:53,300] That's not right, but you know what I mean.
+- [01:28:53,300 - 01:28:55,300] You wouldn't add the states together
+- [01:28:55,300 - 01:28:57,300] at all with a definite phase.
+- [01:28:57,300 - 01:28:59,300] You would just say you
+- [01:28:59,300 - 01:29:01,300] don't know what state it's in,
+- [01:29:01,300 - 01:29:05,300] and the system is described statistically
+- [01:29:05,300 - 01:29:08,300] with a greater degree of statistics,
+- [01:29:08,300 - 01:29:11,300] than if it had been in a,
+- [01:29:11,300 - 01:29:13,300] than if you knew what state it was in.
+- [01:29:13,300 - 01:29:15,300] Even if you knew what state it was in,
+- [01:29:15,300 - 01:29:19,300] certain measurements would still be probabilistic.
+- [01:29:19,300 - 01:29:20,800] If you knew what state it
+- [01:29:20,800 - 01:29:22,300] was in, certain experiments might be definite,
+- [01:29:22,300 - 01:29:24,300] and certain others might be probabilistic,
+- [01:29:24,300 - 01:29:28,300] but here's an added degree of probability,
+- [01:29:28,300 - 01:29:31,300] an added probability aspect of things,
+- [01:29:31,300 - 01:29:32,800] that not only if the
+- [01:29:32,800 - 01:29:34,300] system was in a definite state
+- [01:29:34,300 - 01:29:37,300] might you not know the answer to every question,
+- [01:29:37,300 - 01:29:38,800] but you might not even know
+- [01:29:38,800 - 01:29:40,300] what state the system is in.
+- [01:29:40,300 - 01:29:43,300] Under those circumstances, you use an object called
+- [01:29:43,300 - 01:29:47,300] the density matrix instead of state vectors.
+- [01:29:47,300 - 01:29:50,300] Density matrices are kind of a looser concept,
+- [01:29:50,300 - 01:29:51,800] a concept when you don't know
+- [01:29:51,800 - 01:29:53,300] what state the system is in,
+- [01:29:53,300 - 01:29:56,300] and it's a probability distribution for different states.
+- [01:29:56,300 - 01:29:59,300] Alright, so let's suppose that we have,
+- [01:29:59,300 - 01:30:02,300] that somebody has prepared the system
+- [01:30:02,300 - 01:30:06,300] definitely in one of the basis states, I,
+- [01:30:07,300 - 01:30:11,300] with a probability, let's call it rho sub i.
+- [01:30:11,300 - 01:30:14,300] I'm using rho now instead of p,
+- [01:30:14,300 - 01:30:18,300] just because it's a standard convention for this situation,
+- [01:30:18,300 - 01:30:20,300] to call it rho.
+- [01:30:20,300 - 01:30:22,300] So that's the,
+- [01:30:22,300 - 01:30:25,300] rho then is the probability for the i-th state.
+- [01:30:25,300 - 01:30:28,300] Now we can make a matrix out of rho.
+- [01:30:28,300 - 01:30:30,300] We can make a matrix out of rho,
+- [01:30:30,300 - 01:30:31,800] and here's the way I'll
+- [01:30:31,800 - 01:30:33,300] make a matrix out of rho.
+- [01:30:33,300 - 01:30:36,300] I'm just going to, this is the matrix
+- [01:30:36,300 - 01:30:39,300] in the i basis, so this is i equals 1,
+- [01:30:39,300 - 01:30:41,300] i equals 2, i equals 3, i equals 4,
+- [01:30:41,300 - 01:30:43,300] likewise with the rows.
+- [01:30:43,300 - 01:30:45,300] It's going to be a diagonal matrix,
+- [01:30:45,300 - 01:30:48,300] and its entries are just going to be rho.
+- [01:30:48,300 - 01:30:50,300] Rho 1, rho 2, on the diagonal,
+- [01:30:50,300 - 01:30:53,300] rho 1, rho 2, rho 3.
+- [01:31:02,300 - 01:31:05,300] All other elements zero.
+- [01:31:06,300 - 01:31:13,300] The rows are real numbers,
+- [01:31:13,300 - 01:31:15,300] they're positive numbers because they're probabilities,
+- [01:31:15,300 - 01:31:17,300] and they're all less than 1.
+- [01:31:17,300 - 01:31:20,300] And one more thing, and this is called, incidentally,
+- [01:31:20,300 - 01:31:23,300] this is called the density matrix.
+- [01:31:23,300 - 01:31:28,300] It's called rho, and it's called the density matrix.
+- [01:31:28,300 - 01:31:30,800] It's the analog in classical
+- [01:31:30,800 - 01:31:33,300] physics of the probability density,
+- [01:31:33,300 - 01:31:35,300] what we call p sub i.
+- [01:31:35,300 - 01:31:39,300] But it's now just been organized into a matrix
+- [01:31:39,300 - 01:31:41,300] with diagonal matrix elements.
+- [01:31:41,300 - 01:31:44,300] The elements are all real,
+- [01:31:44,300 - 01:31:48,300] and obviously they are the eigenvalues of this matrix,
+- [01:31:48,300 - 01:31:52,300] because whenever a matrix has been written in diagonal form,
+- [01:31:52,300 - 01:31:55,300] the diagonal elements are its eigenvalues.
+- [01:31:55,300 - 01:31:57,300] One more thing you can say,
+- [01:31:57,300 - 01:32:00,300] the trace of the density matrix is 1.
+- [01:32:00,300 - 01:32:01,300] Why is that?
+- [01:32:01,300 - 01:32:04,300] Because probabilities should add up to 1.
+- [01:32:04,300 - 01:32:05,800] So if the sum of all
+- [01:32:05,800 - 01:32:07,300] the probabilities adds up to 1,
+- [01:32:07,300 - 01:32:08,800] then the trace of the
+- [01:32:08,800 - 01:32:10,300] density matrix adds up to 1.
+- [01:32:25,300 - 01:32:27,300] Now, let's suppose we have some observable.
+- [01:32:27,300 - 01:32:30,300] Let's call the observable F.
+- [01:32:30,300 - 01:32:32,300] And it's also a Hermitian operator.
+- [01:32:34,300 - 01:32:55,300] Well, we have an observable F.
+- [01:32:55,300 - 01:32:58,300] It's a Hermitian operator, as always.
+- [01:32:58,300 - 01:33:01,300] Let me define now the average value of F.
+- [01:33:01,300 - 01:33:03,300] If we had an ordinary state, in other words,
+- [01:33:03,300 - 01:33:05,300] if we knew which state
+- [01:33:05,300 - 01:33:07,300] we were in with probability 1,
+- [01:33:07,300 - 01:33:10,300] then the average of F would just be
+- [01:33:10,300 - 01:33:14,300] the expectation value of F in that state.
+- [01:33:14,300 - 01:33:16,300] If we were in the i-th state,
+- [01:33:16,300 - 01:33:18,300] the average of F would just
+- [01:33:18,300 - 01:33:20,300] be the expectation value of F.
+- [01:33:20,300 - 01:33:23,300] That's obvious, right?
+- [01:33:23,300 - 01:33:24,300] All right.
+- [01:33:24,300 - 01:33:25,300] I say more generally,
+- [01:33:25,300 - 01:33:29,300] when you have this uncertainty about which state you're in,
+- [01:33:29,300 - 01:33:31,300] that the right answer is that the average of F,
+- [01:33:31,300 - 01:33:33,300] I won't indicate it the same way,
+- [01:33:33,300 - 01:33:35,300] I won't indicate it by a bra and a ket,
+- [01:33:35,300 - 01:33:37,300] because it's implicit in that
+- [01:33:37,300 - 01:33:39,300] that I have a particular state.
+- [01:33:39,300 - 01:33:43,300] I'll just write it as the average of F
+- [01:33:43,300 - 01:33:46,300] is equal to the trace of
+- [01:33:46,300 - 01:33:49,300] the product of F and rho.
+- [01:33:53,300 - 01:33:54,800] Let's see if we can make
+- [01:33:54,800 - 01:33:56,300] any sense out of that formula.
+- [01:33:56,300 - 01:33:58,300] That formula is quite similar
+- [01:33:58,300 - 01:34:01,300] to the corresponding classical formula,
+- [01:34:01,300 - 01:34:03,300] summation over i,
+- [01:34:03,300 - 01:34:07,300] of F sub i times P sub i.
+- [01:34:07,300 - 01:34:09,300] Similar formula.
+- [01:34:09,300 - 01:34:11,300] Trace being replaced,
+- [01:34:11,300 - 01:34:14,300] or sum being replaced by trace,
+- [01:34:14,300 - 01:34:18,300] classical function being replaced by an operator,
+- [01:34:18,300 - 01:34:20,300] and the probability distribution being
+- [01:34:20,300 - 01:34:22,300] replaced by the density matrix.
+- [01:34:22,300 - 01:34:24,300] It's called density matrix
+- [01:34:24,300 - 01:34:26,300] because it's like probability density.
+- [01:34:26,300 - 01:34:28,300] Or probability, yeah.
+- [01:34:28,300 - 01:34:31,300] Okay, let's work out what this thing is.
+- [01:34:31,300 - 01:34:33,300] Let's work out what this thing is.
+- [01:34:33,300 - 01:34:36,300] The trace, we can pick any basis we like,
+- [01:34:36,300 - 01:34:38,300] but let's pick the basis in
+- [01:34:38,300 - 01:34:40,300] which rho is diagonal for simplicity,
+- [01:34:40,300 - 01:34:43,300] assuming that rho is diagonal in some basis.
+- [01:34:43,300 - 01:34:46,300] Then this just becomes, the trace tells us,
+- [01:34:46,300 - 01:34:48,300] where's the definition of the trace?
+- [01:34:48,300 - 01:34:52,300] The trace tells us to take the basis,
+- [01:34:52,300 - 01:34:54,300] take the thing whose trace we're taking,
+- [01:34:54,300 - 01:34:56,300] F times rho,
+- [01:34:56,300 - 01:34:58,300] and close it up again,
+- [01:34:58,300 - 01:35:01,300] and sum over i.
+- [01:35:01,300 - 01:35:05,300] That's the trace of F times rho.
+- [01:35:05,300 - 01:35:07,300] Okay, now I'm going to do a
+- [01:35:07,300 - 01:35:09,300] trick which we talked about last time,
+- [01:35:09,300 - 01:35:11,300] we never really used very much,
+- [01:35:11,300 - 01:35:13,300] but I'm going to use it now.
+- [01:35:13,300 - 01:35:15,300] If we have a basis of states,
+- [01:35:15,300 - 01:35:18,300] then the unit operator can be represented
+- [01:35:18,300 - 01:35:23,300] as the sum over the states of
+- [01:35:23,300 - 01:35:27,300] the dyads made up out of the basis vectors.
+- [01:35:27,300 - 01:35:31,300] So let's, and what this means is you can always
+- [01:35:31,300 - 01:35:33,300] stick an expression like this
+- [01:35:33,300 - 01:35:35,300] between anything else
+- [01:35:35,300 - 01:35:36,300] and not change it.
+- [01:35:36,300 - 01:35:37,800] So in particular, I'm going to
+- [01:35:37,800 - 01:35:39,300] stick it between F and rho.
+- [01:35:39,300 - 01:35:40,800] Alright, so that'll give us, now
+- [01:35:40,800 - 01:35:42,300] we have two sums to do,
+- [01:35:42,300 - 01:35:45,300] one for the definition of the trace,
+- [01:35:45,300 - 01:35:47,300] and one for resolving the identity.
+- [01:35:47,300 - 01:35:49,300] This is called resolving the identity
+- [01:35:49,300 - 01:35:52,300] by using a complete basis of states.
+- [01:35:52,300 - 01:35:56,300] So that would give us
+- [01:35:56,300 - 01:36:00,300] i, F, j, j, rho, i,
+- [01:36:00,300 - 01:36:04,300] summed not only over i, but also over j.
+- [01:36:04,300 - 01:36:06,300] Summed over i for the trace,
+- [01:36:06,300 - 01:36:09,300] summed over j to resolve the identity.
+- [01:36:09,300 - 01:36:16,300] Good, now, rho, in the basis that I'm using,
+- [01:36:16,300 - 01:36:18,300] I'm assuming is diagonal.
+- [01:36:18,300 - 01:36:21,300] That means that i has to equal j,
+- [01:36:21,300 - 01:36:23,300] otherwise we don't get an expression.
+- [01:36:23,300 - 01:36:26,300] Alright, in that case, this just becomes
+- [01:36:26,300 - 01:36:29,300] the ijth matrix element, sorry,
+- [01:36:29,300 - 01:36:30,300] the diagonal matrix element.
+- [01:36:30,300 - 01:36:33,300] So this is the diagonal matrix element of rho.
+- [01:36:33,300 - 01:36:35,300] i has to equal j.
+- [01:36:35,300 - 01:36:38,300] We'll get nothing unless i equals j.
+- [01:36:38,300 - 01:36:41,300] This just becomes rho sub i,
+- [01:36:41,300 - 01:36:43,300] the i-th entry into the matrix,
+- [01:36:43,300 - 01:36:49,300] and this becomes Fii.
+- [01:36:49,300 - 01:36:51,300] Well, what is this?
+- [01:36:51,300 - 01:36:52,800] This is the expectation value
+- [01:36:52,800 - 01:36:54,300] of F in the state i.
+- [01:36:54,300 - 01:36:59,300] This is the probability that the state was made
+- [01:36:59,300 - 01:37:01,300] in configuration i.
+- [01:37:01,300 - 01:37:03,300] And this is just the sum
+- [01:37:03,300 - 01:37:05,300] of the expectation values of F
+- [01:37:05,300 - 01:37:08,300] weighted with the probability distribution
+- [01:37:08,300 - 01:37:10,300] for different states.
+- [01:37:10,300 - 01:37:11,300] Okay?
+- [01:37:11,300 - 01:37:13,300] So this makes sense to
+- [01:37:13,300 - 01:37:15,300] call this the average of F.
+- [01:37:15,300 - 01:37:20,300] But we see now a quantum mechanical version
+- [01:37:20,300 - 01:37:23,300] of this formula over here,
+- [01:37:23,300 - 01:37:28,300] in which, as I said, sum is replaced by trace,
+- [01:37:28,300 - 01:37:32,300] and probability distribution is replaced by rho.
+- [01:37:36,300 - 01:37:38,300] Here's a little theorem that you can prove.
+- [01:37:38,300 - 01:37:40,300] It takes two seconds to prove.
+- [01:37:40,300 - 01:37:42,300] If you have the product of two operators,
+- [01:37:42,300 - 01:37:44,300] a and b,
+- [01:37:44,300 - 01:37:46,300] the trace of a times b
+- [01:37:46,300 - 01:37:49,300] is the same as the trace of b times a.
+- [01:37:49,300 - 01:37:51,300] Work that out.
+- [01:37:51,300 - 01:37:53,300] Even if a and b don't commute,
+- [01:37:53,300 - 01:37:55,300] the trace of the product,
+- [01:37:55,300 - 01:37:57,300] doesn't matter which way you order them,
+- [01:37:57,300 - 01:37:59,300] and so in fact it doesn't matter
+- [01:37:59,300 - 01:38:01,300] which way you order F and rho,
+- [01:38:01,300 - 01:38:05,300] trace of F times rho is the average.
+- [01:38:05,300 - 01:38:07,300] Okay.
+- [01:38:07,300 - 01:38:13,300] That gives us the concept of a density matrix.
+- [01:38:13,300 - 01:38:17,300] Let's just look at some analogies with P.
+- [01:38:17,300 - 01:38:21,300] First of all, the sum of P sub i
+- [01:38:21,300 - 01:38:23,300] should equal one.
+- [01:38:23,300 - 01:38:25,300] The analog is that the trace,
+- [01:38:25,300 - 01:38:29,300] is that the trace of rho is equal to one.
+- [01:38:29,300 - 01:38:33,300] Trace of rho is equal to one.
+- [01:38:33,300 - 01:38:41,300] So that's just another example of trace
+- [01:38:41,300 - 01:38:45,300] and sum being essentially the same thing.
+- [01:38:45,300 - 01:38:47,300] Good.
+- [01:38:47,300 - 01:38:49,300] Now I'm going to give you the concept,
+- [01:38:49,300 - 01:38:51,300] the quantum mechanical concept of entropy.
+- [01:38:51,300 - 01:38:53,300] This is the quantum mechanical entropy,
+- [01:38:53,300 - 01:38:55,300] and it's called the quantum mechanical entropy.
+- [01:38:55,300 - 01:38:59,300] The entropy of a given density matrix.
+- [01:38:59,300 - 01:39:02,300] Now first of all, the definition is such,
+- [01:39:02,300 - 01:39:04,300] that if you know what state you're in,
+- [01:39:04,300 - 01:39:06,300] only one of these rows is one,
+- [01:39:06,300 - 01:39:08,300] and all the others are zero,
+- [01:39:08,300 - 01:39:10,300] then the entropy is zero.
+- [01:39:10,300 - 01:39:12,300] For any quantum mechanical state,
+- [01:39:12,300 - 01:39:15,300] any real quantum mechanical state of the usual kind,
+- [01:39:15,300 - 01:39:17,300] the entropy is zero.
+- [01:39:17,300 - 01:39:20,300] The entropy is not zero,
+- [01:39:20,300 - 01:39:22,300] not because quantum mechanics has in it
+- [01:39:22,300 - 01:39:24,300] a built-in probabilistic aspect,
+- [01:39:24,300 - 01:39:26,300] but because you simply didn't know
+- [01:39:26,300 - 01:39:28,300] what state the system was made in.
+- [01:39:28,300 - 01:39:30,300] You weren't told.
+- [01:39:30,300 - 01:39:34,300] That's the source of entropy in quantum mechanics,
+- [01:39:34,300 - 01:39:36,300] lack of knowledge about the state,
+- [01:39:36,300 - 01:39:38,300] not lack of knowledge even if you knew the state.
+- [01:39:38,300 - 01:39:41,300] Okay, the answer for the entropy,
+- [01:39:41,300 - 01:39:43,300] the definition of the entropy,
+- [01:39:43,300 - 01:39:45,300] given a density matrix rho,
+- [01:39:45,300 - 01:39:47,300] first of all, here's how you use it
+- [01:39:47,300 - 01:39:49,300] to calculate averages,
+- [01:39:49,300 - 01:39:51,300] but second of all,
+- [01:39:51,300 - 01:39:53,300] the definition of the density matrix,
+- [01:39:53,300 - 01:39:56,300] well, let's first write down the classical formula.
+- [01:39:56,300 - 01:39:58,300] The classical formula was sum on i
+- [01:39:58,300 - 01:40:04,300] minus of p sub i log p sub i.
+- [01:40:04,300 - 01:40:06,300] Well, the answer is trace,
+- [01:40:06,300 - 01:40:11,300] minus the trace of the density matrix rho
+- [01:40:11,300 - 01:40:15,300] times the logarithm of the density matrix rho.
+- [01:40:15,300 - 01:40:20,300] What the hell is logarithm of a matrix anyway?
+- [01:40:20,300 - 01:40:23,300] Well, there's a general answer to that.
+- [01:40:23,300 - 01:40:24,800] But let me give you
+- [01:40:24,800 - 01:40:26,300] the answer in the simple case
+- [01:40:26,300 - 01:40:29,300] where the matrix can be brought to a diagonal form.
+- [01:40:29,300 - 01:40:32,300] If the matrix in some basis is diagonal,
+- [01:40:32,300 - 01:40:35,300] then the logarithm of the matrix
+- [01:40:35,300 - 01:40:37,300] is just the matrix made out of the logarithms
+- [01:40:37,300 - 01:40:40,300] of the eigenvalues.
+- [01:40:40,300 - 01:40:44,300] Log of rho,
+- [01:40:44,300 - 01:40:46,300] log rho one,
+- [01:40:46,300 - 01:40:48,300] log rho two,
+- [01:40:48,300 - 01:40:51,300] and so forth and so on.
+- [01:40:51,300 - 01:40:52,300] All right.
+- [01:40:52,300 - 01:40:54,300] So what is this?
+- [01:40:54,300 - 01:40:55,300] This is, of course,
+- [01:40:55,300 - 01:40:57,300] just the sum of the rho
+- [01:40:57,300 - 01:40:59,300] sub i's log rho sub i's,
+- [01:40:59,300 - 01:41:01,300] exactly as it is classically,
+- [01:41:01,300 - 01:41:04,300] but I've written it in a form now
+- [01:41:04,300 - 01:41:11,300] that is more appropriate for quantum mechanics
+- [01:41:11,300 - 01:41:14,300] as the trace of rho log rho,
+- [01:41:14,300 - 01:41:16,300] and so it has meaning in a vector space,
+- [01:41:16,300 - 01:41:20,300] not just as a classical probability distribution.
+- [01:41:20,300 - 01:41:23,300] So what is the definition of the entropy?
+- [01:41:23,300 - 01:41:25,300] It has the property
+- [01:41:25,300 - 01:41:27,300] that if only one and only
+- [01:41:27,300 - 01:41:29,300] one of the rows are non-zero,
+- [01:41:29,300 - 01:41:31,300] in which case it has to be one,
+- [01:41:31,300 - 01:41:33,300] because the trace of rho has to be one,
+- [01:41:33,300 - 01:41:36,300] if one and only one of them is non-zero,
+- [01:41:36,300 - 01:41:39,300] then the entropy is zero.
+- [01:41:39,300 - 01:41:40,300] Okay?
+- [01:41:40,300 - 01:41:43,300] One times log of one is equal to zero.
+- [01:41:43,300 - 01:41:46,300] If the probability distribution is uniform,
+- [01:41:46,300 - 01:41:48,300] all states having equal probability,
+- [01:41:48,300 - 01:41:50,300] that would be the case where this would be
+- [01:41:50,300 - 01:41:52,300] proportional to the unit matrix,
+- [01:41:52,300 - 01:41:55,300] then the entropy here is logarithm
+- [01:41:55,300 - 01:41:57,300] of the number of states,
+- [01:41:57,300 - 01:42:01,300] logarithm of the dimensionality of the space of states.
+- [01:42:01,300 - 01:42:03,300] So if you know nothing about the system,
+- [01:42:03,300 - 01:42:05,300] you don't know how it was prepared,
+- [01:42:05,300 - 01:42:06,300] or anything like that,
+- [01:42:06,300 - 01:42:09,300] then the entropy is just logarithm
+- [01:42:09,300 - 01:42:11,300] of the total number of states,
+- [01:42:11,300 - 01:42:13,300] which means the logarithm of the space of states,
+- [01:42:13,300 - 01:42:16,300] logarithm of the dimension of the space of states,
+- [01:42:16,300 - 01:42:19,300] and that's taking over
+- [01:42:19,300 - 01:42:22,300] practically directly
+- [01:42:22,300 - 01:42:25,300] from the classical concept of entropy,
+- [01:42:25,300 - 01:42:27,300] and it plays the same role.
+- [01:42:27,300 - 01:42:31,300] It's an indication of lack of knowledge of the system,
+- [01:42:31,300 - 01:42:33,300] knowledge that you could have,
+- [01:42:33,300 - 01:42:35,300] but that you don't have.
+- [01:42:35,300 - 01:42:37,300] In other words, the knowledge
+- [01:42:37,300 - 01:42:39,300] that is there to be gotten,
+- [01:42:39,300 - 01:42:44,300] but which you may have been too lazy to get.
+- [01:42:44,300 - 01:42:47,300] What's all of this have to do with entanglement?
+- [01:42:47,300 - 01:42:48,300] Well, I think we're going to
+- [01:42:48,300 - 01:42:49,300] have to do a little bit more
+- [01:42:49,300 - 01:42:50,300] of that,
+- [01:42:50,300 - 01:42:52,300] and I'm going to have to quit now.
+- [01:42:52,300 - 01:42:54,300] Next time, I'm going to show you
+- [01:42:54,300 - 01:42:56,300] what this has to do with entanglement,
+- [01:42:56,300 - 01:42:58,300] but basically I'll just outline it for you.
+- [01:42:58,300 - 01:42:59,800] When you have a system
+- [01:42:59,800 - 01:43:01,300] which is composed of many parts,
+- [01:43:01,300 - 01:43:05,300] or let's say two parts to be specific,
+- [01:43:05,300 - 01:43:08,300] you may be interested in only one of the parts
+- [01:43:08,300 - 01:43:10,300] and not look at the other part.
+- [01:43:10,300 - 01:43:14,300] You may have a system
+- [01:43:14,300 - 01:43:17,300] which consists of two entangled parts,
+- [01:43:17,300 - 01:43:19,300] they may or may not be entangled,
+- [01:43:19,300 - 01:43:22,300] in particular it's interesting when they are entangled,
+- [01:43:22,300 - 01:43:24,300] A and B,
+- [01:43:24,300 - 01:43:27,300] they're in some state which is an entangled state
+- [01:43:27,300 - 01:43:29,300] of the two systems,
+- [01:43:29,300 - 01:43:32,300] but you're only going to do experiments on A
+- [01:43:32,300 - 01:43:35,300] and ignore B altogether.
+- [01:43:35,300 - 01:43:38,300] Then the question is how do you describe A
+- [01:43:38,300 - 01:43:40,300] without reference to B?
+- [01:43:40,300 - 01:43:43,300] There must be some description that you can use
+- [01:43:43,300 - 01:43:48,300] for A which contains all possible experimental
+- [01:43:48,300 - 01:43:51,300] information that you could do on A
+- [01:43:51,300 - 01:43:54,300] if you're never interested in also looking at B,
+- [01:43:54,300 - 01:43:56,300] if you don't look at B.
+- [01:43:56,300 - 01:43:58,300] And the answer is you use
+- [01:43:58,300 - 01:44:00,300] a density matrix to describe A.
+- [01:44:00,300 - 01:44:03,300] If A and B are entangled,
+- [01:44:03,300 - 01:44:06,300] then the density matrix will have entropy.
+- [01:44:06,300 - 01:44:08,300] If A and B are not entangled,
+- [01:44:08,300 - 01:44:10,300] it will not have entropy.
+- [01:44:10,300 - 01:44:15,300] So one diagnostic for looking at a system
+- [01:44:15,300 - 01:44:17,300] or at a composite system
+- [01:44:17,300 - 01:44:19,300] to find out if things are entangled
+- [01:44:19,300 - 01:44:22,300] is to determine what's called
+- [01:44:22,300 - 01:44:25,300] the entanglement entropy of the two systems.
+- [01:44:25,300 - 01:44:28,300] And it's a measure of how badly entangled they are.
+- [01:44:28,300 - 01:44:29,300] We'll come to it next
+- [01:44:29,300 - 01:44:30,300] time and we'll work it out.
+- [01:44:30,300 - 01:44:32,300] And we'll work out some examples.
+- [01:44:32,300 - 01:44:35,300] I want to work out some real examples
+- [01:44:35,300 - 01:44:37,300] to show you how entanglement entropy
+- [01:44:37,300 - 01:44:40,300] codes the fact that systems are entangled.
+- [01:44:47,300 - 01:44:51,300] The preceding program is copyrighted by Stanford University.
+- [01:44:51,300 - 01:44:55,300] Please visit us at stanford.edu.
