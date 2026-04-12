@@ -23,6 +23,8 @@ generated_course_notes/
       lecture_01/
         analysis.md
         visual_notes.md
+        narrative_map.md
+        math_bank.md
         draft.tex
         content.tex
         lecture.tex
@@ -45,7 +47,8 @@ Defaults:
 - reasoning: `xhigh`
 - generation order: fully transcribed supplementary courses first, then core courses
 - when available, prompts also use local Susskind-authored PDFs from `susskind-books-and-lecture-notes/` as a style and notation reference
-- each lecture now runs through explicit stages: plan, visual equation/diagram extraction, LaTeX draft, refinement, compile, and course-book rebuild
+- each lecture now runs through explicit stages: frame review, plan, visual equation/diagram extraction, narrative map, math bank, LaTeX draft, refinement, compile, and course-book rebuild
 - after each material edit stage, the loop triggers a codex-driven commit/push step so progress is preserved incrementally
+- every prompt stage receives the corresponding lecture transcript path and the full transcript text for that lecture
 
 Runtime prompts, logs, and temporary compile artifacts live under `.lecture-notes-work/` and are intentionally not tracked.

@@ -1,7 +1,11 @@
 You are writing the first-pass LaTeX draft for a Leonard Susskind lecture-note chapter.
 
+Full task context:
+$task_context
+
 Primary objective:
 - produce polished, mathematically engaging notes that remain faithful to the lecture transcript and extracted frames
+- keep the lecture's narrative rhythm, including the order in which concepts are introduced and the way the lecturer motivates each new equation or construction
 
 Lecture metadata:
 - Course: $course_title
@@ -36,6 +40,7 @@ Writing rules:
 - do not copy long passages from the reference text
 - do not mention being an AI, attached images, or prompt instructions
 - prefer slightly too much mathematical structure over a thin conceptual outline; the next pass will refine style and flow
+- read the transcript as a narrated lecture, not just a bag of facts; preserve the speaker's progression, setup, and payoff
 
 Content requirements:
 - open with a short overview paragraph after the chapter heading
@@ -45,6 +50,7 @@ Content requirements:
 - include at least one figure or TikZ diagram when supported by the lecture
 - end with a short summary section
 - prefer smooth transitions and clear mathematical storytelling over transcript-like repetition
+- keep the order of sections close to the transcript unless a local merge or split materially improves comprehension
 
 Chapter plan:
 
@@ -53,6 +59,14 @@ $analysis_text
 Visual extraction notes:
 
 $visual_notes_text
+
+Narrative map:
+
+$narrative_map_text
+
+Math bank:
+
+$math_bank_text
 
 Transcript:
 

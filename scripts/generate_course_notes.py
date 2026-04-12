@@ -98,6 +98,15 @@ class LectureInfo:
     course_descriptor: str
 
 
+@dataclass
+class FrameSelection:
+    asset_path: Path
+    timestamp_seconds: float
+    source_candidate: str
+    recommended_use: str
+    rationale: str
+
+
 def humanize_slug(value: str) -> str:
     return value.replace("_", " ").strip().title()
 
@@ -110,6 +119,19 @@ def parse_ts(value: str) -> float:
 
 def transcript_text(path: Path) -> str:
     return path.read_text(encoding="utf-8")
+
+
+def build_task_context(lecture: LectureInfo) -> str:
+    return "\n".join(
+        [
+            f"- Final deliverable: a faithful, mathematically serious chapter for {lecture.course_title}, plus a per-course compiled PDF book.",
+            "- Primary source of truth: the matching lecture transcript; preserve its order, rhythm, motivation, and narrative progression.",
+            "- Visual evidence: selected lecture frames are only supporting evidence for equations, diagrams, and board layout; do not let them override the transcript.",
+            "- Mathematical standard: reconstruct cautiously when the lecture is partial, but avoid generic textbook filler that was not motivated by the lecture.",
+            "- Style target: notes should read like polished companion notes to Leonard Susskind's lecture, with explicit credit to Leonard Susskind and curation by LazyingArt LLC.",
+            "- Output discipline: each prompt stage should solve only its local subtask, but keep the full end goal in mind so downstream stages remain coherent.",
+        ]
+    )
 
 
 def parse_source_rel(md_text: str) -> str:
@@ -437,6 +459,35 @@ def choose_frame_times(md_text: str, max_frames: int) -> list[float]:
     return sorted(chosen[:max_frames])
 
 
+def format_seconds(seconds: float) -> str:
+    millis = int(round(max(0.0, seconds) * 1000))
+    hh, rem = divmod(millis, 3600 * 1000)
+    mm, rem = divmod(rem, 60 * 1000)
+    ss, ms = divmod(rem, 1000)
+    return f"{hh:02d}:{mm:02d}:{ss:02d}.{ms:03d}"
+
+
+def transcript_excerpt_around(md_text: str, timestamp: float, window: float = 45.0) -> str:
+    segments = transcript_segments(md_text)
+    nearby = [text for start, text in segments if abs(start - timestamp) <= window]
+    excerpt = " ".join(nearby[:6]).strip()
+    return re.sub(r"\s+", " ", excerpt)[:900] or "No nearby transcript excerpt."
+
+
+def choose_candidate_frame_times(md_text: str, max_frames: int) -> list[float]:
+    anchors = choose_frame_times(md_text, max_frames)
+    segments = transcript_segments(md_text)
+    max_time = segments[-1][0] if segments else 0.0
+    offsets = (-18.0, -9.0, 0.0, 9.0, 18.0)
+    candidates: list[float] = []
+    for anchor in anchors:
+        for offset in offsets:
+            candidate = max(0.0, min(max_time, anchor + offset))
+            if all(abs(candidate - existing) >= 3.0 for existing in candidates):
+                candidates.append(candidate)
+    return sorted(candidates)
+
+
 def run_command(
     cmd: list[str],
     cwd: Path | None = None,
@@ -468,24 +519,22 @@ def run_command(
     return completed
 
 
-def extract_frames(
+def extract_candidate_frames(
     lecture: LectureInfo,
-    course_root: Path,
-    max_frames: int,
-    force: bool,
-    md_text: str,
     runtime_dir: Path,
-) -> list[Path]:
-    assets_dir = course_root / "assets"
-    assets_dir.mkdir(parents=True, exist_ok=True)
-    ffmpeg_dir = runtime_dir / "ffmpeg"
+    candidate_times: list[float],
+    force: bool,
+) -> list[tuple[Path, float]]:
+    candidates_dir = runtime_dir / "candidate_frames"
+    candidates_dir.mkdir(parents=True, exist_ok=True)
+    ffmpeg_dir = runtime_dir / "ffmpeg_candidates"
     ffmpeg_dir.mkdir(parents=True, exist_ok=True)
 
-    chosen_times = choose_frame_times(md_text, max_frames)
-    extracted: list[Path] = []
-    for index, timestamp in enumerate(chosen_times, start=1):
-        basename = f"{lecture.lecture_slug}_frame_{index:02d}.png"
-        out_path = assets_dir / basename
+    extracted: list[tuple[Path, float]] = []
+    for index, timestamp in enumerate(candidate_times, start=1):
+        stamp = format_seconds(timestamp).replace(":", "").replace(".", "")
+        basename = f"{lecture.lecture_slug}_candidate_{index:02d}_{stamp}.png"
+        out_path = candidates_dir / basename
         if force or not out_path.exists():
             ffmpeg_stdout = ffmpeg_dir / f"{basename}.stdout.log"
             ffmpeg_stderr = ffmpeg_dir / f"{basename}.stderr.log"
@@ -503,8 +552,111 @@ def extract_frames(
                 str(out_path),
             ]
             run_command(cmd, stdout_path=ffmpeg_stdout, stderr_path=ffmpeg_stderr)
-        extracted.append(out_path)
+        extracted.append((out_path, timestamp))
     return extracted
+
+
+def parse_json_payload(text: str) -> dict:
+    cleaned = strip_code_fences(text)
+    try:
+        return json.loads(cleaned)
+    except json.JSONDecodeError:
+        start = cleaned.find("{")
+        end = cleaned.rfind("}")
+        if start >= 0 and end > start:
+            return json.loads(cleaned[start:end + 1])
+        raise
+
+
+def select_frames_with_codex(
+    repo_root: Path,
+    lecture: LectureInfo,
+    course_root: Path,
+    runtime_dir: Path,
+    model: str,
+    reasoning: str,
+    md_text: str,
+    max_frames: int,
+    force: bool,
+) -> list[FrameSelection]:
+    assets_dir = course_root / "assets"
+    assets_dir.mkdir(parents=True, exist_ok=True)
+
+    candidate_times = choose_candidate_frame_times(md_text, max_frames=max_frames)
+    candidates = extract_candidate_frames(lecture, runtime_dir, candidate_times, force=force)
+    candidate_lines = []
+    for path, timestamp in candidates:
+        candidate_lines.append(
+            f"- {path.name} | {format_seconds(timestamp)} | {transcript_excerpt_around(md_text, timestamp)}"
+        )
+
+    prompt_text = read_template(repo_root / "scripts" / "prompts" / "lecture_notes" / "frame_review_prompt.txt").substitute(
+        task_context=build_task_context(lecture),
+        course_title=lecture.course_title,
+        course_descriptor=lecture.course_descriptor,
+        lecture_title=lecture.lecture_title,
+        transcript_rel=lecture.transcript_rel,
+        video_rel=lecture.video_rel,
+        max_frames=max_frames,
+        candidate_list="\n".join(candidate_lines),
+    )
+    selection_path = runtime_dir / "frame_selection.json"
+    run_codex_prompt(
+        repo_root=repo_root,
+        prompt_text=prompt_text,
+        output_path=selection_path,
+        runtime_dir=runtime_dir,
+        log_prefix="frame_review",
+        model=model,
+        reasoning=reasoning,
+        images=[path for path, _timestamp in candidates],
+    )
+
+    candidate_map = {path.name: (path, timestamp) for path, timestamp in candidates}
+    try:
+        payload = parse_json_payload(selection_path.read_text(encoding="utf-8"))
+        raw_selected = payload.get("selected", [])
+    except Exception:
+        raw_selected = []
+
+    selected: list[FrameSelection] = []
+    used_candidates: set[str] = set()
+    for index, item in enumerate(raw_selected, start=1):
+        candidate_name = str(item.get("candidate", "")).strip()
+        if candidate_name not in candidate_map or candidate_name in used_candidates:
+            continue
+        candidate_path, timestamp = candidate_map[candidate_name]
+        asset_path = assets_dir / f"{lecture.lecture_slug}_frame_{index:02d}.png"
+        shutil.copyfile(candidate_path, asset_path)
+        selected.append(
+            FrameSelection(
+                asset_path=asset_path,
+                timestamp_seconds=float(item.get("timestamp_seconds", timestamp)),
+                source_candidate=candidate_name,
+                recommended_use=str(item.get("recommended_use", "figure")).strip() or "figure",
+                rationale=str(item.get("reason", "")).strip(),
+            )
+        )
+        used_candidates.add(candidate_name)
+        if len(selected) >= max_frames:
+            break
+
+    if not selected:
+        fallback_candidates = candidates[:max_frames]
+        for index, (candidate_path, timestamp) in enumerate(fallback_candidates, start=1):
+            asset_path = assets_dir / f"{lecture.lecture_slug}_frame_{index:02d}.png"
+            shutil.copyfile(candidate_path, asset_path)
+            selected.append(
+                FrameSelection(
+                    asset_path=asset_path,
+                    timestamp_seconds=timestamp,
+                    source_candidate=candidate_path.name,
+                    recommended_use="figure",
+                    rationale="Fallback selection without successful image-review parse.",
+                )
+            )
+
+    return selected
 
 
 def read_template(path: Path) -> Template:
@@ -584,7 +736,7 @@ def commit_generated_step(
     run_command(cmd, cwd=repo_root, stdout_path=stdout_file, stderr_path=stderr_file)
 
 
-def write_metadata(lecture: LectureInfo, lecture_dir: Path, assets: list[Path]) -> None:
+def write_metadata(lecture: LectureInfo, lecture_dir: Path, selections: list[FrameSelection]) -> None:
     metadata = {
         "course_rel": lecture.course_rel,
         "transcript_rel": lecture.transcript_rel,
@@ -592,7 +744,17 @@ def write_metadata(lecture: LectureInfo, lecture_dir: Path, assets: list[Path]) 
         "lecture_number": lecture.lecture_number,
         "lecture_slug": lecture.lecture_slug,
         "lecture_title": lecture.lecture_title,
-        "assets": [asset.name for asset in assets],
+        "assets": [
+            {
+                "name": selection.asset_path.name,
+                "timestamp_seconds": selection.timestamp_seconds,
+                "timestamp_hhmmss": format_seconds(selection.timestamp_seconds),
+                "source_candidate": selection.source_candidate,
+                "recommended_use": selection.recommended_use,
+                "rationale": selection.rationale,
+            }
+            for selection in selections
+        ],
     }
     (lecture_dir / "metadata.json").write_text(json.dumps(metadata, indent=2) + "\n", encoding="utf-8")
 
@@ -737,8 +899,19 @@ def generate_one_lecture(
     course_runtime.mkdir(parents=True, exist_ok=True)
 
     ensure_common_preamble(course_root, template_path)
-    assets = extract_frames(lecture, course_root, max_frames=max_frames, force=force, md_text=md_text, runtime_dir=course_runtime)
-    write_metadata(lecture, lecture_dir, assets)
+    selections = select_frames_with_codex(
+        repo_root=repo_root,
+        lecture=lecture,
+        course_root=course_root,
+        runtime_dir=course_runtime,
+        model=model,
+        reasoning=reasoning,
+        md_text=md_text,
+        max_frames=max_frames,
+        force=force,
+    )
+    assets = [selection.asset_path for selection in selections]
+    write_metadata(lecture, lecture_dir, selections)
     print(f"Step complete: extracted frames and metadata for {lecture_key}; committing and pushing.")
     commit_generated_step(
         repo_root=repo_root,
@@ -749,9 +922,13 @@ def generate_one_lecture(
     )
     book_reference_text = collect_reference_excerpt(lecture, md_text, reference_pdf_dir, runtime_root)
 
-    asset_list_text = "\n".join(f"- {asset.name}" for asset in assets) or "- none"
+    asset_list_text = "\n".join(
+        f"- {selection.asset_path.name} | {format_seconds(selection.timestamp_seconds)} | {selection.recommended_use} | {selection.rationale or 'No rationale provided.'}"
+        for selection in selections
+    ) or "- none"
 
     analysis_prompt = read_template(prompt_root / "analysis_prompt.txt").substitute(
+        task_context=build_task_context(lecture),
         course_title=lecture.course_title,
         course_descriptor=lecture.course_descriptor,
         lecture_title=lecture.lecture_title,
@@ -782,6 +959,7 @@ def generate_one_lecture(
     )
 
     visual_prompt = read_template(prompt_root / "visual_notes_prompt.txt").substitute(
+        task_context=build_task_context(lecture),
         course_title=lecture.course_title,
         course_descriptor=lecture.course_descriptor,
         lecture_title=lecture.lecture_title,
@@ -810,7 +988,68 @@ def generate_one_lecture(
         paths=[visual_notes_path],
     )
 
+    narrative_prompt = read_template(prompt_root / "narrative_map_prompt.txt").substitute(
+        task_context=build_task_context(lecture),
+        course_title=lecture.course_title,
+        course_descriptor=lecture.course_descriptor,
+        lecture_title=lecture.lecture_title,
+        transcript_rel=lecture.transcript_rel,
+        video_rel=lecture.video_rel,
+        analysis_text=analysis_path.read_text(encoding="utf-8"),
+        transcript_text=md_text,
+    )
+    narrative_map_path = lecture_dir / "narrative_map.md"
+    run_codex_prompt(
+        repo_root=repo_root,
+        prompt_text=narrative_prompt,
+        output_path=narrative_map_path,
+        runtime_dir=course_runtime,
+        log_prefix="narrative_map",
+        model=model,
+        reasoning=reasoning,
+    )
+    print(f"Step complete: wrote narrative map for {lecture_key}; committing and pushing.")
+    commit_generated_step(
+        repo_root=repo_root,
+        runtime_dir=course_runtime,
+        log_prefix="commit_narrative",
+        commit_message=f"Add narrative map for {lecture_key}",
+        paths=[narrative_map_path],
+    )
+
+    math_bank_prompt = read_template(prompt_root / "math_bank_prompt.txt").substitute(
+        task_context=build_task_context(lecture),
+        course_title=lecture.course_title,
+        course_descriptor=lecture.course_descriptor,
+        lecture_title=lecture.lecture_title,
+        transcript_rel=lecture.transcript_rel,
+        video_rel=lecture.video_rel,
+        analysis_text=analysis_path.read_text(encoding="utf-8"),
+        visual_notes_text=visual_notes_path.read_text(encoding="utf-8"),
+        transcript_text=md_text,
+    )
+    math_bank_path = lecture_dir / "math_bank.md"
+    run_codex_prompt(
+        repo_root=repo_root,
+        prompt_text=math_bank_prompt,
+        output_path=math_bank_path,
+        runtime_dir=course_runtime,
+        log_prefix="math_bank",
+        model=model,
+        reasoning=reasoning,
+        images=assets,
+    )
+    print(f"Step complete: wrote math bank for {lecture_key}; committing and pushing.")
+    commit_generated_step(
+        repo_root=repo_root,
+        runtime_dir=course_runtime,
+        log_prefix="commit_math_bank",
+        commit_message=f"Add math bank for {lecture_key}",
+        paths=[math_bank_path],
+    )
+
     chapter_prompt = read_template(prompt_root / "chapter_tex_prompt.txt").substitute(
+        task_context=build_task_context(lecture),
         course_title=lecture.course_title,
         course_descriptor=lecture.course_descriptor,
         lecture_title=lecture.lecture_title,
@@ -821,6 +1060,8 @@ def generate_one_lecture(
         book_reference_text=book_reference_text,
         analysis_text=analysis_path.read_text(encoding="utf-8"),
         visual_notes_text=visual_notes_path.read_text(encoding="utf-8"),
+        narrative_map_text=narrative_map_path.read_text(encoding="utf-8"),
+        math_bank_text=math_bank_path.read_text(encoding="utf-8"),
         transcript_text=md_text,
     )
     draft_path = lecture_dir / "draft.tex"
@@ -844,6 +1085,7 @@ def generate_one_lecture(
     )
 
     refine_prompt = read_template(prompt_root / "refine_chapter_prompt.txt").substitute(
+        task_context=build_task_context(lecture),
         course_title=lecture.course_title,
         course_descriptor=lecture.course_descriptor,
         lecture_title=lecture.lecture_title,
@@ -853,6 +1095,8 @@ def generate_one_lecture(
         asset_list=asset_list_text,
         analysis_text=analysis_path.read_text(encoding="utf-8"),
         visual_notes_text=visual_notes_path.read_text(encoding="utf-8"),
+        narrative_map_text=narrative_map_path.read_text(encoding="utf-8"),
+        math_bank_text=math_bank_path.read_text(encoding="utf-8"),
         draft_tex=draft_path.read_text(encoding="utf-8"),
         transcript_text=md_text,
     )
@@ -879,6 +1123,7 @@ def generate_one_lecture(
     write_lecture_wrapper(lecture, lecture_dir)
     if not compile_tex("lecture.tex", lecture_dir, course_runtime, "lecture_compile"):
         fix_prompt = read_template(prompt_root / "compile_fix_prompt.txt").substitute(
+            task_context=build_task_context(lecture),
             course_title=lecture.course_title,
             lecture_title=lecture.lecture_title,
             transcript_rel=lecture.transcript_rel,

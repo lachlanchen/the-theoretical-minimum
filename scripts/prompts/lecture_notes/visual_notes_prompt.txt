@@ -1,5 +1,8 @@
 You are inspecting extracted lecture frames from a Leonard Susskind lecture and converting the visible mathematics and sketches into a usable note-writing brief.
 
+Full task context:
+$task_context
+
 Goal:
 - read the attached lecture frames as visual evidence
 - identify equations, labels, diagrams, and board structure that should be preserved

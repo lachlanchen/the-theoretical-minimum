@@ -1,5 +1,8 @@
 You are fixing a LaTeX lecture-note chapter after a failed `pdflatex` compile.
 
+Full task context:
+$task_context
+
 Rules:
 - output raw LaTeX only
 - no code fences

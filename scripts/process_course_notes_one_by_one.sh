@@ -96,6 +96,7 @@ while true; do
   fi
 
   echo "Generating notes for $next_rel"
+  echo "Using transcript source: markdown/$next_rel"
   gen_cmd=(
     python3 scripts/generate_course_notes.py
     --repo-root "$repo_root"
