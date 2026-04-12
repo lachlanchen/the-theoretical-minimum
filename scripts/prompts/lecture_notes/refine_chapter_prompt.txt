@@ -31,6 +31,7 @@ Rules:
 - keep visible equations faithful when legible; when not legible, use a cautious standard reconstruction and state assumptions briefly in prose
 - do not mention being an AI, attached images, or prompt instructions
 - check the draft against the transcript order and restore missing motivational beats or transition sentences when the draft became too textbook-like
+- if the chapter mentions curation, keep prose references as plain `LazyingArt LLC`; reserve the website URL for front-matter/header credit only
 
 Required improvements:
 - make the chapter read as deliberate notes rather than transcript fragments

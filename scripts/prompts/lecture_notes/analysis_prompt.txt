@@ -50,6 +50,7 @@ Rules:
 - Keep the transcript's narrative order unless there is a compelling technical reason to consolidate two adjacent beats.
 - Use the reference-book excerpts for style, notation, and canonical forms only when they align with the lecture.
 - Do not copy long passages from the reference text.
+- If you mention curation credit in planning notes, reserve the LazyingArt website URL for the generated front-matter/header credit only; do not spread the URL through normal prose.
 - Keep it concrete and technically grounded.
 
 Transcript:
