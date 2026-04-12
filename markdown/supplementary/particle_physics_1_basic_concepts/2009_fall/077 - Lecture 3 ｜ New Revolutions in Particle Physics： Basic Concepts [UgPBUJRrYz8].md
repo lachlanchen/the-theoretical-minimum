@@ -1,0 +1,2545 @@
+# Transcript
+
+Source: supplementary/particle_physics_1_basic_concepts/2009_fall/077 - Lecture 3 ｜ New Revolutions in Particle Physics： Basic Concepts [UgPBUJRrYz8].mkv
+
+- [00:00:00,000 - 00:00:07,520] Stanford University.
+- [00:00:07,520 - 00:00:10,860] All right. So the last time we were beginning
+- [00:00:10,860 - 00:00:14,200] to get to the idea of a quantum field.
+- [00:00:14,200 - 00:00:16,680] And that's what I want to get to today.
+- [00:00:16,680 - 00:00:18,640] What is a quantum field?
+- [00:00:18,640 - 00:00:20,840] How is it related to particles?
+- [00:00:20,840 - 00:00:23,300] We spent a little bit
+- [00:00:23,300 - 00:00:25,760] of time talking about harmonic oscillators.
+- [00:00:25,760 - 00:00:30,680] And the basic mathematical tool for quantum fields,
+- [00:00:30,680 - 00:00:35,600] for any kind of fields, well, quantum fields,
+- [00:00:35,600 - 00:00:39,480] for any kind of quantum fields is the harmonic
+- [00:00:39,480 - 00:00:43,360] oscillator and putting oscillators together to make quantum fields.
+- [00:00:43,360 - 00:00:53,680] So we talked about fields on a periodic space.
+- [00:00:53,680 - 00:00:55,520] I'm not going to draw the periodic space.
+- [00:00:55,520 - 00:00:58,040] The periodic space is one which after you
+- [00:00:58,040 - 00:01:00,560] go a distance L comes back to itself.
+- [00:01:00,560 - 00:01:02,560] It's a useful trick.
+- [00:01:02,560 - 00:01:05,160] And the reason it's a useful trick,
+- [00:01:05,160 - 00:01:07,760] better than just taking a finite line interval,
+- [00:01:07,760 - 00:01:10,760] is because when you have a periodic space,
+- [00:01:10,760 - 00:01:13,760] you can have waves which go in one direction,
+- [00:01:13,760 - 00:01:16,000] or waves which go in
+- [00:01:16,000 - 00:01:18,240] the other direction, without reflecting.
+- [00:01:18,240 - 00:01:21,680] And that is the analog of momentum.
+- [00:01:21,680 - 00:01:24,320] It's not the analog. It is momentum conservation.
+- [00:01:24,320 - 00:01:25,440] So if you want to retain momentum,
+- [00:01:25,440 - 00:01:27,440] it's a good idea.
+- [00:01:27,440 - 00:01:29,440] If you want to maintain momentum conservation,
+- [00:01:29,440 - 00:01:33,440] and temporarily put a system in a finite box,
+- [00:01:33,440 - 00:01:35,440] so that you don't have
+- [00:01:35,440 - 00:01:37,440] an infinite volume to worry about,
+- [00:01:37,440 - 00:01:40,440] then the right way to
+- [00:01:40,440 - 00:01:43,440] do it is periodic boundary conditions.
+- [00:01:43,440 - 00:01:49,440] And under those circumstances, a wave, a plane wave,
+- [00:01:49,440 - 00:01:51,440] instead of being sines and cosines,
+- [00:01:51,440 - 00:01:53,440] will be of the form e to the i,
+- [00:01:53,440 - 00:01:55,440] of the i to the i.
+- [00:01:55,440 - 00:02:11,480] k might be наблюдating the world on
+- [00:02:11,480 - 00:02:15,280] and on.
+- [00:02:15,280 - 00:02:19,440] But to get that momentumої
+- [00:02:19,440 - 00:02:21,440] over the right threshold,
+- [00:02:21,440 - 00:02:23,440] something that's stationary,
+- [00:02:23,440 - 00:02:24,240] then,
+- [00:02:24,240 - 00:02:27,120] of something or other in order that the wave,
+- [00:02:27,120 - 00:02:30,000] when it comes back to itself after going around
+- [00:02:30,000 - 00:02:33,140] a distance l, that the wave
+- [00:02:33,140 - 00:02:36,280] comes back to its own original value.
+- [00:02:36,280 - 00:02:39,420] So if we say that x, and going all the
+- [00:02:39,420 - 00:02:42,560] ways around, I said I wouldn't draw it, but I did,
+- [00:02:42,560 - 00:02:47,060] the distance around is l, then e
+- [00:02:47,060 - 00:02:51,560] to the i, kl, must be what?
+- [00:02:54,240 - 00:03:01,340] It's got to be 1.
+- [00:03:01,340 - 00:03:02,340] It's got to be 1.
+- [00:03:02,340 - 00:03:05,800] At x equals 0, here's x equals
+- [00:03:05,800 - 00:03:09,260] 0 right over here, this function is 1.
+- [00:03:09,260 - 00:03:12,680] When x equals 0, any exponential of x is 1.
+- [00:03:12,680 - 00:03:15,270] And when it goes all the ways
+- [00:03:15,270 - 00:03:17,860] around, it better come back to itself.
+- [00:03:17,860 - 00:03:20,520] So that means that e to the i,
+- [00:03:20,520 - 00:03:23,180] kl, must equal e to the l, kl, l.
+- [00:03:23,180 - 00:03:24,180] Okay?
+- [00:03:24,180 - 00:03:24,220] Yeah?
+- [00:03:24,240 - 00:03:28,680] say ik0, x equals 0, x equals l, e to
+- [00:03:28,680 - 00:03:33,120] the ik0 is just 1, and what does that mean?
+- [00:03:33,120 - 00:03:38,520] e to the ikl equals 1. What does that
+- [00:03:38,520 - 00:03:43,920] say? That says that k times l must be an
+- [00:03:43,920 - 00:03:51,480] integer multiple of 2pi. e to the 2pi is
+- [00:03:51,480 - 00:03:54,859] equal to 1, how do I know that? Well we
+- [00:03:54,859 - 00:03:56,980] can just work it out, remember what the
+- [00:03:56,980 - 00:04:00,040] exponential means? It means the cosine of
+- [00:04:00,040 - 00:04:07,320] 2pi plus i times
+- [00:04:07,320 - 00:04:13,320] sin2pi. The cosine of 2pi is 1,
+- [00:04:13,320 - 00:04:13,880] and
+- [00:04:13,880 - 00:04:18,220] sine of 2 pi is 0, and so indeed this
+- [00:04:18,220 - 00:04:22,560] is equal to 1, and in fact if you put any
+- [00:04:22,560 - 00:04:26,050] multiple of 2 pi here, it's also 1. So
+- [00:04:26,050 - 00:04:29,540] as long as KL is an integer multiple of 2
+- [00:04:29,540 - 00:04:33,230] pi, this is a periodic function. e to the
+- [00:04:33,230 - 00:04:36,920] i kx is a periodic function. So k times l
+- [00:04:36,920 - 00:04:41,210] must be equal to 2 pi times an
+- [00:04:41,210 - 00:04:45,500] integer, and let's call that integer n. This
+- [00:04:45,500 - 00:04:48,200] integer should be distinguished from another
+- [00:04:48,200 - 00:04:50,900] n which will occur later. It's
+- [00:04:50,900 - 00:04:53,660] the n which counts the
+- [00:04:53,660 - 00:04:56,420] number of quanta of each type.
+- [00:04:56,420 - 00:04:59,120] Alright, this is not counting the
+- [00:04:59,120 - 00:05:01,820] number of quanta of particles, it's just
+- [00:05:01,820 - 00:05:03,670] counting the allowable wave numbers.
+- [00:05:03,670 - 00:05:05,520] This is called the wave number.
+- [00:05:06,920 - 00:05:13,760] And so k times l is 2 n pi, or
+- [00:05:13,760 - 00:05:20,600] k must be 2 pi n over l. That's the
+- [00:05:20,600 - 00:05:23,750] condition on k that when you go
+- [00:05:23,750 - 00:05:26,900] around, the function comes back to itself. So
+- [00:05:26,900 - 00:05:28,900] that's one thing. Incidentally, this is
+- [00:05:28,900 - 00:05:30,900] exactly the same thing as the
+- [00:05:30,900 - 00:05:33,600] quantization of the wavelength, saying the
+- [00:05:33,600 - 00:05:36,300] wavelength has to fit in an
+- [00:05:36,300 - 00:05:36,800] integer.
+- [00:05:36,920 - 00:05:38,840] So you can get an integer multiple of
+- [00:05:38,840 - 00:05:40,760] times by the time you come back. What's
+- [00:05:40,760 - 00:05:42,760] the connection between k and wavelength?
+- [00:05:42,760 - 00:05:48,660] Yeah, the wavelength is inverse to k.
+- [00:05:48,660 - 00:05:54,560] There's a 2 pi in the relationship.
+- [00:05:54,560 - 00:06:00,650] l, yeah, if we turn this over, it's 1 over
+- [00:06:00,650 - 00:06:06,740] k equals l divided by 2 pi n. Oh, well, you
+- [00:06:06,740 - 00:06:06,840] can work with that.
+- [00:06:06,840 - 00:06:06,900] Yeah.
+- [00:06:06,900 - 00:06:11,180] I'll let you work that out. This is
+- [00:06:11,180 - 00:06:15,460] the condition on k. It is equivalent to the
+- [00:06:15,460 - 00:06:18,200] condition that the wavelength be quantized so
+- [00:06:18,200 - 00:06:20,940] that it just fits into the circle an
+- [00:06:20,940 - 00:06:24,160] integer number of times. So these are
+- [00:06:24,160 - 00:06:27,380] the kind of waves you can have periodically.
+- [00:06:27,380 - 00:06:31,880] If we are talking about the waves
+- [00:06:31,880 - 00:06:36,380] that are associated with some quanta, then we
+- [00:06:36,900 - 00:06:38,819] can't just say that k is equal to the momenta.
+- [00:06:38,819 - 00:06:40,739] I guess we better work that out. I guess we
+- [00:06:40,739 - 00:06:46,069] better work out the relation between k
+- [00:06:46,069 - 00:06:51,400] and the wavelength. What is the wavelength associated
+- [00:06:51,400 - 00:06:55,670] with a wave like this? Well, it's the distance you
+- [00:06:55,670 - 00:06:59,940] have to move before e to the i goes to
+- [00:06:59,940 - 00:07:03,320] one full cycle. So if I want to find
+- [00:07:03,320 - 00:07:06,700] out the wavelength of an object like this, I'm going
+- [00:07:06,700 - 00:07:11,300] to do this. The wavelength of this kind of wave,
+- [00:07:11,300 - 00:07:15,900] I just say that k times x, or k times
+- [00:07:15,900 - 00:07:20,840] the wavelength has to be k times the wavelength.
+- [00:07:20,840 - 00:07:25,780] Wavelength lambda has to be 2 pi, or k is
+- [00:07:25,780 - 00:07:29,260] the same thing as 2 pi divided by the wavelength.
+- [00:07:29,260 - 00:07:32,940] So that's the relation between k and wavelength.
+- [00:07:32,940 - 00:07:36,620] When wavelength is big, k is small. When wavelength
+- [00:07:36,620 - 00:07:38,780] is small, k is big. And there's a
+- [00:07:38,780 - 00:07:40,940] 2 pi relating them, but they're closely related.
+- [00:07:40,940 - 00:07:43,820] All right, so that's the relation between
+- [00:07:43,820 - 00:07:46,700] k and wavelength. Does anybody remember the
+- [00:07:46,700 - 00:07:49,200] relationship between the wavelength of a
+- [00:07:49,200 - 00:07:51,700] photon or anything else and its momentum?
+- [00:07:51,700 - 00:07:55,200] Right. Momentum of a particle, we're making
+- [00:07:55,200 - 00:07:58,700] a bunch of connections. Momentum of a particle
+- [00:08:02,200 - 00:08:05,700] described by a given quantum mechanical wave.
+- [00:08:06,620 - 00:08:11,160] The momentum of a particle is equal also
+- [00:08:11,160 - 00:08:15,700] to what? h bar, well, h divided by lambda,
+- [00:08:15,700 - 00:08:16,700] is that right?
+- [00:08:16,700 - 00:08:19,700] From last time, yes. We did that.
+- [00:08:19,700 - 00:08:22,390] Yeah, h over lambda, but I can express that
+- [00:08:22,390 - 00:08:25,080] in terms of h bar, and then there would be
+- [00:08:25,080 - 00:08:30,580] a 2 pi h bar over lambda. So
+- [00:08:30,580 - 00:08:36,080] you can see that p and k are essential.
+- [00:08:36,620 - 00:08:40,120] So you can see that p and k are
+- [00:08:40,120 - 00:08:43,620] essentially the same thing except for a factor of k.
+- [00:08:43,620 - 00:08:47,120] Sorry, except for a factor of h bar.
+- [00:08:47,120 - 00:08:50,620] In particular, momentum is h bar times k.
+- [00:08:55,540 - 00:08:58,490] So if I have a wave described, this is
+- [00:08:58,490 - 00:09:01,440] called the wave number. k is called the wave number.
+- [00:09:01,440 - 00:09:04,010] If the wave number, and it can be
+- [00:09:04,010 - 00:09:06,580] positive or negative, waves moving to the left, moving
+- [00:09:06,580 - 00:09:09,540] to the right, corresponding to momenta
+- [00:09:09,540 - 00:09:12,500] going to the left or the right.
+- [00:09:12,500 - 00:09:16,000] So that's the basic wave on a circle,
+- [00:09:16,000 - 00:09:19,500] if you like, or wave on a periodic space.
+- [00:09:23,200 - 00:09:26,700] Now, for each such kind of wave,
+- [00:09:26,700 - 00:09:30,200] there can be quanta, quanta corresponding to particles.
+- [00:09:30,200 - 00:09:33,700] How do we describe those quanta? Well, we
+- [00:09:33,700 - 00:09:37,200] just describe the number of quanta with momentum
+- [00:09:37,200 - 00:09:40,700] p, or equivalently, the number of quanta with
+- [00:09:40,700 - 00:09:44,200] a given wave number k. How many quanta are
+- [00:09:44,200 - 00:09:47,700] there with a given wave number k? Since k
+- [00:09:47,700 - 00:09:51,200] is itself an integer, we have to specify an
+- [00:09:51,200 - 00:09:54,700] integer that is equal to the number of quanta
+- [00:09:54,700 - 00:09:58,200] with momentum p. So we can write this as the
+- [00:09:58,200 - 00:09:58,920] number of quanta.
+- [00:09:58,920 - 00:09:59,320] Okay.
+- [00:09:59,320 - 00:09:59,820] Okay.
+- [00:10:00,200 - 00:10:03,700] For each integer. One of those integers is
+- [00:10:03,700 - 00:10:07,200] just related to the wave number. The other
+- [00:10:08,360 - 00:10:11,860] integer is called the occupation number.
+- [00:10:11,860 - 00:10:15,360] The number of quanta occupying that particular
+- [00:10:16,800 - 00:10:19,710] wave, if you like, or that particular wavelength.
+- [00:10:19,710 - 00:10:22,620] All right, so there are n's which correspond
+- [00:10:22,620 - 00:10:26,120] to the quantization of momentum, but there
+- [00:10:26,120 - 00:10:29,620] are also n's which correspond to the, um,
+- [00:10:30,200 - 00:10:33,700] to the number of quanta with each
+- [00:10:33,700 - 00:10:37,200] momentum. Those are called occupation numbers. So I
+- [00:10:37,200 - 00:10:41,700] could write, and I will write, n of k, this
+- [00:10:41,700 - 00:10:46,200] is a different n now, n of k, k is itself
+- [00:10:47,580 - 00:10:51,080] quantized, but n of k is the number of
+- [00:10:51,080 - 00:10:54,580] particles, or the number of quanta with wave number k,
+- [00:10:57,200 - 00:10:57,700] which in effect means with momentum p, and with
+- [00:10:57,700 - 00:10:58,200] the wave number k, we get the number of particles.
+- [00:10:58,200 - 00:10:58,400] Okay.
+- [00:10:58,400 - 00:10:58,520] Okay.
+- [00:10:58,520 - 00:10:58,660] Okay.
+- [00:10:58,660 - 00:10:58,840] Okay.
+- [00:10:58,840 - 00:10:58,940] Okay.
+- [00:10:58,940 - 00:10:59,160] Okay.
+- [00:10:59,160 - 00:10:59,200] Okay.
+- [00:10:59,200 - 00:10:59,320] Okay.
+- [00:10:59,320 - 00:10:59,440] Okay.
+- [00:10:59,440 - 00:10:59,620] Okay.
+- [00:10:59,620 - 00:10:59,760] Okay.
+- [00:10:59,760 - 00:10:59,840] Okay.
+- [00:10:59,840 - 00:10:59,920] Okay.
+- [00:10:59,920 - 00:10:59,960] Okay.
+- [00:10:59,960 - 00:11:00,040] Okay.
+- [00:11:00,040 - 00:11:00,200] Okay.
+- [00:11:00,200 - 00:11:03,150] but just remember there is a relay that P
+- [00:11:03,150 - 00:11:06,100] and K happen to be related by H bar.
+- [00:11:06,580 - 00:11:10,020] Of course, if I'm smart, I choose
+- [00:11:10,020 - 00:11:13,460] units in which K is equal to 1,
+- [00:11:13,640 - 00:11:15,080] not K is equal to 1,
+- [00:11:15,080 - 00:11:16,520] H bar is equal to 1,
+- [00:11:17,380 - 00:11:19,000] and then K and P are the same thing.
+- [00:11:20,040 - 00:11:22,990] So we often don't even bother
+- [00:11:22,990 - 00:11:25,940] to distinguish between wave number and momentum.
+- [00:11:26,280 - 00:11:29,420] We speak of K as the momentum of the particle,
+- [00:11:29,420 - 00:11:33,780] so it doesn't matter whether the
+- [00:11:33,780 - 00:11:38,140] momentum is that way or this way.
+- [00:11:38,660 - 00:11:40,240] Well, it's K positive and K negative.
+- [00:11:40,839 - 00:11:43,919] Right, and that's a factor into your
+- [00:11:43,919 - 00:11:47,000] description of the field as its occupation numbers.
+- [00:11:47,560 - 00:11:50,180] Yeah, so you have a collection of
+- [00:11:50,180 - 00:11:52,800] occupation numbers for every value of K,
+- [00:11:52,979 - 00:11:55,099] including negative and positive numbers.
+- [00:11:55,860 - 00:11:56,339] Okay, yeah.
+- [00:11:57,380 - 00:11:57,939] Michael.
+- [00:11:58,640 - 00:11:59,400] Yeah, just a question.
+- [00:11:59,420 - 00:12:00,879] Can you clarify K itself,
+- [00:12:00,879 - 00:12:02,339] I think, is not an integer,
+- [00:12:02,599 - 00:12:06,060] it's just a multiple of 2 pi over L.
+- [00:12:06,400 - 00:12:08,199] K is not itself an integer.
+- [00:12:10,060 - 00:12:11,760] Wave number is not an integer.
+- [00:12:11,920 - 00:12:13,199] Wave number is not an integer.
+- [00:12:13,640 - 00:12:15,660] It's an integer multiple of 2 pi over L.
+- [00:12:15,680 - 00:12:16,339] That's correct.
+- [00:12:16,819 - 00:12:19,360] K is 2 pi over L times an integer.
+- [00:12:20,180 - 00:12:23,579] But this integer is not the occupation number.
+- [00:12:25,959 - 00:12:28,500] Okay, we could, I don't know what,
+- [00:12:28,500 - 00:12:30,880] I don't know any other good
+- [00:12:30,880 - 00:12:33,260] notation for integer except N, unfortunately.
+- [00:12:34,040 - 00:12:36,710] And so everything which is quantized winds
+- [00:12:36,710 - 00:12:39,380] up being called N, except when it's L.
+- [00:12:42,520 - 00:12:43,500] But I don't want to call
+- [00:12:43,500 - 00:12:44,480] this thing L because it's not L.
+- [00:12:44,480 - 00:12:44,980] What is L?
+- [00:12:46,520 - 00:12:50,000] L is angular momentum, which is also quantized.
+- [00:12:51,280 - 00:12:53,330] So we got to keep track
+- [00:12:53,330 - 00:12:55,380] of the two different kinds of integers.
+- [00:12:57,140 - 00:12:57,780] One of them,
+- [00:12:58,500 - 00:13:00,900] the discrete momentum,
+- [00:13:01,300 - 00:13:03,300] and the other, the discrete
+- [00:13:03,300 - 00:13:05,300] number of quanta with each momentum.
+- [00:13:05,680 - 00:13:07,880] And the way to keep track of it is,
+- [00:13:08,240 - 00:13:11,600] occupation numbers I will call N of K,
+- [00:13:11,600 - 00:13:15,560] meaning the number of quanta with momentum K.
+- [00:13:15,560 - 00:13:18,000] K itself is also quantized.
+- [00:13:19,080 - 00:13:19,580] Okay?
+- [00:13:21,740 - 00:13:24,080] Alright, so occupation number.
+- [00:13:24,080 - 00:13:26,480] Number of particles with a given momentum K.
+- [00:13:26,480 - 00:13:28,620] And I'll close it off with that,
+- [00:13:28,740 - 00:13:29,160] cool?
+- [00:13:31,860 - 00:13:32,200] That's L.
+- [00:13:32,660 - 00:13:33,220] Okay.
+- [00:13:35,100 - 00:13:35,560] Now,
+- [00:13:35,700 - 00:13:37,100] how much quatits?
+- [00:13:40,060 - 00:13:40,240] Done.
+- [00:13:40,640 - 00:13:40,700] And,
+- [00:13:40,700 - 00:13:41,080] let's say,
+- [00:13:41,740 - 00:13:42,380] 화� Filipino
+- [00:13:42,380 - 00:13:43,480] with sparkling Na Traditional
+- [00:13:43,480 - 00:13:43,680] simply rights,
+- [00:13:43,940 - 00:13:45,740] equal guys or Lydia of the Mulan University,
+- [00:13:46,380 - 00:13:48,020] let's say,
+- [00:13:51,620 - 00:13:54,180] wollock Neil class of 60 Joules per meter ,
+- [00:13:54,280 - 00:13:55,480] segur건
+- [00:13:55,480 - 00:13:56,320] we can use E
+- [00:13:56,320 - 00:13:59,320] directions in space. Linear elements,
+- [00:13:59,320 - 00:14:02,320] let's just call them linear elements,
+- [00:14:02,320 - 00:14:04,720] elements, they are elements of a
+- [00:14:04,720 - 00:14:07,120] vector space, but forget that. The state
+- [00:14:07,120 - 00:14:09,640] vectors of a system are linear elements that
+- [00:14:09,640 - 00:14:12,160] we can add and so forth, but we can
+- [00:14:12,160 - 00:14:14,890] also operate on them with operators.
+- [00:14:14,890 - 00:14:17,620] We've gone through this at least twice
+- [00:14:17,620 - 00:14:21,100] in this series of classes. And
+- [00:14:21,100 - 00:14:24,580] the observables of a quantum mechanical
+- [00:14:24,580 - 00:14:29,080] system are the Hermitian real-valued
+- [00:14:29,080 - 00:14:33,580] operators which operate on the states.
+- [00:14:33,580 - 00:14:37,060] Operate means they are operations which
+- [00:14:37,060 - 00:14:40,540] change a state into another state. Now
+- [00:14:40,540 - 00:14:43,070] what is a state, what is a convenient
+- [00:14:43,070 - 00:14:45,600] way to label the possible states of a
+- [00:14:45,600 - 00:14:50,060] system of quanta moving on such a circle is
+- [00:14:50,060 - 00:14:54,520] to specify all the n of k. So you
+- [00:14:54,520 - 00:14:54,540] can do that by using the equation of the
+- [00:14:54,540 - 00:14:54,560] state of a quantum, and you can do that by
+- [00:14:54,580 - 00:14:54,590] using the equation of the state of a
+- [00:14:54,590 - 00:14:54,600] quantum, and you can do that by using the
+- [00:14:54,600 - 00:15:08,790] equation of the state of a quantum, and you can do that by using the equation of the state of a quantum. So you can think of it as n1, n of 1, n of 2, where the 1, 2, and so forth refer to the values of k. n
+- [00:15:08,790 - 00:15:22,980] of 3, oh I should also, I also have to put in n of minus 1 and minus 2, don't I? Well darn it, how am I going to do this? I just have to imagine that the string, that the string goes both to the left and to the right.
+- [00:15:22,980 - 00:15:37,800] And that represents a state with n1 quanta with the first value of momentum, n2 quanta with the second value of momentum. We don't have to specify what these values of k
+- [00:15:37,800 - 00:15:52,620] are, just the first one, the second one, the third one, and so forth. The minus 1th, the minus 2th. So that's a quantum state of the quanta moving on a circle.
+- [00:15:52,980 - 00:15:55,880] And now There Are Operators
+- [00:15:55,880 - 00:16:01,220] analogous to, not analogous to, but really equivalent to
+- [00:16:01,220 - 00:16:04,580] to. The Harmonic Oscillator Creation
+- [00:16:04,580 - 00:16:07,940] and Annihilation Operators, the Raising and
+- [00:16:07,940 - 00:16:15,230] Lowering Operators. Remember, the harmonic oscillator
+- [00:16:15,230 - 00:16:22,520] is described by operators a plus
+- [00:16:22,520 - 00:16:22,570] a plus 깊 generic placed at n. n of n and
+- [00:16:22,570 - 00:16:22,620] a plus proちは a plus progressives group and n plus d n
+- [00:16:22,620 - 00:16:22,640] n and n and n minus d n plus proITE and one plus
+- [00:16:22,640 - 00:16:22,660] p cps suras et cetera, and so forth. And then you'll differently indicate
+- [00:16:22,660 - 00:16:22,700] similar operation that forces the momentum force to closer to k across where k the signal is
+- [00:16:22,700 - 00:16:22,740] at, c plus k plus. And so on does it multiply both sides, but you can and alsoり
+- [00:16:22,740 - 00:16:22,760] and thunder s b phac💷 z k 한다 more化 seğal ve al vähän h
+- [00:16:22,760 - 00:16:22,780] рt 998 este musicロz Sched BHBut I think it's a great phenomenon because it vienen
+- [00:16:22,780 - 00:16:24,280] and A-
+- [00:16:25,420 - 00:16:27,900] I'm not multiplying them, I'm just writing them
+- [00:16:27,900 - 00:16:30,100] A plus and A minus
+- [00:16:31,319 - 00:16:33,980] A plus increases
+- [00:16:35,100 - 00:16:37,839] these are the energy levels of the oscillator
+- [00:16:37,839 - 00:16:39,459] it increases
+- [00:16:39,939 - 00:16:42,979] takes you from zero quanta to one quanta, one
+- [00:16:42,979 - 00:16:46,020] quanta to two quanta, and so forth and so on
+- [00:16:46,020 - 00:16:48,339] and A- takes you back down
+- [00:16:48,340 - 00:16:52,020] okay, so what these operators are, and
+- [00:16:52,020 - 00:16:55,700] there's one of them for each momentum
+- [00:16:55,700 - 00:17:00,230] or one A plus and one A minus for each
+- [00:17:00,230 - 00:17:04,760] momentum, so they should be labeled as A plus of k
+- [00:17:04,760 - 00:17:07,960] and A minus of k
+- [00:17:07,960 - 00:17:11,910] so what does A plus of k do
+- [00:17:11,910 - 00:17:15,859] when it acts on a state vector like this
+- [00:17:15,859 - 00:17:17,859] well
+- [00:17:17,859 - 00:17:20,579] it goes to the k-th slot
+- [00:17:22,179 - 00:17:24,679] for example, let's take A plus of one
+- [00:17:25,300 - 00:17:27,619] it goes to the first slot here
+- [00:17:27,619 - 00:17:29,620] and increases
+- [00:17:29,620 - 00:17:32,360] the number of quanta by one unit
+- [00:17:32,860 - 00:17:34,360] it also does something else, you
+- [00:17:34,360 - 00:17:35,860] remember what the other thing it does?
+- [00:17:35,860 - 00:17:37,860] it multiplies by something
+- [00:17:37,860 - 00:17:41,360] square root of n plus one
+- [00:17:41,360 - 00:17:42,360] hmm?
+- [00:17:42,360 - 00:17:43,860] yeah
+- [00:17:43,860 - 00:17:46,860] yeah, for the minus it's just square root of n
+- [00:17:47,860 - 00:17:49,860] why that's important
+- [00:17:52,439 - 00:17:52,740] so when moje
+- [00:17:52,740 - 00:17:53,520] yes
+- [00:17:53,520 - 00:17:54,600] ok, but sorry
+- [00:17:54,600 - 00:18:16,379] you are going to
+- [00:18:16,379 - 00:18:17,540] i'm sorry
+- [00:18:17,540 - 00:18:18,839] No, no, no, no, no,
+- [00:18:18,839 - 00:18:20,139] that's bad. That's bad. No, no.
+- [00:18:20,820 - 00:18:24,270] Just A plus of K increases the number
+- [00:18:24,270 - 00:18:27,720] of quanta with momentum K by one unit,
+- [00:18:28,060 - 00:18:31,349] and A minus decreases it, at the same
+- [00:18:31,349 - 00:18:34,639] time multiplying by the appropriate square root of N.
+- [00:18:34,639 - 00:18:38,549] All right, that's the set of mathematical
+- [00:18:38,549 - 00:18:42,460] objects that we have to deal with.
+- [00:18:42,460 - 00:18:46,780] And how do we build a quantum field?
+- [00:18:47,760 - 00:18:51,100] What is the connection between the quantum field
+- [00:18:51,100 - 00:18:54,440] and the A pluses and the A minuses?
+- [00:18:55,100 - 00:18:57,930] Well, I will tell you now a little secret what
+- [00:18:57,930 - 00:19:00,760] the A pluses and the A minuses are, in another language.
+- [00:19:00,760 - 00:19:03,810] They're the quantum mechanical
+- [00:19:03,810 - 00:19:06,860] versions of the Fourier coefficients.
+- [00:19:07,600 - 00:19:11,120] The Fourier coefficients of the field.
+- [00:19:11,120 - 00:19:14,870] A field on a periodic circle like this
+- [00:19:14,870 - 00:19:18,620] can be represented, let's give the field a name.
+- [00:19:19,479 - 00:19:20,699] Let's call it psi.
+- [00:19:23,959 - 00:19:26,219] Let's call it psi, and psi is
+- [00:19:26,219 - 00:19:28,479] a field, it's a function of X,
+- [00:19:29,840 - 00:19:33,609] and any such field on a periodic interval
+- [00:19:33,609 - 00:19:37,379] like that can be represented as an infinite sum
+- [00:19:38,219 - 00:19:41,060] over the allowable values of K,
+- [00:19:41,120 - 00:19:44,320] I write sum over K, you say,
+- [00:19:44,320 - 00:19:47,520] what values of K am I summing over?
+- [00:19:47,520 - 00:19:52,320] I'm summing over the allowable values of K, of what?
+- [00:19:53,459 - 00:19:57,649] Coefficients, let's call them alpha of
+- [00:19:57,649 - 00:20:01,840] K, E to the I K X.
+- [00:20:04,840 - 00:20:07,800] That's the same as expanding it in sines and cosines.
+- [00:20:10,000 - 00:20:10,520] Psi.
+- [00:20:11,120 - 00:20:15,460] And there is another object,
+- [00:20:15,460 - 00:20:19,800] psi star, what is psi star?
+- [00:20:22,439 - 00:20:24,500] The complex conjugate of psi.
+- [00:20:25,080 - 00:20:29,679] Obviously psi is in general a complex thing.
+- [00:20:30,080 - 00:20:32,600] E to the I K X is a complex thing.
+- [00:20:36,879 - 00:20:38,989] If psi is a complex thing,
+- [00:20:38,989 - 00:20:41,100] it has a real and imaginary part.
+- [00:20:41,139 - 00:20:44,039] The real part plus I
+- [00:20:44,039 - 00:20:46,939] times the imaginary part is psi.
+- [00:20:48,260 - 00:20:50,339] The real part minus I times the
+- [00:20:50,339 - 00:20:52,419] imaginary part is called a complex conjugate.
+- [00:20:53,120 - 00:20:56,999] And that's equal to the sum on
+- [00:20:56,999 - 00:21:00,879] K of the complex conjugate of alpha times,
+- [00:21:01,340 - 00:21:03,639] what's the complex conjugate of
+- [00:21:03,639 - 00:21:05,939] E to the I K X?
+- [00:21:05,939 - 00:21:07,760] E to the minus I K X.
+- [00:21:11,120 - 00:21:16,789] So to specify a classical wave, let's call this
+- [00:21:16,789 - 00:21:22,459] a classical wave, you specify all of these Fourier coefficients.
+- [00:21:23,320 - 00:21:25,810] These Fourier coefficients, you don't have to
+- [00:21:25,810 - 00:21:28,300] specify separately the alphas and the alpha stars.
+- [00:21:28,300 - 00:21:30,120] If you know alpha, you know alpha star.
+- [00:21:30,659 - 00:21:32,589] But you do have to specify the
+- [00:21:32,589 - 00:21:34,520] real and imaginary part of the alphas.
+- [00:21:34,520 - 00:21:38,490] Okay, so a classical configuration of a
+- [00:21:38,490 - 00:21:42,460] wave is specified by giving the alphas.
+- [00:21:45,520 - 00:21:49,820] The quantum mechanical A pluses and A minuses
+- [00:21:49,820 - 00:21:54,120] are the quantum mechanical versions of the alphas.
+- [00:21:55,400 - 00:21:56,980] These are observables.
+- [00:21:57,560 - 00:21:58,700] Why are they observables?
+- [00:21:58,700 - 00:22:01,060] Because if you have a wave, you can
+- [00:22:01,060 - 00:22:03,420] measure the amplitude of each of its Fourier components.
+- [00:22:04,520 - 00:22:06,760] These are the amplitudes of the Fourier components.
+- [00:22:06,760 - 00:22:07,760] Can you measure them? Sure.
+- [00:22:10,560 - 00:22:12,560] So they're observables.
+- [00:22:13,340 - 00:22:15,120] Or at least the real and
+- [00:22:15,120 - 00:22:16,900] imaginary parts of them are observables.
+- [00:22:18,920 - 00:22:21,270] Classically, if you can measure the real part
+- [00:22:21,270 - 00:22:23,620] and the imaginary part, the whole thing is observable.
+- [00:22:23,620 - 00:22:25,660] But strictly speaking, when you do
+- [00:22:25,660 - 00:22:27,700] an observation, you get a real number.
+- [00:22:28,100 - 00:22:30,310] So an alpha really stands for
+- [00:22:30,310 - 00:22:32,520] two observables, a real and imaginary part.
+- [00:22:34,520 - 00:22:42,080] So the quantum mechanical version of the alphas...
+- [00:22:42,080 - 00:22:45,440] I'm not going to write equals.
+- [00:22:46,540 - 00:22:48,280] That wouldn't quite make sense.
+- [00:22:48,379 - 00:22:49,760] These are classical variables.
+- [00:22:49,940 - 00:22:51,520] These are quantum mechanical operators.
+- [00:22:52,139 - 00:22:55,799] But instead of writing equals, let's
+- [00:22:55,799 - 00:22:59,460] write, I don't know, sort of equals.
+- [00:23:00,260 - 00:23:02,000] That means approximately equal.
+- [00:23:02,000 - 00:23:02,180] Equals.
+- [00:23:02,560 - 00:23:03,080] Equals.
+- [00:23:04,520 - 00:23:05,660] Yeah.
+- [00:23:07,120 - 00:23:08,700] Yeah, back and forth arrow.
+- [00:23:08,700 - 00:23:15,720] That means in quantizing a
+- [00:23:15,720 - 00:23:22,740] system, you replace alpha by a's.
+- [00:23:22,900 - 00:23:25,300] So the double arrow means replace by.
+- [00:23:26,500 - 00:23:28,780] And same thing here, alpha star.
+- [00:23:28,780 - 00:23:29,360] Yeah.
+- [00:23:34,520 - 00:23:35,500] Do I have this right?
+- [00:23:37,320 - 00:23:38,680] I wonder if I have it right.
+- [00:23:38,740 - 00:23:41,100] I wonder if...
+- [00:23:41,100 - 00:23:45,600] I think I have it right.
+- [00:23:48,100 - 00:23:49,840] As we go along, I
+- [00:23:49,840 - 00:23:51,580] may decide to change the definition.
+- [00:23:52,620 - 00:23:54,980] So that this is called alpha star and that's alpha.
+- [00:23:55,240 - 00:23:57,980] It's not important because you have the freedom.
+- [00:23:59,720 - 00:24:00,379] Let's see.
+- [00:24:03,500 - 00:24:03,940] Yep.
+- [00:24:03,940 - 00:24:05,140] I'm going to change it.
+- [00:24:09,160 - 00:24:10,860] Yeah, the standard definition.
+- [00:24:12,300 - 00:24:13,960] And this is a convention, of course.
+- [00:24:17,600 - 00:24:20,650] If alpha star is the conjugate of
+- [00:24:20,650 - 00:24:23,700] alpha, alpha is the conjugate of alpha star.
+- [00:24:23,880 - 00:24:25,650] So there's a matter of definition
+- [00:24:25,650 - 00:24:27,420] here that you can choose either way.
+- [00:24:27,820 - 00:24:30,230] But I think it's standard, if
+- [00:24:30,230 - 00:24:32,640] I remember, to make this identification.
+- [00:24:32,640 - 00:24:33,740] Again, it's not terribly...
+- [00:24:33,940 - 00:24:34,300] It's not terribly important.
+- [00:24:37,300 - 00:24:39,760] Then you say the quantum field,
+- [00:24:39,760 - 00:24:42,220] the definition of the quantum field,
+- [00:24:42,220 - 00:24:46,570] is simply replace the alphas
+- [00:24:46,570 - 00:24:50,920] by the creation and annihilation operators.
+- [00:24:52,440 - 00:24:57,560] A minus of k, a plus of k.
+- [00:24:59,320 - 00:25:00,600] Now, of course...
+- [00:25:00,600 - 00:25:01,640] Of k.
+- [00:25:03,940 - 00:25:06,170] Of course, we would have to
+- [00:25:06,170 - 00:25:08,400] prove that in some sense or another,
+- [00:25:08,940 - 00:25:17,140] the classical alphas, in some appropriate limit,
+- [00:25:18,640 - 00:25:21,640] the a's must behave like the alphas.
+- [00:25:22,460 - 00:25:23,280] In what sense...
+- [00:25:23,280 - 00:25:26,760] I can just make this replacement on the blackboard,
+- [00:25:27,180 - 00:25:28,900] but you probably say to yourself,
+- [00:25:28,900 - 00:25:30,580] why is that the right replacement?
+- [00:25:31,320 - 00:25:32,900] In what sense...
+- [00:25:32,900 - 00:25:33,820] Does these...
+- [00:25:33,820 - 00:25:38,820] quantum mechanical objects behave anything like...
+- [00:25:38,820 - 00:25:44,399] like the classical Fourier coefficients?
+- [00:25:45,600 - 00:25:47,820] Well, in many ways, but...
+- [00:25:48,879 - 00:25:49,820] let's...
+- [00:25:49,820 - 00:25:50,320] let's...
+- [00:25:50,320 - 00:25:56,310] to see that, we have to go a
+- [00:25:56,310 - 00:26:02,300] little more into the dynamics of quantum fields,
+- [00:26:02,379 - 00:26:02,879] and we will.
+- [00:26:03,000 - 00:26:03,800] We will a little bit.
+- [00:26:03,820 - 00:26:05,820] But let's just take it
+- [00:26:05,820 - 00:26:07,820] as a matter of definition now,
+- [00:26:07,820 - 00:26:12,820] that a quantum field is represented as a Fourier sum,
+- [00:26:12,820 - 00:26:16,820] where the Fourier coefficients are operators.
+- [00:26:16,820 - 00:26:17,820] That makes sense.
+- [00:26:17,820 - 00:26:19,820] That the Fourier coefficients are operators,
+- [00:26:19,820 - 00:26:21,820] that makes sense, because the Fourier
+- [00:26:21,820 - 00:26:23,820] coefficients you expect to be observables.
+- [00:26:23,820 - 00:26:26,320] And that the structure of those
+- [00:26:26,320 - 00:26:28,820] observables, or the relation between them,
+- [00:26:28,820 - 00:26:30,820] is exactly the relation
+- [00:26:30,820 - 00:26:32,820] between creation and annihilation operators.
+- [00:26:32,820 - 00:26:40,820] Now, the field is an operator.
+- [00:26:41,820 - 00:26:42,820] Right.
+- [00:26:48,820 - 00:26:51,320] So my understanding was that
+- [00:26:51,320 - 00:26:53,820] when quantum field theory introduced,
+- [00:26:53,820 - 00:26:56,320] the major breakthrough was that it
+- [00:26:56,320 - 00:26:58,820] allowed for particle creation and annihilation,
+- [00:26:58,820 - 00:27:01,820] and you've used the terms annihilation and creation.
+- [00:27:01,820 - 00:27:02,820] Right.
+- [00:27:02,820 - 00:27:06,320] That doesn't mean that the
+- [00:27:06,320 - 00:27:09,820] dynamics will create and annihilate particles.
+- [00:27:09,820 - 00:27:13,820] For that, we have to go
+- [00:27:13,820 - 00:27:17,820] into the dynamics of these fields.
+- [00:27:17,820 - 00:27:19,820] Okay, but is that the only thing
+- [00:27:19,820 - 00:27:21,820] you talk about in changing energy states?
+- [00:27:21,820 - 00:27:25,820] Well, they change the number of particles.
+- [00:27:26,978 - 00:27:27,918] ありがとうございました
+- [00:27:27,938 - 00:27:33,038] What the A's and the A pluses and the
+- [00:27:33,038 - 00:27:38,138] A minuses do is they change the number of particles.
+- [00:27:38,138 - 00:27:40,658] These things here represent the number of
+- [00:27:40,658 - 00:27:43,178] particles with momentum one, number of particles
+- [00:27:43,178 - 00:27:46,838] with momentum two, number of particles with momentum three.
+- [00:27:46,838 - 00:27:50,258] And what the A's do is they change them.
+- [00:27:50,258 - 00:27:52,618] Now to say that the A's change the
+- [00:27:52,618 - 00:27:54,978] number of particles doesn't mean that nature goes
+- [00:27:54,978 - 00:27:58,078] around changing the number of particles.
+- [00:27:58,078 - 00:28:00,427] These are mathematical symbols which
+- [00:28:00,427 - 00:28:02,777] change the number of particles.
+- [00:28:02,777 - 00:28:07,618] It doesn't mean that particle number changes.
+- [00:28:07,618 - 00:28:11,188] That's a matter of laws of nature, where
+- [00:28:11,188 - 00:28:14,758] the laws of nature permit the number of particles
+- [00:28:14,758 - 00:28:16,258] to change.
+- [00:28:16,258 - 00:28:19,008] But if the laws of nature do allow
+- [00:28:19,008 - 00:28:21,758] the number of particles to change, these operators are
+- [00:28:21,758 - 00:28:24,218] going to be very useful in describing.
+- [00:28:24,218 - 00:28:24,738] Okay.
+- [00:28:24,978 - 00:28:26,658] Those kind of changes.
+- [00:28:26,658 - 00:28:28,938] Now, there's other situations even where
+- [00:28:28,938 - 00:28:31,218] the number of particles doesn't change.
+- [00:28:31,218 - 00:28:32,738] Well, let's look at this.
+- [00:28:32,738 - 00:28:38,658] Let's look at what we can do with these operators.
+- [00:28:38,658 - 00:28:42,668] Supposing we want to describe
+- [00:28:42,668 - 00:28:46,678] a reaction where a particle scatters.
+- [00:28:46,678 - 00:28:49,158] A particle scatters when it scatters, let's say
+- [00:28:49,158 - 00:28:51,638] we have one particle, not a whole bunch
+- [00:28:51,638 - 00:28:54,778] of particles, one particle of a given momentum k.
+- [00:28:54,978 - 00:28:58,548] And that particle is going to scatter, collide
+- [00:28:58,548 - 00:29:02,118] with something, and it's going to come off
+- [00:29:02,118 - 00:29:04,878] with another momentum.
+- [00:29:04,878 - 00:29:07,458] How do we describe, how
+- [00:29:07,458 - 00:29:10,038] might we describe such a process?
+- [00:29:10,038 - 00:29:14,878] We might describe a process like that by
+- [00:29:14,878 - 00:29:19,718] saying, let's start with a state with one particle.
+- [00:29:19,718 - 00:29:22,658] Where shall I put that particle in here?
+- [00:29:22,658 - 00:29:24,658] Whatever the momentum of the particle happens to be.
+- [00:29:24,658 - 00:29:27,838] If the particle happens to have momentum k7, then
+- [00:29:27,838 - 00:29:31,018] I will make a 00, I'll go to the seventh
+- [00:29:31,018 - 00:29:36,058] place and put a 1 there, and then 000.
+- [00:29:36,058 - 00:29:39,218] That's supposed to be the seventh place.
+- [00:29:39,218 - 00:29:43,218] So this describes a state with one particle
+- [00:29:43,218 - 00:29:47,218] of momentum k7, whatever k7 happens to be.
+- [00:29:47,218 - 00:29:50,208] Now I want to describe a process where
+- [00:29:50,208 - 00:29:53,198] the particle of a given momentum scatters and
+- [00:29:53,198 - 00:29:54,598] comes off with some different momentum.
+- [00:29:54,598 - 00:29:57,138] Now so far we've only been
+- [00:29:57,138 - 00:29:59,678] talking about one dimension of motion.
+- [00:29:59,678 - 00:30:02,438] We've been talking about motion on a line.
+- [00:30:02,438 - 00:30:05,638] Okay we can do motion on a line,
+- [00:30:05,638 - 00:30:08,838] and we can even think of changes of momentum.
+- [00:30:08,838 - 00:30:13,918] A particle gets hit by something and its momentum changes.
+- [00:30:13,918 - 00:30:14,918] How can we describe that?
+- [00:30:14,918 - 00:30:18,228] Well we can describe that by saying, we
+- [00:30:18,228 - 00:30:21,538] can describe that by an operator which makes exactly
+- [00:30:21,538 - 00:30:22,598] those changes.
+- [00:30:22,598 - 00:30:23,598] Namely.
+- [00:30:24,598 - 00:30:28,318] Take an operator which removes this particle.
+- [00:30:28,318 - 00:30:29,318] What's that?
+- [00:30:29,318 - 00:30:32,358] That's a minus of 7.
+- [00:30:32,358 - 00:30:35,498] Or k, uh, a minus of k
+- [00:30:35,498 - 00:30:38,638] sub 7, but a minus of 7.
+- [00:30:38,638 - 00:30:43,208] That removes that particle and then puts
+- [00:30:43,208 - 00:30:47,778] back another particle in another momentum state.
+- [00:30:47,778 - 00:30:50,688] For example, if it's a scattering where
+- [00:30:50,688 - 00:30:53,598] a particle goes from momentum k7 to k9.
+- [00:30:54,598 - 00:30:58,318] Then we'll put here a plus of 9 or k9.
+- [00:30:58,318 - 00:31:06,358] Maybe I should call it.
+- [00:31:06,358 - 00:31:08,558] Let's call it k.
+- [00:31:08,558 - 00:31:12,178] Let's, let's let's write it that way.
+- [00:31:12,178 - 00:31:18,017] A minus of k7.
+- [00:31:18,017 - 00:31:21,318] A plus of k9.
+- [00:31:21,318 - 00:31:23,318] What does this do?
+- [00:31:23,318 - 00:31:23,517] It acts.
+- [00:31:23,517 - 00:31:24,118] We have a plus of 7.
+- [00:31:24,118 - 00:31:27,778] it acts on a state with a momentum with k7
+- [00:31:27,778 - 00:31:29,638] and switches it to k9 so it's
+- [00:31:29,638 - 00:31:31,498] a scattering it's a kind of scattering
+- [00:31:31,498 - 00:31:32,558] process
+- [00:31:32,558 - 00:31:34,518] or it does
+- [00:31:34,518 - 00:31:37,518] what the scattering process does
+- [00:31:37,518 - 00:31:43,638] how does that scalar factor in here?
+- [00:31:43,638 - 00:31:46,318] well here it doesn't matter
+- [00:31:46,318 - 00:31:48,957] here it just
+- [00:31:48,957 - 00:31:51,958] multiplies by one
+- [00:31:51,958 - 00:31:58,958] it doesn't multiply the whole thing by some scalar
+- [00:32:10,498 - 00:32:12,838] square root of n7
+- [00:32:12,838 - 00:32:19,838] but n7 is one
+- [00:32:20,417 - 00:32:21,597] alright so let's see what this does
+- [00:32:21,958 - 00:32:26,958] it first removes this particle with a coefficient one
+- [00:32:26,958 - 00:32:31,958] so it gives a plus of k9
+- [00:32:31,958 - 00:32:34,958] times zero zero zero zero zero zero
+- [00:32:34,958 - 00:32:37,958] what is this state called with all zeros?
+- [00:32:37,958 - 00:32:40,958] it's called the vacuum
+- [00:32:40,958 - 00:32:44,958] alright so when I speak of the vacuum
+- [00:32:44,958 - 00:32:46,958] it is also the ground state
+- [00:32:46,958 - 00:32:49,958] it is also the state of lowest energy
+- [00:32:49,958 - 00:32:50,228] and in this simple example here you can see
+- [00:32:50,228 - 00:32:50,498] that it's the lowest energy state in the world
+- [00:32:50,498 - 00:32:51,098] and in this simple example here you can see
+- [00:32:51,098 - 00:32:51,698] that it's the lowest energy state in the world
+- [00:32:51,698 - 00:32:51,948] in this simple example here you can see
+- [00:32:51,948 - 00:32:52,198] that it's the lowest energy state in the world
+- [00:32:52,198 - 00:32:55,198] we could call it the vacuum meaning no particles
+- [00:32:55,198 - 00:32:57,698] alright so the first operator
+- [00:32:57,698 - 00:33:00,698] takes a state and makes a vacuum out of it
+- [00:33:00,698 - 00:33:03,698] and then the second operator comes
+- [00:33:03,698 - 00:33:05,698] now the creation operator multiplies by
+- [00:33:05,698 - 00:33:07,698] square root of n plus one right
+- [00:33:07,698 - 00:33:08,698] alright
+- [00:33:08,698 - 00:33:10,698] but we go then to k9
+- [00:33:10,698 - 00:33:12,698] k9 is out here
+- [00:33:12,698 - 00:33:14,698] it's occupation number is zero
+- [00:33:14,698 - 00:33:17,198] so the n plus one is
+- [00:33:17,198 - 00:33:19,698] just going to give us one again
+- [00:33:19,698 - 00:33:19,968] alright so this operation then is the
+- [00:33:19,968 - 00:33:20,238] one that's going to give us one again
+- [00:33:20,238 - 00:33:20,488] alright so this operation then is
+- [00:33:20,488 - 00:33:20,738] going to give us one again
+- [00:33:20,738 - 00:33:20,988] alright so this operation then is
+- [00:33:20,988 - 00:33:21,238] going to give us one again
+- [00:33:21,238 - 00:33:28,238] so this operation then gives us zero zero zero zero
+- [00:33:28,238 - 00:33:30,238] but then out at the ninth
+- [00:33:30,238 - 00:33:32,238] place it gives us a one
+- [00:33:35,238 - 00:33:39,238] so all that's done with coefficient one
+- [00:33:39,238 - 00:33:41,238] is it's switched the place where the particle is
+- [00:33:41,238 - 00:33:45,238] from one momentum to another momentum
+- [00:33:45,238 - 00:33:47,738] now if there are situations where
+- [00:33:47,738 - 00:33:50,238] these square roots of n come in
+- [00:33:50,238 - 00:33:53,298] come in and we'll talk about them. We'll
+- [00:33:53,298 - 00:33:56,358] talk about what they do. They are important.
+- [00:33:56,358 - 00:33:59,858] But in this particular problem, because there was
+- [00:33:59,858 - 00:34:03,358] never more than one particle in the problem,
+- [00:34:05,598 - 00:34:08,197] the square roots of n don't do anything.
+- [00:34:08,197 - 00:34:10,797] Okay, so here's an example then where a scattering
+- [00:34:10,797 - 00:34:17,797] process is described by a certain combination of A's.
+- [00:34:17,797 - 00:34:21,297] Let's go a little bit further. Let's suppose
+- [00:34:21,297 - 00:34:24,797] that the laws of physics allow for the possibility
+- [00:34:27,678 - 00:34:31,178] that the number of particles is not conserved.
+- [00:34:31,178 - 00:34:34,678] Supposing one particle can come in and two
+- [00:34:36,038 - 00:34:38,908] particles can go out. Oh, this process,
+- [00:34:38,908 - 00:34:41,777] of course, we could have described in another
+- [00:34:41,777 - 00:34:47,777] way. We didn't need to go to this complicated system.
+- [00:34:47,797 - 00:34:49,318] It's not a very complicated story with occupation
+- [00:34:49,318 - 00:34:50,838] numbers. We could have just said a particle
+- [00:34:50,838 - 00:34:53,318] makes a transition from one momentum to another.
+- [00:34:53,318 - 00:34:55,797] But now let's get a little fancier and say
+- [00:34:55,797 - 00:34:59,298] the laws of physics permit a new kind
+- [00:34:59,298 - 00:35:02,798] of process where the number of particles change. For
+- [00:35:03,238 - 00:35:06,738] example, one particle comes in, it might collide
+- [00:35:06,738 - 00:35:10,238] with something, and two particles of the same
+- [00:35:10,418 - 00:35:13,918] kind go out, but two particles with different momenta.
+- [00:35:13,918 - 00:35:17,418] A particle of k1 comes in and k2 comes
+- [00:35:17,798 - 00:35:21,298] out of the same particle. And two particles, one
+- [00:35:21,298 - 00:35:24,798] of k3 and one of k5 go out. Don't worry
+- [00:35:25,498 - 00:35:27,208] too much about momentum conservation. I'm
+- [00:35:27,208 - 00:35:28,918] assuming there's something to soak up the
+- [00:35:28,918 - 00:35:32,378] recoil, some other object. How would we
+- [00:35:32,378 - 00:35:35,838] describe that? That would be difficult to describe
+- [00:35:35,838 - 00:35:38,518] in one particle quantum mechanics. One
+- [00:35:38,518 - 00:35:41,198] particle quantum mechanics means the quantum mechanics
+- [00:35:41,198 - 00:35:43,438] of a single particle. This was, this is
+- [00:35:43,438 - 00:35:45,678] possible to describe. There was never more than one
+- [00:35:45,678 - 00:35:46,678] particle. One particle went to one particle.
+- [00:35:46,678 - 00:35:47,678] But one particle goes out, but not first.
+- [00:35:47,678 - 00:35:49,878] goes to two particles? That you can't
+- [00:35:49,878 - 00:35:52,078] describe in single particle quantum mechanics, but
+- [00:35:52,078 - 00:35:56,967] you can describe it here. Again, you remove,
+- [00:35:56,967 - 00:36:01,857] okay, the seventh particle, and you put in
+- [00:36:01,857 - 00:36:03,837] the ninth particle, and you also put in
+- [00:36:03,837 - 00:36:05,818] the eleventh particle. I don't know why I'm taking
+- [00:36:05,818 - 00:36:11,468] only odd numbers. Let's put in an even number. A
+- [00:36:11,468 - 00:36:17,118] plus of 16, of k16. So this is a process
+- [00:36:17,118 - 00:36:22,127] where a particle of momentum k7 comes
+- [00:36:22,127 - 00:36:27,137] in, may collide with something. One might say
+- [00:36:27,137 - 00:36:29,537] that that something absorbs the particles.
+- [00:36:29,537 - 00:36:31,938] It's just language. This is language. The
+- [00:36:31,938 - 00:36:36,028] target, whatever it was, absorbed this particle and
+- [00:36:36,028 - 00:36:40,118] emitted two particles, one of k9 and one
+- [00:36:40,118 - 00:36:43,618] of k16. So this gives you flexibility.
+- [00:36:43,618 - 00:36:47,118] This, the existence of these operators, and the
+- [00:36:47,118 - 00:36:51,767] space of states in which the number of
+- [00:36:51,767 - 00:36:56,417] particles is variable, it gives you flexibility in studying
+- [00:36:56,417 - 00:37:03,437] processes where the particle number can change.
+- [00:37:03,437 - 00:37:10,458] You put cookie number there. Chocolate chip
+- [00:37:10,458 - 00:37:11,198] operator.
+- [00:37:17,118 - 00:37:24,048] All right. All right, so if a plus creates
+- [00:37:24,048 - 00:37:30,978] a particle of momentum k, a plus of k, what
+- [00:37:30,978 - 00:37:34,677] does psi of x do? Psi of x is also
+- [00:37:34,677 - 00:37:38,377] an operator. It's a sum of operators. Let's take psi dagger.
+- [00:37:38,377 - 00:37:45,277] Psi dagger is made up out of creation operators.
+- [00:37:45,277 - 00:37:47,118] It creates a particle of momentum k.
+- [00:37:47,118 - 00:37:54,368] No, sorry. A plus creates a particle of momentum
+- [00:37:54,368 - 00:38:01,618] k. What does psi do? So to understand that,
+- [00:38:01,618 - 00:38:04,548] you have to remember that in quantum
+- [00:38:04,548 - 00:38:07,478] mechanics, unlike classical mechanics, you get to add
+- [00:38:07,478 - 00:38:10,877] states. States form a linear, I'm going to
+- [00:38:10,877 - 00:38:14,277] say it, a linear vector space that only means
+- [00:38:14,277 - 00:38:15,687] that you can add them, subtract them,
+- [00:38:15,687 - 00:38:17,098] and multiply them by order of magnitude.
+- [00:38:17,098 - 00:38:22,388] You can't do that with ordinary numbers.
+- [00:38:22,388 - 00:38:27,678] All right? So let's start with the vacuum.
+- [00:38:27,678 - 00:38:31,058] I'll just, I'm not going to write a string of
+- [00:38:31,058 - 00:38:34,438] zeros. O stands for O, O, O, O, O, O, O.
+- [00:38:34,438 - 00:38:40,018] Okay? And now we act with psi dagger. First
+- [00:38:40,018 - 00:38:45,598] of all, what does psi do, incidentally? Psi tries to
+- [00:38:45,598 - 00:38:47,098] annihilate a particle, but there's no particle.
+- [00:38:47,098 - 00:38:50,098] There's no particle there to annihilate. So it
+- [00:38:50,098 - 00:38:53,098] just gives you zero. No state at all.
+- [00:38:53,098 - 00:38:58,307] But let's take the creation object, psi plus, and
+- [00:38:58,307 - 00:39:03,517] act on this. All we have to do now is
+- [00:39:03,517 - 00:39:08,187] follow our nose. Psi plus of x, where
+- [00:39:08,187 - 00:39:12,858] x is some particular value of position, some specific
+- [00:39:12,858 - 00:39:15,618] value of position. Let's see what it does.
+- [00:39:15,618 - 00:39:16,118] Psi plus of x.
+- [00:39:16,118 - 00:39:16,478] Psi plus of x.
+- [00:39:16,478 - 00:39:16,718] Psi plus of x.
+- [00:39:16,718 - 00:39:16,818] Psi plus of x.
+- [00:39:16,818 - 00:39:16,938] Psi plus of x.
+- [00:39:16,938 - 00:39:17,058] Psi plus of x.
+- [00:39:17,058 - 00:39:17,098] Psi plus of x.
+- [00:39:17,098 - 00:39:17,598] Psi plus of x.
+- [00:39:17,598 - 00:39:17,938] Psi plus of x.
+- [00:39:17,938 - 00:39:17,978] Psi plus of x.
+- [00:39:17,978 - 00:39:18,938] Psi plus of x.
+- [00:39:18,938 - 00:39:30,488] Yeah, psi dagger. Well, we just substitute for psi. We write sum
+- [00:39:30,488 - 00:39:42,038] over k of a plus of k, O, times e to the ikx.
+- [00:39:42,038 - 00:39:47,058] Minus ikx.
+- [00:39:47,058 - 00:39:47,558] Minus ikx.
+- [00:39:47,558 - 00:39:48,058] Minus ikx.
+- [00:39:48,058 - 00:39:50,198] Minus ikx.
+- [00:39:50,198 - 00:39:53,438] But what is this object here?
+- [00:39:53,438 - 00:39:56,228] This is an object which just
+- [00:39:56,228 - 00:39:59,018] represents one particle with momentum k.
+- [00:39:59,018 - 00:40:02,198] I think it's taking the e
+- [00:40:02,198 - 00:40:05,378] to the ikx out of this.
+- [00:40:05,378 - 00:40:09,868] I didn't mean to take it out, sorry.
+- [00:40:09,868 - 00:40:14,358] Good point. Sum e to the minus ikx.
+- [00:40:14,358 - 00:40:16,198] Okay.
+- [00:40:16,198 - 00:40:16,898] This is a 1.5.
+- [00:40:16,898 - 00:40:18,298] This is a 1.5.
+- [00:40:18,298 - 00:40:19,238] This is a 1.5.
+- [00:40:19,238 - 00:40:22,268] So what happens if I take
+- [00:40:22,268 - 00:40:25,298] one particle state with momentum k?
+- [00:40:25,298 - 00:40:30,078] What happens if I superpose one particle state with momentum
+- [00:40:30,078 - 00:40:34,858] k with a set of coefficients e to the minus ikx?
+- [00:40:34,858 - 00:40:37,558] Does anybody remember from quantum mechanics?
+- [00:40:37,558 - 00:40:42,058] What happens if you superpose or add up state vectors corresponding to a particle
+- [00:40:42,058 - 00:40:46,558] of momentum k, and you add them up with coefficients e to the minus ikx?
+- [00:40:46,558 - 00:40:46,858] Okay.
+- [00:40:46,858 - 00:40:48,358] What happens if you superpose or add up
+- [00:40:48,358 - 00:40:49,858] state vectors corresponding to a particle of momentum k?
+- [00:40:49,858 - 00:40:50,858] Anybody remember?
+- [00:40:50,858 - 00:40:52,358] k is a momentum state.
+- [00:40:52,358 - 00:40:56,358] No, k's are momentum states.
+- [00:40:56,358 - 00:40:58,618] You've got the right idea, but you wanted to...
+- [00:40:58,618 - 00:41:00,718] Operator.
+- [00:41:00,718 - 00:41:04,058] These are momentum states.
+- [00:41:04,058 - 00:41:06,107] This is a momentum state, but
+- [00:41:06,107 - 00:41:08,157] what happens if you add momentum states?
+- [00:41:08,157 - 00:41:10,157] Does it take psi to the momentum state?
+- [00:41:10,157 - 00:41:11,198] Hm?
+- [00:41:11,198 - 00:41:14,157] Does it take psi, the operator, to the momentum state?
+- [00:41:14,157 - 00:41:14,858] Yes.
+- [00:41:14,858 - 00:41:15,757] It's just a state.
+- [00:41:15,757 - 00:41:16,698] It's just a state.
+- [00:41:16,698 - 00:41:17,698] It's just a state.
+- [00:41:17,698 - 00:41:19,698] This is a momentum state.
+- [00:41:19,698 - 00:41:23,198] If we were doing one particle quantum mechanics, we
+- [00:41:23,198 - 00:41:26,698] might just call this a particle of momentum k.
+- [00:41:26,698 - 00:41:28,698] One particle.
+- [00:41:28,698 - 00:41:31,698] In this problem here, I
+- [00:41:31,698 - 00:41:34,698] never have more than one particle.
+- [00:41:34,698 - 00:41:36,698] I act with this operator.
+- [00:41:36,698 - 00:41:40,698] It gives me a superposition of one particle states.
+- [00:41:40,698 - 00:41:43,698] Each state that appears here is a one particle state.
+- [00:41:43,698 - 00:41:45,698] And it's a one particle state with momentum k.
+- [00:41:45,698 - 00:41:48,698] And I'm told to add them
+- [00:41:48,698 - 00:41:51,698] up with e to the minus ikx.
+- [00:41:51,698 - 00:41:54,698] The probability of a position state.
+- [00:41:54,698 - 00:41:57,698] It's a position state.
+- [00:41:57,698 - 00:41:59,698] It's a state with a definite position.
+- [00:41:59,698 - 00:42:01,698] What's the position?
+- [00:42:01,698 - 00:42:03,698] x.
+- [00:42:03,698 - 00:42:08,698] If you add up momentum states with an e to the
+- [00:42:08,698 - 00:42:13,698] ikx, that gives you a position state located at position x.
+- [00:42:13,698 - 00:42:16,698] That's one particle quantum mechanics.
+- [00:42:16,698 - 00:42:21,198] So, that tells us then
+- [00:42:21,198 - 00:42:25,698] what psi dagger of x does.
+- [00:42:25,698 - 00:42:31,698] Psi dagger of x creates a particle at position x.
+- [00:42:31,698 - 00:42:34,698] It creates a sum of particles.
+- [00:42:34,698 - 00:42:38,198] It creates a coherent quantum
+- [00:42:38,198 - 00:42:41,698] mechanical superposition of states with momentum.
+- [00:42:41,698 - 00:42:43,698] All the different momentum.
+- [00:42:43,698 - 00:42:45,698] All the allowed momentum.
+- [00:42:45,698 - 00:42:49,698] All with coefficient e to the minus ikx.
+- [00:42:49,698 - 00:42:51,698] Incidentally, what's the probability
+- [00:42:51,698 - 00:42:53,698] for different values of k?
+- [00:42:53,698 - 00:43:00,698] All the different values of k have the same
+- [00:43:00,698 - 00:43:07,698] probability because the coefficient here when squared all give one.
+- [00:43:07,698 - 00:43:09,698] So, this is a linear superposition of states.
+- [00:43:09,698 - 00:43:13,698] So, this is a linear superposition of states with
+- [00:43:13,698 - 00:43:17,698] different momentum where the probability, remember what the probability is.
+- [00:43:17,698 - 00:43:19,698] The probability would just be the square of this.
+- [00:43:19,698 - 00:43:22,698] The square of this times its complex conjugate.
+- [00:43:22,698 - 00:43:26,198] This would be just a state
+- [00:43:26,198 - 00:43:29,698] with a uniform probability in momentum space.
+- [00:43:29,698 - 00:43:32,698] But it is a state with a
+- [00:43:32,698 - 00:43:35,698] definite, with a particle at a definite position.
+- [00:43:35,698 - 00:43:37,698] Okay, so this is getting pretty now.
+- [00:43:37,698 - 00:43:38,698] Psi.
+- [00:43:38,698 - 00:43:44,698] The a pluses of k and a minuses of k which are the
+- [00:43:44,698 - 00:43:50,698] fourier which are to be interpreted as the fourier decomposition of psi of x.
+- [00:43:50,698 - 00:43:54,198] Those are creation and annihilation
+- [00:43:54,198 - 00:43:57,698] operators for particles with definite momentum.
+- [00:43:57,698 - 00:44:02,198] Psi of x and psi dagger of x are
+- [00:44:02,198 - 00:44:06,698] creation and annihilation operators for particles of definite position.
+- [00:44:06,698 - 00:44:12,698] So, if you wanted to create a particle at position x, you would not do
+- [00:44:12,698 - 00:44:18,698] it with a of k, but you would do it instead with psi dagger of x.
+- [00:44:18,698 - 00:44:23,698] Which you can rewrite in terms of a's of k.
+- [00:44:23,698 - 00:44:27,198] But it's just giving you the quantum mechanical superposition
+- [00:44:27,198 - 00:44:30,698] of momentum states that adds up to a position state.
+- [00:44:30,698 - 00:44:32,698] Okay.
+- [00:44:32,698 - 00:44:34,698] That's the basic idea of a quantum field.
+- [00:44:34,698 - 00:44:35,698] Okay.
+- [00:44:36,698 - 00:44:42,698] So, in relativity it's a little more complicated, but if we don't worry
+- [00:44:42,698 - 00:44:48,698] about the complications of a special theory of relativity, don't worry about them yet.
+- [00:44:48,698 - 00:44:52,698] Then the quantum field psi dagger of x is
+- [00:44:52,698 - 00:44:56,698] a creation operator for a particle at position x.
+- [00:44:56,698 - 00:44:58,698] Next question.
+- [00:44:58,698 - 00:44:59,698] Yeah.
+- [00:44:59,698 - 00:45:02,698] At x, we're talking about a periodic or a box.
+- [00:45:02,698 - 00:45:04,698] Yeah, in this case, in this case, yeah.
+- [00:45:04,698 - 00:45:08,698] So, would it be a particular number of waves?
+- [00:45:08,698 - 00:45:09,698] Or would it be a, it's
+- [00:45:09,698 - 00:45:10,698] not a spot on that circle.
+- [00:45:10,698 - 00:45:12,698] It is a spot on that circle.
+- [00:45:12,698 - 00:45:14,698] Yeah, it's a spot on that circle.
+- [00:45:14,698 - 00:45:16,698] Now, eventually, right.
+- [00:45:16,698 - 00:45:19,198] Eventually, we can make the
+- [00:45:19,198 - 00:45:21,698] circle bigger and bigger and bigger.
+- [00:45:21,698 - 00:45:22,698] What does that do?
+- [00:45:22,698 - 00:45:26,698] Remember, the allowable values of k
+- [00:45:26,698 - 00:45:30,698] were 2 pi integer over l.
+- [00:45:30,698 - 00:45:31,698] Okay.
+- [00:45:31,698 - 00:45:32,698] So, they're spaced.
+- [00:45:32,698 - 00:45:37,698] They're spaced by a spacing 2 pi over l.
+- [00:45:37,698 - 00:45:39,698] That's the spacing.
+- [00:45:39,698 - 00:45:42,198] As l gets bigger and bigger,
+- [00:45:42,198 - 00:45:44,698] the spacing gets smaller and smaller.
+- [00:45:44,698 - 00:45:52,198] And eventually, you can have essentially any value of k, or at
+- [00:45:52,198 - 00:45:59,698] least for any value of k, there's a state arbitrarily close by.
+- [00:45:59,698 - 00:46:02,698] So, making, making the,
+- [00:46:02,698 - 00:46:07,698] the ring bigger and bigger and bigger is equivalent to
+- [00:46:07,698 - 00:46:12,698] replacing the discrete values of the momenta by continuous values.
+- [00:46:12,698 - 00:46:16,698] And what does that entail for an equation like this?
+- [00:46:16,698 - 00:46:17,698] Integrate.
+- [00:46:17,698 - 00:46:18,698] Right.
+- [00:46:18,698 - 00:46:20,698] It means that you integrate over
+- [00:46:20,698 - 00:46:22,698] k instead of summing over k.
+- [00:46:22,698 - 00:46:24,698] But it's good the first time
+- [00:46:24,698 - 00:46:26,698] around to think about it discretely.
+- [00:46:26,698 - 00:46:29,198] Once you know and you understand that,
+- [00:46:29,198 - 00:46:31,698] you can replace it by integral dk.
+- [00:46:31,698 - 00:46:34,698] But let's not do that yet.
+- [00:46:34,698 - 00:46:35,698] Okay.
+- [00:46:35,698 - 00:46:37,698] Next step.
+- [00:46:37,698 - 00:46:39,698] Next question.
+- [00:46:39,698 - 00:46:45,198] What, if psi creates a particle at position x,
+- [00:46:45,198 - 00:46:50,698] obviously, psi dagger, no, no, I take that back.
+- [00:46:50,698 - 00:46:55,698] If psi dagger creates a particle
+- [00:46:55,698 - 00:47:00,698] at position x, what does psi do?
+- [00:47:00,698 - 00:47:03,698] It annihilates it.
+- [00:47:03,698 - 00:47:05,698] It annihilates a particle at x.
+- [00:47:05,698 - 00:47:06,698] Right.
+- [00:47:06,698 - 00:47:07,698] Okay.
+- [00:47:07,698 - 00:47:10,698] Let's think, let's think now
+- [00:47:10,698 - 00:47:13,698] about the possible kinds of reactions.
+- [00:47:13,698 - 00:47:16,698] Reactions, I now mean particle reactions that we could
+- [00:47:16,698 - 00:47:19,698] think about, but in the language of psi of x.
+- [00:47:19,698 - 00:47:24,698] Let's, let's, uh,
+- [00:47:24,698 - 00:47:29,698] Shh.
+- [00:47:29,698 - 00:47:33,698] Here's a possible reaction.
+- [00:47:33,698 - 00:47:36,198] You tell me if this, if
+- [00:47:36,198 - 00:47:38,698] you think this is a likely thing.
+- [00:47:38,698 - 00:47:48,198] A particle comes in, and when it hits a target, where the target happens to be localized, very precisely localized, at position x, that particle disappears, and
+- [00:47:48,198 - 00:47:57,698] then off on alpha centauri somewhere as a particle goes off here, and, uh, and, uh, somewhere as on, uh, Betelgeuse, another one, you know, somewhere else.
+- [00:47:57,698 - 00:47:58,698] Okay.
+- [00:47:58,698 - 00:48:01,698] And then, uh, Betelgeuse, another one goes off over here.
+- [00:48:01,698 - 00:48:02,698] That sound likely?
+- [00:48:02,698 - 00:48:04,698] No, that doesn't sound likely.
+- [00:48:04,698 - 00:48:05,698] No.
+- [00:48:05,698 - 00:48:07,698] It's what we would call non-local.
+- [00:48:07,698 - 00:48:11,698] It violates the rules that, uh, that signals
+- [00:48:11,698 - 00:48:15,698] can propagate the arbitrary kind of crazy velocities.
+- [00:48:15,698 - 00:48:18,698] What's, what's the right thing to think about?
+- [00:48:18,698 - 00:48:22,698] The right thing to think about, if you want to
+- [00:48:22,698 - 00:48:26,698] preserve in your theory a very precise notion of locality,
+- [00:48:26,698 - 00:48:34,198] that a, a particle is absorbed right over here, and then two particles are
+- [00:48:34,198 - 00:48:41,698] emitted, the emitted particles will be absorbed, will be emitted from the same spot.
+- [00:48:41,698 - 00:48:46,198] Now, you might want to loosen that up a little bit for one reason or another and
+- [00:48:46,198 - 00:48:50,698] say, well, maybe it only means that they're, that they're emitted within a certain region of that.
+- [00:48:50,698 - 00:48:53,198] But in fact, the precise notion of
+- [00:48:53,198 - 00:48:55,698] locality in quantum field theory is that,
+- [00:48:55,698 - 00:48:58,698] when a reaction happens, it happens
+- [00:48:58,698 - 00:49:01,698] very much at a spot like this.
+- [00:49:01,698 - 00:49:05,698] So how would we describe this reaction?
+- [00:49:05,698 - 00:49:09,698] One particle comes in, is absorbed at x, two
+- [00:49:09,698 - 00:49:13,698] particles go out, are emitted from the same point.
+- [00:49:13,698 - 00:49:18,198] We could use these operators to describe more non-local processes,
+- [00:49:18,198 - 00:49:22,698] but if we want this local process, what do we write?
+- [00:49:22,698 - 00:49:23,698] We write that a particle, that the first
+- [00:49:23,698 - 00:49:24,698] thing that happens is that a particle is absorbed.
+- [00:49:24,698 - 00:49:25,698] Okay.
+- [00:49:25,698 - 00:49:30,198] So what happens is a particle is removed
+- [00:49:30,198 - 00:49:34,698] from the system, that's psi, at point x,
+- [00:49:34,698 - 00:49:37,698] and then two particles are
+- [00:49:37,698 - 00:49:40,698] put back in at position x.
+- [00:49:40,698 - 00:49:43,698] That would be psi dagger
+- [00:49:43,698 - 00:49:46,698] of x, psi dagger of x.
+- [00:49:50,698 - 00:49:54,698] That might act on a state,
+- [00:49:55,698 - 00:50:01,698] with some, sorry, not the vacuum state,
+- [00:50:01,698 - 00:50:03,198] but a state with some
+- [00:50:03,198 - 00:50:04,698] one, with a particle in it.
+- [00:50:04,698 - 00:50:06,698] Okay, with some particle in it.
+- [00:50:06,698 - 00:50:10,698] Let's try to figure out, here's the exercise.
+- [00:50:10,698 - 00:50:17,698] A particle with momentum k comes in.
+- [00:50:17,698 - 00:50:21,198] I want to know if that particle
+- [00:50:21,198 - 00:50:24,698] with momentum k is absorbed at position x,
+- [00:50:25,698 - 00:50:28,698] and if so, what is the final state?
+- [00:50:28,698 - 00:50:32,698] What is the final state, and what is the various
+- [00:50:32,698 - 00:50:36,698] probabilities for this final state to have this or that momentum?
+- [00:50:36,698 - 00:50:38,698] All right.
+- [00:50:38,698 - 00:50:40,698] So, what we have to
+- [00:50:40,698 - 00:50:42,698] do is very simple, in fact.
+- [00:50:42,698 - 00:50:45,198] We have to first of all say
+- [00:50:45,198 - 00:50:47,698] there's a particle with momentum k here.
+- [00:50:47,698 - 00:50:51,198] That means zero, zero, zero, and
+- [00:50:51,198 - 00:50:54,698] in the k-th slot, there's one particle.
+- [00:50:55,698 - 00:50:58,698] That's the first step.
+- [00:50:58,698 - 00:51:01,698] Write down the initial state.
+- [00:51:01,698 - 00:51:04,698] Step number one.
+- [00:51:04,698 - 00:51:08,698] Step number two, substitute for these
+- [00:51:08,698 - 00:51:12,698] local, these are called local field operators,
+- [00:51:12,698 - 00:51:15,698] because they're localized at a position,
+- [00:51:15,698 - 00:51:18,698] substitute their expression, if we're trying
+- [00:51:18,698 - 00:51:21,698] to find out information about momentum,
+- [00:51:21,698 - 00:51:24,698] substitute in their expression in terms of momentum.
+- [00:51:24,698 - 00:51:31,698] So, let's do that.
+- [00:51:31,698 - 00:51:32,698] Okay.
+- [00:51:32,698 - 00:51:37,698] So, psi of x, first of all, is sum over k, and
+- [00:51:37,698 - 00:51:42,698] again, sum over k means sum over the allowable values of k.
+- [00:51:42,698 - 00:51:46,698] A minus of k is the
+- [00:51:46,698 - 00:51:50,698] sum over the allowable values of k.
+- [00:51:50,698 - 00:51:52,698] So, that's the sum over the allowable values of k.
+- [00:51:52,698 - 00:51:58,698] Minus of k, e to the i k x.
+- [00:51:58,698 - 00:52:01,698] That's psi of x.
+- [00:52:01,698 - 00:52:03,698] What x do I put in here?
+- [00:52:03,698 - 00:52:06,698] The x at which the reaction is happening.
+- [00:52:06,698 - 00:52:07,698] All right.
+- [00:52:07,698 - 00:52:10,698] So, what kind of reaction could we imagine?
+- [00:52:10,698 - 00:52:12,198] Can you give me an
+- [00:52:12,198 - 00:52:13,698] example that would make some sense?
+- [00:52:13,698 - 00:52:15,698] Well, let's not talk abstractly.
+- [00:52:15,698 - 00:52:17,698] Let's talk concretely.
+- [00:52:20,698 - 00:52:21,698] Yeah.
+- [00:52:21,698 - 00:52:22,698] Okay.
+- [00:52:22,698 - 00:52:25,198] So, then we would have to
+- [00:52:25,198 - 00:52:27,698] have operators describing different kinds of particles.
+- [00:52:27,698 - 00:52:28,698] Right.
+- [00:52:28,698 - 00:52:30,698] No, but I mean, you've got the right idea.
+- [00:52:30,698 - 00:52:32,698] But let's use photons.
+- [00:52:32,698 - 00:52:36,198] Now, this is not quite the right description of
+- [00:52:36,198 - 00:52:39,698] photons, but let's ignore the photons are relativistic particles.
+- [00:52:39,698 - 00:52:42,698] This is more appropriate for non-relativistic particles.
+- [00:52:42,698 - 00:52:43,698] Let's ignore that.
+- [00:52:43,698 - 00:52:44,698] All right.
+- [00:52:44,698 - 00:52:47,698] So, a photon comes in, hits
+- [00:52:47,698 - 00:52:50,698] an atom, localized at a point,
+- [00:52:50,698 - 00:52:54,698] and from that point, two photons go off.
+- [00:52:54,698 - 00:52:56,698] Okay.
+- [00:52:56,698 - 00:52:57,698] All right.
+- [00:52:57,698 - 00:53:01,198] So, the first photon is the photon which
+- [00:53:01,198 - 00:53:04,698] we put into the system to begin with.
+- [00:53:04,698 - 00:53:09,698] Okay.
+- [00:53:09,698 - 00:53:11,698] What comes next?
+- [00:53:11,698 - 00:53:12,698] All right.
+- [00:53:12,698 - 00:53:14,698] So, we take this field operator.
+- [00:53:14,698 - 00:53:16,698] That's the field operator which
+- [00:53:16,698 - 00:53:18,698] absorbs a particle at position x.
+- [00:53:19,698 - 00:53:26,698] And we allow it to strike this initial state, 0 blah
+- [00:53:26,698 - 00:53:33,698] blah blah, 1, 0, 0, 0, in the kth place over here.
+- [00:53:33,698 - 00:53:35,698] Now, this is a sum of k.
+- [00:53:35,698 - 00:53:37,698] This k is different than this k.
+- [00:53:37,698 - 00:53:41,698] In what sense is this k different than this k?
+- [00:53:41,698 - 00:53:42,698] Here we're summing.
+- [00:53:42,698 - 00:53:46,698] This is a dummy index, just a summation index.
+- [00:53:46,698 - 00:53:47,698] This is some definite k.
+- [00:53:48,698 - 00:53:50,698] Let's call it k initial.
+- [00:53:50,698 - 00:53:53,698] The initial momentum of the particle.
+- [00:53:53,698 - 00:53:54,698] Okay.
+- [00:53:54,698 - 00:53:58,698] But, that's the first step.
+- [00:53:58,698 - 00:54:02,698] Then, once we work that out, we'll have to hit
+- [00:54:02,698 - 00:54:06,698] it with psi dagger of x times psi dagger of x.
+- [00:54:06,698 - 00:54:08,698] And here's psi dagger of x.
+- [00:54:08,698 - 00:54:11,698] So, let's write that down.
+- [00:54:11,698 - 00:54:14,198] Since k is a summation index,
+- [00:54:14,198 - 00:54:16,698] we should use a different letter.
+- [00:54:16,698 - 00:54:18,698] We shouldn't use k over again.
+- [00:54:18,698 - 00:54:25,698] Let's call it l.
+- [00:54:25,698 - 00:54:27,698] These are summation variables.
+- [00:54:27,698 - 00:54:31,698] It doesn't matter what you call them.
+- [00:54:31,698 - 00:54:32,698] All right.
+- [00:54:32,698 - 00:54:35,698] I just don't want to repeat the use of a
+- [00:54:35,698 - 00:54:38,698] summation variable over here and call it the same thing again.
+- [00:54:38,698 - 00:54:41,698] So, we have summation for
+- [00:54:41,698 - 00:54:44,698] the first operator, summation over l.
+- [00:54:44,698 - 00:54:52,698] A plus of l, e to the ilx.
+- [00:54:52,698 - 00:54:53,698] That's this one.
+- [00:54:53,698 - 00:55:00,698] Or e to the minus ilx.
+- [00:55:00,698 - 00:55:04,198] And what about the second
+- [00:55:04,198 - 00:55:07,698] application of psi, of psi dagger?
+- [00:55:07,698 - 00:55:10,198] We just have to write the same thing again,
+- [00:55:10,198 - 00:55:12,698] but again we better use a different summation index,
+- [00:55:12,698 - 00:55:14,698] because we're not allowed to read it.
+- [00:55:14,698 - 00:55:16,698] So, we have to repeat the
+- [00:55:16,698 - 00:55:18,698] use of a summation index twice.
+- [00:55:18,698 - 00:55:20,698] That wouldn't make sense.
+- [00:55:20,698 - 00:55:23,698] So, we have to repeat the same thing.
+- [00:55:23,698 - 00:55:26,698] What should we call the new summation index?
+- [00:55:26,698 - 00:55:28,698] klm?
+- [00:55:28,698 - 00:55:29,698] All right.
+- [00:55:29,698 - 00:55:31,698] m doesn't mean mass here.
+- [00:55:31,698 - 00:55:32,698] All right.
+- [00:55:32,698 - 00:55:34,698] It's wave number.
+- [00:55:34,698 - 00:55:40,698] m, a plus of l, e to the minus i.
+- [00:55:40,698 - 00:55:41,698] Oh, m, sorry.
+- [00:55:41,698 - 00:55:43,698] m, e to the i minus imx.
+- [00:55:44,698 - 00:55:45,698] All right.
+- [00:55:45,698 - 00:55:46,698] What kind of state does this create?
+- [00:55:46,698 - 00:55:50,698] Let's see what kind of state it creates.
+- [00:55:50,698 - 00:55:53,698] First of all, here's a big sum.
+- [00:55:53,698 - 00:55:56,198] Which terms of this sum give
+- [00:55:56,198 - 00:55:58,698] something which is not equal to zero?
+- [00:55:58,698 - 00:56:01,698] k sub i.
+- [00:56:01,698 - 00:56:02,698] k sub i.
+- [00:56:02,698 - 00:56:04,698] Only if this k here is
+- [00:56:04,698 - 00:56:06,698] not the same as this k.
+- [00:56:06,698 - 00:56:11,698] For example, if this is k sub 13,
+- [00:56:11,698 - 00:56:14,698] if that corresponds to the 13th slot,
+- [00:56:14,698 - 00:56:17,198] then what happens when I apply
+- [00:56:17,198 - 00:56:19,698] k1, e to the minus i k1?
+- [00:56:19,698 - 00:56:21,698] Well, it tries to absorb the first particle,
+- [00:56:21,698 - 00:56:23,698] but there is no first particle.
+- [00:56:23,698 - 00:56:24,698] Same for the second one.
+- [00:56:24,698 - 00:56:28,698] Only the 13th slot is occupied,
+- [00:56:28,698 - 00:56:32,698] so only k sub 13 will survive,
+- [00:56:32,698 - 00:56:35,698] or a sub 13 will
+- [00:56:35,698 - 00:56:38,698] survive when it hits this state.
+- [00:56:38,698 - 00:56:40,698] The rule is an annihilation operator
+- [00:56:40,698 - 00:56:42,698] has to find something to annihilate.
+- [00:56:42,698 - 00:56:44,698] So, this really reduces the number of times
+- [00:56:44,698 - 00:56:47,698] that this is the one term.
+- [00:56:47,698 - 00:56:51,698] It's summation, not summation, one term,
+- [00:56:51,698 - 00:57:03,698] and it's the term with a minus of k13,
+- [00:57:03,698 - 00:57:08,698] or k initial, just k initial,
+- [00:57:08,698 - 00:57:13,698] k initial times e to the i k initial x,
+- [00:57:14,698 - 00:57:17,698] acting on this state, one, huh.
+- [00:57:17,698 - 00:57:19,698] Now, what does this do?
+- [00:57:19,698 - 00:57:21,698] What does the annihilation operator
+- [00:57:21,698 - 00:57:23,698] do when it hits this state?
+- [00:57:23,698 - 00:57:30,698] It just removes that particle with a coefficient of one.
+- [00:57:30,698 - 00:57:34,698] So, we just erase it,
+- [00:57:34,698 - 00:57:37,698] and erase the particle,
+- [00:57:37,698 - 00:57:42,698] and all that's left is a state with no particles,
+- [00:57:42,698 - 00:57:43,698] times e to the i k.
+- [00:57:43,698 - 00:57:46,698] Times e to the i k initial x.
+- [00:57:46,698 - 00:57:51,698] But now, we have to apply this.
+- [00:57:51,698 - 00:57:55,698] We have to create particles,
+- [00:57:55,698 - 00:57:57,698] summation l,
+- [00:57:57,698 - 00:58:00,698] well, just exactly the summation that we have here.
+- [00:58:00,698 - 00:58:03,698] This part of it we're finished with,
+- [00:58:03,698 - 00:58:07,198] and it just gave us an e to
+- [00:58:07,198 - 00:58:10,698] the i k initial x times the vacuum.
+- [00:58:10,698 - 00:58:11,698] Okay.
+- [00:58:11,698 - 00:58:15,698] Okay, now what do these do?
+- [00:58:15,698 - 00:58:19,698] What does this one do first?
+- [00:58:19,698 - 00:58:25,698] It puts in a particle of momentum l.
+- [00:58:25,698 - 00:58:26,698] Okay.
+- [00:58:26,698 - 00:58:29,698] So, it puts in a particle of momentum l.
+- [00:58:29,698 - 00:58:34,698] That's what a plus of l does.
+- [00:58:34,698 - 00:58:39,698] And what does this one do?
+- [00:58:39,698 - 00:58:43,698] It puts in a particle of momentum m.
+- [00:58:43,698 - 00:58:45,698] So, the whole thing in the end is,
+- [00:58:45,698 - 00:58:54,698] we keep that, e to the i k initial x,
+- [00:58:54,698 - 00:58:58,698] e to the minus i mx,
+- [00:58:58,698 - 00:59:03,698] e to the minus i lx,
+- [00:59:03,698 - 00:59:08,698] times zero, zero,
+- [00:59:08,698 - 00:59:20,698] but now, when one, zero, zero, one, zero, whatever,
+- [00:59:20,698 - 00:59:22,698] summed over l and m.
+- [00:59:22,698 - 00:59:28,698] Which ones, which two sites are occupied?
+- [00:59:28,698 - 00:59:30,698] l and m.
+- [00:59:30,698 - 00:59:31,698] l and m.
+- [00:59:31,698 - 00:59:34,698] So, what it's given me is
+- [00:59:34,698 - 00:59:37,698] a sum over l and m.
+- [00:59:37,698 - 00:59:38,698] And now, let's just replace it.
+- [00:59:38,698 - 00:59:43,698] Let's just call this a two-particle state
+- [00:59:43,698 - 00:59:45,698] with a particle of momentum l
+- [00:59:45,698 - 00:59:50,698] and a particle of momentum m.
+- [00:59:50,698 - 00:59:53,698] The notation is now, I've used a different notation.
+- [00:59:53,698 - 00:59:56,698] I'm labeling this now as two particles,
+- [00:59:56,698 - 01:00:00,698] one with momentum l and one with momentum m.
+- [01:00:00,698 - 01:00:03,698] And it's a sum over such states.
+- [01:00:03,698 - 01:00:05,698] The sum has not gone away,
+- [01:00:05,698 - 01:00:08,698] but it's a sum over l and m.
+- [01:00:08,698 - 01:00:15,698] With a coefficient, with a functional dependence,
+- [01:00:15,698 - 01:00:18,698] e to the i k1x minus mx minus lx,
+- [01:00:18,698 - 01:00:22,698] all together, sum over m and l,
+- [01:00:22,698 - 01:00:29,198] e to the i k initial
+- [01:00:29,198 - 01:00:35,698] minus m minus lx times lm.
+- [01:00:35,698 - 01:00:36,698] Question.
+- [01:00:36,698 - 01:00:37,698] Yeah.
+- [01:00:37,698 - 01:00:39,698] Do the two creation operators commute?
+- [01:00:39,698 - 01:00:42,698] Yeah, the two creation operators commute.
+- [01:00:42,698 - 01:00:43,698] Creation operators commute...
+- [01:00:43,698 - 01:00:46,698] Okay, that's a very good question.
+- [01:00:46,698 - 01:00:52,698] The rule is all creation operators commute with each other.
+- [01:00:52,698 - 01:00:56,698] All annihilation operators commute with each other.
+- [01:00:56,698 - 01:01:00,698] And creation and annihilation operators commute
+- [01:01:00,698 - 01:01:05,698] if they refer to different momenta.
+- [01:01:05,698 - 01:01:06,698] Okay?
+- [01:01:06,698 - 01:01:09,698] If they refer to the same momenta,
+- [01:01:09,698 - 01:01:10,698] then they don't commute.
+- [01:01:10,698 - 01:01:12,698] Yeah.
+- [01:01:12,698 - 01:01:18,698] Say it again.
+- [01:01:18,698 - 01:01:20,698] Ah.
+- [01:01:20,698 - 01:01:21,698] Good, good point.
+- [01:01:21,698 - 01:01:22,698] Good, good, good.
+- [01:01:22,698 - 01:01:24,698] Okay.
+- [01:01:24,698 - 01:01:25,698] Right.
+- [01:01:25,698 - 01:01:33,698] This is correct if m does not equal l.
+- [01:01:33,698 - 01:01:34,698] What is this?
+- [01:01:34,698 - 01:01:35,698] This is...
+- [01:01:35,698 - 01:01:38,198] What is the probability for different values
+- [01:01:38,198 - 01:01:40,698] of l and m coming from here?
+- [01:01:40,698 - 01:01:42,198] You have to have conservation
+- [01:01:42,198 - 01:01:43,698] of momentum so they seem like...
+- [01:01:43,698 - 01:01:44,698] No, no, no, no.
+- [01:01:44,698 - 01:01:47,198] No conservation of momentum here because the
+- [01:01:47,198 - 01:01:49,698] atom which absorbed the photon could recoil.
+- [01:01:49,698 - 01:01:50,698] Right.
+- [01:01:50,698 - 01:01:53,698] So the heavy atom could absorb any amount of momentum.
+- [01:01:53,698 - 01:01:54,698] All right?
+- [01:01:54,698 - 01:01:57,698] So there's no conservation of momentum.
+- [01:01:57,698 - 01:02:00,698] What this is up here is the change in momentum.
+- [01:02:00,698 - 01:02:02,698] Initial momentum minus final momentum.
+- [01:02:02,698 - 01:02:04,698] It is, of course, the
+- [01:02:04,698 - 01:02:06,698] momentum carried away by the atom.
+- [01:02:06,698 - 01:02:07,698] All right?
+- [01:02:07,698 - 01:02:11,698] But this function here, which is a function
+- [01:02:11,698 - 01:02:15,698] of m and l, is just a phase.
+- [01:02:15,698 - 01:02:17,698] Its magnitude is one.
+- [01:02:17,698 - 01:02:20,698] So that means there are equal probabilities
+- [01:02:20,698 - 01:02:23,698] for all values of l and m.
+- [01:02:23,698 - 01:02:28,698] When you square it, the wave...
+- [01:02:28,698 - 01:02:30,698] You can think of this as
+- [01:02:30,698 - 01:02:32,698] the wave function for a two-particle state.
+- [01:02:32,698 - 01:02:37,198] The wave function is a pure phase, and
+- [01:02:37,198 - 01:02:41,698] all values of the momenta have equal probability.
+- [01:02:41,698 - 01:02:42,698] Okay?
+- [01:02:42,698 - 01:02:43,698] Except...
+- [01:02:43,698 - 01:02:45,698] Not quite.
+- [01:02:45,698 - 01:02:49,698] What about if l equals m?
+- [01:02:49,698 - 01:02:51,698] Then I made a mistake.
+- [01:02:51,698 - 01:02:55,698] And the reason that I made a mistake is when...
+- [01:02:55,698 - 01:02:58,698] All right, so let's go to that particular case.
+- [01:02:58,698 - 01:03:01,698] Let's take one particular case.
+- [01:03:02,698 - 01:03:08,698] Where l and m are the same.
+- [01:03:08,698 - 01:03:11,698] Of course, there are many, many such cases.
+- [01:03:11,698 - 01:03:12,698] L could be...
+- [01:03:12,698 - 01:03:13,698] M could be anything.
+- [01:03:13,698 - 01:03:16,198] But I want to focus
+- [01:03:16,198 - 01:03:18,698] on those contributions where the two...
+- [01:03:18,698 - 01:03:20,698] Where the l and the m are the same.
+- [01:03:20,698 - 01:03:21,698] All right?
+- [01:03:21,698 - 01:03:24,698] Then there's going to be
+- [01:03:24,698 - 01:03:27,698] the factor e to the 2imx.
+- [01:03:27,698 - 01:03:30,698] Or e to the minus 2imx.
+- [01:03:30,698 - 01:03:32,698] That's just because l and m are the same.
+- [01:03:32,698 - 01:03:34,698] So there'll be the same factor of...
+- [01:03:34,698 - 01:03:36,698] The same kind of factor there.
+- [01:03:36,698 - 01:03:39,698] But one thing will be new.
+- [01:03:39,698 - 01:03:41,698] What is it?
+- [01:03:41,698 - 01:03:46,698] What happens when a plus acts the first time?
+- [01:03:46,698 - 01:03:49,698] Probably it's the square root of the mth.
+- [01:03:49,698 - 01:03:50,698] It gives me...
+- [01:03:50,698 - 01:03:51,698] All right.
+- [01:03:51,698 - 01:03:53,698] It gives me a particle in the mth site.
+- [01:03:58,698 - 01:04:01,698] What happens if a plus acts again?
+- [01:04:02,698 - 01:04:05,698] It's going to act on the 2nd.
+- [01:04:05,698 - 01:04:06,698] No, no.
+- [01:04:06,698 - 01:04:08,698] It has the same momentum.
+- [01:04:08,698 - 01:04:12,698] It creates another particle, but it
+- [01:04:12,698 - 01:04:16,698] gives me a square root of 2.
+- [01:04:16,698 - 01:04:18,698] All right?
+- [01:04:18,698 - 01:04:20,698] It gives me a square root of 2.
+- [01:04:20,698 - 01:04:23,698] After the first one acted,
+- [01:04:23,698 - 01:04:26,698] now I take the second one.
+- [01:04:26,698 - 01:04:28,198] It looks for a particle of
+- [01:04:28,198 - 01:04:29,698] momentum m, and it finds one.
+- [01:04:29,698 - 01:04:31,698] Damn it, it finds one.
+- [01:04:31,698 - 01:04:34,698] So there's one particle present already.
+- [01:04:34,698 - 01:04:38,698] Remember the rule is that if it finds n
+- [01:04:38,698 - 01:04:42,698] particles here, you give it a square root of n.
+- [01:04:42,698 - 01:04:44,698] Square root of n plus 1.
+- [01:04:44,698 - 01:04:46,698] Square root of n plus 1.
+- [01:04:46,698 - 01:04:49,698] So what's the square root of n plus 1?
+- [01:04:49,698 - 01:04:51,698] Square root of 2.
+- [01:04:54,698 - 01:04:56,698] Wouldn't they have to be off by...
+- [01:04:56,698 - 01:04:58,698] L and m be off by 1?
+- [01:04:58,698 - 01:04:59,698] No, no, no.
+- [01:04:59,698 - 01:05:00,698] We could have created n plus 1.
+- [01:05:01,698 - 01:05:02,698] What's that?
+- [01:05:02,698 - 01:05:04,698] The a plus of n, if you square
+- [01:05:04,698 - 01:05:06,698] root of n plus 1, operating on n plus...
+- [01:05:06,698 - 01:05:09,698] Don't confuse particle number with momentum number.
+- [01:05:09,698 - 01:05:10,698] Right?
+- [01:05:10,698 - 01:05:11,698] Okay.
+- [01:05:11,698 - 01:05:12,698] Right.
+- [01:05:12,698 - 01:05:13,698] Right.
+- [01:05:13,698 - 01:05:14,698] Okay?
+- [01:05:14,698 - 01:05:15,698] Right.
+- [01:05:15,698 - 01:05:16,698] So...
+- [01:05:16,698 - 01:05:17,698] Right.
+- [01:05:17,698 - 01:05:21,198] So for the special case where l and m,
+- [01:05:21,198 - 01:05:24,698] where the 2 particles come out with the same momentum,
+- [01:05:24,698 - 01:05:27,198] it could be that momentum, it could
+- [01:05:27,198 - 01:05:29,698] be that momentum, it could be that momentum.
+- [01:05:29,698 - 01:05:32,698] If they come out with the same momentum,
+- [01:05:32,698 - 01:05:35,698] there's a factor of square root of 2.
+- [01:05:35,698 - 01:05:37,698] What does that mean about probabilities?
+- [01:05:37,698 - 01:05:40,698] Yeah.
+- [01:05:40,698 - 01:05:43,698] You square the coefficients of
+- [01:05:43,698 - 01:05:46,698] the state vectors to find probability.
+- [01:05:46,698 - 01:05:47,698] That's odd.
+- [01:05:47,698 - 01:05:50,698] If 2 particles go off in arbitrary directions,
+- [01:05:50,698 - 01:05:53,698] not the same with different momenta or different
+- [01:05:53,698 - 01:05:55,698] momenta, different magnitudes of momenta,
+- [01:05:55,698 - 01:05:57,698] there's one value of the probability.
+- [01:05:57,698 - 01:06:01,118] But, if you produce 2 particles with
+- [01:06:01,118 - 01:06:04,538] the same momentum, then the probability is twice
+- [01:06:04,538 - 01:06:06,118] as large.
+- [01:06:06,118 - 01:06:08,698] These particles like to be in the same state.
+- [01:06:08,698 - 01:06:09,698] So this is...
+- [01:06:09,698 - 01:06:10,698] All these are indistinguishable.
+- [01:06:10,698 - 01:06:11,698] Hm?
+- [01:06:11,698 - 01:06:12,698] They have to be indistinguishable.
+- [01:06:12,698 - 01:06:13,698] Two different kinds.
+- [01:06:13,698 - 01:06:14,698] These are...
+- [01:06:14,698 - 01:06:15,698] Oh, these are...
+- [01:06:15,698 - 01:06:16,698] Sorry.
+- [01:06:16,698 - 01:06:17,698] These are...
+- [01:06:17,698 - 01:06:21,698] This is the description of indistinguishable particles.
+- [01:06:21,698 - 01:06:22,698] Right.
+- [01:06:22,698 - 01:06:25,198] This is very much the description of
+- [01:06:25,198 - 01:06:27,698] particles which are not distinguishable from each other.
+- [01:06:27,698 - 01:06:33,278] So, the production of 2 photons in a collision
+- [01:06:33,278 - 01:06:38,858] is twice as probable if the 2 photons come
+- [01:06:38,858 - 01:06:40,778] off in the same state as
+- [01:06:40,778 - 01:06:42,698] if they came off in different states.
+- [01:06:42,698 - 01:06:43,698] Excuse me.
+- [01:06:43,698 - 01:06:44,698] You talked about the commutativity of the operators.
+- [01:06:44,698 - 01:06:45,698] Yes.
+- [01:06:45,698 - 01:06:46,198] In a complex reaction, how do
+- [01:06:46,198 - 01:06:46,698] you know which order to apply them?
+- [01:06:46,698 - 01:06:47,698] If you...
+- [01:06:47,698 - 01:06:48,698] Well...
+- [01:06:48,698 - 01:06:49,698] But if you got, you know, a...
+- [01:06:49,698 - 01:06:50,698] You know, a...
+- [01:06:50,698 - 01:06:51,698] You know, a...
+- [01:06:51,698 - 01:06:52,698] You know, a...
+- [01:06:52,698 - 01:06:53,698] You know, a...
+- [01:06:53,698 - 01:06:54,698] You know, a...
+- [01:06:54,698 - 01:06:55,698] You know, a...
+- [01:06:55,698 - 01:06:56,698] You know, a...
+- [01:06:56,698 - 01:06:58,198] But if you got, you know,
+- [01:06:58,198 - 01:06:59,698] particles being annihilated, particles being generated,
+- [01:06:59,698 - 01:07:02,698] is it obvious always the brutality involved?
+- [01:07:02,698 - 01:07:03,698] No.
+- [01:07:03,698 - 01:07:05,698] It's not obvious what order.
+- [01:07:05,698 - 01:07:09,198] But with different orders, you can always commute
+- [01:07:09,198 - 01:07:12,698] them until they come out in the order
+- [01:07:12,698 - 01:07:15,198] in which all the annihilation operators are
+- [01:07:15,198 - 01:07:17,698] to the right and all the creation operators
+- [01:07:17,698 - 01:07:18,698] are to the left.
+- [01:07:18,698 - 01:07:19,698] That's called normal ordering.
+- [01:07:19,698 - 01:07:22,198] And in that ordering, the first thing you
+- [01:07:22,198 - 01:07:24,698] do is you let the operators eat particles
+- [01:07:24,698 - 01:07:26,698] and then spit out some new ones.
+- [01:07:26,698 - 01:07:29,698] So normal ordering, but we'll come to that.
+- [01:07:29,698 - 01:07:30,698] We'll come to that.
+- [01:07:30,698 - 01:07:32,198] If the probability of A, L, and M are
+- [01:07:32,198 - 01:07:33,698] all the same, then they're sort of like zero or
+- [01:07:33,698 - 01:07:34,698] very contestable.
+- [01:07:34,698 - 01:07:37,698] So what does twice that mean?
+- [01:07:37,698 - 01:07:38,698] Okay.
+- [01:07:38,698 - 01:07:39,698] That is a good question.
+- [01:07:39,698 - 01:07:45,198] But for that, I ask you to keep in
+- [01:07:45,198 - 01:07:50,698] mind the example in which the momenta are quantized.
+- [01:07:50,698 - 01:07:53,198] For example, these could be photons in
+- [01:07:53,198 - 01:07:55,698] a cavity with a momenta in it.
+- [01:07:55,698 - 01:07:59,198] So if a particle in a cavity with a
+- [01:07:59,198 - 01:08:02,698] momenta are quantized, if a particle or a photon
+- [01:08:02,698 - 01:08:06,198] comes in, hits an atom, and creates two photons,
+- [01:08:06,198 - 01:08:09,698] it will be twice as probable for the two photons
+- [01:08:09,698 - 01:08:12,698] to be in the same discrete energy
+- [01:08:12,698 - 01:08:15,698] level as to be in different levels.
+- [01:08:15,698 - 01:08:17,698] So, yeah.
+- [01:08:17,698 - 01:08:20,698] And the two photons are the same energy level.
+- [01:08:20,698 - 01:08:22,198] So if they're in the same
+- [01:08:22,198 - 01:08:23,698] energy level, they're not the same.
+- [01:08:23,698 - 01:08:24,698] Right.
+- [01:08:24,698 - 01:08:28,198] It seems to me that there's only
+- [01:08:28,198 - 01:08:31,698] one case where L equals M equals 3.
+- [01:08:31,698 - 01:08:32,698] Is that right?
+- [01:08:32,698 - 01:08:35,698] Only one case that comes up in
+- [01:08:35,698 - 01:08:38,698] the sum where L equals M equals 3.
+- [01:08:38,698 - 01:08:43,698] But there are two cases where one of L
+- [01:08:43,698 - 01:08:48,698] and M is 2 and the other is 3.
+- [01:08:48,698 - 01:08:51,198] In other words, if L and M are
+- [01:08:51,198 - 01:08:53,698] different, then they show up twice in the sum.
+- [01:08:53,698 - 01:08:55,698] So, the please do not attempt
+- [01:08:55,698 - 01:08:57,698] to predict L is 2 or 3.
+- [01:08:57,698 - 01:08:58,698] You just have to think about it.
+- [01:08:58,698 - 01:08:59,698] Okay, so let's see.
+- [01:08:59,698 - 01:09:05,698] Yeah, you're right.
+- [01:09:05,698 - 01:09:12,698] So let's see what that says.
+- [01:09:12,698 - 01:09:14,698] Let's see.
+- [01:09:14,698 - 01:09:16,698] If L and M are different.
+- [01:09:16,698 - 01:09:17,698] Okay, good.
+- [01:09:17,698 - 01:09:20,698] So let's do that case.
+- [01:09:21,698 - 01:09:27,478] That's going to give you a...
+- [01:09:27,478 - 01:09:28,837] What kind of factor, then?
+- [01:09:34,837 - 01:09:36,238] Right. You are right.
+- [01:09:36,377 - 01:09:36,938] So let's see.
+- [01:09:36,938 - 01:09:38,938] So what...
+- [01:09:38,938 - 01:09:46,308] So if we have a of 2,
+- [01:09:46,308 - 01:09:53,678] a dagger of 2, a dagger of 3,
+- [01:09:53,678 - 01:09:58,318] we have to add to that plus
+- [01:09:58,318 - 01:10:02,958] a dagger of 3, a dagger of 2.
+- [01:10:04,998 - 01:10:06,238] That's true.
+- [01:10:08,938 - 01:10:12,338] So it looks like this one is more probable.
+- [01:10:14,558 - 01:10:16,308] But it's not as much
+- [01:10:16,308 - 01:10:18,058] more probable as it would be
+- [01:10:18,058 - 01:10:20,418] if that square root of 2 wasn't there.
+- [01:10:23,058 - 01:10:23,938] So let's...
+- [01:10:23,938 - 01:10:25,218] Okay, so let me give you
+- [01:10:25,218 - 01:10:26,498] another example where you really see...
+- [01:10:26,498 - 01:10:27,418] This is...
+- [01:10:28,098 - 01:10:30,538] Yeah, I actually think you're right,
+- [01:10:30,698 - 01:10:36,478] that the ones with different momenta,
+- [01:10:36,558 - 01:10:38,738] because there are two different ways to do it,
+- [01:10:38,938 - 01:10:40,538] may be more probable.
+- [01:10:40,898 - 01:10:42,158] But let me give you another example
+- [01:10:42,158 - 01:10:44,838] where you can see these
+- [01:10:44,838 - 01:10:47,518] square roots of n in action.
+- [01:10:49,518 - 01:10:53,038] Supposing we have a particle which can decay.
+- [01:10:56,398 - 01:10:58,298] So we have some sort of particle
+- [01:10:58,298 - 01:11:00,198] which can decay and emit a photon.
+- [01:11:03,738 - 01:11:05,418] How do we describe that?
+- [01:11:05,978 - 01:11:08,618] We typically describe that by just...
+- [01:11:08,618 - 01:11:08,918] One.
+- [01:11:08,918 - 01:11:10,278] A psi of x.
+- [01:11:11,258 - 01:11:12,418] Suppose it can emit one photon.
+- [01:11:12,498 - 01:11:13,298] Let's see, what do we...
+- [01:11:13,298 - 01:11:14,078] Yeah, one photon.
+- [01:11:14,158 - 01:11:15,338] One photon is enough.
+- [01:11:15,518 - 01:11:16,578] One photon is enough.
+- [01:11:17,678 - 01:11:19,668] All we want to do is
+- [01:11:19,668 - 01:11:21,658] create a photon at point x.
+- [01:11:21,878 - 01:11:24,318] Let's create a photon at point x.
+- [01:11:25,038 - 01:11:27,448] All right, so that's just psi
+- [01:11:27,448 - 01:11:29,858] dagger of x acting on the vacuum.
+- [01:11:31,058 - 01:11:33,148] This would be the decay
+- [01:11:33,148 - 01:11:35,238] of an object producing a photon,
+- [01:11:35,718 - 01:11:37,308] or just the emission of
+- [01:11:37,308 - 01:11:38,898] a photon from a point x.
+- [01:11:39,078 - 01:11:41,618] What does this give?
+- [01:11:41,618 - 01:11:46,518] This gives sum over momenta, k,
+- [01:11:47,538 - 01:11:51,598] creation operator of momentum k,
+- [01:11:52,758 - 01:11:53,958] e to the minus...
+- [01:11:53,958 - 01:11:54,758] e to the plus,
+- [01:11:55,318 - 01:11:57,678] e to the minus i, kx,
+- [01:11:58,418 - 01:12:00,418] acting on the vacuum.
+- [01:12:02,538 - 01:12:04,088] Vacuum means the state with
+- [01:12:04,088 - 01:12:05,638] no photons in it, for example.
+- [01:12:06,418 - 01:12:07,338] All right, what does this give?
+- [01:12:07,338 - 01:12:08,798] This gives the sum over k,
+- [01:12:08,918 - 01:12:12,998] e to the minus i, kx,
+- [01:12:13,518 - 01:12:16,278] times a state with a particle of momentum k.
+- [01:12:17,638 - 01:12:21,778] Obviously, equal probability for all possible momenta k,
+- [01:12:22,258 - 01:12:23,918] in this particular case.
+- [01:12:25,038 - 01:12:25,158] Okay?
+- [01:12:25,418 - 01:12:27,398] Equal probability for all momenta k.
+- [01:12:27,878 - 01:12:29,118] Now let me do something else.
+- [01:12:29,598 - 01:12:32,578] Let me suppose that there was pre-existing
+- [01:12:32,578 - 01:12:37,858] a particle of momentum l.
+- [01:12:37,858 - 01:12:38,858] There was pre-existing...
+- [01:12:38,918 - 01:12:42,918] In the cavity, there was a particle of momentum l,
+- [01:12:42,918 - 01:12:44,918] and our atom decays.
+- [01:12:44,918 - 01:12:46,418] There's an atom that's going
+- [01:12:46,418 - 01:12:47,918] to decay and emit a photon.
+- [01:12:47,918 - 01:12:48,918] All right?
+- [01:12:48,918 - 01:12:51,918] But there's already a pre-existing photon of momentum l.
+- [01:12:51,918 - 01:12:53,418] The first calculation told us
+- [01:12:53,418 - 01:12:54,918] that in the simple model situation,
+- [01:12:54,918 - 01:12:57,418] we have equal probabilities for
+- [01:12:57,418 - 01:12:59,918] the emission of all possible momenta.
+- [01:12:59,918 - 01:13:01,918] Don't worry about conservation laws here.
+- [01:13:01,918 - 01:13:03,918] We've abandoned them a while back.
+- [01:13:03,918 - 01:13:05,918] Uh...
+- [01:13:05,918 - 01:13:07,918] Tells us...
+- [01:13:07,918 - 01:13:10,918] That there's nothing distinctive about any of the momenta.
+- [01:13:10,918 - 01:13:13,918] They all have equal probabilities of being emitted.
+- [01:13:13,918 - 01:13:16,418] But now let's suppose there's already
+- [01:13:16,418 - 01:13:18,918] a pre-existing particle of momentum l.
+- [01:13:19,918 - 01:13:20,918] Okay?
+- [01:13:20,918 - 01:13:22,918] Then...
+- [01:13:23,918 - 01:13:27,918] That means we have to operate on this here...
+- [01:13:29,918 - 01:13:32,918] with a particle that already has momentum l in it.
+- [01:13:32,918 - 01:13:34,918] There's a one here someplace.
+- [01:13:34,918 - 01:13:35,918] Ahem.
+- [01:13:35,918 - 01:13:36,918] Ahem.
+- [01:13:37,918 - 01:13:38,918] Okay.
+- [01:13:38,918 - 01:13:40,918] Supposing k is not...
+- [01:13:40,918 - 01:13:42,918] This is the lth place over here.
+- [01:13:42,918 - 01:13:45,918] Supposing k is not equal to l...
+- [01:13:47,918 - 01:13:48,918] Then...
+- [01:13:48,918 - 01:13:52,918] This just creates a particle of momentum k...
+- [01:13:52,918 - 01:13:54,918] with no square roots of anything.
+- [01:13:54,918 - 01:13:56,918] Because it looked for...
+- [01:13:56,918 - 01:13:58,918] It created a particle of k
+- [01:13:58,918 - 01:14:00,918] where there was no particle of k.
+- [01:14:01,918 - 01:14:03,418] So the square root of n
+- [01:14:03,418 - 01:14:04,918] is just square root of 1.
+- [01:14:04,918 - 01:14:05,918] All right?
+- [01:14:05,918 - 01:14:06,918] And what does it do?
+- [01:14:06,918 - 01:14:09,918] It creates a state...
+- [01:14:09,918 - 01:14:12,918] with an e to the minus ikx...
+- [01:14:12,918 - 01:14:14,918] times...
+- [01:14:14,918 - 01:14:16,918] k...
+- [01:14:16,918 - 01:14:18,918] and l.
+- [01:14:19,918 - 01:14:21,918] The lth particle is still there...
+- [01:14:21,918 - 01:14:23,918] and the new particle is k.
+- [01:14:23,918 - 01:14:25,918] But now supposing we look
+- [01:14:25,918 - 01:14:27,918] for the term in this sum...
+- [01:14:27,918 - 01:14:30,918] where k is equal to l...
+- [01:14:30,918 - 01:14:32,918] Then what do we get?
+- [01:14:32,918 - 01:14:34,918] Then we get a square root of 2.
+- [01:14:34,918 - 01:14:36,918] Then we get a square root of 2.
+- [01:14:36,918 - 01:14:37,918] So this is correct.
+- [01:14:37,918 - 01:14:39,918] As long as k is not equal to l...
+- [01:14:39,918 - 01:14:41,918] we get a state with two particles...
+- [01:14:41,918 - 01:14:44,918] with a wave function e to the minus ikx...
+- [01:14:44,918 - 01:14:46,918] the original lth particle is still there...
+- [01:14:46,918 - 01:14:48,918] it was just a bystander...
+- [01:14:48,918 - 01:14:50,918] and a particle of momentum k was emitted.
+- [01:14:50,918 - 01:14:52,418] It was emitted with an
+- [01:14:52,418 - 01:14:53,918] amplitude e to the minus ikx...
+- [01:14:53,918 - 01:14:56,918] a quantum mechanical amplitude e to the minus ikx.
+- [01:14:56,918 - 01:14:58,918] So the original lth particle is still there...
+- [01:14:58,918 - 01:15:00,918] it was just a bystander...
+- [01:15:00,918 - 01:15:03,918] and a particle of momentum k was emitted...
+- [01:15:03,918 - 01:15:05,918] with a wave function e to the minus ikx...
+- [01:15:05,918 - 01:15:08,918] a quantum mechanical amplitude e to the minus ikx.
+- [01:15:08,918 - 01:15:11,918] But what about the possibility that...
+- [01:15:11,918 - 01:15:13,918] k here is equal to l?
+- [01:15:13,918 - 01:15:15,918] Then what happens?
+- [01:15:18,918 - 01:15:20,918] By a factor of 2.
+- [01:15:20,918 - 01:15:21,918] By a factor of 2.
+- [01:15:21,918 - 01:15:23,918] Because now this a of k...
+- [01:15:23,918 - 01:15:25,918] is a of l...
+- [01:15:25,918 - 01:15:28,918] that term is just a of l...
+- [01:15:28,918 - 01:15:30,918] There's already a particle there...
+- [01:15:30,918 - 01:15:33,918] of momentum l...
+- [01:15:33,918 - 01:15:37,918] and so you get square root of 2.
+- [01:15:37,918 - 01:15:39,918] That's what these operators do.
+- [01:15:39,918 - 01:15:41,918] That's what these things do.
+- [01:15:41,918 - 01:15:43,918] They give you factors of square root...
+- [01:15:43,918 - 01:15:47,918] of the number of particles of the type...
+- [01:15:47,918 - 01:15:49,918] each time one of these things acts.
+- [01:15:49,918 - 01:15:53,918] So if there was particles all over the place here...
+- [01:15:53,918 - 01:15:58,918] then you would have an enhanced probability...
+- [01:15:58,918 - 01:15:59,918] for...
+- [01:15:59,918 - 01:16:02,918] for producing particles of the kind...
+- [01:16:02,918 - 01:16:04,918] which are already there.
+- [01:16:06,918 - 01:16:07,918] Yes.
+- [01:16:07,918 - 01:16:08,918] That's called...
+- [01:16:08,918 - 01:16:11,918] Yes, this is called stimulated emission.
+- [01:16:12,918 - 01:16:14,918] Stimulated emission.
+- [01:16:14,918 - 01:16:16,918] But the particle l has to be...
+- [01:16:16,918 - 01:16:18,918] at the same location, right?
+- [01:16:18,918 - 01:16:20,918] Has to be at the same momentum...
+- [01:16:20,918 - 01:16:22,918] in this case.
+- [01:16:22,918 - 01:16:24,918] It can't be in the same location.
+- [01:16:24,918 - 01:16:26,918] It can't be both in the same position...
+- [01:16:26,918 - 01:16:27,918] and the same momentum.
+- [01:16:27,918 - 01:16:28,918] So it can be like...
+- [01:16:29,918 - 01:16:31,918] you know, one mile away...
+- [01:16:31,918 - 01:16:32,918] and it will still...
+- [01:16:32,918 - 01:16:35,918] Well, really particles come out in wave packets.
+- [01:16:35,918 - 01:16:37,918] They don't really come out in the street...
+- [01:16:37,918 - 01:16:38,918] momentum eigenstates.
+- [01:16:38,918 - 01:16:39,918] But in a cavity...
+- [01:16:39,918 - 01:16:42,918] in a cavity they come out...
+- [01:16:42,918 - 01:16:44,918] with definite momenta.
+- [01:16:44,918 - 01:16:45,918] And...
+- [01:16:45,918 - 01:16:47,918] And this is a real effect.
+- [01:16:47,918 - 01:16:48,918] This is a real effect...
+- [01:16:48,918 - 01:16:50,918] that if there are particles present...
+- [01:16:50,918 - 01:16:53,918] of filling the cavity...
+- [01:16:53,918 - 01:16:57,918] then the decay will preferentially happen...
+- [01:16:57,918 - 01:16:58,918] into photons...
+- [01:16:58,918 - 01:17:00,918] which have the momenta...
+- [01:17:00,918 - 01:17:02,918] of the particles in the cavity.
+- [01:17:02,918 - 01:17:04,918] The more particles you have in the cavity...
+- [01:17:04,918 - 01:17:05,918] of a given momentum...
+- [01:17:05,918 - 01:17:07,918] the more probable it is...
+- [01:17:07,918 - 01:17:09,918] that the next particle will come out...
+- [01:17:09,918 - 01:17:11,918] with that momentum.
+- [01:17:11,918 - 01:17:13,918] So if instead of having one particle...
+- [01:17:13,918 - 01:17:15,918] in this lth slot...
+- [01:17:15,918 - 01:17:18,918] we had a hundred particles in this lth slot...
+- [01:17:18,918 - 01:17:20,918] then we would get a factor of square root...
+- [01:17:20,918 - 01:17:22,918] of 101, I guess.
+- [01:17:22,918 - 01:17:24,918] Yeah, square root of 101...
+- [01:17:24,918 - 01:17:26,918] and then we would get...
+- [01:17:26,918 - 01:17:27,918] a factor of square root...
+- [01:17:27,918 - 01:17:32,918] of 101...
+- [01:17:32,918 - 01:17:34,918] and the probability would be...
+- [01:17:34,918 - 01:17:36,918] 101 times larger...
+- [01:17:36,918 - 01:17:39,918] that the atom decays...
+- [01:17:39,918 - 01:17:41,918] into the state...
+- [01:17:41,918 - 01:17:43,918] photon...
+- [01:17:43,918 - 01:17:45,918] with the same momentum...
+- [01:17:45,918 - 01:17:47,918] as that 101 particles.
+- [01:17:47,918 - 01:17:49,918] Okay, so you can figure out...
+- [01:17:49,918 - 01:17:51,918] more generally what the answer will be.
+- [01:17:51,918 - 01:17:53,918] That's called stimulated emission.
+- [01:17:53,918 - 01:17:55,918] And what it means...
+- [01:17:55,918 - 01:17:57,918] is that...
+- [01:17:57,918 - 01:17:59,918] just the presence of particles...
+- [01:17:59,918 - 01:18:01,918] of a given type...
+- [01:18:01,918 - 01:18:03,918] will increase the probability...
+- [01:18:03,918 - 01:18:06,918] that a decay takes place...
+- [01:18:06,918 - 01:18:09,918] but only when the decay takes place...
+- [01:18:09,918 - 01:18:11,918] with the final momentum being...
+- [01:18:11,918 - 01:18:13,918] the same as one of the momenta...
+- [01:18:13,918 - 01:18:15,918] already in that.
+- [01:18:15,918 - 01:18:18,918] So what I gather here is that...
+- [01:18:18,918 - 01:18:20,918] two new particles will still prefer...
+- [01:18:20,918 - 01:18:22,918] to have different momenta than each other.
+- [01:18:22,918 - 01:18:24,918] Yeah, but not as much...
+- [01:18:24,918 - 01:18:26,918] as if that extra square root of 2...
+- [01:18:27,918 - 01:18:30,918] wasn't there.
+- [01:18:30,918 - 01:18:32,918] Right, but then...
+- [01:18:32,918 - 01:18:34,918] they will be...
+- [01:18:34,918 - 01:18:36,918] sort of attracted to...
+- [01:18:36,918 - 01:18:37,918] existing momenta.
+- [01:18:37,918 - 01:18:39,918] Yeah, it's not a real legitimate...
+- [01:18:39,918 - 01:18:41,918] attraction of any kind.
+- [01:18:41,918 - 01:18:43,918] It's a statistical effect.
+- [01:18:43,918 - 01:18:47,918] It's the effect of...
+- [01:18:47,918 - 01:18:51,918] identity of particles.
+- [01:18:51,918 - 01:18:52,918] Now particles...
+- [01:18:52,918 - 01:18:54,918] not all particles...
+- [01:18:54,918 - 01:18:56,918] have this same tendency, incidentally.
+- [01:18:57,918 - 01:19:00,918] Particles come in two kinds.
+- [01:19:00,918 - 01:19:02,918] There are fermions...
+- [01:19:02,918 - 01:19:04,918] and bosons.
+- [01:19:04,918 - 01:19:06,918] Bosons are particles described...
+- [01:19:06,918 - 01:19:08,918] as I described them here.
+- [01:19:08,918 - 01:19:10,918] Creation and annihilation operators...
+- [01:19:10,918 - 01:19:12,918] with the mathematics of the creation...
+- [01:19:12,918 - 01:19:14,918] and annihilation operators...
+- [01:19:14,918 - 01:19:16,918] being the mathematics...
+- [01:19:16,918 - 01:19:18,918] of harmonic oscillators.
+- [01:19:18,918 - 01:19:20,918] Particular square roots of n...
+- [01:19:20,918 - 01:19:23,918] with the creation and annihilation operators...
+- [01:19:23,918 - 01:19:25,918] having the algebraic...
+- [01:19:25,918 - 01:19:27,918] commutation relations...
+- [01:19:27,918 - 01:19:29,918] of the two kinds.
+- [01:19:29,918 - 01:19:30,918] And then...
+- [01:19:30,918 - 01:19:31,918] you have this tendency...
+- [01:19:31,918 - 01:19:33,918] this is a very, very general tendency...
+- [01:19:33,918 - 01:19:35,918] that the more particles you have...
+- [01:19:35,918 - 01:19:37,918] the more likely it is...
+- [01:19:37,918 - 01:19:38,918] you will decay...
+- [01:19:38,918 - 01:19:39,918] or produce particles...
+- [01:19:39,918 - 01:19:41,918] of the same momentum.
+- [01:19:41,918 - 01:19:43,918] Same thing happens...
+- [01:19:43,918 - 01:19:45,918] in scattering reactions.
+- [01:19:45,918 - 01:19:47,918] If you have a scattering reaction...
+- [01:19:47,918 - 01:19:49,918] and it tends to make particles...
+- [01:19:49,918 - 01:19:51,918] of different momenta...
+- [01:19:51,918 - 01:19:53,918] if you already have momenta...
+- [01:19:53,918 - 01:19:55,918] present of a certain kind...
+- [01:19:55,918 - 01:19:57,918] it will tend to preferentially...
+- [01:19:57,918 - 01:19:59,918] the products of collision...
+- [01:19:59,918 - 01:20:00,918] to come out with the momenta...
+- [01:20:00,918 - 01:20:02,918] of the particles there.
+- [01:20:02,918 - 01:20:03,918] Incidentally, I said...
+- [01:20:03,918 - 01:20:05,918] it's called stimulated emission...
+- [01:20:05,918 - 01:20:07,918] when a particle...
+- [01:20:07,918 - 01:20:09,918] when an atom decays...
+- [01:20:09,918 - 01:20:11,918] in the presence of already...
+- [01:20:11,918 - 01:20:13,918] pre-existing photons...
+- [01:20:13,918 - 01:20:15,918] that enhances the probability...
+- [01:20:15,918 - 01:20:17,918] for it to decay.
+- [01:20:17,918 - 01:20:20,918] When there are no photons present...
+- [01:20:20,918 - 01:20:22,918] then it just decays...
+- [01:20:22,918 - 01:20:23,918] with the probability...
+- [01:20:23,918 - 01:20:25,918] you know, with the coefficient one...
+- [01:20:25,918 - 01:20:27,918] that's spontaneous emission.
+- [01:20:27,918 - 01:20:29,918] So spontaneous emission...
+- [01:20:29,918 - 01:20:31,918] is the emission...
+- [01:20:31,918 - 01:20:33,918] which is unaffected...
+- [01:20:33,918 - 01:20:34,918] by additional particles...
+- [01:20:34,918 - 01:20:35,918] because there are no...
+- [01:20:35,918 - 01:20:37,918] additional particles.
+- [01:20:37,918 - 01:20:41,918] Spontaneous...
+- [01:20:41,918 - 01:20:43,918] stimulated emission...
+- [01:20:43,918 - 01:20:45,918] is the tendency for other particles...
+- [01:20:45,918 - 01:20:47,918] to stimulate the emission...
+- [01:20:47,918 - 01:20:48,918] and make it happen...
+- [01:20:48,918 - 01:20:50,918] with a higher probability.
+- [01:20:50,918 - 01:20:52,918] There is a classical analog...
+- [01:20:52,918 - 01:20:54,918] of this incidentally.
+- [01:20:54,918 - 01:20:56,918] If you have an atom...
+- [01:20:56,918 - 01:20:58,918] which is radiating...
+- [01:20:58,918 - 01:21:00,918] even just classically...
+- [01:21:00,918 - 01:21:02,918] and you have an electromagnetic wave...
+- [01:21:02,918 - 01:21:04,918] passing by it...
+- [01:21:04,918 - 01:21:06,918] the electromagnetic wave...
+- [01:21:06,918 - 01:21:08,918] will vibrate the...
+- [01:21:08,918 - 01:21:10,918] will shake the electrons...
+- [01:21:10,918 - 01:21:12,918] and cause them...
+- [01:21:12,918 - 01:21:14,918] to radiate...
+- [01:21:14,918 - 01:21:16,918] with a higher probability...
+- [01:21:16,918 - 01:21:18,918] than they would have radiated...
+- [01:21:18,918 - 01:21:20,918] or faster, radiate faster...
+- [01:21:20,918 - 01:21:22,918] than they would have radiated...
+- [01:21:22,918 - 01:21:24,918] without that electromagnetic wave...
+- [01:21:24,918 - 01:21:25,918] going past.
+- [01:21:25,918 - 01:21:27,918] So, the way that...
+- [01:21:27,918 - 01:21:29,918] the emitted electromagnetic wave...
+- [01:21:29,918 - 01:21:31,918] come out with the same direction...
+- [01:21:31,918 - 01:21:32,918] same moment...
+- [01:21:32,918 - 01:21:34,918] same wave number...
+- [01:21:34,918 - 01:21:35,918] so, it really is...
+- [01:21:35,918 - 01:21:37,918] a quantum mechanical version...
+- [01:21:37,918 - 01:21:39,918] of something that was known classically...
+- [01:21:39,918 - 01:21:41,918] namely just that a pre-existing wave...
+- [01:21:41,918 - 01:21:43,918] will excite the system...
+- [01:21:43,918 - 01:21:45,918] to radiate more.
+- [01:21:45,918 - 01:21:47,918] Just because pre-existing wave...
+- [01:21:47,918 - 01:21:49,918] will vibrate the electrons.
+- [01:21:49,918 - 01:21:51,918] Okay.
+- [01:21:51,918 - 01:21:53,918] Particles of this type...
+- [01:21:53,918 - 01:21:55,918] which have the tendency...
+- [01:21:55,918 - 01:21:57,918] to be in the same state...
+- [01:21:57,918 - 01:21:59,918] particles...
+- [01:21:59,918 - 01:22:01,918] they don't really attract...
+- [01:22:01,918 - 01:22:03,918] it's not that they attract...
+- [01:22:03,918 - 01:22:05,918] that would be a wrong language...
+- [01:22:05,918 - 01:22:07,918] but which have the statistical probability...
+- [01:22:07,918 - 01:22:09,918] because of the square roots of n...
+- [01:22:09,918 - 01:22:11,918] to like to be in the same state...
+- [01:22:11,918 - 01:22:13,918] those are called bosons.
+- [01:22:13,918 - 01:22:15,918] They're characterized by creation...
+- [01:22:15,918 - 01:22:17,918] and annihilation operators.
+- [01:22:17,918 - 01:22:19,918] Let's write down the mathematical rules.
+- [01:22:23,918 - 01:22:25,918] There's the mathematical rules...
+- [01:22:25,918 - 01:22:27,918] of bosons.
+- [01:22:33,918 - 01:22:35,918] For each momentum...
+- [01:22:35,918 - 01:22:37,918] there are...
+- [01:22:37,918 - 01:22:39,918] creation and annihilation operators.
+- [01:22:39,918 - 01:22:41,918] The creation...
+- [01:22:41,918 - 01:22:43,918] and annihilation operators...
+- [01:22:43,918 - 01:22:45,918] have the property that all creation operators...
+- [01:22:45,918 - 01:22:47,918] for any momenta...
+- [01:22:47,918 - 01:22:49,918] commute...
+- [01:22:53,918 - 01:22:55,918] So, any...
+- [01:22:55,918 - 01:22:57,918] a plus of k...
+- [01:22:57,918 - 01:22:59,918] times a plus of l...
+- [01:22:59,918 - 01:23:01,918] is the same thing as...
+- [01:23:01,918 - 01:23:03,918] a plus of l...
+- [01:23:03,918 - 01:23:05,918] times a plus of k.
+- [01:23:05,918 - 01:23:07,918] That's true if k equals l...
+- [01:23:07,918 - 01:23:09,918] or k doesn't equal l.
+- [01:23:09,918 - 01:23:11,918] Same thing with the annihilation operators.
+- [01:23:19,918 - 01:23:21,918] But...
+- [01:23:21,918 - 01:23:23,918] an annihilation operator...
+- [01:23:23,918 - 01:23:25,918] with a creation operator...
+- [01:23:25,918 - 01:23:27,918] they do not commute.
+- [01:23:27,918 - 01:23:29,918] Now, do you remember what we found...
+- [01:23:29,918 - 01:23:31,918] for the harmonic oscillator...
+- [01:23:31,918 - 01:23:33,918] when we did it?
+- [01:23:33,918 - 01:23:35,918] Just one oscillator.
+- [01:23:35,918 - 01:23:37,918] A minus with a plus.
+- [01:23:41,918 - 01:23:43,918] We got one.
+- [01:23:43,918 - 01:23:45,918] One.
+- [01:23:45,918 - 01:23:47,918] Alright.
+- [01:23:47,918 - 01:23:49,918] This is one...
+- [01:23:49,918 - 01:23:51,918] if k equals l...
+- [01:23:51,918 - 01:23:53,918] and zero otherwise.
+- [01:23:53,918 - 01:23:55,918] The rule is...
+- [01:23:55,918 - 01:23:57,918] they always commute...
+- [01:23:57,918 - 01:23:59,918] if we're talking about different momenta.
+- [01:23:59,918 - 01:24:01,918] If we're talking about...
+- [01:24:01,918 - 01:24:03,918] the same momenta...
+- [01:24:03,918 - 01:24:05,918] then an annihilation operator...
+- [01:24:05,918 - 01:24:07,918] and a creation operator...
+- [01:24:07,918 - 01:24:09,918] do not commute, but have a one...
+- [01:24:09,918 - 01:24:11,918] on the right hand side.
+- [01:24:11,918 - 01:24:13,918] We can write that in the form...
+- [01:24:13,918 - 01:24:15,918] delta k l...
+- [01:24:15,918 - 01:24:17,918] where delta k l is the Kronecker delta...
+- [01:24:17,918 - 01:24:19,918] the symbol which is one if k equals l...
+- [01:24:19,918 - 01:24:21,918] and zero otherwise.
+- [01:24:21,918 - 01:24:23,918] This...
+- [01:24:23,918 - 01:24:25,918] is the Kronecker...
+- [01:24:25,918 - 01:24:27,918] delta k l...
+- [01:24:27,918 - 01:24:29,918] delta k l...
+- [01:24:29,918 - 01:24:31,918] together with the definition...
+- [01:24:31,918 - 01:24:33,918] that psi of x...
+- [01:24:33,918 - 01:24:35,918] is equal sum...
+- [01:24:35,918 - 01:24:37,918] of...
+- [01:24:37,918 - 01:24:39,918] I guess...
+- [01:24:39,918 - 01:24:41,918] a minus...
+- [01:24:41,918 - 01:24:43,918] of k...
+- [01:24:43,918 - 01:24:45,918] is it e to the plus...
+- [01:24:45,918 - 01:24:47,918] or e to the minus?
+- [01:24:47,918 - 01:24:49,918] What did I have written?
+- [01:24:49,918 - 01:24:51,918] I think...
+- [01:24:51,918 - 01:24:53,918] e to the...
+- [01:24:53,918 - 01:24:55,918] minus i k x...
+- [01:24:55,918 - 01:24:57,918] if I remember correctly.
+- [01:24:57,918 - 01:24:59,918] Okay.
+- [01:24:59,918 - 01:25:01,918] With that definition...
+- [01:25:01,918 - 01:25:03,918] this basically defines the simplest...
+- [01:25:03,918 - 01:25:05,918] quantum field theory.
+- [01:25:05,918 - 01:25:07,918] Psi is a quantum field...
+- [01:25:07,918 - 01:25:09,918] and its job...
+- [01:25:09,918 - 01:25:11,918] is to create and annihilate particles.
+- [01:25:11,918 - 01:25:13,918] Okay.
+- [01:25:13,918 - 01:25:15,918] One more...
+- [01:25:15,918 - 01:25:17,918] thing about bosons...
+- [01:25:17,918 - 01:25:19,918] before we go on to fermions.
+- [01:25:19,918 - 01:25:21,918] Fermions are a kind of...
+- [01:25:21,918 - 01:25:23,918] particle which are different.
+- [01:25:23,918 - 01:25:25,918] Obviously.
+- [01:25:25,918 - 01:25:27,918] Otherwise they wouldn't have another name.
+- [01:25:29,918 - 01:25:31,918] One more thing...
+- [01:25:31,918 - 01:25:33,918] about bosons.
+- [01:25:33,918 - 01:25:35,918] Let's look at...
+- [01:25:35,918 - 01:25:37,918] psi dagger of x...
+- [01:25:39,918 - 01:25:41,918] psi of x...
+- [01:25:41,918 - 01:25:43,918] integrated...
+- [01:25:43,918 - 01:25:45,918] over all space.
+- [01:25:45,918 - 01:25:47,918] What is that object?
+- [01:25:49,918 - 01:25:51,918] Now I know what that object is.
+- [01:25:51,918 - 01:25:53,918] I wouldn't have written it down...
+- [01:25:53,918 - 01:25:55,918] but let's work it out.
+- [01:25:55,918 - 01:25:57,918] Let's pretend we didn't know what it was...
+- [01:25:57,918 - 01:25:59,918] and see if we can work out what it is.
+- [01:25:59,918 - 01:26:01,918] Psi...
+- [01:26:01,918 - 01:26:03,918] are quantum mechanical operators.
+- [01:26:03,918 - 01:26:05,918] This is an observable.
+- [01:26:05,918 - 01:26:07,918] Okay.
+- [01:26:07,918 - 01:26:09,918] Let's work it out.
+- [01:26:09,918 - 01:26:11,918] It's equal...
+- [01:26:11,918 - 01:26:13,918] from the definition of psi...
+- [01:26:13,918 - 01:26:15,918] into...
+- [01:26:15,918 - 01:26:17,918] let's see...
+- [01:26:17,918 - 01:26:19,918] sum...
+- [01:26:19,918 - 01:26:21,918] oh I think I want...
+- [01:26:21,918 - 01:26:23,918] no that's right.
+- [01:26:23,918 - 01:26:25,918] sum...
+- [01:26:25,918 - 01:26:27,918] of...
+- [01:26:27,918 - 01:26:29,918] a plus of k...
+- [01:26:31,918 - 01:26:33,918] I think it's each other...ikx...
+- [01:26:33,918 - 01:26:35,918] I keep getting confused about the pluses and minuses.
+- [01:26:35,918 - 01:26:37,918] I'll probably make mistakes.
+- [01:26:37,918 - 01:26:39,918] That's psi of x.
+- [01:26:39,918 - 01:26:41,918] That's psi dagger of x.
+- [01:26:41,918 - 01:26:43,918] What about psi of x?
+- [01:26:43,918 - 01:26:45,918] Hmm?
+- [01:26:45,918 - 01:26:47,918] Oh it's a minus.
+- [01:26:47,918 - 01:26:49,918] Good. All right.
+- [01:26:49,918 - 01:26:51,918] It wouldn't make any difference for this calculation.
+- [01:26:51,918 - 01:26:53,918] The psi on the a is
+- [01:26:53,918 - 01:26:55,918] opposite of the psi on the e.
+- [01:26:55,918 - 01:26:57,918] Yeah.
+- [01:26:57,918 - 01:26:59,918] It's true.
+- [01:26:59,918 - 01:27:01,918] It's true. That's right.
+- [01:27:01,918 - 01:27:03,918] The balance is plus and minus.
+- [01:27:03,918 - 01:27:05,918] It's not just balance.
+- [01:27:05,918 - 01:27:07,918] It's conservation going from psi to psi dagger.
+- [01:27:07,918 - 01:27:09,918] Yeah. It is.
+- [01:27:09,918 - 01:27:11,918] It is. It is.
+- [01:27:11,918 - 01:27:13,918] Okay. So this is sum over k.
+- [01:27:13,918 - 01:27:15,918] Then there's another one which is sum over l...
+- [01:27:15,918 - 01:27:17,918] which is the annihilation operator.
+- [01:27:17,918 - 01:27:19,918] A minus of l...
+- [01:27:23,918 - 01:27:25,918] ...e to the plus i lx.
+- [01:27:25,918 - 01:27:29,918] And this gets integrated over x.
+- [01:27:29,918 - 01:27:32,918] Now, let's see if we
+- [01:27:32,918 - 01:27:35,918] can examine what that quantity is.
+- [01:27:35,918 - 01:27:37,918] This is integral dx.
+- [01:27:37,918 - 01:27:40,918] The only x dependence here
+- [01:27:40,918 - 01:27:43,918] is in these coefficient functions.
+- [01:27:43,918 - 01:27:45,918] All right.
+- [01:27:45,918 - 01:27:47,918] So what we really need to know...
+- [01:27:47,918 - 01:27:49,918] ...is what the integral...
+- [01:27:51,918 - 01:27:53,918] ...e to the i lx...
+- [01:27:53,918 - 01:27:55,918] ...e to the i l minus k...
+- [01:27:55,918 - 01:27:57,918] ...x dx is.
+- [01:27:57,918 - 01:27:59,918] That's the integral that appears here.
+- [01:27:59,918 - 01:28:01,918] ...e to the i lx...
+- [01:28:01,918 - 01:28:03,918] ...e to the minus i kx...
+- [01:28:03,918 - 01:28:05,918] That's this...
+- [01:28:05,918 - 01:28:07,918] ...integrated dx.
+- [01:28:07,918 - 01:28:09,918] That's the integration that appears here.
+- [01:28:09,918 - 01:28:11,918] What do we integrate?
+- [01:28:11,918 - 01:28:13,918] We integrate over all of space...
+- [01:28:13,918 - 01:28:15,918] ...which means over this circle of length l.
+- [01:28:23,918 - 01:28:24,918] So what do we get if we
+- [01:28:24,918 - 01:28:25,918] integrate this over a circle of length l?
+- [01:28:31,918 - 01:28:33,918] Well, supposing, first of all, k is equal to l.
+- [01:28:41,918 - 01:28:43,918] Not 2 pi, just l.
+- [01:28:43,918 - 01:28:45,918] Just l.
+- [01:28:45,918 - 01:28:47,918] So you get l if k is equal to l.
+- [01:28:47,918 - 01:28:49,918] It's not equal to l.
+- [01:28:49,918 - 01:28:51,918] It's 0.
+- [01:28:51,918 - 01:28:53,918] Why?
+- [01:28:53,918 - 01:28:55,918] Because this will be sines and cosines,
+- [01:28:55,918 - 01:28:57,918] and if you integrate a sine and a cosine
+- [01:28:57,918 - 01:29:01,918] around an integer multiple of wavelengths,
+- [01:29:01,918 - 01:29:03,918] you get 0.
+- [01:29:03,918 - 01:29:05,918] Both sines and cosines are positive
+- [01:29:05,918 - 01:29:07,918] as much as they are negative.
+- [01:29:07,918 - 01:29:09,918] So what is this thing?
+- [01:29:09,918 - 01:29:11,918] This is...
+- [01:29:11,918 - 01:29:13,918] delta kl,
+- [01:29:13,918 - 01:29:15,918] times the length of the,
+- [01:29:15,918 - 01:29:17,918] ... times the length of the interval.
+- [01:29:17,918 - 01:29:21,918] Alright, so that means when we do this integral,
+- [01:29:21,918 - 01:29:25,918] it's going to pick out only the terms where
+- [01:29:25,918 - 01:29:28,438] k and l are equal.
+- [01:29:28,438 - 01:29:30,918] That's what this means.
+- [01:29:30,918 - 01:29:35,968] It's going to give us a factor of big L.
+- [01:29:35,968 - 01:29:41,018] So it gives us L times the sum over k.
+- [01:29:41,018 - 01:29:43,758] And now it's a single sum and not a
+- [01:29:43,758 - 01:29:46,498] double sum because k has to be equal to L.
+- [01:29:46,498 - 01:29:50,938] And what's it going to be? It's going to
+- [01:29:50,938 - 01:29:55,378] be a plus of k, a minus of k.
+- [01:29:55,378 - 01:29:58,938] Do you remember for the harmonic oscillator
+- [01:29:58,938 - 01:30:02,498] what a plus times a minus was?
+- [01:30:02,498 - 01:30:05,318] The occupation number.
+- [01:30:05,318 - 01:30:09,468] a plus times a minus is the occupation
+- [01:30:09,468 - 01:30:13,618] number, is the number of quanta with momentum k.
+- [01:30:13,618 - 01:30:15,258] If you go back to your notes,
+- [01:30:15,258 - 01:30:16,478] a plus times a minus
+- [01:30:16,478 - 01:30:18,398] if you work out all the
+- [01:30:18,398 - 01:30:20,318] square roots of n's and things,
+- [01:30:20,318 - 01:30:23,978] a plus times a minus acting on any state
+- [01:30:23,978 - 01:30:27,638] just gives you the same thing as the occupation number.
+- [01:30:27,638 - 01:30:31,058] So a plus times a minus is the
+- [01:30:31,058 - 01:30:34,478] occupation number, the number of particles with momentum k.
+- [01:30:34,478 - 01:30:40,058] What if you sum that over k?
+- [01:30:40,058 - 01:30:42,158] Total number of particles.
+- [01:30:42,158 - 01:30:44,358] Hm?
+- [01:30:44,358 - 01:30:46,478] Yeah, it just counts the number of particles.
+- [01:30:46,478 - 01:30:48,478] Total number of particles.
+- [01:30:48,478 - 01:30:54,148] So this object here, if I divide it by L, I have
+- [01:30:54,148 - 01:30:59,818] to divide it by L because of this L which appears here,
+- [01:30:59,818 - 01:31:04,318] that is equal to the number of particles.
+- [01:31:04,318 - 01:31:10,318] Total number of particles.
+- [01:31:10,318 - 01:31:14,318] Total number of particles.
+- [01:31:14,318 - 01:31:16,318] Total number of particles.
+- [01:31:16,478 - 01:31:20,478] Now, there are conventions where you absorb this
+- [01:31:20,478 - 01:31:24,478] L into psi, and there's a more normal convention.
+- [01:31:24,478 - 01:31:28,478] I have been following a particular set of conventions.
+- [01:31:28,478 - 01:31:29,978] It's led me to have
+- [01:31:29,978 - 01:31:31,478] this one over L out here.
+- [01:31:31,478 - 01:31:33,478] That's all right, we can leave it there.
+- [01:31:33,478 - 01:31:39,478] But basically, psi star times psi is a counting quantity.
+- [01:31:39,478 - 01:31:41,478] It counts the number of particles.
+- [01:31:41,478 - 01:31:42,478] It's an observable.
+- [01:31:42,478 - 01:31:44,478] It's a quantum mechanical operator.
+- [01:31:44,478 - 01:31:45,478] But all it is is the number of particles.
+- [01:31:45,478 - 01:31:47,478] The number of particles may or may not be conserved.
+- [01:31:47,478 - 01:31:48,478] So in general, this integral can change
+- [01:31:48,478 - 01:31:49,478] with time if particles are absorbed or created.
+- [01:31:49,478 - 01:31:50,478] On the other hand, if the number of
+- [01:31:50,478 - 01:31:51,478] particles is conserved, then this is a conserved quantity.
+- [01:31:51,478 - 01:31:52,478] So this is the thing
+- [01:31:52,478 - 01:31:53,478] which counts the number of particles.
+- [01:31:53,478 - 01:31:54,478] Apart from this L, would you
+- [01:31:54,478 - 01:31:55,478] give a name to psi star?
+- [01:31:55,478 - 01:31:57,478] I don't know.
+- [01:31:57,478 - 01:31:59,478] I don't know.
+- [01:31:59,478 - 01:32:01,478] I don't know.
+- [01:32:01,478 - 01:32:03,478] I don't know.
+- [01:32:03,478 - 01:32:05,478] I don't know.
+- [01:32:05,478 - 01:32:07,478] I don't know.
+- [01:32:07,478 - 01:32:09,478] I don't know.
+- [01:32:09,478 - 01:32:11,478] I don't know.
+- [01:32:11,478 - 01:32:13,478] I don't know.
+- [01:32:13,478 - 01:32:15,478] Would you give a name
+- [01:32:15,478 - 01:32:17,478] to psi star times psi itself?
+- [01:32:17,478 - 01:32:19,478] Probability density.
+- [01:32:19,478 - 01:32:21,478] Probability density.
+- [01:32:21,478 - 01:32:23,478] Probability density.
+- [01:32:23,478 - 01:32:28,478] You could call it the number of particles at point x, but that's
+- [01:32:28,478 - 01:32:33,478] not such a good idea because, you know, the density of particles at x.
+- [01:32:33,478 - 01:32:35,478] Right.
+- [01:32:35,478 - 01:32:38,478] So that's, apart from a factor of
+- [01:32:38,478 - 01:32:41,478] L, which I will ignore, just a...
+- [01:32:43,478 - 01:32:46,478] It'll go away when we replace
+- [01:32:46,478 - 01:32:49,478] sums over k's by integrals over k.
+- [01:32:49,478 - 01:32:57,478] But apart from a factor of k, psi star psi, let's just say
+- [01:32:57,478 - 01:33:05,478] psi star psi is proportional to equals the density of particles at x.
+- [01:33:05,478 - 01:33:07,478] Psi star of x, psi of x.
+- [01:33:07,478 - 01:33:11,478] And it's a quantum mechanical operator.
+- [01:33:11,478 - 01:33:13,478] And it's a quantum mechanical operator.
+- [01:33:13,478 - 01:33:15,478] And that's it.
+- [01:33:15,478 - 01:33:17,478] And that's it.
+- [01:33:17,478 - 01:33:21,478] That is the simplest of all quantum field theories.
+- [01:33:21,478 - 01:33:24,478] The bosonic quantum field theory, where the fields
+- [01:33:24,478 - 01:33:27,478] are made up out of creation and annihilation operators.
+- [01:33:27,478 - 01:33:29,478] There's a psi.
+- [01:33:29,478 - 01:33:31,478] There's a psi star.
+- [01:33:31,478 - 01:33:35,978] And you can work out, incidentally, it's fun to work out
+- [01:33:35,978 - 01:33:40,478] the commutation relations between psi of x and psi star of x.
+- [01:33:40,478 - 01:33:42,478] We know the commutation relations of the a's.
+- [01:33:42,478 - 01:33:43,478] We know the commutation relations of the a's.
+- [01:33:43,478 - 01:33:45,778] the size of built out of the A's,
+- [01:33:45,778 - 01:33:47,878] it's interesting to work out
+- [01:33:47,878 - 01:33:49,978] the commutation relations of the size.
+- [01:33:49,978 - 01:33:52,478] Um, okay, so that, uh, we'll go on
+- [01:33:52,478 - 01:33:54,978] a little bit, I got here a little...
+- [01:33:54,978 - 01:33:57,178] That's the density of particles of X.
+- [01:33:57,178 - 01:33:59,678] That's the density of particles of X.
+- [01:33:59,678 - 01:34:03,678] Now, as I said, this, this whole machinery,
+- [01:34:03,678 - 01:34:09,578] so far, assumes there is one species of identical particles.
+- [01:34:09,578 - 01:34:12,578] Identical means they're all the same kind.
+- [01:34:12,578 - 01:34:15,677] They're identical except for the fact that
+- [01:34:15,677 - 01:34:18,777] they might have different momenta or different position,
+- [01:34:18,777 - 01:34:22,077] but you wouldn't want to build into
+- [01:34:22,077 - 01:34:25,378] a single quantum field both electrons and photons.
+- [01:34:25,378 - 01:34:28,777] This might be the field for photons.
+- [01:34:28,777 - 01:34:31,677] Now, because, because of relativity, we
+- [01:34:31,677 - 01:34:34,578] have to modify it a little bit.
+- [01:34:34,578 - 01:34:37,228] This would not be the field
+- [01:34:37,228 - 01:34:39,878] of electrons, because electrons are not bosons,
+- [01:34:39,878 - 01:34:42,478] and they, and they have to be dealt with differently.
+- [01:34:42,478 - 01:34:45,978] Okay, that's, that's, uh, that's
+- [01:34:45,978 - 01:34:49,478] the basic, uh, theory of bosons.
+- [01:34:51,478 - 01:34:53,978] They are described by harmonic
+- [01:34:53,978 - 01:34:56,478] oscillator creation and annihilation operators,
+- [01:34:56,478 - 01:35:00,478] which are the Fourier coefficients of the field.
+- [01:35:00,478 - 01:35:03,978] Um, they like to, in some statistical sense,
+- [01:35:03,978 - 01:35:07,478] they like to come out in the same state.
+- [01:35:07,478 - 01:35:09,478] If there are already particles present,
+- [01:35:09,478 - 01:35:11,478] that will enhance the rate of, uh,
+- [01:35:11,478 - 01:35:16,478] of production of particles with the same momentum.
+- [01:35:16,478 - 01:35:20,978] Um, and the creation and
+- [01:35:20,978 - 01:35:25,478] annihilation operators have definite algebraic properties,
+- [01:35:25,478 - 01:35:28,478] commutation relations, which I've listed here.
+- [01:35:28,478 - 01:35:30,478] That's it. That's the whole theory
+- [01:35:30,478 - 01:35:32,478] of a very simple quantum field.
+- [01:35:32,478 - 01:35:36,478] Again, I emphasize that you can use it to
+- [01:35:36,478 - 01:35:40,478] describe reactions in which particles are created and annihilated.
+- [01:35:41,478 - 01:35:43,478] Uh, uh, yeah.
+- [01:35:43,478 - 01:35:46,478] So this is all 1D, one dimensional, one dimensional?
+- [01:35:46,478 - 01:35:49,978] Yeah, everything's one dimensional now, but that's, that can
+- [01:35:49,978 - 01:35:53,478] be immediately changed just by putting in more X's.
+- [01:35:53,478 - 01:35:56,478] Right. There's nothing special about that.
+- [01:35:56,478 - 01:35:59,478] Uh, I see people, there are some people who have to go, and
+- [01:35:59,478 - 01:36:02,478] I don't want to start a new subject where there are people going,
+- [01:36:02,478 - 01:36:06,478] but, uh, perhaps, uh, we can, uh,
+- [01:36:06,478 - 01:36:10,478] spend a little while talking about something, um,
+- [01:36:10,478 - 01:36:14,978] whatever you want to talk about, which is not
+- [01:36:14,978 - 01:36:19,478] in, not in linear progression, uh, sort of, uh,
+- [01:36:19,478 - 01:36:23,978] Is fluorescence related to the, uh, simulated,
+- [01:36:23,978 - 01:36:28,478] simulated emission effect, or is it, uh,
+- [01:36:28,478 - 01:36:31,478] I don't think fluorescence is, uh,
+- [01:36:31,478 - 01:36:33,478] Transparency?
+- [01:36:33,478 - 01:36:37,478] No, transparency, no, transparency is simply interference.
+- [01:36:37,478 - 01:36:39,478] You can have a thing which is transparent to electrons,
+- [01:36:39,478 - 01:36:43,478] you can have a thing which is transparent to, uh,
+- [01:36:43,522 - 01:36:44,522] 嗯哼
+- [01:36:45,762 - 01:36:48,762] Okay, so what other things in nature are bosons?
+- [01:36:49,762 - 01:36:50,762] Alpars.
+- [01:36:50,762 - 01:36:52,762] Photons, ions, all sorts.
+- [01:36:52,762 - 01:36:53,762] Lots of things.
+- [01:36:53,762 - 01:36:55,762] Higgs boson is a boson.
+- [01:36:56,762 - 01:36:58,262] The X boson, the Y
+- [01:36:58,262 - 01:36:59,762] boson, lots of things are bosons.
+- [01:37:00,762 - 01:37:02,762] Gravitons are bosons.
+- [01:37:08,762 - 01:37:11,762] We say that psi or psi
+- [01:37:11,762 - 01:37:14,762] dagger and so forth is an observable.
+- [01:37:15,762 - 01:37:18,762] That means that the field psi
+- [01:37:18,762 - 01:37:21,762] is kind of like the electromagnetic field.
+- [01:37:21,762 - 01:37:22,762] You can observe it.
+- [01:37:22,762 - 01:37:26,762] You can do an experiment and measure psi.
+- [01:37:27,762 - 01:37:30,762] When the psi behave like a classical thing,
+- [01:37:30,762 - 01:37:33,762] now there's a problem about measuring psi.
+- [01:37:33,762 - 01:37:36,762] Its components don't commute with each other.
+- [01:37:36,762 - 01:37:40,762] Its real and imaginary parts don't commute with each other.
+- [01:37:40,762 - 01:37:43,262] And you can't simultaneously
+- [01:37:43,262 - 01:37:45,762] measure two non-commuting things.
+- [01:37:45,762 - 01:37:48,762] All right, so if psi and psi dagger don't commute,
+- [01:37:48,762 - 01:37:50,762] that means the real and
+- [01:37:50,762 - 01:37:52,762] imaginary parts of psi don't commute.
+- [01:37:52,762 - 01:37:54,762] How can you measure psi if
+- [01:37:54,762 - 01:37:56,762] the real and imaginary parts don't commute?
+- [01:37:56,762 - 01:37:57,762] And the answer is you can't.
+- [01:37:57,762 - 01:37:59,762] You cannot.
+- [01:37:59,762 - 01:38:01,762] You also can't measure X
+- [01:38:01,762 - 01:38:03,762] and P at the same time.
+- [01:38:03,762 - 01:38:06,262] Or for that matter, the harmonic
+- [01:38:06,262 - 01:38:08,762] oscillator variables A and A dagger,
+- [01:38:08,762 - 01:38:10,762] or A, even A you can't
+- [01:38:10,762 - 01:38:12,762] measure because it has two non-commuting,
+- [01:38:12,762 - 01:38:13,762] a real and imaginary part.
+- [01:38:13,762 - 01:38:14,762] What is the situation?
+- [01:38:15,762 - 01:38:18,762] Let's take the harmonic oscillator first,
+- [01:38:18,762 - 01:38:22,762] in which the harmonic
+- [01:38:22,762 - 01:38:26,762] oscillator variables behave classically
+- [01:38:26,762 - 01:38:30,762] and in an approximate sense you
+- [01:38:30,762 - 01:38:34,762] can measure both A and A dagger,
+- [01:38:34,762 - 01:38:38,762] or for an ordinary, yeah, what is the situation?
+- [01:38:38,762 - 01:38:44,762] When the oscillator is highly excited.
+- [01:38:44,762 - 01:38:47,762] When the oscillator is highly excited,
+- [01:38:47,762 - 01:38:52,762] and that's the situation in which the number of excitations,
+- [01:38:52,762 - 01:38:55,262] A times A dagger, is
+- [01:38:55,262 - 01:38:57,762] much, much larger than H bar,
+- [01:38:57,762 - 01:39:01,762] is much, much larger than the
+- [01:39:01,762 - 01:39:05,762] right-hand side of the commutation relations.
+- [01:39:05,762 - 01:39:10,762] You can't precisely measure these things simultaneously,
+- [01:39:10,762 - 01:39:12,262] but just in the same sense that
+- [01:39:12,262 - 01:39:13,762] you can measure X and P approximately,
+- [01:39:14,762 - 01:39:18,762] as long as you don't violate the uncertainty principle,
+- [01:39:18,762 - 01:39:24,762] you can measure the components of fields approximately,
+- [01:39:24,762 - 01:39:28,762] as long as you don't violate certain uncertainty principles.
+- [01:39:28,762 - 01:39:31,762] Well, what does that in practice mean?
+- [01:39:31,762 - 01:39:33,762] It in practice means that you can measure these things
+- [01:39:33,762 - 01:39:36,762] as long as the degree of excitation,
+- [01:39:36,762 - 01:39:39,262] as long as the field strengths
+- [01:39:39,262 - 01:39:41,762] are large by comparison with the uncertainties,
+- [01:39:41,762 - 01:39:43,762] large by comparison with the uncertainty.
+- [01:39:43,762 - 01:39:49,762] With the obstruction in measuring them both simultaneously.
+- [01:39:49,762 - 01:39:53,762] What does it mean in terms of photons?
+- [01:39:53,762 - 01:39:56,762] It means lots of photons.
+- [01:39:56,762 - 01:39:58,762] Right. That's right.
+- [01:39:58,762 - 01:40:02,762] When you have a sufficiently large number of photons,
+- [01:40:02,762 - 01:40:06,262] then approximately you can measure the
+- [01:40:06,262 - 01:40:09,762] different components of the field simultaneously,
+- [01:40:09,762 - 01:40:11,762] within certain errors,
+- [01:40:11,762 - 01:40:14,262] and certain errors may be a lot
+- [01:40:14,262 - 01:40:16,762] smaller than the magnitudes of the fields themselves.
+- [01:40:16,762 - 01:40:19,762] So, the observable quantum fields,
+- [01:40:19,762 - 01:40:21,762] thought of as things that you can measure,
+- [01:40:21,762 - 01:40:23,762] psi and so forth,
+- [01:40:23,762 - 01:40:26,762] those behave like classical fields
+- [01:40:26,762 - 01:40:29,762] when the number of quanta is very large.
+- [01:40:29,762 - 01:40:30,762] It makes sense.
+- [01:40:30,762 - 01:40:33,762] When the number of quanta is very large,
+- [01:40:33,762 - 01:40:36,762] the field psi behaves as if
+- [01:40:36,762 - 01:40:39,762] it were a classical wave field.
+- [01:40:39,762 - 01:40:42,762] It's only when the number of quanta is small
+- [01:40:42,762 - 01:40:44,762] that you see their discreteness,
+- [01:40:44,762 - 01:40:47,262] and that's when psi does not
+- [01:40:47,262 - 01:40:49,762] behave like a classical field anymore.
+- [01:40:49,762 - 01:40:52,762] Okay, so that's the setup.
+- [01:40:52,762 - 01:40:54,762] Psi is a quantum mechanical operator,
+- [01:40:54,762 - 01:40:58,762] which does behave classically under certain conditions.
+- [01:40:58,762 - 01:41:03,762] It is a measurable quantity,
+- [01:41:03,762 - 01:41:07,762] or at least parts, some components of it are measurable,
+- [01:41:07,762 - 01:41:10,762] and it can be approximately measured,
+- [01:41:10,762 - 01:41:12,762] all of its components simultaneously,
+- [01:41:12,762 - 01:41:14,762] as long as the number of
+- [01:41:14,762 - 01:41:16,762] photons is much larger than the uncertainties
+- [01:41:16,762 - 01:41:19,762] dictated by the uncertainty principle.
+- [01:41:19,762 - 01:41:21,762] This is an uncertainty principle.
+- [01:41:21,762 - 01:41:23,262] It tells you that the
+- [01:41:23,262 - 01:41:24,762] components of A and A dagger,
+- [01:41:24,762 - 01:41:25,762] the real and imaginary parts,
+- [01:41:25,762 - 01:41:28,762] can't be simultaneously measured.
+- [01:41:28,762 - 01:41:29,762] Here's the point.
+- [01:41:29,762 - 01:41:31,762] A times A dagger,
+- [01:41:31,762 - 01:41:33,762] A dagger A,
+- [01:41:33,762 - 01:41:35,762] is the number of particles.
+- [01:41:35,762 - 01:41:37,762] That means, roughly speaking,
+- [01:41:37,762 - 01:41:40,762] the magnitude of A is like the
+- [01:41:40,762 - 01:41:43,762] square root of the number of particles.
+- [01:41:43,762 - 01:41:46,762] As long as A is much
+- [01:41:46,762 - 01:41:49,762] bigger than the right-hand side here,
+- [01:41:49,762 - 01:41:51,762] or as long as A times A
+- [01:41:51,762 - 01:41:53,762] dagger is much bigger than the right-hand side,
+- [01:41:53,762 - 01:41:55,262] the right-hand side can largely
+- [01:41:55,262 - 01:41:56,762] be ignored for many purposes.
+- [01:41:56,762 - 01:42:00,762] And that's the situation
+- [01:42:00,762 - 01:42:04,762] where A behaves approximately classically.
+- [01:42:04,762 - 01:42:06,762] Okay.
+- [01:42:06,762 - 01:42:08,762] Any other questions?
+- [01:42:08,762 - 01:42:09,762] Yeah.
+- [01:42:09,762 - 01:42:14,262] Is that n the initial state or
+- [01:42:14,262 - 01:42:18,762] the final state that you started with?
+- [01:42:18,762 - 01:42:20,762] Well, as long as the number
+- [01:42:20,762 - 01:42:22,762] of photons doesn't change too much,
+- [01:42:22,762 - 01:42:23,762] it doesn't matter.
+- [01:42:23,762 - 01:42:26,762] If you go in the other direction,
+- [01:42:26,762 - 01:42:30,762] suppose you start out with a state of 0000,
+- [01:42:30,762 - 01:42:31,762] the ground state.
+- [01:42:31,762 - 01:42:33,762] That's a highly quantum mechanical state.
+- [01:42:33,762 - 01:42:35,762] Well, okay.
+- [01:42:36,762 - 01:42:38,762] Supposing you apply A,
+- [01:42:38,762 - 01:42:40,762] a destruction operator,
+- [01:42:40,762 - 01:42:41,762] to that state.
+- [01:42:41,762 - 01:42:42,762] Yeah.
+- [01:42:42,762 - 01:42:43,762] I thought I heard you
+- [01:42:43,762 - 01:42:44,762] say that you get no state.
+- [01:42:44,762 - 01:42:45,762] I get zero.
+- [01:42:45,762 - 01:42:46,762] You get zero.
+- [01:42:46,762 - 01:42:48,762] Wait, you get the lowest
+- [01:42:48,762 - 01:42:50,762] state with no particles in it,
+- [01:42:50,762 - 01:42:51,762] or do you get no state at all?
+- [01:42:51,762 - 01:42:53,762] You have to distinguish now.
+- [01:42:53,762 - 01:42:54,762] Good.
+- [01:42:59,762 - 01:43:01,762] The state zero is a
+- [01:43:01,762 - 01:43:03,762] state with no particles in it.
+- [01:43:03,762 - 01:43:05,762] It is not the same as the state zero.
+- [01:43:05,762 - 01:43:06,762] All right?
+- [01:43:06,762 - 01:43:11,762] This state is the ground state of a harmonic oscillator.
+- [01:43:11,762 - 01:43:14,762] Its norm is one.
+- [01:43:14,762 - 01:43:17,762] It's not the zero state.
+- [01:43:17,762 - 01:43:21,762] The zero state is O minus O.
+- [01:43:21,762 - 01:43:24,262] This is just a vector which
+- [01:43:24,262 - 01:43:26,762] I've learned to be a vector.
+- [01:43:26,762 - 01:43:28,762] I've learned to be a vector.
+- [01:43:28,762 - 01:43:30,762] I've learned to be a vector.
+- [01:43:30,762 - 01:43:32,762] I've learned to be a vector.
+- [01:43:32,762 - 01:43:33,762] I've learned to be a vector.
+- [01:43:33,762 - 01:43:34,762] I've learned to be a vector.
+- [01:43:34,762 - 01:43:35,762] I've learned to be a vector.
+- [01:43:35,762 - 01:43:37,762] It's not the vector which I've labeled as O.
+- [01:43:37,762 - 01:43:41,762] It is not the zero vector in a vector space.
+- [01:43:41,762 - 01:43:45,762] It's the vector describing no particles
+- [01:43:45,762 - 01:43:51,762] that's different than the zero vector.
+- [01:43:51,762 - 01:43:52,762] Very different.
+- [01:43:52,762 - 01:43:54,762] Very, very different.
+- [01:43:54,762 - 01:43:57,762] Zero vector is no vector at all.
+- [01:43:57,762 - 01:44:00,762] It doesn't describe anything.
+- [01:44:00,762 - 01:44:04,762] This is a perfectly good normalized vector
+- [01:44:04,762 - 01:44:07,762] describing no particles.
+- [01:44:07,762 - 01:44:11,762] Or the ground state of the system.
+- [01:44:11,762 - 01:44:16,762] It seems like there are two states spoken of.
+- [01:44:16,762 - 01:44:19,762] One or two kinds of states.
+- [01:44:19,762 - 01:44:21,762] One is the field.
+- [01:44:21,762 - 01:44:22,762] That's not a state.
+- [01:44:22,762 - 01:44:24,762] That's an operator.
+- [01:44:24,762 - 01:44:25,762] The field is not a state.
+- [01:44:25,762 - 01:44:26,762] It's an operator.
+- [01:44:26,762 - 01:44:28,762] Yeah.
+- [01:44:28,762 - 01:44:31,762] In quantum field theory, fields are operators.
+- [01:44:31,762 - 01:44:32,762] Okay.
+- [01:44:32,762 - 01:44:34,762] So that's not a state.
+- [01:44:34,762 - 01:44:37,762] We have this other thing which is a state.
+- [01:44:37,762 - 01:44:38,762] Yeah.
+- [01:44:38,762 - 01:44:40,762] That they operate on.
+- [01:44:40,762 - 01:44:42,762] That's right.
+- [01:44:42,762 - 01:44:43,762] That's correct.
+- [01:44:43,762 - 01:44:45,762] And that is...
+- [01:44:45,762 - 01:44:46,762] Right?
+- [01:44:46,762 - 01:44:47,762] Reality?
+- [01:44:47,762 - 01:44:49,762] I mean, it's...
+- [01:44:49,762 - 01:44:50,762] I'm not...
+- [01:44:50,762 - 01:44:51,762] Reality?
+- [01:44:51,762 - 01:44:52,762] What is that?
+- [01:44:56,762 - 01:45:00,762] Reality is getting the scams that convert them.
+- [01:45:00,762 - 01:45:03,762] When you take a regular model, periodic,
+- [01:45:03,762 - 01:45:06,762] and try to apply it to the real world,
+- [01:45:06,762 - 01:45:09,262] like you can say that the capital L
+- [01:45:09,262 - 01:45:11,762] is something like the size of the universe.
+- [01:45:11,762 - 01:45:12,762] Oh, yeah.
+- [01:45:12,762 - 01:45:13,762] But that's not very useful.
+- [01:45:13,762 - 01:45:14,762] No, that's not useful at all.
+- [01:45:14,762 - 01:45:16,762] So how do you use it in practice?
+- [01:45:16,762 - 01:45:18,762] Like, you know, the size of cavity or...
+- [01:45:18,762 - 01:45:23,262] Well, a more common situation is when
+- [01:45:23,262 - 01:45:27,762] you have a cavity with reflecting walls.
+- [01:45:27,762 - 01:45:28,762] Okay?
+- [01:45:28,762 - 01:45:29,762] So that's a common situation.
+- [01:45:29,762 - 01:45:32,762] But you could imagine electrons moving around on a wire.
+- [01:45:32,762 - 01:45:34,762] On a closed wire.
+- [01:45:34,762 - 01:45:39,762] That would be an example.
+- [01:45:39,762 - 01:45:43,262] But doesn't the limit on L
+- [01:45:43,262 - 01:45:46,762] influence the number of possible states?
+- [01:45:46,762 - 01:45:47,762] Say that again?
+- [01:45:47,762 - 01:45:49,762] Putting a limit on big L...
+- [01:45:49,762 - 01:45:50,762] Yeah.
+- [01:45:50,762 - 01:45:53,762] Defines the number of possible states.
+- [01:45:53,762 - 01:45:56,762] Putting a limit on big L?
+- [01:45:56,762 - 01:45:57,762] Right.
+- [01:45:57,762 - 01:45:58,762] No, it doesn't.
+- [01:45:58,762 - 01:46:00,262] No, it doesn't put a limit
+- [01:46:00,262 - 01:46:01,762] on the number of possible states.
+- [01:46:01,762 - 01:46:04,762] It doesn't put a limit on the number of states.
+- [01:46:04,762 - 01:46:06,762] What it says is that
+- [01:46:06,762 - 01:46:08,762] K, the allowable values of K,
+- [01:46:08,762 - 01:46:12,762] have to be 2 pi over L times N.
+- [01:46:12,762 - 01:46:16,762] And N can be any integer.
+- [01:46:16,762 - 01:46:19,762] What it does is it limits the number
+- [01:46:19,762 - 01:46:22,762] of states with momentum below a certain momentum.
+- [01:46:22,762 - 01:46:24,762] So if you were to say the
+- [01:46:24,762 - 01:46:26,762] largest momentum I'll ever want to think about
+- [01:46:26,762 - 01:46:28,762] is some large amount of momentum,
+- [01:46:28,762 - 01:46:31,762] I never want to allow more momentum than that.
+- [01:46:31,762 - 01:46:36,762] Then this would limit the number of states.
+- [01:46:36,762 - 01:46:38,762] But as long as you can have arbitrarily high momentum
+- [01:46:38,762 - 01:46:40,762] so that N can be arbitrarily large,
+- [01:46:40,762 - 01:46:42,762] it doesn't limit the number of states.
+- [01:46:42,762 - 01:46:43,762] Yeah.
+- [01:46:43,762 - 01:46:47,762] For a particular value of K,
+- [01:46:47,762 - 01:46:49,762] when we did the harmonic oscillator,
+- [01:46:49,762 - 01:46:51,762] we started with X and P,
+- [01:46:51,762 - 01:46:54,762] and then we derived the A plus and A minus.
+- [01:46:54,762 - 01:46:55,762] That's right.
+- [01:46:55,762 - 01:46:56,762] And if we go the other way,
+- [01:46:56,762 - 01:46:58,762] here we start with the A plus and
+- [01:46:58,762 - 01:47:00,762] A minus for a particular value of K.
+- [01:47:00,762 - 01:47:02,262] What are the corresponds to the
+- [01:47:02,262 - 01:47:03,762] X and P in our case?
+- [01:47:03,762 - 01:47:04,762] Okay, good.
+- [01:47:04,762 - 01:47:09,762] The X and P, right, that's the
+- [01:47:09,762 - 01:47:14,762] real and imaginary parts of the field.
+- [01:47:14,762 - 01:47:18,762] In other words, the field psi,
+- [01:47:18,762 - 01:47:22,762] one piece of it has A pluses,
+- [01:47:22,762 - 01:47:24,762] and the other piece has A minuses.
+- [01:47:24,762 - 01:47:28,762] I use this equal, just, you know what I mean.
+- [01:47:28,762 - 01:47:29,762] All right.
+- [01:47:29,762 - 01:47:34,762] So if you add, oh, sorry, psi dagger plus.
+- [01:47:34,762 - 01:47:36,762] If you add psi to psi dagger,
+- [01:47:36,762 - 01:47:39,762] of course you get the real part of psi,
+- [01:47:39,762 - 01:47:42,762] and that's A plus plus A minus.
+- [01:47:42,762 - 01:47:45,762] That's like X, or maybe it's like P.
+- [01:47:45,762 - 01:47:47,762] That's in .
+- [01:47:47,762 - 01:47:49,762] The real and imaginary parts
+- [01:47:49,762 - 01:47:51,762] are the two conjugate variables,
+- [01:47:51,762 - 01:47:53,762] and they're the two variables,
+- [01:47:53,762 - 01:47:55,762] the real and imaginary part are the two variables
+- [01:47:55,762 - 01:47:59,762] which have a distinct uncertainty relation between them.
+- [01:47:59,762 - 01:48:02,762] So psi plus, psi dagger plus psi,
+- [01:48:02,762 - 01:48:09,762] psi dagger plus or minus psi
+- [01:48:09,762 - 01:48:12,262] are two distinct objects that are the
+- [01:48:12,262 - 01:48:14,762] real and the imaginary part of psi,
+- [01:48:14,762 - 01:48:16,262] and they correspond to the
+- [01:48:16,262 - 01:48:17,762] X and P of the oscillator.
+- [01:48:17,762 - 01:48:21,762] That's a good question, and, no.
+- [01:48:21,762 - 01:48:23,762] I just want to go back to this question.
+- [01:48:23,762 - 01:48:25,762] For a field theory, we're actually going
+- [01:48:25,762 - 01:48:27,762] to have an infinite number of these loops
+- [01:48:27,762 - 01:48:29,762] representing three spaces.
+- [01:48:29,762 - 01:48:30,762] So it's not a reality, right?
+- [01:48:30,762 - 01:48:32,762] If it's three-dimensional space, sure.
+- [01:48:32,762 - 01:48:33,762] Or a space, yeah.
+- [01:48:33,762 - 01:48:35,762] Yeah.
+- [01:48:35,762 - 01:48:36,762] Right.
+- [01:48:36,762 - 01:48:38,762] We don't try to represent the universe.
+- [01:48:38,762 - 01:48:41,762] Yeah, no, no, but what you do for three-dimensional space,
+- [01:48:41,762 - 01:48:44,762] let's start with two-dimensional space, okay?
+- [01:48:44,762 - 01:48:46,762] For two-dimensional space,
+- [01:48:46,762 - 01:48:49,762] what you would imagine the analog
+- [01:48:49,762 - 01:48:52,762] of the circle is the torus.
+- [01:48:52,762 - 01:48:55,262] The torus, you usually think
+- [01:48:55,262 - 01:48:57,762] of a torus as a doughnut
+- [01:48:57,762 - 01:48:59,762] or the surface of a doughnut.
+- [01:48:59,762 - 01:49:03,762] But from a mathematician's point of view,
+- [01:49:03,762 - 01:49:06,762] what a torus is, is
+- [01:49:06,762 - 01:49:09,762] you take a rectangle in space
+- [01:49:09,762 - 01:49:14,762] and you identify the left edge with the right edge
+- [01:49:14,762 - 01:49:17,762] and the bottom edge with the top edge.
+- [01:49:17,762 - 01:49:20,762] You can think of it as first cutting the torus.
+- [01:49:20,762 - 01:49:22,762] Imagine cutting the torus like that.
+- [01:49:22,762 - 01:49:25,762] Of course, we're talking about the surface of the torus.
+- [01:49:25,762 - 01:49:27,762] Who asked me?
+- [01:49:27,762 - 01:49:28,762] Yeah.
+- [01:49:28,762 - 01:49:29,762] So we take the surface of
+- [01:49:29,762 - 01:49:30,762] the torus and we lay it out.
+- [01:49:30,762 - 01:49:32,762] What happens if we cut the torus
+- [01:49:32,762 - 01:49:34,762] through and sort of open it up?
+- [01:49:34,762 - 01:49:38,762] Well, we get a piece of a cylinder, right?
+- [01:49:38,762 - 01:49:40,262] And now we cut it,
+- [01:49:40,262 - 01:49:41,762] but we remember that this edge
+- [01:49:41,762 - 01:49:44,762] is to be identified with that edge.
+- [01:49:44,762 - 01:49:49,762] Then we slice it through here and open it up.
+- [01:49:49,762 - 01:49:52,262] But remember that the top edge has
+- [01:49:52,262 - 01:49:54,762] to be identified with the bottom edge.
+- [01:49:54,762 - 01:49:58,762] So a torus is a rectangle in which we remember
+- [01:49:58,762 - 01:50:01,762] that this point is the same as this point,
+- [01:50:01,762 - 01:50:03,762] this point is the same as this point.
+- [01:50:03,762 - 01:50:05,762] And for example, if we
+- [01:50:05,762 - 01:50:07,762] were talking about a classical particle,
+- [01:50:07,762 - 01:50:11,762] a classical particle which left the torus over here
+- [01:50:11,762 - 01:50:13,762] would reappear over here.
+- [01:50:13,762 - 01:50:20,762] It would come here, it would reappear down here.
+- [01:50:20,762 - 01:50:22,762] That's the same as a classical
+- [01:50:22,762 - 01:50:24,762] particle just moving around on a torus.
+- [01:50:24,762 - 01:50:27,762] It's got two directions of periodicity.
+- [01:50:27,762 - 01:50:30,762] And for this object, both components of the momentum,
+- [01:50:30,762 - 01:50:32,762] the x and the y
+- [01:50:32,762 - 01:50:34,762] components of momentum would be quantized.
+- [01:50:34,762 - 01:50:39,762] So that's the way to think about a torus,
+- [01:50:39,762 - 01:50:44,762] as a rectangle with periodic identifications
+- [01:50:44,762 - 01:50:48,762] or with identifications across the...
+- [01:50:48,762 - 01:50:50,762] And of course, if we had a field,
+- [01:50:50,762 - 01:50:52,762] we would require the field at this position
+- [01:50:52,762 - 01:50:54,762] to be the same as the field at this position,
+- [01:50:54,762 - 01:50:55,762] the field at that point to be
+- [01:50:55,762 - 01:50:56,762] the same as the field at that point,
+- [01:50:56,762 - 01:50:58,762] and so forth.
+- [01:50:58,762 - 01:51:00,762] That's kind of like what I was asking.
+- [01:51:00,762 - 01:51:01,762] If you represent space,
+- [01:51:01,762 - 01:51:04,762] would you represent the objects in space?
+- [01:51:04,762 - 01:51:07,762] Do you represent space or the object of space?
+- [01:51:07,762 - 01:51:08,762] Space, right.
+- [01:51:08,762 - 01:51:10,762] Yeah, we're talking about space,
+- [01:51:10,762 - 01:51:14,762] but the only reason for making it periodic
+- [01:51:14,762 - 01:51:18,762] is to avoid questions of infinity,
+- [01:51:18,762 - 01:51:24,762] and eventually we'll make the space infinite
+- [01:51:24,762 - 01:51:25,762] by replacing sums by...
+- [01:51:26,762 - 01:51:27,762] integrals.
+- [01:51:27,762 - 01:51:30,762] Incidentally, there's a notion of a three-dimensional torus.
+- [01:51:30,762 - 01:51:35,762] A three-dimensional torus is just a cube
+- [01:51:35,762 - 01:51:39,762] with identifications.
+- [01:51:39,762 - 01:51:41,762] This point is identified...
+- [01:51:41,762 - 01:51:45,762] Well, you know, you just identified...
+- [01:51:45,762 - 01:51:47,762] This face is identified with that face,
+- [01:51:47,762 - 01:51:49,762] the top is identified with the bottom,
+- [01:51:49,762 - 01:51:51,762] and the front is identified with the back.
+- [01:51:51,762 - 01:51:52,762] So toruses can...
+- [01:51:52,762 - 01:51:55,762] Tori can exist in any dimensions.
+- [01:51:55,762 - 01:52:00,762] And the notion of a periodic...
+- [01:52:00,762 - 01:52:03,762] particle moving in periodic space
+- [01:52:03,762 - 01:52:05,762] is just the notion of a particle moving
+- [01:52:05,762 - 01:52:08,762] within the interior of a cube,
+- [01:52:08,762 - 01:52:10,762] but in such a way that when
+- [01:52:10,762 - 01:52:12,762] it reaches the edge of the torus,
+- [01:52:12,762 - 01:52:13,762] or the edge of the cube,
+- [01:52:13,762 - 01:52:17,762] it reappears at the opposite end.
+- [01:52:17,762 - 01:52:20,762] When we go to divide space
+- [01:52:20,762 - 01:52:24,762] into its periodic representations of the cube,
+- [01:52:24,762 - 01:52:28,762] which is oscillators of the fields,
+- [01:52:28,762 - 01:52:30,762] is there one that one...
+- [01:52:30,762 - 01:52:33,762] Here we haven't specified anything
+- [01:52:33,762 - 01:52:36,762] mapped to any physical reality.
+- [01:52:36,762 - 01:52:40,762] Is one chosen by everybody when they go to...
+- [01:52:40,762 - 01:52:42,762] When what chosen?
+- [01:52:42,762 - 01:52:44,762] Is a quantum,
+- [01:52:44,762 - 01:52:46,762] a true physical quantum chosen
+- [01:52:46,762 - 01:52:49,762] when doing field theory work?
+- [01:52:49,762 - 01:52:50,762] No, remember,
+- [01:52:50,762 - 01:52:53,762] quanta are the particles.
+- [01:52:53,762 - 01:52:54,762] The quanta are the particles.
+- [01:52:54,762 - 01:52:55,762] The quanta are the particles.
+- [01:52:55,762 - 01:52:56,762] They can change.
+- [01:52:56,762 - 01:52:57,762] They come and they go.
+- [01:52:57,762 - 01:52:58,762] They're created,
+- [01:52:58,762 - 01:52:59,762] they're annihilated,
+- [01:52:59,762 - 01:53:00,762] they're radiated,
+- [01:53:00,762 - 01:53:01,762] they're absorbed.
+- [01:53:01,762 - 01:53:03,762] Let me try expressing it this way.
+- [01:53:03,762 - 01:53:07,762] Is there a grid size for space
+- [01:53:07,762 - 01:53:08,762] that everybody uses?
+- [01:53:08,762 - 01:53:11,762] Well, that of course
+- [01:53:11,762 - 01:53:14,762] is a very, very speculative question.
+- [01:53:14,762 - 01:53:17,762] My own answer would probably be no,
+- [01:53:17,762 - 01:53:20,762] but I think you're asking probably questions
+- [01:53:20,762 - 01:53:23,762] about length scales of Planckian cycles
+- [01:53:23,762 - 01:53:26,762] and length scales of Planckian scales
+- [01:53:26,762 - 01:53:44,142] of the
+- [01:53:44,142 - 01:53:45,762] of the
+- [01:53:45,762 - 01:53:46,762] of the
+- [01:53:46,762 - 01:53:47,762] of the
+- [01:53:47,762 - 01:53:48,762] of the
+- [01:53:48,762 - 01:53:49,762] of the
+- [01:53:49,762 - 01:53:50,762] of the
+- [01:53:50,762 - 01:53:51,762] of the
+- [01:53:51,762 - 01:53:52,762] of the
+- [01:53:52,762 - 01:54:21,762] of the
+- [01:54:22,762 - 01:54:26,442] But you know, for almost all practical purposes,
+- [01:54:26,442 - 01:54:32,442] to take space to be continuous rather than discrete.
+- [01:54:32,442 - 01:54:37,142] Incidentally, it's momentum which was discrete, not space,
+- [01:54:37,142 - 01:54:39,142] when we put things on a circle.
+- [01:54:39,142 - 01:54:42,262] It was the momenta, the k's which were discrete,
+- [01:54:42,262 - 01:54:44,882] not the positions of particles.
+- [01:54:44,882 - 01:54:47,782] Positions of particles were
+- [01:54:47,782 - 01:54:50,682] periodic, the momenta was discrete.
+- [01:54:50,682 - 01:54:52,942] The momenta was discrete
+- [01:54:52,942 - 01:54:55,202] only because we assumed periodicity.
+- [01:54:55,202 - 01:54:57,522] We assumed the wave function was periodic.
+- [01:54:57,522 - 01:54:59,622] Yeah.
+- [01:54:59,622 - 01:55:01,442] Yeah, but it comes back to itself after...
+- [01:55:01,442 - 01:55:04,882] Yeah, no, you can question that, and in fact,
+- [01:55:04,882 - 01:55:10,522] it is legitimate to question it, but not now.
+- [01:55:10,522 - 01:55:13,842] Just a speculative question.
+- [01:55:13,842 - 01:55:16,542] In the simplest quantum field theory,
+- [01:55:16,542 - 01:55:18,562] if I take the connotation relation
+- [01:55:18,562 - 01:55:20,582] between the annihilation and creation operator
+- [01:55:20,582 - 01:55:24,982] and change it to anti, to minus delta and kl,
+- [01:55:24,982 - 01:55:28,462] is that a simple fermion theory or just a...
+- [01:55:28,462 - 01:55:29,762] Yeah.
+- [01:55:29,762 - 01:55:31,622] Yeah.
+- [01:55:31,622 - 01:55:37,122] If you replace commutators by anticommutators,
+- [01:55:37,122 - 01:55:40,692] so the commutator of A
+- [01:55:40,692 - 01:55:44,262] and B is AB minus BA.
+- [01:55:44,262 - 01:55:46,731] So, yeah, that's equal to
+- [01:55:46,731 - 01:55:49,201] the commutator of A with B.
+- [01:55:49,201 - 01:55:50,401] And it's anti-symmetrical.
+- [01:55:50,401 - 01:55:50,562] Yeah.
+- [01:55:50,562 - 01:55:53,042] And that if you interchange
+- [01:55:53,042 - 01:55:55,522] A and B, it changes sign.
+- [01:55:55,522 - 01:56:00,562] The anticommutator is by definition, and
+- [01:56:00,562 - 01:56:05,602] it's usually written this way, AB,
+- [01:56:05,602 - 01:56:10,161] it's AB plus BA.
+- [01:56:10,161 - 01:56:12,881] Now, I saved this for last because
+- [01:56:12,881 - 01:56:15,602] it's harder to swallow that AB doesn't...
+- [01:56:15,602 - 01:56:19,262] that AB plus BA equals zero.
+- [01:56:19,262 - 01:56:20,382] That's harder.
+- [01:56:20,382 - 01:56:22,462] That's harder to swallow than AB
+- [01:56:22,462 - 01:56:24,542] minus BA is equal to zero.
+- [01:56:24,542 - 01:56:26,782] Here we have, I mean, here
+- [01:56:26,782 - 01:56:29,022] we have almost everything is normal.
+- [01:56:29,022 - 01:56:30,822] A plus times A minus
+- [01:56:30,822 - 01:56:32,622] is the same as A minus.
+- [01:56:32,622 - 01:56:35,041] I'm sorry, A plus times A plus is the same
+- [01:56:35,041 - 01:56:37,461] as A plus times A plus in the opposite direction.
+- [01:56:37,461 - 01:56:41,941] It's only a small subset of things which are odd.
+- [01:56:41,941 - 01:56:44,741] Okay?
+- [01:56:44,741 - 01:56:47,481] If we were to replace this
+- [01:56:47,481 - 01:56:50,221] by anticommutators, almost everything would be...
+- [01:56:50,222 - 01:56:51,222] odd.
+- [01:56:51,222 - 01:56:55,262] AB plus BA would equal zero
+- [01:56:55,262 - 01:56:59,302] for almost all of the time.
+- [01:56:59,302 - 01:57:03,402] So we'll come to that.
+- [01:57:03,402 - 01:57:08,102] But such mathematical manipulations define fermions.
+- [01:57:08,102 - 01:57:10,882] And fermions are exactly the particles
+- [01:57:10,882 - 01:57:13,662] that have a Pauli exclusion principle.
+- [01:57:13,662 - 01:57:15,942] You simply can't put two of them into this.
+- [01:57:15,942 - 01:57:17,982] Not only do they not like to be in
+- [01:57:17,982 - 01:57:20,022] the same state, they can't be in the same state.
+- [01:57:20,022 - 01:57:23,622] There's a complete opposite to
+- [01:57:23,622 - 01:57:27,222] the notion of stimulated emission.
+- [01:57:27,222 - 01:57:30,052] If you have a fermion in a box and
+- [01:57:30,052 - 01:57:32,882] you try to create another one with the same momentum
+- [01:57:32,882 - 01:57:35,042] or same everything, you can't.
+- [01:57:35,042 - 01:57:37,182] You can only put one of them in a state.
+- [01:57:37,182 - 01:57:40,142] And that has to be reflected somehow by
+- [01:57:40,142 - 01:57:43,102] the algebra of the creation and annihilation operators.
+- [01:57:43,102 - 01:57:46,062] There are creation and annihilation operators for
+- [01:57:46,062 - 01:57:49,022] fermions, but they're such that the algebra,
+- [01:57:49,022 - 01:57:49,522] instead of telling you that you're going to
+- [01:57:49,522 - 01:57:50,022] get a fermion, you're going to get a fermion.
+- [01:57:50,022 - 01:57:51,312] And if they're telling you that they like to
+- [01:57:51,312 - 01:57:52,602] come out in the same state, it tells you
+- [01:57:52,602 - 01:57:56,042] they cannot come out in the same state.
+- [01:57:56,042 - 01:57:57,042] So that's...
+- [01:57:57,042 - 01:57:58,042] Yeah.
+- [01:57:58,042 - 01:58:00,102] And if you can't put a lot of
+- [01:58:00,102 - 01:58:02,162] them in the same state, it never behaves classically.
+- [01:58:02,162 - 01:58:03,162] Okay.
+- [01:58:03,162 - 01:58:04,162] So somebody is saying alpha particle is a boson.
+- [01:58:04,162 - 01:58:07,662] Like, you can put a bunch of them
+- [01:58:07,662 - 01:58:11,162] in the same state, except that alpha particles are...
+- [01:58:11,162 - 01:58:14,462] Made of fermions.
+- [01:58:14,462 - 01:58:15,462] It's weird.
+- [01:58:15,462 - 01:58:17,222] If you take two fermions, you make a boson.
+- [01:58:17,222 - 01:58:18,222] Okay.
+- [01:58:18,222 - 01:58:19,222] Okay.
+- [01:58:19,222 - 01:58:21,342] So you can put two fermions in the state,
+- [01:58:21,342 - 01:58:23,462] but if you make a boson out of two fermions,
+- [01:58:23,462 - 01:58:26,542] you can put two bosons in the same state.
+- [01:58:26,542 - 01:58:27,952] But that's not the same
+- [01:58:27,952 - 01:58:29,362] as putting the fermions in it.
+- [01:58:29,362 - 01:58:30,362] We'll...
+- [01:58:30,362 - 01:58:31,362] Yeah.
+- [01:58:31,362 - 01:58:32,362] We'll...
+- [01:58:32,362 - 01:58:33,362] It's kind of weird.
+- [01:58:33,362 - 01:58:35,362] Will we see eventually how to
+- [01:58:35,362 - 01:58:37,362] put in, like, an external field?
+- [01:58:37,362 - 01:58:38,362] Yes.
+- [01:58:38,362 - 01:58:41,982] I mean, in this...
+- [01:58:41,982 - 01:58:45,362] Right now, there's no, like, an external field acting here.
+- [01:58:45,362 - 01:58:46,362] There's no...
+- [01:58:46,362 - 01:58:47,362] Yes.
+- [01:58:47,362 - 01:58:50,502] These are all, like, free particles, right?
+- [01:58:50,502 - 01:58:52,622] External fields can either be described as
+- [01:58:52,622 - 01:58:54,742] classical external fields, or they can be
+- [01:58:54,742 - 01:58:59,502] described as large numbers of quanta.
+- [01:58:59,502 - 01:59:02,262] And that's a kind of boundary condition, that
+- [01:59:02,262 - 01:59:05,022] the effects of large numbers of quanta should
+- [01:59:05,022 - 01:59:06,022] be in one...
+- [01:59:06,022 - 01:59:08,262] Should be essentially the same within small
+- [01:59:08,262 - 01:59:10,502] deviations from the effect of a classical
+- [01:59:10,502 - 01:59:11,502] field.
+- [01:59:11,502 - 01:59:13,502] That's, of course, how a lot of this was deduced.
+- [01:59:13,502 - 01:59:14,002] By saying, well, somehow the electromagnetic field
+- [01:59:14,002 - 01:59:14,502] is not the same as the classical field.
+- [01:59:14,502 - 01:59:17,122] By saying, well, somehow the electromagnetic
+- [01:59:17,122 - 01:59:19,742] field has to describe discrete quanta, but
+- [01:59:19,742 - 01:59:23,622] when there's a lot of them,
+- [01:59:23,622 - 01:59:27,502] it better reduce to the right thing.
