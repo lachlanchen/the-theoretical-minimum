@@ -1,0 +1,52 @@
+{
+  "course_rel": "supplementary/cosmology_and_black_holes/2011_winter_topics_in_string_theory",
+  "transcript_rel": "supplementary/cosmology_and_black_holes/2011_winter_topics_in_string_theory/109 - Lecture 5 \uff5c Topics in String Theory [EJrgKI8aXgQ].md",
+  "video_rel": "supplementary/cosmology_and_black_holes/2011_winter_topics_in_string_theory/109 - Lecture 5 \uff5c Topics in String Theory [EJrgKI8aXgQ].mkv",
+  "lecture_number": 5,
+  "lecture_slug": "lecture_05",
+  "lecture_title": "Lecture 5 : Topics in String Theory",
+  "assets": [
+    {
+      "name": "lecture_05_figure_02.png",
+      "timestamp_seconds": 701.56,
+      "timestamp_hhmmss": "00:11:41.560",
+      "source_candidate": "lecture_05_window_03_candidate_02_001141560.png",
+      "recommended_use": "screenshot_plus_tikz",
+      "rationale": "This frame gives the clearest and most stable view of the diagram while keeping Susskind far enough to the left that the board geometry is not meaningfully blocked. The upper half of the compactified diagram is fully visible, including the left boundary, the right-hand tip, and the interior curved grid lines that are useful for a later clean redraw.",
+      "subtitle_excerpt": "We have the lower part of the diagram, which I won't draw.",
+      "segment_start_seconds": 701.16,
+      "segment_start_hhmmss": "00:11:41.160",
+      "segment_end_seconds": 702.16,
+      "segment_end_hhmmss": "00:11:42.160",
+      "caption_hint": "upper half of compactified spacetime diagram"
+    },
+    {
+      "name": "lecture_05_figure_03.png",
+      "timestamp_seconds": 1015.975,
+      "timestamp_hhmmss": "00:16:55.975",
+      "source_candidate": "lecture_05_window_04_candidate_02_001655975.png",
+      "recommended_use": "screenshot_plus_tikz",
+      "rationale": "This frame shows the developed diagram most completely and with the least important content blocked by Susskind. The right-hand diamond, the central bifurcation point, the family of interior constant-r curves, and the boundary labels are all visible enough to support a faithful redraw for the notes.",
+      "subtitle_excerpt": "would be, but on this diagram, there's r equals 6mg. r equals 100mg, far from the",
+      "segment_start_seconds": 1013.52,
+      "segment_start_hhmmss": "00:16:53.520",
+      "segment_end_seconds": 1019.98,
+      "segment_end_hhmmss": "00:16:59.980",
+      "caption_hint": "Schwarzschild Penrose diagram with constant-r curves"
+    },
+    {
+      "name": "lecture_05_figure_05.png",
+      "timestamp_seconds": 1661.016,
+      "timestamp_hhmmss": "00:27:41.016",
+      "source_candidate": "lecture_05_window_06_candidate_02_002741016.png",
+      "recommended_use": "screenshot_plus_tikz",
+      "rationale": "This frame is the most useful because it preserves the board layout at the transition moment: the earlier fan-shaped compactified diagram is visible on the left, while the black-hole sketch remains visible on the right. That makes it better for note writing than the other candidates, which show only one side clearly or are dominated by the lecturer.",
+      "subtitle_excerpt": "Let's try to draw a Penrose diagram for that.",
+      "segment_start_seconds": 1659.42,
+      "segment_start_hhmmss": "00:27:39.420",
+      "segment_end_seconds": 1663.62,
+      "segment_end_hhmmss": "00:27:43.620",
+      "caption_hint": "starting the Penrose-diagram redraw"
+    }
+  ]
+}
