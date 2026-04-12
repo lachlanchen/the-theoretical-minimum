@@ -1,0 +1,80 @@
+{
+  "course_rel": "supplementary/cosmology_and_black_holes/2011_winter_topics_in_string_theory",
+  "transcript_rel": "supplementary/cosmology_and_black_holes/2011_winter_topics_in_string_theory/107 - Lecture 3 \uff5c Topics in String Theory [i1s5eOJ3V6k].md",
+  "video_rel": "supplementary/cosmology_and_black_holes/2011_winter_topics_in_string_theory/107 - Lecture 3 \uff5c Topics in String Theory [i1s5eOJ3V6k].mkv",
+  "lecture_number": 3,
+  "lecture_slug": "lecture_03",
+  "lecture_title": "Lecture 3 : Topics in String Theory",
+  "assets": [
+    {
+      "name": "lecture_03_figure_01.png",
+      "timestamp_seconds": 0.0,
+      "timestamp_hhmmss": "00:00:00.000",
+      "source_candidate": "lecture_03_window_01_candidate_03_000004550.png",
+      "recommended_use": "screenshot_only",
+      "rationale": "None of the candidates contain blackboard mathematics, diagrams, or lecture-room layout useful for note writing. They are all introductory campus or Stanford title-card frames, which should be rejected for the chapter visuals.",
+      "subtitle_excerpt": "Stanford University",
+      "segment_start_seconds": 0.0,
+      "segment_start_hhmmss": "00:00:00.000",
+      "segment_end_seconds": 7.0,
+      "segment_end_hhmmss": "00:00:07.000",
+      "caption_hint": "Stanford University"
+    },
+    {
+      "name": "lecture_03_figure_02.png",
+      "timestamp_seconds": 262.55,
+      "timestamp_hhmmss": "00:04:22.550",
+      "source_candidate": "lecture_03_window_03_candidate_03_000422550.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "",
+      "subtitle_excerpt": "But let's write down the metric of a Schwarzschild black hole in this notation.",
+      "segment_start_seconds": 258.0,
+      "segment_start_hhmmss": "00:04:18.000",
+      "segment_end_seconds": 265.0,
+      "segment_end_hhmmss": "00:04:25.000",
+      "caption_hint": "But let's write down the metric of a Schwarzschild black hole in this notation."
+    },
+    {
+      "name": "lecture_03_figure_03.png",
+      "timestamp_seconds": 1247.55,
+      "timestamp_hhmmss": "00:20:47.550",
+      "source_candidate": "lecture_03_window_04_candidate_03_002047550.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "",
+      "subtitle_excerpt": "Okay, what we want to show now is that this metric close to the horizon",
+      "segment_start_seconds": 1243.0,
+      "segment_start_hhmmss": "00:20:43.000",
+      "segment_end_seconds": 1250.0,
+      "segment_end_hhmmss": "00:20:50.000",
+      "caption_hint": "Okay, what we want to show now is that this metric close to the horizon"
+    },
+    {
+      "name": "lecture_03_figure_04.png",
+      "timestamp_seconds": 1908.2,
+      "timestamp_hhmmss": "00:31:48.200",
+      "source_candidate": "lecture_03_window_05_candidate_03_003148200.png",
+      "recommended_use": "screenshot_plus_equation",
+      "rationale": "",
+      "subtitle_excerpt": "We've seen that to a high approximation, the region near the horizon, near r equals 2mg,",
+      "segment_start_seconds": 1903.0,
+      "segment_start_hhmmss": "00:31:43.000",
+      "segment_end_seconds": 1911.0,
+      "segment_end_hhmmss": "00:31:51.000",
+      "caption_hint": "We've seen that to a high approximation, the region near the horizon, near r equals 2mg,"
+    },
+    {
+      "name": "lecture_03_figure_05.png",
+      "timestamp_seconds": 3023.36,
+      "timestamp_hhmmss": "00:50:23.360",
+      "source_candidate": "lecture_03_window_06_candidate_01_005023360.png",
+      "recommended_use": "screenshot_plus_equation_and_tikz",
+      "rationale": "This frame gives the best overall evidence for the boardwork at this moment. It preserves both the geometric sketch and the nearby algebra, with less occlusion than the later frames where Susskind's arms cover more of the drawing. The crossed null lines, marked central point, and the newly drawn right-hand boundary or constant-r feature are all visible together, making it the most useful frame for reconstructing the layout.",
+      "subtitle_excerpt": "Let's draw first R equals, little r, little r here equals one.",
+      "segment_start_seconds": 3023.0,
+      "segment_start_hhmmss": "00:50:23.000",
+      "segment_end_seconds": 3026.0,
+      "segment_end_hhmmss": "00:50:26.000",
+      "caption_hint": "Kruskal-style horizon sketch with r=1 construction"
+    }
+  ]
+}
