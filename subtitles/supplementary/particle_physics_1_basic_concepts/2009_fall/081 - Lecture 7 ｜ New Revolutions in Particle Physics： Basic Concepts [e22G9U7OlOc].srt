@@ -1,0 +1,9320 @@
+1
+00:00:00,000 --> 00:00:07,000
+Stanford University.
+
+2
+00:00:07,000 --> 00:00:17,760
+What we're going to study tonight is angular momentum.
+
+3
+00:00:17,760 --> 00:00:25,220
+What we're after is one of the most important, interesting,
+
+4
+00:00:25,220 --> 00:00:30,140
+unintuitive, and yet very, very simple aspects
+
+5
+00:00:30,140 --> 00:00:36,100
+of elementary particles, or anything else for that matter.
+
+6
+00:00:36,100 --> 00:00:37,360
+They're spin.
+
+7
+00:00:37,360 --> 00:00:41,180
+They're spin angular momentum.
+
+8
+00:00:41,180 --> 00:00:44,389
+Let's first talk a little
+
+9
+00:00:44,389 --> 00:00:47,599
+bit about what angular momentum is.
+
+10
+00:00:52,080 --> 00:00:53,860
+Well, let me pretend for the moment
+
+11
+00:00:53,860 --> 00:00:55,120
+that you knew what angular momentum
+
+12
+00:00:55,120 --> 00:00:55,200
+was.
+
+13
+00:00:55,220 --> 00:00:58,120
+Which you probably do.
+
+14
+00:00:58,120 --> 00:00:59,960
+But you get a rough idea.
+
+15
+00:00:59,960 --> 00:01:01,130
+It's got to do with
+
+16
+00:01:01,130 --> 00:01:02,300
+how fast the system is rotating,
+
+17
+00:01:02,300 --> 00:01:08,500
+and how massive it is, and that sort of thing.
+
+18
+00:01:08,500 --> 00:01:11,380
+Angular momentum is, first of all, a vector quantity.
+
+19
+00:01:11,380 --> 00:01:13,400
+It points in a direction.
+
+20
+00:01:13,400 --> 00:01:16,660
+The mathematical definition of the angular momentum
+
+21
+00:01:16,660 --> 00:01:19,620
+is that its direction as a vector points
+
+22
+00:01:19,620 --> 00:01:21,060
+along the axis of rotation.
+
+23
+00:01:21,060 --> 00:01:23,500
+So that's kind of obvious.
+
+24
+00:01:23,500 --> 00:01:24,780
+There's a right-hand rule.
+
+25
+00:01:24,780 --> 00:01:27,820
+If the system is rotating about an axis,
+
+26
+00:01:27,820 --> 00:01:31,200
+you don't know offhand, without a definition,
+
+27
+00:01:31,200 --> 00:01:32,880
+whether the angular momentum is
+
+28
+00:01:32,880 --> 00:01:34,560
+pointing that way or that way.
+
+29
+00:01:34,560 --> 00:01:36,860
+All I told you was along the axis.
+
+30
+00:01:36,860 --> 00:01:38,060
+So you need a rule.
+
+31
+00:01:38,060 --> 00:01:39,400
+The rule is the right-hand rule.
+
+32
+00:01:39,400 --> 00:01:41,440
+If it's rotating that way, you wrap your fingers
+
+33
+00:01:41,440 --> 00:01:44,340
+around the direction of rotation, and your thumb
+
+34
+00:01:44,340 --> 00:01:48,760
+points along the direction of the angular momentum.
+
+35
+00:01:48,760 --> 00:01:50,180
+That's not something you prove.
+
+36
+00:01:50,180 --> 00:01:52,060
+That's something you define,
+
+37
+00:01:52,060 --> 00:01:53,940
+the direction of angular momentum.
+
+38
+00:01:54,780 --> 00:01:56,400
+It's built up out of the
+
+39
+00:01:56,400 --> 00:01:58,020
+mass, and the speed of rotation,
+
+40
+00:01:58,020 --> 00:02:00,020
+and that sort of thing, the moment of inertia,
+
+41
+00:02:00,020 --> 00:02:02,360
+to be exact, which is a combination of the mass
+
+42
+00:02:02,360 --> 00:02:05,540
+and the size of the system, and the velocity,
+
+43
+00:02:05,540 --> 00:02:06,740
+the angular velocity.
+
+44
+00:02:08,900 --> 00:02:16,580
+And any system, any ordinary system, composite system,
+
+45
+00:02:16,580 --> 00:02:21,100
+this cup here, made up out of lots of atoms,
+
+46
+00:02:21,100 --> 00:02:23,700
+it actually can have two kinds of angular momentum.
+
+47
+00:02:23,700 --> 00:02:24,780
+One is called angular momentum.
+
+48
+00:02:24,780 --> 00:02:27,820
+It's called orbital angular momentum.
+
+49
+00:02:27,820 --> 00:02:31,620
+And the orbital angular momentum is a consequence
+
+50
+00:02:31,620 --> 00:02:34,380
+of the motion of its center of mass.
+
+51
+00:02:34,380 --> 00:02:35,700
+It could be angular momentum.
+
+52
+00:02:35,700 --> 00:02:38,160
+Angular momentum, first of all,
+
+53
+00:02:38,160 --> 00:02:40,620
+is relative to a particular axis.
+
+54
+00:02:40,620 --> 00:02:44,860
+If an object is moving around an axis,
+
+55
+00:02:44,860 --> 00:02:48,460
+it has angular momentum relative to that axis,
+
+56
+00:02:48,460 --> 00:02:52,900
+even if the thing is itself not spinning.
+
+57
+00:02:52,900 --> 00:02:53,940
+That's a good word, spinning.
+
+58
+00:02:53,940 --> 00:02:54,660
+Spinning means rotating.
+
+59
+00:02:54,660 --> 00:02:57,380
+Spinning means rotating about some internal axis.
+
+60
+00:02:57,380 --> 00:02:59,540
+It has angular momentum by virtue of the fact
+
+61
+00:02:59,540 --> 00:03:01,880
+that it's moving, let's say, in
+
+62
+00:03:01,880 --> 00:03:04,220
+a circular orbit around my head.
+
+63
+00:03:04,220 --> 00:03:04,720
+I see it.
+
+64
+00:03:04,720 --> 00:03:06,359
+It has angular momentum.
+
+65
+00:03:06,359 --> 00:03:08,380
+That's not the angular momentum we're interested in,
+
+66
+00:03:08,380 --> 00:03:10,300
+that orbital angular momentum.
+
+67
+00:03:10,300 --> 00:03:12,840
+The angular momentum we're interested in
+
+68
+00:03:12,840 --> 00:03:15,660
+is the angular momentum of spin.
+
+69
+00:03:15,660 --> 00:03:18,060
+So what is the spin angular momentum?
+
+70
+00:03:18,060 --> 00:03:22,260
+The spin angular momentum is whatever angular momentum
+
+71
+00:03:22,260 --> 00:03:23,460
+would be there.
+
+72
+00:03:23,460 --> 00:03:24,500
+In a frame of reference, if you're
+
+73
+00:03:24,500 --> 00:03:26,740
+looking at the center of mass of the system,
+
+74
+00:03:26,740 --> 00:03:27,840
+you can see that the
+
+75
+00:03:27,840 --> 00:03:28,940
+center of mass of the system
+
+76
+00:03:28,940 --> 00:03:29,540
+is at rest.
+
+77
+00:03:29,540 --> 00:03:31,740
+So if the center of mass of the system
+
+78
+00:03:31,740 --> 00:03:33,740
+is at rest, the only
+
+79
+00:03:33,740 --> 00:03:35,740
+angle where the center of mass
+
+80
+00:03:35,740 --> 00:03:39,140
+of the system is at rest.
+
+81
+00:03:39,140 --> 00:03:41,260
+I don't mean that it's not rotating.
+
+82
+00:03:41,260 --> 00:03:44,540
+I mean that its center of mass is standing still.
+
+83
+00:03:44,540 --> 00:03:47,900
+In the frame of reference where its momentum is zero,
+
+84
+00:03:47,900 --> 00:03:51,260
+ordinary momentum, any leftover angular momentum
+
+85
+00:03:51,260 --> 00:03:52,580
+is called spin, basically.
+
+86
+00:03:54,500 --> 00:03:56,250
+I wish I had a basketball
+
+87
+00:03:56,250 --> 00:03:58,000
+or something that I could spin,
+
+88
+00:03:58,000 --> 00:03:59,680
+but just to illustrate.
+
+89
+00:04:02,580 --> 00:04:06,660
+Ordinarily, in ordinary thinking about things,
+
+90
+00:04:06,660 --> 00:04:08,670
+you can take a basketball
+
+91
+00:04:08,670 --> 00:04:10,680
+and you can start it rotating.
+
+92
+00:04:10,680 --> 00:04:12,940
+And you'll say, that's the same thing,
+
+93
+00:04:12,940 --> 00:04:15,920
+that's the same object as the original basketball, which
+
+94
+00:04:15,920 --> 00:04:18,100
+wasn't rotating, except it's now rotating.
+
+95
+00:04:21,779 --> 00:04:24,500
+If we also keep track of the fact,
+
+96
+00:04:24,500 --> 00:04:28,220
+that in quantum mechanics, the amount of angular momentum
+
+97
+00:04:28,220 --> 00:04:32,720
+is discrete, you can't interpolate continuously
+
+98
+00:04:32,720 --> 00:04:35,400
+between different angular momenta,
+
+99
+00:04:35,400 --> 00:04:37,900
+then you could ask the question, it becomes
+
+100
+00:04:37,900 --> 00:04:40,300
+a question of definition.
+
+101
+00:04:40,300 --> 00:04:44,260
+If you start an object with no angular momentum,
+
+102
+00:04:44,260 --> 00:04:46,740
+and then you rotate it up, you spin it up,
+
+103
+00:04:46,740 --> 00:04:48,880
+and give it some angular momentum,
+
+104
+00:04:48,880 --> 00:04:50,730
+is it the same object rotating,
+
+105
+00:04:50,730 --> 00:04:52,580
+or is it a new object?
+
+106
+00:04:52,580 --> 00:04:53,580
+Now, that's obviously a matter.
+
+107
+00:04:53,580 --> 00:04:54,080
+I'm not sure.
+
+108
+00:04:54,080 --> 00:04:56,780
+It's a matter of definition.
+
+109
+00:04:56,780 --> 00:05:00,740
+But in practice, the real issue
+
+110
+00:05:00,740 --> 00:05:04,700
+is, how much energy does it
+
+111
+00:05:04,700 --> 00:05:09,020
+take to set it into rotation?
+
+112
+00:05:09,020 --> 00:05:11,180
+Now, you say, I can set it into the smallest
+
+113
+00:05:11,180 --> 00:05:15,700
+amount of rotation, arbitrarily small amount of rotation.
+
+114
+00:05:15,700 --> 00:05:19,000
+And so it takes arbitrarily small amount of energy
+
+115
+00:05:19,000 --> 00:05:19,940
+to start it rotating.
+
+116
+00:05:19,940 --> 00:05:22,640
+But that's true in classical mechanics.
+
+117
+00:05:22,640 --> 00:05:23,860
+You have a continuous rotation.
+
+118
+00:05:24,080 --> 00:05:27,780
+You have a continuous interpolation
+
+119
+00:05:27,780 --> 00:05:31,840
+between the thing not rotating and the thing rotating.
+
+120
+00:05:31,840 --> 00:05:33,300
+But in quantum mechanics, you don't
+
+121
+00:05:33,300 --> 00:05:37,039
+have a continuous interpolation.
+
+122
+00:05:37,039 --> 00:05:41,080
+And so I would say, it's a matter of definition
+
+123
+00:05:41,080 --> 00:05:44,659
+whether you want to think of a rotating nucleus
+
+124
+00:05:44,659 --> 00:05:49,340
+as the same object or a discretely different object.
+
+125
+00:05:49,340 --> 00:05:51,080
+But the real question, as I said,
+
+126
+00:05:51,080 --> 00:05:53,820
+is, how much energy does it take to start
+
+127
+00:05:53,820 --> 00:05:56,360
+the rotation?
+
+128
+00:05:56,360 --> 00:06:00,099
+Given that the rotational states are discrete,
+
+129
+00:06:00,099 --> 00:06:02,820
+it makes sense to ask, how much energy does it
+
+130
+00:06:02,820 --> 00:06:05,500
+take to set it into the
+
+131
+00:06:05,500 --> 00:06:08,180
+first excited state, the first lowest
+
+132
+00:06:08,180 --> 00:06:10,400
+amount of rotation that you can get?
+
+133
+00:06:10,400 --> 00:06:12,469
+If it's very small, it only
+
+134
+00:06:12,469 --> 00:06:14,539
+takes a little bit of energy,
+
+135
+00:06:14,539 --> 00:06:18,320
+then the object is probably pretty recognizable
+
+136
+00:06:18,320 --> 00:06:21,580
+as the same object as when it was rest.
+
+137
+00:06:21,580 --> 00:06:22,110
+But if it takes an
+
+138
+00:06:22,110 --> 00:06:22,640
+enormous amount of energy, then it's
+
+139
+00:06:22,640 --> 00:06:22,730
+probably pretty recognizable as the same
+
+140
+00:06:22,730 --> 00:06:22,820
+object as when it was rest.
+
+141
+00:06:22,820 --> 00:06:23,070
+But if it takes an
+
+142
+00:06:23,070 --> 00:06:23,320
+enormous amount of energy, then it's
+
+143
+00:06:23,320 --> 00:06:23,570
+probably pretty recognizable as the same
+
+144
+00:06:23,570 --> 00:06:23,820
+object as when it was rest.
+
+145
+00:06:23,820 --> 00:06:24,070
+But if it takes an
+
+146
+00:06:24,070 --> 00:06:24,320
+enormous amount of energy, then it's
+
+147
+00:06:24,320 --> 00:06:24,570
+probably pretty recognizable as the same
+
+148
+00:06:24,570 --> 00:06:24,820
+object as when it was rest.
+
+149
+00:06:24,820 --> 00:06:26,190
+Well, it could take so much
+
+150
+00:06:26,190 --> 00:06:27,560
+energy that it would just blow
+
+151
+00:06:27,560 --> 00:06:29,360
+the system apart.
+
+152
+00:06:29,360 --> 00:06:35,780
+So for example, if you try
+
+153
+00:06:35,780 --> 00:06:42,200
+to set an atom into rotation
+
+154
+00:06:42,200 --> 00:06:43,920
+with too much angular momentum,
+
+155
+00:06:43,920 --> 00:06:45,640
+the electrons will just fly off,
+
+156
+00:06:45,640 --> 00:06:47,680
+and that atom won't even be there.
+
+157
+00:06:47,680 --> 00:06:49,500
+So you certainly make things which
+
+158
+00:06:49,500 --> 00:06:51,200
+are distinguishably different when
+
+159
+00:06:51,200 --> 00:06:52,900
+you set them into rotation.
+
+160
+00:06:52,900 --> 00:06:57,120
+And they are not just in rotation and discreetly different.
+
+161
+00:06:57,120 --> 00:06:59,620
+What about an electron?
+
+162
+00:06:59,620 --> 00:07:00,960
+Can you set an electron?
+
+163
+00:07:00,960 --> 00:07:03,700
+Forget for the moment that the electron has
+
+164
+00:07:03,700 --> 00:07:05,120
+intrinsic spin for a minute.
+
+165
+00:07:05,120 --> 00:07:07,000
+Let's forget that for a minute.
+
+166
+00:07:07,000 --> 00:07:10,479
+Can you set an electron into rotation
+
+167
+00:07:10,479 --> 00:07:13,960
+so that it resembles the same object except rotating
+
+168
+00:07:13,960 --> 00:07:16,280
+about some axis?
+
+169
+00:07:16,280 --> 00:07:20,599
+Or is the electron somehow so small and so point-like
+
+170
+00:07:20,599 --> 00:07:22,900
+that it doesn't make any sense?
+
+171
+00:07:22,900 --> 00:07:26,340
+So what happens when we set an electron into rotation?
+
+172
+00:07:26,340 --> 00:07:28,120
+Well, we have a very simple
+
+173
+00:07:28,120 --> 00:07:29,900
+way to set it into rotation.
+
+174
+00:07:29,900 --> 00:07:32,479
+A thing which is infinitely small, a simple point,
+
+175
+00:07:32,479 --> 00:07:35,060
+a simple mathematical point, it's
+
+176
+00:07:35,060 --> 00:07:37,200
+hard to conceive of, at
+
+177
+00:07:37,200 --> 00:07:39,340
+least with our usual mental pictures,
+
+178
+00:07:39,340 --> 00:07:43,560
+of setting that thing into rotation.
+
+179
+00:07:43,560 --> 00:07:46,479
+But we don't know that the electron is infinitely small.
+
+180
+00:07:46,479 --> 00:07:50,039
+Maybe the electron is not infinitely small.
+
+181
+00:07:50,039 --> 00:07:51,389
+If it's not infinitely small, maybe
+
+182
+00:07:51,389 --> 00:07:52,739
+we have a chance of seeing
+
+183
+00:07:52,739 --> 00:07:52,780
+a rotating electron.
+
+184
+00:07:52,900 --> 00:07:56,400
+electron. So the question becomes, how much energy
+
+185
+00:07:56,400 --> 00:07:59,900
+does it take to set an electron into
+
+186
+00:08:00,719 --> 00:08:04,219
+rotation? Now, the answer tends to depend on
+
+187
+00:08:04,219 --> 00:08:07,719
+the size of an object. For a given mass,
+
+188
+00:08:10,200 --> 00:08:12,999
+it depends on the size of an object.
+
+189
+00:08:12,999 --> 00:08:15,799
+Surprisingly, maybe it's surprising, maybe it's not surprising,
+
+190
+00:08:15,799 --> 00:08:19,299
+the smaller the object, the more energy it
+
+191
+00:08:19,299 --> 00:08:22,799
+takes to set it into rotation. Big objects,
+
+192
+00:08:23,020 --> 00:08:26,520
+you can set into very, very small
+
+193
+00:08:26,520 --> 00:08:30,020
+angular velocities. Small objects take larger amounts
+
+194
+00:08:32,020 --> 00:08:34,029
+of energy to excite them, to a given
+
+195
+00:08:34,029 --> 00:08:36,039
+amount of rotation, to a given amount of angular
+
+196
+00:08:36,039 --> 00:08:39,539
+momentum. The electron may be so small, and
+
+197
+00:08:39,539 --> 00:08:43,039
+it probably is known to be so small, that
+
+198
+00:08:44,340 --> 00:08:47,519
+the energy that it would take to give it
+
+199
+00:08:47,519 --> 00:08:50,699
+one more unit of angular momentum would be astronomical,
+
+200
+00:08:50,699 --> 00:08:52,699
+would be maybe the Planck energy.
+
+201
+00:08:52,900 --> 00:08:55,090
+So, if we look, if we look from
+
+202
+00:08:55,090 --> 00:08:57,280
+a certain perspective, what would be the time period
+
+203
+00:08:57,280 --> 00:09:01,580
+in the consumer's life? The answer to that
+
+204
+00:09:01,580 --> 00:09:05,880
+is to valeur. And this is something that I
+
+205
+00:09:06,340 --> 00:09:09,530
+had been listening to all this time. In the
+
+206
+00:09:09,530 --> 00:09:12,720
+conference, I tell students that I eat a lot
+
+207
+00:09:12,720 --> 00:09:16,220
+of berries, I need to takes a冰 할� in the
+
+208
+00:09:16,220 --> 00:09:19,720
+cats with a bottle of ACT. So, that we can
+
+209
+00:09:20,020 --> 00:09:21,450
+go and get a euro ofthird in a day.
+
+210
+00:09:21,450 --> 00:09:22,880
+Now, as far as technologies go, that is actually non-saboyu.
+
+211
+00:09:22,900 --> 00:09:27,340
+systems, they have a amount of
+
+212
+00:09:27,340 --> 00:09:31,780
+angular momentum which characterizes them and
+
+213
+00:09:31,780 --> 00:09:35,380
+which once and for all is
+
+214
+00:09:35,380 --> 00:09:38,980
+fixed. You don't talk about electrons with
+
+215
+00:09:38,980 --> 00:09:41,140
+different angular, different spin angular
+
+216
+00:09:41,140 --> 00:09:43,300
+momentum. The angular momentum of
+
+217
+00:09:43,300 --> 00:09:45,939
+the electron is always the same if it
+
+218
+00:09:45,939 --> 00:09:48,579
+has any angular momentum at all. You say
+
+219
+00:09:48,579 --> 00:09:50,139
+why is that? Well just because if it
+
+220
+00:09:50,139 --> 00:09:51,699
+had more angular momentum you'd call it a
+
+221
+00:09:51,700 --> 00:09:55,130
+different object. Now angular momentum as I
+
+222
+00:09:55,130 --> 00:09:58,560
+said is a vector. We're going to define
+
+223
+00:09:58,560 --> 00:10:01,270
+exactly what I have to define at the
+
+224
+00:10:01,270 --> 00:10:03,980
+moment but it's a vector, it has a length.
+
+225
+00:10:03,980 --> 00:10:07,290
+The length of the vector is proportional to
+
+226
+00:10:07,290 --> 00:10:10,600
+the speed of rotation and so forth. It
+
+227
+00:10:10,600 --> 00:10:13,540
+can point in any direction or at
+
+228
+00:10:13,540 --> 00:10:16,480
+least classically it can point in any
+
+229
+00:10:16,480 --> 00:10:20,940
+direction. Shall we think of pointing the angular
+
+230
+00:10:20,940 --> 00:10:21,680
+momentum of an object?
+
+231
+00:10:21,680 --> 00:10:24,509
+object in different directions
+
+232
+00:10:24,509 --> 00:10:27,339
+as corresponding to different objects.
+
+233
+00:10:27,339 --> 00:10:29,709
+Let's suppose we now do have
+
+234
+00:10:29,709 --> 00:10:32,079
+an object which has some angular momentum.
+
+235
+00:10:32,079 --> 00:10:33,800
+We call it, what should we call it?
+
+236
+00:10:33,800 --> 00:10:35,560
+I don't want to call it an electron.
+
+237
+00:10:35,560 --> 00:10:40,859
+It's a, um, a what?
+
+238
+00:10:40,859 --> 00:10:42,859
+A spintron.
+
+239
+00:10:42,859 --> 00:10:44,959
+A spintron, a spintron, okay, a spintron.
+
+240
+00:10:44,959 --> 00:10:45,959
+It's a spintron.
+
+241
+00:10:45,959 --> 00:10:48,199
+We identify it as a spintron, and
+
+242
+00:10:48,199 --> 00:10:50,439
+its angular momentum is pointing that way.
+
+243
+00:10:50,440 --> 00:10:53,380
+Can the angular momentum point in another direction?
+
+244
+00:10:53,380 --> 00:10:55,540
+Well yes, it better be able to
+
+245
+00:10:55,540 --> 00:10:57,700
+because the laws of physics are rotationally invariant.
+
+246
+00:10:57,700 --> 00:11:01,000
+There's nothing special about one axis than another axis.
+
+247
+00:11:01,000 --> 00:11:04,130
+So yes, the same object can be made to
+
+248
+00:11:04,130 --> 00:11:07,260
+rotate in a different direction, even if it can't
+
+249
+00:11:07,260 --> 00:11:11,520
+be made to rotate with more total angular momentum.
+
+250
+00:11:11,520 --> 00:11:15,030
+So pointing it in different directions, we
+
+251
+00:11:15,030 --> 00:11:18,540
+would say, corresponds to the same object.
+
+252
+00:11:18,540 --> 00:11:20,420
+If an electron does have angular momentum.
+
+253
+00:11:20,420 --> 00:11:21,990
+If it has angular momentum, we should be
+
+254
+00:11:21,990 --> 00:11:23,560
+able to think of that angular momentum in any
+
+255
+00:11:23,560 --> 00:11:24,560
+direction.
+
+256
+00:11:24,560 --> 00:11:27,710
+On the other hand, the amount of
+
+257
+00:11:27,710 --> 00:11:30,860
+angular momentum, the magnitude of it, is quantized.
+
+258
+00:11:30,860 --> 00:11:35,169
+And so, as I said, the gap to the first
+
+259
+00:11:35,169 --> 00:11:39,479
+excited state of the electron may be so large that
+
+260
+00:11:39,479 --> 00:11:41,599
+we wouldn't even call it an electron.
+
+261
+00:11:41,599 --> 00:11:45,660
+Okay, so the angular momentum can point in any direction.
+
+262
+00:11:45,660 --> 00:11:48,360
+It is quantized.
+
+263
+00:11:48,360 --> 00:11:49,390
+And now we have to enter
+
+264
+00:11:49,390 --> 00:11:50,420
+into the theory of angular momentum.
+
+265
+00:11:50,420 --> 00:11:52,490
+Tonight, what we're going to do
+
+266
+00:11:52,490 --> 00:11:54,560
+is the mathematics of angular momentum.
+
+267
+00:11:54,560 --> 00:11:56,560
+And it's very magical.
+
+268
+00:11:56,560 --> 00:12:00,710
+It's magical and it
+
+269
+00:12:00,710 --> 00:12:04,860
+seems totally abstract, totally unintuitive.
+
+270
+00:12:04,860 --> 00:12:09,399
+And then, pop, out comes experimental
+
+271
+00:12:09,399 --> 00:12:13,939
+facts and predictions and the entire properties
+
+272
+00:12:13,939 --> 00:12:18,560
+of spin as an experimental observational phenomenon.
+
+273
+00:12:18,560 --> 00:12:19,560
+Okay.
+
+274
+00:12:20,420 --> 00:12:24,560
+So, let's start with the fact about particles.
+
+275
+00:12:24,560 --> 00:12:25,560
+Yeah, question?
+
+276
+00:12:25,560 --> 00:12:28,060
+Can you touch on why energy
+
+277
+00:12:28,060 --> 00:12:30,560
+is required to spin a small particle?
+
+278
+00:12:30,560 --> 00:12:32,560
+Okay, do you know what the
+
+279
+00:12:32,560 --> 00:12:34,560
+moment of inertia of an object is?
+
+280
+00:12:34,560 --> 00:12:35,560
+Okay.
+
+281
+00:12:35,560 --> 00:12:38,560
+Let me answer the question.
+
+282
+00:12:38,560 --> 00:12:39,560
+The simplest...
+
+283
+00:12:39,560 --> 00:12:42,560
+It is counterintuitive a little bit.
+
+284
+00:12:42,560 --> 00:12:44,560
+Well, it is and it isn't.
+
+285
+00:12:44,560 --> 00:12:46,560
+The moment of inertia is the
+
+286
+00:12:46,560 --> 00:12:48,560
+moment of inertia of an object.
+
+287
+00:12:48,560 --> 00:12:49,560
+Okay.
+
+288
+00:12:49,560 --> 00:12:53,629
+The moment of inertia is a combination of
+
+289
+00:12:53,629 --> 00:12:57,699
+the mass of the object and the radius of
+
+290
+00:12:57,699 --> 00:12:58,699
+the object.
+
+291
+00:12:58,699 --> 00:13:00,699
+We take a ball of some sort.
+
+292
+00:13:00,699 --> 00:13:01,699
+All right?
+
+293
+00:13:01,699 --> 00:13:02,699
+It's MR squared.
+
+294
+00:13:02,699 --> 00:13:05,699
+Now, it depends on the detailed shape of the
+
+295
+00:13:05,699 --> 00:13:08,699
+object and it depends on how the matter is
+
+296
+00:13:08,699 --> 00:13:09,699
+distributed.
+
+297
+00:13:09,699 --> 00:13:11,699
+Sometimes it's three halves MR squared.
+
+298
+00:13:11,699 --> 00:13:13,699
+You know, but it's a border MR squared.
+
+299
+00:13:13,699 --> 00:13:16,699
+And it's called the moment of inertia, I. Okay?
+
+300
+00:13:16,699 --> 00:13:17,699
+The energy...
+
+301
+00:13:17,700 --> 00:13:22,840
+The energy of a rotating object...
+
+302
+00:13:22,840 --> 00:13:24,840
+That's one thing.
+
+303
+00:13:24,840 --> 00:13:27,840
+Now, then there is the angular momentum.
+
+304
+00:13:27,840 --> 00:13:30,840
+The angular momentum of the object is made
+
+305
+00:13:30,840 --> 00:13:33,840
+up if the object, let's say, the outer boundary
+
+306
+00:13:33,840 --> 00:13:37,840
+of the object, let's say, is moving with velocity V.
+
+307
+00:13:37,840 --> 00:13:38,840
+All right?
+
+308
+00:13:38,840 --> 00:13:41,840
+Then, roughly speaking, order of magnitude, the mass times the velocity, that's the
+
+309
+00:13:41,840 --> 00:13:44,840
+order of magnitude, the mass times the velocity, that's the order of magnitude.
+
+310
+00:13:44,840 --> 00:13:45,840
+All right?
+
+311
+00:13:45,840 --> 00:13:48,410
+The mass times the velocity, that's the
+
+312
+00:13:48,410 --> 00:13:50,980
+ordinary momentum of a piece of it.
+
+313
+00:13:50,980 --> 00:13:52,980
+Mass times velocity.
+
+314
+00:13:52,980 --> 00:13:55,980
+And if you multiply that
+
+315
+00:13:55,980 --> 00:13:58,980
+by R, that's the angular momentum.
+
+316
+00:13:58,980 --> 00:14:02,980
+Momentum times distance is angular momentum.
+
+317
+00:14:02,980 --> 00:14:05,980
+So the momentum of a little piece of it times
+
+318
+00:14:05,980 --> 00:14:08,980
+the distance from the center of it is the angular momentum.
+
+319
+00:14:08,980 --> 00:14:12,980
+And if you write down the kinetic energy...
+
+320
+00:14:12,980 --> 00:14:14,980
+The kinetic energy is one half m squared.
+
+321
+00:14:14,980 --> 00:14:16,980
+The kinetic energy is one half m squared.
+
+322
+00:14:16,980 --> 00:14:22,480
+What you'll discover is that it's the angular momentum squared divided by
+
+323
+00:14:22,480 --> 00:14:27,980
+the moment of inertia, twice the moment of inertia to be exact.
+
+324
+00:14:27,980 --> 00:14:28,980
+All right?
+
+325
+00:14:28,980 --> 00:14:33,480
+So that's the energy, the kinetic energy of rotation is
+
+326
+00:14:33,480 --> 00:14:37,980
+the angular momentum squared divided by twice the moment of inertia.
+
+327
+00:14:37,980 --> 00:14:41,480
+Now, for a given mass, let's say the mass of the
+
+328
+00:14:41,480 --> 00:14:44,980
+electron, the smaller it is, the smaller the moment of inertia.
+
+329
+00:14:44,980 --> 00:14:48,980
+But the moment of inertia goes in the denominator.
+
+330
+00:14:48,980 --> 00:14:54,980
+And that means the amount of energy that it takes to increase the angular momentum
+
+331
+00:14:54,980 --> 00:15:00,980
+by one unit is inversely proportional to the square of the size of the object.
+
+332
+00:15:00,980 --> 00:15:03,980
+Okay, so it's a classical mechanical fact.
+
+333
+00:15:03,980 --> 00:15:07,480
+The only thing that comes new in quantum
+
+334
+00:15:07,480 --> 00:15:10,980
+mechanics is that the angular momentum is discrete.
+
+335
+00:15:10,980 --> 00:15:11,980
+Okay?
+
+336
+00:15:11,980 --> 00:15:12,480
+But the fact that for a given angular momentum,
+
+337
+00:15:12,480 --> 00:15:12,980
+the mass of the electron is the angular momentum squared.
+
+338
+00:15:12,980 --> 00:15:13,980
+Okay?
+
+339
+00:15:13,980 --> 00:15:15,980
+So for a given angular momentum,
+
+340
+00:15:15,980 --> 00:15:17,980
+a smaller object costs more energy.
+
+341
+00:15:17,980 --> 00:15:19,980
+That's a classical mechanical fact.
+
+342
+00:15:19,980 --> 00:15:25,980
+Okay, let's do some of the mathematics.
+
+343
+00:15:25,980 --> 00:15:27,480
+And tonight we're really going to
+
+344
+00:15:27,480 --> 00:15:28,980
+do the mathematics of angular momentum.
+
+345
+00:15:28,980 --> 00:15:35,980
+It's both totally unintuitive and simple.
+
+346
+00:15:35,980 --> 00:15:36,980
+All right?
+
+347
+00:15:36,980 --> 00:15:39,980
+Simple enough, and this is a great
+
+348
+00:15:39,980 --> 00:15:42,980
+example of where you see extremely abstract mathematics,
+
+349
+00:15:42,980 --> 00:15:48,480
+which you can follow, suddenly popping out
+
+350
+00:15:48,480 --> 00:15:53,980
+very unintuitive answers, but nevertheless experimental answers.
+
+351
+00:15:53,980 --> 00:15:56,980
+All right, let's begin.
+
+352
+00:15:56,980 --> 00:16:00,980
+Well, first of all, let's begin
+
+353
+00:16:00,980 --> 00:16:04,980
+with a single particle orbiting a center.
+
+354
+00:16:04,980 --> 00:16:06,980
+Circular orbit for simplicity.
+
+355
+00:16:06,980 --> 00:16:09,980
+The angular momentum is the momentum of
+
+356
+00:16:09,980 --> 00:16:12,980
+the particle times the distance from the origin.
+
+357
+00:16:12,980 --> 00:16:14,980
+Mass times velocity times distance,
+
+358
+00:16:14,980 --> 00:16:16,980
+but we'll just call it momentum.
+
+359
+00:16:16,980 --> 00:16:20,980
+That's the angular momentum in this very simple context.
+
+360
+00:16:20,980 --> 00:16:23,980
+Is it positive or is it negative?
+
+361
+00:16:23,980 --> 00:16:25,980
+That depends on the sense of rotation.
+
+362
+00:16:25,980 --> 00:16:29,980
+Going this way, I think I'll call positive.
+
+363
+00:16:29,980 --> 00:16:31,980
+Going that way, I'll call
+
+364
+00:16:31,980 --> 00:16:33,980
+negative, but it's not very important.
+
+365
+00:16:33,980 --> 00:16:37,980
+That's the angular momentum of a point object.
+
+366
+00:16:37,980 --> 00:16:40,480
+Now, this object has angular
+
+367
+00:16:40,480 --> 00:16:42,980
+momentum because it has momentum.
+
+368
+00:16:42,980 --> 00:16:44,980
+And it has momentum because it has velocity.
+
+369
+00:16:44,980 --> 00:16:46,980
+So this is not yet spin.
+
+370
+00:16:46,980 --> 00:16:50,480
+But now, supposing we had two particles
+
+371
+00:16:50,480 --> 00:16:53,980
+at opposite ends of the diameter here,
+
+372
+00:16:53,980 --> 00:16:57,980
+both going with the same sense of rotation.
+
+373
+00:16:57,980 --> 00:17:00,980
+Now the center of mass would be at rest.
+
+374
+00:17:00,980 --> 00:17:03,480
+The center of mass of the system would be at
+
+375
+00:17:03,480 --> 00:17:05,980
+rest, but the angular momentum would certainly not be zero.
+
+376
+00:17:05,980 --> 00:17:07,980
+It would be the sum of the two
+
+377
+00:17:07,980 --> 00:17:09,980
+angular momenta, and they're going in the same direction.
+
+378
+00:17:09,980 --> 00:17:10,980
+So here's an example where
+
+379
+00:17:10,980 --> 00:17:11,980
+the angular momentum is at zero.
+
+380
+00:17:11,980 --> 00:17:14,980
+Where the center of mass of the system
+
+381
+00:17:14,980 --> 00:17:17,980
+can be at rest, but there's still angular momentum.
+
+382
+00:17:17,980 --> 00:17:19,980
+This is spin.
+
+383
+00:17:19,980 --> 00:17:21,980
+Okay?
+
+384
+00:17:21,980 --> 00:17:24,980
+Alright, now let's get a little more
+
+385
+00:17:24,980 --> 00:17:27,980
+refined in our precise definition of angular momentum.
+
+386
+00:17:27,980 --> 00:17:31,980
+I said before angular momentum is a vector.
+
+387
+00:17:31,980 --> 00:17:34,480
+And that means, or that's denoted by putting
+
+388
+00:17:34,480 --> 00:17:36,980
+a little arrow over the top of it.
+
+389
+00:17:36,980 --> 00:17:39,980
+Momentum is a vector.
+
+390
+00:17:41,980 --> 00:17:45,480
+And also spatial location, here's
+
+391
+00:17:45,480 --> 00:17:48,980
+the spatial location of an object.
+
+392
+00:17:48,980 --> 00:17:52,980
+It is relative to an origin.
+
+393
+00:17:52,980 --> 00:17:54,980
+Relative to an origin.
+
+394
+00:17:54,980 --> 00:17:56,980
+We can call it a vector.
+
+395
+00:17:56,980 --> 00:17:58,980
+It's the radial vector.
+
+396
+00:17:58,980 --> 00:18:01,480
+Let's talk about the components first, before
+
+397
+00:18:01,480 --> 00:18:03,980
+we get on to an angular momentum.
+
+398
+00:18:03,980 --> 00:18:06,980
+The components of the r vector are just
+
+399
+00:18:06,980 --> 00:18:09,980
+the coordinates of the position of the particle.
+
+400
+00:18:09,980 --> 00:18:11,980
+So the components...
+
+401
+00:18:11,980 --> 00:18:15,980
+of r, this r over here...
+
+402
+00:18:15,980 --> 00:18:17,980
+Let's write it over here.
+
+403
+00:18:17,980 --> 00:18:23,980
+The components of r are just x, y, and z.
+
+404
+00:18:23,980 --> 00:18:26,480
+x, y, and z being the
+
+405
+00:18:26,480 --> 00:18:28,980
+coordinates of the position of the particle.
+
+406
+00:18:28,980 --> 00:18:32,980
+And I'm also going to sometimes
+
+407
+00:18:32,980 --> 00:18:36,980
+call them x1, x2, and x3.
+
+408
+00:18:36,980 --> 00:18:40,980
+x3 being z, x2 being y, x1 being x.
+
+409
+00:18:41,980 --> 00:18:45,480
+Okay, so we have these two vectors, and somehow
+
+410
+00:18:45,480 --> 00:18:48,980
+the angular momentum is a product of the two vectors.
+
+411
+00:18:48,980 --> 00:18:51,980
+The angular momentum is itself a vector.
+
+412
+00:18:51,980 --> 00:18:54,480
+How do you make a vector
+
+413
+00:18:54,480 --> 00:18:56,980
+out of two vectors by multiplication?
+
+414
+00:18:56,980 --> 00:19:01,980
+What kind of rule of multiplication is there that takes two vectors and
+
+415
+00:19:01,980 --> 00:19:06,980
+combines them together by some rule of multiplication to make a new vector?
+
+416
+00:19:06,980 --> 00:19:08,980
+That's right. There's only one rule.
+
+417
+00:19:08,980 --> 00:19:10,980
+There's only one such rule.
+
+418
+00:19:11,980 --> 00:19:13,980
+And that's the cross product.
+
+419
+00:19:13,980 --> 00:19:17,980
+The cross product, r, and in fact there's an ambiguity.
+
+420
+00:19:17,980 --> 00:19:19,980
+Is it r cross p or p cross r?
+
+421
+00:19:19,980 --> 00:19:21,480
+That's a question of
+
+422
+00:19:21,480 --> 00:19:22,980
+whether you're right-handed or left-handed.
+
+423
+00:19:22,980 --> 00:19:25,980
+Do you use the right-hand rule or the left-hand rule?
+
+424
+00:19:25,980 --> 00:19:30,980
+The standard convention is that it's r cross p.
+
+425
+00:19:30,980 --> 00:19:34,980
+Is that right or left-handed?
+
+426
+00:19:34,980 --> 00:19:36,980
+I don't remember.
+
+427
+00:19:36,980 --> 00:19:38,980
+I think it's right-handed. Maybe
+
+428
+00:19:38,980 --> 00:19:40,980
+it's left-handed. I'm not sure.
+
+429
+00:19:40,980 --> 00:19:43,980
+I don't remember.
+
+430
+00:19:43,980 --> 00:19:47,980
+We could figure it out, but I don't want to.
+
+431
+00:19:47,980 --> 00:19:50,980
+It's r cross p.
+
+432
+00:19:50,980 --> 00:19:55,980
+Oh, we labeled the coordinates of the r vector.
+
+433
+00:19:55,980 --> 00:19:57,980
+There's also the p vector.
+
+434
+00:19:57,980 --> 00:20:03,480
+The p vector also has coordinates, and its coordinates
+
+435
+00:20:03,480 --> 00:20:08,980
+are px, py, and pz, or p1, p2, p3.
+
+436
+00:20:08,980 --> 00:20:14,980
+That's the notation we'll use.
+
+437
+00:20:14,980 --> 00:20:16,980
+Now I can ask, what are
+
+438
+00:20:16,980 --> 00:20:18,980
+the components of the angular momentum?
+
+439
+00:20:18,980 --> 00:20:20,480
+So for that, all you have to
+
+440
+00:20:20,480 --> 00:20:21,980
+know is how to build a cross product,
+
+441
+00:20:21,980 --> 00:20:23,980
+and I'll assume everybody knows how to build
+
+442
+00:20:23,980 --> 00:20:25,980
+a cross product, so let's just do it.
+
+443
+00:20:25,980 --> 00:20:27,980
+Here's the rule.
+
+444
+00:20:27,980 --> 00:20:30,980
+The x component of the cross product,
+
+445
+00:20:30,980 --> 00:20:33,980
+the x component of the angular momentum,
+
+446
+00:20:33,980 --> 00:20:36,980
+is the y component of position
+
+447
+00:20:36,980 --> 00:20:38,980
+times the z component
+
+448
+00:20:38,980 --> 00:20:41,980
+of momentum
+
+449
+00:20:41,980 --> 00:20:43,980
+minus
+
+450
+00:20:43,980 --> 00:20:46,980
+the z component of position
+
+451
+00:20:46,980 --> 00:20:48,980
+times the y component
+
+452
+00:20:48,980 --> 00:20:52,980
+of momentum.
+
+453
+00:20:52,980 --> 00:20:55,980
+This is the only one that I ever remember.
+
+454
+00:20:55,980 --> 00:20:59,980
+Lx equals y times pz.
+
+455
+00:20:59,980 --> 00:21:01,980
+I read that off.
+
+456
+00:21:01,980 --> 00:21:03,480
+The other one here, I know that
+
+457
+00:21:03,480 --> 00:21:04,980
+I have to put them in the opposite,
+
+458
+00:21:04,980 --> 00:21:06,980
+I have to change pz to z, py to y,
+
+459
+00:21:06,980 --> 00:21:09,980
+and then I want to go down from there,
+
+460
+00:21:09,980 --> 00:21:11,980
+Lx, Ly, and Lz.
+
+461
+00:21:11,980 --> 00:21:15,980
+I never remember them, but I know the rule.
+
+462
+00:21:15,980 --> 00:21:17,480
+The rule is you just cycle
+
+463
+00:21:17,480 --> 00:21:18,980
+from x to y to z,
+
+464
+00:21:18,980 --> 00:21:20,980
+and back to x to y to z.
+
+465
+00:21:20,980 --> 00:21:22,480
+Think of x, y, and z
+
+466
+00:21:22,480 --> 00:21:23,980
+as being points on a clock,
+
+467
+00:21:23,980 --> 00:21:25,980
+and you go from one to the next.
+
+468
+00:21:25,980 --> 00:21:28,480
+So when you go from x to y,
+
+469
+00:21:28,480 --> 00:21:30,980
+y goes to z, z goes to x.
+
+470
+00:21:30,980 --> 00:21:34,980
+Let's go down to the next one, y, z, x.
+
+471
+00:21:34,980 --> 00:21:37,980
+This is not, I'm not finished with the formula.
+
+472
+00:21:37,980 --> 00:21:40,980
+z, x, y, py
+
+473
+00:21:40,980 --> 00:21:43,980
+minus
+
+474
+00:21:43,980 --> 00:21:46,980
+x, p, z
+
+475
+00:21:46,980 --> 00:21:49,980
+minus y, p, x.
+
+476
+00:21:49,980 --> 00:21:52,980
+The only reason I emphasized the cycling
+
+477
+00:21:52,980 --> 00:21:55,980
+is to keep track of the sign.
+
+478
+00:21:55,980 --> 00:21:57,480
+How do I know that Ly isn't
+
+479
+00:21:57,480 --> 00:21:58,980
+x, p, z minus z, p, x?
+
+480
+00:21:58,980 --> 00:22:01,980
+Okay, that's the rule. You cycle through that way.
+
+481
+00:22:01,980 --> 00:22:03,980
+So, I'm going to go down from here,
+
+482
+00:22:04,980 --> 00:22:10,980
+and, um, right.
+
+483
+00:22:10,980 --> 00:22:13,980
+That's the component of angular momentum
+
+484
+00:22:13,980 --> 00:22:15,980
+of a point particle
+
+485
+00:22:15,980 --> 00:22:20,980
+moving in the vicinity of some origin of coordinates.
+
+486
+00:22:20,980 --> 00:22:23,980
+It's the orbital angular momentum of that particle.
+
+487
+00:22:23,980 --> 00:22:25,980
+It's not the spin angular momentum.
+
+488
+00:22:25,980 --> 00:22:27,480
+To make a spin angular
+
+489
+00:22:27,480 --> 00:22:28,980
+momentum for a system of ordinary
+
+490
+00:22:28,980 --> 00:22:30,980
+and classical mechanics,
+
+491
+00:22:30,980 --> 00:22:32,980
+to make a spin angular momentum,
+
+492
+00:22:32,980 --> 00:22:34,980
+you've got to have a lot of particles.
+
+493
+00:22:34,980 --> 00:22:35,980
+At least two, anyway.
+
+494
+00:22:35,980 --> 00:22:37,980
+I showed you how to make a spin angular momentum
+
+495
+00:22:37,980 --> 00:22:38,980
+with two of them.
+
+496
+00:22:38,980 --> 00:22:40,980
+You have to have several particles,
+
+497
+00:22:40,980 --> 00:22:43,980
+two being a possible, uh, several.
+
+498
+00:22:43,980 --> 00:22:45,980
+How do you build the
+
+499
+00:22:45,980 --> 00:22:47,980
+angular momentum of a composite system?
+
+500
+00:22:47,980 --> 00:22:50,980
+You just add the angular momentum as vectors.
+
+501
+00:22:50,980 --> 00:22:52,980
+You add them as vectors.
+
+502
+00:22:52,980 --> 00:22:55,980
+You add the angular momentum of all the constituents.
+
+503
+00:22:55,980 --> 00:22:58,980
+Once you add the angular momentum,
+
+504
+00:22:58,980 --> 00:23:00,980
+then you can have a spin
+
+505
+00:23:00,980 --> 00:23:03,980
+where the total momentum is equal to zero,
+
+506
+00:23:03,980 --> 00:23:06,980
+but the angular momentum is not equal to zero.
+
+507
+00:23:06,980 --> 00:23:08,980
+But this is the basic formula
+
+508
+00:23:08,980 --> 00:23:12,980
+for a single, indivisible point particle.
+
+509
+00:23:12,980 --> 00:23:14,980
+So, and as I said,
+
+510
+00:23:14,980 --> 00:23:17,980
+you just add them up for a lot of particles.
+
+511
+00:23:21,980 --> 00:23:24,980
+Next step, we want to do the quantum mechanics
+
+512
+00:23:24,980 --> 00:23:25,980
+of angular momentum.
+
+513
+00:23:25,980 --> 00:23:27,980
+This is the classical mechanics.
+
+514
+00:23:27,980 --> 00:23:29,980
+Actually, it's also the quantum mechanics.
+
+515
+00:23:29,980 --> 00:23:31,980
+But to get to the quantum mechanics,
+
+516
+00:23:31,980 --> 00:23:33,980
+the basic formula is,
+
+517
+00:23:33,980 --> 00:23:35,980
+the basic mathematics of quantum mechanics
+
+518
+00:23:35,980 --> 00:23:37,980
+is the quantum mechanics of operators.
+
+519
+00:23:37,980 --> 00:23:41,980
+All quantities of physical significance,
+
+520
+00:23:41,980 --> 00:23:44,980
+meaning to say things that you can observe, measure,
+
+521
+00:23:44,980 --> 00:23:46,980
+all those things are represented
+
+522
+00:23:46,980 --> 00:23:48,980
+in quantum mechanics by what?
+
+523
+00:23:50,980 --> 00:23:51,980
+Operators, yeah.
+
+524
+00:23:51,980 --> 00:23:54,980
+Mission operators, operators.
+
+525
+00:23:54,980 --> 00:23:59,980
+And there's no special exception about angular momentum.
+
+526
+00:23:59,980 --> 00:24:01,980
+The components of angular momentum
+
+527
+00:24:01,980 --> 00:24:03,980
+are represented by operators.
+
+528
+00:24:03,980 --> 00:24:06,980
+But to figure out what those operators are,
+
+529
+00:24:06,980 --> 00:24:08,980
+all we really need to know
+
+530
+00:24:08,980 --> 00:24:10,980
+is what the operators which represent
+
+531
+00:24:10,980 --> 00:24:13,980
+position and momentum are.
+
+532
+00:24:13,980 --> 00:24:16,980
+In fact, we don't even really have to know
+
+533
+00:24:16,980 --> 00:24:18,980
+very much about
+
+534
+00:24:18,980 --> 00:24:20,980
+the
+
+535
+00:24:23,980 --> 00:24:25,980
+detailed property of the position
+
+536
+00:24:25,980 --> 00:24:27,980
+and momentum operators.
+
+537
+00:24:27,980 --> 00:24:31,980
+All we have to know is their commutation relations.
+
+538
+00:24:31,980 --> 00:24:32,980
+With their commutation relations,
+
+539
+00:24:32,980 --> 00:24:34,980
+that's all we need to know
+
+540
+00:24:34,980 --> 00:24:37,980
+in order to carry on and work out everything.
+
+541
+00:24:37,980 --> 00:24:38,980
+Okay.
+
+542
+00:24:38,980 --> 00:24:42,980
+So, what does it mean,
+
+543
+00:24:42,980 --> 00:24:44,980
+what are the implications
+
+544
+00:24:44,980 --> 00:24:48,980
+of two operators commuting?
+
+545
+00:24:48,980 --> 00:24:49,980
+Let's suppose I have two operators
+
+546
+00:24:49,980 --> 00:24:52,980
+which represent two observable quantities,
+
+547
+00:24:52,980 --> 00:24:55,980
+the a-ness and the b-ness of a system,
+
+548
+00:24:55,980 --> 00:24:57,980
+and I know that a and b commute.
+
+549
+00:24:57,980 --> 00:25:00,980
+What does that tell me about observation?
+
+550
+00:25:00,980 --> 00:25:04,980
+You can simultaneously measure them.
+
+551
+00:25:04,980 --> 00:25:05,980
+Yeah, exactly.
+
+552
+00:25:05,980 --> 00:25:08,980
+You can simultaneously measure them.
+
+553
+00:25:08,980 --> 00:25:10,980
+What if they don't commute?
+
+554
+00:25:10,980 --> 00:25:13,980
+Then you can't simultaneously measure them.
+
+555
+00:25:13,980 --> 00:25:15,980
+The most famous example of two things
+
+556
+00:25:15,980 --> 00:25:17,980
+that you cannot simultaneously measure,
+
+557
+00:25:17,980 --> 00:25:19,980
+of course, is position and momentum.
+
+558
+00:25:19,980 --> 00:25:22,980
+The implication is that in quantum mechanics,
+
+559
+00:25:22,980 --> 00:25:24,980
+the operators representing,
+
+560
+00:25:24,980 --> 00:25:27,980
+where did I erase them?
+
+561
+00:25:27,980 --> 00:25:29,980
+P1, P2, and P3.
+
+562
+00:25:29,980 --> 00:25:31,980
+On the one hand,
+
+563
+00:25:31,980 --> 00:25:34,980
+x1, x2, and x3
+
+564
+00:25:34,980 --> 00:25:37,980
+don't commute among themselves.
+
+565
+00:25:37,980 --> 00:25:38,980
+Okay.
+
+566
+00:25:38,980 --> 00:25:41,980
+So, what are the right commutation relations?
+
+567
+00:25:41,980 --> 00:25:42,980
+All right.
+
+568
+00:25:42,980 --> 00:25:43,980
+Now, to some extent,
+
+569
+00:25:43,980 --> 00:25:45,980
+these are postulates of quantum mechanics.
+
+570
+00:25:45,980 --> 00:25:47,980
+You'll find them in the first chapter of Dirac's book,
+
+571
+00:25:47,980 --> 00:25:50,980
+and they're basically postulates, if you like.
+
+572
+00:25:50,980 --> 00:25:55,980
+But there are limitations on what you can write down,
+
+573
+00:25:55,980 --> 00:25:57,980
+but we're going to take them as postulates.
+
+574
+00:25:57,980 --> 00:25:58,980
+All right.
+
+575
+00:25:58,980 --> 00:26:00,980
+So, the first postulate is
+
+576
+00:26:00,980 --> 00:26:02,980
+that you can simultaneously measure
+
+577
+00:26:02,980 --> 00:26:05,980
+all three coordinates of position.
+
+578
+00:26:05,980 --> 00:26:09,980
+There's no limitation on how well you can determine
+
+579
+00:26:09,980 --> 00:26:13,980
+the x, y, and z coordinates of position.
+
+580
+00:26:13,980 --> 00:26:16,980
+They're all simultaneously measurable.
+
+581
+00:26:16,980 --> 00:26:18,980
+And the implication of that is that every x
+
+582
+00:26:18,980 --> 00:26:21,980
+commutes with every other x.
+
+583
+00:26:21,980 --> 00:26:23,980
+We can write that down,
+
+584
+00:26:23,980 --> 00:26:27,980
+x i x j equals zero.
+
+585
+00:26:27,980 --> 00:26:30,980
+For all i and j.
+
+586
+00:26:30,980 --> 00:26:31,980
+For all i and j.
+
+587
+00:26:31,980 --> 00:26:34,980
+Incidentally, anything commutes with itself.
+
+588
+00:26:34,980 --> 00:26:36,480
+It would be very weird
+
+589
+00:26:36,480 --> 00:26:37,980
+if something didn't commute with itself.
+
+590
+00:26:37,980 --> 00:26:38,980
+That would say you could measure it,
+
+591
+00:26:38,980 --> 00:26:40,980
+but you couldn't measure it simultaneously with itself.
+
+592
+00:26:40,980 --> 00:26:42,980
+Bad idea.
+
+593
+00:26:42,980 --> 00:26:43,980
+Okay.
+
+594
+00:26:43,980 --> 00:26:44,980
+So, everything commutes with itself.
+
+595
+00:26:44,980 --> 00:26:46,980
+Same thing for momenta.
+
+596
+00:26:46,980 --> 00:26:48,980
+There is no limitation on
+
+597
+00:26:48,980 --> 00:26:50,980
+being able to simultaneously measure
+
+598
+00:26:50,980 --> 00:26:53,980
+the different components of momentum.
+
+599
+00:26:53,980 --> 00:26:55,980
+So,
+
+600
+00:26:57,980 --> 00:27:05,980
+let's say p j equals zero.
+
+601
+00:27:05,980 --> 00:27:07,980
+What about x is with p?
+
+602
+00:27:07,980 --> 00:27:10,980
+So, that's exactly what the uncertainty principle is about.
+
+603
+00:27:10,980 --> 00:27:13,980
+It tells us that we cannot simultaneously measure
+
+604
+00:27:13,980 --> 00:27:15,980
+coordinates and position.
+
+605
+00:27:15,980 --> 00:27:17,980
+But which coordinates and which positions can,
+
+606
+00:27:17,980 --> 00:27:21,980
+which components can we not measure simultaneously?
+
+607
+00:27:21,980 --> 00:27:22,980
+And the answer,
+
+608
+00:27:22,980 --> 00:27:25,980
+there's not a lot of freedom about this,
+
+609
+00:27:25,980 --> 00:27:26,980
+but nevertheless,
+
+610
+00:27:26,980 --> 00:27:28,980
+it's stated as a postulate,
+
+611
+00:27:28,980 --> 00:27:32,980
+that x one and p two can be simultaneously measured.
+
+612
+00:27:32,980 --> 00:27:34,980
+The x coordinate of a particle
+
+613
+00:27:34,980 --> 00:27:36,980
+and the y component of its momentum
+
+614
+00:27:36,980 --> 00:27:39,980
+are not limited by the uncertainty principle.
+
+615
+00:27:39,980 --> 00:27:41,980
+It's the x component of position
+
+616
+00:27:41,980 --> 00:27:43,980
+and the x component of momentum
+
+617
+00:27:43,980 --> 00:27:46,980
+which are not simultaneously measurable.
+
+618
+00:27:46,980 --> 00:27:52,980
+So, we have that x with p x
+
+619
+00:27:52,980 --> 00:27:54,980
+is not equal to zero.
+
+620
+00:27:54,980 --> 00:27:55,980
+Anybody remember what it is equal to?
+
+621
+00:27:56,980 --> 00:28:01,980
+I h bar.
+
+622
+00:28:01,980 --> 00:28:03,980
+It's small.
+
+623
+00:28:03,980 --> 00:28:04,980
+Why?
+
+624
+00:28:04,980 --> 00:28:06,980
+Because we certainly don't
+
+625
+00:28:06,980 --> 00:28:08,980
+expect macroscopic big heavy objects
+
+626
+00:28:08,980 --> 00:28:13,980
+to behave with such bizarre behaviors.
+
+627
+00:28:13,980 --> 00:28:14,980
+So, it's small.
+
+628
+00:28:14,980 --> 00:28:16,980
+One unit of angular momentum.
+
+629
+00:28:16,980 --> 00:28:21,980
+Sorry, one unit of Planck's constant.
+
+630
+00:28:21,980 --> 00:28:24,980
+And so forth for y and z.
+
+631
+00:28:24,980 --> 00:28:27,980
+And so we can write down a general formula
+
+632
+00:28:27,980 --> 00:28:33,980
+that the commutator of x i with p j
+
+633
+00:28:33,980 --> 00:28:36,980
+is i h bar if i equals j
+
+634
+00:28:36,980 --> 00:28:39,980
+and it's zero if i doesn't equal j.
+
+635
+00:28:39,980 --> 00:28:40,980
+Is that clear?
+
+636
+00:28:40,980 --> 00:28:41,980
+Okay.
+
+637
+00:28:41,980 --> 00:28:42,980
+So, to represent that,
+
+638
+00:28:42,980 --> 00:28:47,980
+we put the Kronecker delta here.
+
+639
+00:28:47,980 --> 00:28:52,980
+And that's a nice systematic way to describe
+
+640
+00:28:52,980 --> 00:28:53,980
+the properties of position and momentum.
+
+641
+00:28:53,980 --> 00:28:56,480
+That turns out to be
+
+642
+00:28:56,480 --> 00:28:58,980
+all we really need to know
+
+643
+00:28:58,980 --> 00:29:05,980
+in order to understand the properties of angular momentum
+
+644
+00:29:05,980 --> 00:29:08,980
+and in order to understand the properties of spin.
+
+645
+00:29:08,980 --> 00:29:09,980
+Let's see.
+
+646
+00:29:09,980 --> 00:29:13,980
+There's one other point that is worth emphasizing.
+
+647
+00:29:13,980 --> 00:29:18,980
+That's that angular momentum has units of Planck's constant.
+
+648
+00:29:18,980 --> 00:29:19,980
+How do I know that?
+
+649
+00:29:19,980 --> 00:29:22,980
+Well, angular momentum has units of distance times momentum.
+
+650
+00:29:22,980 --> 00:29:26,980
+Here's distance times momentum.
+
+651
+00:29:26,980 --> 00:29:29,980
+On the right-hand side is Planck's constant.
+
+652
+00:29:29,980 --> 00:29:32,980
+It also occurs, of course, in the uncertainty principle.
+
+653
+00:29:32,980 --> 00:29:35,480
+Delta x delta p is
+
+654
+00:29:35,480 --> 00:29:37,980
+greater than or equal to whatever,
+
+655
+00:29:37,980 --> 00:29:40,980
+some number times Planck's constant.
+
+656
+00:29:40,980 --> 00:29:44,480
+So, you see that Planck's constant
+
+657
+00:29:44,480 --> 00:29:47,980
+has units of length times momentum.
+
+658
+00:29:47,980 --> 00:29:50,980
+And angular momentum has units of length times momentum.
+
+659
+00:29:50,980 --> 00:29:53,980
+So, it's not completely surprising
+
+660
+00:29:53,980 --> 00:29:56,480
+that angular momentum is quantized
+
+661
+00:29:56,480 --> 00:29:58,980
+in units of Planck's constant.
+
+662
+00:29:58,980 --> 00:30:01,980
+In units of the basic quantum in nature,
+
+663
+00:30:01,980 --> 00:30:03,980
+which is Planck's constant.
+
+664
+00:30:03,980 --> 00:30:04,980
+Okay.
+
+665
+00:30:04,980 --> 00:30:05,980
+But we haven't gotten there yet.
+
+666
+00:30:05,980 --> 00:30:07,980
+I just pointed that out.
+
+667
+00:30:07,980 --> 00:30:09,980
+What I want to work out for you
+
+668
+00:30:09,980 --> 00:30:12,480
+is the commutation relations of
+
+669
+00:30:12,480 --> 00:30:14,980
+the components of angular momentum.
+
+670
+00:30:14,980 --> 00:30:16,980
+We're going to find out that once we work out
+
+671
+00:30:16,980 --> 00:30:18,980
+the commutation relations of the angular momentum,
+
+672
+00:30:18,980 --> 00:30:20,980
+components of the angular momentum,
+
+673
+00:30:20,980 --> 00:30:22,980
+we can forget this.
+
+674
+00:30:22,980 --> 00:30:24,980
+We won't need it anymore.
+
+675
+00:30:24,980 --> 00:30:27,980
+It's just the components of the angular momentum
+
+676
+00:30:27,980 --> 00:30:29,980
+whose commutation relations we want.
+
+677
+00:30:29,980 --> 00:30:30,980
+All right.
+
+678
+00:30:30,980 --> 00:30:33,980
+So, let's do it over here.
+
+679
+00:30:33,980 --> 00:30:38,980
+Let's first compute the commutator of Lx with Ly.
+
+680
+00:30:38,980 --> 00:30:40,980
+It's not very hard.
+
+681
+00:30:40,980 --> 00:30:42,480
+I will have to wing it
+
+682
+00:30:42,480 --> 00:30:43,980
+a little bit because I haven't...
+
+683
+00:30:43,980 --> 00:30:45,980
+I would have to remind you what all the rules
+
+684
+00:30:45,980 --> 00:30:48,980
+about the algebraic rules of commutators are.
+
+685
+00:30:48,980 --> 00:30:49,980
+But it's pretty simple.
+
+686
+00:30:49,980 --> 00:30:53,980
+It's simple enough that you can see what happens.
+
+687
+00:30:53,980 --> 00:30:54,980
+All right.
+
+688
+00:30:54,980 --> 00:30:59,980
+So, we want the commutator of Lx with Ly.
+
+689
+00:30:59,980 --> 00:31:04,980
+Lx with Ly is Ypz is the commutator
+
+690
+00:31:04,980 --> 00:31:09,980
+of Ypz minus Zpy.
+
+691
+00:31:09,980 --> 00:31:14,980
+That's the first entry into the commutator.
+
+692
+00:31:14,980 --> 00:31:18,980
+And we're going to commute that with...
+
+693
+00:31:18,980 --> 00:31:21,980
+That was Lx with Ly,
+
+694
+00:31:21,980 --> 00:31:26,980
+which is Zpx minus Xpz.
+
+695
+00:31:30,980 --> 00:31:32,980
+I think in the last 24 hours,
+
+696
+00:31:32,980 --> 00:31:35,980
+I've done this three times on the blackboard.
+
+697
+00:31:35,980 --> 00:31:37,980
+The first two times were last night
+
+698
+00:31:37,980 --> 00:31:39,980
+when the 30 people who
+
+699
+00:31:39,980 --> 00:31:41,980
+failed the course showed up late.
+
+700
+00:31:41,980 --> 00:31:45,980
+You know, there's another cheat that you didn't use.
+
+701
+00:31:45,980 --> 00:31:47,980
+You used the cycling from top to bottom.
+
+702
+00:31:47,980 --> 00:31:48,980
+Yeah.
+
+703
+00:31:48,980 --> 00:31:50,980
+But you can actually just cycle from left to right
+
+704
+00:31:50,980 --> 00:31:52,980
+and forget about the other two equations.
+
+705
+00:31:52,980 --> 00:31:54,980
+So, Y starts with Z.
+
+706
+00:31:54,980 --> 00:31:56,980
+Z starts with X.
+
+707
+00:31:56,980 --> 00:31:58,980
+All right.
+
+708
+00:31:58,980 --> 00:31:59,980
+However you like.
+
+709
+00:31:59,980 --> 00:32:00,980
+Yeah.
+
+710
+00:32:00,980 --> 00:32:03,980
+Yeah, that's fine.
+
+711
+00:32:03,980 --> 00:32:06,980
+Right.
+
+712
+00:32:06,980 --> 00:32:12,980
+Okay, let's see if we can figure this out.
+
+713
+00:32:12,980 --> 00:32:15,980
+Let's see, Ypz...
+
+714
+00:32:15,980 --> 00:32:19,980
+Let's look at the commutator of this term,
+
+715
+00:32:19,980 --> 00:32:21,980
+of the first factor,
+
+716
+00:32:21,980 --> 00:32:26,980
+with this term of the second factor.
+
+717
+00:32:26,980 --> 00:32:29,980
+There's nothing to prevent Y...
+
+718
+00:32:29,980 --> 00:32:31,980
+You know, when you think about commutators,
+
+719
+00:32:31,980 --> 00:32:34,980
+you're thinking about pushing operators through each other.
+
+720
+00:32:34,980 --> 00:32:36,980
+Can they freely pass through each other
+
+721
+00:32:36,980 --> 00:32:39,980
+without a change in the value of the operator?
+
+722
+00:32:39,980 --> 00:32:40,980
+All right.
+
+723
+00:32:40,980 --> 00:32:42,980
+Now, Y commutes with X.
+
+724
+00:32:42,980 --> 00:32:43,980
+So it can go right past X.
+
+725
+00:32:43,980 --> 00:32:44,980
+It also computes...
+
+726
+00:32:44,980 --> 00:32:47,980
+Commutes with Pz.
+
+727
+00:32:47,980 --> 00:32:49,980
+Pz commutes with X,
+
+728
+00:32:49,980 --> 00:32:52,980
+and Pz commutes with Pz.
+
+729
+00:32:52,980 --> 00:32:55,980
+So you can push this one right through this one.
+
+730
+00:32:55,980 --> 00:32:57,980
+No obstruction.
+
+731
+00:32:57,980 --> 00:33:00,980
+So these two commute with each other,
+
+732
+00:33:00,980 --> 00:33:03,980
+contribute nothing to the commutator.
+
+733
+00:33:03,980 --> 00:33:05,980
+I think there's another combination.
+
+734
+00:33:05,980 --> 00:33:06,980
+Let's see. Is it this one? Z...
+
+735
+00:33:06,980 --> 00:33:08,980
+Yeah, these two...
+
+736
+00:33:08,980 --> 00:33:11,980
+Yeah, these two also commute with each other.
+
+737
+00:33:11,980 --> 00:33:13,980
+The two which don't commute with each other,
+
+738
+00:33:13,980 --> 00:33:15,980
+or two pairs.
+
+739
+00:33:15,980 --> 00:33:16,980
+This and this,
+
+740
+00:33:16,980 --> 00:33:19,980
+and this with this.
+
+741
+00:33:19,980 --> 00:33:23,980
+So let's see if we can work it out.
+
+742
+00:33:23,980 --> 00:33:26,980
+We have Y, Pz, Z, Px.
+
+743
+00:33:26,980 --> 00:33:29,980
+The only thing which doesn't commute here
+
+744
+00:33:29,980 --> 00:33:32,980
+is Pz with Z.
+
+745
+00:33:32,980 --> 00:33:33,980
+All right.
+
+746
+00:33:33,980 --> 00:33:36,980
+So I maintain that the answer is just
+
+747
+00:33:36,980 --> 00:33:37,980
+Y times...
+
+748
+00:33:37,980 --> 00:33:40,980
+I don't want to use red.
+
+749
+00:33:40,980 --> 00:33:42,980
+It's just Y times Px,
+
+750
+00:33:43,980 --> 00:33:46,980
+and it doesn't matter which order you write them down.
+
+751
+00:33:46,980 --> 00:33:48,980
+Y times Px,
+
+752
+00:33:48,980 --> 00:33:52,980
+and then there's the commutator of Pz with Z.
+
+753
+00:33:52,980 --> 00:33:55,980
+What's the commutator of Pz with Z?
+
+754
+00:33:59,980 --> 00:34:01,980
+Minus ih-bar.
+
+755
+00:34:01,980 --> 00:34:03,980
+Why is it minus ih-bar?
+
+756
+00:34:03,980 --> 00:34:06,980
+Because commutators in the opposite order change sign.
+
+757
+00:34:06,980 --> 00:34:08,980
+Commutator is anti-symmetric,
+
+758
+00:34:08,980 --> 00:34:10,480
+meaning when you change the order
+
+759
+00:34:10,480 --> 00:34:11,980
+of what you write in the bracket,
+
+760
+00:34:11,980 --> 00:34:13,980
+it changes sign.
+
+761
+00:34:13,980 --> 00:34:16,980
+So it's a commutator of Pz with Z.
+
+762
+00:34:16,980 --> 00:34:18,980
+Ab minus Ba.
+
+763
+00:34:18,980 --> 00:34:20,980
+If you interchange it with B,
+
+764
+00:34:20,980 --> 00:34:21,980
+it would just change sign.
+
+765
+00:34:21,980 --> 00:34:22,980
+All right.
+
+766
+00:34:22,980 --> 00:34:25,980
+So this commutator of Pz with Z
+
+767
+00:34:25,980 --> 00:34:28,980
+is minus ih-bar.
+
+768
+00:34:28,980 --> 00:34:29,980
+All right.
+
+769
+00:34:29,980 --> 00:34:30,980
+Then we have this guy over here
+
+770
+00:34:30,980 --> 00:34:32,980
+with this one over here.
+
+771
+00:34:32,980 --> 00:34:35,980
+What is it that doesn't commute here?
+
+772
+00:34:35,980 --> 00:34:39,980
+Py and X commute.
+
+773
+00:34:39,980 --> 00:34:40,980
+So there's a plus.
+
+774
+00:34:40,980 --> 00:34:43,980
+Minus times minus is plus.
+
+775
+00:34:43,980 --> 00:34:46,980
+Py times X.
+
+776
+00:34:46,980 --> 00:34:49,980
+But then we have the commutator of Z with Pz,
+
+777
+00:34:49,980 --> 00:34:51,980
+and that's ih-bar.
+
+778
+00:34:51,980 --> 00:34:53,980
+So ih-bar.
+
+779
+00:34:53,980 --> 00:34:55,980
+Another ih-bar.
+
+780
+00:34:55,980 --> 00:34:57,980
+Or in other words,
+
+781
+00:34:57,980 --> 00:34:58,980
+the whole thing is...
+
+782
+00:34:58,980 --> 00:35:00,980
+Oh, sorry.
+
+783
+00:35:00,980 --> 00:35:01,980
+What did I write here?
+
+784
+00:35:01,980 --> 00:35:02,980
+Piece of Y.
+
+785
+00:35:02,980 --> 00:35:04,980
+You're doing this one?
+
+786
+00:35:04,980 --> 00:35:05,980
+Piece of Y.
+
+787
+00:35:05,980 --> 00:35:07,980
+Piece of Y, right?
+
+788
+00:35:07,980 --> 00:35:08,980
+Yep.
+
+789
+00:35:08,980 --> 00:35:11,980
+X piece of Y.
+
+790
+00:35:11,980 --> 00:35:12,980
+And again,
+
+791
+00:35:12,980 --> 00:35:14,980
+in each of these expressions here,
+
+792
+00:35:14,980 --> 00:35:15,980
+it doesn't matter
+
+793
+00:35:15,980 --> 00:35:17,980
+which way you order
+
+794
+00:35:17,980 --> 00:35:21,980
+the two constituent operators here.
+
+795
+00:35:21,980 --> 00:35:22,980
+Okay.
+
+796
+00:35:22,980 --> 00:35:25,980
+The whole thing then is ih-bar
+
+797
+00:35:25,980 --> 00:35:30,980
+Xpy minus Ypx.
+
+798
+00:35:30,980 --> 00:35:32,980
+A whole bunch of mumbo jumbo,
+
+799
+00:35:32,980 --> 00:35:33,980
+but nevertheless,
+
+800
+00:35:33,980 --> 00:35:35,980
+it's very effective.
+
+801
+00:35:35,980 --> 00:35:40,980
+Xpy minus Ypx is Lz.
+
+802
+00:35:42,980 --> 00:35:49,980
+So we've learned that the commutator of Lx with Ly
+
+803
+00:35:49,980 --> 00:35:50,980
+is just...
+
+804
+00:35:50,980 --> 00:35:52,980
+Sorry, ih-bar.
+
+805
+00:35:52,980 --> 00:35:57,980
+It's ih-bar Lz.
+
+806
+00:36:01,980 --> 00:36:03,980
+That's kind of pretty.
+
+807
+00:36:03,980 --> 00:36:05,480
+That when you commute the
+
+808
+00:36:05,480 --> 00:36:06,980
+two components of the angular momentum,
+
+809
+00:36:06,980 --> 00:36:08,980
+you get back another component of angular momentum.
+
+810
+00:36:08,980 --> 00:36:10,480
+You don't have to remember
+
+811
+00:36:10,480 --> 00:36:11,980
+anything about Ps and Xs anymore.
+
+812
+00:36:11,980 --> 00:36:15,980
+The commutation relations of angular momentum
+
+813
+00:36:15,980 --> 00:36:17,980
+are closed among themselves,
+
+814
+00:36:17,980 --> 00:36:19,980
+and the algebra,
+
+815
+00:36:19,980 --> 00:36:20,980
+as we call this,
+
+816
+00:36:20,980 --> 00:36:22,980
+the algebra of angular momentum
+
+817
+00:36:22,980 --> 00:36:24,980
+is something abstract,
+
+818
+00:36:24,980 --> 00:36:27,980
+which doesn't even really remember where it came from.
+
+819
+00:36:27,980 --> 00:36:28,980
+Meaning to say,
+
+820
+00:36:28,980 --> 00:36:32,980
+that it doesn't contain the Ps and Xs anymore.
+
+821
+00:36:32,980 --> 00:36:37,980
+That's Lx with Ly.
+
+822
+00:36:37,980 --> 00:36:38,980
+Then,
+
+823
+00:36:38,980 --> 00:36:40,980
+either cycling vertically or horizontally,
+
+824
+00:36:40,980 --> 00:36:42,980
+doesn't matter.
+
+825
+00:36:42,980 --> 00:36:44,980
+You can write down the next one.
+
+826
+00:36:44,980 --> 00:36:47,980
+Ly with Lz
+
+827
+00:36:47,980 --> 00:36:53,980
+is ih-bar Lx.
+
+828
+00:36:53,980 --> 00:36:54,980
+And,
+
+829
+00:36:54,980 --> 00:36:55,980
+it's the next one,
+
+830
+00:36:55,980 --> 00:36:57,980
+Xyz,
+
+831
+00:36:57,980 --> 00:37:00,980
+Yzx,
+
+832
+00:37:00,980 --> 00:37:05,980
+is ih-bar Lz with Ly.
+
+833
+00:37:05,980 --> 00:37:09,980
+Okay, those are the five things
+
+834
+00:37:09,980 --> 00:37:11,980
+that we've learned about angular momentum.
+
+835
+00:37:11,980 --> 00:37:15,980
+Those are the fundamental relationships
+
+836
+00:37:15,980 --> 00:37:18,980
+on which the theory of angular momentum is built.
+
+837
+00:37:18,980 --> 00:37:20,980
+Now, the next fact which I will tell you
+
+838
+00:37:20,980 --> 00:37:22,980
+is that if you have many particles
+
+839
+00:37:22,980 --> 00:37:25,980
+and you add up the angular momentum
+
+840
+00:37:25,980 --> 00:37:27,980
+and then commute them,
+
+841
+00:37:27,980 --> 00:37:29,980
+you'll find exactly the same relationship.
+
+842
+00:37:29,980 --> 00:37:32,980
+It doesn't matter that this was a single particle.
+
+843
+00:37:32,980 --> 00:37:34,980
+It could be many particles.
+
+844
+00:37:34,980 --> 00:37:36,480
+And, it could be many
+
+845
+00:37:36,480 --> 00:37:37,980
+particles in their own rest frame,
+
+846
+00:37:37,980 --> 00:37:40,980
+the rest frame of the center of mass.
+
+847
+00:37:40,980 --> 00:37:42,980
+So, this will also be the commutation relations
+
+848
+00:37:42,980 --> 00:37:46,980
+for the components of spin angular momentum.
+
+849
+00:37:46,980 --> 00:37:51,980
+So, these, as I said, are our starting point.
+
+850
+00:37:51,980 --> 00:37:52,980
+You might ask,
+
+851
+00:37:52,980 --> 00:37:55,980
+is there anything special about the choice of axes?
+
+852
+00:37:55,980 --> 00:37:56,980
+I chose the X, the Y, and the Z axes,
+
+853
+00:37:56,980 --> 00:37:57,980
+but I never told you what
+
+854
+00:37:57,980 --> 00:37:58,980
+X and Y and Z were.
+
+855
+00:37:58,980 --> 00:38:02,980
+They could be the edges of the room,
+
+856
+00:38:02,980 --> 00:38:03,980
+or they could be as you want it,
+
+857
+00:38:03,980 --> 00:38:06,980
+to use a diagonal direction,
+
+858
+00:38:06,980 --> 00:38:09,980
+or you could do other funny diagonal directions.
+
+859
+00:38:09,980 --> 00:38:11,980
+As long as they're mutually perpendicular,
+
+860
+00:38:11,980 --> 00:38:15,980
+they form a perfectly good Cartesian coordinate system.
+
+861
+00:38:15,980 --> 00:38:17,980
+Given the components of a
+
+862
+00:38:17,980 --> 00:38:19,980
+vector in one frame of reference,
+
+863
+00:38:19,980 --> 00:38:23,980
+you can compute them in any other frame of reference.
+
+864
+00:38:23,980 --> 00:38:26,980
+So, in principle, we could work out from this
+
+865
+00:38:26,980 --> 00:38:28,980
+the commutation relations
+
+866
+00:38:28,980 --> 00:38:30,980
+of the components of angular momentum
+
+867
+00:38:30,980 --> 00:38:33,980
+in some other set of axes.
+
+868
+00:38:33,980 --> 00:38:35,980
+What we would find
+
+869
+00:38:35,980 --> 00:38:38,980
+is that they have exactly the same form.
+
+870
+00:38:38,980 --> 00:38:40,980
+They would have exactly the same form
+
+871
+00:38:40,980 --> 00:38:42,980
+if I chose primed axes.
+
+872
+00:38:42,980 --> 00:38:43,980
+Axes which are different,
+
+873
+00:38:43,980 --> 00:38:46,980
+I would just put some primes in here.
+
+874
+00:38:46,980 --> 00:38:47,980
+In other words,
+
+875
+00:38:47,980 --> 00:38:49,980
+the commutation relations of angular momentum
+
+876
+00:38:49,980 --> 00:38:51,980
+are rotationally invariant.
+
+877
+00:38:51,980 --> 00:38:55,980
+They take the same form in every frame of reference.
+
+878
+00:38:55,980 --> 00:38:57,980
+And that guarantees that whatever theory
+
+879
+00:38:57,980 --> 00:38:59,980
+we're making of angular momentum,
+
+880
+00:38:59,980 --> 00:39:01,980
+it will be independent,
+
+881
+00:39:01,980 --> 00:39:04,980
+the observable facts will be independent
+
+882
+00:39:04,980 --> 00:39:06,980
+of what axes we choose
+
+883
+00:39:06,980 --> 00:39:09,980
+to do the mathematics in.
+
+884
+00:39:09,980 --> 00:39:13,980
+Is it independent of translation as well?
+
+885
+00:39:13,980 --> 00:39:15,980
+It is, but...
+
+886
+00:39:15,980 --> 00:39:17,980
+It is, it is, but...
+
+887
+00:39:17,980 --> 00:39:19,980
+The spin, the spin angular momentum.
+
+888
+00:39:19,980 --> 00:39:20,980
+The L.
+
+889
+00:39:20,980 --> 00:39:22,980
+The spin angular momentum is.
+
+890
+00:39:22,980 --> 00:39:25,980
+But certainly, this much is quite independent
+
+891
+00:39:25,980 --> 00:39:27,980
+of directions.
+
+892
+00:39:27,980 --> 00:39:29,980
+But it's also, yes,
+
+893
+00:39:29,980 --> 00:39:32,980
+it is also independent of translation.
+
+894
+00:39:32,980 --> 00:39:33,980
+Okay.
+
+895
+00:39:33,980 --> 00:39:34,980
+Okay, next step.
+
+896
+00:39:34,980 --> 00:39:38,980
+Now we're going to be doing abstract algebra.
+
+897
+00:39:38,980 --> 00:39:40,980
+Okay, magic.
+
+898
+00:39:42,980 --> 00:39:44,980
+Like what we did so far?
+
+899
+00:39:44,980 --> 00:39:46,980
+Well, so far...
+
+900
+00:39:46,980 --> 00:39:48,980
+So far...
+
+901
+00:39:48,980 --> 00:39:50,980
+We didn't get anything out of it.
+
+902
+00:39:50,980 --> 00:39:52,980
+It only becomes magic when you get something.
+
+903
+00:39:52,980 --> 00:39:53,980
+All right?
+
+904
+00:39:53,980 --> 00:39:54,980
+You can...
+
+905
+00:39:54,980 --> 00:39:55,980
+You know, you can write down
+
+906
+00:39:55,980 --> 00:39:57,980
+an infinite number of formulas.
+
+907
+00:39:57,980 --> 00:39:58,980
+You can get a computer.
+
+908
+00:39:58,980 --> 00:40:01,980
+You can plug in these rules into a computer
+
+909
+00:40:01,980 --> 00:40:02,980
+and then have it grind out
+
+910
+00:40:02,980 --> 00:40:04,980
+all possible theorems.
+
+911
+00:40:10,980 --> 00:40:11,980
+Ape can do that.
+
+912
+00:40:11,980 --> 00:40:12,980
+Right?
+
+913
+00:40:12,980 --> 00:40:13,980
+And mostly they'll grind out
+
+914
+00:40:13,980 --> 00:40:15,980
+uninteresting theorems.
+
+915
+00:40:15,980 --> 00:40:17,980
+It becomes magic when all of a sudden
+
+916
+00:40:17,980 --> 00:40:18,980
+you look back and you say,
+
+917
+00:40:18,980 --> 00:40:20,980
+wow, that's an experimental fact
+
+918
+00:40:20,980 --> 00:40:22,980
+that I can confirm.
+
+919
+00:40:22,980 --> 00:40:25,980
+Or that's telling me something interesting
+
+920
+00:40:25,980 --> 00:40:28,980
+about the physics of the operational
+
+921
+00:40:28,980 --> 00:40:31,980
+process of measurement.
+
+922
+00:40:31,980 --> 00:40:32,980
+So we'll get there.
+
+923
+00:40:32,980 --> 00:40:34,980
+But we're still just doing abstract mathematics
+
+924
+00:40:34,980 --> 00:40:35,980
+for the moment.
+
+925
+00:40:35,980 --> 00:40:36,980
+Of course, I know where I'm going.
+
+926
+00:40:36,980 --> 00:40:37,980
+You don't know where I'm going
+
+927
+00:40:37,980 --> 00:40:38,980
+so you just have to follow it.
+
+928
+00:40:38,980 --> 00:40:39,980
+But after you see it,
+
+929
+00:40:39,980 --> 00:40:40,980
+you'll know and then you can do it yourself.
+
+930
+00:40:40,980 --> 00:40:41,980
+Okay, so...
+
+931
+00:40:41,980 --> 00:40:42,980
+Some of you know.
+
+932
+00:40:42,980 --> 00:40:43,980
+What if we have x, y, and z axes
+
+933
+00:40:43,980 --> 00:40:44,980
+that we choose are spinning
+
+934
+00:40:44,980 --> 00:40:45,980
+along with the particles?
+
+935
+00:40:45,980 --> 00:40:46,980
+No, that we don't want to do.
+
+936
+00:40:46,980 --> 00:40:47,980
+Why don't you just go and try
+
+937
+00:40:47,980 --> 00:40:48,980
+to figure out what you're going to do.
+
+938
+00:40:48,980 --> 00:40:49,980
+Okay.
+
+939
+00:40:49,980 --> 00:40:50,980
+So what if you have a particle
+
+940
+00:40:50,980 --> 00:40:51,980
+that you want to do
+
+941
+00:40:51,980 --> 00:40:52,980
+and you want to do something
+
+942
+00:40:52,980 --> 00:40:53,980
+that you can't do?
+
+943
+00:40:53,980 --> 00:40:54,980
+You know, you can't do anything
+
+944
+00:40:54,980 --> 00:40:55,980
+except when you're going to do
+
+945
+00:40:55,980 --> 00:40:56,980
+something that you can't do.
+
+946
+00:40:56,980 --> 00:40:57,980
+So x, y, and z axes that you choose
+
+947
+00:40:57,980 --> 00:40:58,980
+are spinning along with the particles.
+
+948
+00:40:58,980 --> 00:40:59,980
+No, that we don't want to do.
+
+949
+00:40:59,980 --> 00:41:00,980
+That we don't want to do.
+
+950
+00:41:00,980 --> 00:41:01,980
+We want to use inertial reference frames.
+
+951
+00:41:01,980 --> 00:41:02,980
+And spinning reference frames
+
+952
+00:41:02,980 --> 00:41:03,980
+are not inertial.
+
+953
+00:41:03,980 --> 00:41:04,980
+Nevertheless, I will tell you,
+
+954
+00:41:04,980 --> 00:41:08,480
+it's still true, but we don't want
+
+955
+00:41:08,480 --> 00:41:11,980
+to get into that at the moment.
+
+956
+00:41:11,980 --> 00:41:17,980
+Certainly the angular momentum is not invariant
+
+957
+00:41:17,980 --> 00:41:20,980
+undergoing the rotating frames of reference.
+
+958
+00:41:20,980 --> 00:41:22,980
+If we had a system which is spinning
+
+959
+00:41:22,980 --> 00:41:23,980
+and it had some spin
+
+960
+00:41:23,980 --> 00:41:25,980
+and we went to a rotating frame of reference
+
+961
+00:41:25,980 --> 00:41:26,980
+which spun like this,
+
+962
+00:41:26,980 --> 00:41:27,980
+and we went with it,
+
+963
+00:41:27,980 --> 00:41:31,860
+then it wouldn't look like it had any angular momentum.
+
+964
+00:41:31,860 --> 00:41:34,090
+So it's clear that we don't want
+
+965
+00:41:34,090 --> 00:41:36,320
+to go to rotating frames of reference
+
+966
+00:41:36,320 --> 00:41:39,980
+or at least the angular momentum won't be invariant.
+
+967
+00:41:39,980 --> 00:41:43,740
+So inertial frames of reference.
+
+968
+00:41:43,740 --> 00:41:46,300
+Reference frames which have no centripetal forces
+
+969
+00:41:46,300 --> 00:41:48,980
+and no Coriolis forces and so forth.
+
+970
+00:41:48,980 --> 00:41:52,820
+Now we're going to invent two new operators
+
+971
+00:41:52,820 --> 00:41:54,980
+which are very simply related to these,
+
+972
+00:41:54,980 --> 00:41:55,980
+simple as possible.
+
+973
+00:41:55,980 --> 00:41:56,980
+So we're going to start with the first one,
+
+974
+00:41:56,980 --> 00:41:57,980
+the L-plus and the L-minus.
+
+975
+00:41:57,980 --> 00:41:58,980
+They're called L-plus and L-minus.
+
+976
+00:41:58,980 --> 00:41:59,980
+There are two of them.
+
+977
+00:41:59,980 --> 00:42:00,980
+Let's write them down.
+
+978
+00:42:00,980 --> 00:42:01,980
+L-plus and L-minus.
+
+979
+00:42:01,980 --> 00:42:02,980
+L-plus is equal to L-x plus I-L-y.
+
+980
+00:42:02,980 --> 00:42:03,980
+And L-minus is equal to L-x minus I-L-y.
+
+981
+00:42:03,980 --> 00:42:20,980
+Now I'll tell you right now what these are.
+
+982
+00:42:20,980 --> 00:42:23,980
+These are raising and lowering operators
+
+983
+00:42:23,980 --> 00:42:25,980
+analogous to the harmonic oscillator creation of the ring.
+
+984
+00:42:25,980 --> 00:42:27,480
+They're called oscillator
+
+985
+00:42:27,480 --> 00:42:28,980
+creation and annihilation operators.
+
+986
+00:42:28,980 --> 00:42:32,980
+They take an angular momentum along a given axis,
+
+987
+00:42:32,980 --> 00:42:34,980
+namely the z-axis,
+
+988
+00:42:34,980 --> 00:42:36,480
+and they bump you up a step
+
+989
+00:42:36,480 --> 00:42:37,980
+and they bump you down a step.
+
+990
+00:42:37,980 --> 00:42:39,980
+But we're going to show that.
+
+991
+00:42:39,980 --> 00:42:42,980
+We're going to show that.
+
+992
+00:42:42,980 --> 00:42:49,980
+Another definition is that the measurable values of L-z,
+
+993
+00:42:49,980 --> 00:42:52,980
+we're going to be concentrating on L-z.
+
+994
+00:42:52,980 --> 00:42:54,980
+Now there's nothing special about the z-axis,
+
+995
+00:42:54,980 --> 00:42:56,980
+but on the other hand there's nothing to forbid me
+
+996
+00:42:56,980 --> 00:42:58,980
+from focusing on the z-axis.
+
+997
+00:42:58,980 --> 00:43:00,980
+Nothing special about it.
+
+998
+00:43:00,980 --> 00:43:04,980
+Nevertheless, I wish to choose an axis to work with.
+
+999
+00:43:04,980 --> 00:43:06,980
+I'm going to choose the z-axis,
+
+1000
+00:43:06,980 --> 00:43:10,980
+and I'm going to call the eigenvalues of L-z,
+
+1001
+00:43:10,980 --> 00:43:13,980
+the measurable values that it can take on,
+
+1002
+00:43:13,980 --> 00:43:18,980
+I'm going to call them m times h-bar.
+
+1003
+00:43:18,980 --> 00:43:20,980
+h-bar is just a number.
+
+1004
+00:43:20,980 --> 00:43:22,980
+If we set h-bar equal to one,
+
+1005
+00:43:22,980 --> 00:43:23,980
+which I think I will do now,
+
+1006
+00:43:23,980 --> 00:43:27,980
+because I will never on a blackboard in real time
+
+1007
+00:43:27,980 --> 00:43:30,980
+be able to keep track of all the h-bars.
+
+1008
+00:43:30,980 --> 00:43:33,980
+Later on we can put it back.
+
+1009
+00:43:33,980 --> 00:43:35,980
+L-z is just called m.
+
+1010
+00:43:35,980 --> 00:43:38,980
+That's a historical notation.
+
+1011
+00:43:38,980 --> 00:43:40,980
+m, as I said, is the
+
+1012
+00:43:40,980 --> 00:43:42,980
+angular momentum in units of h-bar.
+
+1013
+00:43:42,980 --> 00:43:45,980
+Okay, so it's, but,
+
+1014
+00:43:45,980 --> 00:43:50,980
+and it'll turn out to be a quantized variable.
+
+1015
+00:43:50,980 --> 00:43:52,980
+Okay, it's called m.
+
+1016
+00:43:52,980 --> 00:43:55,980
+It's a historical reason that I don't know.
+
+1017
+00:43:55,980 --> 00:43:59,980
+And that's a notation we'll use.
+
+1018
+00:43:59,980 --> 00:44:00,980
+What I want to calculate,
+
+1019
+00:44:00,980 --> 00:44:02,980
+I'm not interested for all purposes
+
+1020
+00:44:02,980 --> 00:44:06,980
+in the commutator between L-plus and L-minus.
+
+1021
+00:44:06,980 --> 00:44:08,980
+I'll tell you if you want to work it out.
+
+1022
+00:44:08,980 --> 00:44:10,980
+It's proportional to L-z.
+
+1023
+00:44:10,980 --> 00:44:13,980
+But that's not our interest right now.
+
+1024
+00:44:13,980 --> 00:44:17,480
+I want to work out
+
+1025
+00:44:17,480 --> 00:44:20,980
+the commutator of L-plus with L-z.
+
+1026
+00:44:20,980 --> 00:44:22,980
+L-z-y as we go along.
+
+1027
+00:44:22,980 --> 00:44:26,980
+All right, so we want L-plus with L-z.
+
+1028
+00:44:26,980 --> 00:44:28,980
+Also L-minus with L-z.
+
+1029
+00:44:28,980 --> 00:44:30,980
+But let's do L-plus with L-z.
+
+1030
+00:44:30,980 --> 00:44:32,980
+This is equal to
+
+1031
+00:44:32,980 --> 00:44:37,980
+commutator of L-x plus I-L-y with L-z.
+
+1032
+00:44:37,980 --> 00:44:39,980
+Well, we have all the rules.
+
+1033
+00:44:39,980 --> 00:44:40,980
+This is easy.
+
+1034
+00:44:40,980 --> 00:44:42,980
+Oh my God, what do I do with them?
+
+1035
+00:44:42,980 --> 00:44:43,980
+Here they are.
+
+1036
+00:44:43,980 --> 00:44:45,980
+All right.
+
+1037
+00:44:45,980 --> 00:44:47,980
+Commutator of L-x with L-z.
+
+1038
+00:44:47,980 --> 00:44:49,980
+Can somebody read it off for me?
+
+1039
+00:44:49,980 --> 00:44:51,980
+Minus L-y, I-L-y.
+
+1040
+00:44:52,980 --> 00:44:53,980
+Minus I-L-y.
+
+1041
+00:44:53,980 --> 00:44:56,980
+We're setting h-bar equal to one for the moment, right?
+
+1042
+00:44:56,980 --> 00:45:00,980
+So L-x with L-z, do I believe you?
+
+1043
+00:45:00,980 --> 00:45:01,980
+I do.
+
+1044
+00:45:01,980 --> 00:45:07,980
+Minus I-L-y.
+
+1045
+00:45:08,258 --> 00:45:10,258
+はい
+
+1046
+00:45:11,746 --> 00:45:13,786
+and what about
+
+1047
+00:45:13,786 --> 00:45:16,386
+uh... what about
+
+1048
+00:45:16,386 --> 00:45:21,286
+l y with l c so there's plus i
+
+1049
+00:45:21,286 --> 00:45:23,506
+and now
+
+1050
+00:45:23,506 --> 00:45:25,066
+l y with l c
+
+1051
+00:45:25,066 --> 00:45:26,766
+somebody read it off
+
+1052
+00:45:26,766 --> 00:45:28,766
+i l x
+
+1053
+00:45:28,766 --> 00:45:29,906
+i l x
+
+1054
+00:45:29,906 --> 00:45:32,146
+so it's i squared l x
+
+1055
+00:45:32,146 --> 00:45:39,146
+and i squared is just minus one
+
+1056
+00:45:41,746 --> 00:45:45,626
+and this is just equal to minus
+
+1057
+00:45:45,626 --> 00:45:48,146
+l plus
+
+1058
+00:45:48,146 --> 00:45:49,906
+alright it's minus
+
+1059
+00:45:49,906 --> 00:45:52,706
+l x plus i l y
+
+1060
+00:45:52,706 --> 00:45:56,006
+so we have our first commutation relation
+
+1061
+00:45:56,006 --> 00:45:58,046
+i think i can get rid of this
+
+1062
+00:45:58,046 --> 00:46:05,046
+it's just minus l plus
+
+1063
+00:46:05,046 --> 00:46:12,046
+what about l minus with l z
+
+1064
+00:46:18,005 --> 00:46:19,545
+i won't drag you through it
+
+1065
+00:46:19,545 --> 00:46:21,086
+i'll just write down the answer
+
+1066
+00:46:21,086 --> 00:46:24,666
+i think the answer is plus l minus
+
+1067
+00:46:24,666 --> 00:46:26,856
+when you compute when you commute l plus with
+
+1068
+00:46:26,856 --> 00:46:29,046
+l z you get back l plus when you
+
+1069
+00:46:29,046 --> 00:46:30,806
+compute when you commute
+
+1070
+00:46:30,806 --> 00:46:33,906
+l minus with l z you get back l minus
+
+1071
+00:46:33,906 --> 00:46:34,966
+with a sign
+
+1072
+00:46:34,966 --> 00:46:37,706
+that uh... that depends on whether
+
+1073
+00:46:37,706 --> 00:46:40,446
+it's l plus or l minus
+
+1074
+00:46:40,446 --> 00:46:42,666
+these are the basic commutation
+
+1075
+00:46:42,666 --> 00:46:44,886
+relations that we're going to use
+
+1076
+00:46:44,886 --> 00:46:48,986
+okay the next step is i want to show
+
+1077
+00:46:48,986 --> 00:46:50,206
+that
+
+1078
+00:46:50,206 --> 00:46:52,486
+l plus and l minus
+
+1079
+00:46:52,486 --> 00:46:56,406
+are bumping operators which bump you up and down
+
+1080
+00:46:56,406 --> 00:47:00,726
+like raising or like creation and annihilation operators
+
+1081
+00:47:00,726 --> 00:47:02,966
+for harmonic oscillators
+
+1082
+00:47:02,966 --> 00:47:04,886
+now when l plus and l minus act
+
+1083
+00:47:04,886 --> 00:47:10,066
+they change the z components of angular momentum
+
+1084
+00:47:10,066 --> 00:47:12,866
+we've got to focus remember we can only measure
+
+1085
+00:47:12,866 --> 00:47:15,126
+one component of the angular momentum at a time
+
+1086
+00:47:15,126 --> 00:47:16,606
+oh i didn't say that did i
+
+1087
+00:47:16,606 --> 00:47:18,146
+no we don't say that
+
+1088
+00:47:18,146 --> 00:47:19,686
+we should say it right now
+
+1089
+00:47:19,686 --> 00:47:21,926
+how many of the components of
+
+1090
+00:47:21,926 --> 00:47:24,166
+angular momentum can we simultaneously measure
+
+1091
+00:47:24,166 --> 00:47:26,546
+the answer is one
+
+1092
+00:47:26,546 --> 00:47:29,846
+any two of them don't commute
+
+1093
+00:47:29,846 --> 00:47:31,686
+any two of them don't commute
+
+1094
+00:47:31,686 --> 00:47:32,936
+and so at most we can
+
+1095
+00:47:32,936 --> 00:47:34,186
+measure one component of angular momentum
+
+1096
+00:47:34,186 --> 00:47:34,436
+so it means that there's not a single
+
+1097
+00:47:34,436 --> 00:47:34,686
+component of angular momentum that can be measured simultaneously
+
+1098
+00:47:34,686 --> 00:47:38,186
+We pick one direction, we call it the
+
+1099
+00:47:38,186 --> 00:47:41,686
+quantization axis, but there's nothing special about it,
+
+1100
+00:47:41,686 --> 00:47:45,686
+and we focus on it, and we are interested
+
+1101
+00:47:45,686 --> 00:47:49,686
+now in the possible values that Lz can take
+
+1102
+00:47:49,686 --> 00:47:50,686
+on.
+
+1103
+00:47:50,686 --> 00:47:52,686
+In other words, what are the possible values of M?
+
+1104
+00:47:52,686 --> 00:47:56,686
+And what we're going to do now is we're going
+
+1105
+00:47:56,686 --> 00:48:00,686
+to show that L plus bumps you up in M, increases
+
+1106
+00:48:00,686 --> 00:48:02,686
+the eigenvalue M by one unit.
+
+1107
+00:48:02,686 --> 00:48:06,686
+So let's see if we can do that.
+
+1108
+00:48:06,686 --> 00:48:12,186
+Let's suppose we have a state, let's call it
+
+1109
+00:48:12,186 --> 00:48:17,686
+M, such that Lz acting on M is equal to
+
+1110
+00:48:17,686 --> 00:48:18,686
+what?
+
+1111
+00:48:18,686 --> 00:48:19,686
+M on M.
+
+1112
+00:48:19,686 --> 00:48:25,686
+In other words, that little M is an
+
+1113
+00:48:25,686 --> 00:48:31,686
+eigenvalue of Lz with eigenvector ket vector M.
+
+1114
+00:48:31,686 --> 00:48:32,686
+That's what it means.
+
+1115
+00:48:32,686 --> 00:48:34,186
+It means to say that
+
+1116
+00:48:34,186 --> 00:48:35,686
+M is an eigenvalue of M.
+
+1117
+00:48:35,686 --> 00:48:37,686
+We know what that means.
+
+1118
+00:48:37,686 --> 00:48:40,686
+We've been through this a number of times.
+
+1119
+00:48:40,686 --> 00:48:46,186
+What we want to prove is that if you
+
+1120
+00:48:46,186 --> 00:48:51,686
+act with L plus on M, that's a new vector.
+
+1121
+00:48:51,686 --> 00:48:59,686
+Let's put a red box around it.
+
+1122
+00:48:59,686 --> 00:49:01,686
+It's a new ket vector.
+
+1123
+00:49:01,686 --> 00:49:04,686
+What I want to prove is that that's
+
+1124
+00:49:04,686 --> 00:49:07,686
+a ket vector with eigenvalue M plus one.
+
+1125
+00:49:07,686 --> 00:49:11,686
+With eigenvalue of Lz equal to M plus one.
+
+1126
+00:49:11,686 --> 00:49:12,686
+So let's do it.
+
+1127
+00:49:12,686 --> 00:49:15,686
+All we have to do is multiply
+
+1128
+00:49:15,686 --> 00:49:18,686
+this by Lz and see what we get.
+
+1129
+00:49:18,686 --> 00:49:22,686
+What should we get if it really is an eigenvector?
+
+1130
+00:49:22,686 --> 00:49:25,186
+We should get M plus one times
+
+1131
+00:49:25,186 --> 00:49:27,686
+the same thing in the red box.
+
+1132
+00:49:27,686 --> 00:49:29,186
+We should get, I won't bother writing it down,
+
+1133
+00:49:29,186 --> 00:49:30,686
+but we should get M plus one times the same
+
+1134
+00:49:30,686 --> 00:49:31,686
+thing in the red box.
+
+1135
+00:49:31,686 --> 00:49:33,186
+Now, this would be easy to compute if
+
+1136
+00:49:33,186 --> 00:49:34,686
+L plus, if Lz commuted with L plus.
+
+1137
+00:49:34,686 --> 00:49:36,186
+Then we would just push the Lz through and use
+
+1138
+00:49:36,186 --> 00:49:37,686
+the fact that Lz on M just gives us M
+
+1139
+00:49:37,686 --> 00:49:38,686
+times M.
+
+1140
+00:49:38,686 --> 00:49:39,686
+That would be easy.
+
+1141
+00:49:39,686 --> 00:49:40,686
+But it's not that easy.
+
+1142
+00:49:40,686 --> 00:49:41,686
+We can't push Lz through L plus.
+
+1143
+00:49:41,686 --> 00:49:42,686
+Why?
+
+1144
+00:49:42,686 --> 00:49:43,686
+Because they don't commute.
+
+1145
+00:49:43,686 --> 00:49:44,186
+But if we can't push Lz through L plus,
+
+1146
+00:49:44,186 --> 00:49:44,686
+then Lz would just give us M times N.
+
+1147
+00:49:44,686 --> 00:49:45,686
+So what we do is we get a new eigenvalue.
+
+1148
+00:49:45,686 --> 00:49:46,686
+We know that M is a new vector.
+
+1149
+00:49:46,686 --> 00:49:47,686
+So let's do this.
+
+1150
+00:49:47,686 --> 00:49:48,686
+Let's try putting Lz on M.
+
+1151
+00:49:48,686 --> 00:49:49,686
+So we can do that.
+
+1152
+00:49:49,686 --> 00:49:50,686
+So we're going to take a new eigenvector.
+
+1153
+00:49:50,686 --> 00:49:51,686
+We're going to put Lz on M.
+
+1154
+00:49:51,686 --> 00:49:52,686
+Let's put Lz on M.
+
+1155
+00:49:52,686 --> 00:49:53,446
+That would be easy.
+
+1156
+00:49:53,965 --> 00:49:55,106
+But it's not that easy.
+
+1157
+00:49:55,406 --> 00:49:58,426
+We can't push Lz through L+.
+
+1158
+00:49:58,426 --> 00:49:59,726
+Why? Because they don't commute.
+
+1159
+00:50:00,366 --> 00:50:02,946
+But if we use the commutation relations, we can.
+
+1160
+00:50:03,046 --> 00:50:05,386
+So let's find out what this commutation relation means.
+
+1161
+00:50:06,006 --> 00:50:11,366
+It means L plus Lz minus
+
+1162
+00:50:11,366 --> 00:50:16,726
+Lz L plus equals minus L plus.
+
+1163
+00:50:17,066 --> 00:50:21,166
+I've just written it out by hand in excruciating detail.
+
+1164
+00:50:21,166 --> 00:50:23,986
+So the thing that I'm interested in here, the
+
+1165
+00:50:23,986 --> 00:50:26,806
+thing that came up here, was Lz times L plus.
+
+1166
+00:50:27,886 --> 00:50:31,776
+So let's put that on one side of the equation
+
+1167
+00:50:31,776 --> 00:50:35,666
+and write that this is L plus Lz plus L plus,
+
+1168
+00:50:36,306 --> 00:50:44,386
+oops, not Lz, but L plus, equals Lz L plus.
+
+1169
+00:50:46,286 --> 00:50:48,346
+That's what I want, Lz L plus.
+
+1170
+00:50:48,346 --> 00:50:50,706
+With Lz on the left, L plus on the right.
+
+1171
+00:50:51,166 --> 00:50:53,086
+And here I have it on
+
+1172
+00:50:53,086 --> 00:50:55,006
+the left side of the equation.
+
+1173
+00:50:55,146 --> 00:50:56,316
+We'll see. Is it useful? We're
+
+1174
+00:50:56,316 --> 00:50:57,486
+going to find out if it's useful.
+
+1175
+00:50:58,486 --> 00:51:05,946
+So this is equal, then, to L plus Lz
+
+1176
+00:51:05,946 --> 00:51:13,406
+acting on M plus L plus acting on M.
+
+1177
+00:51:14,666 --> 00:51:16,286
+I'll stop here if there are any questions.
+
+1178
+00:51:16,286 --> 00:51:18,286
+I think I've been clear, but if not, I'll...
+
+1179
+00:51:21,166 --> 00:51:23,166
+Okay, but now it's easy.
+
+1180
+00:51:24,266 --> 00:51:26,266
+What is Lz when it acts on M?
+
+1181
+00:51:28,006 --> 00:51:30,666
+Just replaces the Lz by an M, right?
+
+1182
+00:51:30,666 --> 00:51:32,046
+So let's take an M
+
+1183
+00:51:32,046 --> 00:51:33,426
+out, put the M over here,
+
+1184
+00:51:34,966 --> 00:51:36,966
+take out this Lz.
+
+1185
+00:51:39,626 --> 00:51:42,066
+Close it up a little bit. M times L plus.
+
+1186
+00:51:44,326 --> 00:51:45,866
+And here we just have L plus times
+
+1187
+00:51:45,866 --> 00:51:47,406
+M. What are we going to do with that?
+
+1188
+00:51:48,046 --> 00:51:49,046
+I don't know what we're going
+
+1189
+00:51:49,046 --> 00:51:50,046
+to do with it, but we just...
+
+1190
+00:51:50,046 --> 00:51:51,146
+We're going to do with it.
+
+1191
+00:51:51,146 --> 00:51:53,146
+Let's put a red box around it.
+
+1192
+00:51:54,506 --> 00:51:56,506
+L plus times M.
+
+1193
+00:51:57,045 --> 00:51:59,045
+L plus times M.
+
+1194
+00:51:59,545 --> 00:52:01,195
+Same red box. Same thing in
+
+1195
+00:52:01,195 --> 00:52:02,845
+the red box on each side.
+
+1196
+00:52:03,326 --> 00:52:05,756
+So what's in the red box has
+
+1197
+00:52:05,756 --> 00:52:08,186
+the property that when Lz hits it,
+
+1198
+00:52:11,306 --> 00:52:13,965
+it multiplies it by M plus 1.
+
+1199
+00:52:19,105 --> 00:52:21,105
+The thing in the red box is an I.
+
+1200
+00:52:21,106 --> 00:52:24,586
+So what's in the red box is an
+
+1201
+00:52:24,586 --> 00:52:28,066
+eigenvector of Lz with eigenvalue M plus 1.
+
+1202
+00:52:28,066 --> 00:52:32,066
+That's a little bit of magic.
+
+1203
+00:52:32,066 --> 00:52:34,566
+And what it tells us is that if we
+
+1204
+00:52:34,566 --> 00:52:37,066
+have a state with a given value of Lz,
+
+1205
+00:52:37,066 --> 00:52:41,066
+there must be another state
+
+1206
+00:52:41,066 --> 00:52:45,066
+with one additional unit of Lz.
+
+1207
+00:52:45,066 --> 00:52:47,066
+In other words, you can
+
+1208
+00:52:47,066 --> 00:52:49,066
+bump up Lz by one unit.
+
+1209
+00:52:51,106 --> 00:52:55,506
+You can bump down Lz the
+
+1210
+00:52:55,506 --> 00:52:59,906
+same way, except using the lowering operator.
+
+1211
+00:52:59,906 --> 00:53:03,906
+So you can check that, that L minus on
+
+1212
+00:53:03,906 --> 00:53:07,906
+M gives you an eigenvector with eigenvalue M minus 1.
+
+1213
+00:53:11,206 --> 00:53:12,906
+So now let's think about...
+
+1214
+00:53:12,906 --> 00:53:16,906
+Now we've learned something rather non-trivial.
+
+1215
+00:53:16,906 --> 00:53:20,406
+We've discovered that the spectrum of angular momentum,
+
+1216
+00:53:20,406 --> 00:53:20,436
+of z components, is the same
+
+1217
+00:53:20,436 --> 00:53:20,466
+as the angular momentum of the vector.
+
+1218
+00:53:20,466 --> 00:53:20,506
+So now let's think about... Now we've learned something rather non-trivial.
+
+1219
+00:53:20,506 --> 00:53:20,546
+We've discovered that the spectrum of angular momentum of z components,
+
+1220
+00:53:20,546 --> 00:53:21,046
+of z components,
+
+1221
+00:53:21,046 --> 00:53:21,546
+of z components,
+
+1222
+00:53:21,546 --> 00:53:24,246
+of angular momentum,
+
+1223
+00:53:24,246 --> 00:53:27,246
+is spaced by integers.
+
+1224
+00:53:37,886 --> 00:53:40,846
+Here's the spectrum of angular momentum.
+
+1225
+00:53:40,846 --> 00:53:42,346
+And whatever it is,
+
+1226
+00:53:42,346 --> 00:53:45,346
+it's spaced by integers.
+
+1227
+00:53:47,246 --> 00:53:48,846
+I don't know, it could be...
+
+1228
+00:53:48,846 --> 00:53:50,346
+I don't know what the spectrum of angular momentum is,
+
+1229
+00:53:50,346 --> 00:53:51,446
+I don't know what the spectrum of angular momentum is,
+
+1230
+00:53:51,446 --> 00:53:52,046
+yet,
+
+1231
+00:53:52,046 --> 00:53:52,086
+yet,
+
+1232
+00:53:52,086 --> 00:53:53,146
+yet,
+
+1233
+00:53:53,146 --> 00:53:54,446
+yet,
+
+1234
+00:53:54,446 --> 00:53:56,446
+yet,
+
+1235
+00:53:56,446 --> 00:53:58,446
+yet,
+
+1236
+00:53:58,446 --> 00:54:00,446
+yet,
+
+1237
+00:54:00,446 --> 00:54:02,446
+yet,
+
+1238
+00:54:02,446 --> 00:54:04,446
+yet,
+
+1239
+00:54:04,446 --> 00:54:06,446
+yet,
+
+1240
+00:54:06,446 --> 00:54:08,446
+yet,
+
+1241
+00:54:08,446 --> 00:54:10,446
+yet,
+
+1242
+00:54:10,446 --> 00:54:12,446
+yet,
+
+1243
+00:54:12,446 --> 00:54:14,446
+yet,
+
+1244
+00:54:14,446 --> 00:54:16,446
+yet,
+
+1245
+00:54:16,446 --> 00:54:18,446
+yet,
+
+1246
+00:54:18,446 --> 00:54:25,346
+yet, yet, yet, yet.
+
+1247
+00:54:25,346 --> 00:54:27,346
+Just a second.
+
+1248
+00:54:27,346 --> 00:54:29,346
+Can we go on and on forever?
+
+1249
+00:54:29,346 --> 00:54:31,346
+Now remember, we're talking about a particular particle,
+
+1250
+00:54:31,346 --> 00:54:33,346
+we're talking about a particle of some kind.
+
+1251
+00:54:33,346 --> 00:54:35,346
+We're not talking about the whole world.
+
+1252
+00:54:35,346 --> 00:54:36,346
+We're just talking about
+
+1253
+00:54:36,346 --> 00:54:37,346
+some particular elementary particle,
+
+1254
+00:54:37,346 --> 00:54:41,346
+We're not talking about the whole world.
+
+1255
+00:54:41,346 --> 00:54:43,346
+Let's say a neutron or even a nucleus.
+
+1256
+00:54:43,346 --> 00:54:45,346
+Let's say a neutron or even a nucleus.
+
+1257
+00:54:45,346 --> 00:54:47,346
+A neutron or even a nucleus.
+
+1258
+00:54:47,346 --> 00:54:50,726
+How much can we bump up the angular
+
+1259
+00:54:50,726 --> 00:54:54,106
+momentum, the z component of angular momentum, before
+
+1260
+00:54:54,106 --> 00:54:57,066
+it's not the same object anymore?
+
+1261
+00:54:57,066 --> 00:55:01,246
+Before we simply run out of possibilities.
+
+1262
+00:55:01,246 --> 00:55:03,806
+So we're talking about an object,
+
+1263
+00:55:03,806 --> 00:55:06,366
+let's think classically for a minute.
+
+1264
+00:55:06,366 --> 00:55:10,136
+It's rotating about some axis, and we're
+
+1265
+00:55:10,136 --> 00:55:13,906
+not allowed to increase the rate of rotation.
+
+1266
+00:55:13,906 --> 00:55:18,965
+That would give us a new object, a different object.
+
+1267
+00:55:18,965 --> 00:55:21,965
+But we are allowed to rotate the angular momentum.
+
+1268
+00:55:21,965 --> 00:55:24,935
+We're allowed to rotate the angular momentum,
+
+1269
+00:55:24,935 --> 00:55:27,906
+but we're not allowed to increase its amount
+
+1270
+00:55:27,906 --> 00:55:34,246
+without changing the whole nature of the object.
+
+1271
+00:55:34,246 --> 00:55:37,756
+So another way of saying it is that there's
+
+1272
+00:55:37,756 --> 00:55:41,266
+a given length, or a given value of L squared,
+
+1273
+00:55:41,266 --> 00:55:43,146
+the magnitude of L is fixed.
+
+1274
+00:55:43,146 --> 00:55:43,886
+The magnitude of L is fixed.
+
+1275
+00:55:43,886 --> 00:55:45,886
+And it characterizes the particle.
+
+1276
+00:55:45,886 --> 00:55:50,225
+Just as a particle is characterized by mass,
+
+1277
+00:55:50,225 --> 00:55:54,565
+it's also characterized by a length of the
+
+1278
+00:55:54,565 --> 00:55:56,565
+angular momentum vector, or better yet, the
+
+1279
+00:55:56,565 --> 00:55:58,565
+square of the length of the angular momentum
+
+1280
+00:55:58,565 --> 00:55:59,565
+vector.
+
+1281
+00:55:59,565 --> 00:56:03,655
+Okay, how do we maximize
+
+1282
+00:56:03,655 --> 00:56:07,746
+the z component of angular momentum?
+
+1283
+00:56:07,746 --> 00:56:10,926
+We simply point the object upward.
+
+1284
+00:56:10,926 --> 00:56:13,126
+We point the spin axis upward.
+
+1285
+00:56:13,126 --> 00:56:13,726
+Okay.
+
+1286
+00:56:13,726 --> 00:56:13,826
+Okay.
+
+1287
+00:56:13,826 --> 00:56:13,846
+Okay.
+
+1288
+00:56:13,846 --> 00:56:13,866
+Okay.
+
+1289
+00:56:13,886 --> 00:56:14,226
+Okay.
+
+1290
+00:56:14,226 --> 00:56:15,986
+And that's going to be the maximum angular momentum.
+
+1291
+00:56:15,986 --> 00:56:18,226
+It's the maximal z component of the angular momentum.
+
+1292
+00:56:18,786 --> 00:56:22,606
+So from an intuitive point of view, there ought
+
+1293
+00:56:22,606 --> 00:56:26,426
+to be a maximum value for the angular momentum
+
+1294
+00:56:26,426 --> 00:56:28,945
+of a specific particle.
+
+1295
+00:56:29,826 --> 00:56:31,046
+A top of this.
+
+1296
+00:56:31,786 --> 00:56:32,966
+And after that, nothing.
+
+1297
+00:56:34,426 --> 00:56:35,445
+Well, how can that be?
+
+1298
+00:56:35,926 --> 00:56:36,606
+How can that be?
+
+1299
+00:56:36,646 --> 00:56:39,786
+We've already proved that by acting with
+
+1300
+00:56:39,786 --> 00:56:42,926
+L plus, we bump up the angular momentum.
+
+1301
+00:56:43,886 --> 00:56:48,826
+How can there possibly be a ceiling to the rule?
+
+1302
+00:56:48,826 --> 00:56:51,826
+The answer is exactly the same as
+
+1303
+00:56:51,826 --> 00:56:54,826
+the harmonic oscillator creation and annihilation operators.
+
+1304
+00:56:54,826 --> 00:56:57,466
+Remember what happens to the annihilation operator
+
+1305
+00:56:57,466 --> 00:57:00,106
+if you hit the bottom state, the
+
+1306
+00:57:00,106 --> 00:57:02,386
+state of lowest energy.
+
+1307
+00:57:02,386 --> 00:57:04,726
+It just gives you zero.
+
+1308
+00:57:04,726 --> 00:57:05,766
+Okay.
+
+1309
+00:57:05,766 --> 00:57:09,676
+That's the one possibility we left out here,
+
+1310
+00:57:09,676 --> 00:57:13,586
+that perhaps there are states, or a state,
+
+1311
+00:57:13,586 --> 00:57:17,046
+where L plus will give zero.
+
+1312
+00:57:17,046 --> 00:57:19,506
+That would have to be the case
+
+1313
+00:57:19,506 --> 00:57:21,966
+if there was a maximum angular momentum.
+
+1314
+00:57:21,966 --> 00:57:25,086
+So for the maximum angular momentum, if there is
+
+1315
+00:57:25,086 --> 00:57:28,206
+such a thing, and there is for every given
+
+1316
+00:57:28,206 --> 00:57:35,526
+object, L plus on, let's call it M max.
+
+1317
+00:57:35,526 --> 00:57:36,526
+Okay.
+
+1318
+00:57:36,526 --> 00:57:37,526
+Okay.
+
+1319
+00:57:37,526 --> 00:57:38,526
+Okay.
+
+1320
+00:57:38,526 --> 00:57:39,526
+Okay.
+
+1321
+00:57:39,526 --> 00:57:40,526
+Okay.
+
+1322
+00:57:40,526 --> 00:57:41,526
+Okay.
+
+1323
+00:57:41,526 --> 00:57:42,526
+Okay.
+
+1324
+00:57:42,526 --> 00:57:36,962
+Okay.
+
+1325
+00:57:36,962 --> 00:57:38,962
+ましていこうぜよ
+
+1326
+00:57:40,770 --> 00:57:42,710
+So there's a cut-off. You
+
+1327
+00:57:42,710 --> 00:57:44,650
+can't go past a certain point.
+
+1328
+00:57:44,650 --> 00:57:49,810
+What about the minimum value of the angular momentum?
+
+1329
+00:57:49,810 --> 00:57:51,450
+Minimum means the one
+
+1330
+00:57:51,450 --> 00:57:56,670
+deepest down in the cellar.
+
+1331
+00:57:56,670 --> 00:57:59,170
+It had better just be
+
+1332
+00:57:59,170 --> 00:58:01,210
+the negative of this.
+
+1333
+00:58:01,210 --> 00:58:02,710
+Why must it be the negative?
+
+1334
+00:58:02,710 --> 00:58:04,210
+Why couldn't it be something else?
+
+1335
+00:58:04,210 --> 00:58:06,590
+That's just rotational invariance.
+
+1336
+00:58:06,590 --> 00:58:08,580
+If you can build a system with an
+
+1337
+00:58:08,580 --> 00:58:10,570
+angular momentum along a given axis of a certain
+
+1338
+00:58:10,570 --> 00:58:11,650
+value,
+
+1339
+00:58:11,650 --> 00:58:14,600
+you must be able, by rotational invariance, by
+
+1340
+00:58:14,600 --> 00:58:17,550
+every axis being equivalent to every other axis,
+
+1341
+00:58:17,550 --> 00:58:20,410
+you must be able to rotate that angular momentum
+
+1342
+00:58:20,410 --> 00:58:23,570
+and have exactly the same value
+
+1343
+00:58:23,570 --> 00:58:26,730
+except pointing in the opposite direction.
+
+1344
+00:58:26,730 --> 00:58:28,789
+So, the bottom
+
+1345
+00:58:28,789 --> 00:58:31,570
+must be, of course, m max,
+
+1346
+00:58:31,570 --> 00:58:35,310
+and m min must be equal to minus m max,
+
+1347
+00:58:35,310 --> 00:58:37,730
+equals m min,
+
+1348
+00:58:37,730 --> 00:58:40,570
+m min, of course, being negative.
+
+1349
+00:58:40,570 --> 00:58:44,970
+And from m max and m min,
+
+1350
+00:58:44,970 --> 00:58:46,669
+we can bump up
+
+1351
+00:58:46,669 --> 00:58:47,790
+an integer
+
+1352
+00:58:47,790 --> 00:58:50,210
+or bump down an integer.
+
+1353
+00:58:50,210 --> 00:58:52,729
+And that now fixes for
+
+1354
+00:58:52,729 --> 00:58:55,249
+us some properties of a spectrum.
+
+1355
+00:58:55,249 --> 00:58:59,730
+It's got to be symmetrically located relative to zero,
+
+1356
+00:58:59,730 --> 00:59:02,710
+and it's got to be gapped or spaced by integers.
+
+1357
+00:59:02,710 --> 00:59:05,680
+There's only two possibilities. If you think about
+
+1358
+00:59:05,680 --> 00:59:08,650
+it for a few minutes, there's only two possibilities.
+
+1359
+00:59:08,650 --> 00:59:09,150
+Well, there's many possibilities, but
+
+1360
+00:59:09,150 --> 00:59:09,650
+they come in two families.
+
+1361
+00:59:09,650 --> 00:59:14,550
+The first, in the first family,
+
+1362
+00:59:14,550 --> 00:59:16,930
+zero is a possible value of
+
+1363
+00:59:16,930 --> 00:59:17,930
+m,
+
+1364
+00:59:17,930 --> 00:59:22,130
+this is m equals zero,
+
+1365
+00:59:22,130 --> 00:59:24,190
+and then m equals one,
+
+1366
+00:59:24,190 --> 00:59:27,309
+m equals minus one,
+
+1367
+00:59:27,309 --> 00:59:30,110
+and so forth until you get to m max,
+
+1368
+00:59:30,110 --> 00:59:33,710
+and until you get to m min.
+
+1369
+00:59:33,710 --> 00:59:36,749
+m max.
+
+1370
+00:59:36,749 --> 00:59:38,749
+Ta ta ta, ta ta ta.
+
+1371
+00:59:38,749 --> 00:59:39,550
+Ta ta ta ta, ta ta ta ta.
+
+1372
+00:59:39,650 --> 00:59:40,630
+M max.
+
+1373
+00:59:40,630 --> 00:59:41,330
+M max.
+
+1374
+00:59:41,330 --> 00:59:42,330
+Minus m max.
+
+1375
+00:59:42,330 --> 00:59:47,330
+How many such states are there altogether?
+
+1376
+00:59:47,330 --> 00:59:49,249
+Two.
+
+1377
+00:59:49,249 --> 00:59:52,170
+Yeah, two m max plus one.
+
+1378
+00:59:52,170 --> 00:59:54,670
+M max here, m max here,
+
+1379
+00:59:54,670 --> 00:59:57,170
+and then one more at the origin.
+
+1380
+00:59:57,170 --> 00:59:59,430
+Twice m max plus one,
+
+1381
+00:59:59,430 --> 01:00:02,129
+that's the number of possible states
+
+1382
+01:00:02,129 --> 01:00:04,930
+that are at the origin of the system,
+
+1383
+01:00:04,930 --> 01:00:07,470
+and then the number of possible states
+
+1384
+01:00:07,470 --> 01:00:08,730
+that are at the origin of the system.
+
+1385
+01:00:08,730 --> 01:00:09,129
+That's the number of possible states,
+
+1386
+01:00:09,130 --> 01:00:14,810
+because I haven't told you what m max is,
+
+1387
+01:00:14,810 --> 01:00:20,070
+but that's because m max could be anything
+
+1388
+01:00:20,070 --> 01:00:21,810
+depending on the specific particle
+
+1389
+01:00:21,810 --> 01:00:25,770
+or the specific object we're talking about.
+
+1390
+01:00:25,770 --> 01:00:31,770
+So specific particles have their own value of m max,
+
+1391
+01:00:31,770 --> 01:00:33,540
+and that m max is
+
+1392
+01:00:33,540 --> 01:00:35,310
+called the spin of the particle.
+
+1393
+01:00:35,310 --> 01:00:36,720
+For example, there are particles
+
+1394
+01:00:36,720 --> 01:00:38,130
+that have no spin at all.
+
+1395
+01:00:38,130 --> 01:00:39,130
+They're spinless.
+
+1396
+01:00:39,130 --> 01:00:46,010
+We're doing it an Alrighty Slam.
+
+1397
+01:00:46,010 --> 01:00:48,630
+Linear length of momentum.
+
+1398
+01:00:48,630 --> 01:00:52,850
+That's the solitary frequency.
+
+1399
+01:00:52,850 --> 01:00:55,050
+So what is just about theард.
+
+1400
+01:00:55,050 --> 01:00:59,710
+When you ghosts stay on the Lucker
+
+1401
+01:00:59,710 --> 01:01:04,370
+effect or when you hope upon a falta,
+
+1402
+01:01:04,370 --> 01:01:06,450
+you can get dis даже.
+
+1403
+01:01:06,450 --> 01:01:07,410
+科학研究角面
+
+1404
+01:01:07,410 --> 01:01:07,770
+and the Lagrangian extreme firmament in order.
+
+1405
+01:01:07,770 --> 01:01:08,270
+Linear length of momentum equals zero, and nothing else.
+
+1406
+01:01:08,270 --> 01:01:12,270
+That's spin one, called the spin one particle.
+
+1407
+01:01:12,270 --> 01:01:14,770
+You can have spin two particles, you
+
+1408
+01:01:14,770 --> 01:01:17,270
+can have spin three particles, and so forth.
+
+1409
+01:01:17,270 --> 01:01:22,270
+An example, the Higgs boson is a spin zero particle.
+
+1410
+01:01:22,270 --> 01:01:24,770
+The photon is a spin one particle, and
+
+1411
+01:01:24,770 --> 01:01:27,270
+the Z boson is a spin one particle.
+
+1412
+01:01:27,270 --> 01:01:29,770
+Are there spin two particles in nature?
+
+1413
+01:01:29,770 --> 01:01:32,270
+Well, the graviton is a spin two particle.
+
+1414
+01:01:32,270 --> 01:01:35,270
+How about spin three particles?
+
+1415
+01:01:35,270 --> 01:01:37,270
+No object that is ordinarily called
+
+1416
+01:01:37,270 --> 01:01:39,270
+an elementary particle is a spin three.
+
+1417
+01:01:39,270 --> 01:01:42,270
+But there are certainly objects with spin three.
+
+1418
+01:01:42,270 --> 01:01:45,270
+There are nuclei with spin three.
+
+1419
+01:01:45,270 --> 01:01:48,270
+There are basketballs with spin three.
+
+1420
+01:01:48,270 --> 01:01:50,270
+There are galaxies with spin
+
+1421
+01:01:50,270 --> 01:01:52,270
+three. Rather hard to find them.
+
+1422
+01:01:52,270 --> 01:01:55,270
+But, yeah, there are lots of objects with spin three.
+
+1423
+01:01:55,270 --> 01:01:58,270
+But among the elementary particles in nature,
+
+1424
+01:01:58,270 --> 01:02:02,270
+the things that we ordinarily call the elementary particles,
+
+1425
+01:02:02,270 --> 01:02:05,270
+spin zero, spin one, and spin three,
+
+1426
+01:02:05,270 --> 01:02:07,270
+spin two, spin two is in.
+
+1427
+01:02:07,270 --> 01:02:09,270
+Now that's not completely clear,
+
+1428
+01:02:09,270 --> 01:02:11,270
+because I missed a possibility.
+
+1429
+01:02:11,270 --> 01:02:13,770
+And the possibility was that n
+
+1430
+01:02:13,770 --> 01:02:16,270
+equals zero was not in the spectrum.
+
+1431
+01:02:16,270 --> 01:02:20,270
+The only other situation,
+
+1432
+01:02:20,270 --> 01:02:24,270
+which is symmetrical about the vertical,
+
+1433
+01:02:24,270 --> 01:02:27,270
+and which is gapped by integers, spaced by integers,
+
+1434
+01:02:27,270 --> 01:02:29,270
+let's put zero over here,
+
+1435
+01:02:29,270 --> 01:02:34,270
+is to start at n equals a half,
+
+1436
+01:02:34,270 --> 01:02:36,270
+and n equals minus a half,
+
+1437
+01:02:36,270 --> 01:02:38,270
+and then go upward
+
+1438
+01:02:40,270 --> 01:02:42,270
+in units of one.
+
+1439
+01:02:42,270 --> 01:02:44,270
+So this one would be three halves,
+
+1440
+01:02:44,270 --> 01:02:47,270
+this one would be minus three halves,
+
+1441
+01:02:47,270 --> 01:02:49,270
+and so forth,
+
+1442
+01:02:49,270 --> 01:02:52,270
+until you come to n max.
+
+1443
+01:02:52,270 --> 01:02:57,270
+In this case, all the eigenvalues would be half integers.
+
+1444
+01:02:59,270 --> 01:03:02,270
+The simplest example
+
+1445
+01:03:02,270 --> 01:03:04,270
+being just the half spin.
+
+1446
+01:03:04,270 --> 01:03:10,270
+Again, you describe the particle
+
+1447
+01:03:10,270 --> 01:03:15,270
+as having a spin equal to the maximum value.
+
+1448
+01:03:15,270 --> 01:03:18,270
+So an object which only has spin a half,
+
+1449
+01:03:18,270 --> 01:03:19,770
+or a z component equal to
+
+1450
+01:03:19,770 --> 01:03:21,270
+a half and minus a half,
+
+1451
+01:03:21,270 --> 01:03:23,770
+that's the simplest object with
+
+1452
+01:03:23,770 --> 01:03:26,270
+the half spin kind of spectrum,
+
+1453
+01:03:26,270 --> 01:03:29,270
+that's called a half spin particle.
+
+1454
+01:03:29,270 --> 01:03:31,270
+The next one would be called spin three halves particle,
+
+1455
+01:03:31,270 --> 01:03:33,270
+and spin five halves particle.
+
+1456
+01:03:33,270 --> 01:03:36,270
+The particles come in these two types,
+
+1457
+01:03:36,270 --> 01:03:39,270
+integer spin and half integer spin.
+
+1458
+01:03:39,270 --> 01:03:41,270
+Is there a question? No.
+
+1459
+01:03:41,270 --> 01:03:44,270
+Half integer spin and integer spin.
+
+1460
+01:03:44,270 --> 01:03:46,270
+Yeah?
+
+1461
+01:03:46,270 --> 01:03:48,270
+Is there a maximum half spin for
+
+1462
+01:03:48,270 --> 01:03:50,270
+a prop like a risk for a pulse?
+
+1463
+01:03:50,270 --> 01:03:51,270
+Yeah, yeah.
+
+1464
+01:03:51,270 --> 01:03:53,270
+But the only thing is that the
+
+1465
+01:03:53,270 --> 01:03:55,270
+maximum is going to be a half integer.
+
+1466
+01:03:55,270 --> 01:03:58,270
+It's going to be an integer.
+
+1467
+01:03:58,270 --> 01:03:59,770
+A spin three halves particle,
+
+1468
+01:03:59,770 --> 01:04:01,270
+a maximum would be three halves.
+
+1469
+01:04:01,270 --> 01:04:02,770
+A spin five halves particle, a
+
+1470
+01:04:02,770 --> 01:04:04,270
+spin maximum would be five halves.
+
+1471
+01:04:04,270 --> 01:04:06,270
+You're talking about elementary particles.
+
+1472
+01:04:06,270 --> 01:04:09,270
+You're saying there's none of spin three or higher.
+
+1473
+01:04:09,270 --> 01:04:10,270
+Yeah.
+
+1474
+01:04:10,270 --> 01:04:12,270
+Oh, yeah.
+
+1475
+01:04:12,270 --> 01:04:19,270
+In all speculations about elementary particles,
+
+1476
+01:04:19,270 --> 01:04:22,270
+basically a combination of Lorentz invariants,
+
+1477
+01:04:22,270 --> 01:04:25,270
+quantum mechanics, and a few other things
+
+1478
+01:04:25,270 --> 01:04:27,270
+tell you that there are no particles,
+
+1479
+01:04:27,270 --> 01:04:30,270
+elementary particles, that spin higher than two.
+
+1480
+01:04:30,270 --> 01:04:34,270
+That will allow zero, one, and two,
+
+1481
+01:04:34,270 --> 01:04:37,270
+and it will allow a half and three halves.
+
+1482
+01:04:37,270 --> 01:04:41,270
+So all the standard particles of elementary particle physics
+
+1483
+01:04:41,270 --> 01:04:47,270
+are zero, a half, one, three halves, and two.
+
+1484
+01:04:47,270 --> 01:04:50,270
+But you can build composite objects, yeah.
+
+1485
+01:04:50,270 --> 01:04:54,270
+Your line there allows for negative spin values.
+
+1486
+01:04:54,270 --> 01:04:57,270
+Well, negative spin values just
+
+1487
+01:04:57,270 --> 01:05:00,270
+means rotated around the axis.
+
+1488
+01:05:00,270 --> 01:05:02,270
+That's what I was pointing down.
+
+1489
+01:05:02,270 --> 01:05:03,770
+And we characterize the particle by
+
+1490
+01:05:03,770 --> 01:05:05,270
+the maximum value of the spin,
+
+1491
+01:05:05,270 --> 01:05:07,270
+meaning the maximum positive value.
+
+1492
+01:05:07,270 --> 01:05:10,270
+So let me go kind of way off topic here.
+
+1493
+01:05:10,270 --> 01:05:14,270
+So why are there only, say, two orientations?
+
+1494
+01:05:14,270 --> 01:05:16,270
+Who said there are two?
+
+1495
+01:05:16,270 --> 01:05:18,270
+There's been zero particles or none.
+
+1496
+01:05:18,270 --> 01:05:20,270
+Okay, two or...
+
+1497
+01:05:20,270 --> 01:05:24,270
+There's been three particles or three.
+
+1498
+01:05:24,270 --> 01:05:26,270
+I know what you're asking.
+
+1499
+01:05:26,270 --> 01:05:28,270
+You're asking what happens to the directions in between.
+
+1500
+01:05:28,270 --> 01:05:29,270
+You're asking that?
+
+1501
+01:05:29,270 --> 01:05:30,270
+Yeah.
+
+1502
+01:05:30,270 --> 01:05:32,270
+Let's talk about that.
+
+1503
+01:05:32,270 --> 01:05:33,270
+That's where quantum...
+
+1504
+01:05:33,270 --> 01:05:35,270
+That's quantum mechanics in your face.
+
+1505
+01:05:35,270 --> 01:05:36,270
+Okay, that's...
+
+1506
+01:05:36,270 --> 01:05:38,270
+Let me add one to that.
+
+1507
+01:05:38,270 --> 01:05:39,270
+Yeah, we'll come to that.
+
+1508
+01:05:39,270 --> 01:05:40,270
+That's not off topic at all.
+
+1509
+01:05:40,270 --> 01:05:42,270
+Okay, let me ask one more.
+
+1510
+01:05:42,270 --> 01:05:43,270
+Let me add to that
+
+1511
+01:05:43,270 --> 01:05:44,270
+when we get to that topic,
+
+1512
+01:05:44,270 --> 01:05:49,270
+which is what about, like, corkscrew waves?
+
+1513
+01:05:49,270 --> 01:05:52,270
+A corkscrew motion is a
+
+1514
+01:05:52,270 --> 01:05:55,270
+motion which is moving and rotating.
+
+1515
+01:05:55,270 --> 01:05:57,270
+So waves versus...
+
+1516
+01:05:57,270 --> 01:05:59,270
+An electromagnetic wave can be a corkscrew wave.
+
+1517
+01:05:59,270 --> 01:06:00,270
+Yeah.
+
+1518
+01:06:00,270 --> 01:06:02,270
+Meaning circular polarization.
+
+1519
+01:06:02,270 --> 01:06:04,270
+Circularly polarized waves.
+
+1520
+01:06:04,270 --> 01:06:07,270
+Yeah, currently all our waves, all
+
+1521
+01:06:07,270 --> 01:06:10,270
+our math, are in classical waveforms.
+
+1522
+01:06:10,270 --> 01:06:11,270
+Yeah, yeah, yeah.
+
+1523
+01:06:11,270 --> 01:06:16,270
+But nevertheless, a circularly polarized photon is one with a spin angular
+
+1524
+01:06:16,270 --> 01:06:21,270
+momentum along the axis going in exactly the direction that you can.
+
+1525
+01:06:21,270 --> 01:06:24,270
+A circularly polarized wave is
+
+1526
+01:06:24,270 --> 01:06:27,270
+composed of circularly polarized photons,
+
+1527
+01:06:27,270 --> 01:06:28,270
+and a circularly polarized photon
+
+1528
+01:06:28,270 --> 01:06:29,270
+is a circularly polarized wave.
+
+1529
+01:06:29,270 --> 01:06:33,756
+A circularly polarized photon means one whose angular
+
+1530
+01:06:33,756 --> 01:06:38,242
+momentum along that axis is pointing along that axis.
+
+1531
+01:06:38,242 --> 01:06:38,742
+來
+
+1532
+01:06:38,762 --> 01:06:45,262
+To talk about objects at rest, which is what we're talking about now, it doesn't make sense to
+
+1533
+01:06:45,262 --> 01:06:51,762
+talk about corkscrew motion because corkscrew really has to do with simultaneous rotation and motion along an axis.
+
+1534
+01:06:51,762 --> 01:06:55,262
+So at the moment, the object you're
+
+1535
+01:06:55,262 --> 01:06:58,762
+hunting for, the mathematical term, is helicity.
+
+1536
+01:06:58,762 --> 01:07:03,262
+Helicity has got to do with the orientation
+
+1537
+01:07:03,262 --> 01:07:07,762
+of the spin relative to the direction of motion.
+
+1538
+01:07:07,762 --> 01:07:10,762
+We'll come to that very, very important concept.
+
+1539
+01:07:10,762 --> 01:07:12,762
+Is there an elementary particle that
+
+1540
+01:07:12,762 --> 01:07:14,762
+we know that has three halves spin?
+
+1541
+01:07:14,762 --> 01:07:21,762
+Depends on whether we're...define the term, no.
+
+1542
+01:07:21,762 --> 01:07:24,762
+No electron.
+
+1543
+01:07:24,762 --> 01:07:27,762
+That we measured or that we have hundreds of them?
+
+1544
+01:07:27,762 --> 01:07:29,762
+Hundreds, I guess.
+
+1545
+01:07:29,762 --> 01:07:34,762
+It's a matter of speculation.
+
+1546
+01:07:34,762 --> 01:07:36,762
+Speculation is to...
+
+1547
+01:07:36,762 --> 01:07:37,762
+To...
+
+1548
+01:07:37,762 --> 01:07:38,762
+Wrong word.
+
+1549
+01:07:38,762 --> 01:07:39,762
+Conjecture.
+
+1550
+01:07:39,762 --> 01:07:45,762
+It's a matter of conjecture that there exists a supersymmetric partner
+
+1551
+01:07:45,762 --> 01:07:51,762
+of the graviton, which is called the gravitino, which has three halves.
+
+1552
+01:07:51,762 --> 01:07:55,762
+That has not and will never be experimentally detected.
+
+1553
+01:07:58,762 --> 01:08:01,762
+If you use L-scoop...
+
+1554
+01:08:01,762 --> 01:08:04,762
+I have a question.
+
+1555
+01:08:04,762 --> 01:08:06,762
+Directly detected.
+
+1556
+01:08:06,762 --> 01:08:07,762
+Directly detected.
+
+1557
+01:08:07,762 --> 01:08:16,261
+At this point, the Ls are no longer acting like their original definition,
+
+1558
+01:08:16,261 --> 01:08:24,761
+because if you just plug their original definition in, you wouldn't get these limits.
+
+1559
+01:08:24,761 --> 01:08:27,761
+So there must be a difference.
+
+1560
+01:08:27,761 --> 01:08:28,761
+Well, the original definition...
+
+1561
+01:08:28,761 --> 01:08:31,761
+It looks like there's no longer acting on the
+
+1562
+01:08:31,761 --> 01:08:34,761
+original space of the psi functions that we had.
+
+1563
+01:08:34,761 --> 01:08:36,761
+Somehow there's a new...
+
+1564
+01:08:36,761 --> 01:08:37,761
+Psi functions.
+
+1565
+01:08:37,761 --> 01:08:40,761
+The original space of Ketz.
+
+1566
+01:08:40,761 --> 01:08:43,261
+No, we didn't know what
+
+1567
+01:08:43,261 --> 01:08:45,761
+the original space of Ketz was.
+
+1568
+01:08:45,761 --> 01:08:47,761
+We didn't know what the original space...
+
+1569
+01:08:47,761 --> 01:08:48,761
+Okay, well, if you take...
+
+1570
+01:08:48,761 --> 01:08:51,761
+What we're deducing is the properties of that space.
+
+1571
+01:08:51,761 --> 01:08:52,761
+Okay.
+
+1572
+01:08:52,761 --> 01:08:53,761
+That's what we're doing.
+
+1573
+01:08:53,761 --> 01:08:54,761
+We didn't know what the original space was.
+
+1574
+01:08:54,761 --> 01:08:58,261
+It's not the space that you
+
+1575
+01:08:58,261 --> 01:09:01,761
+usually take in elementary quantum Ketz.
+
+1576
+01:09:01,761 --> 01:09:02,761
+No.
+
+1577
+01:09:02,761 --> 01:09:03,761
+No.
+
+1578
+01:09:03,761 --> 01:09:04,761
+It's not the new.
+
+1579
+01:09:04,761 --> 01:09:05,761
+This is spin space.
+
+1580
+01:09:05,761 --> 01:09:06,761
+So, you're going to tell us what the space is?
+
+1581
+01:09:06,761 --> 01:09:07,761
+Oh, it is the space of these integers.
+
+1582
+01:09:07,761 --> 01:09:08,761
+That's it.
+
+1583
+01:09:08,761 --> 01:09:14,261
+For a particle of spin M, the
+
+1584
+01:09:14,261 --> 01:09:19,761
+space is that the basis vectors are...
+
+1585
+01:09:19,761 --> 01:09:21,761
+You specify what a state is
+
+1586
+01:09:21,761 --> 01:09:23,761
+by saying what its basis vectors are.
+
+1587
+01:09:23,761 --> 01:09:27,261
+Its basis vectors are simply labeled with
+
+1588
+01:09:27,261 --> 01:09:30,761
+the values of M along its axis.
+
+1589
+01:09:30,761 --> 01:09:31,761
+That's it.
+
+1590
+01:09:31,761 --> 01:09:32,761
+That's...
+
+1591
+01:09:32,761 --> 01:09:35,761
+If you took the absolute value of L,
+
+1592
+01:09:35,761 --> 01:09:38,761
+that vector, is that an observable quantity and
+
+1593
+01:09:38,761 --> 01:09:39,761
+would you get...
+
+1594
+01:09:39,761 --> 01:09:40,761
+It is.
+
+1595
+01:09:40,761 --> 01:09:41,761
+It is.
+
+1596
+01:09:41,761 --> 01:09:42,761
+So, let's...
+
+1597
+01:09:42,761 --> 01:09:43,761
+All right.
+
+1598
+01:09:43,761 --> 01:09:44,761
+So, let me tell you what's true.
+
+1599
+01:09:44,761 --> 01:09:45,761
+Okay.
+
+1600
+01:09:45,761 --> 01:09:50,261
+Instead of the absolute value, let's take
+
+1601
+01:09:50,261 --> 01:09:54,762
+the sums of the squares of the components
+
+1602
+01:09:54,762 --> 01:09:57,762
+and see what we can find out about that.
+
+1603
+01:09:57,762 --> 01:10:00,762
+I'm going to try to do it without my notes.
+
+1604
+01:10:00,762 --> 01:10:02,762
+Let's take L-squared.
+
+1605
+01:10:02,762 --> 01:10:07,762
+You might think that L-squared is just M-max-squared.
+
+1606
+01:10:07,762 --> 01:10:10,762
+That would make sense, right?
+
+1607
+01:10:10,762 --> 01:10:13,762
+You take the spin and you point it directly upward.
+
+1608
+01:10:13,762 --> 01:10:17,262
+The problem with that is that you can't
+
+1609
+01:10:17,262 --> 01:10:20,762
+know the Z-component and the X and Y-component simultaneously.
+
+1610
+01:10:20,762 --> 01:10:23,762
+So, if you know the Z-component is vertically
+
+1611
+01:10:23,762 --> 01:10:26,762
+upward at M-max, there's bound to be some uncertainty
+
+1612
+01:10:26,762 --> 01:10:28,762
+in the X and Y-component.
+
+1613
+01:10:28,762 --> 01:10:29,762
+All right.
+
+1614
+01:10:29,762 --> 01:10:33,262
+So, that uncertainty in the X and
+
+1615
+01:10:33,262 --> 01:10:36,762
+Y-component will tell you that L-X-squared plus L-Y-squared
+
+1616
+01:10:36,762 --> 01:10:39,762
+plus L-Z-squared will not quite be M-max-squared.
+
+1617
+01:10:39,762 --> 01:10:40,762
+Right.
+
+1618
+01:10:40,762 --> 01:10:41,762
+You'll have a little extra.
+
+1619
+01:10:41,762 --> 01:10:42,762
+So, let's compute it.
+
+1620
+01:10:42,762 --> 01:10:43,762
+That's a fun thing to compute.
+
+1621
+01:10:43,762 --> 01:10:44,762
+Let's see.
+
+1622
+01:10:44,762 --> 01:10:49,262
+I was going to do it without my notes,
+
+1623
+01:10:49,262 --> 01:10:53,762
+but there's always one thing which I have to go
+
+1624
+01:10:53,762 --> 01:10:54,762
+through to remember.
+
+1625
+01:10:54,762 --> 01:10:55,762
+Yeah.
+
+1626
+01:10:55,762 --> 01:10:56,762
+Okay.
+
+1627
+01:10:56,762 --> 01:10:57,762
+Let's take L-squared.
+
+1628
+01:10:57,762 --> 01:10:58,262
+L-squared is the sum of the sum of the sum of
+
+1629
+01:10:58,262 --> 01:10:58,762
+the sum of the sum of the sum of the sum of
+
+1630
+01:10:58,762 --> 01:10:59,762
+the signs of what L-squared is, right.
+
+1631
+01:10:59,762 --> 01:11:00,762
+And this defined as the L-既-squared.
+
+1632
+01:11:00,762 --> 01:11:01,762
+It's ajal and...
+
+1633
+01:11:01,762 --> 01:11:02,762
+Yeah.
+
+1634
+01:11:02,762 --> 01:11:23,262
+...and its
+
+1635
+01:11:23,262 --> 01:11:24,762
+or的话.
+
+1636
+01:11:24,762 --> 01:11:25,762
+And if I....
+
+1637
+01:11:25,762 --> 01:11:26,762
+If I feel that...
+
+1638
+01:11:26,762 --> 01:11:27,762
+Um....
+
+1639
+01:11:27,762 --> 01:11:31,002
+classically. But not quite true
+
+1640
+01:11:31,002 --> 01:11:34,242
+quantum mechanically because there's this extra
+
+1641
+01:11:34,242 --> 01:11:38,622
+commutator term. The extra commutator term, L
+
+1642
+01:11:38,622 --> 01:11:43,002
+plus L minus, is not equal exactly
+
+1643
+01:11:43,002 --> 01:11:46,922
+to Lx squared plus Ly squared. It's in
+
+1644
+01:11:46,922 --> 01:11:50,842
+fact Lx squared plus Ly squared plus a
+
+1645
+01:11:50,842 --> 01:11:54,942
+term coming from the commutator of Lx with
+
+1646
+01:11:54,942 --> 01:11:59,042
+Ly. So let me write down what that
+
+1647
+01:11:59,042 --> 01:12:02,432
+extra term is. What's the commutator of Lx
+
+1648
+01:12:02,432 --> 01:12:05,822
+with Ly? It's got to do with Lz.
+
+1649
+01:12:06,582 --> 01:12:09,242
+There's an I over here, but the commutator also
+
+1650
+01:12:09,242 --> 01:12:11,902
+has an I in it, so the I's are going
+
+1651
+01:12:11,902 --> 01:12:15,291
+to cancel. And if you work it out,
+
+1652
+01:12:15,291 --> 01:12:18,681
+you'll find out that it's just plus that
+
+1653
+01:12:18,681 --> 01:12:20,822
+elsewhere.
+
+1654
+01:12:20,842 --> 01:12:25,652
+Let's see, that L plus L minus is
+
+1655
+01:12:25,652 --> 01:12:30,462
+Lx squared plus Ly squared, I think it's
+
+1656
+01:12:30,462 --> 01:12:35,011
+minus Lz. And that means that L squared
+
+1657
+01:12:35,011 --> 01:12:39,561
+has another term in it which is just
+
+1658
+01:12:39,561 --> 01:12:42,761
+plus Lz. It's definitely plus over here.
+
+1659
+01:12:42,761 --> 01:12:45,962
+I think it's minus. It's just an extra
+
+1660
+01:12:45,962 --> 01:12:47,922
+term coming from that commutator.
+
+1661
+01:12:47,922 --> 01:12:49,882
+The little mistake we made,
+
+1662
+01:12:50,842 --> 01:12:53,722
+when we said that L plus times
+
+1663
+01:12:53,722 --> 01:12:56,602
+L minus is Lx squared plus Ly squared.
+
+1664
+01:12:56,602 --> 01:12:58,912
+We made a little mistake, and the
+
+1665
+01:12:58,912 --> 01:13:01,222
+little mistake is proportional to Lz, and here's
+
+1666
+01:13:01,222 --> 01:13:05,912
+how it comes in. Okay, now let's take
+
+1667
+01:13:05,912 --> 01:13:10,602
+L squared and operate on a state which is
+
+1668
+01:13:10,602 --> 01:13:15,641
+M max, which has the maximum eigenvalue of M.
+
+1669
+01:13:15,641 --> 01:13:20,681
+What do we get? L squared on that is
+
+1670
+01:13:20,682 --> 01:13:27,562
+equal to L minus L plus on M max
+
+1671
+01:13:27,562 --> 01:13:34,442
+plus, what do I get when Lz hits M max?
+
+1672
+01:13:34,442 --> 01:13:39,562
+M max. So here we get plus M max squared
+
+1673
+01:13:39,562 --> 01:13:44,682
+plus M max times the ket value. So we get
+
+1674
+01:13:44,682 --> 01:13:47,682
+M max squared plus M max.
+
+1675
+01:13:47,682 --> 01:13:48,682
+Okay.
+
+1676
+01:13:48,682 --> 01:13:49,682
+Okay.
+
+1677
+01:13:49,682 --> 01:13:50,682
+Okay.
+
+1678
+01:13:50,682 --> 01:13:51,682
+Okay.
+
+1679
+01:13:51,682 --> 01:13:52,682
+Okay.
+
+1680
+01:13:52,682 --> 01:13:53,682
+Okay.
+
+1681
+01:13:53,682 --> 01:13:54,682
+Okay.
+
+1682
+01:13:54,682 --> 01:13:55,682
+Okay.
+
+1683
+01:13:55,682 --> 01:13:56,682
+Okay.
+
+1684
+01:13:56,682 --> 01:13:57,682
+Now what about this vector M max? What about
+
+1685
+01:13:57,682 --> 01:13:58,692
+this? I went through all this effort, but
+
+1686
+01:13:58,692 --> 01:13:59,702
+I'm still left with something. I don't know
+
+1687
+01:13:59,702 --> 01:14:00,702
+what it is.
+
+1688
+01:14:00,702 --> 01:14:01,702
+Zero.
+
+1689
+01:14:01,702 --> 01:14:02,702
+Zero.
+
+1690
+01:14:02,702 --> 01:14:04,162
+But I do know what it is because
+
+1691
+01:14:04,162 --> 01:14:05,622
+L plus, when it hits M max, has no
+
+1692
+01:14:05,622 --> 01:14:09,662
+where to go. All right? We've reached the
+
+1693
+01:14:09,662 --> 01:14:13,702
+ceiling. This is zero. So what have we found
+
+1694
+01:14:13,702 --> 01:14:17,172
+out? We've found out that the eigenvalue of
+
+1695
+01:14:17,172 --> 01:14:20,642
+L squared for this state up here is zero.
+
+1696
+01:14:20,642 --> 01:14:30,022
+just n max squared plus n max. In other words, n
+
+1697
+01:14:30,022 --> 01:14:39,402
+max times n max plus 1. n max times n max
+
+1698
+01:14:39,402 --> 01:14:43,112
+plus 1. Not n max squared. n max times
+
+1699
+01:14:43,112 --> 01:14:46,822
+n max squared plus 1. Classically, it would just
+
+1700
+01:14:46,822 --> 01:14:50,262
+be n max squared, the maximum value. But
+
+1701
+01:14:50,262 --> 01:14:53,702
+because of the fluctuation, because of the uncertainty
+
+1702
+01:14:53,702 --> 01:14:56,722
+principle, which says that things which
+
+1703
+01:14:56,722 --> 01:14:59,742
+don't commute can't simultaneously be specified,
+
+1704
+01:14:59,982 --> 01:15:02,232
+there's got to be some fluctuation in
+
+1705
+01:15:02,232 --> 01:15:04,482
+them, and that fluctuation manifests itself by a
+
+1706
+01:15:04,482 --> 01:15:07,262
+little shift here. Okay, so let's take the
+
+1707
+01:15:07,262 --> 01:15:10,042
+case, for example, of a spin zero particle.
+
+1708
+01:15:10,722 --> 01:15:13,402
+What is l squared for a spin zero
+
+1709
+01:15:13,402 --> 01:15:16,082
+particle? Wow, that's not interesting. n max is zero
+
+1710
+01:15:16,082 --> 01:15:16,801
+in that case.
+
+1711
+01:15:16,821 --> 01:15:22,321
+It's just zero. Good. What about a spin
+
+1712
+01:15:22,321 --> 01:15:27,822
+one particle? It turns out to be two. What
+
+1713
+01:15:27,822 --> 01:15:30,971
+about a spin a half particle? A half times
+
+1714
+01:15:30,971 --> 01:15:34,121
+three halves is three quarters. So for a spin,
+
+1715
+01:15:35,121 --> 01:15:37,741
+what about a spin thousand particle?
+
+1716
+01:15:42,881 --> 01:15:46,802
+Well, yeah, that's right. If n max is big enough,
+
+1717
+01:15:46,822 --> 01:15:49,612
+this little shift is not important. You know, if
+
+1718
+01:15:49,612 --> 01:15:52,402
+we take a spin of 100 billion billion billion,
+
+1719
+01:15:52,881 --> 01:15:55,621
+we're just going to get the square
+
+1720
+01:15:55,621 --> 01:15:58,361
+of it plus a tiny irrelevant little change.
+
+1721
+01:15:58,981 --> 01:16:02,451
+So classically, it's a very good approximation that l
+
+1722
+01:16:02,451 --> 01:16:05,922
+squared is just a max. Now, if you worked out,
+
+1723
+01:16:05,961 --> 01:16:08,221
+you can do this, you can work out
+
+1724
+01:16:08,221 --> 01:16:10,481
+l squared on each one of these states,
+
+1725
+01:16:11,262 --> 01:16:13,262
+and you'll get the same value.
+
+1726
+01:16:13,581 --> 01:16:15,151
+All of these states have
+
+1727
+01:16:15,151 --> 01:16:16,721
+the same value of l squared.
+
+1728
+01:16:16,822 --> 01:16:18,822
+So you can get the same value of l squared.
+
+1729
+01:16:18,822 --> 01:16:22,822
+That is the quantum mechanical analog of the statement that when
+
+1730
+01:16:22,822 --> 01:16:26,822
+you rotate the particle to change its z component of angular momentum,
+
+1731
+01:16:26,822 --> 01:16:28,822
+it doesn't change the square of it.
+
+1732
+01:16:28,822 --> 01:16:30,822
+It doesn't change the magnitude of it.
+
+1733
+01:16:30,822 --> 01:16:35,822
+So that's a little exercise you could work out
+
+1734
+01:16:35,822 --> 01:16:40,822
+using, again, just the commutation relations of the angular momentum.
+
+1735
+01:16:40,822 --> 01:16:43,351
+Can you know the square of the
+
+1736
+01:16:43,351 --> 01:16:45,881
+angular momentum and the z component simultaneously?
+
+1737
+01:16:45,881 --> 01:16:46,381
+Yes.
+
+1738
+01:16:46,382 --> 01:16:47,462
+Yes.
+
+1739
+01:16:47,462 --> 01:16:49,842
+You can, and you can check that
+
+1740
+01:16:49,842 --> 01:16:52,222
+by computing the commutator of l squared
+
+1741
+01:16:52,802 --> 01:16:55,662
+with the individual components of the angular momentum.
+
+1742
+01:16:56,382 --> 01:17:00,032
+What you'll find is that the commutator of
+
+1743
+01:17:00,032 --> 01:17:03,682
+l squared with any one of the components
+
+1744
+01:17:04,322 --> 01:17:06,322
+is equal to zero.
+
+1745
+01:17:07,002 --> 01:17:09,882
+So that means, although you cannot know
+
+1746
+01:17:10,882 --> 01:17:14,182
+two components of the angular momentum simultaneously,
+
+1747
+01:17:14,382 --> 01:17:16,182
+you can know a
+
+1748
+01:17:16,182 --> 01:17:18,682
+component and the total square
+
+1749
+01:17:18,682 --> 01:17:21,182
+value of the angular momentum.
+
+1750
+01:17:21,182 --> 01:17:25,182
+Every electron has a square spin
+
+1751
+01:17:25,182 --> 01:17:29,182
+angular momentum equal to three quarters.
+
+1752
+01:17:29,182 --> 01:17:33,182
+Every electron has the same value,
+
+1753
+01:17:33,182 --> 01:17:35,182
+and it doesn't matter which
+
+1754
+01:17:35,182 --> 01:17:37,182
+play way the electron is oriented.
+
+1755
+01:17:41,182 --> 01:17:43,182
+You said that the spin one, the l
+
+1756
+01:17:43,182 --> 01:17:45,182
+squared is going to be zero for all?
+
+1757
+01:17:45,182 --> 01:17:47,182
+Or just in the zero case?
+
+1758
+01:17:47,182 --> 01:17:48,182
+No.
+
+1759
+01:17:48,182 --> 01:17:51,182
+l squared is zero for the spin zero case.
+
+1760
+01:17:51,182 --> 01:17:52,182
+Okay.
+
+1761
+01:17:52,182 --> 01:17:53,182
+Spin zero only has one state.
+
+1762
+01:17:53,182 --> 01:17:54,182
+It's got angular momentum zero.
+
+1763
+01:17:54,182 --> 01:17:57,182
+And this is n equals one, the l squared?
+
+1764
+01:17:57,182 --> 01:17:59,182
+l squared is two, I think.
+
+1765
+01:17:59,182 --> 01:18:01,182
+One times one plus one.
+
+1766
+01:18:01,182 --> 01:18:02,182
+Right.
+
+1767
+01:18:02,182 --> 01:18:04,182
+And for spin three, what is it?
+
+1768
+01:18:04,182 --> 01:18:11,182
+L times l plus one is three times four.
+
+1769
+01:18:11,182 --> 01:18:13,182
+Twelve.
+
+1770
+01:18:13,182 --> 01:18:16,182
+You said that, I'm trying to see how it's
+
+1771
+01:18:16,182 --> 01:18:19,182
+always the same no matter which level you take.
+
+1772
+01:18:19,182 --> 01:18:20,182
+Oh, that you have to work out.
+
+1773
+01:18:20,182 --> 01:18:21,182
+So how do you work it out?
+
+1774
+01:18:21,182 --> 01:18:23,182
+You work it out by
+
+1775
+01:18:23,182 --> 01:18:25,182
+saying, let me take m max,
+
+1776
+01:18:27,182 --> 01:18:29,182
+and now hit it with l minus.
+
+1777
+01:18:30,182 --> 01:18:32,182
+This gives me m max, this
+
+1778
+01:18:32,182 --> 01:18:34,182
+gives me the next one down.
+
+1779
+01:18:34,182 --> 01:18:36,182
+Right, m max minus one.
+
+1780
+01:18:40,182 --> 01:18:42,182
+And then hit it with l squared.
+
+1781
+01:18:43,182 --> 01:18:45,182
+And use the tricks.
+
+1782
+01:18:45,182 --> 01:18:47,182
+Use the algebraic tricks.
+
+1783
+01:18:47,182 --> 01:18:50,182
+And show that when you hit it with l
+
+1784
+01:18:50,182 --> 01:18:53,182
+squared, it just gives you the same i-git value.
+
+1785
+01:18:53,182 --> 01:18:55,182
+The same as?
+
+1786
+01:18:55,182 --> 01:18:59,682
+The algebraic statement is that l squared
+
+1787
+01:18:59,682 --> 01:19:04,182
+on the thing in the red box,
+
+1788
+01:19:04,182 --> 01:19:05,682
+again, draw a red box around
+
+1789
+01:19:05,682 --> 01:19:07,182
+the vector that you're interested in,
+
+1790
+01:19:07,182 --> 01:19:10,182
+that this is equal,
+
+1791
+01:19:10,182 --> 01:19:11,182
+this is equal to,
+
+1792
+01:19:11,182 --> 01:19:12,182
+this is equal to,
+
+1793
+01:19:12,182 --> 01:19:16,182
+this is equal to,
+
+1794
+01:19:19,182 --> 01:19:24,182
+m max times m max plus one,
+
+1795
+01:19:27,182 --> 01:19:31,182
+m max, not m ax, m max,
+
+1796
+01:19:33,182 --> 01:19:36,182
+m max, m max plus one,
+
+1797
+01:19:37,182 --> 01:19:39,182
+times the thing in the red box.
+
+1798
+01:19:42,182 --> 01:19:46,182
+And then you get the formula.
+
+1799
+01:19:46,182 --> 01:19:49,182
+Alright, that l squared has exactly the same
+
+1800
+01:19:49,182 --> 01:19:52,182
+i-git value as it had for m max itself.
+
+1801
+01:19:52,182 --> 01:19:55,182
+Yeah, and you get that from the formula over there?
+
+1802
+01:19:55,182 --> 01:19:58,182
+You get that from manipulating the operators.
+
+1803
+01:19:58,182 --> 01:20:01,182
+You get that from manipulating the operators.
+
+1804
+01:20:01,182 --> 01:20:04,182
+You use, yeah, you use this formula here,
+
+1805
+01:20:06,182 --> 01:20:07,182
+and manipulate it,
+
+1806
+01:20:08,182 --> 01:20:10,182
+and fiddle around with it, and,
+
+1807
+01:20:10,182 --> 01:20:11,182
+and square it.
+
+1808
+01:20:11,182 --> 01:20:14,182
+Yeah, it takes a few minutes of work.
+
+1809
+01:20:14,182 --> 01:20:15,182
+Okay.
+
+1810
+01:20:15,182 --> 01:20:18,182
+It also follows from the fact that l
+
+1811
+01:20:18,182 --> 01:20:21,182
+squared commutes with l plus and l minus.
+
+1812
+01:20:21,182 --> 01:20:26,182
+It commutes with all the components of the angular momentum,
+
+1813
+01:20:26,182 --> 01:20:28,182
+so it commutes with l plus and l minus,
+
+1814
+01:20:28,182 --> 01:20:30,182
+and it just follows from that.
+
+1815
+01:20:30,182 --> 01:20:33,182
+So, yeah, they all have the same squared angular momentum.
+
+1816
+01:20:37,182 --> 01:20:38,682
+Alright, let's talk about
+
+1817
+01:20:38,682 --> 01:20:40,182
+rotational invariants, not in detail.
+
+1818
+01:20:40,182 --> 01:20:42,182
+I'm not going to talk about it in detail.
+
+1819
+01:20:42,182 --> 01:20:44,182
+That'll be for another time.
+
+1820
+01:20:45,182 --> 01:20:48,682
+But we seem to have nothing but some
+
+1821
+01:20:48,682 --> 01:20:52,182
+discrete states of angular momentum along the z-axis.
+
+1822
+01:20:53,182 --> 01:20:55,182
+What about rotating that?
+
+1823
+01:20:56,182 --> 01:20:59,682
+If we rotated it, wouldn't we get angular
+
+1824
+01:20:59,682 --> 01:21:03,182
+momentum which had fractional value along the z-axis,
+
+1825
+01:21:03,182 --> 01:21:06,182
+and maybe some components in the other direction?
+
+1826
+01:21:06,182 --> 01:21:07,682
+So, for that, let's concentrate
+
+1827
+01:21:07,682 --> 01:21:09,182
+for simplicity on the space-time.
+
+1828
+01:21:10,182 --> 01:21:12,182
+Let's call it the spin-and-half case.
+
+1829
+01:21:12,182 --> 01:21:17,182
+In the spin-and-half case, the spin-and-half particle,
+
+1830
+01:21:17,182 --> 01:21:20,182
+the spin angular momentum, has only two states.
+
+1831
+01:21:20,182 --> 01:21:23,182
+It's not true that an electron has only two states.
+
+1832
+01:21:25,182 --> 01:21:26,682
+It has an orbital motion, and
+
+1833
+01:21:26,682 --> 01:21:28,182
+it has a spin angular momentum.
+
+1834
+01:21:28,182 --> 01:21:31,182
+Let's just concentrate on the spin and nothing else.
+
+1835
+01:21:31,182 --> 01:21:33,182
+Then, concentrating on the
+
+1836
+01:21:33,182 --> 01:21:35,182
+spin, there's only two possibilities,
+
+1837
+01:21:35,182 --> 01:21:39,182
+up and down, half spin up, half spin down.
+
+1838
+01:21:39,182 --> 01:21:41,182
+Let's call them...
+
+1839
+01:21:41,182 --> 01:21:43,182
+I don't like using red for equations.
+
+1840
+01:21:44,182 --> 01:21:50,182
+Let's call them up, plus, and down, minus.
+
+1841
+01:21:52,182 --> 01:21:55,182
+These are the two basis states for
+
+1842
+01:21:55,182 --> 01:21:58,182
+the spin angular momentum along the z-axis.
+
+1843
+01:21:58,182 --> 01:22:00,182
+But there are certainly many more
+
+1844
+01:22:00,182 --> 01:22:02,182
+states that I can write down.
+
+1845
+01:22:03,182 --> 01:22:05,182
+These are not the only states I can write.
+
+1846
+01:22:05,182 --> 01:22:08,182
+In fact, the general quantum state of a system
+
+1847
+01:22:09,182 --> 01:22:12,182
+is to add two states like this,
+
+1848
+01:22:12,182 --> 01:22:16,182
+is to add them with complex numbers.
+
+1849
+01:22:20,182 --> 01:22:22,182
+Alpha and beta are complex numbers.
+
+1850
+01:22:22,182 --> 01:22:25,182
+What is the probability in such
+
+1851
+01:22:25,182 --> 01:22:28,182
+a state that the spin is alpha?
+
+1852
+01:22:28,182 --> 01:22:30,182
+Alpha star alpha.
+
+1853
+01:22:32,182 --> 01:22:36,182
+Probability for alpha
+
+1854
+01:22:36,182 --> 01:22:38,182
+equals alpha star alpha,
+
+1855
+01:22:39,182 --> 01:22:42,182
+and the probability for down
+
+1856
+01:22:42,182 --> 01:22:44,182
+is equal to beta star beta.
+
+1857
+01:22:46,182 --> 01:22:48,182
+We add them together.
+
+1858
+01:22:48,182 --> 01:22:50,182
+Total probability has to be one.
+
+1859
+01:22:50,182 --> 01:22:52,182
+And so one of the rules is
+
+1860
+01:22:52,182 --> 01:22:54,182
+alpha star alpha
+
+1861
+01:22:54,182 --> 01:22:56,182
+plus beta star beta
+
+1862
+01:22:57,182 --> 01:22:58,182
+equals one.
+
+1863
+01:22:59,182 --> 01:23:01,182
+One other fact
+
+1864
+01:23:02,182 --> 01:23:06,182
+that if I were to make a phase rotation
+
+1865
+01:23:06,182 --> 01:23:08,182
+of each of these complex numbers,
+
+1866
+01:23:08,182 --> 01:23:09,682
+in other words, if I
+
+1867
+01:23:09,682 --> 01:23:11,182
+was to multiply alpha and beta
+
+1868
+01:23:11,182 --> 01:23:13,182
+by the same phase,
+
+1869
+01:23:13,182 --> 01:23:15,182
+e to the i theta,
+
+1870
+01:23:15,182 --> 01:23:17,182
+e to the i theta,
+
+1871
+01:23:17,182 --> 01:23:20,182
+that does not change the physical character of the state.
+
+1872
+01:23:21,182 --> 01:23:24,182
+And the reason is because all interesting quantities
+
+1873
+01:23:25,182 --> 01:23:27,182
+are
+
+1874
+01:23:28,182 --> 01:23:30,182
+things times complex conjugates.
+
+1875
+01:23:30,182 --> 01:23:34,182
+These will cancel out any interesting physical quantity.
+
+1876
+01:23:34,182 --> 01:23:36,182
+And so there's one,
+
+1877
+01:23:36,182 --> 01:23:37,182
+well, the way to say it,
+
+1878
+01:23:37,182 --> 01:23:39,182
+is there's one
+
+1879
+01:23:41,182 --> 01:23:42,182
+degree of freedom,
+
+1880
+01:23:42,182 --> 01:23:45,182
+namely the overall phase of alpha and beta,
+
+1881
+01:23:45,182 --> 01:23:47,182
+which is unphysical,
+
+1882
+01:23:47,182 --> 01:23:48,182
+and which doesn't matter,
+
+1883
+01:23:48,182 --> 01:23:49,182
+which is irrelevant.
+
+1884
+01:23:49,182 --> 01:23:54,182
+Okay, let's count now the number of variables,
+
+1885
+01:23:54,182 --> 01:23:56,182
+the number of parameters that it takes
+
+1886
+01:23:56,182 --> 01:23:58,182
+to specify a quantum state
+
+1887
+01:23:58,182 --> 01:24:00,182
+of the spin of an electron.
+
+1888
+01:24:01,182 --> 01:24:03,182
+Alpha is a complex number.
+
+1889
+01:24:03,182 --> 01:24:05,182
+It has two real components.
+
+1890
+01:24:07,182 --> 01:24:08,182
+Beta is a complex number.
+
+1891
+01:24:08,182 --> 01:24:10,182
+It has two real components.
+
+1892
+01:24:10,182 --> 01:24:13,182
+So far we have four real components.
+
+1893
+01:24:15,182 --> 01:24:17,182
+But we have a constraint.
+
+1894
+01:24:17,182 --> 01:24:20,182
+Alpha star alpha plus beta star beta is one.
+
+1895
+01:24:20,182 --> 01:24:23,182
+So that means only three real components.
+
+1896
+01:24:24,182 --> 01:24:27,182
+The number of independent variables.
+
+1897
+01:24:27,182 --> 01:24:28,182
+On the other hand,
+
+1898
+01:24:28,182 --> 01:24:30,182
+one combination,
+
+1899
+01:24:30,182 --> 01:24:32,182
+the overall phase,
+
+1900
+01:24:32,182 --> 01:24:33,182
+is unphysical.
+
+1901
+01:24:33,182 --> 01:24:36,182
+Let's just eliminate it.
+
+1902
+01:24:36,182 --> 01:24:38,182
+So one way or another,
+
+1903
+01:24:38,182 --> 01:24:42,182
+that brings us down to only two independent variables
+
+1904
+01:24:42,182 --> 01:24:44,182
+specifying a quantum state.
+
+1905
+01:24:44,182 --> 01:24:49,182
+Two independent variables specify the quantum state.
+
+1906
+01:24:49,182 --> 01:24:51,182
+Now, how many independent variables,
+
+1907
+01:24:51,182 --> 01:24:53,682
+if an electron were a
+
+1908
+01:24:53,682 --> 01:24:56,182
+little arrow of a given length,
+
+1909
+01:24:56,182 --> 01:24:58,182
+its angular momentum vector,
+
+1910
+01:24:58,182 --> 01:25:00,182
+how many variables does it take
+
+1911
+01:25:00,182 --> 01:25:03,182
+to specify the orientation of that angular momentum?
+
+1912
+01:25:03,182 --> 01:25:04,182
+Two.
+
+1913
+01:25:04,182 --> 01:25:05,182
+Two.
+
+1914
+01:25:05,182 --> 01:25:07,182
+What is the angular momentum?
+
+1915
+01:25:07,182 --> 01:25:09,182
+It is the angular momentum vector.
+
+1916
+01:25:09,182 --> 01:25:14,182
+The angular momentum vector is the polar and azimuthal angle
+
+1917
+01:25:14,182 --> 01:25:18,182
+of the sphere describing the end of the vector.
+
+1918
+01:25:18,182 --> 01:25:20,182
+The same thing.
+
+1919
+01:25:20,182 --> 01:25:26,182
+You rotate around the spin of the electron
+
+1920
+01:25:26,182 --> 01:25:29,182
+by varying alpha and beta.
+
+1921
+01:25:29,182 --> 01:25:33,182
+But no matter which axis you measure
+
+1922
+01:25:33,182 --> 01:25:34,182
+the angular momentum,
+
+1923
+01:25:34,182 --> 01:25:36,042
+That is to say, the
+
+1924
+01:25:36,042 --> 01:25:37,902
+actual measured value is an integer.
+
+1925
+01:25:37,902 --> 01:25:40,122
+What about the average value?
+
+1926
+01:25:40,122 --> 01:25:42,042
+Can the average value be...
+
+1927
+01:25:42,042 --> 01:25:45,002
+I'm sorry, it's not an integer, it's a half integer.
+
+1928
+01:25:45,002 --> 01:25:47,302
+Plus a half or minus a half.
+
+1929
+01:25:47,302 --> 01:25:49,332
+Can you get anything but plus a half
+
+1930
+01:25:49,332 --> 01:25:51,362
+or minus a half for the average value?
+
+1931
+01:25:51,362 --> 01:25:52,922
+The average value.
+
+1932
+01:25:52,922 --> 01:25:54,612
+So what does the average value
+
+1933
+01:25:54,612 --> 01:25:56,302
+mean? What does the average value mean?
+
+1934
+01:25:56,302 --> 01:25:59,062
+The average value means you take
+
+1935
+01:25:59,062 --> 01:26:02,362
+repeated identical experiments
+
+1936
+01:26:02,362 --> 01:26:04,802
+where in each experiment the electron was
+
+1937
+01:26:04,802 --> 01:26:07,242
+prepared with exactly the same quantum state
+
+1938
+01:26:07,242 --> 01:26:09,392
+and in each case you measure
+
+1939
+01:26:09,392 --> 01:26:11,542
+the z-component of the angular momentum.
+
+1940
+01:26:11,542 --> 01:26:13,662
+Sometimes you get plus a half,
+
+1941
+01:26:13,662 --> 01:26:15,782
+sometimes you get minus a half.
+
+1942
+01:26:15,782 --> 01:26:17,952
+The average is to take the
+
+1943
+01:26:17,952 --> 01:26:20,122
+ensemble of all of them together,
+
+1944
+01:26:20,122 --> 01:26:23,041
+add up the z-component of angular momentum and
+
+1945
+01:26:23,041 --> 01:26:25,961
+divide by the number of experiments that you did.
+
+1946
+01:26:25,961 --> 01:26:28,102
+Just the average angular momentum.
+
+1947
+01:26:28,102 --> 01:26:29,681
+That can certainly be anything.
+
+1948
+01:26:29,681 --> 01:26:32,322
+That does not have to be... For example,
+
+1949
+01:26:32,322 --> 01:26:34,542
+if we just chose
+
+1950
+01:26:34,542 --> 01:26:37,822
+alpha equals one and beta equals one,
+
+1951
+01:26:37,822 --> 01:26:40,762
+what's the average z-component of the angular momentum?
+
+1952
+01:26:40,762 --> 01:26:41,602
+Zero.
+
+1953
+01:26:41,602 --> 01:26:43,102
+Zero.
+
+1954
+01:26:43,102 --> 01:26:46,482
+In fact, this happens to correspond
+
+1955
+01:26:46,482 --> 01:26:49,152
+to the spin of the electron along
+
+1956
+01:26:49,152 --> 01:26:51,822
+the x-axis instead of along the z-axis.
+
+1957
+01:26:51,822 --> 01:26:53,322
+Up along the x-axis.
+
+1958
+01:26:53,322 --> 01:26:55,782
+It's been rotated by ninety degrees.
+
+1959
+01:26:55,782 --> 01:26:58,582
+Nevertheless, when you measure it
+
+1960
+01:26:58,582 --> 01:27:01,882
+along the z-axis, you'll get plus or minus one.
+
+1961
+01:27:01,882 --> 01:27:05,201
+But the average is zero.
+
+1962
+01:27:05,201 --> 01:27:07,381
+So it's the averages which
+
+1963
+01:27:07,381 --> 01:27:09,562
+behave like the classical variables.
+
+1964
+01:27:09,562 --> 01:27:11,962
+If you take a spin up
+
+1965
+01:27:11,962 --> 01:27:14,362
+and you rotate it by ninety degrees,
+
+1966
+01:27:14,362 --> 01:27:19,241
+the average spin along that vertical axis will be zero.
+
+1967
+01:27:19,241 --> 01:27:21,981
+The averages which behave classically.
+
+1968
+01:27:21,981 --> 01:27:24,981
+This is a spin along the x-axis.
+
+1969
+01:27:24,981 --> 01:27:27,981
+What's a spin along the y-axis? Anybody remember?
+
+1970
+01:27:27,981 --> 01:27:29,082
+What?
+
+1971
+01:27:29,082 --> 01:27:31,161
+Plus the point?
+
+1972
+01:27:31,161 --> 01:27:31,661
+No.
+
+1973
+01:27:31,882 --> 01:27:33,602
+No, no, no, no. Okay, good
+
+1974
+01:27:33,602 --> 01:27:35,322
+guess, but it's the wrong guess.
+
+1975
+01:27:35,322 --> 01:27:37,201
+This is a spin.
+
+1976
+01:27:37,201 --> 01:27:42,842
+This is the z-axis. Here's the z-axis. Here's the x-axis.
+
+1977
+01:27:42,842 --> 01:27:45,582
+This corresponds to a spin which is
+
+1978
+01:27:45,582 --> 01:27:48,281
+pointing along the x-axis in
+
+1979
+01:27:48,281 --> 01:27:50,981
+this direction with a plus sign.
+
+1980
+01:27:50,981 --> 01:27:52,981
+With a minus sign,
+
+1981
+01:27:52,981 --> 01:27:55,941
+it corresponds to a spin pointing still
+
+1982
+01:27:55,941 --> 01:27:58,901
+along the x-axis but in the opposite direction.
+
+1983
+01:27:58,901 --> 01:28:00,231
+We still haven't found the
+
+1984
+01:28:00,231 --> 01:28:01,562
+one which points along the y-axis.
+
+1985
+01:28:01,882 --> 01:28:12,882
+I and minus i correspond to orientation along the y-axis.
+
+1986
+01:28:12,882 --> 01:28:17,082
+And with other values of alpha and beta, you
+
+1987
+01:28:17,082 --> 01:28:21,282
+can make spins which are pointing along the arbitrary axis.
+
+1988
+01:28:21,282 --> 01:28:23,702
+Pointing along the arbitrary axis means if
+
+1989
+01:28:23,702 --> 01:28:26,122
+you measure the component along that axis,
+
+1990
+01:28:26,122 --> 01:28:28,882
+you'll always get the same answer.
+
+1991
+01:28:28,882 --> 01:28:31,161
+So, I'm going to do this.
+
+1992
+01:28:31,162 --> 01:28:38,162
+So, uh,
+
+1993
+01:28:38,162 --> 01:28:41,662
+that's pretty much spin in a nutshell.
+
+1994
+01:28:41,662 --> 01:28:44,842
+And, as I said, it is
+
+1995
+01:28:44,842 --> 01:28:47,682
+the electric charge, the mass,
+
+1996
+01:28:47,682 --> 01:28:52,602
+the spin of a particle are its most important properties.
+
+1997
+01:28:52,602 --> 01:28:53,922
+Now, there's a
+
+1998
+01:28:53,922 --> 01:28:56,682
+correlation which I should
+
+1999
+01:28:56,682 --> 01:29:00,142
+not only mention but emphasize very strongly
+
+2000
+01:29:00,142 --> 01:29:01,162
+because it's one of the
+
+2001
+01:29:01,162 --> 01:29:04,802
+prime facts of elementary particle physics.
+
+2002
+01:29:04,802 --> 01:29:07,832
+It's actually a theorem of relativistic quantum mechanics,
+
+2003
+01:29:07,832 --> 01:29:10,862
+but we're not gonna try to prove it.
+
+2004
+01:29:10,862 --> 01:29:13,022
+And the theorem is a correlation
+
+2005
+01:29:13,022 --> 01:29:14,102
+between
+
+2006
+01:29:14,102 --> 01:29:16,802
+the values of the spin of the particle
+
+2007
+01:29:16,802 --> 01:29:20,842
+and whether it's a fermion or a boson.
+
+2008
+01:29:20,842 --> 01:29:23,142
+Remember, fermions are the ones that you can't
+
+2009
+01:29:23,142 --> 01:29:25,442
+put two of them in the same state.
+
+2010
+01:29:25,442 --> 01:29:28,782
+Bosons, they have a Pauli exclusion principle.
+
+2011
+01:29:28,782 --> 01:29:29,412
+Uh, bosons are the ones that you can
+
+2012
+01:29:29,412 --> 01:29:30,042
+put two of them in the same state.
+
+2013
+01:29:30,042 --> 01:29:30,102
+Uh, bosons are the ones that you can
+
+2014
+01:29:30,102 --> 01:29:30,162
+put two of them in the same state.
+
+2015
+01:29:30,162 --> 01:29:30,662
+Uh, bosons are the ones that you can
+
+2016
+01:29:30,662 --> 01:29:31,162
+put two of them in the same state.
+
+2017
+01:29:31,162 --> 01:29:33,392
+put into the same state, they behave
+
+2018
+01:29:33,392 --> 01:29:35,622
+like photons and they make classical waves.
+
+2019
+01:29:35,622 --> 01:29:39,512
+Half spin particles are always fermions. Without
+
+2020
+01:29:39,512 --> 01:29:43,402
+exception, by half spin I now mean
+
+2021
+01:29:43,402 --> 01:29:47,802
+one half, three halves, five halves, anything
+
+2022
+01:29:47,802 --> 01:29:52,202
+which is a measure in half units,
+
+2023
+01:29:52,202 --> 01:29:55,632
+where the spectrum is half units instead
+
+2024
+01:29:55,632 --> 01:29:59,062
+of units. Those are all fermions and all
+
+2025
+01:29:59,062 --> 01:30:02,062
+particles which have integer spectrum like
+
+2026
+01:30:02,062 --> 01:30:05,062
+this are bosons. A spin zero particle
+
+2027
+01:30:05,062 --> 01:30:08,522
+is always a boson without exception. A
+
+2028
+01:30:08,522 --> 01:30:11,982
+spin two particle is always a boson.
+
+2029
+01:30:11,982 --> 01:30:15,602
+What happens if you take two half
+
+2030
+01:30:15,602 --> 01:30:19,222
+spin particles? Take two half spin particles,
+
+2031
+01:30:19,222 --> 01:30:22,552
+one of which happens to have one
+
+2032
+01:30:22,552 --> 01:30:25,882
+value of m and the other has another
+
+2033
+01:30:25,882 --> 01:30:29,042
+value of m, each one having a half unit.
+
+2034
+01:30:29,042 --> 01:30:32,052
+It could be three halves and minus seven
+
+2035
+01:30:32,052 --> 01:30:35,062
+halves or whatever. What happens if you add
+
+2036
+01:30:35,062 --> 01:30:36,062
+up their angular momentum?
+
+2037
+01:30:36,062 --> 01:30:37,062
+Whole.
+
+2038
+01:30:37,062 --> 01:30:40,492
+You get an integer, not a half integer.
+
+2039
+01:30:40,492 --> 01:30:43,922
+That tells you that objects which are made
+
+2040
+01:30:43,922 --> 01:30:48,312
+up out of an even number of fermions are
+
+2041
+01:30:48,312 --> 01:30:52,702
+always bosons. Any object made of an even number
+
+2042
+01:30:52,702 --> 01:30:55,872
+of fermions will have an integer spin. Because
+
+2043
+01:30:55,872 --> 01:30:59,042
+it has an integer spin, it's a boson.
+
+2044
+01:30:59,042 --> 01:31:03,742
+What happens if you take a boson and add it
+
+2045
+01:31:03,742 --> 01:31:08,442
+to a fermion? Let me give an example. An example
+
+2046
+01:31:08,442 --> 01:31:11,252
+would be a hydrogen atom. A proton is
+
+2047
+01:31:11,252 --> 01:31:14,062
+a half spin particle, just like an electron. Half,
+
+2048
+01:31:14,062 --> 01:31:17,042
+not three halves, not five halves, a half. A
+
+2049
+01:31:17,042 --> 01:31:20,022
+proton has a half spin just like the electron.
+
+2050
+01:31:20,022 --> 01:31:22,692
+You take a hydrogen atom, it's a fermion. You
+
+2051
+01:31:22,692 --> 01:31:25,362
+take an electron and you put it into orbit
+
+2052
+01:31:25,362 --> 01:31:27,202
+and you create a hydrogen atom.
+
+2053
+01:31:27,202 --> 01:31:29,042
+The hydrogen atom becomes a boson.
+
+2054
+01:31:29,042 --> 01:31:32,662
+Now this is not the hydrogen isotope, this
+
+2055
+01:31:32,662 --> 01:31:36,282
+is the hydrogen atom with just a single proton
+
+2056
+01:31:36,282 --> 01:31:40,822
+that is nucleus. A deuteron is a proton bound
+
+2057
+01:31:40,822 --> 01:31:45,362
+to a neutron. A neutron also is a half spin
+
+2058
+01:31:45,362 --> 01:31:50,202
+particle. A deuteron is a boson. Half
+
+2059
+01:31:50,202 --> 01:31:55,042
+spin and another half spin. What about deuterium?
+
+2060
+01:31:55,042 --> 01:31:59,022
+Deuterium is a proton and a neutron.
+
+2061
+01:31:59,042 --> 01:32:02,542
+A neutron is a neutron that forms a
+
+2062
+01:32:02,542 --> 01:32:06,042
+nucleus with an electron in orbit around it. What
+
+2063
+01:32:06,042 --> 01:32:10,282
+are the possible values of the z component
+
+2064
+01:32:10,282 --> 01:32:14,522
+of spin going to be? It's basically three
+
+2065
+01:32:14,522 --> 01:32:18,552
+half integers added up. Three half integers will
+
+2066
+01:32:18,552 --> 01:32:22,582
+always be a half integer again. So a boson
+
+2067
+01:32:22,582 --> 01:32:25,352
+together with a fermion is a fermion. A boson
+
+2068
+01:32:25,352 --> 01:32:28,122
+together with a boson is a boson. And a fermion
+
+2069
+01:32:28,122 --> 01:32:28,582
+together with a boson is a boson. And a fermion
+
+2070
+01:32:28,582 --> 01:32:29,042
+together with a boson is a boson. And a fermion
+
+2071
+01:32:29,042 --> 01:32:34,982
+together with a fermion is a boson. So
+
+2072
+01:32:34,982 --> 01:32:40,922
+deuterium is a fermion. Hydrogen with only one proton
+
+2073
+01:32:40,922 --> 01:32:45,541
+is a...what did I say? Deuterium is a...yeah, hydrogen
+
+2074
+01:32:45,541 --> 01:32:50,161
+is a boson. I think I got it right.
+
+2075
+01:32:50,161 --> 01:32:52,601
+Incidentally, particles and antiparticles always have
+
+2076
+01:32:52,601 --> 01:32:55,042
+the same spin, same mass, opposite
+
+2077
+01:32:55,042 --> 01:32:56,542
+charge. What about positronium? Positronium is a
+
+2078
+01:32:56,542 --> 01:32:58,042
+neutron. It's a neutron. It's a neutron.
+
+2079
+01:32:58,042 --> 01:33:01,062
+And positronium is a positron in orbit
+
+2080
+01:33:01,062 --> 01:33:04,082
+around the...well, an electron and a positron orbiting
+
+2081
+01:33:04,082 --> 01:33:05,862
+each other. What would that be?
+
+2082
+01:33:05,862 --> 01:33:06,862
+Bosons.
+
+2083
+01:33:06,862 --> 01:33:07,862
+Bosons.
+
+2084
+01:33:07,862 --> 01:33:08,862
+Yeah.
+
+2085
+01:33:08,862 --> 01:33:11,412
+Bosons have a property of being able
+
+2086
+01:33:11,412 --> 01:33:13,962
+to go through things? I heard that...
+
+2087
+01:33:13,962 --> 01:33:14,962
+Yeah.
+
+2088
+01:33:14,962 --> 01:33:15,962
+Bosons have the property of what?
+
+2089
+01:33:15,962 --> 01:33:19,102
+Being in the same state. I heard like
+
+2090
+01:33:19,102 --> 01:33:22,242
+superconductivity is like two pairs of electrons together and
+
+2091
+01:33:22,242 --> 01:33:24,642
+they act like a boson, therefore it's
+
+2092
+01:33:24,642 --> 01:33:27,042
+sort of transparent or something like that.
+
+2093
+01:33:27,042 --> 01:33:29,952
+So, okay, before you can understand the superconductor,
+
+2094
+01:33:29,952 --> 01:33:32,862
+you have to understand the superfluid. A superfluid,
+
+2095
+01:33:32,862 --> 01:33:36,362
+for example, helium forms a superfluid. Let's talk
+
+2096
+01:33:36,362 --> 01:33:39,862
+about helium. Is helium a boson or a
+
+2097
+01:33:39,862 --> 01:33:40,862
+fermion? Ordinary helium?
+
+2098
+01:33:40,862 --> 01:33:41,862
+It's not a boson.
+
+2099
+01:33:41,862 --> 01:33:42,862
+Okay, why is that?
+
+2100
+01:33:42,862 --> 01:33:43,862
+Because it's got even numbers of nucleons and electrons.
+
+2101
+01:33:43,862 --> 01:33:48,362
+It's got two protons, two neutrons, and
+
+2102
+01:33:48,362 --> 01:33:52,862
+two electrons. Two protons and two neutrons
+
+2103
+01:33:52,862 --> 01:33:54,362
+makes a helium nucleus, an alpha
+
+2104
+01:33:54,362 --> 01:33:55,862
+particle, and two electrons. It's a boson.
+
+2105
+01:33:55,862 --> 01:34:00,291
+So whatever bosons are, helium is a good example
+
+2106
+01:34:00,291 --> 01:34:04,721
+of them. Helium atoms can all go into the
+
+2107
+01:34:04,721 --> 01:34:09,051
+same state and it's when... Basically, a superconductor,
+
+2108
+01:34:09,051 --> 01:34:13,382
+a superfluid of helium atoms is almost like
+
+2109
+01:34:13,382 --> 01:34:15,681
+a classical wave that you make by piling them
+
+2110
+01:34:15,681 --> 01:34:17,981
+up all in the same state. That's not quite
+
+2111
+01:34:17,981 --> 01:34:20,831
+right, but it's close enough for us. They
+
+2112
+01:34:20,831 --> 01:34:23,681
+all move together in the same state. And then,
+
+2113
+01:34:23,681 --> 01:34:24,181
+you know, you can't do anything about it.
+
+2114
+01:34:24,181 --> 01:34:24,681
+You can't do anything about it. You can't
+
+2115
+01:34:24,682 --> 01:34:26,522
+do anything about it. You just need to
+
+2116
+01:34:26,522 --> 01:34:28,362
+keep the electrons in the same state. Now, an
+
+2117
+01:34:28,362 --> 01:34:31,982
+electron in metal is a fermion. You can't
+
+2118
+01:34:31,982 --> 01:34:35,602
+put two electrons into the same state. But
+
+2119
+01:34:35,602 --> 01:34:38,952
+how about pairs of electrons? Here's a paradox.
+
+2120
+01:34:38,952 --> 01:34:42,302
+Okay, here's a paradox, which we talked about
+
+2121
+01:34:42,302 --> 01:34:44,642
+last night, but we'll talk about it again
+
+2122
+01:34:44,642 --> 01:34:46,982
+tonight. You take two fermions and you put
+
+2123
+01:34:46,982 --> 01:34:50,712
+them together and make a boson. How can it
+
+2124
+01:34:50,712 --> 01:34:54,442
+be that you could put two of those composites
+
+2125
+01:34:54,442 --> 01:34:57,622
+into the same state when you couldn't put the constituents
+
+2126
+01:34:57,622 --> 01:34:59,162
+into the same state.
+
+2127
+01:34:59,162 --> 01:35:00,522
+Does that make sense?
+
+2128
+01:35:01,582 --> 01:35:03,982
+So does it or doesn't it?
+
+2129
+01:35:03,982 --> 01:35:04,822
+No?
+
+2130
+01:35:04,822 --> 01:35:05,662
+No?
+
+2131
+01:35:05,662 --> 01:35:08,062
+Okay, I'll tell you what does make sense.
+
+2132
+01:35:08,062 --> 01:35:09,862
+I'll tell you what exactly it means.
+
+2133
+01:35:14,202 --> 01:35:15,562
+You know, let's do that next time.
+
+2134
+01:35:15,562 --> 01:35:17,962
+I think I'm running out of steam.
+
+2135
+01:35:20,202 --> 01:35:21,702
+Remind me, remind me about this.
+
+2136
+01:35:21,702 --> 01:35:25,442
+This is so interesting that it's worth 10 minutes on.
+
+2137
+01:35:25,442 --> 01:35:29,422
+How two fermions, when they make a boson,
+
+2138
+01:35:29,422 --> 01:35:31,702
+how you can put the bosons into the same state
+
+2139
+01:35:31,702 --> 01:35:33,392
+even though the fermions can't
+
+2140
+01:35:33,392 --> 01:35:35,082
+be put into the same state.
+
+2141
+01:35:35,082 --> 01:35:37,342
+Okay, so we should get back to that.
+
+2142
+01:35:37,342 --> 01:35:39,302
+I'm reaching that point in the evening
+
+2143
+01:35:39,302 --> 01:35:43,822
+where I'll get confused if I try to.
+
+2144
+01:35:45,402 --> 01:35:46,242
+Yeah?
+
+2145
+01:35:46,242 --> 01:35:48,402
+Since protons and neutrons are composite,
+
+2146
+01:35:48,402 --> 01:35:50,522
+why is it that they're half-spin?
+
+2147
+01:35:50,522 --> 01:35:51,362
+Is it the spin?
+
+2148
+01:35:51,362 --> 01:35:51,702
+No, no.
+
+2149
+01:35:51,702 --> 01:35:54,602
+They're composites of odd numbers of fermions.
+
+2150
+01:35:54,602 --> 01:35:56,102
+Protons make quarks.
+
+2151
+01:35:57,162 --> 01:35:58,822
+A quark is a half-spin particle.
+
+2152
+01:36:00,622 --> 01:36:02,102
+So it's gonna be a fermion.
+
+2153
+01:36:02,102 --> 01:36:04,222
+Three fermions make a fermion.
+
+2154
+01:36:04,222 --> 01:36:06,322
+All right, just a last observation has to do
+
+2155
+01:36:06,322 --> 01:36:08,482
+with the Pauli exclusion principle.
+
+2156
+01:36:10,302 --> 01:36:13,482
+It all comes, it was all discovered from staring
+
+2157
+01:36:13,482 --> 01:36:15,822
+at the periodic table long enough.
+
+2158
+01:36:17,282 --> 01:36:21,102
+Pauli said that you can't put more than one electron
+
+2159
+01:36:21,102 --> 01:36:21,362
+into the same state.
+
+2160
+01:36:21,362 --> 01:36:22,762
+You can't put more than one electron
+
+2161
+01:36:22,762 --> 01:36:25,161
+into the same orbital in an atom.
+
+2162
+01:36:25,161 --> 01:36:26,762
+No, he didn't say that.
+
+2163
+01:36:26,762 --> 01:36:28,842
+He said you can't put more than one electron
+
+2164
+01:36:28,842 --> 01:36:30,762
+into the same quantum state.
+
+2165
+01:36:30,762 --> 01:36:34,122
+He knew very well that you can put two
+
+2166
+01:36:34,122 --> 01:36:36,002
+and no more than two electrons
+
+2167
+01:36:36,002 --> 01:36:39,582
+in the same orbital state in the atom.
+
+2168
+01:36:39,582 --> 01:36:42,961
+He knew that because he knew, roughly speaking,
+
+2169
+01:36:42,961 --> 01:36:44,762
+that if you take a hydrogen atom,
+
+2170
+01:36:44,762 --> 01:36:47,242
+you double the charge of the nucleus
+
+2171
+01:36:47,242 --> 01:36:49,242
+and you put another electron in,
+
+2172
+01:36:49,242 --> 01:36:50,901
+the two electrons go into the same state,
+
+2173
+01:36:50,902 --> 01:36:52,902
+the same orbital state.
+
+2174
+01:36:52,902 --> 01:36:56,902
+So Pauli's exclusion principle did not apply
+
+2175
+01:36:56,902 --> 01:36:58,902
+to the orbital motion.
+
+2176
+01:36:58,902 --> 01:37:01,902
+It applies to the entire quantum state.
+
+2177
+01:37:01,902 --> 01:37:05,902
+The entire quantum state includes the spin state.
+
+2178
+01:37:05,902 --> 01:37:08,902
+You can put two electrons into the same orbital
+
+2179
+01:37:08,902 --> 01:37:11,902
+in an atom as long as their spins
+
+2180
+01:37:11,902 --> 01:37:13,902
+are in the opposite direction.
+
+2181
+01:37:13,902 --> 01:37:16,902
+You can't put two electrons with spin
+
+2182
+01:37:16,902 --> 01:37:19,902
+in the same direction, as long as the axis here,
+
+2183
+01:37:20,902 --> 01:37:22,902
+you can't put them in the same direction,
+
+2184
+01:37:22,902 --> 01:37:25,402
+but you can put them into spin states
+
+2185
+01:37:25,402 --> 01:37:27,402
+in the opposite direction.
+
+2186
+01:37:27,402 --> 01:37:28,902
+As long as they are different,
+
+2187
+01:37:28,902 --> 01:37:30,902
+as long as they are different, two electrons,
+
+2188
+01:37:30,902 --> 01:37:32,902
+and that's the property of the fermion,
+
+2189
+01:37:32,902 --> 01:37:35,402
+two of them can't be in the same quantum state,
+
+2190
+01:37:35,402 --> 01:37:40,902
+but quantum state includes everything about the particle.
+
+2191
+01:37:40,902 --> 01:37:43,902
+So that means in every orbital in an atom,
+
+2192
+01:37:43,902 --> 01:37:46,902
+you can put no more than two electrons,
+
+2193
+01:37:46,902 --> 01:37:48,902
+and when there are two electrons,
+
+2194
+01:37:48,902 --> 01:37:50,902
+they have to be in, I don't know, it's called,
+
+2195
+01:37:50,902 --> 01:37:53,902
+spin singlets, which means their spins cancel.
+
+2196
+01:37:53,902 --> 01:37:55,902
+You can think of that like mesh gears.
+
+2197
+01:37:55,902 --> 01:37:57,902
+Right.
+
+2198
+01:37:57,902 --> 01:38:01,902
+If they're going in the same rotation,
+
+2199
+01:38:01,902 --> 01:38:03,902
+they go in opposite directions.
+
+2200
+01:38:03,902 --> 01:38:04,902
+Right.
+
+2201
+01:38:04,902 --> 01:38:05,902
+Yeah, if they're going in the same direction,
+
+2202
+01:38:05,902 --> 01:38:07,902
+you can strip the gears.
+
+2203
+01:38:07,902 --> 01:38:09,902
+Indeed.
+
+2204
+01:38:09,902 --> 01:38:11,902
+An orbital in an atom...
+
+2205
+01:38:11,902 --> 01:38:13,902
+I know, I couldn't let my car.
+
+2206
+01:38:13,902 --> 01:38:16,402
+An orbital in an atom means
+
+2207
+01:38:16,402 --> 01:38:18,902
+more than just what shell it's in.
+
+2208
+01:38:18,902 --> 01:38:20,402
+It means, what's an orbital?
+
+2209
+01:38:20,402 --> 01:38:24,402
+Orbital, I simply mean the state of an electron
+
+2210
+01:38:24,402 --> 01:38:26,402
+if you ignore the spin.
+
+2211
+01:38:26,402 --> 01:38:29,402
+Orbit...
+
+2212
+01:38:29,402 --> 01:38:31,402
+Am I using orbital in a
+
+2213
+01:38:31,402 --> 01:38:33,402
+way that a chemist wouldn't use it?
+
+2214
+01:38:33,402 --> 01:38:34,402
+Who's a chemist?
+
+2215
+01:38:34,402 --> 01:38:35,402
+Yes.
+
+2216
+01:38:35,402 --> 01:38:39,402
+Okay, what I mean by orbital motion
+
+2217
+01:38:39,402 --> 01:38:41,402
+is not what a chemist means by an orbital.
+
+2218
+01:38:41,402 --> 01:38:43,402
+What's an orbital again?
+
+2219
+01:38:43,402 --> 01:38:45,402
+S-P-D-F.
+
+2220
+01:38:45,402 --> 01:38:48,402
+I mean a quantum state,
+
+2221
+01:38:48,402 --> 01:38:51,402
+a solution of the Schrodinger equation,
+
+2222
+01:38:51,402 --> 01:38:53,402
+a solution of the Schrodinger equation,
+
+2223
+01:38:53,402 --> 01:38:55,402
+ignoring spin.
+
+2224
+01:38:55,402 --> 01:38:57,402
+It creates the chart,
+
+2225
+01:38:57,402 --> 01:38:59,402
+the periodic chart that's up there.
+
+2226
+01:38:59,402 --> 01:39:02,402
+And so that's how come you
+
+2227
+01:39:02,402 --> 01:39:05,402
+have two electrons in the inner shell.
+
+2228
+01:39:05,402 --> 01:39:06,402
+You have two things.
+
+2229
+01:39:06,402 --> 01:39:08,402
+You have S-P-D and all that stuff
+
+2230
+01:39:08,402 --> 01:39:10,402
+has to do with orbital angular momentum.
+
+2231
+01:39:10,402 --> 01:39:12,402
+But then there's principle quantum number,
+
+2232
+01:39:12,402 --> 01:39:14,402
+which is called in.
+
+2233
+01:39:14,402 --> 01:39:16,402
+And when I speak about the orbital motion,
+
+2234
+01:39:16,402 --> 01:39:19,402
+I mean both in and the orbital angular momentum.
+
+2235
+01:39:19,402 --> 01:39:21,902
+It's a chemist's notation to call
+
+2236
+01:39:21,902 --> 01:39:24,402
+orbital S-P-D and all that stuff.
+
+2237
+01:39:24,402 --> 01:39:26,402
+You know what S stands for?
+
+2238
+01:39:26,402 --> 01:39:27,402
+I don't know what S stands for.
+
+2239
+01:39:27,402 --> 01:39:28,402
+It's spherical.
+
+2240
+01:39:28,402 --> 01:39:30,402
+Yeah, it doesn't mean it.
+
+2241
+01:39:30,402 --> 01:39:31,402
+It doesn't mean spherical.
+
+2242
+01:39:31,402 --> 01:39:33,902
+But it actually means a
+
+2243
+01:39:33,902 --> 01:39:36,402
+quantum state of zero angular momentum.
+
+2244
+01:39:36,402 --> 01:39:38,402
+P means angular momentum one.
+
+2245
+01:39:38,402 --> 01:39:40,402
+This is the orbital motion over here.
+
+2246
+01:39:40,402 --> 01:39:43,402
+D is angular momentum two.
+
+2247
+01:39:43,402 --> 01:39:45,402
+F is angular momentum three.
+
+2248
+01:39:45,402 --> 01:39:46,402
+And I don't know, G?
+
+2249
+01:39:46,402 --> 01:39:47,402
+It comes after F?
+
+2250
+01:39:47,402 --> 01:39:48,402
+I don't remember.
+
+2251
+01:39:48,402 --> 01:39:57,402
+But that's the orbital angular momentum of the electron.
+
+2252
+01:39:57,402 --> 01:39:59,402
+But the other quantum number is the distance,
+
+2253
+01:39:59,402 --> 01:40:04,402
+basically the distance of the electron from the proton.
+
+2254
+01:40:04,402 --> 01:40:07,402
+And that's the principle quantum number.
+
+2255
+01:40:07,402 --> 01:40:09,402
+So what I would call the orbital motion,
+
+2256
+01:40:09,402 --> 01:40:11,402
+meaning that's the actual motion of the electron,
+
+2257
+01:40:11,402 --> 01:40:14,402
+is a composite of the principle quantum number
+
+2258
+01:40:14,402 --> 01:40:15,402
+and the orbital quantum number.
+
+2259
+01:40:15,402 --> 01:40:18,402
+Let's just call that a state of orbital motion,
+
+2260
+01:40:18,402 --> 01:40:24,402
+a state of orbiting, both principle and…
+
+2261
+01:40:24,402 --> 01:40:26,902
+All right, so the rule is
+
+2262
+01:40:26,902 --> 01:40:29,402
+that Pauli devised was that no electron
+
+2263
+01:40:29,402 --> 01:40:33,402
+can have all of its quantum numbers the same.
+
+2264
+01:40:33,402 --> 01:40:36,402
+That's the rule.
+
+2265
+01:40:36,402 --> 01:40:40,402
+Incidentally, the orbital…
+
+2266
+01:40:40,402 --> 01:40:42,402
+Yeah, okay.
+
+2267
+01:40:42,402 --> 01:40:44,402
+So from the point of view of quantum numbers,
+
+2268
+01:40:44,402 --> 01:40:46,402
+so from what you're saying,
+
+2269
+01:40:46,402 --> 01:40:47,902
+can you deduce how many electrons can
+
+2270
+01:40:47,902 --> 01:40:49,402
+be in each shell in an atom?
+
+2271
+01:40:49,402 --> 01:40:51,402
+Yeah.
+
+2272
+01:40:51,402 --> 01:40:52,402
+How many can be?
+
+2273
+01:40:52,402 --> 01:40:53,402
+Not how many are, actually.
+
+2274
+01:40:53,402 --> 01:40:55,402
+You can deduce the maximum number.
+
+2275
+01:40:55,402 --> 01:40:56,402
+Yeah.
+
+2276
+01:40:56,402 --> 01:40:57,402
+Yeah.
+
+2277
+01:40:57,402 --> 01:40:58,402
+Are we…
+
+2278
+01:40:58,402 --> 01:40:59,402
+Yeah.
+
+2279
+01:40:59,402 --> 01:41:05,402
+We're not going to do that now.
+
+2280
+01:41:05,402 --> 01:41:08,402
+See, I hadn't intended to do it at all.
+
+2281
+01:41:08,402 --> 01:41:11,402
+See, you've got the principle quantum number,
+
+2282
+01:41:11,402 --> 01:41:13,401
+then the orbital quantum number,
+
+2283
+01:41:13,401 --> 01:41:15,401
+and then the spin quantum.
+
+2284
+01:41:15,401 --> 01:41:16,901
+Let's talk about orbitals in
+
+2285
+01:41:16,901 --> 01:41:18,401
+the sense that chemists use it.
+
+2286
+01:41:18,401 --> 01:41:20,401
+Orbital means SPD and…
+
+2287
+01:41:20,401 --> 01:41:21,401
+Okay?
+
+2288
+01:41:21,401 --> 01:41:22,401
+Yeah.
+
+2289
+01:41:22,401 --> 01:41:25,401
+An S particle is spin zero.
+
+2290
+01:41:25,401 --> 01:41:27,401
+That means the orbital angular momentum is zero,
+
+2291
+01:41:27,401 --> 01:41:32,401
+and there's only one state of the orbital angular momentum.
+
+2292
+01:41:32,401 --> 01:41:33,401
+What about P?
+
+2293
+01:41:33,401 --> 01:41:35,401
+P is angular momentum one.
+
+2294
+01:41:35,401 --> 01:41:37,402
+We're talking about orbital angular momentum one.
+
+2295
+01:41:37,402 --> 01:41:39,402
+But the rules of angular momentum
+
+2296
+01:41:39,402 --> 01:41:41,402
+are the same for orbital angular momentum
+
+2297
+01:41:41,402 --> 01:41:42,402
+and spin angular momentum.
+
+2298
+01:41:42,402 --> 01:41:44,402
+So if the orbital angular momentum is one,
+
+2299
+01:41:44,402 --> 01:41:46,402
+it means there's three possibilities.
+
+2300
+01:41:46,402 --> 01:41:49,402
+If the orbital angular momentum is two,
+
+2301
+01:41:49,402 --> 01:41:51,402
+that's a d-wave or a d-state,
+
+2302
+01:41:51,402 --> 01:41:54,402
+there are five states.
+
+2303
+01:41:54,402 --> 01:41:56,402
+So when you say one,
+
+2304
+01:41:56,402 --> 01:41:58,402
+that actually means up and down?
+
+2305
+01:41:58,402 --> 01:42:00,402
+Everything, everything being specified…
+
+2306
+01:42:00,402 --> 01:42:02,402
+So there's two electrons in the first one?
+
+2307
+01:42:02,402 --> 01:42:04,402
+All the things which
+
+2308
+01:42:04,402 --> 01:42:06,402
+can be simultaneously specified, specified.
+
+2309
+01:42:06,402 --> 01:42:08,402
+And then when there's three,
+
+2310
+01:42:08,402 --> 01:42:10,402
+then there's two in each of those three,
+
+2311
+01:42:10,402 --> 01:42:11,402
+so you get six more electrons,
+
+2312
+01:42:11,402 --> 01:42:12,402
+and then…
+
+2313
+01:42:12,402 --> 01:42:13,402
+So you get six more electrons,
+
+2314
+01:42:13,402 --> 01:42:14,402
+or a total of eight.
+
+2315
+01:42:14,402 --> 01:42:15,402
+Right, exactly.
+
+2316
+01:42:15,402 --> 01:42:16,402
+Right.
+
+2317
+01:42:16,402 --> 01:42:20,402
+I hadn't intended to talk about atomic physics today,
+
+2318
+01:42:20,402 --> 01:42:21,402
+but we can.
+
+2319
+01:42:21,402 --> 01:42:26,402
+It's extremely interesting.
+
+2320
+01:42:26,402 --> 01:42:30,402
+And some features of atomic physics show up again
+
+2321
+01:42:30,402 --> 01:42:32,402
+when you're thinking about quarks
+
+2322
+01:42:32,402 --> 01:42:34,402
+orbiting each other and so forth.
+
+2323
+01:42:34,402 --> 01:42:36,402
+A little different.
+
+2324
+01:42:36,402 --> 01:42:37,402
+Okay.
+
+2325
+01:42:37,402 --> 01:42:39,402
+Any questions?
+
+2326
+01:42:39,402 --> 01:42:41,402
+And if not,
+
+2327
+01:42:41,402 --> 01:42:43,402
+I have a date tonight,
+
+2328
+01:42:43,402 --> 01:42:45,402
+a Friday night for you.
+
+2329
+01:42:45,402 --> 01:42:49,402
+I have a date with my pillow.
+
+2330
+01:42:53,402 --> 01:42:57,402
+For more, please visit us at stanford.edu.
+
