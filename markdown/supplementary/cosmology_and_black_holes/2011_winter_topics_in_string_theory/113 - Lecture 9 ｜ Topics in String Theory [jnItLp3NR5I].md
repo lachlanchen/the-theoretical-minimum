@@ -1,0 +1,2963 @@
+# Transcript
+
+Source: supplementary/cosmology_and_black_holes/2011_winter_topics_in_string_theory/113 - Lecture 9 ｜ Topics in String Theory [jnItLp3NR5I].mkv
+
+- [00:00:00,000 - 00:00:06,400] Stanford University.
+- [00:00:06,400 - 00:00:15,080] Okay, we have ten minutes for schmoozing.
+- [00:00:15,080 - 00:00:17,360] Yes.
+- [00:00:17,360 - 00:00:18,720] You made a comment last time.
+- [00:00:18,720 - 00:00:20,280] Horizons are always hot.
+- [00:00:20,280 - 00:00:23,120] Okay, yes, I hear you.
+- [00:00:23,120 - 00:00:27,320] So in a scenario where you've just got a-
+- [00:00:27,320 - 00:00:28,160] What?
+- [00:00:28,160 - 00:00:32,159] In a horizon of what we call the,
+- [00:00:32,159 - 00:00:36,200] you consider our universe horizon.
+- [00:00:36,226 - 00:00:37,706] 烤的烫
+- [00:00:37,730 - 00:00:39,350] Do you mean how hot is
+- [00:00:39,350 - 00:00:40,970] it or how is it hot?
+- [00:00:40,970 - 00:00:41,970] How is it hot?
+- [00:00:41,970 - 00:00:48,030] Like what the mechanism of it being hot?
+- [00:00:48,030 - 00:00:49,350] Exactly the same as in the black hole.
+- [00:00:49,350 - 00:00:50,350] Does that help you?
+- [00:00:50,350 - 00:00:51,350] No.
+- [00:00:51,350 - 00:00:52,350] All right, let's...
+- [00:00:52,350 - 00:00:56,850] In the black hole, I kind of get
+- [00:00:56,850 - 00:01:01,350] the energy of gravity and all this stuff, right?
+- [00:01:01,350 - 00:01:03,350] You feel the weight.
+- [00:01:03,350 - 00:01:04,349] Yeah.
+- [00:01:04,349 - 00:01:05,349] All right.
+- [00:01:05,349 - 00:01:10,230] You know, that's pretty much exactly what I
+- [00:01:10,230 - 00:01:15,110] was going to start the lecture with tonight.
+- [00:01:15,110 - 00:01:17,710] So make sure I start on that.
+- [00:01:17,710 - 00:01:20,150] But I'm going to defer it until 7 because
+- [00:01:20,150 - 00:01:22,590] that was about where I was going to begin.
+- [00:01:22,590 - 00:01:27,090] On the black hole temperature, you said
+- [00:01:27,090 - 00:01:31,590] you lowered the thermometer right near the horizon.
+- [00:01:31,590 - 00:01:32,590] It's hotter.
+- [00:01:32,590 - 00:01:34,590] If you did that experiment where you shot photons...
+- [00:01:34,590 - 00:01:35,350] Yeah.
+- [00:01:35,350 - 00:01:37,350] ...at the black hole to build it up...
+- [00:01:37,350 - 00:01:38,350] Yes.
+- [00:01:38,350 - 00:01:41,350] ...and you would still measure the same entropy?
+- [00:01:41,350 - 00:01:42,350] Entropy...
+- [00:01:42,350 - 00:01:43,350] Wait, let's be precise.
+- [00:01:43,350 - 00:01:45,350] There's entropy, there's energy, there's temperature.
+- [00:01:45,350 - 00:01:46,350] What are you asking exactly?
+- [00:01:46,350 - 00:01:47,350] Entropy first.
+- [00:01:47,350 - 00:01:49,850] We measure the same entropy because it would
+- [00:01:49,850 - 00:01:52,350] still be the same probability of the photon
+- [00:01:52,350 - 00:01:55,350] either being captured or missing.
+- [00:01:55,350 - 00:01:58,350] After the photon falls into the horizon or onto
+- [00:01:58,350 - 00:02:01,350] the horizon or whatever you want to call it,
+- [00:02:01,350 - 00:02:03,110] the entropy or the hidden information...
+- [00:02:03,110 - 00:02:04,110] Okay.
+- [00:02:04,110 - 00:02:05,110] ...is the same as the black hole.
+- [00:02:05,110 - 00:02:08,110] And the information is hidden in the black hole.
+- [00:02:08,110 - 00:02:09,110] The information is hidden in the black hole.
+- [00:02:09,110 - 00:02:10,110] So what's hidden in the black hole?
+- [00:02:10,110 - 00:02:11,110] Hidden information, if you like.
+- [00:02:11,110 - 00:02:11,610] The information that's inaccessible to you
+- [00:02:11,610 - 00:02:12,110] because it's either inside the black hole
+- [00:02:12,110 - 00:02:12,610] or, from your perspective, very, very close to
+- [00:02:12,610 - 00:02:13,110] the horizon and it would take forever for
+- [00:02:13,110 - 00:02:14,110] a photon to get out.
+- [00:02:14,110 - 00:02:15,110] The information that's hidden is one more bit.
+- [00:02:15,110 - 00:02:15,610] So every time you drop a single
+- [00:02:15,610 - 00:02:16,110] photon in, the entropy increases by one unit.
+- [00:02:16,110 - 00:02:17,110] So it's the energy that you're...
+- [00:02:17,110 - 00:02:18,110] Are you...
+- [00:02:18,110 - 00:02:19,110] Like you're seeing a higher frequency photon drop in.
+- [00:02:19,110 - 00:02:20,110] Yes.
+- [00:02:20,110 - 00:02:21,110] ...in the black hole?
+- [00:02:21,110 - 00:02:22,110] Yes.
+- [00:02:22,110 - 00:02:23,110] So that's the energy that you're...
+- [00:02:23,110 - 00:02:24,110] I'm not sure if you can see the energy.
+- [00:02:24,110 - 00:02:25,110] I don't know if you can see the energy.
+- [00:02:25,110 - 00:02:26,110] I'm not sure if you can see the energy.
+- [00:02:26,110 - 00:02:28,240] But every time you drop a single
+- [00:02:28,240 - 00:02:30,370] photon in, the entropy increases by one unit.
+- [00:02:30,370 - 00:02:32,370] So it's the energy that you're...
+- [00:02:32,370 - 00:02:33,370] Are you...
+- [00:02:33,370 - 00:02:36,179] Is it like you're seeing a higher
+- [00:02:36,179 - 00:02:38,989] frequency photon because you're near the horizon?
+- [00:02:38,989 - 00:02:39,989] Yes.
+- [00:02:39,989 - 00:02:40,989] Yes.
+- [00:02:40,989 - 00:02:41,989] Yes.
+- [00:02:41,989 - 00:02:45,409] The question about the temperature of horizons...
+- [00:02:45,409 - 00:02:52,110] Well, let me answer it now.
+- [00:02:52,110 - 00:02:53,350] The horizon is always hot.
+- [00:02:53,350 - 00:02:54,670] I'm going to come back to it in a minute.
+- [00:02:54,670 - 00:02:55,670] The horizon is always hot.
+- [00:02:55,670 - 00:02:56,110] It's always hot.
+- [00:02:56,110 - 00:02:58,050] It's always hot in the sense that if
+- [00:02:58,050 - 00:02:59,990] you lower the thermometer down, you would always
+- [00:02:59,990 - 00:03:02,360] detect a very, very high temperature as
+- [00:03:02,360 - 00:03:04,730] you get very close to the horizon.
+- [00:03:04,730 - 00:03:09,150] So you can think of it as the horizon
+- [00:03:09,150 - 00:03:13,570] being a place or a surface of extremely high temperature
+- [00:03:13,570 - 00:03:21,610] which is constantly emitting and reabsorbing photons.
+- [00:03:21,610 - 00:03:24,370] They're really quantum fluctuations.
+- [00:03:24,370 - 00:03:25,670] And they're...
+- [00:03:25,670 - 00:03:27,920] They're nothing more than the high
+- [00:03:27,920 - 00:03:30,170] frequency quantum fluctuations that are taking place
+- [00:03:30,170 - 00:03:33,010] in a small volume of space
+- [00:03:33,010 - 00:03:35,850] in a small region of space.
+- [00:03:35,850 - 00:03:38,640] The horizon makes them real in a way which
+- [00:03:38,640 - 00:03:41,430] I'll come to, which we're going to talk about.
+- [00:03:41,430 - 00:03:43,490] Makes them real thermal fluctuations
+- [00:03:43,490 - 00:03:45,550] in a rather interesting way.
+- [00:03:45,550 - 00:03:49,240] But every horizon always has the
+- [00:03:49,240 - 00:03:52,930] property that the temperature, the actual temperature
+- [00:03:52,930 - 00:03:55,510] of a real thermometer lowered down to the horizon...
+- [00:03:55,510 - 00:03:56,330] The actual temperature of a real thermometer
+- [00:03:56,330 - 00:03:57,150] lowered down to the horizon would record a
+- [00:03:57,150 - 00:04:01,080] temperature which would be one divided by
+- [00:04:01,080 - 00:04:05,010] two pi times the distance to the horizon.
+- [00:04:05,010 - 00:04:09,350] The distance to the horizon in the denominator.
+- [00:04:09,350 - 00:04:14,110] Every horizon, whether it's a black hole horizon
+- [00:04:14,110 - 00:04:18,870] or any other kind, always has that property.
+- [00:04:18,870 - 00:04:19,870] You asked me a question now.
+- [00:04:19,870 - 00:04:20,870] I can't remember exactly what it was.
+- [00:04:20,870 - 00:04:21,870] Well, I think when you're near the horizon...
+- [00:04:21,870 - 00:04:22,870] Yeah.
+- [00:04:22,870 - 00:04:23,870] The time...
+- [00:04:23,870 - 00:04:24,870] The time...
+- [00:04:24,870 - 00:04:25,870] The time sort of freezes.
+- [00:04:25,870 - 00:04:27,370] Does that mean that the
+- [00:04:27,370 - 00:04:28,870] photon that came in to build...
+- [00:04:28,870 - 00:04:29,870] Yeah.
+- [00:04:29,870 - 00:04:30,870] Yeah.
+- [00:04:30,870 - 00:04:31,870] Yeah.
+- [00:04:31,870 - 00:04:32,370] Let's forget the photon that
+- [00:04:32,370 - 00:04:32,870] came in to build it up.
+- [00:04:32,870 - 00:04:36,909] Let's talk about the photons which are being emitted.
+- [00:04:36,909 - 00:04:39,159] Why when you stand far from
+- [00:04:39,159 - 00:04:41,409] the horizon does the horizon not...
+- [00:04:41,409 - 00:04:43,809] Or does the radiation that hits you...
+- [00:04:43,809 - 00:04:46,679] Why isn't it this very high frequency radiation
+- [00:04:46,679 - 00:04:49,550] that is emitted very close to the horizon?
+- [00:04:49,550 - 00:04:52,430] In other words, you drop a thermometer down.
+- [00:04:52,430 - 00:04:54,870] You discover that the region...
+- [00:04:54,870 - 00:04:57,370] Near the horizon, the so-called near
+- [00:04:57,370 - 00:04:59,870] horizon region is very, very hot.
+- [00:04:59,870 - 00:05:02,870] Why isn't it hot far away?
+- [00:05:02,870 - 00:05:05,370] I can assure you if we created a blank wall
+- [00:05:05,370 - 00:05:07,870] over there or that wall and we heated it up
+- [00:05:07,870 - 00:05:10,870] to some very, very high temperature and let's suppose
+- [00:05:10,870 - 00:05:13,870] it was a very, very big wall and we
+- [00:05:13,870 - 00:05:15,870] heated it up to some high temperature, I don't
+- [00:05:15,870 - 00:05:17,870] think it would make much sense to say that
+- [00:05:17,870 - 00:05:20,870] as we moved away from the wall that
+- [00:05:20,870 - 00:05:23,870] the temperature went down like one hundred percent.
+- [00:05:23,870 - 00:05:26,370] If we moved it down like
+- [00:05:26,370 - 00:05:28,870] one over the distance, it wouldn't.
+- [00:05:28,870 - 00:05:31,370] You would be blinded by high frequency photons
+- [00:05:31,370 - 00:05:33,870] pretty much no matter how far you got from
+- [00:05:33,870 - 00:05:35,870] that wall.
+- [00:05:35,870 - 00:05:38,870] The high frequency photons that came out of
+- [00:05:38,870 - 00:05:41,870] it, the gamma rays, the super gamma rays,
+- [00:05:41,870 - 00:05:44,370] everything else that came out of it would
+- [00:05:44,370 - 00:05:46,870] blind you pretty much no matter how far you
+- [00:05:46,870 - 00:05:52,870] got from this very, very large wall.
+- [00:05:52,870 - 00:05:53,870] Why that doesn't happen with
+- [00:05:53,870 - 00:05:54,870] the horizon of a black hole?
+- [00:05:54,870 - 00:05:57,370] Why when you stand back from it and get
+- [00:05:57,370 - 00:05:59,870] a good deal of distance between you and the
+- [00:05:59,870 - 00:06:03,370] horizon, why don't you get blinded
+- [00:06:03,370 - 00:06:06,870] by these very high frequency photons?
+- [00:06:06,870 - 00:06:07,870] And the answer?
+- [00:06:07,870 - 00:06:08,870] What's the answer?
+- [00:06:08,870 - 00:06:09,870] Redshift.
+- [00:06:09,870 - 00:06:10,870] Redshift.
+- [00:06:10,870 - 00:06:11,870] Redshift.
+- [00:06:11,870 - 00:06:15,370] The redshift is another way of saying that
+- [00:06:15,370 - 00:06:18,870] as the photons propagate away from the horizon,
+- [00:06:18,870 - 00:06:20,870] they lose energy.
+- [00:06:20,870 - 00:06:22,870] And they lose energy for exactly...
+- [00:06:22,870 - 00:06:24,870] Exactly the same reason.
+- [00:06:24,870 - 00:06:26,870] Kinetic energy.
+- [00:06:26,870 - 00:06:29,370] They lose energy for exactly the same reason
+- [00:06:29,370 - 00:06:31,870] that this piece of chalk does when you throw
+- [00:06:31,870 - 00:06:33,870] it up in the air.
+- [00:06:33,870 - 00:06:36,370] It is doing work, or you have to, in order
+- [00:06:36,370 - 00:06:38,870] to raise it, you have to do work against the
+- [00:06:38,870 - 00:06:40,870] gravitational field.
+- [00:06:40,870 - 00:06:43,370] And if you don't do work to keep
+- [00:06:43,370 - 00:06:45,870] it moving with the same velocity, then the velocity
+- [00:06:45,870 - 00:06:46,870] will slow down.
+- [00:06:46,870 - 00:06:48,870] Well, with photons, don't think about velocity.
+- [00:06:48,870 - 00:06:50,870] Velocity is the wrong thing to think about.
+- [00:06:50,870 - 00:06:51,870] Think about energy.
+- [00:06:51,870 - 00:06:54,370] For a non-relativistic piece of chalk,
+- [00:06:54,370 - 00:06:56,870] there's a close relationship between its velocity
+- [00:06:56,870 - 00:06:57,870] and its energy.
+- [00:06:57,870 - 00:07:01,870] But what's really happening is it's losing energy.
+- [00:07:01,870 - 00:07:04,370] For a photon, the relation
+- [00:07:04,370 - 00:07:06,870] between velocity and energy is different.
+- [00:07:06,870 - 00:07:09,370] Namely, the velocity is always the speed
+- [00:07:09,370 - 00:07:11,870] of light, and the energy is the energy.
+- [00:07:11,870 - 00:07:16,370] But it's still true that as the photon
+- [00:07:16,370 - 00:07:20,870] climbs out of the gravitational influence of the
+- [00:07:20,870 - 00:07:23,870] black hole, it loses energy.
+- [00:07:23,870 - 00:07:27,370] So in the transit between the horizon, very
+- [00:07:27,370 - 00:07:30,870] near the horizon where it's very hot, and
+- [00:07:30,870 - 00:07:35,870] far away, the photon loses an amount of
+- [00:07:35,870 - 00:07:40,870] energy such that a distant observer doesn't see the
+- [00:07:40,870 - 00:07:43,870] black hole as being very hot.
+- [00:07:43,870 - 00:07:46,870] He sees it having the Hawking temperature.
+- [00:07:46,870 - 00:07:48,370] And the Hawking temperature decreases with
+- [00:07:48,370 - 00:07:49,870] the mass of the black hole.
+- [00:07:49,870 - 00:07:51,870] Remember what it was?
+- [00:07:51,870 - 00:07:55,870] The Hawking temperature of the black hole.
+- [00:07:55,870 - 00:07:58,370] And you can think of it as the
+- [00:07:58,370 - 00:08:00,870] temperature as seen by somebody looking at the photons
+- [00:08:00,870 - 00:08:03,370] or being exposed to the photons
+- [00:08:03,370 - 00:08:05,870] very far from the black hole.
+- [00:08:05,870 - 00:08:10,870] The temperature, T-Hawking, is equal.
+- [00:08:10,870 - 00:08:14,370] I'll write the precise formula for no particular reason,
+- [00:08:14,370 - 00:08:17,870] but 1 over 8 pi times the mass of
+- [00:08:17,870 - 00:08:18,870] the black hole.
+- [00:08:18,870 - 00:08:22,370] There is an H-bar here, a Planck's constant, and
+- [00:08:22,370 - 00:08:25,870] some numbers of factors of C, which I can
+- [00:08:25,870 - 00:08:27,870] never remember.
+- [00:08:27,870 - 00:08:28,870] C cubed, I can't remember
+- [00:08:28,870 - 00:08:29,870] if it's upstairs or downstairs, but...
+- [00:08:29,870 - 00:08:31,870] H-bar or just plain H, because
+- [00:08:31,870 - 00:08:33,870] the pi is already in the...
+- [00:08:33,870 - 00:08:34,870] I don't remember.
+- [00:08:34,870 - 00:08:35,870] I think it's H-bar.
+- [00:08:35,870 - 00:08:36,870] I think it's H-bar.
+- [00:08:36,870 - 00:08:39,870] I think it's actually H-bar.
+- [00:08:39,870 - 00:08:41,870] Right.
+- [00:08:41,870 - 00:08:44,870] 8 pi times the mass of the black hole.
+- [00:08:44,870 - 00:08:47,870] So the bigger the black hole, the cooler it is.
+- [00:08:48,870 - 00:08:52,870] Why does it look cooler for a big black hole?
+- [00:08:52,870 - 00:08:56,370] Well, that photon that was created very near
+- [00:08:56,370 - 00:08:59,870] the horizon has a more difficult time getting
+- [00:08:59,870 - 00:09:01,870] away from the big black
+- [00:09:01,870 - 00:09:03,870] hole than a smaller black hole.
+- [00:09:03,870 - 00:09:06,870] In other words, it has to do more work,
+- [00:09:06,870 - 00:09:09,870] it loses more energy in escaping from a big black
+- [00:09:09,870 - 00:09:12,370] hole from the near horizon region than
+- [00:09:12,370 - 00:09:14,870] it does for a small black hole.
+- [00:09:14,870 - 00:09:16,870] So the effect is the temperature, the
+- [00:09:16,870 - 00:09:18,870] effective temperature seen by an observer, for example,
+- [00:09:18,870 - 00:09:23,870] far away decreases with the mass of the black hole.
+- [00:09:23,870 - 00:09:27,870] But if you take this formula, you interpret
+- [00:09:27,870 - 00:09:31,870] it in terms of the energy of typical photons.
+- [00:09:31,870 - 00:09:35,870] In fact, the temperature of black body
+- [00:09:35,870 - 00:09:39,870] radiation, the temperature of thermal radiation, is approximately
+- [00:09:39,870 - 00:09:44,870] the same as the typical energy of any given photon.
+- [00:09:44,870 - 00:09:46,370] So this just says the photons
+- [00:09:46,370 - 00:09:47,870] typically have a temperature of about...
+- [00:09:47,870 - 00:09:50,870] typically have energy 1 over
+- [00:09:50,870 - 00:09:53,870] the mass of the black hole.
+- [00:09:53,870 - 00:09:56,870] And if you then trace that inward toward the
+- [00:09:56,870 - 00:09:59,870] horizon and say, how much energy did the photon
+- [00:09:59,870 - 00:10:03,870] have to have when it started out in order
+- [00:10:03,870 - 00:10:07,870] to escape and have this much energy when it
+- [00:10:07,870 - 00:10:10,870] got out, you'll find the energy is always the same.
+- [00:10:10,870 - 00:10:13,870] It's always about this 1 over 2
+- [00:10:13,870 - 00:10:16,870] pi times the distance from the horizon.
+- [00:10:16,870 - 00:10:18,370] How close can you get to
+- [00:10:18,370 - 00:10:19,870] the horizon in a meaningful sense?
+- [00:10:19,870 - 00:10:21,870] Well, the Planck distance.
+- [00:10:21,870 - 00:10:24,370] The Planck distance sets the
+- [00:10:24,370 - 00:10:26,870] scale for all quantum mechanical distances.
+- [00:10:26,870 - 00:10:29,870] And so you might say then that
+- [00:10:29,870 - 00:10:32,870] these photons originated in a thin layer.
+- [00:10:32,870 - 00:10:34,870] This is the way it behaves.
+- [00:10:34,870 - 00:10:36,870] This is the way the system behaves.
+- [00:10:36,870 - 00:10:40,870] They have a thin layer, perhaps a Planck length
+- [00:10:40,870 - 00:10:44,870] thick, near the horizon or right at the horizon,
+- [00:10:44,870 - 00:10:45,870] and they're not moving.
+- [00:10:45,870 - 00:10:47,870] This is the way they behave.
+- [00:10:47,870 - 00:10:50,370] It's at the horizon and it is
+- [00:10:50,370 - 00:10:52,870] continuously emitting photons and absorbing photons, emitting
+- [00:10:52,870 - 00:10:56,870] and absorbing them.
+- [00:10:56,870 - 00:10:59,370] The energy of the photons, as high
+- [00:10:59,370 - 00:11:01,870] as you can imagine, the Planck energy.
+- [00:11:01,870 - 00:11:05,870] Now, most of those photons don't get out.
+- [00:11:05,870 - 00:11:06,870] Most of those photons don't get out.
+- [00:11:06,870 - 00:11:08,870] What happens to them?
+- [00:11:08,870 - 00:11:10,870] They fall back.
+- [00:11:10,870 - 00:11:12,870] All right?
+- [00:11:12,870 - 00:11:15,870] Here's the horizon of a large black hole.
+- [00:11:15,870 - 00:11:19,370] And if the horizon is
+- [00:11:19,370 - 00:11:22,870] hot, it's continuously emitting photons.
+- [00:11:22,870 - 00:11:27,370] But though some of those photons go radially out, but very,
+- [00:11:27,370 - 00:11:31,870] very few of them, most of them go off at some angle.
+- [00:11:31,870 - 00:11:35,370] The ones that go off at an angle are pretty much
+- [00:11:35,370 - 00:11:38,870] guaranteed to fall back into the horizon of the black hole.
+- [00:11:38,870 - 00:11:41,870] It's only a tiny cone of angles
+- [00:11:41,870 - 00:11:44,870] here that the photon can get out.
+- [00:11:44,870 - 00:11:48,870] And that's the reason that the photons will escape.
+- [00:11:48,870 - 00:11:51,370] So, in fact, the emission of
+- [00:11:51,370 - 00:11:53,870] photons is a very slow process.
+- [00:11:53,870 - 00:11:57,370] It's a slow process because most of them don't come
+- [00:11:57,370 - 00:12:00,870] out at an angle which is appropriate for them to escape.
+- [00:12:00,870 - 00:12:03,370] And most of them simply just fall back
+- [00:12:03,370 - 00:12:05,870] to the horizon, fall back because of gravitation.
+- [00:12:05,870 - 00:12:08,870] The ones that are coming out
+- [00:12:08,870 - 00:12:11,870] can bang into the ones falling in.
+- [00:12:11,870 - 00:12:13,870] And guess what happens?
+- [00:12:13,870 - 00:12:15,870] They collide.
+- [00:12:15,870 - 00:12:17,870] They're very energetic.
+- [00:12:17,870 - 00:12:19,870] They make electron-positron pairs.
+- [00:12:19,870 - 00:12:21,870] They make everything that you can think about.
+- [00:12:21,870 - 00:12:23,870] And they make this thin
+- [00:12:23,870 - 00:12:25,870] layer of very, very hot material.
+- [00:12:25,870 - 00:12:27,870] It's like no material that
+- [00:12:27,870 - 00:12:29,870] we ordinarily encounter in nature.
+- [00:12:29,870 - 00:12:31,870] Much, much hotter.
+- [00:12:31,870 - 00:12:36,370] And the surface of it is continuously emitting photons which
+- [00:12:36,370 - 00:12:40,870] we see as having much, much lower energy than their emission.
+- [00:12:40,870 - 00:12:42,870] That's the mathematical theory.
+- [00:12:42,870 - 00:12:44,870] That's the consequence of
+- [00:12:44,870 - 00:12:46,870] the mathematical theory of horizons.
+- [00:12:46,870 - 00:12:48,870] There's another way to think about it.
+- [00:12:48,870 - 00:12:57,870] Remember, we've drawn pictures of black holes.
+- [00:12:57,870 - 00:13:00,870] The outside of the black hole was out here.
+- [00:13:00,870 - 00:13:03,870] The inside of the black hole was in here.
+- [00:13:03,870 - 00:13:06,870] Somebody a given distance from the black hole
+- [00:13:06,870 - 00:13:09,870] is moving along a trajectory which looks like this.
+- [00:13:09,870 - 00:13:11,870] Now, there are quantum fluctuations that take place.
+- [00:13:11,870 - 00:13:20,370] Without trying to get into the depths of quantum field theory, let's just
+- [00:13:20,370 - 00:13:28,870] use the rough metaphor of quantum fluctuations being closed loops of virtual particles.
+- [00:13:28,870 - 00:13:30,870] So virtual particles are
+- [00:13:30,870 - 00:13:32,870] constantly being created and annihilated.
+- [00:13:32,870 - 00:13:40,870] And an observer far away just sees those particles created.
+- [00:13:40,870 - 00:13:42,870] Doesn't see them, actually.
+- [00:13:42,870 - 00:13:44,870] It all happens too fast.
+- [00:13:44,870 - 00:13:53,870] Here are the lines of constant time.
+- [00:13:53,870 - 00:13:57,870] Way out here is t equals infinity.
+- [00:13:57,870 - 00:14:00,870] Somebody out here, a little fluctuation like
+- [00:14:00,870 - 00:14:03,870] that lasts a tiny amount of time.
+- [00:14:03,870 - 00:14:05,870] They can be detected.
+- [00:14:05,870 - 00:14:07,870] They can be detected by
+- [00:14:07,870 - 00:14:09,870] very high precision quantum electrodynamics.
+- [00:14:09,870 - 00:14:13,870] And the properties of atoms and so forth.
+- [00:14:13,870 - 00:14:18,870] But there are also fluctuations that take place over here.
+- [00:14:18,870 - 00:14:22,370] Now, those fluctuations appear to
+- [00:14:22,370 - 00:14:25,870] be emitted from the horizon.
+- [00:14:25,870 - 00:14:29,370] The horizon is a place very
+- [00:14:29,370 - 00:14:32,870] close to this light cone here.
+- [00:14:32,870 - 00:14:35,370] They appear to be emitted
+- [00:14:35,370 - 00:14:37,870] and fall back into the horizon.
+- [00:14:37,870 - 00:14:39,870] That is exactly what these things are.
+- [00:14:39,870 - 00:14:44,370] They are the quantum fluctuations which take place half
+- [00:14:44,370 - 00:14:48,870] behind the horizon and half in front of the horizon.
+- [00:14:48,870 - 00:14:51,870] And look to somebody on the outside
+- [00:14:51,870 - 00:14:54,870] as something emitted from the horizon and reabsorbed.
+- [00:14:54,870 - 00:14:56,870] Some tiny fraction of them
+- [00:14:56,870 - 00:14:58,870] have enough energy to get out.
+- [00:14:58,870 - 00:15:00,870] And we call that Hawking radiation.
+- [00:15:00,870 - 00:15:03,870] If you were on the outside, would you see
+- [00:15:03,870 - 00:15:06,870] it go from t minus infinity to t plus infinity?
+- [00:15:06,870 - 00:15:07,870] Sorry, again?
+- [00:15:07,870 - 00:15:10,870] It crosses those 45 degree lines.
+- [00:15:10,870 - 00:15:12,870] And they are t equals the lower on the outside.
+- [00:15:12,870 - 00:15:13,870] Yeah, well, okay.
+- [00:15:13,870 - 00:15:15,870] So let's not, yeah.
+- [00:15:15,870 - 00:15:19,870] There's a classical horizon which really looks like this.
+- [00:15:19,870 - 00:15:22,870] But it's always convenient.
+- [00:15:22,870 - 00:15:25,870] And we all do this all the time.
+- [00:15:25,870 - 00:15:28,370] We draw a surface one
+- [00:15:28,370 - 00:15:30,870] Planck length away from that horizon.
+- [00:15:30,870 - 00:15:32,870] This is a surface one
+- [00:15:32,870 - 00:15:34,870] Planck length away from the horizon.
+- [00:15:34,870 - 00:15:35,870] All right.
+- [00:15:35,870 - 00:15:36,870] It's one Planck length from here.
+- [00:15:36,870 - 00:15:38,870] One Planck length here.
+- [00:15:38,870 - 00:15:39,870] One Planck length here.
+- [00:15:39,870 - 00:15:42,370] It's a surface, if you like, if we wanted to
+- [00:15:42,370 - 00:15:44,870] draw this a different way, we would say here's the horizon.
+- [00:15:44,870 - 00:15:48,870] And one Planck length away, a thin layer.
+- [00:15:48,870 - 00:15:52,870] And the point here, of course, is that the horizon
+- [00:15:52,870 - 00:15:56,870] is not really accurately defined to within a Planck length.
+- [00:15:56,870 - 00:16:00,870] Quantum fluctuations not only of ordinary particles but of gravitation
+- [00:16:00,870 - 00:16:04,870] and the structure of the horizon, they all take place.
+- [00:16:04,870 - 00:16:06,870] So you really should think of the horizon.
+- [00:16:06,870 - 00:16:09,870] The horizon is a sort of slightly thickened thing.
+- [00:16:09,870 - 00:16:15,370] If you think of it thickened like that and a fluctuation
+- [00:16:15,370 - 00:16:20,870] takes place, then this fluctuation doesn't occur at time minus infinity.
+- [00:16:20,870 - 00:16:23,370] It occurs at some time in the remote
+- [00:16:23,370 - 00:16:25,870] past or at some time in the past.
+- [00:16:25,870 - 00:16:28,370] It's emitted out and it falls
+- [00:16:28,370 - 00:16:30,870] back into the horizon over here.
+- [00:16:30,870 - 00:16:33,370] So somebody outside would say, look, I see some photons
+- [00:16:33,370 - 00:16:35,870] that look as though they're not actually in the horizon.
+- [00:16:35,870 - 00:16:36,870] They're in the horizon.
+- [00:16:36,870 - 00:16:40,370] I see some photons that look as though they were emitted from
+- [00:16:40,370 - 00:16:43,870] somewhere that's very close to the horizon with very, very high energy.
+- [00:16:43,870 - 00:16:46,870] They pop out and they fall back in.
+- [00:16:46,870 - 00:16:49,870] That's what the mathematics gives.
+- [00:16:49,870 - 00:16:55,870] And it is the same no matter what the horizon
+- [00:16:55,870 - 00:17:01,870] is, whether the horizon is a cosmic horizon, whether it's a...
+- [00:17:01,870 - 00:17:03,870] Now, for cos...
+- [00:17:03,870 - 00:17:04,869] Oh, I guess...
+- [00:17:04,869 - 00:17:05,869] Are you ready to begin?
+- [00:17:05,869 - 00:17:06,869] Yeah.
+- [00:17:06,869 - 00:17:07,869] We'll have a beer.
+- [00:17:07,869 - 00:17:09,869] Ten after.
+- [00:17:09,869 - 00:17:10,869] Ten after.
+- [00:17:10,869 - 00:17:12,369] Oh, we spent more time on
+- [00:17:12,369 - 00:17:13,869] that than I thought we would.
+- [00:17:13,869 - 00:17:17,869] All right, well then, good.
+- [00:17:17,869 - 00:17:21,869] Let's talk about cosmic horizons in the same vein.
+- [00:17:21,869 - 00:17:25,869] There are many ways to draw the Sitter space.
+- [00:17:25,869 - 00:17:28,369] The Sitter space is the
+- [00:17:28,369 - 00:17:30,870] space which is exponentially expanding.
+- [00:17:30,870 - 00:17:32,870] One way to draw it
+- [00:17:32,870 - 00:17:34,870] is just to draw a triangle.
+- [00:17:34,870 - 00:17:37,870] The time axis, which goes up to infinity.
+- [00:17:37,870 - 00:17:45,369] Draw the blackboard and keep track of the fact in our heads that the
+- [00:17:45,369 - 00:17:52,869] distance between any pair of neighboring coordinate lines here is exponentially increasing with time.
+- [00:17:52,869 - 00:17:55,869] That's one way to draw it.
+- [00:17:55,869 - 00:17:59,369] Another way to draw it is
+- [00:17:59,369 - 00:18:02,869] to squash all of future time.
+- [00:18:02,870 - 00:18:04,870] All of future time...
+- [00:18:04,870 - 00:18:09,870] All of future time...
+- [00:18:09,870 - 00:18:12,870] Down by coordinate transformation.
+- [00:18:12,870 - 00:18:15,870] We did the coordinate transformation last time.
+- [00:18:15,870 - 00:18:20,870] So that future infinity is a horizontal line like that.
+- [00:18:20,870 - 00:18:25,870] Corresponds to t equals infinity.
+- [00:18:25,870 - 00:18:28,870] I think I wrote down the metric for
+- [00:18:28,870 - 00:18:31,870] you in a form which maps t equals infinity...
+- [00:18:31,870 - 00:18:33,870] to a finite place.
+- [00:18:33,870 - 00:18:36,870] I'll just rewrite it for you.
+- [00:18:36,870 - 00:18:39,370] The original metric was the s
+- [00:18:39,370 - 00:18:41,870] squared is equal to minus dt squared.
+- [00:18:41,870 - 00:18:44,870] That's the usual thing.
+- [00:18:44,870 - 00:18:46,870] Plus...
+- [00:18:47,074 - 00:18:48,534] 一
+- [00:18:48,546 - 00:18:53,266] to the 2HT dx squared, where again, dx squared
+- [00:18:53,266 - 00:18:57,986] stands for dx squared plus dy squared plus dz squared.
+- [00:18:57,986 - 00:19:00,986] And this e to the 2HT,
+- [00:19:00,986 - 00:19:03,986] that's the exponential expansion of the space.
+- [00:19:03,986 - 00:19:07,106] Why does it come in with a 2?
+- [00:19:07,106 - 00:19:09,446] Because it's really distance squared, right.
+- [00:19:09,446 - 00:19:14,486] Distance between points is increasing like e to the HT.
+- [00:19:14,486 - 00:19:19,616] And so a given dx corresponds to a growing distance which grows as e to
+- [00:19:19,616 - 00:19:24,746] the 2, as e to the HT, and in the metric it's e to the 2HT.
+- [00:19:24,746 - 00:19:26,306] Then we made a transformation.
+- [00:19:26,306 - 00:19:28,776] Just in order, it's a, we
+- [00:19:28,776 - 00:19:31,246] made a transformation of the time variable.
+- [00:19:31,246 - 00:19:35,156] We wrote the time variable t,
+- [00:19:35,156 - 00:19:39,066] I think, oh, what is h?
+- [00:19:39,066 - 00:19:44,146] Right, h is the Hubble constant in this space.
+- [00:19:44,146 - 00:19:44,406] All right.
+- [00:19:44,406 - 00:19:44,486] It's a time variable.
+- [00:19:44,486 - 00:19:46,706] It's also the expansion rate.
+- [00:19:46,706 - 00:19:55,346] We wrote t is equal, I believe, to 1 over h
+- [00:19:55,346 - 00:20:03,986] e minus e to the minus, minus or plus, minus, minus HT.
+- [00:20:03,986 - 00:20:07,416] Sorry, T, capital T. Capital T
+- [00:20:07,416 - 00:20:10,846] goes from minus infinity, is this right?
+- [00:20:10,846 - 00:20:12,666] Minus HT?
+- [00:20:12,666 - 00:20:14,406] Should be right.
+- [00:20:14,406 - 00:20:16,626] Yeah.
+- [00:20:16,626 - 00:20:21,606] Capital T goes from minus infinity deep in the past.
+- [00:20:21,606 - 00:20:25,616] What happens to this thing
+- [00:20:25,616 - 00:20:29,626] when T goes to minus infinity?
+- [00:20:29,626 - 00:20:31,066] It gets big.
+- [00:20:31,066 - 00:20:34,346] e to the minus HT gets big when T
+- [00:20:34,346 - 00:20:37,626] goes to minus infinity, but it gets big in negative.
+- [00:20:37,626 - 00:20:40,656] Okay, so the remote past T equals minus
+- [00:20:40,656 - 00:20:43,686] infinity is also capital T equals minus infinity.
+- [00:20:43,686 - 00:20:43,706] Yeah.
+- [00:20:43,706 - 00:20:47,316] So, in the remote future, when this
+- [00:20:47,316 - 00:20:50,926] T gets very big, that happens when what?
+- [00:20:50,926 - 00:20:54,046] Do I have this right?
+- [00:20:54,046 - 00:20:58,926] I don't have this right.
+- [00:20:58,926 - 00:21:05,926] Excuse me.
+- [00:21:05,926 - 00:21:06,926] Still true.
+- [00:21:06,926 - 00:21:09,426] When this T is large and negative,
+- [00:21:09,426 - 00:21:11,926] this T is also large and negative.
+- [00:21:11,926 - 00:21:12,986] All right.
+- [00:21:12,986 - 00:21:14,866] But now what happens when
+- [00:21:14,866 - 00:21:16,746] this T is large and positive?
+- [00:21:16,746 - 00:21:21,356] When this T is large and positive, then
+- [00:21:21,356 - 00:21:25,966] this gets small and capital T goes to zero.
+- [00:21:25,966 - 00:21:29,106] So T equals infinity is also capital T equals zero.
+- [00:21:29,106 - 00:21:30,226] And this is just a trick.
+- [00:21:30,226 - 00:21:32,766] It's a trick for getting the whole geometry,
+- [00:21:32,766 - 00:21:35,306] or not the whole geometry, but the part we're
+- [00:21:35,306 - 00:21:37,526] interested in, the remote future
+- [00:21:37,526 - 00:21:39,746] in this case, onto the blackboard.
+- [00:21:39,746 - 00:21:42,986] Now, what happens if we rewrite this metric?
+- [00:21:42,986 - 00:21:46,876] It becomes minus infinity plus
+- [00:21:46,876 - 00:21:50,766] x squared, in terms of T.
+- [00:21:50,766 - 00:21:56,506] Let me just remind you, it becomes minus,
+- [00:21:56,506 - 00:22:02,246] sorry, plus minus dt squared plus dx squared,
+- [00:22:02,246 - 00:22:07,066] all times 1 over t squared.
+- [00:22:07,066 - 00:22:08,866] 1 over t squared h squared to be exact.
+- [00:22:08,866 - 00:22:10,486] Notice that when T gets very small, the distance
+- [00:22:10,486 - 00:22:12,106] between the two has to be equal to infinity.
+- [00:22:12,106 - 00:22:12,146] Okay?
+- [00:22:12,146 - 00:22:12,246] Yeah.
+- [00:22:12,246 - 00:22:12,306] Okay.
+- [00:22:12,306 - 00:22:12,346] All right.
+- [00:22:12,346 - 00:22:12,366] Okay.
+- [00:22:12,366 - 00:22:12,486] All right.
+- [00:22:12,486 - 00:22:12,846] All right.
+- [00:22:12,846 - 00:22:12,866] All right.
+- [00:22:12,866 - 00:22:12,986] All right.
+- [00:22:12,986 - 00:22:15,986] the distance between points gets very big,
+- [00:22:15,986 - 00:22:18,986] just as it did on this side over here.
+- [00:22:18,986 - 00:22:21,986] This is just a rewriting of this,
+- [00:22:21,986 - 00:22:24,986] and t goes to zero is the remote future.
+- [00:22:24,986 - 00:22:28,986] The nice thing about writing the metric this way
+- [00:22:28,986 - 00:22:30,986] is that in these coordinates,
+- [00:22:30,986 - 00:22:34,986] light rays move on 45-degree angles.
+- [00:22:34,986 - 00:22:37,986] That's very helpful in thinking about this geometry
+- [00:22:37,986 - 00:22:41,986] and asking who can communicate with whom.
+- [00:22:41,986 - 00:22:45,986] Let's get rid of this here.
+- [00:22:45,986 - 00:22:48,986] Why is it that light rays move on 45 degrees
+- [00:22:48,986 - 00:22:51,986] in this metric here?
+- [00:22:51,986 - 00:22:53,986] Well, the rule for light rays
+- [00:22:53,986 - 00:22:55,986] is that the metric should be zero,
+- [00:22:55,986 - 00:22:58,986] that the interval should be zero.
+- [00:22:58,986 - 00:23:00,486] So dt squared minus dt
+- [00:23:00,486 - 00:23:01,986] squared plus dx squared equals zero.
+- [00:23:01,986 - 00:23:04,986] It's the same as dt equals dx, right?
+- [00:23:04,986 - 00:23:09,986] And dt equals dx is just a 45-degree line.
+- [00:23:09,986 - 00:23:11,986] If the light ray moves on 45 degrees,
+- [00:23:11,986 - 00:23:13,986] the light ray moves on 45 degrees.
+- [00:23:13,986 - 00:23:15,986] If the light ray moves in the plane,
+- [00:23:15,986 - 00:23:17,986] it would be 45 degrees in the plane.
+- [00:23:17,986 - 00:23:19,986] If we're moving out of the plane,
+- [00:23:19,986 - 00:23:21,986] it would be 45 degrees out of the plane.
+- [00:23:21,986 - 00:23:23,986] But there's only so much we can visualize
+- [00:23:23,986 - 00:23:25,986] with a two-dimensional blackboard.
+- [00:23:25,986 - 00:23:27,986] Okay, so that's the setup.
+- [00:23:27,986 - 00:23:30,986] That's what space-time in this kind of
+- [00:23:30,986 - 00:23:37,986] inflating, exponentially increasing world looks like.
+- [00:23:37,986 - 00:23:39,986] Here it is.
+- [00:23:39,986 - 00:23:41,986] Here's somebody.
+- [00:23:41,986 - 00:23:43,986] You, me, I don't know.
+- [00:23:43,986 - 00:23:46,986] And in the real world, of course,
+- [00:23:46,986 - 00:23:48,486] people only get to live
+- [00:23:48,486 - 00:23:49,986] for a certain amount of time.
+- [00:23:49,986 - 00:23:51,486] But right now, we're going
+- [00:23:51,486 - 00:23:52,986] to pretend we can live forever.
+- [00:23:52,986 - 00:23:57,986] And so here's the world line of some observer.
+- [00:23:57,986 - 00:24:01,986] And that world line, does it really end?
+- [00:24:01,986 - 00:24:03,486] No, it doesn't really end because
+- [00:24:03,486 - 00:24:04,986] there's an infinite amount of time
+- [00:24:04,986 - 00:24:07,986] between any finite point in here.
+- [00:24:07,986 - 00:24:09,986] But on the blackboard, we draw the,
+- [00:24:09,986 - 00:24:14,986] the observer as just ending at that point over here.
+- [00:24:14,986 - 00:24:16,986] That's the remote future.
+- [00:24:16,986 - 00:24:19,986] What can that observer see?
+- [00:24:19,986 - 00:24:21,986] Well, he looks back and he
+- [00:24:21,986 - 00:24:23,986] sees light rays coming at him
+- [00:24:23,986 - 00:24:26,986] from distant places.
+- [00:24:26,986 - 00:24:30,986] And light rays move on 45 degrees.
+- [00:24:30,986 - 00:24:33,486] I could, I can add one
+- [00:24:33,486 - 00:24:35,986] more dimension to this if I,
+- [00:24:35,986 - 00:24:38,986] I can fake a dimension by doing that.
+- [00:24:39,986 - 00:24:41,986] All right, so he sees light rays coming,
+- [00:24:41,986 - 00:24:43,986] but I can't get, I can't draw another dimension.
+- [00:24:43,986 - 00:24:45,986] That's too many.
+- [00:24:45,986 - 00:24:47,986] We would like x, y, and z,
+- [00:24:47,986 - 00:24:48,986] but at least I can get
+- [00:24:48,986 - 00:24:49,986] x and y on the plane,
+- [00:24:49,986 - 00:24:51,986] on the diagram here.
+- [00:24:51,986 - 00:24:53,986] So this observer looks back,
+- [00:24:53,986 - 00:24:55,486] and as time goes on,
+- [00:24:55,486 - 00:24:56,986] gets to see more and more,
+- [00:24:56,986 - 00:24:59,986] but never gets to see more of the space-time
+- [00:24:59,986 - 00:25:03,986] than is in the backward light cone here.
+- [00:25:03,986 - 00:25:05,986] So in particular,
+- [00:25:05,986 - 00:25:07,986] never gets to see anything out here,
+- [00:25:07,986 - 00:25:09,986] or out here.
+- [00:25:09,986 - 00:25:12,486] At least doesn't get to see
+- [00:25:12,486 - 00:25:14,986] it in any sort of usual sense.
+- [00:25:14,986 - 00:25:16,986] So there's a region,
+- [00:25:16,986 - 00:25:18,986] most of space and time,
+- [00:25:18,986 - 00:25:20,986] almost everything,
+- [00:25:20,986 - 00:25:23,986] is totally inaccessible to this observer.
+- [00:25:23,986 - 00:25:29,986] Now, of course, there may be another observer over here.
+- [00:25:29,986 - 00:25:33,986] And that other observer sees something else.
+- [00:25:33,986 - 00:25:35,986] There's some overlap.
+- [00:25:35,986 - 00:25:37,986] Okay, there's some overlap.
+- [00:25:37,986 - 00:25:39,986] But,
+- [00:25:39,986 - 00:25:42,986] this person gets to see everything in here.
+- [00:25:42,986 - 00:25:44,986] This person gets to see everything over here.
+- [00:25:44,986 - 00:25:46,986] Let's simplify it,
+- [00:25:46,986 - 00:25:49,986] and just study one observer at a time.
+- [00:25:49,986 - 00:25:51,986] For all practical purposes,
+- [00:25:51,986 - 00:25:53,986] his universe,
+- [00:25:53,986 - 00:25:55,986] space-time universe,
+- [00:25:55,986 - 00:25:57,986] is this backward light cone here.
+- [00:25:57,986 - 00:25:59,986] Now, what does he see?
+- [00:25:59,986 - 00:26:01,986] Does he see things,
+- [00:26:01,986 - 00:26:04,986] a world which seems to depend on time?
+- [00:26:04,986 - 00:26:06,986] You would think so.
+- [00:26:06,986 - 00:26:07,986] You might think,
+- [00:26:07,986 - 00:26:09,986] well, everything seems to be exponentially expanding.
+- [00:26:09,986 - 00:26:13,986] But let's just do a very simple exercise now.
+- [00:26:13,986 - 00:26:17,986] Let's consider this distance,
+- [00:26:17,986 - 00:26:21,986] and compare it with this distance,
+- [00:26:21,986 - 00:26:23,986] and this distance,
+- [00:26:23,986 - 00:26:24,986] and this distance,
+- [00:26:24,986 - 00:26:26,986] and this distance.
+- [00:26:26,986 - 00:26:27,986] Basically,
+- [00:26:27,986 - 00:26:29,986] this distance that I've drawn here,
+- [00:26:29,986 - 00:26:33,986] is the distance from the observer to his horizon.
+- [00:26:33,986 - 00:26:37,986] Let's see how that changes with time.
+- [00:26:37,986 - 00:26:38,986] It looks like it's shrinking.
+- [00:26:38,986 - 00:26:40,986] But let's just check that.
+- [00:26:40,986 - 00:26:42,986] Here's the metric.
+- [00:26:42,986 - 00:26:44,986] Here's the metric.
+- [00:26:44,986 - 00:26:47,986] And let's put this point over here
+- [00:26:47,986 - 00:26:51,986] at t equals minus one.
+- [00:26:51,986 - 00:26:54,986] Let's put this point over here
+- [00:26:54,986 - 00:26:57,986] at t equals minus a half.
+- [00:26:57,986 - 00:27:00,986] This one over here at t equals minus a quarter.
+- [00:27:00,986 - 00:27:03,986] Incidentally, that corresponds to uniform
+- [00:27:03,986 - 00:27:06,986] ticking off of proper time.
+- [00:27:06,986 - 00:27:08,986] Each unit of time,
+- [00:27:08,986 - 00:27:13,986] would correspond to dividing this interval by half.
+- [00:27:13,986 - 00:27:15,986] That's the way this transformation worked.
+- [00:27:15,986 - 00:27:17,986] That's why there's an infinite amount of time in here.
+- [00:27:17,986 - 00:27:20,986] And now let's calculate this distance.
+- [00:27:20,986 - 00:27:22,986] To calculate this distance,
+- [00:27:22,986 - 00:27:23,986] we just look at the metric.
+- [00:27:23,986 - 00:27:28,986] This is the metric.
+- [00:27:28,986 - 00:27:29,986] And so,
+- [00:27:29,986 - 00:27:32,986] these two points are separated
+- [00:27:32,986 - 00:27:34,986] by a spatial distance,
+- [00:27:34,986 - 00:27:37,986] but no time distance.
+- [00:27:37,986 - 00:27:39,986] So these two points
+- [00:27:39,986 - 00:27:42,986] are separated by zero time interval.
+- [00:27:42,986 - 00:27:44,986] That means in this formula here,
+- [00:27:44,986 - 00:27:46,986] there should be an equal sign.
+- [00:27:46,986 - 00:27:52,986] In some ways, there should be an equal sign.
+- [00:27:52,986 - 00:27:55,986] Oh, yeah.
+- [00:27:55,986 - 00:27:57,986] There is no time separation
+- [00:27:57,986 - 00:27:59,986] at all between these two points.
+- [00:27:59,986 - 00:28:01,986] So let's write it in a finite form,
+- [00:28:01,986 - 00:28:03,986] not a differential form.
+- [00:28:03,986 - 00:28:05,986] The square of the distance,
+- [00:28:05,986 - 00:28:09,986] let's call it from a to b.
+- [00:28:09,986 - 00:28:11,986] What is that?
+- [00:28:11,986 - 00:28:14,986] No time separation.
+- [00:28:14,986 - 00:28:21,986] What is the delta x between these two points?
+- [00:28:21,986 - 00:28:23,986] Can you tell?
+- [00:28:23,986 - 00:28:26,986] This is a 45 degree angle.
+- [00:28:26,986 - 00:28:29,986] This distance is capital T.
+- [00:28:29,986 - 00:28:32,986] This distance is also capital T.
+- [00:28:32,986 - 00:28:33,986] In fact, let's not even bother
+- [00:28:33,986 - 00:28:34,986] writing this t equals minus one.
+- [00:28:34,986 - 00:28:36,986] Let it just be t.
+- [00:28:36,986 - 00:28:38,986] Let it just be t.
+- [00:28:38,986 - 00:28:41,986] This distance here,
+- [00:28:41,986 - 00:28:43,986] the horizontal distance,
+- [00:28:43,986 - 00:28:46,986] is also the same as the vertical distance.
+- [00:28:46,986 - 00:28:47,986] So,
+- [00:28:47,986 - 00:28:49,986] we get zero from here,
+- [00:28:49,986 - 00:28:51,986] but from here we get plus,
+- [00:28:51,986 - 00:28:56,986] and delta x is the same as T,
+- [00:28:56,986 - 00:28:57,986] squared,
+- [00:28:57,986 - 00:29:00,986] but now divided by T squared, h squared.
+- [00:29:04,986 - 00:29:06,986] And what's the answer?
+- [00:29:06,986 - 00:29:08,986] One over h squared.
+- [00:29:08,986 - 00:29:11,986] In other words, the distance from here to here
+- [00:29:11,986 - 00:29:15,986] is just one over h.
+- [00:29:15,986 - 00:29:18,986] That's the actual real physical distance
+- [00:29:18,986 - 00:29:20,986] that you would measure
+- [00:29:20,986 - 00:29:24,986] with measuring devices.
+- [00:29:24,986 - 00:29:28,986] But notice, the answer doesn't depend on T.
+- [00:29:28,986 - 00:29:30,986] The distance between here and here
+- [00:29:30,986 - 00:29:32,486] is exactly the same as
+- [00:29:32,486 - 00:29:33,986] the distance between here and here.
+- [00:29:33,986 - 00:29:36,986] The delta x is smaller,
+- [00:29:36,986 - 00:29:40,986] but the T is also smaller.
+- [00:29:40,986 - 00:29:43,986] So when you write up to here,
+- [00:29:43,986 - 00:29:47,986] the delta x gets shrunk by a factor of two,
+- [00:29:47,986 - 00:29:50,986] but T also gets shrunk by a factor of two.
+- [00:29:50,986 - 00:29:53,986] So the distance of the observer
+- [00:29:53,986 - 00:29:56,986] from the horizon is always the same.
+- [00:29:56,986 - 00:29:59,986] The observer sees a horizon around him,
+- [00:29:59,986 - 00:30:02,986] a sort of sphere,
+- [00:30:02,986 - 00:30:07,986] and that sphere doesn't change with time.
+- [00:30:07,986 - 00:30:10,986] In fact, you might suspect
+- [00:30:10,986 - 00:30:13,986] that if you used coordinates
+- [00:30:13,986 - 00:30:16,986] that were appropriate
+- [00:30:16,986 - 00:30:20,986] to the observer inside one horizon,
+- [00:30:20,986 - 00:30:24,986] you might discover that the metric had no time dependence.
+- [00:30:24,986 - 00:30:27,986] After all, the distance to the horizon
+- [00:30:27,986 - 00:30:29,986] doesn't have any time dependence.
+- [00:30:29,986 - 00:30:31,986] It's always the same.
+- [00:30:31,986 - 00:30:35,986] And in fact, many things don't change with time.
+- [00:30:35,986 - 00:30:37,986] It just looks like they do.
+- [00:30:37,986 - 00:30:40,986] You might expect that maybe there's some way
+- [00:30:40,986 - 00:30:42,986] to rewrite this geometry.
+- [00:30:42,986 - 00:30:44,986] And I'm simply going to tell you the answer.
+- [00:30:44,986 - 00:30:47,986] I'm not going to work it out in detail.
+- [00:30:47,986 - 00:30:50,986] But using coordinates like this,
+- [00:30:50,986 - 00:30:53,986] spatial coordinates,
+- [00:30:53,986 - 00:30:56,986] which are appropriate to the absolute interior
+- [00:30:56,986 - 00:30:59,986] of this horizon region.
+- [00:30:59,986 - 00:31:01,986] There is another way of writing
+- [00:31:01,986 - 00:31:03,986] that's not symmetric,
+- [00:31:03,986 - 00:31:05,986] but it's only good for this region.
+- [00:31:05,986 - 00:31:08,986] It doesn't capture what's going on on the outside,
+- [00:31:08,986 - 00:31:10,986] but captures everything on the inside.
+- [00:31:10,986 - 00:31:12,986] I'm going to show you what it is.
+- [00:31:12,986 - 00:31:14,986] And you look at it for a minute,
+- [00:31:14,986 - 00:31:18,986] and it may look somewhat familiar.
+- [00:31:18,986 - 00:31:22,986] Familiar, but not familiar.
+- [00:31:22,986 - 00:31:26,986] These are coordinates
+- [00:31:26,986 - 00:31:29,986] which are sort of built on the pattern
+- [00:31:29,986 - 00:31:31,986] that I described here.
+- [00:31:31,986 - 00:31:34,986] In other words, they're coordinates
+- [00:31:34,986 - 00:31:36,986] in which the coordinate distance
+- [00:31:36,986 - 00:31:38,986] between here and here is the same
+- [00:31:38,986 - 00:31:42,986] as the coordinate distance between here and here.
+- [00:31:42,986 - 00:31:45,986] This coordinate distance and the new coordinates
+- [00:31:45,986 - 00:31:47,986] will be the same as this,
+- [00:31:47,986 - 00:31:48,986] will be the same as this.
+- [00:31:48,986 - 00:31:51,986] And I'll show you what the metric looks like.
+- [00:31:55,986 - 00:31:59,986] ds squared equals minus dt squared.
+- [00:31:59,986 - 00:32:00,986] That's no surprise.
+- [00:32:00,986 - 00:32:03,986] It's actually proper time.
+- [00:32:03,986 - 00:32:05,986] Actual proper time.
+- [00:32:05,986 - 00:32:10,986] And then the rest of it is plus...
+- [00:32:10,986 - 00:32:12,986] Oh, no, no, no, sorry.
+- [00:32:12,986 - 00:32:14,986] I did it wrong.
+- [00:32:14,986 - 00:32:17,986] Mistake.
+- [00:32:17,986 - 00:32:20,986] I apologize for mistakes,
+- [00:32:20,986 - 00:32:23,986] but the mistakes happen
+- [00:32:23,986 - 00:32:25,986] when I haven't had my cookies yet.
+- [00:32:27,986 - 00:32:29,986] Minus.
+- [00:32:29,986 - 00:32:31,986] What?
+- [00:32:31,986 - 00:32:32,986] Understandable.
+- [00:32:32,986 - 00:32:33,986] Yeah, right.
+- [00:32:33,986 - 00:32:35,986] Low blood sugar.
+- [00:32:35,986 - 00:32:50,986] One minus h squared r squared dt squared
+- [00:32:50,986 - 00:32:57,986] plus one over one minus h squared r squared.
+- [00:32:59,986 - 00:33:07,986] The r squared plus r squared d omega two squared.
+- [00:33:07,986 - 00:33:10,986] Remember what omega two is?
+- [00:33:10,986 - 00:33:11,986] Right.
+- [00:33:11,986 - 00:33:12,986] When you're sitting at the center
+- [00:33:12,986 - 00:33:15,986] and you look around you,
+- [00:33:15,986 - 00:33:18,986] you see an angular sphere around you,
+- [00:33:18,986 - 00:33:20,986] and this is just one way
+- [00:33:20,986 - 00:33:25,986] of not writing out the full spherical metric,
+- [00:33:25,986 - 00:33:27,986] just simplifying it.
+- [00:33:27,986 - 00:33:28,986] Does this look at all familiar?
+- [00:33:29,986 - 00:33:30,986] Yeah.
+- [00:33:30,986 - 00:33:32,986] Yeah, what's it look like?
+- [00:33:32,986 - 00:33:33,986] It does.
+- [00:33:33,986 - 00:33:36,986] Let me just remind you what Schwarzschild looks like.
+- [00:33:36,986 - 00:33:38,986] Exactly the same,
+- [00:33:38,986 - 00:33:41,986] except h there, or h squared,
+- [00:33:41,986 - 00:33:45,986] is replaced by twice mg,
+- [00:33:45,986 - 00:33:49,986] and then it's divided by r.
+- [00:33:49,986 - 00:33:52,986] Everything is exactly the same
+- [00:33:52,986 - 00:33:54,986] if you take the parentheses
+- [00:33:54,986 - 00:33:56,986] and put this in here.
+- [00:33:56,986 - 00:33:58,986] Likewise over here.
+- [00:33:58,986 - 00:34:01,986] It has the same kind of form.
+- [00:34:01,986 - 00:34:03,986] And in fact,
+- [00:34:03,986 - 00:34:05,986] it looks awfully different
+- [00:34:05,986 - 00:34:07,986] to have h squared r squared here,
+- [00:34:07,986 - 00:34:09,985] but the important thing,
+- [00:34:09,985 - 00:34:10,985] what was important?
+- [00:34:10,985 - 00:34:12,985] Where is the horizon?
+- [00:34:12,985 - 00:34:14,985] In the Schwarzschild black,
+- [00:34:14,985 - 00:34:15,985] right.
+- [00:34:15,985 - 00:34:17,985] But the horizon is where this thing
+- [00:34:17,985 - 00:34:19,985] is equal to zero.
+- [00:34:19,985 - 00:34:22,985] That's the place where clocks slow down.
+- [00:34:22,985 - 00:34:24,985] It's the places where distances
+- [00:34:24,985 - 00:34:26,985] are infinitely contracted.
+- [00:34:26,985 - 00:34:27,985] And it's also the place which says,
+- [00:34:27,985 - 00:34:28,985] where is the horizon?
+- [00:34:28,985 - 00:34:30,985] It's also the place which separates
+- [00:34:30,985 - 00:34:31,985] the inside of the black hole
+- [00:34:31,985 - 00:34:33,985] from the outside of the black hole.
+- [00:34:33,985 - 00:34:35,985] You can also write this in the form
+- [00:34:35,985 - 00:34:37,985] r minus 2mg over r.
+- [00:34:37,985 - 00:34:39,985] It doesn't matter how you write it.
+- [00:34:39,985 - 00:34:43,985] The real importance of this term
+- [00:34:43,985 - 00:34:45,985] is the place where it vanishes,
+- [00:34:45,985 - 00:34:46,985] where it equals zero.
+- [00:34:46,985 - 00:34:48,985] That is where the horizon is.
+- [00:34:48,985 - 00:34:51,985] Likewise here.
+- [00:34:51,985 - 00:34:53,985] Same idea.
+- [00:34:53,985 - 00:34:55,985] The place where this thing vanishes,
+- [00:34:55,985 - 00:34:57,986] which is r.
+- [00:34:57,986 - 00:35:01,986] That's r equals one over h.
+- [00:35:01,986 - 00:35:05,986] Where is it?
+- [00:35:05,986 - 00:35:10,986] r equals one over h.
+- [00:35:10,986 - 00:35:14,986] That's the distance to the horizon.
+- [00:35:14,986 - 00:35:17,986] So this is another way
+- [00:35:17,986 - 00:35:21,986] of writing exactly the same geometry,
+- [00:35:21,986 - 00:35:24,986] except something really breaks down
+- [00:35:24,986 - 00:35:27,986] if you try to make r bigger
+- [00:35:27,986 - 00:35:30,986] than one over h.
+- [00:35:30,986 - 00:35:32,986] Something goes berserk here.
+- [00:35:32,986 - 00:35:36,986] You really don't get out past here.
+- [00:35:39,986 - 00:35:41,986] The whole metric gets a little bit silly.
+- [00:35:41,986 - 00:35:43,986] Space turns and turns into time.
+- [00:35:43,986 - 00:35:45,986] Time turns into space.
+- [00:35:45,986 - 00:35:47,986] We don't need to worry about that right now.
+- [00:35:47,986 - 00:35:50,986] You let r go from zero
+- [00:35:50,986 - 00:35:52,986] to one over h.
+- [00:35:52,986 - 00:35:54,986] And this geometry covers
+- [00:35:54,986 - 00:35:56,986] the entire cone there.
+- [00:35:56,986 - 00:35:58,986] Everything that's inside that cone.
+- [00:35:58,986 - 00:36:00,986] And it is everything that can be seen
+- [00:36:00,986 - 00:36:02,986] by an observer.
+- [00:36:02,986 - 00:36:04,986] By a single observer.
+- [00:36:04,986 - 00:36:06,986] Yeah?
+- [00:36:06,986 - 00:36:08,986] Why is it a nature function of time?
+- [00:36:08,986 - 00:36:10,986] Well, because you weren't here
+- [00:36:10,986 - 00:36:12,986] to begin with.
+- [00:36:12,986 - 00:36:14,986] Because we're talking about
+- [00:36:14,986 - 00:36:16,986] an exponentially expanding universe.
+- [00:36:16,986 - 00:36:18,986] Right.
+- [00:36:18,986 - 00:36:20,986] Where the scale factor is e to the ht.
+- [00:36:20,986 - 00:36:22,986] Right.
+- [00:36:22,986 - 00:36:24,986] So here's a series of lines
+- [00:36:24,986 - 00:36:26,986] up there.
+- [00:36:26,986 - 00:36:28,986] They're all length one over h.
+- [00:36:28,986 - 00:36:30,986] These?
+- [00:36:30,986 - 00:36:32,986] No.
+- [00:36:32,986 - 00:36:34,986] Up there next to the drawing above.
+- [00:36:34,986 - 00:36:36,986] Oh, here. The horizontal ones.
+- [00:36:36,986 - 00:36:38,986] Yes.
+- [00:36:38,986 - 00:36:40,986] They're all length one over h.
+- [00:36:40,986 - 00:36:42,986] And therefore, they're like the distance
+- [00:36:42,986 - 00:36:44,986] to the horizon here.
+- [00:36:44,986 - 00:36:46,986] From r equals zero to one over h.
+- [00:36:46,986 - 00:36:48,986] Alright.
+- [00:36:48,986 - 00:36:50,986] It takes a little bit of mathematical trickery
+- [00:36:50,986 - 00:36:52,986] to rewrite this metric.
+- [00:36:52,986 - 00:36:54,986] A few coordinate changes.
+- [00:36:54,986 - 00:36:56,986] There's a few transformations of coordinates
+- [00:36:56,986 - 00:36:58,986] that you have to do.
+- [00:36:58,986 - 00:37:00,986] And when you've done those
+- [00:37:00,986 - 00:37:02,986] coordinate transformations,
+- [00:37:02,986 - 00:37:04,986] you'll find that this patch
+- [00:37:04,986 - 00:37:06,986] is called sometimes the causal patch
+- [00:37:06,986 - 00:37:08,986] or the static patch.
+- [00:37:08,986 - 00:37:10,986] And one thing you notice about this metric,
+- [00:37:10,986 - 00:37:12,986] the most interesting thing about it,
+- [00:37:12,986 - 00:37:14,986] or the many interesting things about it,
+- [00:37:14,986 - 00:37:16,986] first of all, it has a horizon.
+- [00:37:16,986 - 00:37:18,986] But second of all,
+- [00:37:18,986 - 00:37:20,986] none of the coefficients here
+- [00:37:20,986 - 00:37:22,986] depend on time.
+- [00:37:22,986 - 00:37:24,986] They depend on r,
+- [00:37:24,986 - 00:37:26,986] but they don't depend on time.
+- [00:37:26,986 - 00:37:28,986] And in that sense, in this form,
+- [00:37:28,986 - 00:37:30,986] the metric is completely time independent.
+- [00:37:30,986 - 00:37:32,986] And it's another way of saying
+- [00:37:32,986 - 00:37:34,986] that what an observer sees around him
+- [00:37:34,986 - 00:37:36,986] just doesn't change with time.
+- [00:37:36,986 - 00:37:38,986] It's static.
+- [00:37:38,986 - 00:37:40,986] It always looks the same.
+- [00:37:40,986 - 00:37:42,986] Distance to the horizon
+- [00:37:42,986 - 00:37:44,986] is always the same.
+- [00:37:44,986 - 00:37:46,986] Whatever the observer does at one time,
+- [00:37:46,986 - 00:37:48,986] if he does the same thing at a later time,
+- [00:37:48,986 - 00:37:50,986] he'll see the same thing.
+- [00:37:50,986 - 00:37:52,986] Now, it is true that
+- [00:37:52,986 - 00:37:54,986] if he takes two particles,
+- [00:37:54,986 - 00:37:56,986] let's ignore any forces between them.
+- [00:37:56,986 - 00:37:58,986] Let's suppose he takes two particles
+- [00:37:58,986 - 00:38:00,986] and lets them go.
+- [00:38:00,986 - 00:38:02,986] What will happen?
+- [00:38:02,986 - 00:38:04,986] We're ignoring any attractive forces.
+- [00:38:04,986 - 00:38:06,986] Space between them expands,
+- [00:38:06,986 - 00:38:08,986] and so they go flying off.
+- [00:38:08,986 - 00:38:10,986] So you say,
+- [00:38:10,986 - 00:38:12,986] well, that doesn't sound time independent.
+- [00:38:12,986 - 00:38:14,986] But the point is,
+- [00:38:14,986 - 00:38:16,986] if he does the same experiment
+- [00:38:16,986 - 00:38:18,986] at a later time,
+- [00:38:18,986 - 00:38:20,986] he will see exactly the same thing.
+- [00:38:20,986 - 00:38:22,986] Take the two particles,
+- [00:38:22,986 - 00:38:24,986] let them go,
+- [00:38:24,986 - 00:38:26,986] and they will slowly accelerate
+- [00:38:26,986 - 00:38:28,986] apart from each other.
+- [00:38:28,986 - 00:38:30,986] Take two particles at a later time,
+- [00:38:30,986 - 00:38:32,986] do exactly the same experiment,
+- [00:38:32,986 - 00:38:34,986] they will slowly accelerate away from each other.
+- [00:38:34,986 - 00:38:36,986] Do those two particles see a redshift?
+- [00:38:36,986 - 00:38:38,986] The other particle redshift?
+- [00:38:38,986 - 00:38:40,986] Yeah. For sure.
+- [00:38:40,986 - 00:38:42,986] Now,
+- [00:38:46,986 - 00:38:48,986] once we get to this point here,
+- [00:38:48,986 - 00:38:50,986] we can kind of see
+- [00:38:50,986 - 00:38:52,986] that a black hole horizon
+- [00:38:52,986 - 00:38:54,986] and a decider space horizon
+- [00:38:54,986 - 00:38:56,986] are very, very close relatives.
+- [00:38:58,986 - 00:39:00,986] The fact that
+- [00:39:00,986 - 00:39:02,986] everything that you can say
+- [00:39:02,986 - 00:39:04,986] about the near horizon region
+- [00:39:04,986 - 00:39:06,986] of the Schwarzschild black hole
+- [00:39:06,986 - 00:39:08,986] is pretty much the same
+- [00:39:08,986 - 00:39:10,986] for the
+- [00:39:12,986 - 00:39:14,986] decider space,
+- [00:39:14,986 - 00:39:16,986] I'm not going to try to prove that.
+- [00:39:16,986 - 00:39:18,986] But the similarity of the metrics
+- [00:39:18,986 - 00:39:20,986] are pretty clear,
+- [00:39:20,986 - 00:39:22,986] and they,
+- [00:39:22,986 - 00:39:24,986] in fact, near the horizon
+- [00:39:24,986 - 00:39:26,986] they're almost identical,
+- [00:39:26,986 - 00:39:28,986] very close to the horizon.
+- [00:39:28,986 - 00:39:30,986] But the whole global picture of things
+- [00:39:30,986 - 00:39:32,986] is quite different.
+- [00:39:32,986 - 00:39:34,986] Whereas a black hole is something
+- [00:39:34,986 - 00:39:36,986] that we stand on the outside of
+- [00:39:36,986 - 00:39:38,986] and look at
+- [00:39:38,986 - 00:39:40,986] and emit Hawking radiation,
+- [00:39:40,986 - 00:39:42,986] the whole picture here
+- [00:39:42,986 - 00:39:44,986] is quite the opposite.
+- [00:39:44,986 - 00:39:46,986] We are on the inside.
+- [00:39:46,986 - 00:39:48,986] The black stuff is on the outside,
+- [00:39:48,986 - 00:39:50,986] the stuff we can't see.
+- [00:39:50,986 - 00:39:52,986] And yes,
+- [00:39:52,986 - 00:39:54,986] there is Hawking radiation
+- [00:39:54,986 - 00:39:56,986] being emitted from the horizon
+- [00:39:56,986 - 00:39:58,986] for the same reason.
+- [00:39:58,986 - 00:40:00,986] It's emitted and absorbed,
+- [00:40:00,986 - 00:40:02,986] emitted and absorbed.
+- [00:40:02,986 - 00:40:04,986] Sometimes a photon gets to us.
+- [00:40:04,986 - 00:40:06,986] But we can also ask the question,
+- [00:40:06,986 - 00:40:08,986] what is the energy of a photon
+- [00:40:08,986 - 00:40:10,986] by the time it gets
+- [00:40:10,986 - 00:40:12,986] from near the horizon to us?
+- [00:40:12,986 - 00:40:14,986] And there,
+- [00:40:14,986 - 00:40:16,986] there is a big redshift factor.
+- [00:40:16,986 - 00:40:18,986] This metric,
+- [00:40:18,986 - 00:40:20,986] just like the Schwarzschild metric,
+- [00:40:20,986 - 00:40:22,986] has a gravitational potential.
+- [00:40:22,986 - 00:40:24,986] This metric also has a gravitational potential.
+- [00:40:26,986 - 00:40:28,986] I'll draw it for you.
+- [00:40:28,986 - 00:40:30,986] As a function of r,
+- [00:40:30,986 - 00:40:32,986] as a function of r,
+- [00:40:32,986 - 00:40:34,986] there's a gravitational potential.
+- [00:40:34,986 - 00:40:36,986] Let's see if we can draw it.
+- [00:40:40,986 - 00:40:42,986] It's upside down.
+- [00:40:42,986 - 00:40:44,986] It looks like this.
+- [00:40:44,986 - 00:40:46,986] The meaning of that
+- [00:40:46,986 - 00:40:48,986] is it takes work
+- [00:40:48,986 - 00:40:50,986] to pull something from the horizon
+- [00:40:50,986 - 00:40:52,986] to the center.
+- [00:40:52,986 - 00:40:54,986] Equivalently,
+- [00:40:54,986 - 00:40:56,986] an object emitted from the center
+- [00:40:56,986 - 00:40:58,986] as it makes its way toward the center
+- [00:40:58,986 - 00:41:00,986] will lose energy,
+- [00:41:00,986 - 00:41:02,986] will lose potential energy.
+- [00:41:02,986 - 00:41:04,986] It has to climb up out of this potential
+- [00:41:04,986 - 00:41:06,986] and will lose energy.
+- [00:41:06,986 - 00:41:08,986] Another way of talking about redshift.
+- [00:41:08,986 - 00:41:10,986] You can work out the redshift
+- [00:41:10,986 - 00:41:12,986] easily enough from the metric.
+- [00:41:12,986 - 00:41:14,986] I'm not going to do it now.
+- [00:41:14,986 - 00:41:16,986] But a photon emitted near the horizon
+- [00:41:16,986 - 00:41:18,986] will lose energy on the way out here
+- [00:41:18,986 - 00:41:20,986] such that the Hawking temperature,
+- [00:41:20,986 - 00:41:22,986] the energy in the horizon
+- [00:41:22,986 - 00:41:24,986] that's being emitted
+- [00:41:24,986 - 00:41:26,986] is of order
+- [00:41:26,986 - 00:41:28,986] Let's see.
+- [00:41:28,986 - 00:41:30,986] What is it?
+- [00:41:30,986 - 00:41:32,986] It's of order 1 over the distance
+- [00:41:32,986 - 00:41:34,986] from the horizon
+- [00:41:34,986 - 00:41:36,986] of order 1 over the distance
+- [00:41:36,986 - 00:41:38,986] from the horizon
+- [00:41:38,986 - 00:41:40,986] in Planck units.
+- [00:41:40,986 - 00:41:42,986] How big is our horizon?
+- [00:41:42,986 - 00:41:44,986] How big is the horizon
+- [00:41:46,986 - 00:41:48,986] our horizon?
+- [00:41:48,986 - 00:41:50,986] Our horizon,
+- [00:41:50,986 - 00:41:53,206] that we think we know about on the
+- [00:41:53,206 - 00:41:55,426] basis of the known expansion properties of the
+- [00:41:55,426 - 00:42:02,146] universe, this distance 1 over h, 1 over
+- [00:42:02,146 - 00:42:08,866] h is about 20 times 10 to the ninth
+- [00:42:08,866 - 00:42:14,926] light years, 20 billion light years. The
+- [00:42:14,926 - 00:42:20,986] redshift of a photon from the horizon
+- [00:42:20,986 - 00:42:25,986] to where we are is by this factor of 1
+- [00:42:25,986 - 00:42:30,986] over 20 times 10 to the ninth. That's a lot.
+- [00:42:30,986 - 00:42:33,556] So the photons that we see coming from
+- [00:42:33,556 - 00:42:36,126] the horizon are of incredible, basically the answer
+- [00:42:36,126 - 00:42:40,806] is that the photons that we see have a
+- [00:42:40,806 - 00:42:45,486] wavelength which is about 10 billion light years. So
+- [00:42:45,486 - 00:42:47,736] those are not very energetic photons.
+- [00:42:47,736 - 00:42:49,986] We are not likely to see them.
+- [00:42:49,986 - 00:42:50,986] Right.
+- [00:42:50,986 - 00:42:53,296] What kind of experiment would we do to
+- [00:42:53,296 - 00:42:55,606] see them? Well, we would do the same kind
+- [00:42:55,606 - 00:42:59,406] of experiment we do with the black hole, except
+- [00:42:59,406 - 00:43:03,206] we do it from the inside. Alice takes her
+- [00:43:03,206 - 00:43:05,626] fishing pole, and at the end of her fishing
+- [00:43:05,626 - 00:43:08,046] pole, instead of a worm, she has a thermometer,
+- [00:43:08,046 - 00:43:10,516] and she casts it out. They've
+- [00:43:10,516 - 00:43:12,986] got a very long line of fishing.
+- [00:43:12,986 - 00:43:16,886] Casts it out. The expansion of the universe
+- [00:43:16,886 - 00:43:20,786] pulls on the thermometer, or tends to be accelerated
+- [00:43:20,786 - 00:43:25,676] out away from her, and she waits 10 billion
+- [00:43:25,676 - 00:43:30,566] years or so. It's not just a fishing line.
+- [00:43:30,566 - 00:43:34,176] It happens to be a coaxial cable or
+- [00:43:34,176 - 00:43:37,786] something that she can read off the temperature. And
+- [00:43:37,786 - 00:43:40,726] she waits 10 billion light years and then
+- [00:43:40,726 - 00:43:43,666] puts a thumb on the spinning reel to stop
+- [00:43:43,666 - 00:43:46,726] it. She doesn't want it to go through the
+- [00:43:46,726 - 00:43:49,786] horizon. So it stops over here, and she waits
+- [00:43:49,786 - 00:43:50,286] until the signal comes through the horizon.
+- [00:43:50,286 - 00:43:50,786] And then she waits until the signal comes
+- [00:43:50,786 - 00:43:53,516] back. That's another 10 billion years. And
+- [00:43:53,516 - 00:43:56,246] she reads off the temperature, and the temperature
+- [00:43:56,246 - 00:43:59,656] she'll read off is high. On the other
+- [00:43:59,656 - 00:44:03,066] hand, if she just sits here with her thermometer,
+- [00:44:03,066 - 00:44:06,426] the temperature that she sees is redshifted, and
+- [00:44:06,426 - 00:44:09,786] it's very, very, very low, far lower than
+- [00:44:09,786 - 00:44:12,876] anything that can be produced in the
+- [00:44:12,876 - 00:44:15,966] laboratory. It's not, in particular, the microwave background
+- [00:44:15,966 - 00:44:17,876] temperature. It has nothing to do
+- [00:44:17,876 - 00:44:19,786] with that. It's the de Sitter temperature.
+- [00:44:19,786 - 00:44:23,496] And it's very, very low. That's the properties of
+- [00:44:23,496 - 00:44:27,206] the world that we live in, as it will be
+- [00:44:27,206 - 00:44:30,136] a couple of hundred billion years from now.
+- [00:44:30,136 - 00:44:33,066] Empty, apart from us sitting at the center,
+- [00:44:33,066 - 00:44:37,456] everything else having passed out through
+- [00:44:37,456 - 00:44:41,846] the horizon. Some amount of stuff gravitationally
+- [00:44:41,846 - 00:44:43,986] bound together might include our galaxy and
+- [00:44:43,986 - 00:44:46,126] a couple of other galaxies that happen to
+- [00:44:46,126 - 00:44:48,186] be not being dragged away with the ambient light.
+- [00:44:48,186 - 00:44:49,246] I don't have any more questions.
+- [00:44:49,246 - 00:44:49,296] So, if we have any questions,
+- [00:44:49,296 - 00:44:49,346] go to the link in the chat.
+- [00:44:49,346 - 00:44:49,446] Thank you very much.
+- [00:44:49,446 - 00:44:49,546] Thank you.
+- [00:44:49,546 - 00:44:49,626] Thank you.
+- [00:44:49,626 - 00:44:49,706] Thank you.
+- [00:44:49,706 - 00:44:49,746] Thank you.
+- [00:44:49,746 - 00:44:49,766] Thank you.
+- [00:44:49,766 - 00:44:53,946] expansion and everything else will be essentially
+- [00:44:53,946 - 00:44:58,126] empty except for this very, very, very feeble
+- [00:44:58,126 - 00:45:03,766] radiation, radiation from the horizon.
+- [00:45:03,766 - 00:45:06,416] It's a sort of grim
+- [00:45:06,416 - 00:45:09,066] prospect, as various people have noted.
+- [00:45:09,066 - 00:45:13,066] The astronomers at that time will be confused.
+- [00:45:13,066 - 00:45:15,426] They won't understand why they're
+- [00:45:15,426 - 00:45:17,786] alone in a very big universe.
+- [00:45:17,786 - 00:45:19,626] In fact, they'll have a very hard
+- [00:45:19,626 - 00:45:21,466] time measuring how big the universe is.
+- [00:45:21,466 - 00:45:25,906] There won't be anything out there to look at.
+- [00:45:25,906 - 00:45:27,846] And the possibility of measuring this radiation,
+- [00:45:27,846 - 00:45:29,786] well, that's not going to happen either.
+- [00:45:29,786 - 00:45:30,786] Yeah?
+- [00:45:30,786 - 00:45:31,786] Yes, Michael.
+- [00:45:31,786 - 00:45:35,286] I think what you said last week
+- [00:45:35,286 - 00:45:38,786] was that from our perspective, things don't exit
+- [00:45:38,786 - 00:45:39,786] past the horizon.
+- [00:45:39,786 - 00:45:42,786] Well, yeah.
+- [00:45:42,786 - 00:45:43,786] Yeah.
+- [00:45:43,786 - 00:45:45,226] Exactly the same as the black hole.
+- [00:45:45,226 - 00:45:46,666] Here's the black hole.
+- [00:45:46,666 - 00:45:47,666] From our perspective.
+- [00:45:47,666 - 00:45:47,786] Yeah.
+- [00:45:47,786 - 00:45:51,066] In a classical analysis, we would see things
+- [00:45:51,066 - 00:45:54,346] getting closer and closer and closer and closer
+- [00:45:54,346 - 00:45:56,966] and closer to the horizon.
+- [00:45:56,966 - 00:45:58,966] You could say exactly the same thing over here.
+- [00:45:58,966 - 00:46:02,746] Let's draw it.
+- [00:46:02,746 - 00:46:04,826] Here's our observer.
+- [00:46:04,826 - 00:46:08,586] Somebody falls through the horizon.
+- [00:46:08,586 - 00:46:10,836] Our observer over here never gets
+- [00:46:10,836 - 00:46:13,086] to see them fall through the horizon.
+- [00:46:13,086 - 00:46:15,376] As time goes on for
+- [00:46:15,376 - 00:46:17,666] our observer here, he looks back.
+- [00:46:17,666 - 00:46:22,225] And as far as he can tell, as time
+- [00:46:22,225 - 00:46:26,785] goes on longer and longer, Bob says, Alice is getting
+- [00:46:26,785 - 00:46:29,666] flattened against the horizon.
+- [00:46:29,666 - 00:46:31,666] So it's exactly the same as the black hole.
+- [00:46:31,666 - 00:46:36,666] Basically, it redshifts and then basically disappears.
+- [00:46:36,666 - 00:46:37,666] Fade away.
+- [00:46:37,666 - 00:46:40,166] So if somebody else is getting pulled
+- [00:46:40,166 - 00:46:42,666] through the exact same spot, what's the secret?
+- [00:46:42,666 - 00:46:43,666] What's the secret?
+- [00:46:43,666 - 00:46:44,666] What's the secret?
+- [00:46:44,666 - 00:46:45,666] What's the secret?
+- [00:46:45,666 - 00:46:46,666] What's the secret?
+- [00:46:46,666 - 00:46:47,666] What's the secret?
+- [00:46:47,666 - 00:46:50,215] Just to make it all clear, we're
+- [00:46:50,215 - 00:46:52,765] going to be looking at the horizon Horus.
+- [00:46:52,765 - 00:46:53,765] OK.
+- [00:46:53,765 - 00:46:55,265] Classically, just without worrying
+- [00:46:55,265 - 00:46:56,765] about any quantum mechanics.
+- [00:46:56,765 - 00:46:57,765] OK.
+- [00:46:57,765 - 00:46:59,765] Here is what he sees.
+- [00:46:59,765 - 00:47:02,715] Sees may be the wrong term, since the wavelength
+- [00:47:02,715 - 00:47:05,666] of radiation that they send out gets so long
+- [00:47:05,666 - 00:47:07,705] that they'll never see it.
+- [00:47:07,705 - 00:47:10,166] But here's their mathematical description.
+- [00:47:10,166 - 00:47:11,166] Let's see.
+- [00:47:11,166 - 00:47:12,166] Alright.
+- [00:47:12,166 - 00:47:15,906] Here's the horizon.
+- [00:47:15,906 - 00:47:17,546] And here is...
+- [00:47:17,546 - 00:47:23,216] other one? Jane. You are Jane. Alice
+- [00:47:23,216 - 00:47:28,886] falls towards the horizon and gets squashed.
+- [00:47:28,886 - 00:47:34,016] Jane gets closer and is starting to
+- [00:47:34,016 - 00:47:39,146] get squashed. Alice gets closer. Jane also
+- [00:47:39,146 - 00:47:41,246] gets closer. In other words, a
+- [00:47:41,246 - 00:47:43,346] kind of sedimentary structure forms near the
+- [00:47:43,346 - 00:47:46,316] horizon that just gradually gets closer
+- [00:47:46,316 - 00:47:49,286] and closer and skinnier and skinnier. Now,
+- [00:47:49,286 - 00:47:51,976] that's a classical description. What
+- [00:47:51,976 - 00:47:54,666] actually happens quantum mechanically is
+- [00:47:54,666 - 00:47:59,425] more complicated and involves interaction with the emitted
+- [00:47:59,425 - 00:48:01,925] radiation and so forth, which spreads
+- [00:48:01,925 - 00:48:04,425] them all out over the place and
+- [00:48:04,425 - 00:48:06,625] ionizes them, cooks them, does terrible
+- [00:48:06,625 - 00:48:08,826] things to them. But from a classical
+- [00:48:08,826 - 00:48:10,936] perspective, you would just lose track
+- [00:48:10,936 - 00:48:13,046] of them as they get squashed
+- [00:48:13,046 - 00:48:15,026] closer and closer in there and you'd
+- [00:48:15,026 - 00:48:17,006] lose track of them because the radiation
+- [00:48:17,006 - 00:48:18,926] from them would get more and more
+- [00:48:18,926 - 00:48:20,846] and more redshifted as they get closer and
+- [00:48:20,846 - 00:48:27,726] closer. Okay. But isn't it the case that
+- [00:48:27,726 - 00:48:34,606] the horizons are only hot for things that get
+- [00:48:34,606 - 00:48:37,576] close but don't cross over? If
+- [00:48:37,576 - 00:48:40,546] you pass through, you don't get cooked.
+- [00:48:42,026 - 00:48:43,026] Okay.
+- [00:48:43,046 - 00:48:48,816] Alice has no problem with the
+- [00:48:48,816 - 00:48:54,586] horizon. She sails perfectly happily through. Bob
+- [00:48:54,586 - 00:48:57,116] just loses track of her, but if he
+- [00:48:57,116 - 00:48:59,646] tries to do an experiment which sees what
+- [00:48:59,646 - 00:49:02,656] happens to her, we come back
+- [00:49:02,656 - 00:49:05,666] to this very strange situation, this Heisenberg
+- [00:49:05,666 - 00:49:09,326] microscope situation, where the only way to
+- [00:49:09,326 - 00:49:12,986] do an experiment is to shine some high-
+- [00:49:12,986 - 00:49:16,026] frequency light on Alice. And as Alice
+- [00:49:16,026 - 00:49:19,066] gets closer and closer to the horizon, the
+- [00:49:19,066 - 00:49:21,806] wavelength of that light has to get smaller
+- [00:49:21,806 - 00:49:24,546] and smaller. So the answer, I'm sure, by
+- [00:49:24,546 - 00:49:30,726] now you know, is that the attempt to
+- [00:49:30,726 - 00:49:36,906] look at her will cook her. So—Yes, Kevin?
+- [00:49:36,906 - 00:49:38,996] Simplistically, all the effects of the Horizon at the Black
+- [00:49:38,996 - 00:49:41,086] Hole were caused by That's simply not a fault of
+- [00:49:41,086 - 00:49:44,086] The effects of the horizon of the black hole were caused
+- [00:49:44,086 - 00:49:47,086] by the gravitational well, if you will, of the black hole.
+- [00:49:47,086 - 00:49:49,086] What's the equivalent here?
+- [00:49:49,086 - 00:49:53,086] Well, there is a gravitational... all right, good.
+- [00:49:53,086 - 00:49:57,086] All right, let's do a little exercise.
+- [00:49:57,086 - 00:50:01,086] For any kind of gravitating material, which we usually
+- [00:50:01,086 - 00:50:05,086] call mass, but we could use the word energy,
+- [00:50:05,086 - 00:50:09,586] for any kind of distribution of energy or mass, there is
+- [00:50:09,586 - 00:50:14,086] around it or in its neighborhood or somewhere, there's a gravitational potential.
+- [00:50:14,086 - 00:50:17,586] All right, the gravitational
+- [00:50:17,586 - 00:50:21,086] potential is usually called phi.
+- [00:50:21,086 - 00:50:25,086] Phi is such that its derivative, its gradient, is the gravitational force on
+- [00:50:25,086 - 00:50:29,086] an object, on a unit mass, on a test mass, on a unit mass.
+- [00:50:29,086 - 00:50:33,086] Now, phi satisfies an equation.
+- [00:50:33,086 - 00:50:35,086] On the left-hand side of the equation,
+- [00:50:35,086 - 00:50:37,086] there's something involving phi,
+- [00:50:37,086 - 00:50:39,086] and on the right-hand side of
+- [00:50:39,086 - 00:50:41,086] the equation is the mass density.
+- [00:50:41,086 - 00:50:43,086] This is Newtonian physics.
+- [00:50:43,086 - 00:50:45,086] Let's do Newtonian physics.
+- [00:50:45,086 - 00:50:47,086] What's on the right-hand side?
+- [00:50:47,086 - 00:50:49,086] Let's just say the mass density, which I'll call
+- [00:50:49,086 - 00:50:51,086] rho, and it's a function of position in general.
+- [00:50:51,086 - 00:50:54,086] It might just be a point source at the center.
+- [00:50:54,086 - 00:50:56,086] What's the left-hand side?
+- [00:50:56,086 - 00:50:57,086] I've just written phi, but
+- [00:50:57,086 - 00:50:58,086] of course that's not quite right.
+- [00:50:58,086 - 00:51:01,086] What's the... anybody know the right...
+- [00:51:01,086 - 00:51:04,086] Not the divergence, but close, you're close.
+- [00:51:05,086 - 00:51:12,086] Something called del squared,
+- [00:51:12,086 - 00:51:14,586] which is basically the second derivative
+- [00:51:14,586 - 00:51:17,086] with respect to the distance, r.
+- [00:51:17,086 - 00:51:23,086] d second by dr squared of phi for a
+- [00:51:23,086 - 00:51:29,086] radially symmetric distribution of mass is equal to rho.
+- [00:51:29,086 - 00:51:32,086] This would give us, for example, for a point mass,
+- [00:51:32,086 - 00:51:33,086] it would give us the usual Coulomb,
+- [00:51:33,086 - 00:51:34,086] the usual...
+- [00:51:35,086 - 00:51:38,086] Newtonian potential energy.
+- [00:51:38,086 - 00:51:41,586] Now, vacuum energy is an interesting possible
+- [00:51:41,586 - 00:51:45,086] candidate to put on the right-hand side,
+- [00:51:45,086 - 00:51:47,086] and let's do so.
+- [00:51:47,086 - 00:51:49,086] As my sign write,
+- [00:51:49,086 - 00:51:53,086] is del squared phi minus rho or plus rho?
+- [00:51:53,086 - 00:51:54,586] I can't remember, and I'm not
+- [00:51:54,586 - 00:51:56,086] going to try to figure it out.
+- [00:51:56,086 - 00:51:58,086] It's one or the other.
+- [00:52:03,086 - 00:52:05,086] It's not important.
+- [00:52:05,086 - 00:52:06,086] All right.
+- [00:52:06,086 - 00:52:08,086] What would happen if there were vacuum energy
+- [00:52:08,086 - 00:52:10,586] in addition to the pockets
+- [00:52:10,586 - 00:52:13,086] of ordinary energy that sit there?
+- [00:52:13,086 - 00:52:16,086] Well, you would put a constant on the right-hand side.
+- [00:52:16,086 - 00:52:18,086] What would the constant be?
+- [00:52:18,086 - 00:52:21,086] The constant would be the constant vacuum energy,
+- [00:52:21,086 - 00:52:24,086] sometimes called cosmological constant.
+- [00:52:24,086 - 00:52:28,086] Other times, it's just called h squared.
+- [00:52:28,086 - 00:52:31,086] It's basically proportional to h squared.
+- [00:52:31,086 - 00:52:33,086] In fact, that's where h comes from.
+- [00:52:33,086 - 00:52:36,086] So here's a formula for the gravitational potential
+- [00:52:36,086 - 00:52:40,086] of a space which is filled
+- [00:52:40,086 - 00:52:44,086] with a uniform distribution of mass.
+- [00:52:44,086 - 00:52:46,086] It's the vacuum energy.
+- [00:52:46,086 - 00:52:48,086] Absolutely uniform.
+- [00:52:48,086 - 00:52:50,086] Not only doesn't it change with position,
+- [00:52:50,086 - 00:52:52,086] it doesn't even change with time.
+- [00:52:52,086 - 00:52:55,086] What's the solution of this equation?
+- [00:52:59,086 - 00:53:00,086] Nope.
+- [00:53:00,086 - 00:53:01,086] Easier than that.
+- [00:53:01,086 - 00:53:02,086] All right.
+- [00:53:03,086 - 00:53:04,086] So what's the solution?
+- [00:53:04,086 - 00:53:08,086] It's phi equals plus or minus.
+- [00:53:08,086 - 00:53:10,086] We'll figure out the sign later.
+- [00:53:10,086 - 00:53:14,086] h squared r squared.
+- [00:53:14,086 - 00:53:16,086] Let's differentiate.
+- [00:53:16,086 - 00:53:20,086] Well, maybe there's a factor of two.
+- [00:53:20,086 - 00:53:26,086] What's the first derivative of this with respect to r?
+- [00:53:26,086 - 00:53:27,086] h squared r.
+- [00:53:27,086 - 00:53:29,086] What's the second derivative?
+- [00:53:29,086 - 00:53:31,086] h squared.
+- [00:53:31,086 - 00:53:32,086] That's this.
+- [00:53:32,086 - 00:53:34,086] So look at that.
+- [00:53:34,086 - 00:53:37,086] A uniform, absolutely uniform distribution of energy.
+- [00:53:37,086 - 00:53:39,086] And there should be a minus sign here.
+- [00:53:39,086 - 00:53:40,586] Yeah, there should be a minus
+- [00:53:40,586 - 00:53:42,086] sign here if we do it right.
+- [00:53:42,086 - 00:53:44,086] So what do we see?
+- [00:53:44,086 - 00:53:47,086] We see that there's a potential, a gravitational potential.
+- [00:53:47,086 - 00:53:49,086] You can think of it as being
+- [00:53:49,086 - 00:53:51,086] due to this uniform distribution of energy
+- [00:53:51,086 - 00:53:53,086] distributed all over space.
+- [00:53:53,086 - 00:53:55,086] And what does it look like?
+- [00:53:55,086 - 00:53:57,086] It looks like this.
+- [00:53:57,086 - 00:53:59,086] It's a gravitational potential.
+- [00:53:59,086 - 00:54:01,086] It's a gravitational potential.
+- [00:54:01,086 - 00:54:02,086] And it's going to be given by this.
+- [00:54:02,086 - 00:54:04,086] It's going to be a gravitational potential.
+- [00:54:04,086 - 00:54:06,086] It's going to be given by that.
+- [00:54:06,086 - 00:54:07,586] And this is going to be the moment of
+- [00:54:07,586 - 00:54:09,086] the energy that's going to be given by this.
+- [00:54:09,086 - 00:54:10,086] Okay?
+- [00:54:10,086 - 00:54:11,086] So what does this mean?
+- [00:54:11,086 - 00:54:12,086] This means?
+- [00:54:12,086 - 00:54:15,086] Okay, let's follow it a little bit.
+- [00:54:15,086 - 00:54:18,586] That's the potential energy that I, at
+- [00:54:18,586 - 00:54:22,086] the center of my geometry, I'm special.
+- [00:54:22,086 - 00:54:25,086] I'm at the center of my geometry.
+- [00:54:25,086 - 00:54:26,586] You may think you're special and you're at the
+- [00:54:26,586 - 00:54:28,086] center of your geometry and that's fine with me.
+- [00:54:28,086 - 00:54:29,086] But I know that I'm special and
+- [00:54:29,086 - 00:54:30,086] I'm at the center of my geometry.
+- [00:54:30,086 - 00:54:32,426] and I'm at the center of my geometry.
+- [00:54:32,426 - 00:54:33,226] I make measurements.
+- [00:54:33,226 - 00:54:34,886] I make measurements on test masses,
+- [00:54:34,886 - 00:54:37,846] and I find they move in various ways.
+- [00:54:37,846 - 00:54:40,886] And I find they move as
+- [00:54:40,886 - 00:54:43,926] if they were in a potential
+- [00:54:43,926 - 00:54:44,805] which went like this.
+- [00:54:44,805 - 00:54:47,466] Incidentally, what does the force do to this potential?
+- [00:54:51,686 - 00:54:52,186] No?
+- [00:54:56,586 - 00:54:58,846] The force is the derivative of the potential.
+- [00:55:00,086 - 00:55:00,786] All right?
+- [00:55:00,786 - 00:55:04,786] So the derivative of the potential is just r.
+- [00:55:04,786 - 00:55:08,226] So this is a force which increases.
+- [00:55:08,226 - 00:55:09,946] It's repulsive.
+- [00:55:09,946 - 00:55:10,906] That's the minus.
+- [00:55:10,906 - 00:55:12,986] It pushes you down.
+- [00:55:12,986 - 00:55:18,446] And the force increases linearly with distance.
+- [00:55:18,446 - 00:55:20,806] So any two objects, if you
+- [00:55:20,806 - 00:55:23,166] just start them out at rest,
+- [00:55:23,166 - 00:55:26,586] they will start to accelerate away from each other.
+- [00:55:26,586 - 00:55:29,386] And they'll eventually start picking up some speed.
+- [00:55:29,386 - 00:55:30,086] How long does it take?
+- [00:55:30,086 - 00:55:32,086] Does it pick up any appreciable speed?
+- [00:55:32,086 - 00:55:34,086] That depends on h.
+- [00:55:34,086 - 00:55:36,325] Basically, 10 billion years for it
+- [00:55:36,325 - 00:55:38,786] to pick up any significant speed.
+- [00:55:38,786 - 00:55:40,706] But if you wait 10 billion years, it
+- [00:55:40,706 - 00:55:43,026] will be moving like a rocket.
+- [00:55:43,026 - 00:55:44,126] OK.
+- [00:55:44,126 - 00:55:46,106] So no, not like a rocket.
+- [00:55:46,106 - 00:55:49,286] Like a photon, or close to a photon.
+- [00:55:49,286 - 00:55:52,406] All right, so what does all this mean?
+- [00:55:52,406 - 00:55:55,126] Supposing you start an object right up at the top,
+- [00:55:55,126 - 00:55:57,286] literally at the top, what happens to it?
+- [00:55:57,286 - 00:55:59,846] It stays still.
+- [00:55:59,846 - 00:56:01,486] It stays there, right?
+- [00:56:01,486 - 00:56:04,166] It's at a point of unstable equilibrium.
+- [00:56:04,166 - 00:56:07,446] Well, that's another way of saying that me,
+- [00:56:07,446 - 00:56:10,786] in my own frame of reference, if I
+- [00:56:10,786 - 00:56:14,366] take an object which is located right where I am,
+- [00:56:14,366 - 00:56:16,286] it'll stay there.
+- [00:56:16,286 - 00:56:20,466] You don't have to be too sophisticated about it.
+- [00:56:20,466 - 00:56:22,676] I am my own object, and
+- [00:56:22,676 - 00:56:24,886] I don't move away from myself.
+- [00:56:24,886 - 00:56:29,146] Well, not the, you know, sometimes, but not usually.
+- [00:56:29,846 - 00:56:30,606] OK.
+- [00:56:30,606 - 00:56:32,966] Now, what happens if I take an
+- [00:56:32,966 - 00:56:35,326] object a little bit away from me?
+- [00:56:35,326 - 00:56:38,226] And again, we are ignoring all other forces.
+- [00:56:38,226 - 00:56:40,826] We can take into account the other forces we're ignoring.
+- [00:56:40,826 - 00:56:42,816] So I start somebody out at
+- [00:56:42,816 - 00:56:44,806] rest 100 meters away from me.
+- [00:56:44,806 - 00:56:46,626] That's over here.
+- [00:56:46,626 - 00:56:49,006] What happens to them?
+- [00:56:49,006 - 00:56:50,366] They start moving away.
+- [00:56:50,366 - 00:56:52,786] And in fact, in this kind of potential,
+- [00:56:52,786 - 00:56:56,866] they will move with an accelerated motion that
+- [00:56:56,866 - 00:56:59,486] will be, if we take into account relativity,
+- [00:56:59,486 - 00:57:03,446] and everything, it'll be this exponential expansion.
+- [00:57:03,446 - 00:57:04,926] So that's just a statement
+- [00:57:04,926 - 00:57:06,406] that the space in between things
+- [00:57:06,406 - 00:57:09,446] is expanding exponentially.
+- [00:57:09,446 - 00:57:12,166] So this kind of picture
+- [00:57:12,166 - 00:57:14,886] is a kind of Newtonian description
+- [00:57:14,886 - 00:57:18,106] of the same physics as the exponential expansion
+- [00:57:18,106 - 00:57:18,866] of the universe.
+- [00:57:18,866 - 00:57:21,906] It is as though there was, number one,
+- [00:57:21,906 - 00:57:24,746] a uniform distribution of matter around me,
+- [00:57:24,746 - 00:57:27,466] and number two, a gravitational potential energy which
+- [00:57:27,466 - 00:57:28,786] is pushing everything away.
+- [00:57:29,486 - 00:57:31,486] Yeah?
+- [00:57:31,486 - 00:57:34,646] Well, we do have to consider the other forces.
+- [00:57:34,646 - 00:57:35,386] We certainly do.
+- [00:57:35,386 - 00:57:37,986] The other forces, even a person, the islands
+- [00:57:37,986 - 00:57:38,886] will disintegrate.
+- [00:57:38,886 - 00:57:39,766] Yeah.
+- [00:57:39,766 - 00:57:40,266] Right.
+- [00:57:40,266 - 00:57:42,606] So if I took the, let's take the potential energy
+- [00:57:42,606 - 00:57:47,366] between you and me, only gravity for simplicity.
+- [00:57:47,366 - 00:57:49,446] There's another contribution.
+- [00:57:49,446 - 00:57:53,486] I'm standing at the center, and I'm thinking about you.
+- [00:57:53,486 - 00:57:58,266] And I see that you have an ordinary gravitational Newtonian
+- [00:57:58,266 - 00:57:59,446] potential energy relative.
+- [00:57:59,446 - 00:58:01,446] And I see that you have an ordinary gravitational Newtonian
+- [00:58:01,446 - 00:58:04,446] potential energy relative to me in addition to this.
+- [00:58:04,446 - 00:58:04,946] All right.
+- [00:58:04,946 - 00:58:06,946] First of all, what would the ordinary gravitational
+- [00:58:06,946 - 00:58:07,946] potential energy look like?
+- [00:58:07,946 - 00:58:14,446] It would look like that.
+- [00:58:14,446 - 00:58:18,446] Pulling me toward the center, pulling you toward my center
+- [00:58:18,446 - 00:58:19,446] would look like that.
+- [00:58:19,446 - 00:58:21,446] One over r, one over r potential.
+- [00:58:21,446 - 00:58:22,446] All right.
+- [00:58:22,446 - 00:58:24,946] If I add that to this,
+- [00:58:24,946 - 00:58:27,446] it would look something like that.
+- [00:58:27,446 - 00:58:28,446] All right.
+- [00:58:28,446 - 00:58:29,446] All right.
+- [00:58:29,446 - 00:58:34,446] So if I'm close enough, if I'm close enough,
+- [00:58:34,446 - 00:58:37,446] then I get pulled, you get pulled toward me.
+- [00:58:37,446 - 00:58:39,446] If I'm right at this distance,
+- [00:58:39,446 - 00:58:41,446] or you're right at this distance,
+- [00:58:41,446 - 00:58:44,446] then you're in a kind of unstable equilibrium.
+- [00:58:44,446 - 00:58:46,446] But if you're slightly farther
+- [00:58:46,446 - 00:58:48,446] away than the top of this,
+- [00:58:48,446 - 00:58:49,446] then you get pushed away.
+- [00:58:49,446 - 00:58:51,946] So this is exactly the
+- [00:58:51,946 - 00:58:54,446] situation that the Andromeda Galaxy appears
+- [00:58:54,446 - 00:58:56,446] to be in here somewhere.
+- [00:58:56,446 - 00:58:58,446] It's falling toward us.
+- [00:58:58,446 - 00:59:04,446] A few galaxies away, they're accelerating out away from us.
+- [00:59:04,446 - 00:59:05,446] Yeah.
+- [00:59:05,446 - 00:59:07,946] So this is a model just
+- [00:59:07,946 - 00:59:10,446] at the base in the expansion space,
+- [00:59:10,446 - 00:59:13,446] and it acts as if it has this gravitational effect.
+- [00:59:13,446 - 00:59:14,446] Yes.
+- [00:59:14,446 - 00:59:16,446] Then we did talk in describing it,
+- [00:59:16,446 - 00:59:18,446] we also talked about the vacuum energy,
+- [00:59:18,446 - 00:59:20,446] which is a quantum effect,
+- [00:59:20,446 - 00:59:22,446] has nothing to do with the,
+- [00:59:22,446 - 00:59:24,446] and it behaves the same.
+- [00:59:24,446 - 00:59:26,446] And so they both actually are there.
+- [00:59:26,446 - 00:59:27,446] Which are both?
+- [00:59:27,446 - 00:59:28,446] Which are both?
+- [00:59:28,446 - 00:59:31,446] No, no, no, no, no, no.
+- [00:59:31,446 - 00:59:33,446] There's one thing.
+- [00:59:33,446 - 00:59:35,446] You can call it vacuum energy,
+- [00:59:35,446 - 00:59:37,446] you can call it cosmological constant,
+- [00:59:37,446 - 00:59:39,446] there's only one thing.
+- [00:59:39,446 - 00:59:42,946] And if you want to mimic
+- [00:59:42,946 - 00:59:46,446] it or model it in Newtonian physics,
+- [00:59:46,446 - 00:59:49,446] you model it by a uniform mass distribution.
+- [00:59:49,446 - 00:59:50,446] Right.
+- [00:59:50,446 - 00:59:51,446] Right.
+- [00:59:51,446 - 00:59:53,446] But it's one thing, it's not two.
+- [00:59:53,446 - 00:59:56,446] Vacuum energy, cosmological constant, dark energy,
+- [00:59:56,446 - 00:59:59,446] all the same thing.
+- [00:59:59,446 - 01:00:02,446] And they all correspond, as I said,
+- [01:00:02,446 - 01:00:05,446] if you want to model it in a Newtonian context,
+- [01:00:05,446 - 01:00:09,446] you simply imagine a uniform, right.
+- [01:00:09,446 - 01:00:10,446] But on the other hand,
+- [01:00:10,446 - 01:00:13,446] we're saying this is also a
+- [01:00:13,446 - 01:00:16,446] consequence of the simple expansion space
+- [01:00:16,446 - 01:00:18,446] and the relativistic.
+- [01:00:18,446 - 01:00:20,446] Well, you can either say it's a
+- [01:00:20,446 - 01:00:22,446] consequence of it or a cause of it.
+- [01:00:22,446 - 01:00:24,446] I mean, they go together.
+- [01:00:24,446 - 01:00:25,446] Right.
+- [01:00:25,446 - 01:00:27,446] Well, it's a little bit of expansion.
+- [01:00:27,446 - 01:00:28,446] Say it again.
+- [01:00:28,446 - 01:00:29,446] Pardon the time.
+- [01:00:29,446 - 01:00:30,446] Say it again.
+- [01:00:30,446 - 01:00:31,446] Pardon me.
+- [01:00:31,446 - 01:00:32,446] I'll do it.
+- [01:00:32,446 - 01:00:34,946] It seems that the same
+- [01:00:34,946 - 01:00:37,446] phenomenon has a completely classical description
+- [01:00:37,446 - 01:00:39,446] and a completely quantum description.
+- [01:00:39,446 - 01:00:43,446] Well, the origin of the dark energy,
+- [01:00:43,446 - 01:00:46,446] the cosmological constant, the vacuum energy,
+- [01:00:46,446 - 01:00:50,446] is most likely quantum mechanical in origin.
+- [01:00:50,446 - 01:00:52,446] Well, I think that's a good question.
+- [01:00:52,446 - 01:00:53,446] I think that's a good question.
+- [01:00:53,446 - 01:00:54,446] I think that's a good question.
+- [01:00:54,446 - 01:00:57,446] But once it's there, it's just energy.
+- [01:00:57,446 - 01:00:59,446] In fact, I mean, you know,
+- [01:00:59,446 - 01:01:03,446] the mass of the electron has a contribution to it,
+- [01:01:03,446 - 01:01:06,446] which is quantum mechanical.
+- [01:01:06,446 - 01:01:08,446] But once we know what the mass is,
+- [01:01:08,446 - 01:01:10,446] we simply use it in classical physics
+- [01:01:10,446 - 01:01:12,446] as if it were just an ordinary mass.
+- [01:01:12,446 - 01:01:15,446] So, while it's quite true
+- [01:01:15,446 - 01:01:18,446] that the dark energy cosmological constant
+- [01:01:18,446 - 01:01:21,446] may ultimately be due to the quantum mechanical constant,
+- [01:01:21,446 - 01:01:22,446] we don't really know.
+- [01:01:22,446 - 01:01:26,446] It may ultimately be due to quantum fluctuations.
+- [01:01:26,446 - 01:01:28,946] Nevertheless, by the time we
+- [01:01:28,946 - 01:01:31,446] average over those quantum fluctuations,
+- [01:01:31,446 - 01:01:34,446] what we see is a uniform distribution of energy,
+- [01:01:34,446 - 01:01:36,446] very small, to be sure.
+- [01:01:36,446 - 01:01:39,446] If it wasn't small,
+- [01:01:39,446 - 01:01:43,446] then we'd be rocketing away from each other.
+- [01:01:43,446 - 01:01:46,446] It's very, very small.
+- [01:01:46,446 - 01:01:48,446] In natural units, in Planck units,
+- [01:01:48,446 - 01:01:52,446] it's something like 10 to the minus 123.
+- [01:01:52,446 - 01:01:55,946] It's a very, very small number compared
+- [01:01:55,946 - 01:01:59,446] to any other natural scale in physics.
+- [01:01:59,446 - 01:02:01,446] And it sets the scale for our...
+- [01:02:01,446 - 01:02:03,446] And it's the reason, its smallness is
+- [01:02:03,446 - 01:02:05,446] the reason that our horizon is so big.
+- [01:02:05,446 - 01:02:07,946] What would the world be like
+- [01:02:07,946 - 01:02:10,446] if that cosmological constant was much larger?
+- [01:02:10,446 - 01:02:13,446] In other words, if h was much larger?
+- [01:02:13,446 - 01:02:16,446] Here's the distance to the horizon.
+- [01:02:16,446 - 01:02:18,446] Sorry, 1 over h.
+- [01:02:18,446 - 01:02:21,446] What if h was much, much bigger?
+- [01:02:22,446 - 01:02:26,446] Then we'd be surrounded by a smaller sphere.
+- [01:02:26,446 - 01:02:28,446] We would be living in what
+- [01:02:28,446 - 01:02:30,446] effectively looked like a much smaller universe,
+- [01:02:30,446 - 01:02:32,446] even though it was, even though...
+- [01:02:32,446 - 01:02:35,446] What do I say? H being big, right?
+- [01:02:35,446 - 01:02:37,446] If h is big,
+- [01:02:37,446 - 01:02:40,446] that of course means a more rapid expansion,
+- [01:02:40,446 - 01:02:43,446] but it also means a smaller horizon.
+- [01:02:43,446 - 01:02:46,446] So we'd be sitting in a smaller horizon,
+- [01:02:46,446 - 01:02:50,446] but with a much larger repulsion between things.
+- [01:02:50,446 - 01:02:52,446] If h were larger,
+- [01:02:52,446 - 01:02:55,446] the repulsion would be larger,
+- [01:02:55,446 - 01:02:59,446] and the size of the horizon would be much smaller.
+- [01:02:59,446 - 01:03:01,446] So we'd be much more tightly restricted,
+- [01:03:01,446 - 01:03:03,446] but we'd also be subject
+- [01:03:03,446 - 01:03:05,446] to a force which would be,
+- [01:03:05,446 - 01:03:09,446] you know, causing everything to explode.
+- [01:03:09,446 - 01:03:12,446] So there is a limit
+- [01:03:12,446 - 01:03:15,446] to how big the Hubble const...
+- [01:03:15,446 - 01:03:18,446] the cosmological constant of the dark energy can be,
+- [01:03:18,446 - 01:03:20,446] and we'd still be able to measure it.
+- [01:03:20,446 - 01:03:22,446] We'd be able to talk about it.
+- [01:03:22,446 - 01:03:25,446] It, uh...
+- [01:03:25,446 - 01:03:27,446] Yeah?
+- [01:03:27,446 - 01:03:29,446] Would that mean that there's a relationship
+- [01:03:29,446 - 01:03:31,446] between Planck's constant,
+- [01:03:31,446 - 01:03:33,446] which is related to butter fluctuations,
+- [01:03:33,446 - 01:03:36,446] and the cosmological constant?
+- [01:03:36,446 - 01:03:37,446] Yes.
+- [01:03:37,446 - 01:03:38,446] In a sense.
+- [01:03:38,446 - 01:03:40,446] There's a relationship.
+- [01:03:40,446 - 01:03:44,446] The language to use is not Planck's constant.
+- [01:03:44,446 - 01:03:47,446] Planck's constant is a thing which carries dimensions.
+- [01:03:47,446 - 01:03:50,446] It's always good to talk about dimensionless things.
+- [01:03:50,446 - 01:03:53,446] If you work in Planck units,
+- [01:03:53,446 - 01:03:56,446] you're automatically talking about dimensionless things.
+- [01:03:56,446 - 01:03:58,446] Um...
+- [01:03:58,446 - 01:04:02,446] And, of course, knowing what the Planck unit is
+- [01:04:02,446 - 01:04:03,446] does involve...
+- [01:04:03,446 - 01:04:05,446] In ordinary, uh, measurement units,
+- [01:04:05,446 - 01:04:08,446] does involve knowing what h-bar is.
+- [01:04:08,446 - 01:04:10,446] But, um...
+- [01:04:10,446 - 01:04:13,446] Yeah, there...
+- [01:04:13,446 - 01:04:17,446] The answer is, in Planck units,
+- [01:04:17,446 - 01:04:19,446] and that means everything is dimensionless,
+- [01:04:19,446 - 01:04:22,446] it means that the Newton constant is one,
+- [01:04:22,446 - 01:04:24,446] it means the Planck constant is one,
+- [01:04:24,446 - 01:04:26,446] it means the speed of light is one.
+- [01:04:26,446 - 01:04:28,446] In those units,
+- [01:04:28,446 - 01:04:31,446] where all the fundamental constants of physics,
+- [01:04:31,446 - 01:04:33,446] the most fundamental constants of physics
+- [01:04:33,446 - 01:04:35,446] are set equal to one,
+- [01:04:35,446 - 01:04:37,446] in those units,
+- [01:04:37,446 - 01:04:39,446] the cosmological constant energy,
+- [01:04:39,446 - 01:04:40,446] the dark energy,
+- [01:04:40,446 - 01:04:43,446] is 123 orders of magnitude smaller.
+- [01:04:45,446 - 01:04:47,446] So that's one of the great puzzles of physics.
+- [01:04:47,446 - 01:04:49,446] What's the R of the equation?
+- [01:04:49,446 - 01:04:51,446] The origin of that very, very small number.
+- [01:04:51,446 - 01:04:52,446] Yeah?
+- [01:04:52,446 - 01:04:53,446] Along those lines,
+- [01:04:53,446 - 01:04:56,446] I have heard that not all theoreticians
+- [01:04:56,446 - 01:04:59,446] share the idea that vacuum energy
+- [01:04:59,446 - 01:05:02,446] should be identified with the cosmological constant
+- [01:05:02,446 - 01:05:04,446] because of that 123...
+- [01:05:04,446 - 01:05:05,446] If you go out in the world,
+- [01:05:05,446 - 01:05:07,446] and you start asking people,
+- [01:05:07,446 - 01:05:09,446] is the Earth flat or is it round,
+- [01:05:09,446 - 01:05:12,446] you'll find 40% of Americans don't know that it's, uh...
+- [01:05:12,446 - 01:05:14,446] Uh...
+- [01:05:14,446 - 01:05:17,446] And I wouldn't say...
+- [01:05:17,446 - 01:05:18,446] The situation is...
+- [01:05:18,446 - 01:05:20,446] is...
+- [01:05:20,446 - 01:05:22,446] Um...
+- [01:05:22,446 - 01:05:26,446] Well, let's be a little bit charitable.
+- [01:05:26,446 - 01:05:28,446] It's not quite as bad.
+- [01:05:28,446 - 01:05:30,446] Yeah.
+- [01:05:30,446 - 01:05:32,446] Now, there are some serious physicists
+- [01:05:32,446 - 01:05:34,446] who question it, and, uh...
+- [01:05:34,446 - 01:05:36,446] But...
+- [01:05:36,446 - 01:05:37,446] And 10 years ago,
+- [01:05:37,446 - 01:05:39,446] you might have reasonably questioned it.
+- [01:05:39,446 - 01:05:40,446] 10 or 15 years ago,
+- [01:05:40,446 - 01:05:42,446] you might have reasonably questioned it.
+- [01:05:42,446 - 01:05:44,446] Um...
+- [01:05:44,446 - 01:05:46,446] The bounds from experiment
+- [01:05:46,446 - 01:05:48,446] get tighter and tighter and tighter.
+- [01:05:48,446 - 01:05:50,446] What they mean by saying
+- [01:05:50,446 - 01:05:53,446] that the cosmological constant isn't a constant
+- [01:05:53,446 - 01:05:55,446] is the hypothesis that, uh...
+- [01:05:55,446 - 01:05:57,446] Basically, that age varies with time
+- [01:05:57,446 - 01:05:58,446] and decreases...
+- [01:05:58,446 - 01:05:59,446] Uh...
+- [01:05:59,446 - 01:06:00,446] Decreases?
+- [01:06:00,446 - 01:06:01,446] Decreases.
+- [01:06:01,446 - 01:06:04,446] And will eventually settle down to, uh...
+- [01:06:04,446 - 01:06:05,446] Uh...
+- [01:06:05,446 - 01:06:07,446] To zero.
+- [01:06:07,446 - 01:06:09,446] The idea that the vacuum energy, whatever it is,
+- [01:06:09,446 - 01:06:11,446] is a temporary transient thing
+- [01:06:11,446 - 01:06:13,446] which will settle down.
+- [01:06:13,446 - 01:06:14,446] All right.
+- [01:06:14,446 - 01:06:15,446] Um...
+- [01:06:15,446 - 01:06:16,446] And eventually not be there.
+- [01:06:16,446 - 01:06:17,446] Just one quick question.
+- [01:06:18,446 - 01:06:21,446] When they keep saying on these TV shows
+- [01:06:21,446 - 01:06:23,446] about how everything's getting lonely and dark
+- [01:06:23,446 - 01:06:24,946] and we'll be all by ourselves
+- [01:06:24,946 - 01:06:26,446] and all that kind of stuff,
+- [01:06:26,446 - 01:06:28,446] we wouldn't even notice a difference, would we?
+- [01:06:28,446 - 01:06:30,446] Because you can't see galaxies
+- [01:06:30,446 - 01:06:33,446] other than maybe a drama with the unaided eye...
+- [01:06:33,446 - 01:06:35,446] No, with a telescope, you can.
+- [01:06:35,446 - 01:06:38,446] Yeah, but I'm saying, without a telescope,
+- [01:06:38,446 - 01:06:40,446] we wouldn't even be able to notice it.
+- [01:06:40,446 - 01:06:42,446] Oh, that's probably true.
+- [01:06:42,446 - 01:06:43,446] Yeah.
+- [01:06:43,446 - 01:06:45,446] Without a telescope, uh...
+- [01:06:45,446 - 01:06:46,446] Yeah.
+- [01:06:46,446 - 01:06:47,446] Yep.
+- [01:06:47,446 - 01:06:48,446] So who cares?
+- [01:06:51,446 - 01:06:52,446] Yeah, who cares?
+- [01:06:52,446 - 01:06:53,446] Yeah, yeah.
+- [01:06:53,446 - 01:06:55,446] I think that's if you said it's perfectly flat.
+- [01:06:55,446 - 01:06:57,446] If you took it perfectly flat and extended it forever
+- [01:06:57,446 - 01:06:58,946] and you tried to pull it,
+- [01:06:58,946 - 01:07:00,446] it would never fall off the edge.
+- [01:07:00,446 - 01:07:01,446] Yeah.
+- [01:07:01,446 - 01:07:02,446] So...
+- [01:07:04,446 - 01:07:06,446] You know, it's a very interesting question.
+- [01:07:06,446 - 01:07:07,446] I've thought about it myself,
+- [01:07:07,446 - 01:07:09,446] and I've known other people who've thought about it.
+- [01:07:09,446 - 01:07:15,446] How would astronomers of that distant time in the future...
+- [01:07:15,446 - 01:07:16,446] Earth is still here.
+- [01:07:16,446 - 01:07:17,446] Earth is still here.
+- [01:07:17,446 - 01:07:18,446] They're still here.
+- [01:07:18,446 - 01:07:21,446] You know, there's some questions and problems,
+- [01:07:21,446 - 01:07:24,446] but nevertheless, we're all still here,
+- [01:07:24,446 - 01:07:26,446] and we have our telescopes,
+- [01:07:26,446 - 01:07:29,446] and we've lost our history books.
+- [01:07:29,446 - 01:07:30,446] The Internet has failed.
+- [01:07:30,446 - 01:07:32,446] We've lost our history books,
+- [01:07:32,446 - 01:07:34,446] and we don't know very much.
+- [01:07:34,446 - 01:07:39,446] Uh, how might we become aware of the fact
+- [01:07:39,446 - 01:07:42,446] that there was a finite horizon out there,
+- [01:07:42,446 - 01:07:44,446] that there was a dark energy,
+- [01:07:44,446 - 01:07:46,446] that there was a galaxy,
+- [01:07:46,446 - 01:07:47,946] that there was a galaxy that
+- [01:07:47,946 - 01:07:49,446] was just vibrating away from each other,
+- [01:07:49,446 - 01:07:51,446] and it's very, very hard to imagine any...
+- [01:07:51,446 - 01:07:53,446] I can't think of any way
+- [01:07:53,446 - 01:07:55,446] that they'd be able to tell.
+- [01:07:55,446 - 01:07:58,446] Uh, the cosmic microwave background,
+- [01:07:58,446 - 01:08:00,446] what would happen to it?
+- [01:08:00,446 - 01:08:01,446] It would redshift away.
+- [01:08:01,446 - 01:08:03,446] It redshifts to the
+- [01:08:03,446 - 01:08:05,446] point where it's completely undetectable.
+- [01:08:05,446 - 01:08:07,446] What about the galaxies that we count
+- [01:08:07,446 - 01:08:10,446] in order to measure the Hubble constant and so forth?
+- [01:08:10,446 - 01:08:12,446] They're not there anymore.
+- [01:08:12,446 - 01:08:15,446] It's very, very difficult to
+- [01:08:15,446 - 01:08:18,446] imagine how they could reconstruct, uh...
+- [01:08:18,446 - 01:08:22,446] But would our new galaxies being born within the...
+- [01:08:22,446 - 01:08:25,446] New galaxies are not born from empty space.
+- [01:08:25,446 - 01:08:28,446] But we're adding to it with the dark energy.
+- [01:08:28,446 - 01:08:31,446] No, the dark energy doesn't... won't create galaxies.
+- [01:08:31,446 - 01:08:34,446] They would...
+- [01:08:34,446 - 01:08:37,446] Actually, before we knew any of this astronomy,
+- [01:08:37,446 - 01:08:39,446] there was something called Olper's paradox.
+- [01:08:39,446 - 01:08:40,446] Right.
+- [01:08:40,446 - 01:08:42,446] And so they would have to have some explanation.
+- [01:08:42,446 - 01:08:43,446] No, there wouldn't.
+- [01:08:43,446 - 01:08:45,446] There wouldn't be any stars out there.
+- [01:08:45,446 - 01:08:46,446] No, there would.
+- [01:08:46,446 - 01:08:48,446] There would be our galaxy and...
+- [01:08:48,446 - 01:08:49,446] No, no, our gal...
+- [01:08:49,446 - 01:08:50,446] Olper's paradox...
+- [01:08:50,446 - 01:08:51,446] Let me remind you.
+- [01:08:51,446 - 01:08:53,446] Olper's paradox was about the idea
+- [01:08:53,446 - 01:08:57,446] of an infinite uniform density of stars out to infinity.
+- [01:08:57,446 - 01:09:00,446] If you just take the stars from within our galaxy,
+- [01:09:00,446 - 01:09:01,446] how much light do they give?
+- [01:09:01,446 - 01:09:03,446] We know how much light they give.
+- [01:09:03,446 - 01:09:06,446] Olper's paradox was a paradox of what happens
+- [01:09:06,446 - 01:09:10,446] if the universe is filled with stars out to infinity
+- [01:09:10,446 - 01:09:11,446] and they're not...
+- [01:09:11,446 - 01:09:12,446] They didn't...
+- [01:09:12,446 - 01:09:14,446] They didn't know about...
+- [01:09:14,446 - 01:09:15,446] about expansion of the universe.
+- [01:09:15,446 - 01:09:16,446] They're just sitting there.
+- [01:09:16,446 - 01:09:18,446] No, but they wouldn't know about galaxies,
+- [01:09:18,446 - 01:09:20,446] so they would just look out and see stars.
+- [01:09:20,446 - 01:09:21,446] Yeah, but they...
+- [01:09:21,446 - 01:09:24,446] Right, but they would see it into the stars.
+- [01:09:24,446 - 01:09:26,446] They would see the galaxy have...
+- [01:09:26,446 - 01:09:28,446] They would see the island universe
+- [01:09:28,446 - 01:09:29,446] that the...
+- [01:09:29,446 - 01:09:31,446] that the astronomers before Hubble believed in.
+- [01:09:31,446 - 01:09:33,446] That would include Einstein.
+- [01:09:33,446 - 01:09:34,446] Including Einstein.
+- [01:09:34,446 - 01:09:36,446] But he stuck the...
+- [01:09:36,446 - 01:09:39,446] the cosmological term in there just in case,
+- [01:09:39,446 - 01:09:40,446] you know, to make it static.
+- [01:09:40,446 - 01:09:41,446] Yeah, yeah.
+- [01:09:41,446 - 01:09:42,446] So they make...
+- [01:09:42,446 - 01:09:44,446] make that same mistake, so to speak.
+- [01:09:44,446 - 01:09:46,446] No, they would just...
+- [01:09:46,446 - 01:09:47,446] They would...
+- [01:09:47,446 - 01:09:48,446] Yeah, right.
+- [01:09:48,446 - 01:09:50,446] The stars in our galaxy would be smearing
+- [01:09:50,446 - 01:09:51,446] against the horizon, right?
+- [01:09:51,446 - 01:09:53,446] So they would go out in...
+- [01:09:53,446 - 01:09:55,446] No, no, no, no.
+- [01:09:55,446 - 01:09:57,446] They'll just be just where they are now.
+- [01:09:57,446 - 01:09:58,446] They'll be...
+- [01:09:58,446 - 01:09:59,446] Where are...
+- [01:09:59,446 - 01:10:00,446] How far...
+- [01:10:00,446 - 01:10:01,446] How big is the galaxy?
+- [01:10:01,446 - 01:10:02,446] 100,000 light years.
+- [01:10:02,446 - 01:10:03,446] 100,000 light years, right?
+- [01:10:03,446 - 01:10:04,446] Small, tiny microscopic size.
+- [01:10:04,446 - 01:10:08,446] No, I'm saying that the horizon will be shrinking until...
+- [01:10:08,446 - 01:10:09,446] The horizon doesn't shrink.
+- [01:10:09,446 - 01:10:10,446] It's...
+- [01:10:10,446 - 01:10:11,446] It's...
+- [01:10:11,446 - 01:10:12,446] Horizon doesn't shrink.
+- [01:10:12,446 - 01:10:13,446] It's constant.
+- [01:10:13,446 - 01:10:15,446] No, no, it's not constant yet.
+- [01:10:16,446 - 01:10:18,446] It'll be another 20, 30 billion years.
+- [01:10:19,446 - 01:10:20,446] Okay.
+- [01:10:20,446 - 01:10:21,446] Right, but we're talking about 100...
+- [01:10:21,446 - 01:10:22,446] Yes, yes.
+- [01:10:22,446 - 01:10:23,946] And how big will it be
+- [01:10:23,946 - 01:10:25,446] in 20 or 30 billion years?
+- [01:10:25,446 - 01:10:26,446] Few galactic radii.
+- [01:10:26,446 - 01:10:29,446] No, no, no, no, no, no, no.
+- [01:10:29,446 - 01:10:31,446] It will not be a few galactic radii.
+- [01:10:31,446 - 01:10:36,446] It will be about 20 billion light years.
+- [01:10:36,446 - 01:10:39,446] From the dark energy that we know is there,
+- [01:10:39,446 - 01:10:41,846] From the measurements of everything we know about,
+- [01:10:41,846 - 01:10:44,786] the cosmological constant is a certain number.
+- [01:10:45,406 - 01:10:47,726] How big? Big enough to put the
+- [01:10:47,726 - 01:10:50,046] horizon about 20 billion light years away.
+- [01:10:51,446 - 01:10:55,606] Now, tomorrow, basically forever.
+- [01:10:56,046 - 01:10:58,986] So they'll be sitting in this big container,
+- [01:11:01,126 - 01:11:05,006] 20 billion light years across,
+- [01:11:05,006 - 01:11:12,306] with 100,000 light year galaxy that they can see,
+- [01:11:12,726 - 01:11:15,006] everything else having been swept clean,
+- [01:11:16,026 - 01:11:19,416] and how do they detect the fact that
+- [01:11:19,416 - 01:11:22,806] there is an outer boundary, let's call it?
+- [01:11:25,046 - 01:11:26,576] Isn't there some rate at which
+- [01:11:26,576 - 01:11:28,106] stars are ejected from the galaxy?
+- [01:11:30,526 - 01:11:34,806] Yeah, stars are ejected from galaxies.
+- [01:11:35,006 - 01:11:35,506] That's true.
+- [01:11:35,506 - 01:11:37,056] You'll have some small number of
+- [01:11:37,056 - 01:11:38,606] objects you can track for a while.
+- [01:11:38,606 - 01:11:40,106] You can track them for a while,
+- [01:11:40,106 - 01:11:41,356] but you won't be able
+- [01:11:41,356 - 01:11:42,606] to track them out to cosmolo...
+- [01:11:42,606 - 01:11:43,606] you know...
+- [01:11:44,606 - 01:11:45,206] Well...
+- [01:11:45,206 - 01:11:48,206] How do we know that that hasn't already happened?
+- [01:11:49,006 - 01:11:51,606] Which? Stars evaporate from the galaxy?
+- [01:11:51,606 - 01:11:54,806] That, you know, that edge of the universe,
+- [01:11:54,806 - 01:11:57,006] the 20 billion light years away,
+- [01:11:57,006 - 01:11:57,806] Yes?
+- [01:11:57,806 - 01:11:59,606] is, you know, we're not able
+- [01:11:59,606 - 01:12:01,406] to see the rest of it.
+- [01:12:01,406 - 01:12:02,206] We can see it.
+- [01:12:02,206 - 01:12:04,806] We can see it, we can see...
+- [01:12:05,006 - 01:12:13,006] We can measure the expansion rate and reconstruct it.
+- [01:12:13,006 - 01:12:14,006] Right?
+- [01:12:14,006 - 01:12:16,506] Where there's enough stuff around to be
+- [01:12:16,506 - 01:12:19,006] able to reconstruct it at the present time.
+- [01:12:19,006 - 01:12:22,756] Suppose the event horizon would be just
+- [01:12:22,756 - 01:12:26,506] outside the distance to the Andromeda Galaxy.
+- [01:12:26,506 - 01:12:28,006] Wouldn't the...
+- [01:12:28,006 - 01:12:30,006] That would be quite noticeable.
+- [01:12:30,006 - 01:12:32,506] Yeah, then you'd be able, because the
+- [01:12:32,506 - 01:12:35,006] Andromeda Galaxy wouldn't behave the way it would,
+- [01:12:35,006 - 01:12:37,506] the way it behaves now, because the
+- [01:12:37,506 - 01:12:40,006] component with the expansion is so large.
+- [01:12:40,006 - 01:12:41,006] Yes.
+- [01:12:41,006 - 01:12:42,006] Yes.
+- [01:12:42,006 - 01:12:43,006] But it's not...
+- [01:12:43,006 - 01:12:46,006] The horizon is not going to shrink in.
+- [01:12:46,006 - 01:12:50,006] The horizon is going to be at the place where...
+- [01:12:51,006 - 01:12:53,006] Yeah, it's going to be at...
+- [01:12:53,006 - 01:12:55,006] With the numbers that we have today.
+- [01:12:55,006 - 01:12:58,006] With the numbers that we have today,
+- [01:12:58,006 - 01:13:02,006] well measured, checked many different ways,
+- [01:13:02,006 - 01:13:05,006] the prediction for the future is that the horizon,
+- [01:13:05,006 - 01:13:09,006] will be at about 20 billion light years.
+- [01:13:09,006 - 01:13:12,006] That's where it will be.
+- [01:13:12,006 - 01:13:13,006] Yeah.
+- [01:13:13,006 - 01:13:15,506] In other words, H is
+- [01:13:15,506 - 01:13:18,006] constant during this kind of expansion.
+- [01:13:18,006 - 01:13:21,006] And the distance to where you have to go,
+- [01:13:21,006 - 01:13:23,006] to where you see the speed of light,
+- [01:13:23,006 - 01:13:24,006] that's going to be constant.
+- [01:13:24,006 - 01:13:25,006] Yeah.
+- [01:13:25,006 - 01:13:28,006] Aren't there big, big bangs happening out there?
+- [01:13:28,006 - 01:13:30,006] Not that I know of.
+- [01:13:30,006 - 01:13:33,006] I thought that...
+- [01:13:33,006 - 01:13:36,006] There were...
+- [01:13:36,006 - 01:13:37,006] There were...
+- [01:13:37,006 - 01:13:38,006] The...
+- [01:13:38,006 - 01:13:39,006] What's it called?
+- [01:13:39,006 - 01:13:40,006] The...
+- [01:13:40,006 - 01:13:44,006] Yeah, but we can't see that part.
+- [01:13:44,006 - 01:13:46,006] That's out beyond the horizon.
+- [01:13:46,006 - 01:13:49,006] That's out beyond the horizon.
+- [01:13:49,006 - 01:13:51,006] That will not be visible to us,
+- [01:13:51,006 - 01:13:55,006] or to our future descendants.
+- [01:13:55,006 - 01:14:00,006] Now, what is true, there is something which is true.
+- [01:14:00,006 - 01:14:03,006] They're called Poincare recurrences.
+- [01:14:03,006 - 01:14:06,006] I'll tell you what a Poincare recurrence is.
+- [01:14:06,006 - 01:14:09,006] First of all, your picture of...
+- [01:14:09,006 - 01:14:11,006] That's the inside.
+- [01:14:11,006 - 01:14:14,006] Your picture should be that there's some temperature here,
+- [01:14:14,006 - 01:14:17,006] a very low temperature from our point of view,
+- [01:14:17,006 - 01:14:19,006] a very high temperature out near the boundary,
+- [01:14:19,006 - 01:14:21,006] but you should think of it as a thermal system.
+- [01:14:21,006 - 01:14:24,006] It, in fact, has an entropy.
+- [01:14:24,006 - 01:14:26,506] The entropy is just the area
+- [01:14:26,506 - 01:14:29,006] of the horizon in Planck units.
+- [01:14:29,006 - 01:14:31,006] It has an entropy, a certain finite entropy.
+- [01:14:31,006 - 01:14:31,506] And so you can think
+- [01:14:31,506 - 01:14:32,006] of it as a thermal system,
+- [01:14:32,006 - 01:14:33,506] and so you can think of it
+- [01:14:33,506 - 01:14:35,006] to a large extent as a cavity
+- [01:14:35,006 - 01:14:37,006] with a finite amount of entropy
+- [01:14:37,006 - 01:14:39,006] in it and some thermal gas.
+- [01:14:39,006 - 01:14:42,006] The thermal gas is mainly out near the horizon
+- [01:14:42,006 - 01:14:44,006] because of this effect.
+- [01:14:44,006 - 01:14:47,006] It all tends to congregate out here.
+- [01:14:47,006 - 01:14:50,006] And it's constantly fluctuating.
+- [01:14:50,006 - 01:14:53,006] Now, a thermal system...
+- [01:14:53,006 - 01:14:56,006] Let's talk about thermal systems, a box.
+- [01:14:56,006 - 01:14:59,006] A box of gas with lots of molecules in it.
+- [01:15:02,006 - 01:15:07,006] After it comes to thermal equilibrium,
+- [01:15:07,006 - 01:15:10,506] and in fact, what will happen
+- [01:15:10,506 - 01:15:14,006] is everything will come to thermal equilibrium.
+- [01:15:14,006 - 01:15:16,006] When everything passes out through the horizon,
+- [01:15:16,006 - 01:15:19,006] it will be in thermal equilibrium.
+- [01:15:19,006 - 01:15:21,006] What is a gas, a box of
+- [01:15:21,006 - 01:15:23,006] gas like when it's in thermal equilibrium?
+- [01:15:23,006 - 01:15:25,006] Well, it's like nothing.
+- [01:15:25,006 - 01:15:30,006] I mean, it's a big, dull box of uniform density.
+- [01:15:30,006 - 01:15:32,006] Nothing much happens.
+- [01:15:32,006 - 01:15:34,506] It just sits there and
+- [01:15:34,506 - 01:15:37,006] sits there forever and ever, right?
+- [01:15:37,006 - 01:15:39,006] A black body, right?
+- [01:15:39,006 - 01:15:41,006] Yeah, if it's radiation in there, it's a black body.
+- [01:15:41,006 - 01:15:43,006] If it's molecules in there, the molecules,
+- [01:15:43,006 - 01:15:46,006] and they're fairly, let's say they're fairly dense,
+- [01:15:46,006 - 01:15:49,006] then apart from tiny little fluctuations,
+- [01:15:49,006 - 01:15:51,006] nothing ever happens.
+- [01:15:51,006 - 01:15:53,006] Well, that depends on time scales.
+- [01:15:53,006 - 01:15:56,006] There are time scales.
+- [01:15:56,006 - 01:16:00,006] Basically, statistically, anything can happen.
+- [01:16:00,006 - 01:16:02,006] There are no rules.
+- [01:16:02,006 - 01:16:04,006] There are no rules.
+- [01:16:04,006 - 01:16:06,006] There's only statistics, only probabilities.
+- [01:16:06,006 - 01:16:08,006] That's all there are are probabilities.
+- [01:16:08,006 - 01:16:10,006] You can really ask, what is
+- [01:16:10,006 - 01:16:12,006] the probability that all the molecules
+- [01:16:12,006 - 01:16:15,006] suddenly come together in such a way that they
+- [01:16:15,006 - 01:16:18,006] all wind up in the corner of the room?
+- [01:16:18,006 - 01:16:20,006] There's an answer to that.
+- [01:16:20,006 - 01:16:23,006] There's an answer to that, the probability.
+- [01:16:23,006 - 01:16:26,006] It is basically E to the
+- [01:16:26,006 - 01:16:29,006] minus the entropy of the gas.
+- [01:16:29,006 - 01:16:30,506] The entropy is roughly the
+- [01:16:30,506 - 01:16:32,006] number of molecules of the gas.
+- [01:16:32,006 - 01:16:33,506] So if we have a box
+- [01:16:33,506 - 01:16:35,006] with 10 to the 25th molecules,
+- [01:16:35,006 - 01:16:39,006] this is E to the minus 10 to the 25th.
+- [01:16:39,006 - 01:16:41,006] You weight a time of order
+- [01:16:41,006 - 01:16:43,006] E to the 10 to the 25th.
+- [01:16:43,006 - 01:16:47,006] It's called the Poincare recurrence time.
+- [01:16:47,006 - 01:16:49,006] And basically, the Poincare recurrence
+- [01:16:49,006 - 01:16:51,006] time is the time scale
+- [01:16:51,006 - 01:16:56,006] for extremely rare and unusual fluctuations to take place.
+- [01:16:56,006 - 01:16:59,006] Extremely rare and unusual fluctuation might be
+- [01:16:59,006 - 01:17:02,006] all the molecules go off into the center.
+- [01:17:02,006 - 01:17:04,506] Or it might be they all
+- [01:17:04,506 - 01:17:07,006] assemble themselves into an elephant or whatever.
+- [01:17:07,006 - 01:17:11,006] That time scale is of order,
+- [01:17:11,006 - 01:17:15,006] what's called the Poincare recurrence time.
+- [01:17:15,006 - 01:17:18,006] And it's normally extremely huge.
+- [01:17:18,006 - 01:17:22,006] On that time scale, there's constantly things going on.
+- [01:17:22,006 - 01:17:24,506] Fluctuations taking place which take
+- [01:17:24,506 - 01:17:27,006] you far out of thermal equilibrium.
+- [01:17:27,006 - 01:17:29,006] So far out of thermal equilibrium
+- [01:17:29,006 - 01:17:31,006] that in the return to thermal equilibrium,
+- [01:17:31,006 - 01:17:34,006] all sorts of complicated vortices and
+- [01:17:34,006 - 01:17:37,006] other things might form in this there
+- [01:17:37,006 - 01:17:40,006] before it returns to thermal equilibrium.
+- [01:17:40,006 - 01:17:42,006] This is also thought to
+- [01:17:42,006 - 01:17:44,006] be true for the sitter space.
+- [01:17:44,006 - 01:17:49,006] That if you really wait long enough, how long?
+- [01:17:49,006 - 01:17:54,006] E to the 10 to the 120.
+- [01:17:54,006 - 01:17:56,006] What units?
+- [01:17:56,006 - 01:18:00,006] It doesn't matter what units.
+- [01:18:00,006 - 01:18:03,006] Believe me, it doesn't matter what units.
+- [01:18:03,006 - 01:18:05,506] In any units you can think of, it will take
+- [01:18:05,506 - 01:18:08,006] E to the 10 to the 120 of those units,
+- [01:18:08,006 - 01:18:12,006] and let's say years, for a recurrence to occur.
+- [01:18:12,006 - 01:18:14,006] And on that time scale, all
+- [01:18:14,006 - 01:18:16,006] kinds of things will take place.
+- [01:18:16,006 - 01:18:20,006] So, among other things.
+- [01:18:20,006 - 01:18:22,006] Right.
+- [01:18:22,006 - 01:18:23,006] Right.
+- [01:18:23,006 - 01:18:26,006] But, you know, short of such
+- [01:18:26,006 - 01:18:29,006] impossibly long time scales, nothing will happen.
+- [01:18:29,006 - 01:18:31,006] It will just be heat death.
+- [01:18:31,006 - 01:18:32,006] The same kind of heat
+- [01:18:32,006 - 01:18:33,006] death that takes place in here,
+- [01:18:33,006 - 01:18:36,006] when everything comes to equilibrium and
+- [01:18:36,006 - 01:18:39,006] there's no more interesting things happening.
+- [01:18:43,006 - 01:18:47,006] Well, more mild fluctuations could happen.
+- [01:18:47,006 - 01:18:49,506] Fluctuations could happen, I'll give you an
+- [01:18:49,506 - 01:18:52,006] example of a fluctuation that can happen.
+- [01:18:52,006 - 01:18:54,506] We can even give a rough
+- [01:18:54,506 - 01:18:57,006] estimate of how long between such fluctuations.
+- [01:18:57,006 - 01:19:00,506] Instead of the whole world returning to
+- [01:19:00,506 - 01:19:04,006] the original Big Bang, which might happen,
+- [01:19:04,006 - 01:19:06,006] that would be this time scale here,
+- [01:19:06,006 - 01:19:09,006] we could ask for a more modest kind of fluctuation.
+- [01:19:09,006 - 01:19:12,506] A more modest kind of fluctuation might be a
+- [01:19:12,506 - 01:19:16,006] fluctuation happens in which a solar system accidentally forms.
+- [01:19:16,006 - 01:19:18,006] I told you an elephant could form.
+- [01:19:18,006 - 01:19:20,006] Okay, yes, an elephant can form.
+- [01:19:20,006 - 01:19:22,506] And the time scale for elephants to form is not
+- [01:19:22,506 - 01:19:25,006] E to the minus the entropy of the whole gas,
+- [01:19:25,006 - 01:19:28,006] it's E to the minus the entropy of an elephant.
+- [01:19:28,006 - 01:19:29,006] What's the entropy of an elephant?
+- [01:19:29,006 - 01:19:31,006] Roughly the number of molecules in it.
+- [01:19:31,006 - 01:19:35,006] In the same way, if you wait
+- [01:19:35,006 - 01:19:39,006] long enough, by accident, by pure thermal fluctuation,
+- [01:19:39,006 - 01:19:42,006] a solar system might form here.
+- [01:19:42,006 - 01:19:46,006] That might be the cheapest way of making an observer.
+- [01:19:46,006 - 01:19:47,006] Right.
+- [01:19:47,006 - 01:19:50,006] The cheapest way, probabilistically speaking, of making an
+- [01:19:50,006 - 01:19:53,006] observer might be for a fluctuation to happen
+- [01:19:53,006 - 01:19:54,006] and to create a solar system.
+- [01:19:54,006 - 01:19:57,006] But I can think of something a little cheaper.
+- [01:19:57,006 - 01:20:02,006] I can think of just the Earth forming.
+- [01:20:02,006 - 01:20:03,006] That would be even cheaper.
+- [01:20:03,006 - 01:20:04,506] The entropy of the Earth, well, you might
+- [01:20:04,506 - 01:20:06,006] worry a little bit if there was no sun,
+- [01:20:06,006 - 01:20:08,006] then you wouldn't have any warmth,
+- [01:20:08,006 - 01:20:10,006] but let's not worry about that.
+- [01:20:10,006 - 01:20:13,006] You might form an already warm Earth that
+- [01:20:13,006 - 01:20:16,006] keeps itself warm for some period of time.
+- [01:20:16,006 - 01:20:19,506] And you say, well, maybe it's
+- [01:20:19,506 - 01:20:23,006] not enough time for people to evolve.
+- [01:20:23,006 - 01:20:24,006] Don't worry about that.
+- [01:20:24,006 - 01:20:27,006] The fluctuation involves the creation of people, too.
+- [01:20:27,006 - 01:20:29,006] But you could even do cheaper.
+- [01:20:29,006 - 01:20:32,506] If all you want is a single observer, you
+- [01:20:32,506 - 01:20:36,006] could imagine a single observer or just his brain,
+- [01:20:36,006 - 01:20:40,006] just his brain being nucleated by random fluctuation.
+- [01:20:40,006 - 01:20:46,006] Such things are called Boltzmann brains.
+- [01:20:46,006 - 01:20:49,506] And serious physicists worry about computing
+- [01:20:49,506 - 01:20:53,006] the relative probability of ordinary observers
+- [01:20:53,006 - 01:20:59,006] with a reasonable history like us versus Boltzmann brains.
+- [01:20:59,006 - 01:21:03,506] They don't want a universe in which
+- [01:21:03,506 - 01:21:08,006] the typical observer is a Boltzmann brain.
+- [01:21:08,006 - 01:21:10,506] That's not a good thing if when
+- [01:21:10,506 - 01:21:13,006] you calculate the properties of the universe
+- [01:21:13,006 - 01:21:16,006] that you find out that the
+- [01:21:16,006 - 01:21:19,006] overwhelming majority of observers are Boltzmann brains
+- [01:21:19,006 - 01:21:22,006] that appear spontaneously out of nowhere.
+- [01:21:22,006 - 01:21:26,006] And serious physicists worry about whether their
+- [01:21:26,006 - 01:21:30,006] cosmology will be dominated by Boltzmann brains
+- [01:21:30,006 - 01:21:35,006] instead of Darwinian brains that evolved.
+- [01:21:35,006 - 01:21:37,006] I'm not kidding you.
+- [01:21:37,006 - 01:21:40,006] It's a serious business.
+- [01:21:40,006 - 01:21:47,006] Maybe a quicker way would be to send someone out.
+- [01:21:47,006 - 01:21:49,006] Quicker way to do what?
+- [01:21:49,006 - 01:21:51,006] To determine whether in the future,
+- [01:21:51,006 - 01:21:53,006] when you follow your history books,
+- [01:21:53,006 - 01:21:55,006] when the internet was crashed,
+- [01:21:55,006 - 01:21:57,006] to determine whether or not,
+- [01:21:57,006 - 01:21:58,006] if you just,
+- [01:21:58,006 - 01:22:00,006] because it might be billions of years,
+- [01:22:00,006 - 01:22:02,006] but then you might be able to see that there's...
+- [01:22:02,006 - 01:22:04,006] No, no, you're right.
+- [01:22:04,006 - 01:22:08,006] I should qualify my statement that it's impossible to,
+- [01:22:08,006 - 01:22:12,006] it's impossible to do it except on time scales
+- [01:22:12,006 - 01:22:16,006] which are big enough to explore such large regions.
+- [01:22:16,006 - 01:22:19,006] Right, that's exactly right.
+- [01:22:19,006 - 01:22:20,006] These forces are such
+- [01:22:20,006 - 01:22:23,006] that they only become appreciable
+- [01:22:23,006 - 01:22:25,006] at distance scales of let's say
+- [01:22:25,006 - 01:22:29,006] some fraction of a billion light years.
+- [01:22:29,006 - 01:22:32,006] So yes, if you could go out and explore,
+- [01:22:32,006 - 01:22:33,006] yes, of course you're right,
+- [01:22:33,006 - 01:22:35,006] that's a much shorter time scale,
+- [01:22:35,006 - 01:22:38,006] you could go out and send out your explorers,
+- [01:22:38,006 - 01:22:40,006] map out the geometry of,
+- [01:22:40,006 - 01:22:44,006] with light signals,
+- [01:22:44,006 - 01:22:47,006] measure the properties of space on large scale,
+- [01:22:47,006 - 01:22:48,006] space and time,
+- [01:22:48,006 - 01:22:50,006] and if you had your own,
+- [01:22:50,006 - 01:22:51,506] you could give yourself a few
+- [01:22:51,506 - 01:22:53,006] billion years to do it in,
+- [01:22:53,006 - 01:22:54,506] and rockets that could get out
+- [01:22:54,506 - 01:22:56,006] there and explore that large size,
+- [01:22:56,006 - 01:22:59,006] yes, then you could definitely tell.
+- [01:22:59,006 - 01:23:02,006] But if you're restricted to,
+- [01:23:02,006 - 01:23:07,006] you know, the usual lifetime of an experiment,
+- [01:23:07,006 - 01:23:09,006] well, just any kind of ordinary time scales,
+- [01:23:09,006 - 01:23:11,006] you would have a much harder time telling,
+- [01:23:11,006 - 01:23:14,006] and I'm not sure how you would do it.
+- [01:23:14,006 - 01:23:16,006] Yeah, but they're absolutely right.
+- [01:23:16,006 - 01:23:19,006] You could imagine sending out explorers,
+- [01:23:20,006 - 01:23:22,006] to map out geometry,
+- [01:23:22,006 - 01:23:24,006] and they would find this, yeah.
+- [01:23:24,006 - 01:23:29,006] So the time scale of the experiments would be redshifted?
+- [01:23:29,006 - 01:23:30,506] Well, no, the time scale of
+- [01:23:30,506 - 01:23:32,006] the experiments would be of order,
+- [01:23:32,006 - 01:23:34,006] a few billion light years.
+- [01:23:34,006 - 01:23:36,006] I'm just saying that it
+- [01:23:36,006 - 01:23:38,006] takes longer the more you wait.
+- [01:23:38,006 - 01:23:40,006] It takes longer the more you wait.
+- [01:23:40,006 - 01:23:41,506] Longer to do the experiments to
+- [01:23:41,506 - 01:23:43,006] find out what we know now.
+- [01:23:43,006 - 01:23:45,006] Yes, it would take much longer to do the experiments,
+- [01:23:45,006 - 01:23:47,006] yes, that's right.
+- [01:23:47,006 - 01:23:48,006] That's right.
+- [01:23:48,006 - 01:23:50,006] But the observer,
+- [01:23:50,006 - 01:23:51,006] sending out...
+- [01:23:51,006 - 01:23:52,006] No, no, I think you're right.
+- [01:23:52,006 - 01:23:55,006] It is a matter of redshift in a sense, yes.
+- [01:23:55,006 - 01:23:57,006] The observer sending information back
+- [01:23:57,006 - 01:24:00,006] sends a radiation that is modulated,
+- [01:24:00,006 - 01:24:02,006] and that's redshift.
+- [01:24:02,006 - 01:24:03,006] That's okay.
+- [01:24:03,006 - 01:24:05,006] Don't even do that.
+- [01:24:05,006 - 01:24:06,006] Don't even think about it.
+- [01:24:06,006 - 01:24:07,006] Just send the observers out,
+- [01:24:07,006 - 01:24:09,006] let them make measurements with light rays.
+- [01:24:09,006 - 01:24:10,006] The light rays take a billion years
+- [01:24:10,006 - 01:24:11,006] to get from one place to another.
+- [01:24:11,006 - 01:24:12,006] That's okay.
+- [01:24:12,006 - 01:24:13,006] We have a billion years.
+- [01:24:13,006 - 01:24:16,006] And then just bring the observers back and...
+- [01:24:16,006 - 01:24:17,006] And you're right.
+- [01:24:17,006 - 01:24:19,006] There is a redshift factor,
+- [01:24:19,006 - 01:24:21,006] but we face exactly the same redshift factor
+- [01:24:21,006 - 01:24:23,006] when we measure it today.
+- [01:24:23,006 - 01:24:26,006] We measure today the cosmological constant
+- [01:24:26,006 - 01:24:31,006] by monitoring the cosmic macronutrient background.
+- [01:24:31,006 - 01:24:32,506] That's been redshifted by a
+- [01:24:32,506 - 01:24:34,006] factor of a thousand or so.
+- [01:24:34,006 - 01:24:39,006] So what is the information content
+- [01:24:39,006 - 01:24:43,006] of a highly redshifted signal?
+- [01:24:43,006 - 01:24:45,006] You don't have to redshift that much.
+- [01:24:45,006 - 01:24:47,006] If you want to explore
+- [01:24:47,006 - 01:24:50,006] the universe on a scale of,
+- [01:24:50,006 - 01:24:54,006] let's say, four billion light years on a side,
+- [01:24:54,006 - 01:24:56,006] and that's enough.
+- [01:24:56,006 - 01:24:59,006] Probably a billion light years
+- [01:24:59,006 - 01:25:03,006] would be more than enough to detect the expansion.
+- [01:25:03,006 - 01:25:06,006] In a billion light years,
+- [01:25:06,006 - 01:25:11,006] the redshift is not a big deal.
+- [01:25:11,006 - 01:25:13,006] It's a small fraction of one,
+- [01:25:13,006 - 01:25:15,006] a tenth or something like that.
+- [01:25:15,006 - 01:25:16,006] So you're not limited to one.
+- [01:25:16,006 - 01:25:18,006] So you're not limited by redshift
+- [01:25:18,006 - 01:25:20,006] in making these measurements.
+- [01:25:20,006 - 01:25:21,006] If you were,
+- [01:25:21,006 - 01:25:24,006] we wouldn't be able to do them today.
+- [01:25:24,006 - 01:25:26,006] The planets and so forth...
+- [01:25:26,006 - 01:25:27,006] Not the planets.
+- [01:25:27,006 - 01:25:29,006] The stars and galaxies that we see out there
+- [01:25:29,006 - 01:25:31,006] that we count
+- [01:25:31,006 - 01:25:34,006] and which form our measuring rods and so forth,
+- [01:25:34,006 - 01:25:35,006] those are out pretty far,
+- [01:25:35,006 - 01:25:38,006] a few billion light years.
+- [01:25:38,006 - 01:25:40,006] But we're not limited in detecting them
+- [01:25:40,006 - 01:25:44,006] by their redshift from us.
+- [01:25:44,006 - 01:25:45,006] Since we're talking about Fonker,
+- [01:25:45,006 - 01:25:48,006] we're talking about Fonker ray recurrence probabilities,
+- [01:25:48,006 - 01:25:51,006] and of course all this stuff is based on
+- [01:25:51,006 - 01:25:53,006] quantum mechanics, quantum field theory...
+- [01:25:53,006 - 01:25:55,006] No, no, that does...
+- [01:25:55,006 - 01:25:58,006] Yeah, Fonker ray recurrences are not quantum mechanics.
+- [01:25:58,006 - 01:25:59,006] They're classical...
+- [01:25:59,006 - 01:26:00,006] I'm not saying...
+- [01:26:00,006 - 01:26:01,006] That's true,
+- [01:26:01,006 - 01:26:04,006] but all this is based on predictions
+- [01:26:04,006 - 01:26:06,006] on the kind of laws of nature
+- [01:26:06,006 - 01:26:08,006] that we are aware of today.
+- [01:26:08,006 - 01:26:10,006] What's the probability that in the future
+- [01:26:10,006 - 01:26:12,006] humans will discover laws about nature
+- [01:26:12,006 - 01:26:14,006] that'll make all this wrong?
+- [01:26:14,006 - 01:26:16,006] I'm not saying that we won.
+- [01:26:16,006 - 01:26:18,006] Just mind the myth.
+- [01:26:18,006 - 01:26:20,006] But, you know, I...
+- [01:26:20,006 - 01:26:22,006] Yes, no, your point is well taken,
+- [01:26:22,006 - 01:26:24,006] but it's also true that
+- [01:26:24,006 - 01:26:30,006] the most single, robust set of rules
+- [01:26:30,006 - 01:26:33,006] that has never been shaken at all
+- [01:26:33,006 - 01:26:36,006] are the rules of thermodynamics and statistics.
+- [01:26:36,006 - 01:26:38,006] So if I had to bet
+- [01:26:38,006 - 01:26:42,006] on which laws would be most likely
+- [01:26:42,006 - 01:26:44,006] to survive for a very long time
+- [01:26:44,006 - 01:26:46,006] or an arbitrarily long time,
+- [01:26:46,006 - 01:26:48,006] I would guess those which were based on
+- [01:26:48,006 - 01:26:50,006] statistics, probability theory,
+- [01:26:50,006 - 01:26:52,006] namely statistical mechanics.
+- [01:26:52,006 - 01:26:54,006] But, do we know? No.
+- [01:26:54,006 - 01:26:56,006] I would also make the point that
+- [01:26:56,006 - 01:26:58,006] statistics and probability,
+- [01:26:58,006 - 01:27:00,006] what they ultimately mean,
+- [01:27:00,006 - 01:27:02,006] is also something that is quite mysterious
+- [01:27:02,006 - 01:27:04,006] and we might have a different view of it.
+- [01:27:04,006 - 01:27:05,006] Yes, I think we will
+- [01:27:05,006 - 01:27:06,006] have a different view of it.
+- [01:27:06,006 - 01:27:08,006] I was going to talk about...
+- [01:27:08,006 - 01:27:10,006] Let's see, what time is it?
+- [01:27:10,006 - 01:27:11,006] It's an hour and...
+- [01:27:11,006 - 01:27:12,006] It's an hour what?
+- [01:27:12,006 - 01:27:13,006] It's like 8.30.
+- [01:27:13,006 - 01:27:14,006] Oh, I know, I know.
+- [01:27:14,006 - 01:27:15,006] What time is it really?
+- [01:27:16,006 - 01:27:17,006] All right.
+- [01:27:17,006 - 01:27:18,006] All right, I...
+- [01:27:18,006 - 01:27:20,006] Yeah, I thought I would amuse you
+- [01:27:20,006 - 01:27:24,006] with some other things that physicists worry about today
+- [01:27:24,006 - 01:27:26,006] that sound very bizarre.
+- [01:27:26,006 - 01:27:27,006] I'm just going to ask
+- [01:27:27,006 - 01:27:28,006] if this is a good time
+- [01:27:28,006 - 01:27:30,006] to bring in the question that you brought up
+- [01:27:30,006 - 01:27:33,006] about the ultraviolet redshift connection.
+- [01:27:33,006 - 01:27:36,006] I mean infrared, ultraviolet infrared connection.
+- [01:27:38,530 - 01:27:39,778] はい
+- [01:27:39,778 - 01:27:41,898] Yeah, I never quite get to it, do I?
+- [01:27:41,898 - 01:27:42,398] No.
+- [01:27:42,398 - 01:27:42,898] Yeah.
+- [01:27:46,898 - 01:27:48,108] It is the right time, but
+- [01:27:48,108 - 01:27:49,318] I'm not going to do it anyway.
+- [01:27:52,318 - 01:27:55,918] Maybe I could come back for another 10 years.
+- [01:27:55,918 - 01:27:58,218] Yeah, ooh, someday we'll get to it.
+- [01:27:58,218 - 01:28:00,178] Someday we'll get to it.
+- [01:28:00,178 - 01:28:03,718] I was going to tell you about a puzzle that
+- [01:28:03,718 - 01:28:07,918] has to do with probability theory that
+- [01:28:07,918 - 01:28:13,158] is really sort of obsessing a lot of physicists.
+- [01:28:13,158 - 01:28:17,598] And I'll tell you where it comes from.
+- [01:28:17,598 - 01:28:19,498] The first thing, which we're
+- [01:28:19,498 - 01:28:21,398] not going to talk about tonight,
+- [01:28:21,398 - 01:28:23,068] is the idea of, except
+- [01:28:23,068 - 01:28:24,738] I'm just going to mention it,
+- [01:28:24,738 - 01:28:27,198] is the idea of eternal inflation.
+- [01:28:27,198 - 01:28:31,518] I'll draw a picture of it for what it's worth.
+- [01:28:31,518 - 01:28:33,378] And then I'll tell you what
+- [01:28:33,378 - 01:28:35,238] the nature of the puzzle is.
+- [01:28:35,238 - 01:28:37,098] First, we want to get a picture on the blackboard.
+- [01:28:37,918 - 01:28:40,078] A picture of the Sitter
+- [01:28:40,078 - 01:28:42,238] space or a expanding, inflating universe
+- [01:28:42,238 - 01:28:43,438] looked like that.
+- [01:28:43,438 - 01:28:45,058] Everything below here is the world.
+- [01:28:45,058 - 01:28:46,918] Everything above there doesn't mean anything.
+- [01:28:46,918 - 01:28:48,718] And this is the end of time.
+- [01:28:48,718 - 01:28:51,028] OK, one of the things that
+- [01:28:51,028 - 01:28:53,338] was discovered sometime in the 1970s
+- [01:28:53,338 - 01:28:56,358] by a physicist by the name of Sidney Coleman
+- [01:28:56,358 - 01:29:01,758] was that the Sitter space like this is probably unstable.
+- [01:29:01,758 - 01:29:04,358] But it's unstable in a very specific way.
+- [01:29:04,358 - 01:29:05,828] It's unstable with respect to
+- [01:29:05,828 - 01:29:07,298] the fact that it's not stable.
+- [01:29:07,298 - 01:29:07,798] It's unstable.
+- [01:29:07,798 - 01:29:12,558] It's unstable with respect to nucleating little bubbles
+- [01:29:12,558 - 01:29:17,558] in which the cosmological constant might be smaller.
+- [01:29:17,558 - 01:29:19,058] I'm just going to draw
+- [01:29:19,058 - 01:29:20,558] you what the picture looks like.
+- [01:29:20,558 - 01:29:23,058] If a bubble nucleated over
+- [01:29:23,058 - 01:29:25,558] here in which the cosmological constant
+- [01:29:25,558 - 01:29:28,798] was a little bit smaller or maybe a lot smaller,
+- [01:29:28,798 - 01:29:35,317] what would happen is a region would grow.
+- [01:29:35,317 - 01:29:36,418] It would grow.
+- [01:29:36,418 - 01:29:37,658] And eventually, it would be a new world.
+- [01:29:37,798 - 01:29:40,148] And then it would fill up
+- [01:29:40,148 - 01:29:42,498] a region of space like that.
+- [01:29:42,498 - 01:29:44,298] This region of space in here,
+- [01:29:44,298 - 01:29:46,098] this region of space-time in here,
+- [01:29:46,098 - 01:29:49,498] is itself an entire universe.
+- [01:29:49,498 - 01:29:50,458] Don't ask me why.
+- [01:29:50,458 - 01:29:51,698] It's a bubble.
+- [01:29:51,698 - 01:29:53,598] But it's an expanding bubble.
+- [01:29:53,598 - 01:29:55,618] And that expanding bubble expands out
+- [01:29:55,618 - 01:29:58,297] to something infinitely big up here.
+- [01:29:58,297 - 01:30:02,058] And it corresponds, in some sense, to a universe.
+- [01:30:02,058 - 01:30:04,278] With time, many of these bubbles will form.
+- [01:30:04,278 - 01:30:04,528] And in fact, the problem is that
+- [01:30:04,528 - 01:30:04,778] the bubbles are not going to form.
+- [01:30:04,778 - 01:30:05,278] They're going to expand.
+- [01:30:05,278 - 01:30:05,758] They're going to expand.
+- [01:30:05,758 - 01:30:06,258] And they're going to expand.
+- [01:30:06,258 - 01:30:06,758] And they're going to expand.
+- [01:30:06,758 - 01:30:07,258] And they're going to expand.
+- [01:30:07,258 - 01:30:07,758] And they're going to expand.
+- [01:30:07,798 - 01:30:12,398] And the population of them will exponentially increase.
+- [01:30:12,398 - 01:30:12,898] Why?
+- [01:30:12,898 - 01:30:15,758] It has to do with the exponential expansion.
+- [01:30:15,758 - 01:30:20,358] The population will exponentially increase.
+- [01:30:20,358 - 01:30:24,678] And this is a picture that cosmologists love to draw.
+- [01:30:24,678 - 01:30:27,138] These different bubbles could be different from each other.
+- [01:30:27,138 - 01:30:28,998] It's not really terribly important.
+- [01:30:28,998 - 01:30:31,278] They might be different from each other.
+- [01:30:31,278 - 01:30:33,518] Things go on in them.
+- [01:30:33,518 - 01:30:35,388] And this process is imagined to
+- [01:30:35,388 - 01:30:37,258] keep going and going and going.
+- [01:30:37,798 - 01:30:38,048] And this process is imagined to
+- [01:30:38,048 - 01:30:38,298] keep going and going and going.
+- [01:30:38,298 - 01:30:40,438] Now, each one of these tiny little bubbles
+- [01:30:40,438 - 01:30:46,038] is as big as the original one I drew here,
+- [01:30:46,038 - 01:30:50,618] for the same reason that this line here
+- [01:30:50,618 - 01:30:51,838] is as big as that line.
+- [01:30:54,538 - 01:30:57,578] It's just that they occur later.
+- [01:30:57,578 - 01:31:00,258] And they fill up all of future infinity
+- [01:31:00,258 - 01:31:05,918] here with a kind of fractal structure of exponentially
+- [01:31:05,918 - 01:31:06,838] increasing population.
+- [01:31:06,838 - 01:31:07,338] And this is the same structure.
+- [01:31:07,338 - 01:31:07,798] And this is the same structure.
+- [01:31:07,798 - 01:31:08,698] And this is the same structure.
+- [01:31:08,698 - 01:31:09,778] There could be people in there.
+- [01:31:09,778 - 01:31:11,478] There could be whatever you like.
+- [01:31:11,478 - 01:31:14,558] The populations exponentially increase.
+- [01:31:14,558 - 01:31:18,518] There are some very funny puzzles about probability theory
+- [01:31:18,518 - 01:31:24,058] having to do with exponentially increasing populations.
+- [01:31:24,058 - 01:31:25,938] And they have really gotten in our way.
+- [01:31:25,938 - 01:31:27,718] I'll give you some examples just for fun.
+- [01:31:27,718 - 01:31:28,878] I'll tell you some examples.
+- [01:31:28,878 - 01:31:33,798] And then I'll tell you how it applies to this.
+- [01:31:33,798 - 01:31:34,898] Imagine the following.
+- [01:31:34,898 - 01:31:38,398] A Gedanken world.
+- [01:31:38,398 - 01:31:38,898] A thought.
+- [01:31:38,898 - 01:31:40,478] It's not an experiment.
+- [01:31:40,478 - 01:31:41,858] It's just a world.
+- [01:31:41,858 - 01:31:43,418] In fact, it's not a Gedanken world.
+- [01:31:43,418 - 01:31:45,758] It is our world.
+- [01:31:45,758 - 01:31:49,138] It's a world in which the population is exponentially
+- [01:31:49,138 - 01:31:50,018] increasing.
+- [01:31:50,018 - 01:31:54,678] Unfortunately, this is approximately true.
+- [01:31:54,678 - 01:31:59,818] Number two, it's a world with finite resources.
+- [01:31:59,818 - 01:32:01,698] I think it's true.
+- [01:32:01,698 - 01:32:03,218] But let's take it to be the
+- [01:32:03,218 - 01:32:04,738] case that, for one, it's a world
+- [01:32:04,738 - 01:32:07,238] where there's a total amount of resources.
+- [01:32:07,238 - 01:32:09,238] And for one reason or another, nobody really
+- [01:32:09,238 - 01:32:13,678] has the vaguest idea what the total resources are.
+- [01:32:13,678 - 01:32:16,978] This, I think, is not true of all words.
+- [01:32:16,978 - 01:32:18,978] Unless you're in Congress.
+- [01:32:18,978 - 01:32:20,978] Unless you're in Congress.
+- [01:32:20,978 - 01:32:22,978] One half of Congress, anyway.
+- [01:32:22,978 - 01:32:25,478] Right?
+- [01:32:25,478 - 01:32:25,978] Yeah.
+- [01:32:25,978 - 01:32:28,238] So we will take it.
+- [01:32:28,238 - 01:32:32,278] These citizens who live in this exponentially growing
+- [01:32:32,278 - 01:32:34,077] population.
+- [01:32:34,078 - 01:32:35,578] And I think that's the point.
+- [01:32:35,578 - 01:32:37,578] They don't have any idea
+- [01:32:37,578 - 01:32:39,578] at all what the resources are.
+- [01:32:39,578 - 01:32:42,578] But they are interested in the probability
+- [01:32:42,578 - 01:32:45,318] that they want to know what the probabilities are
+- [01:32:45,318 - 01:32:50,578] that their resources will last for another generation or so.
+- [01:32:50,578 - 01:32:52,578] How can they give an answer to this
+- [01:32:52,578 - 01:32:54,578] if they don't know what the resources are?
+- [01:32:54,578 - 01:32:57,078] But we'll add one more postulate.
+- [01:32:57,078 - 01:32:58,578] And the one more postulate is one
+- [01:32:58,578 - 01:33:00,078] that we always make in science.
+- [01:33:00,078 - 01:33:01,578] I'll give you some examples of it.
+- [01:33:01,578 - 01:33:02,828] And it is that we who
+- [01:33:02,828 - 01:33:04,078] are doing the experiment are typical.
+- [01:33:04,078 - 01:33:06,078] Typical means the following.
+- [01:33:06,078 - 01:33:08,578] It means that if there
+- [01:33:08,578 - 01:33:11,078] are a great many possible outcomes,
+- [01:33:11,078 - 01:33:16,078] but more, but by some large majority,
+- [01:33:16,078 - 01:33:22,078] the observers who are doing this have a large probab-
+- [01:33:22,078 - 01:33:24,078] well, let's see how to say this.
+- [01:33:24,078 - 01:33:25,078] Yeah, okay.
+- [01:33:25,078 - 01:33:27,078] Let's talk about coin flippers.
+- [01:33:27,078 - 01:33:29,078] Let's talk about coin flippers.
+- [01:33:29,078 - 01:33:32,078] I hate to digress, but let's get into coin flippers.
+- [01:33:32,078 - 01:33:33,078] We got zillions and zillions
+- [01:33:33,078 - 01:33:34,078] of people who are doing this.
+- [01:33:34,078 - 01:33:36,078] We got zillions and zillions of these people
+- [01:33:36,078 - 01:33:38,078] who are obsessed with coin flipping.
+- [01:33:38,078 - 01:33:40,078] And what they love to do is they
+- [01:33:40,078 - 01:33:42,078] love to flip a coin a million times.
+- [01:33:42,078 - 01:33:44,078] All of these people do this.
+- [01:33:44,078 - 01:33:45,078] And they count how many heads they get,
+- [01:33:45,078 - 01:33:46,078] and they count how many tails.
+- [01:33:46,078 - 01:33:48,078] What they do with it, I don't know.
+- [01:33:48,078 - 01:33:49,078] All right.
+- [01:33:49,078 - 01:33:51,078] But a typical one of them, or one of them,
+- [01:33:51,078 - 01:33:52,078] asks the question,
+- [01:33:52,078 - 01:33:54,578] what bet should I make for how
+- [01:33:54,578 - 01:33:57,078] many heads and tails do I get?
+- [01:33:57,078 - 01:34:02,078] Not exactly, but, you know, within some reasonable bounds.
+- [01:34:02,078 - 01:34:03,078] I'm going to do an experiment.
+- [01:34:03,078 - 01:34:05,078] I'm an experimental physicist.
+- [01:34:05,078 - 01:34:07,078] All experiments involve statistics,
+- [01:34:07,078 - 01:34:09,078] especially in quantum mechanics.
+- [01:34:09,078 - 01:34:11,078] And when we make predictions,
+- [01:34:11,078 - 01:34:13,578] we're making predictions analogous to
+- [01:34:13,578 - 01:34:16,078] the prediction of coin flippers
+- [01:34:16,078 - 01:34:18,078] who flip coins.
+- [01:34:18,078 - 01:34:19,078] Well, what's the answer?
+- [01:34:19,078 - 01:34:21,578] The answer is there are some
+- [01:34:21,578 - 01:34:24,078] coin flippers who flip all heads.
+- [01:34:24,078 - 01:34:29,078] There are some coin flippers who flip all tails.
+- [01:34:29,078 - 01:34:31,078] According to the standard theory of probability,
+- [01:34:31,078 - 01:34:34,078] the overwhelming majority flip about, what
+- [01:34:34,078 - 01:34:37,078] did I say, a million flips?
+- [01:34:37,078 - 01:34:39,578] A million plus or minus
+- [01:34:39,578 - 01:34:42,078] a thousand square root of n.
+- [01:34:42,078 - 01:34:43,078] All right.
+- [01:34:43,078 - 01:34:45,078] So if you're at all smart
+- [01:34:45,078 - 01:34:47,078] and you're a good experimental physicist
+- [01:34:47,078 - 01:34:49,078] and you know the rules of statistics,
+- [01:34:49,078 - 01:34:52,078] you will put down your prediction.
+- [01:34:52,078 - 01:34:54,078] Your prediction will be, what did I say,
+- [01:34:54,078 - 01:34:57,078] half a million plus or minus a thousand.
+- [01:34:57,078 - 01:34:59,078] I think I probably said it wrong.
+- [01:34:59,078 - 01:35:00,078] Half a million plus or minus a thousand.
+- [01:35:00,078 - 01:35:04,078] That'll be your best guess.
+- [01:35:04,078 - 01:35:06,078] And if you're very far away from it,
+- [01:35:06,078 - 01:35:08,078] you'll probably say there was something.
+- [01:35:08,078 - 01:35:11,078] You probably won't believe that you are an outlier.
+- [01:35:11,078 - 01:35:13,078] You're more likely to believe
+- [01:35:13,078 - 01:35:15,078] that your theory was just wrong.
+- [01:35:15,078 - 01:35:16,578] But there are going to
+- [01:35:16,578 - 01:35:18,078] be those people who are outliers.
+- [01:35:18,078 - 01:35:21,078] And they, of course, will believe their theory is wrong,
+- [01:35:21,078 - 01:35:23,078] and they'll be wrong.
+- [01:35:23,078 - 01:35:27,078] We always make the assumption that we are typical.
+- [01:35:27,078 - 01:35:30,078] So in this expanding population,
+- [01:35:30,078 - 01:35:34,078] let's make the assumption that we are typical.
+- [01:35:34,078 - 01:35:37,078] We are like the majority
+- [01:35:37,078 - 01:35:40,078] of all observers who ever lived.
+- [01:35:40,078 - 01:35:43,078] Then what bet do we make
+- [01:35:43,078 - 01:35:46,078] for how long the resources will last
+- [01:35:46,078 - 01:35:48,078] after the present time now?
+- [01:35:48,078 - 01:35:50,078] We're in the last one.
+- [01:35:50,078 - 01:35:53,078] Well, not necessarily the last one,
+- [01:35:53,078 - 01:35:55,078] but there won't be more than
+- [01:35:55,078 - 01:35:57,078] two or three generations after us.
+- [01:35:57,078 - 01:35:58,078] And the reason is,
+- [01:35:58,078 - 01:36:00,078] in an exponentially expanding population,
+- [01:36:00,078 - 01:36:02,078] like now,
+- [01:36:02,078 - 01:36:06,078] about half the people who ever existed exist now.
+- [01:36:06,078 - 01:36:09,078] About three-quarters of the people who ever existed
+- [01:36:09,078 - 01:36:12,077] existed within two generations.
+- [01:36:12,077 - 01:36:15,077] About seven-eighths within three generations.
+- [01:36:15,077 - 01:36:17,077] So if we're typical
+- [01:36:17,077 - 01:36:19,077] in an exponentially expanding population,
+- [01:36:19,077 - 01:36:23,077] we are near the end of that expansion.
+- [01:36:23,077 - 01:36:25,078] We're near the end of that expansion.
+- [01:36:25,078 - 01:36:27,078] Now, that's a very puzzling conclusion.
+- [01:36:27,078 - 01:36:28,078] It doesn't...
+- [01:36:28,078 - 01:36:30,078] It sounds like there's something wrong with it.
+- [01:36:30,078 - 01:36:32,078] How can you possibly know that
+- [01:36:32,078 - 01:36:36,078] if you don't know what the resources are?
+- [01:36:36,078 - 01:36:38,078] On the other hand,
+- [01:36:38,078 - 01:36:41,078] it is true that no matter what the resources are,
+- [01:36:41,078 - 01:36:43,078] the...
+- [01:36:43,078 - 01:36:47,078] Most people will be near the end of the resources.
+- [01:36:47,078 - 01:36:49,078] Right?
+- [01:36:49,078 - 01:36:50,078] This is...
+- [01:36:50,078 - 01:36:53,078] I'll give you another example
+- [01:36:53,078 - 01:36:56,078] of this kind of exponential expansion.
+- [01:36:56,078 - 01:36:58,078] You've all seen, I'm sure you've seen,
+- [01:36:58,078 - 01:36:59,078] the...
+- [01:36:59,078 - 01:37:01,078] It's my favorite drawing.
+- [01:37:01,078 - 01:37:03,078] I come back to it over and over again
+- [01:37:03,078 - 01:37:06,078] because it has some deep mathematical significance.
+- [01:37:06,078 - 01:37:11,078] It's Escher's drawing called Limit Circle Number Four.
+- [01:37:11,078 - 01:37:12,078] You've all seen it.
+- [01:37:12,078 - 01:37:13,078] Angels and devils.
+- [01:37:13,078 - 01:37:14,578] And I'm not going to
+- [01:37:14,578 - 01:37:16,078] try to draw angels and devils.
+- [01:37:16,078 - 01:37:17,078] But it has a big angel...
+- [01:37:17,078 - 01:37:19,078] Let's just restrict ourselves to devils.
+- [01:37:19,078 - 01:37:21,078] I prefer devils.
+- [01:37:21,078 - 01:37:23,078] It has a big devil in the center.
+- [01:37:23,078 - 01:37:27,078] It has smaller devils out here.
+- [01:37:27,078 - 01:37:30,078] It has smaller devils out here.
+- [01:37:38,078 - 01:37:39,078] And so forth.
+- [01:37:39,078 - 01:37:41,078] Now, in fact, the geometry is such
+- [01:37:41,078 - 01:37:45,078] that they're really all identical to each other.
+- [01:37:45,078 - 01:37:48,078] There are symmetries of this diagram
+- [01:37:48,078 - 01:37:49,078] which move points,
+- [01:37:49,078 - 01:37:51,078] which can move this point into this point.
+- [01:37:51,078 - 01:37:54,078] It'll move this point into something small over here.
+- [01:37:54,078 - 01:37:56,078] It's just the way that it's drawn.
+- [01:37:56,078 - 01:37:59,078] Some things look smaller and some things look bigger.
+- [01:37:59,078 - 01:38:00,078] It's completely symmetric.
+- [01:38:00,078 - 01:38:02,078] But, of course, when Escher actually drew it,
+- [01:38:02,078 - 01:38:04,078] he did have to draw the small things small
+- [01:38:04,078 - 01:38:06,078] and the big things big.
+- [01:38:06,078 - 01:38:07,078] Now...
+- [01:38:10,078 - 01:38:13,078] Here's the question.
+- [01:38:13,078 - 01:38:16,078] Let's define an angel...
+- [01:38:16,078 - 01:38:18,078] devil, excuse me.
+- [01:38:18,078 - 01:38:19,578] A devil which has been
+- [01:38:19,578 - 01:38:21,078] drawn with a body part missing.
+- [01:38:21,078 - 01:38:23,078] Let's call him an amputee.
+- [01:38:23,078 - 01:38:24,078] Okay?
+- [01:38:24,078 - 01:38:25,078] Definition of an amputee.
+- [01:38:25,078 - 01:38:28,078] If a devil was drawn with some body part missing,
+- [01:38:28,078 - 01:38:30,078] we'll call him an amputee.
+- [01:38:30,078 - 01:38:32,078] Now, these devils go to sleep,
+- [01:38:32,078 - 01:38:34,078] and they wake up in the morning,
+- [01:38:34,078 - 01:38:35,078] and they wonder,
+- [01:38:35,078 - 01:38:38,078] am I one of the unfortunate amputees,
+- [01:38:38,078 - 01:38:43,078] or am I one of the whole devils?
+- [01:38:43,078 - 01:38:45,078] Okay?
+- [01:38:45,078 - 01:38:47,078] If you look at Escher's drawing,
+- [01:38:47,078 - 01:38:50,078] and you extrapolate Escher's drawing
+- [01:38:50,078 - 01:38:53,078] past the last visible devil,
+- [01:38:53,078 - 01:38:54,078] and you believe that you can extrapolate it,
+- [01:38:54,078 - 01:38:57,078] you look, you'll see Escher was awfully good at drawing.
+- [01:38:57,078 - 01:39:00,078] He didn't draw any devils with missing body parts.
+- [01:39:00,078 - 01:39:02,078] So your conclusion would be,
+- [01:39:02,078 - 01:39:04,078] with very high probability,
+- [01:39:04,078 - 01:39:06,078] you're not an amputee.
+- [01:39:06,078 - 01:39:07,078] Okay?
+- [01:39:07,078 - 01:39:10,078] On the other hand, Escher had finite resources.
+- [01:39:10,078 - 01:39:12,078] Finite patience, finite time,
+- [01:39:12,078 - 01:39:14,078] finite amount of ink.
+- [01:39:14,078 - 01:39:16,078] And that means,
+- [01:39:16,078 - 01:39:20,078] as he got tired out near the very, very edges,
+- [01:39:20,078 - 01:39:23,078] surely very, very close to the edges,
+- [01:39:23,078 - 01:39:26,078] you'll find that almost all of the angels and devils
+- [01:39:26,078 - 01:39:28,078] will be slightly misdrawn, right?
+- [01:39:28,078 - 01:39:30,078] Of course they will be.
+- [01:39:30,078 - 01:39:31,078] They won't have heads,
+- [01:39:31,078 - 01:39:32,078] or they won't have tails,
+- [01:39:32,078 - 01:39:33,078] or whatever it is,
+- [01:39:33,078 - 01:39:35,078] the ones out near the boundary.
+- [01:39:35,078 - 01:39:37,078] Now, what is the ratio of the ones
+- [01:39:37,078 - 01:39:39,078] which are adjacent to the boundary
+- [01:39:39,078 - 01:39:41,078] to all of them?
+- [01:39:41,078 - 01:39:43,078] Do you know the answer?
+- [01:39:43,078 - 01:39:45,078] No.
+- [01:39:45,078 - 01:39:46,078] No.
+- [01:39:46,078 - 01:39:48,078] There are about as many out near the boundary
+- [01:39:48,078 - 01:39:51,078] as there are in the whole thing.
+- [01:39:51,078 - 01:39:52,078] So,
+- [01:39:52,078 - 01:39:54,078] there are about as many out near the boundary
+- [01:39:54,078 - 01:39:56,078] as there are in the whole thing.
+- [01:39:56,078 - 01:39:58,078] Obviously, there are fewer at the boundary.
+- [01:39:58,078 - 01:40:00,078] A factor of a half.
+- [01:40:00,078 - 01:40:03,078] And that's because the number of them
+- [01:40:03,078 - 01:40:05,078] grows exponentially
+- [01:40:05,078 - 01:40:09,078] as you make bigger and bigger circles here.
+- [01:40:09,078 - 01:40:12,078] They grow exponentially.
+- [01:40:12,078 - 01:40:14,078] And so if you actually count,
+- [01:40:14,078 - 01:40:16,078] if you cut it off, let's say,
+- [01:40:16,078 - 01:40:18,078] by putting a circle around here,
+- [01:40:18,078 - 01:40:20,078] now count all the ones
+- [01:40:20,078 - 01:40:21,078] that are adjacent to the circle,
+- [01:40:21,078 - 01:40:23,078] and you put them inside,
+- [01:40:23,078 - 01:40:25,078] you'll find they're about equal.
+- [01:40:25,078 - 01:40:27,078] It's the same mathematics
+- [01:40:27,078 - 01:40:29,078] as saying about half the population,
+- [01:40:29,078 - 01:40:32,078] no matter how long into the past
+- [01:40:32,078 - 01:40:35,078] the population had been growing for,
+- [01:40:35,078 - 01:40:38,078] today, about half the population,
+- [01:40:38,078 - 01:40:39,078] one generation,
+- [01:40:39,078 - 01:40:41,078] constitutes about half the population
+- [01:40:41,078 - 01:40:43,078] of anything that ever existed.
+- [01:40:43,078 - 01:40:46,078] In the same way,
+- [01:40:46,078 - 01:40:48,078] about half of the devils
+- [01:40:48,078 - 01:40:50,078] are right on the edge,
+- [01:40:50,078 - 01:40:52,078] whatever the edge is.
+- [01:40:52,078 - 01:40:54,078] We don't have to know
+- [01:40:54,078 - 01:40:57,078] how much resources Escher had.
+- [01:40:57,078 - 01:40:59,078] It doesn't matter how much he had.
+- [01:40:59,078 - 01:41:01,078] No matter how much he had,
+- [01:41:01,078 - 01:41:03,078] as he draws more and more and more of them,
+- [01:41:03,078 - 01:41:05,078] the ones near the edge
+- [01:41:05,078 - 01:41:08,078] will always be about half of all of them.
+- [01:41:08,078 - 01:41:10,078] And so, if you wake up in the morning
+- [01:41:10,078 - 01:41:12,078] and you don't know whether you're a whole devil
+- [01:41:12,078 - 01:41:14,078] or half a devil,
+- [01:41:14,078 - 01:41:16,078] the chances are about 50%
+- [01:41:16,078 - 01:41:17,078] that you're half a devil,
+- [01:41:17,078 - 01:41:19,078] that you're an amputee.
+- [01:41:19,078 - 01:41:20,078] And this is very puzzling,
+- [01:41:20,078 - 01:41:21,078] because you could say,
+- [01:41:21,078 - 01:41:24,078] well, how can I say that
+- [01:41:24,078 - 01:41:27,078] when I don't know how much resources there were?
+- [01:41:27,078 - 01:41:29,078] Well, the answer is it doesn't matter
+- [01:41:29,078 - 01:41:31,078] how much resources there were.
+- [01:41:31,078 - 01:41:34,078] Okay, now we come back to here.
+- [01:41:37,078 - 01:41:40,078] We are again facing a problem
+- [01:41:40,078 - 01:41:46,078] of exponential population growth.
+- [01:41:46,078 - 01:41:49,078] In this case, population growth
+- [01:41:49,078 - 01:41:53,078] is a function of little bubble universes.
+- [01:41:53,078 - 01:41:56,578] Oh, let me come back to
+- [01:41:56,578 - 01:42:00,078] angels and devils for a minute.
+- [01:42:00,078 - 01:42:02,078] Come back to angels and devils for a minute
+- [01:42:02,078 - 01:42:05,078] before we go on to universes.
+- [01:42:05,078 - 01:42:11,078] Escher did have angels and devils.
+- [01:42:11,078 - 01:42:13,078] Let's ask a different question,
+- [01:42:13,078 - 01:42:15,078] the different question being,
+- [01:42:15,078 - 01:42:16,078] when you wake up in the morning,
+- [01:42:16,078 - 01:42:19,078] are you an angel or a devil?
+- [01:42:19,078 - 01:42:21,078] 50% probability, right?
+- [01:42:21,078 - 01:42:23,078] There are as many angels as devils.
+- [01:42:23,078 - 01:42:25,078] And the mathematics of Escher's drawing,
+- [01:42:25,078 - 01:42:27,078] if it went on for infinity,
+- [01:42:27,078 - 01:42:29,078] in some sense that would be true.
+- [01:42:29,078 - 01:42:31,078] But we know that Escher had finite resources,
+- [01:42:31,078 - 01:42:34,078] which means we have to draw an edge to this.
+- [01:42:34,078 - 01:42:40,078] The answer for the ratio of devils to angels
+- [01:42:40,078 - 01:42:45,078] is extremely sensitive to the way we draw that line.
+- [01:42:45,078 - 01:42:47,078] It's extremely sensitive to the way
+- [01:42:47,078 - 01:42:49,078] we could draw the line.
+- [01:42:49,078 - 01:42:51,078] For example, every time we come to an angel,
+- [01:42:51,078 - 01:42:53,078] let's go around it that way.
+- [01:42:53,078 - 01:42:54,078] Every time we come to a devil,
+- [01:42:54,078 - 01:42:56,078] we go around it that way.
+- [01:42:56,078 - 01:42:59,078] And now we push this edge out further and further.
+- [01:42:59,078 - 01:43:01,078] By a factor of about three quarters,
+- [01:43:01,078 - 01:43:03,078] we will have more devils than angels.
+- [01:43:03,078 - 01:43:06,078] It's all in the edge here.
+- [01:43:06,078 - 01:43:08,078] It's all in the edge.
+- [01:43:08,078 - 01:43:11,078] And so the assignment of probabilities
+- [01:43:11,078 - 01:43:13,078] to angelness or devilness
+- [01:43:13,078 - 01:43:15,078] is just extremely sensitive
+- [01:43:15,078 - 01:43:18,078] to what Escher did
+- [01:43:18,078 - 01:43:22,078] just as he was running out of resources.
+- [01:43:22,078 - 01:43:25,078] It's ridiculous because, you know,
+- [01:43:25,078 - 01:43:28,078] you simply don't know anything about his resources.
+- [01:43:28,078 - 01:43:30,078] You would think that the answer was 50-50.
+- [01:43:30,078 - 01:43:32,078] But if at the end he
+- [01:43:32,078 - 01:43:34,078] had a little bit less pink paint
+- [01:43:34,078 - 01:43:36,078] than white paint,
+- [01:43:36,078 - 01:43:40,078] the answer would be many, many more white than pink.
+- [01:43:40,078 - 01:43:42,078] Okay.
+- [01:43:42,078 - 01:43:44,078] Same exact thing here.
+- [01:43:44,078 - 01:43:47,078] You want to know the relative probability
+- [01:43:47,078 - 01:43:51,078] of different kinds of bubble universes forming.
+- [01:43:51,078 - 01:43:55,078] Blue ones, pink ones, and so forth.
+- [01:43:55,078 - 01:43:59,078] The population is exponentially growing.
+- [01:43:59,078 - 01:44:01,078] How do you decide?
+- [01:44:01,078 - 01:44:03,078] You try to decide the same way.
+- [01:44:03,078 - 01:44:05,078] You say, let's chop this off at some time
+- [01:44:05,078 - 01:44:09,078] and count the number of blue ones versus pink ones.
+- [01:44:09,078 - 01:44:13,078] But the problem is the answer is super hypersensitive.
+- [01:44:13,078 - 01:44:15,078] You're hypersensitive to the exact way
+- [01:44:15,078 - 01:44:17,078] that you draw this line.
+- [01:44:17,078 - 01:44:20,078] And that has led to a problem
+- [01:44:20,078 - 01:44:23,078] that cosmologists, physicists like myself
+- [01:44:23,078 - 01:44:25,078] call the measure problem.
+- [01:44:25,078 - 01:44:27,078] Measure as in probability measure.
+- [01:44:27,078 - 01:44:29,078] How do you assign probabilities
+- [01:44:29,078 - 01:44:33,078] in a world of exponentially increasing populations?
+- [01:44:33,078 - 01:44:37,078] The answer always is it is extremely sensitive
+- [01:44:37,078 - 01:44:39,078] to the way that you cut things off,
+- [01:44:39,078 - 01:44:42,078] to the way you and your imagination
+- [01:44:42,078 - 01:44:44,078] in the universe.
+- [01:44:44,078 - 01:44:50,078] This is a very, very big problem for cosmologists
+- [01:44:50,078 - 01:44:52,078] because they want to be able to use their theories
+- [01:44:52,078 - 01:44:58,078] in a predictive way and make predictive predictions.
+- [01:44:58,078 - 01:45:00,078] What other kind of prediction is there?
+- [01:45:00,078 - 01:45:02,078] Or at best, if not predictions,
+- [01:45:02,078 - 01:45:04,078] at least explanations of things.
+- [01:45:04,078 - 01:45:07,078] And so in this kind of world,
+- [01:45:07,078 - 01:45:11,078] if it's really true that there's an exponentially increasing
+- [01:45:12,078 - 01:45:16,078] population, we run into new kinds of questions
+- [01:45:16,078 - 01:45:18,078] about probability theory and about
+- [01:45:18,078 - 01:45:20,078] how the use of statistics,
+- [01:45:20,078 - 01:45:26,078] which really just have baffled, really baffled us.
+- [01:45:26,078 - 01:45:28,578] My guess is, of course,
+- [01:45:28,578 - 01:45:31,078] that we're asking the wrong questions.
+- [01:45:31,078 - 01:45:35,078] We're probably asking the wrong questions.
+- [01:45:35,078 - 01:45:38,078] But that doesn't help to say that we're probably
+- [01:45:38,078 - 01:45:39,078] asking the wrong questions.
+- [01:45:39,078 - 01:45:40,578] It doesn't help unless you can
+- [01:45:40,578 - 01:45:42,078] say what the right questions are.
+- [01:45:42,078 - 01:45:43,078] And, yeah.
+- [01:45:43,078 - 01:45:46,078] Is there any connection to the renormalization
+- [01:45:46,078 - 01:45:48,078] or to the odd and even strains?
+- [01:45:48,078 - 01:45:49,078] To which?
+- [01:45:49,078 - 01:45:50,078] Odd and even, I remember
+- [01:45:50,078 - 01:45:51,078] it as odd and even strains,
+- [01:45:51,078 - 01:45:56,078] but the, those, the fermionic strains
+- [01:45:56,078 - 01:46:01,078] where the number of, as I recall it,
+- [01:46:01,078 - 01:46:03,078] sorry, the number of quantum mechanical oscillators
+- [01:46:03,078 - 01:46:06,078] varies the spin of the strain.
+- [01:46:06,078 - 01:46:08,078] Well, there are, there are relations
+- [01:46:08,078 - 01:46:11,078] with renormalization theory.
+- [01:46:11,078 - 01:46:12,078] There are relations.
+- [01:46:12,078 - 01:46:14,078] There are relations with renormalization theory.
+- [01:46:14,078 - 01:46:21,078] Renormalization theory is also a situation where, again,
+- [01:46:21,078 - 01:46:23,078] you start your picture of the
+- [01:46:23,078 - 01:46:25,078] world as having a finite number
+- [01:46:25,078 - 01:46:28,078] of degrees of freedom per unit volume,
+- [01:46:28,078 - 01:46:30,078] and then you double the number of degrees of freedom
+- [01:46:30,078 - 01:46:32,078] in each volume, and then you double it again,
+- [01:46:32,078 - 01:46:34,078] and you double it again.
+- [01:46:34,078 - 01:46:36,078] You don't double it really.
+- [01:46:36,078 - 01:46:38,078] You double it in your
+- [01:46:38,078 - 01:46:40,078] imagination and ask how things converge.
+- [01:46:40,078 - 01:46:42,078] What we're talking about, of course,
+- [01:46:42,078 - 01:46:49,078] is you start picturing the world as a lattice.
+- [01:46:49,078 - 01:46:51,578] You can't handle a continuous
+- [01:46:51,578 - 01:46:54,078] infinity of degrees of freedom.
+- [01:46:54,078 - 01:46:56,078] So you start the world as a lattice,
+- [01:46:56,078 - 01:46:58,578] and you make your calculations
+- [01:46:58,578 - 01:47:01,078] based on one degree of freedom
+- [01:47:01,078 - 01:47:04,078] per unit Compton wavelength of an electron
+- [01:47:04,078 - 01:47:06,078] or something in quantum electrodynamics.
+- [01:47:06,078 - 01:47:08,078] Then you say, I want more accuracy,
+- [01:47:08,078 - 01:47:09,578] so I divide the world
+- [01:47:09,578 - 01:47:11,078] in every cell in half again.
+- [01:47:12,078 - 01:47:15,078] And I recalculate.
+- [01:47:15,078 - 01:47:16,578] And in each case, I
+- [01:47:16,578 - 01:47:18,078] ask the same kind of questions.
+- [01:47:18,078 - 01:47:23,078] What's some relative population of regions of space
+- [01:47:23,078 - 01:47:25,078] with this property or that property?
+- [01:47:25,078 - 01:47:28,078] And again, not with respect to real honest time,
+- [01:47:28,078 - 01:47:32,078] but with respect to your mathematical sequence
+- [01:47:32,078 - 01:47:37,078] of descriptions, the population is exponentially increasing.
+- [01:47:37,078 - 01:47:39,078] Again, you get infinite answers.
+- [01:47:39,078 - 01:47:41,078] You have to deal with those infinities
+- [01:47:41,078 - 01:47:43,078] and in quantum field theory,
+- [01:47:43,078 - 01:47:46,078] there are techniques for asking questions
+- [01:47:46,078 - 01:47:50,078] which are not sensitive to the,
+- [01:47:50,078 - 01:47:53,078] let's call them the edge effects.
+- [01:47:53,078 - 01:47:56,078] There are techniques for extracting out things
+- [01:47:56,078 - 01:47:59,078] which are not sensitive to the details
+- [01:47:59,078 - 01:48:03,078] of how you chop this up.
+- [01:48:03,078 - 01:48:08,078] So yeah, there are correspondences and similarities
+- [01:48:08,078 - 01:48:10,078] between questions in quantum field theory
+- [01:48:10,078 - 01:48:13,078] and these kind of questions in cosmology.
+- [01:48:13,078 - 01:48:16,078] And people are trying to exploit those similarities,
+- [01:48:16,078 - 01:48:19,078] but not, I must say, with any great success yet.
+- [01:48:19,078 - 01:48:25,078] That bubble, is that similar to inflation
+- [01:48:25,078 - 01:48:28,078] going to the current universe or something like that?
+- [01:48:28,078 - 01:48:29,078] Yeah.
+- [01:48:29,078 - 01:48:30,078] Yeah.
+- [01:48:30,078 - 01:48:35,078] Well, what's called eternal inflation creating,
+- [01:48:35,078 - 01:48:39,078] yeah, it's deeply connected with inflationary theory.
+- [01:48:39,078 - 01:48:42,078] So maybe it's the ultimate,
+- [01:48:42,078 - 01:48:54,318] but that by looking at the
+- [01:48:55,078 - 01:49:01,078] economic interaction of states
+- [01:49:06,378 - 01:49:08,078] you would try to exercise
+- [01:49:08,078 - 01:49:10,997] a small patch on the sky which
+- [01:49:10,997 - 01:49:13,917] had a little colder or warmer temperature.
+- [01:49:13,917 - 01:49:16,837] And of course you do see patches on the
+- [01:49:16,837 - 01:49:19,758] sky with a little bit of warmer and colder temperature.
+- [01:49:19,758 - 01:49:22,668] But to be more detailed, you'll have to
+- [01:49:22,668 - 01:49:25,578] get really detailed to see that that's what they
+- [01:49:25,578 - 01:49:27,157] are.
+- [01:49:27,157 - 01:49:29,177] One of the details would be the
+- [01:49:29,177 - 01:49:31,197] polarization of the microwave background around them.
+- [01:49:31,197 - 01:49:32,578] It's kind of interesting.
+- [01:49:32,578 - 01:49:34,728] If you saw one of these patches in the
+- [01:49:34,728 - 01:49:36,878] sky, and there is one, it's called a cold spot.
+- [01:49:36,878 - 01:49:37,848] It's a cold spot, and
+- [01:49:37,848 - 01:49:38,818] nobody knows what it's due to.
+- [01:49:38,818 - 01:49:41,068] It's a cold spot on the sky, a
+- [01:49:41,068 - 01:49:43,318] cold spot in the sense of microwave background.
+- [01:49:43,318 - 01:49:47,767] A cold spot is a candidate for a
+- [01:49:47,767 - 01:49:52,217] spot where another bubble collided with our bubble.
+- [01:49:52,217 - 01:49:53,977] It's a candidate.
+- [01:49:53,977 - 01:49:55,207] What more can you say about
+- [01:49:55,207 - 01:49:56,437] it other than it's a candidate?
+- [01:49:56,437 - 01:49:59,547] Well, you can try to work out in
+- [01:49:59,547 - 01:50:02,657] more detail what such a patch would look like.
+- [01:50:02,657 - 01:50:06,437] So for example, you discover that light is polarized.
+- [01:50:06,437 - 01:50:06,858] In particular, you discover that light is polarized.
+- [01:50:06,858 - 01:50:09,728] This is the direction of polarization
+- [01:50:09,728 - 01:50:12,598] around this in a particular characteristic way.
+- [01:50:12,598 - 01:50:13,598] And people are doing this.
+- [01:50:13,598 - 01:50:16,198] They're working out the consequences
+- [01:50:16,198 - 01:50:18,798] of such a bubble collision.
+- [01:50:18,798 - 01:50:23,857] Of course, should this be confirmed, that it
+- [01:50:23,857 - 01:50:28,917] does look like a bubble collision and in
+- [01:50:28,917 - 01:50:32,507] detail it does, this of course would
+- [01:50:32,507 - 01:50:36,098] be a major, major revolution in cosmology, the
+- [01:50:36,098 - 01:50:36,618] discovery.
+- [01:50:36,858 - 01:50:39,748] But the detection of other bubbles which
+- [01:50:39,748 - 01:50:42,638] collided with our bubble would be very, very
+- [01:50:42,638 - 01:50:43,638] major.
+- [01:50:43,638 - 01:50:48,138] The difference is that the inflation factor,
+- [01:50:48,138 - 01:50:52,638] the H in these regions, that distinguishes
+- [01:50:52,638 - 01:50:54,638] the bottom from the tops.
+- [01:50:54,638 - 01:50:58,138] Is the bottom region expanding faster?
+- [01:50:58,138 - 01:51:01,258] Bottom region typically is expanding faster.
+- [01:51:01,258 - 01:51:03,878] And our region is somewhere in here.
+- [01:51:03,878 - 01:51:06,697] And it had a history of different expansion rates.
+- [01:51:06,858 - 01:51:11,798] So it's complicated.
+- [01:51:11,798 - 01:51:13,738] It's a complicated story.
+- [01:51:13,738 - 01:51:17,268] But it does include this
+- [01:51:17,268 - 01:51:20,798] idea of exponential population growth.
+- [01:51:20,798 - 01:51:23,418] So one could foresee a situation in
+- [01:51:23,418 - 01:51:26,038] which we truly confirmed that there were bubble
+- [01:51:26,038 - 01:51:28,738] collisions with our world.
+- [01:51:28,738 - 01:51:31,188] We would have confirmed something like this
+- [01:51:31,188 - 01:51:33,638] picture, at least a piece of it.
+- [01:51:33,638 - 01:51:35,138] Then, it becomes a really serious matter
+- [01:51:35,138 - 01:51:36,638] to try to get to the bottom.
+- [01:51:36,638 - 01:51:39,258] to get predictive and to ask what
+- [01:51:39,258 - 01:51:41,878] the relative probabilities of different kinds of bubbles
+- [01:51:41,878 - 01:51:46,098] are. And that's where we run into
+- [01:51:46,098 - 01:51:50,318] this trouble of exponential population. The answers would
+- [01:51:50,318 - 01:51:52,358] be very dependent on the question of whether
+- [01:51:52,358 - 01:51:54,398] they were finite resources or not. What is
+- [01:51:54,398 - 01:51:56,277] a finite resources? I don't know what a finite
+- [01:51:56,277 - 01:51:58,157] resource is. Just to say it comes to an end
+- [01:51:58,158 - 01:52:02,568] somehow. And the details of the way that
+- [01:52:02,568 - 01:52:06,978] it came to an end would determine what relative
+- [01:52:06,978 - 01:52:07,978] probabilities were.
+- [01:52:07,978 - 01:52:11,478] The bubbles collide. You just add
+- [01:52:11,478 - 01:52:14,978] the dark energies of the two types.
+- [01:52:14,978 - 01:52:17,598] No, it's more complicated than that. The
+- [01:52:17,598 - 01:52:20,218] place where they collide, depending on details,
+- [01:52:20,218 - 01:52:22,938] there's something called the domain wall,
+- [01:52:22,938 - 01:52:25,658] which separates them. And the domain wall
+- [01:52:25,658 - 01:52:27,498] on one side has one behavior.
+- [01:52:27,498 - 01:52:28,138] The domain wall on the other side has one behavior.
+- [01:52:28,138 - 01:52:30,518] The other side has another behavior. But the
+- [01:52:30,518 - 01:52:32,898] point is the domain wall would be visible
+- [01:52:32,898 - 01:52:41,157] to us, or could be visible to us.
+- [01:52:41,157 - 01:52:45,547] We would need a bit of luck. Here
+- [01:52:45,547 - 01:52:49,937] we are. Here's our observer. If the bubble collides
+- [01:52:49,937 - 01:52:53,707] over here, some sort of bubble collision over
+- [01:52:53,707 - 01:52:57,477] here, this observer doesn't get to see it.
+- [01:52:57,478 - 01:53:01,188] If it collides over here, then he does
+- [01:53:01,188 - 01:53:04,898] get to see it. So there's different scenarios,
+- [01:53:04,898 - 01:53:08,128] different situations. But it doesn't seem totally
+- [01:53:08,128 - 01:53:11,358] out of the question with the numbers
+- [01:53:11,358 - 01:53:14,338] that we know that there could be bubble
+- [01:53:14,338 - 01:53:17,318] collisions, that there could be visible bubble collisions.
+- [01:53:17,318 - 01:53:20,898] And if so, they have a particular
+- [01:53:20,898 - 01:53:24,478] signature, a particular behavior. They're fairly characteristic.
+- [01:53:24,478 - 01:53:25,978] And if they're not, then they're not. And
+- [01:53:25,978 - 01:53:27,478] if they're not, then they're not. And if they're
+- [01:53:27,478 - 01:53:27,978] not, then they're not. And if they're not,
+- [01:53:27,978 - 01:53:28,478] then they're not. And if they're not, then
+- [01:53:28,478 - 01:53:28,978] they're not. And if they're not, then they're
+- [01:53:28,978 - 01:53:29,478] not. And if they're not, then they're not.
+- [01:53:29,478 - 01:53:31,618] If the cold spot is such a bubble collision,
+- [01:53:31,618 - 01:53:33,758] we will know. We will know in time. What do
+- [01:53:33,758 - 01:53:37,558] I bet? Well, I don't know what to bet, honestly.
+- [01:53:37,558 - 01:53:41,558] Do the bubbles have four dimensions?
+- [01:53:41,558 - 01:53:44,078] Yeah. Well, yes.
+- [01:53:44,078 - 01:53:48,028] What about the curvature of expansion?
+- [01:53:48,028 - 01:53:51,978] What about the curvature of expansion? Whether
+- [01:53:51,978 - 01:53:53,728] it's convex or concave or flat? Will
+- [01:53:53,728 - 01:53:55,478] that make that we see different things?
+- [01:53:55,478 - 01:53:56,478] Oh.
+- [01:53:56,478 - 01:53:58,618] The bubbles are usually negatively
+- [01:53:58,618 - 01:54:00,758] curved, Friedman, Roberts, and Walker universes.
+- [01:54:00,758 - 01:54:04,188] They have negative spatial curvature. The
+- [01:54:04,188 - 01:54:07,618] bubble collision would certainly modify the
+- [01:54:07,618 - 01:54:10,678] curvature in some characteristic way, but it
+- [01:54:10,678 - 01:54:13,738] wouldn't turn the world from a world with
+- [01:54:13,738 - 01:54:16,108] a negative curvature to a positive
+- [01:54:16,108 - 01:54:18,478] curvature. That couldn't do. But yeah.
+- [01:54:18,478 - 01:54:21,978] Kind of a romantic question, but is it
+- [01:54:21,978 - 01:54:25,478] possible to assign a problem to a particular
+- [01:54:25,478 - 01:54:26,478] population?
+- [01:54:26,478 - 01:54:27,478] Well, I don't know.
+- [01:54:27,478 - 01:54:28,978] And if you're going to assign a probability
+- [01:54:28,978 - 01:54:30,478] to the statement that string theory is correct
+- [01:54:30,478 - 01:54:32,978] or incorrect, given that we have
+- [01:54:32,978 - 01:54:35,478] almost non-pure weather, one way or another?
+- [01:54:35,478 - 01:54:36,478] I don't think so.
+- [01:54:36,478 - 01:54:37,478] 50-50 would probably do.
+- [01:54:37,478 - 01:54:38,478] We'll do one stroke.
+- [01:54:38,478 - 01:54:46,228] That's a matter of individual opinion for
+- [01:54:46,228 - 01:54:53,978] which I don't think there's any value in
+- [01:54:53,978 - 01:54:54,978] trying to assign a possibility.
+- [01:54:54,978 - 01:54:55,478] OK.
+- [01:54:55,478 - 01:54:56,478] So a probability.
+- [01:54:56,478 - 01:54:57,478] No, I mean, is there any?
+- [01:54:57,478 - 01:55:01,028] I'm not even sure I know what it means.
+- [01:55:01,028 - 01:55:04,578] All right. I'll give you an answer that I've given
+- [01:55:04,578 - 01:55:08,628] before. There is a mathematical structure,
+- [01:55:08,628 - 01:55:12,678] a very precise mathematical structure, which
+- [01:55:12,678 - 01:55:18,628] exists. It's mathematically consistent. Mathematicians have
+- [01:55:18,628 - 01:55:24,578] won big prizes for proving theorems that
+- [01:55:24,578 - 01:55:24,978] were...
+- [01:55:24,978 - 01:55:25,978] I don't know.
+- [01:55:25,978 - 01:55:28,728] First suggested by theorists on the
+- [01:55:28,728 - 01:55:31,478] basis of string theory, which the mathematicians
+- [01:55:31,478 - 01:55:34,978] didn't know. So the consistency of the
+- [01:55:34,978 - 01:55:38,478] internal consistency of it has been extremely well
+- [01:55:38,478 - 01:55:41,478] checked. There is a structure. The structure
+- [01:55:41,478 - 01:55:44,478] has gravity, and it has quantum mechanics
+- [01:55:44,478 - 01:55:48,978] in it. So in that sense, string theory
+- [01:55:48,978 - 01:55:53,478] is a well-defined, exact... Now, of course, there's
+- [01:55:53,478 - 01:55:55,978] a very remote possibility that somebody will
+- [01:55:55,978 - 01:55:58,478] discover an inconsistency in it, but it seems
+- [01:55:58,478 - 01:56:03,478] extremely unlikely, a mathematical inconsistency.
+- [01:56:03,478 - 01:56:07,478] On the other hand, that part of it
+- [01:56:07,478 - 01:56:11,478] which is mathematically precise, let's call it string
+- [01:56:11,478 - 01:56:16,478] theory with a capital S, with capital
+- [01:56:16,478 - 01:56:21,478] letters, string theory capitalized, it is supersymmetric.
+- [01:56:21,478 - 01:56:22,478] It is...
+- [01:56:22,478 - 01:56:22,978] OK.
+- [01:56:22,978 - 01:56:28,478] It's supersymmetric. The world is not supersymmetric. The
+- [01:56:28,478 - 01:56:33,978] world as we see it is not supersymmetric.
+- [01:56:33,978 - 01:56:36,978] The mathematical structure which is well-defined and
+- [01:56:36,978 - 01:56:39,978] for which we have a lot of confidence
+- [01:56:39,978 - 01:56:43,478] that it really exists, you can call it
+- [01:56:43,478 - 01:56:46,978] quantum gravity with supersymmetry, it is not the
+- [01:56:46,978 - 01:56:49,478] real world. So in that sense, we know
+- [01:56:49,478 - 01:56:51,978] now, no question, string theory is not the real
+- [01:56:51,978 - 01:56:52,978] world.
+- [01:56:52,978 - 01:56:53,978] It's not the real world. It's not the real world.
+- [01:56:53,978 - 01:56:54,978] It's not the real world.
+- [01:56:54,978 - 01:56:55,978] It's not the real world.
+- [01:56:55,978 - 01:56:56,978] It's not the real world.
+- [01:56:56,978 - 01:56:57,978] OK.
+- [01:56:57,978 - 01:56:58,978] It's not the real world.
+- [01:56:58,978 - 01:56:59,978] It's not the real world.
+- [01:56:59,978 - 01:57:00,978] OK.
+- [01:57:00,978 - 01:57:01,978] One hundred percent, we know it for sure.
+- [01:57:01,978 - 01:57:02,978] The...
+- [01:57:02,978 - 01:57:03,978] So you just can't break the symmetry?
+- [01:57:03,978 - 01:57:08,978] Breaking the symmetry, nobody really knows how to
+- [01:57:08,978 - 01:57:13,978] do. OK? It is not part of the mathematically
+- [01:57:13,978 - 01:57:17,478] precise part of the theory. We all expect
+- [01:57:17,478 - 01:57:20,978] that this thing that we call capital string
+- [01:57:20,978 - 01:57:24,428] capital string theory. There it is, string
+- [01:57:24,428 - 01:57:27,878] theory. It has many, many, many different
+- [01:57:27,878 - 01:57:32,438] versions. A huge number of different possibilities lie
+- [01:57:32,438 - 01:57:36,998] within this. We all expect that it's contained
+- [01:57:36,998 - 01:57:40,018] within something bigger, something bigger that we
+- [01:57:40,018 - 01:57:43,038] don't know how to analyze. It's more
+- [01:57:43,038 - 01:57:47,208] or less like the situation where, maybe
+- [01:57:47,208 - 01:57:51,378] it's like the situation, where physicists in the
+- [01:57:51,378 - 01:57:56,038] time preceding Newton might have discovered the
+- [01:57:56,038 - 01:58:00,698] formula F equals mA, and the formula,
+- [01:58:00,698 - 01:58:04,468] the force is equal to m1, m2 times g
+- [01:58:04,468 - 01:58:08,238] over r squared. But they didn't have the mathematical
+- [01:58:08,238 - 01:58:11,558] tools to analyze anything but the simplest orbits.
+- [01:58:12,318 - 01:58:13,018] So they said,
+- [01:58:13,038 - 01:58:16,458] all right, we will use symmetry, the symmetry
+- [01:58:16,458 - 01:58:19,878] of circular orbits. We need one little bit
+- [01:58:19,878 - 01:58:21,798] of extra information. We need to know
+- [01:58:21,798 - 01:58:23,718] the acceleration of a circular orbit. That's not
+- [01:58:23,718 - 01:58:26,408] too hard. You can do it on the basis
+- [01:58:26,408 - 01:58:29,098] of some simple symmetries, and you can therefore figure
+- [01:58:29,098 - 01:58:32,268] out Kepler's, which one of
+- [01:58:32,268 - 01:58:35,438] the laws is it that the...
+- [01:58:37,438 - 01:58:38,878] One of the Kepler laws which tells
+- [01:58:38,878 - 01:58:40,318] you the period is a function of radius.
+- [01:58:41,318 - 01:58:42,318] Right.
+- [01:58:42,318 - 01:58:44,497] You know that the theory that you're working
+- [01:58:44,497 - 01:58:46,677] with, the theory of circular orbits, is not
+- [01:58:46,677 - 01:58:51,167] correct. But you just don't have the mathematical power
+- [01:58:51,167 - 01:58:55,657] to be able to go beyond it. I don't
+- [01:58:55,657 - 01:58:57,907] know if that's what the real situation is, but
+- [01:58:57,907 - 01:59:00,157] it could be like that. So we know that
+- [01:59:00,157 - 01:59:02,187] the theory of circular orbits is contained
+- [01:59:02,187 - 01:59:04,218] in something bigger, don't know how to analyze
+- [01:59:04,218 - 01:59:08,168] it. We know that the perfectly idealized supersymmetric
+- [01:59:08,168 - 01:59:12,118] string theory, the one that we really know how
+- [01:59:12,118 - 01:59:15,017] to analyze, is not the real world. It looks
+- [01:59:15,017 - 01:59:17,917] a little bit like the real world, but it's
+- [01:59:17,917 - 01:59:20,357] not the real world. And the question is
+- [01:59:20,357 - 01:59:22,798] whether it's contained in something bigger which we
+- [01:59:22,798 - 01:59:27,598] could call string theory with a small s. But
+- [01:59:27,598 - 01:59:32,398] the answer is we don't know very much about
+- [01:59:32,398 - 01:59:36,388] this. We know a great deal about this. This
+- [01:59:36,388 - 01:59:40,378] has been enough to tell us all sorts of things
+- [01:59:40,378 - 01:59:40,828] about the combination of gravity and gravity. I
+- [01:59:40,828 - 01:59:41,278] think the most important thing to us now,
+- [01:59:41,278 - 01:59:41,377] and we don't want to talk about gravity
+- [01:59:41,377 - 01:59:41,477] and gravity together, is that it's a very complex,
+- [01:59:41,478 - 01:59:44,318] of gravity and quantum mechanics, things about black holes,
+- [01:59:44,318 - 01:59:48,018] things about all kinds of things.
+- [01:59:48,018 - 01:59:53,158] But to say one way or another, what's
+- [01:59:53,158 - 01:59:57,798] the probability that string theory contains a,
+- [01:59:57,798 - 01:59:59,648] or that there is an extension
+- [01:59:59,648 - 02:00:01,498] of it, a bigger version of it
+- [02:00:01,498 - 02:00:05,238] that contains our world right over here?
+- [02:00:05,238 - 02:00:05,798] I don't know.
+- [02:00:05,798 - 02:00:13,998] Of course, in some sense, well, of course that's true.
+- [02:00:13,998 - 02:00:16,238] Our world is someplace.
+- [02:00:16,238 - 02:00:17,438] Here's the theory of someplace.
+- [02:00:17,438 - 02:00:20,358] If you add this to this, you get something bigger.
+- [02:00:20,358 - 02:00:21,738] But that's not helpful.
+- [02:00:21,738 - 02:00:24,718] We want to know whether, in some interesting way,
+- [02:00:24,718 - 02:00:28,938] the theory of the real world is some extrapolation
+- [02:00:28,938 - 02:00:30,178] from what we already know.
+- [02:00:30,178 - 02:00:33,718] And that, there's no way to know.
+- [02:00:33,718 - 02:00:35,558] Does it contradict the string theory?
+- [02:00:35,558 - 02:00:35,798] Does it contradict the string theory?
+- [02:00:35,798 - 02:00:37,838] Does it contradict the possibility?
+- [02:00:37,838 - 02:00:39,338] Only capital string.
+- [02:00:39,338 - 02:00:41,798] Does it contradict the possibility that what?
+- [02:00:41,798 - 02:00:45,198] Does the capital string theory rule out the ?
+- [02:00:45,198 - 02:00:47,657] Capital string theory doesn't rule out the presence of,
+- [02:00:47,657 - 02:00:51,518] doesn't rule out the existence of small string theory.
+- [02:00:51,518 - 02:00:53,808] But what it does say is that
+- [02:00:53,808 - 02:00:56,098] nature is not, as we know it,
+- [02:00:56,098 - 02:01:00,358] is not described by capital string theory.
+- [02:01:00,358 - 02:01:02,958] So we know with certainty that
+- [02:01:02,958 - 02:01:05,558] a bigger structure has to be
+- [02:01:05,558 - 02:01:07,098] found.
+- [02:01:07,098 - 02:01:09,657] And whether that bigger structure that contains our world
+- [02:01:09,657 - 02:01:12,118] will sort of be contiguous with, connected
+- [02:01:12,118 - 02:01:16,318] to the smaller structure of capital string theory,
+- [02:01:16,318 - 02:01:18,398] this we don't know.
+- [02:01:18,398 - 02:01:20,818] We can all make our bets.
+- [02:01:20,834 - 02:01:21,494] ありがとうございました
+- [02:01:21,506 - 02:01:25,006] You're saying that string theory has no symmetries
+- [02:01:25,006 - 02:01:28,506] breaking like the eggs particles and things like that?
+- [02:01:28,506 - 02:01:32,006] People write loads and loads of papers
+- [02:01:32,006 - 02:01:35,506] about the symmetry breakings of string theory.
+- [02:01:35,506 - 02:01:38,006] The symmetry breakings in particular
+- [02:01:38,006 - 02:01:40,506] are the symmetry breakings of supersymmetry.
+- [02:01:40,506 - 02:01:43,506] And we know a lot about the mathematics of supersymmetry,
+- [02:01:43,506 - 02:01:47,506] but we don't know a precise version of how
+- [02:01:47,506 - 02:01:51,506] to combine the breaking of supersymmetry with string theory.
+- [02:01:51,506 - 02:01:54,506] That is outside the scope of what we know.
+- [02:01:54,506 - 02:01:58,506] That doesn't stop people from...
+- [02:01:58,506 - 02:02:02,006] You know, you make an approximation here and there, and
+- [02:02:02,006 - 02:02:05,506] then you start rolling, and you can do some things.
+- [02:02:05,506 - 02:02:09,006] The problem is that you're making approximations, but
+- [02:02:09,006 - 02:02:12,506] you don't know what those approximations are approximations to.
+- [02:02:12,506 - 02:02:13,006] You make some standard approximations, and
+- [02:02:13,006 - 02:02:13,506] then you start doing some things.
+- [02:02:13,506 - 02:02:16,006] You make standard approximations that we use
+- [02:02:16,006 - 02:02:18,506] all the time, and you start calculating,
+- [02:02:18,506 - 02:02:21,006] but there's no backbone to
+- [02:02:21,006 - 02:02:23,506] the thing that you're approximating.
+- [02:02:23,506 - 02:02:27,506] So at the present time, I think the safest
+- [02:02:27,506 - 02:02:31,506] thing to say is string theory, as we know it,
+- [02:02:31,506 - 02:02:34,506] and as we can... the rigorous version
+- [02:02:34,506 - 02:02:37,506] of it, is certainly not the real world.
+- [02:02:37,506 - 02:02:40,006] There's, in my view, lots of reason to think
+- [02:02:40,006 - 02:02:42,506] that the part of it that we know about,
+- [02:02:42,506 - 02:02:43,006] that we know about, is not the real world. There's, in my view,
+- [02:02:43,006 - 02:02:43,506] lots of reason to think that the part of it that we know about,
+- [02:02:43,506 - 02:02:45,006] that we know about, is not the real world.
+- [02:02:45,006 - 02:02:46,506] And what that stirs is not the whole thing,
+- [02:02:46,506 - 02:02:49,006] that it could be bigger.
+- [02:02:49,006 - 02:02:51,506] It probably is almost certainly bigger,
+- [02:02:51,506 - 02:02:53,006] but how to say whether the
+- [02:02:53,006 - 02:02:54,506] real world is part of it,
+- [02:02:54,506 - 02:02:57,506] that's very much a prejudice that
+- [02:02:57,506 - 02:03:00,506] different physicists share in different proportions.
+- [02:03:02,506 - 02:03:07,506] Smen- Does string theory, it contains gravity...
+- [02:03:07,506 - 02:03:10,006] does it contain special relativity? Or is
+- [02:03:10,006 - 02:03:12,506] special relativity a postulate for string theory?
+- [02:03:12,506 - 02:03:17,506] It really does require special relativity.
+- [02:03:17,506 - 02:03:23,266] Now, special relativity can be violated by the environment.
+- [02:03:23,266 - 02:03:26,766] We're sitting here in a room where everybody's at rest,
+- [02:03:26,766 - 02:03:29,826] and the world does not look Lorentz invariant to me.
+- [02:03:29,826 - 02:03:33,046] Your presence here violates my sense of Lorentz invariance.
+- [02:03:33,046 - 02:03:35,026] It also violates, we talked about this last time,
+- [02:03:35,026 - 02:03:37,746] didn't we?
+- [02:03:37,746 - 02:03:41,746] So you can have what physicists call a background, which
+- [02:03:41,746 - 02:03:46,006] means stuff in it, which picks out
+- [02:03:46,006 - 02:03:48,426] a particular frame of reference.
+- [02:03:48,426 - 02:03:54,686] But the underlying rules for string theory
+- [02:03:54,686 - 02:03:57,066] do have Lorentz invariance.
+- [02:03:57,066 - 02:03:59,406] That's a prediction.
+- [02:03:59,406 - 02:04:01,066] It's not a postulate.
+- [02:04:01,066 - 02:04:02,726] Yeah, I would say it's a prediction.
+- [02:04:02,726 - 02:04:08,986] But the most robust prediction is that it has gravity.
+- [02:04:08,986 - 02:04:10,986] There's just no way for it to not have gravity.
+- [02:04:11,746 - 02:04:15,246] It has gravity, but is it consistent with Einstein's theory
+- [02:04:15,246 - 02:04:16,786] of general relativity?
+- [02:04:16,786 - 02:04:18,126] It is.
+- [02:04:18,126 - 02:04:20,626] I mean, the background independence, the general
+- [02:04:20,626 - 02:04:22,366] is in the string theory also.
+- [02:04:25,686 - 02:04:27,706] Yeah, this question about background independence
+- [02:04:27,706 - 02:04:28,786] is a confusing one.
+- [02:04:37,126 - 02:04:41,066] Yeah, it is background independent up to a point.
+- [02:04:41,066 - 02:04:41,746] Up to a point.
+- [02:04:41,746 - 02:04:42,246] Yes.
+- [02:04:42,246 - 02:04:49,146] It's hard to change the asymptotic boundary conditions
+- [02:04:49,146 - 02:04:51,546] continuously, but it should be hard to change
+- [02:04:51,546 - 02:04:54,566] the asymptotic boundary conditions continuously.
+- [02:04:54,566 - 02:04:57,166] How do you change asymptotic boundary conditions
+- [02:04:57,166 - 02:04:57,866] continuously?
+- [02:04:57,866 - 02:05:01,366] You can't do any operation that would change them.
+- [02:05:01,366 - 02:05:04,346] But short of asymptotic boundary conditions,
+- [02:05:04,346 - 02:05:07,246] changing the background locally in spacetime, yeah,
+- [02:05:07,246 - 02:05:08,606] string theory does have that.
+- [02:05:11,746 - 02:05:17,326] And you don't have to take my word for it.
+- [02:05:17,326 - 02:05:21,426] This is something that's been long studied since the 1980s.
+- [02:05:24,386 - 02:05:27,886] Works of people like Curtis Callan and other people
+- [02:05:27,886 - 02:05:29,026] have studied that.
+- [02:05:33,506 - 02:05:35,866] Do you have a last-ditch week for last try?
+- [02:05:35,866 - 02:05:37,666] No, we're finished tonight.
+- [02:05:37,666 - 02:05:38,866] This is the last?
+- [02:05:38,866 - 02:05:39,626] Yeah.
+- [02:05:39,626 - 02:05:40,806] Yeah.
+- [02:05:40,806 - 02:05:41,306] OK.
+- [02:05:41,746 - 02:05:42,806] Thank you.
+- [02:05:42,806 - 02:05:43,306] Thank you.
+- [02:05:43,306 - 02:05:43,806] Thank you.
+- [02:05:51,426 - 02:05:54,386] For more, please visit us at stanford.edu.
