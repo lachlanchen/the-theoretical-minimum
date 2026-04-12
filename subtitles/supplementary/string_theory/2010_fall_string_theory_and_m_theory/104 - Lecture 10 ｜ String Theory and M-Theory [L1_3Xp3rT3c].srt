@@ -1,0 +1,11612 @@
+1
+00:00:00,000 --> 00:00:07,000
+Stanford University
+
+2
+00:00:09,000 --> 00:00:12,000
+Alright, we were talking about something called T-duality.
+
+3
+00:00:12,000 --> 00:00:16,000
+T-duality was very, very important
+
+4
+00:00:16,000 --> 00:00:19,000
+to the history of the
+
+5
+00:00:19,000 --> 00:00:22,000
+mathematical developments of string theory.
+
+6
+00:00:22,000 --> 00:00:24,000
+Let's go back over it again
+
+7
+00:00:24,000 --> 00:00:26,000
+and discuss it a little more fully.
+
+8
+00:00:26,000 --> 00:00:28,500
+And then I want to tell you
+
+9
+00:00:28,500 --> 00:00:31,000
+how it led to the concept of D-brains
+
+10
+00:00:31,000 --> 00:00:33,000
+and how D-brains have become
+
+11
+00:00:33,000 --> 00:00:35,000
+something of a mathematical tool
+
+12
+00:00:35,000 --> 00:00:38,000
+for studying quantum field theories,
+
+13
+00:00:38,000 --> 00:00:40,000
+the kind of quantum field theories
+
+14
+00:00:40,000 --> 00:00:42,000
+that have nothing to do with gravity,
+
+15
+00:00:42,000 --> 00:00:44,000
+but the kind of quantum field theories
+
+16
+00:00:44,000 --> 00:00:46,000
+that we use in a day-to-day basis
+
+17
+00:00:46,000 --> 00:00:50,000
+to understand hadrons, quantum electrodynamics,
+
+18
+00:00:50,000 --> 00:00:52,500
+and even quantum field theories that
+
+19
+00:00:52,500 --> 00:00:55,000
+are interesting to condensed matter physicists.
+
+20
+00:00:55,000 --> 00:00:56,000
+We won't get to all of them,
+
+21
+00:00:56,000 --> 00:00:59,000
+obviously we won't get to this today,
+
+22
+00:00:59,000 --> 00:01:01,500
+but I'll just try to give
+
+23
+00:01:01,500 --> 00:01:04,000
+you some picture of what it's about.
+
+24
+00:01:04,000 --> 00:01:07,000
+Alright, we imagined that there
+
+25
+00:01:07,000 --> 00:01:10,000
+were some compact directions of,
+
+26
+00:01:10,000 --> 00:01:13,000
+compact means these small ones which are rolled up.
+
+27
+00:01:13,000 --> 00:01:16,500
+For simplicity, I will imagine that
+
+28
+00:01:16,500 --> 00:01:20,000
+the compactification is toroidal, on tori.
+
+29
+00:01:20,000 --> 00:01:25,000
+In other words, not necessarily two-dimensional torus,
+
+30
+00:01:25,000 --> 00:01:27,500
+but a one-dimensional torus is
+
+31
+00:01:27,500 --> 00:01:30,000
+a circle or a line interval
+
+32
+00:01:30,000 --> 00:01:33,000
+with endpoints being identified.
+
+33
+00:01:33,000 --> 00:01:41,000
+A two-dimensional torus is a parallelogram,
+
+34
+00:01:41,000 --> 00:01:44,000
+it doesn't have to be straight,
+
+35
+00:01:44,000 --> 00:01:48,000
+a parallelogram with opposite sides identified.
+
+36
+00:01:48,000 --> 00:01:54,000
+A three-dimensional torus is a cube,
+
+37
+00:01:54,000 --> 00:01:58,000
+or not necessarily a cube, but a...
+
+38
+00:01:58,000 --> 00:02:03,000
+Parallelipiped, thank you.
+
+39
+00:02:03,000 --> 00:02:09,000
+A parallelopiped with opposite faces identified,
+
+40
+00:02:09,000 --> 00:02:11,000
+this point and that point,
+
+41
+00:02:11,000 --> 00:02:13,000
+this point and that point,
+
+42
+00:02:13,000 --> 00:02:16,000
+and, you know, in front and the back.
+
+43
+00:02:16,000 --> 00:02:19,000
+So, in general, in any dimension,
+
+44
+00:02:19,000 --> 00:02:23,000
+the concept of a torus is a well-defined concept.
+
+45
+00:02:24,000 --> 00:02:28,000
+And those are the easiest cases to study.
+
+46
+00:02:28,000 --> 00:02:31,000
+Those are the easiest cases to study.
+
+47
+00:02:31,000 --> 00:02:36,000
+In these cases, of course, supplemented on top of this
+
+48
+00:02:36,000 --> 00:02:40,000
+is the ordinary four dimensions of space-time.
+
+49
+00:02:40,000 --> 00:02:44,000
+So this is what's present at every point of space-time,
+
+50
+00:02:44,000 --> 00:02:46,000
+ordinary space-time.
+
+51
+00:02:46,000 --> 00:02:48,000
+There are other directions that we can move in,
+
+52
+00:02:48,000 --> 00:02:51,000
+or that somebody small enough can move in.
+
+53
+00:02:51,000 --> 00:02:53,000
+And that's the setup.
+
+54
+00:02:54,000 --> 00:02:57,000
+Let's focus on one particular place in space-time
+
+55
+00:02:57,000 --> 00:02:59,000
+and ask what could be there.
+
+56
+00:02:59,000 --> 00:03:01,000
+A particle can be there.
+
+57
+00:03:01,000 --> 00:03:03,000
+But now let's zero in and zoom in
+
+58
+00:03:03,000 --> 00:03:06,000
+and ask what that particle looks like
+
+59
+00:03:06,000 --> 00:03:09,000
+on scales which are so small
+
+60
+00:03:09,000 --> 00:03:13,000
+that these compact directions become visible.
+
+61
+00:03:13,000 --> 00:03:16,000
+So let's start with a simple picture that we had.
+
+62
+00:03:19,000 --> 00:03:22,000
+Just to get started,
+
+63
+00:03:22,000 --> 00:03:26,000
+we imagined one large direction
+
+64
+00:03:26,000 --> 00:03:28,000
+and one small direction.
+
+65
+00:03:28,000 --> 00:03:31,000
+The small direction now would be called a circle.
+
+66
+00:03:31,000 --> 00:03:35,000
+A circle not because it's embedded in two dimensions
+
+67
+00:03:35,000 --> 00:03:37,000
+and looks like a circle,
+
+68
+00:03:37,000 --> 00:03:40,000
+but just because its head meets its tail.
+
+69
+00:03:40,000 --> 00:03:43,000
+That when you go around, come back,
+
+70
+00:03:43,000 --> 00:03:45,000
+you come back to the same place.
+
+71
+00:03:45,000 --> 00:03:48,000
+All right, so that's our space-time.
+
+72
+00:03:48,000 --> 00:03:49,000
+Where's time?
+
+73
+00:03:49,000 --> 00:03:50,000
+Oh, I don't know. Time is...
+
+74
+00:03:50,000 --> 00:03:51,000
+Add time into it.
+
+75
+00:03:51,000 --> 00:03:54,000
+Time is not drawn on the blackboard.
+
+76
+00:03:54,000 --> 00:03:56,000
+This is pure space.
+
+77
+00:03:56,000 --> 00:03:58,000
+In this case, two-dimensional.
+
+78
+00:03:58,000 --> 00:04:00,000
+But if you like, we
+
+79
+00:04:00,000 --> 00:04:02,000
+can generalize it to higher dimensions.
+
+80
+00:04:02,000 --> 00:04:05,000
+The compact directions become tori.
+
+81
+00:04:05,000 --> 00:04:08,000
+The non-compact directions, the big ones,
+
+82
+00:04:08,000 --> 00:04:10,000
+just become our three dimensions of space
+
+83
+00:04:10,000 --> 00:04:13,000
+or however many dimensions of space we want.
+
+84
+00:04:13,000 --> 00:04:15,000
+Now, in string theory,
+
+85
+00:04:15,000 --> 00:04:19,000
+particles are strings.
+
+86
+00:04:19,000 --> 00:04:21,000
+Let's take the case
+
+87
+00:04:21,000 --> 00:04:24,000
+of...
+
+88
+00:04:24,000 --> 00:04:26,000
+Not all string theories are the same.
+
+89
+00:04:26,000 --> 00:04:28,000
+They're different from each other,
+
+90
+00:04:28,000 --> 00:04:31,000
+but there's a fairly small classification of them.
+
+91
+00:04:31,000 --> 00:04:34,000
+The string theories that I'm interested in right now
+
+92
+00:04:34,000 --> 00:04:36,000
+have only closed strings.
+
+93
+00:04:36,000 --> 00:04:38,000
+We're going to come back to what happens
+
+94
+00:04:38,000 --> 00:04:41,000
+when you have open strings in a little while.
+
+95
+00:04:41,000 --> 00:04:44,000
+But for the moment, only closed strings.
+
+96
+00:04:44,000 --> 00:04:46,000
+No end points.
+
+97
+00:04:46,000 --> 00:04:47,000
+That's number one.
+
+98
+00:04:47,000 --> 00:04:49,000
+So they're like rubber bands.
+
+99
+00:04:49,000 --> 00:04:50,000
+They're like rubber bands.
+
+100
+00:04:50,000 --> 00:04:52,000
+Here they are. They're closed.
+
+101
+00:04:52,000 --> 00:04:56,000
+And furthermore, they're what we would call oriented.
+
+102
+00:04:56,000 --> 00:05:04,000
+Oriented means that there's an intrinsic difference
+
+103
+00:05:04,000 --> 00:05:07,000
+between going around the string in one direction
+
+104
+00:05:07,000 --> 00:05:10,000
+rather than the other direction.
+
+105
+00:05:10,000 --> 00:05:12,000
+It's mathematically like a rubber band
+
+106
+00:05:12,000 --> 00:05:13,500
+in which on the rubber band
+
+107
+00:05:13,500 --> 00:05:15,000
+we drew a series of arrows
+
+108
+00:05:15,000 --> 00:05:18,000
+to indicate direction around.
+
+109
+00:05:18,000 --> 00:05:19,000
+And we'll keep track of that
+
+110
+00:05:19,000 --> 00:05:22,000
+orientation.
+
+111
+00:05:22,000 --> 00:05:25,000
+An example of what that orientation would say
+
+112
+00:05:25,000 --> 00:05:28,000
+is when the string splits,
+
+113
+00:05:28,000 --> 00:05:31,000
+when it splits like this,
+
+114
+00:05:31,000 --> 00:05:35,000
+it will split into two strings
+
+115
+00:05:35,000 --> 00:05:38,000
+with the same orientation on the blackboard.
+
+116
+00:05:38,000 --> 00:05:39,500
+So in that sense, orientation
+
+117
+00:05:39,500 --> 00:05:41,000
+is preserved for these strings.
+
+118
+00:05:41,000 --> 00:05:43,000
+They remember a sense of which...
+
+119
+00:05:43,000 --> 00:05:46,000
+Now, of course, that doesn't mean that they're inequivalent.
+
+120
+00:05:46,000 --> 00:05:49,000
+I mean, there may be a symmetry
+
+121
+00:05:49,000 --> 00:05:53,000
+in the sense that a string with the opposite orientation
+
+122
+00:05:53,000 --> 00:05:55,000
+may have all the same properties,
+
+123
+00:05:55,000 --> 00:05:56,500
+but what it does mean is
+
+124
+00:05:56,500 --> 00:05:58,000
+that you can compare two strings
+
+125
+00:05:58,000 --> 00:06:00,000
+to see whether they have the same orientation
+
+126
+00:06:00,000 --> 00:06:03,000
+or the opposite orientation.
+
+127
+00:06:03,000 --> 00:06:06,000
+Same with electric charge.
+
+128
+00:06:06,000 --> 00:06:10,000
+Positive electric charges behave exactly the same way
+
+129
+00:06:10,000 --> 00:06:13,000
+as negative electric charges in that, for example,
+
+130
+00:06:13,000 --> 00:06:15,500
+if you replaced in the real
+
+131
+00:06:15,500 --> 00:06:18,000
+world every electron by a positron,
+
+132
+00:06:18,000 --> 00:06:21,000
+every proton by an antiproton,
+
+133
+00:06:21,000 --> 00:06:24,000
+and with it every neutron by an antineutron,
+
+134
+00:06:24,000 --> 00:06:28,000
+chemistry would remain exactly the same,
+
+135
+00:06:28,000 --> 00:06:30,000
+or at least to a very, very high precision,
+
+136
+00:06:30,000 --> 00:06:33,000
+would remain unchanged.
+
+137
+00:06:33,000 --> 00:06:35,000
+So in that sense, plus
+
+138
+00:06:35,000 --> 00:06:37,000
+charges are identical to minus charges,
+
+139
+00:06:37,000 --> 00:06:40,000
+but you can tell the difference between a plus...
+
+140
+00:06:40,000 --> 00:06:42,000
+No, you can't tell the difference between
+
+141
+00:06:42,000 --> 00:06:44,000
+a plus charge and a minus charge,
+
+142
+00:06:44,000 --> 00:06:46,000
+but if you have two charges,
+
+143
+00:06:46,000 --> 00:06:49,000
+you can tell whether they are the same or opposite.
+
+144
+00:06:49,000 --> 00:06:52,000
+How? Just see whether they attract or repel.
+
+145
+00:06:52,000 --> 00:06:54,000
+You can't tell whether they're both
+
+146
+00:06:54,000 --> 00:06:56,000
+plus or whether they're both minus,
+
+147
+00:06:56,000 --> 00:06:58,000
+but you can tell...
+
+148
+00:06:58,000 --> 00:07:02,000
+Okay, so the same is true of oriented strings,
+
+149
+00:07:02,000 --> 00:07:06,000
+that they have a sense of orientation.
+
+150
+00:07:06,000 --> 00:07:09,000
+If you replaced every string in string theory
+
+151
+00:07:09,000 --> 00:07:11,000
+by a string of the opposite orientation,
+
+152
+00:07:11,000 --> 00:07:13,000
+the theory would be the same,
+
+153
+00:07:13,000 --> 00:07:15,000
+but if you have two strings,
+
+154
+00:07:15,000 --> 00:07:16,500
+you can tell whether they're
+
+155
+00:07:16,500 --> 00:07:18,000
+the same orientation or the opposite.
+
+156
+00:07:18,000 --> 00:07:20,000
+Let's just call them oriented strings.
+
+157
+00:07:20,000 --> 00:07:22,000
+Now you can wrap them...
+
+158
+00:07:22,000 --> 00:07:24,000
+Well, you can do two things.
+
+159
+00:07:24,000 --> 00:07:26,000
+You can have a string
+
+160
+00:07:26,000 --> 00:07:32,000
+which is not wound around some compact direction.
+
+161
+00:07:32,000 --> 00:07:33,000
+There it is.
+
+162
+00:07:33,000 --> 00:07:35,000
+It's just drawn on the
+
+163
+00:07:35,000 --> 00:07:37,000
+surface of the two-dimensional world here.
+
+164
+00:07:37,000 --> 00:07:39,000
+It's free to move.
+
+165
+00:07:39,000 --> 00:07:41,000
+It can move in this direction,
+
+166
+00:07:41,000 --> 00:07:44,000
+or it can move around.
+
+167
+00:07:45,000 --> 00:07:48,000
+So it can have momentum.
+
+168
+00:07:48,000 --> 00:07:50,000
+And that momentum can be along
+
+169
+00:07:50,000 --> 00:07:52,000
+the direction of the large directions
+
+170
+00:07:52,000 --> 00:07:55,000
+or it can be along the short directions.
+
+171
+00:07:55,000 --> 00:07:57,000
+Or it can be a combination of both.
+
+172
+00:07:57,000 --> 00:07:58,000
+It can...
+
+173
+00:07:58,000 --> 00:07:59,000
+When I say it has momentum,
+
+174
+00:07:59,000 --> 00:08:01,000
+we can think of that as motion.
+
+175
+00:08:01,000 --> 00:08:03,000
+And it can move this way,
+
+176
+00:08:03,000 --> 00:08:04,000
+it can move this way,
+
+177
+00:08:04,000 --> 00:08:08,000
+or it can even move in a...
+
+178
+00:08:08,000 --> 00:08:11,000
+in a helical pattern like that,
+
+179
+00:08:11,000 --> 00:08:14,000
+having both components of momentum.
+
+180
+00:08:15,000 --> 00:08:20,000
+The components of the momentum in the short directions,
+
+181
+00:08:20,000 --> 00:08:22,000
+in the finite compact directions,
+
+182
+00:08:22,000 --> 00:08:24,000
+are quantized.
+
+183
+00:08:24,000 --> 00:08:28,000
+They are quantized in integer multiples
+
+184
+00:08:28,000 --> 00:08:33,000
+of the inverse radius
+
+185
+00:08:33,000 --> 00:08:36,000
+or the inverse circumference,
+
+186
+00:08:36,000 --> 00:08:39,000
+the distance around the closed...
+
+187
+00:08:39,000 --> 00:08:41,000
+It's called a cycle,
+
+188
+00:08:41,000 --> 00:08:42,000
+around the closed cycle.
+
+189
+00:08:42,000 --> 00:08:44,000
+Do the strings have to go all the way around?
+
+190
+00:08:44,000 --> 00:08:45,500
+Do they have to go
+
+191
+00:08:45,500 --> 00:08:47,000
+all the way around the cylinder?
+
+192
+00:08:47,000 --> 00:08:49,000
+Or can they be like you drew it there?
+
+193
+00:08:49,000 --> 00:08:51,000
+This one isn't going all the way around.
+
+194
+00:08:54,000 --> 00:08:55,000
+Well, they didn't...
+
+195
+00:08:55,000 --> 00:08:57,000
+I thought they went from like zero to two pi,
+
+196
+00:08:57,000 --> 00:08:59,000
+they're closed.
+
+197
+00:09:00,000 --> 00:09:02,000
+Oh, gosh.
+
+198
+00:09:02,000 --> 00:09:04,000
+Good point.
+
+199
+00:09:04,000 --> 00:09:06,000
+In what space?
+
+200
+00:09:06,000 --> 00:09:07,000
+Sigma?
+
+201
+00:09:07,000 --> 00:09:08,000
+Ah!
+
+202
+00:09:08,000 --> 00:09:10,000
+No, no.
+
+203
+00:09:10,000 --> 00:09:12,000
+This is not sigma.
+
+204
+00:09:14,000 --> 00:09:17,000
+This is some x.
+
+205
+00:09:17,000 --> 00:09:20,000
+This could be x.
+
+206
+00:09:20,000 --> 00:09:23,000
+We could call this direction y around here.
+
+207
+00:09:23,000 --> 00:09:24,000
+That's space.
+
+208
+00:09:24,000 --> 00:09:26,000
+That's real space.
+
+209
+00:09:26,000 --> 00:09:28,000
+Sigma is just a parameter
+
+210
+00:09:28,000 --> 00:09:31,000
+which changes along the string.
+
+211
+00:09:31,000 --> 00:09:34,000
+It's just naming the points along the string.
+
+212
+00:09:34,000 --> 00:09:36,000
+You have a rubber band,
+
+213
+00:09:36,000 --> 00:09:38,000
+and the rubber band is composed of molecules.
+
+214
+00:09:38,000 --> 00:09:40,000
+Okay?
+
+215
+00:09:40,000 --> 00:09:42,000
+The molecules can be named.
+
+216
+00:09:42,000 --> 00:09:44,000
+The first molecule is Harry.
+
+217
+00:09:44,000 --> 00:09:45,000
+Then George.
+
+218
+00:09:45,000 --> 00:09:46,000
+Then Fred.
+
+219
+00:09:46,000 --> 00:09:47,000
+Then Sarah.
+
+220
+00:09:47,000 --> 00:09:48,000
+And so forth.
+
+221
+00:09:48,000 --> 00:09:49,000
+That's sigma.
+
+222
+00:09:49,000 --> 00:09:52,000
+It's naming the particles as you go around the string.
+
+223
+00:09:52,000 --> 00:09:54,000
+Okay?
+
+224
+00:09:55,000 --> 00:09:57,000
+And if the string is closed,
+
+225
+00:09:57,000 --> 00:09:59,000
+then sigma comes back to itself.
+
+226
+00:09:59,000 --> 00:10:00,000
+Yeah.
+
+227
+00:10:00,000 --> 00:10:02,000
+Does the size have to be the same along...
+
+228
+00:10:02,000 --> 00:10:03,000
+What?
+
+229
+00:10:03,000 --> 00:10:06,000
+Does the size of the compact direction
+
+230
+00:10:06,000 --> 00:10:08,000
+have to be the same at
+
+231
+00:10:08,000 --> 00:10:10,000
+every place in the long direction?
+
+232
+00:10:10,000 --> 00:10:11,000
+We'll come to that.
+
+233
+00:10:11,000 --> 00:10:12,000
+The answer is no.
+
+234
+00:10:14,000 --> 00:10:17,000
+No, it does not.
+
+235
+00:10:17,000 --> 00:10:20,000
+But we'll come to that.
+
+236
+00:10:20,000 --> 00:10:27,000
+Okay, so sigma varies along here, along the string.
+
+237
+00:10:27,000 --> 00:10:30,000
+And it goes from 0 to 2 pi.
+
+238
+00:10:30,000 --> 00:10:33,000
+But that has nothing whatever to do
+
+239
+00:10:33,000 --> 00:10:36,000
+with whether the string is wrapped around space.
+
+240
+00:10:36,000 --> 00:10:37,000
+So, yeah, think of...
+
+241
+00:10:37,000 --> 00:10:39,000
+I'm sorry, I didn't bring a rubber band.
+
+242
+00:10:39,000 --> 00:10:40,000
+Think of a rubber band
+
+243
+00:10:40,000 --> 00:10:41,500
+where on the surface of
+
+244
+00:10:41,500 --> 00:10:43,000
+the rubber band we've marked off.
+
+245
+00:10:43,000 --> 00:10:44,000
+Sigma equals 0.
+
+246
+00:10:44,000 --> 00:10:48,000
+Sigma equals a small number or twice the small number
+
+247
+00:10:48,000 --> 00:10:49,000
+as we go around the rubber band.
+
+248
+00:10:49,000 --> 00:10:50,000
+Here it is.
+
+249
+00:10:50,000 --> 00:10:51,000
+Rubber band.
+
+250
+00:10:53,000 --> 00:10:55,000
+And we mark off points on the rubber band.
+
+251
+00:10:57,000 --> 00:10:58,000
+That's sigma.
+
+252
+00:11:00,000 --> 00:11:01,500
+That sigma has nothing to do
+
+253
+00:11:01,500 --> 00:11:03,000
+with whether I wrap the rubber band
+
+254
+00:11:03,000 --> 00:11:05,000
+around my wrist or not.
+
+255
+00:11:05,000 --> 00:11:06,000
+It's always there.
+
+256
+00:11:06,000 --> 00:11:07,000
+It's sigma.
+
+257
+00:11:07,000 --> 00:11:09,000
+It goes around once as the string goes...
+
+258
+00:11:09,000 --> 00:11:12,000
+As we follow the string around its own shape,
+
+259
+00:11:12,000 --> 00:11:14,000
+sigma goes from 0 to 2 pi.
+
+260
+00:11:14,000 --> 00:11:16,000
+It's a completely separate question
+
+261
+00:11:16,000 --> 00:11:20,000
+of whether the string is wrapped around the extra dimension,
+
+262
+00:11:20,000 --> 00:11:22,000
+in the same sense that a rubber
+
+263
+00:11:22,000 --> 00:11:24,000
+band could be wrapped around my wrist.
+
+264
+00:11:24,000 --> 00:11:27,000
+You can wrap the rubber band around your wrist
+
+265
+00:11:27,000 --> 00:11:29,000
+if it's an oriented rubber band.
+
+266
+00:11:29,000 --> 00:11:31,000
+You can wrap it so
+
+267
+00:11:31,000 --> 00:11:33,000
+that the arrows point this way
+
+268
+00:11:33,000 --> 00:11:36,000
+or so that the arrows point this way.
+
+269
+00:11:36,000 --> 00:11:38,000
+So we have two kinds of rubber bands.
+
+270
+00:11:38,000 --> 00:11:39,000
+One is a rubber band
+
+271
+00:11:39,000 --> 00:11:40,000
+that's a little bit more rounded.
+
+272
+00:11:40,000 --> 00:11:41,000
+It's a rubber band that's a little bit more rounded.
+
+273
+00:11:41,000 --> 00:11:45,000
+So we have two kinds of wrapped strings.
+
+274
+00:11:45,000 --> 00:11:47,000
+Here's a wrapped or a wound.
+
+275
+00:11:47,000 --> 00:11:49,000
+The correct term is wound.
+
+276
+00:11:49,000 --> 00:11:52,000
+Wound around a compact direction.
+
+277
+00:11:53,000 --> 00:11:55,000
+Here is one of them.
+
+278
+00:11:55,000 --> 00:11:57,000
+It comes around the other side,
+
+279
+00:11:57,000 --> 00:11:59,000
+and it points that way.
+
+280
+00:11:59,000 --> 00:12:01,000
+Okay? That's one.
+
+281
+00:12:01,000 --> 00:12:03,000
+The other one
+
+282
+00:12:03,000 --> 00:12:07,000
+goes in the opposite direction.
+
+283
+00:12:11,000 --> 00:12:15,000
+Let's take two wound strings like this.
+
+284
+00:12:15,000 --> 00:12:17,000
+Two wound strings like this.
+
+285
+00:12:17,000 --> 00:12:20,000
+Let me just draw it a little differently.
+
+286
+00:12:20,000 --> 00:12:22,000
+Let's put...
+
+287
+00:12:22,000 --> 00:12:24,000
+Do it this way.
+
+288
+00:12:24,000 --> 00:12:27,000
+This one goes.
+
+289
+00:12:27,000 --> 00:12:30,000
+What can happen to two wound strings
+
+290
+00:12:30,000 --> 00:12:33,000
+which are wound in opposite direction?
+
+291
+00:12:33,000 --> 00:12:39,000
+Well, remember, the basic process of string theory
+
+292
+00:12:39,000 --> 00:12:42,000
+is for strings to come together and join and split.
+
+293
+00:12:42,000 --> 00:12:44,000
+Now the rule is
+
+294
+00:12:44,000 --> 00:12:48,000
+that when they join and split,
+
+295
+00:12:48,000 --> 00:12:51,000
+orientation is remembered.
+
+296
+00:12:51,000 --> 00:12:55,000
+A string like this and a string like this can...
+
+297
+00:12:55,000 --> 00:13:00,000
+Let's put some more orientation arrows on it.
+
+298
+00:13:00,000 --> 00:13:03,000
+Let's ask how they can join.
+
+299
+00:13:03,000 --> 00:13:08,000
+They can join like that.
+
+300
+00:13:08,000 --> 00:13:10,000
+I don't think I need words to describe it.
+
+301
+00:13:10,000 --> 00:13:13,000
+I think the picture describes it well enough.
+
+302
+00:13:13,000 --> 00:13:14,000
+The lines have to be...
+
+303
+00:13:14,000 --> 00:13:17,000
+Or the arrows have to be continuous.
+
+304
+00:13:17,000 --> 00:13:18,000
+Okay?
+
+305
+00:13:18,000 --> 00:13:20,000
+What you can't have
+
+306
+00:13:20,000 --> 00:13:27,000
+is a string splitting somehow like that.
+
+307
+00:13:27,000 --> 00:13:29,000
+Here the line can't be continuous.
+
+308
+00:13:29,000 --> 00:13:31,000
+You run into a contradiction
+
+309
+00:13:31,000 --> 00:13:33,000
+as these points come together.
+
+310
+00:13:33,000 --> 00:13:34,000
+All right.
+
+311
+00:13:34,000 --> 00:13:36,000
+So this is the kind of thing that can happen.
+
+312
+00:13:36,000 --> 00:13:37,000
+The opposite,
+
+313
+00:13:37,000 --> 00:13:38,000
+namely the opposite,
+
+314
+00:13:38,000 --> 00:13:41,000
+the time reversal of it can also happen.
+
+315
+00:13:41,000 --> 00:13:44,000
+Strings which are like this can come together and join
+
+316
+00:13:44,000 --> 00:13:46,000
+and so forth.
+
+317
+00:13:46,000 --> 00:13:47,000
+All right.
+
+318
+00:13:47,000 --> 00:13:50,000
+That's the basic phenomena of splitting and joining.
+
+319
+00:13:50,000 --> 00:13:52,000
+And it's the thing which
+
+320
+00:13:52,000 --> 00:13:54,000
+is governed by a coupling constant.
+
+321
+00:13:54,000 --> 00:13:57,000
+So what can happen here?
+
+322
+00:13:57,000 --> 00:13:58,000
+What can happen is clear.
+
+323
+00:13:58,000 --> 00:13:59,000
+This can happen.
+
+324
+00:13:59,000 --> 00:14:00,000
+Let's see.
+
+325
+00:14:00,000 --> 00:14:02,000
+Oh, I lost track of the orientation.
+
+326
+00:14:08,000 --> 00:14:15,000
+Now it's not really wound anymore.
+
+327
+00:14:15,000 --> 00:14:18,000
+As from the point of view of topology,
+
+328
+00:14:18,000 --> 00:14:21,000
+you can unwind it into this.
+
+329
+00:14:21,000 --> 00:14:23,000
+All we've done here is we've taken this,
+
+330
+00:14:23,000 --> 00:14:24,000
+we've stretched it around,
+
+331
+00:14:24,000 --> 00:14:26,000
+and then joined it on the far side
+
+332
+00:14:26,000 --> 00:14:29,000
+to form the original wound pair.
+
+333
+00:14:29,000 --> 00:14:32,000
+Well, we can undo that.
+
+334
+00:14:32,000 --> 00:14:35,000
+And now it's unwound.
+
+335
+00:14:35,000 --> 00:14:36,000
+It's just a...
+
+336
+00:14:38,000 --> 00:14:42,000
+a single unwound string.
+
+337
+00:14:42,000 --> 00:14:43,000
+All right.
+
+338
+00:14:43,000 --> 00:14:45,000
+Now, one way to think about it
+
+339
+00:14:45,000 --> 00:14:48,000
+is to keep track of winding number.
+
+340
+00:14:48,000 --> 00:14:51,000
+Winding number can be defined to be positive
+
+341
+00:14:51,000 --> 00:14:54,000
+for windings which look this way.
+
+342
+00:14:54,000 --> 00:14:57,000
+We'll call that winding number one.
+
+343
+00:14:57,000 --> 00:14:59,000
+And if it's wound the other way,
+
+344
+00:14:59,000 --> 00:15:01,000
+we'll call it winding number minus.
+
+345
+00:15:01,000 --> 00:15:04,000
+I won't try to give you a mathematical definition,
+
+346
+00:15:04,000 --> 00:15:07,000
+but winding it on my wrist,
+
+347
+00:15:07,000 --> 00:15:08,000
+if the...
+
+348
+00:15:08,000 --> 00:15:10,000
+if the arrows point this way,
+
+349
+00:15:10,000 --> 00:15:12,000
+we'll call that positive winding.
+
+350
+00:15:12,000 --> 00:15:14,000
+If they point the other way,
+
+351
+00:15:14,000 --> 00:15:16,000
+we'll call it negative winding.
+
+352
+00:15:16,000 --> 00:15:18,000
+If I have a single string
+
+353
+00:15:18,000 --> 00:15:20,000
+which is wound like so,
+
+354
+00:15:20,000 --> 00:15:22,000
+what's the winding number?
+
+355
+00:15:22,000 --> 00:15:24,000
+The winding number is plus one.
+
+356
+00:15:24,000 --> 00:15:26,000
+If I have another one,
+
+357
+00:15:26,000 --> 00:15:28,000
+forget this one for the moment,
+
+358
+00:15:28,000 --> 00:15:30,000
+just throw it over on the side,
+
+359
+00:15:30,000 --> 00:15:32,000
+we have another one
+
+360
+00:15:32,000 --> 00:15:34,000
+which is wound this way,
+
+361
+00:15:34,000 --> 00:15:36,000
+that has winding number minus one.
+
+362
+00:15:36,000 --> 00:15:37,000
+The two together,
+
+363
+00:15:37,000 --> 00:15:41,000
+all together have winding number zero.
+
+364
+00:15:41,000 --> 00:15:43,000
+This has winding number zero.
+
+365
+00:15:43,000 --> 00:15:45,000
+It's not wound around at all.
+
+366
+00:15:45,000 --> 00:15:48,000
+So what's preserved
+
+367
+00:15:48,000 --> 00:15:51,000
+is winding number.
+
+368
+00:15:51,000 --> 00:15:53,000
+Let's take another case.
+
+369
+00:15:53,000 --> 00:15:55,000
+Let's imagine now two strings
+
+370
+00:15:55,000 --> 00:15:57,000
+which are wound the same way.
+
+371
+00:16:00,000 --> 00:16:03,000
+There's two strings wound the same way.
+
+372
+00:16:03,000 --> 00:16:05,000
+What can happen to them?
+
+373
+00:16:05,000 --> 00:16:06,000
+They have winding number two.
+
+374
+00:16:06,000 --> 00:16:07,000
+The sum of the two of them
+
+375
+00:16:07,000 --> 00:16:09,000
+have winding number two.
+
+376
+00:16:09,000 --> 00:16:10,000
+What can happen?
+
+377
+00:16:10,000 --> 00:16:12,000
+Well,
+
+378
+00:16:14,000 --> 00:16:17,000
+let's draw it over here again.
+
+379
+00:16:20,000 --> 00:16:22,000
+These are going this way
+
+380
+00:16:22,000 --> 00:16:25,000
+and they come around here.
+
+381
+00:16:25,000 --> 00:16:27,000
+They're both going the same way.
+
+382
+00:16:27,000 --> 00:16:29,000
+You can't unwind this.
+
+383
+00:16:29,000 --> 00:16:30,000
+You can do something.
+
+384
+00:16:30,000 --> 00:16:33,000
+You can have a process of splitting and joining
+
+385
+00:16:33,000 --> 00:16:35,000
+which does this.
+
+386
+00:16:36,000 --> 00:16:39,000
+Which interconnects them a new way.
+
+387
+00:16:39,000 --> 00:16:41,000
+Can you see what I've drawn?
+
+388
+00:16:43,000 --> 00:16:45,000
+We've crossed them.
+
+389
+00:16:45,000 --> 00:16:46,000
+We've crossed them,
+
+390
+00:16:46,000 --> 00:16:49,000
+but still after they've crossed,
+
+391
+00:16:49,000 --> 00:16:51,000
+the arrows are still continuous.
+
+392
+00:16:51,000 --> 00:16:52,000
+There's no contradiction
+
+393
+00:16:52,000 --> 00:16:56,000
+in the direction of the arrows.
+
+394
+00:16:56,000 --> 00:16:59,000
+This also has winding number two.
+
+395
+00:16:59,000 --> 00:17:03,000
+It's one string with winding number two.
+
+396
+00:17:03,000 --> 00:17:04,000
+This is two strings,
+
+397
+00:17:04,000 --> 00:17:06,000
+each one with winding number one.
+
+398
+00:17:06,000 --> 00:17:08,000
+Each one with winding number one,
+
+399
+00:17:08,000 --> 00:17:12,000
+but the sum total of the winding numbers is two.
+
+400
+00:17:12,000 --> 00:17:14,000
+All right, so here's again another example.
+
+401
+00:17:14,000 --> 00:17:16,000
+Winding number is conserved.
+
+402
+00:17:16,000 --> 00:17:18,000
+You can't change the winding number,
+
+403
+00:17:18,000 --> 00:17:21,000
+although you can change
+
+404
+00:17:21,000 --> 00:17:25,000
+the number of connected components.
+
+405
+00:17:25,000 --> 00:17:27,000
+So if you have winding number of a hundred,
+
+406
+00:17:27,000 --> 00:17:31,000
+you could have one string wound around a hundred times.
+
+407
+00:17:31,000 --> 00:17:33,000
+You could have two strings each wound
+
+408
+00:17:33,000 --> 00:17:35,000
+the same way fifty times.
+
+409
+00:17:35,000 --> 00:17:38,000
+You could have a hundred strings each wound once,
+
+410
+00:17:38,000 --> 00:17:41,000
+and they can all communicate
+
+411
+00:17:41,000 --> 00:17:43,000
+in the sense that you can morph
+
+412
+00:17:43,000 --> 00:17:45,000
+from one configuration to the other,
+
+413
+00:17:45,000 --> 00:17:47,000
+but you can't change the winding number.
+
+414
+00:17:47,000 --> 00:17:51,000
+So winding number is an absolutely conserved quantity
+
+415
+00:17:51,000 --> 00:17:54,000
+in this kind of string theory.
+
+416
+00:17:54,000 --> 00:17:56,000
+It never can change.
+
+417
+00:17:56,000 --> 00:17:59,000
+Let's forget winding,
+
+418
+00:17:59,000 --> 00:18:00,000
+we're going to come back
+
+419
+00:18:00,000 --> 00:18:01,000
+to winding number in a moment.
+
+420
+00:18:01,000 --> 00:18:03,000
+Well, maybe we should discuss winding number.
+
+421
+00:18:03,000 --> 00:18:04,000
+Yeah, okay.
+
+422
+00:18:05,000 --> 00:18:06,000
+This one over here,
+
+423
+00:18:06,000 --> 00:18:07,000
+that can just be thought
+
+424
+00:18:07,000 --> 00:18:08,000
+of as a tiny little particle.
+
+425
+00:18:08,000 --> 00:18:10,000
+Let's just think of it as a little particle.
+
+426
+00:18:10,000 --> 00:18:11,000
+It's a string, but it's a particle.
+
+427
+00:18:11,000 --> 00:18:13,000
+What's it characterized by?
+
+428
+00:18:13,000 --> 00:18:16,000
+It's characterized by components of moment,
+
+429
+00:18:16,000 --> 00:18:17,000
+it's characterized by many things,
+
+430
+00:18:17,000 --> 00:18:19,000
+shape and all sorts of other things,
+
+431
+00:18:19,000 --> 00:18:21,000
+but in particular,
+
+432
+00:18:21,000 --> 00:18:25,000
+let's characterize it by its components of momentum.
+
+433
+00:18:25,000 --> 00:18:28,000
+In particular, the component of momentum
+
+434
+00:18:28,000 --> 00:18:31,000
+in the, um,
+
+435
+00:18:31,000 --> 00:18:33,000
+in the,
+
+436
+00:18:33,000 --> 00:18:35,000
+this direction over here.
+
+437
+00:18:35,000 --> 00:18:42,000
+The component of momentum in that direction
+
+438
+00:18:42,000 --> 00:18:44,000
+has to be an integer number,
+
+439
+00:18:44,000 --> 00:18:47,000
+let's call it n,
+
+440
+00:18:47,000 --> 00:18:51,000
+integer number of a quantum of momentum,
+
+441
+00:18:51,000 --> 00:18:53,000
+and the quantum of momentum
+
+442
+00:18:53,000 --> 00:18:55,000
+has to do with the circumference.
+
+443
+00:18:55,000 --> 00:18:58,000
+Let's just call it the radius around here, r.
+
+444
+00:18:58,000 --> 00:19:00,000
+Distance around here I'll call r.
+
+445
+00:19:00,000 --> 00:19:01,000
+It's a circumference strictly,
+
+446
+00:19:01,000 --> 00:19:03,000
+but I'm just going to call it r,
+
+447
+00:19:03,000 --> 00:19:04,000
+uh,
+
+448
+00:19:04,000 --> 00:19:07,000
+because r is the standard term for it.
+
+449
+00:19:07,000 --> 00:19:09,000
+Um,
+
+450
+00:19:09,000 --> 00:19:13,000
+the quantum of momentum in this direction,
+
+451
+00:19:13,000 --> 00:19:15,000
+and also incidentally,
+
+452
+00:19:15,000 --> 00:19:17,000
+the quantum of energy in that direction,
+
+453
+00:19:17,000 --> 00:19:21,000
+if these are massless particles,
+
+454
+00:19:21,000 --> 00:19:23,000
+energy and momentum are proportional to each other,
+
+455
+00:19:23,000 --> 00:19:25,000
+for example, if they were gravitons,
+
+456
+00:19:25,000 --> 00:19:28,000
+if they were gravitons moving this way or this way,
+
+457
+00:19:28,000 --> 00:19:30,000
+the energy
+
+458
+00:19:30,000 --> 00:19:33,000
+is also quantized in that unit,
+
+459
+00:19:33,000 --> 00:19:35,000
+and so,
+
+460
+00:19:35,000 --> 00:19:37,000
+the energy of the momentum is,
+
+461
+00:19:37,000 --> 00:19:39,000
+the momentum can have either sign,
+
+462
+00:19:39,000 --> 00:19:41,000
+it can be plus or minus,
+
+463
+00:19:41,000 --> 00:19:42,000
+the momentum,
+
+464
+00:19:42,000 --> 00:19:44,000
+the energy is always plus,
+
+465
+00:19:44,000 --> 00:19:45,000
+but the same amount,
+
+466
+00:19:45,000 --> 00:19:47,000
+n over r.
+
+467
+00:19:47,000 --> 00:19:49,000
+It has momentum,
+
+468
+00:19:49,000 --> 00:19:51,000
+n over r,
+
+469
+00:19:51,000 --> 00:19:53,000
+and it has an energy,
+
+470
+00:19:53,000 --> 00:19:55,000
+also n over r.
+
+471
+00:19:55,000 --> 00:19:57,000
+That's the, uh,
+
+472
+00:19:57,000 --> 00:19:58,000
+these are,
+
+473
+00:19:58,000 --> 00:20:00,000
+that's the n over r,
+
+474
+00:20:00,000 --> 00:20:01,000
+and that's the, uh,
+
+475
+00:20:01,000 --> 00:20:02,000
+that's the n over r,
+
+476
+00:20:02,000 --> 00:20:03,000
+and that's the n over r.
+
+477
+00:20:03,000 --> 00:20:06,000
+And that's the energy due to momentum,
+
+478
+00:20:06,000 --> 00:20:07,000
+and in particular,
+
+479
+00:20:07,000 --> 00:20:11,000
+momentum along the small direction here.
+
+480
+00:20:11,000 --> 00:20:14,000
+It's quantized.
+
+481
+00:20:14,000 --> 00:20:15,000
+So that's, uh,
+
+482
+00:20:15,000 --> 00:20:17,000
+that's unwound particles,
+
+483
+00:20:17,000 --> 00:20:22,000
+and the contribution of energy due to momentum.
+
+484
+00:20:22,000 --> 00:20:24,000
+Oh, let's think about now what,
+
+485
+00:20:24,000 --> 00:20:26,000
+uh,
+
+486
+00:20:26,000 --> 00:20:28,000
+yeah.
+
+487
+00:20:28,000 --> 00:20:30,000
+What is the momentum of,
+
+488
+00:20:30,000 --> 00:20:35,000
+what is the momentum of a string moving in space?
+
+489
+00:20:35,000 --> 00:20:38,000
+Basically, it's just the velocity
+
+490
+00:20:38,000 --> 00:20:40,000
+of the center of mass.
+
+491
+00:20:40,000 --> 00:20:42,000
+It's just the velocity of the center,
+
+492
+00:20:42,000 --> 00:20:43,000
+just like a rubber band,
+
+493
+00:20:43,000 --> 00:20:44,000
+just like a rubber band.
+
+494
+00:20:44,000 --> 00:20:46,000
+Its momentum
+
+495
+00:20:46,000 --> 00:20:48,000
+is its mass density,
+
+496
+00:20:48,000 --> 00:20:50,000
+which for simplicity we can take to be one,
+
+497
+00:20:50,000 --> 00:20:51,000
+uh,
+
+498
+00:20:51,000 --> 00:20:54,000
+times, uh,
+
+499
+00:20:54,000 --> 00:20:55,000
+it's just its mass,
+
+500
+00:20:55,000 --> 00:20:57,000
+which we can take to be one,
+
+501
+00:20:57,000 --> 00:20:58,000
+for a rubber band,
+
+502
+00:20:58,000 --> 00:21:00,000
+times its velocity,
+
+503
+00:21:00,000 --> 00:21:03,000
+so,
+
+504
+00:21:03,000 --> 00:21:06,000
+the velocity,
+
+505
+00:21:06,000 --> 00:21:08,000
+the momentum is proportional to the velocity,
+
+506
+00:21:08,000 --> 00:21:10,000
+and we can think of this as
+
+507
+00:21:10,000 --> 00:21:13,000
+the x d tau.
+
+508
+00:21:13,000 --> 00:21:19,000
+Tau is the time variable
+
+509
+00:21:19,000 --> 00:21:22,000
+that describes the motion of the string
+
+510
+00:21:22,000 --> 00:21:23,000
+in the quantum,
+
+511
+00:21:23,000 --> 00:21:25,000
+in the simple quantum mechanics of,
+
+512
+00:21:25,000 --> 00:21:28,000
+uh, that we've described previously.
+
+513
+00:21:28,000 --> 00:21:29,000
+And it's got to be,
+
+514
+00:21:29,000 --> 00:21:31,000
+it's got to be an integer multiples.
+
+515
+00:21:31,000 --> 00:21:34,000
+Now let's think about the wound strings,
+
+516
+00:21:34,000 --> 00:21:36,000
+the strings which are wound around.
+
+517
+00:21:36,000 --> 00:21:40,000
+What is the typical energy of a wound string?
+
+518
+00:21:40,000 --> 00:21:45,000
+Well, strings have a certain tension.
+
+519
+00:21:45,000 --> 00:21:47,000
+Let's just, uh, work in units
+
+520
+00:21:47,000 --> 00:21:49,000
+in which that tension is one,
+
+521
+00:21:49,000 --> 00:21:54,000
+but tension is energy per unit length.
+
+522
+00:21:54,000 --> 00:21:56,000
+So for energy per unit length,
+
+523
+00:21:56,000 --> 00:21:58,000
+if there's a given energy per unit length,
+
+524
+00:21:58,000 --> 00:22:02,000
+then the energy of a wound string
+
+525
+00:22:02,000 --> 00:22:05,000
+is not in divided by r,
+
+526
+00:22:05,000 --> 00:22:07,000
+but it's some other integer,
+
+527
+00:22:07,000 --> 00:22:10,000
+I'm going to call the other integer w,
+
+528
+00:22:10,000 --> 00:22:13,000
+w stands for winding number,
+
+529
+00:22:13,000 --> 00:22:16,000
+times r.
+
+530
+00:22:16,000 --> 00:22:18,000
+The energy of a collection of strings
+
+531
+00:22:18,000 --> 00:22:21,000
+which are wound around here
+
+532
+00:22:21,000 --> 00:22:27,000
+are the integer winding number times r,
+
+533
+00:22:27,000 --> 00:22:32,000
+whereas the energy of a string
+
+534
+00:22:32,000 --> 00:22:35,000
+which is not wound around the compact direction
+
+535
+00:22:35,000 --> 00:22:38,000
+is in divided by r.
+
+536
+00:22:38,000 --> 00:22:40,000
+So I think we talked about this last time,
+
+537
+00:22:40,000 --> 00:22:46,000
+but let's discuss it again a little bit.
+
+538
+00:22:46,000 --> 00:22:49,000
+Let's suppose that r is very small.
+
+539
+00:22:49,000 --> 00:22:51,000
+All right, here we have the spectrum
+
+540
+00:22:51,000 --> 00:22:55,000
+of the strings which are not wound.
+
+541
+00:22:55,000 --> 00:22:57,000
+The separation between the levels,
+
+542
+00:22:57,000 --> 00:22:59,000
+is large.
+
+543
+00:22:59,000 --> 00:23:02,000
+Large because one over r is large.
+
+544
+00:23:02,000 --> 00:23:08,000
+So it looks like this.
+
+545
+00:23:08,000 --> 00:23:13,000
+With the separation being of order one over r.
+
+546
+00:23:13,000 --> 00:23:16,000
+Here's n equals zero,
+
+547
+00:23:16,000 --> 00:23:19,000
+here's n equals one, and so forth.
+
+548
+00:23:19,000 --> 00:23:23,000
+Now let's look at the spectrum of the wound strings.
+
+549
+00:23:23,000 --> 00:23:26,000
+In other words, the energy levels of the wound strings,
+
+550
+00:23:26,000 --> 00:23:31,000
+those also come in integer multiples.
+
+551
+00:23:31,000 --> 00:23:33,000
+Zero.
+
+552
+00:23:33,000 --> 00:23:35,000
+Winding number one,
+
+553
+00:23:35,000 --> 00:23:37,000
+winding number two,
+
+554
+00:23:37,000 --> 00:23:39,000
+winding number minus one,
+
+555
+00:23:39,000 --> 00:23:41,000
+winding number minus two.
+
+556
+00:23:41,000 --> 00:23:45,000
+But now it's w times r,
+
+557
+00:23:45,000 --> 00:23:48,000
+so that means if r is large,
+
+558
+00:23:48,000 --> 00:23:49,500
+what did I say, r
+
+559
+00:23:49,500 --> 00:23:51,000
+is large or r is small?
+
+560
+00:23:51,000 --> 00:23:52,000
+I think I said r was small.
+
+561
+00:23:52,000 --> 00:23:54,000
+What did I say?
+
+562
+00:23:54,000 --> 00:23:55,000
+I said r is large or small?
+
+563
+00:23:55,000 --> 00:23:56,000
+r is small.
+
+564
+00:23:56,000 --> 00:23:57,000
+r is small.
+
+565
+00:23:57,000 --> 00:23:59,000
+Okay, so that makes the separation large here,
+
+566
+00:23:59,000 --> 00:24:01,000
+but it makes it very small here.
+
+567
+00:24:11,000 --> 00:24:13,000
+Now let's go to the other extreme.
+
+568
+00:24:13,000 --> 00:24:14,000
+I know that we talked about this before,
+
+569
+00:24:14,000 --> 00:24:16,000
+but I want to reiterate it again.
+
+570
+00:24:16,000 --> 00:24:17,000
+Let's go to the other extreme.
+
+571
+00:24:17,000 --> 00:24:20,000
+This is r much less than
+
+572
+00:24:20,000 --> 00:24:23,000
+some unit of length in string theory,
+
+573
+00:24:23,000 --> 00:24:25,000
+the natural unit of length in string theory.
+
+574
+00:24:25,000 --> 00:24:27,000
+Let's just call it one.
+
+575
+00:24:27,000 --> 00:24:31,000
+Here's r much bigger than one.
+
+576
+00:24:31,000 --> 00:24:33,000
+What do the energy levels look like?
+
+577
+00:24:33,000 --> 00:24:36,000
+Well, for r much bigger than one,
+
+578
+00:24:36,000 --> 00:24:39,000
+one over r is small,
+
+579
+00:24:39,000 --> 00:24:47,000
+and these excitations here are very close together.
+
+580
+00:24:47,000 --> 00:24:48,000
+What about these?
+
+581
+00:24:48,000 --> 00:24:50,000
+Here r is very large,
+
+582
+00:24:50,000 --> 00:24:53,000
+so it takes a large energy to wrap around.
+
+583
+00:24:55,000 --> 00:24:59,000
+They look like this.
+
+584
+00:24:59,000 --> 00:25:01,000
+Suppose all you knew,
+
+585
+00:25:01,000 --> 00:25:03,000
+all you could measure about these particles,
+
+586
+00:25:03,000 --> 00:25:09,000
+namely the things associated with the compact directions.
+
+587
+00:25:09,000 --> 00:25:10,500
+The only thing that you
+
+588
+00:25:10,500 --> 00:25:12,000
+can measure about the compact directions,
+
+589
+00:25:12,000 --> 00:25:13,000
+let's suppose,
+
+590
+00:25:13,000 --> 00:25:16,000
+was the energy of the particles.
+
+591
+00:25:16,000 --> 00:25:19,000
+And you're trying to figure out
+
+592
+00:25:19,000 --> 00:25:21,000
+what the radius of compactification,
+
+593
+00:25:21,000 --> 00:25:24,000
+that's known as the radius of compactification,
+
+594
+00:25:24,000 --> 00:25:27,000
+what is the radius of compactification?
+
+595
+00:25:27,000 --> 00:25:30,000
+Well,
+
+596
+00:25:30,000 --> 00:25:31,000
+your problem is,
+
+597
+00:25:31,000 --> 00:25:33,000
+how do you tell the difference
+
+598
+00:25:33,000 --> 00:25:36,000
+between particles which have energy
+
+599
+00:25:36,000 --> 00:25:38,000
+with respect to the compact direction
+
+600
+00:25:38,000 --> 00:25:40,000
+because they have momentum,
+
+601
+00:25:40,000 --> 00:25:43,000
+or because they have winding number?
+
+602
+00:25:43,000 --> 00:25:45,000
+You can't, obviously.
+
+603
+00:25:45,000 --> 00:25:48,000
+Just from the energy levels, you can't tell.
+
+604
+00:25:48,000 --> 00:25:50,000
+So,
+
+605
+00:25:50,000 --> 00:25:52,000
+with this particular spectrum,
+
+606
+00:25:52,000 --> 00:25:54,000
+there's an ambiguity.
+
+607
+00:25:54,000 --> 00:25:56,000
+Are you,
+
+608
+00:25:56,000 --> 00:25:59,000
+in the theory with a small compactification,
+
+609
+00:25:59,000 --> 00:26:03,000
+in which large separations between different momenta,
+
+610
+00:26:03,000 --> 00:26:06,000
+small separations between different winding number,
+
+611
+00:26:06,000 --> 00:26:08,000
+or are you in a world
+
+612
+00:26:08,000 --> 00:26:11,000
+with a very large radius of compactification,
+
+613
+00:26:11,000 --> 00:26:14,000
+and in which the role of winding number
+
+614
+00:26:14,000 --> 00:26:18,000
+and momentum has been interchanged?
+
+615
+00:26:18,000 --> 00:26:19,000
+You think, well,
+
+616
+00:26:19,000 --> 00:26:20,000
+maybe you can do a
+
+617
+00:26:20,000 --> 00:26:21,000
+lot of other kind of experiments,
+
+618
+00:26:21,000 --> 00:26:23,000
+maybe you could scatter these particles together,
+
+619
+00:26:23,000 --> 00:26:25,000
+see what comes off.
+
+620
+00:26:25,000 --> 00:26:28,000
+One of the very, very remarkable mathematical facts
+
+621
+00:26:28,000 --> 00:26:30,000
+about string theory
+
+622
+00:26:30,000 --> 00:26:32,000
+is that
+
+623
+00:26:32,000 --> 00:26:36,000
+the inability to tell which kind of world you're in
+
+624
+00:26:36,000 --> 00:26:39,000
+is rigorously correct
+
+625
+00:26:39,000 --> 00:26:43,000
+for everything that you can calculate about these strings.
+
+626
+00:26:43,000 --> 00:26:45,000
+Collisions between them,
+
+627
+00:26:45,000 --> 00:26:47,000
+that two different theories
+
+628
+00:26:47,000 --> 00:26:51,000
+with very different radii of compactification,
+
+629
+00:26:51,000 --> 00:26:53,000
+if you interchange winding
+
+630
+00:26:53,000 --> 00:26:56,000
+with, let's call it with momentum
+
+631
+00:26:56,000 --> 00:26:58,000
+around the compact direction,
+
+632
+00:26:58,000 --> 00:27:01,000
+the theories behave in exactly the same way.
+
+633
+00:27:04,000 --> 00:27:06,000
+So, conclusion.
+
+634
+00:27:08,000 --> 00:27:09,000
+In certain sense,
+
+635
+00:27:09,000 --> 00:27:12,000
+it doesn't make sense to think of the compactification
+
+636
+00:27:12,000 --> 00:27:15,000
+as smaller than a certain size.
+
+637
+00:27:15,000 --> 00:27:18,000
+There's a certain size where they cross over
+
+638
+00:27:18,000 --> 00:27:20,000
+and where they interchange,
+
+639
+00:27:20,000 --> 00:27:23,000
+and if the size of the compactification
+
+640
+00:27:23,000 --> 00:27:24,000
+is smaller than that,
+
+641
+00:27:24,000 --> 00:27:26,000
+it's just entirely equivalent
+
+642
+00:27:26,000 --> 00:27:28,000
+to a larger compactification
+
+643
+00:27:28,000 --> 00:27:33,000
+with winding and momentum interchanged.
+
+644
+00:27:33,000 --> 00:27:36,000
+Does that mean that the winding number
+
+645
+00:27:36,000 --> 00:27:38,000
+is a mathematical convenience
+
+646
+00:27:38,000 --> 00:27:40,000
+rather than a physical property?
+
+647
+00:27:40,000 --> 00:27:42,000
+Well, I don't know what to say.
+
+648
+00:27:42,000 --> 00:27:46,000
+It says that there's a symmetry.
+
+649
+00:27:46,000 --> 00:27:48,000
+It says there's a symmetry
+
+650
+00:27:48,000 --> 00:27:50,000
+and that there's...
+
+651
+00:27:50,000 --> 00:27:52,000
+Physicists use the term duality.
+
+652
+00:27:52,000 --> 00:27:54,000
+Which means an equivalence
+
+653
+00:27:54,000 --> 00:27:56,000
+between different descriptions
+
+654
+00:27:56,000 --> 00:27:58,000
+of the same thing.
+
+655
+00:27:58,000 --> 00:27:59,000
+Is there an R of interest
+
+656
+00:27:59,000 --> 00:28:01,000
+where these two things are the same?
+
+657
+00:28:01,000 --> 00:28:02,000
+Mm-hmm.
+
+658
+00:28:02,000 --> 00:28:05,000
+In some units, it's R equals one.
+
+659
+00:28:05,000 --> 00:28:09,000
+And there you have some extra special symmetry
+
+660
+00:28:09,000 --> 00:28:11,000
+that you...
+
+661
+00:28:11,000 --> 00:28:12,000
+Not only can't you tell
+
+662
+00:28:12,000 --> 00:28:13,000
+which kind of theory you're in,
+
+663
+00:28:13,000 --> 00:28:15,000
+but you can't tell which are which.
+
+664
+00:28:15,000 --> 00:28:18,000
+They're the same.
+
+665
+00:28:18,000 --> 00:28:20,000
+Yes.
+
+666
+00:28:20,000 --> 00:28:22,000
+There is a special point.
+
+667
+00:28:22,000 --> 00:28:28,000
+Now, I wrote an equation over here
+
+668
+00:28:28,000 --> 00:28:37,000
+that momentum is equal to dx d tau.
+
+669
+00:28:37,000 --> 00:28:39,000
+Let me make that a little more precise.
+
+670
+00:28:39,000 --> 00:28:44,000
+Every point on the string has a motion.
+
+671
+00:28:44,000 --> 00:28:47,000
+In particular, I'm thinking about the motion
+
+672
+00:28:47,000 --> 00:28:50,000
+around the compact direction.
+
+673
+00:28:50,000 --> 00:28:52,000
+But different parts of the string
+
+674
+00:28:52,000 --> 00:28:54,000
+should, in principle, be moving different
+
+675
+00:28:54,000 --> 00:28:56,000
+than other parts of the string.
+
+676
+00:28:58,000 --> 00:29:00,000
+It could be differentially moving
+
+677
+00:29:00,000 --> 00:29:01,000
+in different directions,
+
+678
+00:29:01,000 --> 00:29:03,000
+different speeds, and so forth.
+
+679
+00:29:03,000 --> 00:29:06,000
+The full momentum that we're talking about
+
+680
+00:29:06,000 --> 00:29:07,000
+when we talk about the momentum
+
+681
+00:29:07,000 --> 00:29:09,000
+is actually the sum of the momenta
+
+682
+00:29:09,000 --> 00:29:11,000
+of all the little bits of string.
+
+683
+00:29:13,000 --> 00:29:14,000
+You can either sum it
+
+684
+00:29:14,000 --> 00:29:15,000
+or you can think of it as an integral
+
+685
+00:29:15,000 --> 00:29:17,000
+over the entire string
+
+686
+00:29:17,000 --> 00:29:19,000
+of the velocity,
+
+687
+00:29:19,000 --> 00:29:21,000
+dx d tau.
+
+688
+00:29:21,000 --> 00:29:23,000
+And which x am I talking about?
+
+689
+00:29:23,000 --> 00:29:24,000
+I'm talking about y, actually,
+
+690
+00:29:24,000 --> 00:29:27,000
+the one that goes around the string,
+
+691
+00:29:27,000 --> 00:29:29,000
+the y d tau.
+
+692
+00:29:29,000 --> 00:29:33,000
+What about the winding number?
+
+693
+00:29:33,000 --> 00:29:35,000
+Anybody got a mathematical expression
+
+694
+00:29:35,000 --> 00:29:37,000
+for the winding number?
+
+695
+00:29:43,000 --> 00:29:46,000
+Imagine now a string
+
+696
+00:29:46,000 --> 00:29:48,000
+which is wound.
+
+697
+00:29:48,000 --> 00:29:50,000
+The simplest possibility
+
+698
+00:29:51,000 --> 00:29:53,000
+is that it's wound around here.
+
+699
+00:29:56,000 --> 00:29:58,000
+This is the y coordinate.
+
+700
+00:29:58,000 --> 00:30:00,000
+The y coordinate is periodic.
+
+701
+00:30:00,000 --> 00:30:02,000
+It comes back to itself.
+
+702
+00:30:02,000 --> 00:30:05,000
+But the string also has a sigma coordinate.
+
+703
+00:30:07,000 --> 00:30:09,000
+The string also has a sigma coordinate.
+
+704
+00:30:11,000 --> 00:30:13,000
+And that's embedded in the string.
+
+705
+00:30:13,000 --> 00:30:15,000
+If the string is wound
+
+706
+00:30:15,000 --> 00:30:17,000
+in this very simple way,
+
+707
+00:30:17,000 --> 00:30:19,000
+then another way of saying it
+
+708
+00:30:19,000 --> 00:30:21,000
+is that sigma is the number of points,
+
+709
+00:30:21,000 --> 00:30:24,000
+and sigma is proportional to y.
+
+710
+00:30:25,000 --> 00:30:28,000
+Actually, y divided by
+
+711
+00:30:28,000 --> 00:30:31,000
+the total radius of compactification,
+
+712
+00:30:31,000 --> 00:30:33,000
+I guess.
+
+713
+00:30:33,000 --> 00:30:35,000
+If y comes back to itself
+
+714
+00:30:35,000 --> 00:30:37,000
+after going distance r,
+
+715
+00:30:37,000 --> 00:30:39,000
+and sigma comes back to itself
+
+716
+00:30:39,000 --> 00:30:41,000
+after going around once,
+
+717
+00:30:41,000 --> 00:30:43,000
+then the right relationship is that
+
+718
+00:30:43,000 --> 00:30:45,000
+sigma is y over r.
+
+719
+00:30:45,000 --> 00:30:47,000
+It's just another way of saying
+
+720
+00:30:47,000 --> 00:30:49,000
+that as you go around sigma,
+
+721
+00:30:49,000 --> 00:30:51,000
+as you go around the rubber band,
+
+722
+00:30:51,000 --> 00:30:53,000
+the rubber band goes around
+
+723
+00:30:53,000 --> 00:30:55,000
+the y direction.
+
+724
+00:30:57,000 --> 00:30:59,000
+Well, now look at this.
+
+725
+00:30:59,000 --> 00:31:01,000
+Let's look at d sigma by dy.
+
+726
+00:31:05,000 --> 00:31:07,000
+That's just 1 over r.
+
+727
+00:31:11,000 --> 00:31:13,000
+d sigma by dy,
+
+728
+00:31:13,000 --> 00:31:15,000
+let's just take d sigma by dy.
+
+729
+00:31:15,000 --> 00:31:17,000
+d sigma by dy
+
+730
+00:31:17,000 --> 00:31:19,000
+is proportional
+
+731
+00:31:19,000 --> 00:31:21,000
+to the little spacing
+
+732
+00:31:21,000 --> 00:31:23,000
+between here and here,
+
+733
+00:31:23,000 --> 00:31:25,000
+and the total winding number
+
+734
+00:31:25,000 --> 00:31:27,000
+is the sum of the little bit
+
+735
+00:31:27,000 --> 00:31:29,000
+of d sigma by dy
+
+736
+00:31:29,000 --> 00:31:31,000
+as you go around the string.
+
+737
+00:31:31,000 --> 00:31:33,000
+In other words,
+
+738
+00:31:33,000 --> 00:31:35,000
+the winding number
+
+739
+00:31:35,000 --> 00:31:37,000
+actually, this is right.
+
+740
+00:31:37,000 --> 00:31:39,000
+The winding number
+
+741
+00:31:39,000 --> 00:31:41,000
+is the sum of the little bit
+
+742
+00:31:41,000 --> 00:31:43,000
+of d sigma by dy
+
+743
+00:31:43,000 --> 00:31:45,000
+as you go around the string.
+
+744
+00:31:45,000 --> 00:31:47,000
+r times this.
+
+745
+00:31:49,000 --> 00:31:51,000
+And the winding number
+
+746
+00:31:51,000 --> 00:31:53,000
+I believe is
+
+747
+00:31:53,000 --> 00:31:55,000
+I had an equation.
+
+748
+00:31:55,000 --> 00:31:57,000
+Where did it go?
+
+749
+00:32:01,000 --> 00:32:03,000
+y over r
+
+750
+00:32:05,000 --> 00:32:07,000
+is equal to sigma.
+
+751
+00:32:07,000 --> 00:32:09,000
+So d sigma by dy
+
+752
+00:32:09,000 --> 00:32:11,000
+is 1 over r.
+
+753
+00:32:11,000 --> 00:32:13,000
+is 1 over r.
+
+754
+00:32:15,000 --> 00:32:17,000
+The total winding number
+
+755
+00:32:17,000 --> 00:32:19,000
+is 1 over r
+
+756
+00:32:19,000 --> 00:32:21,000
+times the integral
+
+757
+00:32:21,000 --> 00:32:23,000
+dy by d sigma.
+
+758
+00:32:23,000 --> 00:32:25,000
+dy by d sigma.
+
+759
+00:32:33,000 --> 00:32:35,000
+Does this make sense
+
+760
+00:32:35,000 --> 00:32:37,000
+that the total winding number
+
+761
+00:32:37,000 --> 00:32:39,000
+what's the integral of a derivative?
+
+762
+00:32:43,000 --> 00:32:45,000
+Would you start with the y?
+
+763
+00:32:45,000 --> 00:32:47,000
+Usually the integral of a derivative
+
+764
+00:32:47,000 --> 00:32:49,000
+in lots of cases is just plain 0.
+
+765
+00:32:49,000 --> 00:32:51,000
+If a thing comes back to itself
+
+766
+00:32:51,000 --> 00:32:53,000
+when you go all the ways around.
+
+767
+00:32:53,000 --> 00:32:55,000
+But y doesn't come back to itself
+
+768
+00:32:55,000 --> 00:32:57,000
+when you go all the ways around.
+
+769
+00:32:57,000 --> 00:32:59,000
+y itself
+
+770
+00:32:59,000 --> 00:33:01,000
+changes by 2 pi.
+
+771
+00:33:03,000 --> 00:33:05,000
+So the integral dy by d sigma
+
+772
+00:33:05,000 --> 00:33:07,000
+is just the total number
+
+773
+00:33:07,000 --> 00:33:09,000
+of times that the string wraps
+
+774
+00:33:09,000 --> 00:33:11,000
+around that direction.
+
+775
+00:33:11,000 --> 00:33:13,000
+So this is kind of curious.
+
+776
+00:33:13,000 --> 00:33:15,000
+So this is kind of curious.
+
+777
+00:33:15,000 --> 00:33:17,000
+t duality
+
+778
+00:33:17,000 --> 00:33:19,000
+this funny duality between
+
+779
+00:33:19,000 --> 00:33:21,000
+winding number and momentum
+
+780
+00:33:21,000 --> 00:33:23,000
+is equivalent to interchanging
+
+781
+00:33:23,000 --> 00:33:25,000
+n and w,
+
+782
+00:33:25,000 --> 00:33:27,000
+interchanging r and 1 over r,
+
+783
+00:33:27,000 --> 00:33:29,000
+and interchanging dy by d tau
+
+784
+00:33:29,000 --> 00:33:31,000
+with dy by d sigma.
+
+785
+00:33:31,000 --> 00:33:33,000
+Funny mathematical construction.
+
+786
+00:33:37,000 --> 00:33:39,000
+Keep that in mind.
+
+787
+00:33:39,000 --> 00:33:41,000
+That t duality
+
+788
+00:33:41,000 --> 00:33:43,000
+is interchanging winding
+
+789
+00:33:43,000 --> 00:33:45,000
+and momentum,
+
+790
+00:33:45,000 --> 00:33:47,000
+interchanging r with 1 over r,
+
+791
+00:33:47,000 --> 00:33:49,000
+and interchanging the derivative
+
+792
+00:33:49,000 --> 00:33:51,000
+of y,
+
+793
+00:33:51,000 --> 00:33:53,000
+that's the position of the string,
+
+794
+00:33:53,000 --> 00:33:55,000
+dy by d tau
+
+795
+00:33:55,000 --> 00:33:57,000
+with dy by d sigma
+
+796
+00:33:57,000 --> 00:33:59,000
+where
+
+797
+00:33:59,000 --> 00:34:01,000
+yeah, dy by d tau
+
+798
+00:34:01,000 --> 00:34:03,000
+with dy by d sigma
+
+799
+00:34:03,000 --> 00:34:05,000
+derivative. This is partial derivative.
+
+800
+00:34:07,000 --> 00:34:09,000
+It's pretty abstract.
+
+801
+00:34:09,000 --> 00:34:11,000
+But this is an exact
+
+802
+00:34:11,000 --> 00:34:13,000
+symmetry of string theory.
+
+803
+00:34:13,000 --> 00:34:15,000
+If you make these interchanges,
+
+804
+00:34:15,000 --> 00:34:17,000
+nothing changes.
+
+805
+00:34:17,000 --> 00:34:19,000
+Say it once again.
+
+806
+00:34:19,000 --> 00:34:21,000
+If the symmetry is
+
+807
+00:34:21,000 --> 00:34:23,000
+dy by d tau
+
+808
+00:34:23,000 --> 00:34:25,000
+swap dy by d tau
+
+809
+00:34:25,000 --> 00:34:27,000
+Swap dy by d tau
+
+810
+00:34:27,000 --> 00:34:29,000
+for dy by d sigma.
+
+811
+00:34:29,000 --> 00:34:31,000
+Now, the reason I introduced this
+
+812
+00:34:31,000 --> 00:34:33,000
+we'll see why.
+
+813
+00:34:33,000 --> 00:34:35,000
+I didn't have to tell you this,
+
+814
+00:34:35,000 --> 00:34:37,000
+but I'm telling you now because
+
+815
+00:34:37,000 --> 00:34:39,000
+we're going to use it later.
+
+816
+00:34:39,000 --> 00:34:41,000
+Wouldn't that apply
+
+817
+00:34:41,000 --> 00:34:43,000
+a relationship between
+
+818
+00:34:43,000 --> 00:34:45,000
+tau and sigma?
+
+819
+00:34:45,000 --> 00:34:47,000
+No, it's not a relationship.
+
+820
+00:34:47,000 --> 00:34:49,000
+You interchange them.
+
+821
+00:34:49,000 --> 00:34:51,000
+Wherever you saw the expression
+
+822
+00:34:51,000 --> 00:34:53,000
+dy by d tau,
+
+823
+00:34:53,000 --> 00:34:55,000
+you replace it by the expression
+
+824
+00:34:55,000 --> 00:34:57,000
+dy by d sigma.
+
+825
+00:34:57,000 --> 00:34:59,000
+It's a weird thing to do,
+
+826
+00:34:59,000 --> 00:35:01,000
+but
+
+827
+00:35:01,000 --> 00:35:03,000
+in all
+
+828
+00:35:03,000 --> 00:35:05,000
+observable quantities,
+
+829
+00:35:05,000 --> 00:35:07,000
+scattering amplitudes, energy levels,
+
+830
+00:35:07,000 --> 00:35:09,000
+all of the properties of
+
+831
+00:35:09,000 --> 00:35:11,000
+string theory don't change
+
+832
+00:35:11,000 --> 00:35:13,000
+if you make those changes.
+
+833
+00:35:15,000 --> 00:35:17,000
+Let's talk about something else.
+
+834
+00:35:17,000 --> 00:35:19,000
+Why would the string
+
+835
+00:35:19,000 --> 00:35:21,000
+want to be
+
+836
+00:35:21,000 --> 00:35:23,000
+wound around the dimension?
+
+837
+00:35:23,000 --> 00:35:25,000
+They don't want anything.
+
+838
+00:35:25,000 --> 00:35:27,000
+Why would it ever
+
+839
+00:35:27,000 --> 00:35:29,000
+get in that state?
+
+840
+00:35:29,000 --> 00:35:31,000
+If it can be
+
+841
+00:35:31,000 --> 00:35:33,000
+in the other state?
+
+842
+00:35:35,000 --> 00:35:37,000
+Somebody may hit this string
+
+843
+00:35:37,000 --> 00:35:39,000
+over here with some energy.
+
+844
+00:35:39,000 --> 00:35:41,000
+Hitting it with some energy
+
+845
+00:35:41,000 --> 00:35:43,000
+among other things may stretch it out.
+
+846
+00:35:43,000 --> 00:35:45,000
+In fact, it may stretch out
+
+847
+00:35:45,000 --> 00:35:47,000
+to look like this.
+
+848
+00:35:55,000 --> 00:35:57,000
+You blast it with a lot of energy.
+
+849
+00:35:57,000 --> 00:35:59,000
+I've drawn a very neat
+
+850
+00:35:59,000 --> 00:36:01,000
+configuration over here, of course.
+
+851
+00:36:01,000 --> 00:36:03,000
+But if I blast it with
+
+852
+00:36:03,000 --> 00:36:05,000
+a lot of energy, it might be much more
+
+853
+00:36:05,000 --> 00:36:07,000
+complicated than that,
+
+854
+00:36:07,000 --> 00:36:09,000
+but still have this kind of
+
+855
+00:36:09,000 --> 00:36:11,000
+configuration.
+
+856
+00:36:11,000 --> 00:36:13,000
+Now, once you've done that,
+
+857
+00:36:13,000 --> 00:36:15,000
+and you take into account that
+
+858
+00:36:15,000 --> 00:36:17,000
+strings split and join,
+
+859
+00:36:17,000 --> 00:36:19,000
+then this can
+
+860
+00:36:19,000 --> 00:36:21,000
+separate itself into two
+
+861
+00:36:21,000 --> 00:36:23,000
+strings with opposite winding number.
+
+862
+00:36:23,000 --> 00:36:25,000
+Once you've
+
+863
+00:36:25,000 --> 00:36:27,000
+created two strings with opposite winding
+
+864
+00:36:27,000 --> 00:36:29,000
+number that are no longer connected,
+
+865
+00:36:29,000 --> 00:36:31,000
+they can separate from each other.
+
+866
+00:36:31,000 --> 00:36:33,000
+They can separate from each other,
+
+867
+00:36:33,000 --> 00:36:35,000
+and when they separate from each other,
+
+868
+00:36:35,000 --> 00:36:37,000
+well, then you've got an isolated
+
+869
+00:36:37,000 --> 00:36:39,000
+string with winding number one,
+
+870
+00:36:39,000 --> 00:36:40,000
+and another one that you can
+
+871
+00:36:40,000 --> 00:36:41,000
+just send off to Alpha Centauri
+
+872
+00:36:41,000 --> 00:36:43,000
+and never see it again.
+
+873
+00:36:43,000 --> 00:36:45,000
+The answer is,
+
+874
+00:36:45,000 --> 00:36:47,000
+that in general, you cannot prevent it
+
+875
+00:36:47,000 --> 00:36:49,000
+from happening. You may have to
+
+876
+00:36:49,000 --> 00:36:51,000
+in particular,
+
+877
+00:36:51,000 --> 00:36:53,000
+if the distance around here is large,
+
+878
+00:36:53,000 --> 00:36:55,000
+then it takes a large amount
+
+879
+00:36:55,000 --> 00:36:57,000
+of energy to create these
+
+880
+00:36:57,000 --> 00:36:59,000
+winding strings. Here it is.
+
+881
+00:36:59,000 --> 00:37:01,000
+The, uh, well, let's see, we...
+
+882
+00:37:01,000 --> 00:37:03,000
+Yeah.
+
+883
+00:37:03,000 --> 00:37:05,000
+The energy
+
+884
+00:37:05,000 --> 00:37:07,000
+itself was proportional to R
+
+885
+00:37:07,000 --> 00:37:09,000
+for winding number.
+
+886
+00:37:09,000 --> 00:37:11,000
+So, with a small
+
+887
+00:37:11,000 --> 00:37:13,000
+amount of energy, it's not going to happen.
+
+888
+00:37:13,000 --> 00:37:15,000
+You don't have enough energy
+
+889
+00:37:15,000 --> 00:37:17,000
+to stretch the string that far.
+
+890
+00:37:17,000 --> 00:37:19,000
+But, if you collide
+
+891
+00:37:19,000 --> 00:37:21,000
+two strings with a large amount
+
+892
+00:37:21,000 --> 00:37:23,000
+of energy, they splatter
+
+893
+00:37:23,000 --> 00:37:25,000
+all over the place, they stretch out
+
+894
+00:37:25,000 --> 00:37:27,000
+in wild and chaotic
+
+895
+00:37:27,000 --> 00:37:29,000
+directions, and there's
+
+896
+00:37:29,000 --> 00:37:31,000
+some probability that, uh,
+
+897
+00:37:31,000 --> 00:37:33,000
+that they'll reconnect.
+
+898
+00:37:33,000 --> 00:37:35,000
+It will not change the total winding
+
+899
+00:37:35,000 --> 00:37:37,000
+number, but it will take
+
+900
+00:37:37,000 --> 00:37:39,000
+a single string
+
+901
+00:37:39,000 --> 00:37:41,000
+or perhaps two strings which are
+
+902
+00:37:41,000 --> 00:37:43,000
+not wound, which collide with each other,
+
+903
+00:37:43,000 --> 00:37:45,000
+and convert out of them
+
+904
+00:37:45,000 --> 00:37:47,000
+something with, uh,
+
+905
+00:37:47,000 --> 00:37:49,000
+two strings of opposite winding
+
+906
+00:37:49,000 --> 00:37:51,000
+number. Once that happens,
+
+907
+00:37:51,000 --> 00:37:53,000
+they can separate and they go off.
+
+908
+00:37:53,000 --> 00:37:55,000
+So the answer is generally
+
+909
+00:37:55,000 --> 00:37:57,000
+that it will happen
+
+910
+00:37:57,000 --> 00:37:59,000
+in collisions if you don't
+
+911
+00:37:59,000 --> 00:38:01,000
+have it that way to begin with.
+
+912
+00:38:01,000 --> 00:38:03,000
+The same question occurs for electric charges.
+
+913
+00:38:05,000 --> 00:38:07,000
+If you start with a neutral world,
+
+914
+00:38:07,000 --> 00:38:09,000
+why
+
+915
+00:38:09,000 --> 00:38:11,000
+are there electrons?
+
+916
+00:38:11,000 --> 00:38:13,000
+Well, even if there weren't electrons,
+
+917
+00:38:13,000 --> 00:38:15,000
+there's got to be something to start with.
+
+918
+00:38:15,000 --> 00:38:17,000
+If there's nothing, there's nothing.
+
+919
+00:38:17,000 --> 00:38:19,000
+But maybe you just started with photons.
+
+920
+00:38:19,000 --> 00:38:21,000
+You take some photons,
+
+921
+00:38:21,000 --> 00:38:23,000
+you collide them together,
+
+922
+00:38:23,000 --> 00:38:25,000
+and what comes out is electrons
+
+923
+00:38:25,000 --> 00:38:27,000
+and positrons.
+
+924
+00:38:27,000 --> 00:38:29,000
+If you take the positrons and you throw them
+
+925
+00:38:29,000 --> 00:38:31,000
+away, you don't throw them away, but you push
+
+926
+00:38:31,000 --> 00:38:33,000
+them off to some distant place, you're left
+
+927
+00:38:33,000 --> 00:38:35,000
+with electrons. That's all.
+
+928
+00:38:35,000 --> 00:38:37,000
+So, um,
+
+929
+00:38:37,000 --> 00:38:39,000
+you can't have,
+
+930
+00:38:39,000 --> 00:38:41,000
+you can't forbid these things.
+
+931
+00:38:41,000 --> 00:38:43,000
+You can't forbid them,
+
+932
+00:38:43,000 --> 00:38:45,000
+and eventually you will create them.
+
+933
+00:38:45,000 --> 00:38:47,000
+Now, these winding numbers
+
+934
+00:38:47,000 --> 00:38:49,000
+and these momenta,
+
+935
+00:38:49,000 --> 00:38:51,000
+these momentum quantum numbers,
+
+936
+00:38:51,000 --> 00:38:53,000
+these quantized momentum,
+
+937
+00:38:53,000 --> 00:38:55,000
+are not only in some sense similar
+
+938
+00:38:55,000 --> 00:38:57,000
+to electric charge,
+
+939
+00:38:57,000 --> 00:38:59,000
+but they have all of the properties
+
+940
+00:38:59,000 --> 00:39:01,000
+of electric charge.
+
+941
+00:39:01,000 --> 00:39:03,000
+In particular,
+
+942
+00:39:03,000 --> 00:39:05,000
+two strings of opposite momentum,
+
+943
+00:39:05,000 --> 00:39:07,000
+one
+
+944
+00:39:07,000 --> 00:39:09,000
+is the opposite of the
+
+945
+00:39:09,000 --> 00:39:11,000
+electric charge,
+
+946
+00:39:11,000 --> 00:39:13,000
+and the other is the opposite of the
+
+947
+00:39:13,000 --> 00:39:15,000
+electric charge.
+
+948
+00:39:15,000 --> 00:39:17,000
+Two strings going around one,
+
+949
+00:39:17,000 --> 00:39:19,000
+can I do this? Let's see.
+
+950
+00:39:19,000 --> 00:39:21,000
+Oh yeah, I can do it.
+
+951
+00:39:21,000 --> 00:39:23,000
+Two strings going around the opposite way,
+
+952
+00:39:23,000 --> 00:39:25,000
+with respect
+
+953
+00:39:25,000 --> 00:39:27,000
+to the big dimensions of space.
+
+954
+00:39:27,000 --> 00:39:29,000
+So here they are.
+
+955
+00:39:29,000 --> 00:39:31,000
+Two strings,
+
+956
+00:39:31,000 --> 00:39:33,000
+these have the same, no, these have the same
+
+957
+00:39:33,000 --> 00:39:35,000
+winding number. Okay, that's easy, that's this.
+
+958
+00:39:35,000 --> 00:39:37,000
+Two strings with the same
+
+959
+00:39:37,000 --> 00:39:39,000
+winding number will repel.
+
+960
+00:39:39,000 --> 00:39:41,000
+I'll tell you why in a moment.
+
+961
+00:39:41,000 --> 00:39:43,000
+Two strings with
+
+962
+00:39:43,000 --> 00:39:45,000
+opposite winding number will attract.
+
+963
+00:39:45,000 --> 00:39:47,000
+What is this
+
+964
+00:39:47,000 --> 00:39:49,000
+attraction and repulsion?
+
+965
+00:39:49,000 --> 00:39:51,000
+This attraction and repulsion
+
+966
+00:39:51,000 --> 00:39:53,000
+actually corresponds to the
+
+967
+00:39:53,000 --> 00:39:55,000
+gravitational attraction and
+
+968
+00:39:55,000 --> 00:39:57,000
+repulsion of the higher dimensional
+
+969
+00:39:57,000 --> 00:39:59,000
+theory. If we live
+
+970
+00:39:59,000 --> 00:40:01,000
+in
+
+971
+00:40:01,000 --> 00:40:03,000
+a world of, let's say, three dimensions,
+
+972
+00:40:03,000 --> 00:40:05,000
+three space dimensions,
+
+973
+00:40:05,000 --> 00:40:07,000
+and we add in one more tiny
+
+974
+00:40:07,000 --> 00:40:09,000
+direction,
+
+975
+00:40:09,000 --> 00:40:11,000
+then strings which are
+
+976
+00:40:11,000 --> 00:40:13,000
+wound oppositely,
+
+977
+00:40:13,000 --> 00:40:15,000
+maybe in different places in
+
+978
+00:40:15,000 --> 00:40:17,000
+the big dimensions, different places
+
+979
+00:40:17,000 --> 00:40:19,000
+in space, we have a string wrapped
+
+980
+00:40:19,000 --> 00:40:21,000
+this way, we have a string wrapped that way,
+
+981
+00:40:21,000 --> 00:40:23,000
+they'll attract each other.
+
+982
+00:40:23,000 --> 00:40:25,000
+If they have opposite winding number,
+
+983
+00:40:25,000 --> 00:40:27,000
+they'll attract each other in our
+
+984
+00:40:27,000 --> 00:40:29,000
+ordinary three dimensional sense.
+
+985
+00:40:29,000 --> 00:40:31,000
+Likewise, if they
+
+986
+00:40:31,000 --> 00:40:33,000
+have the
+
+987
+00:40:33,000 --> 00:40:35,000
+same winding number,
+
+988
+00:40:35,000 --> 00:40:37,000
+they will repel each other.
+
+989
+00:40:37,000 --> 00:40:39,000
+So they behave like electrical charges.
+
+990
+00:40:45,000 --> 00:40:47,000
+Where does electrical repulsion
+
+991
+00:40:47,000 --> 00:40:49,000
+and attraction come from?
+
+992
+00:40:49,000 --> 00:40:51,000
+It comes from the electromagnetic field,
+
+993
+00:40:51,000 --> 00:40:53,000
+and of course the electromagnetic field
+
+994
+00:40:53,000 --> 00:40:55,000
+is deeply connected with photons
+
+995
+00:40:55,000 --> 00:40:57,000
+and so forth.
+
+996
+00:40:57,000 --> 00:40:59,000
+Where does this attraction come from?
+
+997
+00:40:59,000 --> 00:41:01,000
+And the answer is
+
+998
+00:41:01,000 --> 00:41:03,000
+it comes from gravitation.
+
+999
+00:41:03,000 --> 00:41:05,000
+But not gravitation
+
+1000
+00:41:05,000 --> 00:41:07,000
+in the four dimensional sense,
+
+1001
+00:41:07,000 --> 00:41:09,000
+but gravitation in the five
+
+1002
+00:41:09,000 --> 00:41:11,000
+dimensional sense, in the extra
+
+1003
+00:41:11,000 --> 00:41:13,000
+dimensional sense.
+
+1004
+00:41:13,000 --> 00:41:15,000
+In the theory of extra dimensions,
+
+1005
+00:41:15,000 --> 00:41:17,000
+the Einstein gravity
+
+1006
+00:41:17,000 --> 00:41:19,000
+in the extra dimensions
+
+1007
+00:41:19,000 --> 00:41:21,000
+manifests itself
+
+1008
+00:41:21,000 --> 00:41:23,000
+in the phenomenon
+
+1009
+00:41:23,000 --> 00:41:25,000
+of attraction
+
+1010
+00:41:25,000 --> 00:41:27,000
+between like momenta,
+
+1011
+00:41:27,000 --> 00:41:29,000
+nope, cross it out,
+
+1012
+00:41:29,000 --> 00:41:31,000
+attraction between opposite momenta
+
+1013
+00:41:31,000 --> 00:41:33,000
+in the compact direction,
+
+1014
+00:41:33,000 --> 00:41:35,000
+and repulsion
+
+1015
+00:41:35,000 --> 00:41:37,000
+of things with the same momenta.
+
+1016
+00:41:37,000 --> 00:41:39,000
+That's not obviously easy to see,
+
+1017
+00:41:39,000 --> 00:41:41,000
+I've told you this before,
+
+1018
+00:41:41,000 --> 00:41:43,000
+it's not something I'm telling you for the first time.
+
+1019
+00:41:43,000 --> 00:41:45,000
+And in fact, you can
+
+1020
+00:41:45,000 --> 00:41:47,000
+relate it to
+
+1021
+00:41:47,000 --> 00:41:49,000
+Einstein's field equations.
+
+1022
+00:41:49,000 --> 00:41:51,000
+Let's, uh, let's
+
+1023
+00:41:51,000 --> 00:41:53,000
+I'm not going to
+
+1024
+00:41:53,000 --> 00:41:55,000
+relate it to Einstein's field equations
+
+1025
+00:41:55,000 --> 00:41:57,000
+in any depth, I'm just going to
+
+1026
+00:41:57,000 --> 00:41:59,000
+discuss the origin
+
+1027
+00:41:59,000 --> 00:42:01,000
+of the electromagnetic
+
+1028
+00:42:01,000 --> 00:42:03,000
+field,
+
+1029
+00:42:03,000 --> 00:42:05,000
+or the analog electromagnetic field
+
+1030
+00:42:05,000 --> 00:42:07,000
+that's associated with this
+
+1031
+00:42:07,000 --> 00:42:09,000
+electrical type behavior of these particles.
+
+1032
+00:42:09,000 --> 00:42:11,000
+There must be something
+
+1033
+00:42:11,000 --> 00:42:13,000
+like an electric field, there must be something
+
+1034
+00:42:13,000 --> 00:42:15,000
+like a magnetic field if they're behaving so much
+
+1035
+00:42:15,000 --> 00:42:17,000
+like electrically charged particles.
+
+1036
+00:42:17,000 --> 00:42:19,000
+What is it?
+
+1037
+00:42:19,000 --> 00:42:21,000
+Okay, so
+
+1038
+00:42:21,000 --> 00:42:23,000
+first, just ordinary Maxwell equations.
+
+1039
+00:42:23,000 --> 00:42:25,000
+The electric and magnetic
+
+1040
+00:42:25,000 --> 00:42:27,000
+field are
+
+1041
+00:42:27,000 --> 00:42:29,000
+describable in terms of a vector
+
+1042
+00:42:29,000 --> 00:42:31,000
+potential, a four-dimensional vector
+
+1043
+00:42:31,000 --> 00:42:33,000
+potential, a
+
+1044
+00:42:33,000 --> 00:42:35,000
+mu.
+
+1045
+00:42:35,000 --> 00:42:37,000
+You build up
+
+1046
+00:42:37,000 --> 00:42:39,000
+the
+
+1047
+00:42:39,000 --> 00:42:41,000
+magnetic field as the curl
+
+1048
+00:42:41,000 --> 00:42:43,000
+of the vector potential
+
+1049
+00:42:43,000 --> 00:42:45,000
+and the
+
+1050
+00:42:45,000 --> 00:42:47,000
+electric field as related to the
+
+1051
+00:42:47,000 --> 00:42:49,000
+time derivative of the
+
+1052
+00:42:49,000 --> 00:42:51,000
+vector potential. It's a four
+
+1053
+00:42:51,000 --> 00:42:53,000
+vector, it has four components.
+
+1054
+00:42:53,000 --> 00:42:55,000
+Let's go
+
+1055
+00:42:55,000 --> 00:42:57,000
+to gravity
+
+1056
+00:42:57,000 --> 00:42:59,000
+in five dimensions.
+
+1057
+00:42:59,000 --> 00:43:01,000
+Gravity is described by
+
+1058
+00:43:01,000 --> 00:43:03,000
+a metric tensor.
+
+1059
+00:43:03,000 --> 00:43:05,000
+The metric tensor, let's call it
+
+1060
+00:43:05,000 --> 00:43:07,000
+G M N.
+
+1061
+00:43:09,000 --> 00:43:11,000
+Why don't I use mu and nu?
+
+1062
+00:43:13,000 --> 00:43:17,000
+I'm saving mu and nu for the four dimensions
+
+1063
+00:43:17,000 --> 00:43:19,000
+of ordinary space-time.
+
+1064
+00:43:19,000 --> 00:43:21,000
+But we're now talking about
+
+1065
+00:43:21,000 --> 00:43:23,000
+a five-dimensional world.
+
+1066
+00:43:23,000 --> 00:43:25,000
+So let's use for the five-dimensional world
+
+1067
+00:43:25,000 --> 00:43:27,000
+M and N.
+
+1068
+00:43:27,000 --> 00:43:29,000
+But what do M and N run over?
+
+1069
+00:43:29,000 --> 00:43:31,000
+They run over the ordinary
+
+1070
+00:43:31,000 --> 00:43:33,000
+dimensions of
+
+1071
+00:43:33,000 --> 00:43:35,000
+ordinary space-time
+
+1072
+00:43:35,000 --> 00:43:37,000
+plus one more direction.
+
+1073
+00:43:37,000 --> 00:43:39,000
+So we can write G M N
+
+1074
+00:43:39,000 --> 00:43:41,000
+as having various
+
+1075
+00:43:41,000 --> 00:43:43,000
+components. G mu
+
+1076
+00:43:43,000 --> 00:43:45,000
+nu, that's the ordinary
+
+1077
+00:43:45,000 --> 00:43:47,000
+dimensions.
+
+1078
+00:43:47,000 --> 00:43:49,000
+And then G
+
+1079
+00:43:49,000 --> 00:43:51,000
+mu
+
+1080
+00:43:51,000 --> 00:43:53,000
+five. Five is the
+
+1081
+00:43:53,000 --> 00:43:55,000
+fifth extra dimension.
+
+1082
+00:43:55,000 --> 00:43:57,000
+And then what else?
+
+1083
+00:43:57,000 --> 00:43:59,000
+G five
+
+1084
+00:43:59,000 --> 00:44:01,000
+five.
+
+1085
+00:44:01,000 --> 00:44:03,000
+Those are the components
+
+1086
+00:44:03,000 --> 00:44:05,000
+of the gravitational field.
+
+1087
+00:44:05,000 --> 00:44:07,000
+What about G five mu?
+
+1088
+00:44:07,000 --> 00:44:09,000
+I wrote G mu five. What about G
+
+1089
+00:44:09,000 --> 00:44:11,000
+five mu?
+
+1090
+00:44:11,000 --> 00:44:13,000
+Symmetric tensors.
+
+1091
+00:44:13,000 --> 00:44:15,000
+The same thing.
+
+1092
+00:44:15,000 --> 00:44:17,000
+These are the independent components
+
+1093
+00:44:17,000 --> 00:44:19,000
+of the gravitational field
+
+1094
+00:44:19,000 --> 00:44:21,000
+in five dimensions.
+
+1095
+00:44:21,000 --> 00:44:23,000
+Well, this one here,
+
+1096
+00:44:23,000 --> 00:44:25,000
+that's just a metric of four-dimensional
+
+1097
+00:44:25,000 --> 00:44:27,000
+space-time. So it's just a usual
+
+1098
+00:44:27,000 --> 00:44:29,000
+Einstein gravitational field.
+
+1099
+00:44:29,000 --> 00:44:31,000
+Nothing new there.
+
+1100
+00:44:31,000 --> 00:44:33,000
+Here we have something
+
+1101
+00:44:33,000 --> 00:44:35,000
+that has an index.
+
+1102
+00:44:35,000 --> 00:44:37,000
+It has a
+
+1103
+00:44:37,000 --> 00:44:39,000
+five index here, but the five index is
+
+1104
+00:44:39,000 --> 00:44:41,000
+this hidden direction. We can't see it.
+
+1105
+00:44:41,000 --> 00:44:43,000
+But it also has a mu index.
+
+1106
+00:44:43,000 --> 00:44:45,000
+Which means that it's a four
+
+1107
+00:44:45,000 --> 00:44:47,000
+vector. We would mistake
+
+1108
+00:44:47,000 --> 00:44:49,000
+this object for a four vector. It has
+
+1109
+00:44:49,000 --> 00:44:51,000
+four components. It's like a mu.
+
+1110
+00:44:53,000 --> 00:44:55,000
+Let's make that identification, because that's
+
+1111
+00:44:55,000 --> 00:44:57,000
+the correct identification.
+
+1112
+00:44:57,000 --> 00:44:59,000
+And what about G five five?
+
+1113
+00:44:59,000 --> 00:45:01,000
+That has
+
+1114
+00:45:01,000 --> 00:45:03,000
+no components
+
+1115
+00:45:03,000 --> 00:45:05,000
+in the usual four-dimensional sense.
+
+1116
+00:45:05,000 --> 00:45:07,000
+So it must be a scalar.
+
+1117
+00:45:07,000 --> 00:45:09,000
+That scalar is usually called
+
+1118
+00:45:09,000 --> 00:45:11,000
+phi. It's called a dilaton, or
+
+1119
+00:45:11,000 --> 00:45:13,000
+sometimes called a dilaton.
+
+1120
+00:45:13,000 --> 00:45:15,000
+But it's almost always called
+
+1121
+00:45:15,000 --> 00:45:17,000
+phi.
+
+1122
+00:45:17,000 --> 00:45:19,000
+What is G five five?
+
+1123
+00:45:19,000 --> 00:45:21,000
+It's the component of the metric
+
+1124
+00:45:21,000 --> 00:45:23,000
+around the fifth direction.
+
+1125
+00:45:23,000 --> 00:45:25,000
+It tells you how
+
+1126
+00:45:25,000 --> 00:45:27,000
+big the fifth direction is.
+
+1127
+00:45:29,000 --> 00:45:31,000
+If G five five is big,
+
+1128
+00:45:31,000 --> 00:45:33,000
+it's just a metric. It's the
+
+1129
+00:45:33,000 --> 00:45:35,000
+square of the distance around the fifth
+
+1130
+00:45:35,000 --> 00:45:37,000
+direction is what it is.
+
+1131
+00:45:37,000 --> 00:45:39,000
+If G five five is big,
+
+1132
+00:45:39,000 --> 00:45:41,000
+the fifth direction is big.
+
+1133
+00:45:41,000 --> 00:45:43,000
+If G five five is small, the fifth direction
+
+1134
+00:45:43,000 --> 00:45:45,000
+is small.
+
+1135
+00:45:45,000 --> 00:45:47,000
+The metric tensor in five
+
+1136
+00:45:47,000 --> 00:45:49,000
+dimensions is a field. It can vary
+
+1137
+00:45:49,000 --> 00:45:51,000
+from place to place.
+
+1138
+00:45:51,000 --> 00:45:53,000
+All of these things can vary from place to
+
+1139
+00:45:53,000 --> 00:45:55,000
+place. This is
+
+1140
+00:45:55,000 --> 00:45:57,000
+just the usual gravitational
+
+1141
+00:45:57,000 --> 00:45:59,000
+field varying from place to place. This
+
+1142
+00:45:59,000 --> 00:46:01,000
+becomes
+
+1143
+00:46:01,000 --> 00:46:03,000
+an analog of the electromagnetic
+
+1144
+00:46:03,000 --> 00:46:05,000
+field, which can vary from place to place.
+
+1145
+00:46:05,000 --> 00:46:07,000
+And this is a scalar, which can vary from
+
+1146
+00:46:07,000 --> 00:46:09,000
+place to place. But what does that scalar mean?
+
+1147
+00:46:09,000 --> 00:46:11,000
+That scalar
+
+1148
+00:46:11,000 --> 00:46:13,000
+is the size of the fifth direction.
+
+1149
+00:46:17,000 --> 00:46:19,000
+That can vary from place to place.
+
+1150
+00:46:19,000 --> 00:46:21,000
+Somebody asked me that before.
+
+1151
+00:46:21,000 --> 00:46:23,000
+And you can imagine waves in space
+
+1152
+00:46:23,000 --> 00:46:25,000
+where the waves
+
+1153
+00:46:25,000 --> 00:46:27,000
+of space are not waves of
+
+1154
+00:46:27,000 --> 00:46:29,000
+electromagnetism, they're not waves of gravity,
+
+1155
+00:46:29,000 --> 00:46:31,000
+they're waves of varying size
+
+1156
+00:46:31,000 --> 00:46:33,000
+for the fifth dimension.
+
+1157
+00:46:33,000 --> 00:46:35,000
+Okay, but
+
+1158
+00:46:35,000 --> 00:46:37,000
+nevertheless, the quiescent ordinary
+
+1159
+00:46:37,000 --> 00:46:39,000
+vacuum doesn't have
+
+1160
+00:46:39,000 --> 00:46:41,000
+such waves. It's fixed.
+
+1161
+00:46:41,000 --> 00:46:43,000
+But in general,
+
+1162
+00:46:43,000 --> 00:46:45,000
+the size can vary from
+
+1163
+00:46:45,000 --> 00:46:47,000
+place to place.
+
+1164
+00:46:47,000 --> 00:46:49,000
+Okay, this is an
+
+1165
+00:46:49,000 --> 00:46:51,000
+electromagnetic field.
+
+1166
+00:46:51,000 --> 00:46:53,000
+If this is an electromagnetic field,
+
+1167
+00:46:53,000 --> 00:46:55,000
+then it's
+
+1168
+00:46:55,000 --> 00:46:57,000
+also a gravitational field.
+
+1169
+00:46:57,000 --> 00:46:59,000
+And it's an analog
+
+1170
+00:46:59,000 --> 00:47:01,000
+electromagnetic field.
+
+1171
+00:47:01,000 --> 00:47:03,000
+Thought of as a gravitational field, what are the
+
+1172
+00:47:03,000 --> 00:47:05,000
+sources of gravitational field?
+
+1173
+00:47:05,000 --> 00:47:07,000
+There are things like
+
+1174
+00:47:07,000 --> 00:47:09,000
+energy and momentum. In
+
+1175
+00:47:09,000 --> 00:47:11,000
+particular, the sources
+
+1176
+00:47:11,000 --> 00:47:13,000
+of mixed components
+
+1177
+00:47:13,000 --> 00:47:15,000
+of a field like this are components of momentum.
+
+1178
+00:47:15,000 --> 00:47:17,000
+So the
+
+1179
+00:47:17,000 --> 00:47:19,000
+source of this component of
+
+1180
+00:47:19,000 --> 00:47:21,000
+the gravitational field is actually the
+
+1181
+00:47:21,000 --> 00:47:23,000
+momentum in the fifth
+
+1182
+00:47:23,000 --> 00:47:25,000
+direction, the flow of momentum
+
+1183
+00:47:25,000 --> 00:47:27,000
+in the fifth direction.
+
+1184
+00:47:27,000 --> 00:47:29,000
+That means that the
+
+1185
+00:47:29,000 --> 00:47:31,000
+source of
+
+1186
+00:47:31,000 --> 00:47:33,000
+this analog vector potential
+
+1187
+00:47:33,000 --> 00:47:35,000
+is going to be the
+
+1188
+00:47:35,000 --> 00:47:37,000
+component of momentum going around
+
+1189
+00:47:37,000 --> 00:47:39,000
+the fifth direction.
+
+1190
+00:47:39,000 --> 00:47:41,000
+Lesson?
+
+1191
+00:47:41,000 --> 00:47:43,000
+The momentum quantum number,
+
+1192
+00:47:43,000 --> 00:47:45,000
+the one, where is it?
+
+1193
+00:47:45,000 --> 00:47:47,000
+The momentum quantum number
+
+1194
+00:47:47,000 --> 00:47:49,000
+over here
+
+1195
+00:47:49,000 --> 00:47:51,000
+can be thought of
+
+1196
+00:47:51,000 --> 00:47:53,000
+as electric charge
+
+1197
+00:47:53,000 --> 00:47:55,000
+in an
+
+1198
+00:47:55,000 --> 00:47:57,000
+analog, what's that?
+
+1199
+00:47:57,000 --> 00:47:59,000
+In the
+
+1200
+00:47:59,000 --> 00:48:01,000
+theory in which the mu5 component
+
+1201
+00:48:01,000 --> 00:48:03,000
+of the gravitational
+
+1202
+00:48:03,000 --> 00:48:05,000
+field is the
+
+1203
+00:48:05,000 --> 00:48:07,000
+electromagnetic field. Electric charge,
+
+1204
+00:48:07,000 --> 00:48:09,000
+momentum, electric field,
+
+1205
+00:48:09,000 --> 00:48:11,000
+are
+
+1206
+00:48:11,000 --> 00:48:13,000
+component of the metric.
+
+1207
+00:48:13,000 --> 00:48:15,000
+Well,
+
+1208
+00:48:15,000 --> 00:48:17,000
+good, that's easy, that was
+
+1209
+00:48:17,000 --> 00:48:19,000
+easy.
+
+1210
+00:48:19,000 --> 00:48:21,000
+That was
+
+1211
+00:48:21,000 --> 00:48:23,000
+easy.
+
+1212
+00:48:23,000 --> 00:48:25,000
+What about, and of course
+
+1213
+00:48:25,000 --> 00:48:27,000
+we go a little bit further, and
+
+1214
+00:48:27,000 --> 00:48:29,000
+we can say that
+
+1215
+00:48:29,000 --> 00:48:31,000
+the
+
+1216
+00:48:31,000 --> 00:48:33,000
+electric, that the electric
+
+1217
+00:48:33,000 --> 00:48:35,000
+field is associated with the
+
+1218
+00:48:35,000 --> 00:48:37,000
+graviton, with the graviton
+
+1219
+00:48:37,000 --> 00:48:39,000
+itself. Okay,
+
+1220
+00:48:39,000 --> 00:48:41,000
+now let's come to the
+
+1221
+00:48:41,000 --> 00:48:43,000
+winding number.
+
+1222
+00:48:43,000 --> 00:48:45,000
+So I'm sorry,
+
+1223
+00:48:45,000 --> 00:48:47,000
+is phi then proportional to n, or?
+
+1224
+00:48:47,000 --> 00:48:49,000
+No.
+
+1225
+00:48:49,000 --> 00:48:51,000
+No.
+
+1226
+00:48:51,000 --> 00:48:53,000
+N,
+
+1227
+00:48:53,000 --> 00:48:55,000
+no,
+
+1228
+00:48:55,000 --> 00:48:57,000
+n is an integer.
+
+1229
+00:48:57,000 --> 00:48:59,000
+It's related to r.
+
+1230
+00:48:59,000 --> 00:49:01,000
+It's related to r.
+
+1231
+00:49:01,000 --> 00:49:03,000
+It's not quantized. It's related to the
+
+1232
+00:49:03,000 --> 00:49:05,000
+size of that dimension.
+
+1233
+00:49:05,000 --> 00:49:07,000
+And it can vary from place to place
+
+1234
+00:49:07,000 --> 00:49:09,000
+continuously and smoothly.
+
+1235
+00:49:09,000 --> 00:49:11,000
+Right?
+
+1236
+00:49:11,000 --> 00:49:13,000
+It's called a
+
+1237
+00:49:13,000 --> 00:49:15,000
+dilatant, and it's a
+
+1238
+00:49:15,000 --> 00:49:17,000
+wave field that, if string theory
+
+1239
+00:49:17,000 --> 00:49:19,000
+was right, should exist in some form or another.
+
+1240
+00:49:23,000 --> 00:49:25,000
+But in any case,
+
+1241
+00:49:25,000 --> 00:49:27,000
+it's part of the mathematics of
+
+1242
+00:49:27,000 --> 00:49:29,000
+string theory.
+
+1243
+00:49:29,000 --> 00:49:31,000
+Let's come to the
+
+1244
+00:49:31,000 --> 00:49:33,000
+winding number now. I told
+
+1245
+00:49:33,000 --> 00:49:35,000
+you that the winding number also behaves
+
+1246
+00:49:35,000 --> 00:49:37,000
+with this property that opposite
+
+1247
+00:49:37,000 --> 00:49:39,000
+winding numbers attract.
+
+1248
+00:49:41,000 --> 00:49:43,000
+Like winding numbers
+
+1249
+00:49:43,000 --> 00:49:45,000
+repel, they also
+
+1250
+00:49:45,000 --> 00:49:47,000
+behave like electric charges.
+
+1251
+00:49:47,000 --> 00:49:49,000
+But not the same
+
+1252
+00:49:49,000 --> 00:49:51,000
+kind of electric charge
+
+1253
+00:49:51,000 --> 00:49:53,000
+as the momentum quantum numbers.
+
+1254
+00:49:53,000 --> 00:49:55,000
+It's as if there were
+
+1255
+00:49:55,000 --> 00:49:57,000
+two kinds of electric fields,
+
+1256
+00:49:57,000 --> 00:49:59,000
+two kinds of electromagnetisms
+
+1257
+00:49:59,000 --> 00:50:01,000
+living
+
+1258
+00:50:01,000 --> 00:50:03,000
+side by side, two kinds
+
+1259
+00:50:03,000 --> 00:50:05,000
+of photons,
+
+1260
+00:50:05,000 --> 00:50:07,000
+two kinds of charges,
+
+1261
+00:50:07,000 --> 00:50:09,000
+winding number
+
+1262
+00:50:09,000 --> 00:50:11,000
+associated with something we could call
+
+1263
+00:50:11,000 --> 00:50:13,000
+winding photons,
+
+1264
+00:50:13,000 --> 00:50:15,000
+and
+
+1265
+00:50:15,000 --> 00:50:17,000
+momentum
+
+1266
+00:50:17,000 --> 00:50:19,000
+quantum number associated
+
+1267
+00:50:19,000 --> 00:50:21,000
+with momentum photons,
+
+1268
+00:50:21,000 --> 00:50:23,000
+but momentum photons are just
+
+1269
+00:50:23,000 --> 00:50:25,000
+a piece of the gravitational field.
+
+1270
+00:50:25,000 --> 00:50:27,000
+In other words, they're gravitons
+
+1271
+00:50:27,000 --> 00:50:29,000
+which are polarized along
+
+1272
+00:50:29,000 --> 00:50:31,000
+the mu-5 direction. So what
+
+1273
+00:50:31,000 --> 00:50:33,000
+are the
+
+1274
+00:50:33,000 --> 00:50:35,000
+field, what is the field
+
+1275
+00:50:35,000 --> 00:50:37,000
+or the analog of photons
+
+1276
+00:50:37,000 --> 00:50:39,000
+which
+
+1277
+00:50:39,000 --> 00:50:41,000
+is emitted and absorbed
+
+1278
+00:50:41,000 --> 00:50:43,000
+by winding number?
+
+1279
+00:50:43,000 --> 00:50:45,000
+Not by momentum, but by winding number.
+
+1280
+00:50:45,000 --> 00:50:47,000
+And here we know the answer.
+
+1281
+00:50:47,000 --> 00:50:49,000
+We'd have to go back
+
+1282
+00:50:49,000 --> 00:50:51,000
+several lectures,
+
+1283
+00:50:51,000 --> 00:50:53,000
+fairly early lectures,
+
+1284
+00:50:53,000 --> 00:50:55,000
+but let me remind you.
+
+1285
+00:50:55,000 --> 00:50:57,000
+This is probably
+
+1286
+00:50:57,000 --> 00:50:59,000
+something you've forgotten.
+
+1287
+00:50:59,000 --> 00:51:01,000
+I told you, but I don't think
+
+1288
+00:51:01,000 --> 00:51:03,000
+I stressed it very hard.
+
+1289
+00:51:03,000 --> 00:51:05,000
+Let's go back
+
+1290
+00:51:05,000 --> 00:51:07,000
+to the spectrum of closed
+
+1291
+00:51:07,000 --> 00:51:09,000
+strings. The closed strings
+
+1292
+00:51:09,000 --> 00:51:11,000
+what kind of states
+
+1293
+00:51:11,000 --> 00:51:13,000
+are there of closed strings?
+
+1294
+00:51:13,000 --> 00:51:15,000
+We start
+
+1295
+00:51:15,000 --> 00:51:17,000
+with the closed string
+
+1296
+00:51:17,000 --> 00:51:19,000
+being totally unexcited,
+
+1297
+00:51:19,000 --> 00:51:21,000
+and then what do we do with it?
+
+1298
+00:51:21,000 --> 00:51:23,000
+We excite
+
+1299
+00:51:23,000 --> 00:51:25,000
+oscillations on it. We excite
+
+1300
+00:51:25,000 --> 00:51:27,000
+oscillations with the creation and
+
+1301
+00:51:27,000 --> 00:51:29,000
+annihilation operators
+
+1302
+00:51:29,000 --> 00:51:31,000
+which create and excite
+
+1303
+00:51:31,000 --> 00:51:33,000
+waves on the string.
+
+1304
+00:51:33,000 --> 00:51:35,000
+They're not creation and annihilation operators
+
+1305
+00:51:35,000 --> 00:51:37,000
+for particles, they're creation and
+
+1306
+00:51:37,000 --> 00:51:39,000
+annihilation operators for waves
+
+1307
+00:51:39,000 --> 00:51:41,000
+moving along the string.
+
+1308
+00:51:41,000 --> 00:51:43,000
+These are closed strings.
+
+1309
+00:51:43,000 --> 00:51:45,000
+Let me just remind you
+
+1310
+00:51:45,000 --> 00:51:47,000
+what kind of operators there are.
+
+1311
+00:51:47,000 --> 00:51:49,000
+There are creation
+
+1312
+00:51:49,000 --> 00:51:51,000
+and annihilation operators.
+
+1313
+00:51:51,000 --> 00:51:53,000
+I'll just think about creation operators.
+
+1314
+00:51:53,000 --> 00:51:55,000
+And I won't put a little plus
+
+1315
+00:51:55,000 --> 00:51:57,000
+because we'll wind up with too many indices.
+
+1316
+00:51:57,000 --> 00:51:59,000
+A creates a unit
+
+1317
+00:51:59,000 --> 00:52:01,000
+of excitation.
+
+1318
+00:52:01,000 --> 00:52:03,000
+What labels it?
+
+1319
+00:52:03,000 --> 00:52:05,000
+Well, first of all, the A's
+
+1320
+00:52:05,000 --> 00:52:07,000
+are labeled by directions
+
+1321
+00:52:07,000 --> 00:52:09,000
+of space. Directions of space
+
+1322
+00:52:09,000 --> 00:52:11,000
+are perpendicular to the momentum
+
+1323
+00:52:11,000 --> 00:52:13,000
+of the object, of the string.
+
+1324
+00:52:13,000 --> 00:52:15,000
+So they're labeled by directions
+
+1325
+00:52:15,000 --> 00:52:17,000
+of space. Let's call it I.
+
+1326
+00:52:17,000 --> 00:52:19,000
+I
+
+1327
+00:52:19,000 --> 00:52:21,000
+can equal
+
+1328
+00:52:21,000 --> 00:52:23,000
+if the string is going down the
+
+1329
+00:52:23,000 --> 00:52:25,000
+z-axis, it can be
+
+1330
+00:52:25,000 --> 00:52:27,000
+x, it can be y,
+
+1331
+00:52:27,000 --> 00:52:29,000
+it can be x1,
+
+1332
+00:52:29,000 --> 00:52:31,000
+x2,
+
+1333
+00:52:31,000 --> 00:52:33,000
+or it can be a compact direction,
+
+1334
+00:52:33,000 --> 00:52:35,000
+y.
+
+1335
+00:52:35,000 --> 00:52:37,000
+So the I's vary over all the
+
+1336
+00:52:37,000 --> 00:52:39,000
+directions of space, including
+
+1337
+00:52:39,000 --> 00:52:41,000
+the ones which are wrapped up.
+
+1338
+00:52:41,000 --> 00:52:43,000
+That's one thing there.
+
+1339
+00:52:43,000 --> 00:52:45,000
+Now what's the other index that
+
+1340
+00:52:45,000 --> 00:52:47,000
+depends on?
+
+1341
+00:52:47,000 --> 00:52:49,000
+The frequency of the oscillator.
+
+1342
+00:52:49,000 --> 00:52:51,000
+And that was an integer,
+
+1343
+00:52:51,000 --> 00:52:53,000
+and it tells you how much energy
+
+1344
+00:52:53,000 --> 00:52:55,000
+when you create one of these oscillations.
+
+1345
+00:52:55,000 --> 00:52:57,000
+Creates an energy
+
+1346
+00:52:57,000 --> 00:52:59,000
+proportional to n.
+
+1347
+00:52:59,000 --> 00:53:01,000
+Alright, so n
+
+1348
+00:53:01,000 --> 00:53:03,000
+is related to the frequency.
+
+1349
+00:53:03,000 --> 00:53:05,000
+I
+
+1350
+00:53:05,000 --> 00:53:07,000
+is related to direction
+
+1351
+00:53:07,000 --> 00:53:09,000
+and space.
+
+1352
+00:53:09,000 --> 00:53:11,000
+And one more thing.
+
+1353
+00:53:11,000 --> 00:53:13,000
+Remember what it was? For closed strings.
+
+1354
+00:53:15,000 --> 00:53:17,000
+Whether the wave is propagating
+
+1355
+00:53:17,000 --> 00:53:19,000
+around the string. Remember, the
+
+1356
+00:53:19,000 --> 00:53:21,000
+string is oriented, there's little arrows.
+
+1357
+00:53:21,000 --> 00:53:23,000
+Whether the wave is going one way
+
+1358
+00:53:23,000 --> 00:53:25,000
+around the string or the other way around the string.
+
+1359
+00:53:25,000 --> 00:53:27,000
+I don't remember,
+
+1360
+00:53:27,000 --> 00:53:29,000
+does anybody remember how we labeled the two?
+
+1361
+00:53:29,000 --> 00:53:31,000
+Let's just call it left moving waves
+
+1362
+00:53:31,000 --> 00:53:33,000
+and right moving waves.
+
+1363
+00:53:35,000 --> 00:53:37,000
+A, I, N. And left and right
+
+1364
+00:53:37,000 --> 00:53:39,000
+here are purely some
+
+1365
+00:53:39,000 --> 00:53:41,000
+symbolic, they refer to
+
+1366
+00:53:41,000 --> 00:53:43,000
+the direction
+
+1367
+00:53:43,000 --> 00:53:45,000
+on the string, not left and right
+
+1368
+00:53:45,000 --> 00:53:47,000
+in real space.
+
+1369
+00:53:47,000 --> 00:53:49,000
+Okay, now there was a rule.
+
+1370
+00:53:49,000 --> 00:53:51,000
+I told you the rule, I called it
+
+1371
+00:53:51,000 --> 00:53:53,000
+level matching.
+
+1372
+00:53:53,000 --> 00:53:54,000
+It's a rule, I'm not
+
+1373
+00:53:54,000 --> 00:53:55,000
+going to go into the rule
+
+1374
+00:53:55,000 --> 00:53:56,000
+now, I think I explained it
+
+1375
+00:53:56,000 --> 00:53:57,000
+a little bit, what it had
+
+1376
+00:53:57,000 --> 00:53:59,000
+to do with, but it's a rule.
+
+1377
+00:53:59,000 --> 00:54:01,000
+And the rule is the amount of
+
+1378
+00:54:01,000 --> 00:54:03,000
+energy in left moving waves
+
+1379
+00:54:03,000 --> 00:54:05,000
+must equal
+
+1380
+00:54:05,000 --> 00:54:07,000
+the amount of energy in right moving waves.
+
+1381
+00:54:07,000 --> 00:54:09,000
+That's a fundamental rule,
+
+1382
+00:54:09,000 --> 00:54:11,000
+the rule of string theory, the mathematics
+
+1383
+00:54:11,000 --> 00:54:13,000
+goes to hell in a hand basket if you
+
+1384
+00:54:13,000 --> 00:54:15,000
+violate it.
+
+1385
+00:54:15,000 --> 00:54:17,000
+And so let's see what kind of states
+
+1386
+00:54:17,000 --> 00:54:19,000
+we have. We can first of all have the state
+
+1387
+00:54:19,000 --> 00:54:21,000
+with no energy in it at all.
+
+1388
+00:54:21,000 --> 00:54:23,000
+That's a tachyon.
+
+1389
+00:54:23,000 --> 00:54:25,000
+It's not there in super string theory, but
+
+1390
+00:54:25,000 --> 00:54:27,000
+in the simple versions of the string
+
+1391
+00:54:27,000 --> 00:54:29,000
+theory, and it has minus
+
+1392
+00:54:29,000 --> 00:54:31,000
+two units of energy. We work
+
+1393
+00:54:31,000 --> 00:54:33,000
+that out. Minus two
+
+1394
+00:54:33,000 --> 00:54:35,000
+units of energy, and it's a tachyon.
+
+1395
+00:54:35,000 --> 00:54:37,000
+Bad thing, we don't want it.
+
+1396
+00:54:37,000 --> 00:54:39,000
+What's the first excitation?
+
+1397
+00:54:39,000 --> 00:54:41,000
+What's the next
+
+1398
+00:54:41,000 --> 00:54:43,000
+energy up? Well,
+
+1399
+00:54:43,000 --> 00:54:45,000
+the next energy up is to hit it with
+
+1400
+00:54:45,000 --> 00:54:47,000
+the lowest frequency
+
+1401
+00:54:47,000 --> 00:54:49,000
+oscillator to excite
+
+1402
+00:54:49,000 --> 00:54:51,000
+one unit of energy
+
+1403
+00:54:51,000 --> 00:54:53,000
+with n equals one.
+
+1404
+00:54:53,000 --> 00:54:55,000
+So, for example, we could
+
+1405
+00:54:55,000 --> 00:54:57,000
+hit it with a
+
+1406
+00:54:57,000 --> 00:54:59,000
+i, i can be
+
+1407
+00:54:59,000 --> 00:55:01,000
+any one of the directions of space,
+
+1408
+00:55:01,000 --> 00:55:03,000
+one,
+
+1409
+00:55:03,000 --> 00:55:05,000
+the lowest oscillator,
+
+1410
+00:55:05,000 --> 00:55:07,000
+left,
+
+1411
+00:55:07,000 --> 00:55:09,000
+or
+
+1412
+00:55:09,000 --> 00:55:11,000
+a1
+
+1413
+00:55:11,000 --> 00:55:13,000
+i right
+
+1414
+00:55:13,000 --> 00:55:15,000
+o.
+
+1415
+00:55:15,000 --> 00:55:17,000
+But neither of these states
+
+1416
+00:55:17,000 --> 00:55:19,000
+are a legitimate
+
+1417
+00:55:19,000 --> 00:55:21,000
+option. And the reason
+
+1418
+00:55:21,000 --> 00:55:23,000
+is because this one has one unit of
+
+1419
+00:55:23,000 --> 00:55:25,000
+left moving energy and no units of right
+
+1420
+00:55:25,000 --> 00:55:27,000
+moving energy. This one has one
+
+1421
+00:55:27,000 --> 00:55:29,000
+unit of right moving energy and no units
+
+1422
+00:55:29,000 --> 00:55:31,000
+of left moving energy, and so it doesn't
+
+1423
+00:55:31,000 --> 00:55:33,000
+satisfy this principle that the amount
+
+1424
+00:55:33,000 --> 00:55:35,000
+of energy in left and right have to balance.
+
+1425
+00:55:35,000 --> 00:55:37,000
+Okay, so these are gone.
+
+1426
+00:55:37,000 --> 00:55:39,000
+They're not there.
+
+1427
+00:55:39,000 --> 00:55:41,000
+What's the next thing up?
+
+1428
+00:55:41,000 --> 00:55:43,000
+The next thing up is to
+
+1429
+00:55:43,000 --> 00:55:45,000
+apply
+
+1430
+00:55:45,000 --> 00:55:47,000
+two units of the
+
+1431
+00:55:47,000 --> 00:55:49,000
+lowest oscillator,
+
+1432
+00:55:49,000 --> 00:55:51,000
+one left and one right,
+
+1433
+00:55:51,000 --> 00:55:53,000
+to make sure that you have balanced energy going
+
+1434
+00:55:53,000 --> 00:55:55,000
+left and right.
+
+1435
+00:55:55,000 --> 00:55:57,000
+And that means a i
+
+1436
+00:55:57,000 --> 00:55:59,000
+one
+
+1437
+00:55:59,000 --> 00:56:01,000
+left
+
+1438
+00:56:01,000 --> 00:56:03,000
+times a j
+
+1439
+00:56:03,000 --> 00:56:05,000
+one right.
+
+1440
+00:56:05,000 --> 00:56:07,000
+i and j
+
+1441
+00:56:07,000 --> 00:56:09,000
+are two directions of space.
+
+1442
+00:56:09,000 --> 00:56:11,000
+Okay, they are
+
+1443
+00:56:11,000 --> 00:56:13,000
+the two directions of space.
+
+1444
+00:56:15,000 --> 00:56:17,000
+For simplicity,
+
+1445
+00:56:17,000 --> 00:56:19,000
+let's imagine the directions of space
+
+1446
+00:56:19,000 --> 00:56:21,000
+are the usual three directions
+
+1447
+00:56:21,000 --> 00:56:23,000
+of space plus one more,
+
+1448
+00:56:23,000 --> 00:56:25,000
+namely the fifth direction,
+
+1449
+00:56:25,000 --> 00:56:27,000
+the thing that I called y here.
+
+1450
+00:56:27,000 --> 00:56:29,000
+One more direction of space.
+
+1451
+00:56:31,000 --> 00:56:33,000
+The one more, and we apply this of course
+
+1452
+00:56:33,000 --> 00:56:35,000
+to the vacuum.
+
+1453
+00:56:37,000 --> 00:56:39,000
+These are the things we identified with
+
+1454
+00:56:39,000 --> 00:56:41,000
+graviton and other massless
+
+1455
+00:56:41,000 --> 00:56:43,000
+particles
+
+1456
+00:56:43,000 --> 00:56:45,000
+with polarizations
+
+1457
+00:56:45,000 --> 00:56:47,000
+that have to do with i and j.
+
+1458
+00:56:47,000 --> 00:56:49,000
+Well,
+
+1459
+00:56:49,000 --> 00:56:51,000
+there is something
+
+1460
+00:56:51,000 --> 00:56:53,000
+new when we add this fifth
+
+1461
+00:56:53,000 --> 00:56:55,000
+direction.
+
+1462
+00:56:55,000 --> 00:56:57,000
+One or both of these indices
+
+1463
+00:56:57,000 --> 00:56:59,000
+can now be in the fifth direction.
+
+1464
+00:57:01,000 --> 00:57:03,000
+Earlier,
+
+1465
+00:57:03,000 --> 00:57:05,000
+before we discussed the fifth direction,
+
+1466
+00:57:05,000 --> 00:57:07,000
+i and j could only be ordinary directions
+
+1467
+00:57:07,000 --> 00:57:09,000
+of space, and these
+
+1468
+00:57:09,000 --> 00:57:11,000
+corresponded to gravitons
+
+1469
+00:57:11,000 --> 00:57:13,000
+which have polarizations
+
+1470
+00:57:13,000 --> 00:57:15,000
+which are like photons,
+
+1471
+00:57:15,000 --> 00:57:17,000
+they have polarizations, and the polarization
+
+1472
+00:57:17,000 --> 00:57:19,000
+is characterized by two directions
+
+1473
+00:57:19,000 --> 00:57:21,000
+of space.
+
+1474
+00:57:21,000 --> 00:57:23,000
+But now we have something new.
+
+1475
+00:57:23,000 --> 00:57:25,000
+We can have i be the ordinary direction
+
+1476
+00:57:25,000 --> 00:57:27,000
+of space,
+
+1477
+00:57:27,000 --> 00:57:29,000
+and this one being the fifth direction of space.
+
+1478
+00:57:29,000 --> 00:57:31,000
+The internal direction,
+
+1479
+00:57:31,000 --> 00:57:33,000
+the small direction.
+
+1480
+00:57:33,000 --> 00:57:35,000
+Okay, now we have something
+
+1481
+00:57:35,000 --> 00:57:37,000
+which has a vector index.
+
+1482
+00:57:37,000 --> 00:57:39,000
+The fifth direction
+
+1483
+00:57:39,000 --> 00:57:41,000
+here, we don't even call that a direction
+
+1484
+00:57:41,000 --> 00:57:43,000
+of space normally,
+
+1485
+00:57:43,000 --> 00:57:45,000
+and so it has the same kind
+
+1486
+00:57:45,000 --> 00:57:47,000
+of index structure
+
+1487
+00:57:47,000 --> 00:57:49,000
+that a photon would have.
+
+1488
+00:57:51,000 --> 00:57:53,000
+This is like a photon.
+
+1489
+00:57:53,000 --> 00:57:55,000
+It has a polarization,
+
+1490
+00:57:55,000 --> 00:57:57,000
+let's say moving down the z-axis,
+
+1491
+00:57:57,000 --> 00:57:59,000
+this could be polarized either x or y,
+
+1492
+00:57:59,000 --> 00:58:01,000
+or however many dimensions
+
+1493
+00:58:01,000 --> 00:58:03,000
+we have to worry about,
+
+1494
+00:58:03,000 --> 00:58:05,000
+and this is very similar to a photon.
+
+1495
+00:58:05,000 --> 00:58:07,000
+But there are two ways to do it.
+
+1496
+00:58:07,000 --> 00:58:09,000
+You could have this one being left
+
+1497
+00:58:09,000 --> 00:58:11,000
+and this one being right,
+
+1498
+00:58:11,000 --> 00:58:13,000
+or you can have
+
+1499
+00:58:13,000 --> 00:58:15,000
+a i 1 right,
+
+1500
+00:58:15,000 --> 00:58:17,000
+a 1 5 left.
+
+1501
+00:58:17,000 --> 00:58:19,000
+There are two possibilities now,
+
+1502
+00:58:19,000 --> 00:58:21,000
+and it seems like that means
+
+1503
+00:58:21,000 --> 00:58:23,000
+that there are two kinds of particles
+
+1504
+00:58:23,000 --> 00:58:25,000
+that behave like photons,
+
+1505
+00:58:25,000 --> 00:58:27,000
+that are similar to photons.
+
+1506
+00:58:27,000 --> 00:58:29,000
+So, let's say
+
+1507
+00:58:29,000 --> 00:58:31,000
+that there are two kinds of particles
+
+1508
+00:58:31,000 --> 00:58:33,000
+that behave like photons,
+
+1509
+00:58:33,000 --> 00:58:35,000
+that are similar to photons.
+
+1510
+00:58:35,000 --> 00:58:37,000
+The correct thing to do is
+
+1511
+00:58:37,000 --> 00:58:39,000
+to add them and subtract them
+
+1512
+00:58:39,000 --> 00:58:41,000
+in the sense of quantum mechanics
+
+1513
+00:58:41,000 --> 00:58:43,000
+to linear superpositions,
+
+1514
+00:58:43,000 --> 00:58:45,000
+but whatever there is,
+
+1515
+00:58:45,000 --> 00:58:47,000
+there's going to be two types of objects
+
+1516
+00:58:47,000 --> 00:58:49,000
+which have the index structure
+
+1517
+00:58:49,000 --> 00:58:51,000
+of a photon.
+
+1518
+00:58:51,000 --> 00:58:53,000
+There's going to be two kinds of photon fields.
+
+1519
+00:58:53,000 --> 00:58:55,000
+The one with the sum,
+
+1520
+00:58:55,000 --> 00:58:57,000
+that's identified with ordinary
+
+1521
+00:58:57,000 --> 00:58:59,000
+graviton moving down the z-axis.
+
+1522
+00:58:59,000 --> 00:59:01,000
+The other one
+
+1523
+00:59:01,000 --> 00:59:03,000
+is identified
+
+1524
+00:59:03,000 --> 00:59:05,000
+with another field
+
+1525
+00:59:05,000 --> 00:59:07,000
+a separate field
+
+1526
+00:59:07,000 --> 00:59:09,000
+that also has
+
+1527
+00:59:09,000 --> 00:59:11,000
+a structure similar to a photon
+
+1528
+00:59:11,000 --> 00:59:13,000
+and guess what it is connected with?
+
+1529
+00:59:13,000 --> 00:59:15,000
+It is the field,
+
+1530
+00:59:15,000 --> 00:59:17,000
+the electromagnetic-like field
+
+1531
+00:59:17,000 --> 00:59:19,000
+whose sources are what?
+
+1532
+00:59:19,000 --> 00:59:21,000
+Winding number.
+
+1533
+00:59:21,000 --> 00:59:23,000
+So one linear combination
+
+1534
+00:59:23,000 --> 00:59:25,000
+is associated with momentum
+
+1535
+00:59:25,000 --> 00:59:27,000
+and one linear combination
+
+1536
+00:59:27,000 --> 00:59:29,000
+is associated with
+
+1537
+00:59:29,000 --> 00:59:31,000
+winding number.
+
+1538
+00:59:31,000 --> 00:59:33,000
+These two things work together
+
+1539
+00:59:33,000 --> 00:59:35,000
+and they're not linked.
+
+1540
+00:59:35,000 --> 00:59:37,000
+One of them is associated with gravitons
+
+1541
+00:59:37,000 --> 00:59:39,000
+which are
+
+1542
+00:59:39,000 --> 00:59:41,000
+the field quanta
+
+1543
+00:59:41,000 --> 00:59:43,000
+of the gravitational field
+
+1544
+00:59:43,000 --> 00:59:45,000
+and the other one
+
+1545
+00:59:45,000 --> 00:59:47,000
+is associated with something called
+
+1546
+00:59:47,000 --> 00:59:49,000
+B mu nu
+
+1547
+00:59:49,000 --> 00:59:51,000
+which is different than the graviton
+
+1548
+00:59:51,000 --> 00:59:53,000
+different properties
+
+1549
+00:59:53,000 --> 00:59:55,000
+but also
+
+1550
+00:59:55,000 --> 00:59:57,000
+gives rise
+
+1551
+00:59:57,000 --> 00:59:59,000
+its mixed component
+
+1552
+00:59:59,000 --> 01:00:01,000
+is also like a photon.
+
+1553
+01:00:01,000 --> 01:00:03,000
+So here's what we can say now.
+
+1554
+01:00:03,000 --> 01:00:05,000
+What is T-duality?
+
+1555
+01:00:05,000 --> 01:00:07,000
+And this is a field.
+
+1556
+01:00:07,000 --> 01:00:09,000
+This is a field
+
+1557
+01:00:09,000 --> 01:00:11,000
+which exists in string theory
+
+1558
+01:00:11,000 --> 01:00:13,000
+called the Ramond
+
+1559
+01:00:13,000 --> 01:00:15,000
+the Kalb-Ramond field
+
+1560
+01:00:15,000 --> 01:00:17,000
+not important what it's called
+
+1561
+01:00:17,000 --> 01:00:19,000
+it is another field
+
+1562
+01:00:19,000 --> 01:00:21,000
+which appears in string theory.
+
+1563
+01:00:21,000 --> 01:00:23,000
+Which one is the singlet
+
+1564
+01:00:23,000 --> 01:00:25,000
+and which one is the triplet?
+
+1565
+01:00:25,000 --> 01:00:27,000
+Which is the singlet
+
+1566
+01:00:27,000 --> 01:00:29,000
+and which is the triplet?
+
+1567
+01:00:29,000 --> 01:00:31,000
+Oh no no no no no no no
+
+1568
+01:00:31,000 --> 01:00:33,000
+wait a minute
+
+1569
+01:00:33,000 --> 01:00:35,000
+both of these are polarized like photons.
+
+1570
+01:00:35,000 --> 01:00:37,000
+There's one more
+
+1571
+01:00:37,000 --> 01:00:39,000
+nobody asked me about
+
+1572
+01:00:39,000 --> 01:00:41,000
+what about A5-5
+
+1573
+01:00:41,000 --> 01:00:43,000
+A5-A5
+
+1574
+01:00:43,000 --> 01:00:45,000
+left-right
+
+1575
+01:00:45,000 --> 01:00:47,000
+that one's the one that behaves like the scalar
+
+1576
+01:00:47,000 --> 01:00:49,000
+that's the one
+
+1577
+01:00:49,000 --> 01:00:51,000
+associated
+
+1578
+01:00:51,000 --> 01:00:53,000
+whose field quanta
+
+1579
+01:00:53,000 --> 01:00:55,000
+these are the field quanta
+
+1580
+01:00:55,000 --> 01:00:57,000
+of this one over here
+
+1581
+01:00:57,000 --> 01:00:59,000
+okay
+
+1582
+01:00:59,000 --> 01:01:01,000
+namely the radius of the
+
+1583
+01:01:01,000 --> 01:01:03,000
+of the compact direction
+
+1584
+01:01:03,000 --> 01:01:05,000
+They're all here
+
+1585
+01:01:05,000 --> 01:01:07,000
+which one corresponded to
+
+1586
+01:01:07,000 --> 01:01:09,000
+the winding number
+
+1587
+01:01:09,000 --> 01:01:11,000
+the other corresponded
+
+1588
+01:01:11,000 --> 01:01:13,000
+the one with the plus sign corresponds to momentum
+
+1589
+01:01:13,000 --> 01:01:15,000
+and that's the one that's associated with gravitons
+
+1590
+01:01:15,000 --> 01:01:17,000
+the one with the minus sign
+
+1591
+01:01:17,000 --> 01:01:19,000
+is associated with
+
+1592
+01:01:19,000 --> 01:01:21,000
+with the winding number
+
+1593
+01:01:21,000 --> 01:01:23,000
+yeah
+
+1594
+01:01:23,000 --> 01:01:25,000
+okay so now we have a more complete
+
+1595
+01:01:25,000 --> 01:01:27,000
+idea of about T-duality
+
+1596
+01:01:27,000 --> 01:01:29,000
+it involves
+
+1597
+01:01:29,000 --> 01:01:31,000
+momentum being interchanged
+
+1598
+01:01:31,000 --> 01:01:33,000
+with winding number
+
+1599
+01:01:33,000 --> 01:01:35,000
+it involves R being
+
+1600
+01:01:35,000 --> 01:01:37,000
+interchanged with one over R
+
+1601
+01:01:37,000 --> 01:01:39,000
+it involves
+
+1602
+01:01:39,000 --> 01:01:41,000
+replacing the x by d sigma
+
+1603
+01:01:41,000 --> 01:01:43,000
+with the x by d tau
+
+1604
+01:01:47,000 --> 01:01:49,000
+this is the integral of this
+
+1605
+01:01:49,000 --> 01:01:51,000
+is winding number
+
+1606
+01:01:51,000 --> 01:01:53,000
+the integral of this is momentum
+
+1607
+01:01:53,000 --> 01:01:55,000
+and finally it involves
+
+1608
+01:01:55,000 --> 01:01:57,000
+interchanging
+
+1609
+01:01:57,000 --> 01:01:59,000
+g mu 5
+
+1610
+01:01:59,000 --> 01:02:01,000
+with b mu 5
+
+1611
+01:02:01,000 --> 01:02:03,000
+with b mu 5
+
+1612
+01:02:03,000 --> 01:02:05,000
+alright
+
+1613
+01:02:05,000 --> 01:02:07,000
+so these theories have more
+
+1614
+01:02:07,000 --> 01:02:09,000
+now of course
+
+1615
+01:02:09,000 --> 01:02:11,000
+not clear that the ordinary world
+
+1616
+01:02:11,000 --> 01:02:13,000
+does have such fields
+
+1617
+01:02:13,000 --> 01:02:15,000
+we don't know
+
+1618
+01:02:15,000 --> 01:02:17,000
+of real particle candidates
+
+1619
+01:02:17,000 --> 01:02:19,000
+for all these fields
+
+1620
+01:02:19,000 --> 01:02:21,000
+we don't
+
+1621
+01:02:21,000 --> 01:02:23,000
+so this is at the moment
+
+1622
+01:02:23,000 --> 01:02:25,000
+a mathematical construction
+
+1623
+01:02:25,000 --> 01:02:27,000
+and we're exploring a mathematical construction
+
+1624
+01:02:27,000 --> 01:02:29,000
+there's lots of ideas
+
+1625
+01:02:29,000 --> 01:02:31,000
+about how to use these
+
+1626
+01:02:31,000 --> 01:02:33,000
+constructions
+
+1627
+01:02:33,000 --> 01:02:35,000
+but
+
+1628
+01:02:35,000 --> 01:02:37,000
+for the moment
+
+1629
+01:02:37,000 --> 01:02:39,000
+I think we should regard this as an exploration
+
+1630
+01:02:39,000 --> 01:02:41,000
+of the mathematics of the theory
+
+1631
+01:02:41,000 --> 01:02:43,000
+there's plenty of room in physics
+
+1632
+01:02:43,000 --> 01:02:45,000
+for these objects incidentally
+
+1633
+01:02:45,000 --> 01:02:47,000
+but I don't want to get into
+
+1634
+01:02:47,000 --> 01:02:49,000
+the phenomenology of them
+
+1635
+01:02:53,000 --> 01:02:55,000
+good so there we are
+
+1636
+01:02:55,000 --> 01:02:57,000
+that's what T-duality is
+
+1637
+01:02:57,000 --> 01:02:59,000
+after five minutes
+
+1638
+01:02:59,000 --> 01:03:01,000
+we're going to come back and talk about
+
+1639
+01:03:01,000 --> 01:03:03,000
+T-duality for open strings
+
+1640
+01:03:03,000 --> 01:03:05,000
+and how it leads to a new concept
+
+1641
+01:03:05,000 --> 01:03:07,000
+a completely new concept
+
+1642
+01:03:07,000 --> 01:03:09,000
+called D-brains
+
+1643
+01:03:09,000 --> 01:03:11,000
+so let's take a break
+
+1644
+01:03:11,000 --> 01:03:13,000
+um
+
+1645
+01:03:13,000 --> 01:03:15,000
+yeah
+
+1646
+01:03:15,000 --> 01:03:17,000
+ok
+
+1647
+01:03:17,000 --> 01:03:19,000
+so we've figured out what
+
+1648
+01:03:19,000 --> 01:03:21,000
+T-duality is
+
+1649
+01:03:21,000 --> 01:03:23,000
+this very strange interchange
+
+1650
+01:03:23,000 --> 01:03:25,000
+of big compact geometries
+
+1651
+01:03:25,000 --> 01:03:27,000
+with small ones
+
+1652
+01:03:27,000 --> 01:03:29,000
+and various other things going on
+
+1653
+01:03:29,000 --> 01:03:31,000
+I want to concentrate
+
+1654
+01:03:31,000 --> 01:03:33,000
+now
+
+1655
+01:03:33,000 --> 01:03:35,000
+on the aspect
+
+1656
+01:03:35,000 --> 01:03:37,000
+of T-duality that has to do with
+
+1657
+01:03:37,000 --> 01:03:39,000
+well let's erase
+
+1658
+01:03:39,000 --> 01:03:41,000
+some blackboard here
+
+1659
+01:03:41,000 --> 01:03:43,000
+ah this one
+
+1660
+01:03:49,000 --> 01:03:51,000
+now you're going to see
+
+1661
+01:03:51,000 --> 01:03:53,000
+the kind of gymnastics
+
+1662
+01:03:53,000 --> 01:03:55,000
+that
+
+1663
+01:03:55,000 --> 01:03:57,000
+the kind of
+
+1664
+01:03:57,000 --> 01:03:59,000
+deductions that people have made over the years
+
+1665
+01:03:59,000 --> 01:04:01,000
+as T-duality is one of them
+
+1666
+01:04:01,000 --> 01:04:03,000
+they're
+
+1667
+01:04:03,000 --> 01:04:05,000
+implicit in the mathematics
+
+1668
+01:04:05,000 --> 01:04:07,000
+many of them are very surprising
+
+1669
+01:04:07,000 --> 01:04:09,000
+we're going to talk about
+
+1670
+01:04:09,000 --> 01:04:11,000
+D-brains
+
+1671
+01:04:11,000 --> 01:04:13,000
+and how one was forced to have these
+
+1672
+01:04:13,000 --> 01:04:15,000
+new objects in the theory
+
+1673
+01:04:15,000 --> 01:04:17,000
+which are called D-brains
+
+1674
+01:04:17,000 --> 01:04:19,000
+D stands for Dirichlet
+
+1675
+01:04:19,000 --> 01:04:21,000
+Dirichlet had nothing to do with them
+
+1676
+01:04:21,000 --> 01:04:23,000
+he was dead for many hundreds of years
+
+1677
+01:04:23,000 --> 01:04:25,000
+they should be called P-brains
+
+1678
+01:04:25,000 --> 01:04:27,000
+for Polchinski
+
+1679
+01:04:27,000 --> 01:04:29,000
+but P-brain was already a term in use
+
+1680
+01:04:31,000 --> 01:04:33,000
+brain is spelled
+
+1681
+01:04:33,000 --> 01:04:35,000
+B-R-A-N-E
+
+1682
+01:04:35,000 --> 01:04:37,000
+it's a membrane
+
+1683
+01:04:37,000 --> 01:04:39,000
+and one speaks of
+
+1684
+01:04:39,000 --> 01:04:41,000
+D-N-brains
+
+1685
+01:04:41,000 --> 01:04:43,000
+D stands for Dirichlet
+
+1686
+01:04:43,000 --> 01:04:45,000
+not for the dimension of space
+
+1687
+01:04:47,000 --> 01:04:49,000
+N stands for the
+
+1688
+01:04:49,000 --> 01:04:51,000
+dimensionality of the brain
+
+1689
+01:04:51,000 --> 01:04:53,000
+a string is a one-brain
+
+1690
+01:04:53,000 --> 01:04:55,000
+a membrane is a two-brain
+
+1691
+01:04:55,000 --> 01:04:57,000
+a solid three-dimensional
+
+1692
+01:04:57,000 --> 01:04:59,000
+is a single-brain
+
+1693
+01:04:59,000 --> 01:05:01,000
+a string is a one-brain
+
+1694
+01:05:01,000 --> 01:05:03,000
+a membrane is a two-brain
+
+1695
+01:05:03,000 --> 01:05:05,000
+a solid three-dimensional chunk
+
+1696
+01:05:05,000 --> 01:05:07,000
+which may be embedded in higher dimensions
+
+1697
+01:05:07,000 --> 01:05:09,000
+but solid three is a three-brain
+
+1698
+01:05:09,000 --> 01:05:11,000
+and so forth
+
+1699
+01:05:11,000 --> 01:05:13,000
+so there's D-N-brain
+
+1700
+01:05:13,000 --> 01:05:15,000
+where do they come from
+
+1701
+01:05:15,000 --> 01:05:17,000
+what do they do
+
+1702
+01:05:17,000 --> 01:05:19,000
+what's their
+
+1703
+01:05:19,000 --> 01:05:21,000
+they're not just made up things
+
+1704
+01:05:21,000 --> 01:05:23,000
+they were essential to the consistency of the theory
+
+1705
+01:05:23,000 --> 01:05:25,000
+the mathematics absolutely demanded them
+
+1706
+01:05:25,000 --> 01:05:27,000
+and
+
+1707
+01:05:27,000 --> 01:05:29,000
+and
+
+1708
+01:05:29,000 --> 01:05:31,000
+and
+
+1709
+01:05:31,000 --> 01:05:33,000
+and
+
+1710
+01:06:03,000 --> 01:06:07,000
+and which the mathematicians were entirely surprised by
+
+1711
+01:06:07,000 --> 01:06:09,000
+and they turned out to be able to confirm them
+
+1712
+01:06:09,000 --> 01:06:11,000
+but this is some of
+
+1713
+01:06:11,000 --> 01:06:15,000
+this is now part of the gymnastics of string theory
+
+1714
+01:06:15,000 --> 01:06:17,000
+and
+
+1715
+01:06:17,000 --> 01:06:21,000
+D-brains have played an enormously powerful role
+
+1716
+01:06:21,000 --> 01:06:23,000
+also in the applications of it
+
+1717
+01:06:23,000 --> 01:06:25,000
+so let's talk about open strings now
+
+1718
+01:06:25,000 --> 01:06:27,000
+D-brains have to do with open strings
+
+1719
+01:06:27,000 --> 01:06:29,000
+open strings
+
+1720
+01:06:29,000 --> 01:06:31,000
+what's the winding number of an open string
+
+1721
+01:06:31,000 --> 01:06:33,000
+what's the winding number of an open string
+
+1722
+01:06:33,000 --> 01:06:35,000
+open strings don't have stable winding numbers
+
+1723
+01:06:35,000 --> 01:06:37,000
+what's the winding number of an open string
+
+1724
+01:06:37,000 --> 01:06:39,000
+if you have an open string
+
+1725
+01:06:39,000 --> 01:06:41,000
+on a compact space
+
+1726
+01:06:41,000 --> 01:06:43,000
+on a compact space
+
+1727
+01:06:43,000 --> 01:06:45,000
+now this picture
+
+1728
+01:06:45,000 --> 01:06:47,000
+is sort of short-hand
+
+1729
+01:06:47,000 --> 01:06:49,000
+for all of the compact directions
+
+1730
+01:06:49,000 --> 01:06:51,000
+of which there are presumably six
+
+1731
+01:06:51,000 --> 01:06:53,000
+in superstring theory
+
+1732
+01:06:53,000 --> 01:06:55,000
+and all of the open
+
+1733
+01:06:55,000 --> 01:06:57,000
+uncompact directions
+
+1734
+01:06:57,000 --> 01:06:59,000
+alright but let's imagine now
+
+1735
+01:06:59,000 --> 01:07:01,000
+that in addition to closed strings
+
+1736
+01:07:01,000 --> 01:07:03,000
+that in addition to closed strings
+
+1737
+01:07:03,000 --> 01:07:05,000
+there are open strings
+
+1738
+01:07:05,000 --> 01:07:07,000
+open strings now have endpoints
+
+1739
+01:07:07,000 --> 01:07:09,000
+we can't classify them
+
+1740
+01:07:09,000 --> 01:07:11,000
+with winding number
+
+1741
+01:07:11,000 --> 01:07:13,000
+it doesn't make sense to classify them
+
+1742
+01:07:13,000 --> 01:07:15,000
+with winding number
+
+1743
+01:07:15,000 --> 01:07:17,000
+they're not wound
+
+1744
+01:07:17,000 --> 01:07:19,000
+so we have to
+
+1745
+01:07:19,000 --> 01:07:21,000
+we have to think
+
+1746
+01:07:21,000 --> 01:07:23,000
+about what happens to them
+
+1747
+01:07:23,000 --> 01:07:25,000
+when we do this process of T-duality
+
+1748
+01:07:25,000 --> 01:07:27,000
+T-duality
+
+1749
+01:07:27,000 --> 01:07:29,000
+was a phenomena discovered
+
+1750
+01:07:29,000 --> 01:07:31,000
+in closed string theory
+
+1751
+01:07:31,000 --> 01:07:33,000
+but surprisingly
+
+1752
+01:07:33,000 --> 01:07:35,000
+it also makes sense for open string theory
+
+1753
+01:07:35,000 --> 01:07:37,000
+and I'm going to show you what it says
+
+1754
+01:07:37,000 --> 01:07:39,000
+there's something rather remarkable
+
+1755
+01:07:39,000 --> 01:07:41,000
+something which is confirmed in other ways
+
+1756
+01:07:41,000 --> 01:07:43,000
+but this is the simple way to think about it
+
+1757
+01:07:45,000 --> 01:07:47,000
+there's a string, an open string
+
+1758
+01:07:47,000 --> 01:07:49,000
+and what are the rules for open strings
+
+1759
+01:07:49,000 --> 01:07:51,000
+do you remember what the rules are
+
+1760
+01:07:51,000 --> 01:07:53,000
+for what goes on
+
+1761
+01:07:53,000 --> 01:07:55,000
+at the end of an open string
+
+1762
+01:07:55,000 --> 01:07:57,000
+the boundary conditions
+
+1763
+01:07:57,000 --> 01:07:59,000
+on the end of an open string
+
+1764
+01:07:59,000 --> 01:08:01,000
+Neumann
+
+1765
+01:08:01,000 --> 01:08:03,000
+Neumann
+
+1766
+01:08:03,000 --> 01:08:05,000
+the end of an open string
+
+1767
+01:08:05,000 --> 01:08:07,000
+should satisfy
+
+1768
+01:08:07,000 --> 01:08:09,000
+dx or dy
+
+1769
+01:08:09,000 --> 01:08:11,000
+again
+
+1770
+01:08:11,000 --> 01:08:13,000
+this is y
+
+1771
+01:08:13,000 --> 01:08:15,000
+this is x
+
+1772
+01:08:15,000 --> 01:08:17,000
+any of the coordinates
+
+1773
+01:08:17,000 --> 01:08:19,000
+but let's in particular
+
+1774
+01:08:19,000 --> 01:08:21,000
+well let's write them both
+
+1775
+01:08:21,000 --> 01:08:23,000
+dx by d sigma equals 0
+
+1776
+01:08:23,000 --> 01:08:25,000
+dy by d sigma equals 0
+
+1777
+01:08:29,000 --> 01:08:31,000
+and what does that correspond to
+
+1778
+01:08:31,000 --> 01:08:33,000
+that corresponds to
+
+1779
+01:08:33,000 --> 01:08:35,000
+the idea that the end of the string
+
+1780
+01:08:35,000 --> 01:08:37,000
+here's a string
+
+1781
+01:08:37,000 --> 01:08:39,000
+it's made up of a lot of tiny
+
+1782
+01:08:39,000 --> 01:08:41,000
+infinitesimal mass points
+
+1783
+01:08:41,000 --> 01:08:43,000
+and supposing the end of the string
+
+1784
+01:08:43,000 --> 01:08:45,000
+had some net stretching
+
+1785
+01:08:45,000 --> 01:08:47,000
+the x by d sigma was not equal to 0
+
+1786
+01:08:47,000 --> 01:08:49,000
+that would exert a force
+
+1787
+01:08:49,000 --> 01:08:51,000
+on the very last molecule
+
+1788
+01:08:51,000 --> 01:08:53,000
+well
+
+1789
+01:08:53,000 --> 01:08:55,000
+as you subdivide the molecules
+
+1790
+01:08:55,000 --> 01:08:57,000
+into smaller and smaller structures
+
+1791
+01:08:57,000 --> 01:08:59,000
+to go to the continuous limit of the string
+
+1792
+01:08:59,000 --> 01:09:01,000
+the molecules get lighter and lighter
+
+1793
+01:09:01,000 --> 01:09:03,000
+and lighter
+
+1794
+01:09:03,000 --> 01:09:05,000
+and what can you put on a mass
+
+1795
+01:09:05,000 --> 01:09:07,000
+on a thing of arbitrarily small mass
+
+1796
+01:09:07,000 --> 01:09:09,000
+without having it accelerate
+
+1797
+01:09:09,000 --> 01:09:11,000
+with an infinite acceleration
+
+1798
+01:09:11,000 --> 01:09:13,000
+the answer is 0 in the limit
+
+1799
+01:09:13,000 --> 01:09:15,000
+that means that
+
+1800
+01:09:15,000 --> 01:09:17,000
+the string cannot afford to have any
+
+1801
+01:09:17,000 --> 01:09:19,000
+net stretching at the end of the string
+
+1802
+01:09:19,000 --> 01:09:21,000
+so that's where these conditions come from
+
+1803
+01:09:21,000 --> 01:09:23,000
+the x by d sigma
+
+1804
+01:09:23,000 --> 01:09:25,000
+the y by d sigma
+
+1805
+01:09:25,000 --> 01:09:27,000
+should be equal to 0
+
+1806
+01:09:27,000 --> 01:09:29,000
+and that's to forbid infinite accelerations
+
+1807
+01:09:29,000 --> 01:09:31,000
+either in the x direction
+
+1808
+01:09:31,000 --> 01:09:33,000
+or the y direction
+
+1809
+01:09:33,000 --> 01:09:35,000
+of course
+
+1810
+01:09:35,000 --> 01:09:37,000
+there is another possibility
+
+1811
+01:09:37,000 --> 01:09:38,000
+and that's that somebody is
+
+1812
+01:09:38,000 --> 01:09:39,000
+holding the end of the string
+
+1813
+01:09:39,000 --> 01:09:41,000
+and applying an enormous force
+
+1814
+01:09:41,000 --> 01:09:43,000
+to keep it from moving
+
+1815
+01:09:43,000 --> 01:09:44,000
+but if nobody is standing there
+
+1816
+01:09:44,000 --> 01:09:45,000
+holding the end of the string
+
+1817
+01:09:45,000 --> 01:09:47,000
+then
+
+1818
+01:09:47,000 --> 01:09:49,000
+if there's any net tension
+
+1819
+01:09:49,000 --> 01:09:51,000
+in the end of the string
+
+1820
+01:09:51,000 --> 01:09:53,000
+it will accelerate infinitely
+
+1821
+01:09:53,000 --> 01:09:55,000
+to basically
+
+1822
+01:09:55,000 --> 01:09:57,000
+to remove that stretching
+
+1823
+01:09:57,000 --> 01:09:59,000
+ok now
+
+1824
+01:09:59,000 --> 01:10:01,000
+what about
+
+1825
+01:10:01,000 --> 01:10:03,000
+t duality
+
+1826
+01:10:03,000 --> 01:10:05,000
+so suppose now
+
+1827
+01:10:05,000 --> 01:10:07,000
+that this was a small compact direction
+
+1828
+01:10:07,000 --> 01:10:09,000
+and we want to replace the theory
+
+1829
+01:10:09,000 --> 01:10:11,000
+it's very very much smaller
+
+1830
+01:10:11,000 --> 01:10:13,000
+extremely small
+
+1831
+01:10:13,000 --> 01:10:15,000
+we want to say wait a minute
+
+1832
+01:10:15,000 --> 01:10:17,000
+this is supposed to be equivalent
+
+1833
+01:10:17,000 --> 01:10:19,000
+to a theory with a large compact direction
+
+1834
+01:10:19,000 --> 01:10:21,000
+here's the large compact direction
+
+1835
+01:10:21,000 --> 01:10:23,000
+enormously large
+
+1836
+01:10:23,000 --> 01:10:25,000
+could be cosmologically large
+
+1837
+01:10:25,000 --> 01:10:27,000
+what do I do with these open strings
+
+1838
+01:10:27,000 --> 01:10:29,000
+ok
+
+1839
+01:10:29,000 --> 01:10:31,000
+well we're supposed to replace
+
+1840
+01:10:31,000 --> 01:10:33,000
+winding number by momentum
+
+1841
+01:10:33,000 --> 01:10:35,000
+and momentum was
+
+1842
+01:10:35,000 --> 01:10:37,000
+what was momentum related to
+
+1843
+01:10:37,000 --> 01:10:39,000
+it was related to dx by d tau
+
+1844
+01:10:39,000 --> 01:10:41,000
+right
+
+1845
+01:10:41,000 --> 01:10:43,000
+velocity
+
+1846
+01:10:43,000 --> 01:10:45,000
+what was winding number related to
+
+1847
+01:10:47,000 --> 01:10:49,000
+dx by d sigma
+
+1848
+01:10:49,000 --> 01:10:51,000
+namely
+
+1849
+01:10:51,000 --> 01:10:53,000
+exactly what goes on here
+
+1850
+01:10:53,000 --> 01:10:55,000
+ok
+
+1851
+01:10:55,000 --> 01:10:57,000
+I should actually write
+
+1852
+01:10:57,000 --> 01:10:59,000
+since I'm mostly interested in the
+
+1853
+01:10:59,000 --> 01:11:01,000
+compact directions for the moment
+
+1854
+01:11:01,000 --> 01:11:03,000
+let's concentrate on
+
+1855
+01:11:03,000 --> 01:11:05,000
+the compact direction
+
+1856
+01:11:09,000 --> 01:11:11,000
+t duality involves
+
+1857
+01:11:11,000 --> 01:11:13,000
+among other things
+
+1858
+01:11:13,000 --> 01:11:15,000
+replacing
+
+1859
+01:11:15,000 --> 01:11:17,000
+every place you see it
+
+1860
+01:11:17,000 --> 01:11:19,000
+dy by d tau
+
+1861
+01:11:19,000 --> 01:11:21,000
+by dx
+
+1862
+01:11:21,000 --> 01:11:23,000
+or dy by d sigma
+
+1863
+01:11:23,000 --> 01:11:25,000
+by dy by d tau
+
+1864
+01:11:25,000 --> 01:11:27,000
+so what does it say then
+
+1865
+01:11:27,000 --> 01:11:29,000
+about open strings
+
+1866
+01:11:29,000 --> 01:11:31,000
+open strings
+
+1867
+01:11:31,000 --> 01:11:35,000
+when they undergo this process of
+
+1868
+01:11:35,000 --> 01:11:37,000
+t duality
+
+1869
+01:11:37,000 --> 01:11:39,000
+what you have to do is you have to
+
+1870
+01:11:39,000 --> 01:11:41,000
+change the boundary conditions
+
+1871
+01:11:41,000 --> 01:11:43,000
+and the boundary conditions at the end of the string
+
+1872
+01:11:43,000 --> 01:11:45,000
+become the
+
+1873
+01:11:45,000 --> 01:11:47,000
+x by d tau equals zero
+
+1874
+01:11:47,000 --> 01:11:49,000
+or in this case
+
+1875
+01:11:49,000 --> 01:11:51,000
+we're not
+
+1876
+01:11:51,000 --> 01:11:53,000
+sorry the t duality is
+
+1877
+01:11:53,000 --> 01:11:55,000
+associated with the compact directions
+
+1878
+01:11:55,000 --> 01:11:57,000
+we don't want to do that
+
+1879
+01:11:57,000 --> 01:11:59,000
+only the compact directions
+
+1880
+01:11:59,000 --> 01:12:01,000
+are being interchanged smoothly
+
+1881
+01:12:01,000 --> 01:12:03,000
+small with large
+
+1882
+01:12:03,000 --> 01:12:05,000
+we're not diddling at all with the
+
+1883
+01:12:05,000 --> 01:12:07,000
+uncompact direction
+
+1884
+01:12:07,000 --> 01:12:09,000
+one compact direction
+
+1885
+01:12:09,000 --> 01:12:11,000
+y goes
+
+1886
+01:12:11,000 --> 01:12:13,000
+y
+
+1887
+01:12:13,000 --> 01:12:15,000
+radius in the y direction
+
+1888
+01:12:15,000 --> 01:12:17,000
+becomes big
+
+1889
+01:12:17,000 --> 01:12:19,000
+alright
+
+1890
+01:12:19,000 --> 01:12:21,000
+the rule was
+
+1891
+01:12:21,000 --> 01:12:23,000
+we were supposed to replace dy by d sigma
+
+1892
+01:12:23,000 --> 01:12:25,000
+by dy by d tau
+
+1893
+01:12:25,000 --> 01:12:27,000
+if strings
+
+1894
+01:12:27,000 --> 01:12:29,000
+originally moving on the surface
+
+1895
+01:12:29,000 --> 01:12:31,000
+had Neumann boundary conditions
+
+1896
+01:12:31,000 --> 01:12:33,000
+that's dy by d sigma equals zero
+
+1897
+01:12:33,000 --> 01:12:35,000
+after t duality
+
+1898
+01:12:35,000 --> 01:12:37,000
+they have Dirichlet boundary conditions
+
+1899
+01:12:37,000 --> 01:12:39,000
+what does it mean to say
+
+1900
+01:12:39,000 --> 01:12:41,000
+that dy by d tau
+
+1901
+01:12:41,000 --> 01:12:43,000
+is equal to zero
+
+1902
+01:12:43,000 --> 01:12:45,000
+oh incidentally
+
+1903
+01:12:45,000 --> 01:12:47,000
+this is only at the end points
+
+1904
+01:12:47,000 --> 01:12:49,000
+this is at the ends of the string
+
+1905
+01:12:51,000 --> 01:12:53,000
+it means the end points
+
+1906
+01:12:53,000 --> 01:12:55,000
+are forbidden from moving
+
+1907
+01:12:55,000 --> 01:12:57,000
+so wherever they started
+
+1908
+01:12:57,000 --> 01:12:59,000
+they are stuck at
+
+1909
+01:12:59,000 --> 01:13:01,000
+where are they
+
+1910
+01:13:01,000 --> 01:13:03,000
+stuck?
+
+1911
+01:13:03,000 --> 01:13:05,000
+well wherever they are stuck
+
+1912
+01:13:05,000 --> 01:13:07,000
+there is something holding them there
+
+1913
+01:13:07,000 --> 01:13:09,000
+it means that this theory has
+
+1914
+01:13:09,000 --> 01:13:11,000
+objects in it
+
+1915
+01:13:11,000 --> 01:13:13,000
+which can nail down
+
+1916
+01:13:13,000 --> 01:13:15,000
+the ends of strings
+
+1917
+01:13:15,000 --> 01:13:17,000
+there are strings
+
+1918
+01:13:17,000 --> 01:13:19,000
+there must be
+
+1919
+01:13:19,000 --> 01:13:21,000
+if t duality is to make sense
+
+1920
+01:13:21,000 --> 01:13:23,000
+there must be objects in the theory
+
+1921
+01:13:23,000 --> 01:13:25,000
+which can nail down the ends of strings
+
+1922
+01:13:27,000 --> 01:13:29,000
+you start with a theory with no such object
+
+1923
+01:13:29,000 --> 01:13:31,000
+and the strings just move freely
+
+1924
+01:13:31,000 --> 01:13:33,000
+and after t duality
+
+1925
+01:13:33,000 --> 01:13:35,000
+you discover there is some kind of object
+
+1926
+01:13:35,000 --> 01:13:37,000
+in the theory which has nailed down
+
+1927
+01:13:37,000 --> 01:13:39,000
+the location of the string
+
+1928
+01:13:39,000 --> 01:13:41,000
+it's nailed down only the y component
+
+1929
+01:13:41,000 --> 01:13:43,000
+we have not played around with the x's
+
+1930
+01:13:43,000 --> 01:13:45,000
+the x's are still free to move
+
+1931
+01:13:45,000 --> 01:13:47,000
+the compact direction here
+
+1932
+01:13:47,000 --> 01:13:49,000
+is now nailed down
+
+1933
+01:13:49,000 --> 01:13:51,000
+so where is it nailed down
+
+1934
+01:13:51,000 --> 01:13:53,000
+let's uh
+
+1935
+01:13:53,000 --> 01:13:55,000
+here's a space
+
+1936
+01:13:55,000 --> 01:13:57,000
+it's nailed down some place
+
+1937
+01:13:57,000 --> 01:13:59,000
+some place
+
+1938
+01:13:59,000 --> 01:14:01,000
+and y
+
+1939
+01:14:01,000 --> 01:14:03,000
+y goes around this way
+
+1940
+01:14:03,000 --> 01:14:05,000
+let's put that place right over here
+
+1941
+01:14:05,000 --> 01:14:07,000
+there is something here
+
+1942
+01:14:07,000 --> 01:14:09,000
+which is capable of holding the ends of strings
+
+1943
+01:14:09,000 --> 01:14:11,000
+nailing them down
+
+1944
+01:14:13,000 --> 01:14:15,000
+that object is called a d brain
+
+1945
+01:14:15,000 --> 01:14:17,000
+d for Dirichlet
+
+1946
+01:14:19,000 --> 01:14:21,000
+and
+
+1947
+01:14:21,000 --> 01:14:23,000
+it wasn't put in by hand
+
+1948
+01:14:23,000 --> 01:14:25,000
+instead one asked
+
+1949
+01:14:25,000 --> 01:14:27,000
+what if there are open strings in a theory
+
+1950
+01:14:27,000 --> 01:14:29,000
+and the theory has t duality
+
+1951
+01:14:29,000 --> 01:14:31,000
+which it must have
+
+1952
+01:14:31,000 --> 01:14:33,000
+for reasons that are
+
+1953
+01:14:33,000 --> 01:14:35,000
+by now well understood
+
+1954
+01:14:35,000 --> 01:14:37,000
+then
+
+1955
+01:14:37,000 --> 01:14:39,000
+what happens to the open strings
+
+1956
+01:14:39,000 --> 01:14:41,000
+when you interchange
+
+1957
+01:14:41,000 --> 01:14:43,000
+the small compact direction
+
+1958
+01:14:43,000 --> 01:14:45,000
+for the large compact direction
+
+1959
+01:14:45,000 --> 01:14:47,000
+and the answer is that you discover something new
+
+1960
+01:14:47,000 --> 01:14:49,000
+you discover some new kind of object
+
+1961
+01:14:49,000 --> 01:14:51,000
+which
+
+1962
+01:14:51,000 --> 01:14:53,000
+is holding down those things
+
+1963
+01:14:53,000 --> 01:14:55,000
+excuse me
+
+1964
+01:14:55,000 --> 01:14:57,000
+is it necessary that the
+
+1965
+01:14:57,000 --> 01:14:59,000
+y value be the same
+
+1966
+01:14:59,000 --> 01:15:01,000
+for the two ends
+
+1967
+01:15:01,000 --> 01:15:03,000
+no
+
+1968
+01:15:03,000 --> 01:15:05,000
+I think you're asking whether this can bend
+
+1969
+01:15:05,000 --> 01:15:07,000
+well you've just drawn it
+
+1970
+01:15:07,000 --> 01:15:09,000
+I drew it so that it
+
+1971
+01:15:09,000 --> 01:15:11,000
+but it can't be up here
+
+1972
+01:15:11,000 --> 01:15:13,000
+oh yeah yeah yeah yeah it could
+
+1973
+01:15:13,000 --> 01:15:15,000
+that's right
+
+1974
+01:15:15,000 --> 01:15:17,000
+but the simplest case is where it's just fixed
+
+1975
+01:15:17,000 --> 01:15:19,000
+fixed in some position
+
+1976
+01:15:19,000 --> 01:15:21,000
+now what position can you
+
+1977
+01:15:21,000 --> 01:15:23,000
+do you put it at here here here
+
+1978
+01:15:23,000 --> 01:15:25,000
+well the answer is
+
+1979
+01:15:25,000 --> 01:15:27,000
+that you better be able to put it anywheres
+
+1980
+01:15:27,000 --> 01:15:29,000
+so
+
+1981
+01:15:29,000 --> 01:15:31,000
+this has to be a movable object
+
+1982
+01:15:31,000 --> 01:15:33,000
+because there was nothing special about one point
+
+1983
+01:15:33,000 --> 01:15:35,000
+in space and the other point in space
+
+1984
+01:15:35,000 --> 01:15:37,000
+along these axes
+
+1985
+01:15:37,000 --> 01:15:39,000
+so there's got to be a movable object
+
+1986
+01:15:39,000 --> 01:15:41,000
+which functions
+
+1987
+01:15:41,000 --> 01:15:43,000
+as an anchor point for the ends
+
+1988
+01:15:43,000 --> 01:15:45,000
+of strings
+
+1989
+01:15:45,000 --> 01:15:47,000
+if it's movable
+
+1990
+01:15:47,000 --> 01:15:49,000
+then you can be quite sure that it's also bendable
+
+1991
+01:15:49,000 --> 01:15:51,000
+ah
+
+1992
+01:15:51,000 --> 01:15:53,000
+relativity can't make sense
+
+1993
+01:15:53,000 --> 01:15:55,000
+with absolutely rigid objects
+
+1994
+01:15:55,000 --> 01:15:57,000
+and so it will also be bendable
+
+1995
+01:15:57,000 --> 01:15:59,000
+ah
+
+1996
+01:15:59,000 --> 01:16:01,000
+but let's just not bend it for the moment
+
+1997
+01:16:01,000 --> 01:16:03,000
+and
+
+1998
+01:16:03,000 --> 01:16:05,000
+strings can attach themselves to it
+
+1999
+01:16:05,000 --> 01:16:07,000
+strings attached to it
+
+2000
+01:16:07,000 --> 01:16:09,000
+can exist
+
+2001
+01:16:09,000 --> 01:16:11,000
+a string can come
+
+2002
+01:16:11,000 --> 01:16:13,000
+oh well let's let's good
+
+2003
+01:16:13,000 --> 01:16:15,000
+these are called D-Brain
+
+2004
+01:16:15,000 --> 01:16:17,000
+first of all
+
+2005
+01:16:17,000 --> 01:16:19,000
+supposing we took
+
+2006
+01:16:19,000 --> 01:16:21,000
+let's take an example
+
+2007
+01:16:21,000 --> 01:16:23,000
+supposing we took 10 dimensional string theory
+
+2008
+01:16:23,000 --> 01:16:25,000
+which has 9 dimensions of space
+
+2009
+01:16:25,000 --> 01:16:27,000
+9 dimensions of space
+
+2010
+01:16:27,000 --> 01:16:29,000
+and we made a string
+
+2011
+01:16:29,000 --> 01:16:31,000
+and we made one of them compact
+
+2012
+01:16:31,000 --> 01:16:33,000
+and then
+
+2013
+01:16:33,000 --> 01:16:35,000
+introduced a D-Brain
+
+2014
+01:16:35,000 --> 01:16:37,000
+in this way
+
+2015
+01:16:37,000 --> 01:16:39,000
+what would be the dimensionality of the D-Brain
+
+2016
+01:16:43,000 --> 01:16:45,000
+would it be 1
+
+2017
+01:16:47,000 --> 01:16:49,000
+no
+
+2018
+01:16:51,000 --> 01:16:53,000
+we've pinned down
+
+2019
+01:16:53,000 --> 01:16:55,000
+one direction
+
+2020
+01:16:55,000 --> 01:16:57,000
+and left the other
+
+2021
+01:16:57,000 --> 01:16:59,000
+the other 8
+
+2022
+01:16:59,000 --> 01:17:01,000
+and we've got
+
+2023
+01:17:01,000 --> 01:17:03,000
+8 directions of space
+
+2024
+01:17:03,000 --> 01:17:05,000
+free to move around
+
+2025
+01:17:05,000 --> 01:17:07,000
+alright here's a tabletop
+
+2026
+01:17:07,000 --> 01:17:09,000
+that tabletop is 2 dimensional
+
+2027
+01:17:09,000 --> 01:17:11,000
+if there's an object attached to the tabletop
+
+2028
+01:17:11,000 --> 01:17:13,000
+how many directions is it free to move in
+
+2029
+01:17:13,000 --> 01:17:15,000
+and how many is it constrained in
+
+2030
+01:17:15,000 --> 01:17:17,000
+it's free to move in 2 directions
+
+2031
+01:17:17,000 --> 01:17:19,000
+here's a string
+
+2032
+01:17:19,000 --> 01:17:21,000
+here's a string with 2 ends
+
+2033
+01:17:21,000 --> 01:17:23,000
+or my finger is the end of a string
+
+2034
+01:17:23,000 --> 01:17:25,000
+it's free to move in 2 directions
+
+2035
+01:17:25,000 --> 01:17:27,000
+and constrained
+
+2036
+01:17:27,000 --> 01:17:29,000
+in it's 3rd direction
+
+2037
+01:17:29,000 --> 01:17:31,000
+so if I constrain
+
+2038
+01:17:31,000 --> 01:17:33,000
+one dimension
+
+2039
+01:17:33,000 --> 01:17:35,000
+if I constrain
+
+2040
+01:17:35,000 --> 01:17:37,000
+one dimension
+
+2041
+01:17:37,000 --> 01:17:39,000
+it creates for me in 3 dimensional space
+
+2042
+01:17:39,000 --> 01:17:41,000
+a 2 dimensional surface
+
+2043
+01:17:41,000 --> 01:17:43,000
+supposing
+
+2044
+01:17:43,000 --> 01:17:45,000
+I'm now in 9 dimensions
+
+2045
+01:17:45,000 --> 01:17:47,000
+of space
+
+2046
+01:17:47,000 --> 01:17:49,000
+and I constrain the end of a string
+
+2047
+01:17:49,000 --> 01:17:51,000
+I constrain
+
+2048
+01:17:51,000 --> 01:17:53,000
+one of the dimensions
+
+2049
+01:17:53,000 --> 01:17:55,000
+it becomes
+
+2050
+01:17:55,000 --> 01:17:57,000
+an 8 dimensional surface
+
+2051
+01:17:57,000 --> 01:17:59,000
+that the string can move around
+
+2052
+01:17:59,000 --> 01:18:01,000
+now suppose
+
+2053
+01:18:01,000 --> 01:18:03,000
+there was no reason
+
+2054
+01:18:03,000 --> 01:18:05,000
+for only constraining
+
+2055
+01:18:05,000 --> 01:18:07,000
+you can do the same thing
+
+2056
+01:18:07,000 --> 01:18:09,000
+with any number
+
+2057
+01:18:09,000 --> 01:18:11,000
+of compact directions
+
+2058
+01:18:11,000 --> 01:18:13,000
+you can
+
+2059
+01:18:13,000 --> 01:18:15,000
+play this
+
+2060
+01:18:15,000 --> 01:18:17,000
+t-duality game with any
+
+2061
+01:18:17,000 --> 01:18:19,000
+subset of the compact
+
+2062
+01:18:19,000 --> 01:18:21,000
+directions
+
+2063
+01:18:21,000 --> 01:18:23,000
+you can play that same game
+
+2064
+01:18:23,000 --> 01:18:25,000
+and you can in the same way
+
+2065
+01:18:25,000 --> 01:18:27,000
+construct v-brains
+
+2066
+01:18:27,000 --> 01:18:29,000
+which pin down any number
+
+2067
+01:18:29,000 --> 01:18:31,000
+of the coordinates
+
+2068
+01:18:31,000 --> 01:18:33,000
+that the end of a string can move in
+
+2069
+01:18:33,000 --> 01:18:35,000
+alright so let's take 3 dimensional space again
+
+2070
+01:18:35,000 --> 01:18:37,000
+let's suppose now
+
+2071
+01:18:37,000 --> 01:18:39,000
+we've played this game
+
+2072
+01:18:39,000 --> 01:18:41,000
+and we've constrained the vertical position
+
+2073
+01:18:41,000 --> 01:18:43,000
+by
+
+2074
+01:18:43,000 --> 01:18:45,000
+doing this t-duality trick
+
+2075
+01:18:45,000 --> 01:18:47,000
+with respect to the vertical direction
+
+2076
+01:18:47,000 --> 01:18:49,000
+supposing I also do it now
+
+2077
+01:18:49,000 --> 01:18:51,000
+with respect to the front to back direction
+
+2078
+01:18:51,000 --> 01:18:53,000
+I constrain the motion
+
+2079
+01:18:53,000 --> 01:18:55,000
+of the position of the end of a string
+
+2080
+01:18:55,000 --> 01:18:57,000
+so it's constrained
+
+2081
+01:18:57,000 --> 01:18:59,000
+vertically and
+
+2082
+01:18:59,000 --> 01:19:01,000
+this way
+
+2083
+01:19:01,000 --> 01:19:03,000
+that means that
+
+2084
+01:19:03,000 --> 01:19:05,000
+the end of the string
+
+2085
+01:19:05,000 --> 01:19:07,000
+has to move
+
+2086
+01:19:07,000 --> 01:19:09,000
+along
+
+2087
+01:19:09,000 --> 01:19:11,000
+the
+
+2088
+01:19:11,000 --> 01:19:13,000
+the intersection
+
+2089
+01:19:13,000 --> 01:19:15,000
+of this plane
+
+2090
+01:19:15,000 --> 01:19:17,000
+with that plane
+
+2091
+01:19:17,000 --> 01:19:19,000
+so if I constrain 2 dimensions
+
+2092
+01:19:19,000 --> 01:19:21,000
+what kind of brain am I talking about
+
+2093
+01:19:21,000 --> 01:19:23,000
+a d
+
+2094
+01:19:23,000 --> 01:19:25,000
+in this case d1
+
+2095
+01:19:25,000 --> 01:19:27,000
+but if I started with 9 dimensions of space
+
+2096
+01:19:27,000 --> 01:19:29,000
+I would have
+
+2097
+01:19:31,000 --> 01:19:33,000
+so each constraint removes a direction
+
+2098
+01:19:33,000 --> 01:19:35,000
+that's free to move in
+
+2099
+01:19:35,000 --> 01:19:37,000
+alright
+
+2100
+01:19:37,000 --> 01:19:39,000
+for that reason
+
+2101
+01:19:39,000 --> 01:19:41,000
+you can have in 9 dimensions
+
+2102
+01:19:41,000 --> 01:19:43,000
+by playing this game over and over again
+
+2103
+01:19:43,000 --> 01:19:45,000
+with the different directions
+
+2104
+01:19:45,000 --> 01:19:47,000
+associated with the compact space
+
+2105
+01:19:47,000 --> 01:19:49,000
+you can have
+
+2106
+01:19:49,000 --> 01:19:51,000
+d8 brains
+
+2107
+01:19:51,000 --> 01:19:53,000
+d7 brains, d6 brains
+
+2108
+01:19:53,000 --> 01:19:55,000
+all the way down to
+
+2109
+01:19:55,000 --> 01:19:57,000
+what's the maximum number
+
+2110
+01:19:57,000 --> 01:19:59,000
+you can
+
+2111
+01:19:59,000 --> 01:20:01,000
+you can
+
+2112
+01:20:01,000 --> 01:20:03,000
+just get rid of the freedom
+
+2113
+01:20:03,000 --> 01:20:05,000
+to move in any of the directions
+
+2114
+01:20:05,000 --> 01:20:07,000
+of space
+
+2115
+01:20:07,000 --> 01:20:09,000
+then what does the
+
+2116
+01:20:09,000 --> 01:20:11,000
+then what would you call the brain
+
+2117
+01:20:11,000 --> 01:20:13,000
+d0
+
+2118
+01:20:13,000 --> 01:20:15,000
+d0
+
+2119
+01:20:15,000 --> 01:20:17,000
+d0 it's a point
+
+2120
+01:20:17,000 --> 01:20:19,000
+it's a point in space
+
+2121
+01:20:19,000 --> 01:20:21,000
+that the string is connected to
+
+2122
+01:20:21,000 --> 01:20:22,000
+and it's not free to
+
+2123
+01:20:22,000 --> 01:20:23,000
+move along any of the directions
+
+2124
+01:20:23,000 --> 01:20:25,000
+that's a d0 brain
+
+2125
+01:20:25,000 --> 01:20:27,000
+d0
+
+2126
+01:20:27,000 --> 01:20:29,000
+d0 dimension means a point
+
+2127
+01:20:29,000 --> 01:20:31,000
+you can have from d0 brains
+
+2128
+01:20:31,000 --> 01:20:33,000
+to d8 brains
+
+2129
+01:20:33,000 --> 01:20:35,000
+they all make sense
+
+2130
+01:20:35,000 --> 01:20:37,000
+and they're all
+
+2131
+01:20:37,000 --> 01:20:39,000
+their existence
+
+2132
+01:20:39,000 --> 01:20:41,000
+in some sense is all necessary
+
+2133
+01:20:41,000 --> 01:20:43,000
+to the consistency of the theory
+
+2134
+01:20:43,000 --> 01:20:45,000
+d0 brains are a new kind of particle
+
+2135
+01:20:45,000 --> 01:20:47,000
+an unexpected new kind of part
+
+2136
+01:20:47,000 --> 01:20:49,000
+yeah
+
+2137
+01:20:49,000 --> 01:20:51,000
+you said you weren't removing them from
+
+2138
+01:20:51,000 --> 01:20:53,000
+non-compact directions
+
+2139
+01:20:53,000 --> 01:20:55,000
+so wouldn't you really start subtracting from 6
+
+2140
+01:20:55,000 --> 01:20:57,000
+subtracting from 6
+
+2141
+01:20:59,000 --> 01:21:01,000
+yes
+
+2142
+01:21:01,000 --> 01:21:03,000
+no no no no
+
+2143
+01:21:03,000 --> 01:21:05,000
+not really no
+
+2144
+01:21:05,000 --> 01:21:07,000
+no
+
+2145
+01:21:07,000 --> 01:21:09,000
+no
+
+2146
+01:21:09,000 --> 01:21:11,000
+no
+
+2147
+01:21:11,000 --> 01:21:13,000
+I'll show you why in a moment
+
+2148
+01:21:13,000 --> 01:21:15,000
+I'll show you why in a moment
+
+2149
+01:21:15,000 --> 01:21:17,000
+ok
+
+2150
+01:21:17,000 --> 01:21:19,000
+we've played this game with the compact directions
+
+2151
+01:21:19,000 --> 01:21:21,000
+but now let's imagine
+
+2152
+01:21:21,000 --> 01:21:23,000
+having done this operation
+
+2153
+01:21:23,000 --> 01:21:25,000
+let's imagine shrinking and shrinking
+
+2154
+01:21:25,000 --> 01:21:27,000
+this until it becomes
+
+2155
+01:21:27,000 --> 01:21:29,000
+arbitrarily small what happens on this side
+
+2156
+01:21:29,000 --> 01:21:31,000
+it gets bigger and bigger and bigger
+
+2157
+01:21:31,000 --> 01:21:33,000
+it gets bigger and bigger and bigger
+
+2158
+01:21:33,000 --> 01:21:35,000
+it gets bigger and bigger and bigger
+
+2159
+01:21:35,000 --> 01:21:37,000
+ok so eventually
+
+2160
+01:21:37,000 --> 01:21:39,000
+on this side it can be so big
+
+2161
+01:21:39,000 --> 01:21:41,000
+that it's completely mistaken
+
+2162
+01:21:41,000 --> 01:21:43,000
+for a non-compact
+
+2163
+01:21:43,000 --> 01:21:45,000
+for a non-compact dimension
+
+2164
+01:21:45,000 --> 01:21:47,000
+in other words
+
+2165
+01:21:47,000 --> 01:21:49,000
+if a dimension of space
+
+2166
+01:21:49,000 --> 01:21:51,000
+is big enough
+
+2167
+01:21:51,000 --> 01:21:53,000
+for all practical purposes
+
+2168
+01:21:53,000 --> 01:21:55,000
+it becomes non-compact
+
+2169
+01:21:55,000 --> 01:21:57,000
+what we've demonstrated by this series of arguments
+
+2170
+01:21:57,000 --> 01:21:59,000
+is that even in the non-compact directions
+
+2171
+01:21:59,000 --> 01:22:01,000
+is that even in the non-compact directions
+
+2172
+01:22:01,000 --> 01:22:03,000
+there must be objects which are
+
+2173
+01:22:03,000 --> 01:22:05,000
+the anchors of strings
+
+2174
+01:22:05,000 --> 01:22:07,000
+they can be oriented along
+
+2175
+01:22:07,000 --> 01:22:09,000
+compact directions
+
+2176
+01:22:09,000 --> 01:22:11,000
+they can be oriented along non-compact directions
+
+2177
+01:22:11,000 --> 01:22:13,000
+any number of them
+
+2178
+01:22:13,000 --> 01:22:15,000
+and of any dimensionality starting with
+
+2179
+01:22:15,000 --> 01:22:17,000
+0 and going up to
+
+2180
+01:22:17,000 --> 01:22:19,000
+0 and going up to
+
+2181
+01:22:19,000 --> 01:22:21,000
+8 dimensions
+
+2182
+01:22:21,000 --> 01:22:23,000
+8 dimensions
+
+2183
+01:22:23,000 --> 01:22:25,000
+actually
+
+2184
+01:22:25,000 --> 01:22:27,000
+you can go up to 9 dimensions
+
+2185
+01:22:27,000 --> 01:22:29,000
+but that means they completely fill space
+
+2186
+01:22:29,000 --> 01:22:31,000
+and that simply means that we're talking about
+
+2187
+01:22:31,000 --> 01:22:33,000
+open string theory in which the open strings
+
+2188
+01:22:33,000 --> 01:22:35,000
+are just free to move
+
+2189
+01:22:35,000 --> 01:22:37,000
+but we wouldn't call them brains
+
+2190
+01:22:37,000 --> 01:22:39,000
+but we wouldn't call them brains
+
+2191
+01:22:39,000 --> 01:22:41,000
+there are things that people call
+
+2192
+01:22:41,000 --> 01:22:43,000
+d-1 brains but you don't want to know
+
+2193
+01:22:43,000 --> 01:22:45,000
+they're not
+
+2194
+01:22:45,000 --> 01:22:47,000
+they're not
+
+2195
+01:22:47,000 --> 01:22:49,000
+real concepts
+
+2196
+01:22:49,000 --> 01:22:51,000
+ok so you start here's a d-0 brain
+
+2197
+01:22:51,000 --> 01:22:53,000
+it's a point in space
+
+2198
+01:22:53,000 --> 01:22:55,000
+and a string end can end on it
+
+2199
+01:22:55,000 --> 01:22:57,000
+where's the other end of the string
+
+2200
+01:22:57,000 --> 01:22:59,000
+it could be on another d-0 brain
+
+2201
+01:22:59,000 --> 01:23:01,000
+it could be on another d-0 brain
+
+2202
+01:23:01,000 --> 01:23:03,000
+or
+
+2203
+01:23:03,000 --> 01:23:05,000
+it could be stretched out to infinity
+
+2204
+01:23:05,000 --> 01:23:07,000
+that's not a good thing
+
+2205
+01:23:07,000 --> 01:23:09,000
+because it becomes infinitely massive
+
+2206
+01:23:09,000 --> 01:23:11,000
+or it could even come back to the same point
+
+2207
+01:23:11,000 --> 01:23:13,000
+or it could even come back to the same point
+
+2208
+01:23:13,000 --> 01:23:15,000
+the same d-brain
+
+2209
+01:23:15,000 --> 01:23:17,000
+that's a d-0 brain
+
+2210
+01:23:17,000 --> 01:23:19,000
+what's the next one up
+
+2211
+01:23:19,000 --> 01:23:21,000
+a d-1 brain
+
+2212
+01:23:21,000 --> 01:23:23,000
+a d-1 brain
+
+2213
+01:23:23,000 --> 01:23:25,000
+something called a d-1 brain
+
+2214
+01:23:25,000 --> 01:23:27,000
+something very interesting about a d-1 brain
+
+2215
+01:23:27,000 --> 01:23:29,000
+it's a line
+
+2216
+01:23:29,000 --> 01:23:31,000
+now as you already pointed out
+
+2217
+01:23:31,000 --> 01:23:33,000
+it does not have to be a straight line
+
+2218
+01:23:33,000 --> 01:23:35,000
+we deduce their existence
+
+2219
+01:23:35,000 --> 01:23:37,000
+in this way
+
+2220
+01:23:37,000 --> 01:23:39,000
+but once we know that they exist
+
+2221
+01:23:39,000 --> 01:23:41,000
+and once we know we're talking about a relativistic theory
+
+2222
+01:23:41,000 --> 01:23:43,000
+they have to be bendable
+
+2223
+01:23:43,000 --> 01:23:45,000
+if they're bendable
+
+2224
+01:23:45,000 --> 01:23:47,000
+they can even bend around on themselves
+
+2225
+01:23:47,000 --> 01:23:49,000
+their structures
+
+2226
+01:23:49,000 --> 01:23:51,000
+which are physically
+
+2227
+01:23:51,000 --> 01:23:53,000
+physical objects
+
+2228
+01:23:53,000 --> 01:23:55,000
+and they have to be
+
+2229
+01:23:55,000 --> 01:23:57,000
+they have strings connected to them
+
+2230
+01:23:57,000 --> 01:23:59,000
+but now let's forget the strings
+
+2231
+01:23:59,000 --> 01:24:01,000
+that are connected to them
+
+2232
+01:24:01,000 --> 01:24:03,000
+the strings connected to them could be like this
+
+2233
+01:24:03,000 --> 01:24:05,000
+let's forget the strings
+
+2234
+01:24:05,000 --> 01:24:07,000
+that are connected to them
+
+2235
+01:24:07,000 --> 01:24:09,000
+and just look at them
+
+2236
+01:24:09,000 --> 01:24:11,000
+this is a one-dimensional object
+
+2237
+01:24:11,000 --> 01:24:13,000
+it's called a d-1 brain
+
+2238
+01:24:13,000 --> 01:24:15,000
+it's a one-dimensional object
+
+2239
+01:24:15,000 --> 01:24:17,000
+it can bend
+
+2240
+01:24:17,000 --> 01:24:19,000
+what's another name
+
+2241
+01:24:19,000 --> 01:24:21,000
+in fact it can not only bend
+
+2242
+01:24:21,000 --> 01:24:23,000
+but it can also bend
+
+2243
+01:24:23,000 --> 01:24:25,000
+it can bend
+
+2244
+01:24:25,000 --> 01:24:27,000
+but it can even come back on itself
+
+2245
+01:24:27,000 --> 01:24:29,000
+what's another name for one-dimensional objects like this
+
+2246
+01:24:29,000 --> 01:24:31,000
+strings
+
+2247
+01:24:31,000 --> 01:24:33,000
+but are they the original strings
+
+2248
+01:24:33,000 --> 01:24:35,000
+no
+
+2249
+01:24:35,000 --> 01:24:37,000
+they are not the original strings
+
+2250
+01:24:37,000 --> 01:24:39,000
+they're called d-1 brains
+
+2251
+01:24:39,000 --> 01:24:41,000
+and they're distinct from the original strings
+
+2252
+01:24:41,000 --> 01:24:43,000
+how would you expect
+
+2253
+01:24:43,000 --> 01:24:45,000
+they might be distinct from the original strings
+
+2254
+01:24:45,000 --> 01:24:47,000
+they're not the same all the way around
+
+2255
+01:24:47,000 --> 01:24:49,000
+you have points on them
+
+2256
+01:24:49,000 --> 01:24:51,000
+that have particles
+
+2257
+01:24:51,000 --> 01:24:53,000
+and points that don't
+
+2258
+01:24:53,000 --> 01:24:55,000
+I mean you have strings that are attached some place
+
+2259
+01:24:55,000 --> 01:24:57,000
+and they're not attached
+
+2260
+01:24:57,000 --> 01:24:58,000
+well they may or may
+
+2261
+01:24:58,000 --> 01:24:59,000
+not have strings attached to them
+
+2262
+01:24:59,000 --> 01:25:01,000
+but let's for a moment
+
+2263
+01:25:01,000 --> 01:25:03,000
+suppose they don't have strings attached to them
+
+2264
+01:25:03,000 --> 01:25:05,000
+they're much heavier
+
+2265
+01:25:05,000 --> 01:25:07,000
+in string
+
+2266
+01:25:07,000 --> 01:25:09,000
+that makes a lot of sense because
+
+2267
+01:25:09,000 --> 01:25:11,000
+how did they start out
+
+2268
+01:25:11,000 --> 01:25:13,000
+they started out as anchors
+
+2269
+01:25:13,000 --> 01:25:15,000
+like infinitely heavy things that could
+
+2270
+01:25:15,000 --> 01:25:17,000
+that could hold the strings down
+
+2271
+01:25:17,000 --> 01:25:19,000
+but they're not really infinitely heavy
+
+2272
+01:25:19,000 --> 01:25:23,000
+their mass depends on some coupling constants and so forth
+
+2273
+01:25:23,000 --> 01:25:25,000
+depends on various things
+
+2274
+01:25:25,000 --> 01:25:27,000
+they're heavy
+
+2275
+01:25:27,000 --> 01:25:29,000
+they're much much heavier than the ordinary strings
+
+2276
+01:25:29,000 --> 01:25:31,000
+and so in that sense they're anchors
+
+2277
+01:25:35,000 --> 01:25:37,000
+but they are string-like
+
+2278
+01:25:37,000 --> 01:25:41,000
+does the t-duality hold for them as well?
+
+2279
+01:25:41,000 --> 01:25:43,000
+what's that?
+
+2280
+01:25:43,000 --> 01:25:45,000
+does the t-duality hold for the brains?
+
+2281
+01:25:45,000 --> 01:25:47,000
+yeah it also holds for the brains too
+
+2282
+01:25:47,000 --> 01:25:49,000
+it does hold for the brains
+
+2283
+01:25:49,000 --> 01:25:51,000
+what's the next one up?
+
+2284
+01:25:53,000 --> 01:25:55,000
+a d-2 brain
+
+2285
+01:25:55,000 --> 01:25:57,000
+a d-2 brain is called a membrane
+
+2286
+01:25:57,000 --> 01:25:59,000
+membranes
+
+2287
+01:25:59,000 --> 01:26:01,000
+are being d-2 brains
+
+2288
+01:26:01,000 --> 01:26:03,000
+and those are simply sheets
+
+2289
+01:26:03,000 --> 01:26:05,000
+like the table top here
+
+2290
+01:26:05,000 --> 01:26:07,000
+that string ends can move around on
+
+2291
+01:26:07,000 --> 01:26:08,000
+or pairs of strings can
+
+2292
+01:26:08,000 --> 01:26:09,000
+move around on them like that
+
+2293
+01:26:09,000 --> 01:26:11,000
+these are d-2 brains
+
+2294
+01:26:11,000 --> 01:26:13,000
+next one up
+
+2295
+01:26:13,000 --> 01:26:15,000
+d-3 brains in a three dimensional world
+
+2296
+01:26:15,000 --> 01:26:17,000
+a d-3 brain fills
+
+2297
+01:26:17,000 --> 01:26:19,000
+all of this, fills space
+
+2298
+01:26:19,000 --> 01:26:21,000
+alright so it fills space
+
+2299
+01:26:21,000 --> 01:26:23,000
+it's a space filling brain
+
+2300
+01:26:23,000 --> 01:26:25,000
+in other words it's just space
+
+2301
+01:26:25,000 --> 01:26:27,000
+and if we had a d-3 brain
+
+2302
+01:26:27,000 --> 01:26:29,000
+then that would simply mean
+
+2303
+01:26:29,000 --> 01:26:30,000
+that we can have open
+
+2304
+01:26:30,000 --> 01:26:31,000
+strings that can just move around
+
+2305
+01:26:31,000 --> 01:26:33,000
+they have to be attached to the brain
+
+2306
+01:26:33,000 --> 01:26:35,000
+but the brain is everywhere
+
+2307
+01:26:35,000 --> 01:26:37,000
+and so it's just open strings
+
+2308
+01:26:37,000 --> 01:26:39,000
+that are free to move around everywhere
+
+2309
+01:26:39,000 --> 01:26:41,000
+so it's often said that ordinary
+
+2310
+01:26:41,000 --> 01:26:43,000
+open string theory is string theory
+
+2311
+01:26:43,000 --> 01:26:45,000
+on a space filling brain
+
+2312
+01:26:45,000 --> 01:26:47,000
+but if we're living in a world
+
+2313
+01:26:47,000 --> 01:26:49,000
+with higher dimensions
+
+2314
+01:26:49,000 --> 01:26:51,000
+then a three brain doesn't
+
+2315
+01:26:51,000 --> 01:26:53,000
+fill all of space
+
+2316
+01:26:53,000 --> 01:26:55,000
+it's like a two brain and a three brain
+
+2317
+01:26:55,000 --> 01:26:57,000
+it's a three dimensional space
+
+2318
+01:26:57,000 --> 01:26:59,000
+it's a surface
+
+2319
+01:26:59,000 --> 01:27:01,000
+and strings can move on it
+
+2320
+01:27:01,000 --> 01:27:03,000
+ok that's the idea of d-brains
+
+2321
+01:27:03,000 --> 01:27:05,000
+and as I said and as I emphasized
+
+2322
+01:27:05,000 --> 01:27:07,000
+they are mathematically important
+
+2323
+01:27:07,000 --> 01:27:09,000
+to string theory
+
+2324
+01:27:09,000 --> 01:27:11,000
+but they also are the origin
+
+2325
+01:27:11,000 --> 01:27:13,000
+of a lot of applications of string theory
+
+2326
+01:27:13,000 --> 01:27:15,000
+so let me very quickly tell you
+
+2327
+01:27:15,000 --> 01:27:17,000
+what's known
+
+2328
+01:27:17,000 --> 01:27:19,000
+you're going to start with one of these d-brains
+
+2329
+01:27:25,000 --> 01:27:37,000
+I assume that the unconstrained directions
+
+2330
+01:27:37,000 --> 01:27:39,000
+that are left over can be
+
+2331
+01:27:39,000 --> 01:27:41,000
+compact directions as well
+
+2332
+01:27:41,000 --> 01:27:43,000
+yes yes yes
+
+2333
+01:27:43,000 --> 01:27:45,000
+that's correct
+
+2334
+01:27:45,000 --> 01:27:47,000
+that's certainly correct
+
+2335
+01:27:47,000 --> 01:27:49,000
+ok let's imagine a d-brain
+
+2336
+01:27:49,000 --> 01:27:51,000
+and I'm going to draw it
+
+2337
+01:27:51,000 --> 01:27:53,000
+as a d-2 brain
+
+2338
+01:27:55,000 --> 01:27:57,000
+there's the d-2 brain
+
+2339
+01:27:57,000 --> 01:27:59,000
+now if you say to yourself
+
+2340
+01:27:59,000 --> 01:28:01,000
+this is awfully slick
+
+2341
+01:28:01,000 --> 01:28:03,000
+though I really believe that this has to be
+
+2342
+01:28:03,000 --> 01:28:05,000
+not from the arguments
+
+2343
+01:28:05,000 --> 01:28:07,000
+that I've made obviously
+
+2344
+01:28:07,000 --> 01:28:13,000
+I'm giving you some sketches of arguments
+
+2345
+01:28:13,000 --> 01:28:19,000
+whether string theory is the right theory of nature
+
+2346
+01:28:19,000 --> 01:28:21,000
+is not the issue here
+
+2347
+01:28:21,000 --> 01:28:23,000
+the mathematics of this is very very tight by now
+
+2348
+01:28:23,000 --> 01:28:25,000
+many many cross checks
+
+2349
+01:28:25,000 --> 01:28:27,000
+many different things point in the same direction
+
+2350
+01:28:27,000 --> 01:28:31,000
+mathematical theorems that have come out of it
+
+2351
+01:28:31,000 --> 01:28:33,000
+mathematical speculations
+
+2352
+01:28:33,000 --> 01:28:35,000
+have been confirmed in mathematics
+
+2353
+01:28:35,000 --> 01:28:37,000
+so it's remarkable
+
+2354
+01:28:37,000 --> 01:28:39,000
+and presumably correct
+
+2355
+01:28:39,000 --> 01:28:41,000
+alright
+
+2356
+01:28:41,000 --> 01:28:43,000
+here's
+
+2357
+01:28:43,000 --> 01:28:45,000
+an empty d-brain
+
+2358
+01:28:45,000 --> 01:28:47,000
+think of it
+
+2359
+01:28:47,000 --> 01:28:49,000
+as empty
+
+2360
+01:28:49,000 --> 01:28:51,000
+empty means it has no strings ending on it
+
+2361
+01:28:51,000 --> 01:28:53,000
+think of it as empty
+
+2362
+01:28:53,000 --> 01:28:55,000
+and think of it as empty
+
+2363
+01:28:55,000 --> 01:28:57,000
+there's an empty space
+
+2364
+01:28:57,000 --> 01:28:59,000
+the space now
+
+2365
+01:28:59,000 --> 01:29:01,000
+is not the full space
+
+2366
+01:29:01,000 --> 01:29:03,000
+but it's just a
+
+2367
+01:29:03,000 --> 01:29:05,000
+surface in space
+
+2368
+01:29:05,000 --> 01:29:07,000
+but think of it as a space
+
+2369
+01:29:07,000 --> 01:29:09,000
+it's empty
+
+2370
+01:29:09,000 --> 01:29:11,000
+we can put things into it
+
+2371
+01:29:11,000 --> 01:29:13,000
+we can put strings into it
+
+2372
+01:29:13,000 --> 01:29:15,000
+like this
+
+2373
+01:29:17,000 --> 01:29:19,000
+little open strings
+
+2374
+01:29:19,000 --> 01:29:21,000
+and these open strings are free to move around
+
+2375
+01:29:21,000 --> 01:29:23,000
+now I'll tell you what
+
+2376
+01:29:23,000 --> 01:29:25,000
+the basic process of them
+
+2377
+01:29:25,000 --> 01:29:27,000
+is
+
+2378
+01:29:27,000 --> 01:29:29,000
+the basic thing they can do
+
+2379
+01:29:29,000 --> 01:29:31,000
+is their endpoints
+
+2380
+01:29:31,000 --> 01:29:33,000
+these are oriented strings
+
+2381
+01:29:33,000 --> 01:29:35,000
+so they have arrows associated with them
+
+2382
+01:29:35,000 --> 01:29:37,000
+when the endpoints
+
+2383
+01:29:37,000 --> 01:29:39,000
+come together
+
+2384
+01:29:39,000 --> 01:29:41,000
+in string theory
+
+2385
+01:29:41,000 --> 01:29:43,000
+let's say the endpoints come together
+
+2386
+01:29:45,000 --> 01:29:47,000
+if we have two endpoints
+
+2387
+01:29:47,000 --> 01:29:49,000
+one with an arrow coming into it
+
+2388
+01:29:49,000 --> 01:29:51,000
+and the other with an arrow coming out of it
+
+2389
+01:29:53,000 --> 01:29:55,000
+they can do the obvious thing
+
+2390
+01:29:55,000 --> 01:29:57,000
+namely the endpoints
+
+2391
+01:29:57,000 --> 01:29:59,000
+come together
+
+2392
+01:29:59,000 --> 01:30:01,000
+and lift off the surface
+
+2393
+01:30:01,000 --> 01:30:03,000
+and form a single string
+
+2394
+01:30:03,000 --> 01:30:05,000
+with two endpoints like that
+
+2395
+01:30:09,000 --> 01:30:11,000
+how do we think about that
+
+2396
+01:30:11,000 --> 01:30:13,000
+if these strings
+
+2397
+01:30:13,000 --> 01:30:15,000
+like this
+
+2398
+01:30:15,000 --> 01:30:17,000
+are thought of as particles
+
+2399
+01:30:17,000 --> 01:30:19,000
+which are free to move around
+
+2400
+01:30:19,000 --> 01:30:21,000
+and in string theory
+
+2401
+01:30:21,000 --> 01:30:23,000
+particles are strings
+
+2402
+01:30:23,000 --> 01:30:25,000
+these are very much like the original open strings
+
+2403
+01:30:25,000 --> 01:30:27,000
+that we started with
+
+2404
+01:30:27,000 --> 01:30:29,000
+if we think of them as particles
+
+2405
+01:30:29,000 --> 01:30:31,000
+which are constrained to move
+
+2406
+01:30:31,000 --> 01:30:33,000
+on the surface or very close to the surface
+
+2407
+01:30:33,000 --> 01:30:35,000
+then
+
+2408
+01:30:35,000 --> 01:30:37,000
+what we discover
+
+2409
+01:30:37,000 --> 01:30:39,000
+is that these particles
+
+2410
+01:30:39,000 --> 01:30:41,000
+can split and join
+
+2411
+01:30:41,000 --> 01:30:43,000
+two of them can come in
+
+2412
+01:30:43,000 --> 01:30:45,000
+join into one
+
+2413
+01:30:45,000 --> 01:30:47,000
+one of them can go out
+
+2414
+01:30:47,000 --> 01:30:49,000
+separate into two
+
+2415
+01:30:49,000 --> 01:30:51,000
+we're starting to build up
+
+2416
+01:30:51,000 --> 01:30:53,000
+something that looks like particle processes
+
+2417
+01:30:53,000 --> 01:30:55,000
+we're starting to build up
+
+2418
+01:30:55,000 --> 01:30:57,000
+something that looks very much like
+
+2419
+01:30:57,000 --> 01:30:59,000
+Feynman diagrams
+
+2420
+01:30:59,000 --> 01:31:01,000
+two of them come in
+
+2421
+01:31:01,000 --> 01:31:03,000
+join to form one
+
+2422
+01:31:03,000 --> 01:31:05,000
+maybe it hangs around there for a while
+
+2423
+01:31:05,000 --> 01:31:07,000
+and then the reverse process happens
+
+2424
+01:31:07,000 --> 01:31:09,000
+and it becomes two again
+
+2425
+01:31:09,000 --> 01:31:11,000
+we're building up the kind of processes
+
+2426
+01:31:11,000 --> 01:31:13,000
+that quantum field theory describes
+
+2427
+01:31:13,000 --> 01:31:15,000
+creation and annihilation of particles
+
+2428
+01:31:15,000 --> 01:31:17,000
+transmutation of the number of particles
+
+2429
+01:31:17,000 --> 01:31:19,000
+and so
+
+2430
+01:31:19,000 --> 01:31:21,000
+it's not completely surprising
+
+2431
+01:31:21,000 --> 01:31:23,000
+that
+
+2432
+01:31:23,000 --> 01:31:25,000
+the mathematics
+
+2433
+01:31:25,000 --> 01:31:27,000
+of the interactions between these particles
+
+2434
+01:31:27,000 --> 01:31:29,000
+looks very much like quantum field theory
+
+2435
+01:31:29,000 --> 01:31:31,000
+in fact
+
+2436
+01:31:31,000 --> 01:31:33,000
+at low energies where you don't have enough energy
+
+2437
+01:31:33,000 --> 01:31:35,000
+to really excite the vibrations of the strings
+
+2438
+01:31:35,000 --> 01:31:37,000
+it is simply quantum field theory
+
+2439
+01:31:37,000 --> 01:31:39,000
+where the particles of the quantum field theory
+
+2440
+01:31:39,000 --> 01:31:41,000
+are these open strings
+
+2441
+01:31:41,000 --> 01:31:43,000
+in fact
+
+2442
+01:31:43,000 --> 01:31:45,000
+the open strings
+
+2443
+01:31:45,000 --> 01:31:47,000
+behave
+
+2444
+01:31:47,000 --> 01:31:49,000
+like photons
+
+2445
+01:31:49,000 --> 01:31:51,000
+moving around on the surface
+
+2446
+01:31:51,000 --> 01:31:53,000
+they're not photons in the sense of
+
+2447
+01:31:53,000 --> 01:31:55,000
+the ten dimensional theory
+
+2448
+01:31:55,000 --> 01:31:57,000
+they're photons in the sense of a
+
+2449
+01:31:57,000 --> 01:31:59,000
+theory which
+
+2450
+01:31:59,000 --> 01:32:01,000
+lives and whose particles live only on the surface
+
+2451
+01:32:03,000 --> 01:32:05,000
+that's the basic
+
+2452
+01:32:05,000 --> 01:32:07,000
+connection between brains
+
+2453
+01:32:07,000 --> 01:32:09,000
+and their application in studying quantum field theory
+
+2454
+01:32:11,000 --> 01:32:13,000
+brains
+
+2455
+01:32:13,000 --> 01:32:15,000
+like this define quantum field theories
+
+2456
+01:32:15,000 --> 01:32:17,000
+and they define quantum field theories
+
+2457
+01:32:17,000 --> 01:32:19,000
+in exactly the way that I've just described
+
+2458
+01:32:19,000 --> 01:32:21,000
+but
+
+2459
+01:32:21,000 --> 01:32:23,000
+yeah
+
+2460
+01:32:23,000 --> 01:32:25,000
+let's um
+
+2461
+01:32:25,000 --> 01:32:27,000
+briefly
+
+2462
+01:32:27,000 --> 01:32:29,000
+these open strings connected to the brain here
+
+2463
+01:32:29,000 --> 01:32:31,000
+do behave like photons
+
+2464
+01:32:31,000 --> 01:32:33,000
+moving around in the brain
+
+2465
+01:32:33,000 --> 01:32:35,000
+they behave like photons in the lower dimensional theory
+
+2466
+01:32:35,000 --> 01:32:37,000
+but
+
+2467
+01:32:37,000 --> 01:32:39,000
+let's imagine now
+
+2468
+01:32:39,000 --> 01:32:41,000
+that we had more than one brain
+
+2469
+01:32:41,000 --> 01:32:43,000
+there's no
+
+2470
+01:32:43,000 --> 01:32:45,000
+reason why you can't have several brains
+
+2471
+01:32:45,000 --> 01:32:47,000
+for example
+
+2472
+01:32:47,000 --> 01:32:49,000
+parallel to each other
+
+2473
+01:32:49,000 --> 01:32:51,000
+here's two brains parallel to each other
+
+2474
+01:32:51,000 --> 01:32:53,000
+you can move them closer and closer
+
+2475
+01:32:53,000 --> 01:32:55,000
+until they touch
+
+2476
+01:32:55,000 --> 01:32:57,000
+in which case they just form a
+
+2477
+01:32:57,000 --> 01:32:59,000
+compound brain
+
+2478
+01:32:59,000 --> 01:33:01,000
+or you can leave them separated
+
+2479
+01:33:01,000 --> 01:33:03,000
+let's leave them separated for a moment
+
+2480
+01:33:03,000 --> 01:33:05,000
+let's put three of them in just for fun
+
+2481
+01:33:07,000 --> 01:33:09,000
+three parallel brains like that
+
+2482
+01:33:09,000 --> 01:33:11,000
+and let's think
+
+2483
+01:33:11,000 --> 01:33:13,000
+of the kind of excitations
+
+2484
+01:33:13,000 --> 01:33:15,000
+that can move around on them
+
+2485
+01:33:15,000 --> 01:33:17,000
+well you can have
+
+2486
+01:33:17,000 --> 01:33:19,000
+and the excitations means
+
+2487
+01:33:19,000 --> 01:33:21,000
+ordinary strings
+
+2488
+01:33:21,000 --> 01:33:23,000
+an ordinary string
+
+2489
+01:33:23,000 --> 01:33:25,000
+let's give them names let's give the three brains
+
+2490
+01:33:25,000 --> 01:33:27,000
+the three of these names
+
+2491
+01:33:27,000 --> 01:33:29,000
+and the names I'm going to give them
+
+2492
+01:33:29,000 --> 01:33:31,000
+are red
+
+2493
+01:33:33,000 --> 01:33:35,000
+uh
+
+2494
+01:33:35,000 --> 01:33:37,000
+green
+
+2495
+01:33:37,000 --> 01:33:39,000
+and what yellow
+
+2496
+01:33:39,000 --> 01:33:41,000
+blue sorry blue
+
+2497
+01:33:41,000 --> 01:33:43,000
+blue red green and blue
+
+2498
+01:33:43,000 --> 01:33:45,000
+this is just the names of the three brains
+
+2499
+01:33:49,000 --> 01:33:51,000
+of course we could have four
+
+2500
+01:33:51,000 --> 01:33:53,000
+or we could have seven or we could have fifteen
+
+2501
+01:33:53,000 --> 01:33:55,000
+but I'm
+
+2502
+01:33:55,000 --> 01:33:57,000
+particularly interested in having three of them
+
+2503
+01:33:57,000 --> 01:33:59,000
+for the moment
+
+2504
+01:33:59,000 --> 01:34:01,000
+what kind of strings do we have
+
+2505
+01:34:01,000 --> 01:34:02,000
+we can have strings which begin
+
+2506
+01:34:02,000 --> 01:34:03,000
+on red and end on red
+
+2507
+01:34:03,000 --> 01:34:05,000
+oh remember these strings
+
+2508
+01:34:05,000 --> 01:34:07,000
+are also oriented
+
+2509
+01:34:11,000 --> 01:34:13,000
+keep in mind that they're oriented
+
+2510
+01:34:13,000 --> 01:34:15,000
+and so what would you call this string
+
+2511
+01:34:15,000 --> 01:34:17,000
+I would call it a red
+
+2512
+01:34:17,000 --> 01:34:19,000
+anti-red or a red red string
+
+2513
+01:34:19,000 --> 01:34:21,000
+this is a red red string
+
+2514
+01:34:21,000 --> 01:34:23,000
+and therefore some kind of
+
+2515
+01:34:23,000 --> 01:34:25,000
+red red particle
+
+2516
+01:34:25,000 --> 01:34:27,000
+we can also have red green particles
+
+2517
+01:34:27,000 --> 01:34:29,000
+red green particles
+
+2518
+01:34:29,000 --> 01:34:31,000
+are ones which look like this
+
+2519
+01:34:31,000 --> 01:34:33,000
+where one end begins on red
+
+2520
+01:34:33,000 --> 01:34:35,000
+the other end
+
+2521
+01:34:35,000 --> 01:34:37,000
+on green
+
+2522
+01:34:37,000 --> 01:34:38,000
+so what do we have what
+
+2523
+01:34:38,000 --> 01:34:39,000
+are the class of particles we have
+
+2524
+01:34:39,000 --> 01:34:41,000
+we have particles that are labeled
+
+2525
+01:34:41,000 --> 01:34:43,000
+by two indices
+
+2526
+01:34:43,000 --> 01:34:45,000
+two colors
+
+2527
+01:34:45,000 --> 01:34:47,000
+for the case of three brains
+
+2528
+01:34:47,000 --> 01:34:49,000
+we have three distinct colors
+
+2529
+01:34:49,000 --> 01:34:51,000
+and we have particles
+
+2530
+01:34:51,000 --> 01:34:53,000
+which are labeled by pairs
+
+2531
+01:34:53,000 --> 01:34:55,000
+of colors one
+
+2532
+01:34:55,000 --> 01:34:57,000
+associated with the outgoing
+
+2533
+01:34:57,000 --> 01:34:59,000
+and the other associated with the incoming
+
+2534
+01:34:59,000 --> 01:35:01,000
+does this sound like anything
+
+2535
+01:35:01,000 --> 01:35:03,000
+you've seen before
+
+2536
+01:35:03,000 --> 01:35:05,000
+gluons
+
+2537
+01:35:05,000 --> 01:35:07,000
+gluons in quantum chromodynamics
+
+2538
+01:35:07,000 --> 01:35:09,000
+how do you go from red to green
+
+2539
+01:35:09,000 --> 01:35:11,000
+what's that
+
+2540
+01:35:11,000 --> 01:35:13,000
+can you go from red to green
+
+2541
+01:35:13,000 --> 01:35:15,000
+yeah go right there
+
+2542
+01:35:15,000 --> 01:35:17,000
+of course
+
+2543
+01:35:17,000 --> 01:35:19,000
+sure
+
+2544
+01:35:19,000 --> 01:35:21,000
+no problem
+
+2545
+01:35:21,000 --> 01:35:23,000
+maybe you should
+
+2546
+01:35:23,000 --> 01:35:25,000
+maybe you should
+
+2547
+01:35:25,000 --> 01:35:26,000
+keep in mind that this is
+
+2548
+01:35:26,000 --> 01:35:27,000
+embedded in a higher dimensional space
+
+2549
+01:35:27,000 --> 01:35:29,000
+so to mimic that
+
+2550
+01:35:29,000 --> 01:35:31,000
+let's think of lines
+
+2551
+01:35:31,000 --> 01:35:33,000
+in higher dimensional space
+
+2552
+01:35:33,000 --> 01:35:35,000
+now there's no problem in going from here to here
+
+2553
+01:35:35,000 --> 01:35:37,000
+or from here around to here
+
+2554
+01:35:37,000 --> 01:35:39,000
+you're worried about passing through here
+
+2555
+01:35:39,000 --> 01:35:40,000
+well I'm worried if you have to merge a red
+
+2556
+01:35:40,000 --> 01:35:41,000
+green with a green blue to get a red blue
+
+2557
+01:35:41,000 --> 01:35:43,000
+well we have
+
+2558
+01:35:43,000 --> 01:35:45,000
+there will be some rules
+
+2559
+01:35:45,000 --> 01:35:47,000
+there will be some rules
+
+2560
+01:35:47,000 --> 01:35:49,000
+um
+
+2561
+01:35:49,000 --> 01:35:51,000
+and the basic rule
+
+2562
+01:35:51,000 --> 01:35:53,000
+what is the basic rule
+
+2563
+01:35:53,000 --> 01:35:55,000
+is that if you have a red green
+
+2564
+01:35:55,000 --> 01:35:57,000
+the basic rule is really only one rule
+
+2565
+01:35:57,000 --> 01:35:59,000
+but we can use it over and over again
+
+2566
+01:35:59,000 --> 01:36:01,000
+um
+
+2567
+01:36:01,000 --> 01:36:03,000
+a
+
+2568
+01:36:03,000 --> 01:36:05,000
+red green string
+
+2569
+01:36:07,000 --> 01:36:08,000
+what can it do if
+
+2570
+01:36:08,000 --> 01:36:09,000
+it hits a red red string
+
+2571
+01:36:09,000 --> 01:36:10,000
+what can it do if
+
+2572
+01:36:10,000 --> 01:36:11,000
+it hits a red red string
+
+2573
+01:36:11,000 --> 01:36:13,000
+alright
+
+2574
+01:36:13,000 --> 01:36:15,000
+let's suppose this is going out here
+
+2575
+01:36:15,000 --> 01:36:17,000
+and coming in here
+
+2576
+01:36:17,000 --> 01:36:19,000
+let's suppose
+
+2577
+01:36:19,000 --> 01:36:21,000
+this is going
+
+2578
+01:36:21,000 --> 01:36:23,000
+let's see what I want to have
+
+2579
+01:36:23,000 --> 01:36:25,000
+I want to have in here
+
+2580
+01:36:25,000 --> 01:36:27,000
+and
+
+2581
+01:36:27,000 --> 01:36:29,000
+out here
+
+2582
+01:36:29,000 --> 01:36:31,000
+ok
+
+2583
+01:36:31,000 --> 01:36:33,000
+what can happen
+
+2584
+01:36:37,000 --> 01:36:39,000
+this end
+
+2585
+01:36:39,000 --> 01:36:41,000
+can join with this end
+
+2586
+01:36:41,000 --> 01:36:43,000
+they can come together
+
+2587
+01:36:43,000 --> 01:36:45,000
+and join and form
+
+2588
+01:36:45,000 --> 01:36:47,000
+a single string which goes all the ways
+
+2589
+01:36:47,000 --> 01:36:49,000
+from here
+
+2590
+01:36:49,000 --> 01:36:51,000
+to here
+
+2591
+01:36:51,000 --> 01:36:53,000
+in other words
+
+2592
+01:36:53,000 --> 01:36:55,000
+the red anti-red the thing coming into red
+
+2593
+01:36:55,000 --> 01:36:57,000
+and the thing going out of red
+
+2594
+01:36:57,000 --> 01:36:59,000
+one in one out
+
+2595
+01:36:59,000 --> 01:37:01,000
+can join and
+
+2596
+01:37:01,000 --> 01:37:03,000
+simply make a single string
+
+2597
+01:37:03,000 --> 01:37:05,000
+this is very much like a
+
+2598
+01:37:05,000 --> 01:37:07,000
+green
+
+2599
+01:37:07,000 --> 01:37:09,000
+red gluon
+
+2600
+01:37:09,000 --> 01:37:11,000
+coming together with a red red gluon
+
+2601
+01:37:11,000 --> 01:37:13,000
+and forming another red green gluon
+
+2602
+01:37:13,000 --> 01:37:15,000
+same rules
+
+2603
+01:37:15,000 --> 01:37:17,000
+exactly the same rules
+
+2604
+01:37:17,000 --> 01:37:19,000
+as for gluons
+
+2605
+01:37:19,000 --> 01:37:21,000
+but this string cannot
+
+2606
+01:37:21,000 --> 01:37:23,000
+annihilate or lift
+
+2607
+01:37:23,000 --> 01:37:25,000
+itself off the
+
+2608
+01:37:25,000 --> 01:37:27,000
+surface
+
+2609
+01:37:27,000 --> 01:37:29,000
+on the other hand if we had this situation
+
+2610
+01:37:29,000 --> 01:37:31,000
+here
+
+2611
+01:37:31,000 --> 01:37:33,000
+then these can come together
+
+2612
+01:37:33,000 --> 01:37:35,000
+and they can lift themselves off the surface
+
+2613
+01:37:37,000 --> 01:37:39,000
+that's incidentally why
+
+2614
+01:37:39,000 --> 01:37:41,000
+there are eight gluons instead of nine
+
+2615
+01:37:41,000 --> 01:37:43,000
+because one linear
+
+2616
+01:37:43,000 --> 01:37:45,000
+combination can disappear
+
+2617
+01:37:45,000 --> 01:37:47,000
+and is not stable
+
+2618
+01:37:47,000 --> 01:37:49,000
+ah
+
+2619
+01:37:49,000 --> 01:37:51,000
+so
+
+2620
+01:37:51,000 --> 01:37:53,000
+the
+
+2621
+01:37:53,000 --> 01:37:55,000
+mathematical rules for
+
+2622
+01:37:55,000 --> 01:37:57,000
+splitting and joining are exactly
+
+2623
+01:37:57,000 --> 01:37:59,000
+the Yang-Mills
+
+2624
+01:37:59,000 --> 01:38:01,000
+quantum chromodynamics
+
+2625
+01:38:01,000 --> 01:38:03,000
+rules for gluons
+
+2626
+01:38:03,000 --> 01:38:05,000
+ok what about
+
+2627
+01:38:05,000 --> 01:38:07,000
+quarks ok so now
+
+2628
+01:38:07,000 --> 01:38:09,000
+what about quarks what is a quark in this language
+
+2629
+01:38:09,000 --> 01:38:11,000
+a quark in this
+
+2630
+01:38:11,000 --> 01:38:13,000
+language only has one color
+
+2631
+01:38:13,000 --> 01:38:15,000
+it's either a quark
+
+2632
+01:38:15,000 --> 01:38:17,000
+or an anti-quark
+
+2633
+01:38:17,000 --> 01:38:19,000
+it only has one color it doesn't have
+
+2634
+01:38:19,000 --> 01:38:21,000
+three colors
+
+2635
+01:38:21,000 --> 01:38:23,000
+sorry it doesn't have two colors
+
+2636
+01:38:23,000 --> 01:38:25,000
+and an anti-color
+
+2637
+01:38:25,000 --> 01:38:27,000
+a quark must be a thing which only has
+
+2638
+01:38:27,000 --> 01:38:29,000
+one end
+
+2639
+01:38:29,000 --> 01:38:31,000
+a quark in this language
+
+2640
+01:38:31,000 --> 01:38:33,000
+is a string
+
+2641
+01:38:33,000 --> 01:38:35,000
+which ends on one of these
+
+2642
+01:38:35,000 --> 01:38:37,000
+brains and goes off
+
+2643
+01:38:37,000 --> 01:38:39,000
+to infinity
+
+2644
+01:38:39,000 --> 01:38:41,000
+ok now it doesn't
+
+2645
+01:38:41,000 --> 01:38:43,000
+really have to go off to infinity
+
+2646
+01:38:43,000 --> 01:38:45,000
+it could go off to some distant
+
+2647
+01:38:45,000 --> 01:38:47,000
+brain of a different kind
+
+2648
+01:38:47,000 --> 01:38:49,000
+but it
+
+2649
+01:38:49,000 --> 01:38:51,000
+doesn't have another end which
+
+2650
+01:38:51,000 --> 01:38:53,000
+ends on one of these three
+
+2651
+01:38:53,000 --> 01:38:55,000
+that's a quark and it's either a string
+
+2652
+01:38:55,000 --> 01:38:57,000
+coming in or a string going out
+
+2653
+01:38:59,000 --> 01:39:01,000
+when a string coming in and a
+
+2654
+01:39:01,000 --> 01:39:03,000
+string going out meet each other
+
+2655
+01:39:03,000 --> 01:39:05,000
+they can join and just
+
+2656
+01:39:05,000 --> 01:39:07,000
+disappear out into
+
+2657
+01:39:07,000 --> 01:39:09,000
+off the brain
+
+2658
+01:39:09,000 --> 01:39:11,000
+they can join
+
+2659
+01:39:11,000 --> 01:39:13,000
+and disappear from the brain
+
+2660
+01:39:13,000 --> 01:39:15,000
+that's annihilation of a quark and an anti-quark
+
+2661
+01:39:15,000 --> 01:39:17,000
+if there's
+
+2662
+01:39:17,000 --> 01:39:19,000
+two quarks they can't annihilate
+
+2663
+01:39:23,000 --> 01:39:25,000
+they're stuck there
+
+2664
+01:39:25,000 --> 01:39:27,000
+and that's exactly the same rule
+
+2665
+01:39:27,000 --> 01:39:29,000
+as quarks
+
+2666
+01:39:29,000 --> 01:39:31,000
+the mathematical structure
+
+2667
+01:39:31,000 --> 01:39:33,000
+of the field theory that describe
+
+2668
+01:39:33,000 --> 01:39:35,000
+these strings moving around is essentially
+
+2669
+01:39:37,000 --> 01:39:39,000
+with some little extra
+
+2670
+01:39:39,000 --> 01:39:41,000
+added ingredients because of supersymmetry
+
+2671
+01:39:41,000 --> 01:39:43,000
+it's a supersymmetric version of
+
+2672
+01:39:43,000 --> 01:39:45,000
+quantum chromodynamics
+
+2673
+01:39:45,000 --> 01:39:47,000
+and it is
+
+2674
+01:39:47,000 --> 01:39:49,000
+part
+
+2675
+01:39:49,000 --> 01:39:51,000
+of the reason that
+
+2676
+01:39:51,000 --> 01:39:53,000
+brains are interesting
+
+2677
+01:39:53,000 --> 01:39:55,000
+for exploring quantum
+
+2678
+01:39:55,000 --> 01:39:57,000
+chromodynamics
+
+2679
+01:39:57,000 --> 01:39:59,000
+I'm not going to show you how they're used
+
+2680
+01:39:59,000 --> 01:40:01,000
+in detail I'm just showing you what the
+
+2681
+01:40:01,000 --> 01:40:03,000
+connection between things is
+
+2682
+01:40:11,000 --> 01:40:13,000
+let's suppose there's only one brain
+
+2683
+01:40:19,000 --> 01:40:21,000
+then it's not like quantum chromodynamics
+
+2684
+01:40:21,000 --> 01:40:23,000
+what do you think it might be like
+
+2685
+01:40:25,000 --> 01:40:27,000
+now we have objects
+
+2686
+01:40:27,000 --> 01:40:29,000
+we don't have to name them
+
+2687
+01:40:29,000 --> 01:40:31,000
+red, red, green, blue, it's just a
+
+2688
+01:40:31,000 --> 01:40:33,000
+string
+
+2689
+01:40:33,000 --> 01:40:35,000
+it's like quantum
+
+2690
+01:40:35,000 --> 01:40:37,000
+electrodynamics
+
+2691
+01:40:37,000 --> 01:40:39,000
+it has only photons
+
+2692
+01:40:39,000 --> 01:40:41,000
+it doesn't have this complicated gluon
+
+2693
+01:40:41,000 --> 01:40:43,000
+structure, these would be photons
+
+2694
+01:40:43,000 --> 01:40:45,000
+and
+
+2695
+01:40:45,000 --> 01:40:47,000
+what would these things be
+
+2696
+01:40:49,000 --> 01:40:51,000
+charge
+
+2697
+01:40:51,000 --> 01:40:53,000
+electrons
+
+2698
+01:40:53,000 --> 01:40:55,000
+they could be coming in
+
+2699
+01:40:55,000 --> 01:40:57,000
+or they could be going out
+
+2700
+01:40:57,000 --> 01:40:59,000
+in which case they would be electrons and positrons
+
+2701
+01:40:59,000 --> 01:41:01,000
+when two of them come together
+
+2702
+01:41:01,000 --> 01:41:03,000
+they can annihilate
+
+2703
+01:41:03,000 --> 01:41:05,000
+one last point
+
+2704
+01:41:05,000 --> 01:41:07,000
+which is really quite fascinating
+
+2705
+01:41:07,000 --> 01:41:09,000
+remember
+
+2706
+01:41:09,000 --> 01:41:11,000
+I told you that there are
+
+2707
+01:41:11,000 --> 01:41:13,000
+ordinary strings
+
+2708
+01:41:13,000 --> 01:41:15,000
+and d-strings
+
+2709
+01:41:15,000 --> 01:41:17,000
+d-strings were these new
+
+2710
+01:41:17,000 --> 01:41:19,000
+objects that we discovered
+
+2711
+01:41:19,000 --> 01:41:21,000
+these new objects which are a good deal heavier
+
+2712
+01:41:21,000 --> 01:41:23,000
+but they're also strings
+
+2713
+01:41:23,000 --> 01:41:25,000
+an interesting question is
+
+2714
+01:41:25,000 --> 01:41:27,000
+can a d-string
+
+2715
+01:41:27,000 --> 01:41:29,000
+also end on a brain
+
+2716
+01:41:29,000 --> 01:41:31,000
+like this
+
+2717
+01:41:31,000 --> 01:41:33,000
+incidentally I'm thinking about
+
+2718
+01:41:33,000 --> 01:41:35,000
+three brains because I'm thinking about
+
+2719
+01:41:35,000 --> 01:41:37,000
+mimicking three dimensional space
+
+2720
+01:41:37,000 --> 01:41:39,000
+d-three brains
+
+2721
+01:41:39,000 --> 01:41:41,000
+so these are really d-three brains
+
+2722
+01:41:41,000 --> 01:41:43,000
+interesting question
+
+2723
+01:41:43,000 --> 01:41:45,000
+can a d-string
+
+2724
+01:41:45,000 --> 01:41:47,000
+a d-string is itself something that ordinary
+
+2725
+01:41:47,000 --> 01:41:49,000
+strings can end on but let's forget that
+
+2726
+01:41:49,000 --> 01:41:51,000
+can a d-string
+
+2727
+01:41:51,000 --> 01:41:53,000
+end on a three brain
+
+2728
+01:41:53,000 --> 01:41:55,000
+a d-three brain, the answer is yes
+
+2729
+01:41:55,000 --> 01:41:57,000
+I'm not going to try to prove that for you
+
+2730
+01:41:57,000 --> 01:41:59,000
+that's a much more elaborate question
+
+2731
+01:41:59,000 --> 01:42:01,000
+but then
+
+2732
+01:42:01,000 --> 01:42:03,000
+if ordinary strings
+
+2733
+01:42:03,000 --> 01:42:05,000
+the ones we started with
+
+2734
+01:42:05,000 --> 01:42:07,000
+make electrically charged particles
+
+2735
+01:42:07,000 --> 01:42:09,000
+what do d-strings
+
+2736
+01:42:09,000 --> 01:42:11,000
+make
+
+2737
+01:42:11,000 --> 01:42:13,000
+at their ends
+
+2738
+01:42:13,000 --> 01:42:15,000
+when they intersect
+
+2739
+01:42:15,000 --> 01:42:17,000
+the three brain here
+
+2740
+01:42:17,000 --> 01:42:19,000
+can you guess
+
+2741
+01:42:19,000 --> 01:42:21,000
+hmm? neutral? nope
+
+2742
+01:42:21,000 --> 01:42:23,000
+well they're in some sense neutral
+
+2743
+01:42:23,000 --> 01:42:25,000
+but they
+
+2744
+01:42:25,000 --> 01:42:27,000
+they gotta be something
+
+2745
+01:42:27,000 --> 01:42:29,000
+which is similar to what happens when ordinary
+
+2746
+01:42:29,000 --> 01:42:31,000
+strings end
+
+2747
+01:42:31,000 --> 01:42:33,000
+magnetic
+
+2748
+01:42:33,000 --> 01:42:35,000
+magnetic monopoles
+
+2749
+01:42:35,000 --> 01:42:37,000
+remarkable, the magnetic monopoles
+
+2750
+01:42:37,000 --> 01:42:39,000
+are much heavier than the electrons
+
+2751
+01:42:39,000 --> 01:42:41,000
+because d-strings
+
+2752
+01:42:41,000 --> 01:42:43,000
+are much heavier
+
+2753
+01:42:43,000 --> 01:42:45,000
+magnetic monopoles are expected to be much heavier
+
+2754
+01:42:45,000 --> 01:42:47,000
+than electrons
+
+2755
+01:42:47,000 --> 01:42:49,000
+they become magnetic monopoles
+
+2756
+01:42:49,000 --> 01:42:51,000
+the relation between
+
+2757
+01:42:51,000 --> 01:42:53,000
+magnetic monopoles and electrical monopoles
+
+2758
+01:42:53,000 --> 01:42:55,000
+in
+
+2759
+01:42:55,000 --> 01:42:57,000
+in quantum
+
+2760
+01:42:57,000 --> 01:42:59,000
+electrodynamics is mimicked
+
+2761
+01:42:59,000 --> 01:43:01,000
+by the relation between d-strings
+
+2762
+01:43:01,000 --> 01:43:03,000
+ending on these things and
+
+2763
+01:43:03,000 --> 01:43:05,000
+ordinary strings on them
+
+2764
+01:43:05,000 --> 01:43:06,000
+so I've told you a
+
+2765
+01:43:06,000 --> 01:43:07,000
+lot of stuff, I don't expect
+
+2766
+01:43:07,000 --> 01:43:09,000
+that you're going to follow every detail
+
+2767
+01:43:09,000 --> 01:43:11,000
+but I'm trying to show you how
+
+2768
+01:43:11,000 --> 01:43:13,000
+string theorists discovered
+
+2769
+01:43:13,000 --> 01:43:15,000
+it took a long time to make
+
+2770
+01:43:15,000 --> 01:43:17,000
+I mean this didn't happen all in one day
+
+2771
+01:43:17,000 --> 01:43:19,000
+this happened over a period of 20 years
+
+2772
+01:43:19,000 --> 01:43:21,000
+basically or more
+
+2773
+01:43:21,000 --> 01:43:23,000
+no more than
+
+2774
+01:43:23,000 --> 01:43:25,000
+more than 20 years, 25 or more
+
+2775
+01:43:25,000 --> 01:43:27,000
+30 years that all these pieces were put
+
+2776
+01:43:27,000 --> 01:43:29,000
+together by various people
+
+2777
+01:43:29,000 --> 01:43:31,000
+a very wide variety of people
+
+2778
+01:43:31,000 --> 01:43:33,000
+who saw these connections
+
+2779
+01:43:33,000 --> 01:43:35,000
+and today
+
+2780
+01:43:35,000 --> 01:43:37,000
+um
+
+2781
+01:43:37,000 --> 01:43:39,000
+string theory
+
+2782
+01:43:39,000 --> 01:43:41,000
+and its description in terms of
+
+2783
+01:43:41,000 --> 01:43:43,000
+brains is the primary
+
+2784
+01:43:43,000 --> 01:43:45,000
+tool for studying quantum
+
+2785
+01:43:45,000 --> 01:43:47,000
+chromodynamics
+
+2786
+01:43:47,000 --> 01:43:49,000
+it's very bizarre
+
+2787
+01:43:49,000 --> 01:43:51,000
+the whole thing made a full circle
+
+2788
+01:43:51,000 --> 01:43:53,000
+made a full circle from a theory
+
+2789
+01:43:53,000 --> 01:43:55,000
+of hadrons to a theory
+
+2790
+01:43:55,000 --> 01:43:57,000
+of quantum gravity
+
+2791
+01:43:57,000 --> 01:43:59,000
+to the presence of d-brains
+
+2792
+01:43:59,000 --> 01:44:01,000
+that was
+
+2793
+01:44:01,000 --> 01:44:03,000
+necessarily there
+
+2794
+01:44:03,000 --> 01:44:05,000
+which when you put them together
+
+2795
+01:44:05,000 --> 01:44:07,000
+in the 10 dimensional space
+
+2796
+01:44:07,000 --> 01:44:09,000
+put together 3 dimensional d-brains
+
+2797
+01:44:09,000 --> 01:44:11,000
+all of a sudden becomes
+
+2798
+01:44:11,000 --> 01:44:13,000
+the theory of
+
+2799
+01:44:13,000 --> 01:44:15,000
+quantum chromodynamics
+
+2800
+01:44:15,000 --> 01:44:17,000
+that we
+
+2801
+01:44:17,000 --> 01:44:19,000
+that it started out as
+
+2802
+01:44:19,000 --> 01:44:21,000
+so
+
+2803
+01:44:21,000 --> 01:44:23,000
+that's
+
+2804
+01:44:23,000 --> 01:44:25,000
+I don't know what to describe
+
+2805
+01:44:25,000 --> 01:44:27,000
+I describe it as sort of mental gymnastics
+
+2806
+01:44:27,000 --> 01:44:29,000
+but I think it's more than that
+
+2807
+01:44:29,000 --> 01:44:31,000
+I think it's a process of discovery
+
+2808
+01:44:31,000 --> 01:44:33,000
+and unraveling of the
+
+2809
+01:44:33,000 --> 01:44:35,000
+mathematical structure of this thing
+
+2810
+01:44:37,000 --> 01:44:39,000
+it has
+
+2811
+01:44:39,000 --> 01:44:41,000
+wide application to
+
+2812
+01:44:41,000 --> 01:44:43,000
+quantum chromodynamics
+
+2813
+01:44:43,000 --> 01:44:45,000
+other quantum field theories
+
+2814
+01:44:45,000 --> 01:44:47,000
+fluid dynamics
+
+2815
+01:44:47,000 --> 01:44:49,000
+all kinds of things
+
+2816
+01:44:49,000 --> 01:44:51,000
+so far it has not had application
+
+2817
+01:44:51,000 --> 01:44:53,000
+to a direct application
+
+2818
+01:44:53,000 --> 01:44:55,000
+to understanding the particle spectrum
+
+2819
+01:44:55,000 --> 01:44:57,000
+and that's probably because
+
+2820
+01:44:57,000 --> 01:44:59,000
+it's just too complicated
+
+2821
+01:44:59,000 --> 01:45:01,000
+what determines which
+
+2822
+01:45:01,000 --> 01:45:03,000
+of the dimensions the t-duality
+
+2823
+01:45:03,000 --> 01:45:05,000
+is applied to?
+
+2824
+01:45:05,000 --> 01:45:07,000
+oh you can do it to any dimension you please
+
+2825
+01:45:07,000 --> 01:45:09,000
+any compact dimension you please
+
+2826
+01:45:09,000 --> 01:45:11,000
+you choose one that's convenient
+
+2827
+01:45:11,000 --> 01:45:13,000
+you choose one that's convenient
+
+2828
+01:45:13,000 --> 01:45:15,000
+but that eventually just winds up saying
+
+2829
+01:45:15,000 --> 01:45:17,000
+that these d-brains
+
+2830
+01:45:17,000 --> 01:45:19,000
+can lie along any axis
+
+2831
+01:45:19,000 --> 01:45:21,000
+and what chooses it?
+
+2832
+01:45:21,000 --> 01:45:23,000
+the history of the universe
+
+2833
+01:45:23,000 --> 01:45:27,000
+is the membrane for magnetic monopoles
+
+2834
+01:45:27,000 --> 01:45:29,000
+I mean magnetic monopoles
+
+2835
+01:45:29,000 --> 01:45:31,000
+three
+
+2836
+01:45:31,000 --> 01:45:33,000
+three
+
+2837
+01:45:33,000 --> 01:45:35,000
+d-three
+
+2838
+01:45:35,000 --> 01:45:37,000
+the universe here
+
+2839
+01:45:37,000 --> 01:45:39,000
+from our point of view
+
+2840
+01:45:39,000 --> 01:45:41,000
+is a three brain here
+
+2841
+01:45:41,000 --> 01:45:43,000
+d-three brain
+
+2842
+01:45:43,000 --> 01:45:45,000
+but if from some of the other time dimensions
+
+2843
+01:45:45,000 --> 01:45:47,000
+which the people who live on this world
+
+2844
+01:45:47,000 --> 01:45:49,000
+don't even know about
+
+2845
+01:45:49,000 --> 01:45:51,000
+but a string ends over here
+
+2846
+01:45:51,000 --> 01:45:53,000
+and happens to be a d-string
+
+2847
+01:45:53,000 --> 01:45:55,000
+so that means
+
+2848
+01:45:55,000 --> 01:45:57,000
+these d-strings are oriented as well
+
+2849
+01:45:57,000 --> 01:45:59,000
+what's that?
+
+2850
+01:45:59,000 --> 01:46:01,000
+the d-strings are also oriented
+
+2851
+01:46:01,000 --> 01:46:03,000
+absolutely
+
+2852
+01:46:03,000 --> 01:46:05,000
+they're also oriented
+
+2853
+01:46:05,000 --> 01:46:07,000
+you use two planes for SU2
+
+2854
+01:46:07,000 --> 01:46:09,000
+and how do you get the
+
+2855
+01:46:09,000 --> 01:46:11,000
+feature where it's not
+
+2856
+01:46:11,000 --> 01:46:13,000
+reflective in other words
+
+2857
+01:46:13,000 --> 01:46:15,000
+SU2 if you have a
+
+2858
+01:46:15,000 --> 01:46:17,000
+reflective universe
+
+2859
+01:46:17,000 --> 01:46:19,000
+the physics doesn't work the same way
+
+2860
+01:46:19,000 --> 01:46:21,000
+parallel
+
+2861
+01:46:21,000 --> 01:46:23,000
+oh you're talking about charge conjugation
+
+2862
+01:46:23,000 --> 01:46:25,000
+and violation
+
+2863
+01:46:25,000 --> 01:46:27,000
+I don't know the term
+
+2864
+01:46:27,000 --> 01:46:29,000
+but I'm talking about
+
+2865
+01:46:29,000 --> 01:46:31,000
+how we have left handed and right handed
+
+2866
+01:46:31,000 --> 01:46:33,000
+or particle and anti-particle
+
+2867
+01:46:33,000 --> 01:46:35,000
+more interesting
+
+2868
+01:46:35,000 --> 01:46:37,000
+yeah
+
+2869
+01:46:37,000 --> 01:46:39,000
+there are answers
+
+2870
+01:46:39,000 --> 01:46:41,000
+string theory
+
+2871
+01:46:41,000 --> 01:46:43,000
+certainly has
+
+2872
+01:46:43,000 --> 01:46:45,000
+potential possibility to describe that
+
+2873
+01:46:45,000 --> 01:46:47,000
+but not at this level
+
+2874
+01:46:47,000 --> 01:46:49,000
+at this level you need
+
+2875
+01:46:49,000 --> 01:46:51,000
+when you have kalabi-yao manifolds
+
+2876
+01:46:51,000 --> 01:46:53,000
+they can have more complicated
+
+2877
+01:46:53,000 --> 01:46:55,000
+asymmetries that allow that
+
+2878
+01:46:55,000 --> 01:46:57,000
+this toroidal compactification
+
+2879
+01:46:57,000 --> 01:46:59,000
+doesn't allow it
+
+2880
+01:47:01,000 --> 01:47:03,000
+there's a lot
+
+2881
+01:47:03,000 --> 01:47:05,000
+there are many many other objects
+
+2882
+01:47:05,000 --> 01:47:07,000
+in the theory which I haven't gotten into
+
+2883
+01:47:07,000 --> 01:47:09,000
+this is
+
+2884
+01:47:09,000 --> 01:47:11,000
+these are the simplest to describe
+
+2885
+01:47:11,000 --> 01:47:13,000
+there are lots of other constructions
+
+2886
+01:47:13,000 --> 01:47:15,000
+and other kinds of objects
+
+2887
+01:47:15,000 --> 01:47:17,000
+that the theory has to have
+
+2888
+01:47:17,000 --> 01:47:19,000
+and
+
+2889
+01:47:19,000 --> 01:47:21,000
+some
+
+2890
+01:47:21,000 --> 01:47:23,000
+some of them
+
+2891
+01:47:23,000 --> 01:47:25,000
+break various symmetries
+
+2892
+01:47:25,000 --> 01:47:27,000
+and
+
+2893
+01:47:27,000 --> 01:47:29,000
+we can talk
+
+2894
+01:47:29,000 --> 01:47:31,000
+we can discuss them some other time
+
+2895
+01:47:31,000 --> 01:47:33,000
+I'm out of
+
+2896
+01:47:33,000 --> 01:47:35,000
+time
+
+2897
+01:47:35,000 --> 01:47:37,000
+I'm out of energy
+
+2898
+01:47:37,000 --> 01:47:39,000
+and I'm out of momentum
+
+2899
+01:47:39,000 --> 01:47:41,000
+and
+
+2900
+01:47:41,000 --> 01:47:43,000
+applause
+
+2901
+01:47:43,000 --> 01:47:45,000
+for more
+
+2902
+01:47:45,000 --> 01:47:47,000
+please visit us at
+
+2903
+01:47:47,000 --> 01:47:48,603
+stanford.edu
+
