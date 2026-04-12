@@ -1,0 +1,1914 @@
+# Transcript
+
+Source: supplementary/particle_physics_2_standard_model/2010_winter/092 - Lecture 8 ｜ New Revolutions in Particle Physics： Standard Model [fw4K3sgza04].mkv
+
+- [00:00:00,000 - 00:00:07,000] Stanford University
+- [00:00:09,000 - 00:00:12,000] You think I don't know, don't you?
+- [00:00:13,000 - 00:00:14,500] No, as a matter of fact I do know
+- [00:00:14,500 - 00:00:16,000] and that's what we're going to talk about tonight
+- [00:00:16,000 - 00:00:19,000] and it's called the phenomena.
+- [00:00:19,000 - 00:00:23,000] What is the... Higgs! Higgs!
+- [00:00:23,000 - 00:00:25,500] I think you started to cover
+- [00:00:25,500 - 00:00:28,000] this last week and I didn't really...
+- [00:00:28,000 - 00:00:30,000] You described what you were talking
+- [00:00:30,000 - 00:00:32,000] about as giving mass to the photon
+- [00:00:32,000 - 00:00:34,000] Yes, that's what we're going to talk about tonight.
+- [00:00:34,000 - 00:00:35,500] We don't actually give mass
+- [00:00:35,500 - 00:00:37,000] to the photon, so what's different...
+- [00:00:37,000 - 00:00:41,000] No, no, no, that's right. The real photon, the
+- [00:00:41,000 - 00:00:45,000] symmetry group associated with it, is not spontaneously broken.
+- [00:00:45,000 - 00:00:49,000] Tonight we're going to talk about how,
+- [00:00:49,000 - 00:00:53,000] if the symmetry group associated with the photon
+- [00:00:53,000 - 00:00:55,000] were broken spontaneously, how it
+- [00:00:55,000 - 00:00:57,000] would give the photon a mass.
+- [00:00:57,000 - 00:00:58,000] Now, there's a lot of information about this.
+- [00:00:58,000 - 00:01:01,500] Now, the reason we're doing that is because exactly that
+- [00:01:01,500 - 00:01:05,000] phenomena happens with the Z boson and the W bosons.
+- [00:01:05,000 - 00:01:10,000] The photon is a little bit simpler.
+- [00:01:10,000 - 00:01:13,000] Indeed, it might have had a mass.
+- [00:01:13,000 - 00:01:16,000] The fact that it doesn't have a
+- [00:01:16,000 - 00:01:19,000] mass is perhaps an accident of nature.
+- [00:01:19,000 - 00:01:23,000] The absence of an appropriate Higgs field.
+- [00:01:23,000 - 00:01:25,000] We're going to talk about what the
+- [00:01:25,000 - 00:01:27,000] Higgs field is to give it mass.
+- [00:01:27,000 - 00:01:30,000] So, that's what we want to talk about tonight.
+- [00:01:30,000 - 00:01:34,500] How gauge bosons, like the photon,
+- [00:01:34,500 - 00:01:39,000] get a mass when spontaneous symmetry breaking...
+- [00:01:39,000 - 00:01:41,000] What is the symmetry, incidentally, when
+- [00:01:41,000 - 00:01:43,000] I say associated with the photon?
+- [00:01:43,000 - 00:01:46,000] There's a conserved quantity, which is the charge.
+- [00:01:46,000 - 00:01:49,000] Conserved quantities always go with symmetries.
+- [00:01:49,000 - 00:01:51,000] What's the symmetry that's connected
+- [00:01:51,000 - 00:01:53,000] with the conservation of electric charge?
+- [00:01:53,000 - 00:01:54,000] U1.
+- [00:01:54,000 - 00:01:55,000] U1.
+- [00:01:55,000 - 00:01:56,000] It's the thing which multiplies the charge.
+- [00:01:56,000 - 00:01:58,000] It's the thing which multiplies
+- [00:01:58,000 - 00:02:00,000] the charge fields by a phase.
+- [00:02:00,000 - 00:02:03,000] It is a kind of rotation
+- [00:02:03,000 - 00:02:06,000] in the complex plane, the complex field.
+- [00:02:06,000 - 00:02:11,500] So, I'm going to explain to you tonight how spontaneous
+- [00:02:11,500 - 00:02:17,000] symmetry breaking of that symmetry induces a mass for the photon.
+- [00:02:17,000 - 00:02:20,500] Now, there is a situation in nature
+- [00:02:20,500 - 00:02:24,000] where the photon does get a mass,
+- [00:02:24,000 - 00:02:28,000] and the symmetry of U1 symmetry is spontaneously broken.
+- [00:02:28,000 - 00:02:30,000] Does anybody know what it is?
+- [00:02:30,000 - 00:02:32,000] A condensed matter.
+- [00:02:32,000 - 00:02:34,000] It is a condensed matter, yes.
+- [00:02:34,000 - 00:02:38,000] Okay, the answer is in a superconductor.
+- [00:02:38,000 - 00:02:43,000] In a superconductor, photons propagate with a mass.
+- [00:02:43,000 - 00:02:45,000] Now, that's in the superconductor.
+- [00:02:45,000 - 00:02:49,000] When they leave the superconductor, they're photons again.
+- [00:02:49,000 - 00:02:51,000] When they're in the superconductor, they
+- [00:02:51,000 - 00:02:53,000] behave as if they had a mass.
+- [00:02:54,000 - 00:02:58,000] Okay, so that's an example of the Higgs phenomena.
+- [00:02:58,000 - 00:03:02,000] And we can talk about it.
+- [00:03:02,000 - 00:03:05,000] Would that also be the case when the
+- [00:03:05,000 - 00:03:08,000] photon is traveling through something other than a vacuum?
+- [00:03:08,000 - 00:03:10,500] Well, the superconductivity only happens when the photon
+- [00:03:10,500 - 00:03:13,000] is traveling through something other than the vacuum.
+- [00:03:13,000 - 00:03:16,000] No, no.
+- [00:03:16,000 - 00:03:20,000] Superconductivity or the photon, no, no, no.
+- [00:03:20,000 - 00:03:24,000] The photon does not propagate with a mass.
+- [00:03:24,000 - 00:03:28,000] It does not propagate with a mass in a prism.
+- [00:03:28,000 - 00:03:31,000] Its velocity is slower than the speed of light,
+- [00:03:31,000 - 00:03:35,000] but it's still true that at zero
+- [00:03:35,000 - 00:03:39,000] momentum, meaning infinite wavelength, its frequency is zero.
+- [00:03:39,000 - 00:03:41,000] Okay, let's talk about the difference.
+- [00:03:41,000 - 00:03:43,000] That's an interesting difference.
+- [00:03:43,000 - 00:03:46,000] Might as well talk about it.
+- [00:03:46,000 - 00:03:52,000] The relevant issue is the shape
+- [00:03:52,000 - 00:03:54,000] of a certain curve.
+- [00:03:54,000 - 00:04:02,000] The curve is either energy versus momentum,
+- [00:04:02,000 - 00:04:07,000] or for waves, what corresponds to momentum for waves,
+- [00:04:07,000 - 00:04:12,000] either inverse wavelength or wave number, k.
+- [00:04:12,000 - 00:04:15,000] Everybody remember k?
+- [00:04:15,000 - 00:04:17,000] k is basically the inverse of the wavelength,
+- [00:04:17,000 - 00:04:20,000] and vertically what do we have instead of energy?
+- [00:04:20,000 - 00:04:22,000] k is like this.
+- [00:04:22,000 - 00:04:23,000] Now, k is like this.
+- [00:04:23,000 - 00:04:25,000] k is like p.
+- [00:04:25,000 - 00:04:27,000] Vertical, here was energy.
+- [00:04:27,000 - 00:04:31,000] Frequency, frequency, omega.
+- [00:04:31,000 - 00:04:33,000] Right?
+- [00:04:33,000 - 00:04:38,000] Remember, e equals h bar omega,
+- [00:04:38,000 - 00:04:42,000] and p equals h bar k.
+- [00:04:42,000 - 00:04:44,000] Alright, so k is wave number,
+- [00:04:44,000 - 00:04:47,500] the number of waves that fit
+- [00:04:47,500 - 00:04:51,000] into a given, into a unit distance.
+- [00:04:51,000 - 00:04:53,000] Alright, so this, these two planes are the
+- [00:04:53,000 - 00:04:55,000] same except for a factor of h bar.
+- [00:04:55,000 - 00:05:00,000] Alright, what does, what does omega versus k look like
+- [00:05:00,000 - 00:05:04,000] for an electromagnetic wave in empty space?
+- [00:05:04,000 - 00:05:07,000] Well, what's the connection between omega and k?
+- [00:05:07,000 - 00:05:12,000] Omega equals c times k.
+- [00:05:12,000 - 00:05:15,000] That's it. Omega equals c times k.
+- [00:05:15,000 - 00:05:17,000] Now, the same relationship incidentally
+- [00:05:17,000 - 00:05:19,000] is true of sound waves.
+- [00:05:19,000 - 00:05:22,500] Waves on a long string and
+- [00:05:22,500 - 00:05:26,000] so forth are approximately the same relationship.
+- [00:05:26,000 - 00:05:28,000] The difference, of course, is
+- [00:05:28,000 - 00:05:30,000] they have different velocities of propagation.
+- [00:05:30,000 - 00:05:35,000] But notice that omega is zero when k is zero.
+- [00:05:35,000 - 00:05:38,000] That means on this side over here,
+- [00:05:38,000 - 00:05:43,000] that the energy of a quantum or wave,
+- [00:05:43,000 - 00:05:46,000] the energy is zero when the momentum is zero.
+- [00:05:46,000 - 00:05:47,000] What do we call a
+- [00:05:47,000 - 00:05:48,000] particle when its energy is zero,
+- [00:05:48,000 - 00:05:52,000] when the energy is zero, if its mass is zero?
+- [00:05:52,000 - 00:05:54,000] We call it, well, we call it
+- [00:05:54,000 - 00:05:56,000] photons, yes, but we call it massless.
+- [00:05:56,000 - 00:06:00,000] Alright, so any wave which has the
+- [00:06:00,000 - 00:06:04,000] property that omega goes smoothly to zero
+- [00:06:04,000 - 00:06:06,000] as k goes to zero, we call massless.
+- [00:06:06,000 - 00:06:11,000] And typically, the shape of the curve looks like that.
+- [00:06:11,000 - 00:06:13,500] k can be positive or negative corresponding to
+- [00:06:13,500 - 00:06:16,000] a wave going to the left or the right.
+- [00:06:16,000 - 00:06:18,000] Let's forget going to the left.
+- [00:06:18,000 - 00:06:20,000] Okay.
+- [00:06:20,000 - 00:06:22,500] The frequency goes to zero
+- [00:06:22,500 - 00:06:25,000] when the wavelength becomes infinite.
+- [00:06:25,000 - 00:06:27,000] That's massless.
+- [00:06:27,000 - 00:06:29,500] And all that happens in
+- [00:06:29,500 - 00:06:32,000] a prism is that c changes.
+- [00:06:32,000 - 00:06:34,000] c changes. Okay.
+- [00:06:34,000 - 00:06:38,000] Now, what about, um,
+- [00:06:38,000 - 00:06:41,000] what about a particle with mass?
+- [00:06:41,000 - 00:06:46,000] For a particle of mass, its energy
+- [00:06:46,000 - 00:06:48,000] is equal to the square root
+- [00:06:48,000 - 00:06:53,000] of p squared plus m squared.
+- [00:06:53,000 - 00:06:55,000] Now, there's some c's there.
+- [00:06:55,000 - 00:06:58,000] I think there's a c to the fourth, no,
+- [00:06:58,000 - 00:07:02,000] c squared, c squared,
+- [00:07:06,000 - 00:07:09,000] c squared p squared
+- [00:07:09,000 - 00:07:12,000] plus m squared c to the fourth, right?
+- [00:07:12,000 - 00:07:14,000] But if we set c equal to one, it's
+- [00:07:14,000 - 00:07:16,000] just square root of p squared plus m squared.
+- [00:07:16,000 - 00:07:17,000] What does that look like?
+- [00:07:17,000 - 00:07:22,000] That's a curve which looks like this.
+- [00:07:22,000 - 00:07:23,000] It's a hyperbola.
+- [00:07:23,000 - 00:07:26,000] In fact, if we square this, we get e squared.
+- [00:07:26,000 - 00:07:28,000] Let's set c squared to one.
+- [00:07:28,000 - 00:07:30,000] e squared minus p squared equals m squared.
+- [00:07:30,000 - 00:07:32,000] That's a hyperbola.
+- [00:07:32,000 - 00:07:33,000] You see the difference.
+- [00:07:33,000 - 00:07:36,000] In this case, when p goes to zero,
+- [00:07:36,000 - 00:07:38,000] the energy is not zero.
+- [00:07:38,000 - 00:07:40,000] That's the rest mass.
+- [00:07:40,000 - 00:07:42,000] Or just the mass, if you like.
+- [00:07:42,000 - 00:07:44,000] The rest mass is the value of
+- [00:07:44,000 - 00:07:46,000] the energy when the momentum goes to zero.
+- [00:07:47,000 - 00:07:48,000] All right?
+- [00:07:48,000 - 00:07:52,000] So, two different situations.
+- [00:07:52,000 - 00:07:55,500] One, the velocity of light
+- [00:07:55,500 - 00:07:59,000] may be different in a prism
+- [00:07:59,000 - 00:08:01,000] than it is in empty space,
+- [00:08:01,000 - 00:08:03,000] but that just changes the slope of this curve
+- [00:08:03,000 - 00:08:05,000] and does not change the fact that
+- [00:08:05,000 - 00:08:07,000] the energy is zero at the origin here.
+- [00:08:07,000 - 00:08:10,000] The other situation is that the
+- [00:08:10,000 - 00:08:13,000] energy is not zero at the origin
+- [00:08:13,000 - 00:08:15,000] and has this hyperbolic shape.
+- [00:08:15,000 - 00:08:17,000] That's called having a mass.
+- [00:08:17,000 - 00:08:19,000] And notice that there's a frequency.
+- [00:08:19,000 - 00:08:21,000] Same thing here.
+- [00:08:21,000 - 00:08:26,000] That a wave with infinite wavelength has a finite frequency.
+- [00:08:26,000 - 00:08:28,000] What does infinite wavelength mean?
+- [00:08:28,000 - 00:08:32,000] It means you disturb the field every place the same.
+- [00:08:32,000 - 00:08:36,000] You rigidly, you make the field absolutely homogeneous.
+- [00:08:36,000 - 00:08:39,000] Homogeneous means it's everywhere is the same.
+- [00:08:39,000 - 00:08:42,000] You shift the field everywhere and you let it go.
+- [00:08:42,000 - 00:08:44,500] What happens is everywhere as
+- [00:08:44,500 - 00:08:47,000] it starts to oscillate simultaneously,
+- [00:08:47,000 - 00:08:49,000] that's the phenomena over here.
+- [00:08:49,000 - 00:08:52,000] Infinite wavelength, zero wave
+- [00:08:52,000 - 00:08:55,000] vector, the whole field oscillates.
+- [00:08:55,000 - 00:08:56,000] All right?
+- [00:08:56,000 - 00:08:58,500] Also corresponds to particles at
+- [00:08:58,500 - 00:09:01,000] rest oscillating because they have mass.
+- [00:09:01,000 - 00:09:03,000] Okay.
+- [00:09:03,000 - 00:09:05,000] All right.
+- [00:09:05,000 - 00:09:06,000] So that's what the important
+- [00:09:06,000 - 00:09:07,000] thing to keep in mind is
+- [00:09:07,000 - 00:09:11,000] that oscillations of a field when it's homogeneous,
+- [00:09:11,000 - 00:09:13,000] when it has infinite wavelength,
+- [00:09:13,000 - 00:09:15,000] those are the things we call mass.
+- [00:09:15,000 - 00:09:16,000] Does that answer the question?
+- [00:09:16,000 - 00:09:19,000] Does that answer the question about the...
+- [00:09:19,000 - 00:09:20,000] Yeah, okay.
+- [00:09:20,000 - 00:09:23,000] Is it the wave number that
+- [00:09:23,000 - 00:09:26,000] changes when it's moving through a solid?
+- [00:09:26,000 - 00:09:27,000] Is that right?
+- [00:09:27,000 - 00:09:29,000] Well, you can have any wave number.
+- [00:09:29,000 - 00:09:32,000] I mean, if you took a ray
+- [00:09:32,000 - 00:09:35,000] and run it into a piece of glass,
+- [00:09:35,000 - 00:09:38,000] it's not the omega that changes.
+- [00:09:38,000 - 00:09:39,000] That's right.
+- [00:09:39,000 - 00:09:41,500] If you have a wave of a given
+- [00:09:41,500 - 00:09:44,000] frequency and it shines on a piece of glass,
+- [00:09:44,000 - 00:09:46,000] the frequency doesn't change when it goes into the...
+- [00:09:46,000 - 00:09:49,000] into the material.
+- [00:09:49,000 - 00:09:52,000] But, as I think you're foreseeing,
+- [00:09:52,000 - 00:09:56,000] two different materials might have a different slope here.
+- [00:09:56,000 - 00:09:58,000] So at the same value of frequency,
+- [00:09:58,000 - 00:10:00,000] you would jump from one...
+- [00:10:00,000 - 00:10:02,000] you could jump from one wave number to another.
+- [00:10:02,000 - 00:10:04,000] And that's what happens.
+- [00:10:04,000 - 00:10:08,000] At this situation where the entire field shifts,
+- [00:10:08,000 - 00:10:12,000] would that be equivalent to the concept of entanglement?
+- [00:10:12,000 - 00:10:13,000] No, no, no, no.
+- [00:10:13,000 - 00:10:14,000] It's really the entanglement.
+- [00:10:14,000 - 00:10:15,000] This is a perfectly classical way of thinking.
+- [00:10:15,000 - 00:10:18,000] It's a perfectly classical wayfield phenomenon.
+- [00:10:18,000 - 00:10:19,000] I understand that.
+- [00:10:19,000 - 00:10:21,000] But what I'm saying is entanglement
+- [00:10:21,000 - 00:10:23,000] says that this particle over here
+- [00:10:23,000 - 00:10:27,000] and this particle over here respond instantaneously.
+- [00:10:27,000 - 00:10:32,000] And by the entire field shifting, wouldn't that count for...
+- [00:10:32,000 - 00:10:36,000] No, no, no, no, no, no.
+- [00:10:36,000 - 00:10:40,000] Entanglement is a situation where you have two particles
+- [00:10:40,000 - 00:10:43,000] in two different states which are entangled with each other.
+- [00:10:43,000 - 00:10:44,000] A over here, B over here,
+- [00:10:44,000 - 00:10:47,000] or A over here, B over here.
+- [00:10:47,000 - 00:10:48,000] They have to be in...
+- [00:10:48,000 - 00:10:51,000] There has to be two different states.
+- [00:10:51,000 - 00:10:55,000] Spin up and spin down, spin down and spin up.
+- [00:10:55,000 - 00:10:57,000] A classical field is when all of
+- [00:10:57,000 - 00:10:59,000] the particles are in the same state.
+- [00:10:59,000 - 00:11:02,000] It's quite different.
+- [00:11:02,000 - 00:11:04,000] So on the curve that you drew,
+- [00:11:04,000 - 00:11:06,000] that looks more like the...
+- [00:11:06,000 - 00:11:07,000] That one, yeah.
+- [00:11:07,000 - 00:11:09,000] What does that represent?
+- [00:11:09,000 - 00:11:11,000] This is called...
+- [00:11:11,000 - 00:11:13,000] The relationship between omega and k,
+- [00:11:13,000 - 00:11:15,000] between frequency and wave number,
+- [00:11:15,000 - 00:11:18,000] is called the dispersion relation.
+- [00:11:18,000 - 00:11:20,000] You say there's no dispersion
+- [00:11:20,000 - 00:11:24,000] when omega is a linear function of k.
+- [00:11:24,000 - 00:11:26,000] When omega is a linear...
+- [00:11:26,000 - 00:11:29,000] Incidentally, the slope of this curve is the velocity.
+- [00:11:29,000 - 00:11:31,000] The omega dk is...
+- [00:11:31,000 - 00:11:35,000] Yeah, the omega dk is the velocity of the wave.
+- [00:11:35,000 - 00:11:36,000] Okay?
+- [00:11:36,000 - 00:11:40,000] So if the slope of this is constant,
+- [00:11:40,000 - 00:11:41,000] everywhere,
+- [00:11:41,000 - 00:11:43,000] then all waves move in the same direction.
+- [00:11:43,000 - 00:11:45,000] All waves move with the same velocity.
+- [00:11:45,000 - 00:11:46,000] All right? That's light.
+- [00:11:46,000 - 00:11:48,000] All waves move with the same light,
+- [00:11:48,000 - 00:11:50,000] the same velocity.
+- [00:11:50,000 - 00:11:55,000] If the slope varies from place to place,
+- [00:11:55,000 - 00:11:58,000] for example, as it would if there was a mass,
+- [00:11:58,000 - 00:12:00,500] then different wavelengths
+- [00:12:00,500 - 00:12:03,000] propagate with different velocities.
+- [00:12:03,000 - 00:12:06,000] In that case, the wave will disperse.
+- [00:12:06,000 - 00:12:08,000] So it's called the dispersion relation.
+- [00:12:08,000 - 00:12:10,000] Let's name it now.
+- [00:12:10,000 - 00:12:13,000] Omega as a function of k,
+- [00:12:13,000 - 00:12:15,500] that relationship is called the
+- [00:12:15,500 - 00:12:18,000] dispersion relation of the wave.
+- [00:12:18,000 - 00:12:22,000] So the words go that a massless excitation
+- [00:12:22,000 - 00:12:26,000] is one with a linear dispersion relation.
+- [00:12:26,000 - 00:12:29,000] A massive particle is one with a dispersion relation
+- [00:12:29,000 - 00:12:30,500] that does not go to
+- [00:12:30,500 - 00:12:32,000] zero as k goes to zero,
+- [00:12:32,000 - 00:12:37,000] but has a curvature and a shape like that.
+- [00:12:37,000 - 00:12:39,500] And the mass is nothing
+- [00:12:39,500 - 00:12:42,000] but the energy of the quantum
+- [00:12:42,000 - 00:12:44,000] when the momentum is zero.
+- [00:12:44,000 - 00:12:46,000] So that's m.
+- [00:12:48,000 - 00:12:51,000] Energy of a quantum as a function of the momentum
+- [00:12:51,000 - 00:12:54,000] when the momentum goes to zero is the mass.
+- [00:12:54,000 - 00:13:02,000] All right. So that's the notion of mass.
+- [00:13:02,000 - 00:13:08,000] And it is connected with the curvature
+- [00:13:08,000 - 00:13:10,000] of the potential energy of the field
+- [00:13:10,000 - 00:13:11,000] at the...
+- [00:13:11,000 - 00:13:13,000] or the curvature of the potential energy
+- [00:13:13,000 - 00:13:15,000] at the equilibrium point,
+- [00:13:15,000 - 00:13:18,000] wherever the equilibrium point happens to be.
+- [00:13:18,000 - 00:13:19,000] Why?
+- [00:13:19,000 - 00:13:21,000] Because if you shift the
+- [00:13:21,000 - 00:13:23,000] field away from the equilibrium point,
+- [00:13:23,000 - 00:13:25,000] let's say everywhere, it's homogeneously,
+- [00:13:25,000 - 00:13:26,000] everywhere is the same,
+- [00:13:26,000 - 00:13:30,000] what happens is it starts to oscillate about there.
+- [00:13:30,000 - 00:13:32,000] It's pulled toward lower energy.
+- [00:13:32,000 - 00:13:35,000] It overshoots, goes up and goes back.
+- [00:13:35,000 - 00:13:39,000] And that corresponds to omega not being zero
+- [00:13:39,000 - 00:13:41,000] at k equals zero.
+- [00:13:41,000 - 00:13:43,000] k equals zero means you shift the field
+- [00:13:43,000 - 00:13:46,000] everywhere simultaneously, homogeneously.
+- [00:13:46,000 - 00:13:48,000] All right. So we take the field
+- [00:13:48,000 - 00:13:50,000] and we shift it everywhere simultaneously.
+- [00:13:50,000 - 00:13:54,000] And the frequency at that point is the mass.
+- [00:13:54,000 - 00:13:56,000] If the frequency is zero,
+- [00:13:56,000 - 00:13:58,000] and the only way the frequency will be zero
+- [00:13:58,000 - 00:14:01,000] is if the potential energy is flat
+- [00:14:01,000 - 00:14:04,000] as a function of the field.
+- [00:14:04,000 - 00:14:07,000] If the potential energy happens to be flat
+- [00:14:07,000 - 00:14:10,000] and you shift the field away from the minimum here,
+- [00:14:10,000 - 00:14:12,000] it's not a minimum anymore.
+- [00:14:12,000 - 00:14:14,000] It's just a flat direction.
+- [00:14:14,000 - 00:14:15,000] It's called a flat direction.
+- [00:14:15,000 - 00:14:18,000] Of all things, it's called a flat direction.
+- [00:14:18,000 - 00:14:21,000] If you shift the field along a flat direction,
+- [00:14:21,000 - 00:14:22,000] it won't respond.
+- [00:14:22,000 - 00:14:24,000] It'll just sit there.
+- [00:14:24,000 - 00:14:27,000] So that corresponds to the homogeneous field,
+- [00:14:27,000 - 00:14:29,000] k equals zero, having no energy,
+- [00:14:29,000 - 00:14:33,000] no frequency, frequency zero.
+- [00:14:33,000 - 00:14:37,000] All right. So you spot a massless object
+- [00:14:37,000 - 00:14:38,000] when there's a direction,
+- [00:14:38,000 - 00:14:40,000] a flat direction of the potential energy.
+- [00:14:40,000 - 00:14:43,000] Here, the flat direction of the potential
+- [00:14:43,000 - 00:14:46,000] is going around the rim.
+- [00:14:46,000 - 00:14:47,000] On the other hand,
+- [00:14:47,000 - 00:14:50,000] if you excite the field perpendicular to that,
+- [00:14:50,000 - 00:14:52,000] it oscillates.
+- [00:14:52,000 - 00:14:55,000] And so this kind of field
+- [00:14:55,000 - 00:14:59,000] has two distinct kinds of quanta associated with it,
+- [00:14:59,000 - 00:15:02,000] one massless, one massive.
+- [00:15:02,000 - 00:15:04,000] What's the massive one called
+- [00:15:04,000 - 00:15:07,000] in the context of the standard model, incidentally?
+- [00:15:07,000 - 00:15:09,000] Massive.
+- [00:15:10,000 - 00:15:11,000] The Higgs boson.
+- [00:15:11,000 - 00:15:13,000] The Higgs boson.
+- [00:15:13,000 - 00:15:14,000] Okay.
+- [00:15:14,000 - 00:15:18,000] So oscillating this way,
+- [00:15:18,000 - 00:15:20,000] we would call the Higgs boson,
+- [00:15:20,000 - 00:15:21,000] and it has a mass.
+- [00:15:21,000 - 00:15:24,000] What about oscillating this way?
+- [00:15:24,000 - 00:15:26,000] That's the Goldstone boson.
+- [00:15:26,000 - 00:15:27,000] It's massless,
+- [00:15:27,000 - 00:15:30,000] but there is no massless Goldstone boson in nature.
+- [00:15:30,000 - 00:15:32,000] So something happened to it.
+- [00:15:32,000 - 00:15:36,000] In the parlance of high-energy physics,
+- [00:15:36,000 - 00:15:39,000] the Goldstone boson got eaten
+- [00:15:39,000 - 00:15:41,000] by the gauge boson,
+- [00:15:41,000 - 00:15:45,000] resulting in giving the Higgs boson a mass.
+- [00:15:45,000 - 00:15:48,000] So that's the phenomenon that we want to do
+- [00:15:48,000 - 00:15:50,000] mathematically tonight.
+- [00:15:50,000 - 00:15:54,000] The Goldstone boson eaten by the gauge boson,
+- [00:15:54,000 - 00:15:58,000] resulting in a mass for the Higgs boson.
+- [00:15:58,000 - 00:16:01,000] Remember, the Goldstone boson
+- [00:16:01,000 - 00:16:05,000] is the one associated with a motion around here.
+- [00:16:05,000 - 00:16:06,500] The Higgs boson is the
+- [00:16:06,500 - 00:16:08,000] one associated with this over here.
+- [00:16:09,000 - 00:16:10,000] Okay.
+- [00:16:10,000 - 00:16:12,000] So let's go through it.
+- [00:16:12,000 - 00:16:14,000] There's mathematics to this.
+- [00:16:14,000 - 00:16:15,000] If I could do it without mathematics,
+- [00:16:15,000 - 00:16:16,000] I would, but I can't.
+- [00:16:16,000 - 00:16:19,000] So we're going to do it with mathematics.
+- [00:16:19,000 - 00:16:22,000] And we've already set up the ingredients.
+- [00:16:22,000 - 00:16:25,000] We've already set up the basic ingredients for it.
+- [00:16:25,000 - 00:16:28,000] All we have to do is combine them together.
+- [00:16:39,000 - 00:16:45,000] So that means in a standard model,
+- [00:16:45,000 - 00:16:48,000] there's only one spontaneous symmetry breaking,
+- [00:16:48,000 - 00:16:51,000] and that's the Higgs field.
+- [00:16:51,000 - 00:16:53,000] As far as it's known.
+- [00:16:53,000 - 00:16:55,000] As far as it's known.
+- [00:16:57,000 - 00:16:59,000] It's not a simple U1 symmetry.
+- [00:16:59,000 - 00:17:01,000] It's this SU symmetry of the weak interactions
+- [00:17:01,000 - 00:17:07,000] that take ups to downs and neutrinos to electrons.
+- [00:17:07,000 - 00:17:09,000] So it's a little more intricate
+- [00:17:09,000 - 00:17:11,000] than just the U1 symmetry breaking.
+- [00:17:11,000 - 00:17:14,000] I've always, well, maybe I misheard,
+- [00:17:14,000 - 00:17:17,000] but I always thought I heard that
+- [00:17:17,000 - 00:17:20,000] the Higgs was giving mass to everything,
+- [00:17:20,000 - 00:17:21,000] including...
+- [00:17:21,000 - 00:17:24,000] Including itself.
+- [00:17:24,000 - 00:17:25,000] Including itself.
+- [00:17:25,000 - 00:17:26,000] Yeah?
+- [00:17:26,000 - 00:17:27,000] Is that right?
+- [00:17:27,000 - 00:17:28,000] Yes?
+- [00:17:28,000 - 00:17:29,000] Well, no, no, no, no, no.
+- [00:17:29,000 - 00:17:30,000] Yes and no.
+- [00:17:30,000 - 00:17:31,000] Yes and no.
+- [00:17:31,000 - 00:17:32,000] Okay.
+- [00:17:32,000 - 00:17:35,000] So let me tell you what the point is.
+- [00:17:35,000 - 00:17:37,000] There are a collection of particles in the system,
+- [00:17:37,000 - 00:17:39,000] in the standard model,
+- [00:17:39,000 - 00:17:43,000] which for one mathematical reason or another
+- [00:17:43,000 - 00:17:46,000] cannot have any mass
+- [00:17:46,000 - 00:17:49,000] unless the symmetry is spontaneously broken.
+- [00:17:49,000 - 00:17:51,000] Now we're going to go through those reasons.
+- [00:17:51,000 - 00:17:54,000] We're going to go through them for various particles
+- [00:17:54,000 - 00:17:56,000] and see what the reasons are
+- [00:17:56,000 - 00:17:59,000] why mass is disallowed
+- [00:17:59,000 - 00:18:01,000] by the standard model
+- [00:18:01,000 - 00:18:04,000] without spontaneous symmetry breaking.
+- [00:18:04,000 - 00:18:07,000] Then when spontaneous symmetry breaking happens,
+- [00:18:07,000 - 00:18:10,000] all of those particles get mass
+- [00:18:10,000 - 00:18:16,000] and they become the masses of the standard model particles.
+- [00:18:16,000 - 00:18:17,000] Now you might ask,
+- [00:18:17,000 - 00:18:20,000] what about particles that didn't require
+- [00:18:20,000 - 00:18:23,000] a spontaneous symmetry breaking to get a mass?
+- [00:18:23,000 - 00:18:27,000] Are there any particles that don't require
+- [00:18:27,000 - 00:18:30,000] a spontaneous symmetry breaking to get a mass?
+- [00:18:30,000 - 00:18:33,000] And the answer is yes, there can be.
+- [00:18:33,000 - 00:18:35,000] Those particles are all the particles
+- [00:18:35,000 - 00:18:37,000] that we don't see in life.
+- [00:18:37,000 - 00:18:38,500] They're all the particles that
+- [00:18:38,500 - 00:18:40,000] we don't see in a laboratory.
+- [00:18:40,000 - 00:18:43,000] Why would it be that we would see those
+- [00:18:43,000 - 00:18:46,000] which symmetry breaking gives a mass
+- [00:18:46,000 - 00:18:48,000] and we don't see those
+- [00:18:48,000 - 00:18:51,000] that symmetry breaking doesn't give a mass?
+- [00:18:51,000 - 00:18:54,000] Any speculations of why that might be?
+- [00:18:54,000 - 00:18:56,000] Yeah.
+- [00:18:56,000 - 00:18:59,000] Yeah.
+- [00:18:59,000 - 00:19:00,500] The natural mass might be
+- [00:19:00,500 - 00:19:02,000] way up at the Planck scale.
+- [00:19:02,000 - 00:19:06,000] The natural masses of particles may be very much larger,
+- [00:19:06,000 - 00:19:08,000] leaving over a bunch of particles
+- [00:19:08,000 - 00:19:10,000] which don't have masses
+- [00:19:10,000 - 00:19:13,000] for what you're calling natural reasons.
+- [00:19:13,000 - 00:19:15,000] And those particles only get mass
+- [00:19:15,000 - 00:19:17,000] from spontaneous symmetry breaking.
+- [00:19:17,000 - 00:19:19,000] Those particles are the light ones.
+- [00:19:19,000 - 00:19:22,000] Those are the ones we see in the laboratory.
+- [00:19:22,000 - 00:19:24,000] We have every reason to believe,
+- [00:19:24,000 - 00:19:26,000] and in fact I think we practically know by now,
+- [00:19:26,000 - 00:19:29,000] that there are additional particles in nature.
+- [00:19:29,000 - 00:19:32,000] For example, the dark matter particles.
+- [00:19:32,000 - 00:19:34,000] We don't know with absolute certainty
+- [00:19:34,000 - 00:19:35,000] what the dark matter particles are,
+- [00:19:35,000 - 00:19:39,000] but it seems very likely that the dark matter particles
+- [00:19:39,000 - 00:19:42,000] are particles a thousand times heavier than a proton,
+- [00:19:42,000 - 00:19:44,000] for example.
+- [00:19:44,000 - 00:19:49,000] Why is it that those particles have large mass
+- [00:19:49,000 - 00:19:51,000] and the other ones don't?
+- [00:19:51,000 - 00:19:53,000] And the answer is in the mathematics of the theory,
+- [00:19:53,000 - 00:19:56,000] those particles which have large mass
+- [00:19:56,000 - 00:20:00,000] don't require the phenomena of spontaneous symmetry breaking
+- [00:20:00,000 - 00:20:01,000] to get a mass.
+- [00:20:01,000 - 00:20:03,000] So we're going to go through that.
+- [00:20:03,000 - 00:20:05,000] That's my goal for tonight.
+- [00:20:05,000 - 00:20:06,500] And if we don't make
+- [00:20:06,500 - 00:20:08,000] it through it entirely next time,
+- [00:20:08,000 - 00:20:11,000] the Higgs phenomena and what the words mean,
+- [00:20:11,000 - 00:20:15,000] the Higgs particle gives such and such a mass.
+- [00:20:15,000 - 00:20:21,000] The first class of particles which cannot have a mass
+- [00:20:21,000 - 00:20:23,000] unless there's spontaneous symmetry breaking
+- [00:20:23,000 - 00:20:25,000] are the analogs of the photons,
+- [00:20:25,000 - 00:20:27,000] the gauge bosons.
+- [00:20:27,000 - 00:20:29,000] So tonight I'm going to try to show you
+- [00:20:29,000 - 00:20:31,000] how the photon gets a mass
+- [00:20:31,000 - 00:20:34,000] from spontaneous symmetry breaking.
+- [00:20:35,000 - 00:20:39,000] Let's begin with a boson field phi.
+- [00:20:39,000 - 00:20:40,000] We did this last time,
+- [00:20:40,000 - 00:20:44,000] but since it's a subtle and difficult concept,
+- [00:20:44,000 - 00:20:45,000] let's do it again.
+- [00:20:45,000 - 00:20:47,000] And phi is a complex field.
+- [00:20:47,000 - 00:20:48,500] That means there's a phi
+- [00:20:48,500 - 00:20:50,000] star to go along with phi,
+- [00:20:50,000 - 00:20:53,000] and we can write phi in two ways.
+- [00:20:53,000 - 00:20:57,000] Phi real plus I phi imaginary.
+- [00:20:57,000 - 00:20:59,000] What does it correspond to?
+- [00:20:59,000 - 00:21:01,000] It corresponds to what I drew before,
+- [00:21:01,000 - 00:21:04,000] phi real, phi imaginary.
+- [00:21:05,000 - 00:21:09,000] Or we can write it as phi
+- [00:21:09,000 - 00:21:13,000] equals rho e to the i alpha,
+- [00:21:13,000 - 00:21:18,000] where rho is the distance along here.
+- [00:21:18,000 - 00:21:20,000] It's not a real distance in space.
+- [00:21:20,000 - 00:21:22,000] It's a distance in field space.
+- [00:21:22,000 - 00:21:23,000] And alpha is the angle.
+- [00:21:23,000 - 00:21:25,000] Two different ways, polar coordinates
+- [00:21:25,000 - 00:21:28,000] and Cartesian coordinates for the field.
+- [00:21:28,000 - 00:21:34,000] Now, incidentally, phi star is, of course,
+- [00:21:34,000 - 00:21:38,000] phi real minus I phi imaginary.
+- [00:21:38,000 - 00:21:40,000] And it's also equal, this one here,
+- [00:21:40,000 - 00:21:42,500] is also equal to rho
+- [00:21:42,500 - 00:21:45,000] e to the minus I alpha.
+- [00:21:45,000 - 00:21:47,000] Rho and alpha are functions of position.
+- [00:21:47,000 - 00:21:48,000] This is a field.
+- [00:21:48,000 - 00:21:50,000] So these are functions of position.
+- [00:21:50,000 - 00:21:52,000] And as you can see, in either case,
+- [00:21:52,000 - 00:21:54,000] there are two fields,
+- [00:21:54,000 - 00:21:56,000] the real field and the imaginary field,
+- [00:21:56,000 - 00:22:00,000] or the radial field and the angular field.
+- [00:22:00,000 - 00:22:02,000] You might begin to guess
+- [00:22:02,000 - 00:22:04,000] about the connection between
+- [00:22:04,000 - 00:22:09,000] rho, alpha, and the two kinds of motions
+- [00:22:09,000 - 00:22:12,000] that can take place here.
+- [00:22:12,000 - 00:22:15,000] Alpha corresponds to exciting the angular modes.
+- [00:22:15,000 - 00:22:18,000] If you vary alpha from place to place,
+- [00:22:18,000 - 00:22:21,000] it's like varying around the circle.
+- [00:22:21,000 - 00:22:22,000] If you vary rho,
+- [00:22:22,000 - 00:22:25,000] it's like moving radially back and forth.
+- [00:22:25,000 - 00:22:28,000] Which one do you think gets a mass?
+- [00:22:28,000 - 00:22:31,000] Rho.
+- [00:22:31,000 - 00:22:33,000] Which one doesn't get a mass?
+- [00:22:34,000 - 00:22:35,000] Alpha.
+- [00:22:35,000 - 00:22:37,000] Which one is the Higgs boson?
+- [00:22:37,000 - 00:22:38,000] Rho.
+- [00:22:38,000 - 00:22:40,000] Which one is the Goldstone boson?
+- [00:22:40,000 - 00:22:41,000] Alpha.
+- [00:22:41,000 - 00:22:42,000] Good.
+- [00:22:42,000 - 00:22:43,000] You got it.
+- [00:22:43,000 - 00:22:46,000] I hardly have to go through the mathematics now.
+- [00:22:46,000 - 00:22:47,000] No, no, really.
+- [00:22:47,000 - 00:22:49,000] That's the way the mathematics is.
+- [00:22:49,000 - 00:22:53,000] Now, the trick in going through the mathematics
+- [00:22:53,000 - 00:22:57,000] is to write the Lagrangian for this field.
+- [00:22:57,000 - 00:23:02,000] It's derivative of phi star times the derivative of phi.
+- [00:23:02,000 - 00:23:03,000] This, of course, means,
+- [00:23:03,000 - 00:23:06,000] time derivative squared minus space derivative squared,
+- [00:23:06,000 - 00:23:08,000] but I'll just write it that way.
+- [00:23:08,000 - 00:23:11,000] Derivative of phi with respect to space and time
+- [00:23:11,000 - 00:23:15,000] as four vectors dotted into each other.
+- [00:23:15,000 - 00:23:18,000] That's the gradient terms in the energy.
+- [00:23:18,000 - 00:23:20,000] And you can work them out
+- [00:23:20,000 - 00:23:22,000] in terms of phi and phi star.
+- [00:23:22,000 - 00:23:24,000] I'll tell you what they are.
+- [00:23:24,000 - 00:23:29,000] This becomes derivative of phi real squared
+- [00:23:29,000 - 00:23:32,000] plus derivative of phi imaginary.
+- [00:23:32,000 - 00:23:35,500] In other words, it just behaves
+- [00:23:35,500 - 00:23:39,000] as if there were two independent fields,
+- [00:23:39,000 - 00:23:44,000] real and imaginary.
+- [00:23:44,000 - 00:23:46,000] Or we can write it
+- [00:23:46,000 - 00:23:48,000] in terms of rho and alpha.
+- [00:23:48,000 - 00:23:51,000] And this would become,
+- [00:23:51,000 - 00:23:53,000] I'll write it down for you.
+- [00:23:53,000 - 00:23:55,000] You can work it out yourself.
+- [00:23:55,000 - 00:24:00,000] Derivative of rho squared
+- [00:24:00,000 - 00:24:02,000] and then,
+- [00:24:02,000 - 00:24:05,000] plus rho squared
+- [00:24:05,000 - 00:24:10,000] times the derivative of alpha squared.
+- [00:24:10,000 - 00:24:12,000] Rho is the magnitude of the field,
+- [00:24:12,000 - 00:24:13,000] alpha is the angle,
+- [00:24:13,000 - 00:24:17,000] but each of these are fields.
+- [00:24:17,000 - 00:24:20,000] And this is what Lagrangian is.
+- [00:24:20,000 - 00:24:21,000] You can either think of it
+- [00:24:21,000 - 00:24:22,000] in one way or the other.
+- [00:24:22,000 - 00:24:24,000] No problem.
+- [00:24:24,000 - 00:24:26,000] Now let's add in a potential energy.
+- [00:24:26,000 - 00:24:29,000] The potential energy,
+- [00:24:29,000 - 00:24:31,000] I'm going to assume,
+- [00:24:31,000 - 00:24:32,000] is symmetric.
+- [00:24:32,000 - 00:24:36,000] Symmetric with respect to rotations in this plane.
+- [00:24:36,000 - 00:24:37,500] In other words, that it
+- [00:24:37,500 - 00:24:39,000] really does have a U1 symmetry.
+- [00:24:39,000 - 00:24:42,000] For a potential energy to have a U1 symmetry,
+- [00:24:42,000 - 00:24:44,000] it means it's only a function of rho.
+- [00:24:44,000 - 00:24:48,000] Equivalently, it's only a function of phi star phi.
+- [00:24:48,000 - 00:24:51,000] It does not depend on the angle.
+- [00:24:51,000 - 00:24:52,000] So let's write that.
+- [00:24:52,000 - 00:24:55,000] Plus V of rho.
+- [00:24:55,000 - 00:24:59,000] That also corresponds, well, okay,
+- [00:24:59,000 - 00:25:01,000] V of rho.
+- [00:25:01,000 - 00:25:03,000] Let's take, actually,
+- [00:25:03,000 - 00:25:04,500] potential always comes in with
+- [00:25:04,500 - 00:25:06,000] a minus sign in the Lagrangian,
+- [00:25:06,000 - 00:25:09,000] so let's put it in with a minus sign.
+- [00:25:09,000 - 00:25:12,000] A simple case would be rho squared,
+- [00:25:12,000 - 00:25:14,000] an energy which increases
+- [00:25:14,000 - 00:25:16,000] quadratically away from the origin.
+- [00:25:16,000 - 00:25:18,000] That's a possibility.
+- [00:25:18,000 - 00:25:20,000] Let's think about that possibility.
+- [00:25:20,000 - 00:25:22,000] Rho squared.
+- [00:25:22,000 - 00:25:24,000] It's not really what I,
+- [00:25:24,000 - 00:25:26,000] it's a possible expression.
+- [00:25:26,000 - 00:25:28,000] What would that correspond to?
+- [00:25:28,000 - 00:25:30,000] What would that correspond to in
+- [00:25:30,000 - 00:25:32,000] terms of phi real and phi imaginary?
+- [00:25:32,000 - 00:25:34,000] Just rho squared.
+- [00:25:37,000 - 00:25:40,000] It's phi real squared plus phi imaginary squared.
+- [00:25:40,000 - 00:25:43,000] That's the Pythagorean theorem.
+- [00:25:43,000 - 00:25:47,000] Rho squared is phi real squared plus phi imaginary squared.
+- [00:25:47,000 - 00:25:49,000] So if the potential was
+- [00:25:49,000 - 00:25:51,000] the very simple form of quadratic,
+- [00:25:51,000 - 00:25:54,000] we would add here phi real squared,
+- [00:25:54,000 - 00:25:56,000] or minus subtract, not important,
+- [00:25:56,000 - 00:25:57,000] phi real squared,
+- [00:25:58,000 - 00:26:01,000] plus phi imaginary squared.
+- [00:26:03,000 - 00:26:05,000] Notice the Lagrangian would actually
+- [00:26:05,000 - 00:26:07,000] be the sum of two terms,
+- [00:26:07,000 - 00:26:11,000] one for phi real and one for phi imaginary,
+- [00:26:11,000 - 00:26:13,000] and both of them would have a mass term.
+- [00:26:13,000 - 00:26:15,000] There could be a coefficient here,
+- [00:26:15,000 - 00:26:18,000] m squared over two, let's say.
+- [00:26:18,000 - 00:26:19,500] Then you would have this
+- [00:26:19,500 - 00:26:21,000] situation which I drew over here,
+- [00:26:21,000 - 00:26:26,000] where both directions of oscillation correspond to a mass.
+- [00:26:26,000 - 00:26:28,000] And they're quite independent of each other.
+- [00:26:28,000 - 00:26:29,000] They don't even couple to each other.
+- [00:26:29,000 - 00:26:31,000] They don't even talk to each other.
+- [00:26:31,000 - 00:26:33,000] Just two separate fields,
+- [00:26:33,000 - 00:26:34,000] one that I labeled phi real,
+- [00:26:34,000 - 00:26:36,000] the other one I labeled phi imaginary.
+- [00:26:36,000 - 00:26:37,500] Now there could be more complicated
+- [00:26:37,500 - 00:26:39,000] things here which would couple them together,
+- [00:26:39,000 - 00:26:41,500] but this is the basic picture
+- [00:26:41,500 - 00:26:44,000] if the potential looks like this.
+- [00:26:44,000 - 00:26:47,000] But what if the potential looks like this?
+- [00:26:47,000 - 00:26:51,000] That's also a function of rho,
+- [00:26:51,000 - 00:26:53,500] but it would be inconvenient to represent it
+- [00:26:53,500 - 00:26:56,000] in terms of phi real and phi imaginary,
+- [00:26:56,000 - 00:26:58,000] especially since the minimum,
+- [00:26:58,000 - 00:27:02,000] is stuck out here away from the origin.
+- [00:27:02,000 - 00:27:05,000] The coordinates phi real and phi imaginary
+- [00:27:05,000 - 00:27:07,000] are not obviously the best
+- [00:27:07,000 - 00:27:09,000] coordinates when you're stuck out here.
+- [00:27:09,000 - 00:27:11,000] Better coordinates are the angular
+- [00:27:11,000 - 00:27:13,000] coordinate and the radial coordinate.
+- [00:27:13,000 - 00:27:14,000] Why?
+- [00:27:14,000 - 00:27:15,500] Because they correspond to
+- [00:27:15,500 - 00:27:17,000] two different kinds of oscillations
+- [00:27:17,000 - 00:27:19,000] with two different frequencies.
+- [00:27:19,000 - 00:27:21,500] In other words, just think of this
+- [00:27:21,500 - 00:27:24,000] as a function of rho and alpha.
+- [00:27:24,000 - 00:27:28,000] Now this potential energy doesn't depend on alpha at all.
+- [00:27:28,000 - 00:27:32,000] But it does depend on rho.
+- [00:27:32,000 - 00:27:37,000] It depends on rho in a way which is minimized
+- [00:27:37,000 - 00:27:40,000] when rho is equal to f.
+- [00:27:40,000 - 00:27:42,500] And in fact it takes a good deal
+- [00:27:42,500 - 00:27:45,000] of energy to displace it away from f.
+- [00:27:45,000 - 00:27:53,000] So it's natural to write that rho
+- [00:27:53,000 - 00:27:56,000] is equal to f
+- [00:27:56,000 - 00:28:00,000] plus a bit of fluctuation.
+- [00:28:00,000 - 00:28:02,500] In other words, the minimum energy
+- [00:28:02,500 - 00:28:05,000] is when rho is stuck at f.
+- [00:28:05,000 - 00:28:08,000] Anywhere along here, rho is stuck at f.
+- [00:28:08,000 - 00:28:10,000] But you can displace it a little bit,
+- [00:28:10,000 - 00:28:13,000] and let's represent that displacement away from f
+- [00:28:13,000 - 00:28:15,000] by a letter of the alphabet.
+- [00:28:15,000 - 00:28:17,000] And I'm going to choose
+- [00:28:17,000 - 00:28:19,000] the next letter of the
+- [00:28:19,000 - 00:28:21,000] alphabet after f, which is h.
+- [00:28:24,000 - 00:28:25,000] H for what?
+- [00:28:25,000 - 00:28:27,000] H for Higgs.
+- [00:28:27,000 - 00:28:28,000] Okay?
+- [00:28:28,000 - 00:28:30,000] H for Higgs.
+- [00:28:30,000 - 00:28:31,000] All right.
+- [00:28:31,000 - 00:28:34,500] So the Higgs field is just
+- [00:28:34,500 - 00:28:38,000] a displacement of the radial direction
+- [00:28:38,000 - 00:28:39,500] or the radial part of
+- [00:28:39,500 - 00:28:41,000] the field away from its equilibrium.
+- [00:28:41,000 - 00:28:42,000] All right.
+- [00:28:42,000 - 00:28:44,000] Now, it costs a good deal
+- [00:28:44,000 - 00:28:46,000] of energy to excite this Higgs field.
+- [00:28:46,000 - 00:28:47,000] Why?
+- [00:28:47,000 - 00:28:49,000] Because it's got a potential, and
+- [00:28:49,000 - 00:28:51,000] that potential might be rather sharp.
+- [00:28:51,000 - 00:28:53,000] In fact, it is rather sharp.
+- [00:28:53,000 - 00:28:54,000] So,
+- [00:28:55,000 - 00:28:57,000] to some approximation,
+- [00:28:57,000 - 00:28:59,000] some rather good approximation,
+- [00:28:59,000 - 00:29:00,000] we might say
+- [00:29:00,000 - 00:29:03,000] that the low energy behavior
+- [00:29:03,000 - 00:29:09,000] is as if rho were frozen at value f.
+- [00:29:09,000 - 00:29:12,000] Now, this is a very common thing in physics
+- [00:29:12,000 - 00:29:13,000] to say
+- [00:29:13,000 - 00:29:17,000] that there are low energy excitations,
+- [00:29:17,000 - 00:29:19,000] low energy oscillations of a system,
+- [00:29:19,000 - 00:29:21,000] low frequency oscillations,
+- [00:29:21,000 - 00:29:23,000] and high frequency oscillations,
+- [00:29:23,000 - 00:29:25,000] and ignore the fact that,
+- [00:29:25,000 - 00:29:28,000] if we were to ignore the high frequency oscillations,
+- [00:29:28,000 - 00:29:32,000] that would be equivalent to ignoring H here.
+- [00:29:32,000 - 00:29:35,000] Just saying rho is equal to f
+- [00:29:35,000 - 00:29:36,500] plus something that takes too much
+- [00:29:36,500 - 00:29:38,000] energy for us to worry about today.
+- [00:29:38,000 - 00:29:40,000] We'll worry about it another day
+- [00:29:40,000 - 00:29:42,000] when our accelerators have more energy.
+- [00:29:42,000 - 00:29:43,000] Okay?
+- [00:29:43,000 - 00:29:45,000] What would this look like then?
+- [00:29:45,000 - 00:29:46,000] Well,
+- [00:29:46,000 - 00:29:48,000] rho is stuck at f.
+- [00:29:48,000 - 00:29:51,000] We might as well ignore its derivative.
+- [00:29:51,000 - 00:29:52,000] Okay?
+- [00:29:52,000 - 00:29:54,000] Furthermore, what about V of rho?
+- [00:29:54,000 - 00:29:58,000] V of rho is just V of f.
+- [00:29:58,000 - 00:30:01,000] So, V is stuck at the minimum.
+- [00:30:01,000 - 00:30:03,000] If it's stuck at the minimum,
+- [00:30:03,000 - 00:30:06,000] it doesn't vary from place to place.
+- [00:30:06,000 - 00:30:08,000] This and this
+- [00:30:08,000 - 00:30:10,000] are irrelevant
+- [00:30:10,000 - 00:30:14,000] to the dynamics of the angular field.
+- [00:30:14,000 - 00:30:16,000] Furthermore,
+- [00:30:16,000 - 00:30:17,500] since it costs so much energy
+- [00:30:17,500 - 00:30:19,000] to make a bit of H,
+- [00:30:19,000 - 00:30:21,000] we can just approximately say
+- [00:30:21,000 - 00:30:23,000] that rho is equal to f,
+- [00:30:23,000 - 00:30:26,000] and we find that for the low energies,
+- [00:30:26,000 - 00:30:30,000] for the small energy excitations,
+- [00:30:30,000 - 00:30:34,000] that the Lagrangian is just f squared, a number,
+- [00:30:34,000 - 00:30:39,000] times the derivative of alpha squared.
+- [00:30:41,000 - 00:30:44,000] There is no potential energy associated with alpha.
+- [00:30:44,000 - 00:30:46,000] Why is there no potential energy associated with alpha?
+- [00:30:46,000 - 00:30:48,000] For the obvious reason
+- [00:30:48,000 - 00:30:50,000] that we don't gain any potential energy
+- [00:30:50,000 - 00:30:52,000] when we go around the angular direction.
+- [00:30:52,000 - 00:30:53,000] All right?
+- [00:30:53,000 - 00:30:54,000] We, uh,
+- [00:30:54,000 - 00:30:56,000] this is a little bit less familiar
+- [00:30:56,000 - 00:30:58,000] because it has this f in it,
+- [00:30:58,000 - 00:31:00,000] but we could redefine the field.
+- [00:31:00,000 - 00:31:02,000] We could redefine the field by inventing a new field.
+- [00:31:02,000 - 00:31:04,000] Call it beta.
+- [00:31:04,000 - 00:31:07,000] Beta is equal to f times alpha.
+- [00:31:07,000 - 00:31:10,000] It's just a rescaling of the field.
+- [00:31:10,000 - 00:31:11,000] All right?
+- [00:31:11,000 - 00:31:13,000] Just a redefinition.
+- [00:31:13,000 - 00:31:14,000] And then,
+- [00:31:14,000 - 00:31:17,000] we would rewrite this as just d alpha,
+- [00:31:17,000 - 00:31:19,000] sorry, d beta squared.
+- [00:31:22,000 - 00:31:24,000] No mass term.
+- [00:31:24,000 - 00:31:27,000] No mass term because it doesn't cost any energy
+- [00:31:27,000 - 00:31:30,000] to displace the field homogeneously everywhere.
+- [00:31:30,000 - 00:31:31,000] All right?
+- [00:31:31,000 - 00:31:32,000] No mass term,
+- [00:31:32,000 - 00:31:34,000] and so alpha or beta,
+- [00:31:34,000 - 00:31:36,000] depending on which you want to write,
+- [00:31:36,000 - 00:31:38,000] is a massless field.
+- [00:31:38,000 - 00:31:40,000] It is the Goldstone boson.
+- [00:31:40,000 - 00:31:42,000] And as I said,
+- [00:31:42,000 - 00:31:44,000] what its energy corresponds to
+- [00:31:44,000 - 00:31:47,000] is slow variations of the field.
+- [00:31:47,000 - 00:31:50,000] As you vary the field from place to place,
+- [00:31:50,000 - 00:31:51,000] slowly,
+- [00:31:51,000 - 00:31:53,000] you get a little bit of energy.
+- [00:31:53,000 - 00:31:54,000] If you vary it slowly enough,
+- [00:31:54,000 - 00:31:56,000] you get a little bit of energy
+- [00:31:56,000 - 00:31:58,000] from the derivative terms here,
+- [00:31:58,000 - 00:31:59,000] but no potential energy.
+- [00:31:59,000 - 00:32:01,000] So that's the hallmark of a massless particle,
+- [00:32:01,000 - 00:32:04,000] and it's the Goldstone boson.
+- [00:32:04,000 - 00:32:06,000] Goldstone bosons
+- [00:32:06,000 - 00:32:08,000] are the massless particles
+- [00:32:08,000 - 00:32:10,000] which are the consequences
+- [00:32:10,000 - 00:32:13,000] of the spontaneous symmetry breaking
+- [00:32:13,000 - 00:32:16,000] of a continuous symmetry.
+- [00:32:16,000 - 00:32:19,000] Okay? That's the buzzwords.
+- [00:32:19,000 - 00:32:20,000] Now,
+- [00:32:20,000 - 00:32:21,000] that's half the story.
+- [00:32:21,000 - 00:32:24,000] That's the spontaneous symmetry breaking half
+- [00:32:24,000 - 00:32:28,000] together with the Goldstone boson phenomenon.
+- [00:32:28,000 - 00:32:30,000] The other half of the story,
+- [00:32:30,000 - 00:32:32,000] which also has to do
+- [00:32:32,000 - 00:32:34,000] with varying the phase of a field
+- [00:32:34,000 - 00:32:36,000] from point to point,
+- [00:32:36,000 - 00:32:38,000] is the gauge invariance.
+- [00:32:38,000 - 00:32:40,000] So I want to spend a little bit of time.
+- [00:32:40,000 - 00:32:41,000] I'm going to give you
+- [00:32:41,000 - 00:32:42,000] a break for a few minutes.
+- [00:32:42,000 - 00:32:44,000] Then we're going to review again
+- [00:32:44,000 - 00:32:46,000] what I told you last time about gauge invariance.
+- [00:32:46,000 - 00:32:49,000] That should take us another 15, 20 minutes,
+- [00:32:49,000 - 00:32:50,000] or 10 minutes, I'm not sure.
+- [00:32:50,000 - 00:32:52,000] And then put the two of them together
+- [00:32:52,000 - 00:32:54,000] and see what comes out.
+- [00:32:54,000 - 00:32:56,000] Okay?
+- [00:32:56,000 - 00:32:58,000] And what will come out will be
+- [00:32:58,000 - 00:33:01,000] that the Goldstone boson is eaten by the gauge boson,
+- [00:33:01,000 - 00:33:03,000] giving the Higgs boson a mass.
+- [00:33:03,000 - 00:33:05,000] No, giving the Higgs boson a mass
+- [00:33:05,000 - 00:33:07,000] and also giving the gauge boson a mass.
+- [00:33:07,000 - 00:33:08,000] Yeah?
+- [00:33:08,000 - 00:33:11,000] I'm confused whether rho is the radius
+- [00:33:11,000 - 00:33:12,000] in the complex plane,
+- [00:33:12,000 - 00:33:14,000] or is the field value at a radius
+- [00:33:14,000 - 00:33:16,000] in the complex plane?
+- [00:33:16,000 - 00:33:19,000] The field is a point in the complex plane.
+- [00:33:19,000 - 00:33:21,000] The value that a field takes on
+- [00:33:21,000 - 00:33:24,000] is a point in the complex plane.
+- [00:33:24,000 - 00:33:26,000] At every point in space,
+- [00:33:26,000 - 00:33:28,000] the field has a value
+- [00:33:28,000 - 00:33:32,000] which is a complex point in the plane.
+- [00:33:37,000 - 00:33:39,000] In other words, at one point in space,
+- [00:33:39,000 - 00:33:44,000] the field is 3 plus i times 6.
+- [00:33:44,000 - 00:33:46,000] At another point in the plane,
+- [00:33:46,000 - 00:33:49,000] it's pi plus i times 6.
+- [00:33:49,000 - 00:33:51,000] That's the value of the field at a point
+- [00:33:51,000 - 00:33:53,000] times the e.
+- [00:33:53,000 - 00:33:54,000] Someplace else,
+- [00:33:54,000 - 00:33:56,000] it's the Euler-Macaroni number
+- [00:33:56,000 - 00:34:02,000] plus i times the Shmulevitz number.
+- [00:34:02,000 - 00:34:04,000] We haven't specified where in the complex plane that is,
+- [00:34:04,000 - 00:34:08,000] except we've said that it's radially symmetric.
+- [00:34:08,000 - 00:34:09,000] Hmm?
+- [00:34:09,000 - 00:34:10,000] Except we've said that it's radially symmetric.
+- [00:34:10,000 - 00:34:12,000] What's radially symmetric?
+- [00:34:12,000 - 00:34:13,000] The value of the field at any...
+- [00:34:13,000 - 00:34:15,000] No, the value of the field at a point
+- [00:34:15,000 - 00:34:16,000] is not radially symmetric.
+- [00:34:16,000 - 00:34:17,000] The value of the field at a point
+- [00:34:17,000 - 00:34:19,000] is the value of the field at a point.
+- [00:34:19,000 - 00:34:20,000] It's not radially symmetric.
+- [00:34:20,000 - 00:34:22,000] It's the point on the complex plane.
+- [00:34:22,000 - 00:34:26,000] What's radially symmetric is the potential energy.
+- [00:34:26,000 - 00:34:29,000] The potential energy
+- [00:34:29,000 - 00:34:31,000] is only a function
+- [00:34:31,000 - 00:34:34,000] of this squared plus this squared.
+- [00:34:38,000 - 00:34:40,000] The field at some point has the value over there.
+- [00:34:40,000 - 00:34:42,000] At some other point in space,
+- [00:34:42,000 - 00:34:44,000] the field takes on a value over here.
+- [00:34:44,000 - 00:34:45,000] At some other point,
+- [00:34:45,000 - 00:34:47,000] it takes on a value over here.
+- [00:34:47,000 - 00:34:48,000] The potential energy
+- [00:34:48,000 - 00:34:51,000] is only a function of the sums of the squares.
+- [00:34:51,000 - 00:34:53,000] But 3 plus i, 6
+- [00:34:53,000 - 00:34:55,000] is the value of the field,
+- [00:34:55,000 - 00:34:57,000] and it doesn't say anything about
+- [00:34:57,000 - 00:34:59,000] where in the complex plane that occurs.
+- [00:35:03,000 - 00:35:07,000] 3 is a function of the...
+- [00:35:07,000 - 00:35:08,500] The value of the field
+- [00:35:08,500 - 00:35:10,000] at x plus i, y is...
+- [00:35:10,000 - 00:35:11,500] No, it's not the value of
+- [00:35:11,500 - 00:35:13,000] the field at x plus i, y.
+- [00:35:13,000 - 00:35:15,000] The value of the field is...
+- [00:35:15,000 - 00:35:17,000] x and y are not positions of space.
+- [00:35:17,000 - 00:35:19,500] This is not the field
+- [00:35:19,500 - 00:35:22,000] at the point x and y.
+- [00:35:22,000 - 00:35:25,000] This is the field whose value
+- [00:35:25,000 - 00:35:28,000] is a point in the complex plane.
+- [00:35:28,000 - 00:35:30,000] It's an abstract idea.
+- [00:35:30,000 - 00:35:32,000] Fields can be complex.
+- [00:35:32,000 - 00:35:33,000] They can be real.
+- [00:35:33,000 - 00:35:35,000] They can be multi-component.
+- [00:35:35,000 - 00:35:37,000] You can assemble them together
+- [00:35:37,000 - 00:35:41,000] if they have two components into a complex variable.
+- [00:35:41,000 - 00:35:45,000] So the field itself is a complex variable.
+- [00:35:45,000 - 00:35:46,000] It's a complex variable
+- [00:35:46,000 - 00:35:49,000] where as you move around in space,
+- [00:35:49,000 - 00:35:51,000] the field takes on different values
+- [00:35:51,000 - 00:35:52,000] on this complex plane.
+- [00:35:52,000 - 00:35:53,000] Get used to that idea.
+- [00:35:53,000 - 00:35:55,000] Fields don't just have to be numbers.
+- [00:35:55,000 - 00:35:56,000] They can be complex numbers.
+- [00:35:56,000 - 00:35:58,000] They can be multi-component objects.
+- [00:35:58,000 - 00:36:00,000] Yeah.
+- [00:36:00,000 - 00:36:02,000] Question.
+- [00:36:02,000 - 00:36:06,000] In the sombrero picture there,
+- [00:36:06,000 - 00:36:09,000] going in the mass fold direction,
+- [00:36:09,000 - 00:36:11,000] if you give it a big enough displacement,
+- [00:36:11,000 - 00:36:14,000] it'll go into the other equilibrium point.
+- [00:36:14,000 - 00:36:15,000] What does that mean in terms of...
+- [00:36:15,000 - 00:36:16,000] Yeah.
+- [00:36:16,000 - 00:36:17,000] If you give it a hard enough kick,
+- [00:36:17,000 - 00:36:18,000] it'll go all the way up.
+- [00:36:18,000 - 00:36:19,000] It'll swing around.
+- [00:36:19,000 - 00:36:23,000] Does that manifest itself in some kind of particle?
+- [00:36:23,000 - 00:36:25,000] Well, the problem is that the amount of energy
+- [00:36:25,000 - 00:36:27,000] that would be involved for the Higgs field
+- [00:36:27,000 - 00:36:32,000] is way beyond the energy
+- [00:36:32,000 - 00:36:37,000] that even a big accelerator can...
+- [00:36:37,000 - 00:36:41,000] So it's out of the ballpark from even the LHC.
+- [00:36:41,000 - 00:36:42,000] But yes, I mean, in principle,
+- [00:36:42,000 - 00:36:45,000] you could give the field a big enough knock
+- [00:36:45,000 - 00:36:46,000] to knock it over the top.
+- [00:36:46,000 - 00:36:48,000] Not everywhere simultaneously in space.
+- [00:36:48,000 - 00:36:50,000] That would be an enormous amount of energy,
+- [00:36:50,000 - 00:36:51,000] but in some region, yeah.
+- [00:36:51,000 - 00:36:53,000] But if that's exactly in
+- [00:36:53,000 - 00:36:55,000] line with the peak of the...
+- [00:36:55,000 - 00:36:56,000] Very unlikely.
+- [00:36:56,000 - 00:36:58,000] It would go off and wind up all over.
+- [00:36:58,000 - 00:36:59,000] Right.
+- [00:36:59,000 - 00:37:00,000] So it's very unlikely.
+- [00:37:00,000 - 00:37:01,000] Right.
+- [00:37:01,000 - 00:37:02,000] That's right.
+- [00:37:02,000 - 00:37:05,000] Yeah, it would make a monstrous splash of some kind
+- [00:37:05,000 - 00:37:07,000] going off and on.
+- [00:37:07,000 - 00:37:09,000] Let's take a 10-minute break.
+- [00:37:09,000 - 00:37:10,000] Okay.
+- [00:37:10,000 - 00:37:13,000] Let's go through again...
+- [00:37:13,000 - 00:37:14,000] Yeah.
+- [00:37:14,000 - 00:37:17,000] ...what we mean by a
+- [00:37:17,000 - 00:37:20,000] field as a function of space
+- [00:37:20,000 - 00:37:23,500] and what this idea of a
+- [00:37:23,500 - 00:37:27,000] field which is a complex variable is.
+- [00:37:27,000 - 00:37:29,000] Just to make it clear once more.
+- [00:37:29,000 - 00:37:32,000] We have space, x, y, and z, right?
+- [00:37:32,000 - 00:37:34,000] Now we can have fields in space.
+- [00:37:34,000 - 00:37:36,000] Let's say scalar fields.
+- [00:37:36,000 - 00:37:40,000] You can have a scalar field in space which...
+- [00:37:40,000 - 00:37:43,000] Now what characterizes it as being a scalar?
+- [00:37:43,000 - 00:37:46,000] It means it doesn't change when you rotate coordinates.
+- [00:37:46,000 - 00:37:47,000] That's all it means.
+- [00:37:47,000 - 00:37:48,000] It doesn't change...
+- [00:37:48,000 - 00:37:49,500] Not when you rotate the
+- [00:37:49,500 - 00:37:51,000] coordinates we're talking about here.
+- [00:37:51,000 - 00:37:54,000] When you rotate the coordinates of real space,
+- [00:37:54,000 - 00:37:56,000] it doesn't change.
+- [00:37:56,000 - 00:37:58,000] That's what a scalar field is.
+- [00:37:58,000 - 00:38:00,000] Now you can have several scalar fields.
+- [00:38:00,000 - 00:38:03,000] Let's say in particular you can have two scalar fields.
+- [00:38:03,000 - 00:38:05,000] Let's give them names.
+- [00:38:05,000 - 00:38:09,000] Let's call them phi i and phi r.
+- [00:38:09,000 - 00:38:12,000] They're two scalar fields.
+- [00:38:12,000 - 00:38:17,000] You can then assemble them if you like.
+- [00:38:17,000 - 00:38:20,000] This is totally a matter of convention.
+- [00:38:20,000 - 00:38:22,000] It's totally a choice.
+- [00:38:22,000 - 00:38:23,000] It's a useful choice.
+- [00:38:23,000 - 00:38:26,500] It's one of these things in mathematics
+- [00:38:26,500 - 00:38:30,000] which sometimes are really just useful conventions.
+- [00:38:30,000 - 00:38:32,000] And this is one of them.
+- [00:38:32,000 - 00:38:33,500] In fact, the whole idea of
+- [00:38:33,500 - 00:38:35,000] complex numbers is a useful convention.
+- [00:38:35,000 - 00:38:38,000] It's a useful convention for representing pairs of numbers.
+- [00:38:38,000 - 00:38:40,000] That's all.
+- [00:38:40,000 - 00:38:42,000] And the pairs of numbers are called the real numbers.
+- [00:38:42,000 - 00:38:45,000] They're real and imaginary parts of the numbers.
+- [00:38:45,000 - 00:38:46,000] X...
+- [00:38:46,000 - 00:38:47,000] Not...
+- [00:38:47,000 - 00:38:48,000] Better not call them X.
+- [00:38:48,000 - 00:38:49,000] X stands for space.
+- [00:38:49,000 - 00:38:50,000] Okay?
+- [00:38:50,000 - 00:38:55,000] But just real and imaginary components are just
+- [00:38:55,000 - 00:39:00,000] ways of speaking about pairs of real numbers.
+- [00:39:00,000 - 00:39:01,500] Now it is a little
+- [00:39:01,500 - 00:39:03,000] more than pairs of real numbers.
+- [00:39:03,000 - 00:39:07,000] There's more structure that goes into the complex numbers.
+- [00:39:07,000 - 00:39:09,500] But, you know, fundamentally it's a
+- [00:39:09,500 - 00:39:12,000] way of talking about pairs of numbers.
+- [00:39:12,000 - 00:39:17,000] You can plot pairs of numbers on the Cartesian plane.
+- [00:39:17,000 - 00:39:19,000] The Cartesian plane is not real space.
+- [00:39:19,000 - 00:39:23,000] It's just the Cartesian plane in which you've
+- [00:39:23,000 - 00:39:27,000] plotted the real and imaginary parts of complex numbers.
+- [00:39:27,000 - 00:39:30,500] If I had two fields, two scalar fields, one
+- [00:39:30,500 - 00:39:34,000] of which I called phi real and the other...
+- [00:39:34,000 - 00:39:35,000] That's its name.
+- [00:39:35,000 - 00:39:37,000] Phi real and phi imaginary.
+- [00:39:37,000 - 00:39:40,000] I can assemble them together into a complex field.
+- [00:39:40,000 - 00:39:41,000] Okay?
+- [00:39:42,000 - 00:39:44,000] Yeah.
+- [00:39:44,000 - 00:39:46,000] A complex field.
+- [00:39:46,000 - 00:39:49,500] And at each point of space, there would
+- [00:39:49,500 - 00:39:53,000] be a phi real and a phi imaginary.
+- [00:39:53,000 - 00:39:54,000] Okay?
+- [00:39:54,000 - 00:39:57,500] At each point of space, I could go and
+- [00:39:57,500 - 00:40:01,000] plot the value of the field on the complex plane.
+- [00:40:01,000 - 00:40:04,000] Keep in mind, the complex plane is not space.
+- [00:40:04,000 - 00:40:07,000] It's just an auxiliary construction.
+- [00:40:07,000 - 00:40:09,500] An auxiliary construction which is
+- [00:40:09,500 - 00:40:12,000] useful in replacing two real fields
+- [00:40:12,000 - 00:40:15,000] by one complex symbol.
+- [00:40:15,000 - 00:40:16,000] That's all it is.
+- [00:40:16,000 - 00:40:18,000] It's a trick for representing...
+- [00:40:18,000 - 00:40:23,000] for cutting down the number of equations that you write.
+- [00:40:23,000 - 00:40:25,500] Cutting it in half, basically, by
+- [00:40:25,500 - 00:40:28,000] writing them as equations for complex variables.
+- [00:40:28,000 - 00:40:30,000] Okay?
+- [00:40:30,000 - 00:40:32,000] So, in that language, you
+- [00:40:32,000 - 00:40:34,000] would say that the scalar field...
+- [00:40:34,000 - 00:40:39,000] the complex scalar field phi is that... just that.
+- [00:40:39,000 - 00:40:41,000] It's a complex scalar field.
+- [00:40:41,000 - 00:40:43,500] And at every point in space,
+- [00:40:43,500 - 00:40:46,000] real space, it has a value.
+- [00:40:46,000 - 00:40:48,000] That value is not a single number.
+- [00:40:48,000 - 00:40:50,000] It's a pair of numbers.
+- [00:40:50,000 - 00:40:51,000] Why?
+- [00:40:51,000 - 00:40:53,000] Because it's a pair of fields to begin with.
+- [00:40:53,000 - 00:40:55,000] That pair of numbers can be plotted.
+- [00:40:55,000 - 00:40:56,500] So, at this point of space
+- [00:40:56,500 - 00:40:58,000] over here, the field is over here.
+- [00:40:58,000 - 00:41:01,000] At that point of space, the field is over here.
+- [00:41:01,000 - 00:41:02,000] At that point, it's over here.
+- [00:41:02,000 - 00:41:04,000] And so forth.
+- [00:41:04,000 - 00:41:08,000] That's the idea of a complex scalar field.
+- [00:41:08,000 - 00:41:11,000] Sometimes, the real and imaginary parts of a complex field
+- [00:41:11,000 - 00:41:14,000] are called the real and imaginary components of the field.
+- [00:41:14,000 - 00:41:16,000] But don't get those confused with
+- [00:41:16,000 - 00:41:18,000] the components of a vector field
+- [00:41:18,000 - 00:41:20,500] or a tensor field or
+- [00:41:20,500 - 00:41:23,000] the components of the gravitational field.
+- [00:41:23,000 - 00:41:25,500] Those components have to do
+- [00:41:25,500 - 00:41:28,000] with projections onto real space-time coordinates.
+- [00:41:28,000 - 00:41:31,000] This has to do with the
+- [00:41:31,000 - 00:41:34,000] projections onto this fictitious two-dimensional plane
+- [00:41:34,000 - 00:41:38,000] that's useful for writing pairs of numbers.
+- [00:41:38,000 - 00:41:41,000] Now, once you realize that you can write...
+- [00:41:41,000 - 00:41:44,000] the field as a complex variable
+- [00:41:44,000 - 00:41:47,000] and plot it on the two-dimensional plane like that,
+- [00:41:47,000 - 00:41:51,000] then it becomes a possible symmetry of nature
+- [00:41:51,000 - 00:41:54,000] or a possible symmetry of mathematics
+- [00:41:54,000 - 00:41:56,000] to rotate the field.
+- [00:41:56,000 - 00:41:58,000] In other words, there might be a
+- [00:41:58,000 - 00:42:00,000] symmetry which says that you can relabel
+- [00:42:00,000 - 00:42:05,000] or redefine phi i and phi r by rotation.
+- [00:42:05,000 - 00:42:08,000] And that happens when...
+- [00:42:08,000 - 00:42:11,000] when we have Lagrangians like this,
+- [00:42:11,000 - 00:42:16,000] which don't change when you do what?
+- [00:42:16,000 - 00:42:18,000] When you multiply phi by e
+- [00:42:18,000 - 00:42:20,000] to the i times a phase.
+- [00:42:20,000 - 00:42:22,000] These are the class of Lagrangians
+- [00:42:22,000 - 00:42:25,500] which don't change when you rotate
+- [00:42:25,500 - 00:42:29,000] the field simultaneously everywhere in space.
+- [00:42:29,000 - 00:42:32,000] When you rotate it in this fictitious plane.
+- [00:42:32,000 - 00:42:33,500] In other words, take the
+- [00:42:33,500 - 00:42:35,000] field at every point of space
+- [00:42:35,000 - 00:42:37,000] and you rotate its value.
+- [00:42:37,000 - 00:42:39,000] You give a new value to the field,
+- [00:42:39,000 - 00:42:41,000] which is related to the old,
+- [00:42:41,000 - 00:42:43,000] and you rotate it in this way,
+- [00:42:43,000 - 00:42:45,000] changing the angle here,
+- [00:42:45,000 - 00:42:47,000] rigidly everywhere in space,
+- [00:42:47,000 - 00:42:50,000] then this Lagrangian does not change.
+- [00:42:50,000 - 00:42:52,000] We went through that last time,
+- [00:42:52,000 - 00:42:54,000] and that's the basic idea of
+- [00:42:54,000 - 00:42:56,000] a complex field with a symmetry,
+- [00:42:56,000 - 00:42:58,000] with a symmetry of...
+- [00:42:58,000 - 00:43:00,000] called U1 symmetry.
+- [00:43:00,000 - 00:43:02,000] It's a global symmetry.
+- [00:43:02,000 - 00:43:04,000] That's called a global symmetry.
+- [00:43:04,000 - 00:43:06,000] A global symmetry is one where you're
+- [00:43:06,000 - 00:43:08,000] not allowed to change the phase angle
+- [00:43:08,000 - 00:43:10,000] in space.
+- [00:43:10,000 - 00:43:12,000] It's rotated everywhere.
+- [00:43:12,000 - 00:43:15,000] So you can see that symmetry just
+- [00:43:15,000 - 00:43:18,000] by looking at what's a function of rho?
+- [00:43:18,000 - 00:43:20,000] Yeah.
+- [00:43:20,000 - 00:43:21,000] Well, you can look at
+- [00:43:21,000 - 00:43:22,000] it in a number of ways.
+- [00:43:22,000 - 00:43:24,000] You can see that since this has
+- [00:43:24,000 - 00:43:26,000] real squared plus imaginary squared things in it,
+- [00:43:26,000 - 00:43:28,000] whenever a thing is a function of real squared plus...
+- [00:43:28,000 - 00:43:30,000] And the other term was...
+- [00:43:30,000 - 00:43:31,000] This one?
+- [00:43:31,000 - 00:43:33,000] And the other term was a Pythagorean zero.
+- [00:43:33,000 - 00:43:34,000] Yeah.
+- [00:43:34,000 - 00:43:35,000] Right.
+- [00:43:35,000 - 00:43:36,000] Right.
+- [00:43:36,000 - 00:43:37,000] So this is a function of rho also.
+- [00:43:37,000 - 00:43:39,000] You can see it here.
+- [00:43:39,000 - 00:43:41,000] And incidentally, what does the symmetry
+- [00:43:41,000 - 00:43:43,000] operation do on rho and alpha?
+- [00:43:43,000 - 00:43:46,000] Rho stays the same.
+- [00:43:46,000 - 00:43:47,000] Rho stays the same.
+- [00:43:47,000 - 00:43:48,000] And alpha?
+- [00:43:48,000 - 00:43:50,000] It's not the same.
+- [00:43:50,000 - 00:43:52,000] You shift it by a constant, namely
+- [00:43:52,000 - 00:43:54,000] the angle that you're rotating the field by.
+- [00:43:54,000 - 00:43:56,000] Well, shifting alpha by a
+- [00:43:56,000 - 00:43:58,000] constant doesn't change its derivatives.
+- [00:43:58,000 - 00:44:00,000] Yeah, that's why I was saying that the potential
+- [00:44:00,000 - 00:44:02,000] is the only part where the derivative doesn't come in.
+- [00:44:02,000 - 00:44:04,000] That's correct.
+- [00:44:04,000 - 00:44:05,000] Right.
+- [00:44:05,000 - 00:44:07,000] So...
+- [00:44:07,000 - 00:44:08,000] All right.
+- [00:44:08,000 - 00:44:10,000] So I think we have the basic idea.
+- [00:44:10,000 - 00:44:12,000] Now let's go through again...
+- [00:44:12,000 - 00:44:13,000] All right.
+- [00:44:13,000 - 00:44:14,000] Now, yes.
+- [00:44:14,000 - 00:44:18,000] Let's go through the idea of a gauge transformation.
+- [00:44:18,000 - 00:44:19,500] We went through it last time,
+- [00:44:19,500 - 00:44:21,000] so I'm just going to remind you.
+- [00:44:21,000 - 00:44:22,000] We're not going to spend
+- [00:44:22,000 - 00:44:23,000] a lot of time on it.
+- [00:44:23,000 - 00:44:25,500] We're going to do it as fast
+- [00:44:25,500 - 00:44:28,000] as we can, but please ask questions.
+- [00:44:28,000 - 00:44:31,000] It is not a symmetry of
+- [00:44:31,000 - 00:44:34,000] this Lagrangian to multiply the field phi...
+- [00:44:38,000 - 00:44:45,000] by an arbitrary function of position, by an arbitrary phase.
+- [00:44:45,000 - 00:44:46,000] This is called a phase.
+- [00:44:46,000 - 00:44:53,000] e to the i times this times phi of x.
+- [00:44:53,000 - 00:44:58,000] This is not a symmetry.
+- [00:44:58,000 - 00:45:00,000] We went through this last time.
+- [00:45:00,000 - 00:45:03,000] We rewrote that Lagrangian in terms of phi prime
+- [00:45:03,000 - 00:45:06,000] and found out that it didn't have the same form.
+- [00:45:06,000 - 00:45:12,500] In other words, the Lagrangian written up there, in particular,
+- [00:45:12,500 - 00:45:19,000] the term derivative of phi star times the derivative of phi...
+- [00:45:19,000 - 00:45:21,000] I don't have to put in the indices mu here.
+- [00:45:21,000 - 00:45:22,000] You know about that.
+- [00:45:22,000 - 00:45:26,000] That is not the same as the derivative
+- [00:45:26,000 - 00:45:30,000] of phi prime star derivative of phi prime.
+- [00:45:30,000 - 00:45:31,000] Not the same.
+- [00:45:31,000 - 00:45:34,000] And therefore, it is not a symmetry.
+- [00:45:34,000 - 00:45:35,000] Okay?
+- [00:45:35,000 - 00:45:36,000] This is not a symmetry.
+- [00:45:36,000 - 00:45:37,000] Why?
+- [00:45:37,000 - 00:45:40,000] That's because when the derivatives act, they act not
+- [00:45:40,000 - 00:45:43,000] only on phi, but they act on theta here.
+- [00:45:43,000 - 00:45:46,000] They act on theta if theta is variable.
+- [00:45:46,000 - 00:45:48,500] If theta didn't vary in space,
+- [00:45:48,500 - 00:45:51,000] then this would be a symmetry.
+- [00:45:51,000 - 00:45:53,000] But if theta varies in space, it's not.
+- [00:45:53,000 - 00:45:57,000] We worked that out in detail last time, and
+- [00:45:57,000 - 00:46:01,000] I'll show you in a moment what we found.
+- [00:46:01,000 - 00:46:03,000] But to make it a symmetry, you have
+- [00:46:03,000 - 00:46:05,000] to add another field, a kind of compensating field.
+- [00:46:05,000 - 00:46:10,000] A compensating field that will compensate for the changes in
+- [00:46:10,000 - 00:46:15,000] the Lagrangian when you shift the phase of the field.
+- [00:46:15,000 - 00:46:20,000] Keep in mind, it's useful to remember that shifting the
+- [00:46:20,000 - 00:46:25,000] phase of the field is just adding a function to alpha.
+- [00:46:25,000 - 00:46:26,000] Okay?
+- [00:46:26,000 - 00:46:29,500] Shifting the phase of the field is
+- [00:46:29,500 - 00:46:33,000] adding a function, theta of x, to alpha.
+- [00:46:33,000 - 00:46:38,000] It changes the phase angle everywheres by amount theta.
+- [00:46:38,000 - 00:46:39,000] All right?
+- [00:46:39,000 - 00:46:42,000] If theta is a constant, it's a symmetry.
+- [00:46:42,000 - 00:46:44,000] If theta is not a constant, it's not a symmetry.
+- [00:46:44,000 - 00:46:46,000] In order to make it a
+- [00:46:46,000 - 00:46:48,000] symmetry, you have to add another field.
+- [00:46:48,000 - 00:46:51,000] And the other field is called the vector potential.
+- [00:46:51,000 - 00:46:53,000] All right?
+- [00:46:56,000 - 00:46:58,000] It's a four vector.
+- [00:46:58,000 - 00:47:00,000] It has an index mu.
+- [00:47:00,000 - 00:47:02,000] It's also a function of position.
+- [00:47:02,000 - 00:47:05,000] Out of it, you build the electromagnetic field,
+- [00:47:05,000 - 00:47:08,000] E and B, or electric and magnetic field.
+- [00:47:08,000 - 00:47:11,000] The transformation property, when you do a
+- [00:47:11,000 - 00:47:14,000] gauge transformation, this is called a gauge transformation.
+- [00:47:14,000 - 00:47:16,500] When you do a gauge transformation, you'll have
+- [00:47:16,500 - 00:47:19,000] to do something to A at the same time.
+- [00:47:19,000 - 00:47:24,500] In fact, you have to take A prime of x
+- [00:47:24,500 - 00:47:30,000] and set it equal to A of x plus or minus.
+- [00:47:30,000 - 00:47:32,000] I always get confused by the signs here.
+- [00:47:32,000 - 00:47:35,000] I think it's plus the derivative.
+- [00:47:35,000 - 00:47:40,000] This is A mu of theta.
+- [00:47:40,000 - 00:47:44,000] In other words, you add to A
+- [00:47:44,000 - 00:47:48,000] the gradient, the space-time gradient of theta.
+- [00:47:48,000 - 00:47:50,500] If you do these two operations together
+- [00:47:50,500 - 00:47:53,000] and you construct the right kind of Lagrangian,
+- [00:47:53,000 - 00:47:57,000] it will be invariant under this operation.
+- [00:47:57,000 - 00:47:59,000] If it's invariant, it's a symmetry.
+- [00:47:59,000 - 00:48:01,000] So let me remind you how it works.
+- [00:48:01,000 - 00:48:04,000] Incidentally, that's good enough.
+- [00:48:04,000 - 00:48:06,000] You have a minus there.
+- [00:48:06,000 - 00:48:09,000] You had a minus there last time.
+- [00:48:09,000 - 00:48:13,000] Oh, last time I had minus?
+- [00:48:13,000 - 00:48:15,500] I think the idea is that A
+- [00:48:15,500 - 00:48:18,000] goes to A prime plus d mu.
+- [00:48:18,000 - 00:48:21,000] Theta, d mu is theta.
+- [00:48:21,000 - 00:48:25,500] I'm just saying if you write it with an arrow notation of the transformation going
+- [00:48:25,500 - 00:48:30,000] from starting with A mu and going to what, then you have a minus sign.
+- [00:48:31,000 - 00:48:36,500] If you write the transformation as A mu goes to A
+- [00:48:36,500 - 00:48:42,000] mu plus d mu, then when you write it with A...
+- [00:48:42,000 - 00:48:43,000] Okay, yeah, yeah.
+- [00:48:43,000 - 00:48:45,000] I was just reading it the other way.
+- [00:48:45,000 - 00:48:46,000] Then you have a minus.
+- [00:48:46,000 - 00:48:47,000] Yeah, right.
+- [00:48:47,000 - 00:48:49,000] But this is the transformation that you make.
+- [00:48:49,000 - 00:48:51,000] These are the prime variables.
+- [00:48:51,000 - 00:48:52,000] These are the unprime.
+- [00:48:52,000 - 00:48:53,000] And I may have written
+- [00:48:53,000 - 00:48:54,000] it the opposite way last time.
+- [00:48:54,000 - 00:48:56,000] I don't remember.
+- [00:48:56,000 - 00:48:59,000] But I will compensate for any mistakes.
+- [00:48:59,000 - 00:49:00,000] Not any mistakes.
+- [00:49:00,000 - 00:49:02,500] Not any change of notation
+- [00:49:02,500 - 00:49:05,000] by changing it consistently everywhere.
+- [00:49:05,000 - 00:49:07,000] From one week to another,
+- [00:49:07,000 - 00:49:09,000] I don't remember the precise notation.
+- [00:49:09,000 - 00:49:10,000] But both of them, you know,
+- [00:49:10,000 - 00:49:11,000] you can do it either way.
+- [00:49:11,000 - 00:49:16,000] You wrote that d equals del plus
+- [00:49:16,000 - 00:49:21,000] IA and d star equals del minus IA.
+- [00:49:21,000 - 00:49:22,000] I may have changed.
+- [00:49:22,000 - 00:49:25,000] I may have inadvertently changed notation.
+- [00:49:25,000 - 00:49:26,500] But as long as you
+- [00:49:26,500 - 00:49:28,000] do it consistently everywhere, it's fine.
+- [00:49:28,000 - 00:49:29,000] Okay.
+- [00:49:29,000 - 00:49:32,000] So let's now...
+- [00:49:32,000 - 00:49:37,500] We've seen that the ordinary derivative of phi prime
+- [00:49:37,500 - 00:49:43,000] is not simply related to the ordinary derivative of phi.
+- [00:49:43,000 - 00:49:45,000] Let's write out the relationship.
+- [00:49:59,000 - 00:50:02,000] Let's take the derivative of phi prime.
+- [00:50:02,000 - 00:50:04,000] Derivative with respect to any axis.
+- [00:50:04,000 - 00:50:06,000] I'll stop writing mus and nus.
+- [00:50:06,000 - 00:50:11,500] The derivative of phi prime is first of all equal to e to
+- [00:50:11,500 - 00:50:17,000] the i theta, which is a function of x, times the derivative of phi.
+- [00:50:20,000 - 00:50:24,000] If that's all there was, and we did multiply the derivative
+- [00:50:24,000 - 00:50:28,000] of the complex conjugate of phi by the derivative of phi,
+- [00:50:29,000 - 00:50:33,000] the e to the i thetas would cancel out, right?
+- [00:50:33,000 - 00:50:34,000] All right.
+- [00:50:34,000 - 00:50:35,000] So if that's all there
+- [00:50:35,000 - 00:50:36,000] was, we'd be in fine shape.
+- [00:50:36,000 - 00:50:37,000] We would say there's a symmetry.
+- [00:50:37,000 - 00:50:39,000] But there's another term.
+- [00:50:39,000 - 00:50:47,000] And the other term is phi times the derivative i times
+- [00:50:47,000 - 00:50:55,000] the derivative of theta all times also e to the i theta.
+- [00:50:55,000 - 00:50:58,000] It's this term here which is the nuisance.
+- [00:50:59,000 - 00:51:03,000] If all there was was something which carried an e...
+- [00:51:03,000 - 00:51:07,000] If theta only entered through e to the i theta here,
+- [00:51:07,000 - 00:51:11,000] it would cancel out when we multiplied this by the complex conjugate.
+- [00:51:11,000 - 00:51:15,000] But theta comes in through its derivative over here.
+- [00:51:15,000 - 00:51:17,000] That's the problem.
+- [00:51:17,000 - 00:51:18,000] All right.
+- [00:51:18,000 - 00:51:19,500] To fix that problem, why
+- [00:51:19,500 - 00:51:21,000] should you want to fix it?
+- [00:51:21,000 - 00:51:23,000] Well, it's a fact of
+- [00:51:23,000 - 00:51:25,000] nature that there are gauge symmetries.
+- [00:51:25,000 - 00:51:27,000] It's also an interesting fact of
+- [00:51:27,000 - 00:51:29,000] mathematics that such symmetries are possible.
+- [00:51:29,000 - 00:51:32,500] To make it possible, you replace the
+- [00:51:32,500 - 00:51:36,000] ordinary derivative by what's called the covariant derivative.
+- [00:51:36,000 - 00:51:38,000] This is a mathematical concept that
+- [00:51:38,000 - 00:51:40,000] comes from the theory of fiber bundles.
+- [00:51:40,000 - 00:51:41,000] But I think it was...
+- [00:51:41,000 - 00:51:44,000] I don't know whether the theory of fiber bundles was
+- [00:51:44,000 - 00:51:47,000] invented before or after the notion of gauge invariance in physics.
+- [00:51:47,000 - 00:51:49,000] I have a feeling it
+- [00:51:49,000 - 00:51:51,000] was invented afterwards, but somewhat independently.
+- [00:51:51,000 - 00:51:55,000] Gauge invariance was really vile when you tried to...
+- [00:51:55,000 - 00:51:56,000] Right.
+- [00:51:56,000 - 00:51:58,000] ...to generate the electricity.
+- [00:51:58,000 - 00:51:59,000] Right.
+- [00:51:59,000 - 00:52:01,000] I think so, yeah.
+- [00:52:01,000 - 00:52:02,000] Right.
+- [00:52:02,000 - 00:52:03,000] I don't know who...
+- [00:52:03,000 - 00:52:04,500] But I don't know whether mathematicians
+- [00:52:04,500 - 00:52:06,000] invented it completely independently through the...
+- [00:52:06,000 - 00:52:08,000] But I really don't know.
+- [00:52:08,000 - 00:52:10,000] In any case, it is both
+- [00:52:10,000 - 00:52:12,000] a mathematical and a physical concept.
+- [00:52:12,000 - 00:52:14,500] And in order to make the Lagrangian gauge
+- [00:52:14,500 - 00:52:17,000] invariant, you invent a new kind of derivative.
+- [00:52:17,000 - 00:52:20,000] It's called the covariant derivative.
+- [00:52:20,000 - 00:52:21,000] With respect to...
+- [00:52:21,000 - 00:52:23,500] Again, with respect to each invariant,
+- [00:52:23,500 - 00:52:26,000] you have to make the covariant derivative.
+- [00:52:26,000 - 00:52:28,000] And you have to make the covariant derivative.
+- [00:52:28,000 - 00:52:34,000] Again, with respect to each direction of space or time,
+- [00:52:34,000 - 00:52:40,000] you write that this is equal to the ordinary derivative.
+- [00:52:40,000 - 00:52:41,000] I think it's plus...
+- [00:52:41,000 - 00:52:43,000] Now I'm going to get myself confused.
+- [00:52:43,000 - 00:52:44,000] I'll try plus.
+- [00:52:44,000 - 00:52:46,000] If it doesn't work, we'll change it.
+- [00:52:46,000 - 00:52:53,000] Plus i times a times phi.
+- [00:52:53,000 - 00:52:55,000] Now, there is an implicit index in here.
+- [00:52:55,000 - 00:52:56,000] Once more, I will write it.
+- [00:52:56,000 - 00:52:57,000] Just...
+- [00:52:57,000 - 00:53:02,000] Remember, a is a vector.
+- [00:53:02,000 - 00:53:06,000] Derivative plus multiplying by a.
+- [00:53:06,000 - 00:53:10,000] Sometimes this is indicated by saying that
+- [00:53:10,000 - 00:53:14,000] derivative is replaced by derivative plus i a.
+- [00:53:14,000 - 00:53:17,500] But it only makes sense if you
+- [00:53:17,500 - 00:53:21,000] apply it to a complex field like phi.
+- [00:53:21,000 - 00:53:24,000] So this is the definition of the covariant derivative.
+- [00:53:24,000 - 00:53:26,000] And if I were to write the covariant derivative...
+- [00:53:27,000 - 00:53:30,500] Of phi star, it is
+- [00:53:30,500 - 00:53:34,000] by definition just a complex conjugate.
+- [00:53:34,000 - 00:53:40,500] So it's equal to d mu phi
+- [00:53:40,500 - 00:53:47,000] star minus i a mu phi star.
+- [00:53:47,000 - 00:53:48,000] Okay.
+- [00:53:48,000 - 00:53:52,000] Now I assert, easy to check, easy to check...
+- [00:53:52,000 - 00:53:54,000] That...
+- [00:53:54,000 - 00:53:56,000] The relationship...
+- [00:53:56,000 - 00:54:00,000] Between the covariant derivative of phi and the
+- [00:54:00,000 - 00:54:04,000] covariant derivative of phi prime is very simple.
+- [00:54:04,000 - 00:54:06,000] All you have to do
+- [00:54:06,000 - 00:54:08,000] is evaluate the covariant derivative of...
+- [00:54:08,000 - 00:54:09,000] What is the co...
+- [00:54:09,000 - 00:54:12,000] This is the covariant derivative of phi.
+- [00:54:12,000 - 00:54:14,000] Let's write down what the
+- [00:54:14,000 - 00:54:16,000] covariant derivative of phi prime is.
+- [00:54:16,000 - 00:54:18,000] Well, it's exactly the same,
+- [00:54:18,000 - 00:54:20,000] except you stick primes everywhere.
+- [00:54:20,000 - 00:54:22,500] d mu phi prime is
+- [00:54:22,500 - 00:54:25,000] just equal to d mu phi.
+- [00:54:25,000 - 00:54:35,000] So you have phi plus i a prime times phi.
+- [00:54:35,000 - 00:54:37,000] phi prime, thank you.
+- [00:54:37,000 - 00:54:40,000] phi prime everywhere is phi prime.
+- [00:54:40,000 - 00:54:41,000] phi prime.
+- [00:54:41,000 - 00:54:45,000] Okay, if you stick phi prime over here, you're
+- [00:54:45,000 - 00:54:49,000] going to wind up with this extra term over here.
+- [00:54:49,000 - 00:54:53,000] That is, if I evaluate d mu phi prime...
+- [00:54:53,000 - 00:54:54,000] Let me write it better.
+- [00:54:54,000 - 00:54:56,000] d mu phi prime...
+- [00:54:56,000 - 00:54:57,000] Here it is.
+- [00:54:57,000 - 00:54:58,000] Let's see, is this right?
+- [00:54:58,000 - 00:54:59,000] No.
+- [00:54:59,000 - 00:55:00,000] What did I do here?
+- [00:55:00,000 - 00:55:02,000] This was d mu phi prime, right?
+- [00:55:02,000 - 00:55:05,000] Well, you used a capital phi.
+- [00:55:05,000 - 00:55:06,000] Hm?
+- [00:55:06,000 - 00:55:07,000] Phi, phi, they're all phi.
+- [00:55:07,000 - 00:55:08,000] No, it...
+- [00:55:08,000 - 00:55:09,000] No, no, no.
+- [00:55:09,000 - 00:55:10,000] d phi prime.
+- [00:55:10,000 - 00:55:11,000] Okay.
+- [00:55:11,000 - 00:55:12,000] Yeah, no, no, there's no difference between...
+- [00:55:12,000 - 00:55:13,000] Well...
+- [00:55:13,000 - 00:55:14,000] Capital and not capital.
+- [00:55:14,000 - 00:55:15,000] No, here it is.
+- [00:55:15,000 - 00:55:16,000] So regular phi's are actually lowercase.
+- [00:55:16,000 - 00:55:17,000] And when you use the bars, they are lowercase.
+- [00:55:17,000 - 00:55:18,000] Okay.
+- [00:55:18,000 - 00:55:19,000] So you can write it down.
+- [00:55:19,000 - 00:55:20,000] So you can write it down.
+- [00:55:20,000 - 00:55:21,000] Okay.
+- [00:55:21,000 - 00:55:22,000] So you can write it down.
+- [00:55:22,000 - 00:55:23,000] When you use the bars, they are uppercase.
+- [00:55:23,000 - 00:55:24,000] Sorry?
+- [00:55:24,000 - 00:55:25,000] When you don't use the bars, they are lowercase.
+- [00:55:25,000 - 00:55:26,000] What bars?
+- [00:55:26,000 - 00:55:27,000] Phi's are case.
+- [00:55:27,000 - 00:55:28,000] What bars?
+- [00:55:28,000 - 00:55:28,500] If you don't have the i bars on
+- [00:55:28,500 - 00:55:29,000] the top and the bottom, phi is lowercase.
+- [00:55:29,000 - 00:55:30,000] Sorry, where's i bar?
+- [00:55:30,000 - 00:55:31,000] You know, those bars that you write on the top.
+- [00:55:31,000 - 00:55:32,000] Yeah, like those things.
+- [00:55:32,000 - 00:55:33,000] What's uppercase phi?
+- [00:55:33,000 - 00:55:34,000] Yeah, that's an uppercase.
+- [00:55:34,000 - 00:55:42,500] Yeah, I'm just telling you, there's no
+- [00:55:42,500 - 00:55:51,000] distinction in my notation between uppercase and lowercase.
+- [00:55:51,000 - 00:55:52,000] Sometimes, I like to write uppercase and lowercase.
+- [00:55:52,000 - 00:55:54,690] I like to put those little things there when
+- [00:55:54,690 - 00:55:57,380] I'm feeling in a good mood, I put these things
+- [00:55:57,380 - 00:55:58,380] on.
+- [00:55:58,380 - 00:55:59,880] When I'm not feeling in a
+- [00:55:59,880 - 00:56:01,380] good mood, I leave them out.
+- [00:56:01,380 - 00:56:02,380] I see.
+- [00:56:02,380 - 00:56:03,380] That's it.
+- [00:56:03,380 - 00:56:06,380] In most of the books, they use lowercase.
+- [00:56:06,380 - 00:56:07,380] Yeah.
+- [00:56:07,380 - 00:56:09,380] But then for special cases, they will...
+- [00:56:09,380 - 00:56:10,380] No, no, no.
+- [00:56:10,380 - 00:56:11,380] Okay.
+- [00:56:11,380 - 00:56:12,380] Phi is phi.
+- [00:56:12,380 - 00:56:16,690] Phi is phi, and I did
+- [00:56:16,690 - 00:56:21,000] not mean to distinguish uppercase from lowercase.
+- [00:56:21,000 - 00:56:22,000] That's right?
+- [00:56:22,000 - 00:56:23,000] Phi is a number.
+- [00:56:23,000 - 00:56:24,000] level over there.
+- [00:56:24,000 - 00:56:25,000] No, no.
+- [00:56:25,000 - 00:56:26,000] No, no.
+- [00:56:26,000 - 00:56:27,000] Power bar.
+- [00:56:27,000 - 00:56:28,000] Point.
+- [00:56:28,000 - 00:56:29,000] Speed bar.
+- [00:56:29,000 - 00:56:30,000] Yeah.
+- [00:56:30,000 - 00:56:31,000] That's right.
+- [00:56:31,000 - 00:56:32,000] It's like an infinite number, say like a circle.
+- [00:56:32,000 - 00:56:33,000] Yeah.
+- [00:56:33,000 - 00:56:34,000] Exactly.
+- [00:56:34,000 - 00:56:39,220] It's a Setting scale, but theeeeeeeeeeeeeeeee acá之
+- [00:56:39,220 - 00:56:40,220] right?
+- [00:56:40,220 - 00:56:43,300] No I mean, I'm saving.
+- [00:56:43,300 - 00:56:46,000] How terrible.
+- [00:56:46,000 - 00:56:47,380] Okay, so this angle right here.
+- [00:56:47,380 - 00:56:48,380] Yeah.
+- [00:56:48,380 - 00:56:49,380] I want it to align.
+- [00:56:49,380 - 00:56:50,380] Okay.
+- [00:56:50,380 - 00:56:54,260] Yeah, what's really meant by
+- [00:56:54,260 - 00:56:58,140] d mu phi star d mu
+- [00:56:58,140 - 00:56:59,140] Is one a conjugate?
+- [00:56:59,140 - 00:57:01,140] Is one a conjugate and the other a conjugate?
+- [00:57:01,140 - 00:57:05,320] No, no, no, no, no, no, no, no, no, they
+- [00:57:05,320 - 00:57:09,500] are the, okay, so let's, if you have a four vector,
+- [00:57:09,500 - 00:57:14,170] an arbitrary four vector, v mu, you can multiply
+- [00:57:14,170 - 00:57:18,840] it by g mu nu, that's the metric, and get
+- [00:57:18,840 - 00:57:23,160] v mu, v nu.
+- [00:57:23,160 - 00:57:25,790] The meaning of this symbol for ordinary
+- [00:57:25,790 - 00:57:28,420] special relativity is that the time components of
+- [00:57:28,420 - 00:57:31,630] these two are the same in
+- [00:57:31,630 - 00:57:34,840] sign and the space components are opposite.
+- [00:57:34,840 - 00:57:39,150] Alright, so, right, the meaning of this is it
+- [00:57:39,150 - 00:57:43,460] should be taken to be the upper, the lower,
+- [00:57:43,460 - 00:57:45,880] the covariant vector times the, right, but I
+- [00:57:45,880 - 00:57:48,300] don't want to write that every time over
+- [00:57:48,300 - 00:57:48,800] and over.
+- [00:57:48,800 - 00:57:50,300] So I just write an
+- [00:57:50,300 - 00:57:51,800] abstract symbol derivative times derivative.
+- [00:57:51,800 - 00:57:52,800] Okay.
+- [00:57:52,800 - 00:57:53,800] Yeah.
+- [00:57:53,800 - 00:57:55,800] I think you have to have the lowering operator there.
+- [00:57:55,800 - 00:57:56,800] Hmm?
+- [00:57:56,800 - 00:58:00,800] You have lower on the left, upper on the right.
+- [00:58:00,800 - 00:58:02,800] Sorry, you're right.
+- [00:58:02,800 - 00:58:05,800] Thank you.
+- [00:58:05,800 - 00:58:07,800] Okay.
+- [00:58:07,800 - 00:58:08,800] Right.
+- [00:58:08,800 - 00:58:11,110] But we've already gone through special relativity a
+- [00:58:11,110 - 00:58:13,420] number of times, and so I don't feel the
+- [00:58:13,420 - 00:58:18,420] need to be so careful about relativity in that.
+- [00:58:18,800 - 00:58:19,800] Right.
+- [00:58:19,800 - 00:58:21,300] So I won't even bother
+- [00:58:21,300 - 00:58:22,800] writing them for the most part.
+- [00:58:22,800 - 00:58:24,300] I keep saying I'm not going to
+- [00:58:24,300 - 00:58:25,800] write them, and I keep writing them.
+- [00:58:25,800 - 00:58:27,800] Okay.
+- [00:58:27,800 - 00:58:28,800] Good.
+- [00:58:28,800 - 00:58:36,800] Now, here, I, right, if I plug in d
+- [00:58:36,800 - 00:58:44,800] mu phi prime, I will get this unwanted, nasty piece
+- [00:58:44,800 - 00:58:45,800] over here.
+- [00:58:45,800 - 00:58:46,800] Right.
+- [00:58:46,800 - 00:58:47,800] Okay.
+- [00:58:47,800 - 00:58:49,800] So if I also plug in a
+- [00:58:49,800 - 00:58:51,800] prime times phi, where is a prime?
+- [00:58:51,800 - 00:58:53,800] Let me write a prime over here.
+- [00:58:53,800 - 00:58:59,300] A prime equals a, it's either
+- [00:58:59,300 - 00:59:04,800] plus or minus d mu theta.
+- [00:59:04,800 - 00:59:07,800] Then they will cancel.
+- [00:59:07,800 - 00:59:08,800] They will cancel.
+- [00:59:08,800 - 00:59:11,300] There will be a term di d mu
+- [00:59:11,300 - 00:59:13,800] theta times phi, you know what I mean.
+- [00:59:13,800 - 00:59:14,800] Right.
+- [00:59:14,800 - 00:59:15,800] Right.
+- [00:59:15,800 - 00:59:16,800] So if I, the two.
+- [00:59:16,800 - 00:59:20,800] The two d mu thetas will cancel each other.
+- [00:59:20,800 - 00:59:23,300] One from calculating the derivative here,
+- [00:59:23,300 - 00:59:25,800] and the other from the explicit difference
+- [00:59:25,800 - 00:59:27,800] between a prime and a.
+- [00:59:27,800 - 00:59:29,800] So, what will I find?
+- [00:59:29,800 - 00:59:31,800] Well, I'll tell you exactly what I will find.
+- [00:59:31,800 - 00:59:37,800] I will find that d mu phi prime, this one
+- [00:59:37,800 - 00:59:43,800] over here, is equal, not quite to just d mu phi.
+- [00:59:43,800 - 00:59:44,800] What am I missing?
+- [00:59:44,800 - 00:59:45,800] This.
+- [00:59:45,800 - 00:59:46,800] This.
+- [00:59:46,800 - 00:59:47,300] This is equal to d
+- [00:59:47,300 - 00:59:47,800] mu phi prime d mu phi.
+- [00:59:47,800 - 00:59:48,800] Okay.
+- [00:59:48,800 - 00:59:49,300] And the other two, this is
+- [00:59:49,300 - 00:59:49,800] equal to e to the i theta.
+- [00:59:49,800 - 00:59:50,800] e to the i theta.
+- [00:59:50,800 - 00:59:51,800] Overall, e to the i theta.
+- [00:59:51,800 - 00:59:52,800] So you say, well, I didn't get anywhere.
+- [00:59:52,800 - 00:59:57,300] d mu of phi prime is
+- [00:59:57,300 - 01:00:01,800] not the same as d mu phi.
+- [01:00:01,800 - 01:00:03,800] It's not gage invariant.
+- [01:00:03,800 - 01:00:05,980] True enough.
+- [01:00:05,980 - 01:00:08,720] But it only differs from being gage invariant
+- [01:00:08,720 - 01:00:11,460] by an outside overall factor of e to the
+- [01:00:11,460 - 01:00:13,630] i theta, which will disappear when
+- [01:00:13,630 - 01:00:15,800] you multiply this by its conjugate.
+- [01:00:15,800 - 01:00:20,370] Notice that in this formula here
+- [01:00:20,370 - 01:00:24,940] the derivative of theta does not appear.
+- [01:00:24,940 - 01:00:27,440] You have the covariant derivative of phi prime
+- [01:00:27,440 - 01:00:29,940] is equal to the covariant derivative of phi
+- [01:00:29,940 - 01:00:34,840] up to this overall factor of e to the
+- [01:00:34,840 - 01:00:39,740] r theta, which will cancel when you multiply this by
+- [01:00:39,740 - 01:00:46,020] d mu of phi star prime.
+- [01:00:46,020 - 01:00:50,219] That will be equal to e to the
+- [01:00:50,219 - 01:00:54,419] minus i theta times d mu of phi star.
+- [01:00:54,419 - 01:00:58,629] So when you multiply these two together,
+- [01:00:58,629 - 01:01:02,839] the unwanted unpleasant things that have derivatives
+- [01:01:02,839 - 01:01:06,359] of theta in them disappear.
+- [01:01:06,359 - 01:01:07,359] What is the cost?
+- [01:01:07,359 - 01:01:09,720] The cost is you had to introduce a new field.
+- [01:01:09,720 - 01:01:18,160] It's transformed in this way over here.
+- [01:01:18,160 - 01:01:21,459] Once you allow yourself that freedom to introduce
+- [01:01:21,459 - 01:01:24,759] a new field, the vector potential, then this
+- [01:01:24,759 - 01:01:27,069] Lagrangian over here becomes
+- [01:01:27,069 - 01:01:29,379] invariant under gauge transformations.
+- [01:01:29,379 - 01:01:37,399] Later on we'll write it out in some more detail.
+- [01:01:37,399 - 01:01:39,000] One more point before we jump to the question.
+- [01:01:39,000 - 01:01:39,500] I'm sorry.
+- [01:01:39,720 - 01:01:41,240] I'm going to go back to the conclusion.
+- [01:01:41,240 - 01:01:45,220] And that's the electromagnetic part of the Lagrangian.
+- [01:01:45,220 - 01:01:48,259] This field is a charge-carrying field.
+- [01:01:48,259 - 01:01:50,989] It's not the electron because the electron is
+- [01:01:50,989 - 01:01:53,720] not a boson, but it could be some charged
+- [01:01:53,720 - 01:01:56,839] boson of some sort.
+- [01:01:56,839 - 01:01:59,680] Some charged boson of some sort.
+- [01:01:59,680 - 01:02:03,000] And there are charged bosons.
+- [01:02:03,000 - 01:02:06,720] A helium nucleus is a charged boson.
+- [01:02:06,720 - 01:02:07,720] So, five.
+- [01:02:07,720 - 01:02:08,720] Five.
+- [01:02:08,720 - 01:02:09,720] Five.
+- [01:02:09,720 - 01:02:13,540] Five represents some charged boson.
+- [01:02:13,540 - 01:02:15,819] A represents the vector potential.
+- [01:02:15,819 - 01:02:18,209] And the electromagnetic field is
+- [01:02:18,209 - 01:02:20,600] also governed by a Lagrangian.
+- [01:02:20,600 - 01:02:26,870] The Lagrangian is defined F mu nu to equal
+- [01:02:26,870 - 01:02:33,140] d mu A nu minus d nu A mu.
+- [01:02:33,140 - 01:02:36,379] The mixed space-time component is the electric field.
+- [01:02:36,379 - 01:02:39,560] The space-space component are the magnetic fields.
+- [01:02:39,720 - 01:02:42,630] And the square of F. Now that,
+- [01:02:42,630 - 01:02:45,540] there are some signs that go into it.
+- [01:02:45,540 - 01:02:48,540] F mu nu, F mu nu.
+- [01:02:48,540 - 01:02:50,959] That's E squared minus B squared.
+- [01:02:50,959 - 01:02:54,279] That's the Lagrangian of the electromagnetic field.
+- [01:02:54,279 - 01:02:56,479] The important thing for us
+- [01:02:56,479 - 01:02:58,680] is that this is gauge invariant.
+- [01:02:58,680 - 01:03:02,620] This does not change when you make a gauge transformation.
+- [01:03:02,620 - 01:03:04,020] What happens to A?
+- [01:03:04,020 - 01:03:08,680] A changes by the gradient of theta.
+- [01:03:08,680 - 01:03:09,600] So what happens to this?
+- [01:03:09,600 - 01:03:16,380] F prime becomes F plus d mu d
+- [01:03:16,380 - 01:03:23,160] nu theta minus d nu d mu theta.
+- [01:03:23,160 - 01:03:25,160] These two terms cancel.
+- [01:03:25,160 - 01:03:27,360] So F is itself gauge invariant.
+- [01:03:27,360 - 01:03:31,259] And when you add F squared, it's still gauge invariant.
+- [01:03:31,259 - 01:03:35,440] So the whole upshot is, oh, one more thing.
+- [01:03:35,440 - 01:03:38,500] One more thing you can add that's gauge invariant.
+- [01:03:38,500 - 01:03:44,060] That's a potential which depends only on phi star phi.
+- [01:03:44,060 - 01:03:48,340] A potential which depends only on phi star phi.
+- [01:03:48,340 - 01:03:53,500] So the full Lagrangian of a simple gauge theory involving
+- [01:03:53,500 - 01:03:55,840] the interaction of electromagnetism
+- [01:03:55,840 - 01:03:59,660] with a charged scalar field would look like this.
+- [01:03:59,660 - 01:04:02,580] It would have d mu phi d mu,
+- [01:04:02,580 - 01:04:05,500] let's just put d phi d phi star.
+- [01:04:08,500 - 01:04:11,470] It would have v of phi star
+- [01:04:11,470 - 01:04:14,440] phi, which is just v of rho,
+- [01:04:14,440 - 01:04:19,690] if you remember, and then plus F
+- [01:04:19,690 - 01:04:24,940] squared, plus E squared minus B squared.
+- [01:04:24,940 - 01:04:26,360] And it would be fully
+- [01:04:26,360 - 01:04:27,780] gauge invariant, no change in it
+- [01:04:27,780 - 01:04:30,900] when you make a gauge transformation.
+- [01:04:30,900 - 01:04:34,660] That's the simplest gauge theory in a nutshell.
+- [01:04:38,500 - 01:04:43,460] And that's basically it.
+- [01:04:43,460 - 01:04:46,560] That's basically the structure of all gauge theories.
+- [01:04:46,560 - 01:04:49,240] They have a structure similar to this.
+- [01:04:49,240 - 01:04:52,840] Now let's ask, what happens when
+- [01:04:52,840 - 01:04:56,440] the symmetry of rotation of phi
+- [01:04:56,440 - 01:04:57,980] is spontaneously broken?
+- [01:04:57,980 - 01:04:59,460] When does that happen?
+- [01:04:59,460 - 01:05:08,340] It happens when the potential has this upside down sombrero.
+- [01:05:08,500 - 01:05:10,900] I guess it's not an upside down sombrero.
+- [01:05:10,900 - 01:05:13,770] When it has that shape, so that
+- [01:05:13,770 - 01:05:16,640] the ground state of phi breaks the symmetry,
+- [01:05:16,640 - 01:05:17,260] what happens?
+- [01:05:17,260 - 01:05:18,620] What new thing happens?
+- [01:05:18,620 - 01:05:19,560] What new thing happens?
+- [01:05:19,560 - 01:05:22,880] Oh, before we do that, let's
+- [01:05:22,880 - 01:05:26,200] just remember that this potential is such
+- [01:05:26,200 - 01:05:30,740] that the angular direction is a Goldstone boson, no mass.
+- [01:05:30,740 - 01:05:32,880] The radial direction, which we call
+- [01:05:32,880 - 01:05:35,020] the Higgs boson, has a mass.
+- [01:05:35,020 - 01:05:38,360] And furthermore, the photon does not have a mass.
+- [01:05:38,360 - 01:05:41,780] How do I know the photon doesn't have a mass?
+- [01:05:41,780 - 01:05:43,480] The reason is simple.
+- [01:05:43,480 - 01:05:46,940] The F is only a function
+- [01:05:46,940 - 01:05:50,400] of the derivatives of the vector potential.
+- [01:05:50,400 - 01:05:52,720] That means if you were to
+- [01:05:52,720 - 01:05:55,040] shift the vector potential everywhere simultaneously,
+- [01:05:55,040 - 01:05:59,380] there would be no change in energy.
+- [01:05:59,380 - 01:06:01,930] Shift the vector potential everywheres
+- [01:06:01,930 - 01:06:04,480] together, no change in energy,
+- [01:06:04,480 - 01:06:07,220] that means a massless particle.
+- [01:06:07,220 - 01:06:08,220] So there are two massless particles.
+- [01:06:08,220 - 01:06:10,339] There are two apparent massless
+- [01:06:10,339 - 01:06:12,459] particles floating around in this theory.
+- [01:06:12,459 - 01:06:16,429] One is the Goldstone boson,
+- [01:06:16,429 - 01:06:20,399] and the other is the photon.
+- [01:06:20,399 - 01:06:23,279] And now, watch what happens.
+- [01:06:23,279 - 01:06:24,779] Let's take...
+- [01:06:24,779 - 01:06:27,379] Oh, what would a mass term for
+- [01:06:27,379 - 01:06:29,980] the photon look like if you had one?
+- [01:06:29,980 - 01:06:32,629] Well, the mass term is always
+- [01:06:32,629 - 01:06:35,279] something which is quadratic in the field.
+- [01:06:35,279 - 01:06:37,500] For example, the mass of phi, if it existed,
+- [01:06:38,220 - 01:06:41,319] would be phi star phi, or phi squared,
+- [01:06:41,319 - 01:06:45,220] phi real squared plus phi imaginary squared.
+- [01:06:45,220 - 01:06:47,470] Or the photon mass B, it
+- [01:06:47,470 - 01:06:49,720] would be something proportional to a squared,
+- [01:06:49,720 - 01:06:51,819] to the vector potential squared.
+- [01:06:51,819 - 01:06:54,429] If you allowed yourself to put
+- [01:06:54,429 - 01:06:57,040] the vector potential squared into the Lagrangian,
+- [01:06:57,040 - 01:06:59,540] you would have a mass for the photon.
+- [01:06:59,540 - 01:07:01,779] That would not be gauge invariant.
+- [01:07:01,779 - 01:07:02,779] Look at it.
+- [01:07:02,779 - 01:07:05,759] Here's a squared, which means...
+- [01:07:05,759 - 01:07:07,220] This means a mu, a mu.
+- [01:07:08,220 - 01:07:11,539] If you put that into the Lagrangian, what
+- [01:07:11,539 - 01:07:14,859] would happen when you make a gauge transformation?
+- [01:07:14,859 - 01:07:19,289] It would shift to a
+- [01:07:19,289 - 01:07:23,720] plus the gradient of theta squared.
+- [01:07:23,720 - 01:07:25,399] But that's not the same as a squared.
+- [01:07:25,399 - 01:07:27,369] A squared is not the same
+- [01:07:27,369 - 01:07:29,339] as a plus derivative of theta squared.
+- [01:07:29,339 - 01:07:32,279] So a squared, just a squared,
+- [01:07:32,279 - 01:07:35,220] a squared would not be gauge invariant.
+- [01:07:35,220 - 01:07:37,120] Would not be gauge invariant.
+- [01:07:37,120 - 01:07:38,120] Okay?
+- [01:07:38,220 - 01:07:43,060] So a mass term is not allowed by gauge invariance.
+- [01:07:43,060 - 01:07:45,259] Gauge invariance is a symmetry which
+- [01:07:45,259 - 01:07:47,459] prohibits the photon from having a mass.
+- [01:07:47,459 - 01:07:48,459] Or does it?
+- [01:07:48,459 - 01:07:52,200] Well, let's look at this Lagrangian a little more closely.
+- [01:07:52,200 - 01:07:58,220] And in particular, let's look at this term over here.
+- [01:07:58,220 - 01:08:06,220] In fact...
+- [01:08:08,220 - 01:08:12,459] Let's concentrate on the Goldstone boson piece of it.
+- [01:08:12,459 - 01:08:15,959] And we can do that by writing that
+- [01:08:15,959 - 01:08:19,460] phi is F times E to the I...
+- [01:08:19,460 - 01:08:20,460] Ah, no.
+- [01:08:20,460 - 01:08:21,460] Let's not.
+- [01:08:21,460 - 01:08:22,460] Let's not.
+- [01:08:22,460 - 01:08:23,460] Let's just...
+- [01:08:23,460 - 01:08:24,460] Let's go for it.
+- [01:08:24,460 - 01:08:25,460] Here's the term in the Lagrangian.
+- [01:08:25,460 - 01:08:26,460] All right.
+- [01:08:26,460 - 01:08:27,460] So what's in here?
+- [01:08:27,460 - 01:08:33,059] d phi is derivative of phi plus...
+- [01:08:33,059 - 01:08:35,219] Is it plus IA times phi?
+- [01:08:35,219 - 01:08:36,260] Is that right?
+- [01:08:36,260 - 01:08:37,260] Yes.
+- [01:08:37,260 - 01:08:38,099] Okay.
+- [01:08:38,100 - 01:08:39,100] It's what you wrote.
+- [01:08:39,100 - 01:08:40,100] It's what I wrote.
+- [01:08:40,100 - 01:08:44,600] d phi star is derivative
+- [01:08:44,600 - 01:08:49,100] of phi minus IA phi star.
+- [01:08:49,100 - 01:08:54,500] All right?
+- [01:08:54,500 - 01:08:59,880] Now let's suppose that we're looking at the
+- [01:08:59,880 - 01:09:05,260] ground state when the field is right over here.
+- [01:09:05,260 - 01:09:06,340] When phi is equal to F.
+- [01:09:06,340 - 01:09:07,340] Okay.
+- [01:09:07,340 - 01:09:11,740] Let's say just the real value.
+- [01:09:11,740 - 01:09:14,340] The real value of phi is equal to F.
+- [01:09:14,340 - 01:09:15,340] Let's...
+- [01:09:15,340 - 01:09:16,840] For simplicity, let's say the
+- [01:09:16,840 - 01:09:18,340] imaginary part of phi is zero.
+- [01:09:18,340 - 01:09:21,340] So the field is sitting right over here.
+- [01:09:21,340 - 01:09:23,340] Let's look at the various terms.
+- [01:09:23,340 - 01:09:25,340] First of all...
+- [01:09:25,340 - 01:09:30,340] Well, the most important term is this one here.
+- [01:09:30,340 - 01:09:33,340] A times phi times phi star.
+- [01:09:33,340 - 01:09:35,340] But phi times phi star is...
+- [01:09:35,340 - 01:09:36,340] I say...
+- [01:09:36,340 - 01:09:38,460] is stuck at the minimum here.
+- [01:09:39,140 - 01:09:40,510] It's stuck at the minimum because
+- [01:09:40,510 - 01:09:41,880] it takes a lot of energy
+- [01:09:41,880 - 01:09:43,700] to shift phi away from the minimum.
+- [01:09:45,060 - 01:09:46,810] So as long as we
+- [01:09:46,810 - 01:09:48,560] don't excite a lot of energy,
+- [01:09:49,020 - 01:09:51,060] there's an effective term in the Lagrangian
+- [01:09:51,060 - 01:09:55,340] which is just a squared times phi star phi,
+- [01:09:55,760 - 01:09:59,920] which is just equal to f squared times a squared.
+- [01:10:03,140 - 01:10:04,300] Somebody said, hmm.
+- [01:10:05,200 - 01:10:05,960] Why'd you say, hmm?
+- [01:10:07,140 - 01:10:10,320] Because you immediately see that this is behaving
+- [01:10:10,320 - 01:10:12,080] like a mass term for the photon.
+- [01:10:13,180 - 01:10:14,860] This is behaving exactly like
+- [01:10:14,860 - 01:10:16,540] a mass term for the photon.
+- [01:10:18,620 - 01:10:19,720] What's the mass?
+- [01:10:20,240 - 01:10:23,080] The mass is basically just f, actually twice f,
+- [01:10:23,080 - 01:10:24,660] well, squared of two times f.
+- [01:10:25,280 - 01:10:28,660] But this factor, this numerical factor here,
+- [01:10:29,020 - 01:10:31,460] is playing the role, forget this,
+- [01:10:33,420 - 01:10:36,280] it's playing the role of a squared,
+- [01:10:36,340 - 01:10:38,840] times f squared, which would
+- [01:10:38,840 - 01:10:41,340] be a mass for the photon.
+- [01:10:41,340 - 01:10:43,040] It would be an energy that you get
+- [01:10:43,040 - 01:10:45,520] when you shift the field homogeneously.
+- [01:10:47,220 - 01:10:49,080] So what have we learned?
+- [01:10:49,080 - 01:10:51,460] We've learned that when
+- [01:10:51,460 - 01:10:53,840] you spontaneously break the symmetry,
+- [01:10:54,740 - 01:10:58,040] when you study the theory in the neighborhood
+- [01:10:58,040 - 01:10:59,620] of the minimum over here,
+- [01:11:01,060 - 01:11:03,420] the effect of one of the terms in the Lagrangian
+- [01:11:03,420 - 01:11:05,560] is just to make a mass for the photon.
+- [01:11:05,560 - 01:11:06,920] Isn't that interesting?
+- [01:11:06,920 - 01:11:09,560] When the photon propagates in this world
+- [01:11:09,560 - 01:11:12,360] where the symmetry is spontaneously broken,
+- [01:11:12,360 - 01:11:14,760] it behaves as if it had a mass.
+- [01:11:14,760 - 01:11:17,560] And it does have a mass for all practical purposes.
+- [01:11:17,560 - 01:11:20,400] So we've gotten around the statement that says
+- [01:11:20,400 - 01:11:22,200] photons can't have mass.
+- [01:11:22,200 - 01:11:23,960] Now real photons, of course, don't have mass.
+- [01:11:23,960 - 01:11:26,200] But there's photons in this world
+- [01:11:26,200 - 01:11:29,080] where the spontaneously broken symmetry do have mass.
+- [01:11:29,080 - 01:11:33,080] The second thing is the Goldstone boson disappears.
+- [01:11:33,080 - 01:11:35,360] Why does the Goldstone boson disappear?
+- [01:11:35,360 - 01:11:38,360] Well, let's remember what the Goldstone boson is.
+- [01:11:38,360 - 01:11:40,360] It's this angle alpha,
+- [01:11:40,360 - 01:11:43,360] the angle of the field on the complex plane.
+- [01:11:43,360 - 01:11:45,360] What does a gauge transform a...
+- [01:11:45,360 - 01:11:49,360] Well, first of all, what is the Goldstone boson?
+- [01:11:49,360 - 01:11:52,360] The Goldstone boson is simply a slowly varying
+- [01:11:52,360 - 01:11:55,360] or a varying value of alpha.
+- [01:11:55,360 - 01:11:56,360] Alpha is a field.
+- [01:11:56,360 - 01:11:58,360] It can vary in space.
+- [01:11:58,360 - 01:12:01,360] If it couldn't vary in space, it wouldn't be interesting.
+- [01:12:01,360 - 01:12:03,360] Alpha can vary in space.
+- [01:12:03,360 - 01:12:04,360] So it's a very interesting thing.
+- [01:12:04,360 - 01:12:06,360] Alpha can vary in space.
+- [01:12:06,360 - 01:12:09,360] But you can make alpha vary another way.
+- [01:12:09,360 - 01:12:12,360] You can make it vary by doing a gauge transformation,
+- [01:12:12,360 - 01:12:17,360] adding a little bit of theta, of x.
+- [01:12:17,360 - 01:12:20,360] So you can make alpha vary from place to place,
+- [01:12:20,360 - 01:12:23,360] and you might think that that makes a Goldstone boson.
+- [01:12:23,360 - 01:12:27,360] But it doesn't because this is a symmetry.
+- [01:12:27,360 - 01:12:31,360] A symmetry means that you don't change the energy.
+- [01:12:31,360 - 01:12:32,860] It means that the system
+- [01:12:32,860 - 01:12:34,360] seems to be in a state
+- [01:12:34,360 - 01:12:36,360] that stays in the ground state.
+- [01:12:36,360 - 01:12:38,360] This is not a real change.
+- [01:12:38,360 - 01:12:40,360] It's a gauge transformation.
+- [01:12:40,360 - 01:12:43,360] So the Goldstone boson completely disappears.
+- [01:12:43,360 - 01:12:45,360] It completely disappears.
+- [01:12:45,360 - 01:12:49,360] It just becomes a gauge transformation,
+- [01:12:49,360 - 01:12:52,360] no real energy associated with it.
+- [01:12:52,360 - 01:12:54,360] And at the same time,
+- [01:12:54,360 - 01:12:56,360] the vector potential gains a mass.
+- [01:12:56,360 - 01:13:00,360] So it's a sort of zero-sum game.
+- [01:13:00,360 - 01:13:02,360] You get rid of one mass...
+- [01:13:02,360 - 01:13:04,360] No, it's not a zero-sum game.
+- [01:13:04,360 - 01:13:06,360] Yes, you can make it work.
+- [01:13:06,360 - 01:13:09,360] So what you're going to do is you're going to
+- [01:13:09,360 - 01:13:12,360] remove the массeless Goldstone boson
+- [01:13:12,360 - 01:13:14,360] and remove the massless photon,
+- [01:13:14,360 - 01:13:19,360] replacing the massless photon by a massive photon,
+- [01:13:19,360 - 01:13:23,360] and at the same time,
+- [01:13:23,360 - 01:13:27,360] the Higgs boson now has a mass
+- [01:13:27,360 - 01:13:30,360] because it oscillates about here.
+- [01:13:30,360 - 01:13:33,360] That's the Higgs phenomenon.
+- [01:13:33,360 - 01:13:36,720] by plugging in the value of the Higgs field
+- [01:13:36,720 - 01:13:40,080] or the value of phi at the minimum here, we
+- [01:13:40,080 - 01:13:42,280] generated a mass term for the photon, and
+- [01:13:42,280 - 01:13:44,480] where did it come from? It came from this
+- [01:13:44,480 - 01:13:47,170] covariant derivative. That's all. It
+- [01:13:47,170 - 01:13:49,860] just came from the covariant derivative.
+- [01:13:49,860 - 01:13:58,860] Could you rewrite the whole Lagrangian in those terms?
+- [01:13:58,860 - 01:14:01,370] Yes you can. And if you can, you can
+- [01:14:01,370 - 01:14:03,880] rewrite the Lagrangian in those terms, you can do
+- [01:14:03,880 - 01:14:07,130] a gauge transformation and basically completely
+- [01:14:07,130 - 01:14:10,380] remove this angular degree of freedom. Completely
+- [01:14:10,380 - 01:14:14,710] remove the angle from the... I'll show you
+- [01:14:14,710 - 01:14:19,040] a simple baby version of that. If you completely
+- [01:14:19,040 - 01:14:22,109] forgot the radial degree of freedom,
+- [01:14:22,109 - 01:14:25,179] just completely froze it, just completely froze
+- [01:14:25,179 - 01:14:28,839] it, you would find that the Lagrangian, let's see,
+- [01:14:28,840 - 01:14:34,650] yeah, the covariant derivative of phi would
+- [01:14:34,650 - 01:14:40,460] become F, I think, times the derivative of
+- [01:14:40,460 - 01:14:48,560] alpha plus the vector potential itself, maybe times
+- [01:14:48,560 - 01:14:56,660] E to the... let's see, phi is just equal
+- [01:14:56,660 - 01:14:58,760] to F times E to the i alpha.
+- [01:14:58,840 - 01:15:05,290] And so the derivative of phi is F, I alpha, sorry,
+- [01:15:05,290 - 01:15:11,740] F, I, F derivative of alpha times E to the i alpha.
+- [01:15:11,740 - 01:15:13,540] So there would be an E to
+- [01:15:13,540 - 01:15:15,340] the i alpha multiplying the whole thing.
+- [01:15:15,340 - 01:15:19,340] This is just setting the magnitude
+- [01:15:19,340 - 01:15:23,340] or the rho equal to F.
+- [01:15:23,340 - 01:15:25,340] Okay.
+- [01:15:25,340 - 01:15:27,340] I think F would come on the outside.
+- [01:15:28,840 - 01:15:31,150] F would come on the outside here, wouldn't
+- [01:15:31,150 - 01:15:33,460] it? F would come on the outside. This would
+- [01:15:33,460 - 01:15:35,800] be the covariant derivative of phi and
+- [01:15:35,800 - 01:15:38,140] it would contain the derivative of the angular
+- [01:15:38,140 - 01:15:40,660] part. That's the important thing. It contains
+- [01:15:40,660 - 01:15:43,180] the derivative of the angular part. What about
+- [01:15:43,180 - 01:15:47,770] the derivative of phi star? That would be
+- [01:15:47,770 - 01:15:52,360] the same thing, derivative of alpha, i here,
+- [01:15:52,360 - 01:15:54,550] minus i A times E to the minus i
+- [01:15:54,550 - 01:15:56,740] alpha F. I'm getting tired, so it's getting a little...
+- [01:15:56,740 - 01:15:57,740] I'm getting tired.
+- [01:15:57,740 - 01:15:58,740] Okay.
+- [01:15:58,740 - 01:16:01,580] I'm getting a little bit late. That's what
+- [01:16:01,580 - 01:16:04,420] you would get. Okay. When you multiply them
+- [01:16:04,420 - 01:16:09,420] together, you would get exactly what you expect.
+- [01:16:09,420 - 01:16:11,969] Okay. Now you also have F mu nu. You
+- [01:16:11,969 - 01:16:14,519] have this times this in the Lagrangian and you
+- [01:16:14,519 - 01:16:18,309] have F mu nu squared. Now let's make
+- [01:16:18,309 - 01:16:22,099] a gauge transformation. This is a clever gauge transformation
+- [01:16:22,099 - 01:16:25,369] which is designed to get rid of this
+- [01:16:25,369 - 01:16:28,639] term altogether. How can you make a gauge transformation
+- [01:16:28,640 - 01:16:33,250] that gets rid of this term? Just set
+- [01:16:33,250 - 01:16:37,860] theta equal to minus alpha. Remember what happens
+- [01:16:37,860 - 01:16:39,990] to the vector potential when you make a
+- [01:16:39,990 - 01:16:42,120] gauge transformation. It just picks up a derivative
+- [01:16:42,120 - 01:16:45,570] of theta. If you make your gauge
+- [01:16:45,570 - 01:16:49,020] transformation using for the gauge function theta, alpha
+- [01:16:49,020 - 01:16:52,670] itself, this just goes away completely. Or
+- [01:16:52,670 - 01:16:56,320] sorry, it doesn't go away completely. It just
+- [01:16:56,320 - 01:16:57,320] becomes A.
+- [01:16:57,320 - 01:16:58,320] Okay.
+- [01:16:58,640 - 01:17:02,620] And this term in the Lagrangian just becomes
+- [01:17:02,620 - 01:17:06,600] A squared. So by design, you can construct
+- [01:17:06,600 - 01:17:10,500] a gauge transformation which just removes this.
+- [01:17:10,500 - 01:17:14,400] This times this gets rid of the alpha
+- [01:17:14,400 - 01:17:17,650] dependence altogether and you just get F squared times
+- [01:17:17,650 - 01:17:20,900] A squared. All you get is the mass term.
+- [01:17:20,900 - 01:17:24,210] That's all that's left. And of course, you
+- [01:17:24,210 - 01:17:27,520] still have F squared, but this is gauge invariant,
+- [01:17:27,520 - 01:17:28,520] so it doesn't change.
+- [01:17:28,520 - 01:17:29,020] So this is the Higgs momentum that's going
+- [01:17:29,020 - 01:17:29,520] to change when you do the gauge transformation.
+- [01:17:29,520 - 01:17:34,240] Net result, the angular degree of freedom
+- [01:17:34,240 - 01:17:38,960] just sort of disappears. Some magic happened.
+- [01:17:38,960 - 01:17:41,480] The angular degree of freedom disappeared. The
+- [01:17:41,480 - 01:17:44,000] Goldstone boson is gone and the photon
+- [01:17:44,000 - 01:17:47,940] has a mass. Meanwhile, the Higgs boson,
+- [01:17:47,940 - 01:17:51,880] which is this radial oscillation, that's still there.
+- [01:17:51,880 - 01:17:54,630] So this is the magic of the Higgs phenomena,
+- [01:17:54,630 - 01:17:57,380] and it's the phenomenon of giving a mass to
+- [01:17:57,380 - 01:17:58,380] the gauge bosons.
+- [01:17:58,380 - 01:18:02,340] Well, it can't go anyways unless you have a programmer
+- [01:18:02,340 - 01:18:07,180] Is it fair to say that the oscillations in alpha
+- [01:18:07,180 - 01:18:09,920] are indistinguishable from just gauge oscillations?
+- [01:18:09,920 - 01:18:11,660] From just
+- [01:18:11,660 - 01:18:13,900] Yes, that's fair to say. It's only fair to
+- [01:18:13,900 - 01:18:16,140] say that it's true. Now, I will tell you
+- [01:18:16,140 - 01:18:19,180] right now that this is also the
+- [01:18:19,180 - 01:18:22,220] physics of superconductors. In a superconductor, there
+- [01:18:22,220 - 01:18:22,800] are charged bosons. The charge bosons are
+- [01:18:22,800 - 01:18:23,380] bound pairs of electrons. They recover komm du
+- [01:18:23,380 - 01:18:24,380] manch.
+- [01:18:24,380 - 01:18:25,380] Boom وبطเฦ
+- [01:18:25,380 - 01:18:26,380] zoals
+- [01:18:26,380 - 01:18:27,380] charst
+- [01:18:28,380 - 01:18:34,500] Cooper pairs. Cooper pairs are loosely bound
+- [01:18:34,500 - 01:18:40,620] pairs of electrons, but they are bosons.
+- [01:18:40,620 - 01:18:43,600] So there's a charged boson field in the
+- [01:18:43,600 - 01:18:46,580] system, and the charged boson field gets shifted away
+- [01:18:46,580 - 01:18:49,540] from the origin by some complicated dynamics
+- [01:18:49,540 - 01:18:52,500] in the superconductor. It creates a condensate
+- [01:18:52,500 - 01:18:55,500] of those charged pairs, and it's equivalent
+- [01:18:55,500 - 01:18:58,500] to exactly this kind of spontaneous symmetry breaking,
+- [01:18:58,500 - 01:19:01,580] where phi would be replaced by
+- [01:19:01,580 - 01:19:04,660] the field describing the Cooper pairs.
+- [01:19:04,660 - 01:19:07,200] So this is also the physics of a
+- [01:19:07,200 - 01:19:09,740] superconductor, and in the superconductor, the photon also
+- [01:19:09,740 - 01:19:13,460] behaves like a massive particle. One last thing.
+- [01:19:13,460 - 01:19:17,180] How can you lose a degree of freedom?
+- [01:19:17,180 - 01:19:22,200] How on earth can a degree of freedom disappear?
+- [01:19:22,200 - 01:19:26,740] The angular degree of freedom. It
+- [01:19:26,740 - 01:19:31,280] didn't disappear. What has happened, a massless
+- [01:19:31,280 - 01:19:34,979] photon has two polarization states. Remember, polarization
+- [01:19:34,979 - 01:19:38,679] is a little arrow that is perpendicular
+- [01:19:38,679 - 01:19:41,659] to the motion of the photon. It's, if
+- [01:19:41,659 - 01:19:44,639] you like, the direction of the electric field
+- [01:19:44,639 - 01:19:48,419] oscillations. So every photon carries with it
+- [01:19:48,419 - 01:19:52,200] a polarization vector. There are two of
+- [01:19:52,200 - 01:19:54,780] the two orthogonal directions for the polariz- if
+- [01:19:54,780 - 01:19:57,360] the photon is going that way, the polarization
+- [01:19:57,360 - 01:19:59,320] can be that way or it can be that
+- [01:19:59,320 - 01:20:01,280] way. So there are two polarization states. You can
+- [01:20:01,280 - 01:20:04,240] also think of them as the states of
+- [01:20:04,240 - 01:20:07,200] circular polarization of the photon. There is no state
+- [01:20:07,200 - 01:20:10,080] in which the polarization vector of the
+- [01:20:10,080 - 01:20:12,960] photon points along the direction of motion. Maxwell
+- [01:20:12,960 - 01:20:16,020] theory doesn't allow that. Why is that consistent
+- [01:20:16,020 - 01:20:19,080] if the photon is described as a vector? How
+- [01:20:19,080 - 01:20:20,609] can it be that it only
+- [01:20:20,609 - 01:20:22,139] has two components and not a third?
+- [01:20:22,200 - 01:20:26,010] And the answer is very simple. The photon
+- [01:20:26,010 - 01:20:29,820] moves at the speed of light. It can never
+- [01:20:29,820 - 01:20:32,689] be brought to rest. Suppose it could be
+- [01:20:32,689 - 01:20:35,559] brought to rest. Supposing the photon could be brought
+- [01:20:35,559 - 01:20:37,549] to rest. If it could be brought to rest,
+- [01:20:37,549 - 01:20:39,540] and you brought it to rest, it was going down
+- [01:20:39,540 - 01:20:42,620] that way, and you brought it to rest, it
+- [01:20:42,620 - 01:20:45,700] had a polarization along the x-axis, and you brought
+- [01:20:45,700 - 01:20:48,450] it to rest. It would be a particle
+- [01:20:48,450 - 01:20:51,200] at rest with a polarization along the x-axis.
+- [01:20:52,200 - 01:20:55,100] Now you could accelerate it along the x-axis, and
+- [01:20:55,100 - 01:20:58,000] all of a sudden it would become a particle
+- [01:20:58,000 - 01:21:01,890] whose polarization was along its direction of
+- [01:21:01,890 - 01:21:05,780] motion. So the answer is, if a particle
+- [01:21:05,780 - 01:21:09,450] like the photon were to have mass, it
+- [01:21:09,450 - 01:21:13,120] would have to have three directions of polarization.
+- [01:21:13,120 - 01:21:15,510] You could bring it to rest, and once
+- [01:21:15,510 - 01:21:17,900] it's at rest, there's no distinction between the
+- [01:21:17,900 - 01:21:19,860] three directions. It would have to have
+- [01:21:19,860 - 01:21:21,820] three directions of polarization, and then if you
+- [01:21:21,820 - 01:21:24,570] sped it up along some axis, it
+- [01:21:24,570 - 01:21:27,320] would have three directions of polarization. The massless
+- [01:21:27,320 - 01:21:29,419] particle can never be brought to rest, and
+- [01:21:29,419 - 01:21:31,519] it's perfectly consistent for it to only have
+- [01:21:31,519 - 01:21:34,349] two directions of polarization, namely circular this
+- [01:21:34,349 - 01:21:37,179] way or circular this way. Another way
+- [01:21:37,179 - 01:21:39,749] of thinking about it is if you
+- [01:21:39,749 - 01:21:42,320] take a particle circularly right-handed polarized, and you
+- [01:21:42,320 - 01:21:44,850] brought it to rest, and then accelerated it
+- [01:21:44,850 - 01:21:47,380] off in the opposite direction, it would all
+- [01:21:47,380 - 01:21:50,820] of a sudden have left-handed polarization.
+- [01:21:50,820 - 01:21:51,620] It would have left-handed polarization.
+- [01:21:51,820 - 01:21:56,320] Left-handed, so, all right, it's also a way
+- [01:21:56,320 - 01:22:00,820] to think about it. The point is that you
+- [01:22:00,820 - 01:22:04,169] have not lost a degree of freedom. The
+- [01:22:04,169 - 01:22:07,519] Goldstone boson has really become the other missing
+- [01:22:07,519 - 01:22:10,689] polarization of the photon. Or another way of
+- [01:22:10,689 - 01:22:13,860] saying it is you started with four degrees
+- [01:22:13,860 - 01:22:17,360] of freedom, the two components for each photon,
+- [01:22:17,360 - 01:22:20,860] the two components of the chain of the photon,
+- [01:22:21,820 - 01:22:23,620] the two components of the charge scalar,
+- [01:22:23,620 - 01:22:25,420] and the two components of polarization of the
+- [01:22:25,420 - 01:22:28,279] photon. In the end, you were left,
+- [01:22:28,279 - 01:22:31,139] again, with four degrees of freedom, three polarizations
+- [01:22:31,139 - 01:22:34,459] of the photon, and the Higgs boson. So
+- [01:22:34,459 - 01:22:37,780] you really haven't lost any degrees of freedom.
+- [01:22:37,780 - 01:22:41,039] You've turned the Goldstone boson into
+- [01:22:41,039 - 01:22:44,299] what's called the longitudinal degree of freedom
+- [01:22:44,299 - 01:22:47,299] of the photon, the one in which the
+- [01:22:47,299 - 01:22:50,299] vector potential or the field is pointing, the electric
+- [01:22:50,299 - 01:22:50,559] field is pointing along the direction of the
+- [01:22:50,559 - 01:22:50,820] photon. And the reason for that is because,
+- [01:22:50,820 - 01:22:51,320] you know, the electron is pointing at the
+- [01:22:51,320 - 01:22:51,820] direction of the electron, and the electron is pointing
+- [01:22:51,820 - 01:22:54,570] at the direction of motion. That's
+- [01:22:54,570 - 01:22:57,320] what's happened. But they all have mass.
+- [01:22:57,320 - 01:23:01,439] Now the next time I will show you
+- [01:23:01,439 - 01:23:05,559] the physics in a simplified context, the same context
+- [01:23:05,559 - 01:23:10,239] of why the fermions, the electrons and the
+- [01:23:10,239 - 01:23:14,920] quarks, get their mass from the Higgs phenomenon.
+- [01:23:14,920 - 01:23:18,210] So far we haven't talked about the quarks
+- [01:23:18,210 - 01:23:21,500] and the electrons. They also have mass. What
+- [01:23:21,500 - 01:23:21,649] does their mass look like? Well, the
+- [01:23:21,649 - 01:23:21,799] Higgs phenomenon is a very simple phenomenon. It's
+- [01:23:21,800 - 01:23:22,300] a very simple phenomenon. It's a very simple
+- [01:23:22,300 - 01:23:22,800] phenomenon. How do they get their mass? Well,
+- [01:23:22,800 - 01:23:23,300] the Higgs phenomenon is a very simple phenomenon.
+- [01:23:23,300 - 01:23:23,800] It's a very simple phenomenon. It's a very
+- [01:23:23,800 - 01:23:24,300] simple phenomenon. It's a very simple phenomenon. What
+- [01:23:24,300 - 01:23:24,800] does their mass have to do with the Higgs
+- [01:23:24,800 - 01:23:26,340] phenomenon? That will be the next time. When we
+- [01:23:26,340 - 01:23:27,880] finish that, we will have a set-up in which
+- [01:23:27,880 - 01:23:30,740] all particles, including the Higgs boson, all
+- [01:23:30,740 - 01:23:33,600] get their mass from the same place, namely
+- [01:23:33,600 - 01:23:36,760] the spontaneous symmetry breaking. Then we can
+- [01:23:36,760 - 01:23:39,920] start to talk about this very interesting
+- [01:23:39,920 - 01:23:42,610] situation that all of the particles in nature
+- [01:23:42,610 - 01:23:45,300] that we know, you know, that we've measured,
+- [01:23:45,300 - 01:23:47,710] are the ones which would become massless
+- [01:23:47,710 - 01:23:50,120] if there was no spontaneous symmetry breaking.
+- [01:23:50,120 - 01:23:51,480] Boy, I've had enough of that.
+- [01:23:51,480 - 01:23:52,480] Enough for tonight.
+- [01:23:52,480 - 01:23:58,419] For more, please visit us at stanford.edu.
