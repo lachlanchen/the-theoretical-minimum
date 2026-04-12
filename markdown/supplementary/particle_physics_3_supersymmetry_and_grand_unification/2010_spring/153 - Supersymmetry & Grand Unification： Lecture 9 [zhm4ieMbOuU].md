@@ -1,0 +1,2441 @@
+# Transcript
+
+Source: supplementary/particle_physics_3_supersymmetry_and_grand_unification/2010_spring/153 - Supersymmetry & Grand Unification： Lecture 9 [zhm4ieMbOuU].mp4
+
+- [00:00:00,000 - 00:00:06,440] Stanford University.
+- [00:00:06,440 - 00:00:09,880] Let me review first a little
+- [00:00:09,880 - 00:00:13,320] bit about symmetry breaking in general.
+- [00:00:13,320 - 00:00:16,540] How symmetry breaking influences
+- [00:00:16,540 - 00:00:19,760] the energy levels of systems.
+- [00:00:19,760 - 00:00:23,220] And of course the energy levels of systems can
+- [00:00:23,220 - 00:00:26,680] be translated for our purposes into the masses of particles.
+- [00:00:26,680 - 00:00:29,559] And I'm going to do that by
+- [00:00:29,559 - 00:00:32,439] a simple example, a simple familiar example.
+- [00:00:32,439 - 00:00:36,679] Then I'm going to show you how supersymmetry breaking works
+- [00:00:36,679 - 00:00:40,920] in the simple supersymmetric field theory that we discussed last time.
+- [00:00:40,920 - 00:00:47,239] Discuss a little bit about its relationship with gravity.
+- [00:00:47,239 - 00:00:51,939] And what the implications of supersymmetry and
+- [00:00:51,939 - 00:00:56,640] supersymmetry breaking are for gravity and vice versa.
+- [00:00:56,640 - 00:01:02,880] And finally if we still have time, I think we
+- [00:01:02,880 - 00:01:09,120] may, start the introduction to the guts, the grand unified theories.
+- [00:01:09,120 - 00:01:14,980] Okay, so symmetry breaking.
+- [00:01:14,980 - 00:01:20,170] A very, very simple model for symmetry breaking which
+- [00:01:20,170 - 00:01:25,360] really does have all of the physics in it.
+- [00:01:25,360 - 00:01:26,400] Of
+- [00:01:26,400 - 00:01:26,640] of
+- [00:01:56,640 - 00:02:12,080] continued UV radiation and the
+- [00:02:12,080 - 00:02:15,600] of Adjusting the energy levels found ofutions,
+- [00:02:15,600 - 00:02:18,480] scattering of energy into,
+- [00:02:18,480 - 00:02:22,080] Industriально off the Cosarden mass.
+- [00:02:22,080 - 00:02:23,600] Entire cosmic energy of the Sun,
+- [00:02:23,600 - 00:02:26,400] K versatility of energy from the sun itself
+- [00:02:26,400 - 00:02:28,650] by next nearest neighbor interactions
+- [00:02:28,650 - 00:02:30,900] and next to next nearest neighbor
+- [00:02:30,900 - 00:02:33,000] interactions and so forth but a
+- [00:02:33,000 - 00:02:35,100] very simple mathematical picture of a ferromagnet
+- [00:02:35,100 - 00:02:38,560] is that each little elementary
+- [00:02:38,560 - 00:02:42,020] magnet interacts with its neighbor and
+- [00:02:42,020 - 00:02:46,080] if the interaction energy is such that
+- [00:02:46,080 - 00:02:50,140] it favors that means it's lower if the
+- [00:02:50,140 - 00:02:52,959] two neighboring magnets are parallel to
+- [00:02:52,959 - 00:02:55,779] each other then that creates a
+- [00:02:55,779 - 00:02:59,079] ferromagnet if they prefer meaning
+- [00:02:59,079 - 00:03:02,380] energetically to be anti parallel then
+- [00:03:02,380 - 00:03:04,720] it creates an anti ferromagnet and there
+- [00:03:04,720 - 00:03:07,060] can be things in between which have no
+- [00:03:07,060 - 00:03:09,550] magnetization at all meaning to say
+- [00:03:09,550 - 00:03:12,040] that the magnets are very random and
+- [00:03:12,040 - 00:03:14,090] fluctuating and don't tend to depend and
+- [00:03:14,090 - 00:03:16,140] don't tend to point in any direction at
+- [00:03:16,140 - 00:03:19,660] all on the average ferromagnets
+- [00:03:19,660 - 00:03:20,119] anti-ferromagnet
+- [00:03:20,120 - 00:03:25,970] magnets and non magnets so let's imagine
+- [00:03:25,970 - 00:03:31,820] an atom in a magnetic field first
+- [00:03:31,820 - 00:03:33,470] before we talk about spontaneous
+- [00:03:33,470 - 00:03:35,120] symmetry breaking let's just imagine an
+- [00:03:35,120 - 00:03:38,450] atom in a magnetic field what
+- [00:03:38,450 - 00:03:41,780] does a magnetic field do to
+- [00:03:41,780 - 00:03:43,930] atoms even before we talk about the
+- [00:03:43,930 - 00:03:46,080] magnetic field let's just talk about the
+- [00:03:46,080 - 00:03:49,640] atom all right so the atom may have some
+- [00:03:49,640 - 00:03:50,100] angular momentum
+- [00:03:50,120 - 00:03:53,740] some spin at well some
+- [00:03:53,740 - 00:03:57,360] combined spin orbital angular momentum
+- [00:03:57,360 - 00:03:59,030] and you know that in quantum
+- [00:03:59,030 - 00:04:00,700] mechanics angular momentum along a given direction
+- [00:04:00,700 - 00:04:03,040] is quantized and you know this is
+- [00:04:03,040 - 00:04:05,380] often drawn in elementary textbooks in a way
+- [00:04:05,380 - 00:04:07,380] which is somewhat misleading but let's
+- [00:04:07,380 - 00:04:09,380] draw it anyway you see pictures
+- [00:04:09,380 - 00:04:12,910] frequently in chemistry books where
+- [00:04:12,910 - 00:04:16,440] you have to possible directions of
+- [00:04:16,440 - 00:04:17,779] magnetization vertically you can
+- [00:04:17,779 - 00:04:19,120] eventually achieve creationsrutility as
+- [00:04:19,120 - 00:04:21,970] vertically you plot some component of
+- [00:04:21,970 - 00:04:24,820] the magnetization, of the, not the magnetization,
+- [00:04:25,020 - 00:04:27,810] some component of the angular momentum, like the
+- [00:04:27,810 - 00:04:30,600] z component, you pick out the z component, why?
+- [00:04:31,780 - 00:04:35,860] Because z, I don't know, my
+- [00:04:35,860 - 00:04:39,940] middle name is Zebulon, it is,
+- [00:04:41,320 - 00:04:44,240] and then you say the angular momentum can point
+- [00:04:44,240 - 00:04:47,160] in that direction, it can point in that direction,
+- [00:04:47,160 - 00:04:49,110] it can point in that direction, it can
+- [00:04:49,110 - 00:04:51,060] point in that direction, that direction, or that direction.
+- [00:04:51,400 - 00:04:54,790] What happened to all the other directions? Don't worry,
+- [00:04:54,790 - 00:04:58,180] the important thing is that the components of magnetization,
+- [00:04:58,340 - 00:05:01,680] the components of angular momentum along
+- [00:05:01,680 - 00:05:05,020] the z-axis are quantized in integer multiples.
+- [00:05:06,060 - 00:05:09,120] Alright, but they all have the same energy.
+- [00:05:09,640 - 00:05:11,670] They all have the same energy,
+- [00:05:11,670 - 00:05:13,700] and that's a consequence of rotational invariance.
+- [00:05:13,860 - 00:05:15,430] Roughly speaking, I missed some, didn't
+- [00:05:15,430 - 00:05:17,000] I? I didn't put some down here.
+- [00:05:17,160 - 00:05:18,480] I'll put some down here too.
+- [00:05:21,120 - 00:05:22,120] Roughly speaking,
+- [00:05:27,920 - 00:05:31,020] a rotation can take one of
+- [00:05:31,020 - 00:05:34,120] these directions of magnetization of angular momentum
+- [00:05:34,480 - 00:05:36,980] and rotate it into another, I keep saying
+- [00:05:36,980 - 00:05:39,480] magnetization, that's because I keep seeing M up here,
+- [00:05:41,760 - 00:05:47,000] can rotate one direction of angular momentum of the atom
+- [00:05:47,160 - 00:05:50,160] into another, and of course a rotation
+- [00:05:50,160 - 00:05:53,160] should not affect the energy of an atom.
+- [00:05:53,640 - 00:05:56,060] Why not? What's the symmetry which says that
+- [00:05:56,060 - 00:05:58,480] rotation shouldn't affect the energy of an atom?
+- [00:05:58,600 - 00:06:02,480] Rotation symmetry. Since we believe in rotation symmetry, if the
+- [00:06:02,480 - 00:06:06,360] entire atom were rotated, the energy should be the same,
+- [00:06:06,760 - 00:06:10,620] and the implication of that, the quantum mechanical implication of
+- [00:06:10,620 - 00:06:14,480] that is all these different states have exactly the same energy.
+- [00:06:14,480 - 00:06:16,480] In terms of an energy diagram,
+- [00:06:16,480 - 00:06:19,480] we could, all the states have the same energy.
+- [00:06:21,840 - 00:06:24,080] There are what? 2j plus 1 of
+- [00:06:24,080 - 00:06:26,320] them, where j is the total angular momentum,
+- [00:06:26,320 - 00:06:28,720] and they all have exactly the same energy.
+- [00:06:28,720 - 00:06:30,220] Now, what happens when you
+- [00:06:30,220 - 00:06:31,720] put them into a magnetic field?
+- [00:06:32,320 - 00:06:36,100] If the angular momentum has no component, now let's
+- [00:06:36,100 - 00:06:39,880] imagine now we put it into a magnetic field,
+- [00:06:39,880 - 00:06:43,160] so this direction is not just the z direction, but
+- [00:06:43,160 - 00:06:46,440] also happens to be the direction of a magnetic field,
+- [00:06:46,440 - 00:06:51,320] then if the atom's component of
+- [00:06:51,320 - 00:06:56,200] angular momentum along that direction is positive,
+- [00:06:56,200 - 00:06:58,700] the energy may get increased, if
+- [00:06:58,700 - 00:07:01,200] negative, the energy may get decreased,
+- [00:07:01,200 - 00:07:03,200] and all these levels get split a little bit.
+- [00:07:03,200 - 00:07:05,200] Let's see.
+- [00:07:07,200 - 00:07:09,200] Linear in the external, linear
+- [00:07:09,200 - 00:07:11,200] in the external magnetic field.
+- [00:07:11,200 - 00:07:13,700] Linear in the magnetic field.
+- [00:07:13,700 - 00:07:16,200] What's this phenomena called? Anybody know?
+- [00:07:16,440 - 00:07:21,440] The splitting of atomic levels in a magnetic field.
+- [00:07:21,440 - 00:07:25,440] Zeeman effect. The Zeeman effect. Right.
+- [00:07:25,440 - 00:07:27,940] It has been known for over
+- [00:07:27,940 - 00:07:30,440] a hundred years, I believe, I think.
+- [00:07:30,440 - 00:07:34,940] And, of course, this changes spectral
+- [00:07:34,940 - 00:07:39,440] lines, spectral lines, new spectral lines emerge.
+- [00:07:39,440 - 00:07:41,440] You can have a transition from
+- [00:07:41,440 - 00:07:43,440] here to here, well, not very easily,
+- [00:07:43,440 - 00:07:46,440] but transitions to other states can be all split.
+- [00:07:46,440 - 00:07:48,440] And, uh, mucked up.
+- [00:07:48,440 - 00:07:51,940] But the important thing is that the energies of states
+- [00:07:51,940 - 00:07:55,440] which were otherwise in the absence of that magnetic field
+- [00:07:55,440 - 00:08:00,440] exactly equal because of symmetry are split among themselves
+- [00:08:00,440 - 00:08:05,440] by a process of symmetry breaking by the magnetic field.
+- [00:08:05,440 - 00:08:09,940] Okay. Now, supposing that the magnetic field is
+- [00:08:09,940 - 00:08:14,440] actually due to this ferromagnet that's filling space.
+- [00:08:14,440 - 00:08:16,940] A ferromagnet is an
+- [00:08:16,940 - 00:08:19,440] example of spontaneous symmetry breaking.
+- [00:08:19,440 - 00:08:23,440] You realize that when you ask the
+- [00:08:23,440 - 00:08:27,440] question, which direction does the ferromagnet point in?
+- [00:08:27,440 - 00:08:30,940] Which direction, when the energy is as
+- [00:08:30,940 - 00:08:34,440] low as possible, does the ferromagnet point in?
+- [00:08:34,440 - 00:08:37,440] And the answer is, it could point in any direction.
+- [00:08:37,440 - 00:08:39,940] As long as all the little magnets
+- [00:08:39,940 - 00:08:42,440] are lined up, the energy is the same.
+- [00:08:42,440 - 00:08:44,440] And so there's no preferred direction.
+- [00:08:44,440 - 00:08:47,440] That's rotational symmetry.
+- [00:08:47,440 - 00:08:50,440] All ferromagnets, no matter what direction they
+- [00:08:50,440 - 00:08:53,440] point in, have exactly the same energy.
+- [00:08:53,440 - 00:08:55,940] And if there's nothing else around
+- [00:08:55,940 - 00:08:58,440] to pick out a direction of space,
+- [00:08:58,440 - 00:09:00,940] the only thing that picks out
+- [00:09:00,940 - 00:09:03,440] the direction of space is the ferromagnet.
+- [00:09:03,440 - 00:09:06,440] Is the orientation of the ferromagnet.
+- [00:09:06,440 - 00:09:08,440] So for that reason, all of the
+- [00:09:08,440 - 00:09:10,440] ferromagnets, no matter which way they're pointing,
+- [00:09:10,440 - 00:09:13,440] are physically identical to each other.
+- [00:09:13,440 - 00:09:16,440] Even though from some abstract outside point
+- [00:09:16,440 - 00:09:19,440] of view they're pointing in different directions,
+- [00:09:19,440 - 00:09:22,940] there would be no difference between them
+- [00:09:22,940 - 00:09:26,440] for creatures that live inside the ferromagnet.
+- [00:09:26,440 - 00:09:28,440] However, supposing one of these
+- [00:09:28,440 - 00:09:30,440] creatures happens to be an atom,
+- [00:09:30,440 - 00:09:32,940] an ordinary atom, and it's under
+- [00:09:32,940 - 00:09:35,440] the, it's interacting with the ferromagnet.
+- [00:09:35,440 - 00:09:39,440] So here's the magnet, here's the atom.
+- [00:09:39,440 - 00:09:40,940] The magnetic field of the ferromagnet
+- [00:09:40,940 - 00:09:42,440] happens to be pointing in this direction,
+- [00:09:42,440 - 00:09:45,440] this way.
+- [00:09:45,440 - 00:09:47,940] That will have exactly the same
+- [00:09:47,940 - 00:09:50,440] effect as the external magnetic field,
+- [00:09:50,440 - 00:09:54,440] it's just a mathematical magnetic field,
+- [00:09:54,440 - 00:09:57,440] and it will split the atomic levels.
+- [00:09:57,440 - 00:10:00,440] It'll split them according to
+- [00:10:00,440 - 00:10:03,440] the z-component of their angular momentum.
+- [00:10:03,440 - 00:10:05,940] But what happens if the magnetic
+- [00:10:05,940 - 00:10:08,440] field is pointing in another direction?
+- [00:10:08,440 - 00:10:12,440] Just as good a direction, say that way,
+- [00:10:12,440 - 00:10:15,440] Well, from the point of view
+- [00:10:15,440 - 00:10:18,440] of the atom, there's no difference.
+- [00:10:18,440 - 00:10:21,440] Its levels get split, it's
+- [00:10:21,440 - 00:10:24,440] not the z-component of angular momentum
+- [00:10:24,440 - 00:10:26,940] which determines the splitting, it's
+- [00:10:26,940 - 00:10:29,440] the component along the magnetic field.
+- [00:10:29,440 - 00:10:33,440] And exactly the same pattern emerges
+- [00:10:38,440 - 00:10:41,440] with the atomic levels split like this.
+- [00:10:42,440 - 00:10:50,440] So, um, the ferromagnet simulates, if you like,
+- [00:10:50,440 - 00:10:54,440] the effect of explicit symmetry breaking.
+- [00:10:54,440 - 00:10:57,440] Explicit symmetry breaking would mean that
+- [00:10:57,440 - 00:11:00,440] the world was fundamentally not rotationally symmetric.
+- [00:11:00,440 - 00:11:02,440] Of course it is.
+- [00:11:02,440 - 00:11:06,440] And that's, uh, that's confirmed by the
+- [00:11:06,440 - 00:11:10,440] fact that you could rotate the whole ferromagnet
+- [00:11:10,440 - 00:11:12,440] and everything would be the same.
+- [00:11:12,440 - 00:11:14,440] In other words, the symmetry
+- [00:11:14,440 - 00:11:16,440] involves not only rotating the magnet,
+- [00:11:16,440 - 00:11:19,940] but also rotating the entire world's worth
+- [00:11:19,940 - 00:11:23,440] of, uh, magnet, of, uh, little magnets.
+- [00:11:23,440 - 00:11:25,940] Somebody inside this ferromagnet, of
+- [00:11:25,940 - 00:11:28,440] course, cannot do the experiment,
+- [00:11:28,440 - 00:11:30,440] creatures made up out of
+- [00:11:30,440 - 00:11:32,440] the little excitations of the ferromagnet,
+- [00:11:32,440 - 00:11:34,440] could not do this experiment
+- [00:11:34,440 - 00:11:36,440] of rotating the entire magnetic field.
+- [00:11:36,440 - 00:11:38,440] So they would say,
+- [00:11:38,440 - 00:11:41,440] well, it looks to us like the
+- [00:11:41,440 - 00:11:44,440] world breaks the symmetry of rotational invariance.
+- [00:11:44,440 - 00:11:46,440] But what is the difference?
+- [00:11:46,440 - 00:11:48,940] What kind of experiment could
+- [00:11:48,940 - 00:11:51,440] be done from inside the ferromagnet
+- [00:11:51,440 - 00:11:53,940] to confirm that this was
+- [00:11:53,940 - 00:11:56,440] a case of spontaneous symmetry breaking
+- [00:11:56,440 - 00:12:01,440] rather than just the world being, uh, asymmetric?
+- [00:12:01,440 - 00:12:03,940] And the answer is, the answer revolves
+- [00:12:03,940 - 00:12:06,440] around this phrase that we've used before,
+- [00:12:06,440 - 00:12:07,440] Goldstone boson.
+- [00:12:08,440 - 00:12:11,440] Let me remind you what a Goldstone boson is.
+- [00:12:11,440 - 00:12:13,940] First of all, if you take
+- [00:12:13,940 - 00:12:16,440] all the magnets and rotate everything,
+- [00:12:16,440 - 00:12:19,440] it costs no energy at all.
+- [00:12:19,440 - 00:12:22,440] But now supposing you do something a little different.
+- [00:12:22,440 - 00:12:25,440] Very slowly as you move through space,
+- [00:12:25,440 - 00:12:28,440] slowly means, uh, slowly in space,
+- [00:12:28,440 - 00:12:31,440] very, very slowly and gradually,
+- [00:12:31,440 - 00:12:35,440] you imagine changing the direction of the magnets.
+- [00:12:35,440 - 00:12:37,440] Um,
+- [00:12:37,440 - 00:12:39,440] it's not gonna stay that way.
+- [00:12:39,440 - 00:12:41,440] The magnets which are aligned over here
+- [00:12:41,440 - 00:12:44,440] are gonna pull the neighboring ones into the same direction
+- [00:12:44,440 - 00:12:46,440] and it's gonna create waves.
+- [00:12:46,440 - 00:12:47,440] It's gonna create waves.
+- [00:12:47,440 - 00:12:50,440] Those waves, or the quanta of those waves,
+- [00:12:50,440 - 00:12:52,440] are called Goldstone bosons.
+- [00:12:52,440 - 00:12:54,440] But the interesting implication
+- [00:12:54,440 - 00:12:58,440] is that when the wave is very, very long wavelength,
+- [00:12:58,440 - 00:13:00,440] extremely long wavelength,
+- [00:13:00,440 - 00:13:02,440] in this case they would
+- [00:13:02,440 - 00:13:04,440] be called spin waves or magnons.
+- [00:13:04,440 - 00:13:05,440] Magnons.
+- [00:13:05,440 - 00:13:06,440] Rotations.
+- [00:13:06,440 - 00:13:08,440] Gradual rotations of the magnetic, uh,
+- [00:13:08,440 - 00:13:10,440] of the direction of the magnetic field.
+- [00:13:10,440 - 00:13:12,440] Those magnons,
+- [00:13:12,440 - 00:13:15,440] the very, very long wavelength ones,
+- [00:13:15,440 - 00:13:18,440] would cost arbitrarily small energy.
+- [00:13:18,440 - 00:13:20,440] The longer their wavelength,
+- [00:13:20,440 - 00:13:22,440] the less the energy they cost.
+- [00:13:22,440 - 00:13:25,440] Because after all, if the wavelength was infinite,
+- [00:13:25,440 - 00:13:28,440] that would be exactly the same as rotating everything.
+- [00:13:28,440 - 00:13:30,440] And that costs no energy.
+- [00:13:30,440 - 00:13:33,440] Long wavelength means low momentum.
+- [00:13:33,440 - 00:13:35,440] And excitations,
+- [00:13:36,440 - 00:13:37,440] which have no energy,
+- [00:13:37,440 - 00:13:39,440] or whose energy goes to zero
+- [00:13:39,440 - 00:13:42,440] as the wavelength gets longer and longer,
+- [00:13:42,440 - 00:13:44,440] are called massless.
+- [00:13:44,440 - 00:13:48,440] Massless particles are the ones whose energy
+- [00:13:48,440 - 00:13:51,440] decreases as the wavelength gets longer and longer,
+- [00:13:51,440 - 00:13:54,440] or as the momentum gets smaller and smaller.
+- [00:13:54,440 - 00:13:59,440] So, a person living inside this ferromagnet,
+- [00:13:59,440 - 00:14:02,440] or perhaps two people living inside this ferromagnet,
+- [00:14:02,440 - 00:14:04,440] one over here, one over here,
+- [00:14:04,440 - 00:14:06,440] could send messages to each other.
+- [00:14:06,440 - 00:14:09,440] By wiggling the, uh,
+- [00:14:09,440 - 00:14:13,440] wiggling, somehow grabbing a hole of their local,
+- [00:14:13,440 - 00:14:14,940] they can't grab a hole of
+- [00:14:14,940 - 00:14:16,440] all of the magnets and rotate them,
+- [00:14:16,440 - 00:14:17,940] but they can grab a hole
+- [00:14:17,940 - 00:14:19,440] of a couple of magnets nearby
+- [00:14:19,440 - 00:14:21,440] and wiggle them a little bit.
+- [00:14:21,440 - 00:14:23,440] And the effect of that wiggling a little bit
+- [00:14:23,440 - 00:14:26,440] will be to create spin waves, or magnons,
+- [00:14:26,440 - 00:14:29,440] and those magnons can propagate from one, uh,
+- [00:14:29,440 - 00:14:31,440] from one person to another,
+- [00:14:31,440 - 00:14:33,440] can send messages with them,
+- [00:14:33,440 - 00:14:36,440] and those people living in this ferromagnet
+- [00:14:36,440 - 00:14:39,440] after they've done lots of experiments
+- [00:14:39,440 - 00:14:41,440] with these spin waves
+- [00:14:41,440 - 00:14:43,440] will conclude from experiment
+- [00:14:43,440 - 00:14:46,440] that those spin waves are massless,
+- [00:14:46,440 - 00:14:48,440] that it costs no energy to
+- [00:14:48,440 - 00:14:50,440] make very, very long wavelength ones.
+- [00:14:50,440 - 00:14:52,440] If they were smart, they would conclude
+- [00:14:52,440 - 00:14:54,440] that they're living in a
+- [00:14:54,440 - 00:14:56,440] world of spontaneous symmetry breaking
+- [00:14:56,440 - 00:14:58,940] and not that the fundamental
+- [00:14:58,940 - 00:15:01,440] properties of the world are asymmetric.
+- [00:15:01,440 - 00:15:04,440] It's just that the world that they live in,
+- [00:15:04,440 - 00:15:05,440] the energies are such
+- [00:15:05,440 - 00:15:08,440] that it tends to align everything,
+- [00:15:08,440 - 00:15:11,440] but it doesn't matter which direction things align in.
+- [00:15:11,440 - 00:15:13,440] That's the basic phenomenon
+- [00:15:13,440 - 00:15:15,440] of spontaneous symmetry breaking.
+- [00:15:15,440 - 00:15:18,940] It does not have to, necessarily have
+- [00:15:18,940 - 00:15:22,440] to do with, uh, rotations of real space.
+- [00:15:22,440 - 00:15:24,940] It could have to do with
+- [00:15:24,940 - 00:15:27,440] all of, or all of, or any
+- [00:15:27,440 - 00:15:31,440] of the internal symmetry groups of particle physics.
+- [00:15:31,440 - 00:15:34,440] In particular, things like SU3-quadrant,
+- [00:15:34,440 - 00:15:37,440] things like SU3-cross SU2-cross U1, and so forth.
+- [00:15:37,440 - 00:15:42,440] One of the things that we learned, incidentally,
+- [00:15:42,440 - 00:15:47,440] is that there's a kind of interaction
+- [00:15:47,440 - 00:15:52,440] between gauge forces and goldstone bosons,
+- [00:15:52,440 - 00:15:54,440] which has an effect which I'll come to,
+- [00:15:54,440 - 00:15:56,440] which I'll remind you of later.
+- [00:15:56,440 - 00:15:59,440] Anybody remember what the effect of mixing up together,
+- [00:15:59,440 - 00:16:03,440] uh, spontaneous symmetry breaking and gauge invariance was?
+- [00:16:04,440 - 00:16:07,940] Goldstone, uh, boson went away and became
+- [00:16:07,940 - 00:16:11,440] an extra, uh, uh, parameter for the, uh,
+- [00:16:11,440 - 00:16:12,440] For the gauge boson.
+- [00:16:12,440 - 00:16:14,440] Became, that's right.
+- [00:16:14,440 - 00:16:16,440] It, uh, turned the gauge boson
+- [00:16:16,440 - 00:16:18,440] to a massive thing instead of massless.
+- [00:16:18,440 - 00:16:20,440] And we'll come back to this.
+- [00:16:20,440 - 00:16:21,940] We'll come back to this theme, but
+- [00:16:21,940 - 00:16:23,440] I just want to remind you of it.
+- [00:16:23,440 - 00:16:25,440] That was the pattern, or
+- [00:16:25,440 - 00:16:27,440] the idea, of spontaneous symmetry breaking,
+- [00:16:27,440 - 00:16:30,440] continuous spontaneous symmetry breaking.
+- [00:16:30,440 - 00:16:33,440] There's also another mathematical statement,
+- [00:16:33,440 - 00:16:36,440] one can make.
+- [00:16:36,440 - 00:16:41,440] The vacuum, of course, being the state of lowest energy,
+- [00:16:41,440 - 00:16:45,440] is just any one of these configurations
+- [00:16:45,440 - 00:16:48,440] where the magnets, in this, in this particular context,
+- [00:16:48,440 - 00:16:50,440] of course, of a ferromagnet,
+- [00:16:50,440 - 00:16:52,440] where all the, uh, ferromagnets
+- [00:16:52,440 - 00:16:54,440] are aligned along the same direction.
+- [00:16:54,440 - 00:16:56,440] There's a, there's a vacuum for that direction,
+- [00:16:56,440 - 00:16:58,440] there's a vacuum for that direction,
+- [00:16:58,440 - 00:17:00,440] there's a vacuum for that direction.
+- [00:17:00,440 - 00:17:02,440] Nobody in the world is big enough to get outside
+- [00:17:02,440 - 00:17:05,440] and make, uh, rotate from one to the other,
+- [00:17:05,440 - 00:17:08,440] so all of physics takes place in one of them,
+- [00:17:08,440 - 00:17:11,440] and the people living in that vacuum in that world
+- [00:17:11,440 - 00:17:14,440] call that configuration the vacuum.
+- [00:17:14,440 - 00:17:17,440] Okay, so there are many vacuums.
+- [00:17:17,440 - 00:17:22,440] Uh, let's take the vacuum that they live in,
+- [00:17:22,440 - 00:17:26,440] and let's apply to it the symmetry operation.
+- [00:17:26,440 - 00:17:29,440] The symmetry operation means the generators of the symmetry.
+- [00:17:29,440 - 00:17:31,440] What are the generators of rotation symmetry?
+- [00:17:31,440 - 00:17:35,440] The components of the angular momentum.
+- [00:17:35,440 - 00:17:38,440] Angular momentum, sometimes I call it J,
+- [00:17:38,440 - 00:17:39,940] sometimes I call it L,
+- [00:17:39,940 - 00:17:41,440] let's call it J right now,
+- [00:17:41,440 - 00:17:44,440] since it consists of all the angular momentum of everything.
+- [00:17:44,440 - 00:17:46,440] Let's call it J.
+- [00:17:46,440 - 00:17:48,440] And what does J do
+- [00:17:48,440 - 00:17:50,440] when it acts on a state?
+- [00:17:50,440 - 00:17:54,440] It infinitesimally rotates it a little bit, right?
+- [00:17:54,440 - 00:17:57,440] It infinitesimally rotates it a little bit.
+- [00:17:57,440 - 00:18:00,440] If...
+- [00:18:01,440 - 00:18:07,440] the vacuum state was such that it really was symmetric,
+- [00:18:07,440 - 00:18:09,440] that it really didn't have
+- [00:18:09,440 - 00:18:11,440] this kind of spontaneous symmetry breaking,
+- [00:18:11,440 - 00:18:17,440] what would happen... what would happen, uh, if you, uh...
+- [00:18:17,440 - 00:18:21,440] if you rotated the state a little bit?
+- [00:18:21,440 - 00:18:23,440] It would come back to itself, right?
+- [00:18:23,440 - 00:18:24,940] Now, you have to remember that this
+- [00:18:24,940 - 00:18:26,440] is, uh, this is the difference between...
+- [00:18:26,440 - 00:18:28,440] J really represents the difference
+- [00:18:28,440 - 00:18:30,440] between the rotation and the nonrotation.
+- [00:18:31,440 - 00:18:33,440] It's not the rotated state.
+- [00:18:33,440 - 00:18:37,440] It's the little infinitesimal change in the state
+- [00:18:37,440 - 00:18:42,440] that's made by, uh, by a small rotation.
+- [00:18:42,440 - 00:18:46,440] J corresponds to a small change in the state.
+- [00:18:46,440 - 00:18:51,440] If the state, the vacuum state, was symmetric,
+- [00:18:51,440 - 00:18:55,440] then when you apply J to it, nothing happens.
+- [00:18:55,440 - 00:18:57,440] And the right-hand side is just zero.
+- [00:18:57,440 - 00:18:59,440] No change whatever in the state.
+- [00:18:59,440 - 00:19:00,440] Uh...
+- [00:19:00,440 - 00:19:03,440] From a formal mathematical point of view,
+- [00:19:03,440 - 00:19:08,440] the signal of spontaneous symmetry breaking
+- [00:19:08,440 - 00:19:10,440] is that J, when it acts
+- [00:19:10,440 - 00:19:12,440] on the vacuum, doesn't give zero.
+- [00:19:12,440 - 00:19:15,440] It gives a state which is slightly rotated.
+- [00:19:15,440 - 00:19:17,440] So, not equal to zero
+- [00:19:17,440 - 00:19:23,440] means that the vacuum has a spontaneous symmetry breaking.
+- [00:19:23,440 - 00:19:26,440] Now, we're gonna see that pattern repeat itself
+- [00:19:26,440 - 00:19:28,440] in supersymmetry
+- [00:19:28,440 - 00:19:29,440] with the exception of the
+- [00:19:29,440 - 00:19:31,440] with the exception, of course,
+- [00:19:31,440 - 00:19:33,440] that the symmetry, or the generators,
+- [00:19:33,440 - 00:19:35,440] are these fermionic objects.
+- [00:19:35,440 - 00:19:37,440] Oh, incidentally, what...
+- [00:19:37,440 - 00:19:39,440] Let's, uh, let's suppose that
+- [00:19:39,440 - 00:19:41,440] J on the vacuum,
+- [00:19:41,440 - 00:19:43,440] rotate the vacuum, does not give zero.
+- [00:19:43,440 - 00:19:45,440] Then what does it give?
+- [00:19:45,440 - 00:19:47,440] What does it give?
+- [00:19:47,440 - 00:19:49,440] Well...
+- [00:19:49,440 - 00:19:51,440] It has the same vacuum.
+- [00:19:51,440 - 00:19:53,440] It doesn't give the same vacuum.
+- [00:19:53,440 - 00:19:55,440] It gives a slightly rotated one.
+- [00:19:55,440 - 00:19:57,440] But the slightly rotated one
+- [00:19:57,440 - 00:20:00,440] is equivalent to putting into the system
+- [00:20:00,440 - 00:20:04,440] an infinitely long wavelength goldstone boson.
+- [00:20:04,440 - 00:20:06,440] So you could say that
+- [00:20:06,440 - 00:20:11,440] J on the vacuum creates a very, very long wavelength,
+- [00:20:11,440 - 00:20:14,440] infinitely long wavelength goldstone boson.
+- [00:20:14,440 - 00:20:17,440] Does J on the vacuum change the energy?
+- [00:20:17,440 - 00:20:18,440] No.
+- [00:20:18,440 - 00:20:21,440] It just rotated the vacuum a little bit.
+- [00:20:21,440 - 00:20:25,440] And so, J, when it acts on the vacuum,
+- [00:20:25,440 - 00:20:28,440] it gives a goldstone boson state.
+- [00:20:28,440 - 00:20:30,440] Let's call it a Gb.
+- [00:20:30,440 - 00:20:32,440] It gives a goldstone boson state.
+- [00:20:32,440 - 00:20:35,440] And the fact that rotating the vacuum
+- [00:20:35,440 - 00:20:37,440] doesn't cost any energy at all
+- [00:20:37,440 - 00:20:39,440] tells us that the goldstone boson
+- [00:20:39,440 - 00:20:41,440] has no energy.
+- [00:20:41,440 - 00:20:43,440] This is the pattern.
+- [00:20:43,440 - 00:20:45,440] Uh...
+- [00:20:49,440 - 00:20:51,440] One more point.
+- [00:20:51,440 - 00:20:53,440] All these points are important.
+- [00:20:53,440 - 00:20:54,440] The magnetic field,
+- [00:20:54,440 - 00:20:57,440] the magnetization of the ferromagnet,
+- [00:20:57,440 - 00:20:59,440] is described by a little vector,
+- [00:20:59,440 - 00:21:01,440] by a vector.
+- [00:21:01,440 - 00:21:03,440] It's a vector at each point of space,
+- [00:21:03,440 - 00:21:05,440] and so it can be thought of as a field.
+- [00:21:05,440 - 00:21:09,440] It's the local properties of the ferromagnet.
+- [00:21:09,440 - 00:21:11,440] And that little vector, of course,
+- [00:21:11,440 - 00:21:13,440] is nothing but the direction
+- [00:21:13,440 - 00:21:14,440] of the little magnetic moments
+- [00:21:14,440 - 00:21:17,440] that are making up the direction and magnitude
+- [00:21:17,440 - 00:21:18,440] of the magnetic moments
+- [00:21:18,440 - 00:21:20,440] that are making up the ferromagnet.
+- [00:21:20,440 - 00:21:22,440] And you can call it M.
+- [00:21:22,440 - 00:21:23,440] It's not the same M.
+- [00:21:23,440 - 00:21:24,440] It's capital M.
+- [00:21:24,440 - 00:21:25,440] Capital M.
+- [00:21:25,440 - 00:21:26,440] And it's a vector.
+- [00:21:26,440 - 00:21:29,440] It points along the axis of the ferromagnets.
+- [00:21:29,440 - 00:21:31,440] Um...
+- [00:21:38,440 - 00:21:40,440] If M is zero,
+- [00:21:40,440 - 00:21:42,440] that could be the case,
+- [00:21:42,440 - 00:21:43,440] for example,
+- [00:21:43,440 - 00:21:45,440] in a warm ferromagnet.
+- [00:21:45,440 - 00:21:47,440] If you heat a ferromagnet up,
+- [00:21:47,440 - 00:21:49,440] then the magnets fluctuate
+- [00:21:49,440 - 00:21:51,440] and on the average,
+- [00:21:51,440 - 00:21:53,440] there's no net magnetization.
+- [00:21:53,440 - 00:21:55,440] In quantum mechanics,
+- [00:21:55,440 - 00:21:57,440] it just may be that quantum fluctuations
+- [00:21:57,440 - 00:22:00,440] wash out the magnetization.
+- [00:22:00,440 - 00:22:02,440] If M equals zero,
+- [00:22:02,440 - 00:22:03,440] that's the situation
+- [00:22:03,440 - 00:22:05,440] where we say the vacuum is symmetric.
+- [00:22:05,440 - 00:22:07,440] There is no magnetization.
+- [00:22:07,440 - 00:22:09,440] If any component of M
+- [00:22:09,440 - 00:22:12,440] is not equal to zero,
+- [00:22:12,440 - 00:22:14,440] that's another way to represent
+- [00:22:14,440 - 00:22:17,440] spontaneous symmetry breaking.
+- [00:22:17,440 - 00:22:19,440] If any component of M
+- [00:22:19,440 - 00:22:21,440] is not equal to zero,
+- [00:22:21,440 - 00:22:22,440] then the system is magnetized,
+- [00:22:22,440 - 00:22:24,440] along that direction.
+- [00:22:24,440 - 00:22:27,440] And if you rotate that component,
+- [00:22:27,440 - 00:22:31,440] other components will become non-zero.
+- [00:22:31,440 - 00:22:33,440] All right?
+- [00:22:33,440 - 00:22:35,440] So if the Z component is non-zero,
+- [00:22:35,440 - 00:22:37,440] and you rotate the ferromagnet,
+- [00:22:37,440 - 00:22:41,440] the X component may become non-zero,
+- [00:22:41,440 - 00:22:43,440] or the Y component may become non-zero.
+- [00:22:43,440 - 00:22:45,440] So all of these things
+- [00:22:45,440 - 00:22:49,440] are the mathematical and physical correlates
+- [00:22:49,440 - 00:22:51,440] of the idea of spontaneous symmetry breaking.
+- [00:22:51,440 - 00:22:54,440] Okay, now let's review
+- [00:22:54,440 - 00:22:57,440] a little bit about supersymmetry,
+- [00:22:57,440 - 00:22:59,440] and I'm going to add a little bit to it.
+- [00:22:59,440 - 00:23:00,440] We're not...
+- [00:23:00,440 - 00:23:02,440] I haven't finished torturing you yet,
+- [00:23:02,440 - 00:23:04,440] tormenting you.
+- [00:23:04,440 - 00:23:06,440] We're going to add just a little bit.
+- [00:23:06,440 - 00:23:07,440] If we want to do
+- [00:23:07,440 - 00:23:08,440] it, we got to do it.
+- [00:23:08,440 - 00:23:10,440] Let's just review.
+- [00:23:10,440 - 00:23:13,440] We worked out a single example
+- [00:23:13,440 - 00:23:16,440] of a supersymmetric quantum field theory,
+- [00:23:16,440 - 00:23:18,440] or a supersymmetric field theory.
+- [00:23:18,440 - 00:23:20,440] It involved one field,
+- [00:23:20,440 - 00:23:23,440] it involved one fermion and one boson field,
+- [00:23:23,440 - 00:23:25,440] and I'll just remind you about it.
+- [00:23:25,440 - 00:23:27,440] Uh...
+- [00:23:30,440 - 00:23:33,440] It involved a superfield
+- [00:23:33,440 - 00:23:36,440] that I called capital Phi.
+- [00:23:36,440 - 00:23:38,440] And capital Phi had the property
+- [00:23:38,440 - 00:23:41,440] of being a chiral superfield.
+- [00:23:41,440 - 00:23:44,440] I won't bother you with the definition of that now,
+- [00:23:44,440 - 00:23:47,440] but the important thing about the chiral superfield
+- [00:23:47,440 - 00:23:50,440] is that in one form or another,
+- [00:23:50,440 - 00:23:53,440] it really only depends on two variables,
+- [00:23:53,440 - 00:23:56,440] y and theta.
+- [00:23:56,440 - 00:23:58,440] And I'll just remind you,
+- [00:23:58,440 - 00:24:00,440] just to put up the equations here,
+- [00:24:00,440 - 00:24:03,440] y was equal to the ordinary coordinate x
+- [00:24:03,440 - 00:24:06,440] plus i theta bar sigma theta.
+- [00:24:06,440 - 00:24:09,440] And that was called a chiral superfield.
+- [00:24:09,440 - 00:24:10,440] Okay?
+- [00:24:10,440 - 00:24:12,440] It's also complex.
+- [00:24:12,440 - 00:24:14,440] It's important that it's complex,
+- [00:24:14,440 - 00:24:16,440] and if you wanted to try to make it real,
+- [00:24:16,440 - 00:24:18,440] what you would find
+- [00:24:18,440 - 00:24:21,440] is that a supersymmetric transformation
+- [00:24:21,440 - 00:24:23,440] would generate an imaginary part.
+- [00:24:23,440 - 00:24:25,440] So it's not consistent with supersymmetry
+- [00:24:25,440 - 00:24:27,440] to say that it's real.
+- [00:24:27,440 - 00:24:29,440] That was Phi,
+- [00:24:29,440 - 00:24:32,440] and we introduced a Lagrangian for Phi,
+- [00:24:32,440 - 00:24:34,440] first a super Lagrangian.
+- [00:24:34,440 - 00:24:37,440] The super Lagrangian,
+- [00:24:37,440 - 00:24:41,440] I think I indicated by a capital lambda,
+- [00:24:41,440 - 00:24:44,440] and it's a thing which you integrate
+- [00:24:44,440 - 00:24:47,440] with respect to space, space-time,
+- [00:24:48,440 - 00:24:51,440] and with respect to the thetas.
+- [00:24:53,440 - 00:24:56,440] One term was integrated
+- [00:24:56,440 - 00:24:59,440] with both respect to thetas
+- [00:24:59,440 - 00:25:01,440] and their complex conjugate.
+- [00:25:01,440 - 00:25:03,440] We could call it d fourth theta,
+- [00:25:03,440 - 00:25:05,440] but I'll indicate explicitly
+- [00:25:05,440 - 00:25:07,440] that there was an integral
+- [00:25:07,440 - 00:25:09,440] over both the thetas and the theta bars.
+- [00:25:09,440 - 00:25:11,440] And in the simple example
+- [00:25:11,440 - 00:25:13,440] that I worked out for you,
+- [00:25:13,440 - 00:25:16,440] lambda was just equal
+- [00:25:16,440 - 00:25:18,440] to Phi star
+- [00:25:18,440 - 00:25:20,440] times Phi.
+- [00:25:25,440 - 00:25:27,440] And I'm not going to do it again,
+- [00:25:27,440 - 00:25:29,440] I'm just going to tell you what came out.
+- [00:25:29,440 - 00:25:31,440] Oh, what happens, what do you do,
+- [00:25:31,440 - 00:25:33,440] yeah, remember what Phi was.
+- [00:25:33,440 - 00:25:35,440] Let's just write down what Phi was.
+- [00:25:35,440 - 00:25:38,440] Phi was a sum of several terms,
+- [00:25:38,440 - 00:25:41,440] the first term being an ordinary scalar field,
+- [00:25:41,440 - 00:25:44,440] the next term being
+- [00:25:44,440 - 00:25:46,440] a fermion field times theta,
+- [00:25:46,440 - 00:25:48,440] and the last term,
+- [00:25:48,440 - 00:25:49,440] a super field,
+- [00:25:49,440 - 00:25:51,440] F times theta theta,
+- [00:25:51,440 - 00:25:53,440] theta one, theta two,
+- [00:25:53,440 - 00:25:55,440] or however you like to think about it.
+- [00:25:55,440 - 00:25:57,440] These were the three components
+- [00:25:57,440 - 00:25:59,440] of a super field,
+- [00:25:59,440 - 00:26:01,440] Phi, Psi, and F.
+- [00:26:03,440 - 00:26:05,440] Those were the three components
+- [00:26:05,440 - 00:26:06,440] of the super field.
+- [00:26:06,440 - 00:26:09,440] If you plug that into the formula here
+- [00:26:09,440 - 00:26:12,440] and integrate with respect to the thetas,
+- [00:26:12,440 - 00:26:15,440] what does integrating with respect to the thetas mean?
+- [00:26:15,440 - 00:26:17,440] It means picking out the last term,
+- [00:26:17,440 - 00:26:20,440] the last term of the expression,
+- [00:26:20,440 - 00:26:23,440] when you multiply Phi star times Phi,
+- [00:26:23,440 - 00:26:26,440] you will get a term with
+- [00:26:26,440 - 00:26:29,440] theta, theta, theta bar, theta bar.
+- [00:26:29,440 - 00:26:31,440] When you multiply these together,
+- [00:26:31,440 - 00:26:34,440] you will get a term with four thetas all together.
+- [00:26:34,440 - 00:26:36,440] And if you work it out carefully,
+- [00:26:36,440 - 00:26:39,440] keeping track of the details,
+- [00:26:39,440 - 00:26:42,440] what we found was that this became
+- [00:26:42,440 - 00:26:45,440] just the ordinary action
+- [00:26:45,440 - 00:26:48,440] for a scalar field
+- [00:26:48,440 - 00:26:51,440] and an ordinary fermion field.
+- [00:26:51,440 - 00:26:54,440] In other words, this gave rise to an action
+- [00:26:54,440 - 00:26:58,440] which was the integral dx of,
+- [00:26:58,440 - 00:26:59,440] what did it have?
+- [00:26:59,440 - 00:27:02,440] It had partial of Phi,
+- [00:27:02,440 - 00:27:05,440] partial of Phi star with respect to X mu,
+- [00:27:05,440 - 00:27:08,440] partial of Phi with respect to X mu.
+- [00:27:08,440 - 00:27:12,440] That's just the ordinary Lagrangian
+- [00:27:12,440 - 00:27:15,440] of a scalar field.
+- [00:27:15,440 - 00:27:17,440] I won't bother, I'm not going to keep track
+- [00:27:17,440 - 00:27:19,440] of detailed numerical factors.
+- [00:27:19,440 - 00:27:20,440] We've seen this before.
+- [00:27:20,440 - 00:27:22,440] If we varied that with respect to Phi,
+- [00:27:22,440 - 00:27:24,440] we would get the simple Klein-Gordon equation.
+- [00:27:24,440 - 00:27:27,440] Next, there was a term that was
+- [00:27:27,440 - 00:27:37,440] psi bar sigma derivative of psi.
+- [00:27:37,440 - 00:27:40,440] That's just the Klein, that's just the Dirac
+- [00:27:40,440 - 00:27:45,440] or the massless fermion Lagrangian.
+- [00:27:45,440 - 00:27:47,440] And finally, there was another term
+- [00:27:47,440 - 00:27:54,440] which was just F star F.
+- [00:27:54,440 - 00:27:56,440] Why just F star F?
+- [00:27:56,440 - 00:27:58,440] When you square this, or when you multiply it
+- [00:27:58,440 - 00:28:00,440] by its conjugate, you'll get a term
+- [00:28:00,440 - 00:28:04,440] F times F star theta theta theta bar theta bar,
+- [00:28:04,440 - 00:28:08,440] and so that's also here.
+- [00:28:08,440 - 00:28:14,440] That's what we got, and that was the starting point.
+- [00:28:14,440 - 00:28:16,440] Do you remember what we added to that
+- [00:28:16,440 - 00:28:18,440] in order to get some interactions
+- [00:28:18,440 - 00:28:24,440] and some mass terms and so forth?
+- [00:28:24,440 - 00:28:29,440] We added something that only involved Phi
+- [00:28:29,440 - 00:28:33,440] and not Phi star.
+- [00:28:33,440 - 00:28:35,440] For example, Phi squared.
+- [00:28:35,440 - 00:28:37,440] We added to the Lagrangian
+- [00:28:37,440 - 00:28:41,440] or the super Lagrangian Phi squared, for example.
+- [00:28:44,440 - 00:28:51,440] Now, Phi squared has no theta bar dependence at all.
+- [00:28:51,440 - 00:28:53,440] It only has theta.
+- [00:28:53,440 - 00:28:55,440] So if we tried to
+- [00:28:55,440 - 00:28:57,440] integrate it over all four components
+- [00:28:57,440 - 00:29:00,440] of theta, we would get zero.
+- [00:29:00,440 - 00:29:02,440] We would get zero.
+- [00:29:02,440 - 00:29:06,440] The right thing to do in this case
+- [00:29:06,440 - 00:29:12,440] is just to integrate it with two thetas.
+- [00:29:12,440 - 00:29:14,440] The theta, let's call it d squared.
+- [00:29:14,440 - 00:29:18,440] Theta.
+- [00:29:18,440 - 00:29:20,440] In other words, to pick
+- [00:29:20,440 - 00:29:22,440] out the term of Phi squared
+- [00:29:22,440 - 00:29:24,440] which has two thetas in it.
+- [00:29:24,440 - 00:29:25,940] So I'm going to show you
+- [00:29:25,940 - 00:29:27,440] how to do that more generally.
+- [00:29:27,440 - 00:29:28,940] We did this, the effect
+- [00:29:28,940 - 00:29:30,440] of it was to give us
+- [00:29:30,440 - 00:29:32,440] a mass for the particles.
+- [00:29:32,440 - 00:29:33,440] This is just a review from last time,
+- [00:29:33,440 - 00:29:36,440] but I'm going to work it out in more generality.
+- [00:29:36,440 - 00:29:39,440] Instead of writing Phi squared here,
+- [00:29:39,440 - 00:29:42,440] I'm going to write any function of Phi.
+- [00:29:42,440 - 00:29:44,440] But before I do any function of Phi,
+- [00:29:44,440 - 00:29:47,440] let's be a little more modest for the moment
+- [00:29:47,440 - 00:29:51,440] and just take Phi to the nth power.
+- [00:29:51,440 - 00:29:55,440] Later on, we can add together terms with different powers.
+- [00:29:55,440 - 00:30:01,440] This is a fairly, Phi to the nth,
+- [00:30:01,440 - 00:30:02,940] we can add up different
+- [00:30:02,940 - 00:30:04,440] n's and make a Taylor series
+- [00:30:04,440 - 00:30:07,440] expansion of a function, as long as the function
+- [00:30:07,440 - 00:30:09,440] is Taylor series expandable.
+- [00:30:09,440 - 00:30:10,940] So let's take Phi to
+- [00:30:10,940 - 00:30:12,440] the n, put that in here.
+- [00:30:12,440 - 00:30:14,440] d squared squared.
+- [00:30:14,440 - 00:30:16,440] Now we can write Phi squared to theta
+- [00:30:16,440 - 00:30:17,940] and see if we can figure
+- [00:30:17,940 - 00:30:19,440] out what kind of ordinary Lagrangian
+- [00:30:19,440 - 00:30:22,440] for the Phi, Psi, and F come out of it.
+- [00:30:22,440 - 00:30:24,440] This is not hard.
+- [00:30:24,440 - 00:30:25,940] This is pretty easy, but I have
+- [00:30:25,940 - 00:30:27,440] to do it each time over again
+- [00:30:27,440 - 00:30:29,440] because I get confused.
+- [00:30:29,440 - 00:30:33,440] So let's just take Phi plus Psi theta
+- [00:30:33,440 - 00:30:37,440] plus F theta theta
+- [00:30:37,440 - 00:30:40,440] and multiply it together n times.
+- [00:30:40,440 - 00:30:42,440] OK, let's multiply it together n times.
+- [00:30:42,440 - 00:30:43,440] Phi plus Psi theta plus F theta theta.
+- [00:30:43,440 - 00:30:47,350] phi plus psi theta plus f theta theta, we're
+- [00:30:47,350 - 00:30:51,260] going to multiply them, dot dot dot dot, phi
+- [00:30:51,260 - 00:30:54,560] plus psi theta plus f theta theta. And
+- [00:30:54,560 - 00:30:57,860] what are we looking for? We're looking for the
+- [00:30:57,860 - 00:31:00,850] terms which have two thetas. Only the
+- [00:31:00,850 - 00:31:03,840] terms which have two thetas will be interesting
+- [00:31:03,840 - 00:31:06,300] because those are the only ones that
+- [00:31:06,300 - 00:31:08,760] survive when you integrate it over theta. Alright,
+- [00:31:08,760 - 00:31:11,400] so which kind of terms, there's really only
+- [00:31:11,400 - 00:31:14,040] two terms here, only two kinds of terms in
+- [00:31:14,040 - 00:31:17,130] all this multiplication here which have two
+- [00:31:17,130 - 00:31:20,220] thetas. The first comes from multiplying a
+- [00:31:20,220 - 00:31:24,720] product of phi's with one f. Pick out one
+- [00:31:24,720 - 00:31:29,220] of the f's here and multiply it by all the
+- [00:31:29,220 - 00:31:33,940] remaining phi's. How many such terms are there? n
+- [00:31:33,940 - 00:31:38,660] minus one, n minus one, n minus one, n minus
+- [00:31:38,660 - 00:31:38,740] uh, oh oh.
+- [00:31:38,740 - 00:31:41,540] Oh, sorry, n, n terms.
+- [00:31:42,160 - 00:31:44,090] You can pick this f, you can pick this f, you
+- [00:31:44,090 - 00:31:46,020] can pick this f, you can pick any one of them,
+- [00:31:46,300 - 00:31:49,280] and then multiply by all the remaining phi's.
+- [00:31:49,280 - 00:31:55,460] So there's a term which is, it contains n
+- [00:31:55,460 - 00:32:01,640] times f times phi to the n minus 1.
+- [00:32:01,740 - 00:32:04,620] Yeah, phi to the n minus 1, right?
+- [00:32:04,620 - 00:32:10,199] I think that's right.
+- [00:32:11,219 - 00:32:13,349] And that's the important term for us now, but
+- [00:32:13,349 - 00:32:15,479] let me just tell you what the other term is.
+- [00:32:16,560 - 00:32:19,509] Then there's a term which is product
+- [00:32:19,509 - 00:32:22,459] of two psi's and all the rest phi's.
+- [00:32:23,959 - 00:32:26,379] Two psi's and all the rest phi's.
+- [00:32:26,419 - 00:32:27,560] How many such terms are there?
+- [00:32:29,320 - 00:32:30,040] Which is?
+- [00:32:31,340 - 00:32:33,219] n times n minus 1 over 2.
+- [00:32:33,979 - 00:32:34,379] So?
+- [00:32:34,380 - 00:32:37,390] Well, there's another term here which is
+- [00:32:37,390 - 00:32:40,400] n times n minus 1 over 2,
+- [00:32:41,980 - 00:32:46,130] phi to the n minus 2 times psi bar,
+- [00:32:46,130 - 00:32:50,280] times psi psi or something, psi psi, I guess.
+- [00:32:53,340 - 00:32:56,740] Incidentally, you also have to add the complex conjugate.
+- [00:32:57,920 - 00:33:00,780] So we also add the complex conjugate to this.
+- [00:33:02,220 - 00:33:03,940] Okay, let me write this for you.
+- [00:33:03,940 - 00:33:06,970] In a slightly different way, what is
+- [00:33:06,970 - 00:33:10,000] n times phi to the n minus 1?
+- [00:33:10,680 - 00:33:10,740] Yeah?
+- [00:33:10,740 - 00:33:11,720] Is it phi to the n?
+- [00:33:12,900 - 00:33:13,260] Where?
+- [00:33:13,640 - 00:33:14,720] Phi to the n minus 2.
+- [00:33:14,940 - 00:33:15,060] Yeah.
+- [00:33:15,720 - 00:33:16,940] Just phi to the n with nothing.
+- [00:33:18,840 - 00:33:19,200] Where?
+- [00:33:19,320 - 00:33:19,440] Here?
+- [00:33:19,680 - 00:33:21,030] Yeah, just from the first term
+- [00:33:21,030 - 00:33:22,380] all the way to the n times.
+- [00:33:23,220 - 00:33:24,420] So you do one of the times.
+- [00:33:24,540 - 00:33:25,840] No, one of the factors is f.
+- [00:33:27,360 - 00:33:28,420] You're talking about this term?
+- [00:33:29,620 - 00:33:29,760] Hmm?
+- [00:33:31,820 - 00:33:32,660] There's a term with nothing.
+- [00:33:32,660 - 00:33:32,780] Okay.
+- [00:33:33,940 - 00:33:34,640] No, no, no, no, no.
+- [00:33:34,880 - 00:33:38,050] When you go to integrate over theta, it
+- [00:33:38,050 - 00:33:41,220] always picks out the term with two thetas.
+- [00:33:41,520 - 00:33:41,720] Right?
+- [00:33:42,020 - 00:33:42,340] Okay.
+- [00:33:42,880 - 00:33:43,120] Good.
+- [00:33:44,000 - 00:33:47,240] And this arrow doesn't mean, well, it doesn't mean equals.
+- [00:33:47,240 - 00:33:49,410] It means that the term with two thetas that
+- [00:33:49,410 - 00:33:51,580] is picked out is the sum of these two.
+- [00:33:53,240 - 00:33:55,480] And that's it, plus the
+- [00:33:55,480 - 00:33:57,720] complex conjugate, plus the complex conjugate.
+- [00:33:58,440 - 00:33:58,780] All right.
+- [00:33:58,820 - 00:34:00,320] There's another way to write this.
+- [00:34:01,660 - 00:34:03,220] It's exactly the same thing.
+- [00:34:03,300 - 00:34:03,800] But let's just...
+- [00:34:03,940 - 00:34:05,380] Let's just look at it.
+- [00:34:06,380 - 00:34:08,560] n times phi to the n minus 1.
+- [00:34:09,500 - 00:34:11,179] The original superpotential...
+- [00:34:11,179 - 00:34:13,120] This is called the superpotential, incidentally.
+- [00:34:13,560 - 00:34:15,219] This is called the superpotential.
+- [00:34:16,020 - 00:34:21,599] The superpotential, and I'll write it as
+- [00:34:21,599 - 00:34:27,179] v with a sort of Roman substantial-looking v.
+- [00:34:27,719 - 00:34:29,020] It's a function of phi.
+- [00:34:29,020 - 00:34:31,420] And in this case, it
+- [00:34:31,420 - 00:34:33,820] is just phi to the n.
+- [00:34:33,940 - 00:34:35,040] For this particular case.
+- [00:34:36,820 - 00:34:39,840] Well, if v is phi to the n, what
+- [00:34:39,840 - 00:34:42,860] is n times phi to the n minus 1?
+- [00:34:42,860 - 00:34:45,580] This phi here is a little different than this phi.
+- [00:34:46,139 - 00:34:48,169] This phi here is just
+- [00:34:48,169 - 00:34:50,199] the first term from the superfield.
+- [00:34:50,880 - 00:34:52,989] This v of phi is a
+- [00:34:52,989 - 00:34:55,100] formal expression involving the full superfield.
+- [00:34:55,480 - 00:34:59,320] But if the function v is the nth power,
+- [00:34:59,980 - 00:35:01,950] then what is n times the
+- [00:35:01,950 - 00:35:03,920] variable to the n minus 1?
+- [00:35:03,940 - 00:35:06,200] It's the derivative.
+- [00:35:07,160 - 00:35:08,160] It's the derivative.
+- [00:35:08,160 - 00:35:14,120] So we can write, then, that the term that we
+- [00:35:14,120 - 00:35:20,080] get out in the action after we integrate over thetas,
+- [00:35:20,440 - 00:35:26,320] first of all, has f times the
+- [00:35:26,320 - 00:35:32,200] derivative of v with respect to phi.
+- [00:35:32,200 - 00:35:32,340] Okay.
+- [00:35:33,940 - 00:35:38,320] Now, what happens if I have more terms with
+- [00:35:38,320 - 00:35:42,700] different powers of n and coefficients in front of them?
+- [00:35:43,200 - 00:35:45,570] Each one adds to this, but it
+- [00:35:45,570 - 00:35:47,940] still adds just dv by d phi.
+- [00:35:48,960 - 00:35:51,060] This is a linear operation here.
+- [00:35:51,060 - 00:35:53,770] If we add terms to v for
+- [00:35:53,770 - 00:35:56,480] v, more terms with other powers of n,
+- [00:35:57,400 - 00:36:00,030] nevertheless, what we will get will be f
+- [00:36:00,030 - 00:36:02,660] times the derivative of v with respect to phi.
+- [00:36:02,760 - 00:36:03,560] So whatever v is.
+- [00:36:03,560 - 00:36:07,750] If somebody gives you a v, you come back and you
+- [00:36:07,750 - 00:36:11,940] say that adds to the action f times dv by d phi.
+- [00:36:12,200 - 00:36:12,820] And you'll be right.
+- [00:36:12,900 - 00:36:14,900] You also have to add in the complex conjugate.
+- [00:36:15,759 - 00:36:22,660] f star dv star by d phi star.
+- [00:36:24,420 - 00:36:24,759] All right.
+- [00:36:26,380 - 00:36:26,840] Good.
+- [00:36:27,880 - 00:36:29,820] Also, what about this term here?
+- [00:36:29,820 - 00:36:31,440] n times n minus 1 over 2.
+- [00:36:32,220 - 00:36:33,540] Times phi to the n minus 1.
+- [00:36:33,580 - 00:36:34,080] That's 2.
+- [00:36:37,080 - 00:36:38,080] Second derivative of v.
+- [00:36:38,080 - 00:36:39,640] That involves the second derivative.
+- [00:36:40,000 - 00:36:42,279] That involves the second derivative of v.
+- [00:36:43,420 - 00:36:45,320] That's 1 half the second derivative
+- [00:36:45,320 - 00:36:47,220] of v times psi bar psi.
+- [00:36:47,320 - 00:36:49,289] But I'm not going to write it down because I'm
+- [00:36:49,289 - 00:36:51,259] not interested in the things that involve the fermions right now.
+- [00:36:51,460 - 00:36:53,440] I'm only interested in the things
+- [00:36:53,440 - 00:36:55,420] that involve the boson field, phi.
+- [00:36:56,560 - 00:36:59,080] There's also things involving the fermion field.
+- [00:36:59,160 - 00:36:59,660] They're important.
+- [00:37:01,759 - 00:37:02,649] But for the moment, I
+- [00:37:02,649 - 00:37:03,540] don't want to write them down.
+- [00:37:03,660 - 00:37:04,700] Just leave them here.
+- [00:37:06,000 - 00:37:06,299] Okay.
+- [00:37:06,400 - 00:37:09,160] For example, if v was phi squared, then
+- [00:37:09,160 - 00:37:11,920] dv d phi would just be proportional to phi.
+- [00:37:13,100 - 00:37:14,780] If v was phi cubed, there
+- [00:37:14,780 - 00:37:16,460] would be a phi squared here.
+- [00:37:16,620 - 00:37:17,720] And so forth and so on.
+- [00:37:18,460 - 00:37:18,759] All right.
+- [00:37:18,820 - 00:37:21,680] Now, f is a peculiar thing.
+- [00:37:22,340 - 00:37:24,580] It only enters into the Lagrangian.
+- [00:37:26,200 - 00:37:28,180] It has no kinetic term.
+- [00:37:28,180 - 00:37:30,440] There's no derivatives associated with it.
+- [00:37:31,120 - 00:37:33,540] That means the equations of motion for f.
+- [00:37:33,660 - 00:37:35,440] Don't involve derivatives.
+- [00:37:35,860 - 00:37:39,060] They're extremely simple, the equations of motion.
+- [00:37:39,520 - 00:37:41,870] They're just algebraic equations
+- [00:37:41,870 - 00:37:44,220] for f without any derivatives.
+- [00:37:45,040 - 00:37:48,360] And you might as well solve them and eliminate f.
+- [00:37:48,779 - 00:37:52,380] To do that, you write down that the total Lagrangian,
+- [00:37:53,600 - 00:37:55,560] insofar as it involves f,
+- [00:37:56,520 - 00:38:01,420] involves this coming from the d2 theta term
+- [00:38:01,420 - 00:38:02,500] and f.
+- [00:38:02,500 - 00:38:02,620] And so forth.
+- [00:38:02,620 - 00:38:02,660] And so forth.
+- [00:38:02,660 - 00:38:02,720] And so forth.
+- [00:38:02,720 - 00:38:02,779] And so forth.
+- [00:38:02,779 - 00:38:02,840] And so forth.
+- [00:38:02,840 - 00:38:02,860] And so forth.
+- [00:38:02,860 - 00:38:02,920] And so forth.
+- [00:38:02,920 - 00:38:02,960] And so forth.
+- [00:38:02,960 - 00:38:03,020] And so forth.
+- [00:38:03,020 - 00:38:03,040] And so forth.
+- [00:38:03,040 - 00:38:03,160] And so forth.
+- [00:38:03,160 - 00:38:03,200] And so forth.
+- [00:38:03,200 - 00:38:03,259] And so forth.
+- [00:38:03,560 - 00:38:03,680] And so forth.
+- [00:38:03,779 - 00:38:06,500] Plus f star f.
+- [00:38:07,820 - 00:38:10,020] Coming from this term.
+- [00:38:11,340 - 00:38:13,660] And now you have the full dependence
+- [00:38:13,660 - 00:38:16,420] of the Lagrangian on this,
+- [00:38:16,900 - 00:38:19,040] what's called an auxiliary field.
+- [00:38:19,620 - 00:38:21,759] It's auxiliary because we're going to get rid of it.
+- [00:38:21,980 - 00:38:23,799] I'm not sure that auxiliary always means
+- [00:38:23,799 - 00:38:25,540] that the auxiliary fire department,
+- [00:38:25,660 - 00:38:26,510] I don't suppose that means you're
+- [00:38:26,510 - 00:38:27,360] going to get rid of it,
+- [00:38:27,440 - 00:38:30,100] but I will use the term auxiliary
+- [00:38:30,100 - 00:38:31,440] to mean we're going to get rid of it.
+- [00:38:32,440 - 00:38:32,960] All right.
+- [00:38:32,960 - 00:38:34,510] F times dv d phi plus
+- [00:38:34,510 - 00:38:36,060] F star dv d phi star.
+- [00:38:36,520 - 00:38:38,540] And now let's look, what is
+- [00:38:38,540 - 00:38:40,560] the equation of motion for F?
+- [00:38:41,220 - 00:38:44,640] Well, the usual equation of motion, it involves stuff like
+- [00:38:44,640 - 00:38:46,810] derivative with respect to X mu
+- [00:38:46,810 - 00:38:48,980] times the derivative of the Lagrangian
+- [00:38:48,980 - 00:38:51,700] with respect to derivative of F
+- [00:38:51,700 - 00:38:54,420] with respect to X, blah, blah, blah.
+- [00:38:54,420 - 00:38:58,120] And then plus, minus, minus derivative
+- [00:38:58,120 - 00:39:01,820] of the Lagrangian with respect to F.
+- [00:39:02,960 - 00:39:03,920] Equals zero.
+- [00:39:05,920 - 00:39:07,880] In this case, it's very simple.
+- [00:39:08,580 - 00:39:10,670] The Lagrangian doesn't depend on the
+- [00:39:10,670 - 00:39:12,760] derivatives of F, so this isn't here.
+- [00:39:13,840 - 00:39:15,730] And our equation of motion is
+- [00:39:15,730 - 00:39:17,620] just that the derivative of the Lagrangian
+- [00:39:17,620 - 00:39:19,560] with respect to F is equal to zero.
+- [00:39:20,300 - 00:39:21,140] Boy, is that simple.
+- [00:39:21,720 - 00:39:22,740] Let's write it out.
+- [00:39:22,800 - 00:39:23,420] What does it say?
+- [00:39:23,420 - 00:39:26,820] The derivative of the Lagrangian with respect
+- [00:39:26,820 - 00:39:30,220] to F has dv by d phi
+- [00:39:30,220 - 00:39:32,420] plus
+- [00:39:32,960 - 00:39:36,980] and plus F star
+- [00:39:36,980 - 00:39:39,580] equals zero.
+- [00:39:40,860 - 00:39:43,050] In other words, it immediately, and incidentally,
+- [00:39:43,050 - 00:39:45,240] the equation of motion for F star
+- [00:39:45,240 - 00:39:47,270] you can just get by
+- [00:39:47,270 - 00:39:49,300] taking the complex conjugate of this.
+- [00:39:49,300 - 00:39:52,210] And it's the derivative of
+- [00:39:52,210 - 00:39:55,120] V with respect to phi star
+- [00:39:55,120 - 00:39:57,780] superpotential
+- [00:39:57,780 - 00:40:01,300] plus F
+- [00:40:01,800 - 00:40:02,920] is equal to,
+- [00:40:02,920 - 00:40:04,920] is equal to zero.
+- [00:40:04,920 - 00:40:06,300] Let's see, one of these
+- [00:40:06,300 - 00:40:07,680] should be complex conjugated over here.
+- [00:40:10,680 - 00:40:13,420] Well, both of them are trivially solved.
+- [00:40:13,420 - 00:40:17,170] The equations of motion just tell
+- [00:40:17,170 - 00:40:20,920] us that F star is nothing but
+- [00:40:22,920 - 00:40:24,920] minus dv d phi.
+- [00:40:29,820 - 00:40:31,820] And the complex conjugate.
+- [00:40:31,820 - 00:40:32,820] In other words,
+- [00:40:32,820 - 00:40:34,820] if you saw F,
+- [00:40:34,820 - 00:40:38,820] you can eliminate it and put in dv d phi.
+- [00:40:38,820 - 00:40:41,820] Okay, where do we see F in the action?
+- [00:40:41,820 - 00:40:44,820] We see the action here, F star F.
+- [00:40:45,820 - 00:40:51,320] We see F star times dv star d phi star.
+- [00:40:51,320 - 00:40:52,820] But what is F star?
+- [00:40:52,820 - 00:40:55,820] F star is dv d phi.
+- [00:40:55,820 - 00:40:58,320] So this is also going to give us
+- [00:40:58,320 - 00:41:00,820] dv d phi times dv star d phi star.
+- [00:41:00,820 - 00:41:02,820] Same kind of term as this one will.
+- [00:41:02,820 - 00:41:05,320] And this one will, and the other one
+- [00:41:05,320 - 00:41:07,820] here will give us exactly the same kind.
+- [00:41:07,820 - 00:41:10,320] In fact, two of them have minus
+- [00:41:10,320 - 00:41:12,820] signs and one of them have plus signs.
+- [00:41:12,820 - 00:41:15,820] The minus signs come from here.
+- [00:41:15,820 - 00:41:19,820] Minus signs in dv d phi are minus F star.
+- [00:41:19,820 - 00:41:21,820] What's that?
+- [00:41:21,820 - 00:41:23,820] You wrote the wrong phi in the derivative.
+- [00:41:23,820 - 00:41:25,820] Oh yes, you're right.
+- [00:41:25,820 - 00:41:27,820] Phi.
+- [00:41:27,820 - 00:41:29,820] Right.
+- [00:41:29,820 - 00:41:31,820] F star is minus dv d phi.
+- [00:41:31,820 - 00:41:33,320] So both of these terms here
+- [00:41:33,320 - 00:41:34,820] are going to have negative signs,
+- [00:41:34,820 - 00:41:37,820] and this one will have a positive sign.
+- [00:41:37,820 - 00:41:41,820] The net result is that all of this adds
+- [00:41:41,820 - 00:41:45,820] up to a potential energy for the phi field.
+- [00:41:45,820 - 00:41:47,820] It's a new Lagrangian.
+- [00:41:47,820 - 00:41:50,820] It's a term, a potential energy.
+- [00:41:50,820 - 00:41:52,820] It's not super potential.
+- [00:41:52,820 - 00:41:54,820] It's just ordinary potential energy.
+- [00:41:54,820 - 00:41:55,820] And what is it?
+- [00:41:55,820 - 00:42:00,820] Let's just call it ordinary v now of little phi.
+- [00:42:00,820 - 00:42:02,820] Not the super potential.
+- [00:42:02,820 - 00:42:15,820] And it is just F star F or
+- [00:42:15,820 - 00:42:21,820] just dv by d phi absolute value squared.
+- [00:42:21,820 - 00:42:24,820] In other words, F times F star.
+- [00:42:24,820 - 00:42:27,820] So if somebody tells you, let's do an example.
+- [00:42:27,820 - 00:42:28,820] Let's do an example.
+- [00:42:28,820 - 00:42:37,820] Supposing I give you that the super potential is,
+- [00:42:37,820 - 00:42:38,820] here it is,
+- [00:42:38,820 - 00:42:47,820] v is equal to m times phi squared.
+- [00:42:47,820 - 00:42:50,820] m times big phi squared.
+- [00:42:50,820 - 00:42:52,820] But at this point it doesn't
+- [00:42:52,820 - 00:42:54,820] matter if big phi or little phi.
+- [00:42:54,820 - 00:42:56,820] What is dv d phi?
+- [00:42:56,820 - 00:43:04,820] dv d phi is just m.
+- [00:43:04,820 - 00:43:06,820] As I said, I'm not going to
+- [00:43:06,820 - 00:43:08,820] keep track of factors of two today.
+- [00:43:08,820 - 00:43:15,820] Apart from a factor of two, dv d phi
+- [00:43:15,820 - 00:43:18,820] is just proportional to m times phi.
+- [00:43:18,820 - 00:43:22,820] And what about the potential dv by d phi squared?
+- [00:43:22,820 - 00:43:24,820] This is small phi here.
+- [00:43:24,820 - 00:43:25,820] Small phi.
+- [00:43:26,820 - 00:43:30,820] dv d phi squared just gives
+- [00:43:30,820 - 00:43:34,820] us an m squared phi star phi.
+- [00:43:34,820 - 00:43:36,820] That's a mass term.
+- [00:43:36,820 - 00:43:40,820] That's a mass term which when
+- [00:43:40,820 - 00:43:44,820] added to the Klein-Gordon Lagrangian here
+- [00:43:44,820 - 00:43:47,820] would give the Klein-Gordon particle a mass.
+- [00:43:47,820 - 00:43:50,820] Would give the scalar particle a mass.
+- [00:43:50,820 - 00:43:51,820] Alright, so that's an example.
+- [00:43:51,820 - 00:43:53,820] We worked that one out last time.
+- [00:43:53,820 - 00:43:56,820] What happens if you were to have added
+- [00:43:56,820 - 00:44:02,820] a phi cubed term?
+- [00:44:02,820 - 00:44:05,820] Then this would become m phi squared.
+- [00:44:05,820 - 00:44:08,820] Again, not worrying about numerical coefficients.
+- [00:44:08,820 - 00:44:11,820] dv d phi would be m phi squared
+- [00:44:11,820 - 00:44:14,820] and the ordinary potential would be
+- [00:44:14,820 - 00:44:18,820] v would be
+- [00:44:18,820 - 00:44:20,820] let's call this g now, not m.
+- [00:44:20,820 - 00:44:22,820] G coupling constant.
+- [00:44:22,820 - 00:44:24,820] This would be g squared
+- [00:44:24,820 - 00:44:26,820] phi squared
+- [00:44:26,820 - 00:44:28,820] phi star squared.
+- [00:44:28,820 - 00:44:31,820] This would correspond to a Feynman diagram
+- [00:44:31,820 - 00:44:33,320] in which two particles came
+- [00:44:33,320 - 00:44:34,820] in and two particles went out.
+- [00:44:34,820 - 00:44:36,820] A phi to the fourth term.
+- [00:44:36,820 - 00:44:40,820] So if the whole upshot is
+- [00:44:40,820 - 00:44:43,820] that if you're given a super potential
+- [00:44:43,820 - 00:44:46,820] you can read off from it very quickly
+- [00:44:46,820 - 00:44:51,820] what the ordinary potential energy of the field is.
+- [00:44:51,820 - 00:44:55,820] Just derivative of the super potential squared.
+- [00:44:55,820 - 00:44:58,820] Or absolute value squared.
+- [00:44:58,820 - 00:45:01,820] That's a very simple process.
+- [00:45:01,820 - 00:45:03,820] That's what you have to know about
+- [00:45:03,820 - 00:45:05,820] supersymmetric quantum field theory
+- [00:45:05,820 - 00:45:09,820] to have to understand a little bit about
+- [00:45:15,820 - 00:45:17,820] supersymmetry breaking.
+- [00:45:22,820 - 00:45:25,820] Let's plot vertically
+- [00:45:25,820 - 00:45:28,820] the ordinary potential energy, not the super potential.
+- [00:45:28,820 - 00:45:30,820] The super potential and the ordinary potential
+- [00:45:30,820 - 00:45:32,820] notice that they're quite different.
+- [00:45:32,820 - 00:45:34,820] The ordinary potential energy involves
+- [00:45:34,820 - 00:45:37,820] the derivative of the super potential squared.
+- [00:45:37,820 - 00:45:39,820] But once you've got it, you've got it.
+- [00:45:39,820 - 00:45:41,820] So let's plot v of phi.
+- [00:45:41,820 - 00:45:46,820] Notice first of all that it's always positive.
+- [00:45:46,820 - 00:45:48,820] Where is it?
+- [00:45:48,820 - 00:45:49,820] Here.
+- [00:45:49,820 - 00:45:51,820] Well it doesn't have to always be positive.
+- [00:45:51,820 - 00:45:53,820] What else could it be?
+- [00:45:53,820 - 00:45:54,820] Could be zero, right?
+- [00:45:54,820 - 00:45:55,820] Could be zero.
+- [00:45:55,820 - 00:45:57,820] But it can't be negative.
+- [00:45:57,820 - 00:45:58,820] It can't be negative.
+- [00:45:58,820 - 00:46:02,820] Alright, so the potential as a function of phi
+- [00:46:02,820 - 00:46:04,820] I'm being schematic.
+- [00:46:04,820 - 00:46:06,820] Phi is a complex variable.
+- [00:46:06,820 - 00:46:08,320] I can't draw a potential as
+- [00:46:08,320 - 00:46:09,820] a function of a complex variable.
+- [00:46:09,820 - 00:46:12,820] It's a function of phi star phi.
+- [00:46:12,820 - 00:46:14,820] But let's just be schematic.
+- [00:46:14,820 - 00:46:18,820] It could have a minimum someplace.
+- [00:46:18,820 - 00:46:21,820] The minimum is where the vacuum is.
+- [00:46:21,820 - 00:46:23,820] The minimum of the potential energy
+- [00:46:23,820 - 00:46:25,820] is the vacuum in a field theory.
+- [00:46:25,820 - 00:46:27,820] The minimum value of the potential energy
+- [00:46:27,820 - 00:46:29,820] is the ground state.
+- [00:46:29,820 - 00:46:33,820] And that's where the theory likes to sit at rest
+- [00:46:33,820 - 00:46:35,820] in the vacuum.
+- [00:46:35,820 - 00:46:39,820] Alright, one possibility is that
+- [00:46:39,820 - 00:46:43,820] the minimum of the potential happens to be
+- [00:46:43,820 - 00:46:45,820] at exactly the bottom here.
+- [00:46:45,820 - 00:46:48,820] At v equals zero.
+- [00:46:48,820 - 00:46:50,820] The meaning of that is that the vacuum
+- [00:46:50,820 - 00:46:52,820] has no energy at all.
+- [00:46:53,820 - 00:46:55,820] The vacuum, the energy of the vacuum,
+- [00:46:55,820 - 00:46:57,820] the potential energy of the vacuum is zero.
+- [00:46:57,820 - 00:47:00,820] The kinetic energy has to do with time derivatives
+- [00:47:00,820 - 00:47:02,820] and space derivatives.
+- [00:47:02,820 - 00:47:04,820] In the vacuum, those are not there.
+- [00:47:04,820 - 00:47:06,820] So the vacuum energy in this case
+- [00:47:06,820 - 00:47:09,820] would be exactly zero.
+- [00:47:09,820 - 00:47:11,820] What does that imply?
+- [00:47:11,820 - 00:47:14,820] That implies that at the minimum,
+- [00:47:14,820 - 00:47:17,820] at the place where dv d phi equals zero,
+- [00:47:17,820 - 00:47:19,820] v is also zero.
+- [00:47:19,820 - 00:47:22,820] Or in other words, that at the minimum,
+- [00:47:22,820 - 00:47:25,820] dv d phi has to be equal to zero.
+- [00:47:33,820 - 00:47:36,820] Well, also a complex conjugate.
+- [00:47:36,820 - 00:47:38,820] Why do I say that?
+- [00:47:38,820 - 00:47:41,820] For this to be zero,
+- [00:47:41,820 - 00:47:44,820] each factor in here has to be zero.
+- [00:47:44,820 - 00:47:46,820] For a thing to be zero,
+- [00:47:46,820 - 00:47:49,820] if it's a thing times its own complex conjugate,
+- [00:47:49,820 - 00:47:52,820] then the thing inside this also has to be zero.
+- [00:47:52,820 - 00:47:59,820] Okay, so if there is a vacuum with zero energy,
+- [00:47:59,820 - 00:48:02,320] then it says that dv
+- [00:48:02,320 - 00:48:04,820] d phi is equal to zero.
+- [00:48:04,820 - 00:48:07,820] But remember what dv d phi is.
+- [00:48:07,820 - 00:48:11,320] It's the F term in
+- [00:48:11,320 - 00:48:14,820] the expansion of the super field.
+- [00:48:14,820 - 00:48:17,820] In other words, it's a component of the super field.
+- [00:48:17,820 - 00:48:20,820] It's a component of the super field,
+- [00:48:20,820 - 00:48:23,820] and what it says is,
+- [00:48:23,820 - 00:48:27,320] well, what it says is that component of
+- [00:48:27,320 - 00:48:30,820] the super field is zero in the vacuum,
+- [00:48:30,820 - 00:48:35,820] but it also says that the vacuum is supersymmetric.
+- [00:48:35,820 - 00:48:36,820] Why?
+- [00:48:36,820 - 00:48:40,820] Because for something to not be symmetric,
+- [00:48:40,820 - 00:48:42,820] some component,
+- [00:48:42,820 - 00:48:44,820] in the case of angular momentum and
+- [00:48:44,820 - 00:48:46,820] in the case of the magnetic field,
+- [00:48:46,820 - 00:48:48,320] what we said is if the vacuum
+- [00:48:48,320 - 00:48:49,820] has a component of the magnetic field,
+- [00:48:49,820 - 00:48:52,820] which is not equal to zero,
+- [00:48:52,820 - 00:48:54,820] then that breaks the symmetry.
+- [00:48:54,820 - 00:48:55,820] In the same way,
+- [00:48:55,820 - 00:48:57,820] if a component, in particular the
+- [00:48:57,820 - 00:48:59,820] last component of a super field,
+- [00:48:59,820 - 00:49:00,820] is not equal to zero,
+- [00:49:00,820 - 00:49:02,820] that breaks the symmetry.
+- [00:49:02,820 - 00:49:03,820] Why?
+- [00:49:03,820 - 00:49:05,320] Because these different components get
+- [00:49:05,320 - 00:49:06,820] mixed up into each other
+- [00:49:06,820 - 00:49:09,820] under a supersymmetric transformation.
+- [00:49:09,820 - 00:49:10,820] So if F is,
+- [00:49:10,820 - 00:49:12,320] in the same way that
+- [00:49:12,320 - 00:49:13,820] the components of the angular momentum
+- [00:49:13,820 - 00:49:15,820] get mixed up with each other,
+- [00:49:15,820 - 00:49:17,320] or the magnetization get mixed up
+- [00:49:17,320 - 00:49:18,820] with each other under a rotation,
+- [00:49:18,820 - 00:49:21,320] the same thing happens to
+- [00:49:21,320 - 00:49:23,820] the components of a super field.
+- [00:49:23,820 - 00:49:27,320] This statement here is equivalent to
+- [00:49:27,320 - 00:49:30,820] saying that the vacuum is supersymmetric.
+- [00:49:30,820 - 00:49:34,820] What's the other possibility?
+- [00:49:34,820 - 00:49:38,820] The other possibility is that the minimum of the potential,
+- [00:49:38,820 - 00:49:40,820] this is not equal to zero.
+- [00:49:40,820 - 00:49:43,820] If that's the case,
+- [00:49:43,820 - 00:49:45,820] then you can make two conclusions.
+- [00:49:45,820 - 00:49:47,820] The first is,
+- [00:49:47,820 - 00:49:49,320] that the energy of the vacuum
+- [00:49:49,320 - 00:49:50,820] is not going to be zero.
+- [00:49:50,820 - 00:49:53,820] The vacuum will have some energy.
+- [00:49:53,820 - 00:49:56,820] Who cares about vacuum energy?
+- [00:49:56,820 - 00:49:58,820] The only people who care about vacuum energy
+- [00:49:58,820 - 00:50:00,820] are ones who worry about gravity.
+- [00:50:00,820 - 00:50:02,820] If you don't worry about gravity,
+- [00:50:02,820 - 00:50:06,820] vacuum energy has no implication whatever.
+- [00:50:06,820 - 00:50:08,820] But if you do worry about gravity,
+- [00:50:08,820 - 00:50:11,820] vacuum energy is something to worry about.
+- [00:50:11,820 - 00:50:13,820] It means that the vacuum gravitates.
+- [00:50:13,820 - 00:50:17,820] So, vacuum energy is a dangerous thing.
+- [00:50:17,820 - 00:50:22,820] But if dv d phi is not equal to zero,
+- [00:50:22,820 - 00:50:28,820] then that says that the vacuum has an F term.
+- [00:50:28,820 - 00:50:31,820] It has a non-zero component of the super field,
+- [00:50:31,820 - 00:50:35,820] roughly speaking, pointing in some direction in super space.
+- [00:50:35,820 - 00:50:40,820] And a super transformation will kind of rotate that.
+- [00:50:40,820 - 00:50:44,820] It will correspond to supersymmetry breaking.
+- [00:50:44,820 - 00:50:46,820] Alright, so if this is not equal to zero,
+- [00:50:46,820 - 00:50:49,820] then supersymmetry is broken by the vacuum.
+- [00:50:49,820 - 00:50:51,820] It's spontaneous symmetry breaking.
+- [00:50:51,820 - 00:50:54,820] The theory itself was supersymmetric.
+- [00:50:54,820 - 00:50:58,820] The vacuum simply has an energy in it.
+- [00:50:58,820 - 00:51:03,820] That energy explicitly would gravitate,
+- [00:51:03,820 - 00:51:06,820] if this was a gravitating theory.
+- [00:51:06,820 - 00:51:10,820] But the important thing is,
+- [00:51:10,820 - 00:51:12,820] if you work out all
+- [00:51:12,820 - 00:51:14,820] of the details of the vacuum,
+- [00:51:14,820 - 00:51:16,820] if you work out all
+- [00:51:16,820 - 00:51:18,820] of the details of the equations,
+- [00:51:18,820 - 00:51:22,820] you will also find, in that case,
+- [00:51:22,820 - 00:51:25,820] that it behaves like a magnetic field.
+- [00:51:25,820 - 00:51:27,820] F. F is kind of like
+- [00:51:27,820 - 00:51:29,820] a component of a magnetic field.
+- [00:51:29,820 - 00:51:34,820] And it has the effect of splitting the masses
+- [00:51:34,820 - 00:51:37,820] of the different particles which rotate into each other
+- [00:51:37,820 - 00:51:40,820] under the supersymmetry transformation.
+- [00:51:40,820 - 00:51:42,820] Which of the particles which rotate into each other
+- [00:51:42,820 - 00:51:44,820] under the supersymmetry transformation?
+- [00:51:44,820 - 00:51:47,820] The fermions and the bosons.
+- [00:51:47,820 - 00:51:52,820] So, the main lesson to draw from this
+- [00:51:52,820 - 00:51:59,820] is that there is a theory of supersymmetry breaking
+- [00:51:59,820 - 00:52:02,820] which is very close in spirit
+- [00:52:02,820 - 00:52:04,820] to spontaneous symmetry breaking,
+- [00:52:04,820 - 00:52:08,820] to conventional spontaneous symmetry breaking.
+- [00:52:08,820 - 00:52:11,820] It does not require the equations to be not supersymmetric.
+- [00:52:11,820 - 00:52:14,820] It requires the solutions of the equations
+- [00:52:14,820 - 00:52:18,820] to somehow be non-symmetric
+- [00:52:18,820 - 00:52:20,820] with respect to the supersymmetry.
+- [00:52:20,820 - 00:52:23,820] And the result is, just like in the magnet,
+- [00:52:23,820 - 00:52:26,820] the atom and the magnet will have split levels
+- [00:52:26,820 - 00:52:29,820] in the same way the analog
+- [00:52:29,820 - 00:52:32,820] of the atom and the magnet
+- [00:52:32,820 - 00:52:35,820] would be a fermion or a boson, a particle,
+- [00:52:35,820 - 00:52:37,820] and the two things which
+- [00:52:37,820 - 00:52:39,820] are interchanged by the supersymmetry
+- [00:52:39,820 - 00:52:41,820] will have their energies split.
+- [00:52:41,820 - 00:52:43,820] The fermions and the bosons.
+- [00:52:43,820 - 00:52:46,820] That's the implication of all of this.
+- [00:52:46,820 - 00:52:49,820] One more implication.
+- [00:52:49,820 - 00:52:54,820] If the vacuum is not supersymmetric,
+- [00:52:54,820 - 00:52:57,820] if the vacuum is not supersymmetric,
+- [00:52:57,820 - 00:52:59,820] the simple implication of that,
+- [00:52:59,820 - 00:53:01,320] just in the same way if
+- [00:53:01,320 - 00:53:02,820] the vacuum is not rotationally symmetric,
+- [00:53:02,820 - 00:53:05,820] then a rotation of the vacuum gives you something new.
+- [00:53:05,820 - 00:53:08,820] It gives you something which is not the vacuum.
+- [00:53:08,820 - 00:53:10,820] It gives you a goldstone boson.
+- [00:53:10,820 - 00:53:12,820] What happens if
+- [00:53:12,820 - 00:53:15,820] the vacuum of supersymmetry transformation
+- [00:53:15,820 - 00:53:19,820] is not symmetric under supersymmetry?
+- [00:53:19,820 - 00:53:22,820] Then a supersymmetry transformation on the vacuum
+- [00:53:22,820 - 00:53:24,820] gives you something new.
+- [00:53:24,820 - 00:53:27,820] Anybody want to guess what that something new is?
+- [00:53:30,820 - 00:53:33,820] Well, remember that supersymmetry transformations
+- [00:53:33,820 - 00:53:36,820] interchange bosons and fermions.
+- [00:53:36,820 - 00:53:41,820] The vacuum is formally counted as a boson state.
+- [00:53:42,820 - 00:53:46,820] It's formally counted as a boson state.
+- [00:53:46,820 - 00:53:49,820] But whatever the vacuum is,
+- [00:53:49,820 - 00:53:53,820] a rotation by a supersymmetry transformation
+- [00:53:53,820 - 00:53:57,820] will change it by adding a fermion.
+- [00:53:57,820 - 00:54:00,820] A supersymmetry transformation always takes,
+- [00:54:00,820 - 00:54:04,820] always adds or subtracts a fermion.
+- [00:54:04,820 - 00:54:06,820] So the result is
+- [00:54:06,820 - 00:54:08,820] that whenever supersymmetry is
+- [00:54:08,820 - 00:54:10,820] spontaneously broken in this way,
+- [00:54:10,820 - 00:54:14,820] there is a massless particle.
+- [00:54:14,820 - 00:54:17,320] And the massless particle is
+- [00:54:17,320 - 00:54:19,820] a fermion instead of a boson.
+- [00:54:19,820 - 00:54:21,820] It's what happens to the vacuum
+- [00:54:21,820 - 00:54:24,820] when you do the supersymmetry transformation.
+- [00:54:24,820 - 00:54:27,820] If the vacuum is symmetric,
+- [00:54:27,820 - 00:54:29,820] then you don't get anything new.
+- [00:54:29,820 - 00:54:32,820] If the vacuum is not symmetric under supersymmetry,
+- [00:54:32,820 - 00:54:35,820] which means that this is not equal to zero,
+- [00:54:35,820 - 00:54:37,820] then when you do a supersymmetry transformation,
+- [00:54:37,820 - 00:54:38,820] you do get something new,
+- [00:54:38,820 - 00:54:42,820] and that new thing is a massless fermion.
+- [00:54:42,820 - 00:54:44,820] It has a name.
+- [00:54:44,820 - 00:54:47,820] Sometimes it's called the goldstone fermion
+- [00:54:47,820 - 00:54:49,820] instead of a goldstone boson,
+- [00:54:49,820 - 00:54:51,820] if that makes sense.
+- [00:54:51,820 - 00:54:54,820] And sometimes it's called a goldstino.
+- [00:54:54,820 - 00:54:57,820] Eno usually refers to a fermion.
+- [00:54:57,820 - 00:55:02,820] The goldstino or the goldstone boson
+- [00:55:08,820 - 00:55:11,820] is the particle that's generated
+- [00:55:11,820 - 00:55:14,820] by doing a small supersymmetry transformation on the vacuum
+- [00:55:14,820 - 00:55:16,820] if the vacuum is not symmetric.
+- [00:55:16,820 - 00:55:20,820] So the two consequences
+- [00:55:20,820 - 00:55:24,820] of spontaneous supersymmetry breaking,
+- [00:55:24,820 - 00:55:25,820] there are two of them.
+- [00:55:25,820 - 00:55:29,820] One is that the vacuum energy is not zero.
+- [00:55:29,820 - 00:55:35,820] The minimum is not when v is equal to zero.
+- [00:55:35,820 - 00:55:37,820] Or...
+- [00:55:38,820 - 00:55:41,820] That's one.
+- [00:55:41,820 - 00:55:43,820] So the vacuum energy is not equal to zero.
+- [00:55:43,820 - 00:55:45,820] And the other consequence is
+- [00:55:45,820 - 00:55:47,820] that there's a massless fermion,
+- [00:55:47,820 - 00:55:49,820] a new massless fermion,
+- [00:55:49,820 - 00:55:53,820] unexpected and as...
+- [00:55:53,820 - 00:55:57,820] as unexpected as a goldstone boson.
+- [00:55:57,820 - 00:55:59,820] And they're for the same reasons,
+- [00:55:59,820 - 00:56:01,820] that the supersymmetry transformation
+- [00:56:01,820 - 00:56:02,820] acting on the whole world
+- [00:56:02,820 - 00:56:04,820] has to give you a new state,
+- [00:56:04,820 - 00:56:07,820] and that new state is called the goldstone fermion.
+- [00:56:07,820 - 00:56:08,820] Okay.
+- [00:56:08,820 - 00:56:12,820] That's spontaneous supersymmetry breaking in a nutshell.
+- [00:56:12,820 - 00:56:14,820] One more...
+- [00:56:14,820 - 00:56:16,820] Well, there are two more points.
+- [00:56:16,820 - 00:56:17,820] I mean, I'm giving you some...
+- [00:56:17,820 - 00:56:19,820] I want to give you some jargon now
+- [00:56:19,820 - 00:56:23,820] so that you'll recognize the jargon.
+- [00:56:23,820 - 00:56:26,820] The atom by itself,
+- [00:56:26,820 - 00:56:29,820] call that a sector of the theory.
+- [00:56:29,820 - 00:56:32,820] The atom interacts with the ferromagnet.
+- [00:56:32,820 - 00:56:36,820] Call a ferromagnet another sector of the theory.
+- [00:56:36,820 - 00:56:38,820] If the magnetic field of the ferromagnet
+- [00:56:38,820 - 00:56:41,820] were exceedingly strong,
+- [00:56:41,820 - 00:56:43,820] it would do something awful to the atom.
+- [00:56:43,820 - 00:56:45,820] The atom would be unrecognizable.
+- [00:56:45,820 - 00:56:46,820] It would make spaghetti out of it.
+- [00:56:46,820 - 00:56:47,820] Do you know what an atom looks like
+- [00:56:47,820 - 00:56:50,820] when it's in an incredibly strong magnetic field?
+- [00:56:52,820 - 00:56:56,820] A long stringy spaghetti-ish looking thing.
+- [00:56:56,820 - 00:56:57,820] Right.
+- [00:56:57,820 - 00:56:59,820] The atom would be unrecognizable.
+- [00:56:59,820 - 00:57:01,820] But if the magnetic field is very weak,
+- [00:57:01,820 - 00:57:04,820] then the atom is quite recognizable.
+- [00:57:04,820 - 00:57:06,820] And what you would say,
+- [00:57:06,820 - 00:57:09,820] and that's the situation we're going to be interested in,
+- [00:57:09,820 - 00:57:12,820] the situation where the magnetic field
+- [00:57:12,820 - 00:57:14,820] due to the ferromagnet...
+- [00:57:14,820 - 00:57:17,820] We're not interested in ferromagnets, but by analogy,
+- [00:57:17,820 - 00:57:21,820] the magnetic field of the ferromagnet is very weak.
+- [00:57:21,820 - 00:57:25,820] The atoms are ordinary atoms,
+- [00:57:25,820 - 00:57:30,820] and their levels are only slightly split.
+- [00:57:30,820 - 00:57:33,820] The reason we're interested in that situation
+- [00:57:33,820 - 00:57:36,820] is because compared to the fundamental
+- [00:57:36,820 - 00:57:40,820] scale of particle physics, string theory,
+- [00:57:40,820 - 00:57:42,820] grand unified theories, or anything like that,
+- [00:57:42,820 - 00:57:46,820] which tends to be up at 16 orders of magnitude
+- [00:57:46,820 - 00:57:48,820] larger than the particle physics scale,
+- [00:57:48,820 - 00:57:50,820] the splitting of the superpartners
+- [00:57:50,820 - 00:57:52,820] is hoped to be very small.
+- [00:57:52,820 - 00:57:54,820] It's hoped that the superpartners
+- [00:57:54,820 - 00:57:57,820] have almost the same mass on that scale
+- [00:57:57,820 - 00:57:59,820] as ordinary particles.
+- [00:57:59,820 - 00:58:02,820] That would be analogous to the magnetic field
+- [00:58:02,820 - 00:58:05,820] due to the ferromagnet being very weak,
+- [00:58:05,820 - 00:58:09,820] and only splitting these particles a little bit.
+- [00:58:09,820 - 00:58:12,820] If the magnetic field were very weak,
+- [00:58:12,820 - 00:58:15,820] the atoms would hardly notice it.
+- [00:58:15,820 - 00:58:17,820] They would hardly notice it,
+- [00:58:17,820 - 00:58:20,820] they would hardly interact with those magnetic fields,
+- [00:58:20,820 - 00:58:23,820] and in fact, one of the consequences of this
+- [00:58:23,820 - 00:58:26,820] would be that it's rather hard
+- [00:58:26,820 - 00:58:29,820] by manipulating the atom...
+- [00:58:29,820 - 00:58:32,820] by manipulating the atom
+- [00:58:32,820 - 00:58:34,820] to influence the ferromagnet
+- [00:58:34,820 - 00:58:35,820] because the ferromagnet,
+- [00:58:35,820 - 00:58:37,820] they're too weakly coupled,
+- [00:58:37,820 - 00:58:39,820] and so manipulating the atom
+- [00:58:39,820 - 00:58:42,820] would not be likely to stir up spin waves,
+- [00:58:42,820 - 00:58:45,820] would not be likely to stir up these...
+- [00:58:45,820 - 00:58:48,820] the properties of the ferromagnet itself.
+- [00:58:50,820 - 00:58:53,820] And in the language that we use,
+- [00:58:53,820 - 00:58:55,820] the ferromagnet would correspond
+- [00:58:55,820 - 00:58:57,820] to what's called a hidden sector.
+- [00:58:57,820 - 00:59:00,820] It's a hidden sector in that
+- [00:59:00,820 - 00:59:03,820] unless this was a very sophisticated atom,
+- [00:59:03,820 - 00:59:09,820] it wouldn't even notice the ferromagnet.
+- [00:59:09,820 - 00:59:11,820] It would just be tiny, tiny splittings,
+- [00:59:11,820 - 00:59:16,820] and the ferromagnet would be a hidden sector.
+- [00:59:16,820 - 00:59:17,820] In the same way,
+- [00:59:17,820 - 00:59:20,820] particle physics, supersymmetric quantum mechanics
+- [00:59:20,820 - 00:59:23,820] also requires hidden sectors
+- [00:59:23,820 - 00:59:27,820] and additions of new objects and new particles
+- [00:59:27,820 - 00:59:30,820] in order to break the supersymmetry.
+- [00:59:30,820 - 00:59:32,820] It's not a pretty business.
+- [00:59:33,820 - 00:59:36,820] It's a contrived business.
+- [00:59:36,820 - 00:59:37,820] You have to add particles,
+- [00:59:37,820 - 00:59:38,820] you have to add fields.
+- [00:59:38,820 - 00:59:39,820] By the time you're finished,
+- [00:59:39,820 - 00:59:42,820] you have a rather complicated construction,
+- [00:59:42,820 - 00:59:46,820] and a complicated construction is necessary
+- [00:59:46,820 - 00:59:49,820] to split among the fermions and the bosons.
+- [00:59:49,820 - 00:59:51,820] That's...
+- [00:59:51,820 - 00:59:54,820] and the ingredient which does it
+- [00:59:54,820 - 00:59:56,820] is often called a hidden sector.
+- [00:59:56,820 - 00:59:58,820] It's the thing which precipitates
+- [00:59:58,820 - 01:00:00,820] the symmetry breaking.
+- [01:00:00,820 - 01:00:02,820] Those are some...
+- [01:00:03,820 - 01:00:07,820] words that go along with supersymmetry.
+- [01:00:12,820 - 01:00:14,820] Yes, one last point.
+- [01:00:14,820 - 01:00:18,820] One last point before we leave supersymmetry altogether.
+- [01:00:18,820 - 01:00:21,820] Well, not altogether, but for tonight.
+- [01:00:22,820 - 01:00:25,820] Gravity has an effect on this whole story.
+- [01:00:25,820 - 01:00:28,820] Gravity has an effect on this whole story,
+- [01:00:28,820 - 01:00:30,820] and it's a significant effect.
+- [01:00:30,820 - 01:00:32,820] Um...
+- [01:00:32,820 - 01:00:33,820] What...
+- [01:00:33,820 - 01:00:34,820] First of all,
+- [01:00:34,820 - 01:00:36,820] this has an effect on gravity,
+- [01:00:36,820 - 01:00:37,820] and second of all,
+- [01:00:37,820 - 01:00:40,820] gravity has an effect on it.
+- [01:00:40,820 - 01:00:41,820] What is the effect
+- [01:00:41,820 - 01:00:44,820] of a positive vacuum energy
+- [01:00:44,820 - 01:00:47,820] if supersymmetry is broken?
+- [01:00:47,820 - 01:00:49,820] It says that dv d
+- [01:00:49,820 - 01:00:51,820] phi is not equal to zero,
+- [01:00:51,820 - 01:00:53,820] and it says that the vacuum energy is not zero.
+- [01:00:53,820 - 01:00:55,820] What does a nonzero vacuum energy,
+- [01:00:55,820 - 01:00:56,820] and in particular,
+- [01:00:56,820 - 01:00:58,820] a positive nonzero vacuum energy,
+- [01:00:58,820 - 01:01:00,820] do to the world?
+- [01:01:00,820 - 01:01:01,820] Okay.
+- [01:01:01,820 - 01:01:02,820] What does it do to the world?
+- [01:01:02,820 - 01:01:04,820] Well...
+- [01:01:04,820 - 01:01:05,820] Cosmological.
+- [01:01:05,820 - 01:01:06,820] Yeah.
+- [01:01:06,820 - 01:01:08,820] It's a cosmological constant.
+- [01:01:08,820 - 01:01:10,820] It goes into the equations of gravity
+- [01:01:10,820 - 01:01:13,820] as a source on the right-hand side of gravity,
+- [01:01:13,820 - 01:01:16,820] and it causes, um...
+- [01:01:16,820 - 01:01:20,820] accelerated expansion of the universe
+- [01:01:20,820 - 01:01:22,820] and very rapid.
+- [01:01:22,820 - 01:01:24,820] If the particle physics scales here
+- [01:01:24,820 - 01:01:26,820] were ordinary particle physics scales,
+- [01:01:26,820 - 01:01:29,820] it would be a very rapid,
+- [01:01:29,820 - 01:01:30,820] uh,
+- [01:01:30,820 - 01:01:33,820] inflation or a very rapid
+- [01:01:33,820 - 01:01:36,820] acceleration of the universe,
+- [01:01:36,820 - 01:01:38,820] and it would be quite intolerable
+- [01:01:38,820 - 01:01:40,820] if the scales that appeared here
+- [01:01:40,820 - 01:01:42,820] were anything like the scales
+- [01:01:42,820 - 01:01:44,820] that appear in the standard model or anything
+- [01:01:44,820 - 01:01:47,820] or the supersymmetric version of it.
+- [01:01:47,820 - 01:01:50,820] Uh...
+- [01:01:50,820 - 01:01:52,820] And so, this is a bad thing.
+- [01:01:52,820 - 01:01:53,820] This is not a good thing
+- [01:01:53,820 - 01:01:55,820] to have a vacuum energy in a theory,
+- [01:01:55,820 - 01:01:57,820] or a large vacuum energy in a theory,
+- [01:01:57,820 - 01:01:59,820] and this vacuum energy would be quite large
+- [01:01:59,820 - 01:02:02,820] if it was what we relied on
+- [01:02:02,820 - 01:02:04,820] to split the particles.
+- [01:02:04,820 - 01:02:06,820] If it was what we relied on
+- [01:02:06,820 - 01:02:07,820] to split the particles,
+- [01:02:07,820 - 01:02:09,820] this vacuum energy would be huge,
+- [01:02:09,820 - 01:02:11,820] and it would completely, uh, destroy
+- [01:02:11,820 - 01:02:13,820] any possibility of this theory being right.
+- [01:02:13,820 - 01:02:16,820] I'm going to tell you a fact
+- [01:02:16,820 - 01:02:19,820] or a couple of facts.
+- [01:02:19,820 - 01:02:22,820] One is the effect of gravity
+- [01:02:22,820 - 01:02:26,820] on this equation right here.
+- [01:02:26,820 - 01:02:29,820] The effect of gravity on this equation right here
+- [01:02:29,820 - 01:02:32,820] is to add or actually to subtract
+- [01:02:32,820 - 01:02:34,820] another term.
+- [01:02:34,820 - 01:02:37,820] This other term is...
+- [01:02:37,820 - 01:02:44,820] Uh...
+- [01:02:44,820 - 01:02:46,820] Do I have a Planck mass in the right place,
+- [01:02:46,820 - 01:02:47,820] or do I have it upside down?
+- [01:02:47,820 - 01:02:48,820] Oh, boy.
+- [01:02:48,820 - 01:02:50,820] It's going to take me an hour to figure out.
+- [01:02:50,820 - 01:02:52,820] Um...
+- [01:02:52,820 - 01:02:54,820] Uh...
+- [01:02:54,820 - 01:02:56,820] Um...
+- [01:02:56,820 - 01:02:58,820] dv d phi squared...
+- [01:02:59,820 - 01:03:01,820] dv d phi squared...
+- [01:03:01,820 - 01:03:03,820] dv d phi squared...
+- [01:03:03,820 - 01:03:05,820] dv d phi squared...
+- [01:03:05,820 - 01:03:07,820] dv d phi squared...
+- [01:03:07,820 - 01:03:09,820] I think, um...
+- [01:03:09,820 - 01:03:14,820] I think the added term is minus 3.
+- [01:03:14,820 - 01:03:15,820] Now, don't worry about the 3.
+- [01:03:15,820 - 01:03:16,820] The 3 is not...
+- [01:03:16,820 - 01:03:18,820] I promised you I wouldn't put in numbers.
+- [01:03:18,820 - 01:03:20,820] This is one I happen to remember.
+- [01:03:20,820 - 01:03:21,820] Not important, though.
+- [01:03:21,820 - 01:03:24,820] And I think it's the Planck mass
+- [01:03:24,820 - 01:03:27,820] times v of phi.
+- [01:03:27,820 - 01:03:28,820] times v of phi.
+- [01:03:29,820 - 01:03:31,820] That's something that gravity adds to this.
+- [01:03:31,820 - 01:03:32,820] Don't ask why.
+- [01:03:32,820 - 01:03:33,820] It's very complicated.
+- [01:03:33,820 - 01:03:35,820] It's exceedingly complicated.
+- [01:03:35,820 - 01:03:37,820] You have to build theories of gravity
+- [01:03:37,820 - 01:03:39,820] that have supersymmetry.
+- [01:03:39,820 - 01:03:41,820] That's an extremely complicated story.
+- [01:03:41,820 - 01:03:43,820] We won't even try.
+- [01:03:43,820 - 01:03:46,820] But the net result is that gravity
+- [01:03:46,820 - 01:03:49,820] adds a term here.
+- [01:03:49,820 - 01:03:51,820] The effect of that term
+- [01:03:51,820 - 01:03:54,820] can be to shift
+- [01:03:54,820 - 01:03:57,820] the potential up and down.
+- [01:03:57,820 - 01:03:58,820] Right?
+- [01:03:58,820 - 01:04:01,820] In particular, if you're very lucky,
+- [01:04:01,820 - 01:04:03,820] it can shift it down
+- [01:04:03,820 - 01:04:05,820] to something close enough to zero
+- [01:04:05,820 - 01:04:07,820] that the cosmological constant
+- [01:04:07,820 - 01:04:09,820] is the small number we know.
+- [01:04:09,820 - 01:04:12,320] So, gravity is a thing
+- [01:04:12,320 - 01:04:14,820] that can come to the rescue
+- [01:04:14,820 - 01:04:18,820] and get rid of the vacuum energy here.
+- [01:04:18,820 - 01:04:20,820] As I said, it's very complicated.
+- [01:04:20,820 - 01:04:22,820] I'm not going to try even to...
+- [01:04:22,820 - 01:04:24,820] I'm not even sure I understand it.
+- [01:04:24,820 - 01:04:25,820] Um...
+- [01:04:25,820 - 01:04:26,820] But...
+- [01:04:28,820 - 01:04:32,820] A bad situation is rescued by coupling
+- [01:04:32,820 - 01:04:34,820] the supersymmetric field theory
+- [01:04:34,820 - 01:04:36,820] to what's called supergravity.
+- [01:04:36,820 - 01:04:38,820] Hard stuff.
+- [01:04:38,820 - 01:04:40,820] The other thing is a little easier to understand,
+- [01:04:40,820 - 01:04:42,820] but not easy to understand,
+- [01:04:42,820 - 01:04:44,820] but still easier to understand.
+- [01:04:44,820 - 01:04:47,820] It has to do with this...
+- [01:04:47,820 - 01:04:51,820] It's related to the Higgs phenomena.
+- [01:04:51,820 - 01:04:53,820] And the Higgs phenomena had the property
+- [01:04:53,820 - 01:04:56,820] that it took the Goldstone boson
+- [01:04:56,820 - 01:04:57,820] and combined it together
+- [01:04:57,820 - 01:04:59,820] with the gauge boson
+- [01:04:59,820 - 01:05:02,820] and made the gauge boson massive.
+- [01:05:02,820 - 01:05:05,820] So, let me just say a few words about that.
+- [01:05:05,820 - 01:05:08,820] This is something that's a little bit easier to understand.
+- [01:05:08,820 - 01:05:10,820] Um...
+- [01:05:10,820 - 01:05:13,820] If you have a particle of spin j,
+- [01:05:13,820 - 01:05:14,820] or spin...
+- [01:05:14,820 - 01:05:16,820] Yeah, let's say spin j.
+- [01:05:16,820 - 01:05:18,820] How many states does it have?
+- [01:05:18,820 - 01:05:20,820] Well, the answer is 2j plus 1.
+- [01:05:20,820 - 01:05:22,820] How many spin states?
+- [01:05:22,820 - 01:05:23,820] 2j plus 1.
+- [01:05:23,820 - 01:05:25,820] So, for example,
+- [01:05:25,820 - 01:05:27,820] if the spin of a particle is 1,
+- [01:05:27,820 - 01:05:29,820] the photon has spin 1.
+- [01:05:29,820 - 01:05:31,820] Any gauge boson has spin 1,
+- [01:05:31,820 - 01:05:33,820] then it has 3 states, right?
+- [01:05:33,820 - 01:05:35,820] 2j plus 1 is 3 states.
+- [01:05:35,820 - 01:05:37,820] And so forth and so on,
+- [01:05:37,820 - 01:05:39,820] depending on the spin of the particle.
+- [01:05:39,820 - 01:05:43,820] Now, a photon only has 2 spin states.
+- [01:05:43,820 - 01:05:47,820] And that's connected with the fact that it's massless.
+- [01:05:47,820 - 01:05:49,820] So, let's say some things about
+- [01:05:49,820 - 01:05:52,820] particle masses and spins and so forth.
+- [01:05:52,820 - 01:05:55,820] Um...
+- [01:05:55,820 - 01:05:57,820] Supposing I told you,
+- [01:05:57,820 - 01:05:59,820] that...
+- [01:05:59,820 - 01:06:00,820] Let's not take an election...
+- [01:06:00,820 - 01:06:01,820] Yeah, let's, uh...
+- [01:06:01,820 - 01:06:02,820] Let's...
+- [01:06:02,820 - 01:06:04,820] Let's suppose the photon were massive.
+- [01:06:04,820 - 01:06:06,820] Let's suppose the photon were massive.
+- [01:06:06,820 - 01:06:09,820] And I told you it only has 2 spin states.
+- [01:06:09,820 - 01:06:13,820] Namely, spin along its direction of motion
+- [01:06:13,820 - 01:06:16,820] as a spin vector pointing along the direction of motion,
+- [01:06:16,820 - 01:06:19,320] or the spin vector pointing
+- [01:06:19,320 - 01:06:21,820] opposite to the direction of motion.
+- [01:06:21,820 - 01:06:25,820] It has spin 1, but only 2 states.
+- [01:06:25,820 - 01:06:26,820] Okay?
+- [01:06:26,820 - 01:06:28,820] If the...
+- [01:06:28,820 - 01:06:29,820] Um...
+- [01:06:29,820 - 01:06:31,820] Let's see...
+- [01:06:31,820 - 01:06:34,820] I don't know why I want to say this.
+- [01:06:34,820 - 01:06:35,820] Yeah.
+- [01:06:35,820 - 01:06:37,820] Then you would tell me
+- [01:06:37,820 - 01:06:39,820] there's something inconsistent about this.
+- [01:06:39,820 - 01:06:42,820] You would say, if the photon has a mass,
+- [01:06:42,820 - 01:06:44,820] you can Lorentz transform it,
+- [01:06:44,820 - 01:06:47,820] or equivalently run along and keep up with the photon
+- [01:06:47,820 - 01:06:49,820] so that it has no momentum,
+- [01:06:49,820 - 01:06:51,820] but a spin.
+- [01:06:51,820 - 01:06:53,320] Lorentz transforming it doesn't change
+- [01:06:53,320 - 01:06:54,820] the fact that it's a spin.
+- [01:06:54,820 - 01:06:57,820] So, let's take this spin state here,
+- [01:06:57,820 - 01:06:59,820] and Lorentz transform it
+- [01:06:59,820 - 01:07:02,820] so that we're moving up along with it.
+- [01:07:02,820 - 01:07:05,820] The photon no longer has any momentum,
+- [01:07:05,820 - 01:07:07,820] but it has a spin.
+- [01:07:07,820 - 01:07:10,820] And now, Lorentz transform it in an opposite...
+- [01:07:10,820 - 01:07:11,820] in this direction here.
+- [01:07:11,820 - 01:07:13,820] What have we made?
+- [01:07:13,820 - 01:07:16,320] We've made a photon whose spin
+- [01:07:16,320 - 01:07:18,820] is not along its direction of motion.
+- [01:07:18,820 - 01:07:19,820] Okay?
+- [01:07:19,820 - 01:07:21,820] All right, so we brought it to rest,
+- [01:07:21,820 - 01:07:23,820] and now we're going to run along its direction.
+- [01:07:23,820 - 01:07:25,820] All right, so we brought it to rest,
+- [01:07:25,820 - 01:07:28,820] and then transformed it in some other direction.
+- [01:07:28,820 - 01:07:31,820] So therefore, if a photon is massive,
+- [01:07:31,820 - 01:07:35,820] it has to have all three spin states.
+- [01:07:35,820 - 01:07:37,820] It has to have spin along its axis,
+- [01:07:37,820 - 01:07:39,820] spin opposite to its axis,
+- [01:07:39,820 - 01:07:44,820] and the third spin state also.
+- [01:07:44,820 - 01:07:46,820] On the other hand,
+- [01:07:46,820 - 01:07:49,820] if the photon is massive, massless,
+- [01:07:49,820 - 01:07:51,820] you can't bring it to rest.
+- [01:07:51,820 - 01:07:52,820] You can't bring it to rest.
+- [01:07:52,820 - 01:07:53,820] You can't do this opposite thing.
+- [01:07:53,820 - 01:07:55,820] You can't do this opposite operation.
+- [01:07:55,820 - 01:07:57,320] All you can do is rotate
+- [01:07:57,320 - 01:07:58,820] the entire state of the photon
+- [01:07:58,820 - 01:08:00,820] without bringing it to rest,
+- [01:08:00,820 - 01:08:03,320] and all that does is simultaneously
+- [01:08:03,320 - 01:08:05,820] rotate the momentum and the spin.
+- [01:08:05,820 - 01:08:07,820] So if the spin was initially along
+- [01:08:07,820 - 01:08:09,820] the axis of the motion of the photon,
+- [01:08:09,820 - 01:08:11,820] it will stay that way.
+- [01:08:11,820 - 01:08:14,820] The upshot is massless particles,
+- [01:08:14,820 - 01:08:16,819] or massless photon, for example,
+- [01:08:16,819 - 01:08:21,819] can have and does have only the two spin states
+- [01:08:21,819 - 01:08:22,819] along its axis
+- [01:08:22,819 - 01:08:24,819] and opposite to its axis.
+- [01:08:24,819 - 01:08:27,819] How does the gauge bosons,
+- [01:08:27,819 - 01:08:30,819] how do the gauge bosons of the electroweak theory
+- [01:08:30,819 - 01:08:33,819] get another component of spin?
+- [01:08:33,819 - 01:08:36,819] It would be the component of spin
+- [01:08:36,819 - 01:08:38,819] along the direction of motion
+- [01:08:38,819 - 01:08:42,819] where the spin along the direction of motion was zero.
+- [01:08:42,819 - 01:08:46,819] Plus one, minus one,
+- [01:08:46,819 - 01:08:50,819] and no spin along the z-axis at all altogether.
+- [01:08:50,819 - 01:08:51,819] Where does that extra component
+- [01:08:51,819 - 01:08:53,819] of the spin come from
+- [01:08:53,819 - 01:08:55,819] so that the photon,
+- [01:08:55,819 - 01:08:57,819] or not the photon,
+- [01:08:57,819 - 01:08:59,819] but let's say the z-boson
+- [01:08:59,819 - 01:09:01,819] or the w-boson can be massive?
+- [01:09:01,819 - 01:09:02,819] Where does it come from?
+- [01:09:02,819 - 01:09:05,819] And it comes from the goldstone boson.
+- [01:09:05,819 - 01:09:07,819] The goldstone boson,
+- [01:09:07,819 - 01:09:13,819] together with the two polarization states,
+- [01:09:13,819 - 01:09:16,819] the two spin states of the massless z and w,
+- [01:09:16,819 - 01:09:18,819] combine together
+- [01:09:18,819 - 01:09:20,819] and make enough states to be the massive,
+- [01:09:20,819 - 01:09:22,819] the massive z and w,
+- [01:09:22,819 - 01:09:25,819] which requires three states.
+- [01:09:25,819 - 01:09:29,819] The same exact thing happens
+- [01:09:29,819 - 01:09:32,819] when you combine two particles
+- [01:09:32,819 - 01:09:34,819] from a supersymmetric theory.
+- [01:09:34,819 - 01:09:36,819] The two particles are, first of all,
+- [01:09:36,819 - 01:09:39,819] the massless gravitino,
+- [01:09:39,819 - 01:09:40,819] sorry, the massless,
+- [01:09:40,819 - 01:09:41,819] yeah, the massless,
+- [01:09:41,819 - 01:09:43,819] sorry, I didn't have,
+- [01:09:43,819 - 01:09:44,819] let's get,
+- [01:09:44,819 - 01:09:46,819] the massless goldstino.
+- [01:09:46,819 - 01:09:47,819] The massless goldstino,
+- [01:09:47,819 - 01:09:48,819] where is it?
+- [01:09:48,819 - 01:09:49,819] Goldstino, come out,
+- [01:09:49,819 - 01:09:51,819] where are you?
+- [01:09:51,819 - 01:09:52,819] Well,
+- [01:09:52,819 - 01:09:54,820] some other board.
+- [01:09:54,820 - 01:09:55,820] All right.
+- [01:09:55,820 - 01:09:56,820] The massless goldstino
+- [01:09:56,820 - 01:09:59,820] has two spin states like the electron,
+- [01:09:59,820 - 01:10:01,820] exactly like the electron,
+- [01:10:01,820 - 01:10:03,820] and the massless goldstino
+- [01:10:03,820 - 01:10:05,820] can either have its spin
+- [01:10:05,820 - 01:10:08,820] along the axis of motion
+- [01:10:08,820 - 01:10:11,820] or opposite to the axis of motion.
+- [01:10:11,820 - 01:10:12,820] There's another particle,
+- [01:10:12,820 - 01:10:15,820] which is the supersymmetric particle,
+- [01:10:15,820 - 01:10:18,820] partner of the graviton.
+- [01:10:18,820 - 01:10:19,820] We haven't even talked about gravitons,
+- [01:10:19,820 - 01:10:20,820] but you all know they exist,
+- [01:10:20,820 - 01:10:21,820] or they have to exist,
+- [01:10:21,820 - 01:10:24,820] in a gravitational theory.
+- [01:10:24,820 - 01:10:28,820] So what's the spin of the graviton?
+- [01:10:28,820 - 01:10:32,820] Two, spin two, right.
+- [01:10:32,820 - 01:10:34,820] The spin of its partner
+- [01:10:34,820 - 01:10:37,820] is not a half-spin particle,
+- [01:10:37,820 - 01:10:41,820] it's a spin three-halves particle.
+- [01:10:41,820 - 01:10:43,820] Spin two and spin three-halves
+- [01:10:43,820 - 01:10:45,820] form a multiplet.
+- [01:10:45,820 - 01:10:46,820] It's also massless
+- [01:10:46,820 - 01:10:47,820] because it's a partner
+- [01:10:47,820 - 01:10:49,820] of the graviton.
+- [01:10:49,820 - 01:10:53,820] So we have two kinds of massless,
+- [01:10:53,820 - 01:10:55,820] and it's a fermion.
+- [01:10:55,820 - 01:10:56,820] So we have two kinds
+- [01:10:56,820 - 01:10:58,820] of massless fermions.
+- [01:10:58,820 - 01:11:00,820] They're distinct and they're different.
+- [01:11:00,820 - 01:11:01,820] One is the gravitino,
+- [01:11:01,820 - 01:11:04,820] which, if it's moving along this axis,
+- [01:11:04,820 - 01:11:06,820] can have spin three-halves
+- [01:11:06,820 - 01:11:08,820] along that axis
+- [01:11:08,820 - 01:11:10,820] or spin minus three-halves
+- [01:11:10,820 - 01:11:13,820] along that axis.
+- [01:11:13,820 - 01:11:15,820] But if it were massive,
+- [01:11:15,820 - 01:11:16,820] it would also have to have
+- [01:11:16,820 - 01:11:19,820] two other spin states,
+- [01:11:19,820 - 01:11:23,820] spin one-half and spin minus one-half.
+- [01:11:23,820 - 01:11:24,820] It would have to have the rest
+- [01:11:24,820 - 01:11:27,820] of the full spin multiplet.
+- [01:11:27,820 - 01:11:29,820] It would have to have spin minus three-halves,
+- [01:11:29,820 - 01:11:31,820] minus one-half, plus one-half,
+- [01:11:31,820 - 01:11:33,820] and spin three-halves.
+- [01:11:33,820 - 01:11:35,820] Where does, where can
+- [01:11:35,820 - 01:11:37,820] those other two components come from?
+- [01:11:37,820 - 01:11:40,820] They can come from the Goldstino.
+- [01:11:40,820 - 01:11:43,820] So the Goldstino combines together
+- [01:11:43,820 - 01:11:44,820] with the graviton
+- [01:11:44,820 - 01:11:46,820] in exactly the same pattern
+- [01:11:46,820 - 01:11:48,820] as the Goldstone boson
+- [01:11:48,820 - 01:11:49,820] can combine together
+- [01:11:49,820 - 01:11:50,820] with a gauge boson
+- [01:11:50,820 - 01:11:52,820] to make a massive object.
+- [01:11:52,820 - 01:11:55,820] That's believed to be the case.
+- [01:11:55,820 - 01:11:56,820] Of course, nobody knows
+- [01:11:56,820 - 01:11:57,820] that this theory is right,
+- [01:11:57,820 - 01:11:59,820] but if it is right,
+- [01:11:59,820 - 01:12:00,820] there will be a massive
+- [01:12:00,820 - 01:12:02,820] spin three-halves particle,
+- [01:12:02,820 - 01:12:04,820] something we have never seen,
+- [01:12:04,820 - 01:12:05,820] an elementary particle
+- [01:12:05,820 - 01:12:08,820] of spin three-halves.
+- [01:12:08,820 - 01:12:09,820] There will be a massive
+- [01:12:09,820 - 01:12:11,820] spin three-halves particle,
+- [01:12:11,820 - 01:12:13,820] but it will be as hard
+- [01:12:13,820 - 01:12:15,820] to produce in the laboratory
+- [01:12:15,820 - 01:12:18,820] as it is to produce a graviton.
+- [01:12:18,820 - 01:12:20,820] It will be no easier,
+- [01:12:20,820 - 01:12:23,820] which means you're not going to see it.
+- [01:12:23,820 - 01:12:28,820] That's supersymmetry.
+- [01:12:28,820 - 01:12:30,820] I'm sure it's more than you thought
+- [01:12:30,820 - 01:12:32,820] you wanted to know about it.
+- [01:12:32,820 - 01:12:34,820] Believe me, it's more than
+- [01:12:34,820 - 01:12:36,820] I want to know about it,
+- [01:12:36,820 - 01:12:38,820] but I have to know about it
+- [01:12:38,820 - 01:12:40,820] because I'm required to.
+- [01:12:40,820 - 01:12:42,820] It's part of my contract with Stanford.
+- [01:12:42,820 - 01:12:44,820] And, uh,
+- [01:12:45,820 - 01:12:46,820] I'm not going to tell you
+- [01:12:46,820 - 01:12:48,820] what it is.
+- [01:12:48,820 - 01:12:50,820] I'm going to tell you
+- [01:12:50,820 - 01:12:52,820] what it is.
+- [01:12:52,820 - 01:12:54,820] Um,
+- [01:12:54,820 - 01:12:56,820] we're absolutely finished
+- [01:12:56,820 - 01:12:57,820] with the mathematics
+- [01:12:57,820 - 01:12:59,820] of supersymmetry now.
+- [01:12:59,820 - 01:13:00,820] We'll come back to some
+- [01:13:00,820 - 01:13:01,820] of the physics of it,
+- [01:13:01,820 - 01:13:03,820] but not the mathematics of it.
+- [01:13:03,820 - 01:13:06,820] So, that's the good news.
+- [01:13:06,820 - 01:13:08,820] Unfortunately, the bad news
+- [01:13:08,820 - 01:13:09,820] is that grand unification
+- [01:13:09,820 - 01:13:11,820] also is a somewhat
+- [01:13:11,820 - 01:13:12,820] mathematical subject.
+- [01:13:12,820 - 01:13:13,820] Not as bad,
+- [01:13:13,820 - 01:13:15,820] not nearly as abstract.
+- [01:13:15,820 - 01:13:17,820] It's a little bit of group theory.
+- [01:13:19,820 - 01:13:21,820] Maybe we should take a
+- [01:13:21,820 - 01:13:23,820] seven minute break.
+- [01:13:25,820 - 01:13:27,820] And then we're going to change subjects.
+- [01:13:27,820 - 01:13:29,820] We're going to change subjects
+- [01:13:29,820 - 01:13:31,820] to something much easier to understand.
+- [01:13:31,820 - 01:13:33,820] Uh,
+- [01:13:33,820 - 01:13:35,820] SU .
+- [01:13:35,820 - 01:13:37,820] SU is a simple theory,
+- [01:13:37,820 - 01:13:39,820] not too hard to understand.
+- [01:13:41,820 - 01:13:43,820] So, I heard now that this, um,
+- [01:13:43,820 - 01:13:45,820] story about Cp-violet
+- [01:13:45,820 - 01:13:47,820] is a little bit more complex.
+- [01:13:47,820 - 01:13:49,820] But, uh,
+- [01:13:49,820 - 01:13:51,820] I'm not going to go into
+- [01:13:51,820 - 01:13:53,820] too much detail about it.
+- [01:13:53,820 - 01:13:55,820] But, uh,
+- [01:13:55,820 - 01:13:57,820] we're going to talk about
+- [01:13:57,820 - 01:13:59,820] the whole thing.
+- [01:13:59,820 - 01:14:01,820] And, uh,
+- [01:14:01,820 - 01:14:03,820] we're going to talk about
+- [01:14:03,820 - 01:14:05,820] the whole thing.
+- [01:14:05,820 - 01:14:07,820] And, uh,
+- [01:14:07,820 - 01:14:09,820] we're going to talk about
+- [01:14:09,820 - 01:14:11,820] the whole thing.
+- [01:14:11,820 - 01:14:13,820] And, uh,
+- [01:14:13,820 - 01:14:15,820] in this business,
+- [01:14:15,820 - 01:14:17,820] I mean, you know,
+- [01:14:17,820 - 01:14:19,820] very rarely will you be wrong.
+- [01:14:19,820 - 01:14:21,820] Of course, those times you'll really be wrong.
+- [01:14:21,820 - 01:14:23,820] But, uh,
+- [01:14:25,820 - 01:14:27,820] Alright, so,
+- [01:14:27,820 - 01:14:29,820] um,
+- [01:14:29,820 - 01:14:31,820] the standard model
+- [01:14:31,820 - 01:14:33,820] is based on
+- [01:14:33,820 - 01:14:35,820] some group theory.
+- [01:14:35,820 - 01:14:37,820] SU cross
+- [01:14:37,820 - 01:14:39,820] SU cross
+- [01:14:39,820 - 01:14:41,820] SU is the group of
+- [01:14:41,820 - 01:14:43,820] color, of quartz,
+- [01:14:43,820 - 01:14:45,820] SU2 is the
+- [01:14:45,820 - 01:14:47,820] weak interactions,
+- [01:14:47,820 - 01:14:49,820] and U1
+- [01:14:49,820 - 01:14:51,820] is closely
+- [01:14:51,820 - 01:14:53,820] related to the electromagnetic
+- [01:14:53,820 - 01:14:54,820] interactions in a way that
+- [01:14:54,820 - 01:14:55,820] I'll be a little more precise
+- [01:14:55,820 - 01:14:57,820] about today than I was last
+- [01:14:57,820 - 01:14:59,820] time.
+- [01:14:59,820 - 01:15:01,820] Um, SU3
+- [01:15:01,820 - 01:15:03,820] cross SU2 cross U1 is a group.
+- [01:15:03,820 - 01:15:05,820] It's a group that consists
+- [01:15:05,820 - 01:15:07,820] of separate
+- [01:15:07,820 - 01:15:09,820] transformations
+- [01:15:09,820 - 01:15:11,820] of
+- [01:15:11,820 - 01:15:13,820] three things, two things,
+- [01:15:13,820 - 01:15:15,820] or one thing.
+- [01:15:15,820 - 01:15:17,820] But
+- [01:15:17,820 - 01:15:19,820] people have
+- [01:15:19,820 - 01:15:21,820] wondered
+- [01:15:21,820 - 01:15:23,820] whether the whole
+- [01:15:23,820 - 01:15:25,820] structure
+- [01:15:25,820 - 01:15:27,820] could be embedded in
+- [01:15:27,820 - 01:15:29,820] some group which is
+- [01:15:29,820 - 01:15:31,820] more symmetric and more
+- [01:15:31,820 - 01:15:33,820] simple than SU3
+- [01:15:33,820 - 01:15:35,820] cross SU2 cross U1.
+- [01:15:37,820 - 01:15:39,820] SU3 cross SU2 cross U1
+- [01:15:39,820 - 01:15:41,820] fits in very
+- [01:15:41,820 - 01:15:43,820] nicely into the group SU5.
+- [01:15:43,820 - 01:15:47,820] And so
+- [01:15:47,820 - 01:15:49,820] it was
+- [01:15:49,820 - 01:15:51,820] asked whether,
+- [01:15:51,820 - 01:15:53,820] numerous people
+- [01:15:53,820 - 01:15:55,820] asked,
+- [01:15:55,820 - 01:15:57,820] a small number of people answered,
+- [01:15:57,820 - 01:15:59,820] whether it was possible
+- [01:15:59,820 - 01:16:01,820] that there might be some
+- [01:16:01,820 - 01:16:03,820] bigger group
+- [01:16:03,820 - 01:16:05,820] in which a
+- [01:16:05,820 - 01:16:07,820] larger number of particles,
+- [01:16:07,820 - 01:16:09,820] okay, let's, let's, uh,
+- [01:16:09,820 - 01:16:11,820] in which a larger number of particles
+- [01:16:11,820 - 01:16:13,820] would fit together
+- [01:16:13,820 - 01:16:15,820] into a single multiplet.
+- [01:16:15,820 - 01:16:17,820] Remember that
+- [01:16:17,820 - 01:16:19,820] the SU3 multiplets
+- [01:16:19,820 - 01:16:21,820] consist of the quarks.
+- [01:16:21,820 - 01:16:23,820] The SU2 multiplets,
+- [01:16:23,820 - 01:16:25,820] well, quarks have some SU2
+- [01:16:25,820 - 01:16:27,820] but they also have some SU3
+- [01:16:27,820 - 01:16:29,820] and, uh,
+- [01:16:31,820 - 01:16:33,820] there are also leptons.
+- [01:16:33,820 - 01:16:35,820] Leptons have SU2 but they don't
+- [01:16:35,820 - 01:16:37,820] have SU3. The question is
+- [01:16:37,820 - 01:16:39,820] might they all fit together in something
+- [01:16:39,820 - 01:16:41,820] more symmetric
+- [01:16:41,820 - 01:16:43,820] and bigger
+- [01:16:43,820 - 01:16:45,820] than the other?
+- [01:16:45,820 - 01:16:47,820] And the natural candidate is SU5
+- [01:16:47,820 - 01:16:49,820] and the reason is because SU3 cross,
+- [01:16:49,820 - 01:16:51,820] SU5 is the simplest group,
+- [01:16:51,820 - 01:16:53,820] the smallest group,
+- [01:16:53,820 - 01:16:55,820] that contains SU3 cross SU2
+- [01:16:55,820 - 01:16:57,820] cross U1 as a subgroup.
+- [01:16:57,820 - 01:16:59,820] So, I need to explain to you
+- [01:16:59,820 - 01:17:01,820] a little bit about what that means.
+- [01:17:03,820 - 01:17:05,820] And the easiest
+- [01:17:05,820 - 01:17:07,820] way to explain it is in terms of
+- [01:17:07,820 - 01:17:09,820] the generators of groups.
+- [01:17:09,820 - 01:17:11,820] SU5 is just
+- [01:17:11,820 - 01:17:13,820] the group of special
+- [01:17:13,820 - 01:17:15,820] unitary 5 by 5 matrices.
+- [01:17:15,820 - 01:17:17,820] Let me just remind you what
+- [01:17:17,820 - 01:17:19,820] special means and what unitary means.
+- [01:17:19,820 - 01:17:21,820] You know what unitary means. Unitary means
+- [01:17:21,820 - 01:17:23,820] that U dagger U is equal to 1.
+- [01:17:31,820 - 01:17:33,820] And
+- [01:17:33,820 - 01:17:35,820] special means that the determinant
+- [01:17:35,820 - 01:17:37,820] of U is equal to 1.
+- [01:17:37,820 - 01:17:39,820] This doesn't mean absolute value, it means determinant.
+- [01:17:39,820 - 01:17:41,820] Determinant of U
+- [01:17:41,820 - 01:17:43,820] or the product of the eigenvalues
+- [01:17:43,820 - 01:17:45,820] determinant of U
+- [01:17:45,820 - 01:17:47,820] is equal to 1.
+- [01:17:47,820 - 01:17:49,820] In general, a unitary group
+- [01:17:49,820 - 01:17:51,820] can have a determinant which is a
+- [01:17:51,820 - 01:17:53,820] phase, E to the i theta.
+- [01:17:53,820 - 01:17:55,820] The special set
+- [01:17:55,820 - 01:17:57,820] is the set which has determinant
+- [01:17:57,820 - 01:17:59,820] U equal to 1. This can be
+- [01:17:59,820 - 01:18:01,820] translated into the generators
+- [01:18:01,820 - 01:18:03,820] of the group. Remember what the generators
+- [01:18:03,820 - 01:18:05,820] mean? It means that
+- [01:18:05,820 - 01:18:07,820] small deviate
+- [01:18:07,820 - 01:18:09,820] group elements which are small deviations
+- [01:18:09,820 - 01:18:11,820] away from the identity, this is the
+- [01:18:11,820 - 01:18:13,820] identity element.
+- [01:18:13,820 - 01:18:15,820] This means the number 1.
+- [01:18:15,820 - 01:18:17,820] The
+- [01:18:17,820 - 01:18:19,820] small deviations away from the
+- [01:18:19,820 - 01:18:21,820] identity element, small infinitesimal
+- [01:18:21,820 - 01:18:23,820] transformations
+- [01:18:23,820 - 01:18:25,820] can be written in the form of
+- [01:18:25,820 - 01:18:27,820] 1, that's the identity,
+- [01:18:27,820 - 01:18:29,820] plus
+- [01:18:29,820 - 01:18:31,820] i times
+- [01:18:31,820 - 01:18:33,820] a small number
+- [01:18:33,820 - 01:18:35,820] times one of the
+- [01:18:35,820 - 01:18:37,820] generators of the group. The
+- [01:18:37,820 - 01:18:39,820] generators of the group correspond to
+- [01:18:39,820 - 01:18:41,820] the different directions
+- [01:18:41,820 - 01:18:43,820] about which the different independent
+- [01:18:43,820 - 01:18:45,820] directions of
+- [01:18:45,820 - 01:18:47,820] transformation that you can do. In the case
+- [01:18:47,820 - 01:18:49,820] of angular momentum, what would be the 3 axes?
+- [01:18:49,820 - 01:18:51,820] In the case of
+- [01:18:51,820 - 01:18:53,820] SU5, there's some
+- [01:18:53,820 - 01:18:55,820] independent set of generators.
+- [01:18:55,820 - 01:18:57,820] How many generators are there for,
+- [01:18:57,820 - 01:18:59,820] how many independent, linearly
+- [01:18:59,820 - 01:19:01,820] independent generators there are?
+- [01:19:01,820 - 01:19:03,820] We'll work that out
+- [01:19:03,820 - 01:19:04,820] in a minute, but the
+- [01:19:04,820 - 01:19:05,820] answer turns out to be 8.
+- [01:19:05,820 - 01:19:07,820] I think we've talked about that before.
+- [01:19:07,820 - 01:19:09,820] And
+- [01:19:09,820 - 01:19:11,820] so,
+- [01:19:11,820 - 01:19:13,820] you characterize the group by
+- [01:19:13,820 - 01:19:15,820] the generators and the commutation relations
+- [01:19:15,820 - 01:19:17,820] among the generators. But,
+- [01:19:17,820 - 01:19:19,820] before we do that,
+- [01:19:19,820 - 01:19:21,820] the unitary character
+- [01:19:21,820 - 01:19:23,820] of the
+- [01:19:23,820 - 01:19:25,820] group elements
+- [01:19:25,820 - 01:19:27,820] translates
+- [01:19:27,820 - 01:19:29,820] into the Hermitian character of G.
+- [01:19:29,820 - 01:19:31,820] So G
+- [01:19:31,820 - 01:19:33,820] is equal to G dagger.
+- [01:19:35,820 - 01:19:37,820] That's an abstract group statement,
+- [01:19:37,820 - 01:19:39,820] but it's also a concrete statement
+- [01:19:39,820 - 01:19:41,820] about 5 by 5, well,
+- [01:19:41,820 - 01:19:43,820] N by N matrices.
+- [01:19:43,820 - 01:19:45,820] We might as well now specialize to 5 by 5
+- [01:19:45,820 - 01:19:47,820] matrices, but everything I say here is also
+- [01:19:47,820 - 01:19:49,820] true for N by N matrices.
+- [01:19:49,820 - 01:19:51,820] For group SU5,
+- [01:19:51,820 - 01:19:53,820] the generators, the 5 by 5
+- [01:19:53,820 - 01:19:55,820] all matrices
+- [01:19:55,820 - 01:19:57,820] are 5 by 5 matrices,
+- [01:19:57,820 - 01:19:59,820] and the generators, first of all,
+- [01:19:59,820 - 01:20:01,820] have to be Hermitian,
+- [01:20:01,820 - 01:20:03,820] and secondly,
+- [01:20:03,820 - 01:20:05,820] the
+- [01:20:05,820 - 01:20:07,820] determinant condition
+- [01:20:07,820 - 01:20:09,820] is the condition that the trace of G
+- [01:20:09,820 - 01:20:11,820] is equal to 0.
+- [01:20:11,820 - 01:20:13,820] Traceless
+- [01:20:13,820 - 01:20:15,820] Hermitian
+- [01:20:15,820 - 01:20:17,820] matrices. Now this is
+- [01:20:17,820 - 01:20:19,820] analogous to the Pauli matrices
+- [01:20:19,820 - 01:20:21,820] for SU2.
+- [01:20:21,820 - 01:20:23,820] The Pauli matrices for
+- [01:20:23,820 - 01:20:25,820] SU2 are Hermitian, and they have
+- [01:20:25,820 - 01:20:27,820] no trace. They're traceless.
+- [01:20:27,820 - 01:20:29,820] So the Pauli matrices would be a
+- [01:20:29,820 - 01:20:31,820] special case.
+- [01:20:35,820 - 01:20:37,820] Let's see if we can count how many
+- [01:20:37,820 - 01:20:39,820] such independent matrices
+- [01:20:39,820 - 01:20:41,820] there are.
+- [01:20:41,820 - 01:20:43,820] 5 by 5, linearly independent.
+- [01:20:45,820 - 01:20:47,820] Well, the 5 by 5 matrices,
+- [01:20:49,820 - 01:20:51,820] they're Hermitian. That means
+- [01:20:51,820 - 01:20:53,820] that the
+- [01:20:53,820 - 01:20:55,820] on-diagonal elements are real,
+- [01:20:55,820 - 01:20:57,820] and the off-diagonal
+- [01:20:57,820 - 01:20:59,820] elements, these are real.
+- [01:20:59,820 - 01:21:01,820] Real, real,
+- [01:21:01,820 - 01:21:03,820] real. The on-diagonal
+- [01:21:03,820 - 01:21:05,820] elements, off-diagonal elements are
+- [01:21:05,820 - 01:21:07,820] complex in general, but
+- [01:21:07,820 - 01:21:09,820] when you
+- [01:21:09,820 - 01:21:11,820] reflect them about the axis,
+- [01:21:11,820 - 01:21:13,820] they just complex conjugate, and
+- [01:21:13,820 - 01:21:15,820] that's the character of a Hermitian matrix.
+- [01:21:15,820 - 01:21:17,820] So the question is
+- [01:21:17,820 - 01:21:19,820] how many parameters are there,
+- [01:21:19,820 - 01:21:21,820] how many real parameters,
+- [01:21:21,820 - 01:21:23,820] real, independent real parameters
+- [01:21:23,820 - 01:21:25,820] are there in such a matrix?
+- [01:21:25,820 - 01:21:27,820] Well, you start off
+- [01:21:27,820 - 01:21:29,820] with the
+- [01:21:29,820 - 01:21:31,820] total number of them,
+- [01:21:31,820 - 01:21:33,820] n by n,
+- [01:21:33,820 - 01:21:35,820] that's n squared.
+- [01:21:39,820 - 01:21:41,820] It looks like there's some
+- [01:21:41,820 - 01:21:43,820] constraints,
+- [01:21:43,820 - 01:21:45,820] c is equal to c dagger.
+- [01:21:45,820 - 01:21:47,820] However, that sounds like it cuts the
+- [01:21:47,820 - 01:21:49,820] number of components in half,
+- [01:21:49,820 - 01:21:51,820] but not really, because a complex
+- [01:21:51,820 - 01:21:53,820] number has a real and imaginary
+- [01:21:53,820 - 01:21:55,820] part. So this is
+- [01:21:55,820 - 01:21:57,820] two independent components,
+- [01:21:57,820 - 01:21:59,820] or two independent real numbers,
+- [01:21:59,820 - 01:22:01,820] and these two together
+- [01:22:01,820 - 01:22:03,820] are simply two independent real numbers,
+- [01:22:03,820 - 01:22:05,820] just as they look. So the number
+- [01:22:05,820 - 01:22:07,820] of independent components
+- [01:22:07,820 - 01:22:09,820] of a square Hermitian
+- [01:22:09,820 - 01:22:11,820] matrix like this is n squared.
+- [01:22:11,820 - 01:22:13,820] But then we have to subtract
+- [01:22:13,820 - 01:22:15,820] one for the trace condition.
+- [01:22:15,820 - 01:22:17,820] The trace condition is the
+- [01:22:17,820 - 01:22:19,820] sum of the diagonal elements
+- [01:22:19,820 - 01:22:21,820] add up to zero, and so
+- [01:22:21,820 - 01:22:23,820] the answer is there are n squared minus
+- [01:22:23,820 - 01:22:25,820] one generators
+- [01:22:25,820 - 01:22:27,820] of the group
+- [01:22:27,820 - 01:22:29,820] s, u, n. Let's just check that
+- [01:22:29,820 - 01:22:31,820] for the
+- [01:22:31,820 - 01:22:33,820] one case that we know. For s, u, two
+- [01:22:33,820 - 01:22:35,820] n squared minus one would be
+- [01:22:35,820 - 01:22:37,820] two squared minus one would be three,
+- [01:22:37,820 - 01:22:39,820] and they would be the three Pauli matrices,
+- [01:22:39,820 - 01:22:41,820] or the three components of
+- [01:22:41,820 - 01:22:43,820] angular momentum would be an example,
+- [01:22:43,820 - 01:22:45,820] three components of spin.
+- [01:22:45,820 - 01:22:47,820] Okay, so for the case s, u, five
+- [01:22:47,820 - 01:22:49,820] there are twenty-four independent
+- [01:22:49,820 - 01:22:51,820] twenty-five minus one,
+- [01:22:51,820 - 01:22:53,820] twenty-four independent
+- [01:22:53,820 - 01:22:55,820] generators of the group.
+- [01:22:55,820 - 01:22:57,820] That's a lot, but fortunately
+- [01:22:57,820 - 01:22:59,820] we're not going to have to deal
+- [01:22:59,820 - 01:23:01,820] with most of them.
+- [01:23:01,820 - 01:23:03,820] The question is,
+- [01:23:03,820 - 01:23:05,820] which subset of them
+- [01:23:05,820 - 01:23:07,820] which subset of them
+- [01:23:07,820 - 01:23:09,820] correspond to the generators
+- [01:23:09,820 - 01:23:11,820] of the group?
+- [01:23:11,820 - 01:23:13,820] We have s, u, three, s, u, two,
+- [01:23:13,820 - 01:23:15,820] and u, one.
+- [01:23:15,820 - 01:23:17,820] This is not hard to figure out.
+- [01:23:27,820 - 01:23:29,820] You can divide
+- [01:23:29,820 - 01:23:31,820] the five by five matrices
+- [01:23:31,820 - 01:23:33,820] into
+- [01:23:33,820 - 01:23:35,820] rows and columns,
+- [01:23:35,820 - 01:23:37,820] two of them here
+- [01:23:37,820 - 01:23:39,820] and three of them here,
+- [01:23:39,820 - 01:23:41,820] two of them here and three of them here.
+- [01:23:41,820 - 01:23:43,820] The two here are for s, u, two.
+- [01:23:43,820 - 01:23:45,820] Okay?
+- [01:23:45,820 - 01:23:47,820] If you put up here in the corners
+- [01:23:47,820 - 01:23:49,820] the generators of s, u, two,
+- [01:23:49,820 - 01:23:51,820] the generators of s, u, two
+- [01:23:51,820 - 01:23:53,820] are three generators.
+- [01:23:53,820 - 01:23:55,820] What are they? They're the Pauli matrices.
+- [01:23:55,820 - 01:23:57,820] In the context of spin,
+- [01:23:57,820 - 01:23:59,820] the Pauli matrices are usually called
+- [01:23:59,820 - 01:24:01,820] sigma.
+- [01:24:01,820 - 01:24:03,820] In the context of internal symmetries,
+- [01:24:03,820 - 01:24:05,820] they're often called tau.
+- [01:24:05,820 - 01:24:07,820] Tau one, tau two, tau three,
+- [01:24:07,820 - 01:24:09,820] so I'll write them down over here.
+- [01:24:09,820 - 01:24:11,820] Tau three is just one minus one,
+- [01:24:11,820 - 01:24:13,820] zero, zero.
+- [01:24:13,820 - 01:24:15,820] Tau one is one, one,
+- [01:24:15,820 - 01:24:17,820] zero, zero.
+- [01:24:17,820 - 01:24:19,820] And tau two
+- [01:24:19,820 - 01:24:21,820] is minus i,
+- [01:24:21,820 - 01:24:23,820] i, zero, zero.
+- [01:24:23,820 - 01:24:25,820] Okay, those are the three Pauli matrices.
+- [01:24:25,820 - 01:24:27,820] And if you just stick in this corner
+- [01:24:27,820 - 01:24:29,820] the tau matrices,
+- [01:24:29,820 - 01:24:31,820] notice that they are traceless,
+- [01:24:31,820 - 01:24:33,820] they're already traceless,
+- [01:24:33,820 - 01:24:35,820] they are Hermitian,
+- [01:24:35,820 - 01:24:37,820] and you put zero everywhere else.
+- [01:24:37,820 - 01:24:39,820] These are the generators
+- [01:24:39,820 - 01:24:41,820] of s, u, two.
+- [01:24:41,820 - 01:24:43,820] These, the algebra of these,
+- [01:24:43,820 - 01:24:45,820] the commutation relations of them,
+- [01:24:45,820 - 01:24:47,820] everything about them
+- [01:24:47,820 - 01:24:49,820] is equivalent
+- [01:24:49,820 - 01:24:51,820] to the
+- [01:24:51,820 - 01:24:53,820] properties of the taus themselves.
+- [01:24:53,820 - 01:24:55,820] And so,
+- [01:24:55,820 - 01:24:57,820] among the five by five matrices,
+- [01:24:57,820 - 01:24:59,820] generators,
+- [01:24:59,820 - 01:25:01,820] the subset which just live in this corner
+- [01:25:01,820 - 01:25:03,820] over here
+- [01:25:03,820 - 01:25:05,820] are generators of
+- [01:25:05,820 - 01:25:07,820] the group s, u, two.
+- [01:25:07,820 - 01:25:09,820] Okay? The ones down here
+- [01:25:09,820 - 01:25:11,820] I won't write them down,
+- [01:25:11,820 - 01:25:13,820] there are eight of them.
+- [01:25:13,820 - 01:25:15,820] They're usually called lambda,
+- [01:25:15,820 - 01:25:17,820] has nothing to do with the cosmological constant,
+- [01:25:17,820 - 01:25:19,820] there are eight of them.
+- [01:25:19,820 - 01:25:21,820] Three by three, they're three by three
+- [01:25:21,820 - 01:25:23,820] Hermitian traceless matrices.
+- [01:25:23,820 - 01:25:25,820] Those are the generators of s, u, three.
+- [01:25:25,820 - 01:25:27,820] So,
+- [01:25:27,820 - 01:25:29,820] so to speak, s, u, two lives up in here,
+- [01:25:31,820 - 01:25:33,820] and s, u, three lives in here.
+- [01:25:33,820 - 01:25:35,820] Now the s, u, two
+- [01:25:35,820 - 01:25:37,820] and the s, u, three matrices
+- [01:25:37,820 - 01:25:39,820] by themselves are traceless.
+- [01:25:39,820 - 01:25:41,820] There's one
+- [01:25:41,820 - 01:25:43,820] additional generator
+- [01:25:43,820 - 01:25:45,820] which commutes
+- [01:25:45,820 - 01:25:47,820] with all of these,
+- [01:25:47,820 - 01:25:49,820] which commutes with all of them,
+- [01:25:49,820 - 01:25:51,820] and which describes the
+- [01:25:51,820 - 01:25:53,820] u, one
+- [01:25:53,820 - 01:25:55,820] properties of elementary particles.
+- [01:25:55,820 - 01:25:57,820] The u, one particle
+- [01:25:57,820 - 01:25:59,820] and that's a diagonal
+- [01:25:59,820 - 01:26:01,820] matrix which has zero
+- [01:26:01,820 - 01:26:03,820] trace.
+- [01:26:03,820 - 01:26:05,820] It commutes with s, u, two because it's
+- [01:26:05,820 - 01:26:07,820] proportional to the identity in here.
+- [01:26:07,820 - 01:26:09,820] Let's call it, let's see, what did I call it?
+- [01:26:09,820 - 01:26:11,820] Well, we could call it
+- [01:26:11,820 - 01:26:13,820] minus one,
+- [01:26:13,820 - 01:26:15,820] minus one,
+- [01:26:15,820 - 01:26:17,820] it doesn't matter,
+- [01:26:17,820 - 01:26:19,820] minus one or plus one doesn't matter.
+- [01:26:19,820 - 01:26:21,820] You just change the sign of it.
+- [01:26:21,820 - 01:26:23,820] That would just,
+- [01:26:23,820 - 01:26:25,820] it's a convention whether you put minus one
+- [01:26:25,820 - 01:26:27,820] or plus one in here.
+- [01:26:27,820 - 01:26:29,820] But it's proportional to the unit matrix
+- [01:26:29,820 - 01:26:31,820] of the unit matrix
+- [01:26:31,820 - 01:26:33,820] of the unit matrix
+- [01:26:33,820 - 01:26:35,820] of the unit matrix
+- [01:26:35,820 - 01:26:37,820] of the unit matrix
+- [01:26:37,820 - 01:26:39,820] of the unit matrix
+- [01:26:39,820 - 01:26:41,820] in the two dimensional
+- [01:26:41,820 - 01:26:43,820] sub,
+- [01:26:43,820 - 01:26:45,820] substructure here associated with
+- [01:26:45,820 - 01:26:47,820] two, so it's just the unit matrix
+- [01:26:47,820 - 01:26:49,820] with a minus sign in this case
+- [01:26:49,820 - 01:26:51,820] that I put in here
+- [01:26:51,820 - 01:26:53,820] for reasons
+- [01:26:53,820 - 01:26:55,820] that have to do with old conventions.
+- [01:26:55,820 - 01:26:57,820] And then in here
+- [01:26:57,820 - 01:26:59,820] you put, the whole
+- [01:26:59,820 - 01:27:01,820] thing has to be traceless, and I
+- [01:27:01,820 - 01:27:03,820] want to put something here which commutes
+- [01:27:03,820 - 01:27:05,820] with all the s, u, three generators,
+- [01:27:05,820 - 01:27:07,820] all the s, u, two generators.
+- [01:27:07,820 - 01:27:09,820] It has to be proportional to the unit matrix
+- [01:27:09,820 - 01:27:11,820] in here, and what do I need it to be?
+- [01:27:11,820 - 01:27:13,820] I need it to be, if this is one,
+- [01:27:13,820 - 01:27:15,820] so the trace of this is minus one,
+- [01:27:15,820 - 01:27:17,820] I want two thirds,
+- [01:27:17,820 - 01:27:19,820] two thirds,
+- [01:27:19,820 - 01:27:21,820] and two thirds.
+- [01:27:21,820 - 01:27:23,820] Zero everywhere else.
+- [01:27:29,820 - 01:27:31,820] This generator has a name,
+- [01:27:31,820 - 01:27:33,820] it's called y.
+- [01:27:35,820 - 01:27:37,820] It's a generator of s, u, five
+- [01:27:37,820 - 01:27:39,820] which distinctly
+- [01:27:39,820 - 01:27:41,820] distinguishes the s, u, two block
+- [01:27:41,820 - 01:27:43,820] from the s, u, three block.
+- [01:27:43,820 - 01:27:45,820] It has different values
+- [01:27:45,820 - 01:27:47,820] in the s, u, two block
+- [01:27:47,820 - 01:27:49,820] than it does in the s, u, three block.
+- [01:27:49,820 - 01:27:51,820] In the s, u, two block it has
+- [01:27:51,820 - 01:27:53,820] values minus one, in the s, u,
+- [01:27:53,820 - 01:27:55,820] three block it has value two thirds.
+- [01:27:55,820 - 01:27:57,820] I've chosen two thirds
+- [01:27:57,820 - 01:27:59,820] here, it was a convention that I
+- [01:27:59,820 - 01:28:01,820] put minus one here. I could have
+- [01:28:01,820 - 01:28:02,820] put anything here as long
+- [01:28:02,820 - 01:28:03,820] as these two were the same.
+- [01:28:03,820 - 01:28:05,820] But, in order to make
+- [01:28:05,820 - 01:28:07,820] it have zero trace, in other words to make
+- [01:28:07,820 - 01:28:09,820] the sum of the elements be
+- [01:28:09,820 - 01:28:11,820] zero, I had to put two thirds here.
+- [01:28:11,820 - 01:28:13,820] Alright.
+- [01:28:13,820 - 01:28:15,820] These are the
+- [01:28:15,820 - 01:28:17,820] generators of the group that are important
+- [01:28:17,820 - 01:28:19,820] that
+- [01:28:19,820 - 01:28:21,820] label the states
+- [01:28:21,820 - 01:28:23,820] of particles.
+- [01:28:23,820 - 01:28:25,820] Label the states of quarks
+- [01:28:25,820 - 01:28:27,820] and leptons to be exact.
+- [01:28:27,820 - 01:28:29,820] Label the states of
+- [01:28:29,820 - 01:28:31,820] also Higgs bosons.
+- [01:28:31,820 - 01:28:33,820] And so now I will tell you
+- [01:28:33,820 - 01:28:35,820] how this structure works.
+- [01:28:35,820 - 01:28:37,820] How it's connected with
+- [01:28:37,820 - 01:28:39,820] the particles.
+- [01:28:39,820 - 01:28:41,820] If we were just doing s, u, three
+- [01:28:41,820 - 01:28:43,820] without s, u, two,
+- [01:28:43,820 - 01:28:45,820] I might put here
+- [01:28:45,820 - 01:28:47,820] what would I put there?
+- [01:28:47,820 - 01:28:49,820] Quarks.
+- [01:28:49,820 - 01:28:51,820] I would say
+- [01:28:51,820 - 01:28:53,820] the s, u, three matrices
+- [01:28:53,820 - 01:28:55,820] the unitary s, u, three matrices
+- [01:28:55,820 - 01:28:57,820] act on a column vector
+- [01:28:57,820 - 01:28:59,820] of quarks.
+- [01:28:59,820 - 01:29:01,820] What are the column vector?
+- [01:29:01,820 - 01:29:03,820] The colored quarks. Red, yellow, and green
+- [01:29:03,820 - 01:29:05,820] or whatever we call them.
+- [01:29:05,820 - 01:29:07,820] And mix them up among themselves.
+- [01:29:07,820 - 01:29:09,820] What about the
+- [01:29:09,820 - 01:29:11,820] s, u, two block?
+- [01:29:11,820 - 01:29:13,820] In the s, u, two block here
+- [01:29:13,820 - 01:29:15,820] I could put for example
+- [01:29:15,820 - 01:29:17,820] neutrino and electron.
+- [01:29:17,820 - 01:29:19,820] Neutrino and electron are mixed by the s, u, two.
+- [01:29:21,820 - 01:29:23,820] There's five of them here
+- [01:29:23,820 - 01:29:25,820] and so the question is
+- [01:29:25,820 - 01:29:27,820] what particles shall I identify
+- [01:29:27,820 - 01:29:29,820] with the basic
+- [01:29:29,820 - 01:29:31,820] five-plet, with the basic
+- [01:29:31,820 - 01:29:33,820] five-dimensional column vector here
+- [01:29:33,820 - 01:29:35,820] that these s, u, five
+- [01:29:35,820 - 01:29:37,820] transformations act on.
+- [01:29:37,820 - 01:29:39,820] Alright. In order to answer that
+- [01:29:39,820 - 01:29:41,820] well, we'll answer it
+- [01:29:41,820 - 01:29:43,820] by just
+- [01:29:43,820 - 01:29:45,820] some guessing
+- [01:29:45,820 - 01:29:47,820] and some educated
+- [01:29:47,820 - 01:29:49,820] guessing.
+- [01:29:49,820 - 01:29:51,820] Okay.
+- [01:29:53,820 - 01:29:55,820] But before we do it
+- [01:29:55,820 - 01:29:57,820] let's write down
+- [01:29:57,820 - 01:29:59,820] the whole
+- [01:29:59,820 - 01:30:01,820] collection of
+- [01:30:01,820 - 01:30:03,820] fermions that are in
+- [01:30:03,820 - 01:30:05,820] the standard model.
+- [01:30:05,820 - 01:30:07,820] The whole collection of them. Now I don't have to
+- [01:30:07,820 - 01:30:09,820] write the whole collection because they
+- [01:30:09,820 - 01:30:11,820] come in families.
+- [01:30:11,820 - 01:30:13,820] They come in three families.
+- [01:30:13,820 - 01:30:15,820] The electron
+- [01:30:15,820 - 01:30:17,820] neutrino up-down family.
+- [01:30:17,820 - 01:30:19,820] The
+- [01:30:19,820 - 01:30:21,820] muon
+- [01:30:21,820 - 01:30:23,820] neutrino
+- [01:30:23,820 - 01:30:25,820] charm
+- [01:30:25,820 - 01:30:27,820] strange family.
+- [01:30:27,820 - 01:30:29,820] And the last family that involves the tau
+- [01:30:29,820 - 01:30:31,820] and the other quarks.
+- [01:30:31,820 - 01:30:33,820] Alright. So we just focus on
+- [01:30:33,820 - 01:30:35,820] one family now.
+- [01:30:35,820 - 01:30:37,820] The electron neutrino up-quark
+- [01:30:37,820 - 01:30:39,820] down-quark family. Let's write them all
+- [01:30:39,820 - 01:30:41,820] down, count up how many there are
+- [01:30:41,820 - 01:30:43,820] and see how we might fit them
+- [01:30:43,820 - 01:30:45,820] into representations
+- [01:30:45,820 - 01:30:47,820] of s, u, five.
+- [01:30:47,820 - 01:30:49,820] Now why
+- [01:30:49,820 - 01:30:51,820] do we want to fit them into representations?
+- [01:30:51,820 - 01:30:53,820] What would be the implications of fitting
+- [01:30:53,820 - 01:30:55,820] them into s, u, five? Remember
+- [01:30:55,820 - 01:30:57,820] that
+- [01:30:57,820 - 01:30:59,820] the symmetry group
+- [01:30:59,820 - 01:31:01,820] also has other implications.
+- [01:31:01,820 - 01:31:03,820] There are gauge bosons that go
+- [01:31:03,820 - 01:31:05,820] with the symmetry group. For example
+- [01:31:05,820 - 01:31:07,820] for the s, u, three, what are the gauge bosons
+- [01:31:07,820 - 01:31:09,820] for the s, u, three group?
+- [01:31:09,820 - 01:31:11,820] The gluons.
+- [01:31:11,820 - 01:31:13,820] Alright.
+- [01:31:13,820 - 01:31:15,820] So there are eight gluons
+- [01:31:15,820 - 01:31:17,820] associated with the eight generators
+- [01:31:17,820 - 01:31:19,820] of s, u, three.
+- [01:31:19,820 - 01:31:21,820] What about the s, u, two gauge bosons?
+- [01:31:23,820 - 01:31:25,820] Those have to do with the w plus,
+- [01:31:25,820 - 01:31:27,820] the w minus,
+- [01:31:27,820 - 01:31:29,820] and z
+- [01:31:29,820 - 01:31:31,820] and photon bar. Some combination
+- [01:31:31,820 - 01:31:33,820] of z and photon.
+- [01:31:33,820 - 01:31:35,820] So
+- [01:31:35,820 - 01:31:37,820] So
+- [01:31:37,820 - 01:31:39,820] So
+- [01:35:09,820 - 01:35:11,820] For example,
+- [01:35:11,820 - 01:35:13,820] if I had this
+- [01:35:13,820 - 01:35:15,820] growth I'm going
+- [01:35:15,820 - 01:35:33,820] to Orion you know
+- [01:35:33,820 - 01:35:37,820] This
+- [01:35:37,820 - 01:35:42,660] I'm going to stop calling them left-handed
+- [01:35:42,660 - 01:35:44,179] they're all left-handed
+- [01:35:44,179 - 01:35:47,040] the up quark
+- [01:35:47,040 - 01:35:52,700] no, I didn't want to write that
+- [01:35:52,700 - 01:35:53,780] the down quark
+- [01:35:53,780 - 01:35:56,840] the anti-down quarks
+- [01:35:56,840 - 01:36:02,620] now I haven't written
+- [01:36:02,620 - 01:36:05,219] I obviously have not written all particles down
+- [01:36:05,219 - 01:36:07,259] I've written down only five here
+- [01:36:07,260 - 01:36:09,720] five, uh-huh, that's your five
+- [01:36:09,720 - 01:36:11,870] but why did I write down
+- [01:36:11,870 - 01:36:14,020] this five, we'll see in a moment
+- [01:36:14,020 - 01:36:15,400] those are six
+- [01:36:15,400 - 01:36:17,840] oh, one, two, three, wait, hold
+- [01:36:17,840 - 01:36:20,280] on, what did I write here
+- [01:36:20,280 - 01:36:21,360] up quark, no up quark
+- [01:36:21,360 - 01:36:23,200] forget the up quark
+- [01:36:23,200 - 01:36:27,920] neutrino, electron, down bar, down bar, down bar
+- [01:36:27,920 - 01:36:30,260] what are these three here, what does that stand for
+- [01:36:30,260 - 01:36:32,040] the three colors
+- [01:36:32,040 - 01:36:36,400] alright, so this is one subset
+- [01:36:36,400 - 01:36:38,170] and why I've broken them up this
+- [01:36:38,170 - 01:36:39,940] way will become clear in a minute
+- [01:36:39,940 - 01:36:43,940] okay, the next subset, the remaining ones over here
+- [01:36:43,940 - 01:36:45,540] I will simply list also
+- [01:36:45,540 - 01:36:47,500] let's see what they are
+- [01:36:47,500 - 01:36:50,719] they're down, down, down
+- [01:36:50,719 - 01:36:54,920] up bar, up bar, oops
+- [01:36:54,920 - 01:36:56,379] down, down, down
+- [01:36:56,379 - 01:36:58,000] up, up, up
+- [01:36:58,000 - 01:37:05,379] up bar, up bar, up bar
+- [01:37:06,400 - 01:37:10,740] and E plus
+- [01:37:10,740 - 01:37:12,540] this is E minus
+- [01:37:12,540 - 01:37:15,200] electron, positron
+- [01:37:15,200 - 01:37:19,010] now, among the electron, up
+- [01:37:19,010 - 01:37:22,820] quark, down quark they're all here
+- [01:37:22,820 - 01:37:26,960] here's the electron, here's the positron
+- [01:37:26,960 - 01:37:29,020] it is not believed, and
+- [01:37:29,020 - 01:37:31,080] certainly not in the standard model
+- [01:37:31,080 - 01:37:33,980] the neutrino is its own antiparticle
+- [01:37:33,980 - 01:37:36,080] so there is not a
+- [01:37:36,400 - 01:37:39,450] separate antiparticle for the neutrino.
+- [01:37:39,450 - 01:37:42,500] The electrons, here's the two antiparticles,
+- [01:37:42,500 - 01:37:44,850] here are the three down quarks, here
+- [01:37:44,850 - 01:37:47,200] are their antiparticles, here are the three
+- [01:37:47,200 - 01:37:49,749] up quarks, here are the antiparticle, and
+- [01:37:49,749 - 01:37:52,299] here is the positron. They're all there.
+- [01:37:52,299 - 01:37:54,859] Okay, the fact that I wrote them in this
+- [01:37:54,859 - 01:37:57,420] way, I just chose to write them in this
+- [01:37:57,420 - 01:38:00,140] list. There are five over here and I hope
+- [01:38:00,140 - 01:38:02,860] ten over here. One, two, three, four, five, six,
+- [01:38:02,860 - 01:38:06,340] seven, eight, nine, ten. Okay, so
+- [01:38:06,340 - 01:38:09,820] all together there are 15 particles. Now
+- [01:38:09,820 - 01:38:14,579] these 15 particles are replicated three
+- [01:38:14,579 - 01:38:19,339] times. The electron neutrino system gets
+- [01:38:19,339 - 01:38:22,309] replicated as the muon neutrino.
+- [01:38:22,309 - 01:38:25,280] This is the electron neutrino. This
+- [01:38:25,280 - 01:38:27,660] gets replicated three times. All of these
+- [01:38:27,660 - 01:38:30,040] get replicated three times, but let's not
+- [01:38:30,040 - 01:38:31,390] worry about the replication and
+- [01:38:31,390 - 01:38:32,740] where that comes from. Nobody knows
+- [01:38:32,740 - 01:38:32,839] about that.
+- [01:38:32,860 - 01:38:40,180] Let's see where that comes from. Good. Now
+- [01:38:40,180 - 01:38:47,500] the reason, let me show you why I chose
+- [01:38:47,500 - 01:38:51,870] this particular pattern here. It's pretty clear that
+- [01:38:51,870 - 01:38:56,240] what goes up in here, if I want
+- [01:38:56,240 - 01:38:58,999] to write a column vector now of fermions,
+- [01:38:58,999 - 01:39:01,759] it's pretty clear that what goes up in here
+- [01:39:01,759 - 01:39:02,740] should not have color.
+- [01:39:02,740 - 01:39:07,300] Right? Why? Because SU doesn't act on the
+- [01:39:07,300 - 01:39:11,860] first two slots here. SU acts on it, SU
+- [01:39:11,860 - 01:39:15,580] does not. So the first two slots here should
+- [01:39:15,580 - 01:39:19,300] be things which have no color, but which mix
+- [01:39:19,300 - 01:39:23,440] up under SU . In other words,
+- [01:39:23,440 - 01:39:27,580] which mix up under these SU transformations, tau.
+- [01:39:27,580 - 01:39:30,080] All right, so what can that be? Well,
+- [01:39:30,080 - 01:39:32,580] neutrino and electron. So, neutrino and electron, they're
+- [01:39:32,580 - 01:39:36,610] two electrons mixed up under, uh,
+- [01:39:36,610 - 01:39:40,640] left-handed, neutrino and left-handed electron get mixed
+- [01:39:40,640 - 01:39:43,670] up by SU . And they don't have color.
+- [01:39:43,670 - 01:39:46,700] So it's the only thing you could put over
+- [01:39:46,700 - 01:39:49,950] here would be neutrino, electron. Now the fact
+- [01:39:49,950 - 01:39:53,200] that I put neutrino on top and electron
+- [01:39:53,200 - 01:39:56,080] underneath it, to some extent that's convention. All
+- [01:39:56,080 - 01:39:58,960] right, so the reason I put neutrino on
+- [01:39:58,960 - 01:40:00,710] top, electron underneath is just because
+- [01:40:00,710 - 01:40:02,460] that's the way it's usually written.
+- [01:40:02,580 - 01:40:05,620] What should I put down here? Now down here
+- [01:40:05,620 - 01:40:08,660] I want to put quarks, but those quarks have
+- [01:40:08,660 - 01:40:13,210] SU , but no SU . Which of
+- [01:40:13,210 - 01:40:17,760] the quarks have SU , but no SU ?
+- [01:40:17,760 - 01:40:23,470] Anybody know? The right-handed quarks. Left-handed
+- [01:40:23,470 - 01:40:29,180] quarks have weak interactions, that's SU .
+- [01:40:29,180 - 01:40:30,869] The right-handed quarks don't. But
+- [01:40:30,869 - 01:40:32,559] I haven't listed right-handed quarks here.
+- [01:40:32,580 - 01:40:36,220] I've listed all particles as
+- [01:40:36,220 - 01:40:39,860] either left-handed particles or left-handed antiparticles.
+- [01:40:39,860 - 01:40:47,760] The group here, which don't have weak interactions,
+- [01:40:47,760 - 01:40:55,660] are the antiparticles, uh, are the, are the
+- [01:40:55,660 - 01:41:02,220] antiquarks, where's d-bar, u-bar and d-bar?
+- [01:41:02,220 - 01:41:04,580] These are the ones that
+- [01:41:04,580 - 01:41:06,940] do not have any SU properties
+- [01:41:06,940 - 01:41:10,440] They are the antiparticles of the right-handed quarks
+- [01:41:10,440 - 01:41:13,950] The right-handed quarks are not the ones that
+- [01:41:13,950 - 01:41:17,460] interact in beta decay in the weak interactions
+- [01:41:17,460 - 01:41:22,540] They are neutral, or they don't transform under SU
+- [01:41:22,540 - 01:41:24,680] And neither do their antiparticles
+- [01:41:24,680 - 01:41:26,800] So these are the guys here,
+- [01:41:26,800 - 01:41:28,920] if you label everything as left-handed
+- [01:41:28,920 - 01:41:32,920] These are the people here which don't transform under SU
+- [01:41:32,920 - 01:41:34,980] Which of these two do I
+- [01:41:34,980 - 01:41:37,040] want to put in this slot?
+- [01:41:37,040 - 01:41:38,770] Okay, so now I will tell
+- [01:41:38,770 - 01:41:40,500] you how you figure that out
+- [01:41:40,500 - 01:41:43,190] You see, one of the gauge bosons
+- [01:41:43,190 - 01:41:45,880] is going to have to be the photon
+- [01:41:45,880 - 01:41:49,760] The photon couples to electric charge
+- [01:41:49,760 - 01:41:52,180] The electric charge must be one
+- [01:41:52,180 - 01:41:54,600] of the generators of this SU
+- [01:41:54,600 - 01:41:57,960] Otherwise the whole thing wouldn't make sense
+- [01:41:57,960 - 01:41:58,920] The SU
+- [01:41:58,920 - 01:42:03,420] The quantum numbers are supposed to be all of
+- [01:42:03,420 - 01:42:07,920] the quantum numbers of the electro weak QCD color theory
+- [01:42:07,920 - 01:42:08,920] All of them
+- [01:42:08,920 - 01:42:09,920] What does that mean?
+- [01:42:09,920 - 01:42:13,780] That means the electric charge, the color quantum numbers, and
+- [01:42:13,780 - 01:42:17,640] the things which have to do with Z and W
+- [01:42:17,640 - 01:42:19,780] The electric charge has to be
+- [01:42:19,780 - 01:42:21,920] one of the generators of SU
+- [01:42:21,920 - 01:42:27,920] But all of the generators of SU are traceless
+- [01:42:27,920 - 01:42:28,920] What does that mean?
+- [01:42:28,920 - 01:42:36,420] That means that in a given multiplet, the sums of the
+- [01:42:36,420 - 01:42:43,920] electric charge within a given multiplet have to add up to zero
+- [01:42:43,920 - 01:42:46,920] That's the statement that the
+- [01:42:46,920 - 01:42:49,920] generators of SU or anything else
+- [01:42:49,920 - 01:42:52,420] It's exactly the same thing as saying you
+- [01:42:52,420 - 01:42:54,920] have a plus one and a minus one
+- [01:42:54,920 - 01:42:56,920] If a thing, if there's a multiplet of a...
+- [01:42:56,920 - 01:42:57,920] If there's a multiplet of a...
+- [01:42:57,920 - 01:43:00,920] Of a tau three, let's say spin
+- [01:43:00,920 - 01:43:02,420] One of them is going to be up,
+- [01:43:02,420 - 01:43:03,920] one of them is going to be down
+- [01:43:03,920 - 01:43:05,920] The sums of the two spins, the
+- [01:43:05,920 - 01:43:07,920] Z components of spin add up to zero
+- [01:43:07,920 - 01:43:10,920] Same thing for SU
+- [01:43:10,920 - 01:43:13,920] If you have a multiplet of
+- [01:43:13,920 - 01:43:16,920] SU particles, it transforms into SU
+- [01:43:16,920 - 01:43:20,420] Any given generator, if it describes a quantum number, the
+- [01:43:20,420 - 01:43:23,920] sums of those quantum numbers must add up to zero
+- [01:43:23,920 - 01:43:25,920] So whatever we put here
+- [01:43:25,920 - 01:43:27,920] It has to be such that the
+- [01:43:27,920 - 01:43:29,920] electric charges all add up to zero
+- [01:43:29,920 - 01:43:31,920] This has zero electric charge
+- [01:43:31,920 - 01:43:33,920] This has electric charge minus one
+- [01:43:33,920 - 01:43:38,920] So the sum here must add up to plus one
+- [01:43:38,920 - 01:43:41,920] Which of these particles has charge
+- [01:43:41,920 - 01:43:44,920] which adds up to plus one?
+- [01:43:44,920 - 01:43:46,920] That's this one
+- [01:43:46,920 - 01:43:48,920] D quarks have charge minus a third
+- [01:43:48,920 - 01:43:53,920] Anti-D quarks have charge plus a third
+- [01:43:53,920 - 01:43:57,920] So zero, I'll just write the charges down
+- [01:43:57,920 - 01:44:00,920] Zero minus one
+- [01:44:00,920 - 01:44:06,920] And now if I put the anti-D quarks here
+- [01:44:06,920 - 01:44:09,920] This all together has charge plus one
+- [01:44:09,920 - 01:44:11,920] Plus one, plus one, plus one
+- [01:44:11,920 - 01:44:13,420] Oh sorry, plus a third,
+- [01:44:13,420 - 01:44:14,920] plus a third, plus a third
+- [01:44:14,920 - 01:44:17,920] And the sums of all of them equals zero
+- [01:44:17,920 - 01:44:19,920] If I were to put the U quarks there
+- [01:44:19,920 - 01:44:21,920] Or the anti-U quarks
+- [01:44:21,920 - 01:44:23,920] They have charge two thirds
+- [01:44:23,920 - 01:44:25,920] Forget this here
+- [01:44:25,920 - 01:44:27,920] They have charge two thirds
+- [01:44:27,920 - 01:44:30,920] And the charges would not have added up to zero
+- [01:44:30,920 - 01:44:32,920] Okay
+- [01:44:32,920 - 01:44:34,920] So it's a matter of group
+- [01:44:34,920 - 01:44:36,920] It comes from the
+- [01:44:36,920 - 01:44:41,920] Ultimately it comes from the trace
+- [01:44:41,920 - 01:44:44,920] The tracelessness of the generators of the group
+- [01:44:44,920 - 01:44:47,920] That we're trying to label the particles by
+- [01:44:47,920 - 01:44:50,420] We're labeling them by generators of
+- [01:44:50,420 - 01:44:52,920] SU and the sums of elements
+- [01:44:52,920 - 01:44:54,920] The sums of elements of
+- [01:44:54,920 - 01:44:56,920] SU always add up to zero
+- [01:44:56,920 - 01:44:58,420] So the sums of these charges
+- [01:44:58,420 - 01:44:59,920] have to add up to zero
+- [01:44:59,920 - 01:45:01,920] That picks out the D quarks there
+- [01:45:01,920 - 01:45:04,920] Or the anti-D quarks
+- [01:45:04,920 - 01:45:06,920] Anti-D quarks because those are the ones
+- [01:45:06,920 - 01:45:08,920] that do not have SU quantum numbers
+- [01:45:08,920 - 01:45:10,920] Don't get mixed up by SU
+- [01:45:10,920 - 01:45:12,920] And it really is that way
+- [01:45:12,920 - 01:45:14,920] I mean the particles really are that way
+- [01:45:14,920 - 01:45:16,920] But where do we put the rest of the particles?
+- [01:45:16,920 - 01:45:18,920] The rest of the particles
+- [01:45:18,920 - 01:45:20,920] There are ten of them
+- [01:45:20,920 - 01:45:21,420] So the rest of the particles are
+- [01:45:21,420 - 01:45:21,920] the same as the rest of the particles
+- [01:45:21,920 - 01:45:23,920] So the next question is
+- [01:45:23,920 - 01:45:24,920] Is there
+- [01:45:24,920 - 01:45:25,920] It's nine o'clock
+- [01:45:25,920 - 01:45:26,920] That's the next question
+- [01:45:26,920 - 01:45:27,920] We're going to come back to this
+- [01:45:27,920 - 01:45:31,920] We'll fill out the remaining ten particles
+- [01:45:31,920 - 01:45:34,920] In another representation of SU
+- [01:45:34,920 - 01:45:37,920] Not a five dimensional representation
+- [01:45:37,920 - 01:45:39,920] But guess what?
+- [01:45:39,920 - 01:45:41,920] A ten dimensional representation
+- [01:45:41,920 - 01:45:44,920] There is a ten dimensional representation
+- [01:45:44,920 - 01:45:45,920] Alright
+- [01:45:45,920 - 01:45:47,920] There is a ten dimensional representation
+- [01:45:47,920 - 01:45:49,920] And the ten dimensional representation
+- [01:45:49,920 - 01:45:51,920] Has exactly the right properties
+- [01:45:51,920 - 01:45:54,920] To be the remainder of these particles here
+- [01:45:54,920 - 01:45:57,920] This is either a fantastic accident
+- [01:45:57,920 - 01:46:01,920] Or it is something deep
+- [01:46:01,920 - 01:46:03,920] And I don't think it's an accident
+- [01:46:03,920 - 01:46:05,920] The remaining particles here
+- [01:46:05,920 - 01:46:10,920] Exactly fill out the ten dimensional representation of SU
+- [01:46:10,920 - 01:46:12,920] So we'll come back to that next time
+- [01:46:12,920 - 01:46:14,920] And I'll show you how that works
+- [01:46:14,920 - 01:46:17,920] I don't understand how the
+- [01:46:17,920 - 01:46:20,920] different representations of the same group
+- [01:46:21,920 - 01:46:27,920] Can allow the building to have a group structure
+- [01:46:27,920 - 01:46:28,920] No
+- [01:46:28,920 - 01:46:31,920] These particles do not get mixed with these
+- [01:46:31,920 - 01:46:33,920] Under the group transformations
+- [01:46:33,920 - 01:46:34,920] They don't interact with each other?
+- [01:46:34,920 - 01:46:36,920] Oh, they do interact with each other
+- [01:46:36,920 - 01:46:39,920] But not by
+- [01:46:39,920 - 01:46:41,920] Yeah, they do interact with each other
+- [01:46:41,920 - 01:46:43,920] But there is no gate
+- [01:46:43,920 - 01:46:44,920] Okay, so let's
+- [01:46:44,920 - 01:46:45,920] Good, good question
+- [01:46:45,920 - 01:46:48,920] Alright
+- [01:46:48,920 - 01:46:50,920] Let's take the gluon, for example
+- [01:46:50,920 - 01:46:51,920] Alright
+- [01:46:51,920 - 01:46:53,920] One of these particles can emit a gluon
+- [01:46:53,920 - 01:46:55,920] And become one of the other ones
+- [01:46:55,920 - 01:47:00,920] They cannot emit a gluon and become one of these
+- [01:47:00,920 - 01:47:07,920] But a d-bar can emit a gluon
+- [01:47:07,920 - 01:47:14,920] Which is absorbed by a U-quark, for example
+- [01:47:14,920 - 01:47:16,920] So the generators take
+- [01:47:16,920 - 01:47:19,920] The generators which are the same as the emitting particles
+- [01:47:19,920 - 01:47:23,920] As the emission matrix elements for the gluons here
+- [01:47:23,920 - 01:47:25,920] They take one quark to another
+- [01:47:25,920 - 01:47:26,920] They take these to these
+- [01:47:26,920 - 01:47:27,920] These to these
+- [01:47:27,920 - 01:47:29,920] But they don't take this to this
+- [01:47:29,920 - 01:47:32,920] However, that doesn't mean they don't interact
+- [01:47:32,920 - 01:47:35,920] Same thing here, same thing
+- [01:47:35,920 - 01:47:37,920] All of the generators of
+- [01:47:37,920 - 01:47:39,920] SU mix these up among themselves
+- [01:47:39,920 - 01:47:41,920] Mix these up among themselves
+- [01:47:41,920 - 01:47:43,920] Do not mix these with these
+- [01:47:43,920 - 01:47:45,420] But that simply means that in order
+- [01:47:45,420 - 01:47:46,920] to have this side interact with this side
+- [01:47:46,920 - 01:47:48,920] You have to emit and then absorb
+- [01:47:48,920 - 01:47:50,920] And then absorb
+- [01:47:50,920 - 01:47:52,920] So you can have
+- [01:47:52,920 - 01:47:54,920] The group of five over here
+- [01:47:54,920 - 01:47:57,920] Interact with the group of ten over here
+- [01:47:57,920 - 01:47:59,920] By exchange of gauge bosons
+- [01:47:59,920 - 01:48:00,920] Okay?
+- [01:48:00,920 - 01:48:01,920] Yeah
+- [01:48:01,920 - 01:48:02,920] Yeah
+- [01:48:02,920 - 01:48:04,920] Also the Higgs boson gets
+- [01:48:04,920 - 01:48:06,920] into it and makes them interact
+- [01:48:06,920 - 01:48:08,920] Yeah
+- [01:48:08,920 - 01:48:12,920] For more, please visit us at stanford.edu
