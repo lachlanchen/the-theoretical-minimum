@@ -1,0 +1,8588 @@
+1
+00:00:00,000 --> 00:00:07,000
+Stanford University
+
+2
+00:00:07,000 --> 00:00:14,000
+Let's get back to SU3 and SU2.
+
+3
+00:00:14,000 --> 00:00:19,000
+SU3 was QCD, and it's the
+
+4
+00:00:19,000 --> 00:00:24,000
+symmetry which acted vertically on our table.
+
+5
+00:00:24,000 --> 00:00:27,000
+It took us from one color, red,
+
+6
+00:00:27,000 --> 00:00:30,000
+green, and blue, and mixed them up.
+
+7
+00:00:30,000 --> 00:00:44,000
+Let's just remind ourselves about that.
+
+8
+00:00:44,000 --> 00:00:46,000
+So we made ourselves a table.
+
+9
+00:00:46,000 --> 00:00:50,000
+This is a table not of all elementary particles, obviously,
+
+10
+00:00:50,000 --> 00:00:54,000
+but it's a table of all the fermions,
+
+11
+00:00:54,000 --> 00:00:56,500
+yeah, it's a table of all
+
+12
+00:00:56,500 --> 00:00:59,000
+of the fermions in the Standard Model,
+
+13
+00:00:59,000 --> 00:01:03,000
+and not so much because they're fermions,
+
+14
+00:01:03,000 --> 00:01:06,000
+but just it happens that they're kind of the constituents,
+
+15
+00:01:06,000 --> 00:01:10,000
+the constituent particles of the atom and the nucleus.
+
+16
+00:01:10,000 --> 00:01:13,000
+So let's just write them down again.
+
+17
+00:01:13,000 --> 00:01:17,000
+There were the six different families of quarks.
+
+18
+00:01:17,000 --> 00:01:19,500
+The families refer to, well, I'll
+
+19
+00:01:19,500 --> 00:01:22,000
+tell you what they refer to.
+
+20
+00:01:22,000 --> 00:01:24,000
+There's the quarks.
+
+21
+00:01:24,000 --> 00:01:26,000
+Up and down.
+
+22
+00:01:26,000 --> 00:01:27,000
+That's called a family.
+
+23
+00:01:27,000 --> 00:01:29,000
+That's called the up-down family.
+
+24
+00:01:29,000 --> 00:01:37,000
+Then there is up, down, charm, strange.
+
+25
+00:01:37,000 --> 00:01:38,500
+I guess you can call it
+
+26
+00:01:38,500 --> 00:01:40,000
+the charm or the strange family.
+
+27
+00:01:40,000 --> 00:01:47,000
+And then there's the top and the bottom.
+
+28
+00:01:47,000 --> 00:01:52,000
+That's the horizontal structure.
+
+29
+00:01:54,000 --> 00:02:00,000
+And then we have red, green, and blue.
+
+30
+00:02:00,000 --> 00:02:03,500
+And we have a quark
+
+31
+00:02:03,500 --> 00:02:07,000
+in each one of these slots.
+
+32
+00:02:07,000 --> 00:02:10,000
+Let's take this bar away here.
+
+33
+00:02:10,000 --> 00:02:11,500
+Take this bar away and
+
+34
+00:02:11,500 --> 00:02:13,000
+take this one over here away.
+
+35
+00:02:13,000 --> 00:02:16,000
+We have a quark in each one of these slots.
+
+36
+00:02:16,000 --> 00:02:20,000
+And the color symmetry, the SU symmetry,
+
+37
+00:02:20,000 --> 00:02:23,000
+color which is associated with quantum chromodynamics,
+
+38
+00:02:23,000 --> 00:02:29,000
+is the symmetry group which acts on this triplet here
+
+39
+00:02:29,000 --> 00:02:32,000
+and mixes them up into each other.
+
+40
+00:02:32,000 --> 00:02:37,000
+That symmetry group has generators.
+
+41
+00:02:37,000 --> 00:02:39,000
+Those generators correspond to
+
+42
+00:02:39,000 --> 00:02:41,000
+the infinitely small transformations,
+
+43
+00:02:41,000 --> 00:02:44,000
+but it also corresponds to the gluons.
+
+44
+00:02:44,000 --> 00:02:49,000
+The symmetry group which takes red to green to blue
+
+45
+00:02:49,000 --> 00:02:51,000
+is associated with the existence of gluons,
+
+46
+00:02:51,000 --> 00:02:52,000
+which is the existence of the blue,
+
+47
+00:02:52,000 --> 00:02:54,000
+the existence of gluons,
+
+48
+00:02:54,000 --> 00:02:57,500
+and the gluons, when they're
+
+49
+00:02:57,500 --> 00:03:01,000
+emitted from one quark to another,
+
+50
+00:03:01,000 --> 00:03:04,000
+for example, from red to green,
+
+51
+00:03:04,000 --> 00:03:13,000
+you create a red, sorry, red-green bar gluon.
+
+52
+00:03:13,000 --> 00:03:17,000
+This transformation from red to green
+
+53
+00:03:17,000 --> 00:03:20,000
+is simply one of the generators of SU .
+
+54
+00:03:20,000 --> 00:03:24,000
+So the generators of SU , the transformations,
+
+55
+00:03:24,000 --> 00:03:26,000
+are in one-to-one correspondence with
+
+56
+00:03:26,000 --> 00:03:28,000
+the emission of a gluon.
+
+57
+00:03:28,000 --> 00:03:30,500
+You can think of an emission
+
+58
+00:03:30,500 --> 00:03:33,000
+of a gluon as a physical act,
+
+59
+00:03:33,000 --> 00:03:36,000
+which, a physical phenomenon,
+
+60
+00:03:36,000 --> 00:03:40,000
+which does the same thing as the symmetry group
+
+61
+00:03:40,000 --> 00:03:43,000
+which mixes the particles into each other.
+
+62
+00:03:43,000 --> 00:03:46,000
+That's the character of gauge bosons.
+
+63
+00:03:46,000 --> 00:03:49,000
+Gauge bosons are a sort of manifestation
+
+64
+00:03:49,000 --> 00:03:51,000
+of the symmetry group in which
+
+65
+00:03:51,000 --> 00:03:53,000
+the emission of a gauge boson
+
+66
+00:03:53,000 --> 00:03:58,000
+really does change a particle from one thing to another
+
+67
+00:03:58,000 --> 00:04:02,000
+in exactly the same pattern as the symmetry group
+
+68
+00:04:02,000 --> 00:04:04,000
+would change one thing to another.
+
+69
+00:04:04,000 --> 00:04:08,000
+Alright, so that's red, green, and blue.
+
+70
+00:04:08,000 --> 00:04:13,000
+And when you perform one of these transformations,
+
+71
+00:04:13,000 --> 00:04:17,000
+you do it on all of the quarks simultaneously.
+
+72
+00:04:17,000 --> 00:04:18,000
+You don't do it just on the up quarks,
+
+73
+00:04:18,000 --> 00:04:21,000
+or just the up-down family.
+
+74
+00:04:21,000 --> 00:04:25,000
+If you want the symmetry to be correct,
+
+75
+00:04:25,000 --> 00:04:26,500
+if you want it to be
+
+76
+00:04:26,500 --> 00:04:28,000
+a real symmetry of the theory,
+
+77
+00:04:28,000 --> 00:04:29,500
+then you must do it
+
+78
+00:04:29,500 --> 00:04:31,000
+simultaneously on all of the quarks,
+
+79
+00:04:31,000 --> 00:04:34,000
+and that corresponds to the statement
+
+80
+00:04:34,000 --> 00:04:37,000
+that exactly the same gluon,
+
+81
+00:04:37,000 --> 00:04:42,000
+let's say this is from up to up,
+
+82
+00:04:42,000 --> 00:04:45,000
+up quark to up quark.
+
+83
+00:04:45,000 --> 00:04:48,000
+Incidentally, the gluon emission does not change
+
+84
+00:04:48,000 --> 00:04:51,000
+horizontally, it only changes vertically.
+
+85
+00:04:51,000 --> 00:04:54,000
+So, for example, the same gluon,
+
+86
+00:04:54,000 --> 00:04:57,000
+which would be involved in emitting,
+
+87
+00:04:57,000 --> 00:04:59,000
+or which would be emitted,
+
+88
+00:04:59,000 --> 00:05:03,000
+when a red up quark becomes a green up quark,
+
+89
+00:05:03,000 --> 00:05:06,000
+that's exactly the same gluon
+
+90
+00:05:06,000 --> 00:05:11,000
+as would be emitted when,
+
+91
+00:05:11,000 --> 00:05:16,000
+let's say, when a top red quark
+
+92
+00:05:16,000 --> 00:05:18,000
+would be a top blue.
+
+93
+00:05:18,000 --> 00:05:20,000
+So, the same gluon,
+
+94
+00:05:20,000 --> 00:05:22,000
+green quark,
+
+95
+00:05:22,000 --> 00:05:25,000
+red, green bar, gluon.
+
+96
+00:05:25,000 --> 00:05:30,000
+So, the symmetry takes whole rows
+
+97
+00:05:30,000 --> 00:05:33,000
+and mixes them into each other.
+
+98
+00:05:33,000 --> 00:05:36,000
+Then, there is a second symmetry,
+
+99
+00:05:36,000 --> 00:05:39,000
+by now it's actually a third symmetry,
+
+100
+00:05:39,000 --> 00:05:41,000
+we've talked about electrodynamics
+
+101
+00:05:41,000 --> 00:05:43,000
+and what it does to the,
+
+102
+00:05:43,000 --> 00:05:45,000
+what the emission of a photon,
+
+103
+00:05:45,000 --> 00:05:48,000
+or what the symmetry associated with electrodynamics,
+
+104
+00:05:48,000 --> 00:05:49,000
+is,
+
+105
+00:05:49,000 --> 00:05:51,000
+but now we're encountering another symmetry,
+
+106
+00:05:51,000 --> 00:05:55,000
+which is usually called flavor symmetry.
+
+107
+00:05:55,000 --> 00:05:58,000
+Flavor symmetry, or,
+
+108
+00:05:58,000 --> 00:06:01,000
+I guess, family symmetry, somehow, sometimes,
+
+109
+00:06:01,000 --> 00:06:05,000
+it takes ups to downs
+
+110
+00:06:05,000 --> 00:06:09,000
+at the same time that it takes charm to strange,
+
+111
+00:06:09,000 --> 00:06:12,000
+at the same time that it takes top to bottom,
+
+112
+00:06:12,000 --> 00:06:16,000
+keeping the color unchanged.
+
+113
+00:06:16,000 --> 00:06:17,000
+All right?
+
+114
+00:06:17,000 --> 00:06:20,000
+So, for example,
+
+115
+00:06:20,000 --> 00:06:22,000
+there will be processes
+
+116
+00:06:22,000 --> 00:06:25,000
+in which an up quark,
+
+117
+00:06:25,000 --> 00:06:29,000
+let's say, of the blue variety,
+
+118
+00:06:29,000 --> 00:06:34,000
+emits a W plus boson,
+
+119
+00:06:34,000 --> 00:06:37,000
+W plus,
+
+120
+00:06:37,000 --> 00:06:42,000
+and it becomes a down quark,
+
+121
+00:06:42,000 --> 00:06:45,000
+also of the blue variety.
+
+122
+00:06:45,000 --> 00:06:49,000
+So, what has this W boson done?
+
+123
+00:06:49,000 --> 00:06:52,000
+It's a physical manifestation of the transformation
+
+124
+00:06:52,000 --> 00:06:56,000
+which takes you horizontally back and forth.
+
+125
+00:06:56,000 --> 00:06:58,000
+Exactly the same W plus
+
+126
+00:06:58,000 --> 00:07:01,000
+would mediate, or would be emitted,
+
+127
+00:07:01,000 --> 00:07:03,000
+the same kind of W plus,
+
+128
+00:07:03,000 --> 00:07:08,000
+would be emitted when a green,
+
+129
+00:07:08,000 --> 00:07:11,000
+let's say, charm quark
+
+130
+00:07:11,000 --> 00:07:14,000
+becomes a green strange quark.
+
+131
+00:07:14,000 --> 00:07:17,000
+Same W plus.
+
+132
+00:07:19,778 --> 00:07:20,384
+وما
+
+133
+00:07:20,384 --> 00:07:20,991
+إلى
+
+134
+00:07:20,991 --> 00:07:21,597
+ذلك
+
+135
+00:07:21,602 --> 00:07:28,082
+the gluons never move you horizontally
+
+136
+00:07:28,082 --> 00:07:33,002
+the W bosons never move you vertically
+
+137
+00:07:33,002 --> 00:07:35,352
+and that is also the character
+
+138
+00:07:35,352 --> 00:07:37,702
+of the symmetry groups, the symmetry groups
+
+139
+00:07:37,702 --> 00:07:40,482
+move you horizontally, that's SU
+
+140
+00:07:40,482 --> 00:07:42,342
+it doesn't move you from here to here
+
+141
+00:07:42,342 --> 00:07:43,882
+or from here to here
+
+142
+00:07:43,882 --> 00:07:44,962
+it just
+
+143
+00:07:44,962 --> 00:07:47,462
+moves you between up and down, down and up
+
+144
+00:07:47,462 --> 00:07:49,732
+or at the same time charm and
+
+145
+00:07:49,732 --> 00:07:52,002
+strange, strange to charm and so forth
+
+146
+00:07:52,002 --> 00:07:54,782
+that's the mathematical structure
+
+147
+00:07:54,782 --> 00:07:59,302
+of SU cross SU
+
+148
+00:07:59,302 --> 00:08:00,522
+if you add
+
+149
+00:08:00,522 --> 00:08:02,562
+the photon
+
+150
+00:08:02,562 --> 00:08:06,082
+the photon emission is associated with the symmetry
+
+151
+00:08:06,082 --> 00:08:11,262
+which changes the phase of every charge carrying field
+
+152
+00:08:11,262 --> 00:08:13,841
+which I explained that to you last time
+
+153
+00:08:13,841 --> 00:08:15,802
+every charge carrying field
+
+154
+00:08:15,802 --> 00:08:17,262
+transforms with a phase
+
+155
+00:08:17,462 --> 00:08:22,202
+under U1
+
+156
+00:08:22,202 --> 00:08:24,121
+and if you add those three together
+
+157
+00:08:24,121 --> 00:08:27,241
+you have the basic ingredients
+
+158
+00:08:27,241 --> 00:08:30,362
+of SU cross SU cross U1
+
+159
+00:08:30,362 --> 00:08:32,422
+cross simply means
+
+160
+00:08:32,422 --> 00:08:34,402
+that it's a product structure
+
+161
+00:08:34,402 --> 00:08:38,582
+where the SU don't mix up the colors
+
+162
+00:08:38,582 --> 00:08:43,022
+and the SU don't mix up the upness and downness
+
+163
+00:08:43,022 --> 00:08:46,141
+it's a product structure
+
+164
+00:08:46,141 --> 00:08:46,641
+and that's where the terminology of the term
+
+165
+00:08:46,641 --> 00:08:47,141
+is going to be used in the future
+
+166
+00:08:47,462 --> 00:08:49,462
+that's where the
+
+167
+00:08:49,462 --> 00:08:55,462
+uh
+
+168
+00:08:55,462 --> 00:08:57,322
+I guess you would call it terminology
+
+169
+00:08:57,322 --> 00:08:58,822
+that the standard model
+
+170
+00:08:58,822 --> 00:09:02,302
+is a gauge theory based on the gauge group
+
+171
+00:09:02,302 --> 00:09:04,982
+SU3
+
+172
+00:09:04,982 --> 00:09:08,622
+cross SU2
+
+173
+00:09:08,622 --> 00:09:13,702
+cross U1
+
+174
+00:09:13,702 --> 00:09:15,302
+now it is actually a little
+
+175
+00:09:15,302 --> 00:09:16,902
+bit more complicated than I'm saying
+
+176
+00:09:16,902 --> 00:09:18,902
+we're going to sort out the complications
+
+177
+00:09:18,902 --> 00:09:20,902
+but roughly speaking
+
+178
+00:09:20,902 --> 00:09:22,902
+SU3 for color
+
+179
+00:09:22,902 --> 00:09:25,902
+SU2 for the W emission
+
+180
+00:09:25,902 --> 00:09:27,902
+and U1 for electrodynamics
+
+181
+00:09:27,902 --> 00:09:29,402
+now this is going to
+
+182
+00:09:29,402 --> 00:09:30,902
+get slightly more complicated than that
+
+183
+00:09:30,902 --> 00:09:33,902
+because what I'm saying is not 100% consistent
+
+184
+00:09:33,902 --> 00:09:35,902
+for reasons that will become clear
+
+185
+00:09:35,902 --> 00:09:37,902
+but not yet
+
+186
+00:09:37,902 --> 00:09:40,902
+alright the emission of a W boson
+
+187
+00:09:40,902 --> 00:09:44,902
+incidentally of course W bosons are only discovered
+
+188
+00:09:44,902 --> 00:09:46,902
+right now in the world of physics
+
+189
+00:09:46,902 --> 00:09:48,902
+relatively late in the game
+
+190
+00:09:48,902 --> 00:09:53,902
+and they were postulated
+
+191
+00:09:53,902 --> 00:09:55,902
+sometime in the 60s
+
+192
+00:09:55,902 --> 00:09:59,902
+but it really only achieved some
+
+193
+00:09:59,902 --> 00:10:01,902
+real traction in the 70s
+
+194
+00:10:01,902 --> 00:10:03,902
+the W bosons
+
+195
+00:10:03,902 --> 00:10:05,902
+but the theory of weak interactions
+
+196
+00:10:05,902 --> 00:10:08,902
+or some aspects of the theory of weak interactions
+
+197
+00:10:08,902 --> 00:10:11,902
+goes back much earlier than that
+
+198
+00:10:11,902 --> 00:10:13,902
+I suppose to the 30s
+
+199
+00:10:13,902 --> 00:10:15,902
+the Fermi theory of weak interactions
+
+200
+00:10:15,902 --> 00:10:18,902
+and we'll discuss the relationship soon enough
+
+201
+00:10:18,902 --> 00:10:23,902
+okay what about the coupling constants
+
+202
+00:10:23,902 --> 00:10:28,902
+that are involved in these various interactions
+
+203
+00:10:28,902 --> 00:10:31,902
+the U1 coupling constant here
+
+204
+00:10:31,902 --> 00:10:35,902
+that's associated with the emission of a photon
+
+205
+00:10:35,902 --> 00:10:40,902
+and the coupling constant is simply the electric charge
+
+206
+00:10:40,902 --> 00:10:43,902
+the reason that the emission
+
+207
+00:10:43,902 --> 00:10:46,902
+or the reason that the probability
+
+208
+00:10:46,902 --> 00:10:49,902
+of the emission of a photon
+
+209
+00:10:49,902 --> 00:10:52,902
+is the fine structure constant
+
+210
+00:10:52,902 --> 00:10:54,402
+is because this is the amplitude
+
+211
+00:10:54,402 --> 00:10:55,902
+for the emission of a photon
+
+212
+00:10:55,902 --> 00:10:57,902
+you have to square it
+
+213
+00:10:57,902 --> 00:11:00,902
+to find the probability for the
+
+214
+00:11:00,902 --> 00:11:03,902
+for the photon to be present
+
+215
+00:11:03,902 --> 00:11:06,902
+so E squared
+
+216
+00:11:06,902 --> 00:11:08,902
+is basically the fine structure constant
+
+217
+00:11:08,902 --> 00:11:10,902
+it has some pi's and things that's not important
+
+218
+00:11:10,902 --> 00:11:13,902
+but E squared is basically the fine structure constant
+
+219
+00:11:13,902 --> 00:11:16,902
+and it's also the coupling constant
+
+220
+00:11:16,902 --> 00:11:18,902
+or the emission
+
+221
+00:11:18,902 --> 00:11:22,902
+the quantum mechanical amplitude
+
+222
+00:11:22,902 --> 00:11:24,902
+for the emission of a photon
+
+223
+00:11:24,902 --> 00:11:27,902
+either the virtual emission of a photon
+
+224
+00:11:27,902 --> 00:11:31,902
+which means that the photon is going to be reabsorbed
+
+225
+00:11:31,902 --> 00:11:33,902
+before it gets very far
+
+226
+00:11:33,902 --> 00:11:35,902
+or if the electron is jerked out of the way
+
+227
+00:11:35,902 --> 00:11:38,902
+then the real emission of a photon
+
+228
+00:11:38,902 --> 00:11:42,902
+the amplitude for that is this constant
+
+229
+00:11:42,902 --> 00:11:43,902
+called the electric charge
+
+230
+00:11:43,902 --> 00:11:45,902
+and it's a pure number
+
+231
+00:11:45,902 --> 00:11:47,902
+and it's a number
+
+232
+00:11:47,902 --> 00:11:49,902
+well, the fine structure constant itself
+
+233
+00:11:49,902 --> 00:11:51,902
+the square of this number
+
+234
+00:11:51,902 --> 00:11:54,902
+is as I told you about 1 over 137
+
+235
+00:11:54,902 --> 00:11:58,902
+okay, so it's a small number here
+
+236
+00:11:58,902 --> 00:12:01,902
+the SU coupling constant
+
+237
+00:12:01,902 --> 00:12:04,902
+that's usually called G
+
+238
+00:12:04,902 --> 00:12:08,902
+or we can call it G strong
+
+239
+00:12:08,902 --> 00:12:10,902
+G sub S
+
+240
+00:12:10,902 --> 00:12:12,902
+that of course is associated with the
+
+241
+00:12:12,902 --> 00:12:16,902
+emission of a gluon
+
+242
+00:12:16,902 --> 00:12:18,902
+and that's also a number
+
+243
+00:12:18,902 --> 00:12:20,902
+that number is close to 1
+
+244
+00:12:20,902 --> 00:12:23,902
+well, not close, that's a little
+
+245
+00:12:23,902 --> 00:12:25,902
+1 is a little bit too big
+
+246
+00:12:25,902 --> 00:12:27,902
+the corresponding thing corresponding
+
+247
+00:12:27,902 --> 00:12:29,902
+to the fine structure constant
+
+248
+00:12:29,902 --> 00:12:33,902
+would be more like about a fifth
+
+249
+00:12:33,902 --> 00:12:35,902
+a fifth is a lot
+
+250
+00:12:35,902 --> 00:12:37,902
+bigger than a 1 over 137
+
+251
+00:12:37,902 --> 00:12:39,902
+so the emission of a gluon
+
+252
+00:12:39,902 --> 00:12:41,902
+is a much much more probable
+
+253
+00:12:41,902 --> 00:12:43,902
+event
+
+254
+00:12:43,902 --> 00:12:46,902
+when a quark smacks into something
+
+255
+00:12:46,902 --> 00:12:48,902
+it basically emits a gluon
+
+256
+00:12:48,902 --> 00:12:50,902
+with a probability close to 1
+
+257
+00:12:50,902 --> 00:12:52,902
+almost always emits a gluon
+
+258
+00:12:52,902 --> 00:12:55,902
+whereas the photon almost never emits a photon
+
+259
+00:12:55,902 --> 00:12:57,902
+now you might think
+
+260
+00:12:57,902 --> 00:12:59,902
+in view of the fact that the weak interactions
+
+261
+00:12:59,902 --> 00:13:02,902
+are called weak interactions
+
+262
+00:13:02,902 --> 00:13:03,902
+and in fact
+
+263
+00:13:03,902 --> 00:13:06,902
+from the fact that the decay rates
+
+264
+00:13:06,902 --> 00:13:09,902
+are very much lower
+
+265
+00:13:09,902 --> 00:13:11,902
+associated with weak interactions
+
+266
+00:13:11,902 --> 00:13:13,902
+the weak interactions are indeed
+
+267
+00:13:13,902 --> 00:13:15,902
+in many many ways
+
+268
+00:13:15,902 --> 00:13:17,902
+very much weaker than either
+
+269
+00:13:17,902 --> 00:13:20,902
+the gluonic interaction
+
+270
+00:13:20,902 --> 00:13:22,902
+or the electromagnetic interaction
+
+271
+00:13:22,902 --> 00:13:26,902
+but it's not because the coupling constant is smaller
+
+272
+00:13:26,902 --> 00:13:29,902
+the coupling constant of the weak interactions
+
+273
+00:13:29,902 --> 00:13:31,902
+is closely related
+
+274
+00:13:31,902 --> 00:13:33,902
+to the coupling constant
+
+275
+00:13:33,902 --> 00:13:35,902
+for quantum electrodynamics
+
+276
+00:13:35,902 --> 00:13:38,902
+it's about the same order of magnitude
+
+277
+00:13:38,902 --> 00:13:40,902
+are
+
+278
+00:13:41,902 --> 00:13:43,902
+related
+
+279
+00:13:43,902 --> 00:13:45,902
+it's related by some
+
+280
+00:13:45,902 --> 00:13:47,902
+some simple numerical factor
+
+281
+00:13:47,902 --> 00:13:49,902
+but not
+
+282
+00:13:49,902 --> 00:13:51,902
+not very different
+
+283
+00:13:51,902 --> 00:13:53,902
+and so that raises the question
+
+284
+00:13:53,902 --> 00:13:55,902
+what is it about
+
+285
+00:13:55,902 --> 00:13:58,902
+these processes involving W bosons
+
+286
+00:13:58,902 --> 00:14:01,902
+that makes it so improbable
+
+287
+00:14:01,902 --> 00:14:03,902
+so unlikely
+
+288
+00:14:03,902 --> 00:14:05,902
+that a weak interaction will take place
+
+289
+00:14:05,902 --> 00:14:07,902
+and it is unlikely
+
+290
+00:14:07,902 --> 00:14:08,902
+after all
+
+291
+00:14:08,902 --> 00:14:10,902
+it takes the neutron 12 minutes to decay
+
+292
+00:14:10,902 --> 00:14:12,902
+it must be a very unlikely process
+
+293
+00:14:12,902 --> 00:14:16,902
+so that's the next question
+
+294
+00:14:19,902 --> 00:14:21,902
+let's think about the decay of the neutron
+
+295
+00:14:21,902 --> 00:14:23,902
+the decay of the neutron
+
+296
+00:14:23,902 --> 00:14:25,902
+originates from
+
+297
+00:14:25,902 --> 00:14:27,902
+a down quark
+
+298
+00:14:27,902 --> 00:14:28,902
+inside the neutron
+
+299
+00:14:28,902 --> 00:14:30,902
+down quark
+
+300
+00:14:30,902 --> 00:14:33,902
+emitting a W minus
+
+301
+00:14:33,902 --> 00:14:36,902
+and becoming an up quark
+
+302
+00:14:36,902 --> 00:14:38,902
+so let's add in the other quarks
+
+303
+00:14:38,902 --> 00:14:40,902
+there's another down quark
+
+304
+00:14:40,902 --> 00:14:45,902
+and an up quark
+
+305
+00:14:45,902 --> 00:14:46,902
+alright
+
+306
+00:14:46,902 --> 00:14:47,902
+this is a neutron
+
+307
+00:14:47,902 --> 00:14:48,902
+sorry
+
+308
+00:14:48,902 --> 00:14:49,902
+this is a neutron
+
+309
+00:14:49,902 --> 00:14:50,902
+an up
+
+310
+00:14:50,902 --> 00:14:51,902
+and two downs
+
+311
+00:14:51,902 --> 00:14:52,902
+and this is a proton
+
+312
+00:14:52,902 --> 00:14:54,902
+two ups and a down
+
+313
+00:14:54,902 --> 00:14:56,902
+and a W goes off
+
+314
+00:14:56,902 --> 00:14:57,902
+alright
+
+315
+00:14:57,902 --> 00:14:58,902
+let's
+
+316
+00:14:58,902 --> 00:15:01,902
+W minus
+
+317
+00:15:01,902 --> 00:15:03,902
+but then
+
+318
+00:15:03,902 --> 00:15:04,902
+the W
+
+319
+00:15:04,902 --> 00:15:07,902
+can also become
+
+320
+00:15:07,902 --> 00:15:09,902
+W minus can become an electron
+
+321
+00:15:09,902 --> 00:15:10,902
+an electron
+
+322
+00:15:10,902 --> 00:15:12,902
+and an anti-neutrino
+
+323
+00:15:12,902 --> 00:15:13,902
+ah
+
+324
+00:15:13,902 --> 00:15:15,902
+let's go back to this table here
+
+325
+00:15:15,902 --> 00:15:16,902
+let me remind you
+
+326
+00:15:16,902 --> 00:15:17,902
+there are more particles
+
+327
+00:15:17,902 --> 00:15:19,902
+more fermions
+
+328
+00:15:19,902 --> 00:15:22,902
+the additional fermions are the leptons
+
+329
+00:15:22,902 --> 00:15:24,902
+the leptons come in
+
+330
+00:15:24,902 --> 00:15:26,902
+basically the same pattern
+
+331
+00:15:26,902 --> 00:15:27,902
+up down
+
+332
+00:15:27,902 --> 00:15:28,902
+charm strange
+
+333
+00:15:28,902 --> 00:15:29,902
+top bottom
+
+334
+00:15:29,902 --> 00:15:30,902
+but
+
+335
+00:15:30,902 --> 00:15:31,902
+they do not carry color
+
+336
+00:15:31,902 --> 00:15:35,902
+the meaning of that is they don't participate at all
+
+337
+00:15:35,902 --> 00:15:37,902
+in the color interactions
+
+338
+00:15:37,902 --> 00:15:39,902
+now you're perfectly free
+
+339
+00:15:39,902 --> 00:15:40,902
+to ask me why
+
+340
+00:15:40,902 --> 00:15:43,902
+and I'm perfectly free to say I don't know
+
+341
+00:15:43,902 --> 00:15:45,902
+so
+
+342
+00:15:45,902 --> 00:15:47,902
+ah
+
+343
+00:15:47,902 --> 00:15:49,902
+however
+
+344
+00:15:49,902 --> 00:15:50,902
+there's a pattern
+
+345
+00:15:50,902 --> 00:15:52,902
+and the pattern is not
+
+346
+00:15:52,902 --> 00:15:54,901
+it does have some structure to it
+
+347
+00:15:54,901 --> 00:15:55,901
+but I'll tell you what
+
+348
+00:15:55,901 --> 00:15:56,901
+not tonight
+
+349
+00:15:56,901 --> 00:15:57,901
+but at some point
+
+350
+00:15:57,901 --> 00:16:00,901
+maybe we'll understand this pattern better
+
+351
+00:16:00,901 --> 00:16:03,901
+almost as though it were a fourth color
+
+352
+00:16:03,901 --> 00:16:05,902
+are the leptons
+
+353
+00:16:05,902 --> 00:16:07,902
+so
+
+354
+00:16:07,902 --> 00:16:08,902
+so
+
+355
+00:16:08,902 --> 00:16:10,902
+I'll just
+
+356
+00:16:10,902 --> 00:16:14,902
+now the leptons do not have the same charges
+
+357
+00:16:14,902 --> 00:16:15,902
+as
+
+358
+00:16:15,902 --> 00:16:16,902
+the quarks
+
+359
+00:16:16,902 --> 00:16:17,902
+let me just remind you
+
+360
+00:16:17,902 --> 00:16:18,902
+these
+
+361
+00:16:18,902 --> 00:16:19,902
+this column
+
+362
+00:16:19,902 --> 00:16:21,902
+would be the quarks with charge two thirds
+
+363
+00:16:21,902 --> 00:16:24,402
+and this column would be the
+
+364
+00:16:24,402 --> 00:16:26,902
+quarks with charge minus a third
+
+365
+00:16:26,902 --> 00:16:27,902
+and notice
+
+366
+00:16:27,902 --> 00:16:31,902
+that this one has one more unit of charge
+
+367
+00:16:31,902 --> 00:16:33,902
+than this one
+
+368
+00:16:33,902 --> 00:16:35,902
+the difference of charge is one unit
+
+369
+00:16:35,902 --> 00:16:36,902
+all right
+
+370
+00:16:36,902 --> 00:16:37,902
+down in this lepton
+
+371
+00:16:37,902 --> 00:16:42,382
+on rho over here, the same is true over
+
+372
+00:16:42,382 --> 00:16:46,862
+here of course, two thirds minus one third, two
+
+373
+00:16:46,862 --> 00:16:49,722
+thirds minus one third.
+
+374
+00:16:49,722 --> 00:16:52,562
+Now the emission of a W
+
+375
+00:16:52,562 --> 00:16:55,402
+only cares about the difference of charge.
+
+376
+00:16:55,402 --> 00:16:58,652
+In other words, a W can be emitted
+
+377
+00:16:58,652 --> 00:17:01,902
+if the difference of charge is the right thing.
+
+378
+00:17:01,902 --> 00:17:06,202
+Alright, W plus or W minus has a definite
+
+379
+00:17:06,202 --> 00:17:10,502
+charge and to emit it, the difference of charge
+
+380
+00:17:10,502 --> 00:17:13,762
+of the initial and final fermion must be correct.
+
+381
+00:17:13,762 --> 00:17:18,171
+Alright, so if the W can be emitted when
+
+382
+00:17:18,171 --> 00:17:22,581
+a neutrino becomes an electron or when an electron
+
+383
+00:17:22,581 --> 00:17:27,122
+becomes a neutrino, the charge difference must be the same.
+
+384
+00:17:27,122 --> 00:17:28,122
+Okay?
+
+385
+00:17:28,122 --> 00:17:31,821
+In fact, what goes down here would be the neutrino.
+
+386
+00:17:31,822 --> 00:17:38,982
+The neutrino, the electron neutrino, and the electron.
+
+387
+00:17:38,982 --> 00:17:41,302
+The charge difference is the same.
+
+388
+00:17:41,302 --> 00:17:45,942
+This has charge minus one, this has charge zero.
+
+389
+00:17:45,942 --> 00:17:49,192
+So the charge difference is the same and
+
+390
+00:17:49,192 --> 00:17:52,442
+it is mathematically consistent to say that a
+
+391
+00:17:52,442 --> 00:17:56,842
+W boson, the same W boson, can
+
+392
+00:17:56,842 --> 00:18:01,242
+be emitted when a neutrino becomes an electron.
+
+393
+00:18:01,242 --> 00:18:01,492
+In the next class, we
+
+394
+00:18:01,492 --> 00:18:01,742
+will discuss the difference of charge.
+
+395
+00:18:01,822 --> 00:18:07,122
+So, in the last column, under the
+
+396
+00:18:07,122 --> 00:18:12,422
+CHARM strange column, comes the neutrino associated with
+
+397
+00:18:12,422 --> 00:18:15,602
+the muon and the muon.
+
+398
+00:18:15,602 --> 00:18:18,352
+The muon is in every respect, at least as
+
+399
+00:18:18,352 --> 00:18:21,102
+far as we know, essentially the same as the
+
+400
+00:18:21,102 --> 00:18:26,822
+electron except its mass is about 200 times larger.
+
+401
+00:18:26,822 --> 00:18:28,942
+Again, no rhyme, no reason
+
+402
+00:18:28,942 --> 00:18:31,062
+for that at the present time.
+
+403
+00:18:31,062 --> 00:18:34,162
+And then, under the top-bottom column, the
+
+404
+00:18:34,162 --> 00:18:37,262
+heaviest of the quarks is matched with the
+
+405
+00:18:37,262 --> 00:18:39,022
+heaviest of the leptons.
+
+406
+00:18:39,022 --> 00:18:41,862
+Incidentally, we don't know the details of
+
+407
+00:18:41,862 --> 00:18:44,702
+the masses of the neutrinos very well.
+
+408
+00:18:44,702 --> 00:18:48,502
+All right, there's the neutrino associated with
+
+409
+00:18:48,502 --> 00:18:52,302
+the tau lepton and the tau lepton.
+
+410
+00:18:52,302 --> 00:18:55,182
+And the tau lepton is quite
+
+411
+00:18:55,182 --> 00:18:58,062
+a bit heavier than any other lepton.
+
+412
+00:18:58,062 --> 00:18:59,062
+So, we're going to look at the neutrinos.
+
+413
+00:18:59,062 --> 00:19:00,062
+We're going to look at the neutrinos.
+
+414
+00:19:00,062 --> 00:19:01,062
+We're going to look at the neutrinos.
+
+415
+00:19:01,062 --> 00:19:02,062
+So, let's look at the neutrinos.
+
+416
+00:19:02,062 --> 00:19:03,062
+Leptons, I understand.
+
+417
+00:19:03,062 --> 00:19:04,062
+What is it?
+
+418
+00:19:04,062 --> 00:19:06,062
+I don't remember right now what
+
+419
+00:19:06,062 --> 00:19:08,062
+the word lep in Greek stands for.
+
+420
+00:19:08,062 --> 00:19:09,062
+What is it?
+
+421
+00:19:09,062 --> 00:19:10,062
+Light.
+
+422
+00:19:10,062 --> 00:19:11,062
+Light.
+
+423
+00:19:11,062 --> 00:19:12,062
+Not heavy.
+
+424
+00:19:12,062 --> 00:19:13,062
+Not heavy.
+
+425
+00:19:13,062 --> 00:19:14,062
+Right.
+
+426
+00:19:14,062 --> 00:19:15,062
+Oh, and baryons stand for heavy.
+
+427
+00:19:15,062 --> 00:19:16,062
+Yeah.
+
+428
+00:19:16,062 --> 00:19:19,062
+And mesons stand for something in the middle.
+
+429
+00:19:19,062 --> 00:19:20,062
+That's right.
+
+430
+00:19:20,062 --> 00:19:21,062
+Meson.
+
+431
+00:19:21,062 --> 00:19:22,062
+Okay.
+
+432
+00:19:22,062 --> 00:19:24,862
+The terminology historically was a little bit confused.
+
+433
+00:19:24,862 --> 00:19:27,562
+Mesons meant something in the middle.
+
+434
+00:19:27,562 --> 00:19:30,062
+Baryons meant something heavy like protons and neutrons.
+
+435
+00:19:30,062 --> 00:19:32,062
+And leptons meant something light.
+
+436
+00:19:32,062 --> 00:19:35,422
+Well, because of that, the muon was called
+
+437
+00:19:35,422 --> 00:19:38,782
+the mu meson because it was sort of midway
+
+438
+00:19:38,782 --> 00:19:41,702
+between the proton and the electron.
+
+439
+00:19:41,702 --> 00:19:45,332
+That terminology went away when it was realized
+
+440
+00:19:45,332 --> 00:19:48,962
+just how different the muon was from the pion,
+
+441
+00:19:48,962 --> 00:19:50,742
+which has a comparable mass to it.
+
+442
+00:19:50,742 --> 00:19:52,652
+It was much more like the
+
+443
+00:19:52,652 --> 00:19:54,562
+electron than it was like the pion.
+
+444
+00:19:54,562 --> 00:19:56,312
+And so mesons are now reserved
+
+445
+00:19:56,312 --> 00:19:58,062
+for quark-anti-quark pairs, and they're always bosons.
+
+446
+00:19:58,062 --> 00:19:58,562
+And mesons are now reserved for
+
+447
+00:19:58,562 --> 00:19:59,062
+quark-anti-quark pairs, and they're always bosons.
+
+448
+00:19:59,062 --> 00:20:02,062
+And the muon is no
+
+449
+00:20:02,062 --> 00:20:05,062
+longer ever called the mu meson.
+
+450
+00:20:05,062 --> 00:20:07,062
+So that's just a historical note.
+
+451
+00:20:07,062 --> 00:20:08,062
+Okay.
+
+452
+00:20:08,062 --> 00:20:14,822
+Now, what is the probability of this process?
+
+453
+00:20:14,822 --> 00:20:16,222
+It's a Feynman diagram.
+
+454
+00:20:16,222 --> 00:20:19,862
+Every Feynman diagram has some parts to it.
+
+455
+00:20:19,862 --> 00:20:22,232
+And the parts consist, first
+
+456
+00:20:22,232 --> 00:20:24,602
+of all, of vertices and propagators.
+
+457
+00:20:24,602 --> 00:20:26,652
+Propagators are the elements which have to
+
+458
+00:20:26,652 --> 00:20:28,702
+do with the motion of a particle.
+
+459
+00:20:28,702 --> 00:20:31,702
+A particle from one point to another.
+
+460
+00:20:31,702 --> 00:20:34,702
+In this particular case, the motion of
+
+461
+00:20:34,702 --> 00:20:37,702
+the W from the point where it's emitted
+
+462
+00:20:37,702 --> 00:20:42,202
+to the point where the electron
+
+463
+00:20:42,202 --> 00:20:46,702
+neutrino or electron anti-neutrino are created.
+
+464
+00:20:46,702 --> 00:20:49,702
+So this process has two main ingredients that
+
+465
+00:20:49,702 --> 00:20:52,702
+we can isolate from the rest of it.
+
+466
+00:20:52,702 --> 00:20:54,702
+One of them is two powers.
+
+467
+00:20:54,702 --> 00:20:56,702
+Let's give the coupling constant a name.
+
+468
+00:20:56,702 --> 00:20:57,702
+The coupling constant is a function of the muon.
+
+469
+00:20:57,702 --> 00:20:58,702
+The coupling constant is a function of the muon.
+
+470
+00:20:58,702 --> 00:20:59,702
+we call it Mgu, we call
+
+471
+00:20:59,702 --> 00:21:00,702
+it OK like we call it.
+
+472
+00:21:00,702 --> 00:21:02,702
+It's a relação constante of the muon.
+
+473
+00:21:02,702 --> 00:21:05,702
+ift
+
+474
+00:21:06,062 --> 00:21:09,162
+But it's also an interaction coupling
+
+475
+00:21:09,162 --> 00:21:12,262
+constant for the emission of a W.
+
+476
+00:21:12,262 --> 00:21:15,562
+Let's call it Nhw.
+
+477
+00:21:15,562 --> 00:21:16,642
+hhjhthht Ahhhonce
+
+478
+00:21:16,642 --> 00:21:17,882
+Ahhthhthhh36
+
+479
+00:21:17,882 --> 00:21:18,882
+rht ç
+
+480
+00:21:18,882 --> 00:21:19,782
+I
+
+481
+00:21:19,782 --> 00:21:22,642
+The strong interaction coupling constant for
+
+482
+00:21:22,642 --> 00:21:25,502
+emitting a gluon we called G strong.
+
+483
+00:21:25,502 --> 00:21:27,702
+This one is G weak.
+
+484
+00:21:27,702 --> 00:21:31,372
+enormously small. It's not the smallness
+
+485
+00:21:31,372 --> 00:21:35,042
+of this coupling constant which accounts for
+
+486
+00:21:35,042 --> 00:21:40,102
+the improbable nature of weak interactions. So first
+
+487
+00:21:40,102 --> 00:21:45,162
+of all, we get two powers g weak
+
+488
+00:21:45,162 --> 00:21:49,852
+squared. That's analogous to the two powers
+
+489
+00:21:49,852 --> 00:21:54,542
+of electron charge if we exchange a photon.
+
+490
+00:21:54,542 --> 00:21:56,812
+This is expected to be a number of about
+
+491
+00:21:56,812 --> 00:21:59,082
+1 over 100. It's not exactly the fine structure
+
+492
+00:21:59,082 --> 00:22:01,342
+constant. It's within a factor of 3 or
+
+493
+00:22:01,342 --> 00:22:03,602
+something. It's close to the fine structure constant
+
+494
+00:22:03,602 --> 00:22:06,072
+order of magnitude. That's what this is.
+
+495
+00:22:06,072 --> 00:22:08,542
+But then there's something else. There is the
+
+496
+00:22:08,542 --> 00:22:12,262
+propagator of the W boson. So we have
+
+497
+00:22:12,262 --> 00:22:15,982
+to know a little bit about propagators in quantum
+
+498
+00:22:15,982 --> 00:22:19,122
+field theory. They are the factors which
+
+499
+00:22:19,122 --> 00:22:22,262
+are inserted into a Feynman diagram to account
+
+500
+00:22:22,262 --> 00:22:23,382
+for the motion of a
+
+501
+00:22:23,382 --> 00:22:24,502
+particle from one point to another.
+
+502
+00:22:24,542 --> 00:22:28,852
+As such, they are simply functions of
+
+503
+00:22:28,852 --> 00:22:33,162
+the spacetime difference or the spacetime distance
+
+504
+00:22:33,162 --> 00:22:37,012
+between the emission and absorption. They're functions,
+
+505
+00:22:37,012 --> 00:22:40,862
+if you like, of the magnitude or
+
+506
+00:22:40,862 --> 00:22:44,952
+the proper time along between this event and
+
+507
+00:22:44,952 --> 00:22:49,042
+that event. But in any case, they're functions
+
+508
+00:22:49,042 --> 00:22:51,792
+that propagator. Let's call it
+
+509
+00:22:51,792 --> 00:22:54,542
+delta. Delta for distance between.
+
+510
+00:22:54,542 --> 00:22:58,082
+The two points. It's a function of
+
+511
+00:22:58,082 --> 00:23:01,622
+the spacetime distance between those points. Function of
+
+512
+00:23:01,622 --> 00:23:07,052
+distance. And it has the following property. It
+
+513
+00:23:07,052 --> 00:23:12,482
+depends crucially on the mass of the particle
+
+514
+00:23:12,482 --> 00:23:15,672
+that's being exchanged. It depends on the following
+
+515
+00:23:15,672 --> 00:23:18,862
+way. If we were to plot it, if we
+
+516
+00:23:18,862 --> 00:23:21,542
+were to plot it as a function of distance.
+
+517
+00:23:24,542 --> 00:23:27,982
+Now, if we went through all the mathematics
+
+518
+00:23:27,982 --> 00:23:31,422
+of quantum field theory and worked out the
+
+519
+00:23:31,422 --> 00:23:34,642
+propagator, we would find that it's got a
+
+520
+00:23:34,642 --> 00:23:37,862
+lot of stuff in it. It's got Bessel functions.
+
+521
+00:23:37,862 --> 00:23:41,012
+It's a complicated function, but not that
+
+522
+00:23:41,012 --> 00:23:44,162
+complicated. But the important aspect of it
+
+523
+00:23:44,162 --> 00:23:48,822
+is that it is large at small distances. It
+
+524
+00:23:48,822 --> 00:23:53,482
+falls or it grows like one over the distance
+
+525
+00:23:53,482 --> 00:23:54,482
+to some power.
+
+526
+00:23:54,542 --> 00:23:58,402
+One over the distance squared between the two
+
+527
+00:23:58,402 --> 00:24:02,262
+points. So it's very large at small distances.
+
+528
+00:24:02,262 --> 00:24:05,522
+But then at the end, if the particle had
+
+529
+00:24:05,522 --> 00:24:08,782
+no mass, it would just continue on its way with
+
+530
+00:24:08,782 --> 00:24:14,372
+the same power law fall off. It would
+
+531
+00:24:14,372 --> 00:24:19,962
+just fall off gradually with one universal behavior,
+
+532
+00:24:19,962 --> 00:24:21,992
+which would go like one over the
+
+533
+00:24:21,992 --> 00:24:24,022
+square of the distance between the points.
+
+534
+00:24:24,542 --> 00:24:26,222
+That's the way it would behave.
+
+535
+00:24:26,222 --> 00:24:30,442
+But, the mass of this particle introduces
+
+536
+00:24:30,442 --> 00:24:34,662
+a new ingredient. It introduces an ingredient
+
+537
+00:24:34,662 --> 00:24:41,142
+which causes the propagator to decrease
+
+538
+00:24:41,142 --> 00:24:47,622
+suddenly like that. It decreases exponentially fast.
+
+539
+00:24:47,622 --> 00:24:50,382
+Exponentially fast. In other words, the power
+
+540
+00:24:50,382 --> 00:24:53,142
+law gives rise to an exponential. And the
+
+541
+00:24:53,142 --> 00:24:54,142
+interesting question is…..
+
+542
+00:24:54,542 --> 00:24:57,362
+that happen? Where does that happen? At
+
+543
+00:24:57,362 --> 00:25:00,182
+what value of distance does the mass
+
+544
+00:25:00,182 --> 00:25:02,822
+suddenly manifest itself and tell the
+
+545
+00:25:02,822 --> 00:25:05,462
+particle, hey, you're out there and you
+
+546
+00:25:05,462 --> 00:25:07,092
+shouldn't be out there because you're carrying
+
+547
+00:25:07,092 --> 00:25:08,722
+off mass and there's no mass to
+
+548
+00:25:08,722 --> 00:25:12,152
+carry off. I mean you're carrying off some
+
+549
+00:25:12,152 --> 00:25:15,582
+mass from a, from, and there just is
+
+550
+00:25:15,582 --> 00:25:18,052
+none, you've got to get back there. That's,
+
+551
+00:25:18,052 --> 00:25:20,522
+but you don't have to think about it in
+
+552
+00:25:20,522 --> 00:25:22,412
+terms of a story. The propagator
+
+553
+00:25:22,412 --> 00:25:24,302
+has an exponential decrease. Where does it
+
+554
+00:25:24,302 --> 00:25:27,692
+happen? And the answer is just
+
+555
+00:25:27,692 --> 00:25:31,082
+dimensional analysis. In units in which C
+
+556
+00:25:31,082 --> 00:25:37,282
+equals h bar equals 1, pick such units,
+
+557
+00:25:37,282 --> 00:25:43,482
+mass, mass has the same, sorry, mass has
+
+558
+00:25:43,482 --> 00:25:47,222
+the same units. Now when I write M
+
+559
+00:25:47,222 --> 00:25:50,962
+equals, I simply mean units. What's the usual
+
+560
+00:25:50,962 --> 00:25:52,622
+notation for units? To put
+
+561
+00:25:52,622 --> 00:25:54,282
+a square bracket around the quantity?
+
+562
+00:25:54,282 --> 00:25:58,792
+Okay, the standard notation for the units
+
+563
+00:25:58,792 --> 00:26:03,302
+of an object that to put a bracket
+
+564
+00:26:03,302 --> 00:26:06,592
+around it, a mass has the same units
+
+565
+00:26:06,592 --> 00:26:09,882
+as an energy, well why is that? That's
+
+566
+00:26:09,882 --> 00:26:12,502
+because E equals MC squared and if C is
+
+567
+00:26:12,502 --> 00:26:15,122
+equal to 1, etc, etc, but they also have
+
+568
+00:26:15,122 --> 00:26:22,402
+the same units as inverse length, length.
+
+569
+00:26:24,282 --> 00:26:28,732
+Mass has the same units as inverse
+
+570
+00:26:28,732 --> 00:26:33,182
+length. Or, oh incidentally, there's a third quantity
+
+571
+00:26:33,182 --> 00:26:35,542
+which has the same units of
+
+572
+00:26:35,542 --> 00:26:37,902
+mass and energy. What is it?
+
+573
+00:26:37,902 --> 00:26:43,862
+Momentum. Same as momentum. Now, what about
+
+574
+00:26:43,862 --> 00:26:49,822
+momentum times distance? What are the units
+
+575
+00:26:49,822 --> 00:26:51,282
+of momentum times distance?
+
+576
+00:26:51,282 --> 00:26:52,282
+No?
+
+577
+00:26:52,282 --> 00:26:53,282
+M.
+
+578
+00:26:53,282 --> 00:26:54,282
+M.
+
+579
+00:26:54,282 --> 00:26:55,282
+Uncertainty?
+
+580
+00:26:55,282 --> 00:26:56,282
+Uncertainty.
+
+581
+00:26:56,282 --> 00:26:57,282
+Uncertainty.
+
+582
+00:26:57,282 --> 00:26:59,322
+Think uncertainty principle. Think
+
+583
+00:26:59,322 --> 00:27:01,362
+uncertainty principle. Momentum times distance
+
+584
+00:27:01,362 --> 00:27:06,192
+is h bar. But h bar is dimensionless
+
+585
+00:27:06,192 --> 00:27:11,022
+in these units. So momentum and distance simply have
+
+586
+00:27:11,022 --> 00:27:15,122
+inverse units to each other. Okay? So
+
+587
+00:27:15,122 --> 00:27:19,222
+therefore, length has inverse distance to both mass,
+
+588
+00:27:19,222 --> 00:27:21,182
+energy and also momentum.
+
+589
+00:27:21,182 --> 00:27:22,682
+Therefore, we can say that,
+
+590
+00:27:22,682 --> 00:27:24,182
+or we can write it differently.
+
+591
+00:27:24,182 --> 00:27:32,182
+we can write that length has units of inverse mass.
+
+592
+00:27:32,182 --> 00:27:35,182
+Yeah, one over mass.
+
+593
+00:27:37,182 --> 00:27:40,182
+Well, that tells us the
+
+594
+00:27:40,182 --> 00:27:43,182
+horizontal axis here was distance, d.
+
+595
+00:27:43,182 --> 00:27:46,182
+The mass of the particle is m,
+
+596
+00:27:46,182 --> 00:27:49,182
+and that tells us that the distance
+
+597
+00:27:49,182 --> 00:27:51,182
+at which it falls off like this, the
+
+598
+00:27:51,182 --> 00:27:53,182
+only way that we can make a distance
+
+599
+00:27:53,182 --> 00:27:56,682
+using the mass of the particle,
+
+600
+00:27:56,682 --> 00:28:00,182
+occurs at a distance of one over
+
+601
+00:28:00,182 --> 00:28:02,182
+the mass of the particle.
+
+602
+00:28:02,182 --> 00:28:07,182
+Now that's really the Compton wavelength of the particle.
+
+603
+00:28:09,182 --> 00:28:10,682
+If we put back some c's
+
+604
+00:28:10,682 --> 00:28:12,182
+and h-bars, what would it be?
+
+605
+00:28:12,182 --> 00:28:14,182
+h-bar over mc.
+
+606
+00:28:14,182 --> 00:28:18,182
+Let's put back the h-bars and h-bar over mc.
+
+607
+00:28:19,182 --> 00:28:23,182
+Distance at a distance of order h-bar over mc.
+
+608
+00:28:23,182 --> 00:28:30,182
+The propagator suddenly dives down as an exponential.
+
+609
+00:28:30,182 --> 00:28:32,182
+Excuse me, what is the vertical axis of the particle?
+
+610
+00:28:32,182 --> 00:28:36,182
+The vertical axis is the size of delta.
+
+611
+00:28:36,182 --> 00:28:38,182
+Delta.
+
+612
+00:28:41,182 --> 00:28:44,682
+And what it is, is its
+
+613
+00:28:44,682 --> 00:28:48,182
+square of the propagator is the probability
+
+614
+00:28:48,182 --> 00:28:52,182
+that the particle can go that far before it emits.
+
+615
+00:28:53,182 --> 00:28:56,182
+So what this is saying is
+
+616
+00:28:56,182 --> 00:28:59,182
+that there's a sudden sharp turn off
+
+617
+00:28:59,182 --> 00:29:01,182
+of the probability for the
+
+618
+00:29:01,182 --> 00:29:03,182
+particle to go a given distance
+
+619
+00:29:03,182 --> 00:29:09,182
+before converting like this, which is controlled by the mass
+
+620
+00:29:09,182 --> 00:29:11,182
+of the particle.
+
+621
+00:29:11,182 --> 00:29:13,182
+In particular, the heavier the mass of the particle,
+
+622
+00:29:13,182 --> 00:29:18,182
+the less the distance it can go
+
+623
+00:29:18,182 --> 00:29:23,182
+before it has to give up its energy,
+
+624
+00:29:23,182 --> 00:29:25,182
+which is the probability in this form.
+
+625
+00:29:25,182 --> 00:29:31,182
+All right, now, usually what's prescribed in an experiment
+
+626
+00:29:31,182 --> 00:29:36,182
+is not the two points where these events take place.
+
+627
+00:29:36,182 --> 00:29:38,682
+What's prescribed in an experiment
+
+628
+00:29:38,682 --> 00:29:41,182
+is the momenta of the particles.
+
+629
+00:29:41,182 --> 00:29:44,182
+You measure the momentum of the particles.
+
+630
+00:29:44,182 --> 00:29:47,182
+You measure the momentum of the incident particle,
+
+631
+00:29:47,182 --> 00:29:49,182
+p of the proton.
+
+632
+00:29:49,182 --> 00:29:51,182
+No, this is the neutron down here.
+
+633
+00:29:51,182 --> 00:29:52,182
+Neutron.
+
+634
+00:29:52,182 --> 00:29:56,182
+You measure the momentum of the proton.
+
+635
+00:29:56,182 --> 00:29:58,182
+And what do you know?
+
+636
+00:29:58,182 --> 00:30:00,182
+You know the momentum of the W boson.
+
+637
+00:30:00,182 --> 00:30:02,682
+The momentum of the W boson
+
+638
+00:30:02,682 --> 00:30:05,182
+is the difference of the momentum
+
+639
+00:30:05,182 --> 00:30:07,182
+of the proton and neutron.
+
+640
+00:30:07,182 --> 00:30:09,182
+So you know the momentum of the W boson.
+
+641
+00:30:09,182 --> 00:30:11,182
+And of course, that tells you
+
+642
+00:30:11,182 --> 00:30:13,182
+the momentum of the electron and neutrino
+
+643
+00:30:13,182 --> 00:30:15,182
+by momentum conservation.
+
+644
+00:30:15,182 --> 00:30:17,682
+You don't, as a rule, certainly
+
+645
+00:30:17,682 --> 00:30:20,182
+not in these kind of experiments,
+
+646
+00:30:20,182 --> 00:30:22,182
+actually know the difference.
+
+647
+00:30:22,182 --> 00:30:24,182
+You know the distance between those two points.
+
+648
+00:30:24,182 --> 00:30:26,182
+You know the momentum.
+
+649
+00:30:26,182 --> 00:30:29,182
+But there's a relationship between functions of momentum
+
+650
+00:30:29,182 --> 00:30:33,182
+and functions of position, or functions of distance.
+
+651
+00:30:33,182 --> 00:30:36,182
+And that relationship is Fourier transform.
+
+652
+00:30:36,182 --> 00:30:40,182
+You can think of the propagator either
+
+653
+00:30:40,182 --> 00:30:44,182
+as a function of positions or momentum.
+
+654
+00:30:44,182 --> 00:30:46,682
+You can think of it as
+
+655
+00:30:46,682 --> 00:30:49,182
+a function of either position or momentum.
+
+656
+00:30:49,182 --> 00:30:51,182
+The position, distance between here and here,
+
+657
+00:30:51,182 --> 00:30:57,182
+or the Fourier transform of this function,
+
+658
+00:30:57,182 --> 00:30:59,182
+the Fourier transform of it,
+
+659
+00:30:59,182 --> 00:31:02,182
+is the amplitude for emitting
+
+660
+00:31:02,182 --> 00:31:05,182
+a W with a given momentum.
+
+661
+00:31:05,182 --> 00:31:08,182
+So the question is, what does the Fourier transform
+
+662
+00:31:08,182 --> 00:31:12,182
+of a function like this look like?
+
+663
+00:31:12,182 --> 00:31:14,182
+I'm not going to work it out.
+
+664
+00:31:14,182 --> 00:31:19,182
+This is something you can go and study for yourself.
+
+665
+00:31:19,182 --> 00:31:20,682
+So, if you have a
+
+666
+00:31:20,682 --> 00:31:22,182
+function which has a power law
+
+667
+00:31:22,182 --> 00:31:26,182
+and then a sudden decrease like that,
+
+668
+00:31:26,182 --> 00:31:29,682
+I will simply tell you what
+
+669
+00:31:29,682 --> 00:31:33,182
+the Fourier transform of the propagator is.
+
+670
+00:31:33,182 --> 00:31:36,182
+The Fourier transform is a function of the
+
+671
+00:31:36,182 --> 00:31:39,182
+square of the momentum of the W boson,
+
+672
+00:31:39,182 --> 00:31:42,182
+and also, parametrically, it depends on
+
+673
+00:31:42,182 --> 00:31:45,182
+the mass of the W boson.
+
+674
+00:31:45,182 --> 00:31:47,182
+Let's call it
+
+675
+00:31:49,182 --> 00:31:50,182
+twiddle.
+
+676
+00:31:50,182 --> 00:31:52,182
+Twiddle stands for Fourier transform.
+
+677
+00:31:52,182 --> 00:31:54,182
+And it's a function,
+
+678
+00:31:54,182 --> 00:31:56,182
+what should we call the momentum of the W?
+
+679
+00:31:56,182 --> 00:32:02,182
+Let's call it k.
+
+680
+00:32:02,182 --> 00:32:05,182
+And what does it look like? It's very simple.
+
+681
+00:32:05,182 --> 00:32:08,182
+1 divided by k squared plus
+
+682
+00:32:08,182 --> 00:32:11,182
+the mass of the W squared.
+
+683
+00:32:11,182 --> 00:32:13,182
+That's it.
+
+684
+00:32:13,182 --> 00:32:15,182
+That's the factor.
+
+685
+00:32:15,182 --> 00:32:17,182
+That's the factor that you put in,
+
+686
+00:32:17,182 --> 00:32:20,182
+and you know the momentum of the W.
+
+687
+00:32:20,182 --> 00:32:21,182
+And how would you know it?
+
+688
+00:32:21,182 --> 00:32:23,182
+By measuring the initial and final
+
+689
+00:32:23,182 --> 00:32:25,182
+momentum of the proton and neutron.
+
+690
+00:32:25,182 --> 00:32:28,182
+You measure the momentum of the W,
+
+691
+00:32:28,182 --> 00:32:31,182
+and then you insert this factor
+
+692
+00:32:31,182 --> 00:32:34,182
+in as one of the factors into
+
+693
+00:32:34,182 --> 00:32:37,182
+the amplitude for the emission of the W.
+
+694
+00:32:37,182 --> 00:32:39,182
+That's the rule.
+
+695
+00:32:39,182 --> 00:32:42,182
+That's Feynman's rules.
+
+696
+00:32:42,182 --> 00:32:45,182
+And that's it.
+
+697
+00:32:45,182 --> 00:32:46,182
+The addition,
+
+698
+00:32:46,182 --> 00:32:49,182
+oh, first of all, let's talk about a photon.
+
+699
+00:32:49,182 --> 00:32:52,182
+If we emit a photon, it has no mass.
+
+700
+00:32:52,182 --> 00:32:55,182
+And it's just 1 over k squared.
+
+701
+00:32:55,182 --> 00:32:58,182
+Typically, when you emit a photon,
+
+702
+00:32:58,182 --> 00:33:01,182
+in ordinary quantum electrodynamics,
+
+703
+00:33:01,182 --> 00:33:03,682
+the momentum of the photon is
+
+704
+00:33:03,682 --> 00:33:06,182
+pretty low by particle physics standards.
+
+705
+00:33:06,182 --> 00:33:10,682
+It's typically, you know, a few
+
+706
+00:33:10,682 --> 00:33:15,182
+hundred electron volts or something like that.
+
+707
+00:33:15,182 --> 00:33:18,182
+It's a very small k.
+
+708
+00:33:18,182 --> 00:33:21,182
+And so, the propagator for emitting the photon
+
+709
+00:33:21,182 --> 00:33:24,182
+at low momentum is rather large.
+
+710
+00:33:24,182 --> 00:33:27,182
+At low momentum, this is a
+
+711
+00:33:27,182 --> 00:33:30,182
+big number as k goes to 0.
+
+712
+00:33:30,182 --> 00:33:32,182
+The weak interactions,
+
+713
+00:33:32,182 --> 00:33:34,182
+we know that the probability
+
+714
+00:33:34,182 --> 00:33:36,182
+of emission is much, much smaller.
+
+715
+00:33:36,182 --> 00:33:39,182
+As I said, it is not the coupling constant there.
+
+716
+00:33:39,182 --> 00:33:41,182
+So the only thing it can be
+
+717
+00:33:41,182 --> 00:33:43,182
+is the mass of the W boson.
+
+718
+00:33:43,182 --> 00:33:47,182
+If the mass of the W boson is very large,
+
+719
+00:33:47,182 --> 00:33:49,182
+for whatever reason,
+
+720
+00:33:49,182 --> 00:33:53,182
+then this is always going to be small.
+
+721
+00:33:53,182 --> 00:33:56,182
+In fact, the biggest it will ever be
+
+722
+00:33:56,182 --> 00:34:01,182
+is what happens when k is equal to 0.
+
+723
+00:34:01,182 --> 00:34:04,182
+When k is equal to 0,
+
+724
+00:34:04,182 --> 00:34:06,182
+this propagator here is equal
+
+725
+00:34:06,182 --> 00:34:08,181
+to just 1 over mw squared,
+
+726
+00:34:08,181 --> 00:34:10,181
+and it's never bigger than that.
+
+727
+00:34:10,181 --> 00:34:12,181
+That's as big as it gets.
+
+728
+00:34:13,181 --> 00:34:15,181
+So the most likely thing to happen
+
+729
+00:34:15,181 --> 00:34:19,181
+is to emit a low momentum W.
+
+730
+00:34:19,181 --> 00:34:21,181
+And if you do,
+
+731
+00:34:21,181 --> 00:34:25,181
+it costs you a probability amplitude
+
+732
+00:34:25,181 --> 00:34:27,181
+equal to 1 divided by
+
+733
+00:34:27,181 --> 00:34:29,181
+the mass of the W squared.
+
+734
+00:34:29,181 --> 00:34:31,181
+This is standard quantum field theory.
+
+735
+00:34:31,181 --> 00:34:35,181
+In addition, there are the coupling constants.
+
+736
+00:34:35,181 --> 00:34:37,181
+So the net result
+
+737
+00:34:37,181 --> 00:34:40,181
+is that the probability, or the amplitude,
+
+738
+00:34:40,181 --> 00:34:41,181
+not the probability,
+
+739
+00:34:41,181 --> 00:34:43,181
+the amplitude for emitting,
+
+740
+00:34:43,181 --> 00:34:47,181
+emitting a W
+
+741
+00:34:47,181 --> 00:34:51,181
+and having it convert to an electron neutrino
+
+742
+00:34:51,181 --> 00:34:54,181
+is gw squared
+
+743
+00:34:54,181 --> 00:34:59,182
+divided by mw squared.
+
+744
+00:34:59,182 --> 00:35:04,182
+The mw squared is the factor in this Feynman diagram
+
+745
+00:35:04,182 --> 00:35:08,182
+for the W to go from here to here.
+
+746
+00:35:08,182 --> 00:35:10,182
+Or at least that's the biggest it can get.
+
+747
+00:35:10,182 --> 00:35:11,182
+Yeah.
+
+748
+00:35:11,182 --> 00:35:12,182
+Richard?
+
+749
+00:35:12,182 --> 00:35:14,182
+So in the other propagators,
+
+750
+00:35:14,182 --> 00:35:16,182
+the k squared part has minus signs in it.
+
+751
+00:35:16,182 --> 00:35:18,182
+k0 squared minus k1 squared.
+
+752
+00:35:18,182 --> 00:35:20,182
+Well, yes, this is true.
+
+753
+00:35:20,182 --> 00:35:22,182
+This is true.
+
+754
+00:35:22,182 --> 00:35:24,182
+Where...
+
+755
+00:35:24,182 --> 00:35:26,682
+Okay, so there we have
+
+756
+00:35:26,682 --> 00:35:29,182
+to get a little more technical.
+
+757
+00:35:29,182 --> 00:35:33,182
+And that mostly comes into play, yeah.
+
+758
+00:35:33,182 --> 00:35:36,182
+The...
+
+759
+00:35:36,182 --> 00:35:40,182
+Very little energy is emitted in a situation like this,
+
+760
+00:35:40,182 --> 00:35:42,182
+more momentum than energy.
+
+761
+00:35:42,182 --> 00:35:44,182
+So it's mostly space-like,
+
+762
+00:35:44,182 --> 00:35:46,182
+which means it's positive.
+
+763
+00:35:50,182 --> 00:35:51,182
+The reaction...
+
+764
+00:35:51,182 --> 00:35:53,182
+You would have to worry about this
+
+765
+00:35:53,182 --> 00:35:56,182
+if the momentum of this was time-like,
+
+766
+00:35:56,182 --> 00:35:59,182
+but it's not in these kind of processes.
+
+767
+00:35:59,182 --> 00:36:03,182
+But still, the main thing is that it's always small.
+
+768
+00:36:03,182 --> 00:36:06,182
+Why is it small?
+
+769
+00:36:06,182 --> 00:36:08,182
+A proton becomes...
+
+770
+00:36:08,182 --> 00:36:11,182
+In a beta decay,
+
+771
+00:36:11,182 --> 00:36:13,682
+the amount of momentum that's
+
+772
+00:36:13,682 --> 00:36:16,182
+transferred from the proton to the...
+
+773
+00:36:16,182 --> 00:36:18,182
+Or from the neutron to the proton
+
+774
+00:36:18,182 --> 00:36:20,182
+is minuscule by comparison with
+
+775
+00:36:20,182 --> 00:36:22,182
+the mass of the W boson.
+
+776
+00:36:22,182 --> 00:36:23,182
+Minuscule.
+
+777
+00:36:23,182 --> 00:36:26,182
+So it doesn't even matter whether it's positive or negative,
+
+778
+00:36:26,182 --> 00:36:27,182
+the k squared.
+
+779
+00:36:27,182 --> 00:36:30,182
+It's tiny by comparison with the...
+
+780
+00:36:30,182 --> 00:36:33,182
+With the mass of the W.
+
+781
+00:36:33,182 --> 00:36:36,182
+So the net result is that...
+
+782
+00:36:36,182 --> 00:36:42,182
+The weak interactions are made weak
+
+783
+00:36:42,182 --> 00:36:46,182
+because of the large mass of the W.
+
+784
+00:36:46,182 --> 00:36:48,182
+How large is it?
+
+785
+00:36:48,182 --> 00:36:51,182
+About a hundred times the mass of a proton.
+
+786
+00:36:51,182 --> 00:36:57,182
+So that means that the amplitude...
+
+787
+00:36:57,182 --> 00:37:00,182
+The amplitude for this process
+
+788
+00:37:00,182 --> 00:37:03,182
+is going to have a factor...
+
+789
+00:37:03,182 --> 00:37:05,182
+A relatively small factor from GW squared.
+
+790
+00:37:05,182 --> 00:37:08,182
+Roughly the fine structure constant.
+
+791
+00:37:08,182 --> 00:37:11,182
+And then a one over MW squared,
+
+792
+00:37:11,182 --> 00:37:15,182
+which is a tiny fraction squared.
+
+793
+00:37:15,182 --> 00:37:17,182
+The mass of the W is
+
+794
+00:37:17,182 --> 00:37:19,182
+a hundred times the proton mass.
+
+795
+00:37:19,182 --> 00:37:21,182
+That's a factor of ten thousand.
+
+796
+00:37:21,182 --> 00:37:23,182
+But that's just the amplitude.
+
+797
+00:37:23,182 --> 00:37:25,182
+We have to square the whole thing
+
+798
+00:37:25,182 --> 00:37:29,182
+to find the probability for the reaction to happen.
+
+799
+00:37:29,182 --> 00:37:31,182
+So what does that mean?
+
+800
+00:37:31,182 --> 00:37:34,182
+That means something like GW to the fourth
+
+801
+00:37:34,182 --> 00:37:36,182
+divided by MW to the fourth.
+
+802
+00:37:36,182 --> 00:37:38,182
+That's a very small number.
+
+803
+00:37:38,182 --> 00:37:40,182
+That's a very small number
+
+804
+00:37:40,182 --> 00:37:42,182
+if the mass of the W is large.
+
+805
+00:37:42,182 --> 00:37:45,182
+That's why weak interactions are small.
+
+806
+00:37:45,182 --> 00:37:49,182
+Not because the primordial coupling constant is small,
+
+807
+00:37:49,182 --> 00:37:51,182
+but because the mass of the W,
+
+808
+00:37:51,182 --> 00:37:53,182
+for whatever reasons,
+
+809
+00:37:53,182 --> 00:37:55,182
+happens to be large
+
+810
+00:37:55,182 --> 00:37:57,182
+in nuclear physics
+
+811
+00:37:57,182 --> 00:38:01,182
+or in proton-neutron type mass units.
+
+812
+00:38:01,182 --> 00:38:03,182
+And the usual units of nuclear physics
+
+813
+00:38:03,182 --> 00:38:08,182
+or old particle physics,
+
+814
+00:38:08,182 --> 00:38:11,182
+the mass of the W is large.
+
+815
+00:38:11,182 --> 00:38:13,182
+Are you just saying that's one in a million
+
+816
+00:38:13,182 --> 00:38:15,182
+or one in a billion?
+
+817
+00:38:15,182 --> 00:38:17,182
+One in a billion.
+
+818
+00:38:17,182 --> 00:38:19,182
+GW squared is about ten
+
+819
+00:38:19,182 --> 00:38:21,182
+to the minus three or something.
+
+820
+00:38:21,182 --> 00:38:24,682
+And then the mass of the
+
+821
+00:38:24,682 --> 00:38:28,182
+W is a hundred in proton units.
+
+822
+00:38:28,182 --> 00:38:33,182
+So that's ten to the four millions at least.
+
+823
+00:38:33,182 --> 00:38:36,182
+How do we know what
+
+824
+00:38:36,182 --> 00:38:39,182
+the mass of the W is?
+
+825
+00:38:39,182 --> 00:38:41,182
+From the weakness of the weak interactions.
+
+826
+00:38:41,182 --> 00:38:42,182
+Right.
+
+827
+00:38:42,182 --> 00:38:44,182
+So, right.
+
+828
+00:38:44,182 --> 00:38:46,182
+So, originally,
+
+829
+00:38:46,182 --> 00:38:49,182
+all that was known from experiment
+
+830
+00:38:49,182 --> 00:38:52,182
+was this combination.
+
+831
+00:38:52,182 --> 00:38:54,182
+What was known was that combination.
+
+832
+00:38:54,182 --> 00:38:58,182
+And it was called capital G Fermi.
+
+833
+00:38:58,182 --> 00:39:03,182
+Experimentally, what you measure
+
+834
+00:39:03,182 --> 00:39:05,182
+is neither...
+
+835
+00:39:05,182 --> 00:39:08,182
+By now, of course, there are fancier experiments,
+
+836
+00:39:08,182 --> 00:39:11,182
+but the experiments in the old days
+
+837
+00:39:11,182 --> 00:39:13,182
+where you never had enough momentum
+
+838
+00:39:13,182 --> 00:39:16,182
+to make this denominator vary very much.
+
+839
+00:39:16,182 --> 00:39:19,182
+You didn't get to see that the denominator
+
+840
+00:39:19,182 --> 00:39:21,182
+was varying with momentum.
+
+841
+00:39:21,182 --> 00:39:24,182
+All you saw was this numerical constant.
+
+842
+00:39:24,182 --> 00:39:26,182
+And it was always the same W boson in there.
+
+843
+00:39:26,182 --> 00:39:29,182
+It didn't change from one reaction to another.
+
+844
+00:39:29,182 --> 00:39:31,182
+It was always the W boson.
+
+845
+00:39:31,182 --> 00:39:33,182
+It was always Mw squared.
+
+846
+00:39:33,182 --> 00:39:36,182
+And so experimentally,
+
+847
+00:39:36,182 --> 00:39:38,182
+all you knew was this number G Fermi,
+
+848
+00:39:38,182 --> 00:39:40,182
+which is a small number.
+
+849
+00:39:40,182 --> 00:39:41,182
+A very small number.
+
+850
+00:39:41,182 --> 00:39:43,182
+Whatever its numerical value is.
+
+851
+00:39:43,182 --> 00:39:46,182
+It carries dimensions.
+
+852
+00:39:46,182 --> 00:39:48,182
+So if I told you what it is in some...
+
+853
+00:39:48,182 --> 00:39:49,182
+What should I tell you?
+
+854
+00:39:49,182 --> 00:39:52,182
+In units of light years per unit?
+
+855
+00:39:52,182 --> 00:39:53,182
+Whatever.
+
+856
+00:39:53,182 --> 00:39:55,182
+It's a small number.
+
+857
+00:39:55,182 --> 00:39:59,182
+Right.
+
+858
+00:39:59,182 --> 00:40:01,182
+So that's what was known historically.
+
+859
+00:40:01,182 --> 00:40:03,182
+Sometimes,
+
+860
+00:40:03,182 --> 00:40:04,182
+in 19...
+
+861
+00:40:04,182 --> 00:40:06,182
+Must be in the 1950s,
+
+862
+00:40:06,182 --> 00:40:07,182
+various theorists,
+
+863
+00:40:07,182 --> 00:40:08,182
+Julian Schwinger,
+
+864
+00:40:08,182 --> 00:40:10,182
+other people began to suspect,
+
+865
+00:40:10,182 --> 00:40:11,182
+look,
+
+866
+00:40:11,182 --> 00:40:14,182
+maybe the weak interactions
+
+867
+00:40:14,182 --> 00:40:17,182
+are similar to other interactions
+
+868
+00:40:17,182 --> 00:40:20,182
+and mediated by some sort of particle.
+
+869
+00:40:20,182 --> 00:40:23,182
+I don't know where the terminology W came from.
+
+870
+00:40:23,182 --> 00:40:25,182
+Probably stood for weak.
+
+871
+00:40:25,182 --> 00:40:27,182
+And I don't know if it was Schwinger or not
+
+872
+00:40:27,182 --> 00:40:28,182
+who first used it.
+
+873
+00:40:28,182 --> 00:40:29,182
+But,
+
+874
+00:40:29,182 --> 00:40:30,182
+I don't know.
+
+875
+00:40:30,182 --> 00:40:31,182
+I don't know.
+
+876
+00:40:31,182 --> 00:40:32,182
+I don't know.
+
+877
+00:40:32,182 --> 00:40:33,182
+But,
+
+878
+00:40:33,182 --> 00:40:35,182
+the idea of a particle
+
+879
+00:40:35,182 --> 00:40:36,182
+heavy enough
+
+880
+00:40:36,182 --> 00:40:38,182
+that it would make this a small number
+
+881
+00:40:38,182 --> 00:40:41,182
+was introduced sometime, I think, in the 50s.
+
+882
+00:40:41,182 --> 00:40:43,182
+But it was recognized
+
+883
+00:40:43,182 --> 00:40:45,182
+pretty much from the beginning
+
+884
+00:40:45,182 --> 00:40:47,182
+that it would take a pretty heavy particle,
+
+885
+00:40:47,182 --> 00:40:50,182
+a hundred times the mass of the proton.
+
+886
+00:40:50,182 --> 00:40:53,182
+And so it wasn't until accelerators came into being
+
+887
+00:40:53,182 --> 00:40:56,182
+where you could generate that much energy.
+
+888
+00:40:56,182 --> 00:40:59,182
+Mid 70s, late 70s,
+
+889
+00:40:59,182 --> 00:41:01,182
+where accelerators,
+
+890
+00:41:01,182 --> 00:41:04,182
+which could create enough energy to generate a W particle,
+
+891
+00:41:04,182 --> 00:41:07,182
+actually detected it and actually measured it.
+
+892
+00:41:10,182 --> 00:41:12,182
+So yeah, the W particle really exists.
+
+893
+00:41:12,182 --> 00:41:13,182
+It can be produced.
+
+894
+00:41:13,182 --> 00:41:16,182
+So at the beginning of the class today,
+
+895
+00:41:16,182 --> 00:41:19,182
+you talked about the effect of the binding energy,
+
+896
+00:41:19,182 --> 00:41:21,182
+which seems to me in this picture
+
+897
+00:41:21,182 --> 00:41:26,182
+is the presence of the field of a nearby proton
+
+898
+00:41:26,182 --> 00:41:29,182
+that suppresses this,
+
+899
+00:41:29,182 --> 00:41:30,182
+this whole process.
+
+900
+00:41:30,182 --> 00:41:32,182
+What's suppressing it?
+
+901
+00:41:32,182 --> 00:41:34,682
+The presence of the field of
+
+902
+00:41:34,682 --> 00:41:37,182
+the nearby proton in the uterine.
+
+903
+00:41:37,182 --> 00:41:38,182
+In other words,
+
+904
+00:41:38,182 --> 00:41:41,182
+It only suppresses it because of energy conservation.
+
+905
+00:41:41,182 --> 00:41:42,182
+Nothing else.
+
+906
+00:41:42,182 --> 00:41:43,182
+A thing can't happen
+
+907
+00:41:43,182 --> 00:41:44,682
+if there isn't a better
+
+908
+00:41:44,682 --> 00:41:46,182
+energy available for it to happen.
+
+909
+00:41:46,182 --> 00:41:49,182
+So that's another thing which controls rates.
+
+910
+00:41:49,182 --> 00:41:50,182
+Yeah, okay.
+
+911
+00:41:50,182 --> 00:41:53,182
+Rates are controlled by three things.
+
+912
+00:41:53,182 --> 00:41:54,182
+Or,
+
+913
+00:41:54,182 --> 00:41:55,182
+well,
+
+914
+00:41:55,182 --> 00:41:56,182
+three things.
+
+915
+00:41:56,182 --> 00:41:58,182
+Coupling constants,
+
+916
+00:41:58,182 --> 00:42:00,182
+masses of particles,
+
+917
+00:42:00,182 --> 00:42:01,182
+and energy.
+
+918
+00:42:01,182 --> 00:42:02,182
+So,
+
+919
+00:42:02,182 --> 00:42:04,182
+you have particles in intermediate states like this,
+
+920
+00:42:04,182 --> 00:42:07,182
+and also available energy.
+
+921
+00:42:07,182 --> 00:42:09,682
+Available energy has to do with the energy
+
+922
+00:42:09,682 --> 00:42:12,182
+of the initial state and the final state.
+
+923
+00:42:12,182 --> 00:42:15,182
+There are three different features.
+
+924
+00:42:15,182 --> 00:42:17,182
+Coupling constants,
+
+925
+00:42:17,182 --> 00:42:19,182
+masses or propagators if you like,
+
+926
+00:42:19,182 --> 00:42:21,182
+the structure of propagators and
+
+927
+00:42:21,182 --> 00:42:23,182
+how they depend on momentum.
+
+928
+00:42:23,182 --> 00:42:24,182
+And finally,
+
+929
+00:42:24,182 --> 00:42:28,182
+a thing can't happen if there isn't enough energy.
+
+930
+00:42:28,182 --> 00:42:29,182
+So,
+
+931
+00:42:29,182 --> 00:42:31,682
+you have to have a very small
+
+932
+00:42:31,682 --> 00:42:34,182
+probability if the energy available is small enough.
+
+933
+00:42:34,182 --> 00:42:35,182
+So,
+
+934
+00:42:35,182 --> 00:42:38,682
+you need the initial state to have as much energy
+
+935
+00:42:38,682 --> 00:42:42,182
+as the final state in order for the process to happen.
+
+936
+00:42:42,182 --> 00:42:46,182
+And it's the last of the ingredients
+
+937
+00:42:46,182 --> 00:42:50,182
+there that had to do with the
+
+938
+00:42:50,182 --> 00:42:53,182
+suppression of the deuteron decay.
+
+939
+00:42:53,182 --> 00:42:54,182
+Three separate things.
+
+940
+00:42:54,182 --> 00:42:55,182
+Yeah.
+
+941
+00:42:55,182 --> 00:42:56,182
+These coupling constants,
+
+942
+00:42:56,182 --> 00:42:57,182
+are they really constant?
+
+943
+00:42:57,182 --> 00:42:59,182
+Or do they vary a little bit?
+
+944
+00:42:59,182 --> 00:43:00,182
+They vary a little bit.
+
+945
+00:43:00,182 --> 00:43:04,182
+We will come to that with momentum,
+
+946
+00:43:04,182 --> 00:43:05,182
+with distance scale.
+
+947
+00:43:05,182 --> 00:43:06,182
+Yeah.
+
+948
+00:43:06,182 --> 00:43:07,182
+So,
+
+949
+00:43:07,182 --> 00:43:08,182
+the W boson has a lot of energy,
+
+950
+00:43:08,182 --> 00:43:09,182
+right?
+
+951
+00:43:09,182 --> 00:43:10,182
+A lot of mass.
+
+952
+00:43:10,182 --> 00:43:11,182
+Well,
+
+953
+00:43:11,182 --> 00:43:12,182
+a real W boson in the
+
+954
+00:43:12,182 --> 00:43:13,182
+laboratory has a lot of mass.
+
+955
+00:43:13,182 --> 00:43:14,182
+Now,
+
+956
+00:43:14,182 --> 00:43:19,182
+when it degrades into an electron and a muon,
+
+957
+00:43:19,182 --> 00:43:20,182
+whatever,
+
+958
+00:43:20,182 --> 00:43:21,182
+right?
+
+959
+00:43:21,182 --> 00:43:23,182
+What happens to that energy?
+
+960
+00:43:23,182 --> 00:43:26,182
+The electron,
+
+961
+00:43:26,182 --> 00:43:29,182
+the energy of the final state must be
+
+962
+00:43:29,182 --> 00:43:32,182
+the same as the energy of the initial state.
+
+963
+00:43:32,182 --> 00:43:34,682
+That means there isn't really enough
+
+964
+00:43:34,682 --> 00:43:37,182
+energy to create the W boson.
+
+965
+00:43:37,182 --> 00:43:40,182
+There really isn't enough energy to create the W boson.
+
+966
+00:43:40,182 --> 00:43:43,182
+That's why there is no real process
+
+967
+00:43:43,182 --> 00:43:46,182
+in where a W boson goes flying off.
+
+968
+00:43:46,182 --> 00:43:49,182
+There simply isn't enough energy for that.
+
+969
+00:43:49,182 --> 00:43:50,182
+Well,
+
+970
+00:43:50,182 --> 00:43:51,182
+so what does happen?
+
+971
+00:43:51,182 --> 00:43:54,182
+The W boson is produced virtually.
+
+972
+00:43:54,182 --> 00:43:57,182
+According to the rules of quantum mechanics,
+
+973
+00:43:57,182 --> 00:44:01,182
+a violation of energy can take place as long
+
+974
+00:44:01,182 --> 00:44:05,182
+as it takes place for a short enough time.
+
+975
+00:44:05,182 --> 00:44:08,182
+If the amount of extra energy that's in here,
+
+976
+00:44:08,182 --> 00:44:14,182
+let's call it delta E,
+
+977
+00:44:14,182 --> 00:44:18,182
+energy time uncertainty principle,
+
+978
+00:44:18,182 --> 00:44:19,182
+says,
+
+979
+00:44:19,182 --> 00:44:21,182
+among other things,
+
+980
+00:44:21,182 --> 00:44:22,182
+that an apparent,
+
+981
+00:44:22,182 --> 00:44:24,182
+an apparent violation of the W boson,
+
+982
+00:44:24,182 --> 00:44:26,182
+of energy conservation,
+
+983
+00:44:26,182 --> 00:44:27,182
+delta E,
+
+984
+00:44:27,182 --> 00:44:35,182
+can only last for a time delta T,
+
+985
+00:44:35,182 --> 00:44:37,182
+which cannot be bigger than,
+
+986
+00:44:37,182 --> 00:44:39,182
+which must be smaller than in this case,
+
+987
+00:44:39,182 --> 00:44:42,182
+Planck's constant.
+
+988
+00:44:42,182 --> 00:44:44,682
+You cannot have an apparent violation
+
+989
+00:44:44,682 --> 00:44:47,182
+of energy in an intermediate state
+
+990
+00:44:47,182 --> 00:44:50,182
+that lasts for a time
+
+991
+00:44:50,182 --> 00:44:52,182
+longer than
+
+992
+00:44:52,182 --> 00:44:53,182
+delta E delta T,
+
+993
+00:44:53,182 --> 00:44:55,182
+of order h bar.
+
+994
+00:44:55,182 --> 00:44:56,682
+Let me give you another
+
+995
+00:44:56,682 --> 00:44:58,182
+example of this sort of thing.
+
+996
+00:44:58,182 --> 00:45:03,182
+If you have a potential,
+
+997
+00:45:03,182 --> 00:45:05,182
+ordinary potential energy,
+
+998
+00:45:05,182 --> 00:45:08,182
+this potential energy could be the potential
+
+999
+00:45:08,182 --> 00:45:11,182
+energy of an alpha particle in a nucleus.
+
+1000
+00:45:11,182 --> 00:45:13,182
+An alpha particle is stuck in the nucleus.
+
+1001
+00:45:13,182 --> 00:45:15,182
+It can't get out.
+
+1002
+00:45:15,182 --> 00:45:16,182
+Why not?
+
+1003
+00:45:16,182 --> 00:45:17,182
+It doesn't have enough energy to get out.
+
+1004
+00:45:17,182 --> 00:45:21,182
+It has to go over a bump to get out.
+
+1005
+00:45:21,182 --> 00:45:22,182
+So the alpha particle normally sits in the nucleus.
+
+1006
+00:45:22,182 --> 00:45:25,182
+The beta particle normally sits over here.
+
+1007
+00:45:25,182 --> 00:45:26,182
+But,
+
+1008
+00:45:26,182 --> 00:45:28,182
+it can tunnel out.
+
+1009
+00:45:28,182 --> 00:45:29,182
+Quantum mechanically,
+
+1010
+00:45:29,182 --> 00:45:31,182
+it can tunnel out.
+
+1011
+00:45:31,182 --> 00:45:34,182
+Now,
+
+1012
+00:45:34,182 --> 00:45:38,182
+the kinetic energy of a particle is always positive,
+
+1013
+00:45:38,182 --> 00:45:39,182
+right?
+
+1014
+00:45:39,182 --> 00:45:41,182
+In here it has a certain amount of energy.
+
+1015
+00:45:41,182 --> 00:45:44,182
+It has a much higher potential energy over here.
+
+1016
+00:45:44,182 --> 00:45:45,182
+This is a potential,
+
+1017
+00:45:45,182 --> 00:45:49,182
+an ordinary potential function.
+
+1018
+00:45:49,182 --> 00:45:51,182
+The potential energy is up here.
+
+1019
+00:45:51,182 --> 00:45:53,182
+The particle started at rest.
+
+1020
+00:45:53,182 --> 00:45:55,182
+It had no kinetic energy.
+
+1021
+00:45:55,182 --> 00:45:57,182
+And had this much potential energy.
+
+1022
+00:45:57,182 --> 00:46:01,182
+It has the same amount of potential energy over here.
+
+1023
+00:46:01,182 --> 00:46:02,182
+And the same,
+
+1024
+00:46:02,182 --> 00:46:04,182
+and also when it comes out over here,
+
+1025
+00:46:04,182 --> 00:46:06,182
+it also comes out at rest.
+
+1026
+00:46:06,182 --> 00:46:08,182
+Comes out over here at rest.
+
+1027
+00:46:08,182 --> 00:46:09,182
+It was at rest over here.
+
+1028
+00:46:09,182 --> 00:46:12,182
+Same potential energy, same potential energy.
+
+1029
+00:46:12,182 --> 00:46:14,182
+So, it can happen.
+
+1030
+00:46:14,182 --> 00:46:15,182
+On the other hand,
+
+1031
+00:46:15,182 --> 00:46:17,182
+if you look at it in between,
+
+1032
+00:46:17,182 --> 00:46:20,182
+it seems that it had a large potential energy,
+
+1033
+00:46:21,182 --> 00:46:24,182
+much larger than it had over here.
+
+1034
+00:46:24,182 --> 00:46:25,682
+And it can't have less kinetic
+
+1035
+00:46:25,682 --> 00:46:27,182
+energy than it had over here.
+
+1036
+00:46:27,182 --> 00:46:28,182
+The kinetic energy was over,
+
+1037
+00:46:28,182 --> 00:46:29,182
+it was zero over here.
+
+1038
+00:46:29,182 --> 00:46:31,182
+The meaning of that is
+
+1039
+00:46:31,182 --> 00:46:33,182
+that it temporarily,
+
+1040
+00:46:33,182 --> 00:46:36,182
+apparently violated energy conservation.
+
+1041
+00:46:36,182 --> 00:46:38,182
+Now,
+
+1042
+00:46:38,182 --> 00:46:41,182
+if you went and measured the particle in here,
+
+1043
+00:46:41,182 --> 00:46:44,182
+and checked whether it was in here or not,
+
+1044
+00:46:44,182 --> 00:46:48,182
+you would destroy the phenomena of tunneling.
+
+1045
+00:46:48,182 --> 00:46:49,182
+But,
+
+1046
+00:46:49,182 --> 00:46:51,182
+if you just look on the outside,
+
+1047
+00:46:51,182 --> 00:46:52,182
+you will have to say,
+
+1048
+00:46:52,182 --> 00:46:53,182
+somehow,
+
+1049
+00:46:53,182 --> 00:46:55,182
+in the intermediate state here,
+
+1050
+00:46:55,182 --> 00:46:57,182
+the electron had more energy than it was,
+
+1051
+00:46:57,182 --> 00:46:59,182
+the alpha particle,
+
+1052
+00:46:59,182 --> 00:47:02,182
+had more energy than it was supposed to have.
+
+1053
+00:47:02,182 --> 00:47:04,182
+There was a violation of energy conservation,
+
+1054
+00:47:04,182 --> 00:47:06,182
+an apparent one.
+
+1055
+00:47:06,182 --> 00:47:09,182
+How long can the alpha particle last
+
+1056
+00:47:09,182 --> 00:47:12,182
+under this barrier here?
+
+1057
+00:47:12,182 --> 00:47:14,182
+The answer is it can't last long.
+
+1058
+00:47:14,182 --> 00:47:16,182
+And the rule is,
+
+1059
+00:47:16,182 --> 00:47:18,182
+if the violation of energy conservation,
+
+1060
+00:47:18,182 --> 00:47:19,182
+this over here,
+
+1061
+00:47:19,182 --> 00:47:20,182
+delta E,
+
+1062
+00:47:21,182 --> 00:47:24,182
+then it had better get out from under there
+
+1063
+00:47:24,182 --> 00:47:26,182
+in a time,
+
+1064
+00:47:26,182 --> 00:47:27,182
+delta T,
+
+1065
+00:47:27,182 --> 00:47:30,182
+which is less than H bar over delta E.
+
+1066
+00:47:30,182 --> 00:47:32,182
+So this is a kind of familiar thing
+
+1067
+00:47:32,182 --> 00:47:34,182
+from elementary quantum mechanics,
+
+1068
+00:47:34,182 --> 00:47:37,182
+that apparent violations of energy conservation
+
+1069
+00:47:37,182 --> 00:47:39,182
+can take place as long as they last
+
+1070
+00:47:39,182 --> 00:47:41,182
+sufficiently short time.
+
+1071
+00:47:41,182 --> 00:47:43,182
+Same thing over here.
+
+1072
+00:47:43,182 --> 00:47:45,182
+There is,
+
+1073
+00:47:45,182 --> 00:47:49,182
+the W boson is a very heavy particle.
+
+1074
+00:47:49,182 --> 00:47:50,182
+There is simply,
+
+1075
+00:47:50,182 --> 00:47:53,182
+not enough energy
+
+1076
+00:47:53,182 --> 00:47:55,182
+in the neutron,
+
+1077
+00:47:55,182 --> 00:47:56,182
+proton, neutron,
+
+1078
+00:47:56,182 --> 00:47:57,182
+or anything else
+
+1079
+00:47:57,182 --> 00:47:59,182
+to create a W boson,
+
+1080
+00:47:59,182 --> 00:48:01,182
+let alone have enough energy
+
+1081
+00:48:01,182 --> 00:48:03,182
+for the final particle.
+
+1082
+00:48:03,182 --> 00:48:04,182
+That cannot happen.
+
+1083
+00:48:04,182 --> 00:48:07,182
+What can happen is that temporarily,
+
+1084
+00:48:07,182 --> 00:48:09,182
+for a very, very short time period,
+
+1085
+00:48:09,182 --> 00:48:17,182
+the neutron can emit the W,
+
+1086
+00:48:17,182 --> 00:48:19,182
+W minus,
+
+1087
+00:48:19,182 --> 00:48:21,182
+become a proton,
+
+1088
+00:48:21,182 --> 00:48:24,182
+but then it is as if
+
+1089
+00:48:24,182 --> 00:48:27,182
+the alpha particle were under the barrier here,
+
+1090
+00:48:27,182 --> 00:48:29,182
+the W boson says,
+
+1091
+00:48:29,182 --> 00:48:30,182
+I can't last that long,
+
+1092
+00:48:30,182 --> 00:48:34,182
+I better get rid of all that energy,
+
+1093
+00:48:34,182 --> 00:48:36,182
+and it can do it a number of ways.
+
+1094
+00:48:36,182 --> 00:48:37,682
+One way it can do
+
+1095
+00:48:37,682 --> 00:48:39,182
+it is just by getting reabsorbed.
+
+1096
+00:48:39,182 --> 00:48:40,182
+Okay?
+
+1097
+00:48:40,182 --> 00:48:42,182
+The other way it can do it
+
+1098
+00:48:42,182 --> 00:48:43,182
+is by becoming the electron,
+
+1099
+00:48:43,182 --> 00:48:45,182
+which has a small energy,
+
+1100
+00:48:45,182 --> 00:48:46,182
+and the anti-neutrino,
+
+1101
+00:48:46,182 --> 00:48:48,182
+which also has a small energy.
+
+1102
+00:48:48,182 --> 00:48:51,182
+So, the intermediate state here
+
+1103
+00:48:51,182 --> 00:48:53,182
+of a very, very heavy W boson
+
+1104
+00:48:53,182 --> 00:48:57,182
+is very much like the intermediate state
+
+1105
+00:48:57,182 --> 00:48:59,182
+in which the alpha particle
+
+1106
+00:48:59,182 --> 00:49:01,182
+is under the barrier here,
+
+1107
+00:49:01,182 --> 00:49:03,182
+and it can only last a short time.
+
+1108
+00:49:03,182 --> 00:49:04,182
+Yeah?
+
+1109
+00:49:10,182 --> 00:49:13,182
+No, no, no, no.
+
+1110
+00:49:13,182 --> 00:49:16,182
+And even energy conservation
+
+1111
+00:49:16,182 --> 00:49:18,182
+from initial times
+
+1112
+00:49:18,182 --> 00:49:22,182
+to final state is always exact.
+
+1113
+00:49:22,182 --> 00:49:26,182
+It's just an apparent of our mission.
+
+1114
+00:49:26,182 --> 00:49:28,182
+It would appear as though
+
+1115
+00:49:28,182 --> 00:49:31,182
+the reabsorption is what happens all the time.
+
+1116
+00:49:31,182 --> 00:49:34,182
+Basically, the W comes out and goes back,
+
+1117
+00:49:34,182 --> 00:49:35,182
+and goes out and goes back.
+
+1118
+00:49:35,182 --> 00:49:36,182
+Most of the times that can happen.
+
+1119
+00:49:36,182 --> 00:49:37,182
+Every once in a while,
+
+1120
+00:49:37,182 --> 00:49:38,182
+every once in a billion tries,
+
+1121
+00:49:38,182 --> 00:49:40,182
+it goes out far enough
+
+1122
+00:49:40,182 --> 00:49:42,182
+to decay itself.
+
+1123
+00:49:42,182 --> 00:49:44,182
+That's correct.
+
+1124
+00:49:44,182 --> 00:49:46,182
+That's correct.
+
+1125
+00:49:46,182 --> 00:49:47,182
+That's correct.
+
+1126
+00:49:47,182 --> 00:49:48,182
+Most of the time,
+
+1127
+00:49:48,182 --> 00:49:49,182
+it's going to decay.
+
+1128
+00:49:49,182 --> 00:49:50,182
+Do we have a separator
+
+1129
+00:49:50,182 --> 00:49:51,182
+that's powerful enough
+
+1130
+00:49:51,182 --> 00:49:52,182
+to make real W bosons?
+
+1131
+00:49:52,182 --> 00:49:53,182
+Yeah.
+
+1132
+00:49:53,182 --> 00:49:54,182
+How long?
+
+1133
+00:49:54,182 --> 00:49:55,182
+Yeah.
+
+1134
+00:49:55,182 --> 00:49:56,182
+Now, the Ws will decay
+
+1135
+00:49:56,182 --> 00:49:58,182
+to electrons and neutrinos,
+
+1136
+00:49:58,182 --> 00:50:00,182
+but if you make a W with enough energy,
+
+1137
+00:50:00,182 --> 00:50:02,182
+all right, there's a certain lifetime
+
+1138
+00:50:02,182 --> 00:50:05,182
+for a real W to decay.
+
+1139
+00:50:05,182 --> 00:50:08,182
+It's not this uncertainty time here.
+
+1140
+00:50:08,182 --> 00:50:10,182
+There is a certain lifetime,
+
+1141
+00:50:10,182 --> 00:50:11,182
+so the W, when it's produced,
+
+1142
+00:50:11,182 --> 00:50:13,182
+will eventually decay,
+
+1143
+00:50:13,182 --> 00:50:16,182
+but the faster the W is,
+
+1144
+00:50:16,182 --> 00:50:17,182
+the more time dilation
+
+1145
+00:50:17,182 --> 00:50:19,182
+will cause the W to decay
+
+1146
+00:50:19,182 --> 00:50:20,182
+later and later.
+
+1147
+00:50:20,182 --> 00:50:22,182
+So real Ws are produced,
+
+1148
+00:50:22,182 --> 00:50:23,182
+and the meaning of real Ws
+
+1149
+00:50:23,182 --> 00:50:25,182
+is that you produce things
+
+1150
+00:50:25,182 --> 00:50:30,182
+which, whose decay probability
+
+1151
+00:50:30,182 --> 00:50:31,182
+is controlled by their velocity
+
+1152
+00:50:31,182 --> 00:50:33,182
+and the standard relativity way.
+
+1153
+00:50:33,182 --> 00:50:34,182
+What's the proper time
+
+1154
+00:50:34,182 --> 00:50:35,182
+for it to decay?
+
+1155
+00:50:35,182 --> 00:50:38,182
+Oh, boy.
+
+1156
+00:50:38,182 --> 00:50:41,182
+Okay.
+
+1157
+00:50:41,182 --> 00:50:43,182
+Very short.
+
+1158
+00:50:43,182 --> 00:50:44,182
+Very short.
+
+1159
+00:50:44,182 --> 00:50:45,182
+The W...
+
+1160
+00:50:45,182 --> 00:50:46,182
+Three times sin .
+
+1161
+00:50:46,182 --> 00:50:48,182
+Three times sin to the 25th second.
+
+1162
+00:50:48,182 --> 00:50:50,182
+Three times ten to the 27th?
+
+1163
+00:50:50,182 --> 00:50:51,182
+Is that true?
+
+1164
+00:50:51,182 --> 00:50:52,182
+I'll have to think about it.
+
+1165
+00:50:52,182 --> 00:50:53,182
+You've described the Kovling constant
+
+1166
+00:50:53,182 --> 00:50:54,182
+as the...
+
+1167
+00:50:54,182 --> 00:50:55,182
+You've said the Kovling constant
+
+1168
+00:50:55,182 --> 00:50:56,182
+is the probability
+
+1169
+00:50:56,182 --> 00:50:57,182
+of the impact diagram
+
+1170
+00:50:57,182 --> 00:50:58,182
+of the W.
+
+1171
+00:50:58,182 --> 00:50:59,182
+Well, okay.
+
+1172
+00:50:59,182 --> 00:51:00,182
+How does that translate
+
+1173
+00:51:00,182 --> 00:51:01,182
+into a rate
+
+1174
+00:51:01,182 --> 00:51:02,182
+or a time
+
+1175
+00:51:02,182 --> 00:51:03,182
+for the decay?
+
+1176
+00:51:03,182 --> 00:51:04,182
+The rate...
+
+1177
+00:51:04,182 --> 00:51:05,182
+Right.
+
+1178
+00:51:05,182 --> 00:51:06,182
+This...
+
+1179
+00:51:06,182 --> 00:51:07,182
+I don't know.
+
+1180
+00:51:07,182 --> 00:51:08,182
+I don't know.
+
+1181
+00:51:08,182 --> 00:51:09,182
+I don't know.
+
+1182
+00:51:09,182 --> 00:51:10,182
+I don't know.
+
+1183
+00:51:10,182 --> 00:51:11,182
+I don't know.
+
+1184
+00:51:11,182 --> 00:51:12,182
+I don't know.
+
+1185
+00:51:12,182 --> 00:51:13,182
+I don't know.
+
+1186
+00:51:13,182 --> 00:51:14,182
+I don't know.
+
+1187
+00:51:14,182 --> 00:51:15,182
+I don't know.
+
+1188
+00:51:15,182 --> 00:51:16,182
+I don't know.
+
+1189
+00:51:16,182 --> 00:51:17,182
+I don't know.
+
+1190
+00:51:17,182 --> 00:51:18,182
+This is...
+
+1191
+00:51:18,182 --> 00:51:19,182
+This is the amplitude...
+
+1192
+00:51:19,182 --> 00:51:20,182
+All right.
+
+1193
+00:51:20,182 --> 00:51:21,182
+This is the amplitude
+
+1194
+00:51:21,182 --> 00:51:22,182
+for the process.
+
+1195
+00:51:22,182 --> 00:51:24,522
+The square of the amplitude
+
+1196
+00:51:24,522 --> 00:51:26,002
+is a probability.
+
+1197
+00:51:26,002 --> 00:51:27,002
+That's this.
+
+1198
+00:51:27,002 --> 00:51:28,682
+And it's a probability
+
+1199
+00:51:28,682 --> 00:51:30,942
+per unit time.
+
+1200
+00:51:30,942 --> 00:51:31,942
+It's a probability
+
+1201
+00:51:31,942 --> 00:51:33,682
+per unit time,
+
+1202
+00:51:33,682 --> 00:51:35,202
+and so its inverse
+
+1203
+00:51:35,202 --> 00:51:36,462
+is related...
+
+1204
+00:51:36,462 --> 00:51:38,542
+Is related to the lifetime.
+
+1205
+00:51:38,542 --> 00:51:39,582
+Its inverse is related
+
+1206
+00:51:39,582 --> 00:51:41,082
+to the lifetime,
+
+1207
+00:51:41,082 --> 00:51:42,082
+and that's why
+
+1208
+00:51:42,082 --> 00:51:43,622
+this is a very small number.
+
+1209
+00:51:43,622 --> 00:51:44,622
+The lifetime
+
+1210
+00:51:44,622 --> 00:51:47,982
+unusually large in particle physics
+
+1211
+00:51:47,982 --> 00:51:51,342
+units. So weak lifetimes, particles which
+
+1212
+00:51:51,342 --> 00:51:54,702
+can only decay for one reason
+
+1213
+00:51:54,702 --> 00:51:58,062
+or another by weak interactions have anomalously
+
+1214
+00:51:58,062 --> 00:52:01,392
+long lifetimes. And where do you trace it to?
+
+1215
+00:52:01,392 --> 00:52:04,722
+You trace it to the mass of the W. Now
+
+1216
+00:52:04,722 --> 00:52:08,702
+if a process, remember what this really
+
+1217
+00:52:08,702 --> 00:52:12,682
+was, it was k squared plus Mw squared,
+
+1218
+00:52:12,682 --> 00:52:20,912
+well, right, if you have enough energy and
+
+1219
+00:52:20,912 --> 00:52:29,142
+enough momentum, you can detect the fact eventually
+
+1220
+00:52:29,142 --> 00:52:31,862
+that these rates here will be momentum
+
+1221
+00:52:31,862 --> 00:52:34,582
+dependent. In other words, the effective constant here
+
+1222
+00:52:34,582 --> 00:52:37,292
+won't be constant, it will depend on k.
+
+1223
+00:52:37,292 --> 00:52:40,002
+And that, of course, has been seen with great
+
+1224
+00:52:40,002 --> 00:52:41,401
+precision.
+
+1225
+00:52:41,401 --> 00:52:42,401
+So
+
+1226
+00:52:42,682 --> 00:52:46,182
+For the tunneling process, there's a delta T
+
+1227
+00:52:46,182 --> 00:52:49,682
+which implies a kind of velocity. Is there
+
+1228
+00:52:54,442 --> 00:52:54,861
+a?
+
+1229
+00:52:54,861 --> 00:52:57,361
+Yeah, but if you went in there and
+
+1230
+00:52:57,361 --> 00:52:59,861
+tried to detect the velocity, you'd destroy the process.
+
+1231
+00:52:59,861 --> 00:53:02,361
+So if you take the this end and that end
+
+1232
+00:53:02,361 --> 00:53:04,861
+and figure out the delta T, you know, the distance
+
+1233
+00:53:04,861 --> 00:53:06,322
+you inferred.
+
+1234
+00:53:06,322 --> 00:53:09,361
+You can construct something you can call a
+
+1235
+00:53:09,361 --> 00:53:12,401
+velocity. It would be misleading to, you know,
+
+1236
+00:53:12,402 --> 00:53:15,902
+think of it as the velocity of a
+
+1237
+00:53:15,902 --> 00:53:19,402
+real signal, though. It's not a signal velocity.
+
+1238
+00:53:19,402 --> 00:53:23,012
+Can we usually get any understanding of the
+
+1239
+00:53:23,012 --> 00:53:26,622
+lifetime of a real 3W from looking at the
+
+1240
+00:53:27,622 --> 00:53:28,122
+I think that's a good question. I think
+
+1241
+00:53:28,122 --> 00:53:28,622
+the velocity is probably a little bit more
+
+1242
+00:53:28,622 --> 00:53:29,202
+than that. I think the velocity is a little
+
+1243
+00:53:29,202 --> 00:53:29,782
+bit more than that. I think the velocity is
+
+1244
+00:53:29,826 --> 00:53:31,186
+Mm-hmm.
+
+1245
+00:53:32,386 --> 00:53:34,386
+That's exactly the way you would calculate it.
+
+1246
+00:53:34,386 --> 00:53:37,386
+Because the shot is so short.
+
+1247
+00:53:41,386 --> 00:53:43,386
+The W boson, for example, it
+
+1248
+00:53:43,386 --> 00:53:45,386
+has a number of ways of decaying,
+
+1249
+00:53:45,386 --> 00:53:48,386
+but one way it can decay, literally
+
+1250
+00:53:48,386 --> 00:53:51,386
+decay, is into an electron in an anti-neutrino.
+
+1251
+00:53:51,386 --> 00:53:54,886
+And you can calculate the Feynman diagram
+
+1252
+00:53:54,886 --> 00:53:58,386
+describing it has this factor G in it.
+
+1253
+00:54:02,386 --> 00:54:11,386
+W minus a factor G and electron in anti-neutrino.
+
+1254
+00:54:11,386 --> 00:54:13,386
+And you can calculate that.
+
+1255
+00:54:13,386 --> 00:54:19,386
+And yes, you can compute the lifetime of the W.
+
+1256
+00:54:19,386 --> 00:54:21,386
+It comes out to be 10 minus 20.
+
+1257
+00:54:21,386 --> 00:54:23,386
+Whatever it is.
+
+1258
+00:54:27,386 --> 00:54:28,386
+Same twist on the question.
+
+1259
+00:54:28,386 --> 00:54:29,886
+In the case where in the
+
+1260
+00:54:29,886 --> 00:54:31,386
+laboratory you produce a W boson,
+
+1261
+00:54:31,386 --> 00:54:32,386
+Right.
+
+1262
+00:54:32,386 --> 00:54:33,386
+what happens to that energy?
+
+1263
+00:54:33,386 --> 00:54:35,386
+Because electron has very little energy.
+
+1264
+00:54:35,386 --> 00:54:36,386
+No, no, no.
+
+1265
+00:54:36,386 --> 00:54:41,386
+The W, when a real W decays,
+
+1266
+00:54:41,386 --> 00:54:43,386
+it produces an electron in
+
+1267
+00:54:43,386 --> 00:54:45,386
+a neutrino with enormous kinetic energy.
+
+1268
+00:54:45,386 --> 00:54:47,386
+Very relativistic.
+
+1269
+00:54:47,386 --> 00:54:48,386
+Right.
+
+1270
+00:54:48,386 --> 00:54:52,386
+A W boson at rest will become,
+
+1271
+00:54:52,386 --> 00:54:53,386
+and there are other decay modes.
+
+1272
+00:54:53,386 --> 00:54:55,386
+I mean, this is not the only decay mode.
+
+1273
+00:54:55,386 --> 00:54:57,386
+It can do a muon in a
+
+1274
+00:54:57,386 --> 00:54:59,386
+neutrino, a number of different decay modes.
+
+1275
+00:54:59,386 --> 00:55:01,386
+But if it decayed to an electron in a neutrino,
+
+1276
+00:55:01,386 --> 00:55:03,386
+they would be very, very
+
+1277
+00:55:03,386 --> 00:55:05,386
+relativistic electrons and neutrinos now.
+
+1278
+00:55:05,386 --> 00:55:07,386
+I'm a little confused with exactly what is
+
+1279
+00:55:07,386 --> 00:55:09,386
+the distinction between a real and a virtual particle.
+
+1280
+00:55:09,386 --> 00:55:11,386
+Is there a clear definition?
+
+1281
+00:55:11,386 --> 00:55:12,386
+Is there a greater definition?
+
+1282
+00:55:12,386 --> 00:55:15,886
+Real and virtual, real particles are
+
+1283
+00:55:15,886 --> 00:55:19,386
+simply the ones in the created initially,
+
+1284
+00:55:19,386 --> 00:55:22,886
+well, the particles which came in and particles
+
+1285
+00:55:22,886 --> 00:55:26,386
+which went out of a small interaction region.
+
+1286
+00:55:26,386 --> 00:55:30,386
+The virtual particles are mathematical constructs
+
+1287
+00:55:30,386 --> 00:55:33,386
+which are the internal particles in a Feynman diagram.
+
+1288
+00:55:33,386 --> 00:55:35,386
+You don't observe them.
+
+1289
+00:55:35,386 --> 00:55:37,886
+If you went into the, if
+
+1290
+00:55:37,886 --> 00:55:40,386
+you suddenly tried to observe that particle,
+
+1291
+00:55:40,386 --> 00:55:42,386
+how would you observe that particle?
+
+1292
+00:55:42,386 --> 00:55:44,886
+The only way you could observe it
+
+1293
+00:55:44,886 --> 00:55:47,386
+would be send something else into the system.
+
+1294
+00:55:47,386 --> 00:55:51,386
+Okay, let's talk about trying
+
+1295
+00:55:51,386 --> 00:55:55,386
+to observe particles of this nature.
+
+1296
+00:56:00,386 --> 00:56:03,886
+So even before that, what about trying
+
+1297
+00:56:03,886 --> 00:56:07,386
+to observe what's happening to an alpha particle
+
+1298
+00:56:07,386 --> 00:56:10,386
+as it moves under there?
+
+1299
+00:56:10,386 --> 00:56:13,886
+Well, obviously you have only a
+
+1300
+00:56:13,886 --> 00:56:17,386
+very short time to observe it.
+
+1301
+00:56:17,386 --> 00:56:19,386
+So if you want to observe, if you want
+
+1302
+00:56:19,386 --> 00:56:21,386
+to know whether there was a particle under here,
+
+1303
+00:56:21,386 --> 00:56:24,886
+you would have to interact with it
+
+1304
+00:56:24,886 --> 00:56:28,386
+on a very, very short time scale.
+
+1305
+00:56:28,386 --> 00:56:29,386
+Right?
+
+1306
+00:56:29,386 --> 00:56:31,386
+A very short time scale to get in.
+
+1307
+00:56:31,386 --> 00:56:32,886
+If you wanted to find out, for
+
+1308
+00:56:32,886 --> 00:56:34,386
+example, by looking at it with a photon,
+
+1309
+00:56:34,386 --> 00:56:37,386
+you would have to send in
+
+1310
+00:56:37,386 --> 00:56:40,386
+a very, very short wavelength photon pulse.
+
+1311
+00:56:40,386 --> 00:56:44,386
+In particular, the energy of that photon
+
+1312
+00:56:44,386 --> 00:56:48,386
+pulse would have to be about that big.
+
+1313
+00:56:48,386 --> 00:56:51,386
+That's what this energy time uncertainty principle says.
+
+1314
+00:56:51,386 --> 00:56:54,386
+The same energy time uncertainty principle
+
+1315
+00:56:54,386 --> 00:56:57,386
+gives you information about the wavelength
+
+1316
+00:56:57,386 --> 00:56:59,886
+energy of a photon that you would need if
+
+1317
+00:56:59,886 --> 00:57:02,386
+you wanted to have a time resolution good enough
+
+1318
+00:57:02,386 --> 00:57:04,386
+to see what was going on in there.
+
+1319
+00:57:04,386 --> 00:57:07,886
+So if you wanted to actually see the
+
+1320
+00:57:07,886 --> 00:57:11,386
+motion of the alpha particle from here to here,
+
+1321
+00:57:11,386 --> 00:57:15,386
+which lasts a time delta t, you would have to
+
+1322
+00:57:15,386 --> 00:57:19,386
+hit it with a photon whose energy was big enough
+
+1323
+00:57:19,386 --> 00:57:22,886
+that it actually would knock
+
+1324
+00:57:22,886 --> 00:57:26,386
+the alpha particle into this region.
+
+1325
+00:57:26,386 --> 00:57:28,386
+Into this region here.
+
+1326
+00:57:28,386 --> 00:57:30,386
+So you're supplying the energy, but...
+
+1327
+00:57:30,386 --> 00:57:33,386
+You're supplying the energy, and it's
+
+1328
+00:57:33,386 --> 00:57:36,386
+one of these quantum mechanical complementarity things
+
+1329
+00:57:36,386 --> 00:57:39,886
+that you think something is impossible,
+
+1330
+00:57:39,886 --> 00:57:43,386
+and so you try to detect it.
+
+1331
+00:57:43,386 --> 00:57:46,386
+And you find out in order to detect it,
+
+1332
+00:57:46,386 --> 00:57:49,386
+you have to do to the system exactly that thing
+
+1333
+00:57:49,386 --> 00:57:53,386
+which you were trying to prove does not happen.
+
+1334
+00:57:53,386 --> 00:57:54,386
+Right?
+
+1335
+00:57:54,386 --> 00:57:55,386
+Right?
+
+1336
+00:57:55,386 --> 00:58:00,386
+This is always the same story.
+
+1337
+00:58:00,386 --> 00:58:02,386
+And the same would be true of virtual particles.
+
+1338
+00:58:02,386 --> 00:58:04,386
+Virtual particles last a small time.
+
+1339
+00:58:04,386 --> 00:58:06,886
+If you wanted to get into the system and
+
+1340
+00:58:06,886 --> 00:58:09,386
+detect one, you would have to hit it with something
+
+1341
+00:58:09,386 --> 00:58:11,386
+with enough energy that it
+
+1342
+00:58:11,386 --> 00:58:13,386
+would actually create that particle.
+
+1343
+00:58:13,386 --> 00:58:15,386
+If you wanted to see the virtual
+
+1344
+00:58:15,386 --> 00:58:17,386
+W here, how much time do you have?
+
+1345
+00:58:17,386 --> 00:58:18,386
+Very short.
+
+1346
+00:58:18,386 --> 00:58:20,386
+So you hit it with a photon.
+
+1347
+00:58:20,386 --> 00:58:24,386
+A photon of sufficiently small wavelength that guess what?
+
+1348
+00:58:24,386 --> 00:58:27,386
+It's got enough energy to actually knock a W out
+
+1349
+00:58:27,386 --> 00:58:30,386
+of the system so that you actually see a W.
+
+1350
+00:58:30,386 --> 00:58:31,386
+All right.
+
+1351
+00:58:31,386 --> 00:58:33,386
+That's sort of unsatisfying and frustrating.
+
+1352
+00:58:33,386 --> 00:58:36,386
+You were trying to prove one thing, and you found
+
+1353
+00:58:36,386 --> 00:58:39,386
+out that you had to do something to the system
+
+1354
+00:58:39,386 --> 00:58:41,886
+which did to it exactly what
+
+1355
+00:58:41,886 --> 00:58:44,386
+you were trying to prove didn't happen.
+
+1356
+00:58:44,386 --> 00:58:45,386
+Always that way.
+
+1357
+00:58:45,386 --> 00:58:47,386
+That's quantum mechanics in a nutshell.
+
+1358
+00:58:47,386 --> 00:58:50,386
+It's true that in a particle physics
+
+1359
+00:58:50,386 --> 00:58:53,386
+experiment, you never see directly the W.
+
+1360
+00:58:53,386 --> 00:58:55,886
+You never, on a scattering
+
+1361
+00:58:55,886 --> 00:58:58,386
+experiment, you never see a W.
+
+1362
+00:58:58,386 --> 00:59:00,386
+Not true.
+
+1363
+00:59:00,386 --> 00:59:01,386
+Not true.
+
+1364
+00:59:01,386 --> 00:59:05,886
+If you're trying to see, for example, okay,
+
+1365
+00:59:05,886 --> 00:59:10,386
+so let's first talk about something slightly different.
+
+1366
+00:59:10,386 --> 00:59:14,886
+Do you ever get to see the
+
+1367
+00:59:14,886 --> 00:59:19,386
+virtual photons that are present in an electron?
+
+1368
+00:59:19,386 --> 00:59:20,386
+Well, yeah.
+
+1369
+00:59:20,386 --> 00:59:21,886
+If you hit the electron
+
+1370
+00:59:21,886 --> 00:59:23,386
+hard enough, you'll knock it out.
+
+1371
+00:59:23,386 --> 00:59:25,386
+You'll knock the electron out, and
+
+1372
+00:59:25,386 --> 00:59:27,386
+the photon will be left over.
+
+1373
+00:59:27,386 --> 00:59:30,386
+So you do get to see them in that sense.
+
+1374
+00:59:30,386 --> 00:59:36,886
+You do get to see the virtual photons if you do
+
+1375
+00:59:36,886 --> 00:59:43,386
+exactly the experiment which puts in enough energy to see those virtual.
+
+1376
+00:59:43,386 --> 00:59:45,386
+Let's come back to the W.
+
+1377
+00:59:45,386 --> 00:59:46,386
+Same thing is true.
+
+1378
+00:59:46,386 --> 00:59:49,386
+If you have a proton, that proton
+
+1379
+00:59:49,386 --> 00:59:52,386
+can emit a W and become a neutron.
+
+1380
+00:59:52,386 --> 00:59:56,386
+And of course, if there's nothing else around and it doesn't
+
+1381
+00:59:56,386 --> 01:00:00,386
+decay, then the W will have to come back and be reabsorbed.
+
+1382
+01:00:00,386 --> 01:00:04,386
+And so you can think of a proton as a sort of
+
+1383
+01:00:04,386 --> 01:00:08,386
+equilibrium between a proton and a neutron with a W boson around it.
+
+1384
+01:00:08,386 --> 01:00:12,386
+Constantly going back and forth between the two of them,
+
+1385
+01:00:12,386 --> 01:00:16,386
+between the two things, with a very, very, very fast oscillation.
+
+1386
+01:00:16,386 --> 01:00:19,386
+An enormously fast oscillation between the two.
+
+1387
+01:00:19,386 --> 01:00:21,386
+You want to see that W?
+
+1388
+01:00:21,386 --> 01:00:29,386
+All you have to do is hit it hard enough with a photon that has a frequency
+
+1389
+01:00:29,386 --> 01:00:37,386
+which is large enough that it can resolve the short times that the W is out there.
+
+1390
+01:00:37,386 --> 01:00:38,386
+And guess what?
+
+1391
+01:00:38,386 --> 01:00:41,886
+If you do hit a proton with a high
+
+1392
+01:00:41,886 --> 01:00:45,386
+energy photon, yes, you will knock out a W.
+
+1393
+01:00:45,386 --> 01:00:48,386
+So in that sense, you get to see them.
+
+1394
+01:00:48,386 --> 01:00:50,386
+But then, of course, it becomes a different process.
+
+1395
+01:00:50,386 --> 01:00:52,386
+It becomes a process in which the W
+
+1396
+01:00:52,386 --> 01:00:54,386
+is a final particle, not an intermediate one.
+
+1397
+01:00:54,386 --> 01:00:57,386
+Is there any sense in saying that there's
+
+1398
+01:00:57,386 --> 01:01:00,386
+a difference between a neutron and a proton?
+
+1399
+01:01:00,386 --> 01:01:04,386
+A proton goes to neutron goes to proton.
+
+1400
+01:01:04,386 --> 01:01:07,386
+You can also have neutron goes to
+
+1401
+01:01:07,386 --> 01:01:10,386
+proton goes to neutron with a W.
+
+1402
+01:01:10,386 --> 01:01:14,386
+The difference is that this one would be a
+
+1403
+01:01:14,386 --> 01:01:18,386
+W plus and this one would be a W minus.
+
+1404
+01:01:18,386 --> 01:01:19,386
+Yes?
+
+1405
+01:01:20,386 --> 01:01:24,386
+Does it make any sense to say that when you did that experiment that
+
+1406
+01:01:24,386 --> 01:01:28,386
+you knocked the W particle out as opposed to you created the W particle?
+
+1407
+01:01:28,386 --> 01:01:30,386
+No, you can say it either way.
+
+1408
+01:01:30,386 --> 01:01:33,386
+Language is one thing.
+
+1409
+01:01:33,386 --> 01:01:35,386
+Facts are another thing.
+
+1410
+01:01:35,386 --> 01:01:36,886
+The fact is at the end of the
+
+1411
+01:01:36,886 --> 01:01:38,386
+day, there will be a W flying out.
+
+1412
+01:01:38,386 --> 01:01:40,886
+Do you want to interpret that as a
+
+1413
+01:01:40,886 --> 01:01:43,386
+W that was there beforehand that you knocked out?
+
+1414
+01:01:43,386 --> 01:01:46,386
+Or was it a newly created W?
+
+1415
+01:01:46,386 --> 01:01:48,386
+Well, the mathematics says that there will be a W.
+
+1416
+01:01:48,386 --> 01:01:54,886
+One picture of it is that the W was there and you
+
+1417
+01:01:54,886 --> 01:02:01,386
+jerked the neutron out before the W had a chance to get back.
+
+1418
+01:02:01,386 --> 01:02:03,386
+And the mathematics supports that.
+
+1419
+01:02:03,386 --> 01:02:05,386
+I mean, there is a way of thinking
+
+1420
+01:02:05,386 --> 01:02:07,386
+about the mathematics that says that's what happens.
+
+1421
+01:02:07,386 --> 01:02:13,386
+On the other hand, is this true?
+
+1422
+01:02:13,386 --> 01:02:15,386
+All you ever get by
+
+1423
+01:02:15,386 --> 01:02:17,386
+putting in enough energy is W?
+
+1424
+01:02:17,386 --> 01:02:19,386
+You don't get so much energy.
+
+1425
+01:02:19,386 --> 01:02:20,386
+You don't get enough?
+
+1426
+01:02:20,386 --> 01:02:23,386
+Well, if I put in enough energy to
+
+1427
+01:02:23,386 --> 01:02:26,386
+get a W particle, I get a W particle.
+
+1428
+01:02:26,386 --> 01:02:28,386
+What if I put in twice that energy?
+
+1429
+01:02:28,386 --> 01:02:30,386
+You still get W particles.
+
+1430
+01:02:30,386 --> 01:02:33,386
+So does that imply somewhere in existence
+
+1431
+01:02:33,386 --> 01:02:36,386
+the W because you always get W's?
+
+1432
+01:02:36,386 --> 01:02:40,386
+Well, you don't always get W's.
+
+1433
+01:02:40,386 --> 01:02:42,386
+Sometimes you get W's.
+
+1434
+01:02:42,386 --> 01:02:44,386
+Sometimes you get W's.
+
+1435
+01:02:44,386 --> 01:02:46,386
+Sometimes you might get three W's.
+
+1436
+01:02:46,386 --> 01:02:49,386
+When you hit a particle hard
+
+1437
+01:02:49,386 --> 01:02:52,386
+enough, you get all sorts of junk.
+
+1438
+01:02:52,386 --> 01:02:54,886
+When you hit a particle really hard, this is
+
+1439
+01:02:54,886 --> 01:02:57,386
+what I was trying to tell you the other night.
+
+1440
+01:02:57,386 --> 01:03:00,886
+When you try to think about what is
+
+1441
+01:03:00,886 --> 01:03:04,386
+elementary and what's not elementary, it gets very confusing.
+
+1442
+01:03:04,386 --> 01:03:07,386
+Because if you take what you thought was a
+
+1443
+01:03:07,386 --> 01:03:10,386
+very elementary particle and you hit it really hard enough,
+
+1444
+01:03:10,386 --> 01:03:12,386
+all kinds of junk comes out.
+
+1445
+01:03:12,386 --> 01:03:13,886
+And among the junk that comes
+
+1446
+01:03:13,886 --> 01:03:15,386
+out might be chairs and tables.
+
+1447
+01:03:15,386 --> 01:03:16,886
+Well, you'd need a hell of
+
+1448
+01:03:16,886 --> 01:03:18,386
+a lot of energy for that.
+
+1449
+01:03:18,386 --> 01:03:25,386
+But you hit an electron hard enough with a photon, really, really, really hard, meaning to say with
+
+1450
+01:03:25,386 --> 01:03:32,386
+much, much more energy than, for example, the mass of a proton, mass of a thousand protons, for example.
+
+1451
+01:03:32,386 --> 01:03:33,386
+And guess what?
+
+1452
+01:03:33,386 --> 01:03:35,386
+Out of it will come
+
+1453
+01:03:35,386 --> 01:03:37,386
+protons, electrons, all sorts of things.
+
+1454
+01:03:37,386 --> 01:03:39,386
+Every once in a while, one of
+
+1455
+01:03:39,386 --> 01:03:41,386
+those electrons will stick to a proton.
+
+1456
+01:03:41,386 --> 01:03:42,386
+And so you will discover that inside an
+
+1457
+01:03:42,386 --> 01:03:43,386
+electron or inside a proton, there's a proton.
+
+1458
+01:03:43,386 --> 01:03:43,886
+And so you will discover that inside an
+
+1459
+01:03:43,886 --> 01:03:44,386
+electron or inside a proton, there's a proton.
+
+1460
+01:03:44,386 --> 01:03:46,886
+And so you will discover that inside an
+
+1461
+01:03:46,886 --> 01:03:49,386
+electron or inside a proton, there's a hydrogen atom.
+
+1462
+01:03:49,386 --> 01:03:52,386
+The lesson is don't try to...
+
+1463
+01:03:52,386 --> 01:03:56,386
+Your mental picture of what comes out of a system is
+
+1464
+01:03:56,386 --> 01:04:00,386
+necessarily what was in there beforehand is a little bit defective.
+
+1465
+01:04:00,386 --> 01:04:08,386
+Does this have anything to do with vacuum energy?
+
+1466
+01:04:08,386 --> 01:04:10,386
+This in itself doesn't.
+
+1467
+01:04:10,386 --> 01:04:12,386
+This in itself doesn't.
+
+1468
+01:04:12,386 --> 01:04:15,386
+It really has to do with diagrams
+
+1469
+01:04:15,386 --> 01:04:18,386
+which are disconnected from the rest of...
+
+1470
+01:04:18,386 --> 01:04:20,386
+They're just there in the vacuum.
+
+1471
+01:04:20,386 --> 01:04:25,386
+But the presence of vacuum diagrams like this...
+
+1472
+01:04:25,386 --> 01:04:29,386
+Okay, so a vacuum diagram is
+
+1473
+01:04:29,386 --> 01:04:33,386
+something which also apparently violates energy conservation.
+
+1474
+01:04:33,386 --> 01:04:34,886
+Let's suppose this were an
+
+1475
+01:04:34,886 --> 01:04:36,386
+electron, an electron, and a photon.
+
+1476
+01:04:36,386 --> 01:04:38,886
+Two electrons necessarily have a
+
+1477
+01:04:38,886 --> 01:04:41,386
+certain minimum amount of energy.
+
+1478
+01:04:41,386 --> 01:04:43,386
+The vacuum has no energy.
+
+1479
+01:04:43,386 --> 01:04:44,386
+Okay?
+
+1480
+01:04:44,386 --> 01:04:47,386
+And so there's a certain violation of energy in there.
+
+1481
+01:04:47,386 --> 01:04:49,386
+That means that that pair can
+
+1482
+01:04:49,386 --> 01:04:51,386
+only last for a short time.
+
+1483
+01:04:51,386 --> 01:04:52,886
+And I say, okay, I
+
+1484
+01:04:52,886 --> 01:04:54,386
+would like to see that pair.
+
+1485
+01:04:54,386 --> 01:04:58,386
+So you send in some very high frequency photon or
+
+1486
+01:04:58,386 --> 01:05:02,386
+a pair of very high frequency photons from opposite sides.
+
+1487
+01:05:02,386 --> 01:05:03,386
+And guess what?
+
+1488
+01:05:03,386 --> 01:05:06,386
+You sometimes make electron-positron pairs
+
+1489
+01:05:06,386 --> 01:05:09,386
+with an extra photon in them.
+
+1490
+01:05:09,386 --> 01:05:12,886
+So you knock the hell out of that
+
+1491
+01:05:12,886 --> 01:05:16,386
+vacuum fluctuation and you discover pairs of particles.
+
+1492
+01:05:16,386 --> 01:05:17,386
+Yeah?
+
+1493
+01:05:17,386 --> 01:05:19,386
+What are these reactions?
+
+1494
+01:05:19,386 --> 01:05:22,386
+Are they independent of temperature or dependent on...
+
+1495
+01:05:22,386 --> 01:05:24,386
+Oh, no, they're not dependent on temperature.
+
+1496
+01:05:24,386 --> 01:05:26,386
+They are dependent on the particles that
+
+1497
+01:05:26,386 --> 01:05:28,386
+you're colliding having a lot of energy.
+
+1498
+01:05:28,386 --> 01:05:30,386
+All right, so it's a good question.
+
+1499
+01:05:30,386 --> 01:05:33,386
+Let's say what it has to do with temperature.
+
+1500
+01:05:33,386 --> 01:05:36,386
+When you have a system at high temperature,
+
+1501
+01:05:36,386 --> 01:05:37,386
+it simply means that you
+
+1502
+01:05:37,386 --> 01:05:38,386
+have a lot of particles around
+
+1503
+01:05:38,386 --> 01:05:40,386
+with high energy.
+
+1504
+01:05:40,386 --> 01:05:44,386
+So that means that typically at high temperatures,
+
+1505
+01:05:44,386 --> 01:05:46,886
+there are enough high energy particles
+
+1506
+01:05:46,886 --> 01:05:49,386
+to cause these things to happen.
+
+1507
+01:05:49,386 --> 01:05:51,386
+But just think of high temperatures as just
+
+1508
+01:05:51,386 --> 01:05:53,386
+having a lot of high energy particles around.
+
+1509
+01:05:53,386 --> 01:05:54,886
+If you have a very
+
+1510
+01:05:54,886 --> 01:05:56,386
+small number of high energy particles,
+
+1511
+01:05:56,386 --> 01:05:58,386
+you won't think of that as temperature.
+
+1512
+01:05:58,386 --> 01:05:59,886
+You'll just say, I have
+
+1513
+01:05:59,886 --> 01:06:01,386
+some particles with large kinetic energy.
+
+1514
+01:06:01,386 --> 01:06:03,386
+Right?
+
+1515
+01:06:03,386 --> 01:06:05,386
+An example of what temperature
+
+1516
+01:06:05,386 --> 01:06:07,386
+can do is if you have...
+
+1517
+01:06:07,386 --> 01:06:12,386
+The alpha particle bound inside the nucleus like that,
+
+1518
+01:06:12,386 --> 01:06:14,386
+and then you put it into a temperature bath.
+
+1519
+01:06:14,386 --> 01:06:18,386
+Now, I don't mean your bath water temperature bath.
+
+1520
+01:06:18,386 --> 01:06:23,386
+I mean temperatures which are many MeVs high,
+
+1521
+01:06:23,386 --> 01:06:27,386
+which is zillions and zillions of degrees high.
+
+1522
+01:06:27,386 --> 01:06:30,386
+But the effect of putting it into temperature,
+
+1523
+01:06:30,386 --> 01:06:31,886
+you can either think of it
+
+1524
+01:06:31,886 --> 01:06:33,386
+as particles coming in and colliding,
+
+1525
+01:06:33,386 --> 01:06:36,386
+or you can just think of it as thermal...
+
+1526
+01:06:37,386 --> 01:06:40,386
+vibrations causing this alpha particle to jiggle around
+
+1527
+01:06:40,386 --> 01:06:42,386
+and give it enough temperature,
+
+1528
+01:06:42,386 --> 01:06:45,386
+and sure enough, it'll jiggle over the top sometimes.
+
+1529
+01:06:45,386 --> 01:06:47,886
+So yes, these virtual processes
+
+1530
+01:06:47,886 --> 01:06:50,386
+can be induced by temperature.
+
+1531
+01:06:50,386 --> 01:06:52,386
+But temperature is another way of just saying
+
+1532
+01:06:52,386 --> 01:06:56,386
+there's a lot of high energy particles around.
+
+1533
+01:06:56,386 --> 01:06:59,886
+Did you say that the vacuum could not
+
+1534
+01:06:59,886 --> 01:07:03,386
+be attributed to the generation of W plus,
+
+1535
+01:07:03,386 --> 01:07:05,386
+the...
+
+1536
+01:07:05,386 --> 01:07:07,386
+The vacuum could not be attributed...
+
+1537
+01:07:07,386 --> 01:07:08,886
+I don't think I ever said
+
+1538
+01:07:08,886 --> 01:07:10,386
+the vacuum was attributed to anything.
+
+1539
+01:07:10,386 --> 01:07:12,386
+No, I...
+
+1540
+01:07:12,386 --> 01:07:14,386
+You were talking about the...
+
+1541
+01:07:14,386 --> 01:07:15,386
+Vacuum fluctuations.
+
+1542
+01:07:15,386 --> 01:07:17,386
+Yeah, vacuum fluctuations.
+
+1543
+01:07:17,386 --> 01:07:21,386
+The W plus is some kind of a fluctuation too.
+
+1544
+01:07:21,386 --> 01:07:23,386
+Well, the W is a particle.
+
+1545
+01:07:23,386 --> 01:07:24,386
+The W is a particle.
+
+1546
+01:07:24,386 --> 01:07:26,386
+I know, but the...
+
+1547
+01:07:26,386 --> 01:07:29,386
+But isn't there a relationship between that and...
+
+1548
+01:07:29,386 --> 01:07:33,386
+The W in this diagram is a fluctuation,
+
+1549
+01:07:33,386 --> 01:07:35,386
+but it's not a fluctuation of the vacuum.
+
+1550
+01:07:35,386 --> 01:07:36,386
+It's a fluctuation of the protein.
+
+1551
+01:07:36,386 --> 01:07:39,386
+It's a fluctuation of the proton.
+
+1552
+01:07:39,386 --> 01:07:42,386
+The proton sometimes fluctuates and
+
+1553
+01:07:42,386 --> 01:07:45,386
+makes a W and a neutron.
+
+1554
+01:07:45,386 --> 01:07:49,386
+That's, you know, a relative of,
+
+1555
+01:07:49,386 --> 01:07:56,386
+but not the same thing as saying
+
+1556
+01:07:56,386 --> 01:08:01,386
+an electron,
+
+1557
+01:08:01,386 --> 01:08:04,386
+an antineutrino,
+
+1558
+01:08:04,386 --> 01:08:06,386
+and a W, let's see,
+
+1559
+01:08:06,386 --> 01:08:08,386
+that would be a W plus,
+
+1560
+01:08:08,386 --> 01:08:13,386
+can sometimes form a vacuum fluctuation.
+
+1561
+01:08:13,386 --> 01:08:15,886
+It's another process where there really
+
+1562
+01:08:15,886 --> 01:08:18,386
+isn't enough energy for it to happen,
+
+1563
+01:08:18,386 --> 01:08:21,386
+so it happens in this virtual
+
+1564
+01:08:21,386 --> 01:08:24,386
+sense for a short period of time,
+
+1565
+01:08:24,386 --> 01:08:26,386
+and in that sense it's
+
+1566
+01:08:26,386 --> 01:08:28,386
+similar to this, but it's different.
+
+1567
+01:08:28,386 --> 01:08:30,386
+But the same rules apply to it.
+
+1568
+01:08:30,386 --> 01:08:32,386
+It can only last for a short time.
+
+1569
+01:08:32,386 --> 01:08:33,386
+So if you want to
+
+1570
+01:08:33,386 --> 01:08:34,386
+get into it and observe it,
+
+1571
+01:08:34,386 --> 01:08:35,886
+you have to do it with
+
+1572
+01:08:35,886 --> 01:08:37,386
+something which has very high energy
+
+1573
+01:08:37,386 --> 01:08:39,386
+because of the uncertainty principle,
+
+1574
+01:08:39,386 --> 01:08:42,386
+and the result is the energy is always enough.
+
+1575
+01:08:42,386 --> 01:08:45,386
+If the energy is high enough to see in there,
+
+1576
+01:08:45,386 --> 01:08:48,386
+it'll also be high enough to create those particles.
+
+1577
+01:08:48,386 --> 01:08:51,386
+You'll have enough energy to actually release them.
+
+1578
+01:08:51,386 --> 01:08:53,386
+The antineutrino is necessary for conservation.
+
+1579
+01:08:53,386 --> 01:08:54,386
+Say it again.
+
+1580
+01:08:54,386 --> 01:08:57,386
+The antineutrino is necessary there for conservation.
+
+1581
+01:08:57,386 --> 01:08:59,386
+Yeah.
+
+1582
+01:08:59,386 --> 01:09:01,386
+But another way of saying it is that
+
+1583
+01:09:01,386 --> 01:09:04,386
+the basic interaction is always
+
+1584
+01:09:04,386 --> 01:09:07,386
+one between electron, neutrino, and W.
+
+1585
+01:09:07,386 --> 01:09:10,386
+Right. But yes, it is.
+
+1586
+01:09:10,386 --> 01:09:12,386
+Right.
+
+1587
+01:09:16,386 --> 01:09:19,386
+I was thinking that you could
+
+1588
+01:09:19,386 --> 01:09:22,386
+turn a coffee bean into a cake.
+
+1589
+01:09:22,386 --> 01:09:25,386
+Coffee bean into a cake, chocolate cake,
+
+1590
+01:09:25,386 --> 01:09:29,386
+by basically adding energy.
+
+1591
+01:09:29,386 --> 01:09:31,386
+You put in enough energy
+
+1592
+01:09:31,386 --> 01:09:34,386
+to incinerate the coffee bean and add a chocolate cake.
+
+1593
+01:09:34,386 --> 01:09:35,386
+Mm-hmm.
+
+1594
+01:09:35,386 --> 01:09:36,386
+One cake is the probability.
+
+1595
+01:09:36,386 --> 01:09:37,386
+Just one chocolate?
+
+1596
+01:09:37,386 --> 01:09:39,386
+Why only one chocolate cake?
+
+1597
+01:09:41,386 --> 01:09:42,886
+Okay, so how much, what's
+
+1598
+01:09:42,886 --> 01:09:44,386
+the weight of a chocolate cake?
+
+1599
+01:09:44,386 --> 01:09:46,386
+Weight of a chocolate cake is,
+
+1600
+01:09:46,386 --> 01:09:48,386
+if it's really good chocolate cake, dense,
+
+1601
+01:09:48,386 --> 01:09:50,386
+it weighs a kilogram, right?
+
+1602
+01:09:50,386 --> 01:09:54,386
+A kilogram is a thousand grams,
+
+1603
+01:09:54,386 --> 01:09:58,386
+which is 10 to the eighth Planck masses.
+
+1604
+01:09:58,386 --> 01:09:59,386
+Okay.
+
+1605
+01:09:59,386 --> 01:10:01,386
+10 to the eighth Planck masses.
+
+1606
+01:10:01,386 --> 01:10:02,386
+Good.
+
+1607
+01:10:02,386 --> 01:10:04,386
+If you could accelerate a pair of particles
+
+1608
+01:10:04,386 --> 01:10:06,386
+to 10 to the eighth Planck masses
+
+1609
+01:10:06,386 --> 01:10:09,386
+with a very, very, very small probability,
+
+1610
+01:10:09,386 --> 01:10:11,386
+you might get a chocolate cake out.
+
+1611
+01:10:11,386 --> 01:10:13,386
+Yeah.
+
+1612
+01:10:13,386 --> 01:10:15,386
+Dream on, Michael.
+
+1613
+01:10:15,386 --> 01:10:17,386
+Or anything else that weighs a kilogram.
+
+1614
+01:10:17,386 --> 01:10:18,386
+What's that?
+
+1615
+01:10:18,386 --> 01:10:20,386
+Or anything else that weighs a kilogram.
+
+1616
+01:10:20,386 --> 01:10:22,386
+Or anything else that weighs a kilogram.
+
+1617
+01:10:22,386 --> 01:10:24,386
+Right.
+
+1618
+01:10:24,386 --> 01:10:26,386
+If you could put a,
+
+1619
+01:10:26,386 --> 01:10:27,886
+I mean, if you could
+
+1620
+01:10:27,886 --> 01:10:29,386
+make a delta T small enough
+
+1621
+01:10:29,386 --> 01:10:30,386
+Mm-hmm.
+
+1622
+01:10:30,386 --> 01:10:32,386
+to do your chair analogy,
+
+1623
+01:10:32,386 --> 01:10:36,386
+you could get electrons turning into chair and anti-chair.
+
+1624
+01:10:36,386 --> 01:10:37,386
+Right.
+
+1625
+01:10:37,386 --> 01:10:40,386
+Now, if you take that to an extreme,
+
+1626
+01:10:40,386 --> 01:10:42,386
+as short as possible time,
+
+1627
+01:10:42,386 --> 01:10:44,386
+what is the mass that,
+
+1628
+01:10:44,386 --> 01:10:47,386
+like a Planck, you know, Planck time,
+
+1629
+01:10:47,386 --> 01:10:49,386
+what would the mass be equivalent to that?
+
+1630
+01:10:49,386 --> 01:10:51,386
+Of a Planck time?
+
+1631
+01:10:51,386 --> 01:10:52,386
+Yeah.
+
+1632
+01:10:52,386 --> 01:10:53,386
+The Planck mass,
+
+1633
+01:10:53,386 --> 01:10:56,386
+which is about 10 to the minus five grams.
+
+1634
+01:10:56,386 --> 01:10:58,386
+So wouldn't that be the limit to how?
+
+1635
+01:10:58,386 --> 01:10:59,386
+No.
+
+1636
+01:10:59,386 --> 01:11:02,386
+The Planck mass is not the heaviest mass.
+
+1637
+01:11:02,386 --> 01:11:03,386
+Obviously not.
+
+1638
+01:11:03,386 --> 01:11:05,386
+I mean, a lot of Planck mass is.
+
+1639
+01:11:05,386 --> 01:11:08,386
+But if you're going to explain chairs and anti-chairs,
+
+1640
+01:11:08,386 --> 01:11:11,386
+shorter time, you could take planets and anti-planets
+
+1641
+01:11:11,386 --> 01:11:13,386
+and galaxies and the like.
+
+1642
+01:11:13,386 --> 01:11:14,386
+Right.
+
+1643
+01:11:14,386 --> 01:11:17,386
+If you collide particles at energies much larger
+
+1644
+01:11:17,386 --> 01:11:19,386
+than the Planck mass,
+
+1645
+01:11:19,386 --> 01:11:21,386
+what you get,
+
+1646
+01:11:21,386 --> 01:11:23,386
+I was going to say 99 times out of 100,
+
+1647
+01:11:23,386 --> 01:11:25,386
+but let's make it 99.999999
+
+1648
+01:11:25,386 --> 01:11:27,386
+endlessly out of whatever it is,
+
+1649
+01:11:27,386 --> 01:11:29,386
+you'll get a black hole.
+
+1650
+01:11:29,386 --> 01:11:30,386
+Okay?
+
+1651
+01:11:30,386 --> 01:11:32,386
+But every once in a while,
+
+1652
+01:11:32,386 --> 01:11:35,386
+with a probability which is exponentially small
+
+1653
+01:11:35,386 --> 01:11:38,386
+in the entropy of the black hole,
+
+1654
+01:11:38,386 --> 01:11:41,386
+that black hole will emit a chair.
+
+1655
+01:11:41,386 --> 01:11:43,386
+Instead.
+
+1656
+01:11:43,386 --> 01:11:44,386
+Right.
+
+1657
+01:11:44,386 --> 01:11:46,386
+How do I know that?
+
+1658
+01:11:46,386 --> 01:11:48,386
+I know that because the process of
+
+1659
+01:11:48,386 --> 01:11:50,386
+a chair falling into a black hole
+
+1660
+01:11:50,386 --> 01:11:53,386
+is possible.
+
+1661
+01:11:53,386 --> 01:11:55,386
+And therefore, by time reversals,
+
+1662
+01:11:55,386 --> 01:11:57,386
+you can get a black hole.
+
+1663
+01:11:57,386 --> 01:11:58,386
+And so,
+
+1664
+01:11:58,386 --> 01:12:00,386
+therefore, by time reversal invariance,
+
+1665
+01:12:00,386 --> 01:12:02,886
+the process of a black hole
+
+1666
+01:12:02,886 --> 01:12:05,386
+emitting a chair must be possible.
+
+1667
+01:12:05,386 --> 01:12:07,386
+So yes, every once in a while,
+
+1668
+01:12:07,386 --> 01:12:09,386
+the black hole,
+
+1669
+01:12:09,386 --> 01:12:11,386
+or when I say every once in a while,
+
+1670
+01:12:11,386 --> 01:12:13,386
+I mean a very rare percentage of the times
+
+1671
+01:12:13,386 --> 01:12:15,386
+that you do this experiment,
+
+1672
+01:12:15,386 --> 01:12:17,886
+the black hole will behave
+
+1673
+01:12:17,886 --> 01:12:20,386
+in a statistically extremely unlikely way.
+
+1674
+01:12:20,386 --> 01:12:24,386
+But all that entropy is, is statistics.
+
+1675
+01:12:24,386 --> 01:12:27,386
+And basically anything that can happen will happen.
+
+1676
+01:12:27,386 --> 01:12:29,386
+Eventually.
+
+1677
+01:12:29,386 --> 01:12:31,386
+And so, yes, everything can
+
+1678
+01:12:31,386 --> 01:12:33,386
+come out of a black hole
+
+1679
+01:12:33,386 --> 01:12:35,386
+if you do the process enough times.
+
+1680
+01:12:35,386 --> 01:12:38,386
+So, um, above,
+
+1681
+01:12:38,386 --> 01:12:40,386
+so all of this above the Planck energy scale
+
+1682
+01:12:40,386 --> 01:12:42,386
+has to do with the properties
+
+1683
+01:12:42,386 --> 01:12:44,386
+of emission from a black hole.
+
+1684
+01:12:47,386 --> 01:12:51,386
+The virtual photons and W particles are bosons.
+
+1685
+01:12:51,386 --> 01:12:53,386
+So will they interact with the
+
+1686
+01:12:53,386 --> 01:12:55,386
+other bosons in the close body
+
+1687
+01:12:55,386 --> 01:12:56,386
+and tend to fall off?
+
+1688
+01:12:56,386 --> 01:12:58,386
+Okay, which which photons?
+
+1689
+01:12:58,386 --> 01:13:00,386
+Virtual photons and virtual...
+
+1690
+01:13:00,386 --> 01:13:01,386
+Will they interact with which?
+
+1691
+01:13:01,386 --> 01:13:03,386
+Any other virtual photon.
+
+1692
+01:13:03,386 --> 01:13:05,386
+Okay, the virtual, let's first ask,
+
+1693
+01:13:05,386 --> 01:13:08,386
+does the W interact with the photon?
+
+1694
+01:13:08,386 --> 01:13:12,386
+Well, say there's another W close by,
+
+1695
+01:13:12,386 --> 01:13:14,386
+the virtual W,
+
+1696
+01:13:14,386 --> 01:13:16,386
+if they were,
+
+1697
+01:13:16,386 --> 01:13:19,386
+will they call out the same statements as the bosons?
+
+1698
+01:13:19,386 --> 01:13:20,886
+You want to know whether
+
+1699
+01:13:20,886 --> 01:13:22,386
+Ws will interact with each other.
+
+1700
+01:13:22,386 --> 01:13:24,386
+Do you have a question?
+
+1701
+01:13:24,386 --> 01:13:26,386
+Well, photons fall in the same place.
+
+1702
+01:13:26,386 --> 01:13:31,386
+They don't really interact with each other.
+
+1703
+01:13:31,386 --> 01:13:33,386
+You know, all these are...
+
+1704
+01:13:33,386 --> 01:13:36,386
+Photons do interact with each other a little bit.
+
+1705
+01:13:36,386 --> 01:13:38,386
+You know how they interact with each other?
+
+1706
+01:13:38,386 --> 01:13:40,386
+Through virtual pair production,
+
+1707
+01:13:40,386 --> 01:13:42,386
+but you're talking about due
+
+1708
+01:13:42,386 --> 01:13:44,386
+to the fact that they're bosons.
+
+1709
+01:13:44,386 --> 01:13:47,386
+The fact that they're bosons is not what says
+
+1710
+01:13:47,386 --> 01:13:49,386
+that they don't interact with each other.
+
+1711
+01:13:49,386 --> 01:13:52,386
+Bosons, fermions, they all interact.
+
+1712
+01:13:52,386 --> 01:13:54,386
+No difference in that respect.
+
+1713
+01:13:54,386 --> 01:13:55,386
+Okay.
+
+1714
+01:13:55,386 --> 01:13:58,386
+The reason that the photon
+
+1715
+01:13:58,386 --> 01:14:02,386
+doesn't seem to interact with other photons,
+
+1716
+01:14:02,386 --> 01:14:05,386
+let's see if we can trace it down.
+
+1717
+01:14:09,386 --> 01:14:12,386
+Photons can scatter.
+
+1718
+01:14:12,386 --> 01:14:14,386
+Now, ordinarily in the laboratory,
+
+1719
+01:14:14,386 --> 01:14:16,386
+two light beams won't scatter each other.
+
+1720
+01:14:16,386 --> 01:14:20,386
+But two photons can do the following.
+
+1721
+01:14:20,386 --> 01:14:22,386
+A photon can come in,
+
+1722
+01:14:22,386 --> 01:14:23,386
+another photon can come in,
+
+1723
+01:14:23,386 --> 01:14:27,386
+and they can create an electron-positron pair.
+
+1724
+01:14:27,386 --> 01:14:31,386
+Electron, E minus, E plus.
+
+1725
+01:14:31,386 --> 01:14:33,386
+Electron-positron pair.
+
+1726
+01:14:33,386 --> 01:14:35,386
+Well, if that can happen,
+
+1727
+01:14:35,386 --> 01:14:37,386
+then the opposite can happen.
+
+1728
+01:14:37,386 --> 01:14:40,386
+An electron-positron pair can become a pair of photons.
+
+1729
+01:14:40,386 --> 01:14:45,386
+And in fact, it can happen as a virtual process.
+
+1730
+01:14:45,386 --> 01:14:47,386
+As a virtual process,
+
+1731
+01:14:47,386 --> 01:14:50,386
+a pair of photons can come in and go out,
+
+1732
+01:14:50,386 --> 01:14:52,386
+but scatter by means of a virtual process.
+
+1733
+01:14:52,386 --> 01:14:55,386
+By means of an intermediate state,
+
+1734
+01:14:55,386 --> 01:14:58,386
+which is an electron-positron pair.
+
+1735
+01:14:58,386 --> 01:14:59,386
+Okay.
+
+1736
+01:14:59,386 --> 01:15:01,386
+Now, why doesn't it happen
+
+1737
+01:15:01,386 --> 01:15:04,386
+in the laboratory with ordinary photons?
+
+1738
+01:15:04,386 --> 01:15:06,386
+And the answer is,
+
+1739
+01:15:06,386 --> 01:15:09,386
+it takes a certain amount of energy
+
+1740
+01:15:09,386 --> 01:15:11,386
+to create the electron-positron pairs.
+
+1741
+01:15:11,386 --> 01:15:12,386
+Right?
+
+1742
+01:15:12,386 --> 01:15:14,386
+Each electron has a mass of,
+
+1743
+01:15:14,386 --> 01:15:16,386
+what is it, half an MeV?
+
+1744
+01:15:16,386 --> 01:15:18,386
+Right.
+
+1745
+01:15:18,386 --> 01:15:22,386
+So these together take an MeV of energy.
+
+1746
+01:15:22,386 --> 01:15:25,386
+If the pair of photons
+
+1747
+01:15:25,386 --> 01:15:29,386
+has energy very, very much lower than that,
+
+1748
+01:15:29,386 --> 01:15:31,386
+then there is not enough energy
+
+1749
+01:15:31,386 --> 01:15:34,386
+for the real creation of an electron-positron pair.
+
+1750
+01:15:34,386 --> 01:15:36,386
+But still, it can happen virtually.
+
+1751
+01:15:36,386 --> 01:15:38,386
+But when it happens virtually,
+
+1752
+01:15:38,386 --> 01:15:40,386
+there are propagators in here,
+
+1753
+01:15:40,386 --> 01:15:42,386
+and it's the same sort of deal
+
+1754
+01:15:42,386 --> 01:15:44,386
+as what happened here.
+
+1755
+01:15:44,386 --> 01:15:48,386
+When you have to supply extra energy
+
+1756
+01:15:48,386 --> 01:15:50,386
+for the process to happen,
+
+1757
+01:15:50,386 --> 01:15:52,386
+there is always a cost
+
+1758
+01:15:52,386 --> 01:15:54,386
+and probability.
+
+1759
+01:15:54,386 --> 01:15:56,386
+Typically, the cost and probability
+
+1760
+01:15:56,386 --> 01:15:58,386
+is somehow inverse to the amount of energy
+
+1761
+01:15:58,386 --> 01:16:01,386
+that you need to make the process happen.
+
+1762
+01:16:01,386 --> 01:16:02,386
+Okay?
+
+1763
+01:16:02,386 --> 01:16:05,386
+So this process doesn't happen in the laboratory
+
+1764
+01:16:05,386 --> 01:16:07,386
+because in the laboratory,
+
+1765
+01:16:07,386 --> 01:16:11,386
+photon energies are always vastly smaller
+
+1766
+01:16:11,386 --> 01:16:13,386
+than the mass of an electron.
+
+1767
+01:16:13,386 --> 01:16:15,386
+Photon energies are what?
+
+1768
+01:16:15,386 --> 01:16:17,386
+An electron volt?
+
+1769
+01:16:17,386 --> 01:16:20,386
+Typical photon, optical photons,
+
+1770
+01:16:20,386 --> 01:16:21,386
+are...
+
+1771
+01:16:21,386 --> 01:16:24,386
+are an electron volt or two.
+
+1772
+01:16:24,386 --> 01:16:26,386
+The mass of an electron is
+
+1773
+01:16:26,386 --> 01:16:29,386
+of order a million electron volts.
+
+1774
+01:16:29,386 --> 01:16:31,386
+And so typically, the photons
+
+1775
+01:16:31,386 --> 01:16:33,386
+don't have nearly enough energy
+
+1776
+01:16:33,386 --> 01:16:35,386
+for this process to happen.
+
+1777
+01:16:35,386 --> 01:16:37,386
+And when a process,
+
+1778
+01:16:37,386 --> 01:16:39,386
+when an intermediate process happens,
+
+1779
+01:16:39,386 --> 01:16:41,386
+which has to happen very fast,
+
+1780
+01:16:41,386 --> 01:16:42,386
+it comes and goes,
+
+1781
+01:16:42,386 --> 01:16:44,386
+it's always at a cost of probability.
+
+1782
+01:16:44,386 --> 01:16:46,386
+So this process, the scattering,
+
+1783
+01:16:46,386 --> 01:16:48,386
+is a very low probability process
+
+1784
+01:16:48,386 --> 01:16:50,386
+at low energies.
+
+1785
+01:16:50,386 --> 01:16:51,386
+On the other hand,
+
+1786
+01:16:51,386 --> 01:16:53,386
+if the photons hit with enough energy
+
+1787
+01:16:53,386 --> 01:16:56,386
+to be able to create an electron-positron pair,
+
+1788
+01:16:56,386 --> 01:16:58,386
+they really do interact with each other.
+
+1789
+01:16:58,386 --> 01:17:00,386
+Now, I forgot what the original question was.
+
+1790
+01:17:00,386 --> 01:17:02,386
+It had to do with W bosons.
+
+1791
+01:17:02,386 --> 01:17:04,386
+But the same thing...
+
+1792
+01:17:04,386 --> 01:17:05,386
+Same thing is true.
+
+1793
+01:17:05,386 --> 01:17:08,386
+W bosons do interact with each other.
+
+1794
+01:17:08,386 --> 01:17:10,386
+I wasn't talking about that type of interaction.
+
+1795
+01:17:10,386 --> 01:17:13,386
+I was talking about their statistical interaction
+
+1796
+01:17:13,386 --> 01:17:15,386
+because they're both...
+
+1797
+01:17:15,386 --> 01:17:17,386
+Oh, they are bosons, yes.
+
+1798
+01:17:17,386 --> 01:17:18,386
+Don't think...
+
+1799
+01:17:18,386 --> 01:17:19,386
+It's not an interaction.
+
+1800
+01:17:19,386 --> 01:17:23,386
+It's just the effect of Bosa statistics.
+
+1801
+01:17:25,386 --> 01:17:28,386
+Well, let's put it this way.
+
+1802
+01:17:28,386 --> 01:17:31,386
+The effects of the statistics,
+
+1803
+01:17:31,386 --> 01:17:34,386
+fermion versus boson,
+
+1804
+01:17:34,386 --> 01:17:36,386
+is only interesting
+
+1805
+01:17:36,386 --> 01:17:38,386
+when you have a situation
+
+1806
+01:17:38,386 --> 01:17:44,386
+where you create more than one particle.
+
+1807
+01:17:44,386 --> 01:17:46,386
+So more than one particle
+
+1808
+01:17:46,386 --> 01:17:47,386
+pretty much near each other,
+
+1809
+01:17:47,386 --> 01:17:49,386
+pretty much in the same state.
+
+1810
+01:17:49,386 --> 01:17:52,386
+In most particle physics experiments,
+
+1811
+01:17:52,386 --> 01:17:55,386
+you create the particles going off,
+
+1812
+01:17:55,386 --> 01:17:57,386
+flying off in every direction,
+
+1813
+01:17:57,386 --> 01:18:00,386
+and it's very rare that you have two particles
+
+1814
+01:18:00,386 --> 01:18:02,386
+of the same type going off
+
+1815
+01:18:02,386 --> 01:18:04,386
+in pretty much the same direction
+
+1816
+01:18:04,386 --> 01:18:06,386
+in such a way that it matters very much
+
+1817
+01:18:06,386 --> 01:18:08,386
+whether they're fermions or bosons.
+
+1818
+01:18:08,386 --> 01:18:12,386
+But yes, I mean, they do interact statistically
+
+1819
+01:18:12,386 --> 01:18:14,386
+the same way photons do.
+
+1820
+01:18:14,386 --> 01:18:17,386
+W bosons will prefer to be in the same state,
+
+1821
+01:18:17,386 --> 01:18:20,386
+in the same sense that photons prefer to...
+
+1822
+01:18:20,386 --> 01:18:24,386
+In principle, you could make a laser out of them.
+
+1823
+01:18:24,386 --> 01:18:27,386
+Don't...
+
+1824
+01:18:27,386 --> 01:18:30,386
+Not likely, but...
+
+1825
+01:18:30,386 --> 01:18:32,386
+In principle,
+
+1826
+01:18:32,386 --> 01:18:37,386
+you could make a system laze W bosons.
+
+1827
+01:18:37,386 --> 01:18:41,386
+Can you tell whether...
+
+1828
+01:18:41,386 --> 01:18:43,386
+You should call it a laser.
+
+1829
+01:18:43,386 --> 01:18:45,386
+Can you tell what color...
+
+1830
+01:18:45,386 --> 01:18:51,386
+Can you tell what color the proton or neutron is?
+
+1831
+01:18:51,386 --> 01:18:52,386
+What color it is.
+
+1832
+01:18:52,386 --> 01:18:54,386
+Does it matter? Red, green?
+
+1833
+01:18:54,386 --> 01:18:56,386
+No, it's always three quarks,
+
+1834
+01:18:56,386 --> 01:18:58,386
+one red, one green, and one blue,
+
+1835
+01:18:58,386 --> 01:19:00,386
+which makes it white.
+
+1836
+01:19:00,386 --> 01:19:02,386
+Or colorless.
+
+1837
+01:19:02,386 --> 01:19:04,386
+Black or white, I'm not sure,
+
+1838
+01:19:04,386 --> 01:19:06,386
+but I guess white.
+
+1839
+01:19:06,386 --> 01:19:11,386
+But it...
+
+1840
+01:19:11,386 --> 01:19:13,386
+There should be superpositions
+
+1841
+01:19:13,386 --> 01:19:15,386
+of red, green, and black.
+
+1842
+01:19:15,386 --> 01:19:18,386
+Somehow.
+
+1843
+01:19:18,386 --> 01:19:20,886
+But a proton is always
+
+1844
+01:19:20,886 --> 01:19:23,386
+one red, one green, one blue.
+
+1845
+01:19:25,386 --> 01:19:29,386
+Is this a place to bring in
+
+1846
+01:19:29,386 --> 01:19:32,386
+what happens at the other end of the energy spectrum
+
+1847
+01:19:32,386 --> 01:19:34,386
+like the boson kind condensate?
+
+1848
+01:19:34,386 --> 01:19:35,386
+Well...
+
+1849
+01:19:35,386 --> 01:19:37,386
+Is that...
+
+1850
+01:19:37,386 --> 01:19:39,386
+I'm just asking the question,
+
+1851
+01:19:39,386 --> 01:19:40,386
+is this a place to fit it
+
+1852
+01:19:40,386 --> 01:19:41,386
+in, or will we get to it?
+
+1853
+01:19:41,386 --> 01:19:42,386
+Yeah, we will get to it,
+
+1854
+01:19:42,386 --> 01:19:44,386
+and we'll get to it in the context
+
+1855
+01:19:44,386 --> 01:19:46,386
+of the Higgs boson.
+
+1856
+01:19:46,386 --> 01:19:48,386
+Okay.
+
+1857
+01:19:48,386 --> 01:19:49,386
+Yeah.
+
+1858
+01:19:49,386 --> 01:19:50,386
+The Higgs boson is the place
+
+1859
+01:19:50,386 --> 01:19:52,386
+where something like
+
+1860
+01:19:52,386 --> 01:19:54,386
+boson condensation happens.
+
+1861
+01:19:54,386 --> 01:20:00,386
+Um...
+
+1862
+01:20:00,386 --> 01:20:05,386
+All right, I did have one...
+
+1863
+01:20:05,386 --> 01:20:09,386
+All right, um...
+
+1864
+01:20:09,386 --> 01:20:10,386
+Nobody has asked me,
+
+1865
+01:20:10,386 --> 01:20:12,386
+so let me bring it up myself.
+
+1866
+01:20:12,386 --> 01:20:19,386
+What kind of group structure could we imagine
+
+1867
+01:20:19,386 --> 01:20:24,386
+which would mix the up quark and the down quark?
+
+1868
+01:20:24,386 --> 01:20:29,386
+Well, the up quark and the down quark...
+
+1869
+01:20:29,386 --> 01:20:31,386
+The charm quark and the strange quark,
+
+1870
+01:20:31,386 --> 01:20:32,386
+just forget them.
+
+1871
+01:20:32,386 --> 01:20:33,386
+Just up quark and down quark,
+
+1872
+01:20:33,386 --> 01:20:36,386
+they go into each other by W emission.
+
+1873
+01:20:36,386 --> 01:20:39,386
+What group could we be talking about?
+
+1874
+01:20:39,386 --> 01:20:40,386
+Now, it's obvious.
+
+1875
+01:20:40,386 --> 01:20:41,386
+We're talking about SU .
+
+1876
+01:20:41,386 --> 01:20:42,386
+There are two elements here,
+
+1877
+01:20:42,386 --> 01:20:44,386
+and one can go to the other.
+
+1878
+01:20:44,386 --> 01:20:48,386
+That's the symmetry of the system.
+
+1879
+01:20:48,386 --> 01:20:49,386
+We're talking about SU .
+
+1880
+01:20:49,386 --> 01:20:54,386
+But how many generators does SU have?
+
+1881
+01:20:54,386 --> 01:20:55,386
+Good.
+
+1882
+01:20:55,386 --> 01:20:57,386
+It has three generators.
+
+1883
+01:20:57,386 --> 01:20:59,386
+Each generator,
+
+1884
+01:20:59,386 --> 01:21:04,386
+the gauge bosons are in one-to-one correspondence
+
+1885
+01:21:04,386 --> 01:21:08,386
+with the generators of the group.
+
+1886
+01:21:08,386 --> 01:21:09,386
+That's the way it works.
+
+1887
+01:21:09,386 --> 01:21:10,386
+The eight gauge bosons,
+
+1888
+01:21:10,386 --> 01:21:12,386
+the eight gluons,
+
+1889
+01:21:12,386 --> 01:21:17,386
+there's one for each generator of SU .
+
+1890
+01:21:17,386 --> 01:21:19,386
+We only have two gauge bosons,
+
+1891
+01:21:19,386 --> 01:21:21,386
+W plus and W minus,
+
+1892
+01:21:21,386 --> 01:21:23,386
+but we're trying to postulate
+
+1893
+01:21:23,386 --> 01:21:24,886
+that this is a theory
+
+1894
+01:21:24,886 --> 01:21:26,386
+based on the symmetry SU .
+
+1895
+01:21:26,386 --> 01:21:28,386
+We're missing something.
+
+1896
+01:21:28,386 --> 01:21:29,386
+And indeed we are.
+
+1897
+01:21:29,386 --> 01:21:32,386
+We're missing one gauge boson.
+
+1898
+01:21:32,386 --> 01:21:34,386
+It is not the photon.
+
+1899
+01:21:34,386 --> 01:21:36,386
+It is not the photon.
+
+1900
+01:21:36,386 --> 01:21:38,386
+It is...
+
+1901
+01:21:38,386 --> 01:21:41,386
+It is closely related to
+
+1902
+01:21:41,386 --> 01:21:44,386
+the particle called the Z boson,
+
+1903
+01:21:44,386 --> 01:21:49,386
+a third member of the W family,
+
+1904
+01:21:49,386 --> 01:21:53,386
+W plus, W minus, and Z.
+
+1905
+01:21:53,386 --> 01:21:55,386
+We'll come to it next time.
+
+1906
+01:21:55,386 --> 01:21:59,386
+Please remind me if I forget to talk about
+
+1907
+01:21:59,386 --> 01:22:03,386
+the relationship between electric charge,
+
+1908
+01:22:03,386 --> 01:22:06,386
+Z boson, SU and so forth.
+
+1909
+01:22:06,386 --> 01:22:07,386
+We've got to come to that.
+
+1910
+01:22:07,386 --> 01:22:09,386
+But I wasn't...
+
+1911
+01:22:09,386 --> 01:22:11,386
+I was going to talk about it,
+
+1912
+01:22:11,386 --> 01:22:13,386
+but it's getting too late for now.
+
+1913
+01:22:13,386 --> 01:22:17,386
+In fact, it's getting too late to do almost anything.
+
+1914
+01:22:19,386 --> 01:22:22,386
+The other thing I had intended to talk about tonight
+
+1915
+01:22:22,386 --> 01:22:25,386
+was spontaneous symmetry breaking.
+
+1916
+01:22:25,386 --> 01:22:28,386
+Let's talk a little bit about spontaneous symmetry breaking,
+
+1917
+01:22:28,386 --> 01:22:29,386
+just qualitatively,
+
+1918
+01:22:29,386 --> 01:22:32,386
+and we won't try to do anything quantitative tonight.
+
+1919
+01:22:32,386 --> 01:22:33,386
+Just qualitatively.
+
+1920
+01:22:33,386 --> 01:22:35,386
+What is spontaneous symmetry breaking?
+
+1921
+01:22:37,386 --> 01:22:43,386
+I think the best way to
+
+1922
+01:22:43,386 --> 01:22:49,386
+describe it is by illustrating it.
+
+1923
+01:22:49,386 --> 01:22:53,386
+There's a famous illustration,
+
+1924
+01:22:53,386 --> 01:22:58,386
+which is in a sense spontaneous symmetry breaking,
+
+1925
+01:22:58,386 --> 01:23:01,386
+but it's a famous illustration.
+
+1926
+01:23:01,386 --> 01:23:03,386
+It's a famous illustration,
+
+1927
+01:23:03,386 --> 01:23:05,386
+but it's a famous illustration,
+
+1928
+01:23:05,386 --> 01:23:07,386
+it's not really a symmetry breaking,
+
+1929
+01:23:07,386 --> 01:23:10,386
+but if it helps you, okay.
+
+1930
+01:23:10,386 --> 01:23:15,386
+It's actually somewhat correct.
+
+1931
+01:23:15,386 --> 01:23:19,386
+The famous example is people sit down to dinner
+
+1932
+01:23:19,386 --> 01:23:22,386
+around a large table,
+
+1933
+01:23:22,386 --> 01:23:23,886
+and each person has to
+
+1934
+01:23:23,886 --> 01:23:25,386
+the left of them a fork
+
+1935
+01:23:25,386 --> 01:23:27,386
+and to the right of them a fork.
+
+1936
+01:23:27,386 --> 01:23:28,386
+Next person, left of them
+
+1937
+01:23:28,386 --> 01:23:29,386
+and right of them a fork.
+
+1938
+01:23:29,386 --> 01:23:33,386
+And nobody knows whether to go for the left fork,
+
+1939
+01:23:33,386 --> 01:23:34,386
+for the left fork,
+
+1940
+01:23:34,386 --> 01:23:36,386
+or the right fork.
+
+1941
+01:23:36,386 --> 01:23:39,386
+And they sit there, and they sit there,
+
+1942
+01:23:39,386 --> 01:23:40,386
+and they sit there,
+
+1943
+01:23:40,386 --> 01:23:42,386
+and they can't decide what to do,
+
+1944
+01:23:42,386 --> 01:23:44,386
+until all of a sudden,
+
+1945
+01:23:44,386 --> 01:23:45,886
+one of them makes a
+
+1946
+01:23:45,886 --> 01:23:47,386
+little motion toward the right fork,
+
+1947
+01:23:47,386 --> 01:23:49,386
+and then they all go for the right fork.
+
+1948
+01:23:49,386 --> 01:23:52,386
+There was nothing asymmetric to begin with,
+
+1949
+01:23:52,386 --> 01:23:54,386
+but there was a kind of instability.
+
+1950
+01:23:54,386 --> 01:23:56,386
+There was a kind of instability,
+
+1951
+01:23:56,386 --> 01:24:00,386
+two possibilities in instability,
+
+1952
+01:24:00,386 --> 01:24:02,386
+and the instability being such
+
+1953
+01:24:02,386 --> 01:24:04,386
+that when the instability is kicked in,
+
+1954
+01:24:04,386 --> 01:24:06,386
+when it's kicked off,
+
+1955
+01:24:06,386 --> 01:24:08,386
+the whole universe, so to speak,
+
+1956
+01:24:08,386 --> 01:24:11,386
+suddenly goes one way instead of the other way.
+
+1957
+01:24:11,386 --> 01:24:16,386
+So, I will give you an example,
+
+1958
+01:24:16,386 --> 01:24:20,386
+a mathematical example.
+
+1959
+01:24:20,386 --> 01:24:23,386
+A ferromagnet is an example
+
+1960
+01:24:23,386 --> 01:24:26,386
+of spontaneous symmetry breaking.
+
+1961
+01:24:26,386 --> 01:24:29,386
+But let's think, let's start with a very simple example.
+
+1962
+01:24:29,386 --> 01:24:32,386
+The simple example is,
+
+1963
+01:24:34,386 --> 01:24:39,386
+a bunch of spins,
+
+1964
+01:24:39,386 --> 01:24:43,386
+and the spins can either be all up or all,
+
+1965
+01:24:43,386 --> 01:24:46,386
+sorry, the spins can either be up or down.
+
+1966
+01:24:46,386 --> 01:24:49,386
+For the moment, it's not even important
+
+1967
+01:24:49,386 --> 01:24:51,386
+that we're talking about quantum mechanics.
+
+1968
+01:24:51,386 --> 01:24:56,386
+These could be coins, classical coins.
+
+1969
+01:24:56,386 --> 01:25:01,386
+And the coins can either be up or down.
+
+1970
+01:25:01,386 --> 01:25:04,386
+They're laid out on a table,
+
+1971
+01:25:04,386 --> 01:25:08,386
+in a lattice.
+
+1972
+01:25:08,386 --> 01:25:11,386
+Here they are.
+
+1973
+01:25:11,386 --> 01:25:13,386
+And there's an interaction energy
+
+1974
+01:25:13,386 --> 01:25:15,386
+between neighboring coins.
+
+1975
+01:25:15,386 --> 01:25:17,386
+The interaction energy is such
+
+1976
+01:25:17,386 --> 01:25:20,386
+that if the coins, if the neighbors are opposite,
+
+1977
+01:25:20,386 --> 01:25:23,386
+for example, a heads and a tails,
+
+1978
+01:25:23,386 --> 01:25:25,386
+that costs energy.
+
+1979
+01:25:25,386 --> 01:25:27,386
+In other words, there's some kind of force
+
+1980
+01:25:27,386 --> 01:25:31,386
+between the particles, or the spins,
+
+1981
+01:25:31,386 --> 01:25:32,386
+or the coins,
+
+1982
+01:25:32,386 --> 01:25:34,386
+so that if they're opposite,
+
+1983
+01:25:34,386 --> 01:25:36,386
+that costs some energy.
+
+1984
+01:25:36,386 --> 01:25:39,386
+If they're parallel, it costs less energy.
+
+1985
+01:25:39,386 --> 01:25:42,386
+So they like to be parallel.
+
+1986
+01:25:42,386 --> 01:25:44,386
+Energetically, they like to be parallel.
+
+1987
+01:25:44,386 --> 01:25:47,386
+But parallel can mean this way or this way.
+
+1988
+01:25:47,386 --> 01:25:50,386
+Anti-parallel can mean this way or this way.
+
+1989
+01:25:50,386 --> 01:25:54,386
+Anti-parallel costs more energy than parallel.
+
+1990
+01:25:54,386 --> 01:25:58,386
+Now think about the state of lowest energy.
+
+1991
+01:25:58,386 --> 01:26:00,386
+What is the state of lowest energy?
+
+1992
+01:26:00,386 --> 01:26:02,386
+The state of lowest energy
+
+1993
+01:26:02,386 --> 01:26:04,386
+is obviously,
+
+1994
+01:26:04,386 --> 01:26:10,386
+all heads or all tails.
+
+1995
+01:26:10,386 --> 01:26:13,386
+There are two states of lowest energy.
+
+1996
+01:26:13,386 --> 01:26:16,386
+All heads or all tails.
+
+1997
+01:26:16,386 --> 01:26:18,386
+Which one is the ground state?
+
+1998
+01:26:18,386 --> 01:26:20,386
+They're both ground states.
+
+1999
+01:26:20,386 --> 01:26:24,386
+But now, supposing way far away,
+
+2000
+01:26:24,386 --> 01:26:27,386
+off a hundred miles away,
+
+2001
+01:26:27,386 --> 01:26:31,386
+one of the spins is known to be heads.
+
+2002
+01:26:31,386 --> 01:26:33,386
+That one is asymmetric.
+
+2003
+01:26:33,386 --> 01:26:36,386
+Well, normally, under most circumstances,
+
+2004
+01:26:36,386 --> 01:26:38,386
+you would say that one degree of freedom,
+
+2005
+01:26:38,386 --> 01:26:40,386
+very, very far away,
+
+2006
+01:26:40,386 --> 01:26:42,386
+has no effect
+
+2007
+01:26:42,386 --> 01:26:46,386
+on what the properties of the ground state are
+
+2008
+01:26:46,386 --> 01:26:48,386
+far away from that degree of freedom.
+
+2009
+01:26:48,386 --> 01:26:50,386
+That's a typical expectation.
+
+2010
+01:26:50,386 --> 01:26:51,386
+It's usually true.
+
+2011
+01:26:51,386 --> 01:26:53,386
+It's almost always true, ordinarily.
+
+2012
+01:26:53,386 --> 01:26:56,386
+But, in this case,
+
+2013
+01:26:56,386 --> 01:26:58,386
+that one head
+
+2014
+01:26:58,386 --> 01:27:00,386
+will cause the ground state energy
+
+2015
+01:27:00,386 --> 01:27:02,386
+to be different if they're all heads
+
+2016
+01:27:02,386 --> 01:27:04,386
+than if they're all tails.
+
+2017
+01:27:04,386 --> 01:27:06,386
+If they're all heads,
+
+2018
+01:27:06,386 --> 01:27:09,386
+then you'll save one unit of energy,
+
+2019
+01:27:09,386 --> 01:27:12,386
+and so, in seeking its ground state,
+
+2020
+01:27:12,386 --> 01:27:15,386
+this system will tend to all heads
+
+2021
+01:27:15,386 --> 01:27:17,386
+rather than all tails.
+
+2022
+01:27:17,386 --> 01:27:19,386
+Once it's all heads,
+
+2023
+01:27:19,386 --> 01:27:21,386
+then you can forget,
+
+2024
+01:27:21,386 --> 01:27:24,386
+you can, once it's all heads,
+
+2025
+01:27:29,386 --> 01:27:31,386
+then you can start over again,
+
+2026
+01:27:31,386 --> 01:27:33,386
+and say, look,
+
+2027
+01:27:33,386 --> 01:27:35,386
+the lowest energy state of this system is all heads,
+
+2028
+01:27:35,386 --> 01:27:37,386
+it will cost me some energy
+
+2029
+01:27:37,386 --> 01:27:39,386
+to put a tail in there
+
+2030
+01:27:39,386 --> 01:27:41,386
+because it has four neighbors
+
+2031
+01:27:41,386 --> 01:27:44,386
+which are trying to make it a head.
+
+2032
+01:27:44,386 --> 01:27:47,386
+So, the result is
+
+2033
+01:27:47,386 --> 01:27:49,386
+that this kind of system,
+
+2034
+01:27:49,386 --> 01:27:51,386
+although it started with a symmetry,
+
+2035
+01:27:51,386 --> 01:27:53,386
+it started with a symmetry,
+
+2036
+01:27:53,386 --> 01:27:55,386
+heads goes to tails,
+
+2037
+01:27:55,386 --> 01:27:59,386
+asymptotically very, very far away,
+
+2038
+01:27:59,386 --> 01:28:01,386
+boundary conditions,
+
+2039
+01:28:01,386 --> 01:28:04,386
+or just a very, very distant degree of freedom,
+
+2040
+01:28:04,386 --> 01:28:07,386
+will tip off a instability
+
+2041
+01:28:07,386 --> 01:28:11,386
+and put the system into one of the many possible,
+
+2042
+01:28:11,386 --> 01:28:14,386
+in this case, only two possible ground states,
+
+2043
+01:28:14,386 --> 01:28:16,386
+and once it's in that ground state,
+
+2044
+01:28:16,386 --> 01:28:19,386
+then the properties of what goes on in here
+
+2045
+01:28:19,386 --> 01:28:21,386
+are determined by that ground state.
+
+2046
+01:28:21,386 --> 01:28:23,386
+In particular,
+
+2047
+01:28:23,386 --> 01:28:25,386
+a tail will cost you energy
+
+2048
+01:28:25,386 --> 01:28:28,386
+because of the presence of all the heads.
+
+2049
+01:28:29,386 --> 01:28:31,386
+This is the simple,
+
+2050
+01:28:31,386 --> 01:28:34,386
+and the most primitive example
+
+2051
+01:28:34,386 --> 01:28:36,386
+of a spontaneous symmetry breaking.
+
+2052
+01:28:36,386 --> 01:28:38,386
+How is it different
+
+2053
+01:28:38,386 --> 01:28:41,386
+than just an ordinary symmetry breaking?
+
+2054
+01:28:41,386 --> 01:28:44,386
+What would an ordinary symmetry breaking mean?
+
+2055
+01:28:44,386 --> 01:28:47,386
+An ordinary symmetry breaking,
+
+2056
+01:28:47,386 --> 01:28:50,386
+or what we can call an explicit symmetry breaking,
+
+2057
+01:28:50,386 --> 01:28:52,386
+would be a symmetry breaking
+
+2058
+01:28:52,386 --> 01:28:57,386
+if heads had a different energy than tails.
+
+2059
+01:28:57,386 --> 01:29:00,386
+Not pairwise energies,
+
+2060
+01:29:00,386 --> 01:29:02,386
+but just one head by itself.
+
+2061
+01:29:02,386 --> 01:29:04,386
+Supposing that one head by itself
+
+2062
+01:29:04,386 --> 01:29:07,386
+had less energy than a tail,
+
+2063
+01:29:07,386 --> 01:29:09,386
+then of course it would be completely obvious
+
+2064
+01:29:09,386 --> 01:29:10,386
+that the system would,
+
+2065
+01:29:10,386 --> 01:29:12,386
+in its lowest energy state,
+
+2066
+01:29:12,386 --> 01:29:14,386
+be all heads.
+
+2067
+01:29:14,386 --> 01:29:17,386
+And so it would be also the case,
+
+2068
+01:29:17,386 --> 01:29:19,386
+all heads,
+
+2069
+01:29:19,386 --> 01:29:21,386
+but there would be no second ground state
+
+2070
+01:29:21,386 --> 01:29:23,386
+in which they were all tails.
+
+2071
+01:29:23,386 --> 01:29:26,386
+It would be biased by the energy,
+
+2072
+01:29:26,386 --> 01:29:28,386
+or be biased by the energy,
+
+2073
+01:29:28,386 --> 01:29:30,386
+not the one extra point,
+
+2074
+01:29:30,386 --> 01:29:33,386
+or the particle infinitely far away,
+
+2075
+01:29:33,386 --> 01:29:37,386
+but by the local things going on nearby.
+
+2076
+01:29:37,386 --> 01:29:44,386
+So that would be a biased situation
+
+2077
+01:29:44,386 --> 01:29:46,386
+where heads and tails
+
+2078
+01:29:46,386 --> 01:29:48,386
+were not equivalent to each other,
+
+2079
+01:29:48,386 --> 01:29:50,386
+were not energetically the same,
+
+2080
+01:29:50,386 --> 01:29:52,386
+and it's not a spontaneous symmetry breaking,
+
+2081
+01:29:52,386 --> 01:29:54,386
+it's just no symmetry to begin with,
+
+2082
+01:29:54,386 --> 01:29:56,386
+or an explicit symmetry breaking.
+
+2083
+01:29:56,386 --> 01:29:58,386
+Is there any difference
+
+2084
+01:29:58,386 --> 01:30:00,386
+between explicit symmetry breaking
+
+2085
+01:30:00,386 --> 01:30:02,386
+and spontaneous symmetry breaking?
+
+2086
+01:30:02,386 --> 01:30:04,386
+Yes, there is.
+
+2087
+01:30:04,386 --> 01:30:07,386
+There is one phenomena that can happen
+
+2088
+01:30:07,386 --> 01:30:10,386
+when there's spontaneous symmetry breaking
+
+2089
+01:30:10,386 --> 01:30:11,386
+that will not happen
+
+2090
+01:30:11,386 --> 01:30:13,386
+if there's explicit symmetry breaking.
+
+2091
+01:30:13,386 --> 01:30:16,386
+The phenomena is called domain walls.
+
+2092
+01:30:16,386 --> 01:30:20,386
+A domain wall is what happens
+
+2093
+01:30:20,386 --> 01:30:25,386
+if far away out here,
+
+2094
+01:30:25,386 --> 01:30:27,386
+very, very far away,
+
+2095
+01:30:27,386 --> 01:30:29,386
+you insist along this line here
+
+2096
+01:30:29,386 --> 01:30:31,386
+that everybody is heads,
+
+2097
+01:30:31,386 --> 01:30:32,386
+and way out here,
+
+2098
+01:30:32,386 --> 01:30:36,386
+you assume that everybody is tails.
+
+2099
+01:30:36,386 --> 01:30:39,386
+What then is the state of lowest energy?
+
+2100
+01:30:39,386 --> 01:30:41,386
+And then the state of lowest energy
+
+2101
+01:30:41,386 --> 01:30:44,386
+is everybody on this side, tails,
+
+2102
+01:30:44,386 --> 01:30:46,386
+everybody on this side, heads,
+
+2103
+01:30:46,386 --> 01:30:49,386
+and a boundary in between
+
+2104
+01:30:49,386 --> 01:30:50,386
+where heads go from,
+
+2105
+01:30:50,386 --> 01:30:54,386
+where tails go from the boundary,
+
+2106
+01:30:54,386 --> 01:30:57,386
+where you go from tails to heads,
+
+2107
+01:30:57,386 --> 01:30:59,386
+called domain wall.
+
+2108
+01:30:59,386 --> 01:31:01,386
+So the presence of domain wall,
+
+2109
+01:31:01,386 --> 01:31:02,386
+and this would not be the case
+
+2110
+01:31:02,386 --> 01:31:04,386
+if you had explicit symmetry breaking.
+
+2111
+01:31:04,386 --> 01:31:07,386
+If you had explicit symmetry breaking,
+
+2112
+01:31:07,386 --> 01:31:10,386
+then the state of lowest energy
+
+2113
+01:31:10,386 --> 01:31:12,386
+would just be all heads, period.
+
+2114
+01:31:12,386 --> 01:31:13,386
+Wouldn't care that,
+
+2115
+01:31:13,386 --> 01:31:14,386
+wouldn't care very much
+
+2116
+01:31:14,386 --> 01:31:17,386
+that you did this thing over here.
+
+2117
+01:31:17,386 --> 01:31:19,386
+So spontaneous symmetry breaking,
+
+2118
+01:31:19,386 --> 01:31:20,386
+in this case,
+
+2119
+01:31:20,386 --> 01:31:22,386
+the signal of it
+
+2120
+01:31:22,386 --> 01:31:25,386
+is the existence under certain circumstances,
+
+2121
+01:31:25,386 --> 01:31:28,386
+certain kinds of experimental setups,
+
+2122
+01:31:28,386 --> 01:31:31,386
+would lead to the existence of domain walls,
+
+2123
+01:31:31,386 --> 01:31:33,386
+where on one side you had one thing,
+
+2124
+01:31:33,386 --> 01:31:35,386
+on the other side you had the other thing.
+
+2125
+01:31:35,386 --> 01:31:38,386
+And so it would be the presence of domain walls
+
+2126
+01:31:38,386 --> 01:31:40,386
+which would be the signal
+
+2127
+01:31:40,386 --> 01:31:44,386
+that there was a spontaneous symmetry breaking.
+
+2128
+01:31:44,386 --> 01:31:46,386
+All right, so this is the basic idea
+
+2129
+01:31:46,386 --> 01:31:48,386
+of spontaneous symmetry breaking,
+
+2130
+01:31:48,386 --> 01:31:50,386
+a symmetry of the system,
+
+2131
+01:31:50,386 --> 01:31:52,386
+but with an instability,
+
+2132
+01:31:52,386 --> 01:31:55,386
+or an instability
+
+2133
+01:31:55,386 --> 01:31:57,386
+that you can kick off
+
+2134
+01:31:57,386 --> 01:31:59,386
+by going very far away
+
+2135
+01:31:59,386 --> 01:32:01,386
+and just fiddling with something very far away,
+
+2136
+01:32:01,386 --> 01:32:05,386
+and that will fix everything.
+
+2137
+01:32:05,386 --> 01:32:09,386
+As I said, the signal or the signature of it
+
+2138
+01:32:09,386 --> 01:32:12,386
+is the existence of domain walls.
+
+2139
+01:32:12,386 --> 01:32:14,386
+Next time we'll talk about other kinds
+
+2140
+01:32:14,386 --> 01:32:16,386
+of spontaneous symmetry breaking
+
+2141
+01:32:16,386 --> 01:32:20,386
+and come to the Higgs phenomenon.
+
+2142
+01:32:20,386 --> 01:32:23,386
+The Higgs phenomenon is a phenomenon
+
+2143
+01:32:23,386 --> 01:32:25,386
+of spontaneous symmetry breaking,
+
+2144
+01:32:25,386 --> 01:32:26,386
+and we'll talk about it next time.
+
+2145
+01:32:26,386 --> 01:32:27,386
+So,
+
+2146
+01:32:27,386 --> 01:32:31,386
+just keep this example in mind.
+
+2147
+01:32:32,386 --> 01:32:36,386
+For more, please visit us at stanford.edu.
+

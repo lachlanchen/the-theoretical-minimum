@@ -1,0 +1,2151 @@
+# Transcript
+
+Source: supplementary/particle_physics_2_standard_model/2010_winter/090 - Lecture 6 ｜ New Revolutions in Particle Physics： Standard Model [5rytN74EOi0].mkv
+
+- [00:00:00,000 - 00:00:07,000] Stanford University
+- [00:00:07,000 - 00:00:14,000] Let's get back to SU3 and SU2.
+- [00:00:14,000 - 00:00:19,000] SU3 was QCD, and it's the
+- [00:00:19,000 - 00:00:24,000] symmetry which acted vertically on our table.
+- [00:00:24,000 - 00:00:27,000] It took us from one color, red,
+- [00:00:27,000 - 00:00:30,000] green, and blue, and mixed them up.
+- [00:00:30,000 - 00:00:44,000] Let's just remind ourselves about that.
+- [00:00:44,000 - 00:00:46,000] So we made ourselves a table.
+- [00:00:46,000 - 00:00:50,000] This is a table not of all elementary particles, obviously,
+- [00:00:50,000 - 00:00:54,000] but it's a table of all the fermions,
+- [00:00:54,000 - 00:00:56,500] yeah, it's a table of all
+- [00:00:56,500 - 00:00:59,000] of the fermions in the Standard Model,
+- [00:00:59,000 - 00:01:03,000] and not so much because they're fermions,
+- [00:01:03,000 - 00:01:06,000] but just it happens that they're kind of the constituents,
+- [00:01:06,000 - 00:01:10,000] the constituent particles of the atom and the nucleus.
+- [00:01:10,000 - 00:01:13,000] So let's just write them down again.
+- [00:01:13,000 - 00:01:17,000] There were the six different families of quarks.
+- [00:01:17,000 - 00:01:19,500] The families refer to, well, I'll
+- [00:01:19,500 - 00:01:22,000] tell you what they refer to.
+- [00:01:22,000 - 00:01:24,000] There's the quarks.
+- [00:01:24,000 - 00:01:26,000] Up and down.
+- [00:01:26,000 - 00:01:27,000] That's called a family.
+- [00:01:27,000 - 00:01:29,000] That's called the up-down family.
+- [00:01:29,000 - 00:01:37,000] Then there is up, down, charm, strange.
+- [00:01:37,000 - 00:01:38,500] I guess you can call it
+- [00:01:38,500 - 00:01:40,000] the charm or the strange family.
+- [00:01:40,000 - 00:01:47,000] And then there's the top and the bottom.
+- [00:01:47,000 - 00:01:52,000] That's the horizontal structure.
+- [00:01:54,000 - 00:02:00,000] And then we have red, green, and blue.
+- [00:02:00,000 - 00:02:03,500] And we have a quark
+- [00:02:03,500 - 00:02:07,000] in each one of these slots.
+- [00:02:07,000 - 00:02:10,000] Let's take this bar away here.
+- [00:02:10,000 - 00:02:11,500] Take this bar away and
+- [00:02:11,500 - 00:02:13,000] take this one over here away.
+- [00:02:13,000 - 00:02:16,000] We have a quark in each one of these slots.
+- [00:02:16,000 - 00:02:20,000] And the color symmetry, the SU symmetry,
+- [00:02:20,000 - 00:02:23,000] color which is associated with quantum chromodynamics,
+- [00:02:23,000 - 00:02:29,000] is the symmetry group which acts on this triplet here
+- [00:02:29,000 - 00:02:32,000] and mixes them up into each other.
+- [00:02:32,000 - 00:02:37,000] That symmetry group has generators.
+- [00:02:37,000 - 00:02:39,000] Those generators correspond to
+- [00:02:39,000 - 00:02:41,000] the infinitely small transformations,
+- [00:02:41,000 - 00:02:44,000] but it also corresponds to the gluons.
+- [00:02:44,000 - 00:02:49,000] The symmetry group which takes red to green to blue
+- [00:02:49,000 - 00:02:51,000] is associated with the existence of gluons,
+- [00:02:51,000 - 00:02:52,000] which is the existence of the blue,
+- [00:02:52,000 - 00:02:54,000] the existence of gluons,
+- [00:02:54,000 - 00:02:57,500] and the gluons, when they're
+- [00:02:57,500 - 00:03:01,000] emitted from one quark to another,
+- [00:03:01,000 - 00:03:04,000] for example, from red to green,
+- [00:03:04,000 - 00:03:13,000] you create a red, sorry, red-green bar gluon.
+- [00:03:13,000 - 00:03:17,000] This transformation from red to green
+- [00:03:17,000 - 00:03:20,000] is simply one of the generators of SU .
+- [00:03:20,000 - 00:03:24,000] So the generators of SU , the transformations,
+- [00:03:24,000 - 00:03:26,000] are in one-to-one correspondence with
+- [00:03:26,000 - 00:03:28,000] the emission of a gluon.
+- [00:03:28,000 - 00:03:30,500] You can think of an emission
+- [00:03:30,500 - 00:03:33,000] of a gluon as a physical act,
+- [00:03:33,000 - 00:03:36,000] which, a physical phenomenon,
+- [00:03:36,000 - 00:03:40,000] which does the same thing as the symmetry group
+- [00:03:40,000 - 00:03:43,000] which mixes the particles into each other.
+- [00:03:43,000 - 00:03:46,000] That's the character of gauge bosons.
+- [00:03:46,000 - 00:03:49,000] Gauge bosons are a sort of manifestation
+- [00:03:49,000 - 00:03:51,000] of the symmetry group in which
+- [00:03:51,000 - 00:03:53,000] the emission of a gauge boson
+- [00:03:53,000 - 00:03:58,000] really does change a particle from one thing to another
+- [00:03:58,000 - 00:04:02,000] in exactly the same pattern as the symmetry group
+- [00:04:02,000 - 00:04:04,000] would change one thing to another.
+- [00:04:04,000 - 00:04:08,000] Alright, so that's red, green, and blue.
+- [00:04:08,000 - 00:04:13,000] And when you perform one of these transformations,
+- [00:04:13,000 - 00:04:17,000] you do it on all of the quarks simultaneously.
+- [00:04:17,000 - 00:04:18,000] You don't do it just on the up quarks,
+- [00:04:18,000 - 00:04:21,000] or just the up-down family.
+- [00:04:21,000 - 00:04:25,000] If you want the symmetry to be correct,
+- [00:04:25,000 - 00:04:26,500] if you want it to be
+- [00:04:26,500 - 00:04:28,000] a real symmetry of the theory,
+- [00:04:28,000 - 00:04:29,500] then you must do it
+- [00:04:29,500 - 00:04:31,000] simultaneously on all of the quarks,
+- [00:04:31,000 - 00:04:34,000] and that corresponds to the statement
+- [00:04:34,000 - 00:04:37,000] that exactly the same gluon,
+- [00:04:37,000 - 00:04:42,000] let's say this is from up to up,
+- [00:04:42,000 - 00:04:45,000] up quark to up quark.
+- [00:04:45,000 - 00:04:48,000] Incidentally, the gluon emission does not change
+- [00:04:48,000 - 00:04:51,000] horizontally, it only changes vertically.
+- [00:04:51,000 - 00:04:54,000] So, for example, the same gluon,
+- [00:04:54,000 - 00:04:57,000] which would be involved in emitting,
+- [00:04:57,000 - 00:04:59,000] or which would be emitted,
+- [00:04:59,000 - 00:05:03,000] when a red up quark becomes a green up quark,
+- [00:05:03,000 - 00:05:06,000] that's exactly the same gluon
+- [00:05:06,000 - 00:05:11,000] as would be emitted when,
+- [00:05:11,000 - 00:05:16,000] let's say, when a top red quark
+- [00:05:16,000 - 00:05:18,000] would be a top blue.
+- [00:05:18,000 - 00:05:20,000] So, the same gluon,
+- [00:05:20,000 - 00:05:22,000] green quark,
+- [00:05:22,000 - 00:05:25,000] red, green bar, gluon.
+- [00:05:25,000 - 00:05:30,000] So, the symmetry takes whole rows
+- [00:05:30,000 - 00:05:33,000] and mixes them into each other.
+- [00:05:33,000 - 00:05:36,000] Then, there is a second symmetry,
+- [00:05:36,000 - 00:05:39,000] by now it's actually a third symmetry,
+- [00:05:39,000 - 00:05:41,000] we've talked about electrodynamics
+- [00:05:41,000 - 00:05:43,000] and what it does to the,
+- [00:05:43,000 - 00:05:45,000] what the emission of a photon,
+- [00:05:45,000 - 00:05:48,000] or what the symmetry associated with electrodynamics,
+- [00:05:48,000 - 00:05:49,000] is,
+- [00:05:49,000 - 00:05:51,000] but now we're encountering another symmetry,
+- [00:05:51,000 - 00:05:55,000] which is usually called flavor symmetry.
+- [00:05:55,000 - 00:05:58,000] Flavor symmetry, or,
+- [00:05:58,000 - 00:06:01,000] I guess, family symmetry, somehow, sometimes,
+- [00:06:01,000 - 00:06:05,000] it takes ups to downs
+- [00:06:05,000 - 00:06:09,000] at the same time that it takes charm to strange,
+- [00:06:09,000 - 00:06:12,000] at the same time that it takes top to bottom,
+- [00:06:12,000 - 00:06:16,000] keeping the color unchanged.
+- [00:06:16,000 - 00:06:17,000] All right?
+- [00:06:17,000 - 00:06:20,000] So, for example,
+- [00:06:20,000 - 00:06:22,000] there will be processes
+- [00:06:22,000 - 00:06:25,000] in which an up quark,
+- [00:06:25,000 - 00:06:29,000] let's say, of the blue variety,
+- [00:06:29,000 - 00:06:34,000] emits a W plus boson,
+- [00:06:34,000 - 00:06:37,000] W plus,
+- [00:06:37,000 - 00:06:42,000] and it becomes a down quark,
+- [00:06:42,000 - 00:06:45,000] also of the blue variety.
+- [00:06:45,000 - 00:06:49,000] So, what has this W boson done?
+- [00:06:49,000 - 00:06:52,000] It's a physical manifestation of the transformation
+- [00:06:52,000 - 00:06:56,000] which takes you horizontally back and forth.
+- [00:06:56,000 - 00:06:58,000] Exactly the same W plus
+- [00:06:58,000 - 00:07:01,000] would mediate, or would be emitted,
+- [00:07:01,000 - 00:07:03,000] the same kind of W plus,
+- [00:07:03,000 - 00:07:08,000] would be emitted when a green,
+- [00:07:08,000 - 00:07:11,000] let's say, charm quark
+- [00:07:11,000 - 00:07:14,000] becomes a green strange quark.
+- [00:07:14,000 - 00:07:17,000] Same W plus.
+- [00:07:19,778 - 00:07:20,384] وما
+- [00:07:20,384 - 00:07:20,991] إلى
+- [00:07:20,991 - 00:07:21,597] ذلك
+- [00:07:21,602 - 00:07:28,082] the gluons never move you horizontally
+- [00:07:28,082 - 00:07:33,002] the W bosons never move you vertically
+- [00:07:33,002 - 00:07:35,352] and that is also the character
+- [00:07:35,352 - 00:07:37,702] of the symmetry groups, the symmetry groups
+- [00:07:37,702 - 00:07:40,482] move you horizontally, that's SU
+- [00:07:40,482 - 00:07:42,342] it doesn't move you from here to here
+- [00:07:42,342 - 00:07:43,882] or from here to here
+- [00:07:43,882 - 00:07:44,962] it just
+- [00:07:44,962 - 00:07:47,462] moves you between up and down, down and up
+- [00:07:47,462 - 00:07:49,732] or at the same time charm and
+- [00:07:49,732 - 00:07:52,002] strange, strange to charm and so forth
+- [00:07:52,002 - 00:07:54,782] that's the mathematical structure
+- [00:07:54,782 - 00:07:59,302] of SU cross SU
+- [00:07:59,302 - 00:08:00,522] if you add
+- [00:08:00,522 - 00:08:02,562] the photon
+- [00:08:02,562 - 00:08:06,082] the photon emission is associated with the symmetry
+- [00:08:06,082 - 00:08:11,262] which changes the phase of every charge carrying field
+- [00:08:11,262 - 00:08:13,841] which I explained that to you last time
+- [00:08:13,841 - 00:08:15,802] every charge carrying field
+- [00:08:15,802 - 00:08:17,262] transforms with a phase
+- [00:08:17,462 - 00:08:22,202] under U1
+- [00:08:22,202 - 00:08:24,121] and if you add those three together
+- [00:08:24,121 - 00:08:27,241] you have the basic ingredients
+- [00:08:27,241 - 00:08:30,362] of SU cross SU cross U1
+- [00:08:30,362 - 00:08:32,422] cross simply means
+- [00:08:32,422 - 00:08:34,402] that it's a product structure
+- [00:08:34,402 - 00:08:38,582] where the SU don't mix up the colors
+- [00:08:38,582 - 00:08:43,022] and the SU don't mix up the upness and downness
+- [00:08:43,022 - 00:08:46,141] it's a product structure
+- [00:08:46,141 - 00:08:46,641] and that's where the terminology of the term
+- [00:08:46,641 - 00:08:47,141] is going to be used in the future
+- [00:08:47,462 - 00:08:49,462] that's where the
+- [00:08:49,462 - 00:08:55,462] uh
+- [00:08:55,462 - 00:08:57,322] I guess you would call it terminology
+- [00:08:57,322 - 00:08:58,822] that the standard model
+- [00:08:58,822 - 00:09:02,302] is a gauge theory based on the gauge group
+- [00:09:02,302 - 00:09:04,982] SU3
+- [00:09:04,982 - 00:09:08,622] cross SU2
+- [00:09:08,622 - 00:09:13,702] cross U1
+- [00:09:13,702 - 00:09:15,302] now it is actually a little
+- [00:09:15,302 - 00:09:16,902] bit more complicated than I'm saying
+- [00:09:16,902 - 00:09:18,902] we're going to sort out the complications
+- [00:09:18,902 - 00:09:20,902] but roughly speaking
+- [00:09:20,902 - 00:09:22,902] SU3 for color
+- [00:09:22,902 - 00:09:25,902] SU2 for the W emission
+- [00:09:25,902 - 00:09:27,902] and U1 for electrodynamics
+- [00:09:27,902 - 00:09:29,402] now this is going to
+- [00:09:29,402 - 00:09:30,902] get slightly more complicated than that
+- [00:09:30,902 - 00:09:33,902] because what I'm saying is not 100% consistent
+- [00:09:33,902 - 00:09:35,902] for reasons that will become clear
+- [00:09:35,902 - 00:09:37,902] but not yet
+- [00:09:37,902 - 00:09:40,902] alright the emission of a W boson
+- [00:09:40,902 - 00:09:44,902] incidentally of course W bosons are only discovered
+- [00:09:44,902 - 00:09:46,902] right now in the world of physics
+- [00:09:46,902 - 00:09:48,902] relatively late in the game
+- [00:09:48,902 - 00:09:53,902] and they were postulated
+- [00:09:53,902 - 00:09:55,902] sometime in the 60s
+- [00:09:55,902 - 00:09:59,902] but it really only achieved some
+- [00:09:59,902 - 00:10:01,902] real traction in the 70s
+- [00:10:01,902 - 00:10:03,902] the W bosons
+- [00:10:03,902 - 00:10:05,902] but the theory of weak interactions
+- [00:10:05,902 - 00:10:08,902] or some aspects of the theory of weak interactions
+- [00:10:08,902 - 00:10:11,902] goes back much earlier than that
+- [00:10:11,902 - 00:10:13,902] I suppose to the 30s
+- [00:10:13,902 - 00:10:15,902] the Fermi theory of weak interactions
+- [00:10:15,902 - 00:10:18,902] and we'll discuss the relationship soon enough
+- [00:10:18,902 - 00:10:23,902] okay what about the coupling constants
+- [00:10:23,902 - 00:10:28,902] that are involved in these various interactions
+- [00:10:28,902 - 00:10:31,902] the U1 coupling constant here
+- [00:10:31,902 - 00:10:35,902] that's associated with the emission of a photon
+- [00:10:35,902 - 00:10:40,902] and the coupling constant is simply the electric charge
+- [00:10:40,902 - 00:10:43,902] the reason that the emission
+- [00:10:43,902 - 00:10:46,902] or the reason that the probability
+- [00:10:46,902 - 00:10:49,902] of the emission of a photon
+- [00:10:49,902 - 00:10:52,902] is the fine structure constant
+- [00:10:52,902 - 00:10:54,402] is because this is the amplitude
+- [00:10:54,402 - 00:10:55,902] for the emission of a photon
+- [00:10:55,902 - 00:10:57,902] you have to square it
+- [00:10:57,902 - 00:11:00,902] to find the probability for the
+- [00:11:00,902 - 00:11:03,902] for the photon to be present
+- [00:11:03,902 - 00:11:06,902] so E squared
+- [00:11:06,902 - 00:11:08,902] is basically the fine structure constant
+- [00:11:08,902 - 00:11:10,902] it has some pi's and things that's not important
+- [00:11:10,902 - 00:11:13,902] but E squared is basically the fine structure constant
+- [00:11:13,902 - 00:11:16,902] and it's also the coupling constant
+- [00:11:16,902 - 00:11:18,902] or the emission
+- [00:11:18,902 - 00:11:22,902] the quantum mechanical amplitude
+- [00:11:22,902 - 00:11:24,902] for the emission of a photon
+- [00:11:24,902 - 00:11:27,902] either the virtual emission of a photon
+- [00:11:27,902 - 00:11:31,902] which means that the photon is going to be reabsorbed
+- [00:11:31,902 - 00:11:33,902] before it gets very far
+- [00:11:33,902 - 00:11:35,902] or if the electron is jerked out of the way
+- [00:11:35,902 - 00:11:38,902] then the real emission of a photon
+- [00:11:38,902 - 00:11:42,902] the amplitude for that is this constant
+- [00:11:42,902 - 00:11:43,902] called the electric charge
+- [00:11:43,902 - 00:11:45,902] and it's a pure number
+- [00:11:45,902 - 00:11:47,902] and it's a number
+- [00:11:47,902 - 00:11:49,902] well, the fine structure constant itself
+- [00:11:49,902 - 00:11:51,902] the square of this number
+- [00:11:51,902 - 00:11:54,902] is as I told you about 1 over 137
+- [00:11:54,902 - 00:11:58,902] okay, so it's a small number here
+- [00:11:58,902 - 00:12:01,902] the SU coupling constant
+- [00:12:01,902 - 00:12:04,902] that's usually called G
+- [00:12:04,902 - 00:12:08,902] or we can call it G strong
+- [00:12:08,902 - 00:12:10,902] G sub S
+- [00:12:10,902 - 00:12:12,902] that of course is associated with the
+- [00:12:12,902 - 00:12:16,902] emission of a gluon
+- [00:12:16,902 - 00:12:18,902] and that's also a number
+- [00:12:18,902 - 00:12:20,902] that number is close to 1
+- [00:12:20,902 - 00:12:23,902] well, not close, that's a little
+- [00:12:23,902 - 00:12:25,902] 1 is a little bit too big
+- [00:12:25,902 - 00:12:27,902] the corresponding thing corresponding
+- [00:12:27,902 - 00:12:29,902] to the fine structure constant
+- [00:12:29,902 - 00:12:33,902] would be more like about a fifth
+- [00:12:33,902 - 00:12:35,902] a fifth is a lot
+- [00:12:35,902 - 00:12:37,902] bigger than a 1 over 137
+- [00:12:37,902 - 00:12:39,902] so the emission of a gluon
+- [00:12:39,902 - 00:12:41,902] is a much much more probable
+- [00:12:41,902 - 00:12:43,902] event
+- [00:12:43,902 - 00:12:46,902] when a quark smacks into something
+- [00:12:46,902 - 00:12:48,902] it basically emits a gluon
+- [00:12:48,902 - 00:12:50,902] with a probability close to 1
+- [00:12:50,902 - 00:12:52,902] almost always emits a gluon
+- [00:12:52,902 - 00:12:55,902] whereas the photon almost never emits a photon
+- [00:12:55,902 - 00:12:57,902] now you might think
+- [00:12:57,902 - 00:12:59,902] in view of the fact that the weak interactions
+- [00:12:59,902 - 00:13:02,902] are called weak interactions
+- [00:13:02,902 - 00:13:03,902] and in fact
+- [00:13:03,902 - 00:13:06,902] from the fact that the decay rates
+- [00:13:06,902 - 00:13:09,902] are very much lower
+- [00:13:09,902 - 00:13:11,902] associated with weak interactions
+- [00:13:11,902 - 00:13:13,902] the weak interactions are indeed
+- [00:13:13,902 - 00:13:15,902] in many many ways
+- [00:13:15,902 - 00:13:17,902] very much weaker than either
+- [00:13:17,902 - 00:13:20,902] the gluonic interaction
+- [00:13:20,902 - 00:13:22,902] or the electromagnetic interaction
+- [00:13:22,902 - 00:13:26,902] but it's not because the coupling constant is smaller
+- [00:13:26,902 - 00:13:29,902] the coupling constant of the weak interactions
+- [00:13:29,902 - 00:13:31,902] is closely related
+- [00:13:31,902 - 00:13:33,902] to the coupling constant
+- [00:13:33,902 - 00:13:35,902] for quantum electrodynamics
+- [00:13:35,902 - 00:13:38,902] it's about the same order of magnitude
+- [00:13:38,902 - 00:13:40,902] are
+- [00:13:41,902 - 00:13:43,902] related
+- [00:13:43,902 - 00:13:45,902] it's related by some
+- [00:13:45,902 - 00:13:47,902] some simple numerical factor
+- [00:13:47,902 - 00:13:49,902] but not
+- [00:13:49,902 - 00:13:51,902] not very different
+- [00:13:51,902 - 00:13:53,902] and so that raises the question
+- [00:13:53,902 - 00:13:55,902] what is it about
+- [00:13:55,902 - 00:13:58,902] these processes involving W bosons
+- [00:13:58,902 - 00:14:01,902] that makes it so improbable
+- [00:14:01,902 - 00:14:03,902] so unlikely
+- [00:14:03,902 - 00:14:05,902] that a weak interaction will take place
+- [00:14:05,902 - 00:14:07,902] and it is unlikely
+- [00:14:07,902 - 00:14:08,902] after all
+- [00:14:08,902 - 00:14:10,902] it takes the neutron 12 minutes to decay
+- [00:14:10,902 - 00:14:12,902] it must be a very unlikely process
+- [00:14:12,902 - 00:14:16,902] so that's the next question
+- [00:14:19,902 - 00:14:21,902] let's think about the decay of the neutron
+- [00:14:21,902 - 00:14:23,902] the decay of the neutron
+- [00:14:23,902 - 00:14:25,902] originates from
+- [00:14:25,902 - 00:14:27,902] a down quark
+- [00:14:27,902 - 00:14:28,902] inside the neutron
+- [00:14:28,902 - 00:14:30,902] down quark
+- [00:14:30,902 - 00:14:33,902] emitting a W minus
+- [00:14:33,902 - 00:14:36,902] and becoming an up quark
+- [00:14:36,902 - 00:14:38,902] so let's add in the other quarks
+- [00:14:38,902 - 00:14:40,902] there's another down quark
+- [00:14:40,902 - 00:14:45,902] and an up quark
+- [00:14:45,902 - 00:14:46,902] alright
+- [00:14:46,902 - 00:14:47,902] this is a neutron
+- [00:14:47,902 - 00:14:48,902] sorry
+- [00:14:48,902 - 00:14:49,902] this is a neutron
+- [00:14:49,902 - 00:14:50,902] an up
+- [00:14:50,902 - 00:14:51,902] and two downs
+- [00:14:51,902 - 00:14:52,902] and this is a proton
+- [00:14:52,902 - 00:14:54,902] two ups and a down
+- [00:14:54,902 - 00:14:56,902] and a W goes off
+- [00:14:56,902 - 00:14:57,902] alright
+- [00:14:57,902 - 00:14:58,902] let's
+- [00:14:58,902 - 00:15:01,902] W minus
+- [00:15:01,902 - 00:15:03,902] but then
+- [00:15:03,902 - 00:15:04,902] the W
+- [00:15:04,902 - 00:15:07,902] can also become
+- [00:15:07,902 - 00:15:09,902] W minus can become an electron
+- [00:15:09,902 - 00:15:10,902] an electron
+- [00:15:10,902 - 00:15:12,902] and an anti-neutrino
+- [00:15:12,902 - 00:15:13,902] ah
+- [00:15:13,902 - 00:15:15,902] let's go back to this table here
+- [00:15:15,902 - 00:15:16,902] let me remind you
+- [00:15:16,902 - 00:15:17,902] there are more particles
+- [00:15:17,902 - 00:15:19,902] more fermions
+- [00:15:19,902 - 00:15:22,902] the additional fermions are the leptons
+- [00:15:22,902 - 00:15:24,902] the leptons come in
+- [00:15:24,902 - 00:15:26,902] basically the same pattern
+- [00:15:26,902 - 00:15:27,902] up down
+- [00:15:27,902 - 00:15:28,902] charm strange
+- [00:15:28,902 - 00:15:29,902] top bottom
+- [00:15:29,902 - 00:15:30,902] but
+- [00:15:30,902 - 00:15:31,902] they do not carry color
+- [00:15:31,902 - 00:15:35,902] the meaning of that is they don't participate at all
+- [00:15:35,902 - 00:15:37,902] in the color interactions
+- [00:15:37,902 - 00:15:39,902] now you're perfectly free
+- [00:15:39,902 - 00:15:40,902] to ask me why
+- [00:15:40,902 - 00:15:43,902] and I'm perfectly free to say I don't know
+- [00:15:43,902 - 00:15:45,902] so
+- [00:15:45,902 - 00:15:47,902] ah
+- [00:15:47,902 - 00:15:49,902] however
+- [00:15:49,902 - 00:15:50,902] there's a pattern
+- [00:15:50,902 - 00:15:52,902] and the pattern is not
+- [00:15:52,902 - 00:15:54,901] it does have some structure to it
+- [00:15:54,901 - 00:15:55,901] but I'll tell you what
+- [00:15:55,901 - 00:15:56,901] not tonight
+- [00:15:56,901 - 00:15:57,901] but at some point
+- [00:15:57,901 - 00:16:00,901] maybe we'll understand this pattern better
+- [00:16:00,901 - 00:16:03,901] almost as though it were a fourth color
+- [00:16:03,901 - 00:16:05,902] are the leptons
+- [00:16:05,902 - 00:16:07,902] so
+- [00:16:07,902 - 00:16:08,902] so
+- [00:16:08,902 - 00:16:10,902] I'll just
+- [00:16:10,902 - 00:16:14,902] now the leptons do not have the same charges
+- [00:16:14,902 - 00:16:15,902] as
+- [00:16:15,902 - 00:16:16,902] the quarks
+- [00:16:16,902 - 00:16:17,902] let me just remind you
+- [00:16:17,902 - 00:16:18,902] these
+- [00:16:18,902 - 00:16:19,902] this column
+- [00:16:19,902 - 00:16:21,902] would be the quarks with charge two thirds
+- [00:16:21,902 - 00:16:24,402] and this column would be the
+- [00:16:24,402 - 00:16:26,902] quarks with charge minus a third
+- [00:16:26,902 - 00:16:27,902] and notice
+- [00:16:27,902 - 00:16:31,902] that this one has one more unit of charge
+- [00:16:31,902 - 00:16:33,902] than this one
+- [00:16:33,902 - 00:16:35,902] the difference of charge is one unit
+- [00:16:35,902 - 00:16:36,902] all right
+- [00:16:36,902 - 00:16:37,902] down in this lepton
+- [00:16:37,902 - 00:16:42,382] on rho over here, the same is true over
+- [00:16:42,382 - 00:16:46,862] here of course, two thirds minus one third, two
+- [00:16:46,862 - 00:16:49,722] thirds minus one third.
+- [00:16:49,722 - 00:16:52,562] Now the emission of a W
+- [00:16:52,562 - 00:16:55,402] only cares about the difference of charge.
+- [00:16:55,402 - 00:16:58,652] In other words, a W can be emitted
+- [00:16:58,652 - 00:17:01,902] if the difference of charge is the right thing.
+- [00:17:01,902 - 00:17:06,202] Alright, W plus or W minus has a definite
+- [00:17:06,202 - 00:17:10,502] charge and to emit it, the difference of charge
+- [00:17:10,502 - 00:17:13,762] of the initial and final fermion must be correct.
+- [00:17:13,762 - 00:17:18,171] Alright, so if the W can be emitted when
+- [00:17:18,171 - 00:17:22,581] a neutrino becomes an electron or when an electron
+- [00:17:22,581 - 00:17:27,122] becomes a neutrino, the charge difference must be the same.
+- [00:17:27,122 - 00:17:28,122] Okay?
+- [00:17:28,122 - 00:17:31,821] In fact, what goes down here would be the neutrino.
+- [00:17:31,822 - 00:17:38,982] The neutrino, the electron neutrino, and the electron.
+- [00:17:38,982 - 00:17:41,302] The charge difference is the same.
+- [00:17:41,302 - 00:17:45,942] This has charge minus one, this has charge zero.
+- [00:17:45,942 - 00:17:49,192] So the charge difference is the same and
+- [00:17:49,192 - 00:17:52,442] it is mathematically consistent to say that a
+- [00:17:52,442 - 00:17:56,842] W boson, the same W boson, can
+- [00:17:56,842 - 00:18:01,242] be emitted when a neutrino becomes an electron.
+- [00:18:01,242 - 00:18:01,492] In the next class, we
+- [00:18:01,492 - 00:18:01,742] will discuss the difference of charge.
+- [00:18:01,822 - 00:18:07,122] So, in the last column, under the
+- [00:18:07,122 - 00:18:12,422] CHARM strange column, comes the neutrino associated with
+- [00:18:12,422 - 00:18:15,602] the muon and the muon.
+- [00:18:15,602 - 00:18:18,352] The muon is in every respect, at least as
+- [00:18:18,352 - 00:18:21,102] far as we know, essentially the same as the
+- [00:18:21,102 - 00:18:26,822] electron except its mass is about 200 times larger.
+- [00:18:26,822 - 00:18:28,942] Again, no rhyme, no reason
+- [00:18:28,942 - 00:18:31,062] for that at the present time.
+- [00:18:31,062 - 00:18:34,162] And then, under the top-bottom column, the
+- [00:18:34,162 - 00:18:37,262] heaviest of the quarks is matched with the
+- [00:18:37,262 - 00:18:39,022] heaviest of the leptons.
+- [00:18:39,022 - 00:18:41,862] Incidentally, we don't know the details of
+- [00:18:41,862 - 00:18:44,702] the masses of the neutrinos very well.
+- [00:18:44,702 - 00:18:48,502] All right, there's the neutrino associated with
+- [00:18:48,502 - 00:18:52,302] the tau lepton and the tau lepton.
+- [00:18:52,302 - 00:18:55,182] And the tau lepton is quite
+- [00:18:55,182 - 00:18:58,062] a bit heavier than any other lepton.
+- [00:18:58,062 - 00:18:59,062] So, we're going to look at the neutrinos.
+- [00:18:59,062 - 00:19:00,062] We're going to look at the neutrinos.
+- [00:19:00,062 - 00:19:01,062] We're going to look at the neutrinos.
+- [00:19:01,062 - 00:19:02,062] So, let's look at the neutrinos.
+- [00:19:02,062 - 00:19:03,062] Leptons, I understand.
+- [00:19:03,062 - 00:19:04,062] What is it?
+- [00:19:04,062 - 00:19:06,062] I don't remember right now what
+- [00:19:06,062 - 00:19:08,062] the word lep in Greek stands for.
+- [00:19:08,062 - 00:19:09,062] What is it?
+- [00:19:09,062 - 00:19:10,062] Light.
+- [00:19:10,062 - 00:19:11,062] Light.
+- [00:19:11,062 - 00:19:12,062] Not heavy.
+- [00:19:12,062 - 00:19:13,062] Not heavy.
+- [00:19:13,062 - 00:19:14,062] Right.
+- [00:19:14,062 - 00:19:15,062] Oh, and baryons stand for heavy.
+- [00:19:15,062 - 00:19:16,062] Yeah.
+- [00:19:16,062 - 00:19:19,062] And mesons stand for something in the middle.
+- [00:19:19,062 - 00:19:20,062] That's right.
+- [00:19:20,062 - 00:19:21,062] Meson.
+- [00:19:21,062 - 00:19:22,062] Okay.
+- [00:19:22,062 - 00:19:24,862] The terminology historically was a little bit confused.
+- [00:19:24,862 - 00:19:27,562] Mesons meant something in the middle.
+- [00:19:27,562 - 00:19:30,062] Baryons meant something heavy like protons and neutrons.
+- [00:19:30,062 - 00:19:32,062] And leptons meant something light.
+- [00:19:32,062 - 00:19:35,422] Well, because of that, the muon was called
+- [00:19:35,422 - 00:19:38,782] the mu meson because it was sort of midway
+- [00:19:38,782 - 00:19:41,702] between the proton and the electron.
+- [00:19:41,702 - 00:19:45,332] That terminology went away when it was realized
+- [00:19:45,332 - 00:19:48,962] just how different the muon was from the pion,
+- [00:19:48,962 - 00:19:50,742] which has a comparable mass to it.
+- [00:19:50,742 - 00:19:52,652] It was much more like the
+- [00:19:52,652 - 00:19:54,562] electron than it was like the pion.
+- [00:19:54,562 - 00:19:56,312] And so mesons are now reserved
+- [00:19:56,312 - 00:19:58,062] for quark-anti-quark pairs, and they're always bosons.
+- [00:19:58,062 - 00:19:58,562] And mesons are now reserved for
+- [00:19:58,562 - 00:19:59,062] quark-anti-quark pairs, and they're always bosons.
+- [00:19:59,062 - 00:20:02,062] And the muon is no
+- [00:20:02,062 - 00:20:05,062] longer ever called the mu meson.
+- [00:20:05,062 - 00:20:07,062] So that's just a historical note.
+- [00:20:07,062 - 00:20:08,062] Okay.
+- [00:20:08,062 - 00:20:14,822] Now, what is the probability of this process?
+- [00:20:14,822 - 00:20:16,222] It's a Feynman diagram.
+- [00:20:16,222 - 00:20:19,862] Every Feynman diagram has some parts to it.
+- [00:20:19,862 - 00:20:22,232] And the parts consist, first
+- [00:20:22,232 - 00:20:24,602] of all, of vertices and propagators.
+- [00:20:24,602 - 00:20:26,652] Propagators are the elements which have to
+- [00:20:26,652 - 00:20:28,702] do with the motion of a particle.
+- [00:20:28,702 - 00:20:31,702] A particle from one point to another.
+- [00:20:31,702 - 00:20:34,702] In this particular case, the motion of
+- [00:20:34,702 - 00:20:37,702] the W from the point where it's emitted
+- [00:20:37,702 - 00:20:42,202] to the point where the electron
+- [00:20:42,202 - 00:20:46,702] neutrino or electron anti-neutrino are created.
+- [00:20:46,702 - 00:20:49,702] So this process has two main ingredients that
+- [00:20:49,702 - 00:20:52,702] we can isolate from the rest of it.
+- [00:20:52,702 - 00:20:54,702] One of them is two powers.
+- [00:20:54,702 - 00:20:56,702] Let's give the coupling constant a name.
+- [00:20:56,702 - 00:20:57,702] The coupling constant is a function of the muon.
+- [00:20:57,702 - 00:20:58,702] The coupling constant is a function of the muon.
+- [00:20:58,702 - 00:20:59,702] we call it Mgu, we call
+- [00:20:59,702 - 00:21:00,702] it OK like we call it.
+- [00:21:00,702 - 00:21:02,702] It's a relação constante of the muon.
+- [00:21:02,702 - 00:21:05,702] ift
+- [00:21:06,062 - 00:21:09,162] But it's also an interaction coupling
+- [00:21:09,162 - 00:21:12,262] constant for the emission of a W.
+- [00:21:12,262 - 00:21:15,562] Let's call it Nhw.
+- [00:21:15,562 - 00:21:16,642] hhjhthht Ahhhonce
+- [00:21:16,642 - 00:21:17,882] Ahhthhthhh36
+- [00:21:17,882 - 00:21:18,882] rht ç
+- [00:21:18,882 - 00:21:19,782] I
+- [00:21:19,782 - 00:21:22,642] The strong interaction coupling constant for
+- [00:21:22,642 - 00:21:25,502] emitting a gluon we called G strong.
+- [00:21:25,502 - 00:21:27,702] This one is G weak.
+- [00:21:27,702 - 00:21:31,372] enormously small. It's not the smallness
+- [00:21:31,372 - 00:21:35,042] of this coupling constant which accounts for
+- [00:21:35,042 - 00:21:40,102] the improbable nature of weak interactions. So first
+- [00:21:40,102 - 00:21:45,162] of all, we get two powers g weak
+- [00:21:45,162 - 00:21:49,852] squared. That's analogous to the two powers
+- [00:21:49,852 - 00:21:54,542] of electron charge if we exchange a photon.
+- [00:21:54,542 - 00:21:56,812] This is expected to be a number of about
+- [00:21:56,812 - 00:21:59,082] 1 over 100. It's not exactly the fine structure
+- [00:21:59,082 - 00:22:01,342] constant. It's within a factor of 3 or
+- [00:22:01,342 - 00:22:03,602] something. It's close to the fine structure constant
+- [00:22:03,602 - 00:22:06,072] order of magnitude. That's what this is.
+- [00:22:06,072 - 00:22:08,542] But then there's something else. There is the
+- [00:22:08,542 - 00:22:12,262] propagator of the W boson. So we have
+- [00:22:12,262 - 00:22:15,982] to know a little bit about propagators in quantum
+- [00:22:15,982 - 00:22:19,122] field theory. They are the factors which
+- [00:22:19,122 - 00:22:22,262] are inserted into a Feynman diagram to account
+- [00:22:22,262 - 00:22:23,382] for the motion of a
+- [00:22:23,382 - 00:22:24,502] particle from one point to another.
+- [00:22:24,542 - 00:22:28,852] As such, they are simply functions of
+- [00:22:28,852 - 00:22:33,162] the spacetime difference or the spacetime distance
+- [00:22:33,162 - 00:22:37,012] between the emission and absorption. They're functions,
+- [00:22:37,012 - 00:22:40,862] if you like, of the magnitude or
+- [00:22:40,862 - 00:22:44,952] the proper time along between this event and
+- [00:22:44,952 - 00:22:49,042] that event. But in any case, they're functions
+- [00:22:49,042 - 00:22:51,792] that propagator. Let's call it
+- [00:22:51,792 - 00:22:54,542] delta. Delta for distance between.
+- [00:22:54,542 - 00:22:58,082] The two points. It's a function of
+- [00:22:58,082 - 00:23:01,622] the spacetime distance between those points. Function of
+- [00:23:01,622 - 00:23:07,052] distance. And it has the following property. It
+- [00:23:07,052 - 00:23:12,482] depends crucially on the mass of the particle
+- [00:23:12,482 - 00:23:15,672] that's being exchanged. It depends on the following
+- [00:23:15,672 - 00:23:18,862] way. If we were to plot it, if we
+- [00:23:18,862 - 00:23:21,542] were to plot it as a function of distance.
+- [00:23:24,542 - 00:23:27,982] Now, if we went through all the mathematics
+- [00:23:27,982 - 00:23:31,422] of quantum field theory and worked out the
+- [00:23:31,422 - 00:23:34,642] propagator, we would find that it's got a
+- [00:23:34,642 - 00:23:37,862] lot of stuff in it. It's got Bessel functions.
+- [00:23:37,862 - 00:23:41,012] It's a complicated function, but not that
+- [00:23:41,012 - 00:23:44,162] complicated. But the important aspect of it
+- [00:23:44,162 - 00:23:48,822] is that it is large at small distances. It
+- [00:23:48,822 - 00:23:53,482] falls or it grows like one over the distance
+- [00:23:53,482 - 00:23:54,482] to some power.
+- [00:23:54,542 - 00:23:58,402] One over the distance squared between the two
+- [00:23:58,402 - 00:24:02,262] points. So it's very large at small distances.
+- [00:24:02,262 - 00:24:05,522] But then at the end, if the particle had
+- [00:24:05,522 - 00:24:08,782] no mass, it would just continue on its way with
+- [00:24:08,782 - 00:24:14,372] the same power law fall off. It would
+- [00:24:14,372 - 00:24:19,962] just fall off gradually with one universal behavior,
+- [00:24:19,962 - 00:24:21,992] which would go like one over the
+- [00:24:21,992 - 00:24:24,022] square of the distance between the points.
+- [00:24:24,542 - 00:24:26,222] That's the way it would behave.
+- [00:24:26,222 - 00:24:30,442] But, the mass of this particle introduces
+- [00:24:30,442 - 00:24:34,662] a new ingredient. It introduces an ingredient
+- [00:24:34,662 - 00:24:41,142] which causes the propagator to decrease
+- [00:24:41,142 - 00:24:47,622] suddenly like that. It decreases exponentially fast.
+- [00:24:47,622 - 00:24:50,382] Exponentially fast. In other words, the power
+- [00:24:50,382 - 00:24:53,142] law gives rise to an exponential. And the
+- [00:24:53,142 - 00:24:54,142] interesting question is…..
+- [00:24:54,542 - 00:24:57,362] that happen? Where does that happen? At
+- [00:24:57,362 - 00:25:00,182] what value of distance does the mass
+- [00:25:00,182 - 00:25:02,822] suddenly manifest itself and tell the
+- [00:25:02,822 - 00:25:05,462] particle, hey, you're out there and you
+- [00:25:05,462 - 00:25:07,092] shouldn't be out there because you're carrying
+- [00:25:07,092 - 00:25:08,722] off mass and there's no mass to
+- [00:25:08,722 - 00:25:12,152] carry off. I mean you're carrying off some
+- [00:25:12,152 - 00:25:15,582] mass from a, from, and there just is
+- [00:25:15,582 - 00:25:18,052] none, you've got to get back there. That's,
+- [00:25:18,052 - 00:25:20,522] but you don't have to think about it in
+- [00:25:20,522 - 00:25:22,412] terms of a story. The propagator
+- [00:25:22,412 - 00:25:24,302] has an exponential decrease. Where does it
+- [00:25:24,302 - 00:25:27,692] happen? And the answer is just
+- [00:25:27,692 - 00:25:31,082] dimensional analysis. In units in which C
+- [00:25:31,082 - 00:25:37,282] equals h bar equals 1, pick such units,
+- [00:25:37,282 - 00:25:43,482] mass, mass has the same, sorry, mass has
+- [00:25:43,482 - 00:25:47,222] the same units. Now when I write M
+- [00:25:47,222 - 00:25:50,962] equals, I simply mean units. What's the usual
+- [00:25:50,962 - 00:25:52,622] notation for units? To put
+- [00:25:52,622 - 00:25:54,282] a square bracket around the quantity?
+- [00:25:54,282 - 00:25:58,792] Okay, the standard notation for the units
+- [00:25:58,792 - 00:26:03,302] of an object that to put a bracket
+- [00:26:03,302 - 00:26:06,592] around it, a mass has the same units
+- [00:26:06,592 - 00:26:09,882] as an energy, well why is that? That's
+- [00:26:09,882 - 00:26:12,502] because E equals MC squared and if C is
+- [00:26:12,502 - 00:26:15,122] equal to 1, etc, etc, but they also have
+- [00:26:15,122 - 00:26:22,402] the same units as inverse length, length.
+- [00:26:24,282 - 00:26:28,732] Mass has the same units as inverse
+- [00:26:28,732 - 00:26:33,182] length. Or, oh incidentally, there's a third quantity
+- [00:26:33,182 - 00:26:35,542] which has the same units of
+- [00:26:35,542 - 00:26:37,902] mass and energy. What is it?
+- [00:26:37,902 - 00:26:43,862] Momentum. Same as momentum. Now, what about
+- [00:26:43,862 - 00:26:49,822] momentum times distance? What are the units
+- [00:26:49,822 - 00:26:51,282] of momentum times distance?
+- [00:26:51,282 - 00:26:52,282] No?
+- [00:26:52,282 - 00:26:53,282] M.
+- [00:26:53,282 - 00:26:54,282] M.
+- [00:26:54,282 - 00:26:55,282] Uncertainty?
+- [00:26:55,282 - 00:26:56,282] Uncertainty.
+- [00:26:56,282 - 00:26:57,282] Uncertainty.
+- [00:26:57,282 - 00:26:59,322] Think uncertainty principle. Think
+- [00:26:59,322 - 00:27:01,362] uncertainty principle. Momentum times distance
+- [00:27:01,362 - 00:27:06,192] is h bar. But h bar is dimensionless
+- [00:27:06,192 - 00:27:11,022] in these units. So momentum and distance simply have
+- [00:27:11,022 - 00:27:15,122] inverse units to each other. Okay? So
+- [00:27:15,122 - 00:27:19,222] therefore, length has inverse distance to both mass,
+- [00:27:19,222 - 00:27:21,182] energy and also momentum.
+- [00:27:21,182 - 00:27:22,682] Therefore, we can say that,
+- [00:27:22,682 - 00:27:24,182] or we can write it differently.
+- [00:27:24,182 - 00:27:32,182] we can write that length has units of inverse mass.
+- [00:27:32,182 - 00:27:35,182] Yeah, one over mass.
+- [00:27:37,182 - 00:27:40,182] Well, that tells us the
+- [00:27:40,182 - 00:27:43,182] horizontal axis here was distance, d.
+- [00:27:43,182 - 00:27:46,182] The mass of the particle is m,
+- [00:27:46,182 - 00:27:49,182] and that tells us that the distance
+- [00:27:49,182 - 00:27:51,182] at which it falls off like this, the
+- [00:27:51,182 - 00:27:53,182] only way that we can make a distance
+- [00:27:53,182 - 00:27:56,682] using the mass of the particle,
+- [00:27:56,682 - 00:28:00,182] occurs at a distance of one over
+- [00:28:00,182 - 00:28:02,182] the mass of the particle.
+- [00:28:02,182 - 00:28:07,182] Now that's really the Compton wavelength of the particle.
+- [00:28:09,182 - 00:28:10,682] If we put back some c's
+- [00:28:10,682 - 00:28:12,182] and h-bars, what would it be?
+- [00:28:12,182 - 00:28:14,182] h-bar over mc.
+- [00:28:14,182 - 00:28:18,182] Let's put back the h-bars and h-bar over mc.
+- [00:28:19,182 - 00:28:23,182] Distance at a distance of order h-bar over mc.
+- [00:28:23,182 - 00:28:30,182] The propagator suddenly dives down as an exponential.
+- [00:28:30,182 - 00:28:32,182] Excuse me, what is the vertical axis of the particle?
+- [00:28:32,182 - 00:28:36,182] The vertical axis is the size of delta.
+- [00:28:36,182 - 00:28:38,182] Delta.
+- [00:28:41,182 - 00:28:44,682] And what it is, is its
+- [00:28:44,682 - 00:28:48,182] square of the propagator is the probability
+- [00:28:48,182 - 00:28:52,182] that the particle can go that far before it emits.
+- [00:28:53,182 - 00:28:56,182] So what this is saying is
+- [00:28:56,182 - 00:28:59,182] that there's a sudden sharp turn off
+- [00:28:59,182 - 00:29:01,182] of the probability for the
+- [00:29:01,182 - 00:29:03,182] particle to go a given distance
+- [00:29:03,182 - 00:29:09,182] before converting like this, which is controlled by the mass
+- [00:29:09,182 - 00:29:11,182] of the particle.
+- [00:29:11,182 - 00:29:13,182] In particular, the heavier the mass of the particle,
+- [00:29:13,182 - 00:29:18,182] the less the distance it can go
+- [00:29:18,182 - 00:29:23,182] before it has to give up its energy,
+- [00:29:23,182 - 00:29:25,182] which is the probability in this form.
+- [00:29:25,182 - 00:29:31,182] All right, now, usually what's prescribed in an experiment
+- [00:29:31,182 - 00:29:36,182] is not the two points where these events take place.
+- [00:29:36,182 - 00:29:38,682] What's prescribed in an experiment
+- [00:29:38,682 - 00:29:41,182] is the momenta of the particles.
+- [00:29:41,182 - 00:29:44,182] You measure the momentum of the particles.
+- [00:29:44,182 - 00:29:47,182] You measure the momentum of the incident particle,
+- [00:29:47,182 - 00:29:49,182] p of the proton.
+- [00:29:49,182 - 00:29:51,182] No, this is the neutron down here.
+- [00:29:51,182 - 00:29:52,182] Neutron.
+- [00:29:52,182 - 00:29:56,182] You measure the momentum of the proton.
+- [00:29:56,182 - 00:29:58,182] And what do you know?
+- [00:29:58,182 - 00:30:00,182] You know the momentum of the W boson.
+- [00:30:00,182 - 00:30:02,682] The momentum of the W boson
+- [00:30:02,682 - 00:30:05,182] is the difference of the momentum
+- [00:30:05,182 - 00:30:07,182] of the proton and neutron.
+- [00:30:07,182 - 00:30:09,182] So you know the momentum of the W boson.
+- [00:30:09,182 - 00:30:11,182] And of course, that tells you
+- [00:30:11,182 - 00:30:13,182] the momentum of the electron and neutrino
+- [00:30:13,182 - 00:30:15,182] by momentum conservation.
+- [00:30:15,182 - 00:30:17,682] You don't, as a rule, certainly
+- [00:30:17,682 - 00:30:20,182] not in these kind of experiments,
+- [00:30:20,182 - 00:30:22,182] actually know the difference.
+- [00:30:22,182 - 00:30:24,182] You know the distance between those two points.
+- [00:30:24,182 - 00:30:26,182] You know the momentum.
+- [00:30:26,182 - 00:30:29,182] But there's a relationship between functions of momentum
+- [00:30:29,182 - 00:30:33,182] and functions of position, or functions of distance.
+- [00:30:33,182 - 00:30:36,182] And that relationship is Fourier transform.
+- [00:30:36,182 - 00:30:40,182] You can think of the propagator either
+- [00:30:40,182 - 00:30:44,182] as a function of positions or momentum.
+- [00:30:44,182 - 00:30:46,682] You can think of it as
+- [00:30:46,682 - 00:30:49,182] a function of either position or momentum.
+- [00:30:49,182 - 00:30:51,182] The position, distance between here and here,
+- [00:30:51,182 - 00:30:57,182] or the Fourier transform of this function,
+- [00:30:57,182 - 00:30:59,182] the Fourier transform of it,
+- [00:30:59,182 - 00:31:02,182] is the amplitude for emitting
+- [00:31:02,182 - 00:31:05,182] a W with a given momentum.
+- [00:31:05,182 - 00:31:08,182] So the question is, what does the Fourier transform
+- [00:31:08,182 - 00:31:12,182] of a function like this look like?
+- [00:31:12,182 - 00:31:14,182] I'm not going to work it out.
+- [00:31:14,182 - 00:31:19,182] This is something you can go and study for yourself.
+- [00:31:19,182 - 00:31:20,682] So, if you have a
+- [00:31:20,682 - 00:31:22,182] function which has a power law
+- [00:31:22,182 - 00:31:26,182] and then a sudden decrease like that,
+- [00:31:26,182 - 00:31:29,682] I will simply tell you what
+- [00:31:29,682 - 00:31:33,182] the Fourier transform of the propagator is.
+- [00:31:33,182 - 00:31:36,182] The Fourier transform is a function of the
+- [00:31:36,182 - 00:31:39,182] square of the momentum of the W boson,
+- [00:31:39,182 - 00:31:42,182] and also, parametrically, it depends on
+- [00:31:42,182 - 00:31:45,182] the mass of the W boson.
+- [00:31:45,182 - 00:31:47,182] Let's call it
+- [00:31:49,182 - 00:31:50,182] twiddle.
+- [00:31:50,182 - 00:31:52,182] Twiddle stands for Fourier transform.
+- [00:31:52,182 - 00:31:54,182] And it's a function,
+- [00:31:54,182 - 00:31:56,182] what should we call the momentum of the W?
+- [00:31:56,182 - 00:32:02,182] Let's call it k.
+- [00:32:02,182 - 00:32:05,182] And what does it look like? It's very simple.
+- [00:32:05,182 - 00:32:08,182] 1 divided by k squared plus
+- [00:32:08,182 - 00:32:11,182] the mass of the W squared.
+- [00:32:11,182 - 00:32:13,182] That's it.
+- [00:32:13,182 - 00:32:15,182] That's the factor.
+- [00:32:15,182 - 00:32:17,182] That's the factor that you put in,
+- [00:32:17,182 - 00:32:20,182] and you know the momentum of the W.
+- [00:32:20,182 - 00:32:21,182] And how would you know it?
+- [00:32:21,182 - 00:32:23,182] By measuring the initial and final
+- [00:32:23,182 - 00:32:25,182] momentum of the proton and neutron.
+- [00:32:25,182 - 00:32:28,182] You measure the momentum of the W,
+- [00:32:28,182 - 00:32:31,182] and then you insert this factor
+- [00:32:31,182 - 00:32:34,182] in as one of the factors into
+- [00:32:34,182 - 00:32:37,182] the amplitude for the emission of the W.
+- [00:32:37,182 - 00:32:39,182] That's the rule.
+- [00:32:39,182 - 00:32:42,182] That's Feynman's rules.
+- [00:32:42,182 - 00:32:45,182] And that's it.
+- [00:32:45,182 - 00:32:46,182] The addition,
+- [00:32:46,182 - 00:32:49,182] oh, first of all, let's talk about a photon.
+- [00:32:49,182 - 00:32:52,182] If we emit a photon, it has no mass.
+- [00:32:52,182 - 00:32:55,182] And it's just 1 over k squared.
+- [00:32:55,182 - 00:32:58,182] Typically, when you emit a photon,
+- [00:32:58,182 - 00:33:01,182] in ordinary quantum electrodynamics,
+- [00:33:01,182 - 00:33:03,682] the momentum of the photon is
+- [00:33:03,682 - 00:33:06,182] pretty low by particle physics standards.
+- [00:33:06,182 - 00:33:10,682] It's typically, you know, a few
+- [00:33:10,682 - 00:33:15,182] hundred electron volts or something like that.
+- [00:33:15,182 - 00:33:18,182] It's a very small k.
+- [00:33:18,182 - 00:33:21,182] And so, the propagator for emitting the photon
+- [00:33:21,182 - 00:33:24,182] at low momentum is rather large.
+- [00:33:24,182 - 00:33:27,182] At low momentum, this is a
+- [00:33:27,182 - 00:33:30,182] big number as k goes to 0.
+- [00:33:30,182 - 00:33:32,182] The weak interactions,
+- [00:33:32,182 - 00:33:34,182] we know that the probability
+- [00:33:34,182 - 00:33:36,182] of emission is much, much smaller.
+- [00:33:36,182 - 00:33:39,182] As I said, it is not the coupling constant there.
+- [00:33:39,182 - 00:33:41,182] So the only thing it can be
+- [00:33:41,182 - 00:33:43,182] is the mass of the W boson.
+- [00:33:43,182 - 00:33:47,182] If the mass of the W boson is very large,
+- [00:33:47,182 - 00:33:49,182] for whatever reason,
+- [00:33:49,182 - 00:33:53,182] then this is always going to be small.
+- [00:33:53,182 - 00:33:56,182] In fact, the biggest it will ever be
+- [00:33:56,182 - 00:34:01,182] is what happens when k is equal to 0.
+- [00:34:01,182 - 00:34:04,182] When k is equal to 0,
+- [00:34:04,182 - 00:34:06,182] this propagator here is equal
+- [00:34:06,182 - 00:34:08,181] to just 1 over mw squared,
+- [00:34:08,181 - 00:34:10,181] and it's never bigger than that.
+- [00:34:10,181 - 00:34:12,181] That's as big as it gets.
+- [00:34:13,181 - 00:34:15,181] So the most likely thing to happen
+- [00:34:15,181 - 00:34:19,181] is to emit a low momentum W.
+- [00:34:19,181 - 00:34:21,181] And if you do,
+- [00:34:21,181 - 00:34:25,181] it costs you a probability amplitude
+- [00:34:25,181 - 00:34:27,181] equal to 1 divided by
+- [00:34:27,181 - 00:34:29,181] the mass of the W squared.
+- [00:34:29,181 - 00:34:31,181] This is standard quantum field theory.
+- [00:34:31,181 - 00:34:35,181] In addition, there are the coupling constants.
+- [00:34:35,181 - 00:34:37,181] So the net result
+- [00:34:37,181 - 00:34:40,181] is that the probability, or the amplitude,
+- [00:34:40,181 - 00:34:41,181] not the probability,
+- [00:34:41,181 - 00:34:43,181] the amplitude for emitting,
+- [00:34:43,181 - 00:34:47,181] emitting a W
+- [00:34:47,181 - 00:34:51,181] and having it convert to an electron neutrino
+- [00:34:51,181 - 00:34:54,181] is gw squared
+- [00:34:54,181 - 00:34:59,182] divided by mw squared.
+- [00:34:59,182 - 00:35:04,182] The mw squared is the factor in this Feynman diagram
+- [00:35:04,182 - 00:35:08,182] for the W to go from here to here.
+- [00:35:08,182 - 00:35:10,182] Or at least that's the biggest it can get.
+- [00:35:10,182 - 00:35:11,182] Yeah.
+- [00:35:11,182 - 00:35:12,182] Richard?
+- [00:35:12,182 - 00:35:14,182] So in the other propagators,
+- [00:35:14,182 - 00:35:16,182] the k squared part has minus signs in it.
+- [00:35:16,182 - 00:35:18,182] k0 squared minus k1 squared.
+- [00:35:18,182 - 00:35:20,182] Well, yes, this is true.
+- [00:35:20,182 - 00:35:22,182] This is true.
+- [00:35:22,182 - 00:35:24,182] Where...
+- [00:35:24,182 - 00:35:26,682] Okay, so there we have
+- [00:35:26,682 - 00:35:29,182] to get a little more technical.
+- [00:35:29,182 - 00:35:33,182] And that mostly comes into play, yeah.
+- [00:35:33,182 - 00:35:36,182] The...
+- [00:35:36,182 - 00:35:40,182] Very little energy is emitted in a situation like this,
+- [00:35:40,182 - 00:35:42,182] more momentum than energy.
+- [00:35:42,182 - 00:35:44,182] So it's mostly space-like,
+- [00:35:44,182 - 00:35:46,182] which means it's positive.
+- [00:35:50,182 - 00:35:51,182] The reaction...
+- [00:35:51,182 - 00:35:53,182] You would have to worry about this
+- [00:35:53,182 - 00:35:56,182] if the momentum of this was time-like,
+- [00:35:56,182 - 00:35:59,182] but it's not in these kind of processes.
+- [00:35:59,182 - 00:36:03,182] But still, the main thing is that it's always small.
+- [00:36:03,182 - 00:36:06,182] Why is it small?
+- [00:36:06,182 - 00:36:08,182] A proton becomes...
+- [00:36:08,182 - 00:36:11,182] In a beta decay,
+- [00:36:11,182 - 00:36:13,682] the amount of momentum that's
+- [00:36:13,682 - 00:36:16,182] transferred from the proton to the...
+- [00:36:16,182 - 00:36:18,182] Or from the neutron to the proton
+- [00:36:18,182 - 00:36:20,182] is minuscule by comparison with
+- [00:36:20,182 - 00:36:22,182] the mass of the W boson.
+- [00:36:22,182 - 00:36:23,182] Minuscule.
+- [00:36:23,182 - 00:36:26,182] So it doesn't even matter whether it's positive or negative,
+- [00:36:26,182 - 00:36:27,182] the k squared.
+- [00:36:27,182 - 00:36:30,182] It's tiny by comparison with the...
+- [00:36:30,182 - 00:36:33,182] With the mass of the W.
+- [00:36:33,182 - 00:36:36,182] So the net result is that...
+- [00:36:36,182 - 00:36:42,182] The weak interactions are made weak
+- [00:36:42,182 - 00:36:46,182] because of the large mass of the W.
+- [00:36:46,182 - 00:36:48,182] How large is it?
+- [00:36:48,182 - 00:36:51,182] About a hundred times the mass of a proton.
+- [00:36:51,182 - 00:36:57,182] So that means that the amplitude...
+- [00:36:57,182 - 00:37:00,182] The amplitude for this process
+- [00:37:00,182 - 00:37:03,182] is going to have a factor...
+- [00:37:03,182 - 00:37:05,182] A relatively small factor from GW squared.
+- [00:37:05,182 - 00:37:08,182] Roughly the fine structure constant.
+- [00:37:08,182 - 00:37:11,182] And then a one over MW squared,
+- [00:37:11,182 - 00:37:15,182] which is a tiny fraction squared.
+- [00:37:15,182 - 00:37:17,182] The mass of the W is
+- [00:37:17,182 - 00:37:19,182] a hundred times the proton mass.
+- [00:37:19,182 - 00:37:21,182] That's a factor of ten thousand.
+- [00:37:21,182 - 00:37:23,182] But that's just the amplitude.
+- [00:37:23,182 - 00:37:25,182] We have to square the whole thing
+- [00:37:25,182 - 00:37:29,182] to find the probability for the reaction to happen.
+- [00:37:29,182 - 00:37:31,182] So what does that mean?
+- [00:37:31,182 - 00:37:34,182] That means something like GW to the fourth
+- [00:37:34,182 - 00:37:36,182] divided by MW to the fourth.
+- [00:37:36,182 - 00:37:38,182] That's a very small number.
+- [00:37:38,182 - 00:37:40,182] That's a very small number
+- [00:37:40,182 - 00:37:42,182] if the mass of the W is large.
+- [00:37:42,182 - 00:37:45,182] That's why weak interactions are small.
+- [00:37:45,182 - 00:37:49,182] Not because the primordial coupling constant is small,
+- [00:37:49,182 - 00:37:51,182] but because the mass of the W,
+- [00:37:51,182 - 00:37:53,182] for whatever reasons,
+- [00:37:53,182 - 00:37:55,182] happens to be large
+- [00:37:55,182 - 00:37:57,182] in nuclear physics
+- [00:37:57,182 - 00:38:01,182] or in proton-neutron type mass units.
+- [00:38:01,182 - 00:38:03,182] And the usual units of nuclear physics
+- [00:38:03,182 - 00:38:08,182] or old particle physics,
+- [00:38:08,182 - 00:38:11,182] the mass of the W is large.
+- [00:38:11,182 - 00:38:13,182] Are you just saying that's one in a million
+- [00:38:13,182 - 00:38:15,182] or one in a billion?
+- [00:38:15,182 - 00:38:17,182] One in a billion.
+- [00:38:17,182 - 00:38:19,182] GW squared is about ten
+- [00:38:19,182 - 00:38:21,182] to the minus three or something.
+- [00:38:21,182 - 00:38:24,682] And then the mass of the
+- [00:38:24,682 - 00:38:28,182] W is a hundred in proton units.
+- [00:38:28,182 - 00:38:33,182] So that's ten to the four millions at least.
+- [00:38:33,182 - 00:38:36,182] How do we know what
+- [00:38:36,182 - 00:38:39,182] the mass of the W is?
+- [00:38:39,182 - 00:38:41,182] From the weakness of the weak interactions.
+- [00:38:41,182 - 00:38:42,182] Right.
+- [00:38:42,182 - 00:38:44,182] So, right.
+- [00:38:44,182 - 00:38:46,182] So, originally,
+- [00:38:46,182 - 00:38:49,182] all that was known from experiment
+- [00:38:49,182 - 00:38:52,182] was this combination.
+- [00:38:52,182 - 00:38:54,182] What was known was that combination.
+- [00:38:54,182 - 00:38:58,182] And it was called capital G Fermi.
+- [00:38:58,182 - 00:39:03,182] Experimentally, what you measure
+- [00:39:03,182 - 00:39:05,182] is neither...
+- [00:39:05,182 - 00:39:08,182] By now, of course, there are fancier experiments,
+- [00:39:08,182 - 00:39:11,182] but the experiments in the old days
+- [00:39:11,182 - 00:39:13,182] where you never had enough momentum
+- [00:39:13,182 - 00:39:16,182] to make this denominator vary very much.
+- [00:39:16,182 - 00:39:19,182] You didn't get to see that the denominator
+- [00:39:19,182 - 00:39:21,182] was varying with momentum.
+- [00:39:21,182 - 00:39:24,182] All you saw was this numerical constant.
+- [00:39:24,182 - 00:39:26,182] And it was always the same W boson in there.
+- [00:39:26,182 - 00:39:29,182] It didn't change from one reaction to another.
+- [00:39:29,182 - 00:39:31,182] It was always the W boson.
+- [00:39:31,182 - 00:39:33,182] It was always Mw squared.
+- [00:39:33,182 - 00:39:36,182] And so experimentally,
+- [00:39:36,182 - 00:39:38,182] all you knew was this number G Fermi,
+- [00:39:38,182 - 00:39:40,182] which is a small number.
+- [00:39:40,182 - 00:39:41,182] A very small number.
+- [00:39:41,182 - 00:39:43,182] Whatever its numerical value is.
+- [00:39:43,182 - 00:39:46,182] It carries dimensions.
+- [00:39:46,182 - 00:39:48,182] So if I told you what it is in some...
+- [00:39:48,182 - 00:39:49,182] What should I tell you?
+- [00:39:49,182 - 00:39:52,182] In units of light years per unit?
+- [00:39:52,182 - 00:39:53,182] Whatever.
+- [00:39:53,182 - 00:39:55,182] It's a small number.
+- [00:39:55,182 - 00:39:59,182] Right.
+- [00:39:59,182 - 00:40:01,182] So that's what was known historically.
+- [00:40:01,182 - 00:40:03,182] Sometimes,
+- [00:40:03,182 - 00:40:04,182] in 19...
+- [00:40:04,182 - 00:40:06,182] Must be in the 1950s,
+- [00:40:06,182 - 00:40:07,182] various theorists,
+- [00:40:07,182 - 00:40:08,182] Julian Schwinger,
+- [00:40:08,182 - 00:40:10,182] other people began to suspect,
+- [00:40:10,182 - 00:40:11,182] look,
+- [00:40:11,182 - 00:40:14,182] maybe the weak interactions
+- [00:40:14,182 - 00:40:17,182] are similar to other interactions
+- [00:40:17,182 - 00:40:20,182] and mediated by some sort of particle.
+- [00:40:20,182 - 00:40:23,182] I don't know where the terminology W came from.
+- [00:40:23,182 - 00:40:25,182] Probably stood for weak.
+- [00:40:25,182 - 00:40:27,182] And I don't know if it was Schwinger or not
+- [00:40:27,182 - 00:40:28,182] who first used it.
+- [00:40:28,182 - 00:40:29,182] But,
+- [00:40:29,182 - 00:40:30,182] I don't know.
+- [00:40:30,182 - 00:40:31,182] I don't know.
+- [00:40:31,182 - 00:40:32,182] I don't know.
+- [00:40:32,182 - 00:40:33,182] But,
+- [00:40:33,182 - 00:40:35,182] the idea of a particle
+- [00:40:35,182 - 00:40:36,182] heavy enough
+- [00:40:36,182 - 00:40:38,182] that it would make this a small number
+- [00:40:38,182 - 00:40:41,182] was introduced sometime, I think, in the 50s.
+- [00:40:41,182 - 00:40:43,182] But it was recognized
+- [00:40:43,182 - 00:40:45,182] pretty much from the beginning
+- [00:40:45,182 - 00:40:47,182] that it would take a pretty heavy particle,
+- [00:40:47,182 - 00:40:50,182] a hundred times the mass of the proton.
+- [00:40:50,182 - 00:40:53,182] And so it wasn't until accelerators came into being
+- [00:40:53,182 - 00:40:56,182] where you could generate that much energy.
+- [00:40:56,182 - 00:40:59,182] Mid 70s, late 70s,
+- [00:40:59,182 - 00:41:01,182] where accelerators,
+- [00:41:01,182 - 00:41:04,182] which could create enough energy to generate a W particle,
+- [00:41:04,182 - 00:41:07,182] actually detected it and actually measured it.
+- [00:41:10,182 - 00:41:12,182] So yeah, the W particle really exists.
+- [00:41:12,182 - 00:41:13,182] It can be produced.
+- [00:41:13,182 - 00:41:16,182] So at the beginning of the class today,
+- [00:41:16,182 - 00:41:19,182] you talked about the effect of the binding energy,
+- [00:41:19,182 - 00:41:21,182] which seems to me in this picture
+- [00:41:21,182 - 00:41:26,182] is the presence of the field of a nearby proton
+- [00:41:26,182 - 00:41:29,182] that suppresses this,
+- [00:41:29,182 - 00:41:30,182] this whole process.
+- [00:41:30,182 - 00:41:32,182] What's suppressing it?
+- [00:41:32,182 - 00:41:34,682] The presence of the field of
+- [00:41:34,682 - 00:41:37,182] the nearby proton in the uterine.
+- [00:41:37,182 - 00:41:38,182] In other words,
+- [00:41:38,182 - 00:41:41,182] It only suppresses it because of energy conservation.
+- [00:41:41,182 - 00:41:42,182] Nothing else.
+- [00:41:42,182 - 00:41:43,182] A thing can't happen
+- [00:41:43,182 - 00:41:44,682] if there isn't a better
+- [00:41:44,682 - 00:41:46,182] energy available for it to happen.
+- [00:41:46,182 - 00:41:49,182] So that's another thing which controls rates.
+- [00:41:49,182 - 00:41:50,182] Yeah, okay.
+- [00:41:50,182 - 00:41:53,182] Rates are controlled by three things.
+- [00:41:53,182 - 00:41:54,182] Or,
+- [00:41:54,182 - 00:41:55,182] well,
+- [00:41:55,182 - 00:41:56,182] three things.
+- [00:41:56,182 - 00:41:58,182] Coupling constants,
+- [00:41:58,182 - 00:42:00,182] masses of particles,
+- [00:42:00,182 - 00:42:01,182] and energy.
+- [00:42:01,182 - 00:42:02,182] So,
+- [00:42:02,182 - 00:42:04,182] you have particles in intermediate states like this,
+- [00:42:04,182 - 00:42:07,182] and also available energy.
+- [00:42:07,182 - 00:42:09,682] Available energy has to do with the energy
+- [00:42:09,682 - 00:42:12,182] of the initial state and the final state.
+- [00:42:12,182 - 00:42:15,182] There are three different features.
+- [00:42:15,182 - 00:42:17,182] Coupling constants,
+- [00:42:17,182 - 00:42:19,182] masses or propagators if you like,
+- [00:42:19,182 - 00:42:21,182] the structure of propagators and
+- [00:42:21,182 - 00:42:23,182] how they depend on momentum.
+- [00:42:23,182 - 00:42:24,182] And finally,
+- [00:42:24,182 - 00:42:28,182] a thing can't happen if there isn't enough energy.
+- [00:42:28,182 - 00:42:29,182] So,
+- [00:42:29,182 - 00:42:31,682] you have to have a very small
+- [00:42:31,682 - 00:42:34,182] probability if the energy available is small enough.
+- [00:42:34,182 - 00:42:35,182] So,
+- [00:42:35,182 - 00:42:38,682] you need the initial state to have as much energy
+- [00:42:38,682 - 00:42:42,182] as the final state in order for the process to happen.
+- [00:42:42,182 - 00:42:46,182] And it's the last of the ingredients
+- [00:42:46,182 - 00:42:50,182] there that had to do with the
+- [00:42:50,182 - 00:42:53,182] suppression of the deuteron decay.
+- [00:42:53,182 - 00:42:54,182] Three separate things.
+- [00:42:54,182 - 00:42:55,182] Yeah.
+- [00:42:55,182 - 00:42:56,182] These coupling constants,
+- [00:42:56,182 - 00:42:57,182] are they really constant?
+- [00:42:57,182 - 00:42:59,182] Or do they vary a little bit?
+- [00:42:59,182 - 00:43:00,182] They vary a little bit.
+- [00:43:00,182 - 00:43:04,182] We will come to that with momentum,
+- [00:43:04,182 - 00:43:05,182] with distance scale.
+- [00:43:05,182 - 00:43:06,182] Yeah.
+- [00:43:06,182 - 00:43:07,182] So,
+- [00:43:07,182 - 00:43:08,182] the W boson has a lot of energy,
+- [00:43:08,182 - 00:43:09,182] right?
+- [00:43:09,182 - 00:43:10,182] A lot of mass.
+- [00:43:10,182 - 00:43:11,182] Well,
+- [00:43:11,182 - 00:43:12,182] a real W boson in the
+- [00:43:12,182 - 00:43:13,182] laboratory has a lot of mass.
+- [00:43:13,182 - 00:43:14,182] Now,
+- [00:43:14,182 - 00:43:19,182] when it degrades into an electron and a muon,
+- [00:43:19,182 - 00:43:20,182] whatever,
+- [00:43:20,182 - 00:43:21,182] right?
+- [00:43:21,182 - 00:43:23,182] What happens to that energy?
+- [00:43:23,182 - 00:43:26,182] The electron,
+- [00:43:26,182 - 00:43:29,182] the energy of the final state must be
+- [00:43:29,182 - 00:43:32,182] the same as the energy of the initial state.
+- [00:43:32,182 - 00:43:34,682] That means there isn't really enough
+- [00:43:34,682 - 00:43:37,182] energy to create the W boson.
+- [00:43:37,182 - 00:43:40,182] There really isn't enough energy to create the W boson.
+- [00:43:40,182 - 00:43:43,182] That's why there is no real process
+- [00:43:43,182 - 00:43:46,182] in where a W boson goes flying off.
+- [00:43:46,182 - 00:43:49,182] There simply isn't enough energy for that.
+- [00:43:49,182 - 00:43:50,182] Well,
+- [00:43:50,182 - 00:43:51,182] so what does happen?
+- [00:43:51,182 - 00:43:54,182] The W boson is produced virtually.
+- [00:43:54,182 - 00:43:57,182] According to the rules of quantum mechanics,
+- [00:43:57,182 - 00:44:01,182] a violation of energy can take place as long
+- [00:44:01,182 - 00:44:05,182] as it takes place for a short enough time.
+- [00:44:05,182 - 00:44:08,182] If the amount of extra energy that's in here,
+- [00:44:08,182 - 00:44:14,182] let's call it delta E,
+- [00:44:14,182 - 00:44:18,182] energy time uncertainty principle,
+- [00:44:18,182 - 00:44:19,182] says,
+- [00:44:19,182 - 00:44:21,182] among other things,
+- [00:44:21,182 - 00:44:22,182] that an apparent,
+- [00:44:22,182 - 00:44:24,182] an apparent violation of the W boson,
+- [00:44:24,182 - 00:44:26,182] of energy conservation,
+- [00:44:26,182 - 00:44:27,182] delta E,
+- [00:44:27,182 - 00:44:35,182] can only last for a time delta T,
+- [00:44:35,182 - 00:44:37,182] which cannot be bigger than,
+- [00:44:37,182 - 00:44:39,182] which must be smaller than in this case,
+- [00:44:39,182 - 00:44:42,182] Planck's constant.
+- [00:44:42,182 - 00:44:44,682] You cannot have an apparent violation
+- [00:44:44,682 - 00:44:47,182] of energy in an intermediate state
+- [00:44:47,182 - 00:44:50,182] that lasts for a time
+- [00:44:50,182 - 00:44:52,182] longer than
+- [00:44:52,182 - 00:44:53,182] delta E delta T,
+- [00:44:53,182 - 00:44:55,182] of order h bar.
+- [00:44:55,182 - 00:44:56,682] Let me give you another
+- [00:44:56,682 - 00:44:58,182] example of this sort of thing.
+- [00:44:58,182 - 00:45:03,182] If you have a potential,
+- [00:45:03,182 - 00:45:05,182] ordinary potential energy,
+- [00:45:05,182 - 00:45:08,182] this potential energy could be the potential
+- [00:45:08,182 - 00:45:11,182] energy of an alpha particle in a nucleus.
+- [00:45:11,182 - 00:45:13,182] An alpha particle is stuck in the nucleus.
+- [00:45:13,182 - 00:45:15,182] It can't get out.
+- [00:45:15,182 - 00:45:16,182] Why not?
+- [00:45:16,182 - 00:45:17,182] It doesn't have enough energy to get out.
+- [00:45:17,182 - 00:45:21,182] It has to go over a bump to get out.
+- [00:45:21,182 - 00:45:22,182] So the alpha particle normally sits in the nucleus.
+- [00:45:22,182 - 00:45:25,182] The beta particle normally sits over here.
+- [00:45:25,182 - 00:45:26,182] But,
+- [00:45:26,182 - 00:45:28,182] it can tunnel out.
+- [00:45:28,182 - 00:45:29,182] Quantum mechanically,
+- [00:45:29,182 - 00:45:31,182] it can tunnel out.
+- [00:45:31,182 - 00:45:34,182] Now,
+- [00:45:34,182 - 00:45:38,182] the kinetic energy of a particle is always positive,
+- [00:45:38,182 - 00:45:39,182] right?
+- [00:45:39,182 - 00:45:41,182] In here it has a certain amount of energy.
+- [00:45:41,182 - 00:45:44,182] It has a much higher potential energy over here.
+- [00:45:44,182 - 00:45:45,182] This is a potential,
+- [00:45:45,182 - 00:45:49,182] an ordinary potential function.
+- [00:45:49,182 - 00:45:51,182] The potential energy is up here.
+- [00:45:51,182 - 00:45:53,182] The particle started at rest.
+- [00:45:53,182 - 00:45:55,182] It had no kinetic energy.
+- [00:45:55,182 - 00:45:57,182] And had this much potential energy.
+- [00:45:57,182 - 00:46:01,182] It has the same amount of potential energy over here.
+- [00:46:01,182 - 00:46:02,182] And the same,
+- [00:46:02,182 - 00:46:04,182] and also when it comes out over here,
+- [00:46:04,182 - 00:46:06,182] it also comes out at rest.
+- [00:46:06,182 - 00:46:08,182] Comes out over here at rest.
+- [00:46:08,182 - 00:46:09,182] It was at rest over here.
+- [00:46:09,182 - 00:46:12,182] Same potential energy, same potential energy.
+- [00:46:12,182 - 00:46:14,182] So, it can happen.
+- [00:46:14,182 - 00:46:15,182] On the other hand,
+- [00:46:15,182 - 00:46:17,182] if you look at it in between,
+- [00:46:17,182 - 00:46:20,182] it seems that it had a large potential energy,
+- [00:46:21,182 - 00:46:24,182] much larger than it had over here.
+- [00:46:24,182 - 00:46:25,682] And it can't have less kinetic
+- [00:46:25,682 - 00:46:27,182] energy than it had over here.
+- [00:46:27,182 - 00:46:28,182] The kinetic energy was over,
+- [00:46:28,182 - 00:46:29,182] it was zero over here.
+- [00:46:29,182 - 00:46:31,182] The meaning of that is
+- [00:46:31,182 - 00:46:33,182] that it temporarily,
+- [00:46:33,182 - 00:46:36,182] apparently violated energy conservation.
+- [00:46:36,182 - 00:46:38,182] Now,
+- [00:46:38,182 - 00:46:41,182] if you went and measured the particle in here,
+- [00:46:41,182 - 00:46:44,182] and checked whether it was in here or not,
+- [00:46:44,182 - 00:46:48,182] you would destroy the phenomena of tunneling.
+- [00:46:48,182 - 00:46:49,182] But,
+- [00:46:49,182 - 00:46:51,182] if you just look on the outside,
+- [00:46:51,182 - 00:46:52,182] you will have to say,
+- [00:46:52,182 - 00:46:53,182] somehow,
+- [00:46:53,182 - 00:46:55,182] in the intermediate state here,
+- [00:46:55,182 - 00:46:57,182] the electron had more energy than it was,
+- [00:46:57,182 - 00:46:59,182] the alpha particle,
+- [00:46:59,182 - 00:47:02,182] had more energy than it was supposed to have.
+- [00:47:02,182 - 00:47:04,182] There was a violation of energy conservation,
+- [00:47:04,182 - 00:47:06,182] an apparent one.
+- [00:47:06,182 - 00:47:09,182] How long can the alpha particle last
+- [00:47:09,182 - 00:47:12,182] under this barrier here?
+- [00:47:12,182 - 00:47:14,182] The answer is it can't last long.
+- [00:47:14,182 - 00:47:16,182] And the rule is,
+- [00:47:16,182 - 00:47:18,182] if the violation of energy conservation,
+- [00:47:18,182 - 00:47:19,182] this over here,
+- [00:47:19,182 - 00:47:20,182] delta E,
+- [00:47:21,182 - 00:47:24,182] then it had better get out from under there
+- [00:47:24,182 - 00:47:26,182] in a time,
+- [00:47:26,182 - 00:47:27,182] delta T,
+- [00:47:27,182 - 00:47:30,182] which is less than H bar over delta E.
+- [00:47:30,182 - 00:47:32,182] So this is a kind of familiar thing
+- [00:47:32,182 - 00:47:34,182] from elementary quantum mechanics,
+- [00:47:34,182 - 00:47:37,182] that apparent violations of energy conservation
+- [00:47:37,182 - 00:47:39,182] can take place as long as they last
+- [00:47:39,182 - 00:47:41,182] sufficiently short time.
+- [00:47:41,182 - 00:47:43,182] Same thing over here.
+- [00:47:43,182 - 00:47:45,182] There is,
+- [00:47:45,182 - 00:47:49,182] the W boson is a very heavy particle.
+- [00:47:49,182 - 00:47:50,182] There is simply,
+- [00:47:50,182 - 00:47:53,182] not enough energy
+- [00:47:53,182 - 00:47:55,182] in the neutron,
+- [00:47:55,182 - 00:47:56,182] proton, neutron,
+- [00:47:56,182 - 00:47:57,182] or anything else
+- [00:47:57,182 - 00:47:59,182] to create a W boson,
+- [00:47:59,182 - 00:48:01,182] let alone have enough energy
+- [00:48:01,182 - 00:48:03,182] for the final particle.
+- [00:48:03,182 - 00:48:04,182] That cannot happen.
+- [00:48:04,182 - 00:48:07,182] What can happen is that temporarily,
+- [00:48:07,182 - 00:48:09,182] for a very, very short time period,
+- [00:48:09,182 - 00:48:17,182] the neutron can emit the W,
+- [00:48:17,182 - 00:48:19,182] W minus,
+- [00:48:19,182 - 00:48:21,182] become a proton,
+- [00:48:21,182 - 00:48:24,182] but then it is as if
+- [00:48:24,182 - 00:48:27,182] the alpha particle were under the barrier here,
+- [00:48:27,182 - 00:48:29,182] the W boson says,
+- [00:48:29,182 - 00:48:30,182] I can't last that long,
+- [00:48:30,182 - 00:48:34,182] I better get rid of all that energy,
+- [00:48:34,182 - 00:48:36,182] and it can do it a number of ways.
+- [00:48:36,182 - 00:48:37,682] One way it can do
+- [00:48:37,682 - 00:48:39,182] it is just by getting reabsorbed.
+- [00:48:39,182 - 00:48:40,182] Okay?
+- [00:48:40,182 - 00:48:42,182] The other way it can do it
+- [00:48:42,182 - 00:48:43,182] is by becoming the electron,
+- [00:48:43,182 - 00:48:45,182] which has a small energy,
+- [00:48:45,182 - 00:48:46,182] and the anti-neutrino,
+- [00:48:46,182 - 00:48:48,182] which also has a small energy.
+- [00:48:48,182 - 00:48:51,182] So, the intermediate state here
+- [00:48:51,182 - 00:48:53,182] of a very, very heavy W boson
+- [00:48:53,182 - 00:48:57,182] is very much like the intermediate state
+- [00:48:57,182 - 00:48:59,182] in which the alpha particle
+- [00:48:59,182 - 00:49:01,182] is under the barrier here,
+- [00:49:01,182 - 00:49:03,182] and it can only last a short time.
+- [00:49:03,182 - 00:49:04,182] Yeah?
+- [00:49:10,182 - 00:49:13,182] No, no, no, no.
+- [00:49:13,182 - 00:49:16,182] And even energy conservation
+- [00:49:16,182 - 00:49:18,182] from initial times
+- [00:49:18,182 - 00:49:22,182] to final state is always exact.
+- [00:49:22,182 - 00:49:26,182] It's just an apparent of our mission.
+- [00:49:26,182 - 00:49:28,182] It would appear as though
+- [00:49:28,182 - 00:49:31,182] the reabsorption is what happens all the time.
+- [00:49:31,182 - 00:49:34,182] Basically, the W comes out and goes back,
+- [00:49:34,182 - 00:49:35,182] and goes out and goes back.
+- [00:49:35,182 - 00:49:36,182] Most of the times that can happen.
+- [00:49:36,182 - 00:49:37,182] Every once in a while,
+- [00:49:37,182 - 00:49:38,182] every once in a billion tries,
+- [00:49:38,182 - 00:49:40,182] it goes out far enough
+- [00:49:40,182 - 00:49:42,182] to decay itself.
+- [00:49:42,182 - 00:49:44,182] That's correct.
+- [00:49:44,182 - 00:49:46,182] That's correct.
+- [00:49:46,182 - 00:49:47,182] That's correct.
+- [00:49:47,182 - 00:49:48,182] Most of the time,
+- [00:49:48,182 - 00:49:49,182] it's going to decay.
+- [00:49:49,182 - 00:49:50,182] Do we have a separator
+- [00:49:50,182 - 00:49:51,182] that's powerful enough
+- [00:49:51,182 - 00:49:52,182] to make real W bosons?
+- [00:49:52,182 - 00:49:53,182] Yeah.
+- [00:49:53,182 - 00:49:54,182] How long?
+- [00:49:54,182 - 00:49:55,182] Yeah.
+- [00:49:55,182 - 00:49:56,182] Now, the Ws will decay
+- [00:49:56,182 - 00:49:58,182] to electrons and neutrinos,
+- [00:49:58,182 - 00:50:00,182] but if you make a W with enough energy,
+- [00:50:00,182 - 00:50:02,182] all right, there's a certain lifetime
+- [00:50:02,182 - 00:50:05,182] for a real W to decay.
+- [00:50:05,182 - 00:50:08,182] It's not this uncertainty time here.
+- [00:50:08,182 - 00:50:10,182] There is a certain lifetime,
+- [00:50:10,182 - 00:50:11,182] so the W, when it's produced,
+- [00:50:11,182 - 00:50:13,182] will eventually decay,
+- [00:50:13,182 - 00:50:16,182] but the faster the W is,
+- [00:50:16,182 - 00:50:17,182] the more time dilation
+- [00:50:17,182 - 00:50:19,182] will cause the W to decay
+- [00:50:19,182 - 00:50:20,182] later and later.
+- [00:50:20,182 - 00:50:22,182] So real Ws are produced,
+- [00:50:22,182 - 00:50:23,182] and the meaning of real Ws
+- [00:50:23,182 - 00:50:25,182] is that you produce things
+- [00:50:25,182 - 00:50:30,182] which, whose decay probability
+- [00:50:30,182 - 00:50:31,182] is controlled by their velocity
+- [00:50:31,182 - 00:50:33,182] and the standard relativity way.
+- [00:50:33,182 - 00:50:34,182] What's the proper time
+- [00:50:34,182 - 00:50:35,182] for it to decay?
+- [00:50:35,182 - 00:50:38,182] Oh, boy.
+- [00:50:38,182 - 00:50:41,182] Okay.
+- [00:50:41,182 - 00:50:43,182] Very short.
+- [00:50:43,182 - 00:50:44,182] Very short.
+- [00:50:44,182 - 00:50:45,182] The W...
+- [00:50:45,182 - 00:50:46,182] Three times sin .
+- [00:50:46,182 - 00:50:48,182] Three times sin to the 25th second.
+- [00:50:48,182 - 00:50:50,182] Three times ten to the 27th?
+- [00:50:50,182 - 00:50:51,182] Is that true?
+- [00:50:51,182 - 00:50:52,182] I'll have to think about it.
+- [00:50:52,182 - 00:50:53,182] You've described the Kovling constant
+- [00:50:53,182 - 00:50:54,182] as the...
+- [00:50:54,182 - 00:50:55,182] You've said the Kovling constant
+- [00:50:55,182 - 00:50:56,182] is the probability
+- [00:50:56,182 - 00:50:57,182] of the impact diagram
+- [00:50:57,182 - 00:50:58,182] of the W.
+- [00:50:58,182 - 00:50:59,182] Well, okay.
+- [00:50:59,182 - 00:51:00,182] How does that translate
+- [00:51:00,182 - 00:51:01,182] into a rate
+- [00:51:01,182 - 00:51:02,182] or a time
+- [00:51:02,182 - 00:51:03,182] for the decay?
+- [00:51:03,182 - 00:51:04,182] The rate...
+- [00:51:04,182 - 00:51:05,182] Right.
+- [00:51:05,182 - 00:51:06,182] This...
+- [00:51:06,182 - 00:51:07,182] I don't know.
+- [00:51:07,182 - 00:51:08,182] I don't know.
+- [00:51:08,182 - 00:51:09,182] I don't know.
+- [00:51:09,182 - 00:51:10,182] I don't know.
+- [00:51:10,182 - 00:51:11,182] I don't know.
+- [00:51:11,182 - 00:51:12,182] I don't know.
+- [00:51:12,182 - 00:51:13,182] I don't know.
+- [00:51:13,182 - 00:51:14,182] I don't know.
+- [00:51:14,182 - 00:51:15,182] I don't know.
+- [00:51:15,182 - 00:51:16,182] I don't know.
+- [00:51:16,182 - 00:51:17,182] I don't know.
+- [00:51:17,182 - 00:51:18,182] This is...
+- [00:51:18,182 - 00:51:19,182] This is the amplitude...
+- [00:51:19,182 - 00:51:20,182] All right.
+- [00:51:20,182 - 00:51:21,182] This is the amplitude
+- [00:51:21,182 - 00:51:22,182] for the process.
+- [00:51:22,182 - 00:51:24,522] The square of the amplitude
+- [00:51:24,522 - 00:51:26,002] is a probability.
+- [00:51:26,002 - 00:51:27,002] That's this.
+- [00:51:27,002 - 00:51:28,682] And it's a probability
+- [00:51:28,682 - 00:51:30,942] per unit time.
+- [00:51:30,942 - 00:51:31,942] It's a probability
+- [00:51:31,942 - 00:51:33,682] per unit time,
+- [00:51:33,682 - 00:51:35,202] and so its inverse
+- [00:51:35,202 - 00:51:36,462] is related...
+- [00:51:36,462 - 00:51:38,542] Is related to the lifetime.
+- [00:51:38,542 - 00:51:39,582] Its inverse is related
+- [00:51:39,582 - 00:51:41,082] to the lifetime,
+- [00:51:41,082 - 00:51:42,082] and that's why
+- [00:51:42,082 - 00:51:43,622] this is a very small number.
+- [00:51:43,622 - 00:51:44,622] The lifetime
+- [00:51:44,622 - 00:51:47,982] unusually large in particle physics
+- [00:51:47,982 - 00:51:51,342] units. So weak lifetimes, particles which
+- [00:51:51,342 - 00:51:54,702] can only decay for one reason
+- [00:51:54,702 - 00:51:58,062] or another by weak interactions have anomalously
+- [00:51:58,062 - 00:52:01,392] long lifetimes. And where do you trace it to?
+- [00:52:01,392 - 00:52:04,722] You trace it to the mass of the W. Now
+- [00:52:04,722 - 00:52:08,702] if a process, remember what this really
+- [00:52:08,702 - 00:52:12,682] was, it was k squared plus Mw squared,
+- [00:52:12,682 - 00:52:20,912] well, right, if you have enough energy and
+- [00:52:20,912 - 00:52:29,142] enough momentum, you can detect the fact eventually
+- [00:52:29,142 - 00:52:31,862] that these rates here will be momentum
+- [00:52:31,862 - 00:52:34,582] dependent. In other words, the effective constant here
+- [00:52:34,582 - 00:52:37,292] won't be constant, it will depend on k.
+- [00:52:37,292 - 00:52:40,002] And that, of course, has been seen with great
+- [00:52:40,002 - 00:52:41,401] precision.
+- [00:52:41,401 - 00:52:42,401] So
+- [00:52:42,682 - 00:52:46,182] For the tunneling process, there's a delta T
+- [00:52:46,182 - 00:52:49,682] which implies a kind of velocity. Is there
+- [00:52:54,442 - 00:52:54,861] a?
+- [00:52:54,861 - 00:52:57,361] Yeah, but if you went in there and
+- [00:52:57,361 - 00:52:59,861] tried to detect the velocity, you'd destroy the process.
+- [00:52:59,861 - 00:53:02,361] So if you take the this end and that end
+- [00:53:02,361 - 00:53:04,861] and figure out the delta T, you know, the distance
+- [00:53:04,861 - 00:53:06,322] you inferred.
+- [00:53:06,322 - 00:53:09,361] You can construct something you can call a
+- [00:53:09,361 - 00:53:12,401] velocity. It would be misleading to, you know,
+- [00:53:12,402 - 00:53:15,902] think of it as the velocity of a
+- [00:53:15,902 - 00:53:19,402] real signal, though. It's not a signal velocity.
+- [00:53:19,402 - 00:53:23,012] Can we usually get any understanding of the
+- [00:53:23,012 - 00:53:26,622] lifetime of a real 3W from looking at the
+- [00:53:27,622 - 00:53:28,122] I think that's a good question. I think
+- [00:53:28,122 - 00:53:28,622] the velocity is probably a little bit more
+- [00:53:28,622 - 00:53:29,202] than that. I think the velocity is a little
+- [00:53:29,202 - 00:53:29,782] bit more than that. I think the velocity is
+- [00:53:29,826 - 00:53:31,186] Mm-hmm.
+- [00:53:32,386 - 00:53:34,386] That's exactly the way you would calculate it.
+- [00:53:34,386 - 00:53:37,386] Because the shot is so short.
+- [00:53:41,386 - 00:53:43,386] The W boson, for example, it
+- [00:53:43,386 - 00:53:45,386] has a number of ways of decaying,
+- [00:53:45,386 - 00:53:48,386] but one way it can decay, literally
+- [00:53:48,386 - 00:53:51,386] decay, is into an electron in an anti-neutrino.
+- [00:53:51,386 - 00:53:54,886] And you can calculate the Feynman diagram
+- [00:53:54,886 - 00:53:58,386] describing it has this factor G in it.
+- [00:54:02,386 - 00:54:11,386] W minus a factor G and electron in anti-neutrino.
+- [00:54:11,386 - 00:54:13,386] And you can calculate that.
+- [00:54:13,386 - 00:54:19,386] And yes, you can compute the lifetime of the W.
+- [00:54:19,386 - 00:54:21,386] It comes out to be 10 minus 20.
+- [00:54:21,386 - 00:54:23,386] Whatever it is.
+- [00:54:27,386 - 00:54:28,386] Same twist on the question.
+- [00:54:28,386 - 00:54:29,886] In the case where in the
+- [00:54:29,886 - 00:54:31,386] laboratory you produce a W boson,
+- [00:54:31,386 - 00:54:32,386] Right.
+- [00:54:32,386 - 00:54:33,386] what happens to that energy?
+- [00:54:33,386 - 00:54:35,386] Because electron has very little energy.
+- [00:54:35,386 - 00:54:36,386] No, no, no.
+- [00:54:36,386 - 00:54:41,386] The W, when a real W decays,
+- [00:54:41,386 - 00:54:43,386] it produces an electron in
+- [00:54:43,386 - 00:54:45,386] a neutrino with enormous kinetic energy.
+- [00:54:45,386 - 00:54:47,386] Very relativistic.
+- [00:54:47,386 - 00:54:48,386] Right.
+- [00:54:48,386 - 00:54:52,386] A W boson at rest will become,
+- [00:54:52,386 - 00:54:53,386] and there are other decay modes.
+- [00:54:53,386 - 00:54:55,386] I mean, this is not the only decay mode.
+- [00:54:55,386 - 00:54:57,386] It can do a muon in a
+- [00:54:57,386 - 00:54:59,386] neutrino, a number of different decay modes.
+- [00:54:59,386 - 00:55:01,386] But if it decayed to an electron in a neutrino,
+- [00:55:01,386 - 00:55:03,386] they would be very, very
+- [00:55:03,386 - 00:55:05,386] relativistic electrons and neutrinos now.
+- [00:55:05,386 - 00:55:07,386] I'm a little confused with exactly what is
+- [00:55:07,386 - 00:55:09,386] the distinction between a real and a virtual particle.
+- [00:55:09,386 - 00:55:11,386] Is there a clear definition?
+- [00:55:11,386 - 00:55:12,386] Is there a greater definition?
+- [00:55:12,386 - 00:55:15,886] Real and virtual, real particles are
+- [00:55:15,886 - 00:55:19,386] simply the ones in the created initially,
+- [00:55:19,386 - 00:55:22,886] well, the particles which came in and particles
+- [00:55:22,886 - 00:55:26,386] which went out of a small interaction region.
+- [00:55:26,386 - 00:55:30,386] The virtual particles are mathematical constructs
+- [00:55:30,386 - 00:55:33,386] which are the internal particles in a Feynman diagram.
+- [00:55:33,386 - 00:55:35,386] You don't observe them.
+- [00:55:35,386 - 00:55:37,886] If you went into the, if
+- [00:55:37,886 - 00:55:40,386] you suddenly tried to observe that particle,
+- [00:55:40,386 - 00:55:42,386] how would you observe that particle?
+- [00:55:42,386 - 00:55:44,886] The only way you could observe it
+- [00:55:44,886 - 00:55:47,386] would be send something else into the system.
+- [00:55:47,386 - 00:55:51,386] Okay, let's talk about trying
+- [00:55:51,386 - 00:55:55,386] to observe particles of this nature.
+- [00:56:00,386 - 00:56:03,886] So even before that, what about trying
+- [00:56:03,886 - 00:56:07,386] to observe what's happening to an alpha particle
+- [00:56:07,386 - 00:56:10,386] as it moves under there?
+- [00:56:10,386 - 00:56:13,886] Well, obviously you have only a
+- [00:56:13,886 - 00:56:17,386] very short time to observe it.
+- [00:56:17,386 - 00:56:19,386] So if you want to observe, if you want
+- [00:56:19,386 - 00:56:21,386] to know whether there was a particle under here,
+- [00:56:21,386 - 00:56:24,886] you would have to interact with it
+- [00:56:24,886 - 00:56:28,386] on a very, very short time scale.
+- [00:56:28,386 - 00:56:29,386] Right?
+- [00:56:29,386 - 00:56:31,386] A very short time scale to get in.
+- [00:56:31,386 - 00:56:32,886] If you wanted to find out, for
+- [00:56:32,886 - 00:56:34,386] example, by looking at it with a photon,
+- [00:56:34,386 - 00:56:37,386] you would have to send in
+- [00:56:37,386 - 00:56:40,386] a very, very short wavelength photon pulse.
+- [00:56:40,386 - 00:56:44,386] In particular, the energy of that photon
+- [00:56:44,386 - 00:56:48,386] pulse would have to be about that big.
+- [00:56:48,386 - 00:56:51,386] That's what this energy time uncertainty principle says.
+- [00:56:51,386 - 00:56:54,386] The same energy time uncertainty principle
+- [00:56:54,386 - 00:56:57,386] gives you information about the wavelength
+- [00:56:57,386 - 00:56:59,886] energy of a photon that you would need if
+- [00:56:59,886 - 00:57:02,386] you wanted to have a time resolution good enough
+- [00:57:02,386 - 00:57:04,386] to see what was going on in there.
+- [00:57:04,386 - 00:57:07,886] So if you wanted to actually see the
+- [00:57:07,886 - 00:57:11,386] motion of the alpha particle from here to here,
+- [00:57:11,386 - 00:57:15,386] which lasts a time delta t, you would have to
+- [00:57:15,386 - 00:57:19,386] hit it with a photon whose energy was big enough
+- [00:57:19,386 - 00:57:22,886] that it actually would knock
+- [00:57:22,886 - 00:57:26,386] the alpha particle into this region.
+- [00:57:26,386 - 00:57:28,386] Into this region here.
+- [00:57:28,386 - 00:57:30,386] So you're supplying the energy, but...
+- [00:57:30,386 - 00:57:33,386] You're supplying the energy, and it's
+- [00:57:33,386 - 00:57:36,386] one of these quantum mechanical complementarity things
+- [00:57:36,386 - 00:57:39,886] that you think something is impossible,
+- [00:57:39,886 - 00:57:43,386] and so you try to detect it.
+- [00:57:43,386 - 00:57:46,386] And you find out in order to detect it,
+- [00:57:46,386 - 00:57:49,386] you have to do to the system exactly that thing
+- [00:57:49,386 - 00:57:53,386] which you were trying to prove does not happen.
+- [00:57:53,386 - 00:57:54,386] Right?
+- [00:57:54,386 - 00:57:55,386] Right?
+- [00:57:55,386 - 00:58:00,386] This is always the same story.
+- [00:58:00,386 - 00:58:02,386] And the same would be true of virtual particles.
+- [00:58:02,386 - 00:58:04,386] Virtual particles last a small time.
+- [00:58:04,386 - 00:58:06,886] If you wanted to get into the system and
+- [00:58:06,886 - 00:58:09,386] detect one, you would have to hit it with something
+- [00:58:09,386 - 00:58:11,386] with enough energy that it
+- [00:58:11,386 - 00:58:13,386] would actually create that particle.
+- [00:58:13,386 - 00:58:15,386] If you wanted to see the virtual
+- [00:58:15,386 - 00:58:17,386] W here, how much time do you have?
+- [00:58:17,386 - 00:58:18,386] Very short.
+- [00:58:18,386 - 00:58:20,386] So you hit it with a photon.
+- [00:58:20,386 - 00:58:24,386] A photon of sufficiently small wavelength that guess what?
+- [00:58:24,386 - 00:58:27,386] It's got enough energy to actually knock a W out
+- [00:58:27,386 - 00:58:30,386] of the system so that you actually see a W.
+- [00:58:30,386 - 00:58:31,386] All right.
+- [00:58:31,386 - 00:58:33,386] That's sort of unsatisfying and frustrating.
+- [00:58:33,386 - 00:58:36,386] You were trying to prove one thing, and you found
+- [00:58:36,386 - 00:58:39,386] out that you had to do something to the system
+- [00:58:39,386 - 00:58:41,886] which did to it exactly what
+- [00:58:41,886 - 00:58:44,386] you were trying to prove didn't happen.
+- [00:58:44,386 - 00:58:45,386] Always that way.
+- [00:58:45,386 - 00:58:47,386] That's quantum mechanics in a nutshell.
+- [00:58:47,386 - 00:58:50,386] It's true that in a particle physics
+- [00:58:50,386 - 00:58:53,386] experiment, you never see directly the W.
+- [00:58:53,386 - 00:58:55,886] You never, on a scattering
+- [00:58:55,886 - 00:58:58,386] experiment, you never see a W.
+- [00:58:58,386 - 00:59:00,386] Not true.
+- [00:59:00,386 - 00:59:01,386] Not true.
+- [00:59:01,386 - 00:59:05,886] If you're trying to see, for example, okay,
+- [00:59:05,886 - 00:59:10,386] so let's first talk about something slightly different.
+- [00:59:10,386 - 00:59:14,886] Do you ever get to see the
+- [00:59:14,886 - 00:59:19,386] virtual photons that are present in an electron?
+- [00:59:19,386 - 00:59:20,386] Well, yeah.
+- [00:59:20,386 - 00:59:21,886] If you hit the electron
+- [00:59:21,886 - 00:59:23,386] hard enough, you'll knock it out.
+- [00:59:23,386 - 00:59:25,386] You'll knock the electron out, and
+- [00:59:25,386 - 00:59:27,386] the photon will be left over.
+- [00:59:27,386 - 00:59:30,386] So you do get to see them in that sense.
+- [00:59:30,386 - 00:59:36,886] You do get to see the virtual photons if you do
+- [00:59:36,886 - 00:59:43,386] exactly the experiment which puts in enough energy to see those virtual.
+- [00:59:43,386 - 00:59:45,386] Let's come back to the W.
+- [00:59:45,386 - 00:59:46,386] Same thing is true.
+- [00:59:46,386 - 00:59:49,386] If you have a proton, that proton
+- [00:59:49,386 - 00:59:52,386] can emit a W and become a neutron.
+- [00:59:52,386 - 00:59:56,386] And of course, if there's nothing else around and it doesn't
+- [00:59:56,386 - 01:00:00,386] decay, then the W will have to come back and be reabsorbed.
+- [01:00:00,386 - 01:00:04,386] And so you can think of a proton as a sort of
+- [01:00:04,386 - 01:00:08,386] equilibrium between a proton and a neutron with a W boson around it.
+- [01:00:08,386 - 01:00:12,386] Constantly going back and forth between the two of them,
+- [01:00:12,386 - 01:00:16,386] between the two things, with a very, very, very fast oscillation.
+- [01:00:16,386 - 01:00:19,386] An enormously fast oscillation between the two.
+- [01:00:19,386 - 01:00:21,386] You want to see that W?
+- [01:00:21,386 - 01:00:29,386] All you have to do is hit it hard enough with a photon that has a frequency
+- [01:00:29,386 - 01:00:37,386] which is large enough that it can resolve the short times that the W is out there.
+- [01:00:37,386 - 01:00:38,386] And guess what?
+- [01:00:38,386 - 01:00:41,886] If you do hit a proton with a high
+- [01:00:41,886 - 01:00:45,386] energy photon, yes, you will knock out a W.
+- [01:00:45,386 - 01:00:48,386] So in that sense, you get to see them.
+- [01:00:48,386 - 01:00:50,386] But then, of course, it becomes a different process.
+- [01:00:50,386 - 01:00:52,386] It becomes a process in which the W
+- [01:00:52,386 - 01:00:54,386] is a final particle, not an intermediate one.
+- [01:00:54,386 - 01:00:57,386] Is there any sense in saying that there's
+- [01:00:57,386 - 01:01:00,386] a difference between a neutron and a proton?
+- [01:01:00,386 - 01:01:04,386] A proton goes to neutron goes to proton.
+- [01:01:04,386 - 01:01:07,386] You can also have neutron goes to
+- [01:01:07,386 - 01:01:10,386] proton goes to neutron with a W.
+- [01:01:10,386 - 01:01:14,386] The difference is that this one would be a
+- [01:01:14,386 - 01:01:18,386] W plus and this one would be a W minus.
+- [01:01:18,386 - 01:01:19,386] Yes?
+- [01:01:20,386 - 01:01:24,386] Does it make any sense to say that when you did that experiment that
+- [01:01:24,386 - 01:01:28,386] you knocked the W particle out as opposed to you created the W particle?
+- [01:01:28,386 - 01:01:30,386] No, you can say it either way.
+- [01:01:30,386 - 01:01:33,386] Language is one thing.
+- [01:01:33,386 - 01:01:35,386] Facts are another thing.
+- [01:01:35,386 - 01:01:36,886] The fact is at the end of the
+- [01:01:36,886 - 01:01:38,386] day, there will be a W flying out.
+- [01:01:38,386 - 01:01:40,886] Do you want to interpret that as a
+- [01:01:40,886 - 01:01:43,386] W that was there beforehand that you knocked out?
+- [01:01:43,386 - 01:01:46,386] Or was it a newly created W?
+- [01:01:46,386 - 01:01:48,386] Well, the mathematics says that there will be a W.
+- [01:01:48,386 - 01:01:54,886] One picture of it is that the W was there and you
+- [01:01:54,886 - 01:02:01,386] jerked the neutron out before the W had a chance to get back.
+- [01:02:01,386 - 01:02:03,386] And the mathematics supports that.
+- [01:02:03,386 - 01:02:05,386] I mean, there is a way of thinking
+- [01:02:05,386 - 01:02:07,386] about the mathematics that says that's what happens.
+- [01:02:07,386 - 01:02:13,386] On the other hand, is this true?
+- [01:02:13,386 - 01:02:15,386] All you ever get by
+- [01:02:15,386 - 01:02:17,386] putting in enough energy is W?
+- [01:02:17,386 - 01:02:19,386] You don't get so much energy.
+- [01:02:19,386 - 01:02:20,386] You don't get enough?
+- [01:02:20,386 - 01:02:23,386] Well, if I put in enough energy to
+- [01:02:23,386 - 01:02:26,386] get a W particle, I get a W particle.
+- [01:02:26,386 - 01:02:28,386] What if I put in twice that energy?
+- [01:02:28,386 - 01:02:30,386] You still get W particles.
+- [01:02:30,386 - 01:02:33,386] So does that imply somewhere in existence
+- [01:02:33,386 - 01:02:36,386] the W because you always get W's?
+- [01:02:36,386 - 01:02:40,386] Well, you don't always get W's.
+- [01:02:40,386 - 01:02:42,386] Sometimes you get W's.
+- [01:02:42,386 - 01:02:44,386] Sometimes you get W's.
+- [01:02:44,386 - 01:02:46,386] Sometimes you might get three W's.
+- [01:02:46,386 - 01:02:49,386] When you hit a particle hard
+- [01:02:49,386 - 01:02:52,386] enough, you get all sorts of junk.
+- [01:02:52,386 - 01:02:54,886] When you hit a particle really hard, this is
+- [01:02:54,886 - 01:02:57,386] what I was trying to tell you the other night.
+- [01:02:57,386 - 01:03:00,886] When you try to think about what is
+- [01:03:00,886 - 01:03:04,386] elementary and what's not elementary, it gets very confusing.
+- [01:03:04,386 - 01:03:07,386] Because if you take what you thought was a
+- [01:03:07,386 - 01:03:10,386] very elementary particle and you hit it really hard enough,
+- [01:03:10,386 - 01:03:12,386] all kinds of junk comes out.
+- [01:03:12,386 - 01:03:13,886] And among the junk that comes
+- [01:03:13,886 - 01:03:15,386] out might be chairs and tables.
+- [01:03:15,386 - 01:03:16,886] Well, you'd need a hell of
+- [01:03:16,886 - 01:03:18,386] a lot of energy for that.
+- [01:03:18,386 - 01:03:25,386] But you hit an electron hard enough with a photon, really, really, really hard, meaning to say with
+- [01:03:25,386 - 01:03:32,386] much, much more energy than, for example, the mass of a proton, mass of a thousand protons, for example.
+- [01:03:32,386 - 01:03:33,386] And guess what?
+- [01:03:33,386 - 01:03:35,386] Out of it will come
+- [01:03:35,386 - 01:03:37,386] protons, electrons, all sorts of things.
+- [01:03:37,386 - 01:03:39,386] Every once in a while, one of
+- [01:03:39,386 - 01:03:41,386] those electrons will stick to a proton.
+- [01:03:41,386 - 01:03:42,386] And so you will discover that inside an
+- [01:03:42,386 - 01:03:43,386] electron or inside a proton, there's a proton.
+- [01:03:43,386 - 01:03:43,886] And so you will discover that inside an
+- [01:03:43,886 - 01:03:44,386] electron or inside a proton, there's a proton.
+- [01:03:44,386 - 01:03:46,886] And so you will discover that inside an
+- [01:03:46,886 - 01:03:49,386] electron or inside a proton, there's a hydrogen atom.
+- [01:03:49,386 - 01:03:52,386] The lesson is don't try to...
+- [01:03:52,386 - 01:03:56,386] Your mental picture of what comes out of a system is
+- [01:03:56,386 - 01:04:00,386] necessarily what was in there beforehand is a little bit defective.
+- [01:04:00,386 - 01:04:08,386] Does this have anything to do with vacuum energy?
+- [01:04:08,386 - 01:04:10,386] This in itself doesn't.
+- [01:04:10,386 - 01:04:12,386] This in itself doesn't.
+- [01:04:12,386 - 01:04:15,386] It really has to do with diagrams
+- [01:04:15,386 - 01:04:18,386] which are disconnected from the rest of...
+- [01:04:18,386 - 01:04:20,386] They're just there in the vacuum.
+- [01:04:20,386 - 01:04:25,386] But the presence of vacuum diagrams like this...
+- [01:04:25,386 - 01:04:29,386] Okay, so a vacuum diagram is
+- [01:04:29,386 - 01:04:33,386] something which also apparently violates energy conservation.
+- [01:04:33,386 - 01:04:34,886] Let's suppose this were an
+- [01:04:34,886 - 01:04:36,386] electron, an electron, and a photon.
+- [01:04:36,386 - 01:04:38,886] Two electrons necessarily have a
+- [01:04:38,886 - 01:04:41,386] certain minimum amount of energy.
+- [01:04:41,386 - 01:04:43,386] The vacuum has no energy.
+- [01:04:43,386 - 01:04:44,386] Okay?
+- [01:04:44,386 - 01:04:47,386] And so there's a certain violation of energy in there.
+- [01:04:47,386 - 01:04:49,386] That means that that pair can
+- [01:04:49,386 - 01:04:51,386] only last for a short time.
+- [01:04:51,386 - 01:04:52,886] And I say, okay, I
+- [01:04:52,886 - 01:04:54,386] would like to see that pair.
+- [01:04:54,386 - 01:04:58,386] So you send in some very high frequency photon or
+- [01:04:58,386 - 01:05:02,386] a pair of very high frequency photons from opposite sides.
+- [01:05:02,386 - 01:05:03,386] And guess what?
+- [01:05:03,386 - 01:05:06,386] You sometimes make electron-positron pairs
+- [01:05:06,386 - 01:05:09,386] with an extra photon in them.
+- [01:05:09,386 - 01:05:12,886] So you knock the hell out of that
+- [01:05:12,886 - 01:05:16,386] vacuum fluctuation and you discover pairs of particles.
+- [01:05:16,386 - 01:05:17,386] Yeah?
+- [01:05:17,386 - 01:05:19,386] What are these reactions?
+- [01:05:19,386 - 01:05:22,386] Are they independent of temperature or dependent on...
+- [01:05:22,386 - 01:05:24,386] Oh, no, they're not dependent on temperature.
+- [01:05:24,386 - 01:05:26,386] They are dependent on the particles that
+- [01:05:26,386 - 01:05:28,386] you're colliding having a lot of energy.
+- [01:05:28,386 - 01:05:30,386] All right, so it's a good question.
+- [01:05:30,386 - 01:05:33,386] Let's say what it has to do with temperature.
+- [01:05:33,386 - 01:05:36,386] When you have a system at high temperature,
+- [01:05:36,386 - 01:05:37,386] it simply means that you
+- [01:05:37,386 - 01:05:38,386] have a lot of particles around
+- [01:05:38,386 - 01:05:40,386] with high energy.
+- [01:05:40,386 - 01:05:44,386] So that means that typically at high temperatures,
+- [01:05:44,386 - 01:05:46,886] there are enough high energy particles
+- [01:05:46,886 - 01:05:49,386] to cause these things to happen.
+- [01:05:49,386 - 01:05:51,386] But just think of high temperatures as just
+- [01:05:51,386 - 01:05:53,386] having a lot of high energy particles around.
+- [01:05:53,386 - 01:05:54,886] If you have a very
+- [01:05:54,886 - 01:05:56,386] small number of high energy particles,
+- [01:05:56,386 - 01:05:58,386] you won't think of that as temperature.
+- [01:05:58,386 - 01:05:59,886] You'll just say, I have
+- [01:05:59,886 - 01:06:01,386] some particles with large kinetic energy.
+- [01:06:01,386 - 01:06:03,386] Right?
+- [01:06:03,386 - 01:06:05,386] An example of what temperature
+- [01:06:05,386 - 01:06:07,386] can do is if you have...
+- [01:06:07,386 - 01:06:12,386] The alpha particle bound inside the nucleus like that,
+- [01:06:12,386 - 01:06:14,386] and then you put it into a temperature bath.
+- [01:06:14,386 - 01:06:18,386] Now, I don't mean your bath water temperature bath.
+- [01:06:18,386 - 01:06:23,386] I mean temperatures which are many MeVs high,
+- [01:06:23,386 - 01:06:27,386] which is zillions and zillions of degrees high.
+- [01:06:27,386 - 01:06:30,386] But the effect of putting it into temperature,
+- [01:06:30,386 - 01:06:31,886] you can either think of it
+- [01:06:31,886 - 01:06:33,386] as particles coming in and colliding,
+- [01:06:33,386 - 01:06:36,386] or you can just think of it as thermal...
+- [01:06:37,386 - 01:06:40,386] vibrations causing this alpha particle to jiggle around
+- [01:06:40,386 - 01:06:42,386] and give it enough temperature,
+- [01:06:42,386 - 01:06:45,386] and sure enough, it'll jiggle over the top sometimes.
+- [01:06:45,386 - 01:06:47,886] So yes, these virtual processes
+- [01:06:47,886 - 01:06:50,386] can be induced by temperature.
+- [01:06:50,386 - 01:06:52,386] But temperature is another way of just saying
+- [01:06:52,386 - 01:06:56,386] there's a lot of high energy particles around.
+- [01:06:56,386 - 01:06:59,886] Did you say that the vacuum could not
+- [01:06:59,886 - 01:07:03,386] be attributed to the generation of W plus,
+- [01:07:03,386 - 01:07:05,386] the...
+- [01:07:05,386 - 01:07:07,386] The vacuum could not be attributed...
+- [01:07:07,386 - 01:07:08,886] I don't think I ever said
+- [01:07:08,886 - 01:07:10,386] the vacuum was attributed to anything.
+- [01:07:10,386 - 01:07:12,386] No, I...
+- [01:07:12,386 - 01:07:14,386] You were talking about the...
+- [01:07:14,386 - 01:07:15,386] Vacuum fluctuations.
+- [01:07:15,386 - 01:07:17,386] Yeah, vacuum fluctuations.
+- [01:07:17,386 - 01:07:21,386] The W plus is some kind of a fluctuation too.
+- [01:07:21,386 - 01:07:23,386] Well, the W is a particle.
+- [01:07:23,386 - 01:07:24,386] The W is a particle.
+- [01:07:24,386 - 01:07:26,386] I know, but the...
+- [01:07:26,386 - 01:07:29,386] But isn't there a relationship between that and...
+- [01:07:29,386 - 01:07:33,386] The W in this diagram is a fluctuation,
+- [01:07:33,386 - 01:07:35,386] but it's not a fluctuation of the vacuum.
+- [01:07:35,386 - 01:07:36,386] It's a fluctuation of the protein.
+- [01:07:36,386 - 01:07:39,386] It's a fluctuation of the proton.
+- [01:07:39,386 - 01:07:42,386] The proton sometimes fluctuates and
+- [01:07:42,386 - 01:07:45,386] makes a W and a neutron.
+- [01:07:45,386 - 01:07:49,386] That's, you know, a relative of,
+- [01:07:49,386 - 01:07:56,386] but not the same thing as saying
+- [01:07:56,386 - 01:08:01,386] an electron,
+- [01:08:01,386 - 01:08:04,386] an antineutrino,
+- [01:08:04,386 - 01:08:06,386] and a W, let's see,
+- [01:08:06,386 - 01:08:08,386] that would be a W plus,
+- [01:08:08,386 - 01:08:13,386] can sometimes form a vacuum fluctuation.
+- [01:08:13,386 - 01:08:15,886] It's another process where there really
+- [01:08:15,886 - 01:08:18,386] isn't enough energy for it to happen,
+- [01:08:18,386 - 01:08:21,386] so it happens in this virtual
+- [01:08:21,386 - 01:08:24,386] sense for a short period of time,
+- [01:08:24,386 - 01:08:26,386] and in that sense it's
+- [01:08:26,386 - 01:08:28,386] similar to this, but it's different.
+- [01:08:28,386 - 01:08:30,386] But the same rules apply to it.
+- [01:08:30,386 - 01:08:32,386] It can only last for a short time.
+- [01:08:32,386 - 01:08:33,386] So if you want to
+- [01:08:33,386 - 01:08:34,386] get into it and observe it,
+- [01:08:34,386 - 01:08:35,886] you have to do it with
+- [01:08:35,886 - 01:08:37,386] something which has very high energy
+- [01:08:37,386 - 01:08:39,386] because of the uncertainty principle,
+- [01:08:39,386 - 01:08:42,386] and the result is the energy is always enough.
+- [01:08:42,386 - 01:08:45,386] If the energy is high enough to see in there,
+- [01:08:45,386 - 01:08:48,386] it'll also be high enough to create those particles.
+- [01:08:48,386 - 01:08:51,386] You'll have enough energy to actually release them.
+- [01:08:51,386 - 01:08:53,386] The antineutrino is necessary for conservation.
+- [01:08:53,386 - 01:08:54,386] Say it again.
+- [01:08:54,386 - 01:08:57,386] The antineutrino is necessary there for conservation.
+- [01:08:57,386 - 01:08:59,386] Yeah.
+- [01:08:59,386 - 01:09:01,386] But another way of saying it is that
+- [01:09:01,386 - 01:09:04,386] the basic interaction is always
+- [01:09:04,386 - 01:09:07,386] one between electron, neutrino, and W.
+- [01:09:07,386 - 01:09:10,386] Right. But yes, it is.
+- [01:09:10,386 - 01:09:12,386] Right.
+- [01:09:16,386 - 01:09:19,386] I was thinking that you could
+- [01:09:19,386 - 01:09:22,386] turn a coffee bean into a cake.
+- [01:09:22,386 - 01:09:25,386] Coffee bean into a cake, chocolate cake,
+- [01:09:25,386 - 01:09:29,386] by basically adding energy.
+- [01:09:29,386 - 01:09:31,386] You put in enough energy
+- [01:09:31,386 - 01:09:34,386] to incinerate the coffee bean and add a chocolate cake.
+- [01:09:34,386 - 01:09:35,386] Mm-hmm.
+- [01:09:35,386 - 01:09:36,386] One cake is the probability.
+- [01:09:36,386 - 01:09:37,386] Just one chocolate?
+- [01:09:37,386 - 01:09:39,386] Why only one chocolate cake?
+- [01:09:41,386 - 01:09:42,886] Okay, so how much, what's
+- [01:09:42,886 - 01:09:44,386] the weight of a chocolate cake?
+- [01:09:44,386 - 01:09:46,386] Weight of a chocolate cake is,
+- [01:09:46,386 - 01:09:48,386] if it's really good chocolate cake, dense,
+- [01:09:48,386 - 01:09:50,386] it weighs a kilogram, right?
+- [01:09:50,386 - 01:09:54,386] A kilogram is a thousand grams,
+- [01:09:54,386 - 01:09:58,386] which is 10 to the eighth Planck masses.
+- [01:09:58,386 - 01:09:59,386] Okay.
+- [01:09:59,386 - 01:10:01,386] 10 to the eighth Planck masses.
+- [01:10:01,386 - 01:10:02,386] Good.
+- [01:10:02,386 - 01:10:04,386] If you could accelerate a pair of particles
+- [01:10:04,386 - 01:10:06,386] to 10 to the eighth Planck masses
+- [01:10:06,386 - 01:10:09,386] with a very, very, very small probability,
+- [01:10:09,386 - 01:10:11,386] you might get a chocolate cake out.
+- [01:10:11,386 - 01:10:13,386] Yeah.
+- [01:10:13,386 - 01:10:15,386] Dream on, Michael.
+- [01:10:15,386 - 01:10:17,386] Or anything else that weighs a kilogram.
+- [01:10:17,386 - 01:10:18,386] What's that?
+- [01:10:18,386 - 01:10:20,386] Or anything else that weighs a kilogram.
+- [01:10:20,386 - 01:10:22,386] Or anything else that weighs a kilogram.
+- [01:10:22,386 - 01:10:24,386] Right.
+- [01:10:24,386 - 01:10:26,386] If you could put a,
+- [01:10:26,386 - 01:10:27,886] I mean, if you could
+- [01:10:27,886 - 01:10:29,386] make a delta T small enough
+- [01:10:29,386 - 01:10:30,386] Mm-hmm.
+- [01:10:30,386 - 01:10:32,386] to do your chair analogy,
+- [01:10:32,386 - 01:10:36,386] you could get electrons turning into chair and anti-chair.
+- [01:10:36,386 - 01:10:37,386] Right.
+- [01:10:37,386 - 01:10:40,386] Now, if you take that to an extreme,
+- [01:10:40,386 - 01:10:42,386] as short as possible time,
+- [01:10:42,386 - 01:10:44,386] what is the mass that,
+- [01:10:44,386 - 01:10:47,386] like a Planck, you know, Planck time,
+- [01:10:47,386 - 01:10:49,386] what would the mass be equivalent to that?
+- [01:10:49,386 - 01:10:51,386] Of a Planck time?
+- [01:10:51,386 - 01:10:52,386] Yeah.
+- [01:10:52,386 - 01:10:53,386] The Planck mass,
+- [01:10:53,386 - 01:10:56,386] which is about 10 to the minus five grams.
+- [01:10:56,386 - 01:10:58,386] So wouldn't that be the limit to how?
+- [01:10:58,386 - 01:10:59,386] No.
+- [01:10:59,386 - 01:11:02,386] The Planck mass is not the heaviest mass.
+- [01:11:02,386 - 01:11:03,386] Obviously not.
+- [01:11:03,386 - 01:11:05,386] I mean, a lot of Planck mass is.
+- [01:11:05,386 - 01:11:08,386] But if you're going to explain chairs and anti-chairs,
+- [01:11:08,386 - 01:11:11,386] shorter time, you could take planets and anti-planets
+- [01:11:11,386 - 01:11:13,386] and galaxies and the like.
+- [01:11:13,386 - 01:11:14,386] Right.
+- [01:11:14,386 - 01:11:17,386] If you collide particles at energies much larger
+- [01:11:17,386 - 01:11:19,386] than the Planck mass,
+- [01:11:19,386 - 01:11:21,386] what you get,
+- [01:11:21,386 - 01:11:23,386] I was going to say 99 times out of 100,
+- [01:11:23,386 - 01:11:25,386] but let's make it 99.999999
+- [01:11:25,386 - 01:11:27,386] endlessly out of whatever it is,
+- [01:11:27,386 - 01:11:29,386] you'll get a black hole.
+- [01:11:29,386 - 01:11:30,386] Okay?
+- [01:11:30,386 - 01:11:32,386] But every once in a while,
+- [01:11:32,386 - 01:11:35,386] with a probability which is exponentially small
+- [01:11:35,386 - 01:11:38,386] in the entropy of the black hole,
+- [01:11:38,386 - 01:11:41,386] that black hole will emit a chair.
+- [01:11:41,386 - 01:11:43,386] Instead.
+- [01:11:43,386 - 01:11:44,386] Right.
+- [01:11:44,386 - 01:11:46,386] How do I know that?
+- [01:11:46,386 - 01:11:48,386] I know that because the process of
+- [01:11:48,386 - 01:11:50,386] a chair falling into a black hole
+- [01:11:50,386 - 01:11:53,386] is possible.
+- [01:11:53,386 - 01:11:55,386] And therefore, by time reversals,
+- [01:11:55,386 - 01:11:57,386] you can get a black hole.
+- [01:11:57,386 - 01:11:58,386] And so,
+- [01:11:58,386 - 01:12:00,386] therefore, by time reversal invariance,
+- [01:12:00,386 - 01:12:02,886] the process of a black hole
+- [01:12:02,886 - 01:12:05,386] emitting a chair must be possible.
+- [01:12:05,386 - 01:12:07,386] So yes, every once in a while,
+- [01:12:07,386 - 01:12:09,386] the black hole,
+- [01:12:09,386 - 01:12:11,386] or when I say every once in a while,
+- [01:12:11,386 - 01:12:13,386] I mean a very rare percentage of the times
+- [01:12:13,386 - 01:12:15,386] that you do this experiment,
+- [01:12:15,386 - 01:12:17,886] the black hole will behave
+- [01:12:17,886 - 01:12:20,386] in a statistically extremely unlikely way.
+- [01:12:20,386 - 01:12:24,386] But all that entropy is, is statistics.
+- [01:12:24,386 - 01:12:27,386] And basically anything that can happen will happen.
+- [01:12:27,386 - 01:12:29,386] Eventually.
+- [01:12:29,386 - 01:12:31,386] And so, yes, everything can
+- [01:12:31,386 - 01:12:33,386] come out of a black hole
+- [01:12:33,386 - 01:12:35,386] if you do the process enough times.
+- [01:12:35,386 - 01:12:38,386] So, um, above,
+- [01:12:38,386 - 01:12:40,386] so all of this above the Planck energy scale
+- [01:12:40,386 - 01:12:42,386] has to do with the properties
+- [01:12:42,386 - 01:12:44,386] of emission from a black hole.
+- [01:12:47,386 - 01:12:51,386] The virtual photons and W particles are bosons.
+- [01:12:51,386 - 01:12:53,386] So will they interact with the
+- [01:12:53,386 - 01:12:55,386] other bosons in the close body
+- [01:12:55,386 - 01:12:56,386] and tend to fall off?
+- [01:12:56,386 - 01:12:58,386] Okay, which which photons?
+- [01:12:58,386 - 01:13:00,386] Virtual photons and virtual...
+- [01:13:00,386 - 01:13:01,386] Will they interact with which?
+- [01:13:01,386 - 01:13:03,386] Any other virtual photon.
+- [01:13:03,386 - 01:13:05,386] Okay, the virtual, let's first ask,
+- [01:13:05,386 - 01:13:08,386] does the W interact with the photon?
+- [01:13:08,386 - 01:13:12,386] Well, say there's another W close by,
+- [01:13:12,386 - 01:13:14,386] the virtual W,
+- [01:13:14,386 - 01:13:16,386] if they were,
+- [01:13:16,386 - 01:13:19,386] will they call out the same statements as the bosons?
+- [01:13:19,386 - 01:13:20,886] You want to know whether
+- [01:13:20,886 - 01:13:22,386] Ws will interact with each other.
+- [01:13:22,386 - 01:13:24,386] Do you have a question?
+- [01:13:24,386 - 01:13:26,386] Well, photons fall in the same place.
+- [01:13:26,386 - 01:13:31,386] They don't really interact with each other.
+- [01:13:31,386 - 01:13:33,386] You know, all these are...
+- [01:13:33,386 - 01:13:36,386] Photons do interact with each other a little bit.
+- [01:13:36,386 - 01:13:38,386] You know how they interact with each other?
+- [01:13:38,386 - 01:13:40,386] Through virtual pair production,
+- [01:13:40,386 - 01:13:42,386] but you're talking about due
+- [01:13:42,386 - 01:13:44,386] to the fact that they're bosons.
+- [01:13:44,386 - 01:13:47,386] The fact that they're bosons is not what says
+- [01:13:47,386 - 01:13:49,386] that they don't interact with each other.
+- [01:13:49,386 - 01:13:52,386] Bosons, fermions, they all interact.
+- [01:13:52,386 - 01:13:54,386] No difference in that respect.
+- [01:13:54,386 - 01:13:55,386] Okay.
+- [01:13:55,386 - 01:13:58,386] The reason that the photon
+- [01:13:58,386 - 01:14:02,386] doesn't seem to interact with other photons,
+- [01:14:02,386 - 01:14:05,386] let's see if we can trace it down.
+- [01:14:09,386 - 01:14:12,386] Photons can scatter.
+- [01:14:12,386 - 01:14:14,386] Now, ordinarily in the laboratory,
+- [01:14:14,386 - 01:14:16,386] two light beams won't scatter each other.
+- [01:14:16,386 - 01:14:20,386] But two photons can do the following.
+- [01:14:20,386 - 01:14:22,386] A photon can come in,
+- [01:14:22,386 - 01:14:23,386] another photon can come in,
+- [01:14:23,386 - 01:14:27,386] and they can create an electron-positron pair.
+- [01:14:27,386 - 01:14:31,386] Electron, E minus, E plus.
+- [01:14:31,386 - 01:14:33,386] Electron-positron pair.
+- [01:14:33,386 - 01:14:35,386] Well, if that can happen,
+- [01:14:35,386 - 01:14:37,386] then the opposite can happen.
+- [01:14:37,386 - 01:14:40,386] An electron-positron pair can become a pair of photons.
+- [01:14:40,386 - 01:14:45,386] And in fact, it can happen as a virtual process.
+- [01:14:45,386 - 01:14:47,386] As a virtual process,
+- [01:14:47,386 - 01:14:50,386] a pair of photons can come in and go out,
+- [01:14:50,386 - 01:14:52,386] but scatter by means of a virtual process.
+- [01:14:52,386 - 01:14:55,386] By means of an intermediate state,
+- [01:14:55,386 - 01:14:58,386] which is an electron-positron pair.
+- [01:14:58,386 - 01:14:59,386] Okay.
+- [01:14:59,386 - 01:15:01,386] Now, why doesn't it happen
+- [01:15:01,386 - 01:15:04,386] in the laboratory with ordinary photons?
+- [01:15:04,386 - 01:15:06,386] And the answer is,
+- [01:15:06,386 - 01:15:09,386] it takes a certain amount of energy
+- [01:15:09,386 - 01:15:11,386] to create the electron-positron pairs.
+- [01:15:11,386 - 01:15:12,386] Right?
+- [01:15:12,386 - 01:15:14,386] Each electron has a mass of,
+- [01:15:14,386 - 01:15:16,386] what is it, half an MeV?
+- [01:15:16,386 - 01:15:18,386] Right.
+- [01:15:18,386 - 01:15:22,386] So these together take an MeV of energy.
+- [01:15:22,386 - 01:15:25,386] If the pair of photons
+- [01:15:25,386 - 01:15:29,386] has energy very, very much lower than that,
+- [01:15:29,386 - 01:15:31,386] then there is not enough energy
+- [01:15:31,386 - 01:15:34,386] for the real creation of an electron-positron pair.
+- [01:15:34,386 - 01:15:36,386] But still, it can happen virtually.
+- [01:15:36,386 - 01:15:38,386] But when it happens virtually,
+- [01:15:38,386 - 01:15:40,386] there are propagators in here,
+- [01:15:40,386 - 01:15:42,386] and it's the same sort of deal
+- [01:15:42,386 - 01:15:44,386] as what happened here.
+- [01:15:44,386 - 01:15:48,386] When you have to supply extra energy
+- [01:15:48,386 - 01:15:50,386] for the process to happen,
+- [01:15:50,386 - 01:15:52,386] there is always a cost
+- [01:15:52,386 - 01:15:54,386] and probability.
+- [01:15:54,386 - 01:15:56,386] Typically, the cost and probability
+- [01:15:56,386 - 01:15:58,386] is somehow inverse to the amount of energy
+- [01:15:58,386 - 01:16:01,386] that you need to make the process happen.
+- [01:16:01,386 - 01:16:02,386] Okay?
+- [01:16:02,386 - 01:16:05,386] So this process doesn't happen in the laboratory
+- [01:16:05,386 - 01:16:07,386] because in the laboratory,
+- [01:16:07,386 - 01:16:11,386] photon energies are always vastly smaller
+- [01:16:11,386 - 01:16:13,386] than the mass of an electron.
+- [01:16:13,386 - 01:16:15,386] Photon energies are what?
+- [01:16:15,386 - 01:16:17,386] An electron volt?
+- [01:16:17,386 - 01:16:20,386] Typical photon, optical photons,
+- [01:16:20,386 - 01:16:21,386] are...
+- [01:16:21,386 - 01:16:24,386] are an electron volt or two.
+- [01:16:24,386 - 01:16:26,386] The mass of an electron is
+- [01:16:26,386 - 01:16:29,386] of order a million electron volts.
+- [01:16:29,386 - 01:16:31,386] And so typically, the photons
+- [01:16:31,386 - 01:16:33,386] don't have nearly enough energy
+- [01:16:33,386 - 01:16:35,386] for this process to happen.
+- [01:16:35,386 - 01:16:37,386] And when a process,
+- [01:16:37,386 - 01:16:39,386] when an intermediate process happens,
+- [01:16:39,386 - 01:16:41,386] which has to happen very fast,
+- [01:16:41,386 - 01:16:42,386] it comes and goes,
+- [01:16:42,386 - 01:16:44,386] it's always at a cost of probability.
+- [01:16:44,386 - 01:16:46,386] So this process, the scattering,
+- [01:16:46,386 - 01:16:48,386] is a very low probability process
+- [01:16:48,386 - 01:16:50,386] at low energies.
+- [01:16:50,386 - 01:16:51,386] On the other hand,
+- [01:16:51,386 - 01:16:53,386] if the photons hit with enough energy
+- [01:16:53,386 - 01:16:56,386] to be able to create an electron-positron pair,
+- [01:16:56,386 - 01:16:58,386] they really do interact with each other.
+- [01:16:58,386 - 01:17:00,386] Now, I forgot what the original question was.
+- [01:17:00,386 - 01:17:02,386] It had to do with W bosons.
+- [01:17:02,386 - 01:17:04,386] But the same thing...
+- [01:17:04,386 - 01:17:05,386] Same thing is true.
+- [01:17:05,386 - 01:17:08,386] W bosons do interact with each other.
+- [01:17:08,386 - 01:17:10,386] I wasn't talking about that type of interaction.
+- [01:17:10,386 - 01:17:13,386] I was talking about their statistical interaction
+- [01:17:13,386 - 01:17:15,386] because they're both...
+- [01:17:15,386 - 01:17:17,386] Oh, they are bosons, yes.
+- [01:17:17,386 - 01:17:18,386] Don't think...
+- [01:17:18,386 - 01:17:19,386] It's not an interaction.
+- [01:17:19,386 - 01:17:23,386] It's just the effect of Bosa statistics.
+- [01:17:25,386 - 01:17:28,386] Well, let's put it this way.
+- [01:17:28,386 - 01:17:31,386] The effects of the statistics,
+- [01:17:31,386 - 01:17:34,386] fermion versus boson,
+- [01:17:34,386 - 01:17:36,386] is only interesting
+- [01:17:36,386 - 01:17:38,386] when you have a situation
+- [01:17:38,386 - 01:17:44,386] where you create more than one particle.
+- [01:17:44,386 - 01:17:46,386] So more than one particle
+- [01:17:46,386 - 01:17:47,386] pretty much near each other,
+- [01:17:47,386 - 01:17:49,386] pretty much in the same state.
+- [01:17:49,386 - 01:17:52,386] In most particle physics experiments,
+- [01:17:52,386 - 01:17:55,386] you create the particles going off,
+- [01:17:55,386 - 01:17:57,386] flying off in every direction,
+- [01:17:57,386 - 01:18:00,386] and it's very rare that you have two particles
+- [01:18:00,386 - 01:18:02,386] of the same type going off
+- [01:18:02,386 - 01:18:04,386] in pretty much the same direction
+- [01:18:04,386 - 01:18:06,386] in such a way that it matters very much
+- [01:18:06,386 - 01:18:08,386] whether they're fermions or bosons.
+- [01:18:08,386 - 01:18:12,386] But yes, I mean, they do interact statistically
+- [01:18:12,386 - 01:18:14,386] the same way photons do.
+- [01:18:14,386 - 01:18:17,386] W bosons will prefer to be in the same state,
+- [01:18:17,386 - 01:18:20,386] in the same sense that photons prefer to...
+- [01:18:20,386 - 01:18:24,386] In principle, you could make a laser out of them.
+- [01:18:24,386 - 01:18:27,386] Don't...
+- [01:18:27,386 - 01:18:30,386] Not likely, but...
+- [01:18:30,386 - 01:18:32,386] In principle,
+- [01:18:32,386 - 01:18:37,386] you could make a system laze W bosons.
+- [01:18:37,386 - 01:18:41,386] Can you tell whether...
+- [01:18:41,386 - 01:18:43,386] You should call it a laser.
+- [01:18:43,386 - 01:18:45,386] Can you tell what color...
+- [01:18:45,386 - 01:18:51,386] Can you tell what color the proton or neutron is?
+- [01:18:51,386 - 01:18:52,386] What color it is.
+- [01:18:52,386 - 01:18:54,386] Does it matter? Red, green?
+- [01:18:54,386 - 01:18:56,386] No, it's always three quarks,
+- [01:18:56,386 - 01:18:58,386] one red, one green, and one blue,
+- [01:18:58,386 - 01:19:00,386] which makes it white.
+- [01:19:00,386 - 01:19:02,386] Or colorless.
+- [01:19:02,386 - 01:19:04,386] Black or white, I'm not sure,
+- [01:19:04,386 - 01:19:06,386] but I guess white.
+- [01:19:06,386 - 01:19:11,386] But it...
+- [01:19:11,386 - 01:19:13,386] There should be superpositions
+- [01:19:13,386 - 01:19:15,386] of red, green, and black.
+- [01:19:15,386 - 01:19:18,386] Somehow.
+- [01:19:18,386 - 01:19:20,886] But a proton is always
+- [01:19:20,886 - 01:19:23,386] one red, one green, one blue.
+- [01:19:25,386 - 01:19:29,386] Is this a place to bring in
+- [01:19:29,386 - 01:19:32,386] what happens at the other end of the energy spectrum
+- [01:19:32,386 - 01:19:34,386] like the boson kind condensate?
+- [01:19:34,386 - 01:19:35,386] Well...
+- [01:19:35,386 - 01:19:37,386] Is that...
+- [01:19:37,386 - 01:19:39,386] I'm just asking the question,
+- [01:19:39,386 - 01:19:40,386] is this a place to fit it
+- [01:19:40,386 - 01:19:41,386] in, or will we get to it?
+- [01:19:41,386 - 01:19:42,386] Yeah, we will get to it,
+- [01:19:42,386 - 01:19:44,386] and we'll get to it in the context
+- [01:19:44,386 - 01:19:46,386] of the Higgs boson.
+- [01:19:46,386 - 01:19:48,386] Okay.
+- [01:19:48,386 - 01:19:49,386] Yeah.
+- [01:19:49,386 - 01:19:50,386] The Higgs boson is the place
+- [01:19:50,386 - 01:19:52,386] where something like
+- [01:19:52,386 - 01:19:54,386] boson condensation happens.
+- [01:19:54,386 - 01:20:00,386] Um...
+- [01:20:00,386 - 01:20:05,386] All right, I did have one...
+- [01:20:05,386 - 01:20:09,386] All right, um...
+- [01:20:09,386 - 01:20:10,386] Nobody has asked me,
+- [01:20:10,386 - 01:20:12,386] so let me bring it up myself.
+- [01:20:12,386 - 01:20:19,386] What kind of group structure could we imagine
+- [01:20:19,386 - 01:20:24,386] which would mix the up quark and the down quark?
+- [01:20:24,386 - 01:20:29,386] Well, the up quark and the down quark...
+- [01:20:29,386 - 01:20:31,386] The charm quark and the strange quark,
+- [01:20:31,386 - 01:20:32,386] just forget them.
+- [01:20:32,386 - 01:20:33,386] Just up quark and down quark,
+- [01:20:33,386 - 01:20:36,386] they go into each other by W emission.
+- [01:20:36,386 - 01:20:39,386] What group could we be talking about?
+- [01:20:39,386 - 01:20:40,386] Now, it's obvious.
+- [01:20:40,386 - 01:20:41,386] We're talking about SU .
+- [01:20:41,386 - 01:20:42,386] There are two elements here,
+- [01:20:42,386 - 01:20:44,386] and one can go to the other.
+- [01:20:44,386 - 01:20:48,386] That's the symmetry of the system.
+- [01:20:48,386 - 01:20:49,386] We're talking about SU .
+- [01:20:49,386 - 01:20:54,386] But how many generators does SU have?
+- [01:20:54,386 - 01:20:55,386] Good.
+- [01:20:55,386 - 01:20:57,386] It has three generators.
+- [01:20:57,386 - 01:20:59,386] Each generator,
+- [01:20:59,386 - 01:21:04,386] the gauge bosons are in one-to-one correspondence
+- [01:21:04,386 - 01:21:08,386] with the generators of the group.
+- [01:21:08,386 - 01:21:09,386] That's the way it works.
+- [01:21:09,386 - 01:21:10,386] The eight gauge bosons,
+- [01:21:10,386 - 01:21:12,386] the eight gluons,
+- [01:21:12,386 - 01:21:17,386] there's one for each generator of SU .
+- [01:21:17,386 - 01:21:19,386] We only have two gauge bosons,
+- [01:21:19,386 - 01:21:21,386] W plus and W minus,
+- [01:21:21,386 - 01:21:23,386] but we're trying to postulate
+- [01:21:23,386 - 01:21:24,886] that this is a theory
+- [01:21:24,886 - 01:21:26,386] based on the symmetry SU .
+- [01:21:26,386 - 01:21:28,386] We're missing something.
+- [01:21:28,386 - 01:21:29,386] And indeed we are.
+- [01:21:29,386 - 01:21:32,386] We're missing one gauge boson.
+- [01:21:32,386 - 01:21:34,386] It is not the photon.
+- [01:21:34,386 - 01:21:36,386] It is not the photon.
+- [01:21:36,386 - 01:21:38,386] It is...
+- [01:21:38,386 - 01:21:41,386] It is closely related to
+- [01:21:41,386 - 01:21:44,386] the particle called the Z boson,
+- [01:21:44,386 - 01:21:49,386] a third member of the W family,
+- [01:21:49,386 - 01:21:53,386] W plus, W minus, and Z.
+- [01:21:53,386 - 01:21:55,386] We'll come to it next time.
+- [01:21:55,386 - 01:21:59,386] Please remind me if I forget to talk about
+- [01:21:59,386 - 01:22:03,386] the relationship between electric charge,
+- [01:22:03,386 - 01:22:06,386] Z boson, SU and so forth.
+- [01:22:06,386 - 01:22:07,386] We've got to come to that.
+- [01:22:07,386 - 01:22:09,386] But I wasn't...
+- [01:22:09,386 - 01:22:11,386] I was going to talk about it,
+- [01:22:11,386 - 01:22:13,386] but it's getting too late for now.
+- [01:22:13,386 - 01:22:17,386] In fact, it's getting too late to do almost anything.
+- [01:22:19,386 - 01:22:22,386] The other thing I had intended to talk about tonight
+- [01:22:22,386 - 01:22:25,386] was spontaneous symmetry breaking.
+- [01:22:25,386 - 01:22:28,386] Let's talk a little bit about spontaneous symmetry breaking,
+- [01:22:28,386 - 01:22:29,386] just qualitatively,
+- [01:22:29,386 - 01:22:32,386] and we won't try to do anything quantitative tonight.
+- [01:22:32,386 - 01:22:33,386] Just qualitatively.
+- [01:22:33,386 - 01:22:35,386] What is spontaneous symmetry breaking?
+- [01:22:37,386 - 01:22:43,386] I think the best way to
+- [01:22:43,386 - 01:22:49,386] describe it is by illustrating it.
+- [01:22:49,386 - 01:22:53,386] There's a famous illustration,
+- [01:22:53,386 - 01:22:58,386] which is in a sense spontaneous symmetry breaking,
+- [01:22:58,386 - 01:23:01,386] but it's a famous illustration.
+- [01:23:01,386 - 01:23:03,386] It's a famous illustration,
+- [01:23:03,386 - 01:23:05,386] but it's a famous illustration,
+- [01:23:05,386 - 01:23:07,386] it's not really a symmetry breaking,
+- [01:23:07,386 - 01:23:10,386] but if it helps you, okay.
+- [01:23:10,386 - 01:23:15,386] It's actually somewhat correct.
+- [01:23:15,386 - 01:23:19,386] The famous example is people sit down to dinner
+- [01:23:19,386 - 01:23:22,386] around a large table,
+- [01:23:22,386 - 01:23:23,886] and each person has to
+- [01:23:23,886 - 01:23:25,386] the left of them a fork
+- [01:23:25,386 - 01:23:27,386] and to the right of them a fork.
+- [01:23:27,386 - 01:23:28,386] Next person, left of them
+- [01:23:28,386 - 01:23:29,386] and right of them a fork.
+- [01:23:29,386 - 01:23:33,386] And nobody knows whether to go for the left fork,
+- [01:23:33,386 - 01:23:34,386] for the left fork,
+- [01:23:34,386 - 01:23:36,386] or the right fork.
+- [01:23:36,386 - 01:23:39,386] And they sit there, and they sit there,
+- [01:23:39,386 - 01:23:40,386] and they sit there,
+- [01:23:40,386 - 01:23:42,386] and they can't decide what to do,
+- [01:23:42,386 - 01:23:44,386] until all of a sudden,
+- [01:23:44,386 - 01:23:45,886] one of them makes a
+- [01:23:45,886 - 01:23:47,386] little motion toward the right fork,
+- [01:23:47,386 - 01:23:49,386] and then they all go for the right fork.
+- [01:23:49,386 - 01:23:52,386] There was nothing asymmetric to begin with,
+- [01:23:52,386 - 01:23:54,386] but there was a kind of instability.
+- [01:23:54,386 - 01:23:56,386] There was a kind of instability,
+- [01:23:56,386 - 01:24:00,386] two possibilities in instability,
+- [01:24:00,386 - 01:24:02,386] and the instability being such
+- [01:24:02,386 - 01:24:04,386] that when the instability is kicked in,
+- [01:24:04,386 - 01:24:06,386] when it's kicked off,
+- [01:24:06,386 - 01:24:08,386] the whole universe, so to speak,
+- [01:24:08,386 - 01:24:11,386] suddenly goes one way instead of the other way.
+- [01:24:11,386 - 01:24:16,386] So, I will give you an example,
+- [01:24:16,386 - 01:24:20,386] a mathematical example.
+- [01:24:20,386 - 01:24:23,386] A ferromagnet is an example
+- [01:24:23,386 - 01:24:26,386] of spontaneous symmetry breaking.
+- [01:24:26,386 - 01:24:29,386] But let's think, let's start with a very simple example.
+- [01:24:29,386 - 01:24:32,386] The simple example is,
+- [01:24:34,386 - 01:24:39,386] a bunch of spins,
+- [01:24:39,386 - 01:24:43,386] and the spins can either be all up or all,
+- [01:24:43,386 - 01:24:46,386] sorry, the spins can either be up or down.
+- [01:24:46,386 - 01:24:49,386] For the moment, it's not even important
+- [01:24:49,386 - 01:24:51,386] that we're talking about quantum mechanics.
+- [01:24:51,386 - 01:24:56,386] These could be coins, classical coins.
+- [01:24:56,386 - 01:25:01,386] And the coins can either be up or down.
+- [01:25:01,386 - 01:25:04,386] They're laid out on a table,
+- [01:25:04,386 - 01:25:08,386] in a lattice.
+- [01:25:08,386 - 01:25:11,386] Here they are.
+- [01:25:11,386 - 01:25:13,386] And there's an interaction energy
+- [01:25:13,386 - 01:25:15,386] between neighboring coins.
+- [01:25:15,386 - 01:25:17,386] The interaction energy is such
+- [01:25:17,386 - 01:25:20,386] that if the coins, if the neighbors are opposite,
+- [01:25:20,386 - 01:25:23,386] for example, a heads and a tails,
+- [01:25:23,386 - 01:25:25,386] that costs energy.
+- [01:25:25,386 - 01:25:27,386] In other words, there's some kind of force
+- [01:25:27,386 - 01:25:31,386] between the particles, or the spins,
+- [01:25:31,386 - 01:25:32,386] or the coins,
+- [01:25:32,386 - 01:25:34,386] so that if they're opposite,
+- [01:25:34,386 - 01:25:36,386] that costs some energy.
+- [01:25:36,386 - 01:25:39,386] If they're parallel, it costs less energy.
+- [01:25:39,386 - 01:25:42,386] So they like to be parallel.
+- [01:25:42,386 - 01:25:44,386] Energetically, they like to be parallel.
+- [01:25:44,386 - 01:25:47,386] But parallel can mean this way or this way.
+- [01:25:47,386 - 01:25:50,386] Anti-parallel can mean this way or this way.
+- [01:25:50,386 - 01:25:54,386] Anti-parallel costs more energy than parallel.
+- [01:25:54,386 - 01:25:58,386] Now think about the state of lowest energy.
+- [01:25:58,386 - 01:26:00,386] What is the state of lowest energy?
+- [01:26:00,386 - 01:26:02,386] The state of lowest energy
+- [01:26:02,386 - 01:26:04,386] is obviously,
+- [01:26:04,386 - 01:26:10,386] all heads or all tails.
+- [01:26:10,386 - 01:26:13,386] There are two states of lowest energy.
+- [01:26:13,386 - 01:26:16,386] All heads or all tails.
+- [01:26:16,386 - 01:26:18,386] Which one is the ground state?
+- [01:26:18,386 - 01:26:20,386] They're both ground states.
+- [01:26:20,386 - 01:26:24,386] But now, supposing way far away,
+- [01:26:24,386 - 01:26:27,386] off a hundred miles away,
+- [01:26:27,386 - 01:26:31,386] one of the spins is known to be heads.
+- [01:26:31,386 - 01:26:33,386] That one is asymmetric.
+- [01:26:33,386 - 01:26:36,386] Well, normally, under most circumstances,
+- [01:26:36,386 - 01:26:38,386] you would say that one degree of freedom,
+- [01:26:38,386 - 01:26:40,386] very, very far away,
+- [01:26:40,386 - 01:26:42,386] has no effect
+- [01:26:42,386 - 01:26:46,386] on what the properties of the ground state are
+- [01:26:46,386 - 01:26:48,386] far away from that degree of freedom.
+- [01:26:48,386 - 01:26:50,386] That's a typical expectation.
+- [01:26:50,386 - 01:26:51,386] It's usually true.
+- [01:26:51,386 - 01:26:53,386] It's almost always true, ordinarily.
+- [01:26:53,386 - 01:26:56,386] But, in this case,
+- [01:26:56,386 - 01:26:58,386] that one head
+- [01:26:58,386 - 01:27:00,386] will cause the ground state energy
+- [01:27:00,386 - 01:27:02,386] to be different if they're all heads
+- [01:27:02,386 - 01:27:04,386] than if they're all tails.
+- [01:27:04,386 - 01:27:06,386] If they're all heads,
+- [01:27:06,386 - 01:27:09,386] then you'll save one unit of energy,
+- [01:27:09,386 - 01:27:12,386] and so, in seeking its ground state,
+- [01:27:12,386 - 01:27:15,386] this system will tend to all heads
+- [01:27:15,386 - 01:27:17,386] rather than all tails.
+- [01:27:17,386 - 01:27:19,386] Once it's all heads,
+- [01:27:19,386 - 01:27:21,386] then you can forget,
+- [01:27:21,386 - 01:27:24,386] you can, once it's all heads,
+- [01:27:29,386 - 01:27:31,386] then you can start over again,
+- [01:27:31,386 - 01:27:33,386] and say, look,
+- [01:27:33,386 - 01:27:35,386] the lowest energy state of this system is all heads,
+- [01:27:35,386 - 01:27:37,386] it will cost me some energy
+- [01:27:37,386 - 01:27:39,386] to put a tail in there
+- [01:27:39,386 - 01:27:41,386] because it has four neighbors
+- [01:27:41,386 - 01:27:44,386] which are trying to make it a head.
+- [01:27:44,386 - 01:27:47,386] So, the result is
+- [01:27:47,386 - 01:27:49,386] that this kind of system,
+- [01:27:49,386 - 01:27:51,386] although it started with a symmetry,
+- [01:27:51,386 - 01:27:53,386] it started with a symmetry,
+- [01:27:53,386 - 01:27:55,386] heads goes to tails,
+- [01:27:55,386 - 01:27:59,386] asymptotically very, very far away,
+- [01:27:59,386 - 01:28:01,386] boundary conditions,
+- [01:28:01,386 - 01:28:04,386] or just a very, very distant degree of freedom,
+- [01:28:04,386 - 01:28:07,386] will tip off a instability
+- [01:28:07,386 - 01:28:11,386] and put the system into one of the many possible,
+- [01:28:11,386 - 01:28:14,386] in this case, only two possible ground states,
+- [01:28:14,386 - 01:28:16,386] and once it's in that ground state,
+- [01:28:16,386 - 01:28:19,386] then the properties of what goes on in here
+- [01:28:19,386 - 01:28:21,386] are determined by that ground state.
+- [01:28:21,386 - 01:28:23,386] In particular,
+- [01:28:23,386 - 01:28:25,386] a tail will cost you energy
+- [01:28:25,386 - 01:28:28,386] because of the presence of all the heads.
+- [01:28:29,386 - 01:28:31,386] This is the simple,
+- [01:28:31,386 - 01:28:34,386] and the most primitive example
+- [01:28:34,386 - 01:28:36,386] of a spontaneous symmetry breaking.
+- [01:28:36,386 - 01:28:38,386] How is it different
+- [01:28:38,386 - 01:28:41,386] than just an ordinary symmetry breaking?
+- [01:28:41,386 - 01:28:44,386] What would an ordinary symmetry breaking mean?
+- [01:28:44,386 - 01:28:47,386] An ordinary symmetry breaking,
+- [01:28:47,386 - 01:28:50,386] or what we can call an explicit symmetry breaking,
+- [01:28:50,386 - 01:28:52,386] would be a symmetry breaking
+- [01:28:52,386 - 01:28:57,386] if heads had a different energy than tails.
+- [01:28:57,386 - 01:29:00,386] Not pairwise energies,
+- [01:29:00,386 - 01:29:02,386] but just one head by itself.
+- [01:29:02,386 - 01:29:04,386] Supposing that one head by itself
+- [01:29:04,386 - 01:29:07,386] had less energy than a tail,
+- [01:29:07,386 - 01:29:09,386] then of course it would be completely obvious
+- [01:29:09,386 - 01:29:10,386] that the system would,
+- [01:29:10,386 - 01:29:12,386] in its lowest energy state,
+- [01:29:12,386 - 01:29:14,386] be all heads.
+- [01:29:14,386 - 01:29:17,386] And so it would be also the case,
+- [01:29:17,386 - 01:29:19,386] all heads,
+- [01:29:19,386 - 01:29:21,386] but there would be no second ground state
+- [01:29:21,386 - 01:29:23,386] in which they were all tails.
+- [01:29:23,386 - 01:29:26,386] It would be biased by the energy,
+- [01:29:26,386 - 01:29:28,386] or be biased by the energy,
+- [01:29:28,386 - 01:29:30,386] not the one extra point,
+- [01:29:30,386 - 01:29:33,386] or the particle infinitely far away,
+- [01:29:33,386 - 01:29:37,386] but by the local things going on nearby.
+- [01:29:37,386 - 01:29:44,386] So that would be a biased situation
+- [01:29:44,386 - 01:29:46,386] where heads and tails
+- [01:29:46,386 - 01:29:48,386] were not equivalent to each other,
+- [01:29:48,386 - 01:29:50,386] were not energetically the same,
+- [01:29:50,386 - 01:29:52,386] and it's not a spontaneous symmetry breaking,
+- [01:29:52,386 - 01:29:54,386] it's just no symmetry to begin with,
+- [01:29:54,386 - 01:29:56,386] or an explicit symmetry breaking.
+- [01:29:56,386 - 01:29:58,386] Is there any difference
+- [01:29:58,386 - 01:30:00,386] between explicit symmetry breaking
+- [01:30:00,386 - 01:30:02,386] and spontaneous symmetry breaking?
+- [01:30:02,386 - 01:30:04,386] Yes, there is.
+- [01:30:04,386 - 01:30:07,386] There is one phenomena that can happen
+- [01:30:07,386 - 01:30:10,386] when there's spontaneous symmetry breaking
+- [01:30:10,386 - 01:30:11,386] that will not happen
+- [01:30:11,386 - 01:30:13,386] if there's explicit symmetry breaking.
+- [01:30:13,386 - 01:30:16,386] The phenomena is called domain walls.
+- [01:30:16,386 - 01:30:20,386] A domain wall is what happens
+- [01:30:20,386 - 01:30:25,386] if far away out here,
+- [01:30:25,386 - 01:30:27,386] very, very far away,
+- [01:30:27,386 - 01:30:29,386] you insist along this line here
+- [01:30:29,386 - 01:30:31,386] that everybody is heads,
+- [01:30:31,386 - 01:30:32,386] and way out here,
+- [01:30:32,386 - 01:30:36,386] you assume that everybody is tails.
+- [01:30:36,386 - 01:30:39,386] What then is the state of lowest energy?
+- [01:30:39,386 - 01:30:41,386] And then the state of lowest energy
+- [01:30:41,386 - 01:30:44,386] is everybody on this side, tails,
+- [01:30:44,386 - 01:30:46,386] everybody on this side, heads,
+- [01:30:46,386 - 01:30:49,386] and a boundary in between
+- [01:30:49,386 - 01:30:50,386] where heads go from,
+- [01:30:50,386 - 01:30:54,386] where tails go from the boundary,
+- [01:30:54,386 - 01:30:57,386] where you go from tails to heads,
+- [01:30:57,386 - 01:30:59,386] called domain wall.
+- [01:30:59,386 - 01:31:01,386] So the presence of domain wall,
+- [01:31:01,386 - 01:31:02,386] and this would not be the case
+- [01:31:02,386 - 01:31:04,386] if you had explicit symmetry breaking.
+- [01:31:04,386 - 01:31:07,386] If you had explicit symmetry breaking,
+- [01:31:07,386 - 01:31:10,386] then the state of lowest energy
+- [01:31:10,386 - 01:31:12,386] would just be all heads, period.
+- [01:31:12,386 - 01:31:13,386] Wouldn't care that,
+- [01:31:13,386 - 01:31:14,386] wouldn't care very much
+- [01:31:14,386 - 01:31:17,386] that you did this thing over here.
+- [01:31:17,386 - 01:31:19,386] So spontaneous symmetry breaking,
+- [01:31:19,386 - 01:31:20,386] in this case,
+- [01:31:20,386 - 01:31:22,386] the signal of it
+- [01:31:22,386 - 01:31:25,386] is the existence under certain circumstances,
+- [01:31:25,386 - 01:31:28,386] certain kinds of experimental setups,
+- [01:31:28,386 - 01:31:31,386] would lead to the existence of domain walls,
+- [01:31:31,386 - 01:31:33,386] where on one side you had one thing,
+- [01:31:33,386 - 01:31:35,386] on the other side you had the other thing.
+- [01:31:35,386 - 01:31:38,386] And so it would be the presence of domain walls
+- [01:31:38,386 - 01:31:40,386] which would be the signal
+- [01:31:40,386 - 01:31:44,386] that there was a spontaneous symmetry breaking.
+- [01:31:44,386 - 01:31:46,386] All right, so this is the basic idea
+- [01:31:46,386 - 01:31:48,386] of spontaneous symmetry breaking,
+- [01:31:48,386 - 01:31:50,386] a symmetry of the system,
+- [01:31:50,386 - 01:31:52,386] but with an instability,
+- [01:31:52,386 - 01:31:55,386] or an instability
+- [01:31:55,386 - 01:31:57,386] that you can kick off
+- [01:31:57,386 - 01:31:59,386] by going very far away
+- [01:31:59,386 - 01:32:01,386] and just fiddling with something very far away,
+- [01:32:01,386 - 01:32:05,386] and that will fix everything.
+- [01:32:05,386 - 01:32:09,386] As I said, the signal or the signature of it
+- [01:32:09,386 - 01:32:12,386] is the existence of domain walls.
+- [01:32:12,386 - 01:32:14,386] Next time we'll talk about other kinds
+- [01:32:14,386 - 01:32:16,386] of spontaneous symmetry breaking
+- [01:32:16,386 - 01:32:20,386] and come to the Higgs phenomenon.
+- [01:32:20,386 - 01:32:23,386] The Higgs phenomenon is a phenomenon
+- [01:32:23,386 - 01:32:25,386] of spontaneous symmetry breaking,
+- [01:32:25,386 - 01:32:26,386] and we'll talk about it next time.
+- [01:32:26,386 - 01:32:27,386] So,
+- [01:32:27,386 - 01:32:31,386] just keep this example in mind.
+- [01:32:32,386 - 01:32:36,386] For more, please visit us at stanford.edu.
