@@ -1,0 +1,2124 @@
+# Transcript
+
+Source: supplementary/string_theory/2010_fall_string_theory_and_m_theory/099 - Lecture 5 ｜ String Theory and M-Theory [-I7PjKyCnI0].mkv
+
+- [00:00:00,000 - 00:00:07,000] Stanford University
+- [00:00:09,000 - 00:00:13,000] We haven't discussed units at all.
+- [00:00:13,000 - 00:00:17,000] And let's discuss units a little bit.
+- [00:00:17,000 - 00:00:26,000] In Hadron physics, we've discussed the idea that a
+- [00:00:26,000 - 00:00:35,000] Hadron is a string, and that it can be excited.
+- [00:00:35,000 - 00:00:37,500] That it can be excited by setting
+- [00:00:37,500 - 00:00:40,000] it into rotation, or setting it into vibration,
+- [00:00:40,000 - 00:00:43,000] by exciting the harmonic oscillators
+- [00:00:43,000 - 00:00:46,000] that make up the string.
+- [00:00:47,000 - 00:00:51,500] The stringy character of the proton,
+- [00:00:51,500 - 00:00:56,000] or whatever it happens to be.
+- [00:00:56,000 - 00:01:00,000] There's a certain energy scale, or a certain
+- [00:01:00,000 - 00:01:04,000] amount of energy, that each excitation will give you.
+- [00:01:04,000 - 00:01:07,000] In particular, the energy jump from the
+- [00:01:07,000 - 00:01:10,000] ground state to the first excited state.
+- [00:01:10,000 - 00:01:13,000] How much is it? What does it depend on?
+- [00:01:13,000 - 00:01:17,000] Well, in a string theory, there's really only one thing.
+- [00:01:17,000 - 00:01:19,000] There's only one parameter.
+- [00:01:19,000 - 00:01:21,000] We talked about it a little bit.
+- [00:01:21,000 - 00:01:25,000] We discussed the idea that if you stretch a string,
+- [00:01:25,000 - 00:01:29,000] let me just go back a little ways.
+- [00:01:29,000 - 00:01:36,000] If you stretch a string from one point to another,
+- [00:01:36,000 - 00:01:40,000] then it behaves pretty much like a spring.
+- [00:01:40,000 - 00:01:42,000] It does behave like a spring.
+- [00:01:42,000 - 00:01:46,000] It has an energy, if this is a non-relativistic string,
+- [00:01:46,000 - 00:01:51,000] just an ordinary non-relativistic string, a rubber band,
+- [00:01:51,000 - 00:01:54,000] or an idealized rubber band,
+- [00:01:54,000 - 00:01:57,000] its energy, its potential energy,
+- [00:01:57,000 - 00:01:59,000] let's call it E,
+- [00:01:59,000 - 00:02:06,000] what does Hooke's Law give for the energy?
+- [00:02:06,000 - 00:02:11,000] Some k, which is some spring constant,
+- [00:02:11,000 - 00:02:15,000] times the square of the distance between the two.
+- [00:02:16,000 - 00:02:19,000] So it's the distance between the endpoints.
+- [00:02:19,000 - 00:02:21,000] Missing something.
+- [00:02:21,000 - 00:02:24,000] Factor of two.
+- [00:02:24,000 - 00:02:26,000] Okay.
+- [00:02:26,000 - 00:02:29,000] Yeah, that's the potential energy that's in a string.
+- [00:02:29,000 - 00:02:33,000] And we've identified energy,
+- [00:02:33,000 - 00:02:35,000] this non-relativistic energy,
+- [00:02:35,000 - 00:02:39,000] we've identified it not with the mass of the string,
+- [00:02:39,000 - 00:02:42,000] but with the square of the mass of the string.
+- [00:02:42,000 - 00:02:43,500] Why? Because we're thinking about
+- [00:02:43,500 - 00:02:45,000] this in a frame of reference
+- [00:02:46,000 - 00:02:48,000] that the string is moving very, very fast,
+- [00:02:48,000 - 00:02:51,000] and when non-relativistic physics actually works
+- [00:02:51,000 - 00:02:53,000] for the motion of the string
+- [00:02:53,000 - 00:02:55,000] perpendicular to the direction of motion.
+- [00:02:55,000 - 00:02:57,000] So let's keep that in mind.
+- [00:02:57,000 - 00:02:58,500] We're looking at a string that's
+- [00:02:58,500 - 00:03:00,000] going down the z-axis like this.
+- [00:03:00,000 - 00:03:04,000] It's been stretched to a distance x,
+- [00:03:04,000 - 00:03:11,000] or let's call it l.
+- [00:03:11,000 - 00:03:13,000] Let's call it a distance l.
+- [00:03:13,000 - 00:03:15,000] This becomes l squared.
+- [00:03:16,000 - 00:03:19,000] And we've identified the energy
+- [00:03:19,000 - 00:03:22,000] with the square of the mass,
+- [00:03:22,000 - 00:03:27,000] l squared.
+- [00:03:27,000 - 00:03:30,000] There is some spring constant.
+- [00:03:30,000 - 00:03:32,000] Okay.
+- [00:03:32,000 - 00:03:36,000] That spring constant I'll just call k.
+- [00:03:36,000 - 00:03:39,000] It says that the mass of the string,
+- [00:03:39,000 - 00:03:41,000] which in the rest frame,
+- [00:03:41,000 - 00:03:42,500] in the frame of rest at
+- [00:03:42,500 - 00:03:44,000] which the string is at rest,
+- [00:03:44,000 - 00:03:45,000] that mass is
+- [00:03:45,000 - 00:03:47,000] the usual energy.
+- [00:03:47,000 - 00:03:48,500] That's going to be the
+- [00:03:48,500 - 00:03:50,000] square root of that spring constant
+- [00:03:50,000 - 00:03:52,000] times l,
+- [00:03:52,000 - 00:03:54,000] perhaps divided by the square root of 2.
+- [00:03:54,000 - 00:03:57,000] I'm not interested in square roots of 2 now.
+- [00:03:57,000 - 00:04:01,000] So the mass of a stretched string
+- [00:04:01,000 - 00:04:03,000] is proportional to its length
+- [00:04:03,000 - 00:04:07,000] times some parameter,
+- [00:04:07,000 - 00:04:10,000] which I've called the square root of k.
+- [00:04:10,000 - 00:04:12,000] The square root of k has another name.
+- [00:04:12,000 - 00:04:14,000] It's called the tension.
+- [00:04:15,000 - 00:04:17,000] It's the tension in the string,
+- [00:04:17,000 - 00:04:20,000] the energy per unit length.
+- [00:04:20,000 - 00:04:21,000] Take a mass,
+- [00:04:21,000 - 00:04:23,000] now we have a string at rest.
+- [00:04:23,000 - 00:04:24,500] We're not looking at it in
+- [00:04:24,500 - 00:04:26,000] this frame in which it's moving fast.
+- [00:04:26,000 - 00:04:28,000] Its energy is its mass.
+- [00:04:28,000 - 00:04:30,000] We stretch it.
+- [00:04:30,000 - 00:04:32,000] We stretch it out.
+- [00:04:32,000 - 00:04:38,000] And the energy of it grows proportional to the length.
+- [00:04:38,000 - 00:04:40,000] It's like surface tension,
+- [00:04:40,000 - 00:04:43,000] except now it's linear tension instead of surface tension.
+- [00:04:43,000 - 00:04:45,000] Energy proportional to length
+- [00:04:45,000 - 00:04:47,000] is called the coefficient of the string.
+- [00:04:47,000 - 00:04:49,000] The coefficient is called tension.
+- [00:04:49,000 - 00:04:51,000] It's the tension in the string.
+- [00:04:51,000 - 00:04:53,000] And so there's a tension,
+- [00:04:53,000 - 00:04:56,000] which is just the square root of k.
+- [00:04:56,000 - 00:04:57,000] We don't even need to
+- [00:04:57,000 - 00:04:58,000] call it square root of k.
+- [00:04:58,000 - 00:05:02,000] We can just call it tension.
+- [00:05:02,000 - 00:05:06,000] Now, how much energy do we get
+- [00:05:06,000 - 00:05:09,000] for each oscillation?
+- [00:05:09,000 - 00:05:11,000] For each oscillation,
+- [00:05:11,000 - 00:05:13,000] oh, yeah, what are the units
+- [00:05:13,000 - 00:05:15,000] of the square root of k?
+- [00:05:15,000 - 00:05:18,000] Let's work in our favorite units
+- [00:05:18,000 - 00:05:20,000] in which the speed of light
+- [00:05:20,000 - 00:05:23,000] and Planck's constant are equal to one.
+- [00:05:23,000 - 00:05:24,000] In those units,
+- [00:05:24,000 - 00:05:29,000] energy has units of one over length.
+- [00:05:29,000 - 00:05:33,000] So if energy has units of one over length,
+- [00:05:33,000 - 00:05:35,000] what's the units of k here,
+- [00:05:35,000 - 00:05:37,000] the square root of k,
+- [00:05:37,000 - 00:05:39,000] the string tension?
+- [00:05:39,000 - 00:05:42,000] Yeah, it's energy squared,
+- [00:05:42,000 - 00:05:44,000] or one over length squared.
+- [00:05:44,000 - 00:05:47,000] Energy squared, if you like.
+- [00:05:47,000 - 00:05:50,000] So this object over here,
+- [00:05:50,000 - 00:05:52,000] let's call it t, t for tension.
+- [00:05:52,000 - 00:05:56,000] That tension in the string
+- [00:05:56,000 - 00:06:00,000] is the thing which sets the fundamental scale.
+- [00:06:00,000 - 00:06:08,000] And it sets the scale for everything.
+- [00:06:08,000 - 00:06:10,000] It sets the scale.
+- [00:06:10,000 - 00:06:12,000] It has units of energy squared.
+- [00:06:12,000 - 00:06:13,000] And I'll tell you what it does.
+- [00:06:13,000 - 00:06:17,000] It tells you that each excited state,
+- [00:06:17,000 - 00:06:20,000] each time you excite the string by one unit,
+- [00:06:20,000 - 00:06:23,000] it adds to its mass squared
+- [00:06:23,000 - 00:06:25,000] essentially that tension.
+- [00:06:25,000 - 00:06:27,000] It adds to the...
+- [00:06:27,000 - 00:06:29,000] So the thing which has units,
+- [00:06:29,000 - 00:06:32,000] the thing which determines the units of the theory,
+- [00:06:32,000 - 00:06:34,000] are this string tension.
+- [00:06:34,000 - 00:06:37,000] The bigger the string tension,
+- [00:06:37,000 - 00:06:39,000] the bigger the jump in mass
+- [00:06:39,000 - 00:06:41,000] when you excite something.
+- [00:06:41,000 - 00:06:43,000] The same thing,
+- [00:06:43,000 - 00:06:45,000] the same thing is true of an ordinary spring, incidentally.
+- [00:06:45,000 - 00:06:48,000] If you have an ordinary spring,
+- [00:06:48,000 - 00:06:51,000] if you have an ordinary spring,
+- [00:06:51,000 - 00:06:55,000] let's take the mass of the spring to be one.
+- [00:06:55,000 - 00:06:57,000] The spring constant, call it k.
+- [00:06:57,000 - 00:07:00,000] The frequency is just,
+- [00:07:00,000 - 00:07:02,000] well, it's the square root of k,
+- [00:07:02,000 - 00:07:04,000] k over m.
+- [00:07:04,000 - 00:07:09,000] The frequency is proportional to this tension.
+- [00:07:09,000 - 00:07:10,500] And of course the energy that
+- [00:07:10,500 - 00:07:12,000] you bump up the string by,
+- [00:07:12,000 - 00:07:14,000] every time you excite it,
+- [00:07:14,000 - 00:07:17,000] is also proportional to omega.
+- [00:07:17,000 - 00:07:19,000] So the energy jump,
+- [00:07:19,000 - 00:07:22,000] the energy jump between the ground state,
+- [00:07:22,000 - 00:07:23,000] the first excited state,
+- [00:07:23,000 - 00:07:25,000] next excited state, and so forth,
+- [00:07:25,000 - 00:07:27,000] is controlled,
+- [00:07:27,000 - 00:07:32,000] the unit is controlled by this string tension.
+- [00:07:32,000 - 00:07:33,000] Okay, you could ask,
+- [00:07:33,000 - 00:07:34,000] what is the string...
+- [00:07:34,000 - 00:07:37,000] And string tension is force per unit,
+- [00:07:37,000 - 00:07:38,000] or sorry,
+- [00:07:38,000 - 00:07:41,000] is energy per unit length.
+- [00:07:41,000 - 00:07:47,000] You know another name for energy per unit length?
+- [00:07:47,000 - 00:07:50,000] Energy per unit length.
+- [00:07:50,000 - 00:07:52,000] Force.
+- [00:07:52,000 - 00:07:54,000] Force.
+- [00:07:54,000 - 00:07:56,000] Force times length is energy.
+- [00:07:56,000 - 00:07:57,000] Force times work,
+- [00:07:57,000 - 00:08:02,000] force times distance is work.
+- [00:08:02,000 - 00:08:04,000] Right.
+- [00:08:04,000 - 00:08:08,000] So all this tension is,
+- [00:08:08,000 - 00:08:10,000] is if you pull this apart,
+- [00:08:11,000 - 00:08:14,000] that's how much force is pulling you back.
+- [00:08:14,000 - 00:08:16,000] That's how much force is pulling you back.
+- [00:08:16,000 - 00:08:20,000] It's the force within the string.
+- [00:08:20,000 - 00:08:21,000] Another way to say it is,
+- [00:08:21,000 - 00:08:22,000] if you took one of these strings
+- [00:08:22,000 - 00:08:24,000] at the surface of the earth,
+- [00:08:24,000 - 00:08:27,000] and you anchored it at some place,
+- [00:08:27,000 - 00:08:30,000] and suspended a weight from it,
+- [00:08:30,000 - 00:08:35,000] it would be the weight that the string could support.
+- [00:08:35,000 - 00:08:37,000] A heavier weight would just shrink,
+- [00:08:37,000 - 00:08:39,000] or would fall down.
+- [00:08:39,000 - 00:08:42,000] A smaller weight would be pulled up.
+- [00:08:42,000 - 00:08:44,000] Okay.
+- [00:08:44,000 - 00:08:46,000] That's the character of these strings.
+- [00:08:46,000 - 00:08:48,000] If you had one in the laboratory,
+- [00:08:48,000 - 00:08:50,000] the force,
+- [00:08:50,000 - 00:08:53,000] the weight that it can support,
+- [00:08:53,000 - 00:08:57,000] is independent of its length, incidentally.
+- [00:08:57,000 - 00:08:59,000] You see that from this formula.
+- [00:08:59,000 - 00:09:01,000] You see that from the formula that
+- [00:09:01,000 - 00:09:03,000] mass or energy,
+- [00:09:03,000 - 00:09:04,000] same thing,
+- [00:09:04,000 - 00:09:07,000] energy is equal to
+- [00:09:07,000 - 00:09:08,000] spring con...
+- [00:09:08,000 - 00:09:11,000] or tension times length.
+- [00:09:13,000 - 00:09:17,000] Force is energy per unit length.
+- [00:09:18,000 - 00:09:22,000] Energy per unit length is force.
+- [00:09:22,000 - 00:09:25,000] And so the force that this string can support
+- [00:09:25,000 - 00:09:26,000] is independent of its length.
+- [00:09:26,000 - 00:09:29,000] That's the character of these strings.
+- [00:09:30,000 - 00:09:31,000] Okay, so then you could ask,
+- [00:09:31,000 - 00:09:35,000] how much weight
+- [00:09:35,000 - 00:09:37,000] at the surface of the earth,
+- [00:09:38,000 - 00:09:41,000] how much weight could a
+- [00:09:41,000 - 00:09:44,000] a hadron, a meson,
+- [00:09:44,000 - 00:09:46,000] if you could somehow anchor
+- [00:09:46,000 - 00:09:49,000] one of the quarks in a meson,
+- [00:09:49,000 - 00:09:52,000] to some support over here,
+- [00:09:52,000 - 00:09:53,000] the ceiling,
+- [00:09:53,000 - 00:09:56,000] how much weight could a meson support?
+- [00:09:56,000 - 00:09:59,000] And the answer is about a truck.
+- [00:09:59,000 - 00:10:04,000] About a, I can't remember if it's an 18-wheel truck,
+- [00:10:04,000 - 00:10:05,000] or a 16-wheel truck,
+- [00:10:05,000 - 00:10:07,000] or maybe it's just a half-ton panel truck,
+- [00:10:07,000 - 00:10:08,000] I don't remember,
+- [00:10:08,000 - 00:10:10,000] but it's that order of magnitude.
+- [00:10:12,000 - 00:10:15,000] That's what a meson could support.
+- [00:10:17,000 - 00:10:19,000] So they're pretty strong.
+- [00:10:19,000 - 00:10:22,000] They're microscopic little things,
+- [00:10:22,000 - 00:10:24,000] but they're pretty darn strong.
+- [00:10:24,000 - 00:10:26,000] And the stronger they are,
+- [00:10:26,000 - 00:10:30,000] the higher the frequency of the oscillations,
+- [00:10:30,000 - 00:10:33,000] and so the larger the gap between
+- [00:10:33,000 - 00:10:36,000] the lowest energy state and the highest energy state,
+- [00:10:36,000 - 00:10:38,000] how do I actually know this?
+- [00:10:38,000 - 00:10:41,000] Did anybody ever support a truck with a hadron?
+- [00:10:41,000 - 00:10:42,000] Of course not.
+- [00:10:42,000 - 00:10:45,000] What we actually know is the amount of energy
+- [00:10:45,000 - 00:10:47,000] that it takes to excite string.
+- [00:10:47,000 - 00:10:50,000] And from that we deduce what the tension is,
+- [00:10:50,000 - 00:10:51,000] and from the tension,
+- [00:10:51,000 - 00:10:54,000] I can then tell you what you can support.
+- [00:10:54,000 - 00:10:59,000] These are not the strings that string theorists imagine
+- [00:10:59,000 - 00:11:02,000] are associated with really fundamental problems.
+- [00:11:02,000 - 00:11:04,000] They're not the strings that string theorists imagine
+- [00:11:04,000 - 00:11:06,000] are associated with really fundamental problems.
+- [00:11:06,000 - 00:11:08,000] They're just regular particles like gravitons,
+- [00:11:08,000 - 00:11:10,000] photons and so forth.
+- [00:11:10,000 - 00:11:15,000] Those strings are much, much stronger.
+- [00:11:17,000 - 00:11:19,000] Very much stronger.
+- [00:11:19,000 - 00:11:22,000] The tension in them is vastly larger.
+- [00:11:25,000 - 00:11:28,000] If, again, you took the Earth,
+- [00:11:31,000 - 00:11:33,000] and you supported a weight,
+- [00:11:33,000 - 00:11:35,000] namely the weight of the whole galaxy,
+- [00:11:36,000 - 00:11:38,000] galaxy
+- [00:11:39,580 - 00:11:41,660] Now of course this is nonsense
+- [00:11:42,620 - 00:11:44,240] It's not the galaxy that's going to
+- [00:11:44,240 - 00:11:45,860] move. It's the earth that's going to move
+- [00:11:46,260 - 00:11:49,270] but if you could concentrate if you could concentrate
+- [00:11:49,270 - 00:11:52,280] a mass of the galaxy in some small volume and
+- [00:11:53,780 - 00:11:56,280] Make the earth heavy enough now you say if
+- [00:11:56,280 - 00:11:58,780] I make the earth heavier I increase its gravitational field
+- [00:11:59,480 - 00:12:02,510] Well, not necessarily so we can make the earth
+- [00:12:02,510 - 00:12:05,540] much bigger, but keep its gravitational field the same
+- [00:12:06,000 - 00:12:08,480] If you could somehow keep the gravitational
+- [00:12:09,600 - 00:12:12,640] Acceleration the acceleration due to gravity the same than the weight
+- [00:12:12,640 - 00:12:15,680] that you could support would be about the weight of the galaxy
+- [00:12:16,740 - 00:12:19,700] so the strings that we're talking about in
+- [00:12:20,220 - 00:12:23,680] Fundamental string theory of vastly higher intention
+- [00:12:23,680 - 00:12:27,140] much higher intention the meaning of that is
+- [00:12:27,720 - 00:12:31,310] That the energy in an excitation to excite the
+- [00:12:31,310 - 00:12:34,900] string is much much larger. These are much stiffer strings
+- [00:12:34,900 - 00:12:38,260] They have much much larger spring constants
+- [00:12:38,260 - 00:12:41,620] and therefore much larger frequencies of oscillation
+- [00:12:42,620 - 00:12:44,620] if larger frequencies of oscillation
+- [00:12:45,199 - 00:12:47,199] than larger energies in
+- [00:12:47,760 - 00:12:50,140] Exciting them how much energy?
+- [00:12:51,060 - 00:12:54,290] Well, the thinking goes that it's probably somewhere is
+- [00:12:54,290 - 00:12:57,520] up near the Planck energy if we're talking about gravitons
+- [00:12:58,740 - 00:13:00,740] It's the gravitational scale
+- [00:13:01,160 - 00:13:02,950] Does everybody know what the Planck
+- [00:13:02,950 - 00:13:04,740] energy is? I know I know
+- [00:13:04,900 - 00:13:07,419] You've heard of it. Do you know actually what it
+- [00:13:07,419 - 00:13:09,939] is first of all in number first of all in?
+- [00:13:10,680 - 00:13:13,060] Numerically and second of all what it actually
+- [00:13:14,180 - 00:13:16,180] Where it comes from?
+- [00:13:19,220 - 00:13:21,220] Times C squared
+- [00:13:22,680 - 00:13:26,500] Right that's a fairly big energy it's enough to
+- [00:13:29,460 - 00:13:31,460] That's a car bomb
+- [00:13:32,000 - 00:13:34,000] boom
+- [00:13:34,900 - 00:13:37,900] How much we didn't hear it 10 to the minus 5 grams 10
+- [00:13:37,900 - 00:13:40,900] to the minus 5 grams and then you take that in square and
+- [00:13:40,900 - 00:13:42,900] Multiply it by the square of the speed of light
+- [00:13:43,319 - 00:13:44,560] right
+- [00:13:44,560 - 00:13:47,069] But when I asked you if you know what the Planck
+- [00:13:47,069 - 00:13:49,579] energy is or the Planck length or the Planck whatever it is
+- [00:13:49,579 - 00:13:52,040] I was asking a more theoretical question. I
+- [00:13:52,579 - 00:13:54,579] Was asking do you know?
+- [00:13:54,780 - 00:13:58,600] What it is in terms of the other constants of nature. Maybe
+- [00:13:58,600 - 00:14:02,420] we should go through that. I mean this is this is worth doing
+- [00:14:05,819 - 00:14:07,819] So how long are these strings?
+- [00:14:08,040 - 00:14:08,840] Ah
+- [00:14:08,840 - 00:14:11,560] Okay dot. That's the other question. That's the other
+- [00:14:11,560 - 00:14:14,280] question the stiffer they are the smaller they are
+- [00:14:15,480 - 00:14:16,620] now of course, you can
+- [00:14:16,620 - 00:14:17,760] stretch them out to any length
+- [00:14:18,439 - 00:14:21,739] There's no limit to what you can stretch them to but if you
+- [00:14:21,739 - 00:14:25,040] ask how much in their ground-state and remember things in their ground state
+- [00:14:25,040 - 00:14:26,360] oscillate
+- [00:14:26,360 - 00:14:28,330] How much do they oscillate in the
+- [00:14:28,330 - 00:14:30,300] ground-state then? What's the what's the mean?
+- [00:14:31,060 - 00:14:33,960] fluctuation in the size of these strings
+- [00:14:33,960 - 00:14:37,780] the vibrations of them, then the larger
+- [00:14:37,780 - 00:14:41,600] the spring constant, the smaller they are.
+- [00:14:41,600 - 00:14:45,120] They're much stiffer, much harder to pull
+- [00:14:45,120 - 00:14:48,640] apart. Pulling this thing apart by one
+- [00:14:48,640 - 00:14:53,100] centimeter may cause you, will cause a
+- [00:14:53,100 - 00:14:57,560] lot of, the smaller the bigger the
+- [00:14:57,560 - 00:15:00,370] spring constant is. Alright, so how big
+- [00:15:00,370 - 00:15:03,180] do people think they are? Oh, somewhere's of
+- [00:15:03,180 - 00:15:06,980] order the Planck length. The Planck mass,
+- [00:15:06,980 - 00:15:10,780] the Planck length. How fast is one vibration?
+- [00:15:10,780 - 00:15:14,090] The Planck time. Okay, so let's talk
+- [00:15:14,090 - 00:15:17,400] about these Planck units. There's some reason
+- [00:15:17,400 - 00:15:19,319] to believe it's a little bit smaller than
+- [00:15:19,319 - 00:15:21,239] that. Maybe a factor of 10, maybe a
+- [00:15:21,239 - 00:15:24,479] factor of 100 smaller, but that's
+- [00:15:24,479 - 00:15:27,719] a fine point. So let's talk
+- [00:15:27,719 - 00:15:29,129] about what the Planck length is. I didn't
+- [00:15:29,129 - 00:15:30,540] prepare this, so we're gonna have to work
+- [00:15:30,540 - 00:15:33,140] it out in real time.
+- [00:15:33,180 - 00:15:36,819] What is the Planck, Planck length?
+- [00:15:36,819 - 00:15:40,459] What are Planck units, first of all?
+- [00:15:43,579 - 00:15:48,599] What are any units? In physics we need
+- [00:15:48,599 - 00:15:53,620] to have three units, mass, length, and time.
+- [00:15:54,560 - 00:15:58,550] And our usual choice of units is, the usual
+- [00:15:58,550 - 00:16:02,540] units that we use in a laboratory, are not
+- [00:16:03,180 - 00:16:07,370] determined by any fundamental physics. The meter
+- [00:16:07,370 - 00:16:11,560] is a convenient unit for measuring rope.
+- [00:16:11,560 - 00:16:13,930] Okay? That's where it came from, measuring
+- [00:16:13,930 - 00:16:16,300] rope. You measure rope like that, or cloth,
+- [00:16:16,300 - 00:16:21,499] or whatever it is. So no doubt it
+- [00:16:21,499 - 00:16:26,699] originated from the length of a human arm, probably.
+- [00:16:26,699 - 00:16:29,119] A foot, of course, is also a similar
+- [00:16:29,119 - 00:16:31,540] kind of unit, and I assume came from somebody's
+- [00:16:31,540 - 00:16:32,500] foot, the king's foot.
+- [00:16:33,180 - 00:16:37,590] So what's the real physics, then? Or what's the
+- [00:16:37,590 - 00:16:42,000] real science of what a meter is? The real
+- [00:16:42,000 - 00:16:45,320] science is, how many atoms does it take to
+- [00:16:45,320 - 00:16:48,640] make a length of an arm, or a useful arm?
+- [00:16:48,640 - 00:16:50,710] Has nothing whatever to do with any fundamental
+- [00:16:50,710 - 00:16:52,780] physics, has to do with biology, how long
+- [00:16:52,780 - 00:16:56,290] it takes to make an arm. Not a very
+- [00:16:56,290 - 00:16:59,800] deep unit. That's mass. Mass, same thing, a kilogram
+- [00:16:59,800 - 00:17:01,160] is a kind of weight that
+- [00:17:01,160 - 00:17:02,520] you can manipulate in the laboratory.
+- [00:17:03,180 - 00:17:05,659] and a second is about the time
+- [00:17:05,659 - 00:17:08,139] that you could measure with a pendulum
+- [00:17:08,139 - 00:17:10,939] That's it, that's where they came from,
+- [00:17:10,939 - 00:17:13,740] and they have no deeper meaning than that
+- [00:17:13,740 - 00:17:18,240] We would like, for really fundamental reasons in physics,
+- [00:17:18,240 - 00:17:22,740] to choose units which have some very fundamental meaning
+- [00:17:22,740 - 00:17:26,020] Now, for example, and if we do, then
+- [00:17:26,020 - 00:17:29,300] many of our equations will be much simpler
+- [00:17:29,300 - 00:17:34,300] For example, if the size of a
+- [00:17:34,300 - 00:17:39,300] proton comes into various equations in nuclear physics
+- [00:17:39,300 - 00:17:41,680] and the size of the proton
+- [00:17:41,680 - 00:17:44,060] is 10 to the minus 13 centimeters
+- [00:17:44,060 - 00:17:46,479] If we work in centimeters, or 10 to the minus
+- [00:17:46,479 - 00:17:48,899] 15 meters, there's going to be 10 to the minus 15
+- [00:17:48,899 - 00:17:52,759] It's not just 10 to the minus 15, there's
+- [00:17:52,759 - 00:17:56,620] 1.73498, and physics is going to be very messy
+- [00:17:56,620 - 00:17:59,020] On the other hand, there's nothing to prevent us
+- [00:17:59,020 - 00:17:59,280] from
+- [00:17:59,280 - 00:18:02,400] saying, let's use the unit in which
+- [00:18:02,400 - 00:18:05,520] the radius of the proton is exactly 1
+- [00:18:05,520 - 00:18:08,140] Then nuclear physics will turn out to
+- [00:18:08,140 - 00:18:10,760] look a little bit simpler, and it will
+- [00:18:10,760 - 00:18:13,760] Nuclear physics will turn out to be a little bit simpler,
+- [00:18:13,760 - 00:18:16,760] but atomic physics won't look a hell of a lot simpler
+- [00:18:16,760 - 00:18:22,880] The physics of sub-nuclear particles, sub-hedronic
+- [00:18:22,880 - 00:18:29,000] particles will not look a lot simpler
+- [00:18:29,000 - 00:18:31,760] There's nothing universal about the proton
+- [00:18:31,760 - 00:18:34,240] The proton is just some particle, that's all
+- [00:18:34,240 - 00:18:36,240] Why use the proton instead of
+- [00:18:36,240 - 00:18:38,240] some other particle? No good reason
+- [00:18:38,240 - 00:18:43,240] So there's nothing really universal about the proton, and the rules of physics
+- [00:18:43,240 - 00:18:48,240] will not in any way be especially simple if we use the proton
+- [00:18:48,240 - 00:18:53,240] Time, same thing
+- [00:18:53,240 - 00:18:56,020] So we would like three units
+- [00:18:56,020 - 00:18:58,800] which have some deep fundamental significance
+- [00:18:59,000 - 00:19:03,120] It's equivalent to saying, we would like to choose
+- [00:19:03,120 - 00:19:07,240] three constants of nature and set them equal to one
+- [00:19:07,240 - 00:19:11,300] It's completely equivalent to choosing three units to choose
+- [00:19:11,300 - 00:19:15,360] three constants of nature and set them equal to one
+- [00:19:15,360 - 00:19:18,760] Constants of nature now mean dimensional constants
+- [00:19:18,760 - 00:19:19,480] All right
+- [00:19:19,480 - 00:19:21,260] The size of the proton is
+- [00:19:21,260 - 00:19:23,040] 1, but that's not a good one
+- [00:19:23,040 - 00:19:24,920] You want to use things which
+- [00:19:24,920 - 00:19:26,800] are really, which really are very universal
+- [00:19:26,800 - 00:19:27,760] Three constants
+- [00:19:27,760 - 00:19:28,280] There are three constants which are universal, and
+- [00:19:28,280 - 00:19:28,800] there are three constants which are not universal
+- [00:19:28,800 - 00:19:31,140] There are three constants in nature which are
+- [00:19:31,140 - 00:19:33,480] truly universal, and I'll tell you what they are
+- [00:19:33,480 - 00:19:37,040] The first constant is the speed of light
+- [00:19:37,040 - 00:19:38,639] Why do I say it's universal?
+- [00:19:38,639 - 00:19:41,199] Because there's a rule, and the rule is
+- [00:19:41,199 - 00:19:43,760] nothing can move faster than the speed of light
+- [00:19:43,760 - 00:19:44,639] Nothing
+- [00:19:44,639 - 00:19:48,179] Everything moves, every velocity of every material
+- [00:19:48,179 - 00:19:51,720] object is bounded by the speed of light
+- [00:19:51,720 - 00:19:53,500] The use of the word every there
+- [00:19:53,500 - 00:19:55,280] tells you there's something fundamental about it
+- [00:19:55,280 - 00:19:56,420] That there's something, whether it's protons
+- [00:19:56,420 - 00:19:57,560] or electrons or photons, it's something fundamental
+- [00:19:57,560 - 00:19:58,040] It's something fundamental
+- [00:19:58,040 - 00:19:58,800] It's something fundamental
+- [00:19:58,800 - 00:20:02,920] It's something that's the same in every reference
+- [00:20:02,920 - 00:20:07,040] frame, and it's the same for all particles
+- [00:20:07,040 - 00:20:08,839] Now, when I say it's the same for all
+- [00:20:08,839 - 00:20:10,639] particles, you say, wait a minute, wait a minute
+- [00:20:10,639 - 00:20:12,560] Protons don't move with the speed of light
+- [00:20:12,560 - 00:20:15,200] The limiting velocity for a proton
+- [00:20:15,200 - 00:20:17,840] is the same for all particles
+- [00:20:17,840 - 00:20:19,140] So, I mean, I don't know
+- [00:20:19,140 - 00:20:20,440] that it's the same for all particles
+- [00:20:20,440 - 00:20:23,520] But it's the same for all particles
+- [00:20:23,520 - 00:20:25,120] And I think that's the point
+- [00:20:25,120 - 00:20:26,159] I think that's the point
+- [00:20:26,159 - 00:20:27,120] That's the point
+- [00:20:27,120 - 00:20:28,040] I think that's the point
+- [00:20:28,040 - 00:20:29,920] That the limiting velocity for a
+- [00:20:29,920 - 00:20:31,800] proton is the speed of light
+- [00:20:31,800 - 00:20:34,040] So in that sense, it's very universal
+- [00:20:34,040 - 00:20:35,120] So that's the first thing
+- [00:20:35,120 - 00:20:38,920] We want to set c equal to 1
+- [00:20:38,920 - 00:20:40,639] Sounds like a good thing to do
+- [00:20:40,639 - 00:20:42,800] And we do that all the time, of course
+- [00:20:42,800 - 00:20:47,320] The next thing which is very universal is Planck's constant
+- [00:20:47,320 - 00:20:48,360] Let me give you an example
+- [00:20:48,360 - 00:20:51,480] Planck's constant is not just some any
+- [00:20:51,480 - 00:20:54,600] old constant like the radius of a proton
+- [00:20:54,600 - 00:20:57,159] But it's connected with the uncertainty principle
+- [00:20:57,160 - 00:21:02,280] For every object in nature, the uncertainty
+- [00:21:02,280 - 00:21:07,400] principle between the momentum and its position
+- [00:21:07,400 - 00:21:09,280] Is greater than or equal to h bar
+- [00:21:09,280 - 00:21:12,300] There's maybe some four or some
+- [00:21:12,300 - 00:21:15,320] two in there, I don't remember
+- [00:21:15,320 - 00:21:18,080] But it doesn't matter what object you're talking about
+- [00:21:18,080 - 00:21:19,500] You could be talking about an electron
+- [00:21:19,500 - 00:21:21,000] You could be talking about a proton
+- [00:21:21,000 - 00:21:23,720] You could be talking about a bowling ball
+- [00:21:23,720 - 00:21:24,340] They are all constrained by
+- [00:21:24,340 - 00:21:24,960] the same uncertainty principle, right?
+- [00:21:24,960 - 00:21:25,460] They are all constrained by
+- [00:21:25,460 - 00:21:25,960] the same uncertainty principle, right?
+- [00:21:25,960 - 00:21:26,460] They are all constrained by
+- [00:21:26,460 - 00:21:26,960] the same uncertainty principle, right?
+- [00:21:26,960 - 00:21:27,460] They are all constrained by
+- [00:21:27,460 - 00:21:27,960] the same uncertainty principle, right?
+- [00:21:27,960 - 00:21:28,460] They are all constrained by
+- [00:21:28,460 - 00:21:28,960] the same uncertainty principle, right?
+- [00:21:28,960 - 00:21:29,460] They are all constrained by
+- [00:21:29,460 - 00:21:29,960] the same uncertainty principle, right?
+- [00:21:29,960 - 00:21:30,460] They are all constrained by
+- [00:21:30,460 - 00:21:30,960] the same uncertainty principle, right?
+- [00:21:30,960 - 00:21:31,960] And so in that sense, h bar
+- [00:21:31,960 - 00:21:34,390] And it doesn't much matter whether you use h bar
+- [00:21:34,390 - 00:21:36,820] or h, the one without the 2 pi in it
+- [00:21:36,820 - 00:21:38,520] That's not the point here
+- [00:21:38,520 - 00:21:41,290] The point is that Planck's constant
+- [00:21:41,290 - 00:21:44,060] applies to everything in the world
+- [00:21:44,060 - 00:21:45,400] It's universal
+- [00:21:45,400 - 00:21:47,540] So the next thing you might want to use
+- [00:21:47,540 - 00:21:49,620] Not might, but we will
+- [00:21:49,620 - 00:21:52,620] Is to set h bar equal to 1
+- [00:21:52,620 - 00:21:55,740] So what's the last really universal?
+- [00:21:55,740 - 00:21:56,740] Is there another?
+- [00:21:56,960 - 00:21:58,960] Truly universal constant
+- [00:21:58,960 - 00:22:02,960] The gravitational constant
+- [00:22:02,960 - 00:22:07,020] Remember, according to Newton, every object in the universe
+- [00:22:07,020 - 00:22:08,520] No matter what it's made out of
+- [00:22:08,520 - 00:22:12,560] No matter what it is composed of
+- [00:22:12,560 - 00:22:17,780] Every object in the universe has a gravitational force
+- [00:22:17,780 - 00:22:19,940] Which is the product of the
+- [00:22:19,940 - 00:22:22,100] masses divided by the distance squared
+- [00:22:22,100 - 00:22:25,960] Times the universal constant g
+- [00:22:25,960 - 00:22:26,960] So again
+- [00:22:26,960 - 00:22:30,960] Something which applies to everything
+- [00:22:30,960 - 00:22:36,460] Are there units in which c, h
+- [00:22:36,460 - 00:22:41,960] bar, and g are equal to 1?
+- [00:22:41,960 - 00:22:44,960] Now that's the same as asking the question
+- [00:22:44,960 - 00:22:49,960] Can you combine c, h bar, and g
+- [00:22:49,960 - 00:22:54,960] into a combination that has units of mass?
+- [00:22:54,960 - 00:22:55,460] Can you combine them into a
+- [00:22:55,460 - 00:22:55,960] combination that has units of mass?
+- [00:22:55,960 - 00:22:57,960] Can you combine them into a
+- [00:22:57,960 - 00:22:59,960] combination that has units of length?
+- [00:22:59,960 - 00:23:01,460] And can you combine them into
+- [00:23:01,460 - 00:23:02,960] a combination that has units of time?
+- [00:23:02,960 - 00:23:03,960] And the answer is yes
+- [00:23:03,960 - 00:23:08,960] Let's see
+- [00:23:08,960 - 00:23:11,960] Let's do length
+- [00:23:11,960 - 00:23:13,960] We want to do length
+- [00:23:13,960 - 00:23:15,960] Tell you what, even better
+- [00:23:15,960 - 00:23:18,960] Let's do length squared
+- [00:23:18,960 - 00:23:21,460] Let's see if we can find a
+- [00:23:21,460 - 00:23:23,960] combination of g, h bar, and c
+- [00:23:23,960 - 00:23:25,960] units of length squared
+- [00:23:25,960 - 00:23:26,960] Okay, so here's what we do
+- [00:23:26,960 - 00:23:28,960] Just some simple dimensional analysis
+- [00:23:28,960 - 00:23:31,960] Everybody here knows how to do dimensional analysis?
+- [00:23:31,960 - 00:23:34,960] Okay, we'll do some simple dimensional analysis
+- [00:23:34,960 - 00:23:38,960] We want to find a combination
+- [00:23:38,960 - 00:23:41,960] g to some power, let's call it p
+- [00:23:41,960 - 00:23:44,960] h bar to some other power, q
+- [00:23:44,960 - 00:23:49,960] And c to some other power, pqr
+- [00:23:49,960 - 00:23:52,960] Which has units
+- [00:23:53,960 - 00:23:55,960] of length
+- [00:23:55,960 - 00:23:57,960] I'm going to choose length squared
+- [00:23:57,960 - 00:24:02,960] Let's say it has units of length squared
+- [00:24:02,960 - 00:24:05,960] Now this doesn't mean it's equal to length squared
+- [00:24:05,960 - 00:24:07,960] It means it has the same units
+- [00:24:07,960 - 00:24:13,960] Sometimes people put a bracket around a thing like that
+- [00:24:13,960 - 00:24:15,960] to indicate its units
+- [00:24:15,960 - 00:24:17,960] The units of g to the p,
+- [00:24:17,960 - 00:24:19,960] h to the q, c to the r
+- [00:24:19,960 - 00:24:21,960] should be length squared
+- [00:24:21,960 - 00:24:22,960] I'm choosing length squared to avoid a square root
+- [00:24:23,960 - 00:24:26,960] in the final formula, that's all
+- [00:24:26,960 - 00:24:28,960] There is another reason
+- [00:24:28,960 - 00:24:32,960] It is widely believed that the fundamental unit
+- [00:24:32,960 - 00:24:35,960] is a unit of area, not a unit of length
+- [00:24:35,960 - 00:24:39,960] But we'll come to that some other time
+- [00:24:39,960 - 00:24:44,960] Let's see if we can find p, q, and r
+- [00:24:44,960 - 00:24:46,960] Okay, first question is what
+- [00:24:46,960 - 00:24:48,960] Now we have to figure out what the units
+- [00:24:48,960 - 00:24:52,960] the conventional units of g, h bar, and c are
+- [00:24:52,960 - 00:24:54,960] The units of c, that's easy
+- [00:24:54,960 - 00:24:56,960] What's the units of c?
+- [00:24:56,960 - 00:25:01,960] That's length over time, right?
+- [00:25:01,960 - 00:25:05,960] What about the units of Planck's constant?
+- [00:25:05,960 - 00:25:07,960] Momentum distance
+- [00:25:07,960 - 00:25:09,960] Mass velocity
+- [00:25:09,960 - 00:25:12,960] L squared m over t
+- [00:25:12,960 - 00:25:14,960] Again?
+- [00:25:14,960 - 00:25:16,960] L squared m over t
+- [00:25:16,960 - 00:25:19,960] L squared mass
+- [00:25:19,960 - 00:25:21,960] Momentum times
+- [00:25:21,960 - 00:25:23,960] Momentum times distance, right?
+- [00:25:23,960 - 00:25:25,960] Delta x, delta p
+- [00:25:25,960 - 00:25:29,960] Delta x, delta p, so that's a length
+- [00:25:29,960 - 00:25:34,960] And then a momentum is a mass
+- [00:25:34,960 - 00:25:36,960] times a velocity
+- [00:25:36,960 - 00:25:39,960] And a velocity is a length over time
+- [00:25:39,960 - 00:25:42,960] So that's length squared over time
+- [00:25:42,960 - 00:25:44,960] L squared mass over time
+- [00:25:44,960 - 00:25:46,960] That's Planck's constant
+- [00:25:46,960 - 00:25:48,460] And the last one, the one
+- [00:25:48,460 - 00:25:49,960] that I can never really remember
+- [00:25:49,960 - 00:25:51,960] These two I remember
+- [00:25:51,960 - 00:25:53,960] The one I can never remember is g
+- [00:25:53,960 - 00:25:55,960] But how do we figure out
+- [00:25:55,960 - 00:25:57,960] what the units of g are?
+- [00:25:57,960 - 00:26:02,960] Acceleration equals mass times g times
+- [00:26:02,960 - 00:26:04,460] Yeah, we use one of
+- [00:26:04,460 - 00:26:05,960] the equations that g appears in
+- [00:26:05,960 - 00:26:09,960] Alright, so here's an equation that, let's see
+- [00:26:09,960 - 00:26:12,960] Which was your equation?
+- [00:26:12,960 - 00:26:14,960] Acceleration, distance
+- [00:26:14,960 - 00:26:17,960] Alright, acceleration equals
+- [00:26:17,960 - 00:26:19,960] L squared over time
+- [00:26:19,960 - 00:26:20,960] Yeah, we'll get that in a minute
+- [00:26:20,960 - 00:26:21,960] But that's equal to
+- [00:26:21,960 - 00:26:23,960] Mass g over r squared
+- [00:26:23,960 - 00:26:26,960] Mass g over r squared
+- [00:26:26,960 - 00:26:28,960] So that's length squared
+- [00:26:28,960 - 00:26:30,960] Acceleration is what?
+- [00:26:30,960 - 00:26:31,960] L over length
+- [00:26:31,960 - 00:26:35,960] L length per time squared
+- [00:26:35,960 - 00:26:40,960] And again, equal means, doesn't mean equal
+- [00:26:40,960 - 00:26:43,960] So it's L cubed over t squared
+- [00:26:43,960 - 00:26:46,960] Divided by m it looks like, huh?
+- [00:26:46,960 - 00:26:48,960] Right?
+- [00:26:48,960 - 00:26:51,960] Right?
+- [00:26:51,960 - 00:26:55,960] Okay, let's now go through the exercise
+- [00:26:55,960 - 00:26:56,960] Can I say something?
+- [00:26:56,960 - 00:26:58,460] By the way, that's like
+- [00:26:58,460 - 00:26:59,960] Kepler's law where the amount of
+- [00:26:59,960 - 00:27:00,960] You're right
+- [00:27:00,960 - 00:27:03,960] You're right, you're right, it is like Kepler's law
+- [00:27:03,960 - 00:27:04,960] Okay
+- [00:27:04,960 - 00:27:06,960] So now, we have on the left side
+- [00:27:06,960 - 00:27:08,960] Length squared
+- [00:27:08,960 - 00:27:10,960] Now let's go g to the power of p
+- [00:27:10,960 - 00:27:12,960] What's g again?
+- [00:27:12,960 - 00:27:19,960] L cubed over t squared
+- [00:27:19,960 - 00:27:24,960] Alright, so that's L cubed over t squared
+- [00:27:24,960 - 00:27:27,960] Times m in the denominator
+- [00:27:27,960 - 00:27:29,960] Alright, so that's L to the 3p
+- [00:27:29,960 - 00:27:31,960] T to the 2p
+- [00:27:31,960 - 00:27:33,960] m to the p, right?
+- [00:27:33,960 - 00:27:35,960] Did I get that right?
+- [00:27:35,960 - 00:27:37,960] That's g to the p
+- [00:27:37,960 - 00:27:39,960] Now what about h bar to the q?
+- [00:27:39,960 - 00:27:41,960] h bar to the q is
+- [00:27:41,960 - 00:27:43,960] Length squared
+- [00:27:43,960 - 00:27:45,960] Length to the 2q
+- [00:27:45,960 - 00:27:49,960] m to the 2q
+- [00:27:53,960 - 00:27:55,960] No, m to the q
+- [00:27:57,960 - 00:28:02,960] And then t to the q
+- [00:28:06,960 - 00:28:08,960] Did I get that right?
+- [00:28:08,960 - 00:28:09,960] Okay
+- [00:28:09,960 - 00:28:10,960] And then the last one is
+- [00:28:11,960 - 00:28:14,960] Speed of light to the rth power
+- [00:28:14,960 - 00:28:18,960] Which is length to the r
+- [00:28:18,960 - 00:28:22,960] Over time to the r
+- [00:28:22,960 - 00:28:26,960] Now all we have to do is
+- [00:28:26,960 - 00:28:28,960] Find three constants
+- [00:28:28,960 - 00:28:31,960] So that everything on the right hand side
+- [00:28:31,960 - 00:28:34,960] Cancels out except two powers of length
+- [00:28:34,960 - 00:28:36,960] Okay, so the first thing you can see is
+- [00:28:36,960 - 00:28:39,960] Mass only appears in two places
+- [00:28:39,960 - 00:28:40,460] Mass to the q and mass to
+- [00:28:40,460 - 00:28:40,960] the p, so what does that mean?
+- [00:28:40,960 - 00:28:41,960] So what does that say?
+- [00:28:41,960 - 00:28:47,960] It says p better be equal to q
+- [00:28:47,960 - 00:28:49,960] So let's just set p equal to q
+- [00:28:49,960 - 00:28:50,960] We now know that
+- [00:28:50,960 - 00:28:55,960] And we can cancel out the masses
+- [00:28:55,960 - 00:28:56,960] That's done
+- [00:28:56,960 - 00:29:02,960] Now, what else do we have?
+- [00:29:02,960 - 00:29:04,460] We have to get rid of
+- [00:29:04,460 - 00:29:05,960] all the times it looks like, hein?
+- [00:29:05,960 - 00:29:08,960] Alright, so how many times do we have?
+- [00:29:08,960 - 00:29:17,100] times do we have? We have 2p, 2p plus, q
+- [00:29:17,100 - 00:29:25,240] is the same as p, so that's 3p plus r
+- [00:29:25,240 - 00:29:31,660] equals 0. 3p plus r is equal to 0,
+- [00:29:31,660 - 00:29:38,080] so that tells us that r is equal to minus
+- [00:29:38,080 - 00:29:43,979] 3p. Did I do that right? Let's just check.
+- [00:29:43,979 - 00:29:49,879] We have 2p, 3p plus r equals 0, r equals
+- [00:29:49,879 - 00:29:53,659] minus 3p. Okay I hope
+- [00:29:53,659 - 00:29:57,439] I'm doing this right. Minus 3p.
+- [00:30:03,840 - 00:30:05,879] Did I make a mistake?
+- [00:30:05,879 - 00:30:07,919] Yeah yeah but q is p.
+- [00:30:08,080 - 00:30:11,080] We've already figured out that q is p. So
+- [00:30:11,080 - 00:30:14,080] if I'm not mistaken, I think we can get rid
+- [00:30:14,080 - 00:30:20,090] of all the t's. p is equal to q, so let's
+- [00:30:20,090 - 00:30:26,100] see what we have. We have p is equal to q,
+- [00:30:26,100 - 00:30:29,970] that looks like 5p. Boy do I not recognize
+- [00:30:29,970 - 00:30:33,840] that. 5p. L to the 2q, that's not going to
+- [00:30:33,840 - 00:30:36,080] be a p.
+- [00:30:36,080 - 00:30:37,080] Okay.
+- [00:30:37,080 - 00:30:38,080] Okay.
+- [00:30:38,080 - 00:30:40,580] So we've got all the t's taken care of and
+- [00:30:40,580 - 00:30:43,080] now r is what? r is equal to minus 3p.
+- [00:30:43,080 - 00:30:44,080] Yeah and you're done.
+- [00:30:44,080 - 00:30:45,080] Oh.
+- [00:30:45,080 - 00:30:46,080] Yeah 3p minus 2, 5p?
+- [00:30:46,080 - 00:30:47,080] Yeah you guys, yeah. 5p minus 3p and you're done.
+- [00:30:47,080 - 00:30:48,080] 2p.
+- [00:30:48,080 - 00:30:54,580] So we get 2p right? We get 2p. Altogether 2p.
+- [00:30:54,580 - 00:31:01,080] 2p. And that now tells us what p is. p
+- [00:31:01,080 - 00:31:03,580] is equal to 1. Okay? So let's see what we
+- [00:31:03,580 - 00:31:06,080] have now. p is equal to 1. It tells us that
+- [00:31:06,080 - 00:31:07,080] we have 2p.
+- [00:31:07,080 - 00:31:10,580] It tells us that the Planck area, this
+- [00:31:10,580 - 00:31:14,080] is the Planck area, the Planck area L squared
+- [00:31:14,080 - 00:31:21,580] is g h bar, looks like over c cubed
+- [00:31:21,580 - 00:31:29,080] right? C cubed. C cubed. This is usually expressed
+- [00:31:29,080 - 00:31:32,080] by saying the Planck length is the square of this.
+- [00:31:32,080 - 00:31:33,080] Okay.
+- [00:31:33,080 - 00:31:34,080] The root of it.
+- [00:31:34,080 - 00:31:35,080] The square root of it, thank you.
+- [00:31:35,080 - 00:31:36,080] Okay.
+- [00:31:36,080 - 00:31:38,729] So let's see. Let's see. Should we put in
+- [00:31:38,729 - 00:31:41,379] some numbers? My problem is I can never remember
+- [00:31:41,379 - 00:31:45,229] what Planck's constant is. Anybody
+- [00:31:45,229 - 00:31:49,080] know Planck's constant? 10 to the?
+- [00:31:49,080 - 00:31:51,080] 1 times 10 minus 34.
+- [00:31:51,080 - 00:31:52,080] 10 minus 34?
+- [00:31:52,080 - 00:31:53,080] Yeah.
+- [00:31:53,080 - 00:31:54,080] Okay.
+- [00:31:54,080 - 00:31:57,580] Yeah g is 6 times 10 to the minus 11
+- [00:31:57,580 - 00:32:01,080] which is about 10 to the minus 10. Order of magnitude
+- [00:32:01,080 - 00:32:02,580] 10 to the minus 10. What is
+- [00:32:02,580 - 00:32:04,080] h bar? 10 to the minus 34?
+- [00:32:04,080 - 00:32:05,080] Yeah.
+- [00:32:05,080 - 00:32:06,080] 10 to the minus 34.
+- [00:32:06,080 - 00:32:13,080] In usual MKS units. 10 to the minus 34. And what
+- [00:32:13,080 - 00:32:20,080] is c cubed? C is 3 times 10 to the 8th,
+- [00:32:20,080 - 00:32:24,080] 3 times 3, 10 to the 17th, oh my god
+- [00:32:24,080 - 00:32:28,080] how many? Times 10 to the minus, how big is?
+- [00:32:29,080 - 00:32:30,080] 10 to the minus 24?
+- [00:32:31,080 - 00:32:31,729] I think it's more like
+- [00:32:31,729 - 00:32:32,379] 10 to the minus 25. Huh?
+- [00:32:35,080 - 00:32:41,080] Yeah, or 10 to the minus 25. So
+- [00:32:41,080 - 00:32:47,080] how many square meters is this? Pretty small. Pretty
+- [00:32:47,080 - 00:32:52,229] small. Yeah. Some tiny, tiny number. Okay? The
+- [00:32:52,229 - 00:32:57,379] Planck length is very small. If we had
+- [00:32:57,379 - 00:33:00,729] done it right, we would have gotten 10 to
+- [00:33:00,729 - 00:33:04,080] the minus 35 meters. So 10 to the minus, should
+- [00:33:04,080 - 00:33:04,580] be 10 to the minus 70th square centimeters.
+- [00:33:04,580 - 00:33:05,080] I'm not sure I got everything right. Hmm?
+- [00:33:05,080 - 00:33:06,080] Yes, about 70.
+- [00:33:06,080 - 00:33:06,580] About 70. All right. So that's
+- [00:33:06,580 - 00:33:07,080] small. That's smaller than anything. What's that?
+- [00:33:07,080 - 00:33:08,080] It looks like a symbol.
+- [00:33:08,080 - 00:33:09,580] Good. Okay, now the Planck time. That's the,
+- [00:33:09,580 - 00:33:11,080] the Planck length is the square root of this.
+- [00:33:11,080 - 00:33:13,580] What about the Planck time? Think of the
+- [00:33:13,580 - 00:33:16,080] Planck length as being the size of a little
+- [00:33:16,080 - 00:33:17,080] thingy.
+- [00:33:17,080 - 00:33:18,080] Yeah.
+- [00:33:18,080 - 00:33:19,080] Yeah.
+- [00:33:19,080 - 00:33:20,080] Yeah.
+- [00:33:20,080 - 00:33:21,080] Yeah.
+- [00:33:21,080 - 00:33:22,080] Yeah.
+- [00:33:22,080 - 00:33:23,080] Yeah.
+- [00:33:23,080 - 00:33:24,080] Yeah.
+- [00:33:24,080 - 00:33:25,080] Yeah.
+- [00:33:25,080 - 00:33:26,080] Yeah.
+- [00:33:26,080 - 00:33:27,080] Yeah.
+- [00:33:27,080 - 00:33:28,080] Yeah.
+- [00:33:28,080 - 00:33:29,080] Yeah.
+- [00:33:29,080 - 00:33:30,080] Yeah.
+- [00:33:30,080 - 00:33:31,080] Yeah.
+- [00:33:31,080 - 00:33:32,080] Yeah.
+- [00:33:32,080 - 00:33:33,080] Yeah.
+- [00:33:33,080 - 00:33:34,080] Yeah.
+- [00:33:34,080 - 00:33:35,080] Yeah.
+- [00:33:35,080 - 00:33:36,080] Yeah.
+- [00:33:36,080 - 00:33:37,080] Yeah.
+- [00:33:37,080 - 00:33:37,580] It's the size of a little thingy. All right?
+- [00:33:37,580 - 00:33:38,080] There's a thing the size of the Planck length.
+- [00:33:38,080 - 00:33:40,080] What do you think the Planck time is?
+- [00:33:40,080 - 00:33:43,499] It's the time for a light ray to cross
+- [00:33:43,499 - 00:33:46,919] that thing. All right? What else could it be?
+- [00:33:46,919 - 00:33:50,259] Right. So it's the time for a light ray
+- [00:33:50,259 - 00:33:53,600] to cross that little distance. So does that mean,
+- [00:33:53,600 - 00:33:55,379] that means we have to divide
+- [00:33:55,379 - 00:33:57,159] it by the speed of light?
+- [00:33:57,159 - 00:34:00,039] Yeah. We have to divide it by the speed
+- [00:34:00,039 - 00:34:02,919] of light. So the Planck length, L Planck length,
+- [00:34:03,080 - 00:34:07,320] The Planck is 10 to the minus 35 meters.
+- [00:34:08,480 - 00:34:13,300] The Planck time is 10 to the
+- [00:34:13,300 - 00:34:18,120] minus 43 or 42, something like that.
+- [00:34:18,639 - 00:34:19,580] 42 seconds?
+- [00:34:21,020 - 00:34:23,580] 10 to the minus 44, 43 seconds, something like that.
+- [00:34:24,960 - 00:34:26,699] Now what about the Planck mass?
+- [00:34:28,580 - 00:34:31,159] We haven't figured out what the Planck mass is,
+- [00:34:31,159 - 00:34:33,940] but we could do exactly the same calculation,
+- [00:34:34,600 - 00:34:42,080] work out what the Planck mass is from H bar,
+- [00:34:43,580 - 00:34:47,969] and the Planck mass would be
+- [00:34:47,969 - 00:34:52,359] about 10 to the minus eighth kilograms.
+- [00:34:54,600 - 00:34:56,940] So this one's big. That's a big mass.
+- [00:34:57,379 - 00:35:01,040] 10 to the minus eighth kilograms is an observable thing,
+- [00:35:01,040 - 00:35:03,980] it's a little dust grain.
+- [00:35:04,920 - 00:35:06,340] It's a little dust grain.
+- [00:35:07,540 - 00:35:11,540] These are impossibly small, small times and small distances.
+- [00:35:12,259 - 00:35:15,660] Okay, this is a Planck unit.
+- [00:35:15,660 - 00:35:19,300] Things measured in these Planck units are
+- [00:35:19,300 - 00:35:22,940] measured in some very, very fundamental units.
+- [00:35:23,800 - 00:35:26,040] Okay, I'll tell you some things.
+- [00:35:26,920 - 00:35:30,480] The universe has a radius, the known.
+- [00:35:31,040 - 00:35:34,290] Observable universe, the horizon size is
+- [00:35:34,290 - 00:35:37,540] about 10 to the 60th Planck lengths.
+- [00:35:37,540 - 00:35:39,540] 10 to the 60th Planck lengths.
+- [00:35:39,540 - 00:35:42,040] The age of the universe is also
+- [00:35:42,040 - 00:35:44,540] about 10 to the 60th Planck times.
+- [00:35:48,540 - 00:35:54,420] And, good, that's a gallon of, sorry,
+- [00:35:54,420 - 00:36:00,300] a tank of gasoline is about the,
+- [00:36:00,300 - 00:36:03,550] an energy content, a tank of
+- [00:36:03,550 - 00:36:06,800] gasoline is about the Planck mass.
+- [00:36:06,800 - 00:36:08,800] Okay.
+- [00:36:08,800 - 00:36:12,050] So that means you could drive across
+- [00:36:12,050 - 00:36:15,300] the country with 10 Planck masses of energy.
+- [00:36:15,300 - 00:36:17,800] Okay, right, that's what it means.
+- [00:36:22,800 - 00:36:26,800] These are the units that string theory is in.
+- [00:36:27,800 - 00:36:29,800] In other words, the size of a vibrating,
+- [00:36:29,800 - 00:36:32,050] vibrating string, the fluctuations in
+- [00:36:32,050 - 00:36:34,300] it due to quantum uncertainty,
+- [00:36:34,300 - 00:36:37,300] order of magnitude, the Planck length.
+- [00:36:37,300 - 00:36:39,300] The frequencies of oscillation or
+- [00:36:39,300 - 00:36:41,300] the time, not the frequency,
+- [00:36:41,300 - 00:36:43,800] but the period of oscillation of
+- [00:36:43,800 - 00:36:46,300] order 10 to the minus 43 centimeters.
+- [00:36:48,300 - 00:36:49,300] Sorry?
+- [00:36:49,300 - 00:36:51,300] Sorry, 10 to the minus 43 seconds.
+- [00:36:52,300 - 00:36:53,300] Right.
+- [00:36:53,300 - 00:36:59,300] And the amount of mass that would be involved
+- [00:36:59,800 - 00:37:02,050] in exciting a fundamental particle such
+- [00:37:02,050 - 00:37:04,300] as a graviton or an electron.
+- [00:37:04,300 - 00:37:05,300] Let's take the electron.
+- [00:37:05,300 - 00:37:07,550] If the electron is a string, you could ask,
+- [00:37:07,550 - 00:37:09,800] how much energy does it take to excite it?
+- [00:37:09,800 - 00:37:14,050] The units are expected to be somewheres in
+- [00:37:14,050 - 00:37:18,300] this range, 10 to the minus eighth kilograms.
+- [00:37:18,300 - 00:37:20,800] Now, that's a huge number.
+- [00:37:20,800 - 00:37:26,300] How many, how many GEVs, giga-electron volts is that?
+- [00:37:26,300 - 00:37:27,300] Five.
+- [00:37:27,300 - 00:37:28,300] One other useful number.
+- [00:37:28,300 - 00:37:28,800] Five.
+- [00:37:28,800 - 00:37:29,300] Five.
+- [00:37:29,300 - 00:37:34,800] The one useful number to remember is that one
+- [00:37:34,800 - 00:37:40,300] Planck mass is about 10 to the 19th GEVs,
+- [00:37:40,300 - 00:37:43,300] which means 10 to the 19th proton masses.
+- [00:37:43,800 - 00:37:46,050] One Planck mass is about
+- [00:37:46,050 - 00:37:48,300] 10 to the 19th proton masses.
+- [00:37:49,800 - 00:37:52,550] 10 to the 23rd proton masses is, you
+- [00:37:52,550 - 00:37:55,300] know, a little gram of water or something.
+- [00:37:55,800 - 00:37:57,300] 10 to the 19th, which
+- [00:37:57,300 - 00:37:58,800] is four orders of magnitude smaller,
+- [00:37:59,300 - 00:38:01,920] is a tiny tiny little droplet, but visible,
+- [00:38:01,920 - 00:38:04,540] quite visible, well if you have good eyes
+- [00:38:04,540 - 00:38:13,640] so exciting an electron by a particle physics collision
+- [00:38:13,640 - 00:38:16,810] you say well we don't need to do a particle physics collision,
+- [00:38:16,810 - 00:38:19,980] we'll just explode a tank of gasoline in the vicinity of an electron
+- [00:38:19,980 - 00:38:21,980] and it will start the electron vibrating
+- [00:38:21,980 - 00:38:26,260] yeah, it's just rather hard to get the
+- [00:38:26,260 - 00:38:30,540] energy to be concentrated in such a small distance
+- [00:38:30,540 - 00:38:37,740] so these are the reasons that
+- [00:38:37,740 - 00:38:40,390] Is the mass of the
+- [00:38:40,390 - 00:38:43,040] site above its natural ground state?
+- [00:38:43,040 - 00:38:45,040] Yeah, above its ground state
+- [00:38:45,040 - 00:38:47,040] At its ground state?
+- [00:38:47,040 - 00:38:49,500] Well, remember it's mass squares
+- [00:38:49,500 - 00:38:51,960] which come in integer multiples
+- [00:38:51,960 - 00:38:54,230] Alright, so it's mass squares
+- [00:38:54,230 - 00:38:56,500] which come in integer multiples
+- [00:38:56,500 - 00:39:00,240] so if you want to know what the unit is, square the
+- [00:39:00,240 - 00:39:03,980] Planck mass and that's the amount that it takes to bump you up
+- [00:39:03,980 - 00:39:07,500] but to go from the ground state, if the ground state
+- [00:39:07,500 - 00:39:11,020] is almost massless, then it's about one Planck unit of energy
+- [00:39:11,020 - 00:39:14,020] That's why you can't excite an electron
+- [00:39:14,020 - 00:39:17,520] Right, right, right, it's just much too much
+- [00:39:17,520 - 00:39:21,020] energy to pump into such a small volume
+- [00:39:21,020 - 00:39:21,820] and so you can't excite an electron
+- [00:39:21,820 - 00:39:21,870] Right, right, right, it's just much too much
+- [00:39:21,870 - 00:39:21,920] energy to pump into such a small volume
+- [00:39:21,920 - 00:39:21,940] and so you can't excite an electron
+- [00:39:21,940 - 00:39:28,420] and you know, it's for this reason
+- [00:39:28,420 - 00:39:34,900] that string theory is way, way, direct detection
+- [00:39:34,900 - 00:39:37,400] How would you detect that a thing is a string?
+- [00:39:37,400 - 00:39:40,740] The same way you detect that a proton is
+- [00:39:40,740 - 00:39:44,080] a string, you hit it, you set it into vibration
+- [00:39:44,080 - 00:39:47,940] and you discover that there's a bunch of excited states
+- [00:39:47,940 - 00:39:51,800] where the mass squared is proportionate to the mass squared
+- [00:39:51,800 - 00:39:53,550] and you discover that there's a bunch of excited states
+- [00:39:53,550 - 00:39:55,300] where the mass squared is proportionate to the mass squared
+- [00:39:55,300 - 00:39:59,410] That's the kind of thing you'd like to do with an electron,
+- [00:39:59,410 - 00:40:03,520] that's the kind of thing that you'd like to do with a photon
+- [00:40:03,520 - 00:40:05,390] But the increase in mass here is
+- [00:40:05,390 - 00:40:07,260] just way beyond what can be done
+- [00:40:07,260 - 00:40:08,060] Yeah
+- [00:40:08,060 - 00:40:11,930] In order to have the structure of the string that we've been describing,
+- [00:40:11,930 - 00:40:15,800] wouldn't the string as a whole have to be somewhat bigger than this?
+- [00:40:15,800 - 00:40:17,720] Yeah
+- [00:40:17,720 - 00:40:20,960] Mhm, yeah
+- [00:40:20,960 - 00:40:21,660] Question?
+- [00:40:21,660 - 00:40:27,660] Question? This is just a bunch of arithmetic over here. What makes us think that when we get a
+- [00:40:27,660 - 00:40:33,660] number out, 10 to the minus 35th, that it has anything to do with the length of a string?
+- [00:40:33,660 - 00:40:38,660] It's a guess. It's a guess. It's
+- [00:40:38,660 - 00:40:43,660] a guess based on a number of things.
+- [00:40:43,660 - 00:40:54,160] No, no, it's not just numerology. It could
+- [00:40:54,160 - 00:41:04,660] be wrong. It could be a thousand times less.
+- [00:41:04,660 - 00:41:07,660] Nobody thinks that the string length scale could be
+- [00:41:07,660 - 00:41:10,660] smaller than the Planck length. That looks quite impossible.
+- [00:41:10,660 - 00:41:12,160] But that the string length scale
+- [00:41:12,160 - 00:41:13,660] could be larger than the Planck length.
+- [00:41:13,660 - 00:41:15,660] If the string length scale is larger
+- [00:41:15,660 - 00:41:17,660] and the energy scale lower, that is possible.
+- [00:41:17,660 - 00:41:20,660] How much lower? Well, I think from
+- [00:41:20,660 - 00:41:23,660] the things that we know about particle physics,
+- [00:41:23,660 - 00:41:26,160] we can't say with any precision
+- [00:41:26,160 - 00:41:28,660] at the current time really at all.
+- [00:41:28,660 - 00:41:35,160] But from the precision with which particle physics
+- [00:41:35,160 - 00:41:41,660] standard model and so forth seem to work,
+- [00:41:41,660 - 00:41:42,660] I think there's plenty of evidence that the string
+- [00:41:42,660 - 00:41:43,660] length scale is lower than the Planck length scale.
+- [00:41:43,660 - 00:41:46,660] The energy scale is very, very high.
+- [00:41:46,660 - 00:41:50,160] Whether it's Planck scale or a hundredth of the Planck
+- [00:41:50,160 - 00:41:53,660] scale or a thousandth of the Planck scale, we don't know.
+- [00:41:53,660 - 00:41:56,660] There is another scale in physics. There is another scale
+- [00:41:56,660 - 00:41:59,660] in physics which keeps coming up over and over again.
+- [00:41:59,660 - 00:42:03,660] We've talked about it. It's the unification scale.
+- [00:42:03,660 - 00:42:08,160] If you remember at all from last quarter, we talked about
+- [00:42:08,160 - 00:42:12,660] the scale at which the various coupling constants seem to come together.
+- [00:42:13,660 - 00:42:18,660] The scale at which the electroweak forces and the
+- [00:42:18,660 - 00:42:23,660] QCD forces seem to merge into a common structure experimentally.
+- [00:42:23,660 - 00:42:27,660] And there there are experiments. They're not experiments
+- [00:42:27,660 - 00:42:31,660] to get to that energy, but experiments to extrapolate.
+- [00:42:31,660 - 00:42:37,160] The extrapolation of what we know about physics seems to say that
+- [00:42:37,160 - 00:42:42,660] ordinary quantum field theory probably holds to something like a distance scale
+- [00:42:42,660 - 00:42:52,660] of roughly a thousand times larger than the Planck scale.
+- [00:42:52,660 - 00:42:56,660] So we do have evidence that ordinary quantum
+- [00:42:56,660 - 00:43:00,660] field theory without any stringy structures and so forth
+- [00:43:00,660 - 00:43:05,660] or equivalently that the electron is fundamental to scales perhaps a
+- [00:43:05,660 - 00:43:10,660] thousand times smaller, sorry, a thousand times larger than the Planck scale.
+- [00:43:10,660 - 00:43:11,660] But that's not the case.
+- [00:43:11,660 - 00:43:12,660] That's not the case.
+- [00:43:12,660 - 00:43:15,660] That's still pretty small.
+- [00:43:15,660 - 00:43:17,660] Then you wouldn't be able to suspend the galaxy.
+- [00:43:17,660 - 00:43:22,660] Maybe you could only suspend, I
+- [00:43:22,660 - 00:43:27,660] don't know, some globular cluster somewhere.
+- [00:43:27,660 - 00:43:33,160] It seems that a Planck length can be thought of as the fundamental
+- [00:43:33,160 - 00:43:38,660] unit of, smallest unit of length in the Planck time, smallest unit of time.
+- [00:43:38,660 - 00:43:40,160] Clearly a Planck mass is
+- [00:43:40,160 - 00:43:41,660] not a fundamental unit of mass.
+- [00:43:41,660 - 00:43:42,660] No.
+- [00:43:42,660 - 00:43:43,660] Just to clarify.
+- [00:43:43,660 - 00:43:44,660] No.
+- [00:43:44,660 - 00:43:45,660] No.
+- [00:43:45,660 - 00:43:51,160] The Planck mass is believed to be
+- [00:43:51,160 - 00:43:56,660] the mass of the lightest possible black hole.
+- [00:43:56,660 - 00:44:01,660] One Planck area, one unit of entropy.
+- [00:44:01,660 - 00:44:04,660] And how long would it take to evaporate?
+- [00:44:04,660 - 00:44:05,660] Very fast.
+- [00:44:05,660 - 00:44:06,660] One Planck time.
+- [00:44:06,660 - 00:44:08,660] One Planck time.
+- [00:44:08,660 - 00:44:11,660] Here today, gone?
+- [00:44:11,660 - 00:44:12,660] Today.
+- [00:44:12,660 - 00:44:13,660] Today.
+- [00:44:13,660 - 00:44:19,160] When you showed the coupling coefficients unifying, I believe one time you
+- [00:44:19,160 - 00:44:24,660] put down a fourth one for gravity and so that comes down.
+- [00:44:24,660 - 00:44:25,660] That's a connection.
+- [00:44:25,660 - 00:44:27,660] What's the coupling unit of gravity?
+- [00:44:27,660 - 00:44:28,660] That's okay.
+- [00:44:28,660 - 00:44:30,660] I'll tell you what the various pieces of evidence are.
+- [00:44:30,660 - 00:44:33,160] I'm not going to explain what the various
+- [00:44:33,160 - 00:44:35,660] pieces of evidence are, but I'm going to explain
+- [00:44:35,660 - 00:44:36,660] what the various pieces of evidence are.
+- [00:44:36,660 - 00:44:38,660] I'm not going to explain them in detail.
+- [00:44:38,660 - 00:44:40,660] This is just to remind you.
+- [00:44:40,660 - 00:44:44,660] If you plot the coupling
+- [00:44:44,660 - 00:44:48,660] constants of which coupling constants?
+- [00:44:48,660 - 00:44:50,660] The ones that we measure in the laboratory.
+- [00:44:50,660 - 00:44:56,160] The electric, let's just call it the
+- [00:44:56,160 - 00:45:01,660] electric coupling constant, E, E squared really.
+- [00:45:01,660 - 00:45:05,660] The weak interaction, sorry, the electroweak.
+- [00:45:06,660 - 00:45:08,660] I'm getting a little confused.
+- [00:45:08,660 - 00:45:10,660] There are three of them.
+- [00:45:10,660 - 00:45:12,660] There's U1, SU2, and SU3.
+- [00:45:12,660 - 00:45:14,660] There are three of them.
+- [00:45:14,660 - 00:45:16,660] This is energy this way.
+- [00:45:16,660 - 00:45:20,660] And energy is the same as inverse length.
+- [00:45:20,660 - 00:45:21,660] Inverse length.
+- [00:45:21,660 - 00:45:25,660] So as energy gets large, wavelengths get short.
+- [00:45:25,660 - 00:45:28,660] Energy, high energy means small distance.
+- [00:45:28,660 - 00:45:29,660] Okay.
+- [00:45:29,660 - 00:45:34,660] We measure these coupling constants at some energy scales.
+- [00:45:34,660 - 00:45:35,660] Remember, coupling constants are
+- [00:45:35,660 - 00:45:36,660] things which change with time.
+- [00:45:36,660 - 00:45:39,660] They change with energy or change with distance scale.
+- [00:45:39,660 - 00:45:41,660] We measure them somewheres.
+- [00:45:41,660 - 00:45:45,660] Where in laboratories, which means 50 GeV,
+- [00:45:45,660 - 00:45:49,660] 100 GeV at most, we measure them here.
+- [00:45:49,660 - 00:45:53,660] We get three numbers.
+- [00:45:53,660 - 00:45:58,160] We also measure slightly indirectly
+- [00:45:58,160 - 00:46:02,660] the derivatives of these things.
+- [00:46:02,660 - 00:46:06,660] In fact, we can compute the derivatives of them.
+- [00:46:06,660 - 00:46:11,160] We can compute the derivatives of them purely theoretically, but
+- [00:46:11,160 - 00:46:15,660] with good confidence because we know the theory here very well.
+- [00:46:15,660 - 00:46:21,160] What we find is that if you extrapolated these,
+- [00:46:21,160 - 00:46:26,660] they would all cross at about a common point.
+- [00:46:26,660 - 00:46:30,660] That point is way, way out here at
+- [00:46:30,660 - 00:46:34,660] an energy which is not the Planck scale,
+- [00:46:34,660 - 00:46:37,660] but it's about 100 or maybe 1,000 times,
+- [00:46:37,660 - 00:46:39,660] somewheres between 100 and 1,000
+- [00:46:39,660 - 00:46:41,660] times smaller than the Planck scale.
+- [00:46:41,660 - 00:46:43,660] I think maybe more like 100.
+- [00:46:43,660 - 00:46:46,660] So this could be m Planck
+- [00:46:46,660 - 00:46:49,660] roughly divided by 100, somewheres in between.
+- [00:46:49,660 - 00:46:51,660] And the Planck scale would be over here.
+- [00:46:51,660 - 00:46:53,660] Or this is a logarithmic scale.
+- [00:46:53,660 - 00:46:56,660] On a logarithmic scale, it looks like this.
+- [00:46:58,660 - 00:47:01,160] So on a logarithmic scale, a given gap
+- [00:47:01,160 - 00:47:03,660] can mean a very, very big change in energy.
+- [00:47:04,660 - 00:47:06,660] And it looks like this.
+- [00:47:06,660 - 00:47:11,160] Now, of course, we don't know with certainty that there's not all kinds
+- [00:47:11,160 - 00:47:15,660] of things going on at higher energy here which would muck this up badly.
+- [00:47:15,660 - 00:47:16,660] We don't.
+- [00:47:16,660 - 00:47:20,160] But what we do know is that if there
+- [00:47:20,160 - 00:47:23,660] is nothing in here to muck things up badly,
+- [00:47:23,660 - 00:47:25,660] and there's some reason to believe that,
+- [00:47:25,660 - 00:47:27,160] that these coupling constants would
+- [00:47:27,160 - 00:47:28,660] just come together at this scale.
+- [00:47:28,660 - 00:47:31,160] The meaning of that is that
+- [00:47:31,160 - 00:47:33,660] quantum field theory, conventional quantum field theory,
+- [00:47:33,660 - 00:47:35,660] seems to be working to about here.
+- [00:47:35,660 - 00:47:38,160] There's other evidence for this scale coming
+- [00:47:38,160 - 00:47:40,660] from neutrino masses and a few other places,
+- [00:47:42,660 - 00:47:44,660] but it's far from tight.
+- [00:47:44,660 - 00:47:48,160] It will become much tighter if LHC
+- [00:47:48,160 - 00:47:51,660] is lucky and makes the right discoveries.
+- [00:47:51,660 - 00:47:54,660] It will become much tighter and we'll
+- [00:47:54,660 - 00:47:57,660] have a much better knowledge about this extrapolation.
+- [00:47:57,660 - 00:47:59,160] So this is one of the
+- [00:47:59,160 - 00:48:00,660] things we're going to learn from LHC,
+- [00:48:00,660 - 00:48:02,660] is how reliable this extrapolation is.
+- [00:48:03,660 - 00:48:05,160] So, we're going to look
+- [00:48:05,160 - 00:48:06,660] at the mass of the particle.
+- [00:48:06,660 - 00:48:09,660] The Planck mass being out here.
+- [00:48:09,660 - 00:48:12,160] And this in itself doesn't tell
+- [00:48:12,160 - 00:48:14,660] us where the string length scale is.
+- [00:48:14,660 - 00:48:18,160] What it tells us is that the stringy character of
+- [00:48:18,160 - 00:48:21,660] particles does not become important until energy is above this.
+- [00:48:21,660 - 00:48:23,660] So somewhere between here and here,
+- [00:48:23,660 - 00:48:25,660] F string theory is all right,
+- [00:48:25,660 - 00:48:28,660] somewhere in here is the scale of strings.
+- [00:48:28,660 - 00:48:31,660] Remind me again what the three coupling constants are.
+- [00:48:31,660 - 00:48:33,660] There's, what is it, QEDQEQC?
+- [00:48:33,660 - 00:48:38,660] No, QED, QCD, and the weak interactions.
+- [00:48:38,660 - 00:48:39,660] Oh, weak, right.
+- [00:48:39,660 - 00:48:40,660] Yeah.
+- [00:48:40,660 - 00:48:42,660] At one point you did put down,
+- [00:48:42,660 - 00:48:44,660] I think you put down something for gravity.
+- [00:48:44,660 - 00:48:45,660] Yeah.
+- [00:48:45,660 - 00:48:48,660] Yeah, if you were to plot
+- [00:48:48,660 - 00:48:51,660] the gravitational coupling constant behaves differently,
+- [00:48:51,660 - 00:48:53,660] has a different character.
+- [00:48:53,660 - 00:48:58,660] But, let's see, it starts very, very small,
+- [00:48:58,660 - 00:49:01,660] and it goes up something like this.
+- [00:49:01,660 - 00:49:05,660] So it would cross,
+- [00:49:05,660 - 00:49:08,660] it doesn't cross at the same point.
+- [00:49:08,660 - 00:49:11,660] It crosses somewhere nearby.
+- [00:49:11,660 - 00:49:13,660] But basically the place where this
+- [00:49:13,660 - 00:49:15,660] one gets to be about order one,
+- [00:49:15,660 - 00:49:17,660] that's the Planck scale.
+- [00:49:17,660 - 00:49:20,660] So it really, it's really exactly the same statement
+- [00:49:20,660 - 00:49:22,660] to say that the gravitational
+- [00:49:22,660 - 00:49:24,660] constant, the running coupling constant,
+- [00:49:24,660 - 00:49:27,660] crosses at roughly the same place as to say this
+- [00:49:27,660 - 00:49:30,660] unification scale is not too far from the Planck scale.
+- [00:49:30,660 - 00:49:34,660] So does the gravitational constant depend upon capital G?
+- [00:49:34,660 - 00:49:35,660] Yes.
+- [00:49:35,660 - 00:49:38,160] So does capital G change as you
+- [00:49:38,160 - 00:49:40,660] start to measure the higher and higher energy?
+- [00:49:40,660 - 00:49:43,660] Okay, I'll, no, capital G does not change,
+- [00:49:43,660 - 00:49:45,660] but capital G is not
+- [00:49:45,660 - 00:49:47,660] exactly the right measure of things.
+- [00:49:47,660 - 00:49:50,660] It's capital G, alright, let's
+- [00:49:50,660 - 00:49:53,660] do, I'll answer your question.
+- [00:49:53,660 - 00:49:57,660] Let's look at the force law between two objects.
+- [00:49:57,660 - 00:50:00,660] In electromagnetism, it's E squared,
+- [00:50:00,660 - 00:50:03,660] divided by R squared.
+- [00:50:03,660 - 00:50:06,660] And that's the force.
+- [00:50:06,660 - 00:50:10,660] And that's the electromagnetic coupling constant here.
+- [00:50:10,660 - 00:50:17,660] In gravitation, it's G M squared over R squared.
+- [00:50:17,660 - 00:50:20,660] So the thing which is analogous to
+- [00:50:20,660 - 00:50:23,660] E squared is G times M squared.
+- [00:50:23,660 - 00:50:25,660] But what M should you use there?
+- [00:50:25,660 - 00:50:28,660] Well, the M that you use there
+- [00:50:28,660 - 00:50:31,660] is associated with the particular
+- [00:50:31,660 - 00:50:34,660] scale of physics that you're studying.
+- [00:50:34,660 - 00:50:35,660] Alright?
+- [00:50:35,660 - 00:50:37,660] So you can see then in that sense,
+- [00:50:37,660 - 00:50:45,660] this quantity here increases like M squared.
+- [00:50:45,660 - 00:50:48,660] Yeah, so this is the relevant thing here.
+- [00:50:48,660 - 00:50:51,660] It's the dimensionless thing.
+- [00:50:51,660 - 00:50:53,660] Okay.
+- [00:50:55,660 - 00:50:57,660] Let's do units.
+- [00:50:57,660 - 00:50:59,660] Where on that scale, if
+- [00:50:59,660 - 00:51:01,660] you can build accelerators big enough,
+- [00:51:01,660 - 00:51:03,160] is it that you start
+- [00:51:03,160 - 00:51:04,660] producing nothing but little black holes?
+- [00:51:04,660 - 00:51:06,660] Real black holes?
+- [00:51:06,660 - 00:51:11,660] Yeah, the small ones, you know, if you build galaxies.
+- [00:51:11,660 - 00:51:13,660] Oh, it's all the way up there.
+- [00:51:13,660 - 00:51:15,660] In quark mass, yeah.
+- [00:51:15,660 - 00:51:22,660] There's two ways to produce black holes.
+- [00:51:22,660 - 00:51:24,660] One way or another, you've got
+- [00:51:24,660 - 00:51:26,660] to have a lot of pressure
+- [00:51:26,660 - 00:51:29,660] to squeeze things into a small volume.
+- [00:51:29,660 - 00:51:32,660] One way is kinetic energy.
+- [00:51:32,660 - 00:51:34,660] Small objects with lots of
+- [00:51:34,660 - 00:51:36,660] kinetic energy blast them together,
+- [00:51:36,660 - 00:51:39,660] and you have a chance of making a black hole.
+- [00:51:39,660 - 00:51:42,660] The other way is not kinetic energy but gravitation,
+- [00:51:42,660 - 00:51:45,660] gravitational potential energy pulling things together.
+- [00:51:45,660 - 00:51:48,660] That takes a star.
+- [00:51:48,660 - 00:51:50,660] So to make a black hole using gravity,
+- [00:51:50,660 - 00:51:52,660] you need something as heavy as a star.
+- [00:51:52,660 - 00:51:55,660] To make a black hole by the collision of particles,
+- [00:51:55,660 - 00:52:00,660] you need energies of order of the Planck energy.
+- [00:52:00,660 - 00:52:02,660] Now, if you think about that for a minute,
+- [00:52:02,660 - 00:52:04,660] imagine an accelerator.
+- [00:52:04,660 - 00:52:08,660] I don't know, is it fun to...
+- [00:52:08,660 - 00:52:10,660] Let's explore the following question.
+- [00:52:10,660 - 00:52:13,660] How big, what kind of accelerator would it take
+- [00:52:13,660 - 00:52:18,660] to do experiments of the Planck energy,
+- [00:52:18,660 - 00:52:21,660] to do interesting experiments of the Planck energy?
+- [00:52:21,660 - 00:52:24,660] Well, basically, the energy of an accelerator,
+- [00:52:24,660 - 00:52:28,660] of a linear accelerator, scales linearly
+- [00:52:28,660 - 00:52:31,660] with the size of the accelerator.
+- [00:52:31,660 - 00:52:34,160] In other words, you get a
+- [00:52:34,160 - 00:52:36,660] certain number of GeV per unit length.
+- [00:52:36,660 - 00:52:38,660] Slack is a good example.
+- [00:52:38,660 - 00:52:42,660] It takes approximately two miles to accelerate a thing
+- [00:52:42,660 - 00:52:48,660] to 100 GeV.
+- [00:52:48,660 - 00:52:51,660] So two miles for 100 GeV.
+- [00:52:51,660 - 00:52:54,660] Two miles, 100 GeV.
+- [00:52:54,660 - 00:53:00,660] All right, the Planck energy
+- [00:53:00,660 - 00:53:06,660] is about 10 to the 17th times bigger than this.
+- [00:53:06,660 - 00:53:08,660] It's 10 to the 19th GeV,
+- [00:53:08,660 - 00:53:11,660] so it's 10 to the 17th times larger.
+- [00:53:11,660 - 00:53:16,660] So with just the parameters of the slack accelerator,
+- [00:53:16,660 - 00:53:20,660] you can multiply this by roughly 10 to the 17th.
+- [00:53:20,660 - 00:53:22,660] So it would take 10 to the 17th miles.
+- [00:53:22,660 - 00:53:24,660] How big is 10 to the 17th miles?
+- [00:53:24,660 - 00:53:26,660] Oh, man.
+- [00:53:26,660 - 00:53:29,660] 10 to the 17th.
+- [00:53:29,660 - 00:53:31,660] I think 10 to the 13th
+- [00:53:31,660 - 00:53:33,660] miles is about a light year.
+- [00:53:33,660 - 00:53:35,660] 10 to the 13th kilometers or something like that,
+- [00:53:35,660 - 00:53:36,660] if I remember.
+- [00:53:36,660 - 00:53:38,660] 10 to the 13th kilometers, 10 to the 17th,
+- [00:53:38,660 - 00:53:40,660] 10 to the 4th light years.
+- [00:53:40,660 - 00:53:42,660] Galaxy size.
+- [00:53:42,660 - 00:53:45,660] Galaxy size to accelerate something up the Planck mass.
+- [00:53:45,660 - 00:53:46,660] We're not going to do it.
+- [00:53:46,660 - 00:53:49,660] At least not tomorrow.
+- [00:53:49,660 - 00:53:52,660] But suppose you could build such an accelerator.
+- [00:53:52,660 - 00:53:53,660] Next question.
+- [00:53:53,660 - 00:53:56,660] What kind of luminosity do you have to have?
+- [00:53:56,660 - 00:53:59,660] An accelerator has to have a luminosity.
+- [00:53:59,660 - 00:54:01,660] The chances of...
+- [00:54:01,660 - 00:54:04,160] What we want to do now is
+- [00:54:04,160 - 00:54:06,660] we want to collide particles head on
+- [00:54:06,660 - 00:54:07,660] to make a black hole.
+- [00:54:07,660 - 00:54:09,160] But remember, the radius of that
+- [00:54:09,160 - 00:54:10,660] black hole that we want to make
+- [00:54:10,660 - 00:54:14,660] is itself the Planck mass, the Planck radius.
+- [00:54:14,660 - 00:54:17,660] So that means we've got to aim these particles
+- [00:54:17,660 - 00:54:21,660] to collide within a Planck distance.
+- [00:54:21,660 - 00:54:22,660] Well, no.
+- [00:54:22,660 - 00:54:24,660] Accelerators don't do that.
+- [00:54:24,660 - 00:54:26,660] That's not the way accelerators work.
+- [00:54:26,660 - 00:54:28,160] The way accelerators work is you just get
+- [00:54:28,160 - 00:54:29,660] a lot of particles going to the left,
+- [00:54:29,660 - 00:54:32,660] a lot of particles going to the right,
+- [00:54:32,660 - 00:54:34,160] and you get enough of
+- [00:54:34,160 - 00:54:35,660] them so that some will collide
+- [00:54:35,660 - 00:54:38,660] at the distance scales that you're interested in.
+- [00:54:38,660 - 00:54:40,660] In other words, you need big luminosity.
+- [00:54:40,660 - 00:54:42,660] What kind of luminosity would you need?
+- [00:54:42,660 - 00:54:43,660] Oh, I don't know.
+- [00:54:43,660 - 00:54:45,660] Let's say...
+- [00:54:45,660 - 00:54:47,660] What's a slack luminosity?
+- [00:54:47,660 - 00:54:50,660] 10 to the 13th particles per second or something.
+- [00:54:50,660 - 00:54:51,660] Anybody know?
+- [00:54:52,660 - 00:54:53,660] I don't know.
+- [00:54:53,660 - 00:54:57,660] Well, 10 to the 13th particles, but that's just...
+- [00:54:57,660 - 00:55:00,660] But, you know, the distance scales there are pretty big.
+- [00:55:00,660 - 00:55:01,660] How much better are you going to have to do?
+- [00:55:01,660 - 00:55:02,660] I don't know.
+- [00:55:02,660 - 00:55:04,660] Let's say 10 to the 20th particles.
+- [00:55:04,660 - 00:55:06,660] 10 to the 20th particles
+- [00:55:06,660 - 00:55:08,660] colliding, each with the Planck energy.
+- [00:55:08,660 - 00:55:14,660] That's 10 to the 20th tanks of gasoline per second.
+- [00:55:14,660 - 00:55:17,660] Yeah, 10 to the 17th barrels
+- [00:55:17,660 - 00:55:20,660] of gas per second to fuel it,
+- [00:55:20,660 - 00:55:22,160] as big as the galaxy,
+- [00:55:22,160 - 00:55:23,660] we ain't going to do it.
+- [00:55:23,660 - 00:55:28,660] That's what we would need to explore small black holes
+- [00:55:28,660 - 00:55:30,660] and something pretty close to
+- [00:55:30,660 - 00:55:32,660] it to explore string theory directly,
+- [00:55:32,660 - 00:55:34,660] a really direct test.
+- [00:55:34,660 - 00:55:37,660] The question is, are there indirect tests?
+- [00:55:37,660 - 00:55:38,660] All right.
+- [00:55:38,660 - 00:55:41,660] I think the indirect tests
+- [00:55:41,660 - 00:55:44,660] will pretty much be very theoretical,
+- [00:55:44,660 - 00:55:47,660] and unless somebody constructs a
+- [00:55:47,660 - 00:55:50,660] very, very convincing string theory,
+- [00:55:50,660 - 00:55:53,660] that gives rise to the standard
+- [00:55:53,660 - 00:55:56,660] model exactly in some very computable way,
+- [00:55:56,660 - 00:56:07,660] the hope of direct tests, I think, is very remote.
+- [00:56:07,660 - 00:56:09,660] So that's what we're facing.
+- [00:56:09,660 - 00:56:13,660] That's what we're up against.
+- [00:56:13,660 - 00:56:14,660] Okay.
+- [00:56:14,660 - 00:56:18,660] We didn't get where I really had intended to go.
+- [00:56:18,660 - 00:56:19,660] In fact, we didn't even touch
+- [00:56:19,660 - 00:56:20,660] on what I intended to do.
+- [00:56:20,660 - 00:56:23,660] I just wanted to touch on.
+- [00:56:23,660 - 00:56:26,660] Professor, these extra dimensions that you had talked about,
+- [00:56:26,660 - 00:56:28,660] are they in the range of
+- [00:56:28,660 - 00:56:30,660] the Planck's in this third minus 35?
+- [00:56:30,660 - 00:56:32,660] Oh, which dimensions?
+- [00:56:32,660 - 00:56:34,660] The extra dimensions of the Planck.
+- [00:56:34,660 - 00:56:35,660] Yes.
+- [00:56:35,660 - 00:56:38,160] Yes, it is believed,
+- [00:56:38,160 - 00:56:40,660] again, without really terrific evidence,
+- [00:56:40,660 - 00:56:43,660] but again, it's the same kind of evidence.
+- [00:56:43,660 - 00:56:46,160] It's the same, where is it,
+- [00:56:46,160 - 00:56:48,660] where is our plot of coupling constants?
+- [00:56:49,660 - 00:56:51,660] If there were extra dimensions,
+- [00:56:51,660 - 00:56:56,660] and the extra dimensions had any sizable distance,
+- [00:56:56,660 - 00:56:59,660] if they were at all sizable,
+- [00:56:59,660 - 00:57:03,660] then ordinary quantum field theory would break down
+- [00:57:03,660 - 00:57:07,660] when particles begin exploring the extra dimensions.
+- [00:57:07,660 - 00:57:10,160] The conventional use of quantum
+- [00:57:10,160 - 00:57:12,660] field theory, as we use it,
+- [00:57:12,660 - 00:57:15,660] would break down at points
+- [00:57:15,660 - 00:57:18,660] where the energy became large enough
+- [00:57:18,660 - 00:57:21,660] to explore these extra tiny dimensions.
+- [00:57:21,660 - 00:57:24,660] If it's true, and if we continue to get evidence
+- [00:57:24,660 - 00:57:27,660] that quantum field theory makes sense as it is,
+- [00:57:27,660 - 00:57:29,660] out to these distances here,
+- [00:57:29,660 - 00:57:35,660] then we'll know that the extra dimensions must lie
+- [00:57:35,660 - 00:57:38,660] somewhere between the Planck length and maybe
+- [00:57:38,660 - 00:57:41,660] a thousand times bigger than the Planck length.
+- [00:57:41,660 - 00:57:44,660] So, exploring extra dimensions will also be
+- [00:57:44,660 - 00:57:47,660] something that is extremely indirect and extremely hard.
+- [00:57:48,660 - 00:57:50,660] Why couldn't it be significantly,
+- [00:57:50,660 - 00:57:52,660] orders of magnitude less than the Planck length?
+- [00:57:52,660 - 00:57:54,660] What's the argument?
+- [00:57:54,660 - 00:57:57,660] Orders of magnitude, that's another question.
+- [00:57:57,660 - 00:57:58,660] That's another question.
+- [00:57:58,660 - 00:58:01,160] The theory really doesn't work
+- [00:58:01,160 - 00:58:03,660] at all under those circumstances.
+- [00:58:03,660 - 00:58:06,660] Let's put it this way.
+- [00:58:06,660 - 00:58:09,160] If you tried to make
+- [00:58:09,160 - 00:58:11,660] them smaller than the Planck length,
+- [00:58:11,660 - 00:58:14,160] you would wind up making their
+- [00:58:14,160 - 00:58:16,660] mass larger than the Planck mass.
+- [00:58:16,660 - 00:58:22,660] Making a small thing with big
+- [00:58:22,660 - 00:58:28,660] mass means you make a black hole.
+- [00:58:28,660 - 00:58:31,660] So if you're trying to think of strings
+- [00:58:31,660 - 00:58:34,660] which were much smaller than the Planck distance
+- [00:58:34,660 - 00:58:37,660] and their mass would accordingly
+- [00:58:37,660 - 00:58:40,660] be larger than the Planck mass,
+- [00:58:40,660 - 00:58:42,660] you would be talking about black holes.
+- [00:58:42,660 - 00:58:44,660] You wouldn't be talking about strings.
+- [00:58:44,660 - 00:58:45,660] That's the problem.
+- [00:58:45,660 - 00:58:47,660] They would collapse.
+- [00:58:47,660 - 00:58:51,160] Their mass and their small distance would cause
+- [00:58:51,160 - 00:58:54,660] gravitation basically to turn them into black holes.
+- [00:58:54,660 - 00:58:57,160] So that's the reason that string
+- [00:58:57,160 - 00:58:59,660] theorists do not ever consider the possibility
+- [00:58:59,660 - 00:59:02,660] that the string scale is smaller than the Planck mass.
+- [00:59:02,660 - 00:59:04,660] And I think it's a very good reason.
+- [00:59:04,660 - 00:59:06,660] Did you say that the mass here is
+- [00:59:06,660 - 00:59:08,660] derived from the choice for L and T?
+- [00:59:08,660 - 00:59:10,660] From the what?
+- [00:59:10,660 - 00:59:12,160] Well, you gave us why we have
+- [00:59:12,160 - 00:59:13,660] an L and why we have a T.
+- [00:59:13,660 - 00:59:14,660] Yeah, yeah.
+- [00:59:14,660 - 00:59:16,660] You do exactly the same thing.
+- [00:59:16,660 - 00:59:19,160] You say, let's make a mass
+- [00:59:19,160 - 00:59:21,660] squared out of these parameters here.
+- [00:59:21,660 - 00:59:22,660] And I forget exactly what it is.
+- [00:59:22,660 - 00:59:23,660] We could figure it out.
+- [00:59:23,660 - 00:59:25,660] But the others were a physical choice.
+- [00:59:25,660 - 00:59:26,660] Sorry?
+- [00:59:26,660 - 00:59:27,660] The other, L and T
+- [00:59:27,660 - 00:59:28,660] and time were a physical choice.
+- [00:59:28,660 - 00:59:29,660] What do you mean they're physical?
+- [00:59:29,660 - 00:59:30,660] They're all physical.
+- [00:59:30,660 - 00:59:33,660] Well, yeah, but I mean, the time, for
+- [00:59:33,660 - 00:59:36,660] example, is the time to cross L and A.
+- [00:59:36,660 - 00:59:37,660] Yeah.
+- [00:59:37,660 - 00:59:39,660] And what is, that's a physical quantity.
+- [00:59:39,660 - 00:59:42,660] Well, each one is a physical quantity too.
+- [00:59:42,660 - 00:59:43,660] And what do you say about mass?
+- [00:59:43,660 - 00:59:44,660] You just put it down.
+- [00:59:44,660 - 00:59:45,660] Well, you can.
+- [00:59:45,660 - 00:59:48,660] Does it follow from our choice from L and T?
+- [00:59:48,660 - 00:59:50,660] Yes, it does.
+- [00:59:50,660 - 00:59:53,160] Well, no, it doesn't follow
+- [00:59:53,160 - 00:59:55,660] by itself from L and T.
+- [00:59:55,660 - 01:00:00,660] But if you asked, ah, good.
+- [01:00:00,660 - 01:00:01,660] Let's see.
+- [01:00:01,660 - 01:00:04,160] Once you have L and T, you can
+- [01:00:04,160 - 01:00:06,660] get mass from either H bar or G.
+- [01:00:06,660 - 01:00:11,660] You could ask, here's the way to think about it.
+- [01:00:11,660 - 01:00:12,660] Take two particles.
+- [01:00:12,660 - 01:00:17,160] Take two particles whose distance
+- [01:00:17,160 - 01:00:21,660] apart is the Planck length.
+- [01:00:21,660 - 01:00:26,660] Now, because their distance is so small, the uncertainty
+- [01:00:26,660 - 01:00:31,660] principle says that they have a lot of energy.
+- [01:00:31,660 - 01:00:32,660] Right?
+- [01:00:32,660 - 01:00:37,160] The uncertainty principle says if things are very
+- [01:00:37,160 - 01:00:41,660] well localized, then they have very large momentum.
+- [01:00:41,660 - 01:00:44,660] The fluctuations in the momentum are very large.
+- [01:00:44,660 - 01:00:48,660] So take two particles whose distance is
+- [01:00:48,660 - 01:00:52,660] known to be within the Planck distance.
+- [01:00:52,660 - 01:00:55,660] And that says something about their momentum.
+- [01:00:55,660 - 01:00:58,660] Their average momentum is extremely large.
+- [01:00:58,660 - 01:01:01,660] And from that, you can compute what their
+- [01:01:01,660 - 01:01:04,660] average kinetic energy of these two particles are.
+- [01:01:04,660 - 01:01:08,660] That kinetic energy will be the Planck mass.
+- [01:01:08,660 - 01:01:09,660] So two particles.
+- [01:01:09,660 - 01:01:13,660] If you try to take two particles and localize
+- [01:01:13,660 - 01:01:17,660] them to a distance comparable to the Planck distance,
+- [01:01:17,660 - 01:01:22,660] the answer will be that the energy that you have
+- [01:01:22,660 - 01:01:27,660] to put in to do that will be the Planck mass.
+- [01:01:27,660 - 01:01:30,660] So it's just uncertainty principle.
+- [01:01:30,660 - 01:01:33,660] We can work it out, but, you know.
+- [01:01:33,660 - 01:01:34,660] All right.
+- [01:01:34,660 - 01:01:35,660] Okay.
+- [01:01:35,660 - 01:01:36,660] Let's take a rest.
+- [01:01:36,660 - 01:01:37,660] We'll be right back.
+- [01:01:37,660 - 01:01:38,660] All right.
+- [01:01:38,660 - 01:01:39,660] Let's take a rest.
+- [01:01:39,660 - 01:01:45,660] I'm going to tell you next about some mathematics.
+- [01:01:45,660 - 01:01:48,160] I'm going to tell you
+- [01:01:48,160 - 01:01:50,660] about the mathematics of conformal transformations.
+- [01:01:50,660 - 01:01:51,660] Why?
+- [01:01:51,660 - 01:01:57,660] Because that's the basic mathematical tool of string theory.
+- [01:01:57,660 - 01:01:58,660] Well, we have our choice.
+- [01:01:58,660 - 01:02:01,660] I can either tell you why there
+- [01:02:01,660 - 01:02:04,660] are 24 or 26 dimensions in string theory,
+- [01:02:04,660 - 01:02:07,660] or I can start to tell you about conformal transformations.
+- [01:02:07,660 - 01:02:10,660] We'll get to both of them at some point.
+- [01:02:10,660 - 01:02:13,660] Are we having a class on Thanksgiving?
+- [01:02:13,660 - 01:02:14,660] Yeah.
+- [01:02:14,660 - 01:02:15,660] As long as it's not on Thanksgiving.
+- [01:02:15,660 - 01:02:18,160] Thanksgiving is always Thursday, so
+- [01:02:18,160 - 01:02:20,660] I think the answer is yes.
+- [01:02:20,660 - 01:02:21,660] Okay.
+- [01:02:21,660 - 01:02:27,160] We have 45 minutes, and I will try in 45
+- [01:02:27,160 - 01:02:32,660] minutes to give you the easy version of why there
+- [01:02:32,660 - 01:02:36,660] have to be 26 dimensions in bosonic string theory.
+- [01:02:36,660 - 01:02:43,660] The easy version is not easy, and it
+- [01:02:43,660 - 01:02:50,660] doesn't really get to the root of it.
+- [01:02:50,660 - 01:02:55,660] The hard version is very hard.
+- [01:02:55,660 - 01:02:58,660] But that doesn't mean that we can't talk
+- [01:02:58,660 - 01:03:01,660] about it qualitatively, but I thought I would
+- [01:03:01,660 - 01:03:03,160] do what I call the
+- [01:03:03,160 - 01:03:04,660] easy version, which is not easy.
+- [01:03:04,660 - 01:03:08,660] And not satisfying, but nevertheless is correct.
+- [01:03:08,660 - 01:03:13,660] Let's, you know, when people see this, they
+- [01:03:13,660 - 01:03:18,660] walk away and say, gee, that's sort of magic,
+- [01:03:18,660 - 01:03:21,660] but in the bad sense.
+- [01:03:21,660 - 01:03:25,160] But it is correct, and it is sort
+- [01:03:25,160 - 01:03:28,660] of the way that we're going to do it.
+- [01:03:28,660 - 01:03:29,160] And I think that's the
+- [01:03:29,160 - 01:03:29,660] way we're going to do it.
+- [01:03:29,660 - 01:03:30,660] I think that's the way we're going to do it.
+- [01:03:30,660 - 01:03:31,660] I think that's the way we're going to do it.
+- [01:03:31,660 - 01:03:32,660] I think that's the way we're going to do it.
+- [01:03:32,660 - 01:03:36,160] And to the other side of the canal, that's
+- [01:03:36,160 - 01:03:39,660] sort of the way that the need for extra dimensions
+- [01:03:39,660 - 01:03:43,660] was discovered.
+- [01:03:43,660 - 01:03:47,660] It has to do, if you remember, in order to
+- [01:03:47,660 - 01:03:51,660] get the photon to come out right, we had to
+- [01:03:51,660 - 01:03:52,660] do something odd.
+- [01:03:52,660 - 01:03:56,660] We had to take the mass squared
+- [01:03:56,660 - 01:04:00,660] of the ground state of the oscillating string.
+- [01:04:00,660 - 01:04:01,660] You remember...
+- [01:04:01,660 - 01:04:06,160] Let's take the open string, in the case of the
+- [01:04:06,160 - 01:04:10,660] open string, the mass squared had to be minus one unit.
+- [01:04:11,660 - 01:04:15,160] That was so that when we applied a creation
+- [01:04:15,160 - 01:04:18,660] operator to create the photon polarization, it came out massless.
+- [01:04:19,660 - 01:04:21,660] Minus one, one unit on top
+- [01:04:21,660 - 01:04:23,660] of that gives us something massless.
+- [01:04:24,660 - 01:04:26,660] We haven't talked yet about how we get
+- [01:04:26,660 - 01:04:28,660] rid of this particle of negative mass squared.
+- [01:04:28,660 - 01:04:30,660] I assure you that can be gotten rid of.
+- [01:04:31,660 - 01:04:35,660] But let's not worry about it. Let's agree.
+- [01:04:36,660 - 01:04:40,660] The mass squared of the ground state is minus one.
+- [01:04:41,660 - 01:04:43,160] Why is it minus one?
+- [01:04:43,160 - 01:04:44,660] How do we get minus one?
+- [01:04:45,660 - 01:04:48,660] Well, harmonic oscillators have zero point energy.
+- [01:04:50,660 - 01:04:56,160] So the ground state energy of this vibrating string should be
+- [01:04:56,160 - 01:05:01,660] nothing but the sum total of all of the zero point energies.
+- [01:05:02,660 - 01:05:07,660] Zero point energies are all positive.
+- [01:05:08,660 - 01:05:10,660] And in fact they depend on the frequency.
+- [01:05:11,660 - 01:05:13,160] Anybody remember what the zero point
+- [01:05:13,160 - 01:05:14,660] energy of a harmonic oscillator is?
+- [01:05:15,660 - 01:05:18,160] A half h-bar omega. Let's forget
+- [01:05:18,160 - 01:05:20,660] h-bar. Set it equal to one.
+- [01:05:21,660 - 01:05:24,160] One half omega, and do you remember
+- [01:05:24,160 - 01:05:26,660] the frequency of the nth harmonic oscillator?
+- [01:05:27,660 - 01:05:30,660] It was just n.
+- [01:05:32,660 - 01:05:37,660] n. Each one of the oscillating modes of the string,
+- [01:05:38,660 - 01:05:42,160] there's the string, each one of the oscillating
+- [01:05:42,160 - 01:05:45,660] modes, the nth oscillating mode has frequency n.
+- [01:05:46,660 - 01:05:51,160] So the ground state energy of the nth oscillator is
+- [01:05:51,160 - 01:05:55,660] just n over two, in some units, is n over two.
+- [01:05:56,660 - 01:05:58,660] Now this doesn't sound good.
+- [01:05:59,660 - 01:06:03,660] We have a lot of oscillators, one for each integer.
+- [01:06:04,660 - 01:06:07,660] We have to add up all that energy.
+- [01:06:12,660 - 01:06:16,660] It's not quite easy to imagine how we
+- [01:06:16,660 - 01:06:20,660] can add all this up and get minus one.
+- [01:06:20,660 - 01:06:27,660] Right. So there's something strange going on.
+- [01:06:28,660 - 01:06:30,660] And there it is.
+- [01:06:31,660 - 01:06:34,660] But actually we don't have to get minus one.
+- [01:06:35,660 - 01:06:37,660] We have to get to something a little bit different.
+- [01:06:38,660 - 01:06:40,660] Let's go back to the energy
+- [01:06:40,660 - 01:06:42,660] of a very, very fast moving system.
+- [01:06:43,660 - 01:06:46,660] The energy of a very, very fast moving system
+- [01:06:46,660 - 01:06:49,660] has, first of all, it has the overall momentum.
+- [01:06:50,660 - 01:06:54,660] Moving down the z-axis, it has the overall momentum.
+- [01:06:54,660 - 01:06:56,160] And then on top of the
+- [01:06:56,160 - 01:06:57,660] overall, and that's a conserved quantity.
+- [01:06:58,660 - 01:07:01,660] And we really don't care about it very much since it
+- [01:07:01,660 - 01:07:04,660] never changes during the processes that take place in particle physics.
+- [01:07:05,660 - 01:07:09,660] And then for a particle which is not moving,
+- [01:07:09,660 - 01:07:13,660] whose center of mass is not moving in the plane,
+- [01:07:14,660 - 01:07:16,660] what's the rest of it, do you remember?
+- [01:07:17,660 - 01:07:18,660] Mass squared.
+- [01:07:20,660 - 01:07:23,660] Divided, I think, by twice the momentum.
+- [01:07:24,660 - 01:07:28,660] And that's why we began to identify the energy,
+- [01:07:28,660 - 01:07:32,660] the non-relativistic energy, with m squared rather than m.
+- [01:07:33,660 - 01:07:35,660] This was the energy.
+- [01:07:39,660 - 01:07:43,660] And to make precise this idea
+- [01:07:43,660 - 01:07:47,660] of very rapid systems which become non-relativistic,
+- [01:07:47,660 - 01:07:49,660] you have to let p become extremely precise.
+- [01:07:50,660 - 01:07:51,660] And you have to let p become infinitely large.
+- [01:07:51,660 - 01:07:54,160] Basically, you have to take the
+- [01:07:54,160 - 01:07:56,660] limit of an infinitely large momentum.
+- [01:07:57,660 - 01:08:00,660] In the limit of infinitely large momentum,
+- [01:08:00,660 - 01:08:03,660] this is the form that the energy takes.
+- [01:08:04,660 - 01:08:06,160] You say, well, I'm going to
+- [01:08:06,160 - 01:08:07,660] take the form of infinitely large energy.
+- [01:08:07,660 - 01:08:09,660] This thing just goes to zero.
+- [01:08:10,660 - 01:08:13,160] But what you really do is you take e
+- [01:08:13,160 - 01:08:15,660] minus p, you subtract the momentum from the energy.
+- [01:08:16,660 - 01:08:17,660] That's all right.
+- [01:08:17,660 - 01:08:19,660] This is a perfectly conserved quantity.
+- [01:08:19,660 - 01:08:21,160] If it never changes, you
+- [01:08:21,160 - 01:08:22,660] don't care very much about it.
+- [01:08:23,660 - 01:08:26,660] And then multiply the whole thing by, let's say, 2p.
+- [01:08:27,660 - 01:08:29,660] And that gives you m squared.
+- [01:08:30,660 - 01:08:34,160] This 2p here, the reason you multiply by
+- [01:08:34,160 - 01:08:37,660] 2p is that's got to do with time dilation.
+- [01:08:37,660 - 01:08:40,160] The faster a thing moves down the
+- [01:08:40,160 - 01:08:42,660] z-axis, the slower its internal motions go.
+- [01:08:42,660 - 01:08:45,160] The slower the internal motions, that
+- [01:08:45,160 - 01:08:47,660] means the smaller the internal energies.
+- [01:08:47,660 - 01:08:50,660] For example, if you have an atom,
+- [01:08:50,660 - 01:08:53,660] what's the ionization energy of a hydrogen atom?
+- [01:08:54,660 - 01:08:57,660] 13.5 electron volts or something.
+- [01:08:58,660 - 01:08:59,660] Okay.
+- [01:08:59,660 - 01:09:01,160] Now you take that atom and you
+- [01:09:01,160 - 01:09:02,660] speed it up and you send it down.
+- [01:09:02,660 - 01:09:06,660] In other words, the energy difference between the ground
+- [01:09:06,660 - 01:09:10,660] state of the atom, let's not take the ionization energy.
+- [01:09:11,660 - 01:09:14,160] The energy difference between the ground state of a
+- [01:09:14,160 - 01:09:16,660] hydrogen atom and the first excited state is what?
+- [01:09:17,660 - 01:09:18,660] 3 volts.
+- [01:09:18,660 - 01:09:21,660] Oh, 3, 4 volts, something like that.
+- [01:09:21,660 - 01:09:24,660] 3 or 4 electron volts.
+- [01:09:24,660 - 01:09:28,660] Now what happens as you boost the atom?
+- [01:09:29,660 - 01:09:32,660] What happens to the overall energy of it?
+- [01:09:32,660 - 01:09:34,660] It increases, of course.
+- [01:09:34,660 - 01:09:35,660] Right?
+- [01:09:35,660 - 01:09:36,660] That's this.
+- [01:09:36,660 - 01:09:41,160] But what happens to the energy difference between the first
+- [01:09:41,160 - 01:09:45,660] excited state, between the ground state and the first excited state?
+- [01:09:45,660 - 01:09:46,660] Does it get bigger or smaller?
+- [01:09:46,660 - 01:09:47,660] Smaller.
+- [01:09:47,660 - 01:09:48,660] Smaller.
+- [01:09:48,660 - 01:09:51,660] And it gets smaller with this 1 over p here.
+- [01:09:51,660 - 01:09:56,660] And in fact, the energy of that atom or the differences of energy between the
+- [01:09:56,660 - 01:10:01,660] atoms are proportional to the square of the mass of the atom divided by 2p.
+- [01:10:01,660 - 01:10:03,660] So that's what this formula is.
+- [01:10:03,660 - 01:10:05,160] Well, we don't want to,
+- [01:10:05,160 - 01:10:06,660] we don't care about this piece.
+- [01:10:06,660 - 01:10:08,160] That just has to do with
+- [01:10:08,160 - 01:10:09,660] its overall motion down the z-axis.
+- [01:10:09,660 - 01:10:11,660] Just subtract it off.
+- [01:10:11,660 - 01:10:15,660] It doesn't have to do with the internal motions.
+- [01:10:15,660 - 01:10:16,660] And then the p in the denominator here.
+- [01:10:16,660 - 01:10:19,660] That's just associated with the
+- [01:10:19,660 - 01:10:22,660] slowing down of the internal motions.
+- [01:10:22,660 - 01:10:25,660] So let's just multiply through by it.
+- [01:10:25,660 - 01:10:29,660] And this is the way we really think of energy.
+- [01:10:29,660 - 01:10:31,160] This quantity is the energy and
+- [01:10:31,160 - 01:10:32,660] it's proportional to the mass squared.
+- [01:10:32,660 - 01:10:33,660] Okay.
+- [01:10:33,660 - 01:10:39,160] The point is now that the actual energy of the ground state
+- [01:10:39,160 - 01:10:44,660] has an infinite piece, a piece with, or let's put this piece back.
+- [01:10:44,660 - 01:10:46,660] Let's put this piece back.
+- [01:10:46,660 - 01:10:50,660] Let's put, let's not subtract this.
+- [01:10:50,660 - 01:10:52,660] Let's add this back on this side.
+- [01:10:52,660 - 01:10:53,660] Plus, what is it?
+- [01:10:53,660 - 01:10:59,660] Plus p squared plus 2p squared.
+- [01:10:59,660 - 01:11:01,660] Let me just get this right.
+- [01:11:01,660 - 01:11:02,660] p times e.
+- [01:11:02,660 - 01:11:05,160] Let's take p times e
+- [01:11:05,160 - 01:11:07,660] is m squared plus 2p squared.
+- [01:11:07,660 - 01:11:08,660] Okay.
+- [01:11:08,660 - 01:11:11,160] Notice that first of all is the interesting thing
+- [01:11:11,160 - 01:11:13,660] which is the mass squared, which we're interested in.
+- [01:11:13,660 - 01:11:16,660] But there's also this infinite piece here.
+- [01:11:16,660 - 01:11:18,660] This infinite piece.
+- [01:11:18,660 - 01:11:22,160] So it's not really quite true that the
+- [01:11:22,160 - 01:11:25,660] energy has to add up to minus 1.
+- [01:11:25,660 - 01:11:30,160] It would be okay if it added up to something like
+- [01:11:30,160 - 01:11:34,660] minus 1 plus an infinite constant that was similar to p squared.
+- [01:11:34,660 - 01:11:36,660] So I'm going to show you how that works.
+- [01:11:36,660 - 01:11:37,660] I'm going to show you how that works.
+- [01:11:37,660 - 01:11:39,660] How you can add up.
+- [01:11:39,660 - 01:11:46,660] 1 plus 2 plus 3 plus 4 plus 5.
+- [01:11:46,660 - 01:11:48,660] This is all the internal energy.
+- [01:11:48,660 - 01:11:55,660] And get something which looks like a constant, namely minus 1, which is what we
+- [01:11:55,660 - 01:12:02,660] want to get, plus an infinite piece that can be absorbed into something that's already there.
+- [01:12:02,660 - 01:12:04,160] This is a trick of physics
+- [01:12:04,160 - 01:12:05,660] that takes place all the time.
+- [01:12:05,660 - 01:12:07,660] It happens all the time.
+- [01:12:07,660 - 01:12:08,660] All kinds of content.
+- [01:12:08,660 - 01:12:10,660] I mean all kinds of context
+- [01:12:10,660 - 01:12:12,660] where you get some infinite answer.
+- [01:12:12,660 - 01:12:13,660] And you don't know what
+- [01:12:13,660 - 01:12:14,660] to do with the infinite answer.
+- [01:12:14,660 - 01:12:21,660] But you realize that the thing which is becoming infinite already has a constant
+- [01:12:21,660 - 01:12:28,660] piece in it that you just add the extra infinity to the constant piece.
+- [01:12:28,660 - 01:12:32,660] An example is the energy of vacuum, the energy of
+- [01:12:32,660 - 01:12:36,660] just the mass of a particle or a self energy.
+- [01:12:36,660 - 01:12:38,660] All sorts of things like that.
+- [01:12:38,660 - 01:12:42,160] Where you can hide infinite constants
+- [01:12:42,160 - 01:12:45,660] into things which are already there.
+- [01:12:45,660 - 01:12:47,660] I'm not saying this is a satisfactory state of affairs.
+- [01:12:47,660 - 01:12:50,660] It's just something that we do all the time.
+- [01:12:50,660 - 01:12:54,160] The energy in this room, it has zero point
+- [01:12:54,160 - 01:12:57,660] oscillations from all of the photons and everything else.
+- [01:12:57,660 - 01:13:00,160] Not from the photons that are here,
+- [01:13:00,160 - 01:13:02,660] but from the oscillations of the electromagnetic field.
+- [01:13:02,660 - 01:13:04,660] How big are those oscillations?
+- [01:13:04,660 - 01:13:06,660] The energy? Infinite.
+- [01:13:06,660 - 01:13:07,660] What do we do with it?
+- [01:13:07,660 - 01:13:11,160] We just subtract it off by saying we could add a constant
+- [01:13:11,160 - 01:13:14,660] to the energy of the room and it wouldn't make any difference.
+- [01:13:14,660 - 01:13:16,660] So just get rid of it.
+- [01:13:16,660 - 01:13:17,660] It's the same thing here.
+- [01:13:17,660 - 01:13:20,160] We're going to get a constant
+- [01:13:20,160 - 01:13:22,660] piece which is just infinite but constant.
+- [01:13:22,660 - 01:13:25,660] As long as it's constant, it never affects anything.
+- [01:13:25,660 - 01:13:29,160] Plus a term which looks like
+- [01:13:29,160 - 01:13:32,660] this with an additional mass squared.
+- [01:13:32,660 - 01:13:35,660] Let me show you the mathematics.
+- [01:13:35,660 - 01:13:37,660] And we can then discuss another topic.
+- [01:13:37,660 - 01:13:38,660] Another time, the physics.
+- [01:13:38,660 - 01:13:46,660] The mathematics is tricky but easy.
+- [01:13:46,660 - 01:13:48,660] The mathematics is just a question of adding
+- [01:13:48,660 - 01:13:50,660] up 1 plus 2 plus 3 plus 4.
+- [01:13:50,660 - 01:13:53,660] It's just a sum here.
+- [01:13:53,660 - 01:13:55,660] 1 plus 2 plus 3 plus 4.
+- [01:13:55,660 - 01:13:58,660] There's an overall factor of a half outside.
+- [01:13:58,660 - 01:14:02,660] That comes from the half h bar omega.
+- [01:14:02,660 - 01:14:04,660] But the basic calculation is to
+- [01:14:04,660 - 01:14:06,660] add up all of the integers.
+- [01:14:07,660 - 01:14:10,660] Obviously infinite.
+- [01:14:10,660 - 01:14:14,660] But let's see if we can extract out
+- [01:14:14,660 - 01:14:18,660] of that infinite piece an infinity plus something finite.
+- [01:14:18,660 - 01:14:22,160] This is always the way quantum
+- [01:14:22,160 - 01:14:25,660] field theory and relativistic quantum mechanics works.
+- [01:14:25,660 - 01:14:28,660] So 1 plus 2 plus 3 plus 4.
+- [01:14:28,660 - 01:14:30,160] This is not something we're going
+- [01:14:30,160 - 01:14:31,660] to easily add up, is it?
+- [01:14:31,660 - 01:14:33,660] So let's do something to
+- [01:14:33,660 - 01:14:35,660] it and then take a limit.
+- [01:14:35,660 - 01:14:39,660] Let's multiply each one of these.
+- [01:14:39,660 - 01:14:44,660] Let's introduce a small constant, epsilon.
+- [01:14:44,660 - 01:14:47,160] e to the minus epsilon
+- [01:14:47,160 - 01:14:49,660] is a number less than 1.
+- [01:14:49,660 - 01:14:52,160] But when epsilon is very, very small,
+- [01:14:52,160 - 01:14:54,660] this number is close to 1, right?
+- [01:14:54,660 - 01:14:55,660] Okay.
+- [01:14:55,660 - 01:14:58,160] Let's add to it plus 2
+- [01:14:58,160 - 01:15:00,660] e to the minus 2 epsilon.
+- [01:15:00,660 - 01:15:02,660] And then we get a constant.
+- [01:15:02,660 - 01:15:03,660] Let's do something to it.
+- [01:15:03,660 - 01:15:08,660] e to the minus 2 epsilon.
+- [01:15:08,660 - 01:15:12,660] This is just a trick for making the sum converge.
+- [01:15:12,660 - 01:15:15,160] Each term in it, we're going to
+- [01:15:15,160 - 01:15:17,660] put in something which gets smaller and smaller.
+- [01:15:17,660 - 01:15:20,160] But when epsilon goes to 0, it'll
+- [01:15:20,160 - 01:15:22,660] just give us back the original sum.
+- [01:15:22,660 - 01:15:24,660] So epsilon is going to go to 0.
+- [01:15:24,660 - 01:15:25,660] In fact, you know what?
+- [01:15:25,660 - 01:15:27,660] Yeah, all right, let's leave it this way.
+- [01:15:27,660 - 01:15:30,660] 1 plus 2 epsilon, what's the next one?
+- [01:15:30,660 - 01:15:33,660] 3 e to the minus 3 epsilon.
+- [01:15:33,660 - 01:15:41,660] Plus 4 e to the minus 4 epsilon.
+- [01:15:41,660 - 01:15:46,160] But now, if epsilon is not 0, then
+- [01:15:46,160 - 01:15:50,660] the sequence of terms e to the minus epsilon,
+- [01:15:50,660 - 01:15:52,160] e to the minus 2 epsilon, e to
+- [01:15:52,160 - 01:15:53,660] the minus 3 epsilon do get smaller and smaller.
+- [01:15:53,660 - 01:15:56,660] Now, if epsilon is small, it takes
+- [01:15:56,660 - 01:15:59,660] a long, long time for them to shrink.
+- [01:15:59,660 - 01:16:01,660] So if we were just to plot,
+- [01:16:01,660 - 01:16:03,660] the e to the minus...
+- [01:16:03,660 - 01:16:05,160] epsilon e to the minus
+- [01:16:05,160 - 01:16:06,660] 2 epsilon would be a very...
+- [01:16:06,660 - 01:16:08,660] as a function of the integers,
+- [01:16:08,660 - 01:16:11,160] it would fall very slowly
+- [01:16:11,160 - 01:16:13,660] if epsilon is a small number.
+- [01:16:13,660 - 01:16:14,660] All right?
+- [01:16:14,660 - 01:16:17,660] But eventually, the e to
+- [01:16:17,660 - 01:16:20,660] the minus n epsilon will win,
+- [01:16:20,660 - 01:16:22,660] and it will be...
+- [01:16:22,660 - 01:16:25,660] make each term successively smaller and smaller,
+- [01:16:25,660 - 01:16:27,660] and you'll be able to add them up.
+- [01:16:27,660 - 01:16:28,660] All right?
+- [01:16:28,660 - 01:16:31,660] So what you do is you add these up,
+- [01:16:31,660 - 01:16:33,660] and then after adding them up,
+- [01:16:33,660 - 01:16:36,660] you let epsilon go to 0.
+- [01:16:36,660 - 01:16:37,660] All right?
+- [01:16:37,660 - 01:16:39,660] It's a mathematical trick.
+- [01:16:39,660 - 01:16:43,660] So let's see what we get.
+- [01:16:43,660 - 01:16:44,660] It takes a bunch of steps,
+- [01:16:44,660 - 01:16:49,660] and I'll show you that the steps are elementary.
+- [01:16:49,660 - 01:16:52,660] Okay.
+- [01:16:52,660 - 01:16:57,660] This can be written as the sum
+- [01:16:57,660 - 01:17:01,660] from n equals 1 to infinity
+- [01:17:01,660 - 01:17:02,660] of n e to the minus 1.
+- [01:17:02,660 - 01:17:06,160] So what we get is n
+- [01:17:06,160 - 01:17:09,660] e to the minus n epsilon.
+- [01:17:09,660 - 01:17:11,660] e to the minus 1 epsilon times 1,
+- [01:17:11,660 - 01:17:13,660] e to the minus 2 epsilon times 2,
+- [01:17:13,660 - 01:17:14,660] and so forth and so on.
+- [01:17:14,660 - 01:17:15,660] All right?
+- [01:17:15,660 - 01:17:17,660] That's the sum.
+- [01:17:17,660 - 01:17:20,660] Now, the trick is to get rid of this n.
+- [01:17:20,660 - 01:17:22,660] First trick is to get rid of this n,
+- [01:17:22,660 - 01:17:24,660] and the way to get rid of this n
+- [01:17:24,660 - 01:17:27,160] is just to take the
+- [01:17:27,160 - 01:17:29,660] sum without the n in it
+- [01:17:29,660 - 01:17:31,660] and differentiate with respect to epsilon.
+- [01:17:31,660 - 01:17:33,660] So what happens if we differentiate
+- [01:17:33,660 - 01:17:37,660] with respect to epsilon?
+- [01:17:37,660 - 01:17:41,660] What does the derivative with respect to epsilon give?
+- [01:17:41,660 - 01:17:44,660] It brings down minus n.
+- [01:17:44,660 - 01:17:45,660] All right?
+- [01:17:45,660 - 01:17:48,660] So this is equal to minus.
+- [01:17:48,660 - 01:17:49,660] So in other words,
+- [01:17:49,660 - 01:17:51,660] we really want to put minus here.
+- [01:17:51,660 - 01:17:53,160] This is equal to the
+- [01:17:53,160 - 01:17:54,660] original sum we were interested in,
+- [01:17:54,660 - 01:17:57,660] n e to the minus n epsilon.
+- [01:17:57,660 - 01:17:58,660] Okay.
+- [01:17:58,660 - 01:18:00,660] That's the first step.
+- [01:18:00,660 - 01:18:03,660] The second step is to observe
+- [01:18:03,660 - 01:18:05,660] that we can add the series up.
+- [01:18:05,660 - 01:18:08,660] This whole series is a geometric series.
+- [01:18:08,660 - 01:18:11,660] It starts out, let's just see what it is.
+- [01:18:11,660 - 01:18:13,660] It has an e to the minus epsilon
+- [01:18:13,660 - 01:18:18,660] plus an e to the minus 2 epsilon
+- [01:18:18,660 - 01:18:26,660] plus an e to the minus 3 epsilon,
+- [01:18:26,660 - 01:18:28,660] which also can be written in another form.
+- [01:18:28,660 - 01:18:30,660] It's e to the minus epsilon.
+- [01:18:30,660 - 01:18:36,660] Times 1 plus e to the minus epsilon
+- [01:18:36,660 - 01:18:41,660] plus e to the minus 2 epsilon and so forth.
+- [01:18:41,660 - 01:18:43,160] I pulled out a factor
+- [01:18:43,160 - 01:18:44,660] of e to the minus epsilon.
+- [01:18:44,660 - 01:18:46,660] Do you know what this is?
+- [01:18:49,660 - 01:18:50,660] Exactly.
+- [01:18:50,660 - 01:18:52,660] This is a geometric series,
+- [01:18:52,660 - 01:18:55,660] 1 plus a number plus the square of the number
+- [01:18:55,660 - 01:18:58,660] plus the cube of the number.
+- [01:18:58,660 - 01:19:01,660] And so we can add all of this up.
+- [01:19:01,660 - 01:19:02,660] And what do we get?
+- [01:19:02,660 - 01:19:06,660] We get e to the minus epsilon
+- [01:19:06,660 - 01:19:12,660] divided by 1 minus e to the minus epsilon.
+- [01:19:12,660 - 01:19:13,660] Okay.
+- [01:19:13,660 - 01:19:18,660] That's the thing that we want to differentiate
+- [01:19:18,660 - 01:19:21,660] with respect to epsilon.
+- [01:19:21,660 - 01:19:22,660] That's this.
+- [01:19:22,660 - 01:19:26,660] I put a minus sign in front of it.
+- [01:19:26,660 - 01:19:27,660] Okay.
+- [01:19:27,660 - 01:19:33,660] This is something you can do for homework,
+- [01:19:33,660 - 01:19:36,660] but I'm going to show you roughly what happens.
+- [01:19:36,660 - 01:19:38,660] Oh, but in the end,
+- [01:19:38,660 - 01:19:40,660] we're interested in small epsilon.
+- [01:19:40,660 - 01:19:42,660] We're interested in small epsilon.
+- [01:19:42,660 - 01:19:49,660] So let's see.
+- [01:19:49,660 - 01:19:50,660] What do we want to do with that?
+- [01:19:50,660 - 01:19:52,660] Yeah.
+- [01:19:52,660 - 01:19:55,660] Let's expand it for small epsilon.
+- [01:19:55,660 - 01:19:58,660] Let's first expand it for small epsilon
+- [01:19:58,660 - 01:20:00,160] and then do the operation and
+- [01:20:00,160 - 01:20:01,660] then the epsilon go to zero.
+- [01:20:01,660 - 01:20:03,660] We're interested in small epsilon.
+- [01:20:03,660 - 01:20:06,660] So what is e to the minus epsilon
+- [01:20:06,660 - 01:20:08,660] when expanded in terms of epsilon?
+- [01:20:08,660 - 01:20:12,660] 1 minus epsilon plus epsilon
+- [01:20:12,660 - 01:20:16,660] squared over 2, dot, dot, dot.
+- [01:20:16,660 - 01:20:20,660] We're only going to need things to power epsilon squared.
+- [01:20:20,660 - 01:20:24,660] We won't need things beyond that.
+- [01:20:24,660 - 01:20:26,660] And of course, there are
+- [01:20:26,660 - 01:20:28,660] more, but we won't need them.
+- [01:20:28,660 - 01:20:31,660] Now what about the denominator?
+- [01:20:31,660 - 01:20:35,660] What's in the denominator?
+- [01:20:35,660 - 01:20:38,660] We have 1 minus.
+- [01:20:38,660 - 01:20:39,660] Okay.
+- [01:20:39,660 - 01:20:43,160] So let's write out e
+- [01:20:43,160 - 01:20:46,660] to the minus epsilon minus 1.
+- [01:20:46,660 - 01:20:52,660] I think it's plus epsilon minus epsilon squared.
+- [01:20:52,660 - 01:20:53,660] Let's go to the next one.
+- [01:20:53,660 - 01:20:54,660] I think we're going to need
+- [01:20:54,660 - 01:20:55,660] the next one, as you'll see.
+- [01:20:55,660 - 01:20:58,660] Epsilon squared over 2, right?
+- [01:20:58,660 - 01:21:00,660] What's the next one?
+- [01:21:00,660 - 01:21:05,660] Epsilon cubed over 60 plus.
+- [01:21:05,660 - 01:21:07,660] Let me just check the sign.
+- [01:21:07,660 - 01:21:10,660] 1 minus 1 plus epsilon minus epsilon squared over 2.
+- [01:21:10,660 - 01:21:11,660] And the next one?
+- [01:21:11,660 - 01:21:17,660] Plus epsilon cubed over what?
+- [01:21:17,660 - 01:21:21,660] Epsilon cubed over 6.
+- [01:21:21,660 - 01:21:22,660] All right.
+- [01:21:22,660 - 01:21:27,660] Now we have trouble.
+- [01:21:27,660 - 01:21:32,660] The trouble is the 1s cancel.
+- [01:21:32,660 - 01:21:37,660] The denominator is proportional to epsilon.
+- [01:21:37,660 - 01:21:40,660] Let's factor out 1 power of epsilon.
+- [01:21:40,660 - 01:21:41,660] Let's see.
+- [01:21:41,660 - 01:21:42,660] We want to take the derivative.
+- [01:21:42,660 - 01:21:46,660] This is the object whose derivative we want to take.
+- [01:21:46,660 - 01:21:49,660] Let's factor out a factor of epsilon in the denominator.
+- [01:21:49,660 - 01:21:51,660] Since everything in the denominator has epsilon,
+- [01:21:51,660 - 01:21:52,660] we're going to factor it out.
+- [01:21:52,660 - 01:21:54,660] 1 over epsilon.
+- [01:21:54,660 - 01:22:00,660] And then this becomes 1 minus epsilon plus epsilon squared.
+- [01:22:00,660 - 01:22:02,660] Did everybody follow that?
+- [01:22:02,660 - 01:22:04,660] Okay.
+- [01:22:04,660 - 01:22:05,660] Plus higher terms.
+- [01:22:05,660 - 01:22:07,160] But as I said, the
+- [01:22:07,160 - 01:22:08,660] higher terms are going to disappear
+- [01:22:08,660 - 01:22:13,660] when we go to small epsilon.
+- [01:22:13,660 - 01:22:14,660] They won't be important.
+- [01:22:14,660 - 01:22:16,660] Which is the minus sign?
+- [01:22:16,660 - 01:22:18,660] That was the minus sign?
+- [01:22:18,660 - 01:22:19,660] The 1 minus the quantity 1.
+- [01:22:19,660 - 01:22:27,660] Well, I thought I got it right.
+- [01:22:27,660 - 01:22:28,660] All right.
+- [01:22:28,660 - 01:22:30,660] Should we do it over?
+- [01:22:30,660 - 01:22:34,660] 1 minus.
+- [01:22:34,660 - 01:22:36,660] Put in brackets.
+- [01:22:36,660 - 01:22:41,660] 1 minus epsilon plus epsilon squared
+- [01:22:41,660 - 01:22:46,660] over 2 minus epsilon cubed over 6.
+- [01:22:46,660 - 01:22:47,660] All right.
+- [01:22:47,660 - 01:22:48,660] Everybody happy with that?
+- [01:22:48,660 - 01:22:57,660] Now, the 1s are going to cancel.
+- [01:22:57,660 - 01:23:01,160] And the minus times the
+- [01:23:01,160 - 01:23:04,660] minus will make plus minus plus.
+- [01:23:04,660 - 01:23:06,660] I have no idea if that's what
+- [01:23:06,660 - 01:23:08,660] I had written down before or not.
+- [01:23:08,660 - 01:23:11,660] Then we pull out a factor of epsilon.
+- [01:23:11,660 - 01:23:16,660] And that turns this into 1 minus epsilon over 2
+- [01:23:16,660 - 01:23:17,660] plus epsilon squared over 2.
+- [01:23:17,660 - 01:23:22,160] And that's going to be
+- [01:23:22,160 - 01:23:26,660] 1 minus epsilon squared over 6.
+- [01:23:26,660 - 01:23:27,660] All right.
+- [01:23:27,660 - 01:23:29,160] Now, the trick is we're
+- [01:23:29,160 - 01:23:30,660] expanding everything in powers of epsilon.
+- [01:23:30,660 - 01:23:33,660] But here we have a thing in the denominator.
+- [01:23:33,660 - 01:23:35,660] I don't want this in the denominator.
+- [01:23:35,660 - 01:23:37,660] I want in the numerator.
+- [01:23:37,660 - 01:23:40,660] So how do you deal with
+- [01:23:40,660 - 01:23:43,660] a thing in the denominator like this?
+- [01:23:43,660 - 01:23:45,160] You use the formula that 1
+- [01:23:45,160 - 01:23:46,660] minus a small number, like this.
+- [01:23:46,660 - 01:23:47,660] A small number.
+- [01:23:47,660 - 01:23:49,660] Let's just call it s.
+- [01:23:49,660 - 01:23:54,160] Is equal to 1 plus s plus
+- [01:23:54,160 - 01:23:58,660] s squared plus s cubed and so forth.
+- [01:23:58,660 - 01:24:01,660] Here's your s.
+- [01:24:01,660 - 01:24:03,660] Oh, did I leave out something?
+- [01:24:03,660 - 01:24:04,660] No, I think I got it right.
+- [01:24:04,660 - 01:24:06,660] Did I?
+- [01:24:06,660 - 01:24:08,660] I think I did everything right.
+- [01:24:08,660 - 01:24:10,660] I think I did everything right.
+- [01:24:10,660 - 01:24:12,660] So what we do is we
+- [01:24:12,660 - 01:24:14,660] take what's in the denominator here.
+- [01:24:14,660 - 01:24:16,160] We expand it to get all
+- [01:24:16,160 - 01:24:17,660] the epsilon dependence in the numerator.
+- [01:24:17,660 - 01:24:19,660] Let's see what we get.
+- [01:24:19,660 - 01:24:24,660] I think we're going to get 1 plus
+- [01:24:24,660 - 01:24:29,660] epsilon over 2 minus epsilon squared over 6.
+- [01:24:29,660 - 01:24:32,160] But then there's a term coming
+- [01:24:32,160 - 01:24:34,660] from squaring the small quantity here.
+- [01:24:34,660 - 01:24:36,660] If I keep things to order epsilon squared,
+- [01:24:36,660 - 01:24:38,660] all I'm going to get is, let's see,
+- [01:24:38,660 - 01:24:42,660] I think plus epsilon squared over 4, I think.
+- [01:24:42,660 - 01:24:43,660] Okay.
+- [01:24:44,660 - 01:24:50,660] But you can expand it out yourself.
+- [01:24:50,660 - 01:24:58,660] Something like this.
+- [01:24:58,660 - 01:25:00,660] Plus higher order in epsilon.
+- [01:25:00,660 - 01:25:03,660] Is that the epsilon cubed over 4?
+- [01:25:03,660 - 01:25:05,660] No, I think it was epsilon squared.
+- [01:25:05,660 - 01:25:06,660] Right.
+- [01:25:06,660 - 01:25:07,660] Mm-hmm.
+- [01:25:07,660 - 01:25:09,660] It was just epsilon squared.
+- [01:25:09,660 - 01:25:12,660] It was not epsilon cubed.
+- [01:25:12,660 - 01:25:13,660] No.
+- [01:25:13,660 - 01:25:17,660] So this is epsilon cubed in the denominator here
+- [01:25:17,660 - 01:25:21,660] became epsilon squared when I pulled out the epsilon here.
+- [01:25:21,660 - 01:25:23,660] And I was purposefully keeping
+- [01:25:23,660 - 01:25:25,660] everything to powers order epsilon squared.
+- [01:25:25,660 - 01:25:28,660] I know that the next order is not important.
+- [01:25:28,660 - 01:25:29,660] Okay.
+- [01:25:29,660 - 01:25:31,660] So let's see if we can combine this together.
+- [01:25:31,660 - 01:25:33,160] I think the chances that
+- [01:25:33,160 - 01:25:34,660] I'll get this right are negligible.
+- [01:25:34,660 - 01:25:35,660] But all right.
+- [01:25:35,660 - 01:25:38,660] So we get minus d by d epsilon.
+- [01:25:38,660 - 01:25:41,660] 1 over epsilon.
+- [01:25:41,660 - 01:25:44,660] Times.
+- [01:25:44,660 - 01:25:45,660] Okay.
+- [01:25:45,660 - 01:25:46,660] 1 times 1.
+- [01:25:46,660 - 01:25:48,660] Let's put everything that you get from 1.
+- [01:25:48,660 - 01:25:56,660] 1 plus epsilon over 2 minus epsilon squared over 6.
+- [01:25:56,660 - 01:26:01,660] Oh, can we combine these two together?
+- [01:26:01,660 - 01:26:05,660] What's epsilon squared over 4 minus epsilon squared over 6?
+- [01:26:05,660 - 01:26:07,660] Epsilon squared over 12.
+- [01:26:07,660 - 01:26:09,660] Epsilon squared over 12.
+- [01:26:09,660 - 01:26:16,660] Right?
+- [01:26:16,660 - 01:26:19,660] Okay.
+- [01:26:19,660 - 01:26:22,660] How did you do that so fast?
+- [01:26:22,660 - 01:26:24,660] Who did it?
+- [01:26:24,660 - 01:26:27,660] You didn't?
+- [01:26:27,660 - 01:26:31,660] What?
+- [01:26:31,660 - 01:26:33,160] It took me about 30 minutes
+- [01:26:33,160 - 01:26:34,660] to get that epsilon squared over 12.
+- [01:26:34,660 - 01:26:37,660] Okay.
+- [01:26:37,660 - 01:26:38,660] No, 3 minus 2.
+- [01:26:38,660 - 01:26:40,660] That's where you want it.
+- [01:26:40,660 - 01:26:41,660] You know the common denominator is going to be.
+- [01:26:41,660 - 01:26:42,660] I know.
+- [01:26:42,660 - 01:26:45,660] I know how to do it.
+- [01:26:45,660 - 01:26:48,660] 1 plus epsilon minus, sorry,
+- [01:26:48,660 - 01:26:51,660] 1 plus epsilon squared over 12.
+- [01:26:51,660 - 01:26:52,660] Right?
+- [01:26:52,660 - 01:26:56,660] That's this times this, this, and this.
+- [01:26:56,660 - 01:27:05,660] Then we get minus epsilon, minus epsilon times 1.
+- [01:27:05,660 - 01:27:06,660] And then minus epsilon.
+- [01:27:06,660 - 01:27:07,660] Minus epsilon.
+- [01:27:07,660 - 01:27:14,660] Minus epsilon squared over 2.
+- [01:27:14,660 - 01:27:16,160] But then from here we
+- [01:27:16,160 - 01:27:17,660] get something of order epsilon cubed.
+- [01:27:17,660 - 01:27:19,160] And I'm not interested in
+- [01:27:19,160 - 01:27:20,660] keeping anything of order epsilon cubed.
+- [01:27:20,660 - 01:27:21,660] That's too high an order.
+- [01:27:21,660 - 01:27:23,660] I don't care about it.
+- [01:27:23,660 - 01:27:25,660] We'll see why in a moment.
+- [01:27:25,660 - 01:27:32,660] And then we have plus epsilon squared over 2.
+- [01:27:32,660 - 01:27:35,660] And nothing past that because the next one would be.
+- [01:27:35,660 - 01:27:36,660] Epsilon fourth.
+- [01:27:36,660 - 01:27:44,660] I think this is everything to order epsilon squared.
+- [01:27:44,660 - 01:27:49,660] Should it be plus?
+- [01:27:49,660 - 01:27:52,660] No?
+- [01:27:52,660 - 01:27:54,660] I think it should be plus, right?
+- [01:27:54,660 - 01:27:55,660] Yeah.
+- [01:27:55,660 - 01:27:57,660] Right.
+- [01:27:57,660 - 01:27:58,660] Looks right.
+- [01:27:58,660 - 01:28:02,660] 1 times epsilon squared over 12.
+- [01:28:02,660 - 01:28:03,660] Okay.
+- [01:28:03,660 - 01:28:04,660] Now.
+- [01:28:04,660 - 01:28:06,660] Epsilon over 2 minus epsilon.
+- [01:28:06,660 - 01:28:09,660] That's minus epsilon over 2.
+- [01:28:09,660 - 01:28:11,660] We get rid of this.
+- [01:28:11,660 - 01:28:15,660] And these two cancel.
+- [01:28:15,660 - 01:28:21,660] So there's our formula right there.
+- [01:28:21,660 - 01:28:24,660] As we'll see, anything of higher order
+- [01:28:24,660 - 01:28:27,660] is not going to be interesting to us.
+- [01:28:27,660 - 01:28:31,660] Okay.
+- [01:28:31,660 - 01:28:32,660] Look at.
+- [01:28:32,660 - 01:28:37,660] Let's first focus on the one that's easiest.
+- [01:28:37,660 - 01:28:41,660] The easiest term is this epsilon over 2.
+- [01:28:41,660 - 01:28:44,660] It gets multiplied by 1 over epsilon.
+- [01:28:44,660 - 01:28:46,660] That means it's just 1 half.
+- [01:28:46,660 - 01:28:48,160] And what happens when you differentiate
+- [01:28:48,160 - 01:28:49,660] 1 half with respect to epsilon?
+- [01:28:49,660 - 01:28:50,660] Zero.
+- [01:28:50,660 - 01:28:51,660] So this is.
+- [01:28:51,660 - 01:28:53,660] We don't have to write it.
+- [01:28:53,660 - 01:28:55,660] It's not there.
+- [01:28:55,660 - 01:28:56,660] Okay.
+- [01:28:56,660 - 01:28:59,660] Now we have a term which is 1 over epsilon.
+- [01:28:59,660 - 01:29:00,660] That's bad news.
+- [01:29:00,660 - 01:29:01,660] This is.
+- [01:29:01,660 - 01:29:04,660] This is something infinite at epsilon equals zero.
+- [01:29:04,660 - 01:29:07,660] And remember we're going to go to epsilon equals zero.
+- [01:29:07,660 - 01:29:08,660] All right.
+- [01:29:08,660 - 01:29:15,660] What's the derivative of 1 over epsilon?
+- [01:29:15,660 - 01:29:18,660] Minus 1 over epsilon squared, right?
+- [01:29:18,660 - 01:29:23,660] Minus 1 over epsilon squared.
+- [01:29:23,660 - 01:29:25,660] Oh, and there's another minus sign here.
+- [01:29:25,660 - 01:29:29,660] So that's plus 1 over epsilon squared, I think.
+- [01:29:29,660 - 01:29:30,660] Yes.
+- [01:29:30,660 - 01:29:37,660] And then 1 over epsilon times epsilon.
+- [01:29:37,660 - 01:29:40,660] One of the epsilons cancel.
+- [01:29:40,660 - 01:29:43,660] And then you differentiate with respect to epsilon.
+- [01:29:43,660 - 01:29:44,660] What do you get?
+- [01:29:44,660 - 01:29:53,660] Minus 1 twelfth.
+- [01:29:53,660 - 01:29:56,660] This is a famous formula
+- [01:29:56,660 - 01:29:59,660] which is usually stated half jokingly.
+- [01:29:59,660 - 01:30:01,660] That 1 plus 2 plus 3 plus 4
+- [01:30:01,660 - 01:30:03,660] plus 5 is equal to minus a twelfth.
+- [01:30:03,660 - 01:30:07,660] We tend to forget about this term over here.
+- [01:30:07,660 - 01:30:08,660] Okay.
+- [01:30:08,660 - 01:30:12,660] And the reason is that this term combines.
+- [01:30:12,660 - 01:30:18,660] Well, this term is an
+- [01:30:18,660 - 01:30:24,660] infinite constant which really doesn't.
+- [01:30:24,660 - 01:30:26,660] I would have to convince you that where it.
+- [01:30:26,660 - 01:30:28,660] Of what happens to it.
+- [01:30:28,660 - 01:30:32,160] It gets absorbed into the
+- [01:30:32,160 - 01:30:35,660] p squared term in the energy.
+- [01:30:35,660 - 01:30:37,660] The infinite term in the energy.
+- [01:30:37,660 - 01:30:43,160] And a careful, a really careful analysis of
+- [01:30:43,160 - 01:30:48,660] it allows you to absorb this into something.
+- [01:30:48,660 - 01:30:50,660] Into an additive constant in
+- [01:30:50,660 - 01:30:52,660] the energy that doesn't do anything.
+- [01:30:52,660 - 01:30:55,660] For the moment, you'll have to accept that.
+- [01:30:55,660 - 01:30:56,660] The real answer.
+- [01:30:56,660 - 01:30:57,660] The really right answer.
+- [01:30:57,660 - 01:31:01,660] The really right answer is that in good string theories.
+- [01:31:01,660 - 01:31:04,660] Properly defined string theories.
+- [01:31:04,660 - 01:31:07,660] This isn't there altogether.
+- [01:31:07,660 - 01:31:10,660] But I'm not going to tell you why now.
+- [01:31:10,660 - 01:31:11,660] I'm not going to tell you why now.
+- [01:31:11,660 - 01:31:16,660] I'm just going to tell you
+- [01:31:16,660 - 01:31:21,660] this infinite constant is not important.
+- [01:31:21,660 - 01:31:25,660] You know the famous story of Dirac and Pauli.
+- [01:31:25,660 - 01:31:29,160] That Dirac calculated the vacuum energy
+- [01:31:29,160 - 01:31:32,660] and found out that it was infinite.
+- [01:31:32,660 - 01:31:34,660] And they said, well, since it's
+- [01:31:34,660 - 01:31:36,660] infinite, I don't care about it.
+- [01:31:36,660 - 01:31:37,660] We'll throw it away.
+- [01:31:37,660 - 01:31:40,660] And Pauli turned around to him and said,
+- [01:31:40,660 - 01:31:43,660] just because it's infinite doesn't mean it's zero.
+- [01:31:43,660 - 01:31:49,660] Right.
+- [01:31:49,660 - 01:31:50,660] Right.
+- [01:31:50,660 - 01:31:53,660] Well, in this particular case, Dirac wins.
+- [01:31:53,660 - 01:31:57,160] But this is something we will have to come
+- [01:31:57,160 - 01:32:00,660] back to and explain why this one over epsilon squared.
+- [01:32:00,660 - 01:32:02,660] Remember, epsilon is going to go to zero.
+- [01:32:02,660 - 01:32:04,660] This is going to be an infinite constant.
+- [01:32:04,660 - 01:32:07,660] And in this particular case, the
+- [01:32:07,660 - 01:32:10,660] infinite constant really is not important.
+- [01:32:10,660 - 01:32:13,660] And I'm not going to pursue it right now.
+- [01:32:13,660 - 01:32:15,160] I'm going to tell you
+- [01:32:15,160 - 01:32:16,660] the answer is minus a 12.
+- [01:32:16,660 - 01:32:17,660] Okay.
+- [01:32:17,660 - 01:32:19,660] Minus a 12.
+- [01:32:19,660 - 01:32:22,660] Now, this is not yet a particularly good answer.
+- [01:32:22,660 - 01:32:25,660] This is not a particularly good answer yet.
+- [01:32:25,660 - 01:32:29,660] Remember, what we wanted to get was altogether minus 1.
+- [01:32:29,660 - 01:32:33,160] We wanted to get this minus 1, which when we excite
+- [01:32:33,160 - 01:32:36,660] it by one unit of energy will give us the massless particle.
+- [01:32:36,660 - 01:32:37,660] Okay.
+- [01:32:37,660 - 01:32:40,660] In fact, the minus a 12 is not quite right.
+- [01:32:40,660 - 01:32:44,160] And the reason is because of this factor
+- [01:32:44,160 - 01:32:47,660] of a half from the half h bar omega.
+- [01:32:47,660 - 01:32:50,660] So it's actually 1 over 24.
+- [01:32:50,660 - 01:32:51,660] Okay.
+- [01:32:51,660 - 01:32:56,660] 1 over 24.
+- [01:32:56,660 - 01:32:59,660] 1 over 24.
+- [01:32:59,660 - 01:33:03,160] That minus 1 over 24 is the energy
+- [01:33:03,160 - 01:33:06,660] of the ground state, including the zero point oscillations,
+- [01:33:06,660 - 01:33:11,160] but throwing away a certain infinite term, which
+- [01:33:11,160 - 01:33:15,660] we're going to have to explain away later.
+- [01:33:15,660 - 01:33:18,660] But, okay.
+- [01:33:18,660 - 01:33:19,660] How do we get...
+- [01:33:19,660 - 01:33:21,660] Oh, oh, have I left anything out?
+- [01:33:21,660 - 01:33:25,660] I left out one thing.
+- [01:33:25,660 - 01:33:29,160] Remember, for each mode, there is
+- [01:33:29,160 - 01:33:32,660] not one oscillator, but two oscillators.
+- [01:33:32,660 - 01:33:34,660] The a's and the b's.
+- [01:33:34,660 - 01:33:35,660] Remember the a's and the b's?
+- [01:33:35,660 - 01:33:38,660] The x oscillators and the y oscillators.
+- [01:33:38,660 - 01:33:43,660] So actually, it's twice this.
+- [01:33:43,660 - 01:33:44,660] Twice this.
+- [01:33:44,660 - 01:33:46,660] One for the x oscillators, one for the y oscillators.
+- [01:33:46,660 - 01:33:48,660] It's still not good.
+- [01:33:48,660 - 01:33:50,660] It's only 2 over minus 24.
+- [01:33:50,660 - 01:33:53,660] You really want to get minus 1.
+- [01:33:53,660 - 01:33:55,660] How do you get minus 1?
+- [01:33:55,660 - 01:33:58,660] You say, there weren't two dimensions of oscillation.
+- [01:33:58,660 - 01:34:04,660] There were 24 of them.
+- [01:34:04,660 - 01:34:09,660] 24 directions of oscillation, plus the direction
+- [01:34:09,660 - 01:34:14,660] going down the z-axis, plus time make 26.
+- [01:34:14,660 - 01:34:17,660] That's where the 26 is.
+- [01:34:17,660 - 01:34:19,660] Now, this is a crazy story.
+- [01:34:19,660 - 01:34:22,160] At the time, nobody believed it, that this
+- [01:34:22,160 - 01:34:24,660] is a little bit too silly to be true.
+- [01:34:24,660 - 01:34:28,660] But, in fact, the mathematics did fit together.
+- [01:34:28,660 - 01:34:30,660] And this is the simplest way.
+- [01:34:30,660 - 01:34:35,160] This, which is fairly complicated already, is the simplest way
+- [01:34:35,160 - 01:34:39,660] to see, and it is historically the way it came about,
+- [01:34:39,660 - 01:34:43,660] that requiring, let's say there are d dimensions
+- [01:34:43,660 - 01:34:47,660] of space perpendicular to the direction of motion,
+- [01:34:47,660 - 01:34:50,660] then requiring this to come out to be minus 1,
+- [01:34:50,660 - 01:34:52,660] just so that when you excite
+- [01:34:52,660 - 01:34:54,660] it, you can get the photon,
+- [01:34:54,660 - 01:34:58,660] that was the original argument about the,
+- [01:34:58,660 - 01:35:04,660] about d having to be 24,
+- [01:35:04,660 - 01:35:08,660] or the total space-time dimension having to be 26.
+- [01:35:08,660 - 01:35:12,660] Now, as I said, the arguments, this
+- [01:35:12,660 - 01:35:16,660] was hardly a convincing argument at the time,
+- [01:35:17,660 - 01:35:19,660] but it's true.
+- [01:35:19,660 - 01:35:24,660] Its virtue is that it's easy to present.
+- [01:35:24,660 - 01:35:27,660] Relatively easy to present.
+- [01:35:27,660 - 01:35:28,660] What is the history?
+- [01:35:28,660 - 01:35:31,660] What was the history of this introduction?
+- [01:35:31,660 - 01:35:33,660] How did this come about?
+- [01:35:33,660 - 01:35:34,660] Yeah, well, I was just wondering.
+- [01:35:34,660 - 01:35:35,660] 1990s?
+- [01:35:35,660 - 01:35:37,660] Oh, God, no.
+- [01:35:39,660 - 01:35:40,660] Yeah.
+- [01:35:40,660 - 01:35:42,660] Oh, 69.
+- [01:35:42,660 - 01:35:43,660] No, no.
+- [01:35:43,660 - 01:35:46,660] No, this goes back to 1969.
+- [01:35:46,660 - 01:35:50,660] 1969, I would say.
+- [01:35:50,660 - 01:35:54,660] Maybe early 70, but I think it's still 69.
+- [01:35:54,660 - 01:35:56,660] That was for Hadron?
+- [01:35:56,660 - 01:35:57,660] Yes.
+- [01:35:57,660 - 01:35:59,660] Well, by this point, people were
+- [01:35:59,660 - 01:36:01,660] just exploring the mathematics of string theory.
+- [01:36:01,660 - 01:36:05,660] And they had, and...
+- [01:36:05,660 - 01:36:08,660] So you did have those regi trajectories?
+- [01:36:08,660 - 01:36:11,660] Well, experimentally, you had the regi trajectories,
+- [01:36:11,660 - 01:36:13,660] but at some point, when the
+- [01:36:13,660 - 01:36:15,660] mathematical structure was put in place,
+- [01:36:15,660 - 01:36:19,660] people began to explore it for its own sake.
+- [01:36:19,660 - 01:36:22,660] It was realized rather quickly that there
+- [01:36:22,660 - 01:36:25,660] was some kind of funny thing going on
+- [01:36:25,660 - 01:36:28,660] that there was a spin one particle
+- [01:36:28,660 - 01:36:31,660] one unit up, one unit up from...
+- [01:36:31,660 - 01:36:33,660] But it didn't have all the states that it needed.
+- [01:36:33,660 - 01:36:36,660] It had two polarizations and not three polarizations.
+- [01:36:36,660 - 01:36:38,660] And it was realized rather quickly
+- [01:36:38,660 - 01:36:40,660] that this could only be the photon
+- [01:36:40,660 - 01:36:42,660] or something like a photon.
+- [01:36:42,660 - 01:36:44,660] But that then left the question,
+- [01:36:45,660 - 01:36:48,160] what was this zero point energy
+- [01:36:48,160 - 01:36:50,660] that had to be minus one?
+- [01:36:50,660 - 01:36:53,660] And it was realized fairly quickly
+- [01:36:53,660 - 01:36:56,660] that that required 24 dimensions of oscillation.
+- [01:36:56,660 - 01:36:59,160] Now, as I said, this was
+- [01:36:59,160 - 01:37:01,660] by no means a convincing argument.
+- [01:37:01,660 - 01:37:05,660] Other much, much, much more convincing arguments came about,
+- [01:37:05,660 - 01:37:07,660] but they were highly
+- [01:37:07,660 - 01:37:09,660] mathematical, really highly mathematical.
+- [01:37:09,660 - 01:37:11,660] And I'll tell you about
+- [01:37:11,660 - 01:37:13,660] them in words, but not now.
+- [01:37:13,660 - 01:37:15,660] We need one more mathematical constant.
+- [01:37:15,660 - 01:37:17,660] Is there a similar trick to get eight?
+- [01:37:17,660 - 01:37:19,660] To get eight.
+- [01:37:19,660 - 01:37:23,660] Yes, yes, there's a similar trick to get eight.
+- [01:37:23,660 - 01:37:26,160] But before I tell you that, let
+- [01:37:26,160 - 01:37:28,660] me go back to the closed string.
+- [01:37:28,660 - 01:37:33,660] Remember, the closed string you had to excite twice.
+- [01:37:33,660 - 01:37:35,660] You had to get spin two.
+- [01:37:35,660 - 01:37:38,660] You had to hit it with two oscillators.
+- [01:37:38,660 - 01:37:41,160] That meant that the ground state had
+- [01:37:41,160 - 01:37:43,660] to have minus two units of energy.
+- [01:37:43,660 - 01:37:45,660] Okay?
+- [01:37:45,660 - 01:37:47,660] But now we have a problem.
+- [01:37:47,660 - 01:37:50,160] D over 24, if D
+- [01:37:50,160 - 01:37:52,660] is 24, is only minus one.
+- [01:37:52,660 - 01:37:54,660] What's the answer?
+- [01:37:54,660 - 01:37:56,660] 48 minus 48.
+- [01:37:56,660 - 01:37:57,660] Hm?
+- [01:37:57,660 - 01:37:58,660] 48 is minus eight.
+- [01:37:58,660 - 01:38:00,660] Why 48?
+- [01:38:00,660 - 01:38:02,660] Get a minus two. One twelfth, right?
+- [01:38:02,660 - 01:38:03,660] Hm?
+- [01:38:03,660 - 01:38:04,660] Get the minus two.
+- [01:38:04,660 - 01:38:05,660] Yeah, yeah, but where do you...
+- [01:38:05,660 - 01:38:07,660] I know, but you only have 24 directions.
+- [01:38:07,660 - 01:38:09,660] We can't change the number of directions of
+- [01:38:09,660 - 01:38:11,660] space when you go from closed string to...
+- [01:38:11,660 - 01:38:13,660] Hm?
+- [01:38:13,660 - 01:38:16,660] No, no, no, the same theory, the
+- [01:38:16,660 - 01:38:19,660] same theory has both closed and open strings.
+- [01:38:19,660 - 01:38:21,660] You can't change that.
+- [01:38:21,660 - 01:38:23,660] Right, you can't do that.
+- [01:38:23,660 - 01:38:26,660] No, we'll agree, the theory has 24 dimensions.
+- [01:38:26,660 - 01:38:28,660] Now what happens to the closed strings?
+- [01:38:28,660 - 01:38:29,660] Secular for a right?
+- [01:38:29,660 - 01:38:30,660] Hm?
+- [01:38:30,660 - 01:38:31,660] Secular for a right?
+- [01:38:31,660 - 01:38:32,660] Well, something like that.
+- [01:38:32,660 - 01:38:34,160] Remember, you have twice as
+- [01:38:34,160 - 01:38:35,660] many oscillators for the closed strings.
+- [01:38:35,660 - 01:38:37,660] You've got the ones that go around to the left,
+- [01:38:37,660 - 01:38:39,660] and you've got the ones that go around to the right.
+- [01:38:39,660 - 01:38:42,660] Everything gets doubled once again.
+- [01:38:42,660 - 01:38:44,160] You have not only an
+- [01:38:44,160 - 01:38:45,660] oscillation for every direction of space,
+- [01:38:45,660 - 01:38:48,160] but you have one for right-going
+- [01:38:48,160 - 01:38:50,660] modes and one for left-going modes.
+- [01:38:50,660 - 01:38:53,160] So in fact, it's true
+- [01:38:53,160 - 01:38:55,660] that you get twice as many,
+- [01:38:55,660 - 01:38:58,660] which means that the ground state energy is minus two,
+- [01:38:58,660 - 01:39:02,160] which is just exactly the right thing so that two
+- [01:39:02,160 - 01:39:05,660] units of oscillation will bring you up to massless again.
+- [01:39:05,660 - 01:39:08,660] That began to smell better.
+- [01:39:08,660 - 01:39:11,660] It began to smell better, but still.
+- [01:39:11,660 - 01:39:15,660] Far from a convincing argument.
+- [01:39:15,660 - 01:39:17,660] The real thing has to
+- [01:39:17,660 - 01:39:19,660] do with something called conformal invariance.
+- [01:39:19,660 - 01:39:22,660] So we're going to take up conformal invariance next time.
+- [01:39:22,660 - 01:39:24,660] What conformal invariance means.
+- [01:39:24,660 - 01:39:27,160] If you want to prepare yourself, learn
+- [01:39:27,160 - 01:39:29,660] a little bit about complex function theory.
+- [01:39:29,660 - 01:39:31,660] Very little, not much.
+- [01:39:31,660 - 01:39:33,660] We're going to do a very little bit.
+- [01:39:33,660 - 01:39:36,660] Learn what the Cauchy-Riemann equations are.
+- [01:39:36,660 - 01:39:39,660] If not, I will explain it.
+- [01:39:39,660 - 01:39:48,160] And we will come to why string
+- [01:39:48,160 - 01:39:56,660] theory is the theory of Turkish taffy.
+- [01:39:56,660 - 01:39:59,660] You know what Turkish taffy is.
+- [01:39:59,660 - 01:40:01,160] You pull it this way, you pull it
+- [01:40:01,160 - 01:40:02,660] that way, you stretch it out that way,
+- [01:40:02,660 - 01:40:05,660] you stick it together and somehow it all stays together.
+- [01:40:05,660 - 01:40:07,660] It's conformal.
+- [01:40:07,660 - 01:40:08,660] It's a little bit complicated.
+- [01:40:08,660 - 01:40:11,660] It's conformal transformations.
+- [01:40:11,660 - 01:40:14,660] Anyway, I think we're finished for tonight.
+- [01:40:14,660 - 01:40:16,660] What was the equation
+- [01:40:16,660 - 01:40:18,660] you mentioned, the Cauchy-Riemann equation?
+- [01:40:18,660 - 01:40:20,660] Cauchy-Riemann equations.
+- [01:40:20,660 - 01:40:22,660] Cauchy.
+- [01:40:22,660 - 01:40:24,660] Cauchy.
+- [01:40:24,660 - 01:40:26,660] Cauchy.
+- [01:40:26,660 - 01:40:28,660] Cauchy.
+- [01:40:28,660 - 01:40:30,660] Cauchy.
+- [01:40:30,660 - 01:40:32,660] Cauchy.
+- [01:40:32,660 - 01:40:34,660] Cauchy.
+- [01:40:34,660 - 01:40:36,660] Cauchy.
+- [01:40:36,660 - 01:40:37,660] Cauchy.
+- [01:40:37,660 - 01:40:40,660] Cauchy.
+- [01:40:40,660 - 01:40:41,660] Cauchy.
+- [01:40:41,660 - 01:40:44,660] Just learn a little bit about them.
+- [01:40:44,660 - 01:40:47,660] For more, please visit us at stanford.edu.
