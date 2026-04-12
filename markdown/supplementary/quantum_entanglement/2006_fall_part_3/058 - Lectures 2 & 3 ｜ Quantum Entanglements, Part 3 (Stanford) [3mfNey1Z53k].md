@@ -1,0 +1,2338 @@
+# Transcript
+
+Source: supplementary/quantum_entanglement/2006_fall_part_3/058 - Lectures 2 & 3 ｜ Quantum Entanglements, Part 3 (Stanford) [3mfNey1Z53k].mp4
+
+- [00:00:00,000 - 00:00:10,520] This program is brought to you by Stanford University.
+- [00:00:10,520 - 00:00:13,240] Please visit us at stanford.edu.
+- [00:00:15,520 - 00:00:16,560] Well, good evening everybody.
+- [00:00:16,560 - 00:00:18,800] I'm glad to see you back, all of you.
+- [00:00:18,800 - 00:00:20,560] So nice to have such a large class.
+- [00:00:22,560 - 00:00:28,120] The last time we discussed the influence of electric and
+- [00:00:28,120 - 00:00:32,680] magnetic fields on charged particles.
+- [00:00:32,680 - 00:00:33,480] We know what they do.
+- [00:00:33,480 - 00:00:34,820] We know what electric and
+- [00:00:34,820 - 00:00:36,160] magnetic fields do on charged particles.
+- [00:00:36,160 - 00:00:39,240] They push them around, they pull them, they exert forces.
+- [00:00:41,460 - 00:00:45,040] In fact, we even wrote some equations.
+- [00:00:45,040 - 00:00:47,560] Let's write down the basic equation.
+- [00:00:47,560 - 00:00:50,210] The basic equation is that the
+- [00:00:50,210 - 00:00:52,860] force on a charged particle, F,
+- [00:00:52,860 - 00:00:56,400] is equal to the electric charge of the charged particle.
+- [00:00:56,400 - 00:00:57,760] Why is that there?
+- [00:00:57,760 - 00:01:00,660] That's there because if the charged particle wasn't charged,
+- [00:01:00,660 - 00:01:02,440] if it didn't have any charge,
+- [00:01:02,440 - 00:01:04,220] there would be no force on it.
+- [00:01:04,220 - 00:01:08,240] And then that gets multiplied by the electric field.
+- [00:01:09,980 - 00:01:11,440] Let's just call it the electric field.
+- [00:01:14,320 - 00:01:17,840] Plus something that depends on the magnetic field.
+- [00:01:17,840 - 00:01:19,760] And the thing that depends on
+- [00:01:19,760 - 00:01:21,680] the magnetic field is the cross product
+- [00:01:21,680 - 00:01:24,759] of the velocity with the magnetic field.
+- [00:01:27,760 - 00:01:32,180] That's the basic influence of electric
+- [00:01:32,180 - 00:01:36,600] and magnetic fields on charged particles
+- [00:01:36,600 - 00:01:37,530] is to exert forces on them
+- [00:01:37,530 - 00:01:38,460] to push them and pull them around
+- [00:01:38,460 - 00:01:42,020] and so forth.
+- [00:01:42,020 - 00:01:44,900] The missing piece, thus far, is what
+- [00:01:44,900 - 00:01:47,780] is it that determines the electric and
+- [00:01:47,780 - 00:01:49,620] magnetic fields in space?
+- [00:01:49,620 - 00:01:51,160] What is it that determines
+- [00:01:51,160 - 00:01:52,700] whether there's a electromagnetic wave?
+- [00:01:52,700 - 00:01:54,280] What is it that determines if a
+- [00:01:54,280 - 00:01:55,860] electric charge field can create a electric change?
+- [00:01:55,860 - 00:01:56,760] What is it that determines what matters to you?
+- [00:01:56,760 - 00:01:57,440] And that's the final question.
+- [00:01:57,440 - 00:01:57,590] There's lots, there's lots to be solving
+- [00:01:57,590 - 00:01:57,740] in Make it, but hear me out please,
+- [00:01:57,740 - 00:02:01,240] produces an electric field and so forth, what
+- [00:02:01,240 - 00:02:04,740] are the equations which govern the fields themselves?
+- [00:02:04,740 - 00:02:07,740] Those equations are called Maxwell's equations, and those
+- [00:02:07,740 - 00:02:10,740] are the equations we want to discuss this evening.
+- [00:02:10,740 - 00:02:13,240] They're the equations which tell
+- [00:02:13,240 - 00:02:15,740] you how charged particles affect fields.
+- [00:02:15,740 - 00:02:18,240] Here is the equation which
+- [00:02:18,240 - 00:02:20,740] says how fields affect charged particles.
+- [00:02:20,740 - 00:02:22,740] The other half of the coin
+- [00:02:22,740 - 00:02:24,740] is how charged particles affect fields.
+- [00:02:24,740 - 00:02:28,740] Why is it necessary that charged particles affect fields?
+- [00:02:28,740 - 00:02:31,740] Well, it's a kind of action and reaction thing.
+- [00:02:31,740 - 00:02:35,240] If electric and magnetic fields can
+- [00:02:35,240 - 00:02:38,740] influence particles, what does that mean?
+- [00:02:38,740 - 00:02:42,240] It means an electromagnetic wave can come, hit a charged
+- [00:02:42,240 - 00:02:45,740] particle, and send it off flying off in some other direction.
+- [00:02:45,740 - 00:02:48,740] It can add energy to the charged particle.
+- [00:02:48,740 - 00:02:51,240] Well, if an electric field can
+- [00:02:51,240 - 00:02:53,740] add energy to a charged particle,
+- [00:02:53,740 - 00:02:54,740] then it had done the same thing.
+- [00:02:54,740 - 00:02:57,740] It better be that a charged particle
+- [00:02:57,740 - 00:03:00,740] can suck energy out of an electric field.
+- [00:03:00,740 - 00:03:02,740] Otherwise, energy wouldn't be conserved.
+- [00:03:02,740 - 00:03:04,740] So it stands to reason, it's
+- [00:03:04,740 - 00:03:06,740] a kind of action and reaction thing,
+- [00:03:06,740 - 00:03:09,240] that if electric and magnetic fields
+- [00:03:09,240 - 00:03:11,740] can do things to particles, charged particles,
+- [00:03:11,740 - 00:03:15,740] then charged particles, charged currents, electric charges, had better
+- [00:03:15,740 - 00:03:19,740] be able to do things to electric and magnetic fields.
+- [00:03:19,740 - 00:03:22,740] So that's the topic for tonight.
+- [00:03:22,740 - 00:03:23,740] But as always in this course,
+- [00:03:23,740 - 00:03:28,740] the basic question is whether the laws of physics,
+- [00:03:28,740 - 00:03:30,740] and in this case the laws
+- [00:03:30,740 - 00:03:32,740] of the electric and magnetic field,
+- [00:03:32,740 - 00:03:35,740] are the same in all reference frames.
+- [00:03:35,740 - 00:03:37,740] That's the thing we've been concentrating
+- [00:03:37,740 - 00:03:39,740] on in the study of relativity,
+- [00:03:39,740 - 00:03:42,740] is the idea that the basic laws of
+- [00:03:42,740 - 00:03:45,740] physics are the same in all reference frames.
+- [00:03:45,740 - 00:03:47,740] Now, one of the things, we're going
+- [00:03:47,740 - 00:03:49,740] to write down Maxwell's equations in a moment,
+- [00:03:49,740 - 00:03:52,740] but one of the basic things that,
+- [00:03:52,740 - 00:03:57,740] we learned,
+- [00:03:57,740 - 00:04:01,740] by, well, let me go back a step.
+- [00:04:01,740 - 00:04:04,740] One of the basic questions has to do with light.
+- [00:04:04,740 - 00:04:07,740] All of relativity theory had to do with light.
+- [00:04:07,740 - 00:04:10,740] If Maxwell's equations are the theory of light,
+- [00:04:10,740 - 00:04:12,740] and Maxwell's equations tell you that
+- [00:04:12,740 - 00:04:14,740] light moves with the speed of light,
+- [00:04:14,740 - 00:04:16,740] and Maxwell's equations are the
+- [00:04:16,740 - 00:04:18,740] same in every reference frame,
+- [00:04:18,740 - 00:04:20,740] it stands to reason,
+- [00:04:20,740 - 00:04:22,740] that light will move with the
+- [00:04:22,740 - 00:04:24,740] speed of light in every reference frame.
+- [00:04:24,740 - 00:04:26,740] This was precisely the puzzle
+- [00:04:26,740 - 00:04:28,740] that Einstein wrestled with so hard.
+- [00:04:28,740 - 00:04:32,740] How is it possible to get a description of nature
+- [00:04:32,740 - 00:04:34,740] in which light moves with the
+- [00:04:34,740 - 00:04:36,740] same velocity in every frame of reference?
+- [00:04:36,740 - 00:04:40,740] That, the thing which ensures that,
+- [00:04:40,740 - 00:04:43,240] is that the laws of physics
+- [00:04:43,240 - 00:04:45,740] are the same in every reference frame,
+- [00:04:45,740 - 00:04:48,740] and in past lectures we saw that what that meant,
+- [00:04:48,740 - 00:04:49,740] is that the,
+- [00:04:49,740 - 00:04:53,740] equations of physics should be expressed,
+- [00:04:53,740 - 00:04:54,740] in terms of,
+- [00:04:54,740 - 00:04:58,740] quantities which have definite transformation laws,
+- [00:04:58,740 - 00:05:00,740] when you go from frame to frame.
+- [00:05:00,740 - 00:05:02,740] That means scalars,
+- [00:05:02,740 - 00:05:03,740] that don't change,
+- [00:05:03,740 - 00:05:04,740] it means vectors,
+- [00:05:04,740 - 00:05:06,740] four vectors,
+- [00:05:06,740 - 00:05:08,740] it means tensors,
+- [00:05:08,740 - 00:05:10,240] and it means all the
+- [00:05:10,240 - 00:05:11,740] things that we discussed last time,
+- [00:05:11,740 - 00:05:13,740] when we discussed the transformation properties,
+- [00:05:13,740 - 00:05:16,740] of the various things in physics.
+- [00:05:16,740 - 00:05:18,740] Let me just remind you,
+- [00:05:18,740 - 00:05:20,740] what this equation looks like,
+- [00:05:20,740 - 00:05:22,740] if it's expressed in a covariant form,
+- [00:05:22,740 - 00:05:24,740] in a form which is
+- [00:05:24,740 - 00:05:26,740] the same in every reference frame.
+- [00:05:26,740 - 00:05:31,740] It looks,
+- [00:05:31,740 - 00:05:34,740] like,
+- [00:05:34,740 - 00:05:36,740] an expression,
+- [00:05:36,740 - 00:05:38,740] involving not electric and magnetic fields,
+- [00:05:38,740 - 00:05:41,740] well yes, electric and magnetic fields,
+- [00:05:41,740 - 00:05:42,740] but a tensor,
+- [00:05:42,740 - 00:05:43,740] a field tensor,
+- [00:05:43,740 - 00:05:45,240] and I'll remind you in a
+- [00:05:45,240 - 00:05:46,740] little while what that field tensor is,
+- [00:05:46,740 - 00:05:47,740] but,
+- [00:05:47,740 - 00:05:50,740] it's an anti-symmetric field tensor,
+- [00:05:50,740 - 00:05:52,740] which is built up out
+- [00:05:52,740 - 00:05:54,740] of the electric and magnetic fields,
+- [00:05:54,740 - 00:05:55,740] and it's multiplied,
+- [00:05:55,740 - 00:05:59,740] by the four vector of velocity,
+- [00:05:59,740 - 00:06:01,740] this is the,
+- [00:06:01,740 - 00:06:04,740] mu component of the force.
+- [00:06:04,740 - 00:06:06,740] The mu component of the force
+- [00:06:06,740 - 00:06:08,740] is written in terms of a,
+- [00:06:08,740 - 00:06:10,740] four by four,
+- [00:06:10,740 - 00:06:12,740] anti-symmetric tensor,
+- [00:06:12,740 - 00:06:15,740] whose transformation properties we know,
+- [00:06:15,740 - 00:06:17,740] and the four vector of velocity,
+- [00:06:17,740 - 00:06:21,740] in this form,
+- [00:06:21,740 - 00:06:23,740] the Lorentz force law,
+- [00:06:23,740 - 00:06:24,740] is written in a form,
+- [00:06:24,740 - 00:06:28,740] which is manifestly the same in every reference frame.
+- [00:06:28,740 - 00:06:30,740] So, that's our goal,
+- [00:06:30,740 - 00:06:32,740] is to write all of the laws of physics,
+- [00:06:32,740 - 00:06:34,740] in particular the Maxwell equations today,
+- [00:06:34,740 - 00:06:36,740] in a form,
+- [00:06:36,740 - 00:06:38,740] which is the same in every reference frame,
+- [00:06:38,740 - 00:06:41,240] which means writing it in terms
+- [00:06:41,240 - 00:06:43,740] of vectors and tensors and so forth.
+- [00:06:43,740 - 00:06:45,740] Now, let's just talk for a little bit,
+- [00:06:45,740 - 00:06:46,740] before we get into it,
+- [00:06:46,740 - 00:06:47,740] deeply,
+- [00:06:47,740 - 00:06:49,740] let's talk about the kind of effects,
+- [00:06:49,740 - 00:06:52,740] that charges have on electric and magnetic fields.
+- [00:06:52,740 - 00:06:55,740] Not that electric and magnetic fields have on charges,
+- [00:06:55,740 - 00:06:58,740] but that charges have on electric and magnetic fields.
+- [00:06:58,740 - 00:07:00,740] Well, first of all,
+- [00:07:00,740 - 00:07:03,740] we know that if we have an electric charge,
+- [00:07:03,740 - 00:07:05,740] we'll call an electric charge Q.
+- [00:07:05,740 - 00:07:08,740] Q stands for the electric charge.
+- [00:07:08,740 - 00:07:11,740] If we have an electric charge of a certain magnitude,
+- [00:07:11,740 - 00:07:13,740] it creates around it an electric field.
+- [00:07:13,740 - 00:07:15,740] You've all seen pictures of this,
+- [00:07:15,740 - 00:07:18,740] the electric field spreads out away from the charge,
+- [00:07:18,740 - 00:07:23,740] very much like a fluid emanating from a,
+- [00:07:23,740 - 00:07:26,740] from a pipe might spread out,
+- [00:07:26,740 - 00:07:28,740] except it spreads out in three dimensions.
+- [00:07:28,740 - 00:07:32,740] That's the electric field created by a point charge.
+- [00:07:32,740 - 00:07:34,740] Another example is if we have
+- [00:07:34,740 - 00:07:36,740] an electric current moving through a wire,
+- [00:07:36,740 - 00:07:38,740] and electric currents are
+- [00:07:38,740 - 00:07:40,740] nothing but moving electric charges.
+- [00:07:40,740 - 00:07:43,740] Electric charges moving through a wire,
+- [00:07:43,740 - 00:07:45,740] those electric charges,
+- [00:07:45,740 - 00:07:48,740] their motion creates a magnetic field,
+- [00:07:48,740 - 00:07:51,740] and the magnetic field is a
+- [00:07:51,740 - 00:07:54,740] field which circulates around the wire,
+- [00:07:54,740 - 00:07:56,740] like that.
+- [00:07:58,740 - 00:08:01,740] So these are examples of
+- [00:08:01,740 - 00:08:04,740] how charges and currents create fields.
+- [00:08:04,740 - 00:08:06,740] What happens, for example,
+- [00:08:06,740 - 00:08:08,740] if you move the charge?
+- [00:08:08,740 - 00:08:10,740] Supposing I suddenly move the charge
+- [00:08:10,740 - 00:08:12,740] from one point to another point.
+- [00:08:12,740 - 00:08:15,740] Then the field has to rearrange itself.
+- [00:08:15,740 - 00:08:19,740] Instead of pointing out of this point,
+- [00:08:19,740 - 00:08:21,740] it will still point out of this point.
+- [00:08:21,740 - 00:08:23,740] But it can't do that instantly.
+- [00:08:23,740 - 00:08:25,740] Why not?
+- [00:08:25,740 - 00:08:27,740] Because somebody out here is
+- [00:08:27,740 - 00:08:29,740] not allowed to see an effect
+- [00:08:29,740 - 00:08:34,740] before light could have been transmitted to this point.
+- [00:08:34,740 - 00:08:37,240] So the field cannot suddenly
+- [00:08:37,240 - 00:08:39,740] rearrange when you move a charge.
+- [00:08:39,740 - 00:08:41,740] It rearranges
+- [00:08:41,740 - 00:08:43,740] by spreading out a wave.
+- [00:08:43,740 - 00:08:46,740] By spreading out a wave of rearrangement.
+- [00:08:46,740 - 00:08:48,740] So that a little bit
+- [00:08:48,740 - 00:08:50,740] after the charge has been moved,
+- [00:08:50,740 - 00:08:52,740] nearby the charge,
+- [00:08:52,740 - 00:08:54,740] the field has been rearranged,
+- [00:08:54,740 - 00:08:56,740] but far away,
+- [00:08:56,740 - 00:08:58,740] it's just as it was before.
+- [00:08:58,740 - 00:09:00,740] And then as time goes on,
+- [00:09:00,740 - 00:09:03,740] a wave spreads out, away from the charge,
+- [00:09:03,740 - 00:09:06,740] that signals the field far away
+- [00:09:06,740 - 00:09:08,740] to rearrange, to accommodate the
+- [00:09:08,740 - 00:09:10,740] fact that the charge has moved.
+- [00:09:11,740 - 00:09:14,740] If you move the charge back and forth,
+- [00:09:14,740 - 00:09:17,740] what will spread out is an electromagnetic wave.
+- [00:09:17,740 - 00:09:20,740] If you vibrate the charge back and forth,
+- [00:09:20,740 - 00:09:23,740] then what you will see going out
+- [00:09:23,740 - 00:09:25,740] is an electric and magnetic wave
+- [00:09:25,740 - 00:09:29,740] that spreads out, just like a light wave, in fact.
+- [00:09:29,740 - 00:09:31,740] That's what an antenna does.
+- [00:09:31,740 - 00:09:34,740] An antenna simply moves charge back and forth like that.
+- [00:09:34,740 - 00:09:37,740] The same thing is true of currents and wires.
+- [00:09:37,740 - 00:09:40,740] If you suddenly reverse the current in a wire,
+- [00:09:40,740 - 00:09:43,740] you would reverse the sign of the magnetic field.
+- [00:09:43,740 - 00:09:46,740] Instead of the magnetic field circulating around this way,
+- [00:09:46,740 - 00:09:48,740] the magnetic field would circulate
+- [00:09:48,740 - 00:09:50,740] around in the other direction.
+- [00:09:50,740 - 00:09:52,740] But that signal can't get very
+- [00:09:52,740 - 00:09:54,740] far in too short a time.
+- [00:09:54,740 - 00:09:57,240] Einstein's rule was no signal ever
+- [00:09:57,240 - 00:09:59,740] gets faster than the speed of light.
+- [00:09:59,740 - 00:10:02,740] So it takes some time
+- [00:10:02,740 - 00:10:05,740] for somebody far away to discover
+- [00:10:05,740 - 00:10:08,740] that the current has been reversed.
+- [00:10:08,740 - 00:10:10,740] That means that the magnetic field
+- [00:10:10,740 - 00:10:12,740] the change in the magnetic field,
+- [00:10:12,740 - 00:10:15,740] the fact that it's changed direction,
+- [00:10:15,740 - 00:10:17,740] spreads out in a wave,
+- [00:10:17,740 - 00:10:19,740] and again, it's an electromagnetic wave.
+- [00:10:19,740 - 00:10:22,740] And if you oscillate the charge back and forth,
+- [00:10:22,740 - 00:10:24,740] if you oscillate the current back and forth,
+- [00:10:24,740 - 00:10:26,740] you send out an electromagnetic wave.
+- [00:10:26,740 - 00:10:28,740] That's the basic physics
+- [00:10:28,740 - 00:10:30,740] that we want to describe
+- [00:10:30,740 - 00:10:34,740] by Maxwell's equations.
+- [00:10:34,740 - 00:10:36,740] Before we do,
+- [00:10:36,740 - 00:10:39,740] I want to do a little bit of review
+- [00:10:39,740 - 00:10:41,740] from last time.
+- [00:10:41,740 - 00:10:45,740] First, I just want to remind you about wave equations.
+- [00:10:45,740 - 00:10:48,740] Equations describing fields,
+- [00:10:48,740 - 00:10:51,740] in this case, describing fields
+- [00:10:51,740 - 00:10:53,740] that can produce waves.
+- [00:10:53,740 - 00:10:56,740] The first example, and we talked about it last time,
+- [00:10:56,740 - 00:10:59,740] was a scalar field.
+- [00:10:59,740 - 00:11:02,740] A field that doesn't have any indices mu and nu,
+- [00:11:02,740 - 00:11:04,240] but is just a single
+- [00:11:04,240 - 00:11:05,740] number at each point in space.
+- [00:11:05,740 - 00:11:07,740] Each point in space,
+- [00:11:07,740 - 00:11:09,740] there's a quantity,
+- [00:11:09,740 - 00:11:12,740] the field phi,
+- [00:11:12,740 - 00:11:15,740] it depends on x and t,
+- [00:11:17,740 - 00:11:19,740] and it can vibrate, it can shake,
+- [00:11:19,740 - 00:11:21,740] it can do all sorts of things,
+- [00:11:21,740 - 00:11:23,740] it can form wave fields.
+- [00:11:23,740 - 00:11:26,740] The last time, we discussed the kind of equation,
+- [00:11:26,740 - 00:11:29,740] the kind of wave equation that governs such fields,
+- [00:11:29,740 - 00:11:31,740] and I'll just remind you.
+- [00:11:33,740 - 00:11:35,740] Remember what d mu is.
+- [00:11:35,740 - 00:11:37,740] d mu stands for the derivative
+- [00:11:37,740 - 00:11:39,740] with respect to the derivative.
+- [00:11:39,740 - 00:11:41,740] d mu stands for the four directions of space-time,
+- [00:11:41,740 - 00:11:43,740] x and t.
+- [00:11:43,740 - 00:11:47,740] mu runs over four values,
+- [00:11:47,740 - 00:11:49,740] x, y, z, and t.
+- [00:11:49,740 - 00:11:51,740] Incidentally, remember that x here
+- [00:11:51,740 - 00:11:56,740] really stands for x, y, and z.
+- [00:11:56,740 - 00:11:58,740] Perhaps I shouldn't call it x,
+- [00:11:58,740 - 00:12:00,740] I'll call it x,
+- [00:12:00,740 - 00:12:02,740] well, let's continue to call it x.
+- [00:12:02,740 - 00:12:05,740] But it really stands for the four components of space,
+- [00:12:05,740 - 00:12:08,740] and also t stands for the time.
+- [00:12:08,740 - 00:12:10,740] d by d mu means the derivative
+- [00:12:10,740 - 00:12:12,740] with respect to any one of these,
+- [00:12:12,740 - 00:12:17,740] so that's an ordinary derivative.
+- [00:12:19,740 - 00:12:21,740] And we can differentiate phi.
+- [00:12:21,740 - 00:12:23,740] A simple wave equation,
+- [00:12:23,740 - 00:12:25,740] a very simple wave equation,
+- [00:12:25,740 - 00:12:27,240] would just say that the
+- [00:12:27,240 - 00:12:28,740] derivative of a field is zero.
+- [00:12:28,740 - 00:12:31,740] That's not a very interesting wave equation,
+- [00:12:31,740 - 00:12:32,740] and the reason is,
+- [00:12:32,740 - 00:12:35,740] what it says is the field is absolutely constant.
+- [00:12:35,740 - 00:12:37,740] If all of its derivatives,
+- [00:12:37,740 - 00:12:38,740] the x and the y and
+- [00:12:38,740 - 00:12:39,740] the z and the time derivative,
+- [00:12:39,740 - 00:12:40,740] are zero,
+- [00:12:40,740 - 00:12:42,740] that means the field doesn't change at all,
+- [00:12:42,740 - 00:12:43,740] with anything,
+- [00:12:43,740 - 00:12:46,740] and so that's a very boring wave equation.
+- [00:12:46,740 - 00:12:48,740] Completely boring.
+- [00:12:48,740 - 00:12:50,740] A less boring equation
+- [00:12:50,740 - 00:12:53,740] we get if we differentiate it again.
+- [00:12:59,740 - 00:13:01,740] I'm now using notation
+- [00:13:01,740 - 00:13:03,740] that we described last time,
+- [00:13:03,740 - 00:13:05,740] or several times in the past,
+- [00:13:05,740 - 00:13:07,740] where an upper interval,
+- [00:13:07,740 - 00:13:09,740] an upper interval,
+- [00:13:09,740 - 00:13:11,740] and a lower interval,
+- [00:13:11,740 - 00:13:14,740] differ only by the sign of the time component.
+- [00:13:14,740 - 00:13:17,740] So that this would really mean
+- [00:13:17,740 - 00:13:22,740] the second derivative with respect to time
+- [00:13:22,740 - 00:13:24,740] of a field,
+- [00:13:24,740 - 00:13:27,740] minus the second derivative
+- [00:13:27,740 - 00:13:30,740] with respect to x squared,
+- [00:13:30,740 - 00:13:35,740] minus the second derivative with respect to y squared,
+- [00:13:35,740 - 00:13:37,740] minus the second derivative with respect to y squared,
+- [00:13:37,740 - 00:13:40,740] minus the second derivative with respect to z squared,
+- [00:13:40,740 - 00:13:42,740] is equal to zero.
+- [00:13:42,740 - 00:13:44,740] Notice, as usual,
+- [00:13:44,740 - 00:13:46,740] because I'm lazy,
+- [00:13:46,740 - 00:13:47,740] I've set the speed of light,
+- [00:13:47,740 - 00:13:51,740] c, equal to one.
+- [00:13:51,740 - 00:13:52,740] You can go home,
+- [00:13:52,740 - 00:13:53,740] and as an exercise,
+- [00:13:53,740 - 00:13:55,240] figure out where the speeds
+- [00:13:55,240 - 00:13:56,740] of light go into this equation.
+- [00:13:56,740 - 00:13:58,740] Alright, let's imagine now,
+- [00:13:58,740 - 00:14:02,740] a wave moving down the z-axis.
+- [00:14:02,740 - 00:14:04,740] A wave moving down the z-axis.
+- [00:14:04,740 - 00:14:06,740] It's moving down the z-axis,
+- [00:14:06,740 - 00:14:09,740] and that means phi only depends on z.
+- [00:14:09,740 - 00:14:12,740] It doesn't depend on x and y.
+- [00:14:12,740 - 00:14:15,740] It may also depend on time.
+- [00:14:15,740 - 00:14:17,740] If a wave is moving,
+- [00:14:17,740 - 00:14:20,740] and you're standing still, watching it,
+- [00:14:20,740 - 00:14:21,740] of course, you're going to watch it
+- [00:14:21,740 - 00:14:22,740] go up and down and up and down,
+- [00:14:22,740 - 00:14:24,740] so it will depend on time,
+- [00:14:24,740 - 00:14:27,740] and it will also depend on z, where you are,
+- [00:14:27,740 - 00:14:30,740] but it won't depend on the other directions.
+- [00:14:30,740 - 00:14:32,740] So a wave moving down the z-axis,
+- [00:14:32,740 - 00:14:35,740] we can completely ignore
+- [00:14:35,740 - 00:14:37,740] these two terms,
+- [00:14:37,740 - 00:14:39,740] which are the derivatives of phi
+- [00:14:39,740 - 00:14:41,740] in the direction in which it doesn't change.
+- [00:14:41,740 - 00:14:44,740] This is not there.
+- [00:14:44,740 - 00:14:46,740] And our wave equation,
+- [00:14:46,740 - 00:14:48,740] for a wave moving along z,
+- [00:14:48,740 - 00:14:49,740] along the z-axis,
+- [00:14:49,740 - 00:14:53,740] sorry, this should be z, shouldn't it?
+- [00:14:53,740 - 00:14:56,740] It should equal zero.
+- [00:14:56,740 - 00:14:59,740] What kind of solutions does such an equation have?
+- [00:14:59,740 - 00:15:01,740] We talked about it last time,
+- [00:15:01,740 - 00:15:03,740] and there are two basic solutions
+- [00:15:03,740 - 00:15:05,740] that this equation has.
+- [00:15:05,740 - 00:15:08,740] One of them is a function
+- [00:15:08,740 - 00:15:11,740] of z plus t,
+- [00:15:11,740 - 00:15:16,740] and the other is a function of z minus t.
+- [00:15:16,740 - 00:15:19,740] These are the two solutions
+- [00:15:19,740 - 00:15:22,740] which represent waves moving to the right
+- [00:15:22,740 - 00:15:24,740] along the z-axis,
+- [00:15:24,740 - 00:15:26,740] and waves moving to the left.
+- [00:15:26,740 - 00:15:29,740] This one represents waves moving to the right
+- [00:15:29,740 - 00:15:31,740] along the positive z-axis.
+- [00:15:31,740 - 00:15:33,240] This one represents waves moving
+- [00:15:33,240 - 00:15:34,740] along the left, to the left.
+- [00:15:35,740 - 00:15:37,740] And the function of z is
+- [00:15:37,740 - 00:15:38,740] any function,
+- [00:15:38,740 - 00:15:39,740] any function,
+- [00:15:39,740 - 00:15:41,740] any shaped wave profile,
+- [00:15:41,740 - 00:15:44,740] take any shaped wave profile at all,
+- [00:15:44,740 - 00:15:46,740] and allow it to just move
+- [00:15:46,740 - 00:15:49,740] uniformly along the z-direction,
+- [00:15:49,740 - 00:15:51,740] that constitutes a wave
+- [00:15:51,740 - 00:15:53,740] moving down the z-axis
+- [00:15:53,740 - 00:15:55,740] along the positive z-direction.
+- [00:15:55,740 - 00:15:58,740] That's a function of z minus t.
+- [00:15:58,740 - 00:16:00,740] If the wave moves in the other direction,
+- [00:16:00,740 - 00:16:04,740] then it's the same function of z plus t.
+- [00:16:04,740 - 00:16:06,740] So that's the basic fact
+- [00:16:06,740 - 00:16:09,740] that we learned last time about waves.
+- [00:16:09,740 - 00:16:13,740] And there's one particular special kind of wave,
+- [00:16:16,740 - 00:16:18,740] the sine or cosine wave.
+- [00:16:18,740 - 00:16:20,740] Let's just write it down
+- [00:16:20,740 - 00:16:22,740] for future reference.
+- [00:16:22,740 - 00:16:26,740] A wave which really has a wavy look to it,
+- [00:16:26,740 - 00:16:28,740] like this.
+- [00:16:28,740 - 00:16:30,740] Well, you can guess that's
+- [00:16:30,740 - 00:16:32,740] either a sine or a cosine.
+- [00:16:32,740 - 00:16:33,740] And so, for example,
+- [00:16:33,740 - 00:16:37,740] a wave of this type moving off to the right
+- [00:16:37,740 - 00:16:40,740] would be a solution of the wave equation
+- [00:16:40,740 - 00:16:44,740] which has the form cosine
+- [00:16:44,740 - 00:16:48,740] of z minus t.
+- [00:16:48,740 - 00:16:51,740] z minus t because it's moving to the right.
+- [00:16:51,740 - 00:16:55,740] And furthermore, you can throw in a constant here,
+- [00:16:55,740 - 00:16:57,740] usually called k, the wave number.
+- [00:16:57,740 - 00:16:59,740] Any constant.
+- [00:16:59,740 - 00:17:02,740] The bigger the constant is, incidentally,
+- [00:17:02,740 - 00:17:05,740] the shorter the wavelength of the wave.
+- [00:17:05,740 - 00:17:08,740] So if k is big, the wave looks like this.
+- [00:17:08,740 - 00:17:12,740] If k is small, the wave looks like this.
+- [00:17:13,740 - 00:17:15,740] Those are the basic facts
+- [00:17:15,740 - 00:17:17,740] that I want you to remember
+- [00:17:17,740 - 00:17:19,740] about wave equations
+- [00:17:19,740 - 00:17:22,740] and, in particular, wave solutions.
+- [00:17:22,740 - 00:17:24,740] That they are functions of
+- [00:17:24,740 - 00:17:26,740] z minus t, z plus t.
+- [00:17:26,740 - 00:17:28,740] They can have different wavelengths.
+- [00:17:28,740 - 00:17:30,740] And they can be sines, cosines.
+- [00:17:30,740 - 00:17:31,740] And they move to the right,
+- [00:17:31,740 - 00:17:32,740] or they move to the left.
+- [00:17:32,740 - 00:17:34,740] That's it.
+- [00:17:34,740 - 00:17:36,740] That's what we need to know about waves.
+- [00:17:38,740 - 00:17:41,740] Before we go ahead with Maxwell's equations,
+- [00:17:41,740 - 00:17:43,740] just to remind you,
+- [00:17:43,740 - 00:17:45,240] just to, since it's been a
+- [00:17:45,240 - 00:17:46,740] week since we went through this,
+- [00:17:46,740 - 00:17:49,740] I will remind you of a little bit of mathematics.
+- [00:17:49,740 - 00:17:52,740] Elementary mathematics.
+- [00:17:52,740 - 00:17:55,240] First of all is the notion
+- [00:17:55,240 - 00:17:57,740] of the cross product of two vectors.
+- [00:17:57,740 - 00:17:59,740] If we have any two vectors,
+- [00:17:59,740 - 00:18:01,740] these are ordinary vectors, not four vectors now,
+- [00:18:02,740 - 00:18:04,240] ordinary three-dimensional vectors
+- [00:18:04,240 - 00:18:05,740] in three-dimensional space,
+- [00:18:05,740 - 00:18:08,740] then we have the cross product,
+- [00:18:08,740 - 00:18:11,740] b dot a,
+- [00:18:11,740 - 00:18:14,740] b cross a, excuse me,
+- [00:18:14,740 - 00:18:16,740] the cross product of two vectors.
+- [00:18:16,740 - 00:18:20,740] The cross product is itself another vector.
+- [00:18:20,740 - 00:18:22,740] If we have two vectors,
+- [00:18:22,740 - 00:18:25,740] each pointing in some direction with a given length,
+- [00:18:25,740 - 00:18:28,740] we can multiply them together
+- [00:18:28,740 - 00:18:30,740] and make another vector.
+- [00:18:30,740 - 00:18:34,740] The cross product is defined by its components.
+- [00:18:34,740 - 00:18:36,740] So for example, the x component
+- [00:18:36,740 - 00:18:38,740] of b cross a is defined,
+- [00:18:38,740 - 00:18:40,740] this is definition,
+- [00:18:40,740 - 00:18:43,740] is defined to be
+- [00:18:43,740 - 00:18:50,740] by times ax minus bx times ay.
+- [00:18:50,740 - 00:18:54,740] And now if you want to find the other components,
+- [00:18:54,740 - 00:18:58,740] you just cycle through x, y, and z.
+- [00:18:58,740 - 00:19:00,740] So for example,
+- [00:19:00,740 - 00:19:04,740] b cross a, the y component,
+- [00:19:04,740 - 00:19:06,740] you go x to y,
+- [00:19:06,740 - 00:19:08,740] equals b,
+- [00:19:08,740 - 00:19:10,740] well, y goes to z,
+- [00:19:10,740 - 00:19:13,740] x goes to y,
+- [00:19:13,740 - 00:19:15,740] the root is x to y, y to z,
+- [00:19:15,740 - 00:19:17,740] z back to x.
+- [00:19:17,740 - 00:19:18,740] b goes to z,
+- [00:19:18,740 - 00:19:20,740] sorry, y goes to z,
+- [00:19:20,740 - 00:19:21,740] x goes to y,
+- [00:19:21,740 - 00:19:24,740] minus b, y,
+- [00:19:24,740 - 00:19:26,740] x goes to y,
+- [00:19:26,740 - 00:19:28,740] a goes to z.
+- [00:19:28,740 - 00:19:29,740] And likewise for the last,
+- [00:19:29,740 - 00:19:32,740] I'm doing this once, I won't do it again.
+- [00:19:32,740 - 00:19:34,740] b cross a,
+- [00:19:34,740 - 00:19:36,740] z component of it,
+- [00:19:36,740 - 00:19:38,740] is equal to
+- [00:19:38,740 - 00:19:39,740] x, y, the next,
+- [00:19:39,740 - 00:19:43,740] y, z, the next one must be x, b, x,
+- [00:19:43,740 - 00:19:47,740] x, y, the next one must be z,
+- [00:19:47,740 - 00:19:51,740] minus b, z, a, x.
+- [00:19:51,740 - 00:19:53,740] These are definitions.
+- [00:19:53,740 - 00:19:55,740] These are definitions of the
+- [00:19:55,740 - 00:19:57,740] cross product between two vectors.
+- [00:19:57,740 - 00:20:00,740] Notice that the cross product itself has components,
+- [00:20:00,740 - 00:20:03,740] and so it must be a vector.
+- [00:20:03,740 - 00:20:04,740] Okay?
+- [00:20:04,740 - 00:20:07,240] Now, another way of multiplying two
+- [00:20:07,240 - 00:20:09,740] vectors together is the dot product.
+- [00:20:09,740 - 00:20:11,740] The dot product,
+- [00:20:13,740 - 00:20:16,740] the dot product of two vectors
+- [00:20:16,740 - 00:20:19,740] is a scalar,
+- [00:20:19,740 - 00:20:23,740] a dot b, and it only has one component.
+- [00:20:23,740 - 00:20:25,740] It's the same in every reference frame,
+- [00:20:25,740 - 00:20:26,740] or the same
+- [00:20:26,740 - 00:20:28,740] when you rotate the reference frame.
+- [00:20:28,740 - 00:20:32,740] And its definition is a, x, b, x,
+- [00:20:32,740 - 00:20:35,740] plus a, y, b, y,
+- [00:20:35,740 - 00:20:38,740] plus a, z, b, z.
+- [00:20:38,740 - 00:20:40,740] Can that be read? I hope that can be read.
+- [00:20:40,740 - 00:20:43,740] a, x, b, x, plus
+- [00:20:43,740 - 00:20:46,740] a, y, b, y, plus a, z, b, z.
+- [00:20:46,740 - 00:20:48,740] That's the dot product,
+- [00:20:48,740 - 00:20:50,740] and it's a scalar.
+- [00:20:50,740 - 00:20:54,740] That's one set of concepts that,
+- [00:20:54,740 - 00:20:56,740] that we've been through several times.
+- [00:20:56,740 - 00:20:59,740] Now the other set of concepts
+- [00:21:01,740 - 00:21:03,740] are the curl of a vector
+- [00:21:03,740 - 00:21:05,740] and the divergence of a vector.
+- [00:21:06,740 - 00:21:08,740] And here's the way you think about them.
+- [00:21:08,740 - 00:21:11,740] They're built up out of derivatives
+- [00:21:11,740 - 00:21:13,740] of the components of the vector.
+- [00:21:13,740 - 00:21:16,740] Partial derivatives with respect to x, y, and z.
+- [00:21:16,740 - 00:21:19,740] All you have to imagine in your head
+- [00:21:19,740 - 00:21:22,740] is that derivative with respect to x,
+- [00:21:22,740 - 00:21:24,740] and derivative with respect to y,
+- [00:21:24,740 - 00:21:26,740] and derivative with respect to y,
+- [00:21:26,740 - 00:21:28,740] and derivative with respect to z,
+- [00:21:28,740 - 00:21:30,740] pretend that those symbols
+- [00:21:30,740 - 00:21:33,740] are the three components of a vector.
+- [00:21:33,740 - 00:21:34,740] They're not.
+- [00:21:34,740 - 00:21:36,740] They're the three components of a derivative.
+- [00:21:36,740 - 00:21:38,740] But just pretend that they're
+- [00:21:38,740 - 00:21:40,740] the three components of a vector.
+- [00:21:40,740 - 00:21:46,740] And now, imagine del cross a vector a.
+- [00:21:46,740 - 00:21:48,740] What does that mean?
+- [00:21:48,740 - 00:21:50,740] It's something that's made up out of the derivatives
+- [00:21:50,740 - 00:21:52,740] of the components of a,
+- [00:21:52,740 - 00:21:55,740] but, oh, I'm sorry,
+- [00:21:55,740 - 00:22:00,740] the three components are called the vector del.
+- [00:22:04,740 - 00:22:09,740] Del is just a shorthand for upside down triangle.
+- [00:22:11,740 - 00:22:13,740] Del cross a. How do you make it?
+- [00:22:13,740 - 00:22:15,740] Well, you just go back to this formula,
+- [00:22:15,740 - 00:22:18,740] and wherever you saw a stick in,
+- [00:22:18,740 - 00:22:20,740] either d by dx, d
+- [00:22:20,740 - 00:22:22,740] by dy, or d by dz.
+- [00:22:22,740 - 00:22:25,740] So the curl of a is then just,
+- [00:22:25,740 - 00:22:34,740] well, we have a, so that's d by dx.
+- [00:22:34,740 - 00:22:36,740] I should have called this b, shouldn't I?
+- [00:22:36,740 - 00:22:38,740] It would have made more sense
+- [00:22:38,740 - 00:22:41,740] and been nicer if I would have called this b.
+- [00:22:44,740 - 00:22:45,740] All right.
+- [00:22:45,740 - 00:22:46,740] So instead of a,
+- [00:22:46,740 - 00:22:49,740] we write the three components of the derivative.
+- [00:22:49,740 - 00:22:52,740] Wherever we see b, we just stick b.
+- [00:22:52,740 - 00:22:54,740] So that's bx,
+- [00:22:55,740 - 00:22:57,740] and we're going to do the curl.
+- [00:22:57,740 - 00:22:59,740] We're doing the curl.
+- [00:22:59,740 - 00:23:01,740] Slow down.
+- [00:23:01,740 - 00:23:03,740] We're doing the curl.
+- [00:23:03,740 - 00:23:05,740] The curl is over here.
+- [00:23:05,740 - 00:23:08,740] The x component of the curl,
+- [00:23:08,740 - 00:23:10,740] del cross b,
+- [00:23:10,740 - 00:23:12,740] the x component of it,
+- [00:23:12,740 - 00:23:14,740] all right, that's this.
+- [00:23:14,740 - 00:23:16,740] All right.
+- [00:23:16,740 - 00:23:19,740] So it's ax by,
+- [00:23:19,740 - 00:23:23,740] well, that's d by dx by,
+- [00:23:23,740 - 00:23:26,740] d by dy,
+- [00:23:26,740 - 00:23:31,740] minus d by dy bx.
+- [00:23:31,740 - 00:23:33,740] We can go through it and cycle through it
+- [00:23:33,740 - 00:23:37,740] and find the other components of the curl of b,
+- [00:23:37,740 - 00:23:38,740] but they're always made up,
+- [00:23:38,740 - 00:23:41,740] d by dy, d by dy.
+- [00:23:41,740 - 00:23:43,740] They're always made up of
+- [00:23:43,740 - 00:23:45,740] derivatives of the components of b
+- [00:23:45,740 - 00:23:46,740] in the same pattern,
+- [00:23:46,740 - 00:23:48,740] in the same exact pattern that
+- [00:23:48,740 - 00:23:50,740] the cross product is made up.
+- [00:23:50,740 - 00:23:51,740] What about del dot b?
+- [00:23:51,740 - 00:23:53,740] That's called the divergence of b.
+- [00:23:53,740 - 00:23:56,740] Del dot b,
+- [00:23:56,740 - 00:23:59,740] well, we come to the definition of the divergence
+- [00:23:59,740 - 00:24:01,740] of the dot product.
+- [00:24:01,740 - 00:24:03,740] Ax times bx,
+- [00:24:03,740 - 00:24:06,740] that will be d by dx,
+- [00:24:06,740 - 00:24:08,740] bx,
+- [00:24:08,740 - 00:24:10,740] plus d by dy,
+- [00:24:10,740 - 00:24:12,740] by,
+- [00:24:12,740 - 00:24:14,740] plus d by dz,
+- [00:24:14,740 - 00:24:17,740] bz.
+- [00:24:17,740 - 00:24:20,740] Now, these two objects,
+- [00:24:20,740 - 00:24:23,740] they're composed out of derivatives of the components
+- [00:24:23,740 - 00:24:25,740] of vectors.
+- [00:24:25,740 - 00:24:27,740] If a vector is constant in space,
+- [00:24:27,740 - 00:24:30,740] if it's a vector field which is constant in space,
+- [00:24:30,740 - 00:24:35,740] it has neither a divergence nor a curl.
+- [00:24:35,740 - 00:24:37,740] Roughly speaking,
+- [00:24:37,740 - 00:24:40,740] a vector has a divergence
+- [00:24:40,740 - 00:24:42,740] when it seems to be emanating,
+- [00:24:42,740 - 00:24:44,740] a vector field has a divergence
+- [00:24:44,740 - 00:24:46,740] when it seems to be emanating out of some place,
+- [00:24:46,740 - 00:24:48,740] like this.
+- [00:24:48,740 - 00:24:50,740] A vector has a curl
+- [00:24:50,740 - 00:24:52,740] when it seems to,
+- [00:24:53,740 - 00:24:57,740] curl around some place.
+- [00:24:57,740 - 00:25:00,740] So if we had a magnetic field, for example,
+- [00:25:00,740 - 00:25:04,740] in a wire that was going into the blackboard,
+- [00:25:04,740 - 00:25:07,740] that vector would have a curl.
+- [00:25:07,740 - 00:25:10,740] If we have an electric charge
+- [00:25:10,740 - 00:25:12,740] giving rise to an electric field
+- [00:25:12,740 - 00:25:14,740] pointing out from some point,
+- [00:25:14,740 - 00:25:17,740] that field would have a divergence.
+- [00:25:17,740 - 00:25:19,740] We've gone through these things before,
+- [00:25:19,740 - 00:25:20,740] these are not new,
+- [00:25:20,740 - 00:25:22,740] just reminding you of them.
+- [00:25:23,740 - 00:25:26,740] And now I want to write down Maxwell's equations
+- [00:25:26,740 - 00:25:29,740] in terms of these objects.
+- [00:25:31,740 - 00:25:33,740] Our goal is going to be to write Maxwell's equations,
+- [00:25:33,740 - 00:25:35,740] that's easy,
+- [00:25:35,740 - 00:25:37,740] you can get them off somebody's t-shirt,
+- [00:25:37,740 - 00:25:40,740] lots and lots of t-shirts with Maxwell's equations on them.
+- [00:25:40,740 - 00:25:42,740] But then to understand in what sense
+- [00:25:42,740 - 00:25:45,740] they are the same in every reference frame.
+- [00:25:45,740 - 00:25:47,740] That's our goal,
+- [00:25:47,740 - 00:25:48,740] to see that Maxwell's equations
+- [00:25:48,740 - 00:25:49,740] can be written in a form
+- [00:25:49,740 - 00:25:51,740] which is the same in every reference frame.
+- [00:25:53,740 - 00:25:56,740] Alright, so let me write them down.
+- [00:25:59,740 - 00:26:02,740] Curl of the electric field,
+- [00:26:02,740 - 00:26:05,740] of the electric field, you construct its curl,
+- [00:26:07,740 - 00:26:10,740] is equal to minus
+- [00:26:10,740 - 00:26:14,740] the time derivative of the magnetic field.
+- [00:26:14,740 - 00:26:17,740] That's Maxwell equation number one.
+- [00:26:17,740 - 00:26:20,740] Maxwell equation number two,
+- [00:26:20,740 - 00:26:23,740] divergence of the magnetic field,
+- [00:26:23,740 - 00:26:25,740] is equal to zero.
+- [00:26:25,740 - 00:26:28,740] All that says,
+- [00:26:28,740 - 00:26:32,740] is that the magnetic field
+- [00:26:32,740 - 00:26:34,740] doesn't have any sources
+- [00:26:34,740 - 00:26:37,740] in the same sense that the electric field does.
+- [00:26:37,740 - 00:26:40,740] It doesn't emanate out from a point,
+- [00:26:40,740 - 00:26:43,740] it tends to wind around things.
+- [00:26:43,740 - 00:26:46,740] Okay, the next equation
+- [00:26:46,740 - 00:26:48,740] is an equation similar to this,
+- [00:26:48,740 - 00:26:51,740] but it involves del cross of the magnetic field,
+- [00:26:51,740 - 00:26:54,740] and it's equal to plus
+- [00:26:54,740 - 00:26:57,740] dE by dt.
+- [00:26:57,740 - 00:27:00,740] So these two equations look very similar.
+- [00:27:00,740 - 00:27:02,740] It's almost as though you interchanged
+- [00:27:02,740 - 00:27:04,740] the electric and magnetic field,
+- [00:27:04,740 - 00:27:06,740] but not quite.
+- [00:27:06,740 - 00:27:08,740] There's a sign difference between them.
+- [00:27:08,740 - 00:27:11,740] If you just interchanged the magnetic and electric field,
+- [00:27:11,740 - 00:27:14,740] you'd get the wrong sign here.
+- [00:27:14,740 - 00:27:17,740] And the last one is just
+- [00:27:17,740 - 00:27:19,740] del dot E equals zero.
+- [00:27:21,740 - 00:27:24,740] And this is the same equation
+- [00:27:24,740 - 00:27:27,740] in quite parallel with the magnetic field here.
+- [00:27:27,740 - 00:27:29,740] These are the basic Maxwell's equations,
+- [00:27:29,740 - 00:27:31,740] but these are the Maxwell's equations
+- [00:27:31,740 - 00:27:33,740] when there are no charges around,
+- [00:27:33,740 - 00:27:36,740] in the absence of charges and currents.
+- [00:27:36,740 - 00:27:38,740] Let me put back in
+- [00:27:38,740 - 00:27:40,740] what happens when there are charges and currents.
+- [00:27:40,740 - 00:27:41,740] In other words,
+- [00:27:41,740 - 00:27:43,740] these are the equations that are called
+- [00:27:43,740 - 00:27:46,740] the vacuum Maxwell equations.
+- [00:27:46,740 - 00:27:49,740] They describe electric and magnetic fields
+- [00:27:49,740 - 00:27:51,740] in completely infinite terms.
+- [00:27:51,740 - 00:27:53,740] They have no electric charges,
+- [00:27:53,740 - 00:27:55,740] no currents.
+- [00:27:55,740 - 00:27:57,740] Let me just tell you now
+- [00:27:57,740 - 00:27:59,740] what happens if you add in
+- [00:27:59,740 - 00:28:01,740] some electric charges,
+- [00:28:01,740 - 00:28:03,740] some electric currents,
+- [00:28:03,740 - 00:28:05,740] and so forth.
+- [00:28:05,740 - 00:28:07,740] They do have an effect on things.
+- [00:28:07,740 - 00:28:09,740] And so, for example,
+- [00:28:09,740 - 00:28:11,740] I'm going to write in red here
+- [00:28:11,740 - 00:28:13,740] the actual thing that goes.
+- [00:28:13,740 - 00:28:15,740] The charge density
+- [00:28:15,740 - 00:28:17,740] is called rho,
+- [00:28:17,740 - 00:28:19,740] and it's the amount of
+- [00:28:19,740 - 00:28:21,740] electric charge per unit volume.
+- [00:28:21,740 - 00:28:23,740] At every point in space,
+- [00:28:23,740 - 00:28:25,740] there may or may not be some charge.
+- [00:28:25,740 - 00:28:27,740] In every little cell of space,
+- [00:28:27,740 - 00:28:29,740] there may be some charge.
+- [00:28:29,740 - 00:28:31,740] The charge per unit volume
+- [00:28:31,740 - 00:28:33,740] is called the charge density.
+- [00:28:33,740 - 00:28:35,740] So what really goes here
+- [00:28:35,740 - 00:28:37,740] is the charge density.
+- [00:28:39,740 - 00:28:41,740] But if there is no charge density,
+- [00:28:41,740 - 00:28:43,740] well, then it just isn't there.
+- [00:28:43,740 - 00:28:45,740] Over here,
+- [00:28:45,740 - 00:28:47,740] there's another term,
+- [00:28:47,740 - 00:28:49,740] and it's the electric current.
+- [00:28:49,740 - 00:28:51,740] It's called J,
+- [00:28:51,740 - 00:28:53,740] and I'll define it for you later.
+- [00:28:53,740 - 00:28:55,740] But for the moment,
+- [00:28:55,740 - 00:28:57,740] I want to study the Maxwell equations
+- [00:28:57,740 - 00:28:59,740] without electric current and charges.
+- [00:28:59,740 - 00:29:01,740] We want to see if we can understand
+- [00:29:01,740 - 00:29:03,740] why those equations
+- [00:29:03,740 - 00:29:05,740] are the same in every reference frame.
+- [00:29:05,740 - 00:29:07,740] How can that possibly be?
+- [00:29:07,740 - 00:29:09,740] Why is it a puzzle?
+- [00:29:09,740 - 00:29:11,740] It's a puzzle because,
+- [00:29:11,740 - 00:29:13,740] as we're going to see,
+- [00:29:13,740 - 00:29:15,740] these equations describe light waves
+- [00:29:15,740 - 00:29:17,740] moving always with the same speed.
+- [00:29:17,740 - 00:29:19,740] They're always moving at the same speed.
+- [00:29:19,740 - 00:29:21,740] They're always moving at the same speed.
+- [00:29:21,740 - 00:29:23,740] They always move with the same speed,
+- [00:29:23,740 - 00:29:25,740] the speed of light.
+- [00:29:25,740 - 00:29:27,740] They move down the axis with the speed of light.
+- [00:29:27,740 - 00:29:29,740] How can they possibly be the same
+- [00:29:29,740 - 00:29:31,740] in every reference frame?
+- [00:29:31,740 - 00:29:33,740] After all, if I was a reference frame
+- [00:29:33,740 - 00:29:35,740] moving down following the wave,
+- [00:29:35,740 - 00:29:37,740] I would expect to see it moving slower.
+- [00:29:37,740 - 00:29:39,740] Nevertheless,
+- [00:29:39,740 - 00:29:41,740] these equations are the same
+- [00:29:41,740 - 00:29:43,740] in every reference frame,
+- [00:29:43,740 - 00:29:45,740] and in every reference frame
+- [00:29:45,740 - 00:29:47,740] they say the speed of light is exactly the same.
+- [00:29:47,740 - 00:29:49,740] So let's see if we can recast
+- [00:29:49,740 - 00:29:51,740] these four equations
+- [00:29:51,740 - 00:29:53,740] which is the same in every reference frame.
+- [00:29:53,740 - 00:29:55,740] We have the tools to do it.
+- [00:29:55,740 - 00:29:57,740] What we have to remember
+- [00:29:57,740 - 00:29:59,740] is that
+- [00:29:59,740 - 00:30:01,740] the electric and magnetic fields
+- [00:30:01,740 - 00:30:03,740] combine together, we did this last time,
+- [00:30:03,740 - 00:30:05,740] combine together
+- [00:30:05,740 - 00:30:07,740] into a tensor,
+- [00:30:07,740 - 00:30:09,740] into an anti-symmetric tensor.
+- [00:30:09,740 - 00:30:11,740] So let's remind ourselves of that.
+- [00:30:13,740 - 00:30:15,740] Anti-symmetric tensor,
+- [00:30:15,740 - 00:30:17,740] F mu nu,
+- [00:30:19,740 - 00:30:21,740] and it's made up
+- [00:30:21,740 - 00:30:23,740] it's 4 by 4, it's a matrix,
+- [00:30:25,740 - 00:30:27,740] and its components are made up
+- [00:30:27,740 - 00:30:29,740] out of the electric and magnetic field.
+- [00:30:29,740 - 00:30:31,740] Since it's anti-symmetric,
+- [00:30:31,740 - 00:30:33,740] it has zeros on the diagonal.
+- [00:30:35,740 - 00:30:37,740] Incidentally,
+- [00:30:37,740 - 00:30:39,740] in the first row, in the first column,
+- [00:30:39,740 - 00:30:41,740] I'm going to put the time component,
+- [00:30:41,740 - 00:30:43,740] the time component,
+- [00:30:43,740 - 00:30:45,740] the x, y, and z components.
+- [00:30:45,740 - 00:30:47,740] Alright, let's
+- [00:30:47,740 - 00:30:49,740] we don't need this here.
+- [00:30:49,740 - 00:30:51,740] Alright, so let's
+- [00:30:51,740 - 00:30:53,740] let me just fill it in for you.
+- [00:30:53,740 - 00:30:55,740] Minus the x
+- [00:30:55,740 - 00:30:57,740] component of the electric field,
+- [00:30:57,740 - 00:30:59,740] minus the y
+- [00:30:59,740 - 00:31:01,740] component of the electric field,
+- [00:31:01,740 - 00:31:03,740] and minus the z component
+- [00:31:03,740 - 00:31:05,740] of the electric field.
+- [00:31:05,740 - 00:31:07,740] And down here, we have plus
+- [00:31:07,740 - 00:31:09,740] e sub x,
+- [00:31:09,740 - 00:31:11,740] plus e sub y,
+- [00:31:11,740 - 00:31:13,740] and plus e sub z.
+- [00:31:15,740 - 00:31:17,740] An anti-symmetric matrix always
+- [00:31:17,740 - 00:31:19,740] has the property that what's above
+- [00:31:19,740 - 00:31:21,740] the diagonal here is the
+- [00:31:21,740 - 00:31:23,740] negative of what's below the diagonal.
+- [00:31:23,740 - 00:31:25,740] Alright, now what about
+- [00:31:25,740 - 00:31:27,740] in these missing slots over here?
+- [00:31:27,740 - 00:31:29,740] That's where the magnetic fields go.
+- [00:31:29,740 - 00:31:31,740] Right over here, you have minus
+- [00:31:31,740 - 00:31:33,740] b sub z,
+- [00:31:35,740 - 00:31:37,740] b sub y,
+- [00:31:37,740 - 00:31:39,740] and minus b sub x.
+- [00:31:39,740 - 00:31:41,740] And then down here,
+- [00:31:41,740 - 00:31:43,740] you just have
+- [00:31:43,740 - 00:31:45,740] the
+- [00:31:45,740 - 00:31:47,740] reflected
+- [00:31:47,740 - 00:31:49,740] plus b sub z,
+- [00:31:51,740 - 00:31:53,740] minus b sub y,
+- [00:31:53,740 - 00:31:55,740] and plus b sub x.
+- [00:31:57,740 - 00:31:59,740] This is the electromagnetic
+- [00:31:59,740 - 00:32:01,740] field tensor.
+- [00:32:01,740 - 00:32:03,740] It transforms
+- [00:32:03,740 - 00:32:05,740] under Lorentz transformations
+- [00:32:05,740 - 00:32:07,740] as an anti-symmetric tensor.
+- [00:32:07,740 - 00:32:09,740] I showed you how to do that last
+- [00:32:09,740 - 00:32:11,740] time, and
+- [00:32:11,740 - 00:32:13,740] there's nothing new about it
+- [00:32:13,740 - 00:32:15,740] for the moment.
+- [00:32:17,740 - 00:32:19,740] Let's see, we would call this
+- [00:32:19,740 - 00:32:21,740] component over here
+- [00:32:21,740 - 00:32:23,740] the tx component.
+- [00:32:23,740 - 00:32:25,740] The first row here refers to
+- [00:32:25,740 - 00:32:27,740] time.
+- [00:32:27,740 - 00:32:29,740] The second row, well,
+- [00:32:29,740 - 00:32:31,740] the first row is time, the second row is x,
+- [00:32:31,740 - 00:32:33,740] the third row is y, the fourth row is z.
+- [00:32:33,740 - 00:32:35,740] And likewise for the
+- [00:32:35,740 - 00:32:37,740] columns. We would call this
+- [00:32:37,740 - 00:32:39,740] e,
+- [00:32:39,740 - 00:32:41,740] or we would call this f,
+- [00:32:41,740 - 00:32:43,740] this element over here
+- [00:32:43,740 - 00:32:45,740] would be
+- [00:32:45,740 - 00:32:47,740] mu equals t,
+- [00:32:47,740 - 00:32:49,740] mu equals x.
+- [00:32:49,740 - 00:32:51,740] So as mu and nu
+- [00:32:51,740 - 00:32:53,740] both run over x, y, z, and t,
+- [00:32:53,740 - 00:32:55,740] we fill out this matrix.
+- [00:32:55,740 - 00:32:57,740] That's the notion of the electromagnetic
+- [00:32:57,740 - 00:32:59,740] field tensor. And as I
+- [00:32:59,740 - 00:33:01,740] said, it transforms in the
+- [00:33:01,740 - 00:33:03,740] right way to be a tensor.
+- [00:33:03,740 - 00:33:05,740] There is another
+- [00:33:05,740 - 00:33:07,740] tensor that you can make up out of
+- [00:33:07,740 - 00:33:09,740] the electromagnetic field.
+- [00:33:09,740 - 00:33:11,740] It is also a tensor,
+- [00:33:11,740 - 00:33:13,740] and it is made up
+- [00:33:13,740 - 00:33:15,740] by simply replacing
+- [00:33:15,740 - 00:33:17,740] electric field by magnetic field,
+- [00:33:17,740 - 00:33:19,740] and magnetic field by electric field.
+- [00:33:19,740 - 00:33:21,740] We just look at these
+- [00:33:21,740 - 00:33:23,740] equations and we see that the electric field
+- [00:33:23,740 - 00:33:25,740] and magnetic field occur almost
+- [00:33:25,740 - 00:33:27,740] symmetrically. It might not
+- [00:33:27,740 - 00:33:29,740] be a great surprise that there's another
+- [00:33:29,740 - 00:33:31,740] tensor
+- [00:33:31,740 - 00:33:33,740] which is made up of exactly,
+- [00:33:33,740 - 00:33:35,740] I won't write equal, but another tensor.
+- [00:33:35,740 - 00:33:37,740] It's usually
+- [00:33:37,740 - 00:33:39,740] called f with a little
+- [00:33:39,740 - 00:33:41,740] twiddle on top of it.
+- [00:33:41,740 - 00:33:43,740] And all it is,
+- [00:33:43,740 - 00:33:45,740] is it's the same object, except with
+- [00:33:45,740 - 00:33:47,740] electric and magnetic fields
+- [00:33:47,740 - 00:33:49,740] in it. So,
+- [00:33:49,740 - 00:33:51,740] you don't quite change
+- [00:33:51,740 - 00:33:53,740] electric to magnetic and magnetic
+- [00:33:53,740 - 00:33:55,740] to electric. You change
+- [00:33:55,740 - 00:33:57,740] electric to magnetic,
+- [00:33:57,740 - 00:33:59,740] but magnetic to minus
+- [00:33:59,740 - 00:34:01,740] electric. Do I have that right?
+- [00:34:01,740 - 00:34:03,740] No, I don't quite.
+- [00:34:03,740 - 00:34:05,740] You replace electric
+- [00:34:05,740 - 00:34:07,740] by minus
+- [00:34:07,740 - 00:34:09,739] magnetic, and
+- [00:34:09,739 - 00:34:11,739] magnetic by electric.
+- [00:34:13,739 - 00:34:15,739] That's in order to account
+- [00:34:15,739 - 00:34:17,739] for the sign difference here.
+- [00:34:17,739 - 00:34:20,169] When you do that, you
+- [00:34:20,169 - 00:34:22,600] discover that there's another tensor quantity
+- [00:34:22,600 - 00:34:25,119] I'm not going to try to prove
+- [00:34:25,119 - 00:34:27,639] for you that this transforms like a tensor
+- [00:34:27,639 - 00:34:32,520] It's just a straightforward exercise
+- [00:34:32,520 - 00:34:36,079] And I'm not as young as I used to be, so I
+- [00:34:36,079 - 00:34:39,639] don't do as much exercise as I used to on the blackboard
+- [00:34:39,639 - 00:34:41,939] I won't do it, but we'll just write it down
+- [00:34:41,939 - 00:34:45,379] Wherever you see electric, put minus magnetic
+- [00:34:45,379 - 00:34:47,580] Wherever you see magnetic, put electric
+- [00:34:47,580 - 00:34:52,340] So, F twiddle, the other electromagnetic field tensor
+- [00:34:52,340 - 00:34:55,719] Again, zero on the diagonals
+- [00:34:55,719 - 00:35:02,579] And then plus B sub X,
+- [00:35:02,579 - 00:35:09,440] B sub Y, and B sub Z
+- [00:35:09,440 - 00:35:15,279] And then wherever we see magnetic, we put back electric
+- [00:35:15,279 - 00:35:17,440] So minus EZ
+- [00:35:17,580 - 00:35:20,080] Z
+- [00:35:20,080 - 00:35:22,819] EY
+- [00:35:22,819 - 00:35:25,779] Minus EX
+- [00:35:25,779 - 00:35:28,029] And then on the other side here,
+- [00:35:28,029 - 00:35:30,279] you just have to remember that it's anti-symmetric
+- [00:35:30,279 - 00:35:34,049] So everything on the reflected side of the matrix here
+- [00:35:34,049 - 00:35:37,819] is just the opposite, the negative of what it is
+- [00:35:37,819 - 00:35:42,020] In the upper half of a matrix
+- [00:35:42,020 - 00:35:45,120] I won't bother writing it out
+- [00:35:45,120 - 00:35:47,220] These are two tensor quantities
+- [00:35:47,220 - 00:35:51,319] Both of which have the same transformation properties
+- [00:35:51,319 - 00:35:55,369] And on the Lorentz transformations form a
+- [00:35:55,369 - 00:35:59,419] coherent set of objects which are a tensor
+- [00:35:59,419 - 00:36:01,680] Anti-symmetric tensor
+- [00:36:01,680 - 00:36:05,520] If we can succeed in writing Maxwell's equations
+- [00:36:05,520 - 00:36:06,819] Here they are right here
+- [00:36:06,819 - 00:36:09,519] If we can succeed in rewriting them in terms
+- [00:36:09,519 - 00:36:12,220] of these objects in a way that looks covariant
+- [00:36:12,220 - 00:36:14,720] Which looks the same in all reference frames
+- [00:36:14,720 - 00:36:15,220] Then we will have proved that these
+- [00:36:15,220 - 00:36:15,720] ways are the same in all reference frames
+- [00:36:15,720 - 00:36:18,489] And we can prove that these equations
+- [00:36:18,489 - 00:36:21,259] here are the same in all reference frames
+- [00:36:21,259 - 00:36:22,879] This is not hard to do
+- [00:36:23,419 - 00:36:28,680] So let's see if we can guess the answer
+- [00:36:28,680 - 00:36:30,049] Notice that Maxwell's equations each
+- [00:36:30,049 - 00:36:31,419] have one derivative in them
+- [00:36:31,419 - 00:36:33,819] They don't have second derivatives
+- [00:36:33,819 - 00:36:36,620] There are many derivatives of course
+- [00:36:36,620 - 00:36:38,120] There is a derivative with respect to t
+- [00:36:38,120 - 00:36:40,919] There is a derivative with respect to x
+- [00:36:40,919 - 00:36:42,660] But they never have higher derivatives
+- [00:36:42,660 - 00:36:43,959] They never have second derivatives, third
+- [00:36:43,959 - 00:36:45,259] derivatives, fourth derivatives, these are not possible
+- [00:36:45,260 - 00:36:50,060] fourth derivatives and so forth. And so we
+- [00:36:50,060 - 00:36:54,860] might try to see if these equations here can
+- [00:36:54,860 - 00:36:58,850] be rewritten in terms of these field of tensors.
+- [00:36:58,850 - 00:37:02,840] What can we write? We have F mu nu. That's
+- [00:37:02,840 - 00:37:06,330] the electric and magnetic field. We can differentiate
+- [00:37:06,330 - 00:37:09,820] it. But what can we differentiate it with
+- [00:37:09,820 - 00:37:13,010] respect to? We can differentiate it, of course, with
+- [00:37:13,010 - 00:37:16,200] respect to some x. But we want to make
+- [00:37:16,200 - 00:37:18,950] this equation, whatever it is, we want to
+- [00:37:18,950 - 00:37:21,700] make it the same in every reference frame.
+- [00:37:21,700 - 00:37:25,020] And that means we want to match
+- [00:37:25,020 - 00:37:28,340] indices, covariant and contravariant indices. About the only
+- [00:37:28,340 - 00:37:32,480] thing we can write down is this. Derivative with respect
+- [00:37:32,480 - 00:37:36,620] to x mu of F mu nu is equal to
+- [00:37:36,620 - 00:37:39,400] zero. First of all, let's count how many equations
+- [00:37:39,400 - 00:37:39,800] there are.
+- [00:37:39,820 - 00:37:43,450] Let's count how many equations there are.
+- [00:37:43,450 - 00:37:47,080] There's one for each nu. Remember, we sum
+- [00:37:47,080 - 00:37:50,530] over mu. Mu is a summation index. So
+- [00:37:50,530 - 00:37:53,980] that's not a free index in this problem. There's
+- [00:37:53,980 - 00:37:56,790] one equation for each nu. That means
+- [00:37:56,790 - 00:37:59,600] there are four equations. Those four equations we
+- [00:37:59,600 - 00:38:04,150] will see are, let's see, they are these four
+- [00:38:04,150 - 00:38:08,700] equations right here. Why do I say there are
+- [00:38:08,700 - 00:38:09,400] four equations here?
+- [00:38:09,400 - 00:38:13,060] Here's one. And now there are three components
+- [00:38:13,060 - 00:38:16,720] of this vector equation. This is a vector
+- [00:38:16,720 - 00:38:20,050] equation. There are three components, e x, e
+- [00:38:20,050 - 00:38:23,380] y, and e z. Three components here, one here.
+- [00:38:23,380 - 00:38:26,930] Those are four components. Let's check. Let's
+- [00:38:26,930 - 00:38:30,480] actually check that these four equations are
+- [00:38:30,480 - 00:38:33,980] what we get from this. It's not hard. We just
+- [00:38:33,980 - 00:38:37,480] write it out. First of all, mu can be t. So
+- [00:38:39,400 - 00:38:48,140] in this equation, of movie z. And n times n.
+- [00:38:48,140 - 00:38:56,880] So mu x or mu y, you can write mu, du,
+- [00:38:56,880 - 00:38:59,000] ju. Let's write the off, the
+- [00:38:59,000 - 00:39:01,120] fate, the gozone, and dec glacier
+- [00:39:01,120 - 00:39:03,410] força. All in all, that's
+- [00:39:03,410 - 00:39:05,700] the secret to everything we have.
+- [00:39:05,700 - 00:39:07,880] Then remember, M is infinity.
+- [00:39:07,880 - 00:39:08,920] We're going to write this by the direction we want.
+- [00:39:08,980 - 00:39:17,970] xz plus d by dy of fyz
+- [00:39:17,970 - 00:39:26,960] plus d by dz of fzz equals 0.
+- [00:39:27,840 - 00:39:31,180] That's what this would say if it's true.
+- [00:39:32,480 - 00:39:33,800] What about this term?
+- [00:39:35,200 - 00:39:37,200] Derivative with respect to z of fzz.
+- [00:39:37,200 - 00:39:40,039] fzz is 0 because all
+- [00:39:40,039 - 00:39:42,879] of the diagonal elements are 0.
+- [00:39:43,980 - 00:39:45,560] Alright, so we can forget this.
+- [00:39:45,799 - 00:39:46,540] This isn't there.
+- [00:39:48,480 - 00:39:49,799] fzz is 0.
+- [00:39:52,319 - 00:39:54,640] What is fxz?
+- [00:39:55,080 - 00:39:59,169] Well, to see what fxz is, we go
+- [00:39:59,169 - 00:40:03,259] to the x row and the z column.
+- [00:40:03,779 - 00:40:04,560] That's by.
+- [00:40:04,560 - 00:40:04,879] That's my.
+- [00:40:04,880 - 00:40:08,180] So let's just plug it in.
+- [00:40:09,060 - 00:40:09,940] That's by.
+- [00:40:15,320 - 00:40:17,880] What is fyz?
+- [00:40:18,560 - 00:40:22,750] For that, we go to the y row
+- [00:40:22,750 - 00:40:26,940] to the zth column and that's minus bx.
+- [00:40:27,680 - 00:40:31,760] So that gives us minus bx.
+- [00:40:34,880 - 00:40:36,400] Well, that's looking good.
+- [00:40:36,940 - 00:40:39,430] This is d by dx of
+- [00:40:39,430 - 00:40:41,920] by minus d by dy of bx.
+- [00:40:42,220 - 00:40:43,880] This looks very much like a
+- [00:40:43,880 - 00:40:45,540] piece of the curl of b.
+- [00:40:47,020 - 00:40:48,140] And that's what it is.
+- [00:40:49,000 - 00:40:51,500] What about ftz?
+- [00:40:52,320 - 00:40:55,790] Well, we go to the t row to
+- [00:40:55,790 - 00:40:59,260] the zth place and we get minus ez.
+- [00:40:59,260 - 00:40:59,780] So this is minus e sub z.
+- [00:41:00,820 - 00:41:04,760] So this is minus the derivative.
+- [00:41:04,880 - 00:41:08,380] So this is the time derivative of
+- [00:41:08,380 - 00:41:11,880] e sub z with respect to t.
+- [00:41:11,880 - 00:41:12,880] All of that equals 0.
+- [00:41:12,880 - 00:41:15,260] Well, if you look at it carefully, you'll
+- [00:41:15,260 - 00:41:17,640] see that it's exactly the equation over here,
+- [00:41:17,640 - 00:41:20,320] the zth component of it.
+- [00:41:20,320 - 00:41:23,650] The time derivative of e sub z is
+- [00:41:23,650 - 00:41:26,980] the z component of the curl of b.
+- [00:41:26,980 - 00:41:29,460] That's exactly what we have here.
+- [00:41:29,460 - 00:41:33,120] So we check that the.
+- [00:41:33,120 - 00:41:34,120] The.
+- [00:41:34,120 - 00:41:37,120] Let's see, which component was that?
+- [00:41:37,120 - 00:41:39,120] That was the z component over here.
+- [00:41:39,120 - 00:41:41,120] The z component just gives us
+- [00:41:41,120 - 00:41:43,120] back one of the Maxwell equations,
+- [00:41:43,120 - 00:41:46,120] namely the z component of a Maxwell equation.
+- [00:41:46,120 - 00:41:50,120] The only other case which is interesting is to
+- [00:41:50,120 - 00:41:54,120] write down the time component here or the t component.
+- [00:41:54,120 - 00:41:56,120] t for time.
+- [00:41:56,120 - 00:42:02,120] Well, let's continue to call it mu nu.
+- [00:42:02,120 - 00:42:03,120] Let's work out.
+- [00:42:03,120 - 00:42:04,120] Let's work out.
+- [00:42:04,120 - 00:42:11,120] Let's work out the time component of this equation.
+- [00:42:11,120 - 00:42:13,120] What does this read now?
+- [00:42:13,120 - 00:42:16,120] First of all, it has a term
+- [00:42:16,120 - 00:42:19,120] which is d by dt of ft t.
+- [00:42:19,120 - 00:42:21,120] That's mu equals t.
+- [00:42:21,120 - 00:42:23,120] But that's 0.
+- [00:42:23,120 - 00:42:26,120] ft t, that's right here.
+- [00:42:26,120 - 00:42:27,120] That's 0.
+- [00:42:27,120 - 00:42:30,120] So that's 0.
+- [00:42:30,120 - 00:42:32,120] And then we have, what else?
+- [00:42:32,120 - 00:42:33,120] d by d.
+- [00:42:33,120 - 00:42:43,120] d by dx of fxt plus d by dy
+- [00:42:43,120 - 00:42:53,120] of fy t plus d by dz of fzt.
+- [00:42:53,120 - 00:42:58,120] Well, what is fxt, yt, and zt?
+- [00:42:58,120 - 00:43:01,120] Those are just the components of the electric field.
+- [00:43:01,120 - 00:43:06,120] So fxt minus, with a minus sign, is ex.
+- [00:43:06,120 - 00:43:07,620] The other one is ey
+- [00:43:07,620 - 00:43:09,120] and the other one is ez.
+- [00:43:09,120 - 00:43:13,620] So all this says, when packaged neatly, is
+- [00:43:13,620 - 00:43:18,120] that the derivative with respect to x of ex
+- [00:43:18,120 - 00:43:23,620] plus the derivative with respect to y of ey plus the
+- [00:43:23,620 - 00:43:29,120] derivative with respect to z of ez is equal to 0.
+- [00:43:29,120 - 00:43:35,120] That, my friends, is just del dot e equals 0.
+- [00:43:35,120 - 00:43:37,120] For the moment, we've been
+- [00:43:37,120 - 00:43:39,120] ignoring charges and current density.
+- [00:43:39,120 - 00:43:42,120] Charges and currents.
+- [00:43:42,120 - 00:43:48,120] So you can see that, um, that two of the, sorry,
+- [00:43:48,120 - 00:43:54,120] four of the Maxwell equations, four of the eight Maxwell equations,
+- [00:43:54,120 - 00:43:57,120] just have the form
+- [00:43:57,120 - 00:43:58,120] of a relativistically
+- [00:43:58,120 - 00:44:06,120] covariant, same in every reference frame, vector equation.
+- [00:44:06,120 - 00:44:08,620] It's a vector equation because
+- [00:44:08,620 - 00:44:11,120] the left-hand side is a vector.
+- [00:44:11,120 - 00:44:14,120] It's a vector because it is the
+- [00:44:14,120 - 00:44:17,120] derivative where you've contracted the index mu.
+- [00:44:17,120 - 00:44:19,120] There's only one index left over.
+- [00:44:19,120 - 00:44:21,120] And so this is a vector equation.
+- [00:44:21,120 - 00:44:24,120] It's the same in every reference frame.
+- [00:44:24,120 - 00:44:25,620] The point is that if
+- [00:44:25,620 - 00:44:27,120] you went through the entire labor
+- [00:44:27,120 - 00:44:31,120] of doing the Lorentz transformations on the coordinates
+- [00:44:31,120 - 00:44:35,120] and on the components of e and b,
+- [00:44:35,120 - 00:44:38,120] you would find out that after the
+- [00:44:38,120 - 00:44:41,120] Lorentz transformation, the equation was exactly the same.
+- [00:44:41,120 - 00:44:42,120] Okay.
+- [00:44:42,120 - 00:44:45,120] What about the other half of the Maxwell equations?
+- [00:44:45,120 - 00:44:49,120] Well, those have exactly the same form,
+- [00:44:49,120 - 00:44:51,120] except
+- [00:44:51,120 - 00:44:53,120] with twiddle here.
+- [00:44:53,120 - 00:44:55,120] So,
+- [00:44:55,120 - 00:44:57,120] with twiddle here,
+- [00:45:06,120 - 00:45:08,120] of course they have exactly the same form.
+- [00:45:08,120 - 00:45:10,120] f twiddle is the same as
+- [00:45:10,120 - 00:45:12,120] f except with e and b interchanged,
+- [00:45:13,120 - 00:45:15,120] and an extra minus sign thrown in.
+- [00:45:15,120 - 00:45:17,120] Well, that's exactly what's here.
+- [00:45:17,120 - 00:45:20,120] If you go from here to here by interchanging
+- [00:45:20,120 - 00:45:23,120] electric and magnetic fields with an extra sign here,
+- [00:45:23,120 - 00:45:24,120] the equations are the same.
+- [00:45:25,120 - 00:45:32,120] So, this is a powerful way to rewrite Maxwell's equations.
+- [00:45:32,120 - 00:45:37,120] Again, without charges, without current densities.
+- [00:45:37,120 - 00:45:40,120] This is a powerful way to rewrite
+- [00:45:40,120 - 00:45:43,120] them in a simple and elegant form,
+- [00:45:43,120 - 00:45:46,120] but it's not the simplicity and elegance which is important.
+- [00:45:46,120 - 00:45:50,120] It's the recognition that these are four vector equations,
+- [00:45:50,120 - 00:45:53,120] and therefore the same in every reference frame.
+- [00:45:53,120 - 00:45:54,120] Okay.
+- [00:45:54,120 - 00:45:59,120] So, Maxwell's equations then are relativistically invariant.
+- [00:45:59,120 - 00:46:02,120] They don't change from frame to frame.
+- [00:46:02,120 - 00:46:07,120] We'll put back charges and currents in a little while,
+- [00:46:07,120 - 00:46:09,120] but, or maybe next time,
+- [00:46:09,120 - 00:46:11,120] well, I think we'll do it this time,
+- [00:46:11,120 - 00:46:13,120] but, um,
+- [00:46:13,120 - 00:46:16,120] now that we've found that Maxwell's equations
+- [00:46:16,120 - 00:46:19,120] are the same in every reference frame,
+- [00:46:19,120 - 00:46:21,120] what do they say?
+- [00:46:21,120 - 00:46:23,120] What are the implications
+- [00:46:23,120 - 00:46:26,120] of these eight equations?
+- [00:46:26,120 - 00:46:29,120] What kind of electromagnetic fields do they allow?
+- [00:46:29,120 - 00:46:31,120] What do they describe?
+- [00:46:31,120 - 00:46:34,120] So, let's again forget currents
+- [00:46:34,120 - 00:46:37,120] and densities for the moment.
+- [00:46:37,120 - 00:46:41,120] Zero, nothing there.
+- [00:46:41,120 - 00:46:43,120] And let's study these four,
+- [00:46:43,120 - 00:46:47,120] they're not four equations, they're eight equations.
+- [00:46:47,120 - 00:46:49,620] Let's study them and see if we
+- [00:46:49,620 - 00:46:52,120] can make wave equations out of them.
+- [00:46:52,120 - 00:46:54,120] Now, if we go back,
+- [00:46:54,120 - 00:46:56,120] I don't know what we did with the wave equation,
+- [00:46:56,120 - 00:46:58,120] we had it someplace here.
+- [00:46:58,120 - 00:47:00,120] There it is.
+- [00:47:00,120 - 00:47:05,120] The wave equation is an equation with second derivatives.
+- [00:47:05,120 - 00:47:09,120] Second derivatives mean you differentiate twice.
+- [00:47:09,120 - 00:47:10,120] Okay.
+- [00:47:10,120 - 00:47:14,120] Maxwell's equations all have only first derivatives,
+- [00:47:14,120 - 00:47:19,120] but they have two distinct fields, E and B.
+- [00:47:19,120 - 00:47:22,120] We're going to find out that having,
+- [00:47:22,120 - 00:47:24,120] we have first order equations
+- [00:47:24,120 - 00:47:26,120] because they only have first derivatives,
+- [00:47:26,120 - 00:47:28,120] but we have first order derivatives,
+- [00:47:28,120 - 00:47:30,620] first order equations for E and
+- [00:47:30,620 - 00:47:33,120] first order equations for B, two variables.
+- [00:47:33,120 - 00:47:36,120] We're going to find out that
+- [00:47:36,120 - 00:47:39,120] that's equivalent to having second order equations
+- [00:47:39,120 - 00:47:41,120] for either the electric field
+- [00:47:41,120 - 00:47:43,120] or the magnetic field separately.
+- [00:47:43,120 - 00:47:44,120] This is not hard to do.
+- [00:47:44,120 - 00:47:46,120] This is easy to do, so we need,
+- [00:47:46,120 - 00:47:49,120] let's see, we'll need a clear blackboard over here,
+- [00:47:49,120 - 00:47:52,120] and we'll need to manipulate this a little bit.
+- [00:47:52,120 - 00:47:55,120] I have E and B all mixed up,
+- [00:47:55,120 - 00:47:56,620] but I want to write an
+- [00:47:56,620 - 00:47:58,120] equation just for the electric field.
+- [00:47:58,120 - 00:48:01,120] I want to try to isolate just the electric field
+- [00:48:01,120 - 00:48:03,120] and see how it behaves.
+- [00:48:03,120 - 00:48:05,120] So here's what I do.
+- [00:48:05,120 - 00:48:07,120] Let's see.
+- [00:48:07,120 - 00:48:10,120] Take this equation over here,
+- [00:48:10,120 - 00:48:13,120] and let's differentiate it with respect to time.
+- [00:48:13,120 - 00:48:16,120] It's got only one time derivative in it.
+- [00:48:16,120 - 00:48:18,120] Let's differentiate it again with respect to time
+- [00:48:18,120 - 00:48:21,120] so that we get a second time derivative.
+- [00:48:22,120 - 00:48:27,120] Then it will be d second E by dt squared,
+- [00:48:27,120 - 00:48:29,120] second derivative of the electric field,
+- [00:48:29,120 - 00:48:35,120] and that's going to equal del
+- [00:48:35,120 - 00:48:41,120] cross the time derivative of B.
+- [00:48:41,120 - 00:48:44,120] If I differentiate with respect to time over here,
+- [00:48:44,120 - 00:48:45,620] I just get the second
+- [00:48:45,620 - 00:48:47,120] time derivative of the electric field.
+- [00:48:47,120 - 00:48:50,120] If I differentiate with respect to t over here,
+- [00:48:50,120 - 00:48:52,120] that just differentiates,
+- [00:48:52,120 - 00:48:55,120] the magnetic field with respect to time.
+- [00:48:55,120 - 00:48:57,120] Okay, that hasn't helped yet.
+- [00:48:57,120 - 00:48:58,620] I still have the electric and
+- [00:48:58,620 - 00:49:00,120] the magnetic field in the same equation.
+- [00:49:00,120 - 00:49:03,120] The goal was to get rid of the magnetic field.
+- [00:49:03,120 - 00:49:05,120] But look, right here I have the magnetic field,
+- [00:49:05,120 - 00:49:07,120] or its time derivative,
+- [00:49:07,120 - 00:49:10,120] written in terms of the electric field.
+- [00:49:10,120 - 00:49:12,120] So I can be clever and
+- [00:49:12,120 - 00:49:14,120] simply get rid of dB dt here
+- [00:49:14,120 - 00:49:16,120] and call it curl of E,
+- [00:49:16,120 - 00:49:18,120] minus the curl of E.
+- [00:49:18,120 - 00:49:20,120] Okay, so let's just...
+- [00:49:22,120 - 00:49:24,120] Let's first...
+- [00:49:24,120 - 00:49:25,120] It was...
+- [00:49:25,120 - 00:49:26,120] What was it?
+- [00:49:26,120 - 00:49:32,120] It was del cross dB dt.
+- [00:49:32,120 - 00:49:34,120] And now for dB dt,
+- [00:49:34,120 - 00:49:37,120] we substitute minus curl of E.
+- [00:49:37,120 - 00:49:40,120] So that gives us a minus sign
+- [00:49:40,120 - 00:49:45,120] and a curl of E.
+- [00:49:45,120 - 00:49:47,120] Here we have an equation
+- [00:49:47,120 - 00:49:50,120] which only involves the electric field,
+- [00:49:50,120 - 00:49:52,120] second derivative with respect to t,
+- [00:49:52,120 - 00:49:54,120] on the left-hand side,
+- [00:49:54,120 - 00:49:57,120] and various complicated derivatives on the right-hand side.
+- [00:49:57,120 - 00:50:00,120] What I'm going to do is I'm going to take
+- [00:50:00,120 - 00:50:03,120] the x component of this equation.
+- [00:50:03,120 - 00:50:06,120] Both sides of the equations are vectors.
+- [00:50:06,120 - 00:50:08,120] E is a vector.
+- [00:50:08,120 - 00:50:12,120] Differentiating it with respect to time leaves it a vector.
+- [00:50:12,120 - 00:50:15,120] And the cross product, or the curl of a curl,
+- [00:50:15,120 - 00:50:16,120] is also a vector.
+- [00:50:16,120 - 00:50:20,120] So let's take the x component of both sides.
+- [00:50:20,120 - 00:50:21,120] The x component of both sides.
+- [00:50:21,120 - 00:50:27,120] What we have to calculate
+- [00:50:27,120 - 00:50:32,120] is the x component of the curl of the curl.
+- [00:50:32,120 - 00:50:35,120] That's a slightly tedious operation.
+- [00:50:35,120 - 00:50:36,120] If you like, you can
+- [00:50:36,120 - 00:50:37,120] go to sleep for two minutes
+- [00:50:37,120 - 00:50:39,120] until I get the answer,
+- [00:50:39,120 - 00:50:42,120] but I will do it on the blackboard for you.
+- [00:50:42,120 - 00:50:47,120] Okay, del cross del cross E, the x component.
+- [00:50:47,120 - 00:50:48,120] All right.
+- [00:50:48,120 - 00:50:50,120] What we have to know is that the x component
+- [00:50:50,120 - 00:50:53,120] of a curl,
+- [00:50:53,120 - 00:50:57,120] the x component of a curl,
+- [00:50:57,120 - 00:51:01,120] is equal to the derivative of the z component
+- [00:51:01,120 - 00:51:03,120] with respect to y,
+- [00:51:03,120 - 00:51:06,120] minus the derivative of the y component
+- [00:51:06,120 - 00:51:08,120] with respect to z.
+- [00:51:08,120 - 00:51:09,120] All right.
+- [00:51:09,120 - 00:51:14,120] We are taking the x component of del cross A,
+- [00:51:14,120 - 00:51:17,120] of del cross A.
+- [00:51:17,120 - 00:51:18,120] That's this.
+- [00:51:18,120 - 00:51:19,120] All right.
+- [00:51:19,120 - 00:51:22,120] So now we want the x
+- [00:51:22,120 - 00:51:25,120] component of del cross del cross E.
+- [00:51:25,120 - 00:51:30,120] That means I just substitute for A.
+- [00:51:30,120 - 00:51:33,120] Wherever I see A, I substitute del cross E.
+- [00:51:33,120 - 00:51:34,120] So let's see.
+- [00:51:34,120 - 00:51:35,120] What's that going to give me?
+- [00:51:35,120 - 00:51:39,120] That's going to give me d by dy of Az,
+- [00:51:39,120 - 00:51:42,120] which should be del cross E,
+- [00:51:42,120 - 00:51:44,120] the z component of it,
+- [00:51:44,120 - 00:51:48,120] minus d by dz of del cross E,
+- [00:51:48,120 - 00:51:50,120] the y component of it.
+- [00:51:50,120 - 00:51:55,120] But now we substitute for these components the same trick.
+- [00:51:55,120 - 00:51:57,120] The same trick.
+- [00:51:57,120 - 00:52:02,120] And here is the result, the grand result.
+- [00:52:02,120 - 00:52:07,120] It's d by dy with derivative
+- [00:52:07,120 - 00:52:12,120] of Ey with respect to x,
+- [00:52:12,120 - 00:52:14,120] minus the derivative of Az,
+- [00:52:14,120 - 00:52:16,120] which is the z component of the y component.
+- [00:52:16,120 - 00:52:19,120] So that's d by dy with respect to x,
+- [00:52:19,120 - 00:52:25,120] minus the derivative of Ex with respect to y.
+- [00:52:25,120 - 00:52:28,120] That's d by dy of this term.
+- [00:52:28,120 - 00:52:30,120] And then there are two more.
+- [00:52:30,120 - 00:52:39,120] Plus d by dz of the Ex by dz,
+- [00:52:39,120 - 00:52:44,120] minus the Ez by dx.
+- [00:52:44,120 - 00:52:47,120] I think that's it.
+- [00:52:47,120 - 00:52:49,120] That's it.
+- [00:52:49,120 - 00:52:51,120] Two terms.
+- [00:52:51,120 - 00:52:52,120] Okay.
+- [00:52:52,120 - 00:52:54,120] Okay, wake up now.
+- [00:52:54,120 - 00:52:56,120] The worst is over.
+- [00:52:56,120 - 00:52:58,120] Let's see what we have.
+- [00:52:58,120 - 00:53:02,120] We're calculating the x component of a vector.
+- [00:53:02,120 - 00:53:05,120] We're calculating the x component of a vector.
+- [00:53:05,120 - 00:53:07,120] Let's see what we have here.
+- [00:53:07,120 - 00:53:09,620] We first of all have second
+- [00:53:09,620 - 00:53:12,120] derivatives of Ex with respect to y.
+- [00:53:12,120 - 00:53:13,120] Now let's see what we have here.
+- [00:53:13,120 - 00:53:14,120] First of all, we have the derivative of X.
+- [00:53:14,120 - 00:53:15,120] Now, what we have is this term.
+- [00:53:15,120 - 00:53:17,120] We have exp of z.
+- [00:53:17,120 - 00:53:22,120] Let's call d by dy squared of Ex.
+- [00:53:22,120 - 00:53:23,120] That's this term.
+- [00:53:23,120 - 00:53:25,120] We cross them out as we pick them off.
+- [00:53:25,120 - 00:53:27,120] That's this.
+- [00:53:27,120 - 00:53:29,120] d by dy squared, two derivatives
+- [00:53:29,120 - 00:53:31,120] with respect to y of Ex.
+- [00:53:31,120 - 00:53:37,120] We have two derivatives with respect to z of Ex,
+- [00:53:37,120 - 00:53:43,120] plus second derivative with respect to z squared of Ex.
+- [00:53:43,120 - 00:53:47,520] this
+- [00:53:47,520 - 00:53:51,020] and then we get two other terms
+- [00:53:51,020 - 00:53:52,080] which look a little
+- [00:53:52,080 - 00:53:53,540] mysterious
+- [00:53:53,540 - 00:53:54,880] what are they?
+- [00:53:54,880 - 00:53:56,880] they are
+- [00:53:56,880 - 00:53:59,540] derivative with respect to x
+- [00:53:59,540 - 00:54:00,779] of
+- [00:54:00,779 - 00:54:04,020] dy ey
+- [00:54:04,020 - 00:54:06,740] that's this term over here
+- [00:54:06,740 - 00:54:10,240] it looks a little different because
+- [00:54:10,240 - 00:54:13,740] I've interchanged the x and y derivative
+- [00:54:14,660 - 00:54:17,049] it was derivative with respect to x
+- [00:54:17,049 - 00:54:19,439] followed by derivative with respect to y
+- [00:54:19,439 - 00:54:21,500] you're allowed to interchange those
+- [00:54:21,500 - 00:54:24,839] so the first term here is d by dx of
+- [00:54:24,839 - 00:54:26,419] dy ey
+- [00:54:26,419 - 00:54:29,419] and then there's another term which is
+- [00:54:29,419 - 00:54:33,220] d by dx
+- [00:54:33,220 - 00:54:34,700] of
+- [00:54:34,700 - 00:54:36,580] I think it's dz
+- [00:54:36,580 - 00:54:40,100] ez
+- [00:54:40,100 - 00:54:42,670] neither one of these, the top one
+- [00:54:42,670 - 00:54:45,240] or the bottom one, looks very elegant
+- [00:54:45,240 - 00:54:49,720] but if I add a term to the top
+- [00:54:49,720 - 00:54:51,900] and subtract the same term
+- [00:54:51,900 - 00:54:53,600] from the bottom
+- [00:54:53,600 - 00:54:55,819] the whole thing will have a nice form
+- [00:54:55,819 - 00:54:57,380] so let's add
+- [00:54:57,380 - 00:54:58,940] plus
+- [00:54:58,940 - 00:55:03,000] d by dx squared ex
+- [00:55:03,000 - 00:55:05,140] and let's now subtract
+- [00:55:05,140 - 00:55:06,500] d by dx
+- [00:55:06,500 - 00:55:08,500] of
+- [00:55:08,500 - 00:55:10,500] d by dx
+- [00:55:10,500 - 00:55:12,500] ex
+- [00:55:12,500 - 00:55:18,500] I have added and subtracted exactly the same thing
+- [00:55:18,500 - 00:55:20,500] now you should be able to see a pattern
+- [00:55:20,500 - 00:55:22,500] first of all we have
+- [00:55:22,500 - 00:55:26,500] dy ey plus dz ez
+- [00:55:26,500 - 00:55:28,500] this should be a
+- [00:55:28,500 - 00:55:30,500] I think I
+- [00:55:30,500 - 00:55:32,500] overall sign mistake
+- [00:55:32,500 - 00:55:34,500] yeah
+- [00:55:34,500 - 00:55:36,020] dy ey plus dz ez
+- [00:55:36,020 - 00:55:40,020] d z ez and d x ex
+- [00:55:40,020 - 00:55:42,020] appear inside here
+- [00:55:42,020 - 00:55:43,020] what is that
+- [00:55:43,020 - 00:55:45,020] that's just del dot e
+- [00:55:45,020 - 00:55:48,020] but del dot e is equal to zero
+- [00:55:48,020 - 00:55:50,020] that's one of Maxwell's equations
+- [00:55:50,020 - 00:55:52,020] and so all of this
+- [00:55:52,020 - 00:55:55,020] d x ex plus dy ey
+- [00:55:55,020 - 00:55:58,020] plus d z ez is just zero
+- [00:55:58,020 - 00:56:00,020] not there at all
+- [00:56:00,020 - 00:56:02,020] what about this term?
+- [00:56:02,020 - 00:56:04,020] this is nice
+- [00:56:04,020 - 00:56:05,020] but what about this term?
+- [00:56:05,020 - 00:56:06,020] this is nice
+- [00:56:06,020 - 00:56:09,020] the second derivative with respect to y squared
+- [00:56:09,020 - 00:56:11,020] x squared and z squared
+- [00:56:11,020 - 00:56:12,020] of the same quantity
+- [00:56:12,020 - 00:56:14,020] e sub x
+- [00:56:14,020 - 00:56:16,020] let's put it together now
+- [00:56:16,020 - 00:56:17,020] let's put it together
+- [00:56:17,020 - 00:56:18,020] what was it?
+- [00:56:18,020 - 00:56:20,020] here's what we were doing
+- [00:56:20,020 - 00:56:24,020] the second derivative with respect to x of t squared
+- [00:56:24,020 - 00:56:27,020] is minus
+- [00:56:27,020 - 00:56:30,020] del cross del cross e
+- [00:56:30,020 - 00:56:32,020] the x component of it
+- [00:56:32,020 - 00:56:34,020] and that's exactly what we computed over here
+- [00:56:34,020 - 00:56:41,020] that long tedious computation
+- [00:56:41,020 - 00:56:43,020] just give us a left hand side
+- [00:56:43,020 - 00:56:45,020] let's erase it
+- [00:56:45,020 - 00:56:47,020] and let's replace it by what we computed
+- [00:56:47,020 - 00:56:49,020] and you'll see a pattern
+- [00:56:49,020 - 00:56:53,020] it is
+- [00:56:53,020 - 00:56:55,020] d by dx squared
+- [00:56:55,020 - 00:56:57,020] ex
+- [00:56:57,020 - 00:56:59,020] plus d by dy squared
+- [00:56:59,020 - 00:57:01,020] ex
+- [00:57:01,020 - 00:57:03,020] plus d by dz squared
+- [00:57:04,020 - 00:57:06,020] e x
+- [00:57:06,020 - 00:57:07,020] if you've kept track
+- [00:57:07,020 - 00:57:09,020] which you probably have not
+- [00:57:09,020 - 00:57:13,020] of the original wave equation
+- [00:57:13,020 - 00:57:15,020] you'll see that this is just a wave equation
+- [00:57:15,020 - 00:57:18,020] for the component e x
+- [00:57:18,020 - 00:57:21,020] e x is a field which satisfies
+- [00:57:21,020 - 00:57:24,020] just the same old wave equation
+- [00:57:24,020 - 00:57:26,020] that we wrote down for phi
+- [00:57:26,020 - 00:57:27,520] if you remember we wrote
+- [00:57:27,520 - 00:57:29,020] down a wave equation for phi
+- [00:57:29,020 - 00:57:32,020] it had exactly the same form
+- [00:57:32,020 - 00:57:33,020] and so what we're going
+- [00:57:33,020 - 00:57:34,020] to do is we're going to
+- [00:57:34,020 - 00:57:36,020] we're going to write down a wave equation
+- [00:57:36,020 - 00:57:38,020] which satisfies the same form
+- [00:57:38,020 - 00:57:39,020] and so e
+- [00:57:39,020 - 00:57:41,020] the electric field
+- [00:57:41,020 - 00:57:42,020] itself
+- [00:57:42,020 - 00:57:44,020] satisfies a wave equation
+- [00:57:44,020 - 00:57:45,020] a good old wave equation
+- [00:57:45,020 - 00:57:47,020] the same wave equation which had
+- [00:57:47,020 - 00:57:51,020] right moving and left moving solutions
+- [00:57:51,020 - 00:57:54,020] which could be sines and cosines
+- [00:57:54,020 - 00:57:56,020] what have we learned
+- [00:57:56,020 - 00:57:58,020] we've learned that there are waves
+- [00:57:58,020 - 00:57:59,020] of electric field
+- [00:57:59,020 - 00:58:01,020] that can propagate
+- [00:58:01,020 - 00:58:02,020] we've learned that
+- [00:58:02,020 - 00:58:03,020] the wave equation
+- [00:58:03,020 - 00:58:04,020] propagating waves
+- [00:58:04,020 - 00:58:06,020] that can move to the left or right
+- [00:58:06,020 - 00:58:07,020] applies
+- [00:58:07,020 - 00:58:09,020] or any other direction of course
+- [00:58:09,020 - 00:58:12,020] but which applies to
+- [00:58:12,020 - 00:58:14,020] to the scalar field
+- [00:58:14,020 - 00:58:16,020] also applies directly
+- [00:58:16,020 - 00:58:19,020] to the components of the electric field
+- [00:58:21,020 - 00:58:23,020] alright let's see whether we can build ourselves
+- [00:58:23,020 - 00:58:25,020] an electric wave
+- [00:58:25,020 - 00:58:27,020] an electromagnetic wave
+- [00:58:28,020 - 00:58:30,020] this equation
+- [00:58:30,020 - 00:58:32,020] has solutions
+- [00:58:32,020 - 00:58:34,020] of the form
+- [00:58:34,020 - 00:58:36,020] for example
+- [00:58:36,020 - 00:58:37,020] e
+- [00:58:37,020 - 00:58:40,020] is equal to cosine
+- [00:58:40,020 - 00:58:41,020] of
+- [00:58:41,020 - 00:58:43,020] let's just take a simple example
+- [00:58:43,020 - 00:58:45,020] z minus t
+- [00:58:45,020 - 00:58:47,020] this would be a wave
+- [00:58:47,020 - 00:58:48,020] moving down
+- [00:58:48,020 - 00:58:50,020] the axis
+- [00:58:50,020 - 00:58:52,020] it's a wave equation
+- [00:58:52,020 - 00:58:53,020] it has a solution
+- [00:58:53,020 - 00:58:56,020] which is a wave moving down the z axis
+- [00:58:56,020 - 00:58:58,020] alright that's what this cos is
+- [00:58:58,020 - 00:58:59,020] z minus t is
+- [00:58:59,020 - 00:59:01,020] I could put a constant k
+- [00:59:01,020 - 00:59:02,020] but let's leave it out
+- [00:59:02,020 - 00:59:04,020] it only complicates things
+- [00:59:04,020 - 00:59:06,020] alright
+- [00:59:07,020 - 00:59:08,020] this would be a wave
+- [00:59:08,020 - 00:59:10,020] whose electric field
+- [00:59:10,020 - 00:59:11,020] is pointed along the x axis
+- [00:59:11,020 - 00:59:13,020] let's draw some coordinates
+- [00:59:13,020 - 00:59:15,020] here's z
+- [00:59:15,020 - 00:59:17,020] here's x
+- [00:59:17,020 - 00:59:20,020] and here's y sticking out of the blackboard
+- [00:59:20,020 - 00:59:21,020] this is a wave
+- [00:59:21,020 - 00:59:24,020] moving down the z axis
+- [00:59:24,020 - 00:59:26,020] its electric field
+- [00:59:26,020 - 00:59:28,020] is along the x axis
+- [00:59:28,020 - 00:59:29,020] for simplicity
+- [00:59:29,020 - 00:59:31,020] let's take it not to have it
+- [00:59:31,020 - 00:59:34,020] but to have any component along the y axis
+- [00:59:34,020 - 00:59:37,020] and it looks like a cosine
+- [00:59:37,020 - 00:59:40,020] so it's an electric field
+- [00:59:40,020 - 00:59:41,020] points up
+- [00:59:41,020 - 00:59:42,020] points down
+- [00:59:42,020 - 00:59:43,020] points up
+- [00:59:43,020 - 00:59:45,020] points down
+- [00:59:47,020 - 00:59:48,020] and it propagates
+- [00:59:48,020 - 00:59:51,020] needless to say with the speed of light
+- [00:59:51,020 - 00:59:52,020] why the speed of light?
+- [00:59:52,020 - 00:59:53,520] we've worked in units in which
+- [00:59:53,520 - 00:59:55,020] the speed of light is one
+- [00:59:55,020 - 00:59:57,020] and this is just a
+- [00:59:57,020 - 00:59:59,020] wave moving down the z axis
+- [00:59:59,020 - 01:00:01,020] with unit velocity
+- [01:00:01,020 - 01:00:03,020] z proportional to t
+- [01:00:03,020 - 01:00:05,020] the whole thing just makes
+- [01:00:05,020 - 01:00:07,020] an excursion down the z axis
+- [01:00:07,020 - 01:00:09,020] without changing shape
+- [01:00:09,020 - 01:00:10,020] alright
+- [01:00:10,020 - 01:00:12,020] that's the electric field
+- [01:00:12,020 - 01:00:14,020] and I've chosen it arbitrarily
+- [01:00:14,020 - 01:00:16,020] to point in the x direction
+- [01:00:16,020 - 01:00:17,020] incidentally
+- [01:00:17,020 - 01:00:20,020] a wave, an electromagnetic wave
+- [01:00:20,020 - 01:00:24,020] where the electric field points along the x direction
+- [01:00:24,020 - 01:00:26,020] is called a polarized wave
+- [01:00:26,020 - 01:00:28,020] polarized along the x axis
+- [01:00:28,020 - 01:00:30,020] this is polarized light
+- [01:00:30,020 - 01:00:35,020] polarized light polarized along the x axis
+- [01:00:35,020 - 01:00:38,020] what about the magnetic field?
+- [01:00:38,020 - 01:00:40,020] can the magnetic field be any
+- [01:00:40,020 - 01:00:42,020] oh, wait, before we do that
+- [01:00:42,020 - 01:00:44,020] let's do
+- [01:00:44,020 - 01:00:47,020] we've decided arbitrarily somewhat
+- [01:00:47,020 - 01:00:50,020] to set the y component equal to zero
+- [01:00:50,020 - 01:00:51,020] let's just do that
+- [01:00:51,020 - 01:00:54,020] we could have put a y component in also
+- [01:00:54,020 - 01:00:56,020] but I decided just to keep it simple
+- [01:00:56,020 - 01:00:59,020] what about the z component of the
+- [01:01:00,020 - 01:01:04,020] of the electric field?
+- [01:01:04,020 - 01:01:05,520] let me prove to you
+- [01:01:05,520 - 01:01:07,020] that that has to be zero
+- [01:01:07,020 - 01:01:10,020] it has to be zero because
+- [01:01:10,020 - 01:01:12,020] del dot e is equal to zero
+- [01:01:12,020 - 01:01:14,020] what is del dot e?
+- [01:01:14,020 - 01:01:16,520] it's the derivative of the
+- [01:01:16,520 - 01:01:19,020] x component with respect to x
+- [01:01:19,020 - 01:01:22,020] but the x component doesn't depend on x
+- [01:01:22,020 - 01:01:24,020] plus the derivative of the
+- [01:01:24,020 - 01:01:26,020] y component with respect to y
+- [01:01:26,020 - 01:01:29,020] also doesn't depend on y
+- [01:01:29,020 - 01:01:31,020] plus the derivative of the
+- [01:01:31,020 - 01:01:33,020] z component with respect to z
+- [01:01:33,020 - 01:01:36,020] these two terms in the
+- [01:01:36,020 - 01:01:39,020] divergence of the electric field vanish
+- [01:01:39,020 - 01:01:41,020] so must this one
+- [01:01:41,020 - 01:01:44,020] so what that says is that the derivative of
+- [01:01:44,020 - 01:01:47,020] ez with respect to z must be equal to zero
+- [01:01:47,020 - 01:01:51,020] in other words, the z component of the magnetic field
+- [01:01:51,020 - 01:01:52,520] of the electric field cannot
+- [01:01:52,520 - 01:01:54,020] vary as you move along here
+- [01:01:54,020 - 01:01:56,020] it must be constant
+- [01:01:56,020 - 01:01:57,020] constant
+- [01:01:57,020 - 01:02:00,020] could be a constant electric field
+- [01:02:00,020 - 01:02:01,020] let's just throw it away
+- [01:02:01,020 - 01:02:04,020] a constant electric field is not very interesting
+- [01:02:04,020 - 01:02:07,020] it's certainly not part of a wave motion
+- [01:02:07,020 - 01:02:09,520] we could get rid of it
+- [01:02:09,520 - 01:02:12,020] by putting it between capacitor plates
+- [01:02:12,020 - 01:02:15,020] and canceling the uniform electric field
+- [01:02:15,020 - 01:02:18,020] the point is that the wave part of the field
+- [01:02:18,020 - 01:02:19,520] the part that varies as
+- [01:02:19,520 - 01:02:21,020] you go down the z axis
+- [01:02:21,020 - 01:02:23,020] must not be there for the z component
+- [01:02:23,020 - 01:02:25,020] so only the x component
+- [01:02:25,020 - 01:02:27,020] of the electric field is there
+- [01:02:27,020 - 01:02:28,520] the y component and the
+- [01:02:28,520 - 01:02:30,020] z component are just not there
+- [01:02:30,020 - 01:02:32,020] zero
+- [01:02:32,020 - 01:02:35,020] what does that mean about the magnetic field?
+- [01:02:35,020 - 01:02:43,020] well, we can use this equation over here
+- [01:02:43,020 - 01:02:48,020] to tell us something about the magnetic field
+- [01:02:48,020 - 01:02:51,020] first of all, what about
+- [01:02:51,020 - 01:02:54,020] the curl of the electric field?
+- [01:02:54,020 - 01:02:57,020] the curl of the electric field
+- [01:02:57,020 - 01:03:02,020] what components does the curl of the electric field have?
+- [01:03:02,020 - 01:03:06,020] well, the only components that it can have
+- [01:03:06,020 - 01:03:08,020] would have to come from something like
+- [01:03:08,020 - 01:03:13,020] dx by dz
+- [01:03:15,020 - 01:03:17,020] that's the kind of thing that appears
+- [01:03:17,020 - 01:03:19,020] in the curl of the electric field
+- [01:03:19,020 - 01:03:24,020] well, you would also have minus dz by dx
+- [01:03:24,020 - 01:03:27,020] this would be the y component of the curl
+- [01:03:27,020 - 01:03:31,020] but the z component isn't there
+- [01:03:31,020 - 01:03:33,020] we've already established that
+- [01:03:33,020 - 01:03:35,020] so that's not there
+- [01:03:35,020 - 01:03:38,020] so for example, this would be the y component
+- [01:03:38,020 - 01:03:41,020] of the curl of the electric field
+- [01:03:41,020 - 01:03:42,020] it's there
+- [01:03:42,020 - 01:03:45,020] if you differentiate ex with respect to z
+- [01:03:45,020 - 01:03:47,020] you'll get an answer
+- [01:03:47,020 - 01:03:49,020] you will get an answer
+- [01:03:49,020 - 01:03:51,520] so there is a y
+- [01:03:51,520 - 01:03:54,020] component to the curl of e
+- [01:03:54,020 - 01:03:56,020] and that's all
+- [01:03:56,020 - 01:04:00,020] there is no other component to the curl of e
+- [01:04:00,020 - 01:04:02,020] except for the y component
+- [01:04:02,020 - 01:04:04,020] we could look for some other component
+- [01:04:04,020 - 01:04:06,020] let's look for the z component
+- [01:04:06,020 - 01:04:15,020] that would be dx by y minus dy by x
+- [01:04:15,020 - 01:04:17,020] well, ex doesn't depend on y
+- [01:04:17,020 - 01:04:20,020] and ey is zero altogether
+- [01:04:20,020 - 01:04:21,020] there's no other component
+- [01:04:21,020 - 01:04:25,020] so the only component of the curl of e
+- [01:04:26,020 - 01:04:29,020] is along the y-axis
+- [01:04:29,020 - 01:04:34,020] the electric field is along the x-axis
+- [01:04:34,020 - 01:04:37,020] is the z-axis
+- [01:04:37,020 - 01:04:40,020] and the magnetic field is along the y-axis
+- [01:04:40,020 - 01:04:43,020] why is the magnetic field along the y-axis?
+- [01:04:43,020 - 01:04:47,020] because its time derivative is along the y-axis
+- [01:04:47,020 - 01:04:51,020] if the time derivative is along the y-axis
+- [01:04:51,020 - 01:04:54,020] the field itself must be along the y-axis
+- [01:04:54,020 - 01:04:56,020] right, here
+- [01:04:56,020 - 01:05:01,520] So we see then that the magnetic field,
+- [01:05:01,520 - 01:05:07,020] let's draw the magnetic field in green, lies perpendicular
+- [01:05:07,020 - 01:05:12,520] Let's see if we can draw it.
+- [01:05:12,520 - 01:05:18,020] Here's the magnetic field. Here's the electric field.
+- [01:05:18,020 - 01:05:23,020] Electric and magnetic field are perpendicular to each other
+- [01:05:23,020 - 01:05:28,020] and they're also perpendicular to the motion of the wave
+- [01:05:28,020 - 01:05:33,020] That's what follows from these equations. The whole set of equations
+- [01:05:33,020 - 01:05:38,020] has wave-like solutions with the electric and magnetic field both oscillating
+- [01:05:38,020 - 01:05:42,020] They're both going up and down, except the magnetic field is going
+- [01:05:42,020 - 01:05:46,020] left and right, and the whole thing is proceeding down the z-axis
+- [01:05:46,020 - 01:05:48,020] That's the nature of electromagnetic field
+- [01:05:48,020 - 01:05:53,020] So we have electromagnetic waves. Electric and magnetic fields perpendicular to the direction
+- [01:05:53,020 - 01:05:58,020] of motion, all moving uniformly down the axis with the speed of light
+- [01:05:58,020 - 01:06:04,520] What's more, you can be sure that if you were to take this electromagnetic wave
+- [01:06:04,520 - 01:06:11,020] and look at it from another frame of reference, it would have exactly the same properties
+- [01:06:11,020 - 01:06:13,520] Why? Because the Maxwell equations are
+- [01:06:13,520 - 01:06:16,020] the same in every reference frame
+- [01:06:16,020 - 01:06:16,520] So the properties of electromagnetic field
+- [01:06:16,520 - 01:06:17,020] are the same in every reference frame
+- [01:06:17,020 - 01:06:17,520] So the properties of electromagnetic field
+- [01:06:17,520 - 01:06:18,020] are the same in every reference frame
+- [01:06:18,020 - 01:06:18,520] So the properties of electromagnetic field
+- [01:06:18,520 - 01:06:19,020] are the same in every reference frame
+- [01:06:19,020 - 01:06:20,020] So the properties of electromagnetic field
+- [01:06:20,020 - 01:06:21,020] are the same in every reference frame
+- [01:06:21,020 - 01:06:25,020] And they'll always have this property of moving with the speed of
+- [01:06:25,020 - 01:06:29,020] light and having electric, crossed electric and magnetic fields perpendicular to each other
+- [01:06:29,020 - 01:06:32,020] And to the direction of motion
+- [01:06:32,020 - 01:06:35,020] That's the character of light
+- [01:06:35,020 - 01:06:38,020] and all other electromagnetic radiation
+- [01:06:38,020 - 01:06:45,020] Alright, now let's put back the things we took out
+- [01:06:45,020 - 01:06:46,020] Namely, let's ask the question, what
+- [01:06:46,020 - 01:06:47,020] is the relationship between the two?
+- [01:06:47,020 - 01:06:50,020] Let's ask what happens when we
+- [01:06:50,020 - 01:06:53,020] have charges and currents in Maxwell's equations
+- [01:06:53,020 - 01:06:55,020] How do we describe it?
+- [01:06:55,020 - 01:06:59,020] How do we describe it and what does it do?
+- [01:06:59,020 - 01:07:02,020] Most important, is it Lorentz invariant? In other
+- [01:07:02,020 - 01:07:05,020] words, is it the same in every reference frame?
+- [01:07:05,020 - 01:07:08,520] That is our major goal, to show that the
+- [01:07:08,520 - 01:07:12,020] laws of electromagnetism are the same in every reference frame
+- [01:07:12,020 - 01:07:14,020] So what do we have to do?
+- [01:07:14,020 - 01:07:16,020] I'll just remind you
+- [01:07:16,020 - 01:07:20,020] That the two Maxwell equations on the right hand side
+- [01:07:20,020 - 01:07:22,020] Strictly speaking, the four Maxwell
+- [01:07:22,020 - 01:07:24,020] equations on the right hand side
+- [01:07:24,020 - 01:07:25,020] Get modified
+- [01:07:25,020 - 01:07:30,020] They get modified by putting a charge density
+- [01:07:30,020 - 01:07:32,020] And I will explain what that means
+- [01:07:32,020 - 01:07:34,020] on the right hand side over here
+- [01:07:34,020 - 01:07:38,020] Plus a current density
+- [01:07:38,020 - 01:07:42,020] The current is the current of electric charge
+- [01:07:42,020 - 01:07:44,020] So let me explain what those things mean
+- [01:07:44,020 - 01:07:45,020] The charge density is the current of electric charge
+- [01:07:45,020 - 01:07:47,020] The charge density, which is called rho
+- [01:07:47,020 - 01:07:49,020] This is the symbol rho
+- [01:07:49,020 - 01:07:52,020] I don't know why charge density has
+- [01:07:52,020 - 01:07:55,020] always had the symbol rho associated with it
+- [01:07:55,020 - 01:07:58,020] Nor do I know why the current
+- [01:07:58,020 - 01:08:01,020] has the symbol j associated with it
+- [01:08:01,020 - 01:08:03,020] But it goes way back
+- [01:08:03,020 - 01:08:08,020] I think it goes back to Faraday
+- [01:08:08,020 - 01:08:12,020] But if not, it goes back further than me anyway
+- [01:08:12,020 - 01:08:12,520] Rho, the charge density, is the
+- [01:08:12,520 - 01:08:13,020] charge density of electric charge density
+- [01:08:13,020 - 01:08:17,020] Rho, the charge density, is defined in the following way
+- [01:08:17,020 - 01:08:20,020] Imagine you have lots and lots and lots of electrons
+- [01:08:20,020 - 01:08:23,020] And they could be other kinds of charged particles
+- [01:08:23,020 - 01:08:27,020] Protons, even some neutral particles, it doesn't matter
+- [01:08:27,020 - 01:08:31,020] But that space is filled with a lot of particles
+- [01:08:31,020 - 01:08:36,020] So many of them, charges of different kinds
+- [01:08:36,020 - 01:08:39,020] That you're tempted to think of
+- [01:08:39,020 - 01:08:42,020] it as a continuous distribution of charge
+- [01:08:43,020 - 01:08:46,020] Just like water is a bunch of molecules
+- [01:08:46,020 - 01:08:49,020] But when you look at water in a coarse-grained way
+- [01:08:49,020 - 01:08:51,020] You think about water as being
+- [01:08:51,020 - 01:08:53,020] a nice continuous distribution of stuff
+- [01:08:53,020 - 01:08:54,020] Okay
+- [01:08:54,020 - 01:08:57,020] Now, you take a little volume of space
+- [01:08:59,020 - 01:09:02,020] A little volume of space, let's call it volume V
+- [01:09:02,020 - 01:09:04,020] Make it a small volume
+- [01:09:04,020 - 01:09:05,520] We're going to think calculus,
+- [01:09:05,520 - 01:09:07,020] we're going to think differentially
+- [01:09:07,020 - 01:09:09,020] A small volume of space
+- [01:09:09,020 - 01:09:11,020] Let's call it dV
+- [01:09:11,020 - 01:09:13,020] And take the charge density
+- [01:09:13,020 - 01:09:16,020] And the charge in that small volume of space
+- [01:09:16,020 - 01:09:18,020] If the volume of the space is very
+- [01:09:18,020 - 01:09:20,020] small and shrunk to smaller and smaller dimensions
+- [01:09:20,020 - 01:09:22,020] Of course the charge will also
+- [01:09:22,020 - 01:09:24,020] shrink to smaller and smaller dimensions
+- [01:09:24,020 - 01:09:25,520] But the ratio, let's call
+- [01:09:25,520 - 01:09:27,020] the amount of charge in there
+- [01:09:27,020 - 01:09:31,020] Let's call it dQ
+- [01:09:31,020 - 01:09:34,020] A small charge in a small volume
+- [01:09:34,020 - 01:09:37,020] And the ratio of the amount of
+- [01:09:37,020 - 01:09:40,020] charge per unit volume is called the density
+- [01:09:40,020 - 01:09:41,020] Okay
+- [01:09:41,020 - 01:09:45,020] So it's the charge per unit volume
+- [01:09:45,020 - 01:09:49,020] Except that each point of space evaluated separately
+- [01:09:49,020 - 01:09:51,020] So it could vary from place to place
+- [01:09:51,020 - 01:09:54,020] You can have regions with heavy charge density
+- [01:09:54,020 - 01:09:56,020] Regions with light charge density
+- [01:09:56,020 - 01:10:01,020] And in calculating this, you add up the plus charges
+- [01:10:01,020 - 01:10:03,020] You subtract off the minus charges
+- [01:10:03,020 - 01:10:05,020] All the obvious things
+- [01:10:05,020 - 01:10:08,020] Add the protons, subtract the electrons
+- [01:10:08,020 - 01:10:09,020] And get a net charge
+- [01:10:09,020 - 01:10:10,020] density of the volume of space
+- [01:10:10,020 - 01:10:13,020] And that charge density is itself a function of position
+- [01:10:13,020 - 01:10:15,020] But it could also depend on time
+- [01:10:15,020 - 01:10:17,020] How could it depend on time?
+- [01:10:17,020 - 01:10:18,520] Well, for example, charges could
+- [01:10:18,520 - 01:10:20,020] move from one place to another
+- [01:10:20,020 - 01:10:23,020] This whole pile of charge could move over to here
+- [01:10:23,020 - 01:10:26,020] In which case if we stood at a particular point
+- [01:10:26,020 - 01:10:28,020] The charge density would change
+- [01:10:28,020 - 01:10:31,020] It would change from something to nothing
+- [01:10:31,020 - 01:10:35,020] So the charge density also depends on the time
+- [01:10:35,020 - 01:10:38,020] So the charge density also depends on the time
+- [01:10:38,020 - 01:10:42,020] Now it can't depend in any old way
+- [01:10:42,020 - 01:10:44,020] There is a rule in nature
+- [01:10:44,020 - 01:10:46,020] And it's called the conservation of charge
+- [01:10:46,020 - 01:10:48,520] The total amount of charge
+- [01:10:48,520 - 01:10:51,020] in the world must not change
+- [01:10:51,020 - 01:10:53,520] So how much, what is the total
+- [01:10:53,520 - 01:10:56,020] amount of charge in the whole world?
+- [01:10:56,020 - 01:10:59,020] You add up all of the
+- [01:10:59,020 - 01:11:02,020] charges in each little cell of space
+- [01:11:02,020 - 01:11:05,020] So the total amount of charge in the whole world
+- [01:11:05,020 - 01:11:07,020] Is the total amount of charge in the whole world
+- [01:11:08,020 - 01:11:11,020] You add it all up and that becomes an integral
+- [01:11:11,020 - 01:11:14,020] The total charge, let's call it capital Q
+- [01:11:14,020 - 01:11:18,020] Total charge in the world is the integral
+- [01:11:18,020 - 01:11:22,020] Over all the volume of space
+- [01:11:22,020 - 01:11:25,020] Of the charge density
+- [01:11:29,020 - 01:11:31,020] Little dv here, that just means
+- [01:11:31,020 - 01:11:33,020] you add up all of the cells
+- [01:11:33,020 - 01:11:36,020] In each cell there's a charge
+- [01:11:36,020 - 01:11:38,020] Which is equal to dq
+- [01:11:38,020 - 01:11:42,020] Which is rho times dv
+- [01:11:42,020 - 01:11:45,020] So you add up all the rho times dv
+- [01:11:45,020 - 01:11:46,520] That's what an integral is, it
+- [01:11:46,520 - 01:11:48,020] just means add them all up
+- [01:11:48,020 - 01:11:50,020] And that gives you the total charge
+- [01:11:50,020 - 01:11:52,020] In this case in the whole world
+- [01:11:52,020 - 01:11:54,020] We could also for example just talk
+- [01:11:54,020 - 01:11:56,020] about the charge in a region of space
+- [01:11:56,020 - 01:11:59,020] We could pick a particular region of space
+- [01:11:59,020 - 01:12:01,020] With well defined boundaries
+- [01:12:01,020 - 01:12:03,020] This room
+- [01:12:03,020 - 01:12:06,020] Or some other particular region of space
+- [01:12:06,020 - 01:12:08,020] And talk about the charge in that
+- [01:12:08,020 - 01:12:10,020] In that region
+- [01:12:10,020 - 01:12:13,020] In which case this integral wouldn't go over all space
+- [01:12:13,020 - 01:12:15,020] It would just go over the selected region
+- [01:12:15,020 - 01:12:18,020] In this case for example the room
+- [01:12:18,020 - 01:12:21,020] And that would be the charge inside the room
+- [01:12:21,020 - 01:12:26,020] Now charge is not allowed to just change some place
+- [01:12:26,020 - 01:12:29,020] And reappear some place else
+- [01:12:29,020 - 01:12:32,020] It's not allowed according to the laws of physics
+- [01:12:32,020 - 01:12:33,520] For reasons that will become more
+- [01:12:33,520 - 01:12:35,020] or less clear in a second
+- [01:12:35,020 - 01:12:38,020] To suddenly disappear over here
+- [01:12:38,020 - 01:12:39,020] And reappear over here
+- [01:12:39,020 - 01:12:41,020] Well let's go back a step
+- [01:12:41,020 - 01:12:42,020] First of all
+- [01:12:42,020 - 01:12:45,020] The rule of nature
+- [01:12:45,020 - 01:12:47,020] And it's an empirical law of nature
+- [01:12:47,020 - 01:12:50,020] The empirical law of nature is
+- [01:12:50,020 - 01:12:52,020] That the total amount of
+- [01:12:52,020 - 01:12:54,020] charge in the universe never changes
+- [01:12:54,020 - 01:12:58,020] That's called conservation of electric charge
+- [01:12:58,020 - 01:13:01,020] But the rule is stronger than that
+- [01:13:01,020 - 01:13:04,020] For example you could have a situation
+- [01:13:04,020 - 01:13:07,020] Where charge on the earth disappears
+- [01:13:07,020 - 01:13:11,020] And instantly with nothing happening in between
+- [01:13:11,020 - 01:13:14,020] The same charge appears on Mars
+- [01:13:14,020 - 01:13:17,020] That would satisfy the rules of the conservation of charge
+- [01:13:17,020 - 01:13:19,020] That the amount of charge doesn't change
+- [01:13:19,020 - 01:13:23,020] What was lost on earth reappeared on Mars
+- [01:13:23,020 - 01:13:26,020] And the conservation of charge does not tell you
+- [01:13:26,020 - 01:13:28,020] That something has to happen in between
+- [01:13:28,020 - 01:13:30,020] But that's forbidden
+- [01:13:30,020 - 01:13:32,020] That's not the way charges change
+- [01:13:32,020 - 01:13:34,020] And that's not the way charges move
+- [01:13:34,020 - 01:13:36,020] They can't disappear over here
+- [01:13:36,020 - 01:13:38,020] And reappear over here
+- [01:13:38,020 - 01:13:42,020] Unless there's a flow of charge in between
+- [01:13:42,020 - 01:13:43,020] In other words
+- [01:13:43,020 - 01:13:45,020] If charge disappears over here
+- [01:13:45,020 - 01:13:47,020] And reappears over here
+- [01:13:47,020 - 01:13:49,520] Somebody in between had better be
+- [01:13:49,520 - 01:13:52,020] seeing a current flow between them
+- [01:13:52,020 - 01:13:55,020] How do we express this idea
+- [01:13:55,020 - 01:13:59,020] That charges don't just appear and disappear
+- [01:13:59,020 - 01:14:01,020] And in fact they don't
+- [01:14:01,020 - 01:14:04,020] They don't move from one place to another
+- [01:14:04,020 - 01:14:06,020] Except by virtue
+- [01:14:06,020 - 01:14:08,020] Of a current of electric charge
+- [01:14:08,020 - 01:14:10,020] Flowing from one place to another
+- [01:14:10,020 - 01:14:12,020] So for that
+- [01:14:12,020 - 01:14:15,020] We have to invent the idea of a current
+- [01:14:15,020 - 01:14:18,020] So let me explain what a current is
+- [01:14:18,020 - 01:14:20,020] It's a simple idea
+- [01:14:20,020 - 01:14:24,020] Let's put this upstairs
+- [01:14:24,020 - 01:14:27,020] And bring this downstairs
+- [01:14:32,020 - 01:14:34,020] Let's take a little area in space
+- [01:14:34,020 - 01:14:36,020] There's a little area in space
+- [01:14:36,020 - 01:14:45,020] I'm going to redraw it
+- [01:14:45,020 - 01:14:47,020] A little area, a small area
+- [01:14:47,020 - 01:14:50,020] An infinitesimally small area
+- [01:14:50,020 - 01:14:54,020] It's normally called d sigma
+- [01:14:54,020 - 01:14:58,020] D indicating that it's small, differential
+- [01:14:58,020 - 01:15:02,020] And sigma standing for surface area
+- [01:15:02,020 - 01:15:04,020] So the amount of surface area is called d sigma
+- [01:15:04,020 - 01:15:06,020] But when people write d sigma
+- [01:15:06,020 - 01:15:08,020] They mean something a little more
+- [01:15:08,020 - 01:15:10,020] They mean a vector
+- [01:15:10,020 - 01:15:13,020] Now how the hell can an area be a vector
+- [01:15:13,020 - 01:15:16,020] Well what you do is you take that area
+- [01:15:16,020 - 01:15:18,020] And you assign to it
+- [01:15:18,020 - 01:15:22,020] A vector perpendicular to the area
+- [01:15:22,020 - 01:15:24,020] To the area element
+- [01:15:24,020 - 01:15:27,020] We'll decide in a few minutes which direction
+- [01:15:27,020 - 01:15:28,020] Do I do it to the
+- [01:15:28,020 - 01:15:29,020] left or do it to the right
+- [01:15:29,020 - 01:15:31,020] But for the moment
+- [01:15:31,020 - 01:15:33,020] Just imagine assigning
+- [01:15:33,020 - 01:15:36,020] To every little element of area
+- [01:15:36,020 - 01:15:40,020] A vector whose length, whose magnitude
+- [01:15:40,020 - 01:15:42,020] Is the little area
+- [01:15:42,020 - 01:15:43,520] And whose direction is perpendicular
+- [01:15:43,520 - 01:15:45,020] to the direction of area
+- [01:15:45,020 - 01:15:48,020] That's called the surface element vector
+- [01:15:48,020 - 01:15:51,020] The surface element vector d sigma
+- [01:15:51,020 - 01:15:53,020] I could put a little vector symbol above it
+- [01:15:53,020 - 01:15:55,020] But we don't need it
+- [01:15:55,020 - 01:15:57,020] Just d sigma
+- [01:15:57,020 - 01:16:01,020] Now we can ask how much charge
+- [01:16:01,020 - 01:16:03,020] Flows through that area
+- [01:16:03,020 - 01:16:06,020] In a unit of time
+- [01:16:06,020 - 01:16:10,020] How much charge flows through that area
+- [01:16:10,020 - 01:16:11,020] Per unit time
+- [01:16:11,020 - 01:16:12,020] Or better yet
+- [01:16:12,020 - 01:16:14,020] We can ask how much charge
+- [01:16:14,020 - 01:16:16,020] Per time per unit area
+- [01:16:16,020 - 01:16:18,020] Flows through there
+- [01:16:18,020 - 01:16:20,020] The charge flowing through there
+- [01:16:20,020 - 01:16:22,020] Will certainly be proportional to the area
+- [01:16:22,020 - 01:16:24,020] If the area is tiny
+- [01:16:24,020 - 01:16:25,020] A small amount of charge will
+- [01:16:25,020 - 01:16:26,020] be able to flow through it
+- [01:16:26,020 - 01:16:28,020] For a given situation
+- [01:16:28,020 - 01:16:30,020] If the area is made large
+- [01:16:30,020 - 01:16:32,020] A larger amount of charge can be flowing through it
+- [01:16:32,020 - 01:16:34,020] The charge per unit area
+- [01:16:34,020 - 01:16:36,020] Per unit
+- [01:16:36,020 - 01:16:38,020] Per unit
+- [01:16:38,020 - 01:16:40,020] Time
+- [01:16:40,020 - 01:16:42,020] Charge per unit area
+- [01:16:42,020 - 01:16:44,020] Let's write the words
+- [01:16:44,020 - 01:16:46,020] Charge
+- [01:16:46,020 - 01:16:48,020] Per unit
+- [01:16:48,020 - 01:16:50,020] Area
+- [01:16:50,020 - 01:16:52,020] Per unit time
+- [01:16:52,020 - 01:16:54,020] Through a little surface element
+- [01:16:54,020 - 01:16:56,020] Is called
+- [01:16:56,020 - 01:16:58,020] The current
+- [01:16:58,020 - 01:17:00,020] The current
+- [01:17:00,020 - 01:17:01,020] Is called
+- [01:17:01,020 - 01:17:02,020] The current
+- [01:17:02,020 - 01:17:04,020] Now the current is a vector
+- [01:17:04,020 - 01:17:06,020] The current is a vector
+- [01:17:06,020 - 01:17:08,020] You can see why that should be so
+- [01:17:08,020 - 01:17:10,020] Current is kind of like
+- [01:17:10,020 - 01:17:12,020] Flow
+- [01:17:12,020 - 01:17:15,020] Think of it as a flow
+- [01:17:15,020 - 01:17:18,020] of all the electrons and protons
+- [01:17:18,020 - 01:17:20,020] Flowing through space
+- [01:17:20,020 - 01:17:22,020] At any point
+- [01:17:22,020 - 01:17:24,020] The flow has a direction
+- [01:17:24,020 - 01:17:28,020] Namely the direction that the charges are flowing in
+- [01:17:28,020 - 01:17:30,020] And it also has a magnitude
+- [01:17:30,020 - 01:17:32,020] And the magnitude is
+- [01:17:32,020 - 01:17:34,020] The charge per unit area
+- [01:17:34,020 - 01:17:35,020] Per unit
+- [01:17:35,020 - 01:17:36,020] Per unit time
+- [01:17:36,020 - 01:17:38,020] Flowing through that area
+- [01:17:38,020 - 01:17:41,020] That's the definition of the char- of the current
+- [01:17:41,020 - 01:17:44,020] And as I said it is a vector
+- [01:17:44,020 - 01:17:46,020] If I want to know
+- [01:17:46,020 - 01:17:48,020] The amount of charge per unit time
+- [01:17:48,020 - 01:17:51,020] Flowing through the surface element
+- [01:17:51,020 - 01:17:54,020] Then what I do is I take the dot product
+- [01:17:54,020 - 01:17:56,020] Of the surface element
+- [01:17:56,020 - 01:17:57,020] With
+- [01:17:57,020 - 01:17:58,020] The current
+- [01:17:58,020 - 01:17:59,020] Both of them being the current
+- [01:17:59,020 - 01:18:01,020] Both of them being vectors
+- [01:18:03,020 - 01:18:05,020] If for example
+- [01:18:05,020 - 01:18:07,020] The current is flowing
+- [01:18:07,020 - 01:18:10,020] Parallel to the surface
+- [01:18:10,020 - 01:18:14,020] That means the current is perpendicular to d sigma
+- [01:18:14,020 - 01:18:16,020] Then this product is zero
+- [01:18:16,020 - 01:18:18,020] So if the current flows
+- [01:18:18,020 - 01:18:21,020] If the current flows along the surface
+- [01:18:21,020 - 01:18:25,020] No current flows from one side to the other
+- [01:18:25,020 - 01:18:28,020] If the current is flowing perpendicular
+- [01:18:28,020 - 01:18:30,020] To the surface
+- [01:18:30,020 - 01:18:32,020] That means it's parallel to d sigma
+- [01:18:32,020 - 01:18:36,020] Then you get the full maximum brunt of the flow
+- [01:18:36,020 - 01:18:38,020] Through the surface element
+- [01:18:38,020 - 01:18:40,020] That's why it's the dot product
+- [01:18:40,020 - 01:18:42,520] The dot product measures the component of
+- [01:18:42,520 - 01:18:45,020] one vector in the direction of the other
+- [01:18:45,020 - 01:18:48,020] So this measures the component of the flow
+- [01:18:48,020 - 01:18:51,020] In the direction perpendicular to the surface element
+- [01:18:51,020 - 01:18:52,020] And it is
+- [01:18:52,020 - 01:18:55,020] Not the charge per unit area per unit time
+- [01:18:55,020 - 01:18:58,020] But just the charge per unit time
+- [01:18:58,020 - 01:19:00,020] This is the charge per unit time
+- [01:19:02,020 - 01:19:04,020] Charge
+- [01:19:04,020 - 01:19:06,020] Per unit time
+- [01:19:06,020 - 01:19:08,020] Through
+- [01:19:08,020 - 01:19:10,020] The surface element d sigma
+- [01:19:12,020 - 01:19:14,020] So now you have the idea
+- [01:19:14,020 - 01:19:16,020] Of the flow of charge
+- [01:19:16,020 - 01:19:18,020] And the
+- [01:19:18,020 - 01:19:20,020] Sometimes called the flux of charge
+- [01:19:20,020 - 01:19:22,020] Flow or flux of charge
+- [01:19:22,020 - 01:19:24,020] And current or electric current
+- [01:19:24,020 - 01:19:26,020] Are all the same thing
+- [01:19:26,020 - 01:19:27,020] Okay
+- [01:19:27,020 - 01:19:28,520] So we're not necessarily talking
+- [01:19:28,520 - 01:19:30,020] about a current through a wire
+- [01:19:30,020 - 01:19:33,020] A current through a wire is a special case
+- [01:19:33,020 - 01:19:35,020] And if we opened up the wire
+- [01:19:35,020 - 01:19:37,020] and made it a little bit big
+- [01:19:37,020 - 01:19:41,020] We could put little surface elements of area in there
+- [01:19:41,020 - 01:19:43,020] And see that the current through a wire
+- [01:19:43,020 - 01:19:47,020] Is made up out of exactly these kind of currents
+- [01:19:47,020 - 01:19:50,020] Fluxes of charge through the wire
+- [01:19:50,020 - 01:19:52,020] But that's a special case
+- [01:19:52,020 - 01:19:55,020] We can have currents flowing through space
+- [01:19:55,020 - 01:19:56,020] Space currents
+- [01:19:56,020 - 01:19:58,020] Or just currents flowing along sheets
+- [01:19:58,020 - 01:20:01,020] Or just currents flowing along three dimensional space
+- [01:20:01,020 - 01:20:04,020] And that's the definition of J
+- [01:20:04,020 - 01:20:10,020] Okay now let's concentrate on the following question
+- [01:20:10,020 - 01:20:13,020] Here we have a region of space
+- [01:20:13,020 - 01:20:16,020] It has some charge in it
+- [01:20:16,020 - 01:20:18,020] And the charge in it
+- [01:20:18,020 - 01:20:20,020] is the integral over the volume
+- [01:20:20,020 - 01:20:24,020] Of the charge density
+- [01:20:24,020 - 01:20:27,020] Okay
+- [01:20:27,020 - 01:20:30,020] If there are currents flowing
+- [01:20:30,020 - 01:20:32,020] There may be currents flowing
+- [01:20:32,020 - 01:20:34,020] into or out of the region
+- [01:20:34,020 - 01:20:37,020] Let's choose
+- [01:20:37,020 - 01:20:40,020] Let's choose to make up the boundary of the region
+- [01:20:40,020 - 01:20:43,020] Out of a whole bunch of little surface elements
+- [01:20:43,020 - 01:20:46,020] Alright so the boundary is made up
+- [01:20:46,020 - 01:20:48,020] I don't mean
+- [01:20:48,020 - 01:20:49,020] I mean the boundary
+- [01:20:49,020 - 01:20:51,020] If we thought of this as a balloon
+- [01:20:51,020 - 01:20:53,020] Then the rubber of the balloon
+- [01:20:53,020 - 01:20:54,020] Would make up
+- [01:20:54,020 - 01:20:56,020] Out of a lot of little surface elements here
+- [01:20:56,020 - 01:20:58,020] And now let's by definition
+- [01:20:58,020 - 01:21:02,020] Point their little d-sigmas out of the balloon
+- [01:21:05,020 - 01:21:08,020] Let's choose to make them out of the balloon
+- [01:21:10,020 - 01:21:14,020] Supposing there's a net current flowing out of the balloon
+- [01:21:14,020 - 01:21:18,020] What does that say about the charge inside the balloon?
+- [01:21:18,020 - 01:21:19,520] Incidentally I'm not imagining the
+- [01:21:19,520 - 01:21:21,020] balloon changing its size or anything
+- [01:21:21,020 - 01:21:23,020] It's just a fixed region of space
+- [01:21:23,020 - 01:21:26,020] If there's current flowing
+- [01:21:26,020 - 01:21:30,020] Net current flowing out of the surface
+- [01:21:30,020 - 01:21:33,020] Then the current on the inside must be changing
+- [01:21:33,020 - 01:21:38,020] The only way that the current can change
+- [01:21:38,020 - 01:21:40,020] The only way the charge can change on the inside
+- [01:21:40,020 - 01:21:43,020] The only way the charge can change on the inside
+- [01:21:43,020 - 01:21:46,020] It's by passing from the inside to the outside
+- [01:21:46,020 - 01:21:48,020] So if the charge is just changing
+- [01:21:48,020 - 01:21:50,020] If the charge on the inside is changing
+- [01:21:50,020 - 01:21:52,020] You can be certain that there must be
+- [01:21:52,020 - 01:21:53,790] that there must be a
+- [01:21:53,790 - 01:21:55,560] flow of current through the boundary
+- [01:21:55,560 - 01:21:58,780] and that tells you that there must be a J
+- [01:21:58,780 - 01:22:01,600] In fact we can write down a simple equation
+- [01:22:01,600 - 01:22:05,480] We can write down that the time rate of change
+- [01:22:05,480 - 01:22:09,780] of the charge inside this region
+- [01:22:09,780 - 01:22:12,600] dq by dt
+- [01:22:12,600 - 01:22:13,760] that's equal
+- [01:22:13,760 - 01:22:16,040] to the integral dv
+- [01:22:16,040 - 01:22:22,020] of d rho by dt
+- [01:22:22,020 - 01:22:24,020] The time rate of change
+- [01:22:24,020 - 01:22:27,260] of the electric charge inside this region
+- [01:22:27,260 - 01:22:30,760] must equal
+- [01:22:30,760 - 01:22:34,120] the current that's passing out through the boundary
+- [01:22:34,120 - 01:22:36,160] actually with the opposite sign
+- [01:22:36,160 - 01:22:38,140] If current is passing out through
+- [01:22:38,140 - 01:22:40,120] the boundary with a positive sign
+- [01:22:40,120 - 01:22:43,860] then the charge must be decreasing on the inside
+- [01:22:43,860 - 01:22:47,160] So it must have a minus sign in this formula
+- [01:22:47,160 - 01:22:49,580] And what's the total charge that passes
+- [01:22:49,580 - 01:22:52,000] out of this region per unit time
+- [01:22:52,020 - 01:22:54,340] The total charge passing out
+- [01:22:54,340 - 01:22:56,660] of the region per unit time
+- [01:22:56,660 - 01:22:58,660] is just the integral
+- [01:22:58,660 - 01:23:00,760] of the current
+- [01:23:00,760 - 01:23:03,840] dotted into the surface element
+- [01:23:03,840 - 01:23:08,120] We just add up all the currents passing through
+- [01:23:08,120 - 01:23:10,120] each one of these surface elements
+- [01:23:10,120 - 01:23:13,480] That's the integral here
+- [01:23:13,480 - 01:23:16,060] And this is a theorem now
+- [01:23:16,060 - 01:23:17,260] Or if you like
+- [01:23:17,260 - 01:23:19,200] perhaps it's a law of nature
+- [01:23:19,200 - 01:23:21,300] rather than a theorem
+- [01:23:21,300 - 01:23:22,020] that
+- [01:23:22,020 - 01:23:24,020] the time rate of change
+- [01:23:24,020 - 01:23:26,020] of the current on the inside
+- [01:23:26,020 - 01:23:29,020] is equal to the flux of charge
+- [01:23:29,020 - 01:23:32,020] passing out through the surface of the balloon
+- [01:23:32,020 - 01:23:35,020] And that's given by the integral of the current
+- [01:23:35,020 - 01:23:37,020] dotted into d sigma
+- [01:23:37,020 - 01:23:39,020] Okay
+- [01:23:39,020 - 01:23:40,020] Now we need a true theorem
+- [01:23:40,020 - 01:23:42,020] A mathematical theorem
+- [01:23:42,020 - 01:23:44,020] rather than a law of nature
+- [01:23:44,020 - 01:23:46,020] And the mathematical theorem
+- [01:23:46,020 - 01:23:48,020] which we won't prove
+- [01:23:48,020 - 01:23:50,020] It's called Gauss's law
+- [01:23:52,020 - 01:23:54,020] Sorry
+- [01:23:54,020 - 01:23:55,020] It is not called Gauss's law
+- [01:23:55,020 - 01:23:57,020] It is called Gauss's theorem
+- [01:23:57,020 - 01:23:59,020] Look up Gauss's theorem
+- [01:23:59,020 - 01:24:01,020] It's sometimes called the divergence theorem
+- [01:24:01,020 - 01:24:04,020] But I will tell you what it is
+- [01:24:04,020 - 01:24:06,020] It's a relationship
+- [01:24:06,020 - 01:24:08,020] between
+- [01:24:08,020 - 01:24:10,020] This is called a surface integral
+- [01:24:10,020 - 01:24:13,020] It's an integral of a vector quantity
+- [01:24:13,020 - 01:24:15,020] over a surface
+- [01:24:15,020 - 01:24:17,020] over a bounding surface
+- [01:24:17,020 - 01:24:19,020] It can be related
+- [01:24:19,020 - 01:24:20,020] to an integral
+- [01:24:20,020 - 01:24:22,020] over the interior
+- [01:24:22,020 - 01:24:24,020] And here's the theorem
+- [01:24:24,020 - 01:24:26,020] called Gauss's theorem
+- [01:24:26,020 - 01:24:32,020] Gauss's theorem
+- [01:24:32,020 - 01:24:34,020] It says
+- [01:24:34,020 - 01:24:37,020] that the integral
+- [01:24:37,020 - 01:24:41,020] of any vector
+- [01:24:41,020 - 01:24:47,020] integrated over the surface
+- [01:24:47,020 - 01:24:48,020] is equal
+- [01:24:48,020 - 01:24:50,020] Now this is an integral
+- [01:24:50,020 - 01:24:52,020] over the surface
+- [01:24:52,020 - 01:24:54,020] Let's call it surface
+- [01:24:54,020 - 01:24:57,020] is equal to an integral
+- [01:24:57,020 - 01:24:59,020] over the volume
+- [01:24:59,020 - 01:25:02,020] Now if I had my class here
+- [01:25:02,020 - 01:25:03,020] I would ask them
+- [01:25:03,020 - 01:25:04,020] what goes in there
+- [01:25:04,020 - 01:25:06,020] Anybody know?
+- [01:25:06,020 - 01:25:08,020] No, okay
+- [01:25:08,020 - 01:25:10,020] The divergence of the vector
+- [01:25:14,020 - 01:25:16,020] The divergence of the vector itself
+- [01:25:16,020 - 01:25:17,020] So it's a relationship
+- [01:25:17,020 - 01:25:20,020] between a surface integral of a vector
+- [01:25:20,020 - 01:25:21,020] and the integral
+- [01:25:21,020 - 01:25:23,020] over the volume
+- [01:25:23,020 - 01:25:29,020] of the divergence of the vector
+- [01:25:29,020 - 01:25:30,020] It's not obvious
+- [01:25:30,020 - 01:25:31,020] I'm not going to prove it
+- [01:25:31,020 - 01:25:33,020] It actually doesn't take
+- [01:25:33,020 - 01:25:35,020] very many lines to prove
+- [01:25:35,020 - 01:25:37,020] But let's assume it
+- [01:25:37,020 - 01:25:38,020] If we assume it
+- [01:25:38,020 - 01:25:39,020] then we can write
+- [01:25:39,020 - 01:25:42,020] the right hand side of this equation
+- [01:25:42,020 - 01:25:47,020] as an integral over the volume
+- [01:25:47,020 - 01:25:49,020] So it's an integral over the volume
+- [01:25:49,020 - 01:25:56,020] another integral over the volume
+- [01:25:56,020 - 01:25:59,020] of the divergence of the current
+- [01:25:59,020 - 01:26:04,020] It's the spreading out of the current
+- [01:26:04,020 - 01:26:06,020] The spreading out of the current
+- [01:26:06,020 - 01:26:07,020] You know what it's like
+- [01:26:07,020 - 01:26:08,020] It's almost like this
+- [01:26:08,020 - 01:26:09,020] I'll give you a picture
+- [01:26:09,020 - 01:26:11,020] of what the divergence of a vector is
+- [01:26:11,020 - 01:26:14,020] If you thought of the vector
+- [01:26:14,020 - 01:26:17,020] as the flow vector of some water
+- [01:26:17,020 - 01:26:18,020] Perhaps
+- [01:26:18,020 - 01:26:21,020] a flow vector of some water
+- [01:26:21,020 - 01:26:23,020] And supposing some water
+- [01:26:23,020 - 01:26:25,020] was being pumped in
+- [01:26:25,020 - 01:26:27,020] at each point of space
+- [01:26:27,020 - 01:26:29,020] Some hidden little pipes
+- [01:26:29,020 - 01:26:30,020] that you can't see
+- [01:26:30,020 - 01:26:32,020] are bringing water in from outside
+- [01:26:32,020 - 01:26:33,020] and dumping it in
+- [01:26:33,020 - 01:26:35,020] The pipes end
+- [01:26:35,020 - 01:26:37,020] in different places in space
+- [01:26:37,020 - 01:26:39,020] So the water is diverging out
+- [01:26:39,020 - 01:26:42,020] away from the tips of the pipes
+- [01:26:42,020 - 01:26:46,020] and going out and filling up space
+- [01:26:46,020 - 01:26:48,020] The divergence of the vector
+- [01:26:48,020 - 01:26:50,020] is the divergence of the water
+- [01:26:50,020 - 01:26:52,020] or the divergence of the flow of the water
+- [01:26:52,020 - 01:26:55,020] is basically just the water
+- [01:26:55,020 - 01:26:58,020] coming out of these individual pipes
+- [01:26:58,020 - 01:27:00,020] And what this theorem says
+- [01:27:00,020 - 01:27:02,020] is that the amount of water
+- [01:27:02,020 - 01:27:05,020] that's coming out of these little pipes
+- [01:27:05,020 - 01:27:06,020] that are ending at this point
+- [01:27:06,020 - 01:27:08,020] and flowing out
+- [01:27:08,020 - 01:27:10,020] Where's that water going to go?
+- [01:27:10,020 - 01:27:13,020] It has to go out of the surface
+- [01:27:13,020 - 01:27:15,020] It has to go out of the surface
+- [01:27:15,020 - 01:27:17,020] And that's this expression here
+- [01:27:17,020 - 01:27:21,020] The divergence, the integral over the boundary
+- [01:27:21,020 - 01:27:28,020] of the surface flow
+- [01:27:28,020 - 01:27:32,020] is also equal to the integral over the interior
+- [01:27:32,020 - 01:27:36,020] of the volume of the divergence of the vector
+- [01:27:36,020 - 01:27:38,020] So that's a general theorem about vectors
+- [01:27:38,020 - 01:27:41,020] It doesn't have anything particular to do with electricity
+- [01:27:41,020 - 01:27:43,020] It doesn't have anything particular to do
+- [01:27:43,020 - 01:27:45,020] with anything special
+- [01:27:45,020 - 01:27:46,020] other than
+- [01:27:46,020 - 01:27:50,020] mathematical properties of vectors
+- [01:27:50,020 - 01:27:53,020] Alright, so now we have a new theorem
+- [01:27:53,020 - 01:27:57,020] that the integral over any volume
+- [01:27:57,020 - 01:27:59,020] take any volume whatever
+- [01:27:59,020 - 01:28:02,020] the integral over any volume
+- [01:28:02,020 - 01:28:03,520] of the time rate of
+- [01:28:03,520 - 01:28:05,020] change of the density of charge
+- [01:28:05,020 - 01:28:07,020] is the integral over the volume
+- [01:28:07,020 - 01:28:11,020] of the divergence of the current
+- [01:28:11,020 - 01:28:14,020] If two integrals like this are equal
+- [01:28:14,020 - 01:28:16,020] but they're equal not only
+- [01:28:16,020 - 01:28:19,020] for some particular volume
+- [01:28:19,020 - 01:28:20,020] but they're true
+- [01:28:20,020 - 01:28:23,020] it's true for every volume that you can think of
+- [01:28:23,020 - 01:28:26,020] then there's only one way that that can be true
+- [01:28:26,020 - 01:28:29,020] If for any region that you can pick
+- [01:28:29,020 - 01:28:32,020] the integral over the volume of one thing
+- [01:28:32,020 - 01:28:33,520] is equal to the integral
+- [01:28:33,520 - 01:28:35,020] over the volume of another thing
+- [01:28:35,020 - 01:28:37,020] the only way that that can be true
+- [01:28:37,020 - 01:28:40,020] is for the things themselves to be equal
+- [01:28:42,020 - 01:28:44,020] That again is a mathematical theorem
+- [01:28:44,020 - 01:28:46,020] but it's more or less obvious
+- [01:28:46,020 - 01:28:49,020] that for any region
+- [01:28:49,020 - 01:28:50,520] the integral of one quantity is
+- [01:28:50,520 - 01:28:52,020] equal to the integral of another quantity
+- [01:28:52,020 - 01:28:54,020] the two quantities have to be equal
+- [01:28:54,020 - 01:28:57,020] and we come to an interesting conclusion
+- [01:28:57,020 - 01:29:01,020] about the connection between charge density and current
+- [01:29:01,020 - 01:29:06,020] It says that the derivative with respect to time
+- [01:29:06,020 - 01:29:08,020] of the charge density
+- [01:29:08,020 - 01:29:09,020] that's this
+- [01:29:09,020 - 01:29:10,020] plus
+- [01:29:10,020 - 01:29:13,020] I'm bringing everything over to the left hand side
+- [01:29:13,020 - 01:29:15,020] the divergence of the current
+- [01:29:15,020 - 01:29:17,020] let's write that out
+- [01:29:17,020 - 01:29:20,020] that's derivative with respect to x
+- [01:29:20,020 - 01:29:22,020] of j sub x
+- [01:29:22,020 - 01:29:24,020] plus derivative with respect to y
+- [01:29:24,020 - 01:29:26,020] of j sub y
+- [01:29:26,020 - 01:29:28,020] plus derivative with respect to z
+- [01:29:28,020 - 01:29:30,020] of j sub z
+- [01:29:30,020 - 01:29:32,020] equals zero
+- [01:29:36,020 - 01:29:38,020] Now if this is to be true
+- [01:29:38,020 - 01:29:39,020] in every frame of reference
+- [01:29:39,020 - 01:29:41,020] and I didn't specify anything particular
+- [01:29:41,020 - 01:29:43,020] about any particular frame of reference
+- [01:29:43,020 - 01:29:45,020] when I told you this little story
+- [01:29:45,020 - 01:29:48,020] if it's to be true in every frame of reference
+- [01:29:48,020 - 01:29:50,020] it better have the form
+- [01:29:50,020 - 01:29:53,020] of some invariant equation
+- [01:29:53,020 - 01:29:55,020] and it's not hard to imagine
+- [01:29:55,020 - 01:29:58,020] how you make an invariant equation out of this
+- [01:29:58,020 - 01:30:00,020] You first of all
+- [01:30:00,020 - 01:30:02,020] say
+- [01:30:02,020 - 01:30:04,020] that the current
+- [01:30:04,020 - 01:30:06,020] well, not first of all, you say
+- [01:30:06,020 - 01:30:08,020] that the current
+- [01:30:08,020 - 01:30:10,020] jx, jy, and jz
+- [01:30:10,020 - 01:30:12,020] together with rho
+- [01:30:12,020 - 01:30:13,020] four quantities
+- [01:30:13,020 - 01:30:14,020] rho
+- [01:30:14,020 - 01:30:15,020] jx
+- [01:30:15,020 - 01:30:17,020] let me put the x upstairs now
+- [01:30:17,020 - 01:30:18,020] jy
+- [01:30:18,020 - 01:30:20,020] jz
+- [01:30:20,020 - 01:30:23,020] form a four vector
+- [01:30:23,020 - 01:30:25,020] they form the four vector
+- [01:30:25,020 - 01:30:27,020] j mu
+- [01:30:27,020 - 01:30:30,020] where mu goes from time
+- [01:30:30,020 - 01:30:33,020] and the three components of space
+- [01:30:33,020 - 01:30:35,020] that is what
+- [01:30:35,020 - 01:30:37,020] is suggested
+- [01:30:37,020 - 01:30:39,020] by having these four components
+- [01:30:39,020 - 01:30:40,020] rho
+- [01:30:40,020 - 01:30:42,020] jx, jy, and jz
+- [01:30:42,020 - 01:30:43,020] and then
+- [01:30:43,020 - 01:30:45,020] this equation
+- [01:30:45,020 - 01:30:47,020] which is called the continuity equation
+- [01:30:47,020 - 01:30:49,020] it's called the continuity equation
+- [01:30:49,020 - 01:30:51,020] it takes the simple form
+- [01:30:51,020 - 01:30:54,020] that d mu j mu
+- [01:30:54,020 - 01:30:56,020] is equal to zero
+- [01:30:56,020 - 01:30:57,020] what does that say?
+- [01:30:57,020 - 01:30:59,020] it says derivative with respect to t
+- [01:30:59,020 - 01:31:01,020] of jt
+- [01:31:01,020 - 01:31:03,020] plus derivative with respect to x
+- [01:31:03,020 - 01:31:04,020] of jx
+- [01:31:04,020 - 01:31:05,020] blah blah blah
+- [01:31:05,020 - 01:31:06,020] is equal to zero
+- [01:31:06,020 - 01:31:08,020] which is exactly what this says
+- [01:31:08,020 - 01:31:10,020] so the way
+- [01:31:10,020 - 01:31:12,020] to make this continuity equation
+- [01:31:12,020 - 01:31:14,020] be a equation
+- [01:31:14,020 - 01:31:17,020] that's true in every frame of reference
+- [01:31:17,020 - 01:31:19,020] is to think of the four components
+- [01:31:19,020 - 01:31:22,020] of current and density
+- [01:31:22,020 - 01:31:24,020] as a four vector
+- [01:31:24,020 - 01:31:26,020] that's not too surprising
+- [01:31:26,020 - 01:31:28,020] the current
+- [01:31:28,020 - 01:31:30,020] kind of represents the velocity
+- [01:31:30,020 - 01:31:32,020] of the motion of the charges
+- [01:31:32,020 - 01:31:34,020] as we've seen over and over again
+- [01:31:34,020 - 01:31:36,020] the velocity vector
+- [01:31:36,020 - 01:31:38,020] is a four vector
+- [01:31:38,020 - 01:31:40,020] the velocity vector of an object
+- [01:31:40,020 - 01:31:42,020] the velocity vector of a particle
+- [01:31:42,020 - 01:31:44,020] the relativistic velocity vector of an object
+- [01:31:44,020 - 01:31:46,020] is a four vector
+- [01:31:46,020 - 01:31:48,020] and so it's not so surprising
+- [01:31:48,020 - 01:31:50,020] that the flow of a fluid
+- [01:31:50,020 - 01:31:52,020] should also be described by a four vector
+- [01:31:52,020 - 01:31:54,020] and the four vector is the four vector
+- [01:31:54,020 - 01:31:56,020] of current and density
+- [01:31:56,020 - 01:31:58,020] well
+- [01:31:58,020 - 01:32:00,020] okay, now we have a object
+- [01:32:00,020 - 01:32:02,020] the four vector
+- [01:32:02,020 - 01:32:04,020] of current and velocity
+- [01:32:04,020 - 01:32:06,020] that we can try to put into
+- [01:32:06,020 - 01:32:08,020] Maxwell's equations somehow
+- [01:32:08,020 - 01:32:10,020] let's go back to
+- [01:32:10,020 - 01:32:12,020] Maxwell's equations which seem to have
+- [01:32:12,020 - 01:32:14,020] disappeared off the blackboard
+- [01:32:14,020 - 01:32:16,020] so I guess, well let's see if they have
+- [01:32:16,020 - 01:32:18,020] maybe they're underneath here
+- [01:32:18,020 - 01:32:20,020] okay, so let's write Maxwell's equations again
+- [01:32:20,020 - 01:32:22,020] this time
+- [01:32:22,020 - 01:32:24,020] putting in the charges and currents
+- [01:32:32,020 - 01:32:34,020] okay, here they go
+- [01:32:34,020 - 01:32:36,020] del dot e
+- [01:32:36,020 - 01:32:38,020] is equal to rho
+- [01:32:38,020 - 01:32:40,020] del dot b
+- [01:32:40,020 - 01:32:42,020] is equal to zero
+- [01:32:42,020 - 01:32:44,020] del cross e
+- [01:32:44,020 - 01:32:46,020] is equal to minus
+- [01:32:46,020 - 01:32:48,020] db by dt
+- [01:32:48,020 - 01:32:50,020] these are all vector equations
+- [01:32:50,020 - 01:32:52,020] and del cross b
+- [01:32:52,020 - 01:32:54,020] is equal to
+- [01:32:54,020 - 01:32:56,020] de by dt
+- [01:32:56,020 - 01:32:58,020] plus j
+- [01:32:58,020 - 01:33:00,020] where j is exactly
+- [01:33:00,020 - 01:33:02,020] the same j that I defined here
+- [01:33:02,020 - 01:33:04,020] the current per unit area
+- [01:33:04,020 - 01:33:06,020] per unit time
+- [01:33:06,020 - 01:33:08,020] what I assert
+- [01:33:08,020 - 01:33:10,020] and which we'll check
+- [01:33:10,020 - 01:33:12,020] is that these equations are exactly the same
+- [01:33:12,020 - 01:33:14,020] as the following equations
+- [01:33:14,020 - 01:33:16,020] d mu
+- [01:33:16,020 - 01:33:18,020] f mu nu
+- [01:33:18,020 - 01:33:20,020] remember what f mu nu is
+- [01:33:20,020 - 01:33:22,020] f mu nu is a four by four
+- [01:33:22,020 - 01:33:24,020] anti-symmetric matrix
+- [01:33:24,020 - 01:33:26,020] a tensor which is built up
+- [01:33:26,020 - 01:33:28,020] out of the electric and magnetic field components
+- [01:33:28,020 - 01:33:30,020] alright
+- [01:33:30,020 - 01:33:32,020] that that is equal
+- [01:33:32,020 - 01:33:34,020] to j nu
+- [01:33:34,020 - 01:33:36,020] notice the left hand side
+- [01:33:36,020 - 01:33:38,020] you've contracted the mu index
+- [01:33:38,020 - 01:33:40,020] so the mu index is not
+- [01:33:40,020 - 01:33:42,020] really a real index here
+- [01:33:42,020 - 01:33:44,020] it just has one nu index
+- [01:33:44,020 - 01:33:46,020] on the right hand a nu index
+- [01:33:46,020 - 01:33:48,020] ok let's check
+- [01:33:48,020 - 01:33:50,020] that this simple
+- [01:33:50,020 - 01:33:52,020] covariant equation
+- [01:33:52,020 - 01:33:54,020] this is clearly a covariant equation
+- [01:33:54,020 - 01:33:56,020] this is a tensor
+- [01:33:56,020 - 01:33:58,020] differentiating a tensor gives you a vector
+- [01:33:58,020 - 01:34:00,020] this is a vector
+- [01:34:00,020 - 01:34:02,020] and so this equation
+- [01:34:02,020 - 01:34:04,020] would be invariant
+- [01:34:04,020 - 01:34:06,020] and the same in every reference frame
+- [01:34:06,020 - 01:34:08,020] assuming that j transforms as a vector
+- [01:34:08,020 - 01:34:10,020] so let's just check
+- [01:34:10,020 - 01:34:12,020] that we get the same equation
+- [01:34:12,020 - 01:34:14,020] let's see the ones
+- [01:34:14,020 - 01:34:16,020] that's relevant here
+- [01:34:16,020 - 01:34:18,020] are the ones with the right hand side
+- [01:34:18,020 - 01:34:20,020] the ones with current
+- [01:34:20,020 - 01:34:22,020] and
+- [01:34:22,020 - 01:34:24,020] charge density
+- [01:34:24,020 - 01:34:26,020] there are four equations here
+- [01:34:26,020 - 01:34:28,020] for nu, for the four different
+- [01:34:28,020 - 01:34:30,020] values of nu
+- [01:34:30,020 - 01:34:32,020] there are four equations here
+- [01:34:32,020 - 01:34:34,020] one, two, three, four
+- [01:34:34,020 - 01:34:35,020] so let's check to see if
+- [01:34:35,020 - 01:34:36,020] any of them are the same
+- [01:34:36,020 - 01:34:38,020] first of all let's take the
+- [01:34:38,020 - 01:34:40,020] time component
+- [01:34:40,020 - 01:34:42,020] the time component would be d mu
+- [01:34:42,020 - 01:34:44,020] f mu t
+- [01:34:44,020 - 01:34:46,020] is equal to j t
+- [01:34:46,020 - 01:34:48,020] but what is j t? that's the time component
+- [01:34:48,020 - 01:34:50,020] of the
+- [01:34:50,020 - 01:34:52,020] of the four
+- [01:34:52,020 - 01:34:54,020] vector of current
+- [01:34:54,020 - 01:34:56,020] it's rho
+- [01:34:56,020 - 01:34:58,020] so on the right hand side we have rho
+- [01:35:00,020 - 01:35:02,020] and what about the left hand side
+- [01:35:02,020 - 01:35:04,020] to see what the left hand side
+- [01:35:04,020 - 01:35:06,020] is we have to go and rewrite
+- [01:35:06,020 - 01:35:08,020] the field tensor but we don't need
+- [01:35:08,020 - 01:35:10,020] the whole thing
+- [01:35:10,020 - 01:35:12,020] all we really need to remember
+- [01:35:12,020 - 01:35:14,020] is let's see that
+- [01:35:14,020 - 01:35:16,020] in the
+- [01:35:16,020 - 01:35:20,020] that we have
+- [01:35:20,020 - 01:35:22,020] the components of the electric field
+- [01:35:22,020 - 01:35:24,020] zero, e x
+- [01:35:24,020 - 01:35:26,020] e y and e z
+- [01:35:26,020 - 01:35:28,020] along here
+- [01:35:28,020 - 01:35:30,020] we also have
+- [01:35:30,020 - 01:35:32,020] minus e x
+- [01:35:32,020 - 01:35:34,020] minus e y
+- [01:35:34,020 - 01:35:36,020] minus e z
+- [01:35:36,020 - 01:35:38,020] and then we have the magnetic field
+- [01:35:38,020 - 01:35:40,020] sitting in here in various ways
+- [01:35:40,020 - 01:35:42,020] okay so let's see what we have
+- [01:35:42,020 - 01:35:44,020] we have only the time
+- [01:35:44,020 - 01:35:46,020] components of f
+- [01:35:46,020 - 01:35:48,020] that means the components along
+- [01:35:48,020 - 01:35:50,020] this first row here
+- [01:35:50,020 - 01:35:52,020] we can write this as
+- [01:35:52,020 - 01:35:54,020] d x
+- [01:35:54,020 - 01:35:56,020] f x t
+- [01:35:56,020 - 01:35:58,020] plus d y
+- [01:35:58,020 - 01:36:00,020] f y t
+- [01:36:00,020 - 01:36:02,020] plus d z
+- [01:36:02,020 - 01:36:04,020] f z t
+- [01:36:06,020 - 01:36:08,020] am I missing one?
+- [01:36:08,020 - 01:36:10,020] yes I'm missing one
+- [01:36:10,020 - 01:36:12,020] I'm missing d t
+- [01:36:12,020 - 01:36:14,020] f t t
+- [01:36:14,020 - 01:36:16,020] f t t
+- [01:36:16,020 - 01:36:18,020] but f t t is zero
+- [01:36:18,020 - 01:36:20,020] all the
+- [01:36:20,020 - 01:36:22,020] diagonal elements of the matrix are zero
+- [01:36:22,020 - 01:36:24,020] so this is zero
+- [01:36:26,020 - 01:36:28,020] now what is f x t f y t
+- [01:36:28,020 - 01:36:30,020] and f z t
+- [01:36:30,020 - 01:36:32,020] those are the components of the electric field
+- [01:36:32,020 - 01:36:34,020] so what is this
+- [01:36:34,020 - 01:36:36,020] this is just d x e x
+- [01:36:36,020 - 01:36:38,020] plus d y e y
+- [01:36:38,020 - 01:36:40,020] plus d z e z
+- [01:36:40,020 - 01:36:42,020] plus d z e z
+- [01:36:42,020 - 01:36:44,020] in other words
+- [01:36:44,020 - 01:36:46,020] it is
+- [01:36:46,020 - 01:36:48,020] del dot e
+- [01:36:48,020 - 01:36:50,020] the left hand side
+- [01:36:50,020 - 01:36:52,020] is just del dot e
+- [01:36:52,020 - 01:36:54,020] and the right hand side
+- [01:36:54,020 - 01:36:56,020] is row
+- [01:36:56,020 - 01:36:58,020] we could go through the other components
+- [01:36:58,020 - 01:37:00,020] in other words
+- [01:37:00,020 - 01:37:02,020] exactly the same thing
+- [01:37:02,020 - 01:37:04,020] instead of taking the time component here
+- [01:37:04,020 - 01:37:06,020] we could take
+- [01:37:06,020 - 01:37:08,020] space component for example
+- [01:37:08,020 - 01:37:10,020] and set this equal to j x
+- [01:37:10,020 - 01:37:12,020] and then we could take
+- [01:37:12,020 - 01:37:14,020] and we would discover
+- [01:37:14,020 - 01:37:16,020] the x component of this equation
+- [01:37:16,020 - 01:37:18,020] so the upshot of it is
+- [01:37:18,020 - 01:37:20,020] that the connection
+- [01:37:20,020 - 01:37:22,020] between
+- [01:37:22,020 - 01:37:24,020] charges and fields
+- [01:37:24,020 - 01:37:26,020] the way in which charges
+- [01:37:26,020 - 01:37:28,020] charges and currents
+- [01:37:28,020 - 01:37:30,020] electric charges
+- [01:37:30,020 - 01:37:32,020] electric currents
+- [01:37:32,020 - 01:37:34,020] the way they generate fields
+- [01:37:34,020 - 01:37:36,020] is Lorentz invariant
+- [01:37:36,020 - 01:37:38,020] it's the same in all reference frames
+- [01:37:38,020 - 01:37:40,020] on the other hand
+- [01:37:40,020 - 01:37:42,020] we've already seen
+- [01:37:42,020 - 01:37:44,020] that the way that the fields
+- [01:37:44,020 - 01:37:46,020] influence the charges
+- [01:37:46,020 - 01:37:48,020] as forces on them
+- [01:37:48,020 - 01:37:50,020] are also the same in all reference frames
+- [01:37:50,020 - 01:37:52,020] so we see that basically
+- [01:37:52,020 - 01:37:54,020] all of the equations of electromagnetism
+- [01:37:54,020 - 01:37:56,020] can be written in a form
+- [01:37:56,020 - 01:37:58,020] in which we can immediately check
+- [01:37:58,020 - 01:38:00,020] that they're tensor equations
+- [01:38:00,020 - 01:38:02,020] and therefore the same in every reference frame
+- [01:38:02,020 - 01:38:04,020] that was the real goal of this
+- [01:38:04,020 - 01:38:06,020] to show that
+- [01:38:06,020 - 01:38:08,020] the laws of electromagnetism
+- [01:38:08,020 - 01:38:10,020] are the same in all reference frames
+- [01:38:10,020 - 01:38:12,020] the laws of electromagnetism
+- [01:38:12,020 - 01:38:14,020] are the same in every reference frame
+- [01:38:14,020 - 01:38:16,020] number one
+- [01:38:16,020 - 01:38:18,020] and number two
+- [01:38:18,020 - 01:38:20,020] to demonstrate that the laws of electromagnetism
+- [01:38:20,020 - 01:38:22,020] lead to light waves
+- [01:38:22,020 - 01:38:24,020] moving with the speed of light
+- [01:38:24,020 - 01:38:26,020] from those two things it follows
+- [01:38:26,020 - 01:38:28,020] that light travels with the speed of light
+- [01:38:28,020 - 01:38:30,020] in every frame of reference
+- [01:38:30,020 - 01:38:32,020] and that sort of closes up
+- [01:38:32,020 - 01:38:34,020] and finishes up
+- [01:38:34,020 - 01:38:36,020] the task started by Einstein
+- [01:38:36,020 - 01:38:38,020] of rewriting
+- [01:38:38,020 - 01:38:40,020] all the laws of physics
+- [01:38:40,020 - 01:38:42,020] and that's the same in every frame of reference
