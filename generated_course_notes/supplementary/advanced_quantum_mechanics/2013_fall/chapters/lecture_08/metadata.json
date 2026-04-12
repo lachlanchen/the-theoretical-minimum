@@ -1,0 +1,50 @@
+{
+  "course_rel": "supplementary/advanced_quantum_mechanics/2013_fall",
+  "transcript_rel": "supplementary/advanced_quantum_mechanics/2013_fall/192 - Advanced Quantum Mechanics Lecture 8 [7G4C7scQX3A].md",
+  "video_rel": "supplementary/advanced_quantum_mechanics/2013_fall/192 - Advanced Quantum Mechanics Lecture 8 [7G4C7scQX3A].mkv",
+  "lecture_number": 8,
+  "lecture_slug": "lecture_08",
+  "lecture_title": "Advanced Quantum Mechanics Lecture 8",
+  "assets": [
+    {
+      "name": "lecture_08_frame_01.png",
+      "timestamp_seconds": 355.04,
+      "timestamp_hhmmss": "00:05:55.040",
+      "source_candidate": "lecture_08_candidate_04_000555040.png",
+      "recommended_use": "tikz_reference",
+      "rationale": "Best readable frame of the initial non-symmetric localized-state sketch in the double-well, before the symmetric and antisymmetric combinations are built."
+    },
+    {
+      "name": "lecture_08_frame_02.png",
+      "timestamp_seconds": 379.04,
+      "timestamp_hhmmss": "00:06:19.040",
+      "source_candidate": "lecture_08_candidate_06_000619040.png",
+      "recommended_use": "tikz_reference",
+      "rationale": "Clearest centered view of the double-well potential with the symmetrically continued wavefunction and the energy reference E."
+    },
+    {
+      "name": "lecture_08_frame_03.png",
+      "timestamp_seconds": 684.8,
+      "timestamp_hhmmss": "00:11:24.800",
+      "source_candidate": "lecture_08_candidate_08_001124800.png",
+      "recommended_use": "tikz_reference",
+      "rationale": "Useful board-layout reference for the side-by-side left/right localized-state sketches and shared energy line, despite partial washout."
+    },
+    {
+      "name": "lecture_08_frame_04.png",
+      "timestamp_seconds": 696.8,
+      "timestamp_hhmmss": "00:11:36.800",
+      "source_candidate": "lecture_08_candidate_09_001136800.png",
+      "recommended_use": "tikz_reference",
+      "rationale": "Readable shot of the psi_L plus/minus psi_R construction with the split-energy labeling."
+    },
+    {
+      "name": "lecture_08_frame_05.png",
+      "timestamp_seconds": 1072.26,
+      "timestamp_hhmmss": "00:17:52.260",
+      "source_candidate": "lecture_08_candidate_10_001752260.png",
+      "recommended_use": "figure",
+      "rationale": "Best readable frame of the time-evolution algebra leading to the condition e^(2 i epsilon t) = -1."
+    }
+  ]
+}
