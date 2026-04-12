@@ -1,0 +1,9964 @@
+1
+00:00:00,000 --> 00:00:10,520
+This program is brought to you by Stanford University.
+
+2
+00:00:10,520 --> 00:00:13,240
+Please visit us at stanford.edu.
+
+3
+00:00:15,880 --> 00:00:17,640
+First of all, I want to show
+
+4
+00:00:17,640 --> 00:00:19,400
+you what difference a sign can make.
+
+5
+00:00:20,520 --> 00:00:24,320
+And in particular, the sign that occurs.
+
+6
+00:00:24,320 --> 00:00:29,520
+We've studied an entangled state of two electrons.
+
+7
+00:00:37,840 --> 00:00:39,320
+We could call it up-down.
+
+8
+00:00:40,440 --> 00:00:41,760
+And then there are two possibilities.
+
+9
+00:00:42,140 --> 00:00:43,440
+Well, there's more than two possibilities,
+
+10
+00:00:43,720 --> 00:00:45,610
+but there are two interesting
+
+11
+00:00:45,610 --> 00:00:47,500
+situations with a plus or minus.
+
+12
+00:00:48,000 --> 00:00:49,300
+In other words, you can take your choice.
+
+13
+00:00:49,420 --> 00:00:51,340
+We can study plus and we can study minus.
+
+14
+00:00:51,920 --> 00:00:54,200
+Plus, minus, down, up.
+
+15
+00:00:54,320 --> 00:00:55,580
+So this is two electrons.
+
+16
+00:01:00,100 --> 00:01:01,950
+And the state that we're writing
+
+17
+00:01:01,950 --> 00:01:03,800
+down is a linear superposition of states.
+
+18
+00:01:05,840 --> 00:01:08,380
+When one electron, one is up,
+
+19
+00:01:09,040 --> 00:01:10,840
+let's call this one, two.
+
+20
+00:01:12,700 --> 00:01:15,160
+Electron one is up, electron two is down.
+
+21
+00:01:16,400 --> 00:01:17,900
+So you know what that looks like.
+
+22
+00:01:17,920 --> 00:01:18,640
+It looks like this.
+
+23
+00:01:20,160 --> 00:01:22,160
+And in the other component of the state,
+
+24
+00:01:22,380 --> 00:01:23,360
+you just flip them over.
+
+25
+00:01:24,320 --> 00:01:27,070
+And we can superpose them with
+
+26
+00:01:27,070 --> 00:01:29,820
+a plus sign or a minus sign.
+
+27
+00:01:30,580 --> 00:01:31,699
+They don't sound so different.
+
+28
+00:01:31,960 --> 00:01:34,130
+In either case, there's a good
+
+29
+00:01:34,130 --> 00:01:36,300
+deal of correlation between the two spins.
+
+30
+00:01:36,759 --> 00:01:37,979
+If one of them is up,
+
+31
+00:01:37,979 --> 00:01:39,199
+then the other one is surely down.
+
+32
+00:01:39,539 --> 00:01:40,719
+And if one of them is down,
+
+33
+00:01:40,719 --> 00:01:41,899
+then the other one is surely up.
+
+34
+00:01:42,500 --> 00:01:44,940
+In both cases, the probability, incidentally,
+
+35
+00:01:45,359 --> 00:01:46,779
+nothing I'm going to say right now
+
+36
+00:01:46,779 --> 00:01:48,199
+is going to depend on whether we...
+
+37
+00:01:48,199 --> 00:01:49,660
+We should normalize it correctly.
+
+38
+00:01:49,660 --> 00:01:51,899
+In fact, let's put the normalization in.
+
+39
+00:01:52,399 --> 00:01:53,399
+Square root of two.
+
+40
+00:01:54,320 --> 00:01:57,699
+To make the probabilities add up to one.
+
+41
+00:02:01,139 --> 00:02:05,940
+In both cases, the sums...
+
+42
+00:02:05,940 --> 00:02:08,180
+Well, what was I going to say in both cases?
+
+43
+00:02:08,299 --> 00:02:11,220
+In both cases, the spins are opposite to each other.
+
+44
+00:02:12,440 --> 00:02:14,190
+Or the third component of
+
+45
+00:02:14,190 --> 00:02:15,940
+spin is opposite to each other.
+
+46
+00:02:17,200 --> 00:02:19,660
+So what is the big difference between these states?
+
+47
+00:02:19,660 --> 00:02:20,540
+And they're quite different.
+
+48
+00:02:20,700 --> 00:02:21,579
+They're quite different.
+
+49
+00:02:21,959 --> 00:02:23,920
+And we want to spend a little bit of time.
+
+50
+00:02:24,320 --> 00:02:25,000
+Explaining that.
+
+51
+00:02:25,660 --> 00:02:28,560
+Before I do, let me write a list again.
+
+52
+00:02:28,700 --> 00:02:33,420
+A list of the action of the various sigma operators.
+
+53
+00:02:34,160 --> 00:02:35,400
+It's the same list that I wrote last...
+
+54
+00:02:35,400 --> 00:02:37,180
+Same table that I wrote last time.
+
+55
+00:02:37,799 --> 00:02:41,540
+First of all, sigma one on up equals down.
+
+56
+00:02:41,600 --> 00:02:43,500
+We'll make reference to this regularly.
+
+57
+00:02:43,840 --> 00:02:46,560
+Sigma one on down equals up.
+
+58
+00:02:47,640 --> 00:02:48,560
+Sigma two on...
+
+59
+00:02:49,220 --> 00:02:49,840
+What is it?
+
+60
+00:02:49,900 --> 00:02:54,240
+Sigma two on up is, I believe, I times...
+
+61
+00:02:54,240 --> 00:02:54,780
+Times down.
+
+62
+00:02:56,780 --> 00:03:01,940
+But sigma two on down is minus I times up.
+
+63
+00:03:02,420 --> 00:03:06,320
+And sigma three on up is up.
+
+64
+00:03:06,940 --> 00:03:11,260
+And sigma three on down is minus down.
+
+65
+00:03:13,860 --> 00:03:15,880
+That's the action of the matrices
+
+66
+00:03:15,880 --> 00:03:17,900
+sigma one, sigma two, and sigma three
+
+67
+00:03:17,900 --> 00:03:20,960
+on the eigenstates of sigma three itself.
+
+68
+00:03:20,960 --> 00:03:23,820
+So we'll make reference to that list.
+
+69
+00:03:24,240 --> 00:03:24,820
+As we go along.
+
+70
+00:03:26,240 --> 00:03:28,480
+Now, in both of these states,
+
+71
+00:03:29,880 --> 00:03:35,140
+the expectation value of any component of the spin,
+
+72
+00:03:35,360 --> 00:03:37,620
+let's say sigma, we're going to remember now that
+
+73
+00:03:37,620 --> 00:03:40,620
+sigma refers to the first electron.
+
+74
+00:03:41,220 --> 00:03:44,560
+Tau, which is an identical family of operators,
+
+75
+00:03:45,340 --> 00:03:47,140
+identical except when it acts.
+
+76
+00:03:47,240 --> 00:03:48,470
+It acts on the second
+
+77
+00:03:48,470 --> 00:03:49,700
+spin instead of the first spin.
+
+78
+00:03:50,640 --> 00:03:52,700
+Sigma and tau are the two spin operators.
+
+79
+00:03:52,700 --> 00:03:53,240
+They're the two spin operators.
+
+80
+00:03:54,240 --> 00:03:56,100
+There's sigma one, sigma two, and sigma three.
+
+81
+00:03:56,680 --> 00:03:58,260
+And in either of these states,
+
+82
+00:03:58,480 --> 00:04:01,070
+the expectation value of any component
+
+83
+00:04:01,070 --> 00:04:03,660
+of sigma or tau is zero.
+
+84
+00:04:05,000 --> 00:04:06,960
+So there is no direction
+
+85
+00:04:06,960 --> 00:04:11,100
+in which either the first spin
+
+86
+00:04:11,100 --> 00:04:15,240
+or the second spin is definitely polarized.
+
+87
+00:04:15,720 --> 00:04:18,959
+There is no direction that you can pick
+
+88
+00:04:18,959 --> 00:04:21,190
+that you will know that the spin
+
+89
+00:04:21,190 --> 00:04:23,420
+has to come out up in that direction.
+
+90
+00:04:24,240 --> 00:04:26,580
+So this is the state of the spin.
+
+91
+00:04:26,580 --> 00:04:29,100
+And then, this is the state of the spin.
+
+92
+00:04:29,100 --> 00:04:29,840
+And the spin can be
+
+93
+00:04:29,840 --> 00:04:30,580
+a state that is, of course,
+
+94
+00:04:30,580 --> 00:04:31,250
+different than any state that you
+
+95
+00:04:31,250 --> 00:04:31,920
+would make for a single electron.
+
+96
+00:04:31,920 --> 00:04:32,480
+And so this is some sort of entangled state
+
+97
+00:04:32,480 --> 00:04:35,390
+that is not a simple juxtaposition
+
+98
+00:04:35,390 --> 00:04:38,300
+of a spin in the state
+
+99
+00:04:38,300 --> 00:04:39,860
+times another spin in its own state.
+
+100
+00:04:39,860 --> 00:04:43,460
+They're mixed together in some entangled way.
+
+101
+00:04:44,940 --> 00:04:45,260
+Okay.
+
+102
+00:04:45,260 --> 00:04:48,230
+So first of all, every component in this
+
+103
+00:04:48,230 --> 00:04:51,200
+state of the sigma i's are equal to zero.
+
+104
+00:04:51,680 --> 00:04:53,240
+And the tau i's are equal to zero.
+
+105
+00:04:53,240 --> 00:04:53,700
+And so you can see that the
+
+106
+00:04:53,700 --> 00:04:54,160
+spin of sigma i is equal to zero.
+
+107
+00:04:54,160 --> 00:04:56,040
+zero in this particular state and you can
+
+108
+00:04:56,040 --> 00:04:57,920
+check that. I think we checked it last time,
+
+109
+00:04:57,980 --> 00:04:59,600
+didn't we? I think you showed that for the
+
+110
+00:04:59,600 --> 00:05:01,220
+minus sign. Is it also true for the plus sign?
+
+111
+00:05:01,220 --> 00:05:02,620
+Yes, it's also true for the plus sign.
+
+112
+00:05:02,620 --> 00:05:04,020
+You want to do it? We can do it.
+
+113
+00:05:07,660 --> 00:05:10,100
+Let's just, it's quite obvious for sigma three.
+
+114
+00:05:10,100 --> 00:05:12,540
+For sigma three, there's one up electron and
+
+115
+00:05:12,540 --> 00:05:16,150
+one down electron. No, let's do it. Let's do
+
+116
+00:05:16,150 --> 00:05:19,760
+it. Why do I say that? Let's do it. Let's
+
+117
+00:05:19,760 --> 00:05:23,030
+do, all right, so we have to take the
+
+118
+00:05:23,030 --> 00:05:26,300
+bra vector up, down. Let's just write up, down,
+
+119
+00:05:26,300 --> 00:05:29,340
+plus, which one did you say I did?
+
+120
+00:05:29,340 --> 00:05:32,380
+Minus. Minus, okay, so let's do plus. Plus down,
+
+121
+00:05:32,440 --> 00:05:37,090
+up. Let's put a bracket around it or a
+
+122
+00:05:37,090 --> 00:05:41,740
+squiggle around it. And now let's take, well, let's
+
+123
+00:05:41,740 --> 00:05:45,199
+first take sigma three. And
+
+124
+00:05:45,199 --> 00:05:48,659
+then over here, up, down, plus.
+
+125
+00:05:49,760 --> 00:05:52,410
+Down, up. No, we've got to
+
+126
+00:05:52,410 --> 00:05:55,060
+write the bracket the other way.
+
+127
+00:06:06,420 --> 00:06:08,630
+And the square root of two doesn't matter here.
+
+128
+00:06:08,630 --> 00:06:10,840
+If it's zero, it'll be zero if we multiply
+
+129
+00:06:10,840 --> 00:06:14,200
+it by square root of two or whatever. Okay,
+
+130
+00:06:14,200 --> 00:06:17,560
+so what happens if we multiply this by sigma
+
+131
+00:06:17,560 --> 00:06:19,460
+three? Sigma three,
+
+132
+00:06:19,760 --> 00:06:23,380
+it's up and leaves it up. Sigma three hits
+
+133
+00:06:23,380 --> 00:06:27,000
+down and changes the sign, all right? So this
+
+134
+00:06:27,000 --> 00:06:31,920
+is just going to be up, down, minus, down,
+
+135
+00:06:31,920 --> 00:06:36,840
+up. And I can leave out the sigma three now
+
+136
+00:06:36,840 --> 00:06:42,810
+because I've just acted with the sigma three.
+
+137
+00:06:42,810 --> 00:06:48,780
+Times up, down, plus down, up. Okay, so the
+
+138
+00:06:48,780 --> 00:06:49,740
+inner product of,
+
+139
+00:06:49,760 --> 00:06:52,840
+up, down, with up, down is one. The inner
+
+140
+00:06:52,840 --> 00:06:55,920
+product of up, down, with down, up is zero.
+
+141
+00:06:55,920 --> 00:06:59,110
+They're different. They're opposite. So right here we
+
+142
+00:06:59,110 --> 00:07:02,300
+get a one from here and then a minus
+
+143
+00:07:02,300 --> 00:07:05,610
+one from here. Down, up with down, up again
+
+144
+00:07:05,610 --> 00:07:08,920
+is one, but there's a minus sign, so we get
+
+145
+00:07:08,920 --> 00:07:13,490
+zero. Now, this does not mean that these
+
+146
+00:07:13,490 --> 00:07:18,060
+states are eigenvectors of sigma three with eigenvalue
+
+147
+00:07:18,060 --> 00:07:19,060
+zero.
+
+148
+00:07:19,060 --> 00:07:22,260
+It means the expectation value of sigma three
+
+149
+00:07:22,260 --> 00:07:25,460
+is zero. There's no eigenvectors of sigma three
+
+150
+00:07:25,460 --> 00:07:28,030
+with eigenvalue zero. You can never get zero for
+
+151
+00:07:28,030 --> 00:07:30,600
+one of the spins. You can only get plus
+
+152
+00:07:30,600 --> 00:07:33,690
+or minus one. So it doesn't mean that when
+
+153
+00:07:33,690 --> 00:07:36,780
+you measure any of the spins you get zero.
+
+154
+00:07:36,780 --> 00:07:40,860
+What it means is that it's a, measuring the
+
+155
+00:07:40,860 --> 00:07:44,940
+spin is a fair coin toss where you get ups
+
+156
+00:07:44,940 --> 00:07:46,580
+as much as you get
+
+157
+00:07:46,580 --> 00:07:48,220
+downs in equal amount, equal probability.
+
+158
+00:07:49,060 --> 00:07:53,560
+Okay, now, I want to come to the
+
+159
+00:07:53,560 --> 00:07:58,060
+difference. And the difference you can see most easily
+
+160
+00:07:58,060 --> 00:08:01,750
+by considering an operator which is the sum
+
+161
+00:08:01,750 --> 00:08:05,440
+of both spins. In other words, the spins represent
+
+162
+00:08:05,440 --> 00:08:09,120
+little vectors, little pointers, excuse me,
+
+163
+00:08:09,120 --> 00:08:12,800
+little pointers. Sigma might point that direction.
+
+164
+00:08:12,800 --> 00:08:15,800
+Tau might point that direction. They represent
+
+165
+00:08:15,800 --> 00:08:18,800
+little magnetic moments. We could think about
+
+166
+00:08:18,800 --> 00:08:21,680
+the magnetic moment of the combined system which
+
+167
+00:08:21,680 --> 00:08:24,560
+is simply the vector sum of the two
+
+168
+00:08:24,560 --> 00:08:29,980
+magnetic moments or the two spins. And so
+
+169
+00:08:29,980 --> 00:08:35,400
+it's interesting then to look at the operator
+
+170
+00:08:35,400 --> 00:08:38,870
+sigma one, sigma plus tau, the three components
+
+171
+00:08:38,870 --> 00:08:42,340
+of it, all three components of it. All right,
+
+172
+00:08:42,340 --> 00:08:45,570
+let's see what the, let's see what
+
+173
+00:08:45,570 --> 00:08:48,800
+sigma plus tau do to the spin.
+
+174
+00:08:48,800 --> 00:08:53,050
+So let's look at these two states. First of
+
+175
+00:08:53,050 --> 00:08:57,300
+all, what is the action of sigma three plus
+
+176
+00:08:57,300 --> 00:09:06,170
+tau three on up down plus down up? Oops,
+
+177
+00:09:06,170 --> 00:09:15,040
+up down, sorry, plus minus down up. All right,
+
+178
+00:09:15,040 --> 00:09:16,920
+the answer is zero. Why is that? Well, first
+
+179
+00:09:16,920 --> 00:09:18,800
+of all, let's look at the, let's look at the
+
+180
+00:09:18,800 --> 00:09:22,300
+spin. Well, one reason is obvious. In up,
+
+181
+00:09:22,300 --> 00:09:25,800
+the spin, the third component of sigma three
+
+182
+00:09:25,939 --> 00:09:29,439
+is up. In down, the component of tau three
+
+183
+00:09:29,439 --> 00:09:32,939
+is down. So they add up to zero, but let's
+
+184
+00:09:32,939 --> 00:09:36,439
+just check it. Sigma three acting on up gives
+
+185
+00:09:36,439 --> 00:09:39,939
+plus up. Tau three acting on down gives minus.
+
+186
+00:09:45,040 --> 00:09:46,920
+So sigma three plus tau three
+
+187
+00:09:46,920 --> 00:09:48,800
+acting on up down gives minus.
+
+188
+00:09:48,800 --> 00:09:52,139
+Now sigma three acting on up will give zero.
+
+189
+00:09:52,139 --> 00:09:55,479
+Sigma three acting on up gives plus. Tau three
+
+190
+00:09:55,479 --> 00:09:59,829
+acting on down gives minus. And so sigma
+
+191
+00:09:59,829 --> 00:10:04,180
+three plus tau three definitely equals 0 for the
+
+192
+00:10:04,180 --> 00:10:06,670
+left-hand state. And also for the right-hand one
+
+193
+00:10:06,670 --> 00:10:09,160
+over here. So the conclusion is that either
+
+194
+00:10:09,160 --> 00:10:12,249
+of these states, in fact, just the
+
+195
+00:10:12,249 --> 00:10:15,339
+two separate components here, are both eigenvectors of
+
+196
+00:10:15,339 --> 00:10:18,740
+sigma three plus tau three with eigenvalues zero.
+
+197
+00:10:18,740 --> 00:10:21,240
+That means if you measure sigma 3
+
+198
+00:10:21,240 --> 00:10:23,740
+plus tau 3, you will always get zero
+
+199
+00:10:23,740 --> 00:10:26,740
+for either of these states
+
+200
+00:10:26,740 --> 00:10:29,240
+That's not surprising, since one
+
+201
+00:10:29,240 --> 00:10:31,740
+is up and one is down
+
+202
+00:10:31,740 --> 00:10:34,740
+Now what about sigma 1 plus
+
+203
+00:10:34,740 --> 00:10:37,740
+tau 1? Let's do that little exercise
+
+204
+00:10:37,740 --> 00:10:41,740
+Sigma 1 plus tau 1, this is the sum
+
+205
+00:10:41,740 --> 00:10:45,740
+of the first component, the x component of spin
+
+206
+00:10:45,740 --> 00:10:50,240
+Let's see if we can work out what
+
+207
+00:10:50,240 --> 00:10:54,740
+it does to up down plus minus down up
+
+208
+00:10:58,740 --> 00:11:01,240
+Okay, let's start with sigma 1.
+
+209
+00:11:01,240 --> 00:11:03,740
+What does sigma 1 do to up?
+
+210
+00:11:03,740 --> 00:11:05,740
+It turns it down, right?
+
+211
+00:11:05,740 --> 00:11:08,740
+Okay, so sigma 1, let's
+
+212
+00:11:08,740 --> 00:11:11,740
+write out everything that comes here
+
+213
+00:11:11,740 --> 00:11:15,740
+Sigma 1 on up down gives us
+
+214
+00:11:15,740 --> 00:11:20,740
+down down
+
+215
+00:11:20,740 --> 00:11:24,240
+and sigma 1 and tau
+
+216
+00:11:24,240 --> 00:11:27,740
+1 on up down gives minus
+
+217
+00:11:27,740 --> 00:11:31,740
+No, sorry, tau 1 on down gives up, sorry
+
+218
+00:11:31,740 --> 00:11:38,740
+So tau 1 gives up up, plus up up
+
+219
+00:11:38,740 --> 00:11:41,740
+That's what we get by applying sigma
+
+220
+00:11:41,740 --> 00:11:44,740
+1 plus tau 1 to up down
+
+221
+00:11:44,740 --> 00:11:48,740
+Sigma 1 flips up down and makes down down
+
+222
+00:11:48,740 --> 00:11:52,740
+Tau 1 flips down up and makes up up
+
+223
+00:11:52,740 --> 00:11:55,740
+With a plus sign because, with a plus mark
+
+224
+00:11:55,740 --> 00:11:57,740
+No, with a plus sign, the
+
+225
+00:11:57,740 --> 00:11:59,740
+plus sign is this sign here
+
+226
+00:11:59,740 --> 00:12:02,740
+Then we have plus or minus
+
+227
+00:12:02,740 --> 00:12:05,740
+Okay, then we have plus or minus
+
+228
+00:12:05,740 --> 00:12:08,240
+Let's see what sigma 1 does, sigma
+
+229
+00:12:08,240 --> 00:12:10,740
+1 acts on down to give up
+
+230
+00:12:10,740 --> 00:12:13,740
+up
+
+231
+00:12:14,740 --> 00:12:24,740
+and then plus minus down down
+
+232
+00:12:29,740 --> 00:12:33,740
+Tau 1 flips up down and gives you down down
+
+233
+00:12:33,740 --> 00:12:37,740
+Okay, plus minus is the same plus minus that's here
+
+234
+00:12:37,740 --> 00:12:38,740
+Okay
+
+235
+00:12:38,740 --> 00:12:41,240
+Alright, so it's quite clear that
+
+236
+00:12:41,240 --> 00:12:43,740
+if we take the plus sign
+
+237
+00:12:44,740 --> 00:12:47,740
+we don't get zero
+
+238
+00:12:47,740 --> 00:12:49,740
+If we take the plus sign we don't get zero
+
+239
+00:12:49,740 --> 00:12:52,740
+we just get twice down down
+
+240
+00:12:52,740 --> 00:12:58,740
+plus twice up up
+
+241
+00:12:58,740 --> 00:13:02,740
+The implication is that if you were to measure
+
+242
+00:13:02,740 --> 00:13:07,740
+Well, the implication is that this is not an eigenvector
+
+243
+00:13:07,740 --> 00:13:09,740
+of the sum of sigma 3 plus tau 3
+
+244
+00:13:09,740 --> 00:13:12,740
+You will not get zero every time you measure it
+
+245
+00:13:12,740 --> 00:13:15,740
+even though its expectation value happens to be zero
+
+246
+00:13:15,740 --> 00:13:18,740
+If you measure it sometimes you'll get
+
+247
+00:13:18,740 --> 00:13:20,740
+What are the possible values you can get?
+
+248
+00:13:20,740 --> 00:13:22,740
+Sigma 3 can be plus or minus 1
+
+249
+00:13:22,740 --> 00:13:24,740
+Tau 3 can be plus or minus 1
+
+250
+00:13:24,740 --> 00:13:26,240
+So it's clear the answer
+
+251
+00:13:26,240 --> 00:13:27,740
+can be 2, 0 or minus
+
+252
+00:13:27,740 --> 00:13:28,740
+Oh, sorry
+
+253
+00:13:28,740 --> 00:13:33,740
+2, 0 or minus 2
+
+254
+00:13:33,740 --> 00:13:35,740
+Is that right? That's all you can get, right?
+
+255
+00:13:35,740 --> 00:13:36,740
+Yeah
+
+256
+00:13:36,740 --> 00:13:38,740
+But there would be no reason
+
+257
+00:13:38,740 --> 00:13:40,740
+and in fact it's quite clear
+
+258
+00:13:40,740 --> 00:13:43,240
+that you can't, that you
+
+259
+00:13:43,240 --> 00:13:45,740
+don't get zero every single time
+
+260
+00:13:45,740 --> 00:13:48,240
+because this is not an eigenvector
+
+261
+00:13:48,240 --> 00:13:50,740
+of tau 1 plus sigma 1
+
+262
+00:13:50,740 --> 00:13:52,740
+with eigenvalue zero
+
+263
+00:13:52,740 --> 00:13:55,240
+So we can be quite
+
+264
+00:13:55,240 --> 00:13:57,740
+sure then that this operator here
+
+265
+00:13:57,740 --> 00:14:01,740
+does not give zero every time you measure it
+
+266
+00:14:01,740 --> 00:14:04,740
+Just because it is not an eigenvector in this state
+
+267
+00:14:04,740 --> 00:14:07,740
+Just because it's not an eigenvector with eigenvalue zero
+
+268
+00:14:07,740 --> 00:14:09,740
+What about with the minus sign?
+
+269
+00:14:09,740 --> 00:14:11,740
+Well, we have a minus sign in here
+
+270
+00:14:11,740 --> 00:14:13,240
+With a minus sign in here
+
+271
+00:14:13,240 --> 00:14:14,740
+that means we should put minuses
+
+272
+00:14:14,740 --> 00:14:16,740
+and the answer does vanish
+
+273
+00:14:16,740 --> 00:14:19,740
+Down, down, minus, down, down, up, up, minus, up, up
+
+274
+00:14:19,740 --> 00:14:21,740
+equals zero
+
+275
+00:14:21,740 --> 00:14:24,740
+So the state with the minus sign in here
+
+276
+00:14:24,740 --> 00:14:26,740
+Let's concentrate on that one now
+
+277
+00:14:26,740 --> 00:14:28,740
+The state with the minus 1 here
+
+278
+00:14:28,740 --> 00:14:32,740
+Every single time you measure sigma 1 plus tau 1
+
+279
+00:14:32,740 --> 00:14:33,740
+you get zero
+
+280
+00:14:33,740 --> 00:14:36,740
+Every single time you measure sigma 3 plus tau 3
+
+281
+00:14:36,740 --> 00:14:38,740
+There's two separate electrons
+
+282
+00:14:38,740 --> 00:14:41,740
+One of them you measure sigma
+
+283
+00:14:41,740 --> 00:14:42,740
+The other one you measure tau
+
+284
+00:14:42,740 --> 00:14:44,740
+You add the answers
+
+285
+00:14:44,740 --> 00:14:45,740
+sigma 1 plus tau 1
+
+286
+00:14:45,740 --> 00:14:46,740
+or sigma 2 plus tau 2
+
+287
+00:14:46,740 --> 00:14:48,740
+or whatever it is you measure
+
+288
+00:14:48,740 --> 00:14:50,740
+You always get zero
+
+289
+00:14:50,740 --> 00:14:53,740
+for the sums of the third components
+
+290
+00:14:53,740 --> 00:14:55,740
+and for the sums of the first components
+
+291
+00:14:55,740 --> 00:14:57,740
+What about the second component?
+
+292
+00:14:57,740 --> 00:14:58,740
+Let's check that one
+
+293
+00:14:58,740 --> 00:15:00,740
+And I won't do it for plus or minus now
+
+294
+00:15:00,740 --> 00:15:04,240
+We've already checked that sigma 1 plus tau
+
+295
+00:15:04,240 --> 00:15:07,740
+1 does not kill up, down, plus, down, up
+
+296
+00:15:08,740 --> 00:15:12,740
+Let's see what happens if we
+
+297
+00:15:12,740 --> 00:15:16,740
+put sigma 2 plus tau 2
+
+298
+00:15:16,740 --> 00:15:19,740
+on the same vector
+
+299
+00:15:19,740 --> 00:15:25,740
+Up, down, minus, down, up
+
+300
+00:15:25,740 --> 00:15:27,740
+Alright, first of all what does sigma 2 do?
+
+301
+00:15:27,740 --> 00:15:30,740
+Sigma 2 multiplies the up here
+
+302
+00:15:30,740 --> 00:15:33,740
+and makes it i times down
+
+303
+00:15:33,740 --> 00:15:38,740
+So the first entry will be i times down, down
+
+304
+00:15:38,740 --> 00:15:41,740
+That's from sigma 2 times this
+
+305
+00:15:41,740 --> 00:15:43,740
+Now what about tau 2 times this?
+
+306
+00:15:43,740 --> 00:15:47,740
+Tau 2 takes down and flips it up
+
+307
+00:15:47,740 --> 00:15:48,740
+with a minus i
+
+308
+00:15:48,740 --> 00:15:52,740
+So that's minus i up, up
+
+309
+00:15:52,740 --> 00:15:54,740
+Now what about tau 2?
+
+310
+00:15:54,740 --> 00:15:57,240
+Tau 2 takes down and flips
+
+311
+00:15:57,240 --> 00:15:59,740
+it up with a minus i
+
+312
+00:15:59,740 --> 00:16:03,740
+So that's minus i down, down
+
+313
+00:16:03,740 --> 00:16:06,740
+And then with a minus sign
+
+314
+00:16:06,740 --> 00:16:08,740
+with another minus sign here
+
+315
+00:16:08,740 --> 00:16:13,740
+Tau 2 takes up to down
+
+316
+00:16:13,740 --> 00:16:16,740
+Let's see, am I doing what I want to do?
+
+317
+00:16:16,740 --> 00:16:23,740
+Where am I?
+
+318
+00:16:23,740 --> 00:16:25,740
+We already have two down, downs
+
+319
+00:16:25,740 --> 00:16:27,740
+Tau 2
+
+320
+00:16:27,740 --> 00:16:30,740
+Which one am I trying to do?
+
+321
+00:16:30,740 --> 00:16:33,740
+Tau 2 should be up, up
+
+322
+00:16:33,740 --> 00:16:35,740
+Up, up, that's this one
+
+323
+00:16:35,740 --> 00:16:36,740
+Yeah
+
+324
+00:16:36,740 --> 00:16:37,740
+And that should be
+
+325
+00:16:37,740 --> 00:16:39,640
+should be i times up up.
+
+326
+00:16:41,060 --> 00:16:42,780
+Plus i times up up.
+
+327
+00:16:43,980 --> 00:16:45,320
+So again, it gives zero.
+
+328
+00:16:47,960 --> 00:16:49,740
+All components of sigma
+
+329
+00:16:49,740 --> 00:16:52,040
+give zero. Furthermore,
+
+330
+00:16:52,780 --> 00:16:55,760
+if I were to take, let's call it
+
+331
+00:16:55,760 --> 00:16:58,700
+sigma dot tau, it's a little vector, sigma plus
+
+332
+00:16:58,700 --> 00:17:01,000
+tau, not that,
+
+333
+00:17:01,820 --> 00:17:04,839
+and dot it into some unit vector to take
+
+334
+00:17:04,839 --> 00:17:06,500
+the component in any direction.
+
+335
+00:17:07,740 --> 00:17:11,400
+Well, those things are built up out of
+
+336
+00:17:11,400 --> 00:17:14,260
+sigma one plus tau one, sigma two plus tau two,
+
+337
+00:17:14,339 --> 00:17:15,819
+and sigma three plus tau three.
+
+338
+00:17:16,560 --> 00:17:20,319
+So basically we've checked that all three
+
+339
+00:17:20,319 --> 00:17:22,800
+components of sigma plus tau are zero,
+
+340
+00:17:23,480 --> 00:17:26,319
+and therefore sigma plus tau in any direction,
+
+341
+00:17:27,119 --> 00:17:28,760
+whatever direction you measure it in,
+
+342
+00:17:29,180 --> 00:17:30,020
+you will get zero.
+
+343
+00:17:30,560 --> 00:17:32,040
+For the negative?
+
+344
+00:17:32,800 --> 00:17:34,480
+Yeah, for the negative sign. The
+
+345
+00:17:34,480 --> 00:17:36,160
+negative sign is called the singlet state.
+
+346
+00:17:36,620 --> 00:17:37,720
+Why it's called the singlet?
+
+347
+00:17:37,740 --> 00:17:39,380
+Well, the singlet state maybe we'll get to,
+
+348
+00:17:39,380 --> 00:17:41,020
+but for the moment it's called the singlet state.
+
+349
+00:17:42,100 --> 00:17:44,310
+And it has the property that
+
+350
+00:17:44,310 --> 00:17:46,520
+the sums of the little magnetic moments,
+
+351
+00:17:46,620 --> 00:17:48,180
+the sums of the spins of the
+
+352
+00:17:48,180 --> 00:17:49,740
+two particles are exactly equal to zero
+
+353
+00:17:49,740 --> 00:17:52,220
+every time you measure it in any direction.
+
+354
+00:17:52,960 --> 00:17:54,570
+It happens to have the
+
+355
+00:17:54,570 --> 00:17:56,180
+property that it's rotationally invariant.
+
+356
+00:17:56,240 --> 00:17:58,020
+No matter what direction you measure
+
+357
+00:17:58,020 --> 00:17:59,800
+it in, it always looks the same.
+
+358
+00:18:00,040 --> 00:18:02,800
+But we see that in particular, specifically from
+
+359
+00:18:02,800 --> 00:18:06,160
+looking at the various components of sigma plus tau,
+
+360
+00:18:06,620 --> 00:18:07,360
+they're all,
+
+361
+00:18:07,740 --> 00:18:08,740
+zero.
+
+362
+00:18:11,740 --> 00:18:12,240
+Okay.
+
+363
+00:18:14,300 --> 00:18:16,300
+The implication of that of course is
+
+364
+00:18:17,500 --> 00:18:18,860
+that if you measure
+
+365
+00:18:19,400 --> 00:18:21,400
+a component of sigma,
+
+366
+00:18:21,920 --> 00:18:27,060
+you'll instantly know what the same component of tau is.
+
+367
+00:18:27,060 --> 00:18:29,060
+In other words, if we have an electron over there,
+
+368
+00:18:29,600 --> 00:18:32,860
+Alice's electron over there, and Bob's electron over here,
+
+369
+00:18:33,300 --> 00:18:36,100
+and Bob measures any component of the spin,
+
+370
+00:18:36,100 --> 00:18:38,980
+he instantly knows what Alice will get
+
+371
+00:18:38,980 --> 00:18:41,860
+if she measures the same component of spin.
+
+372
+00:18:41,860 --> 00:18:44,480
+So he won't necessarily know what's gotten
+
+373
+00:18:44,480 --> 00:18:47,100
+by measuring some other component of the spin,
+
+374
+00:18:47,100 --> 00:18:50,100
+but what he does know is if he measures
+
+375
+00:18:50,100 --> 00:18:53,100
+any component of the spin and gets an answer,
+
+376
+00:18:53,100 --> 00:18:56,350
+he instantly knows what Alice will
+
+377
+00:18:56,350 --> 00:18:59,600
+get when she measures the other spin.
+
+378
+00:18:59,600 --> 00:19:00,100
+Why?
+
+379
+00:19:00,100 --> 00:19:02,100
+Because the sums of the spins
+
+380
+00:19:02,100 --> 00:19:04,100
+in any direction are equal to zero.
+
+381
+00:19:04,100 --> 00:19:05,100
+All right.
+
+382
+00:19:05,100 --> 00:19:06,100
+So that's a...
+
+383
+00:19:06,100 --> 00:19:06,600
+Yeah.
+
+384
+00:19:06,600 --> 00:19:08,600
+When you say same answer, you mean
+
+385
+00:19:08,600 --> 00:19:10,600
+literally the same
+
+386
+00:19:10,600 --> 00:19:11,600
+um,
+
+387
+00:19:11,600 --> 00:19:12,600
+one of,
+
+388
+00:19:12,600 --> 00:19:14,600
+minus one plus one, or
+
+389
+00:19:14,600 --> 00:19:15,850
+on the average, they will
+
+390
+00:19:15,850 --> 00:19:17,100
+get the same number of spins?
+
+391
+00:19:17,100 --> 00:19:19,100
+Every single time.
+
+392
+00:19:19,100 --> 00:19:21,100
+Every single time.
+
+393
+00:19:21,100 --> 00:19:23,350
+And the reason is, because this vector
+
+394
+00:19:23,350 --> 00:19:25,600
+is an eigenvector of sigma plus tau,
+
+395
+00:19:25,600 --> 00:19:27,600
+when it's an eigenvector, that tells
+
+396
+00:19:27,600 --> 00:19:29,600
+you that every time you measure it,
+
+397
+00:19:30,100 --> 00:19:31,600
+in that state,
+
+398
+00:19:31,600 --> 00:19:33,600
+you get the same answer,
+
+399
+00:19:33,600 --> 00:19:35,600
+equal to the eigenvalue.
+
+400
+00:19:36,100 --> 00:19:37,100
+What's that?
+
+401
+00:19:37,100 --> 00:19:39,100
+That's for the singlet state.
+
+402
+00:19:39,100 --> 00:19:40,600
+For the singlet state, yeah.
+
+403
+00:19:40,600 --> 00:19:41,600
+But not for the...
+
+404
+00:19:41,600 --> 00:19:45,100
+The other one is called the triplet state.
+
+405
+00:19:45,100 --> 00:19:46,100
+Why?
+
+406
+00:19:46,100 --> 00:19:50,100
+Another issue we'll come to another day.
+
+407
+00:19:50,100 --> 00:19:52,600
+So the singlet state has the special property
+
+408
+00:19:52,600 --> 00:19:55,100
+that if you measure one spin, you automatically know
+
+409
+00:19:55,100 --> 00:19:57,600
+that the other one is in the opposite direction.
+
+410
+00:19:57,600 --> 00:19:58,600
+Okay?
+
+411
+00:19:58,600 --> 00:20:00,100
+Meaning to say,
+
+412
+00:20:00,100 --> 00:20:02,600
+you know you never measure the direction of a spin,
+
+413
+00:20:02,600 --> 00:20:04,600
+you measure a component of a spin.
+
+414
+00:20:04,600 --> 00:20:04,850
+Any component of a spin that you
+
+415
+00:20:04,850 --> 00:20:05,100
+measure, you measure the direction of a spin.
+
+416
+00:20:05,100 --> 00:20:05,600
+Any component of a spin that you
+
+417
+00:20:05,600 --> 00:20:06,100
+measure, you measure the direction of a spin.
+
+418
+00:20:06,100 --> 00:20:06,600
+Any component of a spin that you
+
+419
+00:20:06,600 --> 00:20:07,100
+measure, you measure the direction of a spin.
+
+420
+00:20:07,100 --> 00:20:07,600
+Any component of a spin that you
+
+421
+00:20:07,600 --> 00:20:08,100
+measure, you measure the direction of a spin.
+
+422
+00:20:08,100 --> 00:20:08,600
+If you measure the same component of
+
+423
+00:20:08,600 --> 00:20:09,100
+the other spin, you'll get the opposite answer.
+
+424
+00:20:09,100 --> 00:20:10,100
+If you measure the same component of
+
+425
+00:20:10,100 --> 00:20:11,100
+the other spin, you'll get the opposite answer.
+
+426
+00:20:11,100 --> 00:20:12,100
+Okay?
+
+427
+00:20:12,100 --> 00:20:14,100
+So that's a form of correlation.
+
+428
+00:20:14,100 --> 00:20:16,600
+It's kind of similar to the penny and the dime.
+
+429
+00:20:17,100 --> 00:20:20,100
+If I give Alice one
+
+430
+00:20:20,100 --> 00:20:23,100
+coin and Bob the other coin...
+
+431
+00:20:23,100 --> 00:20:24,600
+Alice looks at a coin,
+
+432
+00:20:24,600 --> 00:20:26,100
+she instantly knows what Bob gets.
+
+433
+00:20:26,100 --> 00:20:28,100
+But it's somehow deeper than that.
+
+434
+00:20:28,100 --> 00:20:32,100
+It's not just the third component, the up-downness,
+
+435
+00:20:32,100 --> 00:20:34,100
+but every single component
+
+436
+00:20:34,100 --> 00:20:39,260
+whichever one you happen to pick
+
+437
+00:20:39,260 --> 00:20:41,489
+in any direction, whatever, the two
+
+438
+00:20:41,489 --> 00:20:43,719
+spins will come out to be opposite
+
+439
+00:20:43,719 --> 00:20:48,260
+okay, that's a profound kind of correlation
+
+440
+00:20:48,260 --> 00:20:55,020
+that's called Einstein-Podolsky-Rosen correlation
+
+441
+00:20:55,020 --> 00:20:58,180
+were Einstein, Podolsky, and Rosen
+
+442
+00:20:58,180 --> 00:21:01,340
+the first ones to discover entanglement?
+
+443
+00:21:01,340 --> 00:21:02,919
+no, not at all
+
+444
+00:21:02,920 --> 00:21:11,260
+I believe Schrödinger first discussed it, I think
+
+445
+00:21:11,260 --> 00:21:13,020
+in fact, I think he called it entanglement
+
+446
+00:21:13,020 --> 00:21:14,940
+and I think that was before
+
+447
+00:21:14,940 --> 00:21:20,700
+but in any case, let's go on
+
+448
+00:21:20,700 --> 00:21:22,420
+I want to go slowly
+
+449
+00:21:22,420 --> 00:21:29,220
+I next want to come to Bell's famous theorem
+
+450
+00:21:32,920 --> 00:21:36,420
+I can tell you the theorem is famous, what I
+
+451
+00:21:36,420 --> 00:21:39,920
+can't tell you is whether or not it's profound or trivial
+
+452
+00:21:39,920 --> 00:21:43,420
+not Bell's theorem, but Bell's inequality and
+
+453
+00:21:43,420 --> 00:21:46,920
+the fact that quantum mechanics violates it
+
+454
+00:21:46,920 --> 00:21:49,420
+I cannot tell you, half the days of the week
+
+455
+00:21:49,420 --> 00:21:51,920
+I think this is the most profound thing in the world
+
+456
+00:21:51,920 --> 00:21:54,420
+and the other half of the days I
+
+457
+00:21:54,420 --> 00:21:56,920
+say, oh it's just another consequence of quantum mechanics
+
+458
+00:21:56,920 --> 00:21:58,920
+what I can tell you is that John
+
+459
+00:21:58,920 --> 00:22:00,920
+Bell had exactly the same ambivalence to it
+
+460
+00:22:00,920 --> 00:22:02,760
+at least when I knew him
+
+461
+00:22:02,920 --> 00:22:05,920
+and I can tell you also that
+
+462
+00:22:05,920 --> 00:22:08,920
+Richard Feynman had the same ambivalence to it
+
+463
+00:22:08,920 --> 00:22:10,670
+some of the times it just
+
+464
+00:22:10,670 --> 00:22:12,420
+seems so profound and so deep
+
+465
+00:22:12,420 --> 00:22:14,090
+and other times it just seems like,
+
+466
+00:22:14,090 --> 00:22:15,760
+well it's a trivial consequence of quantum mechanics
+
+467
+00:22:15,760 --> 00:22:17,920
+of course it's true
+
+468
+00:22:17,920 --> 00:22:19,920
+you'll have to make up your own mind
+
+469
+00:22:19,920 --> 00:22:21,920
+whether you think it's very very profound or not
+
+470
+00:22:21,920 --> 00:22:23,920
+it gets a lot of press that
+
+471
+00:22:23,920 --> 00:22:25,920
+it's the most profound thing since Swiss cheese
+
+472
+00:22:25,920 --> 00:22:28,920
+and sometimes, you know, it may well be
+
+473
+00:22:28,920 --> 00:22:30,920
+in the end it's going to depend on
+
+474
+00:22:30,920 --> 00:22:32,920
+what the consequences of it are for Feynman
+
+475
+00:22:32,920 --> 00:22:33,920
+and for future physics
+
+476
+00:22:33,920 --> 00:22:36,420
+at the moment, the consequences are
+
+477
+00:22:36,420 --> 00:22:38,920
+just quantum mechanics works, that's all
+
+478
+00:22:38,920 --> 00:22:44,920
+and so without further ado, let's discuss
+
+479
+00:22:44,920 --> 00:22:47,920
+the theorem itself is quite trivial
+
+480
+00:22:47,920 --> 00:22:49,920
+it excludes other theories
+
+481
+00:22:49,920 --> 00:22:52,920
+it probably, yeah
+
+482
+00:22:52,920 --> 00:22:56,920
+it excludes quantum mechanics
+
+483
+00:22:56,920 --> 00:22:58,920
+the theorem excludes quantum mechanics
+
+484
+00:22:58,920 --> 00:23:00,920
+the theorem excludes non-quantum mechanics
+
+485
+00:23:00,920 --> 00:23:02,920
+no, the theorem excludes quantum mechanics
+
+486
+00:23:02,920 --> 00:23:05,920
+in quantum mechanics you can
+
+487
+00:23:05,920 --> 00:23:08,920
+find violations of Bell's inequality
+
+488
+00:23:08,920 --> 00:23:16,920
+Bell's inequality is an absolutely classical theorem
+
+489
+00:23:16,920 --> 00:23:19,920
+it's a theorem about classical systems
+
+490
+00:23:19,920 --> 00:23:21,920
+completely classical systems
+
+491
+00:23:21,920 --> 00:23:26,920
+and when I derive it now
+
+492
+00:23:26,920 --> 00:23:28,420
+I don't want you to
+
+493
+00:23:28,420 --> 00:23:29,920
+remind me anything about quantum mechanics
+
+494
+00:23:29,920 --> 00:23:31,920
+because it doesn't have to do with quantum mechanics
+
+495
+00:23:31,920 --> 00:23:34,920
+we're going to derive a theorem about
+
+496
+00:23:34,920 --> 00:23:37,920
+perfectly good classical logic
+
+497
+00:23:37,920 --> 00:23:38,920
+what is classical logic?
+
+498
+00:23:38,920 --> 00:23:42,920
+classical logic is basically set theory
+
+499
+00:23:42,920 --> 00:23:45,920
+ummm
+
+500
+00:23:45,920 --> 00:23:46,920
+ummm
+
+501
+00:23:46,920 --> 00:23:49,920
+ummm
+
+502
+00:23:49,920 --> 00:23:50,920
+yes
+
+503
+00:23:50,920 --> 00:23:52,920
+no paradox yet
+
+504
+00:23:52,920 --> 00:23:54,920
+I mean, so far we've just
+
+505
+00:23:54,920 --> 00:23:56,920
+does that violate quantum causality?
+
+506
+00:23:56,920 --> 00:23:58,920
+is that a separate issue?
+
+507
+00:23:58,920 --> 00:23:59,920
+no
+
+508
+00:23:59,920 --> 00:24:01,420
+it would violate causality if you
+
+509
+00:24:01,420 --> 00:24:02,920
+could use it to send a message
+
+510
+00:24:02,920 --> 00:24:05,920
+if by Bob looking at the spin
+
+511
+00:24:05,920 --> 00:24:07,920
+Alice were to instantly know
+
+512
+00:24:07,920 --> 00:24:09,920
+something that she didn't know before
+
+513
+00:24:09,920 --> 00:24:11,920
+that would violate causality
+
+514
+00:24:11,920 --> 00:24:12,920
+but she doesn't
+
+515
+00:24:12,920 --> 00:24:15,920
+she doesn't know anything different than
+
+516
+00:24:15,920 --> 00:24:20,920
+she has no more information than she had before
+
+517
+00:24:20,920 --> 00:24:21,920
+for example
+
+518
+00:24:21,920 --> 00:24:23,920
+if in this state
+
+519
+00:24:23,920 --> 00:24:25,920
+her spin half the time will be
+
+520
+00:24:25,920 --> 00:24:27,920
+up and half the time will be down
+
+521
+00:24:27,920 --> 00:24:29,920
+that'll be true
+
+522
+00:24:29,920 --> 00:24:31,920
+Bob may measure his spin
+
+523
+00:24:31,920 --> 00:24:32,920
+she doesn't know anything
+
+524
+00:24:32,920 --> 00:24:33,920
+she'll look at her spin
+
+525
+00:24:33,920 --> 00:24:34,920
+half the times it'll be up
+
+526
+00:24:34,920 --> 00:24:35,920
+half the times it'll be down
+
+527
+00:24:35,920 --> 00:24:38,920
+if she gets a message from Bob
+
+528
+00:24:38,920 --> 00:24:40,920
+and the message says
+
+529
+00:24:40,920 --> 00:24:41,920
+my spin is up
+
+530
+00:24:41,920 --> 00:24:43,920
+then she knows that her spin is down
+
+531
+00:24:43,920 --> 00:24:45,920
+but she's got to get that message
+
+532
+00:24:45,920 --> 00:24:48,420
+and that message can't be gotten
+
+533
+00:24:48,420 --> 00:24:50,920
+faster than the speed of light
+
+534
+00:24:50,920 --> 00:24:51,920
+are there any time
+
+535
+00:24:51,920 --> 00:24:53,920
+any inertial time
+
+536
+00:24:53,920 --> 00:24:55,920
+time frames for
+
+537
+00:24:55,920 --> 00:24:57,920
+one is the time of the other
+
+538
+00:24:57,920 --> 00:24:58,920
+and one is
+
+539
+00:24:58,920 --> 00:25:00,920
+Bob measures first
+
+540
+00:25:00,920 --> 00:25:02,920
+Alice measures first
+
+541
+00:25:02,920 --> 00:25:04,920
+is that my fault?
+
+542
+00:25:04,920 --> 00:25:05,920
+no, no, no, no
+
+543
+00:25:05,920 --> 00:25:07,920
+whatever Bob does
+
+544
+00:25:07,920 --> 00:25:09,920
+whatever Bob does
+
+545
+00:25:09,920 --> 00:25:12,920
+if Alice doesn't get a message from Bob
+
+546
+00:25:12,920 --> 00:25:14,920
+if she doesn't get a message from Bob
+
+547
+00:25:14,920 --> 00:25:17,920
+there are no implications for anything for her
+
+548
+00:25:17,920 --> 00:25:19,920
+she'll still
+
+549
+00:25:19,920 --> 00:25:21,920
+she will have learned nothing
+
+550
+00:25:21,920 --> 00:25:24,920
+from the fact that Bob made the measurement
+
+551
+00:25:24,920 --> 00:25:26,920
+she'll know nothing
+
+552
+00:25:26,920 --> 00:25:28,920
+she has to get a message from Bob
+
+553
+00:25:28,920 --> 00:25:31,920
+to use the information that he has
+
+554
+00:25:31,920 --> 00:25:33,920
+if he sends her a message
+
+555
+00:25:33,920 --> 00:25:34,920
+I got up
+
+556
+00:25:34,920 --> 00:25:35,920
+then she knows it's down
+
+557
+00:25:35,920 --> 00:25:37,920
+but
+
+558
+00:25:37,920 --> 00:25:39,920
+but
+
+559
+00:25:39,920 --> 00:25:41,920
+without that message being sent
+
+560
+00:25:41,920 --> 00:25:43,920
+she doesn't know anything new
+
+561
+00:25:43,920 --> 00:25:44,920
+so
+
+562
+00:25:44,920 --> 00:25:48,920
+this is in no way a violation of
+
+563
+00:25:48,920 --> 00:25:49,920
+causality
+
+564
+00:25:49,920 --> 00:25:50,920
+locality
+
+565
+00:25:50,920 --> 00:25:52,920
+or anything like that
+
+566
+00:25:52,920 --> 00:25:53,920
+that's one of the reasons that
+
+567
+00:25:53,920 --> 00:25:54,920
+half the days of the week
+
+568
+00:25:54,920 --> 00:25:56,920
+I think this isn't so profound
+
+569
+00:25:56,920 --> 00:25:58,920
+it doesn't violate anything deep or important
+
+570
+00:25:58,920 --> 00:26:01,920
+in
+
+571
+00:26:01,920 --> 00:26:03,920
+in
+
+572
+00:26:03,920 --> 00:26:05,920
+in
+
+573
+00:26:05,920 --> 00:26:06,920
+a review
+
+574
+00:26:06,920 --> 00:26:09,920
+the singlet state is when you have the minus sign
+
+575
+00:26:09,920 --> 00:26:13,920
+and the eigenvalues are plus or minus two or zero
+
+576
+00:26:13,920 --> 00:26:15,920
+I
+
+577
+00:26:15,920 --> 00:26:17,920
+no, you measure sigma plus tau
+
+578
+00:26:17,920 --> 00:26:19,920
+in the singlet state you get zero
+
+579
+00:26:19,920 --> 00:26:21,920
+in any direction, any component
+
+580
+00:26:21,920 --> 00:26:23,420
+it's in the triplet state which
+
+581
+00:26:23,420 --> 00:26:24,920
+is the one with the plus
+
+582
+00:26:24,920 --> 00:26:26,920
+where if you measure it you can get
+
+583
+00:26:26,920 --> 00:26:28,920
+two zero
+
+584
+00:26:28,920 --> 00:26:29,920
+or
+
+585
+00:26:29,920 --> 00:26:30,920
+or
+
+586
+00:26:30,920 --> 00:26:31,920
+or
+
+587
+00:26:31,920 --> 00:26:32,920
+minus one
+
+588
+00:26:32,920 --> 00:26:33,920
+or minus two
+
+589
+00:26:33,920 --> 00:26:34,920
+excuse me
+
+590
+00:26:34,920 --> 00:26:36,920
+okay so let me tell you what Bell's theorem is
+
+591
+00:26:36,920 --> 00:26:38,920
+it's a very simple theorem
+
+592
+00:26:38,920 --> 00:26:40,920
+supposing we have some objects
+
+593
+00:26:40,920 --> 00:26:42,920
+all a collection of them
+
+594
+00:26:42,920 --> 00:26:45,920
+a set of things
+
+595
+00:26:45,920 --> 00:26:47,920
+and we look at the class
+
+596
+00:26:47,920 --> 00:26:49,920
+of the objects that have certain properties
+
+597
+00:26:49,920 --> 00:26:52,920
+and I'm going to consider three properties
+
+598
+00:26:52,920 --> 00:26:54,920
+I'm going to call them A, B and C
+
+599
+00:26:54,920 --> 00:26:56,920
+whatever they happen to be
+
+600
+00:26:56,920 --> 00:26:57,920
+they could stand for anything
+
+601
+00:26:57,920 --> 00:27:00,920
+any properties A, B and C
+
+602
+00:27:00,920 --> 00:27:05,920
+let me write down the inequality first
+
+603
+00:27:05,920 --> 00:27:12,920
+in other words each one of these little things
+
+604
+00:27:12,920 --> 00:27:13,920
+whatever it is
+
+605
+00:27:13,920 --> 00:27:14,920
+here's some set
+
+606
+00:27:14,920 --> 00:27:15,920
+here's some set
+
+607
+00:27:15,920 --> 00:27:17,420
+and each member of the set has
+
+608
+00:27:17,420 --> 00:27:18,920
+an A, a B and a C
+
+609
+00:27:18,920 --> 00:27:21,920
+it has these properties
+
+610
+00:27:21,920 --> 00:27:23,920
+now we can
+
+611
+00:27:23,920 --> 00:27:25,920
+I'm interested in the number
+
+612
+00:27:25,920 --> 00:27:26,920
+of entities
+
+613
+00:27:26,920 --> 00:27:28,920
+of entities
+
+614
+00:27:28,920 --> 00:27:31,920
+which have property A
+
+615
+00:27:31,920 --> 00:27:32,920
+and
+
+616
+00:27:32,920 --> 00:27:35,920
+not B
+
+617
+00:27:35,920 --> 00:27:38,920
+not B is whatever the opposite of B is
+
+618
+00:27:38,920 --> 00:27:40,920
+alright so
+
+619
+00:27:40,920 --> 00:27:42,920
+whatever the opposite of B is
+
+620
+00:27:42,920 --> 00:27:46,920
+the number of things which have property A
+
+621
+00:27:46,920 --> 00:27:47,920
+and not B
+
+622
+00:27:47,920 --> 00:27:50,920
+plus the number of things
+
+623
+00:27:50,920 --> 00:27:53,920
+that have property B
+
+624
+00:27:53,920 --> 00:27:55,920
+and not C
+
+625
+00:27:56,920 --> 00:27:59,920
+and the classical theorem which is so easy
+
+626
+00:27:59,920 --> 00:28:01,920
+that I've never understood why there
+
+627
+00:28:01,920 --> 00:28:03,920
+are long long winded proofs of it
+
+628
+00:28:03,920 --> 00:28:06,920
+it's basically very elementary
+
+629
+00:28:06,920 --> 00:28:09,920
+is greater than or equal to
+
+630
+00:28:09,920 --> 00:28:13,920
+the number of things with property A
+
+631
+00:28:13,920 --> 00:28:15,920
+and not C
+
+632
+00:28:15,920 --> 00:28:16,920
+okay
+
+633
+00:28:16,920 --> 00:28:18,920
+the number of things with A and not B
+
+634
+00:28:18,920 --> 00:28:20,920
+plus the number of things with B and not C
+
+635
+00:28:20,920 --> 00:28:22,920
+is greater than or equal to the
+
+636
+00:28:22,920 --> 00:28:24,920
+number of things with A and not C
+
+637
+00:28:24,920 --> 00:28:25,920
+how do you prove this?
+
+638
+00:28:25,920 --> 00:28:28,920
+you prove it by drawing pictures
+
+639
+00:28:28,920 --> 00:28:30,920
+for one reason or another
+
+640
+00:28:30,920 --> 00:28:32,920
+in all the literature that I can find
+
+641
+00:28:32,920 --> 00:28:34,920
+they never draw a picture
+
+642
+00:28:34,920 --> 00:28:36,920
+alright
+
+643
+00:28:36,920 --> 00:28:39,920
+let's draw the set
+
+644
+00:28:39,920 --> 00:28:43,920
+or let's delineate the set
+
+645
+00:28:43,920 --> 00:28:45,920
+which has property A
+
+646
+00:28:45,920 --> 00:28:47,920
+the subset which has property A
+
+647
+00:28:47,920 --> 00:28:50,920
+here's the subset which has property A
+
+648
+00:28:50,920 --> 00:28:52,420
+well let me do it the
+
+649
+00:28:52,420 --> 00:28:53,920
+way I have it in my notes
+
+650
+00:28:53,920 --> 00:28:54,920
+so I don't
+
+651
+00:28:54,920 --> 00:28:57,920
+so I don't screw up
+
+652
+00:28:57,920 --> 00:28:58,920
+yeah
+
+653
+00:28:58,920 --> 00:28:59,920
+alright
+
+654
+00:28:59,920 --> 00:29:01,920
+here's A over here
+
+655
+00:29:01,920 --> 00:29:03,920
+let's call it A
+
+656
+00:29:03,920 --> 00:29:04,920
+now
+
+657
+00:29:04,920 --> 00:29:06,920
+where is the subset B?
+
+658
+00:29:06,920 --> 00:29:10,920
+the subset B may or may not intersect A
+
+659
+00:29:10,920 --> 00:29:12,420
+if it intersects A it
+
+660
+00:29:12,420 --> 00:29:13,920
+means they have elements in common
+
+661
+00:29:13,920 --> 00:29:15,920
+if it doesn't intersect A it
+
+662
+00:29:15,920 --> 00:29:17,920
+means they don't have elements in common
+
+663
+00:29:17,920 --> 00:29:20,920
+but here's the subset B
+
+664
+00:29:20,920 --> 00:29:23,920
+and if B has no elements in common with A
+
+665
+00:29:23,920 --> 00:29:27,920
+it just means that this region over here is zero
+
+666
+00:29:27,920 --> 00:29:30,920
+that there's nothing in here
+
+667
+00:29:30,920 --> 00:29:31,920
+alright
+
+668
+00:29:31,920 --> 00:29:33,920
+but in general there'll be something in here
+
+669
+00:29:33,920 --> 00:29:35,920
+which will be those things
+
+670
+00:29:35,920 --> 00:29:37,920
+which have both A and B
+
+671
+00:29:37,920 --> 00:29:38,920
+and finally C
+
+672
+00:29:38,920 --> 00:29:40,920
+here's C
+
+673
+00:29:40,920 --> 00:29:43,420
+now again C may or may not
+
+674
+00:29:43,420 --> 00:29:45,920
+have elements in common with A or B
+
+675
+00:29:45,920 --> 00:29:47,420
+if it doesn't you just
+
+676
+00:29:47,420 --> 00:29:48,920
+move it over a little bit
+
+677
+00:29:48,920 --> 00:29:50,420
+so that it doesn't have elements
+
+678
+00:29:50,420 --> 00:29:51,920
+in common with A, B, and C
+
+679
+00:29:51,920 --> 00:29:52,920
+but the most general situation is that
+
+680
+00:29:52,920 --> 00:29:56,920
+it does have elements in common
+
+681
+00:29:56,920 --> 00:29:57,920
+but you can always
+
+682
+00:29:57,920 --> 00:30:00,920
+you lose nothing by pretending it has elements in common
+
+683
+00:30:00,920 --> 00:30:02,920
+because you can always at the end say that
+
+684
+00:30:02,920 --> 00:30:04,920
+the elements in common are just a null set
+
+685
+00:30:04,920 --> 00:30:06,920
+there are just none of them
+
+686
+00:30:06,920 --> 00:30:07,920
+okay now
+
+687
+00:30:07,920 --> 00:30:10,920
+let's also label
+
+688
+00:30:10,920 --> 00:30:12,920
+put some color in here
+
+689
+00:30:12,920 --> 00:30:15,920
+let's also label all these
+
+690
+00:30:15,920 --> 00:30:18,920
+various individual little sub-regions here
+
+691
+00:30:18,920 --> 00:30:20,920
+let's see what I call them
+
+692
+00:30:20,920 --> 00:30:22,920
+okay this region I call the sub-region of A
+
+693
+00:30:22,920 --> 00:30:24,920
+and this one out here is just one
+
+694
+00:30:24,920 --> 00:30:25,920
+what is that?
+
+695
+00:30:25,920 --> 00:30:29,920
+that's all of A which is neither B nor C
+
+696
+00:30:29,920 --> 00:30:31,920
+and I'm just going to label
+
+697
+00:30:31,920 --> 00:30:33,920
+all the various sub-areas in here
+
+698
+00:30:33,920 --> 00:30:34,920
+three
+
+699
+00:30:34,920 --> 00:30:36,920
+four
+
+700
+00:30:36,920 --> 00:30:38,920
+five
+
+701
+00:30:38,920 --> 00:30:39,920
+six
+
+702
+00:30:39,920 --> 00:30:41,920
+and seven
+
+703
+00:30:41,920 --> 00:30:43,920
+and of course there may be some
+
+704
+00:30:43,920 --> 00:30:45,920
+elements which have neither A, B, or C
+
+705
+00:30:45,920 --> 00:30:46,920
+and they'll be out here
+
+706
+00:30:46,920 --> 00:30:49,420
+but I don't even need to write
+
+707
+00:30:49,420 --> 00:30:51,920
+those down because I'm not interested in them
+
+708
+00:30:51,920 --> 00:30:52,920
+okay
+
+709
+00:30:52,920 --> 00:30:54,920
+let's take the number of elements
+
+710
+00:30:54,920 --> 00:30:56,920
+that have A and not B
+
+711
+00:30:56,920 --> 00:31:01,920
+that has A but does not have B
+
+712
+00:31:01,920 --> 00:31:02,920
+what is that?
+
+713
+00:31:02,920 --> 00:31:04,920
+that's region one and two
+
+714
+00:31:04,920 --> 00:31:08,920
+if it has A but it doesn't have B
+
+715
+00:31:08,920 --> 00:31:12,920
+that means it's A but exclude anything that has B
+
+716
+00:31:12,920 --> 00:31:15,420
+and that means that it's the number that's
+
+717
+00:31:15,420 --> 00:31:17,920
+in one plus the number that's in two
+
+718
+00:31:17,920 --> 00:31:18,920
+everybody see that?
+
+719
+00:31:18,920 --> 00:31:20,920
+okay
+
+720
+00:31:20,920 --> 00:31:21,420
+so the first thing here is that it's a
+
+721
+00:31:21,420 --> 00:31:21,920
+number that's in one plus the number that's in two
+
+722
+00:31:21,920 --> 00:31:28,920
+so the first thing here is N1 plus N2
+
+723
+00:31:28,920 --> 00:31:31,920
+that's N A not B
+
+724
+00:31:31,920 --> 00:31:34,920
+now what about the number of
+
+725
+00:31:34,920 --> 00:31:37,920
+systems which has B but not C
+
+726
+00:31:37,920 --> 00:31:40,420
+so we go over to B
+
+727
+00:31:40,420 --> 00:31:42,920
+and we exclude those that have C
+
+728
+00:31:42,920 --> 00:31:45,920
+five and six have C
+
+729
+00:31:45,920 --> 00:31:48,920
+so in looking at B
+
+730
+00:31:48,920 --> 00:31:50,920
+the things which have B but not C
+
+731
+00:31:50,920 --> 00:31:52,920
+B but not C
+
+732
+00:31:52,920 --> 00:31:53,920
+what are those?
+
+733
+00:31:53,920 --> 00:31:54,920
+that's plus
+
+734
+00:31:54,920 --> 00:31:57,920
+things which have B but not C
+
+735
+00:31:57,920 --> 00:31:59,920
+four and seven
+
+736
+00:31:59,920 --> 00:32:01,920
+four and seven right?
+
+737
+00:32:01,920 --> 00:32:07,920
+plus N4 plus N7
+
+738
+00:32:07,920 --> 00:32:09,920
+now what about N and not
+
+739
+00:32:09,920 --> 00:32:11,920
+what about A and not C?
+
+740
+00:32:11,920 --> 00:32:16,920
+A and not C is one and four?
+
+741
+00:32:16,920 --> 00:32:18,920
+A and not C is one and four
+
+742
+00:32:20,920 --> 00:32:23,920
+did I get that right?
+
+743
+00:32:23,920 --> 00:32:25,920
+sorry what I want to write
+
+744
+00:32:25,920 --> 00:32:27,920
+here is greater than or equal to
+
+745
+00:32:27,920 --> 00:32:29,920
+and then seven and not C
+
+746
+00:32:29,920 --> 00:32:31,920
+no I wrote something wrong
+
+747
+00:32:31,920 --> 00:32:34,920
+A and not C
+
+748
+00:32:34,920 --> 00:32:37,920
+four plus N7
+
+749
+00:32:37,920 --> 00:32:38,920
+say it again
+
+750
+00:32:38,920 --> 00:32:39,920
+four plus N7
+
+751
+00:32:39,920 --> 00:32:41,920
+this one and which one which one
+
+752
+00:32:41,920 --> 00:32:43,920
+and seven
+
+753
+00:32:43,920 --> 00:32:45,920
+right?
+
+754
+00:32:45,920 --> 00:32:47,920
+do I have it right? I think so yes
+
+755
+00:32:47,920 --> 00:32:48,920
+alright
+
+756
+00:32:48,920 --> 00:32:49,420
+well obviously this is a number that's
+
+757
+00:32:49,420 --> 00:32:49,920
+in one plus the number that's in two
+
+758
+00:32:50,920 --> 00:32:52,920
+here's N1 here's N4
+
+759
+00:32:52,920 --> 00:32:55,920
+obviously N1 and all the N's are positive
+
+760
+00:32:55,920 --> 00:32:57,420
+I mean there's no such thing
+
+761
+00:32:57,420 --> 00:32:58,920
+as a negative number of elements
+
+762
+00:32:58,920 --> 00:33:00,920
+alright N1 plus N2 plus N4 plus
+
+763
+00:33:00,920 --> 00:33:02,920
+N7 is certainly bigger than N1 plus N4
+
+764
+00:33:02,920 --> 00:33:04,920
+or equal to it
+
+765
+00:33:04,920 --> 00:33:06,920
+at worst it's equal to it
+
+766
+00:33:06,920 --> 00:33:08,920
+that's Bell's theorem that's the whole thing
+
+767
+00:33:08,920 --> 00:33:09,920
+that's it
+
+768
+00:33:12,920 --> 00:33:14,920
+what's amazing is that it's violated
+
+769
+00:33:14,920 --> 00:33:16,920
+it can be violated
+
+770
+00:33:20,920 --> 00:33:22,920
+it's profound
+
+771
+00:33:22,920 --> 00:33:24,920
+the violation is profound
+
+772
+00:33:24,920 --> 00:33:26,920
+yeah but all of quantum mechanics
+
+773
+00:33:26,920 --> 00:33:28,920
+violates classical physics so I mean
+
+774
+00:33:28,920 --> 00:33:30,920
+yeah
+
+775
+00:33:30,920 --> 00:33:32,920
+I
+
+776
+00:33:32,920 --> 00:33:35,420
+as I said I've always been ambivalent and
+
+777
+00:33:35,420 --> 00:33:37,920
+I'm never going to get unambivalent about it
+
+778
+00:33:37,920 --> 00:33:39,920
+I'll die being ambivalent to it
+
+779
+00:33:39,920 --> 00:33:41,920
+so you get into a quantum
+
+780
+00:33:41,920 --> 00:33:43,920
+state yourself when you think about it
+
+781
+00:33:43,920 --> 00:33:46,920
+that's when I start thinking it's profound yeah
+
+782
+00:33:46,920 --> 00:33:49,920
+okay
+
+783
+00:33:50,920 --> 00:33:56,920
+let's now take our system to be two spins
+
+784
+00:33:58,920 --> 00:34:00,920
+let's take our system to be two spins
+
+785
+00:34:00,920 --> 00:34:04,920
+and then we'll define the various properties A and B
+
+786
+00:34:04,920 --> 00:34:07,920
+A, B, and C
+
+787
+00:34:07,920 --> 00:34:09,920
+which we'll think of
+
+788
+00:34:09,920 --> 00:34:11,920
+incidentally we're still doing we're doing we're
+
+789
+00:34:11,920 --> 00:34:13,920
+imagining let's see what we imagine well
+
+790
+00:34:13,920 --> 00:34:15,920
+yeah
+
+791
+00:34:15,920 --> 00:34:18,920
+we'll first pretend
+
+792
+00:34:18,920 --> 00:34:20,920
+that the spins are classical
+
+793
+00:34:20,920 --> 00:34:23,920
+and that you can measure them
+
+794
+00:34:23,920 --> 00:34:25,920
+as if they were classical objects
+
+795
+00:34:25,920 --> 00:34:29,920
+and we'll write down what Bell's inequality says
+
+796
+00:34:29,920 --> 00:34:31,920
+for the system of two spins
+
+797
+00:34:32,920 --> 00:34:34,420
+the only thing you need to know
+
+798
+00:34:34,420 --> 00:34:35,920
+and you have to keep track of
+
+799
+00:34:35,920 --> 00:34:37,920
+I'm going to talk about spin one
+
+800
+00:34:37,920 --> 00:34:39,920
+I'm only going to talk about spin one
+
+801
+00:34:40,920 --> 00:34:42,420
+but what I'm going to say
+
+802
+00:34:42,420 --> 00:34:43,920
+is we're going to say things like
+
+803
+00:34:43,920 --> 00:34:45,920
+here might be a proposition
+
+804
+00:34:45,920 --> 00:34:48,920
+a proposition might be that spin one
+
+805
+00:34:48,920 --> 00:34:50,920
+let's see I guess uh
+
+806
+00:34:50,920 --> 00:34:53,920
+how did I label this
+
+807
+00:34:53,920 --> 00:34:56,920
+spin one is up
+
+808
+00:34:56,920 --> 00:34:59,920
+along z-axis
+
+809
+00:34:59,920 --> 00:35:02,920
+along the third axis
+
+810
+00:35:02,920 --> 00:35:05,920
+that could be some proposition
+
+811
+00:35:05,920 --> 00:35:07,920
+well I can
+
+812
+00:35:07,920 --> 00:35:09,920
+the negative of it
+
+813
+00:35:09,920 --> 00:35:11,920
+is spin one is not up along the third axis
+
+814
+00:35:11,920 --> 00:35:13,920
+but of course that's the same as
+
+815
+00:35:13,920 --> 00:35:15,920
+saying it's down along the third axis
+
+816
+00:35:15,920 --> 00:35:17,420
+but if spin one is
+
+817
+00:35:17,420 --> 00:35:18,920
+measured down along the third axis
+
+818
+00:35:18,920 --> 00:35:21,420
+then you can be sure that
+
+819
+00:35:21,420 --> 00:35:23,920
+two is up along the third axis
+
+820
+00:35:23,920 --> 00:35:25,920
+so the negative
+
+821
+00:35:25,920 --> 00:35:27,920
+in the singlet state
+
+822
+00:35:27,920 --> 00:35:29,420
+in the singlet state we're putting
+
+823
+00:35:29,420 --> 00:35:30,920
+the electrons into the singlet state
+
+824
+00:35:30,920 --> 00:35:31,920
+alright
+
+825
+00:35:31,920 --> 00:35:35,920
+and if classical logic if ordinary logic made any sense
+
+826
+00:35:35,920 --> 00:35:36,920
+here's what we would do
+
+827
+00:35:36,920 --> 00:35:39,920
+we would measure we have a whole beam of these
+
+828
+00:35:39,920 --> 00:35:40,920
+of these electron pairs
+
+829
+00:35:40,920 --> 00:35:43,420
+zillions of them zillions of pairs
+
+830
+00:35:43,420 --> 00:35:45,920
+which are each correlated in this fashion
+
+831
+00:35:45,920 --> 00:35:46,920
+separate from each other
+
+832
+00:35:46,920 --> 00:35:48,920
+and you measure the first hundred thousand
+
+833
+00:35:48,920 --> 00:35:49,920
+of them
+
+834
+00:35:49,920 --> 00:35:51,920
+in every possible direction
+
+835
+00:35:51,920 --> 00:35:53,920
+you measure sigma one and tau one
+
+836
+00:35:53,920 --> 00:35:55,920
+you measure sigma three and tau three
+
+837
+00:35:55,920 --> 00:35:57,920
+for many many of them
+
+838
+00:35:57,920 --> 00:35:59,920
+and you convince yourself after
+
+839
+00:35:59,920 --> 00:36:01,920
+a long tedious bunch of experiments
+
+840
+00:36:01,920 --> 00:36:06,920
+that every time you measure a component of this spin
+
+841
+00:36:06,920 --> 00:36:08,920
+and you measure a component of the same
+
+842
+00:36:08,920 --> 00:36:10,920
+the same component of the other spin
+
+843
+00:36:10,920 --> 00:36:13,920
+that they're always opposite to each other
+
+844
+00:36:13,920 --> 00:36:16,920
+in that case I think we would all agree
+
+845
+00:36:16,920 --> 00:36:17,920
+that
+
+846
+00:36:17,920 --> 00:36:19,920
+that the negative
+
+847
+00:36:19,920 --> 00:36:23,920
+of saying or the opposite of saying a is up
+
+848
+00:36:23,920 --> 00:36:25,920
+is saying that b is up
+
+849
+00:36:25,920 --> 00:36:29,920
+because if a is down then b is up
+
+850
+00:36:29,920 --> 00:36:34,920
+so the negative of a proposition about one spin
+
+851
+00:36:34,920 --> 00:36:37,920
+becomes the positive statement
+
+852
+00:36:37,920 --> 00:36:39,920
+about the other spin
+
+853
+00:36:39,920 --> 00:36:42,920
+the negative of spin one
+
+854
+00:36:42,920 --> 00:36:45,920
+spin what is it called a or one I forgot
+
+855
+00:36:45,920 --> 00:36:46,920
+the negative of calling this spin one is up
+
+856
+00:36:46,920 --> 00:36:48,920
+the negative of calling this spin
+
+857
+00:36:48,920 --> 00:36:50,920
+the negative of this spin being up
+
+858
+00:36:50,920 --> 00:36:52,920
+is the spin down
+
+859
+00:36:52,920 --> 00:36:54,420
+but then it's the same as
+
+860
+00:36:54,420 --> 00:36:55,920
+saying that this spin is up
+
+861
+00:36:55,920 --> 00:36:57,920
+so we just have to keep track of what
+
+862
+00:36:57,920 --> 00:37:01,920
+of the relationship between these various propositions
+
+863
+00:37:01,920 --> 00:37:04,920
+okay we're going to write down
+
+864
+00:37:04,920 --> 00:37:07,920
+what a b and c are
+
+865
+00:37:07,920 --> 00:37:10,920
+a
+
+866
+00:37:10,920 --> 00:37:13,920
+and we're only going to talk about spin one
+
+867
+00:37:13,920 --> 00:37:14,920
+at first
+
+868
+00:37:14,920 --> 00:37:16,920
+but then we're going to use spin two
+
+869
+00:37:16,920 --> 00:37:19,920
+to tell us something about spin one
+
+870
+00:37:19,920 --> 00:37:20,920
+all right
+
+871
+00:37:20,920 --> 00:37:23,920
+so a is up
+
+872
+00:37:23,920 --> 00:37:28,920
+along three axis
+
+873
+00:37:28,920 --> 00:37:30,920
+that's a
+
+874
+00:37:30,920 --> 00:37:31,920
+okay
+
+875
+00:37:31,920 --> 00:37:32,920
+b
+
+876
+00:37:32,920 --> 00:37:38,920
+this equal sign here just means is the statement
+
+877
+00:37:38,920 --> 00:37:40,920
+is the statement
+
+878
+00:37:40,920 --> 00:37:44,920
+that spin one is up along the third axis
+
+879
+00:37:44,920 --> 00:37:45,920
+b
+
+880
+00:37:45,920 --> 00:37:49,920
+is that spin one is up
+
+881
+00:37:49,920 --> 00:37:58,920
+along a forty five degree angle
+
+882
+00:37:58,920 --> 00:38:00,920
+the forty five degree angle
+
+883
+00:38:00,920 --> 00:38:02,920
+could be in the um
+
+884
+00:38:02,920 --> 00:38:04,920
+in the zx plane
+
+885
+00:38:04,920 --> 00:38:05,920
+in the zx plane for example
+
+886
+00:38:05,920 --> 00:38:07,920
+let's take it to be in the zx plane
+
+887
+00:38:07,920 --> 00:38:10,920
+so b says spin one is up along
+
+888
+00:38:10,920 --> 00:38:13,920
+the forty five degree angle in the zx plane
+
+889
+00:38:13,920 --> 00:38:14,920
+and c
+
+890
+00:38:14,920 --> 00:38:16,920
+says that
+
+891
+00:38:16,920 --> 00:38:18,920
+one is up
+
+892
+00:38:18,920 --> 00:38:20,920
+along
+
+893
+00:38:20,920 --> 00:38:22,920
+the ninety degree direction
+
+894
+00:38:22,920 --> 00:38:23,920
+in the xy plane
+
+895
+00:38:23,920 --> 00:38:24,920
+in the uh zy
+
+896
+00:38:24,920 --> 00:38:25,920
+in the zx plane
+
+897
+00:38:25,920 --> 00:38:27,920
+okay so here's our picture
+
+898
+00:38:27,920 --> 00:38:29,420
+a says that the spin
+
+899
+00:38:29,420 --> 00:38:30,920
+is up along the third axis
+
+900
+00:38:30,920 --> 00:38:32,920
+b
+
+901
+00:38:32,920 --> 00:38:33,920
+says that it's
+
+902
+00:38:33,920 --> 00:38:36,920
+lies at forty five degrees along the uh
+
+903
+00:38:36,920 --> 00:38:38,920
+uh
+
+904
+00:38:38,920 --> 00:38:39,920
+zx plane
+
+905
+00:38:39,920 --> 00:38:40,920
+and c
+
+906
+00:38:40,920 --> 00:38:42,920
+says that the spin is up along the third axis
+
+907
+00:38:42,920 --> 00:38:44,920
+uh
+
+908
+00:38:44,920 --> 00:38:45,920
+along the forty
+
+909
+00:38:45,920 --> 00:38:46,920
+along that axis
+
+910
+00:38:46,920 --> 00:38:49,420
+and c says that it lies
+
+911
+00:38:49,420 --> 00:38:51,920
+at ninety degrees along that axis
+
+912
+00:38:51,920 --> 00:38:56,920
+a b c
+
+913
+00:38:56,920 --> 00:38:57,920
+okay
+
+914
+00:38:57,920 --> 00:38:59,920
+now what about
+
+915
+00:38:59,920 --> 00:39:00,920
+not b
+
+916
+00:39:00,920 --> 00:39:01,920
+let's take not
+
+917
+00:39:01,920 --> 00:39:03,920
+well first of all let's take not a
+
+918
+00:39:03,920 --> 00:39:05,920
+i don't think we need not a for anything
+
+919
+00:39:05,920 --> 00:39:07,920
+we will need not b
+
+920
+00:39:07,920 --> 00:39:09,920
+not b
+
+921
+00:39:09,920 --> 00:39:11,920
+says that one does not lie
+
+922
+00:39:12,920 --> 00:39:13,920
+reveal
+
+923
+00:39:31,920 --> 00:39:32,920
+b
+
+924
+00:39:37,920 --> 00:39:40,500
+A
+
+925
+00:39:40,500 --> 00:39:42,800
+it says that
+
+926
+00:39:42,800 --> 00:39:44,740
+is that 2 is up along the 45 degree.
+
+927
+00:39:44,860 --> 00:39:45,540
+Okay, you get the idea?
+
+928
+00:39:46,260 --> 00:39:48,220
+Same thing for C, not C,
+
+929
+00:39:49,520 --> 00:39:55,420
+is that 2 is up along 90 degrees.
+
+930
+00:39:58,640 --> 00:40:00,780
+Okay, so now we can plug into here
+
+931
+00:40:00,780 --> 00:40:02,720
+what these various statements say.
+
+932
+00:40:02,720 --> 00:40:03,500
+Hmm?
+
+933
+00:40:04,000 --> 00:40:04,360
+Down.
+
+934
+00:40:04,620 --> 00:40:05,840
+2 is down along 90.
+
+935
+00:40:07,520 --> 00:40:08,360
+No?
+
+936
+00:40:08,660 --> 00:40:08,940
+No.
+
+937
+00:40:09,820 --> 00:40:11,100
+Not C.
+
+938
+00:40:11,320 --> 00:40:11,600
+Let's see.
+
+939
+00:40:11,600 --> 00:40:14,759
+C says that 1 is up along the 90.
+
+940
+00:40:15,480 --> 00:40:18,460
+Not C says 1 is down along the 90,
+
+941
+00:40:18,759 --> 00:40:22,080
+but then 2 is up.
+
+942
+00:40:23,100 --> 00:40:23,380
+Okay?
+
+943
+00:40:24,020 --> 00:40:26,220
+So whatever the statement is,
+
+944
+00:40:26,520 --> 00:40:27,940
+the not of the statement
+
+945
+00:40:27,940 --> 00:40:29,640
+is the original statement
+
+946
+00:40:29,640 --> 00:40:31,040
+except made on the other spin.
+
+947
+00:40:31,940 --> 00:40:32,180
+Okay?
+
+948
+00:40:32,460 --> 00:40:33,020
+Is that clear?
+
+949
+00:40:33,120 --> 00:40:34,440
+The other spin is in the opposite direction.
+
+950
+00:40:34,520 --> 00:40:35,160
+That's all it says.
+
+951
+00:40:35,860 --> 00:40:37,920
+So whatever a not statement is,
+
+952
+00:40:38,440 --> 00:40:40,420
+it becomes a yes statement
+
+953
+00:40:40,420 --> 00:40:41,580
+about the other spin.
+
+954
+00:40:41,600 --> 00:40:42,000
+Okay.
+
+955
+00:40:43,759 --> 00:40:46,400
+So let's write down what this says.
+
+956
+00:40:47,060 --> 00:40:48,720
+All right, this says the number of pairs,
+
+957
+00:40:48,839 --> 00:40:51,240
+the entities now are pairs of electrons.
+
+958
+00:40:51,819 --> 00:40:52,920
+Pairs of electrons.
+
+959
+00:40:54,900 --> 00:40:56,380
+This becomes then
+
+960
+00:40:56,380 --> 00:40:58,600
+the number of
+
+961
+00:41:00,020 --> 00:41:02,520
+pairs
+
+962
+00:41:02,520 --> 00:41:05,680
+with spin up.
+
+963
+00:41:06,440 --> 00:41:07,600
+Let's call it
+
+964
+00:41:07,600 --> 00:41:11,520
+spin 1 is up
+
+965
+00:41:11,520 --> 00:41:13,520
+along,
+
+966
+00:41:13,520 --> 00:41:15,520
+up at 0 degrees.
+
+967
+00:41:15,520 --> 00:41:17,520
+Up
+
+968
+00:41:17,520 --> 00:41:19,520
+at 0 degrees.
+
+969
+00:41:19,520 --> 00:41:21,520
+And the other spin,
+
+970
+00:41:21,520 --> 00:41:23,520
+let's see, we want not B.
+
+971
+00:41:23,520 --> 00:41:25,520
+Not B is that the other spin
+
+972
+00:41:25,520 --> 00:41:27,520
+is up along the 45 degree angle.
+
+973
+00:41:27,520 --> 00:41:29,520
+All right?
+
+974
+00:41:29,520 --> 00:41:31,520
+So the second spin,
+
+975
+00:41:31,520 --> 00:41:33,520
+this is the first spin.
+
+976
+00:41:33,520 --> 00:41:35,520
+Here I'm writing in the second spin.
+
+977
+00:41:35,520 --> 00:41:37,520
+Up along 45 degrees.
+
+978
+00:41:37,520 --> 00:41:39,520
+Up along 45 degrees.
+
+979
+00:41:39,520 --> 00:41:41,520
+Up along 45 degrees.
+
+980
+00:41:41,520 --> 00:41:42,520
+All right?
+
+981
+00:41:42,520 --> 00:41:45,520
+A is that spin 1
+
+982
+00:41:45,520 --> 00:41:48,520
+is up along the third axis.
+
+983
+00:41:48,520 --> 00:41:50,520
+And not B is that spin
+
+984
+00:41:50,520 --> 00:41:52,520
+2 is up along 45 degrees.
+
+985
+00:41:52,520 --> 00:41:54,520
+It should be 2.
+
+986
+00:41:54,520 --> 00:41:55,520
+Hmm?
+
+987
+00:41:55,520 --> 00:41:56,520
+You should say 2 there.
+
+988
+00:41:56,520 --> 00:41:58,520
+Yeah, this stands for electron 1.
+
+989
+00:41:58,520 --> 00:42:00,520
+This stands for electron 2.
+
+990
+00:42:00,520 --> 00:42:01,520
+Okay?
+
+991
+00:42:01,520 --> 00:42:03,520
+The first entry here is electron 1.
+
+992
+00:42:03,520 --> 00:42:06,520
+The second entry here is electron 2.
+
+993
+00:42:08,520 --> 00:42:09,520
+Next.
+
+994
+00:42:09,520 --> 00:42:10,520
+B not C.
+
+995
+00:42:10,520 --> 00:42:12,520
+Now, I don't have to worry about B not C.
+
+996
+00:42:12,520 --> 00:42:14,520
+And I'll tell you why.
+
+997
+00:42:14,520 --> 00:42:16,020
+It's got to be exactly
+
+998
+00:42:16,020 --> 00:42:17,520
+the same as A not B.
+
+999
+00:42:17,520 --> 00:42:19,520
+Why is that?
+
+1000
+00:42:19,520 --> 00:42:25,020
+Um, B, A not B and B not C are
+
+1001
+00:42:25,020 --> 00:42:30,520
+simply related by rotating by, uh, by, by 45 degrees.
+
+1002
+00:42:30,520 --> 00:42:35,020
+Anything I can say about A and not B will be exactly the same
+
+1003
+00:42:35,020 --> 00:42:39,520
+as B and not C because they're identical to each other except for a rotation.
+
+1004
+00:42:39,520 --> 00:42:40,520
+Okay?
+
+1005
+00:42:40,520 --> 00:42:42,020
+And, uh, the singlet state doesn't change
+
+1006
+00:42:42,020 --> 00:42:43,520
+if you rotate it by 45 degrees.
+
+1007
+00:42:43,520 --> 00:42:45,520
+That's, uh, that's the main thing about it.
+
+1008
+00:42:45,520 --> 00:42:47,520
+It doesn't change when you rotate.
+
+1009
+00:42:47,520 --> 00:42:49,020
+We saw that by seeing that the spin,
+
+1010
+00:42:49,020 --> 00:42:50,520
+total spin is the same in every direction.
+
+1011
+00:42:50,520 --> 00:42:52,020
+So in fact, uh, we can
+
+1012
+00:42:52,020 --> 00:42:53,520
+just take this to be twice.
+
+1013
+00:42:53,520 --> 00:42:55,520
+The sum of this and this are just twice the
+
+1014
+00:42:55,520 --> 00:42:57,520
+number of up at 0 degrees and down at 45 degrees.
+
+1015
+00:42:57,520 --> 00:42:59,020
+So, um, I'm going to give you a little
+
+1016
+00:42:59,020 --> 00:43:00,520
+bit of a, a little bit of a rough idea.
+
+1017
+00:43:00,520 --> 00:43:02,020
+I'm going to give you a little bit
+
+1018
+00:43:02,020 --> 00:43:03,520
+of a rough idea of what this is.
+
+1019
+00:43:03,520 --> 00:43:05,020
+So, uh, I'm going to give you a little
+
+1020
+00:43:05,020 --> 00:43:06,520
+bit of a rough idea of what this is.
+
+1021
+00:43:06,520 --> 00:43:09,020
+So, uh, we can rotate
+
+1022
+00:43:09,020 --> 00:43:11,520
+the spin, uh, by 45 degrees.
+
+1023
+00:43:11,520 --> 00:43:15,020
+And we can see that the spin is always going
+
+1024
+00:43:15,020 --> 00:43:18,520
+to be at 0 degrees and down at 45 degrees.
+
+1025
+00:43:18,520 --> 00:43:21,020
+And Bell's theorem, if it were true, would tell
+
+1026
+00:43:21,020 --> 00:43:23,520
+us that this is greater than, necessarily greater than,
+
+1027
+00:43:23,520 --> 00:43:29,020
+greater than or equal to the number
+
+1028
+00:43:29,020 --> 00:43:34,520
+of pairs with the property that they're up.
+
+1029
+00:43:34,520 --> 00:43:35,520
+Uh.
+
+1030
+00:43:36,520 --> 00:43:41,520
+Yeah.
+
+1031
+00:43:41,520 --> 00:43:44,520
+Yeah, C is up along 90 degrees.
+
+1032
+00:43:44,520 --> 00:43:46,520
+Um.
+
+1033
+00:43:46,520 --> 00:43:49,520
+A is 1 up at, along 3.
+
+1034
+00:43:49,520 --> 00:43:50,520
+Along 0.
+
+1035
+00:43:50,520 --> 00:43:51,520
+What's that?
+
+1036
+00:43:51,520 --> 00:43:52,520
+Along the Z axis.
+
+1037
+00:43:52,520 --> 00:43:54,520
+1 up at 0.
+
+1038
+00:43:54,520 --> 00:43:56,520
+Yeah, okay, so right.
+
+1039
+00:43:56,520 --> 00:44:02,520
+A is 1 is up at 0 degrees.
+
+1040
+00:44:02,520 --> 00:44:05,520
+And not C means 2 is up along 90 degrees.
+
+1041
+00:44:06,520 --> 00:44:14,520
+2 is up at 90 degrees.
+
+1042
+00:44:14,520 --> 00:44:16,520
+Well, now we have something we can test.
+
+1043
+00:44:16,520 --> 00:44:19,020
+Incidentally, counting the number of them is the same
+
+1044
+00:44:19,020 --> 00:44:21,520
+as counting the probability for these things to be true.
+
+1045
+00:44:21,520 --> 00:44:25,520
+If we have a large number of identical things in
+
+1046
+00:44:25,520 --> 00:44:29,520
+an ensemble, measuring the number is just measuring the probability.
+
+1047
+00:44:29,520 --> 00:44:32,020
+Okay, if we have 100,000 pairs,
+
+1048
+00:44:32,020 --> 00:44:34,520
+the number which has a certain property,
+
+1049
+00:44:34,520 --> 00:44:38,520
+is just a certain percentage of 100,000, which
+
+1050
+00:44:38,520 --> 00:44:42,520
+is given, the percentage is given by the probability.
+
+1051
+00:44:42,520 --> 00:44:44,520
+Okay, so here's the question.
+
+1052
+00:44:44,520 --> 00:44:48,520
+In the singlet state, what is the probability, what
+
+1053
+00:44:48,520 --> 00:44:52,520
+are these various probabilities, the probability for, uh, for,
+
+1054
+00:44:52,520 --> 00:44:54,520
+first electron to be up at 0 degrees and
+
+1055
+00:44:54,520 --> 00:44:56,520
+the second electron to be up at 45 degrees.
+
+1056
+00:44:56,520 --> 00:44:58,520
+How do we calculate that?
+
+1057
+00:44:58,520 --> 00:44:59,520
+Alright.
+
+1058
+00:44:59,520 --> 00:45:02,520
+I want to, here's a question.
+
+1059
+00:45:02,520 --> 00:45:04,520
+I'm going to tell you the answer right now.
+
+1060
+00:45:04,520 --> 00:45:06,520
+The answer right now is that this
+
+1061
+00:45:06,520 --> 00:45:08,520
+is less than this when you calculate it.
+
+1062
+00:45:08,520 --> 00:45:10,520
+We're going to calculate it.
+
+1063
+00:45:10,520 --> 00:45:15,020
+But this is less than this and it simply
+
+1064
+00:45:15,020 --> 00:45:19,520
+violates the very, very elementary theorem that, uh, that Bell,
+
+1065
+00:45:19,520 --> 00:45:22,020
+it's hardly a theorem, it's just
+
+1066
+00:45:22,020 --> 00:45:24,520
+a very simple observation about, uh, probabilities.
+
+1067
+00:45:24,520 --> 00:45:25,520
+Okay.
+
+1068
+00:45:25,520 --> 00:45:29,520
+Um.
+
+1069
+00:45:29,520 --> 00:45:31,520
+Let's see if we can calculate these things.
+
+1070
+00:45:32,520 --> 00:45:37,520
+What I need to do in order to calculate
+
+1071
+00:45:37,520 --> 00:45:42,520
+them efficiently is to teach you about projection operators.
+
+1072
+00:45:42,520 --> 00:45:45,520
+So let me tell you what a projection operator is.
+
+1073
+00:45:45,520 --> 00:45:48,520
+And let me give you an alternative definition
+
+1074
+00:45:48,520 --> 00:45:51,520
+of the probability, uh, uh, postulate of quantum mechanics.
+
+1075
+00:45:51,520 --> 00:45:56,020
+A projection operator, it's labeled like
+
+1076
+00:45:56,020 --> 00:46:00,520
+that, projection operator, P for projection operator,
+
+1077
+00:46:00,520 --> 00:46:02,520
+has a number of properties.
+
+1078
+00:46:02,520 --> 00:46:04,020
+But first I'm going to tell you what it,
+
+1079
+00:46:04,020 --> 00:46:05,520
+I'll give you a picture of what it does.
+
+1080
+00:46:05,520 --> 00:46:08,020
+What it would do, an
+
+1081
+00:46:08,020 --> 00:46:10,520
+ordinary projection operator in three-dimensional space,
+
+1082
+00:46:10,520 --> 00:46:12,520
+if my vector space happened to
+
+1083
+00:46:12,520 --> 00:46:14,520
+be just vectors in three dimensions,
+
+1084
+00:46:14,520 --> 00:46:16,520
+then there are subspaces.
+
+1085
+00:46:16,520 --> 00:46:18,520
+A subspace of three-dimensional
+
+1086
+00:46:18,520 --> 00:46:20,520
+space could be zero-dimensional,
+
+1087
+00:46:20,520 --> 00:46:23,520
+that's just a point, just the origin, nothing at all.
+
+1088
+00:46:23,520 --> 00:46:26,020
+It could be a one-dimensional subspace, which is
+
+1089
+00:46:26,020 --> 00:46:28,520
+just a line sticking out of the origin,
+
+1090
+00:46:28,520 --> 00:46:29,520
+or a two-dimensional subspace, which is
+
+1091
+00:46:29,520 --> 00:46:30,520
+a plane passing through the origin.
+
+1092
+00:46:30,520 --> 00:46:31,520
+Okay.
+
+1093
+00:46:31,520 --> 00:46:35,020
+Um, if you like, it's the
+
+1094
+00:46:35,020 --> 00:46:38,520
+space which is, well, you get it,
+
+1095
+00:46:38,520 --> 00:46:42,020
+if you have a pair, a two-dimensional vector
+
+1096
+00:46:42,020 --> 00:46:45,520
+space would be take any pair of vectors,
+
+1097
+00:46:45,520 --> 00:46:49,020
+and think of all the vectors that you
+
+1098
+00:46:49,020 --> 00:46:52,520
+can make by adding these two with arbitrary coefficients.
+
+1099
+00:46:52,520 --> 00:46:55,020
+All those vectors will lie in
+
+1100
+00:46:55,020 --> 00:46:57,520
+the plane of those two vectors.
+
+1101
+00:46:57,520 --> 00:46:59,520
+That's the subspace which is spanned by two vectors.
+
+1102
+00:46:59,520 --> 00:47:02,520
+If I have only one vector, and
+
+1103
+00:47:02,520 --> 00:47:05,520
+I want it, but that's a one-dimensional subspace,
+
+1104
+00:47:05,520 --> 00:47:09,520
+then it's all the vectors that lie along a line.
+
+1105
+00:47:09,520 --> 00:47:11,520
+If you have a higher
+
+1106
+00:47:11,520 --> 00:47:13,520
+dimensional subspace, then, uh, I'm sorry,
+
+1107
+00:47:13,520 --> 00:47:17,020
+a higher dimensional space, then you can have subspaces
+
+1108
+00:47:17,020 --> 00:47:20,520
+up to the dimensionality of one less than the, uh,
+
+1109
+00:47:20,520 --> 00:47:22,520
+than the space itself.
+
+1110
+00:47:22,520 --> 00:47:24,520
+All right, what is a projection operator?
+
+1111
+00:47:24,520 --> 00:47:26,020
+A projection operator, in particular a
+
+1112
+00:47:26,020 --> 00:47:27,520
+projection operator onto a one-dimensional space,
+
+1113
+00:47:27,520 --> 00:47:28,520
+is a projection operator.
+
+1114
+00:47:28,520 --> 00:47:31,520
+It's an operator which takes any vector,
+
+1115
+00:47:31,520 --> 00:47:35,520
+and takes its projection onto that subspace,
+
+1116
+00:47:35,520 --> 00:47:38,020
+and gives you the vector which
+
+1117
+00:47:38,020 --> 00:47:40,520
+is the projection along the subspace,
+
+1118
+00:47:40,520 --> 00:47:44,520
+uh, of the original vector.
+
+1119
+00:47:44,520 --> 00:47:48,520
+It's an operator, so it will operate on a vector,
+
+1120
+00:47:48,520 --> 00:47:50,520
+it's called alpha,
+
+1121
+00:47:50,520 --> 00:47:53,520
+to give you the projection along the subspace,
+
+1122
+00:47:53,520 --> 00:47:56,520
+uh, of the original vector.
+
+1123
+00:47:56,520 --> 00:47:59,520
+It's called alpha, to give you the projection,
+
+1124
+00:47:59,520 --> 00:48:03,520
+let's call it alpha sub p, onto the appropriate subspace.
+
+1125
+00:48:03,520 --> 00:48:05,520
+If the subspace is this line here,
+
+1126
+00:48:05,520 --> 00:48:08,520
+then it would act on any vector
+
+1127
+00:48:08,520 --> 00:48:11,520
+to give you the projection onto that subspace.
+
+1128
+00:48:11,520 --> 00:48:13,520
+Okay.
+
+1129
+00:48:13,520 --> 00:48:15,520
+So that's what it does.
+
+1130
+00:48:15,520 --> 00:48:18,520
+It takes away, it removes the components of a vector
+
+1131
+00:48:18,520 --> 00:48:21,520
+in directions perpendicular to the subspace.
+
+1132
+00:48:21,520 --> 00:48:23,520
+It just chops them out and removes them.
+
+1133
+00:48:23,520 --> 00:48:24,520
+Okay.
+
+1134
+00:48:24,520 --> 00:48:25,520
+Um,
+
+1135
+00:48:25,520 --> 00:48:26,520
+let's see.
+
+1136
+00:48:26,520 --> 00:48:29,520
+How about projection onto a two-dimensional subspace?
+
+1137
+00:48:29,520 --> 00:48:32,520
+A simple two-dimensional subspace would just be,
+
+1138
+00:48:32,520 --> 00:48:35,520
+let's say, the, uh, x-y plane.
+
+1139
+00:48:35,520 --> 00:48:40,520
+Just the x-y plane here would be a two-dimensional subspace.
+
+1140
+00:48:40,520 --> 00:48:42,520
+If I have an arbitrary vector,
+
+1141
+00:48:42,520 --> 00:48:45,520
+then it just projects onto the plane,
+
+1142
+00:48:45,520 --> 00:48:47,520
+and gives you the projection onto the plane.
+
+1143
+00:48:47,520 --> 00:48:49,520
+Okay.
+
+1144
+00:48:49,520 --> 00:48:52,520
+That's the notion of a projection operator.
+
+1145
+00:48:52,520 --> 00:48:53,520
+Now,
+
+1146
+00:48:53,520 --> 00:48:55,520
+suppose we have some properties,
+
+1147
+00:48:55,520 --> 00:48:57,520
+that we're interested in.
+
+1148
+00:48:57,520 --> 00:48:59,520
+The property is,
+
+1149
+00:48:59,520 --> 00:49:01,520
+let's take the property to be,
+
+1150
+00:49:01,520 --> 00:49:06,520
+the spin is up along the third axis.
+
+1151
+00:49:06,520 --> 00:49:08,520
+There's an eigenvector that goes with that.
+
+1152
+00:49:08,520 --> 00:49:11,520
+The up eigenvector along the third axis.
+
+1153
+00:49:11,520 --> 00:49:13,520
+Therefore, there's a projection operator
+
+1154
+00:49:13,520 --> 00:49:15,520
+that goes with that statement.
+
+1155
+00:49:15,520 --> 00:49:18,520
+The statement that the spin is up along the x-axis
+
+1156
+00:49:18,520 --> 00:49:21,520
+corresponds to a projection operator.
+
+1157
+00:49:21,520 --> 00:49:24,520
+It's the projection operator which projects onto
+
+1158
+00:49:24,520 --> 00:49:27,020
+the eigenvector in which the spin
+
+1159
+00:49:27,020 --> 00:49:29,520
+is up along the third axis.
+
+1160
+00:49:29,520 --> 00:49:30,520
+Okay.
+
+1161
+00:49:30,520 --> 00:49:32,520
+So, what does it do?
+
+1162
+00:49:32,520 --> 00:49:34,520
+It takes any state,
+
+1163
+00:49:34,520 --> 00:49:38,520
+the projection operator that projects onto spin being up,
+
+1164
+00:49:38,520 --> 00:49:41,520
+for one spin, let's just talk about one spin.
+
+1165
+00:49:41,520 --> 00:49:43,520
+What is that?
+
+1166
+00:49:43,520 --> 00:49:45,520
+It's an operator which takes any vector,
+
+1167
+00:49:45,520 --> 00:49:48,520
+let's call it alpha-beta,
+
+1168
+00:49:48,520 --> 00:49:49,520
+and what does it give?
+
+1169
+00:49:49,520 --> 00:49:53,520
+This is projection onto sigma-3 equals one.
+
+1170
+00:49:53,520 --> 00:49:55,520
+What does it give?
+
+1171
+00:49:55,520 --> 00:49:57,520
+How high it is?
+
+1172
+00:49:57,520 --> 00:49:58,520
+How high it is?
+
+1173
+00:49:58,520 --> 00:50:00,520
+How far it intersects the what?
+
+1174
+00:50:00,520 --> 00:50:02,520
+The vertical axis?
+
+1175
+00:50:02,520 --> 00:50:04,520
+No, it just throws away beta.
+
+1176
+00:50:04,520 --> 00:50:06,520
+It just throws it away.
+
+1177
+00:50:06,520 --> 00:50:08,520
+Beta is orthogonal.
+
+1178
+00:50:08,520 --> 00:50:11,520
+The state with the lower entry here is orthogonal
+
+1179
+00:50:11,520 --> 00:50:14,520
+to the state in which the spin is up.
+
+1180
+00:50:14,520 --> 00:50:16,520
+Okay?
+
+1181
+00:50:16,520 --> 00:50:18,520
+So, all it does is it
+
+1182
+00:50:18,520 --> 00:50:20,520
+takes the spin,
+
+1183
+00:50:20,520 --> 00:50:22,520
+and it's going to project onto the third axis.
+
+1184
+00:50:23,520 --> 00:50:26,520
+It picks out the component of the vector
+
+1185
+00:50:26,520 --> 00:50:31,520
+along the particular property that you're interested in.
+
+1186
+00:50:31,520 --> 00:50:36,520
+So, it just gives you alpha-0.
+
+1187
+00:50:36,520 --> 00:50:38,520
+It throws away the piece of the vector
+
+1188
+00:50:38,520 --> 00:50:40,520
+that has to do with spin being down.
+
+1189
+00:50:40,520 --> 00:50:46,520
+What does P3 equal minus, sorry,
+
+1190
+00:50:46,520 --> 00:50:49,520
+P3, P sigma-3 equals minus one
+
+1191
+00:50:49,520 --> 00:50:51,520
+do on the same vector?
+
+1192
+00:50:53,520 --> 00:50:55,520
+It throws away alpha.
+
+1193
+00:50:55,520 --> 00:50:57,520
+It throws away alpha.
+
+1194
+00:51:03,520 --> 00:51:06,520
+All right, here's an alternative formulation.
+
+1195
+00:51:06,520 --> 00:51:08,520
+What's that?
+
+1196
+00:51:08,520 --> 00:51:10,520
+Sigma-3.
+
+1197
+00:51:10,520 --> 00:51:12,520
+Sigma-3 equals minus one, excuse me.
+
+1198
+00:51:12,520 --> 00:51:14,520
+Okay.
+
+1199
+00:51:14,520 --> 00:51:18,520
+Incidentally, P is an operator.
+
+1200
+00:51:18,520 --> 00:51:20,520
+It operates on a vector to give a new vector.
+
+1201
+00:51:20,520 --> 00:51:22,520
+There must be a matrix that goes with it.
+
+1202
+00:51:23,520 --> 00:51:25,520
+Let me tell you what the matrix is.
+
+1203
+00:51:25,520 --> 00:51:34,520
+Okay.
+
+1204
+00:51:34,520 --> 00:51:41,520
+The projection operator onto sigma-3 equals plus one.
+
+1205
+00:51:41,520 --> 00:51:46,520
+That's the matrix one, zero, zero, zero.
+
+1206
+00:51:46,520 --> 00:51:48,520
+Let's check that.
+
+1207
+00:51:48,520 --> 00:51:50,520
+Suppose that acts on alpha-beta.
+
+1208
+00:51:50,520 --> 00:51:51,520
+What does it give?
+
+1209
+00:51:51,520 --> 00:51:53,520
+It gives one times alpha.
+
+1210
+00:51:53,520 --> 00:51:56,520
+And zero times beta.
+
+1211
+00:51:56,520 --> 00:52:00,520
+Zero times beta.
+
+1212
+00:52:00,520 --> 00:52:01,520
+Okay.
+
+1213
+00:52:01,520 --> 00:52:03,520
+So that's true.
+
+1214
+00:52:03,520 --> 00:52:05,520
+There's another way to write it,
+
+1215
+00:52:05,520 --> 00:52:07,520
+which is going to be very efficient.
+
+1216
+00:52:07,520 --> 00:52:09,520
+We're going to find it very, very useful
+
+1217
+00:52:09,520 --> 00:52:11,520
+to write this operator in the form
+
+1218
+00:52:11,520 --> 00:52:15,520
+sigma-3 plus one divided by two.
+
+1219
+00:52:15,520 --> 00:52:21,520
+Let's check that.
+
+1220
+00:52:21,520 --> 00:52:28,520
+Sigma-3 is one minus one, zero, zero,
+
+1221
+00:52:28,520 --> 00:52:33,520
+plus one, which is one, one, zero, zero.
+
+1222
+00:52:33,520 --> 00:52:36,520
+The one place, the lower element here vanishes,
+
+1223
+00:52:36,520 --> 00:52:39,520
+minus one plus one, and then divide by two.
+
+1224
+00:52:39,520 --> 00:52:40,520
+Okay.
+
+1225
+00:52:40,520 --> 00:52:41,520
+So in the upper entry here,
+
+1226
+00:52:41,520 --> 00:52:42,520
+you get one plus one is two,
+
+1227
+00:52:42,520 --> 00:52:44,520
+divided by two, that's one.
+
+1228
+00:52:44,520 --> 00:52:46,520
+And every place else you get zero.
+
+1229
+00:52:46,520 --> 00:52:47,520
+All right.
+
+1230
+00:52:47,520 --> 00:52:49,520
+This is a useful fact,
+
+1231
+00:52:49,520 --> 00:52:53,520
+that the projection operator onto a configuration
+
+1232
+00:52:53,520 --> 00:52:56,520
+where the third component of spin is plus
+
+1233
+00:52:56,520 --> 00:52:59,520
+is just sigma-3 plus one divided by two.
+
+1234
+00:52:59,520 --> 00:53:05,520
+Okay.
+
+1235
+00:53:05,520 --> 00:53:09,520
+What about things like sigma-1 or sigma-2?
+
+1236
+00:53:09,520 --> 00:53:10,520
+What's that?
+
+1237
+00:53:10,520 --> 00:53:13,520
+What about projections corresponding to sigma-1 or sigma-2?
+
+1238
+00:53:13,520 --> 00:53:14,520
+Yeah.
+
+1239
+00:53:14,520 --> 00:53:15,520
+Okay, so now let's ask that question.
+
+1240
+00:53:15,520 --> 00:53:16,520
+What would you expect the answer
+
+1241
+00:53:16,520 --> 00:53:17,520
+to be if I asked you,
+
+1242
+00:53:17,520 --> 00:53:19,520
+what's the projection operator
+
+1243
+00:53:19,520 --> 00:53:24,520
+that projects onto the eigenvector sigma-1 equals plus one?
+
+1244
+00:53:24,520 --> 00:53:27,520
+Sigma-1 plus one over two?
+
+1245
+00:53:27,520 --> 00:53:30,520
+Exactly.
+
+1246
+00:53:30,520 --> 00:53:32,520
+This is projection operator for,
+
+1247
+00:53:32,520 --> 00:53:36,520
+let's just call it projection operator for sigma-3.
+
+1248
+00:53:36,520 --> 00:53:39,520
+Here's projection operator for sigma-1.
+
+1249
+00:53:39,520 --> 00:53:41,520
+And by that I mean that
+
+1250
+00:53:41,520 --> 00:53:43,520
+sigma-1 is equal to plus one.
+
+1251
+00:53:43,520 --> 00:53:46,520
+That's just equal to sigma-1 plus one over two.
+
+1252
+00:53:46,520 --> 00:53:47,520
+You can check that.
+
+1253
+00:53:47,520 --> 00:53:48,520
+Easy to check.
+
+1254
+00:53:48,520 --> 00:53:49,520
+It's very easy to check.
+
+1255
+00:53:49,520 --> 00:53:52,520
+That's the projection operator.
+
+1256
+00:53:52,520 --> 00:53:55,520
+So let me give you now an alternative definition
+
+1257
+00:53:55,520 --> 00:54:00,520
+of the probability postulate of quantum mechanics.
+
+1258
+00:54:00,520 --> 00:54:05,520
+If you have a state, an arbitrary state,
+
+1259
+00:54:05,520 --> 00:54:08,520
+let's call it psi,
+
+1260
+00:54:08,520 --> 00:54:11,520
+and you're interested in the probability
+
+1261
+00:54:11,520 --> 00:54:14,520
+that a certain thing is true,
+
+1262
+00:54:14,520 --> 00:54:16,020
+or that you measure it
+
+1263
+00:54:16,020 --> 00:54:17,520
+that a certain thing is true,
+
+1264
+00:54:17,520 --> 00:54:18,520
+you construct the projection operator,
+
+1265
+00:54:18,520 --> 00:54:20,020
+and you call it the
+
+1266
+00:54:20,020 --> 00:54:21,520
+projection operator for that certain thing.
+
+1267
+00:54:21,520 --> 00:54:24,520
+You call it p.
+
+1268
+00:54:24,520 --> 00:54:27,520
+The expectation value of the projection operator
+
+1269
+00:54:27,520 --> 00:54:29,520
+is the probability for that thing.
+
+1270
+00:54:29,520 --> 00:54:31,520
+Probability for alpha.
+
+1271
+00:54:31,520 --> 00:54:36,520
+Let's just check that for a simple case.
+
+1272
+00:54:36,520 --> 00:54:40,520
+Supposing again psi is just alpha beta,
+
+1273
+00:54:40,520 --> 00:54:43,520
+is just a vector alpha beta,
+
+1274
+00:54:43,520 --> 00:54:47,520
+and p3 is sigma-3 plus one.
+
+1275
+00:54:47,520 --> 00:54:52,520
+So here we have alpha beta.
+
+1276
+00:54:52,520 --> 00:54:57,520
+We have sigma-3 plus one divided by two,
+
+1277
+00:54:57,520 --> 00:55:01,520
+and then we have alpha star beta star.
+
+1278
+00:55:01,520 --> 00:55:04,520
+This is the expectation value of the projection operator.
+
+1279
+00:55:04,520 --> 00:55:05,520
+What do we get?
+
+1280
+00:55:05,520 --> 00:55:09,520
+Well, what does sigma-3 do on this vector here?
+
+1281
+00:55:09,520 --> 00:55:12,020
+It multiplies the alpha by one
+
+1282
+00:55:12,020 --> 00:55:14,520
+and the beta by minus one.
+
+1283
+00:55:14,520 --> 00:55:16,520
+So what it gives,
+
+1284
+00:55:16,520 --> 00:55:19,020
+when sigma-3 plus one divided by
+
+1285
+00:55:19,020 --> 00:55:21,520
+two acts on this vector here,
+
+1286
+00:55:21,520 --> 00:55:23,520
+it just gives something simple.
+
+1287
+00:55:23,520 --> 00:55:27,020
+Sigma-3 plus one divided by
+
+1288
+00:55:27,020 --> 00:55:30,520
+two gives plus one on alpha,
+
+1289
+00:55:30,520 --> 00:55:32,520
+and what does it give?
+
+1290
+00:55:32,520 --> 00:55:33,520
+It gives zero on beta, right?
+
+1291
+00:55:33,520 --> 00:55:35,520
+It just gives zero.
+
+1292
+00:55:35,520 --> 00:55:36,520
+We already know what it does.
+
+1293
+00:55:36,520 --> 00:55:38,520
+It just gives this.
+
+1294
+00:55:38,520 --> 00:55:41,520
+Times alpha star beta star.
+
+1295
+00:55:41,520 --> 00:55:44,520
+This is just equal to alpha star alpha.
+
+1296
+00:55:44,520 --> 00:55:46,020
+So this is an example
+
+1297
+00:55:46,020 --> 00:55:47,520
+where calculating the expectation value
+
+1298
+00:55:47,520 --> 00:55:51,520
+of a projection operator gives you the probability,
+
+1299
+00:55:51,520 --> 00:55:54,520
+in this case, for the spin to be up.
+
+1300
+00:55:54,520 --> 00:55:56,520
+So this is an alternative
+
+1301
+00:55:56,520 --> 00:55:58,520
+definition of the probability assumption.
+
+1302
+00:55:58,520 --> 00:56:00,520
+If you're interested in a certain proposition,
+
+1303
+00:56:00,520 --> 00:56:01,520
+alpha is true,
+
+1304
+00:56:01,520 --> 00:56:05,520
+you construct the projection operator for alpha
+
+1305
+00:56:05,520 --> 00:56:07,520
+in the way that I showed you.
+
+1306
+00:56:07,520 --> 00:56:09,520
+It's the projection operator onto the direction,
+
+1307
+00:56:09,520 --> 00:56:12,520
+which is the eigenvector corresponding to the proposition,
+
+1308
+00:56:12,520 --> 00:56:14,520
+and then you just calculate its expectation value.
+
+1309
+00:56:14,520 --> 00:56:17,520
+That gives you the probability.
+
+1310
+00:56:17,520 --> 00:56:19,520
+Very simple.
+
+1311
+00:56:19,520 --> 00:56:23,520
+An alternative route to getting to probabilities.
+
+1312
+00:56:23,520 --> 00:56:27,520
+All right, so now we have everything we need
+
+1313
+00:56:27,520 --> 00:56:31,520
+to calculate the various probabilities
+
+1314
+00:56:31,520 --> 00:56:33,520
+that are in this expression here.
+
+1315
+00:56:33,520 --> 00:56:35,520
+Shall I stop for a minute?
+
+1316
+00:56:35,520 --> 00:56:37,520
+Let's stop for a little bit.
+
+1317
+00:56:37,520 --> 00:56:39,520
+Let's stop for a little bit.
+
+1318
+00:56:39,520 --> 00:56:41,520
+I'm probably getting a headache by now.
+
+1319
+00:56:41,520 --> 00:56:43,520
+Okay, look, let me simplify what I said
+
+1320
+00:56:43,520 --> 00:56:44,520
+down to what you just said.
+
+1321
+00:56:44,520 --> 00:56:48,520
+I'm going to go back to what's bare essentials.
+
+1322
+00:56:48,520 --> 00:56:53,520
+Projection operators correspond to statements.
+
+1323
+00:56:53,520 --> 00:56:55,520
+Well, let me go back a step.
+
+1324
+00:56:55,520 --> 00:56:57,520
+Classical physics.
+
+1325
+00:56:57,520 --> 00:56:59,520
+Statements are subsets.
+
+1326
+00:56:59,520 --> 00:57:03,520
+Properties are subsets of a set.
+
+1327
+00:57:03,520 --> 00:57:04,520
+The set of all things,
+
+1328
+00:57:04,520 --> 00:57:05,520
+we start with the set of all things.
+
+1329
+00:57:05,520 --> 00:57:07,520
+The set of all things such that,
+
+1330
+00:57:07,520 --> 00:57:09,520
+that's a subset.
+
+1331
+00:57:09,520 --> 00:57:12,520
+The basic ideas of intersection and union
+
+1332
+00:57:12,520 --> 00:57:13,520
+and all those kind of things
+
+1333
+00:57:13,520 --> 00:57:16,520
+about sets and subsets are classical logic.
+
+1334
+00:57:16,520 --> 00:57:18,520
+That's what classical logic is about.
+
+1335
+00:57:18,520 --> 00:57:21,520
+The classical logic of propositions.
+
+1336
+00:57:21,520 --> 00:57:23,520
+Propositions mean properties.
+
+1337
+00:57:23,520 --> 00:57:26,520
+Properties of systems in physics.
+
+1338
+00:57:26,520 --> 00:57:29,520
+In quantum mechanics,
+
+1339
+00:57:29,520 --> 00:57:31,520
+a very, very different setup.
+
+1340
+00:57:31,520 --> 00:57:35,520
+Propositions do not correspond to subsets.
+
+1341
+00:57:35,520 --> 00:57:40,520
+They correspond to subspaces of a vector space.
+
+1342
+00:57:40,520 --> 00:57:42,520
+Subspaces of a vector space
+
+1343
+00:57:42,520 --> 00:57:44,520
+are a very different thing
+
+1344
+00:57:44,520 --> 00:57:49,520
+than subsets of a set.
+
+1345
+00:57:49,520 --> 00:57:52,520
+And therein lies the very big differences.
+
+1346
+00:57:52,520 --> 00:57:53,520
+And therein we're going to see,
+
+1347
+00:57:53,520 --> 00:57:55,520
+allows us to calculate,
+
+1348
+00:57:55,520 --> 00:57:57,520
+well, we're going to use the fact
+
+1349
+00:57:57,520 --> 00:58:02,520
+that properties correspond to projection operators.
+
+1350
+00:58:02,520 --> 00:58:05,520
+Or you can say that they correspond to subspaces.
+
+1351
+00:58:05,520 --> 00:58:10,520
+The subspace of states which has this or that property.
+
+1352
+00:58:10,520 --> 00:58:11,520
+And for our purposes now,
+
+1353
+00:58:11,520 --> 00:58:15,520
+the only projection operators
+
+1354
+00:58:15,520 --> 00:58:17,520
+that I'm going to be interested in
+
+1355
+00:58:17,520 --> 00:58:19,520
+are the ones which correspond to spin
+
+1356
+00:58:19,520 --> 00:58:21,520
+in a given direction being up.
+
+1357
+00:58:21,520 --> 00:58:24,520
+Okay, so let's...
+
+1358
+00:58:24,520 --> 00:58:27,520
+Okay, the projection operator for...
+
+1359
+00:58:27,520 --> 00:58:30,520
+Let's start with...
+
+1360
+00:58:30,520 --> 00:58:32,520
+Where's our...
+
+1361
+00:58:32,520 --> 00:58:34,520
+Anybody remember what A, B, and C were?
+
+1362
+00:58:34,520 --> 00:58:36,520
+I don't. Oh, yes, here it is.
+
+1363
+00:58:36,520 --> 00:58:40,520
+A was the first spin is up
+
+1364
+00:58:40,520 --> 00:58:44,520
+along the third axis.
+
+1365
+00:58:44,520 --> 00:58:46,520
+What's the projection operator for this?
+
+1366
+00:58:51,520 --> 00:58:53,520
+It's sigma 3
+
+1367
+00:58:53,520 --> 00:58:55,520
+plus 1
+
+1368
+00:58:55,520 --> 00:58:58,520
+divided by 2.
+
+1369
+00:58:58,520 --> 00:59:01,520
+That's only half the statement, though.
+
+1370
+00:59:01,520 --> 00:59:05,520
+The second spin is up along the 45 degree axis.
+
+1371
+00:59:05,520 --> 00:59:08,520
+Alright, what is the projection operator for that?
+
+1372
+00:59:08,520 --> 00:59:10,520
+Anybody know?
+
+1373
+00:59:10,520 --> 00:59:12,520
+The 45 degree axis.
+
+1374
+00:59:12,520 --> 00:59:13,520
+What's the spin...
+
+1375
+00:59:13,520 --> 00:59:16,520
+What's the component of spin along the 45 degree axis,
+
+1376
+00:59:16,520 --> 00:59:18,520
+first of all?
+
+1377
+00:59:18,520 --> 00:59:21,520
+1 squared of 2, I don't know.
+
+1378
+00:59:21,520 --> 00:59:23,520
+It's something like tau 1 plus tau 3, right?
+
+1379
+00:59:23,520 --> 00:59:25,520
+I mean, it's along an
+
+1380
+00:59:25,520 --> 00:59:27,520
+axis halfway between 1 and 3.
+
+1381
+00:59:27,520 --> 00:59:28,520
+Alright?
+
+1382
+00:59:28,520 --> 00:59:32,520
+So that's tau 1 plus tau 3,
+
+1383
+00:59:32,520 --> 00:59:34,520
+but that's not quite right.
+
+1384
+00:59:34,520 --> 00:59:35,520
+What's wrong with it?
+
+1385
+00:59:35,520 --> 00:59:36,520
+It's normalizing.
+
+1386
+00:59:36,520 --> 00:59:38,520
+1 over the square root of 2.
+
+1387
+00:59:38,520 --> 00:59:40,520
+Here's what we're doing.
+
+1388
+00:59:40,520 --> 00:59:45,520
+We're taking n, the unit vector along 45 degrees,
+
+1389
+00:59:45,520 --> 00:59:48,520
+and dotting it into tau.
+
+1390
+00:59:48,520 --> 00:59:53,520
+Alright, what's the components of n along 45 degrees?
+
+1391
+00:59:53,520 --> 00:59:55,520
+They're 1 over the square root of 2.
+
+1392
+00:59:55,520 --> 00:59:57,520
+So this is tau 1
+
+1393
+00:59:57,520 --> 00:59:59,520
+over the square root of 2
+
+1394
+00:59:59,520 --> 01:00:02,520
+plus tau 3 over the square root of 2.
+
+1395
+01:00:02,520 --> 01:00:07,520
+That's the component of tau along 45 degree axis.
+
+1396
+01:00:07,520 --> 01:00:14,520
+Alright, so it's the projection operator for...
+
+1397
+01:00:14,520 --> 01:00:21,520
+for the second statement here,
+
+1398
+01:00:21,520 --> 01:00:24,520
+is tau 1 plus tau 3 plus...
+
+1399
+01:00:24,520 --> 01:00:29,520
+over the square root of 2 plus 1.
+
+1400
+01:00:29,520 --> 01:00:32,520
+What I'm using is that the
+
+1401
+01:00:32,520 --> 01:00:35,520
+projection operator for sigma dot n
+
+1402
+01:00:35,520 --> 01:00:36,520
+is just...
+
+1403
+01:00:36,520 --> 01:00:41,520
+is just sigma dot n, the projection operator,
+
+1404
+01:00:41,520 --> 01:00:45,520
+is sigma dot n plus 1 over 2.
+
+1405
+01:00:45,520 --> 01:00:48,020
+That projects you onto the subspace in
+
+1406
+01:00:48,020 --> 01:00:50,520
+which sigma dot n is plus 1.
+
+1407
+01:00:52,520 --> 01:00:54,520
+Yeah, whole thing has to be divided by 2.
+
+1408
+01:00:54,520 --> 01:00:58,520
+Thank you.
+
+1409
+01:00:58,520 --> 01:00:59,520
+Good.
+
+1410
+01:00:59,520 --> 01:01:00,520
+Okay.
+
+1411
+01:01:00,520 --> 01:01:03,520
+Now,
+
+1412
+01:01:03,520 --> 01:01:06,520
+if you apply both projection operators,
+
+1413
+01:01:06,520 --> 01:01:08,520
+to a state,
+
+1414
+01:01:08,520 --> 01:01:11,520
+this one acts on the first spin,
+
+1415
+01:01:11,520 --> 01:01:14,520
+and projects the state onto the component,
+
+1416
+01:01:14,520 --> 01:01:16,520
+or it acts only on the first spin,
+
+1417
+01:01:16,520 --> 01:01:19,020
+and takes away anything in which sigma
+
+1418
+01:01:19,020 --> 01:01:21,520
+dot 3 is in the wrong direction.
+
+1419
+01:01:21,520 --> 01:01:24,520
+And then if you act with this one second,
+
+1420
+01:01:24,520 --> 01:01:26,520
+it takes away anything on the second spin,
+
+1421
+01:01:26,520 --> 01:01:28,520
+which is in the wrong direction.
+
+1422
+01:01:28,520 --> 01:01:31,020
+So the whole projection operator
+
+1423
+01:01:31,020 --> 01:01:33,520
+that corresponds to this combined statement,
+
+1424
+01:01:33,520 --> 01:01:34,520
+that...
+
+1425
+01:01:34,520 --> 01:01:38,520
+that the first spin is up along 0 degrees,
+
+1426
+01:01:38,520 --> 01:01:41,520
+the second spin is up along 45 degrees,
+
+1427
+01:01:41,520 --> 01:01:43,520
+is just the product of these two.
+
+1428
+01:01:43,520 --> 01:01:45,520
+You act first with one of them,
+
+1429
+01:01:45,520 --> 01:01:47,020
+that throws away everything in the
+
+1430
+01:01:47,020 --> 01:01:48,520
+state vector that's in the wrong...
+
+1431
+01:01:48,520 --> 01:01:51,520
+in the wrong direction in the space of states.
+
+1432
+01:01:51,520 --> 01:01:52,520
+And then you act with the other one,
+
+1433
+01:01:52,520 --> 01:01:55,520
+that throws away everything that's in the wrong direction,
+
+1434
+01:01:55,520 --> 01:01:57,520
+corresponding to the other spin.
+
+1435
+01:01:57,520 --> 01:01:59,520
+So the product of these two
+
+1436
+01:01:59,520 --> 01:02:02,520
+is the projection operator that projects out,
+
+1437
+01:02:02,520 --> 01:02:04,520
+or that projects for you,
+
+1438
+01:02:04,520 --> 01:02:07,520
+up along 0 degrees for the first spin,
+
+1439
+01:02:07,520 --> 01:02:11,520
+and up along 45 degrees for the second spin.
+
+1440
+01:02:11,520 --> 01:02:15,520
+And remember, that's A and not B.
+
+1441
+01:02:15,520 --> 01:02:18,520
+Not B because B...
+
+1442
+01:02:18,520 --> 01:02:22,520
+you remember, B corresponds to up along...
+
+1443
+01:02:22,520 --> 01:02:25,520
+up along the 45 degree axis.
+
+1444
+01:02:25,520 --> 01:02:29,520
+Not B corresponds to down along the 45 degree axis.
+
+1445
+01:02:29,520 --> 01:02:31,020
+But then we look at
+
+1446
+01:02:31,020 --> 01:02:32,520
+particle 2 instead of particle 1,
+
+1447
+01:02:32,520 --> 01:02:34,520
+and particle 1 always has the opposite spin.
+
+1448
+01:02:34,520 --> 01:02:36,520
+So it becomes up along the 45 degree axis,
+
+1449
+01:02:36,520 --> 01:02:38,520
+for spin number 2.
+
+1450
+01:02:38,520 --> 01:02:40,520
+This is the projection operator for this object,
+
+1451
+01:02:40,520 --> 01:02:43,520
+for this property over here.
+
+1452
+01:02:43,520 --> 01:02:47,520
+For the property that A and not B.
+
+1453
+01:02:47,520 --> 01:02:49,520
+Okay?
+
+1454
+01:02:49,520 --> 01:02:52,520
+All right, its expectation value
+
+1455
+01:02:52,520 --> 01:02:55,520
+in the singlet state corresponds to the...
+
+1456
+01:02:55,520 --> 01:03:00,520
+to the probability for A and not B.
+
+1457
+01:03:00,520 --> 01:03:02,520
+All right, so all we can do...
+
+1458
+01:03:02,520 --> 01:03:03,520
+there's only one way to do this,
+
+1459
+01:03:03,520 --> 01:03:06,520
+and that's to just hold your breath and start writing
+
+1460
+01:03:06,520 --> 01:03:08,520
+and working out the details one by one.
+
+1461
+01:03:08,520 --> 01:03:10,520
+I'm going to do it.
+
+1462
+01:03:10,520 --> 01:03:11,520
+This is tedious.
+
+1463
+01:03:11,520 --> 01:03:13,520
+It's...
+
+1464
+01:03:13,520 --> 01:03:14,520
+It may bore you.
+
+1465
+01:03:14,520 --> 01:03:15,520
+You can close your eyes,
+
+1466
+01:03:15,520 --> 01:03:17,520
+and I'll tell you what the answer is,
+
+1467
+01:03:17,520 --> 01:03:19,520
+but you might as well see how it's done
+
+1468
+01:03:19,520 --> 01:03:21,520
+for those who are really interested.
+
+1469
+01:03:21,520 --> 01:03:22,520
+For those who aren't interested,
+
+1470
+01:03:22,520 --> 01:03:24,520
+no, that's...you can go home.
+
+1471
+01:03:24,520 --> 01:03:27,520
+Okay, so let's write down the singlet state here.
+
+1472
+01:03:27,520 --> 01:03:31,520
+The singlet state is up down,
+
+1473
+01:03:31,520 --> 01:03:33,520
+minus down up,
+
+1474
+01:03:33,520 --> 01:03:35,520
+and now we better put
+
+1475
+01:03:35,520 --> 01:03:37,520
+in the square root of 2.
+
+1476
+01:03:37,520 --> 01:03:39,520
+Now, later on,
+
+1477
+01:03:39,520 --> 01:03:41,020
+we're going to take the
+
+1478
+01:03:41,020 --> 01:03:42,520
+inner product of what we have
+
+1479
+01:03:42,520 --> 01:03:45,520
+and project it back onto the same vector.
+
+1480
+01:03:45,520 --> 01:03:47,520
+So later on, we're going
+
+1481
+01:03:47,520 --> 01:03:49,520
+to project back onto the singlet.
+
+1482
+01:03:49,520 --> 01:03:51,520
+All right, but for now,
+
+1483
+01:03:51,520 --> 01:03:54,520
+I just want to calculate what this operator does
+
+1484
+01:03:54,520 --> 01:03:57,520
+when it hits this state.
+
+1485
+01:03:57,520 --> 01:04:00,520
+Okay, it's actually not too bad.
+
+1486
+01:04:00,520 --> 01:04:02,520
+First of all, what does sigma 3 do?
+
+1487
+01:04:02,520 --> 01:04:04,520
+First of all, what does sigma 3
+
+1488
+01:04:04,520 --> 01:04:06,520
+plus 1 do to this over here?
+
+1489
+01:04:06,520 --> 01:04:11,520
+Hmm?
+
+1490
+01:04:11,520 --> 01:04:14,520
+Yeah, it just throws this away.
+
+1491
+01:04:14,520 --> 01:04:15,520
+Why?
+
+1492
+01:04:15,520 --> 01:04:17,520
+Because in this state here, the first spin is down.
+
+1493
+01:04:17,520 --> 01:04:19,520
+But this is the projection operator
+
+1494
+01:04:19,520 --> 01:04:21,520
+onto the first spin being up.
+
+1495
+01:04:21,520 --> 01:04:24,520
+So when sigma 3 plus 1 over 2
+
+1496
+01:04:24,520 --> 01:04:27,520
+acts on a state where the first spin is down,
+
+1497
+01:04:27,520 --> 01:04:29,520
+it just kills it.
+
+1498
+01:04:29,520 --> 01:04:31,520
+So we might as well get rid of that.
+
+1499
+01:04:32,520 --> 01:04:37,520
+Okay, and now we've done it.
+
+1500
+01:04:37,520 --> 01:04:39,520
+We've used sigma 3 plus 1 over 2.
+
+1501
+01:04:39,520 --> 01:04:41,520
+So we can now rewrite this.
+
+1502
+01:04:41,520 --> 01:04:43,520
+I won't erase it, but I'll write it.
+
+1503
+01:04:43,520 --> 01:04:44,520
+We can get rid of this.
+
+1504
+01:04:44,520 --> 01:04:45,520
+We've acted with it,
+
+1505
+01:04:45,520 --> 01:04:48,520
+and it just kills the second entry here.
+
+1506
+01:04:48,520 --> 01:04:51,520
+The rest of it is tau 1 plus tau 3
+
+1507
+01:04:51,520 --> 01:04:55,520
+over 2 root 2 plus 1 half,
+
+1508
+01:04:55,520 --> 01:04:59,520
+all acting on 1 over the square root of 2.
+
+1509
+01:04:59,520 --> 01:05:00,520
+Let's put another 1 over the
+
+1510
+01:05:00,520 --> 01:05:01,520
+square root of 2 out here.
+
+1511
+01:05:02,520 --> 01:05:04,520
+That's this one.
+
+1512
+01:05:04,520 --> 01:05:07,520
+And then that acts on up down.
+
+1513
+01:05:07,520 --> 01:05:10,520
+Okay, what does it do?
+
+1514
+01:05:10,520 --> 01:05:15,520
+First of all, what does tau 1 do?
+
+1515
+01:05:15,520 --> 01:05:19,520
+Tau 1 flips.
+
+1516
+01:05:19,520 --> 01:05:22,520
+Now remember, taus act on the second entry.
+
+1517
+01:05:22,520 --> 01:05:25,520
+Tau 1 flips down to up.
+
+1518
+01:05:25,520 --> 01:05:29,520
+So when tau 1 acts, it gives up up here.
+
+1519
+01:05:29,520 --> 01:05:30,520
+Okay?
+
+1520
+01:05:30,520 --> 01:05:31,520
+What's in here?
+
+1521
+01:05:31,520 --> 01:05:33,520
+Is there anything with up up in here?
+
+1522
+01:05:33,520 --> 01:05:35,520
+No.
+
+1523
+01:05:35,520 --> 01:05:37,520
+No, nothing with up up in here.
+
+1524
+01:05:37,520 --> 01:05:39,520
+All there is is up down and down up.
+
+1525
+01:05:39,520 --> 01:05:42,520
+So that means when tau 1 acts,
+
+1526
+01:05:42,520 --> 01:05:44,520
+it gives something which is completely orthogonal
+
+1527
+01:05:44,520 --> 01:05:46,520
+to what's on the left-hand side.
+
+1528
+01:05:46,520 --> 01:05:47,520
+It won't contribute.
+
+1529
+01:05:47,520 --> 01:05:49,520
+When we take the inner product with the singlet,
+
+1530
+01:05:49,520 --> 01:05:52,020
+when tau 1 occurs and
+
+1531
+01:05:52,020 --> 01:05:54,520
+acts on down to give up,
+
+1532
+01:05:54,520 --> 01:05:56,520
+it'll give something on the right-hand side
+
+1533
+01:05:56,520 --> 01:06:00,520
+that just doesn't appear in the corresponding bra vector.
+
+1534
+01:06:00,520 --> 01:06:03,520
+So we can be quite sure then
+
+1535
+01:06:03,520 --> 01:06:06,520
+that tau 1 will have no expectation,
+
+1536
+01:06:06,520 --> 01:06:11,520
+will just not contribute to this inner product.
+
+1537
+01:06:11,520 --> 01:06:15,520
+I can throw it away.
+
+1538
+01:06:15,520 --> 01:06:17,520
+What does tau 3 do to this?
+
+1539
+01:06:29,520 --> 01:06:30,520
+Does it add up?
+
+1540
+01:06:35,520 --> 01:06:36,520
+Is it minus down?
+
+1541
+01:06:59,520 --> 01:07:03,530
+the second state, that's sigma 3 plus 1,
+
+1542
+01:07:03,530 --> 01:07:07,540
+and the tau operation here just gives this number.
+
+1543
+01:07:08,660 --> 01:07:10,500
+Now that's not quite true, there's another
+
+1544
+01:07:10,500 --> 01:07:12,340
+piece, there's the up-up piece, but the up-up
+
+1545
+01:07:12,340 --> 01:07:14,610
+piece will not have anything to
+
+1546
+01:07:14,610 --> 01:07:16,880
+take it in a product with.
+
+1547
+01:07:18,340 --> 01:07:20,660
+Alright, let's write down the singlet state on this side.
+
+1548
+01:07:20,780 --> 01:07:23,920
+The singlet state on this side is up-down
+
+1549
+01:07:23,920 --> 01:07:27,060
+minus down-up, divided by square root of 2.
+
+1550
+01:07:27,060 --> 01:07:32,040
+Well, the down-up configuration won't contribute.
+
+1551
+01:07:32,320 --> 01:07:33,940
+It's orthogonal to up-down.
+
+1552
+01:07:34,480 --> 01:07:36,450
+Down-up is orthogonal to up-down,
+
+1553
+01:07:36,450 --> 01:07:38,420
+so this one will not contribute.
+
+1554
+01:07:39,360 --> 01:07:40,140
+We can get rid of it.
+
+1555
+01:07:45,799 --> 01:07:49,259
+The inner product of up-down with itself is just 1.
+
+1556
+01:07:50,880 --> 01:07:53,960
+So the whole thing is just given by these
+
+1557
+01:07:53,960 --> 01:07:57,040
+numbers, 1 over square root of 2, 1 over square
+
+1558
+01:07:57,040 --> 01:07:57,060
+root of 2.
+
+1559
+01:07:57,060 --> 01:07:58,020
+1 over square root of
+
+1560
+01:07:58,020 --> 01:07:58,980
+2 and this beast over here.
+
+1561
+01:08:00,799 --> 01:08:04,680
+This is the probability for A and not B.
+
+1562
+01:08:05,100 --> 01:08:05,700
+So what is it?
+
+1563
+01:08:05,820 --> 01:08:09,630
+1 over square root of 2, and it's 1 half,
+
+1564
+01:08:09,630 --> 01:08:13,440
+1 half minus 1 over 2 square root of 2.
+
+1565
+01:08:16,479 --> 01:08:18,500
+Anybody can do numbers quick in their head?
+
+1566
+01:08:21,840 --> 01:08:23,319
+1 fourth of square root
+
+1567
+01:08:23,319 --> 01:08:24,800
+of 2 minus 1 over 2.
+
+1568
+01:08:24,800 --> 01:08:29,279
+Yeah, 1 fourth of, what do you have,
+
+1569
+01:08:29,279 --> 01:08:33,760
+1 minus 1 over square root of 2?
+
+1570
+01:08:34,979 --> 01:08:35,640
+Is that right?
+
+1571
+01:08:37,479 --> 01:08:39,439
+Alright, 1 over square root of 2 is about 0.7?
+
+1572
+01:08:41,340 --> 01:08:42,240
+0.7, right?
+
+1573
+01:08:44,240 --> 01:08:48,479
+1 minus 1 over square root of 2 is 1.4.
+
+1574
+01:08:48,920 --> 01:08:51,520
+1 over 1.4 is about 0.7.
+
+1575
+01:08:52,760 --> 01:08:54,340
+1 minus 0.7 is 0.3.
+
+1576
+01:08:54,800 --> 01:08:59,680
+So this is 0.3 over 4.
+
+1577
+01:08:59,760 --> 01:09:00,420
+How big is that?
+
+1578
+01:09:05,380 --> 01:09:06,939
+0.075, right?
+
+1579
+01:09:12,439 --> 01:09:18,939
+But remember that we have twice that.
+
+1580
+01:09:19,540 --> 01:09:21,180
+This one and this one are
+
+1581
+01:09:21,180 --> 01:09:22,819
+equal, and so we have twice that.
+
+1582
+01:09:22,819 --> 01:09:24,779
+So this number here is twice.
+
+1583
+01:09:24,779 --> 01:09:28,380
+Twice, 0.075, which is what?
+
+1584
+01:09:28,719 --> 01:09:32,580
+0.75 and 75 is 150.
+
+1585
+01:09:38,620 --> 01:09:39,779
+Nice and small.
+
+1586
+01:09:41,859 --> 01:09:43,660
+Now let's calculate this one.
+
+1587
+01:09:44,639 --> 01:09:44,660
+Okay?
+
+1588
+01:09:45,319 --> 01:09:47,689
+This is, alright, we'll just do
+
+1589
+01:09:47,689 --> 01:09:50,059
+it on the same construction here.
+
+1590
+01:09:50,059 --> 01:09:50,960
+Alright.
+
+1591
+01:09:51,340 --> 01:09:52,759
+We still have one.
+
+1592
+01:09:52,760 --> 01:09:57,180
+We still have electron 1 up along the zero axis.
+
+1593
+01:09:57,180 --> 01:09:58,340
+That's this.
+
+1594
+01:09:58,340 --> 01:10:01,260
+But now we have electron
+
+1595
+01:10:01,260 --> 01:10:04,180
+2 is up along 90 degrees.
+
+1596
+01:10:04,180 --> 01:10:07,180
+90 degrees means the one axis.
+
+1597
+01:10:07,180 --> 01:10:09,930
+The projection operator for the one
+
+1598
+01:10:09,930 --> 01:10:12,680
+axis is just tau 1 over,
+
+1599
+01:10:12,680 --> 01:10:14,980
+tau 1 plus 1 over 2.
+
+1600
+01:10:14,980 --> 01:10:17,520
+Now I'm not going to erase this.
+
+1601
+01:10:17,520 --> 01:10:19,150
+I'm just going to, I'm just going to
+
+1602
+01:10:19,150 --> 01:10:20,780
+doctor it up so that it covers the 0.5.
+
+1603
+01:10:20,780 --> 01:10:21,780
+I'm going to do a little bit more.
+
+1604
+01:10:21,780 --> 01:10:22,020
+I'm going to do a little bit more.
+
+1605
+01:10:22,020 --> 01:10:22,120
+I'm going to do a little bit more.
+
+1606
+01:10:22,120 --> 01:10:22,160
+I'm going to do a little bit more.
+
+1607
+01:10:22,160 --> 01:10:22,220
+I'm going to do a little bit more.
+
+1608
+01:10:22,220 --> 01:10:25,720
+So that it corresponds to the second statement over here.
+
+1609
+01:10:25,720 --> 01:10:26,180
+So let's see.
+
+1610
+01:10:26,180 --> 01:10:29,120
+So we can get rid of the tau 3.
+
+1611
+01:10:29,120 --> 01:10:32,280
+It's just tau 1 over 2 plus 1 half.
+
+1612
+01:10:32,280 --> 01:10:33,380
+That's it.
+
+1613
+01:10:35,220 --> 01:10:35,640
+Okay.
+
+1614
+01:10:35,640 --> 01:10:39,980
+Let's, okay.
+
+1615
+01:10:39,980 --> 01:10:42,340
+Again, sigma 3 plus 1 over 2
+
+1616
+01:10:42,340 --> 01:10:44,700
+again gets rid of this term here.
+
+1617
+01:10:44,700 --> 01:10:46,770
+It picks out the component of the
+
+1618
+01:10:46,770 --> 01:10:48,840
+state in which the first spin is up.
+
+1619
+01:10:48,840 --> 01:10:51,580
+So nothing new as far as that's concerned.
+
+1620
+01:10:51,580 --> 01:10:54,340
+And now let's see what tau 1 does.
+
+1621
+01:10:54,340 --> 01:10:57,820
+Tau 1 takes up down to up.
+
+1622
+01:10:57,820 --> 01:11:00,260
+So when tau 1 acts, it makes up up.
+
+1623
+01:11:00,260 --> 01:11:02,519
+But there's no up up on this side here.
+
+1624
+01:11:02,519 --> 01:11:04,640
+So this one doesn't contribute at all.
+
+1625
+01:11:04,640 --> 01:11:05,040
+Let's see.
+
+1626
+01:11:05,040 --> 01:11:06,240
+This is not minus.
+
+1627
+01:11:06,240 --> 01:11:09,019
+This is just plus, plus 1 half.
+
+1628
+01:11:09,019 --> 01:11:09,200
+All right.
+
+1629
+01:11:09,200 --> 01:11:11,680
+So the tau 1 doesn't give anything either.
+
+1630
+01:11:11,680 --> 01:11:14,519
+Tau 1 acting on down gives up.
+
+1631
+01:11:14,519 --> 01:11:15,680
+You have up up here.
+
+1632
+01:11:15,680 --> 01:11:17,700
+But you have no up up over here.
+
+1633
+01:11:17,700 --> 01:11:19,580
+So that's dead.
+
+1634
+01:11:19,580 --> 01:11:20,740
+And all you get is 1 half.
+
+1635
+01:11:20,740 --> 01:11:20,920
+Okay.
+
+1636
+01:11:20,920 --> 01:11:20,980
+Okay.
+
+1637
+01:11:20,980 --> 01:11:21,040
+Okay.
+
+1638
+01:11:21,040 --> 01:11:21,140
+Okay.
+
+1639
+01:11:21,140 --> 01:11:21,220
+Okay.
+
+1640
+01:11:21,220 --> 01:11:21,300
+Okay.
+
+1641
+01:11:21,300 --> 01:11:21,340
+Okay.
+
+1642
+01:11:21,340 --> 01:11:21,380
+Okay.
+
+1643
+01:11:21,380 --> 01:11:21,460
+Okay.
+
+1644
+01:11:21,580 --> 01:11:22,540
+Okay.
+
+1645
+01:11:22,540 --> 01:11:24,180
+This is it.
+
+1646
+01:11:24,180 --> 01:11:25,900
+Sigma 3 plus 1 did nothing.
+
+1647
+01:11:25,900 --> 01:11:27,960
+All you got was 1 half.
+
+1648
+01:11:27,960 --> 01:11:32,200
+And now you got some square roots of 2.
+
+1649
+01:11:32,200 --> 01:11:33,900
+You have a square root of 2 from here.
+
+1650
+01:11:33,900 --> 01:11:36,720
+And you have a square root of 2 from here.
+
+1651
+01:11:36,720 --> 01:11:40,360
+So the whole thing is 1 quarter.
+
+1652
+01:11:42,200 --> 01:11:48,880
+This thing here is 0.25.
+
+1653
+01:11:48,880 --> 01:11:51,340
+Well, 0.15 is not bigger than 0.25.
+
+1654
+01:11:51,340 --> 01:11:54,580
+We went through this whole exercise to see
+
+1655
+01:11:54,580 --> 01:11:57,820
+that the right hand side here is bigger than
+
+1656
+01:11:57,820 --> 01:11:59,660
+the left hand side.
+
+1657
+01:11:59,660 --> 01:12:00,940
+This is what John Bell did.
+
+1658
+01:12:00,940 --> 01:12:04,500
+Of course, I know it's the only thing
+
+1659
+01:12:04,500 --> 01:12:08,060
+he did in physics, but it's pretty brilliant.
+
+1660
+01:12:08,060 --> 01:12:10,860
+The little exercise in quantum mechanics here is
+
+1661
+01:12:10,860 --> 01:12:13,660
+one you can go home and redo for yourself.
+
+1662
+01:12:13,660 --> 01:12:17,400
+But the upshot is that the quantum singlet
+
+1663
+01:12:17,400 --> 01:12:21,140
+state of a pair of electrons violates the
+
+1664
+01:12:21,140 --> 01:12:24,960
+Bell's theorem, Bell's inequality.
+
+1665
+01:12:24,960 --> 01:12:26,180
+What does that mean?
+
+1666
+01:12:26,180 --> 01:12:32,220
+That means that there is no possibility
+
+1667
+01:12:32,220 --> 01:12:38,260
+that there's an underlying classical way of thinking
+
+1668
+01:12:38,260 --> 01:12:41,900
+about quantum mechanics where properties are
+
+1669
+01:12:41,900 --> 01:12:45,540
+somehow governed by ordinary set theory.
+
+1670
+01:12:45,540 --> 01:12:48,160
+There's no possible underlying
+
+1671
+01:12:48,160 --> 01:12:50,780
+description, classical underlying description.
+
+1672
+01:12:50,780 --> 01:12:51,439
+There's no possible underlying
+
+1673
+01:12:51,439 --> 01:12:52,099
+description of quantum mechanics.
+
+1674
+01:12:52,099 --> 01:12:56,829
+It cannot be the statistical theory
+
+1675
+01:12:56,829 --> 01:13:01,559
+of some complicated, chaotic, jumbled classical system.
+
+1676
+01:13:01,559 --> 01:13:05,059
+So you don't need to do any experiments
+
+1677
+01:13:05,059 --> 01:13:08,559
+if you already have quantum mechanics and you
+
+1678
+01:13:08,559 --> 01:13:12,559
+know Bell's inequality is not going to work.
+
+1679
+01:13:12,559 --> 01:13:14,599
+You don't need to do those experiments.
+
+1680
+01:13:14,599 --> 01:13:15,599
+Absolutely.
+
+1681
+01:13:15,599 --> 01:13:17,099
+So aspect of what it was in
+
+1682
+01:13:17,099 --> 01:13:18,599
+is, did all these experiments do nothing?
+
+1683
+01:13:18,599 --> 01:13:19,599
+No.
+
+1684
+01:13:19,599 --> 01:13:20,599
+No.
+
+1685
+01:13:20,600 --> 01:13:21,600
+No, no, no.
+
+1686
+01:13:21,600 --> 01:13:24,190
+Well, the question is whether
+
+1687
+01:13:24,190 --> 01:13:26,780
+or not nature follows quantum mechanics.
+
+1688
+01:13:26,780 --> 01:13:28,220
+No, no, no, no, everybody
+
+1689
+01:13:28,220 --> 01:13:29,660
+knew that nature follows quantum mechanics.
+
+1690
+01:13:29,660 --> 01:13:31,700
+I mean, you know, quantum mechanics
+
+1691
+01:13:31,700 --> 01:13:33,740
+has been tested to very high precision.
+
+1692
+01:13:33,740 --> 01:13:36,980
+Let's put it this way.
+
+1693
+01:13:36,980 --> 01:13:42,080
+Well it's a beautiful experiment.
+
+1694
+01:13:42,080 --> 01:13:44,540
+I'm sure it was fun to do.
+
+1695
+01:13:44,540 --> 01:13:46,300
+Did it teach us anything we didn't know?
+
+1696
+01:13:46,300 --> 01:13:48,150
+Well, it might have taught us
+
+1697
+01:13:48,150 --> 01:13:50,000
+something about the technology of manipulating electrons,
+
+1698
+01:13:50,000 --> 01:13:50,110
+and I suspect it taught us
+
+1699
+01:13:50,110 --> 01:13:50,220
+something about the technology of manipulating electrons.
+
+1700
+01:13:50,220 --> 01:13:51,720
+And I suspect it did, and
+
+1701
+01:13:51,720 --> 01:13:53,220
+I suspect it was a hard experiment.
+
+1702
+01:13:53,220 --> 01:13:56,910
+It was a very delicate experiment, and so
+
+1703
+01:13:56,910 --> 01:14:00,600
+it probably is part of the march toward being
+
+1704
+01:14:00,600 --> 01:14:02,620
+able to manipulate small things.
+
+1705
+01:14:02,620 --> 01:14:04,920
+I think in that sense
+
+1706
+01:14:04,920 --> 01:14:07,220
+it was a piece of technology.
+
+1707
+01:14:07,220 --> 01:14:09,220
+Was the result certain beforehand?
+
+1708
+01:14:09,220 --> 01:14:10,220
+Absolutely.
+
+1709
+01:14:10,220 --> 01:14:11,220
+I mean, you know.
+
+1710
+01:14:11,220 --> 01:14:13,220
+So the Bell came out with the sole argument.
+
+1711
+01:14:13,220 --> 01:14:14,220
+Yeah.
+
+1712
+01:14:14,220 --> 01:14:16,540
+I mean, no, the experiment could not have,
+
+1713
+01:14:16,540 --> 01:14:18,860
+quantum mechanics has been checked in so many
+
+1714
+01:14:18,860 --> 01:14:19,220
+ways before that.
+
+1715
+01:14:19,220 --> 01:14:20,220
+Right.
+
+1716
+01:14:20,220 --> 01:14:21,220
+That nobody expected.
+
+1717
+01:14:21,220 --> 01:14:24,020
+Now, I'll tell you what aspect it
+
+1718
+01:14:24,020 --> 01:14:26,820
+did, which is a hard thing to do.
+
+1719
+01:14:26,820 --> 01:14:28,340
+It's a hard thing to do.
+
+1720
+01:14:28,340 --> 01:14:33,720
+What it checked, here's what you would want to check.
+
+1721
+01:14:33,720 --> 01:14:35,120
+Okay, is there an out?
+
+1722
+01:14:35,120 --> 01:14:36,120
+Is there an out?
+
+1723
+01:14:36,120 --> 01:14:38,930
+Is there any way that classical
+
+1724
+01:14:38,930 --> 01:14:41,740
+logic could somehow simulate quantum mechanics?
+
+1725
+01:14:41,740 --> 01:14:45,060
+The answer is yes, but only if the
+
+1726
+01:14:45,060 --> 01:14:48,380
+system that you're talking about sort of has wires
+
+1727
+01:14:48,380 --> 01:14:49,380
+connected.
+
+1728
+01:14:49,380 --> 01:14:51,810
+So the left electron to the right electron
+
+1729
+01:14:51,810 --> 01:14:54,240
+in some way that makes the experiment on the
+
+1730
+01:14:54,240 --> 01:14:59,220
+left not independent of the experiment on the right.
+
+1731
+01:14:59,220 --> 01:15:02,580
+If you had somehow that when you did the
+
+1732
+01:15:02,580 --> 01:15:05,940
+experiment over here, some signal went over here and
+
+1733
+01:15:05,940 --> 01:15:08,140
+told it to rearrange and do something complicated.
+
+1734
+01:15:08,140 --> 01:15:09,860
+In other words, if you have a whole bunch
+
+1735
+01:15:09,860 --> 01:15:11,580
+of wires coming from the left and the right
+
+1736
+01:15:11,580 --> 01:15:14,540
+and they join together and you have a
+
+1737
+01:15:14,540 --> 01:15:17,500
+processor in the center, you can simulate quantum mechanics.
+
+1738
+01:15:17,500 --> 01:15:18,500
+But.
+
+1739
+01:15:18,500 --> 01:15:20,970
+It's at the cost that signals have to be
+
+1740
+01:15:20,970 --> 01:15:23,440
+able to go faster than the speed of light.
+
+1741
+01:15:23,440 --> 01:15:26,240
+That if you had any classical system that
+
+1742
+01:15:26,240 --> 01:15:29,040
+could somehow detect what you did over here
+
+1743
+01:15:29,040 --> 01:15:31,330
+and send the message quickly over
+
+1744
+01:15:31,330 --> 01:15:33,620
+to there instantly before the second experiment.
+
+1745
+01:15:33,620 --> 01:15:37,730
+Or in other words, if Bob could send a
+
+1746
+01:15:37,730 --> 01:15:41,840
+message to Alice instantly and tell her what's going
+
+1747
+01:15:41,840 --> 01:15:44,590
+on, yes, there are ways
+
+1748
+01:15:44,590 --> 01:15:47,340
+to simulate quantum mechanics classically.
+
+1749
+01:15:47,340 --> 01:15:48,340
+So the.
+
+1750
+01:15:48,340 --> 01:15:50,750
+Second element of this is that the experiments
+
+1751
+01:15:50,750 --> 01:15:53,160
+on the left and the right that measure the
+
+1752
+01:15:53,160 --> 01:15:55,560
+two components of spin really are independent,
+
+1753
+01:15:55,560 --> 01:15:57,960
+that they're far from each other and couldn't
+
+1754
+01:15:57,960 --> 01:15:59,680
+have interfered with each other.
+
+1755
+01:15:59,680 --> 01:16:01,650
+Now one way of making absolutely certain
+
+1756
+01:16:01,650 --> 01:16:03,620
+that they couldn't have interfered with each other
+
+1757
+01:16:03,620 --> 01:16:07,290
+is to make all of Alice's experiments take
+
+1758
+01:16:07,290 --> 01:16:10,960
+place right at the basically at the same time
+
+1759
+01:16:10,960 --> 01:16:15,000
+or very, very shortly after Bob's experiments.
+
+1760
+01:16:15,000 --> 01:16:16,640
+If Alice's experiment takes place
+
+1761
+01:16:16,640 --> 01:16:18,280
+at a time for which light.
+
+1762
+01:16:18,280 --> 01:16:22,219
+Could not have traveled from Bob.
+
+1763
+01:16:22,219 --> 01:16:24,500
+Then Alice's experiment must be independent.
+
+1764
+01:16:24,500 --> 01:16:26,880
+No wire could have sent a piece of information.
+
+1765
+01:16:26,880 --> 01:16:29,670
+There would be no way that any
+
+1766
+01:16:29,670 --> 01:16:32,460
+classical, classical signal could have been sent from
+
+1767
+01:16:32,460 --> 01:16:34,080
+one to the other.
+
+1768
+01:16:34,080 --> 01:16:36,399
+So one of the things that was in
+
+1769
+01:16:36,399 --> 01:16:38,719
+Aspect's experiment was not just that taking these
+
+1770
+01:16:38,719 --> 01:16:41,579
+singlet electrons and measuring them and so forth,
+
+1771
+01:16:41,579 --> 01:16:44,440
+the left one and the right one and
+
+1772
+01:16:44,440 --> 01:16:47,099
+checking whether, whether the inequality was satisfied.
+
+1773
+01:16:47,099 --> 01:16:48,099
+But.
+
+1774
+01:16:48,280 --> 01:16:51,840
+He managed to do it in such a way
+
+1775
+01:16:51,840 --> 01:16:55,400
+that there was no ambiguity that Alice's electron was
+
+1776
+01:16:55,400 --> 01:16:58,920
+measured sufficiently soon after Bob's electron
+
+1777
+01:16:58,920 --> 01:17:02,440
+that light could not have propagated between
+
+1778
+01:17:02,440 --> 01:17:03,500
+them.
+
+1779
+01:17:03,500 --> 01:17:07,680
+That was the hard part of the experiment as far
+
+1780
+01:17:07,680 --> 01:17:11,860
+as I know to be able to, to be able to
+
+1781
+01:17:11,860 --> 01:17:14,300
+do both experiments sufficiently simultaneously that
+
+1782
+01:17:14,300 --> 01:17:16,740
+there was no possibility of information
+
+1783
+01:17:16,740 --> 01:17:17,740
+flow.
+
+1784
+01:17:18,280 --> 01:17:20,059
+From one to the other.
+
+1785
+01:17:20,059 --> 01:17:24,299
+So the two experiments of Alice and Bob
+
+1786
+01:17:24,299 --> 01:17:28,540
+were in that sense independent of each other under
+
+1787
+01:17:28,540 --> 01:17:31,020
+the assumption that no signals can
+
+1788
+01:17:31,020 --> 01:17:33,500
+travel faster than the speed of light.
+
+1789
+01:17:33,500 --> 01:17:38,690
+Um, all attempts to simulate quantum
+
+1790
+01:17:38,690 --> 01:17:43,880
+mechanics from classical underlying logic always make
+
+1791
+01:17:43,880 --> 01:17:46,500
+use of some non-local assumptions.
+
+1792
+01:17:46,500 --> 01:17:48,590
+So the first experiment was to do some
+
+1793
+01:17:48,590 --> 01:17:50,680
+kind of thing which can process signals at one
+
+1794
+01:17:50,680 --> 01:17:53,050
+end and send them to
+
+1795
+01:17:53,050 --> 01:17:55,420
+the other end essentially instantaneously.
+
+1796
+01:17:55,420 --> 01:17:57,690
+So I think that was the hard part
+
+1797
+01:17:57,690 --> 01:17:59,960
+of Alan Aspect's experiment was the timing issue I
+
+1798
+01:17:59,960 --> 01:18:02,080
+think.
+
+1799
+01:18:02,080 --> 01:18:04,780
+And I think that was the sort of technological
+
+1800
+01:18:04,780 --> 01:18:07,480
+triumph that they were able to be quite certain
+
+1801
+01:18:07,480 --> 01:18:10,100
+that the second experiment was done within the
+
+1802
+01:18:10,100 --> 01:18:12,720
+transit time of a light beam from the
+
+1803
+01:18:12,720 --> 01:18:13,720
+first experiment.
+
+1804
+01:18:13,720 --> 01:18:14,720
+Uh.
+
+1805
+01:18:14,720 --> 01:18:18,100
+No interference between them.
+
+1806
+01:18:18,100 --> 01:18:19,100
+Yeah.
+
+1807
+01:18:19,100 --> 01:18:21,100
+Didn't Bell do this after Einstein died?
+
+1808
+01:18:21,100 --> 01:18:22,100
+Oh, I suppose.
+
+1809
+01:18:22,100 --> 01:18:23,100
+Yeah.
+
+1810
+01:18:23,100 --> 01:18:24,100
+I'm sure.
+
+1811
+01:18:24,100 --> 01:18:25,100
+Yeah.
+
+1812
+01:18:25,100 --> 01:18:28,200
+So, but Einstein, he, he, and what did,
+
+1813
+01:18:28,200 --> 01:18:31,300
+what did Bell do that, that clarified this, this,
+
+1814
+01:18:31,300 --> 01:18:32,300
+this, uh.
+
+1815
+01:18:32,300 --> 01:18:37,220
+He just made a very quantitative statement.
+
+1816
+01:18:37,220 --> 01:18:39,740
+A very quantitative statement.
+
+1817
+01:18:39,740 --> 01:18:41,670
+You know, Einstein had this idea,
+
+1818
+01:18:41,670 --> 01:18:43,600
+somehow this is, this is funny.
+
+1819
+01:18:43,600 --> 01:18:44,600
+Yeah.
+
+1820
+01:18:44,600 --> 01:18:45,980
+So what was spooky?
+
+1821
+01:18:45,980 --> 01:18:47,160
+What was spooky about it?
+
+1822
+01:18:47,160 --> 01:18:48,980
+This is what was spooky about it.
+
+1823
+01:18:48,980 --> 01:18:52,980
+That it violated a, uh, a classical logic proposition.
+
+1824
+01:18:52,980 --> 01:18:55,680
+Now, it's not surprising that
+
+1825
+01:18:55,680 --> 01:18:58,380
+you can violate classical logic propositions.
+
+1826
+01:18:58,380 --> 01:19:00,260
+Quantum mechanics is not classical logic.
+
+1827
+01:19:00,260 --> 01:19:02,000
+But he just pinned one down.
+
+1828
+01:19:02,000 --> 01:19:05,220
+He just pinned one down very, very solidly.
+
+1829
+01:19:05,220 --> 01:19:07,980
+And uh, was very quantitative about it.
+
+1830
+01:19:07,980 --> 01:19:10,750
+Uh, the fact that the experiment was done
+
+1831
+01:19:10,750 --> 01:19:13,520
+was probably less important than he put his
+
+1832
+01:19:13,520 --> 01:19:13,980
+finger on a, uh.
+
+1833
+01:19:13,980 --> 01:19:17,860
+On a thought experiment that could be done,
+
+1834
+01:19:17,860 --> 01:19:21,740
+which would, if it were done, would rule out
+
+1835
+01:19:21,740 --> 01:19:23,360
+a classical underlying basis.
+
+1836
+01:19:23,360 --> 01:19:24,740
+He didn't have to do the experiment.
+
+1837
+01:19:24,740 --> 01:19:26,219
+He said, no, this, this is enough.
+
+1838
+01:19:26,219 --> 01:19:27,219
+This is enough.
+
+1839
+01:19:27,219 --> 01:19:29,440
+I know that quantum mechanics will work for this.
+
+1840
+01:19:29,440 --> 01:19:31,829
+And therefore, I know that quantum
+
+1841
+01:19:31,829 --> 01:19:34,219
+mechanics cannot have an underlying classical basis.
+
+1842
+01:19:34,219 --> 01:19:37,219
+Uh, he was very ambivalent about all of this.
+
+1843
+01:19:37,219 --> 01:19:38,289
+I mean, some of the
+
+1844
+01:19:38,289 --> 01:19:39,360
+times he thought this was brilliant.
+
+1845
+01:19:39,360 --> 01:19:41,759
+Some of the times he thought, oh, it's trivial.
+
+1846
+01:19:41,759 --> 01:19:42,559
+And then toward the end of his life, he
+
+1847
+01:19:42,559 --> 01:19:43,360
+started to, he started to, he started to, he started
+
+1848
+01:19:43,360 --> 01:19:45,269
+to, he thought it was so brilliant
+
+1849
+01:19:45,269 --> 01:19:47,179
+that he began to question quantum mechanics.
+
+1850
+01:19:47,179 --> 01:19:49,579
+And uh, began to question whether
+
+1851
+01:19:49,579 --> 01:19:51,980
+quantum mechanics, uh, was the right theory.
+
+1852
+01:19:51,980 --> 01:19:52,980
+But uh, yeah.
+
+1853
+01:19:52,980 --> 01:19:53,980
+Well, why don't you address me?
+
+1854
+01:19:53,980 --> 01:19:54,480
+This isn't a question, but it
+
+1855
+01:19:54,480 --> 01:19:54,980
+might, maybe you can comment on it.
+
+1856
+01:19:54,980 --> 01:19:55,480
+Uh, usually you think quantum
+
+1857
+01:19:55,480 --> 01:19:55,980
+mechanics is really tiny things.
+
+1858
+01:19:55,980 --> 01:19:56,480
+But here, you've got two electrons that are
+
+1859
+01:19:56,480 --> 01:19:56,980
+flying apart, and they could be miles apart.
+
+1860
+01:19:56,980 --> 01:19:57,980
+And I still have a gauntlet of electrons.
+
+1861
+01:19:57,980 --> 01:19:58,480
+And I, I, I, I, I, I, I, I, I, I, I, I, I, I,
+
+1862
+01:19:58,480 --> 01:19:58,980
+I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I,
+
+1863
+01:19:58,980 --> 01:20:01,070
+yor just like, yor just like, it could be
+
+1864
+01:20:01,070 --> 01:20:03,160
+a normal wave function and I still have a
+
+1865
+01:20:03,160 --> 01:20:04,320
+common wave function.
+
+1866
+01:20:04,320 --> 01:20:06,599
+And so now it's a really
+
+1867
+01:20:06,599 --> 01:20:08,879
+large thing that you're talking about.
+
+1868
+01:20:08,879 --> 01:20:10,940
+Well, it's small things far apart.
+
+1869
+01:20:10,940 --> 01:20:12,339
+I mean.
+
+1870
+01:20:12,339 --> 01:20:15,519
+Uh, you couldn't do it with two
+
+1871
+01:20:15,519 --> 01:20:18,700
+bowling balls, let's put it that way.
+
+1872
+01:20:18,700 --> 01:20:19,700
+That's it.
+
+1873
+01:20:19,700 --> 01:20:23,800
+We all, we all, we'll bring this, we'll
+
+1874
+01:20:23,800 --> 01:20:27,900
+just bring this, so from your point earlier, if
+
+1875
+01:20:27,900 --> 01:20:28,900
+we process Dietrich's theory from science, then—
+
+1876
+01:20:28,900 --> 01:20:33,059
+but I mean, you still, it's still about small things,
+
+1877
+01:20:33,179 --> 01:20:35,679
+but the small things, you have to be careful
+
+1878
+01:20:35,679 --> 01:20:37,820
+to keep the quantum wave function intact
+
+1879
+01:20:37,820 --> 01:20:39,040
+when you take things apart.
+
+1880
+01:20:39,879 --> 01:20:42,980
+When you take things apart, disturbing influences
+
+1881
+01:20:42,980 --> 01:20:44,620
+can ruin the wave function.
+
+1882
+01:20:45,040 --> 01:20:46,700
+For example, just the atmosphere,
+
+1883
+01:20:47,160 --> 01:20:49,879
+interacting with the atmosphere can do things
+
+1884
+01:20:49,879 --> 01:20:52,320
+to the wave function that ruin the experiment.
+
+1885
+01:20:52,920 --> 01:20:56,040
+So when you take them apart, it's very delicate.
+
+1886
+01:20:56,620 --> 01:20:57,860
+You better do it in a vacuum.
+
+1887
+01:20:57,860 --> 01:20:59,320
+You better do it cold.
+
+1888
+01:20:59,540 --> 01:21:01,940
+You better make sure that there's no photons around
+
+1889
+01:21:01,940 --> 01:21:03,420
+that can interact with the electrons,
+
+1890
+01:21:03,820 --> 01:21:06,339
+and care is required.
+
+1891
+01:21:07,179 --> 01:21:08,780
+And the further you take them apart,
+
+1892
+01:21:08,880 --> 01:21:10,980
+the more care that's going to be required,
+
+1893
+01:21:11,160 --> 01:21:12,609
+because the quantum wave function
+
+1894
+01:21:12,609 --> 01:21:14,059
+tends to get out of sync,
+
+1895
+01:21:14,400 --> 01:21:17,280
+not by itself, but by interaction with other things,
+
+1896
+01:21:17,400 --> 01:21:18,679
+interaction with an environment.
+
+1897
+01:21:18,920 --> 01:21:20,559
+I think we'll try to talk a little about
+
+1898
+01:21:20,559 --> 01:21:21,820
+interaction with an environment.
+
+1899
+01:21:23,139 --> 01:21:26,719
+So the idea that you could measure something
+
+1900
+01:21:26,719 --> 01:21:27,820
+about that second wave function,
+
+1901
+01:21:27,860 --> 01:21:30,480
+just by looking at the first one,
+
+1902
+01:21:31,139 --> 01:21:35,500
+and so therefore Heisenberg's uncertainty principle,
+
+1903
+01:21:36,780 --> 01:21:38,679
+the way I think Heisenberg understood it,
+
+1904
+01:21:38,719 --> 01:21:40,639
+wouldn't be valid.
+
+1905
+01:21:41,460 --> 01:21:43,870
+Well, no, I mean, this is
+
+1906
+01:21:43,870 --> 01:21:46,280
+a trick which makes it look like
+
+1907
+01:21:46,280 --> 01:21:48,440
+you're violating Heisenberg's uncertainty principle,
+
+1908
+01:21:48,660 --> 01:21:51,980
+but it is still true that you cannot directly measure
+
+1909
+01:21:51,980 --> 01:21:56,019
+certain simultaneous properties about one electron.
+
+1910
+01:21:56,019 --> 01:21:57,519
+You really haven't done that.
+
+1911
+01:21:57,860 --> 01:22:00,599
+You can measure the position of one of them,
+
+1912
+01:22:01,120 --> 01:22:03,460
+and the velocity of the other one.
+
+1913
+01:22:04,120 --> 01:22:06,780
+Yeah, nobody's going to stop you from doing that.
+
+1914
+01:22:06,860 --> 01:22:08,939
+You can do that, but
+
+1915
+01:22:08,939 --> 01:22:11,019
+it's not quite the same thing
+
+1916
+01:22:11,019 --> 01:22:13,240
+as measuring the position and velocity of one electron.
+
+1917
+01:22:17,219 --> 01:22:18,820
+And in fact, I mean, there's a theorem
+
+1918
+01:22:18,820 --> 01:22:20,880
+that you really can't make a machine
+
+1919
+01:22:20,880 --> 01:22:26,839
+that will replicate a quantum system
+
+1920
+01:22:26,839 --> 01:22:27,839
+with another electron.
+
+1921
+01:22:27,860 --> 01:22:29,240
+And you can do that
+
+1922
+01:22:29,240 --> 01:22:30,620
+with another one just like it.
+
+1923
+01:22:30,620 --> 01:22:32,360
+In fact, we could prove that theorem right now
+
+1924
+01:22:32,360 --> 01:22:34,120
+if we want, although we'll do it in a minute.
+
+1925
+01:22:34,120 --> 01:22:36,360
+Well, should we do the no-cloning theorem?
+
+1926
+01:22:36,360 --> 01:22:38,360
+All right, do it in a minute.
+
+1927
+01:22:38,360 --> 01:22:39,360
+Yeah.
+
+1928
+01:22:39,360 --> 01:22:44,360
+In your argument, you use the product of two projections
+
+1929
+01:22:44,360 --> 01:22:48,360
+to simulate the end of two propositions.
+
+1930
+01:22:48,360 --> 01:22:51,360
+So does that mean that the product took a two-
+
+1931
+01:22:51,360 --> 01:22:52,860
+Oh, yeah, yeah, okay.
+
+1932
+01:22:52,860 --> 01:22:53,860
+All right, yeah, yeah, yeah,
+
+1933
+01:22:53,860 --> 01:22:54,860
+I wanted to come to that.
+
+1934
+01:22:54,860 --> 01:22:56,120
+I forgot about that, yeah.
+
+1935
+01:22:56,120 --> 01:22:57,120
+Okay.
+
+1936
+01:22:57,120 --> 01:23:00,120
+So when two propositions are independent of each other,
+
+1937
+01:23:00,120 --> 01:23:01,120
+now, what does that mean?
+
+1938
+01:23:01,120 --> 01:23:04,120
+That means that you can measure both of them simultaneously.
+
+1939
+01:23:04,120 --> 01:23:06,620
+It means that the projection
+
+1940
+01:23:06,620 --> 01:23:09,120
+operators commute with each other.
+
+1941
+01:23:09,120 --> 01:23:12,120
+If you have two commuting projection operators,
+
+1942
+01:23:12,120 --> 01:23:15,120
+then the and statement means something.
+
+1943
+01:23:15,120 --> 01:23:18,120
+A projection, for example, what doesn't mean something
+
+1944
+01:23:18,120 --> 01:23:21,120
+would be to say if you only had one electron.
+
+1945
+01:23:21,120 --> 01:23:23,120
+If you had one electron, you could ask,
+
+1946
+01:23:23,120 --> 01:23:25,120
+what's the probability that the spin
+
+1947
+01:23:25,120 --> 01:23:27,120
+is both up along the end,
+
+1948
+01:23:27,120 --> 01:23:32,120
+along the third axis, and up along the second axis?
+
+1949
+01:23:32,120 --> 01:23:33,120
+All right.
+
+1950
+01:23:33,120 --> 01:23:35,120
+That would be a meaningless question.
+
+1951
+01:23:35,120 --> 01:23:38,120
+You can't do that because the two components of spin
+
+1952
+01:23:38,120 --> 01:23:40,120
+don't commute with each other.
+
+1953
+01:23:40,120 --> 01:23:43,120
+If you multiply them, take the two projection operators,
+
+1954
+01:23:43,120 --> 01:23:47,120
+one of them is 1 plus sigma 3 over 2,
+
+1955
+01:23:47,120 --> 01:23:50,120
+and the other is 1
+
+1956
+01:23:50,120 --> 01:23:53,120
+plus sigma 1 over 2, right?
+
+1957
+01:23:53,120 --> 01:23:54,620
+Is that the way to write it, or
+
+1958
+01:23:54,620 --> 01:23:56,120
+should I put them in the other order?
+
+1959
+01:23:56,120 --> 01:23:58,120
+You get a different answer.
+
+1960
+01:23:58,120 --> 01:24:02,120
+So there's no meaningful and for the
+
+1961
+01:24:02,120 --> 01:24:06,120
+spin is up along the third axis
+
+1962
+01:24:06,120 --> 01:24:09,120
+and the spin is up along the first axis.
+
+1963
+01:24:09,120 --> 01:24:10,120
+All right.
+
+1964
+01:24:10,120 --> 01:24:14,120
+That's a forbidden kind of and.
+
+1965
+01:24:14,120 --> 01:24:17,120
+But here we're talking about two different electrons,
+
+1966
+01:24:17,120 --> 01:24:18,620
+and all of the operators for
+
+1967
+01:24:18,620 --> 01:24:20,120
+one electron commute with all the operators
+
+1968
+01:24:20,120 --> 01:24:22,120
+of the other electron.
+
+1969
+01:24:22,120 --> 01:24:25,120
+It doesn't matter which order you apply sigma and tau.
+
+1970
+01:24:25,120 --> 01:24:26,620
+That's because sigma acts on one of
+
+1971
+01:24:26,620 --> 01:24:28,120
+them and tau acts on the other one,
+
+1972
+01:24:28,120 --> 01:24:30,120
+and they completely commute.
+
+1973
+01:24:30,120 --> 01:24:32,120
+They're completely independent measurements.
+
+1974
+01:24:32,120 --> 01:24:34,120
+They don't interfere with each other.
+
+1975
+01:24:34,120 --> 01:24:36,120
+Measuring one spin doesn't really
+
+1976
+01:24:36,120 --> 01:24:38,120
+do anything to the other one,
+
+1977
+01:24:38,120 --> 01:24:41,120
+particularly if they're far apart.
+
+1978
+01:24:41,120 --> 01:24:44,120
+So, yes, that's something I should have stressed.
+
+1979
+01:24:44,120 --> 01:24:48,120
+Yes, the product is the and operation,
+
+1980
+01:24:48,120 --> 01:24:51,120
+but it only makes sense if the two projection operators
+
+1981
+01:24:51,120 --> 01:24:54,120
+or if the two properties are compatible.
+
+1982
+01:24:54,120 --> 01:24:56,120
+If the two properties are compatible,
+
+1983
+01:24:56,120 --> 01:24:58,120
+which means they commute with each other,
+
+1984
+01:24:58,120 --> 01:25:01,120
+then the product is the and.
+
+1985
+01:25:01,120 --> 01:25:03,120
+That was your question?
+
+1986
+01:25:03,120 --> 01:25:06,120
+Yeah, okay, good, good point.
+
+1987
+01:25:06,120 --> 01:25:09,120
+Yeah.
+
+1988
+01:25:09,120 --> 01:25:11,620
+One way I've heard this described
+
+1989
+01:25:11,620 --> 01:25:14,120
+is that in terms of the measurement
+
+1990
+01:25:14,120 --> 01:25:17,120
+of one particle imposes a constraint
+
+1991
+01:25:17,120 --> 01:25:20,120
+or partial wave function of the class.
+
+1992
+01:25:20,120 --> 01:25:22,120
+Okay, well, yeah.
+
+1993
+01:25:22,120 --> 01:25:23,120
+All right.
+
+1994
+01:25:23,120 --> 01:25:24,620
+Do you feel that's a
+
+1995
+01:25:24,620 --> 01:25:26,120
+helpful way of looking at it?
+
+1996
+01:25:26,120 --> 01:25:27,620
+Well, I don't know that it's particularly a helpful
+
+1997
+01:25:27,620 --> 01:25:29,120
+way of looking at Bell's theorem and so forth,
+
+1998
+01:25:29,120 --> 01:25:34,120
+but that's what I wanted to come to.
+
+1999
+01:25:34,120 --> 01:25:36,120
+I wanted to come either to the no-cloning theorem
+
+2000
+01:25:36,120 --> 01:25:38,620
+or the measurement process and
+
+2001
+01:25:38,620 --> 01:25:41,120
+the collapse of the wave packet
+
+2002
+01:25:41,120 --> 01:25:44,120
+or the collapse of the wave function
+
+2003
+01:25:44,120 --> 01:25:47,120
+as being a special case of entanglement.
+
+2004
+01:25:47,120 --> 01:25:48,120
+Which one should we do?
+
+2005
+01:25:48,120 --> 01:25:52,120
+I think we're better off today doing the no-cloning.
+
+2006
+01:25:53,120 --> 01:25:57,120
+And then next time we'll talk about the measurement process
+
+2007
+01:25:57,120 --> 01:26:00,120
+as a process of entanglement.
+
+2008
+01:26:00,120 --> 01:26:04,120
+Entanglement of what with what?
+
+2009
+01:26:04,120 --> 01:26:06,620
+The apparatus getting entangled with
+
+2010
+01:26:06,620 --> 01:26:09,120
+the system that you're measuring.
+
+2011
+01:26:09,120 --> 01:26:11,120
+That's what happens when you do an experiment.
+
+2012
+01:26:11,120 --> 01:26:13,120
+When you do an experiment, you have a,
+
+2013
+01:26:13,120 --> 01:26:15,120
+you may have a, you know, a dial,
+
+2014
+01:26:15,120 --> 01:26:17,620
+not a dial, a pointer that tells you
+
+2015
+01:26:17,620 --> 01:26:20,120
+if it goes this way, the spin was up.
+
+2016
+01:26:20,120 --> 01:26:22,120
+If it goes that way, the spin was down.
+
+2017
+01:26:22,120 --> 01:26:25,580
+You take your electron and you put it
+
+2018
+01:26:25,580 --> 01:26:29,040
+into the apparatus, and if the electron is up,
+
+2019
+01:26:29,040 --> 01:26:31,059
+then the pointer points this way.
+
+2020
+01:26:31,059 --> 01:26:32,759
+If the electron is down,
+
+2021
+01:26:32,759 --> 01:26:34,460
+then the pointer points this way.
+
+2022
+01:26:34,460 --> 01:26:35,480
+Sounds like entanglement.
+
+2023
+01:26:35,480 --> 01:26:37,300
+Sounds like entanglement between the apparatus
+
+2024
+01:26:37,300 --> 01:26:39,120
+and the electron, and it is.
+
+2025
+01:26:39,120 --> 01:26:42,460
+That's what the measurement is, but we'll come to that.
+
+2026
+01:26:42,460 --> 01:26:45,340
+I want to prove a little theorem for you.
+
+2027
+01:26:45,340 --> 01:26:53,460
+We're going to have to introduce some additional things.
+
+2028
+01:26:53,460 --> 01:26:54,820
+We have not talked about
+
+2029
+01:26:54,820 --> 01:26:56,180
+how state vectors change with time.
+
+2030
+01:26:56,180 --> 01:26:59,680
+We're going to talk about that next time, I think.
+
+2031
+01:26:59,680 --> 01:27:04,630
+But I'm going to tell you one
+
+2032
+01:27:04,630 --> 01:27:09,580
+fact about the time evolution of wave functions.
+
+2033
+01:27:09,580 --> 01:27:12,700
+Namely, it's linear.
+
+2034
+01:27:12,700 --> 01:27:14,180
+What does that mean?
+
+2035
+01:27:14,180 --> 01:27:15,340
+That means if you start with a wave function,
+
+2036
+01:27:15,340 --> 01:27:23,420
+a, and under time, or under some process,
+
+2037
+01:27:23,420 --> 01:27:29,360
+it transforms into wave function, let's say, a prime.
+
+2038
+01:27:29,360 --> 01:27:32,740
+And if we start with a wave function b,
+
+2039
+01:27:32,740 --> 01:27:36,120
+a different one, and it goes to b prime,
+
+2040
+01:27:36,120 --> 01:27:40,730
+then if you start with the
+
+2041
+01:27:40,730 --> 01:27:45,340
+wave function alpha a plus beta b,
+
+2042
+01:27:45,340 --> 01:27:50,840
+in time, it will go to
+
+2043
+01:27:50,840 --> 01:27:56,340
+the same linear combination of a prime.
+
+2044
+01:27:56,340 --> 01:27:59,340
+That's a postulate of quantum mechanics,
+
+2045
+01:27:59,340 --> 01:28:02,340
+which is certainly experimentally extremely well tested.
+
+2046
+01:28:02,340 --> 01:28:06,840
+And what it says is that the wave function, or
+
+2047
+01:28:06,840 --> 01:28:11,340
+the state vector of a system, changes in time linearly.
+
+2048
+01:28:11,340 --> 01:28:15,180
+Linearly means that superpositions of states,
+
+2049
+01:28:15,180 --> 01:28:20,180
+transform into superpositions of states, in a linear way.
+
+2050
+01:28:20,180 --> 01:28:23,180
+That's a postulate of quantum mechanics, which is
+
+2051
+01:28:23,180 --> 01:28:26,180
+experimentally known to be true to extremely high accuracy.
+
+2052
+01:28:26,180 --> 01:28:28,180
+It's the linearity of quantum mechanics.
+
+2053
+01:28:28,180 --> 01:28:32,180
+So let me show you what
+
+2054
+01:28:32,180 --> 01:28:36,180
+it says about trying to clone systems.
+
+2055
+01:28:36,180 --> 01:28:39,180
+Here's our goal. Here's the goal of cloning.
+
+2056
+01:28:39,180 --> 01:28:41,680
+Supposing I have a system
+
+2057
+01:28:41,680 --> 01:28:44,180
+in any old quantum state whatever.
+
+2058
+01:28:44,180 --> 01:28:47,180
+I want the machine that I can feed it into,
+
+2059
+01:28:47,180 --> 01:28:49,680
+and that machine will spit
+
+2060
+01:28:49,680 --> 01:28:52,180
+out two copies, two identical copies,
+
+2061
+01:28:52,180 --> 01:28:55,180
+each in the same wave function
+
+2062
+01:28:55,180 --> 01:28:58,180
+that the original one system started with.
+
+2063
+01:28:58,180 --> 01:29:01,180
+So it's a cloning operation.
+
+2064
+01:29:01,180 --> 01:29:04,180
+And in particular, for example,
+
+2065
+01:29:04,180 --> 01:29:07,180
+in fact, whatever the initial state of the system is,
+
+2066
+01:29:07,180 --> 01:29:11,180
+it should produce two systems in the identical state.
+
+2067
+01:29:11,180 --> 01:29:13,180
+That's the cloning...
+
+2068
+01:29:14,180 --> 01:29:16,180
+goal.
+
+2069
+01:29:16,180 --> 01:29:19,180
+To be able to clone quantum systems.
+
+2070
+01:29:19,180 --> 01:29:22,180
+Now, classical cloning is possible.
+
+2071
+01:29:22,180 --> 01:29:24,680
+The Xerox machine classically clones
+
+2072
+01:29:24,680 --> 01:29:27,180
+information on a piece of paper.
+
+2073
+01:29:27,180 --> 01:29:29,180
+It doesn't do it exactly faithfully,
+
+2074
+01:29:29,180 --> 01:29:31,180
+because little errors happen and so forth,
+
+2075
+01:29:31,180 --> 01:29:34,180
+but the degree of error can be controlled,
+
+2076
+01:29:34,180 --> 01:29:36,180
+and so you can clone classical systems.
+
+2077
+01:29:36,180 --> 01:29:38,680
+You can build machines that whatever state on
+
+2078
+01:29:38,680 --> 01:29:41,180
+that piece of paper you put into it,
+
+2079
+01:29:41,180 --> 01:29:44,180
+it will produce two pieces of paper with identical states.
+
+2080
+01:29:44,180 --> 01:29:46,180
+So you can build something...
+
+2081
+01:29:46,180 --> 01:29:47,180
+that has only one,
+
+2082
+01:29:47,180 --> 01:29:49,180
+that has no information,
+
+2083
+01:29:49,180 --> 01:29:52,180
+is called an independent system.
+
+2084
+01:29:52,180 --> 01:29:55,180
+I see that that means that there is no quantum,
+
+2085
+01:29:55,180 --> 01:29:57,180
+there is no quantum here.
+
+2086
+01:29:57,180 --> 01:29:58,180
+All right?
+
+2087
+01:29:58,180 --> 01:30:00,180
+I actually rediscovered the no
+
+2088
+01:30:00,180 --> 01:30:02,180
+cloning theorem a long time ago
+
+2089
+01:30:02,180 --> 01:30:05,180
+and called it the no Xerox principle.
+
+2090
+01:30:05,180 --> 01:30:08,180
+And string theorists call it the no Xerox principle.
+
+2091
+01:30:08,180 --> 01:30:10,180
+No quantum Xerox principle.
+
+2092
+01:30:10,180 --> 01:30:12,180
+All right, so here's...
+
+2093
+01:30:12,180 --> 01:30:13,180
+All you have to do
+
+2094
+01:30:13,180 --> 01:30:14,180
+is prove it for one system.
+
+2095
+01:30:14,180 --> 01:30:16,880
+Here's my cloning apparatus.
+
+2096
+01:30:16,880 --> 01:30:18,680
+It has a port over here that you put stuff
+
+2097
+01:30:18,680 --> 01:30:20,480
+into and it has two ports over here that you
+
+2098
+01:30:20,480 --> 01:30:22,040
+take stuff out of.
+
+2099
+01:30:22,040 --> 01:30:25,140
+Alright, so in goes one in, in goes
+
+2100
+01:30:25,140 --> 01:30:28,240
+your system, and out comes two identical copies.
+
+2101
+01:30:28,240 --> 01:30:31,360
+Let's start with an up electron.
+
+2102
+01:30:31,360 --> 01:30:33,380
+Supposing we start with an up electron.
+
+2103
+01:30:33,380 --> 01:30:36,940
+So we start with one electron in the up state.
+
+2104
+01:30:36,940 --> 01:30:38,560
+Let's just call it up.
+
+2105
+01:30:38,560 --> 01:30:39,840
+Up.
+
+2106
+01:30:39,840 --> 01:30:40,840
+What do we get out?
+
+2107
+01:30:40,840 --> 01:30:43,600
+We get out two ups.
+
+2108
+01:30:43,600 --> 01:30:44,600
+Up, up.
+
+2109
+01:30:44,600 --> 01:30:45,600
+By assumption.
+
+2110
+01:30:45,600 --> 01:30:46,600
+By assumption.
+
+2111
+01:30:46,600 --> 01:30:50,500
+Alright, so we can say then that the
+
+2112
+01:30:50,500 --> 01:30:54,400
+up, the single electron state, evolves in time into
+
+2113
+01:30:54,400 --> 01:30:55,900
+a two electron state.
+
+2114
+01:30:55,900 --> 01:30:59,140
+How it does this, nobody knows.
+
+2115
+01:30:59,140 --> 01:31:00,990
+Incidentally that violates charge conservation,
+
+2116
+01:31:00,990 --> 01:31:02,840
+so let's make it neutrons.
+
+2117
+01:31:02,840 --> 01:31:03,840
+Hmm?
+
+2118
+01:31:03,840 --> 01:31:04,840
+What?
+
+2119
+01:31:04,840 --> 01:31:05,840
+Mass conservation.
+
+2120
+01:31:05,840 --> 01:31:08,280
+No, no, no, no, no,
+
+2121
+01:31:08,280 --> 01:31:10,720
+no, no, no, no, no, no.
+
+2122
+01:31:10,720 --> 01:31:12,160
+That means energy conservation, but
+
+2123
+01:31:12,160 --> 01:31:13,600
+energy doesn't have to be conserved.
+
+2124
+01:31:13,600 --> 01:31:16,600
+It can borrow energy from the machine.
+
+2125
+01:31:16,600 --> 01:31:19,360
+It can borrow energy from the machine.
+
+2126
+01:31:19,360 --> 01:31:21,480
+Okay, but it would violate charge conservation
+
+2127
+01:31:21,480 --> 01:31:23,600
+unless it can get charged from the machine.
+
+2128
+01:31:23,600 --> 01:31:24,600
+And that's okay.
+
+2129
+01:31:24,600 --> 01:31:26,260
+There's nothing wrong with that.
+
+2130
+01:31:26,260 --> 01:31:28,360
+But let's just say neutrons and make it simpler.
+
+2131
+01:31:28,360 --> 01:31:29,600
+No electric charge conservation.
+
+2132
+01:31:29,600 --> 01:31:31,100
+Say the machine is operated
+
+2133
+01:31:31,100 --> 01:31:32,600
+for free so there's no charge.
+
+2134
+01:31:32,600 --> 01:31:33,600
+What's that?
+
+2135
+01:31:33,600 --> 01:31:37,600
+The machine is operated for free so there's no charge.
+
+2136
+01:31:37,600 --> 01:31:38,600
+Yeah.
+
+2137
+01:31:38,600 --> 01:31:39,600
+Okay.
+
+2138
+01:31:39,600 --> 01:31:40,600
+So, up by itself goes
+
+2139
+01:31:40,600 --> 01:31:41,600
+to a state with two electrons.
+
+2140
+01:31:41,600 --> 01:31:42,600
+Okay.
+
+2141
+01:31:42,600 --> 01:31:45,100
+So there's a state with two electrons
+
+2142
+01:31:45,100 --> 01:31:47,600
+which I'm going to write as up, up.
+
+2143
+01:31:47,600 --> 01:31:50,600
+There's two electrons each in the up state.
+
+2144
+01:31:50,600 --> 01:31:52,100
+And I'm just going to write it
+
+2145
+01:31:52,100 --> 01:31:53,600
+by putting two ups next to each other.
+
+2146
+01:31:53,600 --> 01:31:56,600
+What if I put down in here?
+
+2147
+01:31:56,600 --> 01:31:58,600
+What comes out?
+
+2148
+01:31:58,600 --> 01:32:00,600
+Two downs.
+
+2149
+01:32:00,600 --> 01:32:02,100
+Assuming that I was able
+
+2150
+01:32:02,100 --> 01:32:03,600
+to build a quantum Xerox machine.
+
+2151
+01:32:03,600 --> 01:32:05,600
+And two downs come out.
+
+2152
+01:32:05,600 --> 01:32:10,600
+So, down will evolve eventually into down.
+
+2153
+01:32:10,600 --> 01:32:11,600
+Okay.
+
+2154
+01:32:11,600 --> 01:32:13,600
+Now, supposing I put an electron in.
+
+2155
+01:32:13,600 --> 01:32:15,100
+This was an electron that was
+
+2156
+01:32:15,100 --> 01:32:16,600
+pointing up along the third axis.
+
+2157
+01:32:16,600 --> 01:32:18,600
+So we have our axes again.
+
+2158
+01:32:18,600 --> 01:32:20,600
+Now I'm going to put in an electron which
+
+2159
+01:32:20,600 --> 01:32:22,600
+happens not to be oriented along the third axis,
+
+2160
+01:32:22,600 --> 01:32:24,600
+but what happens to be oriented
+
+2161
+01:32:24,600 --> 01:32:26,600
+along the first axis, the X1 axis.
+
+2162
+01:32:26,600 --> 01:32:27,600
+So what should I call it?
+
+2163
+01:32:27,600 --> 01:32:29,600
+Instead of down, let's call it left.
+
+2164
+01:32:29,600 --> 01:32:30,600
+Or right.
+
+2165
+01:32:30,600 --> 01:32:31,600
+Right.
+
+2166
+01:32:31,600 --> 01:32:32,600
+Up, down, up.
+
+2167
+01:32:32,600 --> 01:32:33,600
+Down, up.
+
+2168
+01:32:33,600 --> 01:32:34,600
+Down, up.
+
+2169
+01:32:34,600 --> 01:32:35,600
+Down, up.
+
+2170
+01:32:35,600 --> 01:32:36,600
+Down, up.
+
+2171
+01:32:36,600 --> 01:32:37,600
+Down, up.
+
+2172
+01:32:37,600 --> 01:32:38,600
+Down, up.
+
+2173
+01:32:38,600 --> 01:32:39,600
+Down, up.
+
+2174
+01:32:39,600 --> 01:32:40,600
+Down, up.
+
+2175
+01:32:40,600 --> 01:32:45,600
+Up, down, left, right, and in, out.
+
+2176
+01:32:45,600 --> 01:32:46,600
+Okay.
+
+2177
+01:32:46,600 --> 01:32:48,600
+So now I want to put in
+
+2178
+01:32:48,600 --> 01:32:50,600
+here an electron pointing to the right.
+
+2179
+01:32:50,600 --> 01:32:52,600
+In other words, at 90 degrees
+
+2180
+01:32:52,600 --> 01:32:54,600
+along the X axis, for example.
+
+2181
+01:32:54,600 --> 01:32:57,100
+And if I have a faithful cloning machine,
+
+2182
+01:32:57,100 --> 01:32:59,600
+I'm not going to redraw the cloning machine.
+
+2183
+01:32:59,600 --> 01:33:02,600
+If I have a faithful cloning machine,
+
+2184
+01:33:02,600 --> 01:33:05,600
+it should take right to right, right.
+
+2185
+01:33:05,600 --> 01:33:06,600
+Right?
+
+2186
+01:33:06,600 --> 01:33:07,600
+Right.
+
+2187
+01:33:07,600 --> 01:33:08,600
+Right.
+
+2188
+01:33:08,600 --> 01:33:09,600
+Okay.
+
+2189
+01:33:09,600 --> 01:33:10,600
+Okay.
+
+2190
+01:33:10,600 --> 01:33:11,600
+Okay.
+
+2191
+01:33:11,600 --> 01:33:12,600
+But what is right?
+
+2192
+01:33:12,600 --> 01:33:13,600
+What is the right state?
+
+2193
+01:33:13,600 --> 01:33:19,100
+The right state is just up plus
+
+2194
+01:33:19,100 --> 01:33:24,600
+down divided by square root of 2, right?
+
+2195
+01:33:24,600 --> 01:33:27,600
+So what I've actually put in on the left-hand
+
+2196
+01:33:27,600 --> 01:33:30,600
+side is up plus down over the square root
+
+2197
+01:33:30,600 --> 01:33:31,600
+of 2.
+
+2198
+01:33:31,600 --> 01:33:32,600
+Right?
+
+2199
+01:33:32,600 --> 01:33:33,600
+Up plus down.
+
+2200
+01:33:33,600 --> 01:33:35,100
+But I know what I get
+
+2201
+01:33:35,100 --> 01:33:36,600
+out if I put in up.
+
+2202
+01:33:36,600 --> 01:33:37,600
+If I put in up, I get up, up.
+
+2203
+01:33:37,600 --> 01:33:38,600
+If I put in up, I get up, up.
+
+2204
+01:33:38,600 --> 01:33:39,600
+If I put in down, I get down, down.
+
+2205
+01:33:39,600 --> 01:33:40,100
+If the evolution is linear like this, then that
+
+2206
+01:33:40,100 --> 01:33:40,600
+already tells me what I get if I put
+
+2207
+01:33:40,600 --> 01:33:41,600
+in up plus down.
+
+2208
+01:33:41,600 --> 01:33:42,600
+What do I get?
+
+2209
+01:33:42,600 --> 01:33:43,600
+Well, if I put in up, I get up, up.
+
+2210
+01:33:43,600 --> 01:33:44,100
+If I put in down, well, let's, let's
+
+2211
+01:33:44,100 --> 01:33:44,600
+write it as I, I get down, down.
+
+2212
+01:33:44,600 --> 01:33:45,600
+All the square root of 2, right?
+
+2213
+01:33:45,600 --> 01:33:46,600
+All that stuff is right.
+
+2214
+01:33:46,600 --> 01:33:47,100
+That's because I already have
+
+2215
+01:33:47,100 --> 01:33:47,600
+an electron pointing to the right.
+
+2216
+01:33:47,600 --> 01:33:48,100
+So that's, that's not too bad and that's not
+
+2217
+01:33:48,100 --> 01:33:48,600
+too bad as far as, anything can be solved.
+
+2218
+01:33:48,600 --> 01:33:49,100
+I don't know what it's going
+
+2219
+01:33:49,100 --> 01:33:49,600
+to be if I put in up.
+
+2220
+01:33:49,600 --> 01:33:50,600
+What do I get?
+
+2221
+01:33:50,600 --> 01:33:51,600
+Well, I get 1 plus down.
+
+2222
+01:33:51,600 --> 01:33:52,600
+Well, I get 1 plus down.
+
+2223
+01:33:52,600 --> 01:33:53,600
+1 plus down.
+
+2224
+01:33:53,600 --> 01:33:54,600
+Of course, I mean, if I put it's up.
+
+2225
+01:33:54,600 --> 01:34:02,370
+If I put in down, well let's write it
+
+2226
+01:34:02,370 --> 01:34:10,140
+as I get down down, over square root of 2.
+
+2227
+01:34:10,140 --> 01:34:13,010
+So the linearity of quantum mechanics, the
+
+2228
+01:34:13,010 --> 01:34:15,880
+fact that the evolution of states is linear,
+
+2229
+01:34:15,880 --> 01:34:17,240
+already tells me what I get
+
+2230
+01:34:17,240 --> 01:34:18,600
+if I put in up plus down.
+
+2231
+01:34:18,600 --> 01:34:21,520
+I don't have any choice.
+
+2232
+01:34:21,520 --> 01:34:22,800
+But what is right right?
+
+2233
+01:34:22,800 --> 01:34:24,920
+Let's see if it agrees.
+
+2234
+01:34:24,920 --> 01:34:26,960
+What does right right mean?
+
+2235
+01:34:26,960 --> 01:34:31,760
+Right right means up plus down for the
+
+2236
+01:34:31,760 --> 01:34:36,560
+first electron times up plus down for the second
+
+2237
+01:34:36,560 --> 01:34:40,380
+electron.
+
+2238
+01:34:40,380 --> 01:34:43,140
+I'm just juxtaposing them by the two electrons.
+
+2239
+01:34:43,140 --> 01:34:44,880
+The first factor corresponds to one electron,
+
+2240
+01:34:44,880 --> 01:34:46,620
+the second factor corresponds to the other
+
+2241
+01:34:46,620 --> 01:34:47,620
+electron.
+
+2242
+01:34:47,620 --> 01:34:51,120
+Sorry, over square root of 2.
+
+2243
+01:34:51,120 --> 01:34:52,120
+Okay.
+
+2244
+01:34:52,120 --> 01:34:52,620
+Okay.
+
+2245
+01:34:52,800 --> 01:34:55,000
+But when I multiply this
+
+2246
+01:34:55,000 --> 01:34:57,200
+out, what do I have here?
+
+2247
+01:34:57,200 --> 01:35:01,020
+I have a configuration with two ups, up times up.
+
+2248
+01:35:01,020 --> 01:35:03,790
+I have a configuration with two downs, but
+
+2249
+01:35:03,790 --> 01:35:06,560
+I also have up down and down up.
+
+2250
+01:35:06,560 --> 01:35:10,670
+Unavoidably, if I take two electrons, each with
+
+2251
+01:35:10,670 --> 01:35:14,780
+spin along the x-axis, I will find, if
+
+2252
+01:35:14,780 --> 01:35:17,350
+I measure the third component of spin, that some
+
+2253
+01:35:17,350 --> 01:35:19,920
+of the times I will find an up and a
+
+2254
+01:35:19,920 --> 01:35:20,920
+down.
+
+2255
+01:35:20,920 --> 01:35:21,920
+Over here.
+
+2256
+01:35:21,920 --> 01:35:22,800
+Over here.
+
+2257
+01:35:22,800 --> 01:35:25,180
+I have two ups and two downs,
+
+2258
+01:35:25,180 --> 01:35:27,560
+but never an up and a down.
+
+2259
+01:35:27,560 --> 01:35:31,800
+So you see the assumption that you can
+
+2260
+01:35:31,800 --> 01:35:36,040
+build a cloning machine which both clones ups and
+
+2261
+01:35:36,040 --> 01:35:40,060
+downs and also clones lefts and rights is inconsistent.
+
+2262
+01:35:40,060 --> 01:35:42,700
+It's inconsistent with the linearity of quantum mechanics.
+
+2263
+01:35:42,700 --> 01:35:49,800
+What if you insist that the two outputs have to...
+
+2264
+01:35:49,800 --> 01:35:50,920
+Say it again.
+
+2265
+01:35:50,920 --> 01:35:53,300
+You seem to be assuming that the two
+
+2266
+01:35:53,300 --> 01:35:55,680
+outputs have to be independent of each other somehow.
+
+2267
+01:35:55,680 --> 01:35:58,020
+Yeah, I'm not sure what it would mean
+
+2268
+01:35:58,020 --> 01:36:00,360
+to clone things unless they were cloning things
+
+2269
+01:36:00,360 --> 01:36:02,360
+to independent things.
+
+2270
+01:36:02,360 --> 01:36:05,120
+Well, sorry.
+
+2271
+01:36:05,120 --> 01:36:07,900
+The assumption was that up produces two
+
+2272
+01:36:07,900 --> 01:36:10,680
+ups and a down produces two downs.
+
+2273
+01:36:10,680 --> 01:36:14,680
+Yeah, but then you explained the right
+
+2274
+01:36:14,680 --> 01:36:18,680
+right would be the product of the...
+
+2275
+01:36:18,680 --> 01:36:19,680
+That's the way you build composites.
+
+2276
+01:36:19,680 --> 01:36:19,920
+Yeah.
+
+2277
+01:36:19,920 --> 01:36:20,080
+Yeah.
+
+2278
+01:36:20,080 --> 01:36:20,260
+Yeah.
+
+2279
+01:36:20,260 --> 01:36:20,320
+Yeah.
+
+2280
+01:36:20,320 --> 01:36:20,380
+Yeah.
+
+2281
+01:36:20,380 --> 01:36:20,480
+Yeah.
+
+2282
+01:36:20,480 --> 01:36:20,560
+Yeah.
+
+2283
+01:36:20,560 --> 01:36:20,580
+Yeah.
+
+2284
+01:36:20,580 --> 01:36:20,680
+Yeah.
+
+2285
+01:36:20,680 --> 01:36:20,880
+Yeah.
+
+2286
+01:36:20,920 --> 01:36:21,360
+Yeah.
+
+2287
+01:36:21,360 --> 01:36:25,030
+That's the way you build states of independent systems
+
+2288
+01:36:25,030 --> 01:36:28,700
+is to multiply the state vectors in that fashion.
+
+2289
+01:36:29,320 --> 01:36:29,960
+It's called taking...
+
+2290
+01:36:29,960 --> 01:36:31,340
+We haven't had the time to do everything.
+
+2291
+01:36:31,500 --> 01:36:33,590
+Unfortunately, we haven't had time to do
+
+2292
+01:36:33,590 --> 01:36:35,680
+everything, but the mathematical operation of combining
+
+2293
+01:36:35,680 --> 01:36:37,480
+systems is called tensor product.
+
+2294
+01:36:37,660 --> 01:36:40,130
+You take the tensor product of
+
+2295
+01:36:40,130 --> 01:36:42,600
+state vectors, and that's what this is.
+
+2296
+01:36:42,600 --> 01:36:46,590
+This is the tensor product of two rights, and
+
+2297
+01:36:46,590 --> 01:36:50,580
+then you expand it out, and you see what's
+
+2298
+01:36:50,580 --> 01:36:53,090
+you see what you get, and
+
+2299
+01:36:53,090 --> 01:36:55,600
+what you get cannot be this
+
+2300
+01:36:55,600 --> 01:36:57,470
+so you're right, there's a degree of assuming
+
+2301
+01:36:57,470 --> 01:36:59,340
+that the two things are independent of each other
+
+2302
+01:36:59,340 --> 01:37:02,040
+but I'm not sure what it would mean to
+
+2303
+01:37:02,040 --> 01:37:04,740
+clone things if they weren't independent of each other
+
+2304
+01:37:04,740 --> 01:37:07,780
+and then you could do independent experiments on them
+
+2305
+01:37:07,780 --> 01:37:11,520
+so it is not possible to take
+
+2306
+01:37:11,520 --> 01:37:15,260
+an object in an arbitrary wave function
+
+2307
+01:37:15,260 --> 01:37:17,980
+and put it into a machine and have it
+
+2308
+01:37:17,980 --> 01:37:20,700
+come out as two replicas of the same thing
+
+2309
+01:37:20,700 --> 01:37:24,380
+A laser is a pretty good cloning device
+
+2310
+01:37:24,380 --> 01:37:29,940
+so where does your argument break down for a laser?
+
+2311
+01:37:29,940 --> 01:37:34,500
+A laser is a cloning device
+
+2312
+01:37:34,500 --> 01:37:38,940
+You put in a photon that has a certain state
+
+2313
+01:37:38,940 --> 01:37:43,380
+and you're going to get a bunch of them produced
+
+2314
+01:37:43,380 --> 01:37:45,220
+That's actually not true
+
+2315
+01:37:45,220 --> 01:37:50,460
+Stimulated emission, the polarization of the output pair of
+
+2316
+01:37:50,460 --> 01:37:55,700
+photons is not quite the same as the input photon
+
+2317
+01:37:55,700 --> 01:37:59,900
+The vector is a linear combination of
+
+2318
+01:37:59,900 --> 01:38:04,100
+the initial magnetic state of the excited atom
+
+2319
+01:38:04,100 --> 01:38:07,300
+plus the incident stimulating photon
+
+2320
+01:38:07,300 --> 01:38:09,900
+So while the two output photons
+
+2321
+01:38:09,900 --> 01:38:12,500
+are identical, they're not the same polarization
+
+2322
+01:38:12,500 --> 01:38:14,100
+I have to think about the question
+
+2323
+01:38:14,100 --> 01:38:15,100
+You may be right
+
+2324
+01:38:15,100 --> 01:38:16,100
+I have to think about the question
+
+2325
+01:38:16,100 --> 01:38:20,600
+So you say you take a photon with
+
+2326
+01:38:20,600 --> 01:38:25,100
+a given polarization and you stimulate some emission
+
+2327
+01:38:25,100 --> 01:38:32,100
+I have to think about what the...
+
+2328
+01:38:32,100 --> 01:38:36,100
+If you analyze it from an information point of view
+
+2329
+01:38:36,100 --> 01:38:38,600
+If the information of the excited
+
+2330
+01:38:38,600 --> 01:38:41,100
+atom contributes to the output state
+
+2331
+01:38:41,100 --> 01:38:43,540
+then that is noise from a cloning point of view
+
+2332
+01:38:43,540 --> 01:38:44,580
+Yeah, exactly
+
+2333
+01:38:45,100 --> 01:38:46,100
+You may be right
+
+2334
+01:38:46,100 --> 01:38:49,600
+I'll think about it this week and see
+
+2335
+01:38:49,600 --> 01:38:53,100
+if I can give you a simple argument
+
+2336
+01:38:53,100 --> 01:38:57,600
+However, there is no controversy about the
+
+2337
+01:38:57,600 --> 01:39:02,100
+fact that you can't build a cloning machine
+
+2338
+01:39:02,100 --> 01:39:04,100
+I think there is... I
+
+2339
+01:39:04,100 --> 01:39:06,100
+don't even know if it's controversy
+
+2340
+01:39:06,100 --> 01:39:07,600
+I think there's a question
+
+2341
+01:39:07,600 --> 01:39:09,100
+of how close you can get
+
+2342
+01:39:09,100 --> 01:39:11,100
+How close can you get to a cloning machine?
+
+2343
+01:39:11,100 --> 01:39:13,100
+And I've seen papers saying different amount, different...
+
+2344
+01:39:13,100 --> 01:39:13,600
+You know, some quantitative data is not
+
+2345
+01:39:13,600 --> 01:39:14,100
+enough to get to a cloning machine
+
+2346
+01:39:14,100 --> 01:39:15,600
+You know, some quantitative measure
+
+2347
+01:39:15,600 --> 01:39:17,100
+of how close you can get
+
+2348
+01:39:17,100 --> 01:39:20,100
+And there's some number like three quarters that come out
+
+2349
+01:39:20,100 --> 01:39:22,100
+You can have a cloning machine that's
+
+2350
+01:39:22,100 --> 01:39:24,100
+three quarters accurate or some such thing
+
+2351
+01:39:24,100 --> 01:39:28,100
+But that's something I don't know much about
+
+2352
+01:39:28,100 --> 01:39:29,600
+Anyway, this is the basic
+
+2353
+01:39:29,600 --> 01:39:31,100
+idea that you can't have a...
+
+2354
+01:39:31,100 --> 01:39:36,100
+And the reason is simple
+
+2355
+01:39:36,100 --> 01:39:38,100
+Multiplying two things together like this
+
+2356
+01:39:38,100 --> 01:39:42,100
+Taking anything and squaring it is not a linear operation
+
+2357
+01:39:42,100 --> 01:39:43,100
+It's a quadratic operation
+
+2358
+01:39:43,100 --> 01:39:46,100
+You take any state, basically, and
+
+2359
+01:39:46,100 --> 01:39:49,100
+replicating it is sort of square...
+
+2360
+01:39:49,100 --> 01:39:53,100
+Is a sort of operation which is quadratic
+
+2361
+01:39:53,100 --> 01:39:55,600
+It's a cooperation of not squaring something
+
+2362
+01:39:55,600 --> 01:39:58,100
+but sort of multiplying it by itself
+
+2363
+01:39:58,100 --> 01:40:00,100
+That's what's going on here
+
+2364
+01:40:00,100 --> 01:40:02,100
+That's what's going on here
+
+2365
+01:40:02,100 --> 01:40:04,100
+And that's simply not a linear operation
+
+2366
+01:40:04,100 --> 01:40:06,100
+It can never be linear
+
+2367
+01:40:06,100 --> 01:40:07,100
+It's always quadratic
+
+2368
+01:40:07,100 --> 01:40:09,100
+And since all the evolution of state
+
+2369
+01:40:09,100 --> 01:40:11,100
+vectors is always linear, you can't quite...
+
+2370
+01:40:11,100 --> 01:40:12,100
+You can't do it
+
+2371
+01:40:12,100 --> 01:40:14,100
+You can build a machine
+
+2372
+01:40:14,100 --> 01:40:16,100
+that will clone ups and downs
+
+2373
+01:40:16,100 --> 01:40:19,100
+But then it won't clone rights and lefts
+
+2374
+01:40:19,100 --> 01:40:20,600
+You can build a machine
+
+2375
+01:40:20,600 --> 01:40:22,100
+that will clone rights and lefts
+
+2376
+01:40:22,100 --> 01:40:24,100
+It won't clone ups and downs
+
+2377
+01:40:24,100 --> 01:40:33,100
+You can not duplicate, but you may transfer these properties
+
+2378
+01:40:33,100 --> 01:40:36,100
+Yes, yes, yes, that's a different issue
+
+2379
+01:40:36,100 --> 01:40:37,100
+That's a different issue
+
+2380
+01:40:37,100 --> 01:40:39,100
+That you can transfer some
+
+2381
+01:40:39,100 --> 01:40:41,100
+information from one thing to another
+
+2382
+01:40:41,100 --> 01:40:43,100
+Yes
+
+2383
+01:40:43,100 --> 01:40:44,600
+But what you can't do
+
+2384
+01:40:44,600 --> 01:40:46,100
+is duplicate it in two systems
+
+2385
+01:40:46,100 --> 01:40:49,100
+Right, so you might have some kind of information
+
+2386
+01:40:49,100 --> 01:40:51,100
+For example, the electron is up
+
+2387
+01:40:51,100 --> 01:40:55,100
+And you might want to transfer that to a photon
+
+2388
+01:40:55,100 --> 01:40:57,600
+And send it, and the question is how
+
+2389
+01:40:57,600 --> 01:41:00,100
+well can you transfer it to another system
+
+2390
+01:41:00,100 --> 01:41:02,100
+And that's a separate question
+
+2391
+01:41:02,100 --> 01:41:03,100
+Yeah
+
+2392
+01:41:03,100 --> 01:41:05,600
+In this whole discussion, I think you have
+
+2393
+01:41:05,600 --> 01:41:08,100
+to state somehow that you don't know the state
+
+2394
+01:41:08,100 --> 01:41:10,100
+The particle when you try to clone it
+
+2395
+01:41:11,100 --> 01:41:12,600
+If you know it, if you know the
+
+2396
+01:41:12,600 --> 01:41:14,100
+state, then of course you can clone it
+
+2397
+01:41:15,100 --> 01:41:17,100
+If you know the state, you can
+
+2398
+01:41:17,100 --> 01:41:19,100
+build a machine that will clone it
+
+2399
+01:41:19,100 --> 01:41:22,100
+But it will be a different machine than a...
+
+2400
+01:41:22,100 --> 01:41:24,100
+For example, if I know the state is up,
+
+2401
+01:41:24,100 --> 01:41:26,100
+I can build a machine that will clone it
+
+2402
+01:41:27,100 --> 01:41:30,100
+And the same machine will clone down
+
+2403
+01:41:30,100 --> 01:41:32,100
+If I know the state is right, I
+
+2404
+01:41:32,100 --> 01:41:34,100
+can build a machine that will clone it
+
+2405
+01:41:34,100 --> 01:41:37,100
+But the same machine will not clone ups and rights
+
+2406
+01:41:38,100 --> 01:41:39,100
+So yes
+
+2407
+01:41:39,100 --> 01:41:41,020
+if you know the state, you
+
+2408
+01:41:41,020 --> 01:41:42,940
+can build a thing that clones it
+
+2409
+01:41:42,940 --> 01:41:46,060
+was that the question? or answer?
+
+2410
+01:41:47,240 --> 01:41:48,360
+if you don't know the
+
+2411
+01:41:48,360 --> 01:41:49,480
+state, then you cannot clone it
+
+2412
+01:41:49,480 --> 01:41:51,150
+you have a certain practical,
+
+2413
+01:41:51,150 --> 01:41:52,820
+it is in a certain state
+
+2414
+01:41:52,820 --> 01:41:56,080
+but let me just say it a little differently
+
+2415
+01:41:56,080 --> 01:42:01,680
+you cannot build a machine that will clone anything
+
+2416
+01:42:01,680 --> 01:42:05,800
+or that will clone ups, rights
+
+2417
+01:42:05,800 --> 01:42:07,550
+or ins and outs, the
+
+2418
+01:42:07,550 --> 01:42:09,300
+same machine cannot clone them all
+
+2419
+01:42:09,300 --> 01:42:11,590
+so if you didn't know what the state was, somebody gave
+
+2420
+01:42:11,590 --> 01:42:13,880
+you a state and said, no, you don't look at it
+
+2421
+01:42:13,880 --> 01:42:15,180
+and you just say, I want to clone it
+
+2422
+01:42:15,180 --> 01:42:18,530
+your machine may just happen to clone
+
+2423
+01:42:18,530 --> 01:42:21,880
+it, because it may be the up thing
+
+2424
+01:42:21,880 --> 01:42:26,160
+but the chances are
+
+2425
+01:42:26,160 --> 01:42:30,100
+well, it wouldn't clone things
+
+2426
+01:42:30,100 --> 01:42:33,740
+I've said it enough times, I can't say it again
+
+2427
+01:42:33,740 --> 01:42:35,220
+I'm running out of steam
+
+2428
+01:42:35,220 --> 01:42:35,680
+hmm?
+
+2429
+01:42:35,800 --> 01:42:38,070
+if you write the output of the machine
+
+2430
+01:42:38,070 --> 01:42:40,340
+would be what you wrote down last time
+
+2431
+01:42:40,340 --> 01:42:40,840
+yes
+
+2432
+01:42:40,840 --> 01:42:42,940
+but that's different than what the output of
+
+2433
+01:42:42,940 --> 01:42:45,040
+the machine has to be by quantum mechanics
+
+2434
+01:42:45,040 --> 01:42:48,040
+that's the linear result
+
+2435
+01:42:48,040 --> 01:42:49,880
+this is the cloning result
+
+2436
+01:42:49,880 --> 01:42:51,560
+this is the linear result
+
+2437
+01:42:51,560 --> 01:42:52,060
+right
+
+2438
+01:42:52,060 --> 01:42:52,560
+yeah
+
+2439
+01:42:52,560 --> 01:42:53,800
+and they're different
+
+2440
+01:42:53,800 --> 01:42:55,800
+so one, they can't be the same
+
+2441
+01:42:55,800 --> 01:42:57,800
+right
+
+2442
+01:42:57,800 --> 01:43:01,920
+in other words, just two electrons both right
+
+2443
+01:43:01,920 --> 01:43:03,920
+having them a piece
+
+2444
+01:43:03,920 --> 01:43:05,720
+with an up down and a down up
+
+2445
+01:43:05,800 --> 01:43:08,260
+that's inconsistent with uh, what
+
+2446
+01:43:08,260 --> 01:43:10,720
+the linearity of quantum mechanics says
+
+2447
+01:43:10,720 --> 01:43:13,420
+so sorry, no clone
+
+2448
+01:43:17,620 --> 01:43:19,920
+It seems
+
+2449
+01:43:19,920 --> 01:43:21,760
+Yeah it seems like the amount of information
+
+2450
+01:43:21,760 --> 01:43:25,900
+you capable of containing two independent entities
+
+2451
+01:43:25,900 --> 01:43:27,480
+plus the entangled entity
+
+2452
+01:43:27,480 --> 01:43:28,920
+yes its true
+
+2453
+01:43:28,920 --> 01:43:30,960
+if anybody tried to Kongo
+
+2454
+01:43:30,960 --> 01:43:32,050
+is it obvious that the entity underground
+
+2455
+01:43:32,050 --> 01:43:33,140
+is is different than a tangible entity?
+
+2456
+01:43:33,140 --> 01:43:33,150
+yes sir, from that perspective, of
+
+2457
+01:43:33,150 --> 01:43:33,160
+information theory, right past theuna, witcheski,
+
+2458
+01:43:33,160 --> 01:43:33,440
+that you are sure of?
+
+2459
+01:43:33,440 --> 01:43:33,800
+Is that how you know?
+
+2460
+01:43:33,800 --> 01:43:34,040
+I'm not sure of that. Oh
+
+2461
+01:43:34,040 --> 01:43:34,420
+Not sure. Because it is not dont know you are
+
+2462
+01:43:34,420 --> 01:43:34,800
+not sure ah, much of an increase in MCU government.
+
+2463
+01:43:34,800 --> 01:43:34,840
+about it?
+
+2464
+01:43:34,840 --> 01:43:34,920
+certainly you know about theềnite and that the body of metal so that it can wheel it up this way, this
+
+2465
+01:43:34,920 --> 01:43:35,000
+blueberry volume of themo wide and large stuff it's hard to have a part don't you understand the smart of it?
+
+2466
+01:43:35,000 --> 01:43:36,280
+I'm sure they have.
+
+2467
+01:43:40,180 --> 01:43:42,210
+The last time, what I told you,
+
+2468
+01:43:42,210 --> 01:43:44,240
+is if you have a single electron,
+
+2469
+01:43:45,300 --> 01:43:47,380
+the state vectors are a two-parameter family.
+
+2470
+01:43:48,060 --> 01:43:50,700
+If you have two independent electrons, which
+
+2471
+01:43:50,700 --> 01:43:53,340
+have never been entangled or anything like that,
+
+2472
+01:43:53,420 --> 01:43:54,990
+then the state vectors you would
+
+2473
+01:43:54,990 --> 01:43:56,560
+expect to be a four-parameter family.
+
+2474
+01:43:56,960 --> 01:43:58,760
+But in fact, the state vectors
+
+2475
+01:43:58,760 --> 01:44:00,560
+of two electrons are a six-parameter family,
+
+2476
+01:44:00,740 --> 01:44:02,460
+so there's a richer class of states.
+
+2477
+01:44:02,460 --> 01:44:07,240
+Now, can you quantify that by information theory?
+
+2478
+01:44:07,360 --> 01:44:09,460
+I don't know. I haven't...
+
+2479
+01:44:09,460 --> 01:44:12,120
+I'm sure you can.
+
+2480
+01:44:12,180 --> 01:44:14,730
+Well, I certainly know how to quantify
+
+2481
+01:44:14,730 --> 01:44:17,280
+the degree of entanglement of two systems.
+
+2482
+01:44:18,220 --> 01:44:20,260
+There's something which I hope we will
+
+2483
+01:44:20,260 --> 01:44:22,300
+get to, which is called entanglement entropy.
+
+2484
+01:44:23,400 --> 01:44:25,810
+And entanglement entropy is a measure of
+
+2485
+01:44:25,810 --> 01:44:28,220
+the degree of entanglement of two systems.
+
+2486
+01:44:28,220 --> 01:44:31,920
+So we can certainly quantify the amount of entanglement
+
+2487
+01:44:31,920 --> 01:44:32,440
+between two systems.
+
+2488
+01:44:32,460 --> 01:44:34,760
+I'm not sure if that's what you're asking.
+
+2489
+01:44:35,800 --> 01:44:37,870
+But in any case, we'll try to
+
+2490
+01:44:37,870 --> 01:44:39,940
+get to that concept of entanglement entropy.
+
+2491
+01:44:40,900 --> 01:44:43,060
+Okay, any other questions before we go home?
+
