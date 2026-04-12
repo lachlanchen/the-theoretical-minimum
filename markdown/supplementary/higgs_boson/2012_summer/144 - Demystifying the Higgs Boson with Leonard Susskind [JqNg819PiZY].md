@@ -1,0 +1,2139 @@
+# Transcript
+
+Source: supplementary/higgs_boson/2012_summer/144 - Demystifying the Higgs Boson with Leonard Susskind [JqNg819PiZY].webm
+
+- [00:00:00,000 - 00:00:06,400] Stanford University.
+- [00:00:08,600 - 00:00:11,320] The goal tonight is not to tell you
+- [00:00:11,320 - 00:00:14,040] why the Higgs boson is the best thing since
+- [00:00:14,040 - 00:00:14,960] flush toilets.
+- [00:00:14,960 - 00:00:16,760] You've read all of that.
+- [00:00:16,760 - 00:00:21,920] Anybody who's here has probably read all of the hype,
+- [00:00:21,920 - 00:00:28,880] the excited, breathless superlatives
+- [00:00:28,880 - 00:00:33,800] that have hit the newspapers and so forth.
+- [00:00:33,800 - 00:00:35,760] Higgs boson is going to explain the
+- [00:00:35,760 - 00:00:37,720] origin of the universe and this and that.
+- [00:00:37,720 - 00:00:40,080] I'm not going to do that.
+- [00:00:40,080 - 00:00:43,360] First of all, before I say it,
+- [00:00:43,360 - 00:00:46,640] the excitement and the enthusiasm is justified.
+- [00:00:46,640 - 00:00:48,760] It's not that it's not justified.
+- [00:00:48,760 - 00:00:51,040] It is justified.
+- [00:00:51,040 - 00:00:52,680] The history is fantastic.
+- [00:00:52,680 - 00:00:56,400] It's an unbelievable event and so forth.
+- [00:00:56,400 - 00:00:58,519] But that's not what my thing is.
+- [00:00:58,519 - 00:00:58,840] It's...
+- [00:00:58,840 - 00:01:01,280] not what I do well.
+- [00:01:01,280 - 00:01:05,440] What I do well is explain how things work.
+- [00:01:05,440 - 00:01:07,680] My goal tonight is going to show...
+- [00:01:07,680 - 00:01:10,140] be to show you in so
+- [00:01:10,140 - 00:01:12,600] far as I can in one hour,
+- [00:01:12,600 - 00:01:14,240] which is tough, which is
+- [00:01:14,240 - 00:01:15,880] hard, and it may not work,
+- [00:01:15,880 - 00:01:20,900] but as well as I can to explain to you
+- [00:01:20,900 - 00:01:25,920] the nuts and bolts of what Higgs physics is about.
+- [00:01:25,920 - 00:01:28,480] One of my closest friends, incidentally, is...
+- [00:01:28,480 - 00:01:31,160] named Francois Englert.
+- [00:01:31,160 - 00:01:34,040] And Francois Englert would be appalled if he knew
+- [00:01:34,040 - 00:01:36,920] that I was standing here talking about the Higgs effect
+- [00:01:36,920 - 00:01:40,520] since Francois Englert was the discoverer of it.
+- [00:01:40,520 - 00:01:43,320] So from time to time, they
+- [00:01:43,320 - 00:01:46,120] may call it the Braut-Englert-Higgs effect.
+- [00:01:46,120 - 00:01:49,320] But I also may slip and slide and just call it
+- [00:01:49,320 - 00:01:52,520] the Higgs effect because I tend to get like everybody else.
+- [00:01:52,520 - 00:01:55,200] All right.
+- [00:01:55,200 - 00:01:57,000] So how it works.
+- [00:01:57,000 - 00:01:57,960] First of all, I'm going to explain the Higgs effect.
+- [00:01:57,960 - 00:02:04,620] First of all, there's a lot of moving parts, a lot of pieces
+- [00:02:04,620 - 00:02:11,280] that I would have to explain to you first to really do it right.
+- [00:02:11,280 - 00:02:14,380] And I'm going to try to explain
+- [00:02:14,380 - 00:02:17,480] those pieces in little modules, shall we say.
+- [00:02:17,480 - 00:02:21,240] It's a highly quantum mechanical effect.
+- [00:02:21,240 - 00:02:24,640] It cannot really be understood without quantum mechanics.
+- [00:02:27,960 - 00:02:32,410] And so I would begin with the course in quantum mechanics, and
+- [00:02:32,410 - 00:02:36,860] let's say the course in quantum mechanics consists of just one thing.
+- [00:02:36,860 - 00:02:39,120] Things are quantized.
+- [00:02:39,120 - 00:02:41,920] Quantized means that they
+- [00:02:41,920 - 00:02:44,720] come in discrete integer quantities.
+- [00:02:44,720 - 00:02:50,540] The most famous example of this is angular momentum.
+- [00:02:50,540 - 00:02:51,750] Angular momentum, the rotational properties of the rotational momentum of
+- [00:02:51,750 - 00:02:52,960] an object are going to create a�도 and θ있es of aкт.
+- [00:02:52,960 - 00:02:53,470] And although they would be very very important, they don't
+- [00:02:53,470 - 00:02:53,980] exist now without the Higgs effect because they're in order.
+- [00:02:53,980 - 00:02:54,340] They wouldn't exist only in here, they wouldn't
+- [00:02:54,340 - 00:02:54,700] exist here splash up one from a null plane.
+- [00:02:54,700 - 00:02:55,050] The regular University is about how to
+- [00:02:55,050 - 00:02:55,400] convert re Shar agree, but A is döner.
+- [00:02:55,400 - 00:02:55,600] It would be just like that to convert
+- [00:02:55,600 - 00:02:55,800] G to A and Q into a Equation.
+- [00:02:55,800 - 00:02:55,950] And hence it may work in
+- [00:02:55,950 - 00:02:56,100] air popping world of velocities and pulses.
+- [00:02:56,100 - 00:02:58,660] of an object are quantized, which
+- [00:02:58,660 - 00:03:01,220] means they come in discrete steps,
+- [00:03:01,799 - 00:03:06,079] and the discrete steps are one Planck unit,
+- [00:03:06,780 - 00:03:08,980] one unit of Planck's constant.
+- [00:03:09,740 - 00:03:11,460] We'll take that as all
+- [00:03:11,460 - 00:03:13,180] we really need to know about,
+- [00:03:13,280 - 00:03:15,579] for the most part, about quantum mechanics tonight.
+- [00:03:17,100 - 00:03:19,799] The next concept, which is an easier one,
+- [00:03:19,959 - 00:03:21,239] at least I think it's an
+- [00:03:21,239 - 00:03:22,519] easier one, it's a classical concept,
+- [00:03:22,519 - 00:03:24,519] is the idea of a field.
+- [00:03:24,520 - 00:03:27,700] A field is just a condition in space.
+- [00:03:27,820 - 00:03:29,200] It could be the electric field,
+- [00:03:29,200 - 00:03:30,580] it could be the magnetic field,
+- [00:03:30,680 - 00:03:32,340] it could be a gravitational field.
+- [00:03:33,060 - 00:03:36,040] Whatever you think of as being present in space,
+- [00:03:36,440 - 00:03:42,640] which characterizes the behavior of space
+- [00:03:42,640 - 00:03:44,490] at that instant and in
+- [00:03:44,490 - 00:03:46,340] that place in space and time.
+- [00:03:47,480 - 00:03:49,880] So space can be filled with fields.
+- [00:03:51,340 - 00:03:54,140] Now, ordinarily, you imagine,
+- [00:03:54,520 - 00:03:56,570] in empty space, empty space is
+- [00:03:56,570 - 00:03:58,620] the thing we call a vacuum,
+- [00:03:59,060 - 00:04:01,360] from a quantum mechanics point of view,
+- [00:04:01,740 - 00:04:04,620] the vacuum is just a state of lowest energy.
+- [00:04:05,140 - 00:04:07,620] Nothing there, no energy,
+- [00:04:08,580 - 00:04:10,270] other than what quantum mechanics
+- [00:04:10,270 - 00:04:11,960] requires there to be there.
+- [00:04:13,760 - 00:04:16,519] And so you ordinarily think that
+- [00:04:16,519 - 00:04:19,279] the fields that could inhabit space
+- [00:04:19,360 - 00:04:21,560] are zero in empty space.
+- [00:04:22,019 - 00:04:24,060] The electric field, the magnetic field,
+- [00:04:24,520 - 00:04:26,520] the magnetic field, and so forth.
+- [00:04:26,520 - 00:04:30,520] But there's no important requirement of physics
+- [00:04:30,520 - 00:04:32,520] that says that that should be the case.
+- [00:04:32,520 - 00:04:37,520] Let's imagine a world filled with electric fields.
+- [00:04:37,520 - 00:04:40,520] How could that electric field get there?
+- [00:04:40,520 - 00:04:43,520] Well, it might be there because there are capacitor plates
+- [00:04:43,520 - 00:04:44,520] infinitely far away.
+- [00:04:44,520 - 00:04:46,520] So far away we can't tell they're there.
+- [00:04:46,520 - 00:04:48,520] There we would have a world
+- [00:04:48,520 - 00:04:50,520] in which there was an electric field.
+- [00:04:50,520 - 00:04:52,520] It would just be there.
+- [00:04:52,520 - 00:04:54,020] Empty space would have an electric field.
+- [00:04:54,020 - 00:04:56,020] Now, when you think about fields,
+- [00:04:56,020 - 00:04:58,020] oh, we're beginning a little bit too early.
+- [00:04:58,020 - 00:04:59,020] Okay, we're going to wait.
+- [00:04:59,020 - 00:05:00,020] I'll be around.
+- [00:05:00,020 - 00:05:02,020] All right, so what I was saying to the audience,
+- [00:05:02,020 - 00:05:03,020] two things.
+- [00:05:03,020 - 00:05:06,020] The first was that quantum mechanics,
+- [00:05:06,020 - 00:05:09,020] we're going to summarize by one simple statement
+- [00:05:09,020 - 00:05:12,020] that things are quantized in quantum mechanics.
+- [00:05:12,020 - 00:05:15,020] Quantized means they come in discrete bits.
+- [00:05:15,020 - 00:05:19,020] The most important example is angular momentum,
+- [00:05:19,020 - 00:05:21,020] not the most important definition.
+- [00:05:21,020 - 00:05:22,020] So, if you have a quantum,
+- [00:05:22,020 - 00:05:24,020] you're going to have an electric field.
+- [00:05:24,020 - 00:05:26,020] It's not necessarily the most important example,
+- [00:05:26,020 - 00:05:29,020] but the most important example for me tonight
+- [00:05:29,020 - 00:05:31,020] will be angular momentum.
+- [00:05:31,020 - 00:05:34,020] And angular momentum has to do
+- [00:05:34,020 - 00:05:37,020] with rotating objects and so forth.
+- [00:05:37,020 - 00:05:40,020] Angular momentum in quantum mechanics,
+- [00:05:40,020 - 00:05:41,020] unlike classical mechanics,
+- [00:05:41,020 - 00:05:43,020] comes in discrete units.
+- [00:05:43,020 - 00:05:45,020] The unit is Planck's constant.
+- [00:05:45,020 - 00:05:47,020] You can't have a tenth
+- [00:05:47,020 - 00:05:49,020] of a unit of angular momentum.
+- [00:05:49,020 - 00:05:52,020] You can only have angular momentum 0, 1, 2, 3,
+- [00:05:52,020 - 00:05:53,020] minus 1, minus 2, minus 3,
+- [00:05:53,020 - 00:05:56,020] you can also have half integers,
+- [00:05:56,020 - 00:05:58,020] but we're not going to worry about that tonight.
+- [00:05:58,020 - 00:06:01,020] But no, you can't have angular momentum pi,
+- [00:06:01,020 - 00:06:04,020] only discrete integers.
+- [00:06:04,020 - 00:06:07,020] That's the first fact that I want you to remember.
+- [00:06:07,020 - 00:06:10,020] The other fact from quantum mechanics
+- [00:06:10,020 - 00:06:12,020] that we'll have to remember also
+- [00:06:12,020 - 00:06:13,020] is the uncertainty principle,
+- [00:06:13,020 - 00:06:15,020] but we'll come to it.
+- [00:06:15,020 - 00:06:18,020] Now, the other thing we spoke about was fields.
+- [00:06:18,020 - 00:06:20,020] Fields are things that can fill space,
+- [00:06:20,020 - 00:06:23,020] electric field, magnetic field, gravitational field,
+- [00:06:23,020 - 00:06:27,020] other kinds of fields that exist in physics.
+- [00:06:27,020 - 00:06:31,020] They are functions of space.
+- [00:06:31,020 - 00:06:33,020] They can vary from place to place.
+- [00:06:33,020 - 00:06:38,020] And they affect, for example, the way things move.
+- [00:06:38,020 - 00:06:40,020] An example would be an electric field
+- [00:06:40,020 - 00:06:42,020] affecting the way a charged particle moves.
+- [00:06:42,020 - 00:06:45,020] Now, the other thing I said was
+- [00:06:45,020 - 00:06:48,020] you can imagine a world
+- [00:06:48,020 - 00:06:51,020] in which, for all practical purposes,
+- [00:06:51,020 - 00:06:56,020] empty space is filled with a field.
+- [00:06:56,020 - 00:06:58,020] An example would be
+- [00:06:58,020 - 00:07:02,020] if I went out to Alpha Centauri at that end
+- [00:07:02,020 - 00:07:04,020] and...
+- [00:07:04,020 - 00:07:05,020] Excuse me.
+- [00:07:05,020 - 00:07:07,020] I don't know what's out there.
+- [00:07:15,020 - 00:07:17,020] Excuse me.
+- [00:07:17,020 - 00:07:20,020] Yeah, whatever's out there.
+- [00:07:21,020 - 00:07:24,020] And place some capacitor plates.
+- [00:07:24,020 - 00:07:26,020] Big capacitor plate out there,
+- [00:07:26,020 - 00:07:27,020] big one out there.
+- [00:07:27,020 - 00:07:29,020] Make an electric field in between.
+- [00:07:29,020 - 00:07:32,020] They're so far apart that we can't see them.
+- [00:07:32,020 - 00:07:35,020] We would say that the world is a world
+- [00:07:35,020 - 00:07:38,020] that exists with a magnetic field.
+- [00:07:38,020 - 00:07:40,020] And we would say that charged particles
+- [00:07:40,020 - 00:07:42,020] move in peculiar ways,
+- [00:07:42,020 - 00:07:45,020] but that was just a fact of nature.
+- [00:07:47,020 - 00:07:49,020] Generally speaking,
+- [00:07:49,020 - 00:07:52,020] fields cost energy.
+- [00:07:52,020 - 00:07:54,020] Space without an electric field
+- [00:07:54,020 - 00:07:56,020] has zero energy.
+- [00:07:56,020 - 00:07:58,020] With an electric field, it has energy.
+- [00:07:58,020 - 00:07:59,520] And if we were to
+- [00:07:59,520 - 00:08:01,020] plot the energy of a field,
+- [00:08:01,020 - 00:08:02,020] a typical field,
+- [00:08:02,020 - 00:08:04,020] could be electric, could be magnetic,
+- [00:08:04,020 - 00:08:06,020] could be something else,
+- [00:08:06,020 - 00:08:08,020] generally, we imagine
+- [00:08:08,020 - 00:08:10,020] that the field energy
+- [00:08:10,020 - 00:08:13,020] as a function of a field,
+- [00:08:13,020 - 00:08:16,020] horizontally, imagine the value of a field,
+- [00:08:16,020 - 00:08:18,020] vertically, its energy,
+- [00:08:18,020 - 00:08:21,020] zero field right here,
+- [00:08:21,020 - 00:08:24,020] and we imagine exciting the field,
+- [00:08:24,020 - 00:08:26,020] causing it to vibrate,
+- [00:08:26,020 - 00:08:29,020] causing it to vibrate by giving it a push
+- [00:08:29,020 - 00:08:31,020] at some region of space,
+- [00:08:31,020 - 00:08:33,020] and nearby the field will vibrate.
+- [00:08:33,020 - 00:08:37,020] Those vibrations are quanta of the field.
+- [00:08:37,020 - 00:08:39,020] They are particles.
+- [00:08:39,020 - 00:08:40,020] They are particles.
+- [00:08:40,020 - 00:08:44,020] The quanta of vibration of a field are particles.
+- [00:08:44,020 - 00:08:47,020] Now, you might have a situation
+- [00:08:47,020 - 00:08:50,020] where there is more than one field relevant.
+- [00:08:50,020 - 00:08:53,020] Let's call it phi and phi prime,
+- [00:08:53,020 - 00:08:54,020] or whatever you want to call it.
+- [00:08:54,020 - 00:08:55,020] It doesn't matter.
+- [00:08:55,020 - 00:08:59,020] Then instead of plotting the field as one-dimensional,
+- [00:08:59,020 - 00:09:02,020] we might plot it as two-dimensional.
+- [00:09:02,020 - 00:09:03,020] Now, this is not space.
+- [00:09:03,020 - 00:09:06,020] This is the value of some collection of fields.
+- [00:09:06,020 - 00:09:10,020] And then the energy would depend on both fields.
+- [00:09:10,020 - 00:09:12,020] Here's an example,
+- [00:09:12,020 - 00:09:14,020] an energy function which looks like that,
+- [00:09:14,020 - 00:09:15,520] which simply says that no
+- [00:09:15,520 - 00:09:17,020] matter how you displace the field,
+- [00:09:17,020 - 00:09:20,020] it costs energy.
+- [00:09:20,020 - 00:09:29,020] Now, imagine that this upside-down paraboloid here,
+- [00:09:29,020 - 00:09:31,020] or whatever it is,
+- [00:09:31,020 - 00:09:33,020] was nice and symmetric,
+- [00:09:33,020 - 00:09:35,020] nice and rotationally symmetric in the field space,
+- [00:09:35,020 - 00:09:39,020] exactly like the top of my hat here,
+- [00:09:39,020 - 00:09:42,020] which as you can see is symmetric.
+- [00:09:42,020 - 00:09:46,020] And so the field as a...
+- [00:09:46,020 - 00:09:48,020] Oh, yes, where's my little desk? That's it.
+- [00:09:48,020 - 00:09:53,020] The field as a function of position
+- [00:09:53,020 - 00:09:55,020] would most likely,
+- [00:09:55,020 - 00:09:57,020] if the energy is as low as possible,
+- [00:09:57,020 - 00:10:01,020] just sit at the bottom
+- [00:10:01,020 - 00:10:04,020] of the potential energy of the field.
+- [00:10:04,020 - 00:10:07,020] Just to lower the energy as much as possible.
+- [00:10:07,020 - 00:10:10,020] So we might think of the field
+- [00:10:10,020 - 00:10:12,020] at every point in space,
+- [00:10:12,020 - 00:10:14,020] a little ball which can be made
+- [00:10:14,020 - 00:10:16,020] to oscillate back and forth,
+- [00:10:16,020 - 00:10:17,020] and do things,
+- [00:10:17,020 - 00:10:18,020] and those are just oscillations
+- [00:10:18,020 - 00:10:19,020] of the behavior of physics
+- [00:10:19,020 - 00:10:21,020] in a local region of space.
+- [00:10:21,020 - 00:10:23,020] As I said, they often correspond
+- [00:10:23,020 - 00:10:26,020] to quantum particles, those oscillations,
+- [00:10:26,020 - 00:10:28,020] but for the moment they're just oscillations.
+- [00:10:28,020 - 00:10:30,020] Now, one of the things we could do
+- [00:10:30,020 - 00:10:32,020] if we had a field
+- [00:10:32,020 - 00:10:35,020] whose values were like the position
+- [00:10:35,020 - 00:10:37,020] in the hat here,
+- [00:10:37,020 - 00:10:40,020] would be to start it out
+- [00:10:40,020 - 00:10:42,020] displaced from the origin,
+- [00:10:42,020 - 00:10:44,020] let's say up to here,
+- [00:10:44,020 - 00:10:46,020] and then start it moving
+- [00:10:46,020 - 00:10:48,020] in a circle.
+- [00:10:48,020 - 00:10:50,020] Just in the same way you could take this ball,
+- [00:10:50,020 - 00:10:51,020] and if it was,
+- [00:10:51,020 - 00:10:54,020] if the hat was really nice and smooth and symmetric,
+- [00:10:54,020 - 00:10:56,020] give it a push and it
+- [00:10:56,020 - 00:10:58,020] would go around in a circle.
+- [00:10:59,020 - 00:11:01,020] That circular motion of the field
+- [00:11:01,020 - 00:11:03,020] is very, very similar in a way
+- [00:11:03,020 - 00:11:05,020] to angular momentum.
+- [00:11:05,020 - 00:11:07,020] It's not angular momentum in space,
+- [00:11:07,020 - 00:11:09,020] but it's a kind of angular momentum
+- [00:11:09,020 - 00:11:12,020] that exists in the field space.
+- [00:11:12,020 - 00:11:14,020] That angular momentum,
+- [00:11:14,020 - 00:11:15,020] like all angular momentum,
+- [00:11:15,020 - 00:11:17,020] are quantized.
+- [00:11:17,020 - 00:11:19,020] They come in integer multiples
+- [00:11:19,020 - 00:11:21,020] of Planck's constant.
+- [00:11:21,020 - 00:11:23,020] What do they correspond to?
+- [00:11:23,020 - 00:11:25,020] They correspond to something else
+- [00:11:25,020 - 00:11:27,020] that is also quantized in nature,
+- [00:11:27,020 - 00:11:29,020] the value, for example,
+- [00:11:29,020 - 00:11:31,020] of electric charge.
+- [00:11:31,020 - 00:11:33,020] So in modern physics,
+- [00:11:33,020 - 00:11:35,020] the way one thinks about the electric charge
+- [00:11:35,020 - 00:11:37,020] in a region is that
+- [00:11:37,020 - 00:11:39,020] in some region of space, a particle,
+- [00:11:39,020 - 00:11:41,020] a charged particle,
+- [00:11:41,020 - 00:11:43,020] a charged particle is viewed
+- [00:11:43,020 - 00:11:44,020] as an excitation of the field,
+- [00:11:44,020 - 00:11:46,020] in which the field is made
+- [00:11:46,020 - 00:11:48,020] to spin around
+- [00:11:48,020 - 00:11:52,020] in the internal space of the field.
+- [00:11:52,020 - 00:11:53,020] Not in real space,
+- [00:11:53,020 - 00:11:55,020] but in the internal space of the field.
+- [00:11:55,020 - 00:11:57,020] That's one way, in fact,
+- [00:11:57,020 - 00:11:58,020] it's the main way
+- [00:11:58,020 - 00:12:00,020] that we think about charge
+- [00:12:00,020 - 00:12:02,020] as a kind of rotation
+- [00:12:02,020 - 00:12:04,020] in an internal space.
+- [00:12:04,020 - 00:12:06,020] Okay, now,
+- [00:12:06,020 - 00:12:08,020] what I want you to do is imagine
+- [00:12:08,020 - 00:12:10,020] taking the hat
+- [00:12:10,020 - 00:12:12,020] and turning it over.
+- [00:12:12,020 - 00:12:14,020] Okay.
+- [00:12:14,020 - 00:12:16,020] Imagine that the potential energy
+- [00:12:16,020 - 00:12:18,020] was not...
+- [00:12:18,020 - 00:12:20,020] Turn it over this way, excuse me.
+- [00:12:20,020 - 00:12:22,020] This way is the way that the potential energy
+- [00:12:22,020 - 00:12:24,020] is minimum at the crown of the hat.
+- [00:12:24,020 - 00:12:26,020] But if the potential energy
+- [00:12:26,020 - 00:12:28,020] really looked like that,
+- [00:12:28,020 - 00:12:29,020] so that it was maximum
+- [00:12:29,020 - 00:12:30,020] at the top of the hat,
+- [00:12:30,020 - 00:12:32,020] then the top of the hat
+- [00:12:32,020 - 00:12:34,020] would not be a position of equilibrium,
+- [00:12:34,020 - 00:12:36,020] it would be a position of unstable equilibrium.
+- [00:12:36,020 - 00:12:38,020] It would look like this.
+- [00:12:42,020 - 00:12:44,020] Turning over the hat
+- [00:12:44,020 - 00:12:46,020] the crown of the hat now...
+- [00:12:46,020 - 00:12:48,020] This is the way that...
+- [00:12:48,020 - 00:12:50,020] The real hat looks like this.
+- [00:12:50,020 - 00:12:52,020] And it doesn't...
+- [00:12:52,020 - 00:12:54,020] Okay, let's just...
+- [00:12:54,020 - 00:12:56,020] Let's make the...
+- [00:13:00,020 - 00:13:02,020] How's that? That look like a hat?
+- [00:13:02,020 - 00:13:04,020] Yeah.
+- [00:13:04,020 - 00:13:05,020] Looks like a hat. What kind of
+- [00:13:05,020 - 00:13:06,020] hat does it look like to you?
+- [00:13:06,020 - 00:13:08,020] Looks like a sombrero, right?
+- [00:13:08,020 - 00:13:10,020] Looks like a Mexican hat.
+- [00:13:10,020 - 00:13:12,020] Physicists call this kind of potential energy function
+- [00:13:12,020 - 00:13:14,020] a Mexican hat.
+- [00:13:14,020 - 00:13:16,020] Believe it or not.
+- [00:13:16,020 - 00:13:18,020] It's called a Mexican hat.
+- [00:13:18,020 - 00:13:20,020] It turns back up.
+- [00:13:20,020 - 00:13:22,020] The top is unstable.
+- [00:13:22,020 - 00:13:26,020] If a ball was put at the top,
+- [00:13:26,020 - 00:13:28,020] it would roll down.
+- [00:13:28,020 - 00:13:30,020] And where would it go?
+- [00:13:30,020 - 00:13:32,020] It would go to the brim of the hat.
+- [00:13:32,020 - 00:13:34,020] If, for some reason,
+- [00:13:34,020 - 00:13:36,020] the potential energy
+- [00:13:36,020 - 00:13:38,020] of a field was like this,
+- [00:13:38,020 - 00:13:40,020] then the state of
+- [00:13:40,020 - 00:13:42,020] lowest energy would not be
+- [00:13:42,020 - 00:13:44,020] at zero field. It would be
+- [00:13:44,020 - 00:13:46,020] out here.
+- [00:13:46,020 - 00:13:48,020] Now that's kind of interesting.
+- [00:13:48,020 - 00:13:50,020] It would be a vacuum,
+- [00:13:50,020 - 00:13:52,020] a world, which had a field,
+- [00:13:52,020 - 00:13:54,020] just like having an electric field,
+- [00:13:54,020 - 00:13:56,020] except it's not an electric field,
+- [00:13:56,020 - 00:13:57,020] in which the value of the
+- [00:13:57,020 - 00:13:58,020] field at every point in space
+- [00:13:58,020 - 00:14:00,020] was not zero. You might notice it.
+- [00:14:00,020 - 00:14:02,020] How would you notice it?
+- [00:14:02,020 - 00:14:04,020] Well, you might notice it because it might
+- [00:14:04,020 - 00:14:06,020] affect other things. And indeed,
+- [00:14:06,020 - 00:14:08,020] it does affect other things,
+- [00:14:08,020 - 00:14:10,020] as we will see.
+- [00:14:10,020 - 00:14:12,020] But, there's now something interesting you can do
+- [00:14:12,020 - 00:14:14,020] that you couldn't do here.
+- [00:14:14,020 - 00:14:16,020] Over here, if you wanted to
+- [00:14:16,020 - 00:14:18,020] set this thing into rotation,
+- [00:14:18,020 - 00:14:20,020] you would have to displace the field
+- [00:14:20,020 - 00:14:22,020] a little bit, because it doesn't mean anything
+- [00:14:22,020 - 00:14:24,020] to rotate right at the center.
+- [00:14:24,020 - 00:14:26,020] If you wanted to set up a rotation,
+- [00:14:26,020 - 00:14:28,020] you'd displace the field and then give it a flick.
+- [00:14:28,020 - 00:14:30,020] So making a
+- [00:14:30,020 - 00:14:32,020] charged particle costs
+- [00:14:32,020 - 00:14:34,020] some energy.
+- [00:14:34,020 - 00:14:36,020] Here,
+- [00:14:40,020 - 00:14:42,020] you can imagine
+- [00:14:42,020 - 00:14:44,020] setting this thing into rotation
+- [00:14:44,020 - 00:14:46,020] with just a little flick
+- [00:14:46,020 - 00:14:48,020] that costs no energy.
+- [00:14:48,020 - 00:14:50,020] It costs no energy because you don't have to
+- [00:14:50,020 - 00:14:52,020] ride up the side of the hat.
+- [00:14:52,020 - 00:14:54,020] In other words, you could have a motion
+- [00:14:54,020 - 00:14:56,020] in which...
+- [00:15:00,020 - 00:15:02,020] You got it, you got it, you understand.
+- [00:15:02,020 - 00:15:04,020] You're going to have a motion in which
+- [00:15:04,020 - 00:15:06,020] that field slowly
+- [00:15:06,020 - 00:15:08,020] will round around the top of the potential.
+- [00:15:08,020 - 00:15:10,020] In fact, it could do it
+- [00:15:10,020 - 00:15:12,020] everywhere simultaneously.
+- [00:15:12,020 - 00:15:14,020] Not in real space, but
+- [00:15:14,020 - 00:15:16,020] in this field space.
+- [00:15:16,020 - 00:15:18,020] That would correspond again to a
+- [00:15:18,020 - 00:15:20,020] charge.
+- [00:15:20,020 - 00:15:22,020] If rotation in this internal space
+- [00:15:22,020 - 00:15:24,020] corresponds to some kind of charge,
+- [00:15:24,020 - 00:15:26,020] but now the whole world,
+- [00:15:26,020 - 00:15:28,020] if the whole field was moving like that,
+- [00:15:28,020 - 00:15:30,020] would have a little bit of charge in it,
+- [00:15:30,020 - 00:15:32,020] a charge density,
+- [00:15:32,020 - 00:15:34,020] charge filling space,
+- [00:15:34,020 - 00:15:36,020] and essentially no
+- [00:15:36,020 - 00:15:38,020] cost of energy.
+- [00:15:38,020 - 00:15:40,020] That phenomenon is called
+- [00:15:40,020 - 00:15:42,020] a
+- [00:15:42,020 - 00:15:44,020] condensate. It's called
+- [00:15:44,020 - 00:15:46,020] the asymmetry breaking, but it's also
+- [00:15:46,020 - 00:15:48,020] called a condensate. A condensate
+- [00:15:48,020 - 00:15:50,020] in space of charge.
+- [00:15:52,020 - 00:15:54,020] Now, you might say, okay, look,
+- [00:15:54,020 - 00:15:56,020] I want to find the lowest energy
+- [00:15:56,020 - 00:15:58,020] that the vacuum can have, that empty space
+- [00:15:58,020 - 00:16:00,020] can have. My best bet
+- [00:16:00,020 - 00:16:02,020] is to make the field
+- [00:16:02,020 - 00:16:04,020] not move with time.
+- [00:16:04,020 - 00:16:06,020] Just like a ball at the bottom of
+- [00:16:06,020 - 00:16:08,020] the sombrero hat here, there's also
+- [00:16:08,020 - 00:16:10,020] kinetic energy of motion.
+- [00:16:10,020 - 00:16:12,020] Causing the field to move around
+- [00:16:12,020 - 00:16:14,020] in a circle like that would cost some energy.
+- [00:16:14,020 - 00:16:16,020] So you would say
+- [00:16:16,020 - 00:16:18,020] the true lowest energy state
+- [00:16:18,020 - 00:16:20,020] of the world should be
+- [00:16:20,020 - 00:16:22,020] with the field either here
+- [00:16:22,020 - 00:16:24,020] or here or here. It could be anywhere as along
+- [00:16:24,020 - 00:16:26,020] the
+- [00:16:26,020 - 00:16:28,020] rim of the hat,
+- [00:16:28,020 - 00:16:30,020] but it should be standing still, right?
+- [00:16:30,020 - 00:16:32,020] The problem
+- [00:16:32,020 - 00:16:34,020] with no angular momentum or
+- [00:16:34,020 - 00:16:36,020] no charge,
+- [00:16:36,020 - 00:16:38,020] empty space should not have charge. The problem
+- [00:16:38,020 - 00:16:40,020] with that is the uncertainty principle.
+- [00:16:40,020 - 00:16:42,020] Let me remind you
+- [00:16:42,020 - 00:16:44,020] what the uncertainty principle says.
+- [00:16:44,020 - 00:16:46,020] It says that if you
+- [00:16:46,020 - 00:16:48,020] have an object
+- [00:16:48,020 - 00:16:50,020] and you're interested in
+- [00:16:50,020 - 00:16:52,020] its position, x,
+- [00:16:52,020 - 00:16:54,020] in ordinary space now,
+- [00:16:54,020 - 00:16:56,020] and its momentum, p,
+- [00:16:56,020 - 00:16:58,020] velocity, if you like,
+- [00:16:58,020 - 00:17:00,020] the uncertainty principle
+- [00:17:00,020 - 00:17:02,020] says that the uncertainty in its
+- [00:17:02,020 - 00:17:04,020] position times the uncertainty
+- [00:17:04,020 - 00:17:06,020] in the momentum
+- [00:17:06,020 - 00:17:08,020] is greater than or equal to what?
+- [00:17:08,020 - 00:17:10,020] Planck's
+- [00:17:10,020 - 00:17:12,020] constant.
+- [00:17:12,020 - 00:17:14,020] You can't
+- [00:17:14,020 - 00:17:16,020] have something both standing
+- [00:17:16,020 - 00:17:18,020] still and having
+- [00:17:18,020 - 00:17:20,020] zero momentum.
+- [00:17:20,020 - 00:17:22,020] Sorry, you can't have something
+- [00:17:22,020 - 00:17:24,020] standing still,
+- [00:17:24,020 - 00:17:26,020] namely no momentum,
+- [00:17:26,020 - 00:17:28,020] and also
+- [00:17:28,020 - 00:17:30,020] localized at a point.
+- [00:17:30,020 - 00:17:32,020] Delta p times delta x
+- [00:17:32,020 - 00:17:34,020] is greater than h bar. Same thing
+- [00:17:34,020 - 00:17:36,020] here. If you know
+- [00:17:36,020 - 00:17:38,020] where the field
+- [00:17:38,020 - 00:17:40,020] is on this Mexican hat,
+- [00:17:40,020 - 00:17:42,020] if you know with great precision,
+- [00:17:42,020 - 00:17:44,020] then it follows from the other side
+- [00:17:44,020 - 00:17:46,020] of the uncertainty principle
+- [00:17:46,020 - 00:17:48,020] that it must have a very large uncertainty
+- [00:17:48,020 - 00:17:50,020] in how fast it's moving around
+- [00:17:50,020 - 00:17:52,020] here. Ah,
+- [00:17:52,020 - 00:17:54,020] that's interesting now. That would
+- [00:17:54,020 - 00:17:56,020] say that you can't have empty
+- [00:17:56,020 - 00:17:58,020] space with no charge in it.
+- [00:17:58,020 - 00:18:00,020] Can't have empty space with no
+- [00:18:00,020 - 00:18:02,020] charge in it because if you lay the field down
+- [00:18:02,020 - 00:18:04,020] at this point, you know where
+- [00:18:04,020 - 00:18:06,020] it is on the rim of
+- [00:18:06,020 - 00:18:08,020] the hat, and if you know where it is,
+- [00:18:08,020 - 00:18:10,020] there's a necessary
+- [00:18:10,020 - 00:18:12,020] uncertainty
+- [00:18:12,020 - 00:18:14,020] in the charge.
+- [00:18:14,020 - 00:18:16,020] The charge being like the angular momentum.
+- [00:18:16,020 - 00:18:18,020] Alright, so where are we then?
+- [00:18:18,020 - 00:18:20,020] If this were the case
+- [00:18:20,020 - 00:18:22,020] for electric charge, for ordinary electric
+- [00:18:22,020 - 00:18:24,020] charge, we would say that
+- [00:18:24,020 - 00:18:26,020] the vacuum, empty
+- [00:18:26,020 - 00:18:28,020] space, not only is filled
+- [00:18:28,020 - 00:18:30,020] with charge in a certain sense, but
+- [00:18:30,020 - 00:18:32,020] a totally uncertain amount of charge.
+- [00:18:32,020 - 00:18:34,020] Totally uncertain,
+- [00:18:34,020 - 00:18:36,020] and this is a quantum effect,
+- [00:18:36,020 - 00:18:38,020] a totally uncertain amount of charge,
+- [00:18:40,020 - 00:18:42,020] there would be equal probability,
+- [00:18:42,020 - 00:18:44,020] let's take a little volume of space,
+- [00:18:44,020 - 00:18:46,020] there would be equal probability
+- [00:18:46,020 - 00:18:48,020] that the charge was
+- [00:18:48,020 - 00:18:50,020] zero, or
+- [00:18:50,020 - 00:18:52,020] that the charge was one,
+- [00:18:52,020 - 00:18:54,020] or minus one, or two,
+- [00:18:54,020 - 00:18:56,020] or minus two,
+- [00:18:56,020 - 00:18:58,020] three, minus
+- [00:18:58,020 - 00:19:00,020] three. Now this is truly odd.
+- [00:19:00,020 - 00:19:02,020] This is not something you should try to visualize
+- [00:19:02,020 - 00:19:04,020] because you can't visualize
+- [00:19:04,020 - 00:19:06,020] an uncertain amount of charge,
+- [00:19:06,020 - 00:19:08,020] but nevertheless, that is what
+- [00:19:08,020 - 00:19:10,020] a region of space would look like.
+- [00:19:10,020 - 00:19:12,020] If you measured its charge, it could be
+- [00:19:12,020 - 00:19:14,020] anything from minus infinity to plus infinity.
+- [00:19:14,020 - 00:19:16,020] Okay, now
+- [00:19:16,020 - 00:19:18,020] I want you to imagine that you
+- [00:19:18,020 - 00:19:20,020] have an extra charged particle,
+- [00:19:20,020 - 00:19:22,020] an extra
+- [00:19:22,020 - 00:19:24,020] charged particle, and you
+- [00:19:24,020 - 00:19:26,020] throw it in.
+- [00:19:26,020 - 00:19:28,020] You don't know initially what the charge is,
+- [00:19:28,020 - 00:19:30,020] but what does that do?
+- [00:19:30,020 - 00:19:32,020] It displaces the charge by one unit.
+- [00:19:32,020 - 00:19:34,020] Let's suppose it was a positive charge.
+- [00:19:34,020 - 00:19:36,020] You've displaced the charge
+- [00:19:36,020 - 00:19:38,020] by one unit, and so
+- [00:19:38,020 - 00:19:40,020] if it was zero to begin with, it's now
+- [00:19:40,020 - 00:19:42,020] one. If it was one to begin with,
+- [00:19:42,020 - 00:19:44,020] it's now two. If it was two to
+- [00:19:44,020 - 00:19:46,020] begin with, it's three. If it was minus one,
+- [00:19:46,020 - 00:19:48,020] it's zero, one, minus one,
+- [00:19:48,020 - 00:19:50,020] minus two, and so forth.
+- [00:19:50,020 - 00:19:52,020] But that's exactly the same as what we
+- [00:19:52,020 - 00:19:54,020] started with. We started
+- [00:19:54,020 - 00:19:56,020] with something which had an uncertain
+- [00:19:56,020 - 00:19:58,020] amount of charge,
+- [00:19:58,020 - 00:20:00,020] equally likely for any
+- [00:20:00,020 - 00:20:02,020] value of charge, and what did we
+- [00:20:02,020 - 00:20:04,020] end up with after we threw the charge in?
+- [00:20:04,020 - 00:20:06,020] Exactly the same thing.
+- [00:20:06,020 - 00:20:08,020] What if we plucked the charge
+- [00:20:08,020 - 00:20:10,020] out of this thing?
+- [00:20:10,020 - 00:20:12,020] Same thing.
+- [00:20:12,020 - 00:20:14,020] So a condensate is a funny
+- [00:20:14,020 - 00:20:16,020] configuration of space
+- [00:20:16,020 - 00:20:18,020] where with respect
+- [00:20:18,020 - 00:20:20,020] to whatever kind of charge we're talking about,
+- [00:20:20,020 - 00:20:22,020] it's so uncertain
+- [00:20:22,020 - 00:20:24,020] that you wouldn't even realize it if you
+- [00:20:24,020 - 00:20:26,020] put an extra one in or pulled one out.
+- [00:20:26,020 - 00:20:28,020] Now the real world is
+- [00:20:28,020 - 00:20:30,020] not like that with respect to electric
+- [00:20:30,020 - 00:20:32,020] charge. We know
+- [00:20:32,020 - 00:20:34,020] if we have a charge in space.
+- [00:20:34,020 - 00:20:36,020] So it's not like that with respect to
+- [00:20:36,020 - 00:20:38,020] electric charge. However,
+- [00:20:38,020 - 00:20:40,020] there are materials that behave like this.
+- [00:20:40,020 - 00:20:42,020] Superconductors.
+- [00:20:42,020 - 00:20:44,020] Superconductors are exactly
+- [00:20:44,020 - 00:20:46,020] like this.
+- [00:20:46,020 - 00:20:48,020] So it's not unheard of. It's not
+- [00:20:48,020 - 00:20:50,020] a totally new thing to
+- [00:20:50,020 - 00:20:52,020] have a condensate of charge
+- [00:20:52,020 - 00:20:54,020] where in a region the charge
+- [00:20:54,020 - 00:20:56,020] is completely uncertain.
+- [00:20:58,020 - 00:21:00,020] Okay, that was
+- [00:21:00,020 - 00:21:02,020] module number one, if you like.
+- [00:21:02,020 - 00:21:04,020] Condensates
+- [00:21:04,020 - 00:21:06,020] or what is sometimes called the spontaneous
+- [00:21:06,020 - 00:21:08,020] breaking of symmetry.
+- [00:21:08,020 - 00:21:10,020] Module number two, the standard model.
+- [00:21:10,020 - 00:21:12,020] Now we come
+- [00:21:12,020 - 00:21:14,020] to particle physics.
+- [00:21:14,020 - 00:21:16,020] And I'll give you a
+- [00:21:16,020 - 00:21:18,020] short course in particle physics.
+- [00:21:18,020 - 00:21:20,020] First of all, particles have mass.
+- [00:21:20,020 - 00:21:22,020] And the mass can be
+- [00:21:22,020 - 00:21:24,020] anywhere from
+- [00:21:24,020 - 00:21:26,020] zero.
+- [00:21:26,020 - 00:21:28,020] We're talking about small particles now.
+- [00:21:28,020 - 00:21:30,020] We're not talking about railroad engines
+- [00:21:30,020 - 00:21:32,020] or stars.
+- [00:21:32,020 - 00:21:34,020] We're talking about small particles.
+- [00:21:34,020 - 00:21:36,020] We call them elementary particles.
+- [00:21:36,020 - 00:21:38,020] But there's also
+- [00:21:38,020 - 00:21:40,020] a maximum mass they can have.
+- [00:21:40,020 - 00:21:42,020] If they were bigger than that, they would form
+- [00:21:42,020 - 00:21:44,020] a black hole. If they were more massive
+- [00:21:44,020 - 00:21:46,020] than that. If a point particle
+- [00:21:46,020 - 00:21:48,020] was more massive than something, it would form
+- [00:21:48,020 - 00:21:50,020] a black hole and it would be
+- [00:21:50,020 - 00:21:52,020] something different. So
+- [00:21:52,020 - 00:21:54,020] up to some maximum, and that maximum
+- [00:21:54,020 - 00:21:56,020] is called the Planck mass.
+- [00:21:56,020 - 00:21:58,020] It is not a very
+- [00:21:58,020 - 00:22:00,020] large mass. It's neither a very large mass
+- [00:22:00,020 - 00:22:02,020] nor a very small mass. It happens to be
+- [00:22:02,020 - 00:22:04,020] about one hundred thousandth
+- [00:22:04,020 - 00:22:06,020] of a gram.
+- [00:22:06,020 - 00:22:08,020] A small dust mote.
+- [00:22:08,020 - 00:22:10,020] But that is the heaviest that a
+- [00:22:10,020 - 00:22:12,020] elementary particle can be
+- [00:22:12,020 - 00:22:14,020] without turning into a black hole.
+- [00:22:14,020 - 00:22:16,020] And if you ask now, where
+- [00:22:16,020 - 00:22:18,020] on this chart, from zero
+- [00:22:18,020 - 00:22:20,020] this is called M Planck
+- [00:22:20,020 - 00:22:22,020] up to the maximum
+- [00:22:22,020 - 00:22:24,020] where are the ordinary
+- [00:22:24,020 - 00:22:26,020] particles, the electrons, the photons
+- [00:22:26,020 - 00:22:28,020] the quarks
+- [00:22:28,020 - 00:22:30,020] they are
+- [00:22:30,020 - 00:22:32,020] way, way down here.
+- [00:22:34,020 - 00:22:36,020] The largest
+- [00:22:36,020 - 00:22:38,020] mass of a known elementary
+- [00:22:38,020 - 00:22:40,020] particle is about
+- [00:22:40,020 - 00:22:42,020] ten to the minus seventeen
+- [00:22:42,020 - 00:22:44,020] of the
+- [00:22:44,020 - 00:22:46,020] Planck mass.
+- [00:22:46,020 - 00:22:48,020] Why are the particles so light?
+- [00:22:48,020 - 00:22:50,020] Well, one answer is
+- [00:22:50,020 - 00:22:52,020] in order to detect
+- [00:22:52,020 - 00:22:54,020] massive particles, you have to have a lot of energy.
+- [00:22:54,020 - 00:22:56,020] In order to have a lot of energy
+- [00:22:56,020 - 00:22:58,020] you need a big accelerator. We've only made
+- [00:22:58,020 - 00:23:00,020] accelerators up to some size.
+- [00:23:00,020 - 00:23:02,020] And so, for all
+- [00:23:02,020 - 00:23:04,020] we know, the rest of this
+- [00:23:04,020 - 00:23:06,020] is filled with particles. And that's probably true.
+- [00:23:06,020 - 00:23:08,020] That's probably true.
+- [00:23:08,020 - 00:23:10,020] But what is special about these
+- [00:23:10,020 - 00:23:12,020] particles? Well, first of all, let me name them
+- [00:23:12,020 - 00:23:14,020] and then I'll tell you what's special
+- [00:23:14,020 - 00:23:16,020] about them that makes them clump up
+- [00:23:16,020 - 00:23:18,020] at zero mass. Let's name
+- [00:23:18,020 - 00:23:20,020] them
+- [00:23:20,020 - 00:23:22,020] the particles of the Standard Model. They come in
+- [00:23:22,020 - 00:23:24,020] two varieties. It is not
+- [00:23:24,020 - 00:23:26,020] important that you know the difference. Well, I'll
+- [00:23:26,020 - 00:23:28,020] give you a rough idea of what the difference is.
+- [00:23:28,020 - 00:23:30,020] They come in two varieties called fermions
+- [00:23:32,020 - 00:23:34,020] and bosons.
+- [00:23:36,020 - 00:23:38,020] The fermions
+- [00:23:38,020 - 00:23:40,020] are all the particles that make up
+- [00:23:40,020 - 00:23:42,020] matter in the usual sense.
+- [00:23:42,020 - 00:23:44,020] The electron, which I'll just call E
+- [00:23:44,020 - 00:23:46,020] well, the neutrino goes along
+- [00:23:46,020 - 00:23:48,020] with the electron. That's a new
+- [00:23:48,020 - 00:23:50,020] the electron, the neutrino.
+- [00:23:50,020 - 00:23:52,020] Quarks.
+- [00:23:52,020 - 00:23:54,020] There's a variety of different quarks. Incidentally,
+- [00:23:54,020 - 00:23:56,020] there are several different kinds of electrons.
+- [00:23:56,020 - 00:23:58,020] We call them electron,
+- [00:23:58,020 - 00:24:00,020] muon, tau, it doesn't matter, but they're
+- [00:24:00,020 - 00:24:02,020] very electron-like in several
+- [00:24:02,020 - 00:24:04,020] kinds of neutrinos.
+- [00:24:04,020 - 00:24:06,020] The electrons have the electric charge.
+- [00:24:06,020 - 00:24:08,020] The neutrinos don't. And then there are
+- [00:24:08,020 - 00:24:10,020] quarks, a variety of different kinds
+- [00:24:10,020 - 00:24:12,020] of quarks. Up quarks, down
+- [00:24:12,020 - 00:24:14,020] quarks, this kind of quark, that kind of quark.
+- [00:24:14,020 - 00:24:16,020] And those quarks,
+- [00:24:16,020 - 00:24:18,020] several different kinds of quarks, you know
+- [00:24:18,020 - 00:24:19,020] what the role of them
+- [00:24:19,020 - 00:24:20,020] are. They make up the proton.
+- [00:24:20,020 - 00:24:22,020] And
+- [00:24:22,020 - 00:24:24,020] that's about it for
+- [00:24:24,020 - 00:24:26,020] fermions.
+- [00:24:26,020 - 00:24:28,020] For bosons, on the
+- [00:24:28,020 - 00:24:30,020] other hand, there's first of all the
+- [00:24:30,020 - 00:24:32,020] photon, gamma.
+- [00:24:32,020 - 00:24:34,020] Gamma for a gamma ray.
+- [00:24:34,020 - 00:24:36,020] Photon. There's an object
+- [00:24:36,020 - 00:24:38,020] called the gluon,
+- [00:24:38,020 - 00:24:40,020] G. It's very much
+- [00:24:40,020 - 00:24:42,020] like a photon.
+- [00:24:42,020 - 00:24:44,020] It's very much like a photon, but
+- [00:24:44,020 - 00:24:46,020] it doesn't have anything to do with atoms.
+- [00:24:46,020 - 00:24:48,020] It has to do with nuclei and protons
+- [00:24:48,020 - 00:24:50,020] and neutrons. It plays the same
+- [00:24:50,020 - 00:24:52,020] role in holding the nucleus, or
+- [00:24:52,020 - 00:24:54,020] better yet, the proton together,
+- [00:24:54,020 - 00:24:56,020] as the photon plays
+- [00:24:56,020 - 00:24:58,020] in creating electrical
+- [00:24:58,020 - 00:25:00,020] fields inside an atom.
+- [00:25:00,020 - 00:25:02,020] So there's the gluon.
+- [00:25:02,020 - 00:25:04,020] And then there are two others called
+- [00:25:04,020 - 00:25:06,020] W bosons
+- [00:25:06,020 - 00:25:08,020] and Z bosons.
+- [00:25:08,020 - 00:25:10,020] For the most part,
+- [00:25:10,020 - 00:25:12,020] we won't be interested in any
+- [00:25:12,020 - 00:25:14,020] of them, except the photon, the
+- [00:25:14,020 - 00:25:16,020] gamma ray here and there, but mostly
+- [00:25:16,020 - 00:25:18,020] we'll be interested in the Z boson.
+- [00:25:18,020 - 00:25:20,020] That's it.
+- [00:25:20,020 - 00:25:22,020] That's the standard model. That's all there is
+- [00:25:22,020 - 00:25:24,020] to it, with one exception. I've left something
+- [00:25:24,020 - 00:25:25,020] out. It's the thing you
+- [00:25:25,020 - 00:25:26,020] came to find out about tonight.
+- [00:25:26,020 - 00:25:28,020] Okay?
+- [00:25:28,020 - 00:25:30,020] So we'll come to it.
+- [00:25:30,020 - 00:25:32,020] If there was no
+- [00:25:32,020 - 00:25:34,020] X boson, then this
+- [00:25:34,020 - 00:25:36,020] would be it. Now,
+- [00:25:36,020 - 00:25:38,020] what is special about this set of particles?
+- [00:25:38,020 - 00:25:40,020] What's special about them
+- [00:25:40,020 - 00:25:42,020] is for reasons that I'm going to come to.
+- [00:25:42,020 - 00:25:44,020] Reasons that I will come to.
+- [00:25:44,020 - 00:25:46,020] All of these particles
+- [00:25:46,020 - 00:25:48,020] in the standard model, as I've
+- [00:25:48,020 - 00:25:50,020] laid it out here, with nothing else in it,
+- [00:25:50,020 - 00:25:52,020] would all have mass
+- [00:25:52,020 - 00:25:54,020] equal to zero.
+- [00:25:54,020 - 00:25:56,020] They would be massless.
+- [00:25:58,020 - 00:26:00,020] And I'll explain why that is in a little while.
+- [00:26:02,020 - 00:26:04,020] We often hear that
+- [00:26:04,020 - 00:26:06,020] it's the role of the Higgs boson
+- [00:26:06,020 - 00:26:08,020] to create mass
+- [00:26:08,020 - 00:26:10,020] for particles, or to give the
+- [00:26:10,020 - 00:26:12,020] particles their mass. That's the expression
+- [00:26:12,020 - 00:26:14,020] that I've heard over and over. The Higgs
+- [00:26:14,020 - 00:26:16,020] gives particles their mass.
+- [00:26:16,020 - 00:26:18,020] Why do the particles have to be given mass?
+- [00:26:18,020 - 00:26:20,020] Why can't they have mass
+- [00:26:20,020 - 00:26:22,020] of their own? Why do they have to be given
+- [00:26:22,020 - 00:26:24,020] mass? Well, as it turns out,
+- [00:26:24,020 - 00:26:26,020] for reasons we'll explain,
+- [00:26:26,020 - 00:26:28,020] this set of particles is exactly
+- [00:26:28,020 - 00:26:30,020] the set of particles which would have
+- [00:26:30,020 - 00:26:32,020] no mass if this was
+- [00:26:32,020 - 00:26:34,020] all there was. Now,
+- [00:26:34,020 - 00:26:36,020] in part, that explains
+- [00:26:36,020 - 00:26:38,020] in part it explains
+- [00:26:38,020 - 00:26:40,020] why the particles, why these particles
+- [00:26:40,020 - 00:26:42,020] are so very light.
+- [00:26:42,020 - 00:26:44,020] It's because they're massless.
+- [00:26:44,020 - 00:26:46,020] They have no mass. Well,
+- [00:26:46,020 - 00:26:48,020] not quite. We can't live with that
+- [00:26:48,020 - 00:26:50,020] because we know that particles really do have mass.
+- [00:26:50,020 - 00:26:52,020] Next question.
+- [00:26:52,020 - 00:26:54,020] I'm going to draw some figures over here.
+- [00:26:54,020 - 00:26:56,020] What do these particles
+- [00:26:56,020 - 00:26:58,020] do? What kind of
+- [00:26:58,020 - 00:27:00,020] processes are they involved in?
+- [00:27:00,020 - 00:27:02,020] Alright, the basic
+- [00:27:02,020 - 00:27:04,020] process of the standard model
+- [00:27:04,020 - 00:27:06,020] this is an
+- [00:27:06,020 - 00:27:08,020] oversimplification, but it's
+- [00:27:08,020 - 00:27:10,020] qualitatively right,
+- [00:27:10,020 - 00:27:12,020] is that the fermions, there's a fermion
+- [00:27:12,020 - 00:27:14,020] moving along, and I will describe a fermion
+- [00:27:14,020 - 00:27:16,020] by a solid line.
+- [00:27:16,020 - 00:27:18,020] Solid because it's what makes up
+- [00:27:18,020 - 00:27:20,020] stuff. Solid
+- [00:27:20,020 - 00:27:22,020] line that's
+- [00:27:22,020 - 00:27:24,020] moving from one point in space-time
+- [00:27:24,020 - 00:27:26,020] to another point in space-time.
+- [00:27:26,020 - 00:27:28,020] What the standard model does
+- [00:27:28,020 - 00:27:30,020] is it causes
+- [00:27:30,020 - 00:27:32,020] the emission of bosons.
+- [00:27:32,020 - 00:27:34,020] A electron
+- [00:27:34,020 - 00:27:36,020] moving along can emit
+- [00:27:36,020 - 00:27:38,020] a photon.
+- [00:27:38,020 - 00:27:40,020] Electron moving along can emit
+- [00:27:40,020 - 00:27:42,020] a photon, and that's connected
+- [00:27:42,020 - 00:27:44,020] with the electric charge
+- [00:27:44,020 - 00:27:46,020] Any electrically charged
+- [00:27:46,020 - 00:27:48,020] particle can emit
+- [00:27:48,020 - 00:27:50,020] a photon.
+- [00:27:50,020 - 00:27:52,020] A photon.
+- [00:27:52,020 - 00:27:54,020] That's the first thing that the standard
+- [00:27:54,020 - 00:27:56,020] model does. Now this of course is just quantum
+- [00:27:56,020 - 00:27:58,020] electrodynamics. It does not have
+- [00:27:58,020 - 00:28:00,020] to be the electron. It could be any
+- [00:28:00,020 - 00:28:02,020] electrically charged particle.
+- [00:28:02,020 - 00:28:04,020] Next,
+- [00:28:04,020 - 00:28:06,020] the quark
+- [00:28:06,020 - 00:28:08,020] Let's see, do we have
+- [00:28:08,020 - 00:28:10,020] room here? Yeah, we'll just do it. The quark
+- [00:28:10,020 - 00:28:12,020] Quark
+- [00:28:12,020 - 00:28:14,020] Quark, let's just call it
+- [00:28:14,020 - 00:28:16,020] a quark.
+- [00:28:16,020 - 00:28:18,020] The quark can emit a gluon.
+- [00:28:18,020 - 00:28:20,020] Precisely the same pattern.
+- [00:28:20,020 - 00:28:22,020] The quark
+- [00:28:22,020 - 00:28:24,020] emits a gluon. Now the quark can also
+- [00:28:24,020 - 00:28:26,020] emit a photon if it happens to be
+- [00:28:26,020 - 00:28:28,020] electrically charged, and quarks are
+- [00:28:28,020 - 00:28:30,020] electrically charged, but electrons
+- [00:28:30,020 - 00:28:32,020] cannot emit gluons.
+- [00:28:32,020 - 00:28:34,020] Gluons are the things that bind quarks
+- [00:28:34,020 - 00:28:36,020] together to hold them together into protons
+- [00:28:36,020 - 00:28:38,020] and neutrons. And
+- [00:28:38,020 - 00:28:40,020] then there's one more important process
+- [00:28:40,020 - 00:28:42,020] for me tonight. There are two more
+- [00:28:42,020 - 00:28:44,020] processes, but I'll just write down one here.
+- [00:28:44,020 - 00:28:46,020] And it is
+- [00:28:46,020 - 00:28:48,020] either an
+- [00:28:48,020 - 00:28:50,020] electron, oh incidentally,
+- [00:28:50,020 - 00:28:52,020] a neutrino cannot emit a photon.
+- [00:28:52,020 - 00:28:54,020] It has no electric charge.
+- [00:28:54,020 - 00:28:56,020] It cannot emit
+- [00:28:56,020 - 00:28:58,020] a gluon. It's not a quark.
+- [00:28:58,020 - 00:29:00,020] Both
+- [00:29:00,020 - 00:29:02,020] electrons and neutrinos
+- [00:29:02,020 - 00:29:04,020] and quarks
+- [00:29:04,020 - 00:29:06,020] for that matter, can emit
+- [00:29:06,020 - 00:29:08,020] the z boson. Where's the z boson?
+- [00:29:08,020 - 00:29:10,020] Here's the z boson right here.
+- [00:29:10,020 - 00:29:12,020] And when they do so,
+- [00:29:12,020 - 00:29:14,020] the z boson
+- [00:29:14,020 - 00:29:16,020] being electrically neutral,
+- [00:29:16,020 - 00:29:18,020] the electric charge
+- [00:29:18,020 - 00:29:20,020] of whatever's here doesn't change.
+- [00:29:20,020 - 00:29:22,020] So this is another process
+- [00:29:22,020 - 00:29:24,020] that the standard model describes.
+- [00:29:24,020 - 00:29:26,020] Now first of all,
+- [00:29:26,020 - 00:29:28,020] why are
+- [00:29:28,020 - 00:29:30,020] the bosons massless?
+- [00:29:30,020 - 00:29:32,020] Well,
+- [00:29:32,020 - 00:29:34,020] the photon's massless,
+- [00:29:34,020 - 00:29:36,020] we know that. It travels with
+- [00:29:36,020 - 00:29:38,020] the speed of light. Now
+- [00:29:38,020 - 00:29:40,020] could we make a theory in which the
+- [00:29:40,020 - 00:29:42,020] photon had some mass? Yes we could.
+- [00:29:42,020 - 00:29:44,020] But the more important
+- [00:29:44,020 - 00:29:46,020] thing is that we can make a theory
+- [00:29:46,020 - 00:29:48,020] in which the photon doesn't have a mass.
+- [00:29:48,020 - 00:29:50,020] Why? Because the photon
+- [00:29:50,020 - 00:29:52,020] doesn't have a mass.
+- [00:29:56,020 - 00:29:58,020] Using the same kind of theory,
+- [00:29:58,020 - 00:30:00,020] the
+- [00:30:00,020 - 00:30:02,020] z boson would not have a mass
+- [00:30:02,020 - 00:30:04,020] and the gluon would not have a mass.
+- [00:30:04,020 - 00:30:06,020] Everything would be
+- [00:30:06,020 - 00:30:08,020] massless. These would be
+- [00:30:08,020 - 00:30:10,020] the processes that could happen.
+- [00:30:10,020 - 00:30:12,020] These would be the particles. They would all
+- [00:30:12,020 - 00:30:14,020] be massless.
+- [00:30:14,020 - 00:30:16,020] Okay, now, how do
+- [00:30:16,020 - 00:30:18,020] fields, how do
+- [00:30:18,020 - 00:30:20,020] fields give particles
+- [00:30:20,020 - 00:30:22,020] mass? Or better yet,
+- [00:30:22,020 - 00:30:24,020] more simply, a simple
+- [00:30:24,020 - 00:30:26,020] example. I'm going to show you a simple example
+- [00:30:26,020 - 00:30:28,020] now. The simple example
+- [00:30:28,020 - 00:30:30,020] is how a field
+- [00:30:30,020 - 00:30:32,020] can affect the mass of a particle.
+- [00:30:32,020 - 00:30:34,020] We'll come back in a moment
+- [00:30:34,020 - 00:30:36,020] to how it can give something which didn't have
+- [00:30:36,020 - 00:30:38,020] mass, mass. But let's
+- [00:30:38,020 - 00:30:40,020] take a more modest question.
+- [00:30:40,020 - 00:30:42,020] How may fields
+- [00:30:42,020 - 00:30:44,020] affect the mass? Or better yet,
+- [00:30:44,020 - 00:30:46,020] how might they
+- [00:30:46,020 - 00:30:48,020] make different masses
+- [00:30:48,020 - 00:30:50,020] for different particles?
+- [00:30:50,020 - 00:30:52,020] So I'm going to show you an example.
+- [00:30:52,020 - 00:30:54,020] This example is a little bit contrived,
+- [00:30:54,020 - 00:30:56,020] but it's a real example.
+- [00:30:56,020 - 00:30:58,020] A water molecule.
+- [00:30:58,020 - 00:31:00,020] Water molecules
+- [00:31:00,020 - 00:31:02,020] have the basic property that they're
+- [00:31:02,020 - 00:31:04,020] little dumbbells. They have a
+- [00:31:04,020 - 00:31:06,020] plus end and a minus end. Electrically
+- [00:31:06,020 - 00:31:08,020] charged plus end and minus end.
+- [00:31:08,020 - 00:31:10,020] They're actually not,
+- [00:31:10,020 - 00:31:12,020] they're more like Y's.
+- [00:31:12,020 - 00:31:14,020] Y with three N's. But we can think of
+- [00:31:14,020 - 00:31:16,020] them as having a plus end,
+- [00:31:16,020 - 00:31:18,020] dumbbells, and a minus end.
+- [00:31:18,020 - 00:31:20,020] Now,
+- [00:31:20,020 - 00:31:22,020] the mass of a water molecule,
+- [00:31:22,020 - 00:31:24,020] water molecules have mass,
+- [00:31:24,020 - 00:31:26,020] the mass of a water molecule
+- [00:31:26,020 - 00:31:28,020] doesn't depend on its
+- [00:31:28,020 - 00:31:30,020] orientation. If we turned
+- [00:31:30,020 - 00:31:32,020] it over and made a water
+- [00:31:32,020 - 00:31:34,020] molecule with its minus end here
+- [00:31:34,020 - 00:31:36,020] and the plus end here,
+- [00:31:36,020 - 00:31:38,020] it would have exactly the same
+- [00:31:38,020 - 00:31:40,020] mass. Why? It's the
+- [00:31:40,020 - 00:31:42,020] symmetry of space. Space
+- [00:31:42,020 - 00:31:44,020] is the same in every direction,
+- [00:31:44,020 - 00:31:46,020] and so by symmetry,
+- [00:31:46,020 - 00:31:48,020] we would say
+- [00:31:48,020 - 00:31:50,020] that the water molecule standing
+- [00:31:50,020 - 00:31:52,020] up straight has exactly the same
+- [00:31:52,020 - 00:31:54,020] mass as the water molecule standing
+- [00:31:54,020 - 00:31:56,020] on its head. Let's not worry for
+- [00:31:56,020 - 00:31:58,020] tonight about whether it's lying on its side.
+- [00:31:58,020 - 00:32:00,020] Quantum mechanics tells us we don't
+- [00:32:00,020 - 00:32:02,020] have to worry about anything
+- [00:32:02,020 - 00:32:04,020] but standing up straight and lying on its head.
+- [00:32:04,020 - 00:32:06,020] Alright, so that's
+- [00:32:06,020 - 00:32:08,020] true about water molecules.
+- [00:32:08,020 - 00:32:10,020] Their mass is the same if they're standing up straight.
+- [00:32:10,020 - 00:32:12,020] And think of water molecules now as particles.
+- [00:32:12,020 - 00:32:14,020] Think of them just as particles.
+- [00:32:14,020 - 00:32:16,020] We don't know what they are, they're just little
+- [00:32:16,020 - 00:32:18,020] elementary particles, we can't see them.
+- [00:32:18,020 - 00:32:20,020] And so we have two kinds of particles,
+- [00:32:20,020 - 00:32:22,020] the upstanding and the
+- [00:32:22,020 - 00:32:24,020] standing on its head particle with exactly
+- [00:32:24,020 - 00:32:26,020] the same mass.
+- [00:32:26,020 - 00:32:28,020] Now, I thought I had a
+- [00:32:28,020 - 00:32:30,020] purple...
+- [00:32:30,020 - 00:32:32,020] No purple. I told them to put purple.
+- [00:32:32,020 - 00:32:34,020] We'll have to use orange.
+- [00:32:34,020 - 00:32:36,020] Where?
+- [00:32:38,020 - 00:32:40,020] Are we over here?
+- [00:32:42,020 - 00:32:44,020] Underneath the board. You mean under here?
+- [00:32:44,020 - 00:32:46,020] Oh!
+- [00:32:46,020 - 00:32:48,020] Good.
+- [00:32:48,020 - 00:32:50,020] Alright.
+- [00:32:50,020 - 00:32:52,020] I have my color coding
+- [00:32:52,020 - 00:32:54,020] in my notes here and if I blow it I'll
+- [00:32:54,020 - 00:32:56,020] be terrible. Okay.
+- [00:32:56,020 - 00:32:58,020] So,
+- [00:32:58,020 - 00:33:00,020] it looks brown to me.
+- [00:33:00,020 - 00:33:02,020] It is brown.
+- [00:33:02,020 - 00:33:04,020] Okay. Let's create
+- [00:33:04,020 - 00:33:06,020] a region in which there's an electric
+- [00:33:06,020 - 00:33:08,020] field. We're going to make a field.
+- [00:33:08,020 - 00:33:10,020] It could be between two
+- [00:33:10,020 - 00:33:12,020] capacitor plates. The capacitor plates could be
+- [00:33:12,020 - 00:33:13,020] far apart, it doesn't matter,
+- [00:33:13,020 - 00:33:14,020] but let's put them in a
+- [00:33:14,020 - 00:33:16,020] capacitor plates here and here.
+- [00:33:16,020 - 00:33:18,020] And inside that
+- [00:33:18,020 - 00:33:20,020] region, let's create an electric
+- [00:33:20,020 - 00:33:22,020] field.
+- [00:33:22,020 - 00:33:24,020] The electric field in this case pointing
+- [00:33:24,020 - 00:33:26,020] up. That means
+- [00:33:26,020 - 00:33:28,020] it pushes plus charges up and minus
+- [00:33:28,020 - 00:33:30,020] charges down if I have my signs right.
+- [00:33:32,020 - 00:33:34,020] And let's take one of these water molecules
+- [00:33:34,020 - 00:33:36,020] and insert it in here.
+- [00:33:38,020 - 00:33:40,020] Once I insert the water molecule in here,
+- [00:33:40,020 - 00:33:42,020] the energy of the
+- [00:33:42,020 - 00:33:44,020] upstanding water molecule
+- [00:33:44,020 - 00:33:46,020] and the upside down
+- [00:33:46,020 - 00:33:48,020] water molecule
+- [00:33:48,020 - 00:33:50,020] are different.
+- [00:33:50,020 - 00:33:52,020] Which one has
+- [00:33:52,020 - 00:33:54,020] less energy? The one with the plus
+- [00:33:54,020 - 00:33:56,020] up has less
+- [00:33:56,020 - 00:33:58,020] energy and the one turned
+- [00:33:58,020 - 00:34:00,020] over has
+- [00:34:00,020 - 00:34:02,020] larger energy. The water molecule
+- [00:34:02,020 - 00:34:04,020] itself is electrically neutral.
+- [00:34:04,020 - 00:34:06,020] It has no electric charge,
+- [00:34:06,020 - 00:34:08,020] but it's a little dipole.
+- [00:34:08,020 - 00:34:10,020] It has a pair of charges and
+- [00:34:10,020 - 00:34:12,020] which one
+- [00:34:12,020 - 00:34:14,020] has more energy depends on
+- [00:34:14,020 - 00:34:16,020] the sign of the electric field.
+- [00:34:18,020 - 00:34:20,020] Okay, so there we are. We have two
+- [00:34:20,020 - 00:34:22,020] water molecules, two types of water
+- [00:34:22,020 - 00:34:24,020] molecules, two
+- [00:34:24,020 - 00:34:26,020] different particles. We can give them different names.
+- [00:34:26,020 - 00:34:28,020] We can call it water and
+- [00:34:28,020 - 00:34:30,020] scotch.
+- [00:34:30,020 - 00:34:32,020] And
+- [00:34:32,020 - 00:34:34,020] the water molecule has one
+- [00:34:34,020 - 00:34:36,020] energy. The scotch molecule
+- [00:34:36,020 - 00:34:38,020] has another
+- [00:34:38,020 - 00:34:40,020] energy. And there they
+- [00:34:40,020 - 00:34:42,020] are. Well, by
+- [00:34:42,020 - 00:34:44,020] E equals mc squared
+- [00:34:44,020 - 00:34:46,020] this also tells us
+- [00:34:46,020 - 00:34:48,020] that the two molecules have
+- [00:34:48,020 - 00:34:50,020] different mass. Now in practice
+- [00:34:50,020 - 00:34:52,020] this would be a tiny different mass
+- [00:34:52,020 - 00:34:54,020] between them. But they
+- [00:34:54,020 - 00:34:56,020] would have different mass.
+- [00:34:56,020 - 00:34:58,020] So the same effect of this field
+- [00:34:58,020 - 00:35:00,020] which exerts itself on
+- [00:35:00,020 - 00:35:02,020] charged particles does something
+- [00:35:02,020 - 00:35:04,020] to neutral water molecules.
+- [00:35:04,020 - 00:35:06,020] Incidentally, notice that it doesn't exert any
+- [00:35:06,020 - 00:35:08,020] net force on the water molecule.
+- [00:35:08,020 - 00:35:10,020] The water molecule moves smoothly
+- [00:35:10,020 - 00:35:12,020] through it with no force, no net
+- [00:35:12,020 - 00:35:14,020] force acting on it.
+- [00:35:14,020 - 00:35:16,020] But there is a difference in the
+- [00:35:16,020 - 00:35:18,020] two configurations
+- [00:35:18,020 - 00:35:20,020] of the water molecule.
+- [00:35:20,020 - 00:35:22,020] And so it's as if we had particles of two
+- [00:35:22,020 - 00:35:24,020] different mass. So this is
+- [00:35:24,020 - 00:35:26,020] just an example of how a field
+- [00:35:26,020 - 00:35:28,020] creates mass.
+- [00:35:28,020 - 00:35:30,020] In this case, it increases
+- [00:35:30,020 - 00:35:32,020] one mass and decreases the other mass.
+- [00:35:36,020 - 00:35:38,020] Incidentally, if you read some of the literature
+- [00:35:38,020 - 00:35:40,020] and they'll tell you about how the
+- [00:35:40,020 - 00:35:42,020] Higgs field gives a mass,
+- [00:35:42,020 - 00:35:44,020] I've read any number of places
+- [00:35:44,020 - 00:35:46,020] that it's something like space being
+- [00:35:46,020 - 00:35:48,020] filled with molasses.
+- [00:35:48,020 - 00:35:50,020] It is not like space being
+- [00:35:50,020 - 00:35:52,020] filled with molasses.
+- [00:35:52,020 - 00:35:54,020] The vacuum is not sticky.
+- [00:35:54,020 - 00:35:56,020] And one of the things that molasses
+- [00:35:56,020 - 00:35:58,020] would do,
+- [00:35:58,020 - 00:36:00,020] well, the idea is
+- [00:36:00,020 - 00:36:02,020] that massive particles
+- [00:36:02,020 - 00:36:04,020] move slower than massless particles.
+- [00:36:04,020 - 00:36:06,020] So the idea
+- [00:36:06,020 - 00:36:08,020] is that molasses slows
+- [00:36:08,020 - 00:36:10,020] them down. But
+- [00:36:10,020 - 00:36:12,020] fields don't slow particles
+- [00:36:12,020 - 00:36:14,020] down. If you give the
+- [00:36:14,020 - 00:36:16,020] particle a push in this direction,
+- [00:36:16,020 - 00:36:18,020] it will just continue to move because
+- [00:36:18,020 - 00:36:20,020] there's no net force on it.
+- [00:36:20,020 - 00:36:22,020] It'll just slide right through this
+- [00:36:22,020 - 00:36:24,020] thing,
+- [00:36:24,020 - 00:36:26,020] frictionlessly,
+- [00:36:26,020 - 00:36:28,020] no impedance,
+- [00:36:28,020 - 00:36:30,020] no friction, no molasses.
+- [00:36:30,020 - 00:36:32,020] The other
+- [00:36:32,020 - 00:36:34,020] analogy I once heard is
+- [00:36:34,020 - 00:36:36,020] that it was like
+- [00:36:36,020 - 00:36:38,020] trying to push a snowplow through
+- [00:36:38,020 - 00:36:40,020] heavy snow in the Arctic.
+- [00:36:40,020 - 00:36:42,020] It's got nothing to do with it.
+- [00:36:42,020 - 00:36:44,020] Whatever. That's a
+- [00:36:44,020 - 00:36:46,020] lazy way to explain it.
+- [00:36:46,020 - 00:36:48,020] And it's a wrong way to explain it.
+- [00:36:48,020 - 00:36:50,020] Okay, so there we are.
+- [00:36:50,020 - 00:36:52,020] But now let's
+- [00:36:52,020 - 00:36:54,020] think of this in a slightly
+- [00:36:54,020 - 00:36:56,020] different way.
+- [00:36:56,020 - 00:36:58,020] The electric field in here
+- [00:36:58,020 - 00:37:00,020] can also be pictured in terms of
+- [00:37:00,020 - 00:37:02,020] photons.
+- [00:37:02,020 - 00:37:04,020] A field is another way
+- [00:37:04,020 - 00:37:06,020] of talking about a collection,
+- [00:37:06,020 - 00:37:08,020] a condensate
+- [00:37:08,020 - 00:37:10,020] of photons, an electric field.
+- [00:37:10,020 - 00:37:12,020] We can replace the electric field
+- [00:37:12,020 - 00:37:14,020] with a
+- [00:37:14,020 - 00:37:16,020] by
+- [00:37:16,020 - 00:37:18,020] a condensate,
+- [00:37:18,020 - 00:37:20,020] the same kind of condensate,
+- [00:37:20,020 - 00:37:22,020] the same kind of condensate
+- [00:37:22,020 - 00:37:24,020] of photons.
+- [00:37:24,020 - 00:37:26,020] Let's draw photons by just
+- [00:37:26,020 - 00:37:28,020] little squiggly lines.
+- [00:37:28,020 - 00:37:30,020] Fill this up with photons.
+- [00:37:30,020 - 00:37:32,020] How does it know which way the electric field
+- [00:37:32,020 - 00:37:34,020] is pointing? Well, photons have a
+- [00:37:34,020 - 00:37:36,020] polarization. They could be up
+- [00:37:36,020 - 00:37:38,020] or they could be down. So just imagine
+- [00:37:38,020 - 00:37:40,020] this thing being filled with photons
+- [00:37:40,020 - 00:37:42,020] but not filled in the usual way,
+- [00:37:42,020 - 00:37:44,020] but filled in a condensate.
+- [00:37:44,020 - 00:37:46,020] What does a condensate mean?
+- [00:37:46,020 - 00:37:48,020] A condensate means that if I pull one out
+- [00:37:48,020 - 00:37:50,020] it doesn't make any difference.
+- [00:37:50,020 - 00:37:51,020] If I put an extra one
+- [00:37:51,020 - 00:37:52,020] in it doesn't make any difference.
+- [00:37:52,020 - 00:37:54,020] That's the meaning of a
+- [00:37:54,020 - 00:37:56,020] condensate. So it's an indefinite number
+- [00:37:56,020 - 00:37:58,020] of photons. That's what a
+- [00:37:58,020 - 00:38:00,020] field is. Indefinite, and if you pull
+- [00:38:00,020 - 00:38:02,020] one out, nothing happens.
+- [00:38:02,020 - 00:38:04,020] And now let's reintroduce
+- [00:38:04,020 - 00:38:06,020] the
+- [00:38:06,020 - 00:38:08,020] water molecule.
+- [00:38:08,020 - 00:38:10,020] Let's just draw the water molecule
+- [00:38:10,020 - 00:38:12,020] moving through here. Now I'm going to make the water
+- [00:38:12,020 - 00:38:14,020] molecule red. I've already blown my
+- [00:38:14,020 - 00:38:16,020] color coding. Here's the water molecule
+- [00:38:16,020 - 00:38:18,020] moving through here.
+- [00:38:18,020 - 00:38:20,020] And what is it going to do? It has
+- [00:38:20,020 - 00:38:22,020] charged particles inside it.
+- [00:38:22,020 - 00:38:24,020] The charged particles can emit
+- [00:38:24,020 - 00:38:26,020] and absorb photons.
+- [00:38:26,020 - 00:38:28,020] They emit and absorb photons.
+- [00:38:28,020 - 00:38:30,020] We've made the photons green now.
+- [00:38:30,020 - 00:38:32,020] So it emits photons.
+- [00:38:32,020 - 00:38:34,020] But when it emits a photon,
+- [00:38:34,020 - 00:38:36,020] putting an extra photon
+- [00:38:36,020 - 00:38:38,020] in doesn't matter.
+- [00:38:38,020 - 00:38:40,020] And so we usually draw that by just
+- [00:38:40,020 - 00:38:42,020] putting a cross at the end.
+- [00:38:42,020 - 00:38:44,020] A cross simply means
+- [00:38:44,020 - 00:38:46,020] that throwing an
+- [00:38:46,020 - 00:38:48,020] extra photon in doesn't affect
+- [00:38:48,020 - 00:38:50,020] anything.
+- [00:38:50,020 - 00:38:52,020] A photon is emitted
+- [00:38:52,020 - 00:38:54,020] and just is absorbed, or is
+- [00:38:54,020 - 00:38:56,020] just
+- [00:38:56,020 - 00:38:58,020] disappears into the condensate.
+- [00:39:00,020 - 00:39:02,020] As this object,
+- [00:39:02,020 - 00:39:04,020] the dumbbell, moves through
+- [00:39:04,020 - 00:39:06,020] the electric field, it's
+- [00:39:06,020 - 00:39:08,020] constantly emitting and absorbing
+- [00:39:08,020 - 00:39:10,020] these photons,
+- [00:39:10,020 - 00:39:12,020] which get lost in the
+- [00:39:12,020 - 00:39:14,020] condensate. That is another
+- [00:39:14,020 - 00:39:16,020] way of talking about
+- [00:39:16,020 - 00:39:18,020] how the field
+- [00:39:18,020 - 00:39:20,020] affects the particle.
+- [00:39:20,020 - 00:39:22,020] And depending on whether the
+- [00:39:22,020 - 00:39:24,020] photons are polarized up or
+- [00:39:24,020 - 00:39:26,020] down, this effect of
+- [00:39:26,020 - 00:39:28,020] constantly being
+- [00:39:28,020 - 00:39:30,020] absorbing and emitting photons
+- [00:39:30,020 - 00:39:32,020] will have the effect of shifting the
+- [00:39:32,020 - 00:39:34,020] energy of the two configurations
+- [00:39:34,020 - 00:39:36,020] of the dumbbell.
+- [00:39:36,020 - 00:39:38,020] That's simply an
+- [00:39:38,020 - 00:39:40,020] example of how a field
+- [00:39:40,020 - 00:39:42,020] can affect the mass
+- [00:39:42,020 - 00:39:44,020] of a particle, and how
+- [00:39:44,020 - 00:39:46,020] it can be thought of in terms
+- [00:39:46,020 - 00:39:48,020] of particles and
+- [00:39:48,020 - 00:39:50,020] condensates.
+- [00:39:50,020 - 00:39:52,020] That's what I want you to keep in mind.
+- [00:39:52,020 - 00:39:54,020] That picture.
+- [00:39:56,020 - 00:39:58,020] Okay, now let's come
+- [00:39:58,020 - 00:40:00,020] to elementary particles, not
+- [00:40:00,020 - 00:40:02,020] dumbbells, not molecules.
+- [00:40:02,020 - 00:40:04,020] First question, is there any
+- [00:40:04,020 - 00:40:06,020] reason why
+- [00:40:06,020 - 00:40:08,020] a particle or an object just
+- [00:40:08,020 - 00:40:10,020] can't have a mass? Does it need
+- [00:40:10,020 - 00:40:12,020] an excuse to have a mass?
+- [00:40:12,020 - 00:40:14,020] Does it need
+- [00:40:14,020 - 00:40:16,020] anything called the Higgs phenomena to have a mass?
+- [00:40:16,020 - 00:40:18,020] Well, there are lots of things in nature
+- [00:40:18,020 - 00:40:20,020] that have mass, and have nothing whatever
+- [00:40:20,020 - 00:40:22,020] to do with the Higgs phenomena. Let me give you
+- [00:40:22,020 - 00:40:24,020] an example. Imagine
+- [00:40:24,020 - 00:40:26,020] you had a box. And
+- [00:40:26,020 - 00:40:28,020] let's make that box out of extremely
+- [00:40:28,020 - 00:40:30,020] light stuff.
+- [00:40:30,020 - 00:40:32,020] The lightest stuff you can think of,
+- [00:40:32,020 - 00:40:34,020] but it's a box with good reflecting
+- [00:40:34,020 - 00:40:36,020] walls, and fill it
+- [00:40:36,020 - 00:40:38,020] with lots of high energy radiation,
+- [00:40:38,020 - 00:40:40,020] bouncing off the walls,
+- [00:40:40,020 - 00:40:42,020] but never getting out.
+- [00:40:42,020 - 00:40:44,020] It's made
+- [00:40:44,020 - 00:40:46,020] out of massless stuff. The photons
+- [00:40:46,020 - 00:40:48,020] are massless, they have no mass.
+- [00:40:48,020 - 00:40:50,020] The box we're imagining is
+- [00:40:50,020 - 00:40:52,020] made out of stuff which is exceedingly light,
+- [00:40:52,020 - 00:40:54,020] doesn't have much mass.
+- [00:40:54,020 - 00:40:56,020] But there's plenty
+- [00:40:56,020 - 00:40:58,020] of energy in there. Lots
+- [00:40:58,020 - 00:41:00,020] and lots of energy.
+- [00:41:00,020 - 00:41:02,020] Well, E equals mc squared.
+- [00:41:02,020 - 00:41:04,020] And so
+- [00:41:04,020 - 00:41:06,020] this box will behave
+- [00:41:06,020 - 00:41:08,020] exactly as if it had a mass.
+- [00:41:08,020 - 00:41:10,020] We didn't need anything
+- [00:41:10,020 - 00:41:12,020] to give mass, just energy.
+- [00:41:12,020 - 00:41:14,020] That's all it took.
+- [00:41:14,020 - 00:41:16,020] Are there any particles which are like this,
+- [00:41:16,020 - 00:41:18,020] which get mass, having nothing to do with
+- [00:41:18,020 - 00:41:20,020] Higgs or anything else? Yes.
+- [00:41:20,020 - 00:41:22,020] The proton.
+- [00:41:22,020 - 00:41:24,020] The proton is a particle
+- [00:41:24,020 - 00:41:26,020] which is made out of quarks.
+- [00:41:26,020 - 00:41:28,020] Quarks,
+- [00:41:28,020 - 00:41:30,020] three quarks, and a bunch of gluons.
+- [00:41:30,020 - 00:41:32,020] G's.
+- [00:41:32,020 - 00:41:34,020] A bunch of gluons.
+- [00:41:34,020 - 00:41:36,020] A large number of gluons.
+- [00:41:36,020 - 00:41:38,020] Quarks and gluons
+- [00:41:38,020 - 00:41:40,020] in the standard model are massless.
+- [00:41:40,020 - 00:41:42,020] Does that
+- [00:41:42,020 - 00:41:44,020] mean that the proton would be
+- [00:41:44,020 - 00:41:46,020] massless if the quarks and gluons were massless?
+- [00:41:46,020 - 00:41:48,020] Not at all.
+- [00:41:48,020 - 00:41:50,020] If the
+- [00:41:50,020 - 00:41:52,020] quarks and gluons were massless,
+- [00:41:52,020 - 00:41:54,020] the effect on the
+- [00:41:54,020 - 00:41:56,020] proton would be about a
+- [00:41:56,020 - 00:41:58,020] 1% or even less
+- [00:41:58,020 - 00:42:00,020] change in its mass.
+- [00:42:00,020 - 00:42:02,020] Not much at all. Where does its mass
+- [00:42:02,020 - 00:42:04,020] come from? It comes
+- [00:42:04,020 - 00:42:06,020] from a kinetic energy
+- [00:42:06,020 - 00:42:08,020] of these massless particles
+- [00:42:08,020 - 00:42:10,020] rattling around in a box.
+- [00:42:10,020 - 00:42:12,020] The box
+- [00:42:12,020 - 00:42:14,020] being created by the proton.
+- [00:42:14,020 - 00:42:16,020] So mass doesn't
+- [00:42:16,020 - 00:42:18,020] have to come from black holes
+- [00:42:18,020 - 00:42:20,020] or another example. Black holes
+- [00:42:20,020 - 00:42:22,020] have mass. It doesn't come from the Higgs phenomenon.
+- [00:42:22,020 - 00:42:24,020] It doesn't have anything to do with Higgs.
+- [00:42:24,020 - 00:42:26,020] So what
+- [00:42:26,020 - 00:42:28,020] is it about the
+- [00:42:28,020 - 00:42:30,020] particles of the
+- [00:42:30,020 - 00:42:32,020] standard model which require
+- [00:42:32,020 - 00:42:34,020] us to introduce a new ingredient?
+- [00:42:34,020 - 00:42:36,020] So I'm going to concentrate on the electron.
+- [00:42:36,020 - 00:42:38,020] Let's concentrate on the electron.
+- [00:42:38,020 - 00:42:40,020] We don't need all
+- [00:42:40,020 - 00:42:42,020] of this.
+- [00:42:42,020 - 00:42:44,020] I need to
+- [00:42:44,020 - 00:42:46,020] tell you about
+- [00:42:46,020 - 00:42:48,020] the Dirac theory of electrons.
+- [00:42:52,020 - 00:42:54,020] But really we don't have to know very much
+- [00:42:54,020 - 00:42:56,020] about the Dirac theory. All we have to know
+- [00:42:56,020 - 00:42:58,020] is that electrons have spin.
+- [00:42:58,020 - 00:43:00,020] And furthermore, if an electron was
+- [00:43:00,020 - 00:43:02,020] moving very fast down
+- [00:43:02,020 - 00:43:04,020] the axis here,
+- [00:43:04,020 - 00:43:06,020] let's say with close to the speed of
+- [00:43:06,020 - 00:43:08,020] light, we really accelerate that electron,
+- [00:43:08,020 - 00:43:10,020] then there's two possibilities.
+- [00:43:10,020 - 00:43:12,020] The spin of the electron
+- [00:43:12,020 - 00:43:14,020] can be right handed
+- [00:43:14,020 - 00:43:16,020] like that. Think of my thumb as the direction
+- [00:43:16,020 - 00:43:18,020] of motion of the electron.
+- [00:43:18,020 - 00:43:20,020] It can be going that way, like my right
+- [00:43:20,020 - 00:43:22,020] hand, or it can be going that way
+- [00:43:22,020 - 00:43:24,020] like my left hand.
+- [00:43:24,020 - 00:43:26,020] Ooh, I didn't realize I could do that.
+- [00:43:26,020 - 00:43:28,020] Now,
+- [00:43:28,020 - 00:43:30,020] two kinds of electrons.
+- [00:43:30,020 - 00:43:32,020] Right handed and left handed.
+- [00:43:32,020 - 00:43:34,020] Now,
+- [00:43:34,020 - 00:43:36,020] do right handed
+- [00:43:36,020 - 00:43:38,020] electrons always stay
+- [00:43:38,020 - 00:43:40,020] right handed? Can they flip
+- [00:43:40,020 - 00:43:42,020] and become left handed?
+- [00:43:42,020 - 00:43:44,020] Can the right handed become a left handed?
+- [00:43:44,020 - 00:43:46,020] Can the left handed become a right handed?
+- [00:43:46,020 - 00:43:48,020] Yeah, that's exactly what the Dirac
+- [00:43:48,020 - 00:43:50,020] theory says.
+- [00:43:50,020 - 00:43:52,020] But if it was moving with the speed of light,
+- [00:43:52,020 - 00:43:54,020] it couldn't. Why not?
+- [00:43:54,020 - 00:43:56,020] Because if a thing is moving
+- [00:43:56,020 - 00:43:58,020] with the speed of light, time
+- [00:43:58,020 - 00:44:00,020] is infinitely slowed down
+- [00:44:00,020 - 00:44:02,020] and nothing can happen to the object.
+- [00:44:02,020 - 00:44:04,020] It just moves along,
+- [00:44:04,020 - 00:44:06,020] but nothing can happen internally to the object.
+- [00:44:06,020 - 00:44:08,020] So if its mass was zero,
+- [00:44:08,020 - 00:44:10,020] it couldn't flip.
+- [00:44:10,020 - 00:44:12,020] But in the Dirac theory,
+- [00:44:12,020 - 00:44:14,020] this flipping back and forth between
+- [00:44:14,020 - 00:44:16,020] the two,
+- [00:44:16,020 - 00:44:17,020] I tend to do it
+- [00:44:17,020 - 00:44:18,020] this way, but that's not right.
+- [00:44:18,020 - 00:44:20,020] This way, this way, this way, this way.
+- [00:44:20,020 - 00:44:22,020] That is intimately associated with the mass of a particle.
+- [00:44:22,020 - 00:44:24,020] And in fact,
+- [00:44:24,020 - 00:44:26,020] the mass of a Dirac
+- [00:44:26,020 - 00:44:28,020] particle is simply
+- [00:44:28,020 - 00:44:30,020] proportional to the rate at which
+- [00:44:30,020 - 00:44:32,020] it flips from left to right.
+- [00:44:32,020 - 00:44:34,020] That's the Dirac theory
+- [00:44:34,020 - 00:44:36,020] in a nutshell.
+- [00:44:36,020 - 00:44:38,020] Mass is the rate for the electron
+- [00:44:38,020 - 00:44:40,020] to flip back and forth
+- [00:44:40,020 - 00:44:42,020] from left to right.
+- [00:44:42,020 - 00:44:44,020] Of course, the faster it's going,
+- [00:44:44,020 - 00:44:46,020] the slower it will flip,
+- [00:44:46,020 - 00:44:48,020] but that's alright. You take that into account.
+- [00:44:48,020 - 00:44:50,020] So mass is left to right
+- [00:44:50,020 - 00:44:52,020] to left to right.
+- [00:44:52,020 - 00:44:54,020] And we could draw the motion of an electron
+- [00:44:54,020 - 00:44:56,020] in the following way.
+- [00:44:56,020 - 00:44:58,020] Here's the electron
+- [00:44:58,020 - 00:45:00,020] moving down the axis.
+- [00:45:00,020 - 00:45:02,020] At first,
+- [00:45:02,020 - 00:45:04,020] it's right-handed,
+- [00:45:04,020 - 00:45:06,020] so it's going this way,
+- [00:45:06,020 - 00:45:08,020] and then it's left-handed, it's going this way.
+- [00:45:08,020 - 00:45:10,020] And then it's right-handed. Can you tell the difference?
+- [00:45:10,020 - 00:45:12,020] Maybe not, but that's okay.
+- [00:45:12,020 - 00:45:14,020] And in between,
+- [00:45:14,020 - 00:45:16,020] it jumps from one to the other.
+- [00:45:18,020 - 00:45:20,020] The probability
+- [00:45:20,020 - 00:45:22,020] or the rate at which it jumps
+- [00:45:22,020 - 00:45:24,020] is a measure of the mass
+- [00:45:24,020 - 00:45:26,020] of the electron.
+- [00:45:26,020 - 00:45:28,020] So it jumps back and forth and back and forth.
+- [00:45:28,020 - 00:45:30,020] Now I'm going to ask you to believe
+- [00:45:30,020 - 00:45:32,020] something really crazy.
+- [00:45:32,020 - 00:45:34,020] Do you remember the Z boson?
+- [00:45:34,020 - 00:45:36,020] Where's the Z boson?
+- [00:45:36,020 - 00:45:38,020] The Z boson was associated,
+- [00:45:38,020 - 00:45:40,020] was emitted,
+- [00:45:40,020 - 00:45:42,020] it could be emitted
+- [00:45:42,020 - 00:45:44,020] from electrons, it could be emitted
+- [00:45:44,020 - 00:45:46,020] from neutrinos,
+- [00:45:46,020 - 00:45:48,020] but let's concentrate on electrons.
+- [00:45:48,020 - 00:45:50,020] It is not the same as the photon.
+- [00:45:50,020 - 00:45:52,020] And the thing which emits it
+- [00:45:52,020 - 00:45:54,020] is not the same
+- [00:45:54,020 - 00:45:56,020] as the electric charge.
+- [00:45:56,020 - 00:45:58,020] It is another kind of charge,
+- [00:45:58,020 - 00:46:00,020] a completely separate kind of charge.
+- [00:46:00,020 - 00:46:02,020] It's like charge,
+- [00:46:02,020 - 00:46:04,020] but it emits Z bosons.
+- [00:46:04,020 - 00:46:06,020] We need a name for it.
+- [00:46:06,020 - 00:46:08,020] We don't have a name for it.
+- [00:46:08,020 - 00:46:09,020] Well, we do have a name
+- [00:46:09,020 - 00:46:10,020] for it. It's a very awkward name.
+- [00:46:10,020 - 00:46:12,020] It's called the weak hypercharge.
+- [00:46:12,020 - 00:46:14,020] I don't like that.
+- [00:46:14,020 - 00:46:16,020] Because it's the thing which emits
+- [00:46:16,020 - 00:46:18,020] Z bosons, I call it
+- [00:46:18,020 - 00:46:20,020] zilch.
+- [00:46:20,020 - 00:46:22,020] Zilch. Zilch is like
+- [00:46:22,020 - 00:46:24,020] electric charge, but it's not electric charge.
+- [00:46:24,020 - 00:46:26,020] When a particle which
+- [00:46:26,020 - 00:46:28,020] has zilch accelerates, it emits
+- [00:46:28,020 - 00:46:30,020] a Z boson.
+- [00:46:30,020 - 00:46:32,020] It may also emit a photon if it also
+- [00:46:32,020 - 00:46:34,020] happens to have electric charge.
+- [00:46:34,020 - 00:46:36,020] Now,
+- [00:46:36,020 - 00:46:38,020] electrons, both
+- [00:46:38,020 - 00:46:40,020] right-handed and left-handed,
+- [00:46:40,020 - 00:46:42,020] have the same electric charge.
+- [00:46:42,020 - 00:46:44,020] Okay?
+- [00:46:44,020 - 00:46:46,020] But,
+- [00:46:46,020 - 00:46:48,020] left-handed and right-handed electrons
+- [00:46:48,020 - 00:46:50,020] do not have the same zilch.
+- [00:46:52,020 - 00:46:54,020] In the standard model, this is part of the
+- [00:46:54,020 - 00:46:56,020] mathematics of the standard model,
+- [00:46:56,020 - 00:46:58,020] the left-handed and
+- [00:46:58,020 - 00:47:00,020] the right-handed electrons have
+- [00:47:00,020 - 00:47:02,020] different zilch. The left-handed
+- [00:47:02,020 - 00:47:04,020] electron has zilch of plus one,
+- [00:47:04,020 - 00:47:06,020] and the
+- [00:47:06,020 - 00:47:08,020] right-handed electron has zero
+- [00:47:08,020 - 00:47:10,020] zilch. I didn't make
+- [00:47:10,020 - 00:47:12,020] this up. In fact,
+- [00:47:12,020 - 00:47:14,020] my friend Steve Weinberg didn't make it up.
+- [00:47:14,020 - 00:47:16,020] If anybody made it up, he's up
+- [00:47:16,020 - 00:47:18,020] there, or down there, I don't know where.
+- [00:47:18,020 - 00:47:20,020] But, uh, and
+- [00:47:20,020 - 00:47:22,020] it is just the way it is.
+- [00:47:22,020 - 00:47:24,020] It is the way the mathematics of the standard
+- [00:47:24,020 - 00:47:26,020] model works
+- [00:47:26,020 - 00:47:28,020] that the left-handed and the
+- [00:47:28,020 - 00:47:30,020] right-handed particles have different zilch.
+- [00:47:30,020 - 00:47:32,020] And now we have a puzzle.
+- [00:47:34,020 - 00:47:36,020] When the electron moves along,
+- [00:47:36,020 - 00:47:38,020] and it flips from
+- [00:47:38,020 - 00:47:40,020] left to right, that means
+- [00:47:40,020 - 00:47:42,020] the zilch goes from plus one to
+- [00:47:42,020 - 00:47:44,020] zero. But zilch
+- [00:47:44,020 - 00:47:46,020] is like electric charge. It's conserved.
+- [00:47:46,020 - 00:47:48,020] How can
+- [00:47:48,020 - 00:47:50,020] the zilch go from zero to
+- [00:47:50,020 - 00:47:52,020] one? It can't.
+- [00:47:52,020 - 00:47:54,020] It can't. And that's the reason
+- [00:47:54,020 - 00:47:56,020] that the electron in the standard model
+- [00:47:56,020 - 00:47:58,020] doesn't have a mass.
+- [00:47:58,020 - 00:48:00,020] Because the left-handed and the right-handed
+- [00:48:00,020 - 00:48:02,020] have different value of a conserved
+- [00:48:02,020 - 00:48:04,020] quantity, and so
+- [00:48:04,020 - 00:48:06,020] left can't go to right.
+- [00:48:06,020 - 00:48:08,020] Period. No mass.
+- [00:48:08,020 - 00:48:10,020] How do we get around this?
+- [00:48:10,020 - 00:48:12,020] We get around this by
+- [00:48:12,020 - 00:48:14,020] introducing a new ingredient, and the new
+- [00:48:14,020 - 00:48:16,020] ingredient is called
+- [00:48:16,020 - 00:48:18,020] the Ziggs boson.
+- [00:48:18,020 - 00:48:20,020] It's not the Higgs boson.
+- [00:48:20,020 - 00:48:22,020] Not yet. We haven't gotten to the Higgs boson yet.
+- [00:48:22,020 - 00:48:24,020] We've gotten to the Ziggs boson.
+- [00:48:26,020 - 00:48:28,020] The Ziggs boson
+- [00:48:28,020 - 00:48:30,020] is one new ingredient.
+- [00:48:32,020 - 00:48:34,020] It is closely
+- [00:48:34,020 - 00:48:36,020] connected with this Mexican
+- [00:48:36,020 - 00:48:38,020] hat-type configuration here.
+- [00:48:38,020 - 00:48:40,020] It's a kind
+- [00:48:40,020 - 00:48:42,020] of particle
+- [00:48:42,020 - 00:48:44,020] but it forms a condensate.
+- [00:48:44,020 - 00:48:46,020] You can't
+- [00:48:46,020 - 00:48:48,020] tell how many are there. You can put one in,
+- [00:48:48,020 - 00:48:50,020] you can take one out, and so forth
+- [00:48:50,020 - 00:48:52,020] without changing the
+- [00:48:52,020 - 00:48:54,020] vacuum.
+- [00:48:54,020 - 00:48:56,020] So we have one more ingredient.
+- [00:48:56,020 - 00:48:58,020] It's a condensate
+- [00:48:58,020 - 00:49:00,020] that space is filled with.
+- [00:49:00,020 - 00:49:02,020] And the nature of the condensate
+- [00:49:02,020 - 00:49:04,020] is it doesn't have
+- [00:49:04,020 - 00:49:06,020] electric charge. It has zilch.
+- [00:49:06,020 - 00:49:08,020] And it's a condensate meaning
+- [00:49:08,020 - 00:49:10,020] that if you put a zilch
+- [00:49:10,020 - 00:49:12,020] in, nothing happens. If you take
+- [00:49:12,020 - 00:49:14,020] one out, nothing happens.
+- [00:49:14,020 - 00:49:16,020] And let's ask
+- [00:49:16,020 - 00:49:18,020] now what that means.
+- [00:49:18,020 - 00:49:20,020] The left-handed
+- [00:49:20,020 - 00:49:22,020] electron coming in
+- [00:49:22,020 - 00:49:24,020] has a zilch
+- [00:49:24,020 - 00:49:26,020] of one. Let's call it
+- [00:49:26,020 - 00:49:28,020] a Z of one.
+- [00:49:28,020 - 00:49:30,020] The right-handed
+- [00:49:30,020 - 00:49:32,020] has Z equals zero.
+- [00:49:32,020 - 00:49:34,020] Back to the
+- [00:49:34,020 - 00:49:36,020] left-handed, Z equals one.
+- [00:49:36,020 - 00:49:38,020] Is that possible?
+- [00:49:38,020 - 00:49:40,020] Only
+- [00:49:40,020 - 00:49:42,020] if you emit something at this point
+- [00:49:42,020 - 00:49:44,020] which carries off that Z equals one.
+- [00:49:44,020 - 00:49:46,020] A Ziggs.
+- [00:49:46,020 - 00:49:48,020] A Ziggs boson
+- [00:49:48,020 - 00:49:50,020] gets emitted.
+- [00:49:50,020 - 00:49:52,020] It carries
+- [00:49:52,020 - 00:49:54,020] a Z equals one.
+- [00:49:54,020 - 00:49:56,020] But what happens
+- [00:49:56,020 - 00:49:58,020] to it?
+- [00:49:58,020 - 00:50:00,020] Where does it go?
+- [00:50:00,020 - 00:50:02,020] It goes into the condensate.
+- [00:50:02,020 - 00:50:04,020] It gets lost
+- [00:50:04,020 - 00:50:06,020] in the condensate.
+- [00:50:06,020 - 00:50:08,020] You put one in,
+- [00:50:08,020 - 00:50:10,020] and it just gets absorbed
+- [00:50:10,020 - 00:50:12,020] into the condensate.
+- [00:50:12,020 - 00:50:14,020] And so the electron goes
+- [00:50:14,020 - 00:50:16,020] on its merry way.
+- [00:50:16,020 - 00:50:18,020] The condensate absorbs
+- [00:50:18,020 - 00:50:20,020] the zilch, and it goes from one to zero.
+- [00:50:20,020 - 00:50:22,020] But then it can borrow
+- [00:50:22,020 - 00:50:24,020] a particle back from the condensate.
+- [00:50:24,020 - 00:50:26,020] Borrow one back, it doesn't even have
+- [00:50:26,020 - 00:50:28,020] to borrow it.
+- [00:50:28,020 - 00:50:30,020] If you pull one out, nothing changes.
+- [00:50:30,020 - 00:50:32,020] Again.
+- [00:50:32,020 - 00:50:34,020] And so it goes on its merry way
+- [00:50:34,020 - 00:50:36,020] from left-handed to right-handed,
+- [00:50:36,020 - 00:50:38,020] from left-handed to right-handed,
+- [00:50:38,020 - 00:50:40,020] every time it switches,
+- [00:50:40,020 - 00:50:42,020] it emits a particle carrying
+- [00:50:42,020 - 00:50:44,020] this zilch quantum number,
+- [00:50:44,020 - 00:50:46,020] which then just gets absorbed
+- [00:50:46,020 - 00:50:48,020] into the condensate.
+- [00:50:48,020 - 00:50:50,020] That's the mechanism
+- [00:50:50,020 - 00:50:52,020] by which
+- [00:50:52,020 - 00:50:54,020] a field,
+- [00:50:54,020 - 00:50:56,020] and in this case,
+- [00:50:56,020 - 00:50:58,020] it's a field which forms a condensate
+- [00:50:58,020 - 00:51:00,020] by itself, it doesn't require capacitor
+- [00:51:00,020 - 00:51:02,020] plates, it just requires
+- [00:51:02,020 - 00:51:04,020] the energy to be such
+- [00:51:04,020 - 00:51:06,020] that the field naturally
+- [00:51:06,020 - 00:51:08,020] gets shifted.
+- [00:51:08,020 - 00:51:10,020] And that's the mechanism by which
+- [00:51:10,020 - 00:51:12,020] electrons, quarks,
+- [00:51:12,020 - 00:51:14,020] and the various partners
+- [00:51:14,020 - 00:51:16,020] of those particles, the mu particle,
+- [00:51:16,020 - 00:51:18,020] the tau lepton,
+- [00:51:18,020 - 00:51:20,020] all those ordinary
+- [00:51:20,020 - 00:51:22,020] and extraordinary particles,
+- [00:51:22,020 - 00:51:24,020] the fermions,
+- [00:51:24,020 - 00:51:26,020] get their mass by this
+- [00:51:26,020 - 00:51:28,020] phenomenon here.
+- [00:51:28,020 - 00:51:30,020] The phenomenon doesn't really
+- [00:51:30,020 - 00:51:32,020] have a name.
+- [00:51:32,020 - 00:51:34,020] It's called the spontaneous breaking
+- [00:51:34,020 - 00:51:36,020] of chiral symmetry,
+- [00:51:36,020 - 00:51:38,020] but it does have a name.
+- [00:51:38,020 - 00:51:40,020] But this is what it is.
+- [00:51:40,020 - 00:51:42,020] What about the z boson?
+- [00:51:42,020 - 00:51:44,020] I told you before, the z boson is like a
+- [00:51:44,020 - 00:51:46,020] photon. Photons
+- [00:51:46,020 - 00:51:48,020] are massless. How does
+- [00:51:48,020 - 00:51:50,020] a z boson get a mass?
+- [00:51:50,020 - 00:51:52,020] So I'll just show you something very similar
+- [00:51:52,020 - 00:51:54,020] happens to the z boson.
+- [00:51:54,020 - 00:51:56,020] Let's remind ourselves what a z boson can
+- [00:51:56,020 - 00:51:58,020] do. It can take any
+- [00:51:58,020 - 00:52:00,020] particle which has a zilch, and in
+- [00:52:00,020 - 00:52:02,020] particular, this green ziggs
+- [00:52:02,020 - 00:52:04,020] particle. It can take
+- [00:52:04,020 - 00:52:06,020] the ziggs particle
+- [00:52:08,020 - 00:52:10,020] and the ziggs
+- [00:52:10,020 - 00:52:12,020] particle can emit
+- [00:52:12,020 - 00:52:14,020] a z boson.
+- [00:52:14,020 - 00:52:16,020] It has charge,
+- [00:52:16,020 - 00:52:18,020] not real charge, but
+- [00:52:18,020 - 00:52:20,020] zilch, and zilch emits
+- [00:52:20,020 - 00:52:22,020] z bosons.
+- [00:52:22,020 - 00:52:24,020] Alright, so now let's ask what that means.
+- [00:52:24,020 - 00:52:26,020] That means that a
+- [00:52:26,020 - 00:52:28,020] z boson moving along
+- [00:52:28,020 - 00:52:30,020] can do something
+- [00:52:30,020 - 00:52:32,020] a little bit similar to this.
+- [00:52:32,020 - 00:52:34,020] It can
+- [00:52:34,020 - 00:52:36,020] absorb
+- [00:52:40,020 - 00:52:42,020] some zilch out of
+- [00:52:42,020 - 00:52:44,020] the condensate,
+- [00:52:44,020 - 00:52:46,020] but now
+- [00:52:46,020 - 00:52:48,020] it has zilch.
+- [00:52:48,020 - 00:52:50,020] Originally it was just a z boson.
+- [00:52:50,020 - 00:52:52,020] Z bosons don't have zilch.
+- [00:52:52,020 - 00:52:54,020] It absorbs some zilch
+- [00:52:54,020 - 00:52:56,020] and it becomes a ziggs.
+- [00:52:56,020 - 00:52:58,020] The z boson becomes
+- [00:52:58,020 - 00:53:00,020] a ziggs, but then it can emit
+- [00:53:00,020 - 00:53:02,020] the ziggs, which
+- [00:53:02,020 - 00:53:04,020] gets lost in the condensate again.
+- [00:53:06,020 - 00:53:08,020] And the z boson just moves on its merry
+- [00:53:08,020 - 00:53:10,020] way, constantly going
+- [00:53:10,020 - 00:53:12,020] back and forth from being
+- [00:53:12,020 - 00:53:14,020] a
+- [00:53:14,020 - 00:53:16,020] z boson to being
+- [00:53:16,020 - 00:53:18,020] one of these imaginary
+- [00:53:18,020 - 00:53:20,020] not imaginary
+- [00:53:20,020 - 00:53:22,020] ziggs particles.
+- [00:53:22,020 - 00:53:24,020] That's the nature
+- [00:53:24,020 - 00:53:26,020] of the way
+- [00:53:26,020 - 00:53:28,020] that particles get mass
+- [00:53:28,020 - 00:53:30,020] from fields.
+- [00:53:30,020 - 00:53:32,020] This phenomenon of the
+- [00:53:32,020 - 00:53:34,020] z boson getting a mass is called
+- [00:53:34,020 - 00:53:36,020] the Braut-Anglaire-Higgs
+- [00:53:36,020 - 00:53:38,020] phenomenon.
+- [00:53:38,020 - 00:53:40,020] This is the one that's called the
+- [00:53:40,020 - 00:53:42,020] Higgs phenomenon. The
+- [00:53:42,020 - 00:53:44,020] z boson getting a mass.
+- [00:53:44,020 - 00:53:46,020] Now this could have happened to the
+- [00:53:46,020 - 00:53:48,020] photon. Had there been
+- [00:53:48,020 - 00:53:50,020] a condensate of ordinary
+- [00:53:50,020 - 00:53:52,020] charged particles, the
+- [00:53:52,020 - 00:53:54,020] photon would have become massive.
+- [00:53:54,020 - 00:53:56,020] We would all be dead if that were
+- [00:53:56,020 - 00:53:58,020] the case. Massive photons
+- [00:53:58,020 - 00:54:00,020] would not be healthy for us.
+- [00:54:00,020 - 00:54:02,020] And so we are very lucky that
+- [00:54:02,020 - 00:54:04,020] this
+- [00:54:04,020 - 00:54:06,020] phenomenon here did not apply
+- [00:54:06,020 - 00:54:08,020] to ordinary electric charge.
+- [00:54:12,020 - 00:54:14,020] Will we ever discover
+- [00:54:14,020 - 00:54:16,020] the ziggs particle?
+- [00:54:16,020 - 00:54:18,020] Sure. We discovered it long ago.
+- [00:54:18,020 - 00:54:20,020] It's just
+- [00:54:20,020 - 00:54:22,020] part of
+- [00:54:22,020 - 00:54:24,020] the z boson.
+- [00:54:24,020 - 00:54:26,020] The z boson was discovered,
+- [00:54:26,020 - 00:54:28,020] I mean, it was postulated
+- [00:54:28,020 - 00:54:30,020] in 1967, or even
+- [00:54:30,020 - 00:54:32,020] before that by many people.
+- [00:54:32,020 - 00:54:34,020] But it was discovered, I don't even remember
+- [00:54:34,020 - 00:54:36,020] around 1980, I forgot when the
+- [00:54:36,020 - 00:54:38,020] experiment
+- [00:54:38,020 - 00:54:40,020] at Slack first discovered
+- [00:54:40,020 - 00:54:42,020] the existence experimentally.
+- [00:54:42,020 - 00:54:44,020] But when it was discovered
+- [00:54:44,020 - 00:54:46,020] that there was a z boson, that it had
+- [00:54:46,020 - 00:54:48,020] a mass, and that when its properties
+- [00:54:48,020 - 00:54:50,020] were studied, the properties
+- [00:54:50,020 - 00:54:52,020] were not only consistent,
+- [00:54:52,020 - 00:54:54,020] but required that it was a
+- [00:54:54,020 - 00:54:56,020] thing which went back and forth and back and forth
+- [00:54:56,020 - 00:54:58,020] and back and forth between pure
+- [00:54:58,020 - 00:55:00,020] z boson and
+- [00:55:00,020 - 00:55:02,020] the ziggs particle.
+- [00:55:02,020 - 00:55:04,020] So they've existed. We are not in doubt
+- [00:55:04,020 - 00:55:06,020] about them, and we never were, at least
+- [00:55:06,020 - 00:55:08,020] not for many years.
+- [00:55:08,020 - 00:55:10,020] So far, I have not mentioned
+- [00:55:10,020 - 00:55:12,020] the Higgs boson.
+- [00:55:12,020 - 00:55:14,020] So what is the Higgs boson?
+- [00:55:14,020 - 00:55:16,020] Well,
+- [00:55:16,020 - 00:55:18,020] the Higgs boson has to do with
+- [00:55:18,020 - 00:55:20,020] this condensate.
+- [00:55:20,020 - 00:55:22,020] It has to do with this condensate,
+- [00:55:24,020 - 00:55:26,020] but it's a different kind of
+- [00:55:26,020 - 00:55:28,020] excitation than sliding
+- [00:55:28,020 - 00:55:30,020] around the
+- [00:55:30,020 - 00:55:32,020] edge of the sombrero here.
+- [00:55:32,020 - 00:55:34,020] It does not have to move,
+- [00:55:34,020 - 00:55:36,020] it's not something which has to do
+- [00:55:36,020 - 00:55:38,020] with sliding around here,
+- [00:55:38,020 - 00:55:40,020] it has to do, I'll tell you
+- [00:55:40,020 - 00:55:42,020] two different ways to think about it.
+- [00:55:42,020 - 00:55:44,020] You have a condensate,
+- [00:55:44,020 - 00:55:46,020] and you can imagine the condensate has a density.
+- [00:55:46,020 - 00:55:48,020] A density of
+- [00:55:48,020 - 00:55:50,020] these
+- [00:55:50,020 - 00:55:52,020] fictitious particles in the condensate.
+- [00:55:52,020 - 00:55:54,020] Imagine
+- [00:55:54,020 - 00:55:56,020] something which changes the density
+- [00:55:56,020 - 00:55:58,020] of them, kind of like a sound
+- [00:55:58,020 - 00:56:00,020] wave, a compression wave
+- [00:56:00,020 - 00:56:02,020] of some kind, which squeezes
+- [00:56:02,020 - 00:56:04,020] them closer and further and closer apart,
+- [00:56:04,020 - 00:56:06,020] makes them more and less dense.
+- [00:56:06,020 - 00:56:08,020] That kind of
+- [00:56:08,020 - 00:56:10,020] vibration is what a Higgs boson is.
+- [00:56:10,020 - 00:56:12,020] Another way to think about it
+- [00:56:12,020 - 00:56:14,020] is that it doesn't have to do with
+- [00:56:14,020 - 00:56:16,020] sliding around the
+- [00:56:16,020 - 00:56:18,020] periphery of the sombrero,
+- [00:56:18,020 - 00:56:20,020] it's, you go to a place in space
+- [00:56:20,020 - 00:56:22,020] and start the field
+- [00:56:22,020 - 00:56:24,020] oscillating this way.
+- [00:56:24,020 - 00:56:26,020] In and out.
+- [00:56:28,020 - 00:56:30,020] This way.
+- [00:56:30,020 - 00:56:32,020] The further away it is,
+- [00:56:32,020 - 00:56:34,020] the stronger the condensate.
+- [00:56:34,020 - 00:56:36,020] The closer to the center,
+- [00:56:36,020 - 00:56:38,020] the weaker the condensate.
+- [00:56:38,020 - 00:56:40,020] So when it sloshes back,
+- [00:56:40,020 - 00:56:42,020] it's going to be more dense.
+- [00:56:42,020 - 00:56:44,020] And when it goes back and forth,
+- [00:56:44,020 - 00:56:46,020] it's kind of a compressional wave
+- [00:56:46,020 - 00:56:48,020] in the condensate.
+- [00:56:48,020 - 00:56:50,020] That mode,
+- [00:56:50,020 - 00:56:52,020] that phenomena,
+- [00:56:52,020 - 00:56:54,020] that oscillation,
+- [00:56:54,020 - 00:56:56,020] is what is called a Higgs boson.
+- [00:56:56,020 - 00:56:58,020] The Higgs boson is like the sound
+- [00:56:58,020 - 00:57:00,020] wave propagating through the
+- [00:57:00,020 - 00:57:02,020] condensate.
+- [00:57:02,020 - 00:57:04,020] The reason
+- [00:57:04,020 - 00:57:06,020] it has been so important
+- [00:57:06,020 - 00:57:08,020] is because it was the one element
+- [00:57:08,020 - 00:57:10,020] that had not yet been discovered.
+- [00:57:10,020 - 00:57:12,020] As I said
+- [00:57:12,020 - 00:57:14,020] the Ziggs was discovered long ago.
+- [00:57:14,020 - 00:57:16,020] The Z and the W, the electrons
+- [00:57:16,020 - 00:57:18,020] and all the others were discovered long ago.
+- [00:57:18,020 - 00:57:20,020] And so the next question
+- [00:57:20,020 - 00:57:22,020] which I'll try to answer in a couple of
+- [00:57:22,020 - 00:57:24,020] five minutes
+- [00:57:24,020 - 00:57:26,020] is why it was so hard
+- [00:57:26,020 - 00:57:28,020] to discover the Higgs,
+- [00:57:28,020 - 00:57:30,020] what we discovered about it,
+- [00:57:30,020 - 00:57:32,020] and
+- [00:57:32,020 - 00:57:34,020] very, very quickly
+- [00:57:34,020 - 00:57:36,020] what the future might or might not bring.
+- [00:57:36,020 - 00:57:38,020] I'll try to do this
+- [00:57:38,020 - 00:57:40,020] in a couple of minutes.
+- [00:57:40,020 - 00:57:42,020] Okay.
+- [00:57:42,020 - 00:57:44,020] So,
+- [00:57:48,020 - 00:57:50,020] what kind of thing
+- [00:57:50,020 - 00:57:52,020] does the Higgs boson itself do?
+- [00:57:52,020 - 00:57:53,020] Now we're talking about the
+- [00:57:53,020 - 00:57:54,020] Higgs boson, not the Ziggs boson,
+- [00:57:54,020 - 00:57:56,020] not the Z boson,
+- [00:57:56,020 - 00:57:58,020] the Higgs itself,
+- [00:57:58,020 - 00:58:00,020] the one that's been so elusive
+- [00:58:00,020 - 00:58:02,020] all these years.
+- [00:58:02,020 - 00:58:04,020] It's called H.
+- [00:58:04,020 - 00:58:06,020] And what it can do
+- [00:58:06,020 - 00:58:08,020] with some probability
+- [00:58:08,020 - 00:58:10,020] is, for example,
+- [00:58:10,020 - 00:58:12,020] create, we read this from left to right,
+- [00:58:12,020 - 00:58:14,020] the Higgs boson
+- [00:58:14,020 - 00:58:16,020] moving along
+- [00:58:16,020 - 00:58:18,020] in time, time is now to the left,
+- [00:58:18,020 - 00:58:20,020] can create
+- [00:58:20,020 - 00:58:22,020] an electron
+- [00:58:22,020 - 00:58:24,020] and a positron.
+- [00:58:24,020 - 00:58:26,020] It can create
+- [00:58:26,020 - 00:58:28,020] a pair of quarks.
+- [00:58:28,020 - 00:58:30,020] It can also
+- [00:58:30,020 - 00:58:32,020] create other things,
+- [00:58:32,020 - 00:58:34,020] a mu particle,
+- [00:58:34,020 - 00:58:36,020] or a top quark, or a bottom quark,
+- [00:58:36,020 - 00:58:38,020] all of the different quarks,
+- [00:58:38,020 - 00:58:40,020] electrons,
+- [00:58:40,020 - 00:58:42,020] also neutrinos, all the various
+- [00:58:42,020 - 00:58:44,020] quark-bosomions can be created in pairs
+- [00:58:44,020 - 00:58:46,020] when a Higgs boson
+- [00:58:46,020 - 00:58:48,020] decays.
+- [00:58:48,020 - 00:58:49,020] You say, if it's like a
+- [00:58:49,020 - 00:58:50,020] sound wave, why does it decay?
+- [00:58:50,020 - 00:58:52,020] Well, believe me, sound waves decay.
+- [00:58:52,020 - 00:58:54,020] If they didn't decay, you'd
+- [00:58:54,020 - 00:58:56,020] continue to hear my voice ring forever and ever,
+- [00:58:56,020 - 00:58:58,020] wouldn't you?
+- [00:58:58,020 - 00:59:00,020] So sound waves do decay,
+- [00:59:00,020 - 00:59:02,020] and it is possible to think of sound
+- [00:59:02,020 - 00:59:04,020] waves as decaying by creating
+- [00:59:04,020 - 00:59:06,020] particles. So the Higgs boson
+- [00:59:06,020 - 00:59:08,020] decays.
+- [00:59:08,020 - 00:59:10,020] It decays quickly if it exists,
+- [00:59:10,020 - 00:59:12,020] if it really exists. It decays quickly
+- [00:59:12,020 - 00:59:14,020] either into an electron positron
+- [00:59:14,020 - 00:59:16,020] or a pair of quarks,
+- [00:59:16,020 - 00:59:18,020] or maybe some other of the fermions
+- [00:59:18,020 - 00:59:20,020] that exist in nature.
+- [00:59:20,020 - 00:59:22,020] You can read this diagram in two
+- [00:59:22,020 - 00:59:24,020] different ways. Oh, incidentally,
+- [00:59:24,020 - 00:59:26,020] the probability
+- [00:59:26,020 - 00:59:28,020] that the Higgs decays
+- [00:59:28,020 - 00:59:30,020] like this is proportional
+- [00:59:30,020 - 00:59:32,020] to the mass of the particle
+- [00:59:32,020 - 00:59:34,020] that it decays into.
+- [00:59:34,020 - 00:59:36,020] The heavier the mass,
+- [00:59:36,020 - 00:59:38,020] the more strongly
+- [00:59:38,020 - 00:59:40,020] that particle is coupled
+- [00:59:40,020 - 00:59:42,020] to the Higgs boson.
+- [00:59:42,020 - 00:59:44,020] Heavy particles are favored,
+- [00:59:44,020 - 00:59:46,020] and light particles
+- [00:59:46,020 - 00:59:48,020] are not favored. Now, you can
+- [00:59:48,020 - 00:59:50,020] read this diagram in either direction.
+- [00:59:50,020 - 00:59:52,020] You can say the Higgs boson
+- [00:59:52,020 - 00:59:54,020] decays, but you can also say
+- [00:59:54,020 - 00:59:56,020] an electron and a positron
+- [00:59:56,020 - 00:59:58,020] can fuse together to make
+- [00:59:58,020 - 01:00:00,020] a Higgs boson.
+- [01:00:00,020 - 01:00:02,020] Well, if we want to make Higgs bosons
+- [01:00:02,020 - 01:00:04,020] and see them in the laboratory, we want to read
+- [01:00:04,020 - 01:00:06,020] the diagram from right to left,
+- [01:00:06,020 - 01:00:08,020] and we want to say this is a process
+- [01:00:08,020 - 01:00:10,020] whereby a pair of electrons
+- [01:00:10,020 - 01:00:12,020] can come together and make a Higgs boson.
+- [01:00:12,020 - 01:00:14,020] We've been colliding electrons
+- [01:00:14,020 - 01:00:16,020] and positrons for a long, long time.
+- [01:00:16,020 - 01:00:18,020] Almost as long as I've been a physicist.
+- [01:00:18,020 - 01:00:20,020] Not quite.
+- [01:00:20,020 - 01:00:22,020] We've been colliding electrons
+- [01:00:22,020 - 01:00:24,020] and positrons together,
+- [01:00:24,020 - 01:00:26,020] and nobody was ever able
+- [01:00:26,020 - 01:00:28,020] to discover the Higgs.
+- [01:00:28,020 - 01:00:30,020] Now, one reason in the early days
+- [01:00:30,020 - 01:00:32,020] is it turns out that the Higgs
+- [01:00:32,020 - 01:00:34,020] is a fairly heavy particle.
+- [01:00:34,020 - 01:00:36,020] I will tell you what its mass is,
+- [01:00:36,020 - 01:00:38,020] but it's a fairly heavy particle,
+- [01:00:38,020 - 01:00:40,020] and unless you have enough energy,
+- [01:00:40,020 - 01:00:42,020] you don't have enough energy to make the Higgs boson.
+- [01:00:42,020 - 01:00:44,020] That's an important reason.
+- [01:00:44,020 - 01:00:46,020] In fact, in the later days of
+- [01:00:46,020 - 01:00:48,020] Slack's life, had plenty of energy
+- [01:00:48,020 - 01:00:50,020] to make the Higgs.
+- [01:00:50,020 - 01:00:52,020] The problem was
+- [01:00:52,020 - 01:00:54,020] the weakness of the coupling.
+- [01:00:54,020 - 01:00:56,020] The smallness of the mass
+- [01:00:56,020 - 01:00:58,020] of the electron translated
+- [01:00:58,020 - 01:01:00,020] into a very weak,
+- [01:01:00,020 - 01:01:02,020] improbable
+- [01:01:02,020 - 01:01:04,020] cross-section.
+- [01:01:04,020 - 01:01:06,020] Too small
+- [01:01:06,020 - 01:01:08,020] in effect, too unlikely
+- [01:01:08,020 - 01:01:10,020] to make the Higgs,
+- [01:01:10,020 - 01:01:12,020] and so when you collide electrons together
+- [01:01:12,020 - 01:01:14,020] in energy, electrons are just not favorable.
+- [01:01:14,020 - 01:01:16,020] They're too light,
+- [01:01:16,020 - 01:01:18,020] and because they're light,
+- [01:01:18,020 - 01:01:20,020] they tend to not make Higgs
+- [01:01:20,020 - 01:01:22,020] with any appreciable probability.
+- [01:01:22,020 - 01:01:24,020] Well, how about quarks?
+- [01:01:24,020 - 01:01:26,020] We can collide quarks together.
+- [01:01:26,020 - 01:01:28,020] The usual quarks
+- [01:01:28,020 - 01:01:30,020] that make up the proton
+- [01:01:30,020 - 01:01:32,020] and neutron are also very light.
+- [01:01:32,020 - 01:01:34,020] And because they are light,
+- [01:01:34,020 - 01:01:36,020] also unlikely
+- [01:01:36,020 - 01:01:38,020] to ever make a Higgs boson.
+- [01:01:38,020 - 01:01:40,020] Well, I'm sure they were made in Slack,
+- [01:01:40,020 - 01:01:42,020] but never in appreciable numbers
+- [01:01:42,020 - 01:01:44,020] that it was possible to
+- [01:01:44,020 - 01:01:46,020] detect them.
+- [01:01:46,020 - 01:01:48,020] So that was the main
+- [01:01:48,020 - 01:01:50,020] difficulty. The lightness
+- [01:01:50,020 - 01:01:52,020] of these particles was the thing
+- [01:01:52,020 - 01:01:54,020] that essentially
+- [01:01:54,020 - 01:01:56,020] prohibited us from making Higgs's
+- [01:01:56,020 - 01:01:58,020] in abundance at Slack
+- [01:01:58,020 - 01:02:00,020] or in other laboratories
+- [01:02:00,020 - 01:02:02,020] where collisions took place.
+- [01:02:02,020 - 01:02:04,020] What is the most favorable
+- [01:02:04,020 - 01:02:06,020] particle,
+- [01:02:06,020 - 01:02:08,020] most likely particle,
+- [01:02:08,020 - 01:02:10,020] for the Higgs
+- [01:02:10,020 - 01:02:12,020] to decay in?
+- [01:02:12,020 - 01:02:14,020] Well, the heaviest.
+- [01:02:14,020 - 01:02:16,020] The heaviest of the fermions,
+- [01:02:16,020 - 01:02:18,020] and the heaviest of the fermions
+- [01:02:18,020 - 01:02:20,020] is called the top quark.
+- [01:02:20,020 - 01:02:22,020] The top quark is
+- [01:02:22,020 - 01:02:24,020] hundreds and hundreds, thousands of times
+- [01:02:24,020 - 01:02:26,020] heavier than the electron.
+- [01:02:26,020 - 01:02:28,020] Many thousands, many many times heavier,
+- [01:02:28,020 - 01:02:30,020] many thousands of times heavier than the electron.
+- [01:02:30,020 - 01:02:32,020] And the Higgs
+- [01:02:32,020 - 01:02:34,020] preferentially
+- [01:02:34,020 - 01:02:36,020] will decay into top quarks.
+- [01:02:38,020 - 01:02:40,020] So we'll just call those the quarks.
+- [01:02:40,020 - 01:02:42,020] They are quarks,
+- [01:02:42,020 - 01:02:44,020] they're very heavy.
+- [01:02:44,020 - 01:02:46,020] 170 times the mass
+- [01:02:46,020 - 01:02:48,020] of a proton, basically,
+- [01:02:48,020 - 01:02:50,020] which is heavy.
+- [01:02:50,020 - 01:02:52,020] Top and anti-top.
+- [01:02:52,020 - 01:02:54,020] Top quarks and anti-quarks.
+- [01:02:54,020 - 01:02:56,020] So you say, well look, now it's easy to make
+- [01:02:56,020 - 01:02:58,020] the Higgs boson.
+- [01:02:58,020 - 01:03:00,020] You just, oh,
+- [01:03:00,020 - 01:03:02,020] it's actually in fact not possible
+- [01:03:02,020 - 01:03:04,020] for the Higgs to decay to two top quarks
+- [01:03:04,020 - 01:03:06,020] because the two top quarks are too heavy.
+- [01:03:06,020 - 01:03:08,020] But, if you read it
+- [01:03:08,020 - 01:03:09,020] the other way, and you
+- [01:03:09,020 - 01:03:10,020] take a pair of top quarks
+- [01:03:10,020 - 01:03:12,020] and collide them together,
+- [01:03:12,020 - 01:03:14,020] you can make a Higgs.
+- [01:03:14,020 - 01:03:16,020] So it's easy. We just go in the laboratory,
+- [01:03:16,020 - 01:03:18,020] take a pair of top quarks, collide them together,
+- [01:03:18,020 - 01:03:20,020] and make a Higgs.
+- [01:03:20,020 - 01:03:22,020] Well, the problem is
+- [01:03:22,020 - 01:03:24,020] that it's not so easy to find
+- [01:03:24,020 - 01:03:26,020] top quarks in nature. Why not?
+- [01:03:26,020 - 01:03:28,020] They decay very rapidly
+- [01:03:28,020 - 01:03:30,020] to the other quarks.
+- [01:03:30,020 - 01:03:32,020] They're not sitting around. You can't put them
+- [01:03:32,020 - 01:03:34,020] into the accelerator and accelerate them.
+- [01:03:34,020 - 01:03:36,020] They disappear in a tiny fraction
+- [01:03:36,020 - 01:03:38,020] of a second. There are no
+- [01:03:38,020 - 01:03:40,020] top quarks sitting around.
+- [01:03:40,020 - 01:03:42,020] Uh,
+- [01:03:42,020 - 01:03:44,020] not even
+- [01:03:44,020 - 01:03:46,020] buried inside protons and so forth.
+- [01:03:46,020 - 01:03:48,020] Not even buried inside other kinds of particles.
+- [01:03:48,020 - 01:03:50,020] There are no top quarks around.
+- [01:03:50,020 - 01:03:52,020] So we have to make
+- [01:03:52,020 - 01:03:54,020] the top quarks somehow in the
+- [01:03:54,020 - 01:03:56,020] collision. How do you make a top quark?
+- [01:03:56,020 - 01:03:58,020] Alright, so here's a way to make a top quark.
+- [01:03:58,020 - 01:04:00,020] A gluon can come
+- [01:04:00,020 - 01:04:02,020] along. This is a gluon now.
+- [01:04:02,020 - 01:04:04,020] And remember
+- [01:04:04,020 - 01:04:06,020] what gluons do.
+- [01:04:06,020 - 01:04:08,020] They couple to quarks.
+- [01:04:08,020 - 01:04:10,020] One possibility
+- [01:04:10,020 - 01:04:12,020] is that the gluon can
+- [01:04:12,020 - 01:04:14,020] make a top quark and an
+- [01:04:14,020 - 01:04:16,020] anti-top quark.
+- [01:04:16,020 - 01:04:18,020] Well, there's plenty of gluons around
+- [01:04:18,020 - 01:04:20,020] as we'll see in a moment.
+- [01:04:20,020 - 01:04:22,020] So why don't we just take a gluon
+- [01:04:22,020 - 01:04:24,020] and make a top quark and an anti-top quark
+- [01:04:24,020 - 01:04:26,020] out of it. The reason is because
+- [01:04:26,020 - 01:04:28,020] gluons are very light.
+- [01:04:28,020 - 01:04:30,020] They're almost massless.
+- [01:04:30,020 - 01:04:32,020] They don't weigh very much.
+- [01:04:32,020 - 01:04:34,020] Top quarks are very heavy. There's simply
+- [01:04:34,020 - 01:04:36,020] not enough energy in the gluon
+- [01:04:36,020 - 01:04:38,020] to create a pair of top quarks.
+- [01:04:38,020 - 01:04:40,020] So what we have to do is
+- [01:04:40,020 - 01:04:42,020] we have to take a pair of gluons
+- [01:04:42,020 - 01:04:44,020] Now here's a process that you can imagine.
+- [01:04:44,020 - 01:04:46,020] Take a pair of gluons
+- [01:04:46,020 - 01:04:48,020] with a lot of energy, moving toward each
+- [01:04:48,020 - 01:04:50,020] other with a huge speed,
+- [01:04:50,020 - 01:04:52,020] plenty of energy,
+- [01:04:52,020 - 01:04:54,020] let one of them make a pair of top quarks
+- [01:04:54,020 - 01:04:56,020] for a short
+- [01:04:56,020 - 01:04:58,020] period of time, and then let the other one
+- [01:04:58,020 - 01:05:00,020] come and be absorbed
+- [01:05:00,020 - 01:05:02,020] by one of the top quarks.
+- [01:05:02,020 - 01:05:04,020] There we have it.
+- [01:05:04,020 - 01:05:06,020] A pair of top quarks
+- [01:05:06,020 - 01:05:08,020] created by a pair of gluons.
+- [01:05:08,020 - 01:05:10,020] A pair of high energy gluons
+- [01:05:10,020 - 01:05:12,020] smashed together and make a pair of top quarks.
+- [01:05:14,020 - 01:05:16,020] Once we've created those pair of top quarks,
+- [01:05:16,020 - 01:05:18,020] the top quarks can come
+- [01:05:18,020 - 01:05:20,020] together
+- [01:05:20,020 - 01:05:22,020] and make our
+- [01:05:22,020 - 01:05:24,020] Higgs boson.
+- [01:05:24,020 - 01:05:26,020] This is the way we usually draw this
+- [01:05:26,020 - 01:05:28,020] is to just draw gluon,
+- [01:05:28,020 - 01:05:30,020] gluon, and then a triangle.
+- [01:05:30,020 - 01:05:32,020] Higgs.
+- [01:05:32,020 - 01:05:34,020] These are top quarks going around the loop here.
+- [01:05:34,020 - 01:05:36,020] That's the most
+- [01:05:36,020 - 01:05:38,020] efficient process for making
+- [01:05:38,020 - 01:05:40,020] for making
+- [01:05:40,020 - 01:05:42,020] Higgs bosons.
+- [01:05:42,020 - 01:05:44,020] But where do you get gluons from?
+- [01:05:44,020 - 01:05:46,020] Gluons aren't floating around.
+- [01:05:46,020 - 01:05:48,020] Well, yes they are.
+- [01:05:48,020 - 01:05:50,020] The proton is filled with gluons.
+- [01:05:50,020 - 01:05:52,020] The proton
+- [01:05:52,020 - 01:05:54,020] mass of the proton
+- [01:05:54,020 - 01:05:56,020] is maybe 50% energy
+- [01:05:56,020 - 01:05:58,020] from gluons or something like that.
+- [01:05:58,020 - 01:06:00,020] It's filled with gluons and quarks.
+- [01:06:02,020 - 01:06:04,020] You take two protons and you collide
+- [01:06:04,020 - 01:06:06,020] them together and the gluons
+- [01:06:06,020 - 01:06:08,020] inside the protons
+- [01:06:08,020 - 01:06:10,020] can collide during the
+- [01:06:10,020 - 01:06:12,020] collision and do this.
+- [01:06:12,020 - 01:06:14,020] That was what was
+- [01:06:14,020 - 01:06:16,020] detected at
+- [01:06:16,020 - 01:06:18,020] LHC.
+- [01:06:18,020 - 01:06:20,020] LHC is a proton-proton
+- [01:06:20,020 - 01:06:22,020] collider. It collides protons
+- [01:06:22,020 - 01:06:24,020] together and when protons, a very
+- [01:06:24,020 - 01:06:26,020] indirect way, the protons
+- [01:06:26,020 - 01:06:28,020] collide together, a gluon from each
+- [01:06:28,020 - 01:06:30,020] one of them
+- [01:06:32,020 - 01:06:34,020] scatter, collide,
+- [01:06:34,020 - 01:06:36,020] create a pair of top quarks and then the top
+- [01:06:36,020 - 01:06:38,020] quarks then have plenty of
+- [01:06:38,020 - 01:06:40,020] come together and
+- [01:06:40,020 - 01:06:42,020] create the Higgs boson.
+- [01:06:42,020 - 01:06:44,020] That's the process that was discovered at
+- [01:06:44,020 - 01:06:46,020] the LHC.
+- [01:06:46,020 - 01:06:47,020] It took a long time
+- [01:06:47,020 - 01:06:48,020] to get there. It was a
+- [01:06:48,020 - 01:06:49,020] hard thing to do. It
+- [01:06:49,020 - 01:06:50,020] was a very, very hard thing
+- [01:06:50,020 - 01:06:52,020] to do. But now
+- [01:06:52,020 - 01:06:54,020] it's done. We know the mass of the Higgs
+- [01:06:54,020 - 01:06:56,020] boson. It's 125 GeV,
+- [01:06:56,020 - 01:06:58,020] about 127 times the mass
+- [01:06:58,020 - 01:07:00,020] of the proton.
+- [01:07:00,020 - 01:07:02,020] That's, I think, a finished
+- [01:07:02,020 - 01:07:04,020] fact.
+- [01:07:04,020 - 01:07:06,020] Before I quit,
+- [01:07:06,020 - 01:07:08,020] let's
+- [01:07:08,020 - 01:07:10,020] talk about
+- [01:07:10,020 - 01:07:12,020] the near future.
+- [01:07:12,020 - 01:07:14,020] What have
+- [01:07:14,020 - 01:07:16,020] we learned? We've learned that the
+- [01:07:16,020 - 01:07:18,020] standard model is essentially
+- [01:07:18,020 - 01:07:20,020] correct. We've learned the
+- [01:07:20,020 - 01:07:22,020] standard model is essentially correct. Everything
+- [01:07:22,020 - 01:07:24,020] seems to fit together.
+- [01:07:24,020 - 01:07:26,020] The Higgs boson fitting together
+- [01:07:26,020 - 01:07:28,020] it's not the
+- [01:07:28,020 - 01:07:30,020] Higgs boson really that gives the particles
+- [01:07:30,020 - 01:07:32,020] their mass. It's the Ziggs boson.
+- [01:07:32,020 - 01:07:34,020] But the Higgs boson is just what's left over
+- [01:07:34,020 - 01:07:36,020] when you think of these density oscillations.
+- [01:07:36,020 - 01:07:38,020] With the last remaining piece
+- [01:07:38,020 - 01:07:40,020] that is now in place,
+- [01:07:40,020 - 01:07:42,020] it's finished.
+- [01:07:42,020 - 01:07:44,020] But is everything fitting together
+- [01:07:44,020 - 01:07:46,020] exactly right, quantitatively
+- [01:07:46,020 - 01:07:48,020] right? Well, that we don't know.
+- [01:07:48,020 - 01:07:50,020] We don't know. There's
+- [01:07:50,020 - 01:07:52,020] one hint,
+- [01:07:52,020 - 01:07:54,020] one hint of a discrepancy.
+- [01:07:54,020 - 01:07:55,020] And I'll tell you what
+- [01:07:55,020 - 01:07:56,020] the hint of that discrepancy is.
+- [01:07:56,020 - 01:07:58,020] Let's, here's,
+- [01:07:58,020 - 01:08:00,020] I drew this picture. Let me draw it again
+- [01:08:00,020 - 01:08:02,020] over here.
+- [01:08:02,020 - 01:08:04,020] It's the process of
+- [01:08:06,020 - 01:08:08,020] creating a Higgs by
+- [01:08:08,020 - 01:08:10,020] two gluons coming together.
+- [01:08:10,020 - 01:08:12,020] Gluon, gluon,
+- [01:08:12,020 - 01:08:14,020] top quark
+- [01:08:14,020 - 01:08:16,020] going around the loop, and Higgs.
+- [01:08:18,020 - 01:08:20,020] Now, this same process
+- [01:08:20,020 - 01:08:22,020] once the Higgs is created
+- [01:08:22,020 - 01:08:24,020] also allows
+- [01:08:24,020 - 01:08:26,020] the Higgs to decay.
+- [01:08:26,020 - 01:08:28,020] But it's not so
+- [01:08:28,020 - 01:08:30,020] easy to see gluons in the
+- [01:08:30,020 - 01:08:32,020] laboratory. They're difficult to work with.
+- [01:08:32,020 - 01:08:34,020] That's not the best
+- [01:08:34,020 - 01:08:36,020] process for looking for
+- [01:08:36,020 - 01:08:38,020] the Higgs boson after you've created it.
+- [01:08:38,020 - 01:08:40,020] The best process
+- [01:08:40,020 - 01:08:42,020] is to replace the gluons
+- [01:08:42,020 - 01:08:44,020] by photons. I don't have to even change
+- [01:08:44,020 - 01:08:46,020] the picture. Photons.
+- [01:08:46,020 - 01:08:48,020] It's exactly the same process
+- [01:08:48,020 - 01:08:50,020] except with photons out here.
+- [01:08:50,020 - 01:08:52,020] Once the Higgs is created
+- [01:08:52,020 - 01:08:54,020] by whatever can create it,
+- [01:08:54,020 - 01:08:56,020] it can decay
+- [01:08:56,020 - 01:08:58,020] into two photons.
+- [01:08:58,020 - 01:09:00,020] It's an intricate process.
+- [01:09:00,020 - 01:09:02,020] It involves a lot
+- [01:09:02,020 - 01:09:04,020] of theory and a lot of calculation.
+- [01:09:04,020 - 01:09:06,020] A Feynman diagram, not
+- [01:09:06,020 - 01:09:08,020] easy to calculate, but you can calculate it.
+- [01:09:08,020 - 01:09:10,020] And it depends on
+- [01:09:10,020 - 01:09:12,020] the properties of the top quark
+- [01:09:12,020 - 01:09:14,020] going around here.
+- [01:09:14,020 - 01:09:16,020] At the moment,
+- [01:09:16,020 - 01:09:18,020] at the moment, and I'm not an expert
+- [01:09:18,020 - 01:09:20,020] at this, I can only quote what I'm told,
+- [01:09:20,020 - 01:09:22,020] at the moment
+- [01:09:22,020 - 01:09:24,020] the Higgs boson that was produced
+- [01:09:24,020 - 01:09:26,020] in the laboratory appears to
+- [01:09:26,020 - 01:09:28,020] decay into two photons
+- [01:09:28,020 - 01:09:30,020] a little too quickly.
+- [01:09:30,020 - 01:09:32,020] About one and a half times too quickly.
+- [01:09:34,020 - 01:09:36,020] Now, everybody
+- [01:09:36,020 - 01:09:38,020] agrees that that is not a
+- [01:09:38,020 - 01:09:40,020] statistically really
+- [01:09:40,020 - 01:09:42,020] significant fact yet.
+- [01:09:42,020 - 01:09:44,020] But what will it mean
+- [01:09:44,020 - 01:09:46,020] if it persists?
+- [01:09:46,020 - 01:09:47,020] It doesn't seem like a big
+- [01:09:47,020 - 01:09:48,020] deal, one and a half times
+- [01:09:48,020 - 01:09:50,020] too fast, but the point is
+- [01:09:50,020 - 01:09:52,020] that theorists have the ability
+- [01:09:52,020 - 01:09:54,020] to calculate that rate
+- [01:09:54,020 - 01:09:56,020] very accurately.
+- [01:09:56,020 - 01:09:58,020] A one and a half times too big a rate
+- [01:09:58,020 - 01:10:00,020] is serious. It means
+- [01:10:00,020 - 01:10:02,020] something is going on.
+- [01:10:02,020 - 01:10:04,020] The most likely thing that would be going on
+- [01:10:04,020 - 01:10:06,020] is that there's another kind of
+- [01:10:06,020 - 01:10:08,020] particle in addition to the top quark
+- [01:10:08,020 - 01:10:10,020] that has not been discovered yet
+- [01:10:10,020 - 01:10:12,020] that can also participate
+- [01:10:12,020 - 01:10:14,020] in the same kind of, it's called
+- [01:10:14,020 - 01:10:16,020] a triangle diagram.
+- [01:10:16,020 - 01:10:18,020] Some other kind of particle.
+- [01:10:18,020 - 01:10:20,020] That, of course, would be big news.
+- [01:10:20,020 - 01:10:22,020] If there's something there that is not
+- [01:10:22,020 - 01:10:24,020] described by the standard model, that would be
+- [01:10:24,020 - 01:10:26,020] big news. It could be a super
+- [01:10:26,020 - 01:10:28,020] symmetric particle, it could be anything,
+- [01:10:28,020 - 01:10:30,020] all kinds of things.
+- [01:10:30,020 - 01:10:32,020] This is something to watch for now.
+- [01:10:32,020 - 01:10:34,020] The buzzwords are the decay of
+- [01:10:34,020 - 01:10:36,020] the Higgs into a pair of photons
+- [01:10:36,020 - 01:10:38,020] and an excess of
+- [01:10:38,020 - 01:10:40,020] about
+- [01:10:40,020 - 01:10:41,020] one and a half. I
+- [01:10:41,020 - 01:10:42,020] think it's a two sigma effect,
+- [01:10:42,020 - 01:10:44,020] whatever that means. It means something to statisticians.
+- [01:10:46,020 - 01:10:48,020] It means that it's not
+- [01:10:48,020 - 01:10:50,020] so robust, but it could be
+- [01:10:50,020 - 01:10:52,020] right. If it turns out
+- [01:10:52,020 - 01:10:54,020] to be right, it means that we've
+- [01:10:54,020 - 01:10:56,020] discovered something unexpected.
+- [01:10:56,020 - 01:10:58,020] Or it might be even something
+- [01:10:58,020 - 01:11:00,020] that's expected, but something new
+- [01:11:00,020 - 01:11:02,020] beyond the standard model.
+- [01:11:02,020 - 01:11:04,020] Remember, the standard model is over 50 years old,
+- [01:11:04,020 - 01:11:06,020] well over 50 years old,
+- [01:11:06,020 - 01:11:08,020] and so, 1967,
+- [01:11:08,020 - 01:11:10,020] am I right?
+- [01:11:12,020 - 01:11:14,020] no, not quite,
+- [01:11:14,020 - 01:11:16,020] getting on 50 years old.
+- [01:11:16,020 - 01:11:18,020] So, discovering the Higgs
+- [01:11:18,020 - 01:11:20,020] boson wasn't really discovering anything,
+- [01:11:20,020 - 01:11:22,020] it was confirming something.
+- [01:11:22,020 - 01:11:24,020] If this should be off by a factor
+- [01:11:24,020 - 01:11:26,020] of one and a half, one will have discovered
+- [01:11:26,020 - 01:11:28,020] something absolutely new. So if you want to
+- [01:11:28,020 - 01:11:30,020] watch, if you want to be a spectator
+- [01:11:30,020 - 01:11:32,020] in this sport, and you want to watch what happens,
+- [01:11:32,020 - 01:11:34,020] this is the thing to watch for
+- [01:11:34,020 - 01:11:36,020] next, whether the Higgs decays
+- [01:11:36,020 - 01:11:38,020] are consistent
+- [01:11:38,020 - 01:11:40,020] with the standard model.
+- [01:11:40,020 - 01:11:42,020] Okay, that's, we're finished.
+- [01:11:42,020 - 01:11:44,020] Thank you very much, and I hope you all
+- [01:11:44,020 - 01:11:46,020] got something out of that.
+- [01:11:54,020 - 01:11:56,020] One or two questions.
+- [01:12:00,020 - 01:12:02,020] What would cause two different
+- [01:12:02,020 - 01:12:04,020] fermions to have different rates of
+- [01:12:04,020 - 01:12:06,020] chiral oscillation? Good.
+- [01:12:06,020 - 01:12:08,020] The answer's
+- [01:12:08,020 - 01:12:10,020] going to be an unsatisfying one.
+- [01:12:10,020 - 01:12:14,020] The answer is
+- [01:12:14,020 - 01:12:16,020] that the fermions
+- [01:12:16,020 - 01:12:18,020] have,
+- [01:12:18,020 - 01:12:20,020] what would cause different fermions
+- [01:12:20,020 - 01:12:22,020] to have different masses? Different masses,
+- [01:12:22,020 - 01:12:24,020] essentially. Different oscillations,
+- [01:12:24,020 - 01:12:26,020] different rates of oscillation are the same as
+- [01:12:26,020 - 01:12:28,020] different masses. The coupling
+- [01:12:28,020 - 01:12:30,020] strength, the coupling constant
+- [01:12:30,020 - 01:12:32,020] that couples
+- [01:12:32,020 - 01:12:34,020] the relevant
+- [01:12:34,020 - 01:12:36,020] particle to the
+- [01:12:36,020 - 01:12:38,020] Higgs field.
+- [01:12:38,020 - 01:12:40,020] What happens?
+- [01:12:40,020 - 01:12:42,020] The particle moves,
+- [01:12:42,020 - 01:12:44,020] So each one has a separate coupling constant?
+- [01:12:44,020 - 01:12:46,020] Yes, each one has a separate coupling constant
+- [01:12:46,020 - 01:12:48,020] amidst this, what did I call it,
+- [01:12:48,020 - 01:12:50,020] the zigs, amidst the
+- [01:12:50,020 - 01:12:52,020] zigs which gets lost. There's a
+- [01:12:52,020 - 01:12:54,020] coefficient here, which is basically a
+- [01:12:54,020 - 01:12:56,020] probability.
+- [01:12:56,020 - 01:12:57,020] Each one, and we don't
+- [01:12:57,020 - 01:12:58,020] know why they are what they
+- [01:12:58,020 - 01:13:00,020] are. We know how to parameterize
+- [01:13:00,020 - 01:13:02,020] it, but we don't know how to explain it.
+- [01:13:02,020 - 01:13:04,020] For each kind of particle, let's
+- [01:13:04,020 - 01:13:06,020] say the electron, or the mu particle,
+- [01:13:06,020 - 01:13:08,020] or whatever it
+- [01:13:08,020 - 01:13:10,020] happens to be, there's a different
+- [01:13:10,020 - 01:13:12,020] constant there, and that constant
+- [01:13:12,020 - 01:13:14,020] is the constant which determines the rate
+- [01:13:14,020 - 01:13:16,020] and the mass. It's the
+- [01:13:16,020 - 01:13:18,020] same constant which
+- [01:13:18,020 - 01:13:20,020] comes into
+- [01:13:20,020 - 01:13:22,020] telling you how rapidly the Higgs
+- [01:13:22,020 - 01:13:24,020] decays into these particles,
+- [01:13:24,020 - 01:13:26,020] and therefore the heavier the
+- [01:13:26,020 - 01:13:28,020] particle, the stronger
+- [01:13:28,020 - 01:13:30,020] the decay. So that's a good
+- [01:13:30,020 - 01:13:32,020] question. I meant to say something about it
+- [01:13:32,020 - 01:13:34,020] and I forgot.
+- [01:13:34,020 - 01:13:36,020] Good.
+- [01:13:36,020 - 01:13:38,020] Do we know the value of the Higgs mass?
+- [01:13:38,020 - 01:13:39,020] Do we know the value
+- [01:13:39,020 - 01:13:40,020] of the vacuum next to it?
+- [01:13:40,020 - 01:13:42,020] The expectation value of the Higgs field?
+- [01:13:42,020 - 01:13:44,020] Yeah, we've known that for a long time.
+- [01:13:44,020 - 01:13:46,020] 240 GeV.
+- [01:13:46,020 - 01:13:48,020] The value of the expectation value
+- [01:13:48,020 - 01:13:50,020] is, from one language,
+- [01:13:50,020 - 01:13:52,020] it's simply the displacement
+- [01:13:52,020 - 01:13:54,020] of the field.
+- [01:13:54,020 - 01:13:56,020] In another language, it's the density of
+- [01:13:56,020 - 01:13:58,020] the condensate.
+- [01:13:58,020 - 01:13:59,020] You can think of it
+- [01:13:59,020 - 01:14:00,020] either way, the density of the
+- [01:14:00,020 - 01:14:02,020] condensate, or as the value
+- [01:14:02,020 - 01:14:04,020] of the displacement of the field.
+- [01:14:04,020 - 01:14:06,020] And that's why
+- [01:14:06,020 - 01:14:08,020] oscillation in the
+- [01:14:08,020 - 01:14:10,020] magnitude of the field is the same
+- [01:14:10,020 - 01:14:12,020] as a density fluctuation.
+- [01:14:12,020 - 01:14:14,020] Does that give a vacuum an energy density?
+- [01:14:14,020 - 01:14:16,020] What's that?
+- [01:14:16,020 - 01:14:18,020] Does that give a vacuum an energy density?
+- [01:14:18,020 - 01:14:20,020] Apparently not.
+- [01:14:20,020 - 01:14:22,020] Apparently not.
+- [01:14:22,020 - 01:14:23,020] Well, yes, I think it
+- [01:14:23,020 - 01:14:24,020] does, but there are many, many
+- [01:14:24,020 - 01:14:26,020] other things that give it an energy density,
+- [01:14:26,020 - 01:14:28,020] and for whatever reason, they almost all
+- [01:14:28,020 - 01:14:30,020] cancel out. This is one of the great mysteries
+- [01:14:30,020 - 01:14:32,020] of, uh, yeah.
+- [01:14:32,020 - 01:14:34,020] Yeah.
+- [01:14:34,020 - 01:14:36,020] Right. So that's
+- [01:14:36,020 - 01:14:37,020] a very good question to
+- [01:14:37,020 - 01:14:38,020] which we don't have an answer
+- [01:14:38,020 - 01:14:40,020] at the moment.
+- [01:14:40,020 - 01:14:42,020] Okay, I hope you got
+- [01:14:42,020 - 01:14:44,020] something out of that. I had fun preparing
+- [01:14:44,020 - 01:14:46,020] it and figuring out how to try to explain
+- [01:14:46,020 - 01:14:48,020] it. Uh,
+- [01:14:48,020 - 01:14:50,020] for some of you, you probably got something.
+- [01:14:50,020 - 01:14:52,020] Others are just mystified and sitting
+- [01:14:52,020 - 01:14:54,020] while they're talking about, but
+- [01:14:54,020 - 01:14:56,020] that's it.
+- [01:15:04,020 - 01:15:06,020] For more, please visit us at
+- [01:15:06,020 - 01:15:07,945] stanford.edu.
