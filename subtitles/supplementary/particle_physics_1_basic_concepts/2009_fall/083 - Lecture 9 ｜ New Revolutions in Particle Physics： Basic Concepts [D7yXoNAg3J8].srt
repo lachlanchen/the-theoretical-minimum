@@ -1,0 +1,10800 @@
+1
+00:00:00,000 --> 00:00:06,400
+Stanford University.
+
+2
+00:00:06,400 --> 00:00:10,800
+A very important concept in particle
+
+3
+00:00:10,800 --> 00:00:15,200
+physics are the field equations, of course.
+
+4
+00:00:15,200 --> 00:00:17,400
+The equations of motion of
+
+5
+00:00:17,400 --> 00:00:19,600
+the fields describing the particles.
+
+6
+00:00:19,600 --> 00:00:22,760
+We've described boson fields,
+
+7
+00:00:22,760 --> 00:00:25,920
+fermion fields, these electromagnetic fields.
+
+8
+00:00:25,920 --> 00:00:30,300
+All of these fields satisfy equations.
+
+9
+00:00:30,300 --> 00:00:32,700
+The form of the equations is more
+
+10
+00:00:32,700 --> 00:00:35,100
+or less wave equations, and it involves derivatives
+
+11
+00:00:35,100 --> 00:00:38,180
+of the field with respect to space,
+
+12
+00:00:38,180 --> 00:00:41,260
+with respect to time, and the field itself.
+
+13
+00:00:41,260 --> 00:00:43,920
+It involves derivatives of the field and the field itself.
+
+14
+00:00:43,920 --> 00:00:51,640
+In other words, the field undifferentiated.
+
+15
+00:00:51,640 --> 00:00:54,120
+How do we code these equations?
+
+16
+00:00:54,120 --> 00:00:55,800
+Just write down all of the equations.
+
+17
+00:00:55,800 --> 00:00:57,640
+All of the fields.
+
+18
+00:00:57,640 --> 00:00:59,379
+Yeah, we could do that.
+
+19
+00:00:59,379 --> 00:01:02,449
+We could write down the equation of
+
+20
+00:01:02,449 --> 00:01:05,519
+motion for the electromagnetic field, for the electron
+
+21
+00:01:05,519 --> 00:01:08,769
+field, for all of the fields in the system,
+
+22
+00:01:08,769 --> 00:01:12,020
+and that would just be the equations of motion.
+
+23
+00:01:12,020 --> 00:01:17,599
+But in standard classical mechanical systems,
+
+24
+00:01:17,599 --> 00:01:23,179
+field theory, even quantum field theory, the
+
+25
+00:01:23,179 --> 00:01:25,179
+equations of motion always come from a logarithm.
+
+26
+00:01:25,180 --> 00:01:28,680
+A logarithm is a very important
+
+27
+00:01:28,680 --> 00:01:32,180
+concept in classical mechanics, in quantum mechanics,
+
+28
+00:01:32,180 --> 00:01:34,140
+and in quantum field theory.
+
+29
+00:01:34,140 --> 00:01:37,020
+A logarithm is an object that you do
+
+30
+00:01:37,020 --> 00:01:39,900
+certain things to, to generate all of the equations
+
+31
+00:01:39,900 --> 00:01:41,200
+of motion of the system.
+
+32
+00:01:41,200 --> 00:01:44,090
+Not just one by one the equations of motion
+
+33
+00:01:44,090 --> 00:01:46,980
+for each field, but it contains in one simple
+
+34
+00:01:46,980 --> 00:01:50,870
+expression, in one condensed compact expression, all
+
+35
+00:01:50,870 --> 00:01:54,760
+of the equations of motion of a system
+
+36
+00:01:54,760 --> 00:01:56,810
+of fields, or a system
+
+37
+00:01:56,810 --> 00:01:58,860
+of degrees of freedom in general.
+
+38
+00:01:58,860 --> 00:02:00,980
+The Lagrangian idea in classical mechanics is
+
+39
+00:02:00,980 --> 00:02:03,100
+very closely related to the principle of
+
+40
+00:02:03,100 --> 00:02:04,100
+least action.
+
+41
+00:02:04,100 --> 00:02:06,660
+We're not going to go into that here.
+
+42
+00:02:06,660 --> 00:02:08,830
+I'm going to just very quickly remind you
+
+43
+00:02:08,830 --> 00:02:11,000
+of the connection, what a Lagrangian is, what
+
+44
+00:02:11,000 --> 00:02:14,430
+it depends on, how you generate the equations
+
+45
+00:02:14,430 --> 00:02:17,860
+of motion, and do one or two examples, that's
+
+46
+00:02:17,860 --> 00:02:20,560
+all classical physics, and then explain to
+
+47
+00:02:20,560 --> 00:02:23,260
+you what the meaning of the Lagrangian is
+
+48
+00:02:23,260 --> 00:02:24,260
+in quantum mechanics.
+
+49
+00:02:24,760 --> 00:02:27,109
+The Lagrangian, except expressed not in terms
+
+50
+00:02:27,109 --> 00:02:29,459
+of classical fields, but in terms of quantum
+
+51
+00:02:29,459 --> 00:02:33,239
+fields, has a totally new meaning in
+
+52
+00:02:33,239 --> 00:02:37,019
+terms of quantum mechanics that dictates the motion
+
+53
+00:02:37,019 --> 00:02:40,099
+of particles, the interaction between particles,
+
+54
+00:02:40,099 --> 00:02:43,180
+cross sections for collisions, all sorts of
+
+55
+00:02:43,180 --> 00:02:44,180
+things.
+
+56
+00:02:44,180 --> 00:02:46,440
+It codifies it in a very simple expression.
+
+57
+00:02:46,440 --> 00:02:48,859
+One compact idea.
+
+58
+00:02:48,859 --> 00:02:50,859
+Okay.
+
+59
+00:02:50,859 --> 00:02:52,859
+So.
+
+60
+00:02:52,859 --> 00:02:53,859
+Okay.
+
+61
+00:02:53,859 --> 00:02:54,660
+So.
+
+62
+00:02:54,660 --> 00:02:55,660
+So.
+
+63
+00:02:55,660 --> 00:03:00,310
+The Lagrangian of a system of fields, let's
+
+64
+00:03:00,310 --> 00:03:04,960
+call it script L, is a function, I'll write
+
+65
+00:03:04,960 --> 00:03:07,960
+it L of, for the
+
+66
+00:03:07,960 --> 00:03:10,960
+simplicity, let's just imagine one field.
+
+67
+00:03:10,960 --> 00:03:12,320
+I'll tell you what you do
+
+68
+00:03:12,320 --> 00:03:13,680
+if you have more than one field.
+
+69
+00:03:13,680 --> 00:03:17,730
+But supposing there's one field, phi, the
+
+70
+00:03:17,730 --> 00:03:21,780
+Lagrangian depends on the field, and it depends
+
+71
+00:03:21,780 --> 00:03:23,780
+on the derivatives of the field.
+
+72
+00:03:23,780 --> 00:03:24,540
+Okay.
+
+73
+00:03:24,540 --> 00:03:27,540
+With respect to time and space.
+
+74
+00:03:27,540 --> 00:03:29,730
+So it could depend on the derivative of
+
+75
+00:03:29,730 --> 00:03:31,920
+the field with respect to time, and the derivatives
+
+76
+00:03:31,920 --> 00:03:34,540
+of the field with respect to x, y, and z.
+
+77
+00:03:34,540 --> 00:03:41,460
+Or more compactly, it depends on the field
+
+78
+00:03:41,460 --> 00:03:48,380
+and the derivatives of the field with respect
+
+79
+00:03:48,380 --> 00:03:49,540
+to x mu.
+
+80
+00:03:49,540 --> 00:03:52,540
+This means derivative with respect to x mu.
+
+81
+00:03:52,540 --> 00:03:53,540
+Okay.
+
+82
+00:03:53,540 --> 00:03:54,540
+All right.
+
+83
+00:03:54,540 --> 00:03:56,040
+Now, what do you do with
+
+84
+00:03:56,040 --> 00:03:57,540
+the Lagrangian to generate the field equations?
+
+85
+00:03:57,540 --> 00:03:58,540
+I'm not going to prove this.
+
+86
+00:03:58,540 --> 00:04:01,540
+We're not going to argue for these equations.
+
+87
+00:04:01,540 --> 00:04:03,540
+We've done that in the past several times.
+
+88
+00:04:03,540 --> 00:04:06,540
+I'm just going to tell you what the rules are.
+
+89
+00:04:06,540 --> 00:04:11,040
+The rules are to generate the equations
+
+90
+00:04:11,040 --> 00:04:15,540
+of motion, you differentiate the Lagrangian with
+
+91
+00:04:15,540 --> 00:04:18,539
+respect to the derivatives of the field.
+
+92
+00:04:18,539 --> 00:04:21,539
+For example, derivative of L with respect to x.
+
+93
+00:04:21,540 --> 00:04:25,540
+For example, with respect to derivative
+
+94
+00:04:25,540 --> 00:04:29,540
+of phi with respect to t.
+
+95
+00:04:29,540 --> 00:04:31,540
+I'll show you an example.
+
+96
+00:04:31,540 --> 00:04:33,540
+This looks abstract at the moment.
+
+97
+00:04:33,540 --> 00:04:37,540
+Then you differentiate with respect to t.
+
+98
+00:04:37,540 --> 00:04:41,040
+You add to that the derivative with respect
+
+99
+00:04:41,040 --> 00:04:44,540
+to x of the derivative of the Lagrangian with
+
+100
+00:04:44,540 --> 00:04:49,540
+respect to the gradient of the field along the x-axis.
+
+101
+00:04:49,540 --> 00:04:50,540
+Same thing for y and z.
+
+102
+00:04:50,540 --> 00:04:54,040
+And then you set that equal to the
+
+103
+00:04:54,040 --> 00:04:57,540
+derivative of the Lagrangian with respect to the field
+
+104
+00:04:57,540 --> 00:04:58,540
+itself.
+
+105
+00:04:58,540 --> 00:05:01,540
+The Lagrangian depends on the field itself.
+
+106
+00:05:01,540 --> 00:05:05,540
+That is the equation of motion for the field phi.
+
+107
+00:05:05,540 --> 00:05:08,540
+If your Lagrangian depends on several fields, then
+
+108
+00:05:08,540 --> 00:05:11,540
+you do the same thing over and over for
+
+109
+00:05:11,540 --> 00:05:15,040
+each one of the fields, and that generates
+
+110
+00:05:15,040 --> 00:05:18,540
+the system of equations for all of the fields.
+
+111
+00:05:18,540 --> 00:05:19,540
+So as I said, we'll do an example.
+
+112
+00:05:19,540 --> 00:05:22,540
+As we go on, we'll do some examples.
+
+113
+00:05:22,540 --> 00:05:26,040
+But let's just do the very simplest
+
+114
+00:05:26,040 --> 00:05:29,540
+example, just to see how this works.
+
+115
+00:05:29,540 --> 00:05:35,040
+A simple scalar field, a very simple
+
+116
+00:05:35,040 --> 00:05:40,540
+scalar field, simplest field, has a Lagrangian which
+
+117
+00:05:40,540 --> 00:05:44,040
+is equal to the square, the derivative
+
+118
+00:05:44,040 --> 00:05:47,540
+of phi with respect to time squared.
+
+119
+00:05:47,540 --> 00:05:48,540
+There's a convention.
+
+120
+00:05:48,540 --> 00:05:52,540
+There's a conventional one half in front of it.
+
+121
+00:05:52,540 --> 00:05:55,540
+Derivative of phi with respect to time squared
+
+122
+00:05:55,540 --> 00:05:58,540
+minus the same half derivative of phi with
+
+123
+00:05:58,540 --> 00:06:02,540
+respect to x squared.
+
+124
+00:06:02,540 --> 00:06:04,540
+Same thing with y and z,
+
+125
+00:06:04,540 --> 00:06:06,540
+but I won't write it out.
+
+126
+00:06:06,540 --> 00:06:10,540
+Oh, that's a minus sign here, minus sign.
+
+127
+00:06:10,540 --> 00:06:13,540
+And then finally, minus some function,
+
+128
+00:06:13,540 --> 00:06:16,540
+and we'll call it v of phi.
+
+129
+00:06:16,540 --> 00:06:19,540
+Or v of phi.
+
+130
+00:06:19,540 --> 00:06:21,540
+That's the nature of the
+
+131
+00:06:21,540 --> 00:06:23,540
+Lagrangian of a simple scalar field.
+
+132
+00:06:23,540 --> 00:06:25,540
+That's all there is to it, no more than that.
+
+133
+00:06:25,540 --> 00:06:27,540
+Let's see if we can work
+
+134
+00:06:27,540 --> 00:06:29,540
+out what the field equations are.
+
+135
+00:06:29,540 --> 00:06:32,040
+You first begin by differentiating the Lagrangian with
+
+136
+00:06:32,040 --> 00:06:34,540
+respect, we could call this phi dot here.
+
+137
+00:06:34,540 --> 00:06:36,540
+Let's just call it phi dot.
+
+138
+00:06:36,540 --> 00:06:39,540
+The derivative of phi with respect to time.
+
+139
+00:06:39,540 --> 00:06:42,040
+And let's simplify the notation, or the
+
+140
+00:06:42,040 --> 00:06:44,540
+derivative of phi with respect to time.
+
+141
+00:06:44,540 --> 00:06:47,540
+Let's simplify the notation, or condense the notation.
+
+142
+00:06:47,540 --> 00:06:50,540
+Instead of the phi by the
+
+143
+00:06:50,540 --> 00:06:53,540
+x, let's write phi sub x.
+
+144
+00:06:53,540 --> 00:06:56,540
+Phi sub x means the derivative
+
+145
+00:06:56,540 --> 00:06:59,540
+of phi with respect to x.
+
+146
+00:06:59,540 --> 00:07:01,540
+Likewise for y and z.
+
+147
+00:07:06,540 --> 00:07:08,540
+Yeah, that will be in here.
+
+148
+00:07:08,540 --> 00:07:10,540
+That will be in here.
+
+149
+00:07:10,540 --> 00:07:12,540
+Okay?
+
+150
+00:07:12,540 --> 00:07:13,540
+Right, okay.
+
+151
+00:07:13,540 --> 00:07:15,040
+So let's first differentiate the
+
+152
+00:07:15,040 --> 00:07:16,540
+Lagrangian with respect to phi dot.
+
+153
+00:07:16,540 --> 00:07:17,540
+Here's phi dot right here.
+
+154
+00:07:17,540 --> 00:07:19,540
+Phi dot squared.
+
+155
+00:07:19,540 --> 00:07:21,540
+One half phi dot squared.
+
+156
+00:07:21,540 --> 00:07:24,040
+The derivative with respect to phi
+
+157
+00:07:24,040 --> 00:07:26,540
+dot is just phi dot itself.
+
+158
+00:07:26,540 --> 00:07:30,040
+Differentiate one half phi dot squared
+
+159
+00:07:30,040 --> 00:07:33,540
+with respect to phi dot itself.
+
+160
+00:07:33,540 --> 00:07:36,040
+Differentiating the two cancels the one
+
+161
+00:07:36,040 --> 00:07:38,540
+half, and you just get phi dot.
+
+162
+00:07:38,540 --> 00:07:40,540
+But then, you have to
+
+163
+00:07:40,540 --> 00:07:42,540
+differentiate again with respect to time.
+
+164
+00:07:42,540 --> 00:07:44,540
+That makes it phi double dot.
+
+165
+00:07:44,540 --> 00:07:46,540
+Two time derivatives.
+
+166
+00:07:46,540 --> 00:07:48,540
+Second time derivative.
+
+167
+00:07:48,540 --> 00:07:49,540
+Right?
+
+168
+00:07:49,540 --> 00:07:53,540
+Then, plus...
+
+169
+00:07:53,540 --> 00:07:56,540
+Now, the space derivative terms come in
+
+170
+00:07:56,540 --> 00:07:59,540
+with the opposite sign from the time derivatives.
+
+171
+00:07:59,540 --> 00:08:01,540
+I'll explain why in a moment, but just accept it.
+
+172
+00:08:01,540 --> 00:08:03,540
+They come in with the opposite sign.
+
+173
+00:08:03,540 --> 00:08:07,040
+So you get exactly the same kind of thing,
+
+174
+00:08:07,040 --> 00:08:10,540
+but with the opposite sign with second space derivatives.
+
+175
+00:08:10,540 --> 00:08:11,540
+Second derivative of phi.
+
+176
+00:08:12,540 --> 00:08:15,540
+So you get phi with respect to x squared.
+
+177
+00:08:15,540 --> 00:08:18,540
+Same thing with y and z.
+
+178
+00:08:18,540 --> 00:08:22,040
+And then, on the right hand side, we have
+
+179
+00:08:22,040 --> 00:08:25,540
+the derivative of the Lagrangian with respect to phi.
+
+180
+00:08:25,540 --> 00:08:28,540
+The only place where phi itself
+
+181
+00:08:28,540 --> 00:08:31,540
+occurs, undifferentiated, is in v of phi.
+
+182
+00:08:31,540 --> 00:08:35,539
+So, what we get on the right hand side
+
+183
+00:08:35,539 --> 00:08:39,539
+is minus the derivative of v with respect to phi.
+
+184
+00:08:39,539 --> 00:08:40,539
+That's the form of a field
+
+185
+00:08:40,539 --> 00:08:41,539
+equation for a very, very simple equation.
+
+186
+00:08:42,539 --> 00:08:48,540
+A very simple scalar field.
+
+187
+00:08:48,540 --> 00:08:51,540
+Some examples of v of phi.
+
+188
+00:08:51,540 --> 00:08:54,040
+The simplest example of v of phi would be a constant,
+
+189
+00:08:54,040 --> 00:08:56,540
+but then it would have no derivative with respect to phi,
+
+190
+00:08:56,540 --> 00:08:57,540
+and it wouldn't even contribute here.
+
+191
+00:08:57,540 --> 00:09:00,540
+Not interesting.
+
+192
+00:09:00,540 --> 00:09:03,540
+We could have something linear in phi.
+
+193
+00:09:03,540 --> 00:09:04,540
+That's all right.
+
+194
+00:09:04,540 --> 00:09:06,540
+You can have something linear in phi.
+
+195
+00:09:06,540 --> 00:09:09,540
+But...
+
+196
+00:09:09,540 --> 00:09:10,540
+If...
+
+197
+00:09:10,540 --> 00:09:11,540
+This, incidentally,
+
+198
+00:09:11,540 --> 00:09:13,540
+is field energy.
+
+199
+00:09:13,540 --> 00:09:15,540
+v of phi is field energy.
+
+200
+00:09:15,540 --> 00:09:19,040
+If v is unbounded from below, it means, in other
+
+201
+00:09:19,040 --> 00:09:22,540
+words, if v is just a linear function of phi,
+
+202
+00:09:22,540 --> 00:09:25,040
+that means the energy, the minimum
+
+203
+00:09:25,040 --> 00:09:27,540
+of the energy, is infinitely far off.
+
+204
+00:09:27,540 --> 00:09:28,540
+Negative infinity.
+
+205
+00:09:28,540 --> 00:09:29,540
+That's not good.
+
+206
+00:09:29,540 --> 00:09:33,540
+The first interesting example
+
+207
+00:09:33,540 --> 00:09:35,540
+is to put phi squared.
+
+208
+00:09:35,540 --> 00:09:39,540
+v of phi
+
+209
+00:09:39,540 --> 00:09:44,540
+is equal to something proportional to phi squared.
+
+210
+00:09:44,540 --> 00:09:45,540
+All right.
+
+211
+00:09:45,540 --> 00:09:47,540
+A proportionality needs a constant.
+
+212
+00:09:47,540 --> 00:09:50,540
+Let's call the constant m squared,
+
+213
+00:09:50,540 --> 00:09:51,540
+and let's put a 2 in.
+
+214
+00:09:51,540 --> 00:09:53,540
+There's no content in that.
+
+215
+00:09:53,540 --> 00:09:56,540
+m squared over 2 is just some constant.
+
+216
+00:09:56,540 --> 00:09:59,040
+I call it m squared over 2 because it
+
+217
+00:09:59,040 --> 00:10:01,540
+has some physical meaning that we'll see in a moment.
+
+218
+00:10:01,540 --> 00:10:04,540
+What happens if I differentiate m squared
+
+219
+00:10:04,540 --> 00:10:07,540
+over 2 phi squared with respect to phi?
+
+220
+00:10:07,540 --> 00:10:10,540
+That gives me m squared phi.
+
+221
+00:10:10,540 --> 00:10:13,040
+Differentiating v of phi with respect to
+
+222
+00:10:13,040 --> 00:10:15,540
+phi would just give me m squared phi.
+
+223
+00:10:15,540 --> 00:10:16,540
+All right.
+
+224
+00:10:16,540 --> 00:10:19,540
+So, again, a simple wave equation.
+
+225
+00:10:19,540 --> 00:10:23,040
+Phi double dot minus derivative of phi
+
+226
+00:10:23,040 --> 00:10:26,540
+with respect to x squared dot dot dot
+
+227
+00:10:26,540 --> 00:10:32,540
+is equal to minus, I think, m squared phi.
+
+228
+00:10:32,540 --> 00:10:36,540
+That is a very, very basic form
+
+229
+00:10:36,540 --> 00:10:38,540
+for a wave equation,
+
+230
+00:10:38,540 --> 00:10:43,540
+both in classical field theory, quantum field theory,
+
+231
+00:10:43,540 --> 00:10:46,540
+electrodynamics, all sorts of situations.
+
+232
+00:10:46,540 --> 00:10:49,540
+This wave equation shows up.
+
+233
+00:10:49,540 --> 00:10:52,540
+What does it say about the
+
+234
+00:10:52,540 --> 00:10:55,540
+relationship between the energy and momentum
+
+235
+00:10:55,540 --> 00:10:58,540
+of a quantum of the field phi?
+
+236
+00:10:58,540 --> 00:11:00,540
+Let's move on to quantum mechanics now.
+
+237
+00:11:00,540 --> 00:11:03,040
+In quantum field theory, the
+
+238
+00:11:03,040 --> 00:11:05,540
+energy is related to the frequency,
+
+239
+00:11:05,540 --> 00:11:07,540
+and the energy is related to the frequency.
+
+240
+00:11:07,540 --> 00:11:09,540
+So, if I differentiate twice,
+
+241
+00:11:09,540 --> 00:11:14,540
+differentiating twice always gives us a factor of minus 2,
+
+242
+00:11:14,540 --> 00:11:17,540
+sorry, minus omega squared.
+
+243
+00:11:17,540 --> 00:11:21,040
+Remember, if we have a wave function which is
+
+244
+00:11:21,040 --> 00:11:24,540
+of the form e to the i omega t,
+
+245
+00:11:24,540 --> 00:11:29,540
+perhaps times e to the minus ikx,
+
+246
+00:11:29,540 --> 00:11:31,540
+I think I want it this way,
+
+247
+00:11:31,540 --> 00:11:34,540
+if I differentiate with respect to time,
+
+248
+00:11:34,540 --> 00:11:36,540
+minus i omega,
+
+249
+00:11:36,540 --> 00:11:37,540
+if I do it twice,
+
+250
+00:11:37,540 --> 00:11:39,540
+it gives me a minus omega squared,
+
+251
+00:11:39,540 --> 00:11:41,540
+times phi.
+
+252
+00:11:41,540 --> 00:11:43,540
+Times phi.
+
+253
+00:11:43,540 --> 00:11:47,540
+What happens if I differentiate with respect to x twice?
+
+254
+00:11:49,540 --> 00:11:53,540
+Gives me two factors of k, of k sub x.
+
+255
+00:11:53,540 --> 00:11:56,540
+So this will give me
+
+256
+00:11:56,540 --> 00:11:59,540
+plus k sub x squared phi,
+
+257
+00:11:59,540 --> 00:12:01,540
+plus k sub y squared,
+
+258
+00:12:01,540 --> 00:12:03,540
+plus k sub z squared,
+
+259
+00:12:03,540 --> 00:12:05,540
+all times phi.
+
+260
+00:12:05,540 --> 00:12:09,040
+And on the right hand side
+
+261
+00:12:09,040 --> 00:12:12,540
+we have minus m squared phi.
+
+262
+00:12:12,540 --> 00:12:14,540
+We can just cross off the phi here,
+
+263
+00:12:14,540 --> 00:12:17,540
+cancel it out,
+
+264
+00:12:17,540 --> 00:12:21,040
+and what this wave equation tells us is
+
+265
+00:12:21,040 --> 00:12:24,540
+just a relationship between omega and k squared.
+
+266
+00:12:24,540 --> 00:12:27,540
+It tells us that omega squared minus
+
+267
+00:12:27,540 --> 00:12:30,540
+k squared is equal to m squared.
+
+268
+00:12:30,540 --> 00:12:32,540
+That's really the whole content of the wave equation.
+
+269
+00:12:32,540 --> 00:12:37,540
+For a wave moving down a particular axis,
+
+270
+00:12:37,540 --> 00:12:40,540
+it tells us that omega squared is equal,
+
+271
+00:12:40,540 --> 00:12:41,540
+better yet,
+
+272
+00:12:41,540 --> 00:12:46,540
+omega squared is equal to k squared plus m squared.
+
+273
+00:12:46,540 --> 00:12:49,540
+If we remember,
+
+274
+00:12:49,540 --> 00:12:51,540
+let's work in our favorite units,
+
+275
+00:12:51,540 --> 00:12:53,540
+h bar equals c equals one,
+
+276
+00:12:53,540 --> 00:12:54,540
+sorry,
+
+277
+00:12:54,540 --> 00:12:58,540
+h bar, h bar equals c equals one,
+
+278
+00:12:58,540 --> 00:13:00,540
+then omega is equal to,
+
+279
+00:13:00,540 --> 00:13:05,540
+omega is nothing but the energy.
+
+280
+00:13:05,540 --> 00:13:07,040
+Omega is related to energy
+
+281
+00:13:07,040 --> 00:13:08,540
+by a factor of h bar.
+
+282
+00:13:08,540 --> 00:13:14,040
+This is energy squared equals
+
+283
+00:13:14,040 --> 00:13:19,540
+momentum squared plus m squared.
+
+284
+00:13:19,540 --> 00:13:21,540
+This is the usual relation.
+
+285
+00:13:21,540 --> 00:13:22,540
+If I wanted to make it,
+
+286
+00:13:22,540 --> 00:13:24,540
+I want to put the speeds of light back in,
+
+287
+00:13:24,540 --> 00:13:25,540
+I would put, let's see,
+
+288
+00:13:25,540 --> 00:13:27,540
+I think a c squared over here,
+
+289
+00:13:27,540 --> 00:13:29,540
+and a c to the fourth over here.
+
+290
+00:13:30,540 --> 00:13:31,540
+Question?
+
+291
+00:13:31,540 --> 00:13:33,040
+But in units in which the
+
+292
+00:13:33,040 --> 00:13:34,540
+speed of light is equal to one,
+
+293
+00:13:34,540 --> 00:13:36,540
+this is just e equals,
+
+294
+00:13:36,540 --> 00:13:39,540
+e squared equals p squared plus m squared.
+
+295
+00:13:39,540 --> 00:13:41,540
+This is the usual relationship
+
+296
+00:13:41,540 --> 00:13:43,540
+between energy and momentum
+
+297
+00:13:43,540 --> 00:13:46,040
+if we interpret m as
+
+298
+00:13:46,040 --> 00:13:48,540
+the mass of a single quantum.
+
+299
+00:13:48,540 --> 00:13:50,540
+Okay?
+
+300
+00:13:50,540 --> 00:13:52,540
+So,
+
+301
+00:13:52,540 --> 00:13:54,540
+what this equation tells us then
+
+302
+00:13:54,540 --> 00:13:57,540
+is really nothing but the relationship between
+
+303
+00:13:57,540 --> 00:13:59,540
+energy, mass, and momentum.
+
+304
+00:14:00,540 --> 00:14:03,540
+With the stipulation that the parameter m here
+
+305
+00:14:03,540 --> 00:14:05,540
+is the mass of a particle.
+
+306
+00:14:05,540 --> 00:14:09,540
+Okay, so that's quite an elegant fact.
+
+307
+00:14:09,540 --> 00:14:11,540
+One other point,
+
+308
+00:14:11,540 --> 00:14:13,540
+in writing Lagrangians,
+
+309
+00:14:13,540 --> 00:14:15,540
+it's important,
+
+310
+00:14:15,540 --> 00:14:17,540
+you want your equations in the end
+
+311
+00:14:17,540 --> 00:14:19,540
+to be relativistically invariant,
+
+312
+00:14:19,540 --> 00:14:21,540
+invariant under Lorentz transformations.
+
+313
+00:14:21,540 --> 00:14:23,540
+The only thing you have to do
+
+314
+00:14:23,540 --> 00:14:26,540
+to keep them invariant under Lorentz transformations
+
+315
+00:14:26,540 --> 00:14:29,540
+is make sure that the Lagrangian is a scalar.
+
+316
+00:14:29,540 --> 00:14:31,540
+If it's really a scalar
+
+317
+00:14:31,540 --> 00:14:34,540
+and transforms as a scalar under Lorentz transformation,
+
+318
+00:14:34,540 --> 00:14:36,540
+your equations of motion
+
+319
+00:14:36,540 --> 00:14:38,540
+will be invariant under Lorentz transformation.
+
+320
+00:14:38,540 --> 00:14:41,540
+That's why this minus sign is here.
+
+321
+00:14:41,540 --> 00:14:43,540
+Remember, whenever,
+
+322
+00:14:43,540 --> 00:14:46,540
+whenever you're doing special relativity,
+
+323
+00:14:46,540 --> 00:14:49,540
+there are minus signs
+
+324
+00:14:49,540 --> 00:14:53,540
+in the relationship between
+
+325
+00:14:53,540 --> 00:14:55,540
+space and time, if you like.
+
+326
+00:14:55,540 --> 00:14:58,540
+Okay, so that's the basic setup for Lagrangians.
+
+327
+00:14:59,540 --> 00:15:02,540
+And it's really quite simple.
+
+328
+00:15:02,540 --> 00:15:05,540
+There could be several fields in the Lagrangian,
+
+329
+00:15:05,540 --> 00:15:08,540
+and they could be interacting with each other
+
+330
+00:15:08,540 --> 00:15:10,540
+in some way or another.
+
+331
+00:15:10,540 --> 00:15:13,540
+Let me give you another example of just one field.
+
+332
+00:15:13,540 --> 00:15:15,540
+Supposing instead of v of
+
+333
+00:15:15,540 --> 00:15:17,540
+phi being proportional to phi squared,
+
+334
+00:15:17,540 --> 00:15:19,540
+we also put in something else,
+
+335
+00:15:19,540 --> 00:15:22,540
+for example, I don't know,
+
+336
+00:15:22,540 --> 00:15:25,540
+g times phi cubed.
+
+337
+00:15:25,540 --> 00:15:28,540
+Alright, then there would be another term in here,
+
+338
+00:15:28,540 --> 00:15:29,540
+where is it?
+
+339
+00:15:29,540 --> 00:15:33,540
+There would be another term in here,
+
+340
+00:15:33,540 --> 00:15:34,540
+which would be, I guess,
+
+341
+00:15:34,540 --> 00:15:38,540
+minus 3g phi squared.
+
+342
+00:15:38,540 --> 00:15:42,540
+The equation of motion would no longer be linear.
+
+343
+00:15:42,540 --> 00:15:45,540
+Linear means only contains first powers
+
+344
+00:15:45,540 --> 00:15:48,540
+of derivatives and the field itself.
+
+345
+00:15:48,540 --> 00:15:50,540
+If an equation is linear,
+
+346
+00:15:50,540 --> 00:15:52,540
+it means you can add solutions
+
+347
+00:15:52,540 --> 00:15:54,540
+and get new solutions.
+
+348
+00:15:54,540 --> 00:15:56,540
+But now we have a nonlinear term
+
+349
+00:15:56,540 --> 00:15:58,540
+in the equations of motion.
+
+350
+00:15:58,540 --> 00:16:01,540
+Nonlinear means quadratic in phi.
+
+351
+00:16:01,540 --> 00:16:05,540
+Quadratic, cubic, any kind of higher power of phi.
+
+352
+00:16:05,540 --> 00:16:07,540
+And so we see a pattern.
+
+353
+00:16:07,540 --> 00:16:10,540
+The pattern is things in the Lagrangian
+
+354
+00:16:10,540 --> 00:16:13,540
+which are quadratic in either derivatives
+
+355
+00:16:13,540 --> 00:16:15,540
+or the field itself
+
+356
+00:16:15,540 --> 00:16:18,540
+lead to linear equations,
+
+357
+00:16:18,540 --> 00:16:21,540
+and things which are higher powers than quadratic
+
+358
+00:16:21,540 --> 00:16:23,540
+lead to nonlinear equations.
+
+359
+00:16:23,540 --> 00:16:26,540
+Nonlinear equations mean solutions don't add.
+
+360
+00:16:26,540 --> 00:16:28,540
+First, let's take the case of the law of Newton.
+
+361
+00:16:28,540 --> 00:16:30,540
+It's a linear equation.
+
+362
+00:16:30,540 --> 00:16:31,540
+If we have linear equations,
+
+363
+00:16:31,540 --> 00:16:33,540
+and let's suppose we have some wave
+
+364
+00:16:33,540 --> 00:16:35,540
+moving down an axis.
+
+365
+00:16:35,540 --> 00:16:37,540
+It's a solution.
+
+366
+00:16:37,540 --> 00:16:39,540
+And now we have another wave
+
+367
+00:16:39,540 --> 00:16:42,540
+superimposed, well, they're not superimposed yet,
+
+368
+00:16:42,540 --> 00:16:45,540
+it's another wave packet from the same field
+
+369
+00:16:45,540 --> 00:16:48,540
+moving to the left instead of the right,
+
+370
+00:16:48,540 --> 00:16:50,540
+and they pass each other.
+
+371
+00:16:50,540 --> 00:16:54,540
+Well, if the equations of motion are linear,
+
+372
+00:16:54,540 --> 00:16:56,540
+they will just go right through each other.
+
+373
+00:16:56,540 --> 00:16:57,540
+That's the nature of linear equations.
+
+374
+00:16:57,540 --> 00:17:00,540
+They'll just go right through each other,
+
+375
+00:17:00,540 --> 00:17:04,540
+and the solution will remain just after...
+
+376
+00:17:04,540 --> 00:17:06,540
+What this is is a certain solution,
+
+377
+00:17:06,540 --> 00:17:08,540
+what this is is a certain solution,
+
+378
+00:17:08,540 --> 00:17:10,540
+and the sum of the two solutions
+
+379
+00:17:10,540 --> 00:17:12,540
+is just nothing but the two wave packets
+
+380
+00:17:12,540 --> 00:17:14,540
+coming at each other.
+
+381
+00:17:14,540 --> 00:17:16,540
+For all time, the solutions will just remain
+
+382
+00:17:16,540 --> 00:17:18,540
+the sums of the original two solutions,
+
+383
+00:17:18,540 --> 00:17:20,040
+and all that will happen is
+
+384
+00:17:20,040 --> 00:17:21,540
+they'll pass right through each other
+
+385
+00:17:21,540 --> 00:17:23,540
+and come out the other end
+
+386
+00:17:23,540 --> 00:17:25,540
+without scattering, without deforming,
+
+387
+00:17:25,540 --> 00:17:27,540
+and that's it.
+
+388
+00:17:27,540 --> 00:17:29,540
+During the time that they pass through each other,
+
+389
+00:17:29,540 --> 00:17:31,540
+there may be some interference,
+
+390
+00:17:31,540 --> 00:17:33,540
+but then they'll pass through each other
+
+391
+00:17:33,540 --> 00:17:36,540
+and the two wave packets will separate.
+
+392
+00:17:36,540 --> 00:17:38,540
+Separate undeformed.
+
+393
+00:17:38,540 --> 00:17:41,540
+On the other hand, if there are nonlinearities
+
+394
+00:17:41,540 --> 00:17:43,540
+in the equations of motion,
+
+395
+00:17:43,540 --> 00:17:46,540
+that means the wave packets scatter.
+
+396
+00:17:46,540 --> 00:17:48,540
+They influence each other, and they might
+
+397
+00:17:48,540 --> 00:17:50,540
+not only scatter, they might break up,
+
+398
+00:17:50,540 --> 00:17:52,540
+they might do all kinds of things,
+
+399
+00:17:52,540 --> 00:17:54,540
+much more complicated,
+
+400
+00:17:54,540 --> 00:17:57,540
+and that creates a situation
+
+401
+00:17:57,540 --> 00:17:59,540
+that creates scattering in particular,
+
+402
+00:17:59,540 --> 00:18:01,540
+scattering of waves which will go off
+
+403
+00:18:01,540 --> 00:18:04,540
+in random directions, whatever.
+
+404
+00:18:04,540 --> 00:18:07,540
+Okay, so that's what nonlinearities,
+
+405
+00:18:07,540 --> 00:18:09,540
+higher powers do here.
+
+406
+00:18:09,540 --> 00:18:12,540
+It causes the wave packets to be nonlinear
+
+407
+00:18:12,540 --> 00:18:14,540
+and to scatter.
+
+408
+00:18:14,540 --> 00:18:18,540
+Another example, just to show you what you can do,
+
+409
+00:18:18,540 --> 00:18:21,540
+is you might have two fields.
+
+410
+00:18:21,540 --> 00:18:23,540
+For simplicity, two scalar fields.
+
+411
+00:18:23,540 --> 00:18:26,540
+To make two scalar fields,
+
+412
+00:18:27,540 --> 00:18:34,540
+we would take just these terms here
+
+413
+00:18:34,540 --> 00:18:37,540
+and write, let's call it two fields,
+
+414
+00:18:37,540 --> 00:18:40,540
+phi and give me another letter.
+
+415
+00:18:40,540 --> 00:18:43,540
+Another Greek letter.
+
+416
+00:18:43,540 --> 00:18:45,540
+Sigma. Rho.
+
+417
+00:18:45,540 --> 00:18:47,540
+Okay, let's take phi and rho.
+
+418
+00:18:47,540 --> 00:18:49,540
+So another possibility for Lagrangian.
+
+419
+00:18:49,540 --> 00:18:51,540
+I'm not, there's nothing special about these.
+
+420
+00:18:51,540 --> 00:18:54,540
+I'm just writing down random things.
+
+421
+00:18:54,540 --> 00:18:56,540
+One half,
+
+422
+00:18:56,540 --> 00:18:59,540
+d mu phi squared.
+
+423
+00:18:59,540 --> 00:19:01,540
+That's the same thing I've written here.
+
+424
+00:19:01,540 --> 00:19:03,540
+I've just shortened it up and made it simple.
+
+425
+00:19:03,540 --> 00:19:05,040
+That stands for phi dot
+
+426
+00:19:05,040 --> 00:19:06,540
+squared minus the derivative of phi
+
+427
+00:19:06,540 --> 00:19:08,540
+with respect to x squared and so forth,
+
+428
+00:19:08,540 --> 00:19:10,540
+just to give it a shorthand.
+
+429
+00:19:10,540 --> 00:19:12,040
+We do the same thing,
+
+430
+00:19:12,040 --> 00:19:13,540
+what do we call it, rho?
+
+431
+00:19:13,540 --> 00:19:18,540
+d mu rho squared.
+
+432
+00:19:18,540 --> 00:19:21,540
+And then we can add something which,
+
+433
+00:19:21,540 --> 00:19:24,540
+some v, some potential energy,
+
+434
+00:19:24,540 --> 00:19:28,540
+which depends on both phi and rho.
+
+435
+00:19:28,540 --> 00:19:30,540
+Okay, so this could be some phi and rho.
+
+436
+00:19:30,540 --> 00:19:32,540
+Let's take an example.
+
+437
+00:19:32,540 --> 00:19:38,540
+It could be an m squared phi squared over two.
+
+438
+00:19:38,540 --> 00:19:43,540
+Some other constant, let's call it capital M squared,
+
+439
+00:19:43,540 --> 00:19:48,540
+rho squared over two minus.
+
+440
+00:19:48,540 --> 00:19:50,540
+If that's all I had,
+
+441
+00:19:50,540 --> 00:19:52,540
+supposing that was all I had,
+
+442
+00:19:52,540 --> 00:19:55,540
+then the field equations would be uncoupled,
+
+443
+00:19:55,540 --> 00:19:58,540
+separate field equations for phi and rho.
+
+444
+00:19:58,540 --> 00:20:01,540
+Doing this operation on phi,
+
+445
+00:20:01,540 --> 00:20:05,540
+we would get phi double dot
+
+446
+00:20:05,540 --> 00:20:08,040
+minus the second derivative of phi with
+
+447
+00:20:08,040 --> 00:20:10,540
+respect to x squared dot dot dot
+
+448
+00:20:10,540 --> 00:20:15,540
+is equal to m squared minus m squared phi.
+
+449
+00:20:15,540 --> 00:20:18,540
+And we get the same kind of thing for rho.
+
+450
+00:20:18,540 --> 00:20:22,540
+Rho double dot minus d second rho by dx squared.
+
+451
+00:20:22,540 --> 00:20:29,540
+dot dot dot equals minus big M squared rho.
+
+452
+00:20:29,540 --> 00:20:32,040
+In other words, we would just
+
+453
+00:20:32,040 --> 00:20:34,540
+get two separate independent wave equations
+
+454
+00:20:34,540 --> 00:20:36,540
+with two different parameters, little
+
+455
+00:20:36,540 --> 00:20:38,540
+m squared and big M squared,
+
+456
+00:20:38,540 --> 00:20:41,040
+and the two parameters would correspond to
+
+457
+00:20:41,040 --> 00:20:43,540
+the masses of the two distinct fields,
+
+458
+00:20:43,540 --> 00:20:46,040
+or to the quanta, the masses of
+
+459
+00:20:46,040 --> 00:20:48,540
+the quanta of the two distinct fields.
+
+460
+00:20:48,540 --> 00:20:51,540
+This would be a system of two kinds of particles,
+
+461
+00:20:51,540 --> 00:20:54,540
+phi quanta and rho quanta,
+
+462
+00:20:54,540 --> 00:20:56,540
+with two different masses, m and
+
+463
+00:20:56,540 --> 00:20:58,540
+big M, little m and big M.
+
+464
+00:20:58,540 --> 00:21:00,540
+Now we could add something more complicated.
+
+465
+00:21:00,540 --> 00:21:03,540
+We could add, for example,
+
+466
+00:21:03,540 --> 00:21:06,540
+let's add rho times phi squared.
+
+467
+00:21:06,540 --> 00:21:10,540
+Again, picked at random, nothing special about this.
+
+468
+00:21:10,540 --> 00:21:14,540
+When I work out the equation of motion for phi,
+
+469
+00:21:14,540 --> 00:21:17,040
+we have on the right-hand side the
+
+470
+00:21:17,040 --> 00:21:19,540
+derivative of v with respect to phi.
+
+471
+00:21:19,540 --> 00:21:20,540
+What is the derivative of v?
+
+472
+00:21:20,540 --> 00:21:24,040
+The derivative of v with respect
+
+473
+00:21:24,040 --> 00:21:27,540
+to phi, well, it's just equal to,
+
+474
+00:21:27,540 --> 00:21:30,540
+I'll put minus here,
+
+475
+00:21:30,540 --> 00:21:34,040
+the derivative of v with respect
+
+476
+00:21:34,040 --> 00:21:37,540
+to phi is just twice rho phi,
+
+477
+00:21:37,540 --> 00:21:42,540
+differentiating phi squared just gives me twice phi.
+
+478
+00:21:42,540 --> 00:21:46,540
+On the other hand, the equation of motion for rho,
+
+479
+00:21:46,540 --> 00:21:47,540
+we have to put on the
+
+480
+00:21:47,540 --> 00:21:48,540
+right-hand side minus the derivative of v
+
+481
+00:21:48,540 --> 00:21:52,040
+with respect to rho, and that's
+
+482
+00:21:52,040 --> 00:21:55,540
+just equal to minus phi squared.
+
+483
+00:21:55,540 --> 00:21:58,540
+Okay, so here we see an
+
+484
+00:21:58,540 --> 00:22:01,540
+example of an interaction between two fields,
+
+485
+00:22:01,540 --> 00:22:05,540
+a term in the Lagrangian which involves both fields.
+
+486
+00:22:05,540 --> 00:22:08,040
+If a term in the Lagrangian
+
+487
+00:22:08,040 --> 00:22:10,540
+involves both fields in some nontrivial way,
+
+488
+00:22:10,540 --> 00:22:13,540
+the result will be that the
+
+489
+00:22:13,540 --> 00:22:16,540
+wave equation for phi will contain rho,
+
+490
+00:22:16,540 --> 00:22:18,540
+and the wave equation for phi will contain rho.
+
+491
+00:22:18,540 --> 00:22:20,540
+The equation for rho will contain phi.
+
+492
+00:22:20,540 --> 00:22:23,540
+If in addition this is not
+
+493
+00:22:23,540 --> 00:22:26,540
+quadratic, then the equations are nonlinear,
+
+494
+00:22:26,540 --> 00:22:28,540
+they're nonlinear and coupled.
+
+495
+00:22:28,540 --> 00:22:31,040
+That means that a wave packet of
+
+496
+00:22:31,040 --> 00:22:33,540
+phi will scatter a wave packet of rho,
+
+497
+00:22:33,540 --> 00:22:35,040
+and a wave packet of rho
+
+498
+00:22:35,040 --> 00:22:36,540
+will scatter a wave packet of phi.
+
+499
+00:22:36,540 --> 00:22:41,040
+They'll come together and do things
+
+500
+00:22:41,040 --> 00:22:45,540
+and not just pass through each other.
+
+501
+00:22:45,540 --> 00:22:47,040
+Okay, if this term is zero,
+
+502
+00:22:47,040 --> 00:22:48,540
+they'll just pass through each other.
+
+503
+00:22:48,540 --> 00:22:52,540
+So somehow, the terms in
+
+504
+00:22:52,540 --> 00:22:56,540
+the Lagrangian, like rho phi squared,
+
+505
+00:22:56,540 --> 00:22:58,540
+are telling us something
+
+506
+00:22:58,540 --> 00:23:00,540
+about interaction between the quanta.
+
+507
+00:23:00,540 --> 00:23:02,540
+It's telling us that the quanta
+
+508
+00:23:02,540 --> 00:23:04,540
+of the field scatter each other.
+
+509
+00:23:04,540 --> 00:23:07,540
+That's what a term like this is indicating.
+
+510
+00:23:07,540 --> 00:23:12,540
+These terms here tell us about energy and momentum.
+
+511
+00:23:12,540 --> 00:23:15,540
+This term tells us about mass.
+
+512
+00:23:15,540 --> 00:23:17,540
+If we didn't have this,
+
+513
+00:23:18,540 --> 00:23:20,540
+this nonlinear term,
+
+514
+00:23:20,540 --> 00:23:23,540
+the content of this equation would just be k squared,
+
+515
+00:23:23,540 --> 00:23:27,540
+omega squared equals k squared plus m squared.
+
+516
+00:23:27,540 --> 00:23:29,540
+That's all of these terms.
+
+517
+00:23:29,540 --> 00:23:34,540
+And this term tells us about the interaction between quanta.
+
+518
+00:23:34,540 --> 00:23:36,540
+That's classical physics.
+
+519
+00:23:36,540 --> 00:23:39,540
+That's classical field theory in a nutshell.
+
+520
+00:23:39,540 --> 00:23:41,540
+Let me write down another example for you.
+
+521
+00:23:41,540 --> 00:23:45,540
+Another example is the Dirac equation.
+
+522
+00:23:45,540 --> 00:23:48,540
+Well, first of all, let's consider the Dirac equation.
+
+523
+00:23:48,540 --> 00:23:58,540
+What is the Dirac equation?
+
+524
+00:23:58,540 --> 00:24:03,540
+It has the form...
+
+525
+00:24:03,540 --> 00:24:05,540
+I forget where the i's go.
+
+526
+00:24:05,540 --> 00:24:10,540
+i psi dot is equal to
+
+527
+00:24:10,540 --> 00:24:15,540
+alpha derivative with respect to x.
+
+528
+00:24:15,540 --> 00:24:17,540
+I think there's an i here also.
+
+529
+00:24:17,540 --> 00:24:18,540
+Anybody remember?
+
+530
+00:24:18,540 --> 00:24:19,540
+I think so.
+
+531
+00:24:19,540 --> 00:24:21,540
+Plus m beta psi.
+
+532
+00:24:21,540 --> 00:24:23,540
+Beta was a matrix.
+
+533
+00:24:23,540 --> 00:24:26,540
+Alpha was a collection of three matrices.
+
+534
+00:24:26,540 --> 00:24:28,540
+This really means alpha one d by dx one
+
+535
+00:24:28,540 --> 00:24:30,540
+plus alpha two d by dx two and so forth.
+
+536
+00:24:30,540 --> 00:24:32,540
+That was the Dirac equation.
+
+537
+00:24:32,540 --> 00:24:34,540
+Can it be written in terms of Lagrangian?
+
+538
+00:24:34,540 --> 00:24:36,540
+Yes, it can be written in terms of Lagrangian.
+
+539
+00:24:36,540 --> 00:24:38,540
+But it's not the only one.
+
+540
+00:24:38,540 --> 00:24:39,540
+It's the other one.
+
+541
+00:24:39,540 --> 00:24:40,540
+It's the other one.
+
+542
+00:24:40,540 --> 00:24:41,540
+It's the other one.
+
+543
+00:24:41,540 --> 00:24:42,540
+It's the other one.
+
+544
+00:24:42,540 --> 00:24:43,540
+It's the other one.
+
+545
+00:24:43,540 --> 00:24:44,540
+It's the other one.
+
+546
+00:24:44,540 --> 00:24:46,540
+This is going to be written in terms of Lagrangian.
+
+547
+00:24:46,540 --> 00:24:55,540
+The Lagrangian is just...
+
+548
+00:24:55,540 --> 00:24:58,540
+I think it's i psi dagger
+
+549
+00:24:58,540 --> 00:25:01,540
+derivative of psi with respect to t.
+
+550
+00:25:01,540 --> 00:25:05,540
+Psi dagger is the complex conjugate of psi.
+
+551
+00:25:05,540 --> 00:25:07,540
+Plus, I think it's plus.
+
+552
+00:25:07,540 --> 00:25:09,540
+It's not very important.
+
+553
+00:25:09,540 --> 00:25:14,540
+Psi dagger alpha derivative of psi with respect to x.
+
+554
+00:25:14,540 --> 00:25:23,820
+and then finally plus psi dagger beta psi times m.
+
+555
+00:25:26,820 --> 00:25:29,180
+You'll sometimes see this is the Lagrangian.
+
+556
+00:25:29,440 --> 00:25:33,159
+This Lagrangian, if you do the same operations on it,
+
+557
+00:25:33,740 --> 00:25:35,260
+will give you the Dirac equation.
+
+558
+00:25:35,820 --> 00:25:38,060
+That's the Lagrangian for the Dirac equation.
+
+559
+00:25:38,600 --> 00:25:39,700
+We don't have to go through it.
+
+560
+00:25:39,720 --> 00:25:41,480
+It's not important for us right now.
+
+561
+00:25:41,480 --> 00:25:44,160
+I just want to indicate that there is a Lagrangian
+
+562
+00:25:44,160 --> 00:25:46,340
+which generates the Dirac equation
+
+563
+00:25:46,340 --> 00:25:49,580
+the same way that the scalar field equation
+
+564
+00:25:49,580 --> 00:25:52,120
+was generated from the Lagrangian of the scalar field.
+
+565
+00:25:53,160 --> 00:25:54,750
+It's got Dirac matrices in it,
+
+566
+00:25:54,750 --> 00:25:56,340
+so it's a little more complicated.
+
+567
+00:25:56,820 --> 00:25:58,480
+It's a multi-component field,
+
+568
+00:25:58,920 --> 00:26:03,220
+but nevertheless that Dirac field is generated,
+
+569
+00:26:04,120 --> 00:26:06,100
+or the Dirac wave equation
+
+570
+00:26:06,100 --> 00:26:08,080
+is generated from this Lagrangian.
+
+571
+00:26:10,080 --> 00:26:11,460
+This would just give you...
+
+572
+00:26:11,480 --> 00:26:13,480
+the ordinary Dirac equation.
+
+573
+00:26:13,940 --> 00:26:16,640
+Now, supposing there was another field in the problem,
+
+574
+00:26:17,520 --> 00:26:18,960
+possibly a scalar field,
+
+575
+00:26:18,960 --> 00:26:20,960
+a scalar field, a boson field.
+
+576
+00:26:21,480 --> 00:26:22,480
+How might you...
+
+577
+00:26:23,260 --> 00:26:25,130
+You would then add in also
+
+578
+00:26:25,130 --> 00:26:27,000
+the Lagrangian for the scalar field.
+
+579
+00:26:27,720 --> 00:26:28,720
+In other words,
+
+580
+00:26:29,600 --> 00:26:30,200
+where is it?
+
+581
+00:26:31,420 --> 00:26:34,000
+The scalar field Lagrangian, maybe with just the m squared,
+
+582
+00:26:34,000 --> 00:26:37,120
+or maybe the m cubed, the phi cubed term.
+
+583
+00:26:37,420 --> 00:26:39,940
+Is that parenthesis in the right place?
+
+584
+00:26:39,940 --> 00:26:41,460
+I mean, you have the i over the whole thing?
+
+585
+00:26:41,480 --> 00:26:43,480
+I don't remember. Maybe not.
+
+586
+00:26:43,480 --> 00:26:46,480
+Is it important? Not important. Not important to us.
+
+587
+00:26:46,480 --> 00:26:50,480
+The important thing is that we can
+
+588
+00:26:50,480 --> 00:26:54,480
+couple the Dirac field to the scalar field,
+
+589
+00:26:54,480 --> 00:26:56,980
+which essentially means make the
+
+590
+00:26:56,980 --> 00:26:59,480
+scalar field scatter the Dirac field,
+
+591
+00:26:59,480 --> 00:27:02,480
+the Dirac field scatter the scalar field,
+
+592
+00:27:02,480 --> 00:27:05,480
+by putting terms in Lagrangian which couple them together.
+
+593
+00:27:05,480 --> 00:27:08,480
+For example, something like side dagger.
+
+594
+00:27:08,480 --> 00:27:10,480
+Now, I'm writing something that won't work.
+
+595
+00:27:10,480 --> 00:27:11,480
+Side dagger.
+
+596
+00:27:11,480 --> 00:27:13,480
+Side dagger times side.
+
+597
+00:27:13,480 --> 00:27:17,480
+It'll work, but it's not Lorentz invariant.
+
+598
+00:27:17,480 --> 00:27:21,480
+Side dagger times psi times phi.
+
+599
+00:27:23,480 --> 00:27:25,480
+Now, this is not really quite
+
+600
+00:27:25,480 --> 00:27:27,480
+legitimate because it's not Lorentz invariant.
+
+601
+00:27:27,480 --> 00:27:29,480
+If you wanted to make it Lorentz invariant,
+
+602
+00:27:29,480 --> 00:27:31,480
+I'm not going to explain this tonight.
+
+603
+00:27:32,480 --> 00:27:34,480
+We'll have to go back
+
+604
+00:27:34,480 --> 00:27:36,480
+to some of the Dirac matrixology,
+
+605
+00:27:36,480 --> 00:27:39,480
+but you would just put in a beta in here.
+
+606
+00:27:39,480 --> 00:27:41,480
+That would make it Lorentz invariant.
+
+607
+00:27:41,480 --> 00:27:43,480
+The beta is just a matrix.
+
+608
+00:27:43,480 --> 00:27:46,480
+It doesn't change the structure in the appreciable way.
+
+609
+00:27:46,480 --> 00:27:49,480
+It's product of two sies times a phi.
+
+610
+00:27:49,480 --> 00:27:52,480
+And that would give you an interesting field theory
+
+611
+00:27:52,480 --> 00:27:57,480
+where phi fields scatter psi and psi fields scatter phi,
+
+612
+00:27:57,480 --> 00:28:00,480
+and the whole thing is a big interacting mess.
+
+613
+00:28:00,480 --> 00:28:03,480
+When the phi's come on sies, they scatter each other.
+
+614
+00:28:03,480 --> 00:28:05,480
+Is that the same beta as the other beta?
+
+615
+00:28:05,480 --> 00:28:07,480
+Yeah, it's the same beta.
+
+616
+00:28:07,480 --> 00:28:09,480
+It's the same beta.
+
+617
+00:28:09,480 --> 00:28:12,480
+Right. Notice, side dagger psi times m,
+
+618
+00:28:12,480 --> 00:28:16,480
+and side dagger psi, same beta, times phi.
+
+619
+00:28:16,480 --> 00:28:18,980
+So it's almost as though m was
+
+620
+00:28:18,980 --> 00:28:21,480
+being replaced by a scalar field here.
+
+621
+00:28:23,480 --> 00:28:26,480
+This is the way...
+
+622
+00:28:26,480 --> 00:28:29,480
+Oh, if you took this Lagrangian,
+
+623
+00:28:29,480 --> 00:28:32,480
+it would generate both the equations
+
+624
+00:28:32,480 --> 00:28:35,480
+of motion for psi and for phi.
+
+625
+00:28:36,480 --> 00:28:38,480
+There would be a Dirac equation
+
+626
+00:28:38,480 --> 00:28:41,480
+with an extra term proportional to phi
+
+627
+00:28:41,480 --> 00:28:44,480
+and a scalar field equation with an extra
+
+628
+00:28:44,480 --> 00:28:47,480
+term that would have psi bar psi in it.
+
+629
+00:28:47,480 --> 00:28:49,480
+So this is the pattern.
+
+630
+00:28:49,480 --> 00:28:53,480
+This is the way quantum field theories are expressed.
+
+631
+00:28:54,480 --> 00:28:58,480
+They're codified by writing down a Lagrangian.
+
+632
+00:28:58,480 --> 00:29:02,480
+Lagrangian is a thing which, in a very simple way,
+
+633
+00:29:02,480 --> 00:29:05,480
+expresses all of the content, all of the dynamics,
+
+634
+00:29:05,480 --> 00:29:08,480
+all of the interactions between these fields.
+
+635
+00:29:08,480 --> 00:29:13,480
+All right, that's classical field theory.
+
+636
+00:29:13,480 --> 00:29:15,480
+Classical wave packets scattering
+
+637
+00:29:15,480 --> 00:29:17,480
+other classical wave packets.
+
+638
+00:29:17,480 --> 00:29:19,480
+What about quantum field theory?
+
+639
+00:29:19,480 --> 00:29:23,480
+All right, so I want to tell you very briefly
+
+640
+00:29:23,480 --> 00:29:29,480
+what this has to do with interaction between particles.
+
+641
+00:29:29,480 --> 00:29:33,480
+We've already talked at length
+
+642
+00:29:33,480 --> 00:29:36,480
+about the scattering of particles and how it is represented.
+
+643
+00:29:36,480 --> 00:29:37,480
+For example,
+
+644
+00:29:38,480 --> 00:29:40,480
+by products of fields.
+
+645
+00:29:40,480 --> 00:29:42,980
+Fields are built up out
+
+646
+00:29:42,980 --> 00:29:45,480
+of creation and annihilation operators.
+
+647
+00:29:45,480 --> 00:29:48,480
+So if you take a field,
+
+648
+00:29:48,480 --> 00:29:50,480
+for example,
+
+649
+00:29:50,480 --> 00:29:52,980
+and, I don't know, let's
+
+650
+00:29:52,980 --> 00:29:55,480
+take a simple example, phi cubed.
+
+651
+00:29:56,480 --> 00:29:58,480
+What does that represent
+
+652
+00:29:58,480 --> 00:30:00,480
+when you think about it in
+
+653
+00:30:00,480 --> 00:30:02,480
+terms of creation and annihilation operators?
+
+654
+00:30:02,480 --> 00:30:06,480
+Phi will contain both creation operators,
+
+655
+00:30:06,480 --> 00:30:08,480
+let's call them A pluses,
+
+656
+00:30:08,480 --> 00:30:09,480
+plus A minuses.
+
+657
+00:30:09,480 --> 00:30:11,480
+This is very schematic.
+
+658
+00:30:11,480 --> 00:30:13,480
+No detail.
+
+659
+00:30:13,480 --> 00:30:17,480
+It will contain various creation and annihilation operators.
+
+660
+00:30:17,480 --> 00:30:18,980
+And when it's cubed, it
+
+661
+00:30:18,980 --> 00:30:20,480
+will contain all kinds of terms.
+
+662
+00:30:20,480 --> 00:30:24,480
+Terms which can absorb or annihilate three particles.
+
+663
+00:30:24,480 --> 00:30:27,480
+That's the A minus cubed term.
+
+664
+00:30:27,480 --> 00:30:29,480
+Terms which can create three particles.
+
+665
+00:30:29,480 --> 00:30:31,980
+Terms which can eat two particles and
+
+666
+00:30:31,980 --> 00:30:34,480
+spit out a third, and so forth.
+
+667
+00:30:34,480 --> 00:30:37,480
+So phi cubed has a meaning
+
+668
+00:30:37,480 --> 00:30:42,480
+in terms of particles coming in and particles going out.
+
+669
+00:30:45,480 --> 00:30:48,480
+Particle comes in, two particles go out.
+
+670
+00:30:49,480 --> 00:30:51,480
+At a point x,
+
+671
+00:30:52,480 --> 00:30:54,980
+that's what phi cubed of x represents
+
+672
+00:30:54,980 --> 00:30:57,480
+from a quantum mechanical point of view.
+
+673
+00:30:57,480 --> 00:31:00,980
+Phi cubed of x represents one particle coming
+
+674
+00:31:00,980 --> 00:31:04,480
+in and splitting into two at the point x.
+
+675
+00:31:04,480 --> 00:31:06,480
+But there are many terms
+
+676
+00:31:06,480 --> 00:31:08,480
+in adding up phi cubed of x.
+
+677
+00:31:08,480 --> 00:31:10,980
+The various terms correspond to
+
+678
+00:31:10,980 --> 00:31:13,480
+possible things which look like this.
+
+679
+00:31:13,480 --> 00:31:18,480
+Namely, two particles coming in, one particle going out.
+
+680
+00:31:18,480 --> 00:31:22,480
+There's a possibility of three particles going out.
+
+681
+00:31:22,480 --> 00:31:25,480
+Just produced at the origin.
+
+682
+00:31:25,480 --> 00:31:27,480
+Three particles coming in.
+
+683
+00:31:27,480 --> 00:31:29,480
+What else? Have I missed anything?
+
+684
+00:31:29,480 --> 00:31:31,480
+I think that's it.
+
+685
+00:31:31,480 --> 00:31:34,480
+One particle goes to two, two particles go to one.
+
+686
+00:31:34,480 --> 00:31:41,480
+No particles go to three, and three particles disappear.
+
+687
+00:31:41,480 --> 00:31:43,480
+That's the kind of thing which would
+
+688
+00:31:43,480 --> 00:31:45,480
+be codified by phi cubed of x.
+
+689
+00:31:49,480 --> 00:31:53,480
+In fact, the Lagrangian represents
+
+690
+00:31:53,480 --> 00:31:58,480
+some of the terms represent interactions like this.
+
+691
+00:31:58,480 --> 00:32:02,480
+The other terms, the quadratic terms,
+
+692
+00:32:02,480 --> 00:32:07,480
+the higher powers here represent interactions like this.
+
+693
+00:32:07,480 --> 00:32:10,480
+The quadratic terms, where are they?
+
+694
+00:32:10,480 --> 00:32:13,480
+Phi squared and here.
+
+695
+00:32:13,480 --> 00:32:16,480
+These represent just the motion of a particle
+
+696
+00:32:16,480 --> 00:32:19,480
+and the motion of an undisturbed particle.
+
+697
+00:32:19,480 --> 00:32:21,480
+So let's see how that works.
+
+698
+00:32:22,480 --> 00:32:28,480
+Let's take a term in Lagrangian.
+
+699
+00:32:28,480 --> 00:32:29,480
+Here's a term in Lagrangian.
+
+700
+00:32:29,480 --> 00:32:31,480
+Derivative of phi with respect to x.
+
+701
+00:32:32,480 --> 00:32:36,480
+Let's call it x squared.
+
+702
+00:32:36,480 --> 00:32:38,480
+Let me think of it the following way.
+
+703
+00:32:38,480 --> 00:32:41,480
+The derivative of phi is
+
+704
+00:32:41,480 --> 00:32:44,480
+equal to phi at one point
+
+705
+00:32:44,480 --> 00:32:46,480
+minus phi at a neighboring point.
+
+706
+00:32:46,480 --> 00:32:48,480
+Let's call it x prime.
+
+707
+00:32:48,480 --> 00:32:51,480
+That's what a derivative is, right?
+
+708
+00:32:51,480 --> 00:32:54,980
+A derivative is basically a difference
+
+709
+00:32:54,980 --> 00:32:58,480
+of a field at two neighboring points.
+
+710
+00:32:58,480 --> 00:33:00,480
+And again, schematically.
+
+711
+00:33:00,480 --> 00:33:04,480
+So, squared.
+
+712
+00:33:05,480 --> 00:33:07,980
+That's what phi, derivative of phi
+
+713
+00:33:07,980 --> 00:33:10,480
+with respect to x stands for.
+
+714
+00:33:12,480 --> 00:33:14,480
+This is...
+
+715
+00:33:17,480 --> 00:33:19,480
+Let's put the one half here.
+
+716
+00:33:22,480 --> 00:33:26,480
+Alright, this is one half phi of x squared
+
+717
+00:33:26,480 --> 00:33:29,480
+plus one half phi of x prime squared.
+
+718
+00:33:30,480 --> 00:33:35,480
+But the important point is the
+
+719
+00:33:35,480 --> 00:33:40,480
+term which is phi of x prime.
+
+720
+00:33:42,480 --> 00:33:44,480
+These two terms are not very interesting.
+
+721
+00:33:44,480 --> 00:33:45,480
+What do they do?
+
+722
+00:33:45,480 --> 00:33:47,480
+They absorb a particle at a point
+
+723
+00:33:47,480 --> 00:33:50,480
+and produce another particle at exactly the same point.
+
+724
+00:33:51,480 --> 00:33:54,480
+They might eat two particles at the same point
+
+725
+00:33:54,480 --> 00:33:59,480
+or they might take an incoming particle at point x,
+
+726
+00:33:59,480 --> 00:34:01,480
+absorb it, and then just spit
+
+727
+00:34:01,480 --> 00:34:03,480
+it back out at the same point.
+
+728
+00:34:03,480 --> 00:34:06,480
+So, they don't move the particle around.
+
+729
+00:34:06,480 --> 00:34:07,480
+They just...
+
+730
+00:34:07,480 --> 00:34:10,480
+They're sort of passive, more or less passive.
+
+731
+00:34:10,480 --> 00:34:14,480
+This term here absorbs a particle at x prime
+
+732
+00:34:14,480 --> 00:34:17,480
+and re-emits it at point x.
+
+733
+00:34:17,480 --> 00:34:19,480
+Or vice versa.
+
+734
+00:34:19,480 --> 00:34:21,980
+In other words, what it does is it
+
+735
+00:34:21,980 --> 00:34:24,480
+moves a particle from point x to x prime.
+
+736
+00:34:24,480 --> 00:34:25,480
+It absorbs it.
+
+737
+00:34:25,480 --> 00:34:27,480
+It finds it at x prime.
+
+738
+00:34:27,480 --> 00:34:30,480
+And then re-emits it at point x.
+
+739
+00:34:30,480 --> 00:34:32,480
+So what is it then?
+
+740
+00:34:32,480 --> 00:34:34,480
+It's a...
+
+741
+00:34:34,480 --> 00:34:35,480
+If this is point x
+
+742
+00:34:35,480 --> 00:34:36,480
+and this is point x prime,
+
+743
+00:34:36,480 --> 00:34:40,480
+it just moves a particle from x to x prime.
+
+744
+00:34:49,480 --> 00:34:51,480
+That's the nature of these
+
+745
+00:34:51,480 --> 00:34:53,480
+quadratic terms in the Lagrangian.
+
+746
+00:34:53,480 --> 00:34:55,480
+They move particles from one point to another.
+
+747
+00:34:55,480 --> 00:34:57,480
+If you wanted to imagine
+
+748
+00:34:57,480 --> 00:34:59,480
+the motion of a particle from
+
+749
+00:34:59,480 --> 00:35:01,480
+one point to a distant point,
+
+750
+00:35:01,480 --> 00:35:04,480
+you might simply multiply these terms
+
+751
+00:35:04,480 --> 00:35:07,480
+in the Lagrangian together many times
+
+752
+00:35:08,480 --> 00:35:10,480
+so that the first time would move
+
+753
+00:35:10,480 --> 00:35:12,480
+the particle from x to x prime,
+
+754
+00:35:12,480 --> 00:35:13,980
+next time it would move it
+
+755
+00:35:13,980 --> 00:35:15,480
+from x prime to x double prime,
+
+756
+00:35:15,480 --> 00:35:18,480
+x prime to x triple prime, and so forth.
+
+757
+00:35:18,480 --> 00:35:20,480
+But stated simply,
+
+758
+00:35:20,480 --> 00:35:22,980
+the quadratic terms in the Lagrangian
+
+759
+00:35:22,980 --> 00:35:25,480
+govern the motion of the undisturbed particle.
+
+760
+00:35:25,480 --> 00:35:26,480
+That's what they do.
+
+761
+00:35:27,480 --> 00:35:31,480
+They are connected with free motion of the particle.
+
+762
+00:35:33,480 --> 00:35:36,480
+On the other hand, the nonlinear terms,
+
+763
+00:35:36,480 --> 00:35:37,980
+the nonlinear terms being the
+
+764
+00:35:37,980 --> 00:35:39,480
+terms which are cubic, for example,
+
+765
+00:35:39,480 --> 00:35:41,480
+and you could have higher terms.
+
+766
+00:35:41,480 --> 00:35:42,480
+They could be quartic.
+
+767
+00:35:42,480 --> 00:35:47,480
+They take particles and bring them together and scatter them
+
+768
+00:35:47,480 --> 00:35:50,480
+or annihilate them and create new particles.
+
+769
+00:35:50,480 --> 00:35:52,480
+So that's what the Lagrangian does.
+
+770
+00:35:52,480 --> 00:35:56,480
+As I said, it codifies these interactions, these processes,
+
+771
+00:35:57,480 --> 00:36:00,480
+in a very, very condensed way.
+
+772
+00:36:07,480 --> 00:36:08,480
+Question.
+
+773
+00:36:08,480 --> 00:36:09,480
+Yeah.
+
+774
+00:36:09,480 --> 00:36:11,480
+When you take that to the partial,
+
+775
+00:36:11,480 --> 00:36:14,480
+you don't have to worry about x minus x prime?
+
+776
+00:36:14,480 --> 00:36:15,980
+When you take that to partial,
+
+777
+00:36:15,980 --> 00:36:17,480
+you don't have to provide x?
+
+778
+00:36:17,480 --> 00:36:18,480
+Yeah, we do.
+
+779
+00:36:18,480 --> 00:36:19,480
+Certainly we do.
+
+780
+00:36:19,480 --> 00:36:20,980
+We could call the difference between
+
+781
+00:36:20,980 --> 00:36:22,480
+the distance from x to x prime,
+
+782
+00:36:22,480 --> 00:36:25,480
+let's just call it distance, L,
+
+783
+00:36:25,480 --> 00:36:27,480
+and we put an L squared downstairs.
+
+784
+00:36:27,480 --> 00:36:29,480
+So, right, you do have to
+
+785
+00:36:29,480 --> 00:36:31,480
+put a numerical factor in there.
+
+786
+00:36:31,480 --> 00:36:33,480
+But the numerical factor doesn't change anything.
+
+787
+00:36:33,480 --> 00:36:35,480
+It doesn't change what these things do.
+
+788
+00:36:38,480 --> 00:36:40,480
+A number is just a number.
+
+789
+00:36:40,480 --> 00:36:42,480
+It still has the effect of
+
+790
+00:36:42,480 --> 00:36:44,480
+removing a particle at x prime
+
+791
+00:36:44,480 --> 00:36:46,480
+and making it reappear at x.
+
+792
+00:36:48,480 --> 00:36:50,480
+Well, what does the mass term do?
+
+793
+00:36:50,480 --> 00:36:55,480
+The mass term, which is just m squared phi squared,
+
+794
+00:36:55,480 --> 00:36:57,480
+all of that,
+
+795
+00:36:57,480 --> 00:36:59,480
+it also is sort of like these terms here.
+
+796
+00:36:59,480 --> 00:37:01,480
+It's also something which absorbs and
+
+797
+00:37:01,480 --> 00:37:03,480
+emits a particle at the same point.
+
+798
+00:37:03,480 --> 00:37:06,480
+You can represent it, let me represent it,
+
+799
+00:37:06,480 --> 00:37:09,480
+by saying a particle comes in, m squared over 2,
+
+800
+00:37:09,480 --> 00:37:12,480
+a particle comes in and a particle
+
+801
+00:37:12,480 --> 00:37:15,480
+goes out at the same point x.
+
+802
+00:37:15,480 --> 00:37:18,480
+In comes in and goes out.
+
+803
+00:37:18,480 --> 00:37:21,480
+So this mass term, m squared x squared,
+
+804
+00:37:21,480 --> 00:37:24,480
+doesn't move the particle around.
+
+805
+00:37:24,480 --> 00:37:27,480
+It just absorbs it and re-emits it.
+
+806
+00:37:27,480 --> 00:37:31,480
+Absorbs it or just, it counts particles, really.
+
+807
+00:37:31,480 --> 00:37:33,480
+It just tells you there's a particle there.
+
+808
+00:37:33,480 --> 00:37:37,480
+But strictly speaking, it absorbs a particle
+
+809
+00:37:37,480 --> 00:37:40,480
+and re-emits it from the same point.
+
+810
+00:37:40,480 --> 00:37:48,480
+That's the nature of the mass term.
+
+811
+00:37:48,480 --> 00:37:54,480
+Now, we are, of course, drawing diagrams.
+
+812
+00:37:54,480 --> 00:37:56,480
+And these diagrams are really nothing but Feynman diagrams.
+
+813
+00:37:57,480 --> 00:37:59,480
+We're not going to go
+
+814
+00:37:59,480 --> 00:38:01,480
+into the depths of Feynman diagramology.
+
+815
+00:38:01,480 --> 00:38:05,480
+It's not important to where we're going to go.
+
+816
+00:38:05,480 --> 00:38:07,480
+Of course, it is important
+
+817
+00:38:07,480 --> 00:38:09,480
+to really understanding particle physics.
+
+818
+00:38:09,480 --> 00:38:14,480
+But let me just illustrate one more little Feynman diagram.
+
+819
+00:38:14,480 --> 00:38:20,480
+One more diagram describing a particle process.
+
+820
+00:38:20,480 --> 00:38:22,480
+This is an important one.
+
+821
+00:38:22,480 --> 00:38:25,480
+This is the basic process of quantum electrodynamics.
+
+822
+00:38:25,480 --> 00:38:27,480
+Quantum electrodynamics describes a process
+
+823
+00:38:27,480 --> 00:38:31,480
+as a description of electrons and photons.
+
+824
+00:38:31,480 --> 00:38:34,480
+Electrons and photons, electrons
+
+825
+00:38:34,480 --> 00:38:37,480
+described by the Dirac field.
+
+826
+00:38:37,480 --> 00:38:40,480
+Now, first of all, the Dirac field for an electron
+
+827
+00:38:40,480 --> 00:38:44,480
+is composed out of creation of, let's see,
+
+828
+00:38:44,480 --> 00:38:49,480
+phi is itself composed only out of annihilation operators.
+
+829
+00:38:49,480 --> 00:38:51,480
+It's composed out of annihilation operators.
+
+830
+00:38:51,480 --> 00:38:56,480
+So let's write it as C, I guess C minus,
+
+831
+00:38:57,480 --> 00:39:01,480
+but in the expression for psi,
+
+832
+00:39:01,480 --> 00:39:05,480
+there's a sum over all the possible momentum
+
+833
+00:39:05,480 --> 00:39:10,480
+and all the possible momenta and properties of the electron.
+
+834
+00:39:10,480 --> 00:39:13,480
+In particular, there are annihilation operators
+
+835
+00:39:13,480 --> 00:39:17,480
+for particles with positive energy.
+
+836
+00:39:17,480 --> 00:39:19,480
+Let's just write it this way.
+
+837
+00:39:19,480 --> 00:39:22,480
+And also annihilation operators
+
+838
+00:39:22,480 --> 00:39:25,480
+for particles of negative energy.
+
+839
+00:39:27,480 --> 00:39:30,480
+Remember, the Dirac equation has solutions
+
+840
+00:39:30,480 --> 00:39:33,480
+with both positive energy and negative energy.
+
+841
+00:39:33,480 --> 00:39:36,480
+And there are annihilation operators in psi
+
+842
+00:39:36,480 --> 00:39:39,480
+for positive energy and for negative energy.
+
+843
+00:39:39,480 --> 00:39:43,480
+Psi dagger has creation operators, C plus,
+
+844
+00:39:43,480 --> 00:39:51,480
+also for positive energy and for negative energy.
+
+845
+00:39:51,480 --> 00:39:58,480
+That's just what the Dirac equation is.
+
+846
+00:39:58,480 --> 00:40:00,480
+That's what the Dirac field is.
+
+847
+00:40:00,480 --> 00:40:03,480
+Creation operators and annihilation operators.
+
+848
+00:40:03,480 --> 00:40:05,480
+Now we do a little switch.
+
+849
+00:40:05,480 --> 00:40:08,480
+This is the annihilation operator for a particle,
+
+850
+00:40:08,480 --> 00:40:11,480
+for an electron of negative energy.
+
+851
+00:40:11,480 --> 00:40:16,480
+It removes an electron of negative energy,
+
+852
+00:40:16,480 --> 00:40:18,480
+absolutely equivalent to removing
+
+853
+00:40:18,480 --> 00:40:20,480
+a particle of negative energy,
+
+854
+00:40:20,480 --> 00:40:25,480
+is putting in, is adding a particle of,
+
+855
+00:40:25,480 --> 00:40:29,480
+adding an antiparticle of positive energy.
+
+856
+00:40:29,480 --> 00:40:32,480
+The removal of a particle of negative energy
+
+857
+00:40:32,480 --> 00:40:35,480
+is the same as the addition
+
+858
+00:40:35,480 --> 00:40:38,480
+of an antiparticle of positive energy.
+
+859
+00:40:38,480 --> 00:40:40,980
+That's this filling the Dirac C
+
+860
+00:40:40,980 --> 00:40:43,480
+sort of thing and so forth.
+
+861
+00:40:43,480 --> 00:40:46,480
+And so this operator over here,
+
+862
+00:40:46,480 --> 00:40:49,480
+the annihilation operator for particle of negative energy,
+
+863
+00:40:49,480 --> 00:40:51,480
+can be relabeled,
+
+864
+00:40:51,480 --> 00:40:55,480
+it can be relabeled as a creation operator
+
+865
+00:40:55,480 --> 00:41:03,480
+for an antiparticle of positive energy.
+
+866
+00:41:03,480 --> 00:41:08,480
+Let's indicate now that this is for an electron
+
+867
+00:41:08,480 --> 00:41:13,480
+and this is for a positron.
+
+868
+00:41:13,480 --> 00:41:16,480
+Okay, so the Dirac field
+
+869
+00:41:16,480 --> 00:41:19,480
+contains annihilation operators for electrons
+
+870
+00:41:19,480 --> 00:41:22,480
+and creation operators for positrons.
+
+871
+00:41:22,480 --> 00:41:26,480
+Likewise, side dagger contains
+
+872
+00:41:26,480 --> 00:41:30,480
+creation operators for electrons
+
+873
+00:41:30,480 --> 00:41:37,480
+and annihilation operators for positrons.
+
+874
+00:41:37,480 --> 00:41:39,480
+It's just a switch of terminology,
+
+875
+00:41:39,480 --> 00:41:41,980
+a switch of notation to
+
+876
+00:41:41,980 --> 00:41:44,480
+represent the fact that a positron
+
+877
+00:41:44,480 --> 00:41:48,480
+is a hole in the negative energy electron C.
+
+878
+00:41:49,480 --> 00:41:52,480
+Okay, so now let's write down what the basic interaction
+
+879
+00:41:52,480 --> 00:41:54,480
+of quantum electrodynamics is.
+
+880
+00:41:54,480 --> 00:42:00,480
+The basic interaction of quantum electrodynamics
+
+881
+00:42:00,480 --> 00:42:07,480
+involves
+
+882
+00:42:07,480 --> 00:42:12,480
+side dagger, side, and the photon field.
+
+883
+00:42:12,480 --> 00:42:15,480
+The photon field is the electromagnetic field,
+
+884
+00:42:15,480 --> 00:42:17,480
+the vector potential of the photon field.
+
+885
+00:42:17,480 --> 00:42:19,480
+If you want to put things in correctly,
+
+886
+00:42:19,480 --> 00:42:23,480
+the vector potential is a vector,
+
+887
+00:42:23,480 --> 00:42:26,480
+so it needs a vector index.
+
+888
+00:42:26,480 --> 00:42:28,480
+And then we have to make
+
+889
+00:42:28,480 --> 00:42:30,480
+a vector out of side dagger, side.
+
+890
+00:42:30,480 --> 00:42:35,480
+We do that with the Dirac matrices and the...
+
+891
+00:42:35,480 --> 00:42:37,480
+Wow.
+
+892
+00:42:37,480 --> 00:42:39,480
+Let's see, let's write it correctly.
+
+893
+00:42:39,480 --> 00:42:43,480
+It's side dagger, side, times the time component
+
+894
+00:42:43,480 --> 00:42:46,480
+of the vector potential, a naught,
+
+895
+00:42:46,480 --> 00:42:50,480
+plus side dagger alpha, side,
+
+896
+00:42:50,480 --> 00:42:54,480
+times the space components of the electromagnetic field.
+
+897
+00:42:54,480 --> 00:42:57,480
+What is this thing I call A?
+
+898
+00:42:57,480 --> 00:42:59,980
+The thing I call A is
+
+899
+00:42:59,980 --> 00:43:02,480
+just a field operator for photons.
+
+900
+00:43:02,480 --> 00:43:05,480
+It's just a field operator for photons.
+
+901
+00:43:05,480 --> 00:43:07,980
+Photons, of course, are
+
+902
+00:43:07,980 --> 00:43:10,480
+particles which have a directionality,
+
+903
+00:43:10,480 --> 00:43:13,480
+they're polarization.
+
+904
+00:43:13,480 --> 00:43:15,480
+Their polarization is a little vector.
+
+905
+00:43:15,480 --> 00:43:19,480
+So photons have, in addition to a position
+
+906
+00:43:19,480 --> 00:43:21,480
+and a momentum, or a momentum,
+
+907
+00:43:21,480 --> 00:43:23,480
+they have a little orientation.
+
+908
+00:43:23,480 --> 00:43:25,480
+They carry a little flag with them,
+
+909
+00:43:25,480 --> 00:43:26,480
+which points in a certain direction.
+
+910
+00:43:26,480 --> 00:43:28,480
+It's their polarization.
+
+911
+00:43:28,480 --> 00:43:30,480
+And so in other words, they have a
+
+912
+00:43:30,480 --> 00:43:32,480
+little bit of a vector character to them,
+
+913
+00:43:32,480 --> 00:43:34,480
+and that's what this vector is.
+
+914
+00:43:34,480 --> 00:43:37,480
+It's just a polarization of the photon.
+
+915
+00:43:37,480 --> 00:43:42,480
+What does this do?
+
+916
+00:43:42,480 --> 00:43:45,480
+This absorbs an electron,
+
+917
+00:43:45,480 --> 00:43:49,480
+let's see, it absorbs an electron,
+
+918
+00:43:49,480 --> 00:43:52,480
+it can emit a positron,
+
+919
+00:43:52,480 --> 00:43:54,480
+let's see, no, it can emit an electron,
+
+920
+00:43:54,480 --> 00:43:56,480
+let's see, this one times this one,
+
+921
+00:43:56,480 --> 00:43:58,480
+side dagger times side,
+
+922
+00:43:58,480 --> 00:44:03,480
+can absorb an electron and then re-emit the electron,
+
+923
+00:44:03,480 --> 00:44:08,480
+and at the same time, emit a photon.
+
+924
+00:44:08,480 --> 00:44:28,480
+So, this is a little bit of a
+
+925
+00:44:28,480 --> 00:44:30,480
+You can make scalars by multiplying vectors together.
+
+926
+00:44:30,480 --> 00:44:32,480
+Who asked me?
+
+927
+00:44:32,480 --> 00:44:33,480
+Yeah.
+
+928
+00:44:33,480 --> 00:44:34,980
+You make scalars, for example,
+
+929
+00:44:34,980 --> 00:44:36,480
+by multiplying vectors together, right?
+
+930
+00:44:36,480 --> 00:44:37,480
+All right.
+
+931
+00:44:37,480 --> 00:44:39,480
+So, if you have two
+
+932
+00:44:39,480 --> 00:44:41,480
+vectors, b mu and a mu,
+
+933
+00:44:41,480 --> 00:44:45,480
+you can make a scalar like so.
+
+934
+00:44:45,480 --> 00:44:46,480
+Yes?
+
+935
+00:44:46,480 --> 00:44:48,480
+You've got side, side.
+
+936
+00:44:48,480 --> 00:44:50,480
+Yeah, let's, now, let's, now, right.
+
+937
+00:44:50,480 --> 00:44:52,480
+We have a mu, but we don't
+
+938
+00:44:52,480 --> 00:44:54,480
+have a vector composed out of a size.
+
+939
+00:44:54,480 --> 00:44:55,480
+But we do have a
+
+940
+00:44:55,480 --> 00:44:56,480
+vector composed out of a size.
+
+941
+00:44:56,480 --> 00:44:58,980
+So, let me tell you what the
+
+942
+00:44:58,980 --> 00:45:01,480
+vector composed out of a size is.
+
+943
+00:45:01,480 --> 00:45:03,480
+It's just side dagger side
+
+944
+00:45:03,480 --> 00:45:05,480
+is the time component of it,
+
+945
+00:45:05,480 --> 00:45:07,480
+and side dagger alpha side.
+
+946
+00:45:07,480 --> 00:45:10,480
+Is the, is the space component of it.
+
+947
+00:45:10,480 --> 00:45:11,480
+That's it.
+
+948
+00:45:11,480 --> 00:45:13,980
+All right, so, side dagger side
+
+949
+00:45:13,980 --> 00:45:16,480
+gets multiplied by the time component,
+
+950
+00:45:16,480 --> 00:45:18,980
+and side dagger alpha side
+
+951
+00:45:18,980 --> 00:45:21,480
+gets multiplied by the space component.
+
+952
+00:45:21,480 --> 00:45:23,480
+You add them together.
+
+953
+00:45:23,480 --> 00:45:25,480
+Okay?
+
+954
+00:45:25,480 --> 00:45:27,480
+All right, so, that makes a scalar.
+
+955
+00:45:31,480 --> 00:45:34,480
+That makes a scalar, and, uh,
+
+956
+00:45:34,480 --> 00:45:36,480
+Can we go back to that other board?
+
+957
+00:45:37,480 --> 00:45:38,480
+Which one?
+
+958
+00:45:38,480 --> 00:45:41,480
+The one you just covered up by pulling this down.
+
+959
+00:45:41,480 --> 00:45:42,480
+From here?
+
+960
+00:45:42,480 --> 00:45:43,480
+Yeah.
+
+961
+00:45:43,480 --> 00:45:44,480
+Mm-hmm.
+
+962
+00:45:44,480 --> 00:45:45,480
+Yeah.
+
+963
+00:45:45,480 --> 00:45:46,480
+Okay.
+
+964
+00:45:46,480 --> 00:45:47,480
+Thank you.
+
+965
+00:45:47,480 --> 00:45:48,480
+Yeah.
+
+966
+00:45:48,480 --> 00:45:50,480
+Now, what does A have in it?
+
+967
+00:45:50,480 --> 00:45:54,480
+A has creation and annihilation operators for photons.
+
+968
+00:45:54,480 --> 00:45:56,980
+So, what we have here is
+
+969
+00:45:56,980 --> 00:45:59,480
+products of creation and, and, creation op,
+
+970
+00:45:59,480 --> 00:46:01,480
+yeah, let me think.
+
+971
+00:46:01,480 --> 00:46:04,480
+Creation operators for electrons,
+
+972
+00:46:04,480 --> 00:46:06,480
+and annihilation operators for positrons.
+
+973
+00:46:06,480 --> 00:46:07,480
+That's here.
+
+974
+00:46:07,480 --> 00:46:09,480
+Here's annihilation operators for electrons,
+
+975
+00:46:09,480 --> 00:46:12,480
+and creation operators for positrons.
+
+976
+00:46:12,480 --> 00:46:16,480
+And here's creation and annihilation operators for photons.
+
+977
+00:46:16,480 --> 00:46:18,480
+So, it describes a whole
+
+978
+00:46:18,480 --> 00:46:20,480
+variety of different kinds of processes.
+
+979
+00:46:20,480 --> 00:46:21,480
+Let's draw some of them.
+
+980
+00:46:21,480 --> 00:46:24,480
+A whole variety of, of different kinds of processes
+
+981
+00:46:24,480 --> 00:46:26,980
+in which electrons, positrons, and
+
+982
+00:46:26,980 --> 00:46:29,480
+so forth are created and annihilated.
+
+983
+00:46:32,480 --> 00:46:34,480
+For example,
+
+984
+00:46:34,480 --> 00:46:36,480
+it can take an integral,
+
+985
+00:46:36,480 --> 00:46:37,480
+an incoming electron,
+
+986
+00:46:37,480 --> 00:46:39,480
+let's put a little arrow on the electron to show,
+
+987
+00:46:39,480 --> 00:46:42,480
+to show its direction of motion.
+
+988
+00:46:42,480 --> 00:46:44,480
+It can scatter it
+
+989
+00:46:44,480 --> 00:46:47,480
+and emit a photon.
+
+990
+00:46:47,480 --> 00:46:48,480
+What is that?
+
+991
+00:46:48,480 --> 00:46:50,480
+That's an annihilation operator for an electron,
+
+992
+00:46:50,480 --> 00:46:52,480
+a creation operator for the electron,
+
+993
+00:46:52,480 --> 00:46:55,480
+and a creation operator for the photon.
+
+994
+00:46:55,480 --> 00:46:57,480
+That's what this, there it is.
+
+995
+00:46:57,480 --> 00:46:59,480
+All right, we can also have,
+
+996
+00:46:59,480 --> 00:47:02,480
+electron comes in,
+
+997
+00:47:02,480 --> 00:47:04,480
+electron goes out,
+
+998
+00:47:04,480 --> 00:47:06,480
+photon is absorbed by the electron,
+
+999
+00:47:06,480 --> 00:47:08,480
+so here's emission of a photon,
+
+1000
+00:47:08,480 --> 00:47:10,480
+here's absorption of a photon.
+
+1001
+00:47:10,480 --> 00:47:12,480
+Okay, what else can we have?
+
+1002
+00:47:12,480 --> 00:47:14,480
+We can have,
+
+1003
+00:47:14,480 --> 00:47:15,480
+let's label this,
+
+1004
+00:47:15,480 --> 00:47:18,480
+electron, electron, electron, electron.
+
+1005
+00:47:18,480 --> 00:47:23,480
+But, we can also have electron coming in,
+
+1006
+00:47:23,480 --> 00:47:27,480
+and positron coming in.
+
+1007
+00:47:27,480 --> 00:47:29,480
+E minus.
+
+1008
+00:47:29,480 --> 00:47:31,480
+Electron is a negatively charged particle,
+
+1009
+00:47:31,480 --> 00:47:33,480
+we'll call it E minus.
+
+1010
+00:47:33,480 --> 00:47:35,480
+Here we can have an electron coming in,
+
+1011
+00:47:35,480 --> 00:47:37,480
+and a positron coming in.
+
+1012
+00:47:37,480 --> 00:47:39,480
+That's usually drawn in this way.
+
+1013
+00:47:39,480 --> 00:47:43,480
+An electron coming in is drawn with an arrow upward,
+
+1014
+00:47:43,480 --> 00:47:47,480
+a positron coming in is drawn with an arrow downward,
+
+1015
+00:47:47,480 --> 00:47:49,480
+and then, if you draw it that way,
+
+1016
+00:47:49,480 --> 00:47:52,480
+it looks as though the electron just turns around,
+
+1017
+00:47:52,480 --> 00:47:55,480
+but it's not really, that's not really what's going on.
+
+1018
+00:47:55,480 --> 00:47:57,480
+What's going on is an electron is coming in,
+
+1019
+00:47:57,480 --> 00:47:59,480
+and a positron is coming in,
+
+1020
+00:47:59,480 --> 00:48:01,480
+and a photon going off.
+
+1021
+00:48:01,480 --> 00:48:04,480
+That's another thing that's contained in this combination,
+
+1022
+00:48:04,480 --> 00:48:09,480
+when you multiply psi dagger times psi times A.
+
+1023
+00:48:09,480 --> 00:48:11,480
+More, what else?
+
+1024
+00:48:11,480 --> 00:48:19,480
+Electron, positron, being produced by a photon.
+
+1025
+00:48:19,480 --> 00:48:21,980
+All these various processes are contained
+
+1026
+00:48:21,980 --> 00:48:24,480
+in this one single expression here,
+
+1027
+00:48:24,480 --> 00:48:29,480
+psi dagger psi times A.
+
+1028
+00:48:29,480 --> 00:48:30,980
+And they all have the
+
+1029
+00:48:30,980 --> 00:48:32,480
+same coefficient in front of them,
+
+1030
+00:48:32,480 --> 00:48:34,480
+same numerical coefficient,
+
+1031
+00:48:34,480 --> 00:48:37,480
+and so all these processes, the probability for them,
+
+1032
+00:48:37,480 --> 00:48:38,480
+the amplitude for them,
+
+1033
+00:48:38,480 --> 00:48:41,480
+the quantum mechanical amplitude for them,
+
+1034
+00:48:41,480 --> 00:48:43,480
+are all related to each other,
+
+1035
+00:48:43,480 --> 00:48:44,980
+simply by the fact that
+
+1036
+00:48:44,980 --> 00:48:46,480
+the coefficient in front of them
+
+1037
+00:48:46,480 --> 00:48:50,480
+is the same numerical value, whatever it happens to be.
+
+1038
+00:48:50,480 --> 00:48:51,980
+What does it happen to be,
+
+1039
+00:48:51,980 --> 00:48:53,480
+the numerical coefficient in front of us?
+
+1040
+00:48:53,480 --> 00:48:55,480
+I didn't write it down, we should write it down.
+
+1041
+00:48:55,480 --> 00:49:00,480
+No, it's not the fine structure constant, it's close.
+
+1042
+00:49:00,480 --> 00:49:03,480
+It's just the electric charge of the electron.
+
+1043
+00:49:04,480 --> 00:49:06,480
+Yeah, okay.
+
+1044
+00:49:06,480 --> 00:49:09,480
+What is the electric charge of an electron?
+
+1045
+00:49:09,480 --> 00:49:11,480
+The electric charge of a
+
+1046
+00:49:11,480 --> 00:49:13,480
+particle is basically the amplitude,
+
+1047
+00:49:13,480 --> 00:49:16,480
+it's the square root of the probability
+
+1048
+00:49:16,480 --> 00:49:20,480
+that an electron, when it scatters, emits a photon.
+
+1049
+00:49:20,480 --> 00:49:22,480
+An electron at every point along
+
+1050
+00:49:22,480 --> 00:49:24,480
+its trajectory can emit a photon.
+
+1051
+00:49:24,480 --> 00:49:26,980
+The probability per unit time along the
+
+1052
+00:49:26,980 --> 00:49:29,480
+trajectory for it to emit a photon
+
+1053
+00:49:29,480 --> 00:49:33,480
+is, the probability is the square of the electric charge.
+
+1054
+00:49:34,480 --> 00:49:37,480
+So electric charge is the square root of the probability,
+
+1055
+00:49:37,480 --> 00:49:42,480
+it's the amplitude for the photon to be emitted.
+
+1056
+00:49:42,480 --> 00:49:44,480
+Less intuitive.
+
+1057
+00:49:44,480 --> 00:49:45,480
+What's that?
+
+1058
+00:49:45,480 --> 00:49:46,980
+The third one that you just
+
+1059
+00:49:46,980 --> 00:49:48,480
+drew, the photon turning into a,
+
+1060
+00:49:48,480 --> 00:49:50,480
+or the fourth one, the photon turning into a...
+
+1061
+00:49:50,480 --> 00:49:53,480
+Yeah, it's also the probability for that.
+
+1062
+00:49:53,480 --> 00:49:54,480
+It's the same?
+
+1063
+00:49:54,480 --> 00:49:55,480
+Hm?
+
+1064
+00:49:55,480 --> 00:49:56,480
+It's the same?
+
+1065
+00:49:56,480 --> 00:49:58,480
+Yeah, the electric charge.
+
+1066
+00:49:58,480 --> 00:49:59,980
+It has to be some kind
+
+1067
+00:49:59,980 --> 00:50:01,480
+of scaling factor, then, doesn't it?
+
+1068
+00:50:01,480 --> 00:50:02,480
+Scaling factor?
+
+1069
+00:50:02,480 --> 00:50:05,480
+The probability doesn't have a unit.
+
+1070
+00:50:05,480 --> 00:50:08,480
+It's the probability per unit...
+
+1071
+00:50:13,480 --> 00:50:15,480
+It's a dimensionless, it's
+
+1072
+00:50:15,480 --> 00:50:17,480
+actually a dimensionless quantity.
+
+1073
+00:50:18,480 --> 00:50:20,480
+It's a dimensionless quantity.
+
+1074
+00:50:24,480 --> 00:50:27,480
+An example would be an electron
+
+1075
+00:50:27,480 --> 00:50:30,480
+bangs into a wall and says,
+
+1076
+00:50:30,480 --> 00:50:32,480
+stop, stop dead.
+
+1077
+00:50:32,480 --> 00:50:35,480
+What's the probability that it emits a photon?
+
+1078
+00:50:36,480 --> 00:50:39,480
+What's the probability that its energy or its momentum,
+
+1079
+00:50:39,480 --> 00:50:43,480
+its energy goes off as a photon?
+
+1080
+00:50:43,480 --> 00:50:45,480
+Question?
+
+1081
+00:50:45,480 --> 00:50:47,480
+Yeah, so an electron of a
+
+1082
+00:50:47,480 --> 00:50:49,480
+given energy plows into a wall,
+
+1083
+00:50:49,480 --> 00:50:51,480
+is stopped dead.
+
+1084
+00:50:51,480 --> 00:50:53,980
+What's the probability that its momentum
+
+1085
+00:50:53,980 --> 00:50:56,480
+continues in the form of a photon?
+
+1086
+00:50:56,480 --> 00:50:58,980
+And that's the electric, that's
+
+1087
+00:50:58,980 --> 00:51:01,480
+the square of the electric charge.
+
+1088
+00:51:02,480 --> 00:51:05,480
+So that's the meaning of
+
+1089
+00:51:05,480 --> 00:51:08,480
+the electric charge in quantum mechanics.
+
+1090
+00:51:08,480 --> 00:51:11,980
+In classical field theory, it's just a coefficient
+
+1091
+00:51:11,980 --> 00:51:15,480
+in front of the interacting psi and A fields.
+
+1092
+00:51:15,480 --> 00:51:20,480
+Does the electric charge have units?
+
+1093
+00:51:20,480 --> 00:51:23,480
+Uh, no.
+
+1094
+00:51:23,480 --> 00:51:29,480
+Okay.
+
+1095
+00:51:29,480 --> 00:51:33,480
+All right.
+
+1096
+00:51:33,480 --> 00:51:35,480
+Yes.
+
+1097
+00:51:35,480 --> 00:51:38,980
+Look, the units for electric
+
+1098
+00:51:38,980 --> 00:51:42,480
+charge were defined by people who,
+
+1099
+00:51:42,480 --> 00:51:44,980
+well, how much current goes through a wire,
+
+1100
+00:51:44,980 --> 00:51:47,480
+this sort of thing, that sort of thing.
+
+1101
+00:51:47,480 --> 00:51:50,480
+In microscopic quantum mechanics, we usually define
+
+1102
+00:51:50,480 --> 00:51:53,480
+the electric charge in a dimensionless way.
+
+1103
+00:51:53,480 --> 00:51:55,980
+We don't measure it in terms of coulombs, we measure
+
+1104
+00:51:55,980 --> 00:51:58,480
+it just in terms of the charge of an electron,
+
+1105
+00:51:58,480 --> 00:52:02,480
+in units of the charge of the electron.
+
+1106
+00:52:02,480 --> 00:52:04,480
+So it's dimensionless.
+
+1107
+00:52:04,480 --> 00:52:07,480
+But really what it is, it's the dimensionless probability
+
+1108
+00:52:07,480 --> 00:52:09,980
+that a particle which collides
+
+1109
+00:52:09,980 --> 00:52:12,480
+with a wall emits a photon.
+
+1110
+00:52:12,480 --> 00:52:17,480
+And it really is dimensionless.
+
+1111
+00:52:17,480 --> 00:52:19,980
+The only dimensions that you really need
+
+1112
+00:52:19,980 --> 00:52:22,480
+in physics are mass, length, and time.
+
+1113
+00:52:22,480 --> 00:52:24,480
+In fact, you don't need any dimensions.
+
+1114
+00:52:24,480 --> 00:52:27,480
+You can work in dimensionless units for everything.
+
+1115
+00:52:28,480 --> 00:52:30,480
+In Planck units, they're called.
+
+1116
+00:52:30,480 --> 00:52:32,480
+Planck units are dimensionless.
+
+1117
+00:52:32,480 --> 00:52:34,980
+And in Planck units, everything
+
+1118
+00:52:34,980 --> 00:52:37,480
+is dimensionless, including the electric charge.
+
+1119
+00:52:37,480 --> 00:52:39,480
+Is there some use in grouping?
+
+1120
+00:52:39,480 --> 00:52:42,480
+Is there some use in
+
+1121
+00:52:42,480 --> 00:52:45,480
+grouping things that have charge involved?
+
+1122
+00:52:45,480 --> 00:52:46,480
+In grouping?
+
+1123
+00:52:46,480 --> 00:52:47,480
+Yeah.
+
+1124
+00:52:47,480 --> 00:52:48,480
+What does that mean, grouping?
+
+1125
+00:52:48,480 --> 00:52:51,480
+Well, I mean that sometimes you'll
+
+1126
+00:52:51,480 --> 00:52:54,480
+write equations that have several terms
+
+1127
+00:52:54,480 --> 00:52:58,480
+which you can then go through the whole process
+
+1128
+00:52:58,480 --> 00:53:01,480
+and then pull them out by
+
+1129
+00:53:01,480 --> 00:53:04,480
+equating left-hand and right-hand side like terms
+
+1130
+00:53:04,480 --> 00:53:07,480
+on left-hand and right-hand side.
+
+1131
+00:53:07,480 --> 00:53:10,480
+So it sort of has a,
+
+1132
+00:53:10,480 --> 00:53:13,480
+I don't know, I'm just asking.
+
+1133
+00:53:13,480 --> 00:53:15,480
+I can't think of anything like that.
+
+1134
+00:53:19,480 --> 00:53:21,980
+Question about the timing of
+
+1135
+00:53:21,980 --> 00:53:24,480
+the creation of the composition.
+
+1136
+00:53:24,480 --> 00:53:25,480
+The timing?
+
+1137
+00:53:25,480 --> 00:53:26,480
+Is that simultaneously?
+
+1138
+00:53:26,480 --> 00:53:27,480
+Or is there any kind of?
+
+1139
+00:53:28,480 --> 00:53:30,480
+Is there a delay that comes out of the equations?
+
+1140
+00:53:30,480 --> 00:53:34,480
+Not, no, not for these basic fundamental processes.
+
+1141
+00:53:34,480 --> 00:53:36,480
+Not the process, okay.
+
+1142
+00:53:36,480 --> 00:53:40,480
+The, these operators are all
+
+1143
+00:53:40,480 --> 00:53:44,480
+evaluated at the same space-time point.
+
+1144
+00:53:44,480 --> 00:53:46,980
+All at the same space-time point,
+
+1145
+00:53:46,980 --> 00:53:49,480
+which means that the electron is absorbed,
+
+1146
+00:53:49,480 --> 00:53:51,980
+re-emitted, and the photon is
+
+1147
+00:53:51,980 --> 00:53:54,480
+emitted from exactly the same point.
+
+1148
+00:53:54,480 --> 00:53:55,480
+Is that what you're asking?
+
+1149
+00:53:55,480 --> 00:53:56,480
+Yeah.
+
+1150
+00:53:56,480 --> 00:53:57,480
+Yeah, okay.
+
+1151
+00:53:57,480 --> 00:53:59,480
+So that's what I was saying is
+
+1152
+00:53:59,480 --> 00:54:01,480
+you have different kinds of conserved quantities
+
+1153
+00:54:01,480 --> 00:54:03,480
+and they individually have to be conserved.
+
+1154
+00:54:03,480 --> 00:54:05,480
+Oh, yes, that's true.
+
+1155
+00:54:05,480 --> 00:54:07,480
+Yeah, the various conserved quantities
+
+1156
+00:54:07,480 --> 00:54:09,480
+here would include charge, for example.
+
+1157
+00:54:09,480 --> 00:54:12,480
+That has to be conserved.
+
+1158
+00:54:12,480 --> 00:54:15,980
+In fact, the conservation of charge, there's nothing
+
+1159
+00:54:15,980 --> 00:54:19,480
+but the sort of continuity of these arrows.
+
+1160
+00:54:19,480 --> 00:54:21,480
+If we had a process like this,
+
+1161
+00:54:21,480 --> 00:54:23,480
+that would be, what would that be?
+
+1162
+00:54:23,480 --> 00:54:24,980
+That would be an electron coming
+
+1163
+00:54:24,980 --> 00:54:26,480
+in and a positron going out.
+
+1164
+00:54:26,480 --> 00:54:27,480
+No good.
+
+1165
+00:54:27,480 --> 00:54:31,480
+Then a negative charge would turn into a positive charge.
+
+1166
+00:54:31,480 --> 00:54:33,980
+So if we represent the flow
+
+1167
+00:54:33,980 --> 00:54:36,480
+of charge by this arrow here,
+
+1168
+00:54:36,480 --> 00:54:39,480
+then an electron moving vertically
+
+1169
+00:54:39,480 --> 00:54:42,480
+upward, time is upward, of course,
+
+1170
+00:54:42,480 --> 00:54:46,480
+an electron would be represented by an arrow going up,
+
+1171
+00:54:46,480 --> 00:54:50,480
+a positron would be represented by an arrow going down.
+
+1172
+00:54:50,480 --> 00:54:55,480
+We do not allow arrows to come together.
+
+1173
+00:54:55,480 --> 00:54:58,480
+The rule is always through-going arrows.
+
+1174
+00:54:58,480 --> 00:55:01,480
+Arrows come in and go out.
+
+1175
+00:55:01,480 --> 00:55:05,480
+Come in and go out, come in and go out,
+
+1176
+00:55:05,480 --> 00:55:10,480
+and that is tantamount to the conservation of charge.
+
+1177
+00:55:10,480 --> 00:55:16,480
+The conservation of charge is also ensured by the
+
+1178
+00:55:16,480 --> 00:55:22,480
+fact that we have one psi and one psi dagger.
+
+1179
+00:55:22,480 --> 00:55:25,480
+A psi either creates an electron,
+
+1180
+00:55:25,480 --> 00:55:28,480
+or annihilates a positron.
+
+1181
+00:55:28,480 --> 00:55:31,480
+That means, did I say that wrong?
+
+1182
+00:55:31,480 --> 00:55:35,480
+A psi annihilates an electron,
+
+1183
+00:55:35,480 --> 00:55:37,480
+a psi annihilates an electron,
+
+1184
+00:55:37,480 --> 00:55:39,480
+or creates a positron.
+
+1185
+00:55:39,480 --> 00:55:42,480
+In either case, it increases the charge by one unit.
+
+1186
+00:55:42,480 --> 00:55:44,980
+When it annihilates an electron, that
+
+1187
+00:55:44,980 --> 00:55:47,480
+increases the charge by one unit.
+
+1188
+00:55:47,480 --> 00:55:48,980
+When it creates a positron, it
+
+1189
+00:55:48,980 --> 00:55:50,480
+increases the charge by one unit.
+
+1190
+00:55:50,480 --> 00:55:53,480
+Psi dagger does the opposite.
+
+1191
+00:55:53,480 --> 00:55:55,480
+Psi increases the charge by one unit,
+
+1192
+00:55:55,480 --> 00:55:59,480
+psi dagger decreases the charge by one unit.
+
+1193
+00:55:59,480 --> 00:56:03,480
+Whatever this term here governs in the way of processes,
+
+1194
+00:56:03,480 --> 00:56:05,480
+it conserves electric charge.
+
+1195
+00:56:05,480 --> 00:56:15,480
+The term in the box is the Lagrangian in QED?
+
+1196
+00:56:15,480 --> 00:56:17,480
+In QED, yes.
+
+1197
+00:56:17,480 --> 00:56:19,480
+I haven't written the whole thing.
+
+1198
+00:56:19,480 --> 00:56:23,480
+There are also the terms like this,
+
+1199
+00:56:23,480 --> 00:56:27,480
+which govern the photon and the Dirac equation.
+
+1200
+00:56:27,480 --> 00:56:29,480
+These are the interaction terms.
+
+1201
+00:56:29,480 --> 00:56:31,480
+Those are the interaction terms.
+
+1202
+00:56:31,480 --> 00:56:35,480
+I haven't bothered to write the quadratic terms.
+
+1203
+00:56:35,480 --> 00:56:39,480
+I don't think this is technically accurate,
+
+1204
+00:56:39,480 --> 00:56:41,480
+but in my education,
+
+1205
+00:56:41,480 --> 00:56:43,480
+my undergraduate education, classical mechanics,
+
+1206
+00:56:43,480 --> 00:56:44,980
+you always had the feeling that the
+
+1207
+00:56:44,980 --> 00:56:46,480
+Lagrangian was something you could figure out
+
+1208
+00:56:46,480 --> 00:56:48,480
+from understanding the classical physics,
+
+1209
+00:56:48,480 --> 00:56:51,480
+and there's a right answer that you can deduce.
+
+1210
+00:56:51,480 --> 00:56:53,480
+Then a little bit more,
+
+1211
+00:56:53,480 --> 00:56:55,480
+I think I'm hearing you say,
+
+1212
+00:56:55,480 --> 00:56:57,480
+and then what I've done reading on the side,
+
+1213
+00:56:57,480 --> 00:56:59,480
+is that in quantum mechanics,
+
+1214
+00:56:59,480 --> 00:57:01,480
+Lagrangian isn't something you can deduce,
+
+1215
+00:57:01,480 --> 00:57:02,480
+it's something you guess at,
+
+1216
+00:57:02,480 --> 00:57:03,480
+and you find out it's
+
+1217
+00:57:03,480 --> 00:57:04,480
+right by looking at the experiment.
+
+1218
+00:57:04,480 --> 00:57:06,480
+When did you ever deduce
+
+1219
+00:57:06,480 --> 00:57:08,480
+the Lagrangian of classical mechanical systems?
+
+1220
+00:57:08,480 --> 00:57:09,980
+Well, I actually just looked in the
+
+1221
+00:57:09,980 --> 00:57:11,480
+back of my palm in the exam.
+
+1222
+00:57:11,480 --> 00:57:17,480
+Yeah.
+
+1223
+00:57:17,480 --> 00:57:21,480
+But it was something that was defined in my memory,
+
+1224
+00:57:21,480 --> 00:57:22,980
+it was the difference between the
+
+1225
+00:57:22,980 --> 00:57:24,480
+kinetic energy and the potential energy.
+
+1226
+00:57:24,480 --> 00:57:26,480
+Yeah, it is.
+
+1227
+00:57:26,480 --> 00:57:30,480
+In fact, here's kinetic energy of the field,
+
+1228
+00:57:30,480 --> 00:57:33,480
+here's potential energy of the field.
+
+1229
+00:57:33,480 --> 00:57:36,480
+These spatial gradients are a
+
+1230
+00:57:36,480 --> 00:57:39,480
+kind of generalization of kinetic energy.
+
+1231
+00:57:39,480 --> 00:57:41,480
+Kinetic energy means proportional
+
+1232
+00:57:41,480 --> 00:57:43,480
+to square of time derivatives.
+
+1233
+00:57:43,480 --> 00:57:47,480
+Potential energy means no derivatives.
+
+1234
+00:57:47,480 --> 00:57:49,480
+So that's exactly what it is.
+
+1235
+00:57:49,480 --> 00:57:51,480
+Kinetic energy minus potential energy.
+
+1236
+00:57:51,480 --> 00:57:55,480
+And then is it exactly the same in quantum mechanics?
+
+1237
+00:57:55,480 --> 00:57:56,480
+Yeah.
+
+1238
+00:57:56,480 --> 00:57:57,480
+Yeah.
+
+1239
+00:57:57,480 --> 00:57:58,480
+Right.
+
+1240
+00:57:58,480 --> 00:58:00,480
+It is the same in quantum mechanics.
+
+1241
+00:58:00,480 --> 00:58:02,480
+Isn't that a miracle?
+
+1242
+00:58:02,480 --> 00:58:04,480
+No, it's not a miracle.
+
+1243
+00:58:04,480 --> 00:58:07,480
+The quantum mechanical Lagrangian is much more fundamental
+
+1244
+00:58:07,480 --> 00:58:10,480
+than the classical mechanical.
+
+1245
+00:58:10,480 --> 00:58:12,480
+You start with a quantum mechanical system
+
+1246
+00:58:12,480 --> 00:58:14,480
+described by some Lagrangian,
+
+1247
+00:58:14,480 --> 00:58:18,480
+and then in the limit of large numbers of quanta,
+
+1248
+00:58:18,480 --> 00:58:21,480
+you work out its classical behavior.
+
+1249
+00:58:21,480 --> 00:58:25,480
+The remarkable property here is that
+
+1250
+00:58:25,480 --> 00:58:27,480
+if this kind of Lagrangian
+
+1251
+00:58:27,480 --> 00:58:29,480
+here governs the quantum mechanics,
+
+1252
+00:58:29,480 --> 00:58:32,480
+then when you go to the large number of quanta,
+
+1253
+00:58:32,480 --> 00:58:35,480
+it will also govern the classical wave equations.
+
+1254
+00:58:35,480 --> 00:58:38,480
+That's not obvious, but it's true.
+
+1255
+00:58:38,480 --> 00:58:43,480
+As far as how physicists find out what Lagrangians are,
+
+1256
+00:58:43,480 --> 00:58:48,480
+what the Lagrangian systems are,
+
+1257
+00:58:48,480 --> 00:58:50,480
+well, of course, sometimes they guess them
+
+1258
+00:58:50,480 --> 00:58:54,480
+on the basis of deeper theory.
+
+1259
+00:58:54,480 --> 00:58:56,480
+And sometimes they get it right,
+
+1260
+00:58:56,480 --> 00:58:58,480
+and sometimes they don't get it right.
+
+1261
+00:58:58,480 --> 00:59:02,480
+But we know the Lagrangian of quantum electrodynamics
+
+1262
+00:59:02,480 --> 00:59:04,480
+with extreme precision.
+
+1263
+00:59:04,480 --> 00:59:07,480
+We know the Lagrangian of the standard model
+
+1264
+00:59:07,480 --> 00:59:10,480
+of particle physics with extreme precision.
+
+1265
+00:59:10,480 --> 00:59:11,480
+How do we know it?
+
+1266
+00:59:11,480 --> 00:59:13,480
+We know it from experiment.
+
+1267
+00:59:13,480 --> 00:59:16,480
+We know it by colliding particles together
+
+1268
+00:59:16,480 --> 00:59:19,480
+and working out just what kinds of basic interactions
+
+1269
+00:59:19,480 --> 00:59:23,480
+it takes to describe those interactions between particles.
+
+1270
+00:59:23,480 --> 00:59:25,480
+So there's a little bit of an art there,
+
+1271
+00:59:25,480 --> 00:59:28,480
+but when you do collide particles together
+
+1272
+00:59:28,480 --> 00:59:30,480
+and see what comes out,
+
+1273
+00:59:30,480 --> 00:59:34,480
+you are looking pretty directly at these vertices here.
+
+1274
+00:59:34,480 --> 00:59:36,480
+Question in the final diagram is,
+
+1275
+00:59:36,480 --> 00:59:39,480
+is it always the case that if you rotate them,
+
+1276
+00:59:39,480 --> 00:59:41,480
+they'll still be valid?
+
+1277
+00:59:41,480 --> 00:59:42,480
+Yeah.
+
+1278
+00:59:42,480 --> 00:59:45,480
+Rotate from here to here.
+
+1279
+00:59:45,480 --> 00:59:48,480
+Mm-hmm. Yeah.
+
+1280
+00:59:49,480 --> 00:59:52,480
+Rotating means, right.
+
+1281
+00:59:52,480 --> 00:59:54,480
+Yeah.
+
+1282
+00:59:54,480 --> 00:59:55,480
+Right.
+
+1283
+00:59:55,480 --> 00:59:57,480
+I think I left something out.
+
+1284
+00:59:57,480 --> 01:00:00,480
+I left out the possibility that
+
+1285
+01:00:00,480 --> 01:00:04,480
+an electron and a positron can come together
+
+1286
+01:00:04,480 --> 01:00:08,480
+and a photon also be absorbed at the same point.
+
+1287
+01:00:08,480 --> 01:00:10,480
+So you can take any one of these legs
+
+1288
+01:00:10,480 --> 01:00:12,480
+and push them up, push them down,
+
+1289
+01:00:12,480 --> 01:00:15,480
+and it's still a valid, right.
+
+1290
+01:00:15,480 --> 01:00:17,480
+Quite remarkable.
+
+1291
+01:00:17,480 --> 01:00:19,480
+I mean, that one simple thing
+
+1292
+01:00:19,480 --> 01:00:22,480
+can describe all these different processes.
+
+1293
+01:00:30,480 --> 01:00:32,480
+Any questions?
+
+1294
+01:00:32,480 --> 01:00:33,480
+That one that you just did,
+
+1295
+01:00:33,480 --> 01:00:36,480
+that sort of says that the photon comes together
+
+1296
+01:00:36,480 --> 01:00:39,480
+with a positron and an electron
+
+1297
+01:00:39,480 --> 01:00:40,480
+and it results in nothing.
+
+1298
+01:00:40,480 --> 01:00:42,480
+Right.
+
+1299
+01:00:42,480 --> 01:00:45,480
+Well, of course, yeah.
+
+1300
+01:00:47,480 --> 01:00:48,480
+Several lectures back,
+
+1301
+01:00:48,480 --> 01:00:54,480
+I showed you how energy conservation
+
+1302
+01:00:54,480 --> 01:00:58,480
+is derivable by integrating such processes over all time.
+
+1303
+01:00:58,480 --> 01:01:00,480
+Do you remember that?
+
+1304
+01:01:00,480 --> 01:01:02,980
+When we integrated the amplitude
+
+1305
+01:01:02,980 --> 01:01:05,480
+for such a process over time,
+
+1306
+01:01:05,480 --> 01:01:07,480
+we found energy conservation.
+
+1307
+01:01:07,480 --> 01:01:09,480
+When we integrated it over space,
+
+1308
+01:01:09,480 --> 01:01:11,480
+we found momentum conservation.
+
+1309
+01:01:11,480 --> 01:01:14,480
+This is the basic process.
+
+1310
+01:01:14,480 --> 01:01:16,480
+If we took that process
+
+1311
+01:01:16,480 --> 01:01:19,480
+and calculated the amplitude for it
+
+1312
+01:01:19,480 --> 01:01:21,480
+and then integrated it over all the places
+
+1313
+01:01:21,480 --> 01:01:24,480
+where the process could happen,
+
+1314
+01:01:24,480 --> 01:01:26,480
+that integration would ensure
+
+1315
+01:01:26,480 --> 01:01:29,480
+energy and momentum would be conserved.
+
+1316
+01:01:29,480 --> 01:01:31,480
+If energy and momentum is conserved,
+
+1317
+01:01:31,480 --> 01:01:34,480
+this kind of thing can't really happen.
+
+1318
+01:01:34,480 --> 01:01:36,480
+It can't really happen because it would violate
+
+1319
+01:01:36,480 --> 01:01:39,480
+the conservation of energy.
+
+1320
+01:01:39,480 --> 01:01:40,480
+Okay.
+
+1321
+01:01:40,480 --> 01:01:42,480
+So we have a little more work to do
+
+1322
+01:01:42,480 --> 01:01:44,480
+after we've written down this diagram,
+
+1323
+01:01:44,480 --> 01:01:47,480
+expressed an amplitude for it.
+
+1324
+01:01:47,480 --> 01:01:50,480
+We have to integrate it over everywheres
+
+1325
+01:01:50,480 --> 01:01:52,480
+with equal probability,
+
+1326
+01:01:52,480 --> 01:01:55,480
+and that makes sure that energy and momentum are conserved.
+
+1327
+01:01:57,480 --> 01:02:00,480
+Does the converse happen
+
+1328
+01:02:00,480 --> 01:02:02,480
+where out of nothing you get an electron,
+
+1329
+01:02:02,480 --> 01:02:03,480
+positron, and photon?
+
+1330
+01:02:03,480 --> 01:02:05,480
+Yeah, yeah, yeah.
+
+1331
+01:02:10,480 --> 01:02:12,480
+I'm not quite sure what you're saying.
+
+1332
+01:02:12,480 --> 01:02:14,480
+Are you saying that when we integrate,
+
+1333
+01:02:14,480 --> 01:02:18,480
+over time, excluded processes will automatically go away?
+
+1334
+01:02:18,480 --> 01:02:19,480
+Yeah.
+
+1335
+01:02:19,480 --> 01:02:21,480
+It's something to consider.
+
+1336
+01:02:21,480 --> 01:02:23,480
+Okay.
+
+1337
+01:02:23,480 --> 01:02:25,480
+Another question?
+
+1338
+01:02:27,480 --> 01:02:29,480
+Over on the left side,
+
+1339
+01:02:29,480 --> 01:02:31,480
+there are things like the partial of the field
+
+1340
+01:02:31,480 --> 01:02:34,480
+with respect to time and with respect to energy.
+
+1341
+01:02:34,480 --> 01:02:35,480
+The left side of what, here?
+
+1342
+01:02:35,480 --> 01:02:36,480
+Yeah.
+
+1343
+01:02:36,480 --> 01:02:38,480
+And then over on the right side,
+
+1344
+01:02:38,480 --> 01:02:40,480
+the field is expressed in
+
+1345
+01:02:40,480 --> 01:02:42,480
+migration and annihilation operations.
+
+1346
+01:02:42,480 --> 01:02:43,480
+Yes.
+
+1347
+01:02:43,480 --> 01:02:46,480
+Can you take the partial with respect to time
+
+1348
+01:02:46,480 --> 01:02:48,480
+of the creation operator?
+
+1349
+01:02:48,480 --> 01:02:49,480
+No, you don't take the...
+
+1350
+01:02:49,480 --> 01:02:51,480
+Okay, good question.
+
+1351
+01:02:51,480 --> 01:02:53,480
+Remember,
+
+1352
+01:02:53,480 --> 01:02:57,480
+you don't take the derivative of the creation operator.
+
+1353
+01:02:57,480 --> 01:02:59,480
+The field
+
+1354
+01:02:59,480 --> 01:03:02,480
+looks like sums or integrals
+
+1355
+01:03:02,480 --> 01:03:05,480
+of creation operators or annihilation operators
+
+1356
+01:03:05,480 --> 01:03:07,480
+with things like e to the ikx,
+
+1357
+01:03:07,480 --> 01:03:10,480
+e to the minus i omega t, right?
+
+1358
+01:03:10,480 --> 01:03:12,480
+You're differentiating these things,
+
+1359
+01:03:12,480 --> 01:03:14,480
+not these things.
+
+1360
+01:03:14,480 --> 01:03:16,480
+These things don't depend on position.
+
+1361
+01:03:16,480 --> 01:03:18,480
+They're like constants.
+
+1362
+01:03:18,480 --> 01:03:20,480
+Yeah, they're like constants.
+
+1363
+01:03:20,480 --> 01:03:21,480
+They're like constants.
+
+1364
+01:03:21,480 --> 01:03:22,480
+Here's what you're differentiating,
+
+1365
+01:03:22,480 --> 01:03:23,480
+these objects here.
+
+1366
+01:03:23,480 --> 01:03:26,480
+That's why you pull down factors of k and omega
+
+1367
+01:03:26,480 --> 01:03:28,480
+by differentiating.
+
+1368
+01:03:28,480 --> 01:03:30,480
+Okay.
+
+1369
+01:03:30,480 --> 01:03:32,480
+Yeah.
+
+1370
+01:03:36,480 --> 01:03:38,480
+Let me give you another...
+
+1371
+01:03:38,480 --> 01:03:40,480
+some other examples
+
+1372
+01:03:40,480 --> 01:03:42,480
+of interactions
+
+1373
+01:03:42,480 --> 01:03:44,480
+with other kinds of processes.
+
+1374
+01:03:44,480 --> 01:03:46,480
+Other kinds of processes which exist in nature,
+
+1375
+01:03:46,480 --> 01:03:48,480
+which can be described
+
+1376
+01:03:48,480 --> 01:03:50,480
+by this kind of field theory.
+
+1377
+01:03:50,480 --> 01:03:52,480
+Protons, neutrons, and mesons.
+
+1378
+01:03:52,480 --> 01:03:54,480
+Protons, neutrons, and mesons
+
+1379
+01:03:54,480 --> 01:03:56,480
+form a system
+
+1380
+01:03:56,480 --> 01:03:58,480
+which is fairly similar
+
+1381
+01:03:58,480 --> 01:04:00,480
+to quantum electrodynamics,
+
+1382
+01:04:00,480 --> 01:04:02,480
+or similar in spirit.
+
+1383
+01:04:02,480 --> 01:04:04,480
+Protons are fermions.
+
+1384
+01:04:04,480 --> 01:04:06,480
+And they're called
+
+1385
+01:04:06,480 --> 01:04:08,480
+thermonuclear electrons.
+
+1386
+01:04:08,480 --> 01:04:10,480
+And they're called
+
+1387
+01:04:10,480 --> 01:04:12,480
+thermonuclear electrons.
+
+1388
+01:04:12,480 --> 01:04:14,480
+Neutrons are fermions.
+
+1389
+01:04:14,480 --> 01:04:16,480
+They're described by exactly the same kind of fields
+
+1390
+01:04:16,480 --> 01:04:18,480
+as electrons.
+
+1391
+01:04:18,480 --> 01:04:20,480
+So let's give them names.
+
+1392
+01:04:20,480 --> 01:04:22,480
+Psi proton,
+
+1393
+01:04:22,480 --> 01:04:24,480
+psi neutron,
+
+1394
+01:04:24,480 --> 01:04:26,480
+and then the other objects in the theory
+
+1395
+01:04:26,480 --> 01:04:28,480
+are mesons.
+
+1396
+01:04:28,480 --> 01:04:30,480
+Pi mesons are an interesting collection of mesons.
+
+1397
+01:04:30,480 --> 01:04:32,480
+What are pi mesons?
+
+1398
+01:04:32,480 --> 01:04:34,480
+They are...we'll learn
+
+1399
+01:04:34,480 --> 01:04:36,480
+as we go on that they're
+
+1400
+01:04:36,480 --> 01:04:38,480
+quark-antiquark pairs, but we're not interested
+
+1401
+01:04:38,480 --> 01:04:40,480
+in that now. Let's just
+
+1402
+01:04:40,480 --> 01:04:42,480
+think of them as particles.
+
+1403
+01:04:42,480 --> 01:04:44,480
+They're scalar particles.
+
+1404
+01:04:44,480 --> 01:04:46,480
+These are
+
+1405
+01:04:46,480 --> 01:04:48,480
+Dirac particles,
+
+1406
+01:04:48,480 --> 01:04:50,480
+and pions are scalar particles.
+
+1407
+01:04:50,480 --> 01:04:52,480
+They come in three varieties.
+
+1408
+01:04:52,480 --> 01:04:54,480
+Pi plus,
+
+1409
+01:04:54,480 --> 01:04:56,480
+pi minus,
+
+1410
+01:04:56,480 --> 01:04:58,480
+and pi zero.
+
+1411
+01:04:58,480 --> 01:05:00,480
+What is the plus, minus,
+
+1412
+01:05:00,480 --> 01:05:02,480
+and zero? The electric charge.
+
+1413
+01:05:02,480 --> 01:05:04,480
+The electric charge of a pi plus
+
+1414
+01:05:04,480 --> 01:05:06,480
+is plus one unit
+
+1415
+01:05:06,480 --> 01:05:08,480
+in units of electron
+
+1416
+01:05:08,480 --> 01:05:10,480
+charges.
+
+1417
+01:05:10,480 --> 01:05:12,480
+This one is negatively charged, and this one is
+
+1418
+01:05:12,480 --> 01:05:14,480
+electrically neutral.
+
+1419
+01:05:14,480 --> 01:05:16,480
+The proton is positively charged,
+
+1420
+01:05:16,480 --> 01:05:18,480
+the neutron is neutral.
+
+1421
+01:05:18,480 --> 01:05:20,480
+So let me give you examples
+
+1422
+01:05:20,480 --> 01:05:22,480
+of some interactions which
+
+1423
+01:05:22,480 --> 01:05:24,480
+do occur in nature.
+
+1424
+01:05:24,480 --> 01:05:26,480
+There's a Psi dagger proton.
+
+1425
+01:05:26,480 --> 01:05:28,480
+Let's...Psi dagger proton.
+
+1426
+01:05:28,480 --> 01:05:30,480
+Psi neutron.
+
+1427
+01:05:30,480 --> 01:05:32,480
+Let's see now.
+
+1428
+01:05:32,480 --> 01:05:34,480
+Psi neutron
+
+1429
+01:05:34,480 --> 01:05:36,480
+absorbs a neutron
+
+1430
+01:05:36,480 --> 01:05:38,480
+and creates a proton.
+
+1431
+01:05:38,480 --> 01:05:39,480
+Let's see, what do we
+
+1432
+01:05:39,480 --> 01:05:40,480
+have to put here? A pion.
+
+1433
+01:05:40,480 --> 01:05:42,480
+And then
+
+1434
+01:05:42,480 --> 01:05:44,480
+is it pi plus or pi minus?
+
+1435
+01:05:44,480 --> 01:05:46,480
+Let's see. Let's try
+
+1436
+01:05:46,480 --> 01:05:48,480
+pi plus.
+
+1437
+01:05:48,480 --> 01:05:50,480
+Alright.
+
+1438
+01:05:50,480 --> 01:05:52,480
+This absorbs a positively
+
+1439
+01:05:52,480 --> 01:05:54,480
+charged pi meson,
+
+1440
+01:05:54,480 --> 01:05:56,480
+and...oh, I think I have it wrong.
+
+1441
+01:05:56,480 --> 01:05:58,480
+Pi minus.
+
+1442
+01:05:58,480 --> 01:06:00,480
+It absorbs a negatively
+
+1443
+01:06:00,480 --> 01:06:02,480
+charged pi meson,
+
+1444
+01:06:02,480 --> 01:06:04,480
+pi minus,
+
+1445
+01:06:04,480 --> 01:06:06,480
+emits a neutron,
+
+1446
+01:06:08,480 --> 01:06:10,480
+and
+
+1447
+01:06:12,480 --> 01:06:14,480
+absorbs a proton.
+
+1448
+01:06:14,480 --> 01:06:16,480
+Do I have that right? No, I don't.
+
+1449
+01:06:16,480 --> 01:06:18,480
+Absorbs a neutron,
+
+1450
+01:06:20,480 --> 01:06:22,480
+and emits a proton,
+
+1451
+01:06:22,480 --> 01:06:24,480
+and emits a proton,
+
+1452
+01:06:24,480 --> 01:06:26,480
+and this
+
+1453
+01:06:26,480 --> 01:06:28,480
+does not look possible because
+
+1454
+01:06:28,480 --> 01:06:29,480
+it looks like a negative
+
+1455
+01:06:29,480 --> 01:06:30,480
+charge went to a positive charge,
+
+1456
+01:06:30,480 --> 01:06:32,480
+so I think I want a pi plus here.
+
+1457
+01:06:32,480 --> 01:06:34,480
+Okay.
+
+1458
+01:06:34,480 --> 01:06:36,480
+This is one interaction which occurs in nuclear physics.
+
+1459
+01:06:36,480 --> 01:06:38,480
+This is one interaction which occurs between
+
+1460
+01:06:38,480 --> 01:06:40,480
+mesons and
+
+1461
+01:06:40,480 --> 01:06:42,480
+nucleons. Nucleons are protons,
+
+1462
+01:06:42,480 --> 01:06:44,480
+neutrons, and it's described like this.
+
+1463
+01:06:44,480 --> 01:06:46,480
+This, of course, is not a really fundamental
+
+1464
+01:06:46,480 --> 01:06:48,480
+interaction. The real
+
+1465
+01:06:48,480 --> 01:06:50,480
+thing is quarks.
+
+1466
+01:06:50,480 --> 01:06:52,480
+And we're going to break this down
+
+1467
+01:06:52,480 --> 01:06:54,480
+into processes in terms of
+
+1468
+01:06:54,480 --> 01:06:56,480
+quarks, but if we didn't know
+
+1469
+01:06:56,480 --> 01:06:58,480
+about quarks, and when we didn't know
+
+1470
+01:06:58,480 --> 01:07:00,480
+about quarks, we represented
+
+1471
+01:07:00,480 --> 01:07:02,480
+protons and neutrons in terms
+
+1472
+01:07:02,480 --> 01:07:04,480
+of fundamental fields, and pi mesons
+
+1473
+01:07:04,480 --> 01:07:06,480
+in terms of fundamental fields,
+
+1474
+01:07:06,480 --> 01:07:08,480
+and we would write down things like this. What else
+
+1475
+01:07:08,480 --> 01:07:10,480
+can be there?
+
+1476
+01:07:10,480 --> 01:07:12,480
+Psi dagger neutron
+
+1477
+01:07:12,480 --> 01:07:14,480
+psi proton
+
+1478
+01:07:14,480 --> 01:07:16,480
+and pi minus.
+
+1479
+01:07:16,480 --> 01:07:18,480
+This absorbs, let's see,
+
+1480
+01:07:18,480 --> 01:07:20,480
+this absorbs
+
+1481
+01:07:20,480 --> 01:07:22,480
+a pi minus and a
+
+1482
+01:07:22,480 --> 01:07:24,480
+proton
+
+1483
+01:07:24,480 --> 01:07:26,480
+and gives off a neutron.
+
+1484
+01:07:28,480 --> 01:07:30,480
+And
+
+1485
+01:07:30,480 --> 01:07:32,480
+psi dagger proton
+
+1486
+01:07:32,480 --> 01:07:34,480
+psi proton pi zero
+
+1487
+01:07:34,480 --> 01:07:36,480
+and also
+
+1488
+01:07:36,480 --> 01:07:38,480
+psi dagger
+
+1489
+01:07:38,480 --> 01:07:40,480
+neutron
+
+1490
+01:07:40,480 --> 01:07:42,480
+psi neutron and pi zero.
+
+1491
+01:07:42,480 --> 01:07:44,480
+All right, what do these things
+
+1492
+01:07:44,480 --> 01:07:46,480
+describe? They describe
+
+1493
+01:07:46,480 --> 01:07:48,480
+proton goes to
+
+1494
+01:07:48,480 --> 01:07:50,480
+neutron plus a pi
+
+1495
+01:07:50,480 --> 01:07:52,480
+plus, but of course
+
+1496
+01:07:52,480 --> 01:07:54,480
+the same vertex here
+
+1497
+01:07:54,480 --> 01:07:56,480
+describes many processes.
+
+1498
+01:07:56,480 --> 01:07:58,480
+It, uh,
+
+1499
+01:07:58,480 --> 01:08:00,480
+the same one describes
+
+1500
+01:08:00,480 --> 01:08:02,480
+proton
+
+1501
+01:08:02,480 --> 01:08:04,480
+antineutron,
+
+1502
+01:08:04,480 --> 01:08:06,480
+antineutron, antineutron
+
+1503
+01:08:06,480 --> 01:08:08,480
+I'll represent just by a bar,
+
+1504
+01:08:08,480 --> 01:08:10,480
+emitting a pi plus.
+
+1505
+01:08:10,480 --> 01:08:12,480
+A whole variety. You can push the
+
+1506
+01:08:12,480 --> 01:08:14,480
+legs up and down.
+
+1507
+01:08:14,480 --> 01:08:16,479
+When a leg is switched,
+
+1508
+01:08:16,479 --> 01:08:18,479
+you have to replace it by an antiparticle.
+
+1509
+01:08:18,479 --> 01:08:20,479
+So if you take an outgoing neutron
+
+1510
+01:08:20,479 --> 01:08:22,479
+and take that outgoing neutron,
+
+1511
+01:08:22,479 --> 01:08:24,479
+switch it around, there's proton coming
+
+1512
+01:08:24,479 --> 01:08:26,479
+in, it becomes an
+
+1513
+01:08:26,479 --> 01:08:28,479
+antineutron coming in.
+
+1514
+01:08:28,479 --> 01:08:30,479
+The outgoing neutron, when
+
+1515
+01:08:30,479 --> 01:08:32,479
+switched around upside
+
+1516
+01:08:32,479 --> 01:08:34,479
+down, becomes an incoming
+
+1517
+01:08:34,479 --> 01:08:36,479
+antineutron. So here's an
+
+1518
+01:08:36,479 --> 01:08:38,479
+incoming proton, incoming antineutron,
+
+1519
+01:08:38,479 --> 01:08:40,479
+they annihilate each other
+
+1520
+01:08:40,479 --> 01:08:42,479
+and create a positively charged pi meson.
+
+1521
+01:08:42,479 --> 01:08:44,479
+So you can work out
+
+1522
+01:08:44,479 --> 01:08:46,479
+where all the different interactions
+
+1523
+01:08:46,479 --> 01:08:48,479
+that take place between protons,
+
+1524
+01:08:48,479 --> 01:08:50,479
+pions, and neutrons
+
+1525
+01:08:50,479 --> 01:08:52,479
+and basically
+
+1526
+01:08:52,479 --> 01:08:54,479
+all of them can happen
+
+1527
+01:08:54,479 --> 01:08:56,479
+as long as they conserve charge.
+
+1528
+01:08:56,479 --> 01:08:58,479
+As long as they
+
+1529
+01:08:58,479 --> 01:09:00,479
+conserve charge, they all happen.
+
+1530
+01:09:00,479 --> 01:09:02,479
+They're all part of nuclear physics.
+
+1531
+01:09:02,479 --> 01:09:04,479
+All possibilities.
+
+1532
+01:09:04,479 --> 01:09:06,479
+And they're codified in a
+
+1533
+01:09:06,479 --> 01:09:08,479
+small number of terms.
+
+1534
+01:09:08,479 --> 01:09:10,479
+Psi dagger proton, psi neutron pi plus
+
+1535
+01:09:10,479 --> 01:09:12,479
+and so forth. So that's another
+
+1536
+01:09:12,479 --> 01:09:14,479
+example of where this
+
+1537
+01:09:14,479 --> 01:09:16,479
+sort of technology
+
+1538
+01:09:16,479 --> 01:09:18,479
+was important
+
+1539
+01:09:18,479 --> 01:09:20,479
+in the early days before we knew about
+
+1540
+01:09:20,479 --> 01:09:22,479
+quarks.
+
+1541
+01:09:22,479 --> 01:09:24,479
+The fact that the proton
+
+1542
+01:09:24,479 --> 01:09:26,479
+and neutron are made up out of quarks,
+
+1543
+01:09:26,479 --> 01:09:28,479
+well,
+
+1544
+01:09:28,479 --> 01:09:30,479
+the size of the quark
+
+1545
+01:09:30,479 --> 01:09:32,479
+distribution is sort of like an
+
+1546
+01:09:32,479 --> 01:09:34,479
+atom. Like electrons
+
+1547
+01:09:34,479 --> 01:09:36,479
+going around an atom and so forth.
+
+1548
+01:09:36,479 --> 01:09:38,479
+But it's much, much smaller. It's much, much
+
+1549
+01:09:38,479 --> 01:09:40,479
+smaller, the proton. And because
+
+1550
+01:09:40,479 --> 01:09:42,479
+it's smaller, it means at some
+
+1551
+01:09:42,479 --> 01:09:44,479
+level you can think of it as a
+
+1552
+01:09:44,479 --> 01:09:46,479
+point particle.
+
+1553
+01:09:46,479 --> 01:09:48,479
+In other words, for all
+
+1554
+01:09:48,479 --> 01:09:50,479
+measurements, interactions, and so forth
+
+1555
+01:09:50,479 --> 01:09:52,479
+which don't break it up, which don't
+
+1556
+01:09:52,479 --> 01:09:54,480
+break up the proton,
+
+1557
+01:09:54,480 --> 01:09:56,480
+you can think of the proton
+
+1558
+01:09:56,480 --> 01:09:58,480
+as pretty much a point particle.
+
+1559
+01:09:58,480 --> 01:10:00,480
+In that approximation,
+
+1560
+01:10:00,480 --> 01:10:02,480
+you pretend protons and neutrons are
+
+1561
+01:10:02,480 --> 01:10:04,480
+described by fundamental fields.
+
+1562
+01:10:04,480 --> 01:10:06,480
+Of course, what would happen if you hit
+
+1563
+01:10:06,480 --> 01:10:08,480
+the proton and neutron too hard
+
+1564
+01:10:08,480 --> 01:10:10,480
+is it'll break up.
+
+1565
+01:10:10,480 --> 01:10:12,480
+It'll sort of
+
+1566
+01:10:12,480 --> 01:10:14,480
+break up into quarks.
+
+1567
+01:10:14,480 --> 01:10:16,480
+If it breaks up into quarks,
+
+1568
+01:10:16,480 --> 01:10:18,480
+then you won't
+
+1569
+01:10:18,480 --> 01:10:20,480
+get away with the
+
+1570
+01:10:20,480 --> 01:10:22,480
+description in which the proton and neutron
+
+1571
+01:10:22,480 --> 01:10:24,480
+are described by simple fields.
+
+1572
+01:10:24,480 --> 01:10:26,480
+You'll have to remember that it's made of quarks.
+
+1573
+01:10:26,480 --> 01:10:28,480
+Alright, um...
+
+1574
+01:10:28,480 --> 01:10:30,480
+What happens when a proton
+
+1575
+01:10:30,480 --> 01:10:32,480
+and an electron
+
+1576
+01:10:32,480 --> 01:10:34,480
+come together?
+
+1577
+01:10:34,480 --> 01:10:36,480
+Is it the same type of expression
+
+1578
+01:10:36,480 --> 01:10:38,480
+you use for the...
+
+1579
+01:10:38,480 --> 01:10:40,480
+When proton and electron come together?
+
+1580
+01:10:40,480 --> 01:10:42,480
+Yeah.
+
+1581
+01:10:42,480 --> 01:10:44,480
+Um...
+
+1582
+01:10:44,480 --> 01:10:46,480
+Yeah.
+
+1583
+01:10:46,480 --> 01:10:48,480
+There's of course another vertex
+
+1584
+01:10:48,480 --> 01:10:50,480
+involving protons.
+
+1585
+01:10:50,480 --> 01:10:52,480
+The other vertex involving protons
+
+1586
+01:10:52,480 --> 01:10:54,480
+also involves the photon.
+
+1587
+01:10:54,480 --> 01:10:56,480
+Here I just told you about protons, neutrons,
+
+1588
+01:10:56,480 --> 01:10:58,480
+and pi mesons,
+
+1589
+01:10:58,480 --> 01:11:00,480
+but because protons are charged,
+
+1590
+01:11:00,480 --> 01:11:02,480
+there's another vertex
+
+1591
+01:11:02,480 --> 01:11:04,480
+which is
+
+1592
+01:11:06,480 --> 01:11:08,480
+proton-photon
+
+1593
+01:11:10,480 --> 01:11:12,480
+proton
+
+1594
+01:11:12,480 --> 01:11:14,480
+You can't have proton goes to neutron
+
+1595
+01:11:14,480 --> 01:11:16,480
+and a photon. That doesn't conserve charge.
+
+1596
+01:11:16,480 --> 01:11:18,480
+So proton
+
+1597
+01:11:18,480 --> 01:11:20,480
+goes to proton and a photon
+
+1598
+01:11:20,480 --> 01:11:22,480
+is another allowed process.
+
+1599
+01:11:22,480 --> 01:11:24,480
+And also
+
+1600
+01:11:24,480 --> 01:11:26,480
+electron goes to electron
+
+1601
+01:11:26,480 --> 01:11:28,480
+and photon is an allowed process.
+
+1602
+01:11:28,480 --> 01:11:30,480
+So a possible process that
+
+1603
+01:11:30,480 --> 01:11:32,480
+can take place when a
+
+1604
+01:11:32,480 --> 01:11:34,480
+proton encounters an electron
+
+1605
+01:11:34,480 --> 01:11:36,480
+is
+
+1606
+01:11:36,480 --> 01:11:38,480
+the proton
+
+1607
+01:11:38,480 --> 01:11:40,480
+can emit the
+
+1608
+01:11:40,480 --> 01:11:42,480
+photon and the
+
+1609
+01:11:42,480 --> 01:11:44,480
+electron
+
+1610
+01:11:44,480 --> 01:11:46,480
+absorbs the photon.
+
+1611
+01:11:48,480 --> 01:11:50,480
+We haven't talked about building up more complicated
+
+1612
+01:11:50,480 --> 01:11:52,480
+processes yet. We're going to talk about
+
+1613
+01:11:52,480 --> 01:11:54,480
+building up more complicated processes.
+
+1614
+01:11:54,480 --> 01:11:56,480
+But you can see the pattern.
+
+1615
+01:11:56,480 --> 01:11:58,480
+You can build processes out of these elementary units.
+
+1616
+01:11:58,480 --> 01:12:00,480
+The elementary units are these vertices.
+
+1617
+01:12:00,480 --> 01:12:02,480
+And you build up
+
+1618
+01:12:02,480 --> 01:12:04,480
+uh...
+
+1619
+01:12:06,480 --> 01:12:08,480
+How would you write the Lagrangian for that?
+
+1620
+01:12:08,480 --> 01:12:10,480
+No, that's not...
+
+1621
+01:12:10,480 --> 01:12:12,480
+This process is not described...
+
+1622
+01:12:12,480 --> 01:12:14,480
+It's the point
+
+1623
+01:12:14,480 --> 01:12:16,480
+units that you start with
+
+1624
+01:12:16,480 --> 01:12:18,480
+that are described by the Lagrangian.
+
+1625
+01:12:18,480 --> 01:12:20,480
+This
+
+1626
+01:12:20,480 --> 01:12:22,480
+corresponds to the product of the Lagrangian
+
+1627
+01:12:22,480 --> 01:12:24,480
+at two different points.
+
+1628
+01:12:24,480 --> 01:12:26,480
+Okay. So the Lagrangian
+
+1629
+01:12:26,480 --> 01:12:28,480
+is some basic unit of
+
+1630
+01:12:28,480 --> 01:12:30,480
+interaction which tells you that
+
+1631
+01:12:30,480 --> 01:12:32,480
+a proton is absorbed and emitted
+
+1632
+01:12:32,480 --> 01:12:34,480
+at a point and a photon.
+
+1633
+01:12:34,480 --> 01:12:36,480
+That's the
+
+1634
+01:12:36,480 --> 01:12:38,480
+interaction term. That's side dagger proton,
+
+1635
+01:12:38,480 --> 01:12:40,480
+side proton and A.
+
+1636
+01:12:40,480 --> 01:12:42,480
+Then
+
+1637
+01:12:42,480 --> 01:12:44,480
+there's the quadratic terms
+
+1638
+01:12:44,480 --> 01:12:46,480
+which move the photon along.
+
+1639
+01:12:46,480 --> 01:12:48,480
+Remember they
+
+1640
+01:12:48,480 --> 01:12:50,480
+were the things which move the photon along
+
+1641
+01:12:50,480 --> 01:12:52,480
+from point to point.
+
+1642
+01:12:52,480 --> 01:12:54,480
+They can act many, many times moving the
+
+1643
+01:12:54,480 --> 01:12:56,480
+photon from one place to another.
+
+1644
+01:12:56,480 --> 01:12:58,480
+And then the photon can be
+
+1645
+01:12:58,480 --> 01:13:00,480
+absorbed over here.
+
+1646
+01:13:00,480 --> 01:13:02,480
+Now,
+
+1647
+01:13:02,480 --> 01:13:04,480
+we're not...we're clearly not deriving
+
+1648
+01:13:04,480 --> 01:13:06,480
+all of this in any sense from first principles.
+
+1649
+01:13:06,480 --> 01:13:08,480
+I'm just telling you
+
+1650
+01:13:08,480 --> 01:13:10,480
+that these basic elementary
+
+1651
+01:13:10,480 --> 01:13:12,480
+processes out of which you build
+
+1652
+01:13:12,480 --> 01:13:14,480
+everything are codified
+
+1653
+01:13:14,480 --> 01:13:16,480
+in the Lagrangian. And Lagrangian
+
+1654
+01:13:16,480 --> 01:13:18,480
+always describes things which take
+
+1655
+01:13:18,480 --> 01:13:20,480
+place at a point or perhaps
+
+1656
+01:13:20,480 --> 01:13:22,480
+a pair of neighboring points.
+
+1657
+01:13:22,480 --> 01:13:24,480
+Two kinds of terms
+
+1658
+01:13:24,480 --> 01:13:26,480
+in Lagrangian. Here they are.
+
+1659
+01:13:26,480 --> 01:13:28,480
+This one here describes
+
+1660
+01:13:28,480 --> 01:13:30,480
+a thing at a point. Something
+
+1661
+01:13:30,480 --> 01:13:32,480
+comes in and something goes out from the same point.
+
+1662
+01:13:32,480 --> 01:13:34,480
+The other terms in
+
+1663
+01:13:34,480 --> 01:13:36,480
+Lagrangian involve derivatives
+
+1664
+01:13:36,480 --> 01:13:38,480
+and they correspond to things
+
+1665
+01:13:38,480 --> 01:13:40,480
+at very close by neighboring
+
+1666
+01:13:40,480 --> 01:13:42,480
+points. Motion of a particle
+
+1667
+01:13:42,480 --> 01:13:44,480
+from one point to another.
+
+1668
+01:13:46,480 --> 01:13:48,480
+No action at a distance in
+
+1669
+01:13:48,480 --> 01:13:50,480
+quantum field theory.
+
+1670
+01:13:50,480 --> 01:13:52,480
+At worst,
+
+1671
+01:13:52,480 --> 01:13:54,480
+there...or
+
+1672
+01:13:54,480 --> 01:13:56,480
+not at worst, it's a good
+
+1673
+01:13:56,480 --> 01:13:58,480
+thing, but you can move a particle
+
+1674
+01:13:58,480 --> 01:14:00,480
+from one point to a very, very
+
+1675
+01:14:00,480 --> 01:14:02,480
+infinitesimally close point
+
+1676
+01:14:02,480 --> 01:14:04,480
+or you can have processes
+
+1677
+01:14:04,480 --> 01:14:06,480
+taking place at a specific
+
+1678
+01:14:06,480 --> 01:14:08,480
+individual point.
+
+1679
+01:14:08,480 --> 01:14:10,480
+There are no things in Lagrangian which
+
+1680
+01:14:10,480 --> 01:14:12,480
+take a particle from one point
+
+1681
+01:14:12,480 --> 01:14:14,480
+and put it at another point.
+
+1682
+01:14:14,480 --> 01:14:16,480
+Those processes are built up
+
+1683
+01:14:20,480 --> 01:14:22,480
+built up at a more elementary
+
+1684
+01:14:22,480 --> 01:14:24,480
+processes. In this case
+
+1685
+01:14:24,480 --> 01:14:26,480
+something taking place at this point,
+
+1686
+01:14:26,480 --> 01:14:28,480
+something taking place at this point,
+
+1687
+01:14:28,480 --> 01:14:30,480
+and then a large number of little
+
+1688
+01:14:30,480 --> 01:14:32,480
+processes moving the electron
+
+1689
+01:14:32,480 --> 01:14:34,480
+from one point to the next.
+
+1690
+01:14:36,480 --> 01:14:38,480
+So Lagrangian only has terms
+
+1691
+01:14:38,480 --> 01:14:40,480
+at one point?
+
+1692
+01:14:40,480 --> 01:14:42,480
+One point or a pair of neighboring
+
+1693
+01:14:42,480 --> 01:14:44,480
+points if it has derivatives.
+
+1694
+01:14:44,480 --> 01:14:46,480
+So Lagrangian describes that
+
+1695
+01:14:46,480 --> 01:14:48,480
+photon,
+
+1696
+01:14:48,480 --> 01:14:50,480
+photon-electron exchange
+
+1697
+01:14:50,480 --> 01:14:52,480
+just has terms for
+
+1698
+01:14:52,480 --> 01:14:54,480
+protons, electrons, and
+
+1699
+01:14:54,480 --> 01:14:56,480
+photons.
+
+1700
+01:15:00,480 --> 01:15:02,480
+There's no term in Lagrangian
+
+1701
+01:15:02,480 --> 01:15:04,480
+which describes this whole process.
+
+1702
+01:15:06,480 --> 01:15:08,480
+This process is described
+
+1703
+01:15:08,480 --> 01:15:10,480
+by a large number of basic
+
+1704
+01:15:10,480 --> 01:15:12,480
+units. A large number of basic
+
+1705
+01:15:12,480 --> 01:15:14,480
+units is a process taking place
+
+1706
+01:15:14,480 --> 01:15:16,480
+at this point.
+
+1707
+01:15:16,480 --> 01:15:18,480
+That's psi dagger proton,
+
+1708
+01:15:18,480 --> 01:15:20,480
+psi proton, and emission of a photon.
+
+1709
+01:15:20,480 --> 01:15:22,480
+And then
+
+1710
+01:15:22,480 --> 01:15:24,480
+basic elementary
+
+1711
+01:15:24,480 --> 01:15:26,480
+processes which move the particle
+
+1712
+01:15:26,480 --> 01:15:28,480
+from one point to a neighboring
+
+1713
+01:15:28,480 --> 01:15:30,480
+point to a neighboring point.
+
+1714
+01:15:32,480 --> 01:15:34,480
+And then the absorption
+
+1715
+01:15:34,480 --> 01:15:36,480
+of the photon over here.
+
+1716
+01:15:36,480 --> 01:15:38,480
+But all of these are
+
+1717
+01:15:38,480 --> 01:15:40,480
+in the Lagrangian that you write for this?
+
+1718
+01:15:40,480 --> 01:15:42,480
+Each individual process
+
+1719
+01:15:42,480 --> 01:15:44,480
+is in the Lagrangian, but you have to
+
+1720
+01:15:44,480 --> 01:15:46,480
+compound them together
+
+1721
+01:15:46,480 --> 01:15:48,480
+to make up the general process.
+
+1722
+01:15:48,480 --> 01:15:50,480
+By
+
+1723
+01:15:50,480 --> 01:15:52,480
+compounding you mean multiply?
+
+1724
+01:15:52,480 --> 01:15:54,480
+Yes.
+
+1725
+01:15:54,480 --> 01:15:56,480
+The Lagrangian can act any number
+
+1726
+01:15:56,480 --> 01:15:58,480
+of times at different
+
+1727
+01:15:58,480 --> 01:16:00,480
+Remember, the Lagrangian itself
+
+1728
+01:16:00,480 --> 01:16:02,480
+is made out of fields. Fields are made out of
+
+1729
+01:16:02,480 --> 01:16:04,480
+creation and annihilation operators.
+
+1730
+01:16:04,480 --> 01:16:06,480
+And the Lagrangian can occur
+
+1731
+01:16:06,480 --> 01:16:08,480
+at each point
+
+1732
+01:16:08,480 --> 01:16:10,480
+of space, next point of space,
+
+1733
+01:16:10,480 --> 01:16:12,480
+next point of space, and so forth.
+
+1734
+01:16:12,480 --> 01:16:14,480
+And build up whole processes.
+
+1735
+01:16:14,480 --> 01:16:16,480
+So the Lagrangian is not
+
+1736
+01:16:16,480 --> 01:16:18,480
+something which is a final
+
+1737
+01:16:18,480 --> 01:16:20,480
+answer. It describes
+
+1738
+01:16:20,480 --> 01:16:22,480
+the basic units and elements
+
+1739
+01:16:22,480 --> 01:16:24,480
+that compound themselves together
+
+1740
+01:16:24,480 --> 01:16:26,480
+by product, exactly
+
+1741
+01:16:26,480 --> 01:16:28,480
+as you said.
+
+1742
+01:16:28,480 --> 01:16:30,480
+So the Lagrangian
+
+1743
+01:16:30,480 --> 01:16:32,480
+also has time terms in it.
+
+1744
+01:16:32,480 --> 01:16:34,480
+Time derivative terms.
+
+1745
+01:16:34,480 --> 01:16:36,480
+So you try and
+
+1746
+01:16:36,480 --> 01:16:38,480
+extend that to
+
+1747
+01:16:38,480 --> 01:16:40,480
+processes that are taking place
+
+1748
+01:16:40,480 --> 01:16:42,480
+over certain
+
+1749
+01:16:42,480 --> 01:16:44,480
+distances
+
+1750
+01:16:44,480 --> 01:16:46,480
+where, under conditions
+
+1751
+01:16:46,480 --> 01:16:48,480
+where time is affected
+
+1752
+01:16:48,480 --> 01:16:50,480
+by relativity or something like that.
+
+1753
+01:16:50,480 --> 01:16:52,480
+Can't you have problems?
+
+1754
+01:16:52,480 --> 01:16:54,480
+Can't you have problems?
+
+1755
+01:16:54,480 --> 01:16:56,480
+Or are we just not seeing the relativity?
+
+1756
+01:16:56,480 --> 01:16:58,480
+In the case of relativity.
+
+1757
+01:16:58,480 --> 01:17:00,480
+Yeah.
+
+1758
+01:17:00,480 --> 01:17:02,480
+What do you have?
+
+1759
+01:17:02,480 --> 01:17:04,480
+If you were
+
+1760
+01:17:04,480 --> 01:17:06,480
+running your
+
+1761
+01:17:06,480 --> 01:17:08,480
+if you were doing your
+
+1762
+01:17:08,480 --> 01:17:10,480
+compounding of Lagrangians
+
+1763
+01:17:10,480 --> 01:17:12,480
+and very close to
+
+1764
+01:17:12,480 --> 01:17:14,480
+the event horizon of a black hole
+
+1765
+01:17:14,480 --> 01:17:16,480
+would that
+
+1766
+01:17:16,480 --> 01:17:18,480
+would it still describe
+
+1767
+01:17:18,480 --> 01:17:20,480
+the process well?
+
+1768
+01:17:22,480 --> 01:17:24,480
+You really want to talk about black holes?
+
+1769
+01:17:24,480 --> 01:17:26,480
+No.
+
+1770
+01:17:26,480 --> 01:17:28,480
+Black holes are not well
+
+1771
+01:17:28,480 --> 01:17:30,480
+described by quantum field theory.
+
+1772
+01:17:30,480 --> 01:17:32,480
+How far can those infinite
+
+1773
+01:17:32,480 --> 01:17:34,480
+distances be?
+
+1774
+01:17:34,480 --> 01:17:36,480
+Well you have to think about
+
+1775
+01:17:36,480 --> 01:17:38,480
+limits.
+
+1776
+01:17:38,480 --> 01:17:40,480
+Distances in time.
+
+1777
+01:17:40,480 --> 01:17:42,480
+I guess we're all in a
+
+1778
+01:17:42,480 --> 01:17:44,480
+trouble trying to think
+
+1779
+01:17:44,480 --> 01:17:46,480
+what are the fields
+
+1780
+01:17:46,480 --> 01:17:48,480
+to think about.
+
+1781
+01:17:52,480 --> 01:17:54,480
+The fields are symbols
+
+1782
+01:17:54,480 --> 01:17:56,480
+which
+
+1783
+01:17:56,480 --> 01:17:58,480
+are operators. They're operators
+
+1784
+01:17:58,480 --> 01:18:00,480
+which make
+
+1785
+01:18:00,480 --> 01:18:02,480
+processes happen.
+
+1786
+01:18:02,480 --> 01:18:04,480
+They're processes. They're basic processes
+
+1787
+01:18:04,480 --> 01:18:06,480
+or basic elementary processes.
+
+1788
+01:18:06,480 --> 01:18:08,480
+They absorb a particle or they emit a particle.
+
+1789
+01:18:08,480 --> 01:18:10,480
+That's all they do.
+
+1790
+01:18:10,480 --> 01:18:12,480
+They absorb it, take it in at one point
+
+1791
+01:18:12,480 --> 01:18:14,480
+they take it in at one point
+
+1792
+01:18:14,480 --> 01:18:16,480
+or spit it out from the same point.
+
+1793
+01:18:16,480 --> 01:18:18,480
+Multiplying fields together can
+
+1794
+01:18:18,480 --> 01:18:20,480
+bring in one particle
+
+1795
+01:18:20,480 --> 01:18:22,480
+and spit out another one.
+
+1796
+01:18:22,480 --> 01:18:24,480
+Let's put it this way.
+
+1797
+01:18:24,480 --> 01:18:26,480
+A single field by itself
+
+1798
+01:18:28,480 --> 01:18:30,480
+can absorb a particle
+
+1799
+01:18:30,480 --> 01:18:32,480
+or spit out a particle.
+
+1800
+01:18:32,480 --> 01:18:34,480
+The product of two fields
+
+1801
+01:18:34,480 --> 01:18:36,480
+can absorb a particle
+
+1802
+01:18:36,480 --> 01:18:38,480
+and spit out a particle.
+
+1803
+01:18:38,480 --> 01:18:40,480
+You understand the difference between
+
+1804
+01:18:40,480 --> 01:18:42,480
+the two?
+
+1805
+01:18:42,480 --> 01:18:44,480
+In one case, either the field
+
+1806
+01:18:44,480 --> 01:18:46,480
+or single power of the field
+
+1807
+01:18:46,480 --> 01:18:48,480
+absorbs a particle
+
+1808
+01:18:48,480 --> 01:18:50,480
+or it emits a particle.
+
+1809
+01:18:50,480 --> 01:18:52,480
+Two powers of the field
+
+1810
+01:18:52,480 --> 01:18:54,480
+absorb and emit a particle.
+
+1811
+01:18:54,480 --> 01:18:56,480
+And then properly described
+
+1812
+01:18:56,480 --> 01:18:58,480
+describes that mechanism
+
+1813
+01:18:58,480 --> 01:19:00,480
+for every point
+
+1814
+01:19:00,480 --> 01:19:02,480
+It's just a code
+
+1815
+01:19:02,480 --> 01:19:04,480
+It's just a code
+
+1816
+01:19:04,480 --> 01:19:06,480
+for the elementary processes
+
+1817
+01:19:06,480 --> 01:19:08,480
+which you have to compare
+
+1818
+01:19:08,480 --> 01:19:10,480
+to the other.
+
+1819
+01:19:10,480 --> 01:19:12,480
+It does have time derivatives
+
+1820
+01:19:12,480 --> 01:19:14,480
+as well as space derivatives.
+
+1821
+01:19:14,480 --> 01:19:16,480
+It does.
+
+1822
+01:19:16,480 --> 01:19:18,480
+So you think in terms of space-time
+
+1823
+01:19:18,480 --> 01:19:20,480
+You think in terms of space-time
+
+1824
+01:19:20,480 --> 01:19:22,480
+You think in terms of space-time
+
+1825
+01:19:22,480 --> 01:19:24,480
+x and t
+
+1826
+01:19:24,480 --> 01:19:26,480
+and you think of the trajectory
+
+1827
+01:19:26,480 --> 01:19:28,480
+of a particle
+
+1828
+01:19:28,480 --> 01:19:30,480
+as being built up
+
+1829
+01:19:30,480 --> 01:19:32,480
+or the motion of a particle
+
+1830
+01:19:32,480 --> 01:19:34,480
+as being built up
+
+1831
+01:19:34,480 --> 01:19:36,480
+at many little steps.
+
+1832
+01:19:36,480 --> 01:19:38,480
+Now of course we have to take limits.
+
+1833
+01:19:38,480 --> 01:19:40,480
+We take limits by
+
+1834
+01:19:40,480 --> 01:19:42,480
+by replacing
+
+1835
+01:19:42,480 --> 01:19:44,480
+differences by derivatives
+
+1836
+01:19:44,480 --> 01:19:46,480
+and so forth.
+
+1837
+01:19:46,480 --> 01:19:48,480
+But let's think about
+
+1838
+01:19:48,480 --> 01:19:50,480
+little differences rather than derivatives.
+
+1839
+01:19:50,480 --> 01:19:52,480
+We break up the trajectory
+
+1840
+01:19:52,480 --> 01:19:54,480
+into a lot of little pieces
+
+1841
+01:19:54,480 --> 01:19:56,480
+and then a particle
+
+1842
+01:19:56,480 --> 01:19:58,480
+is absorbed at this point
+
+1843
+01:19:58,480 --> 01:20:00,480
+and re-emitted at this point.
+
+1844
+01:20:00,480 --> 01:20:02,480
+So it's jumped from one point
+
+1845
+01:20:02,480 --> 01:20:04,480
+of space-time to another point
+
+1846
+01:20:04,480 --> 01:20:06,480
+of space-time.
+
+1847
+01:20:06,480 --> 01:20:08,480
+And it's absorbed at this point again
+
+1848
+01:20:08,480 --> 01:20:10,480
+and re-emitted at this point.
+
+1849
+01:20:10,480 --> 01:20:30,480
+So it's a little bit like a
+
+1850
+01:20:30,480 --> 01:20:32,480
+Now in the limit that we subdivide
+
+1851
+01:20:32,480 --> 01:20:34,480
+this trajectory into an
+
+1852
+01:20:34,480 --> 01:20:36,480
+infinitely small series of steps here
+
+1853
+01:20:36,480 --> 01:20:38,480
+the number of processes goes to infinity.
+
+1854
+01:20:38,480 --> 01:20:40,480
+All right. So there are limits involved.
+
+1855
+01:20:40,480 --> 01:20:42,730
+neighboring point. It's an effective way to
+
+1856
+01:20:42,730 --> 01:20:44,980
+think about it. In fact, quantum field
+
+1857
+01:20:44,980 --> 01:20:48,519
+theory really always does have to
+
+1858
+01:20:48,519 --> 01:20:52,059
+be defined by dividing up space-time into
+
+1859
+01:20:52,059 --> 01:20:54,249
+lots of little cells. That's the way you
+
+1860
+01:20:54,249 --> 01:20:56,440
+really define it. You break it up into
+
+1861
+01:20:56,440 --> 01:21:00,650
+lots of little cells. Having broken it
+
+1862
+01:21:00,650 --> 01:21:04,860
+up into a lot of little cells...
+
+1863
+01:21:10,480 --> 01:21:21,539
+I was just going to bring it back to the original question. When you put all this together, so you can overlay these fields on top of each other to describe
+
+1864
+01:21:21,539 --> 01:21:32,599
+processes, that now you can, for any given point in time and space, what will happen at any given time and space, and you can make them as complex as you want.
+
+1865
+01:21:32,599 --> 01:21:36,479
+The question that I originally asked was,
+
+1866
+01:21:36,479 --> 01:21:40,360
+if now you combine them to describe
+
+1867
+01:21:40,360 --> 01:21:40,459
+a quantum field, what will happen?
+
+1868
+01:21:40,480 --> 01:21:47,960
+A multi-step process, as people were asking about earlier. As soon as that multi-step process has the
+
+1869
+01:21:47,960 --> 01:21:55,440
+motion of the part that you were describing, where the quadratic term allows the products of the collisions...
+
+1870
+01:21:55,440 --> 01:21:57,559
+Motion simply means annihilation at
+
+1871
+01:21:57,559 --> 01:21:59,679
+one point, creation at another.
+
+1872
+01:21:59,679 --> 01:22:04,419
+Well, you were talking about the quadratic term, meaning
+
+1873
+01:22:04,419 --> 01:22:09,160
+the products of the collisions moving. As they move apart,
+
+1874
+01:22:10,360 --> 01:22:10,459
+it's...
+
+1875
+01:22:10,480 --> 01:22:15,980
+It's like really high energies. Can there be... Are there problems with things like time dilations
+
+1876
+01:22:15,980 --> 01:22:21,480
+or stuff like that that takes place in Lagrangian? You have to take account of that.
+
+1877
+01:22:21,480 --> 01:22:21,519
+Sure.
+
+1878
+01:22:21,519 --> 01:22:25,440
+When there's more and more distance between them.
+
+1879
+01:22:25,440 --> 01:22:32,900
+All of that is rather automatic. If the Lagrangian is a scalar, everything will be Lorentz invariant. All of that kind of
+
+1880
+01:22:32,900 --> 01:22:40,360
+thing about time dilation and so forth will be automatic. You won't have to worry about it. But I'm not sure exactly what
+
+1881
+01:22:40,360 --> 01:22:43,940
+question you were asking, so I can't answer it.
+
+1882
+01:22:43,940 --> 01:22:48,860
+All right.
+
+1883
+01:22:48,860 --> 01:22:54,099
+What's the connection between these operators?
+
+1884
+01:22:54,099 --> 01:22:54,900
+Who?
+
+1885
+01:22:54,900 --> 01:23:02,249
+Between the creation of nine-liters operators in the field and the
+
+1886
+01:23:02,249 --> 01:23:09,599
+classical quantum mechanic operators who position momentum, and the indeterminate Heisenbergian uncertainty.
+
+1887
+01:23:09,599 --> 01:23:10,120
+Uncertain?
+
+1888
+01:23:10,120 --> 01:23:10,240
+Yeah.
+
+1889
+01:23:10,240 --> 01:23:16,740
+The connection between creation
+
+1890
+01:23:16,740 --> 01:23:23,240
+and annihilation and Heisenberg uncertainty.
+
+1891
+01:23:23,240 --> 01:23:24,240
+All right.
+
+1892
+01:23:24,240 --> 01:23:27,189
+Heisenberg uncertainty is another way of saying
+
+1893
+01:23:27,189 --> 01:23:30,139
+you either describe things in terms of position
+
+1894
+01:23:30,139 --> 01:23:35,840
+or momentum, not both, right?
+
+1895
+01:23:35,840 --> 01:23:38,930
+In terms of creation and annihilation
+
+1896
+01:23:38,930 --> 01:23:42,020
+operators, the creation operators and annihilation operators
+
+1897
+01:23:42,020 --> 01:23:47,940
+are either functions of position or functions of momentum.
+
+1898
+01:23:47,940 --> 01:23:52,490
+And the field operator, psi of x, is
+
+1899
+01:23:52,490 --> 01:23:57,040
+the creation operator for a particle at point x.
+
+1900
+01:23:57,040 --> 01:24:02,240
+It is made up out of field operators.
+
+1901
+01:24:02,240 --> 01:24:03,400
+Let's create A.
+
+1902
+01:24:03,400 --> 01:24:04,400
+Okay.
+
+1903
+01:24:04,400 --> 01:24:05,400
+So, let's do that.
+
+1904
+01:24:05,400 --> 01:24:05,440
+Okay.
+
+1905
+01:24:05,440 --> 01:24:05,480
+Okay.
+
+1906
+01:24:05,480 --> 01:24:05,600
+Okay.
+
+1907
+01:24:05,600 --> 01:24:05,700
+Okay.
+
+1908
+01:24:05,700 --> 01:24:05,800
+Okay.
+
+1909
+01:24:05,800 --> 01:24:05,820
+Okay.
+
+1910
+01:24:05,840 --> 01:24:05,960
+Okay.
+
+1911
+01:24:05,960 --> 01:24:06,000
+Okay.
+
+1912
+01:24:06,000 --> 01:24:07,820
+Which are functions of momentum, times e
+
+1913
+01:24:07,820 --> 01:24:09,640
+to the i, blah, blah, blah, blah, blah.
+
+1914
+01:24:10,780 --> 01:24:13,800
+So, creation operators are either creation operators
+
+1915
+01:24:13,800 --> 01:24:16,820
+for a particle of momentum p or
+
+1916
+01:24:16,820 --> 01:24:20,160
+creation operators for a particle of position
+
+1917
+01:24:20,160 --> 01:24:23,500
+x, but they are not creation operators for
+
+1918
+01:24:23,500 --> 01:24:26,980
+particles of position x and momentum p.
+
+1919
+01:24:28,240 --> 01:24:31,720
+We never have operators which create
+
+1920
+01:24:31,720 --> 01:24:35,200
+particles of momentum p at position x.
+
+1921
+01:24:35,200 --> 01:24:39,700
+Either they're functions of x or they're functions of p.
+
+1922
+01:24:39,700 --> 01:24:42,750
+And the relationship between the functions of x
+
+1923
+01:24:42,750 --> 01:24:45,800
+and the functions of p is simply Fourier transform.
+
+1924
+01:24:45,800 --> 01:24:48,100
+Fourier transform is the
+
+1925
+01:24:48,100 --> 01:24:50,400
+essence of the uncertainty principle.
+
+1926
+01:24:50,400 --> 01:24:55,080
+And what it says is that to build a function which
+
+1927
+01:24:55,080 --> 01:24:59,760
+is localized in position, you have to use a lot of momenta.
+
+1928
+01:24:59,760 --> 01:25:02,400
+To build a function which is localized in momenta, you're
+
+1929
+01:25:02,400 --> 01:25:05,040
+going to, well, it's going to be spread over x.
+
+1930
+01:25:05,040 --> 01:25:07,290
+But this is just exactly the same thing
+
+1931
+01:25:07,290 --> 01:25:09,540
+as it is in ordinary elementary quantum mechanics.
+
+1932
+01:25:09,540 --> 01:25:12,790
+You either have something which is a function of x or a
+
+1933
+01:25:12,790 --> 01:25:16,040
+function of p and nothing which is a function of x and p.
+
+1934
+01:25:16,040 --> 01:25:16,540
+That's all.
+
+1935
+01:25:16,540 --> 01:25:21,040
+You were describing how you subdivided the x,
+
+1936
+01:25:21,040 --> 01:25:25,540
+t space and sort of, could you complete that?
+
+1937
+01:25:25,540 --> 01:25:28,540
+Or, yeah, could you just finish that explanation?
+
+1938
+01:25:28,540 --> 01:25:31,540
+Yeah, I mean, it's, okay, at some level it's
+
+1939
+01:25:31,540 --> 01:25:34,540
+no different than what you do in classical physics.
+
+1940
+01:25:34,540 --> 01:25:38,540
+In classical physics, how do you define derivative?
+
+1941
+01:25:38,540 --> 01:25:41,540
+You define derivative by dividing up space
+
+1942
+01:25:41,540 --> 01:25:44,540
+into little cells and then define differences.
+
+1943
+01:25:44,540 --> 01:25:46,540
+That's what a derivative is.
+
+1944
+01:25:46,540 --> 01:25:52,040
+Now, in classical physics, you can really just take the limit rather
+
+1945
+01:25:52,040 --> 01:25:57,540
+smoothly and forget the fact that it originated from a very discrete picture.
+
+1946
+01:25:57,540 --> 01:26:00,540
+In quantum field theory, it's more problematic.
+
+1947
+01:26:00,540 --> 01:26:02,040
+You really do have to
+
+1948
+01:26:02,040 --> 01:26:03,540
+define the theory from the beginning.
+
+1949
+01:26:03,540 --> 01:26:04,040
+Okay.
+
+1950
+01:26:04,040 --> 01:26:09,040
+By dividing up space into little cells.
+
+1951
+01:26:09,040 --> 01:26:13,040
+And having divided it into little cells, in each cell,
+
+1952
+01:26:13,040 --> 01:26:17,040
+the field operator is now not a function of continuous position.
+
+1953
+01:26:17,040 --> 01:26:20,040
+It's now a function of which
+
+1954
+01:26:20,040 --> 01:26:23,040
+one of these cells you're in.
+
+1955
+01:26:23,040 --> 01:26:26,040
+Derivatives become differences.
+
+1956
+01:26:26,040 --> 01:26:29,540
+And the quadratic terms in the Hamiltonian take a particle from
+
+1957
+01:26:29,540 --> 01:26:33,040
+one cell, remove it, and put it into the other cell.
+
+1958
+01:26:33,040 --> 01:26:33,540
+Okay.
+
+1959
+01:26:33,540 --> 01:26:34,040
+So.
+
+1960
+01:26:34,040 --> 01:26:35,040
+That's how you move.
+
+1961
+01:26:35,040 --> 01:26:37,040
+That's why you said the derivatives were
+
+1962
+01:26:37,040 --> 01:26:39,040
+irrespective of moving from place to place.
+
+1963
+01:26:39,040 --> 01:26:39,540
+Yeah.
+
+1964
+01:26:39,540 --> 01:26:40,040
+Yeah.
+
+1965
+01:26:40,040 --> 01:26:40,540
+Yeah.
+
+1966
+01:26:40,540 --> 01:26:41,040
+Right.
+
+1967
+01:26:41,040 --> 01:26:42,040
+Right.
+
+1968
+01:26:42,040 --> 01:26:47,540
+So, you define the theory by first dividing up space,
+
+1969
+01:26:47,540 --> 01:26:53,040
+placing your field operators, one or however many, in each cell.
+
+1970
+01:26:53,040 --> 01:26:56,540
+And then the basic quadratic interactions will absorb a particle
+
+1971
+01:26:56,540 --> 01:27:00,040
+from one cell and put it into the neighboring cell.
+
+1972
+01:27:00,040 --> 01:27:03,040
+Right.
+
+1973
+01:27:03,040 --> 01:27:06,040
+Then, in the end, you take a limit
+
+1974
+01:27:06,040 --> 01:27:09,040
+where you take the cells to be infinitely small.
+
+1975
+01:27:09,040 --> 01:27:10,040
+Okay.
+
+1976
+01:27:10,040 --> 01:27:16,040
+So, in terms of a discrete picture, a process might absorb an electron over
+
+1977
+01:27:16,040 --> 01:27:22,040
+here, the electron which happened to have come from a neighboring cell, and so forth.
+
+1978
+01:27:22,040 --> 01:27:24,040
+The electron came from a neighboring cell.
+
+1979
+01:27:24,040 --> 01:27:26,040
+Absorb it over here.
+
+1980
+01:27:26,040 --> 01:27:29,040
+Emit it over here.
+
+1981
+01:27:29,040 --> 01:27:31,040
+And emit a photon.
+
+1982
+01:27:31,040 --> 01:27:31,540
+Then the photon will hop from
+
+1983
+01:27:31,540 --> 01:27:32,040
+the neighboring cell to the next electron.
+
+1984
+01:27:32,040 --> 01:27:34,040
+And the photon will hop from cell
+
+1985
+01:27:34,040 --> 01:27:36,040
+to cell to cell by the quadratic terms.
+
+1986
+01:27:36,040 --> 01:27:39,040
+Also, the electrons will hop from cell to cell.
+
+1987
+01:27:39,040 --> 01:27:43,540
+The electron, the photon will hop from cell to cell
+
+1988
+01:27:43,540 --> 01:27:48,040
+to cell where it might meet an electron at the...
+
+1989
+01:27:48,040 --> 01:27:51,040
+So, there's just basically two kinds of things.
+
+1990
+01:27:51,040 --> 01:27:55,040
+Hopping from one point to another and interactions which
+
+1991
+01:27:55,040 --> 01:27:59,040
+absorb some particles and emit them from the same point.
+
+1992
+01:27:59,040 --> 01:28:01,040
+And the mass term here.
+
+1993
+01:28:01,040 --> 01:28:07,540
+This m squared phi squared, it can be thought of as a kind of interaction where a
+
+1994
+01:28:07,540 --> 01:28:14,040
+particle comes into a cell and is emitted from the same cell with a coefficient m squared.
+
+1995
+01:28:14,040 --> 01:28:16,040
+An amplitude m squared.
+
+1996
+01:28:16,040 --> 01:28:18,540
+Is there a relation between the size
+
+1997
+01:28:18,540 --> 01:28:21,040
+of the cell and the size constant?
+
+1998
+01:28:21,040 --> 01:28:22,040
+No, no, no.
+
+1999
+01:28:22,040 --> 01:28:25,540
+In the end, you want to shrink that size of
+
+2000
+01:28:25,540 --> 01:28:29,040
+the cell to zero to very precisely define the theory.
+
+2001
+01:28:29,040 --> 01:28:30,040
+Right.
+
+2002
+01:28:30,040 --> 01:28:36,540
+So, the field theory is kind of the limit of a discrete theory
+
+2003
+01:28:36,540 --> 01:28:43,040
+in which motion is replaced by hopping and in which space is discrete.
+
+2004
+01:28:43,040 --> 01:28:48,040
+So, the function of taking the product of the
+
+2005
+01:28:48,040 --> 01:28:53,040
+Lagrangian is basically, it's a probabilistic type of a thing.
+
+2006
+01:28:53,040 --> 01:28:54,040
+Yeah.
+
+2007
+01:28:54,040 --> 01:28:56,540
+Contingent probability that in order for this process to go
+
+2008
+01:28:56,540 --> 01:28:59,040
+through, you have to have something going from here to here.
+
+2009
+01:28:59,040 --> 01:29:00,040
+Yeah.
+
+2010
+01:29:00,040 --> 01:29:01,040
+As opposed to it's not a time thing.
+
+2011
+01:29:01,040 --> 01:29:02,040
+Because it's over space time.
+
+2012
+01:29:02,040 --> 01:29:03,040
+It's over space time.
+
+2013
+01:29:03,040 --> 01:29:04,040
+Okay.
+
+2014
+01:29:04,040 --> 01:29:05,040
+That's what you put in the cells.
+
+2015
+01:29:05,040 --> 01:29:06,040
+Right.
+
+2016
+01:29:06,040 --> 01:29:06,540
+You put your joint probability in
+
+2017
+01:29:06,540 --> 01:29:07,040
+the branching in each cell, right?
+
+2018
+01:29:07,040 --> 01:29:08,040
+Yeah, each cell, each cell, that's right.
+
+2019
+01:29:08,040 --> 01:29:09,040
+And then, the process goes up the T-axis.
+
+2020
+01:29:09,040 --> 01:29:10,040
+Yeah.
+
+2021
+01:29:10,040 --> 01:29:11,040
+So, that's it.
+
+2022
+01:29:11,040 --> 01:29:12,040
+I think we're good.
+
+2023
+01:29:12,040 --> 01:29:13,040
+So, I'm glad you brought up that.
+
+2024
+01:29:13,040 --> 01:29:14,040
+Thank you.
+
+2025
+01:29:14,040 --> 01:29:15,040
+Thank you.
+
+2026
+01:29:15,040 --> 01:29:16,040
+Yes.
+
+2027
+01:29:16,040 --> 01:29:17,040
+So, I think we'll get to the next question.
+
+2028
+01:29:17,040 --> 01:29:18,040
+Okay.
+
+2029
+01:29:18,040 --> 01:29:18,540
+So, you want to talk about, I'm sorry, the
+
+2030
+01:29:18,540 --> 01:29:19,040
+two of the questions that are which are important.
+
+2031
+01:29:19,040 --> 01:29:20,040
+I'm sorry.
+
+2032
+01:29:20,040 --> 01:29:21,040
+So, I'm going to repeat the question.
+
+2033
+01:29:21,040 --> 01:29:22,040
+Yes.
+
+2034
+01:29:22,040 --> 01:29:23,040
+So, I'm going to start with the question.
+
+2035
+01:29:23,040 --> 01:29:28,040
+And then the process goes up the T axis.
+
+2036
+01:29:30,680 --> 01:29:32,470
+Well, the process is best thought of
+
+2037
+01:29:32,470 --> 01:29:34,260
+as the thing that happens in space time.
+
+2038
+01:29:35,940 --> 01:29:37,140
+Yeah, I mean, you can...
+
+2039
+01:29:37,140 --> 01:29:38,600
+Well, yeah, it goes...
+
+2040
+01:29:38,600 --> 01:29:44,300
+Is it interesting to think about what the
+
+2041
+01:29:44,300 --> 01:29:50,000
+initial stage of such a system might be?
+
+2042
+01:29:51,060 --> 01:29:52,420
+Sure, it's very interesting.
+
+2043
+01:29:52,420 --> 01:29:56,210
+But that's determined by what the
+
+2044
+01:29:56,210 --> 01:30:00,000
+experimenter decides to prepare in the laboratory.
+
+2045
+01:30:00,980 --> 01:30:05,000
+I mean, you can think just for illustrative purposes,
+
+2046
+01:30:05,200 --> 01:30:08,780
+what would some simple initial condition be?
+
+2047
+01:30:09,560 --> 01:30:12,700
+Sure, an electron comes out of a hot filament.
+
+2048
+01:30:13,660 --> 01:30:17,340
+And how would you represent that in this formula?
+
+2049
+01:30:17,680 --> 01:30:19,270
+At the position of the
+
+2050
+01:30:19,270 --> 01:30:20,860
+filament, the field operator operates,
+
+2051
+01:30:20,860 --> 01:30:21,940
+which creates an electron.
+
+2052
+01:30:21,940 --> 01:30:22,580
+Not the filament.
+
+2053
+01:30:24,740 --> 01:30:24,960
+Right.
+
+2054
+01:30:25,660 --> 01:30:29,000
+So the initial and final conditions, the absorbed...
+
+2055
+01:30:29,000 --> 01:30:31,830
+The initial conditions are simply the
+
+2056
+01:30:31,830 --> 01:30:34,660
+start of the particles coming in.
+
+2057
+01:30:34,879 --> 01:30:36,479
+And that happens at whatever the
+
+2058
+01:30:36,479 --> 01:30:38,080
+source of the particles are, the sources.
+
+2059
+01:30:39,139 --> 01:30:41,939
+The final conditions are just
+
+2060
+01:30:41,939 --> 01:30:44,740
+described by where the detectors are.
+
+2061
+01:30:45,639 --> 01:30:45,860
+Okay?
+
+2062
+01:30:45,860 --> 01:30:51,860
+So, and in each case, creation operators are fueled...
+
+2063
+01:30:51,940 --> 01:30:55,000
+Field operators located at the points of the filaments,
+
+2064
+01:30:55,000 --> 01:30:57,270
+which create the hot electrons, describe the
+
+2065
+01:30:57,270 --> 01:30:59,540
+emission of the electrons from those points.
+
+2066
+01:30:59,980 --> 01:31:02,460
+And the absorption of the electrons at
+
+2067
+01:31:02,460 --> 01:31:04,940
+the detectors are also described by field operators
+
+2068
+01:31:04,940 --> 01:31:09,339
+at the positions of these detectors.
+
+2069
+01:31:09,346 --> 01:31:11,406
+ありがとうございました
+
+2070
+01:31:11,426 --> 01:31:19,455
+It's not good cricket though to do field theory, like it's not okay to, if you were to develop your model of space
+
+2071
+01:31:19,455 --> 01:31:27,485
+time, to just put the Lebron genes for the emitters, where the emitters are, right? You need to put it across your whole system.
+
+2072
+01:31:27,485 --> 01:31:37,405
+That's right, that's right. You describe, that's right. You start, you start, the easy way to think about it is to start with the vacuum. Now,
+
+2073
+01:31:37,405 --> 01:31:47,326
+the initial state is not the vacuum. The initial state is some particles present produced by the filaments or whatever the sources of the particles are.
+
+2074
+01:31:47,326 --> 01:31:51,956
+So those you represent by a bunch of creation operators or
+
+2075
+01:31:51,956 --> 01:31:56,586
+field operators at the position of the sources, psi, psi, psi.
+
+2076
+01:31:57,486 --> 01:32:04,946
+That's the initial state. The final states, also a vacuum and then annihilation
+
+2077
+01:32:04,946 --> 01:32:12,406
+operators, I don't know, Psi dagger, Psi dagger, Psi dagger, I guess like, that.
+
+2078
+01:32:12,406 --> 01:32:14,846
+And then stuff takes place in between.
+
+2079
+01:32:14,846 --> 01:32:17,286
+These are just the initial and final states
+
+2080
+01:32:19,826 --> 01:32:23,376
+but what goes on in between is determined by this Lebron
+
+2081
+01:32:23,376 --> 01:32:26,926
+gene. What goes on in between is determined by the Lebron genes.
+
+2082
+01:32:26,926 --> 01:32:27,046
+So, you might put a typical quadratus
+
+2083
+01:32:27,046 --> 01:32:27,406
+It's probably just the core component of the ACL.
+
+2084
+01:32:27,466 --> 01:32:27,486
+that's cool.
+
+2085
+01:32:27,486 --> 01:32:33,106
+put in many factors of the Lagrangian here
+
+2086
+01:32:33,106 --> 01:32:35,686
+each factor of the Lagrangian might
+
+2087
+01:32:35,686 --> 01:32:38,036
+absorb a particle and emit
+
+2088
+01:32:38,036 --> 01:32:40,386
+a particle at a neighboring point
+
+2089
+01:32:40,386 --> 01:32:42,966
+with enough powers of Lagrangian here
+
+2090
+01:32:42,966 --> 01:32:44,886
+you can take all of the particles
+
+2091
+01:32:44,886 --> 01:32:46,806
+and move them simultaneously from one point
+
+2092
+01:32:46,806 --> 01:32:50,926
+to another
+
+2093
+01:32:50,926 --> 01:32:54,686
+so the starting point would be some particles which were
+
+2094
+01:32:54,686 --> 01:32:57,486
+produced over here
+
+2095
+01:32:57,486 --> 01:32:59,806
+that would be this
+
+2096
+01:32:59,806 --> 01:33:02,526
+the final things where the final
+
+2097
+01:33:02,526 --> 01:33:05,246
+states might be particles absorbed over here
+
+2098
+01:33:05,246 --> 01:33:06,226
+come in
+
+2099
+01:33:06,226 --> 01:33:08,966
+what happens in between
+
+2100
+01:33:08,966 --> 01:33:11,546
+is governed by the dynamics
+
+2101
+01:33:11,546 --> 01:33:15,286
+which is just this Lagrangian repeatedly acting
+
+2102
+01:33:15,286 --> 01:33:17,946
+and taking particles from one point to another
+
+2103
+01:33:17,946 --> 01:33:20,866
+creating, annihilating particles
+
+2104
+01:33:20,866 --> 01:33:22,986
+and then at the end
+
+2105
+01:33:22,986 --> 01:33:23,986
+the detectors absorb them
+
+2106
+01:33:24,686 --> 01:33:25,686
+and in principle
+
+2107
+01:33:25,686 --> 01:33:28,686
+an infinite number of Lagrangians
+
+2108
+01:33:28,686 --> 01:33:29,686
+an infinite number
+
+2109
+01:33:29,686 --> 01:33:34,686
+so are you in some sense
+
+2110
+01:33:34,686 --> 01:33:36,686
+integrating over those Lagrangians?
+
+2111
+01:33:36,686 --> 01:33:39,686
+integrating over the positions of them, yeah
+
+2112
+01:33:39,686 --> 01:33:42,686
+yeah
+
+2113
+01:33:42,686 --> 01:33:45,686
+is that what you meant? integrating over the positions?
+
+2114
+01:33:45,686 --> 01:33:54,526
+I'm not trying to give you the finding rules
+
+2115
+01:33:54,526 --> 01:33:56,026
+I'm not trying to explain
+
+2116
+01:33:56,026 --> 01:33:57,526
+exactly how you use these things
+
+2117
+01:33:57,526 --> 01:33:59,526
+the main point for us
+
+2118
+01:33:59,526 --> 01:34:01,526
+the main point for us
+
+2119
+01:34:01,526 --> 01:34:04,526
+is that the interactions
+
+2120
+01:34:04,526 --> 01:34:06,526
+the basic interactions
+
+2121
+01:34:06,526 --> 01:34:11,526
+are coded in simple expressions involving field operators
+
+2122
+01:34:11,526 --> 01:34:13,526
+the reason we're going there
+
+2123
+01:34:13,526 --> 01:34:15,526
+is because that makes it
+
+2124
+01:34:15,526 --> 01:34:17,526
+very easy to think about symmetries
+
+2125
+01:34:17,526 --> 01:34:19,526
+for example
+
+2126
+01:34:20,526 --> 01:34:23,526
+this term in the Lagrangian has a symmetry
+
+2127
+01:34:23,526 --> 01:34:25,526
+what is that symmetry?
+
+2128
+01:34:25,526 --> 01:34:27,526
+we've talked about it before
+
+2129
+01:34:27,526 --> 01:34:31,526
+the symmetry is the symmetry of multiplying psi
+
+2130
+01:34:31,526 --> 01:34:35,526
+by e to the i times theta
+
+2131
+01:34:35,526 --> 01:34:37,526
+where theta can be anything
+
+2132
+01:34:37,526 --> 01:34:40,526
+psi dagger at the same time gets multiplied
+
+2133
+01:34:40,526 --> 01:34:43,526
+by e to the minus i theta
+
+2134
+01:34:43,526 --> 01:34:48,526
+and psi times psi dagger will be unaffected
+
+2135
+01:34:48,526 --> 01:34:51,526
+by this change of the definite
+
+2136
+01:34:51,526 --> 01:34:53,526
+by this change in psi
+
+2137
+01:34:53,526 --> 01:34:55,526
+I'm sorry, yeah
+
+2138
+01:34:58,526 --> 01:34:59,526
+so here's a symmetry
+
+2139
+01:34:59,526 --> 01:35:01,526
+a symmetry of this Lagrangian
+
+2140
+01:35:01,526 --> 01:35:03,526
+is multiplying psi by a phase
+
+2141
+01:35:03,526 --> 01:35:06,526
+multiplying psi dagger by the complex conjugate phase
+
+2142
+01:35:06,526 --> 01:35:08,526
+and doing nothing to a
+
+2143
+01:35:08,526 --> 01:35:10,526
+that will not change this Lagrangian
+
+2144
+01:35:10,526 --> 01:35:12,526
+that becomes a symmetry
+
+2145
+01:35:12,526 --> 01:35:14,526
+what is that symmetry associated with?
+
+2146
+01:35:14,526 --> 01:35:16,526
+well it's just associated with the statement
+
+2147
+01:35:16,526 --> 01:35:19,526
+that you have equal number of sies and psi daggers
+
+2148
+01:35:19,526 --> 01:35:22,526
+if you had different numbers of sies and psi daggers
+
+2149
+01:35:22,526 --> 01:35:24,526
+this would not be invariant
+
+2150
+01:35:24,526 --> 01:35:25,526
+alright
+
+2151
+01:35:25,526 --> 01:35:27,526
+what is the symmetry that has to do
+
+2152
+01:35:27,526 --> 01:35:29,526
+with equal number of sies and psi daggers?
+
+2153
+01:35:29,526 --> 01:35:31,526
+charge conservation
+
+2154
+01:35:31,526 --> 01:35:34,526
+so the point is that the
+
+2155
+01:35:34,526 --> 01:35:37,526
+basic utility of this for us
+
+2156
+01:35:37,526 --> 01:35:39,526
+will be to write down expressions
+
+2157
+01:35:39,526 --> 01:35:41,526
+where we can read off the symmetries
+
+2158
+01:35:41,526 --> 01:35:44,526
+and from the symmetries read off the conservation laws
+
+2159
+01:35:44,526 --> 01:35:47,526
+that's really what this is all about
+
+2160
+01:35:47,526 --> 01:35:49,526
+the symmetries, the conservation laws,
+
+2161
+01:35:49,526 --> 01:35:51,526
+and the very very basic primitive
+
+2162
+01:35:51,526 --> 01:35:56,526
+processes which take place at each point of space-time
+
+2163
+01:35:56,526 --> 01:35:59,526
+that's what the Lagrangian contains in it
+
+2164
+01:35:59,526 --> 01:36:00,526
+what do you do with it?
+
+2165
+01:36:00,526 --> 01:36:03,526
+well you multiply it together many many times
+
+2166
+01:36:03,526 --> 01:36:05,526
+which is just the same
+
+2167
+01:36:05,526 --> 01:36:07,526
+as saying you repeat basic processes
+
+2168
+01:36:07,526 --> 01:36:09,526
+in any order that's allowed
+
+2169
+01:36:09,526 --> 01:36:12,026
+anything that can happen that's
+
+2170
+01:36:12,026 --> 01:36:14,526
+allowed to happen by conservation laws
+
+2171
+01:36:14,526 --> 01:36:18,526
+and all of that is described by taking this Lagrangian
+
+2172
+01:36:18,526 --> 01:36:20,526
+and just hitting and hitting and hitting and hitting
+
+2173
+01:36:20,526 --> 01:36:23,526
+so that you take the initial state
+
+2174
+01:36:23,526 --> 01:36:26,526
+and eventually evolve it into the final state
+
+2175
+01:36:26,526 --> 01:36:28,526
+what is the output of this?
+
+2176
+01:36:28,526 --> 01:36:31,526
+the output of this is an amplitude
+
+2177
+01:36:31,526 --> 01:36:33,526
+but that amplitude is governed by Feynman's rules
+
+2178
+01:36:33,526 --> 01:36:35,026
+which we're not going to
+
+2179
+01:36:35,026 --> 01:36:36,526
+take up now in any case
+
+2180
+01:36:36,526 --> 01:36:39,526
+we probably will at some point
+
+2181
+01:36:39,526 --> 01:36:41,526
+but for tonight all I really
+
+2182
+01:36:41,526 --> 01:36:43,526
+wanted to do was to show
+
+2183
+01:36:48,526 --> 01:36:50,526
+to show you how basically
+
+2184
+01:36:50,526 --> 01:36:54,526
+how these processes are coded by a Lagrangian
+
+2185
+01:36:54,526 --> 01:36:58,026
+and we will use that to
+
+2186
+01:36:58,026 --> 01:37:01,526
+see how symmetries and conservation laws
+
+2187
+01:37:01,526 --> 01:37:02,526
+are connected with each other
+
+2188
+01:37:02,526 --> 01:37:04,526
+not to my fault
+
+2189
+01:37:04,526 --> 01:37:06,526
+yeah
+
+2190
+01:37:06,526 --> 01:37:10,526
+do the eigenvalues and eigenvectors of these
+
+2191
+01:37:10,526 --> 01:37:14,526
+operators play any role in this theory?
+
+2192
+01:37:14,526 --> 01:37:15,526
+sure
+
+2193
+01:37:15,526 --> 01:37:17,026
+sure, I mean let's take
+
+2194
+01:37:17,026 --> 01:37:18,526
+the case of the electromagnetic field
+
+2195
+01:37:18,526 --> 01:37:19,026
+the eigenvalues of the electromagnetic field are
+
+2196
+01:37:19,026 --> 01:37:19,526
+the same values of the electromagnetic field
+
+2197
+01:37:19,526 --> 01:37:23,526
+the eigenvalues of the electric field
+
+2198
+01:37:23,526 --> 01:37:26,526
+or field operators in general
+
+2199
+01:37:26,526 --> 01:37:29,026
+are the possible measurable values of
+
+2200
+01:37:29,026 --> 01:37:31,526
+the field if you measured it
+
+2201
+01:37:31,526 --> 01:37:35,526
+you do measure electromagnetic fields
+
+2202
+01:37:35,526 --> 01:37:39,526
+when you measure
+
+2203
+01:37:39,526 --> 01:37:41,526
+how do you measure an electric field?
+
+2204
+01:37:41,526 --> 01:37:42,526
+you measure an electric field by
+
+2205
+01:37:42,526 --> 01:37:43,526
+putting a charged particle into it
+
+2206
+01:37:43,526 --> 01:37:45,526
+and seeing how it accelerates
+
+2207
+01:37:45,526 --> 01:37:47,526
+you can get different values
+
+2208
+01:37:47,526 --> 01:37:48,526
+those values are the eigenvalues of the electric field
+
+2209
+01:37:48,526 --> 01:38:03,526
+it's kind of interesting
+
+2210
+01:38:03,526 --> 01:38:04,526
+the electric magnetic field
+
+2211
+01:38:04,526 --> 01:38:05,526
+field operators in general
+
+2212
+01:38:05,526 --> 01:38:08,526
+are built up out of creation and annihilation operators
+
+2213
+01:38:08,526 --> 01:38:10,526
+creation and annihilation operators
+
+2214
+01:38:10,526 --> 01:38:12,526
+don't commute with each other
+
+2215
+01:38:12,526 --> 01:38:15,526
+that means in general
+
+2216
+01:38:15,526 --> 01:38:18,526
+that the field operators don't commute with each other
+
+2217
+01:38:18,526 --> 01:38:21,526
+what's not to commute?
+
+2218
+01:38:21,526 --> 01:38:24,526
+phi has to commute with phi
+
+2219
+01:38:24,526 --> 01:38:27,526
+because it's the same thing, right?
+
+2220
+01:38:27,526 --> 01:38:31,526
+what's the commutator between a thing and itself?
+
+2221
+01:38:31,526 --> 01:38:33,526
+zero always
+
+2222
+01:38:33,526 --> 01:38:36,526
+so the commutator of phi with itself is always zero
+
+2223
+01:38:36,526 --> 01:38:38,526
+but not so
+
+2224
+01:38:38,526 --> 01:38:40,026
+because you can take the
+
+2225
+01:38:40,026 --> 01:38:41,526
+commutator of phi at one point
+
+2226
+01:38:41,526 --> 01:38:44,526
+with phi at another point
+
+2227
+01:38:44,526 --> 01:38:46,526
+a neighboring or some other point
+
+2228
+01:38:46,526 --> 01:38:47,526
+it could be at a different point
+
+2229
+01:38:47,526 --> 01:38:49,526
+it could be a neighboring point
+
+2230
+01:38:49,526 --> 01:38:52,026
+each one of those phi's is
+
+2231
+01:38:52,026 --> 01:38:54,526
+made out of creation and annihilation operators
+
+2232
+01:38:54,526 --> 01:38:56,526
+they're not the same operators
+
+2233
+01:38:56,526 --> 01:38:58,026
+because they're evaluated at different
+
+2234
+01:38:58,026 --> 01:38:59,526
+positions of space or time
+
+2235
+01:38:59,526 --> 01:39:02,526
+and in general they will not commute
+
+2236
+01:39:02,526 --> 01:39:04,526
+what is the meaning of this?
+
+2237
+01:39:04,526 --> 01:39:06,526
+the meaning of this is that in general
+
+2238
+01:39:06,526 --> 01:39:08,526
+you cannot simultaneously measure the
+
+2239
+01:39:08,526 --> 01:39:10,526
+field operator at two different positions
+
+2240
+01:39:10,526 --> 01:39:13,526
+there are uncertainty relations
+
+2241
+01:39:13,526 --> 01:39:16,526
+in measuring fields or time derivatives of fields
+
+2242
+01:39:16,526 --> 01:39:19,526
+at two different positions of space-time
+
+2243
+01:39:19,526 --> 01:39:22,526
+so you asked me about
+
+2244
+01:39:22,526 --> 01:39:24,526
+I think you asked me about that
+
+2245
+01:39:24,526 --> 01:39:25,526
+did you ask me about that?
+
+2246
+01:39:25,526 --> 01:39:28,026
+yeah, you asked me about the field
+
+2247
+01:39:28,026 --> 01:39:30,526
+operator as a thing which can be measured
+
+2248
+01:39:30,526 --> 01:39:33,526
+well, yes, the field operators can be measured
+
+2249
+01:39:33,526 --> 01:39:36,026
+their eigenvectors and eigenvalues play the
+
+2250
+01:39:36,026 --> 01:39:38,526
+usual role as in quantum mechanics
+
+2251
+01:39:38,526 --> 01:39:41,526
+and the commutation relations tell you limitations
+
+2252
+01:39:41,526 --> 01:39:44,526
+on being able to measure two things simultaneously
+
+2253
+01:39:44,526 --> 01:39:46,526
+so all the standard rules of physics are the same
+
+2254
+01:39:46,526 --> 01:39:49,526
+so quantum mechanics apply to this system
+
+2255
+01:39:57,526 --> 01:40:00,526
+in classical electrodynamics we learned that
+
+2256
+01:40:00,526 --> 01:40:03,526
+the foot of the electromagnetic field is measured in volts
+
+2257
+01:40:03,526 --> 01:40:04,526
+the electromagnetic field
+
+2258
+01:40:04,526 --> 01:40:06,526
+is measured in volts
+
+2259
+01:40:06,526 --> 01:40:07,526
+in volts, ok
+
+2260
+01:40:07,526 --> 01:40:10,526
+in volts per meter
+
+2261
+01:40:12,526 --> 01:40:15,526
+yeah, the electric field is measured in volts per meter
+
+2262
+01:40:16,526 --> 01:40:18,526
+is the electric field measured in volts also?
+
+2263
+01:40:18,526 --> 01:40:21,526
+the volt-point field is measured in the same thing
+
+2264
+01:40:21,526 --> 01:40:23,526
+yeah
+
+2265
+01:40:23,526 --> 01:40:26,526
+yeah, but it's a poor way to think about it
+
+2266
+01:40:26,526 --> 01:40:27,526
+I mean, you don't want
+
+2267
+01:40:27,526 --> 01:40:28,526
+to think about volts and meters
+
+2268
+01:40:28,526 --> 01:40:30,526
+when you're thinking about the
+
+2269
+01:40:30,526 --> 01:40:32,526
+you're better off measuring it
+
+2270
+01:40:32,526 --> 01:40:34,526
+in terms of number of photons
+
+2271
+01:40:34,526 --> 01:40:36,526
+and
+
+2272
+01:40:36,526 --> 01:40:43,526
+it's not profitable to think of the electromagnetic field
+
+2273
+01:40:43,526 --> 01:40:45,526
+when you're thinking about microscopic physics
+
+2274
+01:40:45,526 --> 01:40:48,526
+and volts and meters
+
+2275
+01:40:50,018 --> 01:40:53,558
+パティックオイルにも合っています
+
+2276
+01:40:53,570 --> 01:40:56,070
+probably also not proper to think about quantum
+
+2277
+01:40:56,070 --> 01:40:58,570
+field theory when you're trying to water your house.
+
+2278
+01:40:58,570 --> 01:40:59,570
+Yeah.
+
+2279
+01:41:10,570 --> 01:41:14,570
+Just to summarize today, could you say that
+
+2280
+01:41:14,570 --> 01:41:18,570
+the idea behind what you're saying is that
+
+2281
+01:41:18,570 --> 01:41:21,570
+the way to study all these things is basically
+
+2282
+01:41:21,570 --> 01:41:24,570
+by taking the Lagrangians and that's the building block,
+
+2283
+01:41:24,570 --> 01:41:26,570
+and you put them together in
+
+2284
+01:41:26,570 --> 01:41:28,570
+different ways, and that's the general idea?
+
+2285
+01:41:28,570 --> 01:41:29,570
+Yeah.
+
+2286
+01:41:31,570 --> 01:41:33,570
+Processes can happen over...
+
+2287
+01:41:33,570 --> 01:41:36,570
+Processes can repeat one to the next to the next.
+
+2288
+01:41:36,570 --> 01:41:39,070
+In other words, you can have a process followed by
+
+2289
+01:41:39,070 --> 01:41:41,570
+a process followed by a process followed by a process.
+
+2290
+01:41:41,570 --> 01:41:44,570
+The basic...all processes are built
+
+2291
+01:41:44,570 --> 01:41:47,570
+up out of basic elements.
+
+2292
+01:41:47,570 --> 01:41:48,570
+And the basic elements are the basic elements.
+
+2293
+01:41:48,570 --> 01:41:53,070
+The basic elements have one important feature, that they are
+
+2294
+01:41:53,070 --> 01:41:57,570
+associated with points of space or neighboring points of space.
+
+2295
+01:41:57,570 --> 01:41:59,570
+Neighboring points of space are pretty close together.
+
+2296
+01:41:59,570 --> 01:42:03,570
+So that's another way of saying that they're local.
+
+2297
+01:42:03,570 --> 01:42:07,570
+That nothing...and there's no action at a distance.
+
+2298
+01:42:07,570 --> 01:42:10,570
+That the basic indivisible processes
+
+2299
+01:42:10,570 --> 01:42:13,570
+are local, and non-local processes,
+
+2300
+01:42:13,570 --> 01:42:15,570
+such as a photon going from one place to
+
+2301
+01:42:15,570 --> 01:42:17,570
+another, are built up out of these local processes.
+
+2302
+01:42:18,570 --> 01:42:20,570
+When you have a creation of a
+
+2303
+01:42:20,570 --> 01:42:22,570
+photon, right, and then it moves across space,
+
+2304
+01:42:22,570 --> 01:42:25,570
+and you've got these Lagrangians that you think about,
+
+2305
+01:42:25,570 --> 01:42:29,570
+is there some simplification by compacting many of them?
+
+2306
+01:42:29,570 --> 01:42:31,570
+Can you come up with a transformation
+
+2307
+01:42:31,570 --> 01:42:33,570
+that kind of represents all of them?
+
+2308
+01:42:33,570 --> 01:42:36,570
+So basically you can break it down into three processes.
+
+2309
+01:42:36,570 --> 01:42:39,570
+The generation, the movement, and the term.
+
+2310
+01:42:39,570 --> 01:42:41,570
+The creation and the destruction.
+
+2311
+01:42:41,570 --> 01:42:47,570
+Roughly speaking, you simply take...
+
+2312
+01:42:47,570 --> 01:42:49,570
+This is not exact, but it's roughly speaking.
+
+2313
+01:42:49,570 --> 01:42:54,570
+You take one plus, let's call
+
+2314
+01:42:54,570 --> 01:42:59,570
+it the interaction Lagrangian, L interaction,
+
+2315
+01:42:59,570 --> 01:43:02,570
+at point X.
+
+2316
+01:43:02,570 --> 01:43:05,070
+And now you multiply them
+
+2317
+01:43:05,070 --> 01:43:07,570
+together at all points of space.
+
+2318
+01:43:07,570 --> 01:43:11,570
+X1, X2, X3, and X4, and so forth.
+
+2319
+01:43:11,570 --> 01:43:13,570
+What do you get then?
+
+2320
+01:43:13,570 --> 01:43:16,570
+Well, first of all you just get one.
+
+2321
+01:43:16,570 --> 01:43:17,570
+That's not interesting.
+
+2322
+01:43:17,570 --> 01:43:19,570
+That doesn't do anything.
+
+2323
+01:43:19,570 --> 01:43:23,070
+And then you get all the possible
+
+2324
+01:43:23,070 --> 01:43:26,570
+terms in which every factor here is one,
+
+2325
+01:43:26,570 --> 01:43:27,570
+except one.
+
+2326
+01:43:27,570 --> 01:43:29,570
+Except one factor.
+
+2327
+01:43:29,570 --> 01:43:32,070
+That will give you the sum
+
+2328
+01:43:32,070 --> 01:43:34,570
+of the Lagrangian over all space.
+
+2329
+01:43:34,570 --> 01:43:46,570
+Okay, let me show you what I mean.
+
+2330
+01:43:46,570 --> 01:43:52,570
+You take one plus the Lagrangian at point X.
+
+2331
+01:43:52,570 --> 01:43:54,570
+Do the same thing at point X prime.
+
+2332
+01:43:54,570 --> 01:43:59,570
+One plus Lagrangian at point X prime.
+
+2333
+01:43:59,570 --> 01:44:03,570
+One plus the Lagrangian at point X double prime.
+
+2334
+01:44:03,570 --> 01:44:06,570
+And you do this for every point in space.
+
+2335
+01:44:06,570 --> 01:44:08,070
+Now every point in space
+
+2336
+01:44:08,070 --> 01:44:09,570
+means every point on this grid.
+
+2337
+01:44:09,570 --> 01:44:11,570
+Let's take just two terms.
+
+2338
+01:44:11,570 --> 01:44:12,570
+Let's just take two factors.
+
+2339
+01:44:12,570 --> 01:44:14,570
+What does it give you?
+
+2340
+01:44:14,570 --> 01:44:21,070
+It gives you one plus L at point X plus L at point
+
+2341
+01:44:21,070 --> 01:44:27,570
+X prime plus L at point X times L at point X prime, right?
+
+2342
+01:44:27,570 --> 01:44:29,570
+What does this represent?
+
+2343
+01:44:29,570 --> 01:44:33,570
+This represents nothing happening.
+
+2344
+01:44:33,570 --> 01:44:36,570
+This represents a basic, for example,
+
+2345
+01:44:36,570 --> 01:44:39,570
+a basic interaction at point X.
+
+2346
+01:44:39,570 --> 01:44:41,570
+This represents the same basic interaction
+
+2347
+01:44:41,570 --> 01:44:43,570
+taking place at point X prime.
+
+2348
+01:44:44,570 --> 01:44:46,570
+So this could be nothing.
+
+2349
+01:44:46,570 --> 01:44:51,570
+This could be particles absorbed and emitted at point X.
+
+2350
+01:44:51,570 --> 01:44:53,070
+This could be particles absorbed
+
+2351
+01:44:53,070 --> 01:44:54,570
+and emitted at point X prime.
+
+2352
+01:44:54,570 --> 01:45:00,570
+And what about this one?
+
+2353
+01:45:00,570 --> 01:45:05,570
+Right, so this could be something else happening over here.
+
+2354
+01:45:05,570 --> 01:45:13,570
+And this one would represent particle absorbed at point X,
+
+2355
+01:45:13,570 --> 01:45:21,570
+something emitted, and then...
+
+2356
+01:45:21,570 --> 01:45:23,070
+Right, given that first one
+
+2357
+01:45:23,070 --> 01:45:24,570
+happened, then the second one happened.
+
+2358
+01:45:24,570 --> 01:45:27,070
+Well, the first term here just represents
+
+2359
+01:45:27,070 --> 01:45:29,570
+one process and only one process taking place.
+
+2360
+01:45:29,570 --> 01:45:32,070
+The last term says that something
+
+2361
+01:45:32,070 --> 01:45:34,570
+is contingent on something else having happened.
+
+2362
+01:45:34,570 --> 01:45:36,070
+Well, it just means both
+
+2363
+01:45:36,070 --> 01:45:37,570
+things happen one after the other.
+
+2364
+01:45:37,570 --> 01:45:41,570
+Right, so it represents two particles being absorbed,
+
+2365
+01:45:41,570 --> 01:45:43,570
+and then two particles being, you
+
+2366
+01:45:43,570 --> 01:45:45,570
+know, you see what it means.
+
+2367
+01:45:45,570 --> 01:45:48,570
+And eventually, by the time you
+
+2368
+01:45:48,570 --> 01:45:51,570
+multiply all of these terms together,
+
+2369
+01:45:51,570 --> 01:45:55,570
+you get an infinite number of terms in which a
+
+2370
+01:45:55,570 --> 01:45:59,570
+basic unit can happen at every point of space once.
+
+2371
+01:45:59,570 --> 01:46:03,070
+And then an infinite number of terms
+
+2372
+01:46:03,070 --> 01:46:06,570
+where two points of space are involved.
+
+2373
+01:46:06,570 --> 01:46:08,070
+And then an infinite number of terms
+
+2374
+01:46:08,070 --> 01:46:09,570
+where three points of space are involved.
+
+2375
+01:46:09,570 --> 01:46:13,570
+Let's draw one where three points of space are involved.
+
+2376
+01:46:13,570 --> 01:46:16,070
+Two particles come in, a particle
+
+2377
+01:46:16,070 --> 01:46:18,570
+goes out, another particle goes out,
+
+2378
+01:46:18,570 --> 01:46:20,070
+another particle, that's only
+
+2379
+01:46:20,070 --> 01:46:21,570
+two points of space, space-time,
+
+2380
+01:46:21,570 --> 01:46:24,570
+and then another vertex over here.
+
+2381
+01:46:24,570 --> 01:46:29,570
+So that's two particles in, three particles out.
+
+2382
+01:46:29,570 --> 01:46:31,570
+I think what he was saying
+
+2383
+01:46:31,570 --> 01:46:33,570
+is that if you have motion terms...
+
+2384
+01:46:33,570 --> 01:46:35,570
+Oh, they're also in here.
+
+2385
+01:46:35,570 --> 01:46:38,570
+I'm just saying since you have motion terms,
+
+2386
+01:46:38,570 --> 01:46:39,570
+Yeah.
+
+2387
+01:46:39,570 --> 01:46:42,070
+one motion term of a movement
+
+2388
+01:46:42,070 --> 01:46:44,570
+from a photon for a finite distance
+
+2389
+01:46:44,570 --> 01:46:48,570
+takes an infinite number of applications of the Lagrangian.
+
+2390
+01:46:48,570 --> 01:46:52,570
+Well, that's true, but we...
+
+2391
+01:46:52,570 --> 01:46:55,070
+So I'm just saying that, well,
+
+2392
+01:46:55,070 --> 01:46:57,570
+you kind of have equations of motion
+
+2393
+01:46:57,570 --> 01:47:01,070
+for that part of the Lagrangian, and you
+
+2394
+01:47:01,070 --> 01:47:04,570
+can just trace out the motion or something.
+
+2395
+01:47:04,570 --> 01:47:06,570
+Motion of a particle from here to
+
+2396
+01:47:06,570 --> 01:47:08,570
+here will involve a bunch of terms
+
+2397
+01:47:08,570 --> 01:47:14,570
+that are not actually motion terms.
+
+2398
+01:47:14,570 --> 01:47:21,570
+This term will appear in this big product.
+
+2399
+01:47:21,570 --> 01:47:25,570
+Somewhere in this big product there will be
+
+2400
+01:47:25,570 --> 01:47:29,570
+a term which involves L at point one point,
+
+2401
+01:47:29,570 --> 01:47:31,570
+L at the neighboring point, L at
+
+2402
+01:47:31,570 --> 01:47:33,570
+the neighboring point, L at the neighboring point,
+
+2403
+01:47:33,570 --> 01:47:36,570
+and which will transport the particle from here to here.
+
+2404
+01:47:36,570 --> 01:47:37,570
+Okay.
+
+2405
+01:47:37,570 --> 01:47:40,070
+So if you find this big
+
+2406
+01:47:40,070 --> 01:47:42,570
+product, you'll find exactly the right thing
+
+2407
+01:47:42,570 --> 01:47:48,570
+to take you from here to here.
+
+2408
+01:47:48,570 --> 01:47:50,570
+Actually, by many roots, there will be many...
+
+2409
+01:47:50,570 --> 01:47:52,070
+Okay, first of all, there
+
+2410
+01:47:52,070 --> 01:47:53,570
+will be many, many such terms
+
+2411
+01:47:53,570 --> 01:47:56,570
+which can take the particle from
+
+2412
+01:47:56,570 --> 01:47:59,570
+here to here, depending on the orbit.
+
+2413
+01:47:59,570 --> 01:48:01,570
+The actual amplitude to go from here
+
+2414
+01:48:01,570 --> 01:48:03,570
+to here is the sum of them.
+
+2415
+01:48:03,570 --> 01:48:05,070
+All the possible ways you
+
+2416
+01:48:05,070 --> 01:48:06,570
+can get from here to here,
+
+2417
+01:48:06,570 --> 01:48:10,570
+multiplying out this long string of factors,
+
+2418
+01:48:10,570 --> 01:48:14,570
+will give you a possible process whereby the
+
+2419
+01:48:14,570 --> 01:48:18,570
+particle can go from this point to this point.
+
+2420
+01:48:18,570 --> 01:48:21,070
+The total amplitude, the thing that
+
+2421
+01:48:21,070 --> 01:48:23,570
+you square to get the probability,
+
+2422
+01:48:23,570 --> 01:48:25,570
+will be the sum of all ways
+
+2423
+01:48:25,570 --> 01:48:27,570
+that can go from here to here.
+
+2424
+01:48:27,570 --> 01:48:29,070
+So would that be consistent
+
+2425
+01:48:29,070 --> 01:48:30,570
+with the double split, the fraction?
+
+2426
+01:48:30,570 --> 01:48:32,570
+Yeah, exactly.
+
+2427
+01:48:32,570 --> 01:48:33,570
+Right.
+
+2428
+01:48:33,570 --> 01:48:35,070
+So when you multiply out
+
+2429
+01:48:35,070 --> 01:48:36,570
+this big string of terms here,
+
+2430
+01:48:36,570 --> 01:48:41,070
+you will find terms corresponding to
+
+2431
+01:48:41,070 --> 01:48:45,570
+all possible roots from here to here.
+
+2432
+01:48:45,570 --> 01:48:48,570
+The amplitude will be the sum of all
+
+2433
+01:48:48,570 --> 01:48:51,570
+those ways of getting from here to here.
+
+2434
+01:48:51,570 --> 01:48:54,570
+And when you square it, there will be interference terms,
+
+2435
+01:48:54,570 --> 01:48:58,570
+in particular if there are double splits.
+
+2436
+01:48:59,042 --> 01:49:00,682
+ありがとうございました
+
+2437
+01:49:00,706 --> 01:49:02,706
+Where did the one come from?
+
+2438
+01:49:02,706 --> 01:49:04,706
+I just know that it's there.
+
+2439
+01:49:04,706 --> 01:49:06,706
+Where did it come from?
+
+2440
+01:49:10,706 --> 01:49:12,706
+It's a trick to get all the combinations.
+
+2441
+01:49:12,706 --> 01:49:14,206
+Yeah, that's right. It's a
+
+2442
+01:49:14,206 --> 01:49:15,706
+trick to get all the combinations.
+
+2443
+01:49:15,706 --> 01:49:18,706
+It really comes from finding path integral methods.
+
+2444
+01:49:18,706 --> 01:49:20,706
+But you can just think of it as
+
+2445
+01:49:20,706 --> 01:49:22,706
+a trick to write down all the combinations.
+
+2446
+01:49:25,706 --> 01:49:27,706
+And that's what really this is all about.
+
+2447
+01:49:27,706 --> 01:49:32,206
+Just all possible combinations of ways
+
+2448
+01:49:32,206 --> 01:49:36,706
+of going from one place to another
+
+2449
+01:49:36,706 --> 01:49:40,706
+are described by this product here.
+
+2450
+01:49:42,706 --> 01:49:44,706
+I'm cheating a little bit when I write this down.
+
+2451
+01:49:44,706 --> 01:49:46,206
+This is really a more technical expression,
+
+2452
+01:49:46,206 --> 01:49:47,706
+but this is close to the right thing.
+
+2453
+01:49:57,706 --> 01:50:01,706
+Well, okay, in quantum mechanics, it's not the principles...
+
+2454
+01:50:01,706 --> 01:50:03,206
+Yeah, the principle of stationary
+
+2455
+01:50:03,206 --> 01:50:04,706
+action. Good. Yeah, that's right.
+
+2456
+01:50:05,706 --> 01:50:07,706
+The principle of...
+
+2457
+01:50:07,706 --> 01:50:10,706
+No, it's not the principle of stationary action.
+
+2458
+01:50:10,706 --> 01:50:12,706
+It's...
+
+2459
+01:50:12,706 --> 01:50:15,706
+In classical mechanics, the principle of
+
+2460
+01:50:15,706 --> 01:50:18,706
+stationary action picks out a particular trajectory.
+
+2461
+01:50:18,706 --> 01:50:21,706
+It picks out the trajectory of, let's say, minimum action.
+
+2462
+01:50:21,706 --> 01:50:24,706
+This is the principle of summing over trajectories
+
+2463
+01:50:24,706 --> 01:50:26,706
+where...
+
+2464
+01:50:27,706 --> 01:50:30,206
+where the amplitude for summing over
+
+2465
+01:50:30,206 --> 01:50:32,706
+the trajectories is determined by the action.
+
+2466
+01:50:33,706 --> 01:50:36,706
+Including going to Paris on the way...
+
+2467
+01:50:36,706 --> 01:50:40,206
+Yes, including going to Paris from the
+
+2468
+01:50:40,206 --> 01:50:43,706
+way from my office to my house.
+
+2469
+01:50:43,706 --> 01:50:46,206
+So, then you just said it's an art
+
+2470
+01:50:46,206 --> 01:50:48,706
+form to figure out how to express that?
+
+2471
+01:50:48,706 --> 01:50:52,206
+No, no, no. It's an art form
+
+2472
+01:50:52,206 --> 01:50:55,706
+to figure out what the Lagrangian is.
+
+2473
+01:50:55,706 --> 01:50:56,706
+Once you know the Lagrangian, the rules are very down.
+
+2474
+01:50:57,706 --> 01:50:59,706
+It's very definite.
+
+2475
+01:50:59,706 --> 01:51:00,706
+So...
+
+2476
+01:51:00,706 --> 01:51:02,706
+Well, calculating it, I'm sure, has its art too.
+
+2477
+01:51:02,706 --> 01:51:04,706
+It does. It does. It does.
+
+2478
+01:51:04,706 --> 01:51:08,706
+But only like any other mathematics has its art.
+
+2479
+01:51:08,706 --> 01:51:10,706
+You have to be clever.
+
+2480
+01:51:10,706 --> 01:51:12,706
+The...
+
+2481
+01:51:13,706 --> 01:51:15,706
+Well, what do we call it?
+
+2482
+01:51:15,706 --> 01:51:18,206
+When you don't know what you're doing
+
+2483
+01:51:18,206 --> 01:51:20,706
+and you're groping and you're guessing and you...
+
+2484
+01:51:20,706 --> 01:51:22,706
+Art. Art. Yeah.
+
+2485
+01:51:24,706 --> 01:51:26,706
+The art form is in finding tricks to...
+
+2486
+01:51:26,706 --> 01:51:30,706
+to figure out what the Lagrangian is from experimental data.
+
+2487
+01:51:30,706 --> 01:51:34,706
+Once you know it, then you use it
+
+2488
+01:51:34,706 --> 01:51:38,706
+in a very, very precise formalism to calculate probabilities.
+
+2489
+01:51:38,706 --> 01:51:43,206
+The teacher says, research is what I
+
+2490
+01:51:43,206 --> 01:51:47,706
+call when I don't know what I'm doing.
+
+2491
+01:51:47,706 --> 01:51:48,706
+Yeah.
+
+2492
+01:51:50,706 --> 01:51:54,706
+But, you know, somebody tells you, here is the Lagrangian.
+
+2493
+01:51:54,706 --> 01:51:57,706
+Here is the process I'm interested in.
+
+2494
+01:51:57,706 --> 01:52:00,706
+Two particles in, four particles out.
+
+2495
+01:52:00,706 --> 01:52:02,706
+Two particles come in from here,
+
+2496
+01:52:02,706 --> 01:52:04,706
+four particles go out over here.
+
+2497
+01:52:04,706 --> 01:52:09,706
+Calculate for me the probability for that process to happen.
+
+2498
+01:52:09,706 --> 01:52:13,706
+Then quantum field theory is an extremely precise tool.
+
+2499
+01:52:13,706 --> 01:52:15,706
+There's no ambiguities in how you use it.
+
+2500
+01:52:15,706 --> 01:52:19,206
+The ambiguities are not the ambiguities, but the art form
+
+2501
+01:52:19,206 --> 01:52:22,706
+is in figuring out what that Lagrangian is from experimental data.
+
+2502
+01:52:22,706 --> 01:52:23,706
+And...
+
+2503
+01:52:24,706 --> 01:52:31,206
+So the forms in art, is there like
+
+2504
+01:52:31,206 --> 01:52:37,706
+a Lagrangian for every different part of those interactions?
+
+2505
+01:52:37,706 --> 01:52:40,706
+Like straight to the book of Lagrangians?
+
+2506
+01:52:40,706 --> 01:52:42,706
+Yeah.
+
+2507
+01:52:42,706 --> 01:52:45,706
+The big book of Lagrangians.
+
+2508
+01:52:48,706 --> 01:52:49,706
+Okay.
+
+2509
+01:52:49,706 --> 01:52:51,206
+I think what you're asking me
+
+2510
+01:52:51,206 --> 01:52:52,706
+is how complicated the Lagrangian is.
+
+2511
+01:52:52,706 --> 01:52:53,706
+Okay.
+
+2512
+01:52:53,706 --> 01:52:54,706
+I think what you're asking me is
+
+2513
+01:52:54,706 --> 01:52:55,706
+how complicated the Lagrangian of the world is.
+
+2514
+01:52:55,706 --> 01:53:00,706
+You know, there's one...
+
+2515
+01:53:00,706 --> 01:53:03,706
+At least in physicists' minds, there
+
+2516
+01:53:03,706 --> 01:53:06,706
+is one Lagrangian that governs everything.
+
+2517
+01:53:06,706 --> 01:53:08,206
+Now that may not really be
+
+2518
+01:53:08,206 --> 01:53:09,706
+true, but let's suppose that it is.
+
+2519
+01:53:09,706 --> 01:53:11,706
+And it contains a large number of fields.
+
+2520
+01:53:11,706 --> 01:53:14,706
+It contains all of the fields describing all
+
+2521
+01:53:14,706 --> 01:53:17,706
+of the particles and all of the interactions.
+
+2522
+01:53:17,706 --> 01:53:20,206
+And it may have the sum of many, many
+
+2523
+01:53:20,206 --> 01:53:22,706
+terms like this describing lots and lots of different interactions.
+
+2524
+01:53:22,706 --> 01:53:26,706
+But it's one Lagrangian.
+
+2525
+01:53:26,706 --> 01:53:31,206
+Maybe composed out of sums of
+
+2526
+01:53:31,206 --> 01:53:35,706
+pieces which individually look like recognizable pieces.
+
+2527
+01:53:35,706 --> 01:53:38,206
+But the whole thing is one
+
+2528
+01:53:38,206 --> 01:53:40,706
+big Lagrangian that governs all of nature.
+
+2529
+01:53:40,706 --> 01:53:43,706
+Now this may be really false, but that's the idea.
+
+2530
+01:53:43,706 --> 01:53:46,706
+That there's one big Lagrangian with many
+
+2531
+01:53:46,706 --> 01:53:49,706
+terms in it that just governs everything.
+
+2532
+01:53:49,706 --> 01:53:50,706
+You got there one term.
+
+2533
+01:53:50,706 --> 01:53:51,706
+You got there one term.
+
+2534
+01:53:51,706 --> 01:53:55,206
+Well, maybe a little better than one
+
+2535
+01:53:55,206 --> 01:53:58,706
+term at a time, but roughly speaking, yes.
+
+2536
+01:53:58,706 --> 01:54:01,706
+Every time we discover a new particle, we discover
+
+2537
+01:54:01,706 --> 01:54:04,706
+a new field that has to go into that Lagrangian.
+
+2538
+01:54:04,706 --> 01:54:08,206
+Every time we discover a new process,
+
+2539
+01:54:08,206 --> 01:54:11,706
+that's a new interaction in the Lagrangian.
+
+2540
+01:54:11,706 --> 01:54:13,706
+So you might say, well, this
+
+2541
+01:54:13,706 --> 01:54:15,706
+whole thing is a big giant mess.
+
+2542
+01:54:15,706 --> 01:54:17,706
+And indeed it is.
+
+2543
+01:54:17,706 --> 01:54:18,706
+There are probably at least
+
+2544
+01:54:18,706 --> 01:54:19,706
+a hundred different elementary particles.
+
+2545
+01:54:19,706 --> 01:54:20,206
+There are probably at least
+
+2546
+01:54:20,206 --> 01:54:20,706
+a hundred different elementary particles.
+
+2547
+01:54:20,706 --> 01:54:21,206
+There are probably at least
+
+2548
+01:54:21,206 --> 01:54:21,706
+a hundred different elementary particles.
+
+2549
+01:54:21,706 --> 01:54:22,206
+There are probably at least
+
+2550
+01:54:22,206 --> 01:54:22,706
+a hundred different elementary particles.
+
+2551
+01:54:22,706 --> 01:54:24,706
+Things that we call elementary particles.
+
+2552
+01:54:24,706 --> 01:54:28,706
+Five hundred different terms in Lagrangian.
+
+2553
+01:54:28,706 --> 01:54:31,206
+In fact, it's so bad that the kinds of
+
+2554
+01:54:31,206 --> 01:54:33,706
+Lagrangians that people write down to describe the standard.
+
+2555
+01:54:33,706 --> 01:54:37,706
+If you wanted to write down all the
+
+2556
+01:54:37,706 --> 01:54:41,706
+physics which is known, which means quantum electrodynamics,
+
+2557
+01:54:41,706 --> 01:54:45,706
+the strong interactions, strong nuclear force,
+
+2558
+01:54:45,706 --> 01:54:49,706
+quantum chromodynamics, the weak interactions, gravity,
+
+2559
+01:54:49,706 --> 01:54:52,186
+gravity and everything else, your Lagrangian would
+
+2560
+01:54:52,186 --> 01:54:54,666
+fill, not a book I don't think,
+
+2561
+01:54:54,666 --> 01:54:59,066
+but it would fill a couple of closely spaced pages.
+
+2562
+01:54:59,066 --> 01:55:02,186
+Are these fields what determine
+
+2563
+01:55:02,186 --> 01:55:05,306
+the shape of the Klaviyo manifolds?
+
+2564
+01:55:05,306 --> 01:55:08,186
+Well, look, there you're going into, you're
+
+2565
+01:55:08,186 --> 01:55:11,066
+going beyond basic quantum field theory there.
+
+2566
+01:55:11,066 --> 01:55:14,826
+You're talking now about those things which
+
+2567
+01:55:14,826 --> 01:55:18,586
+are outside the framework of standard quantum field
+
+2568
+01:55:18,586 --> 01:55:20,586
+theory.
+
+2569
+01:55:20,586 --> 01:55:22,586
+Right.
+
+2570
+01:55:22,586 --> 01:55:24,586
+So you packed it all into one
+
+2571
+01:55:24,586 --> 01:55:26,586
+number, and then there's this coupling constant.
+
+2572
+01:55:26,586 --> 01:55:28,586
+The coupling constants are
+
+2573
+01:55:28,586 --> 01:55:30,586
+the coefficients in the Lagrangian.
+
+2574
+01:55:30,586 --> 01:55:32,586
+And that's what the experimental data is.
+
+2575
+01:55:32,586 --> 01:55:36,586
+Yeah. So for example, here's a coupling constant. The
+
+2576
+01:55:36,586 --> 01:55:40,586
+mass squared is also a kind of coupling constant.
+
+2577
+01:55:40,586 --> 01:55:44,586
+It's also a coefficient in Lagrangian. Various coefficients, you could have
+
+2578
+01:55:44,586 --> 01:55:48,586
+5 to the 4th, 5 to the 6th, 5 to the 500.
+
+2579
+01:55:48,586 --> 01:55:50,586
+Each one would be a coupling constant.
+
+2580
+01:55:50,586 --> 01:55:56,586
+So it's a mess. It's a big mess. But
+
+2581
+01:55:56,586 --> 01:56:02,586
+once you know the Lagrangian, you know a lot.
+
+2582
+01:56:02,586 --> 01:56:04,086
+You deduce a lot of different
+
+2583
+01:56:04,086 --> 01:56:05,586
+kinds of processes out of it.
+
+2584
+01:56:05,586 --> 01:56:08,086
+Now do you have to know the whole
+
+2585
+01:56:08,086 --> 01:56:10,586
+thing in order, for example, to study quantum electrodynamics?
+
+2586
+01:56:10,586 --> 01:56:13,586
+Well, if you wanted it with infinite precision, you would have to
+
+2587
+01:56:13,586 --> 01:56:16,586
+know how the electron interacts with all the particles in the quantum field.
+
+2588
+01:56:16,586 --> 01:56:17,586
+Right.
+
+2589
+01:56:17,586 --> 01:56:20,586
+It interacts with all the particles, all the different
+
+2590
+01:56:20,586 --> 01:56:23,586
+kinds of particles, through all of the possible interactions.
+
+2591
+01:56:23,586 --> 01:56:27,086
+But in fact, quarks are not
+
+2592
+01:56:27,086 --> 01:56:30,586
+very important to the way electrons behave.
+
+2593
+01:56:30,586 --> 01:56:33,586
+Quarks are pretty much isolated from electrons.
+
+2594
+01:56:33,586 --> 01:56:36,586
+They don't mix too much with them.
+
+2595
+01:56:36,586 --> 01:56:40,086
+And so you can pretty much ignore quarks if
+
+2596
+01:56:40,086 --> 01:56:43,586
+you're only interested in electrons and photons and atomic energies.
+
+2597
+01:56:43,586 --> 01:56:46,586
+You just don't have enough energy
+
+2598
+01:56:46,586 --> 01:56:50,586
+to sense the tiny, tiny quark structure.
+
+2599
+01:56:50,586 --> 01:56:53,586
+And so for practical purposes, you can
+
+2600
+01:56:53,586 --> 01:56:56,586
+often break off a piece of this Lagrangian
+
+2601
+01:56:56,586 --> 01:56:59,086
+and say all the other things in it
+
+2602
+01:56:59,086 --> 01:57:01,586
+are not terribly important to what you're calculating.
+
+2603
+01:57:01,586 --> 01:57:03,086
+Break off small pieces of
+
+2604
+01:57:03,086 --> 01:57:04,586
+the Lagrangian and calculate with it.
+
+2605
+01:57:04,586 --> 01:57:09,086
+But in principle, if you wanted infinitely precise things about
+
+2606
+01:57:09,086 --> 01:57:13,586
+photons and electrons, you would just need the whole thing.
+
+2607
+01:57:13,586 --> 01:57:14,586
+This is not a pretty picture.
+
+2608
+01:57:14,586 --> 01:57:15,586
+I mean, this is really not a pretty picture.
+
+2609
+01:57:15,586 --> 01:57:22,586
+It very much makes you feel that quantum field
+
+2610
+01:57:22,586 --> 01:57:29,586
+theory is some effective description coming from, like, hydrodynamics
+
+2611
+01:57:29,586 --> 01:57:33,086
+or any other effective description which
+
+2612
+01:57:33,086 --> 01:57:36,586
+is coming from some more fundamental physics
+
+2613
+01:57:36,586 --> 01:57:40,086
+and just, what's the
+
+2614
+01:57:40,086 --> 01:57:43,586
+right term, effectively describing things,
+
+2615
+01:57:43,586 --> 01:57:48,586
+at some coarse-grained level.
+
+2616
+01:57:48,586 --> 01:57:52,086
+Quantum field theory is probably just
+
+2617
+01:57:52,086 --> 01:57:55,586
+a coarse-grained description of something more fundamental.
+
+2618
+01:57:55,586 --> 01:57:59,586
+And as long as that's the case,
+
+2619
+01:57:59,586 --> 01:58:03,586
+it can be very, very complicated, although precise.
+
+2620
+01:58:03,586 --> 01:58:06,586
+I think the word you want is phenomenological.
+
+2621
+01:58:06,586 --> 01:58:09,586
+Yeah, yeah, I think that's the right word. Right.
+
+2622
+01:58:09,586 --> 01:58:11,586
+The standard model needs gravity, also.
+
+2623
+01:58:11,586 --> 01:58:15,586
+Just like you could lead up to...
+
+2624
+01:58:15,586 --> 01:58:19,586
+What's officially called the standard model needs gravity.
+
+2625
+01:58:19,586 --> 01:58:25,586
+And then I was going to ask...
+
+2626
+01:58:25,586 --> 01:58:28,086
+But you can add gravity into the standard
+
+2627
+01:58:28,086 --> 01:58:30,586
+model and talk about the standard model with gravity.
+
+2628
+01:58:30,586 --> 01:58:32,586
+If the Higgs...
+
+2629
+01:58:32,586 --> 01:58:35,586
+I was going to ask you, you had a moment where you
+
+2630
+01:58:35,586 --> 01:58:38,586
+were going to mention you were going to see relativistic stuff here.
+
+2631
+01:58:38,586 --> 01:58:40,586
+We don't need that in this case, right?
+
+2632
+01:58:40,586 --> 01:58:41,586
+I mean, general relativity.
+
+2633
+01:58:41,586 --> 01:58:42,586
+All the rest of it.
+
+2634
+01:58:42,586 --> 01:58:44,586
+When you say relativistic, that means what?
+
+2635
+01:58:44,586 --> 01:58:47,586
+That it's super-hybrid.
+
+2636
+01:58:47,586 --> 01:58:50,586
+Oh, these Lagrangians are all relativistic.
+
+2637
+01:58:50,586 --> 01:58:51,586
+Right.
+
+2638
+01:58:51,586 --> 01:58:52,586
+Right.
+
+2639
+01:58:52,586 --> 01:58:55,086
+So, if we were to look
+
+2640
+01:58:55,086 --> 01:58:57,586
+at the Lagrangians in the standard model,
+
+2641
+01:58:57,586 --> 01:59:00,086
+we wouldn't see anything if we were taking
+
+2642
+01:59:00,086 --> 01:59:02,586
+into account general relativity or anything like that.
+
+2643
+01:59:02,586 --> 01:59:05,586
+General relativity, this does not take into account.
+
+2644
+01:59:05,586 --> 01:59:08,586
+General relativity, special relativity, it does.
+
+2645
+01:59:08,586 --> 01:59:09,586
+Yeah.
+
+2646
+01:59:09,586 --> 01:59:13,086
+This is the combination of
+
+2647
+01:59:13,086 --> 01:59:16,586
+quantum mechanics and special relativity.
+
+2648
+01:59:16,586 --> 01:59:19,086
+If all the particles are massless
+
+2649
+01:59:19,086 --> 01:59:21,586
+except for the terms involving the Higgs,
+
+2650
+01:59:21,586 --> 01:59:26,586
+basically you have, what, just terms which are Higgs
+
+2651
+01:59:26,586 --> 01:59:31,586
+interactions that have mass terms for the other particles?
+
+2652
+01:59:31,586 --> 01:59:33,586
+Yeah.
+
+2653
+01:59:33,586 --> 01:59:37,586
+Okay, so I'll give you...
+
+2654
+01:59:37,586 --> 01:59:38,586
+I think we talked about this before,
+
+2655
+01:59:38,586 --> 01:59:40,586
+but I'll tell you again.
+
+2656
+01:59:40,586 --> 01:59:43,586
+So we see that what the mass term is,
+
+2657
+01:59:43,586 --> 01:59:46,586
+is it's the coefficient of phi squared.
+
+2658
+01:59:46,586 --> 01:59:47,586
+Right?
+
+2659
+01:59:47,586 --> 01:59:54,586
+Supposing we had another field that I'll call H, right?
+
+2660
+01:59:54,586 --> 01:59:57,586
+And supposing in the Lagrangian I had...
+
+2661
+01:59:57,586 --> 01:59:59,586
+Here, let's write down some terms.
+
+2662
+01:59:59,586 --> 02:00:02,586
+H phi squared...
+
+2663
+02:00:02,586 --> 02:00:03,586
+Now, that's not quadratic.
+
+2664
+02:00:03,586 --> 02:00:04,586
+That's cubic.
+
+2665
+02:00:04,586 --> 02:00:05,586
+So what does it describe?
+
+2666
+02:00:05,586 --> 02:00:07,586
+It describes a phi in, a phi out.
+
+2667
+02:00:07,586 --> 02:00:08,586
+Right?
+
+2668
+02:00:08,586 --> 02:00:12,586
+And an H being emitted.
+
+2669
+02:00:12,586 --> 02:00:14,586
+Okay?
+
+2670
+02:00:14,586 --> 02:00:18,586
+That's what this term does in Lagrangian.
+
+2671
+02:00:18,586 --> 02:00:24,586
+Now imagine there's more terms, something like V of H.
+
+2672
+02:00:24,586 --> 02:00:26,586
+Now, V is potential energy.
+
+2673
+02:00:26,586 --> 02:00:28,586
+V is potential energy.
+
+2674
+02:00:28,586 --> 02:00:30,586
+It's the potential energy of the field H.
+
+2675
+02:00:30,586 --> 02:00:34,086
+Supposing V of H happens to be a
+
+2676
+02:00:34,086 --> 02:00:37,586
+function which looks, oh, let's say something like this.
+
+2677
+02:00:37,586 --> 02:00:42,586
+Here's H, and V of H is such that the
+
+2678
+02:00:42,586 --> 02:00:47,586
+minimum of the potential is not at H equals 0.
+
+2679
+02:00:47,586 --> 02:00:50,086
+The minimum of the potential
+
+2680
+02:00:50,086 --> 02:00:52,586
+energy defines the stable equilibrium points.
+
+2681
+02:00:52,586 --> 02:00:55,586
+The vacuum is a stable equilibrium point.
+
+2682
+02:00:55,586 --> 02:00:58,086
+So, and for this particular
+
+2683
+02:00:58,086 --> 02:01:00,586
+potential, there might be two minima,
+
+2684
+02:01:00,586 --> 02:01:03,086
+and the real vacuum would be chosen
+
+2685
+02:01:03,086 --> 02:01:05,586
+to be one of these two minima.
+
+2686
+02:01:05,586 --> 02:01:09,586
+This minima has a non-zero value of H.
+
+2687
+02:01:09,586 --> 02:01:15,586
+So this vertex then becomes just a, this vacuum value
+
+2688
+02:01:15,586 --> 02:01:21,586
+of H here just becomes a number in the vacuum
+
+2689
+02:01:21,586 --> 02:01:25,586
+and translates into the, into the...
+
+2690
+02:01:25,586 --> 02:01:27,586
+Yeah.
+
+2691
+02:01:27,586 --> 02:01:29,586
+Yeah.
+
+2692
+02:01:29,586 --> 02:01:31,586
+One last trivia question.
+
+2693
+02:01:31,586 --> 02:01:34,586
+Is the standard model a concept of a virtual particle?
+
+2694
+02:01:34,586 --> 02:01:37,586
+A virtual particle creation annihilation?
+
+2695
+02:01:37,586 --> 02:01:38,586
+Oh, absolutely.
+
+2696
+02:01:38,586 --> 02:01:40,586
+Yeah.
+
+2697
+02:01:40,586 --> 02:01:42,586
+Oh, absolutely.
+
+2698
+02:01:42,586 --> 02:01:43,586
+Yeah.
+
+2699
+02:01:43,586 --> 02:01:48,586
+Definitely.
+
+2700
+02:01:48,586 --> 02:01:52,509
+For more, please visit us at stanford.edu.
+
