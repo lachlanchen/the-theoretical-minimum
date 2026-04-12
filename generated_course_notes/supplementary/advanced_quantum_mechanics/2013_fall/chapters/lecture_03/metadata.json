@@ -6,11 +6,53 @@
   "lecture_slug": "lecture_03",
   "lecture_title": "Advanced Quantum Mechanics Lecture 3",
   "assets": [
-    "lecture_03_frame_01.png",
-    "lecture_03_frame_02.png",
-    "lecture_03_frame_03.png",
-    "lecture_03_frame_04.png",
-    "lecture_03_frame_05.png",
-    "lecture_03_frame_06.png"
+    {
+      "name": "lecture_03_frame_01.png",
+      "timestamp_seconds": 0.0,
+      "timestamp_hhmmss": "00:00:00.000",
+      "source_candidate": "lecture_03_candidate_01_000000000.png",
+      "recommended_use": "figure",
+      "rationale": "Fallback selection without successful image-review parse."
+    },
+    {
+      "name": "lecture_03_frame_02.png",
+      "timestamp_seconds": 5.08,
+      "timestamp_hhmmss": "00:00:05.080",
+      "source_candidate": "lecture_03_candidate_02_000005080.png",
+      "recommended_use": "figure",
+      "rationale": "Fallback selection without successful image-review parse."
+    },
+    {
+      "name": "lecture_03_frame_03.png",
+      "timestamp_seconds": 14.08,
+      "timestamp_hhmmss": "00:00:14.080",
+      "source_candidate": "lecture_03_candidate_03_000014080.png",
+      "recommended_use": "figure",
+      "rationale": "Fallback selection without successful image-review parse."
+    },
+    {
+      "name": "lecture_03_frame_04.png",
+      "timestamp_seconds": 23.08,
+      "timestamp_hhmmss": "00:00:23.080",
+      "source_candidate": "lecture_03_candidate_04_000023080.png",
+      "recommended_use": "figure",
+      "rationale": "Fallback selection without successful image-review parse."
+    },
+    {
+      "name": "lecture_03_frame_05.png",
+      "timestamp_seconds": 2135.6,
+      "timestamp_hhmmss": "00:35:35.600",
+      "source_candidate": "lecture_03_candidate_05_003535600.png",
+      "recommended_use": "figure",
+      "rationale": "Fallback selection without successful image-review parse."
+    },
+    {
+      "name": "lecture_03_frame_06.png",
+      "timestamp_seconds": 2144.6,
+      "timestamp_hhmmss": "00:35:44.600",
+      "source_candidate": "lecture_03_candidate_06_003544600.png",
+      "recommended_use": "figure",
+      "rationale": "Fallback selection without successful image-review parse."
+    }
   ]
 }
