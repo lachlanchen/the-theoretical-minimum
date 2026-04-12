@@ -482,14 +482,17 @@ def choose_candidate_frame_times(md_text: str, max_frames: int) -> list[float]:
     anchors = choose_frame_times(md_text, max_frames)
     segments = transcript_segments(md_text)
     max_time = segments[-1][0] if segments else 0.0
-    offsets = (-18.0, -9.0, 0.0, 9.0, 18.0)
+    offsets = (-12.0, 0.0, 12.0)
+    candidate_cap = max(max_frames + 4, max_frames * 2)
     candidates: list[float] = []
     for anchor in anchors:
         for offset in offsets:
             candidate = max(0.0, min(max_time, anchor + offset))
             if all(abs(candidate - existing) >= 3.0 for existing in candidates):
                 candidates.append(candidate)
-    return sorted(candidates)
+            if len(candidates) >= candidate_cap:
+                return sorted(candidates[:candidate_cap])
+    return sorted(candidates[:candidate_cap])
 
 
 def run_command(
