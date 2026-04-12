@@ -1,0 +1,305 @@
+\chapter{Quantum Fields, Local Interactions, and the One-Dimensional Dirac Equation}
+
+These notes follow Leonard Susskind's ninth lecture in \emph{Advanced Quantum Mechanics} and are curated by LazyingArt LLC as companion notes. The lecture begins by returning to the second-quantized Schr\"odinger Hamiltonian, uses it to make momentum conservation visible rather than merely asserted, then enlarges the Hamiltonian to include local interaction terms and the first diagrammatic consequences of perturbation theory. Only after that machinery is in place does the lecture pivot to relativity and construct the one-dimensional Dirac equation, where the problem of left- and right-moving waves leads naturally to a two-component wavefunction and, finally, to a mass term.
+
+\section{The Second-Quantized Schr\"odinger Hamiltonian}
+
+Susskind begins by recalling the simplest field-theoretic Hamiltonian for a nonrelativistic species of particles. He writes \(dx\) as though the problem were one-dimensional, but explicitly remarks that \(x\) may stand for all spatial coordinates. In that notation the Hamiltonian is
+\begin{equation}
+H=\int dx\,\psi^\dagger(x)\left[-\frac{\nabla^2}{2m}+V(x)\right]\psi(x).
+\end{equation}
+Here \(\psi^\dagger(x)\) creates a particle at position \(x\), while \(\psi(x)\) annihilates one there. The combination
+\begin{equation}
+n(x)=\psi^\dagger(x)\psi(x)
+\end{equation}
+is the particle-density operator. The potential term therefore has a direct classical interpretation:
+\begin{equation}
+\int dx\,V(x)\,\psi^\dagger(x)\psi(x)
+=
+\int dx\,V(x)\,n(x).
+\end{equation}
+It counts the particles at each point and assigns each of them the potential energy appropriate to that point.
+
+At this stage the particles do not interact with one another. They may move in an external potential, but the Hamiltonian is still quadratic in the fields. Susskind then makes a small but important simplification: he briefly takes \(V(x)\) to be a constant \(V_0\). In that case
+\begin{equation}
+\int dx\,V_0\,\psi^\dagger(x)\psi(x)=V_0\int dx\,\psi^\dagger(x)\psi(x)=V_0\,N,
+\end{equation}
+where \(N\) is the total particle-number operator. This term does not exert forces, but it gives an energy proportional to the number of particles. That is precisely the sort of place where one could insert a per-particle rest-energy contribution such as \(mc^2\).
+
+There is also a useful positivity check on the kinetic term. In one dimension, suppressing boundary terms, one may integrate by parts to rewrite
+\begin{equation}
+\int dx\,\psi^\dagger(x)\bigl(-\partial_x^2\bigr)\psi(x)
+=
+\int dx\,\bigl(\partial_x\psi^\dagger(x)\bigr)\bigl(\partial_x\psi(x)\bigr).
+\end{equation}
+Thus the apparent minus sign in the Hamiltonian is not a sign of negative kinetic energy; after integration by parts the kinetic piece becomes the square of a derivative, exactly as one expects in field theory.
+
+\section{Time Evolution and Momentum Conservation}
+
+The lecture then shifts from energy bookkeeping to the real question of the first half: how momentum conservation is encoded in the Hamiltonian. The key move is to recall what the Hamiltonian does. Since Susskind has already used \(\psi\) for field operators and wavefunctions, he temporarily switches notation and calls the state vector \(\phi(t)\). For a short time step \(\epsilon\),
+\begin{equation}
+\left|\phi(t+\epsilon)\right\rangle
+=
+\left(1-i\epsilon H\right)\left|\phi(t)\right\rangle.
+\end{equation}
+Momentum conservation means that when \(H\) acts on a state of definite total momentum, it does not change that total momentum.
+
+To see this directly, the fields are rewritten in the momentum basis. Using a standard Fourier convention,
+\begin{align}
+\psi(x)&=\int \frac{dp}{\sqrt{2\pi}}\,\tilde\psi(p)e^{ipx},
+&
+\psi^\dagger(x)&=\int \frac{dq}{\sqrt{2\pi}}\,\tilde\psi^\dagger(q)e^{-iqx}.
+\end{align}
+With this convention,
+\begin{equation}
+\int dx\,e^{i(p-q)x}=2\pi\,\delta(p-q).
+\end{equation}
+Now the number-density term may be worked out explicitly:
+\begin{align}
+\int dx\,\psi^\dagger(x)\psi(x)
+&=
+\int \frac{dp\,dq}{2\pi}\,
+\tilde\psi^\dagger(q)\tilde\psi(p)
+\int dx\,e^{i(p-q)x}
+\\
+&=
+\int dp\,dq\,
+\tilde\psi^\dagger(q)\tilde\psi(p)\,
+\delta(p-q)
+\\
+&=
+\int dp\,\tilde\psi^\dagger(p)\tilde\psi(p).
+\end{align}
+This operator annihilates a particle of momentum \(p\) and recreates a particle of the same momentum \(p\). The delta function enforces that equality. In this sense the integral over space becomes the mathematical statement of momentum conservation.
+
+Exactly the same mechanism works for the kinetic term. One finds, in clean form,
+\begin{equation}
+\int dx\,\psi^\dagger(x)\left(-\frac{\partial_x^2}{2m}\right)\psi(x)
+=
+\int dp\,\frac{p^2}{2m}\,\tilde\psi^\dagger(p)\tilde\psi(p).
+\end{equation}
+The delta function still guarantees that momentum in equals momentum out; the only new ingredient is that each momentum mode is weighted by its kinetic energy \(p^2/2m\).
+
+This calculation also explains a more general rule. Suppose a Hamiltonian term contains many field operators, perhaps of different species, but is still integrated over a single spatial coordinate \(x\). Schematically,
+\begin{equation}
+\int dx\,
+\prod_{j=1}^{r}\psi_{a_j}^\dagger(x)
+\prod_{k=1}^{s}\psi_{b_k}(x)
+\quad \longrightarrow \quad
+\delta\!\left(\sum_{k=1}^{s}p_k-\sum_{j=1}^{r}q_j\right).
+\end{equation}
+The integral over \(x\) no longer forces pairwise equality of momenta. Instead it enforces only equality of the total incoming and total outgoing momentum. That is the first real bridge from free fields to interaction terms.
+
+\section{Local Interaction Terms from Experiment}
+
+With the momentum-conservation machinery in hand, Susskind turns to the question of why one would ever write products of many fields in the Hamiltonian. His answer is thoroughly physical: because experiment may tell us that such processes occur.
+
+He first introduces a toy model with two species, called electron and proton, while warning that these are bosonic stand-ins rather than literal fermionic fields. In a cleaned-up notation the Hamiltonian may be written as
+\begin{align}
+H
+&=
+\int dx\,\psi_e^\dagger(x)\left(-\frac{\partial_x^2}{2m_e}\right)\psi_e(x)
++
+\int dx\,\psi_p^\dagger(x)\left(-\frac{\partial_x^2}{2m_p}\right)\psi_p(x)
+\nonumber\\
+&\qquad
++
+g\int dx\,\psi_e^\dagger(x)\psi_p^\dagger(x)\psi_e(x)\psi_p(x).
+\end{align}
+The first two terms are the kinetic energies of the two species. The new term is local: it acts only if an electron and a proton are both present at the same position \(x\). When it finds them, it annihilates both and recreates both at that same point. Its effect is therefore to scatter the electron-proton system.
+
+\begin{figure}
+\centering
+\begin{tikzpicture}[scale=1.05]
+\draw[->] (-2.2,0) -- (2.4,0) node[right] {$x$};
+\draw[->] (0,-0.2) -- (0,3.4) node[above] {$t$};
+\fill (0,1.7) circle (1.6pt);
+\draw (-1.7,0.35) -- (0,1.7) -- (-1.2,3.0);
+\draw (1.5,0.35) -- (0,1.7) -- (1.7,3.0);
+\node at (-1.85,0.45) {$e$};
+\node at (1.75,0.45) {$p$};
+\node at (-1.35,3.15) {$e$};
+\node at (1.85,3.15) {$p$};
+\end{tikzpicture}
+\caption{A local contact interaction. The field product is nonzero only when the two worldlines meet at the same spacetime point.}
+\end{figure}
+
+The point of the example is not realism but locality. The individual momenta of the two particles need not be preserved, but the total momentum is, because the interaction is integrated over space.
+
+Susskind then moves to a different type of local process. Suppose experiment reveals that a particle \(A\) can disappear and produce two particles \(B\) and \(C\), all at one point. The corresponding Hamiltonian term is
+\begin{equation}
+H_{A\to B+C}
+=
+g\int dx\,\psi_B^\dagger(x)\psi_C^\dagger(x)\psi_A(x).
+\end{equation}
+But a Hamiltonian must be hermitian. Therefore one must also include the hermitian-conjugate process,
+\begin{equation}
+H_{B+C\to A}
+=
+g\int dx\,\psi_A^\dagger(x)\psi_C(x)\psi_B(x),
+\end{equation}
+so that the full interaction is
+\begin{equation}
+H_{\mathrm{int}}
+=
+g\int dx\,\psi_B^\dagger(x)\psi_C^\dagger(x)\psi_A(x)
++
+g\int dx\,\psi_A^\dagger(x)\psi_C(x)\psi_B(x).
+\end{equation}
+Once \(A\to B+C\) is allowed, hermiticity forces \(B+C\to A\) as well. The coupling constant \(g\) is the strength of the interaction. A small \(g\) means the process is rare even when the particles meet; a large \(g\) means it is comparatively likely. In general, Susskind emphasizes, such coupling constants are usually experimental input, though symmetries may sometimes relate them.
+
+\section{From \(H\) to \(H^2\): The First Diagrammatic Processes}
+
+The lecture then goes one step further in the time-evolution expansion. The first-order update rule was only the beginning. To second order,
+\begin{equation}
+\left|\phi(t+\epsilon)\right\rangle
+=
+\left(1-i\epsilon H-\frac{\epsilon^2}{2}H^2+\cdots\right)
+\left|\phi(t)\right\rangle.
+\end{equation}
+Now the square of the Hamiltonian appears, and that means two insertions of an interaction term.
+
+For the decay Hamiltonian \(A\leftrightarrow B+C\), the term \(H^2\) already generates qualitatively new phenomena. One insertion can make \(A\to B+C\), and a second insertion can bring \(B+C\to A\). This is the beginning of a self-energy correction: the particle \(A\) acquires an amplitude to spend some of its time looking like a nearby \(B\)-\(C\) pair. Likewise, two insertions may produce an exchange process in which one particle effectively scatters from another through an intermediate field. Each vertex carries one factor of \(g\), so a two-vertex contribution scales as \(g^2\).
+
+This is the point at which the lecture introduces pictures, but Susskind is careful not to let the pictures take over. The diagrams are not tiny classical movies. They are bookkeeping devices for terms in the power-series expansion of time evolution. A line that appears to be emitted and reabsorbed is not necessarily a literal particle trajectory in spacetime. It is a compact way of remembering what products of operators occur when \(H\) acts twice, or three times, and so on.
+
+The same warning applies to energy. At a single vertex in such a picture, one may be tempted to ask whether the visible particle energies balance. Susskind's answer is that this is the wrong level of description. Full Hamiltonian evolution conserves energy, but the interaction energy and the superposition of many contributions are hidden if one stares too literally at an individual vertex. In that sense the diagrams may appear to violate naive on-shell energy conservation even though the underlying evolution is consistent.
+
+He uses the electron-photon example to make the point concrete. An electron can emit and later reabsorb a photon in the perturbative expansion, so a physical electron has an amplitude to behave as though it contains a photon cloud. But one should not try to turn this into a rigid classical mechanism. At most, the diagrams tell us that the electron's structure is corrected, and in the appropriate limit this same formalism can reproduce familiar long-range electromagnetic effects such as the Coulomb interaction.
+
+\section{Relativity and the Massless One-Dimensional Electron}
+
+Only after the field-theory machinery has been developed does the lecture pivot to the Dirac equation. The transition is deliberate. Up to this point the quantized particles were nonrelativistic. Now the target is the relativistic electron. Susskind remarks that this is not mere formalism: in atomic physics, and especially for heavy atoms, relativistic corrections are physically important.
+
+He begins with the familiar quantization strategy. For a nonrelativistic particle,
+\begin{equation}
+E=\frac{p^2}{2m}.
+\end{equation}
+Quantization replaces \(E\) by the Hamiltonian operator \(i\partial_t\) and \(p\) by \(-i\partial_x\), yielding the ordinary Schr\"odinger equation
+\begin{equation}
+i\partial_t\psi=-\frac{1}{2m}\partial_x^2\psi.
+\end{equation}
+Relativity replaces the nonrelativistic dispersion relation by
+\begin{equation}
+E^2=p^2+m^2,
+\end{equation}
+with \(c=1\). If one quantizes this relation directly, one obtains
+\begin{equation}
+-\partial_t^2\psi=\bigl(-\partial_x^2+m^2\bigr)\psi,
+\end{equation}
+the one-dimensional Klein--Gordon equation. Dirac's objection is not that this equation is mathematically impossible, but that it is second order in time. He wants an equation of the Schr\"odinger form \(i\partial_t\psi=H\psi\), first order in time, with \(H\) itself, not only \(H^2\), clearly displayed.
+
+If one instead writes
+\begin{equation}
+i\partial_t\psi=\sqrt{-\partial_x^2+m^2}\,\psi,
+\end{equation}
+then the equation is first order in time but the Hamiltonian becomes the square root of a differential operator. Susskind follows Dirac in regarding this as formally ugly and physically unilluminating.
+
+So the lecture starts over from an even simpler relativistic system: a massless particle in one space dimension. Choosing the right-moving branch,
+\begin{equation}
+E=P,
+\end{equation}
+and quantizing gives
+\begin{equation}
+i\partial_t\psi=-i\partial_x\psi.
+\end{equation}
+Equivalently,
+\begin{equation}
+(\partial_t+\partial_x)\psi=0.
+\end{equation}
+The solutions are rigidly translated wave profiles,
+\begin{equation}
+\psi(x,t)=f(x-t),
+\end{equation}
+so the entire wave simply moves to the right at the speed of light. This is elegant, but it has two defects. First, negative momentum implies negative energy on this branch. Second, the particle can only move in one direction. An electron cannot be restricted to a one-way street.
+
+\section{Two Components and the One-Dimensional Dirac Equation}
+
+Dirac's first repair is to introduce two components, one for right-movers and one for left-movers. The wavefunction becomes
+\begin{equation}
+\Psi(x,t)=
+\begin{pmatrix}
+\psi_1(x,t)\\[4pt]
+\psi_2(x,t)
+\end{pmatrix},
+\end{equation}
+and the matrix that distinguishes the two branches is chosen to be
+\begin{equation}
+\alpha=
+\begin{pmatrix}
+1 & 0\\
+0 & -1
+\end{pmatrix}.
+\end{equation}
+This is the Pauli matrix \(\sigma_3\), but in this context Susskind follows Dirac and calls it \(\alpha\). It does not represent ordinary spin; it distinguishes right- and left-moving sectors.
+
+The massless Hamiltonian is then
+\begin{equation}
+H=\alpha P,
+\end{equation}
+and the equation of motion is
+\begin{equation}
+i\partial_t\Psi=-i\alpha\,\partial_x\Psi.
+\end{equation}
+Written out, the two components satisfy separate equations,
+\begin{align}
+i\partial_t\psi_1&=-i\partial_x\psi_1,
+&
+i\partial_t\psi_2&=+i\partial_x\psi_2.
+\end{align}
+Thus \(\psi_1\) moves to the right and \(\psi_2\) moves to the left. The one-way problem has been cured, but two others remain: the negative-energy issue is untouched, and the electron is still massless.
+
+Dirac's next step is to add a mass term, but it must act on the two-component space, so it cannot simply be a scalar. He therefore tries
+\begin{equation}
+H=\alpha p+\beta m,
+\end{equation}
+where \(\beta\) is another matrix. The demand is that squaring this Hamiltonian should recover the relativistic dispersion relation:
+\begin{align}
+H^2
+&=
+(\alpha p+\beta m)^2
+\nonumber\\
+&=
+\alpha^2p^2+\beta^2m^2+(\alpha\beta+\beta\alpha)\,pm.
+\end{align}
+Since \(\alpha\) acts on the two-component index and \(p\) acts on the spatial dependence, they commute. Therefore the unwanted cross-term disappears precisely when
+\begin{equation}
+\alpha^2=1,
+\qquad
+\beta^2=1,
+\qquad
+\alpha\beta+\beta\alpha=0.
+\end{equation}
+This is the algebraic heart of the one-dimensional Dirac construction. The board work in the lecture makes these conditions especially explicit.
+
+Once \(\alpha=\sigma_3\) has been fixed, a natural choice is
+\begin{equation}
+\beta=
+\begin{pmatrix}
+0 & 1\\
+1 & 0
+\end{pmatrix}
+=\sigma_1.
+\end{equation}
+The Dirac equation then takes the form
+\begin{equation}
+i\partial_t\Psi=\left(-i\alpha\partial_x+\beta m\right)\Psi.
+\end{equation}
+In standard component form, this is
+\begin{align}
+i\partial_t\psi_1&=-i\partial_x\psi_1+m\psi_2,
+\\
+i\partial_t\psi_2&=+i\partial_x\psi_2+m\psi_1.
+\end{align}
+The mass term swaps the two components. In the language raised during the lecture, it is the term that mixes the two chiralities. The right- and left-moving sectors are no longer independent; that coupling is exactly what makes the particle behave as a relativistic particle with
+\begin{equation}
+E^2=p^2+m^2.
+\end{equation}
+
+This does \emph{not} solve every problem. The negative-energy issue remains; indeed, once both chiralities are present there are negative-energy right-movers and negative-energy left-movers. Nor has the theory yet been lifted to three spatial dimensions. Those issues are explicitly deferred. The achievement of the lecture is more modest and more precise: in one dimension, the left-right problem and the mass problem are solved together by enlarging the wavefunction and demanding the simple Dirac algebra.
+
+\section{Summary}
+
+The lecture has two tightly connected halves. In the first, the second-quantized Schr\"odinger Hamiltonian is used to show that the integral over space is what generates the momentum-conserving delta function. That same mechanism persists for local products of many fields, which is why local interaction terms naturally conserve total momentum. Once such interactions are added, the expansion of time evolution in powers of \(H\) immediately produces scattering, exchange, and self-energy corrections.
+
+In the second half, the same emphasis on Hamiltonians is carried into relativity. Dirac's problem is to keep the equation first order in time while reproducing \(E^2=p^2+m^2\). In one dimension the solution is to introduce a two-component wavefunction, a matrix \(\alpha\) distinguishing right- from left-movers, and a second matrix \(\beta\) whose mass term couples the two sectors. The result is the one-dimensional Dirac equation. What it does not yet do is resolve negative energies or the full \(3+1\)-dimensional problem; those are the natural starting points for the next lecture.
