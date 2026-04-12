@@ -12,13 +12,16 @@ from pathlib import Path
 DEFAULT_SOURCE_ROOT = Path(
     "/home/lachlan/ProjectsLFS/YoutubeDownloader/downloads/PLERGeJGfknBTR_nXt5QL88xJF5LhDZBnG"
 )
-DEFAULT_WHISPER_SCRIPT_CANDIDATES = [
-    Path("/home/lachlan/DiskMech/Projects/lazyedit/whisper_with_lang_detect/vad_lang_subtitle.py"),
-    Path("/home/lachlan/ProjectsLFS/whisper_with_lang_detect/vad_lang_subtitle.py"),
-]
 DEFAULT_WHISPER_SCRIPT = next(
-    (path for path in DEFAULT_WHISPER_SCRIPT_CANDIDATES if path.exists()),
-    DEFAULT_WHISPER_SCRIPT_CANDIDATES[-1],
+    (
+        path
+        for path in [
+            Path("/home/lachlan/ProjectsLFS/whisper_with_lang_detect/vad_lang_subtitle.py"),
+            Path("/home/lachlan/DiskMech/Projects/lazyedit/whisper_with_lang_detect/vad_lang_subtitle.py"),
+        ]
+        if path.exists()
+    ),
+    Path("/home/lachlan/ProjectsLFS/whisper_with_lang_detect/vad_lang_subtitle.py"),
 )
 DEFAULT_FALLBACK_SCRIPT = Path(__file__).with_name("fallback_whisper_transcribe.py")
 DEFAULT_CONDA_ENV = "whisper"
