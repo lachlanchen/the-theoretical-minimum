@@ -539,23 +539,16 @@ def run_codex_prompt(
     prompt_file.write_text(prompt_text, encoding="utf-8")
 
     cmd = [
-        "codex",
-        "exec",
-        "-m",
-        model,
-        "-c",
-        f'model_reasoning_effort="{reasoning}"',
-        "-s",
-        "read-only",
-        "-C",
+        "bash",
+        str(repo_root / "scripts" / "codex_prompt_to_file.sh"),
         str(repo_root),
-        "-o",
+        str(prompt_file),
         str(output_path),
-        "-",
+        model,
+        reasoning,
     ]
     for image in images:
-        cmd.insert(-1, str(image))
-        cmd.insert(-1, "--image")
+        cmd.append(str(image))
 
     run_command(
         cmd,
@@ -566,6 +559,29 @@ def run_codex_prompt(
     )
 
     output_path.write_text(strip_code_fences(output_path.read_text(encoding="utf-8")), encoding="utf-8")
+
+
+def commit_generated_step(
+    repo_root: Path,
+    runtime_dir: Path,
+    log_prefix: str,
+    commit_message: str,
+    paths: Iterable[Path],
+) -> None:
+    pathspecs = [str(path.relative_to(repo_root)) for path in paths if path.exists()]
+    if not pathspecs:
+        return
+
+    stdout_file = runtime_dir / f"{log_prefix}.stdout.log"
+    stderr_file = runtime_dir / f"{log_prefix}.stderr.log"
+    cmd = [
+        "bash",
+        str(repo_root / "scripts" / "codex_commit_push.sh"),
+        str(repo_root),
+        commit_message,
+        *pathspecs,
+    ]
+    run_command(cmd, cwd=repo_root, stdout_path=stdout_file, stderr_path=stderr_file)
 
 
 def write_metadata(lecture: LectureInfo, lecture_dir: Path, assets: list[Path]) -> None:
@@ -712,6 +728,7 @@ def generate_one_lecture(
 ) -> None:
     lecture = lecture_from_transcript_rel(repo_root, source_root, markdown_root, subtitle_root, transcript_rel)
     md_text = transcript_text(lecture.transcript_path)
+    lecture_key = f"{lecture.course_rel}/{lecture.lecture_slug}"
 
     course_root = output_root / lecture.course_rel
     lecture_dir = course_root / "chapters" / lecture.lecture_slug
@@ -722,6 +739,14 @@ def generate_one_lecture(
     ensure_common_preamble(course_root, template_path)
     assets = extract_frames(lecture, course_root, max_frames=max_frames, force=force, md_text=md_text, runtime_dir=course_runtime)
     write_metadata(lecture, lecture_dir, assets)
+    print(f"Step complete: extracted frames and metadata for {lecture_key}; committing and pushing.")
+    commit_generated_step(
+        repo_root=repo_root,
+        runtime_dir=course_runtime,
+        log_prefix="commit_assets",
+        commit_message=f"Add note assets for {lecture_key}",
+        paths=[course_root / "common_preamble.tex", lecture_dir / "metadata.json", *assets],
+    )
     book_reference_text = collect_reference_excerpt(lecture, md_text, reference_pdf_dir, runtime_root)
 
     asset_list_text = "\n".join(f"- {asset.name}" for asset in assets) or "- none"
@@ -747,6 +772,43 @@ def generate_one_lecture(
         reasoning=reasoning,
         images=assets,
     )
+    print(f"Step complete: wrote chapter plan for {lecture_key}; committing and pushing.")
+    commit_generated_step(
+        repo_root=repo_root,
+        runtime_dir=course_runtime,
+        log_prefix="commit_analysis",
+        commit_message=f"Add chapter plan for {lecture_key}",
+        paths=[analysis_path],
+    )
+
+    visual_prompt = read_template(prompt_root / "visual_notes_prompt.txt").substitute(
+        course_title=lecture.course_title,
+        course_descriptor=lecture.course_descriptor,
+        lecture_title=lecture.lecture_title,
+        transcript_rel=lecture.transcript_rel,
+        video_rel=lecture.video_rel,
+        asset_list=asset_list_text,
+        transcript_text=md_text,
+    )
+    visual_notes_path = lecture_dir / "visual_notes.md"
+    run_codex_prompt(
+        repo_root=repo_root,
+        prompt_text=visual_prompt,
+        output_path=visual_notes_path,
+        runtime_dir=course_runtime,
+        log_prefix="visual_notes",
+        model=model,
+        reasoning=reasoning,
+        images=assets,
+    )
+    print(f"Step complete: wrote visual extraction notes for {lecture_key}; committing and pushing.")
+    commit_generated_step(
+        repo_root=repo_root,
+        runtime_dir=course_runtime,
+        log_prefix="commit_visual",
+        commit_message=f"Add visual notes for {lecture_key}",
+        paths=[visual_notes_path],
+    )
 
     chapter_prompt = read_template(prompt_root / "chapter_tex_prompt.txt").substitute(
         course_title=lecture.course_title,
@@ -758,18 +820,60 @@ def generate_one_lecture(
         asset_list=asset_list_text,
         book_reference_text=book_reference_text,
         analysis_text=analysis_path.read_text(encoding="utf-8"),
+        visual_notes_text=visual_notes_path.read_text(encoding="utf-8"),
+        transcript_text=md_text,
+    )
+    draft_path = lecture_dir / "draft.tex"
+    run_codex_prompt(
+        repo_root=repo_root,
+        prompt_text=chapter_prompt,
+        output_path=draft_path,
+        runtime_dir=course_runtime,
+        log_prefix="chapter_draft",
+        model=model,
+        reasoning=reasoning,
+        images=assets,
+    )
+    print(f"Step complete: wrote chapter draft for {lecture_key}; committing and pushing.")
+    commit_generated_step(
+        repo_root=repo_root,
+        runtime_dir=course_runtime,
+        log_prefix="commit_draft",
+        commit_message=f"Add chapter draft for {lecture_key}",
+        paths=[draft_path],
+    )
+
+    refine_prompt = read_template(prompt_root / "refine_chapter_prompt.txt").substitute(
+        course_title=lecture.course_title,
+        course_descriptor=lecture.course_descriptor,
+        lecture_title=lecture.lecture_title,
+        lecture_number=lecture.lecture_number,
+        transcript_rel=lecture.transcript_rel,
+        video_rel=lecture.video_rel,
+        asset_list=asset_list_text,
+        analysis_text=analysis_path.read_text(encoding="utf-8"),
+        visual_notes_text=visual_notes_path.read_text(encoding="utf-8"),
+        draft_tex=draft_path.read_text(encoding="utf-8"),
         transcript_text=md_text,
     )
     content_path = lecture_dir / "content.tex"
     run_codex_prompt(
         repo_root=repo_root,
-        prompt_text=chapter_prompt,
+        prompt_text=refine_prompt,
         output_path=content_path,
         runtime_dir=course_runtime,
-        log_prefix="chapter",
+        log_prefix="chapter_refine",
         model=model,
         reasoning=reasoning,
         images=assets,
+    )
+    print(f"Step complete: refined chapter content for {lecture_key}; committing and pushing.")
+    commit_generated_step(
+        repo_root=repo_root,
+        runtime_dir=course_runtime,
+        log_prefix="commit_refine",
+        commit_message=f"Refine chapter notes for {lecture_key}",
+        paths=[content_path],
     )
 
     write_lecture_wrapper(lecture, lecture_dir)
@@ -793,6 +897,14 @@ def generate_one_lecture(
         if not compile_tex("lecture.tex", lecture_dir, course_runtime, "lecture_compile_retry"):
             raise RuntimeError(f"Failed to compile lecture chapter: {transcript_rel}")
     cleanup_build_artifacts(lecture_dir)
+    print(f"Step complete: compiled lecture PDF for {lecture_key}; committing and pushing.")
+    commit_generated_step(
+        repo_root=repo_root,
+        runtime_dir=course_runtime,
+        log_prefix="commit_lecture_pdf",
+        commit_message=f"Compile lecture PDF for {lecture_key}",
+        paths=[lecture_dir / "lecture.tex", lecture_dir / "lecture.pdf", lecture_dir / "content.tex"],
+    )
 
     lecture_entries = []
     for chapter_dir in sorted((course_root / "chapters").glob("lecture_*")):
@@ -823,6 +935,14 @@ def generate_one_lecture(
     if not compile_tex("course.tex", course_root, course_runtime, "course_compile"):
         fallback_merge_pdf(course_root)
     cleanup_build_artifacts(course_root)
+    print(f"Step complete: rebuilt course book for {lecture.course_rel}; committing and pushing.")
+    commit_generated_step(
+        repo_root=repo_root,
+        runtime_dir=course_runtime,
+        log_prefix="commit_course_pdf",
+        commit_message=f"Rebuild course notes for {lecture.course_rel}",
+        paths=[course_root / "course.tex", course_root / "course.pdf"],
+    )
 
 
 def parser() -> argparse.ArgumentParser:

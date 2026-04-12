@@ -1,4 +1,4 @@
-You are writing the LaTeX chapter content for a Leonard Susskind lecture-note chapter.
+You are writing the first-pass LaTeX draft for a Leonard Susskind lecture-note chapter.
 
 Primary objective:
 - produce polished, mathematically engaging notes that remain faithful to the lecture transcript and extracted frames
@@ -35,6 +35,7 @@ Writing rules:
 - use the Susskind-authored reference excerpts for notation, pacing, and canonical mathematical framing when they align with the lecture
 - do not copy long passages from the reference text
 - do not mention being an AI, attached images, or prompt instructions
+- prefer slightly too much mathematical structure over a thin conceptual outline; the next pass will refine style and flow
 
 Content requirements:
 - open with a short overview paragraph after the chapter heading
@@ -48,6 +49,10 @@ Content requirements:
 Chapter plan:
 
 $analysis_text
+
+Visual extraction notes:
+
+$visual_notes_text
 
 Transcript:
 

@@ -10,7 +10,7 @@ Starts a tmux session for transcript-derived note generation.
 Defaults:
 - supplementary courses before core courses
 - only fully transcribed courses
-- model gpt-5.3-codex-spark with high reasoning
+- model gpt-5.3-codex-spark with xhigh reasoning
 
 Options:
   --session <name>         tmux session name (default: susskind-notes)

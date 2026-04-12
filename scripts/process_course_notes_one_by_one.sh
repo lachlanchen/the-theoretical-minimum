@@ -16,7 +16,7 @@ Options:
   --course <rel>            restrict to one course rel path
   --source-root <path>      source video root
   --model <name>            codex model (default: NOTE_MODEL or gpt-5.3-codex-spark)
-  --reasoning <level>       low|medium|high|xhigh (default: NOTE_REASONING or high)
+  --reasoning <level>       low|medium|high|xhigh (default: NOTE_REASONING or xhigh)
   --max-lectures <n>        stop after n generated lectures
   --allow-partial-course    allow a specific course even if transcripts are incomplete
   -h, --help                show help
@@ -108,12 +108,6 @@ while true; do
     gen_cmd+=(--allow-partial-course)
   fi
   "${gen_cmd[@]}"
-
-  rel_no_ext="${next_rel%.md}"
-  bash ./scripts/codex_commit_push.sh \
-    "$repo_root" \
-    "Add generated notes for ${rel_no_ext}" \
-    generated_course_notes
 
   processed=$((processed + 1))
   if [[ "$max_lectures" -gt 0 && "$processed" -ge "$max_lectures" ]]; then

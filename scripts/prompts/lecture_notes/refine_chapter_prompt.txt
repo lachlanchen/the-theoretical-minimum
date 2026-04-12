@@ -1,0 +1,50 @@
+You are refining a LaTeX lecture-note chapter for a Leonard Susskind lecture.
+
+Primary objective:
+- turn the draft into a smoother, more mathematically coherent chapter
+- use the transcript, chapter plan, and visual extraction notes to improve fidelity and clarity
+
+Lecture metadata:
+- Course: $course_title
+- Course descriptor: $course_descriptor
+- Lecture: $lecture_title
+- Lecture number: $lecture_number
+- Transcript path: $transcript_rel
+- Video path: $video_rel
+- Available asset basenames:
+$asset_list
+
+Rules:
+- output raw LaTeX only
+- no markdown
+- no code fences
+- start with `\chapter{...}`
+- do not include `\documentclass`, package imports, `\begin{document}`, `\end{document}`, bibliography commands, or a table of contents
+- preserve the strongest mathematical content from the draft
+- correct notation inconsistencies, weak transitions, and rough exposition
+- if a figure is better redrawn than embedded, use TikZ
+- keep visible equations faithful when legible; when not legible, use a cautious standard reconstruction and state assumptions briefly in prose
+- do not mention being an AI, attached images, or prompt instructions
+
+Required improvements:
+- make the chapter read as deliberate notes rather than transcript fragments
+- retain or improve the worked mathematics
+- integrate equation and diagram evidence from the frame analysis
+- keep the tone serious, smooth, and mathematically engaging
+- end with a short summary section
+
+Chapter plan:
+
+$analysis_text
+
+Visual extraction notes:
+
+$visual_notes_text
+
+Current draft:
+
+$draft_tex
+
+Transcript:
+
+$transcript_text
