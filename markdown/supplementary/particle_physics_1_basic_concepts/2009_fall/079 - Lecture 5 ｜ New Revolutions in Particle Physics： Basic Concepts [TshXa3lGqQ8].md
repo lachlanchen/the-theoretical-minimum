@@ -1,0 +1,2805 @@
+# Transcript
+
+Source: supplementary/particle_physics_1_basic_concepts/2009_fall/079 - Lecture 5 ｜ New Revolutions in Particle Physics： Basic Concepts [TshXa3lGqQ8].mkv
+
+- [00:00:00,000 - 00:00:07,000] Stanford University.
+- [00:00:07,000 - 00:00:10,000] Group velocity and phase velocity?
+- [00:00:10,000 - 00:00:12,000] Okay, good.
+- [00:00:12,000 - 00:00:14,000] Let's talk about it a little bit.
+- [00:00:18,000 - 00:00:22,000] Generally, the phase velocity of a wave
+- [00:00:22,000 - 00:00:26,000] doesn't have anything to do with measurable properties
+- [00:00:26,000 - 00:00:29,500] of the wave or of
+- [00:00:29,500 - 00:00:33,000] the measurable things in quantum mechanics.
+- [00:00:33,000 - 00:00:40,000] It's the group velocity which is really the velocity
+- [00:00:40,000 - 00:00:42,500] at which signals move, the velocity
+- [00:00:42,500 - 00:00:45,000] at which particles move, and so forth.
+- [00:00:45,000 - 00:00:46,500] So let me just show you
+- [00:00:46,500 - 00:00:48,000] what's at stake and what's going on.
+- [00:00:51,000 - 00:00:55,000] The first thing is, if you have a plane wave,
+- [00:00:55,000 - 00:00:56,000] a sine or a cosine,
+- [00:00:56,000 - 00:00:59,000] or an e to the i kx,
+- [00:00:59,000 - 00:01:02,000] and that's all, just e to the i kx,
+- [00:01:02,000 - 00:01:07,000] let's write e to the i kx
+- [00:01:07,000 - 00:01:12,000] minus omega t,
+- [00:01:12,000 - 00:01:14,000] or just sine, the sine of
+- [00:01:14,000 - 00:01:16,000] kx minus omega t will also do,
+- [00:01:16,000 - 00:01:18,000] in fact, let's just write that,
+- [00:01:18,000 - 00:01:21,000] sine of kx minus omega t.
+- [00:01:21,000 - 00:01:24,000] Looks like that.
+- [00:01:24,000 - 00:01:26,000] And how does that wave move?
+- [00:01:26,000 - 00:01:28,000] How does the top of each crest move?
+- [00:01:28,000 - 00:01:30,000] The top of each crest
+- [00:01:30,000 - 00:01:32,000] moves in such a way that
+- [00:01:32,000 - 00:01:36,000] this thing inside the sine is constant.
+- [00:01:36,000 - 00:01:40,000] In other words, for example, right over here,
+- [00:01:40,000 - 00:01:44,000] at time t equals zero, and at x equals zero,
+- [00:01:44,000 - 00:01:46,000] the sine wave, or the sine wave
+- [00:01:46,000 - 00:01:48,000] of the sine wave of the sine wave,
+- [00:01:48,000 - 00:01:49,000] is constant.
+- [00:01:49,000 - 00:01:50,000] So, that's the wave.
+- [00:01:50,000 - 00:01:53,000] The sine wave is not a maximum at that point.
+- [00:01:53,000 - 00:01:54,000] At x equals zero and t equals zero,
+- [00:01:54,000 - 00:01:56,000] the sine wave happens to be over here.
+- [00:01:56,000 - 00:01:57,000] Okay.
+- [00:01:57,000 - 00:02:00,000] But where is the sine wave
+- [00:02:00,000 - 00:02:03,000] after a certain amount of time t?
+- [00:02:03,000 - 00:02:06,000] It's at the place, or that point here,
+- [00:02:06,000 - 00:02:10,000] has moved, it's moved to the place where
+- [00:02:10,000 - 00:02:14,000] kx minus omega t is equal to zero.
+- [00:02:14,000 - 00:02:15,000] Where is that?
+- [00:02:15,000 - 00:02:17,000] That's at the position x
+- [00:02:17,000 - 00:02:19,000] is equal to omega over kx.
+- [00:02:19,000 - 00:02:23,000] So, omega over k times t.
+- [00:02:23,000 - 00:02:26,000] Just dividing by k.
+- [00:02:26,000 - 00:02:27,000] Now, that's not too surprising.
+- [00:02:27,000 - 00:02:29,000] If you think about it for a minute,
+- [00:02:29,000 - 00:02:32,000] omega is a frequency.
+- [00:02:32,000 - 00:02:36,000] So, it's inverse to the period of oscillation,
+- [00:02:36,000 - 00:02:38,000] to the time of oscillation.
+- [00:02:38,000 - 00:02:40,000] It's one over the time of oscillation.
+- [00:02:40,000 - 00:02:42,000] There's a two pi in there, but
+- [00:02:42,000 - 00:02:44,000] the two pi's appear in both things.
+- [00:02:44,000 - 00:02:46,000] So, omega is like one
+- [00:02:46,000 - 00:02:48,000] over the period of the wave,
+- [00:02:48,000 - 00:02:50,000] one over t, the amount of time
+- [00:02:50,000 - 00:02:52,000] that it takes for the wave to oscillate.
+- [00:02:52,000 - 00:02:57,000] And k is like one over lambda.
+- [00:02:57,000 - 00:02:59,000] Actually, there are two pi's in these equations,
+- [00:02:59,000 - 00:03:00,000] two pi's in the numerator.
+- [00:03:00,000 - 00:03:05,000] Let's put them in.
+- [00:03:05,000 - 00:03:08,000] And so, omega over k, what's omega over k?
+- [00:03:08,000 - 00:03:11,000] Omega over k is lambda over t.
+- [00:03:11,000 - 00:03:15,000] It's the wavelength divided by the period.
+- [00:03:15,000 - 00:03:18,000] The wavelength is the distance it moves in one oscillation.
+- [00:03:18,000 - 00:03:20,000] The period is the time that it takes.
+- [00:03:20,000 - 00:03:22,000] The ratio is the velocity.
+- [00:03:22,000 - 00:03:24,500] So, this is the velocity
+- [00:03:24,500 - 00:03:27,000] of the peak of each wave,
+- [00:03:27,000 - 00:03:30,000] for a plane wave.
+- [00:03:30,000 - 00:03:34,000] So, that's called the phase velocity.
+- [00:03:38,000 - 00:03:40,000] Now, let's think about Schrodinger waves for a minute.
+- [00:03:40,000 - 00:03:45,000] Schrodinger waves have a connection between omega and k.
+- [00:03:45,000 - 00:03:47,000] The connection is, to remember it,
+- [00:03:47,000 - 00:03:49,000] all you have to remember is
+- [00:03:49,000 - 00:03:51,000] that omega is really secretly energy,
+- [00:03:51,000 - 00:03:55,000] and k is really secretly momentum,
+- [00:03:55,000 - 00:03:58,000] if we set h-bar equal to one.
+- [00:03:58,000 - 00:04:00,500] And so, using the formula that energy
+- [00:04:00,500 - 00:04:03,000] is equal to momentum squared divided by mass,
+- [00:04:03,000 - 00:04:06,500] that just becomes omega squared is
+- [00:04:06,500 - 00:04:10,000] equal to k squared divided by 2m.
+- [00:04:10,000 - 00:04:11,500] Did I say momentum squared divided
+- [00:04:11,500 - 00:04:13,000] by mass over twice the mass?
+- [00:04:13,000 - 00:04:16,000] This is, as usual, with h-bar equal to 2m.
+- [00:04:16,000 - 00:04:18,000] With h-bar equals c equals one.
+- [00:04:18,000 - 00:04:20,000] In fact, there's no c's in
+- [00:04:20,000 - 00:04:22,000] this formula, but there are some h-bars.
+- [00:04:22,000 - 00:04:25,000] Okay, so that would tell you, for example,
+- [00:04:25,000 - 00:04:27,000] let's compute the phase velocity,
+- [00:04:27,000 - 00:04:31,000] the phase velocity of a Schrodinger wave.
+- [00:04:31,000 - 00:04:33,500] For a Schrodinger wave, omega, sorry, omega
+- [00:04:33,500 - 00:04:36,000] is equal to k squared over 2m,
+- [00:04:36,000 - 00:04:38,000] not omega squared.
+- [00:04:38,000 - 00:04:40,000] Omega is k squared over 2m.
+- [00:04:40,000 - 00:04:42,000] So, what is the group velocity?
+- [00:04:42,000 - 00:04:44,000] It's omega divided by k.
+- [00:04:44,000 - 00:04:46,000] Omega divided by k.
+- [00:04:46,000 - 00:04:52,000] Omega divided by k is equal to k over 2m.
+- [00:04:52,000 - 00:04:58,000] That's the phase velocity, k divided by 2m.
+- [00:04:58,000 - 00:05:01,500] What's the velocity of a particle in
+- [00:05:01,500 - 00:05:05,000] terms of its momentum and its mass?
+- [00:05:05,000 - 00:05:08,000] Momentum divided by m.
+- [00:05:08,000 - 00:05:10,000] There's an extra factor of two here.
+- [00:05:10,000 - 00:05:12,000] What's that doing there?
+- [00:05:12,000 - 00:05:14,000] Peculiar thing.
+- [00:05:14,000 - 00:05:16,500] The velocity is not the velocity
+- [00:05:16,500 - 00:05:19,000] of the motion of a classical particle.
+- [00:05:19,000 - 00:05:22,000] Okay, let's just keep that in mind.
+- [00:05:22,000 - 00:05:24,000] That's true.
+- [00:05:24,000 - 00:05:27,000] But let's do something else now.
+- [00:05:27,000 - 00:05:30,500] Supposing I add a constant
+- [00:05:30,500 - 00:05:34,000] to the frequency of every wave.
+- [00:05:34,000 - 00:05:36,500] I simply take the frequency of every
+- [00:05:36,500 - 00:05:39,000] wave, all of them, for all k,
+- [00:05:39,000 - 00:05:41,000] and I add the same constant.
+- [00:05:41,000 - 00:05:43,000] What should I call that constant?
+- [00:05:43,000 - 00:05:45,000] I've got a name for it.
+- [00:05:45,000 - 00:05:48,000] It's mc squared.
+- [00:05:48,000 - 00:05:50,000] But let's not belabor it.
+- [00:05:50,000 - 00:05:52,000] It's not important.
+- [00:05:52,000 - 00:05:54,500] Let's just add a constant, an overall
+- [00:05:54,500 - 00:05:57,000] constant, to the frequency of all waves.
+- [00:05:57,000 - 00:06:03,000] What does that do to the phase velocity?
+- [00:06:03,000 - 00:06:05,000] Well, it changes it.
+- [00:06:05,000 - 00:06:07,500] Omega divided by k will now
+- [00:06:07,500 - 00:06:10,000] have an extra term in it.
+- [00:06:10,000 - 00:06:12,000] It'll have an extra term in it,
+- [00:06:12,000 - 00:06:14,000] and it won't be the same.
+- [00:06:14,000 - 00:06:17,000] Whatever it does, it'll be c over k.
+- [00:06:17,000 - 00:06:19,000] It'll have an extra term in it.
+- [00:06:19,000 - 00:06:22,000] The phase velocity will have changed.
+- [00:06:22,000 - 00:06:26,000] But I tell you right now, there is no physics
+- [00:06:26,000 - 00:06:28,000] in just adding a constant to
+- [00:06:28,000 - 00:06:30,000] the frequency of every Schrodinger wave.
+- [00:06:30,000 - 00:06:32,000] What does it correspond to?
+- [00:06:32,000 - 00:06:34,500] It corresponds to adding a constant
+- [00:06:34,500 - 00:06:37,000] to the energy of a particle,
+- [00:06:37,000 - 00:06:40,000] and adding a numerical constant to the energy
+- [00:06:40,000 - 00:06:42,000] of a particle.
+- [00:06:42,000 - 00:06:44,000] And the energy doesn't ever change anything.
+- [00:06:44,000 - 00:06:47,000] Only energy differences are ever important.
+- [00:06:47,000 - 00:06:48,000] All right.
+- [00:06:48,000 - 00:06:49,500] Can we see what's going on
+- [00:06:49,500 - 00:06:51,000] in terms of the Schrodinger wave?
+- [00:06:51,000 - 00:06:53,500] Well, a Schrodinger field, psi, is
+- [00:06:53,500 - 00:06:56,000] some kind of sum or integral,
+- [00:06:56,000 - 00:06:58,000] either a sum or an integral,
+- [00:06:58,000 - 00:07:01,000] of creation operators,
+- [00:07:01,000 - 00:07:05,000] or rather, annihilation operators in this case,
+- [00:07:05,000 - 00:07:08,000] e to the ikx,
+- [00:07:08,000 - 00:07:12,000] e to the minus i omega t,
+- [00:07:12,000 - 00:07:16,000] where omega is the omega which is related to k.
+- [00:07:16,000 - 00:07:20,000] So let's write omega of k.
+- [00:07:20,000 - 00:07:25,000] Now supposing I add to omega just this constant c.
+- [00:07:25,000 - 00:07:26,000] What does it do?
+- [00:07:26,000 - 00:07:28,000] It adds in or multiplies in
+- [00:07:28,000 - 00:07:30,000] to each one of these waves,
+- [00:07:30,000 - 00:07:33,000] e to the ict.
+- [00:07:33,000 - 00:07:37,000] Sorry, e to the minus ict.
+- [00:07:37,000 - 00:07:39,500] All of the waves in here
+- [00:07:39,500 - 00:07:42,000] that make up the Schrodinger field
+- [00:07:42,000 - 00:07:47,000] all get multiplied by the same time-dependent phase here.
+- [00:07:47,000 - 00:07:49,500] So what it does is if you
+- [00:07:49,500 - 00:07:52,000] had a solution of the Schrodinger equation,
+- [00:07:52,000 - 00:07:55,000] and you added a constant to the phase,
+- [00:07:55,000 - 00:07:58,000] it would just change the solution,
+- [00:07:58,000 - 00:08:01,000] let's say psi of x and t,
+- [00:08:01,000 - 00:08:04,000] it would just multiply it
+- [00:08:04,000 - 00:08:07,000] by e to the minus ict.
+- [00:08:07,000 - 00:08:10,000] That's all it would do.
+- [00:08:10,000 - 00:08:14,000] It would multiply the wave, sorry, by,
+- [00:08:14,000 - 00:08:17,000] times psi of x and t.
+- [00:08:17,000 - 00:08:21,000] It would change the wave by multiplying it
+- [00:08:21,000 - 00:08:25,000] by a time-dependent phase.
+- [00:08:25,000 - 00:08:28,000] All of the quantities of physical interest
+- [00:08:28,000 - 00:08:31,000] that are made out of the Schrodinger field
+- [00:08:31,000 - 00:08:35,000] involve psi times its complex conjugate.
+- [00:08:35,000 - 00:08:37,000] The probability density,
+- [00:08:37,000 - 00:08:38,000] for example,
+- [00:08:38,000 - 00:08:41,000] is psi times psi star.
+- [00:08:41,000 - 00:08:44,000] All possible expectation values,
+- [00:08:44,000 - 00:08:47,000] quantum mechanical expectation values,
+- [00:08:47,000 - 00:08:51,000] always involve psi times its complex conjugate.
+- [00:08:51,000 - 00:08:54,000] So what happens to psi times its complex conjugate
+- [00:08:54,000 - 00:08:58,000] when you perform this operation?
+- [00:08:58,000 - 00:09:00,000] It cancels out.
+- [00:09:00,000 - 00:09:03,000] It cancels out because psi star
+- [00:09:03,000 - 00:09:06,000] gets multiplied by e to the plus ict.
+- [00:09:07,000 - 00:09:09,000] And when you multiply them,
+- [00:09:09,000 - 00:09:11,000] they cancel out.
+- [00:09:11,000 - 00:09:12,000] As a consequence,
+- [00:09:12,000 - 00:09:16,000] there is no physical measurability
+- [00:09:16,000 - 00:09:19,000] to adding a constant to all of the phases,
+- [00:09:19,000 - 00:09:21,000] and nevertheless,
+- [00:09:21,000 - 00:09:23,000] it changes the velocity
+- [00:09:23,000 - 00:09:25,000] of the Schrodinger waves.
+- [00:09:25,000 - 00:09:27,000] So there must be something about
+- [00:09:27,000 - 00:09:29,000] this change of velocity,
+- [00:09:29,000 - 00:09:31,000] or this change of frequency,
+- [00:09:31,000 - 00:09:33,000] which is not so much,
+- [00:09:33,000 - 00:09:35,000] let's say for the phase velocity,
+- [00:09:35,000 - 00:09:38,000] the phase velocity is not something
+- [00:09:38,000 - 00:09:40,000] which is ever measured
+- [00:09:40,000 - 00:09:42,000] when or ever appears
+- [00:09:42,000 - 00:09:45,000] when you multiply psi times psi star.
+- [00:09:45,000 - 00:09:49,000] So it's an artifact of a particular
+- [00:09:49,000 - 00:09:55,000] mathematical
+- [00:09:55,000 - 00:09:57,000] set of conventions.
+- [00:09:57,000 - 00:09:58,000] On the other hand,
+- [00:09:58,000 - 00:09:59,000] the group velocity
+- [00:09:59,000 - 00:10:01,000] really does mean something.
+- [00:10:01,000 - 00:10:02,000] It is the motion of the wave.
+- [00:10:02,000 - 00:10:03,000] The motion of a,
+- [00:10:03,000 - 00:10:06,000] let's say,
+- [00:10:06,000 - 00:10:08,000] a wave packet
+- [00:10:08,000 - 00:10:11,000] which is centered in some place.
+- [00:10:11,000 - 00:10:12,000] In other words,
+- [00:10:12,000 - 00:10:13,000] if you have a bunch of waves
+- [00:10:13,000 - 00:10:14,000] which add up,
+- [00:10:14,000 - 00:10:15,000] a bunch of waves,
+- [00:10:15,000 - 00:10:17,000] a bunch of plane waves,
+- [00:10:17,000 - 00:10:18,000] which add up to something
+- [00:10:18,000 - 00:10:19,000] that looks like that,
+- [00:10:19,000 - 00:10:21,000] maybe it has some oscillations in it,
+- [00:10:21,000 - 00:10:23,000] but which look like a lump,
+- [00:10:23,000 - 00:10:25,000] the whole lump moves with a velocity
+- [00:10:25,000 - 00:10:27,000] that's called a group velocity.
+- [00:10:27,000 - 00:10:28,000] But let's see if we can see,
+- [00:10:28,000 - 00:10:30,000] just a little roughly why.
+- [00:10:30,000 - 00:10:32,000] If you take a whole bunch of plane waves,
+- [00:10:32,000 - 00:10:34,000] every plane wave looks like this,
+- [00:10:34,000 - 00:10:35,000] goes on and on forever.
+- [00:10:35,000 - 00:10:37,000] How is it possible to add them up
+- [00:10:37,000 - 00:10:41,000] so that you get a concentrated lump someplace?
+- [00:10:41,000 - 00:10:44,000] The answer is destructive interference.
+- [00:10:44,000 - 00:10:45,000] Right?
+- [00:10:45,000 - 00:10:47,000] Destructive interference
+- [00:10:47,000 - 00:10:50,000] so that the waves are in phase
+- [00:10:50,000 - 00:10:53,000] and add up over here
+- [00:10:53,000 - 00:10:54,000] and they're out of phase
+- [00:10:54,000 - 00:10:56,000] and cancel over here.
+- [00:10:56,000 - 00:10:58,000] So the question then comes up.
+- [00:10:58,000 - 00:11:01,000] If we're interested in the motion of waves,
+- [00:11:01,000 - 00:11:05,000] and how waves of slightly different frequency
+- [00:11:05,000 - 00:11:07,000] reinforce each other
+- [00:11:07,000 - 00:11:10,000] and make high points and low points,
+- [00:11:10,000 - 00:11:13,000] let's try to follow how that works.
+- [00:11:13,000 - 00:11:15,000] Let's take two waves,
+- [00:11:15,000 - 00:11:16,000] not a single wave,
+- [00:11:16,000 - 00:11:18,000] but let's take two waves
+- [00:11:18,000 - 00:11:24,000] of very neighboring close momentum
+- [00:11:24,000 - 00:11:26,000] and try to follow
+- [00:11:26,000 - 00:11:30,000] where the reinforcing
+- [00:11:30,000 - 00:11:36,000] constructive interference takes place.
+- [00:11:36,000 - 00:11:37,000] That'll be good enough.
+- [00:11:37,000 - 00:11:39,000] Let's just follow where the constructive interference
+- [00:11:39,000 - 00:11:41,000] takes place between the two waves.
+- [00:11:41,000 - 00:11:43,000] So in particular,
+- [00:11:43,000 - 00:11:47,000] take e to the i kx.
+- [00:11:47,000 - 00:11:48,000] We could just take sine.
+- [00:11:48,000 - 00:11:50,000] Sine is good enough.
+- [00:11:50,000 - 00:11:57,000] Sine kx minus omega of kt.
+- [00:11:57,000 - 00:11:59,000] And let's add to it,
+- [00:11:59,000 - 00:12:01,000] this is just a wave moving
+- [00:12:01,000 - 00:12:04,000] along with momentum k,
+- [00:12:04,000 - 00:12:06,000] energy omega.
+- [00:12:06,000 - 00:12:09,000] And let's add to it another wave,
+- [00:12:09,000 - 00:12:11,000] which is,
+- [00:12:11,000 - 00:12:15,000] let's put parentheses around this,
+- [00:12:15,000 - 00:12:19,000] sine k prime,
+- [00:12:19,000 - 00:12:20,500] where k prime and k
+- [00:12:20,500 - 00:12:22,000] are very close to each other,
+- [00:12:22,000 - 00:12:27,000] x minus omega of k prime.
+- [00:12:27,000 - 00:12:34,000] So that's k prime times t.
+- [00:12:34,000 - 00:12:36,000] Where are they in phase
+- [00:12:36,000 - 00:12:39,000] and where are they out of phase?
+- [00:12:39,000 - 00:12:42,000] In phase means they reinforce each other.
+- [00:12:42,000 - 00:12:44,000] Out of phase,
+- [00:12:44,000 - 00:12:45,000] in particular,
+- [00:12:45,000 - 00:12:47,000] it'll mean that the two terms here
+- [00:12:47,000 - 00:12:50,000] have the same sine,
+- [00:12:50,000 - 00:12:51,000] and there are other places
+- [00:12:51,000 - 00:12:53,000] where they'll have opposite sine.
+- [00:12:53,000 - 00:12:55,000] Well, one easy way to find out
+- [00:12:55,000 - 00:12:57,000] where they reinforce each other
+- [00:12:57,000 - 00:12:59,000] is to ask when is the argument,
+- [00:12:59,000 - 00:13:01,000] argument meaning the thing in the bracket here,
+- [00:13:01,000 - 00:13:03,000] when is the argument of this wave
+- [00:13:03,000 - 00:13:06,000] the same as the argument of this wave?
+- [00:13:06,000 - 00:13:08,000] Those are the places,
+- [00:13:08,000 - 00:13:09,000] in that case,
+- [00:13:09,000 - 00:13:10,000] in that particular place,
+- [00:13:10,000 - 00:13:12,000] where the argument of this wave
+- [00:13:12,000 - 00:13:14,000] and the argument of this wave are the same,
+- [00:13:14,000 - 00:13:17,000] it's clear the waves will reinforce each other.
+- [00:13:17,000 - 00:13:19,000] They'll reinforce each other
+- [00:13:19,000 - 00:13:22,000] and they will be in constructive interference.
+- [00:13:22,000 - 00:13:23,000] Where is that?
+- [00:13:23,000 - 00:13:25,000] That's at the place where
+- [00:13:25,000 - 00:13:26,000] kx,
+- [00:13:26,000 - 00:13:31,000] minus omega of kt,
+- [00:13:31,000 - 00:13:35,000] is equal to k prime x
+- [00:13:35,000 - 00:13:37,000] minus omega,
+- [00:13:37,000 - 00:13:39,000] let's just call it omega prime,
+- [00:13:39,000 - 00:13:45,000] omega prime means omega of k prime t.
+- [00:13:45,000 - 00:13:48,000] But let's write this in the following way,
+- [00:13:48,000 - 00:13:52,000] k minus k prime x
+- [00:13:52,000 - 00:13:55,000] is equal to omega minus omega prime x.
+- [00:13:56,000 - 00:14:01,000] omega of k prime x.
+- [00:14:01,000 - 00:14:02,000] So,
+- [00:14:02,000 - 00:14:03,000] k minus k prime x
+- [00:14:03,000 - 00:14:06,000] is equal to omega prime x.
+- [00:14:06,000 - 00:14:07,000] So,
+- [00:14:07,000 - 00:14:08,000] k minus k prime x
+- [00:14:08,000 - 00:14:11,000] is equal to omega prime x.
+- [00:14:11,000 - 00:14:12,000] So,
+- [00:14:12,000 - 00:14:13,000] k minus k prime x
+- [00:14:13,000 - 00:14:16,000] is equal to omega prime x.
+- [00:14:16,000 - 00:14:17,000] So,
+- [00:14:17,000 - 00:14:19,000] we have this equation.
+- [00:14:19,000 - 00:14:20,000] We have to find out
+- [00:14:20,000 - 00:14:24,000] where x and t are related by this equation.
+- [00:14:24,000 - 00:14:25,000] Okay,
+- [00:14:25,000 - 00:14:26,000] so,
+- [00:14:26,000 - 00:14:27,000] k and k prime are very close to each other.
+- [00:14:27,000 - 00:14:28,000] Just for simplicity,
+- [00:14:28,000 - 00:14:29,000] let's imagine
+- [00:14:29,000 - 00:14:33,000] that they only differ by a very small amount,
+- [00:14:33,000 - 00:14:35,000] a small fractional amount,
+- [00:14:35,000 - 00:14:36,000] then,
+- [00:14:36,000 - 00:14:38,500] what is omega minus omega
+- [00:14:38,500 - 00:14:41,000] prime over k minus k prime?
+- [00:14:41,000 - 00:14:45,000] It's the derivative of omega with respect to k.
+- [00:14:45,000 - 00:14:46,000] That's all it is,
+- [00:14:46,000 - 00:14:49,000] is the derivative of omega with respect to k,
+- [00:14:49,000 - 00:14:52,000] if omega and omega prime are near each other.
+- [00:14:52,000 - 00:14:53,000] And so, what it says,
+- [00:14:53,000 - 00:14:54,000] is the place where the,
+- [00:14:54,000 - 00:14:57,000] is the place where they reinforce each other
+- [00:14:57,000 - 00:14:59,000] will travel along an orbit
+- [00:14:59,000 - 00:15:05,000] which is x is equal to the derivative of omega
+- [00:15:05,000 - 00:15:07,000] with respect to k.
+- [00:15:07,000 - 00:15:09,000] That's right.
+- [00:15:09,000 - 00:15:16,000] d omega by dk times t.
+- [00:15:16,000 - 00:15:20,000] This is also a velocity.
+- [00:15:20,000 - 00:15:22,000] It's the velocity of
+- [00:15:22,000 - 00:15:23,000] the place where the waves
+- [00:15:23,000 - 00:15:26,000] reinforce each other.
+- [00:15:26,000 - 00:15:29,000] Okay.
+- [00:15:29,000 - 00:15:31,000] And it's called the group velocity.
+- [00:15:31,000 - 00:15:32,000] It's the group velocity.
+- [00:15:32,000 - 00:15:34,000] Let's calculate it.
+- [00:15:34,000 - 00:15:37,000] If omega is k squared over 2m
+- [00:15:37,000 - 00:15:39,000] plus an arbitrary constant,
+- [00:15:39,000 - 00:15:40,000] this is,
+- [00:15:40,000 - 00:15:41,000] all right,
+- [00:15:41,000 - 00:15:42,000] this is the phase velocity,
+- [00:15:42,000 - 00:15:44,000] v phase.
+- [00:15:44,000 - 00:15:46,000] What about the group velocity?
+- [00:15:46,000 - 00:15:51,000] That's the derivative of omega with respect to k.
+- [00:15:51,000 - 00:15:52,000] Derivative of omega
+- [00:15:52,000 - 00:15:54,000] with respect to k.
+- [00:15:54,000 - 00:15:57,000] That's equal to 2k divided by 2m,
+- [00:15:57,000 - 00:16:00,000] otherwise known as k over m.
+- [00:16:00,000 - 00:16:03,000] And what do we get from here?
+- [00:16:03,000 - 00:16:04,000] Nothing.
+- [00:16:04,000 - 00:16:05,000] Zilch.
+- [00:16:05,000 - 00:16:06,000] Okay.
+- [00:16:06,000 - 00:16:08,000] This, of course,
+- [00:16:08,000 - 00:16:10,000] this is the group velocity,
+- [00:16:10,000 - 00:16:12,000] v group.
+- [00:16:12,000 - 00:16:15,000] And notice two things.
+- [00:16:15,000 - 00:16:17,000] The group velocity does not depend
+- [00:16:17,000 - 00:16:20,000] on this extra additive thing
+- [00:16:20,000 - 00:16:23,000] that I put into each frequency.
+- [00:16:23,000 - 00:16:25,000] Number one.
+- [00:16:25,000 - 00:16:26,000] And number two,
+- [00:16:26,000 - 00:16:28,000] it's exactly the velocity
+- [00:16:28,000 - 00:16:30,000] of a non-relativistic particle,
+- [00:16:30,000 - 00:16:32,000] momentum divided by mass.
+- [00:16:32,000 - 00:16:34,000] Okay.
+- [00:16:34,000 - 00:16:35,000] So...
+- [00:16:35,000 - 00:16:37,000] The two goes away.
+- [00:16:37,000 - 00:16:38,000] The two went away.
+- [00:16:38,000 - 00:16:39,000] Yeah, that's right.
+- [00:16:39,000 - 00:16:40,000] The two went away.
+- [00:16:40,000 - 00:16:41,000] Exactly.
+- [00:16:41,000 - 00:16:42,000] When I differentiated k,
+- [00:16:42,000 - 00:16:45,000] I got 2k divided by 2m
+- [00:16:45,000 - 00:16:47,000] and two went away.
+- [00:16:47,000 - 00:16:48,000] So the group velocity
+- [00:16:48,000 - 00:16:50,000] is,
+- [00:16:50,000 - 00:16:52,000] is the thing which is most closely
+- [00:16:52,000 - 00:16:54,000] associated with the classical motion
+- [00:16:54,000 - 00:16:56,000] of a particle.
+- [00:16:56,000 - 00:16:57,000] It's also the only thing
+- [00:16:57,000 - 00:16:59,000] that's associated with
+- [00:16:59,000 - 00:17:02,000] propagation of signals and so forth,
+- [00:17:02,000 - 00:17:05,000] not the phase velocity.
+- [00:17:05,000 - 00:17:07,000] We could go ahead a little more with this.
+- [00:17:07,000 - 00:17:08,000] Let's see.
+- [00:17:08,000 - 00:17:10,000] Do we want to?
+- [00:17:12,000 - 00:17:13,000] When they say,
+- [00:17:13,000 - 00:17:14,000] if you don't like the c,
+- [00:17:14,000 - 00:17:16,000] is that the phasor group velocity?
+- [00:17:16,000 - 00:17:17,000] Okay.
+- [00:17:17,000 - 00:17:18,000] Both.
+- [00:17:18,000 - 00:17:19,000] So let's go through that.
+- [00:17:19,000 - 00:17:20,000] Let's go through that
+- [00:17:20,000 - 00:17:21,000] and see why that's true.
+- [00:17:21,000 - 00:17:23,000] This c here is not the speed of light,
+- [00:17:23,000 - 00:17:24,000] incidentally.
+- [00:17:26,000 - 00:17:27,000] Right.
+- [00:17:27,000 - 00:17:28,000] This c is not the speed of light.
+- [00:17:28,000 - 00:17:29,000] But let's go through that.
+- [00:17:29,000 - 00:17:32,000] Let's take a relativistic wave
+- [00:17:32,000 - 00:17:33,000] and calculate both the group
+- [00:17:33,000 - 00:17:37,000] and phase velocity.
+- [00:17:37,000 - 00:17:38,000] All right.
+- [00:17:38,000 - 00:17:40,000] For that, we need to know a factor, too.
+- [00:17:40,000 - 00:17:42,000] We need to know the relationship between,
+- [00:17:42,000 - 00:17:43,000] we need to start with the relationship
+- [00:17:43,000 - 00:17:47,000] between energy and momentum.
+- [00:17:47,000 - 00:17:49,000] Does any of this have anything to do
+- [00:17:49,000 - 00:17:50,000] with the speed of light?
+- [00:17:50,000 - 00:17:51,000] Sometimes they talk about light going faster
+- [00:17:51,000 - 00:17:52,000] than the speed of light.
+- [00:17:52,000 - 00:17:53,000] No.
+- [00:17:53,000 - 00:17:54,000] No, it doesn't.
+- [00:17:54,000 - 00:17:55,000] It doesn't.
+- [00:17:55,000 - 00:17:56,000] It doesn't.
+- [00:17:56,000 - 00:17:57,000] It doesn't.
+- [00:17:57,000 - 00:17:58,000] It doesn't.
+- [00:17:58,000 - 00:17:59,000] It's a good,
+- [00:17:59,000 - 00:18:00,000] it is a good question,
+- [00:18:00,000 - 00:18:03,000] but it doesn't have to do with that.
+- [00:18:03,000 - 00:18:04,000] It's a separate issue.
+- [00:18:04,000 - 00:18:05,000] Yeah.
+- [00:18:05,000 - 00:18:06,000] Could he be thinking of,
+- [00:18:06,000 - 00:18:07,000] you know,
+- [00:18:07,000 - 00:18:08,000] the classic,
+- [00:18:08,000 - 00:18:09,000] look at a wave guy,
+- [00:18:09,000 - 00:18:10,000] where the phase velocity is always greater
+- [00:18:10,000 - 00:18:11,000] than the speed of light
+- [00:18:11,000 - 00:18:12,000] and the group velocity is almost less,
+- [00:18:12,000 - 00:18:13,000] and the product is the speed of light?
+- [00:18:13,000 - 00:18:14,000] Yeah.
+- [00:18:14,000 - 00:18:15,000] Let's,
+- [00:18:15,000 - 00:18:16,000] so let me give you an example
+- [00:18:16,000 - 00:18:17,000] of that happening.
+- [00:18:17,000 - 00:18:18,000] So,
+- [00:18:18,000 - 00:18:19,000] let me give you an example
+- [00:18:19,000 - 00:18:20,000] of that happening right now.
+- [00:18:20,000 - 00:18:25,000] Not for a wave guide with a,
+- [00:18:25,000 - 00:18:26,000] yeah,
+- [00:18:26,000 - 00:18:27,000] it is a wave,
+- [00:18:27,000 - 00:18:28,000] not a wave guide,
+- [00:18:28,000 - 00:18:30,000] just a wave equation
+- [00:18:30,000 - 00:18:33,000] for a particle with a mass.
+- [00:18:33,000 - 00:18:34,000] We begin,
+- [00:18:34,000 - 00:18:37,000] we begin in order to figure out
+- [00:18:37,000 - 00:18:38,000] the relation,
+- [00:18:38,000 - 00:18:40,000] the wave equation is nothing but
+- [00:18:40,000 - 00:18:43,000] the relation between omega and k.
+- [00:18:43,000 - 00:18:44,000] The hell with the wave equation.
+- [00:18:44,000 - 00:18:46,000] Just the relation between omega and k
+- [00:18:46,000 - 00:18:48,000] for a relativistic,
+- [00:18:48,000 - 00:18:49,000] a relativistic particle,
+- [00:18:49,000 - 00:18:50,000] a particle moving close to,
+- [00:18:50,000 - 00:18:51,000] but not at the speed of light.
+- [00:18:51,000 - 00:18:52,000] It's got a mass.
+- [00:18:52,000 - 00:18:53,000] It's got a mass.
+- [00:18:53,000 - 00:18:54,000] If it didn't have a mass,
+- [00:18:54,000 - 00:18:55,000] it would move with the speed of light.
+- [00:18:55,000 - 00:18:56,000] Okay.
+- [00:18:56,000 - 00:18:57,000] What's the connection?
+- [00:18:57,000 - 00:18:58,000] Omega is energy.
+- [00:18:58,000 - 00:18:59,000] Let's write it first in a form
+- [00:18:59,000 - 00:19:00,000] that we might remember best.
+- [00:19:00,000 - 00:19:01,000] What's the relation between energy
+- [00:19:01,000 - 00:19:02,000] and momentum for a particle
+- [00:19:02,000 - 00:19:03,000] which is relativistic?
+- [00:19:03,000 - 00:19:04,000] Anybody remember?
+- [00:19:04,000 - 00:19:05,000] Z over C,
+- [00:19:05,000 - 00:19:06,000] because momentum,
+- [00:19:06,000 - 00:19:07,000] what's that?
+- [00:19:07,000 - 00:19:08,000] Meta,
+- [00:19:08,000 - 00:19:09,000] mega,
+- [00:19:09,000 - 00:19:10,000] z over C?
+- [00:19:10,000 - 00:19:11,000] The relation between,
+- [00:19:11,000 - 00:19:12,000] the relationship between
+- [00:19:12,000 - 00:19:13,000] the energy and the momentum
+- [00:19:13,000 - 00:19:14,000] for a particle
+- [00:19:14,000 - 00:19:15,000] which is relativistic.
+- [00:19:15,000 - 00:19:16,000] You better remember?
+- [00:19:16,000 - 00:19:17,000] Z over C,
+- [00:19:17,000 - 00:19:18,000] because momentum,
+- [00:19:18,000 - 00:19:20,000] what's the relation with momentum?
+- [00:19:20,000 - 00:19:21,000] P.
+- [00:19:21,000 - 00:19:22,000] Square root,
+- [00:19:22,000 - 00:19:23,000] okay.
+- [00:19:23,000 - 00:19:24,000] Square root of P squared
+- [00:19:24,000 - 00:19:25,000] plus M squared,
+- [00:19:25,000 - 00:19:26,000] but do we want to put the speeds
+- [00:19:26,000 - 00:19:27,000] of light into here?
+- [00:19:27,000 - 00:19:28,000] I think there's a C to the fourth
+- [00:19:28,000 - 00:19:29,000] and a C squared,
+- [00:19:29,000 - 00:19:30,000] but let's set C equal to one.
+- [00:19:30,000 - 00:19:31,000] Yeah,
+- [00:19:31,000 - 00:19:32,000] we've already set C equal to one.
+- [00:19:32,000 - 00:19:33,000] Later on,
+- [00:19:33,000 - 00:19:34,000] we can put back the C's
+- [00:19:34,000 - 00:19:35,000] if we want to.
+- [00:19:35,000 - 00:19:36,000] It's not necessary.
+- [00:19:36,000 - 00:19:37,000] Here's the energy,
+- [00:19:37,000 - 00:19:38,000] and if we now set H bar equal to one,
+- [00:19:38,000 - 00:19:39,000] this is the energy
+- [00:19:39,000 - 00:19:40,000] that we're going to get.
+- [00:19:40,000 - 00:19:41,000] So,
+- [00:19:41,000 - 00:19:42,000] we're going to get
+- [00:19:42,000 - 00:19:43,000] the energy
+- [00:19:43,000 - 00:19:44,000] that we're going to get
+- [00:19:44,000 - 00:19:45,000] in the form of a particle.
+- [00:19:45,000 - 00:19:46,000] So,
+- [00:19:46,000 - 00:19:47,000] we're going to get
+- [00:19:47,000 - 00:19:48,000] the energy
+- [00:19:48,000 - 00:19:49,000] which is exactly the same
+- [00:19:49,000 - 00:19:50,000] as writing omega
+- [00:19:50,000 - 00:19:51,000] is equal to square root
+- [00:19:51,000 - 00:19:52,000] of K squared
+- [00:19:52,000 - 00:19:54,000] plus M squared.
+- [00:19:54,000 - 00:19:55,000] So,
+- [00:19:55,000 - 00:19:56,000] for a relativistic wave,
+- [00:19:56,000 - 00:19:58,000] a relativistic particle,
+- [00:19:58,000 - 00:19:59,000] the frequency
+- [00:19:59,000 - 00:20:00,000] is the square root
+- [00:20:00,000 - 00:20:01,000] of K squared
+- [00:20:01,000 - 00:20:02,000] plus M squared.
+- [00:20:02,000 - 00:20:03,000] Now,
+- [00:20:03,000 - 00:20:05,000] if M happens to be equal to zero,
+- [00:20:05,000 - 00:20:07,000] then it's omega equals
+- [00:20:07,000 - 00:20:09,000] the magnitude of K.
+- [00:20:09,000 - 00:20:11,000] Apart from a speed of light,
+- [00:20:11,000 - 00:20:13,000] which I've set equal to one,
+- [00:20:13,000 - 00:20:14,000] that's the relationship
+- [00:20:14,000 - 00:20:16,000] for a wave moving
+- [00:20:16,000 - 00:20:17,000] with the speed of light,
+- [00:20:17,000 - 00:20:18,000] and then,
+- [00:20:18,000 - 00:20:19,000] if we write omega
+- [00:20:19,000 - 00:20:20,000] is equal to K,
+- [00:20:20,000 - 00:20:21,000] what's the group velocity?
+- [00:20:21,000 - 00:20:22,000] First of all,
+- [00:20:22,000 - 00:20:23,000] what's the phase velocity?
+- [00:20:23,000 - 00:20:24,000] The phase velocity
+- [00:20:24,000 - 00:20:25,000] is omega over K, right?
+- [00:20:25,000 - 00:20:26,000] V phase is omega over K,
+- [00:20:26,000 - 00:20:27,000] and that's one.
+- [00:20:27,000 - 00:20:28,000] What does that mean,
+- [00:20:28,000 - 00:20:29,000] one?
+- [00:20:29,000 - 00:20:30,000] Speed of light.
+- [00:20:30,000 - 00:20:31,000] Right.
+- [00:20:31,000 - 00:20:32,000] What about the group velocity?
+- [00:20:32,000 - 00:20:33,000] V group.
+- [00:20:33,000 - 00:20:34,000] That's the derivative
+- [00:20:34,000 - 00:20:35,000] of omega
+- [00:20:35,000 - 00:20:36,000] with respect to K.
+- [00:20:36,000 - 00:20:37,000] What is that?
+- [00:20:37,000 - 00:20:38,000] One.
+- [00:20:38,000 - 00:20:39,000] One.
+- [00:20:39,000 - 00:20:40,000] So,
+- [00:20:40,000 - 00:20:41,000] what's the derivative
+- [00:20:41,000 - 00:20:42,000] of omega
+- [00:20:42,000 - 00:20:43,000] with respect to K?
+- [00:20:43,000 - 00:20:44,000] What is that?
+- [00:20:44,000 - 00:20:45,000] One.
+- [00:20:45,000 - 00:20:46,000] One.
+- [00:20:46,000 - 00:20:47,000] One.
+- [00:20:47,000 - 00:20:48,000] One.
+- [00:20:48,000 - 00:20:49,000] One.
+- [00:20:50,000 - 00:20:51,000] One.
+- [00:20:51,000 - 00:20:52,000] One.
+- [00:20:52,000 - 00:20:53,000] One.
+- [00:20:53,000 - 00:20:54,000] One.
+- [00:20:54,000 - 00:20:55,000] One.
+- [00:20:55,000 - 00:20:56,000] One.
+- [00:20:56,000 - 00:20:57,000] One.
+- [00:20:57,000 - 00:20:58,000] One.
+- [00:20:58,000 - 00:20:59,000] One.
+- [00:20:59,000 - 00:21:00,000] One.
+- [00:21:00,000 - 00:21:01,000] One.
+- [00:21:01,000 - 00:21:02,000] One.
+- [00:21:02,000 - 00:21:03,000] Because we had a wave
+- [00:21:03,000 - 00:21:04,000] of mass.
+- [00:21:04,000 - 00:21:05,000] Omega over K
+- [00:21:05,000 - 00:21:07,000] would be
+- [00:21:07,000 - 00:21:08,000] the velocity
+- [00:21:08,000 - 00:21:09,000] of a wave
+- [00:21:09,000 - 00:21:10,000] of mass
+- [00:21:10,000 - 00:21:11,000] winning.
+- [00:21:11,000 - 00:21:12,000] So,
+- [00:21:12,000 - 00:21:13,000] the group velocity
+- [00:21:13,000 - 00:21:14,000] and the phase velocity
+- [00:21:14,000 - 00:21:15,000] are the same
+- [00:21:15,000 - 00:21:16,000] for a wave
+- [00:21:16,000 - 00:21:17,000] with mass
+- [00:21:17,000 - 00:21:21,600] over k. That's the phase velocity. That's the
+- [00:21:21,600 - 00:21:26,200] square root of k squared plus m squared over
+- [00:21:27,240 - 00:21:30,400] k, but let's put it all inside the square
+- [00:21:30,400 - 00:21:33,560] root. Let's put it all inside the square root. Then
+- [00:21:33,560 - 00:21:36,600] it becomes k squared plus m squared over k
+- [00:21:36,600 - 00:21:39,640] squared. This is bigger than or smaller than 1.
+- [00:21:39,640 - 00:21:44,560] Bigger than 1. k squared plus m squared over
+- [00:21:44,560 - 00:21:49,480] k squared is bigger than 1. So the phase velocity
+- [00:21:49,480 - 00:21:53,280] omega over k is bigger than 1, bigger than the
+- [00:21:53,280 - 00:21:57,080] speed of light. Okay, uh-oh, you get still a bit
+- [00:21:57,080 - 00:21:59,240] scared, waves moving faster than the speed
+- [00:21:59,240 - 00:22:01,400] of light, but what about the phase velocity?
+- [00:22:01,400 - 00:22:05,000] Let's work that out. Ah, group velocity, thank
+- [00:22:05,000 - 00:22:08,600] you. The group velocity is the derivative of omega
+- [00:22:08,600 - 00:22:09,560] with respect to k.
+- [00:22:09,640 - 00:22:11,920] All right, what's the derivative
+- [00:22:11,920 - 00:22:14,200] of omega with respect to k?
+- [00:22:17,320 - 00:22:19,160] Whoops, not t, the omega dk.
+- [00:22:21,640 - 00:22:23,400] All right, we have to take the
+- [00:22:23,400 - 00:22:25,160] derivative of a square root. That gives us
+- [00:22:26,200 - 00:22:29,920] 1 over twice the square root of k squared
+- [00:22:29,920 - 00:22:33,640] plus m squared, and then we have to differentiate
+- [00:22:33,640 - 00:22:36,200] the argument here with respect to k, so that just
+- [00:22:36,200 - 00:22:38,760] gives us k. It gives us k over this. This
+- [00:22:38,760 - 00:22:39,400] is the derivative.
+- [00:22:39,640 - 00:22:41,640] So we have to take the derivative
+- [00:22:41,640 - 00:22:43,640] of omega over k squared plus m squared.
+- [00:22:43,640 - 00:22:46,680] Which is also equal to square root of
+- [00:22:46,680 - 00:22:49,720] k squared over k squared plus m squared.
+- [00:22:51,640 - 00:22:55,480] Isn't that nice? The group velocity is squared
+- [00:22:55,480 - 00:22:59,320] of k squared over k squared plus m squared.
+- [00:22:59,320 - 00:23:01,360] The phase velocity is square root of
+- [00:23:01,360 - 00:23:03,400] k squared plus m squared over k squared.
+- [00:23:03,400 - 00:23:06,080] They're inverse to each other. This one is greater
+- [00:23:06,080 - 00:23:08,760] than 1. This one is always less than 1.
+- [00:23:09,640 - 00:23:13,160] Okay? This one is less than 1. In fact, this
+- [00:23:13,160 - 00:23:16,680] is the velocity of a relativistic particle with momentum k.
+- [00:23:16,680 - 00:23:21,640] k squared, thank you.
+- [00:23:21,640 - 00:23:25,160] Yeah. They're just inverse to each other. And
+- [00:23:25,160 - 00:23:28,680] as it happens, as was pointed out by somebody,
+- [00:23:28,680 - 00:23:33,160] the product of the group velocity and the phase velocity
+- [00:23:33,160 - 00:23:37,640] are equal to 1. So they're just inverses of each other.
+- [00:23:37,640 - 00:23:38,480] Now that's somewhat accidental. That's
+- [00:23:38,480 - 00:23:39,320] a little bit of a coincidence.
+- [00:23:39,320 - 00:23:41,000] That's not a very general fact.
+- [00:23:41,000 - 00:23:41,500] Yeah.
+- [00:23:41,879 - 00:23:44,359] Very in there somewhere is that the
+- [00:23:44,359 - 00:23:46,840] wave speed must be a function of frequency.
+- [00:23:46,840 - 00:23:47,399] What?
+- [00:23:47,399 - 00:23:50,159] The wave speed must be a function of frequency. If
+- [00:23:50,159 - 00:23:52,919] the wave speed is constant of frequency, you get no dispersion.
+- [00:23:52,919 - 00:23:56,879] That's right. That's this case here where
+- [00:23:56,879 - 00:24:00,840] omega is equal or proportional to k.
+- [00:24:02,200 - 00:24:05,000] That's the case where all waves have the same
+- [00:24:05,000 - 00:24:07,800] velocity. Right. So it's only in the case where
+- [00:24:07,800 - 00:24:08,550] all the waves of different frequencies are equal to k. So it's only
+- [00:24:08,550 - 00:24:09,300] in the case where all the waves of different frequencies are equal to k.
+- [00:24:09,320 - 00:24:11,400] have the same velocity that the
+- [00:24:11,400 - 00:24:13,480] group and phase velocity are the same.
+- [00:24:13,480 - 00:24:15,880] That's a good approximation not only for light, it also
+- [00:24:15,880 - 00:24:18,280] happens to be a good approximation for sound and other things.
+- [00:24:19,320 - 00:24:21,599] To at least low frequency sound waves
+- [00:24:21,599 - 00:24:23,879] all move with pretty much the same velocity.
+- [00:24:24,520 - 00:24:27,320] And so they...
+- [00:24:27,320 - 00:24:28,320] But if it's not true, then
+- [00:24:28,320 - 00:24:29,320] the shape of the wave is historic.
+- [00:24:29,320 - 00:24:33,280] That's right. That's right. So it's good. That's right. That's right. So
+- [00:24:33,280 - 00:24:37,240] the difference of these two kinds of velocities is connected with wave dispersion.
+- [00:24:37,800 - 00:24:38,679] With the changes, with the...
+- [00:24:38,679 - 00:24:39,159] Yeah.
+- [00:24:39,160 - 00:24:41,720] With the fact that waves change shape. Absolutely.
+- [00:24:41,720 - 00:24:42,520] Change shape.
+- [00:24:42,520 - 00:24:46,760] Absolutely. Okay. So that's the story about
+- [00:24:46,760 - 00:24:51,000] waves, about group velocity and phase velocity.
+- [00:24:51,000 - 00:24:53,280] And as I said, in quantum
+- [00:24:53,280 - 00:24:55,560] mechanics, because the effect, for example, here,
+- [00:24:55,560 - 00:24:57,920] the effect of an additive shift
+- [00:24:57,920 - 00:25:00,280] in omega is no physical effect whatever,
+- [00:25:00,840 - 00:25:04,680] it's an example of the fact that most times the
+- [00:25:04,680 - 00:25:08,520] phase velocity is irrelevant to real physical propagation of any signal.
+- [00:25:08,520 - 00:25:14,120] Or any energy flow or anything like that. Probability flow.
+- [00:25:14,120 - 00:25:20,120] Question. A moment ago, last, you said that you can't
+- [00:25:20,120 - 00:25:26,120] measure the phase velocity because these complex conjugates of those...
+- [00:25:26,120 - 00:25:28,440] At least for the Schrodinger wave, yeah.
+- [00:25:28,440 - 00:25:31,480] Okay. Can you measure it for a photon?
+- [00:25:31,480 - 00:25:33,160] Well, for a photon, they're the same.
+- [00:25:33,160 - 00:25:34,200] They're the same, yes.
+- [00:25:34,200 - 00:25:36,039] They're the same. Now, it gets a little more
+- [00:25:36,039 - 00:25:37,879] complicated when you have various kinds of dispersal waves.
+- [00:25:37,880 - 00:25:39,240] There's a lot of different kinds of
+- [00:25:39,240 - 00:25:40,600] dispersive materials that the photon can move through.
+- [00:25:41,400 - 00:25:45,720] But, you know, that's for these squalid state physicists.
+- [00:25:50,440 - 00:25:51,800] Is all this for waves
+- [00:25:51,800 - 00:25:53,160] that don't spread out over time?
+- [00:25:55,000 - 00:25:57,400] Yeah. What's true for waves that don't
+- [00:25:57,400 - 00:25:59,800] spread out over time are the ones
+- [00:25:59,800 - 00:26:03,400] for which all waves have the same velocity.
+- [00:26:03,400 - 00:26:07,000] If different components of the wave have different velocities,
+- [00:26:07,880 - 00:26:11,320] then it's going to spread out, all right? All
+- [00:26:11,320 - 00:26:14,760] right. So that's the case where omega is a nonlinear
+- [00:26:14,760 - 00:26:19,240] function of k, basically. If omega is a
+- [00:26:19,240 - 00:26:23,720] linear function of k, then they don't spread out.
+- [00:26:24,920 - 00:26:26,920] And that's the case of
+- [00:26:26,920 - 00:26:28,920] all waves having one universal velocity.
+- [00:26:31,880 - 00:26:34,840] Okay. At some point, maybe if somebody comes
+- [00:26:34,840 - 00:26:37,800] back and asks me this question about light cones,
+- [00:26:37,880 - 00:26:40,680] and things, we can come back to it. It was
+- [00:26:40,680 - 00:26:43,480] a good question, but it's not quite related to this.
+- [00:26:44,760 - 00:26:47,920] All right. Let's see. Was there anything else
+- [00:26:47,920 - 00:26:51,080] I wanted to fill in before getting to fermions?
+- [00:26:51,880 - 00:26:55,280] Yeah. Before getting to fermions, let's discuss
+- [00:26:55,280 - 00:26:58,680] the issue of momentum conservation. We discussed
+- [00:26:58,680 - 00:27:01,760] the issue of energy conservation. And I showed
+- [00:27:01,760 - 00:27:04,840] you an example. It was really just an example
+- [00:27:05,640 - 00:27:06,280] of how the time-traveling of the light cone and the energy conservation of the light cone, the time-traveling of the light cone, and
+- [00:27:06,280 - 00:27:06,920] the action of light, you know, and the way that it's going over the spectrum of light and the wave, that's the case.
+- [00:27:06,920 - 00:27:11,030] the time translation invariance of the
+- [00:27:11,030 - 00:27:15,140] amplitudes that go into a scattering
+- [00:27:15,140 - 00:27:18,620] process in quantum field theory conserve
+- [00:27:18,620 - 00:27:22,100] energy. I'll just remind you very quickly
+- [00:27:22,100 - 00:27:24,560] and then show you how
+- [00:27:24,560 - 00:27:27,020] the momentum conservation works, very very
+- [00:27:27,020 - 00:27:31,070] similar. We will come back to these things,
+- [00:27:31,070 - 00:27:35,120] but then I want to get on to
+- [00:27:35,120 - 00:27:38,779] fermions. That's what I want to get
+- [00:27:38,779 - 00:27:42,439] to tonight. Okay let's let's get back, where
+- [00:27:42,439 - 00:27:43,999] were we? I was going to
+- [00:27:43,999 - 00:27:45,560] talk about momentum conservation just really
+- [00:27:45,560 - 00:27:48,290] quickly. Remember how energy conservation
+- [00:27:48,290 - 00:27:51,020] worked. Energy conservation we had for
+- [00:27:51,020 - 00:27:53,749] example some process, it doesn't matter what
+- [00:27:53,749 - 00:27:56,479] it is, a bunch of psi creation
+- [00:27:56,479 - 00:27:59,269] operators, no a bunch of psi
+- [00:27:59,269 - 00:28:02,060] annihilation operators, a bunch of psi creation
+- [00:28:02,060 - 00:28:04,760] operators,
+- [00:28:05,120 - 00:28:09,590] act on a state with a bunch of
+- [00:28:09,590 - 00:28:14,060] particles in it with momenta and then we calculate
+- [00:28:14,060 - 00:28:16,729] the overlap or the inner product or
+- [00:28:16,729 - 00:28:19,399] the probability amplitude for a final state
+- [00:28:19,399 - 00:28:22,419] with a bunch of other particles k
+- [00:28:22,419 - 00:28:25,439] prime blah blah blah blah blah. Okay these
+- [00:28:25,439 - 00:28:28,669] fields act on the initial states, these
+- [00:28:28,669 - 00:28:31,899] fields act on the final states, and I'll
+- [00:28:31,899 - 00:28:35,120] just remind you a little bit more about that.
+- [00:28:35,120 - 00:28:36,710] So let's go back to the first example,
+- [00:28:36,710 - 00:28:38,300] and I'll show you a little bit how it
+- [00:28:38,300 - 00:28:40,820] worked. We said supposing all the
+- [00:28:40,820 - 00:28:43,340] processes take place at the same point
+- [00:28:43,340 - 00:28:46,039] of space and time, at the same point or
+- [00:28:46,039 - 00:28:48,739] the example that I gave was one in which
+- [00:28:48,739 - 00:28:51,679] one particle came in, one particle went out,
+- [00:28:51,679 - 00:28:54,620] and they came in and scattered off a
+- [00:28:54,620 - 00:28:58,220] point in space, but we integrated
+- [00:28:58,220 - 00:29:01,820] over all possible times. The particle was
+- [00:29:01,820 - 00:29:04,939] there, not this particle, but the target was
+- [00:29:04,940 - 00:29:07,160] there, and so the particle could have
+- [00:29:07,160 - 00:29:09,380] scattered at any time whenever it gets
+- [00:29:09,380 - 00:29:13,430] there and that's represented by
+- [00:29:13,430 - 00:29:17,480] integrating this over time. If you
+- [00:29:17,480 - 00:29:20,390] remember each one of these psi's or each one
+- [00:29:20,390 - 00:29:23,300] of these psi's is made up out of a
+- [00:29:23,300 - 00:29:28,000] bunch of things involving a's, e to the i
+- [00:29:28,000 - 00:29:32,700] kx's, and e to the minus i omega t's.
+- [00:29:32,700 - 00:29:34,100] Omega t's.
+- [00:29:34,940 - 00:29:37,520] Omega's being the energies, k's being the momenta.
+- [00:29:37,520 - 00:29:40,100] Now if we said all of this took
+- [00:29:40,100 - 00:29:43,430] place at the origin of
+- [00:29:43,430 - 00:29:46,760] spatial coordinates, space coordinates, then this
+- [00:29:46,760 - 00:29:52,070] is just equal to one. When
+- [00:29:52,070 - 00:29:57,380] the operators act and we're finished calculating
+- [00:29:57,380 - 00:30:00,300] everything, the only time dependence in this
+- [00:30:00,300 - 00:30:03,220] amplitude comes from these e to the
+- [00:30:03,220 - 00:30:04,600] i omega t's.
+- [00:30:04,940 - 00:30:08,690] Let me remind you what it looked like. It
+- [00:30:08,690 - 00:30:12,440] looked like e to the minus i omega of each
+- [00:30:12,440 - 00:30:18,350] momentum k1 t e to the minus i omega of
+- [00:30:18,350 - 00:30:24,260] k2 t dot dot dot dot. That's for the initial
+- [00:30:24,260 - 00:30:28,150] states and then for the final states there
+- [00:30:28,150 - 00:30:32,040] was something similar, e to the plus i omega
+- [00:30:32,040 - 00:30:34,940] k prime one blah blah blah blah.
+- [00:30:34,940 - 00:30:35,940] Times t.
+- [00:30:35,940 - 00:30:41,540] Blah blah blah means the sum of all
+- [00:30:41,540 - 00:30:47,140] of the outgoing momentum and here it's minus the
+- [00:30:47,140 - 00:30:51,890] sum of all the incoming
+- [00:30:51,890 - 00:30:56,640] momenta. Omega k incoming times t.
+- [00:30:56,640 - 00:31:00,040] The last step was to say if we
+- [00:31:00,040 - 00:31:03,440] integrate this over all times, representing the fact that
+- [00:31:03,440 - 00:31:04,940] the scattering could happen at any time.
+- [00:31:04,940 - 00:31:09,940] The integral of this gives what? Integral over time.
+- [00:31:09,940 - 00:31:15,190] A delta function. A delta function of the
+- [00:31:15,190 - 00:31:20,440] sum of the final momentum minus the initial
+- [00:31:20,440 - 00:31:24,040] momentum. Sorry, final energies minus the
+- [00:31:24,040 - 00:31:27,640] initial energies. When we integrate this over
+- [00:31:27,640 - 00:31:30,290] time, what we get is a Dirac
+- [00:31:30,290 - 00:31:32,940] delta function of, let's call it, omega t.
+- [00:31:32,940 - 00:31:33,940] Okay.
+- [00:31:33,940 - 00:31:34,940] Okay.
+- [00:31:34,940 - 00:31:37,940] Omega final. That means the sum of
+- [00:31:37,940 - 00:31:40,940] all the incoming energy, outgoing energies minus the
+- [00:31:40,940 - 00:31:44,440] sum of all the incoming energies. In other
+- [00:31:44,440 - 00:31:47,940] words, the answer is zero unless the incoming
+- [00:31:47,940 - 00:31:50,240] energies are equal to the outgoing energies and
+- [00:31:50,240 - 00:31:52,540] this was just as a consequence of saying
+- [00:31:52,540 - 00:31:55,490] that the process could happen
+- [00:31:55,490 - 00:31:58,440] with equal probability at any time.
+- [00:31:58,440 - 00:31:59,440] Okay.
+- [00:31:59,440 - 00:32:01,690] Now, what about momentum conservation? Momentum conservation
+- [00:32:01,690 - 00:32:03,940] is exactly the same sort of thing.
+- [00:32:03,940 - 00:32:08,190] Except it has to do with space translation. If
+- [00:32:08,190 - 00:32:12,440] a process can happen at any point of space
+- [00:32:12,440 - 00:32:14,690] with equal probability, then it's momentum that's
+- [00:32:14,690 - 00:32:16,940] conserved. Let me give you just one
+- [00:32:16,940 - 00:32:22,190] example, one very simple example. This is a
+- [00:32:22,190 - 00:32:27,440] process in which a particle comes in and
+- [00:32:27,440 - 00:32:30,190] splits into two particles. Okay.
+- [00:32:30,190 - 00:32:32,940] Can this really happen in nature?
+- [00:32:32,940 - 00:32:37,190] Yes, it can really happen in nature.
+- [00:32:37,190 - 00:32:41,440] Particles decay. Okay. Particles decay and an incoming
+- [00:32:41,440 - 00:32:45,040] particle of one momentum can decay into particles
+- [00:32:45,040 - 00:32:48,640] of other momenta. But as you know, momentum
+- [00:32:48,640 - 00:32:51,540] is conserved, but let's see if we can see
+- [00:32:51,540 - 00:32:54,440] why that is. So the incoming particle is described,
+- [00:32:54,440 - 00:32:57,690] well, of course, it's described by a
+- [00:32:57,690 - 00:33:00,940] particle coming in, the outgoing particles, this is
+- [00:33:00,940 - 00:33:01,940] k, outgoing particles.
+- [00:33:01,940 - 00:33:02,940] Okay.
+- [00:33:02,940 - 00:33:07,690] So k prime one and k prime two.
+- [00:33:07,690 - 00:33:12,440] The operator which eats the initial particle, let's call
+- [00:33:12,440 - 00:33:19,440] that psi of x. This represents the particle
+- [00:33:19,440 - 00:33:26,440] being absorbed at point x and then two particles
+- [00:33:26,440 - 00:33:28,940] created also at point x.
+- [00:33:32,940 - 00:33:37,990] That's a simple example. One particle is eaten
+- [00:33:37,990 - 00:33:43,040] at point x and then it spits out two
+- [00:33:43,040 - 00:33:46,870] particles also at the same point for simplicity. But
+- [00:33:46,870 - 00:33:50,700] it can happen at any place. It can happen
+- [00:33:50,700 - 00:33:54,320] at any place and that means we have to
+- [00:33:54,320 - 00:33:57,940] integrate this over all space. Let's see what we get.
+- [00:33:57,940 - 00:34:02,940] Again, these psi's have creation and annihilation operators.
+- [00:34:02,940 - 00:34:05,590] There's some annihilation operator in here which
+- [00:34:05,590 - 00:34:08,239] can annihilate or just work on this
+- [00:34:08,239 - 00:34:13,070] particle, eat that particle. That's some A minus of k
+- [00:34:13,070 - 00:34:17,900] and it has an E to the ikx in it.
+- [00:34:17,900 - 00:34:19,920] Let's forget the omegas. We don't
+- [00:34:19,920 - 00:34:21,940] need the time dependence in here.
+- [00:34:21,940 - 00:34:24,530] All right. So that's the operator which
+- [00:34:24,530 - 00:34:27,120] eats this particle over here. And then there's
+- [00:34:27,120 - 00:34:29,530] these two part operators which put back the particles over
+- [00:34:29,530 - 00:34:31,940] here and they give us some A plus over here.
+- [00:34:31,940 - 00:34:32,940] Okay.
+- [00:34:32,940 - 00:34:41,440] A plus of k1 prime, A plus of k2 prime, and then
+- [00:34:41,440 - 00:34:49,940] there's an E to the minus ik1 plus k2 prime, x, same x.
+- [00:34:49,940 - 00:34:53,940] All right. These operators act. They annihilate
+- [00:34:53,940 - 00:34:57,940] the particles. We calculate the matrix element.
+- [00:34:57,940 - 00:35:00,440] That's all trivial. The only thing of interest
+- [00:35:00,440 - 00:35:02,940] that's left over is this function of position.
+- [00:35:02,940 - 00:35:05,440] This is the amplitude that
+- [00:35:05,440 - 00:35:07,940] the process happened at point x.
+- [00:35:07,940 - 00:35:11,440] But then since x is not a special place,
+- [00:35:11,440 - 00:35:14,940] it could happen anywhere as we integrate it over x.
+- [00:35:14,940 - 00:35:17,940] What do we get when we integrate it
+- [00:35:17,940 - 00:35:20,940] over x? A delta function of momentum conservation.
+- [00:35:20,940 - 00:35:25,440] All right. So if a process can happen with
+- [00:35:25,440 - 00:35:29,940] translation and variance in space, then it will conserve momentum.
+- [00:35:29,940 - 00:35:30,940] And in fact, it didn't matter
+- [00:35:30,940 - 00:35:31,940] how many particles were coming in.
+- [00:35:31,940 - 00:35:33,940] It didn't matter how many particles were coming
+- [00:35:33,940 - 00:35:35,940] in and going out in this little demonstration here.
+- [00:35:35,940 - 00:35:37,940] It would have worked the same way.
+- [00:35:37,940 - 00:35:41,440] Translation and variance or the idea that
+- [00:35:41,440 - 00:35:44,940] the process could happen anywhere with equal amplitude,
+- [00:35:44,940 - 00:35:46,940] that's momentum conservation.
+- [00:35:46,940 - 00:35:49,940] The idea that it can happen with
+- [00:35:49,940 - 00:35:52,940] equal probability at any time, that's energy conservation.
+- [00:35:52,940 - 00:35:56,940] There was another symmetry we talked about a little bit.
+- [00:35:56,940 - 00:36:00,940] The other symmetry that we talked about a little bit
+- [00:36:00,940 - 00:36:08,440] was a possible symmetry if we multiply psi by
+- [00:36:08,440 - 00:36:15,940] e to the i times, let's call it lambda.
+- [00:36:15,940 - 00:36:19,940] In other words, just change the phase of psi.
+- [00:36:19,940 - 00:36:24,940] What will that do to probability amplitudes?
+- [00:36:24,940 - 00:36:27,940] Well, the answer is it will do nothing to them as
+- [00:36:27,940 - 00:36:30,940] long as there's the same number of sies inside each of them.
+- [00:36:30,940 - 00:36:36,440] So that's the same thing as saying that the number of particles
+- [00:36:36,440 - 00:36:41,940] coming in is the same as the number of particles going out.
+- [00:36:41,940 - 00:36:45,940] And so symmetry with respect to changing
+- [00:36:45,940 - 00:36:49,940] the phase of the wave function like that,
+- [00:36:49,940 - 00:36:52,940] just multiplying it by an overall phase and
+- [00:36:52,940 - 00:36:55,940] multiplying its complex conjugate by the opposite phase,
+- [00:36:55,940 - 00:36:57,940] that's associated with certain conservation laws
+- [00:36:57,940 - 00:36:59,940] such as conservation of a wave.
+- [00:36:59,940 - 00:37:02,940] Such as conservation of electric charge.
+- [00:37:02,940 - 00:37:08,940] Conservation of electric charge tells us that
+- [00:37:08,940 - 00:37:14,940] is contained in symmetries of this type here.
+- [00:37:14,940 - 00:37:17,940] If these were charge-carrying fields, charge-carrying
+- [00:37:17,940 - 00:37:20,940] fields mean fields for electrons, for example.
+- [00:37:20,940 - 00:37:23,940] If they were fields for electrons,
+- [00:37:23,940 - 00:37:26,940] then this symmetry would be correct
+- [00:37:26,940 - 00:37:28,440] only if there were as
+- [00:37:28,440 - 00:37:29,940] many electrons in the initial state
+- [00:37:29,940 - 00:37:31,940] as in the final state.
+- [00:37:31,940 - 00:37:33,440] This is of course a law
+- [00:37:33,440 - 00:37:34,940] of nature that charge is conserved.
+- [00:37:34,940 - 00:37:37,940] So the law of nature that charge
+- [00:37:37,940 - 00:37:40,940] is conserved is the same as the symmetry
+- [00:37:40,940 - 00:37:43,940] under changing the phase of the wave function.
+- [00:37:43,940 - 00:37:46,940] These are some examples of symmetries.
+- [00:37:46,940 - 00:37:48,940] That was a quick review.
+- [00:37:48,940 - 00:37:50,940] Now I want to move on
+- [00:37:50,940 - 00:37:52,940] to the notion of a fermion.
+- [00:37:52,940 - 00:37:55,440] When you're doing the integration over
+- [00:37:55,440 - 00:37:57,940] space, that's overall three spatial dimensions?
+- [00:37:57,940 - 00:37:58,940] Yeah, say.
+- [00:37:58,940 - 00:38:00,940] That would mean conservation of all
+- [00:38:00,940 - 00:38:02,940] three components of the momentum, exactly.
+- [00:38:02,940 - 00:38:07,940] Then if you have two positive k's and
+- [00:38:07,940 - 00:38:12,940] a negative k, the k's may have a distribution.
+- [00:38:12,940 - 00:38:14,940] In other words, you could have one is
+- [00:38:14,940 - 00:38:16,940] larger, one is smaller, the other one is larger.
+- [00:38:16,940 - 00:38:17,940] Yes, yes, yes.
+- [00:38:17,940 - 00:38:21,940] Is there anything here that could point to...
+- [00:38:21,940 - 00:38:23,940] Some relative probability for different
+- [00:38:23,940 - 00:38:25,940] ways that the momentum is shared?
+- [00:38:25,940 - 00:38:26,940] Yeah.
+- [00:38:26,940 - 00:38:29,940] Not for this case here.
+- [00:38:29,940 - 00:38:31,940] For this case here, it's basically neutral with
+- [00:38:31,940 - 00:38:33,940] respect to the ways the momentum is shared.
+- [00:38:33,940 - 00:38:35,940] Can't say anything.
+- [00:38:35,940 - 00:38:37,940] Here it's just nothing.
+- [00:38:37,940 - 00:38:39,940] We'll come back to these things.
+- [00:38:39,940 - 00:38:41,940] The kinds of...
+- [00:38:41,940 - 00:38:42,940] We'll come back to it.
+- [00:38:42,940 - 00:38:43,940] We'll come back to it.
+- [00:38:43,940 - 00:38:47,440] I simply wanted to give some very,
+- [00:38:47,440 - 00:38:50,940] very simple illustrations of the connection between symmetries
+- [00:38:50,940 - 00:38:53,940] and conservation laws and how
+- [00:38:53,940 - 00:38:56,940] quantum fields are used to describe,
+- [00:38:56,940 - 00:38:59,940] and how quantum fields are used to describe,
+- [00:38:59,940 - 00:39:01,940] physical processes of creation
+- [00:39:01,940 - 00:39:03,940] and annihilation of particles.
+- [00:39:03,940 - 00:39:04,940] Yeah.
+- [00:39:04,940 - 00:39:05,940] A technical question.
+- [00:39:05,940 - 00:39:07,940] I have in my notes where we have the...
+- [00:39:07,940 - 00:39:12,940] We were doing a sum over k of annihilation
+- [00:39:12,940 - 00:39:17,940] operator times e to the plus ikx times some state.
+- [00:39:17,940 - 00:39:21,940] And I wrote that it reduces to one term...
+- [00:39:21,940 - 00:39:24,940] The state has a particle in it.
+- [00:39:24,940 - 00:39:25,940] That's right.
+- [00:39:25,940 - 00:39:26,940] There's one particle.
+- [00:39:26,940 - 00:39:29,940] And it's annihilating by summing over k.
+- [00:39:29,940 - 00:39:30,940] Right.
+- [00:39:30,940 - 00:39:32,940] And I wrote that it reduces to one term.
+- [00:39:32,940 - 00:39:33,940] Right.
+- [00:39:33,940 - 00:39:39,940] And I wanted to ask whether that means that if
+- [00:39:39,940 - 00:39:45,940] the terms which are annihilating places where there are no particles...
+- [00:39:45,940 - 00:39:46,940] They just don't...
+- [00:39:46,940 - 00:39:47,940] Zero.
+- [00:39:47,940 - 00:39:48,940] Gives you zero.
+- [00:39:48,940 - 00:39:49,940] Yeah, zero vector.
+- [00:39:49,940 - 00:39:50,940] Right.
+- [00:39:50,940 - 00:39:52,940] Zero vector is zero.
+- [00:39:52,940 - 00:39:54,940] It's nothing at all.
+- [00:39:54,940 - 00:39:55,940] All right.
+- [00:39:55,940 - 00:39:56,940] So, let's...
+- [00:39:56,940 - 00:40:03,940] Depart from the theory of bosons.
+- [00:40:03,940 - 00:40:08,440] The characteristic of bosons is, first of all, you
+- [00:40:08,440 - 00:40:12,940] can have any number of them in any quantum state.
+- [00:40:12,940 - 00:40:17,440] And as we described a couple of lectures ago, they
+- [00:40:17,440 - 00:40:21,940] have a tendency to want to accumulate in the same state.
+- [00:40:21,940 - 00:40:23,940] An example of that is...
+- [00:40:23,940 - 00:40:31,940] If a particle decays and produces a photon, for example, an atom decays and produces a
+- [00:40:31,940 - 00:40:39,940] photon, it may produce a photon in any direction with any momentum with some probability distribution.
+- [00:40:39,940 - 00:40:46,440] But if at the same time as it decays, there happens to be a large number of photons all
+- [00:40:46,440 - 00:40:52,940] in the same state, in other words, all moving the same way with the same energy and the same frequency,
+- [00:40:52,940 - 00:40:57,940] it will preferentially decay so that the photon that comes out
+- [00:40:57,940 - 00:41:02,940] has the same momentum as the extra photons which are already there.
+- [00:41:02,940 - 00:41:06,940] That's the square roots of n
+- [00:41:06,940 - 00:41:10,940] that occur in the boson operators.
+- [00:41:10,940 - 00:41:13,940] Fermions are very different.
+- [00:41:13,940 - 00:41:15,940] Fermions don't like each other.
+- [00:41:15,940 - 00:41:17,940] They don't like to congregate into the same state.
+- [00:41:17,940 - 00:41:20,940] In fact, they simply can't be in the same state.
+- [00:41:20,940 - 00:41:21,940] This, of course, is a very interesting phenomenon.
+- [00:41:21,940 - 00:41:25,440] This, of course, was a discovery that
+- [00:41:25,440 - 00:41:28,940] was first made by Pauli, I guess.
+- [00:41:28,940 - 00:41:30,940] Was it Pauli?
+- [00:41:30,940 - 00:41:33,940] Yeah, sure, Pauli exclusion principle.
+- [00:41:33,940 - 00:41:39,440] In the context of atoms, that two electrons
+- [00:41:39,440 - 00:41:44,940] never occupy the same quantum state within an atom.
+- [00:41:44,940 - 00:41:47,940] And that was generalized by
+- [00:41:47,940 - 00:41:50,940] Pauli himself, Pauli, Fermi, others,
+- [00:41:50,940 - 00:41:55,440] to a powerful principle that fermions are particles that simply can never
+- [00:41:55,440 - 00:41:59,940] be in the same quantum state in atoms, out of atoms, anywheres.
+- [00:41:59,940 - 00:42:02,940] Very different than bosons.
+- [00:42:02,940 - 00:42:06,440] Okay, let's work out some of
+- [00:42:06,440 - 00:42:09,940] the mathematics or some of the bookkeeping.
+- [00:42:09,940 - 00:42:12,440] The mathematics of creation and annihilation operators
+- [00:42:12,440 - 00:42:14,940] is really a form of bookkeeping, useful bookkeeping.
+- [00:42:14,940 - 00:42:16,940] But let's try to work
+- [00:42:16,940 - 00:42:18,940] out a theory of quantum behavior.
+- [00:42:18,940 - 00:42:22,440] Let's work out a theory of quantum fields of
+- [00:42:22,440 - 00:42:25,940] fermions, particles that can never be in the same state.
+- [00:42:25,940 - 00:42:28,940] Well, we start with the same kind
+- [00:42:28,940 - 00:42:31,940] of construction as we did for bosons.
+- [00:42:31,940 - 00:42:36,940] Imagine a quantum field, psi of x, which
+- [00:42:36,940 - 00:42:41,940] is again exactly the same formula as for bosons.
+- [00:42:41,940 - 00:42:44,940] Summation over all of the allowed momenta,
+- [00:42:44,940 - 00:42:47,940] I guess I call it k usually,
+- [00:42:47,940 - 00:42:51,440] all of the allowed k, if the
+- [00:42:51,440 - 00:42:54,940] allowed k are continuous, it becomes an integral.
+- [00:42:54,940 - 00:42:59,440] Annihilation operator for a particle of momentum
+- [00:42:59,440 - 00:43:03,940] k, e to the i k x.
+- [00:43:03,940 - 00:43:07,940] The states of the system are again labeled by
+- [00:43:07,940 - 00:43:11,940] how many particles there are in each quantum state,
+- [00:43:11,940 - 00:43:15,940] but the rule is never more than one.
+- [00:43:15,940 - 00:43:16,940] So the state of the system is always the same.
+- [00:43:16,940 - 00:43:17,940] So the state of the system is always the same.
+- [00:43:17,940 - 00:43:20,440] The state of the system is
+- [00:43:20,440 - 00:43:22,940] a bunch of zeros and ones.
+- [00:43:22,940 - 00:43:26,940] Never more than one particle in the same state.
+- [00:43:26,940 - 00:43:28,940] That's the character of a fermion.
+- [00:43:28,940 - 00:43:31,440] Now, are there other kinds of things that can
+- [00:43:31,440 - 00:43:33,940] have three particles in the same state but not more,
+- [00:43:33,940 - 00:43:36,940] or that must have more than seven particles
+- [00:43:36,940 - 00:43:39,940] in the same state, or other odd varieties?
+- [00:43:39,940 - 00:43:42,940] The answer is no.
+- [00:43:42,940 - 00:43:44,940] But to prove that there are other kinds of
+- [00:43:44,940 - 00:43:46,940] things that can have three particles in the same state,
+- [00:43:46,940 - 00:43:49,940] we have to prove that the mathematics
+- [00:43:49,940 - 00:43:52,940] of quantum mechanics together with special relativity
+- [00:43:52,940 - 00:43:55,940] dictate that the only possibilities of fermions and
+- [00:43:55,940 - 00:43:58,940] bosons would take us far beyond this class.
+- [00:43:58,940 - 00:44:00,940] So we're not going to do that, but
+- [00:44:00,940 - 00:44:02,940] we are going to describe what a fermion is.
+- [00:44:02,940 - 00:44:05,940] All right, so this is exactly the same.
+- [00:44:05,940 - 00:44:09,940] This formula is exactly the same as for bosons.
+- [00:44:09,940 - 00:44:11,940] Psi dagger of x, same thing.
+- [00:44:11,940 - 00:44:15,940] Incidentally, this is all non-relativistic particles.
+- [00:44:15,940 - 00:44:17,940] We'll get back to relativistic particles.
+- [00:44:17,940 - 00:44:19,940] Eventually we will.
+- [00:44:19,940 - 00:44:22,940] But what do the creation,
+- [00:44:22,940 - 00:44:25,940] same thing with creation operators.
+- [00:44:25,940 - 00:44:29,940] A plus of k, e to the i kx.
+- [00:44:29,940 - 00:44:34,940] But now the rule is a little different than before.
+- [00:44:34,940 - 00:44:37,940] Yeah, there is a minus sign.
+- [00:44:37,940 - 00:44:41,440] All right, so now let's focus just
+- [00:44:41,440 - 00:44:44,940] on one possible momentum of the electron,
+- [00:44:44,940 - 00:44:46,940] or this could be an electron.
+- [00:44:46,940 - 00:44:49,940] Now let's focus on one possible state.
+- [00:44:49,940 - 00:44:52,440] Not worry about all of the states,
+- [00:44:52,440 - 00:44:54,940] but let's just say some particular quantum state,
+- [00:44:54,940 - 00:44:57,940] it's either filled with an electron or it's empty.
+- [00:44:57,940 - 00:44:59,940] Those are the only two possibilities.
+- [00:44:59,940 - 00:45:01,940] Let's represent that.
+- [00:45:01,940 - 00:45:04,940] I guess we can represent that by zero.
+- [00:45:04,940 - 00:45:07,940] That represents no electron in that state.
+- [00:45:07,940 - 00:45:09,940] Or one.
+- [00:45:09,940 - 00:45:12,940] That represents one electron in that state.
+- [00:45:12,940 - 00:45:14,940] This isn't multiplying this.
+- [00:45:14,940 - 00:45:16,940] This is just two possible states.
+- [00:45:16,940 - 00:45:20,940] Put a comma here.
+- [00:45:20,940 - 00:45:24,940] What is the algebra or the abstract
+- [00:45:24,940 - 00:45:28,940] mathematics of the creation and annihilation operators?
+- [00:45:28,940 - 00:45:41,940] Let's see if we can make some guesses.
+- [00:45:41,940 - 00:45:42,940] You'll make the guess.
+- [00:45:42,940 - 00:45:49,940] A creation operator on the state with no particle.
+- [00:45:49,940 - 00:45:53,940] You want to guess?
+- [00:45:53,940 - 00:45:55,940] One particle.
+- [00:45:55,940 - 00:45:58,940] What else could it be?
+- [00:45:58,940 - 00:46:01,440] What about a creation operator
+- [00:46:01,440 - 00:46:03,940] on the state with one particle?
+- [00:46:03,940 - 00:46:08,940] Zero.
+- [00:46:08,940 - 00:46:10,940] Now zero does not mean the state with no particles.
+- [00:46:10,940 - 00:46:13,940] It just means the zero vector.
+- [00:46:13,940 - 00:46:19,940] I don't write that as just zero.
+- [00:46:19,940 - 00:46:21,940] It doesn't mean anything.
+- [00:46:21,940 - 00:46:23,940] It's not a vector at all.
+- [00:46:23,940 - 00:46:25,940] It's a non-state.
+- [00:46:25,940 - 00:46:28,940] What's that?
+- [00:46:28,940 - 00:46:31,940] Louder.
+- [00:46:31,940 - 00:46:34,940] Is the operator still linear?
+- [00:46:34,940 - 00:46:36,940] Yeah, they're all linear operators.
+- [00:46:36,940 - 00:46:39,940] In quantum mechanics, all operators are linear operators.
+- [00:46:40,940 - 00:46:44,440] When one speaks about an operator, especially
+- [00:46:44,440 - 00:46:47,940] in quantum mechanics, it's always a linear operator.
+- [00:46:47,940 - 00:46:51,440] I think mathematical terminology is that operator
+- [00:46:51,440 - 00:46:54,940] usually means, maybe always means linear operator.
+- [00:46:54,940 - 00:46:57,940] Otherwise it's operation, but I'm not sure.
+- [00:46:57,940 - 00:46:59,940] But yes, in quantum mechanics,
+- [00:46:59,940 - 00:47:01,940] operators are always linear operators.
+- [00:47:01,940 - 00:47:04,940] Okay, let's see if we can make some more guesses.
+- [00:47:04,940 - 00:47:08,940] What about A minus on O?
+- [00:47:08,940 - 00:47:13,940] Well, you can't take away that which is not there.
+- [00:47:13,940 - 00:47:16,440] But what about A minus
+- [00:47:16,440 - 00:47:18,940] on the state with one particle?
+- [00:47:18,940 - 00:47:21,940] No particles.
+- [00:47:21,940 - 00:47:23,940] No.
+- [00:47:23,940 - 00:47:26,940] No particles.
+- [00:47:26,940 - 00:47:29,440] All right, so these are operators
+- [00:47:29,440 - 00:47:31,940] which, well, they do what they do.
+- [00:47:31,940 - 00:47:33,940] They do what they do.
+- [00:47:33,940 - 00:47:35,940] Just to clarify, the zero there, that means
+- [00:47:35,940 - 00:47:37,940] that doesn't happen and you can't do that?
+- [00:47:37,940 - 00:47:38,940] No.
+- [00:47:38,940 - 00:47:39,940] No.
+- [00:47:39,940 - 00:47:40,940] No.
+- [00:47:40,940 - 00:47:41,940] No.
+- [00:47:41,940 - 00:47:42,940] Let me give an example.
+- [00:47:42,940 - 00:47:46,940] If we described harmonic oscillators by
+- [00:47:46,940 - 00:47:50,940] wave functions, ordinary wave functions, then
+- [00:47:50,940 - 00:47:54,940] there would be a wave function for the ground state.
+- [00:47:54,940 - 00:47:56,940] And the wave function for the ground
+- [00:47:56,940 - 00:47:58,940] state, let's just discuss this for a minute.
+- [00:47:58,940 - 00:48:01,940] The wave function for the ground state would
+- [00:48:01,940 - 00:48:04,940] be some Gaussian wave function like E to the
+- [00:48:04,940 - 00:48:05,940] minus X squared.
+- [00:48:05,940 - 00:48:06,940] All right?
+- [00:48:06,940 - 00:48:07,940] So this is the wave function.
+- [00:48:07,940 - 00:48:10,440] This would be identified as the ground
+- [00:48:10,440 - 00:48:12,940] state and therefore the state with no excitations.
+- [00:48:12,940 - 00:48:13,940] All right?
+- [00:48:13,940 - 00:48:17,940] On the other hand, the wave function, psi
+- [00:48:17,940 - 00:48:21,940] of X, which is literally equal to zero, that's
+- [00:48:21,940 - 00:48:22,940] the state zero.
+- [00:48:22,940 - 00:48:24,940] No wave function at all.
+- [00:48:24,940 - 00:48:25,940] All right?
+- [00:48:25,940 - 00:48:27,940] Probability is just zero.
+- [00:48:27,940 - 00:48:30,940] It's not a state.
+- [00:48:30,940 - 00:48:32,940] It's just a nothing.
+- [00:48:32,940 - 00:48:34,940] Okay.
+- [00:48:34,940 - 00:48:35,940] That's the...
+- [00:48:35,940 - 00:48:39,440] This is the starting point for the
+- [00:48:39,440 - 00:48:42,940] algebra of fermionic creation and annihilation operators.
+- [00:48:42,940 - 00:48:45,940] There's nothing in the notation that helps
+- [00:48:45,940 - 00:48:48,940] us distinguish between the fermions and the
+- [00:48:48,940 - 00:48:49,940] bosons, then?
+- [00:48:49,940 - 00:48:50,940] Well, yes, I suppose we should.
+- [00:48:50,940 - 00:48:51,940] Yeah, it's a good point.
+- [00:48:51,940 - 00:49:01,940] We should probably use a different letter.
+- [00:49:01,940 - 00:49:03,940] Let's not call fermionic operators A.
+- [00:49:03,940 - 00:49:04,940] Okay.
+- [00:49:04,940 - 00:49:08,940] We could call them alpha.
+- [00:49:08,940 - 00:49:10,940] Sometimes C is used.
+- [00:49:10,940 - 00:49:13,940] Why don't I use C?
+- [00:49:13,940 - 00:49:14,940] Okay.
+- [00:49:14,940 - 00:49:18,940] Well, the problem is that there are
+- [00:49:18,940 - 00:49:22,940] many different, not inconsistent, but many different notations
+- [00:49:22,940 - 00:49:23,940] in the literature.
+- [00:49:23,940 - 00:49:28,940] And I guess for us, we probably are
+- [00:49:28,940 - 00:49:33,940] wise to use a notation where bosonic and fermionic
+- [00:49:33,940 - 00:49:37,940] operators have different letters associated with them.
+- [00:49:37,940 - 00:49:40,940] So let's call this C.
+- [00:49:40,940 - 00:49:45,940] This is a common notation also
+- [00:49:45,940 - 00:49:50,940] that fermionic operators are labeled C.
+- [00:49:50,940 - 00:49:54,440] But they are the analog for
+- [00:49:54,440 - 00:49:57,940] fermions of the As for bosons.
+- [00:49:57,940 - 00:49:58,940] Okay.
+- [00:49:58,940 - 00:49:59,940] Whoops.
+- [00:49:59,940 - 00:50:00,940] All right.
+- [00:50:00,940 - 00:50:01,940] Okay.
+- [00:50:01,940 - 00:50:05,440] Let's see if we can figure out what C
+- [00:50:05,440 - 00:50:08,940] dagger C, or C plus times C minus, does.
+- [00:50:08,940 - 00:50:13,940] What does that operator do when it acts on anything?
+- [00:50:13,940 - 00:50:14,940] All right.
+- [00:50:14,940 - 00:50:15,940] So let's figure out what it does.
+- [00:50:15,940 - 00:50:18,940] What happens when it acts on O?
+- [00:50:18,940 - 00:50:21,940] Well, C minus, when it
+- [00:50:21,940 - 00:50:24,940] acts on O, just gives zero.
+- [00:50:24,940 - 00:50:26,940] And C plus isn't going to do, is not
+- [00:50:26,940 - 00:50:28,940] going to be helpful in getting it back to being
+- [00:50:28,940 - 00:50:29,940] non-zero.
+- [00:50:29,940 - 00:50:30,940] Zero is zero.
+- [00:50:30,940 - 00:50:31,940] So this is zero.
+- [00:50:31,940 - 00:50:32,940] You simply can't take away what's not there.
+- [00:50:32,940 - 00:50:33,940] Okay.
+- [00:50:33,940 - 00:50:34,440] Even if you try to put it back
+- [00:50:34,440 - 00:50:34,940] afterwards, you can't take it away to begin with.
+- [00:50:34,940 - 00:50:35,940] What about C minus times C plus on O?
+- [00:50:35,940 - 00:50:36,940] What does that give?
+- [00:50:36,940 - 00:50:37,940] C plus, when it gives O, gives what?
+- [00:50:37,940 - 00:50:38,940] Zero.
+- [00:50:38,940 - 00:50:39,940] One.
+- [00:50:39,940 - 00:50:40,940] One.
+- [00:50:40,940 - 00:50:41,940] And then C minus?
+- [00:50:41,940 - 00:50:42,940] Zero.
+- [00:50:42,940 - 00:50:43,940] O.
+- [00:50:43,940 - 00:50:44,940] Zero.
+- [00:50:44,940 - 00:50:45,940] Zero.
+- [00:50:45,940 - 00:50:46,940] Zero.
+- [00:50:46,940 - 00:50:47,940] Zero.
+- [00:50:47,940 - 00:50:48,940] Zero.
+- [00:50:48,940 - 00:50:49,940] Zero.
+- [00:50:49,940 - 00:50:50,940] Zero.
+- [00:50:50,940 - 00:50:51,940] Zero.
+- [00:50:51,940 - 00:50:52,940] Zero.
+- [00:50:52,940 - 00:50:53,940] Zero.
+- [00:50:53,940 - 00:50:54,940] Zero.
+- [00:50:54,940 - 00:50:55,940] Zero.
+- [00:50:55,940 - 00:50:56,940] Zero.
+- [00:50:56,940 - 00:50:57,940] Zero.
+- [00:50:57,940 - 00:50:58,940] Zero.
+- [00:50:58,940 - 00:50:59,940] Zero.
+- [00:50:59,940 - 00:51:00,940] Zero.
+- [00:51:00,940 - 00:51:01,940] Zero.
+- [00:51:01,940 - 00:51:02,940] Zero.
+- [00:51:02,940 - 00:51:03,940] Zero.
+- [00:51:03,940 - 00:51:04,940] Let's call it O.
+- [00:51:04,940 - 00:51:05,940] Let's call this O, as opposed to zero.
+- [00:51:05,940 - 00:51:06,940] So this gives back this state.
+- [00:51:06,940 - 00:51:11,660] In other words, it gives back exactly the same state.
+- [00:51:11,660 - 00:51:24,940] It gives back exactly the same state.
+- [00:51:24,940 - 00:51:25,940] What about C plus, C minus plus C minus plus?
+- [00:51:25,940 - 00:51:26,940] What about C plus, C minus plus C minus plus?
+- [00:51:26,940 - 00:51:27,940] C plus.
+- [00:51:27,940 - 00:51:28,940] C plus.
+- [00:51:28,940 - 00:51:36,710] C minus C plus. If it acts on O, let's
+- [00:51:36,710 - 00:51:44,480] see, what does it give when it acts on O?
+- [00:51:46,960 - 00:51:51,850] We're just adding those two equations, right?
+- [00:51:51,850 - 00:51:56,740] It just gives O. The ground state, right.
+- [00:51:56,740 - 00:52:00,359] Sometimes known as the vacuum. Let's now
+- [00:52:00,359 - 00:52:03,979] do the same thing acting on one.
+- [00:52:03,979 - 00:52:08,059] What is C minus C plus acting on one?
+- [00:52:08,059 - 00:52:12,140] Well, C minus when it acts on one takes the
+- [00:52:12,140 - 00:52:15,979] particle away and leaves O, the vacuum, and
+- [00:52:15,979 - 00:52:19,819] then C plus puts it back, right? So
+- [00:52:19,819 - 00:52:23,259] this gives one back again. What
+- [00:52:23,259 - 00:52:26,700] does it give when it acts on
+- [00:52:26,700 - 00:52:32,859] one? One. One. Acting on one.
+- [00:52:32,859 - 00:52:37,859] Minus, yeah. That's correct, isn't it? Yeah.
+- [00:52:37,859 - 00:52:42,859] Okay. Now what happens when we do this?
+- [00:52:42,859 - 00:52:45,259] It's zero because we can't add another
+- [00:52:45,259 - 00:52:47,660] particle to one that's already present if
+- [00:52:47,660 - 00:52:51,350] it's a fermion, so this is zero.
+- [00:52:51,350 - 00:52:55,040] What happens if we add these two
+- [00:52:55,040 - 00:52:56,040] equations?
+- [00:52:56,040 - 00:53:02,540] We find again C plus C minus plus
+- [00:53:02,540 - 00:53:09,040] C minus C plus on one gives one.
+- [00:53:09,040 - 00:53:15,020] So four equal to I. Yeah. Both
+- [00:53:15,020 - 00:53:21,000] of these operators, well this operator, this particular
+- [00:53:21,000 - 00:53:23,460] combination when it acts on any
+- [00:53:23,460 - 00:53:25,920] state gives back exactly the same state.
+- [00:53:26,040 - 00:53:31,420] So that's written in operator notation by saying C
+- [00:53:31,420 - 00:53:36,800] plus C minus plus C minus C plus is
+- [00:53:36,800 - 00:53:39,980] equal to the unit operator. It just gives
+- [00:53:39,980 - 00:53:43,160] back the same state, whatever it acts on.
+- [00:53:43,160 - 00:53:47,980] This combination, an operator times
+- [00:53:47,980 - 00:53:52,800] another plus the interchange, what would
+- [00:53:52,800 - 00:53:53,420] you call it if there was a
+- [00:53:53,420 - 00:53:54,040] minus here? You would call it the combination.
+- [00:53:54,040 - 00:53:55,040] Minus.
+- [00:53:55,040 - 00:53:56,040] Minus.
+- [00:53:56,040 - 00:53:57,040] Minus really is the best.
+- [00:53:57,040 - 00:53:58,040] Minus.
+- [00:53:58,040 - 00:53:59,040] Minus itself is what?
+- [00:53:59,040 - 00:53:59,540] Because it could be defined as, well if
+- [00:53:59,540 - 00:54:00,040] you have a plus and you've got five
+- [00:54:00,040 - 00:54:00,540] units at food point A, I count them
+- [00:54:00,540 - 00:54:01,040] all as an thenness, a consideration of the
+- [00:54:01,040 - 00:54:02,040] products in that Bailey of learning.
+- [00:54:02,040 - 00:54:03,040] There's a one.
+- [00:54:04,040 - 00:54:05,040] If.
+- [00:54:05,040 - 00:54:06,040] If you get it.
+- [00:54:06,040 - 00:54:07,040] Well, if you gave it a negative.
+- [00:54:07,040 - 00:54:08,040] What?
+- [00:54:08,040 - 00:54:09,040] You can get it that way, just by noodle ordering.
+- [00:54:10,040 - 00:54:11,040] Okay.
+- [00:54:11,040 - 00:54:12,180] So the number here of
+- [00:54:12,180 - 00:54:13,320] goodasses is called the binary ef.
+- [00:54:13,320 - 00:54:14,360] By A, root 1 K.
+- [00:54:14,360 - 00:54:15,360] So we have a process with him a first mono.
+- [00:54:15,360 - 00:54:18,520] As a matter of fact, A, l, m, f.
+- [00:54:18,520 - 00:54:19,460] Like root zero onto A.
+- [00:54:19,460 - 00:54:20,460] Think about A and b again even by this expression.
+- [00:54:20,460 - 00:54:20,580] After I showed you the first
+- [00:54:20,580 - 00:54:20,700] one he had the threeennes in it.
+- [00:54:20,700 - 00:54:22,359] B plus BA.
+- [00:54:28,060 - 00:54:29,969] So the first thing we
+- [00:54:29,969 - 00:54:31,879] learn is the creation and annihilation
+- [00:54:31,879 - 00:54:37,520] operators anticommute to give 1 on the right-hand side.
+- [00:54:37,520 - 00:54:41,100] This is incidentally the analog.
+- [00:54:41,100 - 00:54:44,520] Yeah, it doesn't matter which order you write them in,
+- [00:54:44,520 - 00:54:45,700] since they're the same.
+- [00:54:45,700 - 00:54:47,060] Well, no, sorry, they're not the same.
+- [00:54:47,060 - 00:54:49,180] But it doesn't matter which order you write them in.
+- [00:54:49,180 - 00:54:52,399] C minus, C minus, C plus, same thing.
+- [00:54:52,399 - 00:54:55,069] This is the analog for bosons
+- [00:54:55,069 - 00:54:57,740] of the commutator of A minus
+- [00:54:57,740 - 00:55:03,419] with A plus is equal to 1.
+- [00:55:03,419 - 00:55:04,080] It's the analog.
+- [00:55:04,080 - 00:55:06,359] It's not the same thing, but it's the analog.
+- [00:55:06,359 - 00:55:09,399] In this case, it's commutator.
+- [00:55:09,399 - 00:55:13,600] For bosons, in this case, it's anticommutator.
+- [00:55:13,600 - 00:55:15,740] Now, what about the anticommutator
+- [00:55:15,740 - 00:55:18,319] of C plus with C plus?
+- [00:55:19,180 - 00:55:21,400] The anticommutator of C plus with
+- [00:55:21,400 - 00:55:23,620] C plus is just C plus,
+- [00:55:23,620 - 00:55:26,940] C plus, plus C plus, C plus.
+- [00:55:26,940 - 00:55:30,940] It's just twice C plus squared.
+- [00:55:30,940 - 00:55:33,419] Twice this.
+- [00:55:33,419 - 00:55:36,180] What does this give when it acts on anything?
+- [00:55:36,180 - 00:55:37,989] Well, if it acts on the
+- [00:55:37,989 - 00:55:39,799] vacuum, it can create a particle.
+- [00:55:39,799 - 00:55:41,779] But then the next one is going to try
+- [00:55:41,779 - 00:55:44,299] to create a particle on top of a particle which
+- [00:55:44,299 - 00:55:45,700] is already in the vacuum.
+- [00:55:45,700 - 00:55:46,979] So it's going to try to create
+- [00:55:46,979 - 00:55:48,259] a particle on top of a particle,
+- [00:55:48,259 - 00:55:49,160] which is already in the vacuum.
+- [00:55:49,180 - 00:55:50,799] So if it acts on
+- [00:55:50,799 - 00:55:52,419] a particle, which is already there,
+- [00:55:52,419 - 00:55:54,160] it can't do that.
+- [00:55:54,160 - 00:55:56,960] If it acts on a particle which is already there,
+- [00:55:56,960 - 00:55:58,500] it can't do that.
+- [00:55:58,500 - 00:56:00,840] So whatever it acts on, C
+- [00:56:00,840 - 00:56:03,180] plus, C plus always gives 0.
+- [00:56:03,180 - 00:56:03,680] All right?
+- [00:56:03,680 - 00:56:06,060] So C plus, C plus gives 0.
+- [00:56:09,700 - 00:56:12,200] What about C minus, C minus?
+- [00:56:12,200 - 00:56:15,879] Anticommutator C minus, C minus.
+- [00:56:15,879 - 00:56:17,660] That's just twice C minus squared.
+- [00:56:19,180 - 00:56:22,419] So the first operator acts with a particle.
+- [00:56:22,419 - 00:56:24,460] The first operator removes a particle.
+- [00:56:24,460 - 00:56:26,500] And the second one looks for a particle,
+- [00:56:26,500 - 00:56:29,560] can't find one, and says 0.
+- [00:56:29,560 - 00:56:30,989] If it acts on a state
+- [00:56:30,989 - 00:56:32,419] without a particle, it also gives 0.
+- [00:56:35,140 - 00:56:39,680] This is the analog for harmonic oscillators of commutators.
+- [00:56:45,680 - 00:56:47,680] Is that 0 or 0?
+- [00:56:47,680 - 00:56:50,500] No, I mean, C minus, C minus.
+- [00:56:50,500 - 00:56:52,440] Can't you get the vector?
+- [00:56:52,440 - 00:56:54,060] No.
+- [00:56:54,060 - 00:56:55,000] This is an operator.
+- [00:56:55,000 - 00:56:55,839] It's not a vector.
+- [00:56:55,839 - 00:56:57,180] Right, it's the operator 0.
+- [00:56:57,180 - 00:57:00,399] Yeah, it's the operator 0.
+- [00:57:00,399 - 00:57:03,000] Right, it's the operator 0.
+- [00:57:03,000 - 00:57:04,810] The operator 0 is such that
+- [00:57:04,810 - 00:57:06,620] when it acts on any vector,
+- [00:57:06,620 - 00:57:09,540] on any state, it gives 0.
+- [00:57:09,540 - 00:57:11,100] It really is literally 0.
+- [00:57:11,100 - 00:57:13,060] Whenever it acts, it just doesn't give anything.
+- [00:57:13,060 - 00:57:15,440] It gives 0.
+- [00:57:15,440 - 00:57:17,339] There's an operator which is 0.
+- [00:57:17,340 - 00:57:18,800] And there's a vector which is 0.
+- [00:57:18,800 - 00:57:21,300] Not a vector, but a state vector, a state vector
+- [00:57:21,300 - 00:57:22,440] which is 0.
+- [00:57:22,440 - 00:57:26,980] Two different uses of 0, but they're both 0.
+- [00:57:26,980 - 00:57:28,860] And in fact, when the
+- [00:57:28,860 - 00:57:30,740] 0 operator acts on any vector,
+- [00:57:30,740 - 00:57:33,600] state vector, it gives the
+- [00:57:33,600 - 00:57:36,460] state equal to 0, 0 vector.
+- [00:57:36,460 - 00:57:42,860] OK, so fermions and bosons have a parallel mathematics
+- [00:57:42,860 - 00:57:47,340] to each other, where wherever you see commutator,
+- [00:57:47,340 - 00:57:53,160] for bosons, you replace it by anti-commutator for fermions.
+- [00:57:53,160 - 00:57:54,840] And it is a consequence of
+- [00:57:54,840 - 00:57:56,520] this that you can't put two particles
+- [00:57:56,520 - 00:57:57,840] in the same state.
+- [00:57:57,840 - 00:58:00,970] If you try, that's trying to
+- [00:58:00,970 - 00:58:04,100] put C plus, C plus on O.
+- [00:58:04,100 - 00:58:07,700] And C plus times C plus is 0.
+- [00:58:07,700 - 00:58:10,060] That's what this equation says.
+- [00:58:10,060 - 00:58:12,320] C plus C plus plus C
+- [00:58:12,320 - 00:58:14,580] plus C plus is equal to 0.
+- [00:58:14,580 - 00:58:16,140] So this algebra.
+- [00:58:16,140 - 00:58:16,540] OK.
+- [00:58:17,340 - 00:58:20,520] Incorporates and encompasses the idea
+- [00:58:20,520 - 00:58:23,700] that you cannot put two particles into the same state
+- [00:58:23,700 - 00:58:29,160] described by these creation and annihilation operators.
+- [00:58:29,160 - 00:58:32,700] I want to prove a little observation about this.
+- [00:58:36,620 - 00:58:40,780] These C's here create and annihilate particles
+- [00:58:40,780 - 00:58:42,320] with given momentum.
+- [00:58:42,320 - 00:58:44,320] What we've proved, what we've assumed,
+- [00:58:44,320 - 00:58:46,320] it's some combination of prove and assume,
+- [00:58:46,320 - 00:58:52,320] proved from the, from the, oh, incidentally, yeah,
+- [00:58:52,320 - 00:58:56,320] we should write this more completely.
+- [00:58:56,320 - 00:58:58,320] Supposing we're now talking
+- [00:58:58,320 - 00:59:00,320] about creation and annihilation operators
+- [00:59:00,320 - 00:59:04,320] for different momenta, K and K prime.
+- [00:59:04,320 - 00:59:07,320] Then I will just tell you
+- [00:59:07,320 - 00:59:10,320] this is delta K K prime.
+- [00:59:10,320 - 00:59:11,600] In other words, it's 1 over delta K K prime.
+- [00:59:11,600 - 00:59:12,060] OK.
+- [00:59:12,060 - 00:59:14,600] 1 if K equals K prime.
+- [00:59:14,600 - 00:59:16,700] 0 otherwise.
+- [00:59:16,700 - 00:59:19,060] And these, and these things are always just 0.
+- [00:59:22,340 - 00:59:26,530] C minus C minus are just equal
+- [00:59:26,530 - 00:59:30,720] to 0 for all K and K prime.
+- [00:59:36,299 - 00:59:38,149] That's the algebra of
+- [00:59:38,149 - 00:59:40,000] creation and annihilation operators, which,
+- [00:59:40,000 - 00:59:41,340] if you like, by definition.
+- [00:59:41,340 - 00:59:44,840] This defines the algebra of
+- [00:59:44,840 - 00:59:48,340] creation and annihilation operators for fermions.
+- [00:59:48,340 - 00:59:50,340] The fact that it really does
+- [00:59:50,340 - 00:59:52,340] describe fermions in nature, of course,
+- [00:59:52,340 - 00:59:58,340] is a marvelous correspondence between mathematics,
+- [00:59:58,340 - 01:00:01,340] simple mathematics, and some physics.
+- [01:00:01,340 - 01:00:04,340] But here's an interesting question.
+- [01:00:04,340 - 01:00:07,840] As defined up till now, what this says is
+- [01:00:07,840 - 01:00:11,340] that you cannot put two particles into the same momentum.
+- [01:00:11,340 - 01:00:12,340] You cannot put two particles into the same momentum.
+- [01:00:12,340 - 01:00:13,340] You cannot put two particles into a momentum state.
+- [01:00:13,340 - 01:00:16,340] You cannot make two particles carrying the same momentum.
+- [01:00:16,340 - 01:00:17,340] Two fermions.
+- [01:00:17,340 - 01:00:22,340] Two fermions of the same kind, incidentally.
+- [01:00:22,340 - 01:00:25,340] Two fermions of the same species.
+- [01:00:25,340 - 01:00:30,340] You cannot put them into the same state, momentum state.
+- [01:00:30,340 - 01:00:33,340] Can you put them into the same position state?
+- [01:00:33,340 - 01:00:36,840] What this tells us is that if we find
+- [01:00:36,840 - 01:00:40,340] a particle with momentum K, a fermion, an electron,
+- [01:00:40,340 - 01:00:43,780] an electron, we cannot find another one
+- [01:00:43,780 - 01:00:47,220] with exactly the same quantum state, same momentum.
+- [01:00:47,220 - 01:00:52,460] What about the same position? Can we find two
+- [01:00:52,460 - 01:00:57,700] particles at the same place in, not in momentum,
+- [01:00:57,700 - 01:01:01,580] but in position? So let's try to find out.
+- [01:01:01,580 - 01:01:05,460] How do we create a particle at point x?
+- [01:01:05,460 - 01:01:12,960] We create a particle at point x using psi of x.
+- [01:01:12,960 - 01:01:20,460] Psi of x on the vacuum represents a particle at point x.
+- [01:01:20,460 - 01:01:24,460] Oh sorry, I think we should
+- [01:01:24,460 - 01:01:28,460] have psi dagger, huh? Yeah, creation operators.
+- [01:01:28,460 - 01:01:30,960] So the question is what happens if you
+- [01:01:30,960 - 01:01:33,460] try to create two at the same point?
+- [01:01:33,460 - 01:01:35,460] What happens?
+- [01:01:35,460 - 01:01:46,960] Well, let's see what we have. That means we're going to have a sum over
+- [01:01:46,960 - 01:01:58,460] a k and a k prime of c plus of k, c plus of k prime,
+- [01:01:58,460 - 01:02:03,460] and then let's do it at the origin.
+- [01:02:03,460 - 01:02:05,460] Let's just do it at position zero.
+- [01:02:05,460 - 01:02:08,960] Then these e to the i
+- [01:02:08,960 - 01:02:12,460] k x's aren't there on zero.
+- [01:02:12,460 - 01:02:21,460] Well, what is this?
+- [01:02:21,460 - 01:02:26,460] Can anybody tell what this is?
+- [01:02:26,460 - 01:02:28,460] All the terms are zero when
+- [01:02:28,460 - 01:02:30,460] k does not equal k prime.
+- [01:02:30,460 - 01:02:33,460] No, no, the zero in any case.
+- [01:02:33,460 - 01:02:34,460] You can rewrite this.
+- [01:02:34,460 - 01:02:41,960] You can rewrite this in the form c plus of k, c plus of k prime, one
+- [01:02:41,960 - 01:02:49,460] half c plus of k plus one half c plus of k prime, c plus of k.
+- [01:02:49,460 - 01:02:52,460] Because it's under the summation here.
+- [01:02:52,460 - 01:02:56,460] But this is just the anti-commutator of two c pluses.
+- [01:02:56,460 - 01:03:00,460] Anti-commutator of c pluses are all equal to zero.
+- [01:03:00,460 - 01:03:02,460] So this is zero.
+- [01:03:02,460 - 01:03:04,460] Of y?
+- [01:03:04,460 - 01:03:08,460] Because the anti-commutator of c pluses is zero.
+- [01:03:08,460 - 01:03:11,460] Then y is zero?
+- [01:03:11,460 - 01:03:14,460] You should have asked me that before.
+- [01:03:14,460 - 01:03:16,460] Because I wrote it on the blackboard.
+- [01:03:20,460 - 01:03:26,460] Well, yeah, yeah, no, right, right.
+- [01:03:26,460 - 01:03:28,460] All of this is very clear
+- [01:03:28,460 - 01:03:30,460] if we're talking about only one k.
+- [01:03:30,460 - 01:03:35,460] It gets some real impact, non-trivial impact, when we generalize
+- [01:03:35,460 - 01:03:40,460] it in this fashion here to all k and k prime.
+- [01:03:40,460 - 01:03:42,960] All right, so there's basically
+- [01:03:42,960 - 01:03:45,460] some physics that's going in here.
+- [01:03:45,460 - 01:03:47,460] And what is that physics?
+- [01:03:47,460 - 01:03:51,960] It's the physics that not only can't you put two particles into the same
+- [01:03:51,960 - 01:03:56,460] momentum state, but you can't put them into the same position state, for example.
+- [01:03:56,460 - 01:03:59,460] What I'm showing you is that with this algebra,
+- [01:04:00,460 - 01:04:02,460] if this algebra is correct,
+- [01:04:02,460 - 01:04:04,960] then it's not just that you can't
+- [01:04:04,960 - 01:04:07,460] put two particles into the same momentum state,
+- [01:04:07,460 - 01:04:10,460] you can't put them into the same position state.
+- [01:04:10,460 - 01:04:11,960] In fact, you can't put
+- [01:04:11,960 - 01:04:13,460] them into the same state altogether.
+- [01:04:13,460 - 01:04:16,460] But this was just an example.
+- [01:04:16,460 - 01:04:21,460] With this algebra, it says that you cannot put particles either into the same
+- [01:04:21,460 - 01:04:26,460] momentum state or the same position state or any other state, for that matter.
+- [01:04:26,460 - 01:04:28,460] So these are fermions.
+- [01:04:28,460 - 01:04:29,460] This is the pattern for fermions.
+- [01:04:29,460 - 01:04:30,460] Yeah?
+- [01:04:30,460 - 01:04:33,460] I've always maybe misunderstood that you could have two electrons
+- [01:04:33,460 - 01:04:36,460] in the same momentum if they were far enough apart.
+- [01:04:36,460 - 01:04:37,460] Yes, yeah.
+- [01:04:37,460 - 01:04:39,960] The correct statement is you can't
+- [01:04:39,960 - 01:04:42,460] have two electrons in the same state.
+- [01:04:42,460 - 01:04:44,460] Now, what constitutes a state?
+- [01:04:44,460 - 01:04:47,460] It constitutes a state may not just be its momentum.
+- [01:04:47,460 - 01:04:50,460] It may be its momentum and its
+- [01:04:50,460 - 01:04:53,460] spin, which we haven't come to yet.
+- [01:04:53,460 - 01:04:55,960] This is one of the things we're going to come
+- [01:04:55,960 - 01:04:58,460] to shortly, is the concept of spin, a very important concept.
+- [01:04:58,460 - 01:04:59,460] We haven't come to it yet.
+- [01:04:59,460 - 01:05:02,460] So at this stage, we're imagining that
+- [01:05:02,460 - 01:05:05,460] a particle is characterized by a momentum.
+- [01:05:05,460 - 01:05:07,460] And if it's a fermion, you
+- [01:05:07,460 - 01:05:09,460] can't have two in the same momentum.
+- [01:05:09,460 - 01:05:10,960] Now, the correct statement is, of course,
+- [01:05:10,960 - 01:05:12,460] you can't have them in the same state.
+- [01:05:12,460 - 01:05:16,960] And if a state requires other ingredients besides its momentum, for example, its spin,
+- [01:05:16,960 - 01:05:21,460] then you can't have two particles with the same momentum with the same spin.
+- [01:05:21,460 - 01:05:24,460] But spin is only really parallel and anti-parallel.
+- [01:05:24,460 - 01:05:25,460] Yeah.
+- [01:05:25,460 - 01:05:26,960] But what about two electrons and two hydrogen
+- [01:05:26,960 - 01:05:28,460] atoms that are separated in some distance away?
+- [01:05:28,460 - 01:05:33,460] Could they possibly have the same momentum?
+- [01:05:33,460 - 01:05:34,460] Momentum or?
+- [01:05:34,460 - 01:05:35,460] Momentum.
+- [01:05:35,460 - 01:05:36,460] I just want to stay with momentum.
+- [01:05:36,460 - 01:05:38,460] You want the atoms or the?
+- [01:05:38,460 - 01:05:40,460] Well, just an electron.
+- [01:05:40,460 - 01:05:42,460] Maybe you used a bad example.
+- [01:05:42,460 - 01:05:43,960] Well, electrons and a hydrogen
+- [01:05:43,960 - 01:05:45,460] atom are not in momentum states.
+- [01:05:45,460 - 01:05:50,460] They're in atomic energy levels.
+- [01:05:50,460 - 01:05:53,960] Now, the atomic energy levels over here and over here
+- [01:05:53,960 - 01:05:57,460] for two different atoms are two quite different wave functions.
+- [01:05:57,460 - 01:06:01,960] So if you have an atom over here, an electron
+- [01:06:01,960 - 01:06:06,460] might occupy a wave function that looks something like this.
+- [01:06:06,460 - 01:06:07,960] Another atom over here might have
+- [01:06:07,960 - 01:06:09,460] an electron which looks like this.
+- [01:06:09,460 - 01:06:10,960] This wave function and that
+- [01:06:10,960 - 01:06:12,460] wave function are not the same.
+- [01:06:12,460 - 01:06:13,460] Right.
+- [01:06:13,460 - 01:06:15,460] They're quite distinguishable by the fact that one of
+- [01:06:15,460 - 01:06:17,460] them is over here, one of them is over here.
+- [01:06:17,460 - 01:06:21,460] So yes, you can have two electrons in two different atoms,
+- [01:06:21,460 - 01:06:25,460] both, for example, in the ground state, in some particular state.
+- [01:06:25,460 - 01:06:26,460] Yes.
+- [01:06:26,460 - 01:06:29,460] But you can't have two electrons in
+- [01:06:29,460 - 01:06:32,460] the same atom with the same quantum numbers.
+- [01:06:32,460 - 01:06:33,460] To be more generic.
+- [01:06:33,460 - 01:06:34,460] What's that?
+- [01:06:34,460 - 01:06:37,460] To be more generic, instead of specifically talking
+- [01:06:37,460 - 01:06:40,460] about atoms, could you just use the term systems?
+- [01:06:40,460 - 01:06:42,460] Is that used in the language?
+- [01:06:42,460 - 01:06:44,460] States is the right statement.
+- [01:06:44,460 - 01:06:47,460] The right nomenclature is you can't have
+- [01:06:47,460 - 01:06:50,460] two electrons in the same quantum state.
+- [01:06:50,460 - 01:06:53,460] In the same quantum state, yeah.
+- [01:06:53,460 - 01:06:56,460] A system means a collection of atoms.
+- [01:06:56,460 - 01:06:59,460] A system means a collection of degrees of freedom.
+- [01:06:59,460 - 01:07:03,460] But it doesn't imply a particular state.
+- [01:07:03,460 - 01:07:05,460] So an electron is a system.
+- [01:07:05,460 - 01:07:10,460] An electron can be in a particular state.
+- [01:07:10,460 - 01:07:14,460] So the nomenclature is an electron is a system.
+- [01:07:14,460 - 01:07:18,460] The state of the electron is perhaps some particular
+- [01:07:18,460 - 01:07:22,460] orbital state, orbital and spin state in a particular atom.
+- [01:07:22,460 - 01:07:24,460] Can I just carry that one further?
+- [01:07:24,460 - 01:07:25,460] Yeah.
+- [01:07:25,460 - 01:07:25,960] I mean, you have a
+- [01:07:25,960 - 01:07:26,460] picture tube, a cathode ray tube.
+- [01:07:26,460 - 01:07:27,460] Yeah.
+- [01:07:27,460 - 01:07:28,460] You have a stream of electrons.
+- [01:07:28,460 - 01:07:29,960] So that means that no two of those in
+- [01:07:29,960 - 01:07:31,460] that little glass jar would have the same state.
+- [01:07:31,460 - 01:07:32,460] Yeah.
+- [01:07:32,460 - 01:07:33,460] They really look like this.
+- [01:07:33,460 - 01:07:35,960] A packet over here, another packet over here, another packet over
+- [01:07:35,960 - 01:07:38,460] here, another packet over here, and they're not in the same state.
+- [01:07:38,460 - 01:07:40,460] But not in the same momentum.
+- [01:07:40,460 - 01:07:41,460] That's right.
+- [01:07:41,460 - 01:07:44,460] They're not in the same momentum.
+- [01:07:44,460 - 01:07:46,460] They're not in the same position.
+- [01:07:46,460 - 01:07:47,460] Right.
+- [01:07:47,460 - 01:07:50,960] In big contrast to the idea of photons,
+- [01:07:50,960 - 01:07:54,460] photons march down the axis all for zero.
+- [01:07:54,460 - 01:07:57,460] For example, in the same plane wave.
+- [01:07:57,460 - 01:07:58,460] Right.
+- [01:07:58,460 - 01:08:02,460] That's why you can't build up a coherent beam of electrons
+- [01:08:02,460 - 01:08:06,460] in the same sense that you can have a coherent beam of...
+- [01:08:06,460 - 01:08:07,960] You just can't put more than
+- [01:08:07,960 - 01:08:09,460] one of them in the same state.
+- [01:08:09,460 - 01:08:11,960] So a fermion is in many
+- [01:08:11,960 - 01:08:14,460] respects a bigger abstraction than a boson.
+- [01:08:14,460 - 01:08:16,960] Can you have two electrons in
+- [01:08:16,960 - 01:08:19,460] the same place with different momentum?
+- [01:08:19,460 - 01:08:20,460] No.
+- [01:08:20,460 - 01:08:22,460] No, no, no, no, no, no, no, no, no.
+- [01:08:22,460 - 01:08:23,460] No, no, no, no, no, no, no, no.
+- [01:08:23,460 - 01:08:25,460] You can't describe a thing by a
+- [01:08:25,460 - 01:08:27,460] position or a momentum, and not both.
+- [01:08:27,460 - 01:08:30,460] Position and momentum are intertwined.
+- [01:08:30,460 - 01:08:32,460] Mutually incompatible.
+- [01:08:32,460 - 01:08:33,460] Right.
+- [01:08:33,460 - 01:08:36,460] So it's only like spin and position that...
+- [01:08:36,460 - 01:08:37,460] Yeah.
+- [01:08:37,460 - 01:08:40,460] That's because spin commutes with momentum and position.
+- [01:08:40,460 - 01:08:41,460] All right?
+- [01:08:41,460 - 01:08:44,460] But position and momentum don't commute, so you can't
+- [01:08:44,460 - 01:08:47,460] speak about an electron at a position with a momentum.
+- [01:08:47,460 - 01:08:49,460] But you can speak about an electron
+- [01:08:49,460 - 01:08:51,460] at a position with a particular spin.
+- [01:08:51,460 - 01:08:52,460] Is there some sense in that?
+- [01:08:52,460 - 01:08:57,460] Is there some sense in which this bound electron over here and that
+- [01:08:57,460 - 01:09:02,460] bound electron are therefore, in that sense, in a position representation or something?
+- [01:09:02,460 - 01:09:04,460] This is...
+- [01:09:04,460 - 01:09:06,460] No.
+- [01:09:06,460 - 01:09:10,460] They're not at position eigenstates because the wave
+- [01:09:10,460 - 01:09:14,460] function isn't that concentrated, but they approximately are.
+- [01:09:14,460 - 01:09:18,460] They're approximately located at the position of the atom.
+- [01:09:18,460 - 01:09:19,960] You can't put two of them into
+- [01:09:19,960 - 01:09:21,460] the same atom in the same way,
+- [01:09:21,460 - 01:09:24,460] but you can have two different atoms, which is like
+- [01:09:24,460 - 01:09:27,460] having an electron over here and an electron over here.
+- [01:09:27,460 - 01:09:28,460] That's fine.
+- [01:09:28,460 - 01:09:29,460] Yeah.
+- [01:09:29,460 - 01:09:31,460] Yes?
+- [01:09:31,460 - 01:09:34,460] So what is the definition of a state?
+- [01:09:34,460 - 01:09:35,460] Yeah.
+- [01:09:35,460 - 01:09:37,460] What is the definition of a state?
+- [01:09:37,460 - 01:09:38,460] Hmm.
+- [01:09:38,460 - 01:09:43,960] I think I would have to refer you either
+- [01:09:43,960 - 01:09:49,460] to my own lectures or a book on quantum mechanics,
+- [01:09:49,460 - 01:09:50,460] but it just means...
+- [01:09:50,460 - 01:09:54,460] It's the quantum mechanical analog
+- [01:09:54,460 - 01:09:58,460] of the configuration of a system.
+- [01:09:58,460 - 01:10:00,460] The configuration of a system...
+- [01:10:00,460 - 01:10:03,460] A system is a collection of degrees of freedom.
+- [01:10:03,460 - 01:10:05,460] It's a collection of coordinates
+- [01:10:05,460 - 01:10:07,460] and momenta and things like that.
+- [01:10:07,460 - 01:10:11,460] A state is a particular value in
+- [01:10:11,460 - 01:10:15,460] classical mechanics of the positions and momenta.
+- [01:10:15,460 - 01:10:19,460] In quantum mechanics, the state of an electron is the...
+- [01:10:19,460 - 01:10:23,460] Everything you have to specify about the electron to state
+- [01:10:23,460 - 01:10:27,460] all the things that can be measured about the electron.
+- [01:10:27,460 - 01:10:32,460] It's a wave function, actually.
+- [01:10:32,460 - 01:10:38,460] Can an electron here, an electron, let's say, in the
+- [01:10:38,460 - 01:10:44,460] Andromeda Galaxy, three electrons, can they be in the same state?
+- [01:10:44,460 - 01:10:45,460] No.
+- [01:10:45,460 - 01:10:46,460] Obviously not.
+- [01:10:46,460 - 01:10:47,460] One of them's here and one
+- [01:10:47,460 - 01:10:48,460] of them's in the Andromeda Galaxy.
+- [01:10:48,460 - 01:10:49,460] That's pretty different.
+- [01:10:49,460 - 01:10:52,460] It's like saying to me, well, suppose you
+- [01:10:52,460 - 01:10:55,460] have one in Nevada and one in Connecticut.
+- [01:10:55,460 - 01:10:56,460] Can they be in the same state?
+- [01:10:56,460 - 01:10:57,460] Yeah.
+- [01:10:57,460 - 01:10:58,460] Yeah.
+- [01:10:59,460 - 01:11:00,460] Yeah.
+- [01:11:00,460 - 01:11:01,460] Yeah.
+- [01:11:01,460 - 01:11:02,460] Yeah.
+- [01:11:02,460 - 01:11:03,460] Yeah.
+- [01:11:03,460 - 01:11:04,460] Yeah.
+- [01:11:04,460 - 01:11:05,460] Yeah.
+- [01:11:05,460 - 01:11:06,460] Yeah.
+- [01:11:06,460 - 01:11:07,460] Yeah.
+- [01:11:07,460 - 01:11:08,460] Yeah.
+- [01:11:08,460 - 01:11:09,460] Yeah.
+- [01:11:09,460 - 01:11:10,460] Yeah.
+- [01:11:10,460 - 01:11:11,460] Yeah.
+- [01:11:11,460 - 01:11:12,460] Yeah.
+- [01:11:12,460 - 01:11:13,460] Yeah.
+- [01:11:13,460 - 01:11:14,460] Yeah.
+- [01:11:14,460 - 01:11:15,460] Yeah.
+- [01:11:15,460 - 01:11:16,460] Yeah.
+- [01:11:16,460 - 01:11:17,460] Yeah.
+- [01:11:17,460 - 01:11:19,340] you don't really know
+- [01:11:19,340 - 01:11:21,220] their momentum with infinite precision.
+- [01:11:21,220 - 01:11:23,140] So if you know anything about where they are,
+- [01:11:23,140 - 01:11:26,220] it means that you don't completely know the momentum.
+- [01:11:26,220 - 01:11:29,060] But yes, to within the
+- [01:11:29,060 - 01:11:31,900] extent that an electron in Nevada
+- [01:11:31,900 - 01:11:37,260] can have a pretty well-defined momentum, but still not
+- [01:11:37,260 - 01:11:45,340] so well-defined that it might be in Connecticut, right?
+- [01:11:45,340 - 01:11:48,300] Well-defined, but not so well-defined
+- [01:11:48,300 - 01:11:50,980] that it might be in Connecticut.
+- [01:11:50,980 - 01:11:52,780] Then yes, you can have an electron in Nevada
+- [01:11:52,780 - 01:11:55,180] and an electron in Connecticut, which have pretty much
+- [01:11:55,180 - 01:11:57,580] the same momentum.
+- [01:11:57,580 - 01:11:59,480] But if you really tried
+- [01:11:59,480 - 01:12:01,380] to make that momentum infinitely sharp,
+- [01:12:01,380 - 01:12:03,460] that electron in Nevada would be equally
+- [01:12:03,460 - 01:12:05,260] likely to be in Connecticut.
+- [01:12:05,260 - 01:12:06,380] And the one in Connecticut
+- [01:12:06,380 - 01:12:07,500] would be equally likely to be
+- [01:12:07,500 - 01:12:08,060] in Nevada.
+- [01:12:08,060 - 01:12:09,320] And you simply can't put
+- [01:12:09,320 - 01:12:10,580] them both into the same state.
+- [01:12:10,580 - 01:12:13,180] You just multiply the uncertainty by together,
+- [01:12:13,180 - 01:12:15,180] and you get Planck's constant of the greater.
+- [01:12:15,180 - 01:12:15,300] Right.
+- [01:12:15,300 - 01:12:15,340] Right.
+- [01:12:15,340 - 01:12:15,840] Right.
+- [01:12:15,840 - 01:12:15,900] Right.
+- [01:12:15,900 - 01:12:17,440] Right.
+- [01:12:17,440 - 01:12:21,230] OK, so we now know what
+- [01:12:21,230 - 01:12:25,020] a fermion is, more or less.
+- [01:12:28,100 - 01:12:29,900] We use the algebra of these operators
+- [01:12:29,900 - 01:12:32,620] in a very similar way.
+- [01:12:32,620 - 01:12:36,720] We write down expressions involving electron operators,
+- [01:12:36,720 - 01:12:40,620] which annihilate electrons, or which take electrons out
+- [01:12:40,620 - 01:12:43,420] of the initial state.
+- [01:12:43,420 - 01:12:45,300] Creation operators, which put electrons
+- [01:12:45,300 - 01:12:46,580] into the final state.
+- [01:12:46,580 - 01:12:52,520] We can even multiply them by operators for photons, photons
+- [01:12:52,520 - 01:12:55,080] incidentally being bosons.
+- [01:12:55,080 - 01:12:59,120] And we can write mathematical expressions
+- [01:12:59,120 - 01:13:04,600] for the process of some number of electrons coming in,
+- [01:13:04,600 - 01:13:06,570] some number of electrons going
+- [01:13:06,570 - 01:13:08,540] out, plus a bunch of photons.
+- [01:13:08,540 - 01:13:11,650] And we can write similar
+- [01:13:11,650 - 01:13:14,760] kinds of bookkeeping, as we used
+- [01:13:14,760 - 01:13:19,480] to describe just the simple processes involving bosons.
+- [01:13:19,480 - 01:13:21,040] And we're not going to go into that now.
+- [01:13:21,040 - 01:13:24,480] I mean, it is the story of particle physics,
+- [01:13:24,480 - 01:13:26,940] how you describe those reactions.
+- [01:13:26,940 - 01:13:30,260] But before we get to that, I want
+- [01:13:30,260 - 01:13:32,840] to talk a little more about the differences between fermions
+- [01:13:32,840 - 01:13:35,220] and bosons.
+- [01:13:35,220 - 01:13:35,720] Question?
+- [01:13:35,720 - 01:13:36,220] Yeah.
+- [01:13:36,220 - 01:13:38,490] Just on the two-state example,
+- [01:13:38,490 - 01:13:40,760] is the Pauli exclusion principle
+- [01:13:40,760 - 01:13:44,600] a locally communicated principle, or is it ?
+- [01:13:44,600 - 01:13:48,600] Is it globally enforced instantly, like entanglement?
+- [01:13:48,600 - 01:13:53,100] In other words, if you had two
+- [01:13:53,100 - 01:13:57,600] different processes going on in Nevada and Connecticut,
+- [01:13:57,600 - 01:14:00,220] they were both about to create a particle.
+- [01:14:00,220 - 01:14:02,930] But if one is known to be in Nevada
+- [01:14:02,930 - 01:14:05,640] and the other is known to be in Connecticut,
+- [01:14:05,640 - 01:14:07,780] then they're not in the same state, period.
+- [01:14:07,780 - 01:14:09,040] Yeah, but let's say it's not known.
+- [01:14:09,040 - 01:14:12,520] Let's just say there's a slight probability difference.
+- [01:14:12,520 - 01:14:13,920] So there's a certain amount of fuzziness.
+- [01:14:13,920 - 01:14:14,420] All right.
+- [01:14:14,600 - 01:14:15,600] Oh, now, hayah.
+- [01:14:15,600 - 01:14:17,900] You heard me clearly.
+- [01:14:17,900 - 01:14:21,320] Yeah, that's better.
+- [01:14:21,320 - 01:14:27,260] Now there are two differentanche.
+- [01:14:27,260 - 01:14:28,820] You said you have to have
+- [01:14:28,820 - 01:14:30,380] ML, my paper points in this.
+- [01:14:30,380 - 01:14:31,180] Oh, no, I'm sorry.
+- [01:14:31,180 - 01:14:35,660] So here's my second, here's my last magnitude variation,
+- [01:14:35,660 - 01:14:37,220] but I can't tell you
+- [01:14:37,220 - 01:14:38,780] all the values in this .
+- [01:14:38,780 - 01:14:40,460] All right, so here is the situation.
+- [01:14:43,220 - 01:14:44,560] Let's imagine that Nevada is a point and Connecticut
+- [01:14:44,600 - 01:14:48,100] let's call it capital N incidentally. N
+- [01:14:48,100 - 01:14:51,600] is not an integer, it's just Nevada.
+- [01:14:51,600 - 01:14:54,610] An electron in Connecticut I will call
+- [01:14:54,610 - 01:14:57,620] C. Now there's a quantum state of an
+- [01:14:57,620 - 01:15:00,080] electron which is a superposition of
+- [01:15:00,080 - 01:15:02,540] being in Nevada and Connecticut. It has
+- [01:15:02,540 - 01:15:04,410] some probability of being in Nevada
+- [01:15:04,410 - 01:15:06,280] and some probability of being Connecticut.
+- [01:15:06,280 - 01:15:10,280] Nevada plus Connecticut. This is
+- [01:15:10,280 - 01:15:14,280] one electron with equal probability, you
+- [01:15:14,280 - 01:15:16,050] should put a 1 over square root of
+- [01:15:16,050 - 01:15:17,820] 2 here to make the probability come out to
+- [01:15:17,820 - 01:15:21,999] be 1. This is a state of an
+- [01:15:21,999 - 01:15:26,179] electron which has equal probability of being in
+- [01:15:26,179 - 01:15:28,929] Nevada or Connecticut. It's a quantum state
+- [01:15:28,929 - 01:15:31,679] and if you look for that electron
+- [01:15:31,679 - 01:15:33,389] you'll either find it at the center
+- [01:15:33,389 - 01:15:35,099] of Nevada or at the center of Connecticut
+- [01:15:35,099 - 01:15:38,939] with an equal probability. Incidentally there
+- [01:15:38,939 - 01:15:42,780] is another state like this which
+- [01:15:42,780 - 01:15:44,040] is orthogonal to it.
+- [01:15:44,280 - 01:15:48,630] Which has a minus sign here. Okay what
+- [01:15:48,630 - 01:15:52,980] you can't have is two electrons both in
+- [01:15:52,980 - 01:15:55,610] this quantum state. You can have
+- [01:15:55,610 - 01:15:58,240] one electron in Nevada, one electron in
+- [01:15:58,240 - 01:16:00,540] Connecticut, but you can't have two
+- [01:16:00,540 - 01:16:02,840] electrons which are in this state of
+- [01:16:02,840 - 01:16:05,250] both being equally shared between
+- [01:16:05,250 - 01:16:07,660] Nevada and Connecticut. Now that has
+- [01:16:07,660 - 01:16:09,649] implications. It's probably not at all
+- [01:16:09,649 - 01:16:11,639] obvious to you what those implications
+- [01:16:11,639 - 01:16:12,139] are.
+- [01:16:12,139 - 01:16:13,139] But so you can't have two
+- [01:16:13,139 - 01:16:14,139] electrons in the same quantum state.
+- [01:16:14,280 - 01:16:17,499] Supposing we tried to make two electrons in
+- [01:16:17,499 - 01:16:20,719] this state, you can't do it. You can't
+- [01:16:20,719 - 01:16:22,879] have two electrons which are equally shared
+- [01:16:22,879 - 01:16:25,040] in this way between Nevada and Connecticut.
+- [01:16:25,040 - 01:16:26,540] Can one have a plus sign
+- [01:16:26,540 - 01:16:28,040] and the other one a minus sign?
+- [01:16:28,040 - 01:16:30,970] Yes. One can have a plus sign and the
+- [01:16:30,970 - 01:16:33,900] other have a minus sign. Yes, yes, yes, yes, yes.
+- [01:16:33,900 - 01:16:35,990] One electron can be in the state with a plus
+- [01:16:35,990 - 01:16:38,080] sign, the other one in the state with a minus
+- [01:16:38,080 - 01:16:39,080] sign.
+- [01:16:39,080 - 01:16:40,680] And we're talking about at the same time
+- [01:16:40,680 - 01:16:42,280] here. We're talking about at the same time.
+- [01:16:42,280 - 01:16:43,280] Absolutely.
+- [01:16:44,280 - 01:16:47,280] We're talking about at the same time.
+- [01:16:47,280 - 01:16:49,280] So the ambiguity then is
+- [01:16:49,280 - 01:16:51,280] Nevada and Connecticut are spatially separated.
+- [01:16:51,280 - 01:16:53,280] And so there's a question of what
+- [01:16:53,280 - 01:16:55,280] do you mean by at the same time,
+- [01:16:55,280 - 01:16:58,780] simultaneity. But when you think about it in
+- [01:16:58,780 - 01:17:02,280] a momentum space, you don't have the spatial separation.
+- [01:17:02,280 - 01:17:06,780] Remember we're doing non-relativistic physics, so there's no limitations of
+- [01:17:06,780 - 01:17:11,280] the speed of light and making experiments and so forth.
+- [01:17:11,280 - 01:17:14,280] At the same time, it's not a matter of time.
+- [01:17:14,280 - 01:17:17,280] I mean the same time.
+- [01:17:17,280 - 01:17:18,780] Somebody can jump from here to there
+- [01:17:18,780 - 01:17:20,280] in no time at all and check.
+- [01:17:20,280 - 01:17:22,280] So what happens when you
+- [01:17:22,280 - 01:17:24,280] throw in relativistic physics into it?
+- [01:17:24,280 - 01:17:25,280] Not much.
+- [01:17:25,280 - 01:17:26,280] Not much.
+- [01:17:26,280 - 01:17:27,280] Not much.
+- [01:17:27,280 - 01:17:31,780] There is an additional fuzziness because
+- [01:17:31,780 - 01:17:36,280] of relativity about how particles are located.
+- [01:17:36,280 - 01:17:38,780] But for the moment, I wanted
+- [01:17:38,780 - 01:17:41,280] to deal with the non-relativistic ideas.
+- [01:17:41,280 - 01:17:42,280] Let's cut to the point.
+- [01:17:42,280 - 01:17:43,280] Let's cut to the point.
+- [01:17:43,280 - 01:17:50,280] Let's come to the ground state of a system of bosons and the
+- [01:17:50,280 - 01:17:57,280] ground state of a system of electrons to see how different they are.
+- [01:17:57,280 - 01:18:01,280] Let's imagine the three-dimensional world.
+- [01:18:01,280 - 01:18:03,280] And since I can never draw
+- [01:18:03,280 - 01:18:05,280] three dimensions, I will only draw two.
+- [01:18:05,280 - 01:18:07,280] But I'm...
+- [01:18:07,280 - 01:18:09,280] And...
+- [01:18:13,280 - 01:18:23,280] I want to plot all of the possible allowable momenta.
+- [01:18:23,280 - 01:18:25,280] Two-dimensional momentum.
+- [01:18:25,280 - 01:18:27,280] This is the x component of momentum.
+- [01:18:27,280 - 01:18:29,280] This is the y component.
+- [01:18:29,280 - 01:18:31,780] I really want three dimensions, but
+- [01:18:31,780 - 01:18:34,280] as I said, I can't draw it.
+- [01:18:34,280 - 01:18:38,280] Of electrons.
+- [01:18:38,280 - 01:18:41,280] Electrons confined to be in a certain finite volume.
+- [01:18:41,280 - 01:18:46,280] The finite volume is very much like when we studied
+- [01:18:46,280 - 01:18:51,280] one dimension, we studied electrons on an interval of length L.
+- [01:18:51,280 - 01:18:53,280] With periodic boundary conditions, but
+- [01:18:53,280 - 01:18:55,280] that's not so important here.
+- [01:18:55,280 - 01:19:00,280] If electrons are confined, or particles are confined to
+- [01:19:00,280 - 01:19:05,280] be within a given volume, then the momenta are discrete.
+- [01:19:05,280 - 01:19:07,780] Remember when the electron was moving
+- [01:19:07,780 - 01:19:10,280] on the periodic interval, it had momenta.
+- [01:19:11,280 - 01:19:13,280] Which had to be, what was it?
+- [01:19:13,280 - 01:19:15,280] N...
+- [01:19:15,280 - 01:19:18,280] N over L, and there's a 2 pi in there.
+- [01:19:18,280 - 01:19:20,280] 2 pi N over L.
+- [01:19:20,280 - 01:19:23,280] Is equal to k.
+- [01:19:23,280 - 01:19:25,280] Right.
+- [01:19:25,280 - 01:19:27,280] So, what did we say?
+- [01:19:27,280 - 01:19:29,780] We said if we drew the momentum
+- [01:19:29,780 - 01:19:32,280] axis, the possible values of momenta were discrete.
+- [01:19:32,280 - 01:19:39,280] And that was a consequence of the space being finite.
+- [01:19:39,280 - 01:19:41,280] Space available to us.
+- [01:19:41,280 - 01:19:44,280] Space available to the particle being finite.
+- [01:19:44,280 - 01:19:48,280] The bigger L is, the closer these levels get.
+- [01:19:48,280 - 01:19:50,280] Alright, let's continue to think about
+- [01:19:50,280 - 01:19:52,280] things confined in a finite volume.
+- [01:19:52,280 - 01:19:55,280] In that case, both the x and y and
+- [01:19:55,280 - 01:19:58,280] z components of the momentum would again be discrete.
+- [01:19:58,280 - 01:20:01,780] So the allowable values of the
+- [01:20:01,780 - 01:20:05,280] momentum vector would form a lattice.
+- [01:20:11,280 - 01:20:16,280] This is not space.
+- [01:20:16,280 - 01:20:18,280] This is momentum space.
+- [01:20:18,280 - 01:20:21,280] The values of the possible momentum vectors.
+- [01:20:21,280 - 01:20:26,280] Let's put 0 right over here at the center.
+- [01:20:26,280 - 01:20:29,280] And then, they go on and on forever.
+- [01:20:29,280 - 01:20:31,280] It's not bounded.
+- [01:20:31,280 - 01:20:34,280] It just goes on and on forever.
+- [01:20:34,280 - 01:20:36,280] Just like this axis goes on and on forever.
+- [01:20:36,280 - 01:20:38,280] This N can be anything.
+- [01:20:38,280 - 01:20:40,280] So these are the possible values.
+- [01:20:40,280 - 01:20:44,780] So these are the possible allowable values of the
+- [01:20:44,780 - 01:20:49,280] momentum of a particle in a periodic three-dimensional box.
+- [01:20:49,280 - 01:20:52,280] Let's start with bosons.
+- [01:20:52,280 - 01:20:55,280] Let's take a collection of N
+- [01:20:55,280 - 01:20:58,280] bosons, all identical to each other.
+- [01:20:58,280 - 01:21:00,280] They're all the same kind of particle.
+- [01:21:00,280 - 01:21:03,280] And let's put them into our box.
+- [01:21:03,280 - 01:21:04,780] And let's look for the ground
+- [01:21:04,780 - 01:21:06,280] state, the state of lowest energy.
+- [01:21:06,280 - 01:21:08,280] Well, let's put the first boson in.
+- [01:21:08,280 - 01:21:09,280] Where will it go?
+- [01:21:09,280 - 01:21:10,780] Where will it go if it's supposed
+- [01:21:10,780 - 01:21:12,280] to go into the state of lowest energy?
+- [01:21:17,280 - 01:21:18,280] 0 what?
+- [01:21:18,280 - 01:21:20,280] 0 momentum.
+- [01:21:20,280 - 01:21:22,280] 0 momentum.
+- [01:21:22,280 - 01:21:24,280] In other words, we'll put the boson in.
+- [01:21:24,280 - 01:21:25,280] That's 0.
+- [01:21:25,280 - 01:21:27,280] This is kx, ky, kz is
+- [01:21:27,280 - 01:21:29,280] equal to 0 right at that point.
+- [01:21:29,280 - 01:21:33,280] That's the single particle state of lowest energy.
+- [01:21:33,280 - 01:21:36,280] Remember, the energy is k squared over 2m.
+- [01:21:36,280 - 01:21:38,280] The lowest possible energy.
+- [01:21:38,280 - 01:21:40,780] The lowest possible energy for that
+- [01:21:40,780 - 01:21:43,280] boson is to carry 0 momentum.
+- [01:21:43,280 - 01:21:45,780] If we want to find the ground state,
+- [01:21:45,780 - 01:21:48,280] we just put in the particle with 0 momentum.
+- [01:21:48,280 - 01:21:51,780] Now, supposing we want to add another particle
+- [01:21:51,780 - 01:21:55,280] to it, another boson of the same kind.
+- [01:21:55,280 - 01:21:57,780] Where do we put it to
+- [01:21:57,780 - 01:22:00,280] keep the energy as low as possible?
+- [01:22:00,280 - 01:22:02,280] Same place.
+- [01:22:02,280 - 01:22:04,280] Hmm?
+- [01:22:04,280 - 01:22:05,280] Right.
+- [01:22:05,280 - 01:22:06,280] Just the same place.
+- [01:22:06,280 - 01:22:08,280] We put all particles in at the same place.
+- [01:22:08,280 - 01:22:10,780] In fact, we put all in
+- [01:22:10,780 - 01:22:13,280] particles in at the same place.
+- [01:22:13,280 - 01:22:16,280] That'll be the state of lowest energy.
+- [01:22:16,280 - 01:22:17,280] Okay?
+- [01:22:17,280 - 01:22:21,280] So, that is called a boson condensate.
+- [01:22:21,280 - 01:22:24,780] It's roughly a, the idea of a boson condensate is
+- [01:22:24,780 - 01:22:28,280] a large number of particles all in the same state.
+- [01:22:28,280 - 01:22:31,280] But in this case, all
+- [01:22:31,280 - 01:22:34,280] in the lowest energy state available.
+- [01:22:34,280 - 01:22:37,280] Incidentally, the lowest energy state available, since
+- [01:22:37,280 - 01:22:40,280] it has the lowest momentum, fills up.
+- [01:22:40,280 - 01:22:43,280] It's a wave function which fills up the box.
+- [01:22:43,280 - 01:22:45,280] It's a wave function which fills up the box.
+- [01:22:45,280 - 01:22:48,280] And so the wave function of each
+- [01:22:48,280 - 01:22:51,280] one of these particles fills up the box.
+- [01:22:51,280 - 01:22:54,280] And we simply put a lot of particles in.
+- [01:22:54,280 - 01:22:56,280] All of them, very uncertain about
+- [01:22:56,280 - 01:22:58,280] where they are in the box.
+- [01:22:58,280 - 01:23:00,280] Put a lot of them in.
+- [01:23:00,280 - 01:23:02,280] That's, first of all, called a boson condensate.
+- [01:23:02,280 - 01:23:04,280] And it's also the ground
+- [01:23:04,280 - 01:23:06,280] state of a system of bosons.
+- [01:23:06,280 - 01:23:09,280] The large number of particles builds
+- [01:23:09,280 - 01:23:12,280] up a kind of classical field strength.
+- [01:23:12,280 - 01:23:16,280] So that the Schrodinger wave function is pretty classical.
+- [01:23:16,280 - 01:23:19,280] Okay, that's very, very different than what
+- [01:23:19,280 - 01:23:22,280] would happen if we had n fermions.
+- [01:23:22,280 - 01:23:23,280] Let's forget spin.
+- [01:23:23,280 - 01:23:25,280] We're not going to be interested in spin now.
+- [01:23:25,280 - 01:23:28,280] Where, if we, where should we put the first one?
+- [01:23:28,280 - 01:23:30,280] We're going to put them in one at a time.
+- [01:23:30,280 - 01:23:32,280] We want to keep the energy as low as possible.
+- [01:23:32,280 - 01:23:33,280] Okay.
+- [01:23:33,280 - 01:23:35,780] Obviously the first one to go in, we
+- [01:23:35,780 - 01:23:38,280] want to put in to the lowest state.
+- [01:23:38,280 - 01:23:40,280] What about the next one?
+- [01:23:40,280 - 01:23:43,280] Whatever the next energy level is.
+- [01:23:43,280 - 01:23:45,280] Over here, the next one would maybe go over here.
+- [01:23:45,280 - 01:23:48,280] There happen to be four states of the same energy.
+- [01:23:48,280 - 01:23:51,280] So we could put it here, here, here, or here.
+- [01:23:51,280 - 01:23:53,280] This is in two dimensions.
+- [01:23:53,280 - 01:23:56,280] In three dimensions there would
+- [01:23:56,280 - 01:23:59,280] be, what, six states altogether.
+- [01:23:59,280 - 01:24:02,280] So by the time we put in five electrons,
+- [01:24:02,280 - 01:24:05,280] they will fill up these states here.
+- [01:24:05,280 - 01:24:07,280] Now let's put in some more electrons.
+- [01:24:07,280 - 01:24:09,280] We can't put them in the same state.
+- [01:24:09,280 - 01:24:10,280] Forbidden.
+- [01:24:10,280 - 01:24:11,780] So the next one will go
+- [01:24:11,780 - 01:24:13,280] in in the next lowest energy level,
+- [01:24:13,280 - 01:24:15,280] which will be over here.
+- [01:24:15,280 - 01:24:20,280] Incidentally, the energy being proportional to k squared
+- [01:24:20,280 - 01:24:24,280] is proportional to the distance squared from the origin.
+- [01:24:24,280 - 01:24:26,280] So what we want to do to
+- [01:24:26,280 - 01:24:28,280] keep the energy as low as possible
+- [01:24:28,280 - 01:24:31,280] is crowd the electrons in in momentum space,
+- [01:24:31,280 - 01:24:40,280] into as small a sphere as we can.
+- [01:24:40,280 - 01:24:42,280] In other words, when we have a lot of electrons,
+- [01:24:42,280 - 01:24:44,280] when we put them in, they
+- [01:24:44,280 - 01:24:46,280] will fill up in momentum space.
+- [01:24:46,280 - 01:24:51,280] They'll fill up a sphere.
+- [01:24:57,280 - 01:25:00,280] There might be a little confusion about the jaggedness.
+- [01:25:00,280 - 01:25:05,280] of the spherical edge here, but that's not important.
+- [01:25:05,280 - 01:25:08,280] This, of course, will have a lot more energy
+- [01:25:08,280 - 01:25:10,280] than the corresponding boson system.
+- [01:25:10,280 - 01:25:12,780] The corresponding boson system had all
+- [01:25:12,780 - 01:25:15,280] of its particles in the lowest energy.
+- [01:25:15,280 - 01:25:17,280] If you look for a particle,
+- [01:25:17,280 - 01:25:21,280] all you will find is a particle of zero momentum.
+- [01:25:21,280 - 01:25:24,280] In the ground state of the mini-fermion system,
+- [01:25:24,280 - 01:25:27,280] you will find the more fermions you put in,
+- [01:25:27,280 - 01:25:30,280] the higher the maximum momentum will be.
+- [01:25:30,280 - 01:25:32,780] There will be lots and lots
+- [01:25:32,780 - 01:25:35,280] and lots of particles of large momentum.
+- [01:25:35,280 - 01:25:39,280] And of course, only a handful at low momentum,
+- [01:25:39,280 - 01:25:42,280] because there aren't that many states at low momentum.
+- [01:25:42,280 - 01:25:44,280] There are clearly more states within
+- [01:25:44,280 - 01:25:46,280] a given shell at large momentum.
+- [01:25:46,280 - 01:25:48,280] So, first of all, the energy
+- [01:25:48,280 - 01:25:50,280] of the system will be much higher.
+- [01:25:50,280 - 01:25:58,280] Putting fermions into a box,
+- [01:25:58,280 - 01:26:03,280] costs more energy, number one.
+- [01:26:03,280 - 01:26:05,280] Number two, there's this pattern
+- [01:26:05,280 - 01:26:07,280] that they fill up a sphere
+- [01:26:07,280 - 01:26:10,280] out to some boundary, where the boundary is determined
+- [01:26:10,280 - 01:26:13,280] by how many electrons you have.
+- [01:26:13,280 - 01:26:14,780] Depending on the number of
+- [01:26:14,780 - 01:26:16,280] electrons, it will fill a sphere,
+- [01:26:16,280 - 01:26:19,280] and that sphere is called the Fermi sphere.
+- [01:26:19,280 - 01:26:22,280] It's called the Fermi sphere.
+- [01:26:28,280 - 01:26:31,280] The history of this is a little bit confused.
+- [01:26:31,280 - 01:26:33,280] It was Dirac who figured out fermions,
+- [01:26:33,280 - 01:26:35,280] and that's why they're called fermions.
+- [01:26:39,280 - 01:26:41,280] It was Einstein who figured out bosons,
+- [01:26:41,280 - 01:26:44,280] and that's why they're called bosons.
+- [01:26:44,280 - 01:26:49,280] No, they all contributed very heavily to the subject.
+- [01:26:49,280 - 01:26:52,780] Anyway, this is the ground
+- [01:26:52,780 - 01:26:56,280] state of a collection of fermions.
+- [01:26:56,280 - 01:26:59,280] Fills the Fermi sphere.
+- [01:26:59,280 - 01:27:01,280] Let's draw over here the
+- [01:27:01,280 - 01:27:03,280] corresponding thing in momentum space.
+- [01:27:03,280 - 01:27:05,280] This is all in momentum space.
+- [01:27:05,280 - 01:27:07,280] I don't need to draw these lines.
+- [01:27:07,280 - 01:27:09,780] Just all the particles condensed at
+- [01:27:09,780 - 01:27:12,280] the center of the momentum space
+- [01:27:12,280 - 01:27:15,280] for bosons, bosons, fermions.
+- [01:27:15,280 - 01:27:17,280] Let's put a little bit of this lattice in
+- [01:27:17,280 - 01:27:20,280] so we can see where the next states are.
+- [01:27:20,280 - 01:27:21,280] Okay.
+- [01:27:21,280 - 01:27:25,280] What's the first excited state we have in bosons?
+- [01:27:25,280 - 01:27:27,280] They're all at the center.
+- [01:27:27,280 - 01:27:31,280] What's the first energy level above the ground state?
+- [01:27:31,280 - 01:27:32,280] Well, that's easy.
+- [01:27:32,280 - 01:27:34,780] We take one boson and move
+- [01:27:34,780 - 01:27:37,280] it to the next energy level.
+- [01:27:37,280 - 01:27:39,280] We take out one boson in the ground state
+- [01:27:39,280 - 01:27:42,280] and put it into the first excited state.
+- [01:27:42,280 - 01:27:44,280] Which one, which boson do we do?
+- [01:27:44,280 - 01:27:45,280] It doesn't matter.
+- [01:27:45,280 - 01:27:46,280] They're all the same.
+- [01:27:46,280 - 01:27:48,280] So we have n minus
+- [01:27:48,280 - 01:27:50,280] 1 bosons in the ground state
+- [01:27:50,280 - 01:27:53,280] and 1 boson in the first excited state.
+- [01:27:53,280 - 01:27:54,280] There are four first excited states.
+- [01:27:54,280 - 01:27:56,280] That's not so important.
+- [01:27:56,280 - 01:28:01,280] The second excited state, it might correspond,
+- [01:28:01,280 - 01:28:02,280] depending on the details,
+- [01:28:02,280 - 01:28:03,780] it might correspond to putting one
+- [01:28:03,780 - 01:28:05,280] electron in the second excited state
+- [01:28:05,280 - 01:28:08,280] or two electrons in the first excited state.
+- [01:28:08,280 - 01:28:12,280] But one excited, not electrons, bosons.
+- [01:28:12,280 - 01:28:14,280] A variety of different things.
+- [01:28:14,280 - 01:28:15,780] But you can see the way
+- [01:28:15,780 - 01:28:17,280] the pattern to excite the system,
+- [01:28:17,280 - 01:28:18,280] to give it more energy,
+- [01:28:18,280 - 01:28:21,280] is to take electrons from the ground state
+- [01:28:21,280 - 01:28:23,280] and put them into higher energy states.
+- [01:28:24,280 - 01:28:25,280] OK.
+- [01:28:25,280 - 01:28:27,280] Let's come to the fermion system.
+- [01:28:27,280 - 01:28:29,280] Well, it's also very similar.
+- [01:28:29,280 - 01:28:31,780] But let's try to figure out
+- [01:28:31,780 - 01:28:34,280] exactly what would correspond to the lowest...
+- [01:28:34,280 - 01:28:36,280] Yeah, question?
+- [01:28:36,280 - 01:28:37,280] OK.
+- [01:28:37,280 - 01:28:38,280] What would correspond,
+- [01:28:38,280 - 01:28:41,280] maybe not to the exact lowest energy state,
+- [01:28:41,280 - 01:28:43,280] but to the very, very low energy states
+- [01:28:43,280 - 01:28:46,280] above the ground state?
+- [01:28:46,280 - 01:28:47,280] We want to give it
+- [01:28:47,280 - 01:28:48,280] just a little bit of energy.
+- [01:28:48,280 - 01:28:50,280] What's the cheapest way to give it energy?
+- [01:28:50,280 - 01:28:52,280] Should we take an electron from the center here
+- [01:28:52,280 - 01:28:54,280] and move it outside the energy state?
+- [01:28:54,280 - 01:28:56,780] We can't move an electron
+- [01:28:56,780 - 01:28:59,280] to someplace inside the Fermi sphere
+- [01:28:59,280 - 01:29:01,280] because there's already an electron there.
+- [01:29:01,280 - 01:29:04,280] I think as you were about to say,
+- [01:29:04,280 - 01:29:06,780] it wouldn't be too smart to
+- [01:29:06,780 - 01:29:09,280] take one deep inside the Fermi sphere
+- [01:29:09,280 - 01:29:11,280] and bring it to the outside
+- [01:29:11,280 - 01:29:13,280] because that would take a lot of energy.
+- [01:29:13,280 - 01:29:15,280] It takes how much energy?
+- [01:29:15,280 - 01:29:17,280] You're going to take one out of low energy
+- [01:29:17,280 - 01:29:19,280] and put it back at relatively high energy.
+- [01:29:19,280 - 01:29:21,280] That's pretty costly.
+- [01:29:21,280 - 01:29:22,280] What's the cheapest thing?
+- [01:29:23,280 - 01:29:24,280] Right.
+- [01:29:24,280 - 01:29:28,280] Take one from very near the surface of the sphere,
+- [01:29:28,280 - 01:29:30,280] inside the sphere,
+- [01:29:30,280 - 01:29:32,280] and move it to the outside.
+- [01:29:32,280 - 01:29:34,280] How much energy does that cost?
+- [01:29:34,280 - 01:29:37,280] Not much because you've taken a pretty high energy electron
+- [01:29:37,280 - 01:29:40,280] and just displaced it a little bit in energy.
+- [01:29:40,280 - 01:29:45,280] So that creates an electron out here
+- [01:29:45,280 - 01:29:47,780] with a little bit of energy
+- [01:29:47,780 - 01:29:50,280] above the edge of the Fermi sphere,
+- [01:29:50,280 - 01:29:52,280] but it also leaves something.
+- [01:29:52,280 - 01:29:56,280] It leaves a hole in the Fermi sphere behind it.
+- [01:29:56,280 - 01:30:00,280] That hole is a thing.
+- [01:30:00,280 - 01:30:02,280] Let's suppose these are really electrons.
+- [01:30:02,280 - 01:30:06,280] Let's consider a real world situation.
+- [01:30:06,280 - 01:30:08,280] We have a box,
+- [01:30:08,280 - 01:30:12,280] and that box is full of positive charge.
+- [01:30:12,280 - 01:30:16,280] The positive charge is protons, of course, or nuclei.
+- [01:30:16,280 - 01:30:18,280] But for simplicity, let's just imagine
+- [01:30:18,280 - 01:30:21,280] the positive charge is smeared over the box,
+- [01:30:21,280 - 01:30:24,280] and then we put electrons in on top of it.
+- [01:30:24,280 - 01:30:26,280] And we put enough electrons in
+- [01:30:26,280 - 01:30:29,280] to fill up a Fermi sphere like this.
+- [01:30:29,280 - 01:30:30,780] It's electrically neutral because
+- [01:30:30,780 - 01:30:32,280] there are as many electrons
+- [01:30:32,280 - 01:30:34,280] as there are protons in the box.
+- [01:30:34,280 - 01:30:37,280] So it's electrically neutral.
+- [01:30:37,280 - 01:30:39,280] In the ground state,
+- [01:30:39,280 - 01:30:43,280] the fermions fill up this Fermi sphere here.
+- [01:30:43,280 - 01:30:45,280] Now we take an electron out
+- [01:30:45,280 - 01:30:47,280] from just below the Fermi sphere
+- [01:30:47,280 - 01:30:49,280] and put it in just above the Fermi sphere.
+- [01:30:49,280 - 01:30:51,280] We have not changed the charge.
+- [01:30:51,280 - 01:30:54,280] It's still electrically neutral.
+- [01:30:54,280 - 01:30:56,280] But we have created one extra particle
+- [01:30:56,280 - 01:30:58,280] with a little bit of
+- [01:30:58,280 - 01:31:00,280] extra energy above the Fermi surface
+- [01:31:00,280 - 01:31:04,280] and left a hole in the Fermi surface.
+- [01:31:04,280 - 01:31:09,280] Left a hole with a missing particle.
+- [01:31:09,280 - 01:31:11,280] A missing particle,
+- [01:31:11,280 - 01:31:16,280] just think of it literally as a hole.
+- [01:31:16,280 - 01:31:19,280] It's an absence of a bit of negative charge.
+- [01:31:19,280 - 01:31:20,280] A bit of negative charge
+- [01:31:20,280 - 01:31:23,280] with a certain momentum over here.
+- [01:31:23,280 - 01:31:26,280] It can be thought of as the presence
+- [01:31:26,280 - 01:31:31,280] of a positive charge hole.
+- [01:31:31,280 - 01:31:32,780] A hole can be thought
+- [01:31:32,780 - 01:31:34,280] of as a kind of particle.
+- [01:31:34,280 - 01:31:35,280] In this context,
+- [01:31:35,280 - 01:31:38,280] a hole behaves as a particle.
+- [01:31:38,280 - 01:31:40,280] Is it a particle with negative energy
+- [01:31:40,280 - 01:31:43,280] because it's below the Fermi sphere?
+- [01:31:43,280 - 01:31:44,280] No.
+- [01:31:44,280 - 01:31:46,280] Let's see how much energy it takes.
+- [01:31:46,280 - 01:31:48,280] How much energy does it take
+- [01:31:48,280 - 01:31:50,280] to move a particle from here
+- [01:31:50,280 - 01:31:52,280] to here?
+- [01:31:52,280 - 01:31:54,280] Well...
+- [01:31:54,280 - 01:31:56,280] It's got a square in it.
+- [01:31:56,280 - 01:31:59,280] Well, let's just say
+- [01:31:59,280 - 01:32:02,280] we took out a particle of energy,
+- [01:32:02,280 - 01:32:04,280] let's call the particle that we took out,
+- [01:32:04,280 - 01:32:06,280] let's call it energy epsilon.
+- [01:32:06,280 - 01:32:08,280] And we put in another particle
+- [01:32:08,280 - 01:32:12,280] of energy epsilon prime.
+- [01:32:12,280 - 01:32:14,280] When we took out the particle
+- [01:32:14,280 - 01:32:16,280] of momentum of energy,
+- [01:32:16,280 - 01:32:18,280] how much energy does that cost?
+- [01:32:18,280 - 01:32:20,280] Difference.
+- [01:32:20,280 - 01:32:22,280] The difference.
+- [01:32:22,530 - 01:32:22,830] キ Eso s Just start
+- [01:32:22,830 - 01:32:23,680] カ
+- [01:32:23,680 - 01:32:24,530] と。
+- [01:32:24,530 - 01:32:25,196] と・カ
+- [01:32:25,196 - 01:32:25,863] に
+- [01:32:25,863 - 01:32:26,529] すごい
+- [01:32:26,594 - 01:32:28,594] Some of the difference.
+- [01:32:28,594 - 01:32:30,594] I think the difference.
+- [01:32:30,594 - 01:32:32,594] You think the difference. I think the sum.
+- [01:32:32,594 - 01:32:34,594] Okay.
+- [01:32:38,594 - 01:32:40,594] Well, no, no, no.
+- [01:32:42,594 - 01:32:44,594] I'm sorry, I'm sorry.
+- [01:32:44,594 - 01:32:46,594] Let me be more precise.
+- [01:32:48,594 - 01:32:50,594] It is the difference, but
+- [01:32:50,594 - 01:32:56,594] I'm getting tired.
+- [01:32:56,594 - 01:32:58,594] I'm reaching the point of...
+- [01:33:00,594 - 01:33:02,594] The point is it costs some energy.
+- [01:33:02,594 - 01:33:03,594] It costs some energy. I'll
+- [01:33:03,594 - 01:33:04,594] tell you how much energy later.
+- [01:33:04,594 - 01:33:05,594] But you have to push energy
+- [01:33:05,594 - 01:33:06,594] into the system in order to
+- [01:33:06,594 - 01:33:08,594] pop an electron out
+- [01:33:08,594 - 01:33:10,594] to the next energy level.
+- [01:33:10,594 - 01:33:12,594] Yeah.
+- [01:33:12,594 - 01:33:14,594] Well, the point is, how much energy
+- [01:33:14,594 - 01:33:15,594] do you have to put
+- [01:33:15,594 - 01:33:16,594] in? You have to put in
+- [01:33:16,594 - 01:33:18,594] the amount of energy that it would take
+- [01:33:18,594 - 01:33:20,594] to remove this particle
+- [01:33:20,594 - 01:33:22,594] and bring it exactly to the Fermi surface,
+- [01:33:22,594 - 01:33:24,594] and then an additional amount
+- [01:33:24,594 - 01:33:26,594] of energy to bring it from the Fermi surface
+- [01:33:26,594 - 01:33:28,594] off the Fermi surface.
+- [01:33:28,594 - 01:33:30,594] So here's the picture.
+- [01:33:38,594 - 01:33:40,594] Here's the Fermi sphere.
+- [01:33:40,594 - 01:33:42,594] The Fermi surface is the edge of the
+- [01:33:42,594 - 01:33:44,594] Fermi sphere.
+- [01:33:44,594 - 01:33:46,594] Let's take a particle just below
+- [01:33:46,594 - 01:33:48,594] the Fermi surface,
+- [01:33:48,594 - 01:33:50,594] bring it from here to here,
+- [01:33:50,594 - 01:33:52,594] how much energy does it take?
+- [01:33:52,594 - 01:33:54,594] Well, it takes two bits of positive energy.
+- [01:33:54,594 - 01:33:56,594] We can count it this way.
+- [01:33:56,594 - 01:33:58,594] The first bit of positive energy is the energy
+- [01:33:58,594 - 01:34:00,594] that it would take to remove
+- [01:34:00,594 - 01:34:02,594] this particle and bring it right
+- [01:34:02,594 - 01:34:04,594] to the Fermi surface.
+- [01:34:04,594 - 01:34:06,594] That's a little bit of positive
+- [01:34:06,594 - 01:34:08,594] energy to bring it to here,
+- [01:34:08,594 - 01:34:10,594] and then a little more positive energy
+- [01:34:10,594 - 01:34:12,594] to bring it to here.
+- [01:34:12,594 - 01:34:14,594] So it's actually the sum of two positive
+- [01:34:14,594 - 01:34:16,594] terms. The two positive
+- [01:34:16,594 - 01:34:18,594] terms being
+- [01:34:18,594 - 01:34:20,594] the absolute value of the
+- [01:34:20,594 - 01:34:22,594] difference of the energies from the Fermi surface.
+- [01:34:22,594 - 01:34:24,594] You have to add two little bits
+- [01:34:24,594 - 01:34:26,594] of energy. One of them
+- [01:34:26,594 - 01:34:28,594] can be thought of as the
+- [01:34:28,594 - 01:34:30,594] energy of the electron over here,
+- [01:34:30,594 - 01:34:32,594] measured relative to the Fermi surface,
+- [01:34:32,594 - 01:34:34,594] and the other one can be thought
+- [01:34:34,594 - 01:34:36,594] of as the energy of the hole.
+- [01:34:36,594 - 01:34:38,594] And they're both positive.
+- [01:34:38,594 - 01:34:40,594] This one has a bit of
+- [01:34:40,594 - 01:34:42,594] positive charge because it's an electron.
+- [01:34:42,594 - 01:34:44,594] This one has a bit of negative charge
+- [01:34:44,594 - 01:34:46,594] because it's a missing... no, sorry.
+- [01:34:48,594 - 01:34:50,594] This one has a bit of negative
+- [01:34:50,594 - 01:34:52,594] charge because it's a positron.
+- [01:34:52,594 - 01:34:54,594] No!
+- [01:34:54,594 - 01:34:56,594] I did that on purpose.
+- [01:34:56,594 - 01:34:58,594] I didn't.
+- [01:34:58,594 - 01:35:00,594] This one has a bit of negative charge
+- [01:35:00,594 - 01:35:02,594] because it's an electron,
+- [01:35:02,594 - 01:35:04,594] and this one has a bit of positive charge
+- [01:35:04,594 - 01:35:06,594] because it's a hole.
+- [01:35:06,594 - 01:35:08,594] Thank you.
+- [01:35:08,594 - 01:35:10,594] Right. Now,
+- [01:35:10,594 - 01:35:12,594] this electron could be moving
+- [01:35:12,594 - 01:35:14,594] around,
+- [01:35:14,594 - 01:35:16,594] and then suddenly
+- [01:35:16,594 - 01:35:18,594] pop into that hole.
+- [01:35:18,594 - 01:35:20,594] The hole is available now. The hole is
+- [01:35:20,594 - 01:35:22,594] available for the electron
+- [01:35:22,594 - 01:35:24,594] to drop down into. Just as an electron
+- [01:35:24,594 - 01:35:26,594] can drop from an
+- [01:35:26,594 - 01:35:28,594] excited level of an atom
+- [01:35:28,594 - 01:35:30,594] down to an unoccupied
+- [01:35:30,594 - 01:35:32,594] quantum state, if there's an
+- [01:35:32,594 - 01:35:34,594] unoccupied quantum state,
+- [01:35:34,594 - 01:35:36,594] this electron can drop down into
+- [01:35:36,594 - 01:35:38,594] this hole. What will happen
+- [01:35:38,594 - 01:35:40,594] when an electron drops
+- [01:35:40,594 - 01:35:42,594] its energy and drops
+- [01:35:42,594 - 01:35:44,594] down into the hole?
+- [01:35:44,594 - 01:35:46,594] Well, energy
+- [01:35:46,594 - 01:35:48,594] has to be conserved, so the energy
+- [01:35:48,594 - 01:35:50,594] of the electron has decreased,
+- [01:35:50,594 - 01:35:52,594] and the electron has to be
+- [01:35:52,594 - 01:35:54,594] discharged.
+- [01:35:54,594 - 01:35:56,594] So, what happens when an electron
+- [01:35:56,594 - 01:35:58,594] drops into the hole?
+- [01:35:58,594 - 01:36:00,594] A photon is emitted.
+- [01:36:00,594 - 01:36:02,594] A photon is emitted.
+- [01:36:02,594 - 01:36:04,594] Alright. You can say it another way.
+- [01:36:04,594 - 01:36:06,594] You can say an electron comes together
+- [01:36:06,594 - 01:36:08,594] with a hole and annihilates
+- [01:36:08,594 - 01:36:10,594] the electron, annihilates the hole,
+- [01:36:10,594 - 01:36:12,594] and a photon, or a photon
+- [01:36:12,594 - 01:36:14,594] or more than one photon,
+- [01:36:14,594 - 01:36:16,594] some number of photons goes out.
+- [01:36:16,594 - 01:36:18,594] So you can speak about this in the language
+- [01:36:18,594 - 01:36:20,594] of quantum mechanics.
+- [01:36:20,594 - 01:36:22,594] But it's a kind of fake particle
+- [01:36:22,594 - 01:36:24,594] that has the opposite charge
+- [01:36:24,594 - 01:36:26,594] of the true electron.
+- [01:36:26,594 - 01:36:28,594] It can be counted as having
+- [01:36:28,594 - 01:36:30,594] some positive energy,
+- [01:36:30,594 - 01:36:32,594] and when the electron
+- [01:36:32,594 - 01:36:34,594] drops down into the hole,
+- [01:36:34,594 - 01:36:36,594] you can think of it as the electron
+- [01:36:36,594 - 01:36:38,594] and hole coming together,
+- [01:36:38,594 - 01:36:40,594] annihilating and producing some
+- [01:36:40,594 - 01:36:42,594] heat, radiation, whatever.
+- [01:36:42,594 - 01:36:44,594] The process of annihilation.
+- [01:36:48,594 - 01:36:50,594] Question?
+- [01:36:50,594 - 01:36:52,594] Yeah?
+- [01:36:52,594 - 01:36:54,594] When you say you're moving these electrons,
+- [01:36:54,594 - 01:36:56,594] you're moving from one lattice point
+- [01:36:56,594 - 01:36:58,594] to another lattice point?
+- [01:36:58,594 - 01:37:00,594] Lattice in momentum space.
+- [01:37:00,594 - 01:37:02,594] Yeah.
+- [01:37:02,594 - 01:37:04,594] No, no.
+- [01:37:04,594 - 01:37:06,594] You're moving them from one energy level to another.
+- [01:37:06,594 - 01:37:08,594] So it's the
+- [01:37:08,594 - 01:37:10,594] analog of
+- [01:37:10,594 - 01:37:12,594] having an atom.
+- [01:37:12,594 - 01:37:14,594] Alright, let's speak about the analog of what this means
+- [01:37:14,594 - 01:37:16,594] in atomic physics.
+- [01:37:16,594 - 01:37:18,594] In atomic physics, the box could be,
+- [01:37:18,594 - 01:37:20,594] not the momentum space box,
+- [01:37:20,594 - 01:37:22,594] but the box that confines the electron
+- [01:37:22,594 - 01:37:24,594] could just be the atom.
+- [01:37:24,594 - 01:37:26,594] The proton at the center
+- [01:37:26,594 - 01:37:28,594] is some positive charge,
+- [01:37:28,594 - 01:37:30,594] and we fill it up with some negative charged
+- [01:37:30,594 - 01:37:32,594] electrons.
+- [01:37:32,594 - 01:37:34,594] Of course, in this case,
+- [01:37:34,594 - 01:37:36,594] the proton charge is not smeared
+- [01:37:36,594 - 01:37:38,594] over the atom,
+- [01:37:38,594 - 01:37:40,594] so it's concentrated
+- [01:37:40,594 - 01:37:42,594] at the center.
+- [01:37:42,594 - 01:37:44,594] It's a little bit different.
+- [01:37:44,594 - 01:37:46,594] But we take an atom which has
+- [01:37:46,594 - 01:37:48,594] the same number of electrons
+- [01:37:48,594 - 01:37:50,594] as protons,
+- [01:37:50,594 - 01:37:52,594] and we start with all of the electrons
+- [01:37:52,594 - 01:37:54,594] in the lowest available states.
+- [01:37:54,594 - 01:37:56,594] The lowest available states,
+- [01:37:56,594 - 01:37:58,594] that's the ground state of the atom,
+- [01:37:58,594 - 01:38:00,594] that's the analog of filling up
+- [01:38:00,594 - 01:38:02,594] the Fermi sphere here.
+- [01:38:02,594 - 01:38:04,594] Now a photon comes along
+- [01:38:04,594 - 01:38:06,594] and hits an electron
+- [01:38:06,594 - 01:38:08,594] and kicks it up into an excited state.
+- [01:38:08,594 - 01:38:10,594] Alright?
+- [01:38:10,594 - 01:38:12,594] Photon comes along, hits an electron
+- [01:38:12,594 - 01:38:14,594] just below the Fermi surface
+- [01:38:14,594 - 01:38:16,594] and kicks it up just above the Fermi surface.
+- [01:38:16,594 - 01:38:18,594] It's a low energy electron.
+- [01:38:18,594 - 01:38:20,594] A low energy photon.
+- [01:38:20,594 - 01:38:22,594] So it doesn't have much energy.
+- [01:38:22,594 - 01:38:24,594] It can't take an electron
+- [01:38:24,594 - 01:38:26,594] from the center here and bring it to the outside.
+- [01:38:26,594 - 01:38:28,594] That would take a lot of energy.
+- [01:38:28,594 - 01:38:30,594] It's a very low energy photon.
+- [01:38:30,594 - 01:38:32,594] And so it comes in
+- [01:38:32,594 - 01:38:34,594] and all it can do is hit an electron
+- [01:38:34,594 - 01:38:36,594] or be absorbed by an electron
+- [01:38:36,594 - 01:38:38,594] near the Fermi surface
+- [01:38:38,594 - 01:38:40,594] and kick it just above the Fermi surface.
+- [01:38:40,594 - 01:38:42,594] Another language
+- [01:38:42,594 - 01:38:44,594] is the photon has
+- [01:38:44,594 - 01:38:46,594] annihilated
+- [01:38:46,594 - 01:38:48,594] and been replaced by a particle.
+- [01:38:48,594 - 01:38:50,594] Or an electron and a hole.
+- [01:38:50,594 - 01:38:52,594] So it's particle
+- [01:38:52,594 - 01:38:54,594] hole creation
+- [01:38:54,594 - 01:38:56,594] by
+- [01:38:56,594 - 01:38:58,594] taking the energy from a photon.
+- [01:38:58,594 - 01:39:00,594] The same way that a photon
+- [01:39:00,594 - 01:39:02,594] hitting an atom
+- [01:39:02,594 - 01:39:04,594] excites the atom.
+- [01:39:04,594 - 01:39:06,594] Of course when it excites the atom
+- [01:39:06,594 - 01:39:08,594] it leaves a vacancy.
+- [01:39:08,594 - 01:39:10,594] The vacancy in this language is called a hole.
+- [01:39:10,594 - 01:39:12,594] Holes have
+- [01:39:16,594 - 01:39:18,594] So across the whole sphere
+- [01:39:18,594 - 01:39:20,594] if a photon hits anything
+- [01:39:20,594 - 01:39:22,594] in that sphere will it kick off
+- [01:39:22,594 - 01:39:24,594] something near the edge?
+- [01:39:24,594 - 01:39:26,594] Well if it's a low energy photon
+- [01:39:26,594 - 01:39:28,594] let's say
+- [01:39:28,594 - 01:39:30,594] a radio wave photon
+- [01:39:30,594 - 01:39:32,594] very low energy
+- [01:39:32,594 - 01:39:34,594] and it tries to get absorbed
+- [01:39:34,594 - 01:39:36,594] by an electron near the center
+- [01:39:36,594 - 01:39:38,594] it just can't give that electron
+- [01:39:38,594 - 01:39:40,594] enough energy to get out of the Fermi sphere.
+- [01:39:40,594 - 01:39:42,594] It can't
+- [01:39:42,594 - 01:39:44,594] jump to any place inside the Fermi sphere
+- [01:39:44,594 - 01:39:46,594] because it's already occupied.
+- [01:39:46,594 - 01:39:48,594] So the answer is a low energy photon
+- [01:39:48,594 - 01:39:50,594] can't be absorbed by an electron
+- [01:39:50,594 - 01:39:52,594] in the interior.
+- [01:39:52,594 - 01:39:53,594] So the cross section doesn't get
+- [01:39:53,594 - 01:39:54,594] bigger as the sphere gets bigger.
+- [01:39:54,594 - 01:39:56,594] It's related to the surface
+- [01:39:56,594 - 01:39:58,594] not the volume.
+- [01:39:58,594 - 01:40:00,594] It all comes off the surface.
+- [01:40:00,594 - 01:40:02,594] A high energy photon
+- [01:40:02,594 - 01:40:04,594] of course that can kick an electron
+- [01:40:04,594 - 01:40:06,594] from deep inside
+- [01:40:06,594 - 01:40:08,594] the language is
+- [01:40:08,594 - 01:40:10,594] that things inside the Fermi sphere
+- [01:40:10,594 - 01:40:12,594] are in the Fermi sea.
+- [01:40:12,594 - 01:40:14,594] S-E-A
+- [01:40:14,594 - 01:40:16,594] This is deep in the Fermi sea
+- [01:40:16,594 - 01:40:18,594] This is near the surface of the Fermi sea
+- [01:40:18,594 - 01:40:20,594] Only a high energy photon
+- [01:40:20,594 - 01:40:22,594] or a collection of high energy photons
+- [01:40:22,594 - 01:40:24,594] coming together
+- [01:40:24,594 - 01:40:26,594] can kick an electron
+- [01:40:26,594 - 01:40:28,594] from deep inside the Fermi sea
+- [01:40:28,594 - 01:40:30,594] to the outside.
+- [01:40:30,594 - 01:40:32,594] A low energy photon
+- [01:40:32,594 - 01:40:34,594] can take a shallow electron
+- [01:40:34,594 - 01:40:36,594] or one just beneath the surface
+- [01:40:36,594 - 01:40:38,594] and put it just above.
+- [01:40:38,594 - 01:40:40,594] Yeah?
+- [01:40:40,594 - 01:40:42,594] Yeah?
+- [01:40:42,594 - 01:40:44,594] Is there anything that keeps electrons
+- [01:40:44,594 - 01:40:46,594] from interacting with electrons directly
+- [01:40:46,594 - 01:40:48,594] without using photons?
+- [01:40:48,594 - 01:40:50,594] Nothing except we're ignoring it.
+- [01:40:50,594 - 01:40:52,594] No.
+- [01:40:52,594 - 01:40:54,594] Interactions between electrons
+- [01:40:54,594 - 01:40:56,594] make the story somewhat more complicated
+- [01:40:56,594 - 01:40:58,594] but interactions between electrons
+- [01:40:58,594 - 01:41:00,594] are pretty weak.
+- [01:41:00,594 - 01:41:02,594] They're pretty weak.
+- [01:41:02,594 - 01:41:04,594] They're not very strong
+- [01:41:04,594 - 01:41:06,594] and for the most part
+- [01:41:06,594 - 01:41:08,594] they can be ignored inside a metal
+- [01:41:08,594 - 01:41:10,594] for example.
+- [01:41:10,594 - 01:41:12,594] If a photon has excess energy
+- [01:41:12,594 - 01:41:14,594] it has enough to kick multiple electrons
+- [01:41:14,594 - 01:41:16,594] Say it again.
+- [01:41:16,594 - 01:41:18,594] If a photon has a lot of energy
+- [01:41:18,594 - 01:41:20,594] enough to excite multiple electrons
+- [01:41:20,594 - 01:41:22,594] then what happens?
+- [01:41:22,594 - 01:41:24,594] Does one electron get extra excited
+- [01:41:24,594 - 01:41:26,594] and then fall back?
+- [01:41:26,594 - 01:41:28,594] Anything can happen
+- [01:41:28,594 - 01:41:30,594] as long as it's consistent
+- [01:41:30,594 - 01:41:32,594] with the conservation laws.
+- [01:41:32,594 - 01:41:34,594] But typically it's a much lower probability process
+- [01:41:34,594 - 01:41:36,594] to create two electrons
+- [01:41:36,594 - 01:41:38,594] and two holes.
+- [01:41:38,594 - 01:41:40,594] If it kicked out two electrons
+- [01:41:40,594 - 01:41:42,594] it would make two holes
+- [01:41:42,594 - 01:41:44,594] and if it kicked out two electrons
+- [01:41:44,594 - 01:41:46,594] it would make two holes
+- [01:41:46,594 - 01:41:48,594] and if it kicked out two electrons
+- [01:41:48,594 - 01:41:50,594] it would make two holes
+- [01:41:50,594 - 01:41:52,594] and that would be a process
+- [01:41:52,594 - 01:41:54,594] in which four particles
+- [01:41:54,594 - 01:41:56,594] were created altogether.
+- [01:41:56,594 - 01:41:58,594] That's much less likely.
+- [01:41:58,594 - 01:42:00,594] Super excite one.
+- [01:42:00,594 - 01:42:02,594] That's right.
+- [01:42:02,594 - 01:42:04,594] It's more likely to super-excite one.
+- [01:42:04,594 - 01:42:06,594] Another question.
+- [01:42:06,594 - 01:42:08,594] A philosophical question here
+- [01:42:08,594 - 01:42:10,594] Is it ever the case
+- [01:42:10,594 - 01:42:12,594] that a two photon simultaneously
+- [01:42:12,594 - 01:42:14,594] can be absorbed by an electron
+- [01:42:14,594 - 01:42:16,594] that one of them wouldn't do it
+- [01:42:16,594 - 01:42:18,594] but both of them would?
+- [01:42:18,594 - 01:42:21,694] or do you need both of them to conserve energy?
+- [01:42:21,694 - 01:42:23,634] it's just a probability
+- [01:42:23,634 - 01:42:30,634] the situation is not prohibition
+- [01:42:30,634 - 01:42:33,434] if you have a low energy photon
+- [01:42:33,434 - 01:42:35,054] that's not
+- [01:42:35,054 - 01:42:36,824] that doesn't have enough energy
+- [01:42:36,824 - 01:42:38,594] to excite any of the electrons
+- [01:42:38,594 - 01:42:40,594] well it doesn't take
+- [01:42:40,594 - 01:42:43,234] it just takes a tiny tiny bit of
+- [01:42:43,234 - 01:42:45,874] energy to kick it from here to here
+- [01:42:45,874 - 01:42:49,374] so yeah there is some energy which is
+- [01:42:49,374 - 01:42:52,874] so low that it can't do anything, it's true
+- [01:42:56,654 - 01:43:03,654] yeah it pretty much just passes through the system
+- [01:43:15,874 - 01:43:23,194] that they provided
+- [01:43:26,194 - 01:43:28,214] d
+- [01:43:28,214 - 01:43:30,574] c
+- [01:43:30,574 - 01:43:33,913] P
+- [01:43:33,913 - 01:43:35,514] J
+- [01:43:42,634 - 01:43:44,574] p
+- [01:43:44,574 - 01:43:45,654] a
+- [01:43:45,654 - 01:43:45,754] g
+- [01:43:45,754 - 01:43:45,793] m
+- [01:43:45,793 - 01:43:45,854] e
+- [01:43:45,854 - 01:43:15,970] a
+- [01:43:15,970 - 01:43:16,475] نعم،
+- [01:43:16,475 - 01:43:16,980] هذا
+- [01:43:16,980 - 01:43:17,485] هو
+- [01:43:17,485 - 01:43:17,990] الموانئ
+- [01:43:18,018 - 01:43:20,518] will find other ways to interact.
+- [01:43:20,518 - 01:43:27,518] It will stop a whole collection of electrons sloshing.
+- [01:43:27,518 - 01:43:28,518] That's more complicated.
+- [01:43:35,018 - 01:43:37,518] But does it?
+- [01:43:37,518 - 01:43:40,518] You mean that they're actually moving on the grid back
+- [01:43:40,518 - 01:43:41,518] and forth?
+- [01:43:41,518 - 01:43:43,018] They actually will be moving
+- [01:43:43,018 - 01:43:44,518] on the grid back and forth.
+- [01:43:44,518 - 01:43:45,518] Space.
+- [01:43:45,518 - 01:43:46,518] Space.
+- [01:43:46,518 - 01:43:47,518] Well.
+- [01:43:47,518 - 01:43:49,518] But that's more complicated.
+- [01:43:49,518 - 01:43:53,018] Why do you say that
+- [01:43:53,018 - 01:43:56,518] electrons interact weakly with each other?
+- [01:43:56,518 - 01:43:57,518] Say that again?
+- [01:43:57,518 - 01:43:59,518] You said that electrons do not
+- [01:43:59,518 - 01:44:01,518] interact with each other very strongly.
+- [01:44:01,518 - 01:44:06,518] But don't they all have the same negative charges?
+- [01:44:06,518 - 01:44:09,018] Yeah, but they're also in
+- [01:44:09,018 - 01:44:11,518] a background sea of positive charges.
+- [01:44:11,518 - 01:44:16,518] So the whole thing is a little bit more complicated.
+- [01:44:16,518 - 01:44:17,518] Yeah.
+- [01:44:17,518 - 01:44:19,518] So the electron charge is electrically neutral.
+- [01:44:19,518 - 01:44:22,518] The electrons are interacting with each other,
+- [01:44:22,518 - 01:44:26,518] but the electron interactions are pretty weak.
+- [01:44:26,518 - 01:44:30,018] Partly they're weak because the electron
+- [01:44:30,018 - 01:44:33,518] charge is screened by the proton charges.
+- [01:44:33,518 - 01:44:35,018] But I really didn't want
+- [01:44:35,018 - 01:44:36,518] to get into the electron interaction.
+- [01:44:36,518 - 01:44:41,518] That's a separate issue that we .
+- [01:44:41,518 - 01:44:45,518] Will we talk about that screening?
+- [01:44:45,518 - 01:44:46,518] Yeah, we can talk about it.
+- [01:44:46,518 - 01:44:47,518] But not.
+- [01:44:47,518 - 01:44:48,518] We'll talk about it later.
+- [01:44:48,518 - 01:44:49,518] Yeah.
+- [01:44:49,518 - 01:44:50,518] I don't want to talk about that now.
+- [01:44:50,518 - 01:44:51,518] Right.
+- [01:44:51,518 - 01:44:52,518] Yeah.
+- [01:44:52,518 - 01:44:53,518] Yeah.
+- [01:44:53,518 - 01:44:54,518] Screening is an important phenomenon in particle physics.
+- [01:44:54,518 - 01:44:57,518] And it has its analog here.
+- [01:44:57,518 - 01:44:59,518] But let's come back to it another time.
+- [01:44:59,518 - 01:45:01,018] What I really wanted to
+- [01:45:01,018 - 01:45:02,518] get to was the Dirac equation.
+- [01:45:02,518 - 01:45:06,018] And I have 15 minutes to give you
+- [01:45:06,018 - 01:45:09,518] the very, very simplest version of the Dirac equation,
+- [01:45:09,518 - 01:45:12,518] which we will come back to repeatedly.
+- [01:45:12,518 - 01:45:16,518] But the very, very simplest version of the Dirac equation.
+- [01:45:16,518 - 01:45:18,518] And I'm going to go through it one by one.
+- [01:45:18,518 - 01:45:20,518] Just to sort of complete a story here.
+- [01:45:20,518 - 01:45:21,518] It's obvious.
+- [01:45:21,518 - 01:45:23,518] You know what story I'm starting to tell you.
+- [01:45:23,518 - 01:45:26,518] I'm telling you the story about antiparticles.
+- [01:45:26,518 - 01:45:27,518] OK?
+- [01:45:27,518 - 01:45:29,518] Holes are antiparticles.
+- [01:45:29,518 - 01:45:33,018] But what does this have to do
+- [01:45:33,018 - 01:45:36,518] with not a metal in a box,
+- [01:45:36,518 - 01:45:40,018] but with relativistic quantum field theory
+- [01:45:40,018 - 01:45:43,518] and the vacuum and particles and antiparticles?
+- [01:45:43,518 - 01:45:44,518] So.
+- [01:45:44,518 - 01:45:49,518] I'm going to spend just a couple of minutes
+- [01:45:49,518 - 01:45:54,518] giving you the very, very simplest version of Dirac's logic.
+- [01:45:54,518 - 01:45:57,018] And to keep it really simple,
+- [01:45:57,018 - 01:45:59,518] let's stay with one dimension of space.
+- [01:45:59,518 - 01:46:00,518] OK?
+- [01:46:00,518 - 01:46:03,518] One dimension of space and only one dimension.
+- [01:46:03,518 - 01:46:05,518] X.
+- [01:46:05,518 - 01:46:10,518] We'll come back to more dimensions next time.
+- [01:46:10,518 - 01:46:13,518] And.
+- [01:46:13,518 - 01:46:17,518] Let's write a wave equation.
+- [01:46:17,518 - 01:46:21,018] This wave equation is going to be for
+- [01:46:21,018 - 01:46:24,518] a field that I'm going to call psi.
+- [01:46:24,518 - 01:46:25,518] OK?
+- [01:46:25,518 - 01:46:27,518] Ah.
+- [01:46:27,518 - 01:46:28,518] Right.
+- [01:46:28,518 - 01:46:31,518] This electron, this is not an electron, it's a neutrino.
+- [01:46:31,518 - 01:46:32,518] Ah, I don't know what it is.
+- [01:46:32,518 - 01:46:33,518] It's a particle.
+- [01:46:33,518 - 01:46:34,518] It's a fermion.
+- [01:46:34,518 - 01:46:36,018] It's a fermion, but it happens
+- [01:46:36,018 - 01:46:37,518] to move with the speed of light.
+- [01:46:37,518 - 01:46:38,518] OK?
+- [01:46:38,518 - 01:46:40,518] It moves with the speed of light.
+- [01:46:40,518 - 01:46:42,518] And that means omega equals k.
+- [01:46:42,518 - 01:46:43,518] Right?
+- [01:46:43,518 - 01:46:48,018] Omega equals k is the relationship between frequency
+- [01:46:48,018 - 01:46:52,518] and wave number or between energy and momentum.
+- [01:46:52,518 - 01:46:58,518] This is c equal one.
+- [01:46:58,518 - 01:47:00,518] Omega equals k.
+- [01:47:00,518 - 01:47:02,518] There's another possibility.
+- [01:47:02,518 - 01:47:04,518] Omega is equal to k.
+- [01:47:04,518 - 01:47:06,518] And what's the other possibility?
+- [01:47:06,518 - 01:47:08,518] Omega equals minus k.
+- [01:47:08,518 - 01:47:09,518] OK?
+- [01:47:09,518 - 01:47:11,518] But let's take omega equals k.
+- [01:47:11,518 - 01:47:12,518] OK?
+- [01:47:12,518 - 01:47:16,518] What kind of wave equation does that correspond to?
+- [01:47:16,518 - 01:47:24,518] Well, that corresponds to the wave equation d psi by
+- [01:47:24,518 - 01:47:32,518] dt is equal, I think it's minus, d psi by dx.
+- [01:47:32,518 - 01:47:37,518] This is partial derivative.
+- [01:47:37,518 - 01:47:41,518] This is even simpler than the Schrodinger equation.
+- [01:47:41,518 - 01:47:45,518] Why do I say that this is omega equals k?
+- [01:47:45,518 - 01:47:48,518] Let's imagine that psi is equal to
+- [01:47:48,518 - 01:47:51,518] e to the ikx minus omega t.
+- [01:47:51,518 - 01:47:55,018] d psi by dt brings
+- [01:47:55,018 - 01:47:58,518] down a factor minus i omega.
+- [01:47:58,518 - 01:48:03,518] d psi by dx brings down a factor ik.
+- [01:48:03,518 - 01:48:07,018] If the relation between omega and k is
+- [01:48:07,018 - 01:48:10,518] just omega equals k corresponding to c equals one,
+- [01:48:10,518 - 01:48:13,518] then that just says d psi by dt
+- [01:48:13,518 - 01:48:16,518] is equal to minus d psi by dx.
+- [01:48:16,518 - 01:48:17,518] All right?
+- [01:48:17,518 - 01:48:20,518] So this is a very, very simple wave equation.
+- [01:48:20,518 - 01:48:26,518] And it describes waves which only move in one direction.
+- [01:48:26,518 - 01:48:28,518] They cannot move in both directions.
+- [01:48:28,518 - 01:48:30,518] They move only, is it to
+- [01:48:30,518 - 01:48:32,518] the right or to the left?
+- [01:48:32,518 - 01:48:35,518] Can you tell if this, uh...
+- [01:48:35,518 - 01:48:37,518] Yeah.
+- [01:48:37,518 - 01:48:39,518] These waves move to the right.
+- [01:48:40,518 - 01:48:44,518] Okay?
+- [01:48:44,518 - 01:48:46,518] What would it take to make
+- [01:48:46,518 - 01:48:48,518] waves that move to the left?
+- [01:48:48,518 - 01:48:51,518] You'd want d psi by dt
+- [01:48:51,518 - 01:48:54,518] equals plus d psi by dx.
+- [01:48:54,518 - 01:48:56,518] All right.
+- [01:48:56,518 - 01:48:59,018] With either of those two equations, you
+- [01:48:59,018 - 01:49:01,518] have particles which move in one direction,
+- [01:49:01,518 - 01:49:03,518] let's say in this case to the right.
+- [01:49:03,518 - 01:49:06,018] And let's suppose these are fermions and
+- [01:49:06,018 - 01:49:08,518] let's even imagine they carry electric charge.
+- [01:49:08,518 - 01:49:10,518] So they're electrically charged.
+- [01:49:10,518 - 01:49:12,518] They're not just fermions.
+- [01:49:12,518 - 01:49:13,518] Okay.
+- [01:49:13,518 - 01:49:15,518] Now there's something a little bit crazy about this.
+- [01:49:22,518 - 01:49:26,518] Omega equals k.
+- [01:49:26,518 - 01:49:28,518] Energy equals momentum.
+- [01:49:28,518 - 01:49:32,518] Can k be negative?
+- [01:49:32,518 - 01:49:33,518] Sure.
+- [01:49:33,518 - 01:49:34,518] Why not?
+- [01:49:34,518 - 01:49:38,518] I can write e to the ikx.
+- [01:49:38,518 - 01:49:42,518] And I can also write e to the minus ikx.
+- [01:49:42,518 - 01:49:43,518] All right.
+- [01:49:43,518 - 01:49:50,518] I can write both possibilities, things which are...
+- [01:49:50,518 - 01:49:54,018] But there's something a little ugly, not ugly,
+- [01:49:54,018 - 01:49:57,518] a little bit dangerous about negative values of k.
+- [01:49:57,518 - 01:49:59,518] They carry negative values of omega.
+- [01:49:59,518 - 01:50:02,518] And negative values of omega mean what?
+- [01:50:02,518 - 01:50:04,518] Negative energy.
+- [01:50:04,518 - 01:50:05,518] All right.
+- [01:50:05,518 - 01:50:07,518] So this equation describes...
+- [01:50:08,518 - 01:50:15,518] Electrons are electrons of positive and negative energy.
+- [01:50:15,518 - 01:50:16,518] Let's just draw a picture.
+- [01:50:16,518 - 01:50:17,518] Omega equals k.
+- [01:50:17,518 - 01:50:19,518] Here's omega equals k.
+- [01:50:19,518 - 01:50:22,518] Omega versus k.
+- [01:50:22,518 - 01:50:24,518] It's just a straight line.
+- [01:50:24,518 - 01:50:28,518] For k positive, the energy is positive.
+- [01:50:28,518 - 01:50:31,518] For k negative, the energy is negative.
+- [01:50:31,518 - 01:50:32,518] Okay.
+- [01:50:32,518 - 01:50:35,018] This equation simply describes electrons which
+- [01:50:35,018 - 01:50:37,518] can have either positive or negative energy.
+- [01:50:38,518 - 01:50:41,518] That sounds like trouble.
+- [01:50:41,518 - 01:50:42,518] Why is there trouble?
+- [01:50:42,518 - 01:50:45,518] Why is electrons with negative energy trouble?
+- [01:50:45,518 - 01:50:51,518] Well, if electrons can have arbitrarily low momentum...
+- [01:50:51,518 - 01:50:54,518] Remember what happens in an atom
+- [01:50:54,518 - 01:50:57,518] to an electron which is excited.
+- [01:50:57,518 - 01:51:01,518] It radiates and drops down to a lower state.
+- [01:51:01,518 - 01:51:04,518] If there were unboundedly
+- [01:51:04,518 - 01:51:07,518] low energies, arbitrarily negative,
+- [01:51:07,518 - 01:51:11,518] then electrons, let's say positive energy electrons,
+- [01:51:11,518 - 01:51:15,518] could emit photons and drop down in energy.
+- [01:51:15,518 - 01:51:18,518] But they wouldn't necessarily have to stop at zero energy.
+- [01:51:18,518 - 01:51:20,018] They could keep dropping down
+- [01:51:20,018 - 01:51:21,518] and dropping down and dropping down
+- [01:51:21,518 - 01:51:25,518] and make arbitrarily negatively energy electrons
+- [01:51:25,518 - 01:51:28,518] while at the same time pumping
+- [01:51:28,518 - 01:51:31,518] up the energy of the electromagnetic field.
+- [01:51:31,518 - 01:51:33,518] This sounds very dangerous, and it is dangerous.
+- [01:51:33,518 - 01:51:34,518] Something wrong with this.
+- [01:51:34,518 - 01:51:35,518] Okay.
+- [01:51:35,518 - 01:51:38,518] You can't have arbitrarily low energies.
+- [01:51:38,518 - 01:51:42,018] Well, what is the lowest
+- [01:51:42,018 - 01:51:45,518] energy state of the multi-electron system?
+- [01:51:45,518 - 01:51:48,518] How do you...
+- [01:51:48,518 - 01:51:49,518] The thermosphere?
+- [01:51:49,518 - 01:51:50,518] What's that?
+- [01:51:50,518 - 01:51:51,518] The thermosphere?
+- [01:51:51,518 - 01:51:53,518] What is a thermosphere in this case?
+- [01:51:53,518 - 01:51:55,518] The thermosphere in this case is...
+- [01:51:55,518 - 01:51:57,518] Let's suppose we have a zillion
+- [01:51:57,518 - 01:51:59,518] electrons, as many as we like,
+- [01:51:59,518 - 01:52:02,518] and we put the first electron into the system.
+- [01:52:02,518 - 01:52:03,518] Where does it go?
+- [01:52:03,518 - 01:52:04,518] To the hole.
+- [01:52:04,518 - 01:52:07,518] It goes down into the lowest energy state.
+- [01:52:07,518 - 01:52:09,018] But the lowest energy state is
+- [01:52:09,018 - 01:52:10,518] way the hell down there somewhere.
+- [01:52:10,518 - 01:52:12,518] Off at minus infinity somewhere.
+- [01:52:12,518 - 01:52:14,518] The next one, off at minus infinity.
+- [01:52:14,518 - 01:52:15,518] This is very dangerous.
+- [01:52:15,518 - 01:52:17,518] This is a bad idea.
+- [01:52:17,518 - 01:52:19,518] What Dirac said...
+- [01:52:19,518 - 01:52:22,518] This is the simplest version of Dirac equation.
+- [01:52:22,518 - 01:52:24,518] This is a Dirac equation in one dimension.
+- [01:52:24,518 - 01:52:26,518] What Dirac said is,
+- [01:52:26,518 - 01:52:30,018] let's pretend that all of
+- [01:52:30,018 - 01:52:33,518] the negative energy states were filled.
+- [01:52:33,518 - 01:52:36,018] Just like filling the thermosphere,
+- [01:52:36,018 - 01:52:38,518] fill all the negative energy states
+- [01:52:38,518 - 01:52:41,518] all the ways up to zero energy.
+- [01:52:41,518 - 01:52:44,518] So all of these states are filled.
+- [01:52:44,518 - 01:52:48,518] There's an electron in every negative energy state.
+- [01:52:48,518 - 01:52:51,018] You can't make a state
+- [01:52:51,018 - 01:52:53,518] of lower energy than that, incidentally.
+- [01:52:53,518 - 01:52:55,518] That's the lowest possible energy you have.
+- [01:52:55,518 - 01:52:58,518] You've filled up all the negative energy states.
+- [01:52:58,518 - 01:53:00,018] Every time you put a negative
+- [01:53:00,018 - 01:53:01,518] energy thing in, that lowers the energy.
+- [01:53:01,518 - 01:53:02,518] You've put as many things in as you can.
+- [01:53:02,518 - 01:53:04,018] You've put as many negative
+- [01:53:04,018 - 01:53:05,518] energy states in as you can.
+- [01:53:05,518 - 01:53:08,018] Now if I start putting in positive
+- [01:53:08,018 - 01:53:10,518] energy electrons, that will increase the energy.
+- [01:53:10,518 - 01:53:13,518] So the very lowest energy state,
+- [01:53:13,518 - 01:53:16,518] the thing that you could call a ground state,
+- [01:53:16,518 - 01:53:20,018] is to fill it with as many negative
+- [01:53:20,018 - 01:53:23,518] energy electrons as there are negative energy states.
+- [01:53:23,518 - 01:53:25,518] And that's your starting point.
+- [01:53:25,518 - 01:53:27,518] Instead of a starting point with no electrons,
+- [01:53:27,518 - 01:53:29,518] your starting point is fill
+- [01:53:29,518 - 01:53:31,518] up completely the negative energy C.
+- [01:53:32,518 - 01:53:36,518] That's the vacuum.
+- [01:53:36,518 - 01:53:39,518] That's empty space according to Dirac's theory,
+- [01:53:39,518 - 01:53:41,518] Dirac's simple version.
+- [01:53:41,518 - 01:53:42,518] Start with that.
+- [01:53:42,518 - 01:53:44,018] Since it's the state of lowest
+- [01:53:44,018 - 01:53:45,518] energy, let's call it the vacuum.
+- [01:53:45,518 - 01:53:47,518] And now what can you do?
+- [01:53:47,518 - 01:53:50,018] You can take, the only thing you can do
+- [01:53:50,018 - 01:53:52,518] is to take an electron out of the C,
+- [01:53:52,518 - 01:53:55,518] the negative energy C, and give it positive energy.
+- [01:53:55,518 - 01:53:58,018] So you can take an electron from
+- [01:53:58,018 - 01:54:00,518] over here and put it someplace else.
+- [01:54:00,518 - 01:54:01,518] Okay.
+- [01:54:01,518 - 01:54:03,518] So you can take properties of
+- [01:54:03,518 - 01:54:05,518] a state with one electron over here,
+- [01:54:05,518 - 01:54:08,518] with positive energy and positive momentum,
+- [01:54:08,518 - 01:54:12,518] and one missing electron over here.
+- [01:54:12,518 - 01:54:13,518] Okay.
+- [01:54:13,518 - 01:54:16,518] It's a missing electron.
+- [01:54:16,518 - 01:54:20,518] Well, how much momentum does it have, incidentally?
+- [01:54:20,518 - 01:54:23,518] It, uh...
+- [01:54:23,518 - 01:54:34,518] Well, we remove the negative momentum electrons.
+- [01:54:34,518 - 01:54:36,518] Yeah, so it's zero.
+- [01:54:36,518 - 01:54:38,518] No, no, no, no, no, no.
+- [01:54:38,518 - 01:54:39,518] The whole.
+- [01:54:39,518 - 01:54:40,518] How much, how much, uh,
+- [01:54:40,518 - 01:54:41,518] how much does the whole have?
+- [01:54:41,518 - 01:54:43,518] Positive.
+- [01:54:43,518 - 01:54:45,518] Is it positive or negative?
+- [01:54:45,518 - 01:54:46,518] Positive.
+- [01:54:46,518 - 01:54:47,518] Positive.
+- [01:54:47,518 - 01:54:48,518] Positive.
+- [01:54:48,518 - 01:54:49,518] Why is it positive?
+- [01:54:49,518 - 01:54:52,518] Because it's a missing deficit of negative momentum.
+- [01:54:52,518 - 01:54:53,518] All right.
+- [01:54:53,518 - 01:54:56,018] So what we've done is create
+- [01:54:56,018 - 01:54:58,518] a positive energy, a positive energy electron,
+- [01:54:58,518 - 01:55:01,518] and a positive, and positive momentum.
+- [01:55:01,518 - 01:55:04,018] We've created two positive momentum
+- [01:55:04,018 - 01:55:06,518] objects, both moving to the right.
+- [01:55:06,518 - 01:55:10,518] Uh, one with plus charge, sorry, one with minus charge,
+- [01:55:10,518 - 01:55:12,518] the electron with minus charge,
+- [01:55:12,518 - 01:55:16,518] and the missing electron having positive charge,
+- [01:55:16,518 - 01:55:20,518] negative charge and positive charge.
+- [01:55:20,518 - 01:55:23,018] That, uh, that in summary, and
+- [01:55:23,018 - 01:55:25,518] we're gonna do this more completely,
+- [01:55:25,518 - 01:55:27,518] but that was Dirac's theory
+- [01:55:27,518 - 01:55:29,518] of the electron and the positron,
+- [01:55:29,518 - 01:55:32,518] that the positron was simply a
+- [01:55:32,518 - 01:55:35,518] hole in the infinite negative energy C.
+- [01:55:35,518 - 01:55:39,518] He wrote down this equation, or the generalization of it,
+- [01:55:39,518 - 01:55:41,518] looked at it and said, I love that equation,
+- [01:55:41,518 - 01:55:43,518] but it's got this terrible
+- [01:55:43,518 - 01:55:45,518] disease of having negative energy states.
+- [01:55:45,518 - 01:55:46,518] No problem.
+- [01:55:46,518 - 01:55:48,518] These are fermions.
+- [01:55:48,518 - 01:55:50,518] You can't put more than one electron in there.
+- [01:55:50,518 - 01:55:52,018] You can't put more than one
+- [01:55:52,018 - 01:55:53,518] electron in a negative energy state.
+- [01:55:53,518 - 01:55:55,518] So just fill it up
+- [01:55:55,518 - 01:55:57,518] completely and call that empty space.
+- [01:55:57,518 - 01:55:59,018] Having called that empty space,
+- [01:55:59,018 - 01:56:00,518] what can you do to it?
+- [01:56:00,518 - 01:56:02,518] You can remove one of the negative energy electrons
+- [01:56:02,518 - 01:56:05,518] and put it back as a positive energy electron.
+- [01:56:05,518 - 01:56:07,018] Sorry, put it back, yes, put
+- [01:56:07,018 - 01:56:08,518] it back as a positive energy electron.
+- [01:56:08,518 - 01:56:10,518] That leaves a hole.
+- [01:56:10,518 - 01:56:13,518] And Dirac said that hole is
+- [01:56:13,518 - 01:56:16,518] a particle of positive, uh, charge.
+- [01:56:16,518 - 01:56:17,518] All right.
+- [01:56:17,518 - 01:56:19,018] Now, at first he was very excited
+- [01:56:19,018 - 01:56:20,518] because he thought it was the proton.
+- [01:56:20,518 - 01:56:22,018] It's easy to prove that
+- [01:56:22,018 - 01:56:23,518] the mass of the particle here
+- [01:56:23,518 - 01:56:26,518] has to be the same as the mass of the...
+- [01:56:26,518 - 01:56:28,518] These are particle and antiparticle.
+- [01:56:28,518 - 01:56:31,518] This was the discovery of particles and antiparticles.
+- [01:56:31,518 - 01:56:33,518] But this was the basic logic,
+- [01:56:33,518 - 01:56:38,518] and it was equations like this which led to it.
+- [01:56:38,518 - 01:56:40,518] Notice what a disaster you'd be in
+- [01:56:40,518 - 01:56:44,518] if you tried to describe a boson by this equation.
+- [01:56:44,518 - 01:56:47,518] That would be a madhouse.
+- [01:56:47,518 - 01:56:49,018] You would just keep putting
+- [01:56:49,018 - 01:56:50,518] particles into the negative energy state,
+- [01:56:50,518 - 01:56:53,518] negative energy, lowest, as many as you like,
+- [01:56:53,518 - 01:56:55,518] and there would be no ground state.
+- [01:56:55,518 - 01:56:57,518] There would be no ground state.
+- [01:56:57,518 - 01:56:59,518] You could just keep putting in more
+- [01:56:59,518 - 01:57:01,518] and more and more negative energy bosons.
+- [01:57:01,518 - 01:57:04,018] So this wave, this wave
+- [01:57:04,018 - 01:57:06,518] equation only makes sense for fermions,
+- [01:57:06,518 - 01:57:08,518] would not make sense for bosons.
+- [01:57:08,518 - 01:57:11,518] And that was Dirac's great discovery,
+- [01:57:11,518 - 01:57:16,518] that fermions can be described by Dirac equations like this
+- [01:57:16,518 - 01:57:19,518] that would not make sense for bosons.
+- [01:57:19,518 - 01:57:20,518] Why?
+- [01:57:20,518 - 01:57:22,518] Just the reasons I explained.
+- [01:57:22,518 - 01:57:25,518] And the idea of antiparticles.
+- [01:57:25,518 - 01:57:29,518] We'll come to antiparticles for bosons next time,
+- [01:57:29,518 - 01:57:33,518] and we'll discuss the Dirac equation in more completeness,
+- [01:57:33,518 - 01:57:34,518] the real Dirac equation.
+- [01:57:34,518 - 01:57:38,518] This is an elementary version of it.
+- [01:57:38,518 - 01:57:43,518] But we'll come to it next time.
+- [01:57:43,518 - 01:57:46,518] There's a number of things wrong with this electron.
+- [01:57:46,518 - 01:57:48,518] For one thing, it only moves to the right.
+- [01:57:48,518 - 01:57:49,518] That's the problem.
+- [01:57:49,518 - 01:57:50,518] That's crazy.
+- [01:57:50,518 - 01:57:54,518] For another thing, it moves at the speed of light.
+- [01:57:54,518 - 01:57:56,518] That's crazy.
+- [01:57:56,518 - 01:57:58,018] So there's a number of things
+- [01:57:58,018 - 01:57:59,518] that are wrong with this electron.
+- [01:57:59,518 - 01:58:02,518] It's a neutrino.
+- [01:58:02,518 - 01:58:04,518] No, it's a neutrino.
+- [01:58:04,518 - 01:58:08,518] No, it's a neutrino.
+- [01:58:08,518 - 01:58:11,518] A neutrino is a boson.
+- [01:58:11,518 - 01:58:14,518] A neutrino is a boson.
+- [01:58:14,518 - 01:58:16,518] Yeah, this is a neutrino.
+- [01:58:16,518 - 01:58:18,518] But it's not quite a neutrino,
+- [01:58:18,518 - 01:58:21,518] because a neutrino also has mass.
+- [01:58:21,518 - 01:58:25,518] For more, please visit us at stanford.edu.
