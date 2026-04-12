@@ -1,0 +1,8472 @@
+1
+00:00:00,000 --> 00:00:07,000
+Stanford University
+
+2
+00:00:07,000 --> 00:00:10,500
+So let's talk about supersymmetry. Supersymmetry
+
+3
+00:00:10,500 --> 00:00:14,000
+has to do with fermions and bosons.
+
+4
+00:00:14,000 --> 00:00:16,500
+Now, and the relationship between
+
+5
+00:00:16,500 --> 00:00:19,000
+them, symmetry is between them.
+
+6
+00:00:19,000 --> 00:00:22,000
+So actually before we talk about supersymmetry,
+
+7
+00:00:22,000 --> 00:00:25,000
+we should talk again about fermions and bosons.
+
+8
+00:00:25,000 --> 00:00:28,000
+I want to tell you some
+
+9
+00:00:28,000 --> 00:00:31,000
+odd and peculiar facts about fermions first.
+
+10
+00:00:31,000 --> 00:00:34,500
+No, before we even talk about
+
+11
+00:00:34,500 --> 00:00:38,000
+fermions, let's talk about rotations in space.
+
+12
+00:00:38,000 --> 00:00:43,500
+Now, we always say that a rotation by 2 pi
+
+13
+00:00:43,500 --> 00:00:49,000
+is equivalent to no rotation at all, but it's not true.
+
+14
+00:00:49,000 --> 00:00:51,500
+It's not true. Let me assure you
+
+15
+00:00:51,500 --> 00:00:54,000
+that if I take my hand like this,
+
+16
+00:00:54,000 --> 00:00:55,000
+and I rotate it like this,
+
+17
+00:00:55,000 --> 00:00:58,500
+and I rotate my wrist by 2
+
+18
+00:00:58,500 --> 00:01:02,000
+pi, it is not like doing nothing.
+
+19
+00:01:02,000 --> 00:01:06,000
+But then I tell you if I rotate it by
+
+20
+00:01:06,000 --> 00:01:10,000
+4 pi, which I will do for you in a minute,
+
+21
+00:01:10,000 --> 00:01:11,500
+if I rotate it by 4
+
+22
+00:01:11,500 --> 00:01:13,000
+pi, it's equivalent to doing nothing.
+
+23
+00:01:13,000 --> 00:01:14,000
+So you want to see me
+
+24
+00:01:14,000 --> 00:01:15,000
+rotate by 4 pi, don't you?
+
+25
+00:01:15,000 --> 00:01:17,000
+You're going to say, I can't
+
+26
+00:01:17,000 --> 00:01:19,000
+do it. Oh, yes, I can.
+
+27
+00:01:19,000 --> 00:01:21,500
+We started this way, palm up, rotate
+
+28
+00:01:21,500 --> 00:01:24,000
+by 2 pi, it starts to hurt.
+
+29
+00:01:24,000 --> 00:01:28,000
+Palm up, and I come back to nothing.
+
+30
+00:01:28,000 --> 00:01:33,000
+This is a topological theorem about rotations in space.
+
+31
+00:01:33,000 --> 00:01:36,000
+It's a topological theorem, and let me tell
+
+32
+00:01:36,000 --> 00:01:39,000
+you, let me explain the topological theorem to you.
+
+33
+00:01:39,000 --> 00:01:41,500
+I've proved it. I've proved it.
+
+34
+00:01:41,500 --> 00:01:44,000
+I don't need to prove it mathematically.
+
+35
+00:01:44,000 --> 00:01:48,000
+I've proved it by hand waving.
+
+36
+00:01:48,000 --> 00:01:53,000
+I've proved it by hand waving. Exactly right.
+
+37
+00:01:54,000 --> 00:02:01,000
+But let me tell you what the theorem actually says.
+
+38
+00:02:01,000 --> 00:02:07,000
+Here's the theorem. Take a box.
+
+39
+00:02:07,000 --> 00:02:10,000
+The box has walls. In that box,
+
+40
+00:02:10,000 --> 00:02:13,000
+put a basketball or some sort of object,
+
+41
+00:02:13,000 --> 00:02:15,500
+and connect that basketball to the walls by
+
+42
+00:02:15,500 --> 00:02:18,000
+strings, any number of strings, it doesn't matter.
+
+43
+00:02:18,000 --> 00:02:20,500
+Just connect them by strings. Connect
+
+44
+00:02:20,500 --> 00:02:23,000
+it to the front wall, back wall.
+
+45
+00:02:23,000 --> 00:02:26,500
+Now, I tell you, and I think you'll believe me, that
+
+46
+00:02:26,500 --> 00:02:30,000
+if I take this ball and rotate it by 2 pi,
+
+47
+00:02:30,000 --> 00:02:32,500
+I'm going to get a hell of a tangle.
+
+48
+00:02:32,500 --> 00:02:35,000
+The strings are going to get all tangled up.
+
+49
+00:02:35,000 --> 00:02:38,000
+And the question is, can I untangle
+
+50
+00:02:38,000 --> 00:02:41,000
+them by looping them over the ball,
+
+51
+00:02:41,000 --> 00:02:43,000
+by without rotating the ball further,
+
+52
+00:02:43,000 --> 00:02:45,000
+rotate it around by 2 pi,
+
+53
+00:02:45,000 --> 00:02:47,500
+can I get rid of the tangle
+
+54
+00:02:47,500 --> 00:02:50,000
+and bring it back to this configuration?
+
+55
+00:02:50,000 --> 00:02:52,000
+Anybody know the answer?
+
+56
+00:02:53,000 --> 00:02:55,000
+Rotated by 2 pi.
+
+57
+00:02:55,000 --> 00:02:57,000
+No, no, no, you're not allowed to rotate the box.
+
+58
+00:02:57,000 --> 00:03:01,000
+The box is fixed.
+
+59
+00:03:01,000 --> 00:03:04,000
+So this is a theorem about
+
+60
+00:03:04,000 --> 00:03:07,000
+rotations of the ball keeping spatial infinity,
+
+61
+00:03:07,000 --> 00:03:09,500
+the box really represents spatial
+
+62
+00:03:09,500 --> 00:03:12,000
+infinity, keeping the spatial infinity fixed.
+
+63
+00:03:12,000 --> 00:03:14,000
+You're not allowed to rotate the box.
+
+64
+00:03:14,000 --> 00:03:17,000
+So, question. Can I or
+
+65
+00:03:17,000 --> 00:03:20,000
+can I not undo that rotation?
+
+66
+00:03:20,000 --> 00:03:22,000
+Rotate by another 2 pi.
+
+67
+00:03:22,000 --> 00:03:23,000
+Not yet.
+
+68
+00:03:23,000 --> 00:03:25,000
+Suppose we do not.
+
+69
+00:03:25,000 --> 00:03:27,500
+We simply rotate by 2 pi and we ask,
+
+70
+00:03:27,500 --> 00:03:30,000
+can we undo it by moving around the strings,
+
+71
+00:03:30,000 --> 00:03:32,000
+taking them over the ball,
+
+72
+00:03:32,000 --> 00:03:34,000
+doing whatever we have to do.
+
+73
+00:03:34,000 --> 00:03:36,500
+The strings are flexible, they're
+
+74
+00:03:36,500 --> 00:03:39,000
+even stretchable, but they're unbreakable.
+
+75
+00:03:39,000 --> 00:03:43,000
+And they're connected both to the ball and the boundary.
+
+76
+00:03:43,000 --> 00:03:46,000
+Mathematically, it's the same operation
+
+77
+00:03:46,000 --> 00:03:49,000
+as trying to undo this.
+
+78
+00:03:49,000 --> 00:03:51,000
+The theorem is,
+
+79
+00:03:51,000 --> 00:03:54,000
+it says that a rotation by
+
+80
+00:03:54,000 --> 00:03:57,000
+4 pi, that you can undo it.
+
+81
+00:03:57,000 --> 00:04:00,500
+So, the answer is for any rotation
+
+82
+00:04:00,500 --> 00:04:04,000
+by an even number of 2 pi's,
+
+83
+00:04:04,000 --> 00:04:07,000
+you can undo it by moving the strings around and,
+
+84
+00:04:07,000 --> 00:04:10,000
+you know, taking them over the ball and so forth.
+
+85
+00:04:10,000 --> 00:04:14,000
+And it's a topological theorem about the equivalence between
+
+86
+00:04:14,000 --> 00:04:18,000
+a rotation by 2 pi and no rotation at all.
+
+87
+00:04:18,000 --> 00:04:20,000
+They're not equivalent, really.
+
+88
+00:04:20,000 --> 00:04:22,000
+A rotation by 2 pi is
+
+89
+00:04:22,000 --> 00:04:24,000
+not equivalent topologically to no rotation,
+
+90
+00:04:24,000 --> 00:04:27,000
+but a rotation by 4 pi is.
+
+91
+00:04:27,000 --> 00:04:31,000
+This is kind of unintuitive, but it's true.
+
+92
+00:04:31,000 --> 00:04:33,000
+Okay.
+
+93
+00:04:33,000 --> 00:04:37,000
+Let's now come to the
+
+94
+00:04:37,000 --> 00:04:41,000
+properties of wave functions of particles.
+
+95
+00:04:41,000 --> 00:04:44,000
+And now I'm thinking simply about their spin.
+
+96
+00:04:44,000 --> 00:04:47,000
+Imagine nailing down the position of the particle,
+
+97
+00:04:47,000 --> 00:04:50,000
+and the only thing that's important now is,
+
+98
+00:04:50,000 --> 00:04:54,000
+the spin of the particle.
+
+99
+00:04:54,000 --> 00:04:55,500
+And the spin of a particle
+
+100
+00:04:55,500 --> 00:04:57,000
+is described by a quantum state.
+
+101
+00:04:57,000 --> 00:05:02,000
+Let's call it S for spin.
+
+102
+00:05:02,000 --> 00:05:05,000
+I'm either thinking about fermions or bosons.
+
+103
+00:05:05,000 --> 00:05:08,000
+In the case of fermions, the spin is half integer.
+
+104
+00:05:08,000 --> 00:05:11,000
+In the case of bosons, it's integer.
+
+105
+00:05:11,000 --> 00:05:13,500
+Now the question is, what happens
+
+106
+00:05:13,500 --> 00:05:16,000
+to the state of a particle
+
+107
+00:05:16,000 --> 00:05:19,000
+if you rotate the particle by 2 pi?
+
+108
+00:05:19,000 --> 00:05:21,000
+Now you can imagine for an
+
+109
+00:05:21,000 --> 00:05:23,000
+electron actually doing this in the laboratory,
+
+110
+00:05:23,000 --> 00:05:24,500
+how would you actually rotate the
+
+111
+00:05:24,500 --> 00:05:26,000
+spin of an electron by 2 pi?
+
+112
+00:05:26,000 --> 00:05:29,000
+Anybody know a good way to rotate the...
+
+113
+00:05:29,000 --> 00:05:31,000
+You can grab it with your hand and rotate it,
+
+114
+00:05:31,000 --> 00:05:33,000
+but that doesn't work so well.
+
+115
+00:05:33,000 --> 00:05:35,000
+Magnetic field.
+
+116
+00:05:35,000 --> 00:05:37,000
+You put it in a strong...
+
+117
+00:05:37,000 --> 00:05:38,000
+Two ways you could do it.
+
+118
+00:05:38,000 --> 00:05:41,000
+You can put it into a strong magnetic field,
+
+119
+00:05:41,000 --> 00:05:43,500
+and then rotate the magnetic
+
+120
+00:05:43,500 --> 00:05:46,000
+field around until it comes back.
+
+121
+00:05:46,000 --> 00:05:48,000
+You can actually do something else.
+
+122
+00:05:48,000 --> 00:05:51,000
+If the spin happens to lie in the vertical direction,
+
+123
+00:05:51,000 --> 00:05:52,500
+you can put a magnetic field in and
+
+124
+00:05:52,500 --> 00:05:54,000
+just have it process by itself around there.
+
+125
+00:05:54,000 --> 00:05:56,000
+You don't have to rotate the magnetic field.
+
+126
+00:05:56,000 --> 00:05:58,000
+Either way will do.
+
+127
+00:05:58,000 --> 00:06:03,000
+You can rotate the spin of a charged particle
+
+128
+00:06:03,000 --> 00:06:05,500
+simply by grabbing it with
+
+129
+00:06:05,500 --> 00:06:08,000
+a magnetic field and rotating it.
+
+130
+00:06:08,000 --> 00:06:13,000
+What happens to the state of a spin particle
+
+131
+00:06:13,000 --> 00:06:16,000
+when you do rotate it by 2 pi?
+
+132
+00:06:16,000 --> 00:06:18,000
+Well, usually we say it has to be
+
+133
+00:06:18,000 --> 00:06:20,000
+it has to come back to itself.
+
+134
+00:06:20,000 --> 00:06:23,000
+After all, rotation by 2 pi is nothing at all.
+
+135
+00:06:23,000 --> 00:06:30,000
+But we found out that rotation by 2 pi
+
+136
+00:06:30,000 --> 00:06:33,000
+does... can do something.
+
+137
+00:06:33,000 --> 00:06:35,000
+So we might suspect then
+
+138
+00:06:35,000 --> 00:06:36,500
+that if we rotate the spin
+
+139
+00:06:36,500 --> 00:06:38,000
+of a particle by 2 pi,
+
+140
+00:06:38,000 --> 00:06:40,000
+it gets... something happens to it.
+
+141
+00:06:40,000 --> 00:06:42,000
+The simplest thing that could happen to it
+
+142
+00:06:42,000 --> 00:06:45,000
+is it could just get multiplied by a number.
+
+143
+00:06:48,000 --> 00:06:50,000
+So if I multiply by a number
+
+144
+00:06:50,000 --> 00:06:52,000
+instead of some other more complicated operator,
+
+145
+00:06:52,000 --> 00:06:54,000
+well, that's a little complicated.
+
+146
+00:06:54,000 --> 00:06:58,000
+Why? Because we really, we secretly believe
+
+147
+00:06:58,000 --> 00:07:02,000
+that no experiment will detect the rotation by 2 pi.
+
+148
+00:07:02,000 --> 00:07:05,000
+And if we multiply the wave function of a particle,
+
+149
+00:07:05,000 --> 00:07:08,000
+for example, by a phase or by a minus 1,
+
+150
+00:07:08,000 --> 00:07:10,000
+that won't change any physics.
+
+151
+00:07:10,000 --> 00:07:13,000
+We really secretly believe nothing experimental
+
+152
+00:07:13,000 --> 00:07:16,000
+will be detected by rotating by 2 pi.
+
+153
+00:07:16,000 --> 00:07:19,000
+One possibility is it gets multiplied by 1.
+
+154
+00:07:19,000 --> 00:07:22,000
+Another possibility is it gets multiplied by a phase.
+
+155
+00:07:22,000 --> 00:07:24,000
+But here's what we do know.
+
+156
+00:07:24,000 --> 00:07:27,000
+If we rotate by 4 pi,
+
+157
+00:07:27,000 --> 00:07:29,000
+if we rotate by 2 pi,
+
+158
+00:07:29,000 --> 00:07:32,000
+and that gives us some sort of phase,
+
+159
+00:07:32,000 --> 00:07:34,000
+at e to the i theta,
+
+160
+00:07:34,000 --> 00:07:36,000
+then rotating again by 2 pi,
+
+161
+00:07:36,000 --> 00:07:39,000
+we'll just square this.
+
+162
+00:07:39,000 --> 00:07:42,000
+And now we know that rotating by 4 pi
+
+163
+00:07:42,000 --> 00:07:45,000
+is equivalent to doing nothing at all.
+
+164
+00:07:45,000 --> 00:07:46,000
+Okay?
+
+165
+00:07:46,000 --> 00:07:48,000
+So if we rotate by 4 pi,
+
+166
+00:07:48,000 --> 00:07:50,000
+we'll just square this.
+
+167
+00:07:50,000 --> 00:07:52,000
+And now we know that rotating by 4 pi
+
+168
+00:07:52,000 --> 00:07:54,000
+is equivalent to doing nothing at all.
+
+169
+00:07:54,000 --> 00:07:56,000
+And now we know that rotating by 4 pi
+
+170
+00:07:56,000 --> 00:07:58,000
+is equivalent to doing nothing at all.
+
+171
+00:07:58,000 --> 00:08:00,000
+So we can say that the mathematical argument
+
+172
+00:08:00,000 --> 00:08:02,000
+says that xi squared must equal 1,
+
+173
+00:08:02,000 --> 00:08:04,000
+and there's only two possibilities,
+
+174
+00:08:04,000 --> 00:08:06,000
+xi is equal to plus 1 or minus 1.
+
+175
+00:08:06,000 --> 00:08:09,000
+So we could have either possibility
+
+176
+00:08:09,000 --> 00:08:12,000
+when you rotate a particle by 2 pi
+
+177
+00:08:12,000 --> 00:08:14,000
+just at spin,
+
+178
+00:08:14,000 --> 00:08:15,000
+you either multiply it by plus 1,
+
+179
+00:08:15,000 --> 00:08:17,000
+or you multiply it by 2 pi.
+
+180
+00:08:17,000 --> 00:08:19,000
+And that's the answer.
+
+181
+00:08:19,000 --> 00:08:21,000
+An interesting question is,
+
+182
+00:08:21,000 --> 00:08:23,000
+can you ever imagine,
+
+183
+00:08:23,000 --> 00:08:25,000
+just as a side issue,
+
+184
+00:08:25,000 --> 00:08:29,000
+is there ever any experimental
+
+185
+00:08:29,000 --> 00:08:33,000
+observable consequence
+
+186
+00:08:33,000 --> 00:08:35,000
+of the fact,
+
+187
+00:08:35,000 --> 00:08:37,000
+the potential fact,
+
+188
+00:08:37,000 --> 00:08:39,000
+that the wave function of a particle
+
+189
+00:08:39,000 --> 00:08:41,000
+might change sign
+
+190
+00:08:41,000 --> 00:08:43,000
+when you rotate the particle.
+
+191
+00:08:43,000 --> 00:08:45,000
+And it was generally confirmed
+
+192
+00:08:45,000 --> 00:08:47,000
+that the magnetic field
+
+193
+00:08:47,000 --> 00:08:49,000
+was considered to be a totally
+
+194
+00:08:49,000 --> 00:08:51,000
+unphysical operation,
+
+195
+00:08:51,000 --> 00:08:53,000
+you could never detect it.
+
+196
+00:08:53,000 --> 00:08:55,000
+In other words,
+
+197
+00:08:55,000 --> 00:08:57,000
+here would be the experiment.
+
+198
+00:08:57,000 --> 00:08:59,000
+You take a whole family of electrons
+
+199
+00:08:59,000 --> 00:09:01,000
+all prepared identically.
+
+200
+00:09:01,000 --> 00:09:03,000
+You take half of them
+
+201
+00:09:03,000 --> 00:09:05,000
+and you stick them into a magnetic field,
+
+202
+00:09:05,000 --> 00:09:07,000
+and you rotate the magnetic field by 2 pi.
+
+203
+00:09:07,000 --> 00:09:09,000
+You take the other half
+
+204
+00:09:09,000 --> 00:09:11,000
+and you do nothing with them.
+
+205
+00:09:11,000 --> 00:09:13,000
+At the end of the day,
+
+206
+00:09:13,000 --> 00:09:15,000
+is there any experimental difference between them?
+
+207
+00:09:15,000 --> 00:09:17,000
+No, you cannot tell the difference
+
+208
+00:09:17,000 --> 00:09:19,000
+which ones got rotated.
+
+209
+00:09:19,000 --> 00:09:21,000
+But you can do something else,
+
+210
+00:09:21,000 --> 00:09:23,000
+and I'll tell you what it is.
+
+211
+00:09:23,000 --> 00:09:25,000
+You can do a two-slit experiment.
+
+212
+00:09:25,000 --> 00:09:27,000
+Just to tell you the meaning
+
+213
+00:09:27,000 --> 00:09:29,000
+of this odd mathematical fact,
+
+214
+00:09:29,000 --> 00:09:31,000
+you can do a two-slit experiment
+
+215
+00:09:33,000 --> 00:09:35,000
+in which you take electrons,
+
+216
+00:09:35,000 --> 00:09:37,000
+let's start with a single electron,
+
+217
+00:09:37,000 --> 00:09:39,000
+not multiple electrons,
+
+218
+00:09:39,000 --> 00:09:41,000
+or one by one.
+
+219
+00:09:41,000 --> 00:09:43,000
+We take electrons one by one
+
+220
+00:09:43,000 --> 00:09:45,000
+and we send them through.
+
+221
+00:09:45,000 --> 00:09:47,000
+It either goes through the upper slit
+
+222
+00:09:47,000 --> 00:09:49,000
+or the lower slit.
+
+223
+00:09:49,000 --> 00:09:51,000
+We don't know which.
+
+224
+00:09:51,000 --> 00:09:53,000
+We're not allowed to look,
+
+225
+00:09:53,000 --> 00:09:55,000
+because if we look,
+
+226
+00:09:55,000 --> 00:09:57,000
+we will destroy the interference pattern over here.
+
+227
+00:09:57,000 --> 00:09:59,000
+Some interference pattern over here.
+
+228
+00:09:59,000 --> 00:10:01,000
+But now what we're going to do,
+
+229
+00:10:01,000 --> 00:10:03,000
+without looking at whether the electron is here or here,
+
+230
+00:10:03,000 --> 00:10:05,000
+we're going to place a magnetic field over here,
+
+231
+00:10:05,000 --> 00:10:07,000
+a B field over here.
+
+232
+00:10:09,000 --> 00:10:11,000
+We'll also do the same thing over here.
+
+233
+00:10:11,000 --> 00:10:13,000
+And we'll imagine
+
+234
+00:10:13,000 --> 00:10:15,000
+that the electron is here,
+
+235
+00:10:15,000 --> 00:10:17,000
+and the electron gets temporarily trapped
+
+236
+00:10:17,000 --> 00:10:19,000
+in this region by whatever.
+
+237
+00:10:19,000 --> 00:10:21,000
+Temporarily trapped
+
+238
+00:10:21,000 --> 00:10:23,000
+and then re-emitted.
+
+239
+00:10:23,000 --> 00:10:25,000
+If we do absolutely nothing
+
+240
+00:10:25,000 --> 00:10:27,000
+to these B fields,
+
+241
+00:10:27,000 --> 00:10:29,000
+we'll still get some interference pattern here.
+
+242
+00:10:29,000 --> 00:10:31,000
+Either the electron goes up through here
+
+243
+00:10:31,000 --> 00:10:33,000
+and gets stuck in the B field
+
+244
+00:10:33,000 --> 00:10:35,000
+and then gets re-emitted,
+
+245
+00:10:35,000 --> 00:10:37,000
+B field is not very interesting,
+
+246
+00:10:37,000 --> 00:10:39,000
+or same thing over here.
+
+247
+00:10:39,000 --> 00:10:41,000
+But now we do the following.
+
+248
+00:10:41,000 --> 00:10:43,000
+We do the two-slit experiment
+
+249
+00:10:43,000 --> 00:10:45,000
+and while the electron
+
+250
+00:10:45,000 --> 00:10:47,000
+is trapped in one of these two,
+
+251
+00:10:47,000 --> 00:10:49,000
+we rotate one of them and not the other.
+
+252
+00:10:49,000 --> 00:10:51,000
+We rotate one of them
+
+253
+00:10:51,000 --> 00:10:53,000
+and not the other.
+
+254
+00:10:53,000 --> 00:10:55,000
+Then the wave function here
+
+255
+00:10:55,000 --> 00:10:57,000
+may or may not get multiplied
+
+256
+00:10:57,000 --> 00:10:59,000
+by a minus sign,
+
+257
+00:10:59,000 --> 00:11:01,000
+but let's suppose it does.
+
+258
+00:11:01,000 --> 00:11:03,000
+The wave function in here does not get multiplied
+
+259
+00:11:03,000 --> 00:11:05,000
+by a minus sign.
+
+260
+00:11:07,000 --> 00:11:09,000
+It either gets multiplied
+
+261
+00:11:09,000 --> 00:11:11,000
+by a minus sign or a plus sign.
+
+262
+00:11:11,000 --> 00:11:13,000
+If it gets multiplied by a plus sign,
+
+263
+00:11:13,000 --> 00:11:15,000
+no detection.
+
+264
+00:11:15,000 --> 00:11:17,000
+If it gets multiplied by a minus sign,
+
+265
+00:11:17,000 --> 00:11:19,000
+and this one, the wave function coming out of here
+
+266
+00:11:19,000 --> 00:11:20,000
+does not get, what does
+
+267
+00:11:20,000 --> 00:11:21,000
+that do to the interference pattern?
+
+268
+00:11:21,000 --> 00:11:23,000
+It shifts it.
+
+269
+00:11:23,000 --> 00:11:25,000
+It shifts it up half a wavelength.
+
+270
+00:11:25,000 --> 00:11:27,000
+It shifts maxima to minima.
+
+271
+00:11:27,000 --> 00:11:29,000
+It shifts maxima to minima.
+
+272
+00:11:29,000 --> 00:11:31,000
+So yes, you can detect
+
+273
+00:11:31,000 --> 00:11:33,000
+this odd sign change,
+
+274
+00:11:33,000 --> 00:11:35,000
+but only by splitting a beam of electrons
+
+275
+00:11:35,000 --> 00:11:37,000
+but only by splitting a beam of electrons
+
+276
+00:11:37,000 --> 00:11:39,000
+and then rotating half the beam
+
+277
+00:11:39,000 --> 00:11:41,000
+and not the other half beam.
+
+278
+00:11:41,000 --> 00:11:43,000
+So it is an experimental,
+
+279
+00:11:43,000 --> 00:11:45,000
+it's a very interesting experiment.
+
+280
+00:11:45,000 --> 00:11:47,000
+It's a real phenomenon.
+
+281
+00:11:47,000 --> 00:11:49,000
+But if you were to take the whole experiment
+
+282
+00:11:49,000 --> 00:11:51,000
+and rotate all of it,
+
+283
+00:11:51,000 --> 00:11:53,000
+both magnetic fields simultaneously,
+
+284
+00:11:53,000 --> 00:11:55,000
+then you detect nothing.
+
+285
+00:11:55,000 --> 00:11:57,000
+Okay?
+
+286
+00:11:57,000 --> 00:11:59,000
+Alright.
+
+287
+00:11:59,000 --> 00:12:01,000
+It's very similar in mathematical structure
+
+288
+00:12:01,000 --> 00:12:03,000
+to the story
+
+289
+00:12:03,000 --> 00:12:05,000
+that if you rotate the ball
+
+290
+00:12:05,000 --> 00:12:07,000
+without rotating the box,
+
+291
+00:12:07,000 --> 00:12:09,000
+without rotating the box,
+
+292
+00:12:09,000 --> 00:12:11,000
+you can detect the fact
+
+293
+00:12:11,000 --> 00:12:13,000
+that you've rotated it by 2 pi.
+
+294
+00:12:13,000 --> 00:12:15,000
+If you're allowed to rotate
+
+295
+00:12:15,000 --> 00:12:17,000
+the whole thing,
+
+296
+00:12:17,000 --> 00:12:19,000
+ball and box, of course you can't.
+
+297
+00:12:19,000 --> 00:12:21,000
+So it's a similar kind of thing.
+
+298
+00:12:21,000 --> 00:12:23,000
+If you rotate it by 4 pi...
+
+299
+00:12:23,000 --> 00:12:25,000
+Yeah, exactly.
+
+300
+00:12:25,000 --> 00:12:27,000
+If you rotate the magnetic field
+
+301
+00:12:27,000 --> 00:12:29,000
+by 4 pi,
+
+302
+00:12:29,000 --> 00:12:31,000
+the effect goes away.
+
+303
+00:12:31,000 --> 00:12:33,000
+Right.
+
+304
+00:12:33,000 --> 00:12:35,000
+And this incident has been done
+
+305
+00:12:35,000 --> 00:12:37,000
+in the laboratory.
+
+306
+00:12:37,000 --> 00:12:39,000
+It was an experiment that was suggested
+
+307
+00:12:39,000 --> 00:12:41,000
+by Aharonov and myself in 1967.
+
+308
+00:12:41,000 --> 00:12:43,000
+It was actually done.
+
+309
+00:12:43,000 --> 00:12:45,000
+That's what you said.
+
+310
+00:12:45,000 --> 00:12:47,000
+Yeah, okay, so for...
+
+311
+00:12:47,000 --> 00:12:49,000
+Okay, so now you could...
+
+312
+00:12:49,000 --> 00:12:51,000
+You could do experiments with electrons,
+
+313
+00:12:51,000 --> 00:12:53,000
+you could do experiments with
+
+314
+00:12:53,000 --> 00:12:55,000
+charged ions of various kinds,
+
+315
+00:12:55,000 --> 00:12:57,000
+and you could see which ones
+
+316
+00:12:57,000 --> 00:12:59,000
+fall into the category
+
+317
+00:12:59,000 --> 00:13:01,000
+of getting a minus one
+
+318
+00:13:01,000 --> 00:13:03,000
+and which ones don't.
+
+319
+00:13:03,000 --> 00:13:05,000
+The ones that don't have a minus one
+
+320
+00:13:05,000 --> 00:13:07,000
+are the ones where the interference pattern
+
+321
+00:13:07,000 --> 00:13:09,000
+does not shift.
+
+322
+00:13:09,000 --> 00:13:11,000
+The ones that do get a minus sign
+
+323
+00:13:11,000 --> 00:13:13,000
+are the ones where the interference pattern
+
+324
+00:13:13,000 --> 00:13:15,000
+does shift.
+
+325
+00:13:15,000 --> 00:13:17,000
+The answer is all fermions
+
+326
+00:13:17,000 --> 00:13:19,000
+get the minus sign,
+
+327
+00:13:19,000 --> 00:13:21,000
+all bosons do not get the minus sign.
+
+328
+00:13:21,000 --> 00:13:23,000
+That's an...
+
+329
+00:13:23,000 --> 00:13:25,000
+First of all,
+
+330
+00:13:25,000 --> 00:13:27,000
+it would be an experimental fact
+
+331
+00:13:27,000 --> 00:13:29,000
+if you really did the experiment.
+
+332
+00:13:29,000 --> 00:13:31,000
+It's also deeply embedded in the structure
+
+333
+00:13:31,000 --> 00:13:33,000
+of the mathematics
+
+334
+00:13:33,000 --> 00:13:35,000
+of quantum field theory
+
+335
+00:13:35,000 --> 00:13:37,000
+and quantum mechanics.
+
+336
+00:13:37,000 --> 00:13:39,000
+All right, so that's an interesting distinction
+
+337
+00:13:39,000 --> 00:13:41,000
+between fermions and bosons.
+
+338
+00:13:41,000 --> 00:13:43,000
+Yeah?
+
+339
+00:13:43,000 --> 00:13:45,000
+How does the analogy with the springs work?
+
+340
+00:13:45,000 --> 00:13:47,000
+Uh...
+
+341
+00:13:47,000 --> 00:13:49,000
+The analogy with the springs...
+
+342
+00:13:49,000 --> 00:13:51,000
+Um...
+
+343
+00:13:51,000 --> 00:13:53,000
+Well,
+
+344
+00:13:53,000 --> 00:13:55,000
+roughly speaking,
+
+345
+00:13:55,000 --> 00:13:57,000
+bosons behave as if they weren't
+
+346
+00:13:57,000 --> 00:13:59,000
+connected by strings to the wall.
+
+347
+00:13:59,000 --> 00:14:01,000
+Fermions have some memory
+
+348
+00:14:01,000 --> 00:14:03,000
+of having been rotated by two pi,
+
+349
+00:14:03,000 --> 00:14:05,000
+so they have a sort of connection
+
+350
+00:14:05,000 --> 00:14:07,000
+to things which remembers
+
+351
+00:14:07,000 --> 00:14:09,000
+whether they rotated by two pi.
+
+352
+00:14:09,000 --> 00:14:11,000
+This is just a method
+
+353
+00:14:11,000 --> 00:14:13,000
+that's been used
+
+354
+00:14:13,000 --> 00:14:15,000
+to find out
+
+355
+00:14:15,000 --> 00:14:17,000
+the mathematical way to see
+
+356
+00:14:17,000 --> 00:14:19,000
+the topology,
+
+357
+00:14:19,000 --> 00:14:21,000
+the topological fact that rotation by two pi
+
+358
+00:14:21,000 --> 00:14:23,000
+is not so innocent
+
+359
+00:14:23,000 --> 00:14:25,000
+whereas rotation by four pi is.
+
+360
+00:14:25,000 --> 00:14:27,000
+But once you know that,
+
+361
+00:14:27,000 --> 00:14:29,000
+I think we forget about this.
+
+362
+00:14:29,000 --> 00:14:31,000
+Are they in the same quantum state?
+
+363
+00:14:31,000 --> 00:14:33,000
+Which?
+
+364
+00:14:33,000 --> 00:14:35,000
+Once that rotated two pi
+
+365
+00:14:35,000 --> 00:14:37,000
+and one that isn't rotated?
+
+366
+00:14:37,000 --> 00:14:39,000
+Yeah, well, no.
+
+367
+00:14:39,000 --> 00:14:41,000
+In this experiment,
+
+368
+00:14:41,000 --> 00:14:43,000
+yeah, the quantum state of this one
+
+369
+00:14:43,000 --> 00:14:45,000
+is localized over here.
+
+370
+00:14:45,000 --> 00:14:47,000
+So what's the idea?
+
+371
+00:14:47,000 --> 00:14:49,000
+The idea is you create
+
+372
+00:14:49,000 --> 00:14:51,000
+one way or another a superposition
+
+373
+00:14:51,000 --> 00:14:53,000
+of states in which the electron
+
+374
+00:14:53,000 --> 00:14:55,000
+is here or it's here.
+
+375
+00:14:55,000 --> 00:14:57,000
+Not two electrons.
+
+376
+00:14:57,000 --> 00:14:59,000
+An electron which is either over here,
+
+377
+00:14:59,000 --> 00:15:01,000
+so a wave function which consists of two bulges,
+
+378
+00:15:01,000 --> 00:15:03,000
+probability a half
+
+379
+00:15:03,000 --> 00:15:05,000
+of the electron to be over here,
+
+380
+00:15:05,000 --> 00:15:07,000
+probability a half of the electron
+
+381
+00:15:07,000 --> 00:15:09,000
+to be over here.
+
+382
+00:15:09,000 --> 00:15:11,000
+Now, both of these electrons now,
+
+383
+00:15:11,000 --> 00:15:13,000
+after you've...
+
+384
+00:15:13,000 --> 00:15:15,000
+Not both of the electrons, one electron
+
+385
+00:15:15,000 --> 00:15:17,000
+but if the electron is here,
+
+386
+00:15:17,000 --> 00:15:19,000
+we're actually putting it inside a box.
+
+387
+00:15:19,000 --> 00:15:21,000
+Put it inside a box.
+
+388
+00:15:21,000 --> 00:15:23,000
+So we create an electron over here.
+
+389
+00:15:23,000 --> 00:15:25,000
+We split the beam,
+
+390
+00:15:25,000 --> 00:15:27,000
+which means we create a superposition
+
+391
+00:15:27,000 --> 00:15:29,000
+of states where it might be here
+
+392
+00:15:29,000 --> 00:15:31,000
+or it might be here
+
+393
+00:15:31,000 --> 00:15:33,000
+with probability a half.
+
+394
+00:15:33,000 --> 00:15:35,000
+And then we rotate this box.
+
+395
+00:15:35,000 --> 00:15:37,000
+Put a magnetic field in it.
+
+396
+00:15:37,000 --> 00:15:39,000
+We rotate it.
+
+397
+00:15:39,000 --> 00:15:40,000
+We don't ask whether there's
+
+398
+00:15:40,000 --> 00:15:41,000
+an electron in it or not.
+
+399
+00:15:41,000 --> 00:15:43,000
+Whether or not there is an electron in it,
+
+400
+00:15:43,000 --> 00:15:45,000
+we rotate the box.
+
+401
+00:15:45,000 --> 00:15:47,000
+Now, to start with,
+
+402
+00:15:47,000 --> 00:15:49,000
+the wave function was a sum of two terms.
+
+403
+00:15:49,000 --> 00:15:51,000
+Psi one,
+
+404
+00:15:51,000 --> 00:15:53,000
+which is the wave function in here,
+
+405
+00:15:53,000 --> 00:15:55,000
+and psi two,
+
+406
+00:15:55,000 --> 00:15:57,000
+which is the wave function here.
+
+407
+00:15:57,000 --> 00:15:59,000
+Psi one plus psi two
+
+408
+00:15:59,000 --> 00:16:01,000
+was the full wave function.
+
+409
+00:16:01,000 --> 00:16:03,000
+Now we rotate
+
+410
+00:16:03,000 --> 00:16:05,000
+the right-hand box
+
+411
+00:16:05,000 --> 00:16:07,000
+without...
+
+412
+00:16:07,000 --> 00:16:09,000
+If we rotate both boxes for the electron,
+
+413
+00:16:09,000 --> 00:16:11,000
+electron being a fermion,
+
+414
+00:16:11,000 --> 00:16:13,000
+then the whole wave function changes sign.
+
+415
+00:16:13,000 --> 00:16:15,000
+If the whole wave function
+
+416
+00:16:15,000 --> 00:16:17,000
+changes sign,
+
+417
+00:16:17,000 --> 00:16:19,000
+remember all physical quantities
+
+418
+00:16:19,000 --> 00:16:21,000
+are proportional to the wave function
+
+419
+00:16:21,000 --> 00:16:23,000
+times its own complex conjugate,
+
+420
+00:16:23,000 --> 00:16:25,000
+and the minus sign will cancel out.
+
+421
+00:16:25,000 --> 00:16:27,000
+But now supposing we rotate
+
+422
+00:16:27,000 --> 00:16:29,000
+one box relative to the other.
+
+423
+00:16:29,000 --> 00:16:31,000
+Then what happens
+
+424
+00:16:31,000 --> 00:16:33,000
+is after the...
+
+425
+00:16:33,000 --> 00:16:35,000
+after the rotation,
+
+426
+00:16:35,000 --> 00:16:37,000
+this wave function has changed sign,
+
+427
+00:16:37,000 --> 00:16:39,000
+this one has not.
+
+428
+00:16:39,000 --> 00:16:41,000
+Let me give you a consequence of that.
+
+429
+00:16:41,000 --> 00:16:43,000
+If these two wave functions
+
+430
+00:16:43,000 --> 00:16:45,000
+were identical,
+
+431
+00:16:45,000 --> 00:16:47,000
+about reflection,
+
+432
+00:16:47,000 --> 00:16:49,000
+about the center here,
+
+433
+00:16:49,000 --> 00:16:51,000
+that would say that after the rotation,
+
+434
+00:16:51,000 --> 00:16:53,000
+the wave function must vanish
+
+435
+00:16:53,000 --> 00:16:55,000
+at the center here.
+
+436
+00:16:55,000 --> 00:16:57,000
+If psi one and psi two
+
+437
+00:16:57,000 --> 00:16:59,000
+have exactly the same shape,
+
+438
+00:16:59,000 --> 00:17:01,000
+and let's even suppose...
+
+439
+00:17:01,000 --> 00:17:03,000
+Yeah, alright.
+
+440
+00:17:03,000 --> 00:17:05,000
+After we bring them back together again.
+
+441
+00:17:05,000 --> 00:17:07,000
+By symmetry, the wave function will vanish
+
+442
+00:17:07,000 --> 00:17:09,000
+at the center here
+
+443
+00:17:09,000 --> 00:17:11,000
+if the wave function is odd.
+
+444
+00:17:11,000 --> 00:17:13,000
+If the wave function is even,
+
+445
+00:17:13,000 --> 00:17:15,000
+then after we bring them back together again,
+
+446
+00:17:15,000 --> 00:17:17,000
+it doesn't have to vanish at the center.
+
+447
+00:17:17,000 --> 00:17:19,000
+So an interesting consequence of this
+
+448
+00:17:19,000 --> 00:17:21,000
+is if this one is a fermion
+
+449
+00:17:21,000 --> 00:17:23,000
+and we rotate by two pi
+
+450
+00:17:23,000 --> 00:17:25,000
+and then bring the wave functions back together again,
+
+451
+00:17:25,000 --> 00:17:27,000
+we will never find the electron at the center.
+
+452
+00:17:27,000 --> 00:17:29,000
+That's an example
+
+453
+00:17:29,000 --> 00:17:31,000
+of an interference phenomena.
+
+454
+00:17:31,000 --> 00:17:33,000
+But,
+
+455
+00:17:33,000 --> 00:17:35,000
+the point is that there is a difference
+
+456
+00:17:35,000 --> 00:17:37,000
+between psi one minus psi two
+
+457
+00:17:37,000 --> 00:17:39,000
+and psi one plus psi two.
+
+458
+00:17:39,000 --> 00:17:41,000
+And that difference
+
+459
+00:17:41,000 --> 00:17:43,000
+can be experimentally detected.
+
+460
+00:17:43,000 --> 00:17:45,000
+Is it the case that
+
+461
+00:17:45,000 --> 00:17:47,000
+if you don't do a full rotation,
+
+462
+00:17:47,000 --> 00:17:49,000
+that basically the amount of rotation
+
+463
+00:17:49,000 --> 00:17:51,000
+is half as much for a boson
+
+464
+00:17:51,000 --> 00:17:53,000
+or twice as much
+
+465
+00:17:53,000 --> 00:17:55,000
+or something like that?
+
+466
+00:17:55,000 --> 00:17:57,000
+Well,
+
+467
+00:17:57,000 --> 00:17:59,000
+there is something like that,
+
+468
+00:17:59,000 --> 00:18:01,000
+but that's not...
+
+469
+00:18:01,000 --> 00:18:03,000
+Yeah, there is...
+
+470
+00:18:03,000 --> 00:18:05,000
+Would you say that you could tell
+
+471
+00:18:05,000 --> 00:18:07,000
+the loophole with the electron wet proof?
+
+472
+00:18:07,000 --> 00:18:09,000
+If you look for the electron
+
+473
+00:18:09,000 --> 00:18:11,000
+in such a way that you can tell afterwards
+
+474
+00:18:11,000 --> 00:18:13,000
+which one it was in,
+
+475
+00:18:13,000 --> 00:18:15,000
+then the interference pattern is destroyed.
+
+476
+00:18:15,000 --> 00:18:17,000
+What happens if instead of a screen
+
+477
+00:18:17,000 --> 00:18:19,000
+you test...
+
+478
+00:18:19,000 --> 00:18:21,000
+Let's say you put it all right,
+
+479
+00:18:21,000 --> 00:18:23,000
+all the spins are all in one direction
+
+480
+00:18:23,000 --> 00:18:25,000
+and at the screen you test
+
+481
+00:18:25,000 --> 00:18:27,000
+the resulting spin.
+
+482
+00:18:27,000 --> 00:18:29,000
+Will that destroy the interference pattern?
+
+483
+00:18:29,000 --> 00:18:31,000
+All the spins are in one direction.
+
+484
+00:18:31,000 --> 00:18:33,000
+Okay,
+
+485
+00:18:33,000 --> 00:18:35,000
+they are all in the same direction.
+
+486
+00:18:35,000 --> 00:18:37,000
+Oh, I see.
+
+487
+00:18:37,000 --> 00:18:39,000
+They still stay in the same direction,
+
+488
+00:18:39,000 --> 00:18:41,000
+just get a minus sign.
+
+489
+00:18:41,000 --> 00:18:43,000
+That's right.
+
+490
+00:18:43,000 --> 00:18:45,000
+Is it true that if you only
+
+491
+00:18:45,000 --> 00:18:49,000
+if you didn't turn it to pi,
+
+492
+00:18:49,000 --> 00:18:51,000
+to turn it just pi...
+
+493
+00:18:51,000 --> 00:18:53,000
+Oh, then it's certainly detectable
+
+494
+00:18:53,000 --> 00:18:55,000
+to change the direction of the spin.
+
+495
+00:18:55,000 --> 00:18:57,000
+Then the interference pattern
+
+496
+00:18:57,000 --> 00:18:59,000
+would be destroyed.
+
+497
+00:18:59,000 --> 00:19:01,000
+Right, the interference pattern
+
+498
+00:19:01,000 --> 00:19:03,000
+would be completely destroyed.
+
+499
+00:19:03,000 --> 00:19:05,000
+Basically, as you tune it,
+
+500
+00:19:05,000 --> 00:19:07,000
+you can tune it to get an interference pattern.
+
+501
+00:19:07,000 --> 00:19:09,000
+That's right.
+
+502
+00:19:09,000 --> 00:19:11,000
+If you rotate that spin,
+
+503
+00:19:11,000 --> 00:19:13,000
+you tend to destroy...
+
+504
+00:19:13,000 --> 00:19:15,000
+Rotate the spin by anything
+
+505
+00:19:15,000 --> 00:19:17,000
+whether it's 2 pi or 4 pi,
+
+506
+00:19:17,000 --> 00:19:19,000
+you'll lose some of the interference pattern.
+
+507
+00:19:19,000 --> 00:19:21,000
+If you actually rotate it by 180 degrees,
+
+508
+00:19:21,000 --> 00:19:23,000
+you completely destroy the interference pattern.
+
+509
+00:19:23,000 --> 00:19:25,000
+Right, that's correct.
+
+510
+00:19:27,000 --> 00:19:29,000
+You can't interfere an up spin with a down spin.
+
+511
+00:19:31,000 --> 00:19:33,000
+You can only interfere things
+
+512
+00:19:33,000 --> 00:19:35,000
+which are otherwise the same.
+
+513
+00:19:35,000 --> 00:19:37,000
+Yeah.
+
+514
+00:19:37,000 --> 00:19:39,000
+Good, all right.
+
+515
+00:19:39,000 --> 00:19:41,000
+Good, so we now have some bits of information
+
+516
+00:19:41,000 --> 00:19:43,000
+about fermions.
+
+517
+00:19:43,000 --> 00:19:45,000
+They change sign on the rotation.
+
+518
+00:19:45,000 --> 00:19:47,000
+They don't.
+
+519
+00:19:47,000 --> 00:19:51,000
+Now, let's come to yet another question.
+
+520
+00:19:55,000 --> 00:19:57,000
+Let's come to a question about Feynman diagrams.
+
+521
+00:19:57,000 --> 00:19:59,000
+The kind of Feynman diagrams
+
+522
+00:19:59,000 --> 00:20:01,000
+I have in mind now
+
+523
+00:20:01,000 --> 00:20:03,000
+are very, very simple.
+
+524
+00:20:05,000 --> 00:20:07,000
+They have no external lines at all.
+
+525
+00:20:07,000 --> 00:20:09,000
+They're just Feynman diagrams
+
+526
+00:20:09,000 --> 00:20:11,000
+in the vacuum.
+
+527
+00:20:11,000 --> 00:20:13,000
+Empty space.
+
+528
+00:20:13,000 --> 00:20:15,000
+And they consist of nothing more than
+
+529
+00:20:15,000 --> 00:20:17,000
+a single closed loop.
+
+530
+00:20:17,000 --> 00:20:19,000
+A single closed loop.
+
+531
+00:20:19,000 --> 00:20:21,000
+It could be an electron
+
+532
+00:20:21,000 --> 00:20:23,000
+or it could be a photon, for example.
+
+533
+00:20:23,000 --> 00:20:25,000
+It could be a fermion
+
+534
+00:20:25,000 --> 00:20:27,000
+or it could be a boson.
+
+535
+00:20:27,000 --> 00:20:29,000
+And this Feynman diagram,
+
+536
+00:20:29,000 --> 00:20:31,000
+among other things,
+
+537
+00:20:31,000 --> 00:20:33,000
+controls,
+
+538
+00:20:33,000 --> 00:20:35,000
+it's first of all,
+
+539
+00:20:35,000 --> 00:20:37,000
+among other things,
+
+540
+00:20:37,000 --> 00:20:39,000
+the amplitude that you start with nothing
+
+541
+00:20:39,000 --> 00:20:41,000
+and you get nothing.
+
+542
+00:20:41,000 --> 00:20:43,000
+So it's part of the value of the function.
+
+543
+00:20:43,000 --> 00:20:45,000
+So it's part of the vacuum structure.
+
+544
+00:20:45,000 --> 00:20:47,000
+The diagram has a value.
+
+545
+00:20:47,000 --> 00:20:49,000
+That value is a contribution
+
+546
+00:20:49,000 --> 00:20:51,000
+to the vacuum energy.
+
+547
+00:20:51,000 --> 00:20:53,000
+Let's not try to understand
+
+548
+00:20:53,000 --> 00:20:55,000
+precisely why that's so.
+
+549
+00:20:55,000 --> 00:20:57,000
+But just like the diagram
+
+550
+00:20:57,000 --> 00:20:59,000
+which is attached to the particle here
+
+551
+00:20:59,000 --> 00:21:01,000
+shifts the energy of the particle,
+
+552
+00:21:01,000 --> 00:21:03,000
+a diagram like this
+
+553
+00:21:03,000 --> 00:21:05,000
+in free-floating space
+
+554
+00:21:05,000 --> 00:21:07,000
+would shift the energy of a vacuum.
+
+555
+00:21:07,000 --> 00:21:09,000
+The question is,
+
+556
+00:21:09,000 --> 00:21:11,000
+how do you know
+
+557
+00:21:11,000 --> 00:21:13,000
+how much energy is in the vacuum?
+
+558
+00:21:13,000 --> 00:21:15,000
+The question is,
+
+559
+00:21:15,000 --> 00:21:17,000
+does it shift it up or down?
+
+560
+00:21:17,000 --> 00:21:19,000
+And we're going to find out
+
+561
+00:21:19,000 --> 00:21:21,000
+that the answer is different
+
+562
+00:21:21,000 --> 00:21:23,000
+for bosons and fermions.
+
+563
+00:21:23,000 --> 00:21:25,000
+So, let's think about
+
+564
+00:21:25,000 --> 00:21:27,000
+the sign,
+
+565
+00:21:27,000 --> 00:21:29,000
+just the sign
+
+566
+00:21:29,000 --> 00:21:31,000
+of a diagram which looks like this
+
+567
+00:21:31,000 --> 00:21:33,000
+for fermions or bosons.
+
+568
+00:21:33,000 --> 00:21:35,000
+Now amazingly,
+
+569
+00:21:35,000 --> 00:21:37,000
+without doing any work at all,
+
+570
+00:21:39,000 --> 00:21:41,000
+we can prove
+
+571
+00:21:41,000 --> 00:21:43,000
+the desired result,
+
+572
+00:21:43,000 --> 00:21:45,000
+which I will show you now.
+
+573
+00:21:45,000 --> 00:21:47,000
+No work at all.
+
+574
+00:21:47,000 --> 00:21:49,000
+Very little.
+
+575
+00:21:49,000 --> 00:21:51,000
+Very little.
+
+576
+00:21:53,000 --> 00:21:55,000
+Here's the way we do it.
+
+577
+00:21:55,000 --> 00:21:57,000
+Let's start
+
+578
+00:21:57,000 --> 00:21:59,000
+with the boson case.
+
+579
+00:21:59,000 --> 00:22:01,000
+Well, let's start,
+
+580
+00:22:01,000 --> 00:22:03,000
+we can take both cases simultaneously.
+
+581
+00:22:03,000 --> 00:22:05,000
+And let's begin
+
+582
+00:22:05,000 --> 00:22:07,000
+with two loops.
+
+583
+00:22:07,000 --> 00:22:09,000
+In other words,
+
+584
+00:22:09,000 --> 00:22:11,000
+there are, what is a loop?
+
+585
+00:22:11,000 --> 00:22:13,000
+A loop is a pair of particles
+
+586
+00:22:13,000 --> 00:22:15,000
+in the subsequent annihilation of it.
+
+587
+00:22:15,000 --> 00:22:17,000
+Or you can just think of it
+
+588
+00:22:17,000 --> 00:22:19,000
+as a particle going around
+
+589
+00:22:19,000 --> 00:22:21,000
+in a closed loop in space-time.
+
+590
+00:22:21,000 --> 00:22:23,000
+You can either think of it
+
+591
+00:22:23,000 --> 00:22:25,000
+as a particle going around
+
+592
+00:22:25,000 --> 00:22:27,000
+in a closed loop in space-time,
+
+593
+00:22:27,000 --> 00:22:29,000
+or more physically,
+
+594
+00:22:29,000 --> 00:22:31,000
+less colorfully,
+
+595
+00:22:31,000 --> 00:22:33,000
+it's a production of a pair of particles,
+
+596
+00:22:33,000 --> 00:22:35,000
+a particle-antiparticle pair,
+
+597
+00:22:35,000 --> 00:22:37,000
+and then the annihilation.
+
+598
+00:22:37,000 --> 00:22:39,000
+Okay, here there are
+
+599
+00:22:39,000 --> 00:22:41,000
+two loops.
+
+600
+00:22:41,000 --> 00:22:43,000
+One loop is a positive sign
+
+601
+00:22:43,000 --> 00:22:45,000
+of the diagram associated
+
+602
+00:22:45,000 --> 00:22:47,000
+with just one loop.
+
+603
+00:22:47,000 --> 00:22:49,000
+It can either be positive or negative.
+
+604
+00:22:49,000 --> 00:22:51,000
+What about
+
+605
+00:22:51,000 --> 00:22:53,000
+two separate loops like this?
+
+606
+00:22:55,000 --> 00:22:57,000
+The Feynman diagram consisting
+
+607
+00:22:57,000 --> 00:22:59,000
+of two separate loops is just the product
+
+608
+00:22:59,000 --> 00:23:01,000
+of the Feynman diagrams for each loop
+
+609
+00:23:01,000 --> 00:23:03,000
+separately.
+
+610
+00:23:03,000 --> 00:23:05,000
+If there's a plus sign
+
+611
+00:23:05,000 --> 00:23:07,000
+for one loop,
+
+612
+00:23:07,000 --> 00:23:09,000
+then there will be a plus sign for two loops.
+
+613
+00:23:09,000 --> 00:23:11,000
+What about if there's a minus sign
+
+614
+00:23:11,000 --> 00:23:13,000
+for one loop?
+
+615
+00:23:13,000 --> 00:23:15,000
+There'll still be a plus sign for two loops.
+
+616
+00:23:15,000 --> 00:23:17,000
+So the answer for two loops
+
+617
+00:23:17,000 --> 00:23:19,000
+like this, disconnected loops
+
+618
+00:23:19,000 --> 00:23:21,000
+like this, is always positive.
+
+619
+00:23:21,000 --> 00:23:23,000
+Whether or not
+
+620
+00:23:23,000 --> 00:23:25,000
+the sign for one loop is negative.
+
+621
+00:23:25,000 --> 00:23:27,000
+Now, let's
+
+622
+00:23:27,000 --> 00:23:29,000
+do the following.
+
+623
+00:23:29,000 --> 00:23:31,000
+Let's assume
+
+624
+00:23:31,000 --> 00:23:33,000
+that our particles are fermions.
+
+625
+00:23:33,000 --> 00:23:35,000
+Let's break this over here
+
+626
+00:23:35,000 --> 00:23:37,000
+and look at it
+
+627
+00:23:39,000 --> 00:23:41,000
+right in the middle
+
+628
+00:23:41,000 --> 00:23:43,000
+at t equals zero.
+
+629
+00:23:43,000 --> 00:23:45,000
+While these two things are here,
+
+630
+00:23:45,000 --> 00:23:47,000
+let's put them
+
+631
+00:23:47,000 --> 00:23:49,000
+close enough together
+
+632
+00:23:49,000 --> 00:23:51,000
+that they almost overlap.
+
+633
+00:23:53,000 --> 00:23:55,000
+What happens
+
+634
+00:23:55,000 --> 00:23:57,000
+What happens
+
+635
+00:23:57,000 --> 00:23:59,000
+to the amplitude
+
+636
+00:23:59,000 --> 00:24:01,000
+for a system
+
+637
+00:24:01,000 --> 00:24:03,000
+if you interchange
+
+638
+00:24:03,000 --> 00:24:05,000
+two bosons?
+
+639
+00:24:05,000 --> 00:24:07,000
+If you take the two bosons
+
+640
+00:24:07,000 --> 00:24:09,000
+and exchange them?
+
+641
+00:24:09,000 --> 00:24:11,000
+Plus sign.
+
+642
+00:24:11,000 --> 00:24:13,000
+The wave function for bosons
+
+643
+00:24:13,000 --> 00:24:15,000
+is always symmetric,
+
+644
+00:24:15,000 --> 00:24:17,000
+which means if you interchange them,
+
+645
+00:24:17,000 --> 00:24:19,000
+plus sign.
+
+646
+00:24:19,000 --> 00:24:21,000
+What happens if you take two fermions
+
+647
+00:24:21,000 --> 00:24:23,000
+and interchange them?
+
+648
+00:24:23,000 --> 00:24:25,000
+Minus sign.
+
+649
+00:24:25,000 --> 00:24:27,000
+That's the property of fermions and bosons.
+
+650
+00:24:27,000 --> 00:24:29,000
+For fermions, the wave functions are anti-symmetric,
+
+651
+00:24:29,000 --> 00:24:31,000
+and so if you interchange the two fermions,
+
+652
+00:24:31,000 --> 00:24:33,000
+you get a minus sign.
+
+653
+00:24:33,000 --> 00:24:35,000
+For bosons, it's a plus sign.
+
+654
+00:24:35,000 --> 00:24:37,000
+So, we can compare two things.
+
+655
+00:24:37,000 --> 00:24:39,000
+And the first thing,
+
+656
+00:24:39,000 --> 00:24:41,000
+we take these and we don't interchange them.
+
+657
+00:24:41,000 --> 00:24:43,000
+That's just two loops.
+
+658
+00:24:43,000 --> 00:24:45,000
+And the second thing,
+
+659
+00:24:47,000 --> 00:24:49,000
+before closing it up,
+
+660
+00:24:49,000 --> 00:24:51,000
+we interchange them.
+
+661
+00:24:51,000 --> 00:24:53,000
+We just interchange which one is which.
+
+662
+00:24:53,000 --> 00:24:55,000
+We just interchange which one is which.
+
+663
+00:24:55,000 --> 00:24:57,000
+What happens
+
+664
+00:24:57,000 --> 00:24:59,000
+if they're fermions?
+
+665
+00:24:59,000 --> 00:25:01,000
+If they're fermions, we get a minus sign.
+
+666
+00:25:01,000 --> 00:25:03,000
+If they're bosons,
+
+667
+00:25:03,000 --> 00:25:05,000
+we get a plus sign from here.
+
+668
+00:25:05,000 --> 00:25:07,000
+We've managed
+
+669
+00:25:07,000 --> 00:25:09,000
+to go from two loops
+
+670
+00:25:09,000 --> 00:25:11,000
+to one loop,
+
+671
+00:25:11,000 --> 00:25:13,000
+this is one loop now.
+
+672
+00:25:13,000 --> 00:25:15,000
+This is just one loop.
+
+673
+00:25:15,000 --> 00:25:17,000
+It's one loop.
+
+674
+00:25:17,000 --> 00:25:19,000
+We went from two loops
+
+675
+00:25:19,000 --> 00:25:21,000
+to one loop just by
+
+676
+00:25:21,000 --> 00:25:23,000
+interchanging two particles.
+
+677
+00:25:23,000 --> 00:25:25,000
+Two loops necessarily
+
+678
+00:25:25,000 --> 00:25:27,000
+has a plus sign.
+
+679
+00:25:27,000 --> 00:25:29,000
+If the loops involve
+
+680
+00:25:29,000 --> 00:25:31,000
+fermions,
+
+681
+00:25:31,000 --> 00:25:33,000
+then there's a sign change
+
+682
+00:25:33,000 --> 00:25:35,000
+when we interchange the two particles.
+
+683
+00:25:35,000 --> 00:25:37,000
+So a single loop like this
+
+684
+00:25:37,000 --> 00:25:39,000
+for fermions necessarily has
+
+685
+00:25:39,000 --> 00:25:41,000
+a minus sign associated with it.
+
+686
+00:25:41,000 --> 00:25:43,000
+A single loop for bosons
+
+687
+00:25:43,000 --> 00:25:45,000
+has a plus sign
+
+688
+00:25:45,000 --> 00:25:47,000
+in the amplitude.
+
+689
+00:25:47,000 --> 00:25:49,000
+The consequences of this are profound.
+
+690
+00:25:49,000 --> 00:25:51,000
+What it says is that
+
+691
+00:25:51,000 --> 00:25:53,000
+the contribution
+
+692
+00:25:53,000 --> 00:25:55,000
+to the vacuum energy
+
+693
+00:25:55,000 --> 00:25:57,000
+of a loop
+
+694
+00:25:57,000 --> 00:25:59,000
+of fermions
+
+695
+00:25:59,000 --> 00:26:01,000
+is negative.
+
+696
+00:26:01,000 --> 00:26:03,000
+The contribution of a loop of bosons
+
+697
+00:26:03,000 --> 00:26:05,000
+is positive.
+
+698
+00:26:05,000 --> 00:26:07,000
+That's very interesting.
+
+699
+00:26:07,000 --> 00:26:09,000
+We have this very strange
+
+700
+00:26:09,000 --> 00:26:11,000
+puzzle about the vacuum energy
+
+701
+00:26:11,000 --> 00:26:13,000
+that we talked about last time.
+
+702
+00:26:13,000 --> 00:26:15,000
+The vacuum energy, whatever it is
+
+703
+00:26:15,000 --> 00:26:17,000
+in nature, is very, very small.
+
+704
+00:26:17,000 --> 00:26:19,000
+We call it dark energy.
+
+705
+00:26:19,000 --> 00:26:21,000
+It's extremely small.
+
+706
+00:26:21,000 --> 00:26:23,000
+The amount of it in this room
+
+707
+00:26:23,000 --> 00:26:25,000
+is extremely negligible.
+
+708
+00:26:25,000 --> 00:26:27,000
+And
+
+709
+00:26:27,000 --> 00:26:29,000
+the naive calculation
+
+710
+00:26:29,000 --> 00:26:31,000
+in quantum field theory
+
+711
+00:26:31,000 --> 00:26:33,000
+would give an answer 123 orders
+
+712
+00:26:33,000 --> 00:26:35,000
+of magnitude larger.
+
+713
+00:26:35,000 --> 00:26:37,000
+It is at least
+
+714
+00:26:37,000 --> 00:26:39,000
+at minimum interesting
+
+715
+00:26:39,000 --> 00:26:41,000
+that the quantum field theory answer
+
+716
+00:26:41,000 --> 00:26:43,000
+can either be positive or negative
+
+717
+00:26:43,000 --> 00:26:45,000
+and that it's negative for fermions
+
+718
+00:26:45,000 --> 00:26:47,000
+and positive for bosons.
+
+719
+00:26:49,000 --> 00:26:51,000
+The answer depends on all kinds of details
+
+720
+00:26:51,000 --> 00:26:53,000
+about the particle. It depends on the mass
+
+721
+00:26:53,000 --> 00:26:55,000
+of the particle and other things.
+
+722
+00:26:55,000 --> 00:26:56,000
+It depends on its charge. It
+
+723
+00:26:56,000 --> 00:26:57,000
+depends on all sorts of things.
+
+724
+00:26:57,000 --> 00:26:59,000
+But at least we've encountered
+
+725
+00:26:59,000 --> 00:27:01,000
+a way to be able
+
+726
+00:27:01,000 --> 00:27:03,000
+to get both plus signs and minus signs.
+
+727
+00:27:03,000 --> 00:27:05,000
+The fact that they cancel out
+
+728
+00:27:05,000 --> 00:27:07,000
+to 123 decimal places
+
+729
+00:27:07,000 --> 00:27:09,000
+is bizarre, but at least
+
+730
+00:27:09,000 --> 00:27:11,000
+we have the possibility
+
+731
+00:27:11,000 --> 00:27:13,000
+of canceling contributions.
+
+732
+00:27:13,000 --> 00:27:15,000
+Bosons,
+
+733
+00:27:15,000 --> 00:27:17,000
+all things being equal,
+
+734
+00:27:17,000 --> 00:27:19,000
+will give equal means
+
+735
+00:27:19,000 --> 00:27:21,000
+the same mass, the same charge.
+
+736
+00:27:21,000 --> 00:27:23,000
+All things being equal,
+
+737
+00:27:23,000 --> 00:27:25,000
+a boson and a fermion
+
+738
+00:27:25,000 --> 00:27:27,000
+will give
+
+739
+00:27:27,000 --> 00:27:29,000
+the same contribution to the vacuum energy
+
+740
+00:27:29,000 --> 00:27:31,000
+except one with a plus sign
+
+741
+00:27:31,000 --> 00:27:33,000
+and one with a minus sign.
+
+742
+00:27:33,000 --> 00:27:35,000
+Now,
+
+743
+00:27:35,000 --> 00:27:37,000
+that does not explain
+
+744
+00:27:37,000 --> 00:27:39,000
+why the vacuum energy is zero.
+
+745
+00:27:39,000 --> 00:27:41,000
+But it does perhaps
+
+746
+00:27:41,000 --> 00:27:43,000
+create a thought in your head.
+
+747
+00:27:43,000 --> 00:27:45,000
+Perhaps there is
+
+748
+00:27:45,000 --> 00:27:47,000
+a lot of cancellation between fermions
+
+749
+00:27:47,000 --> 00:27:49,000
+and bosons.
+
+750
+00:27:49,000 --> 00:27:51,000
+What it would take to have an exact cancellation
+
+751
+00:27:51,000 --> 00:27:53,000
+would be,
+
+752
+00:27:53,000 --> 00:27:55,000
+we're going to discuss this,
+
+753
+00:27:55,000 --> 00:27:57,000
+you would necessarily have to have for every boson
+
+754
+00:27:57,000 --> 00:27:59,000
+a fermion
+
+755
+00:27:59,000 --> 00:28:01,000
+with exactly the same mass.
+
+756
+00:28:01,000 --> 00:28:03,000
+These diagrams do depend on the mass
+
+757
+00:28:03,000 --> 00:28:05,000
+of the particle.
+
+758
+00:28:05,000 --> 00:28:07,000
+We don't have to know the details
+
+759
+00:28:07,000 --> 00:28:09,000
+of how they depend on the mass of the particle.
+
+760
+00:28:09,000 --> 00:28:11,000
+But,
+
+761
+00:28:11,000 --> 00:28:13,000
+if for every boson
+
+762
+00:28:13,000 --> 00:28:15,000
+we have a fermion
+
+763
+00:28:15,000 --> 00:28:17,000
+with exactly the same mass
+
+764
+00:28:17,000 --> 00:28:19,000
+and the same properties
+
+765
+00:28:19,000 --> 00:28:21,000
+in every other respect,
+
+766
+00:28:21,000 --> 00:28:23,000
+then we could imagine
+
+767
+00:28:23,000 --> 00:28:25,000
+or we could conceive
+
+768
+00:28:25,000 --> 00:28:27,000
+that the theory might exactly
+
+769
+00:28:27,000 --> 00:28:29,000
+cancel out
+
+770
+00:28:29,000 --> 00:28:31,000
+the vacuum energy.
+
+771
+00:28:31,000 --> 00:28:33,000
+That's one of the things
+
+772
+00:28:33,000 --> 00:28:35,000
+that supersymmetric theories can do.
+
+773
+00:28:35,000 --> 00:28:37,000
+I will tell you later what a supersymmetric theory is.
+
+774
+00:28:37,000 --> 00:28:38,000
+I haven't told you yet.
+
+775
+00:28:38,000 --> 00:28:39,000
+But that's one of the things
+
+776
+00:28:39,000 --> 00:28:41,000
+that supersymmetric theories can do.
+
+777
+00:28:41,000 --> 00:28:43,000
+They can cancel out precisely
+
+778
+00:28:43,000 --> 00:28:45,000
+the contribution
+
+779
+00:28:45,000 --> 00:28:47,000
+to the vacuum energy.
+
+780
+00:28:47,000 --> 00:28:49,000
+Now, we know in nature,
+
+781
+00:28:49,000 --> 00:28:51,000
+we know with absolute certainty
+
+782
+00:28:51,000 --> 00:28:53,000
+that
+
+783
+00:28:53,000 --> 00:28:55,000
+there is not
+
+784
+00:28:55,000 --> 00:28:57,000
+for every particle
+
+785
+00:28:57,000 --> 00:28:59,000
+an image or reflection
+
+786
+00:28:59,000 --> 00:29:01,000
+particle for every boson.
+
+787
+00:29:01,000 --> 00:29:03,000
+There is not a fermion with the same mass
+
+788
+00:29:03,000 --> 00:29:05,000
+and for every
+
+789
+00:29:05,000 --> 00:29:07,000
+and vice versa.
+
+790
+00:29:07,000 --> 00:29:09,000
+We know that.
+
+791
+00:29:09,000 --> 00:29:11,000
+But we know
+
+792
+00:29:11,000 --> 00:29:13,000
+that there is not
+
+793
+00:29:13,000 --> 00:29:15,000
+a particle in nature
+
+794
+00:29:15,000 --> 00:29:17,000
+with the same electric charge
+
+795
+00:29:17,000 --> 00:29:19,000
+as the electron
+
+796
+00:29:19,000 --> 00:29:21,000
+but which has the opposite
+
+797
+00:29:21,000 --> 00:29:23,000
+which is a boson instead of a fermion.
+
+798
+00:29:23,000 --> 00:29:25,000
+We would know if there were.
+
+799
+00:29:25,000 --> 00:29:27,000
+We would know with certainty.
+
+800
+00:29:27,000 --> 00:29:29,000
+And the way we would know
+
+801
+00:29:29,000 --> 00:29:31,000
+is because in collisions, for example,
+
+802
+00:29:31,000 --> 00:29:33,000
+electron
+
+803
+00:29:33,000 --> 00:29:35,000
+positrons come in
+
+804
+00:29:35,000 --> 00:29:37,000
+and an electron
+
+805
+00:29:37,000 --> 00:29:39,000
+is a positron.
+
+806
+00:29:39,000 --> 00:29:41,000
+What happens to an electron at E-E plus?
+
+807
+00:29:41,000 --> 00:29:43,000
+What do they make when they collide?
+
+808
+00:29:43,000 --> 00:29:45,000
+A virtual photon.
+
+809
+00:29:47,000 --> 00:29:49,000
+Now,
+
+810
+00:29:49,000 --> 00:29:51,000
+if there was a
+
+811
+00:29:51,000 --> 00:29:53,000
+partner, let's call it a partner,
+
+812
+00:29:53,000 --> 00:29:55,000
+to the electron, which was a
+
+813
+00:29:55,000 --> 00:29:57,000
+boson with exactly the same charge,
+
+814
+00:29:57,000 --> 00:29:59,000
+then it could be produced
+
+815
+00:29:59,000 --> 00:30:01,000
+let's draw this dotted line,
+
+816
+00:30:01,000 --> 00:30:03,000
+then it could be produced from the virtual
+
+817
+00:30:03,000 --> 00:30:05,000
+photon
+
+818
+00:30:05,000 --> 00:30:07,000
+with exactly the same probability
+
+819
+00:30:07,000 --> 00:30:09,000
+as the electron.
+
+820
+00:30:09,000 --> 00:30:11,000
+And we know this doesn't happen.
+
+821
+00:30:11,000 --> 00:30:13,000
+Just go in a laboratory,
+
+822
+00:30:13,000 --> 00:30:15,000
+scatter an electron and a positron,
+
+823
+00:30:15,000 --> 00:30:17,000
+and what comes out is an electron and a positron.
+
+824
+00:30:17,000 --> 00:30:19,000
+Not a
+
+825
+00:30:19,000 --> 00:30:21,000
+a boson
+
+826
+00:30:21,000 --> 00:30:23,000
+with the same
+
+827
+00:30:23,000 --> 00:30:25,000
+mass and charge.
+
+828
+00:30:25,000 --> 00:30:27,000
+So we know that in fact in nature
+
+829
+00:30:27,000 --> 00:30:29,000
+there is not this symmetry
+
+830
+00:30:29,000 --> 00:30:31,000
+or this reflection symmetry
+
+831
+00:30:31,000 --> 00:30:33,000
+it's not a reflection in space,
+
+832
+00:30:33,000 --> 00:30:35,000
+but reflection of boson into fermion.
+
+833
+00:30:35,000 --> 00:30:37,000
+We know that that's not true.
+
+834
+00:30:37,000 --> 00:30:39,000
+But still it's interesting to come to the conclusion
+
+835
+00:30:39,000 --> 00:30:41,000
+that we have to contemplate the fact
+
+836
+00:30:41,000 --> 00:30:43,000
+that if we had a theory
+
+837
+00:30:43,000 --> 00:30:45,000
+which was sufficiently symmetric
+
+838
+00:30:45,000 --> 00:30:47,000
+we'll discuss what we mean by
+
+839
+00:30:47,000 --> 00:30:49,000
+sufficiently symmetric soon
+
+840
+00:30:49,000 --> 00:30:51,000
+but if it was sufficiently symmetric
+
+841
+00:30:51,000 --> 00:30:53,000
+between bosons and fermions
+
+842
+00:30:53,000 --> 00:30:55,000
+we would at least have a chance
+
+843
+00:30:55,000 --> 00:30:57,000
+of canceling out all this vacuum energy.
+
+844
+00:30:57,000 --> 00:30:59,000
+We would at least have a chance.
+
+845
+00:30:59,000 --> 00:31:01,000
+So it's a thought.
+
+846
+00:31:01,000 --> 00:31:03,000
+A thought to keep in mind.
+
+847
+00:31:03,000 --> 00:31:05,000
+Another thought to keep in mind.
+
+848
+00:31:05,000 --> 00:31:07,000
+Can it help us at all
+
+849
+00:31:07,000 --> 00:31:09,000
+with
+
+850
+00:31:09,000 --> 00:31:11,000
+the self energy
+
+851
+00:31:11,000 --> 00:31:13,000
+of bosons?
+
+852
+00:31:13,000 --> 00:31:15,000
+Here we have
+
+853
+00:31:15,000 --> 00:31:17,000
+these Feynman diagrams
+
+854
+00:31:17,000 --> 00:31:19,000
+which
+
+855
+00:31:19,000 --> 00:31:21,000
+give rise to
+
+856
+00:31:21,000 --> 00:31:23,000
+quadratic divergences
+
+857
+00:31:23,000 --> 00:31:25,000
+in the mass of
+
+858
+00:31:25,000 --> 00:31:27,000
+a boson.
+
+859
+00:31:27,000 --> 00:31:29,000
+Even if the mass of the boson
+
+860
+00:31:29,000 --> 00:31:31,000
+even if the bare mass of the boson
+
+861
+00:31:31,000 --> 00:31:33,000
+was initially zero
+
+862
+00:31:33,000 --> 00:31:35,000
+in other words the bare mass
+
+863
+00:31:35,000 --> 00:31:37,000
+these diagrams would create huge masses
+
+864
+00:31:37,000 --> 00:31:39,000
+for the bosons.
+
+865
+00:31:39,000 --> 00:31:41,000
+That's a problem.
+
+866
+00:31:41,000 --> 00:31:43,000
+That's a problem for all the reasons I said.
+
+867
+00:31:43,000 --> 00:31:45,000
+We'd like to get rid of that problem.
+
+868
+00:31:45,000 --> 00:31:47,000
+We would like to create a theory
+
+869
+00:31:47,000 --> 00:31:49,000
+in which bosons
+
+870
+00:31:49,000 --> 00:31:51,000
+don't get this huge amount of mass
+
+871
+00:31:51,000 --> 00:31:53,000
+from renormalization
+
+872
+00:31:53,000 --> 00:31:55,000
+or from whatever we want to call it.
+
+873
+00:31:55,000 --> 00:31:57,000
+We already have a theory
+
+874
+00:31:57,000 --> 00:31:59,000
+in which fermions don't get
+
+875
+00:31:59,000 --> 00:32:01,000
+these huge amounts of masses.
+
+876
+00:32:01,000 --> 00:32:03,000
+Remember we discussed a few minutes ago
+
+877
+00:32:03,000 --> 00:32:05,000
+that for fermions
+
+878
+00:32:05,000 --> 00:32:07,000
+because of this left-right
+
+879
+00:32:07,000 --> 00:32:09,000
+switch
+
+880
+00:32:09,000 --> 00:32:11,000
+fermions
+
+881
+00:32:11,000 --> 00:32:13,000
+in many situations
+
+882
+00:32:13,000 --> 00:32:15,000
+the self energy
+
+883
+00:32:15,000 --> 00:32:17,000
+of a fermion
+
+884
+00:32:17,000 --> 00:32:19,000
+will not be infinite.
+
+885
+00:32:19,000 --> 00:32:21,000
+For example if you start with a fermion
+
+886
+00:32:21,000 --> 00:32:23,000
+with no mass at all
+
+887
+00:32:23,000 --> 00:32:25,000
+it will not get this big mass.
+
+888
+00:32:25,000 --> 00:32:27,000
+Now supposing for some reason
+
+889
+00:32:27,000 --> 00:32:29,000
+your theory was concocted
+
+890
+00:32:29,000 --> 00:32:31,000
+in such a way
+
+891
+00:32:31,000 --> 00:32:33,000
+that even after all this
+
+892
+00:32:33,000 --> 00:32:35,000
+renormalization takes place
+
+893
+00:32:35,000 --> 00:32:37,000
+even after all the worst looking Feynman
+
+894
+00:32:37,000 --> 00:32:39,000
+diagrams you can imagine
+
+895
+00:32:39,000 --> 00:32:41,000
+there was enough symmetry
+
+896
+00:32:41,000 --> 00:32:43,000
+enough structure in the theory
+
+897
+00:32:43,000 --> 00:32:45,000
+that made certain
+
+898
+00:32:45,000 --> 00:32:47,000
+that the fermions and the bosons
+
+899
+00:32:47,000 --> 00:32:49,000
+traveled in pairs
+
+900
+00:32:49,000 --> 00:32:51,000
+and always had exactly
+
+901
+00:32:51,000 --> 00:32:53,000
+the same mass, the partners.
+
+902
+00:32:53,000 --> 00:32:55,000
+Then because
+
+903
+00:32:55,000 --> 00:32:57,000
+the fermions don't
+
+904
+00:32:57,000 --> 00:32:59,000
+get any mass
+
+905
+00:32:59,000 --> 00:33:01,000
+if they didn't start with any
+
+906
+00:33:01,000 --> 00:33:03,000
+it must also be true of the bosons.
+
+907
+00:33:03,000 --> 00:33:05,000
+Why?
+
+908
+00:33:05,000 --> 00:33:07,000
+Well, I'm not saying that we
+
+909
+00:33:07,000 --> 00:33:09,000
+can make such a theory
+
+910
+00:33:09,000 --> 00:33:10,000
+on the face of it, it seems
+
+911
+00:33:10,000 --> 00:33:11,000
+like we can't make such a theory
+
+912
+00:33:11,000 --> 00:33:13,000
+because obviously the bosons
+
+913
+00:33:13,000 --> 00:33:15,000
+do get big masses from self interaction
+
+914
+00:33:15,000 --> 00:33:17,000
+and the fermions don't.
+
+915
+00:33:17,000 --> 00:33:19,000
+But, here's what you can imagine
+
+916
+00:33:21,000 --> 00:33:23,000
+as an example
+
+917
+00:33:23,000 --> 00:33:25,000
+take the various Feynman diagrams
+
+918
+00:33:25,000 --> 00:33:27,000
+which contribute
+
+919
+00:33:27,000 --> 00:33:29,000
+to the self energy of the boson
+
+920
+00:33:29,000 --> 00:33:31,000
+you might have
+
+921
+00:33:31,000 --> 00:33:33,000
+a Feynman diagram
+
+922
+00:33:33,000 --> 00:33:35,000
+as an illustration
+
+923
+00:33:35,000 --> 00:33:37,000
+which looks like this
+
+924
+00:33:39,000 --> 00:33:41,000
+but you might have another Feynman diagram
+
+925
+00:33:41,000 --> 00:33:43,000
+these are all bosons
+
+926
+00:33:43,000 --> 00:33:45,000
+but you might have another Feynman diagram
+
+927
+00:33:45,000 --> 00:33:47,000
+where what runs around in the center here
+
+928
+00:33:47,000 --> 00:33:51,000
+is a fermion
+
+929
+00:33:51,000 --> 00:33:53,000
+boson going around the loop
+
+930
+00:33:53,000 --> 00:33:55,000
+fermion going around the loop
+
+931
+00:33:55,000 --> 00:33:57,000
+fermions and bosons
+
+932
+00:33:57,000 --> 00:33:59,000
+always have opposite signs
+
+933
+00:33:59,000 --> 00:34:01,000
+for these loops
+
+934
+00:34:01,000 --> 00:34:03,000
+so one can think then
+
+935
+00:34:03,000 --> 00:34:05,000
+one can imagine
+
+936
+00:34:05,000 --> 00:34:07,000
+that if there was enough symmetry
+
+937
+00:34:07,000 --> 00:34:09,000
+and if every stage
+
+938
+00:34:09,000 --> 00:34:11,000
+of that symmetry was correctly preserved
+
+939
+00:34:11,000 --> 00:34:13,000
+in detail
+
+940
+00:34:13,000 --> 00:34:15,000
+the cancellation
+
+941
+00:34:15,000 --> 00:34:17,000
+of the self energies
+
+942
+00:34:17,000 --> 00:34:19,000
+of the bosons
+
+943
+00:34:19,000 --> 00:34:21,000
+might also be exact
+
+944
+00:34:21,000 --> 00:34:23,000
+ah
+
+945
+00:34:23,000 --> 00:34:25,000
+this cancellation of the
+
+946
+00:34:25,000 --> 00:34:27,000
+self energy for the fermions
+
+947
+00:34:27,000 --> 00:34:29,000
+that's exact
+
+948
+00:34:29,000 --> 00:34:31,000
+if it starts zero, it ends zero
+
+949
+00:34:31,000 --> 00:34:33,000
+if there was
+
+950
+00:34:33,000 --> 00:34:35,000
+such a symmetry between fermions
+
+951
+00:34:35,000 --> 00:34:37,000
+and bosons which was rigidly enforced
+
+952
+00:34:37,000 --> 00:34:39,000
+by the mathematics of the theory
+
+953
+00:34:39,000 --> 00:34:41,000
+of the fermion
+
+954
+00:34:41,000 --> 00:34:43,000
+then we might imagine
+
+955
+00:34:43,000 --> 00:34:45,000
+that there are theories
+
+956
+00:34:45,000 --> 00:34:47,000
+where the bosons do not
+
+957
+00:34:47,000 --> 00:34:49,000
+get these huge
+
+958
+00:34:49,000 --> 00:34:51,000
+self energies
+
+959
+00:34:51,000 --> 00:34:53,000
+that in itself is not good enough
+
+960
+00:34:53,000 --> 00:34:55,000
+we know that there is
+
+961
+00:34:55,000 --> 00:34:57,000
+not an exact
+
+962
+00:34:57,000 --> 00:34:59,000
+mass equivalence
+
+963
+00:34:59,000 --> 00:35:01,000
+between fermions and bosons
+
+964
+00:35:01,000 --> 00:35:03,000
+but it's a start
+
+965
+00:35:03,000 --> 00:35:05,000
+let's take a little break
+
+966
+00:35:05,000 --> 00:35:07,000
+let's take a break for a few minutes
+
+967
+00:35:07,000 --> 00:35:11,000
+so to zeroth order
+
+968
+00:35:11,000 --> 00:35:13,000
+the hypothesis is
+
+969
+00:35:13,000 --> 00:35:15,000
+not that there is
+
+970
+00:35:15,000 --> 00:35:17,000
+when I say to zeroth order
+
+971
+00:35:17,000 --> 00:35:19,000
+I don't mean in the mathematical sense
+
+972
+00:35:19,000 --> 00:35:21,000
+I mean in
+
+973
+00:35:21,000 --> 00:35:23,000
+some rough approximation
+
+974
+00:35:23,000 --> 00:35:25,000
+to what the story is
+
+975
+00:35:25,000 --> 00:35:27,000
+that
+
+976
+00:35:27,000 --> 00:35:29,000
+for every particle in nature
+
+977
+00:35:29,000 --> 00:35:31,000
+there is a partner
+
+978
+00:35:31,000 --> 00:35:33,000
+of the opposite
+
+979
+00:35:33,000 --> 00:35:35,000
+somethingness
+
+980
+00:35:35,000 --> 00:35:37,000
+the opposite of the other
+
+981
+00:35:37,000 --> 00:35:39,000
+the opposite
+
+982
+00:35:39,000 --> 00:35:41,000
+fermi-boson-ness
+
+983
+00:35:41,000 --> 00:35:43,000
+bosonosity, I don't know what the right word is
+
+984
+00:35:43,000 --> 00:35:45,000
+you know what I mean, for every fermion in nature
+
+985
+00:35:45,000 --> 00:35:47,000
+like the electron
+
+986
+00:35:47,000 --> 00:35:49,000
+there is another particle
+
+987
+00:35:49,000 --> 00:35:51,000
+which is a boson with integer spin
+
+988
+00:35:51,000 --> 00:35:53,000
+with the same
+
+989
+00:35:53,000 --> 00:35:55,000
+no, with the same charge
+
+990
+00:35:55,000 --> 00:35:57,000
+yes, with the same charge
+
+991
+00:35:57,000 --> 00:35:59,000
+same electric charge and so forth
+
+992
+00:35:59,000 --> 00:36:01,000
+now I would say
+
+993
+00:36:01,000 --> 00:36:03,000
+with the same mass, but we know that's not true
+
+994
+00:36:03,000 --> 00:36:05,000
+ok
+
+995
+00:36:05,000 --> 00:36:07,000
+so not with the same
+
+996
+00:36:07,000 --> 00:36:09,000
+mass
+
+997
+00:36:09,000 --> 00:36:11,000
+and for every boson there is a fermion
+
+998
+00:36:11,000 --> 00:36:13,000
+for every fermion there is a boson
+
+999
+00:36:13,000 --> 00:36:15,000
+this would entail basically doubling
+
+1000
+00:36:15,000 --> 00:36:17,000
+the spectrum of all of the
+
+1001
+00:36:17,000 --> 00:36:19,000
+element of particles
+
+1002
+00:36:19,000 --> 00:36:21,000
+how about the fact
+
+1003
+00:36:21,000 --> 00:36:23,000
+that they don't have exactly the same
+
+1004
+00:36:23,000 --> 00:36:25,000
+mass
+
+1005
+00:36:25,000 --> 00:36:27,000
+in fact their masses are going to be quite different
+
+1006
+00:36:27,000 --> 00:36:29,000
+well if the masses
+
+1007
+00:36:29,000 --> 00:36:31,000
+were equal
+
+1008
+00:36:31,000 --> 00:36:33,000
+we would discover that all of this
+
+1009
+00:36:33,000 --> 00:36:35,000
+bad junk cancels out
+
+1010
+00:36:35,000 --> 00:36:37,000
+exactly
+
+1011
+00:36:37,000 --> 00:36:39,000
+if the masses are almost but not quite equal
+
+1012
+00:36:39,000 --> 00:36:41,000
+we still might have a lot of cancellation
+
+1013
+00:36:41,000 --> 00:36:43,000
+perhaps not a complete cancellation
+
+1014
+00:36:43,000 --> 00:36:45,000
+but an approximate cancellation
+
+1015
+00:36:45,000 --> 00:36:47,000
+if the masses were not exactly equal
+
+1016
+00:36:47,000 --> 00:36:49,000
+we don't care for example
+
+1017
+00:36:49,000 --> 00:36:51,000
+that there might be
+
+1018
+00:36:51,000 --> 00:36:53,000
+some self energy
+
+1019
+00:36:53,000 --> 00:36:55,000
+for these bosons
+
+1020
+00:36:55,000 --> 00:36:57,000
+we just don't want it to be huge
+
+1021
+00:36:57,000 --> 00:36:59,000
+so a diagram like this
+
+1022
+00:36:59,000 --> 00:37:01,000
+and a diagram like that
+
+1023
+00:37:01,000 --> 00:37:03,000
+is a good example
+
+1024
+00:37:03,000 --> 00:37:05,000
+of the fact that
+
+1025
+00:37:05,000 --> 00:37:07,000
+a diagram like this and a diagram like that
+
+1026
+00:37:07,000 --> 00:37:09,000
+will not exactly cancel
+
+1027
+00:37:09,000 --> 00:37:11,000
+unless the masses running around
+
+1028
+00:37:11,000 --> 00:37:13,000
+in the loop here are exactly the same
+
+1029
+00:37:13,000 --> 00:37:15,000
+but if they're not exactly the same
+
+1030
+00:37:15,000 --> 00:37:17,000
+but close
+
+1031
+00:37:17,000 --> 00:37:19,000
+we might expect a good deal of cancellation
+
+1032
+00:37:19,000 --> 00:37:21,000
+approximate cancellation
+
+1033
+00:37:21,000 --> 00:37:23,000
+enough cancellation
+
+1034
+00:37:23,000 --> 00:37:25,000
+to keep from getting this explosively large
+
+1035
+00:37:25,000 --> 00:37:27,000
+answer
+
+1036
+00:37:27,000 --> 00:37:29,000
+and in fact we will talk about supersymmetry
+
+1037
+00:37:29,000 --> 00:37:31,000
+supersymmetry is nothing but
+
+1038
+00:37:31,000 --> 00:37:33,000
+well
+
+1039
+00:37:33,000 --> 00:37:35,000
+it is in fact much more
+
+1040
+00:37:35,000 --> 00:37:37,000
+among other things
+
+1041
+00:37:37,000 --> 00:37:39,000
+it is this idea
+
+1042
+00:37:39,000 --> 00:37:41,000
+that every particle has a partner
+
+1043
+00:37:41,000 --> 00:37:43,000
+of the opposite statistics
+
+1044
+00:37:43,000 --> 00:37:45,000
+is the right word
+
+1045
+00:37:45,000 --> 00:37:47,000
+statistics means fermion-ness or boson-ness
+
+1046
+00:37:47,000 --> 00:37:49,000
+that's what supersymmetry is
+
+1047
+00:37:49,000 --> 00:37:51,000
+it's a symmetry
+
+1048
+00:37:51,000 --> 00:37:53,000
+which relates fermions to bosons
+
+1049
+00:37:53,000 --> 00:37:55,000
+in such a way
+
+1050
+00:37:55,000 --> 00:37:57,000
+that every boson has its fermionic partner
+
+1051
+00:37:57,000 --> 00:37:59,000
+its fermionic superpartner
+
+1052
+00:37:59,000 --> 00:38:01,000
+they come in superpartner pairs
+
+1053
+00:38:01,000 --> 00:38:03,000
+and
+
+1054
+00:38:03,000 --> 00:38:05,000
+with
+
+1055
+00:38:05,000 --> 00:38:07,000
+precise
+
+1056
+00:38:07,000 --> 00:38:09,000
+mass equivalents of the particles
+
+1057
+00:38:09,000 --> 00:38:11,000
+partners
+
+1058
+00:38:11,000 --> 00:38:13,000
+we would have precise cancellation
+
+1059
+00:38:13,000 --> 00:38:15,000
+of this kind of thing
+
+1060
+00:38:15,000 --> 00:38:17,000
+of the vacuum energy and so forth
+
+1061
+00:38:17,000 --> 00:38:19,000
+with almost
+
+1062
+00:38:19,000 --> 00:38:21,000
+degeneracy
+
+1063
+00:38:21,000 --> 00:38:23,000
+degeneracy means equality of masses
+
+1064
+00:38:23,000 --> 00:38:25,000
+we can have approximate
+
+1065
+00:38:25,000 --> 00:38:27,000
+cancellation
+
+1066
+00:38:27,000 --> 00:38:29,000
+that's the working hypothesis
+
+1067
+00:38:29,000 --> 00:38:31,000
+that the things which control
+
+1068
+00:38:31,000 --> 00:38:33,000
+and keep
+
+1069
+00:38:33,000 --> 00:38:35,000
+these phenomena from running away
+
+1070
+00:38:35,000 --> 00:38:37,000
+and being enormously large
+
+1071
+00:38:37,000 --> 00:38:39,000
+is cancellation
+
+1072
+00:38:39,000 --> 00:38:41,000
+between fermions
+
+1073
+00:38:41,000 --> 00:38:43,000
+and bosons
+
+1074
+00:38:43,000 --> 00:38:45,000
+now we are going to
+
+1075
+00:38:45,000 --> 00:38:47,000
+say more about it
+
+1076
+00:38:47,000 --> 00:38:48,000
+and perhaps even do a little
+
+1077
+00:38:48,000 --> 00:38:49,000
+bit of the mathematics of it
+
+1078
+00:38:49,000 --> 00:38:51,000
+it's extremely abstract
+
+1079
+00:38:51,000 --> 00:38:53,000
+as I said
+
+1080
+00:38:53,000 --> 00:38:55,000
+that doesn't mean difficult
+
+1081
+00:38:55,000 --> 00:38:57,000
+it just means abstract
+
+1082
+00:38:57,000 --> 00:38:59,000
+but
+
+1083
+00:38:59,000 --> 00:39:01,000
+that's the
+
+1084
+00:39:01,000 --> 00:39:03,000
+zeroth order idea
+
+1085
+00:39:03,000 --> 00:39:05,000
+every particle comes equipped
+
+1086
+00:39:05,000 --> 00:39:07,000
+with a superpartner
+
+1087
+00:39:07,000 --> 00:39:09,000
+those superpartners have never been
+
+1088
+00:39:09,000 --> 00:39:11,000
+discovered in the laboratory
+
+1089
+00:39:11,000 --> 00:39:13,000
+not one of them
+
+1090
+00:39:13,000 --> 00:39:15,000
+not a single one of them
+
+1091
+00:39:15,000 --> 00:39:17,000
+has ever been discovered in the laboratory
+
+1092
+00:39:17,000 --> 00:39:19,000
+the implication is
+
+1093
+00:39:19,000 --> 00:39:21,000
+they must be a good deal heavier
+
+1094
+00:39:21,000 --> 00:39:23,000
+I showed you
+
+1095
+00:39:23,000 --> 00:39:25,000
+how you might detect the superpartner
+
+1096
+00:39:25,000 --> 00:39:27,000
+of the electron
+
+1097
+00:39:27,000 --> 00:39:29,000
+you collide a pair of electrons
+
+1098
+00:39:29,000 --> 00:39:31,000
+you create a virtual photon
+
+1099
+00:39:31,000 --> 00:39:33,000
+and then you create
+
+1100
+00:39:33,000 --> 00:39:35,000
+the particles which are the partners of the electrons
+
+1101
+00:39:35,000 --> 00:39:37,000
+the fact that they have never been discovered
+
+1102
+00:39:37,000 --> 00:39:39,000
+means
+
+1103
+00:39:39,000 --> 00:39:41,000
+that no experiment
+
+1104
+00:39:41,000 --> 00:39:43,000
+has ever had enough energy
+
+1105
+00:39:43,000 --> 00:39:45,000
+to create these particles
+
+1106
+00:39:45,000 --> 00:39:47,000
+these particles must be quite massive
+
+1107
+00:39:47,000 --> 00:39:49,000
+how massive?
+
+1108
+00:39:49,000 --> 00:39:51,000
+basically at the edge of detectability
+
+1109
+00:39:51,000 --> 00:39:53,000
+beyond the edge of detectability
+
+1110
+00:39:53,000 --> 00:39:55,000
+that means
+
+1111
+00:39:55,000 --> 00:39:57,000
+hundreds of gev
+
+1112
+00:39:57,000 --> 00:39:59,000
+hundreds of times the mass of the proton
+
+1113
+00:39:59,000 --> 00:40:01,000
+now is this
+
+1114
+00:40:01,000 --> 00:40:03,000
+really as far fetched as
+
+1115
+00:40:03,000 --> 00:40:05,000
+that sounds very far fetched
+
+1116
+00:40:05,000 --> 00:40:07,000
+that we just by accident
+
+1117
+00:40:07,000 --> 00:40:09,000
+all the particles
+
+1118
+00:40:09,000 --> 00:40:11,000
+all the partners happen to be
+
+1119
+00:40:11,000 --> 00:40:13,000
+too heavy to be seen
+
+1120
+00:40:13,000 --> 00:40:15,000
+you know that really sounds
+
+1121
+00:40:15,000 --> 00:40:17,000
+like really
+
+1122
+00:40:17,000 --> 00:40:19,000
+not good
+
+1123
+00:40:19,000 --> 00:40:21,000
+practice
+
+1124
+00:40:21,000 --> 00:40:23,000
+well it's not really that bad
+
+1125
+00:40:23,000 --> 00:40:25,000
+because when you look at these supersymmetric theories
+
+1126
+00:40:25,000 --> 00:40:27,000
+what you discover
+
+1127
+00:40:27,000 --> 00:40:29,000
+what you discover
+
+1128
+00:40:29,000 --> 00:40:31,000
+is that some of the particles
+
+1129
+00:40:31,000 --> 00:40:33,000
+have the natural
+
+1130
+00:40:33,000 --> 00:40:35,000
+not natural tendency
+
+1131
+00:40:35,000 --> 00:40:37,000
+the property
+
+1132
+00:40:37,000 --> 00:40:39,000
+the natural property
+
+1133
+00:40:39,000 --> 00:40:41,000
+that the only way that they can get mass
+
+1134
+00:40:41,000 --> 00:40:43,000
+is from the Higgs phenomenon
+
+1135
+00:40:43,000 --> 00:40:45,000
+others can have mass
+
+1136
+00:40:45,000 --> 00:40:47,000
+without the Higgs phenomenon
+
+1137
+00:40:47,000 --> 00:40:49,000
+it turns out
+
+1138
+00:40:49,000 --> 00:40:51,000
+in these theories just mathematically
+
+1139
+00:40:51,000 --> 00:40:53,000
+that exactly half the particles
+
+1140
+00:40:53,000 --> 00:40:55,000
+some of them fermions
+
+1141
+00:40:55,000 --> 00:40:57,000
+some of them bosons
+
+1142
+00:40:57,000 --> 00:40:59,000
+necessarily owe their mass to the Higgs phenomenon
+
+1143
+00:40:59,000 --> 00:41:01,000
+which is another way of saying
+
+1144
+00:41:01,000 --> 00:41:03,000
+they must be massless
+
+1145
+00:41:03,000 --> 00:41:05,000
+there is spontaneous symmetry breaking
+
+1146
+00:41:05,000 --> 00:41:07,000
+of the electroweak of the Higgs boson phenomena
+
+1147
+00:41:07,000 --> 00:41:09,000
+and the other half
+
+1148
+00:41:09,000 --> 00:41:11,000
+are allowed to have mass without that
+
+1149
+00:41:11,000 --> 00:41:13,000
+so it's almost
+
+1150
+00:41:13,000 --> 00:41:15,000
+natural to say that half the particles
+
+1151
+00:41:15,000 --> 00:41:17,000
+might be a good deal more massive
+
+1152
+00:41:17,000 --> 00:41:19,000
+than the other half
+
+1153
+00:41:19,000 --> 00:41:21,000
+it is
+
+1154
+00:41:21,000 --> 00:41:23,000
+for most of us
+
+1155
+00:41:23,000 --> 00:41:25,000
+it's a little bit of a stretch
+
+1156
+00:41:25,000 --> 00:41:27,000
+the supersymmetry idea
+
+1157
+00:41:27,000 --> 00:41:29,000
+it's just a little bit too
+
+1158
+00:41:29,000 --> 00:41:31,000
+lucky
+
+1159
+00:41:31,000 --> 00:41:33,000
+that we just haven't seen
+
+1160
+00:41:33,000 --> 00:41:35,000
+the entirety of it yet
+
+1161
+00:41:35,000 --> 00:41:37,000
+on the other hand
+
+1162
+00:41:37,000 --> 00:41:39,000
+there is some rationale
+
+1163
+00:41:39,000 --> 00:41:41,000
+for why the particles that we've seen
+
+1164
+00:41:41,000 --> 00:41:43,000
+happen to be the ones
+
+1165
+00:41:43,000 --> 00:41:45,000
+which have low enough mass to be seen
+
+1166
+00:41:45,000 --> 00:41:47,000
+and why the ones we haven't seen
+
+1167
+00:41:47,000 --> 00:41:49,000
+could conceivably have higher mass
+
+1168
+00:41:49,000 --> 00:41:51,000
+so we have to wait and find out
+
+1169
+00:41:51,000 --> 00:41:53,000
+but that's kind of what LHC
+
+1170
+00:41:53,000 --> 00:41:55,000
+was designed
+
+1171
+00:41:55,000 --> 00:41:57,000
+to find out
+
+1172
+00:41:57,000 --> 00:41:59,000
+originally it was designed
+
+1173
+00:41:59,000 --> 00:42:01,000
+to detect the Higgs boson
+
+1174
+00:42:01,000 --> 00:42:03,000
+but
+
+1175
+00:42:03,000 --> 00:42:05,000
+by now
+
+1176
+00:42:05,000 --> 00:42:07,000
+I think it's generally conceded
+
+1177
+00:42:07,000 --> 00:42:09,000
+well the Higgs boson is going to be there
+
+1178
+00:42:09,000 --> 00:42:11,000
+generally conceded
+
+1179
+00:42:11,000 --> 00:42:13,000
+and it turns out to be the hardest thing
+
+1180
+00:42:13,000 --> 00:42:15,000
+to discover in the list of things
+
+1181
+00:42:15,000 --> 00:42:17,000
+that you might want to discover
+
+1182
+00:42:17,000 --> 00:42:19,000
+the much easier thing
+
+1183
+00:42:19,000 --> 00:42:21,000
+and in a sense more profound
+
+1184
+00:42:21,000 --> 00:42:23,000
+and much more
+
+1185
+00:42:23,000 --> 00:42:25,000
+um
+
+1186
+00:42:25,000 --> 00:42:27,000
+um
+
+1187
+00:42:27,000 --> 00:42:29,000
+interesting
+
+1188
+00:42:29,000 --> 00:42:31,000
+from the point of view that
+
+1189
+00:42:31,000 --> 00:42:33,000
+we don't know if it's there or not
+
+1190
+00:42:33,000 --> 00:42:35,000
+but it's going to be studied
+
+1191
+00:42:35,000 --> 00:42:37,000
+so what's going to be studied is collisions
+
+1192
+00:42:37,000 --> 00:42:39,000
+at high enough energy
+
+1193
+00:42:39,000 --> 00:42:41,000
+to produce these superpartners
+
+1194
+00:42:41,000 --> 00:42:43,000
+if the superpartners are low enough mass
+
+1195
+00:42:43,000 --> 00:42:45,000
+to be detected
+
+1196
+00:42:45,000 --> 00:42:47,000
+now first question
+
+1197
+00:42:47,000 --> 00:42:49,000
+how do we know that they're not
+
+1198
+00:42:49,000 --> 00:42:51,000
+way off at enormous mass
+
+1199
+00:42:51,000 --> 00:42:53,000
+what would happen
+
+1200
+00:42:53,000 --> 00:42:55,000
+through this cancellation
+
+1201
+00:42:55,000 --> 00:42:57,000
+if half of the particles
+
+1202
+00:42:57,000 --> 00:42:59,000
+were at enormously large mass
+
+1203
+00:42:59,000 --> 00:43:01,000
+how massive
+
+1204
+00:43:01,000 --> 00:43:03,000
+I don't know
+
+1205
+00:43:03,000 --> 00:43:05,000
+the Planck mass or something
+
+1206
+00:43:05,000 --> 00:43:07,000
+then the cancellation
+
+1207
+00:43:07,000 --> 00:43:09,000
+would be extremely bad
+
+1208
+00:43:11,000 --> 00:43:13,000
+and it would be just as bad
+
+1209
+00:43:13,000 --> 00:43:15,000
+as not having these heavy particles
+
+1210
+00:43:15,000 --> 00:43:17,000
+at all or practically as bad
+
+1211
+00:43:17,000 --> 00:43:19,000
+and
+
+1212
+00:43:19,000 --> 00:43:21,000
+instead of having
+
+1213
+00:43:21,000 --> 00:43:23,000
+infinite self energies
+
+1214
+00:43:23,000 --> 00:43:25,000
+you would have self energies which were
+
+1215
+00:43:25,000 --> 00:43:27,000
+as big as the Planck mass
+
+1216
+00:43:27,000 --> 00:43:29,000
+so if you want
+
+1217
+00:43:29,000 --> 00:43:31,000
+this supersymmetry
+
+1218
+00:43:31,000 --> 00:43:33,000
+to play the role of somehow
+
+1219
+00:43:33,000 --> 00:43:35,000
+protecting you against
+
+1220
+00:43:35,000 --> 00:43:37,000
+enormously large self energy corrections
+
+1221
+00:43:37,000 --> 00:43:39,000
+the mass difference
+
+1222
+00:43:39,000 --> 00:43:41,000
+between the bosons and the fermions
+
+1223
+00:43:41,000 --> 00:43:43,000
+cannot be too big
+
+1224
+00:43:43,000 --> 00:43:45,000
+in fact a couple of hundred
+
+1225
+00:43:45,000 --> 00:43:47,000
+GeV beyond that
+
+1226
+00:43:47,000 --> 00:43:49,000
+the cancellation
+
+1227
+00:43:49,000 --> 00:43:51,000
+would be too poor
+
+1228
+00:43:51,000 --> 00:43:53,000
+to have a decent explanation
+
+1229
+00:43:53,000 --> 00:43:55,000
+of why the self energy of the Higgs boson
+
+1230
+00:43:55,000 --> 00:43:57,000
+was not too big
+
+1231
+00:43:57,000 --> 00:43:59,000
+too big for experimental reasons
+
+1232
+00:43:59,000 --> 00:44:01,000
+so
+
+1233
+00:44:01,000 --> 00:44:03,000
+if
+
+1234
+00:44:03,000 --> 00:44:05,000
+the role of supersymmetry
+
+1235
+00:44:05,000 --> 00:44:07,000
+is to keep
+
+1236
+00:44:07,000 --> 00:44:09,000
+the Higgs boson
+
+1237
+00:44:09,000 --> 00:44:11,000
+from getting much much too much mass
+
+1238
+00:44:11,000 --> 00:44:13,000
+then the difference
+
+1239
+00:44:13,000 --> 00:44:15,000
+between the masses of the particles
+
+1240
+00:44:15,000 --> 00:44:17,000
+and their superpartners cannot be all that big
+
+1241
+00:44:17,000 --> 00:44:19,000
+it has to be
+
+1242
+00:44:19,000 --> 00:44:21,000
+roughly speaking within
+
+1243
+00:44:21,000 --> 00:44:23,000
+the experimental range of the LHC
+
+1244
+00:44:23,000 --> 00:44:25,000
+that's the logic
+
+1245
+00:44:25,000 --> 00:44:27,000
+that's the logic
+
+1246
+00:44:27,000 --> 00:44:29,000
+of what's going on
+
+1247
+00:44:29,000 --> 00:44:31,000
+superpartners
+
+1248
+00:44:31,000 --> 00:44:33,000
+and their symmetry to protect
+
+1249
+00:44:33,000 --> 00:44:35,000
+having the Higgs boson
+
+1250
+00:44:35,000 --> 00:44:37,000
+dragged up to enormously high energy
+
+1251
+00:44:37,000 --> 00:44:39,000
+and everything else with it
+
+1252
+00:44:39,000 --> 00:44:41,000
+that's the role of the superpartners
+
+1253
+00:44:43,000 --> 00:44:45,000
+the masses of the particles in the superpartners
+
+1254
+00:44:45,000 --> 00:44:47,000
+are known not to be
+
+1255
+00:44:47,000 --> 00:44:49,000
+equal
+
+1256
+00:44:49,000 --> 00:44:51,000
+but how different can they be
+
+1257
+00:44:51,000 --> 00:44:52,000
+and still do the job
+
+1258
+00:44:52,000 --> 00:44:53,000
+that they were intended to do
+
+1259
+00:44:53,000 --> 00:44:55,000
+and the answer is
+
+1260
+00:44:55,000 --> 00:44:57,000
+not too far from experimental
+
+1261
+00:44:57,000 --> 00:44:59,000
+detectability
+
+1262
+00:44:59,000 --> 00:45:01,000
+yeah question
+
+1263
+00:45:01,000 --> 00:45:03,000
+let's start over here
+
+1264
+00:45:03,000 --> 00:45:05,000
+what you were saying is that
+
+1265
+00:45:05,000 --> 00:45:07,000
+in the aggregate
+
+1266
+00:45:07,000 --> 00:45:09,000
+I hope the terminology is correct
+
+1267
+00:45:09,000 --> 00:45:11,000
+the statistics of the fermions
+
+1268
+00:45:11,000 --> 00:45:13,000
+and the bosons
+
+1269
+00:45:13,000 --> 00:45:15,000
+on a universal scale must roughly
+
+1270
+00:45:15,000 --> 00:45:17,000
+even out or there would be
+
+1271
+00:45:17,000 --> 00:45:19,000
+different
+
+1272
+00:45:19,000 --> 00:45:21,000
+measures of vacuum energy
+
+1273
+00:45:21,000 --> 00:45:23,000
+is that correct
+
+1274
+00:45:23,000 --> 00:45:25,000
+that is different than saying
+
+1275
+00:45:25,000 --> 00:45:27,000
+vacuum energy is not really our problem
+
+1276
+00:45:27,000 --> 00:45:29,000
+I just illustrated vacuum energy
+
+1277
+00:45:29,000 --> 00:45:31,000
+as one thing that supersymmetry can do
+
+1278
+00:45:31,000 --> 00:45:33,000
+we're really more interested
+
+1279
+00:45:33,000 --> 00:45:35,000
+in the self energy
+
+1280
+00:45:35,000 --> 00:45:37,000
+of the bosons
+
+1281
+00:45:37,000 --> 00:45:39,000
+of the Higgs bosons
+
+1282
+00:45:39,000 --> 00:45:41,000
+what does it mean in the aggregate
+
+1283
+00:45:41,000 --> 00:45:43,000
+a whole bunch of
+
+1284
+00:45:43,000 --> 00:45:45,000
+yeah they all have to be
+
+1285
+00:45:45,000 --> 00:45:47,000
+close to the
+
+1286
+00:45:47,000 --> 00:45:49,000
+the mass splittings
+
+1287
+00:45:49,000 --> 00:45:51,000
+between the particles
+
+1288
+00:45:51,000 --> 00:45:53,000
+and the superpartners
+
+1289
+00:45:53,000 --> 00:45:55,000
+cannot be too big
+
+1290
+00:45:55,000 --> 00:45:57,000
+but that's different than saying
+
+1291
+00:45:57,000 --> 00:45:59,000
+every fermion and boson
+
+1292
+00:45:59,000 --> 00:46:01,000
+need to have some relationship
+
+1293
+00:46:01,000 --> 00:46:03,000
+the aggregate in other words
+
+1294
+00:46:03,000 --> 00:46:05,000
+no no oh oh oh
+
+1295
+00:46:05,000 --> 00:46:07,000
+I know what you're asking
+
+1296
+00:46:07,000 --> 00:46:09,000
+I know what you're asking
+
+1297
+00:46:09,000 --> 00:46:11,000
+right one possibility
+
+1298
+00:46:11,000 --> 00:46:13,000
+is that in aggregate
+
+1299
+00:46:13,000 --> 00:46:15,000
+they cancel
+
+1300
+00:46:15,000 --> 00:46:17,000
+that would not require
+
+1301
+00:46:17,000 --> 00:46:19,000
+an exact matching
+
+1302
+00:46:19,000 --> 00:46:21,000
+between fermions and bosons
+
+1303
+00:46:21,000 --> 00:46:23,000
+it would just require the sum of all fermions
+
+1304
+00:46:23,000 --> 00:46:25,000
+to approximately cancel against
+
+1305
+00:46:25,000 --> 00:46:27,000
+the sum of all bosons
+
+1306
+00:46:27,000 --> 00:46:29,000
+that's deemed to be
+
+1307
+00:46:29,000 --> 00:46:31,000
+an accidental cancellation
+
+1308
+00:46:31,000 --> 00:46:33,000
+as
+
+1309
+00:46:33,000 --> 00:46:35,000
+uncomfortable and as
+
+1310
+00:46:35,000 --> 00:46:37,000
+surprising and
+
+1311
+00:46:37,000 --> 00:46:39,000
+fine tuned
+
+1312
+00:46:39,000 --> 00:46:41,000
+as the original problem was
+
+1313
+00:46:41,000 --> 00:46:43,000
+you could say well at least the fermions
+
+1314
+00:46:43,000 --> 00:46:45,000
+give you the opportunity to have
+
+1315
+00:46:45,000 --> 00:46:47,000
+some negative signs and that's true
+
+1316
+00:46:47,000 --> 00:46:49,000
+they at least give you the opportunity
+
+1317
+00:46:49,000 --> 00:46:51,000
+but if it was just a question of an
+
+1318
+00:46:51,000 --> 00:46:53,000
+in aggregate cancellation
+
+1319
+00:46:53,000 --> 00:46:55,000
+then you would say well this was
+
+1320
+00:46:55,000 --> 00:46:57,000
+an extraordinary exceptionally lucky accident
+
+1321
+00:46:57,000 --> 00:46:59,000
+but if you can build theories
+
+1322
+00:46:59,000 --> 00:47:01,000
+if you can build theories
+
+1323
+00:47:01,000 --> 00:47:03,000
+where this cancellation is more
+
+1324
+00:47:03,000 --> 00:47:05,000
+natural
+
+1325
+00:47:05,000 --> 00:47:07,000
+if you can build theories with a higher
+
+1326
+00:47:07,000 --> 00:47:09,000
+at the moment the way I stated it
+
+1327
+00:47:09,000 --> 00:47:11,000
+it's not very natural
+
+1328
+00:47:11,000 --> 00:47:13,000
+so the question is is there a mathematical framework
+
+1329
+00:47:13,000 --> 00:47:15,000
+that contains these kind of symmetries
+
+1330
+00:47:15,000 --> 00:47:17,000
+between fermions and bosons
+
+1331
+00:47:17,000 --> 00:47:19,000
+which also can explain the fact
+
+1332
+00:47:19,000 --> 00:47:21,000
+that they're not exactly equal in mass
+
+1333
+00:47:21,000 --> 00:47:23,000
+in a natural way
+
+1334
+00:47:23,000 --> 00:47:25,000
+and in which these
+
+1335
+00:47:25,000 --> 00:47:27,000
+in which the symmetry between them
+
+1336
+00:47:27,000 --> 00:47:29,000
+by natural
+
+1337
+00:47:29,000 --> 00:47:31,000
+nobody knows
+
+1338
+00:47:31,000 --> 00:47:33,000
+exactly what natural means
+
+1339
+00:47:33,000 --> 00:47:35,000
+it's sort of mathematical consequence
+
+1340
+00:47:35,000 --> 00:47:37,000
+of some reasonable postulates
+
+1341
+00:47:37,000 --> 00:47:39,000
+that these things approximately
+
+1342
+00:47:39,000 --> 00:47:41,000
+cancel each other
+
+1343
+00:47:41,000 --> 00:47:43,000
+that would be much much more
+
+1344
+00:47:43,000 --> 00:47:45,000
+satisfactory than just saying
+
+1345
+00:47:45,000 --> 00:47:47,000
+the whole bunch of them
+
+1346
+00:47:47,000 --> 00:47:49,000
+accidentally cancel against the whole bunch
+
+1347
+00:47:49,000 --> 00:47:51,000
+of the other ones
+
+1348
+00:47:51,000 --> 00:47:53,000
+one more time
+
+1349
+00:47:53,000 --> 00:47:55,000
+that's true if you assume reductionism
+
+1350
+00:47:55,000 --> 00:47:57,000
+if you don't assume reductionism
+
+1351
+00:47:57,000 --> 00:47:59,000
+it may be very natural
+
+1352
+00:47:59,000 --> 00:48:01,000
+that in aggregate they cancel out
+
+1353
+00:48:01,000 --> 00:48:03,000
+I don't know what that really means
+
+1354
+00:48:03,000 --> 00:48:05,000
+I know what you mean
+
+1355
+00:48:05,000 --> 00:48:07,000
+I think that just means
+
+1356
+00:48:07,000 --> 00:48:09,000
+we don't really understand
+
+1357
+00:48:09,000 --> 00:48:11,000
+or know what's natural
+
+1358
+00:48:11,000 --> 00:48:13,000
+and what's not natural
+
+1359
+00:48:13,000 --> 00:48:15,000
+this is true
+
+1360
+00:48:15,000 --> 00:48:17,000
+there's no question that we're
+
+1361
+00:48:17,000 --> 00:48:19,000
+groping around for answers to these things
+
+1362
+00:48:19,000 --> 00:48:21,000
+one hypothesis is
+
+1363
+00:48:21,000 --> 00:48:23,000
+the mathematics of supersymmetry
+
+1364
+00:48:23,000 --> 00:48:25,000
+and spontaneously broken supersymmetry
+
+1365
+00:48:25,000 --> 00:48:27,000
+we haven't discussed that
+
+1366
+00:48:27,000 --> 00:48:29,000
+but there's a notion of spontaneously broken supersymmetry
+
+1367
+00:48:29,000 --> 00:48:31,000
+which
+
+1368
+00:48:31,000 --> 00:48:33,000
+is a very important
+
+1369
+00:48:33,000 --> 00:48:35,000
+we'll create mass differences
+
+1370
+00:48:35,000 --> 00:48:37,000
+for particles
+
+1371
+00:48:37,000 --> 00:48:39,000
+the mathematics of that conceivably
+
+1372
+00:48:39,000 --> 00:48:41,000
+could be something which would
+
+1373
+00:48:41,000 --> 00:48:43,000
+not conceivably, I mean we know
+
+1374
+00:48:43,000 --> 00:48:45,000
+theories where it really will do the job
+
+1375
+00:48:45,000 --> 00:48:49,000
+the only question is
+
+1376
+00:48:49,000 --> 00:48:51,000
+is it the right theory
+
+1377
+00:48:51,000 --> 00:48:53,000
+and is it the only theory which will do that
+
+1378
+00:48:53,000 --> 00:48:55,000
+and
+
+1379
+00:48:55,000 --> 00:48:57,000
+at the moment yes
+
+1380
+00:48:57,000 --> 00:48:59,000
+but that doesn't mean it will stay that way
+
+1381
+00:48:59,000 --> 00:49:01,000
+I seem to recall that before
+
+1382
+00:49:01,000 --> 00:49:03,000
+the top and bottom quarks
+
+1383
+00:49:03,000 --> 00:49:05,000
+were directly detected
+
+1384
+00:49:05,000 --> 00:49:07,000
+I think it was at SLAC
+
+1385
+00:49:07,000 --> 00:49:09,000
+the measurements of the
+
+1386
+00:49:09,000 --> 00:49:11,000
+yields of different particles got accurate enough
+
+1387
+00:49:11,000 --> 00:49:13,000
+that it was
+
+1388
+00:49:13,000 --> 00:49:15,000
+likely that there were three families
+
+1389
+00:49:15,000 --> 00:49:17,000
+well it was the tau
+
+1390
+00:49:17,000 --> 00:49:19,000
+the tau lepton that was discovered
+
+1391
+00:49:19,000 --> 00:49:21,000
+yes
+
+1392
+00:49:21,000 --> 00:49:23,000
+that was the third of the leptons
+
+1393
+00:49:23,000 --> 00:49:25,000
+well
+
+1394
+00:49:25,000 --> 00:49:27,000
+what I think I recall
+
+1395
+00:49:27,000 --> 00:49:29,000
+is that the Feynman diagrams
+
+1396
+00:49:29,000 --> 00:49:31,000
+of all these different virtual particles
+
+1397
+00:49:31,000 --> 00:49:33,000
+that can be
+
+1398
+00:49:33,000 --> 00:49:35,000
+excited and annihilated
+
+1399
+00:49:35,000 --> 00:49:37,000
+and the sum
+
+1400
+00:49:37,000 --> 00:49:39,000
+of all that gives a
+
+1401
+00:49:39,000 --> 00:49:41,000
+measure of what I'm going to call the yield
+
+1402
+00:49:41,000 --> 00:49:43,000
+is the accuracy of the
+
+1403
+00:49:43,000 --> 00:49:45,000
+particle physics now getting to the
+
+1404
+00:49:45,000 --> 00:49:47,000
+point where you can see anything
+
+1405
+00:49:47,000 --> 00:49:49,000
+ok good good that's a good question
+
+1406
+00:49:49,000 --> 00:49:51,000
+here let me phrase the question a little bit
+
+1407
+00:49:51,000 --> 00:49:53,000
+differently
+
+1408
+00:49:55,000 --> 00:49:57,000
+good
+
+1409
+00:49:57,000 --> 00:49:59,000
+that is a very very good question let's come back
+
+1410
+00:49:59,000 --> 00:50:01,000
+to this electron positron story
+
+1411
+00:50:01,000 --> 00:50:03,000
+and superpartners as an illustration
+
+1412
+00:50:03,000 --> 00:50:05,000
+I said there wasn't enough
+
+1413
+00:50:05,000 --> 00:50:07,000
+energy or at least it had better
+
+1414
+00:50:07,000 --> 00:50:09,000
+be that the superpartners
+
+1415
+00:50:09,000 --> 00:50:11,000
+are heavy enough that current
+
+1416
+00:50:11,000 --> 00:50:13,000
+experiments have not had enough energy
+
+1417
+00:50:13,000 --> 00:50:15,000
+to create them
+
+1418
+00:50:15,000 --> 00:50:17,000
+but you might expect you might
+
+1419
+00:50:17,000 --> 00:50:19,000
+ask are there some possibly indirect
+
+1420
+00:50:19,000 --> 00:50:21,000
+evidences the kind of indirect
+
+1421
+00:50:21,000 --> 00:50:23,000
+evidence might be something like this
+
+1422
+00:50:23,000 --> 00:50:25,000
+here's a Feynman diagram
+
+1423
+00:50:25,000 --> 00:50:27,000
+with a
+
+1424
+00:50:27,000 --> 00:50:29,000
+here's electron
+
+1425
+00:50:29,000 --> 00:50:31,000
+positron collide
+
+1426
+00:50:31,000 --> 00:50:33,000
+create
+
+1427
+00:50:33,000 --> 00:50:35,000
+I don't know how to draw the
+
+1428
+00:50:35,000 --> 00:50:37,000
+superpartners let's just draw the superpartners
+
+1429
+00:50:37,000 --> 00:50:39,000
+with dotted lines
+
+1430
+00:50:41,000 --> 00:50:43,000
+but there really isn't enough
+
+1431
+00:50:43,000 --> 00:50:45,000
+energy to create the
+
+1432
+00:50:45,000 --> 00:50:47,000
+superpartners so they have to annihilate
+
+1433
+00:50:47,000 --> 00:50:49,000
+again and that means we just
+
+1434
+00:50:49,000 --> 00:50:51,000
+think of this as a
+
+1435
+00:50:51,000 --> 00:50:53,000
+virtual process
+
+1436
+00:50:53,000 --> 00:50:55,000
+which violates energy conservation
+
+1437
+00:50:55,000 --> 00:50:57,000
+a little bit for a short time
+
+1438
+00:50:57,000 --> 00:50:59,000
+now you might ask well
+
+1439
+00:50:59,000 --> 00:51:01,000
+doesn't this diagram modify
+
+1440
+00:51:01,000 --> 00:51:03,000
+slightly what the other
+
+1441
+00:51:03,000 --> 00:51:05,000
+electron positron
+
+1442
+00:51:05,000 --> 00:51:07,000
+process is like
+
+1443
+00:51:07,000 --> 00:51:09,000
+and can't you detect that difference
+
+1444
+00:51:09,000 --> 00:51:11,000
+so it becomes a question of high
+
+1445
+00:51:11,000 --> 00:51:13,000
+precision
+
+1446
+00:51:13,000 --> 00:51:15,000
+what's called high precision electro
+
+1447
+00:51:15,000 --> 00:51:17,000
+weak or high precision
+
+1448
+00:51:17,000 --> 00:51:19,000
+phenomenology
+
+1449
+00:51:19,000 --> 00:51:21,000
+of the particle
+
+1450
+00:51:21,000 --> 00:51:23,000
+physics where you don't actually
+
+1451
+00:51:23,000 --> 00:51:25,000
+look for the particles but you look
+
+1452
+00:51:25,000 --> 00:51:27,000
+in very high precision experiments
+
+1453
+00:51:27,000 --> 00:51:29,000
+that are already done
+
+1454
+00:51:29,000 --> 00:51:31,000
+you look for evidence
+
+1455
+00:51:31,000 --> 00:51:33,000
+of this kind of thing
+
+1456
+00:51:33,000 --> 00:51:35,000
+well what I can tell you is
+
+1457
+00:51:35,000 --> 00:51:37,000
+to some extent
+
+1458
+00:51:37,000 --> 00:51:39,000
+the answer is that these high
+
+1459
+00:51:39,000 --> 00:51:41,000
+precision experiments do constrain
+
+1460
+00:51:41,000 --> 00:51:43,000
+things and they really are
+
+1461
+00:51:43,000 --> 00:51:45,000
+pushing you to the edge of the parameter
+
+1462
+00:51:45,000 --> 00:51:47,000
+space
+
+1463
+00:51:47,000 --> 00:51:49,000
+in other words it's getting a little
+
+1464
+00:51:49,000 --> 00:51:51,000
+dicey as to whether
+
+1465
+00:51:51,000 --> 00:51:53,000
+you can really fit supersymmetric
+
+1466
+00:51:53,000 --> 00:51:55,000
+particles
+
+1467
+00:51:55,000 --> 00:51:57,000
+into the theory it's still
+
+1468
+00:51:57,000 --> 00:51:59,000
+by no means
+
+1469
+00:51:59,000 --> 00:52:01,000
+ruled out by no means ruled
+
+1470
+00:52:01,000 --> 00:52:03,000
+out by these high precision electro weak
+
+1471
+00:52:03,000 --> 00:52:05,000
+experiments but it's a very good
+
+1472
+00:52:05,000 --> 00:52:07,000
+question
+
+1473
+00:52:07,000 --> 00:52:09,000
+I think the answer
+
+1474
+00:52:09,000 --> 00:52:11,000
+is if we would have
+
+1475
+00:52:11,000 --> 00:52:13,000
+an electron positron
+
+1476
+00:52:13,000 --> 00:52:15,000
+collider
+
+1477
+00:52:15,000 --> 00:52:17,000
+with
+
+1478
+00:52:17,000 --> 00:52:19,000
+at you know
+
+1479
+00:52:19,000 --> 00:52:21,000
+oh I don't know energy of maybe
+
+1480
+00:52:21,000 --> 00:52:23,000
+I'm not sure about
+
+1481
+00:52:23,000 --> 00:52:25,000
+my numbers here but a few times larger
+
+1482
+00:52:25,000 --> 00:52:27,000
+than slack
+
+1483
+00:52:27,000 --> 00:52:29,000
+we might be able to do very high precision
+
+1484
+00:52:29,000 --> 00:52:31,000
+experiments and rule out
+
+1485
+00:52:31,000 --> 00:52:33,000
+supersymmetry on the basis of high precision
+
+1486
+00:52:33,000 --> 00:52:35,000
+experiments we don't
+
+1487
+00:52:35,000 --> 00:52:37,000
+have so why an electron positron
+
+1488
+00:52:37,000 --> 00:52:39,000
+collider incidentally why is that better
+
+1489
+00:52:39,000 --> 00:52:41,000
+for high precision and the answer
+
+1490
+00:52:41,000 --> 00:52:43,000
+is electrons and positrons
+
+1491
+00:52:43,000 --> 00:52:45,000
+what do you collide
+
+1492
+00:52:45,000 --> 00:52:47,000
+at the large hadron collider
+
+1493
+00:52:47,000 --> 00:52:49,000
+hadrons
+
+1494
+00:52:49,000 --> 00:52:51,000
+protons basically
+
+1495
+00:52:51,000 --> 00:52:53,000
+protons are a mess
+
+1496
+00:52:53,000 --> 00:52:55,000
+they consist of several quarks and what you're
+
+1497
+00:52:55,000 --> 00:52:57,000
+really trying to do is collide quarks together
+
+1498
+00:52:57,000 --> 00:52:59,000
+and
+
+1499
+00:52:59,000 --> 00:53:01,000
+it's a mess
+
+1500
+00:53:01,000 --> 00:53:03,000
+it's a much more messy thing than
+
+1501
+00:53:03,000 --> 00:53:05,000
+two elementary particles colliding
+
+1502
+00:53:05,000 --> 00:53:07,000
+together like an electron and positron
+
+1503
+00:53:07,000 --> 00:53:09,000
+so an electron positron collider
+
+1504
+00:53:09,000 --> 00:53:11,000
+is a much better machine for
+
+1505
+00:53:11,000 --> 00:53:13,000
+high precision if we had
+
+1506
+00:53:13,000 --> 00:53:15,000
+such a machine now at
+
+1507
+00:53:15,000 --> 00:53:17,000
+oh I don't know
+
+1508
+00:53:17,000 --> 00:53:19,000
+1 gev or something like that
+
+1509
+00:53:19,000 --> 00:53:21,000
+we could probably do business with a high precision
+
+1510
+00:53:21,000 --> 00:53:23,000
+end of it but we don't
+
+1511
+00:53:23,000 --> 00:53:25,000
+what we have you know like Donald Rumsfeld
+
+1512
+00:53:25,000 --> 00:53:27,000
+said we go with the machine that we have
+
+1513
+00:53:27,000 --> 00:53:29,000
+and
+
+1514
+00:53:29,000 --> 00:53:31,000
+laughter
+
+1515
+00:53:31,000 --> 00:53:32,000
+you know it's the things that we
+
+1516
+00:53:32,000 --> 00:53:33,000
+don't know if we don't know it
+
+1517
+00:53:33,000 --> 00:53:35,000
+right knowns
+
+1518
+00:53:35,000 --> 00:53:37,000
+known knowns and the unknown knowns
+
+1519
+00:53:37,000 --> 00:53:39,000
+laughter
+
+1520
+00:53:39,000 --> 00:53:41,000
+laughter
+
+1521
+00:53:41,000 --> 00:53:43,000
+if the probability of the
+
+1522
+00:53:43,000 --> 00:53:45,000
+process
+
+1523
+00:53:45,000 --> 00:53:47,000
+electron positron annihilating
+
+1524
+00:53:47,000 --> 00:53:49,000
+and then creating two super particles
+
+1525
+00:53:49,000 --> 00:53:51,000
+is a little bit different from
+
+1526
+00:53:51,000 --> 00:53:53,000
+the other way
+
+1527
+00:53:53,000 --> 00:53:55,000
+wouldn't it make sense
+
+1528
+00:53:55,000 --> 00:53:57,000
+the other way being what
+
+1529
+00:53:57,000 --> 00:53:59,000
+two super particles colliding and creating
+
+1530
+00:53:59,000 --> 00:54:00,000
+well we have to get the super
+
+1531
+00:54:00,000 --> 00:54:01,000
+particles before we can do the experiment
+
+1532
+00:54:01,000 --> 00:54:03,000
+that's what I'm getting to if there was a universe
+
+1533
+00:54:03,000 --> 00:54:05,000
+where you had a lot of super particles
+
+1534
+00:54:05,000 --> 00:54:07,000
+they would go down wouldn't they
+
+1535
+00:54:07,000 --> 00:54:09,000
+yeah
+
+1536
+00:54:09,000 --> 00:54:11,000
+because it wants to be in a lower
+
+1537
+00:54:11,000 --> 00:54:13,000
+energy state yeah
+
+1538
+00:54:13,000 --> 00:54:15,000
+these super particles are not expected to be
+
+1539
+00:54:15,000 --> 00:54:17,000
+stable they're expected to be rather
+
+1540
+00:54:17,000 --> 00:54:19,000
+unstable they will decay
+
+1541
+00:54:19,000 --> 00:54:21,000
+to known things fairly
+
+1542
+00:54:21,000 --> 00:54:23,000
+quickly so the likelihood
+
+1543
+00:54:23,000 --> 00:54:25,000
+that there's remnant
+
+1544
+00:54:25,000 --> 00:54:27,000
+super partners of the electron
+
+1545
+00:54:27,000 --> 00:54:29,000
+floating around in space
+
+1546
+00:54:29,000 --> 00:54:31,000
+not likely they will have decayed
+
+1547
+00:54:31,000 --> 00:54:33,000
+long ago
+
+1548
+00:54:33,000 --> 00:54:35,000
+so I think the answer
+
+1549
+00:54:35,000 --> 00:54:37,000
+is that
+
+1550
+00:54:37,000 --> 00:54:39,000
+there's good reason to believe that there are no
+
+1551
+00:54:39,000 --> 00:54:41,000
+freely floating around
+
+1552
+00:54:41,000 --> 00:54:43,000
+you'd have to make them somehow
+
+1553
+00:54:43,000 --> 00:54:45,000
+how do you make them by having
+
+1554
+00:54:45,000 --> 00:54:47,000
+enough energy to make them to overcome
+
+1555
+00:54:47,000 --> 00:54:49,000
+their mass
+
+1556
+00:54:49,000 --> 00:54:51,000
+and that's what we're trying to do
+
+1557
+00:54:51,000 --> 00:54:53,000
+I thought the super partners
+
+1558
+00:54:53,000 --> 00:54:55,000
+were one of the candidates for the dark matter
+
+1559
+00:54:55,000 --> 00:54:57,000
+oh
+
+1560
+00:54:57,000 --> 00:54:59,000
+so that seems
+
+1561
+00:54:59,000 --> 00:55:01,000
+at odds with what you just said
+
+1562
+00:55:01,000 --> 00:55:03,000
+it is
+
+1563
+00:55:03,000 --> 00:55:05,000
+possible that one
+
+1564
+00:55:05,000 --> 00:55:07,000
+super partner might
+
+1565
+00:55:07,000 --> 00:55:09,000
+be stable
+
+1566
+00:55:09,000 --> 00:55:11,000
+the reason one because
+
+1567
+00:55:13,000 --> 00:55:15,000
+they have to decay to something
+
+1568
+00:55:15,000 --> 00:55:17,000
+alright
+
+1569
+00:55:17,000 --> 00:55:19,000
+in many theories they have to decay
+
+1570
+00:55:19,000 --> 00:55:21,000
+to something which is still a super partner
+
+1571
+00:55:21,000 --> 00:55:23,000
+you can't get rid of all super partners
+
+1572
+00:55:23,000 --> 00:55:25,000
+so yes but those super partners
+
+1573
+00:55:25,000 --> 00:55:27,000
+might and very likely would be
+
+1574
+00:55:27,000 --> 00:55:29,000
+electrically neutral the reason
+
+1575
+00:55:29,000 --> 00:55:31,000
+is because any kind of electric charge
+
+1576
+00:55:31,000 --> 00:55:33,000
+is likely to make them even
+
+1577
+00:55:33,000 --> 00:55:35,000
+heavier so it's quite likely
+
+1578
+00:55:35,000 --> 00:55:37,000
+that whatever
+
+1579
+00:55:37,000 --> 00:55:39,000
+the stable super partner
+
+1580
+00:55:39,000 --> 00:55:41,000
+is called the lightest super partner
+
+1581
+00:55:41,000 --> 00:55:43,000
+the LSP the lightest super partner
+
+1582
+00:55:43,000 --> 00:55:45,000
+the lightest super partner very likely
+
+1583
+00:55:45,000 --> 00:55:47,000
+is electrically uncharged
+
+1584
+00:55:47,000 --> 00:55:49,000
+that doesn't mean it's undetectable
+
+1585
+00:55:49,000 --> 00:55:51,000
+you would detect it in the laboratory
+
+1586
+00:55:51,000 --> 00:55:53,000
+but it wouldn't be this thing
+
+1587
+00:55:53,000 --> 00:55:55,000
+here
+
+1588
+00:55:55,000 --> 00:55:57,000
+the lightest super partner may well be stable
+
+1589
+00:55:57,000 --> 00:55:59,000
+it may well be
+
+1590
+00:55:59,000 --> 00:56:01,000
+the dark energy
+
+1591
+00:56:01,000 --> 00:56:03,000
+but most likely there would only be one
+
+1592
+00:56:03,000 --> 00:56:05,000
+of them which would be stable
+
+1593
+00:56:05,000 --> 00:56:07,000
+so all the remnant particles in the universe
+
+1594
+00:56:07,000 --> 00:56:09,000
+that were super partners would just
+
+1595
+00:56:09,000 --> 00:56:11,000
+decay to that one
+
+1596
+00:56:11,000 --> 00:56:13,000
+and that one if it were not electrically
+
+1597
+00:56:13,000 --> 00:56:15,000
+charged would not be so easy to detect
+
+1598
+00:56:15,000 --> 00:56:17,000
+but you would
+
+1599
+00:56:17,000 --> 00:56:19,000
+but in principle yes
+
+1600
+00:56:19,000 --> 00:56:21,000
+you would detect it
+
+1601
+00:56:23,000 --> 00:56:25,000
+How do you know that
+
+1602
+00:56:25,000 --> 00:56:27,000
+it's not the coupling constant that's keeping you
+
+1603
+00:56:27,000 --> 00:56:29,000
+from seeing these things
+
+1604
+00:56:29,000 --> 00:56:31,000
+maybe they have a different coupling constant
+
+1605
+00:56:31,000 --> 00:56:32,000
+no no no one of the
+
+1606
+00:56:32,000 --> 00:56:33,000
+things which is very very important
+
+1607
+00:56:33,000 --> 00:56:35,000
+ok so that's an interesting question
+
+1608
+00:56:35,000 --> 00:56:37,000
+um
+
+1609
+00:56:37,000 --> 00:56:39,000
+let's draw some diagrams let's take
+
+1610
+00:56:39,000 --> 00:56:41,000
+two
+
+1611
+00:56:41,000 --> 00:56:43,000
+Feynman diagrams
+
+1612
+00:56:43,000 --> 00:56:45,000
+I'll do it for the vacuum energy
+
+1613
+00:56:45,000 --> 00:56:47,000
+but we could also do it in principle
+
+1614
+00:56:47,000 --> 00:56:49,000
+for
+
+1615
+00:56:49,000 --> 00:56:51,000
+oh no let's do it
+
+1616
+00:56:51,000 --> 00:56:53,000
+yeah let's do it for the vacuum energy
+
+1617
+00:56:53,000 --> 00:56:55,000
+here's two Feynman diagrams
+
+1618
+00:56:55,000 --> 00:56:57,000
+one of them
+
+1619
+00:56:57,000 --> 00:56:59,000
+involving
+
+1620
+00:56:59,000 --> 00:57:01,000
+the electron going in a loop
+
+1621
+00:57:01,000 --> 00:57:03,000
+and the other involving
+
+1622
+00:57:03,000 --> 00:57:05,000
+the super partner of the electron
+
+1623
+00:57:05,000 --> 00:57:07,000
+going in a loop they will have opposite sign
+
+1624
+00:57:07,000 --> 00:57:09,000
+and they will cancel each other
+
+1625
+00:57:09,000 --> 00:57:11,000
+if they're well matched
+
+1626
+00:57:11,000 --> 00:57:13,000
+ok if they're well matched
+
+1627
+00:57:13,000 --> 00:57:15,000
+if they're matched enough in mass
+
+1628
+00:57:15,000 --> 00:57:17,000
+now let's draw another Feynman diagram
+
+1629
+00:57:17,000 --> 00:57:19,000
+in which a photon goes here
+
+1630
+00:57:19,000 --> 00:57:21,000
+and a photon goes here
+
+1631
+00:57:21,000 --> 00:57:23,000
+will they match and
+
+1632
+00:57:23,000 --> 00:57:25,000
+will they cancel each other yes
+
+1633
+00:57:25,000 --> 00:57:27,000
+they will still cancel each other but
+
+1634
+00:57:27,000 --> 00:57:29,000
+only if the electric charge of the electron
+
+1635
+00:57:29,000 --> 00:57:31,000
+and the electric charge of the super partner
+
+1636
+00:57:31,000 --> 00:57:33,000
+are equal
+
+1637
+00:57:33,000 --> 00:57:35,000
+otherwise there will be a discrepancy
+
+1638
+00:57:35,000 --> 00:57:37,000
+between these two
+
+1639
+00:57:37,000 --> 00:57:39,000
+numerical discrepancy between them
+
+1640
+00:57:39,000 --> 00:57:41,000
+which would lead again to
+
+1641
+00:57:41,000 --> 00:57:43,000
+a big divergent answer
+
+1642
+00:57:43,000 --> 00:57:45,000
+so it's important in these arguments
+
+1643
+00:57:45,000 --> 00:57:47,000
+that you follow
+
+1644
+00:57:47,000 --> 00:57:49,000
+through at every level
+
+1645
+00:57:49,000 --> 00:57:51,000
+and make sure that the cancellation takes place
+
+1646
+00:57:51,000 --> 00:57:53,000
+and that typically requires
+
+1647
+00:57:53,000 --> 00:57:55,000
+the electric charge of the partners
+
+1648
+00:57:55,000 --> 00:57:56,000
+to be the same as
+
+1649
+00:57:56,000 --> 00:57:57,000
+the electric charge of the particles
+
+1650
+00:57:57,000 --> 00:57:59,000
+so yeah
+
+1651
+00:57:59,000 --> 00:58:01,000
+um
+
+1652
+00:58:01,000 --> 00:58:03,000
+what is the partner of the photon
+
+1653
+00:58:03,000 --> 00:58:05,000
+with what it's got mass
+
+1654
+00:58:05,000 --> 00:58:07,000
+the real partner of the photon has mass
+
+1655
+00:58:09,000 --> 00:58:11,000
+now how
+
+1656
+00:58:11,000 --> 00:58:13,000
+hmm
+
+1657
+00:58:13,000 --> 00:58:15,000
+this is what I'm telling you
+
+1658
+00:58:15,000 --> 00:58:17,000
+we do not have a
+
+1659
+00:58:17,000 --> 00:58:19,000
+collection of particles which have the same
+
+1660
+00:58:19,000 --> 00:58:21,000
+mass as the known particles
+
+1661
+00:58:21,000 --> 00:58:23,000
+we don't so supersymmetry
+
+1662
+00:58:23,000 --> 00:58:25,000
+is not a precise thing
+
+1663
+00:58:25,000 --> 00:58:27,000
+at best it's an approximation
+
+1664
+00:58:27,000 --> 00:58:29,000
+it's an approximation
+
+1665
+00:58:29,000 --> 00:58:31,000
+in which in the exact supersymmetric
+
+1666
+00:58:31,000 --> 00:58:33,000
+theory if it existed
+
+1667
+00:58:33,000 --> 00:58:35,000
+the super partner of the photon
+
+1668
+00:58:35,000 --> 00:58:37,000
+would be massless
+
+1669
+00:58:37,000 --> 00:58:39,000
+it's not
+
+1670
+00:58:39,000 --> 00:58:41,000
+these particles have names incidentally
+
+1671
+00:58:41,000 --> 00:58:43,000
+typically if you have a
+
+1672
+00:58:43,000 --> 00:58:45,000
+if an ordinary particle is a boson
+
+1673
+00:58:45,000 --> 00:58:47,000
+then the super partner is an eno
+
+1674
+00:58:47,000 --> 00:58:49,000
+for example
+
+1675
+00:58:49,000 --> 00:58:51,000
+the photon partner would be a fotino
+
+1676
+00:58:51,000 --> 00:58:53,000
+the w boson
+
+1677
+00:58:53,000 --> 00:58:55,000
+its partner would be a wino
+
+1678
+00:58:55,000 --> 00:58:57,000
+or a we-no
+
+1679
+00:58:57,000 --> 00:58:59,000
+the z particle
+
+1680
+00:58:59,000 --> 00:59:01,000
+would be a zeno I suppose
+
+1681
+00:59:01,000 --> 00:59:03,000
+and um
+
+1682
+00:59:03,000 --> 00:59:05,000
+for the super partners of the bosons
+
+1683
+00:59:05,000 --> 00:59:07,000
+they're typically scalar particles
+
+1684
+00:59:07,000 --> 00:59:08,000
+and so you put an
+
+1685
+00:59:08,000 --> 00:59:09,000
+s in front of their name
+
+1686
+00:59:09,000 --> 00:59:11,000
+so that leads to disgusting names
+
+1687
+00:59:11,000 --> 00:59:13,000
+like the selectron
+
+1688
+00:59:13,000 --> 00:59:15,000
+which is you know not nice
+
+1689
+00:59:15,000 --> 00:59:17,000
+the super partners have
+
+1690
+00:59:17,000 --> 00:59:19,000
+peculiar names
+
+1691
+00:59:19,000 --> 00:59:21,000
+uh
+
+1692
+00:59:21,000 --> 00:59:23,000
+the gravitino would be a
+
+1693
+00:59:23,000 --> 00:59:25,000
+fermionic version of the graviton
+
+1694
+00:59:25,000 --> 00:59:27,000
+uh
+
+1695
+00:59:27,000 --> 00:59:29,000
+what are the names
+
+1696
+00:59:29,000 --> 00:59:31,000
+what are the peculiar names are there
+
+1697
+00:59:31,000 --> 00:59:33,000
+there's a hexeno which would be a fermionic
+
+1698
+00:59:33,000 --> 00:59:35,000
+version of the higgs particle
+
+1699
+00:59:35,000 --> 00:59:37,000
+enos are always fermions
+
+1700
+00:59:37,000 --> 00:59:39,000
+uh
+
+1701
+00:59:39,000 --> 00:59:41,000
+except when they're
+
+1702
+00:59:41,000 --> 00:59:43,000
+ordinary fermions then they're not enos
+
+1703
+00:59:43,000 --> 00:59:45,000
+they're just electrons quarks
+
+1704
+00:59:45,000 --> 00:59:47,000
+what would you
+
+1705
+00:59:47,000 --> 00:59:49,000
+expect the bosonic partner
+
+1706
+00:59:49,000 --> 00:59:51,000
+of a boson to be
+
+1707
+00:59:51,000 --> 00:59:53,000
+a squark
+
+1708
+00:59:53,000 --> 00:59:55,000
+a squark
+
+1709
+00:59:55,000 --> 00:59:57,000
+a squark
+
+1710
+00:59:57,000 --> 00:59:59,000
+a squark
+
+1711
+00:59:59,000 --> 01:00:01,000
+yeah
+
+1712
+01:00:01,000 --> 01:00:03,000
+so there are squarks and enos
+
+1713
+01:00:03,000 --> 01:00:05,000
+of all kinds
+
+1714
+01:00:05,000 --> 01:00:07,000
+and none have ever been detected yet
+
+1715
+01:00:07,000 --> 01:00:09,000
+I think they're going to be detected
+
+1716
+01:00:09,000 --> 01:00:11,000
+my guess is that this is going to work
+
+1717
+01:00:11,000 --> 01:00:13,000
+but I don't know we'll find out
+
+1718
+01:00:13,000 --> 01:00:15,000
+I'm just guessing
+
+1719
+01:00:15,000 --> 01:00:17,000
+let's talk about one last thing before we go home
+
+1720
+01:00:17,000 --> 01:00:19,000
+now
+
+1721
+01:00:19,000 --> 01:00:21,000
+how is the spin
+
+1722
+01:00:21,000 --> 01:00:23,000
+of the ordinary particle
+
+1723
+01:00:23,000 --> 01:00:25,000
+related to the super particles
+
+1724
+01:00:25,000 --> 01:00:27,000
+okay
+
+1725
+01:00:27,000 --> 01:00:29,000
+the
+
+1726
+01:00:29,000 --> 01:00:31,000
+super particles
+
+1727
+01:00:31,000 --> 01:00:33,000
+if the ordinary
+
+1728
+01:00:33,000 --> 01:00:35,000
+particles are bosons
+
+1729
+01:00:35,000 --> 01:00:37,000
+then the super particles are always fermions
+
+1730
+01:00:37,000 --> 01:00:39,000
+so if the
+
+1731
+01:00:39,000 --> 01:00:41,000
+ordinary particle is a
+
+1732
+01:00:41,000 --> 01:00:43,000
+boson then typically the super
+
+1733
+01:00:43,000 --> 01:00:45,000
+partner is a half spin
+
+1734
+01:00:45,000 --> 01:00:47,000
+and that's true whether it be a
+
+1735
+01:00:47,000 --> 01:00:49,000
+whether the original particle is a scalar
+
+1736
+01:00:49,000 --> 01:00:51,000
+or a gauge boson
+
+1737
+01:00:51,000 --> 01:00:53,000
+the partner is a half spin
+
+1738
+01:00:53,000 --> 01:00:55,000
+particle
+
+1739
+01:00:55,000 --> 01:00:57,000
+if the ordinary particle is a half spin
+
+1740
+01:00:57,000 --> 01:00:59,000
+particle then typically the partner
+
+1741
+01:00:59,000 --> 01:01:01,000
+of it is a
+
+1742
+01:01:01,000 --> 01:01:03,000
+scalar particle which means no spin
+
+1743
+01:01:03,000 --> 01:01:05,000
+but it's always this interplay
+
+1744
+01:01:05,000 --> 01:01:07,000
+they always differ by half a unit
+
+1745
+01:01:07,000 --> 01:01:09,000
+of spin
+
+1746
+01:01:09,000 --> 01:01:11,000
+so if the ordinary particle is half spin
+
+1747
+01:01:11,000 --> 01:01:13,000
+the usual the super
+
+1748
+01:01:13,000 --> 01:01:15,000
+partner would be spin zero
+
+1749
+01:01:15,000 --> 01:01:17,000
+if the ordinary particle is spin zero
+
+1750
+01:01:17,000 --> 01:01:19,000
+like the Higgs boson
+
+1751
+01:01:19,000 --> 01:01:21,000
+then the corresponding fermion
+
+1752
+01:01:21,000 --> 01:01:23,000
+would be a half spin
+
+1753
+01:01:23,000 --> 01:01:25,000
+so they always differ by a half unit
+
+1754
+01:01:25,000 --> 01:01:27,000
+yeah
+
+1755
+01:01:27,000 --> 01:01:29,000
+would these new scalar particles be
+
+1756
+01:01:29,000 --> 01:01:31,000
+subject to
+
+1757
+01:01:31,000 --> 01:01:33,000
+which would what
+
+1758
+01:01:33,000 --> 01:01:35,000
+if they were new scalar super partners
+
+1759
+01:01:35,000 --> 01:01:37,000
+would they be subject
+
+1760
+01:01:37,000 --> 01:01:39,000
+to spontaneous symmetry breaking
+
+1761
+01:01:39,000 --> 01:01:41,000
+in principle the answer
+
+1762
+01:01:41,000 --> 01:01:43,000
+could be yes
+
+1763
+01:01:43,000 --> 01:01:45,000
+in fact that would be a very bad idea
+
+1764
+01:01:45,000 --> 01:01:47,000
+yeah
+
+1765
+01:01:47,000 --> 01:01:49,000
+so that must not happen
+
+1766
+01:01:49,000 --> 01:01:51,000
+uh
+
+1767
+01:01:51,000 --> 01:01:53,000
+right so
+
+1768
+01:01:53,000 --> 01:01:55,000
+let me repeat the question
+
+1769
+01:01:55,000 --> 01:01:57,000
+the question is if there are all these additional scalar
+
+1770
+01:01:57,000 --> 01:01:59,000
+particles around that means scalar
+
+1771
+01:01:59,000 --> 01:02:01,000
+fields and scalar fields are things
+
+1772
+01:02:01,000 --> 01:02:03,000
+which we've seen can have the spontaneous symmetry
+
+1773
+01:02:03,000 --> 01:02:05,000
+breaking phenomena
+
+1774
+01:02:05,000 --> 01:02:07,000
+could we tolerate having an
+
+1775
+01:02:07,000 --> 01:02:09,000
+additional some other spontaneous
+
+1776
+01:02:09,000 --> 01:02:11,000
+symmetry break down no we couldn't
+
+1777
+01:02:11,000 --> 01:02:13,000
+that would be a bad thing to happen
+
+1778
+01:02:13,000 --> 01:02:15,000
+so that
+
+1779
+01:02:15,000 --> 01:02:17,000
+that would not be good
+
+1780
+01:02:17,000 --> 01:02:19,000
+so the fermion then would be
+
+1781
+01:02:19,000 --> 01:02:21,000
+the super partner of the Higgs
+
+1782
+01:02:21,000 --> 01:02:23,000
+the Higgsino
+
+1783
+01:02:23,000 --> 01:02:25,000
+yeah would that have any special properties
+
+1784
+01:02:25,000 --> 01:02:27,000
+well I suppose
+
+1785
+01:02:27,000 --> 01:02:29,000
+it has all kinds of special properties
+
+1786
+01:02:29,000 --> 01:02:31,000
+but nothing I mean you know to an
+
+1787
+01:02:31,000 --> 01:02:33,000
+experimental particle physicist I'm sure we could
+
+1788
+01:02:33,000 --> 01:02:35,000
+conjure up all sorts of special properties
+
+1789
+01:02:35,000 --> 01:02:37,000
+but nothing
+
+1790
+01:02:37,000 --> 01:02:39,000
+hmm
+
+1791
+01:02:39,000 --> 01:02:41,000
+well
+
+1792
+01:02:41,000 --> 01:02:43,000
+remember the fourth power
+
+1793
+01:02:43,000 --> 01:02:45,000
+is simply another way of talking about a Feynman
+
+1794
+01:02:45,000 --> 01:02:47,000
+diagram where two particles come in and two particles
+
+1795
+01:02:47,000 --> 01:02:49,000
+go out so there will be
+
+1796
+01:02:49,000 --> 01:02:51,000
+matching interactions one of the
+
+1797
+01:02:51,000 --> 01:02:53,000
+things that has to match are the
+
+1798
+01:02:53,000 --> 01:02:55,000
+interactions of the particles which we haven't talked about
+
+1799
+01:02:55,000 --> 01:02:57,000
+at all yet
+
+1800
+01:02:57,000 --> 01:02:59,000
+so there will be matching
+
+1801
+01:02:59,000 --> 01:03:01,000
+phenomena to take the place of the
+
+1802
+01:03:01,000 --> 01:03:03,000
+five fourth terms yeah but it won't
+
+1803
+01:03:03,000 --> 01:03:05,000
+be exactly what you think but
+
+1804
+01:03:05,000 --> 01:03:07,000
+related yeah
+
+1805
+01:03:07,000 --> 01:03:09,000
+the
+
+1806
+01:03:09,000 --> 01:03:11,000
+theorem about the rotations
+
+1807
+01:03:11,000 --> 01:03:13,000
+does it hold
+
+1808
+01:03:13,000 --> 01:03:15,000
+in higher or lower dimensions
+
+1809
+01:03:15,000 --> 01:03:17,000
+basically
+
+1810
+01:03:17,000 --> 01:03:19,000
+wait say that again
+
+1811
+01:03:19,000 --> 01:03:21,000
+the theorem that says that the rotation
+
+1812
+01:03:21,000 --> 01:03:23,000
+two pi rotations
+
+1813
+01:03:23,000 --> 01:03:25,000
+oh you're asking whether there are higher
+
+1814
+01:03:25,000 --> 01:03:27,000
+and lower dimensional versions of it
+
+1815
+01:03:27,000 --> 01:03:29,000
+yeah there are
+
+1816
+01:03:29,000 --> 01:03:31,000
+uh
+
+1817
+01:03:33,000 --> 01:03:35,000
+the answer is yes
+
+1818
+01:03:35,000 --> 01:03:37,000
+there are
+
+1819
+01:03:37,000 --> 01:03:39,000
+it's an odd even
+
+1820
+01:03:39,000 --> 01:03:41,000
+dimension business peculiar
+
+1821
+01:03:41,000 --> 01:03:43,000
+discrepancy between
+
+1822
+01:03:43,000 --> 01:03:45,000
+odd and even dimensions whether there
+
+1823
+01:03:45,000 --> 01:03:47,000
+is or is not
+
+1824
+01:03:47,000 --> 01:03:49,000
+an analog to that
+
+1825
+01:03:49,000 --> 01:03:51,000
+there can be
+
+1826
+01:03:51,000 --> 01:03:53,000
+analogs to it
+
+1827
+01:03:53,000 --> 01:03:55,000
+because it seems easily in two dimensions
+
+1828
+01:03:55,000 --> 01:03:57,000
+it wouldn't happen right in two dimensions
+
+1829
+01:03:57,000 --> 01:03:59,000
+in two dimensions it doesn't happen
+
+1830
+01:03:59,000 --> 01:04:01,000
+right
+
+1831
+01:04:01,000 --> 01:04:03,000
+uh in two dimensions
+
+1832
+01:04:03,000 --> 01:04:05,000
+there are things which are in between
+
+1833
+01:04:05,000 --> 01:04:07,000
+fermions and bosons
+
+1834
+01:04:07,000 --> 01:04:09,000
+they're called anyons
+
+1835
+01:04:09,000 --> 01:04:11,000
+any meaning any value of the spin
+
+1836
+01:04:11,000 --> 01:04:13,000
+so in two dimensions
+
+1837
+01:04:13,000 --> 01:04:15,000
+two spatial dimensions
+
+1838
+01:04:15,000 --> 01:04:17,000
+there's uh there's a generalization
+
+1839
+01:04:17,000 --> 01:04:19,000
+to any spin
+
+1840
+01:04:19,000 --> 01:04:21,000
+called anyons
+
+1841
+01:04:21,000 --> 01:04:23,000
+and they happen in condensed matter physics
+
+1842
+01:04:23,000 --> 01:04:25,000
+uh excitations in certain
+
+1843
+01:04:25,000 --> 01:04:27,000
+condensed matter systems
+
+1844
+01:04:27,000 --> 01:04:29,000
+have basically arbitrary spin
+
+1845
+01:04:29,000 --> 01:04:31,000
+um
+
+1846
+01:04:31,000 --> 01:04:33,000
+but this is not for us to
+
+1847
+01:04:33,000 --> 01:04:35,000
+to discuss now
+
+1848
+01:04:35,000 --> 01:04:37,000
+uh
+
+1849
+01:04:37,000 --> 01:04:39,000
+okay i was going to talk about one more thing
+
+1850
+01:04:39,000 --> 01:04:41,000
+um
+
+1851
+01:04:41,000 --> 01:04:43,000
+just about
+
+1852
+01:04:43,000 --> 01:04:45,000
+whether we
+
+1853
+01:04:45,000 --> 01:04:47,000
+what would the world be like
+
+1854
+01:04:47,000 --> 01:04:49,000
+if it were exactly supersymmetric
+
+1855
+01:04:49,000 --> 01:04:51,000
+interesting question supposing it was
+
+1856
+01:04:51,000 --> 01:04:53,000
+exactly supersymmetric
+
+1857
+01:04:53,000 --> 01:04:55,000
+how different would the world be
+
+1858
+01:04:55,000 --> 01:04:57,000
+how different would we be
+
+1859
+01:04:57,000 --> 01:04:59,000
+how different would biology be
+
+1860
+01:04:59,000 --> 01:05:01,000
+how different would chemistry be
+
+1861
+01:05:01,000 --> 01:05:03,000
+and the answer is very different
+
+1862
+01:05:03,000 --> 01:05:05,000
+so let me just show you
+
+1863
+01:05:05,000 --> 01:05:07,000
+why it is not
+
+1864
+01:05:07,000 --> 01:05:09,000
+possible certainly we
+
+1865
+01:05:09,000 --> 01:05:11,000
+don't live in a supersymmetric world
+
+1866
+01:05:11,000 --> 01:05:13,000
+supersymmetric meaning exact
+
+1867
+01:05:13,000 --> 01:05:15,000
+degeneracy exact
+
+1868
+01:05:15,000 --> 01:05:17,000
+equivalence between the masses of the particles
+
+1869
+01:05:17,000 --> 01:05:19,000
+and the superpartners we do not live in
+
+1870
+01:05:19,000 --> 01:05:21,000
+such a world could we live in such
+
+1871
+01:05:21,000 --> 01:05:23,000
+a world would such a world
+
+1872
+01:05:23,000 --> 01:05:25,000
+be one in which
+
+1873
+01:05:25,000 --> 01:05:27,000
+ordinary chemistry
+
+1874
+01:05:27,000 --> 01:05:29,000
+would exist for example
+
+1875
+01:05:29,000 --> 01:05:31,000
+biology anything else that we are familiar
+
+1876
+01:05:31,000 --> 01:05:33,000
+with
+
+1877
+01:05:33,000 --> 01:05:35,000
+i think not
+
+1878
+01:05:35,000 --> 01:05:37,000
+and let me show you what would happen to chemistry
+
+1879
+01:05:37,000 --> 01:05:39,000
+among other things
+
+1880
+01:05:39,000 --> 01:05:41,000
+atoms of course
+
+1881
+01:05:41,000 --> 01:05:43,000
+have electrons
+
+1882
+01:05:43,000 --> 01:05:45,000
+if there was a superpartner
+
+1883
+01:05:45,000 --> 01:05:47,000
+to the electron
+
+1884
+01:05:47,000 --> 01:05:49,000
+it would be a boson right
+
+1885
+01:05:49,000 --> 01:05:51,000
+it would be a boson
+
+1886
+01:05:51,000 --> 01:05:53,000
+it would have exactly the same
+
+1887
+01:05:53,000 --> 01:05:55,000
+mass and charge of the electron
+
+1888
+01:05:55,000 --> 01:05:57,000
+if we lived in such a supersymmetric world
+
+1889
+01:05:57,000 --> 01:05:59,000
+there would also be
+
+1890
+01:05:59,000 --> 01:06:01,000
+a partner to the photon
+
+1891
+01:06:01,000 --> 01:06:03,000
+we would call it the photino
+
+1892
+01:06:03,000 --> 01:06:05,000
+and because the photon is massless
+
+1893
+01:06:05,000 --> 01:06:07,000
+the photino would also have to be
+
+1894
+01:06:07,000 --> 01:06:09,000
+exactly massless
+
+1895
+01:06:09,000 --> 01:06:10,000
+so let me show you
+
+1896
+01:06:10,000 --> 01:06:11,000
+what would happen to an atom
+
+1897
+01:06:11,000 --> 01:06:13,000
+not a
+
+1898
+01:06:13,000 --> 01:06:15,000
+hydrogen or a helium atom but let's
+
+1899
+01:06:15,000 --> 01:06:17,000
+start with some atom
+
+1900
+01:06:17,000 --> 01:06:19,000
+with three electrons
+
+1901
+01:06:19,000 --> 01:06:21,000
+or four electrons or five electrons
+
+1902
+01:06:21,000 --> 01:06:23,000
+in a hydrogen atom of course
+
+1903
+01:06:23,000 --> 01:06:25,000
+the
+
+1904
+01:06:25,000 --> 01:06:27,000
+single electron moving in it
+
+1905
+01:06:27,000 --> 01:06:29,000
+moves in the lowest orbit in the lowest borer orbit
+
+1906
+01:06:29,000 --> 01:06:31,000
+in helium
+
+1907
+01:06:31,000 --> 01:06:33,000
+we have two electrons
+
+1908
+01:06:33,000 --> 01:06:35,000
+also both moving
+
+1909
+01:06:35,000 --> 01:06:37,000
+in the lowest borer orbit
+
+1910
+01:06:37,000 --> 01:06:39,000
+so both hydrogen and helium
+
+1911
+01:06:39,000 --> 01:06:41,000
+the electrons all move
+
+1912
+01:06:41,000 --> 01:06:43,000
+in the lowest orbit
+
+1913
+01:06:43,000 --> 01:06:45,000
+in the stable form of these elements
+
+1914
+01:06:45,000 --> 01:06:47,000
+let's go next to lithium
+
+1915
+01:06:47,000 --> 01:06:49,000
+lithium has an extra electron
+
+1916
+01:06:49,000 --> 01:06:51,000
+and the extra electron
+
+1917
+01:06:51,000 --> 01:06:53,000
+is in the next orbit out
+
+1918
+01:06:53,000 --> 01:06:55,000
+because of the
+
+1919
+01:06:55,000 --> 01:06:57,000
+what's the principle which says that the lithium atom
+
+1920
+01:06:57,000 --> 01:06:59,000
+can't have three electrons in the same orbit
+
+1921
+01:06:59,000 --> 01:07:01,000
+Pauli exclusion principle
+
+1922
+01:07:01,000 --> 01:07:02,000
+Pauli exclusion principle is more than enough to
+
+1923
+01:07:02,000 --> 01:07:03,000
+make a electron move in the same orbit
+
+1924
+01:07:03,000 --> 01:07:05,000
+it's most definitely associated with the fact
+
+1925
+01:07:05,000 --> 01:07:07,000
+that the electrons are fermions
+
+1926
+01:07:07,000 --> 01:07:09,000
+now
+
+1927
+01:07:09,000 --> 01:07:11,000
+what would happen to this outer electron
+
+1928
+01:07:11,000 --> 01:07:13,000
+remember the outer electron
+
+1929
+01:07:13,000 --> 01:07:15,000
+has more energy
+
+1930
+01:07:15,000 --> 01:07:17,000
+than the inner electrons
+
+1931
+01:07:17,000 --> 01:07:19,000
+it wants to go down to the
+
+1932
+01:07:19,000 --> 01:07:21,000
+lowest level but it can't get in there
+
+1933
+01:07:21,000 --> 01:07:23,000
+because it's being blocked
+
+1934
+01:07:23,000 --> 01:07:25,000
+by the other ones and it just doesn't want
+
+1935
+01:07:25,000 --> 01:07:27,000
+to allow another electron
+
+1936
+01:07:27,000 --> 01:07:29,000
+in there by the Pauli exclusion principle
+
+1937
+01:07:29,000 --> 01:07:31,000
+how could the
+
+1938
+01:07:31,000 --> 01:07:33,000
+how would it incidentally how
+
+1939
+01:07:33,000 --> 01:07:35,000
+would it get down to the lowest level
+
+1940
+01:07:35,000 --> 01:07:36,000
+it would get down to the
+
+1941
+01:07:36,000 --> 01:07:37,000
+lowest level by emitting a photon
+
+1942
+01:07:37,000 --> 01:07:39,000
+which would carry off some energy
+
+1943
+01:07:39,000 --> 01:07:41,000
+and the electron drop down
+
+1944
+01:07:41,000 --> 01:07:43,000
+to the lower level
+
+1945
+01:07:43,000 --> 01:07:45,000
+but it's blocked it can't happen
+
+1946
+01:07:45,000 --> 01:07:47,000
+now
+
+1947
+01:07:47,000 --> 01:07:49,000
+imagine there was also a photino
+
+1948
+01:07:49,000 --> 01:07:51,000
+which was also massless
+
+1949
+01:07:51,000 --> 01:07:53,000
+what could happen to this electron
+
+1950
+01:07:53,000 --> 01:07:55,000
+not what would happen
+
+1951
+01:07:55,000 --> 01:07:57,000
+sorry the electron
+
+1952
+01:07:57,000 --> 01:07:59,000
+moving around
+
+1953
+01:07:59,000 --> 01:08:01,000
+would emit a photino
+
+1954
+01:08:01,000 --> 01:08:03,000
+not a photon a massless photino
+
+1955
+01:08:03,000 --> 01:08:05,000
+of exactly the same
+
+1956
+01:08:05,000 --> 01:08:07,000
+properties or similar properties
+
+1957
+01:08:07,000 --> 01:08:09,000
+to a photon and then what would it become
+
+1958
+01:08:09,000 --> 01:08:11,000
+a selectron
+
+1959
+01:08:11,000 --> 01:08:13,000
+a selectron
+
+1960
+01:08:13,000 --> 01:08:15,000
+it has to change this is a fermion
+
+1961
+01:08:15,000 --> 01:08:17,000
+here's a fermion
+
+1962
+01:08:17,000 --> 01:08:19,000
+and a fermion gets projected out
+
+1963
+01:08:19,000 --> 01:08:21,000
+what has to be left over
+
+1964
+01:08:21,000 --> 01:08:23,000
+a boson
+
+1965
+01:08:23,000 --> 01:08:25,000
+right if a fermion
+
+1966
+01:08:25,000 --> 01:08:27,000
+comes in and emits a fermion
+
+1967
+01:08:27,000 --> 01:08:28,000
+it has to become a boson
+
+1968
+01:08:28,000 --> 01:08:29,000
+but what would that boson be
+
+1969
+01:08:29,000 --> 01:08:31,000
+it would be the super partner
+
+1970
+01:08:31,000 --> 01:08:33,000
+of the electron which is called
+
+1971
+01:08:33,000 --> 01:08:35,000
+the selectron
+
+1972
+01:08:35,000 --> 01:08:37,000
+now the selectron is a boson
+
+1973
+01:08:37,000 --> 01:08:39,000
+it has no trouble getting into the lowest orbit
+
+1974
+01:08:39,000 --> 01:08:41,000
+so it drops down to the lowest orbit
+
+1975
+01:08:41,000 --> 01:08:43,000
+and you would not have a lithium atom
+
+1976
+01:08:43,000 --> 01:08:45,000
+you would have a
+
+1977
+01:08:45,000 --> 01:08:47,000
+slithium atom
+
+1978
+01:08:47,000 --> 01:08:49,000
+or something
+
+1979
+01:08:49,000 --> 01:08:51,000
+where
+
+1980
+01:08:51,000 --> 01:08:53,000
+but the main thing is
+
+1981
+01:08:53,000 --> 01:08:55,000
+that the electron would be replaced
+
+1982
+01:08:55,000 --> 01:08:57,000
+by something that drops down to the lowest
+
+1983
+01:08:57,000 --> 01:08:59,000
+borer orbit
+
+1984
+01:08:59,000 --> 01:09:01,000
+now think about a big atom
+
+1985
+01:09:01,000 --> 01:09:03,000
+chemistry what does chemistry do to
+
+1986
+01:09:03,000 --> 01:09:05,000
+the physics of the valence electrons
+
+1987
+01:09:05,000 --> 01:09:07,000
+valence electrons
+
+1988
+01:09:07,000 --> 01:09:09,000
+what would happen to the valence electrons
+
+1989
+01:09:09,000 --> 01:09:11,000
+in a big atom
+
+1990
+01:09:11,000 --> 01:09:13,000
+they would all
+
+1991
+01:09:13,000 --> 01:09:15,000
+just drop down
+
+1992
+01:09:15,000 --> 01:09:17,000
+by the same mechanism they would all
+
+1993
+01:09:17,000 --> 01:09:19,000
+drop down to the lowest energy orbit
+
+1994
+01:09:19,000 --> 01:09:21,000
+and
+
+1995
+01:09:21,000 --> 01:09:23,000
+all crowd in on the lowest
+
+1996
+01:09:23,000 --> 01:09:24,000
+energy orbit to the extent
+
+1997
+01:09:24,000 --> 01:09:25,000
+that they can get in there
+
+1998
+01:09:25,000 --> 01:09:27,000
+they would not be blocked by
+
+1999
+01:09:27,000 --> 01:09:29,000
+Fermi statistics and so they would
+
+2000
+01:09:29,000 --> 01:09:31,000
+all sit in the lowest energy they could
+
+2001
+01:09:31,000 --> 01:09:33,000
+get into
+
+2002
+01:09:33,000 --> 01:09:34,000
+and so what kind of thing
+
+2003
+01:09:34,000 --> 01:09:35,000
+would you have at the center here
+
+2004
+01:09:35,000 --> 01:09:37,000
+at the center you would have a
+
+2005
+01:09:37,000 --> 01:09:39,000
+bosa condensation of
+
+2006
+01:09:39,000 --> 01:09:41,000
+selectrons
+
+2007
+01:09:41,000 --> 01:09:43,000
+rather than an atom with valence electrons
+
+2008
+01:09:43,000 --> 01:09:45,000
+you would have an entirely different thing
+
+2009
+01:09:45,000 --> 01:09:47,000
+now I don't know what the world would be like
+
+2010
+01:09:47,000 --> 01:09:49,000
+I just know whatever it would be like
+
+2011
+01:09:49,000 --> 01:09:51,000
+it would not have conventional chemistry
+
+2012
+01:09:51,000 --> 01:09:53,000
+it would have nothing like conventional chemistry
+
+2013
+01:09:53,000 --> 01:09:55,000
+whether
+
+2014
+01:09:55,000 --> 01:09:57,000
+you can
+
+2015
+01:09:57,000 --> 01:09:59,000
+use such atoms as
+
+2016
+01:09:59,000 --> 01:10:01,000
+tinker toys to create molecules
+
+2017
+01:10:01,000 --> 01:10:03,000
+and so forth I rather doubt
+
+2018
+01:10:03,000 --> 01:10:05,000
+they're all going to be crowded in
+
+2019
+01:10:05,000 --> 01:10:07,000
+at the
+
+2020
+01:10:07,000 --> 01:10:09,000
+small distances near the nucleus
+
+2021
+01:10:09,000 --> 01:10:11,000
+I rather doubt that there's
+
+2022
+01:10:11,000 --> 01:10:13,000
+anything resembling ordinary
+
+2023
+01:10:13,000 --> 01:10:15,000
+chemistry of molecules and so forth
+
+2024
+01:10:15,000 --> 01:10:17,000
+but I don't think anybody's ever worked this out
+
+2025
+01:10:17,000 --> 01:10:19,000
+incidentally what the world would be like
+
+2026
+01:10:19,000 --> 01:10:21,000
+in such a super symmetric but it would not
+
+2027
+01:10:21,000 --> 01:10:23,000
+resemble our world
+
+2028
+01:10:23,000 --> 01:10:25,000
+so the selectron would limit
+
+2029
+01:10:25,000 --> 01:10:27,000
+would emit a
+
+2030
+01:10:27,000 --> 01:10:29,000
+a fotino
+
+2031
+01:10:29,000 --> 01:10:31,000
+the electron would emit
+
+2032
+01:10:31,000 --> 01:10:33,000
+if there was an electron
+
+2033
+01:10:33,000 --> 01:10:34,000
+if there was in other
+
+2034
+01:10:34,000 --> 01:10:35,000
+words if we started with something
+
+2035
+01:10:35,000 --> 01:10:37,000
+that looked awfully much like a
+
+2036
+01:10:37,000 --> 01:10:39,000
+lithium atom
+
+2037
+01:10:39,000 --> 01:10:41,000
+it would very quickly become a slithium atom
+
+2038
+01:10:41,000 --> 01:10:43,000
+with a fotino traveling out
+
+2039
+01:10:43,000 --> 01:10:45,000
+wouldn't there be a coupling constant
+
+2040
+01:10:45,000 --> 01:10:47,000
+associated with that
+
+2041
+01:10:47,000 --> 01:10:49,000
+yeah but yes yes
+
+2042
+01:10:49,000 --> 01:10:51,000
+so it could be hard to do
+
+2043
+01:10:51,000 --> 01:10:53,000
+it could be what
+
+2044
+01:10:53,000 --> 01:10:55,000
+yeah but we know what that coupling constant is
+
+2045
+01:10:55,000 --> 01:10:57,000
+it's the electric charge
+
+2046
+01:10:57,000 --> 01:10:59,000
+so we know it's not hard to compute
+
+2047
+01:10:59,000 --> 01:11:01,000
+what would be
+
+2048
+01:11:01,000 --> 01:11:03,000
+the lifetime of a lithium atom
+
+2049
+01:11:03,000 --> 01:11:05,000
+if the electron could drop down
+
+2050
+01:11:05,000 --> 01:11:07,000
+it would be short
+
+2051
+01:11:07,000 --> 01:11:09,000
+it would be just a
+
+2052
+01:11:09,000 --> 01:11:11,000
+microsecond or something
+
+2053
+01:11:11,000 --> 01:11:13,000
+so one can calculate
+
+2054
+01:11:13,000 --> 01:11:15,000
+and these would not be terribly small numbers
+
+2055
+01:11:15,000 --> 01:11:17,000
+they would not be terrible
+
+2056
+01:11:17,000 --> 01:11:18,000
+so no you're not going to
+
+2057
+01:11:18,000 --> 01:11:19,000
+get away from it that way
+
+2058
+01:11:19,000 --> 01:11:21,000
+so it's an interesting fact
+
+2059
+01:11:21,000 --> 01:11:23,000
+that
+
+2060
+01:11:23,000 --> 01:11:25,000
+why isn't the world super symmetric
+
+2061
+01:11:25,000 --> 01:11:27,000
+I don't know
+
+2062
+01:11:27,000 --> 01:11:29,000
+but I know that
+
+2063
+01:11:29,000 --> 01:11:31,000
+at least I couldn't be here if it were
+
+2064
+01:11:31,000 --> 01:11:33,000
+so it's
+
+2065
+01:11:33,000 --> 01:11:35,000
+so let's assume that
+
+2066
+01:11:35,000 --> 01:11:37,000
+if there are super symmetric particles
+
+2067
+01:11:37,000 --> 01:11:39,000
+then the symmetry is
+
+2068
+01:11:39,000 --> 01:11:41,000
+reasonably badly broken
+
+2069
+01:11:41,000 --> 01:11:43,000
+and so we have a big mass separation
+
+2070
+01:11:43,000 --> 01:11:45,000
+well okay
+
+2071
+01:11:45,000 --> 01:11:47,000
+now the question is what's big and what's small
+
+2072
+01:11:47,000 --> 01:11:49,000
+what are we comparing with
+
+2073
+01:11:49,000 --> 01:11:51,000
+now if we compare with the mass of the proton
+
+2074
+01:11:51,000 --> 01:11:53,000
+it's big
+
+2075
+01:11:53,000 --> 01:11:55,000
+if we compare with the unification scale
+
+2076
+01:11:55,000 --> 01:11:57,000
+or the Planck scale
+
+2077
+01:11:57,000 --> 01:11:59,000
+it's terribly tiny
+
+2078
+01:11:59,000 --> 01:12:01,000
+so the question is
+
+2079
+01:12:01,000 --> 01:12:03,000
+what do we think the
+
+2080
+01:12:03,000 --> 01:12:05,000
+reason for this broken symmetry is
+
+2081
+01:12:05,000 --> 01:12:07,000
+in other words how come we're here
+
+2082
+01:12:09,000 --> 01:12:11,000
+well one possible answer is
+
+2083
+01:12:11,000 --> 01:12:12,000
+if the symmetry weren't broken we
+
+2084
+01:12:12,000 --> 01:12:13,000
+wouldn't be here to ask it
+
+2085
+01:12:13,000 --> 01:12:15,000
+right
+
+2086
+01:12:15,000 --> 01:12:17,000
+right
+
+2087
+01:12:17,000 --> 01:12:19,000
+I think that's the best answer we have
+
+2088
+01:12:19,000 --> 01:12:21,000
+are they clear
+
+2089
+01:12:21,000 --> 01:12:23,000
+yeah they're clear
+
+2090
+01:12:23,000 --> 01:12:25,000
+on the other hand it's not very hard to break
+
+2091
+01:12:25,000 --> 01:12:27,000
+these symmetries
+
+2092
+01:12:27,000 --> 01:12:29,000
+it's not very mathematically terribly hard to break them
+
+2093
+01:12:29,000 --> 01:12:31,000
+it's rather generic
+
+2094
+01:12:31,000 --> 01:12:33,000
+but not that generic
+
+2095
+01:12:33,000 --> 01:12:35,000
+there certainly are completely super symmetric theories
+
+2096
+01:12:35,000 --> 01:12:37,000
+they're the ones we understand best incidentally
+
+2097
+01:12:37,000 --> 01:12:39,000
+the mathematical theories
+
+2098
+01:12:39,000 --> 01:12:41,000
+I'm not because of these
+
+2099
+01:12:41,000 --> 01:12:43,000
+weak interaction issues
+
+2100
+01:12:43,000 --> 01:12:45,000
+just as a mathematical fact
+
+2101
+01:12:45,000 --> 01:12:47,000
+the quantum field theories
+
+2102
+01:12:47,000 --> 01:12:49,000
+that are best understood
+
+2103
+01:12:49,000 --> 01:12:51,000
+are the super symmetric ones
+
+2104
+01:12:51,000 --> 01:12:53,000
+they have so much special structure to them
+
+2105
+01:12:53,000 --> 01:12:55,000
+that they often can be almost exactly solved
+
+2106
+01:12:55,000 --> 01:12:57,000
+much more is known about them
+
+2107
+01:12:57,000 --> 01:12:59,000
+than the others
+
+2108
+01:12:59,000 --> 01:13:01,000
+they have all sorts of fabulous
+
+2109
+01:13:01,000 --> 01:13:03,000
+and fascinating theories
+
+2110
+01:13:03,000 --> 01:13:05,000
+that have a very special
+
+2111
+01:13:05,000 --> 01:13:07,000
+structure to them
+
+2112
+01:13:07,000 --> 01:13:09,000
+yeah
+
+2113
+01:13:09,000 --> 01:13:11,000
+okay
+
+2114
+01:13:11,000 --> 01:13:13,000
+next week
+
+2115
+01:13:13,000 --> 01:13:15,000
+more on supersymmetry
+
+2116
+01:13:15,000 --> 01:13:17,000
+we'll have supersymmetry until you're sick of it
+
+2117
+01:13:17,000 --> 01:13:19,000
+for more please visit us at
+
+2118
+01:13:19,000 --> 01:13:20,947
+stanford.edu
+

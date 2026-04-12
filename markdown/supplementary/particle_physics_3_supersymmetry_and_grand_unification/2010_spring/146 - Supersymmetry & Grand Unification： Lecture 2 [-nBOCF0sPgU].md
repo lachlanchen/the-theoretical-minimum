@@ -1,0 +1,2122 @@
+# Transcript
+
+Source: supplementary/particle_physics_3_supersymmetry_and_grand_unification/2010_spring/146 - Supersymmetry & Grand Unification： Lecture 2 [-nBOCF0sPgU].mp4
+
+- [00:00:00,000 - 00:00:07,000] Stanford University
+- [00:00:07,000 - 00:00:10,500] So let's talk about supersymmetry. Supersymmetry
+- [00:00:10,500 - 00:00:14,000] has to do with fermions and bosons.
+- [00:00:14,000 - 00:00:16,500] Now, and the relationship between
+- [00:00:16,500 - 00:00:19,000] them, symmetry is between them.
+- [00:00:19,000 - 00:00:22,000] So actually before we talk about supersymmetry,
+- [00:00:22,000 - 00:00:25,000] we should talk again about fermions and bosons.
+- [00:00:25,000 - 00:00:28,000] I want to tell you some
+- [00:00:28,000 - 00:00:31,000] odd and peculiar facts about fermions first.
+- [00:00:31,000 - 00:00:34,500] No, before we even talk about
+- [00:00:34,500 - 00:00:38,000] fermions, let's talk about rotations in space.
+- [00:00:38,000 - 00:00:43,500] Now, we always say that a rotation by 2 pi
+- [00:00:43,500 - 00:00:49,000] is equivalent to no rotation at all, but it's not true.
+- [00:00:49,000 - 00:00:51,500] It's not true. Let me assure you
+- [00:00:51,500 - 00:00:54,000] that if I take my hand like this,
+- [00:00:54,000 - 00:00:55,000] and I rotate it like this,
+- [00:00:55,000 - 00:00:58,500] and I rotate my wrist by 2
+- [00:00:58,500 - 00:01:02,000] pi, it is not like doing nothing.
+- [00:01:02,000 - 00:01:06,000] But then I tell you if I rotate it by
+- [00:01:06,000 - 00:01:10,000] 4 pi, which I will do for you in a minute,
+- [00:01:10,000 - 00:01:11,500] if I rotate it by 4
+- [00:01:11,500 - 00:01:13,000] pi, it's equivalent to doing nothing.
+- [00:01:13,000 - 00:01:14,000] So you want to see me
+- [00:01:14,000 - 00:01:15,000] rotate by 4 pi, don't you?
+- [00:01:15,000 - 00:01:17,000] You're going to say, I can't
+- [00:01:17,000 - 00:01:19,000] do it. Oh, yes, I can.
+- [00:01:19,000 - 00:01:21,500] We started this way, palm up, rotate
+- [00:01:21,500 - 00:01:24,000] by 2 pi, it starts to hurt.
+- [00:01:24,000 - 00:01:28,000] Palm up, and I come back to nothing.
+- [00:01:28,000 - 00:01:33,000] This is a topological theorem about rotations in space.
+- [00:01:33,000 - 00:01:36,000] It's a topological theorem, and let me tell
+- [00:01:36,000 - 00:01:39,000] you, let me explain the topological theorem to you.
+- [00:01:39,000 - 00:01:41,500] I've proved it. I've proved it.
+- [00:01:41,500 - 00:01:44,000] I don't need to prove it mathematically.
+- [00:01:44,000 - 00:01:48,000] I've proved it by hand waving.
+- [00:01:48,000 - 00:01:53,000] I've proved it by hand waving. Exactly right.
+- [00:01:54,000 - 00:02:01,000] But let me tell you what the theorem actually says.
+- [00:02:01,000 - 00:02:07,000] Here's the theorem. Take a box.
+- [00:02:07,000 - 00:02:10,000] The box has walls. In that box,
+- [00:02:10,000 - 00:02:13,000] put a basketball or some sort of object,
+- [00:02:13,000 - 00:02:15,500] and connect that basketball to the walls by
+- [00:02:15,500 - 00:02:18,000] strings, any number of strings, it doesn't matter.
+- [00:02:18,000 - 00:02:20,500] Just connect them by strings. Connect
+- [00:02:20,500 - 00:02:23,000] it to the front wall, back wall.
+- [00:02:23,000 - 00:02:26,500] Now, I tell you, and I think you'll believe me, that
+- [00:02:26,500 - 00:02:30,000] if I take this ball and rotate it by 2 pi,
+- [00:02:30,000 - 00:02:32,500] I'm going to get a hell of a tangle.
+- [00:02:32,500 - 00:02:35,000] The strings are going to get all tangled up.
+- [00:02:35,000 - 00:02:38,000] And the question is, can I untangle
+- [00:02:38,000 - 00:02:41,000] them by looping them over the ball,
+- [00:02:41,000 - 00:02:43,000] by without rotating the ball further,
+- [00:02:43,000 - 00:02:45,000] rotate it around by 2 pi,
+- [00:02:45,000 - 00:02:47,500] can I get rid of the tangle
+- [00:02:47,500 - 00:02:50,000] and bring it back to this configuration?
+- [00:02:50,000 - 00:02:52,000] Anybody know the answer?
+- [00:02:53,000 - 00:02:55,000] Rotated by 2 pi.
+- [00:02:55,000 - 00:02:57,000] No, no, no, you're not allowed to rotate the box.
+- [00:02:57,000 - 00:03:01,000] The box is fixed.
+- [00:03:01,000 - 00:03:04,000] So this is a theorem about
+- [00:03:04,000 - 00:03:07,000] rotations of the ball keeping spatial infinity,
+- [00:03:07,000 - 00:03:09,500] the box really represents spatial
+- [00:03:09,500 - 00:03:12,000] infinity, keeping the spatial infinity fixed.
+- [00:03:12,000 - 00:03:14,000] You're not allowed to rotate the box.
+- [00:03:14,000 - 00:03:17,000] So, question. Can I or
+- [00:03:17,000 - 00:03:20,000] can I not undo that rotation?
+- [00:03:20,000 - 00:03:22,000] Rotate by another 2 pi.
+- [00:03:22,000 - 00:03:23,000] Not yet.
+- [00:03:23,000 - 00:03:25,000] Suppose we do not.
+- [00:03:25,000 - 00:03:27,500] We simply rotate by 2 pi and we ask,
+- [00:03:27,500 - 00:03:30,000] can we undo it by moving around the strings,
+- [00:03:30,000 - 00:03:32,000] taking them over the ball,
+- [00:03:32,000 - 00:03:34,000] doing whatever we have to do.
+- [00:03:34,000 - 00:03:36,500] The strings are flexible, they're
+- [00:03:36,500 - 00:03:39,000] even stretchable, but they're unbreakable.
+- [00:03:39,000 - 00:03:43,000] And they're connected both to the ball and the boundary.
+- [00:03:43,000 - 00:03:46,000] Mathematically, it's the same operation
+- [00:03:46,000 - 00:03:49,000] as trying to undo this.
+- [00:03:49,000 - 00:03:51,000] The theorem is,
+- [00:03:51,000 - 00:03:54,000] it says that a rotation by
+- [00:03:54,000 - 00:03:57,000] 4 pi, that you can undo it.
+- [00:03:57,000 - 00:04:00,500] So, the answer is for any rotation
+- [00:04:00,500 - 00:04:04,000] by an even number of 2 pi's,
+- [00:04:04,000 - 00:04:07,000] you can undo it by moving the strings around and,
+- [00:04:07,000 - 00:04:10,000] you know, taking them over the ball and so forth.
+- [00:04:10,000 - 00:04:14,000] And it's a topological theorem about the equivalence between
+- [00:04:14,000 - 00:04:18,000] a rotation by 2 pi and no rotation at all.
+- [00:04:18,000 - 00:04:20,000] They're not equivalent, really.
+- [00:04:20,000 - 00:04:22,000] A rotation by 2 pi is
+- [00:04:22,000 - 00:04:24,000] not equivalent topologically to no rotation,
+- [00:04:24,000 - 00:04:27,000] but a rotation by 4 pi is.
+- [00:04:27,000 - 00:04:31,000] This is kind of unintuitive, but it's true.
+- [00:04:31,000 - 00:04:33,000] Okay.
+- [00:04:33,000 - 00:04:37,000] Let's now come to the
+- [00:04:37,000 - 00:04:41,000] properties of wave functions of particles.
+- [00:04:41,000 - 00:04:44,000] And now I'm thinking simply about their spin.
+- [00:04:44,000 - 00:04:47,000] Imagine nailing down the position of the particle,
+- [00:04:47,000 - 00:04:50,000] and the only thing that's important now is,
+- [00:04:50,000 - 00:04:54,000] the spin of the particle.
+- [00:04:54,000 - 00:04:55,500] And the spin of a particle
+- [00:04:55,500 - 00:04:57,000] is described by a quantum state.
+- [00:04:57,000 - 00:05:02,000] Let's call it S for spin.
+- [00:05:02,000 - 00:05:05,000] I'm either thinking about fermions or bosons.
+- [00:05:05,000 - 00:05:08,000] In the case of fermions, the spin is half integer.
+- [00:05:08,000 - 00:05:11,000] In the case of bosons, it's integer.
+- [00:05:11,000 - 00:05:13,500] Now the question is, what happens
+- [00:05:13,500 - 00:05:16,000] to the state of a particle
+- [00:05:16,000 - 00:05:19,000] if you rotate the particle by 2 pi?
+- [00:05:19,000 - 00:05:21,000] Now you can imagine for an
+- [00:05:21,000 - 00:05:23,000] electron actually doing this in the laboratory,
+- [00:05:23,000 - 00:05:24,500] how would you actually rotate the
+- [00:05:24,500 - 00:05:26,000] spin of an electron by 2 pi?
+- [00:05:26,000 - 00:05:29,000] Anybody know a good way to rotate the...
+- [00:05:29,000 - 00:05:31,000] You can grab it with your hand and rotate it,
+- [00:05:31,000 - 00:05:33,000] but that doesn't work so well.
+- [00:05:33,000 - 00:05:35,000] Magnetic field.
+- [00:05:35,000 - 00:05:37,000] You put it in a strong...
+- [00:05:37,000 - 00:05:38,000] Two ways you could do it.
+- [00:05:38,000 - 00:05:41,000] You can put it into a strong magnetic field,
+- [00:05:41,000 - 00:05:43,500] and then rotate the magnetic
+- [00:05:43,500 - 00:05:46,000] field around until it comes back.
+- [00:05:46,000 - 00:05:48,000] You can actually do something else.
+- [00:05:48,000 - 00:05:51,000] If the spin happens to lie in the vertical direction,
+- [00:05:51,000 - 00:05:52,500] you can put a magnetic field in and
+- [00:05:52,500 - 00:05:54,000] just have it process by itself around there.
+- [00:05:54,000 - 00:05:56,000] You don't have to rotate the magnetic field.
+- [00:05:56,000 - 00:05:58,000] Either way will do.
+- [00:05:58,000 - 00:06:03,000] You can rotate the spin of a charged particle
+- [00:06:03,000 - 00:06:05,500] simply by grabbing it with
+- [00:06:05,500 - 00:06:08,000] a magnetic field and rotating it.
+- [00:06:08,000 - 00:06:13,000] What happens to the state of a spin particle
+- [00:06:13,000 - 00:06:16,000] when you do rotate it by 2 pi?
+- [00:06:16,000 - 00:06:18,000] Well, usually we say it has to be
+- [00:06:18,000 - 00:06:20,000] it has to come back to itself.
+- [00:06:20,000 - 00:06:23,000] After all, rotation by 2 pi is nothing at all.
+- [00:06:23,000 - 00:06:30,000] But we found out that rotation by 2 pi
+- [00:06:30,000 - 00:06:33,000] does... can do something.
+- [00:06:33,000 - 00:06:35,000] So we might suspect then
+- [00:06:35,000 - 00:06:36,500] that if we rotate the spin
+- [00:06:36,500 - 00:06:38,000] of a particle by 2 pi,
+- [00:06:38,000 - 00:06:40,000] it gets... something happens to it.
+- [00:06:40,000 - 00:06:42,000] The simplest thing that could happen to it
+- [00:06:42,000 - 00:06:45,000] is it could just get multiplied by a number.
+- [00:06:48,000 - 00:06:50,000] So if I multiply by a number
+- [00:06:50,000 - 00:06:52,000] instead of some other more complicated operator,
+- [00:06:52,000 - 00:06:54,000] well, that's a little complicated.
+- [00:06:54,000 - 00:06:58,000] Why? Because we really, we secretly believe
+- [00:06:58,000 - 00:07:02,000] that no experiment will detect the rotation by 2 pi.
+- [00:07:02,000 - 00:07:05,000] And if we multiply the wave function of a particle,
+- [00:07:05,000 - 00:07:08,000] for example, by a phase or by a minus 1,
+- [00:07:08,000 - 00:07:10,000] that won't change any physics.
+- [00:07:10,000 - 00:07:13,000] We really secretly believe nothing experimental
+- [00:07:13,000 - 00:07:16,000] will be detected by rotating by 2 pi.
+- [00:07:16,000 - 00:07:19,000] One possibility is it gets multiplied by 1.
+- [00:07:19,000 - 00:07:22,000] Another possibility is it gets multiplied by a phase.
+- [00:07:22,000 - 00:07:24,000] But here's what we do know.
+- [00:07:24,000 - 00:07:27,000] If we rotate by 4 pi,
+- [00:07:27,000 - 00:07:29,000] if we rotate by 2 pi,
+- [00:07:29,000 - 00:07:32,000] and that gives us some sort of phase,
+- [00:07:32,000 - 00:07:34,000] at e to the i theta,
+- [00:07:34,000 - 00:07:36,000] then rotating again by 2 pi,
+- [00:07:36,000 - 00:07:39,000] we'll just square this.
+- [00:07:39,000 - 00:07:42,000] And now we know that rotating by 4 pi
+- [00:07:42,000 - 00:07:45,000] is equivalent to doing nothing at all.
+- [00:07:45,000 - 00:07:46,000] Okay?
+- [00:07:46,000 - 00:07:48,000] So if we rotate by 4 pi,
+- [00:07:48,000 - 00:07:50,000] we'll just square this.
+- [00:07:50,000 - 00:07:52,000] And now we know that rotating by 4 pi
+- [00:07:52,000 - 00:07:54,000] is equivalent to doing nothing at all.
+- [00:07:54,000 - 00:07:56,000] And now we know that rotating by 4 pi
+- [00:07:56,000 - 00:07:58,000] is equivalent to doing nothing at all.
+- [00:07:58,000 - 00:08:00,000] So we can say that the mathematical argument
+- [00:08:00,000 - 00:08:02,000] says that xi squared must equal 1,
+- [00:08:02,000 - 00:08:04,000] and there's only two possibilities,
+- [00:08:04,000 - 00:08:06,000] xi is equal to plus 1 or minus 1.
+- [00:08:06,000 - 00:08:09,000] So we could have either possibility
+- [00:08:09,000 - 00:08:12,000] when you rotate a particle by 2 pi
+- [00:08:12,000 - 00:08:14,000] just at spin,
+- [00:08:14,000 - 00:08:15,000] you either multiply it by plus 1,
+- [00:08:15,000 - 00:08:17,000] or you multiply it by 2 pi.
+- [00:08:17,000 - 00:08:19,000] And that's the answer.
+- [00:08:19,000 - 00:08:21,000] An interesting question is,
+- [00:08:21,000 - 00:08:23,000] can you ever imagine,
+- [00:08:23,000 - 00:08:25,000] just as a side issue,
+- [00:08:25,000 - 00:08:29,000] is there ever any experimental
+- [00:08:29,000 - 00:08:33,000] observable consequence
+- [00:08:33,000 - 00:08:35,000] of the fact,
+- [00:08:35,000 - 00:08:37,000] the potential fact,
+- [00:08:37,000 - 00:08:39,000] that the wave function of a particle
+- [00:08:39,000 - 00:08:41,000] might change sign
+- [00:08:41,000 - 00:08:43,000] when you rotate the particle.
+- [00:08:43,000 - 00:08:45,000] And it was generally confirmed
+- [00:08:45,000 - 00:08:47,000] that the magnetic field
+- [00:08:47,000 - 00:08:49,000] was considered to be a totally
+- [00:08:49,000 - 00:08:51,000] unphysical operation,
+- [00:08:51,000 - 00:08:53,000] you could never detect it.
+- [00:08:53,000 - 00:08:55,000] In other words,
+- [00:08:55,000 - 00:08:57,000] here would be the experiment.
+- [00:08:57,000 - 00:08:59,000] You take a whole family of electrons
+- [00:08:59,000 - 00:09:01,000] all prepared identically.
+- [00:09:01,000 - 00:09:03,000] You take half of them
+- [00:09:03,000 - 00:09:05,000] and you stick them into a magnetic field,
+- [00:09:05,000 - 00:09:07,000] and you rotate the magnetic field by 2 pi.
+- [00:09:07,000 - 00:09:09,000] You take the other half
+- [00:09:09,000 - 00:09:11,000] and you do nothing with them.
+- [00:09:11,000 - 00:09:13,000] At the end of the day,
+- [00:09:13,000 - 00:09:15,000] is there any experimental difference between them?
+- [00:09:15,000 - 00:09:17,000] No, you cannot tell the difference
+- [00:09:17,000 - 00:09:19,000] which ones got rotated.
+- [00:09:19,000 - 00:09:21,000] But you can do something else,
+- [00:09:21,000 - 00:09:23,000] and I'll tell you what it is.
+- [00:09:23,000 - 00:09:25,000] You can do a two-slit experiment.
+- [00:09:25,000 - 00:09:27,000] Just to tell you the meaning
+- [00:09:27,000 - 00:09:29,000] of this odd mathematical fact,
+- [00:09:29,000 - 00:09:31,000] you can do a two-slit experiment
+- [00:09:33,000 - 00:09:35,000] in which you take electrons,
+- [00:09:35,000 - 00:09:37,000] let's start with a single electron,
+- [00:09:37,000 - 00:09:39,000] not multiple electrons,
+- [00:09:39,000 - 00:09:41,000] or one by one.
+- [00:09:41,000 - 00:09:43,000] We take electrons one by one
+- [00:09:43,000 - 00:09:45,000] and we send them through.
+- [00:09:45,000 - 00:09:47,000] It either goes through the upper slit
+- [00:09:47,000 - 00:09:49,000] or the lower slit.
+- [00:09:49,000 - 00:09:51,000] We don't know which.
+- [00:09:51,000 - 00:09:53,000] We're not allowed to look,
+- [00:09:53,000 - 00:09:55,000] because if we look,
+- [00:09:55,000 - 00:09:57,000] we will destroy the interference pattern over here.
+- [00:09:57,000 - 00:09:59,000] Some interference pattern over here.
+- [00:09:59,000 - 00:10:01,000] But now what we're going to do,
+- [00:10:01,000 - 00:10:03,000] without looking at whether the electron is here or here,
+- [00:10:03,000 - 00:10:05,000] we're going to place a magnetic field over here,
+- [00:10:05,000 - 00:10:07,000] a B field over here.
+- [00:10:09,000 - 00:10:11,000] We'll also do the same thing over here.
+- [00:10:11,000 - 00:10:13,000] And we'll imagine
+- [00:10:13,000 - 00:10:15,000] that the electron is here,
+- [00:10:15,000 - 00:10:17,000] and the electron gets temporarily trapped
+- [00:10:17,000 - 00:10:19,000] in this region by whatever.
+- [00:10:19,000 - 00:10:21,000] Temporarily trapped
+- [00:10:21,000 - 00:10:23,000] and then re-emitted.
+- [00:10:23,000 - 00:10:25,000] If we do absolutely nothing
+- [00:10:25,000 - 00:10:27,000] to these B fields,
+- [00:10:27,000 - 00:10:29,000] we'll still get some interference pattern here.
+- [00:10:29,000 - 00:10:31,000] Either the electron goes up through here
+- [00:10:31,000 - 00:10:33,000] and gets stuck in the B field
+- [00:10:33,000 - 00:10:35,000] and then gets re-emitted,
+- [00:10:35,000 - 00:10:37,000] B field is not very interesting,
+- [00:10:37,000 - 00:10:39,000] or same thing over here.
+- [00:10:39,000 - 00:10:41,000] But now we do the following.
+- [00:10:41,000 - 00:10:43,000] We do the two-slit experiment
+- [00:10:43,000 - 00:10:45,000] and while the electron
+- [00:10:45,000 - 00:10:47,000] is trapped in one of these two,
+- [00:10:47,000 - 00:10:49,000] we rotate one of them and not the other.
+- [00:10:49,000 - 00:10:51,000] We rotate one of them
+- [00:10:51,000 - 00:10:53,000] and not the other.
+- [00:10:53,000 - 00:10:55,000] Then the wave function here
+- [00:10:55,000 - 00:10:57,000] may or may not get multiplied
+- [00:10:57,000 - 00:10:59,000] by a minus sign,
+- [00:10:59,000 - 00:11:01,000] but let's suppose it does.
+- [00:11:01,000 - 00:11:03,000] The wave function in here does not get multiplied
+- [00:11:03,000 - 00:11:05,000] by a minus sign.
+- [00:11:07,000 - 00:11:09,000] It either gets multiplied
+- [00:11:09,000 - 00:11:11,000] by a minus sign or a plus sign.
+- [00:11:11,000 - 00:11:13,000] If it gets multiplied by a plus sign,
+- [00:11:13,000 - 00:11:15,000] no detection.
+- [00:11:15,000 - 00:11:17,000] If it gets multiplied by a minus sign,
+- [00:11:17,000 - 00:11:19,000] and this one, the wave function coming out of here
+- [00:11:19,000 - 00:11:20,000] does not get, what does
+- [00:11:20,000 - 00:11:21,000] that do to the interference pattern?
+- [00:11:21,000 - 00:11:23,000] It shifts it.
+- [00:11:23,000 - 00:11:25,000] It shifts it up half a wavelength.
+- [00:11:25,000 - 00:11:27,000] It shifts maxima to minima.
+- [00:11:27,000 - 00:11:29,000] It shifts maxima to minima.
+- [00:11:29,000 - 00:11:31,000] So yes, you can detect
+- [00:11:31,000 - 00:11:33,000] this odd sign change,
+- [00:11:33,000 - 00:11:35,000] but only by splitting a beam of electrons
+- [00:11:35,000 - 00:11:37,000] but only by splitting a beam of electrons
+- [00:11:37,000 - 00:11:39,000] and then rotating half the beam
+- [00:11:39,000 - 00:11:41,000] and not the other half beam.
+- [00:11:41,000 - 00:11:43,000] So it is an experimental,
+- [00:11:43,000 - 00:11:45,000] it's a very interesting experiment.
+- [00:11:45,000 - 00:11:47,000] It's a real phenomenon.
+- [00:11:47,000 - 00:11:49,000] But if you were to take the whole experiment
+- [00:11:49,000 - 00:11:51,000] and rotate all of it,
+- [00:11:51,000 - 00:11:53,000] both magnetic fields simultaneously,
+- [00:11:53,000 - 00:11:55,000] then you detect nothing.
+- [00:11:55,000 - 00:11:57,000] Okay?
+- [00:11:57,000 - 00:11:59,000] Alright.
+- [00:11:59,000 - 00:12:01,000] It's very similar in mathematical structure
+- [00:12:01,000 - 00:12:03,000] to the story
+- [00:12:03,000 - 00:12:05,000] that if you rotate the ball
+- [00:12:05,000 - 00:12:07,000] without rotating the box,
+- [00:12:07,000 - 00:12:09,000] without rotating the box,
+- [00:12:09,000 - 00:12:11,000] you can detect the fact
+- [00:12:11,000 - 00:12:13,000] that you've rotated it by 2 pi.
+- [00:12:13,000 - 00:12:15,000] If you're allowed to rotate
+- [00:12:15,000 - 00:12:17,000] the whole thing,
+- [00:12:17,000 - 00:12:19,000] ball and box, of course you can't.
+- [00:12:19,000 - 00:12:21,000] So it's a similar kind of thing.
+- [00:12:21,000 - 00:12:23,000] If you rotate it by 4 pi...
+- [00:12:23,000 - 00:12:25,000] Yeah, exactly.
+- [00:12:25,000 - 00:12:27,000] If you rotate the magnetic field
+- [00:12:27,000 - 00:12:29,000] by 4 pi,
+- [00:12:29,000 - 00:12:31,000] the effect goes away.
+- [00:12:31,000 - 00:12:33,000] Right.
+- [00:12:33,000 - 00:12:35,000] And this incident has been done
+- [00:12:35,000 - 00:12:37,000] in the laboratory.
+- [00:12:37,000 - 00:12:39,000] It was an experiment that was suggested
+- [00:12:39,000 - 00:12:41,000] by Aharonov and myself in 1967.
+- [00:12:41,000 - 00:12:43,000] It was actually done.
+- [00:12:43,000 - 00:12:45,000] That's what you said.
+- [00:12:45,000 - 00:12:47,000] Yeah, okay, so for...
+- [00:12:47,000 - 00:12:49,000] Okay, so now you could...
+- [00:12:49,000 - 00:12:51,000] You could do experiments with electrons,
+- [00:12:51,000 - 00:12:53,000] you could do experiments with
+- [00:12:53,000 - 00:12:55,000] charged ions of various kinds,
+- [00:12:55,000 - 00:12:57,000] and you could see which ones
+- [00:12:57,000 - 00:12:59,000] fall into the category
+- [00:12:59,000 - 00:13:01,000] of getting a minus one
+- [00:13:01,000 - 00:13:03,000] and which ones don't.
+- [00:13:03,000 - 00:13:05,000] The ones that don't have a minus one
+- [00:13:05,000 - 00:13:07,000] are the ones where the interference pattern
+- [00:13:07,000 - 00:13:09,000] does not shift.
+- [00:13:09,000 - 00:13:11,000] The ones that do get a minus sign
+- [00:13:11,000 - 00:13:13,000] are the ones where the interference pattern
+- [00:13:13,000 - 00:13:15,000] does shift.
+- [00:13:15,000 - 00:13:17,000] The answer is all fermions
+- [00:13:17,000 - 00:13:19,000] get the minus sign,
+- [00:13:19,000 - 00:13:21,000] all bosons do not get the minus sign.
+- [00:13:21,000 - 00:13:23,000] That's an...
+- [00:13:23,000 - 00:13:25,000] First of all,
+- [00:13:25,000 - 00:13:27,000] it would be an experimental fact
+- [00:13:27,000 - 00:13:29,000] if you really did the experiment.
+- [00:13:29,000 - 00:13:31,000] It's also deeply embedded in the structure
+- [00:13:31,000 - 00:13:33,000] of the mathematics
+- [00:13:33,000 - 00:13:35,000] of quantum field theory
+- [00:13:35,000 - 00:13:37,000] and quantum mechanics.
+- [00:13:37,000 - 00:13:39,000] All right, so that's an interesting distinction
+- [00:13:39,000 - 00:13:41,000] between fermions and bosons.
+- [00:13:41,000 - 00:13:43,000] Yeah?
+- [00:13:43,000 - 00:13:45,000] How does the analogy with the springs work?
+- [00:13:45,000 - 00:13:47,000] Uh...
+- [00:13:47,000 - 00:13:49,000] The analogy with the springs...
+- [00:13:49,000 - 00:13:51,000] Um...
+- [00:13:51,000 - 00:13:53,000] Well,
+- [00:13:53,000 - 00:13:55,000] roughly speaking,
+- [00:13:55,000 - 00:13:57,000] bosons behave as if they weren't
+- [00:13:57,000 - 00:13:59,000] connected by strings to the wall.
+- [00:13:59,000 - 00:14:01,000] Fermions have some memory
+- [00:14:01,000 - 00:14:03,000] of having been rotated by two pi,
+- [00:14:03,000 - 00:14:05,000] so they have a sort of connection
+- [00:14:05,000 - 00:14:07,000] to things which remembers
+- [00:14:07,000 - 00:14:09,000] whether they rotated by two pi.
+- [00:14:09,000 - 00:14:11,000] This is just a method
+- [00:14:11,000 - 00:14:13,000] that's been used
+- [00:14:13,000 - 00:14:15,000] to find out
+- [00:14:15,000 - 00:14:17,000] the mathematical way to see
+- [00:14:17,000 - 00:14:19,000] the topology,
+- [00:14:19,000 - 00:14:21,000] the topological fact that rotation by two pi
+- [00:14:21,000 - 00:14:23,000] is not so innocent
+- [00:14:23,000 - 00:14:25,000] whereas rotation by four pi is.
+- [00:14:25,000 - 00:14:27,000] But once you know that,
+- [00:14:27,000 - 00:14:29,000] I think we forget about this.
+- [00:14:29,000 - 00:14:31,000] Are they in the same quantum state?
+- [00:14:31,000 - 00:14:33,000] Which?
+- [00:14:33,000 - 00:14:35,000] Once that rotated two pi
+- [00:14:35,000 - 00:14:37,000] and one that isn't rotated?
+- [00:14:37,000 - 00:14:39,000] Yeah, well, no.
+- [00:14:39,000 - 00:14:41,000] In this experiment,
+- [00:14:41,000 - 00:14:43,000] yeah, the quantum state of this one
+- [00:14:43,000 - 00:14:45,000] is localized over here.
+- [00:14:45,000 - 00:14:47,000] So what's the idea?
+- [00:14:47,000 - 00:14:49,000] The idea is you create
+- [00:14:49,000 - 00:14:51,000] one way or another a superposition
+- [00:14:51,000 - 00:14:53,000] of states in which the electron
+- [00:14:53,000 - 00:14:55,000] is here or it's here.
+- [00:14:55,000 - 00:14:57,000] Not two electrons.
+- [00:14:57,000 - 00:14:59,000] An electron which is either over here,
+- [00:14:59,000 - 00:15:01,000] so a wave function which consists of two bulges,
+- [00:15:01,000 - 00:15:03,000] probability a half
+- [00:15:03,000 - 00:15:05,000] of the electron to be over here,
+- [00:15:05,000 - 00:15:07,000] probability a half of the electron
+- [00:15:07,000 - 00:15:09,000] to be over here.
+- [00:15:09,000 - 00:15:11,000] Now, both of these electrons now,
+- [00:15:11,000 - 00:15:13,000] after you've...
+- [00:15:13,000 - 00:15:15,000] Not both of the electrons, one electron
+- [00:15:15,000 - 00:15:17,000] but if the electron is here,
+- [00:15:17,000 - 00:15:19,000] we're actually putting it inside a box.
+- [00:15:19,000 - 00:15:21,000] Put it inside a box.
+- [00:15:21,000 - 00:15:23,000] So we create an electron over here.
+- [00:15:23,000 - 00:15:25,000] We split the beam,
+- [00:15:25,000 - 00:15:27,000] which means we create a superposition
+- [00:15:27,000 - 00:15:29,000] of states where it might be here
+- [00:15:29,000 - 00:15:31,000] or it might be here
+- [00:15:31,000 - 00:15:33,000] with probability a half.
+- [00:15:33,000 - 00:15:35,000] And then we rotate this box.
+- [00:15:35,000 - 00:15:37,000] Put a magnetic field in it.
+- [00:15:37,000 - 00:15:39,000] We rotate it.
+- [00:15:39,000 - 00:15:40,000] We don't ask whether there's
+- [00:15:40,000 - 00:15:41,000] an electron in it or not.
+- [00:15:41,000 - 00:15:43,000] Whether or not there is an electron in it,
+- [00:15:43,000 - 00:15:45,000] we rotate the box.
+- [00:15:45,000 - 00:15:47,000] Now, to start with,
+- [00:15:47,000 - 00:15:49,000] the wave function was a sum of two terms.
+- [00:15:49,000 - 00:15:51,000] Psi one,
+- [00:15:51,000 - 00:15:53,000] which is the wave function in here,
+- [00:15:53,000 - 00:15:55,000] and psi two,
+- [00:15:55,000 - 00:15:57,000] which is the wave function here.
+- [00:15:57,000 - 00:15:59,000] Psi one plus psi two
+- [00:15:59,000 - 00:16:01,000] was the full wave function.
+- [00:16:01,000 - 00:16:03,000] Now we rotate
+- [00:16:03,000 - 00:16:05,000] the right-hand box
+- [00:16:05,000 - 00:16:07,000] without...
+- [00:16:07,000 - 00:16:09,000] If we rotate both boxes for the electron,
+- [00:16:09,000 - 00:16:11,000] electron being a fermion,
+- [00:16:11,000 - 00:16:13,000] then the whole wave function changes sign.
+- [00:16:13,000 - 00:16:15,000] If the whole wave function
+- [00:16:15,000 - 00:16:17,000] changes sign,
+- [00:16:17,000 - 00:16:19,000] remember all physical quantities
+- [00:16:19,000 - 00:16:21,000] are proportional to the wave function
+- [00:16:21,000 - 00:16:23,000] times its own complex conjugate,
+- [00:16:23,000 - 00:16:25,000] and the minus sign will cancel out.
+- [00:16:25,000 - 00:16:27,000] But now supposing we rotate
+- [00:16:27,000 - 00:16:29,000] one box relative to the other.
+- [00:16:29,000 - 00:16:31,000] Then what happens
+- [00:16:31,000 - 00:16:33,000] is after the...
+- [00:16:33,000 - 00:16:35,000] after the rotation,
+- [00:16:35,000 - 00:16:37,000] this wave function has changed sign,
+- [00:16:37,000 - 00:16:39,000] this one has not.
+- [00:16:39,000 - 00:16:41,000] Let me give you a consequence of that.
+- [00:16:41,000 - 00:16:43,000] If these two wave functions
+- [00:16:43,000 - 00:16:45,000] were identical,
+- [00:16:45,000 - 00:16:47,000] about reflection,
+- [00:16:47,000 - 00:16:49,000] about the center here,
+- [00:16:49,000 - 00:16:51,000] that would say that after the rotation,
+- [00:16:51,000 - 00:16:53,000] the wave function must vanish
+- [00:16:53,000 - 00:16:55,000] at the center here.
+- [00:16:55,000 - 00:16:57,000] If psi one and psi two
+- [00:16:57,000 - 00:16:59,000] have exactly the same shape,
+- [00:16:59,000 - 00:17:01,000] and let's even suppose...
+- [00:17:01,000 - 00:17:03,000] Yeah, alright.
+- [00:17:03,000 - 00:17:05,000] After we bring them back together again.
+- [00:17:05,000 - 00:17:07,000] By symmetry, the wave function will vanish
+- [00:17:07,000 - 00:17:09,000] at the center here
+- [00:17:09,000 - 00:17:11,000] if the wave function is odd.
+- [00:17:11,000 - 00:17:13,000] If the wave function is even,
+- [00:17:13,000 - 00:17:15,000] then after we bring them back together again,
+- [00:17:15,000 - 00:17:17,000] it doesn't have to vanish at the center.
+- [00:17:17,000 - 00:17:19,000] So an interesting consequence of this
+- [00:17:19,000 - 00:17:21,000] is if this one is a fermion
+- [00:17:21,000 - 00:17:23,000] and we rotate by two pi
+- [00:17:23,000 - 00:17:25,000] and then bring the wave functions back together again,
+- [00:17:25,000 - 00:17:27,000] we will never find the electron at the center.
+- [00:17:27,000 - 00:17:29,000] That's an example
+- [00:17:29,000 - 00:17:31,000] of an interference phenomena.
+- [00:17:31,000 - 00:17:33,000] But,
+- [00:17:33,000 - 00:17:35,000] the point is that there is a difference
+- [00:17:35,000 - 00:17:37,000] between psi one minus psi two
+- [00:17:37,000 - 00:17:39,000] and psi one plus psi two.
+- [00:17:39,000 - 00:17:41,000] And that difference
+- [00:17:41,000 - 00:17:43,000] can be experimentally detected.
+- [00:17:43,000 - 00:17:45,000] Is it the case that
+- [00:17:45,000 - 00:17:47,000] if you don't do a full rotation,
+- [00:17:47,000 - 00:17:49,000] that basically the amount of rotation
+- [00:17:49,000 - 00:17:51,000] is half as much for a boson
+- [00:17:51,000 - 00:17:53,000] or twice as much
+- [00:17:53,000 - 00:17:55,000] or something like that?
+- [00:17:55,000 - 00:17:57,000] Well,
+- [00:17:57,000 - 00:17:59,000] there is something like that,
+- [00:17:59,000 - 00:18:01,000] but that's not...
+- [00:18:01,000 - 00:18:03,000] Yeah, there is...
+- [00:18:03,000 - 00:18:05,000] Would you say that you could tell
+- [00:18:05,000 - 00:18:07,000] the loophole with the electron wet proof?
+- [00:18:07,000 - 00:18:09,000] If you look for the electron
+- [00:18:09,000 - 00:18:11,000] in such a way that you can tell afterwards
+- [00:18:11,000 - 00:18:13,000] which one it was in,
+- [00:18:13,000 - 00:18:15,000] then the interference pattern is destroyed.
+- [00:18:15,000 - 00:18:17,000] What happens if instead of a screen
+- [00:18:17,000 - 00:18:19,000] you test...
+- [00:18:19,000 - 00:18:21,000] Let's say you put it all right,
+- [00:18:21,000 - 00:18:23,000] all the spins are all in one direction
+- [00:18:23,000 - 00:18:25,000] and at the screen you test
+- [00:18:25,000 - 00:18:27,000] the resulting spin.
+- [00:18:27,000 - 00:18:29,000] Will that destroy the interference pattern?
+- [00:18:29,000 - 00:18:31,000] All the spins are in one direction.
+- [00:18:31,000 - 00:18:33,000] Okay,
+- [00:18:33,000 - 00:18:35,000] they are all in the same direction.
+- [00:18:35,000 - 00:18:37,000] Oh, I see.
+- [00:18:37,000 - 00:18:39,000] They still stay in the same direction,
+- [00:18:39,000 - 00:18:41,000] just get a minus sign.
+- [00:18:41,000 - 00:18:43,000] That's right.
+- [00:18:43,000 - 00:18:45,000] Is it true that if you only
+- [00:18:45,000 - 00:18:49,000] if you didn't turn it to pi,
+- [00:18:49,000 - 00:18:51,000] to turn it just pi...
+- [00:18:51,000 - 00:18:53,000] Oh, then it's certainly detectable
+- [00:18:53,000 - 00:18:55,000] to change the direction of the spin.
+- [00:18:55,000 - 00:18:57,000] Then the interference pattern
+- [00:18:57,000 - 00:18:59,000] would be destroyed.
+- [00:18:59,000 - 00:19:01,000] Right, the interference pattern
+- [00:19:01,000 - 00:19:03,000] would be completely destroyed.
+- [00:19:03,000 - 00:19:05,000] Basically, as you tune it,
+- [00:19:05,000 - 00:19:07,000] you can tune it to get an interference pattern.
+- [00:19:07,000 - 00:19:09,000] That's right.
+- [00:19:09,000 - 00:19:11,000] If you rotate that spin,
+- [00:19:11,000 - 00:19:13,000] you tend to destroy...
+- [00:19:13,000 - 00:19:15,000] Rotate the spin by anything
+- [00:19:15,000 - 00:19:17,000] whether it's 2 pi or 4 pi,
+- [00:19:17,000 - 00:19:19,000] you'll lose some of the interference pattern.
+- [00:19:19,000 - 00:19:21,000] If you actually rotate it by 180 degrees,
+- [00:19:21,000 - 00:19:23,000] you completely destroy the interference pattern.
+- [00:19:23,000 - 00:19:25,000] Right, that's correct.
+- [00:19:27,000 - 00:19:29,000] You can't interfere an up spin with a down spin.
+- [00:19:31,000 - 00:19:33,000] You can only interfere things
+- [00:19:33,000 - 00:19:35,000] which are otherwise the same.
+- [00:19:35,000 - 00:19:37,000] Yeah.
+- [00:19:37,000 - 00:19:39,000] Good, all right.
+- [00:19:39,000 - 00:19:41,000] Good, so we now have some bits of information
+- [00:19:41,000 - 00:19:43,000] about fermions.
+- [00:19:43,000 - 00:19:45,000] They change sign on the rotation.
+- [00:19:45,000 - 00:19:47,000] They don't.
+- [00:19:47,000 - 00:19:51,000] Now, let's come to yet another question.
+- [00:19:55,000 - 00:19:57,000] Let's come to a question about Feynman diagrams.
+- [00:19:57,000 - 00:19:59,000] The kind of Feynman diagrams
+- [00:19:59,000 - 00:20:01,000] I have in mind now
+- [00:20:01,000 - 00:20:03,000] are very, very simple.
+- [00:20:05,000 - 00:20:07,000] They have no external lines at all.
+- [00:20:07,000 - 00:20:09,000] They're just Feynman diagrams
+- [00:20:09,000 - 00:20:11,000] in the vacuum.
+- [00:20:11,000 - 00:20:13,000] Empty space.
+- [00:20:13,000 - 00:20:15,000] And they consist of nothing more than
+- [00:20:15,000 - 00:20:17,000] a single closed loop.
+- [00:20:17,000 - 00:20:19,000] A single closed loop.
+- [00:20:19,000 - 00:20:21,000] It could be an electron
+- [00:20:21,000 - 00:20:23,000] or it could be a photon, for example.
+- [00:20:23,000 - 00:20:25,000] It could be a fermion
+- [00:20:25,000 - 00:20:27,000] or it could be a boson.
+- [00:20:27,000 - 00:20:29,000] And this Feynman diagram,
+- [00:20:29,000 - 00:20:31,000] among other things,
+- [00:20:31,000 - 00:20:33,000] controls,
+- [00:20:33,000 - 00:20:35,000] it's first of all,
+- [00:20:35,000 - 00:20:37,000] among other things,
+- [00:20:37,000 - 00:20:39,000] the amplitude that you start with nothing
+- [00:20:39,000 - 00:20:41,000] and you get nothing.
+- [00:20:41,000 - 00:20:43,000] So it's part of the value of the function.
+- [00:20:43,000 - 00:20:45,000] So it's part of the vacuum structure.
+- [00:20:45,000 - 00:20:47,000] The diagram has a value.
+- [00:20:47,000 - 00:20:49,000] That value is a contribution
+- [00:20:49,000 - 00:20:51,000] to the vacuum energy.
+- [00:20:51,000 - 00:20:53,000] Let's not try to understand
+- [00:20:53,000 - 00:20:55,000] precisely why that's so.
+- [00:20:55,000 - 00:20:57,000] But just like the diagram
+- [00:20:57,000 - 00:20:59,000] which is attached to the particle here
+- [00:20:59,000 - 00:21:01,000] shifts the energy of the particle,
+- [00:21:01,000 - 00:21:03,000] a diagram like this
+- [00:21:03,000 - 00:21:05,000] in free-floating space
+- [00:21:05,000 - 00:21:07,000] would shift the energy of a vacuum.
+- [00:21:07,000 - 00:21:09,000] The question is,
+- [00:21:09,000 - 00:21:11,000] how do you know
+- [00:21:11,000 - 00:21:13,000] how much energy is in the vacuum?
+- [00:21:13,000 - 00:21:15,000] The question is,
+- [00:21:15,000 - 00:21:17,000] does it shift it up or down?
+- [00:21:17,000 - 00:21:19,000] And we're going to find out
+- [00:21:19,000 - 00:21:21,000] that the answer is different
+- [00:21:21,000 - 00:21:23,000] for bosons and fermions.
+- [00:21:23,000 - 00:21:25,000] So, let's think about
+- [00:21:25,000 - 00:21:27,000] the sign,
+- [00:21:27,000 - 00:21:29,000] just the sign
+- [00:21:29,000 - 00:21:31,000] of a diagram which looks like this
+- [00:21:31,000 - 00:21:33,000] for fermions or bosons.
+- [00:21:33,000 - 00:21:35,000] Now amazingly,
+- [00:21:35,000 - 00:21:37,000] without doing any work at all,
+- [00:21:39,000 - 00:21:41,000] we can prove
+- [00:21:41,000 - 00:21:43,000] the desired result,
+- [00:21:43,000 - 00:21:45,000] which I will show you now.
+- [00:21:45,000 - 00:21:47,000] No work at all.
+- [00:21:47,000 - 00:21:49,000] Very little.
+- [00:21:49,000 - 00:21:51,000] Very little.
+- [00:21:53,000 - 00:21:55,000] Here's the way we do it.
+- [00:21:55,000 - 00:21:57,000] Let's start
+- [00:21:57,000 - 00:21:59,000] with the boson case.
+- [00:21:59,000 - 00:22:01,000] Well, let's start,
+- [00:22:01,000 - 00:22:03,000] we can take both cases simultaneously.
+- [00:22:03,000 - 00:22:05,000] And let's begin
+- [00:22:05,000 - 00:22:07,000] with two loops.
+- [00:22:07,000 - 00:22:09,000] In other words,
+- [00:22:09,000 - 00:22:11,000] there are, what is a loop?
+- [00:22:11,000 - 00:22:13,000] A loop is a pair of particles
+- [00:22:13,000 - 00:22:15,000] in the subsequent annihilation of it.
+- [00:22:15,000 - 00:22:17,000] Or you can just think of it
+- [00:22:17,000 - 00:22:19,000] as a particle going around
+- [00:22:19,000 - 00:22:21,000] in a closed loop in space-time.
+- [00:22:21,000 - 00:22:23,000] You can either think of it
+- [00:22:23,000 - 00:22:25,000] as a particle going around
+- [00:22:25,000 - 00:22:27,000] in a closed loop in space-time,
+- [00:22:27,000 - 00:22:29,000] or more physically,
+- [00:22:29,000 - 00:22:31,000] less colorfully,
+- [00:22:31,000 - 00:22:33,000] it's a production of a pair of particles,
+- [00:22:33,000 - 00:22:35,000] a particle-antiparticle pair,
+- [00:22:35,000 - 00:22:37,000] and then the annihilation.
+- [00:22:37,000 - 00:22:39,000] Okay, here there are
+- [00:22:39,000 - 00:22:41,000] two loops.
+- [00:22:41,000 - 00:22:43,000] One loop is a positive sign
+- [00:22:43,000 - 00:22:45,000] of the diagram associated
+- [00:22:45,000 - 00:22:47,000] with just one loop.
+- [00:22:47,000 - 00:22:49,000] It can either be positive or negative.
+- [00:22:49,000 - 00:22:51,000] What about
+- [00:22:51,000 - 00:22:53,000] two separate loops like this?
+- [00:22:55,000 - 00:22:57,000] The Feynman diagram consisting
+- [00:22:57,000 - 00:22:59,000] of two separate loops is just the product
+- [00:22:59,000 - 00:23:01,000] of the Feynman diagrams for each loop
+- [00:23:01,000 - 00:23:03,000] separately.
+- [00:23:03,000 - 00:23:05,000] If there's a plus sign
+- [00:23:05,000 - 00:23:07,000] for one loop,
+- [00:23:07,000 - 00:23:09,000] then there will be a plus sign for two loops.
+- [00:23:09,000 - 00:23:11,000] What about if there's a minus sign
+- [00:23:11,000 - 00:23:13,000] for one loop?
+- [00:23:13,000 - 00:23:15,000] There'll still be a plus sign for two loops.
+- [00:23:15,000 - 00:23:17,000] So the answer for two loops
+- [00:23:17,000 - 00:23:19,000] like this, disconnected loops
+- [00:23:19,000 - 00:23:21,000] like this, is always positive.
+- [00:23:21,000 - 00:23:23,000] Whether or not
+- [00:23:23,000 - 00:23:25,000] the sign for one loop is negative.
+- [00:23:25,000 - 00:23:27,000] Now, let's
+- [00:23:27,000 - 00:23:29,000] do the following.
+- [00:23:29,000 - 00:23:31,000] Let's assume
+- [00:23:31,000 - 00:23:33,000] that our particles are fermions.
+- [00:23:33,000 - 00:23:35,000] Let's break this over here
+- [00:23:35,000 - 00:23:37,000] and look at it
+- [00:23:39,000 - 00:23:41,000] right in the middle
+- [00:23:41,000 - 00:23:43,000] at t equals zero.
+- [00:23:43,000 - 00:23:45,000] While these two things are here,
+- [00:23:45,000 - 00:23:47,000] let's put them
+- [00:23:47,000 - 00:23:49,000] close enough together
+- [00:23:49,000 - 00:23:51,000] that they almost overlap.
+- [00:23:53,000 - 00:23:55,000] What happens
+- [00:23:55,000 - 00:23:57,000] What happens
+- [00:23:57,000 - 00:23:59,000] to the amplitude
+- [00:23:59,000 - 00:24:01,000] for a system
+- [00:24:01,000 - 00:24:03,000] if you interchange
+- [00:24:03,000 - 00:24:05,000] two bosons?
+- [00:24:05,000 - 00:24:07,000] If you take the two bosons
+- [00:24:07,000 - 00:24:09,000] and exchange them?
+- [00:24:09,000 - 00:24:11,000] Plus sign.
+- [00:24:11,000 - 00:24:13,000] The wave function for bosons
+- [00:24:13,000 - 00:24:15,000] is always symmetric,
+- [00:24:15,000 - 00:24:17,000] which means if you interchange them,
+- [00:24:17,000 - 00:24:19,000] plus sign.
+- [00:24:19,000 - 00:24:21,000] What happens if you take two fermions
+- [00:24:21,000 - 00:24:23,000] and interchange them?
+- [00:24:23,000 - 00:24:25,000] Minus sign.
+- [00:24:25,000 - 00:24:27,000] That's the property of fermions and bosons.
+- [00:24:27,000 - 00:24:29,000] For fermions, the wave functions are anti-symmetric,
+- [00:24:29,000 - 00:24:31,000] and so if you interchange the two fermions,
+- [00:24:31,000 - 00:24:33,000] you get a minus sign.
+- [00:24:33,000 - 00:24:35,000] For bosons, it's a plus sign.
+- [00:24:35,000 - 00:24:37,000] So, we can compare two things.
+- [00:24:37,000 - 00:24:39,000] And the first thing,
+- [00:24:39,000 - 00:24:41,000] we take these and we don't interchange them.
+- [00:24:41,000 - 00:24:43,000] That's just two loops.
+- [00:24:43,000 - 00:24:45,000] And the second thing,
+- [00:24:47,000 - 00:24:49,000] before closing it up,
+- [00:24:49,000 - 00:24:51,000] we interchange them.
+- [00:24:51,000 - 00:24:53,000] We just interchange which one is which.
+- [00:24:53,000 - 00:24:55,000] We just interchange which one is which.
+- [00:24:55,000 - 00:24:57,000] What happens
+- [00:24:57,000 - 00:24:59,000] if they're fermions?
+- [00:24:59,000 - 00:25:01,000] If they're fermions, we get a minus sign.
+- [00:25:01,000 - 00:25:03,000] If they're bosons,
+- [00:25:03,000 - 00:25:05,000] we get a plus sign from here.
+- [00:25:05,000 - 00:25:07,000] We've managed
+- [00:25:07,000 - 00:25:09,000] to go from two loops
+- [00:25:09,000 - 00:25:11,000] to one loop,
+- [00:25:11,000 - 00:25:13,000] this is one loop now.
+- [00:25:13,000 - 00:25:15,000] This is just one loop.
+- [00:25:15,000 - 00:25:17,000] It's one loop.
+- [00:25:17,000 - 00:25:19,000] We went from two loops
+- [00:25:19,000 - 00:25:21,000] to one loop just by
+- [00:25:21,000 - 00:25:23,000] interchanging two particles.
+- [00:25:23,000 - 00:25:25,000] Two loops necessarily
+- [00:25:25,000 - 00:25:27,000] has a plus sign.
+- [00:25:27,000 - 00:25:29,000] If the loops involve
+- [00:25:29,000 - 00:25:31,000] fermions,
+- [00:25:31,000 - 00:25:33,000] then there's a sign change
+- [00:25:33,000 - 00:25:35,000] when we interchange the two particles.
+- [00:25:35,000 - 00:25:37,000] So a single loop like this
+- [00:25:37,000 - 00:25:39,000] for fermions necessarily has
+- [00:25:39,000 - 00:25:41,000] a minus sign associated with it.
+- [00:25:41,000 - 00:25:43,000] A single loop for bosons
+- [00:25:43,000 - 00:25:45,000] has a plus sign
+- [00:25:45,000 - 00:25:47,000] in the amplitude.
+- [00:25:47,000 - 00:25:49,000] The consequences of this are profound.
+- [00:25:49,000 - 00:25:51,000] What it says is that
+- [00:25:51,000 - 00:25:53,000] the contribution
+- [00:25:53,000 - 00:25:55,000] to the vacuum energy
+- [00:25:55,000 - 00:25:57,000] of a loop
+- [00:25:57,000 - 00:25:59,000] of fermions
+- [00:25:59,000 - 00:26:01,000] is negative.
+- [00:26:01,000 - 00:26:03,000] The contribution of a loop of bosons
+- [00:26:03,000 - 00:26:05,000] is positive.
+- [00:26:05,000 - 00:26:07,000] That's very interesting.
+- [00:26:07,000 - 00:26:09,000] We have this very strange
+- [00:26:09,000 - 00:26:11,000] puzzle about the vacuum energy
+- [00:26:11,000 - 00:26:13,000] that we talked about last time.
+- [00:26:13,000 - 00:26:15,000] The vacuum energy, whatever it is
+- [00:26:15,000 - 00:26:17,000] in nature, is very, very small.
+- [00:26:17,000 - 00:26:19,000] We call it dark energy.
+- [00:26:19,000 - 00:26:21,000] It's extremely small.
+- [00:26:21,000 - 00:26:23,000] The amount of it in this room
+- [00:26:23,000 - 00:26:25,000] is extremely negligible.
+- [00:26:25,000 - 00:26:27,000] And
+- [00:26:27,000 - 00:26:29,000] the naive calculation
+- [00:26:29,000 - 00:26:31,000] in quantum field theory
+- [00:26:31,000 - 00:26:33,000] would give an answer 123 orders
+- [00:26:33,000 - 00:26:35,000] of magnitude larger.
+- [00:26:35,000 - 00:26:37,000] It is at least
+- [00:26:37,000 - 00:26:39,000] at minimum interesting
+- [00:26:39,000 - 00:26:41,000] that the quantum field theory answer
+- [00:26:41,000 - 00:26:43,000] can either be positive or negative
+- [00:26:43,000 - 00:26:45,000] and that it's negative for fermions
+- [00:26:45,000 - 00:26:47,000] and positive for bosons.
+- [00:26:49,000 - 00:26:51,000] The answer depends on all kinds of details
+- [00:26:51,000 - 00:26:53,000] about the particle. It depends on the mass
+- [00:26:53,000 - 00:26:55,000] of the particle and other things.
+- [00:26:55,000 - 00:26:56,000] It depends on its charge. It
+- [00:26:56,000 - 00:26:57,000] depends on all sorts of things.
+- [00:26:57,000 - 00:26:59,000] But at least we've encountered
+- [00:26:59,000 - 00:27:01,000] a way to be able
+- [00:27:01,000 - 00:27:03,000] to get both plus signs and minus signs.
+- [00:27:03,000 - 00:27:05,000] The fact that they cancel out
+- [00:27:05,000 - 00:27:07,000] to 123 decimal places
+- [00:27:07,000 - 00:27:09,000] is bizarre, but at least
+- [00:27:09,000 - 00:27:11,000] we have the possibility
+- [00:27:11,000 - 00:27:13,000] of canceling contributions.
+- [00:27:13,000 - 00:27:15,000] Bosons,
+- [00:27:15,000 - 00:27:17,000] all things being equal,
+- [00:27:17,000 - 00:27:19,000] will give equal means
+- [00:27:19,000 - 00:27:21,000] the same mass, the same charge.
+- [00:27:21,000 - 00:27:23,000] All things being equal,
+- [00:27:23,000 - 00:27:25,000] a boson and a fermion
+- [00:27:25,000 - 00:27:27,000] will give
+- [00:27:27,000 - 00:27:29,000] the same contribution to the vacuum energy
+- [00:27:29,000 - 00:27:31,000] except one with a plus sign
+- [00:27:31,000 - 00:27:33,000] and one with a minus sign.
+- [00:27:33,000 - 00:27:35,000] Now,
+- [00:27:35,000 - 00:27:37,000] that does not explain
+- [00:27:37,000 - 00:27:39,000] why the vacuum energy is zero.
+- [00:27:39,000 - 00:27:41,000] But it does perhaps
+- [00:27:41,000 - 00:27:43,000] create a thought in your head.
+- [00:27:43,000 - 00:27:45,000] Perhaps there is
+- [00:27:45,000 - 00:27:47,000] a lot of cancellation between fermions
+- [00:27:47,000 - 00:27:49,000] and bosons.
+- [00:27:49,000 - 00:27:51,000] What it would take to have an exact cancellation
+- [00:27:51,000 - 00:27:53,000] would be,
+- [00:27:53,000 - 00:27:55,000] we're going to discuss this,
+- [00:27:55,000 - 00:27:57,000] you would necessarily have to have for every boson
+- [00:27:57,000 - 00:27:59,000] a fermion
+- [00:27:59,000 - 00:28:01,000] with exactly the same mass.
+- [00:28:01,000 - 00:28:03,000] These diagrams do depend on the mass
+- [00:28:03,000 - 00:28:05,000] of the particle.
+- [00:28:05,000 - 00:28:07,000] We don't have to know the details
+- [00:28:07,000 - 00:28:09,000] of how they depend on the mass of the particle.
+- [00:28:09,000 - 00:28:11,000] But,
+- [00:28:11,000 - 00:28:13,000] if for every boson
+- [00:28:13,000 - 00:28:15,000] we have a fermion
+- [00:28:15,000 - 00:28:17,000] with exactly the same mass
+- [00:28:17,000 - 00:28:19,000] and the same properties
+- [00:28:19,000 - 00:28:21,000] in every other respect,
+- [00:28:21,000 - 00:28:23,000] then we could imagine
+- [00:28:23,000 - 00:28:25,000] or we could conceive
+- [00:28:25,000 - 00:28:27,000] that the theory might exactly
+- [00:28:27,000 - 00:28:29,000] cancel out
+- [00:28:29,000 - 00:28:31,000] the vacuum energy.
+- [00:28:31,000 - 00:28:33,000] That's one of the things
+- [00:28:33,000 - 00:28:35,000] that supersymmetric theories can do.
+- [00:28:35,000 - 00:28:37,000] I will tell you later what a supersymmetric theory is.
+- [00:28:37,000 - 00:28:38,000] I haven't told you yet.
+- [00:28:38,000 - 00:28:39,000] But that's one of the things
+- [00:28:39,000 - 00:28:41,000] that supersymmetric theories can do.
+- [00:28:41,000 - 00:28:43,000] They can cancel out precisely
+- [00:28:43,000 - 00:28:45,000] the contribution
+- [00:28:45,000 - 00:28:47,000] to the vacuum energy.
+- [00:28:47,000 - 00:28:49,000] Now, we know in nature,
+- [00:28:49,000 - 00:28:51,000] we know with absolute certainty
+- [00:28:51,000 - 00:28:53,000] that
+- [00:28:53,000 - 00:28:55,000] there is not
+- [00:28:55,000 - 00:28:57,000] for every particle
+- [00:28:57,000 - 00:28:59,000] an image or reflection
+- [00:28:59,000 - 00:29:01,000] particle for every boson.
+- [00:29:01,000 - 00:29:03,000] There is not a fermion with the same mass
+- [00:29:03,000 - 00:29:05,000] and for every
+- [00:29:05,000 - 00:29:07,000] and vice versa.
+- [00:29:07,000 - 00:29:09,000] We know that.
+- [00:29:09,000 - 00:29:11,000] But we know
+- [00:29:11,000 - 00:29:13,000] that there is not
+- [00:29:13,000 - 00:29:15,000] a particle in nature
+- [00:29:15,000 - 00:29:17,000] with the same electric charge
+- [00:29:17,000 - 00:29:19,000] as the electron
+- [00:29:19,000 - 00:29:21,000] but which has the opposite
+- [00:29:21,000 - 00:29:23,000] which is a boson instead of a fermion.
+- [00:29:23,000 - 00:29:25,000] We would know if there were.
+- [00:29:25,000 - 00:29:27,000] We would know with certainty.
+- [00:29:27,000 - 00:29:29,000] And the way we would know
+- [00:29:29,000 - 00:29:31,000] is because in collisions, for example,
+- [00:29:31,000 - 00:29:33,000] electron
+- [00:29:33,000 - 00:29:35,000] positrons come in
+- [00:29:35,000 - 00:29:37,000] and an electron
+- [00:29:37,000 - 00:29:39,000] is a positron.
+- [00:29:39,000 - 00:29:41,000] What happens to an electron at E-E plus?
+- [00:29:41,000 - 00:29:43,000] What do they make when they collide?
+- [00:29:43,000 - 00:29:45,000] A virtual photon.
+- [00:29:47,000 - 00:29:49,000] Now,
+- [00:29:49,000 - 00:29:51,000] if there was a
+- [00:29:51,000 - 00:29:53,000] partner, let's call it a partner,
+- [00:29:53,000 - 00:29:55,000] to the electron, which was a
+- [00:29:55,000 - 00:29:57,000] boson with exactly the same charge,
+- [00:29:57,000 - 00:29:59,000] then it could be produced
+- [00:29:59,000 - 00:30:01,000] let's draw this dotted line,
+- [00:30:01,000 - 00:30:03,000] then it could be produced from the virtual
+- [00:30:03,000 - 00:30:05,000] photon
+- [00:30:05,000 - 00:30:07,000] with exactly the same probability
+- [00:30:07,000 - 00:30:09,000] as the electron.
+- [00:30:09,000 - 00:30:11,000] And we know this doesn't happen.
+- [00:30:11,000 - 00:30:13,000] Just go in a laboratory,
+- [00:30:13,000 - 00:30:15,000] scatter an electron and a positron,
+- [00:30:15,000 - 00:30:17,000] and what comes out is an electron and a positron.
+- [00:30:17,000 - 00:30:19,000] Not a
+- [00:30:19,000 - 00:30:21,000] a boson
+- [00:30:21,000 - 00:30:23,000] with the same
+- [00:30:23,000 - 00:30:25,000] mass and charge.
+- [00:30:25,000 - 00:30:27,000] So we know that in fact in nature
+- [00:30:27,000 - 00:30:29,000] there is not this symmetry
+- [00:30:29,000 - 00:30:31,000] or this reflection symmetry
+- [00:30:31,000 - 00:30:33,000] it's not a reflection in space,
+- [00:30:33,000 - 00:30:35,000] but reflection of boson into fermion.
+- [00:30:35,000 - 00:30:37,000] We know that that's not true.
+- [00:30:37,000 - 00:30:39,000] But still it's interesting to come to the conclusion
+- [00:30:39,000 - 00:30:41,000] that we have to contemplate the fact
+- [00:30:41,000 - 00:30:43,000] that if we had a theory
+- [00:30:43,000 - 00:30:45,000] which was sufficiently symmetric
+- [00:30:45,000 - 00:30:47,000] we'll discuss what we mean by
+- [00:30:47,000 - 00:30:49,000] sufficiently symmetric soon
+- [00:30:49,000 - 00:30:51,000] but if it was sufficiently symmetric
+- [00:30:51,000 - 00:30:53,000] between bosons and fermions
+- [00:30:53,000 - 00:30:55,000] we would at least have a chance
+- [00:30:55,000 - 00:30:57,000] of canceling out all this vacuum energy.
+- [00:30:57,000 - 00:30:59,000] We would at least have a chance.
+- [00:30:59,000 - 00:31:01,000] So it's a thought.
+- [00:31:01,000 - 00:31:03,000] A thought to keep in mind.
+- [00:31:03,000 - 00:31:05,000] Another thought to keep in mind.
+- [00:31:05,000 - 00:31:07,000] Can it help us at all
+- [00:31:07,000 - 00:31:09,000] with
+- [00:31:09,000 - 00:31:11,000] the self energy
+- [00:31:11,000 - 00:31:13,000] of bosons?
+- [00:31:13,000 - 00:31:15,000] Here we have
+- [00:31:15,000 - 00:31:17,000] these Feynman diagrams
+- [00:31:17,000 - 00:31:19,000] which
+- [00:31:19,000 - 00:31:21,000] give rise to
+- [00:31:21,000 - 00:31:23,000] quadratic divergences
+- [00:31:23,000 - 00:31:25,000] in the mass of
+- [00:31:25,000 - 00:31:27,000] a boson.
+- [00:31:27,000 - 00:31:29,000] Even if the mass of the boson
+- [00:31:29,000 - 00:31:31,000] even if the bare mass of the boson
+- [00:31:31,000 - 00:31:33,000] was initially zero
+- [00:31:33,000 - 00:31:35,000] in other words the bare mass
+- [00:31:35,000 - 00:31:37,000] these diagrams would create huge masses
+- [00:31:37,000 - 00:31:39,000] for the bosons.
+- [00:31:39,000 - 00:31:41,000] That's a problem.
+- [00:31:41,000 - 00:31:43,000] That's a problem for all the reasons I said.
+- [00:31:43,000 - 00:31:45,000] We'd like to get rid of that problem.
+- [00:31:45,000 - 00:31:47,000] We would like to create a theory
+- [00:31:47,000 - 00:31:49,000] in which bosons
+- [00:31:49,000 - 00:31:51,000] don't get this huge amount of mass
+- [00:31:51,000 - 00:31:53,000] from renormalization
+- [00:31:53,000 - 00:31:55,000] or from whatever we want to call it.
+- [00:31:55,000 - 00:31:57,000] We already have a theory
+- [00:31:57,000 - 00:31:59,000] in which fermions don't get
+- [00:31:59,000 - 00:32:01,000] these huge amounts of masses.
+- [00:32:01,000 - 00:32:03,000] Remember we discussed a few minutes ago
+- [00:32:03,000 - 00:32:05,000] that for fermions
+- [00:32:05,000 - 00:32:07,000] because of this left-right
+- [00:32:07,000 - 00:32:09,000] switch
+- [00:32:09,000 - 00:32:11,000] fermions
+- [00:32:11,000 - 00:32:13,000] in many situations
+- [00:32:13,000 - 00:32:15,000] the self energy
+- [00:32:15,000 - 00:32:17,000] of a fermion
+- [00:32:17,000 - 00:32:19,000] will not be infinite.
+- [00:32:19,000 - 00:32:21,000] For example if you start with a fermion
+- [00:32:21,000 - 00:32:23,000] with no mass at all
+- [00:32:23,000 - 00:32:25,000] it will not get this big mass.
+- [00:32:25,000 - 00:32:27,000] Now supposing for some reason
+- [00:32:27,000 - 00:32:29,000] your theory was concocted
+- [00:32:29,000 - 00:32:31,000] in such a way
+- [00:32:31,000 - 00:32:33,000] that even after all this
+- [00:32:33,000 - 00:32:35,000] renormalization takes place
+- [00:32:35,000 - 00:32:37,000] even after all the worst looking Feynman
+- [00:32:37,000 - 00:32:39,000] diagrams you can imagine
+- [00:32:39,000 - 00:32:41,000] there was enough symmetry
+- [00:32:41,000 - 00:32:43,000] enough structure in the theory
+- [00:32:43,000 - 00:32:45,000] that made certain
+- [00:32:45,000 - 00:32:47,000] that the fermions and the bosons
+- [00:32:47,000 - 00:32:49,000] traveled in pairs
+- [00:32:49,000 - 00:32:51,000] and always had exactly
+- [00:32:51,000 - 00:32:53,000] the same mass, the partners.
+- [00:32:53,000 - 00:32:55,000] Then because
+- [00:32:55,000 - 00:32:57,000] the fermions don't
+- [00:32:57,000 - 00:32:59,000] get any mass
+- [00:32:59,000 - 00:33:01,000] if they didn't start with any
+- [00:33:01,000 - 00:33:03,000] it must also be true of the bosons.
+- [00:33:03,000 - 00:33:05,000] Why?
+- [00:33:05,000 - 00:33:07,000] Well, I'm not saying that we
+- [00:33:07,000 - 00:33:09,000] can make such a theory
+- [00:33:09,000 - 00:33:10,000] on the face of it, it seems
+- [00:33:10,000 - 00:33:11,000] like we can't make such a theory
+- [00:33:11,000 - 00:33:13,000] because obviously the bosons
+- [00:33:13,000 - 00:33:15,000] do get big masses from self interaction
+- [00:33:15,000 - 00:33:17,000] and the fermions don't.
+- [00:33:17,000 - 00:33:19,000] But, here's what you can imagine
+- [00:33:21,000 - 00:33:23,000] as an example
+- [00:33:23,000 - 00:33:25,000] take the various Feynman diagrams
+- [00:33:25,000 - 00:33:27,000] which contribute
+- [00:33:27,000 - 00:33:29,000] to the self energy of the boson
+- [00:33:29,000 - 00:33:31,000] you might have
+- [00:33:31,000 - 00:33:33,000] a Feynman diagram
+- [00:33:33,000 - 00:33:35,000] as an illustration
+- [00:33:35,000 - 00:33:37,000] which looks like this
+- [00:33:39,000 - 00:33:41,000] but you might have another Feynman diagram
+- [00:33:41,000 - 00:33:43,000] these are all bosons
+- [00:33:43,000 - 00:33:45,000] but you might have another Feynman diagram
+- [00:33:45,000 - 00:33:47,000] where what runs around in the center here
+- [00:33:47,000 - 00:33:51,000] is a fermion
+- [00:33:51,000 - 00:33:53,000] boson going around the loop
+- [00:33:53,000 - 00:33:55,000] fermion going around the loop
+- [00:33:55,000 - 00:33:57,000] fermions and bosons
+- [00:33:57,000 - 00:33:59,000] always have opposite signs
+- [00:33:59,000 - 00:34:01,000] for these loops
+- [00:34:01,000 - 00:34:03,000] so one can think then
+- [00:34:03,000 - 00:34:05,000] one can imagine
+- [00:34:05,000 - 00:34:07,000] that if there was enough symmetry
+- [00:34:07,000 - 00:34:09,000] and if every stage
+- [00:34:09,000 - 00:34:11,000] of that symmetry was correctly preserved
+- [00:34:11,000 - 00:34:13,000] in detail
+- [00:34:13,000 - 00:34:15,000] the cancellation
+- [00:34:15,000 - 00:34:17,000] of the self energies
+- [00:34:17,000 - 00:34:19,000] of the bosons
+- [00:34:19,000 - 00:34:21,000] might also be exact
+- [00:34:21,000 - 00:34:23,000] ah
+- [00:34:23,000 - 00:34:25,000] this cancellation of the
+- [00:34:25,000 - 00:34:27,000] self energy for the fermions
+- [00:34:27,000 - 00:34:29,000] that's exact
+- [00:34:29,000 - 00:34:31,000] if it starts zero, it ends zero
+- [00:34:31,000 - 00:34:33,000] if there was
+- [00:34:33,000 - 00:34:35,000] such a symmetry between fermions
+- [00:34:35,000 - 00:34:37,000] and bosons which was rigidly enforced
+- [00:34:37,000 - 00:34:39,000] by the mathematics of the theory
+- [00:34:39,000 - 00:34:41,000] of the fermion
+- [00:34:41,000 - 00:34:43,000] then we might imagine
+- [00:34:43,000 - 00:34:45,000] that there are theories
+- [00:34:45,000 - 00:34:47,000] where the bosons do not
+- [00:34:47,000 - 00:34:49,000] get these huge
+- [00:34:49,000 - 00:34:51,000] self energies
+- [00:34:51,000 - 00:34:53,000] that in itself is not good enough
+- [00:34:53,000 - 00:34:55,000] we know that there is
+- [00:34:55,000 - 00:34:57,000] not an exact
+- [00:34:57,000 - 00:34:59,000] mass equivalence
+- [00:34:59,000 - 00:35:01,000] between fermions and bosons
+- [00:35:01,000 - 00:35:03,000] but it's a start
+- [00:35:03,000 - 00:35:05,000] let's take a little break
+- [00:35:05,000 - 00:35:07,000] let's take a break for a few minutes
+- [00:35:07,000 - 00:35:11,000] so to zeroth order
+- [00:35:11,000 - 00:35:13,000] the hypothesis is
+- [00:35:13,000 - 00:35:15,000] not that there is
+- [00:35:15,000 - 00:35:17,000] when I say to zeroth order
+- [00:35:17,000 - 00:35:19,000] I don't mean in the mathematical sense
+- [00:35:19,000 - 00:35:21,000] I mean in
+- [00:35:21,000 - 00:35:23,000] some rough approximation
+- [00:35:23,000 - 00:35:25,000] to what the story is
+- [00:35:25,000 - 00:35:27,000] that
+- [00:35:27,000 - 00:35:29,000] for every particle in nature
+- [00:35:29,000 - 00:35:31,000] there is a partner
+- [00:35:31,000 - 00:35:33,000] of the opposite
+- [00:35:33,000 - 00:35:35,000] somethingness
+- [00:35:35,000 - 00:35:37,000] the opposite of the other
+- [00:35:37,000 - 00:35:39,000] the opposite
+- [00:35:39,000 - 00:35:41,000] fermi-boson-ness
+- [00:35:41,000 - 00:35:43,000] bosonosity, I don't know what the right word is
+- [00:35:43,000 - 00:35:45,000] you know what I mean, for every fermion in nature
+- [00:35:45,000 - 00:35:47,000] like the electron
+- [00:35:47,000 - 00:35:49,000] there is another particle
+- [00:35:49,000 - 00:35:51,000] which is a boson with integer spin
+- [00:35:51,000 - 00:35:53,000] with the same
+- [00:35:53,000 - 00:35:55,000] no, with the same charge
+- [00:35:55,000 - 00:35:57,000] yes, with the same charge
+- [00:35:57,000 - 00:35:59,000] same electric charge and so forth
+- [00:35:59,000 - 00:36:01,000] now I would say
+- [00:36:01,000 - 00:36:03,000] with the same mass, but we know that's not true
+- [00:36:03,000 - 00:36:05,000] ok
+- [00:36:05,000 - 00:36:07,000] so not with the same
+- [00:36:07,000 - 00:36:09,000] mass
+- [00:36:09,000 - 00:36:11,000] and for every boson there is a fermion
+- [00:36:11,000 - 00:36:13,000] for every fermion there is a boson
+- [00:36:13,000 - 00:36:15,000] this would entail basically doubling
+- [00:36:15,000 - 00:36:17,000] the spectrum of all of the
+- [00:36:17,000 - 00:36:19,000] element of particles
+- [00:36:19,000 - 00:36:21,000] how about the fact
+- [00:36:21,000 - 00:36:23,000] that they don't have exactly the same
+- [00:36:23,000 - 00:36:25,000] mass
+- [00:36:25,000 - 00:36:27,000] in fact their masses are going to be quite different
+- [00:36:27,000 - 00:36:29,000] well if the masses
+- [00:36:29,000 - 00:36:31,000] were equal
+- [00:36:31,000 - 00:36:33,000] we would discover that all of this
+- [00:36:33,000 - 00:36:35,000] bad junk cancels out
+- [00:36:35,000 - 00:36:37,000] exactly
+- [00:36:37,000 - 00:36:39,000] if the masses are almost but not quite equal
+- [00:36:39,000 - 00:36:41,000] we still might have a lot of cancellation
+- [00:36:41,000 - 00:36:43,000] perhaps not a complete cancellation
+- [00:36:43,000 - 00:36:45,000] but an approximate cancellation
+- [00:36:45,000 - 00:36:47,000] if the masses were not exactly equal
+- [00:36:47,000 - 00:36:49,000] we don't care for example
+- [00:36:49,000 - 00:36:51,000] that there might be
+- [00:36:51,000 - 00:36:53,000] some self energy
+- [00:36:53,000 - 00:36:55,000] for these bosons
+- [00:36:55,000 - 00:36:57,000] we just don't want it to be huge
+- [00:36:57,000 - 00:36:59,000] so a diagram like this
+- [00:36:59,000 - 00:37:01,000] and a diagram like that
+- [00:37:01,000 - 00:37:03,000] is a good example
+- [00:37:03,000 - 00:37:05,000] of the fact that
+- [00:37:05,000 - 00:37:07,000] a diagram like this and a diagram like that
+- [00:37:07,000 - 00:37:09,000] will not exactly cancel
+- [00:37:09,000 - 00:37:11,000] unless the masses running around
+- [00:37:11,000 - 00:37:13,000] in the loop here are exactly the same
+- [00:37:13,000 - 00:37:15,000] but if they're not exactly the same
+- [00:37:15,000 - 00:37:17,000] but close
+- [00:37:17,000 - 00:37:19,000] we might expect a good deal of cancellation
+- [00:37:19,000 - 00:37:21,000] approximate cancellation
+- [00:37:21,000 - 00:37:23,000] enough cancellation
+- [00:37:23,000 - 00:37:25,000] to keep from getting this explosively large
+- [00:37:25,000 - 00:37:27,000] answer
+- [00:37:27,000 - 00:37:29,000] and in fact we will talk about supersymmetry
+- [00:37:29,000 - 00:37:31,000] supersymmetry is nothing but
+- [00:37:31,000 - 00:37:33,000] well
+- [00:37:33,000 - 00:37:35,000] it is in fact much more
+- [00:37:35,000 - 00:37:37,000] among other things
+- [00:37:37,000 - 00:37:39,000] it is this idea
+- [00:37:39,000 - 00:37:41,000] that every particle has a partner
+- [00:37:41,000 - 00:37:43,000] of the opposite statistics
+- [00:37:43,000 - 00:37:45,000] is the right word
+- [00:37:45,000 - 00:37:47,000] statistics means fermion-ness or boson-ness
+- [00:37:47,000 - 00:37:49,000] that's what supersymmetry is
+- [00:37:49,000 - 00:37:51,000] it's a symmetry
+- [00:37:51,000 - 00:37:53,000] which relates fermions to bosons
+- [00:37:53,000 - 00:37:55,000] in such a way
+- [00:37:55,000 - 00:37:57,000] that every boson has its fermionic partner
+- [00:37:57,000 - 00:37:59,000] its fermionic superpartner
+- [00:37:59,000 - 00:38:01,000] they come in superpartner pairs
+- [00:38:01,000 - 00:38:03,000] and
+- [00:38:03,000 - 00:38:05,000] with
+- [00:38:05,000 - 00:38:07,000] precise
+- [00:38:07,000 - 00:38:09,000] mass equivalents of the particles
+- [00:38:09,000 - 00:38:11,000] partners
+- [00:38:11,000 - 00:38:13,000] we would have precise cancellation
+- [00:38:13,000 - 00:38:15,000] of this kind of thing
+- [00:38:15,000 - 00:38:17,000] of the vacuum energy and so forth
+- [00:38:17,000 - 00:38:19,000] with almost
+- [00:38:19,000 - 00:38:21,000] degeneracy
+- [00:38:21,000 - 00:38:23,000] degeneracy means equality of masses
+- [00:38:23,000 - 00:38:25,000] we can have approximate
+- [00:38:25,000 - 00:38:27,000] cancellation
+- [00:38:27,000 - 00:38:29,000] that's the working hypothesis
+- [00:38:29,000 - 00:38:31,000] that the things which control
+- [00:38:31,000 - 00:38:33,000] and keep
+- [00:38:33,000 - 00:38:35,000] these phenomena from running away
+- [00:38:35,000 - 00:38:37,000] and being enormously large
+- [00:38:37,000 - 00:38:39,000] is cancellation
+- [00:38:39,000 - 00:38:41,000] between fermions
+- [00:38:41,000 - 00:38:43,000] and bosons
+- [00:38:43,000 - 00:38:45,000] now we are going to
+- [00:38:45,000 - 00:38:47,000] say more about it
+- [00:38:47,000 - 00:38:48,000] and perhaps even do a little
+- [00:38:48,000 - 00:38:49,000] bit of the mathematics of it
+- [00:38:49,000 - 00:38:51,000] it's extremely abstract
+- [00:38:51,000 - 00:38:53,000] as I said
+- [00:38:53,000 - 00:38:55,000] that doesn't mean difficult
+- [00:38:55,000 - 00:38:57,000] it just means abstract
+- [00:38:57,000 - 00:38:59,000] but
+- [00:38:59,000 - 00:39:01,000] that's the
+- [00:39:01,000 - 00:39:03,000] zeroth order idea
+- [00:39:03,000 - 00:39:05,000] every particle comes equipped
+- [00:39:05,000 - 00:39:07,000] with a superpartner
+- [00:39:07,000 - 00:39:09,000] those superpartners have never been
+- [00:39:09,000 - 00:39:11,000] discovered in the laboratory
+- [00:39:11,000 - 00:39:13,000] not one of them
+- [00:39:13,000 - 00:39:15,000] not a single one of them
+- [00:39:15,000 - 00:39:17,000] has ever been discovered in the laboratory
+- [00:39:17,000 - 00:39:19,000] the implication is
+- [00:39:19,000 - 00:39:21,000] they must be a good deal heavier
+- [00:39:21,000 - 00:39:23,000] I showed you
+- [00:39:23,000 - 00:39:25,000] how you might detect the superpartner
+- [00:39:25,000 - 00:39:27,000] of the electron
+- [00:39:27,000 - 00:39:29,000] you collide a pair of electrons
+- [00:39:29,000 - 00:39:31,000] you create a virtual photon
+- [00:39:31,000 - 00:39:33,000] and then you create
+- [00:39:33,000 - 00:39:35,000] the particles which are the partners of the electrons
+- [00:39:35,000 - 00:39:37,000] the fact that they have never been discovered
+- [00:39:37,000 - 00:39:39,000] means
+- [00:39:39,000 - 00:39:41,000] that no experiment
+- [00:39:41,000 - 00:39:43,000] has ever had enough energy
+- [00:39:43,000 - 00:39:45,000] to create these particles
+- [00:39:45,000 - 00:39:47,000] these particles must be quite massive
+- [00:39:47,000 - 00:39:49,000] how massive?
+- [00:39:49,000 - 00:39:51,000] basically at the edge of detectability
+- [00:39:51,000 - 00:39:53,000] beyond the edge of detectability
+- [00:39:53,000 - 00:39:55,000] that means
+- [00:39:55,000 - 00:39:57,000] hundreds of gev
+- [00:39:57,000 - 00:39:59,000] hundreds of times the mass of the proton
+- [00:39:59,000 - 00:40:01,000] now is this
+- [00:40:01,000 - 00:40:03,000] really as far fetched as
+- [00:40:03,000 - 00:40:05,000] that sounds very far fetched
+- [00:40:05,000 - 00:40:07,000] that we just by accident
+- [00:40:07,000 - 00:40:09,000] all the particles
+- [00:40:09,000 - 00:40:11,000] all the partners happen to be
+- [00:40:11,000 - 00:40:13,000] too heavy to be seen
+- [00:40:13,000 - 00:40:15,000] you know that really sounds
+- [00:40:15,000 - 00:40:17,000] like really
+- [00:40:17,000 - 00:40:19,000] not good
+- [00:40:19,000 - 00:40:21,000] practice
+- [00:40:21,000 - 00:40:23,000] well it's not really that bad
+- [00:40:23,000 - 00:40:25,000] because when you look at these supersymmetric theories
+- [00:40:25,000 - 00:40:27,000] what you discover
+- [00:40:27,000 - 00:40:29,000] what you discover
+- [00:40:29,000 - 00:40:31,000] is that some of the particles
+- [00:40:31,000 - 00:40:33,000] have the natural
+- [00:40:33,000 - 00:40:35,000] not natural tendency
+- [00:40:35,000 - 00:40:37,000] the property
+- [00:40:37,000 - 00:40:39,000] the natural property
+- [00:40:39,000 - 00:40:41,000] that the only way that they can get mass
+- [00:40:41,000 - 00:40:43,000] is from the Higgs phenomenon
+- [00:40:43,000 - 00:40:45,000] others can have mass
+- [00:40:45,000 - 00:40:47,000] without the Higgs phenomenon
+- [00:40:47,000 - 00:40:49,000] it turns out
+- [00:40:49,000 - 00:40:51,000] in these theories just mathematically
+- [00:40:51,000 - 00:40:53,000] that exactly half the particles
+- [00:40:53,000 - 00:40:55,000] some of them fermions
+- [00:40:55,000 - 00:40:57,000] some of them bosons
+- [00:40:57,000 - 00:40:59,000] necessarily owe their mass to the Higgs phenomenon
+- [00:40:59,000 - 00:41:01,000] which is another way of saying
+- [00:41:01,000 - 00:41:03,000] they must be massless
+- [00:41:03,000 - 00:41:05,000] there is spontaneous symmetry breaking
+- [00:41:05,000 - 00:41:07,000] of the electroweak of the Higgs boson phenomena
+- [00:41:07,000 - 00:41:09,000] and the other half
+- [00:41:09,000 - 00:41:11,000] are allowed to have mass without that
+- [00:41:11,000 - 00:41:13,000] so it's almost
+- [00:41:13,000 - 00:41:15,000] natural to say that half the particles
+- [00:41:15,000 - 00:41:17,000] might be a good deal more massive
+- [00:41:17,000 - 00:41:19,000] than the other half
+- [00:41:19,000 - 00:41:21,000] it is
+- [00:41:21,000 - 00:41:23,000] for most of us
+- [00:41:23,000 - 00:41:25,000] it's a little bit of a stretch
+- [00:41:25,000 - 00:41:27,000] the supersymmetry idea
+- [00:41:27,000 - 00:41:29,000] it's just a little bit too
+- [00:41:29,000 - 00:41:31,000] lucky
+- [00:41:31,000 - 00:41:33,000] that we just haven't seen
+- [00:41:33,000 - 00:41:35,000] the entirety of it yet
+- [00:41:35,000 - 00:41:37,000] on the other hand
+- [00:41:37,000 - 00:41:39,000] there is some rationale
+- [00:41:39,000 - 00:41:41,000] for why the particles that we've seen
+- [00:41:41,000 - 00:41:43,000] happen to be the ones
+- [00:41:43,000 - 00:41:45,000] which have low enough mass to be seen
+- [00:41:45,000 - 00:41:47,000] and why the ones we haven't seen
+- [00:41:47,000 - 00:41:49,000] could conceivably have higher mass
+- [00:41:49,000 - 00:41:51,000] so we have to wait and find out
+- [00:41:51,000 - 00:41:53,000] but that's kind of what LHC
+- [00:41:53,000 - 00:41:55,000] was designed
+- [00:41:55,000 - 00:41:57,000] to find out
+- [00:41:57,000 - 00:41:59,000] originally it was designed
+- [00:41:59,000 - 00:42:01,000] to detect the Higgs boson
+- [00:42:01,000 - 00:42:03,000] but
+- [00:42:03,000 - 00:42:05,000] by now
+- [00:42:05,000 - 00:42:07,000] I think it's generally conceded
+- [00:42:07,000 - 00:42:09,000] well the Higgs boson is going to be there
+- [00:42:09,000 - 00:42:11,000] generally conceded
+- [00:42:11,000 - 00:42:13,000] and it turns out to be the hardest thing
+- [00:42:13,000 - 00:42:15,000] to discover in the list of things
+- [00:42:15,000 - 00:42:17,000] that you might want to discover
+- [00:42:17,000 - 00:42:19,000] the much easier thing
+- [00:42:19,000 - 00:42:21,000] and in a sense more profound
+- [00:42:21,000 - 00:42:23,000] and much more
+- [00:42:23,000 - 00:42:25,000] um
+- [00:42:25,000 - 00:42:27,000] um
+- [00:42:27,000 - 00:42:29,000] interesting
+- [00:42:29,000 - 00:42:31,000] from the point of view that
+- [00:42:31,000 - 00:42:33,000] we don't know if it's there or not
+- [00:42:33,000 - 00:42:35,000] but it's going to be studied
+- [00:42:35,000 - 00:42:37,000] so what's going to be studied is collisions
+- [00:42:37,000 - 00:42:39,000] at high enough energy
+- [00:42:39,000 - 00:42:41,000] to produce these superpartners
+- [00:42:41,000 - 00:42:43,000] if the superpartners are low enough mass
+- [00:42:43,000 - 00:42:45,000] to be detected
+- [00:42:45,000 - 00:42:47,000] now first question
+- [00:42:47,000 - 00:42:49,000] how do we know that they're not
+- [00:42:49,000 - 00:42:51,000] way off at enormous mass
+- [00:42:51,000 - 00:42:53,000] what would happen
+- [00:42:53,000 - 00:42:55,000] through this cancellation
+- [00:42:55,000 - 00:42:57,000] if half of the particles
+- [00:42:57,000 - 00:42:59,000] were at enormously large mass
+- [00:42:59,000 - 00:43:01,000] how massive
+- [00:43:01,000 - 00:43:03,000] I don't know
+- [00:43:03,000 - 00:43:05,000] the Planck mass or something
+- [00:43:05,000 - 00:43:07,000] then the cancellation
+- [00:43:07,000 - 00:43:09,000] would be extremely bad
+- [00:43:11,000 - 00:43:13,000] and it would be just as bad
+- [00:43:13,000 - 00:43:15,000] as not having these heavy particles
+- [00:43:15,000 - 00:43:17,000] at all or practically as bad
+- [00:43:17,000 - 00:43:19,000] and
+- [00:43:19,000 - 00:43:21,000] instead of having
+- [00:43:21,000 - 00:43:23,000] infinite self energies
+- [00:43:23,000 - 00:43:25,000] you would have self energies which were
+- [00:43:25,000 - 00:43:27,000] as big as the Planck mass
+- [00:43:27,000 - 00:43:29,000] so if you want
+- [00:43:29,000 - 00:43:31,000] this supersymmetry
+- [00:43:31,000 - 00:43:33,000] to play the role of somehow
+- [00:43:33,000 - 00:43:35,000] protecting you against
+- [00:43:35,000 - 00:43:37,000] enormously large self energy corrections
+- [00:43:37,000 - 00:43:39,000] the mass difference
+- [00:43:39,000 - 00:43:41,000] between the bosons and the fermions
+- [00:43:41,000 - 00:43:43,000] cannot be too big
+- [00:43:43,000 - 00:43:45,000] in fact a couple of hundred
+- [00:43:45,000 - 00:43:47,000] GeV beyond that
+- [00:43:47,000 - 00:43:49,000] the cancellation
+- [00:43:49,000 - 00:43:51,000] would be too poor
+- [00:43:51,000 - 00:43:53,000] to have a decent explanation
+- [00:43:53,000 - 00:43:55,000] of why the self energy of the Higgs boson
+- [00:43:55,000 - 00:43:57,000] was not too big
+- [00:43:57,000 - 00:43:59,000] too big for experimental reasons
+- [00:43:59,000 - 00:44:01,000] so
+- [00:44:01,000 - 00:44:03,000] if
+- [00:44:03,000 - 00:44:05,000] the role of supersymmetry
+- [00:44:05,000 - 00:44:07,000] is to keep
+- [00:44:07,000 - 00:44:09,000] the Higgs boson
+- [00:44:09,000 - 00:44:11,000] from getting much much too much mass
+- [00:44:11,000 - 00:44:13,000] then the difference
+- [00:44:13,000 - 00:44:15,000] between the masses of the particles
+- [00:44:15,000 - 00:44:17,000] and their superpartners cannot be all that big
+- [00:44:17,000 - 00:44:19,000] it has to be
+- [00:44:19,000 - 00:44:21,000] roughly speaking within
+- [00:44:21,000 - 00:44:23,000] the experimental range of the LHC
+- [00:44:23,000 - 00:44:25,000] that's the logic
+- [00:44:25,000 - 00:44:27,000] that's the logic
+- [00:44:27,000 - 00:44:29,000] of what's going on
+- [00:44:29,000 - 00:44:31,000] superpartners
+- [00:44:31,000 - 00:44:33,000] and their symmetry to protect
+- [00:44:33,000 - 00:44:35,000] having the Higgs boson
+- [00:44:35,000 - 00:44:37,000] dragged up to enormously high energy
+- [00:44:37,000 - 00:44:39,000] and everything else with it
+- [00:44:39,000 - 00:44:41,000] that's the role of the superpartners
+- [00:44:43,000 - 00:44:45,000] the masses of the particles in the superpartners
+- [00:44:45,000 - 00:44:47,000] are known not to be
+- [00:44:47,000 - 00:44:49,000] equal
+- [00:44:49,000 - 00:44:51,000] but how different can they be
+- [00:44:51,000 - 00:44:52,000] and still do the job
+- [00:44:52,000 - 00:44:53,000] that they were intended to do
+- [00:44:53,000 - 00:44:55,000] and the answer is
+- [00:44:55,000 - 00:44:57,000] not too far from experimental
+- [00:44:57,000 - 00:44:59,000] detectability
+- [00:44:59,000 - 00:45:01,000] yeah question
+- [00:45:01,000 - 00:45:03,000] let's start over here
+- [00:45:03,000 - 00:45:05,000] what you were saying is that
+- [00:45:05,000 - 00:45:07,000] in the aggregate
+- [00:45:07,000 - 00:45:09,000] I hope the terminology is correct
+- [00:45:09,000 - 00:45:11,000] the statistics of the fermions
+- [00:45:11,000 - 00:45:13,000] and the bosons
+- [00:45:13,000 - 00:45:15,000] on a universal scale must roughly
+- [00:45:15,000 - 00:45:17,000] even out or there would be
+- [00:45:17,000 - 00:45:19,000] different
+- [00:45:19,000 - 00:45:21,000] measures of vacuum energy
+- [00:45:21,000 - 00:45:23,000] is that correct
+- [00:45:23,000 - 00:45:25,000] that is different than saying
+- [00:45:25,000 - 00:45:27,000] vacuum energy is not really our problem
+- [00:45:27,000 - 00:45:29,000] I just illustrated vacuum energy
+- [00:45:29,000 - 00:45:31,000] as one thing that supersymmetry can do
+- [00:45:31,000 - 00:45:33,000] we're really more interested
+- [00:45:33,000 - 00:45:35,000] in the self energy
+- [00:45:35,000 - 00:45:37,000] of the bosons
+- [00:45:37,000 - 00:45:39,000] of the Higgs bosons
+- [00:45:39,000 - 00:45:41,000] what does it mean in the aggregate
+- [00:45:41,000 - 00:45:43,000] a whole bunch of
+- [00:45:43,000 - 00:45:45,000] yeah they all have to be
+- [00:45:45,000 - 00:45:47,000] close to the
+- [00:45:47,000 - 00:45:49,000] the mass splittings
+- [00:45:49,000 - 00:45:51,000] between the particles
+- [00:45:51,000 - 00:45:53,000] and the superpartners
+- [00:45:53,000 - 00:45:55,000] cannot be too big
+- [00:45:55,000 - 00:45:57,000] but that's different than saying
+- [00:45:57,000 - 00:45:59,000] every fermion and boson
+- [00:45:59,000 - 00:46:01,000] need to have some relationship
+- [00:46:01,000 - 00:46:03,000] the aggregate in other words
+- [00:46:03,000 - 00:46:05,000] no no oh oh oh
+- [00:46:05,000 - 00:46:07,000] I know what you're asking
+- [00:46:07,000 - 00:46:09,000] I know what you're asking
+- [00:46:09,000 - 00:46:11,000] right one possibility
+- [00:46:11,000 - 00:46:13,000] is that in aggregate
+- [00:46:13,000 - 00:46:15,000] they cancel
+- [00:46:15,000 - 00:46:17,000] that would not require
+- [00:46:17,000 - 00:46:19,000] an exact matching
+- [00:46:19,000 - 00:46:21,000] between fermions and bosons
+- [00:46:21,000 - 00:46:23,000] it would just require the sum of all fermions
+- [00:46:23,000 - 00:46:25,000] to approximately cancel against
+- [00:46:25,000 - 00:46:27,000] the sum of all bosons
+- [00:46:27,000 - 00:46:29,000] that's deemed to be
+- [00:46:29,000 - 00:46:31,000] an accidental cancellation
+- [00:46:31,000 - 00:46:33,000] as
+- [00:46:33,000 - 00:46:35,000] uncomfortable and as
+- [00:46:35,000 - 00:46:37,000] surprising and
+- [00:46:37,000 - 00:46:39,000] fine tuned
+- [00:46:39,000 - 00:46:41,000] as the original problem was
+- [00:46:41,000 - 00:46:43,000] you could say well at least the fermions
+- [00:46:43,000 - 00:46:45,000] give you the opportunity to have
+- [00:46:45,000 - 00:46:47,000] some negative signs and that's true
+- [00:46:47,000 - 00:46:49,000] they at least give you the opportunity
+- [00:46:49,000 - 00:46:51,000] but if it was just a question of an
+- [00:46:51,000 - 00:46:53,000] in aggregate cancellation
+- [00:46:53,000 - 00:46:55,000] then you would say well this was
+- [00:46:55,000 - 00:46:57,000] an extraordinary exceptionally lucky accident
+- [00:46:57,000 - 00:46:59,000] but if you can build theories
+- [00:46:59,000 - 00:47:01,000] if you can build theories
+- [00:47:01,000 - 00:47:03,000] where this cancellation is more
+- [00:47:03,000 - 00:47:05,000] natural
+- [00:47:05,000 - 00:47:07,000] if you can build theories with a higher
+- [00:47:07,000 - 00:47:09,000] at the moment the way I stated it
+- [00:47:09,000 - 00:47:11,000] it's not very natural
+- [00:47:11,000 - 00:47:13,000] so the question is is there a mathematical framework
+- [00:47:13,000 - 00:47:15,000] that contains these kind of symmetries
+- [00:47:15,000 - 00:47:17,000] between fermions and bosons
+- [00:47:17,000 - 00:47:19,000] which also can explain the fact
+- [00:47:19,000 - 00:47:21,000] that they're not exactly equal in mass
+- [00:47:21,000 - 00:47:23,000] in a natural way
+- [00:47:23,000 - 00:47:25,000] and in which these
+- [00:47:25,000 - 00:47:27,000] in which the symmetry between them
+- [00:47:27,000 - 00:47:29,000] by natural
+- [00:47:29,000 - 00:47:31,000] nobody knows
+- [00:47:31,000 - 00:47:33,000] exactly what natural means
+- [00:47:33,000 - 00:47:35,000] it's sort of mathematical consequence
+- [00:47:35,000 - 00:47:37,000] of some reasonable postulates
+- [00:47:37,000 - 00:47:39,000] that these things approximately
+- [00:47:39,000 - 00:47:41,000] cancel each other
+- [00:47:41,000 - 00:47:43,000] that would be much much more
+- [00:47:43,000 - 00:47:45,000] satisfactory than just saying
+- [00:47:45,000 - 00:47:47,000] the whole bunch of them
+- [00:47:47,000 - 00:47:49,000] accidentally cancel against the whole bunch
+- [00:47:49,000 - 00:47:51,000] of the other ones
+- [00:47:51,000 - 00:47:53,000] one more time
+- [00:47:53,000 - 00:47:55,000] that's true if you assume reductionism
+- [00:47:55,000 - 00:47:57,000] if you don't assume reductionism
+- [00:47:57,000 - 00:47:59,000] it may be very natural
+- [00:47:59,000 - 00:48:01,000] that in aggregate they cancel out
+- [00:48:01,000 - 00:48:03,000] I don't know what that really means
+- [00:48:03,000 - 00:48:05,000] I know what you mean
+- [00:48:05,000 - 00:48:07,000] I think that just means
+- [00:48:07,000 - 00:48:09,000] we don't really understand
+- [00:48:09,000 - 00:48:11,000] or know what's natural
+- [00:48:11,000 - 00:48:13,000] and what's not natural
+- [00:48:13,000 - 00:48:15,000] this is true
+- [00:48:15,000 - 00:48:17,000] there's no question that we're
+- [00:48:17,000 - 00:48:19,000] groping around for answers to these things
+- [00:48:19,000 - 00:48:21,000] one hypothesis is
+- [00:48:21,000 - 00:48:23,000] the mathematics of supersymmetry
+- [00:48:23,000 - 00:48:25,000] and spontaneously broken supersymmetry
+- [00:48:25,000 - 00:48:27,000] we haven't discussed that
+- [00:48:27,000 - 00:48:29,000] but there's a notion of spontaneously broken supersymmetry
+- [00:48:29,000 - 00:48:31,000] which
+- [00:48:31,000 - 00:48:33,000] is a very important
+- [00:48:33,000 - 00:48:35,000] we'll create mass differences
+- [00:48:35,000 - 00:48:37,000] for particles
+- [00:48:37,000 - 00:48:39,000] the mathematics of that conceivably
+- [00:48:39,000 - 00:48:41,000] could be something which would
+- [00:48:41,000 - 00:48:43,000] not conceivably, I mean we know
+- [00:48:43,000 - 00:48:45,000] theories where it really will do the job
+- [00:48:45,000 - 00:48:49,000] the only question is
+- [00:48:49,000 - 00:48:51,000] is it the right theory
+- [00:48:51,000 - 00:48:53,000] and is it the only theory which will do that
+- [00:48:53,000 - 00:48:55,000] and
+- [00:48:55,000 - 00:48:57,000] at the moment yes
+- [00:48:57,000 - 00:48:59,000] but that doesn't mean it will stay that way
+- [00:48:59,000 - 00:49:01,000] I seem to recall that before
+- [00:49:01,000 - 00:49:03,000] the top and bottom quarks
+- [00:49:03,000 - 00:49:05,000] were directly detected
+- [00:49:05,000 - 00:49:07,000] I think it was at SLAC
+- [00:49:07,000 - 00:49:09,000] the measurements of the
+- [00:49:09,000 - 00:49:11,000] yields of different particles got accurate enough
+- [00:49:11,000 - 00:49:13,000] that it was
+- [00:49:13,000 - 00:49:15,000] likely that there were three families
+- [00:49:15,000 - 00:49:17,000] well it was the tau
+- [00:49:17,000 - 00:49:19,000] the tau lepton that was discovered
+- [00:49:19,000 - 00:49:21,000] yes
+- [00:49:21,000 - 00:49:23,000] that was the third of the leptons
+- [00:49:23,000 - 00:49:25,000] well
+- [00:49:25,000 - 00:49:27,000] what I think I recall
+- [00:49:27,000 - 00:49:29,000] is that the Feynman diagrams
+- [00:49:29,000 - 00:49:31,000] of all these different virtual particles
+- [00:49:31,000 - 00:49:33,000] that can be
+- [00:49:33,000 - 00:49:35,000] excited and annihilated
+- [00:49:35,000 - 00:49:37,000] and the sum
+- [00:49:37,000 - 00:49:39,000] of all that gives a
+- [00:49:39,000 - 00:49:41,000] measure of what I'm going to call the yield
+- [00:49:41,000 - 00:49:43,000] is the accuracy of the
+- [00:49:43,000 - 00:49:45,000] particle physics now getting to the
+- [00:49:45,000 - 00:49:47,000] point where you can see anything
+- [00:49:47,000 - 00:49:49,000] ok good good that's a good question
+- [00:49:49,000 - 00:49:51,000] here let me phrase the question a little bit
+- [00:49:51,000 - 00:49:53,000] differently
+- [00:49:55,000 - 00:49:57,000] good
+- [00:49:57,000 - 00:49:59,000] that is a very very good question let's come back
+- [00:49:59,000 - 00:50:01,000] to this electron positron story
+- [00:50:01,000 - 00:50:03,000] and superpartners as an illustration
+- [00:50:03,000 - 00:50:05,000] I said there wasn't enough
+- [00:50:05,000 - 00:50:07,000] energy or at least it had better
+- [00:50:07,000 - 00:50:09,000] be that the superpartners
+- [00:50:09,000 - 00:50:11,000] are heavy enough that current
+- [00:50:11,000 - 00:50:13,000] experiments have not had enough energy
+- [00:50:13,000 - 00:50:15,000] to create them
+- [00:50:15,000 - 00:50:17,000] but you might expect you might
+- [00:50:17,000 - 00:50:19,000] ask are there some possibly indirect
+- [00:50:19,000 - 00:50:21,000] evidences the kind of indirect
+- [00:50:21,000 - 00:50:23,000] evidence might be something like this
+- [00:50:23,000 - 00:50:25,000] here's a Feynman diagram
+- [00:50:25,000 - 00:50:27,000] with a
+- [00:50:27,000 - 00:50:29,000] here's electron
+- [00:50:29,000 - 00:50:31,000] positron collide
+- [00:50:31,000 - 00:50:33,000] create
+- [00:50:33,000 - 00:50:35,000] I don't know how to draw the
+- [00:50:35,000 - 00:50:37,000] superpartners let's just draw the superpartners
+- [00:50:37,000 - 00:50:39,000] with dotted lines
+- [00:50:41,000 - 00:50:43,000] but there really isn't enough
+- [00:50:43,000 - 00:50:45,000] energy to create the
+- [00:50:45,000 - 00:50:47,000] superpartners so they have to annihilate
+- [00:50:47,000 - 00:50:49,000] again and that means we just
+- [00:50:49,000 - 00:50:51,000] think of this as a
+- [00:50:51,000 - 00:50:53,000] virtual process
+- [00:50:53,000 - 00:50:55,000] which violates energy conservation
+- [00:50:55,000 - 00:50:57,000] a little bit for a short time
+- [00:50:57,000 - 00:50:59,000] now you might ask well
+- [00:50:59,000 - 00:51:01,000] doesn't this diagram modify
+- [00:51:01,000 - 00:51:03,000] slightly what the other
+- [00:51:03,000 - 00:51:05,000] electron positron
+- [00:51:05,000 - 00:51:07,000] process is like
+- [00:51:07,000 - 00:51:09,000] and can't you detect that difference
+- [00:51:09,000 - 00:51:11,000] so it becomes a question of high
+- [00:51:11,000 - 00:51:13,000] precision
+- [00:51:13,000 - 00:51:15,000] what's called high precision electro
+- [00:51:15,000 - 00:51:17,000] weak or high precision
+- [00:51:17,000 - 00:51:19,000] phenomenology
+- [00:51:19,000 - 00:51:21,000] of the particle
+- [00:51:21,000 - 00:51:23,000] physics where you don't actually
+- [00:51:23,000 - 00:51:25,000] look for the particles but you look
+- [00:51:25,000 - 00:51:27,000] in very high precision experiments
+- [00:51:27,000 - 00:51:29,000] that are already done
+- [00:51:29,000 - 00:51:31,000] you look for evidence
+- [00:51:31,000 - 00:51:33,000] of this kind of thing
+- [00:51:33,000 - 00:51:35,000] well what I can tell you is
+- [00:51:35,000 - 00:51:37,000] to some extent
+- [00:51:37,000 - 00:51:39,000] the answer is that these high
+- [00:51:39,000 - 00:51:41,000] precision experiments do constrain
+- [00:51:41,000 - 00:51:43,000] things and they really are
+- [00:51:43,000 - 00:51:45,000] pushing you to the edge of the parameter
+- [00:51:45,000 - 00:51:47,000] space
+- [00:51:47,000 - 00:51:49,000] in other words it's getting a little
+- [00:51:49,000 - 00:51:51,000] dicey as to whether
+- [00:51:51,000 - 00:51:53,000] you can really fit supersymmetric
+- [00:51:53,000 - 00:51:55,000] particles
+- [00:51:55,000 - 00:51:57,000] into the theory it's still
+- [00:51:57,000 - 00:51:59,000] by no means
+- [00:51:59,000 - 00:52:01,000] ruled out by no means ruled
+- [00:52:01,000 - 00:52:03,000] out by these high precision electro weak
+- [00:52:03,000 - 00:52:05,000] experiments but it's a very good
+- [00:52:05,000 - 00:52:07,000] question
+- [00:52:07,000 - 00:52:09,000] I think the answer
+- [00:52:09,000 - 00:52:11,000] is if we would have
+- [00:52:11,000 - 00:52:13,000] an electron positron
+- [00:52:13,000 - 00:52:15,000] collider
+- [00:52:15,000 - 00:52:17,000] with
+- [00:52:17,000 - 00:52:19,000] at you know
+- [00:52:19,000 - 00:52:21,000] oh I don't know energy of maybe
+- [00:52:21,000 - 00:52:23,000] I'm not sure about
+- [00:52:23,000 - 00:52:25,000] my numbers here but a few times larger
+- [00:52:25,000 - 00:52:27,000] than slack
+- [00:52:27,000 - 00:52:29,000] we might be able to do very high precision
+- [00:52:29,000 - 00:52:31,000] experiments and rule out
+- [00:52:31,000 - 00:52:33,000] supersymmetry on the basis of high precision
+- [00:52:33,000 - 00:52:35,000] experiments we don't
+- [00:52:35,000 - 00:52:37,000] have so why an electron positron
+- [00:52:37,000 - 00:52:39,000] collider incidentally why is that better
+- [00:52:39,000 - 00:52:41,000] for high precision and the answer
+- [00:52:41,000 - 00:52:43,000] is electrons and positrons
+- [00:52:43,000 - 00:52:45,000] what do you collide
+- [00:52:45,000 - 00:52:47,000] at the large hadron collider
+- [00:52:47,000 - 00:52:49,000] hadrons
+- [00:52:49,000 - 00:52:51,000] protons basically
+- [00:52:51,000 - 00:52:53,000] protons are a mess
+- [00:52:53,000 - 00:52:55,000] they consist of several quarks and what you're
+- [00:52:55,000 - 00:52:57,000] really trying to do is collide quarks together
+- [00:52:57,000 - 00:52:59,000] and
+- [00:52:59,000 - 00:53:01,000] it's a mess
+- [00:53:01,000 - 00:53:03,000] it's a much more messy thing than
+- [00:53:03,000 - 00:53:05,000] two elementary particles colliding
+- [00:53:05,000 - 00:53:07,000] together like an electron and positron
+- [00:53:07,000 - 00:53:09,000] so an electron positron collider
+- [00:53:09,000 - 00:53:11,000] is a much better machine for
+- [00:53:11,000 - 00:53:13,000] high precision if we had
+- [00:53:13,000 - 00:53:15,000] such a machine now at
+- [00:53:15,000 - 00:53:17,000] oh I don't know
+- [00:53:17,000 - 00:53:19,000] 1 gev or something like that
+- [00:53:19,000 - 00:53:21,000] we could probably do business with a high precision
+- [00:53:21,000 - 00:53:23,000] end of it but we don't
+- [00:53:23,000 - 00:53:25,000] what we have you know like Donald Rumsfeld
+- [00:53:25,000 - 00:53:27,000] said we go with the machine that we have
+- [00:53:27,000 - 00:53:29,000] and
+- [00:53:29,000 - 00:53:31,000] laughter
+- [00:53:31,000 - 00:53:32,000] you know it's the things that we
+- [00:53:32,000 - 00:53:33,000] don't know if we don't know it
+- [00:53:33,000 - 00:53:35,000] right knowns
+- [00:53:35,000 - 00:53:37,000] known knowns and the unknown knowns
+- [00:53:37,000 - 00:53:39,000] laughter
+- [00:53:39,000 - 00:53:41,000] laughter
+- [00:53:41,000 - 00:53:43,000] if the probability of the
+- [00:53:43,000 - 00:53:45,000] process
+- [00:53:45,000 - 00:53:47,000] electron positron annihilating
+- [00:53:47,000 - 00:53:49,000] and then creating two super particles
+- [00:53:49,000 - 00:53:51,000] is a little bit different from
+- [00:53:51,000 - 00:53:53,000] the other way
+- [00:53:53,000 - 00:53:55,000] wouldn't it make sense
+- [00:53:55,000 - 00:53:57,000] the other way being what
+- [00:53:57,000 - 00:53:59,000] two super particles colliding and creating
+- [00:53:59,000 - 00:54:00,000] well we have to get the super
+- [00:54:00,000 - 00:54:01,000] particles before we can do the experiment
+- [00:54:01,000 - 00:54:03,000] that's what I'm getting to if there was a universe
+- [00:54:03,000 - 00:54:05,000] where you had a lot of super particles
+- [00:54:05,000 - 00:54:07,000] they would go down wouldn't they
+- [00:54:07,000 - 00:54:09,000] yeah
+- [00:54:09,000 - 00:54:11,000] because it wants to be in a lower
+- [00:54:11,000 - 00:54:13,000] energy state yeah
+- [00:54:13,000 - 00:54:15,000] these super particles are not expected to be
+- [00:54:15,000 - 00:54:17,000] stable they're expected to be rather
+- [00:54:17,000 - 00:54:19,000] unstable they will decay
+- [00:54:19,000 - 00:54:21,000] to known things fairly
+- [00:54:21,000 - 00:54:23,000] quickly so the likelihood
+- [00:54:23,000 - 00:54:25,000] that there's remnant
+- [00:54:25,000 - 00:54:27,000] super partners of the electron
+- [00:54:27,000 - 00:54:29,000] floating around in space
+- [00:54:29,000 - 00:54:31,000] not likely they will have decayed
+- [00:54:31,000 - 00:54:33,000] long ago
+- [00:54:33,000 - 00:54:35,000] so I think the answer
+- [00:54:35,000 - 00:54:37,000] is that
+- [00:54:37,000 - 00:54:39,000] there's good reason to believe that there are no
+- [00:54:39,000 - 00:54:41,000] freely floating around
+- [00:54:41,000 - 00:54:43,000] you'd have to make them somehow
+- [00:54:43,000 - 00:54:45,000] how do you make them by having
+- [00:54:45,000 - 00:54:47,000] enough energy to make them to overcome
+- [00:54:47,000 - 00:54:49,000] their mass
+- [00:54:49,000 - 00:54:51,000] and that's what we're trying to do
+- [00:54:51,000 - 00:54:53,000] I thought the super partners
+- [00:54:53,000 - 00:54:55,000] were one of the candidates for the dark matter
+- [00:54:55,000 - 00:54:57,000] oh
+- [00:54:57,000 - 00:54:59,000] so that seems
+- [00:54:59,000 - 00:55:01,000] at odds with what you just said
+- [00:55:01,000 - 00:55:03,000] it is
+- [00:55:03,000 - 00:55:05,000] possible that one
+- [00:55:05,000 - 00:55:07,000] super partner might
+- [00:55:07,000 - 00:55:09,000] be stable
+- [00:55:09,000 - 00:55:11,000] the reason one because
+- [00:55:13,000 - 00:55:15,000] they have to decay to something
+- [00:55:15,000 - 00:55:17,000] alright
+- [00:55:17,000 - 00:55:19,000] in many theories they have to decay
+- [00:55:19,000 - 00:55:21,000] to something which is still a super partner
+- [00:55:21,000 - 00:55:23,000] you can't get rid of all super partners
+- [00:55:23,000 - 00:55:25,000] so yes but those super partners
+- [00:55:25,000 - 00:55:27,000] might and very likely would be
+- [00:55:27,000 - 00:55:29,000] electrically neutral the reason
+- [00:55:29,000 - 00:55:31,000] is because any kind of electric charge
+- [00:55:31,000 - 00:55:33,000] is likely to make them even
+- [00:55:33,000 - 00:55:35,000] heavier so it's quite likely
+- [00:55:35,000 - 00:55:37,000] that whatever
+- [00:55:37,000 - 00:55:39,000] the stable super partner
+- [00:55:39,000 - 00:55:41,000] is called the lightest super partner
+- [00:55:41,000 - 00:55:43,000] the LSP the lightest super partner
+- [00:55:43,000 - 00:55:45,000] the lightest super partner very likely
+- [00:55:45,000 - 00:55:47,000] is electrically uncharged
+- [00:55:47,000 - 00:55:49,000] that doesn't mean it's undetectable
+- [00:55:49,000 - 00:55:51,000] you would detect it in the laboratory
+- [00:55:51,000 - 00:55:53,000] but it wouldn't be this thing
+- [00:55:53,000 - 00:55:55,000] here
+- [00:55:55,000 - 00:55:57,000] the lightest super partner may well be stable
+- [00:55:57,000 - 00:55:59,000] it may well be
+- [00:55:59,000 - 00:56:01,000] the dark energy
+- [00:56:01,000 - 00:56:03,000] but most likely there would only be one
+- [00:56:03,000 - 00:56:05,000] of them which would be stable
+- [00:56:05,000 - 00:56:07,000] so all the remnant particles in the universe
+- [00:56:07,000 - 00:56:09,000] that were super partners would just
+- [00:56:09,000 - 00:56:11,000] decay to that one
+- [00:56:11,000 - 00:56:13,000] and that one if it were not electrically
+- [00:56:13,000 - 00:56:15,000] charged would not be so easy to detect
+- [00:56:15,000 - 00:56:17,000] but you would
+- [00:56:17,000 - 00:56:19,000] but in principle yes
+- [00:56:19,000 - 00:56:21,000] you would detect it
+- [00:56:23,000 - 00:56:25,000] How do you know that
+- [00:56:25,000 - 00:56:27,000] it's not the coupling constant that's keeping you
+- [00:56:27,000 - 00:56:29,000] from seeing these things
+- [00:56:29,000 - 00:56:31,000] maybe they have a different coupling constant
+- [00:56:31,000 - 00:56:32,000] no no no one of the
+- [00:56:32,000 - 00:56:33,000] things which is very very important
+- [00:56:33,000 - 00:56:35,000] ok so that's an interesting question
+- [00:56:35,000 - 00:56:37,000] um
+- [00:56:37,000 - 00:56:39,000] let's draw some diagrams let's take
+- [00:56:39,000 - 00:56:41,000] two
+- [00:56:41,000 - 00:56:43,000] Feynman diagrams
+- [00:56:43,000 - 00:56:45,000] I'll do it for the vacuum energy
+- [00:56:45,000 - 00:56:47,000] but we could also do it in principle
+- [00:56:47,000 - 00:56:49,000] for
+- [00:56:49,000 - 00:56:51,000] oh no let's do it
+- [00:56:51,000 - 00:56:53,000] yeah let's do it for the vacuum energy
+- [00:56:53,000 - 00:56:55,000] here's two Feynman diagrams
+- [00:56:55,000 - 00:56:57,000] one of them
+- [00:56:57,000 - 00:56:59,000] involving
+- [00:56:59,000 - 00:57:01,000] the electron going in a loop
+- [00:57:01,000 - 00:57:03,000] and the other involving
+- [00:57:03,000 - 00:57:05,000] the super partner of the electron
+- [00:57:05,000 - 00:57:07,000] going in a loop they will have opposite sign
+- [00:57:07,000 - 00:57:09,000] and they will cancel each other
+- [00:57:09,000 - 00:57:11,000] if they're well matched
+- [00:57:11,000 - 00:57:13,000] ok if they're well matched
+- [00:57:13,000 - 00:57:15,000] if they're matched enough in mass
+- [00:57:15,000 - 00:57:17,000] now let's draw another Feynman diagram
+- [00:57:17,000 - 00:57:19,000] in which a photon goes here
+- [00:57:19,000 - 00:57:21,000] and a photon goes here
+- [00:57:21,000 - 00:57:23,000] will they match and
+- [00:57:23,000 - 00:57:25,000] will they cancel each other yes
+- [00:57:25,000 - 00:57:27,000] they will still cancel each other but
+- [00:57:27,000 - 00:57:29,000] only if the electric charge of the electron
+- [00:57:29,000 - 00:57:31,000] and the electric charge of the super partner
+- [00:57:31,000 - 00:57:33,000] are equal
+- [00:57:33,000 - 00:57:35,000] otherwise there will be a discrepancy
+- [00:57:35,000 - 00:57:37,000] between these two
+- [00:57:37,000 - 00:57:39,000] numerical discrepancy between them
+- [00:57:39,000 - 00:57:41,000] which would lead again to
+- [00:57:41,000 - 00:57:43,000] a big divergent answer
+- [00:57:43,000 - 00:57:45,000] so it's important in these arguments
+- [00:57:45,000 - 00:57:47,000] that you follow
+- [00:57:47,000 - 00:57:49,000] through at every level
+- [00:57:49,000 - 00:57:51,000] and make sure that the cancellation takes place
+- [00:57:51,000 - 00:57:53,000] and that typically requires
+- [00:57:53,000 - 00:57:55,000] the electric charge of the partners
+- [00:57:55,000 - 00:57:56,000] to be the same as
+- [00:57:56,000 - 00:57:57,000] the electric charge of the particles
+- [00:57:57,000 - 00:57:59,000] so yeah
+- [00:57:59,000 - 00:58:01,000] um
+- [00:58:01,000 - 00:58:03,000] what is the partner of the photon
+- [00:58:03,000 - 00:58:05,000] with what it's got mass
+- [00:58:05,000 - 00:58:07,000] the real partner of the photon has mass
+- [00:58:09,000 - 00:58:11,000] now how
+- [00:58:11,000 - 00:58:13,000] hmm
+- [00:58:13,000 - 00:58:15,000] this is what I'm telling you
+- [00:58:15,000 - 00:58:17,000] we do not have a
+- [00:58:17,000 - 00:58:19,000] collection of particles which have the same
+- [00:58:19,000 - 00:58:21,000] mass as the known particles
+- [00:58:21,000 - 00:58:23,000] we don't so supersymmetry
+- [00:58:23,000 - 00:58:25,000] is not a precise thing
+- [00:58:25,000 - 00:58:27,000] at best it's an approximation
+- [00:58:27,000 - 00:58:29,000] it's an approximation
+- [00:58:29,000 - 00:58:31,000] in which in the exact supersymmetric
+- [00:58:31,000 - 00:58:33,000] theory if it existed
+- [00:58:33,000 - 00:58:35,000] the super partner of the photon
+- [00:58:35,000 - 00:58:37,000] would be massless
+- [00:58:37,000 - 00:58:39,000] it's not
+- [00:58:39,000 - 00:58:41,000] these particles have names incidentally
+- [00:58:41,000 - 00:58:43,000] typically if you have a
+- [00:58:43,000 - 00:58:45,000] if an ordinary particle is a boson
+- [00:58:45,000 - 00:58:47,000] then the super partner is an eno
+- [00:58:47,000 - 00:58:49,000] for example
+- [00:58:49,000 - 00:58:51,000] the photon partner would be a fotino
+- [00:58:51,000 - 00:58:53,000] the w boson
+- [00:58:53,000 - 00:58:55,000] its partner would be a wino
+- [00:58:55,000 - 00:58:57,000] or a we-no
+- [00:58:57,000 - 00:58:59,000] the z particle
+- [00:58:59,000 - 00:59:01,000] would be a zeno I suppose
+- [00:59:01,000 - 00:59:03,000] and um
+- [00:59:03,000 - 00:59:05,000] for the super partners of the bosons
+- [00:59:05,000 - 00:59:07,000] they're typically scalar particles
+- [00:59:07,000 - 00:59:08,000] and so you put an
+- [00:59:08,000 - 00:59:09,000] s in front of their name
+- [00:59:09,000 - 00:59:11,000] so that leads to disgusting names
+- [00:59:11,000 - 00:59:13,000] like the selectron
+- [00:59:13,000 - 00:59:15,000] which is you know not nice
+- [00:59:15,000 - 00:59:17,000] the super partners have
+- [00:59:17,000 - 00:59:19,000] peculiar names
+- [00:59:19,000 - 00:59:21,000] uh
+- [00:59:21,000 - 00:59:23,000] the gravitino would be a
+- [00:59:23,000 - 00:59:25,000] fermionic version of the graviton
+- [00:59:25,000 - 00:59:27,000] uh
+- [00:59:27,000 - 00:59:29,000] what are the names
+- [00:59:29,000 - 00:59:31,000] what are the peculiar names are there
+- [00:59:31,000 - 00:59:33,000] there's a hexeno which would be a fermionic
+- [00:59:33,000 - 00:59:35,000] version of the higgs particle
+- [00:59:35,000 - 00:59:37,000] enos are always fermions
+- [00:59:37,000 - 00:59:39,000] uh
+- [00:59:39,000 - 00:59:41,000] except when they're
+- [00:59:41,000 - 00:59:43,000] ordinary fermions then they're not enos
+- [00:59:43,000 - 00:59:45,000] they're just electrons quarks
+- [00:59:45,000 - 00:59:47,000] what would you
+- [00:59:47,000 - 00:59:49,000] expect the bosonic partner
+- [00:59:49,000 - 00:59:51,000] of a boson to be
+- [00:59:51,000 - 00:59:53,000] a squark
+- [00:59:53,000 - 00:59:55,000] a squark
+- [00:59:55,000 - 00:59:57,000] a squark
+- [00:59:57,000 - 00:59:59,000] a squark
+- [00:59:59,000 - 01:00:01,000] yeah
+- [01:00:01,000 - 01:00:03,000] so there are squarks and enos
+- [01:00:03,000 - 01:00:05,000] of all kinds
+- [01:00:05,000 - 01:00:07,000] and none have ever been detected yet
+- [01:00:07,000 - 01:00:09,000] I think they're going to be detected
+- [01:00:09,000 - 01:00:11,000] my guess is that this is going to work
+- [01:00:11,000 - 01:00:13,000] but I don't know we'll find out
+- [01:00:13,000 - 01:00:15,000] I'm just guessing
+- [01:00:15,000 - 01:00:17,000] let's talk about one last thing before we go home
+- [01:00:17,000 - 01:00:19,000] now
+- [01:00:19,000 - 01:00:21,000] how is the spin
+- [01:00:21,000 - 01:00:23,000] of the ordinary particle
+- [01:00:23,000 - 01:00:25,000] related to the super particles
+- [01:00:25,000 - 01:00:27,000] okay
+- [01:00:27,000 - 01:00:29,000] the
+- [01:00:29,000 - 01:00:31,000] super particles
+- [01:00:31,000 - 01:00:33,000] if the ordinary
+- [01:00:33,000 - 01:00:35,000] particles are bosons
+- [01:00:35,000 - 01:00:37,000] then the super particles are always fermions
+- [01:00:37,000 - 01:00:39,000] so if the
+- [01:00:39,000 - 01:00:41,000] ordinary particle is a
+- [01:00:41,000 - 01:00:43,000] boson then typically the super
+- [01:00:43,000 - 01:00:45,000] partner is a half spin
+- [01:00:45,000 - 01:00:47,000] and that's true whether it be a
+- [01:00:47,000 - 01:00:49,000] whether the original particle is a scalar
+- [01:00:49,000 - 01:00:51,000] or a gauge boson
+- [01:00:51,000 - 01:00:53,000] the partner is a half spin
+- [01:00:53,000 - 01:00:55,000] particle
+- [01:00:55,000 - 01:00:57,000] if the ordinary particle is a half spin
+- [01:00:57,000 - 01:00:59,000] particle then typically the partner
+- [01:00:59,000 - 01:01:01,000] of it is a
+- [01:01:01,000 - 01:01:03,000] scalar particle which means no spin
+- [01:01:03,000 - 01:01:05,000] but it's always this interplay
+- [01:01:05,000 - 01:01:07,000] they always differ by half a unit
+- [01:01:07,000 - 01:01:09,000] of spin
+- [01:01:09,000 - 01:01:11,000] so if the ordinary particle is half spin
+- [01:01:11,000 - 01:01:13,000] the usual the super
+- [01:01:13,000 - 01:01:15,000] partner would be spin zero
+- [01:01:15,000 - 01:01:17,000] if the ordinary particle is spin zero
+- [01:01:17,000 - 01:01:19,000] like the Higgs boson
+- [01:01:19,000 - 01:01:21,000] then the corresponding fermion
+- [01:01:21,000 - 01:01:23,000] would be a half spin
+- [01:01:23,000 - 01:01:25,000] so they always differ by a half unit
+- [01:01:25,000 - 01:01:27,000] yeah
+- [01:01:27,000 - 01:01:29,000] would these new scalar particles be
+- [01:01:29,000 - 01:01:31,000] subject to
+- [01:01:31,000 - 01:01:33,000] which would what
+- [01:01:33,000 - 01:01:35,000] if they were new scalar super partners
+- [01:01:35,000 - 01:01:37,000] would they be subject
+- [01:01:37,000 - 01:01:39,000] to spontaneous symmetry breaking
+- [01:01:39,000 - 01:01:41,000] in principle the answer
+- [01:01:41,000 - 01:01:43,000] could be yes
+- [01:01:43,000 - 01:01:45,000] in fact that would be a very bad idea
+- [01:01:45,000 - 01:01:47,000] yeah
+- [01:01:47,000 - 01:01:49,000] so that must not happen
+- [01:01:49,000 - 01:01:51,000] uh
+- [01:01:51,000 - 01:01:53,000] right so
+- [01:01:53,000 - 01:01:55,000] let me repeat the question
+- [01:01:55,000 - 01:01:57,000] the question is if there are all these additional scalar
+- [01:01:57,000 - 01:01:59,000] particles around that means scalar
+- [01:01:59,000 - 01:02:01,000] fields and scalar fields are things
+- [01:02:01,000 - 01:02:03,000] which we've seen can have the spontaneous symmetry
+- [01:02:03,000 - 01:02:05,000] breaking phenomena
+- [01:02:05,000 - 01:02:07,000] could we tolerate having an
+- [01:02:07,000 - 01:02:09,000] additional some other spontaneous
+- [01:02:09,000 - 01:02:11,000] symmetry break down no we couldn't
+- [01:02:11,000 - 01:02:13,000] that would be a bad thing to happen
+- [01:02:13,000 - 01:02:15,000] so that
+- [01:02:15,000 - 01:02:17,000] that would not be good
+- [01:02:17,000 - 01:02:19,000] so the fermion then would be
+- [01:02:19,000 - 01:02:21,000] the super partner of the Higgs
+- [01:02:21,000 - 01:02:23,000] the Higgsino
+- [01:02:23,000 - 01:02:25,000] yeah would that have any special properties
+- [01:02:25,000 - 01:02:27,000] well I suppose
+- [01:02:27,000 - 01:02:29,000] it has all kinds of special properties
+- [01:02:29,000 - 01:02:31,000] but nothing I mean you know to an
+- [01:02:31,000 - 01:02:33,000] experimental particle physicist I'm sure we could
+- [01:02:33,000 - 01:02:35,000] conjure up all sorts of special properties
+- [01:02:35,000 - 01:02:37,000] but nothing
+- [01:02:37,000 - 01:02:39,000] hmm
+- [01:02:39,000 - 01:02:41,000] well
+- [01:02:41,000 - 01:02:43,000] remember the fourth power
+- [01:02:43,000 - 01:02:45,000] is simply another way of talking about a Feynman
+- [01:02:45,000 - 01:02:47,000] diagram where two particles come in and two particles
+- [01:02:47,000 - 01:02:49,000] go out so there will be
+- [01:02:49,000 - 01:02:51,000] matching interactions one of the
+- [01:02:51,000 - 01:02:53,000] things that has to match are the
+- [01:02:53,000 - 01:02:55,000] interactions of the particles which we haven't talked about
+- [01:02:55,000 - 01:02:57,000] at all yet
+- [01:02:57,000 - 01:02:59,000] so there will be matching
+- [01:02:59,000 - 01:03:01,000] phenomena to take the place of the
+- [01:03:01,000 - 01:03:03,000] five fourth terms yeah but it won't
+- [01:03:03,000 - 01:03:05,000] be exactly what you think but
+- [01:03:05,000 - 01:03:07,000] related yeah
+- [01:03:07,000 - 01:03:09,000] the
+- [01:03:09,000 - 01:03:11,000] theorem about the rotations
+- [01:03:11,000 - 01:03:13,000] does it hold
+- [01:03:13,000 - 01:03:15,000] in higher or lower dimensions
+- [01:03:15,000 - 01:03:17,000] basically
+- [01:03:17,000 - 01:03:19,000] wait say that again
+- [01:03:19,000 - 01:03:21,000] the theorem that says that the rotation
+- [01:03:21,000 - 01:03:23,000] two pi rotations
+- [01:03:23,000 - 01:03:25,000] oh you're asking whether there are higher
+- [01:03:25,000 - 01:03:27,000] and lower dimensional versions of it
+- [01:03:27,000 - 01:03:29,000] yeah there are
+- [01:03:29,000 - 01:03:31,000] uh
+- [01:03:33,000 - 01:03:35,000] the answer is yes
+- [01:03:35,000 - 01:03:37,000] there are
+- [01:03:37,000 - 01:03:39,000] it's an odd even
+- [01:03:39,000 - 01:03:41,000] dimension business peculiar
+- [01:03:41,000 - 01:03:43,000] discrepancy between
+- [01:03:43,000 - 01:03:45,000] odd and even dimensions whether there
+- [01:03:45,000 - 01:03:47,000] is or is not
+- [01:03:47,000 - 01:03:49,000] an analog to that
+- [01:03:49,000 - 01:03:51,000] there can be
+- [01:03:51,000 - 01:03:53,000] analogs to it
+- [01:03:53,000 - 01:03:55,000] because it seems easily in two dimensions
+- [01:03:55,000 - 01:03:57,000] it wouldn't happen right in two dimensions
+- [01:03:57,000 - 01:03:59,000] in two dimensions it doesn't happen
+- [01:03:59,000 - 01:04:01,000] right
+- [01:04:01,000 - 01:04:03,000] uh in two dimensions
+- [01:04:03,000 - 01:04:05,000] there are things which are in between
+- [01:04:05,000 - 01:04:07,000] fermions and bosons
+- [01:04:07,000 - 01:04:09,000] they're called anyons
+- [01:04:09,000 - 01:04:11,000] any meaning any value of the spin
+- [01:04:11,000 - 01:04:13,000] so in two dimensions
+- [01:04:13,000 - 01:04:15,000] two spatial dimensions
+- [01:04:15,000 - 01:04:17,000] there's uh there's a generalization
+- [01:04:17,000 - 01:04:19,000] to any spin
+- [01:04:19,000 - 01:04:21,000] called anyons
+- [01:04:21,000 - 01:04:23,000] and they happen in condensed matter physics
+- [01:04:23,000 - 01:04:25,000] uh excitations in certain
+- [01:04:25,000 - 01:04:27,000] condensed matter systems
+- [01:04:27,000 - 01:04:29,000] have basically arbitrary spin
+- [01:04:29,000 - 01:04:31,000] um
+- [01:04:31,000 - 01:04:33,000] but this is not for us to
+- [01:04:33,000 - 01:04:35,000] to discuss now
+- [01:04:35,000 - 01:04:37,000] uh
+- [01:04:37,000 - 01:04:39,000] okay i was going to talk about one more thing
+- [01:04:39,000 - 01:04:41,000] um
+- [01:04:41,000 - 01:04:43,000] just about
+- [01:04:43,000 - 01:04:45,000] whether we
+- [01:04:45,000 - 01:04:47,000] what would the world be like
+- [01:04:47,000 - 01:04:49,000] if it were exactly supersymmetric
+- [01:04:49,000 - 01:04:51,000] interesting question supposing it was
+- [01:04:51,000 - 01:04:53,000] exactly supersymmetric
+- [01:04:53,000 - 01:04:55,000] how different would the world be
+- [01:04:55,000 - 01:04:57,000] how different would we be
+- [01:04:57,000 - 01:04:59,000] how different would biology be
+- [01:04:59,000 - 01:05:01,000] how different would chemistry be
+- [01:05:01,000 - 01:05:03,000] and the answer is very different
+- [01:05:03,000 - 01:05:05,000] so let me just show you
+- [01:05:05,000 - 01:05:07,000] why it is not
+- [01:05:07,000 - 01:05:09,000] possible certainly we
+- [01:05:09,000 - 01:05:11,000] don't live in a supersymmetric world
+- [01:05:11,000 - 01:05:13,000] supersymmetric meaning exact
+- [01:05:13,000 - 01:05:15,000] degeneracy exact
+- [01:05:15,000 - 01:05:17,000] equivalence between the masses of the particles
+- [01:05:17,000 - 01:05:19,000] and the superpartners we do not live in
+- [01:05:19,000 - 01:05:21,000] such a world could we live in such
+- [01:05:21,000 - 01:05:23,000] a world would such a world
+- [01:05:23,000 - 01:05:25,000] be one in which
+- [01:05:25,000 - 01:05:27,000] ordinary chemistry
+- [01:05:27,000 - 01:05:29,000] would exist for example
+- [01:05:29,000 - 01:05:31,000] biology anything else that we are familiar
+- [01:05:31,000 - 01:05:33,000] with
+- [01:05:33,000 - 01:05:35,000] i think not
+- [01:05:35,000 - 01:05:37,000] and let me show you what would happen to chemistry
+- [01:05:37,000 - 01:05:39,000] among other things
+- [01:05:39,000 - 01:05:41,000] atoms of course
+- [01:05:41,000 - 01:05:43,000] have electrons
+- [01:05:43,000 - 01:05:45,000] if there was a superpartner
+- [01:05:45,000 - 01:05:47,000] to the electron
+- [01:05:47,000 - 01:05:49,000] it would be a boson right
+- [01:05:49,000 - 01:05:51,000] it would be a boson
+- [01:05:51,000 - 01:05:53,000] it would have exactly the same
+- [01:05:53,000 - 01:05:55,000] mass and charge of the electron
+- [01:05:55,000 - 01:05:57,000] if we lived in such a supersymmetric world
+- [01:05:57,000 - 01:05:59,000] there would also be
+- [01:05:59,000 - 01:06:01,000] a partner to the photon
+- [01:06:01,000 - 01:06:03,000] we would call it the photino
+- [01:06:03,000 - 01:06:05,000] and because the photon is massless
+- [01:06:05,000 - 01:06:07,000] the photino would also have to be
+- [01:06:07,000 - 01:06:09,000] exactly massless
+- [01:06:09,000 - 01:06:10,000] so let me show you
+- [01:06:10,000 - 01:06:11,000] what would happen to an atom
+- [01:06:11,000 - 01:06:13,000] not a
+- [01:06:13,000 - 01:06:15,000] hydrogen or a helium atom but let's
+- [01:06:15,000 - 01:06:17,000] start with some atom
+- [01:06:17,000 - 01:06:19,000] with three electrons
+- [01:06:19,000 - 01:06:21,000] or four electrons or five electrons
+- [01:06:21,000 - 01:06:23,000] in a hydrogen atom of course
+- [01:06:23,000 - 01:06:25,000] the
+- [01:06:25,000 - 01:06:27,000] single electron moving in it
+- [01:06:27,000 - 01:06:29,000] moves in the lowest orbit in the lowest borer orbit
+- [01:06:29,000 - 01:06:31,000] in helium
+- [01:06:31,000 - 01:06:33,000] we have two electrons
+- [01:06:33,000 - 01:06:35,000] also both moving
+- [01:06:35,000 - 01:06:37,000] in the lowest borer orbit
+- [01:06:37,000 - 01:06:39,000] so both hydrogen and helium
+- [01:06:39,000 - 01:06:41,000] the electrons all move
+- [01:06:41,000 - 01:06:43,000] in the lowest orbit
+- [01:06:43,000 - 01:06:45,000] in the stable form of these elements
+- [01:06:45,000 - 01:06:47,000] let's go next to lithium
+- [01:06:47,000 - 01:06:49,000] lithium has an extra electron
+- [01:06:49,000 - 01:06:51,000] and the extra electron
+- [01:06:51,000 - 01:06:53,000] is in the next orbit out
+- [01:06:53,000 - 01:06:55,000] because of the
+- [01:06:55,000 - 01:06:57,000] what's the principle which says that the lithium atom
+- [01:06:57,000 - 01:06:59,000] can't have three electrons in the same orbit
+- [01:06:59,000 - 01:07:01,000] Pauli exclusion principle
+- [01:07:01,000 - 01:07:02,000] Pauli exclusion principle is more than enough to
+- [01:07:02,000 - 01:07:03,000] make a electron move in the same orbit
+- [01:07:03,000 - 01:07:05,000] it's most definitely associated with the fact
+- [01:07:05,000 - 01:07:07,000] that the electrons are fermions
+- [01:07:07,000 - 01:07:09,000] now
+- [01:07:09,000 - 01:07:11,000] what would happen to this outer electron
+- [01:07:11,000 - 01:07:13,000] remember the outer electron
+- [01:07:13,000 - 01:07:15,000] has more energy
+- [01:07:15,000 - 01:07:17,000] than the inner electrons
+- [01:07:17,000 - 01:07:19,000] it wants to go down to the
+- [01:07:19,000 - 01:07:21,000] lowest level but it can't get in there
+- [01:07:21,000 - 01:07:23,000] because it's being blocked
+- [01:07:23,000 - 01:07:25,000] by the other ones and it just doesn't want
+- [01:07:25,000 - 01:07:27,000] to allow another electron
+- [01:07:27,000 - 01:07:29,000] in there by the Pauli exclusion principle
+- [01:07:29,000 - 01:07:31,000] how could the
+- [01:07:31,000 - 01:07:33,000] how would it incidentally how
+- [01:07:33,000 - 01:07:35,000] would it get down to the lowest level
+- [01:07:35,000 - 01:07:36,000] it would get down to the
+- [01:07:36,000 - 01:07:37,000] lowest level by emitting a photon
+- [01:07:37,000 - 01:07:39,000] which would carry off some energy
+- [01:07:39,000 - 01:07:41,000] and the electron drop down
+- [01:07:41,000 - 01:07:43,000] to the lower level
+- [01:07:43,000 - 01:07:45,000] but it's blocked it can't happen
+- [01:07:45,000 - 01:07:47,000] now
+- [01:07:47,000 - 01:07:49,000] imagine there was also a photino
+- [01:07:49,000 - 01:07:51,000] which was also massless
+- [01:07:51,000 - 01:07:53,000] what could happen to this electron
+- [01:07:53,000 - 01:07:55,000] not what would happen
+- [01:07:55,000 - 01:07:57,000] sorry the electron
+- [01:07:57,000 - 01:07:59,000] moving around
+- [01:07:59,000 - 01:08:01,000] would emit a photino
+- [01:08:01,000 - 01:08:03,000] not a photon a massless photino
+- [01:08:03,000 - 01:08:05,000] of exactly the same
+- [01:08:05,000 - 01:08:07,000] properties or similar properties
+- [01:08:07,000 - 01:08:09,000] to a photon and then what would it become
+- [01:08:09,000 - 01:08:11,000] a selectron
+- [01:08:11,000 - 01:08:13,000] a selectron
+- [01:08:13,000 - 01:08:15,000] it has to change this is a fermion
+- [01:08:15,000 - 01:08:17,000] here's a fermion
+- [01:08:17,000 - 01:08:19,000] and a fermion gets projected out
+- [01:08:19,000 - 01:08:21,000] what has to be left over
+- [01:08:21,000 - 01:08:23,000] a boson
+- [01:08:23,000 - 01:08:25,000] right if a fermion
+- [01:08:25,000 - 01:08:27,000] comes in and emits a fermion
+- [01:08:27,000 - 01:08:28,000] it has to become a boson
+- [01:08:28,000 - 01:08:29,000] but what would that boson be
+- [01:08:29,000 - 01:08:31,000] it would be the super partner
+- [01:08:31,000 - 01:08:33,000] of the electron which is called
+- [01:08:33,000 - 01:08:35,000] the selectron
+- [01:08:35,000 - 01:08:37,000] now the selectron is a boson
+- [01:08:37,000 - 01:08:39,000] it has no trouble getting into the lowest orbit
+- [01:08:39,000 - 01:08:41,000] so it drops down to the lowest orbit
+- [01:08:41,000 - 01:08:43,000] and you would not have a lithium atom
+- [01:08:43,000 - 01:08:45,000] you would have a
+- [01:08:45,000 - 01:08:47,000] slithium atom
+- [01:08:47,000 - 01:08:49,000] or something
+- [01:08:49,000 - 01:08:51,000] where
+- [01:08:51,000 - 01:08:53,000] but the main thing is
+- [01:08:53,000 - 01:08:55,000] that the electron would be replaced
+- [01:08:55,000 - 01:08:57,000] by something that drops down to the lowest
+- [01:08:57,000 - 01:08:59,000] borer orbit
+- [01:08:59,000 - 01:09:01,000] now think about a big atom
+- [01:09:01,000 - 01:09:03,000] chemistry what does chemistry do to
+- [01:09:03,000 - 01:09:05,000] the physics of the valence electrons
+- [01:09:05,000 - 01:09:07,000] valence electrons
+- [01:09:07,000 - 01:09:09,000] what would happen to the valence electrons
+- [01:09:09,000 - 01:09:11,000] in a big atom
+- [01:09:11,000 - 01:09:13,000] they would all
+- [01:09:13,000 - 01:09:15,000] just drop down
+- [01:09:15,000 - 01:09:17,000] by the same mechanism they would all
+- [01:09:17,000 - 01:09:19,000] drop down to the lowest energy orbit
+- [01:09:19,000 - 01:09:21,000] and
+- [01:09:21,000 - 01:09:23,000] all crowd in on the lowest
+- [01:09:23,000 - 01:09:24,000] energy orbit to the extent
+- [01:09:24,000 - 01:09:25,000] that they can get in there
+- [01:09:25,000 - 01:09:27,000] they would not be blocked by
+- [01:09:27,000 - 01:09:29,000] Fermi statistics and so they would
+- [01:09:29,000 - 01:09:31,000] all sit in the lowest energy they could
+- [01:09:31,000 - 01:09:33,000] get into
+- [01:09:33,000 - 01:09:34,000] and so what kind of thing
+- [01:09:34,000 - 01:09:35,000] would you have at the center here
+- [01:09:35,000 - 01:09:37,000] at the center you would have a
+- [01:09:37,000 - 01:09:39,000] bosa condensation of
+- [01:09:39,000 - 01:09:41,000] selectrons
+- [01:09:41,000 - 01:09:43,000] rather than an atom with valence electrons
+- [01:09:43,000 - 01:09:45,000] you would have an entirely different thing
+- [01:09:45,000 - 01:09:47,000] now I don't know what the world would be like
+- [01:09:47,000 - 01:09:49,000] I just know whatever it would be like
+- [01:09:49,000 - 01:09:51,000] it would not have conventional chemistry
+- [01:09:51,000 - 01:09:53,000] it would have nothing like conventional chemistry
+- [01:09:53,000 - 01:09:55,000] whether
+- [01:09:55,000 - 01:09:57,000] you can
+- [01:09:57,000 - 01:09:59,000] use such atoms as
+- [01:09:59,000 - 01:10:01,000] tinker toys to create molecules
+- [01:10:01,000 - 01:10:03,000] and so forth I rather doubt
+- [01:10:03,000 - 01:10:05,000] they're all going to be crowded in
+- [01:10:05,000 - 01:10:07,000] at the
+- [01:10:07,000 - 01:10:09,000] small distances near the nucleus
+- [01:10:09,000 - 01:10:11,000] I rather doubt that there's
+- [01:10:11,000 - 01:10:13,000] anything resembling ordinary
+- [01:10:13,000 - 01:10:15,000] chemistry of molecules and so forth
+- [01:10:15,000 - 01:10:17,000] but I don't think anybody's ever worked this out
+- [01:10:17,000 - 01:10:19,000] incidentally what the world would be like
+- [01:10:19,000 - 01:10:21,000] in such a super symmetric but it would not
+- [01:10:21,000 - 01:10:23,000] resemble our world
+- [01:10:23,000 - 01:10:25,000] so the selectron would limit
+- [01:10:25,000 - 01:10:27,000] would emit a
+- [01:10:27,000 - 01:10:29,000] a fotino
+- [01:10:29,000 - 01:10:31,000] the electron would emit
+- [01:10:31,000 - 01:10:33,000] if there was an electron
+- [01:10:33,000 - 01:10:34,000] if there was in other
+- [01:10:34,000 - 01:10:35,000] words if we started with something
+- [01:10:35,000 - 01:10:37,000] that looked awfully much like a
+- [01:10:37,000 - 01:10:39,000] lithium atom
+- [01:10:39,000 - 01:10:41,000] it would very quickly become a slithium atom
+- [01:10:41,000 - 01:10:43,000] with a fotino traveling out
+- [01:10:43,000 - 01:10:45,000] wouldn't there be a coupling constant
+- [01:10:45,000 - 01:10:47,000] associated with that
+- [01:10:47,000 - 01:10:49,000] yeah but yes yes
+- [01:10:49,000 - 01:10:51,000] so it could be hard to do
+- [01:10:51,000 - 01:10:53,000] it could be what
+- [01:10:53,000 - 01:10:55,000] yeah but we know what that coupling constant is
+- [01:10:55,000 - 01:10:57,000] it's the electric charge
+- [01:10:57,000 - 01:10:59,000] so we know it's not hard to compute
+- [01:10:59,000 - 01:11:01,000] what would be
+- [01:11:01,000 - 01:11:03,000] the lifetime of a lithium atom
+- [01:11:03,000 - 01:11:05,000] if the electron could drop down
+- [01:11:05,000 - 01:11:07,000] it would be short
+- [01:11:07,000 - 01:11:09,000] it would be just a
+- [01:11:09,000 - 01:11:11,000] microsecond or something
+- [01:11:11,000 - 01:11:13,000] so one can calculate
+- [01:11:13,000 - 01:11:15,000] and these would not be terribly small numbers
+- [01:11:15,000 - 01:11:17,000] they would not be terrible
+- [01:11:17,000 - 01:11:18,000] so no you're not going to
+- [01:11:18,000 - 01:11:19,000] get away from it that way
+- [01:11:19,000 - 01:11:21,000] so it's an interesting fact
+- [01:11:21,000 - 01:11:23,000] that
+- [01:11:23,000 - 01:11:25,000] why isn't the world super symmetric
+- [01:11:25,000 - 01:11:27,000] I don't know
+- [01:11:27,000 - 01:11:29,000] but I know that
+- [01:11:29,000 - 01:11:31,000] at least I couldn't be here if it were
+- [01:11:31,000 - 01:11:33,000] so it's
+- [01:11:33,000 - 01:11:35,000] so let's assume that
+- [01:11:35,000 - 01:11:37,000] if there are super symmetric particles
+- [01:11:37,000 - 01:11:39,000] then the symmetry is
+- [01:11:39,000 - 01:11:41,000] reasonably badly broken
+- [01:11:41,000 - 01:11:43,000] and so we have a big mass separation
+- [01:11:43,000 - 01:11:45,000] well okay
+- [01:11:45,000 - 01:11:47,000] now the question is what's big and what's small
+- [01:11:47,000 - 01:11:49,000] what are we comparing with
+- [01:11:49,000 - 01:11:51,000] now if we compare with the mass of the proton
+- [01:11:51,000 - 01:11:53,000] it's big
+- [01:11:53,000 - 01:11:55,000] if we compare with the unification scale
+- [01:11:55,000 - 01:11:57,000] or the Planck scale
+- [01:11:57,000 - 01:11:59,000] it's terribly tiny
+- [01:11:59,000 - 01:12:01,000] so the question is
+- [01:12:01,000 - 01:12:03,000] what do we think the
+- [01:12:03,000 - 01:12:05,000] reason for this broken symmetry is
+- [01:12:05,000 - 01:12:07,000] in other words how come we're here
+- [01:12:09,000 - 01:12:11,000] well one possible answer is
+- [01:12:11,000 - 01:12:12,000] if the symmetry weren't broken we
+- [01:12:12,000 - 01:12:13,000] wouldn't be here to ask it
+- [01:12:13,000 - 01:12:15,000] right
+- [01:12:15,000 - 01:12:17,000] right
+- [01:12:17,000 - 01:12:19,000] I think that's the best answer we have
+- [01:12:19,000 - 01:12:21,000] are they clear
+- [01:12:21,000 - 01:12:23,000] yeah they're clear
+- [01:12:23,000 - 01:12:25,000] on the other hand it's not very hard to break
+- [01:12:25,000 - 01:12:27,000] these symmetries
+- [01:12:27,000 - 01:12:29,000] it's not very mathematically terribly hard to break them
+- [01:12:29,000 - 01:12:31,000] it's rather generic
+- [01:12:31,000 - 01:12:33,000] but not that generic
+- [01:12:33,000 - 01:12:35,000] there certainly are completely super symmetric theories
+- [01:12:35,000 - 01:12:37,000] they're the ones we understand best incidentally
+- [01:12:37,000 - 01:12:39,000] the mathematical theories
+- [01:12:39,000 - 01:12:41,000] I'm not because of these
+- [01:12:41,000 - 01:12:43,000] weak interaction issues
+- [01:12:43,000 - 01:12:45,000] just as a mathematical fact
+- [01:12:45,000 - 01:12:47,000] the quantum field theories
+- [01:12:47,000 - 01:12:49,000] that are best understood
+- [01:12:49,000 - 01:12:51,000] are the super symmetric ones
+- [01:12:51,000 - 01:12:53,000] they have so much special structure to them
+- [01:12:53,000 - 01:12:55,000] that they often can be almost exactly solved
+- [01:12:55,000 - 01:12:57,000] much more is known about them
+- [01:12:57,000 - 01:12:59,000] than the others
+- [01:12:59,000 - 01:13:01,000] they have all sorts of fabulous
+- [01:13:01,000 - 01:13:03,000] and fascinating theories
+- [01:13:03,000 - 01:13:05,000] that have a very special
+- [01:13:05,000 - 01:13:07,000] structure to them
+- [01:13:07,000 - 01:13:09,000] yeah
+- [01:13:09,000 - 01:13:11,000] okay
+- [01:13:11,000 - 01:13:13,000] next week
+- [01:13:13,000 - 01:13:15,000] more on supersymmetry
+- [01:13:15,000 - 01:13:17,000] we'll have supersymmetry until you're sick of it
+- [01:13:17,000 - 01:13:19,000] for more please visit us at
+- [01:13:19,000 - 01:13:20,947] stanford.edu
