@@ -1,0 +1,2348 @@
+# Transcript
+
+Source: supplementary/string_theory/2010_fall_string_theory_and_m_theory/097 - Lecture 3 ｜ String Theory and M-Theory [gCyImLu0HSI].webm
+
+- [00:00:00,000 - 00:00:07,000] Stanford University.
+- [00:00:07,000 - 00:00:11,500] I have gotten into a pattern and I like the
+- [00:00:11,500 - 00:00:16,000] pattern of first starting a lecture with a couple of preliminaries.
+- [00:00:16,000 - 00:00:20,000] Sometimes they're reminders, sometimes they're new things.
+- [00:00:20,000 - 00:00:24,500] By now, I've taught so many things so many
+- [00:00:24,500 - 00:00:29,000] times that although I may remember that they're reminders,
+- [00:00:29,000 - 00:00:33,000] you may think they're new things.
+- [00:00:33,000 - 00:00:37,000] But, well, I suppose one of the things we
+- [00:00:37,000 - 00:00:41,000] ought to go over really quickly, really, really quickly,
+- [00:00:41,000 - 00:00:43,500] is the harmonic oscillator, and
+- [00:00:43,500 - 00:00:46,000] I will do that exceedingly fast.
+- [00:00:46,000 - 00:00:49,500] But the other thing I wanted to go over
+- [00:00:49,500 - 00:00:53,000] before we begin is the spin of massless particles.
+- [00:00:53,000 - 00:00:55,500] The spin of massless particles is
+- [00:00:55,500 - 00:00:58,000] a little bit different in some ways
+- [00:00:58,000 - 00:00:59,000] than the spin of massless particles.
+- [00:00:59,000 - 00:01:02,500] The basic difference is that massless
+- [00:01:02,500 - 00:01:06,000] particles can never be brought to rest.
+- [00:01:06,000 - 00:01:08,500] They move with the speed of light, and if you
+- [00:01:08,500 - 00:01:11,000] slow them down, they still move with the speed of light,
+- [00:01:11,000 - 00:01:12,500] and if you slow them down more,
+- [00:01:12,500 - 00:01:14,000] they still move with the speed of light.
+- [00:01:14,000 - 00:01:17,000] Whereas particles with mass, you can truly
+- [00:01:17,000 - 00:01:20,000] slow down and bring them to rest,
+- [00:01:20,000 - 00:01:22,000] and that makes a difference
+- [00:01:22,000 - 00:01:24,000] in certain properties about spin.
+- [00:01:24,000 - 00:01:25,000] What shall we do first?
+- [00:01:25,000 - 00:01:27,000] Spin or...
+- [00:01:27,000 - 00:01:27,500] Well, let's do harmonic oscillator first
+- [00:01:27,500 - 00:01:28,000] to get it out of the way.
+- [00:01:28,000 - 00:01:32,000] Very quickly.
+- [00:01:32,000 - 00:01:33,000] You know it all.
+- [00:01:33,000 - 00:01:36,000] I'm just going to, just to set
+- [00:01:36,000 - 00:01:39,000] the notation, mostly to get the notation consistent.
+- [00:01:39,000 - 00:01:41,000] I'll just go over it with you again.
+- [00:01:41,000 - 00:01:47,000] The energy, or the Lagrangian of
+- [00:01:47,000 - 00:01:53,000] a harmonic oscillator, is x dot squared.
+- [00:01:53,000 - 00:01:57,000] And then, for reasons that...
+- [00:01:57,000 - 00:02:00,500] If you go back in your notes about
+- [00:02:00,500 - 00:02:04,000] the harmonic oscillators that describe the oscillations of strings,
+- [00:02:04,000 - 00:02:07,500] first of all, they had a little
+- [00:02:07,500 - 00:02:11,000] index n, which had to do with...
+- [00:02:11,000 - 00:02:13,000] Remember, there were cosines.
+- [00:02:13,000 - 00:02:14,000] Cosine n sigma.
+- [00:02:14,000 - 00:02:16,000] It was the n of that cosine.
+- [00:02:16,000 - 00:02:19,000] How many oscillations...
+- [00:02:19,000 - 00:02:22,500] How many oscillations over the interval
+- [00:02:22,500 - 00:02:26,000] from 0 to pi the string makes.
+- [00:02:26,000 - 00:02:27,000] So there are...
+- [00:02:27,000 - 00:02:29,500] Those x sub n's are the
+- [00:02:29,500 - 00:02:32,000] coordinates describing various kinds of oscillations.
+- [00:02:32,000 - 00:02:35,500] That was there, and for reasons
+- [00:02:35,500 - 00:02:39,000] that have no special depth to them,
+- [00:02:39,000 - 00:02:42,000] it turned out there was
+- [00:02:42,000 - 00:02:45,000] a 4 in the denominator here.
+- [00:02:45,000 - 00:02:50,000] That was the kinetic energy, and then the potential energy.
+- [00:02:50,000 - 00:02:51,500] If I want to write the
+- [00:02:51,500 - 00:02:53,000] energy, I put a plus sign there.
+- [00:02:53,000 - 00:02:56,000] The potential energy was proportional to x squared.
+- [00:02:56,000 - 00:02:58,000] Same thing.
+- [00:02:58,000 - 00:03:00,000] x sub n squared.
+- [00:03:00,000 - 00:03:02,000] It looks like we've...
+- [00:03:02,000 - 00:03:11,000] Somebody didn't do their...
+- [00:03:11,000 - 00:03:17,000] It was x sub n squared, divided also by 4.
+- [00:03:17,000 - 00:03:19,500] And then, sitting in front, is the
+- [00:03:19,500 - 00:03:22,000] square of the frequency of the oscillator.
+- [00:03:22,000 - 00:03:25,000] And that was actually just n squared.
+- [00:03:25,000 - 00:03:28,500] That's what we got for the
+- [00:03:28,500 - 00:03:32,000] energy of the nth mode of oscillation.
+- [00:03:32,000 - 00:03:34,000] x dot squared.
+- [00:03:34,000 - 00:03:36,000] And it's a harmonic oscillator.
+- [00:03:36,000 - 00:03:38,000] Kinetic energy plus potential energy.
+- [00:03:38,000 - 00:03:39,000] That's the Lagrangian.
+- [00:03:39,000 - 00:03:40,000] That's the energy.
+- [00:03:40,000 - 00:03:42,000] Call it E.
+- [00:03:42,000 - 00:03:49,000] The Lagrangian is x dot n squared.
+- [00:03:49,000 - 00:03:53,000] You know, I'm going to stop writing n.
+- [00:03:53,000 - 00:03:54,000] But remember.
+- [00:03:54,000 - 00:03:56,000] I'm talking about x sub n.
+- [00:03:56,000 - 00:03:59,000] There's x dot squared minus
+- [00:03:59,000 - 00:04:02,000] n squared x squared over 4.
+- [00:04:02,000 - 00:04:04,000] That's Lagrangian.
+- [00:04:04,000 - 00:04:07,000] From this, you can work out Lagrange's equations of motion.
+- [00:04:07,000 - 00:04:09,500] And you can discover that
+- [00:04:09,500 - 00:04:12,000] the oscillator oscillates with frequency n.
+- [00:04:12,000 - 00:04:14,000] Okay?
+- [00:04:14,000 - 00:04:17,000] Let's next go to the Hamiltonian.
+- [00:04:17,000 - 00:04:18,000] We want to do quantum mechanics.
+- [00:04:18,000 - 00:04:20,500] The way to go to quantum
+- [00:04:20,500 - 00:04:23,000] mechanics is to first construct the Hamiltonian.
+- [00:04:23,000 - 00:04:25,000] And then do some tricks with it.
+- [00:04:25,000 - 00:04:27,000] Let's first construct the Hamiltonian.
+- [00:04:27,000 - 00:04:28,000] I'll remind you.
+- [00:04:28,000 - 00:04:29,000] Oops.
+- [00:04:29,000 - 00:04:30,000] This is over 4.
+- [00:04:30,000 - 00:04:31,000] Somebody should have corrected me.
+- [00:04:31,000 - 00:04:33,000] You all fail.
+- [00:04:33,000 - 00:04:35,000] x dot squared over 4.
+- [00:04:35,000 - 00:04:36,000] Okay.
+- [00:04:36,000 - 00:04:37,000] So what do you do?
+- [00:04:37,000 - 00:04:38,000] The first thing you do.
+- [00:04:38,000 - 00:04:41,000] What's the first step in constructing Hamiltonians?
+- [00:04:41,000 - 00:04:45,000] The first step is to replace
+- [00:04:45,000 - 00:04:49,000] the x dots by the momenta.
+- [00:04:49,000 - 00:04:51,000] The momenta p.
+- [00:04:51,000 - 00:04:54,000] So if you remember, the derivative of a Lagrangian
+- [00:04:54,000 - 00:04:57,000] with respect to the velocity is called the momentum.
+- [00:04:57,000 - 00:05:01,500] So in this case, with this particular factor of 4
+- [00:05:01,500 - 00:05:06,000] here, the momentum would be x dot divided by 2.
+- [00:05:06,000 - 00:05:07,000] Why?
+- [00:05:07,000 - 00:05:08,000] Because when I differentiate with respect
+- [00:05:08,000 - 00:05:09,000] to x dot, I get a 2.
+- [00:05:09,000 - 00:05:11,000] That cancels a 2 in the
+- [00:05:11,000 - 00:05:13,000] denominator and leaves a 2 there.
+- [00:05:13,000 - 00:05:15,000] That's the first step.
+- [00:05:15,000 - 00:05:19,000] Next step is you rewrite the energy.
+- [00:05:19,000 - 00:05:25,000] In terms of instead of x dots, you use p's.
+- [00:05:25,000 - 00:05:27,500] So we just have to solve for
+- [00:05:27,500 - 00:05:30,000] x dot and plug it in here.
+- [00:05:30,000 - 00:05:32,000] What does that give us?
+- [00:05:32,000 - 00:05:34,000] That gives us, let's see, x dot squared
+- [00:05:34,000 - 00:05:36,000] will be 4 p squared divided by 4.
+- [00:05:36,000 - 00:05:41,000] So this will be p squared with no 4.
+- [00:05:41,000 - 00:05:45,000] And then potential energy doesn't change.
+- [00:05:45,000 - 00:05:48,000] Plus n squared.
+- [00:05:48,000 - 00:05:53,000] And then n squared, x squared over 4.
+- [00:05:53,000 - 00:05:59,000] And that we now call the Hamiltonian, H.
+- [00:05:59,000 - 00:06:05,000] The quantum mechanical Hamiltonian is exactly the same.
+- [00:06:05,000 - 00:06:08,000] Except that it becomes an operator.
+- [00:06:08,000 - 00:06:11,000] An operator in the space of states.
+- [00:06:11,000 - 00:06:13,000] Okay, now the trick is
+- [00:06:13,000 - 00:06:15,000] always the same for harmonic oscillators.
+- [00:06:15,000 - 00:06:17,000] Let's just erase all of this.
+- [00:06:17,000 - 00:06:21,000] This could have been our starting point right here.
+- [00:06:21,000 - 00:06:23,000] You look at this, it's the sum of squares.
+- [00:06:23,000 - 00:06:26,000] A squared plus b squared.
+- [00:06:26,000 - 00:06:28,000] You write that a squared plus b squared,
+- [00:06:28,000 - 00:06:31,000] a squared minus b squared is what?
+- [00:06:31,000 - 00:06:33,000] It's a plus b times a minus b.
+- [00:06:33,000 - 00:06:38,000] How about a squared plus b squared?
+- [00:06:38,000 - 00:06:45,000] That's a plus ib times a minus ib.
+- [00:06:45,000 - 00:06:46,000] Work it out.
+- [00:06:46,000 - 00:06:48,000] You get an a squared.
+- [00:06:48,000 - 00:06:51,000] Minus i times plus i is plus.
+- [00:06:51,000 - 00:06:53,000] So you get plus b squared.
+- [00:06:53,000 - 00:06:55,000] And the cross term goes away.
+- [00:06:55,000 - 00:06:58,000] So you look at this, it's the sum of squares.
+- [00:06:58,000 - 00:06:59,000] And you rewrite it.
+- [00:06:59,000 - 00:07:01,000] It's the sum of squares in,
+- [00:07:01,000 - 00:07:03,000] what is this term a square of?
+- [00:07:03,000 - 00:07:06,000] This term is a square of nx over 2.
+- [00:07:06,000 - 00:07:07,000] Right?
+- [00:07:07,000 - 00:07:10,500] Alright, so we write that this is
+- [00:07:10,500 - 00:07:14,000] nx over 2 plus ip times nx.
+- [00:07:14,000 - 00:07:15,000] Right?
+- [00:07:15,000 - 00:07:20,000] nx over 2 minus ip.
+- [00:07:20,000 - 00:07:22,000] That's the Hamiltonian.
+- [00:07:22,000 - 00:07:23,000] Okay?
+- [00:07:23,000 - 00:07:25,000] Next step.
+- [00:07:25,000 - 00:07:29,000] You give these two things names, but not quite.
+- [00:07:29,000 - 00:07:33,000] First, let's think about the
+- [00:07:33,000 - 00:07:37,000] commutation relations between these two.
+- [00:07:37,000 - 00:07:39,500] Of course, one of these is essentially
+- [00:07:39,500 - 00:07:42,000] the creation operator or the raising operator.
+- [00:07:42,000 - 00:07:45,000] The other one is essentially the lowering operator.
+- [00:07:45,000 - 00:07:48,500] But we have to figure out which is which and the
+- [00:07:48,500 - 00:07:52,000] numerical coefficients in order to make them creation and annihilation operators.
+- [00:07:52,000 - 00:07:56,000] I'll just put over here for your, to remind you.
+- [00:07:56,000 - 00:08:00,000] The commutation relations between annihilation operators, let's call
+- [00:08:00,000 - 00:08:04,000] them a minus and creation operators a plus.
+- [00:08:04,000 - 00:08:06,000] A plus when it acts
+- [00:08:06,000 - 00:08:08,000] raises the energy by one unit.
+- [00:08:08,000 - 00:08:13,000] A minus lowers the energy by one unit.
+- [00:08:13,000 - 00:08:16,000] This commutation relation is just one.
+- [00:08:16,000 - 00:08:18,500] So that's how we
+- [00:08:18,500 - 00:08:21,000] identify creation and annihilation operators.
+- [00:08:21,000 - 00:08:22,500] They're operators which are
+- [00:08:22,500 - 00:08:24,000] complex conjugates of each other.
+- [00:08:24,000 - 00:08:27,000] These two are complex conjugates of each other.
+- [00:08:27,000 - 00:08:29,000] And their commutation relation is one.
+- [00:08:29,000 - 00:08:35,000] So let's work out the commutation relations between these.
+- [00:08:35,000 - 00:08:37,000] And just check if we get one.
+- [00:08:37,000 - 00:08:39,000] We won't get one.
+- [00:08:39,000 - 00:08:40,000] Alright?
+- [00:08:40,000 - 00:08:42,000] What's the commutation relation between x and p?
+- [00:08:42,000 - 00:08:48,000] Do you remember the commutator between x and p?
+- [00:08:48,000 - 00:08:50,000] Anybody remember?
+- [00:08:50,000 - 00:08:53,000] I'm setting h bar to one.
+- [00:08:53,000 - 00:08:56,000] What else besides h bar?
+- [00:08:56,000 - 00:08:59,000] I.
+- [00:08:59,000 - 00:09:02,000] Go back and try to remember why that's true.
+- [00:09:02,000 - 00:09:05,000] xp minus px is i.
+- [00:09:05,000 - 00:09:08,000] Alright, now here we have x.
+- [00:09:08,000 - 00:09:11,000] We have a commutator of n over 2.
+- [00:09:11,000 - 00:09:15,000] A minus i times the commutator of x and p.
+- [00:09:15,000 - 00:09:17,000] So let's first...
+- [00:09:17,000 - 00:09:19,000] Oh, first of all, what about
+- [00:09:19,000 - 00:09:21,000] the commutator between this and this?
+- [00:09:21,000 - 00:09:25,000] That's zero because anything commutes with itself.
+- [00:09:25,000 - 00:09:27,000] Likewise, p with p.
+- [00:09:27,000 - 00:09:30,000] The only terms are the cross terms
+- [00:09:30,000 - 00:09:33,000] x with p and p with x.
+- [00:09:33,000 - 00:09:34,000] Alright, so if we just
+- [00:09:34,000 - 00:09:35,000] look at the first term here,
+- [00:09:35,000 - 00:09:39,000] or the cross term here,
+- [00:09:39,000 - 00:09:43,000] that will give us n over 2.
+- [00:09:43,000 - 00:09:46,000] It'll give us a minus i from here.
+- [00:09:46,000 - 00:09:48,500] But then the commutator of
+- [00:09:48,500 - 00:09:51,000] x with p is plus i.
+- [00:09:51,000 - 00:09:54,000] So that gets multiplied by plus i.
+- [00:09:54,000 - 00:09:58,000] All together makes it just n over 2.
+- [00:09:58,000 - 00:09:59,000] So far.
+- [00:09:59,000 - 00:10:03,000] That's the commutator of this guy with that one.
+- [00:10:03,000 - 00:10:05,000] How about this one with this one?
+- [00:10:05,000 - 00:10:08,000] Again, I see an n over 2.
+- [00:10:08,000 - 00:10:10,000] I see an i.
+- [00:10:10,000 - 00:10:11,500] But now I have the p's
+- [00:10:11,500 - 00:10:13,000] and the x's in the opposite order.
+- [00:10:13,000 - 00:10:16,000] The result is exactly the same thing.
+- [00:10:16,000 - 00:10:18,000] Just double it.
+- [00:10:18,000 - 00:10:20,500] So this one and this
+- [00:10:20,500 - 00:10:23,000] one give you the same thing.
+- [00:10:23,000 - 00:10:24,000] It just doubles.
+- [00:10:24,000 - 00:10:27,000] All of this just gives us n.
+- [00:10:27,000 - 00:10:30,000] Now, I wanted to get 1.
+- [00:10:30,000 - 00:10:32,000] But I got n.
+- [00:10:32,000 - 00:10:34,000] What do I do with it?
+- [00:10:34,000 - 00:10:37,000] I just divide both equations,
+- [00:10:37,000 - 00:10:41,000] both of these operators by the square root of n.
+- [00:10:41,000 - 00:10:43,500] In other words, let's divide each of
+- [00:10:43,500 - 00:10:46,000] these by the square root of n.
+- [00:10:46,000 - 00:10:48,000] Likewise over here.
+- [00:10:48,000 - 00:10:50,000] 1 over the square root of n.
+- [00:10:50,000 - 00:10:55,000] And that now eats up this n here.
+- [00:10:55,000 - 00:10:56,500] And that's the way to remember
+- [00:10:56,500 - 00:10:58,000] it if you're on a desert island
+- [00:10:58,000 - 00:11:03,000] and you can't remember what combination of x's and p's
+- [00:11:03,000 - 00:11:06,000] are creation and annihilation operators.
+- [00:11:06,000 - 00:11:09,000] Compared with over here,
+- [00:11:09,000 - 00:11:10,000] this is n.
+- [00:11:10,000 - 00:11:12,000] This is 1 now.
+- [00:11:12,000 - 00:11:14,500] If I had my
+- [00:11:14,500 - 00:11:17,000] creation and annihilation operators interchanged,
+- [00:11:17,000 - 00:11:19,000] I would get minus 1.
+- [00:11:19,000 - 00:11:25,000] So we then identify the annihilation operator, a minus,
+- [00:11:25,000 - 00:11:27,000] is 1 over the square root of n.
+- [00:11:27,000 - 00:11:32,000] That means square root of n x over 2
+- [00:11:32,000 - 00:11:35,000] plus i over the square root of n p.
+- [00:11:36,000 - 00:11:43,000] And the creation operator is the same thing
+- [00:11:43,000 - 00:11:45,000] except with a minus sign.
+- [00:11:49,000 - 00:11:52,000] I just do that to remind you.
+- [00:11:52,000 - 00:11:56,000] There are creation and annihilation operators.
+- [00:11:56,000 - 00:12:00,000] The creation operators increase the energy by 1 unit.
+- [00:12:00,000 - 00:12:01,500] And when I say 1
+- [00:12:01,500 - 00:12:03,000] unit, I now mean 1 unit.
+- [00:12:03,000 - 00:12:06,000] The frequency of this oscillator is n.
+- [00:12:06,000 - 00:12:07,000] Oops.
+- [00:12:07,000 - 00:12:08,000] n units.
+- [00:12:08,000 - 00:12:09,000] Little n units.
+- [00:12:09,000 - 00:12:10,000] Which n?
+- [00:12:10,000 - 00:12:13,000] Well, it depends on which xn I'm talking about.
+- [00:12:13,000 - 00:12:16,000] We can now put in, we
+- [00:12:16,000 - 00:12:19,000] can now put back our n's.
+- [00:12:19,000 - 00:12:24,000] There's a creation operator and an annihilation operator
+- [00:12:24,000 - 00:12:27,000] for each oscillation, for each
+- [00:12:27,000 - 00:12:30,000] possible oscillation of the string.
+- [00:12:30,000 - 00:12:33,000] And the frequency is n.
+- [00:12:33,000 - 00:12:35,000] The frequency of the oscillator is n.
+- [00:12:35,000 - 00:12:37,000] The frequency, of course, is
+- [00:12:37,000 - 00:12:39,000] the amount of energy that's added
+- [00:12:39,000 - 00:12:42,000] by exciting the oscillator once.
+- [00:12:42,000 - 00:12:47,000] So we can work out then what the energies are,
+- [00:12:47,000 - 00:12:50,000] what the energy spectrum is,
+- [00:12:50,000 - 00:12:54,000] and do the quantum mechanics of the oscillators.
+- [00:12:54,000 - 00:12:58,000] And that's basically the spectrum of these strings.
+- [00:12:58,000 - 00:13:00,000] Now, we'll come back to it in a minute.
+- [00:13:00,000 - 00:13:01,500] The other thing to remember
+- [00:13:01,500 - 00:13:03,000] that I talked about last time
+- [00:13:03,000 - 00:13:07,000] was if we're talking about strings
+- [00:13:07,000 - 00:13:11,000] in the realistic number of dimensions
+- [00:13:11,000 - 00:13:14,000] of space and time, namely three dimensions of space,
+- [00:13:14,000 - 00:13:19,000] one dimension of time, good old ordinary space,
+- [00:13:19,000 - 00:13:21,500] and we think about the string
+- [00:13:21,500 - 00:13:24,000] moving with a great deal of momentum
+- [00:13:24,000 - 00:13:26,500] down the z-axis, then there are
+- [00:13:26,500 - 00:13:29,000] really only two dimensions of oscillation
+- [00:13:29,000 - 00:13:31,000] to take into account.
+- [00:13:31,000 - 00:13:32,000] Another time, maybe even later today,
+- [00:13:32,000 - 00:13:35,000] I'll talk about the third direction of oscillation
+- [00:13:35,000 - 00:13:37,000] and how it's determined by the others.
+- [00:13:37,000 - 00:13:40,000] But the independent degrees of freedom are the oscillations
+- [00:13:40,000 - 00:13:42,500] in the plane of somebody watching
+- [00:13:42,500 - 00:13:45,000] the string going down the z-axis.
+- [00:13:45,000 - 00:13:50,000] And so how many oscillations are there altogether?
+- [00:13:50,000 - 00:13:56,000] Well, there are oscillations along the x-axis.
+- [00:13:56,000 - 00:13:57,000] That one's z.
+- [00:13:57,000 - 00:13:59,000] Down that direction is z.
+- [00:13:59,000 - 00:14:00,000] All right?
+- [00:14:00,000 - 00:14:01,000] Toward you is x.
+- [00:14:01,000 - 00:14:05,000] Toward the ceiling is y.
+- [00:14:05,000 - 00:14:07,000] The oscillations can occur in the x direction.
+- [00:14:07,000 - 00:14:09,000] They can occur in the y direction.
+- [00:14:09,000 - 00:14:12,000] So that means that there's another term.
+- [00:14:12,000 - 00:14:15,000] I really didn't write the full Hamiltonian here.
+- [00:14:15,000 - 00:14:18,500] I should have written plus another
+- [00:14:18,500 - 00:14:22,000] term where x is interchanged with y,
+- [00:14:22,000 - 00:14:24,000] exactly the same.
+- [00:14:24,000 - 00:14:26,000] That means for each frequency,
+- [00:14:26,000 - 00:14:28,000] there will be two oscillators,
+- [00:14:28,000 - 00:14:31,000] the oscillator for oscillations along the x axis,
+- [00:14:31,000 - 00:14:34,000] and the oscillations along the y axis.
+- [00:14:34,000 - 00:14:35,000] Let's give them names.
+- [00:14:35,000 - 00:14:38,000] Let's call them A for the x
+- [00:14:38,000 - 00:14:41,000] axis and B for the y axis.
+- [00:14:41,000 - 00:14:48,000] Same equations, B minus, B plus equals 1.
+- [00:14:48,000 - 00:14:52,000] And same equations here, except we'll substitute for A.
+- [00:14:52,000 - 00:14:53,000] We'll put B.
+- [00:14:53,000 - 00:14:57,000] And wherever I see x, I will put y.
+- [00:14:57,000 - 00:14:58,000] What about Q?
+- [00:14:58,000 - 00:14:59,000] What about P?
+- [00:14:59,000 - 00:15:00,000] Sorry.
+- [00:15:00,000 - 00:15:03,000] Yeah, this piece of x and piece of y,
+- [00:15:03,000 - 00:15:04,500] the momentum in the x direction
+- [00:15:04,500 - 00:15:06,000] and the momentum in the y direction.
+- [00:15:06,000 - 00:15:09,000] I won't bother writing it down.
+- [00:15:09,000 - 00:15:10,000] All right.
+- [00:15:10,000 - 00:15:13,000] From this equation here, but let us
+- [00:15:13,000 - 00:15:16,000] put in the little symbol n here.
+- [00:15:16,000 - 00:15:20,000] Also goes here.
+- [00:15:20,000 - 00:15:25,000] Let's solve this equation for xn.
+- [00:15:25,000 - 00:15:27,000] Here's two equations.
+- [00:15:27,000 - 00:15:30,000] Let's think of them as two equations for two unknowns.
+- [00:15:30,000 - 00:15:33,000] X and P.
+- [00:15:33,000 - 00:15:35,500] How can I solve this to find out what
+- [00:15:35,500 - 00:15:38,000] x is in terms of the creation and annihilation operators?
+- [00:15:38,000 - 00:15:40,000] This is something we'll use later.
+- [00:15:40,000 - 00:15:43,000] I'm not sure we'll use it tonight or not.
+- [00:15:43,000 - 00:15:45,500] But what I want to write
+- [00:15:45,500 - 00:15:48,000] is the coordinate position of the string
+- [00:15:48,000 - 00:15:52,000] in terms of the creation and annihilation operators.
+- [00:15:52,000 - 00:15:55,000] That will turn out to be quite useful.
+- [00:15:55,000 - 00:15:57,000] So let's do it.
+- [00:15:57,000 - 00:15:59,000] This is easy.
+- [00:15:59,000 - 00:16:01,500] If I want to isolate x,
+- [00:16:01,500 - 00:16:04,000] I want to get rid of P.
+- [00:16:04,000 - 00:16:05,000] That's easy.
+- [00:16:05,000 - 00:16:07,000] Just add these two equations.
+- [00:16:07,000 - 00:16:10,000] This term will cancel.
+- [00:16:10,000 - 00:16:12,000] So what do we get?
+- [00:16:12,000 - 00:16:15,000] We get a plus plus a minus,
+- [00:16:15,000 - 00:16:17,500] and we should put a little
+- [00:16:17,500 - 00:16:20,000] index n here for the nth oscillation.
+- [00:16:20,000 - 00:16:23,000] That's equal to n.
+- [00:16:23,000 - 00:16:26,000] I think it's just n square root of n.
+- [00:16:26,000 - 00:16:27,000] Sorry.
+- [00:16:27,000 - 00:16:28,000] n.
+- [00:16:28,000 - 00:16:33,000] Square root of n times xn.
+- [00:16:37,000 - 00:16:42,000] Square root of n times xn.
+- [00:16:42,000 - 00:16:45,000] Square root.
+- [00:16:45,000 - 00:16:50,000] So we simply find the nth coordinate
+- [00:16:50,000 - 00:16:56,000] is just the sum of creation and annihilation operators
+- [00:16:56,000 - 00:17:00,000] divided by square root of n.
+- [00:17:00,000 - 00:17:02,000] Real easy.
+- [00:17:02,000 - 00:17:03,500] It's just the square root of
+- [00:17:03,500 - 00:17:05,000] n that you've got to remember.
+- [00:17:05,000 - 00:17:12,000] Now let's, before we leave the harmonic oscillator,
+- [00:17:12,000 - 00:17:16,000] let's just remember where these oscillators came from.
+- [00:17:16,000 - 00:17:20,000] They came from writing x of sigma.
+- [00:17:20,000 - 00:17:22,000] Remember what x of sigma was.
+- [00:17:22,000 - 00:17:24,000] Oh, there's another one similar to it.
+- [00:17:24,000 - 00:17:28,500] y sub n is equal to b sub n plus
+- [00:17:28,500 - 00:17:33,000] plus b sub n minus over square root of n.
+- [00:17:33,000 - 00:17:35,000] Same thing.
+- [00:17:35,000 - 00:17:38,000] Incidentally, as I'm sure most
+- [00:17:38,000 - 00:17:41,000] of you have heard the rumor
+- [00:17:41,000 - 00:17:43,000] that string theory doesn't work very well
+- [00:17:43,000 - 00:17:47,000] when there are only three dimensions of space,
+- [00:17:47,000 - 00:17:51,000] and I can confirm that rumor tonight,
+- [00:17:51,000 - 00:17:53,000] we need more dimensions.
+- [00:17:53,000 - 00:17:56,000] To add more dimensions,
+- [00:17:56,000 - 00:18:01,000] we just add more coordinates.
+- [00:18:01,000 - 00:18:03,000] Fortunately, and I'll,
+- [00:18:03,000 - 00:18:05,000] you keep adding coordinates until
+- [00:18:05,000 - 00:18:07,000] you run out of coordinates.
+- [00:18:07,000 - 00:18:09,500] So it's, that's the reason incidentally
+- [00:18:09,500 - 00:18:12,000] that string theory is in 26 dimensions.
+- [00:18:12,000 - 00:18:14,000] The ra-
+- [00:18:23,000 - 00:18:33,000] Actually, actually,
+- [00:18:33,000 - 00:18:35,000] yeah, okay, never mind.
+- [00:18:35,000 - 00:18:37,000] All right.
+- [00:18:37,000 - 00:18:38,000] Remember what x of sigma was.
+- [00:18:38,000 - 00:18:44,000] x of sigma and y of sigma,
+- [00:18:44,000 - 00:18:47,000] we have a string moving around in the xy plane,
+- [00:18:47,000 - 00:18:49,000] looking at it moving down the axis.
+- [00:18:49,000 - 00:18:51,000] It has n's,
+- [00:18:51,000 - 00:18:53,000] and along the string,
+- [00:18:53,000 - 00:18:58,000] we invent a parameter called sigma.
+- [00:18:58,000 - 00:19:01,000] Sigma goes from zero to pi.
+- [00:19:01,000 - 00:19:02,000] All right.
+- [00:19:02,000 - 00:19:04,000] And,
+- [00:19:04,000 - 00:19:07,000] and if we take any point on the string,
+- [00:19:07,000 - 00:19:09,000] it's characterized by a sigma.
+- [00:19:09,000 - 00:19:12,000] It's the sigmath point, if you like.
+- [00:19:12,000 - 00:19:15,000] And it has a particular value of x and y.
+- [00:19:15,000 - 00:19:17,000] Here's the xy axis.
+- [00:19:17,000 - 00:19:19,000] Each point on the string has a definite location.
+- [00:19:19,000 - 00:19:20,000] We call them x of sigma.
+- [00:19:21,000 - 00:19:23,000] And y of sigma.
+- [00:19:23,000 - 00:19:26,500] And we use our freedom
+- [00:19:26,500 - 00:19:30,000] to Fourier expand x and y.
+- [00:19:30,000 - 00:19:32,000] And we find,
+- [00:19:32,000 - 00:19:36,000] or we write that this is the sum over n
+- [00:19:36,000 - 00:19:41,000] of cosine of n sigma
+- [00:19:41,000 - 00:19:44,000] times, let's call it x sub n.
+- [00:19:44,000 - 00:19:45,000] And what is x sub n?
+- [00:19:45,000 - 00:19:49,000] x sub n is simply the Fourier coefficient
+- [00:19:49,000 - 00:19:50,000] of the nth cosine wave.
+- [00:19:50,000 - 00:19:53,000] And the Fourier expansion of x.
+- [00:19:53,000 - 00:19:56,000] And likewise with y.
+- [00:19:56,000 - 00:19:58,000] Why did I use cosines and not sines?
+- [00:19:58,000 - 00:20:01,000] Anybody remember?
+- [00:20:01,000 - 00:20:05,000] The boundary conditions are such
+- [00:20:05,000 - 00:20:07,000] that the derivatives of x
+- [00:20:07,000 - 00:20:09,000] should vanish at the end points.
+- [00:20:09,000 - 00:20:14,000] That's the condition that the force at the ends
+- [00:20:14,000 - 00:20:18,000] not be strong enough to cause infinite acceleration.
+- [00:20:18,000 - 00:20:19,000] But,
+- [00:20:19,000 - 00:20:22,000] this is the right way to expand the x's.
+- [00:20:22,000 - 00:20:26,000] Likewise with the y's.
+- [00:20:26,000 - 00:20:31,000] Summation n, y sub n, cosine n sigma.
+- [00:20:31,000 - 00:20:35,000] And now we can write these coordinates
+- [00:20:35,000 - 00:20:39,000] in terms of creation and annihilation operators.
+- [00:20:39,000 - 00:20:43,000] We can write them as the sum over n
+- [00:20:43,000 - 00:20:47,000] of a plus of n plus a minus of n
+- [00:20:47,000 - 00:20:50,000] over the square root of n
+- [00:20:50,000 - 00:20:53,000] times cosine n sigma.
+- [00:20:53,000 - 00:20:56,000] And the same thing down here with b's.
+- [00:20:56,000 - 00:20:59,000] b sub n, blah blah blah.
+- [00:20:59,000 - 00:21:01,000] Why is that interesting?
+- [00:21:01,000 - 00:21:05,000] Well, the best way to manipulate the quantum mechanics
+- [00:21:05,000 - 00:21:08,000] of harmonic oscillators
+- [00:21:08,000 - 00:21:11,000] is through the creation and annihilation operators.
+- [00:21:11,000 - 00:21:14,000] If you want to find out what a particular operator
+- [00:21:14,000 - 00:21:16,000] does to a quantum state,
+- [00:21:16,000 - 00:21:19,000] you apply the operator.
+- [00:21:19,000 - 00:21:20,500] But if you apply it in
+- [00:21:20,500 - 00:21:22,000] the form of creation and annihilation operators,
+- [00:21:22,000 - 00:21:25,000] you immediately see what it does.
+- [00:21:25,000 - 00:21:27,000] Increases the energy, decreases the energy.
+- [00:21:27,000 - 00:21:29,000] And that, of course, will be very useful.
+- [00:21:29,000 - 00:21:31,000] But for the moment, they're just equations
+- [00:21:31,000 - 00:21:34,000] that I'm writing down on the blackboard.
+- [00:21:34,000 - 00:21:36,000] Because we'll use them.
+- [00:21:36,000 - 00:21:38,000] Okay, I won't go through these again.
+- [00:21:38,000 - 00:21:41,000] So, if there are questions
+- [00:21:41,000 - 00:21:44,000] about them, ask them right now.
+- [00:21:44,000 - 00:21:46,000] But I want you to ask me philosophical questions
+- [00:21:46,000 - 00:21:48,000] about the meaning of life.
+- [00:21:48,000 - 00:21:51,000] The x sub n is a function also of sigma?
+- [00:21:51,000 - 00:21:53,000] No. No, no.
+- [00:21:53,000 - 00:21:56,000] x sub n's are the Fourier series coefficients.
+- [00:21:56,000 - 00:21:59,000] All of the sigma dependence is here.
+- [00:22:00,000 - 00:22:03,000] This is the sigma dependence.
+- [00:22:03,000 - 00:22:06,000] What do the x n's depend on, though?
+- [00:22:06,000 - 00:22:08,000] Time. Time.
+- [00:22:08,000 - 00:22:11,000] There's time in this infinite momentum frame,
+- [00:22:11,000 - 00:22:12,000] which we gave a name to.
+- [00:22:12,000 - 00:22:14,000] We called it tau.
+- [00:22:14,000 - 00:22:20,000] When I write dots, dots always refer to the time
+- [00:22:20,000 - 00:22:22,000] in this non-relativistic analogy,
+- [00:22:22,000 - 00:22:24,000] which I didn't call t because
+- [00:22:24,000 - 00:22:26,000] I didn't want to confuse it
+- [00:22:26,000 - 00:22:28,000] with time in the rest frame.
+- [00:22:28,000 - 00:22:30,000] So I called it the last
+- [00:22:30,000 - 00:22:32,000] time, I believe I called it tau.
+- [00:22:32,000 - 00:22:35,000] That means that every point on the string
+- [00:22:35,000 - 00:22:37,000] is not just a function of sigma.
+- [00:22:37,000 - 00:22:40,000] It is also a function of tau.
+- [00:22:40,000 - 00:22:47,000] It's the x n's which are dependent on tau.
+- [00:22:47,000 - 00:22:49,000] Why are they dependent on tau?
+- [00:22:49,000 - 00:22:51,000] Because they're oscillators.
+- [00:22:51,000 - 00:22:53,000] They oscillate. They vibrate.
+- [00:22:53,000 - 00:22:56,000] The x n's vibrate with oscillations.
+- [00:22:56,000 - 00:22:58,000] They depend on time.
+- [00:22:58,000 - 00:23:01,000] The cosines of sigmas,
+- [00:23:01,000 - 00:23:04,000] those are the ones which depend on sigma.
+- [00:23:04,000 - 00:23:08,000] Okay. Are there any other questions?
+- [00:23:08,000 - 00:23:09,000] Yes.
+- [00:23:09,000 - 00:23:11,000] I have two questions for you.
+- [00:23:11,000 - 00:23:16,000] Aren't those for the creation of the distraction operators,
+- [00:23:16,000 - 00:23:18,000] aren't they reversed?
+- [00:23:18,000 - 00:23:20,000] In other words, you get
+- [00:23:20,000 - 00:23:22,000] subtracting energy from A plus and...
+- [00:23:22,000 - 00:23:25,000] No, you add energy with A plus.
+- [00:23:25,000 - 00:23:27,000] Unless someone was along the line,
+- [00:23:27,000 - 00:23:30,000] I think I got it right.
+- [00:23:30,000 - 00:23:34,000] We could check it out, but...
+- [00:23:34,000 - 00:23:37,000] Why do you think you subtract energy?
+- [00:23:37,000 - 00:23:38,000] Why?
+- [00:23:38,000 - 00:23:40,000] What makes you think so?
+- [00:23:40,000 - 00:23:42,000] Well, I mean, it's a negative.
+- [00:23:42,000 - 00:23:43,000] You're decreasing the value...
+- [00:23:43,000 - 00:23:44,000] Of what?
+- [00:23:44,000 - 00:23:45,000] Of A plus.
+- [00:23:45,000 - 00:23:46,000] Of what?
+- [00:23:46,000 - 00:23:47,000] Of A plus.
+- [00:23:47,000 - 00:23:49,000] How can you see any...
+- [00:23:49,000 - 00:23:50,000] How can you see...
+- [00:23:50,000 - 00:23:52,000] How can you look at that and see which way...
+- [00:23:52,000 - 00:23:53,000] You may be right, but how
+- [00:23:53,000 - 00:23:54,000] can you look at it and see?
+- [00:23:54,000 - 00:23:57,000] I don't think you're right, but I'll check.
+- [00:23:57,000 - 00:24:00,000] We'll check in a minute, but let's see.
+- [00:24:00,000 - 00:24:02,000] I think he's thinking of it as a real number
+- [00:24:02,000 - 00:24:04,000] instead of a complex number.
+- [00:24:04,000 - 00:24:05,000] I don't care if it's a
+- [00:24:05,000 - 00:24:06,000] real number or a complex number.
+- [00:24:06,000 - 00:24:07,000] I still don't see how
+- [00:24:07,000 - 00:24:08,000] you could look at it easily
+- [00:24:08,000 - 00:24:09,000] and see which one raises the energy
+- [00:24:09,000 - 00:24:11,000] and which one lowers the energy.
+- [00:24:11,000 - 00:24:14,000] He's just seeing the minus sign and thinking...
+- [00:24:14,000 - 00:24:17,000] Oh, you're looking at this minus sign.
+- [00:24:17,000 - 00:24:21,000] That doesn't tell you.
+- [00:24:21,000 - 00:24:24,000] You have to go through the quantum mechanics
+- [00:24:24,000 - 00:24:27,000] and you have to check whether the commutation relations
+- [00:24:27,000 - 00:24:30,000] give you a 1 or a minus 1.
+- [00:24:30,000 - 00:24:32,000] And I think I did that.
+- [00:24:32,000 - 00:24:34,000] So, no, this minus sign doesn't tell you anything.
+- [00:24:34,000 - 00:24:36,000] Well, it tells you something, but not...
+- [00:24:36,000 - 00:24:37,000] Not...
+- [00:24:38,000 - 00:24:41,000] Okay.
+- [00:24:41,000 - 00:24:44,000] Next.
+- [00:24:44,000 - 00:24:49,000] And that's purely by way of absolute review.
+- [00:24:49,000 - 00:24:50,000] Now, what may or may...
+- [00:24:50,000 - 00:24:52,000] Oh, oh, oh, oh.
+- [00:24:52,000 - 00:24:53,000] Okay.
+- [00:24:53,000 - 00:24:55,000] So how much energy...
+- [00:24:55,000 - 00:24:56,500] Well, all right, I think I
+- [00:24:56,500 - 00:24:58,000] said what I had to say.
+- [00:25:02,000 - 00:25:05,000] Next question, next preliminary.
+- [00:25:05,000 - 00:25:07,000] The spin of massless...
+- [00:25:08,000 - 00:25:11,000] And massive particles.
+- [00:25:11,000 - 00:25:18,000] How many components or, let's say, states
+- [00:25:18,000 - 00:25:22,000] does a system of spin J have?
+- [00:25:22,000 - 00:25:24,000] Let's start with spin 0.
+- [00:25:24,000 - 00:25:25,000] How many states?
+- [00:25:25,000 - 00:25:26,000] 2J plus 1.
+- [00:25:26,000 - 00:25:29,000] Right, 2J plus 1.
+- [00:25:29,000 - 00:25:34,000] All right, so spin J has 2J plus 1 states.
+- [00:25:34,000 - 00:25:37,000] Spin 0 has 1 state.
+- [00:25:37,000 - 00:25:38,000] Spin 1...
+- [00:25:38,000 - 00:25:43,000] All right, so spin 0, spin.
+- [00:25:43,000 - 00:25:48,000] Okay, spin 0, 1 state.
+- [00:25:48,000 - 00:25:51,000] Spin 1, 3 states.
+- [00:25:51,000 - 00:25:58,000] Spin 2, 5 states, and so forth.
+- [00:25:58,000 - 00:26:02,000] However, massless particles are special.
+- [00:26:02,000 - 00:26:05,000] They don't fall into this category.
+- [00:26:05,000 - 00:26:11,000] A massless spin 0 state only has 1 state.
+- [00:26:11,000 - 00:26:13,500] But a massless spin 1
+- [00:26:13,500 - 00:26:16,000] state has 2 states, not 3.
+- [00:26:16,000 - 00:26:18,500] A massless spin 2 state
+- [00:26:18,500 - 00:26:21,000] system has 2 states, not 5.
+- [00:26:21,000 - 00:26:24,000] A massless spin 3, 2 states.
+- [00:26:24,000 - 00:26:26,500] The only one which is the exceptional sort
+- [00:26:26,500 - 00:26:29,000] of odd man out is the spin 0.
+- [00:26:29,000 - 00:26:31,000] It has only 1 state.
+- [00:26:31,000 - 00:26:34,000] All others have 2 states.
+- [00:26:35,000 - 00:26:38,000] For massless, for massless.
+- [00:26:38,000 - 00:26:40,000] How do we understand that?
+- [00:26:40,000 - 00:26:41,000] How can that be...
+- [00:26:41,000 - 00:26:43,000] The question is how can it be consistent?
+- [00:26:43,000 - 00:26:45,000] How can it be consistent?
+- [00:26:45,000 - 00:26:47,000] I will tell you what the 2 states are.
+- [00:26:47,000 - 00:26:51,500] In every case here, yeah, the particle,
+- [00:26:51,500 - 00:26:56,000] imagine it moving along a certain axis.
+- [00:26:56,000 - 00:26:59,000] For the moment, it could be massless or massive.
+- [00:26:59,000 - 00:27:03,000] And let's suppose it's moving along a certain axis.
+- [00:27:03,000 - 00:27:08,000] Let me consider the component of spin along that axis.
+- [00:27:08,000 - 00:27:10,000] What's the maximum...
+- [00:27:10,000 - 00:27:12,000] Let's forget spin 0 here.
+- [00:27:12,000 - 00:27:13,000] That only has 1 state.
+- [00:27:13,000 - 00:27:16,000] But let's go to spin 1.
+- [00:27:16,000 - 00:27:21,000] What's the maximum spin along any given axis?
+- [00:27:21,000 - 00:27:24,000] Well, the answer is the spins along any
+- [00:27:24,000 - 00:27:27,000] axis can be 1, 0, and minus 1.
+- [00:27:27,000 - 00:27:30,000] How about for spin 2?
+- [00:27:32,000 - 00:27:37,000] 0, minus 1, and minus 2.
+- [00:27:37,000 - 00:27:40,000] In each case, there is always a maximum spin.
+- [00:27:40,000 - 00:27:43,000] In this case, a maximum and a minimum.
+- [00:27:43,000 - 00:27:46,500] Meaning to say, maximum positive and
+- [00:27:46,500 - 00:27:50,000] a minimum which would be negative.
+- [00:27:50,000 - 00:27:53,500] Those can be thought of as the states where
+- [00:27:53,500 - 00:27:57,000] the spin is maximally along the direction of motion
+- [00:27:57,000 - 00:28:01,000] or maximally opposed to the direction of motion.
+- [00:28:02,000 - 00:28:06,500] Now, as far as whether the spin is along
+- [00:28:06,500 - 00:28:11,000] the direction of motion or against the direction of motion,
+- [00:28:11,000 - 00:28:14,000] that's really an arbitrary choice of
+- [00:28:14,000 - 00:28:17,000] right hand versus left hand rule.
+- [00:28:17,000 - 00:28:21,000] Spin has to do with rotation.
+- [00:28:21,000 - 00:28:26,000] Momentum is a vector along an axis.
+- [00:28:26,000 - 00:28:31,000] My right hand, my fingers curl right-handedly.
+- [00:28:31,000 - 00:28:34,000] My left hand, they curl left-handedly.
+- [00:28:34,000 - 00:28:41,000] A spin that way is considered positive along the axis.
+- [00:28:41,000 - 00:28:44,000] And a spin that-a-way is
+- [00:28:44,000 - 00:28:47,000] considered negative along the same axis.
+- [00:28:47,000 - 00:28:51,000] Well, simple reflection symmetry tells you if
+- [00:28:51,000 - 00:28:55,000] you have one, you better have the other.
+- [00:28:55,000 - 00:28:57,500] If you have a right hand and
+- [00:28:57,500 - 00:29:00,000] you're in a world with reflection symmetry,
+- [00:29:00,000 - 00:29:02,000] you'll have a left hand.
+- [00:29:02,000 - 00:29:04,000] If there's a right-handed particle that can spin that way,
+- [00:29:04,000 - 00:29:06,000] there'll be a left-handed one
+- [00:29:06,000 - 00:29:08,000] that can spin the other way.
+- [00:29:08,000 - 00:29:12,000] So, if you have a particle moving down
+- [00:29:12,000 - 00:29:16,000] the axis with the maximum component of spin,
+- [00:29:16,000 - 00:29:20,000] there must be another possibility.
+- [00:29:20,000 - 00:29:23,500] The particle must also be capable of having
+- [00:29:23,500 - 00:29:27,000] the opposite, namely the minimum component of spin.
+- [00:29:27,000 - 00:29:28,500] But is there any reason why
+- [00:29:28,500 - 00:29:30,000] it has to have spins in between?
+- [00:29:30,000 - 00:29:32,000] So let's take the spin one case.
+- [00:29:32,000 - 00:29:36,000] The spin one case, the three states along
+- [00:29:36,000 - 00:29:40,000] that axis have spin one, zero, and minus one.
+- [00:29:40,000 - 00:29:43,000] Those are the three states.
+- [00:29:43,000 - 00:29:45,500] We see because of reflection invariance that if
+- [00:29:45,500 - 00:29:48,000] it has a spin one along the axis,
+- [00:29:48,000 - 00:29:52,000] it must also have a spin minus one.
+- [00:29:52,000 - 00:29:56,000] Must it also have a spin zero?
+- [00:29:56,000 - 00:30:00,000] Well, the answer-a z component of spin.
+- [00:30:00,000 - 00:30:03,000] A z component of spin along that axis.
+- [00:30:03,000 - 00:30:06,000] And the answer, as I said, depends
+- [00:30:06,000 - 00:30:09,000] on whether the particle is massive or massless.
+- [00:30:09,000 - 00:30:12,000] So let me show you why.
+- [00:30:12,000 - 00:30:15,000] Supposing the particle is massive to begin with.
+- [00:30:15,000 - 00:30:18,500] And supposing it has-let me argue that
+- [00:30:18,500 - 00:30:22,000] there must be three states that it has.
+- [00:30:22,000 - 00:30:26,000] If it's moving down the z axis,
+- [00:30:26,000 - 00:30:30,000] and it has spin along the z axis,
+- [00:30:30,000 - 00:30:35,000] so it's rotating this away.
+- [00:30:35,000 - 00:30:38,000] Now imagine bringing that particle to rest.
+- [00:30:38,000 - 00:30:41,000] Or better yet, moving in such a
+- [00:30:41,000 - 00:30:44,000] way that you keep up with the particle.
+- [00:30:44,000 - 00:30:45,500] It's not moving with the speed
+- [00:30:45,500 - 00:30:47,000] of light. It's got a mass.
+- [00:30:47,000 - 00:30:49,000] You keep up with it, and you look
+- [00:30:49,000 - 00:30:51,000] at the particle, and the particle's at rest.
+- [00:30:51,000 - 00:30:53,000] The particle is at rest.
+- [00:30:53,000 - 00:30:59,000] So now you've discovered that there's a particle at rest,
+- [00:30:59,000 - 00:31:05,000] but moving along with it doesn't change its spin.
+- [00:31:05,000 - 00:31:06,500] If it's rotating this way and going down
+- [00:31:06,500 - 00:31:08,000] that axis, and you keep up with it,
+- [00:31:08,000 - 00:31:11,000] it will still be rotating that way.
+- [00:31:11,000 - 00:31:15,000] So it still has spin one along this axis.
+- [00:31:15,000 - 00:31:17,000] It has spin one along this axis.
+- [00:31:17,000 - 00:31:20,000] But now that you've brought it to rest,
+- [00:31:20,000 - 00:31:23,000] you can rotate it,
+- [00:31:23,000 - 00:31:27,000] and then boost it back up.
+- [00:31:27,000 - 00:31:29,500] In that case, you've created a
+- [00:31:29,500 - 00:31:32,000] particle which is neither spinning about,
+- [00:31:32,000 - 00:31:36,000] which neither has maximal spin in that direction,
+- [00:31:36,000 - 00:31:38,000] or minimum spin in that direction,
+- [00:31:38,000 - 00:31:42,000] but which now has spin pointing out of the blackboard,
+- [00:31:42,000 - 00:31:45,000] even though the particle is moving down that direction.
+- [00:31:45,000 - 00:31:47,500] And you did that by, first
+- [00:31:47,500 - 00:31:50,000] of all, bringing the particle to rest,
+- [00:31:50,000 - 00:31:52,500] and then saying, if you're living
+- [00:31:52,500 - 00:31:55,000] in a world with rotation invariants,
+- [00:31:55,000 - 00:31:57,000] if there's a particle at rest,
+- [00:31:57,000 - 00:32:00,000] whose spin is pointing along that axis,
+- [00:32:00,000 - 00:32:02,500] it must also be possible to
+- [00:32:02,500 - 00:32:05,000] have it pointing along that axis.
+- [00:32:05,000 - 00:32:08,000] Another way to think about it is,
+- [00:32:08,000 - 00:32:11,000] you could imagine after having brought it to rest,
+- [00:32:11,000 - 00:32:14,000] boosting it along the perpendicular axis,
+- [00:32:14,000 - 00:32:16,500] either way, you wind up with
+- [00:32:16,500 - 00:32:19,000] a particle whose spin is perpendicular
+- [00:32:19,000 - 00:32:21,000] to the axis of motion.
+- [00:32:21,000 - 00:32:23,000] And that must be the case, because
+- [00:32:23,000 - 00:32:25,000] you can bring a particle to rest,
+- [00:32:25,000 - 00:32:26,000] and then,
+- [00:32:26,000 - 00:32:29,000] accelerate it in a perpendicular direction,
+- [00:32:29,000 - 00:32:31,000] without changing its spin.
+- [00:32:31,000 - 00:32:34,000] Okay, so, conclusion.
+- [00:32:34,000 - 00:32:39,000] If you have a massive particle,
+- [00:32:39,000 - 00:32:42,000] it must have all three states.
+- [00:32:42,000 - 00:32:45,000] Spin along that axis, spin along that axis,
+- [00:32:45,000 - 00:32:48,000] and that's not enough, you have to be
+- [00:32:48,000 - 00:32:51,000] able to make up spin along the perpendicular axis.
+- [00:32:51,000 - 00:32:54,000] On the other hand, if the particle is massless,
+- [00:32:54,000 - 00:32:55,500] there is nothing you can
+- [00:32:55,500 - 00:32:57,000] do to bring it to rest.
+- [00:32:57,000 - 00:32:59,500] Any Lorentz transformation will leave it
+- [00:32:59,500 - 00:33:02,000] moving with the speed of light.
+- [00:33:02,000 - 00:33:05,000] You cannot bring it to rest, and then,
+- [00:33:05,000 - 00:33:08,000] rotate out from under the spin,
+- [00:33:08,000 - 00:33:12,000] and boost it in another direction.
+- [00:33:12,000 - 00:33:15,000] The implication is,
+- [00:33:15,000 - 00:33:18,000] that if particles have zero mass,
+- [00:33:18,000 - 00:33:20,500] then it's perfectly consistent that
+- [00:33:20,500 - 00:33:23,000] all they have is maximal spin,
+- [00:33:23,000 - 00:33:25,000] and minimal spin,
+- [00:33:25,000 - 00:33:27,000] and nothing in between.
+- [00:33:27,000 - 00:33:28,000] That's typically the case.
+- [00:33:28,000 - 00:33:32,000] Now, you know this in another guise for the photon.
+- [00:33:32,000 - 00:33:37,000] What guise is it for the photon?
+- [00:33:37,000 - 00:33:41,000] The polarization of light.
+- [00:33:41,000 - 00:33:43,000] The polarization of light can be
+- [00:33:43,000 - 00:33:45,000] described in a number of ways.
+- [00:33:45,000 - 00:33:50,000] It can be described as linear polarization,
+- [00:33:50,000 - 00:33:52,000] circular polarization,
+- [00:33:52,000 - 00:33:56,000] but if you describe it in terms of circular polarization,
+- [00:33:56,000 - 00:34:01,000] circular polarization, incidentally, corresponds to photons,
+- [00:34:01,000 - 00:34:03,000] depending on whether the circular
+- [00:34:03,000 - 00:34:05,000] polarization is right-handed or left-handed,
+- [00:34:05,000 - 00:34:08,000] it corresponds to an assemblage of photons,
+- [00:34:08,000 - 00:34:12,000] which are either right-hand spinning or left-hand spinning.
+- [00:34:16,000 - 00:34:21,000] There are no photons which are not polarized at all.
+- [00:34:22,000 - 00:34:24,000] Polarization is always perpendicular
+- [00:34:24,000 - 00:34:26,000] to the direction of motion.
+- [00:34:26,000 - 00:34:28,000] It's either right-handed or left-handed.
+- [00:34:28,000 - 00:34:30,000] Now, what about linear polarization?
+- [00:34:30,000 - 00:34:32,000] There's linear polarization,
+- [00:34:32,000 - 00:34:33,500] and I'm going to tell
+- [00:34:33,500 - 00:34:35,000] you now what linear polarization is.
+- [00:34:35,000 - 00:34:39,000] Linear polarization, if you have...
+- [00:34:39,000 - 00:34:42,500] Linear polarization is not zero angular
+- [00:34:42,500 - 00:34:46,000] momentum along the direction of motion.
+- [00:34:46,000 - 00:34:50,000] It's a quantum superposition of the two possibilities.
+- [00:34:50,000 - 00:34:52,500] Circular polarization to the right
+- [00:34:52,500 - 00:34:55,000] and circular polarization to the left.
+- [00:34:55,000 - 00:34:58,000] What's the difference between saying it's
+- [00:34:58,000 - 00:35:01,000] a linear superposition of polarization states
+- [00:35:01,000 - 00:35:05,000] and saying it has no angular momentum at all?
+- [00:35:05,000 - 00:35:08,000] It has equal probability for spinning to
+- [00:35:08,000 - 00:35:11,000] the right and spinning to the left.
+- [00:35:11,000 - 00:35:13,500] So doesn't that mean that it has,
+- [00:35:13,500 - 00:35:16,000] on the average, no spin at all?
+- [00:35:16,000 - 00:35:17,500] Yes, it does mean that on
+- [00:35:17,500 - 00:35:19,000] the average it has no spin.
+- [00:35:20,000 - 00:35:24,000] But if you measure the angular momentum of that photon,
+- [00:35:24,000 - 00:35:28,000] it will either be right-handed or left-handed.
+- [00:35:28,000 - 00:35:31,000] You will never measure a photon which
+- [00:35:31,000 - 00:35:34,000] has no angular momentum along that direction.
+- [00:35:34,000 - 00:35:37,000] So there are only two states of the photon.
+- [00:35:37,000 - 00:35:41,000] And one other point.
+- [00:35:41,000 - 00:35:45,000] Let's go back to linear polarization.
+- [00:35:45,000 - 00:35:49,000] A photon moving down an axis can be polarized.
+- [00:35:49,000 - 00:35:54,000] Here's the plane perpendicular to the motion of the photon.
+- [00:35:54,000 - 00:35:57,000] If you send it through a plane polarizer,
+- [00:35:57,000 - 00:36:01,000] it can be polarized, let's say, along the y-axis,
+- [00:36:01,000 - 00:36:04,000] or it can be polarized along the x-axis.
+- [00:36:04,000 - 00:36:07,000] The polarization is a vector.
+- [00:36:07,000 - 00:36:10,000] But it's a vector which is always perpendicular
+- [00:36:10,000 - 00:36:13,000] to the direction of motion of the photon.
+- [00:36:13,000 - 00:36:16,000] It's always perpendicular, and the words for
+- [00:36:16,000 - 00:36:19,000] that are the polarization is always transverse.
+- [00:36:19,000 - 00:36:23,000] There is no polarization of the photon where the polarization where
+- [00:36:23,000 - 00:36:27,000] the electric field arrow points along the direction of the photon.
+- [00:36:27,000 - 00:36:30,000] That's not allowed by Maxwell's equations.
+- [00:36:30,000 - 00:36:32,000] Maxwell's equations tell you
+- [00:36:32,000 - 00:36:34,000] the electric and magnetic field,
+- [00:36:34,000 - 00:36:36,000] and therefore the polarization of the photon,
+- [00:36:36,000 - 00:36:39,000] are perpendicular to the direction of motion.
+- [00:36:39,000 - 00:36:43,000] So you can have two states of two different polarizations.
+- [00:36:43,000 - 00:36:47,000] You could call it the x-polarization state of the photon,
+- [00:36:47,000 - 00:36:49,000] or you could call it the y-polarization state.
+- [00:36:49,000 - 00:36:56,000] Neither of them is circular polarization.
+- [00:36:56,000 - 00:37:00,000] What about circular polarization?
+- [00:37:00,000 - 00:37:04,000] Circular polarization is a linear superposition,
+- [00:37:04,000 - 00:37:07,000] a quantum mechanical linear superposition,
+- [00:37:07,000 - 00:37:12,000] right-handed, let's call it right-hand polarization,
+- [00:37:12,000 - 00:37:15,000] which means spin right-handed.
+- [00:37:15,000 - 00:37:18,000] That's equal to the state x
+- [00:37:18,000 - 00:37:22,000] plus i times the state y.
+- [00:37:30,000 - 00:37:32,000] No, I won't say it.
+- [00:37:34,000 - 00:37:38,000] Left-handed is x minus iy.
+- [00:37:38,000 - 00:37:40,000] Is it the same like the
+- [00:37:40,000 - 00:37:42,000] silver polarization, like the Stern-Berlus experiment?
+- [00:37:42,000 - 00:37:44,000] If you said i-silver, is
+- [00:37:44,000 - 00:37:46,000] it the same type of explanation?
+- [00:37:46,000 - 00:37:50,000] No, it's just circular polarization.
+- [00:37:50,000 - 00:37:52,000] Just circular polarization.
+- [00:37:52,000 - 00:37:54,000] Just pure circular polarization.
+- [00:37:54,000 - 00:37:58,000] Circular polarization is a quantum linear superposition.
+- [00:37:58,000 - 00:38:02,000] For each photon, a circularly polarized photon
+- [00:38:02,000 - 00:38:07,000] is a quantum superposition of a x-polarized photon
+- [00:38:07,000 - 00:38:09,000] and a y-polarized photon.
+- [00:38:09,000 - 00:38:10,000] Let me ask this.
+- [00:38:10,000 - 00:38:12,000] Supposing I didn't put the i here.
+- [00:38:12,000 - 00:38:14,000] Supposing I just considered x plus y,
+- [00:38:14,000 - 00:38:17,000] what kind of photon would that be?
+- [00:38:17,000 - 00:38:19,000] Linearly polarized.
+- [00:38:19,000 - 00:38:21,000] That would be linearly polarized,
+- [00:38:21,000 - 00:38:25,000] but at a 45-degree angle to the axes.
+- [00:38:25,000 - 00:38:27,500] So, if all you are allowed
+- [00:38:27,500 - 00:38:30,000] to do is put real numbers here,
+- [00:38:30,000 - 00:38:33,000] you would make linear polarization,
+- [00:38:33,000 - 00:38:35,500] which could point in any direction perpendicular
+- [00:38:35,500 - 00:38:38,000] to the direction of motion of the photon.
+- [00:38:38,000 - 00:38:42,000] But having i's available gives you something new.
+- [00:38:42,000 - 00:38:45,000] It gives you circular polarization.
+- [00:38:45,000 - 00:38:49,000] If you use as your basis of states,
+- [00:38:49,000 - 00:38:52,000] the circularly polarized states,
+- [00:38:52,000 - 00:38:55,000] instead of the linearly polarized states,
+- [00:38:55,000 - 00:38:57,000] there are only two of them.
+- [00:38:57,000 - 00:38:59,000] So the angular momentum of the
+- [00:38:59,000 - 00:39:01,000] photon is either along the axis
+- [00:39:01,000 - 00:39:04,000] or along the opposite to the axis.
+- [00:39:04,000 - 00:39:07,000] And there is no photon which
+- [00:39:07,000 - 00:39:10,000] has zero angular momentum along the axis.
+- [00:39:12,000 - 00:39:14,000] The same is true of gravitons.
+- [00:39:14,000 - 00:39:16,000] Slightly differently,
+- [00:39:16,000 - 00:39:20,000] gravitons are spin-2 objects.
+- [00:39:20,000 - 00:39:23,000] If they were massive, they would have five states.
+- [00:39:23,000 - 00:39:26,000] But gravitons only have two states.
+- [00:39:26,000 - 00:39:29,000] They, roughly speaking,
+- [00:39:29,000 - 00:39:30,500] and this is an analogy I
+- [00:39:30,500 - 00:39:32,000] want you to keep in mind.
+- [00:39:32,000 - 00:39:35,000] It's a good analogy, and we'll draw on it.
+- [00:39:35,000 - 00:39:38,000] A graviton moving down the axis
+- [00:39:38,000 - 00:39:42,000] with maximal angular momentum
+- [00:39:42,000 - 00:39:45,000] that means two units of angular momentum
+- [00:39:45,000 - 00:39:47,000] moving along the z-axis
+- [00:39:47,000 - 00:39:54,000] is mathematically the same as two photons
+- [00:39:54,000 - 00:40:01,000] each with one unit of angular momentum.
+- [00:40:01,000 - 00:40:04,000] Imagine taking two photons,
+- [00:40:04,000 - 00:40:06,000] sticking them together,
+- [00:40:06,000 - 00:40:09,000] letting them move down the axis.
+- [00:40:09,000 - 00:40:11,000] The angular momentum of the two of them
+- [00:40:11,000 - 00:40:14,000] there could be various possibilities.
+- [00:40:14,000 - 00:40:17,000] They could both be circulating
+- [00:40:17,000 - 00:40:19,000] in the right-handed sense.
+- [00:40:19,000 - 00:40:22,000] Then the angular momentum would be two units.
+- [00:40:22,000 - 00:40:24,000] They could be both circulating to the left.
+- [00:40:24,000 - 00:40:27,000] The angular momentum would be minus two units.
+- [00:40:27,000 - 00:40:29,000] What you don't have is a graviton
+- [00:40:29,000 - 00:40:31,000] which corresponds to a photon of
+- [00:40:31,000 - 00:40:35,000] right polarization and left polarization.
+- [00:40:35,000 - 00:40:37,000] Gravitons have only two states.
+- [00:40:37,000 - 00:40:39,000] Maximal rotation in one direction,
+- [00:40:39,000 - 00:40:41,000] maximum rotation in the other direction.
+- [00:40:41,000 - 00:40:47,000] And mathematically, you can think of
+- [00:40:47,000 - 00:40:52,000] just having a pair of photons of right-handed.
+- [00:40:52,000 - 00:40:55,000] You can multiply this by another photon
+- [00:40:55,000 - 00:40:56,000] of the same kind
+- [00:40:56,000 - 00:40:58,000] and think of it as a graviton.
+- [00:40:58,000 - 00:41:00,000] That would be a useful
+- [00:41:00,000 - 00:41:02,000] way to think about spin two
+- [00:41:02,000 - 00:41:05,000] by combining two spin ones.
+- [00:41:05,000 - 00:41:10,000] What's that?
+- [00:41:10,000 - 00:41:13,000] Can we use this analogy only for spin one graviton,
+- [00:41:13,000 - 00:41:15,000] two photons, or can we
+- [00:41:15,000 - 00:41:17,000] do this with other quantum numbers?
+- [00:41:17,000 - 00:41:27,000] Well, there's a whole field of study
+- [00:41:27,000 - 00:41:32,000] which studies Feynman diagrams for gravitons
+- [00:41:32,000 - 00:41:34,000] by thinking of them as roughly speaking
+- [00:41:34,000 - 00:41:38,000] squares of Feynman diagrams for spin one particles.
+- [00:41:38,000 - 00:41:41,000] But mostly I think it's trickery.
+- [00:41:41,000 - 00:41:42,500] There's no real sense in
+- [00:41:42,500 - 00:41:44,000] which a graviton is two photons.
+- [00:41:44,000 - 00:41:47,000] It's just for combining the spins that it's useful.
+- [00:41:47,000 - 00:41:49,000] I can't think of any other
+- [00:41:49,000 - 00:41:51,000] sense in which it's particularly useful.
+- [00:41:51,000 - 00:41:53,000] There are no other quantum numbers.
+- [00:41:53,000 - 00:41:55,000] What other quantum numbers does a photon have?
+- [00:41:55,000 - 00:41:57,000] Or a graviton?
+- [00:41:57,000 - 00:41:58,000] It doesn't have anything else.
+- [00:41:58,000 - 00:42:01,000] It has momentum.
+- [00:42:01,000 - 00:42:05,000] It has momentum, it has energy, and it has spin.
+- [00:42:05,000 - 00:42:07,000] It doesn't have charge.
+- [00:42:07,000 - 00:42:09,000] It doesn't have baryon number.
+- [00:42:09,000 - 00:42:11,000] It doesn't have anything else.
+- [00:42:11,000 - 00:42:14,000] Well, it doesn't have a
+- [00:42:14,000 - 00:42:17,000] jump in the spectrum either, so...
+- [00:42:17,000 - 00:42:19,000] What doesn't have a jump in the spectrum?
+- [00:42:19,000 - 00:42:21,000] A photon has a continuous spectrum, right?
+- [00:42:21,000 - 00:42:24,000] Potentially?
+- [00:42:24,000 - 00:42:26,500] A photon of a given momentum
+- [00:42:26,500 - 00:42:29,000] only has one value of the energy.
+- [00:42:29,000 - 00:42:32,000] Right, but you were saying that a continuous spectrum
+- [00:42:32,000 - 00:42:34,000] is what distinguishes something that is
+- [00:42:34,000 - 00:42:36,000] a particle from something that's not.
+- [00:42:36,000 - 00:42:37,000] Oh.
+- [00:42:37,000 - 00:42:41,000] A continuous spectrum of rest masses.
+- [00:42:41,000 - 00:42:43,500] Or, if you like, a
+- [00:42:43,500 - 00:42:46,000] continuous spectrum for a given momentum.
+- [00:42:49,000 - 00:42:53,000] The pot of particles with...
+- [00:42:55,000 - 00:42:57,500] moving inside, not a pot, but
+- [00:42:57,500 - 00:43:00,000] in a container of some sort,
+- [00:43:00,000 - 00:43:02,000] it doesn't really have continuous spectrum,
+- [00:43:02,000 - 00:43:04,000] but it has extremely dense spectrum.
+- [00:43:04,000 - 00:43:05,000] But what I mean by that is,
+- [00:43:05,000 - 00:43:07,000] if the entire pot is at rest,
+- [00:43:07,000 - 00:43:10,000] there are lots and lots of energy levels.
+- [00:43:10,000 - 00:43:11,000] Okay?
+- [00:43:11,000 - 00:43:13,000] Certainly we can generate a
+- [00:43:13,000 - 00:43:15,000] continuous spectrum just by moving it,
+- [00:43:15,000 - 00:43:18,000] but I was speaking about the pot at rest.
+- [00:43:18,000 - 00:43:21,000] Now, photons, it's true, can't be at rest,
+- [00:43:21,000 - 00:43:23,000] so you can't quite use that definition.
+- [00:43:23,000 - 00:43:26,000] You use a different definition, say, for a given momentum.
+- [00:43:26,000 - 00:43:29,000] So...
+- [00:43:29,000 - 00:43:32,000] Okay.
+- [00:43:32,000 - 00:43:35,000] So now we know something about harmonic dynamics.
+- [00:43:35,000 - 00:43:37,000] So now we know something about harmonic oscillators,
+- [00:43:37,000 - 00:43:39,000] we know something about spin.
+- [00:43:42,000 - 00:43:44,000] And what I want to come to now
+- [00:43:44,000 - 00:43:46,000] is the spectrum of strings.
+- [00:43:46,000 - 00:43:49,000] The low-lying spectrum of strings.
+- [00:43:49,000 - 00:43:54,000] The low-lying spectrum means the first few states.
+- [00:44:02,000 - 00:44:04,000] Let's just remember that energy,
+- [00:44:04,000 - 00:44:07,500] in this formal analogy between
+- [00:44:07,500 - 00:44:11,000] non-relativistic physics and relativistic physics,
+- [00:44:11,000 - 00:44:15,000] energy becomes not mc squared, not the mass,
+- [00:44:15,000 - 00:44:18,000] but the square of the mass.
+- [00:44:18,000 - 00:44:19,500] So when we speak about
+- [00:44:19,500 - 00:44:21,000] the energy of a vibrating string,
+- [00:44:21,000 - 00:44:23,500] and we add them all up to
+- [00:44:23,500 - 00:44:26,000] find the total energy of the vibrating string,
+- [00:44:26,000 - 00:44:30,000] it corresponds to the square of the mass.
+- [00:44:30,000 - 00:44:31,000] Okay?
+- [00:44:31,000 - 00:44:32,000] Not the mass itself.
+- [00:44:32,000 - 00:44:33,000] That's just something to remember.
+- [00:44:33,000 - 00:44:40,000] Okay, what are the discrete energy levels of the string?
+- [00:44:40,000 - 00:44:42,000] And we're talking...
+- [00:44:42,000 - 00:44:44,500] A string at rest, meaning to say it's
+- [00:44:44,500 - 00:44:47,000] not moving in the perpendicular direction at all.
+- [00:44:47,000 - 00:44:49,000] What are the energies?
+- [00:44:49,000 - 00:44:50,500] Well, we just say, look, it's
+- [00:44:50,500 - 00:44:52,000] just a collection of harmonic oscillators.
+- [00:44:52,000 - 00:44:54,000] Let's see what we can make.
+- [00:44:54,000 - 00:44:57,000] The first state and the lowest state
+- [00:44:57,000 - 00:45:00,000] is the state which is annihilated,
+- [00:45:00,000 - 00:45:02,000] that's the ground state,
+- [00:45:02,000 - 00:45:05,000] by all the annihilation operators.
+- [00:45:05,000 - 00:45:10,000] In other words, it's just the state, the ground state.
+- [00:45:10,000 - 00:45:13,000] All the B's and all the A's,
+- [00:45:13,000 - 00:45:16,000] all the annihilation operators give zero.
+- [00:45:16,000 - 00:45:19,500] It's the state in which neither or
+- [00:45:19,500 - 00:45:23,000] none of these oscillators are at all excited.
+- [00:45:23,000 - 00:45:26,000] What's the energy of that state?
+- [00:45:26,000 - 00:45:28,500] Well, if we were doing
+- [00:45:28,500 - 00:45:31,000] ordinary quantum mechanical harmonic oscillators,
+- [00:45:31,000 - 00:45:34,000] we might say it's a half h-bar omega, right?
+- [00:45:34,000 - 00:45:37,000] That's the ground state energy of a string.
+- [00:45:37,000 - 00:45:41,000] But let's leave it open for a minute.
+- [00:45:41,000 - 00:45:44,000] Let's not prejudice the answer.
+- [00:45:44,000 - 00:45:48,000] Let's leave it flexible for a moment
+- [00:45:48,000 - 00:45:50,000] and call the mass squared...
+- [00:45:50,000 - 00:45:52,000] Now, what does this stand for?
+- [00:45:52,000 - 00:45:55,000] This does not stand for the vacuum.
+- [00:45:55,000 - 00:45:57,000] It is not empty space.
+- [00:45:57,000 - 00:46:00,000] It is the unexcited oscillators.
+- [00:46:00,000 - 00:46:02,000] It's a particle.
+- [00:46:02,000 - 00:46:04,000] It's a particle moving down the z-axis,
+- [00:46:04,000 - 00:46:05,500] but it's in the ground
+- [00:46:05,500 - 00:46:07,000] state of all of its oscillations.
+- [00:46:07,000 - 00:46:09,000] I wouldn't say it has no oscillations,
+- [00:46:09,000 - 00:46:11,000] because every harmonic
+- [00:46:11,000 - 00:46:13,000] oscillator has zero-point oscillations.
+- [00:46:13,000 - 00:46:15,000] Because of the uncertainty
+- [00:46:15,000 - 00:46:17,000] principle, there's some fluctuation.
+- [00:46:17,000 - 00:46:19,500] But every one of the oscillators
+- [00:46:19,500 - 00:46:22,000] is as quiet as it can be,
+- [00:46:22,000 - 00:46:24,000] consistent with quantum mechanics.
+- [00:46:24,000 - 00:46:26,000] So this thing is a particle,
+- [00:46:26,000 - 00:46:29,000] and I'm not going to begin by prejudicing
+- [00:46:29,000 - 00:46:32,000] about what the mass of that particle is.
+- [00:46:32,000 - 00:46:35,000] I'm just going to call it m-naught squared,
+- [00:46:35,000 - 00:46:37,000] whatever it happens to be.
+- [00:46:37,000 - 00:46:41,000] This is the energy of the ground state,
+- [00:46:41,000 - 00:46:45,000] or the square of the mass of the ground state.
+- [00:46:45,000 - 00:46:47,000] And we don't know what it is yet.
+- [00:46:47,000 - 00:46:48,500] We don't have a tool yet
+- [00:46:48,500 - 00:46:50,000] for finding out what it is.
+- [00:46:50,000 - 00:46:54,000] But whatever it is, when we excite it,
+- [00:46:54,000 - 00:46:58,000] we will increase it by integer amounts of energy.
+- [00:46:58,000 - 00:47:00,000] So let's see how we can excite it,
+- [00:47:00,000 - 00:47:03,000] what the lowest energy excitation is.
+- [00:47:03,000 - 00:47:04,500] What's the cheapest thing in
+- [00:47:04,500 - 00:47:06,000] energy we can do to it?
+- [00:47:06,000 - 00:47:08,000] And the cheapest thing in energy
+- [00:47:08,000 - 00:47:10,000] that we can do to it
+- [00:47:10,000 - 00:47:15,000] is to apply the creation operators,
+- [00:47:15,000 - 00:47:17,000] the raising operators,
+- [00:47:17,000 - 00:47:20,000] but the lowest one,
+- [00:47:20,000 - 00:47:22,000] a1.
+- [00:47:22,000 - 00:47:26,000] Remember, each oscillator increases the energy
+- [00:47:26,000 - 00:47:28,000] by n,
+- [00:47:28,000 - 00:47:30,000] n units.
+- [00:47:30,000 - 00:47:35,000] And so, if we want to consider the lowest energy,
+- [00:47:35,000 - 00:47:37,500] we want to hit it
+- [00:47:37,500 - 00:47:40,000] with the oscillator of smallest frequency.
+- [00:47:40,000 - 00:47:43,000] The oscillator of smallest frequency
+- [00:47:43,000 - 00:47:47,000] corresponds to n equals 1.
+- [00:47:50,000 - 00:47:54,000] So we hit it with a1.
+- [00:47:58,000 - 00:48:02,000] What's the energy of that state?
+- [00:48:06,000 - 00:48:10,000] Oh, incidentally, what is the energy of that state?
+- [00:48:10,000 - 00:48:13,000] We've increased it by 1 unit.
+- [00:48:13,000 - 00:48:15,500] This 1 here indicates that the frequency
+- [00:48:15,500 - 00:48:18,000] of that particular oscillator is 1 unit.
+- [00:48:18,000 - 00:48:20,000] The energy that you add is 1 unit.
+- [00:48:20,000 - 00:48:22,000] This has increased the energy of
+- [00:48:22,000 - 00:48:24,000] the ground state by 1 unit.
+- [00:48:24,000 - 00:48:26,000] So the energy of this state is...
+- [00:48:28,000 - 00:48:32,000] Whatever m0 squared is plus 1.
+- [00:48:34,000 - 00:48:36,000] Nobody's asking me about units.
+- [00:48:36,000 - 00:48:37,000] How could I be talking
+- [00:48:37,000 - 00:48:38,000] about energy and saying 1 unit?
+- [00:48:38,000 - 00:48:39,000] 1, 1 unit.
+- [00:48:39,000 - 00:48:43,000] 1, 1 joule, 1 horsepower, not horsepower.
+- [00:48:43,000 - 00:48:45,000] Horsepower is power.
+- [00:48:45,000 - 00:48:47,000] Horsepower second.
+- [00:48:49,000 - 00:48:51,000] What's the British unit of...
+- [00:48:54,000 - 00:48:56,000] Oh, a British thermal unit.
+- [00:48:56,000 - 00:48:59,000] Maybe it's one British thermal unit.
+- [00:48:59,000 - 00:49:02,000] Well, this seems pretty unlikely, doesn't it?
+- [00:49:02,000 - 00:49:03,000] So what is this 1?
+- [00:49:03,000 - 00:49:05,000] What am I talking about when I say 1?
+- [00:49:07,000 - 00:49:09,000] It's something we'd better come back to.
+- [00:49:09,000 - 00:49:10,000] We'd better come back to units.
+- [00:49:10,000 - 00:49:11,500] I hope by the end of
+- [00:49:11,500 - 00:49:13,000] the evening we'll come back to units.
+- [00:49:13,000 - 00:49:16,000] But in some units, in some appropriate units,
+- [00:49:16,000 - 00:49:19,000] the units that we've been working,
+- [00:49:19,000 - 00:49:22,000] the first excited state,
+- [00:49:22,000 - 00:49:24,000] which is a dagger 1,
+- [00:49:24,000 - 00:49:27,000] gives us 1 extra unit of energy.
+- [00:49:27,000 - 00:49:29,000] Now, that's not the only state
+- [00:49:29,000 - 00:49:31,000] that has 1 extra unit of energy.
+- [00:49:31,000 - 00:49:33,000] Is there another one you can think of?
+- [00:49:33,000 - 00:49:34,000] B1.
+- [00:49:41,000 - 00:49:43,000] Same energy.
+- [00:49:43,000 - 00:49:46,000] What about any linear combination of them?
+- [00:49:49,000 - 00:49:53,000] If you take 2 eigenvectors of the energy,
+- [00:49:53,000 - 00:49:55,000] and you superpose them,
+- [00:49:55,000 - 00:49:59,000] it gives you back another eigenvector with the same energy.
+- [00:49:59,000 - 00:50:01,000] Okay?
+- [00:50:04,000 - 00:50:09,000] So, any linear combination of these has the same energy.
+- [00:50:09,000 - 00:50:13,000] Now, what are the properties
+- [00:50:13,000 - 00:50:16,000] of these objects A and B?
+- [00:50:16,000 - 00:50:18,500] In particular, I mean,
+- [00:50:18,500 - 00:50:21,000] what are their transformation properties
+- [00:50:21,000 - 00:50:22,000] when you rotate the circle?
+- [00:50:22,000 - 00:50:24,000] When you rotate the space?
+- [00:50:24,000 - 00:50:26,000] We have an axis, a preferred axis.
+- [00:50:26,000 - 00:50:29,000] I've defined the preferred axis.
+- [00:50:29,000 - 00:50:31,000] I've said boost the system up so
+- [00:50:31,000 - 00:50:33,000] that it's moving like hell along the z-axis.
+- [00:50:33,000 - 00:50:36,000] But I still have a
+- [00:50:36,000 - 00:50:39,000] rotation symmetry of the entire thing
+- [00:50:39,000 - 00:50:42,000] about the axis that I boosted things.
+- [00:50:42,000 - 00:50:47,000] How do A and B transform under those rotations?
+- [00:50:47,000 - 00:50:50,000] Well, you ask where they came from.
+- [00:50:50,000 - 00:50:54,000] They came from x and y.
+- [00:51:00,000 - 00:51:06,000] We wrote that x was some sum involving b's,
+- [00:51:06,000 - 00:51:08,000] no, sorry, a's,
+- [00:51:08,000 - 00:51:12,000] and y was some sum involving b's.
+- [00:51:12,000 - 00:51:14,000] What is x and y?
+- [00:51:14,000 - 00:51:16,000] x and y are components of a vector.
+- [00:51:16,000 - 00:51:18,000] That's what they are.
+- [00:51:18,000 - 00:51:20,000] They're components of a vector.
+- [00:51:20,000 - 00:51:22,000] They transform the components.
+- [00:51:22,000 - 00:51:25,000] x and y transform like
+- [00:51:25,000 - 00:51:28,000] the components of a two-dimensional vector.
+- [00:51:28,000 - 00:51:30,000] What about the a's?
+- [00:51:30,000 - 00:51:35,000] The a's obviously also transform as a vector.
+- [00:51:35,000 - 00:51:40,000] A and b, if you were to rotate the coordinates,
+- [00:51:40,000 - 00:51:42,500] would transform into some a
+- [00:51:42,500 - 00:51:45,000] cosine theta plus b sine theta.
+- [00:51:45,000 - 00:51:48,000] They would just rotate like a two-dimensional vector.
+- [00:51:48,000 - 00:51:51,000] So these a's and b's are vectors.
+- [00:51:51,000 - 00:51:58,000] That means that you can consider these two things
+- [00:51:58,000 - 00:52:01,000] to have a vectorial character.
+- [00:52:01,000 - 00:52:04,000] This one is pointing,
+- [00:52:04,000 - 00:52:09,000] they're always in the plane perpendicular to the motion,
+- [00:52:09,000 - 00:52:12,000] always in the plane perpendicular to the motion,
+- [00:52:12,000 - 00:52:16,000] which is large.
+- [00:52:16,000 - 00:52:19,000] This one has some kind of
+- [00:52:19,000 - 00:52:22,000] vectorial property in the one direction.
+- [00:52:22,000 - 00:52:26,000] This one has vectorial property in the two direction.
+- [00:52:26,000 - 00:52:32,000] So these two states transform into each other as vectors.
+- [00:52:32,000 - 00:52:36,000] They have the same properties
+- [00:52:36,000 - 00:52:40,000] as the plane polarization of photons.
+- [00:52:40,000 - 00:52:45,000] The photon polarization is also a vector.
+- [00:52:45,000 - 00:52:48,000] Namely, it corresponds to the direction
+- [00:52:48,000 - 00:52:51,000] of the electric field at some instant.
+- [00:52:51,000 - 00:52:53,000] It's a vector.
+- [00:52:53,000 - 00:52:55,000] It points in the direction perpendicular
+- [00:52:55,000 - 00:52:57,000] to the motion of the photon.
+- [00:52:57,000 - 00:53:00,500] And so it's looking as if
+- [00:53:00,500 - 00:53:04,000] these two things must correspond somehow
+- [00:53:04,000 - 00:53:08,000] to a vector character to the particle.
+- [00:53:08,000 - 00:53:13,000] How would, can we turn it into a circular polarization?
+- [00:53:13,000 - 00:53:15,000] Yes, we can turn it into a circular polarization.
+- [00:53:15,000 - 00:53:19,000] Instead of taking a1 or b1,
+- [00:53:19,000 - 00:53:26,000] we take a1 plus ib1.
+- [00:53:26,000 - 00:53:30,000] And that's a circularly polarized something.
+- [00:53:30,000 - 00:53:33,000] It's a string which has the
+- [00:53:33,000 - 00:53:36,000] properties of a circularly polarized particle.
+- [00:53:36,000 - 00:53:39,000] And of course we can put minus there.
+- [00:53:39,000 - 00:53:43,000] And the mathematics of it is
+- [00:53:43,000 - 00:53:48,000] identical to the mathematics of the polarization states
+- [00:53:48,000 - 00:53:51,000] of a particle moving down the axis.
+- [00:53:51,000 - 00:53:54,000] They transform into each other in the rotations.
+- [00:53:54,000 - 00:53:58,000] We could linearly superpose these with real coefficients.
+- [00:53:58,000 - 00:54:02,000] And then we would just
+- [00:54:02,000 - 00:54:06,000] be rotating the direction of oscillation.
+- [00:54:06,000 - 00:54:08,000] Or we can add them with an
+- [00:54:08,000 - 00:54:10,000] i and we turn them into circularly polarized.
+- [00:54:10,000 - 00:54:12,000] Now this is not easy to visualize.
+- [00:54:12,000 - 00:54:14,000] Don't try to visualize it.
+- [00:54:14,000 - 00:54:19,000] It's the transformation properties which count.
+- [00:54:19,000 - 00:54:22,000] Notice that there is not a
+- [00:54:22,000 - 00:54:25,000] third state with the same energy.
+- [00:54:25,000 - 00:54:27,000] There is no other third oscillator.
+- [00:54:27,000 - 00:54:30,000] There's only the x oscillator, the y oscillator.
+- [00:54:30,000 - 00:54:32,000] And that's it.
+- [00:54:32,000 - 00:54:34,000] There is no third state.
+- [00:54:34,000 - 00:54:36,000] So there is no third polarization state.
+- [00:54:36,000 - 00:54:38,000] There's only one conclusion which
+- [00:54:38,000 - 00:54:40,000] is consistent with Lorentz invariance,
+- [00:54:40,000 - 00:54:42,000] with relativity.
+- [00:54:42,000 - 00:54:45,000] With the properties of these things.
+- [00:54:45,000 - 00:54:51,000] This object, these two objects must be massless.
+- [00:54:51,000 - 00:54:54,000] They must be like the massless photon.
+- [00:54:54,000 - 00:54:58,000] If there are only two polarization states,
+- [00:54:58,000 - 00:55:02,000] that would not be consistent with a massive particle
+- [00:55:02,000 - 00:55:04,500] because a massive particle you can bring
+- [00:55:04,500 - 00:55:07,000] to rest and turn its direction of motion
+- [00:55:07,000 - 00:55:10,000] and create the third polarization state.
+- [00:55:10,000 - 00:55:13,000] So these two things, these two states,
+- [00:55:13,000 - 00:55:16,000] behave exactly like the two
+- [00:55:16,000 - 00:55:19,000] polarization states of the photon.
+- [00:55:19,000 - 00:55:21,000] Moving down the axis,
+- [00:55:21,000 - 00:55:24,000] let's not give them any motion perpendicular to the axis,
+- [00:55:24,000 - 00:55:26,000] no overall motion.
+- [00:55:26,000 - 00:55:27,000] Moving down the axis,
+- [00:55:27,000 - 00:55:30,000] and there are two polarization states.
+- [00:55:30,000 - 00:55:33,500] They do have the properties
+- [00:55:33,500 - 00:55:37,000] of the polarization states of photons.
+- [00:55:37,000 - 00:55:39,000] A vector character to them,
+- [00:55:39,000 - 00:55:41,000] in the perpendicular direction.
+- [00:55:41,000 - 00:55:44,000] In other words, they are transversely polarized things.
+- [00:55:44,000 - 00:55:49,000] They are identified as photon-like objects in string theory.
+- [00:55:49,000 - 00:55:52,000] And they must be massless.
+- [00:55:52,000 - 00:55:55,000] If they are not massless, there is something deeply wrong.
+- [00:55:55,000 - 00:55:58,000] Lorentz invariance cannot be maintained.
+- [00:55:58,000 - 00:56:03,000] And so, we come...
+- [00:56:03,000 - 00:56:06,000] You must realize by now we've come to a disaster.
+- [00:56:06,000 - 00:56:08,000] We've come to a very unfortunate crash.
+- [00:56:09,000 - 00:56:13,000] Where, at this point, we should throw away string theory.
+- [00:56:13,000 - 00:56:14,000] Why?
+- [00:56:14,000 - 00:56:18,000] Because m naught squared plus one has to be zero.
+- [00:56:18,000 - 00:56:21,000] The mass of this object,
+- [00:56:21,000 - 00:56:23,000] which is not the ground state,
+- [00:56:23,000 - 00:56:25,000] it's been excited by one unit,
+- [00:56:25,000 - 00:56:27,000] as this.
+- [00:56:27,000 - 00:56:30,000] If it's to make sense as a relativistic object,
+- [00:56:30,000 - 00:56:32,000] it has to be massless.
+- [00:56:32,000 - 00:56:34,000] And that means m naught squared is negative.
+- [00:56:34,000 - 00:56:35,000] Okay, big deal.
+- [00:56:35,000 - 00:56:38,000] Who cares if m naught squared is negative?
+- [00:56:38,000 - 00:56:40,500] The problem with that is m naught
+- [00:56:40,500 - 00:56:43,000] squared was the energy or the mass,
+- [00:56:43,000 - 00:56:47,000] the mass squared of the ground state without these a1s.
+- [00:56:47,000 - 00:56:49,500] In other words, the string which was
+- [00:56:49,500 - 00:56:52,000] not vibrating along the x or y axis,
+- [00:56:52,000 - 00:56:55,000] the ground state of the string.
+- [00:56:55,000 - 00:56:56,000] That's intolerable.
+- [00:56:56,000 - 00:57:00,000] Having a particle with negative mass squared is crazy.
+- [00:57:00,000 - 00:57:04,000] Mass squared is positive.
+- [00:57:04,000 - 00:57:06,000] How can mass squared be negative?
+- [00:57:08,000 - 00:57:13,000] You're going to have imaginary mass, right.
+- [00:57:13,000 - 00:57:14,000] Okay.
+- [00:57:14,000 - 00:57:18,000] Rotate what by 90 degrees?
+- [00:57:22,000 - 00:57:24,000] And in what space?
+- [00:57:24,000 - 00:57:27,000] Negative mass squared is a bad thing.
+- [00:57:27,000 - 00:57:28,000] Okay.
+- [00:57:28,000 - 00:57:31,000] Negative mass squared,
+- [00:57:31,000 - 00:57:33,000] imaginary mass, is a bad thing.
+- [00:57:33,000 - 00:57:34,500] So let me tell you,
+- [00:57:34,500 - 00:57:36,000] why is it a bad thing?
+- [00:57:36,000 - 00:57:37,000] So what?
+- [00:57:37,000 - 00:57:38,500] Because you discovered something that
+- [00:57:38,500 - 00:57:40,000] a certain parameter is negative.
+- [00:57:40,000 - 00:57:42,000] What does it mean?
+- [00:57:42,000 - 00:57:43,000] All right.
+- [00:57:43,000 - 00:57:46,000] An object with negative mass squared has a name.
+- [00:57:46,000 - 00:57:49,000] You know the name?
+- [00:57:49,000 - 00:57:51,000] A tachyon.
+- [00:57:51,000 - 00:57:53,000] A tachyon.
+- [00:57:53,000 - 00:57:56,000] The tachy comes from the same,
+- [00:57:56,000 - 00:57:58,000] it's not that it's a tachy particle.
+- [00:57:58,000 - 00:58:00,000] I mean, that's not the point.
+- [00:58:00,000 - 00:58:04,000] It is tachy, but,
+- [00:58:04,000 - 00:58:05,500] what's the thing in your car which
+- [00:58:05,500 - 00:58:07,000] tells you how fast the man is?
+- [00:58:07,000 - 00:58:09,000] How fast the engine is going?
+- [00:58:09,000 - 00:58:12,000] Tachy, tachy, tachy, tachy.
+- [00:58:12,000 - 00:58:13,000] Yeah.
+- [00:58:13,000 - 00:58:16,000] Tachy, tachy is either,
+- [00:58:16,000 - 00:58:18,000] I guess it's a Greek word?
+- [00:58:22,000 - 00:58:27,000] Tachy, yeah, yeah, but tachy I think refers to speed.
+- [00:58:27,000 - 00:58:30,000] Speed, I think it's a word for speed.
+- [00:58:30,000 - 00:58:32,000] And, what's that?
+- [00:58:32,000 - 00:58:34,000] No, I don't think so.
+- [00:58:34,000 - 00:58:36,000] I think it could be linear speed too.
+- [00:58:36,000 - 00:58:37,000] I don't know.
+- [00:58:37,000 - 00:58:38,000] I don't know my Greek,
+- [00:58:38,000 - 00:58:40,000] and I don't even know if it's a Greek word.
+- [00:58:40,000 - 00:58:42,000] Maybe it's a Yiddish word, I don't know.
+- [00:58:44,000 - 00:58:46,000] It does, it does, it does,
+- [00:58:46,000 - 00:58:48,000] but I think the prefix
+- [00:58:48,000 - 00:58:50,000] tachy refers to speed in general.
+- [00:58:50,000 - 00:58:52,000] I don't know for sure,
+- [00:58:52,000 - 00:58:55,000] but I do know why they called it a tachyon.
+- [00:58:55,000 - 00:58:58,000] A tachyon meant that it moves very fast,
+- [00:58:58,000 - 00:58:59,500] in fact so fast that it
+- [00:58:59,500 - 00:59:01,000] moves faster than the speed of light.
+- [00:59:01,000 - 00:59:04,000] Now, that's clearly something bad, okay?
+- [00:59:04,000 - 00:59:06,000] Einstein told us there are nothing that
+- [00:59:06,000 - 00:59:08,000] can move faster than the speed of light.
+- [00:59:08,000 - 00:59:11,000] So, we seem to have encountered something
+- [00:59:11,000 - 00:59:14,000] which is a tachyon with negative mass squared.
+- [00:59:14,000 - 00:59:17,000] Let me tell, maybe I should stop at this
+- [00:59:17,000 - 00:59:20,000] point and tell you a little bit about tachyons.
+- [00:59:20,000 - 00:59:21,000] They're bad.
+- [00:59:21,000 - 00:59:22,000] We want to get rid of them.
+- [00:59:22,000 - 00:59:24,000] They're intolerable,
+- [00:59:24,000 - 00:59:28,000] and if every string theory had a tachyon,
+- [00:59:28,000 - 00:59:30,000] you would not have heard of string theory.
+- [00:59:30,000 - 00:59:34,000] It would have been abandoned sometime around 1969,
+- [00:59:34,000 - 00:59:37,000] and you would never have heard about it again.
+- [00:59:37,000 - 00:59:39,500] So, of course, the answer is
+- [00:59:39,500 - 00:59:42,000] that there are many string theories,
+- [00:59:42,000 - 00:59:46,000] many good string theories that do not have the tachyon.
+- [00:59:46,000 - 00:59:48,500] There are no string theories
+- [00:59:48,500 - 00:59:51,000] that don't have this photon-like object.
+- [00:59:51,000 - 00:59:53,000] This is a good thing because the
+- [00:59:53,000 - 00:59:55,000] world has photons and it doesn't have tachyons,
+- [00:59:55,000 - 00:59:56,500] but let me just tell
+- [00:59:56,500 - 00:59:58,000] you about tachyons a little bit
+- [00:59:58,000 - 01:00:01,000] and how physicists use the terminology today.
+- [01:00:01,000 - 01:00:02,500] Only crackpots think that they move
+- [01:00:02,500 - 01:00:04,000] faster than the speed of light.
+- [01:00:04,000 - 01:00:08,000] So don't fall into that trap.
+- [01:00:08,000 - 01:00:11,000] Or that they can somehow send
+- [01:00:11,000 - 01:00:14,000] signals faster than the speed of light.
+- [01:00:14,000 - 01:00:16,000] That's not the measure of the issue here.
+- [01:00:16,000 - 01:00:18,500] But let me show you why there was
+- [01:00:18,500 - 01:00:21,000] some idea that they exceeded the speed of light.
+- [01:00:21,000 - 01:00:32,000] The important quantity of interest for the moment now
+- [01:00:32,000 - 01:00:33,000] is the amount of light that is in the tachyon.
+- [01:00:33,000 - 01:00:38,500] So what is the frequency of
+- [01:00:38,500 - 01:00:44,000] a wave versus its wave number?
+- [01:00:44,000 - 01:00:48,000] What is the frequency of a...
+- [01:00:48,000 - 01:00:51,000] which is equivalent, of course, it's
+- [01:00:51,000 - 01:00:54,000] equivalent to the energy of an object.
+- [01:00:54,000 - 01:00:57,500] Apart from a factor of h-bar, it's the same
+- [01:00:57,500 - 01:01:01,000] as the energy as a function of the momentum.
+- [01:01:01,000 - 01:01:03,500] So let's write that down
+- [01:01:03,500 - 01:01:06,000] for an ordinary non-relativistic particle.
+- [01:01:06,000 - 01:01:11,000] E of p is p squared over 2m, right?
+- [01:01:13,000 - 01:01:15,000] I'll just point something out to you.
+- [01:01:15,000 - 01:01:19,000] We could prove something about this,
+- [01:01:19,000 - 01:01:21,500] but the derivative of e with
+- [01:01:21,500 - 01:01:24,000] respect to p, what is that?
+- [01:01:26,000 - 01:01:27,000] p over m.
+- [01:01:27,000 - 01:01:29,000] And p over m is?
+- [01:01:30,000 - 01:01:32,000] The velocity.
+- [01:01:32,000 - 01:01:34,000] That's a general rule.
+- [01:01:34,000 - 01:01:36,000] It's actually a property of waves.
+- [01:01:36,000 - 01:01:38,000] If instead of e you put omega
+- [01:01:38,000 - 01:01:40,000] and instead of p you put k,
+- [01:01:40,000 - 01:01:43,000] then it's a property of waves that the group
+- [01:01:43,000 - 01:01:46,000] velocity is given by the derivative of the frequency
+- [01:01:46,000 - 01:01:48,000] with respect to the wave number or
+- [01:01:48,000 - 01:01:50,000] the energy with respect to the momentum.
+- [01:01:50,000 - 01:01:52,000] Let's try it out for something else.
+- [01:01:52,000 - 01:01:54,000] How about in relativity?
+- [01:01:54,000 - 01:01:55,000] What's e versus p?
+- [01:02:00,000 - 01:02:02,000] Let's start with a photon.
+- [01:02:02,000 - 01:02:04,000] e over c.
+- [01:02:04,000 - 01:02:06,000] Is it e equals p times
+- [01:02:06,000 - 01:02:08,000] c or e equals p over c?
+- [01:02:08,000 - 01:02:11,000] p times c.
+- [01:02:11,000 - 01:02:13,000] p times c, right?
+- [01:02:13,000 - 01:02:14,000] Yeah.
+- [01:02:14,000 - 01:02:16,000] e is equal to p times c.
+- [01:02:16,000 - 01:02:19,000] What is the derivative of e with respect to p?
+- [01:02:19,000 - 01:02:21,000] p.
+- [01:02:21,000 - 01:02:23,000] Which is of course the velocity of a photon.
+- [01:02:23,000 - 01:02:24,000] Alright?
+- [01:02:24,000 - 01:02:26,000] Let's try it a little more generally.
+- [01:02:26,000 - 01:02:27,000] e equals the square root
+- [01:02:27,000 - 01:02:28,000] of p squared plus m squared.
+- [01:02:28,000 - 01:02:33,000] Okay, now it gets a little hard.
+- [01:02:33,000 - 01:02:36,000] Derivative of e with respect to p.
+- [01:02:36,000 - 01:02:41,000] That gives us one divided by twice the
+- [01:02:41,000 - 01:02:46,000] square root of p squared plus m squared.
+- [01:02:46,000 - 01:02:48,000] And then what's in the numerator?
+- [01:02:48,000 - 01:02:49,000] 2p.
+- [01:02:49,000 - 01:02:55,000] Okay, so it's p over p squared plus m squared.
+- [01:02:55,000 - 01:02:57,000] Sorry, p over p squared plus m squared.
+- [01:02:57,000 - 01:02:58,000] Okay.
+- [01:02:58,000 - 01:03:01,000] I'm not going to try to convince you
+- [01:03:01,000 - 01:03:04,000] that this is the velocity of a relativistic particle,
+- [01:03:04,000 - 01:03:06,000] but it does have one property.
+- [01:03:06,000 - 01:03:09,000] Notice that it's less than one.
+- [01:03:09,000 - 01:03:11,500] Square root of p squared plus
+- [01:03:11,500 - 01:03:14,000] m squared is bigger than p.
+- [01:03:14,000 - 01:03:16,000] Okay?
+- [01:03:16,000 - 01:03:18,500] Square root of p squared plus m squared is
+- [01:03:18,500 - 01:03:21,000] bigger than the square root of just p squared.
+- [01:03:21,000 - 01:03:25,000] So p divided by this is always less than one.
+- [01:03:25,000 - 01:03:26,000] That's another way of seeing
+- [01:03:26,000 - 01:03:27,000] that relativistic particles are different.
+- [01:03:27,000 - 01:03:30,000] So I'm seeing that relativistic particles always move
+- [01:03:30,000 - 01:03:33,000] with speed less than the speed of light.
+- [01:03:33,000 - 01:03:35,000] What if there was a minus here?
+- [01:03:35,000 - 01:03:41,000] It goes faster than the speed of light.
+- [01:03:41,000 - 01:03:44,000] That's why people call these things tachyons.
+- [01:03:44,000 - 01:03:46,500] When somebody or other, and I
+- [01:03:46,500 - 01:03:49,000] have no idea who it was,
+- [01:03:49,000 - 01:03:51,500] first decided that it might be interesting to think
+- [01:03:51,500 - 01:03:54,000] about particles that move faster than the speed of light,
+- [01:03:54,000 - 01:03:56,000] they postulated a negative mass squared.
+- [01:03:57,000 - 01:03:59,000] Okay?
+- [01:03:59,000 - 01:04:02,000] The question is what is really wrong with that?
+- [01:04:02,000 - 01:04:04,500] Other than it seems to
+- [01:04:04,500 - 01:04:07,000] contradict something that Einstein taught us.
+- [01:04:16,000 - 01:04:19,000] What does a tachyon really mean?
+- [01:04:19,000 - 01:04:21,500] And the answer is it doesn't mean something moving or
+- [01:04:21,500 - 01:04:24,000] that sends, transmits signals faster than the speed of light.
+- [01:04:24,000 - 01:04:26,000] It means that the vacuum is unstable.
+- [01:04:26,000 - 01:04:30,000] It means that something can
+- [01:04:30,000 - 01:04:34,000] happen that can destabilize the system.
+- [01:04:34,000 - 01:04:37,000] That's the usual source of tachyons.
+- [01:04:37,000 - 01:04:39,000] So I'm going to give you an example.
+- [01:04:39,000 - 01:04:42,000] But first, let's think about wave equations.
+- [01:04:42,000 - 01:04:45,000] Let's start with wave equations.
+- [01:04:45,000 - 01:04:47,500] These equations are also ways
+- [01:04:47,500 - 01:04:50,000] of thinking about wave equations.
+- [01:04:50,000 - 01:04:52,000] Here's a wave equation.
+- [01:04:56,000 - 01:05:11,000] That's an ordinary wave equation for as a function.
+- [01:05:11,000 - 01:05:13,000] Let's read it this way.
+- [01:05:13,000 - 01:05:15,000] Okay.
+- [01:05:15,000 - 01:05:17,000] What kind of wave is that?
+- [01:05:17,000 - 01:05:18,000] What does it move with?
+- [01:05:18,000 - 01:05:20,000] Speed of what?
+- [01:05:20,000 - 01:05:24,000] d by dt squared.
+- [01:05:24,000 - 01:05:29,000] d by dt squared stands for omega squared, right?
+- [01:05:29,000 - 01:05:31,000] We've done this before.
+- [01:05:31,000 - 01:05:32,000] We've done this many times.
+- [01:05:32,000 - 01:05:35,000] If you have a wave, the time derivative,
+- [01:05:35,000 - 01:05:38,000] each time derivative gives you a factor of omega.
+- [01:05:38,000 - 01:05:42,000] What about each space derivative?
+- [01:05:42,000 - 01:05:43,000] k, right?
+- [01:05:43,000 - 01:05:45,000] Each space derivative gives you a k.
+- [01:05:45,000 - 01:05:48,500] So this equation says that omega squared
+- [01:05:48,500 - 01:05:52,000] equals k squared or omega equals k.
+- [01:05:52,000 - 01:05:54,000] I've left out the speed of light.
+- [01:05:54,000 - 01:05:56,000] I've set the speed of light equal to one.
+- [01:05:56,000 - 01:05:58,000] So what's the velocity of this wave?
+- [01:05:58,000 - 01:06:00,000] The omega decay.
+- [01:06:00,000 - 01:06:02,000] One.
+- [01:06:02,000 - 01:06:04,000] How do I turn it into something
+- [01:06:04,000 - 01:06:06,000] that moves slower than the speed of light?
+- [01:06:06,000 - 01:06:08,000] What do I add?
+- [01:06:14,000 - 01:06:16,000] If I want to add
+- [01:06:16,000 - 01:06:18,000] a mass term, here it is.
+- [01:06:18,000 - 01:06:20,000] We have...
+- [01:06:20,000 - 01:06:21,000] m squared times...
+- [01:06:21,000 - 01:06:23,000] Yeah.
+- [01:06:23,000 - 01:06:24,000] Which side?
+- [01:06:24,000 - 01:06:25,000] Can you figure that out?
+- [01:06:25,000 - 01:06:29,000] Is it this way?
+- [01:06:29,000 - 01:06:30,000] No, it's minus this way.
+- [01:06:30,000 - 01:06:31,000] It's minus.
+- [01:06:31,000 - 01:06:37,000] Minus m squared phi.
+- [01:06:37,000 - 01:06:38,000] Then we would have...
+- [01:06:38,000 - 01:06:42,500] Incidentally, is the derivative with respect to
+- [01:06:42,500 - 01:06:47,000] t, is that omega or i omega?
+- [01:06:47,000 - 01:06:49,000] i omega, right?
+- [01:06:49,000 - 01:06:50,000] If we have something that goes as follows.
+- [01:06:50,000 - 01:06:52,500] If we have something that goes as e to the i
+- [01:06:52,500 - 01:06:55,000] omega t and we differentiate it, it gives us an i omega.
+- [01:06:55,000 - 01:06:57,000] So this gives us...
+- [01:06:57,000 - 01:06:59,000] This is really another way
+- [01:06:59,000 - 01:07:01,000] of talking about minus omega squared.
+- [01:07:01,000 - 01:07:04,000] This is minus k squared.
+- [01:07:04,000 - 01:07:08,000] And this is minus m squared.
+- [01:07:08,000 - 01:07:10,000] Which is the same as omega
+- [01:07:10,000 - 01:07:12,000] squared equals k squared plus m squared.
+- [01:07:12,000 - 01:07:15,000] This one here.
+- [01:07:15,000 - 01:07:18,000] So this is what you do to...
+- [01:07:20,000 - 01:07:24,000] What does this correspond to in the energy?
+- [01:07:24,000 - 01:07:27,000] Do you remember what it corresponds
+- [01:07:27,000 - 01:07:30,000] to in the energy of the wave?
+- [01:07:30,000 - 01:07:33,500] The energy of the wave
+- [01:07:33,500 - 01:07:37,000] has d phi by dt squared.
+- [01:07:37,000 - 01:07:39,000] One half.
+- [01:07:39,000 - 01:07:42,000] It has plus d phi by dx squared.
+- [01:07:42,000 - 01:07:44,000] And this is...
+- [01:07:44,000 - 01:07:46,000] This is the energy of the wave.
+- [01:07:46,000 - 01:07:48,000] This is the energy of the wave.
+- [01:07:48,000 - 01:07:54,000] And this gives us plus m squared phi squared.
+- [01:07:54,000 - 01:07:58,000] Does anybody remember this from last quarter?
+- [01:07:58,000 - 01:08:02,000] Wave equations and the mass term...
+- [01:08:02,000 - 01:08:05,000] How you put in a mass for
+- [01:08:05,000 - 01:08:08,000] a particle in terms of the wave equations.
+- [01:08:08,000 - 01:08:10,000] Klein-Gordon equations with mass.
+- [01:08:10,000 - 01:08:12,000] This was the rule.
+- [01:08:12,000 - 01:08:16,000] Now notice that...
+- [01:08:16,000 - 01:08:18,000] Imagine...
+- [01:08:18,000 - 01:08:20,000] What is it? This is a
+- [01:08:20,000 - 01:08:22,000] kind of potential energy for the field.
+- [01:08:22,000 - 01:08:24,000] Notice that it's positive.
+- [01:08:24,000 - 01:08:27,000] It's positive if the mass is positive.
+- [01:08:27,000 - 01:08:33,000] That means that if you increase phi,
+- [01:08:33,000 - 01:08:36,000] the energy increases.
+- [01:08:36,000 - 01:08:40,000] The result of that is if you increase phi,
+- [01:08:40,000 - 01:08:42,000] it will oscillate back.
+- [01:08:42,000 - 01:08:44,000] It's just like a harmonic oscillator.
+- [01:08:44,000 - 01:08:46,500] A positive energy when you
+- [01:08:46,500 - 01:08:49,000] displace the field a little bit.
+- [01:08:49,000 - 01:08:51,000] And because you gain some energy,
+- [01:08:51,000 - 01:08:53,000] or it costs some energy,
+- [01:08:53,000 - 01:08:55,000] because it costs some potential energy,
+- [01:08:55,000 - 01:08:57,000] to increase phi,
+- [01:08:57,000 - 01:08:59,000] it will swing back.
+- [01:08:59,000 - 01:09:01,000] And the wave will oscillate.
+- [01:09:01,000 - 01:09:04,000] What would happen if you had a negative term here?
+- [01:09:04,000 - 01:09:08,000] So that the potential energy of phi looked like that.
+- [01:09:12,000 - 01:09:14,000] You fall off the cliff.
+- [01:09:14,000 - 01:09:17,000] You fall off the cliff.
+- [01:09:23,000 - 01:09:25,000] So it's an instability.
+- [01:09:25,000 - 01:09:28,000] It's an instability of the vacuum.
+- [01:09:28,000 - 01:09:30,500] If you thought that the
+- [01:09:30,500 - 01:09:33,000] vacuum was just phi equals zero,
+- [01:09:33,000 - 01:09:35,000] and you gave it a little push,
+- [01:09:35,000 - 01:09:37,000] down you would go.
+- [01:09:39,000 - 01:09:42,000] Here's a kind of interesting question.
+- [01:09:42,000 - 01:09:45,000] Supposing you really did start
+- [01:09:45,000 - 01:09:51,000] with phi very carefully balanced
+- [01:09:51,000 - 01:09:54,000] at the top of the potential everywheres.
+- [01:09:54,000 - 01:09:57,000] Everywheres in space, phi was
+- [01:09:57,000 - 01:10:00,000] absolutely balanced at the top.
+- [01:10:00,000 - 01:10:02,500] Well, it would sit that way
+- [01:10:02,500 - 01:10:05,000] forever if it were absolutely balanced.
+- [01:10:05,000 - 01:10:09,000] It would be like a sharp pencil, perfectly balanced.
+- [01:10:09,000 - 01:10:11,000] You give it a push, the tiniest push,
+- [01:10:11,000 - 01:10:13,000] and off it goes.
+- [01:10:13,000 - 01:10:17,000] But supposing you pushed it only at one point.
+- [01:10:17,000 - 01:10:20,000] You want a model for this.
+- [01:10:20,000 - 01:10:22,000] Can we make a model for this?
+- [01:10:22,000 - 01:10:23,000] Yeah, I can make a model for it.
+- [01:10:23,000 - 01:10:25,000] Here's a model for it to think about.
+- [01:10:25,000 - 01:10:28,000] You have a bunch of vertical pendulums.
+- [01:10:31,000 - 01:10:34,000] And they're coupled together by springs.
+- [01:10:35,000 - 01:10:38,000] They're in a gravitational field.
+- [01:10:38,000 - 01:10:40,000] If you set them all up,
+- [01:10:40,000 - 01:10:42,000] perfectly vertically,
+- [01:10:42,000 - 01:10:44,000] they will stay that way.
+- [01:10:44,000 - 01:10:47,000] If you only had a single pendulum,
+- [01:10:47,000 - 01:10:48,000] and you gave it a little push,
+- [01:10:48,000 - 01:10:50,000] what would happen?
+- [01:10:52,000 - 01:10:54,000] In fact, it wouldn't fly off to infinity,
+- [01:10:54,000 - 01:10:57,000] but it would make a big deviation
+- [01:10:57,000 - 01:10:59,000] from where it started.
+- [01:10:59,000 - 01:11:01,000] So the starting point was unstable.
+- [01:11:01,000 - 01:11:05,000] What happens if you push all of them simultaneously?
+- [01:11:05,000 - 01:11:07,000] Well, you know what happens.
+- [01:11:07,000 - 01:11:09,000] They all go flying over the top.
+- [01:11:09,000 - 01:11:11,000] But here's an interesting question.
+- [01:11:11,000 - 01:11:13,000] Supposing you pushed one of them,
+- [01:11:13,000 - 01:11:14,000] only one of them,
+- [01:11:14,000 - 01:11:16,000] this one right over here,
+- [01:11:16,000 - 01:11:22,000] how fast would the signal propagate outward?
+- [01:11:22,000 - 01:11:24,000] You push one of them,
+- [01:11:24,000 - 01:11:26,000] it pushes the next one,
+- [01:11:26,000 - 01:11:27,000] it pushes the next one,
+- [01:11:27,000 - 01:11:29,000] and sure enough, if you wait,
+- [01:11:29,000 - 01:11:31,000] they all go flopping over.
+- [01:11:31,000 - 01:11:33,000] But how fast does that signal spread out?
+- [01:11:33,000 - 01:11:36,000] It is sound, which is...
+- [01:11:36,000 - 01:11:38,000] Well, we're thinking about light being...
+- [01:11:39,000 - 01:11:41,000] the velocity of waves.
+- [01:11:41,000 - 01:11:43,000] Does it go faster than the speed of light,
+- [01:11:43,000 - 01:11:46,000] the way the tachyon suggests it might?
+- [01:11:46,000 - 01:11:48,000] It doesn't.
+- [01:11:48,000 - 01:11:49,000] It doesn't.
+- [01:11:49,000 - 01:11:51,000] The falling over, the domino effect,
+- [01:11:51,000 - 01:11:54,000] proceeds with the edge,
+- [01:11:54,000 - 01:11:56,000] or the outer boundary,
+- [01:11:56,000 - 01:12:00,000] the outer envelope of the domino effect,
+- [01:12:00,000 - 01:12:03,000] will spread out no faster than the speed of light.
+- [01:12:03,000 - 01:12:06,000] So the conclusion is that tachyons are not
+- [01:12:06,000 - 01:12:08,000] to be thought of as things that go faster
+- [01:12:08,000 - 01:12:10,000] than the speed of light.
+- [01:12:10,000 - 01:12:12,000] String theory has not provided a way
+- [01:12:12,000 - 01:12:14,000] of exceeding the speed of light.
+- [01:12:14,000 - 01:12:17,000] What it's done is it's given us a theory
+- [01:12:17,000 - 01:12:22,000] with an unstable vacuum.
+- [01:12:22,000 - 01:12:27,000] A little tiny push will destabilize the whole world.
+- [01:12:27,000 - 01:12:28,000] That's not a good thing.
+- [01:12:28,000 - 01:12:31,000] That's something that we need to avoid.
+- [01:12:31,000 - 01:12:35,000] And that's where superstring theory comes in.
+- [01:12:35,000 - 01:12:37,000] That's why we need it.
+- [01:12:37,000 - 01:12:39,000] That's why we have to do better than just this
+- [01:12:39,000 - 01:12:41,000] very simple string theory that I've described.
+- [01:12:41,000 - 01:12:43,000] But okay, so far what we've found,
+- [01:12:43,000 - 01:12:46,000] if we ignore the tachyon,
+- [01:12:46,000 - 01:12:48,000] just say somehow, by magic,
+- [01:12:48,000 - 01:12:50,000] we're going to get rid of it,
+- [01:12:50,000 - 01:12:52,000] we have found a theory which has
+- [01:12:52,000 - 01:12:55,000] a photon-like object in it.
+- [01:12:55,000 - 01:12:57,000] A massless photon-like object
+- [01:12:57,000 - 01:13:01,000] with two polarization states.
+- [01:13:01,000 - 01:13:06,000] And it's a candidate for something like the photon.
+- [01:13:06,000 - 01:13:10,000] I said to you that there are tricks and ways
+- [01:13:10,000 - 01:13:12,000] of getting rid of the tachyon.
+- [01:13:12,000 - 01:13:14,000] You might ask me, are there tricks and ways
+- [01:13:14,000 - 01:13:17,000] of getting rid of the photon-like object,
+- [01:13:17,000 - 01:13:19,000] the massless thing?
+- [01:13:19,000 - 01:13:21,000] Well, the answer is nobody ever found one.
+- [01:13:21,000 - 01:13:25,000] Within months of the discovery of string theory,
+- [01:13:25,000 - 01:13:26,500] people have figured out how
+- [01:13:26,500 - 01:13:28,000] to get rid of the tachyon.
+- [01:13:28,000 - 01:13:31,000] They never got rid of the photon-like object.
+- [01:13:31,000 - 01:13:32,500] Why might they have liked to
+- [01:13:32,500 - 01:13:34,000] get rid of the photon-like object?
+- [01:13:34,000 - 01:13:35,000] Massless spin-1-2.
+- [01:13:36,000 - 01:13:38,000] The photon-like object is a spin-1-2 particle.
+- [01:13:38,000 - 01:13:39,000] Why not?
+- [01:13:39,000 - 01:13:41,000] Well, it sounds like a good thing.
+- [01:13:41,000 - 01:13:44,000] It could be the photon.
+- [01:13:44,000 - 01:13:47,000] The reason was, at the time,
+- [01:13:47,000 - 01:13:48,500] string theory was not supposed
+- [01:13:48,500 - 01:13:50,000] to be a theory of photons.
+- [01:13:50,000 - 01:13:53,000] It was supposed to be a theory of hadrons,
+- [01:13:53,000 - 01:13:56,000] mesons, baryons,
+- [01:13:56,000 - 01:14:00,000] and there is no massless meson.
+- [01:14:00,000 - 01:14:01,000] There are no massless mesons.
+- [01:14:01,000 - 01:14:04,000] So this was thought to be a wart,
+- [01:14:04,000 - 01:14:06,000] not a feature.
+- [01:14:06,000 - 01:14:08,000] But at the time,
+- [01:14:08,000 - 01:14:10,000] people wanted to get rid of not only the tachyon,
+- [01:14:10,000 - 01:14:14,000] but also the massless photon-like object.
+- [01:14:14,000 - 01:14:15,500] In all the years that
+- [01:14:15,500 - 01:14:17,000] people have been doing string theory,
+- [01:14:17,000 - 01:14:19,000] the tachyon was very easy to get rid of,
+- [01:14:19,000 - 01:14:22,000] and nobody ever got rid of the spin-1 object,
+- [01:14:22,000 - 01:14:24,000] the photon.
+- [01:14:24,000 - 01:14:25,000] Yeah?
+- [01:14:25,000 - 01:14:27,000] Is this the one they decided
+- [01:14:27,000 - 01:14:29,000] comes out of string theory, the graviton?
+- [01:14:29,000 - 01:14:30,000] No, this is not the graviton yet.
+- [01:14:30,000 - 01:14:33,000] This so far is the photon.
+- [01:14:33,000 - 01:14:34,000] Or a...
+- [01:14:34,000 - 01:14:35,000] To call it the photon,
+- [01:14:35,000 - 01:14:37,000] would be a little bit misleading.
+- [01:14:37,000 - 01:14:39,500] There are many sources of
+- [01:14:39,500 - 01:14:42,000] a photon-like object in string theory.
+- [01:14:42,000 - 01:14:45,000] Which one is the real photon,
+- [01:14:45,000 - 01:14:47,000] and what do we do with all the others?
+- [01:14:47,000 - 01:14:49,000] Those are very model-dependent.
+- [01:14:49,000 - 01:14:51,000] Those depend on details.
+- [01:14:51,000 - 01:14:54,000] To say that this is the photon would be misleading.
+- [01:14:54,000 - 01:14:57,000] It is a photon-like object.
+- [01:14:57,000 - 01:14:59,000] It is a gauge boson.
+- [01:14:59,000 - 01:15:00,500] It is a thing which behaves
+- [01:15:00,500 - 01:15:02,000] like a photon in many ways.
+- [01:15:02,000 - 01:15:03,000] It is a thing which is a photon.
+- [01:15:03,000 - 01:15:04,000] It is a thing which is a photon.
+- [01:15:04,000 - 01:15:05,000] It is a thing which
+- [01:15:05,000 - 01:15:06,000] is a photon in many ways.
+- [01:15:06,000 - 01:15:10,000] And we'll need to come back to it,
+- [01:15:10,000 - 01:15:13,000] but I'll just show you this.
+- [01:15:13,000 - 01:15:15,000] Let's...
+- [01:15:15,000 - 01:15:17,000] Shall we...
+- [01:15:17,000 - 01:15:18,000] Hmm?
+- [01:15:18,000 - 01:15:20,000] To summarize,
+- [01:15:20,000 - 01:15:22,000] right now, if you develop it,
+- [01:15:22,000 - 01:15:25,000] you have an M squared less than zero,
+- [01:15:25,000 - 01:15:26,000] which is the tachyon.
+- [01:15:26,000 - 01:15:27,000] Yeah.
+- [01:15:27,000 - 01:15:28,000] And that's not allowed.
+- [01:15:28,000 - 01:15:29,000] Not allowed.
+- [01:15:29,000 - 01:15:30,000] And we're not yet at the point where
+- [01:15:30,000 - 01:15:31,000] we know how to get rid of it.
+- [01:15:31,000 - 01:15:32,000] I wouldn't say so much...
+- [01:15:32,000 - 01:15:33,000] I wouldn't say so much...
+- [01:15:33,000 - 01:15:35,000] I wouldn't say so much...
+- [01:15:35,000 - 01:15:40,000] From a strictly theoretical point of view,
+- [01:15:40,000 - 01:15:42,000] quantum mechanics with an
+- [01:15:42,000 - 01:15:44,000] upside-down potential is perfectly good.
+- [01:15:44,000 - 01:15:45,000] There's nothing wrong with it.
+- [01:15:45,000 - 01:15:47,000] It just doesn't have a ground state.
+- [01:15:47,000 - 01:15:48,000] And that's bad.
+- [01:15:48,000 - 01:15:49,000] Yeah.
+- [01:15:49,000 - 01:15:51,000] So...
+- [01:15:51,000 - 01:15:53,000] It doesn't look like the world.
+- [01:15:53,000 - 01:15:54,000] Now...
+- [01:15:54,000 - 01:15:55,000] Of course...
+- [01:15:55,000 - 01:15:56,000] Yeah.
+- [01:15:56,000 - 01:15:58,000] Good enough.
+- [01:15:58,000 - 01:15:59,500] In this case here, we know
+- [01:15:59,500 - 01:16:01,000] what would happen to these guys.
+- [01:16:01,000 - 01:16:02,000] They would just turn over,
+- [01:16:02,000 - 01:16:05,000] and I'll wind up oscillating about the bottom.
+- [01:16:05,000 - 01:16:06,000] Okay?
+- [01:16:06,000 - 01:16:08,000] Here, who knows if there's a bottom?
+- [01:16:08,000 - 01:16:10,000] Yeah.
+- [01:16:10,000 - 01:16:14,000] To get to gravitons, we have to study something new.
+- [01:16:14,000 - 01:16:17,000] Something new is closed strings.
+- [01:16:17,000 - 01:16:20,000] So far, these are open strings.
+- [01:16:20,000 - 01:16:23,000] Open strings means they have two ends.
+- [01:16:23,000 - 01:16:26,000] Ends, period.
+- [01:16:26,000 - 01:16:29,000] It's hard to have a string with one end.
+- [01:16:29,000 - 01:16:31,000] Unless you're a Buddhist.
+- [01:16:32,000 - 01:16:38,000] Never mind.
+- [01:16:38,000 - 01:16:48,000] Zen Buddhist.
+- [01:16:48,000 - 01:16:51,000] I apologize to any Zen Buddhists in the class.
+- [01:16:51,000 - 01:16:54,500] It seems that you're looking at
+- [01:16:54,500 - 01:16:58,000] the properties of photons with polarization
+- [01:16:58,000 - 01:17:00,000] and the properties of these strings,
+- [01:17:00,000 - 01:17:01,000] and...
+- [01:17:01,000 - 01:17:04,000] As far as that goes, it matches up.
+- [01:17:04,000 - 01:17:05,000] Yeah.
+- [01:17:05,000 - 01:17:07,000] Are there other properties of photons and
+- [01:17:07,000 - 01:17:09,000] other properties of strings that also match up?
+- [01:17:09,000 - 01:17:10,000] Absolutely.
+- [01:17:10,000 - 01:17:11,000] Absolutely.
+- [01:17:11,000 - 01:17:15,000] Yeah.
+- [01:17:15,000 - 01:17:17,000] The interesting question is what would have
+- [01:17:17,000 - 01:17:19,000] to do with the radiation of photons.
+- [01:17:19,000 - 01:17:21,000] Now, to have a radiation of photons,
+- [01:17:21,000 - 01:17:25,000] you have to have objects which carry charge.
+- [01:17:25,000 - 01:17:27,000] We haven't yet discussed what
+- [01:17:27,000 - 01:17:29,000] kind of objects might correspond
+- [01:17:29,000 - 01:17:32,000] to the things which carry charge.
+- [01:17:32,000 - 01:17:35,500] But once if we found string
+- [01:17:35,500 - 01:17:39,000] objects which played the role of charges,
+- [01:17:39,000 - 01:17:41,000] we could ask, if we knew the rules,
+- [01:17:41,000 - 01:17:43,000] and we're going to talk about the rules,
+- [01:17:43,000 - 01:17:46,500] we could ask about the rules
+- [01:17:46,500 - 01:17:50,000] of emission of photons by accelerated charges.
+- [01:17:50,000 - 01:17:52,000] And the answer is yes.
+- [01:17:52,000 - 01:17:54,500] We would find out that they behave exactly
+- [01:17:54,500 - 01:17:57,000] the same way that emission of photons is.
+- [01:17:57,000 - 01:18:02,000] That emission of photons from charged particles works.
+- [01:18:02,000 - 01:18:03,000] Definite rules.
+- [01:18:03,000 - 01:18:06,000] Definite rules, definite probability
+- [01:18:06,000 - 01:18:09,000] distributions, definite radiation patterns.
+- [01:18:09,000 - 01:18:16,000] And those patterns would be reproduced quite precisely.
+- [01:18:16,000 - 01:18:19,000] So, yeah.
+- [01:18:19,000 - 01:18:20,000] Okay.
+- [01:18:20,000 - 01:18:24,000] Let's move on.
+- [01:18:24,000 - 01:18:26,000] I think I mentioned this last time, but...
+- [01:18:26,000 - 01:18:31,000] I'll tell you anyway.
+- [01:18:31,000 - 01:18:36,000] The basic process of interaction that takes place.
+- [01:18:36,000 - 01:18:39,000] So far, we're talking about free strings.
+- [01:18:39,000 - 01:18:44,000] Free strings means an isolated string moving by itself,
+- [01:18:44,000 - 01:18:47,000] unaccompanied by any other,
+- [01:18:47,000 - 01:18:53,000] and doing nothing except propagating along some axis,
+- [01:18:53,000 - 01:18:56,000] and doing its own internal wiggles,
+- [01:18:56,000 - 01:18:59,000] but its wiggles, the manifestations of its wiggles,
+- [01:18:59,000 - 01:19:02,500] are simply a discrete collection of
+- [01:19:02,500 - 01:19:06,000] energy levels and also angular momentum.
+- [01:19:06,000 - 01:19:11,000] A string can move internally in many ways.
+- [01:19:11,000 - 01:19:14,000] For example, one of the ways it can move...
+- [01:19:14,000 - 01:19:19,000] Remember, these strings, the mathematics of them,
+- [01:19:19,000 - 01:19:21,000] is the mathematics of non-relativistic strings.
+- [01:19:21,000 - 01:19:23,000] One of the things a string
+- [01:19:23,000 - 01:19:25,000] can do is it can rotate.
+- [01:19:25,000 - 01:19:29,000] It can rotate about an axis.
+- [01:19:29,000 - 01:19:32,000] Rotate like a dumbbell about an axis.
+- [01:19:32,000 - 01:19:35,000] The centrifugal force being the
+- [01:19:35,000 - 01:19:38,000] thing which stretches it out.
+- [01:19:38,000 - 01:19:40,000] So this must be something
+- [01:19:40,000 - 01:19:42,000] that these relativistic strings can do.
+- [01:19:42,000 - 01:19:44,000] This means that they can
+- [01:19:44,000 - 01:19:46,000] have all sorts of angular momenta.
+- [01:19:46,000 - 01:19:48,000] Not just one unit of angular
+- [01:19:48,000 - 01:19:50,000] momentum or two units of angular momentum,
+- [01:19:50,000 - 01:19:52,000] but you can spin them up.
+- [01:19:52,000 - 01:19:54,000] But when you do,
+- [01:19:54,000 - 01:19:56,000] because we're doing quantum mechanics,
+- [01:19:56,000 - 01:19:59,000] each unit of angular momentum costs
+- [01:19:59,000 - 01:20:02,000] you an additional unit of energy.
+- [01:20:02,000 - 01:20:04,000] Can you have pitch-pole rotation?
+- [01:20:04,000 - 01:20:05,000] Can you have what?
+- [01:20:05,000 - 01:20:06,000] Pitch-pole rotation.
+- [01:20:06,000 - 01:20:07,000] What's a pitch-pole rotation?
+- [01:20:07,000 - 01:20:09,000] Like one of them stays in the other.
+- [01:20:09,000 - 01:20:10,000] No.
+- [01:20:10,000 - 01:20:11,000] That's not possible.
+- [01:20:11,000 - 01:20:14,000] No, they'll rotate about the center of mass.
+- [01:20:14,000 - 01:20:16,000] Right.
+- [01:20:19,000 - 01:20:22,000] Any system, when it's rotating,
+- [01:20:22,000 - 01:20:25,000] will rotate about its center of mass.
+- [01:20:25,000 - 01:20:27,000] So the question is where is the center of mass?
+- [01:20:27,000 - 01:20:29,500] And if it's a nice straight
+- [01:20:29,500 - 01:20:32,000] string like this rotating about an axis,
+- [01:20:32,000 - 01:20:33,000] of course the center of
+- [01:20:33,000 - 01:20:34,000] mass would be at the center.
+- [01:20:34,000 - 01:20:40,000] So,
+- [01:20:40,000 - 01:20:41,500] of course if you had something to
+- [01:20:41,500 - 01:20:43,000] anchor the end of the string to,
+- [01:20:43,000 - 01:20:47,000] then it could swing around that anchor.
+- [01:20:47,000 - 01:20:50,000] And there are anchors in string theory.
+- [01:20:50,000 - 01:20:53,000] Could it swing around the energy level of an atom?
+- [01:20:53,000 - 01:20:54,000] Can it?
+- [01:20:54,000 - 01:20:57,000] Like the photons holding the electrons
+- [01:20:57,000 - 01:21:00,000] in the center of the atom,
+- [01:21:00,000 - 01:21:03,000] can it pitch-pole out from that?
+- [01:21:03,000 - 01:21:05,000] You're asking whether an electron
+- [01:21:05,000 - 01:21:07,000] can circulate around a nucleus.
+- [01:21:07,000 - 01:21:10,000] The electron circulates around a nucleus.
+- [01:21:10,000 - 01:21:14,000] The reason that the electron circulates around a nucleus
+- [01:21:14,000 - 01:21:16,000] with the nucleus standing still
+- [01:21:16,000 - 01:21:19,000] is because the nucleus is very heavy.
+- [01:21:19,000 - 01:21:22,000] So the center, really, strictly speaking,
+- [01:21:22,000 - 01:21:25,000] they both rotate about a common center of mass.
+- [01:21:27,000 - 01:21:29,500] But because the nucleus is a couple
+- [01:21:29,500 - 01:21:32,000] of thousand times heavier than the electron,
+- [01:21:32,000 - 01:21:35,000] it looks like the nucleus is not moving.
+- [01:21:38,000 - 01:21:40,000] What did you call this, pitch-pole?
+- [01:21:40,000 - 01:21:42,000] Pitch-polling.
+- [01:21:42,000 - 01:21:45,000] Where you pull this in fixed,
+- [01:21:45,000 - 01:21:47,000] and this end rotates and gets thrown out.
+- [01:21:47,000 - 01:21:49,000] It's like the Scottish do,
+- [01:21:49,000 - 01:21:51,000] with the big logs and pitch-polling.
+- [01:21:51,000 - 01:21:53,000] Oh, yes.
+- [01:21:57,000 - 01:21:59,000] No, I don't know.
+- [01:22:02,000 - 01:22:05,000] I thought it was the Jews who invented that.
+- [01:22:05,000 - 01:22:07,000] Ah, the Russians.
+- [01:22:10,000 - 01:22:12,000] Yes.
+- [01:22:12,000 - 01:22:13,000] Okay.
+- [01:22:13,000 - 01:22:16,000] The basic process of interaction
+- [01:22:16,000 - 01:22:18,000] that allows strings to talk to each other,
+- [01:22:18,000 - 01:22:19,000] to interact with each other,
+- [01:22:19,000 - 01:22:21,000] to do things,
+- [01:22:21,000 - 01:22:23,000] I think I discussed this last time,
+- [01:22:23,000 - 01:22:24,000] but I'll tell you what it is.
+- [01:22:24,000 - 01:22:26,000] We're not going to do anything mathematical with it tonight.
+- [01:22:26,000 - 01:22:28,500] We will try to describe
+- [01:22:28,500 - 01:22:31,000] this a little bit mathematically later,
+- [01:22:31,000 - 01:22:33,000] but just qualitatively.
+- [01:22:33,000 - 01:22:36,000] The things that happen,
+- [01:22:36,000 - 01:22:39,000] particularly to these open strings,
+- [01:22:42,000 - 01:22:44,000] is very simple.
+- [01:22:44,000 - 01:22:46,000] It's really the only process.
+- [01:22:46,000 - 01:22:48,000] Everything is built out of it.
+- [01:22:48,000 - 01:22:52,000] And we're going to find even a simpler description,
+- [01:22:52,000 - 01:22:54,000] but at the moment, this is very simple.
+- [01:22:54,000 - 01:22:57,000] The only thing that happens,
+- [01:22:57,000 - 01:23:01,000] apart from these strings wiggling and doing their own thing,
+- [01:23:01,000 - 01:23:02,500] the only thing that allows
+- [01:23:02,500 - 01:23:04,000] them to talk to each other
+- [01:23:04,000 - 01:23:07,000] is that when endpoints
+- [01:23:07,000 - 01:23:10,000] find themselves at coincident points in space,
+- [01:23:10,000 - 01:23:12,000] in other words, when they touch,
+- [01:23:12,000 - 01:23:14,000] there is a probability
+- [01:23:14,000 - 01:23:18,000] or let's call it an amplitude
+- [01:23:18,000 - 01:23:20,000] for them to join.
+- [01:23:24,000 - 01:23:27,000] That's called a joining interaction.
+- [01:23:27,000 - 01:23:29,000] So there is some probability.
+- [01:23:29,000 - 01:23:31,000] They don't inevitably do it.
+- [01:23:31,000 - 01:23:33,000] There is a constant in the theory.
+- [01:23:33,000 - 01:23:36,000] It's called the string coupling constant.
+- [01:23:36,000 - 01:23:38,000] And what it does is
+- [01:23:38,000 - 01:23:40,000] it takes a pair of strings,
+- [01:23:40,000 - 01:23:42,000] here's a pair of strings
+- [01:23:42,000 - 01:23:44,000] moving along in space-time,
+- [01:23:44,000 - 01:23:46,000] upward is time,
+- [01:23:46,000 - 01:23:48,000] there's a string,
+- [01:23:48,000 - 01:23:51,000] here comes another string,
+- [01:23:51,000 - 01:23:54,000] their endpoints meet at this point,
+- [01:23:54,000 - 01:23:57,000] and they join together to form a single string.
+- [01:23:57,000 - 01:24:00,000] That's the analog
+- [01:24:00,000 - 01:24:02,000] in string theory
+- [01:24:02,000 - 01:24:06,000] of what in quantum field theory is the vertex,
+- [01:24:06,000 - 01:24:08,000] where two particles come together and join
+- [01:24:08,000 - 01:24:10,000] and make a third particle.
+- [01:24:10,000 - 01:24:12,000] This could be an electron
+- [01:24:12,000 - 01:24:13,000] and an electron
+- [01:24:13,000 - 01:24:15,000] and a photon,
+- [01:24:15,000 - 01:24:18,000] or it could be any of the other interactions
+- [01:24:18,000 - 01:24:20,000] that we've studied.
+- [01:24:20,000 - 01:24:21,000] Two particles come together,
+- [01:24:21,000 - 01:24:23,000] join and make a third particle.
+- [01:24:23,000 - 01:24:25,000] Two strings come together,
+- [01:24:25,000 - 01:24:28,000] join and make a third string.
+- [01:24:28,000 - 01:24:30,000] But the process is very simple.
+- [01:24:30,000 - 01:24:32,000] It doesn't just happen any old way.
+- [01:24:32,000 - 01:24:36,000] It happens by the endpoints coming together,
+- [01:24:36,000 - 01:24:38,000] touching,
+- [01:24:38,000 - 01:24:42,000] and combining to form a single string.
+- [01:24:42,000 - 01:24:46,000] Now, anything that can happen in quantum mechanics
+- [01:24:46,000 - 01:24:48,000] can unhappen,
+- [01:24:48,000 - 01:24:50,000] meaning to say that quantum mechanics
+- [01:24:50,000 - 01:24:53,000] is a reversible theory.
+- [01:24:53,000 - 01:24:56,000] Anything that can happen in time in one direction
+- [01:24:56,000 - 01:25:00,000] can happen the opposite way in time.
+- [01:25:00,000 - 01:25:03,000] So that means that there is also an amplitude
+- [01:25:03,000 - 01:25:09,000] for a single string to break and form ends.
+- [01:25:09,000 - 01:25:12,000] If that probability were large,
+- [01:25:12,000 - 01:25:14,000] the string would have very little integrity.
+- [01:25:14,000 - 01:25:18,000] It would constantly be breaking up.
+- [01:25:18,000 - 01:25:21,000] If that probability is very small,
+- [01:25:21,000 - 01:25:24,000] then the string might last a long time
+- [01:25:24,000 - 01:25:27,000] before it breaks up like that.
+- [01:25:27,000 - 01:25:32,000] So one of the assumptions in string theory
+- [01:25:32,000 - 01:25:35,000] is that this probability is small.
+- [01:25:35,000 - 01:25:38,000] The probability is called the string coupling constant.
+- [01:25:38,000 - 01:25:39,000] I think I said that.
+- [01:25:39,000 - 01:25:41,000] And it's the analog of the constant
+- [01:25:41,000 - 01:25:43,000] of nature, which would be,
+- [01:25:43,000 - 01:25:48,000] what would it be for the electron-electron photon?
+- [01:25:48,000 - 01:25:50,000] It would be the electric charge.
+- [01:25:50,000 - 01:25:52,000] It would be the fine-structure constant, right.
+- [01:25:52,000 - 01:25:54,000] It would be the square of the electric charge,
+- [01:25:54,000 - 01:25:56,000] that probability.
+- [01:25:56,000 - 01:25:59,000] Probability is the squares of amplitudes.
+- [01:25:59,000 - 01:26:02,000] So the probability for two strings to join
+- [01:26:02,000 - 01:26:06,000] is like the electric charge.
+- [01:26:06,000 - 01:26:07,000] But it's the same.
+- [01:26:07,000 - 01:26:09,000] It's quite independent
+- [01:26:09,000 - 01:26:10,000] of which kinds of strings
+- [01:26:10,000 - 01:26:12,000] are joining in the sense that
+- [01:26:12,000 - 01:26:14,000] they could be the excited strings,
+- [01:26:14,000 - 01:26:16,000] they could be the rotating strings,
+- [01:26:16,000 - 01:26:18,000] they could be the vibrating strings.
+- [01:26:18,000 - 01:26:21,000] There's some probability when two endpoints
+- [01:26:21,000 - 01:26:24,000] touch each other that they fuse.
+- [01:26:24,000 - 01:26:26,000] And that same probability,
+- [01:26:26,000 - 01:26:28,000] that if the string is just moving along,
+- [01:26:28,000 - 01:26:30,000] minding its own business,
+- [01:26:30,000 - 01:26:33,000] that a, that, what's the opposite of fuse?
+- [01:26:33,000 - 01:26:36,000] Fish.
+- [01:26:36,000 - 01:26:38,000] Right.
+- [01:26:38,000 - 01:26:40,000] It can fuse or it can fish.
+- [01:26:40,000 - 01:26:42,000] Break.
+- [01:26:42,000 - 01:26:44,000] Break anywhere along its length.
+- [01:26:44,000 - 01:26:46,000] And those are,
+- [01:26:46,000 - 01:26:49,000] all right, so,
+- [01:26:49,000 - 01:26:52,000] this is the basic structure.
+- [01:26:52,000 - 01:26:54,000] But one of the things that can happen
+- [01:26:54,000 - 01:26:58,000] is just like a snake which encounters its own tail
+- [01:26:58,000 - 01:27:00,000] and is too stupid to know
+- [01:27:00,000 - 01:27:02,000] that it's found its own tail,
+- [01:27:02,000 - 01:27:04,000] might bite its own tail,
+- [01:27:04,000 - 01:27:06,000] the same thing can happen with strings.
+- [01:27:06,000 - 01:27:08,000] They're also rather stupid.
+- [01:27:08,000 - 01:27:12,000] And if the string happens to come around like that,
+- [01:27:12,000 - 01:27:14,000] in the course of its evolution,
+- [01:27:14,000 - 01:27:16,000] it might just do that.
+- [01:27:16,000 - 01:27:18,000] And when it does,
+- [01:27:18,370 - 01:27:19,522] بحد
+- [01:27:19,522 - 01:27:23,322] detects a tail, and guess what happens?
+- [01:27:23,822 - 01:27:25,222] They join.
+- [01:27:26,782 - 01:27:30,162] So it's inevitable. There is no way around it
+- [01:27:30,162 - 01:27:32,772] that if you have a theory of
+- [01:27:32,772 - 01:27:35,382] open strings, and those open strings interact
+- [01:27:35,382 - 01:27:38,382] in other words, have this
+- [01:27:38,382 - 01:27:41,382] joining and splitting process happening,
+- [01:27:41,382 - 01:27:43,982] then it is quite inevitable that the
+- [01:27:43,982 - 01:27:46,582] same theory has to have closed strings.
+- [01:27:46,582 - 01:27:49,682] Closed strings are unavoidable.
+- [01:27:50,742 - 01:27:52,742] Can you have a theory with closed?
+- [01:27:52,742 - 01:27:55,342] We're going to work out the mathematics of closed strings.
+- [01:27:55,342 - 01:27:57,342] I don't think we're going to do it tonight.
+- [01:27:57,342 - 01:27:58,342] We'll work out the math.
+- [01:27:58,342 - 01:28:00,092] The mathematics of closed strings
+- [01:28:00,092 - 01:28:01,842] is very similar to open strings.
+- [01:28:01,842 - 01:28:03,842] We'll work it out.
+- [01:28:03,842 - 01:28:05,842] Question?
+- [01:28:05,842 - 01:28:09,242] When you have these fission and fusion situations,
+- [01:28:09,242 - 01:28:11,242] does that change the energy state of the string?
+- [01:28:11,242 - 01:28:14,242] Yeah. Yes, it does.
+- [01:28:14,242 - 01:28:15,582] Does the theory say how?
+- [01:28:15,582 - 01:28:16,242] Yes.
+- [01:28:16,242 - 01:28:16,582] Absolutely.
+- [01:28:16,582 - 01:28:18,582] Absolutely. It does.
+- [01:28:20,582 - 01:28:22,582] But for our purposes now, I
+- [01:28:22,582 - 01:28:24,582] just wanted to motivate for you
+- [01:28:24,582 - 01:28:29,582] why closed strings are inevitable in a theory of strings,
+- [01:28:29,582 - 01:28:31,582] or in a theory of interacting strings.
+- [01:28:31,582 - 01:28:35,082] Now, what about a theory of closed
+- [01:28:35,082 - 01:28:38,582] strings that ab initio starts with closed strings?
+- [01:28:38,582 - 01:28:42,582] Is it inevitable that there will always be open strings?
+- [01:28:42,582 - 01:28:45,582] No. No. Hmm?
+- [01:28:46,582 - 01:28:51,582] I mean, I don't agree.
+- [01:28:51,582 - 01:28:53,082] It doesn't make sense to me
+- [01:28:53,082 - 01:28:54,582] that there would have to be.
+- [01:28:54,582 - 01:28:56,582] It doesn't make sense that there would have to be.
+- [01:28:56,582 - 01:28:58,582] But then you can ask, all right, but
+- [01:28:58,582 - 01:29:00,582] then how do closed strings interact with each other
+- [01:29:00,582 - 01:29:02,582] if they don't interact by
+- [01:29:02,582 - 01:29:04,582] splitting and then touching other strings?
+- [01:29:04,582 - 01:29:06,582] And the way they interact is different.
+- [01:29:06,582 - 01:29:10,582] They interact, here's two closed strings,
+- [01:29:10,582 - 01:29:12,582] and they come together,
+- [01:29:12,582 - 01:29:14,582] and then fuse to form a string.
+- [01:29:14,582 - 01:29:15,582] And then fuse to form a string.
+- [01:29:15,582 - 01:29:18,582] And then fuse to form another closed string.
+- [01:29:18,582 - 01:29:21,582] At no point did they ever form open strings.
+- [01:29:21,582 - 01:29:23,582] They came together like this,
+- [01:29:23,582 - 01:29:26,582] touched, and formed another closed string.
+- [01:29:26,582 - 01:29:30,582] So the answer is, it is quite possible
+- [01:29:30,582 - 01:29:33,582] to have theories of pure closed strings
+- [01:29:33,582 - 01:29:35,582] with no open strings,
+- [01:29:35,582 - 01:29:37,582] but it is not possible to
+- [01:29:37,582 - 01:29:39,582] have a theory of open strings
+- [01:29:39,582 - 01:29:41,582] without closed strings.
+- [01:29:43,582 - 01:29:44,582] That's interesting.
+- [01:29:44,582 - 01:29:46,342] It means that a prediction of string theory
+- [01:29:46,342 - 01:29:48,582] It means that a prediction of string theory
+- [01:29:49,322 - 01:29:51,582] is that there are closed strings.
+- [01:29:51,582 - 01:29:53,082] There is not a prediction of string
+- [01:29:53,082 - 01:29:54,582] theory that there will exist open strings.
+- [01:29:54,582 - 01:29:56,582] It is a prediction of string theory
+- [01:29:56,582 - 01:29:59,582] that there must exist closed strings.
+- [01:29:59,582 - 01:30:02,582] Just because they can be closed,
+- [01:30:02,582 - 01:30:04,582] they can be open string theories.
+- [01:30:04,582 - 01:30:05,582] No.
+- [01:30:05,582 - 01:30:08,582] They can be closed string theories without open strings.
+- [01:30:08,582 - 01:30:10,582] What do you think the,
+- [01:30:10,582 - 01:30:11,582] the clos,
+- [01:30:11,582 - 01:30:12,582] if they open string,
+- [01:30:12,582 - 01:30:13,182] if the,
+- [01:30:13,182 - 01:30:14,582] if the closed string,
+- [01:30:14,582 - 01:30:20,582] interesting low excitation of an open string is a photon
+- [01:30:20,582 - 01:30:23,082] what do you think the interesting excitation,
+- [01:30:23,082 - 01:30:25,582] lowest excitation of a closed string is?
+- [01:30:25,582 - 01:30:27,582] absolute
+- [01:30:27,582 - 01:30:29,582] the graviton
+- [01:30:29,582 - 01:30:33,582] and so one of the things that string theory
+- [01:30:33,582 - 01:30:38,582] literally predicts because you can't not have it is gravity
+- [01:30:38,582 - 01:30:41,082] there are many many string
+- [01:30:41,082 - 01:30:43,582] theories that have things like electromagnetism
+- [01:30:43,582 - 01:30:45,582] but some of them don't
+- [01:30:45,582 - 01:30:48,582] but there is no string theory that doesn't have gravity
+- [01:30:48,582 - 01:30:52,582] every string theory necessarily has gravity
+- [01:30:52,582 - 01:30:54,582] just because it will have close
+- [01:30:54,582 - 01:30:56,082] I never heard of a string
+- [01:30:56,082 - 01:30:57,582] theory that didn't have closed strings
+- [01:30:57,582 - 01:30:59,582] it's got to have some kind of strings
+- [01:30:59,582 - 01:31:02,582] why is a string theory closed string necessarily gravity?
+- [01:31:02,582 - 01:31:05,582] ah well that's what we're going to come to
+- [01:31:05,582 - 01:31:08,582] why was the open string necessarily photons?
+- [01:31:08,582 - 01:31:10,582] well we did some manipulations and
+- [01:31:10,582 - 01:31:12,582] found out it was the only interpretation
+- [01:31:12,582 - 01:31:13,082] well we did some manipulations and
+- [01:31:13,082 - 01:31:13,582] found out it was the only interpretation
+- [01:31:13,582 - 01:31:15,582] we'll do the same thing exactly
+- [01:31:15,582 - 01:31:17,582] the same thing with closed strings
+- [01:31:17,582 - 01:31:19,082] exactly the same thing I
+- [01:31:19,082 - 01:31:20,582] don't think we have time tonight
+- [01:31:20,582 - 01:31:23,582] can an open string convert a
+- [01:31:23,582 - 01:31:26,582] closed string into an open one?
+- [01:31:26,582 - 01:31:30,582] if
+- [01:31:30,582 - 01:31:33,582] in some string theories
+- [01:31:33,582 - 01:31:38,582] the rules involve the splitting and joining process
+- [01:31:38,582 - 01:31:40,582] in those string theories a closed
+- [01:31:40,582 - 01:31:42,582] string can become an open string
+- [01:31:43,582 - 01:31:47,582] but there are also string theories that don't have
+- [01:31:47,582 - 01:31:50,582] this particular process of breaking like this
+- [01:31:50,582 - 01:31:53,582] well if they do have open
+- [01:31:53,582 - 01:31:56,582] strings will that also be possible?
+- [01:31:56,582 - 01:31:57,582] which? which?
+- [01:31:57,582 - 01:31:59,082] if you have a string theory
+- [01:31:59,082 - 01:32:00,582] that has both open and closed
+- [01:32:00,582 - 01:32:04,082] then can a closed one be interact with
+- [01:32:04,082 - 01:32:07,582] an open one such that it becomes open?
+- [01:32:07,582 - 01:32:09,582] yeah there's a number of ways that a
+- [01:32:09,582 - 01:32:11,582] closed string can interact with an open string
+- [01:32:11,582 - 01:32:12,582] but the simplest is the following
+- [01:32:12,582 - 01:32:25,582] but the simplest is the following
+- [01:32:25,582 - 01:32:27,582] once you have closed strings
+- [01:32:27,582 - 01:32:29,582] in fact
+- [01:32:29,582 - 01:32:30,582] once you have them
+- [01:32:30,582 - 01:32:33,582] this is even implicit in open string theory
+- [01:32:33,582 - 01:32:34,582] you can have
+- [01:32:34,582 - 01:32:36,582] the basic thing that can happen
+- [01:32:36,582 - 01:32:38,582] is two ends can touch and join
+- [01:32:38,582 - 01:32:40,582] but there's something else that can happen
+- [01:32:40,582 - 01:32:41,582] the other thing that can happen
+- [01:32:41,582 - 01:32:44,582] is two strings can touch at
+- [01:32:44,582 - 01:32:47,582] a point which is not an end
+- [01:32:47,582 - 01:32:54,582] and then they can rearrange
+- [01:32:54,582 - 01:32:55,582] alright
+- [01:32:55,582 - 01:32:56,582] so let's see what we started with
+- [01:32:56,582 - 01:32:58,582] we started with two strings
+- [01:32:58,582 - 01:32:59,582] did we start with two or one?
+- [01:32:59,582 - 01:33:01,582] yeah we started with two
+- [01:33:01,582 - 01:33:02,582] this way
+- [01:33:02,582 - 01:33:07,582] and this became this
+- [01:33:07,582 - 01:33:09,582] again it's the same process
+- [01:33:09,582 - 01:33:10,582] where two things come in touch
+- [01:33:10,582 - 01:33:12,582] and then rearrange
+- [01:33:12,582 - 01:33:13,582] alright
+- [01:33:13,582 - 01:33:14,582] that's a process that can happen
+- [01:33:14,582 - 01:33:15,582] in string theory
+- [01:33:15,582 - 01:33:16,582] I will have to prove
+- [01:33:16,582 - 01:33:17,582] to you that it can happen
+- [01:33:17,582 - 01:33:19,582] I'm telling you now
+- [01:33:19,582 - 01:33:22,082] ok so let's see what happens if
+- [01:33:22,082 - 01:33:24,582] you have a closed and open string
+- [01:33:24,582 - 01:33:27,582] if you have a closed and open string
+- [01:33:27,582 - 01:33:28,582] the closed string
+- [01:33:28,582 - 01:33:30,582] here's the closed string
+- [01:33:30,582 - 01:33:33,582] the simplest thing that can happen
+- [01:33:33,582 - 01:33:35,582] is the closed string can come
+- [01:33:35,582 - 01:33:36,582] here's the closed string
+- [01:33:36,582 - 01:33:37,582] and then it comes
+- [01:33:37,582 - 01:33:38,582] and then it comes
+- [01:33:38,582 - 01:33:40,582] touch the open string
+- [01:33:41,582 - 01:33:43,582] start the open to you
+- [01:33:43,582 - 01:33:45,582] touch the open string
+- [01:33:45,582 - 01:33:47,582] rearrange
+- [01:33:47,582 - 01:33:48,582] and now
+- [01:33:48,582 - 01:33:49,582] what is it informed?
+- [01:33:49,582 - 01:33:50,582] one big open string
+- [01:33:50,582 - 01:33:52,582] one big open string
+- [01:33:52,582 - 01:33:54,582] ok so let's think about what that means
+- [01:33:54,582 - 01:33:56,582] that means an open string
+- [01:33:56,582 - 01:33:58,582] is moving along to begin with
+- [01:34:00,582 - 01:34:02,582] let,s draw it
+- [01:34:02,582 - 01:34:04,582] here's our open string
+- [01:34:04,582 - 01:34:09,882] A closed string comes along, closed,
+- [01:34:09,882 - 01:34:15,182] and what's left over at the end?
+- [01:34:16,062 - 01:34:17,182] Open.
+- [01:34:17,182 - 01:34:17,302] Open.
+- [01:34:20,102 - 01:34:24,172] That process will turn into the absorption of a
+- [01:34:24,172 - 01:34:28,242] graviton by a particle which is not a graviton.
+- [01:34:29,862 - 01:34:32,342] So here's something we found out.
+- [01:34:32,342 - 01:34:35,982] Closed strings can absorb gravitons.
+- [01:34:37,121 - 01:34:38,181] Same way.
+- [01:34:39,342 - 01:34:41,422] Open strings can absorb gravitons.
+- [01:34:42,042 - 01:34:46,562] In fact, everything can absorb a graviton.
+- [01:34:47,142 - 01:34:49,822] That, in string theory, is why everything gravitates.
+- [01:34:50,702 - 01:34:56,122] In essence, and in a simple-minded way, the fact that an open string or
+- [01:34:56,122 - 01:35:01,542] a closed string can always absorb a graviton by this process is the ultimate...
+- [01:35:01,542 - 01:35:02,322] Well, it's...
+- [01:35:02,322 - 01:35:04,692] One of the ways of
+- [01:35:04,692 - 01:35:07,062] thinking about the universality of gravitation.
+- [01:35:10,042 - 01:35:14,942] Do we ever get into locked and closed loops?
+- [01:35:15,442 - 01:35:16,002] Say it again.
+- [01:35:16,462 - 01:35:16,702] Oh.
+- [01:35:17,462 - 01:35:18,222] Yeah, well...
+- [01:35:18,222 - 01:35:20,002] Okay, we should talk about that.
+- [01:35:22,402 - 01:35:25,012] In weakly coupled string theory, where the interaction
+- [01:35:25,012 - 01:35:27,622] is weak, the strings are transparent to each other.
+- [01:35:28,482 - 01:35:31,782] But they can do this, but with a small probability.
+- [01:35:31,782 - 01:35:31,942] With a small probability.
+- [01:35:31,942 - 01:35:32,022] With a small probability.
+- [01:35:32,102 - 01:35:32,142] With a small probability.
+- [01:35:32,142 - 01:35:32,282] With a small probability.
+- [01:35:32,282 - 01:35:32,302] With a small probability.
+- [01:35:32,322 - 01:35:33,122] With a small probability.
+- [01:35:33,122 - 01:35:33,222] With a small probability.
+- [01:35:33,222 - 01:35:33,282] With a small probability.
+- [01:35:33,282 - 01:35:34,622] They come along, and they do that.
+- [01:35:35,402 - 01:35:37,282] But they can also pass right through each other.
+- [01:35:38,462 - 01:35:42,042] So these strings are not obstacles like
+- [01:35:42,042 - 01:35:45,622] shoelaces that they can't pass through each other.
+- [01:35:46,282 - 01:35:47,442] They can pass...
+- [01:35:47,442 - 01:35:48,962] Ah, yeah.
+- [01:35:49,422 - 01:35:50,942] Yeah, they can pass through each other.
+- [01:35:53,602 - 01:35:56,002] I'll bring you a superstring next time,
+- [01:35:56,002 - 01:35:58,402] and I'll show you how it works.
+- [01:35:59,242 - 01:35:59,802] Remind me.
+- [01:35:59,862 - 01:36:02,282] Somebody send me an email to bring a superstring.
+- [01:36:02,282 - 01:36:03,682] I'll bring you a superstring, and then
+- [01:36:03,682 - 01:36:05,082] I'll show you what it can do.
+- [01:36:05,902 - 01:36:06,682] So joining out.
+- [01:36:07,442 - 01:36:08,742] No, no, I'll bring you a real one.
+- [01:36:09,922 - 01:36:12,131] So you said the joining amplitude was kind
+- [01:36:12,131 - 01:36:14,341] of independent of the state of the string?
+- [01:36:14,522 - 01:36:14,822] Yeah.
+- [01:36:15,461 - 01:36:19,651] And just, I mean, if I have something spinning really fast,
+- [01:36:19,651 - 01:36:23,841] then you might anticipate that it has a higher probability of dishing.
+- [01:36:23,942 - 01:36:26,141] Is that just a choice in the theory,
+- [01:36:26,141 - 01:36:28,341] or is there some reason why that doesn't work?
+- [01:36:28,341 - 01:36:28,862] No, no.
+- [01:36:30,802 - 01:36:31,341] The basic probability...
+- [01:36:32,282 - 01:36:36,012] The probability per unit time, if they're touching,
+- [01:36:36,012 - 01:36:39,742] to interact, is the same for all strings.
+- [01:36:40,122 - 01:36:42,162] But keep in mind, if they're moving
+- [01:36:42,162 - 01:36:44,202] fast, they spend less time near each other.
+- [01:36:44,682 - 01:36:49,452] So if the probability per unit time is the same, if they're moving
+- [01:36:49,452 - 01:36:54,222] past each other fast, there will be less of a probability of them joining.
+- [01:36:55,682 - 01:36:55,922] Right?
+- [01:36:55,922 - 01:36:59,922] So it's basically a probability per unit time that's...
+- [01:37:01,102 - 01:37:01,702] Yeah.
+- [01:37:02,282 - 01:37:03,862] When you're showing these strings, and you've
+- [01:37:03,862 - 01:37:05,442] got smaller ones, you've got bigger ones, right?
+- [01:37:05,782 - 01:37:08,612] Is there a fundamental characteristic of, like, math
+- [01:37:08,612 - 01:37:11,442] or energy or something that represents that length?
+- [01:37:11,961 - 01:37:13,481] Okay, so the first thing we
+- [01:37:13,481 - 01:37:15,002] should take up next time is units.
+- [01:37:15,502 - 01:37:16,882] I think that's what you're asking me about.
+- [01:37:17,482 - 01:37:18,742] Is there a unit?
+- [01:37:19,362 - 01:37:19,841] Right.
+- [01:37:20,282 - 01:37:24,061] Now, there must be a unit, because I've done
+- [01:37:24,061 - 01:37:27,841] all sorts of equations which didn't really make dimensional sense.
+- [01:37:28,841 - 01:37:29,841] What is x?
+- [01:37:30,602 - 01:37:32,102] x is a length, right?
+- [01:37:32,282 - 01:37:32,782] Right.
+- [01:37:33,882 - 01:37:35,322] So it must have units of length.
+- [01:37:36,362 - 01:37:38,762] What about a creation and annihilation operator?
+- [01:37:39,102 - 01:37:41,341] Well, they have commutation relations.
+- [01:37:41,882 - 01:37:44,382] a a dagger is equal to one.
+- [01:37:45,762 - 01:37:47,302] So what's the dimension of a?
+- [01:37:48,461 - 01:37:48,961] No units.
+- [01:37:49,682 - 01:37:50,182] No units?
+- [01:37:50,602 - 01:37:51,102] Hm?
+- [01:37:51,102 - 01:37:51,602] No units.
+- [01:37:51,722 - 01:37:52,222] No units.
+- [01:37:53,142 - 01:37:55,102] So how can x be proportional to a?
+- [01:37:56,182 - 01:37:59,542] There's some missing units in the story.
+- [01:38:00,282 - 01:38:01,782] Frequencies.
+- [01:38:02,282 - 01:38:04,282] How many units are frequencies?
+- [01:38:04,282 - 01:38:05,282] Inverse time.
+- [01:38:05,282 - 01:38:06,282] Inverse time.
+- [01:38:06,282 - 01:38:08,282] But my frequencies are integers.
+- [01:38:08,282 - 01:38:10,282] Integers don't have any units.
+- [01:38:10,282 - 01:38:14,282] There's some missing units that I haven't put in here.
+- [01:38:15,282 - 01:38:17,282] And I think the first thing we
+- [01:38:17,282 - 01:38:19,282] want to talk about next time is units.
+- [01:38:20,282 - 01:38:21,282] What units?
+- [01:38:22,282 - 01:38:24,782] Another way to ask the
+- [01:38:24,782 - 01:38:27,282] question is, I tell you that
+- [01:38:27,282 - 01:38:31,782] adding an excitation of energy increases the mass
+- [01:38:31,782 - 01:38:36,282] or the mass squared by a certain amount.
+- [01:38:36,282 - 01:38:38,282] In what units?
+- [01:38:39,282 - 01:38:41,282] Mass, that's what we were saying before.
+- [01:38:41,282 - 01:38:42,282] In what units?
+- [01:38:42,282 - 01:38:48,282] In kilograms, in giga electron volts, in slugs.
+- [01:38:48,282 - 01:38:50,782] What unit does one unit of excitation,
+- [01:38:50,782 - 01:38:53,282] how much does it increase the mass by?
+- [01:38:54,282 - 01:38:56,282] What answer would you guess?
+- [01:38:57,282 - 01:38:58,282] Planck's mass?
+- [01:38:58,282 - 01:38:59,282] No, that's too big.
+- [01:38:59,282 - 01:39:01,782] In a fundamental theory of gravity,
+- [01:39:01,782 - 01:39:04,282] you might think it's the Planck mass.
+- [01:39:04,282 - 01:39:05,282] You might.
+- [01:39:05,282 - 01:39:06,282] It's too big.
+- [01:39:07,282 - 01:39:08,282] That's too big, though.
+- [01:39:08,282 - 01:39:09,282] It is too big.
+- [01:39:09,282 - 01:39:10,282] Yeah.
+- [01:39:11,282 - 01:39:14,282] So we're going to find it's a little
+- [01:39:14,282 - 01:39:17,282] smaller than the Planck mass, but that's something.
+- [01:39:17,282 - 01:39:20,782] Next time we will take up explicitly
+- [01:39:20,782 - 01:39:24,282] the issue of units, which is clearly important.
+- [01:39:24,282 - 01:39:26,282] It's impor- yeah.
+- [01:39:27,282 - 01:39:31,782] Within one theory, is coupling constant the same, or
+- [01:39:31,782 - 01:39:36,282] can strings have different ends and different probability of joining?
+- [01:39:36,282 - 01:39:40,282] In the simplest string theory, it's just a single constant.
+- [01:39:40,282 - 01:39:43,282] And generally, it's a single constant.
+- [01:39:46,282 - 01:39:47,282] Yeah.
+- [01:39:48,282 - 01:39:51,282] In fact, really strictly speaking, there are no
+- [01:39:51,282 - 01:39:54,282] constants in string theory, but we'll get to that.
+- [01:39:54,282 - 01:39:57,782] Before we beat this sex of strings to
+- [01:39:57,782 - 01:40:01,282] death, there's the open and there's the close.
+- [01:40:01,282 - 01:40:06,282] Is the possibility of a string splitting on its own?
+- [01:40:06,282 - 01:40:07,282] Splitting means breaking-
+- [01:40:07,282 - 01:40:08,282] Lengthwise.
+- [01:40:08,282 - 01:40:09,282] But not separating.
+- [01:40:09,282 - 01:40:10,282] Oh, you mean-
+- [01:40:10,282 - 01:40:11,282] Like a Y.
+- [01:40:11,282 - 01:40:12,282] Hm?
+- [01:40:12,282 - 01:40:13,282] Like a Y.
+- [01:40:13,282 - 01:40:14,282] Like a single splitting, but not-
+- [01:40:14,282 - 01:40:15,282] Lengthwise.
+- [01:40:15,282 - 01:40:17,282] I think I know what- lengthwise.
+- [01:40:17,282 - 01:40:18,282] No.
+- [01:40:18,282 - 01:40:19,282] Like splitting.
+- [01:40:19,282 - 01:40:20,282] No.
+- [01:40:20,282 - 01:40:21,282] That is not-
+- [01:40:21,282 - 01:40:22,282] You're not allowed to split hairs.
+- [01:40:22,282 - 01:40:23,282] You're not allowed to split hairs.
+- [01:40:23,282 - 01:40:24,282] You're not allowed to split hairs.
+- [01:40:24,282 - 01:40:25,282] Right.
+- [01:40:25,282 - 01:40:26,282] Right.
+- [01:40:26,282 - 01:40:27,282] Going an edge to a midpoint?
+- [01:40:27,282 - 01:40:28,282] I think you're asking whether you can
+- [01:40:28,282 - 01:40:29,282] have a more complicated object like this.
+- [01:40:29,282 - 01:40:30,282] Now, this doesn't correspond to a Feynman diagram.
+- [01:40:30,282 - 01:40:30,782] It corresponds to three strings joined
+- [01:40:30,782 - 01:40:31,282] at a vertex at the center.
+- [01:40:31,282 - 01:40:32,282] Is that what you're asking?
+- [01:40:32,282 - 01:40:33,282] Yeah.
+- [01:40:33,282 - 01:40:34,282] That- they're all straight.
+- [01:40:34,282 - 01:40:35,282] They're all straight.
+- [01:40:35,282 - 01:40:36,282] Yeah.
+- [01:40:36,282 - 01:40:37,282] Yeah.
+- [01:40:37,282 - 01:40:38,282] Yeah.
+- [01:40:38,282 - 01:40:39,282] Yeah.
+- [01:40:39,282 - 01:40:40,282] Yeah.
+- [01:40:40,282 - 01:40:41,282] Yeah.
+- [01:40:41,282 - 01:40:42,282] Yeah.
+- [01:40:42,282 - 01:40:43,282] Yeah.
+- [01:40:43,282 - 01:40:44,282] Yeah.
+- [01:40:44,282 - 01:40:45,282] Yeah.
+- [01:40:45,282 - 01:40:46,282] Yeah.
+- [01:40:46,282 - 01:40:47,282] Yeah.
+- [01:40:47,282 - 01:40:48,282] Yeah.
+- [01:40:48,282 - 01:40:49,282] Yeah.
+- [01:40:49,282 - 01:40:50,282] Yeah.
+- [01:40:50,282 - 01:40:51,282] Yeah.
+- [01:40:51,282 - 01:40:52,282] Yeah.
+- [01:40:52,282 - 01:40:53,282] Yeah.
+- [01:40:53,282 - 01:40:54,282] Yeah.
+- [01:40:54,282 - 01:40:55,332] So, there's a- there's a really açık range
+- [01:40:55,332 - 01:40:56,382] of string theories that do have that possibility.
+- [01:40:56,382 - 01:41:00,982] There's an enormous variety of different string theories.
+- [01:41:00,982 - 01:41:02,922] The question is, what do they all have in common?
+- [01:41:02,922 - 01:41:04,742] If you ask, what is the generic
+- [01:41:04,742 - 01:41:06,562] prediction of string theory, then you're really asking
+- [01:41:06,562 - 01:41:09,072] what do they all have in common, and the
+- [01:41:09,072 - 01:41:11,582] only thing that I can really think of that they
+- [01:41:11,582 - 01:41:14,492] all have in common, is they all
+- [01:41:14,492 - 01:41:17,402] have closed strings, and they all have gravitons.
+- [01:41:17,402 - 01:41:20,202] Some versions have open strings, other
+- [01:41:20,202 - 01:41:23,002] versions have- I call this a BOLO.
+- [01:41:23,002 - 01:41:25,982] uh... you know what a bolo is
+- [01:41:25,982 - 01:41:31,242] Argentinian cowboy swings it around and entangles uh...
+- [01:41:31,242 - 01:41:34,382] entangles his feet in it and falls
+- [01:41:34,382 - 01:41:37,522] over and falls on his face and
+- [01:41:37,522 - 01:41:39,682] uh... yeah
+- [01:41:39,682 - 01:41:42,322] in fact in Hadron physics
+- [01:41:42,322 - 01:41:46,362] remember Hadron physics is a version of string theory
+- [01:41:46,362 - 01:41:48,292] when we talk about units next time
+- [01:41:48,292 - 01:41:50,222] i will tell you the difference between
+- [01:41:50,222 - 01:41:51,742] string theory
+- [01:41:51,742 - 01:41:53,162] as a but
+- [01:41:53,162 - 01:41:55,122] in the theory of Hadrons
+- [01:41:55,122 - 01:42:01,902] do you know what this kind of thing would be?
+- [01:42:01,902 - 01:42:04,802] versus this kind of thing
+- [01:42:04,802 - 01:42:07,562] three quarks and a quartet
+- [01:42:07,562 - 01:42:09,402] three quarks
+- [01:42:09,402 - 01:42:11,082] a baryon
+- [01:42:11,082 - 01:42:16,462] this would be a quark and an anti-quark
+- [01:42:16,462 - 01:42:18,162] so yes string theories can have these kind
+- [01:42:18,162 - 01:42:19,862] of things but the one thing they always
+- [01:42:19,862 - 01:42:21,722] have is the closed strings
+- [01:42:21,722 - 01:42:25,222] do the coupling constants change depending on the
+- [01:42:25,222 - 01:42:28,722] dimension of interaction of the strings as well?
+- [01:42:30,762 - 01:42:32,762] uh... i'm not sure what the question is
+- [01:42:32,762 - 01:42:38,762] if the strings are colliding in one dimension
+- [01:42:38,762 - 01:42:41,482] and then we have another dimension
+- [01:42:41,482 - 01:42:46,482] the coupling constants will change as well?
+- [01:42:46,482 - 01:42:47,642] yes
+- [01:42:47,642 - 01:42:48,722] um...
+- [01:42:48,722 - 01:42:50,142] there is a dimensional by dimensional i mean the
+- [01:42:50,142 - 01:42:51,562] number of the strings that are in one dimension
+- [01:42:51,562 - 01:42:53,442] there is a number of
+- [01:42:53,442 - 01:42:55,322] dimensions of space there is a
+- [01:42:55,322 - 01:42:58,182] story about the values of the coupling constants
+- [01:42:58,182 - 01:43:01,042] as a function of dimensions yes there is
+- [01:43:01,042 - 01:43:02,582] but uh...
+- [01:43:02,582 - 01:43:05,502] we'll take that as we come to it
+- [01:43:05,502 - 01:43:07,572] one more question i want
+- [01:43:07,572 - 01:43:09,642] to go home but uh... yeah
+- [01:43:09,642 - 01:43:13,142] i missed the first fifteen minutes so you may have
+- [01:43:13,142 - 01:43:16,642] already answered but when they're moving and they combine and break
+- [01:43:16,642 - 01:43:17,642] what is the... i mean is it
+- [01:43:17,642 - 01:43:18,642] the gravity that is making the movement?
+- [01:43:18,642 - 01:43:19,142] what is the... i mean is it
+- [01:43:19,142 - 01:43:19,642] the gravity that is making the movement?
+- [01:43:19,642 - 01:43:20,142] what is the... i mean is it
+- [01:43:20,142 - 01:43:20,642] the gravity that is making the movement?
+- [01:43:20,642 - 01:43:21,642] what is the... i mean is it
+- [01:43:21,642 - 01:43:22,642] the gravity that is making the movement?
+- [01:43:22,642 - 01:43:23,642] what is the... i mean is it
+- [01:43:23,642 - 01:43:24,642] the gravity that is making the movement?
+- [01:43:24,642 - 01:43:25,142] no
+- [01:43:25,142 - 01:43:25,642] charge or...
+- [01:43:25,642 - 01:43:28,142] no, um... think newton, think newton for a
+- [01:43:28,142 - 01:43:30,642] minute is it gravity that makes things move?
+- [01:43:30,642 - 01:43:32,642] no, it's inertia that makes
+- [01:43:32,642 - 01:43:34,642] things move once they start moving
+- [01:43:34,642 - 01:43:36,642] uh... it was it was aristotle who said
+- [01:43:36,642 - 01:43:38,642] there has to be a cause for motion
+- [01:43:38,642 - 01:43:40,642] it was newton who said nonsense things if
+- [01:43:40,642 - 01:43:42,642] you set them in motion will keep moving
+- [01:43:42,642 - 01:43:43,642] strings are the same
+- [01:43:43,642 - 01:43:46,642] it's not gravity which makes things move
+- [01:43:46,642 - 01:43:47,642] what does gravity do?
+- [01:43:47,642 - 01:43:49,642] gravity causes things to accelerate
+- [01:43:49,642 - 01:43:50,642] gravity causes things to accelerate
+- [01:43:50,642 - 01:43:52,642] so we haven't gotten to gravity
+- [01:43:52,642 - 01:43:54,642] yet and where gravity comes from
+- [01:43:54,642 - 01:44:00,142] uh... so far this is a theory which we have no
+- [01:44:00,142 - 01:44:05,642] particular reason up till now to have any gravity in it
+- [01:44:05,642 - 01:44:09,642] what makes things move in general?
+- [01:44:09,642 - 01:44:10,642] inertia
+- [01:44:10,642 - 01:44:12,642] inertia keeps them moving
+- [01:44:12,642 - 01:44:14,642] inertia keeps them moving
+- [01:44:14,642 - 01:44:16,642] inertia keeps them moving
+- [01:44:16,642 - 01:44:18,642] inertia keeps them moving
+- [01:44:18,642 - 01:44:19,642] inertia keeps them moving
+- [01:44:19,642 - 01:44:20,642] inertia keeps them moving
+- [01:44:20,642 - 01:44:21,642] inertia keeps them moving
+- [01:44:21,642 - 01:44:23,641] what starts them moving?
+- [01:44:23,641 - 01:44:26,641] an exchange of momentum with another particle
+- [01:44:26,641 - 01:44:27,641] possibly
+- [01:44:27,641 - 01:44:29,641] something in the out of time
+- [01:44:29,641 - 01:44:33,641] I think you have to think about that
+- [01:44:33,641 - 01:44:36,641] supposing something weren't moving
+- [01:44:36,641 - 01:44:38,641] now you look at it from
+- [01:44:38,641 - 01:44:40,641] another frame of reference it is moving
+- [01:44:40,641 - 01:44:42,641] so what made it move?
+- [01:44:42,641 - 01:44:45,641] changing the point of reference
+- [01:44:45,641 - 01:44:47,641] changing the point of reference
+- [01:44:47,641 - 01:44:48,641] if you have a system you
+- [01:44:48,641 - 01:44:49,642] have the energy of the whole system
+- [01:44:49,642 - 01:44:52,642] the whole system which is divided among the particles
+- [01:44:52,642 - 01:44:54,642] all I'm telling you is even if a
+- [01:44:54,642 - 01:44:56,642] thing is not moving in one frame of reference
+- [01:44:56,642 - 01:44:58,642] it is moving in another frame of reference
+- [01:44:58,642 - 01:45:02,642] so even Galileo understood that
+- [01:45:02,642 - 01:45:04,642] so Galileo knew enough not to
+- [01:45:04,642 - 01:45:06,642] ask the question what causes motion
+- [01:45:06,642 - 01:45:10,642] but to ask the question what causes changes of motion
+- [01:45:10,642 - 01:45:12,642] and that's forces
+- [01:45:12,642 - 01:45:15,642] forces cause changes of motion
+- [01:45:15,642 - 01:45:17,642] so um
+- [01:45:17,642 - 01:45:18,642] hm?
+- [01:45:18,642 - 01:45:20,642] quite a fluctuation
+- [01:45:20,642 - 01:45:25,642] well in classical mechanics forces cause change of motion
+- [01:45:25,642 - 01:45:28,642] what causes the motion in the first place?
+- [01:45:28,642 - 01:45:29,642] well
+- [01:45:29,642 - 01:45:31,642] initial conditions
+- [01:45:31,642 - 01:45:32,642] initial conditions
+- [01:45:32,642 - 01:45:36,642] what caused the initial conditions?
+- [01:45:36,642 - 01:45:39,642] Woody Allen
+- [01:45:41,642 - 01:45:45,642] for more please visit us at stanford.edu
