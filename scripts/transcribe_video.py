@@ -151,6 +151,62 @@ def cleanup_paths(paths: list[Path]) -> None:
             continue
 
 
+def load_entries(json_path: Path) -> list[dict]:
+    return json.loads(json_path.read_text(encoding="utf-8"))
+
+
+def validate_outputs(srt_path: Path, json_path: Path, source_rel: Path) -> list[dict]:
+    if not srt_path.exists():
+        raise FileNotFoundError(f"Subtitle output not produced: {srt_path}")
+    if not json_path.exists():
+        raise FileNotFoundError(f"JSON output not produced: {json_path}")
+
+    entries = load_entries(json_path)
+    if not has_meaningful_entries(entries):
+        raise RuntimeError(
+            f"Transcription produced no usable subtitle content for {source_rel.as_posix()}"
+        )
+    return entries
+
+
+def run_fallback_transcription(
+    *,
+    source_rel: Path,
+    conda_env: str,
+    model: str,
+    work_video: Path,
+    work_wav: Path,
+    work_json: Path,
+    work_srt: Path,
+    reason: str,
+) -> None:
+    fallback_input = work_wav if work_wav.exists() else work_video
+    print(
+        "Falling back to direct Whisper for "
+        f"{source_rel.as_posix()} because {reason}."
+    )
+    cleanup_paths([work_srt, work_json])
+    fallback_command = [
+        "conda",
+        "run",
+        "-n",
+        conda_env,
+        "python",
+        str(DEFAULT_FALLBACK_SCRIPT),
+        "--input",
+        str(fallback_input),
+        "--json-output",
+        str(work_json),
+        "--srt-output",
+        str(work_srt),
+        "--model",
+        model,
+        "--language",
+        "en",
+    ]
+    subprocess.run(fallback_command, check=True)
+
+
 def transcribe_video(
     *,
     repo_root: Path,
@@ -207,48 +263,38 @@ def transcribe_video(
         model,
     ]
 
-    fallback_command = [
-        "conda",
-        "run",
-        "-n",
-        conda_env,
-        "python",
-        str(DEFAULT_FALLBACK_SCRIPT),
-        "--input",
-        str(work_video),
-        "--json-output",
-        str(work_json),
-        "--srt-output",
-        str(work_srt),
-        "--model",
-        model,
-        "--language",
-        "en",
-    ]
-
     try:
+        entries: list[dict] | None = None
         try:
             subprocess.run(command, check=True)
         except subprocess.CalledProcessError as exc:
-            fallback_input = work_wav if work_wav.exists() else work_video
-            fallback_command[fallback_command.index(str(work_video))] = str(fallback_input)
-            print(
-                "Primary subtitle engine failed for "
-                f"{source_rel.as_posix()} with exit {exc.returncode}; "
-                "falling back to direct Whisper."
+            run_fallback_transcription(
+                source_rel=source_rel,
+                conda_env=conda_env,
+                model=model,
+                work_video=work_video,
+                work_wav=work_wav,
+                work_json=work_json,
+                work_srt=work_srt,
+                reason=f"the primary subtitle engine exited with code {exc.returncode}",
             )
-            cleanup_paths([work_srt, work_json])
-            subprocess.run(fallback_command, check=True)
-        if not work_srt.exists():
-            raise FileNotFoundError(f"Subtitle output not produced: {work_srt}")
-        if not work_json.exists():
-            raise FileNotFoundError(f"JSON output not produced: {work_json}")
+        else:
+            try:
+                entries = validate_outputs(work_srt, work_json, source_rel)
+            except (FileNotFoundError, json.JSONDecodeError, RuntimeError) as exc:
+                run_fallback_transcription(
+                    source_rel=source_rel,
+                    conda_env=conda_env,
+                    model=model,
+                    work_video=work_video,
+                    work_wav=work_wav,
+                    work_json=work_json,
+                    work_srt=work_srt,
+                    reason=str(exc),
+                )
 
-        entries = json.loads(work_json.read_text(encoding="utf-8"))
-        if not has_meaningful_entries(entries):
-            raise RuntimeError(
-                f"Transcription produced no usable subtitle content for {source_rel.as_posix()}"
-            )
+        if entries is None:
+            entries = validate_outputs(work_srt, work_json, source_rel)
         shutil.move(str(work_srt), str(subtitle_path))
         markdown_path.write_text(render_markdown(entries, source_rel), encoding="utf-8")
     finally:
