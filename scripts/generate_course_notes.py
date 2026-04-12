@@ -3,10 +3,12 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 import re
 import shutil
 import subprocess
 import sys
+import time
 from collections import defaultdict
 from collections import Counter
 from dataclasses import dataclass
@@ -675,6 +677,53 @@ def strip_code_fences(text: str) -> str:
     return stripped
 
 
+def read_log_text(path: Path) -> str:
+    if not path.exists():
+        return ""
+    return path.read_text(encoding="utf-8", errors="replace")
+
+
+def prompt_failure_summary(stdout_file: Path, stderr_file: Path) -> str:
+    combined = "\n".join(part for part in (read_log_text(stdout_file), read_log_text(stderr_file)) if part.strip())
+    lines = combined.strip().splitlines()
+    return "\n".join(lines[-40:]).strip()
+
+
+def is_context_overflow_error(text: str) -> bool:
+    lowered = text.lower()
+    return "ran out of room in the model's context window" in lowered
+
+
+def is_transient_prompt_error(text: str) -> bool:
+    lowered = text.lower()
+    patterns = (
+        "transport channel closed",
+        "dns error",
+        "failed to lookup address information",
+        "worker quit with fatal",
+        "timed out",
+        "temporarily unavailable",
+        "connection reset",
+        "connection refused",
+        "internal server error",
+        "bad gateway",
+        "service unavailable",
+        "gateway timeout",
+    )
+    return any(pattern in lowered for pattern in patterns)
+
+
+def reset_shared_codex_session() -> None:
+    session_file = os.environ.get("CODEX_SHARED_SESSION_FILE", "").strip()
+    session_doc = os.environ.get("CODEX_SHARED_SESSION_DOC_FILE", "").strip()
+    for raw_path in (session_file, session_doc):
+        if not raw_path:
+            continue
+        path = Path(raw_path)
+        if path.exists():
+            path.unlink()
+
+
 def run_codex_prompt(
     repo_root: Path,
     prompt_text: str,
@@ -702,15 +751,32 @@ def run_codex_prompt(
     for image in images:
         cmd.append(str(image))
 
-    run_command(
-        cmd,
-        cwd=repo_root,
-        stdout_path=stdout_file,
-        stderr_path=stderr_file,
-        stdin_text=prompt_text,
-    )
+    max_attempts = 4
+    for attempt in range(1, max_attempts + 1):
+        if output_path.exists():
+            output_path.unlink()
 
-    output_path.write_text(strip_code_fences(output_path.read_text(encoding="utf-8")), encoding="utf-8")
+        completed = run_command(
+            cmd,
+            cwd=repo_root,
+            stdout_path=stdout_file,
+            stderr_path=stderr_file,
+            stdin_text=prompt_text,
+            check=False,
+        )
+        if completed.returncode == 0 and output_path.exists():
+            output_path.write_text(strip_code_fences(output_path.read_text(encoding="utf-8")), encoding="utf-8")
+            return
+
+        failure_text = prompt_failure_summary(stdout_file, stderr_file)
+        if is_context_overflow_error(failure_text):
+            reset_shared_codex_session()
+        if attempt < max_attempts and (is_context_overflow_error(failure_text) or is_transient_prompt_error(failure_text)):
+            time.sleep(min(20, 5 * attempt))
+            continue
+
+        detail = failure_text or f"exit code {completed.returncode}"
+        raise RuntimeError(f"Command failed ({completed.returncode}): {' '.join(cmd)}\n{detail}")
 
 
 def commit_generated_step(
