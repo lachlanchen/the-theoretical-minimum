@@ -1,10 +1,45 @@
 # Supplemental Advanced Quantum
 
-This folder holds the published Advanced Quantum course PDFs.
+This folder is the canonical publication surface for the Advanced Quantum course in this repository.
 
-- `course.pdf` is the canonical merged course PDF.
-- `lecture_01.pdf` through `lecture_10.pdf` are the canonical lecture PDFs.
+## What Is Here
 
-The top-level PDFs are the canonical published artifacts for this course folder and are refreshed from the generated course outputs.
+- `course.pdf`: merged course notes for the full run
+- `lecture_01.pdf` to `lecture_10.pdf`: lecture-by-lecture PDFs
 
-Local-only working material may exist beside these PDFs, but it is not part of the tracked repository state.
+These PDFs are derived from the transcript-driven note pipeline under:
+
+- `generated_course_notes/supplementary/advanced_quantum_mechanics/2013_fall/`
+
+The current top-level PDFs in this folder are the formal artifacts readers should open first.
+
+## Course Snapshot
+
+| Item | Status |
+|---|---|
+| Course run | `supplementary/advanced_quantum_mechanics/2013_fall` |
+| Lecture PDFs | `10 / 10` present |
+| Merged course PDF | present |
+| Source transcript tree | `markdown/supplementary/advanced_quantum_mechanics/2013_fall/` |
+| Source subtitle tree | `subtitles/supplementary/advanced_quantum_mechanics/2013_fall/` |
+
+## Reading Order
+
+1. Open `course.pdf` for the full compiled book.
+2. Open `lecture_01.pdf` through `lecture_10.pdf` for chapter-sized reading.
+3. Use the generated-note tree if you need the intermediate note assets, figures, or LaTeX chapter files.
+
+## Publication Notes
+
+- These PDFs currently mirror the generated course outputs through hard links.
+- That keeps the published filenames in this folder simple and canonical.
+- If the generated PDFs are replaced during a future rebuild, the hard links may need to be refreshed.
+
+## Credits
+
+- Original lecture content: Leonard Susskind
+- Transcript-derived note curation and packaging in this repository: LazyingArt LLC
+
+## Local Workspace Notes
+
+Local-only working material may exist beside these PDFs, but the published reader-facing artifacts for this folder are the top-level `course.pdf` and `lecture_*.pdf` files.
