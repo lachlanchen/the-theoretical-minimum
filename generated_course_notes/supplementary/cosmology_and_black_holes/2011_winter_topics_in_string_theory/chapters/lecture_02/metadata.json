@@ -1,0 +1,24 @@
+{
+  "course_rel": "supplementary/cosmology_and_black_holes/2011_winter_topics_in_string_theory",
+  "transcript_rel": "supplementary/cosmology_and_black_holes/2011_winter_topics_in_string_theory/106 - Lecture 2 \uff5c Topics in String Theory [dmS5J6xM5s0].md",
+  "video_rel": "supplementary/cosmology_and_black_holes/2011_winter_topics_in_string_theory/106 - Lecture 2 \uff5c Topics in String Theory [dmS5J6xM5s0].mkv",
+  "lecture_number": 2,
+  "lecture_slug": "lecture_02",
+  "lecture_title": "Lecture 2 : Topics in String Theory",
+  "assets": [
+    {
+      "name": "lecture_02_figure_02.png",
+      "timestamp_seconds": 1152.52,
+      "timestamp_hhmmss": "00:19:12.520",
+      "source_candidate": "lecture_02_window_05_candidate_02_001912520.png",
+      "recommended_use": "screenshot_plus_equation_and_tikz",
+      "rationale": "This frame gives the clearest and most complete view of the board with the least occlusion. The top flat-space spherical line element, the Schwarzschild correction with the \u20181-2MG/(c^2 r)\u2019 factor, the shorthand \u20181-R_s/r,\u2019 and the right-hand radial sketch are all visible together, making it the most useful frame for both equation transcription and a cautious redraw.",
+      "subtitle_excerpt": "This is the metric of a Schwarzschild black hole.",
+      "segment_start_seconds": 1151.0,
+      "segment_start_hhmmss": "00:19:11.000",
+      "segment_end_seconds": 1155.0,
+      "segment_end_hhmmss": "00:19:15.000",
+      "caption_hint": "Schwarzschild metric and radial sketch"
+    }
+  ]
+}
