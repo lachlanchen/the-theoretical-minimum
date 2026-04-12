@@ -23,6 +23,8 @@ SEGMENT_RE = re.compile(
 )
 LECTURE_NUMBER_RE = re.compile(r"\bLecture\s+(\d+)\b", re.IGNORECASE)
 PREFIX_NUMBER_RE = re.compile(r"^(\d+)\s*-\s*")
+TEXTTT_RE = re.compile(r"\\texttt\{([^{}]*)\}")
+LATEX_SPECIAL_IN_TEXTTT_RE = re.compile(r"(?<!\\)([_%&#$])")
 
 KEYWORD_WEIGHTS = {
     "equation": 5,
@@ -691,7 +693,14 @@ def prompt_failure_summary(stdout_file: Path, stderr_file: Path) -> str:
 
 def is_context_overflow_error(text: str) -> bool:
     lowered = text.lower()
-    return "ran out of room in the model's context window" in lowered
+    patterns = (
+        "ran out of room in the model's context window",
+        "exceeds the context window",
+        "input exceeds the context window",
+        "context_length_exceeded",
+        "failed to run pre-sampling compact",
+    )
+    return any(pattern in lowered for pattern in patterns)
 
 
 def is_transient_prompt_error(text: str) -> bool:
@@ -737,6 +746,7 @@ def run_codex_prompt(
     prompt_file = runtime_dir / f"{log_prefix}.prompt.txt"
     stdout_file = runtime_dir / f"{log_prefix}.stdout.log"
     stderr_file = runtime_dir / f"{log_prefix}.stderr.log"
+    temp_output_path = output_path.with_name(f".{output_path.name}.tmp")
     prompt_file.write_text(prompt_text, encoding="utf-8")
 
     cmd = [
@@ -744,7 +754,7 @@ def run_codex_prompt(
         str(repo_root / "scripts" / "codex_prompt_to_file.sh"),
         str(repo_root),
         str(prompt_file),
-        str(output_path),
+        str(temp_output_path),
         model,
         reasoning,
     ]
@@ -753,8 +763,8 @@ def run_codex_prompt(
 
     max_attempts = 4
     for attempt in range(1, max_attempts + 1):
-        if output_path.exists():
-            output_path.unlink()
+        if temp_output_path.exists():
+            temp_output_path.unlink()
 
         completed = run_command(
             cmd,
@@ -764,8 +774,12 @@ def run_codex_prompt(
             stdin_text=prompt_text,
             check=False,
         )
-        if completed.returncode == 0 and output_path.exists():
-            output_path.write_text(strip_code_fences(output_path.read_text(encoding="utf-8")), encoding="utf-8")
+        if completed.returncode == 0 and temp_output_path.exists():
+            output_path.write_text(
+                strip_code_fences(temp_output_path.read_text(encoding="utf-8")),
+                encoding="utf-8",
+            )
+            temp_output_path.unlink()
             return
 
         failure_text = prompt_failure_summary(stdout_file, stderr_file)
@@ -777,6 +791,31 @@ def run_codex_prompt(
 
         detail = failure_text or f"exit code {completed.returncode}"
         raise RuntimeError(f"Command failed ({completed.returncode}): {' '.join(cmd)}\n{detail}")
+
+
+def sanitize_texttt_literals(text: str) -> str:
+    def repl(match: re.Match[str]) -> str:
+        body = LATEX_SPECIAL_IN_TEXTTT_RE.sub(r"\\\1", match.group(1))
+        return f"\\texttt{{{body}}}"
+
+    return TEXTTT_RE.sub(repl, text)
+
+
+def apply_local_compile_fixes(content_path: Path, compile_log: str) -> bool:
+    if not content_path.exists():
+        return False
+
+    original = content_path.read_text(encoding="utf-8")
+    fixed = original
+
+    if "missing $ inserted" in compile_log.lower():
+        fixed = sanitize_texttt_literals(fixed)
+
+    if fixed == original:
+        return False
+
+    content_path.write_text(fixed, encoding="utf-8")
+    return True
 
 
 def commit_generated_step(
@@ -891,6 +930,7 @@ def compile_tex(tex_name: str, cwd: Path, runtime_dir: Path, log_prefix: str, pa
                 "pdflatex",
                 "-interaction=nonstopmode",
                 "-halt-on-error",
+                "-file-line-error",
                 "-output-directory",
                 str(build_dir),
                 tex_name,
@@ -1188,25 +1228,45 @@ def generate_one_lecture(
 
     write_lecture_wrapper(lecture, lecture_dir)
     if not compile_tex("lecture.tex", lecture_dir, course_runtime, "lecture_compile"):
-        fix_prompt = read_template(prompt_root / "compile_fix_prompt.txt").substitute(
-            task_context=build_task_context(lecture),
-            course_title=lecture.course_title,
-            lecture_title=lecture.lecture_title,
-            transcript_rel=lecture.transcript_rel,
-            compile_log=compile_log_excerpt(course_runtime, "lecture_compile"),
-            current_tex=content_path.read_text(encoding="utf-8"),
-        )
-        run_codex_prompt(
-            repo_root=repo_root,
-            prompt_text=fix_prompt,
-            output_path=content_path,
-            runtime_dir=course_runtime,
-            log_prefix="lecture_fix",
-            model=model,
-            reasoning=reasoning,
-        )
-        if not compile_tex("lecture.tex", lecture_dir, course_runtime, "lecture_compile_retry"):
-            raise RuntimeError(f"Failed to compile lecture chapter: {transcript_rel}")
+        compile_log = compile_log_excerpt(course_runtime, "lecture_compile")
+        if apply_local_compile_fixes(content_path, compile_log):
+            print(f"Step complete: applied local compile fixes for {lecture_key}; committing and pushing.")
+            commit_generated_step(
+                repo_root=repo_root,
+                runtime_dir=course_runtime,
+                log_prefix="commit_local_compile_fix",
+                commit_message=f"Fix compile blockers for {lecture_key}",
+                paths=[content_path],
+            )
+
+        if not compile_tex("lecture.tex", lecture_dir, course_runtime, "lecture_compile_local_retry"):
+            fix_prompt = read_template(prompt_root / "compile_fix_prompt.txt").substitute(
+                task_context=build_task_context(lecture),
+                course_title=lecture.course_title,
+                lecture_title=lecture.lecture_title,
+                transcript_rel=lecture.transcript_rel,
+                compile_log=compile_log_excerpt(course_runtime, "lecture_compile_local_retry"),
+                current_tex=content_path.read_text(encoding="utf-8"),
+            )
+            run_codex_prompt(
+                repo_root=repo_root,
+                prompt_text=fix_prompt,
+                output_path=content_path,
+                runtime_dir=course_runtime,
+                log_prefix="lecture_fix",
+                model=model,
+                reasoning=reasoning,
+            )
+            print(f"Step complete: rewrote chapter after compile failure for {lecture_key}; committing and pushing.")
+            commit_generated_step(
+                repo_root=repo_root,
+                runtime_dir=course_runtime,
+                log_prefix="commit_prompt_compile_fix",
+                commit_message=f"Rewrite compile fix for {lecture_key}",
+                paths=[content_path],
+            )
+            if not compile_tex("lecture.tex", lecture_dir, course_runtime, "lecture_compile_retry"):
+                raise RuntimeError(f"Failed to compile lecture chapter: {transcript_rel}")
     cleanup_build_artifacts(lecture_dir)
     print(f"Step complete: compiled lecture PDF for {lecture_key}; committing and pushing.")
     commit_generated_step(
