@@ -1,0 +1,1081 @@
+# Transcript
+
+Source: supplementary/particle_physics_2_standard_model/2010_winter/087 - Lecture 3 ｜ New Revolutions in Particle Physics： Standard Model [DIEDkY2Y49s].mkv
+
+- [00:00:00,000 - 00:00:07,000] Stanford University.
+- [00:00:07,000 - 00:00:10,500] Alright, let's talk about rotations
+- [00:00:10,500 - 00:00:14,000] of space in this language.
+- [00:00:14,000 - 00:00:17,500] Rotations of space are asymmetry, and
+- [00:00:17,500 - 00:00:21,000] they can act on various things,
+- [00:00:21,000 - 00:00:22,000] but one of the things
+- [00:00:22,000 - 00:00:23,000] they can act on is vectors.
+- [00:00:23,000 - 00:00:25,500] Those vectors might be a vector field, or
+- [00:00:25,500 - 00:00:28,000] they might just be some vector in space,
+- [00:00:28,000 - 00:00:31,000] a velocity vector, whatever.
+- [00:00:31,000 - 00:00:35,000] Rotations act on vectors, and they
+- [00:00:35,000 - 00:00:39,000] rotate vectors from one vector to another.
+- [00:00:39,000 - 00:00:46,000] Let's see if we can put this up.
+- [00:00:46,000 - 00:00:48,000] Rotations can be combined.
+- [00:00:48,000 - 00:00:50,000] You can take an object, rotate it
+- [00:00:50,000 - 00:00:52,000] about an axis by a certain angle,
+- [00:00:52,000 - 00:00:55,000] and then rotate it by another axis about an angle,
+- [00:00:55,000 - 00:00:57,000] and the result is an overall rotation
+- [00:00:57,000 - 00:00:58,000] about some vector field.
+- [00:00:58,000 - 00:00:59,500] You can rotate it from
+- [00:00:59,500 - 00:01:01,000] other axis by some other angle.
+- [00:01:01,000 - 00:01:03,000] So in an abstract sense,
+- [00:01:03,000 - 00:01:05,000] the rotations do form a group.
+- [00:01:05,000 - 00:01:07,000] Let's just think about it for a minute.
+- [00:01:07,000 - 00:01:13,000] Do the rotation operations have a group structure?
+- [00:01:13,000 - 00:01:20,000] Imagine taking a set of coordinates.
+- [00:01:20,000 - 00:01:24,000] Incidentally, how do we parameterize rotations?
+- [00:01:24,000 - 00:01:27,000] Rotations can be parameterized as vectors.
+- [00:01:27,000 - 00:01:31,000] We won't worry about the fact that rotating by
+- [00:01:31,000 - 00:01:35,000] more than 2 pi brings you back to this.
+- [00:01:35,000 - 00:01:37,000] Supposing you don't worry about that for a moment.
+- [00:01:37,000 - 00:01:42,000] Rotations can be, first of all, they have an axis.
+- [00:01:42,000 - 00:01:45,000] They're rotations about an axis.
+- [00:01:45,000 - 00:01:48,000] Let's take all rotations to always be right-handed.
+- [00:01:48,000 - 00:01:51,000] In other words, rotations right-handed.
+- [00:01:51,000 - 00:01:54,000] What happens if we have a rotation which is left-handed?
+- [00:01:54,000 - 00:01:56,000] We can either think of it as a vector,
+- [00:01:56,000 - 00:01:58,000] we can either think of it as a rotation,
+- [00:01:58,000 - 00:02:01,000] a right-handed rotation by negative angle,
+- [00:02:01,000 - 00:02:03,000] or we can think of it as
+- [00:02:03,000 - 00:02:05,000] a right-handed rotation by the opposite axis.
+- [00:02:05,000 - 00:02:08,000] Doesn't matter, you get the same thing.
+- [00:02:08,000 - 00:02:12,000] Alright, so rotation has an axis.
+- [00:02:12,000 - 00:02:15,000] Let's call that a unit vector n.
+- [00:02:15,000 - 00:02:21,000] And it has an angle that you rotate by, theta.
+- [00:02:21,000 - 00:02:23,000] How many parameters does it
+- [00:02:23,000 - 00:02:25,000] take to describe a unit vector?
+- [00:02:26,000 - 00:02:29,000] It takes two parameters to describe a unit vector.
+- [00:02:29,000 - 00:02:32,000] Longitude and latitude on the sphere.
+- [00:02:32,000 - 00:02:36,000] Unit vector is an arrow pointing to a unit sphere.
+- [00:02:36,000 - 00:02:38,000] So that's two angles.
+- [00:02:38,000 - 00:02:40,000] And another angle for how much you rotate about.
+- [00:02:40,000 - 00:02:42,500] That's three angles, or three
+- [00:02:42,500 - 00:02:45,000] parameters, to describe a rotation.
+- [00:02:45,000 - 00:02:49,000] It's a three parameter family of objects.
+- [00:02:49,000 - 00:02:51,000] Now, when you rotate an object, if
+- [00:02:51,000 - 00:02:53,000] you rotate an object, a rigid object,
+- [00:02:53,000 - 00:02:55,000] imagine you have a rigid object,
+- [00:02:55,000 - 00:02:57,000] and you rotate it about some axis,
+- [00:02:57,000 - 00:02:59,000] and then you rotate it about some other axis,
+- [00:02:59,000 - 00:03:03,500] the result is always equivalent to a rotation
+- [00:03:03,500 - 00:03:08,000] by yet some other axis and some other angle.
+- [00:03:08,000 - 00:03:10,000] So the product of two
+- [00:03:10,000 - 00:03:12,000] rotations, one that's done sequentially,
+- [00:03:12,000 - 00:03:15,000] one and then another, is always another rotation.
+- [00:03:15,000 - 00:03:18,000] So the answer is yes, there
+- [00:03:18,000 - 00:03:21,000] is a product structure to rotations.
+- [00:03:21,000 - 00:03:22,000] Number one.
+- [00:03:22,000 - 00:03:25,000] There is an identity operation.
+- [00:03:25,000 - 00:03:27,000] There is no rotation for rotations.
+- [00:03:27,000 - 00:03:29,000] There's just no rotation at all.
+- [00:03:29,000 - 00:03:31,000] There is an inverse.
+- [00:03:31,000 - 00:03:34,000] Any rotation about any axis,
+- [00:03:34,000 - 00:03:37,000] the inverse of it is just the rotation
+- [00:03:37,000 - 00:03:40,000] by the opposite angle about the same axis,
+- [00:03:40,000 - 00:03:42,500] or you can, if you like, think of
+- [00:03:42,500 - 00:03:45,000] it the same rotation about the opposite axis,
+- [00:03:45,000 - 00:03:46,000] but let's not get into that.
+- [00:03:46,000 - 00:03:49,000] There's always, for any rotation about any axis,
+- [00:03:49,000 - 00:03:52,000] there's always exactly the opposite one which undoes it.
+- [00:03:52,000 - 00:03:54,000] So there's an inverse structure.
+- [00:03:54,000 - 00:03:56,000] Sorry, there's an inverse structure.
+- [00:03:56,000 - 00:03:58,000] What else do we need for a group?
+- [00:03:58,000 - 00:04:00,000] Associative.
+- [00:04:00,000 - 00:04:01,000] Associative.
+- [00:04:01,000 - 00:04:03,000] And it also happens to be associative.
+- [00:04:03,000 - 00:04:06,000] Yeah, it happens to be associative.
+- [00:04:06,000 - 00:04:07,000] That's a true fact.
+- [00:04:07,000 - 00:04:10,000] It's not quite as obvious.
+- [00:04:10,000 - 00:04:13,000] Okay, so rotations are a group.
+- [00:04:13,000 - 00:04:18,000] Have we failed to say anything about rotations?
+- [00:04:18,000 - 00:04:19,000] No.
+- [00:04:19,000 - 00:04:20,000] Oh, good.
+- [00:04:20,000 - 00:04:22,000] It's non-abelian.
+- [00:04:22,000 - 00:04:24,000] This is the fact that a rotation of a group,
+- [00:04:24,000 - 00:04:25,500] a rotation about the x-axis followed
+- [00:04:25,500 - 00:04:27,000] by a rotation about the y-axis,
+- [00:04:27,000 - 00:04:29,500] is not the same as
+- [00:04:29,500 - 00:04:32,000] interchanging the two orders of rotation.
+- [00:04:32,000 - 00:04:33,500] Go home and do that
+- [00:04:33,500 - 00:04:35,000] if you haven't done it before.
+- [00:04:35,000 - 00:04:37,000] Rotate about the x-axis, then the y-axis,
+- [00:04:37,000 - 00:04:39,000] and then do it in the opposite order.
+- [00:04:39,000 - 00:04:41,000] You won't get back to the same thing.
+- [00:04:41,000 - 00:04:42,500] The smaller the rotations are, the
+- [00:04:42,500 - 00:04:44,000] closer it is to being an abelian.
+- [00:04:44,000 - 00:04:45,000] Yes.
+- [00:04:45,000 - 00:04:48,000] These are sequential rotations, not simultaneous?
+- [00:04:48,000 - 00:04:50,000] No, no, sequential, one after another.
+- [00:04:50,000 - 00:04:51,500] Yeah, group action always
+- [00:04:51,500 - 00:04:53,000] corresponds to sequential rotation.
+- [00:04:53,000 - 00:04:56,000] Sequential, right.
+- [00:04:56,000 - 00:04:59,000] Yeah, right.
+- [00:04:59,000 - 00:05:00,000] That is correct.
+- [00:05:00,000 - 00:05:03,000] The smaller the rotations, in a certain sense,
+- [00:05:03,000 - 00:05:06,000] the closer it is to commuting.
+- [00:05:06,000 - 00:05:08,000] But the group is definitely
+- [00:05:08,000 - 00:05:10,000] a non-commutative or a non-abelian group.
+- [00:05:10,000 - 00:05:13,000] It's our first non-abelian group.
+- [00:05:13,000 - 00:05:20,000] Let's talk about its representations.
+- [00:05:20,000 - 00:05:22,000] Where we're going, incidentally,
+- [00:05:22,000 - 00:05:25,000] is, if we get to it tonight,
+- [00:05:25,000 - 00:05:27,000] is the study of color.
+- [00:05:27,000 - 00:05:29,500] Color is a symmetry group,
+- [00:05:29,500 - 00:05:32,000] and it's represented as a symmetry.
+- [00:05:32,000 - 00:05:33,500] The color of, I'm talking now
+- [00:05:33,500 - 00:05:35,000] not about the color of your shirt,
+- [00:05:35,000 - 00:05:37,000] I'm talking about the color of quarks,
+- [00:05:37,000 - 00:05:40,000] the red, green, and blue.
+- [00:05:40,000 - 00:05:42,000] It's not up and down, it's not a two-state system,
+- [00:05:42,000 - 00:05:44,000] it's a three-state system.
+- [00:05:44,000 - 00:05:50,000] And the operations which are interesting
+- [00:05:50,000 - 00:05:51,000] are the ones which mix
+- [00:05:51,000 - 00:05:52,000] up the different colors of quarks.
+- [00:05:52,000 - 00:05:57,000] But so much of physics has that pattern
+- [00:05:57,000 - 00:05:59,500] of group symmetries that we need
+- [00:05:59,500 - 00:06:02,000] to understand it before we go on.
+- [00:06:02,000 - 00:06:06,000] Okay, rotations.
+- [00:06:06,000 - 00:06:10,000] Rotations, how do we construct a representation,
+- [00:06:10,000 - 00:06:13,000] a matrix representation of rotations?
+- [00:06:13,000 - 00:06:15,000] And the easiest way to do it
+- [00:06:15,000 - 00:06:17,000] is to take the components of a vector.
+- [00:06:17,000 - 00:06:20,000] Let the basic objects be the components of a vector.
+- [00:06:20,000 - 00:06:21,000] Let the basic objects be the components of a vector.
+- [00:06:21,000 - 00:06:24,500] Let the basic objects be
+- [00:06:24,500 - 00:06:28,000] the components of an ordinary vector.
+- [00:06:28,000 - 00:06:32,000] Call a vector v, and it has
+- [00:06:32,000 - 00:06:36,000] components v, x, y, and z, or vi.
+- [00:06:36,000 - 00:06:38,000] Let's call them vi.
+- [00:06:38,000 - 00:06:40,000] i can equal 1, 2, and 3,
+- [00:06:40,000 - 00:06:42,000] or x, y, and z, and so forth.
+- [00:06:42,000 - 00:06:44,500] Now, when you rotate either, you
+- [00:06:44,500 - 00:06:47,000] can either think of rotating the axes,
+- [00:06:47,000 - 00:06:49,000] or rotating physically the vector about some direction.
+- [00:06:49,000 - 00:06:50,000] or rotating physically the vector about some direction.
+- [00:06:50,000 - 00:06:52,500] Of course, the components v, x,
+- [00:06:52,500 - 00:06:55,000] and v, y, and v, z change,
+- [00:06:55,000 - 00:07:00,000] and they change by being multiplied by a rotation matrix.
+- [00:07:00,000 - 00:07:02,000] All right, so for every rotation,
+- [00:07:02,000 - 00:07:04,000] about any angle, about any axis,
+- [00:07:04,000 - 00:07:09,000] there is a rotation matrix.
+- [00:07:09,000 - 00:07:12,500] The rotation matrix depends on the
+- [00:07:12,500 - 00:07:16,000] angle of rotation and the axis,
+- [00:07:16,000 - 00:07:18,000] and it is a matrix, i, j.
+- [00:07:20,000 - 00:07:28,000] How do you find the new resulting set of components?
+- [00:07:28,000 - 00:07:31,000] You multiply the matrix by v, j, and
+- [00:07:31,000 - 00:07:34,000] you get, let's call it v prime i.
+- [00:07:34,000 - 00:07:37,000] Again, summed over j.
+- [00:07:37,000 - 00:07:42,000] This is matrix times vector gives transformed vector.
+- [00:07:42,000 - 00:07:47,000] All right, well, these are rotation matrices.
+- [00:07:47,000 - 00:07:48,000] Now, do you know the definition?
+- [00:07:48,000 - 00:07:49,000] Do you know the definition?
+- [00:07:49,000 - 00:07:50,000] Do you know the definition?
+- [00:07:50,000 - 00:07:53,000] Do you know the properties of rotation matrices?
+- [00:07:53,000 - 00:07:54,500] I believe we've gone through them,
+- [00:07:54,500 - 00:07:56,000] but I will go through them again.
+- [00:07:56,000 - 00:07:59,000] Invariant length.
+- [00:07:59,000 - 00:08:01,000] Invariant length.
+- [00:08:01,000 - 00:08:02,000] Invariant length.
+- [00:08:02,000 - 00:08:04,000] Yeah, let's just see what that says.
+- [00:08:04,000 - 00:08:11,000] Yeah, let's work out the properties of rotation matrices.
+- [00:08:11,000 - 00:08:13,000] This is another group, of course.
+- [00:08:13,000 - 00:08:16,000] Another group and another representation.
+- [00:08:16,000 - 00:08:17,500] This is a three-dimensional
+- [00:08:17,500 - 00:08:19,000] representation of the rotation group.
+- [00:08:19,000 - 00:08:22,000] It is not the only representation of the rotation group.
+- [00:08:22,000 - 00:08:26,500] There's many of them, but this is the
+- [00:08:26,500 - 00:08:31,000] three-dimensional, three-by-three matrix representation of the rotation group,
+- [00:08:31,000 - 00:08:35,500] and it's easy to think about because you can just visualize it
+- [00:08:35,500 - 00:08:40,000] in terms of the components of a three vector, of a spatial vector.
+- [00:08:40,000 - 00:08:42,000] All right.
+- [00:08:42,000 - 00:08:48,000] If R rotates v and gives v prime,
+- [00:08:48,000 - 00:08:51,000] and R is truly a rotation of a vector,
+- [00:08:51,000 - 00:08:54,000] then it doesn't change the length of the vector.
+- [00:08:54,000 - 00:08:56,000] That's the property of a rotation.
+- [00:08:56,000 - 00:08:59,000] It changes nobody's length.
+- [00:08:59,000 - 00:09:01,000] Incidentally, we take the components of the
+- [00:09:01,000 - 00:09:03,000] vector to be real numbers for the moment.
+- [00:09:03,000 - 00:09:04,000] Real numbers.
+- [00:09:04,000 - 00:09:07,000] And the matrices, R, are
+- [00:09:07,000 - 00:09:10,000] also composed out of real elements.
+- [00:09:10,000 - 00:09:11,000] Okay.
+- [00:09:11,000 - 00:09:12,000] So, what is the condition?
+- [00:09:12,000 - 00:09:14,500] The condition is, the condition for
+- [00:09:14,500 - 00:09:17,000] this to be a rotation is that,
+- [00:09:17,000 - 00:09:20,500] for every possible v and v prime,
+- [00:09:20,500 - 00:09:24,000] v prime being the result of rotation,
+- [00:09:24,000 - 00:09:29,000] that vi, vi, this means the sum,
+- [00:09:29,000 - 00:09:34,000] vx squared plus vy squared plus vz squared,
+- [00:09:34,000 - 00:09:38,000] the length, the square of the length of v should be
+- [00:09:38,000 - 00:09:42,000] the same as the square of the length of v prime.
+- [00:09:47,000 - 00:09:48,000] So, let's work that out.
+- [00:09:48,000 - 00:09:49,000] Let's see what that says.
+- [00:09:49,000 - 00:09:51,000] We can work that out in detail.
+- [00:09:51,000 - 00:09:57,000] This is Rij, let's put vj here.
+- [00:09:57,000 - 00:09:58,000] It doesn't matter.
+- [00:09:58,000 - 00:09:59,000] We're summing.
+- [00:09:59,000 - 00:10:01,000] It doesn't matter what we call it, vj.
+- [00:10:01,000 - 00:10:02,000] Same thing.
+- [00:10:02,000 - 00:10:04,000] Okay.
+- [00:10:04,000 - 00:10:11,000] Rij vj is equal to v prime i, right?
+- [00:10:11,000 - 00:10:12,000] Oh, I don't know.
+- [00:10:12,000 - 00:10:14,000] Maybe I want that i here.
+- [00:10:14,000 - 00:10:16,000] It doesn't matter.
+- [00:10:16,000 - 00:10:19,000] This is v prime i, right?
+- [00:10:19,000 - 00:10:23,000] Let's write the same equation again.
+- [00:10:23,000 - 00:10:31,000] Rik vk equals v prime i.
+- [00:10:31,000 - 00:10:34,500] I've changed, you never, this dummy index, the summation
+- [00:10:34,500 - 00:10:38,000] index, I don't want to conflate with this one here.
+- [00:10:38,000 - 00:10:41,000] But this one is the same as this one.
+- [00:10:41,000 - 00:10:42,500] Now, what I want to do is I
+- [00:10:42,500 - 00:10:44,000] want to form v prime i, v prime i.
+- [00:10:44,000 - 00:10:46,000] So, I want to multiply this by this.
+- [00:10:46,000 - 00:10:48,000] And sum over i.
+- [00:10:48,000 - 00:10:49,000] And what will I get?
+- [00:10:49,000 - 00:10:58,000] I will get v prime i, v prime i equals
+- [00:10:58,000 - 00:11:07,000] Rij vj Rik vk with every repeated index summed over.
+- [00:11:07,000 - 00:11:11,000] Or equivalently, just write it a
+- [00:11:11,000 - 00:11:15,000] little differently, Rij Rik vj vk.
+- [00:11:16,000 - 00:11:21,000] This should be the same as what?
+- [00:11:21,000 - 00:11:25,000] This should be the same as vi vi.
+- [00:11:30,000 - 00:11:34,000] That's this over here is equal to this over here.
+- [00:11:34,000 - 00:11:36,000] What is the condition that this is
+- [00:11:36,000 - 00:11:38,000] equal to this for every possible v?
+- [00:11:43,000 - 00:11:44,000] Right.
+- [00:11:44,000 - 00:11:45,000] All right.
+- [00:11:45,000 - 00:11:47,000] Let's write it in two steps.
+- [00:11:47,000 - 00:11:56,000] It is that Rij Rik is equal to delta jk.
+- [00:11:56,000 - 00:12:00,000] In other words, if this were true, that
+- [00:12:00,000 - 00:12:04,000] Rij Rik summed over i was the Kronecker delta,
+- [00:12:04,000 - 00:12:07,000] then it would tell you to set j equal
+- [00:12:07,000 - 00:12:10,000] to k, and this would just become v squared.
+- [00:12:10,000 - 00:12:13,000] So, that's the condition for a rotation matrix.
+- [00:12:13,000 - 00:12:15,000] And it can be written in a different way.
+- [00:12:15,000 - 00:12:19,000] It can be written that the transpose,
+- [00:12:19,000 - 00:12:23,000] R times its transpose is equal to 1.
+- [00:12:23,000 - 00:12:25,500] This is the unit operator, and this
+- [00:12:25,500 - 00:12:28,000] is the representation for R times its transpose.
+- [00:12:28,000 - 00:12:34,500] So, a rotation matrix satisfies, let's write it over
+- [00:12:34,500 - 00:12:41,000] here, that R transpose times R is equal to 1.
+- [00:12:41,000 - 00:12:43,000] Does everybody remember what transpose is?
+- [00:12:43,000 - 00:12:48,000] Transpose is just interchanging rows and columns.
+- [00:12:48,000 - 00:12:51,000] R transpose R is equal to 1.
+- [00:12:51,000 - 00:12:53,500] Now, actually, we immediately now know what
+- [00:12:53,500 - 00:12:56,000] the inverse of any rotation matrix is.
+- [00:12:56,000 - 00:12:58,000] It's just a transpose.
+- [00:12:58,000 - 00:13:00,000] Okay?
+- [00:13:00,000 - 00:13:03,000] The rotation group has this property.
+- [00:13:03,000 - 00:13:06,000] That's basically its defining property.
+- [00:13:06,000 - 00:13:07,000] R trans...
+- [00:13:07,000 - 00:13:10,000] That's the defining property.
+- [00:13:10,000 - 00:13:14,000] That's the property of the matrices, of rotation matrices.
+- [00:13:14,000 - 00:13:17,000] If you construct for every rotation such
+- [00:13:17,000 - 00:13:20,000] a matrix, and you multiply the matrices,
+- [00:13:20,000 - 00:13:26,500] you will find the matrix representation
+- [00:13:26,500 - 00:13:33,000] of the multiplication table of rotations.
+- [00:13:33,000 - 00:13:35,000] I'm just doing this as an example.
+- [00:13:35,000 - 00:13:38,000] So, there are 3 by 3 representations.
+- [00:13:38,000 - 00:13:39,000] Okay?
+- [00:13:39,000 - 00:13:42,500] There are 3 by 3 representations,
+- [00:13:42,500 - 00:13:46,000] 3-dimensional representations of the rotation group.
+- [00:13:46,000 - 00:13:51,000] Can we think of the 3-dimensional representations of the rotation group
+- [00:13:51,000 - 00:13:56,000] as in any way being related to the quantum states of something?
+- [00:13:56,000 - 00:14:00,000] Well, we've studied spin.
+- [00:14:00,000 - 00:14:03,500] Spin describes the angular momentum
+- [00:14:03,500 - 00:14:07,000] of a particle and so forth.
+- [00:14:07,000 - 00:14:09,000] You can rotate the spin of a particle.
+- [00:14:09,000 - 00:14:12,000] You can take a particle and you can rotate it.
+- [00:14:12,000 - 00:14:15,000] You can put it in a magnetic field, rotate
+- [00:14:15,000 - 00:14:18,000] the magnetic field, and it'll mix up the states.
+- [00:14:18,000 - 00:14:22,000] It'll mix up the states.
+- [00:14:22,000 - 00:14:25,000] We discovered that there were various
+- [00:14:25,000 - 00:14:28,000] angular momentum possibilities for the spin.
+- [00:14:28,000 - 00:14:31,000] There was spin 1⁄2, spin 1, spin 3⁄2.
+- [00:14:31,000 - 00:14:33,000] There was also spin 0.
+- [00:14:33,000 - 00:14:35,000] Spin 0, spin 1⁄2, spin 1.
+- [00:14:35,000 - 00:14:36,000] How many states does a spin have?
+- [00:14:36,000 - 00:14:41,000] How many states does a spin 1 particle have?
+- [00:14:41,000 - 00:14:43,000] Three.
+- [00:14:43,000 - 00:14:46,000] What happens when you take the state of a spin?
+- [00:14:46,000 - 00:14:47,000] What does that mean?
+- [00:14:47,000 - 00:14:49,500] That means that a spin 1 particle, just the
+- [00:14:49,500 - 00:14:52,000] spin of it, nothing but the spin of it,
+- [00:14:52,000 - 00:14:56,500] can be described by a column vector with three entries representing
+- [00:14:56,500 - 00:15:01,000] the amplitude for any one of the three states of the spin.
+- [00:15:01,000 - 00:15:04,000] Suppose you want to rotate that spin.
+- [00:15:04,000 - 00:15:06,000] Well?
+- [00:15:06,000 - 00:15:09,500] Well, in order to rotate that spin, you must multiply it
+- [00:15:09,500 - 00:15:13,000] by some kind of rotation, some sort of operator that rotates it.
+- [00:15:13,000 - 00:15:16,000] Rotate the spin state.
+- [00:15:16,000 - 00:15:18,000] It's got three states.
+- [00:15:18,000 - 00:15:24,500] The rotation matrices or the rotation operators which act on the state vector to
+- [00:15:24,500 - 00:15:31,000] mix up the components must also be a three-dimensional representation of the rotation group.
+- [00:15:31,000 - 00:15:33,000] In fact, it's just that rotation.
+- [00:15:33,000 - 00:15:34,000] It's just that.
+- [00:15:34,000 - 00:15:37,000] So it's often one speaks about
+- [00:15:37,000 - 00:15:40,000] spin 1 particles being vector particles.
+- [00:15:40,000 - 00:15:45,000] What that means is that the three states can be thought of
+- [00:15:45,000 - 00:15:50,000] as being in one-to-one correspondence with the three components of a vector.
+- [00:15:50,000 - 00:15:54,000] And they mix up among themselves the same way as
+- [00:15:54,000 - 00:15:58,000] the components of the quantum states of a spin 1 particle.
+- [00:15:58,000 - 00:15:59,000] All right.
+- [00:15:59,000 - 00:16:01,000] But I want to, I'm interested
+- [00:16:01,000 - 00:16:03,000] now in a spin 1⁄2 particle.
+- [00:16:04,000 - 00:16:08,000] Well, I have a spin 1⁄2 particle.
+- [00:16:08,000 - 00:16:10,000] And I want to know how the
+- [00:16:10,000 - 00:16:12,000] state, anybody want to take a rest?
+- [00:16:12,000 - 00:16:14,000] Let's take a little rest.
+- [00:16:14,000 - 00:16:17,000] We've gone through a lot of material.
+- [00:16:17,000 - 00:16:19,500] I've tried to keep it
+- [00:16:19,500 - 00:16:22,000] as simple as I possibly can.
+- [00:16:22,000 - 00:16:24,500] Incidentally, we've encountered two
+- [00:16:24,500 - 00:16:27,000] different kinds of groups.
+- [00:16:27,000 - 00:16:31,000] Discrete groups and continuous groups.
+- [00:16:31,000 - 00:16:33,000] The group of...
+- [00:16:34,000 - 00:16:38,000] Composed of 1 and p has only two elements.
+- [00:16:38,000 - 00:16:40,000] Only two elements to the group.
+- [00:16:40,000 - 00:16:42,000] And it's sort of discrete.
+- [00:16:42,000 - 00:16:45,000] You can either flip or not flip.
+- [00:16:45,000 - 00:16:47,000] That's all there is.
+- [00:16:47,000 - 00:16:50,500] The rotation group or the multiplication by
+- [00:16:50,500 - 00:16:54,000] e to the i phi is continuous.
+- [00:16:54,000 - 00:16:56,000] Phi can be a continuous variable.
+- [00:16:56,000 - 00:16:59,000] So there's a continuous infinity of elements.
+- [00:16:59,000 - 00:17:01,000] And of course in the rotation group,
+- [00:17:01,000 - 00:17:03,000] there are also a continuous infinity of elements.
+- [00:17:03,000 - 00:17:08,500] So the kind of transformations and the kind of symmetries that
+- [00:17:08,500 - 00:17:14,000] we can think about in physics break up into two kinds.
+- [00:17:14,000 - 00:17:18,000] The discrete symmetries and the continuous symmetries.
+- [00:17:18,000 - 00:17:22,000] Rotation being a continuous symmetry.
+- [00:17:22,000 - 00:17:26,000] Reflection being a discrete symmetry.
+- [00:17:26,000 - 00:17:28,500] The groups that are associated with
+- [00:17:28,500 - 00:17:31,000] continuous symmetries are usually called Lie groups.
+- [00:17:31,000 - 00:17:32,000] L-R-E.
+- [00:17:33,000 - 00:17:36,500] They were first studied in
+- [00:17:36,500 - 00:17:40,000] mathematics by a mathematician named Lie.
+- [00:17:40,000 - 00:17:41,000] L-R-E.
+- [00:17:41,000 - 00:17:44,000] A German mathematician, I guess in the 19th century.
+- [00:17:44,000 - 00:17:49,000] Right.
+- [00:17:49,000 - 00:17:53,000] Arm interests will mainly be in continuous groups.
+- [00:17:53,000 - 00:17:56,500] Although now and then we
+- [00:17:56,500 - 00:18:00,000] might think of a discrete group.
+- [00:18:00,000 - 00:18:01,000] Okay.
+- [00:18:01,000 - 00:18:02,000] Where were we?
+- [00:18:02,000 - 00:18:03,000] Yeah.
+- [00:18:03,000 - 00:18:05,000] I said that for a spin
+- [00:18:05,000 - 00:18:07,000] one particle, which has three states,
+- [00:18:07,000 - 00:18:11,000] the mathematics of rotating around those states is just
+- [00:18:11,000 - 00:18:15,000] the mathematics of the three-dimensional representation of the rotation group.
+- [00:18:15,000 - 00:18:16,500] But then you can ask,
+- [00:18:16,500 - 00:18:18,000] what about spin a half particles?
+- [00:18:18,000 - 00:18:21,000] Well, first of all, what about spin zero particles?
+- [00:18:21,000 - 00:18:26,000] What happens to a spin zero when you rotate it?
+- [00:18:26,000 - 00:18:27,000] Nothing.
+- [00:18:27,000 - 00:18:29,000] There's all that.
+- [00:18:29,000 - 00:18:31,000] So the symmetry group as a whole,
+- [00:18:31,000 - 00:18:34,500] symmetry group as applied to a
+- [00:18:34,500 - 00:18:38,000] spin zero particle, the rotation group,
+- [00:18:38,000 - 00:18:40,500] really only has one element, and
+- [00:18:40,500 - 00:18:43,000] it's the unit element and nothing else.
+- [00:18:43,000 - 00:18:45,500] And its representation is just completely represented
+- [00:18:45,500 - 00:18:48,000] by nothing more than the unit operator.
+- [00:18:48,000 - 00:18:52,000] It's a completely trivial system, the spin zero particle.
+- [00:18:52,000 - 00:18:56,000] The spin a half particle also already has two states.
+- [00:18:56,000 - 00:19:00,000] Now, given a state of the spin a half particle,
+- [00:19:00,000 - 00:19:02,000] what does it mean to be given a state?
+- [00:19:02,000 - 00:19:15,000] It means...
+- [00:19:15,000 - 00:19:19,000] One zero, that's to be identified with up,
+- [00:19:19,000 - 00:19:23,000] and zero one is to be identified with down,
+- [00:19:23,000 - 00:19:29,000] and a general quantum state has a complex number here.
+- [00:19:29,000 - 00:19:30,000] Let's see.
+- [00:19:30,000 - 00:19:33,000] Let's call it alpha one and alpha two.
+- [00:19:33,000 - 00:19:35,000] Two complex numbers.
+- [00:19:35,000 - 00:19:37,000] What do we specify about them?
+- [00:19:37,000 - 00:19:40,500] We specify nothing more than that the
+- [00:19:40,500 - 00:19:44,000] sums of the squared magnitude of them,
+- [00:19:44,000 - 00:19:46,500] alpha one star alpha one plus alpha two
+- [00:19:46,500 - 00:19:49,000] star alpha two should be equal to one.
+- [00:19:49,000 - 00:19:50,000] That's all.
+- [00:19:50,000 - 00:19:53,000] Other than that, it's free to
+- [00:19:53,000 - 00:19:56,000] choose alpha one and alpha two.
+- [00:19:56,000 - 00:19:59,000] If we choose alpha one equal one
+- [00:19:59,000 - 00:20:01,000] and alpha two equal to zero,
+- [00:20:01,000 - 00:20:03,000] then we are talking about a
+- [00:20:03,000 - 00:20:05,000] spin pointing in the up direction.
+- [00:20:05,000 - 00:20:07,000] Now, up of course is relative
+- [00:20:07,000 - 00:20:09,000] to some definition of an axis,
+- [00:20:09,000 - 00:20:13,000] but let's pick our axis, vertical, z-axis.
+- [00:20:13,000 - 00:20:16,000] Then this state represents an up spin.
+- [00:20:16,000 - 00:20:19,000] This state represents a down spin.
+- [00:20:19,000 - 00:20:22,500] And in general, this combination here
+- [00:20:22,500 - 00:20:26,000] represents a spin state in some direction,
+- [00:20:26,000 - 00:20:28,000] a spin oriented in some direction,
+- [00:20:28,000 - 00:20:30,000] which is determined by alpha one and alpha two.
+- [00:20:30,000 - 00:20:32,000] Now, we're not going to do
+- [00:20:32,000 - 00:20:34,000] the algebra figuring all that out,
+- [00:20:34,000 - 00:20:38,000] but we can ask, what if
+- [00:20:38,000 - 00:20:42,000] we take a given spin state,
+- [00:20:42,000 - 00:20:45,000] alpha one and alpha two,
+- [00:20:45,000 - 00:20:47,000] and we rotate it?
+- [00:20:47,000 - 00:20:49,000] Or do we just rotate our coordinates?
+- [00:20:49,000 - 00:20:54,000] Or we physically rotate all the spin states?
+- [00:20:54,000 - 00:20:57,000] We physically rotate the spin
+- [00:20:57,000 - 00:20:59,000] to another axis,
+- [00:20:59,000 - 00:21:02,000] or just whatever the configuration was,
+- [00:21:02,000 - 00:21:04,000] we rotate it.
+- [00:21:04,000 - 00:21:06,000] What do we get?
+- [00:21:06,000 - 00:21:08,500] Well, we have to operate
+- [00:21:08,500 - 00:21:11,000] on this to get something new.
+- [00:21:11,000 - 00:21:15,000] Alpha one prime, alpha two prime.
+- [00:21:15,000 - 00:21:19,000] What do we operate on?
+- [00:21:19,000 - 00:21:20,000] States?
+- [00:21:20,000 - 00:21:23,000] To get new states, we operate with operators,
+- [00:21:23,000 - 00:21:25,000] or with matrices again.
+- [00:21:25,000 - 00:21:28,000] Matrices and the matrix representation.
+- [00:21:28,000 - 00:21:31,000] So, this is going to be some element,
+- [00:21:31,000 - 00:21:34,000] let's call it U, U one one, U one two,
+- [00:21:34,000 - 00:21:39,000] U two one, U two two.
+- [00:21:39,000 - 00:21:43,000] Every rotation can be represented
+- [00:21:43,000 - 00:21:47,000] as a two by two matrix
+- [00:21:47,000 - 00:21:52,000] acting on spinners, on half spin states.
+- [00:21:52,000 - 00:21:54,000] Let's...
+- [00:21:55,000 - 00:22:00,000] see what the properties of such a matrix...
+- [00:22:00,000 - 00:22:02,000] Now, this is just another
+- [00:22:02,000 - 00:22:04,000] representation of the rotation group,
+- [00:22:04,000 - 00:22:06,000] and it's a two by two representation.
+- [00:22:06,000 - 00:22:08,000] There's a subtlety about this, which
+- [00:22:08,000 - 00:22:10,000] I'm not going to get into,
+- [00:22:10,000 - 00:22:13,000] but about some of you may know it,
+- [00:22:13,000 - 00:22:16,000] that the two valuedness of these representations,
+- [00:22:16,000 - 00:22:17,000] not important.
+- [00:22:17,000 - 00:22:20,000] This is going to represent a rotation of
+- [00:22:20,000 - 00:22:24,000] the components of a spinner, of a half spin particle,
+- [00:22:24,000 - 00:22:27,000] when you rotate the directions of space.
+- [00:22:27,000 - 00:22:29,000] Alright, so what's the first thing that's important?
+- [00:22:29,000 - 00:22:31,000] Well, first of all,
+- [00:22:31,000 - 00:22:35,000] when you act on a state,
+- [00:22:35,000 - 00:22:37,000] you should get another state.
+- [00:22:37,000 - 00:22:39,000] If a state is characterized by the
+- [00:22:39,000 - 00:22:41,000] sums of the squares of the elements
+- [00:22:41,000 - 00:22:43,000] being equal to one,
+- [00:22:43,000 - 00:22:44,000] alright, what does that mean?
+- [00:22:44,000 - 00:22:48,000] That means alpha one star alpha one,
+- [00:22:48,000 - 00:22:53,000] plus alpha two star alpha two,
+- [00:22:53,000 - 00:22:55,000] equals one,
+- [00:22:55,000 - 00:22:59,000] then the same should be true after rotation.
+- [00:22:59,000 - 00:23:00,500] So this should equal, well, first
+- [00:23:00,500 - 00:23:02,000] of all, it should be equal one,
+- [00:23:02,000 - 00:23:05,500] but it should also equal alpha
+- [00:23:05,500 - 00:23:09,000] one prime star alpha one prime,
+- [00:23:09,000 - 00:23:13,000] plus dot dot dot, plus the same thing for two.
+- [00:23:13,000 - 00:23:16,000] Well, it's very much, or similar in pattern,
+- [00:23:16,000 - 00:23:18,500] to the fact that the sums of
+- [00:23:18,500 - 00:23:21,000] the squares of the components of a vector
+- [00:23:21,000 - 00:23:22,000] should be conserved under this.
+- [00:23:23,000 - 00:23:25,000] So, if you're going to do a rotation,
+- [00:23:25,000 - 00:23:27,000] the only differences here, we're
+- [00:23:27,000 - 00:23:29,000] dealing with complex numbers here.
+- [00:23:29,000 - 00:23:32,000] The half spin system is described
+- [00:23:32,000 - 00:23:35,000] in terms of complex components here.
+- [00:23:35,000 - 00:23:38,000] Incidentally, let's count components.
+- [00:23:38,000 - 00:23:45,000] Um, if, uh, yeah.
+- [00:23:45,000 - 00:23:50,000] How many components does it take to pick a direction?
+- [00:23:50,000 - 00:23:52,000] Two, right?
+- [00:23:52,000 - 00:23:57,000] How many independent, uh, components are there here?
+- [00:23:57,000 - 00:23:58,000] Four.
+- [00:23:58,000 - 00:23:59,000] Four.
+- [00:23:59,000 - 00:24:00,000] Four.
+- [00:24:00,000 - 00:24:01,000] Four.
+- [00:24:01,000 - 00:24:04,000] They're complex numbers, and they each, uh, pair of them.
+- [00:24:04,000 - 00:24:06,000] But we always know we don't
+- [00:24:06,000 - 00:24:08,000] care about the phase of these things.
+- [00:24:08,000 - 00:24:10,000] The phase of them doesn't matter.
+- [00:24:10,000 - 00:24:13,000] So, dividing through by the phase
+- [00:24:13,000 - 00:24:16,000] and forgetting by the overall phase,
+- [00:24:16,000 - 00:24:18,000] that cuts it down to three.
+- [00:24:18,000 - 00:24:19,500] There are only really
+- [00:24:19,500 - 00:24:21,000] three independent numbers describing, uh,
+- [00:24:21,000 - 00:24:23,000] such a, uh, spinner.
+- [00:24:23,000 - 00:24:25,000] But what else do we require?
+- [00:24:25,000 - 00:24:29,000] Alpha 1 star, alpha 1 plus, and that's one equation.
+- [00:24:29,000 - 00:24:33,000] So, really, there are only two independent things here.
+- [00:24:33,000 - 00:24:35,000] Two independent, uh, things, even
+- [00:24:35,000 - 00:24:37,000] though there are four complex numbers.
+- [00:24:37,000 - 00:24:40,000] One of the, uh, parameters doesn't matter.
+- [00:24:40,000 - 00:24:43,000] The overall phase, it never affects anything.
+- [00:24:43,000 - 00:24:45,000] And the other is the length of the vector,
+- [00:24:45,000 - 00:24:46,500] the sums of the squares
+- [00:24:46,500 - 00:24:48,000] of the, of the, of them,
+- [00:24:48,000 - 00:24:49,000] are always set equal to one.
+- [00:24:49,000 - 00:24:52,000] So, given any pair of components,
+- [00:24:52,000 - 00:24:55,000] or given any spinner like this,
+- [00:24:55,000 - 00:24:59,000] there's always some direction that it's polarized in,
+- [00:24:59,000 - 00:25:00,500] that it's along, that it's,
+- [00:25:00,500 - 00:25:02,000] uh, that its axis is along.
+- [00:25:02,000 - 00:25:04,000] But how do you, what are the rotation,
+- [00:25:04,000 - 00:25:07,000] what are the rotation operators U?
+- [00:25:07,000 - 00:25:10,000] Well, they, first of all, the most important thing,
+- [00:25:10,000 - 00:25:12,000] and the only important thing, really,
+- [00:25:12,000 - 00:25:14,000] is that they have to preserve
+- [00:25:14,000 - 00:25:16,000] the length of any given vector.
+- [00:25:16,000 - 00:25:19,000] Not the length in three-dimensional space,
+- [00:25:19,000 - 00:25:23,000] but the length meaning the total probability here.
+- [00:25:23,000 - 00:25:27,000] That gives rise to a very, very similar condition
+- [00:25:27,000 - 00:25:31,000] to this over here.
+- [00:25:31,000 - 00:25:34,000] It gives rise to a condition which is
+- [00:25:34,000 - 00:25:37,000] very similar to R transpose times R equals one.
+- [00:25:37,000 - 00:25:39,000] I'm not gonna work it out now.
+- [00:25:39,000 - 00:25:41,000] You can work it out yourselves.
+- [00:25:41,000 - 00:25:48,000] It's the condition that U transpose complex conjugate
+- [00:25:48,000 - 00:25:53,000] times U is equal to one.
+- [00:25:53,000 - 00:25:57,000] It's just an extra little complex conjugate,
+- [00:25:57,000 - 00:25:59,000] conjugate,
+- [00:25:59,000 - 00:26:02,000] because when we sum things, we sum them
+- [00:26:02,000 - 00:26:05,000] multiplying by their complex conjugate.
+- [00:26:05,000 - 00:26:09,000] This combination here, the transpose complex conjugated,
+- [00:26:09,000 - 00:26:13,000] is called the Hermitian conjugate.
+- [00:26:13,000 - 00:26:15,000] And it's represented by U dagger.
+- [00:26:15,000 - 00:26:17,000] So we've seen that before.
+- [00:26:17,000 - 00:26:22,000] U dagger, U dagger,
+- [00:26:22,000 - 00:26:28,000] is equal to the transpose complex conjugated.
+- [00:26:28,000 - 00:26:33,000] Transpose means you flip things about the main diagonal.
+- [00:26:33,000 - 00:26:37,000] Complex conjugate, you just complex conjugate every element.
+- [00:26:37,000 - 00:26:41,000] U dagger is equal to U transpose,
+- [00:26:41,000 - 00:26:42,500] I wrote it here, I
+- [00:26:42,500 - 00:26:44,000] don't need to write it again.
+- [00:26:44,000 - 00:26:46,000] So U dagger times U,
+- [00:26:47,000 - 00:26:49,000] is equal to one.
+- [00:26:49,000 - 00:26:52,000] And in fact, that's all we're really gonna need.
+- [00:26:52,000 - 00:26:55,000] There is a two by
+- [00:26:55,000 - 00:26:58,000] two representation of rotations in space.
+- [00:26:58,000 - 00:27:03,000] They're complex matrices, and they're unitary.
+- [00:27:03,000 - 00:27:06,000] This is the condition for a unitary matrix.
+- [00:27:06,000 - 00:27:10,000] How many components does a unitary matrix have?
+- [00:27:10,000 - 00:27:13,000] Can you figure that out?
+- [00:27:13,000 - 00:27:16,000] Well, every, every matrix has a unitary matrix.
+- [00:27:16,000 - 00:27:19,000] Well, every, every, it's a complex matrix.
+- [00:27:22,000 - 00:27:24,000] Eight real components, right?
+- [00:27:24,000 - 00:27:27,000] Eight real components, four complex components.
+- [00:27:27,000 - 00:27:28,000] But no, not quite.
+- [00:27:28,000 - 00:27:30,000] I mean, now there's a bunch of relationships here.
+- [00:27:30,000 - 00:27:32,000] Now, how many relationships is this?
+- [00:27:35,000 - 00:27:37,000] I heard the right answer.
+- [00:27:37,000 - 00:27:38,000] Four.
+- [00:27:38,000 - 00:27:40,000] Why is it four?
+- [00:27:40,000 - 00:27:42,000] Because this is a matrix equation.
+- [00:27:46,000 - 00:27:49,000] And there's a, and there's
+- [00:27:49,000 - 00:27:52,000] a separate equation for each component.
+- [00:27:52,000 - 00:27:54,000] There are four components.
+- [00:27:54,000 - 00:27:56,000] This is four real equations here.
+- [00:27:56,000 - 00:27:58,000] Four real, yeah, four real equations.
+- [00:27:58,000 - 00:28:04,000] And so there are four real equations among eight unknowns.
+- [00:28:04,000 - 00:28:07,000] There are four independent parameters of
+- [00:28:07,000 - 00:28:10,000] a unitary two by two matrix.
+- [00:28:10,000 - 00:28:12,000] Now, that's one too many,
+- [00:28:12,000 - 00:28:14,000] because we've already found that rotations,
+- [00:28:14,000 - 00:28:18,000] how many parameters characterize the rotation?
+- [00:28:18,000 - 00:28:20,000] Three.
+- [00:28:20,000 - 00:28:23,000] The unit vector, which is
+- [00:28:23,000 - 00:28:26,000] two, and the angle was three.
+- [00:28:26,000 - 00:28:30,000] So there's one too many components here.
+- [00:28:30,000 - 00:28:33,000] One too many degrees of freedom
+- [00:28:33,000 - 00:28:36,000] to actually describe the rotation group.
+- [00:28:36,000 - 00:28:39,000] But there was an obvious candidate
+- [00:28:39,000 - 00:28:42,000] for a, for one too many components,
+- [00:28:42,000 - 00:28:44,000] for one more, well, I
+- [00:28:44,000 - 00:28:46,000] don't know how obvious it is,
+- [00:28:46,000 - 00:28:49,000] but there was a candidate for one more
+- [00:28:49,000 - 00:28:52,000] restriction that we can put on these unitary matrices,
+- [00:28:52,000 - 00:28:56,000] which will cut the number of parameters by one more.
+- [00:28:56,000 - 00:28:58,500] And that is to set the
+- [00:28:58,500 - 00:29:01,000] determinant of them equal to one.
+- [00:29:01,000 - 00:29:03,000] Okay.
+- [00:29:03,000 - 00:29:05,000] Why the determinant?
+- [00:29:05,000 - 00:29:10,000] Well, first of all, you can see that,
+- [00:29:10,000 - 00:29:12,000] okay,
+- [00:29:12,000 - 00:29:15,000] the determinant of the product of two
+- [00:29:15,000 - 00:29:18,000] matrices is just the product of the determinants.
+- [00:29:18,000 - 00:29:21,000] Determinant of A times determinant of B
+- [00:29:21,000 - 00:29:24,000] is the determinant of A times B.
+- [00:29:24,000 - 00:29:26,500] So if we were to set the
+- [00:29:26,500 - 00:29:29,000] determinant of every U equal to one,
+- [00:29:29,000 - 00:29:32,000] then at least that would be consistent,
+- [00:29:32,000 - 00:29:33,500] because when we multiply two
+- [00:29:33,500 - 00:29:35,000] U's together to get another U,
+- [00:29:35,000 - 00:29:38,000] we would still have the determinant equal to one.
+- [00:29:38,000 - 00:29:40,000] So it is actually a theorem.
+- [00:29:40,000 - 00:29:41,000] This is very easy to prove.
+- [00:29:41,000 - 00:29:44,000] You can prove this, this is a one-liner basically,
+- [00:29:44,000 - 00:29:47,000] that if you were to take only the matrices,
+- [00:29:47,000 - 00:29:49,000] the unitary matrices,
+- [00:29:49,000 - 00:29:51,000] which have determinant one,
+- [00:29:51,000 - 00:29:54,000] that they form a closed group.
+- [00:29:54,000 - 00:29:56,500] Setting the determinant equal to one
+- [00:29:56,500 - 00:29:59,000] does not destroy the group property,
+- [00:29:59,000 - 00:30:01,000] simply because, first of all,
+- [00:30:01,000 - 00:30:03,000] the unit operator has determinant one,
+- [00:30:03,000 - 00:30:06,000] and since the product of determinants
+- [00:30:06,000 - 00:30:09,000] is the determinant of the product,
+- [00:30:09,000 - 00:30:11,000] there still is a product structure.
+- [00:30:11,000 - 00:30:13,000] So the unit operator is the component of the group.
+- [00:30:13,000 - 00:30:16,000] So one additional equation that one
+- [00:30:16,000 - 00:30:19,000] can impose without destroying the group property,
+- [00:30:19,000 - 00:30:22,000] let's just write it as determinant of U,
+- [00:30:22,000 - 00:30:25,000] determinant I'll indicate by a pair of brackets like that,
+- [00:30:25,000 - 00:30:28,000] is equal to one.
+- [00:30:28,000 - 00:30:30,000] It's also true that the determinant
+- [00:30:30,000 - 00:30:32,000] of U dagger is equal to one.
+- [00:30:32,000 - 00:30:35,000] They're complex conjugates of each other.
+- [00:30:35,000 - 00:30:39,000] So the group of unitary matrices,
+- [00:30:39,000 - 00:30:42,000] two by two unitary matrices,
+- [00:30:42,000 - 00:30:46,000] with the property that every determinant is equal to one,
+- [00:30:46,000 - 00:30:50,000] is first of all a three parameter group.
+- [00:30:50,000 - 00:30:51,500] It has the same number
+- [00:30:51,500 - 00:30:53,000] of parameters as the rotation group.
+- [00:30:53,000 - 00:30:55,000] In fact, it is the rotation group.
+- [00:30:55,000 - 00:30:58,000] There's a subtlety there which I won't get into.
+- [00:30:58,000 - 00:30:59,000] It is the rotation group.
+- [00:30:59,000 - 00:31:03,000] It has the same multiplication table as the rotation group.
+- [00:31:03,000 - 00:31:07,000] It is the rotation group.
+- [00:31:07,000 - 00:31:09,000] But it doesn't act on,
+- [00:31:09,000 - 00:31:11,000] it doesn't act on the vectors.
+- [00:31:11,000 - 00:31:15,000] It acts on the states of a spin-half system.
+- [00:31:15,000 - 00:31:17,000] So we've discovered something.
+- [00:31:17,000 - 00:31:19,000] We've discovered that there are two
+- [00:31:19,000 - 00:31:21,000] by two representations of the rotation group.
+- [00:31:21,000 - 00:31:22,000] I have a question.
+- [00:31:22,000 - 00:31:23,000] Yeah.
+- [00:31:23,000 - 00:31:25,000] The determinant of the U
+- [00:31:25,000 - 00:31:27,000] dagger is the same as the...
+- [00:31:27,000 - 00:31:29,000] No, it's a complex conjugate
+- [00:31:29,000 - 00:31:31,000] of it if it's not one.
+- [00:31:31,000 - 00:31:36,000] If U is not one, it's a complex conjugate.
+- [00:31:36,000 - 00:31:37,000] Yeah.
+- [00:31:37,000 - 00:31:38,000] But if you have the
+- [00:31:38,000 - 00:31:39,000] equation U dagger U equals I,
+- [00:31:39,000 - 00:31:45,000] then, I mean, ignoring the determinant condition...
+- [00:31:45,000 - 00:31:47,500] That says the determinant of U times
+- [00:31:47,500 - 00:31:50,000] the determinant of U dagger is one.
+- [00:31:50,000 - 00:31:52,000] That says the determinant of U dagger...
+- [00:31:52,000 - 00:31:54,000] It has to be one or minus one?
+- [00:31:54,000 - 00:31:55,000] No.
+- [00:31:55,000 - 00:31:56,500] It has to be, it can be e to
+- [00:31:56,500 - 00:31:58,000] the i theta and e to the minus i theta.
+- [00:31:58,000 - 00:31:59,000] Okay.
+- [00:31:59,000 - 00:32:00,000] Yeah.
+- [00:32:00,000 - 00:32:01,000] Okay, but now we have fixed it.
+- [00:32:01,000 - 00:32:02,500] We have fixed it so that
+- [00:32:02,500 - 00:32:04,000] the determinant is equal to one.
+- [00:32:04,000 - 00:32:05,000] All right.
+- [00:32:05,000 - 00:32:07,000] The group,
+- [00:32:07,000 - 00:32:08,000] definition,
+- [00:32:08,000 - 00:32:13,000] the group of n by n
+- [00:32:13,000 - 00:32:18,000] unitary matrices is called U .
+- [00:32:18,000 - 00:32:23,000] A special case is one by one unitary matrices.
+- [00:32:23,000 - 00:32:24,000] That's U .
+- [00:32:24,000 - 00:32:26,000] That's that thing up there.
+- [00:32:26,000 - 00:32:27,000] All right.
+- [00:32:27,000 - 00:32:31,500] The group of unitary matrices with determinant
+- [00:32:31,500 - 00:32:36,000] one is called the special unitary group.
+- [00:32:36,000 - 00:32:39,000] S, U, n.
+- [00:32:39,000 - 00:32:40,000] S, U, n.
+- [00:32:40,000 - 00:32:42,000] Special unitary group.
+- [00:32:42,000 - 00:32:46,000] It plays an enormous role in physics.
+- [00:32:46,000 - 00:32:50,000] S, U, n.
+- [00:32:50,000 - 00:32:54,000] Special unitary n by n matrices.
+- [00:32:54,000 - 00:32:55,000] Okay.
+- [00:32:55,000 - 00:32:59,000] So this group here, which acts on the
+- [00:32:59,000 - 00:33:03,000] two components of a spinner, is S U 2.
+- [00:33:03,000 - 00:33:04,000] That's S U 2.
+- [00:33:04,000 - 00:33:12,000] Let's go one step further before we turn to quarks.
+- [00:33:12,000 - 00:33:14,000] One step further.
+- [00:33:14,000 - 00:33:15,000] Is everybody happy with this?
+- [00:33:15,000 - 00:33:16,000] Yeah.
+- [00:33:16,000 - 00:33:19,000] I was just wondering where the spin matrices
+- [00:33:19,000 - 00:33:22,000] that we discussed last semester would come in.
+- [00:33:22,000 - 00:33:24,000] The spin matrices, the sigmas.
+- [00:33:24,000 - 00:33:26,000] You're talking about the sigmas.
+- [00:33:26,000 - 00:33:31,000] S, X commuted with S, Y equals I, S, Z.
+- [00:33:31,000 - 00:33:32,000] Yeah.
+- [00:33:32,000 - 00:33:33,000] Yeah.
+- [00:33:33,000 - 00:33:34,000] That is a good question.
+- [00:33:34,000 - 00:33:35,000] I will tell you.
+- [00:33:35,000 - 00:33:36,000] I'll tell you right now then.
+- [00:33:36,000 - 00:33:37,000] Okay.
+- [00:33:37,000 - 00:33:38,000] Good.
+- [00:33:38,000 - 00:33:43,000] Let's do that right now.
+- [00:33:43,000 - 00:33:48,000] All right.
+- [00:33:48,000 - 00:33:53,000] There were the matrices S, 1, 2, and 3,
+- [00:33:53,000 - 00:33:58,000] and they were actually just half the Pauli matrices.
+- [00:33:58,000 - 00:33:59,000] I'll assume you're right.
+- [00:33:59,000 - 00:34:00,000] I'm sorry.
+- [00:34:00,000 - 00:34:01,000] I'm sorry.
+- [00:34:01,000 - 00:34:02,000] I'm sorry.
+- [00:34:02,000 - 00:34:03,000] I'm sorry.
+- [00:34:03,000 - 00:34:04,000] I'm sorry.
+- [00:34:04,000 - 00:34:05,000] I don't even remember what the Pauli matrices are.
+- [00:34:05,000 - 00:34:06,000] Okay.
+- [00:34:06,000 - 00:34:10,000] Think about group elements which
+- [00:34:10,000 - 00:34:14,000] are very close to the identity.
+- [00:34:14,000 - 00:34:18,000] That means rotations by very small angles.
+- [00:34:18,000 - 00:34:20,000] Rotations by very, very small angles.
+- [00:34:20,000 - 00:34:23,500] The operators or the matrices should be
+- [00:34:23,500 - 00:34:27,000] very close to the unit operator, right?
+- [00:34:27,000 - 00:34:29,000] So we should be able to write those.
+- [00:34:29,000 - 00:34:32,000] The special case of small rotations.
+- [00:34:32,000 - 00:34:35,849] small rotations, we should be able to write them
+- [00:34:35,849 - 00:34:39,699] as having unitary matrices which are close to 1.
+- [00:34:39,699 - 00:34:43,269] 1 plus something small, and then to
+- [00:34:43,269 - 00:34:46,840] indicate small, let's put an epsilon there.
+- [00:34:46,840 - 00:34:51,520] Epsilon times some matrix, okay?
+- [00:34:51,520 - 00:34:55,380] Epsilon times some matrix.
+- [00:34:55,380 - 00:35:00,420] Let's first ask what is the condition that, yeah, now
+- [00:35:00,420 - 00:35:05,460] we want to know what's the condition that U is unitary.
+- [00:35:05,460 - 00:35:07,140] Alright, so let's find out.
+- [00:35:07,140 - 00:35:12,060] Let's multiply U times U dagger.
+- [00:35:12,060 - 00:35:14,620] U dagger, this is not V, this is U dagger.
+- [00:35:14,620 - 00:35:18,140] Let's multiply it by U dagger.
+- [00:35:18,140 - 00:35:23,700] 1 plus epsilon M dagger.
+- [00:35:23,700 - 00:35:25,360] The Hermitian conjugate of 1.
+- [00:35:25,360 - 00:35:26,800] 1 is just 1.
+- [00:35:26,800 - 00:35:29,330] I'm taking epsilon, well, let's see, we'll
+- [00:35:29,330 - 00:35:31,860] take epsilon to be real for the moment.
+- [00:35:31,860 - 00:35:33,760] Let it be, it's just a small number.
+- [00:35:33,760 - 00:35:36,440] It's just a small number to indicate smallness.
+- [00:35:36,440 - 00:35:40,000] Anything complex can go into these M's here.
+- [00:35:40,000 - 00:35:45,540] And this is going to be 1 plus M dagger.
+- [00:35:45,540 - 00:35:48,480] And this should be equal to 1.
+- [00:35:48,480 - 00:35:50,970] Alright, when we multiply this out, I'll
+- [00:35:50,970 - 00:35:53,460] only keep things to linear order in epsilon.
+- [00:35:53,460 - 00:35:55,340] We're going to drop things to quadratic order in epsilon.
+- [00:35:55,340 - 00:35:59,960] And that says that epsilon M
+- [00:35:59,960 - 00:36:04,580] plus M dagger is equal to 0.
+- [00:36:04,580 - 00:36:06,930] We have 1 times 1
+- [00:36:06,930 - 00:36:09,280] over here, which cancels this 1.
+- [00:36:09,280 - 00:36:10,860] Quadratic things we don't care about.
+- [00:36:10,860 - 00:36:14,580] We have epsilon M plus M dagger
+- [00:36:14,580 - 00:36:18,300] is equal to 0, since the 1's cancelled.
+- [00:36:18,300 - 00:36:21,500] In other words, what it says is that
+- [00:36:21,500 - 00:36:24,700] whatever M is, it should be minus M.
+- [00:36:24,700 - 00:36:29,700] Minus its Hermitian conjugate.
+- [00:36:29,700 - 00:36:30,700] Okay.
+- [00:36:30,700 - 00:36:34,100] Now if we, this is called anti-Hermitian.
+- [00:36:34,100 - 00:36:38,180] The thing which has this property is called anti-Hermitian.
+- [00:36:38,180 - 00:36:40,469] Can we make something Hermitian
+- [00:36:40,469 - 00:36:42,759] out of something that's anti-Hermitian?
+- [00:36:42,759 - 00:36:44,040] Just multiply it by I.
+- [00:36:44,040 - 00:36:45,960] Let's think about putting an I in here.
+- [00:36:45,960 - 00:36:47,510] Let's go from the beginning
+- [00:36:47,510 - 00:36:49,060] and put an I in here.
+- [00:36:49,060 - 00:36:51,240] What do we do over here?
+- [00:36:51,240 - 00:36:52,540] Minus I.
+- [00:36:52,540 - 00:36:54,540] Hermitian conjugation always involves...
+- [00:36:54,700 - 00:36:58,259] Complex conjugation among other things.
+- [00:36:58,259 - 00:37:01,129] If we did that, then we would get M
+- [00:37:01,129 - 00:37:04,000] minus M dagger equals 0, because of this relative
+- [00:37:04,000 - 00:37:05,600] minus sign.
+- [00:37:05,600 - 00:37:07,939] And then we would find that M equals M dagger.
+- [00:37:07,939 - 00:37:11,339] In other words, if we incorporated an I
+- [00:37:11,339 - 00:37:14,740] into the definition here, then M would be Hermitian.
+- [00:37:14,740 - 00:37:18,740] M is a Hermitian 2 by 2 matrix, right?
+- [00:37:18,740 - 00:37:22,160] It's a Hermitian 2 by 2 matrix.
+- [00:37:22,160 - 00:37:24,700] How many Hermitian 2 by 2 matrices are there?
+- [00:37:24,700 - 00:37:27,200] How do you make a Hermitian 2 by 2 matrix?
+- [00:37:27,200 - 00:37:28,200] Oh, something else.
+- [00:37:28,200 - 00:37:29,939] What about the determinant?
+- [00:37:29,939 - 00:37:35,600] What's the condition that the determinant is equal to 1?
+- [00:37:35,600 - 00:37:38,200] This is a little trickier.
+- [00:37:38,200 - 00:37:42,500] Yeah, what is the condition?
+- [00:37:42,500 - 00:37:44,200] Oh, oh, oh, I know.
+- [00:37:44,200 - 00:37:46,200] Mm-hmm.
+- [00:37:46,200 - 00:37:48,200] Okay, yeah.
+- [00:37:48,200 - 00:37:51,200] Let's just write this in the following way.
+- [00:37:51,200 - 00:37:52,299] It's 1 plus I.
+- [00:37:52,299 - 00:37:52,700] I.
+- [00:37:52,700 - 00:37:53,200] M.
+- [00:37:53,200 - 00:37:53,500] I.
+- [00:37:53,500 - 00:37:53,700] M.
+- [00:37:53,700 - 00:37:54,000] I.
+- [00:37:54,000 - 00:37:54,100] M.
+- [00:37:54,100 - 00:37:54,299] I.
+- [00:37:54,299 - 00:37:54,500] M.
+- [00:37:54,500 - 00:37:54,600] M.
+- [00:37:54,600 - 00:37:54,700] M.
+- [00:37:54,700 - 00:37:55,700] M.
+- [00:37:55,700 - 00:37:56,000] M.
+- [00:37:56,000 - 00:37:56,100] M.
+- [00:37:56,100 - 00:37:56,200] M.
+- [00:37:56,200 - 00:37:56,339] M.
+- [00:37:56,339 - 00:37:56,399] M.
+- [00:37:56,399 - 00:37:56,700] M.
+- [00:37:56,700 - 00:37:56,740] M.
+- [00:37:56,740 - 00:37:56,799] M.
+- [00:37:56,799 - 00:37:56,899] M.
+- [00:37:56,899 - 00:37:57,000] M.
+- [00:37:57,000 - 00:37:57,200] M.
+- [00:37:57,200 - 00:37:57,299] M.
+- [00:37:57,299 - 00:37:57,399] M.
+- [00:37:57,399 - 00:37:58,399] M.
+- [00:37:58,399 - 00:37:58,500] M.
+- [00:37:58,500 - 00:37:58,700] M.
+- [00:37:58,700 - 00:37:58,759] M.
+- [00:37:58,759 - 00:37:58,899] M.
+- [00:37:58,899 - 00:37:59,000] M.
+- [00:37:59,000 - 00:37:59,100] M.
+- [00:37:59,100 - 00:37:59,200] M.
+- [00:37:59,200 - 00:37:59,299] M.
+- [00:37:59,299 - 00:37:59,399] M.
+- [00:37:59,399 - 00:37:59,700] M.
+- [00:37:59,700 - 00:37:59,740] M.
+- [00:37:59,740 - 00:37:59,799] M.
+- [00:37:59,799 - 00:38:02,339] And then order epsilon squared.
+- [00:38:02,339 - 00:38:05,439] So let's forget order epsilon squared.
+- [00:38:08,439 - 00:38:12,460] This is the determinant of 1 plus a small matrix.
+- [00:38:12,460 - 00:38:14,899] Do you know what the determinant
+- [00:38:14,899 - 00:38:17,339] of 1 plus a small matrix is?
+- [00:38:17,339 - 00:38:20,560] Anybody know?
+- [00:38:23,100 - 00:38:24,299] It is 1 plus a small number.
+- [00:38:24,299 - 00:38:24,500] The question is, why is that?
+- [00:38:24,500 - 00:38:26,500] The question is what is the small number?
+- [00:38:26,500 - 00:38:29,500] E to something, could you approximate that?
+- [00:38:29,500 - 00:38:31,500] Well you could, you could do
+- [00:38:31,500 - 00:38:33,500] that. It's easier than that though.
+- [00:38:33,500 - 00:38:37,500] Yeah, let's look at it. Let's do it.
+- [00:38:37,500 - 00:38:47,000] 1, 1, and then a small matrix, plus
+- [00:38:47,000 - 00:38:56,500] m11, plus m12, m21, and 1 plus m22.
+- [00:38:56,500 - 00:38:59,000] I haven't put the epsilon in, but
+- [00:38:59,000 - 00:39:01,500] we'll just treat m as a small thing.
+- [00:39:01,500 - 00:39:03,500] Let m be a small thing.
+- [00:39:03,500 - 00:39:05,500] Alright, what's the determinant?
+- [00:39:05,500 - 00:39:07,500] The determinant is this times this minus this times this.
+- [00:39:07,500 - 00:39:12,500] This times this is quadratic in small numbers.
+- [00:39:12,500 - 00:39:14,500] It doesn't matter.
+- [00:39:14,500 - 00:39:19,500] m11 times m22 is quadratic in small numbers,
+- [00:39:19,500 - 00:39:22,500] but there is a piece here which
+- [00:39:22,500 - 00:39:25,500] is 1 times m22 plus m11 times 1.
+- [00:39:25,500 - 00:39:28,500] What is that? That's m11 plus m22.
+- [00:39:28,500 - 00:39:29,500] Trace.
+- [00:39:29,500 - 00:39:31,500] Trace. The trace of m.
+- [00:39:31,500 - 00:39:33,500] The trace of m.
+- [00:39:33,500 - 00:39:36,500] So the determinant of 1 plus a small matrix
+- [00:39:36,500 - 00:39:37,500] is m12 plus m22.
+- [00:39:37,500 - 00:39:40,000] So m12 plus m22 is basically
+- [00:39:40,000 - 00:39:42,500] just a trace of the small matrix.
+- [00:39:42,500 - 00:39:47,500] So, yeah, the m's have to, the bottom
+- [00:39:47,500 - 00:39:52,500] line is the m's have to be traceless.
+- [00:39:52,500 - 00:39:54,000] Yeah, the bottom line is
+- [00:39:54,000 - 00:39:55,500] the m's have to be traceless.
+- [00:39:55,500 - 00:39:58,500] That's, that's, that we can prove.
+- [00:39:58,500 - 00:40:02,500] Alright, so we have, we have
+- [00:40:02,500 - 00:40:06,500] to construct a Hermitian small matrix,
+- [00:40:06,500 - 00:40:08,500] which is traceless.
+- [00:40:08,500 - 00:40:09,500] Alright.
+- [00:40:09,500 - 00:40:11,500] That's exactly what these sigmas are.
+- [00:40:11,500 - 00:40:15,500] They are the traceless 2 by 2 Hermitian matrices.
+- [00:40:15,500 - 00:40:18,500] Any traceless 2 by 2 Hermitian matrix can
+- [00:40:18,500 - 00:40:21,500] be written as a sum of sigma matrices.
+- [00:40:21,500 - 00:40:25,000] So these m's here are
+- [00:40:25,000 - 00:40:28,500] simply linear combinations of the sigmas.
+- [00:40:28,500 - 00:40:32,000] The particular linear combination that you choose
+- [00:40:32,000 - 00:40:35,500] will depend on the axis of rotation.
+- [00:40:35,500 - 00:40:38,000] If you want to make a small rotation
+- [00:40:38,000 - 00:40:40,500] about the x-axis, you'll put sigma x here.
+- [00:40:40,500 - 00:40:43,000] If you want to make a small rotation about
+- [00:40:43,000 - 00:40:45,500] the y-axis, you'll put sigma y there, and so forth.
+- [00:40:45,500 - 00:40:48,000] If you want to make a small rotation about
+- [00:40:48,000 - 00:40:50,500] the linear combination of the x and y axes,
+- [00:40:50,500 - 00:40:52,000] in other words, the 45
+- [00:40:52,000 - 00:40:53,500] degrees, you'll put the linear combination.
+- [00:40:53,500 - 00:40:55,500] That's the connection between the
+- [00:40:55,500 - 00:40:57,500] sigmas and the rotation matrices.
+- [00:40:57,500 - 00:41:02,500] They're the representations of the small rotations.
+- [00:41:02,500 - 00:41:03,500] Okay, the last thing is
+- [00:41:03,500 - 00:41:04,500] how to write a small matrix.
+- [00:41:04,500 - 00:41:08,500] The last thing is how to combine.
+- [00:41:08,500 - 00:41:09,500] You know what?
+- [00:41:09,500 - 00:41:13,500] I think I'm going to wait until next week
+- [00:41:13,500 - 00:41:17,500] to talk about combining representations and just jump to quarks.
+- [00:41:17,500 - 00:41:21,500] Let's get off the mathematics for a moment or two.
+- [00:41:21,500 - 00:41:24,500] We only have a moment or two.
+- [00:41:24,500 - 00:41:31,500] So let's talk about quarks.
+- [00:41:31,500 - 00:41:34,500] Now, we're not interested in the spin of quarks.
+- [00:41:34,500 - 00:41:38,500] Well, we are interested in the spin of quarks.
+- [00:41:38,500 - 00:41:40,500] It's a spin and a half, but
+- [00:41:40,500 - 00:41:42,500] that's not what we're talking about now.
+- [00:41:42,500 - 00:41:45,500] I'm interested in the color of quarks.
+- [00:41:45,500 - 00:41:49,500] And the color of quarks is described
+- [00:41:49,500 - 00:41:53,500] by a three-state system, red, green, or blue.
+- [00:41:53,500 - 00:41:55,500] So if I had a single quark, that
+- [00:41:55,500 - 00:41:57,500] quark could be in one of three states.
+- [00:41:57,500 - 00:42:00,500] Just as a spin could be in one of two
+- [00:42:00,500 - 00:42:03,500] states, the quark color can either be red, green, or blue.
+- [00:42:04,500 - 00:42:06,500] And so we could describe the
+- [00:42:06,500 - 00:42:08,500] state of a quark by three entries.
+- [00:42:08,500 - 00:42:12,500] The three entries will correspond to red, green, and blue.
+- [00:42:12,500 - 00:42:14,500] But, you know, an alpha one,
+- [00:42:14,500 - 00:42:16,500] an alpha two, an alpha three.
+- [00:42:16,500 - 00:42:21,500] And the sum, the squares of alphas will just be the probability
+- [00:42:21,500 - 00:42:26,500] that it's a red quark, a green quark, or a blue quark.
+- [00:42:26,500 - 00:42:31,500] And what are the possible symmetries?
+- [00:42:31,500 - 00:42:33,500] Oh, and another thing we can say.
+- [00:42:33,500 - 00:42:37,500] Let me just go one step further and
+- [00:42:37,500 - 00:42:41,500] say we could also think of the three fields.
+- [00:42:41,500 - 00:42:45,500] The field operator for a red quark, the field operator for
+- [00:42:45,500 - 00:42:49,500] a green quark, and the field operator for a blue quark.
+- [00:42:49,500 - 00:42:54,500] And assemble them also in a vector like this.
+- [00:42:54,500 - 00:42:57,500] What kind of symmetries can
+- [00:42:57,500 - 00:43:00,500] we imagine among the three quarks?
+- [00:43:00,500 - 00:43:03,500] We can imagine, first of all, certain discrete symmetries.
+- [00:43:03,500 - 00:43:05,000] We can imagine the
+- [00:43:05,000 - 00:43:06,500] discrete symmetries which interchange them.
+- [00:43:06,500 - 00:43:09,000] Interchange red and green, or interchange
+- [00:43:09,000 - 00:43:11,500] green and blue, or so forth.
+- [00:43:11,500 - 00:43:14,500] But we can imagine a larger family that includes that.
+- [00:43:14,500 - 00:43:20,000] Incidentally, these rotation matrices here
+- [00:43:20,000 - 00:43:25,500] happen to include the matrix .
+- [00:43:25,500 - 00:43:29,500] This matrix here is a special unitary matrix.
+- [00:43:29,500 - 00:43:31,500] So among these rotation matrices is a matrix.
+- [00:43:31,500 - 00:43:32,500] So among these rotation matrices is a matrix.
+- [00:43:32,500 - 00:43:33,500] So among these rotation matrices is a matrix.
+- [00:43:33,500 - 00:43:34,500] So among these rotation matrices is a matrix.
+- [00:43:34,500 - 00:43:37,500] This is a matrix which interchanges up and down.
+- [00:43:37,500 - 00:43:41,000] This means that the interchange group is
+- [00:43:41,000 - 00:43:44,500] a subgroup of the full rotation group.
+- [00:43:44,500 - 00:43:46,500] It happens to be a rotation group.
+- [00:43:46,500 - 00:43:53,500] Yeah, determinant though.
+- [00:43:53,500 - 00:43:55,000] I think we have to put an
+- [00:43:55,000 - 00:43:56,500] i in there some ways, don't we?
+- [00:43:56,500 - 00:43:58,500] Yeah, we have to put an i in to...
+- [00:43:58,500 - 00:44:00,500] Yeah.
+- [00:44:00,500 - 00:44:01,500] Yeah.
+- [00:44:01,500 - 00:44:02,500] Yeah.
+- [00:44:02,500 - 00:44:03,500] Yeah.
+- [00:44:03,500 - 00:44:04,500] Yeah.
+- [00:44:04,500 - 00:44:05,500] That's right.
+- [00:44:05,500 - 00:44:07,500] Yeah, to give it a determinant one.
+- [00:44:07,500 - 00:44:08,500] That's right.
+- [00:44:08,500 - 00:44:11,500] So the permutation of two things
+- [00:44:11,500 - 00:44:14,500] is a special case of rotations.
+- [00:44:14,500 - 00:44:16,500] It's not the...
+- [00:44:16,500 - 00:44:17,500] All right.
+- [00:44:17,500 - 00:44:20,500] Is there anything more complicated that we could do?
+- [00:44:20,500 - 00:44:22,500] Yeah, there is.
+- [00:44:22,500 - 00:44:26,500] The more complicated thing we can imagine is unitary...
+- [00:44:26,500 - 00:44:27,500] No, it's not unitary.
+- [00:44:27,500 - 00:44:28,500] It's not unitary.
+- [00:44:28,500 - 00:44:29,500] It's unitary.
+- [00:44:29,500 - 00:44:30,500] It's unitary.
+- [00:44:30,500 - 00:44:31,500] It's unitary.
+- [00:44:31,500 - 00:44:32,500] It's unitary.
+- [00:44:32,500 - 00:44:33,500] It's unitary.
+- [00:44:33,500 - 00:44:34,500] It's unitary.
+- [00:44:34,500 - 00:44:35,500] It's unitary.
+- [00:44:35,500 - 00:44:36,500] It's unitary.
+- [00:44:36,500 - 00:44:37,500] It's unitary.
+- [00:44:37,500 - 00:44:38,500] It's unitary.
+- [00:44:38,500 - 00:44:39,000] Now, it's not obvious that there
+- [00:44:39,000 - 00:44:39,500] is such a symmetry in nature.
+- [00:44:39,500 - 00:44:40,000] Well, I'll tell you there
+- [00:44:40,000 - 00:44:40,500] is such a symmetry in nature.
+- [00:44:40,500 - 00:44:42,000] And in fact, it's the whole point of
+- [00:44:42,000 - 00:44:43,500] having color here, is that it adds another symmetry
+- [00:44:43,500 - 00:44:44,500] to physics.
+- [00:44:44,500 - 00:44:47,000] An important symmetry, that symmetry will play
+- [00:44:47,000 - 00:44:49,500] a very important role in the properties
+- [00:44:49,500 - 00:44:52,500] of quantum chromodynamics.
+- [00:44:52,500 - 00:44:56,000] But the symmetry is the multiplication of
+- [00:44:56,000 - 00:44:59,500] the three components, red, green, and blue,
+- [00:44:59,500 - 00:45:03,560] by special unitary 3x3 matrices.
+- [00:45:04,940 - 00:45:07,540] Same mathematics as appeared here,
+- [00:45:07,940 - 00:45:10,920] except the mathematics involves 3x3 matrices.
+- [00:45:14,140 - 00:45:16,500] I won't fill in all the components,
+- [00:45:18,040 - 00:45:19,800] but, you know, it's U11 dot dot
+- [00:45:19,800 - 00:45:21,560] dot dot dot dot dot dot dot.
+- [00:45:22,220 - 00:45:23,460] 3x3 matrices.
+- [00:45:23,460 - 00:45:29,320] Special unitary matrices.
+- [00:45:29,520 - 00:45:30,720] Determinant 1, again.
+- [00:45:31,820 - 00:45:34,700] The special, that's called SU3.
+- [00:45:35,640 - 00:45:37,260] This is the group SU3.
+- [00:45:43,440 - 00:45:45,280] Now, I'll tell you right now from the start,
+- [00:45:45,800 - 00:45:47,660] it is believed, in
+- [00:45:47,660 - 00:45:49,520] fact, it's mathematically absolutely required
+- [00:45:49,520 - 00:45:53,100] that physics is invariant under this SU3 operation.
+- [00:45:53,460 - 00:45:54,730] In other words, it's a kind
+- [00:45:54,730 - 00:45:56,000] of mixing up of the quarks,
+- [00:45:56,820 - 00:45:58,340] which, of the colors of the quarks,
+- [00:45:58,420 - 00:46:00,310] which is analogous to the mixing up
+- [00:46:00,310 - 00:46:02,200] of the components of up and down,
+- [00:46:02,560 - 00:46:04,430] which is also analogous to
+- [00:46:04,430 - 00:46:06,300] the mixing up of the directions,
+- [00:46:06,460 - 00:46:07,540] the three directions of space.
+- [00:46:07,640 - 00:46:09,540] But this is not ordinary rotations.
+- [00:46:10,400 - 00:46:12,260] This is special unitary matrices.
+- [00:46:12,400 - 00:46:13,300] How many special unitary,
+- [00:46:13,300 - 00:46:15,560] let's count the number of special unitary matrices.
+- [00:46:15,740 - 00:46:16,880] Let's count the number of parameters.
+- [00:46:17,640 - 00:46:19,340] How many parameters to describe
+- [00:46:19,340 - 00:46:21,040] a special unitary 3x3 matrix?
+- [00:46:24,820 - 00:46:27,440] Okay, right.
+- [00:46:28,160 - 00:46:29,740] 18 minus 9 minus 1.
+- [00:46:30,200 - 00:46:31,380] Okay, why 18?
+- [00:46:31,680 - 00:46:33,640] You've got 9 elements,
+- [00:46:34,000 - 00:46:35,920] 9 complex elements, that's 18.
+- [00:46:36,820 - 00:46:37,060] Okay.
+- [00:46:37,600 - 00:46:39,040] You have the equations
+- [00:46:39,040 - 00:46:41,580] U dagger U equals 1.
+- [00:46:41,820 - 00:46:43,240] There are 9 such equations,
+- [00:46:43,360 - 00:46:45,920] 1 for each entry in the matrix here.
+- [00:46:46,380 - 00:46:47,760] So that's 18 minus 9.
+- [00:46:47,760 - 00:46:49,960] And then we set the determinant equal to 1.
+- [00:46:50,280 - 00:46:52,800] 18 minus 9 minus 1 is 8.
+- [00:46:52,900 - 00:46:53,440] Indepth.
+- [00:46:53,460 - 00:46:56,890] independent, it's an eight parameter group, just like
+- [00:46:56,890 - 00:47:00,320] the rotation group is a three parameter group.
+- [00:47:00,600 - 00:47:02,600] So there's an eight parameter
+- [00:47:02,680 - 00:47:04,680] family of rotations.
+- [00:47:04,780 - 00:47:07,250] I bet you're wondering what that eight has to do
+- [00:47:07,250 - 00:47:09,720] with the fact that there are eight gluons, aren't you?
+- [00:47:10,280 - 00:47:12,460] Yeah, it's the same fact. Yeah.
+- [00:47:13,360 - 00:47:15,360] Yeah, it's the same fact,
+- [00:47:15,380 - 00:47:17,380] but we will come to it.
+- [00:47:17,380 - 00:47:21,490] All right, why aren't there nine gluons? Because we threw away the
+- [00:47:21,490 - 00:47:25,600] determinant. That doesn't make any sense at all, but it's true anyway.
+- [00:47:27,760 - 00:47:29,760] Yep, it is true.
+- [00:47:32,060 - 00:47:35,280] Yeah, so special unitary three by three
+- [00:47:36,460 - 00:47:40,440] matrices are a particular representation of SU , but SU
+- [00:47:40,440 - 00:47:44,420] is the symmetry group, the basic symmetry group of quantum
+- [00:47:44,840 - 00:47:46,660] chromodynamics. And
+- [00:47:46,660 - 00:47:47,360] just like
+- [00:47:47,360 - 00:47:48,860] quantum
+- [00:47:48,860 - 00:47:50,160] electrodynamics
+- [00:47:50,160 - 00:47:52,820] was invariant under this operation
+- [00:47:52,820 - 00:47:55,480] here, and that told us that
+- [00:47:55,980 - 00:47:57,880] only the only in the Lagrangian,
+- [00:47:57,880 - 00:47:59,780] only things with the same number of
+- [00:48:01,480 - 00:48:03,800] psi's and psi daggers can enter.
+- [00:48:04,560 - 00:48:07,300] The idea that the Lagrangian is
+- [00:48:07,300 - 00:48:10,040] invariant under SU also has profound
+- [00:48:10,600 - 00:48:12,180] consequences for the structure, for
+- [00:48:12,180 - 00:48:13,760] the symmetries, for the conservation laws.
+- [00:48:14,500 - 00:48:16,500] And so the rule is every
+- [00:48:16,500 - 00:48:20,650] possible term in the Lagrangian of quantum chromodynamics, of
+- [00:48:20,650 - 00:48:24,800] quark physics, should be invariant under this group here.
+- [00:48:25,620 - 00:48:28,040] We'll come back and we'll start to talk
+- [00:48:28,040 - 00:48:30,460] about how you construct quantum chromodynamics a little bit.
+- [00:48:32,000 - 00:48:34,000] I
+- [00:48:34,580 - 00:48:36,140] think we're probably finished
+- [00:48:36,140 - 00:48:37,700] for tonight. I'm certainly finished.
+- [00:48:38,740 - 00:48:41,430] I had intended to go a little bit further tonight and tell
+- [00:48:41,430 - 00:48:44,120] you a little more, but I think that was quite a lot.
+- [00:48:44,120 - 00:48:46,120] I think that was quite a lot.
+- [00:48:46,500 - 00:48:50,500] And I don't know how many of you followed, how many of you didn't follow,
+- [00:48:50,500 - 00:48:54,500] but I hope you at least get the flavor, if not the color of what the...
+- [00:48:54,500 - 00:48:56,500] All right, okay.
+- [00:48:56,500 - 00:48:59,950] We'll go a little bit further with this, but then we'll get
+- [00:48:59,950 - 00:49:03,400] back to some things that can be understood without too much mathematics.
+- [00:49:05,200 - 00:49:08,600] For more, please visit us at stanford.edu.
